@@ -1,0 +1,82 @@
+---
+sr: "0.922.934.9"
+title: "Convenzione del 31 ottobre 1884 tra la Svizzera e la Francia per la repressione dei delitti di caccia nei boschi confinari, addizionale alla Convenzione del 23 febbraio 1882 sui rapporti di vicinato e sulla sorveglianza delle foreste limitrofe"
+eli: "https://fedlex.data.admin.ch/eli/cc/8/183_179_183"
+language: it
+version: 1885-08-07
+adopted: 1884-10-31
+in_force: 1885-08-07
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/8/183_179_183/18850807/it/xml/fedlex-data-admin-ch-eli-cc-8-183_179_183-18850807-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/8/183_179_183/18850807/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione tra la Svizzera e la Francia per la repressione dei delitti di caccia nei boschi confinari, addizionale alla Convenzione del 23 febbraio 1882**** sui rapporti di vicinato e sulla sorveglianza delle foreste limitrofe****
+
+CS **14** 202; FF **1882** I 730 ediz. ted.[^t-1][^t-2]
+
+Traduzione*[^t-3]*
+
+Conchiusa il 31 ottobre 1884
+
+Approvata dall’Assemblea federale il 18 dicembre 1884[^t-4]
+
+Ratificazioni scambiate il 7 agosto 1885
+
+(Stato 7 agosto 1885)
+
+[^t-1]: [RU **6** 418, **15** 224. [RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)art. 12 cpv.3]
+[^t-2]: La Convenzione 23 febbraio 1882 è stata sostituita dalla Convenzione 31 gennaio 1938 ([RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)), che ha pure confermato la validità della presente Convenzione (art. 12, cpv. 4).
+[^t-3]: Dal testo originale francese.
+[^t-4]: RU **8** 182
+
+Il Consiglio federale della Confederazione Svizzera ed il Presidente della Repubblica Francese,
+
+mossi entrambi dal desiderio di assicurare, lunghesso la frontiera franco‑svizzera, la repressione dei delitti di caccia, in condizioni analoghe a quelle previste per la repressione dei delitti forestali dalla Convenzione del 23 febbraio 1882 sui rapporti di vicinato e sulla sorveglianza delle foreste limitrofe[^ingress-1], hanno risolto di conchiudere a questo fine una Convenzione addizionale speciale ed hanno per ciò nominato a loro plenipotenziari:
+
+(Seguono i nomi dei plenipotenziari)
+
+i quali, dopo essersi comunicati i loro pieni poteri, trovati in buona e debita forma,
+
+adottarono di comune accordo gli articoli seguenti:
+
+[^ingress-1]: La Convenzione 23 febbraio 1882 è stata sostituita dalla Convenzione 31 gennaio 1938 ([RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)), che ha pure confermato la validità della presente Convenzione (art. 12, cpv. 4).
+
+#### Art. 1
+
+Nello scopo di assicurare la repressione dei delitti e delle contravvenzioni in materia di caccia, corno pure di facilitare l’azione penale contro detti delitti e contravvenzioni, saranno, sotto riserva del controllo regolamentare praticato ne’ due paesi per la repressione delle infrazioni alle leggi sulla caccia, applicabili sur una zona di dieci chilometri da ciascuna parte del confine le seguenti disposizioni.
+
+#### Art. 2
+
+I cittadini dell’uno degli Stati contraenti che hanno preso ad affitto una Caccia nella zona confinaria dell’altro paese, potranno mettervi dei guardacaccia per la sorveglianza.
+
+Questi guardiani dovranno adempiere le condizioni di nazionalità e di capacità volute dalle leggi e dai regolamenti del paese dove la caccia è situata; l’autorità competente di questo stesso paese li installerà e lor darà il giuramento.[^2-1]
+
+In quanto alle attribuzioni e agli obblighi loro, saranno parificati alle guardie delle cacce i cui affituari non sono forestieri.
+
+Le spese causate dalla loro nomina e dall’esercizio delle loro funzioni saranno a carico degli affittuari.
+
+[^2-1]: Vedi la legge sulla caccia del 20 giugno 1986 ([RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)).
+
+#### Art. 3
+
+Per dare maggior efficacia alla repressione dei delitti e delle contravvenzioni che si commettono lei distretti di caccia confinari, i due alti Stati contraenti si obbligano a procedere contro quei loro attinenti che avessero commesso queste infrazioni sul territorio estero, nel modo medesimo e con applicazione delle leggi medesime, come se fossersi fatti colpevoli nel lor paese stesso.
+
+L’azione penale seguirà sotto la condizione che non sia già stata pronunciata sentenza nel paese dove fu commessa l’infrazione e dopo essere stato dall’autorità competente di questo paese officialmento trasmesso il rispettivo processo verbale a quella del paese di cui l’incolpato è attinente.
+
+Lo Stato in cui sarà pronunciata a condanna percepirà solo l’importo delle ammende e delle spese; ma le indennità saranno versate nelle casse dello Stato nel quale saranno state commesse le infrazioni.
+
+I verbali stesi regolarmente dalle guardie giurate nell’uno de’ due paesi, faranno fede davanti ai tribunali dell’altro, sino a prova in contrario.
+
+#### Art. 4
+
+Qualora nella legislazione dell’uno o dell’altro Stato fossero giudicate necessarie delle modificazioni per garantire l’esecuzione dei precedenti articoli, le due alte Parti contraenti si obbligano a prendere colla maggior possibile sollecitudine le misure conducenti alla effettuazione di queste riforme.
+
+#### Art. 5
+
+La presente Convenzione addizionale sarà ratificata e lo scambio delle ratifiche seguirà a Parigi nel termine d’un anno o più presto, se è fattibile. La medesima starà in vigore per la stessa durata che quella del 23 febbraio 1882 sui rapporti di vicinato e sulla sorveglianza delle foreste limitrofe[^5-1], nè potrà essere denunziata se non nel tempo e modo medesimo di quest’ultima.
+
+[^5-1]: Vedi la note in calce del titolo.
+
+*In fede di che,* i plenipotenziari rispettivi hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto in doppio esemplare, a Parigi, addì 31 ottobre 1884. (Seguono le firme)

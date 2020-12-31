@@ -1,0 +1,913 @@
+---
+sr: "741.013.1"
+title: Verordnung des ASTRA vom 22. Mai 2008 zur Strassenverkehrskontrollverordnung (VSKV-ASTRA)
+short: VSKV-ASTRA
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/352"
+language: de
+version: 2020-03-01
+adopted: 2008-05-22
+in_force: 2008-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2008-352-20200301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des ASTRA zur Strassenverkehrskontrollverordnung
+
+(VSKV-ASTRA)
+
+vom 22. Mai 2008 (Stand am 1. März 2020)
+
+Das Bundesamt für Strassen (ASTRA), im Einvernehmen mit der Eidgenössischen Zollverwaltung, dem Eidgenössischen Institut für Metrologie und dem Bundesamt für Verkehr,
+
+gestützt auf die Artikel 4 Absatz 5, 9 Absätze 2 und 3, 11 Absatz 3, 13 Absatz 3, 15 Absatz 1, 18, 24 Absatz 4, 26 Absatz 5, 44 Absatz 2 sowie 45 Absatz 3 der Strassenverkehrskontrollverordnung vom 28. März 2007[^ingress-1] (SKV),[^ingress-2]
+
+verordnet:
+
+[^ingress-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^ingress-2]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung enthält die Ausführungsbestimmungen zur SKV.
+
+#### Art. 2
+
+**Kontroll- und Auswertungspersonal**
+
+<sup>1</sup> Die Zuständigkeit für die Durchführung von Kontrollen im Strassenverkehr richtet sich nach den Artikeln 3 und 4 SKV.
+
+<sup>2</sup> Messsysteme zur amtlichen Feststellung von Sachverhalten im Rahmen von Strassenverkehrskontrollen dürfen nur durch geschultes Personal aufgestellt, eingerichtet, betrieben und gewartet werden.
+
+<sup>3</sup>
+
+Das Kontroll- und Auswertungspersonal muss:
+
+- a. über die nötigen theoretischen und praktischen Fachkenntnisse im Zusammenhang mit der Messart, dem Messsystem, der Durchführung der jeweiligen Messung sowie der Auswertung der Messdaten verfügen;
+- b. durch die zuständige Behörde zur Durchführung der Kontroll- und Auswertungstätigkeiten ermächtigt sein.
+
+#### Art. 3
+
+**Messverfahren und Messsysteme**
+
+<sup>1</sup> Die Anforderungen an Messverfahren, Messsysteme und Zusatzgeräte, die im Rahmen von Strassenverkehrskontrollen für die amtliche Feststellung von Sachverhalten verwendet werden, das Inverkehrbringen solcher Systeme und Geräte sowie die Kontrolle nach dem Inverkehrbringen richten sich nach der Messmittelverordnung vom 15. Februar 2006[^3-1] sowie nach allfälligen messmittelspezifischen Verordnungen.
+
+<sup>2</sup> Wer ein Messsystem verwendet, muss sicherstellen, dass es den rechtlichen Anforderungen entspricht und dass die Verfahren zur Erhaltung der Messbeständigkeit durchgeführt werden. Dies betrifft insbesondere allfällige Vorschriften über die Zulassung, die Eichung und die Kennzeichnung von Messsystemen.
+
+<sup>3</sup> Die im Rahmen der Zulassung festgelegten Verwendungszwecke, Betriebsbedingungen und Auflagen sowie die Bedienungsanleitung des Herstellers sind zu beachten.
+
+<sup>4</sup> …[^3-2]
+
+[^3-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^3-2]: Aufgehoben durch Ziff. I der V des ASTRA vom 7. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
+
+#### Art. 4
+
+**Durch Messsysteme festgestellte Widerhandlungen**
+
+<sup>1</sup> Jede durch ein Messsystem festgestellte Widerhandlung muss so erfasst werden, dass die Messwerte eindeutig einem bestimmten Fahrzeug oder einem Fahrzeugführer oder einer Fahrzeugführerin zugeordnet werden können.
+
+<sup>2</sup> Als Feststellung von Übertretungen durch automatische Überwachungsanlagen im Sinne von Artikel 2 Buchstabe b des Ordnungsbussengesetzes vom 24. Juni 1970[^4-1] gilt die Feststellung gestützt auf ein Bild- oder Filmdokument eines automatischen Messsystems.
+
+[^4-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: Art. 3 Abs. 2 des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+
+#### Art. 5
+
+**Datenübertragung**
+
+Bei der digitalen Übertragung von Mess- und Bilddaten muss die Datenintegrität sichergestellt sein.
+
+## 2. Kapitel: Geschwindigkeitskontrolle und Rotlichtüberwachung
+
+### 1. Abschnitt: Geschwindigkeitskontrolle
+
+#### Art. 6
+
+**Messarten**
+
+Bei der Durchführung von Geschwindigkeitskontrollen sind in erster Linie folgende Messarten zu wählen:
+
+- a. Messungen mit stationären Messsystemen, die durch eine Messperson beaufsichtigt werden;
+- b. Messungen mit stationären Messsystemen, die autonom betrieben werden;
+- c.
+
+  mobile Messungen:
+
+  - 1\. aus einem mit einem Messsystem ausgerüsteten Fahrzeug oder einem Helikopter (Moving-Geschwindigkeitsmessung), oder
+  - 2\. durch Nachfahren und Ermittlung der Geschwindigkeit durch einen Geschwindigkeitsvergleich zwischen den beiden Fahrzeugen (Nachfahrkontrolle);
+
+- d. Abschnittsgeschwindigkeitskontrollen zur Ermittlung der Durchschnittsgeschwindigkeit über einen Strassenabschnitt; die Messungen werden mit stationären Messsystemen vorgenommen, die autonom betrieben werden.
+
+#### Art. 7
+
+**Andere Feststellungen von Geschwindigkeitsüberschreitungen**
+
+<sup>1</sup> Geschwindigkeitsüberschreitungen können anlässlich einer Kontrolle der Arbeits-, Lenk- und Ruhezeit oder einer Unfallabklärung aufgrund von Aufzeichnungen von Fahrt- und Restwegschreibern sowie Datenaufzeichnungsgeräten festgestellt werden.
+
+<sup>2</sup> Werden gestützt auf eine solche Feststellung Einlageblätter zur Einleitung von Massnahmen eingezogen, so ist ihr Einzug dem Fahrzeugführer oder der Fahrzeugführerin schriftlich zu bestätigen, und er oder sie ist anzuweisen, die Bestätigung dem Arbeitgeber abzugeben.
+
+<sup>3</sup> Nachfahrmessungen ohne kalibriertes Nachfahrmesssystem sind auf Fälle von massiver Geschwindigkeitsüberschreitung zu beschränken.
+
+#### Art. 8
+
+**Sicherheitsabzug**
+
+<sup>1</sup>
+
+Vom auf die nächste ganze Zahl abgerundeten Geschwindigkeitsmesswert sind folgende Werte abzuziehen:
+
+- a.
+
+  bei Radarmessungen:
+
+  - 1\. 5 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 6 km/h bei einem Messwert von 101–150 km/h,
+  - 3\. 7 km/h bei einem Messwert ab 151 km/h;
+
+- b.
+
+  bei Lasermessungen:
+
+  - 1\. 3 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 4 km/h bei einem Messwert von 101–150 km/h,
+  - 3\. 5 km/h bei einem Messwert ab 151 km/h;
+
+- c.
+
+  bei stationären Radarmessungen in Kurven:
+
+  - 1\. 10 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 14 km/h bei einem Messwert ab 101 km/h;
+
+- d.
+
+  bei mobilen Messungen nach Artikel 6 Buchstabe c Ziffer 1 mit Radar (Moving-Radar):
+
+  - 1\. 7 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 8 km/h bei einem Messwert von 101–150 km/h,
+  - 3\. 9 km/h bei einem Messwert ab 151 km/h;
+
+- e.
+
+  bei Messungen mit stationären Schwellendetektoren wie induktive Schleifen, Piezosensoren, optische Schwellendetektoren:
+
+  - 1\. 5 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 6 km/h bei einem Messwert von 101–150 km/h,
+  - 3\. 7 km/h bei einem Messwert ab 151 km/h;
+
+- f.
+
+  bei Abschnittsgeschwindigkeitskontrollen:
+
+  - 1\. 5 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 6 km/h bei einem Messwert von 101–150 km/h,
+  - 3\. 7 km/h bei einem Messwert ab 151 km/h;
+
+- g.[^8-1] bei Nachfahrkontrollen mit einem für diesen Zweck zugelassenen Videogeschwindigkeitsmesssystem und automatischer Auswertung des Messvorgangs mit einer genehmigten Software: automatischer, vom Kontroll- und Auswertungspersonal nicht beeinflussbarer Sicherheitsabzug gemäss Zulassungsdokument des Eidgenössischen Instituts für Metrologie;
+- h.[^8-2] bei anderen Nachfahrkontrollen als nach Buchstabe g: die Werte gemäss der Tabelle in Anhang 1;
+- i.[^8-3]
+
+  bei Nachfahrmessungen ohne kalibriertes Nachfahrmesssystem folgende Sicherheitsabzüge:
+
+  - 1\. 15 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 15 Prozent bei einem Messwert ab 101 km/h, oder
+  - 3\. ein vom Eidgenössischen Institut für Metrologie im Einzelfall bestimmter Abzug;
+
+- j.[^8-4]
+
+  bei Geschwindigkeitsermittlungen auf der Basis eines zugelassenen Abstandsmessverfahrens:
+
+  - 1\. 5 km/h bei einem Messwert bis 100 km/h,
+  - 2\. 6 km/h bei einem Messwert von 101 bis 150 km/h,
+  - 3\. 7 km/h bei einem Messwert ab 151 km/h.
+
+<sup>2</sup>
+
+Bei Aufzeichnungen von Fahrt- und Restwegschreibern sowie Datenaufzeichnungsgeräten sind von der aufgezeichneten Geschwindigkeit abzuziehen:
+
+- a.[^8-5] 10 km/h bei analogen Fahrtschreibern (Art. 100 Abs. 4 der Verordnung vom 19. Juni 1995[^8-6] über die technischen Anforderungen an Strassenfahrzeuge, VTS) und bei analogen Restwegschreibern;
+- b.[^8-7] 6 km/h bei digitalen Fahrtschreibern (Art. 100 Abs. 2 und 3 VTS) und bei digitalen Restwegschreibern;
+- c. 14 km/h bei Datenaufzeichnungsgeräten (Art. 102 VTS).
+
+<sup>3</sup>
+
+Erfolgt die Geschwindigkeitsermittlung unter Verwendung eines Rotlichtüberwachungssystems in Kombination mit nicht typengeprüften Schleifendetektoren, so sind vom ermittelten Wert abzuziehen:
+
+- a. 5 km/h bei einem Messwert bis 50 km/h;
+- b. 10 Prozent bei einem Messwert ab 51 km/h.
+
+[^8-1]: Fassung gemäss Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
+[^8-2]: Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
+[^8-3]: Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
+[^8-4]: Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
+[^8-5]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
+[^8-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-7]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
+
+#### Art. 9
+
+**Dokumentation**
+
+Die im Zusammenhang mit Geschwindigkeitsüberschreitungen erfassten Messwerte sind zusammen mit der Verkehrssituation bildlich zu dokumentieren. Das ASTRA kann in begründeten Fällen Ausnahmen vorsehen.
+
+### 2. Abschnitt: Rotlichtüberwachungssysteme
+
+#### Art. 10
+
+<sup>1</sup> Rotlichtüberwachungssysteme dienen in erster Linie der Feststellung von Widerhandlungen gegen das Haltegebot durch Lichtsignale.
+
+<sup>2</sup> Sie können mit Systemen zur Geschwindigkeitsmessung kombiniert werden.
+
+## 3. Kapitel: Kontrolle der Arbeits-, Lenk- und Ruhezeit
+
+#### Art. 11
+
+Die für die Kontrolle der Arbeits-, Lenk- und Ruhezeit verwendete Kontrollsoftware muss mindestens folgenden Anforderungen genügen:
+
+- a. Auslesen der Daten aus der Fahrerkarte ohne digitalen Fahrtschreiber;
+- b. Auslesen der Fahrtschreiber- und Fahrerkartendaten aus dem digitalen Fahrtschreiber;
+- c. Digitalisieren von Einlageblättern;
+- d. manuelles Erfassen von Daten;
+- e. Auswerten der nationalen und internationalen Arbeits-, Lenk- und Ruhezeitvorschriften;
+- f. Auswerten der Geschwindigkeit und der Wegstrecke;
+- g. Auswerten der Daten aus dem Fahrtschreiber, den Einlageblättern und den Fahrerkarten;
+- h. Importieren, Exportieren und Archivieren von Originaldateien aus dem digitalen Fahrtschreiber und den Fahrerkarten;
+- i. Anschliessen an das schweizerische Fahrtschreiberkartenregister sowie die entsprechenden ausländischen Register zur Datenüberprüfung und ‑meldung;
+- j. statistisches Auswerten der Daten sowie Übergeben von Daten an andere Datenverwerter.
+
+## 4. Kapitel: Gewichtskontrolle
+
+#### Art. 12
+
+**Funktionskontrolle**
+
+Vor der eigentlichen Messung sind die eingesetzten Messsysteme einer Funktionskontrolle zu unterziehen. Bei Messungen mit zwei Radlastwaagen ist überdies die Übereinstimmung der Messgenauigkeit der beiden Radlastwaagen zu überprüfen.
+
+#### Art. 13
+
+**Sicherheitswert**[^13-1]
+
+<sup>1</sup> Wo ein bestimmtes Gewicht nicht überschritten werden darf, ist von der ermittelten Achslast, vom ermittelten Betriebsgewicht oder von der ermittelten Stützlast ein Sicherheitswert von 3 Prozent abzuziehen. Ist dieser Sicherheitswert geringer als der doppelte Eichwert der Waage in kg, so ist stattdessen letzterer als Sicherheitswert abzuziehen.
+
+<sup>2</sup> Wo ein bestimmtes Gewicht, namentlich das minimale Adhäsionsgewicht, nicht unterschritten werden darf, ist zur ermittelten Achslast oder zum ermittelten Betriebsgewicht ein Sicherheitswert von 3 Prozent dazuzuzählen. Ist dieser Sicherheitswert geringer als der doppelte Eichwert der Waage in kg, so ist stattdessen letzterer als Sicherheitswert dazuzuzählen.
+
+[^13-1]: Fassung gemäss Ziff. I der V des ASTRA vom 16. Okt. 2019, in Kraft seit 1. März 2020 ([AS 2019 3357](https://fedlex.data.admin.ch/eli/oc/2019/612)).
+
+#### Art. 14
+
+[^14-1]
+
+[^14-1]: Aufgehoben durch Ziff. I der V des ASTRA vom 16. Okt. 2019, mit Wirkung seit 1. März 2020 ([AS 2019 3357](https://fedlex.data.admin.ch/eli/oc/2019/612)).
+
+## 5. Kapitel: Kontrolle der Fahrzeugabmessungen mit Profilmessanlagen
+
+#### Art. 15
+
+**Begriff**
+
+Profilmessanlagen sind elektronische und mit Laserscannern ausgerüstete Messsysteme zur amtlichen Feststellung der Abmessungen von Fahrzeugen und Fahrzeugkombinationen.
+
+#### Art. 16
+
+**Sicherheitsabzug**
+
+Von den durch Profilmessanlagen ermittelten und auf den nächsten ganzen Zentimeter abgerundeten Messwerten betreffend die Abmessungen von Fahrzeugen und Fahrzeugkombinationen sind die folgenden Werte abzuziehen:
+
+- a. 5 cm betreffend die Höhe;
+- b. 4 cm betreffend die Breite; und
+- c. 10 cm betreffend die Länge.
+
+## 6. Kapitel: Kontrolle der Fahrfähigkeit
+
+### 1. Abschnitt: Atemalkoholmessungen****
+
+[^chap6-sec1-1]
+
+[^chap6-sec1-1]: Ausdruck gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)). Diese Anpassung wurde im ganzen Text berücksichtigt.
+
+#### Art. 17 und 18
+
+[^1718-1]
+
+[^1718-1]: Aufgehoben durch Ziff. I der V des ASTRA vom 7. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
+
+#### Art. 19
+
+**Bedienungsanleitung**[^19-1]
+
+Atemalkoholtestgeräte und Atemalkoholmessgeräte müssen nach der Bedienungsanleitung des Herstellers verwendet werden.
+
+[^19-1]: Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
+
+#### Art. 20
+
+**Sicherheitsabzug**[^20-1]
+
+Von den durch Atemalkoholtestgeräte und Atemalkoholmessgeräte angezeigten Messwerten dürfen keine Abzüge vorgenommen werden.
+
+[^20-1]: Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
+
+#### Art. 21
+
+**Gerätestörung**[^21-1]
+
+Bei Gerätestörungen oder Zweifeln an der Messgenauigkeit dürfen Atemalkoholtestgeräte und Atemalkoholmessgeräte erst wieder verwendet werden, nachdem sie folgenden Verfahren zur Erhaltung der Messbeständigkeit nach der Verordnung des EJPD vom 30. Januar 2015[^21-2] über Atemalkoholmessmittel (AAMV) unterzogen wurden:
+
+- a. Atemalkoholtestgeräte: einer Instandhaltung nach Artikel 6 Buchstabe b AAMV und einer Justierung nach Artikel 6 Buchstabe c AAMV;
+- b. Atemalkoholmessgeräte: einer Nacheichung nach Artikel 10 Buchstabe a AAMV, einer Instandhaltung nach Artikel 10 Buchstabe b AAMV und einer Justierung nach Artikel 10 Buchstabe c AAMV.
+
+[^21-1]: Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
+[^21-2]: [SR 941.210.4](https://fedlex.data.admin.ch/eli/cc/2015/88)
+
+### 2. Abschnitt: Blut- und Urinuntersuchung
+
+#### Art. 22
+
+**Auftrag**
+
+<sup>1</sup> Die zuständige Behörde muss den Auftrag zur Blut- und Urinuntersuchung unter Verwendung des Protokolls nach Anhang 2 erteilen*.*
+
+<sup>2</sup> Der Auftrag zur Untersuchung auf Betäubungs- oder Arzneimittel enthält zusätzlich einen Auftrag zur Blutalkoholuntersuchung, wenn der Verdacht besteht, dass die betroffene Person neben Betäubungsmitteln oder Arzneimitteln auch Alkohol konsumiert hat.
+
+<sup>3</sup> Die Behörde muss dem Laboratorium alle erforderlichen Daten und Informationen übermitteln, namentlich das Protokoll einer allenfalls erfolgten ärztlichen Untersuchung nach Anhang 3.
+
+<sup>4</sup> Das Laboratorium muss die beauftragende Behörde unverzüglich informieren, wenn es im Zusammenhang mit den eingegangenen Proben und Unterlagen Unstimmigkeiten feststellt oder wenn es den Auftrag nicht erfüllen kann.
+
+#### Art. 23
+
+**Dokumentationspflicht**
+
+Das Laboratorium muss die Ergebnisse der Untersuchungen dokumentieren und für die beauftragende Behörde einen schriftlichen Prüfbericht oder ein schriftliches Gutachten verfassen.
+
+#### Art. 24
+
+**Gegenexpertise**
+
+<sup>1</sup> Ordnet die zuständige Behörde eine Gegenexpertise zu einer Untersuchung an, so muss sie das damit beauftragte Laboratorium darauf hinweisen, dass es eine Gegenexpertise durchzuführen hat.
+
+<sup>2</sup> Das Laboratorium, das die zu beurteilende Erstuntersuchung durchgeführt hat, stellt der für die Durchführung der Gegenexpertise bestimmten Fachperson die fragliche Probe und bei Bedarf die Messprotokolle der entsprechenden Serie zur Verfügung.
+
+<sup>3</sup> Die Fachperson muss das Resultat der Gegenexpertise erläutern.
+
+<sup>4</sup> Bestätigt die Gegenexpertise das Resultat der Erstuntersuchung, so gilt zur Feststellung der Angetrunkenheit oder des Einflusses von Betäubungs- oder Arzneimitteln das Resultat der Erstuntersuchung.
+
+#### Art. 25
+
+**Aufbewahrung von Proben und Aufzeichnungen**
+
+<sup>1</sup>
+
+Das Laboratorium muss:
+
+- a. die nach den Untersuchungen übrig gebliebenen Blut- und Urinproben im Originalgefäss in einem Tiefkühler bei mindestens minus 18 Grad Celsius während mindestens eines Jahres oder gemäss Anordnung der Untersuchungsbehörde bis zum Abschluss des Verfahrens aufbewahren;
+- b. alle für eine Rückverfolgbarkeit erforderlichen Dokumente und Aufzeichnungen während mindestens fünf Jahren aufbewahren.
+
+<sup>2</sup> Das Laboratorium muss die minimalen Aufbewahrungsfristen im Prüfbericht oder im Gutachten nennen.
+
+<sup>3</sup> Der Auftraggeber oder die Auftraggeberin kann im Einzelfall längere Aufbewahrungsfristen verlangen.
+
+### 3. Abschnitt: Protokollierung, Nachtrunk
+
+#### Art. 26
+
+<sup>1</sup> Die Durchführung der Atemalkoholprobe[^26-1], die Sicherstellung von Urin, die Feststellungen der Kontrollbehörde, die Anerkennung der Atemalkoholmessungen sowie der Auftrag zur Blutentnahme und Sicherstellung von Urin oder die Bestätigung des Auftrags (Art. 13 Abs. 3 SKV) sind in einem Protokoll nach Anhang 2 festzuhalten.
+
+<sup>1bis</sup> Bei einer Atemalkoholprobe mit einem Atemalkoholmessgerät ist sicherzustellen, dass die Messung der kontrollierten Person zugeordnet werden kann.[^26-2]
+
+<sup>2</sup> Macht die betroffene Person geltend, nach dem Ereignis Alkohol konsumiert zu haben (Nachtrunk), so ist sie eingehend über die Art der Getränke, die Menge und den Zeitpunkt der Konsumation zu befragen. Allfällige Beweismittel sind sicherzustellen.
+
+<sup>3</sup> Das Protokoll der ärztlichen Untersuchung nach Artikel 15 Absatz 1 SKV richtet sich nach Anhang 3.
+
+[^26-1]: Ausdruck gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
+[^26-2]: Eingefügt durch Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
+
+### 4. Abschnitt: Anerkennung der Laboratorien
+
+#### Art. 27
+
+**Einreichung des Gesuchs**
+
+<sup>1</sup> Das Anerkennungsgesuch muss mit einer vollständigen Dokumentation nach den Weisungen des ASTRA eingereicht werden.
+
+<sup>2</sup> Das Gesuch um Anerkennung als Laborleiter oder Laborleiterin, als deren Stellvertreter oder Stellvertreterin sowie als Sachverständiger oder Sachverständige muss vom Laboratorium oder der zuständigen Stelle eingereicht werden.
+
+#### Art. 28
+
+**Provisorische Anerkennung als Laboratorium**
+
+<sup>1</sup> Die Anerkennung als Laboratorium wird vorerst provisorisch erteilt.
+
+<sup>2</sup> Das ASTRA erteilt die provisorische Anerkennung für die Dauer eines Jahres, wenn das Gesuch die formellen Voraussetzungen erfüllt und das Laboratorium eine Eignungsprüfung bestanden hat.
+
+<sup>3</sup> Das ASTRA kann die provisorische Anerkennung entziehen, wenn das Laboratorium die Voraussetzungen nicht mehr erfüllt.
+
+#### Art. 29
+
+**Definitive Anerkennung als Laboratorium**
+
+<sup>1</sup> Das ASTRA erteilt die definitive Anerkennung, wenn das Laboratorium während der Dauer der provisorischen Anerkennung die vom ASTRA veranlassten Eignungsprüfungen sowie ein Audit bestanden hat.
+
+<sup>2</sup> Erfüllt das Laboratorium diese Voraussetzungen nicht, so kann das ASTRA die provisorische Anerkennung verlängern, wenn die Erfüllung der Voraussetzungen in Aussicht steht.
+
+<sup>3</sup> Das ASTRA führt eine Liste der anerkannten Laboratorien.
+
+#### Art. 30
+
+**Entzug der definitiven Anerkennung als Laboratorium**
+
+Das ASTRA kann die definitive Anerkennung namentlich dann entziehen, wenn das Laboratorium:
+
+- a. an einer Eignungsprüfung ohne Begründung nicht teilnimmt;
+- b. eine Eignungsprüfung nicht besteht und die daraufhin verfügten Auflagen nicht innert der angesetzten Frist erfüllt;
+- c. ein Audit verweigert;
+- d. die nach einem Audit verfügten Auflagen nicht innert der angesetzten Frist erfüllt;
+- e. die Anforderungen dieser Verordnung oder der Weisungen des ASTRA nicht erfüllt.
+
+#### Art. 31
+
+**Anerkennung als Laborleiter oder -leiterin**
+
+<sup>1</sup> Das ASTRA anerkennt als Laborleiter oder Laborleiterin beziehungsweise als deren Stellvertreter oder Stellvertreterin Personen, die über eine abgeschlossene Hochschulausbildung namentlich in Chemie, Biochemie oder Pharmazie sowie über besondere Erfahrung im entsprechenden Fachgebiet (Blutalkoholanalytik, forensische Toxikologie) verfügen.
+
+<sup>2</sup> Dem Anerkennungsgesuch müssen ein Lebenslauf und eine Dokumentation der bisherigen beruflichen Tätigkeit beigelegt werden.
+
+<sup>3</sup> Das ASTRA kann Ausnahmen von den Erfordernissen nach Absatz 1 bewilligen.
+
+### 5. Abschnitt: Qualitätssicherung bei Laboratorien
+
+#### Art. 32
+
+**Externe Qualitätskontrollen**
+
+<sup>1</sup> Die Laboratorien müssen sich an den vom ASTRA veranlassten regelmässigen Eignungsprüfungen (externe Qualitätskontrollen) beteiligen. Das ASTRA kann dazu Experten und Expertinnen beiziehen.
+
+<sup>2</sup> Die Resultate der Eignungsprüfungen sind vertraulich. Sie werden allen teilnehmenden Laboratorien mitgeteilt. Dabei bleibt die Zuordnung der Laboratorien anonym.
+
+#### Art. 33
+
+**Audits**
+
+<sup>1</sup> Die Laboratorien müssen sich den vom ASTRA regelmässig veranlassten Audits unterziehen.
+
+<sup>2</sup> Jedes Laboratorium wird mindestens alle fünf Jahre auditiert. Bei Anzeichen von Unregelmässigkeiten kann ein Audit jederzeit durchgeführt werden.
+
+<sup>3</sup> Die Laboratorien müssen den Auditoren und Auditorinnen freien Zugang zu den Räumlichkeiten, Geräten, Akten und Journalen gewähren und Auskunft über die Methoden, die Geräte und die internen Qualitätsmassnahmen geben.
+
+<sup>4</sup> Ist ein Laboratorium von der schweizerischen Akkreditierungsstelle nach Artikel 5 der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^33-1] akkreditiert, so werden keine Audits nach Absatz 1 durchgeführt. Das Laboratorium muss jedoch nach jedem Audit eine Checkliste gemäss den Weisungen des ASTRA einreichen. Vorbehalten bleiben vom ASTRA veranlasste Audits bei Anzeichen von Unregelmässigkeiten.
+
+[^33-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+### 6. Abschnitt: Nachweis von Betäubungsmitteln
+
+#### Art. 34
+
+Die Betäubungsmittel nach Artikel 2 Absatz 2 der Verkehrsregelnverordnung vom 13. November 1962[^34-1] gelten als nachgewiesen, wenn die Messwerte im Blut die folgenden Grenzwerte erreichen oder überschreiten:
+
+- a. THC: 1,5 µg/L
+- b. freies Morphin: 15 µg/L
+- c. Kokain: 15 µg/L
+- d. Amphetamin: 15 µg/L
+- e. Methamphetamin: 15 µg/L
+- f. MDEA: 15 µg/L
+- g. MDMA: 15 µg/L
+
+[^34-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+
+## 7. Kapitel: Kontrolle der Fahrzeuge
+
+#### Art. 35
+
+**Kontrolle des technischen Zustandes: Prüfbericht und Bescheinigung**
+
+<sup>1</sup> Der Prüfbericht nach Artikel 24 Absatz 4 SKV richtet sich nach den Vorgaben in Anhang 4.
+
+<sup>2</sup> Anstelle eines Prüfberichts kann eine Bescheinigung über die durchgeführte Kontrolle (Kontrollbescheinigung) ausgehändigt werden. Diese muss mindestens die Angaben nach den Ziffern 1-5, 9 und 13 des Prüfberichtes in Anhang 4 enthalten und allfällige Beanstandungen aufführen.
+
+#### Art. 36
+
+**Gefahrgutkontrolle: Prüfbericht und Bescheinigung**
+
+<sup>1</sup> Die ausgefüllte Prüfliste (Prüfbericht) nach Artikel 26 Absatz 3 SKV richtet sich nach den Vorgaben in Anhang 5.
+
+<sup>2</sup> Die Kontrollbescheinigung muss mindestens die Angaben nach den Ziffern 1–5, 7 und 40 des Prüfberichtes in Anhang 5 enthalten und allfällige Beanstandungen aufführen.
+
+## 8. Kapitel: Meldungen der Kantone
+
+#### Art. 37
+
+**Zeitpunkt der Meldungen an das ASTRA**
+
+<sup>1</sup>
+
+Die Kantone übermitteln an die zentrale Datenbank des ASTRA (Art. 47 Abs. 1 SKV):
+
+- a. die Meldungen nach Artikel 44 Absatz 1 Buchstaben a–c und e SKV jeweils bis zum 31. Januar des Folgejahres;
+- b. die Meldungen nach Artikel 44 Absatz 1 Buchstabe d SKV jeweils bis zum 30. Juni des Folgejahres.
+
+<sup>2</sup> Von Absatz 1 abweichende Meldefristen, die sich auf eine Leistungsvereinbarung mit dem ASTRA stützen, bleiben vorbehalten.
+
+#### Art. 38
+
+**Form der Meldungen an das Bundesamt für Verkehr**
+
+Bei Verstössen gegen die Vorschriften über die Personenbeförderung und die Zulassung als Strassentransportunternehmung erfolgen die Meldungen mittels der vom Bundesamt für Verkehr zur Verfügung gestellten Formulare. In den übrigen Fällen ist dem Bundesamt für Verkehr eine Kopie des Anzeigerapportes an die Untersuchungsbehörden zuzustellen.
+
+## 9. Kapitel: Schlussbestimmungen****
+
+[^chap9-1]
+
+[^chap9-1]: Fassung gemäss Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
+
+#### Art. 38a
+
+**Übergangsbestimmung zur Änderung vom 7. November 2011**[^38a-1]
+
+Atemalkoholtestgeräte, die nach der AAMV[^38a-2] bis zum 31. Dezember 2012 nach bisherigem Recht in Verkehr gebracht werden dürfen, müssen die Anforderungen nach Artikel 17 Absätze 2 und 3 des bisherigen Rechts[^38a-3] erfüllen.
+
+[^38a-1]: Eingefügt durch Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
+[^38a-2]: [SR 941.210.4](https://fedlex.data.admin.ch/eli/cc/2015/88)
+[^38a-3]: [AS 2008 2447](https://fedlex.data.admin.ch/eli/oc/2008/352)
+
+#### Art. 39
+
+**Inkrafttreten[^39-1]**
+
+Diese Verordnung tritt am 1. Oktober 2008 in Kraft.
+
+[^39-1]: Eingefügt durch Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
+
+Anhang 1*[^t-1]*
+
+(Art. 8 Abs. 1 Bst. h)
+
+## Sicherheitsabzug bei Nachfahrkontrollen
+
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
+
+<table>
+<tr><td>Messmethode</td><td></td><td></td><td colspan="4">Sicherheitsabzug\* bei einer Messstrecke von mindestens:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>200 m</td><td>500 m</td><td>1000 m</td><td colspan="4">2000 m</td></tr>
+<tr><td>Geschwindigkeitsmessgerät mit Rechner</td><td>Konstanter Abstand</td><td>Mittelwert über gesamte Messstrecke oder mitlaufendes Messfenster zur Ermittlung der schnellsten Fahrstrecke innerhalb der gesamten Messstrecke.</td><td>–</td><td>15</td><td>10</td><td colspan="4">8</td></tr>
+<tr><td></td><td>Freie Nachfahrt</td><td>Mittelwert über gesamte Messstrecke. Abstand variabel, am Schluss grösser als zu Beginn der Messung.</td><td>–</td><td>–</td><td>8</td><td colspan="4">6</td></tr>
+<tr><td>Geschwindigkeitsmessgerät mit Rechner und Video</td><td>Konstanter Abstand</td><td>Mittelwert über gesamte Messstrecke oder mitlaufendes Messfenster zur Ermittlung der schnellsten Fahrstrecke innerhalb der gesamten Messstrecke.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
+<tr><td></td><td>Freie Nachfahrt</td><td>Mittelwert über gesamte Messstrecke. Abstand variabel, am Schluss grösser als zu Beginn der Messung.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
+<tr><td></td><td>Nach Fixpunkten</td><td>Weg-Zeitmessung. Mittelwert über die gesamte Messstrecke. Abstand variabel.</td><td>–</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
+<tr><td colspan="10">\* Bei einer ermittelten Geschwindigkeit bis 100 km/h erfolgt der Sicherheitsabzug in km/h, bei einer ermittelten Geschwindigkeit über 100 km/h in Prozent.</td></tr>
+</table>
+
+Anhang 2*[^t-2]*
+
+(Art. 22 Abs. 1 und 26 Abs. 1)
+
+## Protokoll bei Verdacht auf Fahrunfähigkeit (namentlich Alkohol-, Betäubungs- oder Arzneimittelkonsum, Übermüdung) und Auftragsbestätigung zur Blut-/Urinentnahme
+
+[^t-2]: Bereinigt gemäss Ziff. II der V des ASTRA vom 7. Nov. 2011 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)), Ziff. II Abs. 2 der V des ASTRA vom 3. Dez. 2013 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)), der am 25. Aug. 2015 veröffentlichten Berichtigung in französischer Sprache ([AS 2015 2885](https://fedlex.data.admin.ch/eli/oc/2015/540)) und Ziff. I und II der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
+
+<table>
+<tr><td>1</td><td colspan="4">Personalien</td><td colspan="10"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="4">Name:</td><td colspan="10">Vorname:</td><td colspan="6">Geboren:</td></tr>
+<tr><td></td><td colspan="4">Geschlecht:</td><td colspan="10">männlich</td><td colspan="6">weiblich</td></tr>
+<tr><td></td><td colspan="4">Adresse:</td><td colspan="10"></td><td colspan="6"></td></tr>
+<tr><td>2</td><td colspan="4">Die Person war:</td><td colspan="10"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="4">Motorwagenführer/in</td><td colspan="10">Motorradführer/in</td><td colspan="6">Motorfahrradführer/in</td></tr>
+<tr><td></td><td colspan="4">Radfahrer/in</td><td colspan="10">Fussgänger/in</td><td colspan="6"></td></tr>
+<tr><td>3</td><td colspan="20">Sachverhalt (Grund der Untersuchung)</td></tr>
+<tr><td></td><td colspan="4">Unfall</td><td colspan="11">Verkehrskontrolle</td><td colspan="5">Anderes:</td></tr>
+<tr><td></td><td colspan="4">Ereignisdatum:</td><td colspan="11">Ereigniszeit:</td><td colspan="5"></td></tr>
+<tr><td></td><td colspan="20">Kurze Beschreibung (was ist geschehen?):</td></tr>
+<tr><td>4</td><td colspan="20">Angaben der Person betreffend Einnahme von Alkohol, Betäubungs-, Arzneimitteln</td></tr>
+<tr><td>41</td><td colspan="5">Vor dem Ereignis</td><td colspan="6"></td><td colspan="3"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Was/wie viel?</td><td colspan="6"></td><td colspan="3"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Wie? (bei Betäubungs-/ Arzneimitteln)</td><td colspan="6">von</td><td colspan="3">bis</td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Wann?</td><td colspan="6">von</td><td colspan="3">bis</td><td colspan="6">Trink-Ende bei Alkohol</td></tr>
+<tr><td>42</td><td colspan="5">Nach dem Ereignis</td><td colspan="6"></td><td colspan="3"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Was/wie viel?</td><td colspan="6"></td><td colspan="3"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Wie? (bei Betäubungs-/ Arzneimitteln)</td><td colspan="6">von</td><td colspan="3">bis</td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Wann?</td><td colspan="6">von</td><td colspan="3">bis</td><td colspan="6">Trink-Ende bei Alkohol</td></tr>
+<tr><td>43</td><td colspan="20">**Angaben der Person zu allfälligem Nachtrunk**</td></tr>
+<tr><td>5</td><td colspan="20">Angaben der Person zum Schlaf</td></tr>
+<tr><td></td><td colspan="8">Letztmals geschlafen am</td><td colspan="5">Datum</td><td colspan="5">von</td><td colspan="2">bis</td></tr>
+<tr><td>6</td><td colspan="20">Angaben der Person zu Art, Menge, Zeit der letzten Nahrungsaufnahme</td></tr>
+<tr><td>7</td><td colspan="20">Beobachtungen bei der Person</td></tr>
+<tr><td></td><td colspan="20">(Alkoholsymptome, Ausfallerscheinungen etc.)</td></tr>
+<tr><td>8</td><td colspan="20">Bei der Person wurden gefunden:</td></tr>
+<tr><td></td><td colspan="20">(Betäubungsmittel, -utensilien, Alkohol, Arzneimittel etc.)</td></tr>
+<tr><td>9</td><td colspan="4">Atemalkoholvortest</td><td colspan="12"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4">positiv</td><td colspan="12">negativ</td><td colspan="4">Zeit:</td></tr>
+<tr><td>10</td><td colspan="20">Atemalkoholprobe</td></tr>
+<tr><td>10.1</td><td colspan="20">Atemalkoholprobe mit einem Atemalkoholtestgerät</td></tr>
+<tr><td></td><td colspan="4">1. Messserie:</td><td colspan="3"></td><td colspan="13">Datum: …………………………………</td></tr>
+<tr><td></td><td colspan="4">1. Messung: ……………</td><td colspan="3">mg/l</td><td colspan="13">Zeit: ……………………………………</td></tr>
+<tr><td></td><td colspan="4">2. Messung: ……………</td><td colspan="3">mg/l</td><td colspan="13">Zeit: ……………………………………</td></tr>
+<tr><td></td><td colspan="4">2. Messserie:</td><td colspan="3"></td><td colspan="13"></td></tr>
+<tr><td></td><td colspan="4">1. Messung: ……………</td><td colspan="3">mg/l</td><td colspan="13">Zeit: ……………………………………</td></tr>
+<tr><td></td><td colspan="4">2. Messung: ……………</td><td colspan="3">mg/l</td><td colspan="13">Zeit: ……………………………………</td></tr>
+<tr><td></td><td colspan="20">Anerkennung der Atemalkoholprobe</td></tr>
+<tr><td></td><td colspan="20">[tab] *Hinweis:* Die unterzeichnete Person kann den tieferen Wert der Atemalkoholmessungen anerkennen, und zwar: a. wenn sie ein Motorfahrzeug geführt hat: einen Wert von 0,25 oder mehr, aber weniger als 0,40 mg/l; b. wenn sie dem Verbot des Fahrens unter Alkoholeinfluss nach Artikel 2*a* Absatz 1 VRV untersteht: einen Wert von 0,05 oder mehr, aber weniger als 0,40 mg/l; c. wenn sie ein motorloses Fahrzeug oder ein Motorfahrrad geführt hat: einen Wert von 0,25 oder mehr, aber weniger als 0,55 mg/l.</td></tr>
+<tr><td></td><td colspan="20">[tab] *Aufklärung über die Folgen der Anerkennung:* Die Anerkennung des tieferen Messwerts hat beweisrechtliche Folgen. Gestützt auf die Feststellung der Atemalkoholkonzentration werden massnahmerechtliche (Führerausweisentzug, Verwarnung oder Fahrverbot) und strafrechtliche (Busse) Verfahren eingeleitet. [tab] *Anerkennung:*</td></tr>
+<tr><td></td><td colspan="4">Atemalkoholmessung anerkannt</td><td colspan="12">Ja □</td><td colspan="4">Nein □</td></tr>
+<tr><td></td><td colspan="4">Ort, Datum:</td><td colspan="16">Unterschrift:</td></tr>
+<tr><td></td><td colspan="4">…………………………</td><td colspan="16">…………………………………………………</td></tr>
+<tr><td>10.2</td><td colspan="20">Atemalkoholprobe mit einem Atemalkoholmessgerät</td></tr>
+<tr><td></td><td colspan="4">Seriennummer des Gerätes:</td><td colspan="16">………………………………………………</td></tr>
+<tr><td></td><td colspan="4">Messung: ………………</td><td colspan="5">mg/l</td><td colspan="11">Datum und Zeit: ………………</td></tr>
+<tr><td>11</td><td colspan="4">Betäubungsmittelvortest</td><td colspan="12"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4">nein</td><td colspan="12">ja</td><td colspan="4">Zeit:</td></tr>
+<tr><td></td><td colspan="16">Grund für die Durchführung:</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="8">Urin</td><td colspan="7">Speichel</td><td colspan="3">Schweiss</td></tr>
+<tr><td></td><td colspan="2"></td><td>positiv</td><td colspan="7">negativ</td><td colspan="2">positiv</td><td colspan="5">negativ</td><td colspan="2">positiv</td><td>negativ</td></tr>
+<tr><td></td><td colspan="2">THC/Cannabis:</td><td></td><td colspan="7"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="2">Opiate:</td><td></td><td colspan="7"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="2">Kokain:</td><td></td><td colspan="7"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="2">Amphetamine:</td><td></td><td colspan="7"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="2">Methadon:</td><td></td><td colspan="7"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
+<tr><td>12</td><td colspan="4">Arzneimittelvortest</td><td colspan="12"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4">nein</td><td colspan="12">ja</td><td colspan="4">Zeit:</td></tr>
+<tr><td></td><td colspan="16">Grund für die Durchführung:</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="8">Urin</td><td colspan="7"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">positiv</td><td colspan="6">negativ</td><td colspan="7"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="2">Benzodiazepine:</td><td colspan="2"></td><td colspan="6"></td><td colspan="7"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="2">Barbiturate:</td><td colspan="2"></td><td colspan="6"></td><td colspan="7"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum:</td><td colspan="19">Unterschrift des Protokollführers/der Protokollführerin (Kontrollbehörde):</td></tr>
+<tr><td>13</td><td colspan="20">Auftragsbestätigung/Auftragserteilung zur Blutentnahme/Urinasservierung und Untersuchung auf:</td></tr>
+<tr><td></td><td colspan="20">Alkohol</td></tr>
+<tr><td></td><td colspan="20">Betäubungsmittel</td></tr>
+<tr><td></td><td colspan="20">Arzneimittel</td></tr>
+<tr><td></td><td colspan="20">Die Ärztin/der Arzt wurde von … beauftragt, gestützt auf Artikel 12 der Strassenverkehrskontrollverordnung vom 28. März 2007 (SKV) eine Blutprobe/Urinprobe zu entnehmen.</td></tr>
+<tr><td>14</td><td colspan="20">Zusätzliche Auswertung durch das vom ASTRA anerkannte Laboratorium</td></tr>
+<tr><td></td><td colspan="20">Folgende Substanzen sollen in Bezug auf die Fahrfähigkeit ausgewertet werden:</td></tr>
+<tr><td></td><td colspan="16">Auftrag nach Rücksprache mit:</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="6">Untersuchungsbehörde</td><td colspan="10">Pikettchef/in</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="6">Bemerkungen</td><td colspan="10"></td><td colspan="4"></td></tr>
+</table>
+
+<table>
+<tr><td></td><td>Unterschrift des Auftraggebers/der Auftraggeberin (Kontrollbehörde/Untersuchungsrichter/in):</td></tr>
+</table>
+
+Geht an:
+
+Original an die Strafbehörde
+
+Kopie an die Administrativmassnahme-Behörde
+
+Kopie an den beauftragten Arzt/die beauftragte Ärztin
+
+Kopie an das mit der Blut-/Urinuntersuchung beauftragte Laboratorium mit dem Ersuchen, den schriftlichen Blut-/Urinuntersuchungsbericht unter Rechnungsstellung an … zu überweisen
+
+Anhang 3
+
+(Art. 22 Abs. 3 und 26 Abs. 3)
+
+## Protokoll der ärztlichen Untersuchung auf Alkohol-, Betäubungsmittel- oder Arzneimittelkonsum
+
+<table>
+<tr><td>1</td><td>Personalien</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td></td><td>Name:</td><td colspan="2">Vorname:</td><td colspan="2">Geboren:</td></tr>
+<tr><td></td><td>Geschlecht:</td><td colspan="2">männlich</td><td colspan="2">weiblich</td></tr>
+<tr><td></td><td>Adresse:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td></td><td>Gewicht:</td><td>kg</td><td colspan="2">Grösse:</td><td>cm</td></tr>
+</table>
+
+<table>
+<tr><td>2</td><td colspan="2">Die Person war:</td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">Motorwagenführer/in</td><td colspan="3">Motorradführer/in</td><td colspan="2">Motorfahrradführer/in</td></tr>
+<tr><td></td><td colspan="2">Radfahrer/in</td><td colspan="3">Fussgänger/in</td><td colspan="2"></td></tr>
+<tr><td>21</td><td colspan="7">Datum und Zeitpunkt des Ereignisses:</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td>am:</td><td colspan="2">um:</td><td>Uhr</td></tr>
+<tr><td>22</td><td colspan="7">Datum und Zeitpunkt der Blutentnahme:</td></tr>
+<tr><td></td><td>10 ml</td><td colspan="2">20 ml</td><td>am:</td><td colspan="2">um:</td><td>Uhr</td></tr>
+<tr><td>23</td><td colspan="7">Datum und Zeitpunkt der Urinasservierung:</td></tr>
+<tr><td></td><td></td><td colspan="2">(ca. 100 ml)</td><td>am:</td><td colspan="2">um:</td><td>Uhr</td></tr>
+</table>
+
+<table>
+<tr><td>3</td><td>Krankheiten:</td></tr>
+</table>
+
+<table>
+<tr><td>4</td><td>Ärztliche Behandlung (Notfallmedikation):</td><td>nein</td><td>ja, welche?</td></tr>
+</table>
+
+<table>
+<tr><td>5</td><td colspan="5">Angaben der Person betreffend Einnahme von Alkohol, Betäubungs-, Arzneimitteln</td></tr>
+<tr><td></td><td>Konsumgewohnheiten:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Methadonprogramm:</td><td></td><td></td><td>ja</td><td>nein</td></tr>
+<tr><td>51</td><td>Vor dem Ereignis:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Was/wie viel?</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Wie? (bei Betäubungs-/ Arzneimitteln)</td><td>von</td><td>bis</td><td></td><td></td></tr>
+<tr><td></td><td>Wann?</td><td>von</td><td>bis</td><td colspan="2">Trink-Ende bei Alkohol</td></tr>
+<tr><td>52</td><td>Nach dem Ereignis:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Was/wie viel?</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Wie? (bei Betäubungs-/ Arzneimitteln)</td><td>von</td><td>bis</td><td></td><td></td></tr>
+<tr><td></td><td>Wann?</td><td>von</td><td>bis</td><td colspan="2">Trink-Ende bei Alkohol</td></tr>
+<tr><td>53</td><td colspan="5">Angaben der Person zu allfälligem Nachtrunk</td></tr>
+</table>
+
+<table>
+<tr><td>6</td><td colspan="4">Angaben der Person zum Schlaf</td></tr>
+<tr><td></td><td>Letztmals geschlafen am:</td><td>Datum:</td><td>von</td><td>bis</td></tr>
+</table>
+
+<table>
+<tr><td>7</td><td>Angaben der Person zu Art, Menge, Zeit der letzten Nahrungsaufnahme</td></tr>
+<tr><td></td><td>Unterschrift der Hilfsperson:</td></tr>
+</table>
+
+<table>
+<tr><td>8</td><td colspan="13">Untersuchungsbefunde</td></tr>
+<tr><td>81</td><td colspan="13">Orientierung (zeitlich, örtlich):</td></tr>
+<tr><td></td><td colspan="4">erhalten</td><td colspan="6">gestört</td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">Amnesie für Ereignis:</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">ja</td><td colspan="6">nein</td><td colspan="3"></td></tr>
+<tr><td>82</td><td colspan="4">Haut:</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">frische Einstiche</td><td colspan="6">ältere Einstiche</td><td colspan="3">Narbenstrassen</td></tr>
+<tr><td>83</td><td colspan="4">Nasenseptum:</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">unauffällig</td><td colspan="6">gerötet</td><td colspan="3">perforiert</td></tr>
+<tr><td>84</td><td colspan="4">Mund:</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">Alkoholgeruch</td><td colspan="6">Cannabisgeruch</td><td colspan="3"></td></tr>
+<tr><td>85</td><td colspan="4">Entzugssymptomatik:</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">nein</td><td colspan="6">ja; Symptome:</td><td colspan="3"></td></tr>
+<tr><td>86</td><td colspan="4">Augen:</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="7">Ungestörte Folgebewegung</td><td colspan="5">ja</td><td>nein</td></tr>
+<tr><td></td><td colspan="4">Drehnystagmus</td><td colspan="3"></td><td colspan="5">ja</td><td>nein</td></tr>
+<tr><td></td><td colspan="4">Pupillen</td><td colspan="3">eng</td><td colspan="5">mittel</td><td>weit</td></tr>
+<tr><td></td><td colspan="4">Lichtreaktion</td><td colspan="3">prompt</td><td colspan="5">verzögert</td><td>verlangsamt</td></tr>
+<tr><td></td><td colspan="4">Konjunktiven</td><td colspan="3">unauffällig</td><td colspan="5">gerötet</td><td>glänzend</td></tr>
+<tr><td>9</td><td colspan="13">Tests zur geteilten Aufmerksamkeit</td></tr>
+<tr><td>91</td><td colspan="13">Romberg-Stehversuch plus «innere Uhr»:</td></tr>
+<tr><td></td><td>Stand:</td><td colspan="4">sicher</td><td colspan="3">Schwanken</td><td colspan="5">nicht durchführbar, weil:</td></tr>
+<tr><td></td><td>Tremor:</td><td colspan="4">nein</td><td colspan="3">ja</td><td colspan="5"></td></tr>
+<tr><td></td><td>Innere Uhr:</td><td colspan="4"></td><td colspan="8">…… Sekunden als 30 Sekunden geschätzt</td></tr>
+<tr><td>92</td><td colspan="13">Finger-Nase-Versuch mit komplexer Abfolge (Sequenz links-rechts, links-rechts, rechts-links)</td></tr>
+<tr><td></td><td colspan="4">Nasenspitze</td><td colspan="6">getroffen</td><td colspan="3">verfehlt</td></tr>
+<tr><td></td><td colspan="4">Bewegungsablauf</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="4">ungestört</td><td colspan="6">Zick-zack-Bewegung</td><td colspan="3">Intentionstremor</td></tr>
+<tr><td></td><td colspan="13">Sequenz (links-rechts, links-rechts, rechts-links):</td></tr>
+<tr><td></td><td colspan="4">richtig</td><td colspan="6">falsch</td><td colspan="3"></td></tr>
+<tr><td>93</td><td colspan="13">Strichgang (geschlossene Augen, ein Fuss vor den anderen)</td></tr>
+<tr><td></td><td colspan="3">sicher</td><td colspan="6">unsicher</td><td colspan="4">nicht durchführbar, weil:</td></tr>
+<tr><td>10</td><td colspan="13">Verhalten</td></tr>
+<tr><td></td><td colspan="2">ruhig</td><td colspan="4">müde/apathisch</td><td colspan="5">verlangsamt</td><td colspan="2">angetrieben</td></tr>
+<tr><td></td><td colspan="2">distanzlos</td><td colspan="4">aggressiv</td><td colspan="5">ablehnend</td><td colspan="2">aufgeregt/gereizt</td></tr>
+<tr><td></td><td colspan="2">weinerlich</td><td colspan="4">geschwätzig</td><td colspan="5"></td><td colspan="2"></td></tr>
+<tr><td>11</td><td colspan="13">Stimmung</td></tr>
+<tr><td></td><td colspan="2">unauffällig</td><td colspan="4">bedrückt</td><td colspan="5">euphorisch</td><td colspan="2"></td></tr>
+<tr><td>12</td><td colspan="13">Sprache</td></tr>
+<tr><td></td><td colspan="2">unauffällig</td><td colspan="4">verwaschen</td><td colspan="5">lallend</td><td colspan="2"></td></tr>
+<tr><td>13</td><td colspan="13">Sprachliche Verständigung</td></tr>
+<tr><td></td><td colspan="2">ohne Probleme</td><td colspan="4"></td><td colspan="7">problematisch, Grund:</td></tr>
+<tr><td>14</td><td colspan="13">Kooperation</td></tr>
+<tr><td></td><td colspan="2">gut</td><td colspan="4">widerwillig</td><td colspan="5">verweigert</td><td colspan="2"></td></tr>
+</table>
+
+<table>
+<tr><td>15</td><td colspan="4">Gesamtbeurteilung</td></tr>
+<tr><td></td><td colspan="4">Eine Beeinträchtigung ist **aufgrund der erhobenen Befunde**</td></tr>
+<tr><td></td><td>nicht merkbar</td><td>leicht</td><td>ausgeprägt</td><td></td></tr>
+</table>
+
+<table>
+<tr><td>16</td><td>Bemerkungen</td></tr>
+</table>
+
+<table>
+<tr><td>17</td><td>Auftraggeber/in (Kontrollbehörde/Untersuchungsrichter/in)</td></tr>
+</table>
+
+<table>
+<tr><td>18</td><td colspan="2">Dauer der Untersuchung</td></tr>
+<tr><td></td><td>Von:</td><td>Bis:</td></tr>
+</table>
+
+<table>
+<tr><td>19</td><td>Ort und Datum der Untersuchung:</td><td>Unterschrift und Stempel des Arztes/der Ärztin:</td></tr>
+</table>
+
+Geht an:
+
+Original an die Strafbehörde
+
+Kopie an die Administrativmassnahme-Behörde
+
+Kopie an das mit der Blut-/Urinuntersuchung beauftragte Laboratorium
+
+Anhang 4*[^t-3]*
+
+(Art. 35)
+
+## Prüfbericht über die Kontrolle des technischen Zustands von Nutzfahrzeugen
+
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
+
+<table>
+<tr><td colspan="2">1.</td><td colspan="12">Ort der Kontrolle:</td></tr>
+<tr><td colspan="2">2.</td><td colspan="12">Datum:</td></tr>
+<tr><td colspan="2">3.</td><td colspan="12">Uhrzeit:</td></tr>
+<tr><td colspan="2">4.</td><td colspan="12">Landeszeichen und Kontrollschild des Zugfahrzeugs:</td></tr>
+<tr><td colspan="2">4*a*.</td><td colspan="12">Landeszeichen und Kontrollschild des Anhängers/Sattelanhängers:</td></tr>
+<tr><td colspan="2">5.</td><td colspan="12">Fahrgestellnummer:</td></tr>
+<tr><td colspan="2">6.</td><td colspan="12">Fahrzeugklasse:</td></tr>
+<tr><td colspan="2"></td><td colspan="2">a)</td><td>◻</td><td>Lastwagen<sup>1</sup> und schwerer Sattelschlepper<sup>2</sup> bis 12 t</td><td colspan="2"></td><td>e)</td><td>◻</td><td colspan="4">Lastwagen und schwerer Sattelschlepper über 12 t</td></tr>
+<tr><td colspan="2"></td><td colspan="2">b)</td><td>◻</td><td>Anhänger<sup>3</sup></td><td colspan="2"></td><td>f)</td><td>◻</td><td colspan="4">Sattelanhänger<sup>4</sup></td></tr>
+<tr><td colspan="2"></td><td colspan="2">c)</td><td>◻</td><td>Anhängerzug<sup>5</sup></td><td colspan="2"></td><td>g)</td><td>◻</td><td colspan="4">Sattelmotorfahrzeug<sup>6</sup></td></tr>
+<tr><td colspan="2"></td><td colspan="2">d)</td><td>◻</td><td>Gesellschaftswagen<sup>7</sup></td><td colspan="2"></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td colspan="2">7.</td><td colspan="12">Transportunternehmen, Adresse:</td></tr>
+<tr><td><sup>1</sup></td><td colspan="13">Lastwagen» sind schwere Motorwagen (über 3,50 t) zum Sachentransport (Klassen N<sub>2</sub> oder N<sub>3</sub>).</td></tr>
+<tr><td><sup>2</sup></td><td colspan="13">«Schwere Sattelschlepper» sind die zum Ziehen von Sattelanhängern gebauten Motorwagen mit einem Garantiegewicht von über 3,50 t (Klassen N<sub>2</sub> oder N<sub>3</sub>).</td></tr>
+<tr><td><sup>3</sup></td><td colspan="13">«Anhänger» sind Fahrzeuge ohne eigenen Antrieb, die gebaut sind, um von anderen Fahrzeugen gezogen zu werden und mit diesen durch eine geeignete Verbindungseinrichtung schwenkbar verbunden sind (Abschlepprollis gelten nicht als Anhänger). «Sachentransportanhänger» sind Anhänger mit Ladebrücken, Tanks oder anderen Laderäumen zur Beförderung von Sachen. Diese werden in folgende Klassen eingeteilt:</td></tr>
+<tr><td></td><td colspan="2">a.</td><td colspan="11">«Klasse O1»: Anhänger mit einem Garantiegewicht von höchstens 0,75 t;</td></tr>
+<tr><td></td><td colspan="2">b.</td><td colspan="11">«Klasse O2»: Anhänger mit einem Garantiegewicht von über 0,75 t bis höchstens 3,50 t;</td></tr>
+<tr><td></td><td colspan="2">c.</td><td colspan="11">«Klasse O3»: Anhänger mit einem Garantiegewicht von über 3,50 t bis höchstens 10,00 t;</td></tr>
+<tr><td></td><td colspan="2">d.</td><td colspan="11">«Klasse O4»: Anhänger mit einem Garantiegewicht von über 10,00 t.</td></tr>
+<tr><td><sup>4</sup></td><td colspan="13">«Sattelanhänger» sind Anhänger, die so an ein Motorfahrzeug (Sattelschlepper) angekuppelt werden, dass sie teilweise auf diesem aufliegen. Ein wesentlicher Teil des Gewichts des Anhängers und seiner Ladung wird vom Zugfahrzeug getragen.</td></tr>
+<tr><td><sup>5</sup></td><td colspan="13">Kombination aus einem Transportmotorwagen und einem Anhänger</td></tr>
+<tr><td><sup>6</sup></td><td colspan="13">«Sattelmotorfahrzeug» ist die Kombination eines Sattelschleppers mit einem Sattelanhänger.</td></tr>
+<tr><td><sup>7</sup></td><td colspan="13">«Gesellschaftswagen» sind schwere Motorwagen zum Personentransport mit mehr als neun Sitzplätzen einschliesslich Führer oder Führerin (Klasse M<sub>2</sub> über 3,50 t oder M<sub>3</sub>).</td></tr>
+<tr><td colspan="2">7*a*.</td><td colspan="12">Nummer der Transportlizenz:</td></tr>
+<tr><td colspan="2">8.</td><td colspan="12">Nationalität:</td></tr>
+<tr><td colspan="2">9.</td><td colspan="12">Fahrer/in:</td></tr>
+<tr><td colspan="2">10.</td><td colspan="5">Prüfpunkte</td><td colspan="4">kontrolliert</td><td>nicht kontrolliert</td><td colspan="2">nicht vorschriftsmässig</td></tr>
+<tr><td colspan="2"></td><td colspan="2">a)</td><td colspan="3">Bremsanlage und deren Bestandteile</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">b)</td><td colspan="3">Auspuffanlage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">c)</td><td colspan="3">Abgastrübung (Dieselmotoren)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">d)</td><td colspan="3">Gasförmige Emissionen (Benzin-, Erdgas- oder Flüssiggasmotoren)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">e)</td><td colspan="3">Lenkanlage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">f)</td><td colspan="3">Beleuchtungs- und Signaleinrichtungen</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">g)</td><td colspan="3">Räder/Reifen</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">h)</td><td colspan="3">Federung (sichtbare Mängel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">i)</td><td colspan="3">Fahrgestell (sichtbare Mängel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">j)</td><td colspan="3">Fahrtschreiber (Einbau)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">k)</td><td colspan="3">Geschwindigkeitsbegrenzer (Einbau und Funktion)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td colspan="2">l)</td><td colspan="3">Austritt von Treibstoff und/ oder Öl</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2">11.</td><td colspan="12">Ergebnisse der Kontrolle</td></tr>
+<tr><td colspan="2"></td><td colspan="11">Das Fahrzeug weist schwerwiegende Mängel auf; die Benutzung des Fahrzeugs wird vorläufig untersagt</td><td>◻</td></tr>
+<tr><td colspan="2">12.</td><td colspan="12">Verschiedenes/Bemerkungen</td></tr>
+<tr><td colspan="2">13.</td><td colspan="12">Kontrollbehörde, Beauftragte/r oder Prüfer/in</td></tr>
+<tr><td colspan="14">Unterschrift der Behörde bzw. des Beauftragten oder Prüfers/der Beauftragten oder Prüferin, der/die die Kontrolle durchgeführt hat</td></tr>
+</table>
+
+Anhang 5
+
+(Art. 36)
+
+## Prüfbericht für die Kontrolle der Gefahrguttransporte auf der Strasse
+
+<table>
+<tr><td>1.</td><td colspan="13">Kontrollort:</td></tr>
+<tr><td>2.</td><td colspan="13">Datum:</td></tr>
+<tr><td>3.</td><td colspan="13">Uhrzeit:</td></tr>
+<tr><td>4.</td><td colspan="13">Landeszeichen und Kontrollschild des Fahrzeugs:</td></tr>
+<tr><td>5.</td><td colspan="13">Landeszeichen und Kontrollschild des Anhängers/Sattelanhängers:</td></tr>
+<tr><td>6.</td><td colspan="13">Transportunternehmen, Adresse:</td></tr>
+<tr><td>7.</td><td colspan="3">Fahrer/in: Beifahrer/in:</td><td colspan="4">Amtl. Ausweis: Amtl. Ausweis:</td><td colspan="5">◻ Ja ◻ Ja</td><td>◻ Nein ◻ Nein</td></tr>
+<tr><td>8.</td><td colspan="13">Absender, Anschrift, Verladeort:<sup>1, 2</sup></td></tr>
+<tr><td>9.</td><td colspan="13">Empfänger, Anschrift, Entladeort:<sup>1, 2</sup></td></tr>
+<tr><td>10.</td><td colspan="13">Gesamtmenge Gefahrgut je Beförderungseinheit (in Tonnen):</td></tr>
+<tr><td>11.</td><td colspan="7">Freigrenze nach ADR 1.1.3.6 überschritten</td><td colspan="5">◻ Ja</td><td>◻ Nein</td></tr>
+<tr><td>12.</td><td>Verkehrsträger</td><td colspan="6">◻ in loser Schüttung</td><td colspan="5">◻ Versandstück</td><td>◻ Tank</td></tr>
+<tr><td colspan="14">Dokumente an Bord</td></tr>
+<tr><td>13.</td><td colspan="2">Beförderungspapier:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>14.</td><td colspan="2">Schriftliche Weisungen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>15.</td><td colspan="2">Bilaterale/multilaterale Vereinbarung, nationale Genehmigung:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>16.</td><td colspan="2">Zulassungsbescheinigung Fahrzeug:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>17.</td><td colspan="2">Schulungsbescheinigung Fahrer/in:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td colspan="14">Beförderung</td></tr>
+<tr><td>18.</td><td colspan="2">Gut zur Beförderung zugelassen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>19.</td><td colspan="2">Fahrzeug zur Beförderung zugelassen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>20.</td><td colspan="2">Gut zugelassen als lose Schüttung, im Versandstück, im Tank:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>21.</td><td colspan="2">Zusammenladeverbot:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>22.</td><td colspan="2">Beladen/Ladungssicherung<sup>3</sup>:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>23.</td><td colspan="2">Austreten von Gütern oder Beschädigung des Versandstücks<sup>3</sup>:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>24.</td><td colspan="2">Versandstück/Tank geprüft/codiert<sup>2, 3</sup>:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>25.</td><td colspan="2">UN-Nr. und Gefahrzettel am Versandstück:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>26.</td><td colspan="2">Grosszettel (Placards) auf Tank/Fahrzeug:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>27.</td><td colspan="2">Kennzeichnung Beförderungseinheit (orangefarbene Tafel/erwärmter Zustand):</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td colspan="14">Ausrüstung</td></tr>
+<tr><td>28.</td><td colspan="2">Sonstige Ausrüstung (Teil 8 ADR):</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>29.</td><td colspan="2">Zusatzausrüstung gemäss Sondervorschrift:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>30.</td><td colspan="2">Ausrüstung gemäss schriftlichen Weisungen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>31.</td><td colspan="2">Feuerlöscher:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td colspan="14">SDR-Bestimmungen</td></tr>
+<tr><td>32.</td><td colspan="2">Alkoholverbot:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>33.</td><td colspan="2">Erhöhte Haftpflichtversicherung:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td>34.</td><td colspan="2">Befahren des linken Fahrstreifens in mit Signal «Tunnel» bezeichneten Tunneln:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
+<tr><td colspan="14">Zusätzliche Angaben</td></tr>
+<tr><td>35.</td><td colspan="6">Gegebenenfalls schwerwiegendste Gefahrenkategorie der festgestellten Verstösse:</td><td colspan="3">◻ Kat. I</td><td colspan="3">◻ Kat. II</td><td>◻ Kat. III</td></tr>
+<tr><td>36.</td><td>Ahndung der festgestellten Verstösse:</td><td colspan="4">◻ Verwarnung</td><td colspan="6">◻ Geldbusse (OBV)</td><td colspan="2">◻ Sonstige (Verzeigung)</td></tr>
+<tr><td>37.</td><td>Stillgelegt:</td><td colspan="4"></td><td colspan="6">◻ Ja</td><td colspan="2">◻ Nein</td></tr>
+<tr><td>38.</td><td colspan="13">Bemerkungen:</td></tr>
+<tr><td>39.</td><td colspan="13">Uhrzeit/Kontrollende:</td></tr>
+<tr><td>40.</td><td colspan="13">Kontrollbehörde/Prüfer/in: (Stempel, Unterschrift + Kurzzeichen)</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup></td><td>Nur ausfüllen, wenn für einen Verstoss von Bedeutung</td></tr>
+<tr><td><sup>2</sup></td><td>Bei Sammelladung unter «Bemerkungen» angeben</td></tr>
+<tr><td><sup>3</sup></td><td>Prüfung auf sichtbare Verstösse</td></tr>
+</table>

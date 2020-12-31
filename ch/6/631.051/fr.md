@@ -1,0 +1,245 @@
+---
+sr: "631.051"
+title: Ordonnance du 18 octobre 2006 concernant la caisse de prévoyance du personnel des douanes
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/256"
+language: fr
+version: 2018-01-01
+adopted: 2006-10-18
+in_force: 2007-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-256-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la caisse de prévoyance du personnel des douanes
+
+du 18 octobre 2006 (Etat le 1<sup>er</sup> janvier 2018)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 93, al. 2, de la loi du 18 mars 2005 sur les douanes[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Forme juridique et but**
+
+<sup>1</sup> La Caisse de prévoyance du personnel des douanes (caisse de prévoyance) est un fonds spécial de la Confédération. Sa fortune, à affectation liée, est propriété de la Confédération suisse.
+
+<sup>2</sup> La caisse de prévoyance a pour but d’améliorer la situation sociale des membres de l’Administration fédérale des douanes (AFD) et de leurs familles, en particulier d’atténuer les difficultés financières survenues sans qu’il y ait eu faute grave de leur part.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 2
+
+**Prestations financières**
+
+La caisse de prévoyance fournit des prestations financières sous forme de:
+
+- a. prêts, à l’exception des prêts hypothécaires;
+- b. subsides aux frais d’instruction des enfants des destinataires des prestations;
+- c. contributions aux frais de maladie des destinataires des prestations et de leurs proches;
+- d. contributions à d’autres fins que la commission (art. 7, let. a) considère comme dignes de soutien.
+
+#### Art. 3
+
+**Appartements de vacances**[^3-1]
+
+La caisse de prévoyance peut mettre à disposition des logements de vacances à des conditions avantageuses. L’exploitation des logements de vacances doit couvrir les frais.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 4
+
+**Conditions régissant l’octroi des prestations**
+
+<sup>1</sup>
+
+Peuvent obtenir des prestations de la caisse de prévoyance, sur demande:
+
+- a.[^4-1] les personnes occupées pour une durée illimitée et au moins à 50 % à l’AFD;
+- b. exceptionnellement, également les personnes occupées pour une durée limitée ou à moins de 50 %;
+- c. si les circonstances le justifient, les retraités ainsi que les veuves, veufs et orphelins.
+
+<sup>1bis</sup> Peuvent obtenir, sur demande, des prestations visées à l’art. 3, en plus des personnes mentionnées à l’al. 1, les collaborateurs d’autorités et d’organisations qui assurent des tâches de droit public et qui accordent la réciprocité pour des prestations au sens de l’art. 3.[^4-2]
+
+<sup>2</sup>
+
+Des prestations financières ne sont accordées qu’aux personnes:
+
+- a. qui ne peuvent pas recourir à d’autres prestations légales ou contractuelles ou ne peuvent y recourir que dans une mesure insuffisante;
+- b. qui sont disposées à coopérer et consentent à une consultation préalable.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^4-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 5
+
+**Principes de la fourniture des prestations**
+
+<sup>1</sup> La caisse de prévoyance attribue ses prestations en fonction de critères sociaux et veille à une affectation efficace et économe.
+
+<sup>2</sup> …[^5-1]
+
+[^5-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> déc. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 6
+
+**Provenance des fonds et comptabilité**
+
+<sup>1</sup>
+
+La caisse de prévoyance finance:
+
+- a. ses prestations financières par les ressources générales de la Confédération, par des dons et des legs et par la fortune au sens de l’art. 14, al. 1, let. a;
+- b. ses logements de vacances par les loyers, par des dons et des legs et par la fortune au sens de l’art. 14, al. 1, let b.
+
+<sup>2</sup> Elle tient des comptes séparés sur ses prestations financières et sur ses logements de vacances. Ces comptes sont constitués du compte de résultats, du bilan et de l’inventaire.
+
+## Section 2 Organes et procédure
+
+#### Art. 7
+
+**Organes**
+
+Les organes de la caisse de prévoyance sont:
+
+- a. la commission;
+- b. le secrétariat.
+
+#### Art. 8
+
+**Commission**
+
+<sup>1</sup>
+
+La commission se compose:
+
+- a. du président;
+- b. de quatre membres;
+- c. de quatre suppléants.
+
+<sup>2</sup> Le directeur général des douanes désigne le président, deux membres et deux suppléants, et il nomme un des deux membres en tant que vice-président.[^8-1]
+
+<sup>3</sup> Les partenaires sociaux désignent deux membres et deux suppléants.[^8-2]
+
+<sup>4</sup> Les membres et les suppléants sont désignés pour une période administrative de quatre ans. La durée du mandat est limitée à douze ans.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 9
+
+**Tâches de la commission**
+
+<sup>1</sup>
+
+La commission:
+
+- a. liquide toutes les affaires qu’elle n’a pas déléguées au secrétariat;
+- b. statue sur l’utilisation des fonds, dans la mesure où cette compétence n’a pas été déléguée au secrétariat;
+- c. édicte un règlement et d’autres dispositions d’exécution;
+- d. établit le budget, le rapport de gestion et les comptes annuels;
+- e.[^9-1] propose chaque année au directeur général des douanes les fonds nécessaires pour les prestations financières visées à l’art. 6, al. 1, let. a.
+
+<sup>2</sup> La commission justifie dans le rapport de gestion l’ampleur et la valeur des prestations fournies par la caisse de prévoyance durant l’année sous revue.[^9-2]
+
+<sup>3</sup> Les requérants peuvent exiger que leur demande soit soumise pour décision à la commission si le secrétariat ne l’a pas acceptée ou ne l’a que partiellement satisfaite.
+
+<sup>4</sup> Le règlement, le rapport de gestion et les comptes annuels sont soumis à l’approbation du Département fédéral des finances (DFF). Le budget requiert l’approbation du directeur général des douanes.[^9-3]
+
+[^9-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 10
+
+**Tâches du secrétariat**
+
+Le secrétariat gère les affaires de la caisse de prévoyance sur mandat de la commission et conformément au règlement.
+
+#### Art. 11
+
+**Frais de personnel et frais administratifs**[^11-1]
+
+<sup>1</sup> L’AFD met gratuitement à disposition le personnel nécessaire pour remplir les tâches prévues aux art. 2 et 13 et assume les frais administratifs qui en découlent.
+
+<sup>2</sup> Tous les frais pour l’exécution des tâches prévues à l’art. 3 sont couverts exclusivement par les revenus provenant de la location des logements de vacances.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 12
+
+**Gestion de la fortune**
+
+<sup>1</sup> La fortune en espèces de la caisse de prévoyance est gérée séparément par l’Administration fédérale des finances (art. 52, al. 2, de la LF du 7 oct. 2005 sur les finances de la Confédération[^12-1]).
+
+<sup>2</sup> La rémunération de la fortune en espèces de la caisse de prévoyance est régie par l’art. 70, al. 2, de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^12-2].
+
+<sup>3</sup> Si la Confédération vend des maisons ou des appartements qu’elle a loués à la caisse de prévoyance, elle crédite cette dernière d’une part appropriée des coûts de gros entretien et de modernisation que la caisse de prévoyance a assumés en lieu et place de la Confédération.
+
+[^12-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^12-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+
+#### Art. 13
+
+**Organe de révision**
+
+<sup>1</sup> La section «Audit interne» est l’organe de révision de l’AFD.[^13-1]
+
+<sup>2</sup>
+
+L’organe de révision:
+
+- a. contrôle si la tenue des livres et le compte annuel sont conformes aux prescriptions légales, au règlement de la caisse de prévoyance et aux autres dispositions d’exécution;
+- b. peut consulter toutes les pièces nécessaires et requérir des organes de la caisse de prévoyance des renseignements verbaux ou écrits;
+- c.[^13-2] fait rapport à la commission, au directeur général des douanes et au DFF sur les résultats du contrôle.
+- [tab] <sup>3</sup> La surveillance financière du Contrôle fédéral des finances demeure réservée.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+## Section 3 Dispositions finales
+
+#### Art. 14
+
+**Transfert de la fortune en espèces**
+
+<sup>1</sup>
+
+A l’entrée en vigueur de la présente ordonnance, la fortune en espèces de la caisse de prévoyance est répartie en deux sur une fortune pour:
+
+- a. les prestations visées à l’art. 6, al. 1, let. a;
+- b. les prestations visées à l’art. 6, al. 1, let. b.
+
+<sup>2</sup> Le bilan d’ouverture est présenté au DFF pour approbation.[^14-1]
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 15
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 1<sup>er</sup> juillet 1992 concernant la caisse de prévoyance du personnel des douanes[^15-1] est abrogée.
+
+[^15-1]: [[RO 1992 1330](https://fedlex.data.admin.ch/eli/oc/1992/1330_1330_1330)]
+
+#### Art. 15a
+
+**Disposition transitoire relative à la modification du 1<sup>er</sup> décembre 2017**[^15a-1]
+
+<sup>1</sup> Les membres de la commission qui ont été nommés ou désignés avant l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2017 restent en fonction jusqu’au terme de la période administrative.
+
+[^15a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 16
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2007.

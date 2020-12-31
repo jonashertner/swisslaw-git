@@ -1,0 +1,147 @@
+---
+sr: "641.611.21"
+title: Verordnung des UVEK vom 15. Juni 2016 über den Nachweis der Erfüllung der ökologischen Anforderungen an erneuerbare Treibstoffe (ETrV)
+short: ETrV
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/427"
+language: de
+version: 2016-08-01
+adopted: 2016-06-15
+in_force: 2016-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/427/20160801/de/xml/fedlex-data-admin-ch-eli-cc-2016-427-20160801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/427/20160801/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des UVEK über den Nachweis der Erfüllung der ökologischen Anforderungen an biogene Treibstoffe
+
+(BTrV)
+
+vom 15. Juni 2016 (Stand am 1. August 2016)
+
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
+
+gestützt auf Artikel 19*f* Absatz 2 der Mineralölsteuerverordnung vom 20. November 1996[^ingress-1] (MinöStV),
+
+verordnet:
+
+[^ingress-1]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung regelt die Einzelheiten des Nachweises der Erfüllung der ökologischen Anforderungen an biogene Treibstoffe, den der Gesuchsteller erbringen muss, damit die Steuererleichterung nach Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^1-1] gewährt wird.
+
+[^1-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+#### Art. 2
+
+**Nachweis der Erfüllung der ökologischen Anforderungen**
+
+Für den Nachweis, dass die ökologischen Anforderungen nach Artikel 19*c* MinöStV erfüllt sind, muss der Gesuchsteller die Angaben nach den Artikeln 3–7 machen.
+
+#### Art. 3
+
+**Angaben über die Art und die Qualität des biogenen Treibstoffs**
+
+Es sind Angaben zu machen über:
+
+- a. die Art des biogenen Treibstoffs;
+- b. die Qualität des biogenen Treibstoffs unter Angabe anerkannter Normen;
+- c. die eingesetzte Biomasse oder die anderen erneuerbaren Energieträger, die zur Herstellung eingesetzt werden.
+
+#### Art. 4
+
+**Angaben über die genutzten Flächen**
+
+Es sind Angaben zu machen über:
+
+- a. das Herkunftsland und die geografische Lage des Anbauorts der eingesetzten Rohstoffe;
+- b. die Nutzung der Fläche zwischen dem 1. Januar 2008 und dem Zeitpunkt des Anbaus der Rohstoffe.
+
+#### Art. 5
+
+**Angaben über den Anbau und die Ernte der Rohstoffe**
+
+Es sind Angaben zu Anbau und Ernte zu machen über:
+
+- a. die Anbau- und Erntetechniken unter Angabe der eingesetzten Maschinen und Energieträger;
+- b. die Art und die Menge der eingesetzten Dünge- und Pflanzenschutzmittel;
+- c. die Bewässerungstechnik und die dabei verbrauchte Wassermenge sowie die Art des genutzten Wasservorkommens;
+- d. die Art und die Menge aller Haupt- und Nebenprodukte;
+- e. den wertmässigen Ertrag aller Haupt- und Nebenprodukte;
+- f. die Art und die Menge der entstandenen Abfälle sowie deren Entsorgung.
+
+#### Art. 6
+
+**Angaben über die Herstellung des biogenen Treibstoffs**
+
+Es sind Angaben zur Herstellung zu machen über:
+
+- a. die angewendete Technik;
+- b. die Art und die Menge der eingesetzten Energie;
+- c. die Art und die Menge der verwendeten Hilfsstoffe;
+- d. die Art und die Menge aller Haupt- und Nebenprodukte;
+- e. den energetischen und den wertmässigen Ertrag aller Haupt- und Nebenprodukte;
+- f. die Art und die Menge der entstandenen Abfälle sowie deren Entsorgung;
+- g. die freigesetzten Treibhausgase und Umweltschadstoffe.
+
+#### Art. 7
+
+**Angaben über die Verarbeitungsorte und die Transporte**
+
+Es sind Angaben zu machen über:
+
+- a. die Verarbeitungsorte;
+- b. die Transportmittel und Transportdistanzen vom Anbauort der Rohstoffe bis zum Ort der Entgegennahme des biogenen Treibstoffs durch Konsumentinnen und Konsumenten.
+
+#### Art. 8
+
+**Vereinfachter Nachweis**
+
+<sup>1</sup> Die Angaben nach den Artikeln 3–7 müssen nicht gemacht werden, wenn der Gesuchsteller nachweist, dass der Treibstoff in Übereinstimmung mit den Anforderungen einer nationalen Gesetzgebung oder eines national oder international anerkannten Standards hergestellt wurde, die mit den ökologischen Anforderungen nach Artikel 19*c* MinöStV gleichwertig sind. Ist die Gleichwertigkeit nur teilweise gegeben, so sind jene Angaben nach den Artikeln 3–7 zu machen, die für die Prüfung der Erfüllung der ökologischen Anforderungen nach Artikel 19*c* MinöStV erforderlich sind.
+
+<sup>2</sup> Sind gewisse Angaben nach den Artikeln 3–7 aufgrund der Art und der Herstellung des biogenen Treibstoffs für die Prüfung, ob die ökologischen Anforderungen nach Artikel 19*c* MinöStV erfüllt sind, nicht erforderlich, so müssen diese Angaben nicht gemacht werden.
+
+#### Art. 9
+
+**Bilanzierung der Treibhausgase und der Umweltbelastung**
+
+<sup>1</sup> Das Bundesamt für Umwelt (BAFU) bilanziert die Treibhausgase und die Umweltbelastung auf der Grundlage der gemachten Angaben und unter Einbezug von Standardwerten für die Verbrauchsphase des biogenen Treibstoffs.
+
+<sup>2</sup>
+
+Bei der Bilanzierung verwendet es insbesondere:
+
+- a. die Datensätze der Ökoinventardatenbank des Ecoinvent-Zentrums[^9-1] oder von Ökoinventardatenbanken von vergleichbarer Qualität hinsichtlich Überprüfbarkeit und Nachvollziehbarkeit sowie hinsichtlich Überprüfung durch Dritte;
+- b. die Methode der ökologischen Knappheit[^9-2] oder andere Methoden von vergleichbarer Qualität hinsichtlich Überprüfbarkeit, Nachvollziehbarkeit und Vollständigkeit.
+
+[^9-1]: Die Datensätze können im Internet beim Ecoinvent-Zentrum unter www.ecoinvent.ch gegen Bezahlung abgerufen werden.
+[^9-2]: BAFU, Ökofaktoren Schweiz 2013 gemäss der Methode der ökologischen Knappheit, Umwelt-Wissen Nr. 1330, Bern 2013. Die Publikation kann im Internet beim BAFU kostenlos abgerufen werden unter www.bafu.admin.ch &gt; Themen A–Z &gt; Ökobilanzen &gt; Methode der ökologischen Knappheit.
+
+#### Art. 10
+
+**Prüfung und Beurteilung der Erfüllung der ökologischen Anforderungen**
+
+<sup>1</sup> Das BAFU prüft, ob die ökologischen Anforderungen nach Artikel 19*c* MinöStV erfüllt sind.
+
+<sup>2</sup> Es kann weitere Angaben oder Unterlagen einfordern, soweit dies für die Prüfung der Erfüllung der ökologischen Anforderungen erforderlich ist.
+
+<sup>3</sup> Es kann bei der Prüfung, ob die ökologischen Anforderungen erfüllt sind, unabhängige Expertinnen und Experten beiziehen.
+
+<sup>4</sup> Es fasst seine Beurteilung in einem Prüfbericht zuhanden der Oberzolldirektion zusammen.
+
+#### Art. 11
+
+**Aufhebung eines anderen Erlasses**
+
+Die Treibstoffökobilanz-Verordnung vom 3. April 2009[^11-1] wird aufgehoben.
+
+[^11-1]: [[AS 2009 1509](https://fedlex.data.admin.ch/eli/oc/2009/217), [2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)Anhang 9 Ziff. 7]
+
+#### Art. 12
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. August 2016 in Kraft.

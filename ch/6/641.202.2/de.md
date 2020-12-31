@@ -1,0 +1,138 @@
+---
+sr: "641.202.2"
+title: Verordnung des EFD vom 24. März 2011 über die Steuerbefreiung von Inlandlieferungen von Gegenständen zwecks Ausfuhr im Reiseverkehr
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/186"
+language: de
+version: 2020-08-01
+adopted: 2011-03-24
+in_force: 2011-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/186/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2011-186-20200801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/186/20200801/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EFD über die Steuerbefreiung von Inlandlieferungen von Gegenständen zwecks Ausfuhr im Reiseverkehr
+
+vom 24. März 2011 (Stand am 1. August 2020)
+
+Das Eidgenössische Finanzdepartement (EFD),
+
+gestützt auf Artikel 23 Absatz 5 des Mehrwertsteuergesetzes vom 12. Juni 2009[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+
+#### Art. 1
+
+**Voraussetzungen für die Steuerbefreiung**
+
+Inlandlieferungen von Gegenständen zwecks Ausfuhr im Reiseverkehr sind von der Mehrwertsteuer befreit, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Gegenstände sind für den privaten Gebrauch des Abnehmers oder der Abnehmerin oder für Geschenkzwecke bestimmt.
+- b. Der Preis der Gegenstände beträgt je Ausfuhrdokument und Abnehmer oder Abnehmerin mindestens 300 Franken (mit Einschluss der Mehrwertsteuer).
+- c. Der Abnehmer oder die Abnehmerin hat nicht im Inland Wohnsitz.
+- d.[^1-1] Die Gegenstände werden innert 90 Tagen nach ihrer Übergabe an den Abnehmer oder die Abnehmerin ins Zollausland verbracht.
+
+[^1-1]: Fassung gemäss Ziff. I der V des EFD vom 8. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2853](https://fedlex.data.admin.ch/eli/oc/2020/521)).
+
+#### Art. 2
+
+**Nachweis für die Steuerbefreiung**
+
+<sup>1</sup>
+
+Die Voraussetzungen nach Artikel 1 gelten als erfüllt, wenn der Lieferant oder die Lieferantin der Eidgenössischen Steuerverwaltung (ESTV) vorlegt:
+
+- a. ein bestätigtes Ausfuhrdokument nach den Artikeln 3–5; oder
+- b. ein Ausfuhrdokument zusammen mit einer Einfuhrveranlagung nach Artikel 6.
+
+<sup>2</sup> Für Reisegruppen gilt Artikel 7.
+
+#### Art. 3
+
+**Ausfuhrdokument**
+
+<sup>1</sup>
+
+Das Ausfuhrdokument muss enthalten:
+
+- a. Aufdruck «Ausfuhrdokument im Reiseverkehr»;
+- b. Name und Ort des Lieferanten oder der Lieferantin, wie er oder sie im Geschäftsverkehr auftritt, sowie die Nummer, unter der er oder sie im Mehrwertsteuerregister eingetragen ist;
+- c. Name und Anschrift des Abnehmers oder der Abnehmerin;
+- d. Nummer eines amtlichen Ausweises des Abnehmers oder der Abnehmerin und Art dieses Ausweises;
+- e. Datum der Lieferung der Gegenstände;
+- f. genaue Beschreibung und Preis der Gegenstände;
+- g. Feld für die Bestätigung nach den Artikeln 4 und 5.
+
+<sup>2</sup> Der Lieferant oder die Lieferantin sowie der Abnehmer oder die Abnehmerin müssen mit ihrer Unterschrift bestätigen, dass sie die Voraussetzungen für eine Steuerbefreiung kennen und dass die Angaben auf dem Dokument richtig sind.
+
+#### Art. 4
+
+**Bestätigung durch die Eidgenössische Zollverwaltung bei der Ausfuhr**
+
+<sup>1</sup> Werden die im Ausfuhrdokument aufgeführten Gegenstände über eine besetzte Zollstelle ins Zollausland verbracht, so muss der Abnehmer oder die Abnehmerin sie unter Vorlage des Ausfuhrdokuments bei der Zollstelle mündlich anmelden.
+
+<sup>2</sup> Die Zollstelle bestätigt die Ausfuhr auf dem Ausfuhrdokument.
+
+<sup>3</sup> Der Abnehmer oder die Abnehmerin ist für die Zustellung des bestätigten Ausfuhrdokuments an den Lieferanten oder die Lieferantin verantwortlich.
+
+#### Art. 5
+
+**Nachträgliche Bestätigung**
+
+<sup>1</sup>
+
+Erfolgt die Ausfuhr nicht nach Artikel 4, so können die folgenden Stellen auf dem Ausfuhrdokument bestätigen, dass die Gegenstände im Ausland sind:
+
+- a. eine ausländische Zollbehörde;
+- b. eine schweizerische Botschaft oder ein schweizerisches Konsulat im Wohnsitzstaat des Abnehmers oder der Abnehmerin.
+
+<sup>2</sup> Der Abnehmer oder die Abnehmerin muss dem Lieferanten oder der Lieferantin das bestätigte Ausfuhrdokument zustellen.
+
+#### Art. 6
+
+**Einfuhrveranlagung**
+
+<sup>1</sup> Ist das Ausfuhrdokument nicht bestätigt, so kann es zusammen mit einer Einfuhrveranlagung einer ausländischen Zollbehörde als Nachweis nach Artikel 2 Absatz 1 eingereicht werden.
+
+<sup>2</sup> Die Einfuhrveranlagung muss in einer Schweizer Landessprache oder in Englisch oder in einer beglaubigten Übersetzung in eine dieser Sprachen vorliegen.
+
+#### Art. 7
+
+**Steuerbefreiung von Lieferungen an Reisegruppen**
+
+<sup>1</sup> Lieferanten und Lieferantinnen, die steuerfreie Inlandlieferungen an Teilnehmende von geführten Gruppenreisen im Inland erbringen wollen, benötigen eine Bewilligung der ESTV.
+
+<sup>2</sup>
+
+Inlandlieferungen an Teilnehmende von geführten Gruppenreisen sind von der Mehrwertsteuer befreit, wenn die Voraussetzungen nach Artikel 1 erfüllt sind und der Lieferant oder die Lieferantin:
+
+- a. über eine Liste der Reiseteilnehmenden mit Angaben zu Beginn und Ende der Reise, Reiseprogramm und Reiseroute sowie zum Zeitpunkt der Ein- und Ausreise verfügt;
+- b. über eine durch die Unterschrift des Reiseveranstalters oder der Reiseveranstalterin bestätigte Erklärung verfügt, dass alle Reiseteilnehmenden Wohnsitz im Ausland haben, gemeinsam ins Inland eingereist sind und gemeinsam ausreisen werden; und
+- c. für alle Abnehmer und Abnehmerinnen Ausfuhrdokumente nach Artikel 3 ausstellt und sie um eine Kopie der amtlichen Ausweise der Abnehmer und Abnehmerinnen ergänzt.
+
+<sup>3</sup> Der Lieferant oder die Lieferantin muss die Dokumente nach Absatz 2 in einem Dossier zusammenfassen und auf Verlangen der ESTV vorweisen.
+
+#### Art. 8
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung des EFD vom 11. Dezember 2009[^8-1] über die Steuerbefreiung von Inlandlieferungen von Gegenständen zwecks Ausfuhr im Reiseverkehr wird aufgehoben.
+
+[^8-1]: [[AS 2009 6813](https://fedlex.data.admin.ch/eli/oc/2009/831)]
+
+#### Art. 8a
+
+**Übergangsbestimmung zur Änderung vom 8. Juni 2020**[^8a-1]
+
+Findet die Übergabe vor dem 1. August 2020 statt, so müssen die Gegenstände innert 30 Tagen nach ihrer Übergabe an den Abnehmer oder die Abnehmerin ins Zollausland verbracht werden.
+
+[^8a-1]: Eingefügt durch Ziff. I der V des EFD vom 8. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2853](https://fedlex.data.admin.ch/eli/oc/2020/521)).
+
+#### Art. 9
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Mai 2011 in Kraft.

@@ -1,0 +1,56 @@
+---
+sr: "0.142.113.211"
+title: "Trattato d'amicizia del 7 giugno 1934 tra la Svizzera e l'Egitto"
+eli: "https://fedlex.data.admin.ch/eli/cc/51/243_250_281"
+language: it
+version: 1935-03-10
+adopted: 1934-06-07
+in_force: 1935-03-10
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/243_250_281/19350310/it/xml/fedlex-data-admin-ch-eli-cc-51-243_250_281-19350310-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/243_250_281/19350310/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Trattato d’amicizia tra la Svizzera e l’Egitto
+
+CS **11** 590; FF **1934** III ediz. ted. 365 ediz. franc.
+
+Traduzione[^t-1]
+
+Conchiuso il 7 giugno 1934 Approvato dall’Assemblea federale l’8 novembre 1934[^t-2] Istrumenti di ratificazione scambiati il 10 marzo 1935 Entrato in vigore il 10 marzo 1935
+
+(Stato 10 marzo 1935)
+
+[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: Art. 1 del DF dell’8 nov. 1934 ([RS 172.211.215](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5261)).
+
+Il Consiglio federale svizzero e Sua Maestà Fuad Primo, Re d’Egitto,
+
+animati dal desiderio di consolidare i vincoli d’amicizia e di sviluppare le relazioni tra i due Paesi, hanno risolto di conchiudere un Trattato ed hanno, a questo scopo, nominato loro Plenipotenziari:
+
+(Seguono i nomi dei plenipotenziari)
+
+i quali, dopo essersi comunicati i loro pieni poteri, hanno stabilito e firmato gli articoli seguenti:
+
+#### Art. 1
+
+Vi sarà tra la Svizzera e l’Egitto e tra i loro cittadini e sudditi pace perpetua e amicizia inalterabile.
+
+#### Art. 2
+
+[^2-1]
+
+Ciascuna delle Parti Contraenti potrà nominare degli agenti diplomatici, dei consoli generali, dei consoli, dei viceconsoli e degli agenti consolari che risiederanno nelle città, nei porti o nelle piazze dell’altra Parte dove sono ammessi a risiedere gli agenti aventi lo stesso carattere di un terzo Stato.
+
+I consoli generali, consoli, viceconsoli e agenti consolari dovranno, per poter entrare in funzioni, aver ottenuto l’exequatur o un’altra autorizzazione equivalente dal Governo dello Stato di loro residenza. Il Governo che avrà dato l’exequatur o un’autorizzazione equivalente avrà facoltà di ritirarlo, se lo giudicherà opportuno. Se fa uso di questa facoltà, ne indicherà i motivi.
+
+Gli agenti diplomatici dei due Stati godranno degli stessi diritti, privilegi, esenzioni ed immunità che sono o potranno essere accordati agli agenti dello stesso grado e della stessa categoria della nazione più favorita.
+
+[^2-1]: Vedi anche la Conv. di Vienna del 18 apr. 1961 sulle relazioni diplomatiche ([RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)) e la Conv. di Vienna del 24 apr. 1963 sulle relazioni consolari ([RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)).
+
+#### Art. 3
+
+Il presente Trattato sarà ratificato ed entrerà in vigore il giorno dello scambio delle ratificazioni, che avrà luogo al Cairo il più presto possibile.
+
+*In fede di che,* i Plenipotenziari hanno firmato il presente Trattato e l’hanno munito dei loro sigilli. Fatto in doppio esemplare al Cairo, il sette giugno millenovecentotrentaquattro. Henri Martin E. Trembley Yehia

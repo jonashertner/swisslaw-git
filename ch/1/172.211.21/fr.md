@@ -1,0 +1,240 @@
+---
+sr: "172.211.21"
+title: "Ordonnance du 18 novembre 2015 sur le système d'information relatif au service VIP (Ordonnance SIVIP)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
+language: fr
+version: 2016-01-01
+adopted: 2015-11-18
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-797-20160101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le système d’information relatif au service VIP
+
+(Ordonnance SIVIP)
+
+du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2016)
+
+Le Conseil fédéral suisse,
+
+vu la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle l’exploitation et l’utilisation du système d’information relatif au service VIP (SIVIP) du Protocole du Département fédéral des affaires étrangères (DFAE) au sein du Secrétariat d’Etat du DFAE.
+
+#### Art. 2
+
+**But et fonctionnalités du SIVIP**
+
+<sup>1</sup> Le SIVIP permet au Protocole du DFAE d’assumer les tâches qui lui reviennent en matière d’autorisation du service VIP dans les aéroports.
+
+<sup>2</sup>
+
+Dans cette optique, ce système offre les possibilités suivantes:
+
+- a. les représentations étrangères compétentes pour la Suisse peuvent remplir en ligne le formulaire de demande de service VIP pour les dignitaires;
+- b. les représentations étrangères compétentes pour la Suisse peuvent transmettre la note verbale accompagnant la demande;
+- c. les demandes peuvent être traitées par voie électronique et transmises aux services concernés conformément à l’art. 7, al. 4;
+- d. les demandes peuvent être archivées à des fins de vérification de l’activité;
+- e. les demandes peuvent être validées par timbre électronique.
+
+#### Art. 3
+
+**Autorité responsable**
+
+Le Protocole du DFAE est responsable du SIVIP.
+
+## Section 2 Données et traitement des données
+
+#### Art. 4
+
+**Personnes**
+
+Sont traitées dans le SIVIP des données relatives aux personnes figurant dans l’annexe et relatives aux représentations étrangères compétentes pour la Suisse.
+
+#### Art. 5
+
+**Données traitées**
+
+Dans le SIVIP, les données suivantes sont traitées:
+
+- a
+
+  au sujet des personnes figurant aux ch. 1 à 5 de l’annexe:
+
+  - 1\. prénom, nom et titre,
+  - 2\. motif de la visite,
+  - 3\. dates d’arrivée et de départ, aéroport et numéro de vol,
+  - 4\. service ou personne invitant à une visite officielle,
+  - 5\. indications concernant la représentation étrangère compétente pour la Suisse;
+
+- b.
+
+  au sujet des personnes figurant au ch. 6 de l’annexe:
+
+  - 1\. prénom, nom et numéro de passeport,
+  - 2\. dates d’arrivée et de départ, aéroport et numéro de vol,
+  - 3\. indications relatives à l’armement (marque et calibre des armes à feu et des munitions),
+  - 4\. indications concernant la représentation étrangère compétente pour la Suisse.
+
+#### Art. 6
+
+**Documents**
+
+Tout document relatif aux affaires saisies électroniquement peut être enregistré dans le SIVIP.
+
+#### Art. 7
+
+**Droits de traitement**
+
+<sup>1</sup> Les données sont enregistrées par les représentations étrangères compétentes pour la Suisse, qui peuvent les traiter tant que la demande n’a ni été approuvée ni refusée.
+
+<sup>2</sup> Dans la mesure où l’accomplissement de ses tâches l’exige, l’unité Informatique DFAE peut traiter toutes les données dans le SIVIP.
+
+<sup>3</sup> Les collaborateurs compétents du Protocole du DFAE ont le droit de traiter toutes les données dans le SIVIP.
+
+<sup>4</sup>
+
+Les entités suivantes peuvent consulter toutes les données dans le SIVIP (droit de lecture) pour les motifs énoncés ci-après:
+
+- a. l’Office fédéral de la police: pour garantir la sécurité des personnes citées dans l’annexe et pour instruire les corps de police dans les aéroports;
+- b. les aéroports suisses: pour la mise à disposition du service VIP;
+- c. l’Office fédéral de l’aviation civile: pour l’octroi d’autorisations d’atterrissage et de décollage (autorisations diplomatiques);
+- d. les divisions de la Direction politique du DFAE: pour la collecte des noms des membres de délégation ou d’autres informations pertinentes dès lors qu’il s’agit d’une visite officielle;
+- e. l’Office fédéral de la communication: pour l’attribution de fréquences radio aux gardes du corps;
+- f. l’Inspection des douanes de Berne: pour la réglementation des formalités douanières.
+
+<sup>5</sup> Le droit de traitement des données s’exerce par la voie de la procédure d’accès en ligne.
+
+#### Art. 8
+
+**Attribution des droits d’accès**
+
+<sup>1</sup> La personne responsable de l’application attribue les droits d’accès individuels aux utilisateurs du SIVIP.
+
+<sup>2</sup> Elle vérifie au moins une fois par an si les conditions relatives aux droits d’accès sont toujours remplies.
+
+#### Art. 9
+
+**Exploitation technique et administration du système**
+
+<sup>1</sup> L’unité Informatique DFAE est responsable de l’exploitation technique du SIVIP.
+
+<sup>2</sup> L’administrateur système gère le système informatique, la base de données et les applications du SIVIP.
+
+<sup>3</sup> La personne responsable de l’application sert d’interface entre l’administrateur système et les utilisateurs. Elle est employée au Protocole du DFAE.
+
+## Section 3 Protection des données et sécurité informatique
+
+#### Art. 10
+
+**Devoirs de diligence**
+
+<sup>1</sup> Le Protocole du DFAE veille à ce que les données personnelles dans le SIVIP soient traitées conformément aux prescriptions en vigueur.
+
+<sup>2</sup> Il s’assure que les données personnelles saisies dans le SIVIP sont exactes, complètes et à jour.
+
+#### Art. 11
+
+**Sécurité des données**
+
+<sup>1</sup> La sécurité des données et la sécurité informatique sont régies par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^11-1], par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^11-2] et par les directives du Conseil fédéral du 1<sup>er</sup> juillet 2015 concernant la sécurité informatique dans l’administration fédérale[^11-3].
+
+<sup>2</sup> Le Protocole du DFAE édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
+
+[^11-1]: [RS [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-2]: [RS [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^11-3]: [FF 2015 5313](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+
+## Section 4 Conservation, archivage et destruction des données
+
+#### Art. 12
+
+<sup>1</sup> Les données personnelles saisies dans le SIVIP sont détruites cinq ans après le dernier traitement.
+
+<sup>2</sup> Les dispositions de la législation relative à l’archivage sont réservées.
+
+## Section 5 Entrée en vigueur
+
+#### Art. 13
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
+
+Annexe
+
+(art. 4 et 5)
+
+## Personnes dont les données sont traitées dans le SIVIP
+
+### 1 Voyage privé ou transit
+
+- 1\.1 Souverain
+- 1\.2 Conjoint du souverain
+- 1\.3 Chef d’Etat
+- 1\.4 Conjoint du chef d’Etat
+- 1\.5 Secrétaire général de l’ONU
+- 1\.6 Membre de maison royale ou princière
+- 1\.7 Chef de gouvernement (niveau national)
+- 1\.8 Président d’un parlement national
+- 1\.9 Ministre des affaires étrangères
+
+### 2 Visite bilatérale (à l’invitation d’une autorité fédérale)
+
+- 2\.1 Souverain
+- 2\.2 Chef d’Etat
+- 2\.3 Secrétaire général de l’ONU
+- 2\.4 Membre de maison royale ou princière
+- 2\.5 Chef de gouvernement (niveau national)
+- 2\.6 Président d’un parlement national
+- 2\.7 Vice-président
+- 2\.8 Vice-premier ministre (niveau national)
+- 2\.9 Ministre (membre d’un gouvernement national)
+- 2\.10 Président de la banque nationale
+- 2\.11 a Président du Parlement européen
+- 2\.11 b Président du Parlement panafricain
+- 2\.12 a Président de la Commission européenne ou commissaire européen
+- 2\.12 b Président de la Commission de l’Union africaine ou commissaire de l’Union africaine
+- 2\.13 Vice-ministre
+- 2\.14 Secrétaire d’Etat
+- 2\.15 Haut dignitaire religieux
+- 2\.16 Haut dignitaire militaire
+- 2\.17 Haut représentant du pouvoir judiciaire
+- 2\.18 Président, secrétaire général ou directeur général d’une organisation intergouvernementale régionale ou d’une organisation internationale reconnue par la Suisse
+- 2\.19 Secrétaire général du Conseil de l’Europe
+
+### 3 Participation à un événement multilatéral en Suisse
+
+- 3\.1 Souverain
+- 3\.2 Chef d’Etat
+- 3\.3 Secrétaire général de l’ONU
+- 3\.4 Membre de maison royale ou princière
+- 3\.5 Chef de gouvernement (niveau national)
+- 3\.6 Vice-premier ministre (niveau national)
+- 3\.7 Ministre (membre d’un gouvernement national)
+- 3\.8 a Président de la Commission européenne ou commissaire européen
+- 3\.8 b Président de la Commission de l’Union africaine ou commissaire de l’Union africaine
+- 3\.9 Président d’un parlement national
+- 3\.10 Haut dignitaire religieux
+- 3\.11 Haut dignitaire militaire
+- 3\.12 Haut représentant du pouvoir judiciaire
+- 3\.13 Président, secrétaire général ou directeur général d’une organisation intergouvernementale régionale ou d’une organisation internationale reconnue par la Suisse
+
+### 4 Prise et fin de fonction en Suisse
+
+- 4\.1 Chef de mission diplomatique
+
+### 5 Personnes accompagnant les personnes visées aux ch. 1 à 4
+
+### 6 Personnes qui assurent la sécurité des personnes visées aux ch. 1 à 5

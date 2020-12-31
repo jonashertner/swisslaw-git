@@ -1,0 +1,813 @@
+---
+sr: "823.11"
+title: "Loi fédérale du 6 octobre 1989 sur le service de l'emploi et la location de services (LSE)"
+short: LSE
+eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
+language: fr
+version: 2020-01-01
+adopted: 1989-10-06
+in_force: 1991-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur le service de l’emploi et la location de services
+
+(LSE)
+
+du 6 octobre 1989 (Etat le 1<sup>er</sup> janvier 2020)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu les art. 31<sup>bis</sup>, al. 2, 34<sup>ter</sup>, al. 1, let. a et e, 64, al. 2, et 64<sup>bis</sup> de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 27 novembre 1985[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS **1** 3; [RO 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Aux disp. mentionnées correspondent actuellement les art. 95, 110, al. 1, let. a et c, 122, al. 1 et 123, al. 1 de la Constitution du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-3]: [FF 1985 III 524](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)
+
+## Chapitre 1 But
+
+#### Art. 1
+
+La présente loi vise à:
+
+- a. régir le placement privé de personnel et la location de services;
+- b. assurer un service public de l’emploi qui contribue à créer et à maintenir un marché du travail équilibré;
+- c. protéger les travailleurs qui recourent au placement privé, au service public de l’emploi ou à la location de services.
+
+## Chapitre 2 Placement privé
+
+### Section 1 Autorisation
+
+#### Art. 2
+
+**Activités soumises à l’autorisation**
+
+<sup>1</sup> Quiconque entend exercer en Suisse, régulièrement et contre rémunération, une activité de placeur, qui consiste à mettre employeurs et demandeurs d’emploi en contact afin qu’ils puissent conclure des contrats de travail, doit avoir obtenu une autorisation de l’office cantonal du travail.
+
+<sup>2</sup> Est en outre soumis à autorisation le placement de personnes pour des représentations artistiques ou des manifestations semblables.
+
+<sup>3</sup> Celui qui s’occupe régulièrement de placement de personnel de l’étranger ou à l’étranger (placement intéressant l’étranger) doit avoir obtenu une autorisation du Secrétariat d’État à l’économie (SECO)[^2-1] en sus de l’autorisation cantonale.
+
+<sup>4</sup> Est assimilé au placement de personnel de l’étranger le placement d’un étranger qui séjourne en Suisse, mais n’est pas encore autorisé à exercer une activité lucrative.
+
+<sup>5</sup> Si une succursale n’a pas son siège dans le même canton que la maison mère, elle doit avoir obtenu une autorisation; si elle est établie dans le même canton que la maison mère, elle doit être déclarée à l’office cantonal du travail.
+
+[^2-1]: Nouvelle dénomination selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 3
+
+**Conditions**
+
+<sup>1</sup>
+
+L’autorisation est accordée lorsque l’entreprise:
+
+- a. est inscrite au registre suisse du commerce;
+- b. dispose d’un local commercial approprié;
+- c. n’exerce pas d’autre activité professionnelle pouvant nuire aux intérêts des demandeurs d’emploi ou des employeurs.
+
+<sup>2</sup>
+
+Les personnes responsables de la gestion doivent:
+
+- a. être de nationalité suisse ou posséder un permis d’établissement;
+- b. assurer un service de placement satisfaisant aux règles de la profession;
+- c. jouir d’une bonne réputation.
+
+<sup>3</sup> En outre, l’autorisation d’exercer une activité de placement intéressant l’étranger n’est délivrée que si les responsables de la gestion donnent l’assurance que l’entreprise dispose de personnel connaissant suffisamment les conditions régnant dans les pays concernés.
+
+<sup>4</sup> L’autorisation est délivrée aux bureaux de placement d’organisations professionnelles et d’institutions d’utilité publique lorsque les conditions fixées aux al. 1, let. c, 2 et 3 sont remplies.
+
+<sup>5</sup> Le Conseil fédéral règle les détails.
+
+#### Art. 4
+
+**Durée et portée**
+
+<sup>1</sup> L’autorisation est délivrée pour une durée illimitée et donne le droit d’exercer des activités de placement dans l’ensemble de la Suisse.
+
+<sup>2</sup> L’autorisation d’exercer une activité de placement intéressant l’étranger est limitée à certains pays.
+
+<sup>3</sup> Les personnes responsables de la gestion sont nommément indiquées dans l’autorisation.
+
+<sup>4</sup> Le Conseil fédéral fixe les émoluments d’octroi de l’autorisation.
+
+#### Art. 5
+
+**Retrait**
+
+<sup>1</sup>
+
+L’autorisation est retirée lorsque le placeur:
+
+- a. l’a obtenue en donnant des indications inexactes ou fallacieuses ou en taisant des éléments essentiels;
+- b. enfreint de manière répétée ou grave la présente loi ou les dispositions d’exécution ou en particulier les dispositions fédérales et cantonales relatives à l’admission des étrangers;
+- c. ne remplit plus les conditions requises pour l’octroi de l’autorisation.
+
+<sup>2</sup> Si le placeur ne remplit plus certaines des conditions requises pour l’octroi de l’autorisation, l’autorité qui l’a délivrée doit, avant d’en décider le retrait, impartir au placeur un délai pour régulariser sa situation.
+
+#### Art. 6
+
+**Obligation de renseigner**
+
+Sur requête de l’autorité qui délivre l’autorisation, le placeur est tenu de fournir tous les renseignements nécessaires ainsi que les documents requis.
+
+### Section 2 Activités de placement
+
+#### Art. 7
+
+**Obligations propres au placeur**
+
+<sup>1</sup> Le placeur ne peut publier des offres ou des demandes d’emploi que sous son propre nom et en indiquant son adresse exacte. Les annonces publiées doivent correspondre aux conditions réelles.
+
+<sup>2</sup> Aux fins d’observer le marché du travail, l’autorité qui délivre l’autorisation peut obliger le placeur à lui fournir, sous une forme anonyme, des indications statistiques sur ses activités.
+
+<sup>3</sup> Le placeur n’est habilité à traiter les informations concernant des demandeurs d’emploi et des places vacantes que dans la mesure où et aussi longtemps que ces données sont nécessaires au placement. Il est tenu de garder le secret sur ces données.
+
+#### Art. 8
+
+**Contrat de placement**
+
+<sup>1</sup> Lorsque le placement fait l’objet d’une rémunération, le placeur doit conclure avec le demandeur d’emploi un contrat écrit. Ce contrat mentionnera les prestations du placeur et sa rémunération.
+
+<sup>2</sup>
+
+Sont nuls et non avenus les arrangements qui:
+
+- a. interdisent au demandeur d’emploi de s’adresser à un autre placeur;
+- b. obligent le demandeur d’emploi à verser à nouveau une commission de placement s’il conclut ultérieurement un contrat avec le même employeur, sans l’aide du placeur.
+
+#### Art. 9
+
+**Taxe d’inscription et commission de placement**
+
+<sup>1</sup> Le placeur peut exiger du demandeur d’emploi le versement d’une taxe d’inscription et d’une commission de placement. Pour les prestations de service faisant l’objet d’un arrangement spécial, le placeur peut exiger du demandeur d’emploi le versement d’une indemnité supplémentaire.
+
+<sup>2</sup> La commission n’est due par le demandeur d’emploi qu’à partir du moment où le placement a abouti à la conclusion d’un contrat.
+
+<sup>3</sup> En cas de placement intéressant l’étranger, la commission de placement n’est due que lorsque le travailleur obtient des autorités du pays où il est placé l’autorisation d’exercer une activité lucrative dans ce pays. Le placeur peut, toutefois, dès que le contrat de travail a été signé, exiger un dédommagement équitable pour couvrir les dépenses et les frais effectifs.
+
+<sup>4</sup> Le Conseil fédéral fixe les taxes d’inscription et les commissions de placement.
+
+### Section 3 ...
+
+#### Art. 10
+
+[^10-1]
+
+[^10-1]: Abrogée par l’annexe 1 ch. II 28 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+
+### Section 4 Contributions financières en faveur du placement privé
+
+#### Art. 11
+
+<sup>1</sup>
+
+La Confédération peut exceptionnellement allouer des contributions financières:
+
+- a. aux offices paritaires de placement dépendant d’associations d’employeurs et de travailleurs dont l’activité s’étend à l’ensemble du pays, lorsque ces offices exercent des activités de placement à la demande du SECO;
+- b. aux offices de placement dépendant d’associations suisses à l’étranger qui, selon le droit étranger, sont tenus de travailler gratuitement;
+- c. aux institutions collaborant à l’application d’arrangements bilatéraux ou multilatéraux, notamment en matière d’échanges de stagiaires.
+
+<sup>2</sup> En règle générale, les contributions financières atteignent au maximum 30 % des frais d’exploitation à prendre en compte; elles ne peuvent dépasser le montant du déficit d’exploitation.
+
+<sup>3</sup> Le Conseil fédéral règle les détails; il fixe notamment les frais d’exploitation à prendre en compte et désigne les institutions ayant droit aux contributions.
+
+## Chapitre 3 Location de services
+
+### Section 1 Activités soumises à l’autorisation
+
+#### Art. 12
+
+**Autorisation obligatoire**
+
+<sup>1</sup> Les employeurs (bailleurs de services) qui font commerce de céder à des tiers (entreprises locataires de services) les services de travailleurs doivent avoir obtenu une autorisation de l’office cantonal du travail.
+
+<sup>2</sup> Outre l’autorisation cantonale, une autorisation du SECO est nécessaire pour louer les services de travailleurs vers l’étranger. La location en Suisse de services de personnel recruté à l’étranger n’est pas autorisée.
+
+<sup>3</sup> Si une succursale n’a pas son siège dans le même canton que la maison mère, elle doit avoir obtenu une autorisation; si elle est établie dans le même canton que la maison mère, elle doit être déclarée à l’office cantonal du travail.
+
+#### Art. 13
+
+**Conditions**
+
+<sup>1</sup>
+
+L’autorisation est accordée lorsque l’entreprise:
+
+- a. est inscrite au registre suisse du commerce;
+- b. dispose d’un local commercial approprié;
+- c. n’exerce pas d’autre activité professionnelle pouvant nuire aux intérêts des travailleurs ou des entreprises locataires de services.
+
+<sup>2</sup>
+
+Les personnes responsables de la gestion doivent:
+
+- a. être de nationalité suisse ou posséder un permis d’établissement;
+- b. assurer une location de services satisfaisant aux règles de la profession;
+- c. jouir d’une bonne réputation.
+
+<sup>3</sup> En outre, l’autorisation de louer les services de travailleurs vers l’étranger n’est délivrée que si les responsables de la gestion donnent l’assurance que l’entreprise dispose de personnel connaissant suffisamment les conditions régnant dans les pays concernés.
+
+<sup>4</sup> Le Conseil fédéral règle les détails.
+
+#### Art. 14
+
+**Sûretés**
+
+<sup>1</sup> Le bailleur de services est tenu de fournir des sûretés en garantie des prétentions de salaire découlant de son activité de location de services.
+
+<sup>2</sup> Le montant des sûretés est proportionnel à l’étendue de l’activité commerciale. Le Conseil fédéral fixe les montants minimum et maximum et règle les détails.
+
+#### Art. 15
+
+**Durée et portée**
+
+<sup>1</sup> L’autorisation est délivrée pour une durée illimitée et donne droit d’exercer la location de services dans l’ensemble de la Suisse.
+
+<sup>2</sup> L’autorisation de louer les services vers l’étranger est limitée à des pays déterminés.
+
+<sup>3</sup> Les personnes responsables de la gestion sont nommément indiquées dans l’autorisation.
+
+<sup>4</sup> Le Conseil fédéral fixe les émoluments d’octroi de l’autorisation.
+
+#### Art. 16
+
+**Retrait**
+
+<sup>1</sup>
+
+L’autorisation est retirée lorsque le bailleur de services:
+
+- a. l’a obtenue en donnant des indications inexactes ou fallacieuses ou en taisant des éléments essentiels;
+- b. enfreint de manière répétée ou grave des dispositions impératives ressortissant à la protection des travailleurs, la présente loi ou des dispositions d’exécution, en particulier les dispositions fédérales ou cantonal les relatives à l’admission des étrangers;
+- c. ne remplit plus les conditions requises pour l’octroi de l’autorisation.
+
+<sup>2</sup> Si le bailleur de services ne remplit plus certaines des conditions requises pour l’octroi de l’autorisation, l’autorité qui l’a délivrée doit, avant d’en décider le retrait, impartir au bailleur de services un délai pour régulariser sa situation.
+
+#### Art. 17
+
+**Obligation de renseigner**
+
+<sup>1</sup> Sur requête de l’autorité qui délivre l’autorisation, le bailleur de services est tenu de fournir tous les renseignements nécessaires ainsi que les documents requis.
+
+<sup>2</sup> Lorsqu’il y a présomption sérieuse qu’une personne procure professionnellement les services de travailleurs à des tiers sans autorisation, l’autorité qui délivre les autorisations peut également exiger des renseignements de toutes les personnes et entreprises intéressées.
+
+<sup>3</sup> Dans les domaines régis par une convention collective de travail étendue, le bailleur de services doit présenter à l’organe paritaire compétent tous les documents permettant de vérifier que les conditions de travail sont conformes à l’usage local.
+
+Dans les domaines non régis par une convention collective de travail étendue, les renseignements doivent être fournis à la commission cantonale tripartite compétente.[^17-1]
+
+[^17-1]: Introduit par l’art. 2 ch. 4 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre du prot. relatif à l’extension de l’ac. entre la Confédération suisse, d’une part, et la CE et ses États membres, d’autre part, sur la libre circulation des personnes aux nouveaux États membres de la CE et portant approbation de la révision des mesures d’accompagnement concernant la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
+
+### Section 2 Activités de location de services
+
+#### Art. 18
+
+**Obligations propres au bailleur de services**
+
+<sup>1</sup> Le bailleur de services ne peut publier des offres d’emploi que sous son propre nom et en indiquant son adresse exacte. Il mentionnera clairement dans les annonces que les travailleurs seront engagés pour la location de services.
+
+<sup>2</sup> Aux fins d’observer le marché du travail, l’autorité qui délivre l’autorisation peut obliger le bailleur de services à lui fournir, sous une forme anonyme, des indications statistiques sur ses activités.
+
+<sup>3</sup> Le bailleur de services n’est habilité à traiter les données concernant les travailleurs et à les communiquer à des entreprises locataires de services que dans la mesure où et aussi longtemps que ces données sont nécessaires au placement. Hors de ce cadre, ces données ne peuvent être traitées ou communiquées qu’avec l’assentiment exprès du travailleur.
+
+#### Art. 19
+
+**Contrat de travail**
+
+<sup>1</sup> En règle générale, le bailleur de services doit conclure un contrat écrit avec le travailleur. Le Conseil fédéral règle les exceptions.
+
+<sup>2</sup>
+
+Le contrat contiendra les points suivants:
+
+- a. le genre de travail à fournir;
+- b. le lieu de travail et le début de l’engagement;
+- c. la durée de l’engagement ou le délai de congé;
+- d. l’horaire de travail;
+- e. le salaire, les indemnités et allocations éventuelles ainsi que les déductions afférentes aux assurances sociales;
+- f. les prestations dues en cas d’heures supplémentaires, de maladie, de maternité, d’accident, de service militaire et de vacances;
+- g. les dates de paiement du salaire, des allocations et des autres prestations.
+
+<sup>3</sup> Si les exigences relatives à la forme ou au contenu ne sont pas remplies, les conditions de travail selon les usages locaux et professionnels ou les dispositions légales en la matière sont applicables, à moins que des conditions plus favorables aient été conclues verbalement.
+
+<sup>4</sup>
+
+Lorsque l’engagement est d’une durée indéterminée, le contrat de travail peut, pendant les six premiers mois de service, être résilié par les deux parties moyennant un délai de congé de:
+
+- a. deux jours au moins durant les trois premier mois d’un emploi ininterrompu;
+- b. sept jours au moins entre le quatrième et le sixième mois d’un emploi ininterrompu.
+
+<sup>5</sup>
+
+Sont nuls et non avenus les accords qui:
+
+- a. exigent du travailleur qui loue ses services le paiement d’émoluments ou de prestations financières préalables.
+- b. empêchent ou entravent son transfert à l’entreprise locataire de services, une fois son contrat de travail arrivé à échéance.
+
+<sup>6</sup> Si le bailleur de services ne possède pas l’autorisation nécessaire, son contrat de travail avec le travailleur est nul et non avenu. Dans ce cas, l’art. 320, al. 3, du code des obligations[^19-1], qui règle les suites d’un contrat nul, est applicable.
+
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 20
+
+**Conventions collectives de travail avec déclaration d’extension**[^20-1]
+
+<sup>1</sup> Lorsqu’une entreprise locataire de services est soumise à une convention collective de travail étendue, le bailleur de services doit appliquer au travailleur celles des dispositions de la convention qui concernent le salaire et la durée du travail. Si une convention collective de travail étendue prévoit une contribution obligatoire aux frais de formation continue et aux frais d’exécution, les dispositions concernées s’appliquent aussi au bailleur de services, auquel cas les contributions doivent être versées au prorata de la durée de l’engagement. Le Conseil fédéral règle les modalités.
+
+<sup>2</sup>
+
+L’organe paritaire de contrôle prévu par la convention collective de travail étendue est habilité à contrôler le bailleur de services. En cas d’infraction grave, il doit en informer l’office cantonal du travail et peut:
+
+- a. infliger au bailleur de services une peine prévue par la convention collective de travail;
+- b. imputer au bailleur de services tout ou partie des frais de contrôle.
+
+<sup>3</sup> Lorsqu’une entreprise locataire de services est soumise à une convention collective de travail avec déclaration d’extension instituant un régime de retraite anticipée, le bailleur de service est également tenu de respecter ce régime envers le travailleur. Le Conseil fédéral peut fixer la durée minimale d’engagement à partir de laquelle le travailleur doit être mis au bénéfice de ce régime.
+
+[^20-1]: Nouvelle teneur selon l’art. 2 ch. 4 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre du prot. relatif à l’extension de l’ac. entre la Confédération suisse, d’une part, et la CE et ses États membres, d’autre part, sur la libre circulation des personnes aux nouveaux États membres de la CE et portant approbation de la révision des mesures d’accompagnement concernant la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
+
+#### Art. 21
+
+**Travailleurs étrangers en Suisse**[^21-1]
+
+<sup>1</sup> Le bailleur de services n’engage en Suisse que des étrangers qui sont admis en vue de l’exercice d’une activité lucrative et autorisés à changer d’emploi.
+
+<sup>2</sup> Des exceptions sont possibles pour protéger des intérêts économiques particuliers.
+
+[^21-1]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+
+#### Art. 22
+
+**Contrat de location de services**
+
+<sup>1</sup>
+
+Le bailleur de services doit conclure un contrat écrit avec l’entreprise locataire de services. Il y indiquera:
+
+- a. sa propre adresse et celle de l’autorité qui délivre l’autorisation;
+- b. les qualifications professionnelles du travailleur et le genre de travail;
+- c. le lieu de travail du travailleur ainsi que le début de l’engagement;
+- d. la durée de l’engagement ou les délais de congé;
+- e. l’horaire de travail du travailleur;
+- f. le coût de la location de services, y compris les prestations sociales, les allocations, les indemnités et les prestations accessoires.
+
+<sup>2</sup> Sont nuls et non avenus les accords qui entravent ou empêchent l’entreprise locataire de services de conclure un contrat de travail avec le travailleur une fois que le contrat de location de services arrive à son terme.
+
+<sup>3</sup> Sont toutefois admissibles les accords selon lesquels le bailleur de services peut exiger de l’entreprise locataire de services le versement d’une indemnité lorsque la location de services a duré moins de trois mois et que le travailleur a repris son activité au sein de l’entreprise locataire de services moins de trois mois après la fin de la location de ses services à cette entreprise.
+
+<sup>4</sup> L’indemnité atteindra au maximum le montant que l’entreprise locataire de services aurait eu à payer au bailleur de services à titre de frais d’administration et de bénéfice pour un engagement de trois mois. Le bailleur de services doit imputer sur l’indemnité le montant déjà versé au titre de frais d’administration et de bénéfice.
+
+<sup>5</sup> Si le bailleur de services ne possède pas l’autorisation nécessaire, le contrat de location de services est nul et non avenu. Dans ce cas, les dispositions du code des obligations[^22-1] concernant les actes illicites et l’enrichissement illégitime sont applicables.
+
+[^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Section 3 ...
+
+#### Art. 23
+
+[^23-1]
+
+[^23-1]: Abrogée par l’annexe 1 ch. II 28 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+
+## Chapitre 4 Service public de l’emploi
+
+#### Art. 24
+
+**Tâches**
+
+<sup>1</sup> Dans les cantons, les offices du travail enregistrent les demandeurs d’emploi qui se présentent et les places vacantes annoncées. Ils conseillent les demandeurs d’emploi et les employeurs lors du choix de l’emploi à occuper ou de la personne à engager et s’efforcent de pourvoir les places vacantes et de placer la main-d’oeuvre de manière appropriée.
+
+<sup>2</sup> En plaçant les demandeurs d’emploi, ils tiennent compte de leurs dispositions et goûts personnels, de leurs aptitudes professionnelles, des besoins de l’employeur et de la situation de l’entreprise ainsi que de la conjoncture sur le marché de travail.
+
+#### Art. 25
+
+**Placement intéressant l’étranger**
+
+<sup>1</sup> Le Département fédéral des affaires étrangères (DFAE) assure un service d’information et de conseil qui renseigne les personnes désireuses d’exercer une activité lucrative à l’étranger sur les prescriptions d’entrée, les possibilités de travail et les conditions d’existence dans les pays étrangers, sans garantie quant à l’exactitude des informations fournies.[^25-1]
+
+<sup>2</sup> Le SECO soutient les ressortissants suisses voulant rentrer au pays dans leurs recherches d’emploi et coordonne les efforts des offices du travail tendant au placement des émigrés suisses rentrant au pays.[^25-2]
+
+<sup>2bis</sup> La Confédération peut appuyer, par d’autres mesures, la recherche d’emploi à l’étranger.[^25-3]
+
+<sup>3</sup> Le Secrétariat d’État aux migrations (SEM)[^25-4] place des stagiaires étrangers et suisses en application des arrangements, bilatéraux ou multilatéraux sur l’échange de stagiaires. Il peut demander le concours des offices du travail pour le placement de stagiaires étrangers.
+
+[^25-1]: Nouvelle teneur selon l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-3]: Introduit par l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l'art. 16 al. 3 de l'O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 26
+
+**Obligation de placer et impartialité**
+
+<sup>1</sup> Les offices du travail fournissent leurs services en toute impartialité aux demandeurs d’emploi suisses et aux employeurs domiciliés en Suisse.
+
+<sup>2</sup> Ils placent et conseillent de même les demandeurs d’emploi étrangers séjournant en Suisse, dont le permis les autorise à exercer une activité lucrative et à changer d’emploi et de profession.
+
+<sup>3</sup>
+
+Les offices du travail ne sont pas autorisés à collaborer au placement lorsque l’employeur:
+
+- a. offre des salaires et des conditions de travail sensiblement inférieurs aux normes usuelles dans la profession et le lieu de travail;
+- b. a contrevenu à plusieurs reprises ou de façon grave aux dispositions relatives à la protection des travailleurs.
+
+#### Art. 27
+
+**Gratuité**
+
+Le service public de l’emploi est gratuit. Les personnes qui y recourent ne sont tenues de supporter que les frais causés par des démarches spéciales entreprises avec leur assentiment.
+
+#### Art. 28
+
+**Mesures spéciales de lutte contre le chômage**
+
+<sup>1</sup> Les offices du travail aident les demandeurs d’emploi dont le placement est impossible ou très difficile à choisir un mode de reconversion ou de formation continue adéquat.[^28-1]
+
+<sup>2</sup> Les cantons peuvent organiser des cours de reconversion, de formation continue et d’intégration pour les demandeurs d’emploi dont le placement est impossible ou très difficile.[^28-2]
+
+<sup>3</sup> Ils peuvent organiser des programmes de travail aux conditions fixées à l’art. 72 de la loi du 25 juin 1982 sur l’assurance-chômage[^28-3] afin de pourvoir à l’occupation temporaire de chômeurs.
+
+<sup>4</sup> Les offices du travail poursuivent dans une mesure appropriée les efforts visant à placer un chômeur, même lorsque ce dernier suit un cours ou travaille temporairement dans le cadre des mesures prévues aux art. 59 à 72 de la loi du 25 juin 1982 sur l’assurance-chômage.
+
+[^28-1]: Nouvelle teneur selon l’annexe ch. 35 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^28-2]: Nouvelle teneur selon l’annexe ch. 35 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^28-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 29
+
+**Obligation des employeurs de déclarer les licenciements et fermetures d’entreprise**
+
+<sup>1</sup> L’employeur est tenu d’annoncer à l’office du travail compétent tout licenciement d’un nombre important de travailleurs ainsi que toute fermeture d’entreprise; il doit l’annoncer dès que possible, au plus tard au moment où les congés sont donnés.
+
+<sup>2</sup> Le Conseil fédéral fixe les dérogations à l’obligation d’annoncer.
+
+## Chapitre 5 Propagande relative à l’émigration de travailleurs
+
+#### Art. 30
+
+Les annonces publiques, les manifestations ou autres procédés destinés ou propres à induire en erreur les personnes désirant émigrer sur les conditions de travail et d’existence dans des pays étrangers sont interdits.
+
+## Chapitre 6 Autorités
+
+#### Art. 31
+
+**Autorité fédérale dont relève le marché du travail**
+
+<sup>1</sup> Le SECO est l’autorité fédérale dont relève le marché du travail.
+
+<sup>2</sup> Il surveille l’exécution de la présente loi par les cantons et encourage la coordination intercantonale du service public de l’emploi.
+
+<sup>3</sup> Il surveille le placement privé de personnel intéressant l’étranger et la location de services vers l’étranger.
+
+<sup>4</sup> Il peut organiser, avec la collaboration des cantons, des cours de formation et de formation continue pour le personnel des autorités dont relève le marché du travail.[^31-1]
+
+[^31-1]: Nouvelle teneur selon l’annexe ch. 35 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+
+#### Art. 32
+
+**Cantons**
+
+<sup>1</sup> Les cantons règlent la surveillance du service public de l’emploi et du placement privé ainsi que de la location de services.
+
+<sup>2</sup> Ils assurent le fonctionnement d’au moins un office cantonal du travail.
+
+#### Art. 33
+
+**Collaboration**
+
+<sup>1</sup> Les autorités fédérales et cantonales dont relève le marché du travail collaborent dans le but d’équilibrer le marché du travail dans l’ensemble de la Suisse. Dans les diverses régions économiques, les autorités cantonales intéressées coopèrent directement.
+
+<sup>2</sup> Lors de l’exécution de mesures dans ce domaine, les offices du travail s’efforcent d’associer à l’exécution les associations d’employeurs et de travailleurs, ainsi que d’autres organisations s’occupant de placement.
+
+<sup>3</sup> Le Conseil fédéral règle les compétences des autorités dont relève le marché du travail ainsi que celles des institutions de l’assurance-invalidité en matière de placement des invalides et des handicapés.
+
+#### Art. 33a
+
+**Traitement de données personnelles**[^33a-1]
+
+<sup>1</sup>
+
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles et les profils de la personnalité qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:
+
+- a. enregistrer, conseiller et placer les demandeurs d’emploi;
+- b. enregistrer, annoncer ou attribuer les places vacantes;
+- c. enregistrer les licenciements et les fermetures d’entreprises;
+- d. gérer l’exécution des prestations au titre des mesures relatives au marché du travail;
+- e. surveiller l’exécution de la présente loi;
+- f. établir des statistiques.
+
+<sup>2</sup>
+
+Peuvent être traitées les données personnelles sensibles qui concernent:
+
+- a. la santé et l’appartenance religieuse du demandeur d’emploi, lorsqu’elles sont nécessaires au placement;
+- b. les mesures prises ou prévues dans le cadre de l’exécution de la présente loi et de la loi du 25 juin 1982 sur l’assurance-chômage[^33a-2], lorsqu’elles sont susceptibles d’influer directement sur les prestations de l’assurance-chômage.
+
+[^33a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^33a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 34
+
+**Obligation de garder le secret**[^34-1]
+
+Les personnes qui participent aux activités, au contrôle ou à la surveillance du service public de l’emploi sont tenues de garder le secret à l’égard des tiers sur les indications concernant les demandeurs d’emploi, les employeurs et les places vacantes.
+
+[^34-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+
+#### Art. 34a
+
+**Communication de données**[^34a-1]
+
+<sup>1</sup>
+
+Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, des données peuvent être communiquées, dans des cas d’espèce et sur demande écrite et motivée:
+
+- a. aux organes de l’assurance-invalidité, lorsqu’il existe une obligation de les communiquer en vertu de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^34a-2];
+- b. aux autorités compétentes en matière d’aide sociale, lorsqu’elles leur sont nécessaires pour fixer ou modifier des prestations, en exiger la restitution ou prévenir des versements indus;
+- c. aux tribunaux civils, lorsqu’elles leur sont nécessaires pour régler un litige relevant du droit de la famille ou des successions;
+- d. aux tribunaux pénaux et aux organes d’instruction pénale, lorsqu’elles leur sont nécessaires pour établir les faits en cas de crime ou de délit;
+- e.[^34a-3] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, du code civil[^34a-4];
+
+<sup>2</sup>
+
+Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, des données peuvent être communiquées:
+
+- a. aux autres organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution, lorsqu’elles sont nécessaires à l’accomplissement des tâches que leur assigne cette loi;
+- b. aux organes d’une assurance sociale, lorsque l’obligation de les communiquer résulte d’une loi fédérale;
+- c. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^34a-5];
+- d. aux autorités d’instruction pénale, lorsqu’il s’agit de dénoncer ou de prévenir un crime.
+
+<sup>3</sup> Les données d’intérêt général qui se rapportent à l’application de la présente loi peuvent être publiées. L’anonymat des demandeurs d’emploi et des employeurs doit être garanti.
+
+<sup>4</sup>
+
+Dans les autres cas, des données peuvent être communiquées à des tiers:
+
+- a. s’agissant de données non personnelles, lorsqu’un intérêt prépondérant le justifie;
+- b. s’agissant de données personnelles, lorsque la personne concernée y a, en l’espèce, consenti par écrit ou, s’il n’est pas possible d’obtenir son consentement, lorsque les circonstances permettent de présumer qu’il en va de l’intérêt du demandeur d’emploi.
+
+<sup>5</sup> Seules les données qui sont nécessaires au but en question peuvent être communiquées.
+
+<sup>6</sup> Le Conseil fédéral règle les modalités de la communication et l’information de la personne concernée.
+
+<sup>7</sup> Les données sont communiquées en principe par écrit et gratuitement. Le Conseil fédéral peut prévoir la perception d’émoluments pour les cas nécessitant des travaux particulièrement importants.
+
+[^34a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^34a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^34a-3]: Introduite par l’annexe ch. 25 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^34a-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34a-5]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+
+#### Art. 34b
+
+**Consultation du dossier**[^34b-1]
+
+<sup>1</sup>
+
+Ont le droit de consulter le dossier, dans la mesure où les intérêts privés prépondérants sont sauvegardés:
+
+- a. les demandeurs d’emploi et les employeurs, pour les données qui les concernent;
+- b. les personnes ayant un droit ou une obligation découlant de la présente loi, pour les données qui leur sont nécessaires pour exercer ce droit ou remplir cette obligation;
+- c. les personnes ou institutions habilitées à faire valoir un moyen de droit contre une décision fondée sur la présente loi, pour les données nécessaires à l’exercice de ce droit;
+- d. les autorités habilitées à statuer sur des recours contre des décisions fondées sur la présente loi, pour les données nécessaires à l’accomplissement de cette tâche.
+
+<sup>2</sup> S’il s’agit de données sur la santé dont la communication pourrait entraîner une atteinte à la santé de la personne autorisée à consulter le dossier, celle-ci peut être tenue de désigner un médecin qui les lui communiquera.
+
+[^34b-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+
+#### Art. 35
+
+**Système d’information**[^35-1]
+
+<sup>1</sup>
+
+Le SECO gère un système d’information qui sert à:
+
+- a. faciliter le placement;
+- b. assurer l’exécution de la loi du 25 juin 1982 sur l’assurance-chômage[^35-2];
+- c. observer le marché du travail;
+- d. faciliter la collaboration entre les organes du service public de l’emploi, de l’assurance-chômage, de l’assurance-invalidité et les services d’orientation professionnelle;
+- e.[^35-3] faciliter la collaboration entre les organes de l’assurance-chômage, le service public de l’emploi, le placement privé et les employeurs.
+
+<sup>2</sup> Ce système d’information peut contenir des données personnelles, y compris des données sensibles au sens de l’art. 33*a*, al. 2, et des profils de la personnalité.
+
+<sup>3</sup>
+
+Les organes suivants peuvent accéder en ligne au système d’information dans l’accomplissement de leurs tâches légales:[^35-4]
+
+- a. le SECO;
+- b. le SEM;
+- c. les offices cantonaux du travail;
+- d. les services chargés de la logistique des mesures relatives au marché du travail;
+- e. les offices régionaux de placement;
+- f. les caisses de chômage;
+- g. les organes de l’assurance-invalidité;
+- h. les services d’orientation professionnelle;
+- i. la Centrale suisse pour le travail à domicile;
+- j.[^35-5] le DFAE;
+- k.[^35-6] les autorités chargées par les cantons de contrôler le respect de l’obligation d’annoncer les postes vacants prévue à l’art. 21*a,* al. 3 et 4, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^35-7].
+
+<sup>3bis</sup> L’échange de données personnelles, y compris les données sensibles et les profils de la personnalité, entre les systèmes d’information du service public de l’emploi et ceux de l’assurance-chômage (art. 83, al. 1, let. i, de la loi du 25 juin 1982 sur l’assurance-chômage[^35-8]) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la loi du 25 juin 1982 sur l’assurance-chômage.[^35-9]
+
+<sup>4</sup> La Confédération participe aux frais dans la mesure où ceux-ci sont occasionnés par l’accomplissement de tâches qui lui incombent.
+
+<sup>5</sup>
+
+Le Conseil fédéral règle:
+
+- a. la responsabilité de la protection des données;
+- b. les données à saisir;
+- c. la durée de conservation des données;
+- d. l’accès aux données, notamment en déterminant les utilisateurs du système autorisés à traiter des données sensibles et des profils de la personnalité;
+- e. l’organisation et l’exploitation du système d’information;
+- f. la collaboration entre les autorités concernées;
+- g. la sécurité des données.
+
+[^35-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^35-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^35-3]: Introduite par le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^35-4]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^35-5]: Introduite par l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^35-6]: Introduite par l’art. 4 ch. 2 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
+[^35-7]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^35-8]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^35-9]: Introduit par le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+
+#### Art. 35a
+
+**Collaboration interinstitutionnelle et collaboration avec les placeurs privés[^35a-2]**[^35a-1]
+
+<sup>1</sup>
+
+Aux fins de la collaboration interinstitutionnelle prévue à l’art. 85*f* de la loi du 25 juin 1982 sur l’assurance-chômage[^35a-3], les données nécessaires du système d’information peuvent être communiquées cas par cas aux services d’orientation professionnelle, aux services sociaux des cantons et des communes, aux organes d’exécution des lois cantonales relatives à l’aide aux chômeurs et de la législation sur l’asile, aux organes d’exécution de l’assurance-invalidité et de l’assurance-maladie, aux autorités cantonales responsables en matière de formation professionnelle, à la Caisse nationale suisse d’assurance en cas d’accidents ainsi qu’à d’autres institutions publiques ou privées importantes pour l’intégration des chômeurs, aux conditions suivantes:
+
+- a. l’intéressé reçoit des prestations de l’organe concerné et donne son accord;
+- b. l’organe concerné accorde la réciprocité aux organes d’exécution de l’assurance-chômage.[^35a-4]
+
+<sup>1bis</sup>
+
+Les organes d’exécution de l’assurance-chômage et les services de l’assurance-invalidité sont mutuellement libérés de l’obligation de garder le secret dans le cadre de la collaboration interinstitutionnelle dans la mesure où:
+
+- a. aucun intérêt privé prépondérant ne s’y oppose;
+- b.
+
+  les renseignements et documents transmis servent à déterminer, lorsqu’il n’est pas encore possible d’établir clairement quelle autorité doit prendre les frais à sa charge:
+
+  - 1\. la mesure d’intégration la mieux adaptée à la situation de l’intéressé;
+  - 2\. les droits de l’intéressé envers l’assurance-chômage et l’assurance-invalidité.[^35a-5]
+
+<sup>1ter</sup> Les données visées à l’al. 1<sup>bis</sup> peuvent aussi être communiquées sans le consentement de la personne concernée et, dans le cas particulier, oralement. La personne concernée sera ensuite informée de cette communication et de son contenu.[^35a-6]
+
+<sup>2</sup> Les placeurs privés qui possèdent une autorisation peuvent accéder à des données du système d’information sur les demandeurs d’emploi par une procédure d’appel. Ces données doivent avoir été rendues anonymes. L’anonymat ne peut être levé que si le demandeur d’emploi y a consenti par écrit.
+
+[^35a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^35a-2]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^35a-4]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-5]: Introduit par le ch. II de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-6]: Introduit par le ch. II de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+
+#### Art. 35b
+
+**Fichier des entreprises de placement et de location de services autorisées**[^35b-1]
+
+<sup>1</sup> Avec l’aide des autorités cantonales compétentes, le SECO gère, dans un système d’information approprié, un fichier des entreprises de placement et de location de services autorisées et de leurs responsables.
+
+<sup>2</sup> Ce fichier peut contenir des données sensibles sur le retrait, l’annulation ou le refus d’une autorisation.
+
+[^35b-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+
+#### Art. 36
+
+**Observation du marché du travail**
+
+<sup>1</sup> Le Conseil fédéral ordonne les enquêtes nécessaires à l’observation du marché de l’emploi.[^36-1]
+
+<sup>2</sup> Les offices du travail observent la situation et l’évolution du marché du travail dans leur canton. Ils font rapport au SECO sur la situation du marché du travail ainsi que sur le service public de l’emploi, le placement privé et la location de services.
+
+<sup>3</sup> Les résultats des observations sont diffusés sous une forme qui ne permette pas d’identifier les personnes concernées.[^36-2]
+
+<sup>4</sup> Les données recueillies au titre de l’observation du marché du travail ne peuvent être utilisées qu’à des fins statistiques.
+
+[^36-1]: Nouvelle teneur selon l’annexe ch. 14 de la loi du 9 oct. 1992 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> août 1993 ([RO 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 353](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
+[^36-2]: Nouvelle teneur selon l’annexe ch. 14 de la loi du 9 oct. 1992 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> août 1993 ([RO 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 353](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
+
+#### Art. 37
+
+**Commission de la politique économique[^37-1]**
+
+Le Conseil fédéral institue une Commission de la politique économique. La Confédération, les cantons, les milieux scientifiques, les employeurs et les travailleurs sont représentés au sein de la commission.
+
+[^37-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette modification dans tout le présent texte.
+
+## Chapitre 7 Voies de recours
+
+#### Art. 38
+
+<sup>1</sup> Les décisions prises en vertu de la présente loi peuvent faire l’objet de recours.
+
+<sup>2</sup>
+
+Les autorités de recours sont:
+
+- a. une autorité cantonale au moins pour les décisions prises par les offices du travail;
+- b.[^38-1] le Tribunal administratif fédéral pour les décisions prises en première instance par des autorités fédérales;
+- c.[^38-2] le Tribunal fédéral conformément à la loi du 17 juin 2005 sur le Tribunal fédéral[^38-3].
+- d. ...[^38-4]
+
+<sup>3</sup> La procédure devant les autorités cantonales est régie par le droit cantonal, pour autant que le droit fédéral n’en dispose pas autrement. La procédure devant les autorités fédérales est régie par les dispositions générales de la procédure fédérale.[^38-5]
+
+[^38-1]: Nouvelle teneur selon l’annexe ch. 101 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^38-2]: Nouvelle teneur selon l’annexe ch. 101 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^38-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^38-4]: Abrogée par l’annexe ch. 101 de la loi du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^38-5]: Nouvelle teneur de la phrase selon l’annexe ch. 101 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)).
+
+## Chapitre 8 Dispositions pénales
+
+#### Art. 39
+
+<sup>1</sup> Sera puni d’une amende de 100 000 francs au maximum celui qui, intentionnellement,
+
+- a. aura procuré du travail ou loué des services sans posséder l’autorisation nécessaire;
+- b. aura placé des étrangers ou les aura engagés pour en louer les services sans observer les prescriptions légales en matière de main-d’oeuvre étrangère. Est réservée une sanction supplémentaire en application de l’art. 23 de la loi fédérale du 26 mars 1931 sur le séjour et l’établissement des étrangers[^39-1].
+
+<sup>2</sup> Sera puni d’une amende de 40 000 francs au maximum celui qui, intentionnellement,
+
+- a. aura recouru en sa qualité d’employeur, aux services d’un placeur ou d’un bailleur de services qu’il savait ne pas posséder l’autorisation requise;
+- b. aura enfreint l’obligation d’annoncer et de renseigner (art. 6, 7, 17, 18 et 29);
+- c. n’aura pas communiqué par écrit, en sa qualité de bailleur de services, la teneur essentielle du contrat de travail ou ne l’aura fait qu’incomplètement ou encore aura conclu un arrangement illicite (art. 19 et 22);
+- d. aura contrevenu, en sa qualité de placeur, aux dispositions concernant le calcul de la commission de placement (art. 9) ou, en sa qualité de bailleur de services, aura exigé du travailleur le paiement d’émoluments ou de prestations financières préalables (art. 19, al. 5);
+- e. se sera livré à une propagande fallacieuse en matière d’émigration de personnes actives (art. 30);
+- f. aura enfreint l’obligation de garder le secret (art. 7, 18 et 34).
+
+<sup>3</sup> Sera puni d’une amende de 20 000 francs au maximum celui qui, par négligence, aura enfreint l’al. 1 ou 2, let. b à f. Dans les cas de peu de gravité, la peine pourra être remise.
+
+<sup>4</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque obtient une autorisation en donnant des indications inexactes ou fallacieuses ou en taisant des faits importants.[^39-2]
+
+<sup>5</sup> Si des infractions sont commises dans la gestion d’entreprises ou d’autres établissements analogues, les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^39-3] sont applicables.
+
+<sup>6</sup> La poursuite pénale incombe aux cantons.
+
+[^39-1]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^39-2]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1979).
+[^39-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+## Chapitre 9 Dispositions finales
+
+#### Art. 40
+
+**Exécution**
+
+Les cantons exécutent la présente loi dans la mesure où son exécution n’incombe pas à la Confédération.
+
+#### Art. 41
+
+**Dispositions d’exécution**
+
+<sup>1</sup> Le Conseil fédéral édicte les dispositions d’exécution après avoir entendu les cantons et les organisations concernées.
+
+<sup>2</sup> Les cantons édictent les dispositions d’exécution dans leur domaine de compétence.
+
+#### Art. 42
+
+**Modification et abrogation du droit en vigueur**
+
+<sup>1</sup> ...[^42-1]
+
+<sup>2</sup>
+
+Sont abrogées:
+
+- a. la loi fédérale du 22 juin 1951 sur le service de l’emploi[^42-2];
+- b. la loi fédérale du 22 mars 1888 concernant les opérations des agences d’émigration[^42-3].
+
+[^42-1]: Abrogé par le ch. II 36 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^42-2]: [[RO 1951 1217](https://fedlex.data.admin.ch/eli/oc/1951/1211_1217_1249)]
+[^42-3]: [RS **10** 226]
+
+#### Art. 43
+
+[^43-1]
+
+[^43-1]: Abrogé par le ch. II 36 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 44
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum facultatif.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> juillet 1991[^44-1]
+
+Art. 42, al. 1: 1<sup>er</sup> janv. 1992[^44-2]
+
+[^44-1]: ACF du 16 janv. 1991
+[^44-2]: O du 30 oct. 1991 ([RO 1991 2373](https://fedlex.data.admin.ch/eli/oc/1991/2373_2373_2373))

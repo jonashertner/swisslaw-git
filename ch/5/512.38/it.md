@@ -1,0 +1,457 @@
+---
+sr: "512.38"
+title: Ordinanza del 29 ottobre 2003 sullo sport militare
+short: OATFS
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
+language: it
+version: 2020-02-01
+adopted: 2003-10-29
+in_force: 2004-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2003-584-20200201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20200201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sullo sport militare****
+
+del 29 ottobre 2003 (Stato 1° febbraio 2020)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 16 capoverso 2 lettera c e 30 capoverso 1 della legge del 17 giugno 2011[^ingress-1] sulla promozione dello sport; visti gli articoli 41 capoverso 3, 51 capoverso 4, 62 capoverso 3 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2],[^ingress-3]
+
+ordina:
+
+[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Sport militare per militari**[^1-1]
+
+<sup>1</sup> Lo sport militare persegue lo scopo di sviluppare le capacità militari e fisiche dei militari, nonché di promuovere il cameratismo.
+
+<sup>2</sup> A tal fine la truppa svolge corsi e gare o vi partecipa.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 2
+
+**Servizio militare per lo sviluppo del livello competitivo nello sport di punta**[^2-1]
+
+Il servizio militare offre agli sportivi di punta la possibilità di sviluppare il loro livello competitivo.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 3
+
+**Competenza**
+
+<sup>1</sup> I corsi e le gare della truppa fuori del servizio sono subordinati all’Aggruppamento Difesa.
+
+<sup>2</sup> L’Aggruppamento Difesa è responsabile dei servizi militari volti allo sviluppo del livello competitivo nello sport di punta. L’Ufficio federale dello sport fornisce consulenza e appoggio all’Aggruppamento Difesa nelle questioni di carattere sportivo. [^3-1]
+
+[^3-1]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+## Capitolo 2: Corsi e gare fuori del servizio
+
+### Sezione 1: Campionati dell’esercito e gara di tiro dell’esercito
+
+#### Art. 4
+
+**Organizzazione**
+
+<sup>1</sup> L’Aggruppamento Difesa può organizzare campionati dell’esercito ogni anno.
+
+<sup>2</sup> La gara di tiro dell’esercito si svolge nell’ambito della Festa federale di tiro.
+
+<sup>3</sup> L’Aggruppamento Difesa designa i comandanti.
+
+#### Art. 5
+
+**Partecipazione**[^5-1]
+
+<sup>1</sup> Possono partecipare i militari, gli ex militari e i membri del Corpo delle guardie di confine.
+
+<sup>2</sup> Nel bando possono essere stabiliti contingenti per i singoli gruppi di partecipanti.
+
+<sup>3</sup> La partecipazione è possibile al massimo fino al compimento del 65° anno d’età.[^5-2]
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)).
+[^5-2]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 5a
+
+[^5a-1]
+
+[^5a-1]: Introdotto dal n. I dell’O del 4 giu. 2010 ([RU 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)). Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 6
+
+**Spese d’organizzazione**
+
+Il conteggio delle spese d’organizzazione avviene nell’ambito dei crediti preventivati e concessi.
+
+### Sezione 2: Consiglio Internazionale dello Sport Militare****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 7
+
+**Attività del CISM**
+
+<sup>1</sup> La Svizzera, in quanto membro del Consiglio Internazionale dello Sport Militare (CISM), partecipa alle sue gare.[^7-1]
+
+<sup>2</sup> Per la preparazione alle gare del CISM possono essere organizzati corsi d’allenamento.
+
+<sup>3</sup> L’Aggruppamento Difesa designa il capo della delegazione e nomina i delegati svizzeri nonché i rappresentanti nei differenti comitati e nelle commissioni.
+
+<sup>4</sup> ...[^7-2]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-2]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 8
+
+**Organizzazione di gare del CISM in Svizzera**
+
+Per l’organizzazione di gare del CISM in Svizzera sono determinanti le disposizioni di gara del CISM.
+
+### Sezione 3: Gare internazionali dell’esercito
+
+#### Art. 9
+
+**Grandi manifestazioni internazionali di sport militare**
+
+Sono considerate grandi manifestazioni internazionali di sport militare:
+
+- a. la Patrouille des Glaciers (PDG);
+- b.[^9-1] ...
+- c. lo Swiss Tank Challenge (STC);
+- d. la Swiss Air Force Competition (SAFC).
+
+[^9-1]: Abrogata dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 10
+
+**Organizzazione**
+
+L’Aggruppamento Difesa designa gli organizzatori.
+
+#### Art. 11
+
+**Partecipazione**
+
+<sup>1</sup> La partecipazione a grandi manifestazioni internazionali di sport militare è aperta a tutti i militari.[^11-1]
+
+<sup>2</sup> Gli organizzatori possono definire categorie di ospiti per i militari di eserciti stranieri, gli ex militari, il Corpo delle guardie di confine e i corpi di polizia.
+
+<sup>2bis</sup> Possono inoltre essere autorizzati a partecipare alla PDG concorrenti civili. Sono parimenti considerati concorrenti civili i militari, i militari di eserciti stranieri, gli ex militari, i membri del Corpo delle guardie di confine e dei corpi di polizia che hanno compiuto il 65° anno di età.[^11-2]
+
+<sup>3</sup> Nel bando possono essere stabiliti contingenti per i singoli gruppi di partecipanti.[^11-3]
+
+<sup>4</sup> La partecipazione è possibile al massimo fino al compimento del 65° anno d’età. Questo limite d’età non si applica ai concorrenti civili della PDG.[^11-4]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^11-2]: Introdotto dal n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+[^11-3]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^11-4]: Introdotto dal n. I dell’O del 21 ago. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)). Nuovo testo giusta il n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+
+#### Art. 12
+
+**Spese d’organizzazione**
+
+Il conteggio delle spese d’organizzazione avviene nell’ambito dei crediti preventivati e concessi.
+
+#### Art. 13
+
+**Partecipazione di delegazioni di eserciti stranieri**
+
+L’Aggruppamento Difesa decide, nell’ambito dei crediti concessi, in merito all’invito di delegazioni di eserciti stranieri a gare in Svizzera.
+
+#### Art. 14
+
+**Partecipazione a campionati di eserciti stranieri**
+
+<sup>1</sup> L’Aggruppamento Difesa decide, nell’ambito dei crediti concessi, in merito alla partecipazione di delegazioni dell’esercito a campionati di eserciti stranieri.
+
+<sup>2</sup> ...[^14-1]
+
+[^14-1]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+### Sezione 4: Corsi volontari di sport militare
+
+#### Art. 15
+
+**Organizzazione**
+
+<sup>1</sup> L’Aggruppamento Difesa può organizzare corsi volontari di sport militare estivi e invernali. Le date dei corsi sono pubblicate annualmente nella tabella dei corsi.
+
+<sup>2</sup> Tali corsi servono al miglioramento della condizione generale e a trasmettere conoscenze tecniche sportive attuali. L’istruzione avviene in forma pratica e teorica.
+
+<sup>3</sup> I corsi durano cinque giorni al massimo e i corsi preparatori dei quadri due giorni al massimo.
+
+#### Art. 16
+
+**Partecipanti ai corsi**
+
+<sup>1</sup> La partecipazione ai corsi di sport militare è aperta a tutti i militari.
+
+<sup>2</sup> Se vi sono posti liberi, possono partecipare anche ex militari che non hanno ancora compiuto 65 anni, previo versamento di un contributo alle spese.[^16-1]
+
+<sup>3</sup> ...[^16-2]
+
+<sup>4</sup> Annualmente è consentito partecipare a un corso di sport militare estivo e a uno invernale, ma al massimo a due corsi volontari ai sensi degli articoli 15 e 17.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^16-2]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+### Sezione 5: Corsi volontari d’alpinismo
+
+#### Art. 17
+
+**Organizzazione**
+
+<sup>1</sup> Il Centro di competenza servizio alpino dell’esercito può organizzare corsi volontari d’alpinismo estivi e invernali. Le date dei corsi sono pubblicate annualmente nella tabella dei corsi.
+
+<sup>2</sup> In tali corsi esso trasmette parti dell’istruzione alpinistica. L’istruzione avviene in forma pratica e teorica.
+
+<sup>3</sup> I corsi durano cinque giorni al massimo e i corsi preparatori dei quadri due giorni al massimo.
+
+#### Art. 18
+
+**Partecipazione**
+
+<sup>1</sup> La partecipazione ai corsi è aperta a tutti i militari che dispongono di un’adeguata istruzione militare.
+
+<sup>2</sup> Se vi sono posti liberi, possono partecipare anche ex militari che non hanno ancora compiuto 65 anni, previo versamento di un contributo alle spese.[^18-1]
+
+<sup>3</sup> ...[^18-2]
+
+<sup>4</sup> Annualmente è consentito partecipare a un corso d’alpinismo estivo e a uno invernale, ma al massimo a due corsi volontari ai sensi degli articoli 15 e 17.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^18-2]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+### Sezione 6: Gare militari alle feste cantonali di tiro
+
+#### Art. 19
+
+**Organizzazione**
+
+Nell’ambito delle feste cantonali di tiro possono essere organizzate gare militari.
+
+#### Art. 20
+
+**Partecipazione**[^20-1]
+
+La partecipazione è possibile al massimo fino al compimento del 65° anno d’età.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 21
+
+**Contributo della Confederazione**
+
+Nell’ambito dei crediti concessi, la Confederazione versa un contributo di dieci franchi per le spese di sussistenza di ogni militare partecipante.
+
+### Sezione 7: Personale per l’organizzazione di corsi e gare
+
+#### Art. 22
+
+**Reclutamento dei funzionari di gara e del personale di servizio**
+
+<sup>1</sup> Come funzionari e personale di servizio per i corsi e le gare sono impiegati militari. Essi possono prestare il servizio anche su base volontaria.
+
+<sup>2</sup> Se necessario e al più tardi fino al compimento del 65° anno d’età, è possibile impiegare ex militari come funzionari di gara volontari o personale di servizio volontario. [^22-1]
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 23
+
+**Condizioni quadro per i funzionari di gara e il personale di servizio**
+
+<sup>1</sup> Se per l’organizzazione sono impiegati funzionari di gara e personale di servizio provenienti da una truppa in servizio dalla quale ricevono la sussistenza, può essere conteggiata al massimo l’indennità ridotta di sussistenza in pensione per quattro giorni.
+
+<sup>2</sup> Se per l’organizzazione di gare sono impiegati unità di truppa, corpi di truppa o scuole interi, i militari interessati ricevono la sussistenza dalla cucina della propria truppa.
+
+### Sezione 8: Soldo, computo, materiale e assicurazione****
+
+[^chap2-sec8-1]
+
+[^chap2-sec8-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 23a
+
+**Soldo e computo**[^23a-1]
+
+<sup>1</sup> I militari che partecipano ad attività secondo il presente capitolo nel quadro di un servizio d’istruzione di base o di un servizio di perfezionamento della truppa ricevono il soldo per i corrispondenti giorni.
+
+<sup>2</sup> Gli altri militari che partecipano ad attività secondo il presente capitolo ricevono il soldo per complessivamente 10 giorni al massimo l’anno. La partecipazione a gare di tiro dell’esercito e a gare militari alle feste cantonali di tiro non dà diritto al soldo.
+
+<sup>3</sup> Ai militari che non hanno ancora adempiuto il totale obbligatorio di giorni di servizio d’istruzione, i giorni con diritto al soldo sono computati sul totale obbligatorio di giorni d’istruzione se non sono prestati nel quadro di servizi volontari.
+
+<sup>4</sup>
+
+Non hanno diritto al soldo:
+
+- a. gli ex militari;
+- b. gli altri partecipanti.
+
+[^23a-1]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 24
+
+**Materiale dell’esercito**
+
+<sup>1</sup> L’esercito mette gratuitamente a disposizione il materiale dell’esercito necessario per l’organizzazione di corsi e gare.
+
+<sup>2</sup> L’Aggruppamento Difesa decide in merito alla consegna di materiale per grandi manifestazioni internazionali di sport militare.
+
+#### Art. 25
+
+**Materiale privato**
+
+<sup>1</sup> Per il materiale privato impiegato in corsi e gare non è versata alcuna indennità.
+
+<sup>2</sup> La perdita, la sostituzione e la riparazione di articoli d’equipaggiamento di sport e da competizione privati, nonché di altro materiale privato, sono a carico del proprietario.
+
+#### Art. 26
+
+**Assicurazione militare**
+
+I militari e gli ex militari che partecipano o collaborano alle attività fuori del servizio secondo la presente ordinanza sono assicurati nell’ambito della legge federale del 19 giugno 1992[^26-1] sull’assicurazione militare.
+
+[^26-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+#### Art. 27
+
+**Assicurazione contro gli infortuni**
+
+L’Aggruppamento Difesa, d’intesa con l’Amministrazione federale delle finanze, conclude un’assicurazione contro gli infortuni per le persone non assicurate presso l’assicurazione militare che sono autorizzate a partecipare ad attività fuori del servizio secondo la presente ordinanza.
+
+## Capitolo 2*a*:**** Sport di punta in servizio militare
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 27a
+
+**Selezione**
+
+<sup>1</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport definisce i criteri sportivi per la selezione quale soldato sport o soldato CISM. A tal fine consulta in via preliminare l’associazione mantello dello sport svizzero e le rispettive federazioni sportive nazionali.
+
+<sup>2</sup> L’Aggruppamento Difesa decide, su proposta delle rispettive federazioni sportive nazionali, in merito alla selezione dei soldati sport e dei soldati CISM.
+
+#### Art. 27b
+
+**Servizi militari**
+
+<sup>1</sup> I soldati sport possono assolvere la scuola reclute per sportivi di punta.
+
+<sup>2</sup>
+
+I soldati sport e i soldati CISM, nonché i militari impiegati come loro allenatori, assistenti o funzionari, possono ogni anno:[^27b-1]
+
+- a. utilizzare per lo sport di punta, nel quadro di servizi di perfezionamento della truppa e con computo sul totale obbligatorio di giorni di servizio d’istruzione, al massimo 30 giorni di servizio militare con diritto al soldo;
+- b. in via supplementare, prestare, senza computo sul totale obbligatorio di giorni di servizio d’istruzione, al massimo 100 giorni l’anno di servizio militare con diritto al soldo.
+
+<sup>3</sup> I capoversi 1 e 2 non sono applicabili ai soldati sport e ai soldati CISM assunti come militari a contratto temporaneo.
+
+<sup>4</sup> I militari incorporati nello stato maggiore del Centro di competenza sport dell’esercito o nello stato maggiore speciale sport possono essere chiamati a prestare singoli giorni di servizio per i corsi di ripetizione.[^27b-2]
+
+<sup>5</sup> Il servizio militare è prestato senz’arma.[^27b-3]
+
+[^27b-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-3]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+
+#### Art. 27c
+
+**Allenamenti e gare**
+
+Nel quadro dei servizi militari secondo l’articolo 27*b* o dell’assunzione come militare a contratto temporaneo:
+
+- a. i soldati sport possono svolgere le giornate di preparazione a gare sportive internazionali (quali Giochi olimpici, campionati mondiali e campionati europei) nonché le gare;
+- b. i soldati CISM possono svolgere corsi d’allenamento per la preparazione alle gare CISM nonché le gare CISM.
+
+#### Art. 27d
+
+**Attribuzione o assegnazione**[^27d-1]
+
+<sup>1</sup>
+
+Su richiesta possono essere attribuite o assegnate all’esercito come allenatori, assistenti o funzionari di soldati sport o soldati CISM le persone che:
+
+- a. hanno assolto un’adeguata formazione presso la loro federazione sportiva nazionale;
+- b. sono riconosciute ufficialmente dalla loro federazione sportiva nazionale ed è previsto che ricoprano tale funzione a lungo termine.
+
+<sup>2</sup>
+
+Le persone attribuite o assegnate secondo il capoverso 1:
+
+- a. prestano servizio militare senz’arma;
+- b. assolvono un’istruzione militare di base minima;
+- c. al termine di tale istruzione ricevono la promozione a soldato, a meno che non abbiano già un grado militare svizzero;
+- d. non possono essere proposti per l’assunzione di un grado superiore o essere promossi a un grado superiore, tuttavia se necessario possono essere nominati ufficiali specialisti;
+- e. possono prestare, al più tardi sino alla fine dell’anno in cui compiono 65 anni, al massimo 100 giorni l’anno di servizio militare con diritto al soldo.
+
+[^27d-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+
+## Capitolo 3: Disposizioni finali
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Abrogato dal n. II 38 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 29
+
+**Esecuzione**
+
+<sup>1</sup>
+
+L’Aggruppamento Difesa è incaricato dell’esecuzione della presente ordinanza ed emana le istruzioni necessarie. Esso disciplina segnatamente i dettagli concernenti:
+
+- a. l’attività dei quadri e dei concorrenti nei corsi d’allenamento e nelle gare delle differenti discipline del CISM;
+- b. l’invito di delegazioni di eserciti stranieri e il conteggio delle spese imputabili;
+- c. la partecipazione a campionati di eserciti stranieri, la selezione, l’invio comandato e il conteggio delle spese imputabili;
+- d. l’organizzazione e la partecipazione a gare militari nelle feste cantonali di tiro;
+- e.[^29-1] ...
+
+<sup>2</sup>
+
+Esso definisce un organo centrale responsabile:
+
+- a. della gestione del fabbisogno di corsi e gare della truppa fuori del servizio;
+- b. dell’osservanza delle prescrizioni concernenti il soldo e il computo sul totale obbligatorio di giorni di servizio d’istruzione di corsi e gare della truppa fuori del servizio.[^29-2]
+
+<sup>3</sup> Esso presenta annualmente al capo dell’esercito un rapporto sui corsi e le gare della truppa fuori del servizio e ne valuta in tale sede l’ulteriore fabbisogno e l’ulteriore utilità per l’esercito.[^29-3]
+
+[^29-1]: Abrogata dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-2]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-3]: Introdotto dal n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 30
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 28 febbraio 1996[^30-1] sull’attività della truppa fuori del servizio è abrogata.
+
+[^30-1]: [[RU 1996 1026](https://fedlex.data.admin.ch/eli/oc/1996/1026_1026_1026), [1999 1295](https://fedlex.data.admin.ch/eli/oc/1999/174)]
+
+#### Art. 31
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1º gennaio 2004.

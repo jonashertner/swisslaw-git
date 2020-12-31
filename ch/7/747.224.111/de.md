@@ -1,0 +1,21 @@
+---
+sr: "747.224.111"
+title: Rheinschifffahrtspolizeiverordnung vom 1. Dezember 1993
+eli: "https://fedlex.data.admin.ch/eli/cc/1994/1776_1776_1776-2"
+language: de
+version: 2021-01-01
+adopted: 1994-06-10
+in_force: 1995-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1776_1776_1776-2/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1776_1776_1776-2-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1776_1776_1776-2/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Rheinschifffahrtspolizeiverordnung****
+
+vom 1. Dezember 1993 (Stand am 1. Januar 2021)[^t-1]
+
+[^t-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht ([AS 1994 1776](https://fedlex.data.admin.ch/eli/oc/1994/1776_1776_1776)Art. 1, [1998 1236](https://fedlex.data.admin.ch/eli/oc/1998/1236_1236_1236), [2002 3071](https://fedlex.data.admin.ch/eli/oc/2002/445), [2003 468](https://fedlex.data.admin.ch/eli/oc/2003/102), [2005 4731](https://fedlex.data.admin.ch/eli/oc/2005/626), [2006 3037](https://fedlex.data.admin.ch/eli/oc/2006/469), [2007 281](https://fedlex.data.admin.ch/eli/oc/2007/57)[913](https://fedlex.data.admin.ch/eli/oc/2007/162)[3453](https://fedlex.data.admin.ch/eli/oc/2007/420), [2008 699](https://fedlex.data.admin.ch/eli/oc/2008/173)[701](https://fedlex.data.admin.ch/eli/oc/2008/174)[703](https://fedlex.data.admin.ch/eli/oc/2008/175)[4079](https://fedlex.data.admin.ch/eli/oc/2008/568)[4081](https://fedlex.data.admin.ch/eli/oc/2008/569), [2009 1269](https://fedlex.data.admin.ch/eli/oc/2009/200)[3559](https://fedlex.data.admin.ch/eli/oc/2009/445), [2010 587](https://fedlex.data.admin.ch/eli/oc/2010/87)873 [1603](https://fedlex.data.admin.ch/eli/oc/2010/229)[3401](https://fedlex.data.admin.ch/eli/oc/2010/466), [2011 1111](https://fedlex.data.admin.ch/eli/oc/2011/161)[1253](https://fedlex.data.admin.ch/eli/oc/2011/188)[3651](https://fedlex.data.admin.ch/eli/oc/2011/507), [2013 1021](https://fedlex.data.admin.ch/eli/oc/2013/220)[1023](https://fedlex.data.admin.ch/eli/oc/2013/221)[2249](https://fedlex.data.admin.ch/eli/oc/2013/468), [2014 725](https://fedlex.data.admin.ch/eli/oc/2014/156)[2353](https://fedlex.data.admin.ch/eli/oc/2014/398)[2355](https://fedlex.data.admin.ch/eli/oc/2014/399)[2357](https://fedlex.data.admin.ch/eli/oc/2014/400), [2015 365](https://fedlex.data.admin.ch/eli/oc/2015/49)[2353](https://fedlex.data.admin.ch/eli/oc/2015/440)[2355](https://fedlex.data.admin.ch/eli/oc/2015/441)[2357](https://fedlex.data.admin.ch/eli/oc/2015/442)[2359](https://fedlex.data.admin.ch/eli/oc/2015/443), [2016 177](https://fedlex.data.admin.ch/eli/oc/2016/23)[307](https://fedlex.data.admin.ch/eli/oc/2016/41)[523](https://fedlex.data.admin.ch/eli/oc/2016/95), [2018 961](https://fedlex.data.admin.ch/eli/oc/2018/135)[963](https://fedlex.data.admin.ch/eli/oc/2018/136)[1011](https://fedlex.data.admin.ch/eli/oc/2018/152)[1013](https://fedlex.data.admin.ch/eli/oc/2018/153)[2679](https://fedlex.data.admin.ch/eli/oc/2018/390)[3283](https://fedlex.data.admin.ch/eli/oc/2018/530), [2019 437](https://fedlex.data.admin.ch/eli/oc/2019/77)[1125](https://fedlex.data.admin.ch/eli/oc/2019/210)[2673](https://fedlex.data.admin.ch/eli/oc/2019/502)[2675](https://fedlex.data.admin.ch/eli/oc/2019/503), [2020 579](https://fedlex.data.admin.ch/eli/oc/2020/109)[581](https://fedlex.data.admin.ch/eli/oc/2020/110)[6157](https://fedlex.data.admin.ch/eli/oc/2020/1018)). Der Text kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Rheinschifffahrtspolizeiverordnung oder www.ccr-zkr.org &gt; Dokumente &gt; ZKR Verordnungen &gt; Rheinschifffahrtspolizeiverordnung (in deutscher und französischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
+
+In Kraft getreten am 1. Januar 1995

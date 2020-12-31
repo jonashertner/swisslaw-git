@@ -1,0 +1,894 @@
+---
+sr: "741.013"
+title: Ordinanza del 28 marzo 2007 sul controllo della circolazione stradale (OCCS)
+short: OCCS
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
+language: it
+version: 2020-01-01
+adopted: 2007-03-28
+in_force: 2008-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20200101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20200101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul controllo della circolazione stradale
+
+(OCCS)
+
+del 28 marzo 2007 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 30 capoverso 4*,* 55 capoverso 7, 56 capoverso 1, 57 capoverso 3 lettera b, 103 e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale,
+
+ordina:
+
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina i controlli della circolazione e i provvedimenti, le notifiche e le statistiche che comportano.
+
+#### Art. 2
+
+**Abbreviazioni e definizioni**
+
+<sup>1</sup> Sono utilizzate le seguenti abbreviazioni:
+
+<table>
+<tr><td>a. USTRA:</td><td>Ufficio federale delle strade;</td></tr>
+<tr><td>b. UFT:</td><td>Ufficio federale dei trasporti;</td></tr>
+<tr><td>c. LCStr:</td><td>legge federale del 19 dicembre 1958 sulla circolazione stradale;</td></tr>
+<tr><td>d. ONC:</td><td>ordinanza del 13 novembre 1962[^2-1] sulle norme della circolazione stradale;</td></tr>
+<tr><td>e. OETV:</td><td>ordinanza del 19 giugno 1995[^2-2] concernente le esigenze tecniche per i veicoli stradali;</td></tr>
+<tr><td>f. OAC:</td><td>ordinanza del 27 ottobre 1976[^2-3] sull’ammissione alla circolazione di persone e veicoli;</td></tr>
+<tr><td>g. OLR 1:</td><td>ordinanza del 19 giugno 1995[^2-4] per gli autisti;</td></tr>
+<tr><td>h.[^2-5] OLR 2:</td><td>Ordinanza del 6 maggio 1981[^2-6] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.</td></tr>
+</table>
+
+<sup>2</sup> Sono veicoli utilitari i trattori a sella e i rimorchi con un peso totale superiore a 3,5 t nonché gli autobus, i furgoncini e gli autocarri.
+
+[^2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^2-4]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^2-5]: Introdotta dal n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
+[^2-6]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+
+#### Art. 3
+
+**Competenza della polizia**
+
+<sup>1</sup> Il controllo della circolazione sulle strade pubbliche, compreso il controllo del trasporto delle persone e l’ammissione come impresa di trasporto stradale, incombe agli organi di polizia competenti secondo il diritto cantonale. È fatta salva l’ordinanza dell’11 febbraio 2004[^3-1] sulla circolazione stradale militare.
+
+<sup>2</sup> La polizia agisce aiutando ed educando gli utenti della strada, impedisce che siano commesse infrazioni, denuncia i contravventori e infligge multe disciplinari conformemente alla legge federale del 24 giugno 1970[^3-2] concernente le multe disciplinari.
+
+[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+[^3-2]: [[RU 1972 666](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 n. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744). [RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)all. n. I]. Vedi ora la LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+
+#### Art. 4
+
+**Competenza dell’Amministrazione federale delle dogane[^4-1]**
+
+<sup>1</sup> L’Amministrazione federale delle dogane (AFD) è competente per il controllo in materia di polizia stradale dei veicoli e dei conducenti che entrano o escono dalla Svizzera. Effettua i controlli in materia di polizia stradale insieme alla verifica doganale dei veicoli, del loro carico e degli occupanti.[^4-2]
+
+<sup>2</sup>
+
+In particolare controlla:[^4-3]
+
+- a. la licenza di condurre, la licenza di circolazione e le targhe;
+- b. lo stato del conducente;
+- c. l’osservanza della durata del lavoro, della guida e del riposo;
+- d. lo stato tecnico generale del veicolo;
+- e. le dimensioni e il peso;
+- f. il trasporto di merci pericolose;
+- g. il divieto di circolare la domenica e la notte;
+- h. l’assicurazione di responsabilità civile del veicolo a motore;
+- i. l’osservanza delle prescrizioni riguardanti il trasporto di persone e l’ammissione come impresa di trasporto stradale.
+
+<sup>3</sup>
+
+Può ordinare:[^4-4]
+
+- a. durante il controllo dei veicoli e del loro carico, gli stessi provvedimenti degli organi cantonali di polizia;
+- b. durante il controllo dei conducenti, il divieto di continuare la corsa (art. 30).
+
+<sup>4</sup> Se constata un’infrazione, l’AFD impedisce al conducente di continuare la corsa.[^4-5]
+
+<sup>5</sup> Se i suoi ordini non sono eseguiti o se non può punire un’infrazione con la procedura della multa disciplinare ai sensi della legge del 18 marzo 2016[^4-6] sulle multe disciplinari, l’AFD chiede l’intervento del posto di polizia cantonale più vicino.[^4-7]
+
+<sup>6</sup> Se la polizia cantonale non può essere contattata, l’AFD redige il rapporto di denuncia e lo consegna, unitamente ai mezzi di prova di cui dispone, al comando di polizia competente. Quest’ultimo avvia il procedimento penale.[^4-8]
+
+<sup>7</sup> L’USTRA disciplina, d’intesa con la Direzione generale delle dogane, i particolari dell’esecuzione dei controlli in materia di polizia stradale. Sono fatti salvi accordi più particolareggiati stipulati dai Cantoni con il Dipartimento federale delle finanze conformemente all’articolo 97 della legge del 18 marzo 2005[^4-9] sulle dogane.[^4-10]
+
+[^4-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-2]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-5]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-6]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-7]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-8]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+
+#### Art. 5
+
+**Controlli**
+
+<sup>1</sup> Le autorità cantonali concentrano i controlli sui comportamenti che compromettono la sicurezza, sui luoghi pericolosi e sul sostegno degli sforzi intesi a conseguire l’obiettivo di trasferimento secondo la legge del 19 dicembre 2008[^5-1] sul trasferimento del traffico merci.[^5-2]
+
+<sup>2</sup> I controlli sono effettuati per campionatura, sistematicamente o nel quadro di controlli ad ampio raggio. Possono essere coordinati a livello intercantonale o internazionale.
+
+<sup>3</sup> Nel limite delle proprie possibilità, la polizia partecipa ai controlli organizzati a livello internazionale.
+
+[^5-1]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^5-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+
+#### Art. 6
+
+**Controllo di licenze e permessi**
+
+Sulle strade pubbliche, il controllo delle licenze e dei permessi è ammesso in qualsiasi momento; al di fuori di esse, è ammesso soltanto per chiarire le infrazioni e gli infortuni oppure in caso di sospetto di infrazioni che abbiano un rapporto diretto di tempo e di luogo con il controllo. Sono fatti salvi i controlli nell’azienda giusta gli articoli 22 e 27.
+
+#### Art. 7
+
+**Deviazione di veicoli**
+
+La polizia può deviare dal loro itinerario i veicoli a motore e i rimorchi per farli pesare su bilance o sottoporli a controlli più approfonditi in un centro di controllo.
+
+#### Art. 8
+
+[^8-1]
+
+[^8-1]: Abrogato dal n. I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+
+#### Art. 9
+
+**Impiego di ausili tecnici**
+
+<sup>1</sup>
+
+Nella misura del possibile, durante i controlli vanno impiegati ausili tecnici, in particolare per controllare:
+
+- a. la velocità;
+- b. il rispetto dei segnali luminosi;
+- c. la distanza di sicurezza tra veicoli;
+- d. la durata del lavoro, della guida e del riposo;
+- e. lo stato tecnico del veicolo;
+- f. le dimensioni e i pesi;
+- g. la merce trasportata;
+- h. l’impiego durante la corsa di un telefono senza dispositivo «mani libere»;
+- i.[^9-1] la concentrazione di alcol nell’aria espirata[^9-2].
+
+<sup>1bis</sup> Gli ausili tecnici utilizzati sono retti dall’ordinanza del 15 febbraio 2006[^9-3] sugli strumenti di misurazione e dalle pertinenti disposizioni di esecuzione del Dipartimento federale di giustizia e polizia.[^9-4]
+
+<sup>2</sup>
+
+Per i controlli mediante ausili tecnici, l’USTRA disciplina, d’intesa con l’Istituto federale di metrologia:[^9-5]
+
+- a. l’esecuzione e la procedura;
+- b. i requisiti dei sistemi e dei tipi di misurazione nonché i margini tecnici di tolleranza.
+
+<sup>3</sup> L’USTRA definisce le esigenze poste al personale incaricato del controllo e della valutazione.
+
+<sup>4</sup> Per sperimentare nuovi ausili tecnici, l’USTRA può rilasciare un permesso d’esercizio temporaneo basato su un rapporto di prova dell’Istituto federale di metrologia e può definire i margini tecnici di tolleranza conformi allo stato della tecnica.[^9-6]
+
+[^9-1]: Introdotta dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
+[^9-2]: Nuova espr. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^9-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^9-4]: Introdotto dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
+[^9-5]: Nuovo testo giusta il n. I 2 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
+[^9-6]: Introdotto dal n. I dell’O dell’11 mag. 2011 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)). Nuovo testo giusta il n. I 2 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
+
+## Capitolo 2: Controllo dei conducenti di veicoli
+
+### Sezione 1: Controllo dell’abilità alla guida
+
+#### Art. 10
+
+**Test preliminari**[^10-1]
+
+<sup>1</sup> Per accertare il consumo di alcol, la polizia può utilizzare strumenti per test preliminari che danno indicazioni sullo stato di ebrietà.
+
+<sup>2</sup> Se vi sono indizi tali da lasciar supporre che la persona controllata sia inabile alla guida a causa di una sostanza diversa dall’alcol e che in tale stato abbia condotto un veicolo, la polizia può eseguire test preliminari per rilevare la presenza di stupefacenti o di medicamenti, in particolare nelle urine, nella saliva o nel sudore.
+
+<sup>3</sup> I test preliminari devono essere eseguiti conformemente alle prescrizioni del fabbricante dello strumento impiegato.
+
+<sup>4</sup> Se il risultato dei test preliminari è negativo e la persona controllata non mostra indizi d’inabilità alla guida, si rinuncia a effettuare ulteriori accertamenti.
+
+<sup>5</sup> Se il test preliminare relativo al consumo di alcol risulta positivo oppure nel caso in cui la polizia non abbia impiegato uno strumento per test preliminari, viene eseguito un accertamento etilometrico.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 10a
+
+**Accertamento etilometrico**[^10a-1]
+
+<sup>1</sup>
+
+L’accertamento etilometrico può essere effettuato utilizzando:
+
+- a. un etilometro precursore di cui all’articolo 11;
+- b. un etilometro probatorio di cui all’articolo 11*a*.
+
+<sup>2</sup> Se una misurazione è effettuata mediante etilometro precursore, determinati valori possono essere riconosciuti tramite apposizione della firma (art. 11 cpv. 3).
+
+[^10a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 11
+
+**Accertamento etilometrico preliminare e riconoscimento dei valori**[^11-1]
+
+<sup>1</sup>
+
+L’accertamento con etilometro precursore può essere effettuato:
+
+- a. dopo un tempo di attesa di almeno 20 minuti; o
+- b. dopo un risciacquo della bocca, tenendo conto di eventuali indicazioni del fabbricante dello strumento.
+
+<sup>2</sup> Per l’accertamento sono necessarie due misurazioni. Se queste differiscono di oltre 0,05 mg/l, occorre effettuare due nuove misurazioni. Se anche queste presentano uno scarto superiore a 0,05 mg/l e vi sono indizi di uno stato di ebrietà, occorre disporre un accertamento etilometrico probatorio o un esame del sangue.
+
+<sup>3</sup>
+
+Fa fede il valore più basso delle due misurazioni. La persona interessata può riconoscerlo con la propria firma se corrisponde alle seguenti concentrazioni di alcol nell’aria espirata:
+
+- a. pari o superiore a 0,25 ma inferiore a 0,40 mg/l per i conducenti di un veicolo a motore;
+- b. pari o superiore a 0,05 ma inferiore a 0,40 mg/l per le persone soggette al divieto di guidare sotto l’influsso dell’alcol secondo l’articolo 2*a* capoverso 1 ONC[^11-2];
+- c. pari o superiore a 0,25 ma inferiore a 0,55 mg/l per i conducenti di un veicolo senza motore o di un ciclomotore.
+
+<sup>4</sup> Gli etilometri precursori devono soddisfare i requisiti dell’ordinanza del 15 febbraio 2006[^11-3] sugli strumenti di misurazione e delle relative disposizioni esecutive del Dipartimento federale di giustizia e polizia.
+
+<sup>5</sup> L’USTRA disciplina l’uso degli etilometri precursori.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^11-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^11-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+
+#### Art. 11a
+
+**Accertamento etilometrico probatorio**[^11a-1]
+
+<sup>1</sup> L’accertamento con etilometro probatorio può essere effettuato dopo un tempo di attesa di almeno 10 minuti.
+
+<sup>2</sup> Se l’etilometro rileva la presenza di alcol in bocca, occorre attendere almeno altri 5 minuti prima di procedere all’accertamento etilometrico.
+
+<sup>3</sup> Gli etilometri probatori devono soddisfare i requisiti dell’ordinanza del 15 febbraio 2006[^11a-2] sugli strumenti di misurazione e delle relative disposizioni esecutive del Dipartimento federale di giustizia e polizia.
+
+<sup>4</sup> L’USTRA disciplina l’uso degli etilometri probatori.
+
+[^11a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^11a-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+
+#### Art. 12
+
+**Esame del sangue per rilevare la presenza di alcol**[^12-1]
+
+<sup>1</sup>
+
+L’esame del sangue per rilevare la presenza di alcol deve essere disposto se:
+
+- a.
+
+  il risultato dell’accertamento etilometrico preliminare:
+
+  - 1\. è superiore ai valori che possono essere riconosciuti con la propria firma e non è possibile eseguire un accertamento etilometrico probatorio,
+  - 2\. non è riconosciuto dalla persona interessata nonostante possa farlo apponendo la propria firma e non è possibile eseguire un accertamento etilometrico probatorio;
+
+- b. il risultato dell’accertamento etilometrico è pari o superiore a 0,15 mg/l e si sospetta che la persona interessata abbia guidato in stato di ebrietà un veicolo due o più ore prima del controllo;
+- c. la persona interessata si oppone o si sottrae all’esecuzione di un accertamento etilometrico o elude lo scopo di tale provvedimento;
+- d. la persona interessata lo richiede.
+
+<sup>2</sup> L’esame del sangue può essere disposto se vi sono indizi di inabilità alla guida e non è possibile eseguire un accertamento etilometrico o se quest’ultimo non è idoneo ad accertare l’infrazione.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 12a
+
+**Esame del sangue e prelievo delle urine per rilevare la presenza di sostanze diverse dall’alcol**[^12a-1]
+
+L’esame del sangue deve essere disposto se vi sono indizi di inabilità alla guida non attribuibili o non unicamente attribuibili all’influsso dell’alcol. È possibile disporre anche un prelievo delle urine.
+
+[^12a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 12b
+
+**Persone da sottoporre agli accertamenti**[^12b-1]
+
+Se non è possibile stabilire chi, tra le persone coinvolte, conduceva il veicolo, possono essere sottoposte agli accertamenti di cui agli articoli 10–12*a* tutte le persone da non escludere a tal fine.
+
+[^12b-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 13
+
+**Obblighi della polizia**
+
+<sup>1</sup>
+
+La polizia deve informare la persona interessata in particolare sul fatto che:
+
+- a. in caso di rifiuto di sottoporsi a un test preliminare o all’accertamento etilometrico, verrà disposto un esame del sangue (art. 55 cpv. 3 LCStr);
+- b. il riconoscimento del risultato dell’accertamento etilometrico di cui all’articolo 11 comporta l’avvio di un procedimento amministrativo e penale;
+- c. la persona interessata può richiedere un esame del sangue.[^13-1]
+
+<sup>2</sup> Se la persona interessata si rifiuta di sottoporsi a un test preliminare, all’accertamento etilometrico, al prelievo del sangue o delle urine o all’esame medico, occorre informarla sulle conseguenze del suo rifiuto (art. 16*c* cpv. 1 lett. d in combinato disposto con il cpv. 2 e l’art. 91*a* cpv. 1 LCStr).[^13-2]
+
+<sup>3</sup> L’accertamento etilometrico, il prelievo delle urine, gli accertamenti della polizia, il riconoscimento dei risultati delle misurazioni etilometriche e l’ordine di prelievo del sangue e delle urine o la conferma di tale ordine devono essere registrati in un rapporto. L’USTRA stabilisce i requisiti minimi riguardanti la forma e il contenuto del rapporto.[^13-3]
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 14
+
+**Prelievo del sangue e delle urine**
+
+<sup>1</sup> Il sangue deve essere prelevato da un medico o, sotto la sua responsabilità, da un ausiliario qualificato da lui designato. Il prelievo delle urine è effettuato sotto l’adeguata sorveglianza di una persona qualificata.
+
+<sup>2</sup> Il recipiente contenente il sangue o le urine deve essere munito di iscrizioni inequivocabili, messo in un imballaggio adatto al trasporto, conservato a bassa temperatura e inviato per l’esame, per la via più rapida, a un laboratorio riconosciuto dall’USTRA.
+
+<sup>3</sup> Su proposta dei Cantoni, l’USTRA riconosce i laboratori che dispongono delle installazioni necessarie per le analisi medico-legali del sangue e delle urine e garantiscono un esame irreprensibile. Esso controlla o fa controllare l’attività dei laboratori riconosciuti.
+
+#### Art. 15
+
+**Esame medico**
+
+<sup>1</sup> Se è stato ordinato un prelievo del sangue, il medico incaricato a tal fine deve esaminare se la persona interessata presenta indizi d’inabilità alla guida dovuti al consumo di alcol, stupefacenti o medicamenti, accertabili a livello medico. L’USTRA stabilisce i requisiti minimi riguardanti la forma e il contenuto del rapporto.
+
+<sup>2</sup> L’autorità competente può dispensare il medico dall’obbligo di effettuare un’analisi se la persona interessata non presenta, nel suo comportamento, alcun indizio rivelatore d’inabilità alla guida dovuta a una sostanza diversa dall’alcol.
+
+#### Art. 16
+
+**Parere di un perito**
+
+<sup>1</sup>
+
+I risultati dell’analisi del sangue o delle urine sono sottoposti, all’attenzione dell’autorità penale e dell’autorità di revoca, a un perito riconosciuto che ne valuta l’incidenza sull’abilità alla guida se:
+
+- a. nel sangue è rilevata la presenza di una sostanza che riduce l’abilità alla guida e non si tratta né di alcol né di una sostanza indicata nell’articolo 2 capoverso 2 ONC[^16-1];
+- b. una persona ha consumato su prescrizione medica una sostanza indicata nell’articolo 2 capoverso 2 ONC, ma vi sono indizi d’inabilità alla guida.
+
+<sup>2</sup> Il perito tiene conto degli accertamenti della polizia, dei risultati dell’esame medico e dell’analisi chimico-tossicologica e motiva le proprie conclusioni.
+
+<sup>3</sup>
+
+Su proposta dei laboratori, l’USTRA riconosce la qualità di perito a persone che:
+
+- a. possiedono il titolo di medico specialista in medicina legale, il titolo di «Tossicologo/a forense SSLM» rilasciato dalla Società svizzera di medicina legale o un titolo di specializzazione estero equivalente; e
+- b. possiedono ampie conoscenze teoriche ed esperienza pratica nell’interpretazione di reperti medici e tossicologici riguardo alla loro incidenza sull’abilità alla guida.[^16-2]
+
+[^16-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^16-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 17
+
+**Altro accertamento dell’inabilità alla guida**[^17-1]
+
+È possibile stabilire l’ebrietà o l’influsso di una sostanza diversa dall’alcol sulla ridotta abilità alla guida in base allo stato e al comportamento della persona sospetta o mediante l’accertamento relativo al consumo, in particolare se non è stato possibile effettuare l’accertamento etilometrico[^17-2], l’analisi preliminare per rilevare tracce di stupefacenti o di medicamenti né il prelievo del sangue.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+[^17-2]: Nuova espr. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 18
+
+**Procedura**
+
+L’USTRA disciplina le ulteriori esigenze concernenti la procedura per accertare l’inabilità alla guida nel traffico stradale a seguito dell’influsso di alcol, stupefacenti e medicamenti.
+
+#### Art. 19
+
+**Diplomatici e persone con statuto analogo**
+
+I conducenti al beneficio di privilegi e immunità diplomatici o consolari non possono essere sottoposti, senza il loro consenso, a esami per l’accertamento dell’inabilità alla guida.
+
+### Sezione 2: Controllo della durata del lavoro, della guida e del riposo dei conducenti professionali di veicoli a motore
+
+#### Art. 20
+
+**Controlli**[^20-1]
+
+Sono effettuati controlli sulla durata del lavoro, della guida e del riposo dei conducenti di veicoli a motore che sottostanno all’OLR 1[^20-2] e all’OLR 2[^20-3].
+
+<sup>2</sup> Nei confronti dei conducenti che sottostanno all’OLR 1, le autorità cantonali provvedono affinché ogni anno siano effettuati controlli durante il 3 per cento almeno dei giorni lavorativi, almeno il 30 per cento dei quali da effettuarsi nel quadro di controlli stradali e almeno il 50 per cento nel quadro di controlli nell’azienda.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
+[^20-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+
+#### Art. 21
+
+**Controlli su strada**
+
+<sup>1</sup>
+
+Sulla strada, La polizia controlla in particolare l’osservanza delle prescrizioni concernenti:
+
+- a. i periodi di guida giornalieri;
+- b. le interruzioni di lavoro e di guida;
+- c. i periodi di riposo giornalieri;
+- d. l’ultimo periodo di riposo settimanale precedente il controllo;
+- e. la presenza a bordo del veicolo e l’uso dell’apparecchio di controllo;
+- f.[^21-1] l’impiego e il corretto funzionamento del tachigrafo.
+
+<sup>2</sup>
+
+Per individuare precocemente abusi e manipolazioni del tachigrafo, la polizia può consultare mediante collegamento radio i seguenti dati per decidere se sia il caso di fermare il veicolo per un controllo:
+
+- a. ultimo tentativo di violazione della sicurezza;
+- b. interruzione di corrente più lunga negli ultimi dieci giorni;
+- c. malfunzionamento di sensori negli ultimi dieci giorni;
+- d. dati errati in relazione a percorso e velocità negli ultimi dieci giorni;
+- e. dati contrastanti sul movimento del veicolo negli ultimi dieci giorni;
+- f. guida senza carta valida;
+- g. inserimento della carta durante la guida negli ultimi dieci giorni;
+- h. dati relativi alla regolazione dell’ora;
+- i. dati relativi alla calibrazione, inclusa la data delle ultime due calibrazioni;
+- j. targa del veicolo;
+- k. velocità indicata dal tachigrafo.[^21-2]
+
+<sup>3</sup> I dati trasmessi mediante collegamento radio devono essere distrutti dalla Polizia al più tardi entro tre ore dalla trasmissione, a meno che non facciano presumere una manipolazione o un abuso del tachigrafo. Se nel corso del controllo stradale tale sospetto non è confermato, i dati trasmessi vanno distrutti.[^21-3]
+
+[^21-1]: Nuovo testo gisuta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+[^21-2]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+[^21-3]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+
+#### Art. 22
+
+**Controlli nell’azienda**
+
+<sup>1</sup> I controlli nell’azienda sono effettuati nella sede dell’azienda o di una sua succursale. Se la sede o la succursale è situata fuori del Cantone in cui è immatricolato il veicolo, il Cantone d’immatricolazione informa l’autorità competente per il controllo nell’azienda.
+
+<sup>2</sup>
+
+I controlli nell’azienda devono essere effettuati in particolare se:
+
+- a. sono state constatate gravi infrazioni durante i controlli su strada; oppure
+- b. vi è il sospetto che il datore di lavoro abbia commesso un’infrazione.
+
+<sup>3</sup> I controlli di cui al capoverso 2 sono conteggiati quali controlli giusta l’articolo 20.
+
+<sup>4</sup> Invece di un controllo in loco, il controllo può essere effettuato sulla base di documenti di controllo. Se un’azienda registra tutti i dati con i mezzi di controllo giusta l’articolo 13 lettere b, c e d OLR 1[^22-1] o l’articolo 16*a* OLR 2[^22-2], può trasmetterli per via elettronica all’autorità di controllo nella forma da essa richiesta e in osservanza delle necessarie misure di sicurezza.[^22-3]
+
+<sup>5</sup> Se possibile la valutazione deve coinvolgere almeno i mezzi di controllo di un mese.
+
+<sup>6</sup>
+
+Sono oggetto dei controlli:
+
+- a. i punti da controllare giusta l’articolo 21;
+- b. i periodi di guida giornalieri tra due periodi di riposo settimanali;
+- c. i periodi di guida nell’arco di una o due settimane;
+- d. la durata massima di lavoro settimanale;
+- e. eventualmente il totale delle ore supplementari nell’anno civile;
+- f. i periodi di riposo settimanale;
+- g. la compensazione per la riduzione dei periodi di riposo giornalieri o settimanali;
+- h. l’impiego e la conservazione dei mezzi di controllo;
+- i. i riepiloghi del tempo di lavoro, di guida e di riposo;
+- j.[^22-4] lo scaricamento di dati da tachigrafi digitali.
+
+[^22-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^22-2]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^22-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
+[^22-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+
+## Capitolo 3: Controllo dei veicoli
+
+### Sezione 1: Controllo dello stato tecnico dei veicoli
+
+#### Art. 23
+
+**Principio**
+
+Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia debitamente controllato.
+
+#### Art. 24
+
+**Controllo di veicoli utilitari**
+
+<sup>1</sup>
+
+È effettuata almeno una delle seguenti procedure di controllo:
+
+- a. esame visivo del veicolo da fermo;
+- b.
+
+  esame dei documenti attestanti:
+
+  - 1\. un recente controllo dello stato tecnico (cpv. 4),
+  - 2\. l’ultimo esame periodico giusta l’articolo 33 OETV[^24-1] o la legislazione straniera;
+
+- c. ispezione tecnica intesa a rilevare difetti di manutenzione, effettuata su uno, più o tutti i punti di controllo enumerati dall’allegato I numero 10 della direttiva 2000/30/CE[^24-2];
+- d. esame successivo giusta l’articolo 33 capoverso 1bis OETV, se i difetti di manutenzione, in particolare i difetti dei dispositivi di frenatura, possono costituire un rischio per la sicurezza.
+
+<sup>2</sup> I dispositivi di frenatura e le emissioni di gas di scarico devono essere verificati conformemente alle disposizioni dell’allegato II della direttiva 2000/30/CE.
+
+<sup>3</sup> Prima dell’ispezione tecnica giusta il capoverso 1 lettera c devono essere consultati i documenti di cui al capoverso 1 lettera b. Se è dimostrato che sono già stati controllati durante gli ultimi tre mesi, i punti da verificare devono essere controllati soltanto in presenza di difetti manifesti o di incongruenze con i documenti di cui al capoverso 1 lettera b.
+
+<sup>4</sup> Dopo l’ispezione tecnica giusta il capoverso 1 lettere c e d, al conducente è rilasciato un rapporto conformemente all’allegato I della direttiva 2000/30/CE. L’USTRA determina la forma e il contenuto del rapporto.
+
+<sup>5</sup> I controlli su strada dello stato tecnico dei veicoli utilitari sono effettuati senza preavviso.
+
+[^24-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^24-2]: Direttiva 2000/30/CE del Parlamento europeo e del Consiglio, del 6 giu. 2000, relativa ai controlli tecnici su strada dei veicoli commerciali circolanti nella Comunità (GU L 203 del 10.8.2000, pag. 1; modificata l’ultima volta dalla direttiva 2003/26/CE, GU L 90 dell’8.4.2003, pag. 37)
+
+#### Art. 25
+
+**Controllo della manutenzione del sistema antinquinamento**
+
+<sup>1</sup> Basandosi sul documento di manutenzione antinquinamento (art. 35 cpv. 4 OETV[^25-1]), la polizia controlla se il detentore di un veicolo assoggettato all’obbligo di manutenzione di cui all’articolo 59*a* ONC[^25-2] ha effettuato il servizio di manutenzione del sistema antinquinamento.
+
+<sup>2</sup> Nel traffico essa può effettuare controlli successivi dei gas di scarico giusta l’articolo 36 OETV in collaborazione con l’autorità d’immatricolazione.
+
+[^25-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^25-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+
+### Sezione 2: Controllo delle merci pericolose
+
+#### Art. 26
+
+**Controlli stradali**
+
+<sup>1</sup> Il controllo dei trasporti su strada di merci pericolose deve essere effettuato in base alla lista di controllo di cui all’allegato I della direttiva 95/50/CE[^26-1].
+
+<sup>2</sup> Le autorità cantonali provvedono affinché sia sottoposta a controllo una quota rappresentativa dei trasporti su strada di merci pericolose.
+
+<sup>3</sup> Dopo il controllo, al conducente sono consegnati la lista di controllo debitamente compilata o un certificato attestante l’esecuzione del controllo.
+
+<sup>4</sup> Prima di effettuare un controllo devono essere consultata l’eventuale lista di controllo o l’eventuale certificato inerente a un controllo recentemente effettuato. La portata del controllo è eventualmente ridotta di conseguenza.
+
+<sup>5</sup> L’USTRA determina la forma e il contenuto della lista di controllo e del certificato di controllo.
+
+[^26-1]: Direttiva 95/50/CE del Consiglio, del 6 ott. 1995, sull’adozione di procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (GU L 249 del 17.10.1995, pag. 35); modificata l’ultima volta dalla direttiva 2008/54/CE del Parlamento europeo e del Consiglio, del 17 giu. 2008 (GU L 162 del 21.6.2008, pag. 11), (vedi [RU 2009 3139](https://fedlex.data.admin.ch/eli/oc/2009/386)).
+
+#### Art. 27
+
+**Controlli nell’azienda**
+
+<sup>1</sup> Le autorità cantonali eseguono controlli presso le aziende che spediscono, trasportano o ricevono merci pericolose.
+
+<sup>2</sup> Se in occasione di un controllo in un’azienda si rileva un’infrazione alle norme sul trasporto di merci pericolose, il trasporto previsto deve essere reso conforme alle prescrizioni prima che il veicolo lasci l’azienda, o essere sottoposto ad altri provvedimenti idonei.
+
+#### Art. 28
+
+**Disposizioni comuni**
+
+<sup>1</sup> In occasione di controlli su strada o nell’azienda possono essere richiesti campioni di merce o di imballaggi.
+
+<sup>2</sup> Possono essere prelevati campioni dei prodotti trasportati a condizione che ciò non comporti un pericolo per la sicurezza. I campioni sono consegnati per esame a un laboratorio riconosciuto dal Cantone.
+
+<sup>3</sup> Se il prodotto trasportato non è conforme alle prescrizioni, può essere vietata l’esecuzione del trasporto o possono essere sequestrati gli imballaggi.
+
+## Capitolo 4: Provvedimenti
+
+### Sezione 1: Ripristino dello stato conforme alle prescrizioni
+
+#### Art. 29
+
+<sup>1</sup> La polizia vigila affinché, prima di riprendere la corsa, sia ripristinato lo stato conforme alle prescrizioni.
+
+<sup>2</sup> Se il sovraccarico non può essere sanzionato secondo la procedura della multa disciplinare, la polizia deve ordinare il trasbordo o lo scarico del veicolo fino al peso autorizzato e sorvegliare l’operazione.
+
+<sup>3</sup> In caso di inosservanza dell’obbligo di manutenzione del sistema antinquinamento, la polizia ordina che venga effettuato il servizio di manutenzione.
+
+### Sezione 2: Divieto di continuare la corsa e sequestro della licenza
+
+#### Art. 30
+
+**Divieto di continuare la corsa**
+
+La polizia vieta al conducente di continuare la corsa se:
+
+- a. non è titolare della licenza di condurre richiesta o ha guidato nonostante il rifiuto o la revoca della licenza;
+- b. in uno stato che impedisce di guidare con sicurezza, conduce un veicolo per il quale non è richiesta una licenza di condurre;
+- c.[^30-1] presenta una concentrazione di alcol nell’aria espirata pari o superiore a 0,25 mg/l;
+- c<sup>bis</sup>.[^30-2] presenta una concentrazione di alcol nell’aria espirata pari o superiore a 0,05 mg/l ed è soggetto al divieto di guidare sotto l’influsso dell’alcol secondo l’articolo 2*a* capoverso 1 ONC [^30-3];
+- d. non osserva una condizione concernente la vista;
+- e. non osserva la limitazione, iscritta nella licenza di condurre, relativa all’uso di veicoli adattati alla menomazione o alla statura;
+- f. conduce un veicolo che può circolare senza licenza di circolazione e senza targhe giusta l’articolo 72 OAC[^30-4], se è dato uno dei motivi di cui all’articolo 32.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^30-2]: Introdotta dal n. I dell’O del 29 nov. 2013 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^30-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^30-4]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+
+#### Art. 31
+
+**Sequestro della licenza per allievo conducente o della licenza di condurre**
+
+<sup>1</sup>
+
+La polizia sequestra immediatamente la licenza per allievo conducente o la licenza di condurre se il conducente:[^31-1]
+
+- a.[^31-2] appare in evidente stato di ebrietà o presenta una concentrazione di alcol nell’aria espirata pari o superiore a 0,40 mg/l;
+- b. appare manifestamente inabile alla guida per altre ragioni;
+- c. effettua una corsa di scuola guida senza essere accompagnato conformemente alle prescrizioni.
+
+<sup>2</sup>
+
+La licenza per allievo conducente o la licenza di condurre può essere sequestrata se il conducente mette in pericolo la circolazione, in particolare se:
+
+- a. supera la velocità massima consentita di oltre 30 km/h nelle località, di oltre 35 km/h fuori delle località o di oltre 40 km/h sulle autostrade;
+- b. su un’autostrada o una semiautostrada volta il veicolo, oltrepassa lo spartitraffico centrale, circola in senso inverso o in retromarcia;
+- c. esegue un sorpasso su un tratto di strada non sgombro o senza visuale libera;
+- d. violando gravemente le norme della circolazione, provoca un incidente che cagiona la morte o il ferimento di una persona.
+
+<sup>3</sup> Il sequestro della licenza per allievo conducente o della licenza di condurre per una determinata categoria, sottocategoria o categoria speciale comporta il sequestro della licenza per allievo conducente o della licenza di condurre per tutte le categorie, sottocategorie e categorie speciali, fino alla restituzione della licenza o fino a quando l’autorità di revoca ha emanato la sua decisione.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^31-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 32
+
+**Sequestro della licenza di circolazione e delle targhe**
+
+<sup>1</sup>
+
+La polizia sequestra sul posto la licenza di circolazione se:
+
+- a. manca l’assicurazione prescritta per il veicolo;
+- b. all’atto di un controllo del trasporto di merci pericolose su strada, constata che una violazione delle prescrizioni determinanti in materia minaccia direttamente la sicurezza degli altri utenti della strada e che non può essere ripristinato in loco lo stato conforme alle prescrizioni.
+
+<sup>2</sup> La licenza di circolazione può essere sequestrata se il veicolo, considerato lo stato o il carico, costituisce un pericolo per la circolazione o cagiona rumore evitabile oppure se la licenza di circolazione e le targhe sono usate abusivamente.
+
+<sup>3</sup> Il sequestro della licenza di circolazione comporta anche il sequestro delle targhe e il divieto di continuare la corsa. Il veicolo può essere sequestrato e sottoposto a un esame suppletivo.
+
+#### Art. 33
+
+**Procedura**
+
+<sup>1</sup> La polizia deve confermare per scritto il sequestro della licenza per allievo conducente, della licenza di condurre, della licenza di circolazione e il divieto di continuare la corsa indicando le conseguenze giuridiche del provvedimento.
+
+<sup>2</sup> Le licenze per allievo conducente e le licenze di condurre devono essere inviate all’autorità del Cantone di domicilio incaricata delle revoche, le licenze di circolazione e le targhe all’autorità del Cantone di stanza incaricata delle revoche. In entrambi i casi deve essere allegato il rapporto di polizia.
+
+<sup>3</sup> Se i motivi che hanno originato il sequestro della licenza oppure il divieto di continuare la corsa cessano di esistere, la licenza e le targhe devono essere restituite e il veicolo deve essere riconsegnato per l’ulteriore uso.
+
+#### Art. 34
+
+**Veicoli stranieri**
+
+<sup>1</sup> Il sequestro della licenza di circolazione e delle targhe, il divieto di continuare a fare uso del veicolo o il sequestro del veicolo sono ammessi se si tratta di veicoli stranieri che sono manifestamente in uno stato non conforme alle prescrizioni.
+
+<sup>2</sup> Il sequestro della licenza di circolazione straniera e delle targhe straniere è pure ammesso in caso di impiego abusivo delle stesse. È fatto salvo l’articolo 60 numero 4 secondo periodo dell’ordinanza del 20 novembre 1959[^34-1] sull’assicurazione dei veicoli.
+
+<sup>3</sup> Le misure ordinate giusta il capoverso 1 devono essere annullate se il veicolo contestato è rimesso in uno stato conforme alle prescrizioni. Se non può essere ripristinato lo stato conforme alle prescrizioni, l’autorità cantonale annulla la licenza e distrugge o oblitera le targhe. Restituisce le licenze all’autorità d’immatricolazione annunciandole che le targhe sono state distrutte o obliterate. Il detentore può esigere la restituzione delle targhe obliterate o la conferma che sono state distrutte.
+
+[^34-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+
+#### Art. 35
+
+**Diplomatici e persone con statuto analogo**
+
+<sup>1</sup> I conducenti al beneficio di privilegi e di immunità diplomatici o consolari che commettono infrazioni nella circolazione stradale possono essere fermati per l’accertamento dell’identità. Essi devono presentare la carta di legittimazione rilasciata dal Dipartimento federale degli affari esteri.
+
+<sup>2</sup> I documenti di legittimazione come anche le licenze di condurre e di circolazione non possono essere sequestrati.
+
+<sup>3</sup> La polizia vieta al conducente di proseguire la corsa se egli stesso o il veicolo si trovano in uno stato tale da mettere in grave pericolo la circolazione.[^35-1]
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+### Sezione 3: Notifiche degli organi di polizia
+
+#### Art. 36
+
+**Denunce**
+
+La polizia notifica all’autorità competente in materia di circolazione stradale del Cantone di domicilio del contravventore le denunce per infrazioni alle norme della circolazione stradale. Non deve essere fatta nessuna notifica se la denuncia si basa sull’articolo 6 capoverso 4 della legge del 18 marzo 2016[^36-1] sulle multe disciplinari.[^36-2]
+
+[^36-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^36-2]: Nuovo testo del per. giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
+
+#### Art. 37
+
+**Sospetto di inabilità alla guida**
+
+Se la polizia viene a conoscenza di fatti che possono comportare un rifiuto o una revoca della licenza, quali una grave malattia o una tossicomania, li comunica all’autorità competente in materia di circolazione stradale.
+
+#### Art. 38
+
+**Difetti dei veicoli**
+
+La polizia notifica all’autorità di immatricolazione i veicoli che hanno subito danni gravi a seguito di un incidente o che hanno presentato gravi difetti nel corso di un controllo.
+
+#### Art. 39
+
+**Diplomatici e persone con statuto analogo**
+
+La polizia notifica immediatamente al Dipartimento federale degli affari esteri le infrazioni accertate commesse da conducenti al beneficio di privilegi e di immunità diplomatici o consolari. Ciò vale anche se è stata impedita la continuazione della corsa secondo l’articolo 35 capoverso 3. La notifica deve precisare il veicolo e i dati personali del conducente.
+
+## Capitolo 5: Informazioni e notifiche tra la Svizzera e gli Stati membri dell’Unione europea
+
+#### Art. 40
+
+**Trasporto di merci pericolose**
+
+<sup>1</sup> Se un conducente di un veicolo o un’impresa di uno Stato membro dell’Unione europea commette infrazioni gravi o ripetute tali da compromettere la sicurezza del trasporto di merci pericolose, le autorità cantonali notificano tali infrazioni alle autorità competenti dello Stato in cui il veicolo è immatricolato o in cui l’impresa ha sede. Le autorità cantonali possono chiedere allo Stato straniero di prendere i provvedimenti necessari nei confronti dei contravventori o delle imprese interessate.
+
+<sup>2</sup> Se il conducente di un veicolo svizzero o un’impresa svizzera commette infrazioni gravi o ripetute in uno Stato membro dell’Unione europea a seguito delle quali le autorità cantonali effettuano un controllo nelle imprese interessate, tali autorità ne comunicano l’esito allo Stato che ha segnalato i fatti o ha richiesto informazioni.
+
+#### Art. 41
+
+**Periodi di lavoro, di guida e di riposo**
+
+<sup>1</sup> Se un conducente di uno Stato membro dell’Unione europea commette gravi o ripetute infrazioni alle prescrizioni relative ai periodi di lavoro, di guida e di riposo, le autorità cantonali notificano tali infrazioni e le eventuali misure adottate alle autorità competenti dello Stato in cui ha sede l’impresa del conducente. Le autorità cantonali possono chiedere allo Stato straniero di effettuare un controllo nell’impresa interessata e di comunicarne l’esito.
+
+<sup>2</sup> Se conducenti svizzeri commettono in uno Stato membro dell’Unione europea gravi o ripetute infrazioni alle prescrizioni relative ai periodi di lavoro, di guida e di riposo a seguito delle quali le autorità cantonali effettuano un controllo nell’impresa interessata, tali autorità ne comunicano l’esito allo Stato che ha segnalato i fatti o ha richiesto informazioni.
+
+#### Art. 42
+
+**Veicoli utilitari**
+
+<sup>1</sup> Se sono constatati difetti gravi in un veicolo utilitario di uno Stato membro dell’Unione europea, le autorità cantonali lo notificano alle autorità competenti dello Stato in cui il veicolo è immatricolato. Le autorità cantonali possono chiedere allo Stato straniero di adottare le misure opportune e di comunicarne l’esito.
+
+<sup>2</sup> Se in uno Stato membro dell’Unione europea sono constatati difetti gravi in un veicolo utilitario immatricolato in Svizzera, le autorità cantonali comunicano le misure adottate allo Stato che ha segnalato i fatti o ha richiesto informazioni.
+
+#### Art. 43
+
+**Notifiche degli Stati membri dell’Unione europea**
+
+L’USTRA riceve le notifiche degli Stati membri dell’Unione europea sulle infrazioni commesse da veicoli immatricolati in Svizzera o da imprese ivi domiciliate e le trasmette all’autorità cantonale competente.
+
+## Capitolo 6: Notifiche e trattamento dei dati
+
+### Sezione 1: Notifiche dei Cantoni
+
+#### Art. 44
+
+**Notifiche all’USTRA**
+
+<sup>1</sup>
+
+I Cantoni notificano ogni anno all’USTRA:
+
+- a. i dati rilevati durante i controlli delle merci pericolose giusta l’articolo 48 lettera b numero 1;
+- b. i dati rilevati durante i controlli tecnici giusta l’articolo 48 lettera b numero 2;
+- c. i dati rilevati durante i controlli dei periodi di lavoro, di guida e di controllo giusta l’articolo 48 lettera b numero 3;
+- d. il numero delle aziende sottoposte all’OLR 1[^44-1] domiciliate nel Cantone e il numero di quelle controllate;
+- e. le infrazioni alle prescrizioni sui periodi di lavoro, di guida e di riposo commesse da conducenti stranieri in Svizzera e le sanzioni inflitte, nonché le sanzioni per le infrazioni commesse da conducenti svizzeri in uno Stato membro dell’Unione europea.
+
+<sup>2</sup> L’USTRA disciplina la forma delle notifiche e la relativa procedura.
+
+[^44-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+
+#### Art. 45
+
+**Notifiche all’UFT**
+
+<sup>1</sup>
+
+I Cantoni notificano all’UFT:
+
+- a. le infrazioni di cui agli articoli 40–42 e le misure adottate;
+- b. le altre infrazioni gravi e ripetute constatate nel corso dei controlli eseguiti conformemente alla presente ordinanza.
+
+<sup>2</sup> Non devono essere notificate le infrazioni che comportano unicamente una multa disciplinare.
+
+<sup>3</sup> D’intesa con l’UFT, l’USTRA disciplina la forma delle notifiche e la relativa procedura in caso di infrazioni alle disposizioni sul trasporto di persone e l’ammissione come impresa di trasporto stradale.
+
+### Sezione 2: Rapporti dell’USTRA
+
+#### Art. 46
+
+L’USTRA trasmette:
+
+- a.
+
+  alla Commissione europea:
+
+  - 1\. un rapporto annuale sui controlli delle merci pericolose,
+  - 2\. ogni due anni, un rapporto sui controlli relativi ai periodi di lavoro, di guida e di riposo nonché sui controlli tecnici;
+
+- b.[^46-1] al «Forum internazionale dei trasporti» (International Transport Forum, ITF) dell’Organizzazione per la cooperazione e lo sviluppo economico (OCSE), ogni due anni, un rapporto sui controlli relativi ai periodi di lavoro, di guida e di riposo.
+
+[^46-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+
+### Sezione 3: Trattamento dei dati
+
+#### Art. 47
+
+**Banca dati centrale**
+
+<sup>1</sup> In collaborazione con i Cantoni e la Direzione generale delle dogane, l’USTRA gestisce una banca dati centrale.
+
+<sup>2</sup>
+
+La banca dati serve:
+
+- a. ad allestire statistiche sulle attività di controllo svolte conformemente alla presente ordinanza;
+- b.[^47-1] alla stesura del rapporto, destinato alla Commissione europea e all’ITF, concernente le attività di controllo svolte conformemente alla presente ordinanza.
+
+<sup>3</sup> Non possono essere trattati dati (art. 44–46 e 48) relativi a una persona identificata o identificabile.
+
+<sup>4</sup> L’USTRA emana le necessarie istruzioni tecnico-amministrative, segnatamente il regolamento per il trattamento.
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+
+#### Art. 48
+
+**Contenuto della banca dati**
+
+La banca dati contiene:
+
+- a.
+
+  quali dati statistici:
+
+  - 1\. genere del controllo,
+  - 2\. autorità che effettua il controllo,
+  - 3\. luogo di controllo,
+  - 4\. durata del controllo,
+  - 5\. genere e numero dei veicoli controllati nonché numero dei conducenti controllati,
+  - 6\. cittadinanza dei conducenti controllati,
+  - 7\. Stato d’immatricolazione dei veicoli controllati,
+  - 8\. tipo e numero di infrazioni constatate,
+  - 9\. tipo e numero delle misure adottate;
+
+- b.
+
+  quali dati del rapporto:
+
+  - 1\.
+
+    sui controlli delle merci pericolose:
+
+    - – volume rilevato o stimato di trasporti di merci pericolose, in tonnellate o in tonnellate/chilometro,
+    - – numero di controlli effettuati,
+    - – numero di veicoli controllati, suddivisi secondo lo Stato di immatricolazione,
+    - – tipo e numero di infrazioni constatate,
+    - – tipo e numero delle misure adottate;
+
+  - 2\.
+
+    sui controlli tecnici:
+
+    - – numero di veicoli utilitari controllati, suddivisi secondo la categoria dei veicoli e lo Stato d’immatricolazione,
+    - – tipo e numero dei difetti constatati,
+    - – tipo e numero delle misure adottate;
+
+  - 3\.
+
+    sui controlli dei periodi di lavoro, di guida e di riposo:
+
+    - – numero di conducenti controllati durante i controlli su strada, suddivisi secondo la cittadinanza e secondo il trasporto di persone o di merci,
+    - – numero di conducenti controllati durante i controlli aziendali, suddivisi secondo il trasporto di persone o di merci,
+    - – numero dei giorni di lavoro controllati durante i controlli su strada, suddivisi secondo il trasporto di persone o di merci,
+    - – numero dei giorni controllati durante i controlli aziendali, suddivisi secondo il trasporto di persone o di merci,
+    - – numero delle imprese controllate,
+    - – tipo e numero delle infrazioni constatate.
+
+## Capitolo 7: Disposizioni penali e finali
+
+#### Art. 49
+
+**Disposizioni penali**
+
+È punito con la multa chi:
+
+- a. rifiuta di esibire alle autorità d’esecuzione, su richiesta, le licenze, i permessi, i supporti elettronici di dati e altri documenti di controllo necessari per i controlli secondo la presente ordinanza, non fornisce le informazioni necessarie o fornisce intenzionalmente informazioni false in occasione di un controllo;
+- b. rifiuta l’accesso all’azienda alle autorità di controllo in occasione di un controllo aziendale previsto dalla presente ordinanza;
+- c. ostacola intenzionalmente in altro modo o tenta di vanificare le attività di controllo previste dalla presente ordinanza.
+
+#### Art. 50
+
+**Disposizione transitoria**
+
+In deroga all’articolo 20, negli anni 2008 e 2009 devono essere effettuati controlli soltanto nel 2 per cento dei giorni lavorativi annui dei conducenti assoggettati all’OLR 1[^50-1].
+
+[^50-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+
+#### Art. 50a
+
+[^50a-1]
+
+[^50a-1]: Introdotto dal n. I 1 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2) ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Abrogato dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+
+#### Art. 51
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2008.

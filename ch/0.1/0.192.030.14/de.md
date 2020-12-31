@@ -1,0 +1,62 @@
+---
+sr: "0.192.030.14"
+title: Statutarische Resolution (93) 26 des Ministerkomitees des Europarates vom 14. Mai 1993 über den Beobachterstatus
+eli: "https://fedlex.data.admin.ch/eli/cc/1995/5255_5255_5255"
+language: de
+version: 1993-05-14
+adopted: 1993-05-14
+in_force: 1993-05-14
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5255_5255_5255/19930514/de/xml/fedlex-data-admin-ch-eli-cc-1995-5255_5255_5255-19930514-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5255_5255_5255/19930514/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Statutarische Resolution (93) 26 des Ministerkomitees des Europarates über den Beobachterstatus
+
+0.192.030.14 (Stand am 14. Mai 1993)
+
+AS **1995** 5255
+
+Übersetzung*[^t-1]*
+
+(Angenommen vom Ministerkomitee am 14. Mai 1993 an seiner 92. Sitzung)
+
+(Stand am 14. Mai 1993)
+
+[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+
+Das Ministerkomitee,
+
+gestützt auf die Artikel 15*a* und 16 der Satzung[^ingress-1] des Europarates,
+
+In Anbetracht der Vorschläge der Parlamentarischen Versammlung Über institutionelle Reformen im Europarat;
+
+Im Bewusstsein der neuen politischen Lage in Europa und in der Welt;
+
+In der Überzeugung, dass diese Lage eine wachsende Zusammenarbeit zwischen dem Europarat Lind den Nichtmitgliedstaaten nötig macht, die die Ideale und Werte der Organisation teilen;
+
+In Erwägung, dass eine solche Zusammenarbeit einen institutionellen Rahmen bräuchte;
+
+In Erwägung, dass die unten aufgeführten Bestimmungen nicht Unvereinbar sind mit der Satzung des Europarates,
+
+beschliesst folgendes:
+
+I. Das Ministerkomitee kann nach Anhörung der Parlamentarischen Versammlung jedem Staat, der bereit ist, die Grundsätze der Demokratie und des Vorrangs des Rechts anzunehmen und den Grundsatz, wonach für jede Person unter seiner Rechtsprechung die Menschenrechte und die Grundfreiheiten gelten, zu respektieren, und der mit dem Europarat zusammenarbeiten will, den Beobachterstatus bei der Organisation gewähren.
+
+II. Die Staaten mit Beobachterstatus können zu jenen Fachausschüssen des Europarates Beobachter entsenden, die in Anwendung von Artikel 17 der Satzung[^ingress-2] gebildet wurden und für die alle Mitgliedstaaten Teilnehmer bezeichnen können.
+
+III. Die Staaten mit Beobachterstatus können, eine Einladung durch das Gastgeberland vorbehalten, Beobachter an die Konferenzen der Fachminister entsenden.
+
+IV. Die Beschlüsse über die Einladung der Staaten mit Beobachterstatus, sich an den Teilverträgen, den erweiterten Verträgen und den erweiterten Teilverträgen zu beteiligen, werden nach den für die jeweiligen Verträge geltenden Regeln gefasst.
+
+V. Der Beobachterstatus gibt keinen Anspruch auf Vertretung im Ministerkomitee oder in der Parlamentarischen Versammlung, wenn nicht ein besonderer Beschluss eines dieser Organe, soweit es betroffen ist, vorliegt.
+
+VI. Die Staaten mit Beobachterstatus können einen ständigen Beobachter beim Europarat ernennen.
+
+VII. Das Ministerkomitee kann nach Anhörung der Parlamentarischen Versammlung, einer intergouvernementalen internationalen Organisation, die eng mit dem Europarat zusammenarbeiten will und die als fähig betrachtet wird, einen wesentlichen Beitrag zu seinen Arbeiten zu leisten, den Beobachterstatus gewähren. Dazu gehören auch die Rechte, die in den Artikeln II, III und IV den Staaten mit Beobachterstatus zugesprochen werden.
+
+VIII. Das Ministerkomitee kann den Beobachterstatus aussetzen und nach Anhörung der Parlamentarischen Versammlung entziehen.
+
+[^ingress-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^ingress-2]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)

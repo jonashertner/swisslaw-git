@@ -1,0 +1,372 @@
+---
+sr: "0.172.030.4"
+title: Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung (mit Anlage und Verzeichnissen)
+eli: "https://fedlex.data.admin.ch/eli/cc/1973/348_347_349"
+language: de
+version: 2019-03-31
+adopted: 1961-10-05
+in_force: 1973-03-11
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20190331/de/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20190331-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20190331/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung
+
+AS **1973** 348; BBl **1971** II 405
+
+Übersetzung
+
+Abgeschlossen in Den Haag am 5. Oktober 1961 Von der Bundesversammlung genehmigt am 27. April 1972[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 10. Januar 1973 In Kraft getreten für die Schweiz am 11. März 1973
+
+(Stand am 31. März 2019)
+
+[^t-1]: Art. 1 Abs. 1 des BB vom 27. April 1972 ([AS 1973 347](https://fedlex.data.admin.ch/eli/oc/1973/347_346_348))
+
+Die Unterzeichnerstaaten dieses Übereinkommens,
+
+vom Wunsche geleitet, ausländische öffentliche Urkunden von der diplomatischen oder konsularischen Beglaubigung zu befreien,
+
+haben beschlossen, zu diesem Zweck ein Übereinkommen zu schliessen, und haben die folgenden Bestimmungen vereinbart:
+
+#### Art. 1
+
+Dieses Übereinkommen ist auf öffentliche Urkunden anzuwenden, die in dem Hoheitsgebiet eines Vertragsstaates errichtet wurden und die in dem Hoheitsgebiet eines anderen Vertragsstaates vorgelegt werden sollen.
+
+Als öffentliche Urkunden im Sinne dieses Übereinkommens gelten:
+
+- a) Urkunden einer an der staatlichen Rechtspflege beteiligten Behörde oder Amtsperson, einschliesslich der Urkunden, die von der Staatsanwaltschaft, einem Gerichtsschreiber oder einem Gerichtsbeamten ausgestellt sind;
+- b) Urkunden der Verwaltungsbehörden;
+- c) notarielle Urkunden;
+- d) amtliche Bescheinigungen, die auf Privaturkunden angebracht sind, wie Eintragungsvermerke, Sichtvermerke zur Feststellung eines bestimmten Zeitpunktes und Beglaubigungen von Unterschriften.
+
+Dieses Übereinkommen ist jedoch nicht anzuwenden:
+
+- a) auf Urkunden, die von diplomatischen oder konsularischen Vertretern errichtet sind;
+- b) auf Urkunden der Verwaltungsbehörden, die sich unmittelbar auf den Handelsverkehr oder auf das Zollverfahren beziehen.
+
+#### Art. 2
+
+Jeder Vertragsstaat befreit die Urkunden, auf die dieses Übereinkommen anzuwenden ist und die in seinem Hoheitsgebiet vorgelegt werden sollen, von der Beglaubigung. Unter der Beglaubigung im Sinne dieses Übereinkommens ist nur die Formalität zu verstehen, durch welche die diplomatischen oder konsularischen Vertreter des Landes, in dessen Hoheitsgebiet die Urkunde vorgelegt werden soll, die Echtheit der Unterschrift, die Eigenschaft, in welcher der Unterzeichner der Urkunde gehandelt hat, und gegebenenfalls die Echtheit des Siegels oder Stempels, mit dem die Urkunde versehen ist, bestätigen.
+
+#### Art. 3
+
+Die einzige Formalität, die zur Bestätigung der Echtheit der Unterschrift, der Eigenschaft, in welcher der Unterzeichner der Urkunde gehandelt hat, und gegebenenfalls der Echtheit des Siegels oder Stempels, mit dem die Urkunde versehen ist, verlangt werden darf, ist die gemäss Artikel 4 angebrachte Apostille, welche durch die zuständige Behörde des Staates ausgestellt wird, in dem die Urkunde errichtet wurde.
+
+Die im vorstehenden Absatz erwähnte Formalität darf jedoch nicht verlangt werden, wenn entweder die Gesetze, Verordnungen oder Gebräuche des Staates, in dem die Urkunde vorgelegt wird, oder eine Vereinbarung zwischen zwei oder mehreren Vertragsstaaten sie ausschliessen, sie vereinfachen oder die Urkunde von der Beglaubigung befreien.
+
+#### Art. 4
+
+Die in Artikel 3 Absatz 1 vorgesehene Apostille wird auf der Urkunde selbst oder einem Anhang angebracht; sie muss dem Muster entsprechen, das diesem Übereinkommen als Anlage beigefügt ist.
+
+Die Apostille kann jedoch in der Amtssprache der Behörde, die sie ausstellt, abgefasst werden. Der vorgedruckte Text des Musters kann auch in einer zweiten Sprache wiedergegeben werden. Die Überschrift «Apostille (Convention de La Haye du 5 octobre 1961)» muss in französischer Sprache abgefasst sein.
+
+#### Art. 5
+
+Die Apostille wird auf Antrag des Unterzeichners oder des jeweiligen Inhabers der Urkunde ausgestellt.
+
+Ist die Apostille ordnungsgemäss ausgefüllt, so bestätigt sie die Echtheit der Unterschrift, die Eigenschaft, in welcher der Unterzeichner der Urkunde gehandelt hat, und gegebenenfalls die Echtheit des Siegels oder Stempels, mit dem die Urkunde versehen ist.
+
+Die Unterschrift und das Siegel oder der Stempel auf der Apostille bedürfen keiner Bestätigung.
+
+#### Art. 6
+
+Jeder Vertragsstaat bestimmt die Behörden, die zuständig sind, die Apostille nach Artikel 3 Absatz 1 auszustellen.
+
+Er notifiziert diese Bestimmung dem Ministerium für auswärtige Angelegenheiten der Niederlande anlässlich der Hinterlegung seiner Ratifikations‑ oder Beitrittsurkunde oder seiner Erklärung über die Ausdehnung des Übereinkommens. Er notifiziert ihm auch jede Änderung, die in der Bestimmung dieser Behörden eintritt.
+
+#### Art. 7
+
+Auf Antrag eines Beteiligten hat die Behörde, welche die Apostille ausgestellt hat, festzustellen, ob die Angaben, die in der Apostille enthalten sind, mit denen des Registers oder der Kartei übereinstimmen.
+
+Jede nach Artikel 6 bestimmte Behörde hat ein Register oder eine Kartei zu führen, worin die Ausstellung der Apostillen eingetragen wird; dabei sind zu vermerken:
+
+- a) die Ordnungsnummer und das Ausstellungsdatum der Apostille;
+- b) der Name des Unterzeichners der öffentlichen Urkunde und die Eigenschaft, in der er gehandelt hat, oder bei Urkunden ohne Unterschrift die Behörde, die das Siegel oder den Stempel beigefügt hat.
+
+#### Art. 8
+
+Besteht zwischen zwei oder mehreren Vertragsstaaten ein Vertrag, ein Übereinkommen oder eine Vereinbarung des Inhalts, dass die Bestätigung der Unterschrift, des Siegels oder des Stempels gewissen Formalitäten unterworfen ist, so greift dieses Übereinkommen nur ändernd ein, wenn jene Formalitäten strenger sind als die in den Artikeln 3 und 4 vorgesehenen.
+
+#### Art. 9
+
+Jeder Vertragsstaat trifft die notwendigen Massnahmen, um zu vermeiden, dass seine diplomatischen oder konsularischen Vertreter Beglaubigungen in Fällen vornehmen, in denen dieses Übereinkommen von der Beglaubigung befreit.
+
+#### Art. 10
+
+Dieses Übereinkommen steht den Staaten, die auf der Neunten Tagung der Haager Konferenz für internationales Privatrecht vertreten waren, sowie Irland, Island, Liechtenstein und der Türkei zur Unterzeichnung offen.
+
+Es bedarf der Ratifizierung, und die Ratifikationsurkunden sind beim Ministerium für auswärtige Angelegenheiten der Niederlande zu hinterlegen.
+
+#### Art. 11
+
+Dieses Übereinkommen tritt am sechzigsten Tage nach der in Artikel 10 Absatz 2 vorgesehenen Hinterlegung der dritten Ratifikationsurkunde in Kraft.
+
+Das Übereinkommen tritt für jeden Unterzeichnerstaat, der es später ratifiziert, am sechzigsten Tage nach Hinterlegung seiner Ratifikationsurkunde in Kraft.
+
+#### Art. 12
+
+Jeder in Artikel 10 nicht genannte Staat kann diesem Übereinkommen beitreten, nachdem es gemäss Artikel 11 Absatz 1 in Kraft getreten ist. Die Beitrittsurkunde ist beim Ministerium für auswärtige Angelegenheiten der Niederlande zu hinterlegen.
+
+Der Beitritt wirkt nur im Verhältnis zwischen dem beitretenden Staat und den Vertragsstaaten, die innerhalb von sechs Monaten nach Empfang der Notifikation gemäss Artikel 15 Buchstabe d) keinen Einspruch dagegen erhoben haben. Ein solcher Einspruch ist dem Ministerium für auswärtige Angelegenheiten der Niederlande zu notifizieren.
+
+Das Übereinkommen tritt zwischen dem beitretenden Staat und den Staaten, die gegen den Beitritt keinen Einspruch erhoben haben, am sechzigsten Tage nach Ablauf der im vorstehenden Absatz vorgesehenen Frist von sechs Monaten in Kraft.
+
+#### Art. 13
+
+Jeder Staat kann bei der Unterzeichnung, bei der Ratifizierung oder beim Beitritt erklären, dass dieses Übereinkommen auf alle oder auf eines oder mehrere der Gebiete ausgedehnt wird, deren internationale Beziehungen er wahrnimmt. Eine solche Erklärung wird wirksam, sobald das Übereinkommen für den Staat, der sie abgegeben hat, in Kraft tritt.
+
+Später kann dieses Übereinkommen auf solche Gebiete durch eine an das Ministerium für auswärtige Angelegenheiten der Niederlande gerichtete Notifikation ausgedehnt werden.
+
+Wird die Erklärung über die Ausdehnung durch einen Staat abgegeben, der das Übereinkommen unterzeichnet und ratifiziert hat, so tritt das Übereinkommen für die in Betracht kommenden Gebiete gemäss Artikel 11 in Kraft. Wird die Erklärung über die Ausdehnung durch einen Staat abgegeben, der dem Übereinkommen beigetreten ist, so tritt das Übereinkommen für die in Betracht kommenden Gebiete gemäss Artikel 12 in Kraft.
+
+#### Art. 14
+
+Dieses Übereinkommen gilt für die Dauer von fünf Jahren, gerechnet von seinem Inkrafttreten gemäss Artikel 11 Absatz 1, und zwar auch für Staaten, die es später ratifizieren oder ihm später beitreten.
+
+Ausser im Falle einer Kündigung gilt das Übereinkommen als stillschweigend um jeweils fünf Jahre erneuert.
+
+Die Kündigung ist spätestens sechs Monate vor Ablauf der Frist von fünf Jahren dem Ministerium für auswärtige Angelegenheiten der Niederlande zu notifizieren.
+
+Sie kann sich auf einzelne der Gebiete, auf die das Übereinkommen anzuwenden ist, beschränken.
+
+Die Kündigung ist nur für den Staat wirksam, der sie notifiziert hat. Für die anderen Vertragsstaaten bleibt das Übereinkommen in Kraft.
+
+#### Art. 15
+
+Das Ministerium für auswärtige Angelegenheiten der Niederlande notifiziert den in Artikel 10 bezeichneten Staaten sowie den Staaten, die gemäss Artikel 12 beigetreten sind:
+
+- a) die Notifikationen gemäss Artikel 6 Absatz 2;
+- b) die Unterzeichnungen und Ratifikationen gemäss Artikel 10;
+- c) den Tag, an dem dieses Übereinkommen gemäss Artikel 11 Absatz 1 in Kraft tritt;
+- d) die Beitrittserklärungen und Einsprüche gemäss Artikel 12 sowie den Tag, an dem die Beitrittserklärungen wirksam werden;
+- e) die Erklärungen über die Ausdehnung gemäss Artikel 13 sowie den Tag, an dem sie wirksam werden;
+- f) die Kündigungen gemäss Artikel 14 Absatz 3.
+
+*Zu Urkund dessen* haben die hierzu gehörig ermächtigten Unterzeichneten dieses Übereinkommen unterzeichnet. Geschehen in Den Haag am 5. Oktober 1961 in französischer und englischer Sprache, wobei im Falle von Abweichungen der französische Wortlaut massgebend ist, in einer einzigen Ausfertigung, die im Archiv der Regierung der Niederlande hinterlegt wird und wovon jedem der Staaten, welche auf der Neunten Tagung der Haager Konferenz für internationales Privatrecht vertreten waren, sowie Irland, Island, Liechtenstein und der Türkei auf diplomatischem Wege eine beglaubigte Abschrift übergeben wird. (Es folgen die Unterschriften)
+
+Anlage
+
+## Muster der Apostille
+
+Die Apostille soll die Form eines Quadrats mit Seiten von mindestens 9 Zentimetern haben.
+
+<table>
+<tr><td colspan="3">Apostille (Convention de La Haye du 5 octobre 1961)</td></tr>
+<tr><td>[tab] 1.</td><td colspan="2">Land:</td></tr>
+<tr><td>[tab]</td><td colspan="2">Diese öffentliche Urkunde</td></tr>
+<tr><td>[tab] 2.</td><td colspan="2">ist unterschrieben von</td></tr>
+<tr><td>[tab] 3.</td><td colspan="2">in seiner Eigenschaft als</td></tr>
+<tr><td>[tab] 4.</td><td colspan="2">sie ist versehen mit dem Siegel/Stempel des (der)</td></tr>
+<tr><td>[tab]</td><td colspan="2"></td></tr>
+<tr><td colspan="3">Bestätigt</td></tr>
+<tr><td>[tab] 5.</td><td>in</td><td>6. am</td></tr>
+<tr><td>[tab] 7.</td><td colspan="2">durch</td></tr>
+<tr><td>[tab] 8.</td><td>unter Nr.</td><td></td></tr>
+<tr><td>[tab] 9.</td><td>Siegel/Stempel:</td><td>10. Unterschrift:</td></tr>
+</table>
+
+## Verzeichnis der nach dem Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung für die Ausstellung der Apostille zuständigen schweizerischen Behörden
+
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [AS 2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205)
+
+### A. Behörde der Eidgenossenschaft:
+
+Die Bundeskanzlei
+
+Legalisationen
+
+Gurtengasse 5
+
+3003 Bern
+
+Tel. +41 58 462 37 69
+
+Fax +41 58 463 19 16
+
+### B. Kantonale Behörden:
+
+www.bk.admin.ch/bk/de/home/service/legalisationen.html
+
+## Übersicht über die ausländischen Behörden, die in den einzelnen Vertragsstaaten zuständig sind, die Apostille nach Artikel 3 Absatz 1 des Übereinkommens auszustellen****
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: Die Übersicht über die ausländischen Behörden wird weder in der AS noch der SR veröffentlicht (s. [AS 2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657)). Die französische und englische Übersicht kann auf der Internetseite der Haager Konferenz: http://hcch.e-vision.nl/index\_fr.php?act=conventions.authorities&cid=41 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.
+
+Geltungsbereich am 31. März 2019**[^t-2]**
+
+<table>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien <sup>a</sup></td><td>3. September</td><td>2003 B</td><td>9. Mai</td><td>2004</td></tr>
+<tr><td>Andorra</td><td>15. April</td><td>1996 B</td><td>31. Dezember</td><td>1996</td></tr>
+<tr><td>Antigua und Barbuda</td><td>17. Mai</td><td>1985 N</td><td>1. November</td><td>1981</td></tr>
+<tr><td>Argentinien\*</td><td>8. Mai</td><td>1987 B</td><td>18. Februar</td><td>1988</td></tr>
+<tr><td>Armenien</td><td>19. November</td><td>1993 B</td><td>14. August</td><td>1994</td></tr>
+<tr><td>Aserbaidschan <sup>b</sup></td><td>13. Mai</td><td>2004 B</td><td>2. März</td><td>2005</td></tr>
+<tr><td>Australien\*</td><td>11. Juli</td><td>1994 B</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Bahamas</td><td>10. Mai</td><td>1976 N</td><td>10. Juli</td><td>1973</td></tr>
+<tr><td>Bahrain\*</td><td>10. April</td><td>2013 B</td><td>31. Dezember</td><td>2013</td></tr>
+<tr><td>Barbados</td><td>30. August</td><td>1995 N</td><td>30. November</td><td>1966</td></tr>
+<tr><td>Belarus</td><td>16. Juni</td><td>1992 N</td><td>31. Mai</td><td>1992</td></tr>
+<tr><td>Belgien</td><td>11. Dezember</td><td>1975</td><td>9. Februar</td><td>1976</td></tr>
+<tr><td>Belize</td><td>17. Juli</td><td>1992 B</td><td>11. April</td><td>1993</td></tr>
+<tr><td>Bolivien</td><td>6. September</td><td>2017 B</td><td>7. Mai</td><td>2018</td></tr>
+<tr><td>Bosnien und Herzegowina\*</td><td>1. Oktober</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
+<tr><td>Botsuana</td><td>16. September</td><td>1968 N</td><td>30. September</td><td>1966</td></tr>
+<tr><td>Brasilien\*</td><td>2. Dezember</td><td>2015 B</td><td>14. August</td><td>2016</td></tr>
+<tr><td>Brunei</td><td>23. Februar</td><td>1987 B</td><td>3. Dezember</td><td>1987</td></tr>
+<tr><td>Bulgarien</td><td>1. August</td><td>2000 B</td><td>29. April</td><td>2001</td></tr>
+<tr><td>Burundi <sup>c</sup></td><td>10. Juni</td><td>2014 B</td><td>13. Februar</td><td>2015</td></tr>
+<tr><td>Chile</td><td>16. Dezember</td><td>2015 B</td><td>30. August</td><td>2016</td></tr>
+<tr><td>China\*</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hongkong <sup>d</sup> \*</td><td>12. Juni</td><td>1985</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Macau <sup>e</sup></td><td>10. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
+<tr><td>Cook-Inseln</td><td>13. Juli</td><td>2004 B</td><td>30. April</td><td>2005</td></tr>
+<tr><td>Costa Rica</td><td>6. April</td><td>2011 B</td><td>14. Dezember</td><td>2011</td></tr>
+<tr><td>Dänemark <sup>f</sup></td><td>30. Oktober</td><td>2006</td><td>29. Dezember</td><td>2006</td></tr>
+<tr><td>Deutschland\*</td><td>15. Dezember</td><td>1965</td><td>13. Februar</td><td>1966</td></tr>
+<tr><td>Dominica</td><td>22. Oktober</td><td>2002 N</td><td>3. November</td><td>1978</td></tr>
+<tr><td>Dominikanische Republik <sup>g</sup></td><td>12. Dezember</td><td>2008 B</td><td>30. August</td><td>2009</td></tr>
+<tr><td>Ecuador\*</td><td>2. Juli</td><td>2004 B</td><td>2. April</td><td>2005</td></tr>
+<tr><td>El Salvador</td><td>14. September</td><td>1995 B</td><td>31. Mai</td><td>1996</td></tr>
+<tr><td>Estland</td><td>11. Dezember</td><td>2000 B</td><td>30. September</td><td>2001</td></tr>
+<tr><td>Eswatini</td><td>17. Juli</td><td>1978 N</td><td>6. September</td><td>1968</td></tr>
+<tr><td>Fidschi</td><td>29. März</td><td>1971 N</td><td>10. Oktober</td><td>1970</td></tr>
+<tr><td>Finnland\*</td><td>27. Juni</td><td>1985</td><td>26. August</td><td>1985</td></tr>
+<tr><td>Frankreich\*</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Französische Süd- und Antarktisgebiete</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Französisch Guyana</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Französisch Polynesien</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Guadeloupe</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Komoren <sup>h</sup></td><td>25. November</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Martinique</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Mayotte</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Neukaledonien</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Réunion</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Saint-Barthélemy</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Saint-Martin</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>St. Pierre und Miquelon</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Territorium Französische Somaliküste (auch Französisches Afar- und Issa-Territorium oder Dschibuti) <sup>h</sup></td><td>25. November</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Wallis und Futuna</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Georgien\*</td><td>21. August</td><td>2006 B</td><td>14. Mai</td><td>2007</td></tr>
+<tr><td>Grenada</td><td>17. Juli</td><td>2001 B</td><td>7. April</td><td>2002</td></tr>
+<tr><td>Griechenland</td><td>19. März</td><td>1985</td><td>18. Mai</td><td>1985</td></tr>
+<tr><td>Guatemala\*</td><td>19. Januar</td><td>2017 B</td><td>18. September</td><td>2017</td></tr>
+<tr><td>Honduras</td><td>20. Januar</td><td>2004 B</td><td>30. September</td><td>2004</td></tr>
+<tr><td>Indien <sup>i</sup></td><td>26. Oktober</td><td>2004 B</td><td>14. Juli</td><td>2005</td></tr>
+<tr><td>Irland</td><td>8. Januar</td><td>1999</td><td>9. März</td><td>1999</td></tr>
+<tr><td>Island</td><td>28. September</td><td>2004</td><td>27. November</td><td>2004</td></tr>
+<tr><td>Israel</td><td>11. November</td><td>1977 B</td><td>14. August</td><td>1978</td></tr>
+<tr><td>Italien</td><td>13. Dezember</td><td>1977</td><td>11. Februar</td><td>1978</td></tr>
+<tr><td>Japan</td><td>28. Mai</td><td>1970</td><td>27. Juli</td><td>1970</td></tr>
+<tr><td>Kap Verde</td><td>7. Mai</td><td>2009 B</td><td>13. Februar</td><td>2010</td></tr>
+<tr><td>Kasachstan\*</td><td>5. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
+<tr><td>Kirgisistan <sup>j</sup></td><td>15. November</td><td>2010 B</td><td>31. Juli</td><td>2011</td></tr>
+<tr><td>Kolumbien\*</td><td>27. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
+<tr><td>Korea (Süd-)</td><td>25. Oktober</td><td>2006 B</td><td>14. Juli</td><td>2007</td></tr>
+<tr><td>Kosovo\* <sup>k</sup></td><td>6. November</td><td>2015 B</td><td>14. Juli</td><td>2016</td></tr>
+<tr><td>Kroatien</td><td>23. April</td><td>1993 N</td><td>7. Oktober</td><td>1991</td></tr>
+<tr><td>Lesotho</td><td>24. April</td><td>1972 N</td><td>4. Oktober</td><td>1966</td></tr>
+<tr><td>Lettland</td><td>11. Mai</td><td>1995 B</td><td>30. Januar</td><td>1996</td></tr>
+<tr><td>Liberia <sup>l</sup></td><td>24. Mai</td><td>1995 B</td><td>8. Februar</td><td>1996</td></tr>
+<tr><td>Liechtenstein</td><td>19. Juli</td><td>1972</td><td>17. September</td><td>1972</td></tr>
+<tr><td>Litauen</td><td>5. November</td><td>1996 B</td><td>19. Juli</td><td>1997</td></tr>
+<tr><td>Luxemburg</td><td>4. April</td><td>1979</td><td>3. Juni</td><td>1979</td></tr>
+<tr><td>Malawi</td><td>24. Februar</td><td>1967 B</td><td>2. Dezember</td><td>1967</td></tr>
+<tr><td>Malta</td><td>12. Juni</td><td>1967 B</td><td>3. März</td><td>1968</td></tr>
+<tr><td>Marshallinseln</td><td>18. November</td><td>1991 B</td><td>14. August</td><td>1992</td></tr>
+<tr><td>Marokko <sup>m</sup></td><td>27. November</td><td>2015 B</td><td>14. August</td><td>2016</td></tr>
+<tr><td>Mauritius</td><td>20. Dezember</td><td>1968 N</td><td>12. März</td><td>1968</td></tr>
+<tr><td>Mexiko</td><td>1. Dezember</td><td>1994 B</td><td>14. August</td><td>1995</td></tr>
+<tr><td>Moldau <sup>n</sup></td><td>19. Juni</td><td>2006 B</td><td>16. März</td><td>2007</td></tr>
+<tr><td>Monaco</td><td>24. April</td><td>2002 B</td><td>1. November</td><td>2002</td></tr>
+<tr><td>Mongolei <sup>o</sup></td><td>2. April</td><td>2009 B</td><td>31. Dezember</td><td>2009</td></tr>
+<tr><td>Montenegro</td><td>30. Januar</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Namibia</td><td>25. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
+<tr><td>Neuseeland\*</td><td>7. Februar</td><td>2001 B</td><td>22. November</td><td>2001</td></tr>
+<tr><td>Nicaragua</td><td>7. September</td><td>2012 B</td><td>14. Mai</td><td>2013</td></tr>
+<tr><td>Niederlande</td><td>9. August</td><td>1965</td><td>8. Oktober</td><td>1965</td></tr>
+<tr><td>Aruba</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Curaçao</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Sint Maarten</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Niue</td><td>10. Juni</td><td>1998 B</td><td>2. März</td><td>1999</td></tr>
+<tr><td>Nordmazedonien</td><td>23. September</td><td>1993 N</td><td>17. September</td><td>1991</td></tr>
+<tr><td>Norwegen</td><td>30. Mai</td><td>1983</td><td>29. Juli</td><td>1983</td></tr>
+<tr><td>Oman</td><td>12. Mai</td><td>2011 B</td><td>30. Januar</td><td>2012</td></tr>
+<tr><td>Österreich\*</td><td>14. November</td><td>1967</td><td>13. Januar</td><td>1968</td></tr>
+<tr><td>Panama</td><td>30. Oktober</td><td>1990 B</td><td>4. August</td><td>1991</td></tr>
+<tr><td>Paraguay <sup>p</sup></td><td>10. Dezember</td><td>2013 B</td><td>30. August</td><td>2014</td></tr>
+<tr><td>Peru <sup>q</sup></td><td>13. Januar</td><td>2010 B</td><td>30. September</td><td>2010</td></tr>
+<tr><td>Philippinen\* <sup>r</sup></td><td>12. September</td><td>2018 B</td><td>14. Mai</td><td>2019</td></tr>
+<tr><td>Polen</td><td>17. November</td><td>2004 B</td><td>14. August</td><td>2005</td></tr>
+<tr><td>Portugal\*</td><td>6. Dezember</td><td>1968</td><td>4. Februar</td><td>1969</td></tr>
+<tr><td>Rumänien\*</td><td>7. Juni</td><td>2000 B</td><td>16. März</td><td>2001</td></tr>
+<tr><td>Russland\*</td><td>4. September</td><td>1991 B</td><td>31. Mai</td><td>1992</td></tr>
+<tr><td>Samoa</td><td>18. Januar</td><td>1999 B</td><td>13. September</td><td>1999</td></tr>
+<tr><td>San Marino</td><td>26. Mai</td><td>1994 B</td><td>13. Februar</td><td>1995</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>19. Dezember</td><td>2007 B</td><td>13. September</td><td>2008</td></tr>
+<tr><td>Schweden</td><td>2. März</td><td>1999</td><td>1. Mai</td><td>1999</td></tr>
+<tr><td>Schweiz\*</td><td>10. Januar</td><td>1973</td><td>11. März</td><td>1973</td></tr>
+<tr><td>Serbien\*</td><td>26. April</td><td>2001 N</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Seychellen</td><td>9. Juni</td><td>1978 B</td><td>31. März</td><td>1979</td></tr>
+<tr><td>Slowakei</td><td>6. Juni</td><td>2001 B</td><td>18. Februar</td><td>2002</td></tr>
+<tr><td>Slowenien</td><td>8. Juni</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
+<tr><td>Spanien\*</td><td>27. Juli</td><td>1978</td><td>25. September</td><td>1978</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>26. Februar</td><td>1994 B</td><td>14. Dezember</td><td>1994</td></tr>
+<tr><td>St. Lucia</td><td>5. Dezember</td><td>2001 B</td><td>7. April</td><td>2002</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>2. Mai</td><td>2002 N</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Südafrika</td><td>3. August</td><td>1994 B</td><td>30. April</td><td>1995</td></tr>
+<tr><td>Suriname</td><td>11. November</td><td>1976 N</td><td>25. November</td><td>1975</td></tr>
+<tr><td>Tadschikistan <sup>s</sup></td><td>20. Februar</td><td>2015 B</td><td>31. Oktober</td><td>2015</td></tr>
+<tr><td>Tonga\*</td><td>28. Oktober</td><td>1971 N</td><td>4. Juni</td><td>1970</td></tr>
+<tr><td>Trinidad und Tobago</td><td>28. Oktober</td><td>1999 B</td><td>14. Juli</td><td>2000</td></tr>
+<tr><td>Tschechische Republik</td><td>23. Juni</td><td>1998 B</td><td>16. März</td><td>1999</td></tr>
+<tr><td>Tunesien <sup>t</sup></td><td>10. Juli</td><td>2017 B</td><td>30. März</td><td>2018</td></tr>
+<tr><td>Türkei</td><td>31. Juli</td><td>1985</td><td>29. September</td><td>1985</td></tr>
+<tr><td>Ukraine\*</td><td>2. April</td><td>2003 B</td><td>22. Dezember</td><td>2003</td></tr>
+<tr><td>Ungarn\*</td><td>18. April</td><td>1972 B</td><td>18. Januar</td><td>1973</td></tr>
+<tr><td>Uruguay</td><td>9. Februar</td><td>2012 B</td><td>14. Oktober</td><td>2012</td></tr>
+<tr><td>Usbekistan <sup>u</sup></td><td>25. Juli</td><td>2011 B</td><td>15. April</td><td>2012</td></tr>
+<tr><td>Vanuatu</td><td>1. August</td><td>2008 N</td><td>30. Juli</td><td>1980</td></tr>
+<tr><td>Venezuela</td><td>1. Juli</td><td>1998 B</td><td>16. März</td><td>1999</td></tr>
+<tr><td>Vereinigte Staaten\*</td><td>24. Dezember</td><td>1980 B</td><td>15. Oktober</td><td>1981</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>21. August</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Anguilla</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Bermudas</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Britische Jungferninseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Britische Salomon-Inseln <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Britisches Antarktis-Territorium</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Britisch-Guayana <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Falklandinseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Gibraltar <sup>v</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Gilbert- und Ellice-Inseln <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Guernsey</td><td>21. August</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Insel Man</td><td>21. August</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Jersey</td><td>21. August</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Kaimaninseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Montserrat</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Süd-Rhodesien <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Turks- und Caicosinseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Zypern</td><td>26. Juli</td><td>1972 B</td><td>30. April</td><td>1973</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/de/instruments/conventions/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Der Beitritt Albaniens wurde durch Griechenland nicht angenommen. <sup>b</sup> Der Beitritt Aserbaidschans wurde durch Deutschland nicht angenommen. <sup>c</sup> Der Beitritt Burundis wurde durch Deutschland, Österreich, Polen und Tschechische Republik nicht angenommen.</td></tr>
+<tr><td colspan="5"><sup>d</sup> Vom 25. April 1965 bis zum 30. Juni 1997 war das Übereinkommen aufgrund einer Ausdehnungserklärung Grossbritanniens in Hong Kong anwendbar. Seit dem 1. Juli 1997 bildet Hong Kong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 12. Juni 1985 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>e</sup> Vom 4. Februar 1969 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><td colspan="5"><sup>f</sup> Das Übereinkommen gilt nicht für die Färöer-Insel und Grönland. <sup>g</sup> Der Beitritt der Dominikanischen Republik wurde durch Deutschland und Österreich nicht angenommen. <sup>h</sup> Dieses Land ist unabhängig geworden. Es wurde keine Erklärung zu der Frage abgegeben, ob das Übereinkommen auch weiterhin in Kraft bleibt. Datum der Unabhängigkeitserklärung: Frankreich-Komoren wurde zur Komoren (6. Juli 1975); Frankreich-Territorium Französische Somaliküste (auch Französisches Afar- und Issa-Territorium oder Dschibuti) wurde zu Dschibuti (27. Juni 1977); Britisch-Guyana wurde zur Republik Guyana (26. Mai 1966); die britischen Salomon-Inseln wurden zu den Salomon-Inseln (7. Juli 1978); die Gilbert- und Ellice- Inseln wurden zur Republik Kiribati (12. Juli 1979) beziehungsweise zu Tuvalu (1. Oktober 1978); Süd-Rhodesien wurde zur Republik Zimbabwe (18. April 1980).</td></tr>
+<tr><td colspan="5"><sup>i</sup> Der Beitritt Indiens wurde durch Deutschland nicht angenommen. <sup>j</sup> Der Beitritt Kirgisistans wurde durch Belgien, Deutschland, Österreich und Griechenland nicht angenommen. <sup>k</sup> Der Beitritt Kosovos wurde durch Deutschland, Argentinien, Armenien, Österreich, Aserbaidschan, Belarus, Brasilien, Chile, China (Hong Kong und Macao), Zypern, Georgien, Griechenland, Indien, Israel, Mauritius, Mexiko, Moldau, Namibia, Nicaragua, Usbekistan, Paraguay, Peru, Polen, Rumänien, Serbien, Slowakei, Ukraine, Venezuela und Vereinigte Staaten nicht angenommen. <sup>l</sup> Der Beitritt Liberias wurde durch Belgien und Deutschland nicht angenommen. <sup>m</sup> Der Beitritt Marokkos wurde durch Deutschland nicht angenommen. <sup>n</sup> Der Beitritt Moldaus wurde durch Deutschland nicht angenommen. <sup>o</sup> Der Beitritt der Mongolei wurde durch Österreich, Belgien, Deutschland, Finnland und Griechenland nicht angenommen. <sup>p</sup> Der Beitritt Paraguays wurde durch Deutschland nicht angenommen. <sup>q</sup> Der Beitritt Perus wurde durch Griechenland nicht angenommen. <sup>r</sup> Der Beitritt der Philippinen wurde durch Österreich, Deutschland, Finnland und Griechenland nicht angenommen. <sup>s</sup> Der Beitritt Tadschikistans wurde durch Österreich, Belgien und Deutschland nicht angenommen. <sup>t</sup> Der Beitritt Tunesiens wurde durch Belgien, Deutschland, Griechenland und Österreich nicht angenommen. <sup>u</sup> Der Beitritt Usbekistans wurde durch Belgien, Deutschland, Österreich und Griechenland nicht angenommen. <sup>v</sup> Der Beitritt Gibraltars wurde durch Spanien nicht angenommen.</td></tr>
+</table>
+
+[^t-2]: [AS 1973 348](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349), [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477), [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765), [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210)[1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718), [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669), [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154), [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175), [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175), [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317), [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177), [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973), [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318), [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346), [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87), [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404), [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119), [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657), [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271), [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391), [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410), [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205), [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+
+Erklärung
+
+Schweiz**[^t-3]**
+
+Am 12. Juni 2018 teilte die Schweiz mit, dass sie nur solche Dokumente als authentisch anerkennen wird, für die von den vom Kosovo angeforderten zuständigen Behörden gemäss den Bestimmungen von Artikel 6 des Übereinkommens eine Apostille ausgestellt wurde.
+
+[^t-3]: [AS 2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215)

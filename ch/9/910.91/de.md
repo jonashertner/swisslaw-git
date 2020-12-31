@@ -1,0 +1,750 @@
+---
+sr: "910.91"
+title: "Verordnung vom 7. Dezember 1998 über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen (Landwirtschaftliche Begriffsverordnung, LBV)"
+short: LBV
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
+language: de
+version: 2019-01-01
+adopted: 1998-12-07
+in_force: 1999-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20190101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen
+
+(Landwirtschaftliche Begriffsverordnung, LBV)
+
+vom 7. Dezember 1998 (Stand am 1. Januar 2019) (Stand am 1. Januar 2019)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 177 Absatz 1 des Landwirtschaftgesetzes vom 29. April 1998[^ingress-1] (LwG),[^ingress-2]
+
+verordnet:
+
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+
+## 1. Kapitel: Geltungsbereich und Gegenstand
+
+#### Art. 1
+
+<sup>1</sup> Die in dieser Verordnung umschriebenen Begriffe gelten für das LwG und die gestützt darauf erlassenen Verordnungen.[^1-1]
+
+<sup>2</sup>
+
+Die Verordnung regelt zudem das Verfahren für:
+
+- a. die Anerkennung von Betrieben und von Formen der überbetrieblichen Zusammenarbeit;
+- b. die Überprüfung und Abgrenzung von Flächen.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+
+## 2. Kapitel: Begriffe
+
+### 1. Abschnitt: Personen und standardisierte Arbeitskraft
+
+#### Art. 2
+
+**Bewirtschafter und Bewirtschafterinnen**
+
+<sup>1</sup> Als Bewirtschafter oder Bewirtschafterin gilt die natürliche oder juristische Person oder die Personengesellschaft, die einen Betrieb auf eigene Rechnung und Gefahr führt und damit das Geschäftsrisiko trägt.[^2-1]
+
+<sup>2</sup> Führt ein Bewirtschafter oder eine Bewirtschafterin mehrere Produktionsstätten, so gelten diese zusammen als ein Betrieb.
+
+<sup>3</sup> Führen ungetrennt lebende Ehe- und Konkubinatspartner oder Personen in eingetragener Partnerschaft mehrere Produktionsstätten, so gelten diese zusammen als ein Betrieb. Davon ausgenommen sind Betriebe, die in die Partnerschaft eingebracht werden und die weiterhin als selbstständige und unabhängige Betriebe nach Artikel 6 bewirtschaftet werden.[^2-2]
+
+<sup>4</sup> Werden auf einem Betrieb Produkte nach dem 2. Titel des LwG hergestellt, so gilt der Produzent als Bewirtschafter.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+
+#### Art. 3
+
+**Standardarbeitskraft**[^3-1]
+
+<sup>1</sup> Die Standardarbeitskraft (SAK) ist eine Einheit zur Bemessung der Betriebsgrösse, berechnet anhand von standardisierten Faktoren, die auf arbeitswirtschaftlichen Grundlagen basieren.
+
+<sup>2</sup> Für die Berechnung des Umfangs an SAK je Betrieb gelten folgende Faktoren:
+
+<table>
+<tr><td colspan="2">a. Flächen</td><td></td></tr>
+<tr><td colspan="2">1. landwirtschaftliche Nutzfläche (LN) ohne Spezialkulturen (Art. 15)</td><td>0,022 SAK pro ha</td></tr>
+<tr><td colspan="2">2. Spezialkulturen ohne Rebflächen in Hang- und Terrassenlagen</td><td>0,323 SAK pro ha</td></tr>
+<tr><td colspan="2">3. Rebflächen in Hang- und Terrassenlagen (mehr als 30 % natürliche Neigung)</td><td>1,077 SAK pro ha</td></tr>
+<tr><td colspan="2">b. Nutztiere (Art. 27)</td><td></td></tr>
+<tr><td colspan="2">1. Milchkühe, Milchschafe und Milchziegen</td><td>0,039 SAK pro GVE</td></tr>
+<tr><td colspan="2">2. Mastschweine, Remonten über 25 kg und abgesetzte Ferkel</td><td>0,008 SAK pro GVE</td></tr>
+<tr><td colspan="2">3. Zuchtschweine</td><td>0,032 SAK pro GVE</td></tr>
+<tr><td colspan="2">4. andere Nutztiere</td><td>0,027 SAK pro GVE</td></tr>
+<tr><td colspan="2">c.[^3-2] Zuschläge in allen Zonen, mit Ausnahme des Sömmerungsgebiets, für:</td><td></td></tr>
+<tr><td colspan="2">1. Hanglagen mit 18–35 % Neigung</td><td>0,016 SAK pro ha</td></tr>
+<tr><td colspan="2">2. Hanglagen mit mehr als 35 % und bis 50 % Neigung</td><td>0,027 SAK pro ha</td></tr>
+<tr><td colspan="2">3. Hanglagen mit mehr als 50 % Neigung</td><td>0,054 SAK pro ha</td></tr>
+<tr><td>4. den biologischen Landbau</td><td colspan="2">Faktoren nach Bst. a plus 20 %</td></tr>
+<tr><td colspan="2">5. Hochstamm-Feldobstbäume</td><td>0,001 SAK pro Baum</td></tr>
+</table>
+
+<sup>3</sup> Bei der Berechnung der Zuschläge nach Absatz 2 Buchstabe c Ziffern 1–4 werden nur die für die jeweiligen Direktzahlungen berechtigten Flächen berücksichtigt. Beim Zuschlag für Hochstamm-Feldobstbäume nach Absatz 2 Buchstabe c Ziffer 5 werden nur die Bäume berücksichtigt, für die Biodiversitätsbeiträge der Qualitätsstufe I ausgerichtet werden.[^3-3]
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+
+#### Art. 4 und 5
+
+[^45-1]
+
+[^45-1]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4183](https://fedlex.data.admin.ch/eli/oc/2018/675)).
+
+### 2. Abschnitt: Betriebs- und Gemeinschaftsformen
+
+#### Art. 6
+
+**Betrieb**
+
+<sup>1</sup>
+
+Als Betrieb gilt ein landwirtschaftliches Unternehmen, das:
+
+- a. Pflanzenbau oder Nutztierhaltung oder beide Betriebszweige betreibt;
+- b. eine oder mehrere Produktionsstätten umfasst;
+- c.[^6-1] rechtlich, wirtschaftlich, organisatorisch und finanziell selbständig sowie unabhängig von anderen Betrieben ist;
+- d. ein eigenes Betriebsergebnis ausweist; und
+- e. während des ganzen Jahres bewirtschaftet wird.
+
+<sup>2</sup>
+
+Als Produktionsstätte gilt eine Einheit von Land, Gebäuden und Einrichtungen:
+
+- a. die räumlich als solche erkennbar und getrennt von anderen Produktionsstätten ist;
+- b. auf der eine oder mehrere Personen tätig sind; und
+- c. die eine oder mehrere Tierhaltungen nach Artikel 11 umfasst.[^6-2]
+
+<sup>2bis</sup>
+
+In Abweichung von Absatz 2 gilt eine Stallung, welche der Bewirtschafter oder die Bewirtschafterin eines anerkannten Betriebes von Dritten pachtet oder mietet, als Produktionsstätte dieses Betriebes, wenn:
+
+- a. der Verpächter, die Verpächterin, der Vermieter oder die Vermieterin keine Tiere der selben Kategorie mehr hält, zu deren Haltung die Stallung genutzt wird;
+- b.[^6-3] der ökologische Leistungsnachweis nach den Artikeln 11–25 der Direktzahlungsverordnung vom 23. Oktober 2013[^6-4] (DZV) erbracht wird; und
+- c.[^6-5] die Bestimmungen der Höchstbestandesverordnung vom 23. Oktober 2013[^6-6], der DZV, der Bio-Verordnung vom 22. September 1997[^6-7] und anderer Erlasse im Landwirtschaftsbereich eingehalten werden.[^6-8]
+
+<sup>3</sup> Umfasst ein Betrieb mehr als eine Produktionsstätte, so gilt als Betriebszentrum der Ort, an dem sich das Hauptgebäude oder das Schwergewicht der Betriebstätigkeit befinden.
+
+<sup>4</sup>
+
+Die Anforderung von Absatz 1 Buchstabe c ist insbesondere nicht erfüllt, wenn:
+
+- a. der Bewirtschafter oder die Bewirtschafterin die Entscheide zur Führung des Betriebes nicht unabhängig von Bewirtschaftern anderer Betriebe treffen kann;
+- b.[^6-9] der Bewirtschafter oder die Bewirtschafterin eines anderen Betriebes oder deren Gesellschafter, Genossenschafter, Aktionär oder Vertreter zu 25 oder mehr Prozent am Eigen- oder Gesamtkapital des Betriebes beteiligt ist; oder
+- c. die auf dem Betrieb anfallenden Arbeiten ohne anerkannte Gemeinschaftsform nach den Artikeln 10 oder 12 mehrheitlich von anderen Betrieben ausgeführt werden.[^6-10]
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)). Siehe jedoch die Ausnahmeregelung in Art. 5 Abs. 2 der Bio-Verordnung vom 22. Sept. 1997 ([SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2381](https://fedlex.data.admin.ch/eli/oc/2011/341)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^6-4]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^6-5]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^6-6]: [SR 916.344](https://fedlex.data.admin.ch/eli/cc/2013/727)
+[^6-7]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^6-8]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
+[^6-9]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^6-10]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+
+#### Art. 7
+
+[^7-1]
+
+[^7-1]: Aufgehoben durch Ziff. I der V vom 23. Okt. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 8
+
+**Gemeinschaftsweidebetrieb**
+
+Als Gemeinschaftsweidebetrieb gilt ein landwirtschaftliches Unternehmen, das:
+
+- a. der gemeinschaftlichen Weidehaltung von Tieren dient;
+- b. Gemeinschaftsweiden (Art. 25) aufweist;
+- c. über Gebäude oder Einrichtungen für die Weidehaltung verfügt; und
+- d. von einer öffentlich-rechtlichen Körperschaft, einer Allmendkorporation oder einer Personengesellschaft bewirtschaftet wird.[^8-1]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+
+#### Art. 9
+
+**Sömmerungsbetrieb**
+
+<sup>1</sup>
+
+Als Sömmerungsbetrieb gilt ein landwirtschaftliches Unternehmen, das:
+
+- a. der Sömmerung von Tieren dient;
+- b. von den Betrieben der Bestösser örtlich getrennt ist;
+- c. Sömmerungsweiden (Art. 26) aufweist;
+- d. über Gebäude oder Einrichtungen verfügt, die für die Sömmerung nötig sind;
+- e.[^9-1] während der Sömmerung bewirtschaftet wird; und
+- f. von andern Sömmerungsbetrieben unabhängig ist.
+
+<sup>2</sup> Ein Sömmerungsbetrieb mit mehreren Stufen gilt als nur ein Sömmerungsbetrieb.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1378](https://fedlex.data.admin.ch/eli/oc/2002/211)).
+
+#### Art. 10
+
+**Betriebsgemeinschaft**[^10-1]
+
+Als Betriebsgemeinschaft gilt der Zusammenschluss von zwei oder mehr Betrieben zu einem einzigen Betrieb, wenn:
+
+- a. die Zusammenarbeit in einem schriftlichen Vertrag geregelt ist;
+- b. die Bewirtschafter und Bewirtschafterinnen die Betriebsgemeinschaft gemeinsam auf eigene Rechnung und Gefahr führen und damit das Geschäftsrisiko tragen;
+- c. die Bewirtschafter und Bewirtschafterinnen der beteiligten Betriebe für die Betriebsgemeinschaft tätig sind und nicht mehr als 75 Prozent ausserhalb der Betriebsgemeinschaft arbeiten;
+- d. die Betriebszentren der beteiligten Betriebe innerhalb einer Fahrdistanz von höchstens 15 km liegen; und
+- e. jeder der beteiligten Betriebe vor dem Zusammenschluss einen Mindestarbeitsbedarf von 0,20 SAK erreicht.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+
+#### Art. 11
+
+**Tierhaltung**[^11-1]
+
+<sup>1</sup> Als Tierhaltung gelten Stallungen und Einrichtungen (ohne Weideunterstände oder Weidstadel) zum regelmässigen Halten von Tieren auf der Produktionsstätte sowie auf dem Sömmerungs- oder Gemeinschaftsweidebetrieb.[^11-2]
+
+<sup>2</sup>
+
+Zu einer Tierhaltung gehören:
+
+- a. bei Produktionsstätten: das Zentrum einer Tierhaltung sowie weitere Stallungen und Einrichtungen im Umkreis von höchstens 3 km vom Zentrum der Tierhaltung;
+- b. bei Sömmerungs- und Gemeinschaftsweidebetrieben: die Stallungen und Einrichtungen der Betriebe, unabhängig von der Distanz zu deren Zentrum.[^11-3]
+
+<sup>3</sup> Die Kantone können im Einzelfall auch Stallungen und Einrichtungen als zur Tierhaltung gehörend bezeichnen, deren Abstand vom Zentrum der Tierhaltung grösser ist als derjenige nach Absatz 2 Buchstabe a.
+
+<sup>4</sup> Sind auf einer Produktionsstätte Stallungen und Einrichtungen im Gebiet mehrerer Kantone vorhanden, so besteht in Abweichung von Absatz 2 pro Standortkanton je eine Tierhaltung. Die betroffenen Kantone können bestimmen, dass nur eine einzige Tierhaltung besteht.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2381](https://fedlex.data.admin.ch/eli/oc/2011/341)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 11a
+
+**Tierhalter und Tierhalterinnen**[^11a-1]
+
+Als Tierhalter und Tierhalterinnen gelten die:
+
+- a. Bewirtschafter und Bewirtschafterinnen nach Artikel 2, die Tiere halten;
+- b.[^11a-2] Bewirtschafter und Bewirtschafterinnen von Sömmerungs- und Gemeinschaftsweidebetrieben, die Tiere halten.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2381](https://fedlex.data.admin.ch/eli/oc/2011/341)).
+[^11a-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 12
+
+**Betriebszweiggemeinschaft**[^12-1]
+
+Eine Betriebszweiggemeinschaft besteht, wenn:
+
+- a. mehrere Betriebe Nutztiere gemeinsam halten oder einen Teil ihrer Betriebszweige gemeinsam führen;
+- b. die Zusammenarbeit und die Aufteilung der Flächen und Tiere in einem schriftlichen Vertrag geregelt sind;
+- c. die Bewirtschafter und Bewirtschafterinnen der beteiligten Betriebe für die Betriebszweiggemeinschaft tätig sind;
+- d. die Betriebszentren der beteiligten Betriebe innerhalb einer Fahrdistanz von höchstens 15 km liegen; und
+- e. jeder der beteiligten Betriebe vor dem Zusammenschluss einen Mindestarbeitsbedarf von 0,20 SAK erreicht.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+
+### 2*a*. Abschnitt:**** Leistungen für die landwirtschaftliche Produktion und landwirtschaftsnahe Tätigkeiten
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 12a
+
+**Leistungen für die landwirtschaftliche Produktion**
+
+<sup>1</sup> Als Leistungen für die landwirtschaftliche Produktion gelten landwirtschaftliche Tätigkeiten von Betrieben und Gemeinschaftsformen, die mit betriebseigenen Flächen, Gebäuden, Einrichtungen, Geräten und Arbeitskräften gegen Entgelt für Dritte erbracht werden.
+
+<sup>2</sup> Nicht als Leistungen für die landwirtschaftliche Produktion gelten wirtschaftliche Tätigkeiten, mit denen keine landwirtschaftliche Tätigkeit verbunden ist, wie die Vermietung oder Gebrauchsleihe von Flächen, Gebäuden, Stallungen oder Maschinen an andere Bewirtschafter und Bewirtschafterinnen oder an Dritte.
+
+#### Art. 12b
+
+**Landwirtschaftsnahe Tätigkeiten**
+
+Als landwirtschaftsnahe Tätigkeiten gelten wirtschaftliche Tätigkeiten von Betrieben und Gemeinschaftsformen ausserhalb der eigentlichen Produktion sowie ausserhalb von Aufbereitung, Lagerung und Verkauf selbstproduzierter landwirtschaftlicher Erzeugnisse, sofern diese Tätigkeiten von den Bewirtschaftern und Bewirtschafterinnen, von deren Familie oder von Angestellten des Betriebs oder der Gemeinschaftsform ausgeübt werden und einen Bezug zum Betrieb haben.
+
+### 3. Abschnitt: Flächen
+
+#### Art. 13
+
+**Betriebsfläche[^13-1]**
+
+Die Betriebsfläche (BF) setzt sich zusammen aus:[^13-2]
+
+- a. der landwirtschaftlichen Nutzfläche;
+- b.[^13-3] dem Wald (ohne Weidefläche von Waldweiden) sowie übrigen bestockten Flächen;
+- c. der landwirtschaftlich unproduktiven Vegetationsfläche;
+- d. den unproduktiven Flächen wie Gebäudeplätzen, Hofraum, Wegen oder nicht kultivierbarem Land;
+- e. den nicht landwirtschaftlich genutzten Flächen wie Kiesgruben, Steinbrüchen oder Gewässern.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 14
+
+**Landwirtschaftliche Nutzfläche**[^14-1]
+
+<sup>1</sup>
+
+Als landwirtschaftliche Nutzfläche (LN) gilt die einem Betrieb zugeordnete, für den Pflanzenbau genutzte Fläche ohne die Sömmerungsfläche (Art. 24), die dem Bewirtschafter oder der Bewirtschafterin ganzjährig zur Verfügung steht und die ausschliesslich vom Betrieb (Art. 6) aus bewirtschaftet wird. Dazu gehören:
+
+- a. die Ackerfläche;
+- b. die Dauergrünfläche;
+- c. die Streuefläche;
+- d. die Fläche mit Dauerkulturen;
+- e. die Fläche mit Kulturen in ganzjährig geschütztem Anbau (Gewächshaus, Hochtunnel, Treibbeet);
+- f. die Fläche mit Hecken, Ufer- und Feldgehölzen, die nicht zum Wald nach dem Waldgesetz vom 4. Oktober 1991[^14-2] gehört.
+
+<sup>2</sup>
+
+Nicht zur LN gehören:
+
+- a. Streueflächen, die innerhalb des Sömmerungsgebietes liegen oder die zu Sömmerungs- oder Gemeinschaftsweidebetrieben gehören;
+- b. Dauergrünflächen (Art. 19), die von Sömmerungs- oder Gemeinschaftsweidebetrieben bewirtschaftet werden.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^14-2]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+
+#### Art. 15
+
+**Spezialkulturen**
+
+<sup>1</sup> Als Spezialkulturen gelten Reben, Hopfen, Obstanlagen, Beeren, Gemüse ausser Konservengemüse, Tabak, Heil- und Gewürzpflanzen sowie Pilze.[^15-1]
+
+<sup>2</sup> Spezialkulturen belegen Flächen nach Artikel 14 Buchstaben a, d und e.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 16
+
+**Ausschluss von Flächen von der LN**
+
+<sup>1</sup>
+
+Nicht als landwirtschaftliche Nutzfläche gelten:
+
+- a. Flächen, deren Hauptzweckbestimmung nicht die landwirtschaftliche Nutzung ist;
+- b. Flächen oder Teilflächen mit einem hohen Besatz an Problempflanzen, insbesondere Blacken, Ackerkratzdisteln, Flughafer, Quecken, Jakobs-Kreuzkraut oder invasiven Neophyten;
+- c. Flächen, die in Bauzonen liegen, die nach dem 31. Dezember 2013 rechtskräftig ausgeschieden wurden;
+- d. erschlossenes Bauland, das bis zum 31. Dezember 2013 rechtskräftig ausgeschieden wurde;
+- e. Flächen innerhalb von Golf-, Camping-, Flug- und militärischen Übungsplätzen sowie im ausgemarchten Bereich von Eisenbahnen und öffentlichen Strassen;
+- f. Flächen mit Photovoltaik-Anlagen.[^16-1]
+
+<sup>2</sup>
+
+Hauptzweckbestimmung ist nicht die landwirtschaftliche Nutzung, wenn:
+
+- a. diese stark eingeschränkt ist;
+- b. der wirtschaftliche Ertrag aus der landwirtschaftlichen Nutzung kleiner ist als jener aus der nichtlandwirtschaftlichen Nutzung; oder
+- c. der Pflegecharakter überwiegt.
+
+<sup>3</sup>
+
+Flächen nach Absatz 1 Buchstaben d und e zählen zur landwirtschaftlichen Nutzfläche, wenn der Bewirtschafter oder die Bewirtschafterin nachweist, dass:[^16-2]
+
+- a. die Flächen ausserhalb des Bereichs der nichtlandwirtschaftlichen Nutzung liegen und die Hauptzweckbestimmung die landwirtschaftliche Nutzung ist;
+- b. es sich um eigene oder mit schriftlichem Vertrag gepachtete Flächen nach Artikel 14 Absatz 1 Buchstabe a, b, d oder e handelt;
+- c.[^16-3] für die Flächen nach Absatz 1 Buchstabe e der Pachtvertrag gemäss den massgebenden Bestimmungen des LPG[^16-4] schriftlich abgeschlossen ist; und
+- d. die vom Bewirtschafter oder von der Bewirtschafterin zusammenhängend bewirtschaftete Fläche mindestens 25 Aren misst.[^16-5]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^16-4]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^16-5]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
+
+#### Art. 17
+
+**Flächen im Ausland**[^17-1]
+
+<sup>1</sup>
+
+Im Ausland gelegene Flächen gelten als landwirtschaftliche Nutzfläche eines Betriebes, wenn:
+
+- a. sie in der ausländischen Grenzzone nach Artikel 43 des Zollgesetzes vom 18. März 2005[^17-2] liegen;
+- b. die Voraussetzungen zur zollfreien Einfuhr der auf dieser Fläche erzeugten Produkte erfüllt sind; und
+- c. das Betriebszentrum in der schweizerischen Grenzzone liegt.
+
+<sup>2</sup> Als angestammte Flächen gelten Flächen, die mindestens seit dem 1. Mai 1984 ununterbrochen von einem in der schweizerischen Grenzzone wohnenden Produzenten bewirtschaftet werden.
+
+<sup>3</sup> Bei Abtretung einer angestammten Fläche kann diese durch eine gleich grosse, bisher nicht angestammt gewesene Fläche ersetzt werden, sofern die abgetretene Fläche nicht an einen Produzenten übergeht, der einen Betrieb in der schweizerischen Grenzzone bewirtschaftet.
+
+<sup>4</sup> Die Kantone führen ein Verzeichnis der angestammten Flächen im Ausland.
+
+[^17-1]: Fassung gemäss Anhang 4 Ziff. 50 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^17-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 18
+
+**Ackerfläche**
+
+<sup>1</sup> Als Ackerfläche gilt die Fläche, welche in eine Fruchtfolge einbezogen ist. Sie setzt sich aus der offenen Ackerfläche und den Kunstwiesen zusammen.
+
+<sup>2</sup> Als offene Ackerfläche gilt die Fläche, auf der einjährige Acker-, Gemüse- und Beerenkulturen sowie einjährige Gewürz- und Medizinalpflanzen angebaut werden. Buntbrache, Rotationsbrache und Säume auf Ackerland zählen zur offenen Ackerfläche.[^18-1]
+
+<sup>3</sup> Als Kunstwiese gilt die als Wiese angesäte Fläche, die innerhalb einer Fruchtfolge während mindestens einer Vegetationsperiode bewirtschaftet wird.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+
+#### Art. 19
+
+**Dauergrünfläche**
+
+<sup>1</sup> Als Dauergrünfläche gilt die mit Gräsern und Kräutern bewachsene Fläche ausserhalb der Sömmerungsflächen (Art. 24). Sie besteht seit mehr als sechs Jahren als Dauerwiese oder als Dauerweide.[^19-1]
+
+<sup>2</sup> Als Dauerwiese gilt die Fläche, die jährlich mindestens ein Mal zur Futtergewinnung gemäht wird.
+
+<sup>3</sup> Als Dauerweide gilt die Fläche mit ausschliesslicher Weidenutzung. Verbuschte oder unproduktive Teile einer Weide sind nicht anrechenbar. Anrechenbar sind hingegen die Weideflächen von Waldweiden ausserhalb der Sömmerungsfläche.
+
+<sup>4</sup> Als Waldweiden gelten die bestockten Weiden (Wytweiden) nach Artikel 2 der Waldverordnung vom 30. November 1992[^19-2].
+
+<sup>5</sup>
+
+Heuwiesen im Sömmerungsgebiet gehören zur Dauergrünfläche, wenn:
+
+- a.[^19-3] sie jährlich gemäht werden und diese Nutzung auf ununterbrochener, langjähriger Tradition beruht; und
+- b. das geerntete Raufutter zur Winterfütterung auf dem Betrieb verwendet wird.
+
+<sup>6</sup>
+
+Flächen, die nicht jährlich gemäht werden, sonst aber die Voraussetzungen für Heuwiesen im Sömmerungsgebiet nach Absatz 5 erfüllen, gehören, soweit sie tatsächlich genutzt werden, ebenfalls zur Dauergrünfläche, wenn:
+
+- a. sie zusammenhängend mindestens 20 Aren aufweisen;
+- b. ihre Nutzung nicht gefährlich ist; und
+- c. es sich um eigene oder gepachtete Flächen handelt.
+
+<sup>7</sup> Als Dauergrünfläche gilt auch eine gepflegte Selve von Edelkastanien mit einer geschlossenen Grasnarbe und mit höchstens 50 Bäumen je Hektare.[^19-4]
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
+[^19-2]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^19-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+[^19-4]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+
+#### Art. 20
+
+**Grünfläche**
+
+Als Grünfläche gelten die Kunstwiese (Art. 18 Abs. 3) und die Dauergrünfläche (Art. 19).
+
+#### Art. 21
+
+**Streuefläche**
+
+Als Streueflächen gelten extensiv genutzte Flächen an Nass- und Feuchtstandorten, die alle ein bis drei Jahre geschnitten werden und deren Ertrag nur ausnahmsweise als Futter auf dem Betrieb verwendet wird.
+
+#### Art. 22
+
+**Fläche mit Dauerkulturen**
+
+<sup>1</sup>
+
+Als Dauerkulturen gelten:
+
+- a. Reben;
+- b. Obstanlagen;
+- c. mehrjährige Beerenkulturen;
+- d. mehrjährige Gewürz- und Medizinalpflanzen;
+- e. Hopfen;
+- f.[^22-1] mehrjährige Gemüsekulturen wie Spargel, Rhabarber und Pilze im Freiland;
+- g. gärtnerische Freilandkulturen wie Baumschulen und Forstgärten ausserhalb des Waldareals;
+- h.[^22-2] gepflegte Selven von Edelkastanien mit höchstens 100 Bäumen je Hektare;
+- i. mehrjährige Kulturen wie Christbäume und Chinaschilf (Miscanthus).
+
+<sup>2</sup>
+
+Als Obstanlagen gelten geschlossene Anlagen mit folgenden Pflanzendichten:
+
+- a. mindestens 300 Bäume je Hektare bei Äpfeln, Birnen, Zwetschgen, Pflaumen, Quitten, Kiwis und Holunder;
+- b. mindestens 200 Bäume je Hektare bei Aprikosen und Pfirsichen;
+- c. mindestens 100 Bäume je Hektare bei Kirschen und Nussbäumen.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 23
+
+**Hecken, Ufer- und Feldgehölze**
+
+<sup>1</sup> Als Hecken und Ufergehölze gelten grösstenteils geschlossene, wenige Meter breite Gehölzstreifen, die vorwiegend aus einheimischen und standortgerechten Stauden, Sträuchern und einzelnen Bäumen bestehen.
+
+<sup>2</sup> Als Feldgehölze gelten flächig angeordnete Gruppen von einheimischen und standortgerechten Sträuchern und Bäumen.
+
+<sup>3</sup>
+
+Hecken, Ufer- und Feldgehölze dürfen vom Kanton nicht als Wald ausgeschieden sein oder nicht gleichzeitig alle drei folgenden Höchstwerte überschreiten:
+
+- a. Fläche mit Einschluss des Krautsaumes höchstens 800 m<sup>2</sup>;
+- b. Breite mit Einschluss des Krautsaumes höchstens 12 m;
+- c. Alter der Bestockung höchstens 20 Jahre.
+
+<sup>4</sup> Hecken, Ufer- und Feldgehölze haben einen vorgelagerten Krautsaum.
+
+#### Art. 24
+
+**Sömmerungsfläche (SF)**
+
+<sup>1</sup>
+
+Als Sömmerungsfläche gelten:
+
+- a. die Gemeinschaftsweiden;
+- b. die Sömmerungsweiden;
+- c. die Heuwiesen, deren Ertrag für die Zufütterung während der Sömmerung verwendet wird.
+
+<sup>2</sup> Die Flächen im Sömmerungsgebiet nach Artikel 1 Absatz 2 der Landwirtschaftlichen Zonen-Verordnung vom 7. Dezember 1998[^24-1] gelten als Sömmerungsflächen, auch wenn sie anders genutzt werden.
+
+[^24-1]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+
+#### Art. 25
+
+**Gemeinschaftsweiden**
+
+Gemeinschaftsweiden sind Flächen im Eigentum von öffentlich-rechtlichen oder privat-rechtlichen Körperschaften, die traditionell von verschiedenen Tierhaltern oder Tierhalterinnen gemeinsam als Weide genutzt werden und die zu einem Gemeinschaftsweidebetrieb (Art. 8) gehören.
+
+#### Art. 26
+
+**Sömmerungsweiden**[^26-1]
+
+Als Sömmerungsweiden gelten die Flächen mit ausschliesslicher Weidenutzung, die der Sömmerung von Tieren dienen und die zu einem Sömmerungsbetrieb (Art. 9) gehören.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+### 4. Abschnitt: Nutztiere
+
+#### Art. 27
+
+[^27-1]
+
+<sup>1</sup> Für die Umrechnung der landwirtschaftlichen Nutztiere der verschiedenen Kategorien in Grossvieheinheiten (GVE) oder raufutterverzehrende Grossvieheinheiten (RGVE) gelten die Faktoren im Anhang.
+
+<sup>2</sup> Raufutterverzehrende Nutztiere sind Tiere der Rindergattung und der Pferdegattung sowie Schafe, Ziegen, Bisons, Hirsche, Lamas und Alpakas.
+
+<sup>3</sup> Weitere Faktoren können im Bedarfsfall vom Bundesamt für Landwirtschaft aufgrund der Stickstoff- und Phosphor-Ausscheidung der Tiere festgelegt werden.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+### 5. Abschnitt: …
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4183](https://fedlex.data.admin.ch/eli/oc/2018/675)).
+
+#### Art. 29
+
+[^29-1]
+
+[^29-1]: Aufgehoben durch Art. 14 der Berg- und Alp-Verordnung vom 8. Nov. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747)).
+
+## 3. Kapitel: Anerkennung der Betriebs- und Gemeinschaftsformen, Flächenüberprüfung****
+
+[^chap3-1]
+
+[^chap3-1]: Ursprünglich vor Art. 30. Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+
+#### Art. 29a
+
+**Anerkennung der Betriebsformen (Art. 6–9), der Betriebsgemeinschaften (Art. 10), der Betriebszweiggemeinschaften (Art. 12)**[^29a-1]
+
+<sup>1</sup> Betriebe ab einem Mindestarbeitsbedarf von 0,20 SAK, Gemeinschaftsweidebetriebe und Sömmerungsbetriebe sowie Betriebs- und Betriebszweiggemeinschaften müssen von der zuständigen kantonalen Amtsstelle anerkannt sein.[^29a-2]
+
+<sup>2</sup> Auf einem landwirtschaftlichen Gewerbe nach dem Bundesgesetz vom 4. Oktober 1991[^29a-3] über das bäuerliche Bodenrecht (BGBB) kann nur ein Betrieb anerkannt werden.
+
+<sup>3</sup> Die Miete oder Pacht einer Stallung nach Artikel 6 Absatz 2<sup>bis</sup> bedarf der Zustimmung durch die nach Artikel 32 zuständige Stelle.[^29a-4]
+
+[^29a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+[^29a-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^29a-3]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29a-4]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
+
+#### Art. 29b
+
+**Anerkennung bei Betriebsteilungen**[^29b-1]
+
+Betriebe, die aus der Aufteilung eines bestehenden Betriebes hervorgehen, können anerkannt werden, wenn:
+
+- a.
+
+  der aufgeteilte Betrieb:
+
+  - 1\. bisher mehrere Gewerbe nach BGBB[^29b-2] umfasste und entsprechend dieser Gewerbe aufgeteilt wird, oder
+  - 2\. ein Gewerbe umfasste, das mit Zustimmung der zuständigen Stelle definitiv in mehrere Gewerbe aufgeteilt wird; und
+
+- b.
+
+  während mindestens fünf Jahren:
+
+  - 1\. die Bewirtschafter nicht Gesamteigentümer, Miteigentümer oder gemeinsam Pächter von Land, Gebäuden oder Einrichtungen des aufgeteilten Betriebes sind, und
+  - 2\. jeder Bewirtschafter alleine Eigentümer seines Pächtervermögens ist und den Betrieb als Selbstbewirtschafter führt.
+
+[^29b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+[^29b-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+
+#### Art. 30
+
+**Anerkennungsverfahren[^30-1]**
+
+<sup>1</sup> Die Anerkennungsgesuche sind mit den nötigen Unterlagen dem zuständigen Kanton einzureichen. Der Kanton prüft, ob die Voraussetzungen nach den Artikeln 6–12 erfüllt sind.[^30-2]
+
+<sup>2</sup> Der Anerkennungsentscheid gilt ab dem Datum der Gesuchseinreichung. Wurde für eine Gemeinschaftsform ein späterer Vertragsbeginn vereinbart, so gilt der Anerkennungsentscheid ab dem Datum des Vertragsbeginns.
+
+<sup>3</sup> …[^30-3]
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
+[^30-3]: Aufgehoben durch Ziff. I der V vom 9. Juni 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
+
+#### Art. 30a
+
+**Überprüfung der Anerkennung**[^30a-1]
+
+<sup>1</sup> Die Kantone prüfen periodisch, ob die Betriebe und Gemeinschaften die Voraussetzungen noch erfüllen. Ist dies nicht der Fall, so widerrufen sie die ausdrückliche oder stillschweigende Anerkennung. Der Kanton entscheidet, ab welchem Datum der Widerruf gilt.
+
+<sup>2</sup>
+
+Die Kantone überprüfen die Anerkennung der Gemeinschaften insbesondere beim Wechsel von beteiligten Bewirtschaftern und Bewirtschafterinnen sowie bei einer Änderungen des bei der Anerkennung bestehenden Eigentums an den Produktionsstätten oder bei einer Änderung der bei der Anerkennung bestehenden Gewerbepachtverträge. Die Anerkennung wird insbesondere widerrufen, wenn:
+
+- a. einer oder mehrere der an der Gemeinschaft beteiligten Betriebe die Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe b nicht mehr erfüllt; oder
+- b.
+
+  die Bewirtschafter und Bewirtschafterinnen die Produktionsstätten im Wesentlichen:
+
+  - 1\. in gemeinsamem Eigentum (Miteigentum) halten, oder
+  - 2\. gemeinsam pachten.
+
+<sup>3</sup> Massgebend für die Beurteilung der Verhältnisse nach Absatz 2 Buchstabe b sind die Eigentums-, Pacht- und Nutzungsverhältnisse bezüglich der Flächen und Gebäude sowie die Anteile am Ertragswert der Grundstücke und Produktionsstätten ohne Wohnungen. Die Ertragswerte der gemeinsam erstellten, gekauften oder gepachteten Gebäude werden anteilsmässig den beteiligten Bewirtschaftern und Bewirtschafterinnen angerechnet.[^30a-2]
+
+[^30a-1]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
+[^30a-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+
+#### Art. 31
+
+**Überprüfung von Flächenangaben und Flächenabgrenzungen**
+
+<sup>1</sup> Der Kanton überprüft anhand der Daten der amtlichen Vermessung die Flächenangaben und die Abgrenzung der Flächen.
+
+<sup>2</sup> Ist die amtliche Vermessung nicht nachgeführt, so stützt sich der Kanton auf die tatsächliche Nutzung.
+
+<sup>3</sup> Fehlt die amtliche Vermessung, so erhebt der Kanton die Flächen.
+
+#### Art. 32
+
+**Zuständigkeit**
+
+<sup>1</sup> Zuständig für die Anerkennung der Betriebs- und Gemeinschaftsformen und die Überprüfung der Flächen ist der Kanton, in dessen Gebiet der Betrieb, der Gemeinschaftsweidebetrieb, der Sömmerungsbetrieb, die Betriebs- oder Betriebszweiggemeinschaft oder die Fläche liegt.[^32-1]
+
+<sup>2</sup> Besteht zwischen Betrieben in verschiedenen Kantonen eine Abhängigkeit, so ist für die Prüfung und Anerkennung derjenige Kanton zuständig, in dem sich das Betriebszentrum des grösseren Betriebes befindet.
+
+<sup>3</sup> Schliessen sich Betriebe aus verschiedenen Kantonen zu einer Betriebsgemeinschaft oder einer Betriebszweiggemeinschaft zusammen, so ist für die Anerkennung derjenige Kanton zuständig, in dem sich das Mitglied befindet, das die Gemeinschaft gegen aussen vertritt.[^32-2]
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+
+## 4. Kapitel: Schlussbestimmungen
+
+#### Art. 33
+
+**Vollzug**
+
+<sup>1</sup> Die Kantone vollziehen diese Verordnung.
+
+<sup>2</sup> Das Bundesamt für Landwirtschaft beaufsichtigt den Vollzug.
+
+#### Art. 34
+
+[^34-1]
+
+[^34-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+
+#### Art. 34a
+
+**Übergangsbestimmung zur Änderung vom 26. November 2003**[^34a-1]
+
+Die bis am 31. Dezember 2003 anerkannten Tierhaltungsgemeinschaften sind den Betriebszweiggemeinschaften nach Artikel 12 gleichgestellt.
+
+[^34a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
+
+#### Art. 35
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 1999 in Kraft.
+
+Anhang*[^t-1]*
+
+(Art. 27 Abs. 1)
+
+## Faktoren für die Umrechnung des Tierbestandes in Grossvieheinheiten
+
+[^t-1]: Fassung gemäss Ziff. II der V vom 23. Okt. 2013 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)). Bereinigt gemäss Ziff. I der V vom 20. Mai 2015 ([AS 2015 1753](https://fedlex.data.admin.ch/eli/oc/2015/342)) und Ziff. II der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
+
+<table>
+<tr><th></th><th>Faktor je Tier</th></tr>
+<tr><td>1. Tiere der Rindergattung (Gattung *Bos*) und Wasserbüffel (*Bubalus arnee*)</td><td></td></tr>
+<tr><td>1.1 Kühe</td><td></td></tr>
+<tr><td>1.1.1 Milchkühe</td><td>[tab] 1,00</td></tr>
+<tr><td>1.1.2 andere Kühe</td><td>1,00</td></tr>
+<tr><td>1.2 andere Tiere der Rindergattung</td><td></td></tr>
+<tr><td>1.2.1 über 730 Tage alt</td><td>0,60</td></tr>
+<tr><td>1.2.2 über 365−730 Tage alt</td><td>0,40</td></tr>
+<tr><td>1.2.3 über 160−365 Tage alt</td><td>0,33</td></tr>
+<tr><td>1.2.4 bis 160 Tage alt</td><td>0,13</td></tr>
+<tr><td>2. Tiere der Pferdegattung</td><td></td></tr>
+<tr><td>**2.1** **Widerristhöhe 148 cm und höher**</td><td></td></tr>
+<tr><td>2.1.1 über 900 Tage alt</td><td>0,70</td></tr>
+<tr><td>2.1.2 über 180 Tage bis 900 Tage alt</td><td>0,50</td></tr>
+<tr><td>2.1.3 bis 180 Tage alt</td><td>0,30</td></tr>
+<tr><td>**2.2** **Widerristhöhe bis 148 cm**</td><td>[tab]</td></tr>
+<tr><td>2.2.1 über 900 Tage alt</td><td>0,35</td></tr>
+<tr><td>2.2.2 über 180 Tage bis 900 Tage alt</td><td>0,25</td></tr>
+<tr><td>2.2.3 bis 180 Tage alt</td><td>0,15</td></tr>
+<tr><td>3. Schafe</td><td></td></tr>
+<tr><td>3.1 Schafe gemolken</td><td>0,25</td></tr>
+<tr><td>3.2 Andere Schafe über 1-jährig</td><td>0,17</td></tr>
+<tr><td>3.3 Jungschafe unter 1-jährig (in den Faktoren der weiblichen Tiere eingerechnet)</td><td>0,00</td></tr>
+<tr><td>3.4 Weidelämmer (Mast) unter 1/2-jährig, welche nicht den Muttertieren anzurechnen sind (ganzjährige Weidelämmermast)</td><td>0,03</td></tr>
+<tr><td>4. Ziegen</td><td></td></tr>
+<tr><td>4.1 Ziegen gemolken</td><td>0,20</td></tr>
+<tr><td>4.2 Andere Ziegen über 1-jährig</td><td>0,17</td></tr>
+<tr><td>4.3 Jungziegen unter 1-jährig (im Faktor des weiblichen Tieres eingerechnet)</td><td>[tab] 0,00</td></tr>
+<tr><td>4.4 Zwergziegen über 1-jährig: Nutztierhaltung (grössere Bestände zu Erwerbszwecken)</td><td>0,085</td></tr>
+<tr><td>5. Andere Raufutter verzehrende Nutztiere</td><td></td></tr>
+<tr><td>5.1 Bisons über 900 Tage alt (erwachsene Zuchttiere)</td><td>1,00</td></tr>
+<tr><td>5.2 Bisons bis 900 Tage alt (Aufzucht und Mast)</td><td>0,40</td></tr>
+<tr><td>5.3 Damhirsche jeden Alters</td><td>0,10</td></tr>
+<tr><td>5.4 Rothirsche jeden Alters</td><td>0,20</td></tr>
+<tr><td>5.5 Lamas über 2-jährig</td><td>0,17</td></tr>
+<tr><td>5.6 Lamas unter 2-jährig</td><td>0,11</td></tr>
+<tr><td>5.7 Alpakas über 2-jährig</td><td>0,11</td></tr>
+<tr><td>5.8 Alpakas unter 2-jährig</td><td>0,07</td></tr>
+<tr><td>6. Kaninchen</td><td></td></tr>
+<tr><td>6.1 Produzierende Zibben (= Zibben mit mind. 4 Würfen pro Jahr) ab 1. Wurf, inkl. Jungtiere bis zum Beginn der Mast bzw. Aufzucht (Alter: ca. 35 Tage)</td><td>0,034</td></tr>
+<tr><td>6.2 Jungtiere (Mast bzw. Aufzucht), Alter: ca. 35 bis 100 Tage (5 Umtriebe pro Platz und Jahr)</td><td>0,011</td></tr>
+<tr><td>7. Schweine</td><td></td></tr>
+<tr><td>7.1 Säugende Zuchtsauen (4 bis 8 Wochen Säugedauer; 5,7 bis 10,4 Umtriebe pro Platz)</td><td>0,55</td></tr>
+<tr><td>7.2 Saugferkel (im Faktor der Mutter eingerechnet)</td><td>0,00</td></tr>
+<tr><td>7.3 Nicht säugende Zuchtsauen über 6 Monate alt (ca. 3 Umtriebe pro Platz)</td><td>0,26</td></tr>
+<tr><td>7.4 Zuchteber</td><td>0,25</td></tr>
+<tr><td>7.5 Abgesetzte Ferkel (ausgestallt mit ca. 25 kg, 8 bis 12 Umtriebe pro Platz oder ausgestallt mit ca. 35 kg, 6 bis 8 Umtriebe pro Platz)</td><td>0,06</td></tr>
+<tr><td>7.6 Remonten und Mastschweine (ca. 3 Umtriebe pro Platz)</td><td>0,17</td></tr>
+<tr><td>8. Nutzgeflügel</td><td></td></tr>
+<tr><td>8.1 Zuchthennen, Zuchthähne und Legehennen</td><td>0,01</td></tr>
+<tr><td>8.2 Junghennen, Junghähne und Küken (ohne Mastpoulets)</td><td>0,004</td></tr>
+<tr><td>8.3 Mastpoulets jeden Alters (Mastdauer ca. 40 Tage; 6,5 bis 7,5 Umtriebe pro Platz)</td><td>0,004</td></tr>
+<tr><td>8.4 Truten jeden Alters (ca. 3 Umtriebe pro Platz)</td><td>0,015</td></tr>
+<tr><td>8.5 Trutenvormast (ca. 6 Umtriebe pro Jahr)</td><td>0,005</td></tr>
+<tr><td>8.6 Trutenausmast</td><td>0,028</td></tr>
+<tr><td>8.7 Strausse bis 13 Monate</td><td>0,14</td></tr>
+<tr><td>8.8 Strausse älter als 13 Monate</td><td>0,26</td></tr>
+</table>

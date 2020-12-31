@@ -1,0 +1,270 @@
+---
+sr: "414.205.1"
+title: "Ordonnance du Conseil des hautes écoles du 29 novembre 2019 sur la coordination de l'enseignement dans les hautes écoles suisses"
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
+language: fr
+version: 2020-01-01
+adopted: 2019-11-29
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-722-20200101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du Conseil des hautes écoles sur la coordination de l’enseignement dans les hautes écoles suisses
+
+du 29 novembre 2019 (Etat le 1<sup>er</sup> janvier 2020)
+
+Le Conseil des hautes écoles,
+
+vu l’art. 12, al. 3, let. a, ch. 1 et 4, de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^ingress-1], vu l’art. 2, al. 2, let. b, ch. 1, de la Convention du 26 février 2015 entre la Confédération et les cantons sur la coopération dans le domaine des hautes écoles[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle les cycles d’études, l’admission aux cycles d’études et le passage d’un cycle à l’autre, le système de crédits, la dénomination uniforme des titres, la perméabilité et la mobilité dans les hautes écoles universitaires, les hautes écoles spécialisées et les hautes écoles pédagogiques et entre ces types de hautes écoles ainsi que la formation continue.
+
+#### Art. 2
+
+**Champ d’application**
+
+La présente ordonnance s’applique aux hautes écoles et autres institutions du domaine des hautes écoles accréditées en vertu de la LEHE.
+
+## Section 2 Système de crédits et cycles d’études
+
+#### Art. 3
+
+**Système européen de crédits ECTS**
+
+<sup>1</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles utilisent le système européen de transfert et d’accumulation de crédits (ECTS[^3-1]).
+
+<sup>2</sup> Elles délivrent des crédits ECTS pour les prestations d’études évaluées. Un crédit correspond à une charge de travail de 25 à 30 heures.
+
+[^3-1]: ECTS = European Credit Transfer and Accumulation System
+
+#### Art. 4
+
+**Système d’études échelonné**
+
+<sup>1</sup>
+
+Les hautes écoles et les autres institutions du domaine des hautes écoles organisent leur offre d’études selon les cycles suivants:
+
+- a. un premier cycle (études de bachelor), comprenant 180 crédits;
+- b. un deuxième cycle (études de master), comprenant 90 ou 120 crédits; sont réservées d’autres exigences quant au nombre de crédits qui découlent des dispositions spéciales fixées dans des lois fédérales ou dans le droit intercantonal sur la reconnaissance des diplômes;
+- c. un troisième cycle (doctorat) dans les hautes écoles universitaires et autres institutions universitaires du domaine des hautes écoles; l’étendue et l’organisation sont déterminées de manière indépendante par chaque institution.
+
+<sup>2</sup> Pour le troisième cycle, les hautes écoles universitaires et les autres institutions universitaires du domaine des hautes écoles proposent aux hautes écoles spécialisées et hautes écoles pédagogiques des possibilités de coopération dans un esprit de partenariat.
+
+#### Art. 5
+
+**Structure de l’offre de formation continue**
+
+<sup>1</sup>
+
+Les hautes écoles et les autres institutions du domaine des hautes écoles structurent leur offre de formation continue de la façon suivante:
+
+- a.
+
+  formations continues qui aboutissent à l’un des titres suivants:
+
+  - 1\. Certificate of Advanced Studies (CAS): 10 crédits et plus,
+  - 2\. Diploma of Advanced Studies (DAS): 30 crédits et plus,
+  - 3\. Master of Advanced Studies (MAS): 60 crédits et plus;
+
+- b. autres offres de formation continue.
+
+<sup>2</sup> Les formations continues sanctionnées par un titre visé à l’al. 1, let. a, ne sont pas proposées comme cours préparatoires aux examens professionnels fédéraux ou aux examens professionnels fédéraux supérieurs au sens de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^5-1].
+
+[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+## Section 3 Admission aux cycles d’études
+
+#### Art. 6
+
+**Admission aux études de bachelor**
+
+<sup>1</sup> L’admission au premier cycle d’études dans les hautes écoles et les autres institutions du domaine des hautes écoles est réglée aux art. 23 à 25 LEHE.
+
+<sup>2</sup>
+
+L’admission aux filières d’études de bachelor du ressort de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) est régie par les dispositions des règlements de la CDIP[^6-1]:
+
+- a. du 28 mars 2019 concernant la reconnaissance des diplômes d’enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité, et
+- b. du 3 novembre 2000 concernant la reconnaissance des diplômes de hautes écoles de logopédie et des diplômes de hautes écoles de psychomotricité.
+
+<sup>3</sup> Les mesures visant à limiter l’accès aux études, applicables à tous les candidats, demeurent réservées.
+
+[^6-1]: www.edk.ch &gt; Documentation &gt; Documents officiels &gt; Recueil des bases légales de la CDIP &gt; 4.2.2
+
+#### Art. 7
+
+**Admission aux études de master: dispositions générales**
+
+<sup>1</sup> L’admission aux études de master requiert un titre de bachelor d’une haute école ou d’une autre institution du domaine des hautes écoles ou un titre de bachelor d’une haute école étrangère équivalente, reconnue ou accréditée dans le pays d’origine.
+
+<sup>2</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles peuvent définir des conditions supplémentaires d’admission aux études de master dans le cadre des dispositions des art. 8 et 9.
+
+<sup>3</sup> Les mesures visant à limiter l’accès aux études, applicables à tous les candidats, demeurent réservées.
+
+<sup>4</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles peuvent fixer pour un diplôme de bachelor étranger des exigences minimales de qualité concernant les plans d’études, les contenus des cours ou la note minimale, afin de garantir l’équivalence avec le diplôme suisse correspondant.
+
+#### Art. 8
+
+**Admission aux études de master avec un titre de bachelor du même type de haute école**
+
+<sup>1</sup> Les titulaires d’un titre de bachelor d’une haute école ou d’une autre institution du domaine des hautes écoles sont admis dans les cursus de master consécutifs d’une branche d’études correspondante sans qu’aucune connaissance ni compétence supplémentaires soient exigées.
+
+<sup>2</sup> La Conférence des recteurs des hautes écoles suisses établit et publie la «Liste des branches d’études des hautes écoles universitaires»[^8-1], qui règle le passage d’un bachelor dans un cursus de master consécutif.
+
+<sup>3</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles peuvent exiger l’acquisition de connaissances et de compétences supplémentaires comme condition pour l’admission aux cursus de master spécialisé.
+
+<sup>4</sup> Elles peuvent subordonner l’obtention du titre de master à des connaissances et à des compétences supplémentaires qui doivent être acquises et attestées dans un délai déterminé durant les études.
+
+[^8-1]: www.swissuniversities.ch &gt; Thèmes &gt; Enseignement &gt; Ordonnance coordination de l’enseignement &gt; Branches d’études
+
+#### Art. 9
+
+**Admission aux études de master avec un titre de bachelor délivré par un autre type de haute école**
+
+<sup>1</sup> Les titulaires d’un titre de bachelor d’une haute école ou d’une autre institution du domaine des hautes écoles sont admis dans les cursus de master d’un autre type de haute école dans une branche apparentée selon la liste de concordance.
+
+<sup>2</sup> La Conférence des recteurs des hautes écoles suisses établit et publie la liste de concordance[^9-1].
+
+<sup>3</sup> Les connaissances et les compétences supplémentaires requises dans le cadre de la liste de concordance ne peuvent pas dépasser 60 crédits.
+
+<sup>4</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles peuvent fixer pour le titre de bachelor d’un autre type de haute école des exigences minimales de qualité concernant les plans d’études, les contenus des cours ou la note minimale.
+
+[^9-1]: www.swissuniversities.ch &gt; Thèmes &gt; Enseignement &gt; Ordonnance coordination de l’enseignement &gt; Liste de concordance
+
+#### Art. 10
+
+**Admission aux études doctorales**
+
+<sup>1</sup> L’admission aux études doctorales requiert un titre de master ou un titre équivalent d’une haute école, d’une autre institution du domaine des hautes écoles ou d’une haute école étrangère équivalente, reconnue ou accréditée dans le pays d’origine.
+
+<sup>2</sup> Les titres de formation continue au sens de l’art. 5 ne donnent pas accès au doctorat.
+
+<sup>3</sup> Les hautes écoles universitaires et les autres institutions universitaires du domaine des hautes écoles définissent, pour l’admission aux études doctorales, les connaissances et les compétences supplémentaires qui doivent être acquises et attestées avant le début ou en cours de ces études.
+
+## Section 4 Titres
+
+#### Art. 11
+
+**Titres délivrés par les institutions universitaires**
+
+<sup>1</sup>
+
+Les hautes écoles universitaires et les autres institutions universitaires du domaine des hautes écoles peuvent délivrer les titres suivants:
+
+- a.
+
+  pour le premier cycle d’études:
+
+  - 1\. Bachelor of Arts (BA),
+  - 2\. Bachelor of Science (BSc),
+  - 3\. Bachelor of Law (BLaw),
+  - 4\. Bachelor of Medicine (BMed),
+  - 5\. Bachelor of Dental Medicine (B Med Dent),
+  - 6\. Bachelor of Veterinary Medicine (B Med Vet),
+  - 7\. Bachelor of Theology (BTh);
+
+- b.
+
+  pour le deuxième cycle d’études:
+
+  - 1\. Master of Arts (MA),
+  - 2\. Master of Science (MSc),
+  - 3\. Master of Law (MLaw),
+  - 4\. Master of Medicine (MMed),
+  - 5\. Master of Dental Medicine (M Med Dent),
+  - 6\. Master of Veterinary Medicine (M Med Vet),
+  - 7\. Master of Chiropractic Medicine (M Med Chiro),
+  - 8\. Master of Theology (MTh);
+
+- c.
+
+  pour le troisième cycle d’études:
+
+  - 1\. Docteur/Docteure (Dr, PhD),
+  - 2\. Docteur/Docteure en médecine et ès sciences (MD-PhD),
+  - 3\. Dr. med., Dr. med. dent., Dr. med. vet. et Dr. med. chiro. (décerné après au minimum une année de recherche à la suite d’un MMed, M Med Dent, M Med Vet, M Med Chiro).
+
+<sup>2</sup> Elles fixent les dénominations complètes des doctorats qu’elles délivrent.
+
+#### Art. 12
+
+**Titres délivrés par les hautes écoles spécialisées et les institutions du domaine de hautes écoles spécialisées**
+
+Les hautes écoles spécialisées et les institutions du domaine de hautes écoles spécialisées peuvent délivrer les titres suivants:
+
+- a.
+
+  pour le premier cycle d’études:
+
+  - 1\. Bachelor of Arts (BA),
+  - 2\. Bachelor of Science (BSc);
+
+- b.
+
+  pour le deuxième cycle d’études:
+
+  - 1\. Master of Arts (MA),
+  - 2\. Master of Science (MSc).
+
+#### Art. 13
+
+**Titres délivrés par les hautes écoles pédagogiques**
+
+Les hautes écoles pédagogiques peuvent délivrer les titres suivants:
+
+- a.
+
+  pour le premier cycle d’études:
+
+  - 1\. Bachelor of Arts (BA),
+  - 2\. Bachelor of Science (BSc);
+
+- b.
+
+  pour le deuxième cycle d’études:
+
+  - 1\. Master of Arts (MA),
+  - 2\. Master of Science (MSc).
+
+#### Art. 14
+
+**Équivalence de la licence et du diplôme de master**
+
+<sup>1</sup> Les licences et les diplômes correspondants délivrés par une haute école universitaire suisse sont équivalents à un diplôme de master. L’équivalence est certifiée sur demande par la haute école universitaire qui a délivré la licence ou le diplôme.
+
+<sup>2</sup> Les titulaires d’une licence ou d’un diplôme correspondant délivré par une haute école universitaire suisse sont autorisés à porter le titre de master en lieu et place de leur ancien titre.
+
+## Section 5 Dispositions finales
+
+#### Art. 15
+
+**Abrogation d’autres actes**
+
+Sont abrogées:
+
+- 1\. les directives de Bologne HEU du 28 mai 2015[^15-1];
+- 2\. les directives de Bologne HES et HEP du 28 mai 2015[^15-2].
+
+[^15-1]: [[RO 2015 1627](https://fedlex.data.admin.ch/eli/oc/2015/322)]
+[^15-2]: [[RO 2015 1631](https://fedlex.data.admin.ch/eli/oc/2015/323)]
+
+#### Art. 16
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.

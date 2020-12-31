@@ -1,0 +1,649 @@
+---
+sr: "0.814.325"
+title: "Protocollo del 24 giugno 1998 alla Convenzione del 1979 sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo agli inquinanti organici persistenti (con Allegati)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
+language: it
+version: 2015-02-25
+adopted: 1998-06-24
+in_force: 2003-10-23
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20150225/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20150225-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20150225/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Protocollo alla Convenzione del 1979 sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo agli inquinanti organici persistenti
+
+RU **2003** 4425; FF **2000** 2789
+
+Traduzione*[^t-1]*
+
+Concluso a Aarhus il 24 giugno 1998 Approvato dall’Assemblea federale il 19 settembre 2000[^t-2] Ratificato con strumenti depositati dalla Svizzera il 14 novembre 2000 Entrato in vigore per la Svizzera il 23 ottobre 2003
+
+(Stato 25 febbraio 2015)
+
+[^t-1]: Dal testo originale francese.
+[^t-2]: [RU 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
+
+Le Parti,
+
+determinate ad applicare la Convenzione del 13 novembre 1979[^ingress-1] sull’inquinamento atmosferico attraverso le frontiere a lunga distanza;
+
+riconoscendo che le emissioni di numerosi inquinanti organici persistenti sono trasportati al di là dalle frontiere internazionali e si depositano in Europa, in America del Nord e nell’Artico, lontano dal loro luogo d’origine, e che l’atmosfera è il principale mezzo di trasporto;
+
+consapevoli che gli inquinanti organici persistenti resistono al degrado in condizioni naturali e che sono stati ritenuti strettamente legati ad effetti nocivi per la salute e l’ambiente;
+
+preoccupati per il fatto che gli inquinanti organici persistenti sono suscettibili di una bio-crescita a dismisura ai livelli trofici superiori e possono raggiungere concentrazioni che rischiano di pregiudicare lo stato della fauna e della flora e la salute degli esseri umani che vi sono esposti;
+
+riconoscendo che gli ecosistemi artici e soprattutto le popolazioni autoctone che dipendono per la loro sussistenza dai pesci e dai mammiferi artici sono particolarmente minacciati per via della bio-crescita degli inquinanti organici persistenti;
+
+consapevoli che le misure adottate per lottare contro le emissioni di inquinanti organici persistenti contribuirebbero alla protezione dell’ambiente e della salute anche al di fuori della regione della Commissione economica delle Nazioni Unite per l’Europa, ivi compreso nell’Artico e nelle acque internazionali;
+
+determinate a prendere provvedimenti per anticipare, prevenire o ridurre al minimo le emissioni di inquinanti organici persistenti, in considerazione dell’applicazione dell’azione basata sul principio 15 della Dichiarazione di Rio sull’ambiente e lo sviluppo;
+
+ribadendo che gli Stati, in conformità allo Statuto delle Nazioni Unite del 26 giugno 1945[^ingress-2] ed ai princìpi del diritto internazionale, hanno il diritto sovrano di sfruttare le loro risorse in conformità alle loro politiche in materia di ambiente e di sviluppo, ed il dovere di fare in modo che le attività esercitate nei limiti della loro giurisdizione o sotto il loro controllo non causino danni all’ambiente in altri Stati o in regioni che non dipendono dalla giurisprudenza nazionale;
+
+notando la necessità di un’azione mondiale contro gli inquinanti organici persistenti, e ricordando che il programma Azione 21 considera al capitolo 19 la conclusione di accordi regionali per ridurre l’inquinamento atmosferico attraverso le frontiere a livello mondiale e ritiene che la Commissione economica delle Nazioni Unite per l’Europa dovrebbe far beneficiare le altre regioni del mondo della sua esperienza;
+
+riconoscendo che esistono legislazioni e regolamentazioni sub-regionali, regionali e mondiali, ivi compresi strumenti internazionali, che regolano la gestione dei rifiuti pericolosi, i loro movimenti attraverso le frontiere e la loro eliminazione, in modo particolare la Convenzione di Basilea del 22 marzo 1989[^ingress-3] sul controllo dei movimenti transfrontalieri di rifiuti pericolosi e loro eliminazione;
+
+considerando che le principali fonti di inquinamento atmosferico che contribuiscono all’accumulazione di inquinanti organici persistenti sono: l’uso di alcuni pesticidi, la lavorazione e l’uso di alcuni prodotti chimici e la formazione non intenzionale di alcune materie durante le operazioni d’incenerimento dei rifiuti, di combustione e di fabbricazione dei metalli nonché in provenienza da fonti mobili;
+
+consapevoli che sono disponibili tecniche e metodi di gestione per ridurre le emissioni di inquinanti organici persistenti nell’atmosfera;
+
+consapevoli della necessità di adottare misure regionali con un buon rendimento, per lottare contro l’inquinamento atmosferico;
+
+notando l’importante contributo del settore privato e del settore non governativo per quanto riguarda la conoscenza degli effetti legati agli inquinanti organici persistenti, i mezzi di sostituzione e le tecnologie anti-inquinamento disponibili e gli sforzi dispiegati per aiutare a ridurre le emissioni di inquinanti organici persistenti;
+
+consapevoli che le misure adottate per ridurre le emissioni di inquinanti organici persistenti non possono essere un modo di esercitare una discriminazione arbitraria o ingiustificabile, né un modo trasversale per limitare la concorrenza e gli scambi internazionali;
+
+in considerazione dei dati scientifici e tecnici disponibili sulle emissioni, i fenomeni atmosferici e gli effetti sulla salute e l’ambiente degli inquinanti organici persistenti, nonché i costi delle misure anti-inquinamento, e riconoscendo il bisogno di perseguire la cooperazione scientifica e tecnica al fine di poter meglio comprendere questi problemi;
+
+in considerazione delle misure relative agli inquinanti organici persistenti, già adottate da alcune Parti a livello nazionale e/o in applicazione di altre convenzioni internazionali,
+
+hanno convenuto quanto segue:
+
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-3]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+
+#### Art. 1
+
+**Definizioni**
+
+Ai fini del presente Protocollo:
+
+- 1\. Per «Convenzione» s’intende la Convenzione sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, adottata a Ginevra il 13 novembre 1979.
+- 2\. Per «EMEP» s’intende il Programma concertato di sorveglianza continua e di valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa.
+- 3\. Per «Organo esecutivo» s’intende l’organo esecutivo della Convenzione, istituito in attuazione del paragrafo uno dell’articolo 10 della Convenzione.
+- 4\. Per «Commissione» s’intende la Commissione economica delle Nazioni Unite per l’Europa.
+- 5\. Per «Parti» salvo che il contesto si opponga a tale interpretazione, s’intendono le «Parti al presente Protocollo».
+- 6\. Per «zona geografica delle attività dell’EMEP» s’intende la zona definita al paragrafo 4 dell’articolo primo del Protocollo alla Convenzione del 1979 sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo al finanziamento a lungo termine del Programma concertato di sorveglianza continua e di valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa (EMEP), adottato a Ginevra il 28 settembre 1984[^1-1].
+- 7\.
+
+  Per «inquinanti organici persistenti» (POP) s’intendono le sostanze organiche che:
+
+  - i) possiedono caratteristiche tossiche;
+  - ii) sono persistenti;
+  - ii) sono suscettibili di bio-accumulazione;
+  - iv) possono con facilità essere trasportate nell’atmosfera al di là delle frontiere per lunghe distanze e depositarsi lontano dal luogo di emissione;
+  - v) rischiano di avere rilevanti effetti nocivi per la salute e l’ambiente sia in prossimità che a grande distanza dalla fonte.
+
+- 8\.
+
+  Per «materia» s’intende una specie chimica unica, o più specie chimiche costituenti un gruppo particolare, per il fatto:
+
+  - a) che hanno proprietà analoghe o che sono emesse congiuntamente nell’ambiente; oppure
+  - b) che formano una miscela generalmente commercializzata in quanto articolo unico.
+
+- 9\. Per «emissione» s’intende lo scarico nell’atmosfera di una materia in provenienza da una fonte precisa o diffusa.
+- 10\. Per «fonte fissa» s’intende ogni fabbricato, struttura, dispositivo, impianto o attrezzatura che emette o può emettere direttamente o indirettamente nell’atmosfera un inquinante organico persistente.
+- 11\. Per «categoria di grandi fonti fisse» s’intende ogni categoria di fonti fisse di cui all’annesso VIII.
+- 12\.
+
+  Per «fonte fissa nuova», s’intende ogni fonte fissa che s’inizia a costruire o che s’intraprende di modificare sostanzialmente, allo scadere di un termine di due anni, decorrente dalla data d’entrata in vigore:
+
+  - i) del presente Protocollo, oppure
+  - ii) di un emendamento dell’annesso III o VII, se la fonte fissa rientra nell’ambito delle disposizioni del presente Protocollo in forza unicamente di detto emendamento. Spetta alle autorità nazionali competenti determinare se una modifica è sostanziale o meno, in considerazione di fattori come i vantaggi che questa modifica presenta per l’ambiente.
+
+[^1-1]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+
+#### Art. 2
+
+**Oggetto**
+
+Il presente Protocollo ha come oggetto di lottare contro gli scarichi, le emissioni e le fughe di inquinanti organici persistenti e di porvi fine.
+
+#### Art. 3
+
+**Obblighi fondamentali**
+
+<sup>1.</sup>
+
+Salvo deroga espressa ai sensi dell’articolo 4, ciascuna Parte prende misure efficaci per:
+
+- a) porre fine alla produzione ed all’utilizzazione delle materie enumerate all’annesso I, in conformità al regime di applicazione che vi è specificato;
+- b) i) fare in modo che quando le materie enumerate all’annesso I sono distrutte o eliminate, tale distruzione o eliminazione sia effettuata in modo ecologicamente razionale, tenendo conto delle legislazioni e regolamentazioni sub-regionali, regionali e mondiali rilevanti che regolamentano la gestione dei rifiuti pericolosi e la loro eliminazione, e, in particolare, della Convenzione di Basilea sul controllo dei movimenti transfrontalieri di rifiuti pericolosi e loro eliminazione,
+  - ii) fare in modo che l’eliminazione delle materie enumerate all’annesso I sia effettuata sul territorio nazionale in base a considerazioni ecologiche pertinenti,
+  - iii) fare in modo che il trasporto transfrontaliero delle materie enumerate all’annesso I si svolga in modo ecologicamente razionale, tenendo conto delle legislazioni e regolamentazioni sub-regionali, regionali e mondiali applicabili che disciplinano il movimento attraverso le frontiere dei rifiuti pericolosi, ed in particolare della Convenzione di Basilea sul controllo dei movimenti transfrontalieri di rifiuti pericolosi e loro eliminazione;
+
+- c) riservare le materie enumerate all’annesso II esclusivamente agli usi descritti, in conformità al regime di applicazione specificato nel presente annesso.
+
+<sup>2.</sup> Le disposizioni del capoverso b) del paragrafo 1 qui sopra entrano in vigore per ciascuna materia alla data in cui è posto fine alla sua produzione, o alla data in cui la sua utilizzazione cessa, se quest’ultima data è successiva.
+
+<sup>3.</sup> Nel caso delle materie enumerate all’annesso I, II o III, ciascuna Parte dovrebbe elaborare strategie appropriate per determinare gli articoli ancora utilizzati ed i rifiuti che contengono queste materie, e prendere misure appropriate affinché questi rifiuti e tali articoli, quando diverranno rifiuti, siano distrutti o eliminati in modo ecologicamente razionale.
+
+<sup>4.</sup> Ai fini dei paragrafi 1 a 3 qui sopra, l’interpretazione dei termini «rifiuti» ed «eliminazione» e dell’espressione «in modo ecologicamente razionale» deve essere compatibile con quella fornita nella Convenzione di Basilea sul controllo dei movimenti transfrontalieri di rifiuti pericolosi e loro eliminazione.
+
+<sup>5.</sup>
+
+Ciascuna Parte:
+
+- a) riduce le proprie emissioni annue totali di ciascuna delle materie enumerate all’annesso III rispetto al livello di emissioni nell’anno di riferimento stabilito in conformità al presente annesso, prendendo provvedimenti efficaci adattati alla sua particolare situazione;
+- b)
+
+  applica, non oltre i termini specificati all’annesso VI:
+
+  - i) le migliori tecnologie disponibili in considerazione dell’annesso V, per ciascuna fonte fissa nuova che entra a far parte di una categoria di grandi fonti fisse, per la quale le migliori tecnologie disponibili sono definite all’annesso V;
+  - ii) valori limite almeno altrettanto rigorosi di quelli specificati all’annesso IV riguardo ad ogni fonte fissa che entra a far parte di una categoria menzionata nel presente annesso, in considerazione dell’annesso V. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni che danno luogo complessivamente a livelli d’emissione equivalenti;
+  - iii) le migliori tecnologie disponibili, in considerazione dell’annesso V, per ogni fonte fissa esistente che entra a far parte di una categoria di grandi fonti fisse, per la quale le migliori tecnologie disponibili sono definite all’annesso V, nella misura in cui ciò è tecnicamente ed economicamente possibile. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni, che producono nell’insieme decurtazioni equivalenti delle emissioni;
+  - iv) valori limite almeno altrettanto rigorosi di quelli specificati nell’annesso IV riguardo a ciascuna fonte fissa esistente che entra a far parte di una categoria citata nel presente annesso, nella misura in cui ciò è tecnicamente ed economicamente possibile, in considerazione dell’annesso V. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni, che producono, nell’insieme, equivalenti decurtazioni delle emissioni;
+  - v) misure efficaci per lottare contro le emissioni provenienti da fonti mobili in considerazione dell’annesso VII.
+
+<sup>6.</sup> Nel caso di impianti di combustione domestici, gli obblighi enunciati ai sotto-capoversi i) e iii) del capoverso b) del paragrafo 5 qui sopra concernono tutte le fonti fisse di detta categoria considerate globalmente.
+
+<sup>7.</sup> Ogni Parte che dopo aver applicato il capoverso b) del paragrafo 5 qui sopra non riesce ad adeguarsi alle disposizioni del capoverso a) dello stesso paragrafo per una materia specificata all’annesso III, è esonerata dagli obblighi che ha contratto a titolo del capoverso a) del paragrafo 5 qui sopra per tale materia.
+
+<sup>8.</sup> Ciascuna Parte compila ed aggiorna gli inventari delle emissioni di materie enumerate all’annesso III, e riunisce le informazioni disponibili relative alla produzione ed alla vendita delle materie enumerate agli annessi I e II. A tal fine, le Parti situate nella zona geografica delle attività dell’EMEP utilizzano, come minimo, i metodi e la risoluzione temporale e spaziale specificate dall’Organo esecutivo dell’EMEP, mentre le Parti situate al di fuori di questa zona s’ispirano ai metodi elaborati nell’ambito del programma di lavoro dell’Organo esecutivo. Ciascuna Parte comunica tali informazioni in conformità alle disposizioni dell’articolo 9 qui sotto.
+
+#### Art. 4
+
+**Deroghe**
+
+<sup>1.</sup> Il paragrafo 1 dell’articolo 3 non si applica nel caso di quantitativi di una materia destinati ad essere utilizzati per ricerche di laboratorio o come campioni di riferimento.
+
+<sup>2.</sup>
+
+Una Parte può concedere una deroga ai capoversi a) e c) del paragrafo 1 dell’articolo 3 per una determinata materia; la deroga tuttavia non deve essere concessa o utilizzata in maniera opposta agli obiettivi del presente Protocollo ma unicamente ai fini ed alle condizioni di seguito enunciate:
+
+- a)
+
+  se si tratta di ricerche diverse da quelle di cui al paragrafo 1 qui sopra, con le seguenti condizioni:
+
+  - i) che nessun quantitativo apprezzabile di una materia possa nuocere all’ambiente nel momento dell’utilizzazione prevista e della successiva eliminazione,
+  - ii) che gli obiettivi ed i parametri di queste ricerche siano valutati ed approvati dalla Parte interessata,
+  - iii) che in caso di scarico di un quantitativo apprezzabile di una materia nell’ambiente, si ponga immediatamente fine alla deroga, che siano prese, se del caso, misure per attenuare gli effetti dello scarico e che siano riesaminate le misure di confinamento prima di riprendere le ricerche;
+
+- b)
+
+  ai fini della gestione di una situazione d’emergenza che minaccia la sanità pubblica, a condizione:
+
+  - i) che la Parte interessata non disponga di nessun altro mezzo appropriato per far fronte alla situazione,
+  - ii) che le misure adottate siano proporzionali all’ampiezza ed alla gravità della situazione d’emergenza,
+  - iii) che siano prese tutte le precauzioni richieste per proteggere la salute e l’ambiente, accertando che la materia non sia utilizzata al di fuori della zona geografica colpita dalla situazione di emergenza,
+  - iv) che la deroga sia concessa per una durata non superiore a quella della situazione di emergenza,
+  - v) che, una volta cessata la situazione di emergenza, gli stock di materia eventualmente sussistenti siano oggetto delle misure previste al capoverso b) del paragrafo 1 dell’articolo 3;
+
+- c)
+
+  ai fini di un’applicazione di minore rilevanza, ritenuta essenziale dalla parte interessata, a condizione:
+
+  - i) che la deroga sia concessa per una durata massima di cinque anni,
+  - ii) che non sia già stata concessa dalla Parte interessata si sensi del presente articolo,
+  - iii) che non vi siano mezzi di sostituzione soddisfacenti per l’uso previsto,
+  - iv) che la Parte interessata abbia preventivamente valutato le emissioni di materia avvenute dopo la deroga, nonché il loro contributo al volume totale di emissioni di detta materia proveniente dal territorio delle Parti,
+  - v) che siano prese le precauzioni richieste affinché le emissioni nell’ambiente siano ridotte al minimo,
+  - vi) che al termine del periodo di applicazione della deroga, gli stock di materia eventualmente sussistenti siano oggetto delle misure previste al capoverso b) del paragrafo 1 dell’articolo 3.
+
+<sup>3.</sup>
+
+Non più tardi di 90 giorni dopo che una deroga è stata concessa a titolo del paragrafo 2 qui sopra, ciascuna Parte fornisce come minimo le seguenti informazioni al segretariato:
+
+- a) denominazione chimica della materia oggetto della deroga;
+- b) oggetto della deroga concessa;
+- c) condizioni cui è subordinata la deroga;
+- d) durata della deroga;
+- e) persone o organizzazione che beneficiano della deroga; e
+- f) trattandosi di una deroga concessa a titolo dei capoversi a) e c) del paragrafo 2 di cui sopra, una stima delle emissioni di materia successive alla deroga, ed una valutazione del loro contributo al volume totale di emissioni di detta materia in provenienza dal territorio delle parti.
+
+<sup>4.</sup> Il segretariato comunica a tutte le Parti le informazioni ricevute a titolo del paragrafo 3 qui sopra.
+
+#### Art. 5
+
+**Scambio d’informazioni e di tecnologia**
+
+Le Parti, in conformità alle loro leggi, regolamentazioni e prassi, creano condizioni propizie per lo scambio d’informazioni e di tecnologie volte a ridurre la produzione e le emissioni di inquinanti organici persistenti ed a consentire l’elaborazione di misure di sostituzione di buon rendimento prendendo cura di promuovere, in modo particolare:
+
+- a) i contatti e la cooperazione fra le organizzazioni e le persone competenti le quali sia nel settore privato che nel settore pubblico sono in grado di fornire tecnologia, servizi di studio e di progettazione, materiale o mezzi finanziari;
+- b) lo scambio d’informazioni e l’accesso alle informazioni sulla messa a punto e l’uso di mezzi di sostituzione, nonché sulla valutazione dei rischi che tali sostituzioni comportano per la salute e l’ambiente, come pure lo scambio d’informazioni e l’accesso alle informazioni sui costi economici e sociali di tali sostituzioni;
+- c) la compilazione di liste delle loro autorità designate che svolgono attività analoghe nell’ambito d’altre istanze internazionali e l’aggiornamento periodico di tali liste;
+- d) lo scambio d’informazioni su attività svolte nel quadro di altre istanze internazionali.
+
+#### Art. 6
+
+**Sensibilizzazione del pubblico**
+
+Le Parti, in conformità alle loro leggi, regolamentazioni e prassi, prendono cura di promuovere la diffusione d’informazioni presso il grande pubblico, compresi i privati che utilizzano direttamente inquinanti organici persistenti, in particolare:
+
+- a) informazioni, comunicate fra l’altro per mezzo dell’etichettatura, sulla valutazione dei rischi ed i pericoli;
+- b) informazioni sulla riduzione dei rischi;
+- c) informazioni volte ad incoraggiare l’eliminazione degli inquinanti organici persistenti, oppure una loro ridotta utilizzazione, concernenti anche, se del caso, la lotta integrata contro gli insetti nocivi, la gestione integrata delle coltivazioni e gli impatti economici e sociali di tale eliminazione o riduzione;
+- d) informazioni sui mezzi di sostituzione permettenti di rinunciare all’uso di inquinanti organici persistenti, nonché una valutazione dei rischi che tali sostituzioni comportano per la salute e l’ambiente, ed informazioni sui loro impatti economici e sociali.
+
+#### Art. 7
+
+**Strategie, politiche, programmi, misure e informazioni**
+
+<sup>1.</sup> Ciascuna Parte, non oltre sei mesi dopo la data di entrata in vigore del presente Protocollo nei suoi confronti, elabora strategie, politiche e programmi per adempiere gli obblighi da essa stipulati in forza del presente Protocollo.
+
+<sup>2.</sup>
+
+Ciascuna Parte:
+
+- a) incoraggia il ricorso a tecnologie di gestione ecologicamente razionali ed economicamente applicabili ivi comprese prassi ecologicamente ottimali, per tutti gli aspetti dell’utilizzazione, della produzione, dello scarico, della trasformazione, della distribuzione, della manipolazione, del trasporto e di un nuovo trattamento delle materie disciplinate dal presente Protocollo e degli articoli manufatti, miscele o soluzioni contenenti tali materie;
+- b) incoraggia l’applicazione di altri programmi di gestione per ridurre le emissioni di inquinanti organici persistenti ivi compresi i programmi volontari e l’uso di strumenti economici;
+- c) prevede l’adozione di politiche e di misure supplementari adattate alla sua particolare situazione, comprese, se del caso, iniziative non regolamentari;
+- d) fa tutti gli sforzi economicamente possibili per ridurre i livelli delle sostanze oggetto del presente Protocollo, e che sono contenute sotto forma di contaminanti in altre materie, prodotti chimici o articoli manufatti, non appena la rilevanza della fonte è stata stabilita;
+- e) tiene conto nell’ambito dei suoi programmi di valutazione delle materie, delle caratteristiche specificate al paragrafo 1 della decisione 1998/2 dell’Organo esecutivo relativo alle informazioni da sottoporre ed alle procedure da seguire per aggiungere materie nell’annesso I, II o II, e in ogni emendamento relativo.
+
+<sup>3.</sup> Le Parti possono prendere misure più rigorose di quelle previste dal presente Protocollo.
+
+#### Art. 8
+
+**Ricerca, sviluppo e monitoraggio**
+
+Va data priorità alle ricerche relative alle materie giudicate più adatte per essere proposte ai fini dell’inclusione, in conformità alle procedure specificate al paragrafo 6 dell’articolo 14.
+
+Le Parti incoraggiano la ricerca-sviluppo, il monitoraggio e la cooperazione per quanto riguarda in modo particolare, ma non esclusivamente:
+
+- a) le emissioni, il trasporto a lunga distanza ed i livelli dei depositi come pure i loro modelli, i livelli esistenti negli ambienti biologici e non biologici, l’elaborazione di procedure per armonizzare i metodi pertinenti;
+- b) i mezzi di diffusione e gli inventari degli inquinanti in eco-sistemi rappresentativi;
+- c) i loro effetti sulla salute e l’ambiente, compresa la quantificazione di tali effetti;
+- d) le migliori tecnologie e prassi disponibili, ivi compreso nell’agricoltura, e le tecnologie e metodologie anti-emissioni allo stato utilizzate dalle Parti, o in fase di sviluppo;
+- e) i metodi che consentono di tenere conto di fattori socioeconomici ai fini della valutazione delle varie strategie di lotta;
+- f) un approccio fondato sugli effetti, sulla base di informazioni appropriate ivi comprese quelle ottenute a titolo dei capoversi a) ad e) qui sopra, circa i livelli di inquinanti nell’ambiente, le loro vie di diffusione ed i loro effetti sulla salute e l’ambiente, così come sono stati misurati o presentati in forma di modello, ai fini dell’elaborazione di future strategie di lotta ottimizzate che tengano conto anche dei fattori economici e tecnologici;
+- g) i metodi che consentono di valutare preventivamente le emissioni nazionali e di prevedere le future emissioni dei vari inquinanti organici persistenti e di determinare come tali stime e previsioni possano essere utilizzate per definire i futuri obblighi;
+- h) i livelli delle materie di cui nel presente Protocollo, contenute sotto forma di contaminanti in altre materie, prodotti chimici o articoli manufatti e la rilevanza di tali livelli per il trasporto a lunga distanza come pure le tecnologie che consentono di ridurre i livelli di questi contaminanti ed inoltre i livelli degli inquinanti organici persistenti prodotti durante il ciclo di vita del legno trattato al pentaclorofenolo.
+
+#### Art. 9
+
+**Informazioni da comunicare**
+
+<sup>1.</sup>
+
+Fatte salve le proprie leggi volte a preservare il carattere confidenziale dell’informazione commerciale:
+
+- a) ciascuna Parte, per il tramite del Segretario esecutivo della Commissione, comunica all’Organo esecutivo, ad intervalli regolari fissati dalle Parti riunite in seno all’Organo esecutivo, le misure che ha preso per applicare il presente Protocollo;
+- b) ogni Parte ubicata nella zona geografica delle attività dell’EMEP, comunica all’EMEP per il tramite del Segretario esecutivo della Commissione, ad intervalli regolari fissati dall’Organo direttivo dell’EMEP ed approvati dalle Parti in una sessione dell’Organo esecutivo, i livelli d’emissione degli inquinanti organici persistenti utilizzando a tal fine, come minimo, i metodi e la risoluzione temporale e spaziale specificata dall’Organo direttivo dell’EMEP. Le Parti ubicate fuori dalla zona geografica delle attività dell’EMEP mettono a disposizione dell’Organo esecutivo informazioni analoghe su richiesta. Inoltre ciascuna Parte fornisce informazioni sui livelli d’emissioni delle materie enumerate all’annesso III per l’anno di riferimento specificato in detto annesso.
+
+<sup>2.</sup> Le informazioni da comunicare ai sensi del capoverso a) del paragrafo 1 qui sopra, saranno conformi ad una decisione relativa alla presentazione ed al tenore delle comunicazioni, che le Parti adotteranno in una sessione dell’Organo esecutivo. I termini di tale decisione saranno riveduti, a seconda di come convenga, per determinare qualsiasi elemento da aggiungervi relativo alla presentazione o al tenore delle informazioni da comunicare.
+
+<sup>3.</sup> Prima di ogni sessione annuale dell’Organo esecutivo, l’EMEP fornirà tempestivamente informazioni sul trasporto a lunga distanza ed i depositi di inquinanti organici persistenti.
+
+#### Art. 10
+
+**Verifiche delle Parti alle sessioni dell’Organo esecutivo**
+
+<sup>1.</sup> Nelle sessioni dell’Organo esecutivo le Parti, in applicazione delle norme del capoverso a) del paragrafo 2 dell’articolo 10 della Convenzione, esaminano le informazioni fornite dalle Parti, dall’EMEP e dagli organi sussidiari, nonché i rapporti del Comitato d’applicazione di cui all’articolo 11 del presente Protocollo.
+
+<sup>2.</sup> Nelle sessioni dell’Organo esecutivo, le Parti verificano regolarmente l’avanzamento compiuto nell’esecuzione degli obblighi enunciati nel presente Protocollo.
+
+<sup>3.</sup> Nelle sessioni dell’Organo esecutivo, le Parti esaminano in che misura gli obblighi enunciati nel presente Protocollo sono sufficienti ed hanno l’efficienza richiesta. Per tali verifiche si terrà conto delle migliori informazioni scientifiche disponibili sugli effetti dei depositi di inquinanti organici persistenti, delle valutazioni dei progressi tecnologici, dell’evoluzione della situazione economica e della misura in cui gli obblighi relativi al livello delle emissioni sono rispettati. Le modalità, il metodo ed il calendario di queste verifiche sono stabiliti dalle Parti in una sessione dell’Organo esecutivo. La prima verifica di questo tipo deve essere completata non oltre tre anni dopo l’entrata in vigore del presente Protocollo.
+
+#### Art. 11
+
+**Rispetto degli obblighi**
+
+Il rispetto di ogni Parte degli obblighi da essa contratti in forza del presente Protocollo sarà oggetto di una verifica periodica. Il Comitato d’applicazione creato dalla decisione 1997/2 adottata dall’Organo esecutivo nella sua quindicesima sessione, effettua queste verifiche e fa rapporto alle Parti riunite in seno all’Organo esecutivo, in conformità alle norme dell’annesso di tale decisione e ad ogni relativo emendamento.
+
+#### Art. 12
+
+**Soluzione delle controversie**
+
+<sup>1.</sup> In caso di controversia fra due o più Parti riguardo all’interpretazione o all’applicazione del presente Protocollo, le Parti interessate faranno ogni sforzo per risolverla per via negoziale o con ogni altro mezzo pacifico di loro scelta. Le Parti alla controversia informano l’Organo esecutivo in merito alla controversia.
+
+<sup>2.</sup> Una Parte che è organizzazione d’integrazione economica regionale può formulare una dichiarazione in tal senso per quanto concerne l’arbitrato, in conformità alle procedure di cui al capoverso b) qui sopra.
+
+Nel ratificare, accettare o approvare il presente Protocollo o aderirvi, o in ogni successivo momento, una Parte che non è un’organizzazione d’integrazione economica regionale può dichiarare in uno strumento scritto presentato al Depositario che per ogni controversia relativa all’interpretazione o all’applicazione del Protocollo, essa riconosce, in quanto obbligatorio *ipso facto* e senza accordo speciale, uno dei due mezzi in appresso, oppure entrambi, nei confronti di ogni Parte che accetta lo stesso obbligo:
+
+- a) la presentazione della controversia alla Corte internazionale di Giustizia;
+- b) l’arbitrato, in conformità alle procedure che le Parti adotteranno non appena possibile in una sessione dell’Organo esecutivo, in un annesso dedicato all’arbitrato.
+
+<sup>3.</sup> La dichiarazione effettuata in applicazione del paragrafo 2 qui sopra, rimane in vigore fino a quando non scada in conformità ai propri termini, o fino allo scadere di un termine di tre mesi a decorrere dalla data in cui una notifica scritta recante revoca di tale dichiarazione è stata presentata al Depositario.
+
+<sup>4.</sup> Il deposito di una nuova dichiarazione, la notifica di revoca di una dichiarazione, oppure lo scadere di una dichiarazione non pregiudicano in alcun modo la procedura intentata dinanzi alla Corte internazionale di Giustizia o al tribunale arbitrale, a meno che le Parti alla controversia non stabiliscano diversamente di comune accordo.
+
+<sup>5.</sup> Salvo nel caso in cui le Parti ad una controversia abbiano accettato lo stesso mezzo di soluzione di cui al paragrafo 2, se allo scadere di un termine di dodici mesi a decorrere dalla data in cui una Parte ha notificato all’altra l’esistenza di una controversia fra di loro, le Parti interessate non hanno potuto risolvere la controversia con i mezzi previsti nel paragrafo 1 qui sopra, la controversia, su richiesta di una qualsiasi delle parti alla controversia, è sottoposta a conciliazione.
+
+<sup>6.</sup> Ai fini del paragrafo 5, è istituita una commissione di conciliazione. Essa è formata da membri designati in pari numero da ciascuna Parte interessata oppure, se le Parti alla procedura fanno causa comune, dall’insieme di queste Parti e da un presidente scelto di comune accordo dai membri in tal modo designati. La commissione pronuncia una raccomandazione che le Parti esaminano in buona fede.
+
+#### Art. 13
+
+**Annessi**
+
+Gli annessi del presente Protocollo sono parte integrante del Protocollo. Gli annessi V e VI hanno valore di raccomandazione.
+
+#### Art. 14
+
+**Emendamenti al Protocollo**
+
+<sup>1.</sup> Ogni Parte può proporre emendamenti al presente Protocollo.
+
+<sup>2.</sup> Le proposte di emendamenti sono sottoposte per iscritto al Segretario Esecutivo della Commissione che le comunica a tutte le Parti. Le Parti riunite in seno all’Organo esecutivo esaminano le proposte di emendamenti nella successiva sessione, purché il Segretario esecutivo le abbia trasmesse alle Parti con un anticipo di almeno 90 giorni.
+
+<sup>3.</sup> Gli emendamenti al presente Protocollo ed agli annessi I a IV, VI e VII sono adottati mediante consenso dalle Parti presenti ad una sessione dell’Organo esecutivo ed entrano in vigore, nei confronti delle Parti che li hanno accettati, il novantesimo giorno successivo alla data in cui due terzi delle Parti hanno depositato il loro strumento di accettazione di tali emendamenti presso il Depositario. Gli emendamenti entrano in vigore per ogni altra Parte il novantesimo giorno successivo alla data in cui tale Parte ha depositato il proprio strumento di accettazione degli emendamenti.
+
+<sup>4.</sup> Gli emendamenti agli annessi V e VII, sono adottati mediante consenso dalle Parti presenti ad una sessione dell’Organo esecutivo. Allo scadere di un termine di 90 giorni a decorrere dalla data in cui il Segretario esecutivo della Commissione ne ha informato tutte le Parti, ogni emendamento all’uno o all’altro di tali annessi entra in vigore per le Parti che non hanno presentato notifiche al Depositario in conformità con le norme del paragrafo 5 di seguito, a condizione che almeno sedici Parti non abbiano sottoposto tale notifica.
+
+<sup>5.</sup> Ogni Parte che non è in grado di approvare un emendamento agli annessi V o VII, ne notifica il Depositario per iscritto entro un termine di 90 giorni a decorrere dalla data in cui l’adozione dell’emendamento è stata comunicata. Il Depositario informa senza indugio tutte le Parti di aver ricevuto questa notifica. Una Parte può, in qualsiasi momento, sostituire con un’accettazione la sua precedente notifica; dopo il deposito di uno strumento di accettazione presso il Depositario, l’emendamento a questo annesso avrà effetto nei confronti della Parte.
+
+<sup>6.</sup>
+
+Se la proposta è volta a modificare l’annesso I, II o III nel senso di aggiungere una materia al presente Protocollo:
+
+- a) l’autore della proposta fornisce all’Organo esecutivo le informazioni specificate nella decisione 1998/2 dell’Organo esecutivo ed in ogni relativo emendamento; e
+- b) le Parti valutano la proposta in conformità alle procedure definite nella decisione 1998/2 dell’Organo esecutivo e in ogni emendamento relativo.
+
+<sup>7.</sup> Ogni decisione volta a modificare la decisione 1998/2 dell’Organo esecutivo è adottata per consenso dalle Parti riunite in seno all’Organo esecutivo, ed ha effetto 60 giorni dopo la data di adozione.
+
+#### Art. 15
+
+**Firma**
+
+<sup>1.</sup> Il presente Protocollo è aperto alla firma degli Stati membri della Commissione, nonché degli Stati dotati di statuto consultivo presso la Commissione in forza del paragrafo 8 della risoluzione 36 (IV) del Consiglio economico e sociale del 28 marzo 1947, e delle organizzazioni d’integrazione economica regionale costituite da Stati sovrani membri della Commissione aventi competenza a negoziare, concludere e applicare accordi internazionali nelle materie oggetto del Protocollo a condizione che gli Stati e le organizzazioni interessate siano parti alla Convenzione, ad Aarhus (Danimarca), il 24 e 25 giugno 1998 e successivamente presso la sede dell’Organizzazione delle Nazioni Unite a New York fino al 21 dicembre 1998.
+
+<sup>2.</sup> Nelle materie di loro competenza, queste organizzazioni d’integrazione economica regionale esercitano a proprio titolo i diritti, ed adempiono in proprio alle responsabilità conferite dal presente Protocollo ai loro Stati membri. In tal caso, gli Stati membri di dette organizzazioni non sono abilitati ad esercitare individualmente tali diritti.
+
+#### Art. 16
+
+**Ratifica, accettazione, approvazione ed adesione**
+
+<sup>1.</sup> Il presente Protocollo è sottoposto alla ratifica, accettazione o approvazione dei firmatari.
+
+<sup>2.</sup> Il presente Protocollo è aperto all’adesione degli Stati e delle organizzazioni che soddisfano i requisiti enunciati al paragrafo 1 dell’articolo 15, a decorrere dal 21 dicembre 1998.
+
+#### Art. 17
+
+**Depositario**
+
+Gli strumenti di ratifica, di accettazione, di approvazione o di adesione sono depositati presso il Segretario Generale dell’Organizzazione delle Nazioni Unite che esercita le funzioni di Depositario.
+
+#### Art. 18
+
+**Entrata in vigore**
+
+<sup>1.</sup> Il presente Protocollo entra in vigore il novantesimo giorno successivo alla data di deposito del sedicesimo strumento di ratifica, di accettazione, di approvazione o di adesione presso il Depositario.
+
+<sup>2.</sup> Per ciascun Stato o organizzazione di cui al paragrafo 1 dell’articolo 15, che ratifica, accetta o approva il presente Protocollo, o vi aderisce dopo il deposito del sedicesimo strumento di ratifica, di accettazione, di approvazione o di adesione, il Protocollo entra in vigore il novantesimo giorno successivo alla data di deposito da tale Parte del suo strumento di ratifica, di accettazione di approvazione o di adesione.
+
+#### Art. 19
+
+**Denuncia**
+
+In qualsiasi momento dopo la scadenza di un termine di cinque anni decorrente dalla data in cui il presente Protocollo è entrato in vigore per una Parte, la stessa può denunciare il Protocollo con una notifica scritta indirizzata al Depositario. La denuncia ha effetto il novantesimo giorno successivo alla data di ricevimento della notifica da parte del Depositario, oppure ad ogni altra data specificata nella notifica di denuncia.
+
+#### Art. 20
+
+**Testi autentici**
+
+L’originale del presente Protocollo, i cui testi in lingua francese, inglese e russa sono ugualmente autentici, sono depositati presso il Segretario generale dell’Organizzazione delle Nazioni Unite.
+
+*In fede di che,* i sottoscritti a tal fine debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Aarhus (Danimarca), il 24 giugno 1998. (Seguono le firme)
+
+Annesso I
+
+## Materie da eliminare
+
+Salvo diversa indicazione nel presente Protocollo, il presente annesso non si applica alle materie di seguito enumerate:
+
+- i) quando sono presenti nei prodotti sotto forma di contaminanti;
+- ii) quando sono presenti negli articoli fabbricati o utilizzati, alla data di applicazione; oppure
+- iii) quando sono utilizzate localmente come prodotti chimici intermedi per la lavorazione di una o più materie diverse e sono quindi chimicamente trasformate. Salvo diversa indicazione, ciascuno degli obblighi di seguito ha effetto alla data di entrata in vigore del Protocollo.
+
+<table>
+<tr><th>Materia</th><th colspan="2">Regime di applicazione</th></tr>
+<tr><th></th><th>Porre fine alla</th><th>Condizioni</th></tr>
+<tr><td>Aldrine CAS: 309-00-2</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Clordane CAS: 57-74-9</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Clordecone CAS: 143-50-0</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>DDT CAS: 50-29-3</td><td>produzione</td><td>1. Porre fine alla produzione di DDT nel termine di un anno dopo che un consenso generale si sia creato fra le Parti, per riconoscere che esistono mezzi di sostituzione soddisfacenti per assicurare la protezione della salute pubblica contro malattie come la malaria e l’encefalite. 2. Al fine di porre fine alla produzione di DDT il più presto possibile, le Parti determinano, non oltre un anno dopo la data di entrata in vigore del presente Protocollo e periodicamente in seguito, come necessario, ed in consultazione con l’Organizzazione mondiale della Sanità, l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura ed il Programma delle Nazioni Unite per l’ambiente, se esistono mezzi di sostituzione e se è possibile applicarli, e se del caso favoriscono la commercializzazione dei prodotti di sostituzione più sicuri ed economicamente fattibili.</td></tr>
+<tr><td></td><td>utilizzazione</td><td>Nessuna, salvo quelle specificate all’annesso II.</td></tr>
+<tr><td>Dieldrine CAS: 60-57-1</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Endrine CAS: 72-20-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Heptaclore CAS: 76-44-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna, salvo ai fini dell’utilizzazione da parte di personale abilitato per la lotta contro le formiche Solenopsis in bombole di derivazione industriale. Tale utilizzazione sarà oggetto di una rivalutazione nel quadro del presente Protocollo non oltre due anni dopo la data di entrata in vigore di questo strumento.</td></tr>
+<tr><td>Esabromobifenile CAS: 36355-01-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Esaclorobenzene CAS: 118-74-1</td><td>produzione</td><td>Nessuna, salvo per la produzione ai fini di un uso limitato specificato in una dichiarazione depositata da un Paese in transizione a livello economico all’atto della firma o dell’adesione.</td></tr>
+<tr><td></td><td>utilizzazione</td><td>Nessuna, salvo per un uso limitato specificato in una dichiarazione depositata da un Paese in transizione a livello economico all’atto della firma o dell’adesione.</td></tr>
+<tr><td>Mirex CAS: 2385-85-5</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>PCB<sup>a</sup></td><td>produzione</td><td>Nessuna, salvo per i Paesi in transizione a livello economico che debbono porre fine alla produzione il più presto possibile e non oltre il 31 dicembre 2005, e che avranno fatto sapere il loro intento di agire in questo senso in una dichiarazione depositata con il loro strumento di ratifica, di accettazione, di approvazione o di adesione.</td></tr>
+<tr><td></td><td>utilizzazione</td><td>Nessuna, salvo quelle specificate all’annesso II.</td></tr>
+<tr><td>Toxaphene CAS: 8001-35-2</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td colspan="3"><sup>a</sup> Le Parti convengono di rivalutare nel quadro del Protocollo, prima del 31 dic. 2004, la produzione e l’uso di policloroterfenili e di «ugilec».</td></tr>
+</table>
+
+Annesso II
+
+## Materie la cui utilizzazione deve essere limitata
+
+Salvo indicazione contraria nel presente Protocollo, il presente annesso non si applica alle sostanze enumerate qui sotto:
+
+- i) quando sono presenti nei prodotti sotto forma di contaminanti;
+- ii) quando sono presenti negli articoli fabbricati o utilizzati, alla data di applicazione; oppure
+- iii) quando sono utilizzate localmente come prodotti chimici intermedi per la lavorazione di una o più materie diverse e sono quindi chimicamente trasformate. Salvo diversa indicazione, ciascuno degli obblighi di seguito ha effetto alla data di entrata in vigore del Protocollo.
+
+<table>
+<tr><th>Materia</th><th colspan="2">Regime di applicazione</th></tr>
+<tr><th></th><th>Utilizzazioni consentite</th><th>Condizioni</th></tr>
+<tr><td>DDT CAS: 50–29–3</td><td>1. Per la protezione della sanità pubblica contro malattie come la malaria e l’encefalite.</td><td>1. Utilizzazione autorizzata soltanto nell’ambito di una strategia di lotta integrata contro gli insetti nocivi e soltanto nella quantità necessaria e durante un periodo di 12 mesi a contare dalla data della fine di produzione conformemente all’annesso I.</td></tr>
+<tr><td></td><td>2. Come prodotto chimico intermedio per la produzione di Dicofol.</td><td>2. Tale utilizzazione sarà oggetto di una rivalutazione entro il termine di due anni dalla data di entrata in vigore del presente Protocollo.</td></tr>
+<tr><td>HCH CAS: 608–73–1</td><td>Lo HCH tecnico (ossia lo HCH composto di una miscela di isomeri) non può essere utilizzato come prodotto intermedio nell’industria chimica.</td><td></td></tr>
+<tr><td></td><td>I prodotti nei quali l’isomero gamma dello HCH rappresenta almeno il 99 % (ossia il lindano, CAS: 58-89-9) possono essere utilizzati soltanto per i seguenti scopi:</td><td>Tutte le utilizzazioni regolamentari del lindano saranno oggetto di una rivalutazione al più tardi entro il termine di due anni dalla data di entrata in vigore del presente Protocollo.</td></tr>
+<tr><td></td><td>1. Trattamento delle sementi.</td><td></td></tr>
+<tr><td></td><td>2. Applicazioni sul suolo seguite immediatamente da un’incorporazione nello strato arabile.</td><td></td></tr>
+<tr><td></td><td>3. Trattamento di cura da parte di professionisti e trattamento industriale di legname segato, da opera e tondo.</td><td></td></tr>
+<tr><td></td><td>4. Insetticida topico utilizzato a scopi di sanità pubblica e veterinari.</td><td></td></tr>
+<tr><td></td><td>5. Applicazione su plantule di semenzaio per il tramite di mezzi diversi da quelli aerei, utilizzazione in piccola scala su aree a prato rasato, nonché per il materiale di riproduzione nei vivai e per la piante ornamentali all’interno e all’esterno degli edifici.</td><td></td></tr>
+<tr><td></td><td>6. Applicazioni interne nell’industria e nelle abitazioni.</td><td></td></tr>
+<tr><td>PCB <sup>a</sup></td><td>PCB utilizzati alla data di entrata in vigore o prodotti sino al 31 dicembre 2005 conformemente alle disposizioni dell’annesso I.</td><td>Le Parti intraprenderanno sforzi risoluti per: a) Porre fine al più presto, ma al più tardi il 31 dicembre 2010 oppure il 31 dicembre 2015 per i Paesi in transizione dal profilo economico, all’utilizzazione dei PCB identificabili negli apparecchi (trasformatori, condensatori o recipienti analoghi contenenti stock di liquidi residui) che contengono un volume superiore a 5 dm<sup>3</sup> di liquido il cui tenore in PCB è uguale o superiore allo 0,05 %;</td></tr>
+<tr><td>[tab]</td><td>[tab]</td><td>b) Per distruggere o decontaminare in modo ecologicamente razionale al più presto, ma al più tardi il 31 dicembre 2010 oppure il 31 dicembre 2015 per i Paesi in transizione dal profilo economico, tutti i PCB liquidi di cui al paragrafo a) e gli altri PCB liquidi, non contenuti negli apparecchi, il cui tenore è superiore allo 0,005 %; e</td></tr>
+<tr><td>[tab]</td><td>[tab]</td><td>c) Per decontaminare o eliminare in modo ecologicamente razionale gli apparecchi di cui al paragrafo a).</td></tr>
+<tr><td colspan="3"><sup>a</sup> Le Parti convengono di rivalutare nell’ambito del Protocollo e prima del 31 dic. 2004 la produzione e l’utilizzazione di policloroterfenili e di «ugilec».</td></tr>
+</table>
+
+Annesso III
+
+## Materie di cui al capoverso a) del paragrafo 5 dell’articolo 3 e anno di riferimento per l’obbligo
+
+<table>
+<tr><td>Materia</td><td>Anno di riferimento</td></tr>
+<tr><td>HAP <sup>a</sup></td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td>Diossine/furanni <sup>b</sup></td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td>Esaclorobenzene</td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td colspan="2"><sup>a</sup> Idrocarburi aromatici policlici (HAP): ai fini degli inventari delle emissioni, si utilizzeranno i seguenti quattro prodotti indicatori: benzo(a)pirene, benzo(b)fluorantene, benzo(k)fluorantene e indeno(1,2,3-cd)pirene.</td></tr>
+<tr><td colspan="2"><sup>b</sup> Diossine e furanni (PCDD/PCDF): le policlorodibenzo-p-diossine (PCDD) ed i policlorodibenzo-p-furanni (PCDF) sono composti aromatici triciclici composti da due anelli benzenici collegati da due atomi di ossigeno per i PCDD, e da un atomo di ossigeno per i PCDF, i cui atomi di ossigeno possono essere sostituiti da un numero di atomi di cloro da uno ad otto.</td></tr>
+</table>
+
+Annesso IV
+
+## Valori limite per i PCDD/PCDF provenienti da grandi fonti fisse
+
+### I. Introduzione
+
+\1. Una definizione delle diossine e dei furanni (PCDD/PCDF) è fornita all’annesso III del presente Protocollo.
+
+\2. I valori espressi in ng/m<sup>3</sup> o mg/m<sup>3</sup> di riferiscono alle condizioni normali (273,15 K, 101,3 kPa e gas secchi).
+
+\3. I valori limite corrispondono al funzionamento in servizio normale, ciò che include le operazioni di avviamento e di arresto, salvo se particolari valori limite sono stati definiti per queste situazioni.
+
+\4. Il prelievo e l’analisi di campioni di tutti gli inquinanti devono essere effettuati secondo le norme fissate dal Comitato europeo di normalizzazione (CEN) o dall’Organizzazione internazionale di normalizzazione (ISO), o in conformità ai metodi di riferimento corrispondenti del Canada o degli Stati Uniti. Nell’attesa che siano messe a punto le norme CEN o ISO, occorre applicare le norme nazionali.
+
+\5. Ai fini della verifica, l’interpretazione dei risultati delle misure rispetto al valore limite deve tenere conto anche dell’imprecisione del metodo di misurazione. Si considera che un valore limite è rispettato se il risultato della misurazione, dopo aver rettificato l’imprecisione del metodo applicato, non supera questo valore.
+
+\6. Le emissioni dei vari congeneri di PCDD/PCDF sono indicate in equivalente di tossicità (ET) mediante paragone con la tetracloro-2,3,7,8 dibenzoparadiossina (2,3,7,8-TCDD), secondo il sistema proposto dal Comitato della NATO sulle sfide della società moderna (CDSM) nel 1988.
+
+### II. Valori limite per le grandi fonti fisse
+
+\7. I seguenti valori limite che corrispondono ad una concentrazione di O<sub>2</sub> dell’11 per cento nei gas di combustione si applicano ai seguenti impianti di incenerimento:
+
+Rifiuti urbani solidi (incenerimento di oltre 3 t/h)
+
+0,1 ng ET/m<sup>3</sup>
+
+Rifiuti d’ospedale solidi (incenerimento di oltre 1 t/h)
+
+0,5 ng ET/m<sup>3</sup>
+
+Rifiuti pericolosi (incenerimento di oltre 1 t/h)
+
+0,2 ng ET/m<sup>3</sup>
+
+Annesso V*[^t-3]*
+
+## Migliori tecnologie disponibili per lottare contro le emissioni di inquinanti organici persistenti provenienti da grandi fonti fisse
+
+[^t-3]: Aggiornato dalla Dec. 2009/3 del 18 dic. 2009, in vigore dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+
+### I. Introduzione
+
+\1. Il presente annesso intende fornire alle Parti alla Convenzione indicazioni per determinare le migliori tecnologie disponibili e consentire loro di adempiere gli obblighi enunciati al paragrafo 5 dell’articolo 3 del Protocollo. Una descrizione più completa di tali tecnologie, così come alcuni consigli, sono forniti in un documento d’orientamento adottato dalle Parti in una sessione dell’Organo esecutivo e possono essere aggiornati, se necessario, con il consenso delle Parti riunite in seno all’Organo esecutivo.
+
+\2. Per «migliori tecnologie disponibili» (MTD) s’intende lo stadio di sviluppo più efficace ed avanzato delle attività e loro modalità di utilizzo, comprovante la capacità pratica di talune tecnologie di rappresentare la base dei valori limite d’emissione, al fine di evitare o (qualora ciò risulti impossibile) ridurre in generale le emissioni ed il loro impatto sull’ambiente:
+
+- – per «tecnologie» s’intende sia la tecnologia utilizzata, sia il modo in cui l’impianto è progettato, costruito, mantenuto, gestito e disattivato;
+- – per tecnologie «disponibili», s’intendono le tecnologie elaborate su scala in modo da applicarle nel settore industriale pertinente, a condizioni economicamente e tecnicamente vantaggiose in considerazione dei costi e dei vantaggi, a prescindere dal fatto che tali tecnologie siano o meno utilizzate o prodotte sul territorio della Parte interessata, purché l’operatore possa avervi accesso in condizioni ragionevoli;
+- – per «migliori» tecnologie s’intendono quelle più efficaci per ottenere un alto livello generale di protezione dell’ambiente.
+
+Al fine di determinare le migliori tecnologie disponibili, conviene tenere conto in generale, o nei casi particolari, dei fattori di seguito enumerati in considerazione dei costi e vantaggi probabili della misura considerata e dei princìpi di precauzione e di prevenzione:
+
+- – uso di una tecnologia poco inquinante;
+- – uso di sostanze meno pericolose;
+- – ricupero e riciclaggio di un gran numero di materie prodotte ed utilizzate durante le operazioni, e dei rifiuti;
+- – procedimenti, mezzi o metodi di gestione paragonabili, sperimentati con successo su scala industriale;
+- – progressi tecnologici ed evoluzione di cognizioni scientifiche;
+- – natura, effetti e volume delle emissioni in questione;
+- – date di immissione in servizio di impianti nuovi o già esistenti;
+- – termini richiesti per realizzare la migliore tecnologia disponibile;
+- – consumo di materie prime (compresa l’acqua) e tipo di materie prime utilizzate nel procedimento come pure la sua efficacia energetica;
+- – necessità di prevenire o ridurre al minimo l’impatto globale delle emissioni sull’ambiente ed i rischi d’inquinamento dell’ambiente;
+- – necessità di prevenire gli incidenti e di ridurre al minimo le loro conseguenze sull’ambiente.
+
+Il concetto di migliore tecnologia disponibile non intende stabilire una particolare tecnica o tecnologia, ma vuole tenere conto delle caratteristiche tecniche dell’impianto in questione, della sua situazione geografica e delle condizioni dell’ambiente a livello locale.
+
+\3. Le informazioni relative all’efficacia ed al costo delle misure di lotta contro le emissioni sono attinte dai documenti ricevuti ed esaminati dalla Squadra speciale e dal Gruppo di lavoro preparatorio per i POP. Salvo diversa indicazione, le tecnologie citate sono considerate come aventi una validità comprovata dall’esperienza pratica.
+
+\4. La nostra esperienza in materia di impianti e di prodotti nuovi che si avvalgono di tecnologie poco inquinanti, nonché in materia di adeguamento degli impianti esistenti, si perfeziona continuamente, di modo che sarà necessario sviluppare e modificare periodicamente il documento d’orientamento menzionato al paragrafo 1. Le migliori tecnologie disponibili per i nuovi impianti possono di norma essere applicate agli impianti esistenti, nella misura in cui si preveda un sufficiente periodo di transizione e misure di adattamento.
+
+\5. Sono elencate e descritte nel documento d’orientamento menzionato al paragrafo 1 alcune misure di lotta contro le emissioni, di costo ed efficienza variabili. La scelta delle misure applicabili in ciascun caso dipende da un certo numero di fattori, fra cui la situazione economica, l’infrastruttura e la capacità tecnologica, e se del caso le misure di lotta contro l’inquinamento atmosferico già in vigore.
+
+\6. I principali POP emessi da fonti fisse sono:
+
+- a) i policlorodibenzo-p-diossine/furanni (PCDD/PCDF);
+- b) l’esaclorobenzene (HCB);
+- c) gli idrocarburi aromatici policiclici (HAP).
+- [tab] Le definizioni corrispondenti sono fornite all’annesso III del presente Protocollo.
+
+### II. Grandi fonti fisse di emissioni di POP
+
+\7. Le emissioni di PCDD/CDF hanno per origine procedimenti termici che comprendono materie organiche e cloro; esse derivano da una combustione incompleta o da alcune reazioni chimiche. Le principali fonti fisse di PCDD/PCDF sono le seguenti:
+
+- a) l’incenerimento dei rifiuti, compreso il co-incenerimento;
+- b) i procedimenti metallurgici termici, ad esempio la produzione di alluminio e di altri metalli non ferrosi, di ferro e d’acciaio;
+- c) gli impianti di combustione producenti energia;
+- d) la combustione nei fornelli domestici;
+- e) alcuni procedimenti di produzione chimica che emettono prodotti intermedi e sottoprodotti.
+
+\8. Le grandi fonti fisse di emissione di HAP sono le seguenti:
+
+- a) riscaldamento domestico a legna o a carbone;
+- b) i fuochi all’aria aperta come i fuochi di incenerimento dei rifiuti, gli incendi di foresta ed il debbio dopo la raccolta;
+- c) codificazione e fabbricazione di anodi;
+- d) produzione di alluminio (con il procedimento Soederberg);
+- e) gli impianti di preservazione del legno, salvo per le Parti in cui questa categoria non contribuisce sostanzialmente alle emissioni totali di HAP (così come definite all’annesso III).
+
+\9. Le emissioni di HCB hanno per origine gli stessi procedimenti termici e chimici delle emissioni di PCDD/PCDF ed il meccanismo di formazione è analogo. Le grandi fonti d’emissioni di HCB sono le seguenti:
+
+- a) gli impianti d’incenerimento dei rifiuti, compresi gli impianti di co-incenerimento;
+- b) le fonti termiche delle industrie metallurgiche;
+- c) la combustione di combustibili clorati nei forni.
+
+Annesso VI
+
+## Termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili per le nuove fonti fisse e le fonti fisse esistenti
+
+I termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili sono i seguenti:
+
+- a) per le nuove fonti fisse: due anni dopo la data di entrata in vigore del presente Protocollo;
+- b) per le fonti fisse esistenti: otto anni dopo la data di entrata in vigore del presente Protocollo. Se del caso, questo termine potrà essere prorogato per particolari fonti fisse esistenti, in conformità al termine di ammortamento previsto al riguardo dalla legislazione nazionale.
+
+Annesso VII*[^t-4]*
+
+[^t-4]: Abrogato dalla Dec. 2009/3 del 18 dic. 2009, con effetto dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+
+Annesso VIII
+
+## Categorie di grandi fonti fisse
+
+### I. Introduzione
+
+La presente lista non comprende gli impianti o parti d’impianti utilizzati per attività di ricerca-sviluppo o per il collaudo di nuovi prodotti. Una descrizione più particolareggiata delle categorie è fornita all’Annesso V.
+
+### II. Lista delle categorie
+
+<table>
+<tr><td>Categoria</td><td>Descrizione della categoria</td></tr>
+<tr><td>1</td><td>Incenerimento ivi compreso il co-incenerimento, dei rifiuti urbani, pericolosi o d’ospedale o dei fanghi di depurazione.</td></tr>
+<tr><td>2</td><td>Officine di agglomeramento.</td></tr>
+<tr><td>3</td><td>Produzione di rame di prima e seconda fusione.</td></tr>
+<tr><td>4</td><td>Produzione d’acciaio.</td></tr>
+<tr><td>5</td><td>Fonderie utilizzate nell’industria dell’alluminio di seconda fusione.</td></tr>
+<tr><td>6</td><td>Combustione di combustibili fossili nei generatori di centrali elettriche e di riscaldamento e nelle caldaie industriali di potenza termica superiore a 50 MW<sub>th</sub>.</td></tr>
+<tr><td>7</td><td>Combustione nei fornelli domestici.</td></tr>
+<tr><td>8</td><td>Impianti di riscaldamento a legna di potenza termica inferiore a 50 MW<sub>th</sub>.</td></tr>
+<tr><td>9</td><td>Produzione di coke.</td></tr>
+<tr><td>10</td><td>Produzione di anodi.</td></tr>
+<tr><td>11</td><td>Produzione di alluminio secondo il procedimento Soederberg.</td></tr>
+<tr><td>12</td><td>Impianti di preservazione del legno, salvo per le Parti in cui la suddetta categoria di fonti non contribuisce in modo sostanziale al volume totale delle emissioni di HAP (come definiti all’annesso III).</td></tr>
+</table>
+
+Campo d’applicazione il 25 febbraio 2015**[^t-5]**
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria<sup>\*</sup></td><td>27 agosto</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Belgio</td><td>25 maggio</td><td>2006</td><td>23 agosto</td><td>2006</td></tr>
+<tr><td>Bulgaria</td><td>5 dicembre</td><td>2001</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Canada</td><td>18 dicembre</td><td>1998</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Ceca, Repubblica</td><td>6 agosto</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Cipro</td><td>2 settembre</td><td>2004</td><td>1° dicembre</td><td>2004</td></tr>
+<tr><td>Croazia</td><td>6 settembre</td><td>2007</td><td>5 dicembre</td><td>2007</td></tr>
+<tr><td>Danimarca</td><td>6 luglio</td><td>2001</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td>11 maggio</td><td>2005 A</td><td>9 agosto</td><td>2005</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>3 settembre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Francia</td><td>25 luglio</td><td>2003</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Germania</td><td>25 aprile</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Islanda</td><td>29 maggio</td><td>2003</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Italia</td><td>20 giugno</td><td>2006</td><td>18 settembre</td><td>2006</td></tr>
+<tr><td>Lettonia</td><td>28 ottobre</td><td>2004</td><td>26 gennaio</td><td>2005</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>23 dicembre</td><td>2003</td><td>22 marzo</td><td>2004</td></tr>
+<tr><td>Lituania</td><td>16 giugno</td><td>2006</td><td>14 settembre</td><td>2006</td></tr>
+<tr><td>Lussemburgo<sup>\*</sup></td><td>1° maggio</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Macedonia</td><td>1° novembre</td><td>2010 A</td><td>30 gennaio</td><td>2011</td></tr>
+<tr><td>Moldova</td><td>1° ottobre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>9 febbraio</td><td>2012 A</td><td>9 maggio</td><td>2012</td></tr>
+<tr><td>Norvegia<sup>\*</sup></td><td>16 dicembre</td><td>1999</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>23 giugno</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Regno Unito</td><td>2 settembre</td><td>2005</td><td>1° dicembre</td><td>2005</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>5 settembre</td><td>2003</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Serbia<sup>\*</sup></td><td>26 marzo</td><td>2012 A</td><td>24 giugno</td><td>2012</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>30 dicembre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Slovenia</td><td>15 novembre</td><td>2005</td><td>13 febbraio</td><td>2006</td></tr>
+<tr><td>Spagna<sup>\*</sup></td><td>15 febbraio</td><td>2011</td><td>16 maggio</td><td>2011</td></tr>
+<tr><td>Svezia</td><td>19 gennaio</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Svizzera</td><td>14 novembre</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Ungheria</td><td>7 gennaio</td><td>2004</td><td>6 aprile</td><td>2004</td></tr>
+<tr><td>Unione europea</td><td>30 aprile</td><td>2004</td><td>29 luglio</td><td>2004</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Per il regno in Europa.</td></tr>
+</table>
+
+[^t-5]: [RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664), [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575), [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586), [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307)e [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

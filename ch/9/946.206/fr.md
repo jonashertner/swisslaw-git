@@ -1,0 +1,220 @@
+---
+sr: "946.206"
+title: "Ordonnance du 7 août 1990 instituant des mesures économiques envers la République d'Irak"
+eli: "https://fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316"
+language: fr
+version: 2020-08-25
+adopted: 1990-08-07
+in_force: 1990-08-07
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20200825-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20200825/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance instituant des mesures économiques envers la République d’Irak****
+
+du 7 août 1990 (Etat le 25 août 2020)[^t-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 1991, en vigueur depuis le 12 mars 1991 ([RO 1991 784](https://fedlex.data.admin.ch/eli/oc/1991/784_784_784)).
+
+Le Conseil fédéral suisse,
+
+vu l’art. 2 de la loi fédérale du 22 mars 2002 sur l’application de sanctions internationales (loi sur les embargos)[^ingress-1],[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3959](https://fedlex.data.admin.ch/eli/oc/2002/628)).
+
+#### Art. 1
+
+**Interdiction de fournir des biens d’équipement militaires**[^1-1]
+
+<sup>1</sup> Sont interdits la fourniture, la vente et le courtage de biens d’armement à tous les destinataires en Irak à l’exception du gouvernement de l’Irak ou de la force multinationale au sens de la résolution 1546 (2004) du Conseil de sécurité.[^1-2]
+
+<sup>2</sup> L’al. 1 ne s’applique que dans la mesure où la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-3] et la loi du 13 décembre 1996 sur le contrôle des biens[^1-4] ainsi que leurs ordonnances d’application ne sont pas applicables.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2004, en vigueur depuis le 10 nov. 2004 ([RO 2004 4553](https://fedlex.data.admin.ch/eli/oc/2004/692)).
+[^1-3]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-4]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+
+#### Art. 1a
+
+**Biens culturels**[^1a-1]
+
+<sup>1</sup> Sont interdits l’importation, le transit, l’exportation, le commerce, le courtage, l’acquisition et toute autre forme de transfert de biens culturels irakiens qui ont été volés en République d’Irak, soustraits de la maîtrise de leurs ayants droits en Irak et contre la volonté de ces derniers ou exportés illégalement hors de la République d’Irak depuis le 2 août 1990.
+
+<sup>2</sup> L’exportation illégale d’un bien culturel irakien est présumée lorsqu’il est établi que celui-ci se trouvait en République d’Irak après le 2 août 1990.
+
+[^1a-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 2
+
+**Gel des avoirs et des ressources économiques[^2-2]**[^2-1]
+
+<sup>1</sup>
+
+Sont gelés les avoirs et les ressources économiques:
+
+- a. appartenant à ou sous contrôle de l’ancien gouvernement irakien ou d’entreprises ou de corporations sous le contrôle de celui-ci. Ne tombent pas sous le coup de ce gel les avoirs et les ressources économiques des représentations irakiennes en Suisse ainsi que les avoirs et les ressources économiques qui ont été déposés en Suisse par des entreprises ou des corporations publiques irakiennes ou qui leur ont été versés ou transférés après le 22 mai 2003;
+- b. appartenant à ou sous contrôle de hauts responsables de l’ancien gouvernement irakien ou des membres de leurs proches familles;
+- c. appartenant à ou sous contrôle d’entreprises ou de corporations elles-mêmes contrôlées par des personnes visées par la let. b ou gérées par des personnes agissant au nom ou selon les instructions de personnes visées par la let. b.[^2-3]
+
+<sup>2</sup> Les personnes physiques, entreprises et corporations visées par les mesures prévues à l’al. 1 sont mentionnées en annexe.[^2-4]
+
+<sup>3</sup> Le Secrétariat d’État à l’économie (SECO) peut, après avoir consulté les offices compétents du Département fédéral des affaires étrangères et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin de protéger des intérêts suisses ou de prévenir des cas de rigueur.[^2-5]
+
+[^2-1]: Nouvelle teneur selon le le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+[^2-4]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+
+#### Art. 2a
+
+**Déclarations obligatoires[^2a-2]**[^2a-1]
+
+<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs dont il faut admettre qu’ils tombent sous le coup du gel des avoirs défini à l’art. 2, al. 1, doivent les déclarer sans délai au SECO.[^2a-3]
+
+<sup>1bis</sup> Les personnes ou les institutions qui ont connaissance de ressources économiques dont il faut admettre qu’elles tombent sous le coup du gel des ressources économiques défini à l’art. 2, al. 1, doivent les déclarer sans délai au SECO.[^2a-4]
+
+<sup>2</sup> Sur la déclaration doivent figurer le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.[^2a-5]
+
+<sup>3</sup> Les personnes ou les institutions en possession de biens culturels au sens de l’art. 1*a* doivent les déclarer sans délai à l’Office fédéral de la culture.[^2a-6]
+
+[^2a-1]: Introduit par le ch. I de l’O du 9 avril 2003, en vigueur depuis le 10 avril 2003 ([RO 2003 864](https://fedlex.data.admin.ch/eli/oc/2003/159)).
+[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^2a-3]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^2a-4]: Introduit par le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+[^2a-5]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+[^2a-6]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 2b
+
+**Définitions**[^2b-1]
+
+Au sens de la présente ordonnance, on entend par:
+
+- a*.*[^2b-2] *avoirs*: tous les actifs financiers, y compris le numéraire, les chèques, les créances monétaires, les lettres de change, les mandats ou autres moyens de paiement, les dépôts, les créances et reconnaissances de dette, les titres et titres de dette, les certificats de titres, les obligations, les titres de créances, les options, les lettres de gage, les dérivés; les recettes d’intérêts, les dividendes ou autres revenus ou plus-values engendrés par des biens en capital; les crédits, les droits à des compensations, les cautions, les garanties d’exécution de contrats ou autres engagements financiers; les accréditifs, les connaissements, les transferts de propriété à fin de garantie, les documents de titrisation de parts à des fonds ou à d’autres ressources financières et tout autre instrument de financement des exportations;
+- b. *gel des avoirs:* le fait d’empêcher toute action permettant la gestion ou l’utilisation des avoirs, à l’exception des actions administratives normales effectuées par des instituts financiers;
+- c.[^2b-3] *ressources économiques:* les valeurs de quelque nature que ce soit, corporelles ou incorporelles, mobilières ou immobilières, en particulier les immeubles et les biens de luxe, à l’exception des avoirs au sens de la let. a;
+- d.[^2b-4] *gel des ressources économiques**:* toute action visant à empêcher leur utilisation afin d’obtenir des avoirs, des biens ou des services de quelque manière que ce soit, y compris par leur vente, leur location ou leur hypothèque.
+
+[^2b-1]: Introduit par le ch. I de l’O du 9 avril 2003, en vigueur depuis le 10 avril 2003 ([RO 2003 864](https://fedlex.data.admin.ch/eli/oc/2003/159)).
+[^2b-2]: Erratum du 25 août 2020 ([RO 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+[^2b-3]: Introduite par le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+[^2b-4]: Introduite par le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+
+#### Art. 2c
+
+**Mise en œuvre du gel des ressources économiques**[^2c-1]
+
+Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, p. ex. la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé des biens de luxe.
+
+[^2c-1]: Introduit par le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2581](https://fedlex.data.admin.ch/eli/oc/2004/309)).
+
+#### Art. 3
+
+**Prétentions en garantie**[^3-1]
+
+Il est interdit de satisfaire des prétentions en garantie à l’égard des personnes visées par les let. a à c lorsque ces prétentions se fondent sur un contrat ou une affaire dont l’exécution a été rendue directement ou indirectement impossible en raison des mesures décrétées par le Conseil de sécurité des Nations Unies dans le cadre de la Résolution 661 (1990) et des résolutions consécutives y relatives :
+
+- a. le gouvernement irakien;
+- b. les personnes physiques ou morales en Irak;
+- c. les personnes physiques ou morales agissant directement ou indirectement selon les instructions ou au profit de personnes visées par les let. a et b.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 4
+
+[^4-1]
+
+[^4-1]: Abrogé par le ch. I de l’O du 28 mai 2003, avec effet au 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 4a
+
+**Immunité**[^4a-1]
+
+Ne peuvent faire l’objet d’un séquestre ou d’une saisie :
+
+- a. le pétrole et les produits pétroliers irakiens exportés hors d’Irak aussi longtemps qu’ils sont en propriété irakienne;
+- b. les connaissements et autres documents ainsi que les paiements en rapport avec des exportations au sens de la let. a;
+- c. Le produit de la vente de pétrole et de produits pétroliers au sens de la let. a.
+
+[^4a-1]: Introduit par le ch. I de l’O du 26 juin 1996 ([RO 1996 1995](https://fedlex.data.admin.ch/eli/oc/1996/1995_1995_1995)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 4b
+
+[^4b-1]
+
+[^4b-1]: Introduit par le ch. I de l’O du 26 juin 1996 ([RO 1996 1995](https://fedlex.data.admin.ch/eli/oc/1996/1995_1995_1995)). Abrogé par le ch. I de l’O du 30 oct. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3959](https://fedlex.data.admin.ch/eli/oc/2002/628)).
+
+#### Art. 4c
+
+**Contrôles**[^4c-1]
+
+<sup>1</sup> Le SECO procède aux contrôles.
+
+<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+
+<sup>3</sup> Le contrôle des mesures en matière de biens culturels incombe à l’Office fédéral de la culture.[^4c-2]
+
+[^4c-1]: Introduit par le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3959](https://fedlex.data.admin.ch/eli/oc/2002/628)).
+[^4c-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 5
+
+**Dispositions pénales**[^5-1]
+
+<sup>1</sup> Quiconque aura violé les dispositions des art. 1, 1*a*, 2 ou 3 sera puni conformément à l’art. 9 de la loi sur les embargos.[^5-2]
+
+<sup>1bis</sup> Quiconque aura violé les dispositions de l’art. 2*a* sera puni conformément à l’art. 10 de la loi sur les embargos.[^5-3]
+
+<sup>2</sup> Le SECO est chargé de la poursuite et du jugement des infractions au sens des art. 9 et 10 de la loi sur les embargos; il peut ordonner des saisies ou des confiscations.
+
+<sup>3</sup> Les art. 11 et 14, al. 2, de la loi sur les embargos sont réservés.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3959](https://fedlex.data.admin.ch/eli/oc/2002/628)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+[^5-3]: Introduit par le ch. I de l’O du 9 avril 2003, en vigueur depuis le 10 avril 2003 ([RO 2003 864](https://fedlex.data.admin.ch/eli/oc/2003/159)).
+
+#### Art. 5a
+
+**Reprise automatique des listes des personnes physiques, entreprises et corporations visées par des sanctions**[^5a-1]
+
+Les listes relatives à des personnes physiques, entreprises et corporations que le Conseil de sécurité des Nations Unies ou son comité compétent a établies ou actualisées (annexe) sont reprises automatiquement. Les inscriptions figurant en annexe ne sont publiées ni au Recueil officiel du droit fédéral (RO), ni au Recueil systématique du droit fédéral (RS).
+
+[^5a-1]: Introduit par le ch. I de l’O du 26 juin 1996 ([RO 1996 1995](https://fedlex.data.admin.ch/eli/oc/1996/1995_1995_1995)). Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Abrogé par le ch. I de l’O du 28 mai 2003, avec effet au 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
+
+#### Art. 7
+
+**Dispositions transitoires et entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance s’applique à toutes les opérations qui, au moment de l’entrée en vigueur, n’étaient pas encore menées à terme par une exécution bilatérale.
+
+<sup>2</sup> La présente ordonnance entre en vigueur le 7 août 1990, à 11 heures.
+
+Annexe*[^t-2]*
+
+(art. 2, al. 2, et 5*a*)
+
+## Personnes physiques, entreprises et corporations visées par les sanctions financières
+
+[^t-2]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+**Remarque**
+
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et corporations désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annexu1-lvlu1-1]*.
+
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annexu1-lvlu1-2]*.
+
+[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1518 (Iraq) &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.

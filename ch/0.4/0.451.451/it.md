@@ -1,0 +1,292 @@
+---
+sr: "0.451.451"
+title: "Protocollo del 3 dicembre 1982 che modifica la Convenzione sulle zone umide d'importanza internazionale segnatamente come habitat degli uccelli acquatici e palustri"
+eli: "https://fedlex.data.admin.ch/eli/cc/1987/380_380_380"
+language: it
+version: 2016-07-11
+adopted: 1982-12-03
+in_force: 1986-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/380_380_380/20160711/it/xml/fedlex-data-admin-ch-eli-cc-1987-380_380_380-20160711-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/380_380_380/20160711/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Protocollo che modifica la Convenzione sulle zone umide d’importanza internazionale segnatamente come habitat degli uccelli acquatici e palustri
+
+RU **1987** 380
+
+Traduzione*[^t-1]*
+
+Conchiuso a Parigi il 3 dicembre 1982 Firmato dalla Svizzera il 30 maggio 1984[^t-2] Entrato in vigore per la Svizzera il 1° ottobre 1986
+
+(Stato 11 luglio 2016) (Stato 11 luglio 2016)
+
+[^t-1]: Dal testo originale francese.
+[^t-2]: Senza riserva di ratificazione.
+
+Le Parti contraenti,
+
+considerato che per l’efficacia della Convenzione sulle zone umide d’importanza internazionale segnatamente come habitat degli uccelli acquatici e palustri, conchiusa a Ramsar il 2 febbraio 1971[^ingress-1] (detta qui di seguito: «Convenzione») è indispensabile aumentare il numero delle Parti contraenti;
+
+coscienti che l’aumento delle versioni considerate autentiche promuoverebbe una più ampia partecipazione alla Convenzione;
+
+considerato inoltre che il testo della Convenzione non prevede una procedura di emendamento, per cui risulterebbe ardua qualsiasi modificazione del testo eventualmente giudicata necessaria;
+
+hanno convenuto quanto segue:
+
+[^ingress-1]: RS **0.451.145**
+
+#### Art. 1
+
+Tra gli articoli 10 e 11 della Convenzione è inserito l’articolo seguente:
+
+…*[^1-1]*
+
+[^1-1]: Il testo della mod. può essere consultato alla [RU 1987 380](https://fedlex.data.admin.ch/eli/oc/1987/380_380_380).
+
+#### Art. 2
+
+Alla locuzione «il testo inglese servendo da riferimento in caso di divergenze d’interpretazione», contenuta nella clausola seguente l’articolo 12 della Convenzione, è sostituita la locuzione «tutti i testi essendo parimenti autentici».
+
+#### Art. 3
+
+Il testo rettificato della versione originale francese della Convenzione è riprodotto in allegato al presente Protocollo.
+
+#### Art. 4
+
+Il presente Protocollo è aperto alla firma, dal 3 dicembre 1982, alla sede dell’UNESCO a Parigi.
+
+#### Art. 5
+
+<sup>1.</sup>
+
+Qualsiasi Stato cui si riferisce l’articolo 9 numero 2 della Convenzione può divenire Parte contraente del Protocollo mediante:
+
+- a) la firma senza riserva di ratificazione, accettazione o approvazione;
+- b) la firma con riserva di ratificazione, accettazione o approvazione, seguita dalla ratificazione, accettazione o approvazione;
+- c) l’adesione.
+
+<sup>2.</sup> La ratificazione, l’accettazione o l’approvazione sono effettuate mediante deposito di uno strumento di ratificazione, accettazione, approvazione o adesione presso il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (qui di seguito: «Depositario»).
+
+<sup>3.</sup> Qualsiasi Stato che diventa Parte contraente della Convenzione dopo l’entrata in vigore del presente Protocollo è considerato partecipe della Convenzione modificata dal presente Protocollo, a meno che non abbia espresso un’intenzione diversa al momento del deposito dello strumento cui si riferisce l’articolo 9 della Convenzione.
+
+<sup>4.</sup> Qualsiasi Stato che diventa Parte contraente del presente Protocollo senza essere partecipe della Convenzione è considerato Parte della Convenzione modificata dal presente Protocollo a contare dalla data dell’entrata in vigore di quest’ultimo per tale Stato.
+
+#### Art. 6
+
+<sup>1.</sup> Il presente Protocollo entra in vigore il primo giorno del quarto mese dopo la data in cui due terzi degli Stati partecipi della Convenzione, alla data in cui il presente Protocollo viene aperto alla firma, l’hanno firmato senza riserva di ratificazione, accettazione o approvazione oppure l’hanno ratificato, accettato, approvato ovvero vi hanno aderito.
+
+<sup>2.</sup> Per quanto concerne qualsiasi Stato che diventa Parte contraente al presente Protocollo dopo la data della sua entrata in vigore nel modo descritto nei numeri 1 e 2 dell’articolo 5, il Protocollo entra in vigore alla data della sua firma senza riserva di ratificazione, accettazione o approvazione oppure della ratificazione, accettazione, approvazione o adesione.
+
+<sup>3.</sup> Per quanto concerne qualsiasi Stato che diventa Parte contraente del presente Protocollo nel modo descritto nei numeri 1 e 2 dell’articolo 5 durante il periodo intercorrente tra l’apertura alla firma e l’entrata in vigore del presente Protocollo, quest’ultimo entra in vigore alla data stabilita nel numero I.
+
+#### Art. 7
+
+<sup>1.</sup> Il testo originale del presente Protocollo nelle lingue inglese e francese, ciascuna versione essendo parimente autentica, sarà affidato al Depositario, il quale ne rilascerà copie certificate conformi a tutte le Parti che l’avranno firmato o che avranno depositato uno strumento di adesione.
+
+<sup>2.</sup>
+
+Il Depositario informerà appena possibile tutte le Parti contraenti della Convenzione e tutti gli Stati, che hanno firmato il presente Protocollo o vi hanno aderito, su:
+
+- a) le firme del presente Protocollo;
+- b) il deposito di istrumenti di ratificazione, accettazione o approvazione del presente Protocollo;
+- c) il deposito di istrumenti di adesione al presente Protocollo;
+- d) la data d’entrata in vigore del presente Protocollo.
+
+<sup>3.</sup> Quando il presente Protocollo entrerà in vigore, il Depositario provvederà alla sua registrazione presso la Segreteria delle Nazioni Unite, giusta l’articolo 102 della Carta[^7-1].
+
+[^7-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+*In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Parigi il 3 dicembre 1982. (Seguono le firme)
+
+Allegato
+
+## Testo corretto della versione originale francese
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: La correzione concerne solo la versione francese ([RU 1987 380](https://fedlex.data.admin.ch/eli/oc/1987/380_380_380)).
+
+Campo d’applicazione l’11 luglio 2016**[^t-3]**
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>31 ottobre</td><td>1995 A</td><td>29 febbraio</td><td>1996</td></tr>
+<tr><td>Antigua e Barbuda</td><td>2 giugno</td><td>2005 A</td><td>2 ottobre</td><td>2005</td></tr>
+<tr><td>Argentina</td><td>4 maggio</td><td>1992</td><td>4 settembre</td><td>1992</td></tr>
+<tr><td>Armenia</td><td>6 luglio</td><td>1993 A</td><td>6 novembre</td><td>1993</td></tr>
+<tr><td>Australia</td><td>12 agosto</td><td>1983 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Austria</td><td>18 dicembre</td><td>1992</td><td>18 dicembre</td><td>1992</td></tr>
+<tr><td>Azerbaigian</td><td>21 maggio</td><td>2001 A</td><td>21 settembre</td><td>2001</td></tr>
+<tr><td>Bahamas</td><td>7 febbraio</td><td>1997</td><td>7 giugno</td><td>1997</td></tr>
+<tr><td>Bahrein</td><td>27 ottobre</td><td>1997 A</td><td>27 febbraio</td><td>1998</td></tr>
+<tr><td>Bangladesh</td><td>21 maggio</td><td>1992 A</td><td>21 settembre</td><td>1992</td></tr>
+<tr><td>Barbados</td><td>12 dicembre</td><td>2005 A</td><td>12 aprile</td><td>2006</td></tr>
+<tr><td>Belarus</td><td>10 settembre</td><td>1999 S</td><td>21 dicembre</td><td>1991</td></tr>
+<tr><td>Belize</td><td>22 aprile</td><td>1998 A</td><td>22 agosto</td><td>1998</td></tr>
+<tr><td>Benin</td><td>24 gennaio</td><td>2000 A</td><td>24 maggio</td><td>2000</td></tr>
+<tr><td>Bhutan</td><td>7 maggio</td><td>2012 A</td><td>7 settembre</td><td>2012</td></tr>
+<tr><td>Bolivia</td><td>27 giugno</td><td>1990 A</td><td>27 ottobre</td><td>1990</td></tr>
+<tr><td>Botswana</td><td>9 dicembre</td><td>1996 A</td><td>9 aprile</td><td>1997</td></tr>
+<tr><td>Brasile</td><td>24 maggio</td><td>1993 A</td><td>24 settembre</td><td>1993</td></tr>
+<tr><td>Bulgaria</td><td>27 febbraio</td><td>1986 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Burkina Faso</td><td>27 giugno</td><td>1990 A</td><td>27 ottobre</td><td>1990</td></tr>
+<tr><td>Burundi</td><td>5 giugno</td><td>2002 A</td><td>5 ottobre</td><td>2002</td></tr>
+<tr><td>Cambogia</td><td>23 giugno</td><td>1999 A</td><td>23 ottobre</td><td>1999</td></tr>
+<tr><td>Camerun</td><td>20 marzo</td><td>2006 A</td><td>20 luglio</td><td>2006</td></tr>
+<tr><td>Canada</td><td>2 giugno</td><td>1983 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Capo Verde</td><td>18 luglio</td><td>2005</td><td>18 novembre</td><td>2005</td></tr>
+<tr><td>Ceca, Repubblica</td><td>26 marzo</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Ciad</td><td>13 giugno</td><td>1990</td><td>13 ottobre</td><td>1990</td></tr>
+<tr><td>Cile</td><td>14 febbraio</td><td>1985</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Cina</td><td>31 marzo</td><td>1992 A</td><td>31 luglio</td><td>1992</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>9 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Cipro</td><td>11 luglio</td><td>2001 A</td><td>11 novembre</td><td>2001</td></tr>
+<tr><td>Colombia</td><td>18 giugno</td><td>1998 A</td><td>18 ottobre</td><td>1998</td></tr>
+<tr><td>Comore</td><td>9 febbraio</td><td>1995 A</td><td>9 giugno</td><td>1995</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>18 giugno</td><td>1998 A</td><td>18 ottobre</td><td>1998</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>18 gennaio</td><td>1996 A</td><td>18 maggio</td><td>1996</td></tr>
+<tr><td>Corea (Sud)</td><td>28 marzo</td><td>1997 A</td><td>28 luglio</td><td>1997</td></tr>
+<tr><td>Costa Rica</td><td>27 dicembre</td><td>1991</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Côte d'Ivoire</td><td>27 febbraio</td><td>1996 A</td><td>27 giugno</td><td>1996</td></tr>
+<tr><td>Cuba</td><td>12 aprile</td><td>2001</td><td>12 agosto</td><td>2001</td></tr>
+<tr><td>Danimarca</td><td>3 dicembre</td><td>1982 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Dominicana, Repubblica</td><td>15 maggio</td><td>2002 A</td><td>15 settembre</td><td>2002</td></tr>
+<tr><td>Ecuador</td><td>7 settembre</td><td>1990 A</td><td>7 gennaio</td><td>1991</td></tr>
+<tr><td>Egitto</td><td>9 settembre</td><td>1988 A</td><td>9 settembre</td><td>1988</td></tr>
+<tr><td>El Salvador</td><td>22 gennaio</td><td>1999</td><td>22 maggio</td><td>1999</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>29 agosto</td><td>2007 A</td><td>29 dicembre</td><td>2007</td></tr>
+<tr><td>Estonia</td><td>29 marzo</td><td>1994</td><td>29 luglio</td><td>1994</td></tr>
+<tr><td>Figi</td><td>11 aprile</td><td>2006 A</td><td>11 agosto</td><td>2006</td></tr>
+<tr><td>Filippine</td><td>8 luglio</td><td>1994 A</td><td>8 novembre</td><td>1994</td></tr>
+<tr><td>Finlandia</td><td>15 maggio</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Francia</td><td>26 luglio</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Gabon</td><td>30 dicembre</td><td>1986 F</td><td>30 aprile</td><td>1987</td></tr>
+<tr><td>Gambia</td><td>16 settembre</td><td>1996</td><td>16 gennaio</td><td>1997</td></tr>
+<tr><td>Georgia</td><td>7 febbraio</td><td>1997 A</td><td>7 giugno</td><td>1997</td></tr>
+<tr><td>Germania</td><td>13 gennaio</td><td>1983 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Ghana</td><td>22 febbraio</td><td>1988 A</td><td>22 giugno</td><td>1988</td></tr>
+<tr><td>Giamaica</td><td>7 ottobre</td><td>1997 A</td><td>7 febbraio</td><td>1998</td></tr>
+<tr><td>Giappone</td><td>26 giugno</td><td>1987 A</td><td>26 giugno</td><td>1987</td></tr>
+<tr><td>Gibuti</td><td>22 novembre</td><td>2002 A</td><td>22 marzo</td><td>2003</td></tr>
+<tr><td>Giordania</td><td>15 marzo</td><td>1984 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Grecia</td><td>2 giugno</td><td>1988 A</td><td>2 giugno</td><td>1988</td></tr>
+<tr><td>Grenada</td><td>22 maggio</td><td>2012</td><td>22 settembre</td><td>2012</td></tr>
+<tr><td>Guatemala</td><td>26 giugno</td><td>1990 A</td><td>26 ottobre</td><td>1990</td></tr>
+<tr><td>Guinea</td><td>18 novembre</td><td>1992 A</td><td>18 marzo</td><td>1993</td></tr>
+<tr><td>Guinea equatoriale</td><td>2 giugno</td><td>2003 A</td><td>2 ottobre</td><td>2003</td></tr>
+<tr><td>Guinea-Bissau</td><td>14 maggio</td><td>1990 A</td><td>14 maggio</td><td>1990</td></tr>
+<tr><td>Honduras</td><td>23 giugno</td><td>1993 A</td><td>23 ottobre</td><td>1993</td></tr>
+<tr><td>India</td><td>9 marzo</td><td>1984 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Indonesia</td><td>8 aprile</td><td>1992 A</td><td>8 agosto</td><td>1992</td></tr>
+<tr><td>Iran</td><td>29 aprile</td><td>1986 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Iraq</td><td>17 ottobre</td><td>2007 A</td><td>17 febbraio</td><td>2008</td></tr>
+<tr><td>Irlanda</td><td>15 novembre</td><td>1984 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Islanda</td><td>11 giugno</td><td>1986 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Isole Marshall</td><td>13 luglio</td><td>2004 A</td><td>13 novembre</td><td>2004</td></tr>
+<tr><td>Israele</td><td>12 novembre</td><td>1996</td><td>12 marzo</td><td>1997</td></tr>
+<tr><td>Italia</td><td>27 luglio</td><td>1987</td><td>27 luglio</td><td>1987</td></tr>
+<tr><td>Kazakstan</td><td>2 gennaio</td><td>2007 A</td><td>2 maggio</td><td>2007</td></tr>
+<tr><td>Kenya</td><td>5 giugno</td><td>1990 A</td><td>5 ottobre</td><td>1990</td></tr>
+<tr><td>Kirghizistan</td><td>12 novembre</td><td>2002 A</td><td>12 febbraio</td><td>2003</td></tr>
+<tr><td>Kuwait</td><td>5 maggio</td><td>2015 A</td><td>5 settembre</td><td>2015</td></tr>
+<tr><td>Lesotho</td><td>1° luglio</td><td>2004 A</td><td>1° novembre</td><td>2004</td></tr>
+<tr><td>Lettonia</td><td>25 luglio</td><td>1995 A</td><td>25 novembre</td><td>1995</td></tr>
+<tr><td>Libano</td><td>16 aprile</td><td>1999 A</td><td>16 agosto</td><td>1999</td></tr>
+<tr><td>Liberia</td><td>2 luglio</td><td>2003 A</td><td>2 novembre</td><td>2003</td></tr>
+<tr><td>Libia</td><td>5 aprile</td><td>2000 A</td><td>5 agosto</td><td>2000</td></tr>
+<tr><td>Liechtenstein</td><td>6 agosto</td><td>1991 A</td><td>6 dicembre</td><td>1991</td></tr>
+<tr><td>Lituania</td><td>20 agosto</td><td>1993 A</td><td>20 dicembre</td><td>1993</td></tr>
+<tr><td>Lussemburgo</td><td>15 aprile</td><td>1998</td><td>15 agosto</td><td>1998</td></tr>
+<tr><td>Madagascar</td><td>25 settembre</td><td>1998 A</td><td>25 gennaio</td><td>1999</td></tr>
+<tr><td>Malawi</td><td>14 novembre</td><td>1996 A</td><td>14 marzo</td><td>1997</td></tr>
+<tr><td>Malaysia</td><td>10 novembre</td><td>1994</td><td>10 marzo</td><td>1995</td></tr>
+<tr><td>Malta</td><td>30 settembre</td><td>1988 A</td><td>30 settembre</td><td>1988</td></tr>
+<tr><td>Marocco</td><td>3 ottobre</td><td>1985 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Mauritania</td><td>31 maggio</td><td>1989 A</td><td>31 maggio</td><td>1989</td></tr>
+<tr><td>Maurizio</td><td>30 maggio</td><td>2001</td><td>30 settembre</td><td>2001</td></tr>
+<tr><td>Messico</td><td>4 luglio</td><td>1986 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Moldova</td><td>20 giugno</td><td>2000 A</td><td>20 ottobre</td><td>2000</td></tr>
+<tr><td>Monaco</td><td>20 agosto</td><td>1997</td><td>20 dicembre</td><td>1997</td></tr>
+<tr><td>Mongolia</td><td>8 dicembre</td><td>1997 A</td><td>8 aprile</td><td>1998</td></tr>
+<tr><td>Montenegro</td><td>26 aprile</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Mozambico</td><td>3 agosto</td><td>2004 A</td><td>3 dicembre</td><td>2004</td></tr>
+<tr><td>Myanmar</td><td>17 novembre</td><td>2004 A</td><td>17 marzo</td><td>2005</td></tr>
+<tr><td>Namibia</td><td>23 agosto</td><td>1995 A</td><td>23 dicembre</td><td>1995</td></tr>
+<tr><td>Nepal</td><td>17 dicembre</td><td>1987 A</td><td>17 aprile</td><td>1988</td></tr>
+<tr><td>Nicaragua</td><td>30 luglio</td><td>1997 A</td><td>30 novembre</td><td>1997</td></tr>
+<tr><td>Niger</td><td>30 aprile</td><td>1987 F</td><td>30 agosto</td><td>1987</td></tr>
+<tr><td>Nigeria</td><td>2 ottobre</td><td>2000 A</td><td>2 febbraio</td><td>2001</td></tr>
+<tr><td>Norvegia</td><td>3 dicembre</td><td>1982 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Nuova Zelanda</td><td>9 febbraio</td><td>1987 F</td><td>9 febbraio</td><td>1987</td></tr>
+<tr><td>Oman</td><td>19 aprile</td><td>2013 A</td><td>19 agosto</td><td>2013</td></tr>
+<tr><td>Paesi Bassi</td><td>12 ottobre</td><td>1983</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>12 ottobre</td><td>1983</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Curaçao</td><td>12 ottobre</td><td>1983</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>12 ottobre</td><td>1983</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Sint Maarten</td><td>12 ottobre</td><td>1983</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Pakistan</td><td>13 agosto</td><td>1985 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Palau</td><td>18 ottobre</td><td>2002 A</td><td>18 febbraio</td><td>2003</td></tr>
+<tr><td>Panama</td><td>26 novembre</td><td>1990 A</td><td>26 novembre</td><td>1990</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>16 marzo</td><td>1993 A</td><td>16 luglio</td><td>1993</td></tr>
+<tr><td>Paraguay</td><td>7 giugno</td><td>1995</td><td>7 ottobre</td><td>1995</td></tr>
+<tr><td>Perù</td><td>30 marzo</td><td>1992</td><td>30 marzo</td><td>1992</td></tr>
+<tr><td>Polonia</td><td>8 febbraio</td><td>1984 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Portogallo</td><td>18 dicembre</td><td>1984 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Akrotiri e Dhekelia</td><td>28 giugno</td><td>2002 A</td><td>28 ottobre</td><td>2002</td></tr>
+<tr><td>Bermuda</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Gibilterra</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>gruppo Pitcairn (Ducie, Oeno, Henderson e Pitcairn)</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Guernesey</td><td>8 settembre</td><td>1998</td><td>8 gennaio</td><td>1999</td></tr>
+<tr><td>Isole Caimane</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Isole Falkland e dipendenze (Georgia del Sud e Isole Sandwich del Sud)</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Isole Turche e Caicos</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Jersey</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Montserrat</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Sant'Elena e dipendenze (Ascension e Tristan da Cunha)</td><td>19 aprile</td><td>1984</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Territorio britannico dell'Oceano Indiano</td><td>8 settembre</td><td>1998</td><td>8 gennaio</td><td>1999</td></tr>
+<tr><td>Rep. Centrafricana</td><td>5 dicembre</td><td>2005 A</td><td>5 aprile</td><td>2006</td></tr>
+<tr><td>Romania</td><td>21 maggio</td><td>1991 A</td><td>21 maggio</td><td>1991</td></tr>
+<tr><td>Ruanda</td><td>1° dicembre</td><td>2005 A</td><td>1° aprile</td><td>2006</td></tr>
+<tr><td>Russia</td><td>11 febbraio</td><td>1992 A</td><td>11 febbraio</td><td>1992</td></tr>
+<tr><td>Saint Lucia</td><td>19 febbraio</td><td>2002 A</td><td>19 giugno</td><td>2002</td></tr>
+<tr><td>Samoa</td><td>6 ottobre</td><td>2004 A</td><td>6 febbraio</td><td>2005</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>21 agosto</td><td>2006 A</td><td>21 dicembre</td><td>2006</td></tr>
+<tr><td>Seicelle</td><td>22 novembre</td><td>2004 A</td><td>22 marzo</td><td>2005</td></tr>
+<tr><td>Senegal</td><td>15 maggio</td><td>1985</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Sierra Leone</td><td>13 dicembre</td><td>1999 A</td><td>13 aprile</td><td>2000</td></tr>
+<tr><td>Siria</td><td>5 marzo</td><td>1998 A</td><td>5 luglio</td><td>1998</td></tr>
+<tr><td>Slovacchia</td><td>31 marzo</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>13 aprile</td><td>2004 A</td><td>13 agosto</td><td>2004</td></tr>
+<tr><td>Spagna</td><td>27 maggio</td><td>1987</td><td>27 maggio</td><td>1987</td></tr>
+<tr><td>Sri Lanka</td><td>15 giugno</td><td>1990 A</td><td>15 ottobre</td><td>1990</td></tr>
+<tr><td>Stati Uniti</td><td>18 dicembre</td><td>1986</td><td>18 dicembre</td><td>1986</td></tr>
+<tr><td>Sudafrica</td><td>26 maggio</td><td>1983 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Sudan</td><td>7 gennaio</td><td>2005 A</td><td>7 maggio</td><td>2005</td></tr>
+<tr><td>Sudan del Sud</td><td>10 giugno</td><td>2013 A</td><td>10 giugno</td><td>2013</td></tr>
+<tr><td>Svezia</td><td>3 maggio</td><td>1984 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Svizzera</td><td>30 maggio</td><td>1984 F</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Tagikistan</td><td>18 luglio</td><td>2001 A</td><td>18 novembre</td><td>2001</td></tr>
+<tr><td>Tanzania</td><td>13 aprile</td><td>2000 A</td><td>13 agosto</td><td>2000</td></tr>
+<tr><td>Thailandia</td><td>13 maggio</td><td>1998</td><td>13 settembre</td><td>1998</td></tr>
+<tr><td>Togo</td><td>4 luglio</td><td>1995 A</td><td>4 novembre</td><td>1995</td></tr>
+<tr><td>Trinidad e Tobago</td><td>21 dicembre</td><td>1992 A</td><td>21 aprile</td><td>1993</td></tr>
+<tr><td>Tunisia</td><td>15 maggio</td><td>1987 A</td><td>15 maggio</td><td>1987</td></tr>
+<tr><td>Turchia</td><td>13 luglio</td><td>1994 A</td><td>13 novembre</td><td>1994</td></tr>
+<tr><td>Turkmenistan</td><td>3 marzo</td><td>2009 A</td><td>3 luglio</td><td>2009</td></tr>
+<tr><td>Ucraina</td><td>15 luglio</td><td>1997 S</td><td>11 febbraio</td><td>1977</td></tr>
+<tr><td>Uganda</td><td>4 marzo</td><td>1988</td><td>4 luglio</td><td>1988</td></tr>
+<tr><td>Ungheria</td><td>28 agosto</td><td>1986 A</td><td>1° ottobre</td><td>1986</td></tr>
+<tr><td>Uzbekistan</td><td>8 ottobre</td><td>2001 A</td><td>8 febbraio</td><td>2002</td></tr>
+<tr><td>Venezuela</td><td>23 novembre</td><td>1988 A</td><td>23 novembre</td><td>1988</td></tr>
+<tr><td>Vietnam</td><td>20 settembre</td><td>1988 A</td><td>20 gennaio</td><td>1989</td></tr>
+<tr><td>Yemen</td><td>8 ottobre</td><td>2008 A</td><td>8 febbraio</td><td>2008</td></tr>
+<tr><td>Zambia</td><td>28 agosto</td><td>1991 A</td><td>28 dicembre</td><td>1991</td></tr>
+<tr><td>Zimbabwe</td><td>3 gennaio</td><td>2013 A</td><td>3 maggio</td><td>2013</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito Internet dell’UNESCO: www.unesco.org/new/en/unesco/ o richiesti alla Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Dal 1° ott. 1986 al 30 giu. 1997 il Prot. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 9 giu. 1997, il Prot. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+</table>
+
+[^t-3]: [RU 1987 380](https://fedlex.data.admin.ch/eli/oc/1987/380_380_380)[1008](https://fedlex.data.admin.ch/eli/oc/1987/1008_1008_1008), [1989 185](https://fedlex.data.admin.ch/eli/oc/1989/185_185_185), [1990 1193](https://fedlex.data.admin.ch/eli/oc/1990/1193_1193_1193), [1991 969](https://fedlex.data.admin.ch/eli/oc/1991/969_969_969), [2004 3247](https://fedlex.data.admin.ch/eli/oc/2004/419), [2005 1523](https://fedlex.data.admin.ch/eli/oc/2005/235), [2006 4253](https://fedlex.data.admin.ch/eli/oc/2006/645), [2008 2175](https://fedlex.data.admin.ch/eli/oc/2008/316), [2010 3637](https://fedlex.data.admin.ch/eli/oc/2010/531), [2013 2299](https://fedlex.data.admin.ch/eli/oc/2013/480), [2016 2763](https://fedlex.data.admin.ch/eli/oc/2016/448). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

@@ -1,0 +1,1246 @@
+---
+sr: "415.011"
+title: Ordinanza del DDPS del 25 maggio 2012 su programmi e progetti per la promozione dello sport (OPPSpo)
+short: OPPSpo
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
+language: it
+version: 2021-01-01
+adopted: 2012-05-25
+in_force: 2012-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DDPS su programmi e progetti per la promozione dello sport
+
+(OPPSpo)
+
+del 25 maggio 2012 (Stato 1° gennaio 2021)
+
+Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
+
+vista l’ordinanza del 23 maggio 2012[^ingress-1] sulla promozione dello sport (OPSpo),
+
+ordina:
+
+[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+
+## Capitolo 1: Oggetto
+
+#### Art. 1
+
+La presente ordinanza disciplina:
+
+- a. nel programma «Gioventù e Sport» (G+S): lo svolgimento delle offerte G+S e delle offerte per la formazione dei quadri G+S nonché la concessione di contributi agli organizzatori di tali offerte;
+- b. nel programma Sport per gli adulti Svizzera (ESA): lo svolgimento delle offerte per la formazione dei quadri e la concessione dei contributi agli organizzatori della formazione dei quadri;
+- c. i costi computabili nella concessione di contributi a manifestazioni e congressi sportivi internazionali;
+- d. le condizioni per la concessione di contributi a impianti sportivi di importanza nazionale.
+
+## Capitolo 2: Gioventù + Sport
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 2
+
+**Definizioni**
+
+<sup>1</sup>
+
+Nella presente ordinanza, s’intende per:
+
+- a. *bambini*: partecipanti a G+S fino alla fine dell’anno civile in cui compiono 10 anni;
+- b. *giovani*: partecipanti a G+S a partire dall’inizio dell’anno civile in cui compiono 10 anni;
+- c.[^2-1] *...*
+- d. *scuole*: la scuola obbligatoria secondo l’articolo 48 OPSpo e le scuole di livello secondario II;
+- e. *attività:* un’occupazione singola, limitata nel tempo, di carattere sportivo (lezione, allenamento, escursione o competizione).
+
+[^2-1]: Abrogata dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+#### Art. 3
+
+**Discipline sportive e specialità[^3-1]**
+
+<sup>1</sup> Le offerte G+S possono essere svolte nelle discipline sportive elencate nell’allegato 1.
+
+<sup>1bis</sup> L’allegato 1*a* stabilisce quali discipline sportive si suddividono in quali specialità.[^3-2]
+
+<sup>2</sup> La disciplina sportiva allround è riservata esclusivamente alle offerte destinate ai bambini.
+
+<sup>3</sup> Le attività in discipline sportive di cui all’articolo 6 capoverso 2 OPSpo sono vietate in un’offerta G+S. Nei corsi e campi G+S della disciplina sportiva canoismo sono autorizzate le discese in acque vive, comprese quelle con grado di difficoltà superiore al II ai sensi dell’allegato 3 dell’ordinanza del 30 gennaio 2019[^3-3] sulle attività a rischio, se tali attività sono dirette da persone con riconoscimento valido di monitore G+S canoismo che hanno frequentato un perfezionamento specifico.[^3-4]
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^3-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
+[^3-4]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+### Sezione 2: Corsi G+S
+
+#### Art. 4
+
+**Definizione**
+
+Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmente:
+
+- a. sotto la guida di monitori G+S;
+- b. in un gruppo stabile;
+- c. per un periodo minimo di tempo prestabilito.
+
+#### Art. 5
+
+**Numero dei partecipanti e grandezza dei gruppi**
+
+<sup>1</sup> Un corso G+S deve contare almeno tre bambini o giovani in età G+S. ...[^5-1]
+
+<sup>1bis</sup> Se le attività di un corso sono svolte in sottogruppi, ciascun sottogruppo deve contare almeno tre bambini o giovani in età G+S.[^5-2]
+
+<sup>2</sup> La grandezza dei gruppi è stabilita nell’allegato 2.
+
+[^5-1]: Per. abrogato dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^5-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 6
+
+**Direzione**
+
+<sup>1</sup> Il numero minimo di monitori G+S per i corsi G+S è stabilito nell’allegato 2.
+
+<sup>2</sup> Se le attività di un corso sono svolte in sottogruppi, ciascun sottogruppo deve essere diretto da un monitore G+S che dispone di tutti i riconoscimenti necessari per lo svolgimento delle corrispondenti attività G+S.[^6-1]
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 7
+
+**Campi di allenamento**
+
+<sup>1</sup> Per completare le attività svolte nei corsi G+S possono essere svolti campi di allenamento.
+
+<sup>2</sup> Un campo di allenamento comprende bambini o giovani che partecipano a uno o più corsi dello stesso organizzatore. Tutti i bambini e giovani devono essere attivi in uno dei corsi dell’organizzatore in fase di svolgimento.
+
+<sup>3</sup> Per ogni giorno di campo di allenamento si devono svolgere almeno due unità di attività G+S, una al mattino e una al pomeriggio, o una al mattino e una alla sera, o una al pomeriggio e una alla sera. In totale le attività G+S devono durare almeno quattro ore.[^7-1]
+
+<sup>4</sup> I giorni di arrivo e partenza contano insieme come un giorno di campo di allenamento se in questi due giorni si svolgono complessivamente almeno quattro ore di attività G+S.
+
+<sup>5</sup> I bambini e i giovani che partecipano soltanto al campo di allenamento non sono considerati ai fini del calcolo dei contributi.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del DDPS del 5 set. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)).
+
+#### Art. 8
+
+**Durata dei corsi e delle attività dei gruppi di utenti 1, 4 e 5**[^8-1]
+
+<sup>1</sup> La durata minima di un corso G+S dei gruppi di utenti 1, 4 e 5 è di 15 settimane, la durata massima di un anno.
+
+<sup>2</sup> Un corso comprende almeno 15 allenamenti, suddivisi su almeno 12 settimane.
+
+<sup>3</sup> Se un corso dura più di sei mesi, il numero minimo di allenamenti di cui al capoverso 2 deve essere svolto in un periodo massimo di sei mesi.
+
+<sup>4</sup> Gli allenamenti nel gruppo di utenti 1 e 4 devono durare almeno 60 minuti, nel gruppo di utenti 5 almeno 45 minuti.
+
+<sup>5</sup> Se in un corso del gruppo di utenti 4 o 5 si svolgono esclusivamente attività in discipline sportive attribuite al gruppo di utenti 2, a tale corso si applica l’articolo 9.
+
+<sup>6</sup> L’organizzatore può computare, ai fini della concessione dei contributi, al massimo un’attività di 90 minuti per corso e giorno. Nei campi di allenamento il massimo è di 300 minuti al giorno.
+
+<sup>7</sup> In casi eccezionali l’Ufficio federale dello sport (UFSPO) può autorizzare corsi più brevi e un numero inferiore di allenamenti.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 9
+
+**Durata dei corsi e delle attività del gruppo di utenti 2**[^9-1]
+
+<sup>1</sup> La durata minima di un corso G+S del gruppo di utenti 2 è di almeno 45 ore/partecipante.
+
+<sup>2</sup> Le ore/partecipante sono calcolate sulla base del numero totale delle ore di allenamento di tutti i partecipanti nell’ambito del corso.
+
+<sup>3</sup> Un’attività dura almeno 60 minuti. Ai fini della concessione dei contributi l’organizzatore può computare al massimo 300 minuti per ogni attività.
+
+<sup>4</sup> Sull’arco di cinque mesi l’organizzatore deve svolgere in almeno cinque settimane cinque attività distinte.
+
+<sup>5</sup> Se in un corso del gruppo di utenti 2 si svolgono più discipline sportive in parte attribuite al gruppo di utenti 1, a tale corso si applica l’articolo 8.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 10
+
+**Contenuti dei corsi**
+
+<sup>1</sup> La formazione dei bambini e dei giovani nei corsi G+S si svolge su più livelli, secondo principi conformi alla pedagogia infantile e giovanile e in funzione delle peculiarità della disciplina sportiva.
+
+<sup>2</sup> L’UFSPO definisce i contenuti della formazione.
+
+### Sezione 3: Campi G+S
+
+#### Art. 11
+
+**Vita comunitaria al campo**
+
+<sup>1</sup> Un campo G+S comprende attività nelle discipline sportive G+S svolte in un gruppo che fa vita comunitaria al campo sotto la guida di monitori G+S.
+
+<sup>2</sup> La vita comunitaria al campo comprende esperienze di gruppo e il pernottamento comune in un luogo determinato.
+
+<sup>3</sup> I campi del gruppo di utenti 4 organizzati dai Comuni e che si rivolgono innanzitutto a bambini e giovani dei Comuni stessi, possono essere svolti anche senza pernottamento.
+
+<sup>4</sup> I campi cui partecipano soltanto bambini possono essere svolti anche senza pernottamento.
+
+#### Art. 12
+
+**Direzione**
+
+Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S riconosciuti nella corrispondente disciplina sportiva o specialità e per il gruppo di destinatari «bambini» o «giovani».
+
+#### Art. 13
+
+**Numero di partecipanti e grandezza dei gruppi**
+
+<sup>1</sup> A un campo G+S devono partecipare almeno 12 bambini o giovani in età G+S.
+
+<sup>2</sup> La grandezza dei gruppi e il numero minimo di monitori G+S sono stabiliti nell’allegato 2.
+
+#### Art. 14
+
+**Durata del campo ed estensione minima delle attività G+S**
+
+<sup>1</sup> Un campo deve durare almeno quattro giorni consecutivi.
+
+<sup>2</sup> Un campo del gruppo di utenti 3 può durare tre giorni se nella medesima offerta G+S si svolge anche un campo secondo il capoverso 1.
+
+<sup>3</sup> Per ogni giorno di campo si devono svolgere almeno due unità di attività G+S, una al mattino e una al pomeriggio, o una al mattino e una alla sera, o una al pomeriggio e una alla sera. In totale le attività G+S devono durare almeno quattro ore.[^14-1]
+
+<sup>4</sup> Il giorno dell’arrivo e il giorno della partenza sono considerati insieme come un giorno intero di campo se in questi due giorni si svolgono complessivamente almeno quattro ore di attività G+S.
+
+<sup>5</sup> Il capoverso 4 non si applica ai campi del gruppo di utenti 4 organizzati dai Comuni o ai campi con i bambini se sono svolti senza pernottamento in comune.
+
+<sup>6</sup> In un campo che dura più di quattro giorni vi può essere un giorno senza allenamenti. Questo non viene considerato ai fini del calcolo dei contributi.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del DDPS del 5 set. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)).
+
+#### Art. 15
+
+**Contenuti dei campi**
+
+<sup>1</sup> Le attività sportive G+S vanno insegnate secondo principi conformi alla pedagogia infantile e giovanile e in funzione delle peculiarità della disciplina sportiva.
+
+<sup>2</sup> L’UFSPO stabilisce i contenuti della formazione.
+
+### Sezione 4: ...
+
+#### Art. 16 a 20
+
+[^1620-1]
+
+[^1620-1]: Abrogati dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+
+### Sezione 5: Formazione dei quadri in generale
+
+(art. 14 cpv. 1 OPSpo)
+
+#### Art. 21
+
+**Condizioni per la partecipazione alla formazione dei quadri**
+
+<sup>1</sup>
+
+Sono ammessi alla formazione dei quadri i candidati:
+
+- a. cittadini svizzeri o del Liechtenstein o cittadini stranieri domiciliati in Svizzera;
+- b. che nell’anno in cui frequentano il corso hanno compiuto 18 anni;
+- c.[^21-1] che soddisfano le condizioni di ammissione particolari per la partecipazione alle offerte della formazione dei quadri (art. 30, 33 e 42).
+
+<sup>1bis</sup>
+
+Sono ammessi alla formazione di monitori G+S di sport scolastico:
+
+- a. gli studenti e i diplomati presso un’alta scuola pedagogica che seguono o hanno seguito un ciclo di studi con un indirizzo nell’insegnamento dell’educazione fisica e sportiva;
+- b. gli studenti e i diplomati presso una scuola universitaria che seguono o hanno seguito un ciclo di studi in scienze dello sport o in una disciplina affine;
+- c. gli specialisti che hanno compiuto una formazione pedagogica e che svolgono compiti di assistenza parascolastica.[^21-2]
+
+<sup>2</sup> Gli stranieri non domiciliati in Svizzera sono ammessi se attivi regolarmente per un organizzatore di offerte G+S o della formazione dei quadri.
+
+<sup>3</sup>
+
+L’ammissione ai corsi e ai moduli della formazione dei quadri può essere subordinata a:
+
+- a. conoscenze e capacità specifiche di una disciplina sportiva;
+- b. qualifiche ottenute in corsi o moduli precedenti;
+- c. entità dell’attività di monitore svolta finora;
+- d. superamento di un test attitudinale;
+- e. qualifiche ottenute al di fuori del programma G+S, segnatamente l’assolvimento di corsi di pronto soccorso e di nuoto di salvataggio.
+
+<sup>4</sup> Sono ammesse alla formazione di monitore G+S nella disciplina sportiva «sport di campo/trekking» le persone che nell’anno in cui si tiene il corso compiono almeno 17 anni.
+
+<sup>5</sup> Non sono ammesse alla formazione dei quadri le persone nei cui confronti sussistono i motivi per la sospensione o la revoca del riconoscimento quale quadro o che nella loro attività nell’ambito di G+S hanno ripetutamente violato le direttive G+S.
+
+<sup>6</sup> L’UFSPO decide in merito all’ammissione alla formazione dei quadri su richiesta dell’organizzatore della stessa.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^21-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 22
+
+**Annuncio e pubblicazione delle offerte**
+
+<sup>1</sup> I Cantoni, le federazioni e le istituzioni incaricate dello svolgimento della formazione dei quadri inoltrano all’UFSPO, conformemente alle sue direttive, il piano di tutte le offerte della formazione dei quadri che intendono svolgere. L’UFSPO esamina il piano e approva le offerte.
+
+<sup>2</sup> Lo svolgimento di offerte supplementari della formazione dei quadri deve essere approvato in precedenza dall’UFSPO. L’UFSPO deve essere informato in precedenza in merito alla disdetta di un’offerta.
+
+<sup>3</sup> L’UFSPO pubblica tutte le offerte della formazione dei quadri approvate.
+
+#### Art. 23
+
+**Controlli**
+
+L’UFSPO sorveglia la formazione dei quadri dei Cantoni e delle organizzazioni e istituzioni incaricate.
+
+#### Art. 24
+
+**Revoca e sospensione dei riconoscimenti quale quadro**
+
+<sup>1</sup> Nei casi di cui all’articolo 10 capoverso 2 della legge federale del 17 giugno 2011[^24-1] sulla promozione dello sport e dell’attività fisica (LPSpo) l’UFSPO, su denuncia o d’ufficio, sospende con effetto immediato il riconoscimento quale quadro.
+
+<sup>2</sup> Nei casi di cui all’articolo 10 capoverso 3 LPSpo l’UFSPO decide se il riconoscimento deve essere revocato a tempo determinato o indeterminato. Il periodo di sospensione è computato nella durata della revoca temporanea.
+
+<sup>3</sup> Al termine della revoca temporanea il quadro può fare richiesta per riottenere il riconoscimento. L’UFSPO può vincolare la decisione a oneri e condizioni, in particolare all’assolvimento di un perfezionamento.
+
+[^24-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+
+#### Art. 25
+
+**Espulsione da un’offerta della formazione dei quadri**
+
+Può essere espulso da un’offerta della formazione dei quadri chi:
+
+- a. non è in grado di seguire il corso perché non ne ha le capacità;
+- b. con il suo comportamento disturba notevolmente lo svolgimento del corso.
+
+#### Art. 26
+
+**Impiego di terzi nella formazione dei quadri**
+
+Per lo svolgimento dei moduli del perfezionamento o per l’insegnamento di singoli temi della formazione dei quadri è possibile impiegare anche persone che non dispongono di un riconoscimento quale quadro G+S.
+
+### Sezione 6: Monitori G+S
+
+### (art. 16 OPSpo)
+
+#### Art. 27
+
+**Formazione**
+
+<sup>1</sup> La formazione di monitore G+S avviene nell’ambito di corsi per monitori G+S specifici alle diverse discipline sportive e specialità e in considerazione delle esigenze dei gruppi di destinatari «bambini» o «giovani».
+
+<sup>2</sup> Nei corsi per monitori G+S sono insegnate conoscenze di base in materia di pedagogia, motricità sportiva e metodologia.
+
+<sup>3</sup> L’UFSPO offre formazioni abbreviate sotto forma di corsi di introduzione a persone che dispongono di una formazione equiparabile al corso per monitori.
+
+#### Art. 28
+
+**Perfezionamento**[^28-1]
+
+<sup>1</sup> Nel perfezionamento si ampliano e approfondiscono le competenze dei monitori. Il perfezionamento è modulare.
+
+<sup>2</sup> Frequentando moduli di perfezionamento o un corso per monitori G+S i monitori G+S adempiono l’obbligo in materia di perfezionamento per tutte le discipline sportive in cui sono riconosciuti.
+
+<sup>3</sup> I moduli di perfezionamento che servono ad approfondire le competenze, se interrotti, per essere considerati validi ai fini dell’obbligo in materia di perfezionamento devono essere seguiti per una durata almeno uguale a quella dei moduli previsti esclusivamente per mantenere valido il riconoscimento quale monitore.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° gen.. 2021, il cpv. 2 entra in vigore il 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+
+#### Art. 29
+
+**Numero di esperti richiesto**
+
+<sup>1</sup> Per ogni gruppo di 15 partecipanti o frazione di esso è necessario impiegare almeno un esperto G+S nei corsi di formazione e di perfezionamento.
+
+<sup>2</sup> L’UFSPO può prevedere eccezioni per singole offerte di formazione e perfezionamento o autorizzarle in casi particolari.
+
+#### Art. 30
+
+**Ammissione alla formazione e al perfezionamento**
+
+<sup>1</sup>
+
+Sono ammessi alla formazione e al perfezionamento i candidati che:
+
+- a. soddisfano le condizioni di cui all’articolo 21;
+- b. sono raccomandati dal coach G+S competente di un organizzatore.
+
+<sup>2</sup> L’ammissione al perfezionamento di persone che negli ultimi due anni non hanno svolto attività di monitore può essere subordinata all’obbligo di svolgere in futuro un’attività di monitore.
+
+<sup>3</sup> L’ammissione alla formazione può essere rifiutata alle persone che dispongono già di un riconoscimento quale monitore in una o più discipline sportive G+S, ma non svolgono alcuna attività pratica di monitore.
+
+#### Art. 31
+
+**Obblighi**
+
+<sup>1</sup>
+
+I monitori G+S sono responsabili del corretto svolgimento dei corsi e dei campi G+S che dirigono. Fra i loro obblighi rientrano in particolare:
+
+- a. lo svolgimento di corsi e campi G+S secondo i requisiti specifici;
+- b. la tutela della sicurezza dei bambini e dei giovani che sono loro affidati;
+- c. la tenuta della documentazione necessaria per un conteggio corretto;
+- d. l’uso corretto del materiale G+S in prestito e la pulizia dello stesso prima della restituzione.
+
+<sup>2</sup> Essi devono garantire in ogni momento agli organi di autorizzazione e di sorveglianza la possibilità di verificare le loro attività e l’accesso alla documentazione relativa al corso o al campo.
+
+### Sezione 7: Coach G+S
+
+### (art. 17 OPSpo)
+
+#### Art. 32
+
+**Formazione e perfezionamento**
+
+<sup>1</sup> La formazione come coach G+S e il relativo perfezionamento avvengono nell’ambito di corsi e moduli specifici.
+
+<sup>2</sup> L’UFSPO o gli uffici cantonali G+S svolgono la formazione e il perfezionamento. L’UFSPO può incaricare dello svolgimento associazioni giovanili o federazioni sportive.
+
+#### Art. 33
+
+**Ammissione alla formazione e al perfezionamento**
+
+Sono ammessi alla formazione e al perfezionamento i candidati che:
+
+- a. soddisfano le condizioni di cui all’articolo 21;
+- b. sono raccomandati dall’organizzazione presso la quale sono attivi;
+- c. una volta assolto il corso o il modulo si può presupporre che saranno in grado di adempiere gli obblighi di cui all’articolo 34.
+
+#### Art. 34
+
+**Obblighi**
+
+I coach G+S sono responsabili dello svolgimento conforme alle prescrizioni delle offerte del proprio organizzatore. Hanno in particolare gli obblighi seguenti:
+
+- a. coordinare le offerte G+S della propria organizzazione;
+- b. annunciare le offerte G+S all’ufficio competente e provvedere al relativo conteggio (art. 58 e 60);
+- c. iscrivere gli appartenenti alla propria organizzazione alla formazione e al perfezionamento dei quadri G+S;
+- d. consigliare, sostenere e sorvegliare i monitori G+S nello svolgimento dei corsi e dei campi G+S per quanto riguarda gli aspetti organizzativi e amministrativi;
+- e. garantire in ogni momento agli organi di autorizzazione e di sorveglianza la possibilità di verificare la loro attività e l’accesso alla documentazione relativa ai corsi e ai campi;
+- f. garantire la conservazione per almeno cinque anni dei documenti G+S necessari al controllo dei conteggi e, su richiesta, inviarli all’organo di autorizzazione o all’UFSPO.
+
+### Sezione 8: ...
+
+#### Art. 35 a 39
+
+[^3539-1]
+
+[^3539-1]: Abrogati dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+
+### Sezione 9: Esperti G+S
+
+### (art. 19 OPSpo)
+
+#### Art. 40
+
+**Formazione**
+
+<sup>1</sup> La formazione per esperti G+S o esperti abilitati a svolgere la formazione dei quadri G+S avviene nell’ambito dei relativi corsi per esperti G+S.
+
+<sup>2</sup> La formazione è specifica alle discipline sportive e alle specialità per i gruppi di destinatari «bambini» e «giovani»; la formazione di esperti coach G+S avviene in corsi dedicati a temi specifici.
+
+<sup>3</sup> L’UFSPO svolge la formazione. Può incaricare dello svolgimento i Cantoni o le federazioni sportive o associazioni giovanili.
+
+<sup>4</sup> Esso può offrire a persone che dispongono di una formazione equivalente a un corso per esperti formazioni abbreviate sotto forma di corsi di introduzione.
+
+#### Art. 41
+
+**Perfezionamento**
+
+<sup>1</sup> Il perfezionamento degli esperti G+S avviene nell’ambito di moduli specifici.
+
+<sup>2</sup> L’UFSPO organizza i moduli per il perfezionamento degli esperti G+S. Può incaricare dello svolgimento i Cantoni o le federazioni sportive e associazioni giovanili.
+
+#### Art. 42
+
+**Ammissione alla formazione e al perfezionamento**
+
+<sup>1</sup>
+
+Sono ammessi alla formazione o al perfezionamento i candidati che:
+
+- a. dispongono di un riconoscimento quale monitore G+S o quale coach G+S;
+- b. soddisfano le condizioni di cui all’articolo 21;
+- c. sono raccomandati da un organizzatore della formazione dei quadri;
+- d. hanno superato i perfezionamenti stabiliti nella struttura della formazione.
+
+<sup>2</sup> Per essere ammessi alla formazione il riconoscimento quale monitore G+S o quale coach G+S dei candidati non deve essere decaduto.
+
+<sup>3</sup> L’ammissione alla formazione può essere rifiutata alle persone che dispongono già del riconoscimento quale esperto G+S in più di una disciplina sportiva G+S, ma non svolgono alcuna attività pratica di formatori.
+
+#### Art. 43
+
+**Compiti**
+
+<sup>1</sup> Gli esperti G+S svolgono la formazione dei quadri nelle relative discipline sportive o per i relativi gruppi di destinatari.
+
+<sup>2</sup> In discipline sportive, specialità o attività che presuppongono particolari prescrizioni di sicurezza gli esperti G+S possono essere impiegati come specialisti della sicurezza nella valutazione dei programmi di corsi o campi.
+
+<sup>3</sup> …[^43-1]
+
+<sup>4</sup> L’UFSPO può svolgere con gli esperti G+S corsi per i quadri destinati a preparare o sviluppare la formazione dei quadri G+S.[^43-2]
+
+[^43-1]: Abrogato dal n. I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-2]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+### Sezione 10: Concessione dei contributi
+
+### (art. 22–26 OPSpo)
+
+#### Art. 44
+
+**Contributi per i corsi G+S**
+
+<sup>1</sup> I contributi per i corsi G+S risultano da un importo di base e dal numero complessivo delle ore di allenamento di tutti i partecipanti (ore/partecipanti) svolte durante il corso. L’importo di base è stabilito secondo il numero di monitori G+S necessari.
+
+<sup>2</sup> Per i corsi G+S con i bambini nel gruppo di utenti 5 sono versati contributi maggiorati.
+
+<sup>3</sup> e <sup>4</sup> ...[^44-1]
+
+<sup>5</sup> I contributi massimi sono stabiliti nell’allegato 3.
+
+[^44-1]: Abrogati dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+
+#### Art. 45
+
+**Contributi per i campi G+S**
+
+<sup>1</sup> I contributi per i campi G+S dei gruppi di utenti 3, 4 e 5 risultano dal numero dei partecipanti, dei monitori necessari e dei giorni di campo computabili secondo l’articolo 14.
+
+<sup>2</sup> I contributi massimi sono stabiliti nell’allegato 3.
+
+<sup>3</sup> Per i campi G+S svolti a norma dell’articolo 11 capoversi 3 o 4, i contributi sono ridotti della metà.
+
+<sup>4</sup> ...[^45-1]
+
+[^45-1]: Introdotto dal n. I dell’O del DDPS del 5 set. 2014 ([RU 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)). Abrogato dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+#### Art. 46
+
+**Contributi per la partecipazione a competizioni**
+
+<sup>1</sup> La partecipazione alle competizioni in corsi del gruppo di utenti 1 in aggiunta al normale allenamento viene sostenuta con un altro importo forfettario, a condizione che siano soddisfatti i requisiti previsti nell’allegato 4.
+
+<sup>2</sup> Nei corsi del gruppo di utenti 2 le competizioni contano come periodo di allenamento se i bambini e i giovani interessati vi partecipano in aggiunta alle attività di cui all’articolo 9 capoverso 4.
+
+<sup>3</sup> ...[^46-1]
+
+<sup>4</sup> L’UFSPO può prevedere limitazioni alla partecipazione di bambini a competizioni.
+
+[^46-1]: Abrogato dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+
+#### Art. 47
+
+[^47-1]
+
+[^47-1]: Abrogato dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+#### Art. 48
+
+**Contributi per le guide alpine**[^48-1]
+
+Per l’impiego di guide alpine con attestato professionale federale nella disciplina sportiva sport di montagna, agli organizzatori delle offerte G+S e delle offerte di formazione dei quadri può essere concesso un contributo supplementare secondo l’allegato 5.
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 49
+
+**Contributi supplementari per partecipanti G+S disabili**[^49-1]
+
+<sup>1</sup>
+
+Se a un corso o a un campo G+S partecipa almeno una persona che, in quanto affetta da disabilità fisica, mentale o psichica prevedibilmente persistente che le rende difficile o le impedisce la partecipazione a tale corso o campo senza misure particolari, all’organizzatore può essere attribuito un contributo supplementare secondo l’allegato 6 se:
+
+- a. l’offerta è diretta da un monitore G+S che dispone di un perfezionamento specifico e attua le misure particolari necessarie;
+- b. su richiesta dell’UFSPO, l’organizzatore comprova adducendo una perizia la rilevanza della disabilità e l’adeguatezza delle misure particolari per la pratica della disciplina sportiva interessata.
+
+<sup>2</sup> Se le misure particolari consistono nell’impiego di persone supplementari con compiti di assistenza, queste non sono computate come monitori ulteriori ai sensi dell’allegato 2 anche se dispongono di un riconoscimento di monitori G+S.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+#### Art. 50
+
+**Contributi per la formazione dei quadri G+S**
+
+<sup>1</sup> Gli organizzatori della formazione dei quadri assumono i costi relativi alle offerte che hanno svolto.
+
+<sup>2</sup> L’UFSPO concede i contributi secondo l’allegato 7.
+
+<sup>2bis</sup>
+
+Se Cantoni o federazioni sportive o giovanili svolgono su incarico dell’UFSPO moduli per la formazione e il perfezionamento di esperti G+S, l’UFSPO stipula con essi un accordo in cui sono stabiliti:
+
+- a. l’indennizzo dovuto al Cantone o alla federazione per le spese da essi sostenute per l’alloggio, il vitto e l’uso di infrastrutture sportive e di trasporto che comunque non deve superare un massimo di 200 franchi al giorno per partecipante;
+- b. l’eventuale partecipazione dei partecipanti ai costi per l’uso di infrastrutture sportive e di trasporto.[^50-1]
+
+<sup>3</sup> Non sono concessi contributi e non sono messi a disposizione buoni per il viaggio di andata e ritorno dei partecipanti verso il luogo del corso se un’istituzione attiva nel campo della formazione svolge la formazione dei quadri come parte integrante di un ciclo di formazione e la frequenza a detta formazione dei quadri è obbligatoria.[^50-2]
+
+<sup>4</sup> La formazione dei quadri organizzata dalle associazioni giovanili è indennizzata secondo la legge federale del 6 ottobre 1989[^50-3] per la promozione delle attività giovanili extrascolastiche.
+
+[^50-1]: Introdotto dal n. I dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
+[^50-2]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^50-3]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+
+#### Art. 51
+
+**Contributi alle federazioni sportive nazionali per le prestazioni nel campo della formazione dei quadri G+S**[^51-1]
+
+<sup>1</sup> I contributi alle federazioni sportive e giovanili nazionali per le prestazioni nel campo della formazione dei quadri G+S coprono al massimo il 50 per cento delle indennità soggette all’AVS versate dalla federazione alle persone responsabili della formazione nella rispettiva disciplina sportiva G+S; i contributi ammontano tuttavia a un massimo di 200 000 franchi.
+
+<sup>2</sup> Se le prestazioni sono fornite da persone che svolgono volontariato o se le indennità soggette all’AVS sono inferiori a 100 000 franchi, le federazioni aventi diritto ai contributi ricevono al massimo 50 000 franchi l’anno.
+
+<sup>3</sup> Le persone responsabili della formazione devono svolgere almeno i compiti stabiliti all’allegato 8 e specificati in dettaglio nel contratto di prestazione.
+
+<sup>4</sup> Se i compiti sono svolti in modo incompleto i contributi sono ridotti in misura corrispondente.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+### Sezione 11: Altre prestazioni della Confederazione
+
+### (art. 28 OPSpo)
+
+#### Art. 52
+
+**Stampati, materiale per l’insegnamento, media didattici e distintivi**
+
+L’UFSPO riscuote emolumenti per stampati, materiale per l’insegnamento, media didattici e distintivi.
+
+#### Art. 53
+
+**Materiale G+S: in generale**
+
+<sup>1</sup> L’UFSPO stabilisce le discipline sportive, le offerte G+S nonché le offerte della formazione dei quadri per le quali viene messo a disposizione materiale G+S.
+
+<sup>2</sup> Non sussiste alcun diritto al materiale G+S.
+
+<sup>3</sup> Il materiale G+S viene messo a disposizione dall’esercito, sempre che non sia procurato dall’UFSPO. Le carte topografiche sono messe a disposizione da swisstopo.
+
+#### Art. 54
+
+**Materiale G+S: obblighi degli organizzatori**
+
+<sup>1</sup> Gli organizzatori delle offerte G+S ai quali viene messo a disposizione materiale G+S devono versare emolumenti all’UFSPO.
+
+<sup>2</sup> Gli organizzatori delle offerte G+S e della formazione dei quadri devono usare il materiale avendone cura e pulirlo prima di riconsegnarlo.
+
+<sup>3</sup> Rispondono delle spese di ripristino o di sostituzione del materiale non restituito o non ripulito. L’UFSPO può dedurre i costi dal conteggio dei contributi di cui alla sezione 10.
+
+<sup>4</sup> Se viene restituito materiale diverso da quello ricevuto in consegna il materiale G+S mancante viene fatturato. L’UFSPO dispone senza indennità del materiale non originale riconsegnato.
+
+#### Art. 55
+
+**Alloggio**
+
+<sup>1</sup> Nei limiti delle disponibilità e sulla base delle sue disposizioni generali per la locazione di infrastrutture, armasuisse mette a disposizione degli organizzatori di offerte G+S e della formazione dei quadri edifici dell’esercito per attività G+S.
+
+<sup>2</sup> Concede uno sconto di almeno il 50 per cento sulle tariffe ufficiali di locazione.
+
+### Sezione 12: Amministrazione
+
+#### Art. 56
+
+**In generale**
+
+Le offerte G+S, i corsi e i moduli della formazione dei quadri sono amministrate nel Sistema nazionale d’informazione per lo sport.
+
+#### Art. 57
+
+**Designazione di un coach G+S**
+
+<sup>1</sup> Gli organizzatori di offerte G+S designano per ogni offerta un coach G+S responsabile come rappresentante dell’organizzazione nei confronti degli uffici cantonali G+S e dell’UFSPO.[^57-1]
+
+<sup>2</sup> Il coach G+S rappresenta l’organizzazione in tutte le questioni attinenti a G+S.
+
+[^57-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+#### Art. 58
+
+**Annuncio di offerte G+S**
+
+<sup>1</sup> Il coach G+S annuncia un’offerta G+S al più tardi 30 giorni prima dell’inizio del primo corso o campo G+S. Lo stesso termine si applica per l’aggiunta a posteriori di corsi e campi all’offerta già annunciata.
+
+<sup>2</sup> ...[^58-1]
+
+<sup>3</sup> L’autorità competente decide in merito all’approvazione delle offerte prima del loro inizio.
+
+[^58-1]: Abrogato dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+
+#### Art. 59
+
+**Annuncio tardivo**
+
+<sup>1</sup> Se un’offerta non viene annunciata nei termini previsti, per il calcolo dei contributi si considerano soltanto i corsi e i campi G+S che iniziano oltre 30 giorni dopo l’annuncio.
+
+<sup>2</sup> Se un’offerta annunciata tardivamente viene tuttavia autorizzata in tempo dall’autorità competente prima dell’inizio previsto, ai fini del calcolo dei contributi è possibile conteggiare l’intera durata.
+
+#### Art. 60
+
+**Conteggio delle offerte G+S**
+
+<sup>1</sup> Il conteggio relativo a un’offerta deve essere inviato al più tardi entro 30 giorni dalla fine dell’ultimo corso o campo autorizzato.
+
+<sup>2</sup> L’organo che ha accordato l’autorizzazione verifica il conteggio e prepara il versamento da parte dell’UFSPO. L’UFSPO effettua un controllo a campione dei conteggi e dispone il versamento dei contributi.
+
+<sup>3</sup> Se un conteggio viene inoltrato in ritardo, ma comunque entro 60 giorni dalla fine dell’ultimo corso o campo autorizzato, l’UFSPO può ridurre i contributi. I conteggi inoltrati più tardi non danno alcun diritto al versamento di contributi.
+
+#### Art. 61
+
+**Corsi e moduli della formazione dei quadri**
+
+<sup>1</sup> L’amministrazione dei corsi e dei moduli della formazione dei quadri viene fatta dall’organizzatore di tale formazione.
+
+<sup>2</sup> Il conteggio relativo ai corsi e ai moduli deve essere inviato all’UFSPO entro i 30 giorni dalla fine del corso.
+
+<sup>3</sup> L’UFSPO controlla i conteggi e dispone il versamento dei contributi.
+
+#### Art. 62
+
+**Versamento dei contributi**
+
+<sup>1</sup> I contributi vengono versati esclusivamente su un conto bancario o postale svizzero dell’organizzatore dell’offerta G+S o della formazione dei quadri.
+
+<sup>2</sup> Per le offerte G+S i cui corsi durano 30 o più settimane, dopo tre mesi dall’inizio del corso è possibile anticipare fino al 50 per cento dei contributi calcolati provvisoriamente.
+
+#### Art. 63
+
+**Controllo**
+
+Gli uffici cantonali G+S inviano ogni anno all’UFSPO un resoconto sui controlli da loro effettuati. Annunciano immediatamente eventi particolari.
+
+## Capitolo 3: Sport per gli adulti Svizzera
+
+### Sezione 1: Formazione dei quadri in generale
+
+### (art. 34 OPSpo)
+
+#### Art. 64
+
+**Accesso alla formazione dei quadri ESA**
+
+<sup>1</sup> Gli organizzatori della formazione dei quadri ESA devono consentire a tutti i candidati pari condizioni di accesso a corsi di formazione e di perfezionamento, indipendentemente dell’organizzazione di cui fanno parte.
+
+<sup>2</sup>
+
+Sono ammessi alla formazione dei quadri i candidati che:
+
+- a. sono cittadini svizzeri o stranieri domiciliati in Svizzera;
+- b. hanno compiuto 18 anni nell’anno in cui si tiene il corso;
+- c. soddisfano le particolari condizioni di ammissione per la partecipazione alle offerte della formazione dei quadri (art. 68 cpv. 2 e 72);
+- d. soddisfano eventuali ulteriori requisiti specifici definiti nelle strutture e nei contenuti della formazione, come test attitudinali, assolvimento di corsi di soccorritore o di nuoto di salvataggio o di specifici corsi di perfezionamento.
+
+<sup>3</sup> Gli stranieri non domiciliati in Svizzera sono ammessi se attivi regolarmente per un organizzatore della formazione dei quadri ESA.
+
+<sup>4</sup> Non sono ammesse ai corsi di perfezionamento le persone nei cui confronti sussistono motivi per la revoca del riconoscimento quale quadro o che nel corso dell’attività svolta nel programma ESA fino a quel momento hanno ripetutamente violato i principi riconosciuti dell’etica sportiva.
+
+<sup>5</sup> Gli organizzatori della formazione dei quadri possono chiedere ai partecipanti ai corsi un’adeguata partecipazione alle spese.
+
+#### Art. 65
+
+**Esclusione**
+
+Può essere escluso da un’offerta della formazione dei quadri chi:
+
+- a. non è in grado di seguire il corso perché non ne ha la capacità;
+- b. con il suo comportamento disturba notevolmente il corso.
+
+### Sezione 2: Monitori ESA
+
+### (art. 36 OPSpo)
+
+#### Art. 66
+
+**Formazione**
+
+<sup>1</sup> Nella formazione di monitore ESA si insegnano conoscenze di base di pedagogia degli adulti, motricità sportiva, metodologia e specifiche alla disciplina sportiva. Questi contenuti possono variare a seconda del gruppo di destinatari.
+
+<sup>2</sup> Gli organizzatori della formazione dei monitori possono offrire iter formativi abbreviati sotto forma di corsi di introduzione a persone che dispongono di una formazione equivalente alla formazione ESA.
+
+<sup>3</sup> La formazione dura di regola sei giorni. Essa può essere abbreviata per le persone che dispongono di conoscenze specifiche in materia, segnatamente i monitori G+S.
+
+#### Art. 67
+
+**Perfezionamento**
+
+<sup>1</sup> Nel perfezionamento si approfondiscono e si ampliano le conoscenze acquisite da monitore. Il perfezionamento ha struttura modulare.
+
+<sup>2</sup> Per adempiere il loro obbligo in materia di perfezionamento i monitori ESA devono assolvere un modulo di perfezionamento specifico di uno o due giorni.
+
+<sup>3</sup> I singoli moduli del perfezionamento durano al massimo sei giorni.
+
+#### Art. 68
+
+**Ammissione alla formazione e al perfezionamento**
+
+<sup>1</sup> Sono ammessi alla formazione i candidati che soddisfano le condizioni di ammissione secondo l’articolo 64.
+
+<sup>2</sup>
+
+Sono ammessi al perfezionamento i monitori ESA che:
+
+- a. soddisfano le condizioni di cui all’articolo 64;
+- b. sono in grado di comprovare un’attività pratica come monitori nello sport per gli adulti.
+
+#### Art. 69
+
+**Numero di esperti richiesto**
+
+<sup>1</sup> Nei corsi di formazione e di perfezionamento per ogni gruppo di 15 partecipanti o frazione di esso è necessario impiegare almeno un esperto ESA.
+
+<sup>2</sup> L’UFSPO può autorizzare eccezioni per i singoli moduli di perfezionamento.
+
+<sup>3</sup> Per lo svolgimento di moduli del perfezionamento o per l’insegnamento di singoli temi nella formazione dei quadri si possono impiegare anche persone che non dispongono di un riconoscimento quale quadro ESA.
+
+### Sezione 3: Esperti ESA
+
+### (art. 38 OPSpo)
+
+#### Art. 70
+
+**Formazione**
+
+<sup>1</sup> La formazione per esperti ESA o esperti ESA abilitati a svolgere la formazione dei quadri avviene nell’ambito dei relativi corsi per esperti ESA.
+
+<sup>2</sup> La formazione dura nove giorni. Alle persone che dispongono di conoscenze specifiche, segnatamente agli esperti G+S, possono essere offerte formazioni abbreviate sotto forma di corsi di introduzione.
+
+#### Art. 71
+
+**Perfezionamento**
+
+<sup>1</sup> Il perfezionamento degli esperti ESA si svolge nel quadro di moduli specifici.
+
+<sup>2</sup> Per rinnovare il riconoscimento gli esperti ESA devono assolvere a scadenze regolari moduli di perfezionamento degli esperti.
+
+<sup>3</sup> I singoli moduli del perfezionamento degli esperti durano al massimo tre giorni.
+
+#### Art. 72
+
+**Ammissione alla formazione e al perfezionamento**
+
+<sup>1</sup>
+
+Sono ammessi alla formazione i monitori ESA che:
+
+- a. soddisfano le condizioni di cui all’articolo 64;
+- b. sono raccomandati da un organizzatore della formazione e del perfezionamento dei monitori ESA; e
+- c. svolgono regolarmente l’attività di monitori ESA.
+
+<sup>2</sup> Sono ammessi al perfezionamento gli esperti ESA che soddisfano le condizioni di cui all’articolo 64. L’ammissione può essere rifiutata alle persone che non sono in grado di comprovare un’attività pratica nel campo della formazione.
+
+<sup>3</sup> L’UFSPO può chiedere ai rispettivi organizzatori dei corsi per monitori ESA di comprovare l’effettiva necessità di formare come esperti un certo numero di monitori ESA.
+
+### Sezione 4: Contributi e procedura
+
+### (art. 32 cpv. 3 OPSpo)
+
+#### Art. 73
+
+**Contributi ai corsi di formazione e di perfezionamento**
+
+<sup>1</sup>
+
+Nel quadro dei crediti stanziati l’UFSPO versa agli organizzatori della formazione e del perfezionamento dei monitori ESA un contributo forfettario se:
+
+- a. il corso è stato annunciato 30 giorni prima dell’inizio;
+- b. il corso è stato autorizzato;
+- c. nel corso sono trattati i contenuti richiesti e sono rispettate le condizioni per l’ammissione dei partecipanti; e
+- d. concluso il corso, l’organizzatore ha provveduto a inoltrare i documenti per il conteggio nel rispetto dei termini.
+
+<sup>2</sup> Il contributo forfettario ammonta a 50 franchi al massimo per giorno di corso e partecipante.
+
+<sup>3</sup> Se nei corsi di formazione e di perfezionamento per almeno un giorno di corso intero viene impiegato almeno un esperto supplementare oltre al numero di esperti prescritto, l’UFSPO versa agli organizzatori un’indennità forfettaria supplementare di 100 franchi al massimo per giorno di corso.
+
+<sup>3bis</sup>
+
+Non sono versati contributi:
+
+- a. per gli esperti in formazione che assistono a corsi di perfezionamento diretti da esperti;
+- b. per i corsi di formazione e perfezionamento che si svolgono integrati in altre offerte di formazione e perfezionamento dell’organizzatore.[^73-1]
+
+<sup>4</sup> L’UFSPO stabilisce i contributi nel caso concreto. Al riguardo considera segnatamente la frequenza delle offerte di corsi ESA nelle singole regioni o discipline sportive.
+
+[^73-1]: Introdotto dal n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+#### Art. 74
+
+**Pianificazione delle offerte di formazione e di perfezionamento**
+
+<sup>1</sup> Gli organizzatori inviano all’UFSPO, conformemente alle direttive di quest’ultimo, la pianificazione di tutti i corsi di formazione e di perfezionamento che intendono svolgere. L’UFSPO autorizza le offerte.
+
+<sup>2</sup> Lo svolgimento di corsi supplementari deve essere autorizzato preliminarmente dall’UFSPO. L’UFSPO deve essere informato preliminarmente in merito alla disdetta di un corso.
+
+#### Art. 75
+
+**Corsi di formazione e perfezionamento della formazione dei quadri**
+
+<sup>1</sup> L’amministrazione dei corsi di formazione e perfezionamento della formazione dei quadri è curata dall’organizzatore della formazione dei quadri.
+
+<sup>2</sup> Il conteggio dei corsi di formazione e perfezionamento deve essere inviato all’UFSPO entro 30 giorni dalla fine del corso.
+
+<sup>3</sup> L’UFSPO controlla i conteggi e dispone il versamento dei contributi.
+
+#### Art. 76
+
+**Pagamento dei contributi**
+
+I contributi vengono versati esclusivamente su un conto bancario o postale svizzero dell’organizzatore dei corsi di formazione o perfezionamento.
+
+#### Art. 77
+
+**Finanziamento dei corsi dell’UFSPO**
+
+L’UFSPO finanzia i corsi della formazione dei quadri ESA che svolge.
+
+#### Art. 78
+
+**Stampati, materiale per l’insegnamento, media didattici e distintivi**
+
+La Confederazione può mettere a disposizione stampati, materiale per l’insegnamento, media didattici e distintivi. L’UFSPO stabilisce la quota di partecipazione alle spese a carico dei destinatari di stampati, materiale didattico e distintivi.
+
+## Capitolo 3*a*:**** Giornata svizzera dello sport scolastico
+
+[^chap3a-1]
+
+[^chap3a-1]: Introdotto dal n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+### (art. 40 cpv. 4 OPSpo)
+
+#### Art. 78a
+
+<sup>1</sup>
+
+Le seguenti prestazioni di Cantoni e Comuni sono considerate computabili ai sensi dell’articolo 40 capoverso 4 OPSpo:
+
+- a. aiuti finanziari sotto forma di importi in contanti;
+- b. contributi provenienti dai fondi cantonali Sport-Toto o della lotteria;
+- c. forniture di beni e servizi al prezzo di mercato per i quali non sussiste alcun diritto.
+
+<sup>2</sup> Non possono essere computate le prestazioni statali che i Cantoni e i Comuni sono tenuti a fornire per legge, come prestazioni di polizia, prestazioni di approvvigionamento e di eliminazione, procedure di autorizzazione, attività amministrative generali, anche se nel caso concreto si rinuncia alle relative tasse ed emolumenti.
+
+## Capitolo 4: Impianti sportivi di importanza nazionale
+
+### (art. 42–44 OPSpo)
+
+#### Art. 79
+
+**Importanza nazionale**
+
+A un impianto sportivo è attribuita importanza nazionale se:
+
+- a. è comprovato che esso risponde ai bisogni di una o più federazioni sportive per lo svolgimento di attività sportive di importanza nazionale e tali bisogni sono documentati;
+- b. non ci sono alternative valide per lo svolgimento di attività sportive di importanza nazionale delle federazioni interessate;
+- c. è sufficiente per gli scopi delle federazioni sportive nazionali interessate;
+- d. è conforme ai regolamenti delle federazioni sportive nazionali ed internazionali interessate e dispone, per l’utilizzazione prevista, di un numero sufficiente di locali accessori inclusi quelli per l’alloggio e il vitto, a una ragionevole distanza;
+- e. in quanto impianto di competizione di importanza nazionale soddisfa tutti i requisiti per lo svolgimento di competizioni internazionali come previsto dalle corrispondenti direttive delle federazioni sportive nazionali ed internazionali, segnatamente nel settore delle infrastrutture per gli spettatori;
+- f. è collegato con una rete di trasporti pubblici adeguata;
+- g. è utilizzato conformemente allo scopo, sono tenuti in grande considerazione gli aspetti urbanistici ed ecologici degli spazi pubblici e tutti gli spazi sono realizzati e curati lasciandoli per quanto possibile al naturale, nei limiti in cui ciò è compatibile con la sua destinazione a impianto sportivo;
+- h. nelle nuove costruzioni e nei risanamenti sono rispettati gli standard più avanzati dal punto di vista edile e dei consumi di energia e risorse ed è attribuita importanza ad un modo di costruire funzionale, architettonicamente valido ed economico;
+- i.
+
+  sono rispettate le disposizioni sulla protezione della natura e del paesaggio e si tengono in considerazione gli obiettivi perseguiti dalla Concezione Paesaggio svizzero segnatamente se:
+
+  - 1\. sono minimizzati i danni e gli inquinamenti derivanti dalla costruzione e dalla gestione dell’impianto ed eliminati, nei limiti del possibile, i danni e gli inquinamenti inevitabili, per quanto possibile secondo il principio di causalità,
+  - 2\. gli utenti degli impianti sono stimolati ad un comportamento per quanto possibile rispettoso della natura e del paesaggio,
+  - 3\. è evitato l’allacciamento meccanico di paesaggi di particolare pregio;
+
+- j. sono considerate le esigenze delle persone disabili in conformità con le disposizioni legali vigenti.
+
+#### Art. 80
+
+**Contributi federali**
+
+<sup>1</sup>
+
+L’UFSPO può fornire contributi alla costruzione di un impianto sportivo di importanza nazionale o alla trasformazione di un impianto sportivo allo scopo di conferirgli importanza nazionale se:
+
+- a. l’impianto in questione è inserito nel catalogo CISIN[^80-1];
+- b. la gestione dell’impianto e in particolare il finanziamento dell’esercizio, inclusa la manutenzione corrente e periodica, sono assicurati a lungo termine da un ente responsabile;
+- c. l’utilizzazione dell’impianto per attività sportive di importanza nazionale è garantito a lungo termine tramite contratti fra l’ente responsabile e le federazioni sportive nazionali o gli organizzatori di manifestazioni sportive interessati;
+- d. il finanziamento del progetto di costruzione è assicurato, tenendo conto di eventuali contributi federali.
+
+<sup>2</sup>
+
+L’ammontare dei contributi e l’ordine di priorità delle richieste di contributi si fondano sui seguenti criteri:
+
+- a. ammontare dei crediti stanziati;
+- b. importanza del progetto per lo sport svizzero;
+- c. qualità, grado di avanzamento e probabilità di realizzazione del progetto;
+- d. uso previsto per manifestazioni di importanza nazionale;
+- e. investimenti complessivi generati a favore dello sport e ulteriori effetti della decisione.
+
+[^80-1]: Concezione degli impianti sportivi di importanza nazionale
+
+#### Art. 81
+
+**Costi computabili**
+
+<sup>1</sup>
+
+Sono considerati costi computabili i costi che sono in relazione diretta con la costruzione o con il risanamento dell’impianto. Tra questi figurano segnatamente i costi per:
+
+- a. la progettazione;
+- b. le misure edilizie;
+- c. l’acquisto di attrezzature adeguate indispensabili.
+
+<sup>2</sup>
+
+Non sono considerati costi computabili segnatamente i costi per:
+
+- a. l’acquisto del terreno;
+- b. gli studi e gli accertamenti preliminari;
+- c. le misure non indispensabili al progetto;
+- d. le indennità alle autorità e gli interessi per i crediti di costruzione;
+- e. le misure che, rispetto ad altre possibili alternative, sono sproporzionate o inappropriate.
+
+## Capitolo 5: Contributi a manifestazioni e congressi sportivi internazionali
+
+### (art. 72 OPSpo)
+
+#### Art. 82
+
+<sup>1</sup>
+
+Sono considerati contributi computabili ai sensi dell’articolo 72 capoverso 2 OPSpo le seguenti prestazioni di Cantoni e Comuni:
+
+- a. aiuti finanziari sotto forma di contributi in contanti;
+- b. contributi provenienti dai fondi cantonali Sport–Toto o della lotteria;
+- c. forniture di beni e servizi a prezzo di mercato per i quali non sussiste alcun diritto.
+
+<sup>2</sup> Non possono essere computate le prestazioni statali che i Cantoni e i Comuni sono tenuti a fornire per legge, come prestazioni di polizia, prestazioni di approvvigionamento ed eliminazione, procedure di autorizzazione, compiti amministrativi generali, anche se nel caso concreto si rinuncia alle relative tasse ed emolumenti
+
+## Capitolo 6: Disposizioni finali
+
+#### Art. 83
+
+**Diritto previgente: abrogazione**
+
+Sono abrogate le seguenti ordinanze:
+
+- 1\. ordinanza del 21 gennaio 1992[^83-1] che regola le indennità dei corsi delle federazioni di ginnastica e sport e altre organizzazioni sportive;
+- 2\. ordinanza del DDPS del 31 ottobre 2001[^83-2] sui prodotti e sui metodi dopanti;
+- 3\. ordinanza del DDPS del 7 novembre 2002[^83-3] concernente Gioventù e Sport;
+- 4\. ordinanza del 15 dicembre 1998[^83-4] concernente le prestazioni della Confederazione a favore dello sport per gli anziani;
+- 5\. ordinanza dell’11 gennaio 1989[^83-5] concernente l’attribuzione di sussidi all’Associazione Olimpica Svizzera, alle federazioni sportive e ad altre organizzazioni sportive.
+
+[^83-1]: [[RU 1992 494](https://fedlex.data.admin.ch/eli/oc/1992/494_494_494)]
+[^83-2]: [[RU 2001 3319](https://fedlex.data.admin.ch/eli/oc/2001/495), [2002 4033](https://fedlex.data.admin.ch/eli/oc/2002/644), [2003 4279](https://fedlex.data.admin.ch/eli/oc/2003/635), [2005 259](https://fedlex.data.admin.ch/eli/oc/2005/40), [2007 6711](https://fedlex.data.admin.ch/eli/oc/2007/866)]
+[^83-3]: [[RU 2002 4040](https://fedlex.data.admin.ch/eli/oc/2002/645), [2004 4667](https://fedlex.data.admin.ch/eli/oc/2004/718), [2011 5627](https://fedlex.data.admin.ch/eli/oc/2011/789)]
+[^83-4]: [[RU 1999 587](https://fedlex.data.admin.ch/eli/oc/1999/79)]
+[^83-5]: [[RU 1989 193](https://fedlex.data.admin.ch/eli/oc/1989/193_193_193)]
+
+#### Art. 84
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° ottobre 2012.
+
+Allegato 1*[^t-1]*
+
+(art. 3 cpv. 1)
+
+## Discipline sportive G+S
+
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aggiornato dal n. II dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+
+### A. Discipline sportive in generale (discipline sportive A)
+
+Allround, atletica leggera, badminton, baseball/softball, calcio, ciclismo, corsa d’orientamento, curling, danza sportiva, ginnastica e danza, giochi nazionali, golf, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, lotta, lotta svizzera, pallacanestro, pallamano, pallavolo, pattinaggio su ghiaccio, rugby, scherma, sci di fondo, sport ginnici, sport su rotelle, squash, streethockey, tchoukball, tennis, tennistavolo, unihockey.
+
+### B. Discipline sportive con disposizioni di sicurezza particolari (discipline sportive B)
+
+Sport di montagna, canoismo, canottaggio, sport equestri, sport natatori, sci, salto con gli sci, snowboard, sport di campo/trekking, tavola a vela, tiro sportivo, triathlon, vela.
+
+Allegato 1a*[^t-2]*
+
+(art. 3 cpv. 1<sup>bis</sup>)
+
+## Specialità G+S
+
+[^t-2]: Introdotto dal n. II cpv. 1 dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+Le seguenti discipline sportive G+S si suddividono nelle specialità elencate di seguito:
+
+<table>
+<tr><td>Discipline sportive</td><td>Specialità</td></tr>
+<tr><td>Pattinaggio su ghiaccio</td><td>Pattinaggio artistico, pattinaggio sincronizzato, pattinaggio di velocità</td></tr>
+<tr><td>Sport equestri</td><td>Equitazione, volteggio</td></tr>
+<tr><td>Sport ginnici</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica ritmica, pallapugno, pallacesto, ruota di Rhön, trampolino</td></tr>
+<tr><td>Sport di montagna</td><td>Alpinismo, sci escursionismo, arrampicata sportiva su roccia, arrampicata sportiva su parete artificiale</td></tr>
+<tr><td>Sport natatori</td><td>Nuoto, nuoto di salvataggio, nuoto sincronizzato, immersione libera, pallanuoto, tuffi</td></tr>
+<tr><td>Sport su rotelle</td><td>Hockey inline, hockey a rotelle, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle (speedskating)</td></tr>
+<tr><td>Tiro sportivo</td><td>Balestra, tiro con l’arco, carabina, pistola</td></tr>
+</table>
+
+Allegato 2*[^t-3]*
+
+(art. 5 cpv. 2, 6 cpv. 1 e 13 cpv. 2)
+
+## Disposizioni specifiche concernenti l’impiego di monitori G+S in relazione con la dimensione dei gruppi
+
+[^t-3]: Aggiornato dal n. II cpv. 3 dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+### A. Disposizioni per le discipline sportive A
+
+- 1\. Nelle discipline sportive baseball/softball, calcio, hockey su ghiaccio, hornuss, hockey su prato, pallacanestro, pallamano, pallavolo, rugby, sport su rotelle street-hockey, tchoukball e unihockey non è consentito che i gruppi siano formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 2\. Nelle discipline sportive allround, atletica leggera, badminton, ciclismo, corsa d’orientamento, curling, danza sportiva, ginnastica e danza, golf, giochi nazionali, judo, ju-jitsu, karate, lotta, lotta svizzera, pattinaggio su ghiaccio, scherma, sci di fondo, sport ginnici, squash, tennis, tennistavolo, non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 3\. Se nell’ambito di un corso o di un campo o nella pratica di una disciplina sportiva si svolge una delle attività di cui alla lettera B, valgono le disposizioni di sicurezza ivi fissate.
+
+### B. Disposizioni di sicurezza particolari per le discipline sportive B
+
+- 1\. Nelle specialità alpinismo, arrampicata sportiva su roccia e sci escursionismo della disciplina sportiva sport di montagna non è consentito che i gruppi siano formati da più di 6 partecipanti per monitore. A partire da 7 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 6 partecipanti al massimo.
+- 2\. Nella specialità arrampicata sportiva su parete artificiale della disciplina sportiva sport di montagna e nelle discipline sportive canoismo, canottaggio, equitazione, salto con gli sci, sci, snowboard, tavola a vela e vela non è consentito che i gruppi siano formati da più di 12 partecipanti per monitore. A partire da 13 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 3\. Nelle discipline sportive sport natatori, tiro sportivo e triathlon non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 4\. Nelle offerte G+S Sport di campo/Trekking non è consentito che i gruppi siano formati da più di 24 partecipanti ogni 2 monitori. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo. Nei campi G+S è consentito impiegare persone maggiorenni e capaci di discernimento senza riconoscimento G+S al posto di monitori G+S. Esse non vengono però considerate ai fini del conteggio dei contributi.
+
+### C. Disposizioni speciali per il gruppo di utenti 5
+
+- 1\. In tutte le attività delle discipline sportive di cui alla lettera A non è consentito che i gruppi siano formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, per ciascun gruppo supplementare di 12 persone al massimo è impiegata una ulteriore persona autorizzata a dirigere l’attività.
+- 2\. In tutte le attività delle discipline sportive di cui alla lettera B si applicano le disposizioni di sicurezza delle singole discipline.
+- 3\. Se per lo svolgimento di un’attività sono necessari più di due monitori, come monitore supplementare è consentito impiegare persone maggiorenni e capaci di discernimento senza riconoscimento quale monitore G+S. Esse non sono però considerate ai fini del conteggio dei contributi.
+
+### D. Disposizioni particolari per l’allenamento della condizione fisica e mentale
+
+Nell’allenamento della condizione fisica e in quello mentale per ogni disciplina sportiva non sono consentiti gruppi di più di 24 partecipanti per monitore. A partire da 25 partecipanti, per ciascun gruppo supplementare di 12 persone al massimo è impiegata una ulteriore persona autorizzata a dirigere l’attività.
+
+### E. Numero insufficiente di monitori G+S nelle attività di cui alla lettera A
+
+Se nelle attività di discipline sportive di cui alla lettera A o nell’allenamento della condizione fisica e in quello mentale di cui alla lettera D non è impiegato un numero sufficiente di monitori G+S, l’importo dei contributi si calcola sulla base della grandezza massima del gruppo che i monitori presenti impiegati sono autorizzati a dirigere.
+
+### F. Numero insufficiente di monitori G+S nelle attività di cui alla lettera B
+
+Se nelle attività di discipline sportive di cui alla lettera B non è impiegato un numero sufficiente di monitori G+S, tale attività non è considerata ai fini del calcolo dei contributi.
+
+Allegato 3*[^t-4]*
+
+(art. 44 cpv. 5 e 45 cpv. 2)
+
+## Contributi massimi per le offerte G+S
+
+[^t-4]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+### A. Contributi per i corsi G+S dei gruppi di utenti 1, 2, 4 e 5
+
+<table>
+<tr><th>Importo di base per ogni monitore G+S<sup>1)</sup> necessario secondo l’allegato 2, franchi</th><th>Importo per ora/partecipante<sup>2)</sup>, franchi</th><th>Supplemento per i corsi G+S del gruppo di utenti 5 con i bambini<sup>3)</sup></th></tr>
+<tr><td>150.00</td><td>1.80</td><td>100 %</td></tr>
+</table>
+
+### B. Contributi per la partecipazione a competizioni dei corsi G+S del gruppo di utenti 1
+
+<table>
+<tr><th>Numero di competizioni</th><th>Se il corso dura &lt; 30 settimane, indennità forfettaria unica di franchi</th><th>Se il corso dura ≥ 30 settimane, indennità forfettaria unica di franchi</th></tr>
+<tr><td>Categoria 1<sup>4)</sup></td><td>100.00</td><td>200.00</td></tr>
+<tr><td>Categoria 2<sup>4)</sup></td><td>200.00</td><td>400.00</td></tr>
+<tr><td>Categoria 3<sup>4)</sup></td><td>300.00</td><td>600.00</td></tr>
+</table>
+
+### C. Contributi per i campi G+S
+
+<table>
+<tr><th>Per giornata e partecipante, in franchi</th></tr>
+<tr><td>16.00</td></tr>
+<tr><td><sup>1)</sup> Se un corso viene svolto in diverse discipline sportive, l’importo di base è fissato in base al numero di monitori G+S necessari nella disciplina sportiva G+S praticata nel quadro del corso che consente il maggior numero di partecipanti per monitore G+S. <sup>2)</sup> Le ore/partecipante iniziate vengono arrotondate. <sup>3)</sup> Nei gruppi in cui bambini e giovani si allenano insieme il supplemento si calcola esclusivamente sulle ore/partecipante che riguardano i bambini. <sup>4)</sup> Categorie secondo l’allegato 4.</td></tr>
+</table>
+
+Allegato 4
+
+(art. 46 cpv. 1)
+
+## Categorie delle competizioni G+S per il gruppo di utenti 1
+
+<table>
+<tr><td>Durata del corso</td><td>Categoria 1 Numero di competizioni</td><td>Categoria 2 Numero di competizioni</td><td>Categoria 3 Numero di competizioni</td></tr>
+<tr><td>&lt; 30 sett.</td><td>2–4</td><td>5– 7</td><td>≥ 8</td></tr>
+<tr><td>≥ 30 sett.</td><td>4–9</td><td>10–15</td><td>16</td></tr>
+</table>
+
+Allegato 5*[^t-5]*
+
+(art. 48)
+
+## Indennità per guide alpine con attestato professionale federale e riconoscimento G+S
+
+[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+
+- 1\.
+
+  Agli organizzatori viene corrisposta un’indennità forfettaria giornaliera di 260 franchi al massimo per l’impiego di guide alpine con attestato professionale federale, a condizione che:
+
+  - a. siano attive come monitori G+S nelle specialità alpinismo, sci escursionismo e arrampicata sportiva su roccia della disciplina sport di montagna e abbiano la responsabilità globale per la sicurezza nelle rispettive attività;
+  - b. siano attive come esperti G+S nella formazione dei quadri della disciplina sportiva sport di montagna.
+
+- 2\. Nei corsi e nei campi G+S viene corrisposto un importo forfettario per ogni 45 ore/partecipante. Sono considerate le ore di attività G+S svolte sotto la responsabilità di una guida alpina e a cui la guida ha partecipato. Le frazioni delle unità di 45 ore/partecipante vengono arrotondate all’unità superiore.
+- 3\. Nelle offerte della formazione dei quadri della specialità arrampicata sportiva della disciplina sportiva sport di montagna è corrisposta un’indennità forfettaria giornaliera ogni 12 partecipanti per le offerte in cui la guida effettivamente insegna. Le frazioni dell’unità di 12 partecipanti vengono arrotondate all’unità superiore.
+- 4\. Nelle offerte della formazione dei quadri delle specialità sci escursionismo e alpinismo della disciplina sportiva sport di montagna è corrisposta un’indennità forfettaria giornaliera ogni 6 partecipanti per le offerte in cui la guida effettivamente insegna. Le frazioni dell’unità di 6 partecipanti vengono arrotondate all’unità superiore.
+
+Allegato 6*[^t-6]*
+
+(art. 49 cpv. 1)
+
+## Contributi supplementari per le offerte G+S con partecipanti disabili
+
+[^t-6]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+- 1\. Agli organizzatori di campi è corrisposta un’indennità forfettaria di 60 franchi al massimo per giorno di campo e partecipante con disabilità. L’importo totale per il campo può tuttavia ammontare al massimo al doppio di quanto sarebbe corrisposto per un campo di uguale durata e numero di partecipanti, ma senza partecipanti con disabilità.
+- 2\. Agli organizzatori di corsi è corrisposta un’indennità forfettaria di 10 franchi al massimo per ora e partecipante con disabilità. L’importo totale per il corso può tuttavia ammontare al massimo al doppio di quanto sarebbe corrisposto per un corso di uguale durata e numero di partecipanti, ma senza partecipanti con disabilità.
+
+Allegato 7*[^t-7]*
+
+(art. 50 cpv. 2)
+
+## Contributi per lo svolgimento della formazione dei quadri G+S
+
+[^t-7]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+### 1 Formazione dei quadri organizzata dalla Confederazione
+
+- La Confederazione mette a disposizione dei partecipanti buoni per il viaggio gratuito di andata e di ritorno in seconda classe dal domicilio al luogo del corso con i mezzi di trasporto pubblici.
+- Versa inoltre indennità secondo la legge federale del 25 settembre 1952[^annex7-lvlu1-lvl1-1] sulle indennità di perdita di guadagno.
+
+[^annex7-lvlu1-lvl1-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+### 2 Formazione dei quadri organizzata dagli uffici cantonali G+S
+
+- 2\.1
+
+  La Confederazione versa agli organizzatori i contributi seguenti:
+
+  - 2.1.1 50 franchi al giorno al massimo per ogni partecipante a un corso di formazione o a un modulo di perfezionamento per monitori o coach G+S;
+  - 2.1.2 100 franchi al massimo per giorno di corso se nei corsi di formazione e di perfezionamento oltre al numero prescritto viene impiegato almeno un esperto G+S supplementare per almeno un giorno intero di corso;
+  - 2.1.3 un’ulteriore indennità forfettaria giornaliera sulla base dell’allegato 5 per le guide alpine.
+
+- 2\.2 La Confederazione mette a disposizione dei partecipanti che soddisfano le condizioni di ammissione al corso, dei monitori e del personale ausiliario della formazione dei quadri buoni per il viaggio di andata e di ritorno gratuito in seconda classe dal domicilio al luogo del corso con i mezzi di trasporto pubblici.
+- 2\.3 Se a un’offerta di formazione dei quadri di un Cantone al cui svolgimento l’UFSPO è particolarmente interessato si sono iscritte meno di 8 persone, l’Ufficio può aumentare il contributo secondo il numero 2.1.1 a 400 franchi al massimo per giorno di corso.
+- 2\.4 Se ai moduli di perfezionamento partecipano persone che nei due anni precedenti l’inizio del modulo non hanno svolto attività come quadri, per loro non sono corrisposti contributi. Fanno eccezione i moduli di perfezionamento particolari per persone con un riconoscimento quale monitore G+S decaduto da più di quattro anni che vogliono reinserirsi nell’attività.
+- 2\.5 La Confederazione versa le indennità secondo la legge del 25 settembre 1952 sulle indennità di perdita di guadagno.
+
+### 3 Formazione dei quadri organizzata da federazioni sportive e istituzioni secondo l’articolo 12 capoverso 2 OPSpo
+
+- 3\.1
+
+  La Confederazione versa agli organizzatori i seguenti contributi:
+
+  - 3.1.1 50 franchi al massimo al giorno per ogni partecipante ai moduli di perfezionamento per i monitori e i coach G+S;
+  - 3.1.2 50 franchi al massimo al giorno per ogni partecipante ai corsi di formazione per monitori G+S organizzati da istituzioni di formazione.
+
+- 3\.2 La Confederazione mette a disposizione dei partecipanti che soddisfano le condizioni di ammissione al corso, dei monitori e del personale ausiliario della formazione dei quadri buoni per il viaggio di andata e di ritorno gratuito in seconda classe dal domicilio al luogo del corso con i mezzi di trasporto pubblici.
+- 3\.3 Se ai moduli di perfezionamento partecipano persone che nei due anni precedenti l’inizio del modulo non hanno svolto attività come quadri, per loro non sono corrisposti contributi. Fanno eccezione i moduli di perfezionamento particolari per persone con un riconoscimento quale monitore G+S decaduto da più di quattro anni che vogliono reinserirsi nell’attività.
+
+Allegato 8*[^t-8]*
+
+(art. 51 cpv. 3)
+
+## Contributi alle federazioni sportive nazionali per le prestazioni nell’ambito della formazione dei quadri G+S: elenco dei compiti dei responsabili della formazione
+
+[^t-8]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+
+- 1\. Garantire un numero sufficiente di posti di formazione nelle offerte per la formazione dei quadri G+S delle rispettive discipline sportive G+S sulla base di un rilevamento annuale del fabbisogno.
+- 2\. Partecipare attivamente alle sedute e alle conferenze specialistiche richieste dall’UFSPO.
+- 3\. Attuare e aggiornare periodicamente le strutture formative, i modelli, le strategie e i temi G+S nelle singole discipline sportive G+S.
+- 4\. Sviluppare contenuti specifici alla disciplina sportiva per i corsi di formazione e di perfezionamento dei quadri e sviluppare i relativi media didattici nelle lingue richieste dall’UFSPO.
+- 5\. Sviluppare le strategie per la trasmissione di contenuti tematici socio-politici quali la sicurezza, la prevenzione e l’integrazione nei corsi di formazione e di perfezionamento dei quadri G+S delle rispettive discipline sportive G+S e sviluppare i relativi media didattici nelle lingue richieste dall’UFSPO.
+- 6\.
+
+  Garantire la qualità nei corsi di formazione e di perfezionamento dei quadri G+S nelle singole discipline sportive G+S mediante:
+
+  - a. la valutazione e il resoconto periodici, nonché l’attuazione delle misure necessarie;
+  - b. la consulenza, la messa in rete e il supporto ai quadri G+S.

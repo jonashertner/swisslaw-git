@@ -1,0 +1,1172 @@
+---
+sr: "143.11"
+title: "Ordonnance du 20 septembre 2002 sur les documents d'identité des ressortissants suisses (Ordonnance sur les documents d'identité, OLDI)"
+short: OLDI
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
+language: fr
+version: 2020-08-01
+adopted: 2002-09-20
+in_force: 2002-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20200801/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20200801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les documents d’identité des ressortissants suisses
+
+(Ordonnance sur les documents d’identité, OLDI)
+
+du 20 septembre 2002 (Etat le 1<sup>er</sup> août 2020)
+
+Le Conseil fédéral suisse,
+
+vu les art. 1, al. 3, 3, 4, al. 3, 5, al. 2, 9 et 15 de la loi du 22 juin 2001 sur les documents d’identité (LDI)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Types de documents d’identité**
+
+Les types de documents d’identité sont:
+
+- a. le passeport;
+- b. la carte d’identité.
+
+#### Art. 2
+
+**Types de passeports**[^2-1]
+
+<sup>1</sup>
+
+Les types de passeports sont:
+
+- a. le passeport ordinaire;
+- b. le passeport provisoire;
+- c. le passeport diplomatique ordinaire;
+- d. le passeport diplomatique provisoire;
+- e. le passeport de service ordinaire;
+- f. le passeport de service provisoire.
+
+<sup>2</sup> Les passeports ordinaires, les passeports diplomatiques ordinaires et les passeports de service ordinaires sont munis d’une puce.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 2a
+
+[^2a-1]
+
+[^2a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 3
+
+**Passeport provisoire**
+
+<sup>1</sup>
+
+Un passeport provisoire est émis en cas d’urgence:
+
+- a. lorsqu’il n’est pas possible d’attendre l’établissement d’un passeport ordinaire;
+- b. lorsqu’il n’est pas possible de présenter un document d’identité valable;
+- c. lorsqu’un document d’identité valable ne remplit pas les conditions du pays de destination.
+
+<sup>2</sup> Un passeport provisoire peut être émis s’il est indispensable au retour en Suisse.
+
+#### Art. 4
+
+**Forme et édition**
+
+Le Département fédéral de justice et police (département) détermine la forme et la présentation des documents d’identité et les édite.
+
+#### Art. 5
+
+**Durée de validité**
+
+<sup>1</sup>
+
+Le passeport ordinaire et la carte d’identité sont émis:
+
+- a.[^5-1] pour dix ans: pour les personnes âgées de 18 ans au moins au moment de la demande;
+- b.[^5-2] pour cinq ans: pour les personnes âgées de moins de 18 ans au moment de la demande.
+- c.[^5-3] …
+
+<sup>1bis</sup> …[^5-4]
+
+<sup>2</sup> Le passeport provisoire est émis pour la durée du séjour à l’étranger, au besoin pour la durée requise par le pays de séjour, mais au maximum pour 12 mois.
+
+<sup>3</sup> En cas de perte de trois documents d’identité ou plus du même type en l’espace de cinq ans, la durée de validité du nouveau document d’identité est limitée à deux ans sauf si l’intéressé rend vraisemblable le fait qu’il en a pris soin. La limitation de la durée de validité n’a pas d’incidence sur le montant des émoluments.[^5-5]
+
+<sup>4</sup> En règle générale, la durée de validité d’un document d’identité ne peut pas être prolongée.
+
+<sup>5</sup> Si la production de nouveaux passeports s’avère impossible pendant une longue période, la durée de validité des passeports déjà émis peut être prolongée de 3 ans au plus et des passeports provisoires peuvent être émis pour une durée de 3 ans. Le département règle les détails.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^5-3]: Abrogée par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^5-4]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 5a
+
+**Lecture de la puce**[^5a-1]
+
+Le département peut conclure des accords internationaux relatifs à la lecture des empreintes digitales enregistrées dans la puce avec les États qui respectent le règlement (CE) n<sup>o</sup> 2252/2004[^5a-2] et ses dispositions d’exécution.[^5a-3]
+
+[^5a-1]: Introduit par le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+[^5a-2]: Règlement (CE) n<sup>o</sup> 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les États membres, JO L 385 du 29.12.2004, p. 1, modifié par le règlement (CE) n<sup>o</sup> 444/2009, JO L 142 du 6.6.2009, p. 1
+[^5a-3]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
+
+#### Art. 5b
+
+**Conclusion de traités internationaux concernant les normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage**[^5b-1]
+
+Fedpol est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne, pour autant que ces actes constituent des traités internationaux de portée mineure au sens de l’art. 7*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^5b-2], qu’ils soient édictés sur la base de l’art. 2 du règlement (CE) n<sup>o</sup> 2252/2004[^5b-3] et qu’ils fixent, en ce qui concerne les passeports et les documents de voyage:
+
+- a. les éléments et les exigences de sécurité complémentaires;
+- b. les spécifications techniques relatives au support de stockage des éléments biométriques et à sa sécurisation;
+- c. les exigences en matière de qualité et de normes techniques communes en ce qui concerne la photo faciale et les empreintes digitales.
+
+[^5b-1]: Introduit par le ch. II de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
+[^5b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^5b-3]: Cf. note de bas de page relative à l’art. 5*a.*
+
+## Chapitre 2 Demande, établissement, perte et restitution
+
+### Section 1**** Autorité d'établissement
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 6
+
+**Documents d’identité ordinaires**
+
+<sup>1</sup> En Suisse, les services désignés par les cantons de domicile sont chargés d’établir les documents d’identité.
+
+<sup>2</sup> À l’étranger, la représentation diplomatique ou consulaire suisse auprès de laquelle le requérant est enregistré est chargée d’établir les documents d’identité.[^6-1]
+
+<sup>3</sup> Les personnes qui ne sont pas enregistrées auprès d’une représentation diplomatique ou consulaire et qui n’ont pas de domicile en Suisse, présentent leur demande de document d’identité à l’autorité d’établissement compétente de leur lieu de séjour actuel.[^6-2]
+
+<sup>4</sup> Si les circonstances le justifient, l’autorité d’établissement du lieu de séjour peut également accepter une demande de document d’identité avec l’accord préalable de l’autorité d’établissement compétente.
+
+[^6-1]: Nouvelle teneur selon l’art. 76 ch. 1 de l’O du 7 oct. 2015 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
+[^6-2]: Nouvelle teneur selon l’art. 76 ch. 1 de l’O du 7 oct. 2015 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
+
+#### Art. 7
+
+**Passeports provisoires**
+
+<sup>1</sup> Le passeport provisoire doit être demandé à l’autorité d’établissement compétente (art. 6). Il est produit par l’autorité d’établissement compétente et remis au requérant. L’art. 6, al. 3 et 4, est applicable par analogie. Il n’est pas nécessaire de requérir l’accord préalable prévu à l’art. 6, al. 4, lorsque l’identité et les données personnelles du requérant sont établies de manière univoque.
+
+<sup>2</sup> Les cantons peuvent désigner, dans les aéroports en particulier, des autorités exclusivement chargées d’établir des passeports provisoires. Ces services peuvent être exploités notamment par le Corps des gardes-frontière ou par la police, sous la surveillance du canton.
+
+#### Art. 8
+
+**Conflits de compétence**
+
+<sup>1</sup> Si l’autorité d’établissement ne peut être déterminée de façon certaine et incontestable parmi les services responsables visés à l’art. 4, al. 1, LDI, l’Office fédéral de la police (office) tranche.
+
+<sup>2</sup> Si l’autorité d’établissement ne peut être déterminée de façon certaine et incontestable parmi les autorités d’établissement à l’étranger visées à l’art. 4, al. 2, LDI, le Département fédéral des affaires étrangères (DFAE) tranche.
+
+<sup>3</sup> Si l’autorité d’établissement ne peut être déterminée de façon certaine et incontestable entre les services responsables visés à l’art. 4, al. 1, LDI et les autorités d’établissement visées à l’art. 4, al. 2, LDI, l’office tranche.
+
+### Section 2 Procédure de demande et procédure d'établissement****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 9
+
+**Demande d’établissement**[^9-1]
+
+<sup>1</sup> Le requérant peut transmettre ses données personnelles à l’autorité d’établissement compétente par Internet ou par téléphone avant de se présenter personnellement (art. 12) ou au moment de se présenter personnellement. Les autorités d’établissement compétentes déterminent le mode de transmission de la demande qu’elles autorisent.
+
+<sup>2</sup> Les cantons décident si le requérant peut apporter une photographie numérique. Le département détermine les exigences auxquelles cette photographie doit satisfaire. Les autorités d’établissement examinent la qualité de la photographie et décident si celle-ci satisfait aux exigences.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 10
+
+**Reprise et vérification des données personnelles**[^10-1]
+
+<sup>1</sup> L’autorité d’établissement compétente reprend les données personnelles du registre électronique de l’état civil (Infostar) et les transfère dans le système d’information relatif aux documents d’identité (ISA) visé à l’art. 11 LDI. Si cela n’est pas possible, les données personnelles peuvent être reprises du registre du contrôle des habitants, pour autant que celui-ci soit géré sur la base des actes d’origine ou du registre des familles.
+
+<sup>2</sup> Les données personnelles déjà enregistrées dans ISA peuvent être reprises pour une nouvelle demande lorsqu’il n’est pas possible de reprendre les données des registres visés à l’al. 1. Elles doivent impérativement être comparées à une deuxième source de données. À ces fins, les autorités d’établissement peuvent exiger du requérant qu’il apporte un document (par ex. document de l’office de l’état civil ou attestation de domicile).
+
+<sup>3</sup> L’autorité d’établissement compétente vérifie les données reprises dans ISA et notamment le fait que le requérant est de nationalité suisse. Si les données ne peuvent être reprises des registres visés aux al. 1 ou 2 ou s’il y a des doutes quant à l’exactitude des données personnelles, l’autorité d’établissement compétente doit les faire vérifier par la commune de domicile du requérant ou par l’office de l’état civil compétent.
+
+<sup>4</sup> Le requérant confirme par sa signature l’exactitude des données.
+
+<sup>5</sup>
+
+Les données suivantes peuvent être reprises d’Infostar:
+
+- a. nom(s) et prénom(s) du requérant;
+- b. sexe;
+- c. lieu et date de naissance;
+- d. nom(s) de famille et prénom(s) des parents;
+- e. droit de cité ou nationalité;
+- f. lieu(x) d’origine;
+- g. statut de vie;
+- h. numéro d’assuré AVS.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 11
+
+**Autorisation du représentant légal**
+
+<sup>1</sup> Si les deux parents sont détenteurs de l’autorité parentale, il suffit que l’un d’eux signe la demande.
+
+<sup>2</sup> Si les circonstances ne permettent pas de présumer l’accord de l’autre parent, le consentement de ce dernier doit également être obtenu.
+
+#### Art. 12
+
+**Présentation en personne**[^12-1]
+
+<sup>1</sup> Le requérant doit se présenter personnellement à l’autorité d’établissement compétente, muni des éventuels documents requis par l’autorité d’établissement, et attester de son identité. L’autorité d’établissement contrôle l’identité du requérant.
+
+<sup>2</sup> Le requérant peut se présenter à l’autorité d’établissement d’un autre canton pour autant que les deux cantons concernés aient conclu une convention allant dans ce sens. Dans des cas particuliers, le requérant peut se présenter à l’autorité d’établissement d’un autre canton si les autorités concernées ont donné leur accord. La demande selon l’art. 9, al. 1, doit être déposée auprès de l’autorité d’établissement compétente du canton de domicile.
+
+<sup>3</sup> Une personne enregistrée à l’étranger peut se présenter personnellement à n’importe quelle autorité d’établissement à l’étranger. Dans des cas particuliers, le requérant peut se présenter à l’autorité d’établissement d’un canton si les autorités concernées ont donné leur accord. La demande selon l’art. 9, al. 1, doit être déposée auprès de la représentation diplomatique ou consulaire suisse auprès de laquelle le requérant est enregistré.[^12-2]
+
+<sup>4</sup> L’autorité d’établissement compétente peut dispenser le requérant qui souffre de graves infirmités physiques ou psychiques de se présenter personnellement si son identité peut être attestée de façon certaine d’une autre manière et si les données nécessaires peuvent être obtenues par un autre biais.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^12-2]: Nouvelle teneur selon l’art. 76 ch. 1 de l’O du 7 oct. 2015 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
+
+#### Art. 13
+
+**Saisie de la photographie et des empreintes digitales**[^13-1]
+
+<sup>1</sup> L’autorité d’établissement compétente prend une photographie numérique du requérant si celui-ci n’en a pas apporté une lui-même ou que la photographie ne satisfait pas aux exigences visées à l’art. 9, al. 2.
+
+<sup>2</sup> Elle prend à plat les empreintes digitales des index gauche et droit du requérant. En cas d’absence d’index, de qualité insuffisante de l’empreinte ou de blessure au bout du doigt, l’empreinte du majeur, de l’annulaire ou du pouce est prise.
+
+<sup>3</sup> Les empreintes digitales ne sont pas prises lorsque le requérant a moins de douze ans ou lorsque des raisons médicales durables rendent leur prise impossible. Les empreintes digitales ne sont pas prises pour les demandes de carte d’identité.
+
+<sup>4</sup> Lorsque, pour des raisons médicales temporaires, les empreintes digitales ne peuvent être prises, l’autorité d’établissement établit un passeport dont la durée de validité est limitée à une année. La limitation de la durée de validité n’a pas d’incidence sur le montant des émoluments.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 13a
+
+**Autres vérifications et décision d’établissement**[^13a-1]
+
+<sup>1</sup>
+
+L’autorité d’établissement compétente vérifie:
+
+- a. si, dans les cas où elle est nécessaire, l’autorisation du représentant légal est jointe à la demande;
+- b. si un autre document d’identité du même type existe déjà pour le requérant;
+- c. si le requérant fait l’objet d’un mandat d’arrêt pour un crime ou un délit; elle consulte le cas échéant l’autorité qui a émis le mandat d’arrêt;
+- d. s’il existe un autre motif de refus selon l’art. 6 LDI;
+- e. si la photographie et les empreintes digitales du requérant concordent avec des données existantes le concernant.
+
+<sup>2</sup> Elle se fonde sur ISA, Infostar et le système de recherches informatisées de police RIPOL pour vérifier les critères définis à l’al. 1, let. b à e.
+
+<sup>3</sup> Elle vérifie si la demande est complète et correcte. Après approbation, elle transmet sans délai la demande au centre chargé de produire les documents d’identité.
+
+<sup>4</sup> Le cas échéant, elle notifie au requérant une décision de refus indiquant les voies de recours.
+
+[^13a-1]: Introduit par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 14
+
+**Contenu du document d’identité**[^14-1]
+
+<sup>1</sup> Les données énumérées à l’art. 2, al. 1, let. a à f, LDI sont celles qui figurent dans Infostar, au registre des familles ou, exceptionnellement, dans ISA (cf. art. 10, al. 1 et 2). Le requérant peut toutefois demander l’inscription de son nom d’alliance.
+
+<sup>2</sup> Seul un lieu d’origine peut figurer dans le document d’identité. Si le requérant a plusieurs lieux d’origine, il doit choisir le lieu d’origine qui sera inscrit dans le document d’identité. Seul ce lieu d’origine sera enregistré dans ISA.
+
+<sup>3</sup> L’autorité d’établissement qui figure dans le document d’identité est le service responsable au sens de l’art. 4, al. 1 LDI.
+
+<sup>4</sup> Les indications concernant la taille sont omises pour les enfants de moins de quatorze ans. La taille peut être omise pour les personnes en fauteuil roulant. La signature n’est pas requise pour les enfants de moins de sept ans et les personnes durablement ou temporairement incapables d’écrire.
+
+<sup>5</sup> La personne qui désire faire apposer une inscription selon l’art. 2, al. 4, LDI doit rendre vraisemblables les faits correspondants. La personne qui désire faire inscrire un nom d’artiste doit prouver qu’elle est généralement connue sous ce nom. L’autorité d’établissement compétente statue sur cette demande.
+
+<sup>6</sup> À l’exception du nom d’alliance, les inscriptions particulières selon l’art. 2, al. 4 et 5, LDI sont exclues pour la carte d’identité.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 14a
+
+**Contenu supplémentaire du passeport**[^14a-1]
+
+<sup>1</sup>
+
+Les données suivantes sont enregistrées dans la puce des passeports visés à l’art. 2, al. 2:
+
+- a.[^14a-2] les données prévues à l’art. 2, al. 1, let. a à d, f, l et m, LDI;
+- b. une photographie du visage;
+- c. deux empreintes digitales.
+
+<sup>2</sup> Le contenu de la puce est certifié par une signature électronique.
+
+<sup>3</sup> Le règlement (CE) n<sup>o</sup> 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les États membres[^14a-3] est applicable.
+
+[^14a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> février 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)).
+[^14a-3]: JO L 385 du 29.12.2004, p. 1; mod. la plus récente par le R (CE) n<sup>o</sup> 444/2009, JO L 142 du 6.6.2009, p. 1.
+
+#### Art. 14b
+
+[^14b-1]
+
+[^14b-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+### Section 2*a***** Procédure de demande de cartes d’identité auprès de la commune de domicile
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> février 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)).
+
+#### Art. 14c
+
+**Exigences applicables à la commune de domicile**[^14c-1]
+
+<sup>1</sup> La commune de domicile utilise l’application ISA-NAVIG mise à disposition par la Confédération pour traiter les demandes de cartes d’identité.
+
+<sup>2</sup> La commune de domicile prend à sa charge les coûts du matériel informatique requis et les frais d’installation de l’application ISA-NAVIG.
+
+<sup>3</sup> La commune de domicile est responsable du traitement des données. Elle efface les données traitées en dehors de l’application ISA-NAVIG une fois la procédure d’établissement terminée, dans la mesure où elles ne sont soumises à aucune obligation de conservation.
+
+<sup>4</sup> Le département détermine les exigences auxquelles doivent satisfaire les communes de domicile en matière d’infrastructure technique, notamment en ce qui concerne la connexion Internet, les antivirus ainsi que le logiciel et le matériel informatiques à utiliser.
+
+[^14c-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+
+#### Art. 14d
+
+**Demande**[^14d-1]
+
+<sup>1</sup> Les cantons peuvent autoriser les communes de domicile à accepter les demandes d’établissement de cartes d’identité sans puce.
+
+<sup>2</sup> Le requérant doit se présenter personnellement à la commune de domicile compétente, apporter les documents éventuellement requis et attester son identité. La commune de domicile détermine si le requérant doit se munir d’une photographie ou s’il peut la faire faire sur place. Le département fixe les exigences auxquelles la photographie doit répondre.
+
+<sup>3</sup> La commune de domicile remplit le formulaire électronique de demande de manière complète et exacte sur la base des indications des registres des habitants, qui se fondent sur les données figurant dans le registre électronique de l’état civil Infostar. Elle joint à la demande la photographie.
+
+<sup>4</sup> Le requérant confirme l’exactitude des indications par sa signature et s’acquitte de l’émolument.
+
+<sup>5</sup> La commune de domicile envoie la demande électronique dûment complétée et chiffrée à ISA.
+
+<sup>6</sup> La demande est automatiquement effacée dans ISA-NAVIG un mois après l’échéance du délai de signalement des défauts prévu à l’art. 52, al. 1.
+
+[^14d-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+
+#### Art. 14e
+
+**Vérification de la demande et établissement**[^14e-1]
+
+<sup>1</sup> L’autorité d’établissement compétente vérifie que la demande est complète et exacte et contrôle la qualité de la photographie et de la signature.
+
+<sup>2</sup> Si les données sont inexactes ou incomplètes, l’autorité d’établissement renvoie la demande par courrier électronique à la commune de domicile pour correction; au besoin, la commune de domicile en informe le requérant.
+
+<sup>3</sup> L’autorité d’établissement compétente procède aux vérifications prévues à l’art. 13*a*, à l’exception de la vérification visée à l’al. 1, let. e, concernant la concordance des empreintes digitales.
+
+[^14e-1]: Introduit par le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+
+#### Art. 14f
+
+**Application par analogie**[^14f-1]
+
+Sauf disposition contraire de la présente section, les autres dispositions de l’OLDI sont applicables par analogie à la procédure de demande auprès de la commune de domicile.
+
+[^14f-1]: Introduit par le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+
+### Section 3 Centres chargés de produire les documents d’identité, entreprises générales, prestataires de services et fournisseurs****
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 15
+
+**Preuve de la bonne réputation**[^15-1]
+
+<sup>1</sup>
+
+Pour établir la preuve de la bonne réputation, l’office peut demander, en plus du contrôle de sécurité des personnes, que les personnes physiques ou morales visées à l’art. 6*a*, al. 1 et 2, LDI ou leurs organes lui fournissent notamment les documents suivants:
+
+- a. extrait du casier judiciaire central;
+- b. extrait du registre du commerce;
+- c. extrait du registre des poursuites pour dettes et faillites portant sur les dix dernières années;
+- d. curriculum vitae, inventaire complet des engagements commerciaux compris;
+- e. vue d’ensemble des participations financières des dix dernières années;
+- f. liste complète des enquêtes pénales et des procédures pénales et civiles des dix dernières années.
+
+<sup>2</sup> Sont réputées ayants droit économiques et titulaires de participations pouvant exercer une influence déterminante sur l’entreprise les personnes qui disposent d’une participation directe ou indirecte supérieure à 10 % du capital ou des droits de vote. Lorsqu’il estime que cela est nécessaire, l’office peut aussi réclamer les documents précités de personnes dont la participation directe ou indirecte est inférieure à 10 % du capital ou des droits de vote.
+
+<sup>3</sup> Si l’une des personnes mentionnées aux al. 1 et 2 avait son siège ou son domicile à l’étranger au cours des dix dernières années, elle doit fournir les documents étrangers équivalents.
+
+<sup>4</sup> L’office peut demander que les centres visés à l’art. 6*a*, al. 1, LDI vérifient périodiquement et de manière autonome la bonne réputation des personnes concernées et confirment qu’elles jouissent d’une bonne réputation.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 16
+
+**Devoir de production et de contrôle**[^16-1]
+
+<sup>1</sup>
+
+L’office peut demander aux centres visés à l’art. 6*a*, al. 1, LDI et, le cas échéant, aux membres du groupe d’entreprises de produire notamment les documents suivants:
+
+- a. comptes annuels contrôlés;
+- b. liste de tous les ayants droit économiques et titulaires de participations;
+- c. informations sur l’organisation de l’entreprise et sur les responsabilités de chaque personne;
+- d. système de gestion de la qualité certifié et adapté à la production de documents d’identité;
+- e. programme de mesures de sécurité présentant notamment les mesures visant à garantir la protection des données et la sécurité des documents d’identité à produire et des éléments qui les composent;
+- f. description des mesures prises en vue d’acquérir, de maintenir à niveau et de développer les connaissances spécifiques et les qualifications dans le domaine des documents d’identité.
+
+<sup>2</sup> Les comptes annuels doivent être contrôlés par un organe de révision économiquement et juridiquement indépendant dans le cadre d’une révision ordinaire. Les entreprises agréées en tant qu’expert-réviseur au sens de l’ordonnance du 22 août 2007 sur l’agrément et la surveillance des réviseurs[^16-2] peuvent exercer la fonction d’organe de révision. Pour les sociétés dont le siège se trouve à l’étranger, les exigences étrangères équivalentes sont applicables.
+
+<sup>3</sup> Les centres visés à l’art. 6*a*, al. 1, LDI apportent régulièrement la preuve qu’ils respectent et tiennent à jour le système de gestion de la qualité et le programme de mesures de sécurité.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^16-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+
+#### Art. 17
+
+[^17-1]
+
+[^17-1]: Abrogés par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 17a
+
+[^17a-1]
+
+[^17a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 18 et 19
+
+[^1819-1]
+
+[^1819-1]: Abrogés par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+### Section 4 Passeport remis en échange d’un passeport valable
+
+#### Art. 20
+
+**Conditions**
+
+<sup>1</sup> Un passeport peut être remis sur demande en échange d’un passeport valable si celui-ci rend un voyage difficile ou impossible.
+
+<sup>2</sup> La demande de passeport remis en échange doit être motivée par écrit.
+
+#### Art. 21
+
+**Dépôt**
+
+<sup>1</sup> Si un passeport a été remis en échange, un des deux passeports doit être déposé auprès d’une autorité d’établissement.
+
+<sup>2</sup> L’autorité peut exceptionnellement autoriser un autre type de dépôt si tout abus est exclu.
+
+### Section 5 Perte
+
+#### Art. 22
+
+**Définition**
+
+Toute disparition d’un document d’identité, notamment suite à un vol, à une perte ou à une destruction totale, est considérée comme une perte.
+
+#### Art. 23
+
+**Avis de perte et annonce**
+
+<sup>1</sup> Le titulaire d’un document d’identité doit en signaler la perte à la police locale dès qu’il la constate.
+
+<sup>2</sup> Les Suisses de l’étranger qui perdent un document d’identité à l’étranger en signalent de surcroît la perte à une représentation diplomatique ou consulaire. Celle-ci informe l’office de la perte aux fins d’inscription dans la recherche d’objets RIPOL.
+
+<sup>3</sup> Les Suisses qui séjournent temporairement à l’étranger et qui n’y demandent pas un document d’identité de remplacement signalent de surcroît la perte du document d’identité à un bureau de police suisse après leur retour en Suisse.
+
+<sup>4</sup>
+
+Le requérant d’un document d’identité de remplacement doit présenter un avis de perte:
+
+- a. d’une autorité de police suisse: en Suisse;
+- b. de l’autorité de police étrangère compétente: à l’étranger.
+
+#### Art. 24
+
+**Documents d’identité perdus et documents d’identité retrouvés**[^24-1]
+
+<sup>1</sup> La perte d’un document d’identité au sens de l’art. 22 entraîne son invalidité. Le document d’identité cesse d’être utilisable.
+
+<sup>2</sup> Les documents d’identité retrouvés ne sont pas rendus à leur titulaire et sont remis à une autorité d’établissement. Celle-ci les rend inutilisables.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+
+### Section 6 Restitution et annulation
+
+#### Art. 25
+
+**Principe**
+
+<sup>1</sup> L’ancien document d’identité est remis à l’autorité auprès de laquelle le requérant doit se présenter personnellement conformément à l’art. 12. Celle-ci le rend inutilisable avant d’approuver la demande.[^25-1]
+
+<sup>2</sup> Si l’ancien document d’identité ne peut être remis au moment de la demande, par exemple parce qu’il est encore requis pour un voyage ou un acte juridique, l’échange de documents d’identité doit être effectué par une autorité.[^25-2]
+
+<sup>3</sup> Sur demande, le document d’identité annulé peut être remis à son titulaire ou aux parents d’une personne décédée si aucun abus n’est à craindre.
+
+<sup>4</sup> L’office peut exiger que d’anciens documents d’identité lui soient remis intacts pour contrôle et évaluation.[^25-3]
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^25-3]: Introduit par le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+
+#### Art. 26
+
+**Restitution des passeports provisoires**
+
+<sup>1</sup> Les passeports provisoires doivent être restitués à l’autorité d’établissement après le retour en Suisse.
+
+<sup>2</sup> Si cela se justifie, un passeport provisoire peut être utilisé au plus tard jusqu’à l’expiration de sa durée de validité.
+
+### Section 7 Remise, contrôle et manipulation****
+
+[^chap2-sec7-1]
+
+[^chap2-sec7-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+
+#### Art. 27
+
+**Remise**[^27-1]
+
+<sup>1</sup> Le centre chargé de produire les documents d’identité envoie directement le document d’identité à l’adresse indiquée par le requérant.
+
+<sup>2</sup> Le DFAE peut édicter des dispositions dérogatoires pour la remise de documents d’identité à l’étranger.
+
+<sup>3</sup> Les documents d’identité qui n’ont pas pu être remis ou dont le titulaire n’a pas pris livraison sont remis à l’autorité d’établissement compétente. Celle-ci les conserve pendant douze mois à compter de la date d’établissement puis les détruit.
+
+<sup>4</sup> Le centre chargé de produire les documents d’identité vérifie le bon fonctionnement du passeport avant de l’envoyer à son titulaire.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 27a
+
+**Contrôle**[^27a-1]
+
+<sup>1</sup> La personne qui reçoit un document d’identité doit immédiatement contrôler qu’il ne contient pas d’erreurs et qu’il n’a pas été endommagé.
+
+<sup>2</sup> Le titulaire d’un passeport peut contrôler son bon fonctionnement et accéder au contenu de la puce. Les autorités d’établissement mettent à disposition les appareils de contrôle nécessaires. [^27a-2]
+
+<sup>3</sup>
+
+Le centre chargé de produire les documents informe le titulaire: [^27a-3]
+
+- a. de son obligation de contrôler le document d’identité selon l’al. 1;
+- b. de l’obligation de le manipuler avec soin selon l’art. 27*b*, et
+- c.[^27a-4] de la possibilité qu’il a de contrôler le bon fonctionnement du passeport selon l’al. 2.
+
+[^27a-1]: Introduit par le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+[^27a-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^27a-3]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^27a-4]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 27b
+
+**Manipulation**[^27b-1]
+
+Les documents d’identité doivent être manipulés avec soin.
+
+[^27b-1]: Introduit par le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+
+## Chapitre 3 Traitement et protection des données
+
+### Section 1 Dispositions générales
+
+#### Art. 28
+
+**But**
+
+ISA permet notamment:
+
+- a.[^28-1] de vérifier l’identité annoncée sur la base du document d’identité présenté ou des données biométriques;
+- b. de contrôler les documents d’identité valables et invalides;
+- c. d’empêcher l’établissement et la modification injustifiés de documents d’identité;
+- d. de décider du retrait des documents d’identité invalides ou utilisés abusivement;
+- e. de traiter des demandes d’entraide judiciaire en relation avec l’usage abusif de documents d’identité;
+- f. d’empêcher l’établissement de documents d’identité qui permettraient à une personne de se soustraire à la poursuite pénale;
+- g. de vérifier l’authenticité des documents;
+- h. de gérer les documents vierges et les spécimens;
+- i.[^28-2] d’identifier les victimes d’accidents, de catastrophes naturelles et d’actes de violence ainsi que les personnes disparues;
+- k.[^28-3] d’enregistrer les résultats du contrôle des passeports prévu à l’art. 27*a*, al. 2.
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+[^28-2]: Introduite par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^28-3]: Introduite par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 29
+
+**Contenu**
+
+<sup>1</sup> Les données des personnes pour lesquelles un document d’identité est établi selon la LDI, de même que des données administratives et d’autres données sont traitées dans ISA.
+
+<sup>2</sup>
+
+Afin de prévenir les abus et l’établissement injustifié de plusieurs documents d’identité, des données de personnes pour lesquelles aucun document d’identité n’a encore été établi selon la LDI peuvent être traitées en rapport avec:
+
+- a. la saisie d’un document d’identité;
+- b. le dépôt d’un document d’identité;
+- c. le retrait d’un document d’identité;
+- d. les mesures de protection des mineurs ou des interdits visées à l’art. 11, al. 1, let. g, LDI;
+- e. la perte de la nationalité du fait de la loi ou la révocation de la nationalité par l’autorité.
+
+### Section 2 Traitement des données
+
+#### Art. 30
+
+**Droits d’accès**
+
+<sup>1</sup> L’accès des autorités concernées à ISA et l’étendue de leurs droits sont réglés à l’annexe 1.
+
+<sup>2</sup> La consultation des données d’ISA aux fins de la vérification de l’identité se fait exclusivement au moyen du numéro du document d’identité à contrôler. Lorsqu’une personne ne peut pas présenter un document d’identité mais qu’elle consent à une telle consultation, le Corps des gardes-frontière et les services de police désignés par la Confédération et les cantons peuvent consulter les données d’ISA au moyen du nom et des données biométriques. La consultation aux fins de la vérification de l’identité sur la seule base du nom ou sur la seule base des données biométriques est interdite.[^30-1]
+
+<sup>3</sup> La consultation des données d’ISA aux fins de l’identification des victimes d’accidents, de catastrophes naturelles et d’actes de violence ainsi que des personnes disparues est possible sur la seule base des noms et prénoms.[^30-2]
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^30-2]: Introduit par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 31
+
+**Communication de données à des fins administratives**
+
+Des données d’ISA sont transmises périodiquement par voie électronique aux autorités d’établissement à des fins comptables, administratives et statistiques.
+
+#### Art. 32
+
+**Communication de données pour l’enregistrement d’annonces de perte**
+
+<sup>1</sup> Les services cantonaux saisissent les pertes de documents d’identité dans le RIPOL.[^32-1]
+
+<sup>2</sup> ISA met une interface à la disposition des services cantonaux afin qu’ils puissent reporter dans leur système cantonal les données d’ISA nécessaires à la préparation de la mention dans le RIPOL.
+
+[^32-1]: Nouvelle teneur selon le ch. I 7 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+
+#### Art. 33
+
+**Communication de données à l’étranger**
+
+Dans des cas d’espèce, l’office communique des données personnelles à des autorités étrangères, sur leur demande, pour autant qu’un accord international le prévoie.
+
+#### Art. 34
+
+**Traitement des données hors ligne**
+
+<sup>1</sup> S’il n’est pas possible de transmettre les données en ligne, l’office décide d’autres possibilités pour l’enregistrement des données dans ISA.
+
+<sup>2</sup> Si des difficultés apparaissent dans les représentations étrangères, notamment en ce qui concerne le traitement électronique des données, l’office établit des règles en accord avec le DFAE.
+
+#### Art. 35
+
+**Rectification et regroupement des données**
+
+<sup>1</sup> L’autorité d’établissement rectifie les données supplémentaires selon l’art. 11, al. 1, LDI.
+
+<sup>2</sup> Si, par exemple à la suite d’un changement de nom, la même personne fait l’objet de plusieurs entrées dans ISA, ces entrées doivent être regroupées par l’autorité d’établissement de sorte que les liens apparaissent entre les données.
+
+<sup>3</sup> Si le changement de nom résulte d’une adoption ou d’un changement de sexe, les données ne sont pas regroupées.
+
+#### Art. 36
+
+**Exactitude des données**
+
+<sup>1</sup> Les autorités concernées veillent dans leur domaine à ce que les données personnelles soient traitées conformément aux prescriptions.
+
+<sup>2</sup> Quiconque traite des données personnelles s’assure que les données qu’elle introduit dans le système ou qu’elle fournit à l’autorité compétente sont complètes, exactes et à jour.
+
+#### Art. 37
+
+**Archivage et destruction des données**
+
+<sup>1</sup> Les données relatives à un document d’identité enregistrées dans ISA sont détruites 20 ans après le premier enregistrement, si elles ne sont pas conservées par les Archives fédérales. Les Archives fédérales décident de l’opportunité de conserver des données personnelles.
+
+<sup>2</sup> Les données relatives à la saisie et au dépôt de documents d’identité sont détruites le jour même de la réception de la décision de levée de la mesure.
+
+### Section 3 Sécurité des données et surveillance****
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Anciennement avant l’art. 38. Remplace la section 2*a*.
+
+#### Art. 37a
+
+**Exigences concernant les autorités d’établissement**[^37a-1]
+
+<sup>1</sup> L’autorité d’établissement compétente veille à ce qu’au moins deux personnes participent au traitement de chaque demande.
+
+<sup>2</sup> Si cela n’est pas possible, les personnes chargées du traitement des demandes doivent se soumettre à un contrôle de sécurité relatif aux personnes et d’autres mesures de contrôle appropriées doivent être prises.
+
+[^37a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 38
+
+**Exigences concernant les terminaux**
+
+<sup>1</sup> Les terminaux prévus pour un usage externe à la Confédération doivent répondre aux exigences techniques de la Confédération.
+
+<sup>2</sup> L’office règle les détails.
+
+#### Art. 39
+
+**Chiffrement**
+
+Les données sont transmises exclusivement sous forme codée.
+
+#### Art. 40
+
+**Journalisation**
+
+<sup>1</sup> Tout traitement de données est journalisé.
+
+<sup>2</sup> Les procès-verbaux sont conservés pendant une année et sous une forme répondant aux exigences de la révision.
+
+#### Art. 41
+
+**Surveillance de la Confédération**
+
+<sup>1</sup> L’office surveille le traitement des données personnelles par des tiers. Il coordonne ses activités avec les autorités participant à ISA.
+
+<sup>2</sup> Il édicte un règlement à l’attention des utilisateurs.
+
+<sup>3</sup> Il veille au respect de la présente ordonnance et des directives qui en découlent.
+
+### Section 4 Droits des intéressés
+
+#### Art. 42
+
+**Droit à l’information et à la rectification des données**
+
+<sup>1</sup> Toute personne peut demander par écrit à l’office si des données la concernant sont traitées.
+
+<sup>2</sup> Les renseignements sont fournis par écrit et gratuitement. Ils comprennent toutes les données sur le requérant qui sont enregistrées dans le système d’information.
+
+<sup>3</sup> L’art. 9 de la loi fédérale du 19 juin 1992 sur la protection des données[^42-1] s’applique au refus, à la restriction et au report de la communication des renseignements.
+
+<sup>4</sup> Toute personne peut demander la rectification des données inexactes la concernant.
+
+[^42-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 43
+
+**Autres droits des intéressés**
+
+L’art. 25 de la loi fédérale du 19 juin 1992 sur la protection des données[^43-1] s’applique aux autres droits des intéressés.
+
+[^43-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### Section 5 Répartition des coûts entre la Confédération et les cantons
+
+#### Art. 44
+
+[^44-1]
+
+<sup>1</sup> La Confédération finance le raccordement et l’exploitation des circuits de transmission du centre serveur jusqu’au dispositif central de connexion (distributeur principal) du chef-lieu du canton.
+
+<sup>2</sup> Les cantons prennent en charge les frais d’installation et d’exploitation du réseau de distribution sur leur territoire.
+
+<sup>3</sup> Les cantons et les autres autorités raccordées à ISA prennent en charge les frais de maintenance et de remplacement des appareils acquis lors de l’introduction du passeport 03.
+
+<sup>4</sup> La Confédération définit les appareils de saisie et de contrôle des données biométriques et désigne leurs fournisseurs. L’acquisition des appareils est soumise à la loi fédérale du 16 décembre 1994 sur les marchés publics[^44-2].
+
+<sup>5</sup> Les cantons acquièrent exclusivement les appareils définis par la Confédération auprès des fournisseurs désignés par celle-ci. Les cantons prennent en charge les coûts d’acquisition, de maintenance et de remplacement de l’infrastructure nécessaire à l’établissement et au contrôle des documents d’identité.
+
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^44-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+
+## Chapitre 4 Émoluments
+
+#### Art. 45
+
+**Émoluments pour les documents d’identité**[^45-1]
+
+Quiconque demande un document d’identité doit s’acquitter d’un émolument.
+
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+
+#### Art. 46
+
+**Émoluments pour d’autres prestations**
+
+<sup>1</sup>
+
+Un émolument est perçu pour les prestations suivantes:
+
+- a. les inscriptions ultérieures visées à l’art. 2, al. 4, LDI;
+- b. l’établissement d’un passeport provisoire par une autorité d’établissement en dehors des heures de bureau ordinaires ainsi que le samedi, le dimanche et les jours fériés légaux;
+- c. l’établissement d’un passeport provisoire dans un aéroport.
+
+<sup>2</sup>
+
+Un émolument peut être perçu pour les prestations suivantes:
+
+- a.[^46-1] les investigations supplémentaires liées à l’établissement d’un document d’identité ordinaire ou d’un passeport provisoire en vertu de l’art. 6, al. 4;
+- b. le retrait d’un document d’identité;
+- c. la restitution d’un document d’identité retiré;
+- d. l’obtention de documents supplémentaires et la transmission de documents.
+
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 47
+
+**Montant des émoluments**
+
+Le montant des émoluments figure à l’annexe 2.
+
+#### Art. 48
+
+**Adaptation des émoluments**
+
+<sup>1</sup> Le Conseil fédéral examine, après une phase de consolidation, si les émoluments permettent de couvrir les frais.[^48-1]
+
+<sup>2</sup> Les émoluments sont arrondis aux 5 francs supérieurs ou inférieurs.
+
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 49
+
+**Débours**
+
+<sup>1</sup> Les débours sont calculés séparément et en fonction des frais effectifs. Ils sont perçus avec les émoluments.
+
+<sup>2</sup>
+
+Sont réputés débours les frais supplémentaires afférents à une prestation donnée, notamment:
+
+- a. les frais de port, de téléphone et de télécopie tant vers la Suisse que vers l’étranger;
+- b. les frais des travaux que les unités administratives font exécuter par des tiers;
+- c. les frais de matériel et de diffusion.
+
+#### Art. 50
+
+**Encaissement**[^50-1]
+
+<sup>1</sup> Les émoluments sont en principe versés par le requérant à l’autorité d’établissement lorsqu’il se présente personnellement auprès d’elle. L’autorité d’établissement décide du mode de paiement.
+
+<sup>2</sup> Les émoluments pour d’autres prestations et les débours sont perçus par l’autorité qui fournit les prestations.
+
+<sup>3</sup> À l’étranger, les émoluments et les débours sont payés en monnaie locale. Le DFAE peut prévoir des dispositions dérogatoires. Les représentations déterminent le taux de change conformément aux directives du DFAE.
+
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 51
+
+**Remboursement en cas de refus de documents d’identité**[^51-1]
+
+Si le document d’identité demandé ne peut être établi, l’autorité d’établissement compétente rembourse la part des frais relative à la production selon l’annexe 3, pour autant que celle-ci n’ait pas encore eu lieu.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 52
+
+**Prise en charge des frais en cas de défauts et de retards de livraison**[^52-1]
+
+<sup>1</sup> Si le requérant reçoit un document d’identité erroné, incomplet ou endommagé, un document de remplacement lui est fourni gratuitement s’il signale les défauts dans les 30 jours ouvrables suivant la réception du document d’identité.
+
+<sup>2</sup> Le délai de livraison du document d’identité est, en Suisse, de dix jours ouvrables et, à l’étranger, de 30 jours ouvrables à compter de l’approbation de la demande par l’autorité compétente. Dans des cas d’espèce, la représentation étrangère peut prévoir un délai de livraison plus long.
+
+<sup>3</sup> Si les circonstances le justifient, par exemple en cas de problème technique, le département peut décider d’un délai plus long. La prolongation du délai est publiée dans la Feuille fédérale.
+
+<sup>4</sup> Si le délai de livraison n’est pas respecté, le requérant peut le signaler dans les cinq jours ouvrables qui suivent. Dans ce cas, il a droit à l’établissement sans frais d’un passeport provisoire s’il en a besoin pour un voyage ou à d’autres fins. Si le requérant ne reçoit pas le passeport qu’il a demandé et si sa réception ne peut plus raisonnablement être escomptée, le requérant a droit à l’établissement sans frais d’un nouveau passeport.
+
+<sup>5</sup> Si le centre chargé de produire les documents d’identité est responsable du défaut ou du retard de livraison, l’autorité d’établissement compétente lui fournit les documents justifiant la production gratuite du document d’identité.
+
+<sup>6</sup> L’office tranche en cas de divergences entre l’autorité d’établissement compétente et le centre chargé de produire les documents d’identité.
+
+<sup>7</sup> Si le document d’identité n’est plus utilisable bien que son titulaire en ait pris soin, ou si la puce est défectueuse, le titulaire reçoit gratuitement un nouveau passeport pour la durée de validité restante. Le titulaire ne peut pas prétendre au remboursement de ses frais.
+
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 53
+
+**Décompte et répartition des émoluments**
+
+<sup>1</sup> La Confédération et les cantons se répartissent les émoluments.
+
+<sup>2</sup> La répartition est réglée à l’annexe 3.
+
+## Chapitre 5 Voies de droit
+
+#### Art. 54
+
+<sup>1</sup> Les décisions de l’autorité cantonale compétente sont susceptibles de recours conformément au droit cantonal applicable. Les décisions cantonales de dernière instance peuvent faire l’objet d’un recours devant le Tribunal fédéral.[^54-1]
+
+<sup>2</sup> L’office est l’autorité de décision pour les documents d’identité demandés à l’étranger.
+
+<sup>3</sup> Les voies de droit sont régies par les dispositions générales sur la procédure fédérale.
+
+[^54-1]: Nouvelle teneur selon le ch. IV 1 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Chapitre 6 Passeports diplomatiques et passeports de service
+
+#### Art. 55
+
+**Ayants droit**
+
+<sup>1</sup>
+
+Les passeports diplomatiques et les passeports de service peuvent être établis:
+
+- a. pour le personnel du DFAE, actif ou à la retraite, ainsi que pour les membres de leur famille et les personnes qui les accompagnent;
+- b. pour les personnes exerçant une fonction officielle auprès d’une autorité fédérale ou d’une organisation semi-étatique, actives ou à la retraite, ainsi que pour les membres de leur famille et les personnes qui les accompagnent;
+- c. pour les personnes en mission officielle à l’étranger, pour la durée de leur mission;
+- d. pour certains collaborateurs de rang supérieur et de nationalité suisse, actifs auprès d’organisations internationales;
+- e. pour les membres du Conseil fédéral, y compris le chancelier ou la chancelière de la Confédération, en fonction ou à la retraite, ainsi que pour les membres de leur famille et les personnes qui les accompagnent;
+- f. pour les présidents du Conseil national et du Conseil des États et pour les personnes exerçant une fonction aux Chambres fédérales qui voyagent à l’étranger dans le cadre d’une commission parlementaire.
+
+<sup>2</sup> Ils peuvent être remis aux ayants droit pour une durée limitée ou illimitée.[^55-1]
+
+<sup>3</sup> …[^55-2]
+
+<sup>4</sup> Le DFAE règle les détails.[^55-3]
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+[^55-2]: Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^55-3]: Introduit par le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+
+#### Art. 56
+
+**Particularités**[^56-1]
+
+<sup>1</sup> Le DFAE règle les modalités relatives aux passeports diplomatiques et aux passeports de service selon les chap. 1 à 5 de la présente ordonnance.
+
+<sup>2</sup> Il exploite sa propre autorité d’établissement pour l’établissement et le contrôle des documents d’identité.[^56-2]
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+[^56-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 57
+
+**Décisions**
+
+Les décisions et les prescriptions de service du DFAE relatives à l’établissement, à la remise et au retrait des passeports diplomatiques et des passeports de service ne sont pas des décisions administratives soumises à la procédure de recours ordinaire.
+
+## Chapitre 7 Dispositions finales
+
+#### Art. 58
+
+**Exécution**[^58-1]
+
+<sup>1</sup> Le département est chargé de l’exécution de la présente ordonnance.
+
+<sup>2</sup> Il édicte les directives relatives aux documents d’identité nécessaires à l’exécution de la présente ordonnance.
+
+<sup>3</sup> et <sup>4</sup> …[^58-2]
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2006, en vigueur depuis le 4 sept. 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)).
+[^58-2]: Abrogés par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 58a
+
+[^58a-1]
+
+[^58a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+#### Art. 59
+
+**Abrogation du droit en vigueur**
+
+Sont abrogées:
+
+- 1\. Ordonnance du 17 juillet 1959 relative aux passeports[^59-1];
+- 2\. Ordonnance du 18 mai 1994 relative à la carte d’identité suisse[^59-2].
+
+[^59-1]: [[RO 1959 603](https://fedlex.data.admin.ch/eli/oc/1959/581_603_583), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)ch. II let. C ch. 1]
+[^59-2]: [[RO 1994 1412](https://fedlex.data.admin.ch/eli/oc/1994/1412_1412_1412)]
+
+#### Art. 60
+
+**Modification du droit en vigueur**
+
+…[^60-1]
+
+[^60-1]: Les mod. peuvent être consultée au [RO 2002 3151](https://fedlex.data.admin.ch/eli/oc/2002/468).
+
+#### Art. 61
+
+**Dispositions transitoires**
+
+<sup>1</sup> La perte de documents d’identité établis avant le 1<sup>er</sup> janvier 2003 ne peut être inscrite dans ISA.
+
+<sup>2</sup> Afin d’éviter l’établissement injustifié de plusieurs documents d’identité, les autorités d’établissement sont tenues de consulter la banque de données fédérale sur la carte d’identité 95 et leurs registres cantonaux aussi longtemps qu’y figurent des enregistrements de documents d’identité valables. À cet effet, elles peuvent comparer les données d’ISA avec celles de leurs registres.
+
+<sup>3</sup> Les communes de domicile peuvent continuer à utiliser la procédure de demande actuelle sur formulaire papier au plus tard jusqu’au 31 décembre 2014.[^61-1]
+
+[^61-1]: Introduit par le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+
+#### Art. 61<sup>bis</sup>
+
+**Nouveau document d’identité avec nom d’alliance**[^61bis-1]
+
+<sup>1</sup> Quiconque a reçu ou commandé un document d’identité sur lequel ne figure pas le nom d’alliance peut demander un nouveau document d’identité sur lequel celui-ci figure, et ce à un prix réduit du fait de la déduction de la participation de la Confédération (part production et part fédérale au sens étroit; annexe 3). La présente disposition ne s’applique pas aux passeports provisoires.
+
+<sup>2</sup> La présente réglementation est en vigueur jusqu’au 31 juillet 2004.
+
+[^61bis-1]: Introduit par le ch. I de l’O du 2 juil. 2003, en vigueur depuis le 1<sup>er</sup> août 2003 ([RO 2003 2195](https://fedlex.data.admin.ch/eli/oc/2003/325)).
+
+#### Art. 61<sup>ter</sup> et 61<sup>quater</sup>
+
+[^61ter61quater-1]
+
+[^61ter61quater-1]: Introduit par le ch. I de l’O du 21 oct. 2009 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)). Abrogé par le ch. I de l’O du 1<sup>er</sup> février 2012, avec effet au 1<sup>er</sup> mars 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)).
+
+#### Art. 62
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2002, sous réserve de l’al. 2.
+
+<sup>2</sup> Les art. 59 et 60 entrent en vigueur le 1<sup>er</sup> janvier 2003.
+
+Annexe 1*[^t-1]*
+
+(art. 30, al. 1)
+
+## Autorisation de traiter ou de consulter des données enregistrées dans ISA
+
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> fév. 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)). Mise à jour selon le ch. II de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+
+A = Consultation; E = Entrée et consultation
+
+<table>
+<tr><th>Nom du champ de données</th><th colspan="5">Confédération</th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2">Cantons</th><th></th><th colspan="3">Tiers</th></tr>
+<tr><th></th><th>Fedpol Doc. id</th><th>Fedpol Pol</th><th>DFAE Ext A. ét.</th><th>DFAE Int A. ét.</th><th colspan="3">DFAE Int Doc suppl.</th><th colspan="4">Cgfr</th><th>Cant. A. ét.</th><th colspan="2">APP</th><th>A. pol. Vérif. Id.</th><th>A. pol. Perte doc.</th><th>C. co.</th></tr>
+<tr><td>Enregistrement documents d’identité + banque de données</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>I. Données relatives aux documents d’identité</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Nom selon art. 2, al. 1, let. a, LDI, ou nom d’alliance</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Prénom(s), let. b</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Sexe, let. c</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date de naissance, let. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Lieu d’origine, let. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Nationalité, let. f</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Taille, let. g</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Signature, let. h</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Photographie, let. i/photographie numérique, art. 14*a*, al. 1, let. b, OLDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Empreintes digitales, art. 14*a*, al. 1, let. c, OLDI</td><td>E</td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td colspan="3"></td><td colspan="4">A<sup>1</sup></td><td>E<sup>1</sup></td><td colspan="2">E<sup>1</sup></td><td>A<sup>1</sup></td><td></td><td></td></tr>
+<tr><td>Autorité d’établissement, let. j LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date d’établissement, let. k</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Date d’expiration, let. l</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Numéro du document, let. m</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Type de document, let. m</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Zone de lecture automatisée, art. 2, al. 2, LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Restrictions de validité, al. 3</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Inscriptions sur demande du requérant, al. 4</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Représentation légale des mineurs, al. 5</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>II. Données supplémentaires de la banque de données</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Autorité qui transmet la demande d’établissement, art. 11, al. 1, let. a, LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numéro de la demande</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date de la demande</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numéro de l’objet</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Numéro du dossier</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Type de la demande</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Motif de la demande</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Remarques concernant la demande</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Documents relatifs à la demande</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Documents de voyage supplétifs</td><td>E</td><td></td><td>E</td><td></td><td colspan="3">A</td><td colspan="4">A</td><td>A</td><td colspan="2">A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date de la saisie</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Unité de production</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td>E</td></tr>
+<tr><td>État de la production</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Numéro d’envoi</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td>E</td></tr>
+<tr><td>Code de langue</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date de prise en charge</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2"></td><td></td><td></td><td>E</td></tr>
+<tr><td>Type d’émoluments</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Confirmation de production</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2"></td><td></td><td></td><td>E</td></tr>
+<tr><td>Date d’envoi</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2"></td><td></td><td></td><td>E</td></tr>
+<tr><td>Adresse du domicile</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Données de contact</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Adresse d’envoi</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Lieu de naissance, art. 11, al. 1, let. b, LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Noms et prénoms des parents, let. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numéro d’assuré AVS</td><td>A</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Date du premier et du nouvel établissement, let. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Modifications des mentions figurant dans le document d’identité</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Inscriptions concernant la saisie de documents d’identité, let. f</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Dépôt de documents d’identité</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Refus de documents d’identité</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Avis de perte/révocation</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td>E</td><td></td></tr>
+<tr><td>Retrait</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Mesures de protection des mineurs et des interdits, let. g</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Signature des représentants légaux pour les documents d’identité des mineurs, let. h</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Perte et révocation de la nationalité, let. i</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Particularités des documents d’identité diplomatiques et consulaires, let. j (champ particulier)</td><td>A</td><td></td><td></td><td>E</td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Statut du document d’identité</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td colspan="18"><sup>1</sup> Seulement à titre de comparaison, pas d’affichage à l’écran et pas de possibilité d’exporter des données.</td></tr>
+</table>
+
+**Abréviations:**
+
+- Fedpol Doc. Id.: Section Documents d’identité de l’Office fédéral de la police (service compétent de la Confédération, art. 12, al. 1, let. a, LDI)
+- Fedpol Pol: Office fédéral de la police en tant que service de police compétent de la Confédération (art. 12, al. 2, let. d et f, et art. 12, al. 3, LDI)
+- DFAE Ext A. ét.: Autorité d’établissement externe du DFAE pour les documents d’identité, les passeports provisoires et les passeports biométriques (art. 12, al. 1, let. b, LDI) = représentation suisse à l’étranger
+- DFAE Int A. ét.: Autorité d’établissement interne du DFAE pour les passeports diplomatiques biométriques, les passeports de service biométriques et les passeports provisoires (art. 12, al. 1, let. b, LDI)
+- DFAE Int Doc suppl.: Autorité d’établissement interne au DFAE pour les documents de voyage supplétifs
+- Cgfr: Corps des gardes-frontière (art. 12, al. 2, let. c, LDI)
+- Cant. A. ét.: Autorité d’établissement cantonale (art. 12, al. 1, let. b, LDI)
+- APP: Autorité d’établissement pour les passeports provisoires (art. 12, al. 1, let. b, LDI)
+- A. pol. Vérif. Id.: Autorités de police désignées par les cantons pour vérifier l’identité (art. 12, al. 2, let. d, LDI)
+- A. pol. Perte doc.: Autorités de police désignées par les cantons pour enregistrer les annonces de perte (art. 12, al. 2, let. e, LDI)
+- C. co.: Centre chargé de produire les documents d’identité ordinaires (art. 12, al. 1, let. c, LDI)
+
+Annexe 2*[^t-2]*
+
+(art. 47)
+
+## Émoluments pour les documents d’identité (art. 45)
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+<table>
+<tr><td></td><td>Carte d’identité fr.</td><td>Passeport fr.</td><td>Passeport + carte d’identité fr.</td><td>Passeport provisoire fr.</td></tr>
+<tr><td>Enfants\*</td><td>30.–</td><td>60.–</td><td>68.–</td><td>100.–</td></tr>
+<tr><td>Adultes\*</td><td>65.–</td><td>140.–</td><td>148.–</td><td>100.–</td></tr>
+<tr><td colspan="5">\* Passeport: enfants = personnes âgées de moins de 18 ans; adultes = personnes âgées de 18 ans ou plus.</td></tr>
+</table>
+
+## Émoluments pour d’autres prestations (art. 46)
+
+<table>
+<tr><td></td><td>fr.</td></tr>
+<tr><td>Suppléments obligatoires (al. 1):</td><td></td></tr>
+<tr><td>a. inscriptions ultérieures par une autorité d’établissement</td><td>20.–</td></tr>
+<tr><td>b. établissement d’un passeport provisoire:</td><td></td></tr>
+<tr><td>– en dehors des heures de bureau normales</td><td>25.–</td></tr>
+<tr><td>– le samedi, le dimanche, les jours fériés légaux</td><td>50.–</td></tr>
+<tr><td>c. établissement d’un passeport provisoire à l’aéroport</td><td>50.–</td></tr>
+<tr><td>Suppléments facultatifs (al. 2):</td><td></td></tr>
+<tr><td>a. investigations particulières liées à l’établissement d’un document d’identité ordinaire ou d’un passeport provisoire:</td><td></td></tr>
+<tr><td>– temps de travail / barème horaire</td><td>80.–</td></tr>
+<tr><td>b. retrait d’un document d’identité</td><td>40.–</td></tr>
+<tr><td>c. restitution d’un document d’identité</td><td>40.–</td></tr>
+<tr><td>d. obtention de documents et transmission de documents:</td><td></td></tr>
+<tr><td>– émolument de base</td><td>20.–</td></tr>
+<tr><td>– frais selon l’art. 49</td><td>selon les frais effectifs</td></tr>
+</table>
+
+Annexe 3*[^t-3]*
+
+(art. 53, al. 2)
+
+## Répartition des émoluments entre la Confédération et les cantons
+
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+
+<table>
+<tr><td>Documents</td><td>Confédération</td><td></td><td>Cantons ou représentations suisses à l’étranger</td></tr>
+<tr><td></td><td>Part production fr.</td><td>Part fédérale au sens étroit fr.</td><td>fr.</td></tr>
+<tr><td>Carte d’identité</td><td></td><td></td><td></td></tr>
+<tr><td>Enfants</td><td>3.80</td><td>2.40</td><td>23.80</td></tr>
+<tr><td>Adultes</td><td>8.25</td><td>5.15</td><td>51.60</td></tr>
+<tr><td>Passeport</td><td></td><td></td><td></td></tr>
+<tr><td>Enfants</td><td>17.70</td><td>11.10</td><td>31.20</td></tr>
+<tr><td>Adultes</td><td>45.90</td><td>24.20</td><td>69.90</td></tr>
+<tr><td>Passeport + carte d’identité</td><td></td><td></td><td></td></tr>
+<tr><td>Enfants</td><td>25.70</td><td>11.10</td><td>31.20</td></tr>
+<tr><td>Adultes</td><td>53.90</td><td>24.20</td><td>69.90</td></tr>
+<tr><td>Passeport provisoire</td><td>30.—</td><td>0.—</td><td>70.—</td></tr>
+</table>

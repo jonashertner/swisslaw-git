@@ -1,0 +1,48 @@
+---
+sr: "0.974.268.11"
+title: Protocollo 16 agosto 1962 concernente la cooperazione tecnica e scientifica tra la Confederazione Svizzera e la Repubblica del Senegal
+eli: "https://fedlex.data.admin.ch/eli/cc/1965/752_756_754"
+language: it
+version: 1964-08-13
+adopted: 1962-08-16
+in_force: 1964-08-13
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/752_756_754/19640813/it/xml/fedlex-data-admin-ch-eli-cc-1965-752_756_754-19640813-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/752_756_754/19640813/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Protocollo concernente la cooperazione tecnica e scientifica tra la Confederazione Svizzera e la Repubblica del Senegal
+
+RU **1965** 754
+
+Traduzione
+
+Conchiuso a Berna il 16 agosto 1962 Entrato in vigore il 13 agosto 1964
+
+(Stato 13 agosto 1964)
+
+Visto l’articolo 1 dell’accordo sul commercio, la protezione degli investimenti e la cooperazione tecnica, firmato oggi fra i due Paesi, è stato convenuto quanto segue:
+
+- 1\. Per attuare le finalità dell’articolo 1 dell’accordo le Parti compileranno di comune intesa, dei programmi di cooperazione tecnica e scientifica.
+- 2\. Le autorità elvetiche agevoleranno, nel quadro della legislazione e della prassi, la realizzazione delle proposte fatte dal Governo senegalese nei settori tecnici e scientifici.
+- 3\. Dette autorità esamineranno, nel quadro della legislazione e della prassi, l’invio in Senegal di periti e specialisti, onde contribuire allo sviluppo della sua economia.
+- 4\. Le autorità svizzere accoglieranno, nei limiti delle possibilità, i borsisti, scelti di comune intesa fra i due Governi, e consentiranno loro di compiere degli studi nelle scuole superiori e nei technicum come anche degli alunnati nelle amministrazioni, le industrie, le banche o altri stabilimenti svizzeri.
+- 5\. Dette autorità accoglieranno, nel quadro della legislazione e della prassi e previo accordo fra i competenti servizi delle Parti, gli specialisti senegalesi in viaggio di studi in Svizzera.
+- 6\. Ciascun Governo assumerà un’equa parte delle spese d’esecuzione dei progetti di cooperazione tecnica attuati in virtù del presente testo.
+- 7\.
+
+  Nel quadro del presente testo, il Governo senegalese s’obbliga[^ingress-1]:
+
+  - a. ad addossarsi i dazi d’entrata sui prodotti ed oggetti d’origine pubblica o privata e di fabbricazione svizzera od estera, forniti dalla Svizzera gratuitamente per l’esecuzione dei progetti basati sul presente protocollo;
+  - ad applicare il regime d’ammissione temporanea al materiale importato ma non incorporato in detti progetti;
+  - b. ad esentare, per tutta la durata della loro opera, periti e specialisti elvetici, dalle imposte e dagli altri oneri fiscali gravanti le aliquote d’onorari e d’emolumenti versate dal Governo svizzero;
+  - c. ad ammettere in franchigia di dazi e diritti il mobilio e gli effetti personali di detti periti e specialisti, e delle loro famiglie, importati all’atto dell’entrata in funzione in Senegal.
+
+- 8\. I programmi compilati sulla base del presente testo verranno realizzati sotto l’egida del Delegato del Consiglio federale alla cooperazione tecnica e del competente Ministero della Repubblica del Senegal.
+
+Fatto in Berna, il 16 agosto 1962, in due esemplari originali, in lingua francese.
+
+[^ingress-1]: Nuovo testo giusta lo scambio di note 30 VIII 1963 fra l’Ambasciata di Svizzera in Dakar e il Ministero degli esteri del Senegal.
+
+(Seguono le firme)

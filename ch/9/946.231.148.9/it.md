@@ -1,0 +1,69 @@
+---
+sr: "946.231.148.9"
+title: Ordinanza del 1° novembre 2006 che istituisce misure riguardanti il Libano
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/659"
+language: it
+version: 2006-11-02
+adopted: 2006-11-01
+in_force: 2006-11-02
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/659/20061102/it/xml/fedlex-data-admin-ch-eli-cc-2006-659-20061102-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/659/20061102/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza che istituisce misure riguardanti il Libano
+
+946.231.148.9 (Stato 7 novembre 2006)
+
+del 1° novembre 2006 (Stato 7 novembre 2006)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione della Risoluzione 1701 (2006)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,
+
+ordina:
+
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-2]: S/RES/1701 (2006); disponibile al seguente indirizzo internet dell’ONU: www.un.org/documents/scres.htm
+
+#### Art. 1
+
+**Divieto di fornire materiale d’armamento e materiale affine**
+
+<sup>1</sup> Sono vietati la fornitura, la vendita e il transito a destinazione del Libano di materiale d’armamento di ogni tipo, compresi armi e munizioni, veicoli e equipaggiamenti militari, equipaggiamenti paramilitari nonché relativi accessori e pezzi di ricambio.
+
+<sup>2</sup> La concessione di prestazioni di ogni tipo, compresi il finanziamento, i servizi di mediazione e la formazione tecnica, in relazione con la fornitura, la vendita, il transito, la fabbricazione, la manutenzione e l’utilizzazione di beni di cui al capoverso 1 per il Libano è vietata.
+
+<sup>3</sup>
+
+D’intesa con gli uffici competenti del Dipartimento federale degli affari esteri, la Segreteria di Stato dell’economia (SECO) può autorizzare eccezioni ai divieti previsti nei capoversi 1 e 2 per:
+
+- a. la fornitura, la vendita e il transito di beni e la concessione di prestazioni che sono stati approvati dal Governo del Libano o dalle forze interinali delle Nazioni Unite in Libano (UNIFIL);
+- b. l’esportazione temporanea di indumenti di protezione (p. es. giubbotti antiproiettili) per uso individuale da parte del personale delle Nazioni Unite, dell’Unione europea o della Svizzera, dei rappresentanti dei mass-media e del personale umanitario.
+- [tab] <sup>4</sup> Sono riservate le disposizioni della legge del 13 dicembre 1996[^1-1] sul controllo dei beni a duplice impiego e della legge federale del 13 dicembre 1996[^1-2] sul materiale bellico.
+
+[^1-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+
+#### Art. 2
+
+**Controllo ed esecuzione**
+
+<sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui all’articolo 1.
+
+<sup>2</sup> Il controllo al confine spetta all’Amministrazione federale delle dogane.
+
+#### Art. 3
+
+**Disposizioni penali**
+
+<sup>1</sup> Chiunque viola l’articolo 1 è punito conformemente all’articolo 9 LEmb.
+
+<sup>2</sup> Infrazioni di cui all’articolo 9 LEmb sono perseguite e giudicate dalla SECO; quest’ultima può ordinare sequestri o confische.
+
+#### Art. 4
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 2 novembre 2006.

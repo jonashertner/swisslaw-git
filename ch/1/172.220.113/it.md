@@ -1,0 +1,1680 @@
+---
+sr: "172.220.113"
+title: "Ordinanza del Consiglio dei PF del 15 marzo 2001 sul personale del settore dei politecnici federali (Ordinanza sul personale del settore dei PF, OPers PF)"
+short: OPers PF
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
+language: it
+version: 2020-10-01
+adopted: 2001-03-15
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2001-279-20201001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del Consiglio dei PF sul personale del settore dei politecnici federali
+
+(Ordinanza sul personale del settore dei PF, OPers PF)**[^t-1]**
+
+del 15 marzo 2001 (Stato 1° ottobre 2020)
+
+Approvata dal Consiglio federale il 25 aprile 2001
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+
+Il Consiglio dei PF,
+
+visto l’articolo 37 capoverso 3 della legge del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visto l’articolo 2 capoverso 2 dell’ordinanza quadro del 20 dicembre 2000[^ingress-2] relativa alla legge sul personale federale (ordinanza quadro LPers),
+
+ordina:
+
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-2]: [RS 172.220.11](https://fedlex.data.admin.ch/eli/cc/2001/124)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+### (art. 2 LPers)
+
+<sup>1</sup> La presente ordinanza disciplina i rapporti di lavoro dei collaboratori del settore dei politecnici federali (settore dei PF).
+
+<sup>2</sup>
+
+La presente ordinanza non si applica:
+
+- a.[^1-1] ai rapporti di lavoro di cui all’articolo 17 capoverso 1 della legge del 4 ottobre 1991[^1-2] sui PF;
+- a<sup>bis</sup>.[^1-3] ai rapporti di lavoro dei professori ordinari, straordinari e assistenti dei due PF, salvo che l’ordinanza del 18 settembre 2003[^1-4] sul corpo professorale non rimandi espressamente alla presente ordinanza;
+- b. agli apprendisti che sottostanno alla legge federale del 19 aprile 1978[^1-5] sulla formazione professionale.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^1-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^1-3]: Introdotta dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^1-4]: [RS 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
+[^1-5]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 ed all. n. 1, **1998** 1822 art. 2, **1999** 2374 n. I 2, **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Attualmente la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+
+#### Art. 2
+
+**Competenze**
+
+### (art. 3 LPers)
+
+<sup>1</sup>
+
+Il Consiglio dei PF è competente per l’avvio, la modifica e la cessazione dei rapporti di lavoro, come pure per tutte le decisioni attinenti ai rapporti di lavoro concernenti:
+
+- a.[^2-1] i membri delle direzioni degli istituti, esclusi i presidenti delle scuole e i direttori degli istituti di ricerca (altri membri delle direzioni degli istituti);
+- b. i collaboratori del Consiglio dei PF;
+- c.[^2-2] i collaboratori della segreteria della Commissione di ricorso dei PF; le decisioni sono prese d’intesa con il presidente della Commissione.
+
+<sup>2</sup> Il Consiglio dei PF può delegare le competenze di cui al capoverso 1 lettere b e c al suo presidente o al suo segretario generale.[^2-3]
+
+<sup>3</sup> Le direzioni dei PF e i direttori degli istituti di ricerca sono competenti per l’avvio, la modifica e la cessazione dei rapporti di lavoro dei loro collaboratori, nonché per tutte le decisioni attinenti a tali rapporti di lavoro.[^2-4]
+
+<sup>4</sup> Il Consiglio dei PF è competente per l’applicazione della presente ordinanza ai suoi collaboratori.
+
+<sup>5</sup> ...[^2-5]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^2-2]: Introdotta dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^2-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^2-5]: Abrogato dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, con effetto dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+
+#### Art. 3
+
+**Disciplinamento delle questioni di dettaglio**
+
+<sup>1</sup> I due PF e gli istituti di ricerca disciplinano, ove necessario, i dettagli relativi al proprio personale per quanto non vi sia un altro servizio preposto a tale scopo.
+
+<sup>2</sup> Informano adeguatamente i collaboratori sul disciplinamento delle questioni di dettaglio.
+
+## Capitolo 2: Politica del personale
+
+### Sezione 1: Principio
+
+#### Art. 4
+
+<sup>1</sup>
+
+Il Consiglio dei PF, i due PF e gli istituti di ricerca si adoperano per:
+
+- a. una politica del personale progressista e sociale;
+- b. condizioni di lavoro allettanti e competitive a livello nazionale e internazionale;
+- c. un impiego adeguato, economico e socialmente responsabile dei loro collaboratori;
+- d. l’assunzione e il promovimento di collaboratori adeguati.
+
+<sup>2</sup> La politica del personale tiene conto degli obiettivi dell’insegnamento, della ricerca e dei servizi così come definiti nella legislazione sui PF. Si ispira alla politica del personale del Consiglio federale, nonché alla convenzione conclusa con le parti sociali.
+
+<sup>3</sup> I due PF e gli istituti di ricerca sono responsabili dell’applicazione della politica del personale. Adottano nel proprio settore le necessarie misure organizzative e del personale.
+
+### Sezione 2: Sviluppo del personale
+
+#### Art. 5
+
+**Competenza**
+
+### (art. 4 cpv. 2 lett. b LPers)
+
+<sup>1</sup> I due PF e gli istituti di ricerca promuovono lo sviluppo di tutto il personale. Accrescono in questo modo la qualità delle loro prestazioni, ampliano la competenza tecnica dei collaboratori e ne migliorano la competitività sul mercato del lavoro.
+
+<sup>2</sup> I collaboratori sono tenuti a perfezionarsi in base alle loro attitudini e alle esigenze del mercato del lavoro e ad aprirsi ai cambiamenti.
+
+<sup>3</sup> I due PF e gli istituti di ricerca partecipano in modo commisurato alle spese di perfezionamento del personale. I diritti e gli obblighi reciproci possono essere stabiliti in convenzioni sul perfezionamento.
+
+#### Art. 6
+
+**Promovimento del corpo accademico intermedio**
+
+### (art. 4 cpv. 2 lett. b LPers)
+
+I due PF e gli istituti di ricerca stilano piani di carriera per gli assistenti, gli assistenti in capo e i collaboratori scientifici.
+
+#### Art. 7
+
+**Colloquio di valutazione e di promozione[^7-1]**
+
+### (art. 4 cpv. 3 LPers)
+
+<sup>1</sup> I superiori svolgono almeno una volta all’anno un colloquio di valutazione con i propri collaboratori. Quest’ultimo serve a tracciare un bilancio e a favorire il promovimento dei collaboratori, a valutare le loro prestazioni e a dar loro l’occasione di esprimersi circa il modo di agire dei superiori.
+
+<sup>2</sup>
+
+Sono in particolare oggetto del colloquio:
+
+- a. la definizione di obiettivi e la loro verifica;
+- b. la situazione lavorativa;
+- c. le possibilità e le misure di sviluppo;
+- d.[^7-2] l’avvio di misure appropriate concernenti la funzione o il rapporto di lavoro.
+
+<sup>3</sup> La prestazione dei collaboratori è valutata secondo criteri stabiliti.
+
+<sup>4</sup> I collaboratori si esprimono sul modo di agire dei superiori. I loro riscontri servono ai superiori per lo sviluppo dell’unità organizzativa.
+
+<sup>5</sup> Con i collaboratori che sono impiegati a tempo determinato da più di cinque anni ai sensi dell’articolo 17*b* della legge del 4 ottobre 1991[^7-3] sui PF deve essere redatta al massimo entro quattro anni una pianificazione scritta della carriera. Il documento deve essere rielaborato al massimo dopo tre anni.[^7-4]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^7-2]: Introdotta dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^7-3]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^7-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 8
+
+**Sviluppo delle capacità gestionali**
+
+### (art. 4 cpv. 2 lett. c LPers)
+
+I due PF e gli istituti di ricerca elaborano programmi mirati allo sviluppo delle capacità gestionali. Questi ultimi hanno per scopo di permettere ai collaboratori idonei l’accesso a funzioni direttive e di promuovere le capacità gestionali a tutti i livelli, in particolare nei settori dell’insegnamento, della ricerca e dei servizi.
+
+#### Art. 9
+
+**Protezione della personalità**
+
+### (art. 4 cpv. 2 lett. g LPers)
+
+<sup>1</sup> I due PF e gli istituti di ricerca provvedono a creare un clima di rispetto e di fiducia scevro da qualsiasi discriminazione.
+
+<sup>2</sup>
+
+Mediante misure adeguate e indipendentemente dalle persone da cui queste emanino, impediscono attentati inammissibili alla personalità dei singoli collaboratori, quali in particolare:
+
+- a. il rilevamento sistematico di dati riguardanti le prestazioni individuali all’insaputa degli interessati;
+- b. la perpetrazione o la tolleranza di aggressioni o atti lesivi della dignità personale e professionale.
+
+<sup>3</sup> I due PF e gli istituti di ricerca designano un servizio incaricato di offrire consulenza e sostegno ai collaboratori che si sentono sfavoriti o discriminati. Nell’adempimento dei propri compiti, tale servizio non è vincolato da direttive.
+
+#### Art. 10
+
+**Parità di trattamento**
+
+### (art. 4 cpv. 2 lett. d LPers)
+
+<sup>1</sup> I due PF e gli istituti di ricerca prendono misure mirate per garantire pari opportunità e la parità di trattamento tra uomini e donne.
+
+<sup>2</sup> Tutelano la dignità delle donne e dell’uomo sul posto di lavoro e prendono misure intese a far rispettare il divieto di discriminazione.
+
+#### Art. 11
+
+**Altre misure**
+
+### (art. 4 cpv. 2 lett. e, f, h-k, 32 lett. d LPers)
+
+I due PF e gli istituti di ricerca prendono, ciascuno per il proprio settore, misure per:
+
+- a. promuovere il plurilinguismo, l’equa rappresentanza delle comunità linguistiche e la comprensione tra le stesse;
+- b. garantire pari opportunità ai disabili, segnatamente in materia di impiego e di integrazione;
+- c. promuovere presso i collaboratori un comportamento rispettoso dell’ambiente, della salute e della sicurezza sul posto di lavoro;
+- d. creare posti di tirocinio e di perfezionamento;
+- e. creare condizioni di lavoro che consentano ai collaboratori di adempiere alle proprie responsabilità in ambito familiare e sociale;
+- f. fornire un’informazione esaustiva e tempestiva ai collaboratori.
+
+### Sezione 3: Coordinamento e rapporti
+
+#### Art. 12
+
+### (art. 5 LPers)
+
+<sup>1</sup> Il Consiglio dei PF coordina, nel quadro dei principi formulati nell’articolo 4, la politica del personale elaborata dai due PF e dagli istituti di ricerca.
+
+<sup>2</sup> I due PF e gli istituti di ricerca verificano periodicamente il conseguimento degli obiettivi fissati nella LPers e nella presente ordinanza e ne fanno rapporto al Consiglio dei PF.
+
+<sup>3</sup>
+
+Il rapporto contiene in particolare indicazioni circa:
+
+- a. la composizione del personale;
+- b. i costi del personale;
+- c. il grado di soddisfazione nel lavoro;
+- d. l’esito dei colloqui di valutazione;
+- e.[^12-1] l’applicazione del sistema salariale.
+
+<sup>4</sup> Il Consiglio dei PF valuta i rapporti e ne rende conto al Dipartimento federale dell’economia, della formazione e della ricerca[^12-2].
+
+[^12-1]: Introdotta dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^12-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+
+### Sezione 4: Partecipazione e collaborazione con le parti sociali
+
+#### Art. 13
+
+### (art. 33 LPers)
+
+<sup>1</sup> Il Consiglio dei PF, i due PF e gli istituti di ricerca prendono tutte le misure atte a garantire la piena collaborazione con le parti sociali.
+
+<sup>2</sup> Il Consiglio dei PF, i due PF e gli istituti di ricerca concludono periodicamente con le parti sociali una convenzione in merito alla reciproca cooperazione e agli obiettivi di politica del personale.
+
+<sup>3</sup> Le parti sociali possono chiedere, in virtù di tale convenzione, una revisione della presente ordinanza.
+
+<sup>4</sup> Presso i due PF e gli istituti di ricerca possono essere costituite commissioni del personale qualora ciò risponda al desiderio della maggioranza dei collaboratori.
+
+## Capitolo 3: Rapporto di lavoro
+
+### Sezione 1: Formazione, modifica e risoluzione
+
+**Art. 14***[^chap3-sec1-1]* Messa a concorso
+
+(art. 7 LPers)
+
+<sup>1</sup> I posti vacanti sono messi a concorso mediante pubblicazione in adeguati mezzi di comunicazione.
+
+<sup>2</sup> Eccezionalmente, si può fare a meno di un concorso pubblico nei seguenti casi:
+
+- a. per posti di durata determinata fino a un anno;
+- b. per posti che saranno occupati internamente negli istituti del settore dei PF, in particolare in caso di ampliamento delle mansioni o di promozione a una funzione superiore, ad eccezione dei quadri superiori;
+- c. per posti destinati alla rotazione interna (*job rotation*);
+- d. per posti che saranno occupati nel quadro della reintegrazione professionale da collaboratori ammalati o infortunati e nel quadro dell’integrazione di persone disabili.
+
+<sup>3</sup> Le direzioni dei due PF e degli istituti di ricerca disciplinano nel loro settore i dettagli e la ripartizione delle competenze.
+
+<sup>4</sup> I posti vacanti nei generi di professioni con un tasso di disoccupazione superiore alla media conformemente all’articolo 53*a* dell’ordinanza del 16 gennaio 1991[^chap3-sec1-2] sul collocamento devono essere annunciati al servizio pubblico di collocamento.
+
+#### Art. 15
+
+**Condizioni di assunzione**
+
+L’assunzione è subordinata alle esigenze conformi al settore d’attività.
+
+[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^chap3-sec1-2]: [RS 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
+
+#### Art. 16
+
+**Contratto di lavoro**
+
+### (art. 8 LPers)
+
+<sup>1</sup> Il rapporto di lavoro nasce al momento della firma del contratto di lavoro da parte del servizio competente e della persona che si intende assumere.
+
+<sup>2</sup>
+
+Il contratto di lavoro disciplina almeno i seguenti punti:
+
+- a. l’inizio e la durata del rapporto di lavoro;
+- b. il settore lavorativo;
+- c. il periodo di prova;
+- d. il grado d’occupazione;
+- e. lo stipendio e la forma di versamento dello stipendio;
+- f. la previdenza professionale;
+- g. i termini di disdetta.
+
+<sup>3</sup> Oltre al contratto di lavoro i collaboratori ricevono un elenco degli obblighi.
+
+#### Art. 17
+
+**Modifica del contratto di lavoro**
+
+### (art. 13 LPers)
+
+<sup>1</sup> Ogni modifica del contratto di lavoro necessita della forma scritta.
+
+<sup>2</sup> In caso di modifiche del contratto, si cerca di trovare soluzioni consensuali. Se il collaboratore rifiuta la modifica del contratto, quest’ultima può essere attuata solo tramite disdetta ai sensi dell’articolo 20*a*.[^17-1]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 18
+
+**Periodo di prova**
+
+### (art. 8 cpv. 2 LPers)
+
+<sup>1</sup> Il periodo di prova dura di regola tre mesi. Per il personale scientifico e il personale con funzioni speciali di supporto esso può durare fino a un massimo di sei mesi.[^18-1]
+
+<sup>2</sup> In caso di cambiamento di posto all’interno del settore dei PF o di rapporti di lavoro di durata determinata, il periodo di prova può essere ridotto o soppresso.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 19
+
+**Rapporti di lavoro di durata determinata**
+
+### (art. 9 LPers)
+
+<sup>1</sup> Il rapporto di lavoro è, di regola, di durata indeterminata.
+
+<sup>2</sup> ... [^19-1]
+
+<sup>3</sup> I rapporti di lavoro di durata determinata non possono essere conclusi allo scopo di eludere le disposizioni relative alla protezione contro la disdetta di cui all’articolo 10 LPers.[^19-2]
+
+[^19-1]: Abrogato dal n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^19-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 20
+
+**Risoluzione del rapporto di lavoro senza disdetta**[^20-1]
+
+<sup>1</sup> Di comune accordo le parti possono porre termine al rapporto di lavoro in qualsiasi momento.
+
+<sup>2</sup>
+
+Il rapporto di lavoro termina senza disdetta:
+
+- a. per i contratti di durata determinata alla scadenza della durata del contratto;
+- b. al raggiungimento del limite d’età di cui all’articolo 21 della legge federale del 20 dicembre 1946[^20-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS);
+- c. in caso di decesso del collaboratore.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^20-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 20a
+
+**Termini di disdetta**[^20a-1]
+
+<sup>1</sup>
+
+Durante il periodo di prova il rapporto di lavoro può essere disdetto regolarmente:
+
+- a. nei primi due mesi con un termine di disdetta di sette giorni;
+- b. a partire dal terzo mese con un termine di disdetta di un mese, entro la fine del mese successivo alla disdetta.
+
+<sup>2</sup>
+
+Al termine del periodo di prova il rapporto di lavoro può essere disdetto regolarmente entro la fine di ogni mese. Si applicano i seguenti termini di disdetta:
+
+- a. un mese nel primo anno di servizio;
+- b. tre mesi a partire dal secondo anno di servizio.
+
+<sup>3</sup> In singoli casi è possibile concordare un termine di disdetta più lungo. Tale termine non deve essere superiore a sei mesi.
+
+<sup>4</sup> In singoli casi il datore di lavoro può concedere agli impiegati un termine di disdetta più breve se non vi si oppongono interessi fondamentali.
+
+[^20a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 20b
+
+**Risoluzione del rapporto di lavoro in caso di incapacità al lavoro dovuta a malattia o infortunio**[^20b-1]
+
+<sup>1</sup>
+
+In caso di incapacità al lavoro permanente, totale o parziale, un rapporto di lavoro di durata indeterminata può essere disdetto regolarmente per incapacità o inattitudine. La disdetta avviene al più presto:
+
+- a. in caso di incapacità al lavoro nei primi due anni di servizio: alla fine di un’incapacità al lavoro della durata minima di 365 giorni;
+- b. in caso di incapacità al lavoro a partire dal terzo anno di servizio: alla fine di un’incapacità al lavoro della durata minima di 730 giorni.
+
+<sup>2</sup>
+
+In deroga al capoverso 1 il rapporto di lavoro può essere risolto:
+
+- a. se la disdetta avviene durante il periodo di prova;
+- b. se la persona interessata viola ripetutamente gli obblighi di collaborazione di cui all’articolo 36*a*;
+- c. dopo la scadenza dei periodi di cui all’articolo 336*c* capoverso 1 lettera b del Codice delle obbligazioni[^20b-2], purché prima dell’inizio dell’incapacità al lavoro vi fosse già un motivo di disdetta diverso dall’incapacità o dall’inattitudine dovuta a motivi di salute e l’intenzione di disdire il rapporto di lavoro sia stata comunicata alla persona interessata prima dell’incapacità al lavoro; oppure
+- d. se l’assicurazione per l’invalidità ha riconosciuto una permanente incapacità parziale al lavoro, purché alla persona interessata sia offerto un lavoro ragionevolmente esigibile; in questo caso la disdetta può avvenire al più presto con effetto dall’inizio del versamento della rendita d’invalidità.
+
+<sup>3</sup> La disdetta avviene nel rispetto dei termini di cui all’articolo 20*a.*
+
+[^20b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^20b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Sezione 2: Ristrutturazioni
+
+#### Art. 21
+
+**Misure in caso di ristrutturazioni**
+
+### (art. 10, 19, 31 e 33 LPers)
+
+[^21-1]
+
+<sup>1</sup> I due PF e gli istituti di ricerca procedono a ristrutturazioni socialmente sostenibili. I collaboratori contribuiscono alla realizzazione e alla buona riuscita delle ristrutturazioni, segnatamente mediante la collaborazione attiva alle misure e lo sviluppo dell’iniziativa individuale.
+
+<sup>2</sup>
+
+Hanno priorità rispetto al licenziamento:
+
+- a.[^21-2] ...
+- b. la mutazione dei collaboratori a un altro posto adeguato all’interno del settore dei PF;
+- c.[^21-3] il sostegno in caso di riorientamento professionale o ricerca di un altro posto ritenuto ragionevolmente esigibile all'esterno del settore dei PF;
+- d.[^21-4] il sostegno in caso di formazione professionale continua;
+- e. il pensionamento anticipato.
+
+<sup>3</sup> I due PF e gli istituti di ricerca informano i loro collaboratori e le parti sociali in modo trasparente, esaustivo e tempestivo.
+
+<sup>4</sup> Il Consiglio dei PF è competente per l’elaborazione e la firma del piano sociale con le associazioni del personale.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^21-2]: Abrogata dal n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^21-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 22
+
+**Prestazioni in caso di pensionamento anticipato**
+
+### (art. 31 cpv. 5 LPers)
+
+<sup>1</sup> Nel quadro di ristrutturazioni, i collaboratori possono essere pensionati anticipatamente al più presto a 58 anni compiuti, a condizione che non abbiano rifiutato un altro posto di lavoro adeguato.[^22-1]
+
+<sup>2</sup>
+
+È condizione indispensabile al pensionamento anticipato che:
+
+- a. il posto sia soppresso; o
+- b. l’ambito lavorativo del collaboratore sia stato modificato in modo tale da rendere il posto inadeguato; o
+- c. il posto sia soppresso nel quadro di un’azione di solidarietà a favore di collaboratori più giovani.
+
+<sup>3</sup> Al collaboratore pensionato anticipatamente vengono corrisposte una pensione di vecchiaia da PUBLICA e una pensione transitoria che non deve essere rimborsata conformemente all’articolo 64 del regolamento di previdenza del 3 dicembre 2007[^22-2] della Cassa di previdenza del settore dei PF per i collaboratori del settore dei PF (RP-PF 1).[^22-3] Questa rendita di vecchiaia è calcolata come una rendita d’invalidità secondo l’articolo 57 RP-PF 1.[^22-4]
+
+<sup>4</sup> I due PF e gli istituti di ricerca versano alla Cassa pensioni della Confederazione le lacune di copertura derivanti dal pensionamento anticipato.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^22-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+[^22-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^22-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+
+#### Art. 23
+
+**Prestazioni supplementari del datore di lavoro**
+
+### (art. 31 cpv. 3 e 5 LPers)
+
+Per evitare situazioni difficili, i due PF e gli istituti di ricerca possono fornire altre prestazioni.
+
+## Capitolo 4: Prestazioni
+
+### Sezione 1: Stipendio e supplementi
+
+#### Art. 24
+
+**Categorie di collaboratori**[^24-1]
+
+<sup>1</sup> La classificazione della funzione, la retribuzione e l’evoluzione dello stipendio dei collaboratori sono gestiti in maniera uniforme secondo le disposizioni degli articoli 25–34.
+
+<sup>2</sup>
+
+Qualora non fosse possibile definire il livello di una funzione conformemente all’articolo 25, i PF e gli istituti di ricerca possono, d’intesa con il Consiglio dei PF, stabilire la retribuzione e l’evoluzione dello stipendio in maniera forfettaria per le seguenti categorie di collaboratori:
+
+- a. posti a tempo determinato il cui scopo principale consiste nella formazione degli interessati o nel loro accesso alla carriera scientifica secondo l’articolo 17*b* capoverso 2 lettere b o c della legge del 4 ottobre 1991[^24-2] sui PF;
+- b. posti in progetti di ricerca di durata determinata con finanziatori esterni secondo l’articolo 17*b* capoverso 2 lettera c della legge sui PF che fanno seguito alla formazione;
+- c. posti per compiti infrastrutturali di durata determinata.
+
+<sup>3</sup> Per le categorie di cui al capoverso 2 l’ammontare dello stipendio si basa sui requisiti dell’attività, sulle norme dei finanziatori e sulla percentuale del tempo di lavoro effettivamente dedicato all’istituto. Non è consentito scendere al di sotto degli stipendi minimi di cui all’allegato 3 e deve essere prevista un’evoluzione dello stipendio.
+
+<sup>4</sup> In caso di occupazione irregolare è possibile stabilire stipendi giornalieri o orari.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^24-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+#### Art. 25
+
+**Classificazione della funzione**[^25-1]
+
+<sup>1</sup> Al momento della costituzione del rapporto di lavoro o in caso di cambiamento della funzione, il servizio competente di cui all’articolo 2 capoversi 1–3 definisce in quale livello della griglia delle funzioni riportata nell’allegato 1 rientra il posto del collaboratore. Per la classificazione tiene conto del profilo dei requisiti della funzione. È fatto salvo l’articolo 24 capoverso 2.[^25-2]
+
+<sup>2</sup> I collaboratori che non sono d’accordo con la classificazione possono adire la commissione paritetica di riesame delle valutazioni delle funzioni nel settore dei PF.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 26
+
+**Stipendio iniziale**[^26-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup> Il servizio competente di cui all’articolo 2 capoversi 1–3 fissa lo stipendio iniziale in base alla scala salariale riportata nell’allegato 2 entro l’importo minimo e quello massimo previsto per il relativo livello di funzione.
+
+<sup>2</sup> Nella fissazione dello stipendio iniziale si tiene adeguatamente conto dell’esperienza e del mercato del lavoro.
+
+<sup>3</sup> D’intesa con il Consiglio dei PF, in singoli casi è possibile concedere stipendi fino al 10 per cento superiori all’importo massimo del relativo livello di funzione per reclutare o mantenere in servizio collaboratori particolarmente qualificati.[^26-2]
+
+<sup>4</sup> I capoversi 1–3 non contemplano le categorie di collaboratori di cui all’articolo 24 capoverso 2. In questo caso lo stipendio iniziale è fissato in base all’articolo 24 capoverso 3.[^26-3]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^26-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^26-3]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 27
+
+**Evoluzione dello stipendio**[^27-1]
+
+### (art. 4 cpv. 3 e art. 15 LPers)
+
+<sup>1</sup> L’evoluzione dello stipendio poggia, nei limiti consentiti dalle risorse disponibili, su una valutazione annuale delle prestazioni e sull’esperienza.
+
+<sup>2</sup>
+
+Le prestazioni dei collaboratori sono valutate nel modo seguente:
+
+- a. supera nettamente le esigenze;
+- b. supera le esigenze;
+- c. adempie le esigenze;
+- d. adempie gran parte delle esigenze;
+- e. adempie parte delle esigenze;
+- f. non adempie le esigenze.[^27-2]
+
+<sup>3</sup> Se è inferiore allo stipendio corrispondente alla prestazione attuale del collaboratore, lo stipendio individuale è aumentato nei limiti consentiti dalle risorse disponibili. Se è superiore, rimane invariato.
+
+<sup>4</sup> Se un collaboratore non adempie le esigenze, il superiore avvia misure appropriate concernenti la funzione o il rapporto di lavoro.[^27-3]
+
+<sup>5</sup> Su proposta del PF o dell’istituto di ricerca competente, per determinati gruppi di funzioni il Consiglio dei PF può prevedere un sistema di bonus basato sulla valutazione delle prestazioni. L’importo massimo del rispettivo livello di funzione non può essere superato.[^27-4]
+
+<sup>6</sup> I due PF e gli istituti di ricerca designano un servizio interno al quale i dipendenti possono rivolgersi in caso di divergenze sulla valutazione delle prestazioni.[^27-5]
+
+<sup>7</sup> I capoversi 1–3 non si applicano alle categorie di collaboratori di cui all’articolo 24 capoverso 2. In questo caso l’evoluzione dello stipendio è fissata in base all’articolo 24 capoverso 3.[^27-6]
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^27-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^27-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^27-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^27-5]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^27-6]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 28
+
+**Adeguamento della scala salariale**[^28-1]
+
+### (art. 16 LPers)
+
+<sup>1</sup> Il Consiglio dei PF esamina annualmente, insieme alle parti sociali, gli importi e i livelli della scala salariale di cui all’allegato 2 e, se del caso, li adegua nei limiti consentiti dalle risorse disponibili.
+
+<sup>2</sup> Per l’adeguamento della scala salariale si tiene conto, in particolare, del mercato del lavoro e del rincaro.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+
+#### Art. 29
+
+**Indennità di funzione**[^29-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup> In caso di incarichi provvisori che comportano particolari esigenze o sollecitazioni che non giustificano tuttavia il passaggio a un livello di funzione superiore, è possibile corrispondere un’indennità di funzione.
+
+<sup>2</sup> L’importo dell’indennità si conforma al livello di funzione cui corrisponde la particolare esigenza o sollecitazione richiesta.
+
+<sup>3</sup> Per l’esercizio della funzione come altro membro della direzione di un istituto può essere versata un’indennità di funzione.[^29-2]
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^29-2]: Introdotto dal n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+
+#### Art. 30
+
+**Premi speciali**[^30-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup> A singoli collaboratori o a gruppi di lavoro che forniscono prestazioni eccezionali possono essere versati premi speciali.
+
+<sup>2</sup> I premi speciali sono corrisposti in denaro o in natura.
+
+<sup>3</sup> Il valore dei premi speciali non può essere superiore al 10 per cento dell’importo massimo del livello di funzione di cui all’allegato 2.
+
+[^30-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+
+#### Art. 31
+
+**Indennità temporanea in funzione del mercato del lavoro**[^31-1]
+
+Per tenere conto di condizioni speciali sul mercato del lavoro, il Consiglio dei PF può fissare, per determinate funzioni, un’indennità temporanea in funzione del mercato del lavoro non superiore al 10 per cento dell’importo massimo previsto per il relativo livello di funzione.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+
+#### Art. 32
+
+[^32-1]
+
+[^32-1]: Abrogato dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, con effetto dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+
+#### Art. 33
+
+**Indennità**
+
+### (art. 15 LPers)
+
+Possono essere versate indennità per:
+
+- a. lavoro domenicale e notturno;
+- b. lavoro a turni e servizio di picchetto.
+
+#### Art. 34
+
+**Occupazione a tempo parziale**[^34-1]
+
+### (art. 15 LPers)
+
+Fatto salvo l’articolo 41*a*, lo stipendio e le indennità dei collaboratori impiegati a tempo parziale corrispondono al tasso di occupazione.
+
+[^34-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 35
+
+[^35-1]
+
+[^35-1]: Abrogato dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+### Sezione 2: Prestazioni sociali
+
+#### Art. 36
+
+**Diritto allo stipendio in caso di malattia o infortunio e computo delle prestazioni delle assicurazioni sociali**[^36-1]
+
+### (art. 29 e 30 LPers)
+
+<sup>1</sup> I collaboratori, che in seguito a malattia o infortunio non possono lavorare, hanno diritto a percepire lo stipendio secondo le disposizioni di cui agli articoli 36–36*c*.
+
+<sup>2</sup> Per il pagamento dello stipendio in caso di malattia o infortunio è indispensabile soddisfare gli obblighi di collaborazione di cui all’articolo 36a capoversi 2–4.
+
+<sup>3</sup> I due PF e gli istituti di ricerca possono adempiere l’obbligo di retribuire il lavoratore stipulando un’assicurazione equivalente a favore dei collaboratori.
+
+<sup>4</sup> Le prestazioni dell’assicurazione militare, dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA) o di un’altra assicurazione obbligatoria contro gli infortuni sono computate sullo stipendio al quale il collaboratore ha diritto in caso di malattia o infortunio. Le rendite e le indennità giornaliere dell’assicurazione per l’invalidità sono computate nella misura in cui, aggiunte allo stipendio comprensivo delle prestazioni computate dell’assicurazione militare, della SUVA o di un’altra assicurazione obbligatoria contro gli infortuni, superano lo stipendio al quale il collaboratore aveva diritto prima della riduzione.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 36a
+
+**Obbligo di collaborazione del collaboratore in caso di incapacità al lavoro dovuta a malattia o infortunio**[^36a-1]
+
+<sup>1</sup> In caso di assenze di durata superiore a tre giorni consecutivi, i collaboratori inviano di propria iniziativa al servizio competente un certificato medico.
+
+<sup>2</sup>
+
+In casi motivati il servizio competente può:
+
+- a. richiedere un certificato medico già dal primo giorno di assenza o prorogare i termini;
+- b. ordinare una visita di controllo presso un medico di fiducia per valutare la capacità lavorativa.
+
+<sup>3</sup> I collaboratori sono tenuti a collaborare ai provvedimenti d’integrazione ai sensi dell’articolo 47*a*. In particolare devono seguire le disposizioni mediche, sottoporsi alle visite di controllo del medico di fiducia ordinate dal datore di lavoro e, su richiesta, autorizzare i medici curanti a fornire informazioni al medico di fiducia.
+
+<sup>4</sup> Durante il periodo di incapacità al lavoro, prima di recarsi all’estero il collaboratore deve inviare una comunicazione scritta al servizio preposto di cui all’articolo 3 indicando il luogo di soggiorno e allegando un certificato del medico curante.
+
+[^36a-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008 approvata dal CF il 18 feb. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 36a<sup>bis</sup>
+
+**Durata ed entità del pagamento dello stipendio in caso di malattia o infortunio**[^36abis-1]
+
+<sup>1</sup>
+
+Il diritto allo stipendio in caso di incapacità al lavoro dovuta a malattia o infortunio inizia il primo giorno della malattia o dell’infortunio. Dura fino al ristabilimento della capacità lavorativa, tuttavia al massimo:
+
+- a. fino alla fine del termine di disdetta, se il rapporto di lavoro è disdetto durante il periodo di prova;
+- b. 365 giorni nei primi due anni di servizio dopo la fine del periodo di prova;
+- c. 730 giorni a partire dal terzo anno di servizio.
+
+<sup>2</sup> I giorni in cui i collaboratori sono totalmente o parzialmente incapaci di lavorare sono computati nello stesso modo sulla durata del diritto allo stipendio.
+
+<sup>3</sup> In caso di incapacità al lavoro dovuta a malattia o infortunio il collaboratore riceve l’intero stipendio lordo comprese le indennità. A partire dal 366° giorno viene versato il 90 per cento dello stipendio lordo. Eventuali indennità legate ai compiti sono ridotte nella stessa misura.
+
+<sup>4</sup> Il diritto allo stipendio dei collaboratori con un rapporto di lavoro di durata determinata si estingue alla scadenza del contratto qualora tale termine sia anteriore a quello menzionato al capoverso 1.
+
+<sup>5</sup> Per i collaboratori remunerati con stipendio orario il diritto allo stipendio si basa sullo stipendio dell’orario di lavoro regolare disciplinato contrattualmente, altrimenti si basa sullo stipendio medio percepito nei 12 mesi precedenti l’inizio dell’incapacità al lavoro. Se prima dell’incapacità al lavoro il collaboratore è stato occupato per meno di 12 mesi, si applica come base lo stipendio medio che ha percepito durante il periodo in cui è stato occupato.
+
+[^36abis-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 36b
+
+**Riduzione o soppressione delle prestazioni**[^36b-1]
+
+<sup>1</sup> Qualora un collaboratore non adempia o adempia solo in parte gli obblighi di collaborazione di cui all’articolo 36*a* capoversi 2–4, le prestazioni possono essere ridotte o, in casi gravi, soppresse.
+
+<sup>2</sup> Inoltre le prestazioni possono essere ridotte qualora un collaboratore abbia contratto una malattia o sia incorso in un infortunio intenzionalmente o per grave negligenza, si sia esposto consapevolmente a un pericolo fuori dall’ordinario o si sia avventurato in un’impresa rischiosa.
+
+[^36b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 36c
+
+**Interruzione e nuova decorrenza del termine per il pagamento dello stipendio in caso di malattia o infortunio**[^36c-1]
+
+### (art. 29 LPers)
+
+<sup>1</sup> Se dopo l’inizio dell’incapacità al lavoro un collaboratore riprende a lavorare temporaneamente secondo il proprio tasso di occupazione, i periodi di cui all’articolo 36*a*<sup>bis</sup> capoverso 1 sono prorogati del numero di giorni in cui è prestata l’intera durata giornaliera del lavoro convenuta e sono soddisfatti i requisiti fissati nella descrizione del posto.
+
+<sup>2</sup> Una volta scaduti i termini per il pagamento dello stipendio di cui all’articolo 36*a*<sup>bis</sup> capoverso 1, in caso di incapacità al lavoro a seguito di una nuova malattia o di un nuovo infortunio o a seguito della ricomparsa di una malattia o di conseguenze di un infortunio, i termini ricominciano a decorrere a condizione che precedentemente il collaboratore sia stato abile al lavoro secondo il proprio tasso di occupazione per almeno 12 mesi consecutivi. Non sono prese in considerazione le assenze per malattia o infortunio che ammontano complessivamente a meno di 30 giorni civili.
+
+<sup>3</sup> In caso di incapacità al lavoro a seguito di una nuova malattia o di un nuovo infortunio dopo la scadenza dei termini per il pagamento dello stipendio di cui all’articolo 36*a*<sup>bis</sup> e prima che il collaboratore sia stato abile al lavoro secondo il proprio tasso di occupazione per almeno 12 mesi consecutivi, fino al quinto anno di servizio sussiste il diritto al pagamento dello stipendio nella misura del 90 per cento dello stipendio lordo per un periodo di 90 giorni e a partire dal sesto anno di servizio per un periodo di 180 giorni.
+
+[^36c-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 37
+
+**Diritto allo stipendio in caso di gravidanza, maternità e adozione**
+
+### (art. 29 cpv. 1 LPers)
+
+<sup>1</sup> In caso di maternità, le collaboratrici hanno diritto a un congedo pagato allo stipendio totale per un periodo di quattro mesi.
+
+<sup>2</sup> Se lo desidera, la collaboratrice può sospendere il lavoro al più presto un mese prima della data prevista per la nascita.
+
+<sup>3</sup> La metà del congedo di maternità può, previo accordo con il servizio competente, essere compensata con una riduzione autonomamente scelta del grado d’occupazione convenuto per contratto. Se anche il padre lavora nel settore dei PF, i genitori possono suddividersi tale congedo a loro discrezione.
+
+<sup>4</sup> Per la presa a carico di bambini fino a sei anni d’età e di bambini disabili in vista di un’adozione, si ha diritto ad un congedo pagato allo stipendio totale per un periodo di due mesi. Il capoverso 3 è applicabile per analogia.
+
+#### Art. 38
+
+**Diritto allo stipendio in caso di servizio militare, servizio di protezione civile e servizio civile sostitutivo**
+
+### (art. 29 cpv. 1 LPers)
+
+<sup>1</sup> In caso di congedo per servizio militare e servizio di protezione civile svizzeri obbligatori e per la durata del servizio civile sostitutivo, gli astretti al servizio hanno diritto alla totalità dello stipendio.
+
+<sup>2</sup> In caso di servizio volontario lo stipendio può essere pagato per al massimo 10 giorni di lavoro all’anno.
+
+<sup>3</sup> Le indennità per perdita di guadagno previste dalla legge in caso di servizi di cui ai capoversi 1 e 2 spettano ai due PF e agli istituti di ricerca.
+
+<sup>4</sup> Gli assegni sociali sono versati senza riduzioni.
+
+#### Art. 39
+
+**Prestazioni in caso di infortunio professionale**
+
+### (art. 29 cpv. 1 LPers)
+
+<sup>1</sup>
+
+In caso di invalidità dovuta a infortunio professionale o ad altra malattia professionale equivalente si ha diritto:[^39-1]
+
+- a.[^39-2] al 100 per cento dello stipendio determinante in caso di incapacità lavorativa totale fino al raggiungimento del limite d’età di cui all’articolo 21 LAVS[^39-3];
+- b. alla quota corrispondente al grado di invalidità ai sensi della legge federale del 20 marzo 1981[^39-4] sull’assicurazione contro gli infortuni in caso di incapacità lavorativa parziale.
+
+<sup>2</sup> ...[^39-5]
+
+<sup>3</sup> Sono computate le prestazioni assicurative.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^39-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^39-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^39-5]: Abrogato dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, con effetto dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+
+#### Art. 39a
+
+**Invalidità professionale**[^39a-1]
+
+### (art. 32*j* cpv. 2 LPers)
+
+<sup>1</sup>
+
+Il servizio competente di cui all’articolo 2 chiede per i collaboratori il versamento di una prestazione d’invalidità professionale secondo il RP-PF 1[^39a-2] se:[^39a-3]
+
+- a. ha compiuto il 50° anno di età;
+- b. [^39a-4] dalla verifica del medico di fiducia svolta su richiesta del servizio competente di cui all’articolo 2 emerge che per motivi di salute il collaboratore è incapace di esercitare o può esercitare soltanto parzialmente l’attività esercitata finora o un’altra attività ragionevolmente esigibile da lui;
+- c. una decisione dell’ufficio AI competente che esclude il diritto a una pensione o che prevede soltanto una pensione parziale passa in giudicato; e
+- d. i provvedimenti d’integrazione ai sensi dell’articolo 47*a* sono stati infruttuosi senza che vi fosse colpa del collaboratore.
+
+<sup>2</sup> I dettagli della prestazione di invalidità professionale nonché il genere e l’importo della stessa si basano sul RP-PF 1.[^39a-5]
+
+[^39a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^39a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+[^39a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^39a-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^39a-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 40
+
+**Diritto allo stipendio in caso di decesso**[^40-1]
+
+### (art. 29 cpv. 2 LPers)
+
+<sup>1</sup> In caso di decesso di un collaboratore, i superstiti ricevono un importo complessivo pari a un sesto dello stipendio annuo più eventuali assegni ai sensi degli articoli 41–41*b*.
+
+<sup>2</sup> Sono considerati superstiti il coniuge, il partner registrato, i figli minorenni o una persona con cui la persona defunta ha convissuto prima del decesso. In assenza di tali superstiti, sono considerati superstiti altre persone verso le quali la persona defunta ha adempiuto un obbligo di assistenza.
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 41
+
+**Diritto all’assegno familiare**[^41-1]
+
+### (art. 31 cpv. 1–3 LPers)
+
+<sup>1</sup> L’assegno familiare è versato fino alla fine del mese in cui il figlio compie il 16° anno d’età.
+
+<sup>2</sup> Per i figli in formazione è versato al massimo fino alla fine del mese in cui compiono il 25° anno d’età.
+
+<sup>3</sup> Per i figli che presentano un’incapacità al guadagno (art. 7 della LF del 6 ott. 2000[^41-2] sulla parte generale del diritto delle assicurazioni sociali) è versato al massimo fino alla fine del mese in cui compiono il 20° anno d’età.
+
+<sup>4</sup> ...[^41-3]
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^41-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^41-3]: Abrogato dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 41a
+
+**Prestazioni che integrano l’assegno familiare cantonale**[^41a-1]
+
+### (art. 31 cpv. 1–3 LPers)
+
+[^41a-2]
+
+<sup>1</sup>
+
+L’autorità competente secondo l’articolo 2 versa al collaboratore prestazioni che integrano l’assegno familiare cantonale, nella misura in cui questo è inferiore a:[^41a-3]
+
+- a. 4519 franchi all’anno per il primo figlio che ha diritto all’assegno;
+- b. 2919 franchi all’anno per ogni ulteriore figlio che ha diritto all’assegno;
+- c. 3298 franchi all’anno per ogni ulteriore figlio che ha diritto all’assegno, ha compiuto il 16° anno d’età e segue una formazione o presenta un’incapacità al guadagno.[^41a-4]
+
+<sup>2</sup>
+
+L’importo delle prestazioni integrative corrisponde alla differenza tra l’importo di cui al capoverso 1 e gli importi minimi stabiliti nella legge del 24 marzo 2006[^41a-5] sugli assegni familiari (LAFam). Nel calcolo sono aggiunti all’assegno familiare:
+
+- a. gli assegni familiari percepiti da altre persone secondo la LAFam per lo stesso figlio;
+- b. gli assegni familiari, gli assegni per i figli, gli assegni di formazione e gli assegni di custodia percepiti dal collaboratore o da altre persone presso altri datori di lavoro o un’altra autorità competente per lo stesso figlio.
+
+<sup>3</sup> I collaboratori che hanno un tasso di occupazione inferiore al 50 per cento o che non conseguono lo stipendio minimo previsto per gli assegni per i figli (art. 13 cpv. 3 LAFam) non ricevono le prestazioni integrative.
+
+<sup>4</sup> Le prestazioni che integrano l’assegno familiare sono adeguate al rincaro.
+
+[^41a-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^41a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^41a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^41a-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 12 dic. 2019, approvata dal CF il 19 ago. 2020, in vigore dal 1° gen. 2020 ([RU 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
+[^41a-5]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+
+#### Art. 41b
+
+**Assegno per il sostegno a congiunti**[^41b-1]
+
+### (art. 31 cpv. 1–3 LPers)
+
+<sup>1</sup> L’autorità competente secondo l’articolo 2 può versare la metà dell’importo dell’assegno di cui all’articolo 41*a* capoverso 1 lettera a ai collaboratori il cui coniuge o partner registrato è impossibilitato durevolmente a esercitare un’attività lucrativa a causa di una malattia grave.
+
+<sup>2</sup> L’assegno per il sostegno a congiunti è adeguato al rincaro.
+
+[^41b-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 42
+
+**Previdenza professionale**[^42-1]
+
+### (art. 32*g* cpv. 5 LPers)
+
+<sup>1</sup> I collaboratori del settore dei PF sono assicurati presso PUBLICA conformemente alle disposizioni sulla previdenza professionale della LPers e della legge del 20 dicembre 2006[^42-2] su PUBLICA.
+
+<sup>2</sup> Sono considerati stipendio determinante e assicurati presso PUBLICA, nel quadro delle disposizioni regolamentari, lo stipendio e le componenti dello stipendio di cui agli articoli 24, 26, 27, 29 e 31.[^42-3]
+
+<sup>3</sup> Il servizio competente di cui all’articolo 2 può partecipare al riscatto regolamentare se, in occasione di una nuova assunzione, la previdenza sembra inadeguata rispetto all’importanza della funzione e delle qualifiche della persona da assumere.
+
+<sup>4</sup> Per il resto si applicano le disposizioni del RP-PF 1[^42-4].
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^42-2]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^42-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^42-4]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+
+#### Art. 42a
+
+**Pensione transitoria**[^42a-1]
+
+### (art. 32*k* cpv. 2 LPers)
+
+<sup>1</sup> Se una persona percepisce una pensione transitoria intera o una mezza pensione transitoria conformemente al RP-PF 1[^42a-2], il datore di lavoro assume una parte dei costi per il finanziamento della pensione transitoria effettivamente percepita. L’importo della partecipazione del datore di lavoro è disciplinato nell’allegato 5.
+
+<sup>2</sup> Il diritto alla partecipazione del datore di lavoro non si applica se la durata del rapporto di lavoro che precede immediatamente il pensionamento è inferiore a cinque anni.
+
+[^42a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^42a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+
+### Sezione 3: Altre prestazioni
+
+#### Art. 43
+
+**Equipaggiamento**
+
+### (art. 18 cpv. 1 LPers)
+
+<sup>1</sup> I servizi competenti dotano i collaboratori nonché gli apprendisti e i tirocinanti del materiale e degli indumenti protettivi necessari.
+
+<sup>2</sup> D’intesa con il servizio competente, i collaboratori possono usare apparecchi, materiale e indumenti protettivi propri. Può essere concordata a tale effetto un’apposita indennità.
+
+<sup>3</sup> ...[^43-1]
+
+[^43-1]: Abrogato dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 44
+
+**Spese**
+
+### (art. 18 cpv. 2 LPers)
+
+<sup>1</sup> I collaboratori hanno diritto al rimborso delle spese cagionate dalla loro attività professionale.
+
+<sup>2</sup> Il Consiglio dei PF stabilisce i principi relativi al rimborso di pasti, pernottamenti, trasporti, accoglienza di ospiti e altre spese.
+
+<sup>3</sup> Le spese sono rimborsate secondo i criteri dell’adeguatezza, dell’economicità, del tempo impiegato e dell’ecologia.
+
+#### Art. 45
+
+**Premi di fedeltà**
+
+### (art. 32 lett. b LPers)
+
+<sup>1</sup> Dopo il 10° e il 15° anno di impiego è corrisposto un premio di fedeltà consistente in metà mese di congedo pagato o in metà mese di stipendio. Dopo il 20° anno di impiego è corrisposto un premio di fedeltà consistente in un mese di congedo pagato o in un mese di stipendio.
+
+<sup>2</sup> In caso di rapporti di lavoro di durata indeterminata, dopo il 5° anno di impiego è corrisposto un premio di fedeltà consistente in una settimana di congedo pagato.
+
+<sup>3</sup> Il congedo pagato deve essere preso entro cinque anni, in seguito il diritto decade.[^45-1]
+
+[^45-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 46
+
+**Servizi particolari**
+
+### (art. 32 lett. e e g LPers)
+
+Per mantenersi attrattivi sul mercato del lavoro, i due PF e gli istituti di ricerca possono offrire servizi particolari quali:
+
+- a. offerte in materia di custodia dei figli a complemento di quella assunta dalla famiglia;
+- b. la gestione di ristoranti per il personale, di locali di ristoro e di altre infrastrutture ricreative;
+- c. riduzioni di prezzo su prestazioni e prodotti.
+
+#### Art. 47
+
+**Verifica di un medico di fiducia**[^47-1]
+
+Per chiarimenti d’ordine medico e misure di medicina del lavoro il Consiglio dei PF, i due PF e gli istituti di ricerca ricorrono alla verifica di un medico di fiducia.
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 47a
+
+**Provvedimenti d’integrazione**[^47a-1]
+
+### (art. 4 cpv. 2 lett. g LPers)
+
+<sup>1</sup> Il Consiglio dei PF, i due PF e gli istituti di ricerca promuovono la reintegrazione nel processo lavorativo. Nel caso di incapacità al lavoro dovuta a malattia o infortunio del collaboratore, il servizio competente di cui all’articolo 2 ricorre a tutte le possibilità sensate e ragionevolmente esigibili per reintegrare il collaboratore nel mondo del lavoro (provvedimenti d’integrazione). Nell’effettuare i suoi accertamenti esso coinvolge servizi specializzati.
+
+<sup>2</sup> In caso di permanente incapacità parziale al lavoro occorre verificare se è possibile proseguire il rapporto di lavoro con un tasso di occupazione ridotto o in un altro posto conforme alla capacità lavorativa residua del collaboratore.
+
+[^47a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 48
+
+**Spese processuali e ripetibili**
+
+### (art. 18 cpv. 2 LPers)
+
+<sup>1</sup>
+
+Il Consiglio dei PF, i due PF e gli istituti di ricerca rimborsano le spese processuali e le spese ripetibili ai collaboratori che in virtù della loro attività professionale sono coinvolti o intentano legittimamente un procedimento civile, amministrativo o penale se:
+
+- a. il settore dei PF ha un interesse nel procedimento; o
+- b. i collaboratori non hanno commesso l’atto per grave negligenza o intenzionalmente.
+
+<sup>2</sup> Fintanto che la sentenza non è pronunciata vengono fornite unicamente garanzie relative ai costi.
+
+#### Art. 49
+
+**Indennità**[^49-1]
+
+### (art. 19 cpv. 3 e 5 LPers)
+
+<sup>1</sup>
+
+In caso di disdetta del rapporto di lavoro senza colpa da parte del collaboratore interessato, quest’ultimo percepisce un’indennità se è soddisfatta una delle condizioni seguenti:
+
+- a. il rapporto di lavoro presso un datore di lavoro di cui all’articolo 3 LPers è durato ininterrottamente almeno 20 anni;
+- b. il collaboratore ha compiuto il 50° anno di età;
+- c. il collaboratore esercita una professione per la quale la domanda è scarsa o inesistente;
+
+<sup>2</sup> In caso di cessazione consensuale del rapporto di lavoro può essere versata un’indennità.
+
+<sup>3</sup> L’indennità è pari ad almeno uno stipendio mensile e al massimo a uno stipendio annuo.
+
+<sup>4</sup>
+
+Per il calcolo dell’indennità occorre considerare in particolare:
+
+- a. i motivi della conclusione del rapporto di lavoro;
+- b. l’età;
+- c. la situazione personale e lavorativa;
+- d. la durata dell’impiego.
+
+<sup>5</sup> Non è corrisposta alcuna indennità in caso di reimpiego immediatamente successivo all’attuale rapporto presso un datore di lavoro ai sensi dell’articolo 3 LPers. È fatto salvo l’articolo 34*c* capoverso 2 LPers.
+
+<sup>6</sup> I collaboratori che entro un anno vengono reimpiegati da un datore di lavoro di cui all’articolo 3 LPers sono tenuti a rifondere l’indennità in misura proporzionale.
+
+<sup>7</sup> La risoluzione senza colpa e la cessazione consensuale del contratto di lavoro degli altri membri delle direzioni degli istituti sono rette dall’articolo 7 capoverso 4 dell’ordinanza del 19 novembre 2003[^49-2] sul settore dei PF.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^49-2]: [RS 414.110.3](https://fedlex.data.admin.ch/eli/cc/2004/16)
+
+### Sezione 4: Vacanze e congedi
+
+#### Art. 50
+
+**Giorni festivi**
+
+Durante i giorni festivi abituali nel luogo di servizio non si lavora.
+
+#### Art. 51
+
+**Vacanze**
+
+### (art. 17 LPers)
+
+<sup>1</sup> I collaboratori hanno diritto a cinque settimane di vacanza per anno civile.
+
+<sup>2</sup> Il diritto alle vacanze è di sei settimane al compimento del 50° anno di età.
+
+<sup>3</sup> I giovani hanno diritto a sei settimane di vacanza fino all’anno civile incluso in cui compiono il 20° anno d’età.[^51-1]
+
+<sup>4</sup> I superiori concordano con i collaboratori il periodo delle vacanze in base alle esigenze di servizio.
+
+<sup>5</sup> In linea di massima le vacanze devono essere prese nell’anno civile in cui sorge il diritto alle stesse. In considerazione degli interessi del servizio e d’intesa con il superiore è possibile concordare una deroga.[^51-2]
+
+<sup>6</sup> Le vacanze non effettuate possono essere pagate in contanti solo al termine del rapporto di lavoro.
+
+<sup>7</sup> In caso di assenze per servizio militare, servizio di protezione civile, servizio civile, infortunio o malattia di durata superiore a tre mesi entro uno stesso anno civile, il diritto annuale alle vacanze è ridotto di <sup>1</sup>/<sub>12</sub> per ogni mese di assenza supplementare. In caso di assenza prolungata a causa di malattia o infortunio, il diritto annuale alle vacanze è ridotto di <sup>1</sup>/<sub>12</sub> per ogni mese di assenza a partire dal secondo anno civile. In caso di congedo non pagato, il diritto alle vacanze è ridotto a partire dal secondo mese.[^51-3]
+
+<sup>8</sup> Per gli impiegati a tempo parziale, il diritto alle vacanze è commisurato al grado d’occupazione.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^51-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^51-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 52
+
+**Congedi**
+
+### (art. 17 e 17*a* cpv. 4 LPers)
+
+[^52-1]
+
+<sup>1</sup> In casi particolari e dietro richiesta motivata, è possibile accordare ai collaboratori un congedo pagato, parzialmente pagato o non pagato a condizione che ciò non pregiudichi oltre il dovuto il normale andamento del lavoro. Il tempo di lavoro pagato è commisurato al pertinente grado d’occupazione.
+
+<sup>2</sup> Sono computati come tempo di lavoro:
+
+<table>
+<tr><td>a. per il proprio matrimonio</td><td>6 giorni</td></tr>
+<tr><td>b. per il matrimonio di parenti</td><td>1 giorno</td></tr>
+<tr><td>c.[^52-2] per la nascita di un figlio proprio (congedo paternità)</td><td>10 giorni</td></tr>
+<tr><td>d.[^52-3] per le prime cure e l’organizzazione delle cure successive di malati all’interno della propria economia domestica o dei propri genitori, a condizione che non vi siano altre possibilità di custodia</td><td>il tempo necessario fino a 3 giorni per ogni evento</td></tr>
+<tr><td>e. per il disbrigo di questioni scolastiche importanti e di consultazioni mediche che riguardano minori sotto i 16 anni da parte di adulti con compiti educativi</td><td>fino a 5 giorni per anno civile</td></tr>
+<tr><td>f. per trasloco</td><td>1 giorno per anno civile</td></tr>
+<tr><td>g.[^52-4] per la conduzione e l’accompagnamento di corsi di Gioventù e Sport o corsi di sport per disabili</td><td>fino a 5 giorni per anno civile</td></tr>
+<tr><td>h.[^52-5] per il reclutamento, l’ispezione e la consegna dell’equipaggiamento</td><td>il tempo necessario conformemente all’ordine di marcia</td></tr>
+<tr><td>i. per interventi ed esercitazioni del corpo pompieri</td><td>il tempo necessario</td></tr>
+<tr><td>j.[^52-6] per il decesso di un familiare stretto o di una persona appartenente alla propria economia domestica</td><td>5 giorni</td></tr>
+<tr><td>[tab] k.[^52-7]per il decesso di un familiare o di un parente non appartenente alla propria economia domestica</td><td>1–3 giorni secondo l’impegno</td></tr>
+<tr><td>l.[^52-8] per la partecipazione alle esequie di una persona vicina o di un collega di lavoro</td><td>il tempo necessario, ma al massimo ½ giornata</td></tr>
+<tr><td>m. per la partecipazione a manifestazioni culturali organizzate da sindacati</td><td>6 giorni su 2 anni civili</td></tr>
+<tr><td>n.[^52-9] per attività in associazioni del personale</td><td>fino a 30 giorni previa intesa con le parti sociali</td></tr>
+<tr><td>o. per l’esercizio di incarichi pubblici</td><td>fino a 15 giorni per anno civile.</td></tr>
+</table>
+
+<sup>3</sup> Le assenze pianificabili sono considerate tempo di lavoro solo se l’attività in questione non può essere svolta nel tempo non lavorativo o nel quadro del tempo flessibile. Fra queste rientrano le visite mediche, le terapie, la citazione da parte di un’autorità per faccende non private.
+
+<sup>4</sup> Per il disbrigo di faccende private non è accordato alcun congedo pagato.
+
+<sup>5</sup> ...[^52-10]
+
+[^52-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^52-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^52-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^52-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-5]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-6]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-7]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-8]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-9]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-10]: Abrogato dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+
+#### Art. 52a
+
+**Congedo non pagato o parzialmente pagato**[^52a-1]
+
+### (art. 17 e 31 cpv. 5 LPers)
+
+<sup>1</sup> Possono essere accordati congedi non pagati o parzialmente pagati nel quadro delle possibilità aziendali e organizzative. La loro durata non deve di norma superare un anno.
+
+<sup>2</sup> In caso di congedo non pagato o parzialmente pagato la copertura assicurativa rimane immutata per un mese.
+
+<sup>3</sup> Il servizio competente di cui all’articolo 2 che accorda un congedo non pagato o parzialmente pagato di più di un mese conviene con il collaboratore, prima dell’inizio di tale congedo, se e come continueranno a sussistere l’assicurazione e l’obbligo di pagare i contributi a partire dal secondo mese di congedo.
+
+<sup>4</sup> Se dal secondo mese di congedo non assume più i contributi del datore di lavoro o i premi di rischio, il servizio competente di cui all’articolo 2 comunica il congedo a PUBLICA. Il collaboratore può mantenere la copertura assicurativa avuta finora pagando, oltre ai contributi di risparmio, anche i contributi di risparmio del datore di lavoro e i premi di rischio, o limitare l’assicurazione alla copertura dei rischi di morte e invalidità.
+
+<sup>5</sup> I contributi dovuti dal collaboratore durante il suo congedo sono dedotti dal suo stipendio alla ripresa del lavoro.
+
+[^52a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+
+## Capitolo 5: Obblighi
+
+#### Art. 53
+
+**Adempimento dei compiti**
+
+I collaboratori sono tenuti ad adempiere in modo competente e responsabile i compiti stabiliti nel contratto di lavoro, ad attenersi alle direttive del servizio e agli ordini dei superiori e a comportarsi in modo cooperativo e leale nei confronti dei colleghi.
+
+#### Art. 53a
+
+**Tutela degli interessi della Confederazione, del Consiglio dei PF, dei due PF e degli istituti di ricerca**[^53a-1]
+
+<sup>1</sup> I collaboratori adempiono i compiti indipendentemente dagli interessi personali ed evitano conflitti tra i loro interessi privati e quelli della Confederazione, del Consiglio dei PF, dei due PF e degli istituti di ricerca.
+
+<sup>2</sup> Il servizio competente di cui all’articolo 2 garantisce che i collaboratori uniti in matrimonio, conviventi, imparentati o affini siano impiegati in modo tale che non collaborino direttamente o che non siano direttamente subordinati l’uno all’altro. I collaboratori che intrattengono relazioni di questo tipo devono comunicarlo ai propri superiori.
+
+[^53a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 53b
+
+**Ricusazione**[^53b-1]
+
+<sup>1</sup> I collaboratori devono ricusarsi quando la loro imparzialità rischia di essere messa in dubbio a causa di un interesse personale in una determinata questione oppure per altri motivi. L’impressione di parzialità è motivo sufficiente di ricusazione.
+
+<sup>2</sup>
+
+Sono considerati motivi di parzialità segnatamente:
+
+- a. le relazioni particolarmente strette oppure le amicizie o inimicizie personali nei confronti di una persona fisica o giuridica che partecipa a un affare o a un processo decisionale oppure che è interessata da questi ultimi;
+- b. la partecipazione finanziaria a una persona giuridica che partecipa a un affare o a un processo decisionale oppure che è interessata da questi ultimi;
+- c. l’esistenza di un’offerta per un posto di lavoro da parte di una persona fisica o giuridica che partecipa a un affare o a un processo decisionale oppure che è interessata da questi ultimi.
+
+<sup>3</sup> I collaboratori presentano tempestivamente ai propri superiori i motivi di parzialità inevitabili. In caso di dubbio, la decisione in merito alla ricusazione spetta ai superiori.
+
+[^53b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 54
+
+**Tempo di lavoro**
+
+### (art. 17 LPers)
+
+<sup>1</sup> Il tempo di lavoro settimanale medio è di 41 ore per i collaboratori impiegati a tempo pieno. Per i collaboratori impiegati a tempo parziale è pari al grado d’occupazione convenuto.
+
+<sup>2</sup> I servizi responsabili possono concordare con i collaboratori o i rappresentanti del personale una specifica organizzazione del tempo di lavoro.
+
+<sup>2bis</sup> D’intesa con il servizio competente, la prestazione di lavoro può essere fornita al di fuori del posto di lavoro.[^54-1]
+
+<sup>3</sup> In caso di viaggi di servizio in Svizzera, i tempi di trasferta contano come tempo di lavoro. In caso di viaggi di servizio all’estero è computato il tempo di lavoro convenuto.[^54-2]
+
+<sup>4</sup> Durante la pausa di mezzogiorno il lavoro deve essere interrotto per almeno 30 minuti. Valgono per contro come tempo di lavoro una pausa di 15 minuti ciascuna nel corso della mattinata e nel corso del pomeriggio.
+
+<sup>5</sup> I due PF e gli istituti di ricerca disciplinano il lavoro a turni e il servizio di picchetto d’intesa con i rappresentanti del personale.
+
+[^54-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^54-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 54a
+
+**Documentazione del tempo di lavoro e delle assenze**[^54a-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> Tutti i collaboratori sono tenuti a documentare le assenze per vacanze, congedi, maternità, malattia, infortunio, servizio militare, servizio di protezione civile e servizio civile nonché i congedi pagati concessi in base ai premi di fedeltà.
+
+<sup>2</sup> Per il resto il Consiglio dei PF, i due PF e gli istituti di ricerca disciplinano, nel loro settore e in base al diritto vigente, la documentazione del tempo di lavoro e delle assenze, nonché i dettagli relativi ai modelli di orario di lavoro, al servizio a turni e di picchetto e al riporto, alla compensazione e al pagamento dei saldi per vacanze, congedi, ore supplementari e lavoro straordinario.
+
+[^54a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 55
+
+**Ore supplementari e lavoro straordinario**
+
+### (art. 17 LPers)
+
+<sup>1</sup> In caso di carico di lavoro inconsueto o di lavoro urgente, il servizio competente può, entro un lasso di tempo adeguato, ordinare o consentire di effettuare ore supplementari o lavoro straordinario. Il servizio competente pianifica con i collaboratori la soppressione delle ore supplementari o del lavoro straordinario ordinati o consentiti.
+
+<sup>2</sup> Sono ore supplementari le ore di lavoro prestate che superano il tempo di lavoro settimanale stabilito per gli impiegati a tempo pieno o a tempo parziale, ma che non oltrepassano il tempo massimo di lavoro di 45 ore alla settimana previsto per legge. È considerato straordinario il tempo di lavoro che supera il tempo massimo di lavoro di 45 ore alla settimana previsto per legge. All’anno possono essere prestate al massimo 170 ore di lavoro straordinario.
+
+<sup>3</sup> Le ore supplementari vanno compensate con tempo libero della medesima durata.[^55-1]
+
+<sup>4</sup> Se le ore supplementari non possono essere compensate, il datore di lavoro versa lo stipendio normale senza supplemento.[^55-2]
+
+<sup>4bis</sup> Per la compensazione e la retribuzione del lavoro straordinario si applicano le disposizioni della legge federale del 13 marzo 1964[^55-3] sul lavoro.[^55-4]
+
+<sup>5</sup> I due PF e gli istituti di ricerca provvedono affinché siano pagate al massimo 100 ore supplementari per anno civile e vengano riportate all’anno civile seguente al massimo 100 ore.[^55-5]
+
+<sup>6</sup> Il pagamento delle ore supplementari può essere escluso dal contratto di lavoro dei quadri.[^55-6]
+
+[^55-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^55-4]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-5]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-6]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 56
+
+**Occupazioni accessorie dei collaboratori**[^56-1]
+
+<sup>1</sup> I collaboratori comunicano ai loro superiori gerarchici tutte le cariche pubbliche e le attività svolte dietro pagamento che esercitano al di fuori del loro rapporto di lavoro, in particolare gli obblighi d’insegnamento esterni, le attività di consulenza, i mandati in consigli d’amministrazione e altre prestazioni.
+
+<sup>2</sup> Le attività svolte gratuitamente devono essere comunicate se non possono essere esclusi conflitti di interesse o se potrebbero danneggiare la reputazione del Consiglio dei PF, dei due PF o degli istituti di ricerca.
+
+<sup>3</sup>
+
+L’esercizio delle cariche e delle attività di cui ai capoversi 1 e 2 necessita dell’autorizzazione se:
+
+- a. esse occupano i collaboratori in una misura tale da diminuire le loro prestazioni nell’ambito del rapporto di lavoro con il Consiglio dei PF, i due PF o gli istituti di ricerca, in particolare se il tempo complessivamente dedicato all’attività principale e a quella accessoria supera di almeno il 10 per cento il tempo pieno;
+- b. il tipo di attività rischia di generare un conflitto con gli interessi derivanti dal rapporto di lavoro o con gli interessi del Consiglio dei PF, dei due PF o degli istituti di ricerca;
+- c. il collaboratore intende utilizzare l’infrastruttura disponibile sul posto di lavoro.
+
+<sup>4</sup>
+
+Se nel singolo caso non è possibile escludere conflitti di interesse, l’autorizzazione è vincolata al rispetto di condizioni o requisiti adeguati oppure negata. Possono sussistere conflitti di interesse in particolare per le attività seguenti:
+
+- a. consulenza o rappresentanza di terzi in questioni che rientrano nei compiti previsti dal rapporto di lavoro;
+- b. attività collegate a mandati svolti per conto del Consiglio dei PF, dei due PF o degli istituti di ricerca o che questi ultimi devono attribuire in un prossimo futuro.
+
+<sup>5</sup>
+
+La comunicazione o la domanda di autorizzazione deve essere presentata al superiore gerarchico in tempo utile prima dell’inizio dell’occupazione. In entrambi i documenti è precisato:
+
+- a. il tipo di occupazione accessoria e la durata;
+- b. l’onere temporale previsto;
+- c. il tipo e l’estensione dell’utilizzo dell’infrastruttura;
+- d. eventuali conflitti di interesse.
+
+[^56-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 56a
+
+**Occupazioni accessorie degli altri membri delle direzioni degli istituti**[^56a-1]
+
+<sup>1</sup> Per l’esercizio delle occupazioni accessorie da parte degli altri membri delle direzioni degli istituti si applica l’articolo 7*a* dell’ordinanza del 19 novembre 2003[^56a-2] sul settore dei PF.
+
+<sup>2</sup> Su richiesta il Consiglio dei PF decide in merito alla rinuncia totale o parziale alla consegna della parte di reddito da occupazioni accessorie secondo l’articolo 11 capoverso 5 dell’ordinanza del 19 dicembre 2003[^56a-3] sulla retribuzione dei quadri.
+
+[^56a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^56a-2]: [RS 414.110.3](https://fedlex.data.admin.ch/eli/cc/2004/16)
+[^56a-3]: [RS 172.220.12](https://fedlex.data.admin.ch/eli/cc/2004/30)
+
+#### Art. 56b
+
+**Accettazione di vantaggi**[^56b-1]
+
+### (art. 21 cpv. 3 LPers)
+
+<sup>1</sup> Nell’esercizio della loro attività professionale, i collaboratori non possono accettare né per sé né per i loro familiari regali di terzi o altri vantaggi che oltrepassano gesti esigui conformi agli usi sociali o che potrebbero condurre a un rapporto di dipendenza. Sono considerati vantaggi esigui gli omaggi in natura il cui valore di mercato non supera i 200 franchi.[^56b-2]
+
+<sup>2</sup> In caso di dubbio decide il superiore gerarchico.[^56b-3]
+
+[^56b-1]: Originario art. 56*a*. Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^56b-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^56b-3]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 57
+
+**Segreto professionale, di affari e d’ufficio**
+
+### (art. 22 LPers)
+
+<sup>1</sup> I collaboratori sono tenuti a mantenere il più stretto riserbo su questioni professionale e di affari che per loro natura o per prescrizione particolare devono essere mantenute segrete.
+
+<sup>2</sup> L’obbligo di serbare il segreto permane anche dopo la cessazione del rapporto di lavoro.
+
+<sup>3</sup> Se chiamati a rispondere in qualità di parti, testimoni o periti in interrogatori o procedimenti giudiziari su constatazioni fatte nell’esercizio del loro mandato o nell’adempimento della propria funzione e che si riferiscono a compiti lavorativi, i collaboratori possono esprimersi solo se ne hanno ricevuto l’autorizzazione del servizio competente.
+
+## Capitolo 5*a*: Violazione degli obblighi professionali****
+
+[^chap5a-1]
+
+[^chap5a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+
+#### Art. 58
+
+**Inchiesta amministrativa**[^58-1]
+
+### (art. 25 LPers)
+
+Un’inchiesta amministrativa è avviata dall’autorità competente ai sensi dell’articolo 2 quando occorre accertare se sussiste un fatto che esige un intervento d’ufficio per salvaguardare l’interesse pubblico. Gli articoli 27*a*–27*j* dell’ordinanza del 25 novembre 1998[^58-2] sull’organizzazione del Governo e dell’Amministrazione si applicano per analogia.
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^58-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 58a
+
+**Inchiesta disciplinare**[^58a-1]
+
+### (art. 25 LPers)
+
+<sup>1</sup> L’autorità competente ai sensi dell’articolo 2 apre l’inchiesta disciplinare. Inoltre designa la persona incaricata di svolgerla. L’inchiesta può essere affidata a persone esterne al settore dei PF.
+
+<sup>2</sup> Con la cessazione del rapporto di lavoro termina anche l’inchiesta disciplinare.
+
+<sup>3</sup>
+
+Se non sussiste alcun motivo di disdetta ai sensi dell’articolo 10 capoversi 3 e 4 LPers, l’autorità competente ai sensi dell’articolo 2 può, sulla base dell’esito dell’inchiesta, disporre le seguenti misure:[^58a-2]
+
+- a.[^58a-3] in caso di violazione degli obblighi per negligenza: ammonizione o modifica dell’ambito d’attività;
+- b. in caso di violazione degli obblighi intenzionale o per negligenza grave: oltre alle misure di cui alla lettera a, la riduzione dello stipendio fino al 10 per cento durante un anno al massimo, la modifica della durata del lavoro o il cambiamento del luogo di lavoro.
+
+<sup>4</sup> Se lo stesso fatto conduce a un’inchiesta disciplinare e a un procedimento penale, la decisione in merito a misure può essere rinviata fino al termine del procedimento penale.
+
+<sup>5</sup> Trascorso un anno dalla scoperta della violazione degli obblighi professionali e al massimo tre anni dopo l’ultima violazione degli obblighi, non è più consentito ordinare alcuna misura. La prescrizione è sospesa finché dura il procedimento penale promosso per il medesimo fatto oppure finché non è stato deciso su rimedi di diritto esercitati in un’inchiesta disciplinare.
+
+[^58a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^58a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^58a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 58b
+
+**Trasmissione degli atti al Ministero pubblico della Confederazione**[^58b-1]
+
+### (art. 25 LPers)
+
+Se una violazione degli obblighi professionali adempie in pari tempo la fattispecie di un reato secondo il diritto penale federale o cantonale, l’autorità competente ai sensi dell’articolo 2 trasmette gli atti, con i verbali degli interrogatori, al Ministero pubblico della Confederazione.
+
+[^58b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+
+## Capitolo 6: Disposizioni finali
+
+### Sezione 1: Protezione di dati personali e relativi alla salute
+
+(art. 27 nonché 28 cpv. 3 e 4 LPers)
+
+#### Art. 59
+
+**Competenze**
+
+<sup>1</sup> I due PF e gli istituti di ricerca provvedono affinché siano osservate le disposizioni della legge federale del 19 giugno 1992[^59-1] sulla protezione dei dati (LPD) e dell’ordinanza del 14 giugno 1993[^59-2] relativa alla legge federale sulla protezione dei dati (OLPD).
+
+<sup>2</sup>
+
+I due PF e gli istituti di ricerca designano per il proprio settore i servizi competenti per il trattamento:
+
+- a. dei fascicoli generali relativi al personale;
+- b. dei profili della personalità (art. 3 lett. d LPD);
+- c. dei dati relativi a misure sociali;
+- d. dei dati relativi a procedimenti esecutivi;
+- e. dei dati relativi a procedimenti penali;
+- f. dei dati relativi a procedimenti amministrativi.
+
+<sup>3</sup> Prima dell’introduzione o della modifica di un sistema o di una collezione di dati, sono consultati gli impiegati o le associazioni del personale che li rappresentano.
+
+<sup>4</sup> I due PF e gli istituti di ricerca notificano autonomamente per registrazione all’Incaricato federale della protezione dei dati e della trasparenza[^59-3] tutte le collezioni di dati prima che queste ultime siano rese operative (art. 11 LPD, art. 3 OLPD).
+
+[^59-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^59-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^59-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 60
+
+**Principi in materia di trattamento**
+
+<sup>1</sup> I dati di cui all’articolo 59 capoverso 2 lettere c-f possono essere trattati solo nella misura in cui ve ne sia una necessità.
+
+<sup>2</sup> I profili della personalità possono essere trattati solo se sono necessari ai fini dello sviluppo del personale e se le persone interessate vi hanno acconsentito per scritto.
+
+<sup>3</sup> Oltre ai dati di cui all’articolo 59 capoverso 2 lettere b-f, i dati personali degni di particolare protezione possono essere trattati solo in casi eccezionali se sono necessari ai fini dello sviluppo del personale e se le persone interessate vi hanno acconsentito per scritto.
+
+<sup>4</sup> I dati sono accessibili solo al servizio competente di cui all’articolo 59 capoverso 2. Le collezioni di dati manuali devono essere tenute sotto chiave.
+
+<sup>5</sup>
+
+Per la conservazione dei dati valgono i seguenti termini:
+
+- a. per i fascicoli generali relativi al personale: dieci anni dopo la fine del rapporto di lavoro;
+- b. per i fascicoli relativi al personale ausiliario: due anni dopo la fine del rapporto di lavoro;
+- c. per i dati relativi a misure sociali e provvedimenti amministrativi, esecutivi e penali: cinque anni dopo l’applicazione della misura o del provvedimento;
+- d. per profili della personalità: cinque anni dopo il rilevamento dei dati se la persona interessata non ha acconsentito per scritto a una durata di conservazione più lunga.
+
+<sup>6</sup> Decorso il termine di conservazione si procede conformemente agli articoli 21 e 22 LPD[^60-1]. In singoli casi motivati il Consiglio dei PF può prolungare, dietro richiesta del servizio competente, i termini di cui al capoverso 3.
+
+<sup>7</sup>
+
+I due PF e gli istituti di ricerca disciplinano le questioni di dettaglio relative al proprio personale. Stabiliscono le misure di sicurezza per le collezioni di dati elettroniche. Ad eccezione dei dati personali degni di particolare protezione di cui all’articolo 3 lettera c LPD e dei profili della personalità di cui all’articolo 3 lettera d LPD, è possibile prevedere l’accesso ai dati nella procedura di richiamo per:
+
+- a. la Centrale di compensazione dell’assicurazione per la vecchiaia e per i superstiti: dati necessari all’aggiornamento dei conti individuali;
+- b.[^60-2] ...
+- c. la Cassa pensioni della Confederazione: dati necessari all’aggiornamento dei conti individuali del personale;
+- d. La Posta: dati necessari al versamento degli stipendi del personale.
+
+[^60-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^60-2]: Abrogata dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, con effetto dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 61
+
+**Dati relativi alla salute**
+
+<sup>1</sup> I documenti medici contengono il questionario di assunzione, i rapporti e i certificati medici, nonché le valutazioni del servizio medico necessarie per valutare le attitudini dell’impiegato al momento dell’assunzione e durante il rapporto di lavoro. I documenti medici sono conservati presso il servizio medico conformemente all’articolo 47.
+
+<sup>2</sup> I documenti medici sono costituiti su carta. Taluni dati, quali il nome dell’impiegato e la diagnosi, possono essere trattati in modo automatizzato ai fini della fatturazione o in vista del rilevamento di dati statistici.
+
+<sup>3</sup> Il sistema automatizzato di trattamento dei dati medici deve essere un sistema chiuso; non può essere allacciato a nessun altro sistema elettronico di trattamento dei dati.
+
+<sup>4</sup> Al servizio del personale è comunicata unicamente la valutazione del servizio medico. Il contenuto dei documenti medici è comunicato al servizio del personale o a terzi soltanto se l’impiegato interessato vi ha previamente acconsentito. Se l’impiegato non dà il suo consenso, il Consiglio dei PF può dare l’autorizzazione a comunicare dati relativi alla salute.
+
+### Sezione 2: Ricorsi
+
+#### Art. 62
+
+**Autorità interna di ricorso e procedura**[^62-1]
+
+### (art. 37 cpv. 3 legge sui PF)
+
+[^62-2]
+
+<sup>1</sup> L’autorità interna di ricorso contro decisioni in prima istanza dei due PF e degli istituti di ricerca è la Commissione di ricorso dei PF.
+
+<sup>2</sup> Contro le decisioni del Consiglio dei PF e della Commissione di ricorso dei PF può essere interposto ricorso al Tribunale amministrativo federale.[^62-3]
+
+[^62-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^62-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^62-3]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+#### Art. 63
+
+**Prescrizione**
+
+### (art. 34 LPers)
+
+I termini di prescrizione per pretese derivanti dal (rapporto di lavoro si conformano agli articoli 127 e 128 del Codice delle obbligazioni[^63-1].
+
+[^63-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Sezione 3: Modifica e abrogazione di testi normativi
+
+#### Art. 64
+
+**Abrogazione del diritto vigente**
+
+Sono abrogati:
+
+- 1\. l’ordinanza del 25 febbraio 1987[^64-1] sui rapporti di servizio speciali nei Politecnici federali e negli istituti annessi;
+- 2\. l’ordinanza sugli assistenti dei PF del 23 gennaio 1991[^64-2] sui rapporti di servizio degli assistenti dei Politecnici federali;
+- 3\. il regolamento del 14 novembre 1969[^64-3] sull’assunzione di assistenti ausiliari presso i politecnici federali;
+- 4\. l’ordinanza del 31 marzo 1993[^64-4] sulla nomina degli agenti nel settore dei PF;
+- 5\.[^64-5] l’ordinanza del 19 settembre 2002[^64-6] sull’assicurazione del personale del settore dei politecnici federali nella Cassa pensioni della Confederazione PUBLICA.
+
+[^64-1]: [[RU 1987 812](https://fedlex.data.admin.ch/eli/oc/1987/812_812_812)]
+[^64-2]: [[RU 1991 806](https://fedlex.data.admin.ch/eli/oc/1991/806_806_806)]
+[^64-3]: Non pubblicato nella RU (vedi [FF 2008 5254](https://fedlex.data.admin.ch/eli/fga/2008/1055)).
+[^64-4]: [[RU 1994 2262](https://fedlex.data.admin.ch/eli/oc/1994/2262_2262_2262)]
+[^64-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^64-6]: [[RU 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669), [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4)[4795](https://fedlex.data.admin.ch/eli/oc/2005/646), [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)art. 6 n. 3]
+
+#### Art. 65
+
+**Modifica del diritto vigente**
+
+### ...**
+
+[^65-subdiv-1]
+
+[^65-subdiv-1]: Le mod. possono essere consultate alla [RU 2001 1789](https://fedlex.data.admin.ch/eli/oc/2001/279).
+
+#### Art. 65a
+
+**Disposizione transitoria della modifica del 5 marzo 2020**[^65a-1]
+
+I diritti allo stipendio in caso di malattia o infortunio maturati prima dell’entrata in vigore della modifica del 5 marzo 2020 si basano sul diritto previgente.
+
+[^65a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvato dal CF il 23 set. 2005 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+### Sezione 4: Entrata in vigore
+
+#### Art. 66
+
+La presente ordinanza entra in vigore il 1° gennaio 2002.
+
+Allegato 1*[^t-2]*
+
+(art. 25 cpv. 1)
+
+## Griglia delle funzioni del settore dei PF
+
+[^t-2]: Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/it/xml/image/image1.png)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/it/xml/image/image2.png)
+
+Allegato 2*[^t-3]*
+
+(art. 26 cpv. 1, 28 cpv. 1, 30 cpv. 3)
+
+## Scala salariale del settore dei PF 2020
+
+[^t-3]: Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 12 dic. 2019, approvata dal CF il 19 ago. 2020, in vigore dal 1° gen. 2020 ([RU 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
+
+### Linea di valutazione «a.»
+
+<table>
+<tr><td>Anni di esperienza</td><td colspan="15">Livello di funzione</td></tr>
+<tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+<tr><td>0</td><td>63’009</td><td>68’206</td><td>73’868</td><td>80’035</td><td>86’758</td><td>94’263</td><td>102’841</td><td>112’868</td><td>124’832</td><td>139’750</td><td>159’034</td><td>184’719</td><td>219’815</td><td>268’944</td><td></td></tr>
+<tr><td>1</td><td>64’269</td><td>69’570</td><td>75’345</td><td>81’636</td><td>88’493</td><td>96’149</td><td>104’897</td><td>115’126</td><td>127’328</td><td>142’545</td><td>162’215</td><td>188’413</td><td>224’212</td><td>274’323</td><td></td></tr>
+<tr><td>2</td><td>65’529</td><td>70’934</td><td>76’823</td><td>83’237</td><td>90’228</td><td>98’034</td><td>106’954</td><td>117’383</td><td>129’825</td><td>145’340</td><td>165’396</td><td>192’108</td><td>228’608</td><td>279’702</td><td></td></tr>
+<tr><td>3</td><td>66’789</td><td>72’298</td><td>78’300</td><td>84’837</td><td>91’963</td><td>99’919</td><td>109’011</td><td>119’641</td><td>132’321</td><td>148’135</td><td>168’576</td><td>195’802</td><td>233’004</td><td>285’081</td><td>Gli stipendi di questo livello sono fissati dal Consiglio federale</td></tr>
+<tr><td>4</td><td>68’049</td><td>73’662</td><td>79’777</td><td>86’438</td><td>93’699</td><td>101’804</td><td>111’068</td><td>121’898</td><td>134’818</td><td>150’930</td><td>171’757</td><td>199’496</td><td>237’401</td><td>290’459</td><td></td></tr>
+<tr><td>5</td><td>69’310</td><td>75’026</td><td>81’255</td><td>88’039</td><td>95’434</td><td>103’690</td><td>113’125</td><td>124’155</td><td>137’315</td><td>153’725</td><td>174’938</td><td>203’191</td><td>241’797</td><td>295’838</td><td></td></tr>
+<tr><td>6</td><td>70’255</td><td>76’049</td><td>82’363</td><td>89’239</td><td>96’735</td><td>105’104</td><td>114’667</td><td>125’848</td><td>139’187</td><td>155’821</td><td>177’323</td><td>205’962</td><td>245’094</td><td>299’872</td><td></td></tr>
+<tr><td>7</td><td>71’200</td><td>77’072</td><td>83’471</td><td>90’440</td><td>98’037</td><td>106’517</td><td>116’210</td><td>127’541</td><td>141’060</td><td>157’917</td><td>179’709</td><td>208’732</td><td>248’391</td><td>303’907</td><td></td></tr>
+<tr><td>8</td><td>72’145</td><td>78’096</td><td>84’579</td><td>91’641</td><td>99’338</td><td>107’931</td><td>117’753</td><td>129’234</td><td>142’932</td><td>160’013</td><td>182’094</td><td>211’503</td><td>251’689</td><td>307’941</td><td></td></tr>
+<tr><td>9</td><td>73’090</td><td>79’119</td><td>85’687</td><td>92’841</td><td>100’639</td><td>109’345</td><td>119’295</td><td>130’927</td><td>144’805</td><td>162’109</td><td>184’480</td><td>214’274</td><td>254’986</td><td>311’975</td><td></td></tr>
+<tr><td>10</td><td>74’035</td><td>80’142</td><td>86’795</td><td>94’042</td><td>101’941</td><td>110’759</td><td>120’838</td><td>132’620</td><td>146’677</td><td>164’206</td><td>186’865</td><td>217’045</td><td>258’283</td><td>316’009</td><td></td></tr>
+<tr><td>11</td><td>74’665</td><td>80’824</td><td>87’534</td><td>94’842</td><td>102’808</td><td>111’702</td><td>121’866</td><td>133’749</td><td>147’925</td><td>165’603</td><td>188’456</td><td>218’892</td><td>260’481</td><td>318’699</td><td></td></tr>
+<tr><td>12</td><td>75’295</td><td>81’506</td><td>88’272</td><td>95’642</td><td>103’676</td><td>112’645</td><td>122’895</td><td>134’878</td><td>149’174</td><td>167’001</td><td>190’046</td><td>220’739</td><td>262’679</td><td>321’388</td><td></td></tr>
+<tr><td>13</td><td>75’926</td><td>82’188</td><td>89’011</td><td>96’443</td><td>104’543</td><td>113’587</td><td>123’923</td><td>136’006</td><td>150’422</td><td>168’398</td><td>191’636</td><td>222’586</td><td>264’877</td><td>324’077</td><td></td></tr>
+<tr><td>14</td><td>76’556</td><td>82’870</td><td>89’750</td><td>97’243</td><td>105’411</td><td>114’530</td><td>124’951</td><td>137’135</td><td>151’670</td><td>169’796</td><td>193’227</td><td>224’434</td><td>267’076</td><td>326’767</td><td></td></tr>
+<tr><td>15</td><td>77’186</td><td>83’552</td><td>90’488</td><td>98’043</td><td>106’279</td><td>115’472</td><td>125’980</td><td>138’264</td><td>152’919</td><td>171’193</td><td>194’817</td><td>226’281</td><td>269’274</td><td>329’456</td><td></td></tr>
+</table>
+
+Linea di valutazione «b.»
+
+<table>
+<tr><td>Anni di esperienza</td><td colspan="15">Livello di funzione</td></tr>
+<tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+<tr><td>0</td><td>58’899</td><td>63’758</td><td>69’051</td><td>74’816</td><td>81’100</td><td>88’116</td><td>96’134</td><td>105’507</td><td>116’690</td><td>130’635</td><td>148’662</td><td>172’672</td><td>205’480</td><td>251’404</td><td></td></tr>
+<tr><td>1</td><td>60’077</td><td>65’033</td><td>70’432</td><td>76’312</td><td>82’722</td><td>89’878</td><td>98’056</td><td>107’618</td><td>119’024</td><td>133’248</td><td>151’636</td><td>176’126</td><td>209’589</td><td>256’432</td><td></td></tr>
+<tr><td>2</td><td>61’255</td><td>66’308</td><td>71’813</td><td>77’808</td><td>84’344</td><td>91’640</td><td>99’979</td><td>109’728</td><td>121’358</td><td>135’861</td><td>154’609</td><td>179’579</td><td>213’699</td><td>261’460</td><td></td></tr>
+<tr><td>3</td><td>62’433</td><td>67’583</td><td>73’194</td><td>79’305</td><td>85’966</td><td>93’403</td><td>101’902</td><td>111’838</td><td>123’692</td><td>138’474</td><td>157’582</td><td>183’032</td><td>217’808</td><td>266’488</td><td>Gli stipendi di questo livello sono fissati dal Consiglio federale</td></tr>
+<tr><td>4</td><td>63’611</td><td>68’858</td><td>74’575</td><td>80’801</td><td>87’588</td><td>95’165</td><td>103’824</td><td>113’948</td><td>126’026</td><td>141’086</td><td>160’555</td><td>186’486</td><td>221’918</td><td>271’516</td><td></td></tr>
+<tr><td>5</td><td>64’789</td><td>70’133</td><td>75’956</td><td>82’297</td><td>89’210</td><td>96’927</td><td>105’747</td><td>116’058</td><td>128’359</td><td>143’699</td><td>163’529</td><td>189’939</td><td>226’028</td><td>276’545</td><td></td></tr>
+<tr><td>6</td><td>65’673</td><td>71’090</td><td>76’991</td><td>83’419</td><td>90’426</td><td>98’249</td><td>107’189</td><td>117’641</td><td>130’110</td><td>145’659</td><td>165’759</td><td>192’529</td><td>229’110</td><td>280’316</td><td></td></tr>
+<tr><td>7</td><td>66’556</td><td>72’046</td><td>78’027</td><td>84’542</td><td>91’643</td><td>99’571</td><td>108’631</td><td>119’223</td><td>131’860</td><td>147’618</td><td>167’989</td><td>195’119</td><td>232’192</td><td>284’087</td><td></td></tr>
+<tr><td>8</td><td>67’440</td><td>73’002</td><td>79’063</td><td>85’664</td><td>92’859</td><td>100’892</td><td>110’073</td><td>120’806</td><td>133’611</td><td>149’578</td><td>170’219</td><td>197’710</td><td>235’274</td><td>287’858</td><td></td></tr>
+<tr><td>9</td><td>68’323</td><td>73’959</td><td>80’099</td><td>86’786</td><td>94’076</td><td>102’214</td><td>111’515</td><td>122’389</td><td>135’361</td><td>151’537</td><td>172’448</td><td>200’300</td><td>238’356</td><td>291’629</td><td></td></tr>
+<tr><td>10</td><td>69’207</td><td>74’915</td><td>81’134</td><td>87’908</td><td>95’292</td><td>103’536</td><td>112’957</td><td>123’971</td><td>137’111</td><td>153’497</td><td>174’678</td><td>202’890</td><td>241’438</td><td>295’400</td><td></td></tr>
+<tr><td>11</td><td>69’796</td><td>75’553</td><td>81’825</td><td>88’657</td><td>96’103</td><td>104’417</td><td>113’918</td><td>125’026</td><td>138’278</td><td>154’803</td><td>176’165</td><td>204’616</td><td>243’493</td><td>297’914</td><td></td></tr>
+<tr><td>12</td><td>70’385</td><td>76’190</td><td>82’515</td><td>89’405</td><td>96’914</td><td>105’298</td><td>114’880</td><td>126’081</td><td>139’445</td><td>156’109</td><td>177’652</td><td>206’343</td><td>245’548</td><td>300’428</td><td></td></tr>
+<tr><td>13</td><td>70’974</td><td>76’828</td><td>83’206</td><td>90’153</td><td>97’725</td><td>106’179</td><td>115’841</td><td>127’136</td><td>140’612</td><td>157’416</td><td>179’138</td><td>208’070</td><td>247’603</td><td>302’942</td><td></td></tr>
+<tr><td>14</td><td>71’563</td><td>77’465</td><td>83’896</td><td>90’901</td><td>98’536</td><td>107’060</td><td>116’802</td><td>128’192</td><td>141’779</td><td>158’722</td><td>180’625</td><td>209’797</td><td>249’658</td><td>305’456</td><td></td></tr>
+<tr><td>15</td><td>72’152</td><td>78’103</td><td>84’587</td><td>91’649</td><td>99’347</td><td>107’942</td><td>117’764</td><td>129’247</td><td>142’946</td><td>160’028</td><td>182’112</td><td>211’523</td><td>251’712</td><td>307’970</td><td></td></tr>
+</table>
+
+### Linea di valutazione «c.»
+
+<table>
+<tr><td>Anni di esperienza</td><td colspan="15">Livello di funzione</td></tr>
+<tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+<tr><td>0</td><td>54’790</td><td>59’309</td><td>64’233</td><td>69’596</td><td>75’442</td><td>81’968</td><td>89’427</td><td>98’146</td><td>108’549</td><td>121’521</td><td>138’291</td><td>160’625</td><td>191’144</td><td>233’864</td><td></td></tr>
+<tr><td>1</td><td>55’886</td><td>60’495</td><td>65’518</td><td>70’988</td><td>76’951</td><td>83’607</td><td>91’215</td><td>100’109</td><td>110’720</td><td>123’952</td><td>141’056</td><td>163’838</td><td>194’967</td><td>238’542</td><td></td></tr>
+<tr><td>2</td><td>56’982</td><td>61’682</td><td>66’802</td><td>72’380</td><td>78’459</td><td>85’247</td><td>93’004</td><td>102’072</td><td>112’891</td><td>126’382</td><td>143’822</td><td>167’050</td><td>198’790</td><td>243’219</td><td></td></tr>
+<tr><td>3</td><td>58’078</td><td>62’868</td><td>68’087</td><td>73’772</td><td>79’968</td><td>86’886</td><td>94’792</td><td>104’035</td><td>115’062</td><td>128’813</td><td>146’588</td><td>170’263</td><td>202’612</td><td>247’896</td><td>Gli stipendi di questo livello sono fissati dal Consiglio federale</td></tr>
+<tr><td>4</td><td>59’173</td><td>64’054</td><td>69’372</td><td>75’164</td><td>81’477</td><td>88’525</td><td>96’581</td><td>105’998</td><td>117’233</td><td>131’243</td><td>149’354</td><td>173’475</td><td>206’435</td><td>252’573</td><td></td></tr>
+<tr><td>5</td><td>60’269</td><td>65’240</td><td>70’656</td><td>76’556</td><td>82’986</td><td>90’165</td><td>98’369</td><td>107’961</td><td>119’404</td><td>133’673</td><td>152’120</td><td>176’688</td><td>210’258</td><td>257’251</td><td></td></tr>
+<tr><td>6</td><td>61’091</td><td>66’130</td><td>71’620</td><td>77’600</td><td>84’118</td><td>91’394</td><td>99’711</td><td>109’433</td><td>121’032</td><td>135’496</td><td>154’194</td><td>179’097</td><td>213’125</td><td>260’759</td><td></td></tr>
+<tr><td>7</td><td>61’913</td><td>67’020</td><td>72’583</td><td>78’643</td><td>85’249</td><td>92’624</td><td>101’052</td><td>110’905</td><td>122’661</td><td>137’319</td><td>156’268</td><td>181’506</td><td>215’992</td><td>264’267</td><td></td></tr>
+<tr><td>8</td><td>62’735</td><td>67’909</td><td>73’547</td><td>79’687</td><td>86’381</td><td>93’853</td><td>102’394</td><td>112’378</td><td>124’289</td><td>139’142</td><td>158’343</td><td>183’916</td><td>218’860</td><td>267’775</td><td></td></tr>
+<tr><td>9</td><td>63’557</td><td>68’799</td><td>74’510</td><td>80’731</td><td>87’512</td><td>95’083</td><td>103’735</td><td>113’850</td><td>125’917</td><td>140’965</td><td>160’417</td><td>186’325</td><td>221’727</td><td>271’283</td><td></td></tr>
+<tr><td>10</td><td>64’378</td><td>69’688</td><td>75’474</td><td>81’775</td><td>88’644</td><td>96’312</td><td>105’076</td><td>115’322</td><td>127’545</td><td>142’788</td><td>162’492</td><td>188’735</td><td>224’594</td><td>274’791</td><td></td></tr>
+<tr><td>11</td><td>64’926</td><td>70’282</td><td>76’116</td><td>82’471</td><td>89’398</td><td>97’132</td><td>105’971</td><td>116’304</td><td>128’631</td><td>144’003</td><td>163’874</td><td>190’341</td><td>226’505</td><td>277’129</td><td></td></tr>
+<tr><td>12</td><td>65’474</td><td>70’875</td><td>76’759</td><td>83’167</td><td>90’153</td><td>97’952</td><td>106’865</td><td>117’285</td><td>129’716</td><td>145’218</td><td>165’257</td><td>191’947</td><td>228’417</td><td>279’468</td><td></td></tr>
+<tr><td>13</td><td>66’022</td><td>71’468</td><td>77’401</td><td>83’863</td><td>90’907</td><td>98’771</td><td>107’759</td><td>118’266</td><td>130’802</td><td>146’433</td><td>166’640</td><td>193’553</td><td>230’328</td><td>281’806</td><td></td></tr>
+<tr><td>14</td><td>66’570</td><td>72’061</td><td>78’043</td><td>84’559</td><td>91’662</td><td>99’591</td><td>108’653</td><td>119’248</td><td>131’887</td><td>147’648</td><td>168’023</td><td>195’160</td><td>232’240</td><td>284’145</td><td></td></tr>
+<tr><td>15</td><td>67’118</td><td>72’654</td><td>78’686</td><td>85’255</td><td>92’416</td><td>100’411</td><td>109’548</td><td>120’229</td><td>132’973</td><td>148’864</td><td>169’406</td><td>196’766</td><td>234’151</td><td>286’484</td><td></td></tr>
+</table>
+
+### Linea di valutazione «d.»
+
+<table>
+<tr><td>Anni di esperienza</td><td colspan="15">Livello di funzione</td></tr>
+<tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+<tr><td>0</td><td>50’681</td><td>54’861</td><td>59’416</td><td>64’376</td><td>69’784</td><td>75’820</td><td>82’720</td><td>90’785</td><td>100’408</td><td>112’407</td><td>127’919</td><td>148’578</td><td>176’808</td><td>216’324</td><td></td></tr>
+<tr><td>1</td><td>51’695</td><td>55’958</td><td>60’604</td><td>65’664</td><td>71’179</td><td>77’337</td><td>84’374</td><td>92’601</td><td>102’416</td><td>114’655</td><td>130’477</td><td>151’550</td><td>180’344</td><td>220’651</td><td></td></tr>
+<tr><td>2</td><td>52’708</td><td>57’056</td><td>61’792</td><td>66’951</td><td>72’575</td><td>78’853</td><td>86’028</td><td>94’417</td><td>104’424</td><td>116’904</td><td>133’036</td><td>154’521</td><td>183’880</td><td>224’977</td><td></td></tr>
+<tr><td>3</td><td>53’722</td><td>58’153</td><td>62’981</td><td>68’239</td><td>73’971</td><td>80’370</td><td>87’683</td><td>96’233</td><td>106’433</td><td>119’152</td><td>135’594</td><td>157’493</td><td>187’416</td><td>229’304</td><td>Gli stipendi di questo livello sono fissati dal Consiglio federale</td></tr>
+<tr><td>4</td><td>54’735</td><td>59’250</td><td>64’169</td><td>69’526</td><td>75’366</td><td>81’886</td><td>89’337</td><td>98’048</td><td>108’441</td><td>121’400</td><td>138’152</td><td>160’465</td><td>190’953</td><td>233’630</td><td></td></tr>
+<tr><td>5</td><td>55’749</td><td>60’347</td><td>65’357</td><td>70’814</td><td>76’762</td><td>83’402</td><td>90’992</td><td>99’864</td><td>110’449</td><td>123’648</td><td>140’711</td><td>163’436</td><td>194’489</td><td>237’957</td><td></td></tr>
+<tr><td>6</td><td>56’509</td><td>61’170</td><td>66’248</td><td>71’780</td><td>77’809</td><td>84’540</td><td>92’232</td><td>101’226</td><td>111’955</td><td>125’334</td><td>142’630</td><td>165’665</td><td>197’141</td><td>241’202</td><td></td></tr>
+<tr><td>7</td><td>57’269</td><td>61’993</td><td>67’140</td><td>72’745</td><td>78’855</td><td>85’677</td><td>93’473</td><td>102’588</td><td>113’461</td><td>127’020</td><td>144’548</td><td>167’893</td><td>199’793</td><td>244’447</td><td></td></tr>
+<tr><td>8</td><td>58’030</td><td>62’816</td><td>68’031</td><td>73’711</td><td>79’902</td><td>86’814</td><td>94’714</td><td>103’949</td><td>114’967</td><td>128’706</td><td>146’467</td><td>170’122</td><td>202’445</td><td>247’692</td><td></td></tr>
+<tr><td>9</td><td>58’790</td><td>63’639</td><td>68’922</td><td>74’676</td><td>80’949</td><td>87’952</td><td>95’955</td><td>105’311</td><td>116’473</td><td>130’392</td><td>148’386</td><td>172’351</td><td>205’097</td><td>250’936</td><td></td></tr>
+<tr><td>10</td><td>59’550</td><td>64’462</td><td>69’813</td><td>75’642</td><td>81’996</td><td>89’089</td><td>97’196</td><td>106’673</td><td>117’979</td><td>132’079</td><td>150’305</td><td>174’580</td><td>207’749</td><td>254’181</td><td></td></tr>
+<tr><td>11</td><td>60’057</td><td>65’010</td><td>70’407</td><td>76’286</td><td>82’694</td><td>89’847</td><td>98’023</td><td>107’581</td><td>118’984</td><td>133’203</td><td>151’584</td><td>176’065</td><td>209’517</td><td>256’344</td><td></td></tr>
+<tr><td>12</td><td>60’564</td><td>65’559</td><td>71’002</td><td>76’930</td><td>83’391</td><td>90’605</td><td>98’850</td><td>108’489</td><td>119’988</td><td>134’327</td><td>152’863</td><td>177’551</td><td>211’286</td><td>258’508</td><td></td></tr>
+<tr><td>13</td><td>61’071</td><td>66’108</td><td>71’596</td><td>77’573</td><td>84’089</td><td>91’364</td><td>99’677</td><td>109’396</td><td>120’992</td><td>135’451</td><td>154’142</td><td>179’037</td><td>213’054</td><td>260’671</td><td></td></tr>
+<tr><td>14</td><td>61’577</td><td>66’656</td><td>72’190</td><td>78’217</td><td>84’787</td><td>92’122</td><td>100’504</td><td>110’304</td><td>121’996</td><td>136’575</td><td>155’421</td><td>180’523</td><td>214’822</td><td>262’834</td><td></td></tr>
+<tr><td>15</td><td>62’084</td><td>67’205</td><td>72’784</td><td>78’861</td><td>85’485</td><td>92’880</td><td>101’332</td><td>111’212</td><td>123’000</td><td>137’699</td><td>156’701</td><td>182’008</td><td>216’590</td><td>264’997</td><td></td></tr>
+</table>
+
+### Linea di valutazione «e.»
+
+<table>
+<tr><td>Anni di esperienza</td><td colspan="15">Livello di funzione</td></tr>
+<tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+<tr><td>0</td><td>46’572</td><td>50’413</td><td>54’598</td><td>59’157</td><td>64’125</td><td>69’673</td><td>76’013</td><td>83’424</td><td>92’267</td><td>103’293</td><td>117’547</td><td>136’531</td><td>162’472</td><td>198’785</td><td></td></tr>
+<tr><td>1</td><td>47’503</td><td>51’421</td><td>55’690</td><td>60’340</td><td>65’408</td><td>71’066</td><td>77’533</td><td>85’093</td><td>94’112</td><td>105’359</td><td>119’898</td><td>139’262</td><td>165’722</td><td>202’760</td><td></td></tr>
+<tr><td>2</td><td>48’435</td><td>52’429</td><td>56’782</td><td>61’523</td><td>66’690</td><td>72’460</td><td>79’053</td><td>86’761</td><td>95’958</td><td>107’425</td><td>122’249</td><td>141’993</td><td>168’971</td><td>206’736</td><td></td></tr>
+<tr><td>3</td><td>49’366</td><td>53’438</td><td>57’874</td><td>62’706</td><td>67’973</td><td>73’853</td><td>80’573</td><td>88’430</td><td>97’803</td><td>109’491</td><td>124’600</td><td>144’723</td><td>172’221</td><td>210’712</td><td>Gli stipendi di questo livello sono fissati dal Consiglio federale</td></tr>
+<tr><td>4</td><td>50’297</td><td>54’446</td><td>58’966</td><td>63’889</td><td>69’255</td><td>75’247</td><td>82’094</td><td>90’098</td><td>99’648</td><td>111’557</td><td>126’951</td><td>147’454</td><td>175’470</td><td>214’687</td><td></td></tr>
+<tr><td>5</td><td>51’229</td><td>55’454</td><td>60’058</td><td>65’072</td><td>70’538</td><td>76’640</td><td>83’614</td><td>91’767</td><td>101’494</td><td>113’622</td><td>129’302</td><td>150’185</td><td>178’719</td><td>218’663</td><td></td></tr>
+<tr><td>6</td><td>51’927</td><td>56’210</td><td>60’877</td><td>65’960</td><td>71’500</td><td>77’685</td><td>84’754</td><td>93’018</td><td>102’878</td><td>115’172</td><td>131’065</td><td>152’233</td><td>181’157</td><td>221’645</td><td></td></tr>
+<tr><td>7</td><td>52’626</td><td>56’967</td><td>61’696</td><td>66’847</td><td>72’462</td><td>78’730</td><td>85’894</td><td>94’270</td><td>104’262</td><td>116’721</td><td>132’828</td><td>154’281</td><td>183’594</td><td>224’627</td><td></td></tr>
+<tr><td>8</td><td>53’325</td><td>57’723</td><td>62’515</td><td>67’734</td><td>73’424</td><td>79’775</td><td>87’035</td><td>95’521</td><td>105’646</td><td>118’271</td><td>134’591</td><td>156’328</td><td>186’031</td><td>227’608</td><td></td></tr>
+<tr><td>9</td><td>54’023</td><td>58’479</td><td>63’334</td><td>68’622</td><td>74’386</td><td>80’820</td><td>88’175</td><td>96’772</td><td>107’030</td><td>119’820</td><td>136’355</td><td>158’376</td><td>188’468</td><td>230’590</td><td></td></tr>
+<tr><td>10</td><td>54’722</td><td>59’235</td><td>64’153</td><td>69’509</td><td>75’347</td><td>81’866</td><td>89’315</td><td>98’024</td><td>108’414</td><td>121’369</td><td>138’118</td><td>160’424</td><td>190’905</td><td>233’572</td><td></td></tr>
+<tr><td>11</td><td>55’187</td><td>59’739</td><td>64’699</td><td>70’101</td><td>75’989</td><td>82’562</td><td>90’075</td><td>98’858</td><td>109’336</td><td>122’402</td><td>139’293</td><td>161’790</td><td>192’530</td><td>235’560</td><td></td></tr>
+<tr><td>12</td><td>55’653</td><td>60’243</td><td>65’245</td><td>70’692</td><td>76’630</td><td>83’259</td><td>90’835</td><td>99’692</td><td>110’259</td><td>123’435</td><td>140’469</td><td>163’155</td><td>194’154</td><td>237’548</td><td></td></tr>
+<tr><td>13</td><td>56’119</td><td>60’748</td><td>65’791</td><td>71’284</td><td>77’271</td><td>83’956</td><td>91’595</td><td>100’526</td><td>111’182</td><td>124’468</td><td>141’644</td><td>164’520</td><td>195’779</td><td>239’535</td><td></td></tr>
+<tr><td>14</td><td>56’585</td><td>61’252</td><td>66’337</td><td>71’875</td><td>77’912</td><td>84’652</td><td>92’355</td><td>101’361</td><td>112’104</td><td>125’501</td><td>142’820</td><td>165’886</td><td>197’404</td><td>241’523</td><td></td></tr>
+<tr><td>15</td><td>57’050</td><td>61’756</td><td>66’883</td><td>72’467</td><td>78’554</td><td>85’349</td><td>93’116</td><td>102’195</td><td>113’027</td><td>126’534</td><td>143’995</td><td>167’251</td><td>199’028</td><td>243’511</td><td></td></tr>
+</table>
+
+Allegato 3*[^t-4]*
+
+(art. 24 cpv. 3)
+
+## Retribuzioni forfettarie del settore dei PF
+
+[^t-4]: Introdotto dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvato dal CF il 23 set. 2005 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+(Stipendi minimi per i collaboratori con retribuzione forfettaria secondo l’articolo 24 capoverso 3)
+
+Sono considerati stipendi minimi i seguenti importi annui lordi:
+
+<table>
+<tr><td>1. Dottorandi (tenendo conto del tempo concesso per redigere la tesi di dottorato, indipendentemente dal tasso di occupazione; se lo stipendio è finanziato da diverse fonti l’importo complessivo deve raggiungere lo stipendio minimo)</td><td>[tab] 47 040 fr.</td></tr>
+<tr><td>2. Postdottorandi (impiegati al 100%)</td><td>80 000 fr.</td></tr>
+<tr><td>3. Altri collaboratori (impiegati al 100%)[^annex3-lvlu1-1] [tab] a) senza dottorato [tab] b) con dottorato</td><td>[tab] [tab] 40 000 fr. [tab] 68 630 fr.</td></tr>
+</table>
+
+[^annex3-lvlu1-1]: La categoria «Altri collaboratori» comprende: collaboratori laureati che non intendono conseguire il dottorato; collaboratori in possesso di un dottorato che non adempiono i requisiti della categoria «Postdottorandi» per quanto concerne la durata dell’impiego e il periodo di permanenza, nonché i collaboratori tecnici e il personale ausiliario
+
+Allegato 4*[^t-5]*
+
+[^t-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Abrogato dal n. II cpv. 2 dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, con effetto dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+
+Allegato 5*[^t-6]*
+
+(art. 42*a*)
+
+## Partecipazione del datore di lavoro al finanziamento della rendita transitoria
+
+[^t-6]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+
+<table>
+<tr><td>Età di pensionamento</td><td>Piano standard (livello di funzione)</td><td></td><td></td><td>Piano per quadri 1 (livello di funzione)</td><td>Piano per quadri 2 (livello di funzione)</td></tr>
+<tr><td></td><td>1–3</td><td>4–6</td><td>7–9</td><td>10–12</td><td>13–15</td></tr>
+<tr><td>60</td><td>80 %</td><td>55 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>61</td><td>85 %</td><td>60 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>62</td><td>90 %</td><td>70 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>63</td><td>95 %</td><td>75 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>64</td><td>100 %</td><td>80 %</td><td>60 %</td><td>50 %</td><td>50 %</td></tr>
+</table>

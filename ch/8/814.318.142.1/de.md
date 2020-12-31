@@ -1,0 +1,3270 @@
+---
+sr: "814.318.142.1"
+title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
+short: LRV
+eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
+language: de
+version: 2020-04-01
+adopted: 1985-12-16
+in_force: 1986-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20200401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Luftreinhalte-Verordnung
+
+(LRV)
+
+vom 16. Dezember 1985 (Stand am 1. April 2020)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 12, 13, 16 und 39 des Bundesgesetzes vom 7. Oktober 1983[^ingress-1] über den Umweltschutz (Gesetz),
+
+verordnet:
+
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck und Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung soll Menschen, Tiere, Pflanzen, ihre Lebensgemeinschaften und Lebensräume sowie den Boden vor schädlichen oder lästigen Luftverunreinigungen schützen.
+
+<sup>2</sup>
+
+Sie regelt:
+
+- a. die vorsorgliche Emissionsbegrenzung bei Anlagen nach Artikel 7 des Gesetzes, welche die Luft verunreinigen;
+- a<sup>bis</sup>.[^1-1] die Abfallverbrennung im Freien;
+- b. die Anforderungen an Brenn- und Treibstoffe;
+- c. die höchstzulässige Belastung der Luft (Immissionsgrenzwerte);
+- d. das Vorgehen für den Fall, dass die Immissionen übermässig sind.
+
+[^1-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+
+#### Art. 2
+
+**Begriffe**
+
+<sup>1</sup>
+
+Als stationäre Anlagen gelten:
+
+- a. Bauten und andere ortsfeste Einrichtungen;
+- b. Terrainveränderungen;
+- c. Geräte und Maschinen;
+- d. Lüftungsanlagen, welche die Abgase von Fahrzeugen sammeln und als Abluft an die Umwelt abgeben.
+
+<sup>2</sup> Als Fahrzeuge gelten Motorfahrzeuge, Luftfahrzeuge, Schiffe und Eisenbahnen.
+
+<sup>3</sup> Als Verkehrsanlagen gelten Strassen, Flugplätze, Geleise und andere Anlagen, bei denen die Abgase von Fahrzeugen nicht gesammelt als Abluft an die Umwelt abgegeben werden.
+
+<sup>4</sup>
+
+Als neue Anlagen gelten auch Anlagen, die umgebaut, erweitert oder instand gestellt werden, wenn:
+
+- a. dadurch höhere oder andere Emissionen zu erwarten sind; oder
+- b. mehr als die Hälfte der Kosten aufgewendet wird, die eine neue Anlage verursachen würde.
+
+<sup>5</sup>
+
+Übermässig sind Immissionen, die einen oder mehrere Immissionsgrenzwerte nach Anhang 7 überschreiten. Bestehen für einen Schadstoff keine Immissionsgrenzwerte, so gelten die Immissionen als übermässig, wenn:
+
+- a. sie Menschen, Tiere, Pflanzen, ihre Lebensgemeinschaften oder ihre Lebensräume gefährden;
+- b. aufgrund einer Erhebung feststeht, dass sie einen wesentlichen Teil der Bevölkerung in ihrem Wohlbefinden erheblich stören;
+- c. sie Bauwerke beschädigen; oder
+- d. sie die Fruchtbarkeit des Bodens, die Vegetation oder die Gewässer beeinträchtigen.
+
+<sup>6</sup> Als Inverkehrbringen gilt die erstmalige entgeltliche oder unentgeltliche Übertragung oder Überlassung eines Gerätes oder einer Maschine zum Vertrieb oder Gebrauch in der Schweiz. Dem Inverkehrbringen gleichgestellt ist die erstmalige Inbetriebnahme von Geräten und Maschinen im eigenen Betrieb, wenn zuvor kein Inverkehrbringen stattgefunden hat.[^2-1]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+## 2. Kapitel: Emissionen
+
+### 1. Abschnitt: Emissionsbegrenzung bei neuen stationären Anlagen
+
+#### Art. 3
+
+**Vorsorgliche Emissionsbegrenzung nach den Anhängen 1–4**
+
+<sup>1</sup> Neue stationäre Anlagen müssen so ausgerüstet und betrieben werden, dass sie die im Anhang 1 festgelegten Emissionsbegrenzungen einhalten.
+
+<sup>2</sup>
+
+Für folgende Anlagen gelten ergänzende oder abweichende Anforderungen:
+
+- a. für Anlagen nach Anhang 2: die in diesem Anhang festgelegten Anforderungen;
+- b. für Feuerungsanlagen: die Anforderungen nach Anhang 3;
+- c.[^3-1] für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a*, für Feuerungsanlagen nach den Artikeln 20 und 20*d* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*: die Anforderungen nach Anhang 4.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 4
+
+**Vorsorgliche Emissionsbegrenzung durch die Behörde**
+
+<sup>1</sup> Emissionen, für die diese Verordnung keine Emissionsbegrenzung festlegt oder eine bestimmte Begrenzung als nicht anwendbar erklärt, sind von der Behörde vorsorglich so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.
+
+<sup>2</sup>
+
+Technisch und betrieblich möglich sind Massnahmen zur Emissionsbegrenzung, die:
+
+- a. bei vergleichbaren Anlagen im In- oder Ausland erfolgreich erprobt sind; oder
+- b. bei Versuchen erfolgreich eingesetzt wurden und nach den Regeln der Technik auf andere Anlagen übertragen werden können.
+
+<sup>3</sup> Für die Beurteilung der wirtschaftlichen Tragbarkeit von Emissionsbegrenzungen ist auf einen mittleren und wirtschaftlich gesunden Betrieb der betreffenden Branche abzustellen. Gibt es in einer Branche sehr unterschiedliche Klassen von Betriebsgrössen, so ist von einem mittleren Betrieb der entsprechenden Klasse auszugehen.
+
+#### Art. 5
+
+**Verschärfte Emissionsbegrenzungen durch die Behörde**
+
+<sup>1</sup> Ist zu erwarten, dass eine einzelne geplante Anlage übermässige Immissionen verursachen wird, obwohl die vorsorglichen Emissionsbegrenzungen eingehalten sind, so verfügt die Behörde für diese Anlage ergänzende oder verschärfte Emissionsbegrenzungen.
+
+<sup>2</sup> Die Emissionsbegrenzungen sind so weit zu ergänzen oder zu verschärfen, dass keine übermässigen Immissionen verursacht werden.
+
+#### Art. 6
+
+**Erfassung und Ableitung von Emissionen[^6-1]**
+
+<sup>1</sup> Emissionen sind möglichst nahe am Ort ihrer Entstehung möglichst vollständig zu erfassen und so abzuleiten, dass keine übermässigen Immissionen entstehen.[^6-2]
+
+<sup>2</sup> Sie müssen in der Regel durch Kamine oder Abluftkanäle über Dach ausgestossen werden.
+
+<sup>3</sup> Für Hochkamine gilt Anhang 6. Kann die erforderliche Kaminbauhöhe H nicht verwirklicht werden oder beträgt die Rechengrösse H<sub>0</sub> mehr als 100 m, so verschärft die Behörde ersatzweise die in den Anhängen 1–3 vorgesehenen Emissionsbegrenzungen.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+
+### 2. Abschnitt: Emissionsbegrenzung bei bestehenden stationären Anlagen
+
+#### Art. 7
+
+**Vorsorgliche Emissionsbegrenzung**
+
+Die Bestimmungen über die vorsorgliche Emissionsbegrenzung bei neuen stationären Anlagen (Art. 3, 4 und 6) gelten auch für bestehende stationäre Anlagen.
+
+#### Art. 8
+
+**Sanierungspflicht**
+
+<sup>1</sup> Die Behörde sorgt dafür, dass bestehende stationäre Anlagen, die den Anforderungen dieser Verordnung nicht entsprechen, saniert werden.
+
+<sup>2</sup> Sie erlässt die erforderlichen Verfügungen und legt darin die Sanierungsfrist nach Artikel 10 fest. Notfalls verfügt sie für die Dauer der Sanierung Betriebseinschränkungen oder die Stilllegung der Anlage.[^8-1]
+
+<sup>3</sup> Auf die Sanierung kann verzichtet werden, wenn sich der Inhaber verpflichtet, die Anlage innert der Sanierungsfrist stillzulegen.
+
+[^8-1]: Zweiter Satz eingefügt durch Ziff. I der V vom 20. Nov. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+
+#### Art. 9
+
+**Verschärfte Emissionsbegrenzungen**
+
+<sup>1</sup> Steht fest, dass eine einzelne bestehende Anlage übermässige Immissionen verursacht, obwohl sie die vorsorglichen Emissionsbegrenzungen einhält, so verfügt die Behörde für diese Anlage ergänzende oder verschärfte Emissionsbegrenzungen.
+
+<sup>2</sup> Die Emissionsbegrenzungen sind so weit zu ergänzen oder zu verschärfen, dass keine übermässigen Immissionen mehr verursacht werden.
+
+<sup>3</sup> Die ergänzenden oder verschärften Emissionsbegrenzungen werden durch Sanierungsverfügungen mit den Fristen nach Artikel 10 Absatz 2 angeordnet. Notfalls verfügt die Behörde für die Dauer der Sanierung Betriebseinschränkungen oder die Stilllegung der Anlage.
+
+<sup>4</sup> Werden die übermässigen Immissionen durch mehrere Anlagen verursacht, so richtet sich das Verfahren nach den Artikeln 31–34.
+
+#### Art. 10
+
+**Sanierungsfristen**[^10-1]
+
+<sup>1</sup> Die ordentliche Sanierungsfrist beträgt fünf Jahre.
+
+<sup>2</sup>
+
+Kürzere Fristen, mindestens aber 30 Tage, werden festgelegt, wenn:
+
+- a. die Sanierung ohne erhebliche Investitionen durchgeführt werden kann;
+- b. die Emissionen mehr als das Dreifache des Wertes betragen, der für die vorsorgliche Emissionsbegrenzung gilt; oder
+- c. die von der Anlage allein verursachten Immissionen übermässig sind.
+
+<sup>3</sup>
+
+Längere Fristen bis zu höchstens zehn Jahren werden festgelegt, wenn:
+
+- a. die Emissionen weniger als das Anderthalbfache des Wertes betragen, der für die vorsorgliche Emissionsbegrenzung gilt, oder die Vorschriften über die Abgasverluste nicht eingehalten werden; und
+- b. weder Buchstabe a noch Buchstabe c von Absatz 2 erfüllt ist.
+
+<sup>4</sup> Vorbehalten bleibt die Anordnung verkürzter Sanierungsfristen nach Artikel 32.
+
+[^10-1]: Siehe auch die SchlB Änd. 23. Juni 2004 und 11. April 2018 hiernach.
+
+#### Art. 11
+
+**Erleichterungen**
+
+<sup>1</sup> Die Behörde gewährt dem Inhaber einer Anlage auf Gesuch hin Erleichterungen, wenn eine Sanierung nach den Artikeln 8 und 10 unverhältnismässig, insbesondere technisch oder betrieblich, nicht möglich oder wirtschaftlich nicht tragbar wäre.
+
+<sup>2</sup> Als Erleichterung kann die Behörde in erster Linie längere Fristen einräumen. Genügt die Einräumung längerer Fristen nicht, so legt die Behörde mildere Emissionsbegrenzungen fest.
+
+### 3. Abschnitt: Kontrolle von stationären Anlagen
+
+#### Art. 12
+
+**Emissionserklärung**
+
+<sup>1</sup>
+
+Wer eine Anlage betreibt oder errichten will, die Luftverunreinigungen verursacht, muss der Behörde Auskunft erteilen über:
+
+- a. die Art und Menge der Emissionen;
+- b. den Ort, die Höhe und den zeitlichen Verlauf des Ausstosses;
+- c. weitere Bedingungen des Ausstosses, die für die Beurteilung der Emissionen nötig sind.
+
+<sup>2</sup> Die Emissionserklärung kann sich auf Messungen oder Materialbilanzen der eingesetzten Stoffe stützen.
+
+#### Art. 13
+
+**Emissionsmessungen und -kontrollen**
+
+<sup>1</sup> Die Behörde überwacht die Einhaltung der Emissionsbegrenzungen. Sie führt selber Emissionsmessungen oder -kontrollen durch oder lässt solche durchführen.
+
+<sup>2</sup> Die erste Messung (Abnahmemessung) oder Kontrolle muss wenn möglich innert drei, spätestens jedoch innert zwölf Monaten nach der Inbetriebnahme der neuen oder sanierten Anlage erfolgen. Vorbehalten bleiben abweichende Bestimmungen in Anhang 3.[^13-1]
+
+<sup>3</sup>
+
+In der Regel ist die Messung oder Kontrolle unter Vorbehalt abweichender Bestimmungen in den Anhängen 2, 3 und 4 wie folgt zu wiederholen:
+
+- a. bei Heizkesseln für Holzbrennstoffe nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 mit einer Feuerungswärmeleistung bis 70 kW und bei Gasfeuerungen mit einer Feuerungswärmeleistung bis 1 MW alle vier Jahre;
+- b. bei den übrigen Feuerungsanlagen alle zwei Jahre;
+- c.[^13-2] bei den übrigen Anlagen alle drei Jahre.[^13-3]
+
+<sup>4</sup> Bei Anlagen, aus denen erhebliche Emissionen austreten können, ordnet die Behörde die kontinuierliche Messung und Aufzeichnung der Emissionen oder einer anderen Betriebsgrösse an, welche die Kontrolle der Emissionen ermöglicht.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^13-2]: Die Berichtigung vom 16. April 2019 betrifft nur den italienischen Text ([AS 2019 1225](https://fedlex.data.admin.ch/eli/oc/2019/232)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 13a
+
+**Nachweis der anerkannten Regeln der Messtechnik**[^13a-1]
+
+<sup>1</sup> Lässt eine Behörde Emissionsmessungen und Kontrollen nach Artikel 13 durch Dritte durchführen, so muss sie periodisch prüfen, ob diese die anerkannten Regeln der Messtechnik ausreichend kennen.
+
+<sup>2</sup> Die Behörde kann von der periodischen Prüfung nach Absatz 1 absehen, wenn der Dritte nur Messungen und Kontrollen durchführt, für die vereinfachte Messverfahren vorgesehen sind.
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 14
+
+**Durchführung der Messungen**
+
+<sup>1</sup> Die Messungen müssen die für die Beurteilung wichtigen Betriebszustände erfassen. Wenn nötig legt die Behörde Art und Umfang der Messung sowie die zu erfassenden Betriebszustände fest.
+
+<sup>2</sup> Emissionsmessungen sind nach den anerkannten Regeln der Messtechnik durchzuführen. Das Bundesamt für Umwelt (BAFU) erlässt Empfehlungen über die Durchführung der Messungen. Für die technischen Anforderungen an die Messsysteme und an die Messbeständigkeit gelten die Messmittelverordnung vom 15. Februar 2006[^14-1] und die Ausführungsbestimmungen des Eidgenössischen Justiz- und Polizeidepartements.[^14-2]
+
+<sup>3</sup> Der Inhaber der zu überprüfenden Anlage muss nach Anweisung der Behörde geeignete Messplätze einrichten und zugänglich machen.
+
+<sup>4</sup> Die gemessenen und errechneten Werte, die verwendeten Messverfahren und die Betriebsbedingungen der Anlage während der Messungen müssen in einem Messbericht festgehalten werden.
+
+[^14-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^14-2]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 15
+
+**Beurteilung der Emissionen**
+
+<sup>1</sup> Die gemessenen Werte sind auf die in Anhang 1 Ziffer 23 festgelegten Bezugsgrössen umzurechnen.
+
+<sup>2</sup> Soweit die Anhänge 1–4 nichts anderes bestimmen, sind die nach Absatz 1 errechneten Werte für die Beurteilung über den Zeitraum einer Stunde zu mitteln. Die Behörde kann in begründeten Fällen andere geeignete Mittelungszeiten festlegen.
+
+<sup>3</sup> Bei Abnahme- und Kontrollmessungen gelten die Emissionsbegrenzungen als eingehalten, wenn keiner der nach Absatz 2 bestimmten Mittelwerte den Grenzwert überschreitet.
+
+<sup>4</sup>
+
+Bei kontinuierlicher Messung der Emissionen gelten die Emissionsgrenzwerte als eingehalten, wenn innerhalb des Kalenderjahres:
+
+- a. keiner der Tagesmittelwerte den Emissionsgrenzwert überschreitet;
+- b. 97 Prozent aller Stundenmittelwerte das 1,2-fache des Grenzwertes nicht überschreiten; und
+- c. keiner der Stundenmittelwerte das Zweifache des Grenzwertes überschreitet.
+
+<sup>5</sup> Die Emissionen während der An- und Abfahrzeiten der Anlage werden von der Behörde unter Berücksichtigung der besonderen Umstände beurteilt.
+
+#### Art. 16
+
+**Umgehungsleitungen und Betriebsstörungen**
+
+<sup>1</sup> Eine Umgehungsleitung zum Schutze von Abgasreinigungsanlagen darf nur mit Zustimmung der Behörde verwendet werden.
+
+<sup>2</sup> Können durch die Verwendung von Umgehungsleitungen oder bei Betriebsstörungen erhebliche Emissionen auftreten, so legt die Behörde fest, welche Massnahmen zu treffen sind.
+
+### 4. Abschnitt: Emissionen von Fahrzeugen und Verkehrsanlagen
+
+#### Art. 17
+
+**Vorsorgliche Emissionsbegrenzung bei Fahrzeugen**
+
+Die Emissionen von Fahrzeugen sind nach den Gesetzgebungen über den Strassenverkehr, die Luftfahrt, die Schifffahrt und die Eisenbahnen vorsorglich so weit zu begrenzen, als dies technisch und betrieblich möglich sowie wirtschaftlich tragbar ist.
+
+#### Art. 18
+
+**Vorsorgliche Emissionsbegrenzung bei Verkehrsanlagen**
+
+Bei Verkehrsanlagen ordnet die Behörde alle technisch und betrieblich möglichen und wirtschaftlich tragbaren Massnahmen an, mit denen die vom Verkehr verursachten Emissionen begrenzt werden können.
+
+#### Art. 19
+
+**Massnahmen gegen übermässige Immissionen aus dem Verkehr**
+
+Steht fest oder ist zu erwarten, dass Fahrzeuge oder Verkehrsanlagen übermässige Immissionen verursachen, so richtet sich das Verfahren nach den Artikeln 31–34.
+
+### 4*a*. Abschnitt:**** Anforderungen an Baumaschinen und deren Partikelfiltersysteme
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Eingefügt durch Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)).
+
+#### Art. 19a
+
+**Anforderungen**
+
+<sup>1</sup> Maschinen und Geräte für den Einsatz auf Baustellen mit einer Leistung des Verbrennungsmotors mit Kompressionszündung von mehr als 18 kW (Baumaschinen) müssen die Anforderungen nach Anhang 4 Ziffer 3 einhalten.
+
+<sup>2</sup> Neue Baumaschinen dürfen nur in Verkehr gebracht werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 Ziffer 3 nachgewiesen ist.
+
+<sup>3</sup> Baumaschinen dürfen nur mit einem Partikelfiltersystem betrieben werden, dessen Konformität mit den Anforderungen nach Anhang 4 Ziffern 32 und 33 nachgewiesen ist.
+
+<sup>4</sup> Werden Baumaschinen für Test- oder Vorführungszwecke betrieben, so kann die Behörde auf Gesuch hin Ausnahmen von den Anforderungen nach Anhang 4 Ziffer 3 gewähren. Die Ausnahmen werden für höchstens 10 Tage gewährt.[^19a-1]
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+#### Art. 19b
+
+**Nachweis der Konformität**
+
+<sup>1</sup>
+
+Der Nachweis der Konformität umfasst:
+
+- a. eine Bescheinigung einer Konformitätsbewertungsstelle nach Artikel 18 des Bundesgesetzes vom 6. Oktober 1995[^19b-1] über die technischen Handelshemmnisse (THG), dass der Typ der Baumaschine oder des Partikelfiltersystems die Anforderungen von Anhang 4 Ziffer 3 erfüllt (Konformitätsbescheinigung);
+- b.
+
+  eine Erklärung des Herstellers oder Importeurs, dass die in Verkehr zu bringenden Baumaschinen oder Partikelfiltersysteme den geprüften Typen entsprechen (Konformitätserklärung), mit folgenden Angaben:
+
+  - 1\. Name und Adresse des Herstellers oder Importeurs,
+  - 2\. Bezeichnung des Typs der Baumaschine, des Motors und des Partikelminderungssystems,
+  - 3\. Baujahr und Seriennummern der Baumaschine, des Motors und des Partikelfiltersystems,
+  - 4\. Name und Adresse der Konformitätsbewertungsstelle und Nummer der Konformitätsbescheinigung,
+  - 5\. Name und Funktion der Person, welche die Konformitätserklärung für den Hersteller oder Importeur unterzeichnet,
+  - 6\. die genaue Lage der Kennzeichnung auf der Baumaschine; und
+
+- c. die Kennzeichnung nach Anhang 4 Ziffer 33.
+
+<sup>1bis</sup> Für Baumaschinen, welche die Anforderungen von Anhang II der Verordnung (EU) Nr. 2016/1628[^19b-2] erfüllen, umfasst der Nachweis der Konformität eine Typgenehmigung durch einen Mitgliedsstaat der Europäischen Union für den Motortyp oder die Motorenfamilie gemäss der Verordnung (EU) Nr. 2016/1628.[^19b-3]
+
+<sup>2</sup> Die Konformitätsbewertungsstellen stellen dem BAFU die Konformitätsbescheinigungen mit den entsprechenden Prüfberichten zu. Das BAFU veröffentlicht Listen der konformen Partikelfiltersystem- und Motoren-Typen.[^19b-4]
+
+<sup>3</sup> Der Hersteller oder Importeur muss die Konformitätserklärung nach dem Inverkehrbringen der Baumaschine oder des Partikelfiltersystems zehn Jahre lang aufbewahren.
+
+[^19b-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^19b-2]: Verordnung (EU) Nr. 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, Fassung gemäss ABl. L 252 vom 16.09.2016, S. 53; ergänzt durch: Delegierte Verordnung (EU) 2017/654 der Kommission vom 19. Dezember 2016, ABl. L 102 vom 13.04.2017, S. 1; Delegierte Verordnung (EU) 2017/655 der Kommission vom 19. Dezember 2016, ABl. L 102 vom 13.04.2017, S. 334; Durchführungsverordnung (EU) 2017/656 der Kommission vom 19. Dezember 2016, ABl. L 102 vom 13.04.2017, S. 364.
+[^19b-3]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^19b-4]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+### 5. Abschnitt:**** Inverkehrbringen von Feuerungsanlagen
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+
+#### Art. 20
+
+**Voraussetzungen für das Inverkehrbringen**[^20-1]
+
+<sup>1</sup>
+
+Die folgenden Feuerungsanlagen dürfen nur in Verkehr gebracht werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 nachgewiesen ist (Art. 20*a*):
+
+- a. Gebläsebrenner für Heizöl «Extra leicht» oder Gas mit einer Feuerungswärmeleistung bis 350 kW;
+- b. Heizkessel für Gebläsebrenner nach Buchstabe a, sofern als Wärmeträger Wasser verwendet wird und die Absicherungstemperatur wasserseitig höchstens 110 °C beträgt;
+- c. Heizkessel nach Buchstabe b mit fest zugeordneten Gebläsebrennern (Unit);
+- d.[^20-2] Heizkessel für gasförmige Brennstoffe mit einer Feuerungswärmeleistung bis 350 kW, sofern als Wärmeträger Wasser verwendet wird und die Absicherungstemperatur wasserseitig höchstens 110 °C beträgt;
+- e.[^20-3] …
+- f. direkt befeuerte Gas-Speicherwassererwärmer (Boiler) mit einem Wasserinhalt von mehr als 30 Litern und einer Feuerungswärmeleistung bis 350 kW;
+- g. Gas-Durchflusswassererwärmer mit einer Feuerungswärmeleistung von 35 kW bis 350 kW;
+- h.[^20-4] Heizkessel für feste Brennstoffe nach Anhang 5 mit einer Feuerungswärmeleistung bis 350 kW und Pelletbrenner für kleine Heizkessel mit einer Feuerungswärmeleistung bis 70 kW.
+
+<sup>2</sup> …[^20-5]
+
+<sup>3</sup> Die Kantone können die praktische Erprobung von Anlagen ohne Konformitätserklärung in begrenzter Anzahl während einer Dauer von höchstens zwei Jahren zulassen. Anlagen, die nach Ablauf dieser Frist in der vorliegenden Form noch keine Konformitätserklärung haben, müssen wieder ausser Betrieb genommen werden.
+
+[^20-1]: Siehe auch die SchlB Änd. 23.6.2004 hiernach.
+[^20-2]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-3]: Aufgehoben durch Ziff. I der V vom 11. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-4]: Eingefügt durch Ziff. I der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)). Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-5]: Aufgehoben durch Ziff. I der V vom 18. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+#### Art. 20a
+
+**Nachweis der Konformität**
+
+<sup>1</sup>
+
+Der Nachweis der Konformität einer Feuerungsanlage umfasst:
+
+- a.[^20a-1] einen Prüfbericht einer Stelle nach Artikel 18 THG[^20a-2], aus dem hervorgeht, dass das Baumuster die Anforderungen von Anhang 4 erfüllt;
+- b.
+
+  eine Erklärung des Herstellers oder Importeurs, dass die in Verkehr zu bringende Feuerungsanlage dem geprüften Baumuster entspricht (Konformitätserklärung), mit folgenden Angaben:
+
+  - 1\. Name und Adresse des Herstellers oder Importeurs,
+  - 2\. Beschreibung der Feuerungsanlage,
+  - 3\. die Bestimmungen nach Anhang 4, die zur Anwendung kamen,
+  - 4\. Name und Adresse der Konformitätsbewertungsstelle und Nummer der Konformitätsbescheinigung,
+  - 5\. Name und Funktion der Person, welche die Konformitätserklärung für den Hersteller oder Importeur unterzeichnet;
+
+- c.[^20a-3] eine Kennzeichnung nach Anhang 4 Ziffer 23.
+
+<sup>1bis</sup> Für Geräte nach Anhang 1.15 oder 1.16 der Energieeffizienzverordnung vom 1. November 2017[^20a-4] kann der Nachweis der Konformität auch gemäss den Vorgaben in Artikel 5 Absatz 2 und Artikel 7 Absatz 2 dieser Verordnung erbracht werden.[^20a-5]
+
+<sup>2</sup> Der Hersteller oder Importeur muss die Konformitätserklärung nach dem Inverkehrbringen der Anlage zehn Jahre lang aufbewahren.
+
+[^20a-1]: Fassung gemäss Ziff. III 1 der V vom 22. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)).
+[^20a-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^20a-3]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)).
+[^20a-4]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^20a-5]: Eingefügt durch Ziff. III 1 der V vom 22. Juni 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)). Fassung gemäss Anhang 5 Ziff. 3 der Energieeffizienzverordnung vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)).
+
+### 5*a*. Abschnitt:**** Anforderungen an Maschinen und Geräte mit Verbrennungsmotor
+
+[^chap2-sec5a-1]
+
+[^chap2-sec5a-1]: Eingefügt durch Ziff. I der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)). Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 20b
+
+**Anforderungen**
+
+<sup>1</sup> Nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte mit Verbrennungsmotor (Maschinen und Geräte mit Verbrennungsmotor) müssen die Anforderungen nach Anhang 4 Ziffer 4 einhalten.
+
+<sup>2</sup> Neue Maschinen und Geräte mit Verbrennungsmotor dürfen nur in Verkehr gebracht werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 Ziffer 4 nachgewiesen ist (Art. 20*c*).
+
+#### Art. 20c
+
+**Nachweis der Konformität**
+
+<sup>1</sup>
+
+Der Nachweis der Konformität umfasst:
+
+- a. eine Typgenehmigung durch einen Mitgliedsstaat der Europäischen Union für einen Motortyp oder eine Motorenfamilie gemäss der Verordnung (EU) Nr. 2016/1628[^20c-1]; und
+- b. die Kennzeichnung des Motors nach Artikel 32 der Verordnung (EU) Nr. 2016/1628.
+
+<sup>2</sup> Der Nachweis der Konformität kann auch mit einer Bescheinigung einer Konformitätsbewertungsstelle nach Artikel 18 THG[^20c-2], dass der Typ der Maschine oder des Geräts mit Verbrennungsmotor die Anforderungen von Anhang 4 Ziffer 4 erfüllt (Konformitätsbescheinigung), erbracht werden. Dabei muss der Motor mit der Handelsmarke oder dem Handelsnamen des Herstellers des Motors und dem Namen der Konformitätsbewertungsstelle gekennzeichnet sein.
+
+[^20c-1]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
+[^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+### 5*b*. Abschnitt:**** Inbetriebnahme von Feuerungsanlagen
+
+[^chap2-sec5b-1]
+
+[^chap2-sec5b-1]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 20d
+
+**Voraussetzungen für die Inbetriebnahme**
+
+Serienmässig hergestellte Einzelraumfeuerungen für feste Brennstoffe nach Anhang 5 mit einer Nennwärmeleistung bis 50 kW, namentlich Raumheizer, Herde, Speicheröfen und Kamineinsätze einschliesslich offene Kamine, dürfen nur in Betrieb genommen werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 Ziffer 212 nachgewiesen ist (Art. 20*e*).
+
+#### Art. 20e
+
+**Nachweis der Konformität**
+
+Der Nachweis der Konformität einer serienmässig hergestellten Einzelraumfeuerung nach Artikel 20*d* umfasst eine Leistungserklärung oder eine gleichwertige Erklärung des Herstellers oder Importeurs, aus der hervorgeht, dass das Baumuster die Anforderungen von Anhang 4 Ziffer 212 erfüllt.
+
+### 6. Abschnitt: Brennstoffe
+
+#### Art. 21
+
+**Anforderungen**
+
+Für Brennstoffe gelten die Anforderungen nach Anhang 5.
+
+#### Art. 22
+
+**Deklaration**
+
+Wer gewerbsmässig Brennstoffe einführt oder anbietet, muss dem Abnehmer oder Verbraucher die Qualität des Brennstoffes deklarieren. Bei der Einfuhr muss er die Qualität zudem der Zollbehörde deklarieren.
+
+#### Art. 23
+
+[^23-1]
+
+[^23-1]: Aufgehoben durch Ziff. I der V vom 4. Juli 2007, mit Wirkung seit 1. Sept. 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+
+### 7. Abschnitt: Treibstoffe
+
+#### Art. 24
+
+**Anforderungen**
+
+Für Treibstoffe gelten die Anforderungen nach Anhang 5.
+
+#### Art. 25
+
+**Deklaration**
+
+Wer gewerbsmässig Treibstoffe einführt oder anbietet, muss dem Abnehmer oder Verbraucher die Qualität des Treibstoffes deklarieren. Bei der Einfuhr muss er die Qualität zudem der Zollbehörde deklarieren.
+
+#### Art. 26
+
+**Anlagen für unverbleites Motorenbenzin**
+
+<sup>1</sup> Anlagen für unverbleites Motorenbenzin, wie Lager- und Transportbehälter, Tankfahrzeuge und Zapfsäulen, müssen mit der Aufschrift «Bleifrei» deutlich gekennzeichnet sein.
+
+<sup>2</sup> Soll für unverbleites Benzin eine Anlage verwendet werden, die vorher Bleibenzin enthielt, so muss der Inhaber die Anlage vorher gründlich reinigen oder durch andere Massnahmen dafür sorgen, dass sie keine übermässigen Bleirückstände enthält.
+
+### 8. Abschnitt:**** Verbrennen von Abfällen
+
+[^chap2-sec8-1]
+
+[^chap2-sec8-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+
+#### Art. 26a
+
+**Verbrennen in Anlagen**[^26a-1]
+
+Abfälle dürfen nur in Anlagen nach Anhang 2 Ziffer 7 verbrannt oder thermisch zersetzt werden; ausgenommen ist die Verbrennung von Abfällen nach Anhang 2 Ziffer 11.
+
+[^26a-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+
+#### Art. 26b
+
+**Verbrennen ausserhalb von Anlagen**[^26b-1]
+
+<sup>1</sup> Natürliche Wald-, Feld- und Gartenabfälle dürfen ausserhalb von Anlagen verbrannt werden, wenn sie so trocken sind, dass dabei nur wenig Rauch entsteht.
+
+<sup>2</sup> Die Behörde kann im Einzelfall das Verbrennen von nicht ausreichend trockenen Wald-, Feld- und Gartenabfällen bewilligen, wenn ein überwiegendes Interesse besteht und keine übermässigen Immissionen entstehen.
+
+<sup>3</sup> Sie kann das Verbrennen von Wald-, Feld- und Gartenabfällen ausserhalb von Anlagen für bestimmte Gebiete oder Zeiten einschränken oder verbieten, wenn übermässige Immissionen zu erwarten sind.
+
+[^26b-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+
+## 3. Kapitel: Immissionen
+
+### 1. Abschnitt: Ermittlung und Beurteilung
+
+#### Art. 27
+
+**Ermittlung der Immissionen**
+
+<sup>1</sup> Die Kantone überwachen den Stand und die Entwicklung der Luftverunreinigung auf ihrem Gebiet; sie ermitteln insbesondere das Ausmass der Immissionen.
+
+<sup>2</sup> Sie führen dazu Erhebungen, Messungen und Ausbreitungsrechnungen durch. Das BAFU empfiehlt ihnen geeignete Verfahren.
+
+#### Art. 28
+
+**Immissionsprognose**
+
+<sup>1</sup> Bevor eine stationäre Anlage oder eine Verkehrsanlage, aus der erhebliche Emissionen zu erwarten sind, errichtet oder saniert wird, kann die Behörde vom Inhaber eine Immissionsprognose verlangen.
+
+<sup>2</sup> Die Prognose muss angeben, welche Immissionen in welchen Gebieten, in welchem Umfang und mit welcher Häufigkeit zu erwarten sind.
+
+<sup>3</sup> In der Prognose sind die Art und Menge der Emissionen sowie die Ausbreitungsbedingungen und die Berechnungsmethoden anzugeben.
+
+#### Art. 29
+
+**Überwachung bei einzelnen Anlagen**
+
+Vom Inhaber einer Anlage, aus der erhebliche Emissionen austreten, kann die Behörde verlangen, dass er die Immissionen im betroffenen Gebiet messtechnisch überwacht.
+
+#### Art. 30
+
+**Beurteilung der Immissionen**
+
+Die Behörde beurteilt, ob die ermittelten Immissionen übermässig sind (Art. 2 Abs. 5).
+
+### 2. Abschnitt: Massnahmen gegen übermässige Immissionen
+
+#### Art. 31
+
+**Erstellen eines Massnahmenplanes**[^31-1]
+
+Die Behörde erstellt einen Massnahmenplan nach Artikel 44*a* des Gesetzes, wenn feststeht oder zu erwarten ist, dass trotz vorsorglicher Emissionsbegrenzungen übermässige Immissionen verursacht werden durch:
+
+- a. eine Verkehrsanlage;
+- b. mehrere stationäre Anlagen.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. März 1998 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+#### Art. 32
+
+**Inhalt des Massnahmenplanes**[^32-1]
+
+<sup>1</sup>
+
+Der Massnahmenplan gibt an:
+
+- a. die Quellen von Emissionen, die für die Entstehung der übermässigen Immissionen verantwortlich sind;
+- b. die Bedeutung der Emissionen der einzelnen Quellen für die Gesamtbelastung;
+- c. die Massnahmen zur Verminderung und Beseitigung von übermässigen Immissionen;
+- d. die Wirkung der einzelnen Massnahmen;
+- e. die rechtlichen Grundlagen, die für die einzelnen Massnahmen vorhanden oder noch zu schaffen sind;
+- f. die Fristen für die Anordnung und die Durchführung der Massnahmen;
+- g. die Behörden, die für den Vollzug der Massnahmen zuständig sind.
+
+<sup>2</sup>
+
+Massnahmen nach Absatz 1 Buchstabe c sind:
+
+- a. bei stationären Anlagen: verkürzte Sanierungsfristen oder ergänzende oder verschärfte Emissionsbegrenzungen;
+- b. bei Verkehrsanlagen: bauliche, betriebliche, verkehrslenkende oder ‑beschränkende Massnahmen.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. März 1998 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+#### Art. 33
+
+**Verwirklichung des Massnahmenplanes**[^33-1]
+
+<sup>1</sup> Die im Plan angegebenen Massnahmen sind in der Regel innert fünf Jahren zu verwirklichen.
+
+<sup>2</sup> In erster Dringlichkeit ordnet die Behörde die Massnahmen für Anlagen an, die mehr als 10 Prozent der Gesamtbelastung verursachen.
+
+<sup>3</sup> Die Kantone überprüfen regelmässig die Wirksamkeit der Massnahmen und passen bei Bedarf die Massnahmenpläne an. Sie informieren darüber die Öffentlichkeit.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. März 1998 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+#### Art. 34
+
+**Anträge der Kantone**
+
+<sup>1</sup> Sieht ein kantonaler Massnahmenplan die Anordnung von Massnahmen vor, welche in die Zuständigkeit des Bundes fallen, so unterbreitet der Kanton den Plan dem Bundesrat und stellt entsprechende Anträge.
+
+<sup>2</sup> Setzt der Massnahmenplan die Mitwirkung eines anderen Kantons voraus, so unterbreitet die Behörde den Plan dem betroffenen Kanton und stellt die entsprechenden Anträge. Der Bundesrat koordiniert wenn nötig die Massnahmenpläne der Kantone.
+
+## 4. Kapitel: Schlussbestimmungen
+
+### 1. Abschnitt: Vollzug
+
+#### Art. 35
+
+**Vollzug durch die Kantone**
+
+Unter Vorbehalt von Artikel 36 ist der Vollzug dieser Verordnung Sache der Kantone.
+
+#### Art. 36
+
+**Vollzug durch den Bund**
+
+<sup>1</sup>
+
+Der Bund vollzieht die Vorschriften über:
+
+- a.[^36-1] die Marktüberwachung bei Baumaschinen und deren Partikelfiltersystemen, bei Feuerungsanlagen sowie bei Maschinen und Geräten mit Verbrennungsmotor (Art. 37);
+- b.[^36-2] die Kontrolle der Brenn- und Treibstoffe bei der Einfuhr und beim Inverkehrbringen (Art. 38).[^36-3]
+
+<sup>2</sup> Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des BAFU und der Kantone gilt Artikel 41 Absätze 2 und 4 des Gesetzes; gesetzliche Geheimhaltungspflichten bleiben vorbehalten.[^36-4]
+
+<sup>3</sup>
+
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[^36-5] kann ausführende und ergänzende Bestimmungen erlassen, insbesondere über:
+
+- a. Prüf-, Mess- und Berechnungsmethoden;
+- b. Typenprüfungen;
+- c. Kamine.
+
+<sup>4</sup> Der Bund führt Erhebungen über den Stand und die Entwicklung der Luftverunreinigung im gesamtschweizerischen Rahmen durch (Art. 39).[^36-6]
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^36-4]: Fassung gemäss Ziff. II 13 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^36-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^36-6]: Eingefügt durch Ziff. I der V vom 18. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+#### Art. 37
+
+**Marktüberwachung bei Baumaschinen, deren Partikelfiltersystemen, bei Feuerungsanlagen sowie bei Maschinen und Geräten mit Verbrennungsmotor[^37-2]**[^37-1]
+
+<sup>1</sup>
+
+Das BAFU kontrolliert die Einhaltung der Vorschriften über das Inverkehrbringen von Baumaschinen und deren Partikelfiltersystemen, von Feuerungsanlagen sowie von Maschinen und Geräten mit Verbrennungsmotor. Es kontrolliert insbesondere:[^37-3]
+
+- a. ob die Angaben in der Konformitätserklärung zutreffen; oder
+- b.[^37-4] ob die Verbrennungsmotoren der Maschinen und Geräte, die mit einem Genehmigungszeichen versehen sind, mit dem typengenehmigten Motor oder der typengenehmigten Motorenfamilie übereinstimmen.
+
+<sup>2</sup> Es kann öffentlich-rechtliche Körperschaften und privatrechtliche Fachorganisationen mit Kontrollaufgaben betrauen.
+
+<sup>3</sup> Entsprechen die kontrollierten Anlagen nicht den Anforderungen, so ordnet das BAFU die erforderlichen Massnahmen an. Es kann in schwerwiegenden Fällen das weitere Anbieten und Inverkehrbringen verbieten oder die Anpassung von in Verkehr gebrachten Anlagen verlangen.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^37-2]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-3]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-4]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 38
+
+**Brenn- und Treibstoffe**
+
+<sup>1</sup> Die Zollbehörden entnehmen den eingeführten oder aus Inlandraffinerien abgegebenen Brenn- und Treibstoffen Stichproben. Sie stellen die Proben einem vom BAFU bezeichneten Prüflabor zu oder untersuchen sie selbst.[^38-1]
+
+<sup>2</sup> Die Zollbehörden beziehungsweise das Prüflabor teilen die Untersuchungsresultate dem BAFU mit.[^38-2]
+
+<sup>3</sup> Das BAFU kontrolliert stichprobeweise die Einhaltung der Vorschriften über das Inverkehrbringen von Brenn- und Treibstoffen.[^38-3]
+
+<sup>4</sup> Stellt das BAFU fest, dass ein Importeur oder Händler wiederholt Brenn- und Treibstoffe einführt oder in Verkehr bringt, welche die Qualitätsanforderungen nach Anhang 5 nicht erfüllen, so teilt es dies der für die Strafverfolgung zuständigen kantonalen Behörde und gegebenenfalls der Zollbehörde mit.[^38-4]
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+[^38-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+[^38-3]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^38-4]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+#### Art. 39
+
+**Erhebungen über die Luftverunreinigung**
+
+<sup>1</sup> Die Erhebungen über den Stand und die Entwicklung der Luftverunreinigung im gesamtschweizerischen Rahmen werden vom BAFU durchgeführt.
+
+<sup>2</sup> Die Eidgenössische Materialprüfungs- und Forschungsanstalt in Dübendorf betreibt im Auftrag des BAFU das Nationale Beobachtungsnetz für Luftfremdstoffe (NABEL).
+
+#### Art. 39a
+
+**Geoinformation**[^39a-1]
+
+Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^39a-2] als Fachstelle des Bundes bezeichnet ist.
+
+[^39a-1]: Eingefügt durch Anhang 2 Ziff. 8 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^39a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+
+### 2. Abschnitt: Änderung und Aufhebung bisherigen Rechts
+
+#### Art. 40
+
+[^40-1]
+
+[^40-1]: Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 41
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 10. Dezember 1984[^41-1] über Luftreinhalte-Massnahmen bei Feuerungen wird aufgehoben.
+
+[^41-1]: [[AS 1984 1516](https://fedlex.data.admin.ch/eli/oc/1984/1516_1516_1516)]
+
+### 3. Abschnitt: Übergangsbestimmung
+
+#### Art. 42
+
+<sup>1</sup> Anlagen, für die eine Baubewilligung oder eine Plangenehmigung erforderlich ist, gelten als neue Anlagen, wenn über die Baubewilligung oder die Plangenehmigung beim Inkrafttreten dieser Verordnung noch nicht rechtskräftig entschieden wurde.
+
+<sup>2</sup> Die Behörde erlässt die Sanierungsverfügung nach den Artikeln 8 und 9 innert zweier Jahre nach dem Inkrafttreten dieser Verordnung wenn möglich für alle, mindestens aber für die dringlichsten Sanierungsfälle.
+
+<sup>3</sup> Für bereits bestehende übermässige Immissionen sind die Massnahmenpläne nach Artikel 3l innert dreier Jahre nach Inkrafttreten dieser Verordnung zu erstellen.
+
+### 3*a*. Abschnitt:**** Befristung der Bestimmungen über das Inverkehrbringen und die Inbetriebnahme von Feuerungsanlagen
+
+[^chap4-sec3a-1]
+
+[^chap4-sec3a-1]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 42a
+
+<sup>1</sup>
+
+Die Bestimmungen über das Inverkehrbringen von Feuerungsanlagen sind wie folgt befristet:
+
+- a. Feuerungen nach Artikel 20 Absatz 1 Buchstaben a–g: bis zum 25. September 2018;
+- b. Feuerungen nach Artikel 20 Absatz 1 Buchstabe h: bis zum 31. Dezember 2019.
+
+<sup>2</sup> Die Bestimmungen über die Inbetriebnahme von Feuerungsanlagen nach Artikel 20*d* sind befristet bis zum 31. Dezember 2021.
+
+### 4. Abschnitt: Inkrafttreten
+
+#### Art. 43
+
+Diese Verordnung tritt am 1. März 1986 in Kraft.
+
+## Übergangsbestimmungen der Änderung vom 20. November 1991****
+
+[^u1-1]
+
+[^u1-1]: [AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Übergangsbestimmungen der Änderung vom 15. Dezember 1997****
+
+[^u2-1]
+
+[^u2-1]: [AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Übergangsbestimmungen der Änderung vom 25. August 1999****
+
+[^u3-1]
+
+[^u3-1]: [AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Übergangsbestimmungen der Änderung vom 30. April 2003****
+
+[^u4-1]
+
+[^u4-1]: [AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)
+
+<sup>1</sup> Anlagen, für die eine Baubewilligung oder eine Plangenehmigung erforderlich ist und über die bei Inkrafttreten dieser Änderung noch nicht rechtskräftig entschieden ist, müssen die Anforderungen des neuen Rechts erfüllen.
+
+<sup>2</sup> Für Anlagen, die nach dem 1. Juli 2003 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von fünf bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
+
+## Schlussbestimmungen der Änderung vom 23. Juni 2004****
+
+[^u5-1]
+
+[^u5-1]: [AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)
+
+<sup>1</sup> Für Anlagen, die gemäss der Änderung vom 23. Juni 2004 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
+
+<sup>2</sup> …[^u5-2]
+
+<sup>3</sup> Motorenbenzin und Dieselöl, welche die bisherigen Anforderungen nach Anhang 5 dieser Verordnung[^u5-3] erfüllen, dürfen aus zugelassenen Lagern, Pflichtlagern und aus Lagern der Armee bis zum 31. Dezember 2008 in Verkehr gebracht werden.
+
+[^u5-2]: Aufgehoben durch Ziff. IV der V vom 14. Okt. 2015, mit Wirkung seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^u5-3]: [AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)
+
+## Übergangsbestimmungen zur Änderung vom 4. Juli 2007****
+
+[^u6-1]
+
+[^u6-1]: [AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)
+
+<sup>1</sup> Für Anlagen, die gemäss der Änderung vom 4. Juli 2007 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von fünf bis zehn Jahren. Für Holzfeuerungen gewährt sie eine Sanierungsfrist von zehn Jahren; vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
+
+<sup>2</sup> Feuerungen nach Artikel 20 Absatz 1 Buchstabe h dürfen bis zum 31. Dezember 2007 ohne Nachweis der Konformität in Verkehr gebracht werden.
+
+<sup>3</sup> Holzfeuerungen dürfen bis zum 31. Dezember 2009 ohne Nachweis der Konformität in Verkehr gebracht werden, wenn sie die Anforderungen von Anhang 4 erfüllen. Diese gelten insbesondere als erfüllt, wenn die Holzfeuerungen nach dem 31. Dezember 2003 von Holzenergie Schweiz mit dem Qualitätssiegel für Holzfeuerungen ausgezeichnet wurden.
+
+## Übergangsbestimmungen zur Änderung vom 19. September 2008****
+
+[^u7-1]
+
+[^u7-1]: [AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)
+
+<sup>2</sup> Die Anforderungen nach Anhang 4 Ziffer 3 gelten für Baumaschinen mit einer Leistung von 18 kW bis 37 kW ab Baujahr 2010.
+
+<sup>3</sup> Für Partikelfiltersysteme, die beim Inkrafttreten dieser Änderung auf der Filterliste BAFU/SUVA publiziert sind, gelten die Anforderungen nach Anhang 4 Ziffer 32 als eingehalten.
+
+<sup>4</sup> Heizöl «Extra leicht», das die bisherigen Anforderungen nach Anhang 5 erfüllt, darf aus zugelassenen Lagern, Pflichtlagern und aus Lagern der Armee bis zum 31. Dezember 2011 in Verkehr gebracht werden.
+
+<sup>1</sup> Die Anforderungen nach Anhang 4 Ziffer 3 gelten für Baumaschinen mit einer Leistung ab 37 kW:
+
+- a. mit Baujahr zwischen 2000 und 2008: ab dem 1. Mai 2010, wenn sie auf Baustellen der Massnahmenstufe A der Richtlinie vom 1. September 2002 des Bundesamtes für Umwelt über Luftreinhaltung auf Baustellen betrieben werden;
+- b. mit Baujahr vor 2000: ab dem 1. Mai 2015.
+
+## Übergangsbestimmungen zur Änderung vom 18. Juni 2010****
+
+[^u8-1]
+
+[^u8-1]: [AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Aufgehoben durch Ziff. IV der V vom 11. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+## Übergangsbestimmungen zur Änderung vom 14. Oktober 2015****
+
+[^u9-1]
+
+[^u9-1]: [AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)
+
+Für stationäre Verbrennungsmotoren und Gasturbinen, die gemäss der Änderung vom 14. Oktober 2015 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen aufgrund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
+
+## Übergangsbestimmungen zur Änderung vom 11. April 2018****
+
+[^u10-1]
+
+[^u10-1]: [AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)
+
+<sup>1</sup> Für Anlagen, die gemäss der Änderung vom 11. April 2018 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von zehn Jahren; vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
+
+<sup>2</sup> Heizöl «Extra leicht Euro» darf in Anlagen oder betrieblichen Einheiten, die für diesen Brennstoff eine Feuerungswärmeleistung von weniger als 5 MW haben, bis zum 31. Mai 2023 eingesetzt werden.
+
+<sup>3</sup> Die Emissionsgrenzwerte für Feststoffe nach Anhang 3 Ziffern 511 Absatz 1 und 522 Absatz 1 für Feuerungen bis 70 kW Feuerungswärmeleistung gelten ab dem 1. Juni 2019.
+
+Anhang 1*[^t-1]*
+
+(Art. 3 Abs. 1)
+
+## Allgemeine vorsorgliche Emissionsbegrenzungen
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), Ziff. II 10 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) und vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+### 1 Geltungsbereich
+
+<sup>1</sup> Die Bestimmungen dieses Anhangs gelten für die vorsorgliche Begrenzung der Emissionen von stationären Anlagen.
+
+<sup>2</sup> Vorbehalten bleiben die ergänzenden oder abweichenden Bestimmungen:
+
+- a. für die besonderen Anlagen nach Anhang 2;
+- b. für die Feuerungsanlagen nach Anhang 3;
+- c. für die Typenprüfung von Feuerungsanlagen nach Anhang 4.
+
+### 2 Begriffe
+
+### 21 Abgase
+
+Abluft, Rauchgase und andere von Anlagen abgegebene Luftverunreinigungen werden als Abgase bezeichnet.
+
+### 22 Emissionen
+
+Das Mass der Emissionen wird angegeben als:
+
+- a. Konzentration:
+- Masse der emittierten Stoffe bezogen auf das Volumen des Abgases (z. B. in Milligramm pro Kubikmeter [mg/m<sup>3</sup>]);
+- b. Massenstrom:
+- Masse der emittierten Stoffe pro Zeiteinheit (z. B. in Gramm pro Stunde [g/h]);
+- c. Emissionsfaktor:
+- Verhältnis der Masse der emittierten Stoffe zur Masse der erzeugten oder verarbeiteten Produkte (z. B. in Kilogramm pro Tonne [kg/t]);
+- d. Emissionsgrad:
+- Verhältnis der emittierten Masse eines luftverunreinigenden Stoffes zur Masse dieses Stoffes, welche der Anlage mit den Brenn- und Einsatzstoffen zugeführt wird (in Prozent [% Masse]);
+- e. Russzahl:
+- Der durch Abgase erzeugte Grad der Schwärzung auf einem Filterpapier. Die für die Bestimmung der Russzahl (nach Bacharach) zu verwendende Vergleichsskala umfasst 10 Stufen; die Stufen werden mit 0 bis 9 angegeben.
+
+### 23 Bezugsgrösse bei Emissionskonzentrationen
+
+<sup>1</sup> Die als Konzentrationen angegebenen Grenzwerte und die als Bezugsgrössen angegebenen Sauerstoffgehalte beziehen sich auf das Volumen des Abgases im Normzustand (0 °C, 1013 mbar) nach Abzug des Feuchtegehaltes (trocken).
+
+<sup>2</sup> Die als Emissionskonzentrationen angegebenen Grenzwerte beziehen sich auf die Abgasmenge, die nicht stärker verdünnt ist, als dies technisch und betrieblich unvermeidlich ist.
+
+<sup>3</sup> Wird für eine Anlage in den Anhängen 2–4 als Bezugsgrösse ein Volumengehalt an Sauerstoff angegeben, so sind die gemessenen Emissionskonzentrationen jeweils auf diese Bezugsgrösse umzurechnen.
+
+### 24 Feuerungswärmeleistung
+
+Die Feuerungswärmeleistung bezeichnet die Wärmeenergie, die einer Anlage pro Zeiteinheit maximal zugeführt werden kann. Sie wird errechnet, indem der Brennstoffverbrauch der Anlage mit dem unteren Heizwert des Brennstoffes multipliziert wird.
+
+### 3 Allgemeine Bestimmungen
+
+### 31 Emissionsbegrenzung
+
+<sup>1</sup> Es gelten folgende Emissionsbegrenzungen:
+
+- a. für Staub: Ziffer 4;
+- b für anorganische, vorwiegend staubförmige Stoffe: Ziffer 5;
+- c. für anorganische gas- oder dampfförmige Stoffe: Ziffer 6;
+- d. für organische gas-, dampf- oder partikelförmige Stoffe: Ziffer 7;
+- e. für krebserzeugende Stoffe: Ziffer 8.
+
+<sup>2</sup> Die in den Ziffern 5–8 nicht aufgeführten Stoffe werden den Stoffklassen zugeordnet, mit denen sie in ihrer Einwirkung auf die Umwelt vergleichbar sind. Dabei sind insbesondere die Abbaubarkeit und Anreicherbarkeit, die Toxizität, die Auswirkungen von Abbauvorgängen und deren Folgeprodukten sowie die Geruchsintensität zu berücksichtigen.
+
+### 32 Emissionsbegrenzungen, welche von der Anlagegrösse abhängig sind
+
+<sup>1</sup> Sind mehrere Emissionsquellen vorhanden und hängt die Anforderung an die Emissionsbegrenzung von der Grösse einer Anlage (z. B. Leistung oder Massenstrom) ab, so legt die Behörde fest, welche Emissionsquellen zusammen als eine einzige Anlage gelten.
+
+<sup>2</sup> Als eine einzige Anlage sind in der Regel Emissionsquellen zu bezeichnen, die in einem engen räumlichen Zusammenhang stehen und deren Emissionen:
+
+- a. im Wesentlichen die gleichen oder ähnliche Schadstoffe enthalten; oder
+- b. mit der gleichen Technik vermindert werden können.
+
+<sup>3</sup> Teile einer Anlage, die nur dazu dienen, bei Betriebsausfällen die Leistung anderer Anlageteile zu ersetzen, werden bei der Bestimmung der Anlagegrösse nicht berücksichtigt.
+
+<sup>4</sup> Emissionsgrenzwerte, die von einem bestimmten Massenstrom abhängen, gelten nur, wenn:
+
+- a. dieser Massenstrom während mehr als fünf Stunden pro Woche erreicht oder überschritten wird; oder
+- b. während einer kürzeren Zeit das Zweifache dieses Massenstroms erreicht oder überschritten wird.
+
+### 4 Staub
+
+### 41 Grenzwert für den Gesamtstaub
+
+Beträgt der Massenstrom an Staub 0,20 kg/h oder mehr, so dürfen die staubförmigen Emissionen gesamthaft 20 mg/m<sup>3</sup> nicht überschreiten.
+
+### 42 Immissionsbegrenzung für die Inhaltsstoffe des Staubes
+
+Für die Begrenzung der einzelnen Inhaltsstoffe des Staubes gelten die Anforderungen nach den Ziffern 5, 7 und 8.
+
+### 43 Massnahmen bei Aufbereitungs-, Lagerungs-, Umschlags- und Transportvorgängen
+
+<sup>1</sup> Können in gewerblichen oder industriellen Betrieben durch Vorgänge wie Fördern, Zerkleinern, Klassieren oder Abfüllen staubender Güter erhebliche Staubemissionen entstehen, so müssen die staubhaltigen Abgase erfasst und einer Entstaubungsanlage zugeführt werden.
+
+<sup>2</sup> Bei der Lagerung und beim Umschlag staubender Güter im Freien müssen Massnahmen zur Verhinderung von erheblichen Staubemissionen getroffen werden.
+
+<sup>3</sup> Beim Transport staubender Güter müssen Transporteinrichtungen verwendet werden, welche die Entstehung erheblicher Staubemissionen verhindern.
+
+<sup>4</sup> Können durch den Werkverkehr auf Fahrwegen erhebliche Staubemissionen entstehen, so müssen die Fahrwege staubfrei gehalten werden.
+
+### 5 Anorganische, vorwiegend staubförmige Stoffe
+
+### 51 Grenzwerte
+
+<sup>1</sup> Die Emissionskonzentration der in Ziffer 52 aufgeführten Stoffe darf folgende Werte nicht übersteigen:
+
+- a. Stoffe der Klasse 1 bei einem Massenstrom von 1 g/h oder mehr 0,2 mg/m<sup>3</sup>
+- b. Stoffe der Klasse 2 bei einem Massenstrom von 5 g/h oder mehr 1 mg/m<sup>3</sup>
+- c. Stoffe der Klasse 3 bei einem Massenstrom von 25 g/h oder mehr 5 mg/m<sup>3</sup>
+
+<sup>2</sup> Die Grenzwerte gelten für die gesamte Masse eines emittierten Stoffes, einschliesslich der gas- und dampfförmigen Anteile im Abgas.
+
+<sup>3</sup> Enthält das Abgas mehrere Stoffe der gleichen Klasse, so gilt der Grenzwert für die Summe dieser Stoffe.
+
+### 52 Tabelle der anorganischen, vorwiegend staubförmigen Stoffe
+
+<table>
+<tr><th>Stoff</th><th></th><th colspan="2">angegeben als</th><th colspan="3">Klasse</th></tr>
+<tr><td>Antimon<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Sb</td><td colspan="3">3</td></tr>
+<tr><td>Arsen<sup>1</sup></td><td>und seine Verbindungen, ausgenommen Arsenwasserstoff</td><td colspan="2">As</td><td colspan="3">2</td></tr>
+<tr><td>Blei</td><td>und seine Verbindungen</td><td colspan="2">Pb</td><td colspan="3">3</td></tr>
+<tr><td>Chrom<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Cr</td><td colspan="3">3</td></tr>
+<tr><td>Cobalt<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Co</td><td colspan="3">2</td></tr>
+<tr><td>Cyanide<sup>2</sup></td><td></td><td colspan="2">CN</td><td colspan="3">3</td></tr>
+<tr><td>Fluoride<sup>2</sup></td><td>soweit staubförmig</td><td colspan="2">F</td><td colspan="3">3</td></tr>
+<tr><td>Kupfer</td><td>und seine Verbindungen</td><td colspan="2">Cu</td><td colspan="3">3</td></tr>
+<tr><td>Mangan</td><td>und seine Verbindungen</td><td colspan="2">Mn</td><td colspan="3">3</td></tr>
+<tr><td>Nickel<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Ni</td><td colspan="3">2</td></tr>
+<tr><td>Palladium</td><td>und seine Verbindungen</td><td colspan="2">Pd</td><td colspan="3">3</td></tr>
+<tr><td>Platin</td><td>und seine Verbindungen</td><td colspan="2">Pt</td><td colspan="3">3</td></tr>
+<tr><td>Quarzstaub</td><td>soweit kristalliner Feinstaub</td><td colspan="2">SiO<sub>2</sub></td><td colspan="3">3</td></tr>
+<tr><td>Quecksilber</td><td>und seine Verbindungen</td><td colspan="2">Hg</td><td colspan="3">1</td></tr>
+<tr><td>Rhodium</td><td>und seine Verbindungen</td><td colspan="2">Rh</td><td colspan="3">3</td></tr>
+<tr><td>Selen</td><td>und seine Verbindungen</td><td colspan="2">Se</td><td colspan="3">2</td></tr>
+<tr><td>Tellur</td><td>und seine Verbindungen</td><td colspan="2">Te</td><td colspan="3">2</td></tr>
+<tr><td>Thallium</td><td>und seine Verbindungen</td><td colspan="2">Tl</td><td colspan="3">1</td></tr>
+<tr><td>Vanadium</td><td>und seine Verbindungen</td><td colspan="2">V</td><td colspan="3">3</td></tr>
+<tr><td>Zinn</td><td>und seine Verbindungen</td><td colspan="2">Sn</td><td colspan="3">3</td></tr>
+<tr><td colspan="3"><sup>1</sup> Soweit nicht als krebserzeugende Verbindung nach Ziffer 8 erfasst. <sup>2</sup> Soweit leicht löslich.</td><td colspan="2">[tab]</td><td>[tab]</td></tr>
+</table>
+
+### 6 Anorganische gas- oder dampfförmige Stoffe
+
+### 61 Grenzwerte
+
+Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folgende Werte nicht übersteigen:
+
+- a. bei einem Stoff der Klasse 1 bei einem Massenstrom von 10 g/h oder mehr 1 mg/m<sup>3</sup>
+- b. bei einem Stoff der Klasse 2 bei einem Massenstrom von 50 g/h oder mehr 5 mg/m<sup>3</sup>
+- c. bei einem Stoff der Klasse 3 bei einem Massenstrom von 300 g/h oder mehr 30 mg/m<sup>3</sup>
+- d. bei einem Stoff der Klasse 4 bei einem Massenstrom von 2500 g/h oder mehr 250 mg/m<sup>3</sup>
+
+### 62 Tabelle der anorganischen gas- oder dampfförmigen Stoffe
+
+<table>
+<tr><th>Stoff</th><th>Klasse</th></tr>
+<tr><td>Ammoniak und Ammoniumverbindungen angegeben als Ammoniak</td><td>3</td></tr>
+<tr><td>Arsenwasserstoff</td><td>1</td></tr>
+<tr><td>Brom und seine dampf- und gasförmigen Verbindungen, angegeben.</td><td></td></tr>
+<tr><td>als Bromwasserstoff</td><td>2</td></tr>
+<tr><td>Chlor</td><td>2</td></tr>
+<tr><td>Chlorcyan</td><td>1</td></tr>
+<tr><td>Chlorverbindungen, dampf- oder gasförmige anorganische</td><td></td></tr>
+<tr><td>Chlorverbindungen, ausgenommen Chlorcyan und Phosgen, angegeben</td><td></td></tr>
+<tr><td>als Chlorwasserstoff</td><td>3</td></tr>
+<tr><td>Cyanwasserstoff</td><td>2</td></tr>
+<tr><td>Fluor und seine dampf- oder gasförmigen Verbindungen, angegeben</td><td></td></tr>
+<tr><td>als Fluorwasserstoff</td><td>2</td></tr>
+<tr><td>Phosgen</td><td>1</td></tr>
+<tr><td>Phosphorwasserstoff</td><td>1</td></tr>
+<tr><td>Schwefeloxide (Schwefeldioxid und Schwefeltrioxid),angegeben</td><td></td></tr>
+<tr><td>als Schwefeldioxid</td><td>4</td></tr>
+<tr><td>Schwefelwasserstoff</td><td>2</td></tr>
+<tr><td>Stickoxide (Stickstoffmonoxid und Stickstoffdioxid),angegeben</td><td></td></tr>
+<tr><td>als Stickstoffdioxid</td><td>4</td></tr>
+</table>
+
+### 7 Organische gas-, dampf- oder partikelförmige Stoffe
+
+### 71 Grenzwerte
+
+<sup>1</sup> Die Emissionskonzentration der in Ziffer 72 aufgeführten Stoffe darf folgende Werte nicht übersteigen:
+
+- a. Stoffe der Klasse 1 bei einem Massenstrom von 0,1 kg/h oder mehr 20 mg/m<sup>3</sup>
+- b. Stoffe der Klasse 2 bei einem Massenstrom von 2,0 kg/h oder mehr 100 mg/m<sup>3</sup>
+- c. Stoffe der Klasse 3 bei einem Massenstrom von 3,0 kg/h oder mehr 150 mg/m<sup>3</sup>
+
+<sup>2</sup> Für partikelförmige organische Stoffe der Klassen 2 und 3 gelten abweichend von Absatz 1 die Vorschriften über die Staubbegrenzung nach Ziffer 41.
+
+<sup>3</sup> Enthält das Abgas mehrere Stoffe der gleichen Klasse, so gilt der Grenzwert für die Summe dieser Stoffe.
+
+<sup>4</sup> Enthält das Abgas Stoffe von verschiedenen Klassen, so darf zusätzlich zu den Anforderungen nach den Absätzen 1 und 2 die Summe der Stoffe bei einem Massenstrom von insgesamt 3,0 kg/h oder mehr den Grenzwert von 150 mg/m<sup>3</sup> nicht übersteigen.
+
+<sup>5</sup> Für Stoffe, bei denen der begründete Verdacht auf eine krebserzeugende Wirkung[^annex1-lvlu1-lvl7-lvl71-1] besteht und die nicht in der Tabelle Ziffer 72 als Stoffe der Klasse 1 klassiert sind, müssen die Emissionen nach Absatz 1 Buchstabe a begrenzt werden.
+
+<sup>6</sup> Für Stoffe, die nach Anhang 1.4 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^annex1-lvlu1-lvl7-lvl71-2] zu einem Abbau der Ozonschicht führen und die nicht in der Tabelle unter Ziffer 72 als Stoffe der Klasse 1 klassiert sind, müssen die Emissionen nach Absatz 1 Buchstabe a begrenzt werden. Vorbehalten bleiben die Bestimmungen von Ziffer 8.
+
+[^annex1-lvlu1-lvl7-lvl71-1]: Als Stoffe mit begründetem Verdacht auf eine krebserzeugende Wirkung gelten insbesondere die in Abschnitt III (krebserzeugende Arbeitsstoffe) in den Kategorien 3–5 der «MAK- und BAT-Werte-Liste» der Deutschen Forschungsgemeinschaft aufgeführten Stoffe. Bezugsquelle: Wiley-VCH Verlag GmbH, D-69469 Weinheim.
+[^annex1-lvlu1-lvl7-lvl71-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+### 72 Tabelle der organischen gas-, dampf- oder partikelförmigen Stoffe
+
+<table>
+<tr><th>Stoff</th><th>Summenformel</th><th>Klasse</th></tr>
+<tr><td>Acetaldehyd</td><td>C<sub>2</sub>H<sub>4</sub>O</td><td>1</td></tr>
+<tr><td>Aceton</td><td>C<sub>3</sub>H<sub>6</sub>O</td><td>3</td></tr>
+<tr><td>Acrolein (s. 2-Propenal)</td><td></td><td></td></tr>
+<tr><td>Acrylsäure</td><td>C<sub>3</sub>H<sub>4</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Acrylsäureethylester (s. Ethylacrylat)</td><td></td><td></td></tr>
+<tr><td>Acrylsäuremethylester (s. Methylacrylat)</td><td></td><td></td></tr>
+<tr><td>Alkane, ausgenommen Methan</td><td></td><td>3</td></tr>
+<tr><td>Alkene, ausgenommen 1,3-Butadien und Ethen</td><td></td><td>3</td></tr>
+<tr><td>Alkylalkohole</td><td></td><td>3</td></tr>
+<tr><td>Alkylbleiverbindungen</td><td></td><td>l</td></tr>
+<tr><td>Ameisensäure</td><td>CH<sub>2</sub>O<sub>2</sub></td><td>l</td></tr>
+<tr><td>Ameisensäuredimethylamid (s. N,N-Dimethylformamid)</td><td></td><td></td></tr>
+<tr><td>Ameisensäuremethylester (s. Methylformiat)</td><td></td><td></td></tr>
+<tr><td>Anilin</td><td>C<sub>6</sub>H<sub>7</sub>N</td><td>l</td></tr>
+<tr><td>Benzoesäuremethylester (s. Methylbenzoat)</td><td></td><td></td></tr>
+<tr><td>Biphenyl</td><td>C<sub>12</sub>H<sub>10</sub></td><td>1</td></tr>
+<tr><td>Brommethan</td><td>CH<sub>3</sub>Br</td><td>1</td></tr>
+<tr><td>2-Butanon</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>3</td></tr>
+<tr><td>2-Butoxyethanol</td><td>C<sub>6</sub>H<sub>14</sub> O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Butylacetate</td><td>C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Butylglykol (s. 2-Butoxyethanol)</td><td></td><td></td></tr>
+<tr><td>Butyraldehyd</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>2</td></tr>
+<tr><td>Chloracetaldehyd</td><td>C<sub>2</sub>H<sub>3</sub>ClO</td><td>1</td></tr>
+<tr><td>Chlorbenzol</td><td>C<sub>6</sub>H<sub>5</sub>Cl</td><td>2</td></tr>
+<tr><td>Chloressigsäure</td><td>C<sub>2</sub>H<sub>3</sub>ClO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Chlorethan</td><td>C<sub>2</sub>H<sub>5</sub>Cl</td><td>1</td></tr>
+<tr><td>Chlormethan</td><td>CH<sub>3</sub>Cl</td><td>1</td></tr>
+<tr><td>Chloroform (s. Trichlormethan)</td><td></td><td></td></tr>
+<tr><td>2-Chloropren</td><td></td><td></td></tr>
+<tr><td>2-Chlorpropan</td><td>C<sub>3</sub>H<sub>7</sub>Cl</td><td>2</td></tr>
+<tr><td>Cumol (s. Isopropylbenzol)</td><td></td><td></td></tr>
+<tr><td>Cyclohexanon</td><td>C<sub>6</sub>H<sub>10</sub>O</td><td>1</td></tr>
+<tr><td>Diacetonalkohol (s. 4-Hydroxy-4-methyl-2-pentanon)</td><td></td><td></td></tr>
+<tr><td>Dibutylether</td><td>C<sub>8</sub>H<sub>18</sub>O</td><td>3</td></tr>
+<tr><td>1,2-Dichlorbenzol</td><td>C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>1</td></tr>
+<tr><td>1,1-Dichlorethan</td><td>C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>2</td></tr>
+<tr><td>1,1-Dichlorethen</td><td>C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub></td><td>1</td></tr>
+<tr><td>1,2-Dichlorethen</td><td>C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub></td><td>3</td></tr>
+<tr><td>Dichlormethan</td><td>CH<sub>2</sub>Cl<sub>2</sub></td><td>1</td></tr>
+<tr><td>Dichlorphenole</td><td>C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>O</td><td>1</td></tr>
+<tr><td>Diethanolamin (s. 2,2’-Iminodiethanol)</td><td></td><td></td></tr>
+<tr><td>Diethylamin</td><td>C<sub>4</sub>H<sub>11</sub>N</td><td>1</td></tr>
+<tr><td>Diethylether</td><td>C<sub>4</sub>H<sub>10</sub>O</td><td>3</td></tr>
+<tr><td>Di-(2-ethylhexyl)-phthalat</td><td>C24H38O4</td><td>2</td></tr>
+<tr><td>Diisopropylether</td><td>C<sub>6</sub>H<sub>14</sub>O</td><td>3</td></tr>
+<tr><td>Diisobutylketon (s. 2,6-Dimethyl-4-heptanon)</td><td></td><td></td></tr>
+<tr><td>Diisocyanatotoluol (s. 4-Methyl-m-Phenylendiisocyanat)</td><td></td><td></td></tr>
+<tr><td>Dimethylamin</td><td>C<sub>2</sub>H<sub>7</sub>N</td><td>1</td></tr>
+<tr><td>Dimethylether</td><td>C<sub>2</sub>H<sub>6</sub>O</td><td>3</td></tr>
+<tr><td>N,N-Dimethylformamid</td><td>C<sub>3</sub>H<sub>7</sub>NO</td><td>2</td></tr>
+<tr><td>2,6-Dimethyl-4-heptanon</td><td>C<sub>9</sub>H<sub>18</sub>O</td><td>2</td></tr>
+<tr><td>Dioctylphthalat (s. Di-(2-ethylhexyl)-phthalat)</td><td></td><td></td></tr>
+<tr><td>1,4-Dioxan</td><td>C<sub>4</sub>H<sub>8</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Diphenyl (s. Biphenyl)</td><td></td><td></td></tr>
+<tr><td>Essigester (s. Ethylacetat)</td><td></td><td></td></tr>
+<tr><td>Essigsäure</td><td>C<sub>2</sub>H<sub>4</sub>O<sub>24</sub></td><td>2</td></tr>
+<tr><td>Essigsäurebutylester (s. Butylacetat)</td><td></td><td></td></tr>
+<tr><td>Essigsäureethylester (s. Ethylacetat)</td><td></td><td></td></tr>
+<tr><td>Essigsäuremethylester (s. Methylacetat)</td><td></td><td></td></tr>
+<tr><td>Essigsäurevinylester (s. Vinylacetat)</td><td></td><td></td></tr>
+<tr><td>Ethanol (s. Alkylalkohole)</td><td></td><td></td></tr>
+<tr><td>Ethen</td><td>C<sub>2</sub>H<sub>4</sub></td><td>1</td></tr>
+<tr><td>Ether (s. Diethylether)</td><td></td><td></td></tr>
+<tr><td>2-Ethoxyethanol</td><td>C<sub>4</sub>H<sub>10</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Ethylacetat</td><td>C<sub>4</sub>H<sub>8</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Ethylacrylat</td><td>C<sub>5</sub>H<sub>8</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Ethylamin</td><td>C<sub>2</sub>H<sub>7</sub>N</td><td>1</td></tr>
+<tr><td>Ethylbenzol</td><td>C<sub>8</sub>H<sub>10</sub></td><td>1</td></tr>
+<tr><td>Ethylchlorid (s. Chlorethan)</td><td></td><td></td></tr>
+<tr><td>Ethylenglykol</td><td>C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Ethylenglykolmonobutylether (s. 2-Butoxyethanol)</td><td></td><td></td></tr>
+<tr><td>Ethylenglykolmonoethylether (s. 2-Ethoxyethanol)</td><td></td><td></td></tr>
+<tr><td>Ethylenglykolmonomethylether (s. 2-Methoxyethanol)</td><td></td><td></td></tr>
+<tr><td>Ethylglykol (s. 2-Ethoxyethanol)</td><td></td><td></td></tr>
+<tr><td>Ethylmethylketon (s. 2-Butanon)</td><td></td><td></td></tr>
+<tr><td>FCKW, Fluorchlorkohlenwasserstoffe,</td><td></td><td></td></tr>
+<tr><td>vollständig halogeniert, mit bis zu 3 C-Atomen</td><td></td><td>1</td></tr>
+<tr><td>Formaldehyd</td><td>CH<sub>2</sub>O</td><td>1</td></tr>
+<tr><td>2-Furaldehyd</td><td>C<sub>5</sub>H<sub>4</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Furfural, Furfurol, 2-Furylmethanal (s. 2-Furaldehyd)</td><td></td><td></td></tr>
+<tr><td>Furfurylalkohol</td><td>C<sub>5</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Glykol (s. Ethylenglykol)</td><td></td><td></td></tr>
+<tr><td>Halone, bromhaltige Fluorkohlenwasserstoffe,</td><td></td><td></td></tr>
+<tr><td>vollständig halogeniert, mit bis zu 3 C-Atomen</td><td></td><td>1</td></tr>
+<tr><td>HFBKW, bromhaltige Fluorkohlenwasserstoffe,</td><td></td><td></td></tr>
+<tr><td>teilweise halogeniert, mit bis zu 3 C-Atomen</td><td></td><td>1</td></tr>
+<tr><td>HFCKW, Fluorchlorkohlenwasserstoffe,</td><td></td><td></td></tr>
+<tr><td>teilweise halogeniert, mit bis zu 3 C-Atomen</td><td></td><td>1</td></tr>
+<tr><td>Holzstaub, in atembarer Form (ausgenommen Buchen- und Eichenholzstaub)</td><td></td><td>1</td></tr>
+<tr><td>4-Hydroxy-4-methyl-2-pentanon</td><td>C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>2,2’-Iminodiethanol</td><td>C<sub>4</sub>H<sub>11</sub>NO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Isobutylmethylketon (s. 4-Methyl-2-pentanon)</td><td></td><td></td></tr>
+<tr><td>Isopropenylbenzol</td><td>C<sub>9</sub>H<sub>10</sub></td><td>2</td></tr>
+<tr><td>Isopropylbenzol</td><td>C<sub>9</sub>H<sub>12</sub></td><td>2</td></tr>
+<tr><td>Kohlenstoffdisulfid</td><td>CS<sub>2</sub></td><td>2</td></tr>
+<tr><td>Kresole</td><td>C<sub>7</sub>H<sub>8</sub>O</td><td>1</td></tr>
+<tr><td>Maleinsäureanhydrid</td><td>C<sub>4</sub>H<sub>2</sub>O<sub>3</sub></td><td>1</td></tr>
+<tr><td>Mercaptane (s. Thioalkohole)</td><td></td><td></td></tr>
+<tr><td>Methacrylsäuremethylester (s. Methylmethacrylat)</td><td></td><td></td></tr>
+<tr><td>Methanol (s. Alkylalkohole)</td><td></td><td></td></tr>
+<tr><td>2-Methoxyethanol</td><td>C<sub>3</sub>H<sub>8</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Methylacetat</td><td>C<sub>3</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Methylacrylat</td><td>C<sub>4</sub>H<sub>6</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Methylamin</td><td>CH<sub>5</sub>N</td><td>1</td></tr>
+<tr><td>Methylbenzoat</td><td>C<sub>8</sub>H<sub>8</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Methylchlorid (s. Chlormethan)</td><td></td><td></td></tr>
+<tr><td>Methylchloroform (s. 1,1,1,-Trichlorethan)</td><td></td><td></td></tr>
+<tr><td>Methylcyclohexanone</td><td>C<sub>7</sub>H<sub>12</sub>O</td><td>2</td></tr>
+<tr><td>Methylenchlorid (s. Dichlormethan)</td><td></td><td></td></tr>
+<tr><td>Methylethylketon (s. 2-Butanon)</td><td></td><td></td></tr>
+<tr><td>Methylformiat</td><td>C<sub>2</sub>H<sub>4</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Methylglykol (s. 2-Methoxyethanol)</td><td></td><td></td></tr>
+<tr><td>Methylisobutylketon (s. 4-Methyl-2-pentanon)</td><td></td><td></td></tr>
+<tr><td>Methylmethacrylat</td><td>C<sub>5</sub>H<sub>8</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>4-Methyl-2-pentanon</td><td>C<sub>6</sub>H<sub>12</sub>O</td><td>3</td></tr>
+<tr><td>4-Methyl-m-phenylendiisocyanat</td><td>C<sub>9</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>N-Methylpyrrolidon</td><td>C<sub>5</sub>H<sub>9</sub>NO</td><td>3</td></tr>
+<tr><td>Naphthalin</td><td>C<sub>10</sub>H<sub>8</sub></td><td>1</td></tr>
+<tr><td>Nitrobenzol</td><td>C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Nitrokresole</td><td>C<sub>7</sub>H<sub>7</sub>NO<sub>3</sub></td><td>1</td></tr>
+<tr><td>Nitrophenole</td><td>C<sub>6</sub>H<sub>5</sub>NO<sub>3</sub></td><td>1</td></tr>
+<tr><td>Nitrotoluole, ausser 2-Nitrotoluol</td><td>C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Olefinkohlenwasserstoffe (s. Alkene)</td><td></td><td>3</td></tr>
+<tr><td>Paraffinkohlenwasserstoffe (s. Alkane)</td><td></td><td>3</td></tr>
+<tr><td>Perchlorethylen (s. Tetrachlorethen)</td><td></td><td></td></tr>
+<tr><td>Phenol</td><td>C<sub>6</sub>H<sub>6</sub>O</td><td>1</td></tr>
+<tr><td>Phthalsäure-bis-(2-Ethylhexyl)-Ester (s. Di-(2-Ethylhexyl)-phthalat)</td><td></td><td></td></tr>
+<tr><td>Phthalsäure-Dioctylester (s. Di-(2-Ethylhexyl)-phthalat)</td><td></td><td></td></tr>
+<tr><td>Pinene</td><td>C10H16</td><td>3</td></tr>
+<tr><td>2-Propenal</td><td>C<sub>3</sub>H<sub>4</sub>O</td><td>1</td></tr>
+<tr><td>Propionaldehyd</td><td>C<sub>3</sub>H<sub>6</sub>O</td><td>2</td></tr>
+<tr><td>Propionsäure</td><td>C<sub>3</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Pyridin</td><td>C<sub>5</sub>H<sub>5</sub>N</td><td>1</td></tr>
+<tr><td>Schwefelkohlenstoff (s. Kohlenstoffdisulfid)</td><td></td><td></td></tr>
+<tr><td>Styrol</td><td>C<sub>8</sub>H<sub>8</sub></td><td>2</td></tr>
+<tr><td>1,1,2,2-Tetrachlorethan</td><td>C<sub>2</sub>H<sub>2</sub>Cl<sub>4</sub></td><td>1</td></tr>
+<tr><td>Tetrachlorethen</td><td>C<sub>2</sub>Cl<sub>4</sub></td><td>1</td></tr>
+<tr><td>Tetrachlorkohlenstoff (s. Tetrachlormethan)</td><td></td><td></td></tr>
+<tr><td>Tetrachlormethan</td><td>CCl<sub>4</sub></td><td>1</td></tr>
+<tr><td>Tetrahydrofuran</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>1</td></tr>
+<tr><td>Thioalkohole</td><td></td><td>1</td></tr>
+<tr><td>Thioether</td><td></td><td>1</td></tr>
+<tr><td>Toluol</td><td>C<sub>7</sub>H<sub>8</sub></td><td>2</td></tr>
+<tr><td>Tolylen-2,4-diisocyanat (s. 4-Methyl-m-phenylendiisocyanat)</td><td></td><td></td></tr>
+<tr><td>1,1,1-Trichlorethan</td><td>C<sub>2</sub>H<sub>3</sub>Cl<sub>3</sub></td><td>1</td></tr>
+<tr><td>1,1,2-Trichlorethan</td><td>C<sub>2</sub>H<sub>3</sub>Cl<sub>3</sub></td><td>1</td></tr>
+<tr><td>Trichlormethan</td><td>CHCl<sub>3</sub></td><td>1</td></tr>
+<tr><td>Trichlorphenole</td><td>C<sub>6</sub>H<sub>3</sub>OCl<sub>3</sub></td><td>1</td></tr>
+<tr><td>Triethylamin</td><td>C<sub>6</sub>H<sub>15</sub>N</td><td>1</td></tr>
+<tr><td>Trimethylbenzole</td><td>C<sub>9</sub>H<sub>12</sub></td><td>2</td></tr>
+<tr><td>Vinylacetat</td><td>C<sub>4</sub>H<sub>6</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Xylenole, ausgenommen 2,4-Xylenol</td><td>C<sub>8</sub>H<sub>10</sub>O</td><td>1</td></tr>
+<tr><td>2,4-Xylenol</td><td>C<sub>8</sub>H<sub>10</sub>O</td><td>2</td></tr>
+<tr><td>Xylole</td><td>C<sub>8</sub>H<sub>10</sub></td><td>2</td></tr>
+</table>
+
+### 8 Krebserzeugende Stoffe
+
+### 81 Begriff
+
+Als krebserzeugend gelten Stoffe, die in der Liste der arbeitshygienischen Grenzwerte[^annex1-lvlu1-lvl8-lvl81-1] der Schweizerischen Unfallversicherungsanstalt (SUVA) als krebserzeugend (K) bezeichnet sind.
+
+[^annex1-lvlu1-lvl8-lvl81-1]: Bezugsquelle: Schweizerische Unfallversicherungsanstalt SUVA, Postfach, 6002 Luzern.
+
+### 82 Emissionsbegrenzung
+
+<sup>1</sup> Die Emissionen von krebserzeugenden Stoffen sind unabhängig vom Risiko der durch sie verursachten krebserzeugenden Belastung so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.
+
+<sup>2</sup> Die Emissionen der in Ziffer 83 aufgeführten krebserzeugenden Stoffe sind mindestens so weit zu begrenzen, dass die Emissionskonzentrationen die folgenden Werte nicht übersteigen:
+
+- a. Stoffe der Klasse 1 bei einem Massenstrom von 0,5 g/h oder mehr 0,1 mg/m<sup>3</sup>
+- b. Stoffe der Klasse 2 bei einem Massenstrom von 5 g/h oder mehr 1 mg/m<sup>3</sup>
+- c. Stoffe der Klasse 3 bei einem Massenstrom von 25 g/h oder mehr 5 mg/m<sup>3</sup>
+
+<sup>3</sup> Enthält das Abgas mehrere Stoffe der gleichen Klasse, so gilt die Begrenzung nach Absatz 2 für die Summe dieser Stoffe.
+
+### 83 Tabelle von krebserzeugenden Stoffen
+
+<table>
+<tr><th>Stoff</th><th>Summenformel</th><th>Klasse</th></tr>
+<tr><td>Acrylnitril</td><td>C<sub>3</sub>H<sub>3</sub>N</td><td>3</td></tr>
+<tr><td>Antimontrioxid (in atembarer Form), angegeben als Sb</td><td>Sb</td><td>2</td></tr>
+<tr><td>Arsentrioxid und Arsenpentoxid, arsenige Säure und ihre Salze, Arsensäure und ihre Salze (in atembarer Form), angegeben als As</td><td>As</td><td>2</td></tr>
+<tr><td>Asbest (Chrysotil, Krokydolith, Amosit, Anthophyllit, Aktinolith, Tremolit) als Feinstaub</td><td></td><td>1</td></tr>
+<tr><td>Benzo(a)pyren</td><td>C<sub>20</sub>H<sub>12</sub></td><td>1</td></tr>
+<tr><td>Benzol</td><td>C<sub>6</sub>H<sub>6</sub></td><td>3</td></tr>
+<tr><td>Beryllium und seine Verbindungen in atembarer Form, angegeben als Be</td><td>Be</td><td>l</td></tr>
+<tr><td>Bromethan</td><td>C<sub>2</sub>H<sub>7</sub>Br</td><td>3</td></tr>
+<tr><td>Buchenholzstaub in atembarer Form</td><td></td><td>3</td></tr>
+<tr><td>1,3-Butadien</td><td>C<sub>4</sub>H<sub>6</sub></td><td>3</td></tr>
+<tr><td>Cadmium und seine Verbindungen Cadmiumchlorid, Cadmiumoxid, Cadmiumsulfat, Cadmiumsulfid, und andere bioverfügbare Verbindungen (in atembarer Form), angegeben als Cd</td><td>Cd</td><td>1</td></tr>
+<tr><td>2-Chlor-1,3-butadien</td><td>C<sub>4</sub>H<sub>5</sub>Cl</td><td>3</td></tr>
+<tr><td>1-Chlor-2,3-epoxypropan</td><td>C<sub>3</sub>H<sub>5</sub>ClO</td><td>3</td></tr>
+<tr><td>α-Chlortoluol</td><td>C<sub>7</sub>H<sub>7</sub>Cl</td><td>3</td></tr>
+<tr><td>α-Chlortoluole: Gemische aus -Chlortoluol, α, α-Dichlortoluol, α, α, α-Trichlortoluol und Benzoylchlorid</td><td></td><td>3</td></tr>
+<tr><td>Chrom(VI)verbindungen (in atembarer Form) soweit Calciumchromat, Chrom(III)chromat, Strontiumchromat und Zinkchromat, angegeben als Cr</td><td>Cr</td><td>2</td></tr>
+<tr><td>Cobalt (in Form atembarer Stäube oder Aerosole von Cobaltmetall und schwerlöslichen Cobaltsalzen), angegeben als Co</td><td>Co</td><td>2</td></tr>
+<tr><td>Dibenz(a, h)anthracen</td><td>C<sub>22</sub>H<sub>14</sub></td><td>1</td></tr>
+<tr><td>1,2-Dibromethan</td><td>C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub></td><td>3</td></tr>
+<tr><td>3,3’-Dichlorbenzidin</td><td>C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>Cl<sub>2</sub></td><td>2</td></tr>
+<tr><td>1,4 Dichlorbenzol</td><td>C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>3</td></tr>
+<tr><td>1,2-Dichlorethan</td><td>C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>3</td></tr>
+<tr><td>Dieselruss</td><td></td><td>3</td></tr>
+<tr><td>Diethylsulfat</td><td>C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>S</td><td>2</td></tr>
+<tr><td>Dimethylsulfat</td><td>C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S</td><td>2</td></tr>
+<tr><td>Eichenholzstaub in atembarer Form</td><td></td><td>3</td></tr>
+<tr><td>Epichlorhydrin (s. 1-Chlor-2,3-epoxypropan)</td><td></td><td></td></tr>
+<tr><td>1,2 Epoxypropan</td><td>C<sub>3</sub>H<sub>6</sub>O</td><td>3</td></tr>
+<tr><td>Ethylenimin</td><td>C<sub>2</sub>H<sub>5</sub>N</td><td>2</td></tr>
+<tr><td>Ethylenoxid</td><td>C<sub>2</sub>H<sub>4</sub>O</td><td>3</td></tr>
+<tr><td>Hydrazin</td><td>H<sub>4</sub>N<sub>2</sub></td><td>3</td></tr>
+<tr><td>2-Naphthylamin</td><td>C<sub>10</sub>H<sub>9</sub>N</td><td>1</td></tr>
+<tr><td>Nickel (in Form atembarer Stäube oder Aerosole von Nickelmetall, Nickelsulfid und sulfidischen Erzen, Nickeloxid und Nickelcarbonat, Nickeltetracarbonyl), angegeben als Ni</td><td>Ni</td><td>2</td></tr>
+<tr><td>2-Nitrotoluol</td><td>C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub></td><td>3</td></tr>
+<tr><td>o-Toluidin</td><td>C<sub>7</sub>H<sub>9</sub>N</td><td>3</td></tr>
+<tr><td>Trichlorethen</td><td>C<sub>2</sub>HCl<sub>3</sub></td><td>3</td></tr>
+<tr><td>Vinylchlorid</td><td>C<sub>2</sub>H<sub>3</sub>Cl</td><td>3</td></tr>
+<tr><td>N-Vinyl-2-pyrrolidon</td><td>C<sub>6</sub>H<sub>9</sub>NO</td><td>3</td></tr>
+</table>
+
+Anhang 2*[^t-2]*
+
+(Art. 3 Abs. 2 Bst. a)
+
+## Ergänzende und abweichende Emissionsbegrenzungen für besondere Anlagen
+
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+
+### Inhaltsübersicht
+
+1 Steine und Erden
+
+11 Zementöfen und Kalkklinkeröfen
+
+12 Anlagen zum Brennen von keramischen Erzeugnissen unter Verwendung von Ton
+
+13 Anlagen zur Herstellung von Glas
+
+14 Asphaltmischanlagen
+
+2 Chemie
+
+21 Anlagen zur Herstellung von Schwefelsäure
+
+22 Claus-Anlagen
+
+23 Anlagen zur Herstellung von Chlor
+
+24 Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid
+
+25 …
+
+26 Herstellung und Konfektionierung von Pflanzenschutzmittel
+
+27 Anlagen zur Herstellung von Russ
+
+28 Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder Elektrographit durch Brennen
+
+29 Anlagen zur Herstellung von Salpetersäure
+
+3 Mineralölindustrie
+
+31 Raffinerien
+
+32 Grosstankanlagen
+
+33 Anlagen zum Umschlag von Benzin
+
+4 Metalle
+
+41 Giessereien
+
+42 Kupolöfen
+
+43 Aluminiumhütten
+
+44 Umschmelzanlagen für Nichteisenmetalle
+
+45 Verzinkungsanlagen
+
+46 Anlagen zur Herstellung von Blei-Akkumulatoren
+
+47 Wärme- und Wärmebehandlungsöfen
+
+48 Elektrostahlwerke
+
+5 Landwirtschaft und Lebensmittel
+
+51 Tierhaltung
+
+52 Räucheranlagen
+
+53 Anlagen zur Tierkörper-Verwertung und Kot-Trocknung
+
+54 Anlagen zum Trocknen von Grünfutter
+
+55 …
+
+56 Kaffee- und Kakao-Röstereien
+
+6 Beschichten und Bedrucken
+
+61 Anlagen zum Beschichten und Bedrucken mit organischen Stoffen
+
+7 Abfälle
+
+71 Anlagen zum Verbrennen von Siedlungs- und Sonderabfällen
+
+72 Anlagen zum Verbrennen von Altholz, Papier- und ähnlichen Abfällen
+
+73 Anlagen zum Verbrennen von Sulfit-Ablauge aus der Zellstoffherstellung
+
+74 Anlagen zum Verbrennen von biogenen Abfällen und Erzeugnissen der Landwirt-
+
+schaft
+
+8 Weitere Anlagen
+
+81 Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen be- handelt werden
+
+82 Stationäre Verbrennungsmotoren
+
+83 Gasturbinen
+
+84 Anlagen zur Herstellung von Spanplatten
+
+85 Textilreinigung
+
+86 Krematorien
+
+87 Anlagen zur Oberflächenbehandlung
+
+88 Baustellen
+
+### 1 Steine und Erden
+
+### 11 Zementöfen und Kalkklinkeröfen
+
+### 111 Brennstoffe und Abfälle
+
+<sup>1</sup> Ziffer 81 gilt nicht für Zementöfen.
+
+<sup>2</sup> Abfälle dürfen in Zementöfen nur verwertet werden, wenn sie nach Artikel 24 der Abfallverordnung vom 4. Dezember 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] dazu geeignet sind.
+
+[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+
+### 111<sup>bis</sup> Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 10 Prozent (% vol).
+
+### 112 Stickoxide
+
+Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 500 mg/m<sup>3</sup>.
+
+### 113 Schwefeloxide
+
+Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen 500 mg/m<sup>3</sup> nicht überschreiten.
+
+### 114 Gasförmige organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gasförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben und dürfen 80 mg/m<sup>3</sup> nicht überschreiten.
+
+### 115 Staub
+
+Die staubförmigen Emissionen dürfen 20 mg/m<sup>3</sup> nicht überschreiten.
+
+### 116 Quecksilber und Cadmium
+
+Die Emissionen von Quecksilber und Cadmium und deren Verbindungen, angegeben als Metalle, dürfen je 0,05 mg/m<sup>3</sup> nicht überschreiten.
+
+### 117 Blei und Zink
+
+Die Emissionen von Blei und Zink sowie deren Verbindungen, angegeben als Metalle, dürfen als Summe 1 mg/m<sup>3</sup> nicht überschreiten.
+
+### 118 Dioxine und Furane
+
+Die Emissionen von polychlorierten Dibenzo-p-dioxinen (Dioxine) und Dibenzofuranen (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], dürfen 0,1 ng/m<sup>3</sup> nicht überschreiten.
+
+[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 119 Überwachung
+
+<sup>1</sup> Kontinuierlich zu messen und aufzuzeichnen ist der Gehalt im Abgas von:
+
+- a. Stickoxiden;
+- b. Schwefeloxiden;
+- c. gasförmigen organischen Stoffen;
+- d. Staub.
+
+<sup>2</sup> Wer Abfälle, die organische Verbindungen enthalten, als Rohmaterial in der Zementherstellung einsetzt, muss zusätzlich zu Absatz 1:
+
+- a. den Gehalt von Benzol im Abgas kontinuierlich messen und aufzeichnen;
+- b. jährlich kontrollieren, ob insbesondere die Emissionsgrenzwerte für Benzo(a)pyren und Dibenz(a,h)anthracen eingehalten sind.
+
+### 12 Anlagen zum Brennen von keramischen Erzeugnissen unter Verwendung von Ton
+
+### 121 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 18 Prozent (% vol).
+
+### 122 Fluorverbindungen
+
+<sup>1</sup> Die Emissionsbegrenzungen für Fluorverbindungen nach Anhang 1 Ziffer 5 und 6 gelten nicht.
+
+<sup>2</sup> Die Emissionen von Fluorverbindungen, angegeben als Fluorwasserstoff, dürfen 250 g/h nicht überschreiten.
+
+### 123 Stickoxide
+
+Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, bei einem Massenstrom von 2000 g/h oder mehr, mindestens aber auf 150 mg/m<sup>3</sup>.
+
+### 124 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben und dürfen 100 mg/m<sup>3</sup> nicht überschreiten.
+
+### 125 Verhältnis zu Ziffer 81
+
+Die Bestimmungen von Ziffer 81 sind anwendbar.
+
+### 13 Anlagen zur Herstellung von Glas
+
+### 131 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen mehr als 2 Tonnen Glas pro Jahr produziert werden.
+
+### 132 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf folgende Sauerstoffgehalte im Abgas:
+
+- a. bei flammenbeheizten Glasschmelzöfen 8 Prozent (% vol)
+- b. bei flammenbeheizten Hafenöfen 13 Prozent (% vol)
+
+### 133 Stickoxide
+
+<sup>1</sup> Die Emissionsbegrenzung für Stickoxide nach Anhang 1 Ziffer 6 gilt nicht.
+
+<sup>2</sup> Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber so weit, dass sie folgende Werte nicht überschreiten:
+
+- a. Hohlglas 2,5 kg pro Tonne produziertes Glas
+- b. übriges Glas 6,5 kg pro Tonne produziertes Glas
+
+### 134 …
+
+### 135 Schwefeloxide
+
+Die Emissionen von Schwefeloxiden aus dem Rohstoff, angegeben als Schwefeldioxid, dürfen 500 mg/m<sup>3</sup> nicht überschreiten.
+
+### 136 Verhältnis zu Ziffer 81
+
+Die Bestimmungen von Ziffer 81 sind anwendbar.
+
+### 14 Asphaltmischanlagen
+
+### 141 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 17 Prozent (% vol).
+
+### 142 Bauliche und betriebliche Anforderungen
+
+<sup>1</sup> Die Abgase des Mischers sind zu erfassen und einer Abgasreinigungsanlage zuzuführen.
+
+<sup>2</sup> Beim Befüllen der Bitumenlagertanks ist das Gaspendelverfahren anzuwenden.
+
+### 143 Staub
+
+Die staubförmigen Emissionen dürfen 20 mg/m<sup>3</sup> nicht überschreiten.
+
+### 144 Gasförmige organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gasförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben und dürfen 80 mg/m<sup>3</sup> nicht überschreiten.
+
+### 145 Stickoxide
+
+Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, dürfen 100 mg/m<sup>3</sup> nicht überschreiten.
+
+### 146 Kohlenmonoxid
+
+Die Emissionen von Kohlenmonoxid dürfen 500 mg/m<sup>3</sup> nicht überschreiten.
+
+### 147 Überwachung
+
+<sup>1</sup> Die periodische Messung und Kontrolle nach Artikel 13 Absatz 3 ist jährlich zu wiederholen.
+
+<sup>2</sup> Die Temperaturen der Mineralstoff- und der Asphaltgranulat-Trommeln sind kontinuierlich zu messen und aufzuzeichnen.
+
+### 2 Chemie
+
+### 21 Anlagen zur Herstellung von Schwefelsäure
+
+### 211 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen zur Herstellung von Schwefel-dioxid, Schwefeltrioxid, Schwefelsäure und Oleum.
+
+### 212 Schwefeldioxid
+
+<sup>1</sup> Die Emissionsbegrenzung für Schwefeldioxid nach Anhang 1 Ziffer 6 gilt nicht.
+
+<sup>2</sup> Die Emissionen von Schwefeldioxid dürfen 2,6 kg pro Tonne 100-prozentige Schwefelsäure nicht überschreiten.
+
+### 213 Schwefeltrioxid
+
+Die Emissionen von Schwefeltrioxid dürfen bei konstanten Gasbedingungen 60 mg/m<sup>3</sup>, in den übrigen Fällen 120 mg/m<sup>3</sup>, nicht überschreiten.
+
+### 22 Claus-Anlagen
+
+### 221 Schwefel
+
+Der Schwefel Emissionsgrad darf folgende Grenzwerte nicht überschreiten:
+
+<table>
+<tr><td>Bei Anlagen mit einer Produktionskapazität von</td><td>Grenzwert in Prozent (% Masse)</td></tr>
+<tr><td>weniger als 20 t/Tag</td><td>3,0</td></tr>
+<tr><td>20–50 t/Tag</td><td>2,0</td></tr>
+<tr><td>mehr als 50 t/Tag</td><td>0,5</td></tr>
+</table>
+
+### 222 Schwefelwasserstoff
+
+<sup>1</sup> Die Abgase sind einer Nachverbrennung zuzuführen.
+
+<sup>2</sup> Die Emissionen von Schwefelwasserstoff dürfen 10 mg/m<sup>3</sup> nicht überschreiten.
+
+### 23 Anlagen zur Herstellung von Chlor
+
+### 231 Chlor
+
+<sup>1</sup> Die Emissionen von Chlor dürfen 3 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> Bei Anlagen zur Herstellung von Chlor mit vollständiger Verflüssigung dürfen die Emissionen von Chlor 6 mg/m<sup>3</sup> nicht überschreiten.
+
+### 232 Quecksilber
+
+Bei der Chloralkali-Elektrolyse nach dem Amalgam-Verfahren dürfen die Emissionen von Quecksilber im Jahresmittel 1 g pro Tonne installierte Chlorkapazität nicht überschreiten.
+
+### 24 Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid
+
+<sup>1</sup> Die Abgase sind einer Abgasreinigung zuzuführen.
+
+<sup>2</sup> Die Emissionsbegrenzungen für 1,2-Dichlorethan und Vinylchlorid nach Anhang 1 gelten unabhängig von den dort festgelegten Massenströmen.
+
+### 25 …
+
+### 26 Herstellung und Konfektionierung von Pflanzenschutzmitteln
+
+<sup>1</sup> Wer Pflanzenschutzmittel herstellt oder konfektioniert, muss dies der kantonalen Umweltschutzfachstelle melden.
+
+<sup>2</sup> Die Behörde legt die vorsorglichen Emissionsbegrenzungen für Gesamtstaub nach Artikel 4 fest; Anhang 1 Ziffer 41 ist nicht anwendbar.
+
+### 27 Anlagen zur Herstellung von Russ
+
+Die staubförmigen Emissionen dürfen gesamthaft 20 mg/m<sup>3</sup> nicht überschreiten.
+
+### 28 Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder Elektrographit durch Brennen
+
+### 281 Organische Stoffe
+
+<sup>1</sup> Die Emissionen von organischen Stoffen, angegeben als Gesamtkohlenstoff, dürfen die Emissionsbegrenzungen nach den Ziffern 282–284 nicht überschreiten.
+
+<sup>2</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+### 282 Mischen und Formen
+
+Die Emissionen von organischen Stoffen im Abgas von Misch- und Formgebungsanlagen, in denen Pech, Teer oder sonstige flüchtige Binde- oder Fliessmittel bei erhöhter Temperatur verarbeitet werden, dürfen 100 mg/m<sup>3</sup> nicht überschreiten.
+
+### 283 Brennen
+
+<sup>1</sup> Die Emissionen von organischen Stoffen im Abgas von Einzelkammeröfen, Kammerverbundöfen und Tunnelöfen dürfen 50 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> Die Emissionen von gasförmigen organischen Stoffen im Abgas von Ringöfen für Graphitelektroden, Kohlenstoffelektroden und Kohlenstoffsteine dürfen 200 mg/m<sup>3</sup> nicht überschreiten.
+
+### 284 Imprägnieren
+
+Die Emissionen von organischen Stoffen im Abgas von Imprägnieranlagen, in denen Imprägniermittel auf Teerbasis verwendet werden, dürfen 50 mg/m<sup>3</sup> nicht überschreiten.
+
+### 285 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 29 Anlagen zur Herstellung von Salpetersäure
+
+### 291 Stickoxide
+
+Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 190 mg/m<sup>3</sup>.
+
+### 3 Mineralölindustrie
+
+### 31 Raffinerien
+
+### 311 Begriff und Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen zur Destillation oder Raffination von Erdöl und Erdölerzeugnissen sowie für andere Anlagen zur Herstellung von Kohlenwasserstoffen.
+
+### 312 Raffineriefeuerungen
+
+### 312.1 Bezugsgrössen
+
+<sup>1</sup> Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol).
+
+<sup>2</sup> Für die Anforderungen an die Emissionsbegrenzung der Raffineriefeuerungen ist die gesamte Feuerungswärmeleistung der Raffinerie massgebend.
+
+### 312.2 Schwefeloxide
+
+Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen folgende Emissionskonzentrationen nicht überschreiten:
+
+- a. bei einer Feuerungswärmeleistung bis 300 MW 350 mg/m<sup>3</sup>
+- b. bei einer Feuerungswärmeleistung von mehr als 300 MW 100 mg/m<sup>3</sup>
+
+### 312.3 Stickoxide
+
+Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, dürfen 300 mg/m<sup>3</sup> nicht überschreiten.
+
+### 313 Lagerung
+
+<sup>1</sup> Für die Lagerung von Rohölen und Verarbeitungsprodukten, die bei einer Temperatur von 20 °C einen Dampfdruck von mehr als 13 mbar aufweisen, sind Schwimmdachtanks, Festdachtanks mit Schwimmdecke, Festdachtanks mit Anschluss an die Raffineriegasleitung oder gleichwertige Massnahmen vorzusehen. Schwimmdachtanks müssen wirksame Randabdichtungen aufweisen.
+
+<sup>2</sup> Festdachtanks müssen eine Zwangsbeatmung aufweisen, und die anfallenden Gase müssen dem Gassammelsystem oder einer Nachverbrennung zugeführt werden, wenn:
+
+- a. Flüssigkeiten gelagert werden, die unter Lagerungsbedingungen Stoffe der Klasse 1 nach Anhang 1 Ziffer 7 oder Stoffe nach Anhang 1 Ziffer 8 emittieren können; und
+- b. die zu erwartenden Emissionen die in Anhang 1 angegebenen Massenströme übersteigen.
+
+### 314 Andere Emissionsquellen
+
+<sup>1</sup> Austretende organische Gase und Dämpfe sind mit einem Gassammelsystem zu erfassen. Sie sind zu verwerten, einer Gasreinigung zuzuführen, nachzuverbrennen oder abzufackeln. Diese Vorschrift gilt insbesondere für:
+
+- a. Druckentlastungs- und Entleerungseinrichtungen;
+- b. Prozessanlagen;
+- c. das Regenerieren von Katalysatoren;
+- d. Inspektionen und Reinigungsarbeiten;
+- e. Anfahr- und Abstellvorgänge; sowie
+- f. das Umfüllen von Roh-, Zwischen- und Fertigprodukten, die bei einer Temperatur von 20 °C einen Dampfdruck von mehr als 13 mbar aufweisen.
+
+<sup>2</sup> Entlastungseinrichtungen für den Katastrophen- und Brandfall müssen nicht in ein Gassammelsystem eingeleitet werden.
+
+### 315 Schwefelwasserstoff
+
+<sup>1</sup> Gase aus Entschwefelungsanlagen und anderen Quellen sind weiter zu verarbeiten, wenn sie gleichzeitig folgende Voraussetzungen erfüllen:
+
+- a. Volumengehalt an Schwefelwasserstoff über 0,4 Prozent
+- b. Massenstrom von Schwefelwasserstoff über 2 t/Tag
+
+<sup>2</sup> Die Emissionen von Schwefelwasserstoff in Gasen, die nicht weiterverarbeitet werden, dürfen 10 mg/m<sup>3</sup> nicht überschreiten.
+
+### 316 Prozesswasser und Ballastwasser
+
+<sup>1</sup> Bevor Prozesswasser oder überschüssiges Ballastwasser in ein offenes System eingeleitet wird, muss es entgast werden.
+
+<sup>2</sup> Die entstehenden Abgase sind durch Wäsche oder Verbrennung zu reinigen.
+
+### 32 Grosstankanlagen
+
+### 321 Begriff und Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Grosstankanlagen mit einem Fassungsvermögen von mehr als 500 m<sup>3</sup> pro Tank, die zur Lagerung von Produkten mit einem Dampfdruck von mehr als 1 mbar bei einer Temperatur von 20 °C bestimmt sind.
+
+### 322 Lagerung
+
+Für die Lagerung sind Festdachtanks mit Schwimmdecke oder Schwimmdachtanks mit wirksamen Randabdichtungen oder andere gleichwertige Massnahmen zur Emissionsminderung vorzusehen.
+
+### 33 Anlagen zum Umschlag von Benzin
+
+<sup>1</sup> Das Befüllen von Tankfahrzeugen, Kesselwagen oder ähnlichen Transportbehältern mit Motorenbenzin oder Flugbenzin muss mittels Untenbefüllung oder anderen gleichwertigen Massnahmen zur Emissionsminderung erfolgen.
+
+<sup>2</sup> Für Tankstellen sind die Emissionsbegrenzungen nach Anhang 1 Ziffern 7 und 8 nicht anwendbar.
+
+<sup>3</sup> Tankstellen sind so auszurüsten und zu betreiben, dass:
+
+- a. die bei der Belieferung der Tankstelle verdrängten organischen Gase und Dämpfe erfasst und in den Transportbehälter zurückgeführt werden (Gaspendelung); das Gaspendelsystem und die angeschlossenen Anlagen dürfen während des Gaspendelns im Normalbetrieb keine Öffnungen ins Freie aufweisen;
+- b. beim Betanken von Fahrzeugen mit genormten Tankeinfüllstutzen[^annex2-lvlu1-lvl3-lvl33-1] höchstens 10 Prozent der in der Verdrängungsluft enthaltenen organischen Stoffe emittiert werden; diese Anforderung gilt als erfüllt, wenn entsprechende Messresultate einer amtlichen Fachstelle vorliegen und wenn das Gaspendelsystem ordnungsgemäss installiert und betrieben wird.
+
+<sup>4</sup> Die Bestimmungen von Absatz 3 Buchstabe b gelten nicht beim Betanken mit Kleinabgabe-Geräten.
+
+[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331 Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 4 Metalle
+
+### 41 Giessereien
+
+### 411 Amine
+
+Die bei der Kernherstellung entstehenden Emissionen von Aminen dürfen 5 mg/m<sup>3</sup> nicht überschreiten.
+
+### 412 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 42 Kupolöfen
+
+### 421 Staub
+
+Die staubförmigen Emissionen dürfen gesamthaft 20 mg/m<sup>3</sup> nicht überschreiten.
+
+### 422 Kohlenmonoxid
+
+Die Emissionen von Kohlenmonoxid im Abgas dürfen bei Heisswindöfen mit nachgeschaltetem eigenbeheiztem Rekuperator 1000 mg/m<sup>3</sup> nicht überschreiten.
+
+### 423 Verhältnis zu Ziffer 81
+
+Die Bestimmungen von Ziffer 81 sind anwendbar.
+
+### 43 Aluminiumhütten
+
+### 431 Fluorverbindungen
+
+<sup>1</sup> Die Emissionsbegrenzungen für Fluorverbindungen nach Anhang 1 Ziffern 5 und 6 gelten nicht.
+
+<sup>2</sup> Die Emissionen von Fluorverbindungen, angegeben als Fluorwasserstoff, dürfen insgesamt 700 g pro Tonne produziertes Aluminium nicht überschreiten.
+
+<sup>3</sup> Die Emissionen von gasförmigen Fluorverbindungen, angegeben als Fluorwasserstoff, dürfen 250 g pro Tonne produziertes Aluminium nicht überschreiten.
+
+### 432 Beurteilung der Emissionen
+
+Für den Vergleich mit den Emissionsgrenzwerten werden die gemessenen Emissionen über eine Betriebsperiode von einem Monat gemittelt.
+
+### 44 Umschmelzanlagen für Nichteisenmetalle
+
+### 441 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von organischen Stoffen, angegeben als Gesamtkohlenstoff, dürfen 50 mg/m<sup>3</sup> nicht überschreiten.
+
+### 442 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 45 Verzinkungsanlagen
+
+### 451 Staub
+
+Die staubförmigen Emissionen dürfen gesamthaft 10 mg/m<sup>3</sup> nicht überschreiten.
+
+### 452 Ergänzende Bestimmungen für Feuerverzinkereien
+
+<sup>1</sup> Die Emissionsgrenzwerte beziehen sich auf eine Abluftmenge von 3000 m<sup>3</sup> je Quadratmeter Zinkbadoberfläche und Stunde.
+
+<sup>2</sup> Die Emissionen des Zinkbades sind durch Einhausungen, Hauben, Randabsaugungen oder ähnliche Massnahmen zu mindestens 80 Prozent zu erfassen.
+
+<sup>3</sup> Die Emissionen sind nur während der Tauchzeit zu messen. Die Tauchzeit beginnt jeweils beim ersten und endet mit dem letzten Kontakt des Verzinkungsgutes mit dem Verzinkungsbad.
+
+### 46 Anlagen zur Herstellung von Blei-Akkumulatoren
+
+### 461 Blei
+
+<sup>1</sup> Die Abgase der Anlagen sind zu erfassen und einer Entstaubungsanlage zuzuführen.
+
+<sup>2</sup> Die Emissionen von Blei dürfen 1 mg/m<sup>3</sup> nicht überschreiten.
+
+### 462 Schwefelsäure-Dämpfe
+
+<sup>1</sup> Schwefelsäure-Dämpfe, die bei der Formierung auftreten, sind zu erfassen und einer Abgasreinigungsanlage zuzuführen.
+
+<sup>2</sup> Die Emissionen von Schwefelsäure, angegeben als H<sub>2</sub>SO<sub>4</sub>, dürfen 1 mg/m<sup>3</sup> nicht überschreiten.
+
+### 463 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 47 Wärme- und Wärmebehandlungsöfen
+
+### 471 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Wärme- und Wärmebehandlungsöfen mit einer Feuerungswärmeleistung von mehr als 100 kW, die mit Gasbrennstoffen nach Anhang 5 Ziffer 4 Buchstaben a–c beheizt werden.
+
+### 472 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 5 Prozent (% vol).
+
+### 473 Stickoxide
+
+Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Werte nach dem folgenden Diagramm nicht überschreiten.
+
+Diagramm:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image1.png)
+
+### 474 Messungen
+
+Die Emissionen sind bei mindestens 80 Prozent Nennlast und bei der jeweils höchsten Betriebstemperatur zu messen.
+
+### 475 Verhältnis zu Ziffer 81
+
+Die Bestimmungen von Ziffer 81 sind anwendbar.
+
+### 48 Elektrostahlwerke
+
+### 481 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen zur Elektrostahlherstellung einschliesslich Stranggiessen mit einer Schmelzleistung von mehr als 2.5 Tonnen Stahl pro Stunde.
+
+### 482 Staub
+
+Die staubförmigen Emissionen dürfen gesamthaft 5 mg/m<sup>3</sup> nicht überschreiten.
+
+### 483 Dioxine und Furane
+
+Die in Elektrolichtbogenöfen entstehenden Emissionen polychlorierter Dibenzo-p-dioxine (Dioxine) und Dibenzofurane (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], dürfen 0.1 ng/m<sup>3</sup> nicht überschreiten.
+
+[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 5 Landwirtschaft und Lebensmittel
+
+### 51 Tierhaltung
+
+### 511 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen der bäuerlichen Tierhaltung und der Intensivtierhaltung.
+
+### 512 Mindestabstand
+
+Bei der Errichtung von Anlagen müssen die nach den anerkannten Regeln der Tierhaltung erforderlichen Mindestabstände zu bewohnten Zonen eingehalten werden. Als solche Regeln gelten insbesondere die Empfehlungen der Eidgenössischen Forschungsanstalt für Betriebswirtschaft und Landtechnik[^annex2-lvlu1-lvl5-lvl51-lvl512-1].
+
+[^annex2-lvlu1-lvl5-lvl51-lvl512-1]: Bezugsquelle: Forschungsanstalt Agroscope Reckenholz-Tänikon (ART), 8356 Ettenhausen.
+
+### 513 Lüftungsanlagen
+
+Die Lüftungsanlagen müssen den anerkannten Regeln der Lüftungstechnik entsprechen. Als solche gelten insbesondere die Empfehlungen der Schweizerischen Stallklima-Norm.[^annex2-lvlu1-lvl5-lvl51-lvl513-1]
+
+[^annex2-lvlu1-lvl5-lvl51-lvl513-1]: Bezugsquelle: Institut für Nutztierwissenschaften, ETH-Zentrum, 8092 Zürich.
+
+### 514 Ammoniak
+
+Die Behörde legt die vorsorglichen Emissionsbegrenzungen nach Artikel 4 fest; Anhang 1 Ziffer 62 gilt nicht. Das BAFU erlässt Empfehlungen.
+
+### 52 Räucheranlagen
+
+### 521 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen zum Räuchern von Fleisch, Wurstwaren und Fischen.
+
+### 522 Raucherzeugung
+
+Ziffer 81 ist nicht anwendbar.
+
+### 523 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von organischen Stoffen werden als Gesamtkohlenstoff angegeben. Sie dürfen folgende Werte nicht überschreiten:
+
+- a. beim Heissräuchern bei einem Massenstrom von 50 g/h oder mehr 50 mg/m<sup>3</sup>
+- b. beim Kalträuchern bei einem Massenstrom von 50 g/h bis 300 g/h 120 mg/m<sup>3</sup>
+- c. beim Kalträuchern bei einem Massenstrom von mehr als 300 g/h 50 mg/m<sup>3</sup>
+
+### 53 Anlagen zur Tierkörper-Verwertung und Kot-Trocknung
+
+### 531 Begriff und Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für:
+
+- a. Tierkörper-Verwertungsanstalten;
+- b. Einrichtungen, in denen Tierkörper, Tierkörper-Teile und Erzeugnisse tierischer Herkunft zur Verwertung oder Beseitigung in Tierkörper-Verwertungsanstalten gesammelt und gelagert werden;
+- c. Anlagen zum Schmelzen von tierischen Fetten;
+- d. Anlagen zur Herstellung von Gelatine, Hämoglobin sowie von Tierfutterprodukten;
+- e. Anlagen zur Trocknung von Kot.
+
+### 532 Bauliche und betriebliche Anforderungen
+
+<sup>1</sup> Prozessanlagen und Lager, bei denen sich Gerüche entwickeln können, sind in geschlossenen Räumen unterzubringen.
+
+<sup>2</sup> Geruchsintensive Abgase sind zu erfassen und einer Abgasreinigungsanlage zuzuführen.
+
+<sup>3</sup> Roh- und Zwischenprodukte sind in verschlossenen Behältern zu lagern.
+
+### 533 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 54 Anlagen zum Trocknen von Grünfutter
+
+### 541 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Gras, Maispflanzen und ähnliche Grünfutter sowie Trester, Kartoffeln und Zuckerrübenschnitzel getrocknet werden.
+
+### 542 Staub
+
+Die staubförmigen Emissionen sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 150 mg/m<sup>3</sup>.
+
+### 543 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 55 …
+
+### 56 Kaffee- und Kakao-Röstereien
+
+### 561 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben. Sie dürfen bei Anlagen mit einer Röstleistung von mehr als 100 kg Rohprodukt pro Stunde folgende Werte nicht überschreiten:
+
+- a. bei Anlagen mit einer Röstleistung bis 750 kg/h 150 mg/m<sup>3</sup>
+- b. bei Anlagen mit einer Röstleistung von mehr als 750 kg/h 50 mg/m<sup>3</sup>
+
+### 562 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 6 Beschichten und Bedrucken
+
+### 61 Anlagen zum Beschichten und Bedrucken mit organischen Stoffen
+
+### 611 Geltungsbereich
+
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für:
+
+- a. Anlagen zum Beschichten und Bedrucken von Oberflächen mit organischen Stoffen wie Farben, Lacke oder Kunststoffe;
+- b. Anlagen zum Imprägnieren.
+
+<sup>2</sup> Sie gelten sowohl für die Applikations- und Abdunstzone als auch für die zugehörigen Trocknungs- und Einbrennanlagen.
+
+### 612 Staub
+
+Die staubförmigen Emissionen dürfen gesamthaft folgende Werte nicht überschreiten:
+
+- a. beim Spritzlackieren 5 mg/m<sup>3</sup>
+- b. beim Pulverlackieren 15 mg/m<sup>3</sup>
+
+### 613 Lösemittel-Emissionen
+
+<sup>1</sup> Für die gas- und dampfförmigen organischen Emissionen von Stoffen der Klassen 2 und 3 nach Anhang 1 Ziffer 72 gelten die Emissionsbegrenzungen nach Anhang 1 Ziffer 71 nicht.
+
+<sup>2</sup> Diese Emissionen werden als Gesamtkohlenstoff angegeben und dürfen bei einem Massenstrom von 3 kg/h oder mehr gesamthaft 150 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>3</sup> Werden Farben verwendet, die als Lösemittel neben Wasser ausschliesslich Ethanol bis zu 15 Prozent (% Masse) enthalten, so dürfen die Emissionen von Ethanol bei einem Massenstrom von 3 kg/h oder mehr 300 mg/m<sup>3</sup> nicht überschreiten.
+
+### 614 Abgase von Trocknungs- und Einbrennanlagen
+
+<sup>1</sup> Für Trocknungs- und für Einbrennanlagen, in denen bei Temperaturen von mehr als 120 °C getrocknet oder eingebrannt wird, gelten die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 nicht.
+
+<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben und dürfen bei einem Massenstrom von mehr als 250 g/h folgende Werte nicht überschreiten:
+
+- a. für Rollenoffset-Druckanlagen 20 mg/m3
+- b. für alle übrigen Anlagen 50 mg/m3
+
+### 615 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 7 Abfälle
+
+### 71 Anlagen zum Verbrennen von Siedlungs- und Sonderabfällen
+
+### 711 Geltungsbereich und Begriffe
+
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Siedlungs- oder Sonderabfälle verbrannt oder thermisch zersetzt werden. Ausgenommen sind die Anlagen zum Verbrennen von Altholz, Papier- und ähnlichen Abfällen (Ziff. 72), von Sulfit-Ablauge aus der Zellstoffherstellung (Ziff. 73) sowie Zementöfen (Ziff. 11).
+
+<sup>2</sup> Siedlungsabfälle sind die aus Haushalten stammenden Abfälle sowie andere Abfälle vergleichbarer Zusammensetzung. Dazu gehören insbesondere:
+
+- a. Gartenabfälle;
+- b. Marktabfälle;
+- c. Strassenkehricht;
+- d. Büroabfälle, Verpackungen und Küchenabfälle aus dem Gastgewerbe;
+- e. aufbereitete Siedlungsabfälle;
+- f. Tierkörper und Fleischabfälle;
+- g. Schlamm aus kommunalen Abwasserreinigungsanlagen;
+- h. Abfallgase nach Anhang 5 Ziffer 41 Absatz 2;
+- i. Abfälle nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe b.
+
+<sup>3</sup> Sonderabfälle sind Abfälle, die im Abfallverzeichnis, das nach Artikel 2 der Verordnung vom 22. Juni 2005[^annex2-lvlu1-lvl7-lvl71-lvl711-1] über den Verkehr mit Abfällen (VeVA) erlassen wurde, als Sonderabfälle bezeichnet sind.
+
+[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+
+### 712 Verhältnis zu Anhang 1
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Soweit Emissionsbegrenzungen nach Anhang 1 gültig sind, gelten sie unabhängig von den dort festgelegten Massenströmen.
+
+### 713 Bezugsgrösse und Beurteilung der Emissionen
+
+<sup>1</sup> Die Emissionsgrenzwerte beziehen sich auf folgende Sauerstoffgehalte im Abgas:
+
+- a. bei Anlagen zum Verbrennen von flüssigen Abfällen 3 Prozent (% vol)
+- b. bei Anlagen zum Verbrennen von Abfallgasen allein oder zusammen mit flüssigen Abfällen 3 Prozent (% vol)
+- c. bei Anlagen zum Verbrennen von festen Abfällen alleinoder zusammen mit flüssigen Abfällen oder Abfallgasen 11 Prozent (% vol)
+
+<sup>2</sup> Für die Beurteilung der Emissionen sind die ermittelten Werte über eine Betriebsperiode von mehreren Stunden zu mitteln.
+
+### 714 Emissionsgrenzwerte
+
+<sup>1</sup> Die Emissionen dürfen folgende Werte nicht überschreiten:
+
+- a. Staub 10 mg/m<sup>3</sup>
+- b. Blei und Zink sowie deren Verbindungen, angegeben als Metalle, als Summe 1 mg/m<sup>3</sup>
+- c. Quecksilber und Cadmium und deren Verbindungen, angegeben als Metalle, je 0,05 mg/m<sup>3</sup>
+- d. Schwefeloxide, angegeben als Schwefeldioxid 50 mg/m<sup>3</sup>
+- e. Stickoxide (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, bei einem Massen- strom von 2,5 kg/h und mehr 80 mg/m<sup>3</sup>
+- f. Gasförmige anorganische Chlorverbindungen, angegeben als Chlorwasserstoff 20 mg/m<sup>3</sup>
+- g. Gasförmige anorganische Fluorverbindungen, angegeben als Fluorwasserstoff 2 mg/m<sup>3</sup>
+- h. Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak 5 mg/m<sup>3</sup>
+- i. Gasförmige organische Stoffe, angegeben als Gesamtkohlenstoff 20 mg/m<sup>3</sup>
+- k. Kohlenmonoxid 50 mg/m<sup>3</sup>
+- l. Polychlorierte Dibenzo-p-dioxine (Dioxine) und Dibenzofurane (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl7-lvl71-lvl714-1] 0,1 ng/m<sup>3</sup>
+
+<sup>2</sup> Für Anlagen mit einem Gehalt an Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, von 1000 mg/m<sup>3</sup> oder mehr im Rohgas, kann die Behörde abweichend von Absatz 1 Buchstabe h einen milderen Emissionsgrenzwert für Ammoniak und Ammoniumverbindungen festlegen.
+
+[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 715 …
+
+### 716 Überwachung
+
+<sup>1</sup> Es sind kontinuierlich zu messen und aufzuzeichnen:
+
+- a. die Temperatur der Abgase im Bereich der Ausbrandzone sowie im Kamin;
+- b. der Sauerstoffgehalt der Abgase nach dem Austritt aus der Ausbrandzone;
+- c. der Kohlenmonoxidgehalt der Abgase.
+
+<sup>2</sup> Der Betrieb der Abgasreinigungsanlage muss durch Messung einer Emissionsgrösse oder einer geeigneten Betriebsgrösse, wie Abgastemperatur, Druckabfall oder Wasserdurchsatz des Rauchgaswäschers, kontinuierlich überwacht werden.
+
+### 717 Lagerung
+
+Geruchsintensive Abfälle und Abfälle, die gefährliche Dämpfe entwickeln, sind in geschlossenen Bunkern, Räumen oder Tankanlagen zu lagern. Die Abluft ist abzusaugen und zu reinigen.
+
+### 718 Verbot der Abfallverbrennung in Kleinanlagen
+
+<sup>1</sup> Siedlungs- und Sonderabfälle dürfen nicht in Anlagen mit einer Feuerungswärmeleistung von weniger als 350 kW verbrannt werden.
+
+<sup>2</sup> Das Verbot gilt nicht für Sonderabfälle aus Krankenhäusern, die aufgrund ihrer Zusammensetzung nicht als Siedlungsabfälle entsorgt werden können.
+
+### 719 Verbrennung besonders umweltgefährdender Abfälle
+
+<sup>1</sup> Bevor der Inhaber einer Anlage Abfälle verbrennt, bei denen die Emissionen besonders umweltgefährdend sein können, muss er durch Vorversuche mit geringen Mengen die zu erwartenden Emissionen ermitteln und das Ergebnis der Behörde mitteilen.
+
+<sup>2</sup> Als besonders umweltgefährdend gelten Emissionen, die gleichzeitig hochtoxisch und schwer abbaubar sind, wie polyhalogenierte aromatische Kohlenwasserstoffe.
+
+### 72 Anlagen zum Verbrennen von Altholz, Papier- und ähnlichen Abfällen
+
+### 721 Geltungsbereich
+
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Abfälle aus folgenden Arten von Stoffen allein oder zusammen mit Holzbrennstoffen nach Anhang 5 verbrannt oder thermisch zersetzt werden:
+
+- a. Altholz nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe a;
+- b. Papier und Karton;
+- c. andere Abfälle, bei deren Verbrennung ähnliche Emissionen auftreten wie bei Abfällen nach Buchstaben a und b.
+
+<sup>2</sup> Werden solche Abfälle zusammen mit Abfällen nach Ziffer 711 verbrannt, so gelten die Bestimmungen von Ziffer 71.
+
+<sup>3</sup> Die Bestimmungen dieser Ziffer gelten nicht für Zementöfen (Ziff. 11).
+
+### 722 Bezugsgrösse
+
+Die Emissionswerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 11 Prozent (% vol).
+
+### 723 Staub
+
+Die staubförmigen Emissionen dürfen folgende Werte nicht überschreiten:
+
+- a. bei Anlagen mit einer Feuerungswärmeleistung bis 10 MW: 20 mg/m<sup>3</sup>
+- b. bei Anlagen mit einer Feuerungswärmeleistung über 10 MW: 10 mg/m<sup>3</sup>
+
+### 724 Blei und Zink
+
+Die Emissionen von Blei und Zink dürfen zusammen 5 mg/m<sup>3</sup> nicht überschreiten.
+
+### 725 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gasförmigen organischen Stoffen, angegeben als Gesamtkohlenstoff, dürfen 50 mg/m<sup>3</sup> nicht überschreiten.
+
+### 726 Kohlenmonoxid und Stickoxide
+
+<sup>1</sup> Die Emissionen von Kohlenmonoxid dürfen 250 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>1bis</sup> Bei Anlagen mit einer Feuerungswärmeleistung über 10 MW dürfen die Emissionen von Kohlenmonoxid 150 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> Bei Anlagen mit einer Feuerungswärmeleistung über 10 MW dürfen die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid 150 mg/m<sup>3</sup> nicht überschreiten.
+
+### 727 Verbrennungsregelung
+
+Die Anlage muss mit einer automatischen Regelung für die Feuerungsführung betrieben werden.
+
+### 728 Verbot der Abfallverbrennung in Kleinanlagen
+
+Abfälle nach Ziffer 721 dürfen nicht in Anlagen mit einer Feuerungswärmeleistung von weniger als 350 kW verbrannt werden.
+
+### 73 Anlagen zum Verbrennen von Sulfit-Ablauge aus der Zellstoffherstellung
+
+### 731 Schwefeloxide
+
+<sup>1</sup> Die Emissionsbegrenzung für Schwefeloxide nach Anhang 1 Ziffer 6 gilt nicht.
+
+<sup>2</sup> Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen 4,0 kg pro Tonne verbrannter Ablauge nicht überschreiten.
+
+### 732 Beurteilung der Emissionen
+
+Für den Vergleich mit den Emissionsgrenzwerten werden die gemessenen Emissionen über eine Betriebsperiode von 24 Stunden gemittelt.
+
+### 74 Anlagen zum Verbrennen von biogenen Abfällen und Erzeugnissen der Landwirtschaft
+
+### 741 Geltungsbereich
+
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen feste biogene Abfälle und Erzeugnisse der Landwirtschaft allein oder zusammen mit Holzbrennstoffen nach Anhang 5 verbrannt oder thermisch zersetzt werden. Hofdünger sowie andere geruchsintensive Abfälle und Erzeugnisse dürfen in solchen Anlagen weder verbrannt noch thermisch zersetzt werden.
+
+<sup>2</sup> Werden solche Abfälle und Erzeugnisse zusammen mit Abfällen nach Ziffer 711 oder 721 verbrannt, so gelten die Bestimmungen von Ziffer 71 oder Ziffer 72.
+
+<sup>3</sup> Werden solche Abfälle und Erzeugnisse zusammen mit anderen Brennstoffen nach Anhang 5 verbrannt, gilt der Mischgrenzwert nach Anhang 3 Ziffer 82.
+
+<sup>4</sup> Die Bestimmungen dieser Ziffer gelten nicht für Zementöfen (Ziff. 11).
+
+### 742 Emissionsgrenzwerte
+
+Die Emissionen dürfen folgende Werte nicht überschreiten:
+
+<table>
+<tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="6">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="4"></th><th></th><th>bis 1 MW</th><th>über 1 MW bis 10 MW</th><th colspan="4">über 10 MW</th></tr>
+<tr><td>– Bezugsgrösse:</td><td colspan="4">[tab]</td><td>[tab]</td><td>[tab]</td><td colspan="4">[tab]</td></tr>
+<tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td colspan="4">% vol</td><td>13</td><td>11</td><td colspan="4">11</td></tr>
+<tr><td>– Feststoffe insgesamt:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td colspan="4">10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td colspan="4">150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)<sup>1</sup></td><td colspan="4">mg/m<sup>3</sup></td><td>250</td><td>250</td><td colspan="4">150</td></tr>
+<tr><td colspan="8"><sup>1</sup> Bei einem Massenstrom von 2500 g/h oder mehr</td><td></td><td></td><td></td></tr>
+</table>
+
+### 743 Verbot der Verbrennung in Kleinanlagen
+
+Feste biogene Abfälle und Erzeugnisse der Landwirtschaft nach Ziffer 741 dürfen nicht in Anlagen mit einer Feuerungswärmeleistung von weniger als 70 kW verbrannt werden.
+
+### 8 Weitere Anlagen
+
+### 81 Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden
+
+<sup>1</sup> Es dürfen nur Brennstoffe nach Anhang 5 verwendet werden.
+
+<sup>2</sup> Für die Emissionen von Schwefeloxiden aus dem Brennstoff gilt Anhang 1 Ziffer 6 nicht. Wird Kohle oder Heizöl «Mittel» oder «Schwer» verwendet, so müssen die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, so weit begrenzt werden, dass sie nicht höher sind als die ungeminderten Emissionen bei der Verwendung einer Brennstoffqualität mit einem Schwefelgehalt von 1,0 Prozent (% Masse).
+
+<sup>3</sup> Für die Emissionen von Schwefeloxiden aus den behandelten Gütern gilt Anhang 1 Ziffer 6.
+
+### 82 Stationäre Verbrennungsmotoren
+
+### 821 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 5 Prozent (% vol).
+
+### 822 Brenn- und Treibstoffe
+
+Stationäre Verbrennungsmotoren dürfen nur mit Gasbrenn- und Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 oder mit flüssigen Brenn- und Treibstoffen nach Anhang 5 betrieben werden, mit Ausnahme von Heizöl «Mittel» und «Schwer».
+
+### 823 Feststoffe
+
+<sup>1</sup> Die staubförmigen Emissionen dürfen 10 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> Für Verbrennungsmotoren von Notstromgruppen gilt Ziffer 827 Absatz 2.
+
+### 824 Stickoxide und Kohlenmonoxid
+
+<sup>1</sup> Die Emissionen von stationären Verbrennungsmotoren dürfen folgende Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th></th><th></th><th colspan="3">Feuerungswärmeleistung</th><th></th><th></th></tr>
+<tr><th></th><th></th><th>bis 100 kW</th><th>über 100 kW</th><th colspan="3">über 1 MW</th></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>1300</td><td>650</td><td colspan="3">300</td></tr>
+<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>250</td><td>150</td><td colspan="3">100</td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>400</td><td>250</td><td colspan="3">100</td></tr>
+<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>400</td><td>250</td><td colspan="3">250</td></tr>
+</table>
+
+<sup>2</sup> Wird ein stationärer Verbrennungsmotor mit einer Entstickungsanlage betrieben, so dürfen die Emissionen von Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak, 30 mg/m<sup>3</sup> nicht überschreiten.
+
+### 825 Prüfstände
+
+Für Prüfstände, auf denen Verbrennungsmotoren getestet werden, legt die Behörde die vorsorglichen Emissionsbegrenzungen nach Artikel 4 fest; Anhang 1 und Anhang 2 Ziffern 821–824 gelten nicht.
+
+### 826 Messung und Kontrolle
+
+<sup>1</sup> Die periodische Messung und Kontrolle nach Artikel 13 Absatz 3 ist alle zwei Jahre zu wiederholen.
+
+<sup>2</sup> Für Verbrennungsmotoren von Notstromgruppen gilt Ziffer 827 Absatz 3.
+
+### 827 Notstromgruppen
+
+<sup>1</sup> Für Verbrennungsmotoren von Notstromgruppen, die während höchstens 50 Stunden pro Jahr betrieben werden, legt die Behörde die vorsorglichen Emissionsbegrenzungen nach Artikel 4 fest; Anhang 1 Ziffer 6, Anhang 2 Ziffer 824 sowie Anhang 6 gelten nicht.
+
+<sup>2</sup> Die staubförmigen Emissionen dürfen 50 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>3</sup> Die periodische Messung und Kontrolle nach Artikel 13 Absatz 3 ist alle sechs Jahre zu wiederholen.
+
+### 83 Gasturbinen
+
+### 831 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 15 Prozent (% vol).
+
+### 832 Brennstoffe
+
+Gasturbinen dürfen nur mit Gasbrenn- und Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 oder mit flüssigen Brenn- und Treibstoffen nach Anhang 5 betrieben werden, mit Ausnahme von Heizöl «Mittel» und «Schwer».
+
+### 833 Russzahl
+
+Bei Einsatz von flüssigen Brenn- oder Treibstoffen dürfen die Emissionen von Russ die Russzahl 2 (Anhang 1 Ziff. 22) nicht überschreiten.
+
+### 834 Kohlenmonoxid
+
+Die Emissionen von Kohlenmonoxid dürfen folgende Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th></th><th></th><th colspan="2">Feuerungswärmeleistung</th><th></th></tr>
+<tr><th></th><th></th><th>bis 40 MW</th><th colspan="2">über 40 MW</th></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 oder flüssigen Brenn- oder Treibstoffen</td><td></td><td>100</td><td colspan="2">35</td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>240</td><td colspan="2">35</td></tr>
+</table>
+
+### 835 Schwefeloxide
+
+Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen bei einem Massenstrom von 2,5 kg/h oder mehr 120 mg/m<sup>3</sup> nicht überschreiten.
+
+### 836 Stickoxide und Ammoniak
+
+<sup>1</sup> Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, dürfen folgende Grenzwerte nicht überschreiten:
+
+<table>
+<tr><td></td><td></td><td colspan="2">Feuerungswärmeleistung</td><td></td></tr>
+<tr><td></td><td></td><td>bis 40 MW</td><td colspan="2">über 40 MW</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>40</td><td colspan="2">20</td></tr>
+<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>50</td><td colspan="2">40</td></tr>
+</table>
+
+<sup>2</sup> Wird eine Gasturbine mit einer Entstickungsanlage betrieben, dürfen die Emissionen von Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak, 10 mg/m<sup>3</sup> nicht überschreiten.
+
+### 837 Prüfstände und Notstromgruppen
+
+<sup>1</sup> Für Prüfstände, auf denen Gasturbinen getestet werden, legt die Behörde die vorsorglichen Emissionsbegrenzungen nach Artikel 4 fest; Anhang 1 und Anhang 2 Ziffern 831–836 gelten nicht.
+
+<sup>2</sup> Für Gasturbinen von Notstromgruppen, die während höchstens 50 Stunden pro Jahr betrieben werden, legt die Behörde die vorsorglichen Emissionsbegrenzungen nach Artikel 4 fest; Anhang 1 und Anhang 2 Ziffern 833, 834 und 836 gelten nicht.
+
+### 84 Anlagen zur Herstellung von Spanplatten
+
+### 841 Geltungsbereich
+
+Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Spanplatten im Trockenprozess hergestellt werden.
+
+### 842 Staub
+
+Die staubförmigen Emissionen dürfen folgende Werte nicht überschreiten:
+
+- a. im Abgas von Spänetrocknern 50 mg/m<sup>3</sup>
+- b. in Abgasen von Schleifmaschinen 10 mg/m<sup>3</sup>
+
+### 843 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen werden, gemessen bei einer Temperatur von 150 °C, als Gesamtkohlenstoff angegeben.
+
+<sup>3</sup> Diese Emissionen sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 350 g pro Tonne Holzeinsatz (absolut trocken).
+
+### 844 Verhältnis zu Ziffer 81
+
+Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+### 85 Textilreinigung
+
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Textilreinigungsanlagen, die mit halogenierten Kohlenwasserstoffen betrieben werden.
+
+<sup>2</sup> Die Beladetüre einer Textil-Reinigungsmaschine muss durch eine automatische Sicherung so lange verriegelt bleiben, bis die Konzentration an gas- und dampfförmigen organischen Stoffen in der Maschinenluft 2 g/m<sup>3</sup> unterschreitet
+
+<sup>3</sup> Die für die Verriegelung massgebende Konzentration nach Absatz 2 muss im Innern der Maschine im Bereich der Beladetüre kontinuierlich messtechnisch überwacht werden.
+
+<sup>4</sup> Das Reinigungsgut muss vor der Entnahme aus der Maschine eine Temperatur von mindestens 35 °C aufweisen.
+
+<sup>5</sup> Wird Maschinenabluft abgesaugt, so muss diese mit einem Aktivkohlefilter oder gleichwertigen Massnahmen gereinigt werden.
+
+<sup>6</sup> Die Raumluft muss so abgesaugt werden, dass in den Betriebsräumen stets ein Unterdruck herrscht.
+
+### 86 Krematorien
+
+### 861 Organische Stoffe
+
+<sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen, angegeben als Gesamtkohlenstoff, dürfen 20 mg/m<sup>3</sup> nicht überschreiten.
+
+### 862 Kohlenmonoxid
+
+Die Emissionen von Kohlenmonoxid dürfen 50 mg/m<sup>3</sup> nicht überschreiten.
+
+### 87 Anlagen zur Oberflächenbehandlung
+
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen die Oberfläche von Gegenständen und Erzeugnissen aus Metall, Glas, Keramik, Kunststoff, Gummi oder anderen Stoffen mit halogenierten organischen Stoffen behandelt werden, die bei einem Druck von 1013 mbar einen Siedepunkt von weniger als 150 ºC aufweisen.
+
+<sup>2</sup> Anlagen zur Oberflächenbehandlung sind wie folgt auszurüsten und zu betreiben:
+
+- a. Die Gegenstände und Erzeugnisse müssen in einem Gehäuse behandelt werden, das mit Ausnahme der Öffnungen, die der Absaugung von Abgasen dienen, geschlossen sind.
+- b. Durch eine automatische Verriegelung ist sicherzustellen, dass die Gegenstände oder Erzeugnisse erst entnommen werden können, wenn die Konzentration von halogenierten organischen Stoffen von 1 g/m<sup>3</sup> im Entnahmebereich erreicht oder unterschritten ist.
+- c. Abgesaugte Abgase müssen in einem Abscheider gereinigt werden. Dabei dürfen die Emissionen von halogenierten organischen Stoffen nach Anhang 1 Ziffer 72 einen Massenstrom von 100 g/h und die Emissionen von halogenierten Kohlenwasserstoffen nach Anhang 1 Ziffer 83 einen Massenstrom von 25 g/h nicht überschreiten. Die Emissionsbegrenzungen von Anhang 1 Ziffern 7 und 8 gelten nicht.
+- d. Werden halogenierte organische Stoffe in die Anlage eingefüllt oder aus der Anlage entnommen, so müssen die Emissionen mit einer Gaspendelung oder durch gleichwertige Massnahmen vermindert werden.
+
+<sup>3</sup> Können bei einer Anlage die Anforderungen nach Absatz 2 Buchstaben a und b nicht eingehalten werden, insbesondere weil die behandelten Gegenstände und Erzeugnisse sperrig sind, so müssen die Emissionen durch Massnahmen wie Kapselung, Abdichtung, Abscheidung aus der Anlagenabluft, Luftschleusen oder Absaugung so weit vermindert werden, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.
+
+### 88 Baustellen
+
+<sup>1</sup> Die Emissionen von Baustellen sind insbesondere durch geeignete Betriebsabläufe so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist. Dabei müssen die Art, Grösse und Lage der Baustelle sowie die Dauer der Bauarbeiten berücksichtigt werden. Das BAFU erlässt Richtlinien.
+
+<sup>2</sup> Die Emissionsgrenzwerte nach Anhang 1 gelten nicht für Baumaschinen und Baustellen.
+
+Anhang 3*[^t-3]*
+
+(Art. 3 Abs. 2 Bst. b)
+
+## Ergänzende und abweichende Emissionsbegrenzungen für Feuerungsanlagen
+
+[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
+
+### 1 Geltungsbereich
+
+<sup>1</sup> Die Bestimmungen dieses Anhangs gelten für Feuerungsanlagen, die folgenden Zwecken dienen:
+
+- a. Raumheizung;
+- b. Erzeugung von Prozesswärme, einschliesslich Backwärme für gewerbliche Nutzung;
+- c. Erzeugung von Warm- oder Heisswasser;
+- d. Dampferzeugung.
+
+<sup>2</sup> Sie gelten nicht für Feuerungsanlagen, in denen Güter durch die unmittelbare Berührung mit Feuerungsabgasen behandelt werden.
+
+### 2 Allgemeine Bestimmungen
+
+### 21 Brennstoffe
+
+In Feuerungsanlagen nach Ziffer 1 dürfen nur Brennstoffe nach Anhang 5 verbrannt werden.
+
+### 22 Feuerungskontrolle
+
+Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen werden:
+
+- a. Feuerungen, die im Kalenderjahr weniger als 100 Stunden betrieben werden;
+- b. Feuerungen mit einer Feuerungswärmeleistung bis 12 kW, die ausschliesslich zur Heizung von Einzelräumen dienen;
+- [tab] c. und d. …
+- e. Einzelraumfeuerungen für Kohle;
+- f. Einzelraumfeuerungen für feste Brennstoffe, sofern sie ausschliesslich mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 betrieben werden.
+
+### 23 Messung und Beurteilung der Emissionen
+
+<sup>1</sup> Die Emissionen sind bei jeder Einzelfeuerung im stationären Zustand in denjenigen Lastbereichen zu messen, welche für die Beurteilung wichtig sind. In der Regel sind dies mindestens der oberste und der unterste Lastpunkt, in welchen die Anlage unter üblichen Betriebsbedingungen betrieben wird.
+
+<sup>2</sup> Für Anlagen, die mit Russblasen oder ähnlichen Reinigungsprozessen betrieben werden, sind die Staubemissionen über eine halbe Stunde zu messen und zu beurteilen. Die Messung muss die Reinigungsphase einschliessen.
+
+### 3 Besondere Vorschriften für Feuerungsanlagen mit mehreren Einzelfeuerungen
+
+<sup>1</sup> Bilden mehrere Einzelfeuerungen zusammen eine betriebliche Einheit, so ist für die Emissionsbegrenzung jeder Einzelfeuerung die Feuerungswärmeleistung (Anh. 1 Ziff. 24) der ganzen betrieblichen Einheit (gesamte Feuerungswärmeleistung) massgebend.
+
+<sup>2</sup> Als gesamte Feuerungswärmeleistung gilt die Summe der Feuerungswärmeleistungen aller Einzelfeuerungen der betrieblichen Einheit.
+
+<sup>3</sup> Werden mehrere Einzelfeuerungen einer betrieblichen Einheit zum Zweck der Abdeckung eines variablen Wärme- oder Dampfbedarfs in wechselnder Konstellation betrieben, so ist für die Festlegung der Emissionsbegrenzungen in der Regel von den Feuerungswärmeleistungen der Einzelfeuerungen auszugehen.
+
+### 4 Ölfeuerungen
+
+### 41 Feuerungen für Heizöl «Extra leicht»
+
+### 411 Emissionsgrenzwerte
+
+<sup>1</sup> Die Emissionen von Feuerungen, welche mit Heizöl «Extra leicht» betrieben werden, dürfen folgende Werte nicht überschreiten:
+
+<table>
+<tr><th>Feuerungen für Heizöl «Extra leicht»</th><th></th></tr>
+<tr><th>– Bezugsgrösse: Die Grenzwerte für die gasförmigen Schadstoffe beziehen sich auf einen Sauerstoffgehalt im Abgas von</th><th>3 % vol</th></tr>
+<tr><th>– Russzahl</th><th>1</th></tr>
+<tr><th>– Kohlenmonoxid (CO)</th><th>80 mg/m<sup>3</sup></th></tr>
+<tr><th>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid</th><th></th></tr>
+<tr><th>a. Hellstrahler und Dunkelstrahler</th><th>200 mg/m<sup>3</sup></th></tr>
+<tr><th>b. Anlagen mit einer Heizmediumtemperatur über 110 °C</th><th>150 mg/m<sup>3</sup></th></tr>
+<tr><th>c. Übrige Anlagen</th><th>120 mg/m<sup>3</sup></th></tr>
+<tr><th>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
+<tr><th colspan="2">Hinweise: <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</th></tr>
+</table>
+
+<sup>2</sup> Die Emissionen von Schwefeloxiden sind durch den Grenzwert für den Schwefelgehalt nach Anhang 5 Ziffer 11 begrenzt. Die Emissionsbegrenzungen nach Anhang 1 Ziffer 6 für Schwefeloxide gelten nicht.
+
+<sup>3</sup> Abweichend von Absatz 1 dürfen bei Anlagen mit einer Feuerungswärmeleistung über 300 MW die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, 100 mg/m<sup>3</sup> nicht überschreiten.
+
+### 412 Ergänzende Bestimmungen über die Stickoxid-Emissionen
+
+<sup>1</sup> Für Feuerungen mit einer Heizmediumtemperatur über 150 °C, bei denen die Einhaltung des Stickoxid-Grenzwertes von 150 mg/m<sup>3</sup> nach Ziffer 411 technisch oder betrieblich nicht möglich oder wirtschaftlich nicht tragbar ist, kann die Behörde mildere Grenzwerte festlegen. Die Emissionen an Stickoxiden, angegeben als Stickstoffdioxid, dürfen jedoch 250 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> und <sup>3</sup> …
+
+### 413 …
+
+### 414 Energetische Anforderungen
+
+<sup>1</sup> Die Abgasverluste von Heiz- und Dampfkesseln dürfen folgende Werte nicht überschreiten:
+
+- a. bei Gebläsebrennern mit einstufigem Brennerbetrieb und bei Ölverdampfungsbrennern 7 Prozent
+- b.
+
+  bei Gebläsebrennern mit zweistufigem Brennerbetrieb:
+
+  - 1\. beim Betrieb der ersten Brennerstufe 6 Prozent
+  - 2\. beim Betrieb der zweiten Brennerstufe 8 Prozent
+
+<sup>1bis</sup> Die Abgasverluste von Heizkesseln zur Raumwärmeerzeugung oder Wassererwärmung, die ab dem 1. Januar 2019 in Betrieb genommen werden, dürfen 4 Prozent nicht überschreiten.
+
+<sup>2</sup> Bei Heiz- und Dampfkesseln mit einer Absicherungstemperatur wärmeträgerseitig von über 110 °C, bei denen die Anforderungen nach Absatz 1 technisch oder betrieblich nicht möglich oder wirtschaftlich nicht tragbar sind, kann die Behörde mildere Grenzwerte festlegen.
+
+### 415 Verwendung von Heizöl «Extra leicht Euro»
+
+Heizöl «Extra leicht Euro» darf nicht in Anlagen oder betrieblichen Einheiten verwendet werden, die für diesen Brennstoff eine Feuerungswärmeleistung von weniger als 5 MW haben.
+
+### 42 Feuerungen für Heizöl «Mittel» und «Schwer»
+
+### 421 Emissionsgrenzwerte
+
+<sup>1</sup> Die Emissionen von Feuerungen, die mit Heizöl «Mittel» oder «Schwer» betrieben werden, dürfen folgende Werte nicht überschreiten:
+
+<table>
+<tr><th></th><th></th><th colspan="4">Feuerungswärmeleistung</th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>über 5 MW bis 50 MW</th><th>über 50 MW bis 100 MW</th><th>über 100 MW bis 300 MW</th><th colspan="4">über 300 MW</th></tr>
+<tr><td>Heizöl «Mittel» und «Schwer»</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>– Bezugsgrösse:</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td colspan="4">3</td></tr>
+<tr><td>– Feststoffe insgesamt:</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>für Heizöle mit einem Schwefelgehalt von höchstens 1 % (Masse):</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td colspan="4">10</td></tr>
+<tr><td>für übrige Heizöle</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td colspan="4">10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td colspan="4">170</td></tr>
+<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td colspan="4">150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td colspan="4">100</td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td colspan="4">30</td></tr>
+</table>
+
+<sup>2</sup> Der Emissionsgrenzwert für Schwefeloxide von 1700 mg/m<sup>3</sup> gilt als eingehalten, wenn Heizöl verwendet wird, dessen Schwefelgehalt 1 Prozent (% Masse) nicht überschreitet.
+
+### 422 Verwendung von Heizöl «Mittel» und «Schwer»
+
+Heizöl «Mittel» und «Schwer» dürfen nicht in Anlagen oder betrieblichen Einheiten verwendet werden, die für diese Brennstoffe eine Feuerungswärmeleistung von weniger als 5 MW haben.
+
+### 5 Feuerungen für feste Brennstoffe
+
+### 51 Kohlefeuerungen
+
+### 511 Emissionsgrenzwerte
+
+<sup>1</sup> Die Emissionen von Feuerungen, die mit Kohle, Kohlebriketts oder Koks betrieben werden, dürfen folgende Werte nicht überschreiten:
+
+<table>
+<tr><th></th><th></th><th colspan="5">Feuerungswärmeleistung</th><th colspan="2"></th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>bis 70 kW</th><th>über 70 kW bis 500 kW</th><th>über 500 kW bis 1 MW</th><th>über 1 MW bis 10 MW</th><th colspan="2">über 10 MW bis 100 MW</th><th colspan="5">über 100 MW</th></tr>
+<tr><td>Kohle, Kohlebriketts, Koks</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
+<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td colspan="2">7</td><td colspan="5">6</td></tr>
+<tr><td>– Feststoffe insgesamt:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td colspan="2">10</td><td colspan="5">10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td colspan="2">150</td><td colspan="5">150</td></tr>
+<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td colspan="2">[tab]</td><td colspan="5">[tab]</td></tr>
+<tr><td>– Wirbelschichtfeuerungen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td colspan="2">350</td><td colspan="5">200</td></tr>
+<tr><td>– andere Feuerungen bei Einsatz von Steinkohle</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td colspan="2">350</td><td colspan="5">150</td></tr>
+<tr><td>– sonstige Anlagen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td colspan="2">350</td><td colspan="5">150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td colspan="2">200</td><td colspan="5">150</td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td colspan="2">30</td><td colspan="5">30</td></tr>
+<tr><th colspan="13">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</th></tr>
+</table>
+
+<sup>2</sup> Die Behörde legt die vorsorglichen Emissionsbegrenzungen für anorganische, vorwiegend staubförmige Stoffe sowie für Chlor- und Fluorverbindungen nach Artikel 4 fest; Anhang 1 Ziffer 5 sowie die Emissionsbegrenzungen für Chlor- und Fluorverbindungen nach Anhang 1 Ziffer 6 gelten nicht.
+
+<sup>3</sup> Abweichend von Absatz 1 gilt für Zentralheizungs- und Einzelherde ein Emissionsgrenzwert für Kohlenmonoxid von 4000 mg/m<sup>3</sup>.
+
+### 512 Messung und Kontrolle
+
+Für Einzelraumfeuerungen nach Ziffer 22 Buchstabe e und für Heizkessel mit einer Feuerungswärmeleistung bis 70 kW, die mit Kohlebrennstoffen nach Ziffer 513 betrieben werden, gelten die Anforderungen nach Ziffer 524 sinngemäss.
+
+### 513 Verwendung von Kohle
+
+In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Kohle, Kohlebriketts und Koks mit einem Schwefelgehalt von höchstens 1 Prozent (% Masse) verwendet werden.
+
+### 52 Holzfeuerungen
+
+### 521 Anlage- und Brennstoffart
+
+<sup>1</sup> In Holzfeuerungen dürfen nur Holzbrennstoffe nach Anhang 5 Ziffer 31 Absatz 1 verbrannt werden, die aufgrund ihrer Art, Qualität und Feuchtigkeit für das Verbrennen in diesen Anlagen geeignet sind.
+
+<sup>2</sup> In handbeschickten Feuerungen mit einer Feuerungswärmeleistung bis 40 kW sowie in Cheminées darf nur stückiges Holz nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a oder d Ziffer 1 verbrannt werden.
+
+<sup>3</sup> In automatischen Feuerungen mit einer Feuerungswärmeleistung bis 40 kW dürfen nur Holzbrennstoffe nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 verbrannt werden.
+
+### 522 Emissionsgrenzwerte
+
+<sup>1</sup> Die Emissionen von Feuerungen, die mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 betrieben werden, dürfen folgende Werte nicht überschreiten:
+
+<table>
+<tr><td></td><td></td><td colspan="3">Feuerungswärmeleistung</td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><th></th><th></th><th>bis 70 kW</th><th>über 70 kW bis 500 kW</th><th colspan="2">über 500 kW bis 1 MW</th><th colspan="3">über 1 MW bis 10 MW</th><th>über 10 MW</th></tr>
+<tr><td>Holzbrennstoffe</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>13</td><td>13</td><td colspan="2">13</td><td colspan="3">11</td><td>11</td></tr>
+<tr><td>– Für Holzbrennstoffe nach Anhang 5 Ziff. 31 Abs. 1 Bst. a, b oder d Ziffer 1</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– für Zentralheizungs- und Einzelherde sowie gewerblich genutzte Backöfen:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– für Einzelraumfeuerungen<sup>1</sup> und Heizkessel handbeschickt:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– für Heiz- und Dampfkessel automatisch beschickt:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
+<tr><td>– Für Holzbrennstoffe nach Anh. 5 Ziff. 31 Abs. 1 Bst. c oder d Ziffer 2</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td colspan="2"><sup>2</sup></td><td colspan="3"><sup>2</sup></td><td>150</td></tr>
+<tr><td>– Gasförmige organische Stoffe, angegeben als Gesamtkohlenstoff</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>50</td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>3</sup></td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">30</td><td>30</td></tr>
+<tr><td colspan="10">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Bei ortsfest gesetzten Grundöfen nach der SN EN 15544 (Ortsfest gesetzte Kachelgrundöfen/Putzgrundöfen – Auslegung)[^annex3-lvlu1-lvl4-lvl42-lvl422-1] gelten ungeachtet ihrer Feuerungswärmeleistung die Emissionsbegrenzungen für Feststoffe und CO bis 70 kW. <sup>2</sup> Siehe Stickoxid-Grenzwert Anhang 1 Ziffer 6. <sup>3</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
+</table>
+
+<sup>2</sup> Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid und bezogen auf einen Sauerstoffgehalt im Abgas von 6 %, dürfen folgende Werte nicht überschreiten:
+
+- a. bei Anlagen mit einer Feuerungswärmeleistung von 50 bis 300 MW 200 mg/m<sup>3</sup>
+- b. bei Anlagen mit einer Feuerungswärmeleistung über 300 MW 150 mg/m<sup>3</sup>
+
+<sup>3</sup> Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid und bezogen auf einen Sauerstoffgehalt im Abgas von 6 %, dürfen abweichend von Absatz 1 folgende Werte nicht überschreiten:
+
+- a. bei Anlagen mit einer Feuerungswärmeleistung von 100 bis 300 MW 200 mg/m<sup>3</sup>
+- b. bei Anlagen mit einer Feuerungswärmeleistung über 300 MW 150 mg/m<sup>3</sup>
+
+<sup>4</sup> Die Behörde legt die vorsorglichen Emissionsbegrenzungen für Chlorverbindungen und für organische gas-, dampf-, oder partikelförmige Stoffe nach Artikel 4 fest; die Emissionsbegrenzungen für Chlorverbindungen nach Anhang 1 Ziffer 6 sowie die Emissionsbegrenzungen für organische Stoffe nach Anhang 1 Ziffer 7 gelten nicht.
+
+<sup>5</sup> Vorbehalten bleiben die besonderen Anforderungen an Feuerungen nach Ziffer 523.
+
+[^annex3-lvlu1-lvl4-lvl42-lvl422-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 523 Besondere Anforderungen an Heizkessel
+
+<sup>1</sup> Handbeschickte Heizkessel bis 500 kW Nennwärmeleistung müssen mit einem Wärmespeicher eines Volumens von mindestens 12 Litern pro Liter Brennstofffüllraum ausgerüstet werden. Das Volumen darf 55 Liter pro kW Nennwärmeleistung nicht unterschreiten.
+
+<sup>2</sup> Automatische Heizkessel bis 500 kW Nennwärmeleistung müssen mit einem Wärmespeicher eines Volumens von mindestens 25 Litern pro kW Nennwärmeleistung ausgerüstet werden. Davon ausgenommen sind Heizkessel für Holzpellets bis 70 kW Feuerungswärmeleistung.
+
+<sup>3</sup> Die Behörde kann in Abweichung von den Absätzen 1 und 2 kleinere Speichergrössen festlegen, wenn dies aus technischen oder betrieblichen Gründen angezeigt ist.
+
+<sup>4</sup> Werden mehrere Einzelfeuerungen nach den Absätzen 1 oder 2 als betriebliche Einheit zum Zweck der Abdeckung eines variablen Wärme- oder Dampfbedarfs in wechselnder Konstellation betrieben, kann die Behörde kleinere Speichergrössen festlegen.
+
+### 524 Messung und Kontrolle
+
+<sup>1</sup> Serienmässig hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn eine Leistungserklärung oder eine gleichwertige Erklärung des Herstellers nach Artikel 20*e* vorliegt.
+
+<sup>2</sup> Handwerklich hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn:
+
+- a. sie nach einem anerkannten Berechnungsverfahren, insbesondere dem Kachelofenberechnungsprogramm des Verbandes feusuisse, gebaut wurden; oder
+- b. sie mit einem Staubabscheidesystem ausgerüstet sind, welches dem Stand der Technik, namentlich den Anforderungen der technischen Regel VDI 3670[^annex3-lvlu1-lvl4-lvl42-lvl524-1] (Abgasreinigung – Nachgeschaltete Staubminderungseinrichtungen für Kleinfeuerungsanlagen für feste Brennstoffe) entspricht.
+
+<sup>3</sup> Schützenswerte historische Zimmeröfen bis zu einem Volumen von 0,4 m<sup>3</sup> und handwerklich hergestellte Kochherde sind ebenfalls von der Abnahmemessung ausgenommen, wenn sie nach den anerkannten Regeln der Feuerungstechnik gebaut wurden oder mit einem Staubabscheidesystem nach Absatz 2 Buchstabe b ausgerüstet sind.
+
+<sup>4</sup> Bei Heizkesseln mit einer Feuerungswärmeleistung bis 70 kW, die mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 betrieben werden, müssen die Feststoffemissionen im Rahmen der periodischen Feuerungskontrolle nicht gemessen werden.
+
+<sup>5</sup> Das BAFU empfiehlt geeignete Mess- und Beurteilungsverfahren.
+
+<sup>6</sup> Bei Einzelraumfeuerungen, die nach Ziffer 22 Buchstabe f nicht periodisch gemessen werden, kontrolliert die Behörde insbesondere Verbrennungsrückstände und den Zustand der Anlage. Sie informiert dabei erstmalig auch über die sachgerechte Bedienung der Anlage sowie über die Verwendung und Lagerung von Brennstoffen.
+
+[^annex3-lvlu1-lvl4-lvl42-lvl524-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 525 Anforderungen an Staubabscheidesysteme
+
+Bei Staubabscheidesystemen für Anlagen über 70 kW Feuerungswärmeleistung muss die Verfügbarkeit in der Regel mindestens 90 Prozent betragen. Die Bestimmung der Verfügbarkeit richtet sich nach der Laufzeit der Feuerungsanlage.
+
+### 6 Gasfeuerungen
+
+### 61 Emissionsgrenzwerte
+
+<sup>1</sup> Die Emissionen von Feuerungen, die mit Gasbrennstoffen betrieben werden, dürfen folgende Werte nicht überschreiten:
+
+<table>
+<tr><th>Feuerungen für Gasbrennstoffe</th><th></th></tr>
+<tr><th>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</th><th>3 % vol</th></tr>
+<tr><th>– Kohlenmonoxid (CO)</th><th>100 mg/m<sup>3</sup></th></tr>
+<tr><th>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>):</th><th></th></tr>
+<tr><th>a. Hellstrahler und Dunkelstrahler</th><th>200 mg/m<sup>3</sup></th></tr>
+<tr><th>b. Anlagen mit einer Heizmediumtemperatur über 110 °C</th><th>110 mg/m<sup>3</sup></th></tr>
+<tr><th>c. Übrige Anlagen</th><th>80 mg/m<sup>3</sup></th></tr>
+<tr><th>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
+<tr><th colspan="2">Hinweise: <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</th></tr>
+</table>
+
+<sup>2</sup> Abweichend von Absatz 1 dürfen die Emissionen von Feuerungen über 50 MW folgende Werte nicht überschreiten:
+
+- a. Staub
+  - 1\. beim Betrieb mit Gasbrennstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben b–e 10 mg/m<sup>3</sup>
+  - 2\. beim Betrieb mit Gasbrennstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstabe a 5 mg/m<sup>3</sup>
+
+- b. Schwefeloxide, angegeben als Schwefeldioxid
+  - 1\. beim Betrieb mit Gasbrennstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben a und c–e 35 mg/m<sup>3</sup>
+  - 2\. beim Betrieb mit Gasbrennstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstabe b 5 mg/m<sup>3</sup>
+
+- c. Stickoxide (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid 100 mg/m<sup>3</sup>
+
+### 62 Ergänzende Bestimmungen über die Stickoxid-Emissionen
+
+<sup>1</sup> Für Feuerungen mit einer Heizmediumtemperatur über 150 °C, für welche die Einhaltung des Stickoxid-Grenzwertes von 110 mg/m<sup>3</sup> nach Ziffer 61 technisch oder betrieblich nicht möglich oder wirtschaftlich nicht tragbar ist, kann die Behörde mildere Grenzwerte festlegen. Die Emissionen an Stickoxiden, angegeben als Stickstoffdioxid, dürfen jedoch 200 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> Für Gasfeuerungen, die mit Gasbrennstoffen nach Anhang 5 Ziffer 41 Buchstaben b, d und e betrieben werden, gelten abweichend von Ziffer 61 die Stickoxid-Grenzwerte nach Anhang 3 Ziffer 411.
+
+<sup>3</sup> Für Gas-Durchflusswassererwärmer und Gas-Speicherwassererwärmer gelten die Emissionsbegrenzungen für Stickoxide nach Anhang 1 Ziffer 6 und nach Anhang 3 Ziffer 61 nicht; vorsorgliche Emissionsbegrenzungen nach Artikel 4 werden nicht angeordnet.
+
+### 63 Energetische Anforderungen
+
+<sup>1</sup> Die Abgasverluste von Heiz- und Dampfkesseln dürfen folgende Werte nicht überschreiten:
+
+- a. bei Gebläsebrennern mit einstufigem Brennerbetrieb und bei atmosphärischen Brennern 7 Prozent
+- b.
+
+  bei Gebläsebrennern mit zweistufigem Brennerbetrieb:
+
+  - 1\. beim Betrieb der ersten Brennerstufe 6 Prozent
+  - 2\. beim Betrieb der zweiten Brennerstufe 8 Prozent
+
+<sup>1bis</sup> Die Abgasverluste von Heizkesseln zur Raumwärmeerzeugung oder Wassererwärmung, die ab dem 1. Januar 2019 in Betrieb genommen werden, dürfen 4 Prozent nicht überschreiten.
+
+<sup>2</sup> Bei Heiz- und Dampfkesseln mit einer Absicherungstemperatur wärmeträgerseitig von über 110 °C, bei denen die Anforderungen nach Absatz 1 technisch oder betrieblich nicht möglich oder wirtschaftlich nicht tragbar sind, kann die Behörde mildere Grenzwerte festlegen.
+
+### 7 Feuerungen für flüssige Brennstoffe nach Anhang 5 Ziffer 13
+
+<sup>1</sup> Für Feuerungen, in denen flüssige Brennstoffe nach Anhang 5 Ziffer 13 verbrannt werden, gelten die Anforderungen nach Ziffer 41.
+
+<sup>2</sup> Brennstoffe nach Anhang 5 Ziffer 13 dürfen in Anlagen mit einer Feuerungswärmeleistung von weniger als 350 kW nur verbrannt werden, wenn:
+
+- a. sie den Qualitätsanforderungen einer Norm entsprechen;
+- b. mittels eines behördlich begleiteten Messprogramms nachgewiesen wurde, dass die entsprechenden Anforderungen bei der Verbrennung im vorgesehenen Feuerungstyp eingehalten sind.
+
+### 8 Mehrstoff- und Mischfeuerungen
+
+### 81 Mehrstoff-Feuerungen
+
+Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, so ist für die Emissionsbegrenzung der jeweils eingesetzte Brennstoff massgebend.
+
+### 82 Misch-Feuerungen
+
+<sup>1</sup> Werden in einer Einzelfeuerung gleichzeitig verschiedene Brennstoffe verbrannt, so dürfen die Emissionskonzentrationen den Mischgrenzwert nicht überschreiten.
+
+<sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
+
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image3.png)</sub> + .... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image4.png)</sub>
+
+Dabei bedeuten:
+
+G<sub>m</sub> = Mischgrenzwert, bezogen auf einen Sauerstoffgehalt B<sub>1</sub>
+
+G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = Emissionsgrenzwert für die verschiedenen Brennstoffe[^annex3-lvlu1-lvl7-lvl82-1]
+
+E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = Energie, die pro Stunde durch die einzelnen Brennstoffe zugeführt wird
+
+E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
+
+B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = Bezugsgrösse (Sauerstoffgehalt, auf den sich der Emissions-grenzwert für den ersten, den zweiten und die weiteren Brennstoffe bezieht)
+
+<sup>3</sup> Bei der Berechnung des massgebenden Schwefelemissionsgrades ist sinngemäss nach Absatz 2 vorzugehen.
+
+[^annex3-lvlu1-lvl7-lvl82-1]: *Hinweis*: Als Emissionsgrenzwerte für Schwefeldioxide sind einzusetzen: a. für Heizöl «Extra leicht»: G = 330 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol); b. für Gas: G = 38 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol).
+
+Anhang 4*[^t-4]*
+
+(Art. 3 Abs. 2 Bst. c)
+
+## Anforderungen an Feuerungsanlagen, an Baumaschinen und deren Partikelfiltersysteme sowie an Maschinen und Geräte mit Verbrennungsmotor
+
+[^t-4]: Fassung gemäss Ziff. II der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Bereinigt gemäss Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 19. Sep. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), Ziff. I und II der V vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. III 1 der V vom 22. Juni 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Siehe auch die UeB Änd. 4.7.2007 und 19.9.2008 hiervor.
+
+### 1 Geltungsbereich
+
+Die Bestimmungen dieses Anhanges gelten für Feuerungsanlagen nach den Artikeln 20 Absatz 1 und 20*d*, für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*.
+
+### 2 Anforderungen an Feuerungsanlagen
+
+### 21 Lufthygienische Anforderungen
+
+### 211 Öl- und Gasfeuerungen
+
+Öl- und Gasfeuerungen müssen die lufthygienischen Anforderungen der massgebenden europäischen Normen sowie die Emissionsgrenzwerte der folgenden Tabelle einhalten:
+
+<table>
+<tr><th>Anlageart</th><th>Massgebende europäische Norm[^annex4-lvlu1-lvl2-lvl21-lvl211-1]</th><th>Massgebende Emissionsklassen oder Emissionsgrenzwerte für Stickoxide (NO<sub>x</sub>) und für Kohlenmonoxid (CO)</th></tr>
+<tr><td>Gebläsebrenner für Heizöl «Extra leicht» (Art. 20 Abs. 1 Bst. a)</td><td>EN 267</td><td>NO<sub>x</sub>-Klasse 3 CO-Klasse 3</td></tr>
+<tr><td>Automatische Brenner mit Gebläse für gasförmige Brennstoffe (Art. 20 Abs. 1 Bst. a)</td><td>EN 676</td><td>NO<sub>x</sub>-Klasse 3 CO: 100 mg/kWh</td></tr>
+<tr><td>Heizkessel mit Gebläsebrennern für Heizöl «Extra leicht» (Art. 20 Abs. 1 Bst. b und c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub>-Klasse 3 CO-Klasse 3</td></tr>
+<tr><td>Heizkessel mit Gebläsebrennern für gasförmige Brennstoffe (Art. 20 Abs. 1 Bst. b und c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub>-Klasse 3 CO: 100 mg/kWh</td></tr>
+<tr><td>Heizkessel für gasförmige Brennstoffe (Art. 20 Abs. 1 Bst. d)</td><td>EN 656, EN 15502</td><td>NO<sub>x</sub>-Klasse 5 CO: 100 mg/kWh</td></tr>
+<tr><td>Direkt befeuerte Gas-Speicherwassererwärmer (Boiler) (Art. 20 Abs. 1 Bst. f)</td><td>EN 89</td><td>NO<sub>x</sub>-Klasse 5</td></tr>
+<tr><td>Gas-Durchlaufwassererwärmer (Art. 20 Abs. 1 Bst. g)</td><td>EN 26</td><td></td></tr>
+</table>
+
+[^annex4-lvlu1-lvl2-lvl21-lvl211-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 212 Kohle- und Holzfeuerungen
+
+Kohle- und Holzfeuerungen müssen die lufthygienischen Anforderungen der massgebenden europäischen Normen sowie die Emissionsgrenzwerte der folgenden Tabelle einhalten:
+
+<table>
+<tr><td>Anlageart</td><td>Massgebende europäische Norm[^annex4-lvlu1-lvl2-lvl21-lvl212-1]</td><td></td><td colspan="2">Massgebende Emissionsklassen oder Emissionsgrenzwerte<sup>a</sup> für Kohlenmonoxid (CO) und für Feststoffe (Staub)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>CO</td><td colspan="2">Staub</td></tr>
+<tr><td>Heizkessel für Stückholz- und Kohlefeuerungen, handbeschickt</td><td>EN 303-5 oder EN 12809</td><td>mg/m<sup>3</sup></td><td>800</td><td colspan="2">50</td></tr>
+<tr><td>Heizkessel für Holzschnitzel- und Kohlefeuerungen, automatisch beschickt</td><td>EN 303-5 oder EN 12809</td><td>mg/m<sup>3</sup></td><td>400</td><td colspan="2">60</td></tr>
+<tr><td>Heizkessel für Holzpellets, automatisch beschickt</td><td>EN 303-5 oder EN 12809</td><td>mg/m<sup>3</sup></td><td>300</td><td colspan="2">40</td></tr>
+<tr><td>Einzelherde für feste Brennstoffe</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">90</td></tr>
+<tr><td>Zentralheizungsherde für feste Brennstoffe</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">120</td></tr>
+<tr><td>Kamineinsätze und offene Kamine für feste Brennstoffe</td><td>EN 13229</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
+<tr><td>Raumheizer für feste Brennstoffe</td><td>EN 13240</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
+<tr><td>Raumheizer zur Verfeuerung von Holzpellets</td><td>EN 14785</td><td>mg/m<sup>3</sup></td><td>500</td><td colspan="2">40</td></tr>
+<tr><td>Speicherfeuerstätten für feste Brennstoffe</td><td>EN 15250</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
+<tr><td>Pelletbrenner für kleine Heizkessel</td><td>EN 15270</td><td></td><td>Klasse 4</td><td colspan="2">Klasse 4</td></tr>
+<tr><td colspan="6"><sup>a</sup> Bezugssauerstoffgehalt: – für Holzfeuerungen 13 % vol; – für Kohlefeuerungen 7 % vol.</td></tr>
+</table>
+
+[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 22 …
+
+### 23 Kennzeichnung
+
+<sup>1</sup> Der Hersteller muss an jeder Feuerungsanlage gut sichtbar, dauerhaft und deutlich lesbar ein Geräteschild anbringen, das die Angaben der massgebenden europäischen Normen, mindestens jedoch folgende Angaben enthält:
+
+- a. Namen des Herstellers oder Warenzeichen der Anlage;
+- b. Handelsbezeichnung, Typenbezeichnung oder Modellnummer;
+- c. Bezeichnung der massgebenden europäischen Norm, nach der das Gerät gemäss Ziffer 21 geprüft wurde;
+- d. Feuerungswärme-, Nennwärme- bzw. Raumwärmeleistung oder entsprechender Leistungsbereich in W oder kW.
+
+<sup>2</sup> Das Geräteschild von Öl- und Gasfeuerungen muss zudem die NO<sub>x</sub>-Klasse der massgebenden europäischen Norm angeben.
+
+<sup>3</sup> Das Geräteschild von Holz- und Kohlefeuerungen muss zudem die nach Ziffer 212 gemessenen Emissionswerte für CO und Staub in mg/m<sup>3</sup>, bezogen auf den massgebenden Sauerstoffgehalt im Abgas, angeben.
+
+### 3 Lufthygienische Anforderungen an Baumaschinen und deren Partikelfiltersysteme
+
+### 31 Anforderungen an Baumaschinen
+
+<sup>1</sup> Die Emissionen von Baumaschinen müssen die für ihr Baujahr massgebenden Anforderungen an mobile Maschinen und Geräte nach der Richtlinie 97/68/EG[^annex4-lvlu1-lvl3-lvl31-1] einhalten.
+
+<sup>2</sup> Die Emissionen von Baumaschinen dürfen zudem den Anzahlwert von 1×10<sup>12</sup> 1/kWh für Feststoffpartikel mit einem Durchmesser ab 23 nm im Abgas nicht übersteigen, ermittelt nach dem anerkannten Stand der Technik, namentlich nach dem Programm der UNECE zur Partikelmessung[^annex4-lvlu1-lvl3-lvl31-2] und nach den Prüfzyklen der Richtlinie 97/68/EG.
+
+<sup>2bis</sup> Die Anforderungen nach den Absätzen 1 und 2 gelten als eingehalten, wenn die Baumaschine die Anforderungen von Anhang II der Verordnung (EU) Nr. 2016/1628[^annex4-lvlu1-lvl3-lvl31-3] erfüllt.
+
+<sup>3</sup> Die Anforderungen nach Absatz 2 gelten als eingehalten, wenn die Baumaschine mit einem Partikelfiltersystem betrieben wird, das die Anforderungen nach Ziffer 32 erfüllt.
+
+[^annex4-lvlu1-lvl3-lvl31-1]: ABl. L 59 vom 27.02.1998, S. 1; zuletzt geändert durch Richtlinie 2012/46/EU, ABl. L 353 vom 06.12.2012, S. 80.
+[^annex4-lvlu1-lvl3-lvl31-2]: UNECE-Reglement Nr. 49 vom 15. April 1982 über einheitliche Vorschriften der zu ergreifenden Massnahmen zur Reduktion der gasförmigen Schadstoffemissionen sowie der Partikelemissionen von Selbstzündungsmotoren zum Antrieb von Fahrzeugen sowie zur Reduktion von gasförmigen Schadstoffemissionen von Fremdzündungsmotoren zum Antrieb von Fahrzeugen, die mit Erdgas oder mit Flüssiggas betrieben werden; zuletzt geändert durch Änderungsserie 04 Ergänzung 8, in Kraft seit 22. Januar 2015, Annex 4C, Particle Number Measurement Test Procedure. Bezugsquelle: www.unece.org. Dieses Reglement kann beim Bundesamt für Umwelt, Worblentalstr. 68, 3063 Ittigen, kostenlos eingesehen werden.
+[^annex4-lvlu1-lvl3-lvl31-3]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
+
+### 32 Anforderungen an Partikelfiltersysteme
+
+<sup>1</sup> Partikelfiltersysteme für Baumaschinen müssen:
+
+- a. 97 Prozent der Feststoffpartikel mit einem Durchmesser von 20 bis 300 nm im Neuzustand und nach einem Dauerlauf von 1000 Stunden bei einer typischen Anwendung abscheiden;
+- b. 90 Prozent der Feststoffpartikel während des Regenerationsvorgangs abscheiden;
+- c. über eine elektronische Überwachung verfügen, die funktionsgefährdende Druckverluste aufzeichnet und dabei Alarm auslöst, sowie bei einem Schaden die Zufuhr von Additiven unterbricht;
+- d. bei freier Beschleunigung des Motors den Trübungskoeffizienten von 0,15 m<sup>-1</sup> unterschreiten;
+- e. so gebaut sein, dass ihr Einbau in umgekehrter Durchströmungsrichtung verunmöglicht ist;
+- f. über eine Reinigungs- und Wartungsanleitung verfügen;
+- g. ohne kupferhaltige Zusätze oder katalytische kupferhaltige Beschichtungen im Abgasbehandlungssystem betrieben werden; und
+- h. die bei ihrem Betrieb entstehenden sekundären Schadstoffemissionen so weit begrenzen, als dies technisch und betrieblich möglich sowie wirtschaftlich tragbar ist.
+
+<sup>2</sup> Die Messverfahren sowie die Prüfabläufe richten sich nach dem anerkannten Stand der Technik, namentlich nach der SN 277206[^annex4-lvlu1-lvl3-lvl32-1] oder nach dem UNECE Reglement Nr. 132[^annex4-lvlu1-lvl3-lvl32-2].
+
+[^annex4-lvlu1-lvl3-lvl32-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex4-lvlu1-lvl3-lvl32-2]: UNECE-Reglement Nr. 132 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Nachrüst-Abgasreinigungsanlagen (REC) für schwere Nutzfahrzeuge, land- und forstwirtschaftliche Traktoren und für mobile Maschinen und Geräte, ausgerüstet mit Kompressionszündungsmotoren; geändert durch Änderungsserie 01, in Kraft seit 22. Jan. 2015 (Add.131 Rev.1). Bezugsquelle: www. unece.org. Dieses Reglement kann beim Bundesamt für Umwelt, Worblentalstr. 68, 3063 Ittigen, kostenlos eingesehen werden.
+
+### 33 Kennzeichnung
+
+<sup>1</sup> Die Hersteller oder die Importeure müssen an jeder Baumaschine und an jedem Partikelfiltersystem gut sichtbar, dauerhaft und deutlich lesbar ein Geräteschild anbringen, das folgende Angaben enthält:
+
+- a. Name des Herstellers oder des Importeurs;
+- b. Seriennummer;
+- c. Typenbezeichnung;
+- d. Name der Konformitätsbewertungsstelle, soweit eine Bewertung vorgeschrieben ist.
+
+<sup>2</sup> Das Geräteschild von Baumaschinen muss zusätzlich folgende Angaben enthalten:
+
+- a. Baujahr der Baumaschine;
+- b. Motorleistung in kW;
+- c. Typenbezeichnung des Partikelminderungssystems.
+
+<sup>3</sup> Wird eine in Verkehr gebrachte Baumaschine nachträglich mit einem Partikelfiltersystem ausgerüstet, muss der Installateur des Partikelfiltersystems an der Baumaschine ein Geräteschild anbringen, das die Angaben der Absätze 1 und 2 enthält.
+
+<sup>4</sup> Baumaschinen mit Motoren, die auf der Liste der konformen Motorenfamilien nach Artikel 19*b* Absatz 2 aufgeführt sind, benötigen kein Geräteschild auf dem Partikelfiltersystem.
+
+### 34 Abgaswartung und Kontrolle
+
+<sup>1</sup> Der Halter oder Betreiber einer Baumaschine muss mindestens alle 24 Monate eine Abgaswartung durchführen oder durchführen lassen. Er muss die Ergebnisse der Abgaswartung während mindestens zwei Jahren aufbewahren und den Behörden auf Verlangen vorweisen.
+
+<sup>2</sup> Baumaschinen müssen nicht nach Artikel 13 Absatz 3 periodisch kontrolliert werden. Die Behörde kontrolliert die Ergebnisse der Abgaswartung stichprobenweise. Bei Verdacht auf zu hohe Feststoffpartikelemissionen kann sie eine erneute Abgaswartung anordnen.
+
+### 4 Lufthygienische Anforderungen an Maschinen und Geräte mit Verbrennungsmotor
+
+### 41 Anforderungen an Maschinen und Geräte mit Verbrennungsmotor
+
+<sup>1</sup> Die Verbrennungsmotoren von Maschinen und Geräten müssen die massgebenden Anforderungen nach der Verordnung (EU) Nr. 2016/1628[^annex4-lvlu1-lvl4-lvl41-1] einhalten.
+
+<sup>2</sup> Die Emissionsbegrenzungen nach Anhang 1 gelten nicht.
+
+[^annex4-lvlu1-lvl4-lvl41-1]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
+
+### 42 Abgaswartung und Kontrolle
+
+<sup>1</sup> Der Halter oder Betreiber von Maschinen oder Geräten mit Verbrennungsmotor muss alle 24 Monate eine Abgaswartung durchführen oder durchführen lassen. Er muss die Ergebnisse der Abgaswartung während mindestens zwei Jahren aufbewahren und den Behörden auf Verlangen vorweisen. Das BAFU erlässt Empfehlungen.
+
+<sup>2</sup> Maschine und Geräte mit Verbrennungsmotor müssen nicht nach Artikel 13 Absatz 3 periodisch kontrolliert werden. Die Behörde kontrolliert die Ergebnisse der Abgaswartung stichprobenweise. Bei Verdacht auf zu hohe Emissionen kann sie eine erneute Abgaswartung anordnen.
+
+Anhang 5*[^t-5]*
+
+(Art. 21 und 24)
+
+## Anforderungen an Brenn- und Treibstoffe
+
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), I der V vom 25. Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), II der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 19. Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Siehe auch UeB Änd. 19.9.2008 hiervor.
+
+### 1 Heizöle und andere flüssige Brennstoffe
+
+### 11 Begriffe
+
+<sup>1</sup> Als Heizöl «Extra leicht» gelten Heizöl «Extra leicht Euro» und Heizöl «Extra leicht Öko».
+
+<sup>2</sup> Naturbelassenes Pflanzenöl sowie Pflanzenölmethylester, der den Anforderungen der Norm SN EN 14214 (Flüssige Mineralölerzeugnisse – Fettsäure-Methylester (FAME) zur Verwendung in Dieselmotoren und als Heizöl – Anforderungen und Prüfverfahren)[^annex5-lvlu1-lvl1-lvl11-1] entspricht, sind Heizöl «Extra leicht Öko» gleichgestellt.
+
+[^annex5-lvlu1-lvl1-lvl11-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 11<sup>bis</sup> Schwefelgehalt von Heizölen
+
+Der Schwefelgehalt von:
+
+- a. Heizöl «Extra leicht Euro» darf 0,1 Prozent (*% m/m*) nicht übersteigen;
+- b. Heizöl «Extra leicht Öko» darf 0,005 Prozent (*% m/m*) nicht übersteigen;
+- c. Heizöl «Mittel» und «Schwer» darf 2,8 Prozent (*% m/m*) nicht übersteigen.
+
+### 12 Weitere Anforderungen an Heizöle
+
+<sup>1</sup> Heizölen dürfen keine Zusätze beigegeben werden, die Halogen- oder Schwermetallverbindungen (ausgenommen Eisenverbindungen) enthalten.
+
+<sup>2</sup> Dem Heizöl «Extra leicht» dürfen zudem keine Zusätze beigegeben werden, die Stoffe wie Magnesiumverbindungen enthalten, welche das Ergebnis der Russzahl-Messung bei der Ölfeuerungskontrolle verfälschen.
+
+<sup>3</sup> Heizölen dürfen keine Altöle beigemischt werden.
+
+### 13 Andere flüssige Brennstoffe
+
+### 131 Begriff
+
+Als andere flüssige Brennstoffe gelten flüssige organische Verbindungen, die sich wie Heizöl «Extra leicht» verbrennen lassen und die Anforderungen nach Ziffer 132 erfüllen.
+
+### 132 Anforderungen
+
+<sup>1</sup> Andere flüssige Brennstoffe dürfen bei der Verbrennung keine höheren und keine anderen Schadstoff-Emissionen hervorrufen, als dies beim Heizöl «Extra leicht» der Fall ist.
+
+<sup>2</sup> Der Schadstoffgehalt im Brennstoff darf folgende Werte nicht überschreiten:
+
+<table>
+<tr><td>Asche</td><td>50 mg/kg</td></tr>
+<tr><td>Chlor</td><td>50 mg/kg</td></tr>
+<tr><td>Barium</td><td>5 mg/kg</td></tr>
+<tr><td>Blei</td><td>5 mg/kg</td></tr>
+<tr><td>Nickel</td><td>5 mg/kg</td></tr>
+<tr><td>Vanadium</td><td>10 mg/kg</td></tr>
+<tr><td>Zink</td><td>5 mg/kg</td></tr>
+<tr><td>Phosphor</td><td>5 mg/kg</td></tr>
+<tr><td>Polychlorierte aromatische Kohlenwasserstoffe (z. B. PCB)</td><td>1 mg/kg</td></tr>
+</table>
+
+<sup>3</sup> Für flüssige biogene Brennstoffe gelten für Asche und Phosphor abweichend von Absatz 2 folgende Werte:
+
+<table>
+<tr><td>Asche</td><td>100 mg/kg</td></tr>
+<tr><td>Phosphor</td><td>20 mg/kg</td></tr>
+</table>
+
+### 133 Verhältnis zu Anhang 2 Ziffer 71
+
+Andere flüssige organische Verbindungen, welche den Anforderungen nach Ziffer 132 nicht entsprechen, gelten als Sonderabfälle.
+
+### 2 Kohle, Kohlebriketts und Koks
+
+Der Schwefelgehalt von Kohle, Kohlebriketts und Koks darf 3,0 Prozent (% Masse) nicht übersteigen.
+
+### 3 Holzbrennstoffe
+
+### 31 Begriffe
+
+<sup>1</sup> Als Holzbrennstoffe gelten:
+
+- a. naturbelassenes stückiges Holz einschliesslich anhaftender Rinde, insbesondere Scheitholz, Holzbriketts, Reisig und Zapfen sowie unbenutzte, durch ausschliesslich mechanische Bearbeitung entstandene Abschnitte aus Massivholz;
+- b. naturbelassenes nichtstückiges Holz, insbesondere Holzpellets, Hackschnitzel, Späne, Sägemehl, Schleifstaub und Rinde;
+- c. Restholz aus der holzverarbeitenden Industrie und dem holzverarbeitenden Gewerbe, soweit das Holz bemalt, beschichtet, verleimt oder in ähnlicher Weise behandelt ist; davon ausgenommen ist Holz, das druckimprägniert ist oder Beschichtungen aus halogenorganischen Verbindungen enthält;
+- d.
+
+  unbehandeltes Altholz in Form von:
+
+  - 1\. Zaunpfählen, Bohnenstangen und weiteren Gegenständen aus Massivholz, die im Garten oder in der Landwirtschaft eingesetzt wurden,
+  - 2\. Einwegpaletten aus Massivholz.
+
+<sup>2</sup> Nicht als Holzbrennstoffe gelten:
+
+- a. Altholz aus Gebäudeabbrüchen, Umbauten oder Renovationen, Restholz von Baustellen, alte Holzmöbel und Altholz aus Verpackungen, einschliesslich Paletten mit Ausnahme der Einwegpaletten nach Absatz 1 Buchstabe d Ziffer 2, sowie Gemische davon mit Holzbrennstoffen nach Absatz 1;
+- b.
+
+  alle übrigen Stoffe aus Holz, wie:
+
+  - 1\. Altholz oder Holzabfälle, die mit Holzschutzmitteln nach einem Druckverfahren imprägniert wurden oder Beschichtungen aus halogenorganischen oder bleihaltigen Verbindungen aufweisen,
+  - 2\. mit Holzschutzmitteln wie Pentachlorphenol intensiv behandelte Holzabfälle oder Altholz,
+  - 3\. Gemische von solchen Abfällen mit Holzbrennstoffen nach Absatz 1 oder Altholz nach Buchstabe a.
+
+### 32 Anforderungen an Holzpellets und -briketts
+
+Holzpellets und -briketts, die als naturbelassenes Holz im Sinne von Ziffer 31 Absatz 1 Buchstaben a und b gelten, dürfen nur gewerbsmässig eingeführt oder in Verkehr gebracht werden, wenn:
+
+- a. die Holzpellets den Anforderungen der Norm SN EN ISO 17225-2 (Feste Biobrennstoffe - Brennstoffspezifikationen und -klassen - Teil 2: Einteilung von Holzpellets)[^annex5-lvlu1-lvl3-lvl32-1] an die Eigenschaftsklassen A1 oder A2 entsprechen oder von gleichwertiger Qualität sind;
+- b. die Holzbriketts den Anforderungen der Norm SN EN ISO 17225-3 (Feste Biobrennstoffe - Brennstoffspezifikationen und -klassen - Teil 3: Einteilung von Holzbriketts)[^annex5-lvlu1-lvl3-lvl32-2] an die Eigenschaftsklassen A1 oder A2 entsprechen oder von gleichwertiger Qualität sind.
+
+[^annex5-lvlu1-lvl3-lvl32-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl3-lvl32-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 4 Gasbrennstoffe und Gastreibstoffe
+
+### 41 Begriff
+
+<sup>1</sup> Als Gasbrennstoffe oder Gastreibstoffe gelten:
+
+- a. Erdgas, Erdölgas oder Stadtgas, das in der öffentlichen Gasversorgung eingespiesen wird;
+- b. Flüssiggas, bestehend aus Propan und/oder Butan;
+- c. Wasserstoff;
+- d. dem Erdgas, Erdölgas oder Stadtgas ähnliche Gase wie Biogas, Gas aus der Vergasung von Holzbrennstoffen nach Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 oder Klärgase;
+- e. Deponiegase, sofern deren Gehalt an anorganischen und organischen Chlor- und Fluorverbindungen, angegeben als Chlor- und Fluorwasserstoff, zusammen 50 mg/m<sup>3</sup> nicht überschreitet.
+
+<sup>2</sup> Alle übrigen Gase gelten als Abfallgase, bei deren Verbrennung die Anforderungen nach Anhang 2 Ziffer 71 eingehalten werden müssen. Dies gilt namentlich auch für Deponiegase, die den Anforderungen nach Absatz 1 Buchstabe e nicht entsprechen.
+
+### 42 Anforderungen
+
+In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 190 mg/kg nicht überschreiten.
+
+### 5 Benzine
+
+<sup>1</sup> Motorenbenzin darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, wenn es den folgenden Anforderungen entspricht:
+
+<table>
+<tr><th>Merkmal</th><th>Einheit</th><th>Mindest- wert <sup>a</sup></th><th>Höchst- wert <sup>a</sup></th><th>Prüfverfahren <sup>b</sup></th></tr>
+<tr><td>Motorenbenzin</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Research-Octanzahl, *ROZ*</td><td></td><td>95,0<sup>c</sup></td><td>–</td><td>EN ISO 5164</td></tr>
+<tr><td>– Motor-Octanzahl, *MOZ*</td><td></td><td>85,0<sup>c</sup></td><td>–</td><td>EN ISO 5163</td></tr>
+<tr><td>– Dampfdruck (DVPE):</td><td></td><td></td><td></td><td>EN 13016-1</td></tr>
+<tr><td>– Sommerhalbjahr</td><td>kPa</td><td>–</td><td>60,0<sup>d</sup></td><td></td></tr>
+<tr><td>– Siedeverlauf:</td><td></td><td></td><td></td><td>EN ISO 3405</td></tr>
+<tr><td>– bei 100 °C verdampft</td><td>% (*V/V*)</td><td>46,0</td><td>–</td><td></td></tr>
+<tr><td>– bei 150 °C verdampft</td><td>% (*V/V*)</td><td>75,0</td><td>–</td><td></td></tr>
+<tr><td>– Analyse der Kohlenwasserstoffe:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Olefine</td><td>% (*V/V*)</td><td>–</td><td>18,0</td><td>EN 15553, EN ISO 22854</td></tr>
+<tr><td>– Aromaten</td><td>% (*V/V*)</td><td>–</td><td>35,0</td><td>EN 15553, EN ISO 22854</td></tr>
+<tr><td>– Benzol</td><td>% (*V/V*)</td><td>–</td><td>1,00</td><td>EN 12177, EN 238, EN ISO 22854</td></tr>
+<tr><td>– Sauerstoffgehalt</td><td>% (*m/m*)</td><td>–</td><td>3,7</td><td>EN 1601, EN 13132, EN ISO 22854</td></tr>
+<tr><td>– Sauerstoffhaltige Komponenten:</td><td></td><td></td><td></td><td>EN 1601, EN 13132, EN ISO 22854</td></tr>
+<tr><td>– Methanol</td><td>% (*V/V*)</td><td>–</td><td>3,0</td><td></td></tr>
+<tr><td>– Ethanol</td><td>% (*V/V*)</td><td>–</td><td>10,0</td><td></td></tr>
+<tr><td>– Isopropylalkohol</td><td>% (*V/V*)</td><td>–</td><td>12,0</td><td></td></tr>
+<tr><td>– Tertiärer Butylalkohol</td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
+<tr><td>– Isobutylalkohol</td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
+<tr><td>– Ether (5 oder mehr C-Atome)</td><td>% (*V/V*)</td><td>–</td><td>22,0</td><td></td></tr>
+<tr><td>– andere sauerstoffhaltige Verbindungen<sup>e</sup></td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
+<tr><td>– Schwefelgehalt</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 13032, EN ISO 20846, EN ISO 20884</td></tr>
+<tr><td>– Bleigehalt</td><td>mg/l</td><td>–</td><td>5,0</td><td>EN 237</td></tr>
+<tr><td colspan="5">Hinweise: <sup>a</sup> Die Prüfergebnisse sind nach der Norm EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test» zu beurteilen.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Für die Prüfung massgebende (gemeinsame) Normen: – EN: Norm des Europäischen Komitees für Normung CEN – ISO: Norm der Internationalen Normenorganisation ISO Diese Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Für Normalbenzin muss abweichend von dieser Tabelle die ROZ mindestens 91 und die MOZ mindestens 81 betragen.</td></tr>
+<tr><td colspan="5"><sup>d</sup> Gilt für Benzine, welche vom 1. Mai bis 30. September verbraucht werden.</td></tr>
+<tr><td colspan="5"><sup>e</sup> Andere Monoalkohole und Ether mit einem Siedepunkt nicht höher als 210 °C.</td></tr>
+</table>
+
+<sup>1bis</sup> Wird dem Motorenbenzin Bioethanol beigemischt, so darf im Sommerhalbjahr bis am 30. September 2025 vom Dampfdruck-Höchstwert von 60,0 kPa nach Absatz 1 wie folgt abgewichen werden:
+
+<table>
+<tr><td>Bioethanolgehalt</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
+<tr><td>Maximal zulässige Dampfdruckabweichung<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
+<tr><td colspan="12">Hinweise: <sup>a</sup> Zwischenwerte werden durch lineare Interpolation zwischen dem unmittelbar über und dem unmittelbar unter dem Bioethanolgehalt liegenden Wert ermittelt.</td></tr>
+</table>
+
+<sup>2</sup> Flugbenzin darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, wenn der Bleigehalt höchstens 0,56 g/l und der Benzolgehalt höchstens 1 Prozent (% *V/V*) beträgt. In Verkehr gebrachtes Flugbenzin muss blau eingefärbt sein.
+
+### 6 Dieselöl
+
+Dieselöl darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, wenn es den folgenden Anforderungen entspricht:
+
+<table>
+<tr><th>Merkmal</th><th>Einheit</th><th>Mindestwert <sup>a</sup></th><th>Höchstwert <sup>a</sup></th><th>Prüfverfahren <sup>b</sup></th></tr>
+<tr><td>Dieselöl</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Cetanzahl</td><td></td><td>51,0<sup>c</sup></td><td>–</td><td>EN ISO 5165, EN 15195, EN 16144, EN 16715</td></tr>
+<tr><td>– Dichte bei 15 °C</td><td>kg/m3</td><td>–</td><td>845,0</td><td>EN ISO 3675, EN ISO 12185</td></tr>
+<tr><td>– Siedeverlauf: 95 % (V/V) aufgefangen bei</td><td>°C</td><td>–</td><td>360</td><td>EN ISO 3405, EN ISO 3924</td></tr>
+<tr><td>– Polyzyklische aromatische Kohlenwasserstoffe</td><td>% (m/m)</td><td>–</td><td>8,0</td><td>EN 12916</td></tr>
+<tr><td>– Schwefelgehalt</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 20846, EN ISO 20884, EN ISO 13032</td></tr>
+<tr><td colspan="5">Hinweise:</td></tr>
+<tr><td colspan="5"><sup>a</sup> Die Prüfergebnisse sind nach der Norm EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test» zu beurteilen.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Für die Prüfung massgebende (gemeinsame) Normen: – EN: Norm des Europäischen Komitees für Normung CEN – ISO: Norm der Internationalen Normenorganisation ISO Diese Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.</td></tr>
+<tr><td colspan="5">c Für Winterqualitäten muss die Cetanzahl abweichend von dieser Tabelle mindestens den Anforderungen nach SN EN 590 entsprechen.</td></tr>
+</table>
+
+Anhang 6*[^t-6]*
+
+(Art. 6 Abs. 3)
+
+## Mindesthöhe von Hochkaminen
+
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997, in Kraft seit 1. März 1998 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+### 1 Geltungsbereich
+
+Die Bestimmungen dieses Anhanges gelten für Anlagen, bei denen die Grösse Q/S den Wert 5 überschreitet. Dabei bedeutet:
+
+Q = Massenstrom des emittierten luftverunreinigenden Stoffes in Gramm je Stunde;
+
+S = Rechenwert nach Ziffer 9.
+
+### 2 Berechnungsverfahren
+
+<sup>1</sup> Die erforderliche Kaminbauhöhe wird schrittweise nach den Ziffern 3–6 berechnet.
+
+<sup>2</sup> Werden mehrere luftverunreinigende Stoffe emittiert, so wird die Kaminbauhöhe aufgrund des Stoffes berechnet, für den die Grösse Q/S den höchsten Wert aufweist.
+
+### 3 Rechengrösse H<sub>0</sub>
+
+### 31 Bestimmung von H<sub>0</sub> nach Diagramm 1
+
+<sup>1</sup> Die Rechengrösse H<sub>0</sub> berücksichtigt die Kurzzeit-Einwirkungen der von einer Einzelanlage emittierten luftverunreinigenden Stoffe. Sie wird mit Hilfe von Diagramm 1 bestimmt.
+
+<sup>2</sup> Die Grössen Q und F sind von den Emissionsbedingungen der Anlage abhängig. Für die Berechnung von H<sub>0</sub> werden die Werte bei Volllast und die für die Luftreinhaltung ungünstigsten Brennstoff- bzw. Emissionsbedingungen eingesetzt.
+
+<sup>3</sup> Mit der Grösse S werden die von der Anlage verursachten maximalen Kurzzeit-Immissionen auf einen bestimmten Wert (S-Wert) begrenzt. Für die Berechnung von H<sub>0</sub> werden die S-Werte nach Ziffer 9 eingesetzt.
+
+### 32 Bestimmung von H<sub>0</sub> im Einzelfall
+
+<sup>1</sup> Die Rechengrösse H<sub>0</sub> wird im Einzelfall nach den anerkannten Regeln zur Berechnung der Kaminhöhe und der Ausbreitung von Abgasen bestimmt, wenn:
+
+- a. die Werte Q/S oder F ausserhalb von Diagramm 1 liegen; oder
+- b. die Abgastemperatur weniger als 55 °C beträgt.
+
+<sup>2</sup> Bei Abgastemperaturen unter 55 °C darf jedoch die Rechengrösse H<sub>0</sub> nicht kleiner sein als der Wert, der sich nach Diagramm 1 für eine Temperatur von 55 °C ergibt.
+
+### 4 Mindesthöhe für ebenes Gebiet ohne Hindernisse
+
+<sup>1</sup> Die Kaminhöhe für ebenes, hindernisfreies Gebiet beträgt:
+
+H<sub>1</sub> = f × H<sub>0</sub>
+
+Der Korrekturfaktor f berücksichtigt die Langzeit-Einwirkungen infolge kanalisierter Winde.
+
+<sup>2</sup> Für f werden Werte zwischen 1,0 und 1,5 wie folgt eingesetzt:
+
+f = 1,00 für Standorte ohne vorherrschende Windrichtung;
+
+f = 1,25 für eine durchschnittliche Standortsituation;
+
+f = 1,50 für Täler mit ausgeprägter Windkanalisierung.
+
+<sup>3</sup> Je nach Standortsituation sind für f auch Zwischenwerte möglich.
+
+### 5 Höhenzuschlag für Bebauung und Bewuchs
+
+Erhöhte Objekte (Bebauung und Bewuchs) in der Umgebung des Hochkamins werden durch einen Höhenzuschlag I<sub>1</sub> berücksichtigt:
+
+I<sub>1</sub> = g × I
+
+Dabei bedeuten:
+
+I = Höhe des höchsten massgeblichen Hindernisbereiches im Einwirkungsgebiet der Anlage. Für I werden Werte zwischen 0 (keine Hindernisse) und 30 m (z. B. Wald) eingesetzt.
+
+g = Korrekturfaktor, mit Werten zwischen 0 und 1, nach Diagramm 2.
+
+### 6 Kaminbauhöhe
+
+Die Kaminbauhöhe H wird nach folgender Formel berechnet:
+
+H = H<sub>1</sub> + I<sub>1</sub>
+
+### 7 Weitergehende Anforderungen
+
+In begründeten Fällen verlangt die Behörde höhere Kamine, zum Beispiel bei:
+
+- a. besonderen Gebäudeformen;
+- b. Standorten mit besonders schlechten meteorologischen Ausbreitungsbedingungen;
+- c. besonderen topographischen Situationen, wie engen Tälern, Hanglagen oder Geländemulden.
+
+### 8 Formelzeichen
+
+H (m) = Kaminbauhöhe
+
+H<sub>0</sub> (m) = Rechengrösse für die Bestimmung von H<sub>1</sub>
+
+H<sub>1</sub> (m) = Kaminmindesthöhe für ebenes, hindernisfreies Gebiet
+
+I (m) = Höhe des höchsten massgeblichen Hindernisbereiches
+
+I<sub>1</sub> (m) = Höhenzuschlag für Bebauung und Bewuchs
+
+f (–) = Korrekturfaktor für Langzeiteinwirkungen infolge Windkanalisie rung
+
+g (–) = Korrekturfaktor für Bebauung und Bewuchs
+
+Q (g/h) = Massenstrom des emittierten luftverunreinigenden Stoffes; Emis sionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid) werden auf Stickstoffdioxid umgerechnet
+
+R<sub>n</sub> (m<sup>3</sup>/h) = Volumenstrom des Abgases im Normzustand (0 °C, 1013 mbar)
+
+t (°C) = Abgastemperatur an der Kaminmündung
+
+Δt (°C) = t–10 °C
+
+F (m<sup>4</sup>/s<sup>3</sup>) = Auftriebsflux; F = 3,18 × 10<sup>–6</sup> × R<sub>n</sub> × Δt
+
+S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
+
+### 9 S-Werte
+
+<table>
+<tr><th>Schadstoff</th><th>S (µg/m<sup>3</sup>)</th></tr>
+<tr><td>Schwebestaub (PM10)<sup>1</sup></td><td>50</td></tr>
+<tr><td>Chlorwasserstoff, angegeben als HCl</td><td>100</td></tr>
+<tr><td>Chlor</td><td>150</td></tr>
+<tr><td>Fluorwasserstoff und anorganische gasförmige</td><td></td></tr>
+<tr><td>Fluorverbindungen, angegeben als HF</td><td>1</td></tr>
+<tr><td>Kohlenmonoxid</td><td>8000</td></tr>
+<tr><td>Schwefeloxide, angegeben als Schwefeldioxid</td><td>100</td></tr>
+<tr><td>Schwefelwasserstoff</td><td>5</td></tr>
+<tr><td>Stickoxide, angegeben als Stickstoffdioxid</td><td>100</td></tr>
+<tr><td>Stoffe nach Anhang 1 Ziffer 5:</td><td></td></tr>
+<tr><td>– Klasse 1</td><td>0,5</td></tr>
+<tr><td>– Klasse 2</td><td>2</td></tr>
+<tr><td>– Klasse 3</td><td>5</td></tr>
+<tr><td>Stoffe nach Anhang l Ziffer 7:</td><td></td></tr>
+<tr><td>– Klasse l</td><td>50</td></tr>
+<tr><td>– Klasse 2</td><td>200</td></tr>
+<tr><td>– Klasse 3</td><td>1000</td></tr>
+<tr><td>Stoffe nach Anhang 1 Ziffer 8:</td><td></td></tr>
+<tr><td>– Klasse 1</td><td>0,1</td></tr>
+<tr><td>– Klasse 2</td><td>1</td></tr>
+<tr><td>– Klasse 3</td><td>10</td></tr>
+<tr><td colspan="2"><sup>1</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 10 µm.</td></tr>
+</table>
+
+### Bestimmung der Rechengrösse H<sub>0</sub> für Hochkamine
+
+Diagramm 1
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image5.png)
+
+### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
+
+Diagramm 2
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image6.png)
+
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image7.png)</sub>
+
+I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
+
+H<sub>1</sub> = Kaminmindesthöhe für ebenes, hindernisfreies Gebiet (Ziff. 4)
+
+Anhang 7*[^t-7]*
+
+(Art. 2 Abs. 5)
+
+## Immissionsgrenzwerte
+
+[^t-7]: Fassung gemäss Ziff. II der V vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Bereinigt gemäss Ziff. II der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+<table>
+<tr><th>Schadstoff</th><th>Immissionsgrenzwert</th><th>Statistische Definition</th></tr>
+<tr><td>Schwefeldioxid (SO<sub>2</sub>)</td><td>30 µg/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95 % der ½-h-Mittelwerte eines Jahres ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>24-h-Mittelwert; darf höchstens einmal pro Jahr überschritten werden</td></tr>
+<tr><td>Stickstoffdioxid (NO<sub>2</sub>)</td><td>30 µg/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95 % der ½-h-Mittelwerte eines Jahres ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>80 µg/m<sup>3</sup></td><td>24-h-Mittelwert; darf höchstens einmal pro Jahr überschritten werden</td></tr>
+<tr><td>Kohlenmonoxid (CO)</td><td>8 mg/m<sup>3</sup></td><td>24-h-Mittelwert; darf höchstens einmal pro Jahr überschritten werden</td></tr>
+<tr><td>Ozon(O<sub>3</sub>)</td><td>100 µg/m<sup>3</sup></td><td>98 % der ½-h-Mittelwerte eines Monats ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>120 µg/m<sup>3</sup></td><td>1-h-Mittelwert; darf höchstens einmal pro Jahr überschritten werden</td></tr>
+<tr><td>Schwebestaub (PM10)<sup>a</sup></td><td>20 µg/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td></td><td>50 µg/m<sup>3</sup></td><td>24-h-Mittelwert; darf höchstens dreimal pro Jahr überschritten werden</td></tr>
+<tr><td>Schwebestaub (PM2.5)<sup>b</sup></td><td>10 µg/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Blei (Pb) im Schwebestaub (PM10)</td><td>500 ng /m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Cadmium (Cd) im Schwebestaub (PM10)</td><td>1,5 ng/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Staubniederschlag insgesamt</td><td>200 mg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Blei (Pb) im Staubniederschlag</td><td>100 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Cadmium (Cd) im Staubniederschlag</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Zink (Zn) im Staubniederschlag</td><td>400 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Thallium (Tl) im Staubniederschlag</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td colspan="3">Hinweis: mg = Milligramm: 1 mg = 0,001 g mg = Milligramm: 1 mg = 0,001 g µg = Mikrogramm: 1 µg = 0,001 mg ng = Nanogramm: 1 ng = 0,001 µg d = Tag Das Zeichen «≤» bedeutet «kleiner oder gleich». <sup>a</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 10 µm. <sup>b</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 2.5 µm.</td></tr>
+</table>

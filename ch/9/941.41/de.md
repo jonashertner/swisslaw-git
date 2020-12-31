@@ -1,0 +1,626 @@
+---
+sr: "941.41"
+title: "Bundesgesetz vom 25. März 1977 über Sprengstoffe (Sprengstoffgesetz, SprstG)"
+short: SprstG
+eli: "https://fedlex.data.admin.ch/eli/cc/1980/522_522_522"
+language: de
+version: 2013-01-01
+adopted: 1977-03-25
+in_force: 1980-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20130101/de/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20130101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20130101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über explosionsgefährliche Stoffe
+
+(Sprengstoffgesetz, SprstG**[^t-1]**)
+
+vom 25. März 1977 (Stand am 1. Januar 2013)
+
+[^t-1]: Abkürzung eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 20 Absatz 1, 31<sup>bis</sup> Absatz 2, 32 Absatz 3, 34<sup>ter</sup>, 40<sup>bis</sup>, 64<sup>bis</sup>, 69<sup>bis</sup> und 85 Ziffer 7 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 20. August 1975[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: [BS **1** 3; [AS 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001), [1985 659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)]. Diesen Bestimmungen entsprechen die Art. 60 Abs. 1, 95 Abs. 1, 107, 110, 118, 123 Abs. 1 und 173 Abs. 1 Bst. b der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-3]: [BBl 1975 II 1289](https://fedlex.data.admin.ch/eli/fga/1975/2_1289_1301_1261)
+
+## 1. Abschnitt: Geltungsbereich und Begriffe
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz regelt den Verkehr mit Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver. Seine Bestimmungen über pyrotechnische Gegenstände gelten auch für Schiesspulver, mit Ausnahme der Artikel 12 Absatz 5, 14 sowie 24 Absatz 3 und soweit dafür keine besonderen Vorschriften bestehen.[^1-1]
+
+<sup>2</sup> Bei pyrotechnischen Gegenständen für Vergnügungszwecke ist das Gesetz nur auf den Hersteller, den Importeur und den Verkäufer sowie auf deren Angestellte und Hilfspersonen anwendbar.
+
+<sup>3</sup> Schiesspulver, das als Treibladung für Munition von Feuerwaffen verwendet wird, unterliegt den Bestimmungen der Waffengesetzgebung.[^1-2]
+
+<sup>4</sup> Die Bundesgesetzgebung über das Kriegsmaterial und über den Schutz vor gefährlichen Stoffen und Zubereitungen bleibt vorbehalten, soweit dieses Gesetz oder eine Ausführungsverordnung keine besonderen Vorschriften aufstellt.[^1-3]
+
+<sup>5</sup> Ebenfalls vorbehalten bleiben die kantonalen bau- und feuerpolizeilichen Vorschriften.[^1-4]
+
+[^1-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^1-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d).
+[^1-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d).
+[^1-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d).
+
+#### Art. 2
+
+**Armee und Militärverwaltungen**
+
+<sup>1</sup> Die Armee, die eidgenössischen und kantonalen Militärverwaltungen und ihre Betriebe unterstehen diesem Gesetz nur, wenn sie Sprengmittel an zivile Stellen oder Private abgeben.
+
+<sup>2</sup> Der Bundesrat erlässt Vorschriften für den Verkehr mit Sprengmitteln in der Armee, den Militärverwaltungen und ihren Betrieben. Er darf von diesem Gesetz nur abweichen, wenn die Interessen der Landesverteidigung es erfordern.
+
+<sup>3</sup> Der Bundesrat kann diese Befugnis dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport[^2-1] und dessen Abteilungen übertragen.
+
+[^2-1]: Bereinigung gemäss nicht veröffentlichtem BRB vom 19. Dez 1997.
+
+#### Art. 2a
+
+**Polizei und Feuerwehr**[^2a-1]
+
+<sup>1</sup> Der Bundesrat kann die Polizei und die Feuerwehr ganz oder teilweise von diesem Gesetz ausnehmen.
+
+<sup>2</sup> Er kann für diese Stellen besondere Bestimmungen erlassen.
+
+[^2a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 3
+
+**Verkehr**
+
+<sup>1</sup> Als Verkehr gilt jeder Umgang mit Sprengmitteln und pyrotechnischen Gegenständen, insbesondere das Herstellen, Lagern, Besitzen, Einführen, Abgeben, Beziehen, Verwenden und Vernichten.
+
+<sup>2</sup> Die Beförderung im Post-, Eisenbahn-, Strassen-, Luft- und Schiffsverkehr des Inlandes gilt nicht als Verkehr im Sinne dieses Gesetzes; sie richtet sich nach den besonderen Vorschriften der Bundesgesetzgebung und internationaler Abkommen.
+
+#### Art. 4
+
+**Sprengmittel**
+
+Unter Sprengmitteln sind Sprengstoffe und Zündmittel zu verstehen.
+
+#### Art. 5
+
+**Sprengstoffe**
+
+<sup>1</sup> Sprengstoffe sind einheitliche chemische Verbindungen oder Gemische solcher Verbindungen, die durch Zündung, mechanische Einwirkung oder auf andere Weise zur Explosion gebracht werden können und die wegen ihrer zerstörenden Kraft, sei es in freier oder verdämmter Ladung, schon in verhältnismässig geringer Menge gefährlich sind.
+
+<sup>2</sup>
+
+Nicht als Sprengstoffe gelten:
+
+- a. explosionsfähige Gase, Dämpfe von flüssigen Brennstoffen sowie andere Stoffe, die erst nach einer Vermischung mit Luft explodieren;
+- b. bei der Herstellung chemischer Produkte verwendete Hilfsstoffe oder entstehende Zwischenerzeugnisse, die explosionsgefährlich sind, aber diese Eigenschaft vor Abschluss des Produktionsverfahrens verlieren;
+- c. explosionsfähige Erzeugnisse und Präparate, die nicht zu Sprengzwecken hergestellt und in den Handel gebracht werden.
+
+#### Art. 6
+
+**Zündmittel**
+
+Zündmittel enthalten explosive Stoffe und dienen zur Zündung eines Sprengstoffes.
+
+#### Art. 7
+
+**Pyrotechnische Gegenstände**
+
+Pyrotechnische Gegenstände sind gebrauchsfertige Erzeugnisse mit einem Explosiv- oder Zündsatz, die
+
+- a. nicht zum Sprengen, sondern zu andern industriellen, technischen oder landwirtschaftlichen Zwecken bestimmt sind, wie Signalmittel, Wetterraketen, Patronen zum Schweissen oder Härten von Metallen, oder
+- b. bloss dem Vergnügen dienen, wie die Feuerwerkskörper.
+
+#### Art. 7a
+
+**Schiesspulver**[^7a-1]
+
+<sup>1</sup>
+
+Als Schiesspulver gelten:
+
+- a. jedes für Geschosse verwendbare Treibmittel, auch wenn es Bestandteil von Halb- oder Fertigfabrikaten ist;
+- b. jedes für pyrotechnische Gegenstände verwendbare Treibmittel, auch wenn es Bestandteil von Halb- oder Fertigfabrikaten ist.
+
+<sup>2</sup> Der Bundesrat kann Treibmittel, die auch andern Zwecken dienen, ausnehmen.
+
+[^7a-1]: Eingefügt durch Ziff. I 3 des BG vom 13 Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+## 2. Abschnitt: *…*
+
+#### Art. 8
+
+[^8-1]
+
+[^8-1]: Aufgehoben durch Ziff. I 3 des BG vom 13 Dez. 1996, mit Wirkung seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+## 3. Abschnitt: Berechtigung zum Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen
+
+#### Art. 8a
+
+**Grundsatz**[^8a-1]
+
+Sprengmittel und pyrotechnische Gegenstände dürfen nur in Verkehr gebracht werden, wenn sie bei bestimmungsgemässer und sorgfältiger Verwendung das Leben und die Gesundheit der Benützer und Dritter nicht gefährden. Der Bundesrat legt die grundlegenden Sicherheitsanforderungen fest und regelt die Konformitäts- und Bewilligungsverfahren; er berücksichtigt dabei das entsprechende internationale Recht.
+
+[^8a-1]: Eingefügt durch Ziff. I 3 des BG vom 13 Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+#### Art. 9
+
+**Herstellung sowie Ein-, Aus- und Durchfuhr[^9-1]**
+
+<sup>1</sup> Sprengmittel und Schiesspulver dürfen nur mit einer Bewilligung des Bundes in der Schweiz hergestellt oder eingeführt werden. Wer die Bewilligung erhält, Sprengmittel und Schiesspulver herzustellen, darf sie auch im Inland verkaufen. Eine Bewilligung nach der Waffengesetzgebung für die Einfuhr von Schiesspulver gilt als Einfuhrbewilligung nach diesem Gesetz.[^9-2]
+
+<sup>1bis</sup>
+
+Die Aus- und die Durchfuhr von Sprengmitteln und Schiesspulver richten sich:
+
+- a. nach der Kriegsmaterialgesetzgebung, wenn das Sprengmittel oder das Schiesspulver auch von dieser erfasst ist;
+- b. nach der Güterkontrollgesetzgebung, wenn das Sprengmittel oder das Schiesspulver nicht auch von der Kriegsmaterialgesetzgebung erfasst ist.[^9-3]
+
+<sup>2</sup> Pyrotechnische Gegenstände dürfen nur mit einer Bewilligung des Bundes hergestellt oder eingeführt werden. Der Bundesrat regelt Erteilung, Entzug und Erlöschen der Bewilligungen. Er kann von der Bewilligungspflicht für einzelne Produkte oder Produktegruppen absehen, sofern die Sicherheit durch andere Vorkehren gewährleistet ist.[^9-4]
+
+<sup>3</sup> …[^9-5]
+
+[^9-1]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-2]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-3]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-4]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^9-5]: Aufgehoben durch Ziff. I 3 des BG vom 22. Juni 2001, mit Wirkung seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)).
+
+#### Art. 10
+
+**Bewilligung zum Verkauf im Inland**
+
+<sup>1</sup> Wer im Inland mit Sprengmitteln oder pyrotechnischen Gegenständen handelt, bedarf einer Bewilligung. Der Bundesrat regelt Erteilung, Entzug und Erlöschen der Bewilligungen. Er kann von der Bewilligungspflicht für einzelne Produkte oder Produktegruppen absehen, sofern die Sicherheit durch andere Vorkehren gewährleistet ist.[^10-1]
+
+<sup>2</sup> Die Bewilligung wird von dem Kanton erteilt, in welchem der Verkäufer seine geschäftliche Niederlassung hat; bei Niederlassungen in mehreren Kantonen haben sich diese vorher zu verständigen.
+
+<sup>3</sup> Die Bewilligung gilt für den Verkauf in der ganzen Schweiz. Im Detailhandel mit pyrotechnischen Gegenständen für Vergnügungszwecke gilt sie nur im Kanton, der sie ausgestellt hat.
+
+<sup>4</sup> Die Bewilligung wird nur vertrauenswürdigen Unternehmen und gut beleumdeten Personen erteilt, die über die erforderlichen Kenntnisse und die vorgeschriebenen Sprengmittellager verfügen.
+
+<sup>5</sup> Die Bewilligung zur Abgabe von Sprengmitteln durch die Armee, die eidgenössischen und kantonalen Militärverwaltungen oder ihre Betriebe an zivile Stellen und Private ist Sache des Bundes.
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+#### Art. 11
+
+**Beschränkung und Verteilung der Sprengmittellager**
+
+<sup>1</sup> Die Sprengmittellager der Verkäufer sind auf die nötige Zahl zu beschränken und angemessen auf das Land zu verteilen.
+
+<sup>2</sup> Der Bundesrat bestimmt die Zahl der Lager und deren regionale Verteilung. Er kann diese Befugnis dem Eidgenössischen Justiz- und Polizeidepartement übertragen.
+
+#### Art. 12
+
+**Erwerbsschein**
+
+<sup>1</sup> Wer als Verbraucher Sprengmittel beziehen will, bedarf eines Erwerbsscheines; dieser ist dem Verkäufer vor dem Bezug der Ware zu übergeben und von ihm aufzubewahren.
+
+<sup>2</sup> Der Erwerbsschein nennt Name, Vorname, Geburtsdatum und Wohnort des Käufers, Art und Menge der Sprengmittel sowie Zweck und Ort der Verwendung. Bei Unternehmen und Amtsstellen sind der Sitz sowie die Personalien der für sie handelnden Personen anzugeben.
+
+<sup>3</sup> Der Erwerbsschein wird vom Kanton ausgestellt, in dem der Käufer wohnt oder seinen Sitz hat. Er wird nur abgegeben, wenn die Angaben des Käufers glaubhaft sind und für eine zulässige und fachgemässe Verwendung der Sprengmittel Gewähr besteht.
+
+<sup>4</sup> Wer Sprengmittel, die er herstellt oder in die Schweiz einführt, selber verwenden will, hat der zuständigen Behörde des Verwendungsortes die Angaben nach Absatz 2 zu machen.
+
+<sup>5</sup> Der Bundesrat erlässt Vorschriften über den Bezug von pyrotechnischen Gegenständen, für die ein Ausweis nach Artikel 14 Absatz 2 erforderlich ist.[^12-1] Er kann die Voraussetzungen zum Bezug erleichtern oder von Auflagen ganz befreien, wenn die Sicherheit durch andere Vorkehren gewährleistet ist.[^12-2]
+
+[^12-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^12-2]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+#### Art. 13
+
+**Kleinverbraucher**
+
+<sup>1</sup> Als Kleinverbraucher gilt, wer Sprengmittel nur gelegentlich und nur in kleineren Mengen benötigt.
+
+<sup>2</sup> Es ist ihm untersagt, Sprengmittel länger als drei Monate vorrätig zu halten. Nach Ablauf dieser Frist hat er nicht verwendete Sprengmittel unverzüglich dem Verkäufer zurückzugeben oder einen neuen Erwerbsschein einzuholen.
+
+<sup>3</sup> Der Verkäufer ist verpflichtet, diese Sprengmittel zurückzunehmen und angemessen zu vergüten.
+
+#### Art. 14
+
+**Ausweis[^14-1]**
+
+<sup>1</sup> Sprengladungen dürfen nur von Personen oder unter der Aufsicht von Personen vorbereitet und gezündet werden, die einen Ausweis besitzen.[^14-2]
+
+<sup>2</sup> Das gilt auch für die Verwendung pyrotechnischer Gegenstände, die für industrielle, technische oder landwirtschaftliche Zwecke bestimmt sind. Der Bundesrat kann dieses Erfordernis auf bestimmte Arten beschränken oder es auf pyrotechnische Gegenstände, die zu Vergnügungszwecken dienen, ausdehnen.[^14-3]
+
+<sup>3</sup>
+
+Der Bundesrat erlässt nach Anhören der Kantone, der Schweizerischen Unfallversicherungsanstalt sowie der interessierten Wirtschaftskreise und Berufsverbände Vorschriften über:
+
+- a. die Kategorien von Ausweisen;
+- b. die Anforderungen, welche an die Ausbildung und die Prüfungen zu stellen sind.
+
+<sup>3bis</sup> Er kann den Erlass von Anforderungen nach Absatz 3 Buchstabe b Berufsverbänden übertragen, soweit er dafür die Aufsicht einer Bundesstelle vorsieht.[^14-4]
+
+<sup>4</sup> Soweit für die Durchführung der Prüfungen nicht geeignete Organisationen der Wirtschaft herangezogen werden können, obliegt sie den Kantonen.
+
+<sup>5</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung[^14-5] beaufsichtigt die Prüfungen.
+
+<sup>6</sup> Die mit dem Vollzug dieses Artikels beauftragten Behörden sind zur Erfüllung ihrer gesetzlichen Aufgaben berechtigt, die AHV-Versichertennummer nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^14-6] über die Alters- und Hinterlassenenversicherung systematisch zu verwenden.[^14-7]
+
+[^14-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 5 des BG vom 12. Juni 2010 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-5]: Ausdruck gemäss Ziff. I 32 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
+[^14-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^14-7]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 15
+
+**Verbotener Verkehr**
+
+<sup>1</sup> Unbeständige oder gegen äussere Einwirkungen besonders empfindliche Sprengmittel und pyrotechnische Gegenstände dürfen weder hergestellt noch eingeführt werden. Im Zweifel ist der Zentralstelle des Bundesamtes für Polizei[^15-1] vorher ein Muster zu unterbreiten.
+
+<sup>2</sup> Der Verkauf von Sprengmitteln und pyrotechnischen Gegenständen im Wanderhandel oder auf Märkten ist untersagt.
+
+<sup>3</sup> An Personen unter 18 Jahren dürfen weder Sprengmittel noch gefährliche Feuerwerkskörper abgegeben werden.
+
+<sup>4</sup> Sprengmittel oder pyrotechnische Gegenstände, die zur eigenen Verwendung erworben wurden und für die ein Ausweis nach Artikel 14 Absatz 2 erforderlich ist, dürfen nicht an Dritte weitergegeben werden.[^15-2]
+
+<sup>5</sup> Es ist verboten, Sprengmittel und pyrotechnische Gegenstände, die für andere Zwecke bestimmt sind, zu Vergnügungszwecken zu verwenden. Die Kantone können die Verwendung von Schiesspulver für die Feier historischer Anlässe oder für ähnliche Bräuche ausnahmsweise erlauben, wenn für die fachgemässe Verwendung Gewähr besteht.
+
+[^15-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Die Anpassung wurde im ganzen Erlass vorgenommen.
+[^15-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 16
+
+**Besondere Fälle**
+
+Der Bundesrat kann den Verkehr mit Sprengmitteln erleichtern und bei geringen Mengen von der Bewilligungspflicht befreien, wenn sie Zwecken der Wissenschaft, Forschung oder Ausbildung im Inland dienen.
+
+## 4. Abschnitt: Schutz- und Sicherheitsvorschriften
+
+#### Art. 17
+
+**Grundregel**
+
+Wer mit Sprengmitteln oder pyrotechnischen Gegenständen umgeht, ist verpflichtet, zu ihrer Sicherung sowie zum Schutze von Leben und Gut alle nach den Umständen gebotenen und zumutbaren Massnahmen zu treffen.
+
+#### Art. 18
+
+**Verantwortung in Fabrikationsbetrieben**
+
+<sup>1</sup> Betriebe, die Sprengmittel oder pyrotechnische Gegenstände herstellen, haben die für die Herstellung, das Lagern und den Versand verantwortlichen Personen zu bezeichnen. Sie dürfen dafür nur Personen einsetzen, welche die nötigen persönlichen und fachlichen Voraussetzungen erfüllen.
+
+<sup>2</sup> Dies gilt auch für Betriebe, die Munition herstellen, soweit sie Sprengmittel verwenden.
+
+#### Art. 19
+
+**Verpackung**
+
+<sup>1</sup> Verpackungen und Behälter von Sprengmitteln und pyrotechnischen Gegenständen müssen so beschaffen und bezeichnet sein, dass eine Gefährdung von Leben und Gut ausgeschlossen ist.
+
+<sup>2</sup> Zündmittel dürfen nicht zusammen mit Sprengstoffen verpackt werden.
+
+<sup>3</sup>
+
+Auf den Verpackungen und Behältern, in denen Sprengstoffe oder Zündmittel abgegeben werden, sind anzugeben:
+
+- a. die Art und Menge des Sprengstoffes oder der Zündmittel;
+- b. der Hersteller oder Importeur;
+- c. das Datum der Herstellung und der äusserste Verwendungstermin.
+
+<sup>4</sup> Der Bundesrat kann zusätzliche Bestimmungen über die Verpackung und Beschriftung erlassen und für pyrotechnische Gegenstände Erleichterungen vorsehen.
+
+#### Art. 20
+
+**Lagern von Sprengmitteln**
+
+<sup>1</sup> Sprengstoffe und Sprengschnüre sind von den übrigen detonierenden Zündmitteln getrennt zu lagern.[^20-1]
+
+<sup>2</sup> Die Sprengmittellager der Hersteller, Importeure und Verkäufer sind nach den anerkannten Regeln der Sicherheitstechnik einzurichten und zu unterhalten; sie müssen insbesondere gegenüber Wohnsiedlungen, öffentlichen Verkehrswegen und Betrieben, die der Allgemeinheit dienen, einen ausreichenden Sicherheitsabstand aufweisen.
+
+<sup>3</sup> Der Bundesrat bestimmt, welchen Sicherheitsanforderungen Verbrauchermagazine mit Bezug auf den Standort, die Bauweise und die Einrichtung genügen müssen und nach welchen Sicherheitsvorschriften Sprengmittel ausserhalb eines Lagers aufbewahrt werden dürfen.
+
+[^20-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 21
+
+**Lagern und Aufbewahren von pyrotechnischen Gegenständen**
+
+Der Bundesrat kann das Lagern und Aufbewahren von pyrotechnischen Gegenständen, insbesondere wenn sie gegen äussere Einwirkungen unempfindlich sind, an erleichterte Voraussetzungen knüpfen. Er kann ferner das Aufbewahren solcher Gegenstände in Verkaufsräumen verbieten, beschränken oder von Bedingungen abhängig machen.
+
+#### Art. 22
+
+**Sicherung**
+
+<sup>1</sup> Sprengmittel und pyrotechnische Gegenstände sind zu sichern, insbesondere gegen Feuer, Witterungseinflüsse, Diebstahl und Wegnahme durch Unbefugte.
+
+<sup>2</sup> Dies gilt auch für Betriebe, die Munition herstellen, soweit sie Sprengmittel verwenden.
+
+#### Art. 23
+
+**Massnahmen zum Schutze der Arbeitnehmer**
+
+<sup>1</sup> Die Inhaber von Betrieben und Unternehmen, die mit Sprengmitteln oder pyrotechnischen Gegenständen umgehen, müssen ausserdem alle anderen Massnahmen zum Schutze der Arbeitnehmer treffen, die nach den Erfahrungen notwendig, nach dem Stande der Technik anwendbar und den Verhältnissen des Betriebes oder Unternehmens angemessen sind.
+
+<sup>2</sup> Die Bestimmungen über die Unfallverhütung nach dem Bundesgesetz vom 20. März 1981[^23-1] über die Unfallversicherung bleiben vorbehalten.[^23-2]
+
+[^23-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^23-2]: Fassung gemäss Anhang Ziff. 14 des BG vom 20. März 1981 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+
+#### Art. 24
+
+**Beförderung**
+
+<sup>1</sup> Sprengmittel dürfen innerhalb von Fabrikationsbetrieben, auf Baustellen sowie auf dem Weg nach und von den Verwendungsorten nur von Personen befördert werden, die darin unterrichtet sind.
+
+<sup>2</sup> Sprengstoffe und detonierende Zündmittel dürfen nur in getrennten Behältern befördert werden. Dies gilt auch für den Transport vom Verbrauchermagazin zum Verwendungsort.
+
+<sup>3</sup> Der Bundesrat erlässt Vorschriften über die Beförderung von pyrotechnischen Gegenständen, wobei er von den für Sprengmittel geltenden Bestimmungen abweichen darf.
+
+#### Art. 25
+
+**Verwendung zum Sprengen**
+
+Der Bundesrat bestimmt nach Anhören der Kantone, der Schweizerischen Unfallversicherungsanstalt sowie der interessierten Wirtschaftskreise und Berufsverbände, welche besonderen Schutz- und Sicherheitsvorschriften beim Vorbereiten und Ausführen von Sprengarbeiten zu beachten sind.
+
+#### Art. 26
+
+**Vernichtung, Rückgabe**
+
+<sup>1</sup> Sprengmittel, die in ihrer Wirkungsweise, Brauchbarkeit oder Beständigkeit nach dem Stand der Technik Mängel aufweisen, sind durch Sachverständige zu vernichten oder dem Verkäufer zurückzugeben.
+
+<sup>2</sup> Diese Vorschrift gilt sinngemäss auch für pyrotechnische Gegenstände.
+
+## 5. Abschnitt: Haftpflichtbestimmungen
+
+#### Art. 27
+
+**Haftpflicht**
+
+<sup>1</sup> Der Inhaber eines Betriebes oder einer Anlage, in denen Sprengmittel oder pyrotechnische Gegenstände hergestellt, gelagert oder verwendet werden, haftet für den Schaden, der durch die Explosion solcher Mittel oder Gegenstände verursacht wird.
+
+Im Übrigen gelten die allgemeinen Bestimmungen des Obligationenrechts[^27-1] über die unerlaubten Handlungen.
+
+<sup>2</sup> Von der Haftpflicht wird befreit, wer beweist, dass der Schaden durch höhere Gewalt oder durch grobes Verschulden des Geschädigten oder eines Dritten verursacht worden ist.
+
+<sup>3</sup> Bund, Kantone und Gemeinden haften ebenfalls nach diesen Bestimmungen.
+
+[^27-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+## 6. Abschnitt: Überwachung des Verkehrs mit Sprengmitteln und pyrotechnischen Gegenständen
+
+#### Art. 28
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Kantone überwachen den Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen. Artikel 33 Absatz 3 bleibt vorbehalten.[^28-1]
+
+<sup>2</sup> Die Zollverwaltung überwacht die Einfuhr von Sprengmitteln und pyrotechnischen Gegenständen.[^28-2]
+
+<sup>3</sup> Die Überwachung des Verkehrs mit Sprengmitteln in der Armee und in den eidgenössischen und kantonalen Militärverwaltungen ist Sache des Bundes.
+
+[^28-1]: Zweiter Satz eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^28-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 29
+
+**Buchführung**
+
+<sup>1</sup> Inhaber von Bewilligungen zur Herstellung, Einfuhr und zum Verkauf von Sprengmitteln haben über den Umsatz von Sprengstoffen und Zündmitteln je ein Verzeichnis zu führen.
+
+<sup>2</sup> Grossverbraucher von Sprengmitteln sind ebenfalls zur Führung der Verzeichnisse verpflichtet.
+
+<sup>3</sup> Die Verzeichnisse müssen über Art, Menge, Herkunft und Verbleib der Sprengmittel genaue Auskunft geben.
+
+<sup>4</sup> Die Verzeichnisse samt den Belegen sind fünf Jahre geordnet aufzubewahren. Der Bundesrat kann eine längere Aufbewahrungsfrist vorsehen.[^29-1]
+
+<sup>5</sup> Der Bundesrat regelt die Buchführung über pyrotechnische Gegenstände. Er kann sie auf bestimmte Arten beschränken.
+
+[^29-1]: Zweiter Satz eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 30
+
+**Verlust, Unfälle**
+
+<sup>1</sup> Wem Sprengmittel oder pyrotechnische Gegenstände abhanden kommen, der hat den Verlust sofort der Polizei zu melden.
+
+<sup>2</sup> Ereignet sich in Betrieben oder in Unternehmen beim Umgang mit Sprengmitteln oder pyrotechnischen Gegenständen eine Explosion mit Personen- oder erheblichem Sachschaden, so haben die Vorgesetzten unverzüglich die Polizei zu benachrichtigen.
+
+<sup>3</sup> Die Meldepflicht nach Artikel 45 des Unfallversicherungsgesetzes[^30-1] bleibt vorbehalten.[^30-2]
+
+[^30-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^30-2]: Fassung gemäss Anhang Ziff. 14 des BG vom 20. März 1981 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+
+#### Art. 31
+
+**Auskunftspflicht**
+
+Wer mit Sprengmitteln oder pyrotechnischen Gegenständen umgeht, hat den Vollzugsorganen die erforderlichen Auskünfte zu erteilen und Einsicht in die Unterlagen zu gewähren, soweit er nicht nach den Gesetzen über das Strafverfahren das Zeugnis verweigern darf.
+
+#### Art. 32
+
+**Befugnisse der Vollzugsorgane**
+
+Die Vollzugsorgane können während der Arbeitszeit Betriebs- und Lagerräume ohne Voranmeldung betreten und besichtigen, die Verzeichnisse und die zugehörigen Unterlagen einsehen sowie Proben fordern oder entnehmen. Sie stellen belastendes Material sicher.
+
+#### Art. 33
+
+**Zentralstelle, Sprengstoffliste**[^33-1]
+
+<sup>1</sup> Zur Bekämpfung von Sprengstoffdelikten wird bei der vom Bundesrat bezeichneten Verwaltungseinheit eine Zentralstelle errichtet.
+
+<sup>2</sup> Die Zentralstelle führt eine Liste der Sprengmittel. Diese hat informatorischen Charakter und wird den Kantonen und der Schweizerischen Unfallversicherungsanstalt periodisch mitgeteilt.
+
+<sup>3</sup> Die Zentralstelle kontrolliert in Zusammenarbeit mit den zuständigen kantonalen Stellen stichprobeweise die in Verkehr gebrachten Sprengmittel und pyrotechnischen Gegenstände bezüglich ihrer Übereinstimmung mit den gesetzlichen Vorschriften.[^33-2]
+
+[^33-1]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^33-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 34
+
+**Unfallversicherungsgesetz**[^34-1]
+
+Die Massnahmen zum Schutze der Arbeitnehmer werden nach dem Bundesgesetz vom 20. März 1981[^34-2] über die Unfallversicherung vollzogen.
+
+[^34-1]: Fassung gemäss Anhang Ziff. 14 des BG vom 20. März 1981 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^34-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+## 6*a*. Abschnitt:**** Gebühren
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+#### Art. 34a
+
+Für die in diesem Gesetz vorgesehenen Bewilligungen werden Gebühren erhoben. Der Bundesrat setzt deren Ansätze fest.
+
+## 7. Abschnitt: Administrative Verfügungen und Rechtsschutz
+
+#### Art. 35
+
+**Verfügungen**
+
+<sup>1</sup> Kommt jemand den Verpflichtungen nicht nach, die ihm aufgrund dieses Gesetzes oder seiner Ausführungsbestimmungen obliegen, so trifft die zuständige Behörde die nötigen Verfügungen.
+
+<sup>2</sup> Sie kann insbesondere zum Schutze Dritter Massnahmen anordnen und bei grober Verletzung von Schutz- oder Sicherheitsvorschriften Sprengmittel und pyrotechnische Gegenstände sicherstellen, Bewilligungen entziehen und Fabrikationsbetriebe einstellen lassen.
+
+#### Art. 36
+
+**Rechtsschutz**[^36-1]
+
+Verfügungen über Ausweise im Sinne von Artikel 14 unterliegen der Beschwerde an das Staatssekretariat für Bildung, Forschung und Innovation[^36-2].
+
+[^36-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^36-2]: Ausdruck gemäss Ziff. I 32 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
+
+## 8. Abschnitt: Strafbestimmungen****
+
+[^sec8-1]
+
+[^sec8-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+
+#### Art. 37
+
+**Unbefugter Verkehr**
+
+<sup>1.</sup> Wer ohne Bewilligung oder entgegen Verboten dieses Gesetzes mit Sprengmitteln oder pyrotechnischen Gegenständen verkehrt, insbesondere solche herstellt, lagert, besitzt, einführt, abgibt, bezieht, verwendet oder vernichtet, wer unrichtige oder unvollständige Angaben macht, die für die Erteilung einer Bewilligung gemäss diesem Gesetz von Bedeutung sind, wer eine mit solchen Angaben erwirkte Bewilligung verwendet,
+
+wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bestraft. Handelt der Täter fahrlässig, so ist die Strafe Haft oder Busse.
+
+<sup>2.</sup> Wer ohne Bewilligung Schiesspulver oder schiesspulverhaltige Halb- oder Fertigfabrikate herstellt, einführt oder damit handelt, wird mit Busse bestraft.[^37-1]
+
+[^37-1]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+
+#### Art. 38
+
+**Andere Widerhandlungen**
+
+<sup>1.</sup> Wer Schutz- oder Sicherheitsvorschriften dieses Gesetzes (Art. 17–26) oder einer Ausführungsverordnung missachtet, wer die ihm nach diesem Gesetz oder seinen Ausführungsbestimmungen obliegende Buchführungs-, Melde- oder Auskunftspflicht verletzt, wer in anderer Weise diesem Gesetz, seinen Ausführungsvorschriften oder einer unter Hinweis auf die Strafandrohung an ihn gerichteten Einzelverfügung (Art. 35) vorsätzlich zuwiderhandelt,
+
+wird mit Haft oder mit Busse bestraft.
+
+<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
+
+#### Art. 39
+
+**Widerhandlungen in Geschäftsbetrieben, durch Beauftragte u. dgl.**
+
+<sup>1</sup> Wird eine Widerhandlung beim Besorgen der Angelegenheiten einer juristischen Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit oder sonst in Ausübung geschäftlicher oder dienstlicher Verrichtungen für einen andern begangen, so finden die Strafbestimmungen auf diejenigen natürlichen Personen Anwendung, welche die Tat verübt haben.
+
+<sup>2</sup> Der Geschäftsherr oder Arbeitgeber, Auftraggeber oder Vertretene, der es vorsätzlich oder fahrlässig in Verletzung einer Rechtspflicht unterlässt, eine Widerhandlung des Untergebenen, Beauftragten oder Vertreters abzuwenden oder in ihren Wirkungen aufzuheben, untersteht den Strafbestimmungen, die für den entsprechend handelnden Täter gelten.
+
+<sup>3</sup> Ist der Geschäftsherr oder Arbeitgeber, Auftraggeber oder Vertretene eine juristische Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit, so findet Absatz 2 auf die schuldigen Organe, Organmitglieder, geschäftsführenden Gesellschafter, tatsächlich leitenden Personen oder Liquidatoren Anwendung.
+
+#### Art. 40
+
+**Verhältnis zu anderen Strafgesetzen**
+
+<sup>1</sup> Die Artikel 224–226 des Strafgesetzbuches[^40-1] schliessen Strafen nach diesem Gesetz nur aus, wenn sie die Tat nach dem Unrechtsgehalt und dem Verschulden allseitig abgelten.
+
+<sup>2</sup> und <sup>3</sup> …[^40-2]
+
+<sup>4</sup> Die Strafbestimmungen dieses Gesetzes gehen den Artikeln 49 und 50 des Chemikaliengesetzes vom 15. Dezember 2000[^40-3] und den Artikeln 112 und 113 des Unfallversicherungsgesetzes vom 20. März 1981[^40-4] vor.[^40-5]
+
+[^40-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^40-2]: Aufgehoben durch Art. 45 des Kriegsmaterialgesetzes vom 13. Dez. 1996, mit Wirkung seit 1. April 1998 ([AS 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794); [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)).
+[^40-3]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^40-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^40-5]: Fassung gemäss Anhang Ziff. II 5 des Chemikaliengesetzes vom 15. Dez. 2000, in Kraft seit 1. Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+
+#### Art. 41
+
+**Strafverfolgung**
+
+<sup>1</sup> Die Strafverfolgung ist Sache der Kantone.
+
+<sup>2</sup> …[^41-1]
+
+[^41-1]: Aufgehoben durch Ziff. I des BG vom 13. Dez. 1996, mit Wirkung seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+## 9. Abschnitt: Schlussbestimmungen
+
+#### Art. 42
+
+**Vollzug**
+
+<sup>1</sup> Der Bundesrat erlässt die Vollzugsbestimmungen.
+
+<sup>2</sup> Die Kantone bezeichnen die zuständigen Vollzugsbehörden und erlassen die organisatorischen Bestimmungen; …[^42-1]
+
+<sup>3</sup> Der Vollzug des Gesetzes obliegt, soweit er nicht ausdrücklich dem Bund vorbehalten ist, den Kantonen. Diese können für die Erteilung von Bewilligungen sowie für besondere Kontrollen innerhalb eines vom Bundesrat festzusetzenden Rahmens Gebühren erheben.
+
+<sup>4</sup> Der Bund hat die Oberaufsicht über den Vollzug des Gesetzes.
+
+[^42-1]: Zweiter Halbsatz aufgehoben durch Ziff. II 54 des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, mit Wirkung seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+
+#### Art. 43
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Wer mit Sprengmitteln oder pyrotechnischen Gegenständen handelt und damit fortfahren will, hat spätestens drei Monate nach Inkrafttreten des Gesetzes bei der kantonalen Behörde um eine Bewilligung nachzusuchen.
+
+<sup>2</sup> Die Bewilligung zum Verkauf von Sprengmitteln ist davon abhängig zu machen, dass ihr Inhaber spätestens ein Jahr nach Erteilung der Bewilligung über die vorgeschriebenen Sprengmittellager verfügt.
+
+<sup>3</sup> Kleinverbraucher haben innert sechs Monaten nach Inkrafttreten des Gesetzes alle noch vorrätigen Sprengmittel der Bezugsstelle gegen angemessene Vergütung zurückzugeben oder dafür einen Erwerbsschein einzuholen.
+
+<sup>4</sup> Zur Rückgabe der Sprengmittel an die Bezugsstelle sind auch Verkäufer verpflichtet, die das Geschäft aufgeben oder keine Bewilligung mehr erhalten.
+
+<sup>5</sup> Kleinverbraucher, die Sprengungen ohne Aufsicht ausführen wollen, haben innert drei Jahren nach Inkrafttreten des Gesetzes einen Ausweis zu erwerben.[^43-1]
+
+<sup>6</sup> Für Grossverbraucher beträgt diese Frist fünf Jahre. Nachher muss ihr Bestand an Arbeitern mit Ausweisen ihren Aufträgen entsprechen.[^43-2]
+
+<sup>7</sup> Die Artikel 9, 10, 15, 17, 27–32 und 34–41 gelten bis zum Inkrafttreten der Waffengesetzgebung des Bundes auch für Munition, die nicht dem Kriegsmaterialgesetz vom 13. Dezember 1996[^43-3] untersteht; der Bundesrat regelt die Einzelheiten.[^43-4]
+
+[^43-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^43-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^43-3]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^43-4]: Eingefügt durch Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+
+#### Art. 44
+
+**Vorbehalt zugunsten der Kantone**
+
+Die Kantone können den Detailhandel mit pyrotechnischen Gegenständen zu Vergnügungszwecken zeitlich auf bestimmte Anlässe beschränken, an weitere Bedingungen knüpfen und den Verkauf bestimmter Feuerwerkskörper verbieten.
+
+#### Art. 45
+
+**Aufhebung bisherigen Rechts**
+
+Das Bundesgesetz vom 30. April 1849[^45-1] über das Pulverregal wird aufgehoben.
+
+[^45-1]: [BS **5** 686; [AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 5]
+
+#### Art. 46
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+Datum des Inkrafttretens: 1. Juni 1980[^46-1]
+
+[^46-1]: BRB vom 26. März 1980

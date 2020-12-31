@@ -1,0 +1,149 @@
+---
+sr: "531.215.42"
+title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Erdgas (Erdgaspflichtlagerverordnung)
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/315"
+language: de
+version: 2017-06-01
+adopted: 2017-05-10
+in_force: 2017-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/315/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2017-315-20170601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/315/20170601/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Pflichtlagerhaltung von Erdgas
+
+(Erdgaspflichtlagerverordnung)
+
+vom 10. Mai 2017 (Stand am 1. Juni 2017)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 7 Absatz 1, 8 Absatz 2, 57 Absatz 1 und 60 Absatz 2 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-1] (LVG),
+
+verordnet:
+
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+
+#### Art. 1
+
+**Grundsatz**
+
+Die im Anhang aufgeführten Waren sind zur Sicherstellung der Versorgung des Landes mit Erdgas der Pflichtlagerhaltung unterstellt.
+
+#### Art. 2
+
+**Lagerpflicht**
+
+<sup>1</sup> Wer im Sinne von Artikel 4 Absatz 1 des Mineralölsteuergesetzes vom 21. Juni 1996[^2-1] Erdgas zum ersten Mal im Inland in den steuerrechtlich freien Verkehr bringt, ist lagerpflichtig.
+
+<sup>2</sup> Als Inland gelten das schweizerische Staatsgebiet und die Zollanschlussgebiete, nicht jedoch die Zollausschlussgebiete.
+
+<sup>3</sup> Hat der Erstinverkehrbringer keinen Sitz in der Schweiz, so kann das Bundesamt für wirtschaftliche Landesversorgung (BWL) diejenige Person, auf deren Rechnung die Ware im Inland in Verkehr gebracht wurde, ersatzweise für lagerpflichtig erklären.
+
+<sup>4</sup> Die Lagerpflicht kann auch durch eine finanzielle Beteiligung an der Lagerung von Heizöl extra-leicht in einem Ersatzpflichtlager erfüllt werden.
+
+[^2-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+
+#### Art. 3
+
+**Befreiung von der Vertragspflicht**
+
+Vom Abschluss eines Pflichtlagervertrags befreit ist, wer pro Kalenderjahr weniger als die im Anhang aufgeführten Grenzmengen in Verkehr bringt und sich verpflichtet, dem Verein Provisiogas (Provisiogas) die gleichen finanziellen Leistungen zu erbringen, wie sie sich aus einem entsprechenden Pflichtlagervertrag ergeben würden.
+
+#### Art. 4
+
+**Meldepflichten**
+
+<sup>1</sup> Lagerpflichtige, die Erdgas nach dem Anhang zum ersten Mal im Inland in Verkehr bringen, müssen die Provisiogas unverzüglich darüber informieren.
+
+<sup>2</sup> Sie haben der Provisiogas periodisch über Art und Menge der in Verkehr gebrachten Güter Meldung zu erstatten. Das BWL erlässt die notwendigen Weisungen.
+
+<sup>3</sup> Die Provisiogas informiert das BWL im Hinblick auf den Abschluss, die Änderung oder die Aufhebung eines Pflichtlagervertrags über den Inhalt der Meldungen nach Absatz 2.
+
+#### Art. 5
+
+**Ausmass der Pflichtlager und Anforderungen an die Qualität der eingelagerten Waren**
+
+<sup>1</sup>
+
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) bestimmt nach Anhören der beteiligten Wirtschaftskreise:
+
+- a. welche Waren in einem Pflichtlager gelagert werden müssen;
+- b. das Ausmass der Pflichtlager und die Anforderungen an die Qualität der eingelagerten Waren;
+- c. die Bemessungsgrundlagen, nach denen der Umfang der Pflichtlager der einzelnen Halter festgelegt wird;
+- d. den Umfang der stellvertretenden und der gemeinsamen Pflichtlagerhaltung.
+
+<sup>2</sup> Eine stellvertretende Pflichtlagerhaltung liegt vor, wenn der Pflichtlagerhalter seine Lagerpflicht einem Dritten überträgt.
+
+<sup>3</sup> Eine gemeinsame Pflichtlagerhaltung liegt vor, wenn der Pflichtlagerhalter seine Lagerpflicht einer Gesellschaft überträgt, die im Auftrag einer Pflichtlagerorganisation (Art. 16 Abs. 1 LVG) vorwiegend das Lagerhaltungsgeschäft mit Pflichtlagern betreibt.
+
+#### Art. 6
+
+**Zusammenarbeit der Behörden**
+
+Die Eidgenössische Zollverwaltung informiert das BWL in geeigneter Weise über das erste Inverkehrbringen von Erdgas.
+
+#### Art. 7
+
+**Kontrolle**
+
+<sup>1</sup> Die Kontrolle der Pflichtlager ist Aufgabe der Provisiogas. Das BWL erlässt die notwendigen Weisungen.
+
+<sup>2</sup> Das BWL kontrolliert die gemeinsamen Pflichtlager und zieht dazu Fachleute der Provisiogas bei.
+
+#### Art. 8
+
+**Regelung strittiger Fälle**
+
+Das BWL stellt in strittigen Fällen, gestützt auf die Meldungen der Provisiogas, durch Verfügung fest:
+
+- a. die Pflicht oder das Fehlen einer Pflicht zum Abschluss eines Pflichtlagervertrags;
+- b. den Zeitpunkt der Anlegung des Pflichtlagers;
+- c. den Wegfall der Lagerpflicht.
+
+#### Art. 9
+
+**Vollzug der Verordnung und Änderung des Anhangs**
+
+<sup>1</sup> Das BWL vollzieht diese Verordnung.
+
+<sup>2</sup> Das WBF kann den Anhang nach Anhören der beteiligten Wirtschaftskreise ändern.
+
+#### Art. 10
+
+**Aufhebung eines anderen Erlasses**
+
+Die Erdgaspflichtlagerverordnung vom 20. Mai 2015[^10-1] wird aufgehoben.
+
+[^10-1]: [[AS 2015 1635](https://fedlex.data.admin.ch/eli/oc/2015/324)]
+
+#### Art. 11
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Juni 2017 in Kraft.
+
+Anhang
+
+(Art. 1, 2 Abs. 1 und Art. 3)
+
+## Erdgas
+
+### 1 Erdgasarten, die der Pflichtlagerhaltung unterstellt sind
+
+<table>
+<tr><td>Zolltarifnummer[^annexu1-lvlu1-lvl1-1]</td><td>Warenbezeichnung</td></tr>
+<tr><td>2711.1190</td><td>Erdgas verflüssigt</td></tr>
+<tr><td>2711.2190</td><td>Erdgas in gasförmigem Zustand</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+
+### 2 Grenzmenge für den Abschluss eines Pflichtlagervertrags
+
+<table>
+<tr><td>Warenbezeichnung</td><td colspan="2">Menge</td></tr>
+<tr><td>Erdgasarten nach Ziffer 1</td><td colspan="2">&lt; 100 Tonnen</td></tr>
+</table>

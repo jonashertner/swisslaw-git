@@ -1,0 +1,140 @@
+---
+sr: "172.010.331"
+title: Ordinanza del 24 giugno 2009 sul Servizio di trasporto aereo della Confederazione (O-STAC)
+short: O-STAC
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/420"
+language: it
+version: 2019-01-01
+adopted: 2009-06-24
+in_force: 2010-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/420/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2009-420-20190101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/420/20190101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul Servizio di trasporto aereo della Confederazione
+
+(O-STAC)
+
+del 24 giugno 2009 (Stato 1° gennaio 2019)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 43 capoverso 2 e 47 capoverso 2 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA),
+
+ordina:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup>
+
+La presente ordinanza:
+
+- a. disciplina le prestazioni del Servizio di trasporto aereo della Confederazione (STAC);
+- b. definisce la cerchia delle persone autorizzate.
+
+<sup>2</sup> La presente ordinanza non è applicabile ai voli delle Forze aeree aventi scopi militari.
+
+#### Art. 2
+
+**Persone autorizzate e organi competenti per l’autorizzazione**
+
+<sup>1</sup>
+
+Delle prestazioni dello STAC possono beneficiare le persone seguenti:
+
+- a. i membri del Consiglio federale;
+- b. il cancelliere della Confederazione;
+- c. i presidenti del Consiglio nazionale e del Consiglio degli Stati;
+- d. il presidente del Tribunale federale;
+- e.[^2-1] gli ospiti di Stato invitati dal Consiglio federale nonché i mandatari, gli ospiti e le delegazioni svizzeri e stranieri designati caso per caso dal Consiglio federale o dall’Assemblea federale;
+- f.[^2-2] i segretari di Stato.
+
+<sup>2</sup>
+
+Altre persone possono beneficiare delle prestazioni dello STAC sulla base di un’autorizzazione scritta. Sono competenti per l’autorizzazione:
+
+- a. i Dipartimenti e la Cancelleria federale, per i collaboratori che sono loro subordinati o attribuiti nonché per i mandatari, gli ospiti o le delegazioni svizzere e straniere da essi designati caso per caso;
+- b.[^2-3] l’Assemblea federale, per i membri del Consiglio nazionale e del Consiglio degli Stati nonché per i collaboratori dei Servizi del Parlamento;
+- c. il Tribunale federale, per i propri membri.
+
+<sup>3</sup> L’organo competente rilascia l’autorizzazione sulla base dell’offerta di trasporto.
+
+<sup>4</sup> L’autorizzazione dà diritto a un volo verso un determinato luogo, se del caso con volo di ritorno o destinazioni terze.
+
+<sup>5</sup> Se una persona o un gruppo di persone di cui al capoverso 2 beneficia regolarmente delle prestazioni dello STAC, l’organo competente può rilasciare eccezionalmente un’autorizzazione generale. Esso può limitarla a livello temporale, geografico e materiale oppure vincolarla a condizioni e oneri.
+
+<sup>6</sup> Se per motivi di servizio o protocollari è necessario un accompagnamento, la persona autorizzata può far beneficiare delle prestazioni dello STAC anche la persona che l’accompagna. L’accompagnamento di persone di cui al capoverso 2 è disciplinato nell’autorizzazione.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 21 apr. 2010, in vigore dal 1° mag. 2010 ([RU 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+[^2-2]: Introdotta dal n. I dell’O del 28 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3351](https://fedlex.data.admin.ch/eli/oc/2018/544)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del 21 apr. 2010, in vigore dal 1° mag. 2010 ([RU 2010 1571](https://fedlex.data.admin.ch/eli/oc/2010/225)).
+
+#### Art. 3
+
+**Condizioni per il diritto alle prestazioni**
+
+<sup>1</sup> Le prestazioni dello STAC devono adempiere scopi di servizio nell’interesse della Confederazione.
+
+<sup>2</sup>
+
+Di una prestazione dello STAC si può beneficiare solo se è adempiuta una delle condizioni seguenti:
+
+- a. la prestazione è più economica rispetto ai voli di linea o ad altri mezzi di trasporto;
+- b. la prestazione riduce considerevolmente gli inconvenienti o la durata del viaggio;
+- c. la prestazione è necessaria per motivi di sicurezza, discrezione o rappresentanza.
+
+<sup>3</sup> Le persone autorizzate secondo l’articolo 2 capoverso 1 e gli organi competenti per l’autorizzazione secondo l’articolo 2 capoverso 2 sono responsabili del fatto che le condizioni per il diritto alle prestazioni siano adempiute. Sono eccettuate le persone autorizzate di cui all’articolo 2 capoverso 1 lettera e; in caso di prestazioni a loro favore, tale responsabilità è assunta dal Consiglio federale.
+
+#### Art. 4
+
+**Accordi quadro e ordinazione**
+
+<sup>1</sup> Le Forze aeree concludono con le unità amministrative di cui all’articolo 2 che ricorrono regolarmente alle prestazioni dello STAC accordi quadro sui principi per l’ottenimento delle prestazioni.
+
+<sup>2</sup> Gli accordi quadro sono regolarmente adeguati alle circostanze del momento.
+
+<sup>3</sup> Le singole prestazioni sono ottenute mediante ordinazione, sulla base di una corrispondente offerta di trasporto.
+
+#### Art. 5
+
+**Organizzazione, pianificazione ed esecuzione**
+
+<sup>1</sup> Lo STAC è una formazione delle Forze aeree.
+
+<sup>2</sup> Ricevuta una domanda di trasporto, le Forze aeree (centrale d’impiego del trasporto aereo) preparano un’offerta di trasporto e la sottopongono alla persona o all’unità amministrativa richiedente.
+
+<sup>3</sup> Le Forze aeree sono responsabili della pianificazione e dell’esecuzione dei voli dello STAC.
+
+<sup>4</sup> Se lo STAC non è in grado di eseguire un volo con mezzi propri, le Forze aeree, se del caso in collaborazione con la Centrale viaggi della Confederazione, possono noleggiare mezzi di trasporto aereo privati oppure incaricare terzi di fornire la prestazione.
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Abrogato dal n. I dell’O del 28 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3351](https://fedlex.data.admin.ch/eli/oc/2018/544)).
+
+#### Art. 7
+
+**Resoconti**
+
+Il Dipartimento federale della difesa, della protezione della popolazione e dello sport presenta annualmente al Consiglio federale, d’intesa con il Dipartimento federale delle finanze, un rapporto sulle prestazioni fornite secondo la presente ordinanza.
+
+#### Art. 8
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 19 dicembre 2001[^8-1] sui servizi di trasporto aereo della Confederazione è abrogata.
+
+[^8-1]: [[RU 2002 215](https://fedlex.data.admin.ch/eli/oc/2002/45)]
+
+#### Art. 9
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2010.

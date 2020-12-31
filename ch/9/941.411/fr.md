@@ -1,0 +1,2628 @@
+---
+sr: "941.411"
+title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
+short: OExpl
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
+language: fr
+version: 2021-01-01
+adopted: 2000-11-27
+in_force: 2001-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les substances explosibles
+
+(Ordonnance sur les explosifs, OExpl)
+
+du 27 novembre 2000 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Conseil fédéral suisse,
+
+vu les art. 34*a* et 42 de la loi du 25 mars 1977 sur les explosifs[^ingress-1] (LExpl[^ingress-2]), vu l’art. 40 de la loi du 13 mars 1964 sur le travail[^ingress-3], vu l’art. 83 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^ingress-4], et en application de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5], en exécution de la Convention du 1<sup>er</sup> mars 1991 sur le marquage des explosifs plastiques et en feuilles aux fins de détection[^ingress-6],
+
+arrête:
+
+[^ingress-1]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^ingress-2]: Nouvelle expression selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^ingress-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: [RS 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
+
+## Titre 1 Champ d’application et définitions
+
+#### Art. 1
+
+**Rapport avec les législations sur les produits chimiques et l’environnement**[^1-1]
+
+<sup>1</sup> Indépendamment du caractère dangereux pour la santé ou pour l’environnement des substances qu’ils contiennent, les matières explosives ou les engins pyrotechniques doivent être emballés et marqués uniquement selon les prescriptions de la présente ordonnance; font exception les engins pyrotechniques destinés à produire des gaz toxiques, du brouillard ou des mélanges pulvérulents. La destruction et l’élimination des matières explosives et des engins pyrotechniques sont régies par les art. 107 à 109.
+
+<sup>2</sup> Sont réservées les prescriptions de l’ordonnance du 5 juin 2015 sur les produits chimiques[^1-2] et de l’ordonnance du 27 février 1991 sur les accidents majeurs[^1-3].[^1-4]
+
+[^1-1]: Nouvelle teneur selon le ch. II 22 de l’O du 18 mai 2005 sur l’abrogation et la mod. du droit en vigueur du fait de la loi sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^1-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^1-3]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^1-4]: Nouvelle teneur selon l’annexe 6 ch. 8 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+
+#### Art. 1a
+
+**Définitions**[^1a-1]
+
+<sup>1</sup>
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *sécurité:* la sécurité qui garantit, lors de l’utilisation de matières explosives conformément à leur destination, la protection des personnes et des biens, et la limitation des conséquences d’un accident;
+- b. *explosifs:* les matières explosives et la poudre de guerre, au sens des art. 4 et 7*a* LExpl;
+- c. *pièce d’artifice:* tout engin pyrotechnique destiné à des fins de divertissement (catégories F1 à F4[^1a-2]);
+- d. *pièce d’artifice à usage professionnel:* toute pièce d’artifice de catégorie F4.
+- e.[^1a-3] *mise à disposition sur le marché:* toute fourniture de matières explosives ou d’engins pyrotechniques destinés à être distribués ou utilisés sur le marché suisse dans le cadre d’une activité commerciale, à titre onéreux ou gratuit; les pièces d’artifice construites pour ses propres besoins par un fabricant au bénéfice d’une autorisation de production ne sont pas considérées comme ayant été mises à disposition sur le marché suisse;
+- e<sup>bis</sup>.[^1a-4] *mise sur le marché:* la première mise à disposition de matières explosives ou d’engins pyrotechniques sur le marché suisse;
+- f. *commerce de détail:* la vente libre de pièces d’artifice des catégories F1 à F3 aux utilisateurs;
+- g. *personne ayant des connaissances particulières:* toute personne titulaire d’un permis d’emploi au sens de l’art. 14, al. 2, LExpl.
+
+<sup>2</sup> Au surplus, les définitions des art. 2 de la directive 2014/28/UE[^1a-5], 3 de la directive 2013/29/UE[^1a-6] et 2 de la directive 2008/43/CE[^1a-7] sont applicables. Les définitions de la législation sur la sécurité des produits et des accréditations se substituent à celles qui figurent aux art. 2, ch. 15 à 17, de la directive 2014/28/UE et 3, ch. 14 à 16, de la directive 2013/29/UE. Les équivalences terminologiques répertoriées à l’annexe 15 sont également applicables.[^1a-8]
+
+[^1a-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^1a-2]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1a-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^1a-4]: Introduite par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^1a-5]: Directive 2014/28/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des Etats membres concernant la mise à disposition sur le marché et le contrôle des explosifs à usage civil (refonte), version du JO L 96 du 29.3.2014, p. 1.
+[^1a-6]: Directive 2013/29/UE du Parlement européen et du Conseil du 12 juin 2013 relative à l’harmonisation des législations des Etats membres concernant la mise à disposition sur le marché d’articles pyrotechniques (refonte), version du JO L 178 du 28.6.2013, p. 27.
+[^1a-7]: Directive 2008/43/CE de la Commission du 4 avril 2008 portant mise en œuvre, en application de la directive 93/15/CEE du Conseil, d’un système d’identification et de traçabilité des explosifs à usage civil, JO L 94 du 5.4.2008, p. 8; modifiée en dernier lieu par la directive 2012/4/UE, JO L 50 du 23.2.2012, p. 18.
+[^1a-8]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 2
+
+**Explosifs**
+
+Sont notamment réputés explosifs:
+
+- a. les explosifs purs tels que le nitropenta, le trinitrotoluène et l’hexogène;
+- b. les mélanges tels que la poudre noire destinée à des minages (poudre de mine), les explosifs contenant de la nitroglycérine ou du nitroglycol, les explosifs au nitrate d’ammonium, les gels et les émulsions (slurries);
+- c. les explosifs primaires tels que l’azoture de plomb et le styphnate de plomb (syn. trinitrorésorcinate de plomb);
+- d. les cordeaux détonants.
+
+#### Art. 3
+
+**Moyens d’allumage destinés au minage**
+
+<sup>1</sup> Sont notamment réputés moyens d’allumage les détonateurs, les amorces (électriques, électroniques et non électriques), les retardateurs, les mèches d’allumage de sûreté et les conduits d’allumage.[^3-1]
+
+<sup>2</sup> Les cordeaux détonants peuvent aussi être utilisés comme moyens d’allumage.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 4
+
+**Substances et moyens d’allumage mis à disposition sur le marché à des fins autres que le minage**[^4-1]
+
+Les exigences formulées aux art. 8 à 23 ne s’appliquent ni aux substances visées à l’art. 2 ni aux moyens d’allumage, lorsque ces substances ou ces moyens d’allumage sont mis à disposition sur le marché à des fins autres que les tirs de mines.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 5
+
+**Engins pyrotechniques**
+
+<sup>1</sup> Les engins pyrotechniques contiennent au moins un élément explosif ou une charge d’inflammation. Leur énergie est destinée à produire de la lumière, de la chaleur, du bruit, de la fumée, du gaz, une poussée, un mouvement ou des effets comparables.[^5-1]
+
+<sup>2</sup> Les charges d’inflammation se consument; les éléments explosifs produisent une onde de pression ou onde de choc accompagnée d’une détonation.
+
+<sup>3</sup> Sont aussi considérés comme des engins pyrotechniques ceux qui nécessitent un dispositif de mise à feu.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 6
+
+**Engins pyrotechniques destinés à des fins professionnelles**[^6-1]
+
+<sup>1</sup> Sont considérés comme engins pyrotechniques destinés à des fins professionnelles les engins figurant à l’art. 7, let. a, LExpl. Ils sont rangés par le fabricant dans les catégories T1, T2, P1, P2 ou P3, selon les critères énoncés à l’annexe 1, ch. 1.
+
+<sup>2</sup> Les engins pyrotechniques des catégories T1 et P1 ne peuvent pas être remis à des personnes de moins de 18 ans.
+
+<sup>3</sup> Les engins pyrotechniques des catégories T2 et P2 ne peuvent être remis qu’à des personnes ayant des connaissances particulières.
+
+<sup>4</sup> S’agissant des engins pyrotechniques de la catégorie P3, seules leur fabrication et leur importation requièrent une autorisation. Les autres prescriptions concernant les engins pyrotechniques ne leur sont pas applicables.
+
+<sup>5</sup> L’Office central pour les explosifs et la pyrotechnie (OCEP) peut dans un cas particulier ranger un engin pyrotechnique dans une autre catégorie pour autant que des motifs d’ordre, de sécurité ou de sûreté publics, ou de protection de l’environnement l’exigent.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 7
+
+**Pièces d’artifice**[^7-1]
+
+<sup>1</sup> Les pièces d’artifice sont rangées par le fabricant dans les catégories F1 à F4 selon les critères figurant à l’annexe 1, ch. 2.
+
+<sup>2</sup> Les pièces d’artifice de la catégorie F1 ne peuvent pas être remises à des personnes de moins de douze ans. Seules leur fabrication et leur importation requièrent une autorisation. Les autres prescriptions concernant les engins pyrotechniques ne leur sont pas applicables.
+
+<sup>3</sup> Les pièces d’artifice de la catégorie F2 ne peuvent pas être remises à des personnes de moins de seize ans.
+
+<sup>4</sup> Les pièces d’artifice de la catégorie F3 ne peuvent pas être remises à des personnes de moins de 18 ans.
+
+<sup>5</sup> Les pièces d’artifice de la catégorie F4 ne sont destinées qu’à un usage professionnel. Elles ne peuvent être utilisées que par des personnes ayant des connaissances particulières. Elles ne peuvent pas être tenues dans le commerce de détail.
+
+<sup>6</sup> L’OCEP peut dans un cas particulier ranger une pièce d’artifice dans une autre catégorie, pour autant que des motifs d’ordre, de sécurité ou de sûreté publics, ou de protection de l’environnement l’exigent.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 7a
+
+**Obligations**[^7a-1]
+
+<sup>1</sup> Les obligations des opérateurs économiques sont régies par les art. 5 à 8 et les annexes II et III auxquelles ils renvoient de la directive 2014/28/UE[^7a-2] et 8, 12 et 13 et les annexes I et II auxquelles ils renvoient de la directive 2013/29/UE[^7a-3], pour autant qu’elles ne découlent pas de la présente ordonnance. L’OCEP est l’autorité nationale compétente.
+
+<sup>2</sup> L’obligation d’apposer le marquage CE ne s’applique pas. Si des marquages CE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE.
+
+<sup>3</sup>
+
+Un importateur ou un distributeur est considéré comme un fabricant au sens de la présente ordonnance et il est soumis aux obligations incombant au fabricant lorsqu’il:
+
+- a. met des matières explosives ou des engins pyrotechniques sur le marché sous son nom ou sa marque, ou
+- b. modifie des matières explosives ou des engins pyrotechniques déjà mis sur le marché, de telle sorte que la conformité aux exigences de la présente ordonnance peut en être affectée.
+
+[^7a-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^7a-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^7a-3]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+
+## Titre 2 Exigences concernant les matières explosives et les engins pyrotechniques
+
+### Chapitre 1 Matières explosives
+
+#### Art. 8
+
+**Conditions de mise à disposition sur le marché[^8-1]**
+
+<sup>1</sup>
+
+Peuvent être mises à disposition sur le marché les matières explosives qui:[^8-2]
+
+- a.[^8-3] répondent aux exigences essentielles de sécurité selon l’annexe II de la directive 2014/28/UE[^8-4];
+- b. satisfont aux exigences d’identification et de traçabilité de l’annexe 14;
+- c. répondent aux exigences formulées dans les art. 18 à 23.[^8-5]
+
+<sup>2</sup>
+
+Les dispositions du présent chapitre ne s’appliquent pas:
+
+- a.[^8-6] aux matières explosives utilisées en quantités limitées par la science, la recherche, le développement ou pour des essais;
+- b. aux matières explosives, exception faite de l’art. 19, qui sont destinées à être employées par la police;
+- c.[^8-7] ...
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^8-4]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^8-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-6]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-7]: Abrogée par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogé par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 10
+
+**Normes techniques**[^10-1]
+
+Les normes techniques qui se prêtent à la concrétisation des exigences essentielles prévues à l’annexe II de la directive 2014/28/UE[^10-2] sont désignées conformément à l’art. 6 de la loi du 12 juin 2009 sur la sécurité des produits[^10-3]. L’OCEP désigne ces normes en accord avec le Secrétariat d’État à l’économie (SECO).
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^10-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^10-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 11
+
+**Déclaration de conformité**
+
+<sup>1</sup> Toute personne qui met à disposition sur le marché des matières explosives doit pouvoir présenter une déclaration de conformité indiquant que les produits répondent aux exigences essentielles prévues à l’annexe II de la directive 2014/28/UE[^11-1].[^11-2]
+
+<sup>2</sup>
+
+La déclaration de conformité doit être libellée dans une des langues officielles suisses ou en anglais et contenir les indications ci-après:
+
+- a. les noms ou les signes d’identification et les adresses des fabricants, ainsi que les noms et les adresses des importateurs;
+- b. une description complète des matières explosives incluant les données d’identification et le numéro d’identification des Nations Unies[^11-3];
+- c. les prescriptions techniques, normes ou autres spécifications appliquées;
+- d. le cas échéant, la conformité avec l’attestation de l’examen de type au sens de l’art. 14, let. a;
+- e. le nom et l’adresse de la personne qui signe la déclaration de conformité pour le fabricant ou l’importateur.
+
+<sup>3</sup> Lorsque des matières explosives tombent sous le coup de plusieurs réglementations requérant une déclaration de conformité, une seule déclaration est suffisante.
+
+<sup>4</sup> La déclaration de conformité doit pouvoir être produite pendant dix ans à compter de la mise sur le marché du produit.[^11-4]
+
+[^11-1]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^11-3]: Figurent à l’annexe A de l’Ac. européen du 30 sept. 1957 relatif au transport international des marchandises dangereuses par route (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^11-4]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 12
+
+**Accomplissement des exigences**
+
+<sup>1</sup> La preuve de la conformité aux exigences essentielles prévues à l’annexe II de la directive 2014/28/UE[^12-1] est réputée fournie lorsque les matières explosives sont attestées conformes par un centre d’évaluation de la conformité au sens de l’art. 15.[^12-2]
+
+<sup>2</sup> Lorsque les matières explosives sont fabriquées conformément aux normes techniques au sens de l’art. 10, elles sont présumées satisfaire aux exigences essentielles.
+
+<sup>3</sup> Lorsqu’elles ne sont pas conformes aux normes techniques ou ne le sont qu’en partie, il doit être prouvé que les exigences essentielles sont respectées d’une autre manière.
+
+<sup>4</sup> Sur demande, les fabricants et les importateurs doivent être en mesure de présenter, aux autorités compétentes en matière d’autorisation et d’exécution, la documentation technique permettant de contrôler le respect des exigences essentielles.
+
+<sup>5</sup> La conformité du produit ne délie pas de l’obligation de requérir les autorisations nécessaires de production, d’importation ou d’exportation. Sur demande de l’autorité requise, l’attestation de conformité établie par un organisme d’évaluation doit pouvoir être présentée (art. 15).
+
+[^12-1]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 13
+
+**Documentation technique**
+
+<sup>1</sup>
+
+La documentation technique doit être rédigée dans une des langues officielles suisses ou en anglais et contenir les indications ci-après:
+
+- a. une description générale du genre de produit, ci-après dénommé type;
+- b. des dessins de conception et de fabrication, ainsi que des schémas de composants, groupes d’assemblage, circuits, etc.;
+- c. les descriptions et explications nécessaires à la compréhension desdits dessins et schémas et du fonctionnement du produit;
+- d. une liste des normes visées par l’art. 10, appliquées entièrement ou en partie, et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles lorsque ces normes n’ont pas été appliquées;
+- e. les résultats des calculs de conception réalisés, des examens effectués, etc.;
+- f. les rapports d’essais.
+
+<sup>2</sup> L’usage d’une autre langue est admis lorsque les renseignements demandés pour apprécier la documentation sont fournis dans une des langues officielles suisses ou en anglais.
+
+<sup>3</sup> La documentation technique doit être conservée pendant au moins dix ans à compter de la dernière date de fabrication du produit.
+
+#### Art. 14
+
+**Procédures d’évaluation de la conformité**[^14-1]
+
+Pour fournir la preuve de la conformité des matières explosives aux exigences essentielles, l’une des procédures ci-dessous prévues à l’annexe III de la directive 2014/28/UE[^14-2] doit être suivie:
+
+- a.
+
+  l’examen UE de type (module B) en relation, au choix, avec:
+
+  - 1\. la conformité au type sur la base du contrôle interne de la production et de contrôles supervisés du produit à des intervalles aléatoires (module C2),
+  - 2\. la conformité au type sur la base de l’assurance de qualité de production (module D),
+  - 3\. la conformité au type sur la base de l’assurance de qualité du produit (module E),
+  - 4\. la conformité au type sur la base de la vérification du produit (module F), ou
+
+- b. la conformité sur la base de la vérification à l’unité (module G).
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^14-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+
+#### Art. 15
+
+**Laboratoires d’essais et organismes d’évaluation de la conformité**
+
+<sup>1</sup>
+
+Les laboratoires d’essais et les organismes d’évaluation de la conformité, chargés de dresser les rapports et de délivrer les attestations suivant les procédures visées à l’art. 14, doivent:
+
+- a. être accrédités conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^15-1];
+- b. être reconnus par la Suisse dans le cadre d’accords internationaux, ou
+- c. être habilités à un autre titre par le droit fédéral.
+
+<sup>2</sup> Celui qui se réfère à des documents émanant d’un autre organisme que ceux mentionnés à l’al. 1 doit montrer de façon plausible que les procédures appliquées et les qualifications dudit organisme satisfont aux exigences suisses d’après l’art. 18 LETC.
+
+[^15-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 16
+
+**Contrôle ultérieur**
+
+<sup>1</sup> L’OCEP vérifie par sondage inopiné que les matières explosives mises à disposition sur le marché répondent aux exigences de conformité de la présente ordonnance. À cette fin, il collabore avec les organes d’exécution cantonaux et il peut faire appel à des services spécialisés.[^16-1]
+
+<sup>2</sup> Les organes d’exécution cantonaux annoncent sans délai à l’OCEP[^16-2] les découvertes de matières explosives non conformes.
+
+<sup>3</sup> Aux fins de vérifier la conformité, les organes de contrôle sont habilités, durant les heures de travail habituelles, à pénétrer à l’improviste dans les locaux d’exploitation et les entrepôts et à les inspecter, à examiner les documents utiles, à prendre des renseignements, à faire procéder à des essais, ainsi qu’à demander ou prélever des échantillons.
+
+<sup>4</sup> L’OCEP peut exiger de l’Administration des douanes qu’elle lui annonce, durant une période déterminée, l’importation de matières explosives dûment désignées. Il doit en faire une description précise.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^16-2]: Nouvelle expression selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 17
+
+**Mesures en cas de non-conformité de matières explosives[^17-1]**
+
+<sup>1</sup> Si l’OCEP, se fondant sur les renseignements reçus, conclut que des matières explosives mises à disposition sur le marché ne répondent pas aux exigences de la présente ordonnance, il enjoint au fabricant ou à l’importateur d’adapter ces matières aux prescriptions, sous peine de leur retrait du marché.[^17-2]
+
+<sup>2</sup> Si des matières explosives non conformes risquent de mettre en danger l’intégrité corporelle des personnes et des biens lorsqu’elles sont utilisées conformément à leur destination, l’OCEP prend les mesures qui s’imposent pour placer sous scellés les marchandises contestées, pour les retirer du marché et prévenir leur commercialisation ultérieure.
+
+<sup>3</sup> L’OCEP est compétent pour accorder l’entraide administrative internationale. Il informe notamment la Commission européenne et les États membres de l’UE des mesures prises sur la base du présent article. Les restrictions fixées à l’art. 22 LETC sont applicables.[^17-3]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 18
+
+**Marquage**
+
+<sup>1</sup> L’explosif doit contenir une substance de marquage répartie de façon uniforme permettant, lors même qu’il a explosé, d’en déceler avec certitude la provenance et la période de fabrication.
+
+<sup>2</sup> La substance de marquage et sa proportion dans l’explosif doivent être agréées par l’OCEP.
+
+<sup>3</sup> L’OCEP fixe le procédé de marquage, opère des contrôles sur celui-ci et l’adapte lorsque les conditions l’exigent.
+
+#### Art. 19
+
+**Marquage aux fins de détection**
+
+Les explosifs au sens de la Convention internationale du 1<sup>er</sup> mars 1991 sur le marquage des explosifs plastiques et en feuilles aux fins de détection doivent renfermer un agent de détection homogène dans la concentration minimale fixée dans ladite convention.
+
+#### Art. 20
+
+**Marquage des mèches d’allumage de sûreté et des cordeaux détonants[^20-1]**
+
+<sup>1</sup> Les mèches d’allumage de sûreté et les cordeaux détonants doivent être pourvus sur toute leur longueur d’un signe caractéristique indiquant quel en est le fabricant, ainsi que le lieu, l’année et le mois de leur fabrication.
+
+<sup>2</sup> Le marquage des mèches d’allumage de sûreté doit rester décelable également après leur emploi.
+
+<sup>3</sup> Il doit en outre être conforme à l’annexe 14.[^20-2]
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^20-2]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 21
+
+**Emballage, indications et désignations[^21-1]**
+
+<sup>1</sup> L’emballage des matières explosives doit répondre aux prescriptions de l’Accord européen du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route (ADR)[^21-2] et être marqué en conséquence. Il portera en outre les indications exigées par l’art. 19, al. 3, LExpl et par l’annexe 14.[^21-3]
+
+<sup>2</sup>
+
+Sur chaque autre unité d’emballage doivent figurer, en plus des indications exigées par l’al. 1, au moins les données et désignations ci-après:
+
+- a. pour les explosifs, la part de nitroglycérine/nitroglycol et la température critique de gel;
+- b. pour les détonateurs, les données permettant d’en déduire les caractéristiques essentielles;
+- c. pour les retardateurs, la durée moyenne de temporisation exprimée en millisecondes;
+- d. pour les mèches d’allumage de sûreté, la durée de combustion exprimée en s/m.
+
+<sup>3</sup> Pour les explosifs encartouchés, doivent figurer sur chaque cartouche les noms de l’explosif et du fabricant, ainsi que le lieu, l’année et le mois de fabrication.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^21-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 22
+
+**Amorces**
+
+<sup>1</sup> Les amorces doivent être conçues de manière à exclure un déclenchement involontaire par des courants vagabonds et des charges électrostatiques ou inductives.
+
+<sup>2</sup> En principe, seules seront livrées aux utilisateurs les amorces électriques qui satisfont aux exigences formulées à l’annexe 3 pour les amorces à pont électriques ou, à tout le moins, qui offrent la même sécurité. Une autorisation écrite de la Caisse nationale suisse d’assurance en cas d’accidents (CNA) est requise pour les autres types d’amorces électriques.
+
+#### Art. 23
+
+**Marquage des amorces et des détonateurs**
+
+<sup>1</sup> L’isolation des fils conducteurs des amorces électriques doit être de couleurs différentes. L’un des fils doit être de couleur bleue pour les amorces à pont électriques qui satisfont aux exigences de l’annexe 3.
+
+<sup>2</sup> La douille des amorces doit comporter le signe du fabricant et l’échelon de temps. En plus, on indiquera encore sur les fils d’allumage les intervalles de temporisation ou la durée totale de temporisation. Si l’échelon de temps ou l’intervalle de temporisation ou la durée totale de temporisation n’est pas défini, il y a lieu de marquer en conséquence les fils d’allumage.
+
+<sup>3</sup> La douille des détonateurs doit porter le signe du fabricant.
+
+<sup>4</sup> Le marquage des amorces et des détonateurs doit en outre être conforme aux indications exigées par les normes techniques selon l’annexe 14.[^23-1]
+
+[^23-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Chapitre 2 Engins pyrotechniques
+
+#### Art. 24
+
+**Conditions de mise à disposition sur le marché[^24-2]**[^24-1]
+
+<sup>1</sup>
+
+Peuvent être mis à disposition sur le marché les engins pyrotechniques:[^24-3]
+
+- a.[^24-4] qui répondent aux exigences essentielles de sécurité selon l’annexe I de la directive 2013/29/UE[^24-5];
+- b. qui sont attribués à une catégorie selon les art. 6 et 7;
+- c. qui répondent aux exigences formulées à l’art. 26.
+
+<sup>2</sup> Les pièces d’artifice des catégories 1 à 3 doivent en outre être pourvues d’un numéro d’identification-CH. Si celui-ci n’a pas été attribué, une demande doit être adressée à l’OCEP.
+
+<sup>3</sup>
+
+Les dispositions du présent chapitre ne s’appliquent pas:
+
+- a. aux engins pyrotechniques utilisés en quantités limitées par la science, la recherche, le développement ou pour des essais;
+- b. aux engins pyrotechniques destinés à être employés par la police.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^24-4]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^24-5]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+
+#### Art. 25
+
+**Normes techniques**[^25-1]
+
+Les normes techniques qui se prêtent à la concrétisation des exigences essentielles de l’annexe I de la directive 2013/29/UE[^25-2] sont désignées conformément à l’art. 6 de la loi du 12 juin 2009 sur la sécurité des produits[^25-3]. L’OCEP désigne ces normes en accord avec le SECO.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^25-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^25-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 25a
+
+**Procédures d’évaluation de la conformité**[^25a-1]
+
+Pour fournir la preuve de la conformité des engins pyrotechniques aux exigences essentielles, l’une des procédures ci-dessous prévues à l’annexe II de la directive 2013/29/UE[^25a-2] doit être suivie:
+
+- a.
+
+  l’examen UE de type (module B) en relation, au choix, avec:
+
+  - 1\. la conformité au type sur la base du contrôle interne de la production et de contrôles supervisés du produit à des intervalles aléatoires (module C2),
+  - 2\. la conformité au type sur la base de l’assurance de qualité de production (module D),
+  - 3\. la conformité au type sur la base de l’assurance de qualité du produit (module E);
+
+- b. la conformité au type sur la base de la vérification à l’unité (module G), ou
+- c. la conformité sur la base de l’assurance complète de la qualité (module H), dans la mesure où il s’agit de pièces d’artifice de la catégorie F4.
+
+[^25a-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^25a-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+
+#### Art. 25b
+
+**Autres dispositions applicables**[^25b-1]
+
+Les art. 11 à 13 et 15 à 17 s’appliquent par analogie.
+
+[^25b-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 26
+
+**Emballage, indications et désignations**[^26-1]
+
+<sup>1</sup> L’emballage des engins pyrotechniques doit répondre aux prescriptions de l’ADR[^26-2] et être marqué en conséquence.
+
+<sup>2</sup>
+
+Sur la plus petite unité d’emballage destinée à la vente (emballage par pièce ou par assortiment), et autant que possible sur chaque engin, on indiquera au moins:
+
+- a. la désignation, le type et la catégorie des engins, ainsi que la limite d’âge applicable à leur remise;
+- b. les instructions d’utilisation et, le cas échéant, la distance de sécurité minimale à observer;
+- c. le nom et l’adresse du fabricant ou, lorsque le fabricant est établi hors de l’Espace économique européen, de l’importateur;
+- d. l’année de fabrication;
+- e. le poids brut et la quantité nette de la matière explosive active;
+- f. les informations pertinentes de l’annexe 2;
+- g. pour les engins pyrotechniques destinés à des fins professionnelles, le but de l’utilisation et la date limite d’utilisation fixée par le fabricant;
+- h. pour les pièces d’artifice des catégories 1 à 3, le numéro d’identification-CH attribué par l’OCEP.
+
+<sup>3</sup> Les indications seront clairement signalées et rédigées dans les trois langues officielles.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^26-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+
+## Titre 3 Commerce, permis d’acquisition et d’emploi
+
+### Chapitre 1 Production et importation****
+
+[^tit3-chap1-1]
+
+[^tit3-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 347](https://fedlex.data.admin.ch/eli/oc/2002/77)).
+
+### Section 1 Production
+
+#### Art. 27
+
+**Autorisation**
+
+<sup>1</sup> L’OCEP accorde les autorisations de production des matières explosives, des engins pyrotechniques et de la poudre de guerre.[^27-1]
+
+<sup>2</sup> Doit également détenir une autorisation de production la personne qui ne prépare les matières et les objets qu’à l’endroit de leur utilisation.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 28
+
+**Demande d’autorisation**
+
+<sup>1</sup>
+
+La demande d’autorisation contiendra les indications suivantes:
+
+- a. le genre de produits dont la fabrication est prévue et la production annuelle escomptée;
+- b. la disposition et le genre de construction des bâtiments d’exploitation et d’entreposage ainsi que leur éloignement par rapport aux voies de communication publiques, habitations et autres constructions à protéger; s’agissant de nouveaux édifices, les plans et le descriptif seront joints;
+- c. la forme juridique et la direction de l’entreprise.
+
+<sup>2</sup>
+
+Pour les matières explosives, elle contiendra en plus:
+
+- a. une description complète incluant les données d’identification et le numéro d’identification des Nations Unies[^28-1];
+- b. le cas échéant, l’attestation de conformité d’un organisme notifié.
+
+[^28-1]: Figurent à l’annexe A de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+
+#### Art. 29
+
+**Autorisation de fabriquer de nouveaux produits**
+
+<sup>1</sup> Le détenteur d’une autorisation de production qui se propose de fabriquer des produits qu’il n’était pas autorisé à fabriquer jusqu’ici, doit déposer une nouvelle demande.
+
+<sup>2</sup> La demande comportera les indications selon l’art 22. Pour ce qui est de la disposition et du genre de construction des bâtiments d’exploitation et d’entreposage ainsi que de la forme juridique et de la direction de l’entreprise, seules les modifications intervenues depuis l’octroi de la dernière autorisation seront indiquées.
+
+#### Art. 30
+
+**Autorisations exceptionnelles**
+
+Dans les cas particuliers dûment motivés, l’OCEP peut accorder des autorisations exceptionnelles de production pour des produits qui ne répondent pas aux exigences des art. 8 à 25, lorsque la sécurité est suffisamment garantie d’une autre manière.
+
+### Section 2 Importation
+
+#### Art. 31
+
+**Autorisation**
+
+<sup>1</sup> L’OCEP accorde les autorisations d’importation des matières explosives, des engins pyrotechniques et de la poudre de guerre.[^31-1]
+
+<sup>2</sup>
+
+Peuvent être importés sans autorisation:
+
+- a.[^31-2] dans le trafic touristique, les pièces d’artifices des catégories 1 à 3 jusqu’à un poids global brut de 2,5 kg, à l’exception des pièces d’artifice détonant au sol;
+- b. les engins pyrotechniques faisant partie intégrante de produits soumis à un contrôle officiel.
+
+<sup>3</sup> Une copie de l’autorisation d’importation sera adressée au canton où se trouve le siège commercial de l’importateur.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^31-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 32
+
+**Demande d’autorisation**[^32-1]
+
+<sup>1</sup>
+
+Les demandes d’autorisation indiqueront:
+
+- a. le genre et la quantité des produits;
+- b. le nom et l’adresse du fabricant, le cas échéant son symbole d’identification;
+- c. le nom et l’adresse de l’importateur;
+- d. le dépôt de destination en Suisse;
+- e. le mode de transport.
+
+<sup>2</sup>
+
+Elles seront accompagnées:
+
+- a. d’une description complète incluant les données d’identification et le numéro d’identification des Nations Unies[^32-2];
+- b. d’une déclaration de conformité, le cas échéant d’une attestation y relative.
+
+<sup>3</sup> En plus, pour les matières explosives, on indiquera le code associé à la substance de marquage selon l’art. 18.
+
+<sup>4</sup> Pour les pièces d’artifice des catégories 1 à 3, la demande indiquera en outre le numéro d’identification-CH. Si celui-ci n’a pas encore été attribué, la demande sera accompagnée d’une étiquette originale.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^32-2]: Figurent à l’annexe A de l’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Cette annexe n’est pas publiée au RO. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+
+#### Art. 33
+
+**Autorisations exceptionnelles**
+
+L’art. 30 est également applicable à l’importation.
+
+#### Art. 34
+
+[^34-1]
+
+[^34-1]: Abrogé par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 347](https://fedlex.data.admin.ch/eli/oc/2002/77)).
+
+### Chapitre 2 Vente
+
+#### Art. 35
+
+**Autorisation**
+
+<sup>1</sup>
+
+L’autorisation de vendre sur le territoire suisse des produits au sens de l’art. 27, al. 1, suppose que le vendeur et les personnes dont il répond:
+
+- a. aient l’exercice des droits civils et inspirent pleine confiance, et
+- b. aient suffisamment d’expérience ainsi que des connaissances juridiques et techniques suffisantes pour utiliser des substances explosibles.
+
+<sup>2</sup> En outre, le vendeur doit être domicilié en Suisse ou, s’il s’agit d’une entreprise, être inscrit au Registre du commerce.
+
+<sup>3</sup> L’autorisation de production implique pour son détenteur le droit de vendre sur tout le territoire suisse les produits qu’il fabrique lui-même.
+
+<sup>4</sup> L’autorisation de vendre peut être limitée quant à son contenu.
+
+#### Art. 36
+
+**Autorité compétente**
+
+<sup>1</sup> L’entrepôt du vendeur est réputé siège commercial au sens de l’art. 10, al. 2, de la LExpl. Si le vendeur a des succursales dans plusieurs cantons, le canton qui délivre l’autorisation requiert l’accord des autres cantons intéressés. Lorsqu’il y a opposition de la part d’un canton, l’autorisation est refusée ou restreinte en conséquence.
+
+<sup>2</sup> Le canton qui délivre l’autorisation informe l’OCEP en en transmettant une copie.[^36-1]
+
+[^36-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 37
+
+**Autorisation pour la remise de matières explosives par des instances militaires**
+
+L’autorisation pour la remise de matières explosives par l’armée, les administrations militaires fédérales et cantonales ou leurs entreprises à des offices civils ainsi qu’à des particuliers est octroyée par le Département fédéral de l’économie, de la formation et de la recherche[^37-1].
+
+[^37-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 38
+
+**Entrepôts de matières explosives des vendeurs**
+
+Après avoir entendu les cantons, le Département fédéral de justice et police fixe le nombre d’entrepôts de matières explosives qui pourront être créés et la façon dont ils seront répartis au niveau régional.
+
+### Chapitre 3 Dispositions communes
+
+#### Art. 39
+
+**Vérifications**
+
+<sup>1</sup> En vue de l’examen des demandes, il pourra être fait appel à des services spécialisés; l’envoi d’un échantillon de la marchandise et de l’emballage pourra être requis.
+
+<sup>2</sup> L’OCEP peut demander aux requérants d’autres informations et documents techniques pour procéder à l’évaluation de la conformité des produits aux exigences des art. 8 à 25*b*.[^39-1]
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 40
+
+**Limitation dans le temps, charges et cessibilité**
+
+<sup>1</sup> Les autorisations peuvent être limitées dans le temps et pourvues de charges.
+
+<sup>2</sup> Elles sont incessibles.
+
+#### Art. 41
+
+**Révocation et retrait**
+
+<sup>1</sup> L’autorisation est révoquée si elle a été obtenue au moyen d’indications fausses ou lorsque les conditions pour son octroi ne sont plus remplies.
+
+<sup>2</sup> Elle peut être retirée définitivement ou temporairement, lorsque son titulaire ou une personne dont il doit répondre a été puni pour violation grossière des mesures de protection ou de sécurité.
+
+#### Art. 42
+
+**Expiration**
+
+L’autorisation s’éteint:
+
+- a. si elle n’est pas utilisée pendant une année;
+- b. s’il n’existe plus de personne responsable de l’activité autorisée;
+- c. si l’entreprise est dissoute ou change de propriétaire.
+
+#### Art. 43
+
+**Saisie des produits en cas de suppression de l’autorisation**
+
+Lorsque l’autorisation vient à être supprimée, l’autorité compétente procède à la saisie des produits et décide du sort qui leur sera réservé.
+
+#### Art. 44
+
+**Secret de fonction**
+
+Les indications fournies dans les demandes sont couvertes par le secret de fonction.
+
+### Chapitre 4 Acquisition
+
+#### Art. 45
+
+**Permis d’acquisition pour matières explosives**
+
+<sup>1</sup> Toute personne qui entend obtenir un permis d’acquisition pour matières explosives doit fournir les informations prévues à l’annexe 4 et les confirmer par sa signature.[^45-1] La demande pour un permis d’acquisition doit être remise à l’autorité compétente désignée par le canton.
+
+<sup>2</sup> Le permis d’acquisition contient toute les indications indispensables à son octroi.
+
+<sup>3</sup> Le permis d’acquisition est valable une année.
+
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 46
+
+**Dispositions particulières pour petits utilisateurs**
+
+<sup>1</sup> Est considéré comme un petit utilisateur celui qui achète tout au plus 25 kg d’explosif et 100 détonateurs ou amorces en trois mois. Le petit utilisateur doit pouvoir conserver les matières explosives selon les prescriptions en vigueur.
+
+<sup>2</sup> Le permis d’acquisition autorise le petit utilisateur à obtenir les matières explosives qui lui sont vraisemblablement nécessaires, mais tout au plus dans les quantités mentionnées à l’al. 1.
+
+<sup>3</sup> Le permis d’acquisition pour petits utilisateurs est valable trois mois.
+
+#### Art. 47
+
+**Permis d’acquisition pour engins pyrotechniques**[^47-1]
+
+<sup>1</sup> Un permis est requis pour l’acquisition d’engins pyrotechniques des catégories T2, P2 et F4.
+
+<sup>2</sup> Toute personne qui entend obtenir un permis d’acquisition doit fournir les informations prévues à l’annexe 4 et les confirmer par sa signature. La demande doit être remise à l’autorité compétente désignée par le canton.
+
+<sup>3</sup> Le permis d’acquisition comprendra toutes les indications indispensables à son octroi.
+
+<sup>4</sup> Le permis d’acquisition est valable une année au plus.
+
+<sup>5</sup> Si une autorisation de mise à feu cantonale ou communale compatible avec le présent article a été délivrée pour des engins pyrotechniques des catégories T2 et F4, le permis d’acquisition n’est pas nécessaire pour une utilisation dans les limites de l’autorisation.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 48
+
+**Établissement du permis**
+
+<sup>1</sup> Le permis d’acquisition est délivré par l’autorité en un original et au minimum deux copies.
+
+<sup>2</sup> Si les matières explosives accordées doivent être utilisées dans un autre canton, l’autorité qui délivre le permis transmettra au canton concerné un double du permis.
+
+#### Art. 49
+
+**Révocation du permis**
+
+<sup>1</sup> Le permis d’acquisition est révoqué s’il a été obtenu au moyen d’indications inexactes ou si les conditions dont dépendait son octroi ne sont plus remplies.
+
+<sup>2</sup> En cas de révocation, l’autorité compétente procède à la saisie des matières explosives et engins pyrotechniques et décide du sort qui leur sera réservé.
+
+#### Art. 50
+
+**Prise en charge des produits**
+
+<sup>1</sup> Avant la remise des produits, le réceptionnaire doit établir qu’il est habilité à prendre livraison de la marchandise pour le compte de l’ayant droit désigné dans le permis d’acquisition.
+
+<sup>2</sup> Les matières explosives ou engins pyrotechniques autorisés dans le permis d’acquisition doivent être achetés auprès du même vendeur, contre remise de l’original.
+
+<sup>3</sup> Ils peuvent être achetés au fur et à mesure.
+
+### Chapitre 5 Permis d’emploi****
+
+[^tit3-chap5-1]
+
+[^tit3-chap5-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Section 1 Autorisations de minage et d’emploi
+
+#### Art. 51
+
+**Dispositions générales**
+
+<sup>1</sup> Les travaux que le titulaire est habilité à effectuer sont mentionnés dans le permis d’emploi.[^51-1]
+
+<sup>2</sup> Les mentions spécifiques sont attribuées en fonction d’un examen.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 52
+
+**Mentions[^52-1]**
+
+<sup>1</sup>
+
+*La mention A* autorise l’exécution de manière indépendante de travaux de minage ordinaires comportant un risque minime de dommages moyennant observation des restrictions suivantes:
+
+- a. quantité maximale de 5 kg d’explosif par minage;
+- b. pour les allumages pyrotechniques, une mèche d’allumage de sûreté au plus par minage.
+
+<sup>2</sup>
+
+*La mention B* autorise l’exécution de manière indépendante de travaux de minage ordinaires comportant un risque modéré de dommages moyennant observation des restrictions suivantes:
+
+- a. jusqu’à 25 kg d’explosif par minage de manière indépendante;
+- b. avec une quantité d’explosif supérieure selon les directives écrites (plan de minage, etc.) d’une personne qualifiée titulaire d’un permis portant la mention C et sous sa surveillance.
+
+<sup>3</sup>
+
+*La mention C* autorise:
+
+- a.[^52-2] la planification et l’exécution de manière indépendante de travaux de minage ordinaires comportant un risque modéré de dommages;
+- b. la planification, selon les directives écrites (projets, plans, etc.) d’un spécialiste éprouvé, de travaux de minage ordinaires comportant un risque élevé de dommages, et leur exécution sous la surveillance de ce spécialiste.
+
+<sup>4</sup> La mention pour travaux de minage spéciaux autorise l’exécution du type de travail indiqué dans le permis. L’autorisation présuppose, sous réserve de l’al. 5, une mention A, B ou C qui règle la question des risques de dommages admissibles.
+
+<sup>5</sup> L’autorisation pour le déclenchement d’avalanches ne présuppose aucune autre mention.
+
+<sup>6</sup> Le permis d’emploi d’engins pyrotechniques autorise l’utilisation, de manière indépendante, des engins pyrotechniques des catégories T2, P2 et F4 dûment désignés.[^52-3]
+
+<sup>6bis</sup> L’utilisation d’un engin pyrotechnique de catégorie P2 est exemptée de permis d’emploi s’il s’agit d’un produit prêt à l’emploi.[^52-4]
+
+<sup>7</sup>
+
+N’ont pas besoin de permis d’emploi d’engins pyrotechniques, les personnes:
+
+- a. de l’industrie automobile ou aéronautique qui installent, modifient, remettent en état ou démontent des engins pyrotechniques de la catégorie P2 dans le cadre de leur activité professionnelle, et
+- b. qui disposent, en raison de leur formation professionnelle, des connaissances techniques requises.[^52-5]
+
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^52-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 347](https://fedlex.data.admin.ch/eli/oc/2002/77)).
+[^52-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^52-4]: Introduit par le ch. I de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^52-5]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 53
+
+**Définitions**
+
+<sup>1</sup> Les travaux de minage ordinaires requièrent des connaissances générales en matière de minage. Par travaux de minage ordinaires, on entend notamment le minage de tranchées, le tir d’abattage, la démolition par explosif de blocs de pierre, le tir d’abattage d’arbres, le minage de souches.
+
+<sup>2</sup> Les travaux de minage spéciaux exigent des connaissances spécifiques, par exemple pour déclencher des avalanches, miner des édifices, exécuter des tirs sous l’eau ou détruire des quantités importantes de matières explosives.
+
+<sup>3</sup> Les risques de dommages lors de travaux de minage sont considérés comme minimes, modérés ou élevés. Les limites entre les trois degrés sont fixées par le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^53-1] au moyen d’un aide-mémoire de planification. Ce dernier tient compte de la formation exigée en rapport avec les différentes mentions.
+
+<sup>4</sup> Un minage comprend la mise à feu instantanée ou retardée d’une ou de plusieurs charges explosives.
+
+<sup>5</sup> Est réputée spécialiste éprouvé la personne qui est en mesure, par ses connaissances et aptitudes supérieures à la moyenne ainsi que par son expérience, d’évaluer un risque élevé de dommages et de préparer, dans les règles de l’art, la partie d’un projet de minage qui lui est confiée.
+
+[^53-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+
+### Section 2 Remise des autorisations
+
+#### Art. 54
+
+**Formation**
+
+Les connaissances théoriques et pratiques peuvent être dispensées dans des cours qui seront donnés en prévision d’examens.
+
+#### Art. 55
+
+**Admission aux cours et aux examens**
+
+<sup>1</sup>
+
+Est admise aux cours et examens toute personne qui:
+
+- a. est majeure;
+- b. fournit une attestation de la police de son lieu de domicile qui permet de conclure que ses antécédents offrent la garantie qu’elle utilisera les matières explosives et les engins pyrotechniques de manière licite et conforme aux règles de l’art.
+
+<sup>2</sup> L’admission aux cours et aux examens peut être subordonnée à la présentation d’une attestation prouvant que le candidat a exercé une activité, accompli des études ou achevé un apprentissage dans une profession déterminée.
+
+#### Art. 56
+
+**Examens**
+
+<sup>1</sup> Chaque examen doit être axé sur une seule autorisation.[^56-1]
+
+<sup>2</sup>
+
+L’examen portera:
+
+- a. sur la connaissance des prescriptions légales;
+- b. sur la connaissance des matières explosives usuelles, des engins pyrotechniques et des accessoires de tir, ainsi que de leur manipulation et de leur utilisation.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 57
+
+**Remise du permis**
+
+<sup>1</sup> Quiconque a réussi l’examen reçoit un certificat et le permis.
+
+<sup>2</sup> Le permis est établi par le SEFRI. Il est signé par le président d’un des comités de la commission d’examen et par un représentant du SEFRI.[^57-1]
+
+<sup>3</sup> ...[^57-2]
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^57-2]: Abrogé par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 57a
+
+**Registre des permis**[^57a-1]
+
+<sup>1</sup>
+
+Le SEFRI consigne les permis délivrés dans un registre comprenant les données suivantes:
+
+- a. nom;
+- b. prénom;
+- c. date de naissance;
+- d. lieu d’origine;
+- e. numéro AVS;
+- f. date d’examen;
+- g. nature du permis.
+
+<sup>2</sup>
+
+Dans l’accomplissement de leurs tâches légales, les autorités suivantes peuvent consulter en ligne le registre des permis:
+
+- a. l’OCEP;
+- b. les services spécialisés cantonaux.
+
+<sup>3</sup> Les données sont effacées après le 99<sup>e</sup> anniversaire du titulaire.
+
+[^57a-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 58
+
+**Durée de validité et formation complémentaire**
+
+<sup>1</sup> Le permis a une durée de validité indéterminée.
+
+<sup>2</sup> Toutefois, si plus de cinq ans se sont écoulés depuis le dernier examen ou la dernière formation complémentaire suivie par le titulaire, ce dernier doit participer à un cours complémentaire, avant d’utiliser des matières explosives ou des engins pyrotechniques.[^58-1]
+
+<sup>3</sup> Le SEFRI fixe par voie de directives le programme de formation complémentaire.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 58a
+
+**Dispense de l’obligation de participer à une formation complémentaire pendant la pandémie de COVID-19**[^58a-1]
+
+L’obligation de participer à un cours complémentaire au sens de l’art. 58, al. 2, ne s’applique pas aux titulaires de permis ayant passé leur dernier examen ou suivi leur dernière formation complémentaire après le 31 décembre 2014.
+
+[^58a-1]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur du 28 mai 2020 au 27 janv. 2021 ([RO 2020 1829](https://fedlex.data.admin.ch/eli/oc/2020/369)).
+
+#### Art. 59
+
+**Reconnaissance d’autres permis**
+
+<sup>1</sup>
+
+La commission d’examen[^59-1] décide de cas en cas:
+
+- a. si elle accepte des permis non concernés par la présente ordonnance;
+- b. si le titulaire d’un tel permis doit subir un examen complémentaire.
+
+<sup>2</sup> Le SEFRI édicte des directives pour la reconnaissance d’autres permis.
+
+<sup>3</sup> La demande de reconnaissance est adressée au SEFRI.
+
+[^59-1]: Nouvelle expression selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 60
+
+**Retrait du permis**
+
+<sup>1</sup> Lorsque le titulaire du permis a fait l’objet d’une condamnation passée en force pour violation grave des mesures de protection ou de sécurité, ou pour un délit à l’explosif, le permis sera retiré par l’autorité compétente du canton où ledit titulaire a son domicile.
+
+<sup>2</sup> Le permis peut aussi être retiré lorsque des indices permettent de conclure que la conduite du titulaire n’offre plus la garantie d’une utilisation licite et conforme aux règles de l’art des matières explosives ou des engins pyrotechniques.
+
+<sup>3</sup> Le permis est retiré pour une durée indéterminée. Suivant les circonstances, l’autorité compétente peut, en considération notamment de la culpabilité et des antécédents du titulaire, limiter la mesure dans le temps ou simplement prononcer un avertissement.
+
+<sup>4</sup> Les organes d’exécution saisissent le permis lorsqu’une procédure de retrait est envisagée. Le permis reste séquestré jusqu’à clôture de la procédure. Les autorisations de minage et d’emploi sont retirées durant cette période.
+
+<sup>5</sup> L’OCEP informe l’autorité cantonale compétente des décisions pénales qui peuvent entraîner un retrait de permis.
+
+<sup>6</sup> Le canton communique par écrit et sans délai les retraits de permis au SEFRI.
+
+### Section 3 Mise en œuvre de la formation et des examens
+
+#### Art. 61
+
+**Associations organisatrices et commissions d'examen**
+
+<sup>1</sup> La responsabilité des cours et des examens peut être assumée par une association professionnelle, une organisation économique intéressée ou par un groupement représentatif de celles-ci. À l’échelon national, un seul organisme responsable est constitué pour chaque type d’autorisation de minage et d’emploi au sens de l’art. 52. Ces organismes instituent une commission d’examen chargée de la mise en œuvre de la formation et des examens. Pour certaines tâches, la commission d’examen peut constituer des comités.
+
+<sup>2</sup> Si, pour un type d’autorisation, il existe en plus du candidat à l’organisation des cours et des examens d’autres associations ou organisations économiques intéressées, celles-ci doivent être admises, sur demande, dans l’association organisatrice. Une représentation équitable doit leur être réservée dans la Commission d’examen.
+
+#### Art. 62
+
+**Règlements**
+
+<sup>1</sup> Les associations organisatrices des cours et des examens élaborent les règlements qui relèvent de leur compétence.
+
+<sup>2</sup>
+
+Elles règlent en particulier les points suivants:
+
+- a. la matière enseignée et les branches d’examen;
+- b. la nature et la durée des branches d’examen;
+- c. les conditions d’admission aux cours et examens;
+- d. les modalités d’inscription;
+- e. la composition de la commission d’examen.
+
+#### Art. 63
+
+**Approbation des règlements de formation et d’examen**
+
+<sup>1</sup> Les associations organisatrices doivent demander l’approbation des règlements de formation et d’examen au SEFRI.
+
+<sup>2</sup> Si le règlement répond aux prescriptions, le SEFRI fait procéder à une communication appropriée dans la Feuille fédérale.
+
+<sup>3</sup> Les oppositions éventuelles doivent être adressées par écrit au SEFRI dans un délai de 30 jours à partir de cette communication.
+
+#### Art. 64
+
+**Modification et retrait de l’approbation d’un règlement**
+
+<sup>1</sup> Le SEFRI peut demander aux associations organisatrices de modifier les règlements lorsque les conditions évoluent, notamment lorsque les règles généralement reconnues par la technique ont changé.[^64-1]
+
+<sup>2</sup> Le SEFRI peut retirer l’approbation d’un règlement si l’association organisatrice ne se conforme pas aux prescriptions régissant la mise sur pied des cours et des examens.
+
+[^64-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 65
+
+**Documentation relative à la formation et aux examens**
+
+<sup>1</sup> Les participants aux cours et les candidats aux examens reçoivent de la commission d’examen compétente la documentation ayant trait à la formation et aux examens.
+
+<sup>2</sup> La documentation doit répondre aux règles généralement reconnues par la technique ainsi qu’à l’étendue de l’autorisation arrêtée par les règlements, et être approuvée par un comité d’experts correspondant.[^65-1]
+
+[^65-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Section 4 Comités d’experts****
+
+[^tit3-chap5-sec4-1]
+
+[^tit3-chap5-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 66
+
+<sup>1</sup>
+
+Les comités d’experts sont des organes consultatifs ad hoc du SEFRI qui remplissent les tâches suivantes:[^66-1]
+
+- a. coordination des prescriptions ayant trait à la formation et aux examens;
+- b. évaluation des documentations relatives à la formation et aux examens;
+- c. détermination des travaux de minage spéciaux et des degrés de risque de dommages et mise en œuvre de la réglementation y afférente;
+- d. attribution des travaux de minage et des engins pyrotechniques aux catégories d’autorisation respectives;
+- e. reconnaissance de permis.
+
+<sup>2</sup> Le SEFRI décide, en fonction des tâches et du sujet à traiter, de la convocation et de la composition du comité d’experts. Il le préside et en assure le secrétariat.[^66-2]
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^66-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Section 5 Commerce facilité
+
+#### Art. 67
+
+Lorsque les matières explosives ou les engins pyrotechniques servent en quantités limitées à des buts visés par la science, la recherche, le développement ou pour des essais, au sens des art. 8, al. 2, et 24, al. 3, les dispositions ci-après sont applicables:[^67-1]
+
+- a. Des autorisations d’importation peuvent aussi être octroyées pour les matières explosives qui ne répondent pas aux prescriptions d’homologation des art. 8 à 23.
+- a<sup>bis</sup>.[^67-2] des autorisations d’importation peuvent aussi être octroyées pour les engins pyrotechniques qui ne répondent pas aux prescriptions des art. 24 à 26;
+- b.[^67-3] l’établissement d’un permis d’acquisition ne doit pas être subordonné à la présentation d’un permis d’emploi;
+- c. Les acquéreurs de matières explosives sont autorisés à les conserver sans limitation de temps, conformément aux prescriptions d’entreposage de la présente ordonnance.
+- d. Les acquéreurs sont astreints à tenir des registres, à l’instar de ceux tenus par les gros utilisateurs.
+- e.[^67-4] l’utilisation conforme à leur destination de matières explosives ou d’engins pyrotechniques ne nécessite pas de permis d’emploi; leur maniement n’est autorisé qu’aux personnes qui peuvent justifier de connaissances techniques suffisantes touchant aux opérations avec des substances explosibles ou sous la surveillance de ces personnes.
+
+[^67-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^67-2]: Introduite par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^67-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^67-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+## Titre 4 Règles générales de comportement
+
+#### Art. 68
+
+**Prévention des allumages involontaires**
+
+<sup>1</sup> Quiconque procède à des opérations avec des matières explosives ou des engins pyrotechniques doit s’abstenir de fumer.
+
+<sup>2</sup> Il n’entretiendra ni ne tolérera de feu ou de flamme libre à proximité.
+
+<sup>3</sup> Les liquides et substances facilement inflammables seront conservés à l’écart des matières explosives et des engins pyrotechniques.
+
+#### Art. 69
+
+**Prévention des intoxications**
+
+<sup>1</sup> Il importe d’observer strictement les avertissements des fabricants figurant sur les emballages et dans les modes d’emploi et attirant l’attention sur le fait que les matières explosives ou les engins pyrotechniques contiennent des substances toxiques ou produisent ou laissent des résidus toxiques lors de leur emploi.
+
+<sup>2</sup> On tiendra compte des gaz toxiques, notamment dans les locaux fermés, les galeries, les puits et les tranchées.
+
+<sup>3</sup> Les matières explosives ou les engins pyrotechniques qui ne peuvent plus être utilisés ne seront ni abandonnés ni jetés. Les prescriptions de l’art. 26 de la LExpl et de l’art. 107 de la présente ordonnance seront respectées.
+
+## Titre 5 Fabrication
+
+#### Art. 70
+
+Le mode de construction, l’aménagement et l’exploitation des installations et bâtiments dans lesquels sont fabriqués des matières explosives, des engins pyrotechniques et de la poudre de guerre seront conformes aux prescriptions de la législation sur le travail et des ordonnances d’exécution 3 et 4 y relatives du 18 août 1993[^70-1].
+
+[^70-1]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)**/.114**
+
+## Titre 6 Entreposage
+
+### Chapitre 1 Fabriques
+
+### Section 1 Matières explosives
+
+#### Art. 71
+
+<sup>1</sup> Les entrepôts abritant des matières explosives doivent répondre aux exigences minimales requises en matière de construction par la présente ordonnance. Si le fabricant démontre que la sécurité est assurée d’une autre manière, par exemple en calculant et en évaluant le risque en accord avec les règles de la science et de la technique, l’autorité compétente pour l’approbation des plans, désignée par la législation sur le travail, peut autoriser des distances minimales plus faibles que celles prévues à l’annexe 5.
+
+<sup>2</sup> Les matières explosives ne provenant pas de la production des fabricants peuvent être conservées dans les entrepôts de ces derniers.
+
+<sup>3</sup>
+
+Les entrepôts existants au moment de l’entrée en vigueur de la LExpl peuvent continuer à être utilisés:
+
+- a. si les parois et les plafonds ne sont pas construits en matériaux légers;
+- b. si les portes sont pourvues de serrures de sécurité;
+- c. si une surveillance constante ou un système d’alarme automatique remplacent les dispositifs de protection contre le vol et l’incendie manquants.
+
+<sup>4</sup>
+
+Les entrepôts existants seront adaptés aux prescriptions de la présente ordonnance applicables aux vendeurs:
+
+- a. s’ils doivent être agrandis ou subir d’importantes transformations;
+- b. si des employés ou des tiers sont menacés, ou
+- c. si une adaptation propre à éviter d’autres dangers sérieux apparaît nécessaire pour la sécurité publique.
+
+### Section 2 Engins pyrotechniques
+
+#### Art. 72
+
+**Entrepôts des fabricants d’engins pyrotechniques destinés à des fins professionnelles**[^72-1]
+
+<sup>1</sup> Les fabricants d’engins pyrotechniques de la catégorie P2 doivent entreposer ceux‑ci selon les prescriptions applicables aux entrepôts de matières explosives des fabricants.
+
+<sup>2</sup> Les engins pyrotechniques des catégories T1, T2 et P1 peuvent être conservés selon les prescriptions applicables aux entrepôts de pièces d’artifice.
+
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 73
+
+**Entreposage des pièces d’artifice dans les fabriques**
+
+<sup>1</sup> Les fabricants de pièces d’artifice doivent entreposer les produits finis dans des bâtiments isolés, à un étage, distants de la partie dangereuse de l’exploitation d’au moins 15 m et des biens-fonds voisins d’au moins 20 m. La distance entre les entrepôts peut être ramenée à 7,5 m pour autant que les prescriptions de protection contre le feu de l’Association des établissements cantonaux d’assurance incendie (AEAI)[^73-1] soient respectées.[^73-2]
+
+<sup>2</sup> Les portes et les fenêtres des locaux d’entreposage ne doivent pas ouvrir sur les portes et fenêtres d’autres bâtiments.
+
+<sup>3</sup> Là où ces distances minimales ne peuvent être observées, les entrepôts pénétrables seront protégés par de solides remblais ou des parois de protection d’une hauteur suffisante.
+
+<sup>4</sup> Les locaux d’entreposage doivent être construits en matières ininflammables, être suffisamment aérés et être munis de portes s’ouvrant vers l’extérieur. Au surplus, ils doivent être aménagés et exploités selon les prescriptions de la présente ordonnance qui s’appliquent aux vendeurs (art. 87 et 88).
+
+<sup>5</sup> La quantité totale brute de pièces d’artifice par entrepôt pénétrable ne doit pas dépasser 2000 kg pour les constructions légères, 5000 kg pour les constructions en dur avec couverture de terre et/ou parois soufflables.
+
+<sup>6</sup> Les entrepôts existants au moment de l’entrée en vigueur de la LExpl devront être adaptés s’ils sont agrandis ou qu’ils subissent d’importantes transformations ou si des employés ou des tiers se trouvent menacés.
+
+[^73-1]: Ces prescriptions peuvent être obtenues auprès de l’Association des établissements cantonaux d’assurance incendie (AEAI), Bundesgasse 20, 3001 Berne, www.vkf.ch.
+[^73-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Chapitre 2 Vente, importation et utilisation
+
+### Section 1 Matières explosives
+
+#### Art. 74
+
+**Distances minimales**
+
+<sup>1</sup> Lors de la construction d’entrepôts ou de magasins, les distances indiquées dans l’annexe 5 seront observées à l’égard des voies de communication publiques, des maisons d’habitation et d’autres bâtiments à protéger.
+
+<sup>2</sup> On pourra s’écarter de ces normes pour les entrepôts ou magasins souterrains aménagés dans de la roche sèche et solide, si la galerie d’accès (L) et la couverture dans toutes les directions (R) correspondent aux exigences minimales de l’annexe 6 et s’il existe, sur le terrain, par rapport aux bâtiments sis au-dessus de la caverne, une distance de sécurité qui soit au moins égale à R, conformément au croquis figurant dans l’annexe 6.
+
+<sup>3</sup> En ce qui concerne les installations souterraines, telles que réservoirs, conduites et câbles, on maintiendra en tout cas des distances appropriées.
+
+<sup>4</sup> Lorsque plusieurs entrepôts ou magasins pénétrables sont édifiés, on veillera à respecter entre eux une distance correspondant au moins au rayon du cratère (voir annexe 7); les bâtiments seront séparés les uns des autres par un remblai qui ne permet aucun passage.
+
+<sup>5</sup> Si les distances prévues aux annexes 5 et 6 ne peuvent être respectées, l’autorité compétente peut, d’entente avec l’OCEP, accorder des dérogations dans la mesure où le requérant fournit la preuve que la sécurité des personnes et des biens d’autrui est suffisamment assurée par d’autres moyens, par exemple en calculant et en évaluant le risque en accord avec les règles de la science et de la technique.
+
+#### Art. 75
+
+**Exigences minimales en matière de construction; aération**
+
+<sup>1</sup> Les entrepôts et magasins pénétrables doivent être construits sur un seul étage. Ils ne présenteront aucune ouverture hormis la porte d’entrée et les canaux de ventilation.
+
+<sup>2</sup> Ils doivent être aérés. On posera les canaux d’aération en forme de Z et s’élevant vers l’intérieur. À l’extérieur et au point de passage de la branche montante, ils doivent être munis d’une grille de protection solide; l’ouverture extérieure doit être pourvue en outre d’un capot de protection (voir annexes 8.2 et 9.1).
+
+<sup>3</sup> Les parois extérieures, les plafonds et les sols des entrepôts en béton armé auront au moins 15 cm d’épaisseur, et les cloisons, au moins 10 cm.
+
+<sup>4</sup> Pour les magasins, l’épaisseur du béton peut être réduite de 5 cm; les cloisons peuvent être édifiées avec d’autres matériaux résistants au feu d’au moins 4 cm d’épaisseur. L’al. 3 s’applique aux magasins d’entreprises fixes telles que gravières, carrières et fabriques de ciment.
+
+<sup>5</sup> Les exigences relatives à la qualité du béton et à l’armature minimale à l’annexe 8.1 doivent être respectées; il en sera de même dans les entrepôts et magasins souterrains ou enterrés. Dans la roche solide, seule la paroi frontale devra être exécutée en béton armé.
+
+<sup>6</sup> Les entrepôts et magasins peuvent être édifiés au moyen d’éléments en béton préfabriqués si les divers éléments présentent la qualité, l’épaisseur et l’armature prescrites et si leurs dimensions ne sont pas inférieures à 2 × 2 m; à l’intérieur, ils doivent pouvoir être vissés solidement les uns aux autres.
+
+<sup>7</sup> D’autres modes de construction ne sont admis que s’ils préservent les matières explosives contre le vol, le feu, les intempéries et l’électricité statique avec la même efficacité que les constructions en béton armé.
+
+#### Art. 76
+
+**Accès**
+
+<sup>1</sup> Les accès seront disposés de telle façon qu’en cas d’explosion, les effets soient aussi faibles que possible à l’extérieur de l’ouvrage.
+
+<sup>2</sup> Le passage à travers un remblai de protection libre, pour se rendre à des entrepôts ou magasins à ciel ouvert, doit être disposé transversalement par rapport à la porte d’entrée (voir annexe 9.2). Lorsque le remblai prend appui contre la paroi extérieure, un avant-remblai supplémentaire sera élevé devant le passage (voir annexe 9.1).
+
+<sup>3</sup> L’entrée des entrepôts ou magasins souterrains ne devra pas ouvrir sur des bâtiments et installations à protéger. Lorsque cela n’est pas possible, un remblai de protection sera construit avant l’entrée et s’élèvera plus haut que la porte extérieure.
+
+<sup>4</sup> Les entrepôts et magasins peuvent être reliés par la galerie d’accès (L) à des voies de communication et à des chantiers souterrains pour autant que le couloir communicant soit assuré par un clapet d’explosion (voir annexe 6).
+
+#### Art. 77
+
+**Remblai de protection**
+
+<sup>1</sup> Les entrepôts et les magasins doivent être enterrés ou entourés d’un remblai, lorsqu’ils ne sont pas protégés vers l’extérieur par le terrain naturel s’élevant au-dessus de la ligne de mire.
+
+<sup>2</sup> Le remblai libre sera aménagé selon les annexes 5 et 9.2. Les talus intérieurs ainsi que le couronnement dont la largeur aura au moins 1 m seront recouverts d’une couche protectrice de matériaux fins bien égalisés de 30 cm d’épaisseur.
+
+<sup>3</sup> Un remblai adossé au bâtiment devra au moins atteindre le toit, et son couronnement aura au minimum 1 m de largeur (voir annexes 9.1 et 9.2).
+
+<sup>4</sup> Le couronnement et les talus des remblais seront autant que possible engazonnés.
+
+#### Art. 78
+
+**Portes**
+
+<sup>1</sup> Toutes les portes des entrepôts et magasins pénétrables doivent s’ouvrir vers l’extérieur.
+
+<sup>2</sup> Les portes extérieures doivent au moins répondre aux exigences de résistance aux intrusions de la classe 5 en vertu de la prénorme européenne (ENV) 1627[^78-1], et des exigences EI60 selon les prescriptions de protection contre le feu de l’AEAI[^78-2], et présenter une butée cachée sur les quatre côtés.[^78-3]
+
+<sup>3</sup> Les portes intérieures entre la chambre des moyens d’allumage, une éventuelle antichambre et le dépôt des explosifs proprement dit seront construites, selon leur grandeur, en tôle d’acier de 2–4 mm d’épaisseur, avec un acier profilé, ou en d’autres matériaux résistant au feu, d’une épaisseur minimale de 4 cm; elles seront munies d’un verrou ou d’une serrure en applique.
+
+[^78-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^78-2]: Voir la note relative à l’art. 73 al. 1.
+[^78-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 79
+
+**Verrouillage des portes**
+
+<sup>1</sup> La porte doit être munie d’une solide serrure à barre, à deux verrous. Elle peut être équipée, soit d’une serrure intérieure pour clef à double panneton, soit d’une serrure à double cylindre prolongée vers l’extérieur et suffisamment blindée, soit d’une serrure de nouvelle génération assurant une sécurité équivalente. La poignée du mécanisme actionnant les barres (actionnement du verrou) doit être démontable ou munie d’un point de rupture.[^79-1]
+
+<sup>2</sup> À la serrure intérieure correspondra une clef à double panneton, avec au moins neuf ergots de précision et une tige prolongée.
+
+<sup>3</sup> À la serrure à cylindre double correspondra une clef prolongée pour cylindre, disponible sur le marché. Le cylindre doit être blindé à l’extérieur et sa rainure être façonnée de manière qu’il ne puisse être commandé qu’avec une clef prolongée pour cylindre.
+
+<sup>4</sup> La fermeture des portes doit comporter un dispositif de protection externe qui recouvre le cylindre et l’actionnement du verrou de la serrure principale. Le système de fermeture du dispositif de protection doit lui-même être intégré de manière à résister le plus possible à une atteinte.
+
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 80
+
+**Installations électriques**
+
+<sup>1</sup> Les installations électriques seront aménagées conformément aux règles de la technique pour les locaux exposés à des risques d’incendie. Sont considérées comme des règles reconnues de la technique en particulier les normes de l’IEC[^80-1] et du CENELEC[^80-2]. Là où des normes internationalement harmonisées font défaut, les normes suisses restent valables.
+
+<sup>2</sup> Seul l’éclairage électrique est admis.
+
+<sup>3</sup> Pour le chauffage, seules seront utilisées des installations qui ne peuvent provoquer ni une inflammation ni une décomposition des matières entreposées.
+
+<sup>4</sup> Toutes les parties des entrepôts et magasins pénétrables construites en métal et leurs installations doivent être reliées entre elles par de bons conducteurs de courant, assurant une protection contre les effets électrostatiques, et mises à la terre au même endroit. Le paratonnerre doit être monté selon les prescriptions de l’Association Suisse des Électriciens (ASE)[^80-3].
+
+[^80-1]: *International Electrotechnical Commission*; ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^80-2]: Comité Européen de Normalisation Electrotechnique; ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^80-3]: Ces prescriptions peuvent être obtenues auprès de l’Association Suisse des Electriciens (ASE), Luppmenstrasse 1, 8320 Fehraltdorf.
+
+#### Art. 81
+
+**Équipement particulier et avis**
+
+<sup>1</sup> Les entrepôts et magasins pénétrables seront équipés d’appareils de lutte contre le feu, prêts à fonctionner et adaptés aux matières entreposées. Ils seront en plus pourvus de thermomètres.
+
+<sup>2</sup> Sur le côté intérieur de la porte d’entrée sera affiché un avis bien lisible portant interdiction de fumer et de travailler en présence d’une flamme libre ou du feu. Il y sera en outre précisé que l’entrée est interdite aux personnes non autorisées.
+
+#### Art. 82
+
+**Prescriptions d’exploitation**
+
+<sup>1</sup> Les entrepôts et les magasins doivent être verrouillés. Les clefs seront déposées à un endroit sûr.
+
+<sup>2</sup> Les entrepôts et magasins pénétrables ne contiendront que des matières explosives ainsi que les accessoires de tir. Seuls des travaux d’entreposage y seront exécutés.
+
+<sup>3</sup> Ne pénétreront dans les entrepôts et magasins que les personnes qui sont familiarisées avec le maniement et le transport des matières entreposées et qui doivent s’y rendre pour effectuer de tels travaux.
+
+<sup>4</sup> Dans les entrepôts et magasins souterrains, une distance minimale de 30 cm sera respectée de tous côtés, entre les matières entreposées et le plafond ainsi que les parois.
+
+#### Art. 83
+
+**Armoires à explosifs**
+
+<sup>1</sup> Les armoires à explosifs sont admises jusqu’à une contenance de 1000 kg d’explosifs et de 5000 détonateurs, retardateurs ou amorces. Elles doivent satisfaire, en matière de construction, aux exigences minimales (art. 75) requises pour les magasins, être équipées de la porte extérieure prévue pour ceux-ci (art. 78 et 79) et respecter les distances minimales selon l’art. 74; le compartiment des moyens d’allumage doit pouvoir être fermé à clef séparément (voir annexe 10.1).
+
+<sup>2</sup> Elles doivent être ancrées dans un soubassement solide et, conformément à l’art. 80, al. 4, être reliées à la terre par un conducteur; placées à ciel ouvert, elles seront fixées dans un sol résistant et recouvertes d’une couche protectrice de matériaux fins bien égalisés d’au moins 50 cm d’épaisseur. Lorsqu’elles sont encastrées dans de la roche compacte, elles doivent y être ancrées (voir annexe 10.2).
+
+<sup>3</sup>
+
+Les armoires à explosifs fabriquées en série, à manteau d’acier de 5 mm d’épaisseur, sont admises si:
+
+- a. à l’exception de l’accès, elles peuvent être entourées de tous côtés par du béton armé d’au moins 10 cm d’épaisseur ou, en cas d’encastrement dans de la roche compacte, y être ancrées;
+- b. la porte et la serrure présentent des caractéristiques de sécurité équivalant à celles exigées pour les équipements et prescriptions prévus aux art. 78 et 79.
+
+<sup>4</sup> Des armoires contenant au maximum 100 kg d’explosifs et 1000 détonateurs, retardateurs ou amorces peuvent aussi être aménagées dans des locaux inhabités sis au rez-de-chaussée de centres d’entretien, pour autant que les pièces voisines ne soient pas occupées de façon durable ou temporaire par de nombreuses personnes. Les locaux doivent être équipés d’extincteurs; des liquides et des matières inflammables à moins de 100°C ne devront pas y être entreposés.
+
+#### Art. 84
+
+**Récipients à matières explosives**
+
+<sup>1</sup> Les petits utilisateurs peuvent conserver au maximum 25 kg d’explosifs et 100 détonateurs, retardateurs ou amorces dans un récipient résistant pouvant être fermé à clef et comprenant des compartiments séparés (voir annexes 11.1 et 11.2). Dans les cas fondés, les gros utilisateurs peuvent être autorisés à conserver des explosifs dans un récipient à matières explosives aux conditions restrictives imposées aux petits utilisateurs.
+
+<sup>2</sup> L’intérieur du compartiment réservé aux moyens d’allumage doit être garni d’une matière tendre, excluant le chargement électrique et ne produisant pas d’étincelles au frottement.
+
+<sup>3</sup> Les récipients à matières explosives ne peuvent être déposés que dans un local inhabité sis au rez-de-chaussée, fermé à clef et ne contenant aucune autre matière facilement inflammable. Ils doivent, ainsi que leur contenu, être mis à l’abri de tout enlèvement non autorisé; il en sera de même sur les lieux d’utilisation.
+
+#### Art. 85
+
+**Stocks admis sur les chantiers et autres emplacements d’utilisation**
+
+Les réserves existant sur les chantiers et les autres emplacements d’utilisation ne dépasseront pas les besoins d’un mois. Des quantités plus importantes peuvent être autorisées pour la réalisation de gros projets ou en cas de difficultés de ravitaillement (p. ex. en hiver).
+
+### Section 2 Engins pyrotechniques
+
+#### Art. 86
+
+**Engins pyrotechniques destinés à des fins professionnelles**[^86-1]
+
+<sup>1</sup> Les engins pyrotechniques de la catégorie P2 sont entreposés et conservés selon les prescriptions applicables aux engins pyrotechniques (art. 87 à 89).[^86-2]
+
+<sup>1bis</sup> L’OCEP peut également demander que certains engins soient entreposés et conservés selon les prescriptions applicables aux matières explosives (art. 74 à 84). Le cas échéant, il peut autoriser sans limitation de temps leur conservation dans des récipients à matières explosives (art. 84) jusqu’à un contenu net de 25 kg au maximum d’explosifs ou de substances explosives.[^86-3]
+
+<sup>2</sup> Les engins des catégories T1, T2, et P1 peuvent être entreposés et conservés selon les prescriptions applicables aux pièces d’artifice (art. 87 à 89).
+
+[^86-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^86-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^86-3]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 87
+
+**Entreposage de pièces d’artifice par les importateurs et les vendeurs**
+
+<sup>1</sup> Les locaux affectés à l’entreposage de pièces d’artifice d’un poids brut supérieur à 300 kg sont réputés grands entrepôts; ils seront aménagés autant que possible dans des bâtiments isolés et utilisés à cette seule fin.
+
+<sup>2</sup> Les entrepôts aménagés dans des bâtiments servant encore à d’autres fins doivent être à l’épreuve du feu et dotés d’une ouverture de décompression. Ces bâtiments ne seront pas implantés dans une zone d’habitation, ni occupés de façon durable ou temporaire par de nombreuses personnes.
+
+<sup>3</sup> Les entrepôts doivent avoir au moins une porte s’ouvrant dans la direction à suivre en cas de fuite, marquée comme sortie de secours.
+
+<sup>4</sup> Les installations électriques seront aménagées conformément aux règles de la technique pour les locaux exposés à des risques d’incendie. Sont en particulier considérées comme des règles reconnues de la technique les normes de l’IEC[^87-1] et du CENELEC[^87-2]. Là où des normes internationalement harmonisées font défaut, les normes suisses restent valables. Les constructions doivent être équipées d’un paratonnerre selon les prescriptions de l’ASE[^87-3].
+
+<sup>5</sup> Les locaux servant à la conservation de pièces d’artifice jusqu’à 300 kg, poids brut, sont réputés petits entrepôts. Ils peuvent être situés dans une zone d’habitation, mais doivent être réfractaires au feu et ne pas contenir d’autres marchandises ou matières inflammables.
+
+<sup>6</sup> Les locaux dans lesquels des pièces d’artifice pesant jusqu’à 50 kg, poids brut, sont temporairement conservées doivent uniquement être construits de manière à résister au feu. De plus, si le risque d’incendie est minime, ils peuvent servir à d’autres fins.
+
+<sup>7</sup> Pour la préparation et l’entreposage de grands feux d’artifice pour une courte durée avant l’allumage, il suffit que les locaux ne servent pas en même temps à d’autres fins.
+
+[^87-1]: *International Electrotechnical Commission*; ces normes peuvent être obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^87-2]: Comité Européen de Normalisation Electrotechnique; ces normes peuvent être obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^87-3]: Ces prescriptions peuvent être obtenues auprès de l’Association Suisse des Electriciens (ASE), Luppmenstrasse 1, 8320 Fehraltdorf.
+
+#### Art. 88
+
+**Prescriptions d’exploitation pour grands et petits entrepôts**
+
+<sup>1</sup> Dans les entrepôts, seuls les travaux généraux d’entreposage et d’expédition peuvent être exécutés. L’interdiction de fumer et d’utiliser du feu ou une flamme libre sera signalée de manière bien visible et distincte. Les engins pyrotechniques seront entreposés au frais et au sec et, autant que possible, dans leur emballage d’expédition ou d’assortiment.[^88-1]
+
+<sup>2</sup> L’accès aux locaux ne sera permis qu’aux personnes qui y sont occupées selon les instructions d’un surveillant responsable. En quittant les locaux, on prendra soin de les fermer à clef.
+
+<sup>3</sup> Pour le chauffage, seules pourront être utilisées les installations qui ne provoquent ni inflammation ni décomposition des matières entreposées. Les locaux seront équipés d’extincteurs dont le nombre et la grandeur seront adaptés aux conditions du lieu.
+
+<sup>4</sup> La police et le service du feu seront avisés de l’emplacement et de la nature des matières entreposées.
+
+[^88-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 89
+
+**Conservation dans les locaux de vente**
+
+<sup>1</sup> Dans les locaux de vente, le stock de pièces d’artifice ne devra pas dépasser 30 kg, poids brut. La marchandise sera stockée à l’écart d’autres matières et objets inflammables, dans des récipients ou tiroirs fermés à clef, auxquels les clients n’ont pas accès.
+
+<sup>2</sup> Les pièces d’artifice mises directement en vente doivent être présentées dans leur plus petite unité d’emballage ou placées sous verre. Seules des attrapes, marquées en conséquence, seront exposées dans les devantures et les vitrines.
+
+<sup>3</sup> Lors de la vente à l’extérieur, la quantité de pièces d’artifice ne doit pas dépasser le besoin journalier prévisible. Du personnel instruit surveillera cette vente.
+
+<sup>4</sup> Aux entrées et sorties, ainsi qu’aux passages qui peuvent servir de sorties de secours, on n’installera pas de stands de vente de pièces d’artifice. L’offre de ces articles est interdite à l’intérieur des grands magasins dont la surface de vente dépasse 1000 m<sup>2</sup>.
+
+<sup>5</sup> Aux points de vente, un avis bien lisible interdira de fumer. Si les pièces d’artifice sont mises en vente dans un local spécial, l’interdiction de fumer sera affichée déjà à la porte d’entrée, avec référence à la marchandise exposée. Le vendeur veillera à l’observation de cette interdiction.
+
+#### Art. 90
+
+**Personnes responsables**
+
+Les exploitants d’entreprises commerciales et de magasins désigneront pour l’entreposage, l’expédition et la vente d’engins pyrotechniques, des surveillants responsables, expérimentés dans le maniement des substances explosibles, connaissant les prescriptions légales et pouvant prendre les mesures de sécurité nécessaires en cas d’explosion ou d’incendie.
+
+## Titre 7 Transport de matières explosives
+
+#### Art. 91
+
+**Transport sur les routes réservées à l’usage privé et transport vers les lieux d’utilisation [^91-1]**
+
+<sup>1</sup> Sur les routes et chemins réservés à l’usage privé, les explosifs et moyens d’allumage peuvent être transportés sur le même véhicule. Ils seront laissés dans leurs emballages d’expédition et déposés dans des compartiments séparés du véhicule.
+
+<sup>2</sup> À défaut d’emballages d’expédition, les matières explosives doivent être transportées dans des récipients fermés. À cet effet, il est licite d’utiliser un récipient présentant des compartiments séparés pour les explosifs et les moyens d’allumage et pourvu d’une bretelle pour le transport (voir annexe 11.2).
+
+<sup>3</sup> Les récipients servant au transport des matières explosives doivent être confectionnés en matériau excluant la formation de charges électriques et ne produisant pas d’étincelles au frottement. Les couvercles des récipients dans lesquels sont transportés des explosifs en grains et à l’état foisonné doivent fermer hermétiquement.
+
+<sup>4</sup> Le transport de matières explosives, même en petites quantités, ou à la main sur les lieux d’utilisation, n’est licite que si l’on utilise des emballages résistants ou des récipients fermés.
+
+[^91-1]: Introduit par le ch. I de l’O du 21 sept. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)). Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 91a
+
+**Formulaire d’accompagnement pour le transport intercommunautaire[^91a-2]**[^91a-1]
+
+<sup>1</sup> Les matières explosives transportées sont accompagnées du «document sur le transfert intracommunautaire d’explosifs» prévu par la décision 2004/388/CE[^91a-3], à l’exception des emblèmes de l’UE.
+
+<sup>2</sup> Si des emblèmes de l’UE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE.
+
+[^91a-1]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+[^91a-2]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^91a-3]: D 2004/388/CE de la Commission du 15 avril 2004 relative à un document sur le transfert intracommunautaire d’explosifs, JO L 120 du 24.4.2004, p. 43; modifiée en dernier lieu par la D 2010/347/UE, JO L 155 du 22.6.2010, p. 54.
+
+## Titre 8 Utilisation et destruction
+
+### Chapitre 1 Prescriptions générales de protection et de sécurité
+
+#### Art. 92
+
+**Disposition commune**
+
+<sup>1</sup> Là où la législation sur les explosifs ne prévoit aucune prescription pour l’utilisation et la destruction des matières explosives et des engins pyrotechniques, il y a lieu d’observer les règles généralement reconnues de la technique.
+
+<sup>2</sup> Pour déterminer ces règles, on se référera notamment à la documentation ayant trait à la formation et aux examens, ainsi qu’aux données du fabricant et aux modes d’emploi.
+
+#### Art. 93
+
+**Responsabilité des titulaires de permis d’emploi[^93-1]**
+
+<sup>1</sup> Les travaux de minage et ceux impliquant des engins pyrotechniques des catégories T2, P2 ou F4 doivent être dirigés par des personnes titulaires d’un permis d’emploi, sous réserve de l’art. 52, al. 6<sup>bis</sup> et 7. Ces personnes sont responsables de l’observation des prescriptions et des règles généralement reconnues par la technique.[^93-2]
+
+<sup>2</sup> Lorsqu’il est fait appel à des spécialistes éprouvés, ceux-ci sont responsables de l’exécution des travaux conformément au plan qu’ils ont établi.
+
+[^93-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^93-2]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+
+#### Art. 94
+
+**Matières explosives utilisables**
+
+<sup>1</sup> Par minage, on utilisera des mèches d’allumage de sûreté du même fabricant et présentant la même durée de combustion. Celle-ci doit être contrôlée*.*
+
+<sup>2</sup> Par minage, les charges explosives seront pourvues d’amorces de type identique du même fabricant. Les combinaisons appropriées de différents systèmes d’allumage sont autorisées.
+
+<sup>3</sup> Les matières explosives qui présentent des défauts ne doivent pas être employées.
+
+<sup>4</sup> Les matières explosives gelées ne doivent pas être utilisées. La préparation de charges et le chargement de trous de forage dans une température ambiante descendue au-dessous de la température critique de gel doivent être effectués de manière à ce que les matières explosives ne gèlent pas.
+
+### Chapitre 2 Forage et chargement
+
+#### Art. 95
+
+**Forage**
+
+<sup>1</sup> Le trou de forage sera préparé de manière qu’il puisse être chargé selon les règles de l’art.
+
+<sup>2</sup> Le chargement des trous de mine ne commencera que si le processus de forage ne risque pas de déclencher la mise à feu d’une charge explosive.
+
+<sup>3</sup> Il est interdit de reprendre le forage d’un «culot» ou d’un trou ayant fait canon et que l’explosion n’a pas entièrement détruit. Sa direction doit être marquée moyennant l’introduction d’un bourroir avant d’effectuer un forage dans le voisinage.
+
+#### Art. 96
+
+**Chargement**
+
+<sup>1</sup> Pour le chargement, on n’utilisera que des bourroirs, tuyaux et entonnoirs qui ne peuvent pas se charger électrostatiquement et qui ne produisent pas d’étincelles.
+
+<sup>2</sup> Les chantiers sur lesquels doivent être employés des engins de chargement mécaniques ou pneumatiques sont à annoncer préalablement à la CNA.
+
+### Chapitre 3 Allumage
+
+#### Art. 97
+
+**Mèche d’allumage de sûreté**
+
+<sup>1</sup> La longueur de la mèche doit être telle que la mise à feu de cette dernière puisse être faite sans danger et que les personnes chargées de l’allumage aient suffisamment de temps pour se mettre à l’abri. Les mèches d’une durée de combustion de moins de 90 secondes ne doivent pas être utilisées.
+
+<sup>2</sup> Par minage, on n’allumera pas plus de dix mèches. On ne peut s’écarter de cette règle qu’avec le consentement exprès et écrit de la CNA.
+
+<sup>3</sup> L’assemblage du détonateur avec la mèche doit être protégé contre les infiltrations d’eau.
+
+#### Art. 98
+
+**Appareils de déclenchement et de vérification**
+
+<sup>1</sup> Les appareils de déclenchement (appareils de mise à feu, déclencheurs d’allumage, etc.) doivent garantir un procédé d’allumage sûr et être construits de façon à empêcher toute manipulation non autorisée.
+
+<sup>2</sup> Pour la vérification des amorces et des circuits d’allumage, ne peuvent être utilisés que les appareils de mesure destinés exclusivement à ce but. Ils doivent être construits de manière qu’un déclenchement des amorces soit impossible.
+
+<sup>3</sup> Les spécifications techniques nécessaires à une utilisation sûre doivent figurer sur les appareils.
+
+<sup>4</sup> Les appareils doivent en outre répondre aux exigences essentielles de sécurité de fonctionnement prévues par la loi du 12 juin 2009 sur la sécurité des produits[^98-1] et de l’ordonnance du 19 mai 2010 sur la sécurité des produits[^98-2], qui en découle.[^98-3]
+
+[^98-1]: [<sup>RS</sup> 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^98-2]: [<sup>RS</sup> 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^98-3]: Nouvelle teneur selon l’annexe 4 ch. II 12 de l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+
+#### Art. 99
+
+**Distances de sécurité par rapport aux installations d’énergie électrique**
+
+Lors des allumages électriques, les distances de sécurité minimales par rapport à des installations d’énergie électrique (p. ex. émetteurs, installations radar ou lignes à haute tension) indiquées par le fabricant doivent être respectées.
+
+#### Art. 100
+
+**Contrôle et allumage**
+
+<sup>1</sup> Seuls des appareils homologués et prévus à cet effet seront utilisés pour le déclenchement des amorces électriques.
+
+<sup>2</sup> Le dispositif d’allumage mis en place sera contrôlé avant le tir.
+
+<sup>3</sup> L’appareil de déclenchement sera raccordé au circuit d’allumage seulement après le deuxième signal d’avertissement (art. 104). Après le tir, il doit être immédiatement assuré de manière à prévenir tout allumage involontaire. Il en ira de même si l’allumage n’a pas donné de résultat.
+
+#### Art. 101
+
+**Mesures de sécurité en cas d’orage**
+
+<sup>1</sup> En cas de risque d’allumage involontaire par la foudre, on prendra les mesures de sécurité qui s’imposent, comme le choix du système d’allumage ou la mise en place d’un service d’alerte.
+
+<sup>2</sup> On allumera le plus rapidement possible les charges prêtes et munies d’amorces électriques, en observant les mesures de sécurité prescrites (barrages et signaux d’avertissement). Si cela n’est plus possible, l’emplacement de tir sera abandonné et l’accès à cette zone barré jusqu’à ce que l’orage ait passé.
+
+<sup>3</sup> Sur les chantiers souterrains, on tiendra compte de la distance séparant l’emplacement de tir de l’entrée de la galerie, de la couverture de roche ainsi que des installations de la galerie, telles que les conduites d’air et d’eau, les installations de ventilation et les voies ferrées.
+
+### Chapitre 4 Mesures de sécurité avant et après l’allumage
+
+#### Art. 102
+
+**Consultations**
+
+Les travaux de minage à proximité de voies de communications publiques ou de ravitaillement, telles que routes, chemins de fer, téléphériques, funiculaires, lignes à haute tension et conduites en tout genre ainsi qu’installations de télécommunications, seront fixés d’un commun accord avec les services compétents.
+
+#### Art. 103
+
+**Mesures de sécurité et de protection**
+
+<sup>1</sup>
+
+Le chef mineur doit veiller à ce que:
+
+- a. le tir ne mette pas en danger des personnes, des biens d’autrui ou l’environnement;
+- b. toutes les routes et tous les accès menant à la zone de danger soient barrés et surveillés tant que le danger n’est pas écarté; les prescriptions de l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière[^103-1] sont applicables pour le barrage des voies de communication publiques;
+- c. les matières explosives sur l’emplacement de tir soient protégées et évacuées à la fin du travail;
+- d. la mise à feu ne s’effectue que sous sa surveillance.
+
+<sup>2</sup> Avant le premier signal de tir, le chef mineur doit assigner un emplacement sûr aux personnes se trouvant dans la zone de danger.
+
+[^103-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+
+#### Art. 104
+
+**Signaux de tir**
+
+<sup>1</sup>
+
+Le chef mineur doit donner les signaux suivants:
+
+- a. le premier signal annonce le tir: au moins cinq sons prolongés;
+- b. le deuxième signal signifie qu’on met à feu: trois sons courts;
+- c. le troisième signal signifie que le tir est terminé: un son prolongé.
+
+<sup>2</sup> Dès le premier signal, toutes les personnes doivent gagner l’emplacement qui leur a été assigné par le chef mineur. Après le deuxième signal, il peut être procédé à la mise à feu. Après le troisième signal, les barrages peuvent être levés.
+
+<sup>3</sup> Le chef mineur doit porter la signification de ces signaux à la connaissance de toutes les personnes concernées.
+
+<sup>4</sup> Les signaux seront donnés de manière clairement audible avec une corne de chantier. Si cette corne ne suffit pas, on utilisera d’autres moyens appropriés.
+
+<sup>5</sup> On pourra renoncer aux signaux acoustiques s’il existe entre l’équipe d’allumage et les autres personnes concernées une liaison sûre et si la sécurité est garantie.
+
+#### Art. 105
+
+**Temps d’attente**
+
+<sup>1</sup> En cas d’allumage pyrotechnique, le chef mineur contrôle, montre en main, la durée de combustion de la mèche d’allumage de sûreté et compte les détonations.
+
+<sup>2</sup> Si tous les coups ne sont pas partis ou si des doutes subsistent à ce sujet, personne ne doit quitter les abris avant que quinze minutes se soient écoulées depuis la mise à feu de la dernière mèche. Il en ira de même si une mèche semble avoir été allumée sans succès apparent. En cas d’utilisation de mèches ayant une durée de combustion de plus de sept minutes, le temps d’attente sera prolongé en conséquence.
+
+<sup>3</sup> Pour les systèmes d’allumage électriques ou par conduits, le temps d’attente après la mise à feu, et en cas de ratés, se limite au temps de retard des amorces utilisées.
+
+<sup>4</sup> Après la mise à feu de ratés qui étaient pourvus d’une mèche d’allumage de sûreté, on laissera en tout cas s’écouler un laps de temps de quinze minutes, indépendamment du système d’allumage employé.
+
+<sup>5</sup> Après les coups destinés à former une poche de mine, le rechargement ne s’effectuera que lorsque la poche s’est refroidie.
+
+<sup>6</sup> On ne pourra retourner à l’emplacement de travail où traînent des fumées résiduaires toxiques qu’au moment où elles se seront dissipées ou auront été réduites à une densité inoffensive.
+
+#### Art. 106
+
+**Contrôle de l’emplacement de tir**
+
+<sup>1</sup> Le minage effectué, ou à l’expiration du temps d’attente, le chef mineur quittera seul l’abri pour s’assurer qu’il n’y a plus de danger.
+
+<sup>2</sup> Les ratés qui auront été constatés seront immédiatement rendus inoffensifs selon les règles de l’art. Le chef mineur instruira dûment son équipe sur la conduite à suivre, aussi en cas de découverte ultérieure de ratés.
+
+<sup>3</sup> Le chef mineur ne quittera le chantier que si tous les ratés sont détruits ou marqués distinctement et qu’après avoir personnellement indiqué à son successeur nombre et position exacts des ratés à détruire, tout en lui confiant la responsabilité à cet effet.
+
+<sup>4</sup> Si, lors de travaux de déclenchement d’avalanches, le chef mineur ne peut pas immédiatement détruire les ratés en raison de circonstances extérieures, telles que les conditions météorologiques, l’état de la couche neigeuse ou le danger d’avalanches, il doit en indiquer exactement l’emplacement dans un procès-verbal accompagné d’un plan de situation, puis signaler la zone dangereuse et procéder le plus rapidement possible à leur destruction.
+
+### Chapitre 5 Destruction et élimination
+
+#### Art. 107
+
+**Principe**
+
+<sup>1</sup> Les matières explosives et les engins pyrotechniques devenus inutilisables peuvent être détruits comme prévu à l’art. 108 dans le respect des règles de l’art.
+
+<sup>2</sup> Sont réputés inutilisables les produits dont l’état s’est modifié sous des effets mécaniques, par l’humidité ou par un entreposage prolongé; il en est de même pour ceux dont la date d’utilisation est expirée.
+
+<sup>3</sup> S’agissant des engins pyrotechniques, les ratés sont également considérés comme des produits devenus inutilisables.
+
+#### Art. 108
+
+**Destruction**
+
+<sup>1</sup> Les petites quantités de matières explosives, telles que des cartouches d’explosif isolées ou quelques amorces, peuvent être détruites par minage par les titulaires d’un permis, sans mention expresse annotée dans ce dernier.
+
+<sup>2</sup> La destruction de quantités plus importantes de matières explosives est considérée comme travail de minage spécial, qui doit être exécuté conformément aux prescriptions de la CNA.
+
+<sup>3</sup> Seuls les fabricants et les personnes entraînées à cette opération peuvent procéder à la destruction d’engins pyrotechniques. Les opérateurs économiques sont tenus de reprendre les engins pyrotechniques et de les remettre en vue de leur destruction à une personne compétente au sens du présent alinéa.[^108-1]
+
+[^108-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 109
+
+**Élimination ou restitution**
+
+Les matières explosives et les engins pyrotechniques qui ne pourront pas être détruits selon l’art. 108 devront être éliminés par leur propriétaire selon les règles de la protection de l’environnement ou restitués dans ce but au fabricant.
+
+## Titre 9 Registres, surveillance, émoluments et coopération technique et scientifique****
+
+[^tit9-1]
+
+[^tit9-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+### Chapitre 1 Registres
+
+#### Art. 110
+
+<sup>1</sup> Est considéré comme astreint à tenir un registre l’utilisateur de matières explosives qui acquiert des quantités d’explosifs, de détonateurs ou d’amorces plus importantes que celles mentionnées à l’art. 46, al. 1.
+
+<sup>2</sup>
+
+Les inventaires des fabricants, importateurs, vendeurs et utilisateurs de matières explosives astreints à tenir des registres doivent indiquer:
+
+- a. les entrées, les sorties et les stocks;
+- b. les noms et adresses des fournisseurs et des clients, ainsi que les dates des opérations commerciales;
+- c.[^110-1] les données selon l’annexe 14.
+
+<sup>2bis</sup> Les inventaires doivent remplir les exigences de l’annexe 14.[^110-2]
+
+<sup>3</sup> Les registres renseignent sur les mutations quotidiennes et sur le bilan mensuel.
+
+<sup>4</sup> Les factures et les permis d’acquisition doivent pouvoir être présentés en tout temps en complément des registres. Les utilisateurs doivent en outre pouvoir présenter les attestations, signées par une personne ayant des connaissances particulières, des fournitures journalières adressées au chantier.[^110-3]
+
+<sup>5</sup> Si des explosifs sont produits dans des mélangeurs sur le lieu d’utilisation, il convient de tenir un registre des genres et quantités de leurs composants.
+
+<sup>6</sup> Les fabricants, importateurs et vendeurs d’engins pyrotechniques et de poudre de guerre doivent tenir un registre de chaque genre d’article, exception faite des pièces d’artifice des catégories 1 à 3 admises dans le commerce de détail, alors que les utilisateurs n’y sont astreints que pour ceux des catégories T2, P2 et F4. Les registres, permis d’acquisition, respectivement autorisations de mise à feu seront conservés en bon ordre pendant dix ans.[^110-4]
+
+[^110-1]: Introduite par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^110-2]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^110-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^110-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Chapitre 2 Surveillance
+
+#### Art. 111
+
+**Contrôle par les cantons**
+
+<sup>1</sup> Les cantons surveillent le commerce des matières explosives et des engins pyrotechniques, en particulier leur fabrication, leur vente, leur entreposage, leur mise en lieu sûr et leur utilisation.
+
+<sup>2</sup> Lorsqu’ils découvrent des matières explosives ou des engins pyrotechniques qui ne sont pas admis dans le commerce ou ne sont plus utilisables, ils en informent sans retard l’OCEP. Ils peuvent faire examiner des spécimens par ce dernier.
+
+<sup>3</sup> Les inventaires des fabricants, vendeurs et utilisateurs astreints à tenir un registre seront vérifiés à l’improviste au moins tous les deux ans. Le contrôle sera mentionné dans l’état, qui devra en indiquer la date.
+
+<sup>4</sup> Est réservée la surveillance que des services fédéraux exercent sur le commerce des matières explosives et des engins pyrotechniques en vertu d’autres lois. Ces services coordonneront leur activité avec celle des organes de contrôle des cantons.
+
+#### Art. 112
+
+**Contrôle par les services douaniers**
+
+<sup>1</sup> Le contrôle à la frontière incombe aux services douaniers.
+
+<sup>2</sup> Les envois pour lesquels aucune autorisation d’importation n’est présentée doivent être retenus et signalés à l’OCEP.
+
+<sup>3</sup>
+
+Les envois doivent être retenus et signalés au SECO:
+
+- a. lorsqu’ils ne sont pas accompagnés d’une autorisation d’exportation;
+- b. lorsque, pour leur transit, la preuve de l’expédition conforme à la LExpl n’a pas été apportée (art. 25 de l’O du 25 juin 1997 sur le contrôle des biens[^112-1]).
+
+[^112-1]: [[RO 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)ch. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)annexe 4 ch. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)annexe 6 ch. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)app. 2 ch. 4, [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446)[4553](https://fedlex.data.admin.ch/eli/oc/2014/760), [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Voir actuellement l’O du 3 juin 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+
+### Chapitre 3 Émoluments
+
+#### Art. 112a
+
+**Application de l’ordonnance générale sur les émoluments**[^112a-1]
+
+L’ordonnance générale du 8 septembre 2004 sur les émoluments[^112a-2] est applicable, sous réserve des dispositions spéciales de la présente ordonnance.
+
+[^112a-1]: Introduit par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^112a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 113
+
+**Pour les autorisations**
+
+<table>
+<tr><td></td><td>Francs</td></tr>
+<tr><td><sup>1</sup> Pour l’octroi des autorisations, les émoluments suivants sont perçus:</td><td></td></tr>
+<tr><td>a. autorisations de production (art. 27)</td><td>50 à 1000</td></tr>
+<tr><td>b. autorisations d’importation (art. 31)</td><td>50 à 1000</td></tr>
+<tr><td>c. autorisations de vente (art. 35)</td><td>50 à 500</td></tr>
+<tr><td>d. permis d’acquisition pour gros utilisateurs (art. 45)</td><td>20 à 200</td></tr>
+<tr><td>e.[^113-1] permis d’acquisition pour petits utilisateurs (art. 46)</td><td>5 à 200</td></tr>
+<tr><td>f.[^113-2] permis d’acquisition pour les catégories T2, P2 et F4</td><td>5 à 200</td></tr>
+<tr><td>g. autorisations exceptionnelles au sens des art. 30 et 33</td><td>100 à 500</td></tr>
+</table>
+
+<sup>2</sup> Les émoluments perçus pour la délivrance de permis d’emploi (art. 57) sont régis par l’ordonnance du 16 juin 2006 sur les émoluments du SEFRI[^113-3].[^113-4]
+
+[^113-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^113-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^113-3]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^113-4]: Introduit par l’annexe ch. 5 de l’O du 16 juin 2006 sur les émoluments du SEFRI ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 114
+
+**Pour les examens cantonaux**[^114-1]
+
+Pour les examens en vue de l’obtention du permis d’emploi qui relèvent de la compétence des cantons, l’émolument perçu est de 300 à 1000 francs.
+
+[^114-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 115
+
+**Pour les contrôles**[^115-1]
+
+<sup>1</sup> Pour les décisions concernant les mesures prévues en cas de non-conformité de matières explosives ou d’engins pyrotechniques (art. 17 et 25*b*), l’émolument perçu est compris entre 100 et 5000 francs.[^115-2]
+
+<sup>2</sup> Des émoluments de 50 à 5000 francs peuvent être perçus pour les contrôles ultérieurs effectués en vertu de l’art. 16, lorsque les matières explosives sont jugées non conformes ou que la déclaration ou l’attestation de conformité est estimée insuffisante.
+
+<sup>3</sup> Des émoluments de 100 à 10 000 francs peuvent être perçus pour des contrôles spéciaux. Sont réputés tels les contrôles qui doivent être exécutés en raison d’infractions à la LExpl ou à l’ordonnance, ou ceux auxquels donne lieu le comportement du titulaire d’une autorisation.
+
+[^115-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^115-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 116
+
+**Frais supplémentaires**
+
+Aux émoluments s’ajoutent les frais suivants:
+
+- a. frais causés par la recherche de preuves, par des expertises scientifiques, des contrôles spéciaux ou la recherche de documents;
+- b. frais de voyage et de transport;
+- c. frais découlant de travaux confiés à des tiers par les autorités compétentes.
+
+### Chapitre 4 Coopération technique et scientifique****
+
+[^tit9-chap4-1]
+
+[^tit9-chap4-1]: Introduit par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 117
+
+[^117-1]
+
+L’OCEP peut coopérer avec des services techniques et scientifiques, en particulier avec le service scientifique et de recherches de l’institut de police scientifique de Zurich[^117-2] («Wissenschaftlicher Forschungsdienst des Forensischen Institutes Zürich»). La coopération est réglée contractuellement.
+
+[^117-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^117-2]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Il a été tenu compte de cette mod. dans tout le texte.
+
+## Titre 9*a***** Fichier électronique BARBARA
+
+[^tit9a-1]
+
+[^tit9a-1]: Introduit par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 117a
+
+**But**
+
+Le fichier électronique BARBARA est exploité aux fins de lutte contre les infractions pénales en relation avec le commerce des matières explosives, des engins pyrotechniques et de poudre de guerre. Il sert en outre au déroulement administratif du commerce de ces objets.
+
+#### Art. 117b
+
+**Compétence**
+
+L’exploitation du fichier électronique BARBARA relève de la compétence de l’Office fédéral de la police (fedpol).
+
+#### Art. 117c
+
+**Structure**
+
+BARBARA se compose de:
+
+- a. données relatives aux autorisations;
+- b. données sur les communications et les informations échangées;
+- c. données relatives à des événements en lien avec le commerce de matières explosives, d’engins pyrotechniques et de poudre de guerre;
+- d. documents techniques.
+
+#### Art. 117d
+
+**Contenu**
+
+L’OCEP traite dans BARBARA les données personnelles suivantes:
+
+- a. les numéros d’identification attribués (art. 24);
+- b. les autorisations de production accordées (art. 27);
+- c. les autorisations exceptionnelles accordées (art. 30);
+- d. les autorisations d’importation accordées (art. 31);
+- e. les autorisations de vendre accordées (art. 35);
+- f. des données sur la gestion de la correspondance et des dossiers.
+
+<sup>2</sup>
+
+BARBARA contient en outre des données anonymisées sur le commerce des matières explosives, des objets pyrotechniques et de la poudre de guerre, telles que:
+
+- a. des rapports de police;
+- b. des rapports d’enquête, notamment du service scientifique et de recherches de l’institut de police scientifique de Zurich («Wissenschaftlicher Forschungsdienst des Forensischen Institutes Zürich»).
+
+#### Art. 117e
+
+**Droits d’accès**
+
+<sup>1</sup>
+
+Les autorités suivantes ont accès en ligne aux données enregistrées dans BARBARA:
+
+- a. l’OCEP et les services cantonaux chargés de l’exécution de la législation sur les explosifs;
+- b. la Police judiciaire fédérale, aux fins d’exécution de ses tâches en vertu de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^117e-1], du code de procédure pénale[^117e-2] et de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^117e-3];
+- c. les conseillers à la protection des données de fedpol aux fins d’exécution de leurs tâches de contrôle;
+- d. les personnes chargées de la maintenance et de la programmation informatiques aux fins d’exécution de leurs tâches.
+
+<sup>2</sup> Les droits d’accès sont réglés à l’annexe 17.
+
+[^117e-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^117e-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^117e-3]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+
+#### Art. 117f
+
+**Transmission de données**
+
+<sup>1</sup> L’OCEP peut transmettre des données à des tiers pour autant qu’ils en aient besoin pour accomplir leurs tâches légales et qu’ils soient autorisés à traiter ces données.
+
+<sup>2</sup>
+
+Il peut transmettre sur demande des données enregistrées dans le fichier électronique notamment aux autorités suivantes, pour autant qu’elles en aient besoin pour accomplir leurs tâches légales et qu’elles soient autorisées à traiter ces données:
+
+- a. les autorités cantonales et fédérales de poursuite pénale;
+- b. l’institut de police scientifique de Zurich;
+- c. la SUVA;
+- d.[^117f-1] le SEFRI.
+
+[^117f-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 117g
+
+**Journalisation**
+
+Tout traitement de données dans BARBARA est journalisé. Les procès-verbaux sont conservés pendant un an.
+
+#### Art. 117h
+
+**Durée de conservation et suppression des données**
+
+<sup>1</sup> Les données visées à l’art. 117*c*, al. 1, let. a et b, sont conservées pendant dix ans après leur saisie.
+
+<sup>2</sup> À l’issue du délai de conservation, les données sont supprimées à moins qu’elles doivent être déposées auprès des Archives fédérales suisses.
+
+#### Art. 117i
+
+**Archivage**
+
+Les données du fichier sont proposées aux Archives fédérales suisses conformément à l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^117i-1] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^117i-2].
+
+[^117i-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117i-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 117j
+
+**Sécurité des données**
+
+<sup>1</sup> La sécurité des données est garantie conformément à l’art. 7 de la loi fédérale du 19 juin 1992 sur la protection des données[^117j-1], à l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-2] et aux directives du Conseil fédéral du 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^117j-3].[^117j-4]
+
+<sup>2</sup> L’OCEP prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
+
+[^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^117j-3]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^117j-4]: Nouvelle teneur selon l’annexe ch. 20 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+
+#### Art. 117k
+
+**Droit d’accès des personnes concernées**
+
+Le droit d’accès des personnes concernées aux données, de même que le droit à la rectification et à la suppression des données, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^117k-1].
+
+[^117k-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 117l
+
+**Règlement de traitement**
+
+L’Office fédéral de la police édicte un règlement relatif au traitement des données dans BARBARA.
+
+## Titre 10 Dispositions finales
+
+#### Art. 118
+
+**Annexes**[^118-1]
+
+Le Département fédéral de justice et police peut adapter les annexes 1 à 16 aux circonstances.
+
+[^118-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 119
+
+[^119-1]
+
+[^119-1]: Abrogé par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 119a
+
+**Dispositions transitoires relatives à la modification du 12 mai 2010**[^119a-1]
+
+<sup>1</sup> et <sup>2</sup> ...[^119a-2]
+
+<sup>3</sup> Lors de l’entrée en vigueur de la modification du 12 mai 2010, aucune attestation de conformité ne doit être présentée pour les engins pyrotechniques au bénéfice d’une homologation délivrée selon l’ancien droit et non encore échue. Cette exemption ne pourra s’appliquer au-delà de la date d’expiration de l’homologation mais au plus tard jusqu’au 3 juillet 2017.
+
+<sup>4</sup> ...[^119a-3]
+
+<sup>5</sup> Si les normes requises pour la procédure d’évaluation de conformité prévue par l’art. 25 n’existent pas encore pour un engin pyrotechnique, l’OCEP est compétent pour l’homologation selon les règles de l’annexe 16.
+
+<sup>6</sup> Les engins pyrotechniques de catégorie T2 peuvent être remis à l’acquéreur sans permis d’emploi, aussi longtemps que le permis d’emploi d’engins pyrotechniques et le permis d’acquisition pour cette catégorie n’est pas disponible, mais jusqu’au 1<sup>er</sup> janvier 2014 au plus tard.
+
+<sup>7</sup> Les engins pyrotechniques de catégorie F4 peuvent être remis à l’acquéreur, après que le vendeur l’aura informé de l’emploi et des dispositions de sécurité à respecter, aussi longtemps que le permis d’emploi d’engins pyrotechniques et le permis d’acquisition pour cette catégorie n’est pas disponible, mais jusqu’au 1<sup>er</sup> janvier 2014 au plus tard.
+
+<sup>8</sup> Les permis d’emploi au sens de l’art. 14 LExpl délivrés avant l’entrée en vigueur de la modification du 12 mai 2010 conservent leur validité. Les autorisations selon les mentions sont toutefois régies par les dispositions de cette modification.
+
+<sup>9</sup> Les permis avec mention A portant une date d’examen antérieure au 1<sup>er</sup> janvier 1991, ainsi que la mention relative aux travaux de minage spéciaux déclenchement d’avalanches avec une date d’examen antérieure au 1<sup>er</sup> janvier 1988, n’autorisent toutefois l’utilisation des matières explosives que dans les limites admises jusqu’ici.
+
+[^119a-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^119a-2]: Abrogés par le ch. I de l’O du 12 avr. 2017, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^119a-3]: Abrogé par le ch. I de l’O du 21 mars 2012, avec effet au 4 avr. 2012 ([RO 2012 1485](https://fedlex.data.admin.ch/eli/oc/2012/200)).
+
+#### Art. 119b
+
+**Disposition transitoire relative à l’identification et à la traçabilité des explosifs**[^119b-1]
+
+Les exigences relatives à l’identification et à la traçabilité des explosifs formulées aux art. 20, 21 et 23, ainsi qu’à l’annexe 14, doivent être remplies dès le 5 avril 2013. Les exigences formulées à l’annexe 14, ch. 2, al. 10, et ch. 12 et 13 ne doivent toutefois être remplies qu’à partir du 5 avril 2015.[^119b-2]
+
+[^119b-1]: Introduit par le ch. I de l’O du 21 mars 2012, en vigueur depuis le 4 avr. 2012 ([RO 2012 1485](https://fedlex.data.admin.ch/eli/oc/2012/200))
+[^119b-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+
+#### Art. 119c
+
+**Disposition transitoire relative aux étiquettes des engins pyrotechniques**[^119c-1]
+
+Les étiquettes d’engins pyrotechniques comportant l’ancienne dénomination des catégories (1 à 4) sont tolérées sur le marché jusqu’au 31 janvier 2026 au plus tard.
+
+[^119c-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 119d
+
+**Dispositions transitoires relatives à la modification du 12 avril 2017**[^119d-1]
+
+<sup>1</sup>
+
+Une autorisation de fabrication ou d’importation peut être octroyée jusqu’au 3 juillet 2017 au plus tard pour les engins pyrotechniques de catégorie F4, T1, T2, P1 et P2 qui répondent aux conditions suivantes:
+
+- a. ils avaient déjà obtenu une autorisation de fabrication ou d’importation avant l’entrée en vigueur de la modification du 12 mai 2010;
+- b. ils ne font pas encore l’objet d’une déclaration de conformité.
+
+<sup>2</sup> Les autorisations de fabrication ou d’importation octroyées avant le 3 juillet 2017 demeurent valables jusqu’à l’échéance de leur validité.
+
+<sup>3</sup> Les engins pyrotechniques dont la fabrication ou l’importation a été autorisée conformément aux al. 1 et 2 peuvent être mis à disposition sur le marché jusqu’au 31 janvier 2021 au plus tard.
+
+[^119d-1]: Introduit par le ch. I de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+
+#### Art. 120
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 26 mars 1980 sur les explosifs[^120-1] est abrogée.
+
+[^120-1]: [[RO 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536), [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982), [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 9 [291](https://fedlex.data.admin.ch/eli/oc/2000/57)annexe ch. II 8]
+
+#### Art. 121
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2001.
+
+Annexe 1*[^t-1]*
+
+(art. 6 et 7)
+
+## Classification des engins pyrotechniques
+
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### 1 Engins pyrotechniques à des fins professionnelles
+
+### 1.1 Catégorie T1
+
+Les engins pyrotechniques destinés à être utilisés sur scène, à l’intérieur ou a l’extérieur, y compris dans les productions cinématographiques et télévisuelles, ou à une utilisation analogue et qui présentent un risque faible.
+
+### 1.2 Catégorie T2
+
+Les engins pyrotechniques destinés à être utilisés uniquement par des personnes ayant des connaissances particulières, sur scène, à l’intérieur ou à l’extérieur, y compris dans les productions cinématographiques et télévisuelles, ou à une utilisation analogue.
+
+### 1.3 Catégorie P1
+
+Les engins pyrotechniques autres que les pièces d’artifice et les engins pyrotechniques destinés à être utilisés sur scène, qui présentent un risque faible.
+
+### 1.4 Catégorie P2
+
+Les engins pyrotechniques autres que les pièces d’artifice et les engins pyrotechniques destinés à être utilisés sur scène, qui sont destinés à être manipulés ou utilisés uniquement par des personnes ayant des connaissances particulières.
+
+### 1.5 Catégorie P3
+
+Cartouches et douilles industrielles contenant une charge propulsive qui initie un travail mécanique.
+
+### 2 Pièces d’artifice
+
+### 2.1 Catégorie F1
+
+Les pièces d’artifice qui présentent un risque très faible et un niveau sonore négligeable et sont destinées à être utilisées dans des espaces confinés, y compris les pièces d’artifice destinées à être utilisées à l’intérieur d’immeubles d’habitation.
+
+### 2.2 Catégorie F2
+
+Les pièces d’artifice qui présentent un risque faible et un faible niveau sonore et sont destinées à être utilisées à l’air libre, dans des zones confinées.
+
+### 2.3 Catégorie F3
+
+Les pièces d’artifice qui présentent un risque moyen lorsqu’elles sont utilisées conformément à leur destination, qui sont destinées à être utilisées à l’air libre, dans de grands espaces ouverts, et dont le niveau sonore n’est pas dangereux pour la santé humaine.
+
+### 2.4 Catégorie F4
+
+Les pièces d’artifice qui présentent un risque élevé même lorsqu’elles sont utilisées conformément à leur destination, qui sont destinées à être utilisées uniquement par des personnes ayant des connaissances particulières (normalement désignées par l’expression «pièces d’artifice à usage professionnel») et dont le niveau sonore n’est pas dangereux pour la santé humaine.
+
+Remarque
+
+Sont notamment réputés initiateurs d’allumage: les différents types de mèches ainsi que les allumeurs électriques et mécaniques. Ces moyens ne sont toutefois pas des engins pyrotechniques au sens de la LExpl.
+
+Annexe 2*[^t-2]*
+
+(art. 26, al. 2)
+
+## Indications et désignations complémentaires pour les engins pyrotechniques
+
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Mise à jour par le ch. II de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+
+- 1\. Engins pyrotechniques destinés à des fins professionnelles de la catégorie T1:
+- «Ne peut être remis à des personnes de moins de 18 ans. Il est interdit par la LExpl d’employer cet engin à des fins autres que celles pour lesquelles il est prévu.» et, le cas échéant, «À utiliser à l’extérieur uniquement» et une distance de sécurité minimale.
+- 2\. Engins pyrotechniques destinés à des fins professionnelles de la catégorie T2:
+- «Ne peut être remis que sur présentation d’un permis d’acquisition ou d’une autorisation de mise à feu. Utilisation réservée aux personnes ayant des connaissances particulières et titulaires d’un permis d’emploi. Il est interdit par la LExpl d’employer cet engin à des fins autres que celles pour lesquelles il est prévu.» et une ou des distances de sécurité minimales.
+- 3\. Engins pyrotechniques destinés à des fins professionnelles de la catégorie P1:
+- «Ne peut être remis à des personnes de moins de 18 ans. Il est interdit par la LExpl d’employer cet engin à des fins autres que celles pour lesquelles il est prévu.»
+- 4\. Engins pyrotechniques destinés à des fins professionnelles de la catégorie P2:
+- «Ne peut être remis que sur présentation d’un permis d’acquisition. Il est interdit par la LExpl d’employer cet engin à des fins autres que celles pour lesquelles il est prévu.» et une ou des distances de sécurité minimales.
+- 5\. Pièces d’artifice de la catégorie F1:
+- «Ne peut être remis à des personnes de moins de 12 ans» et le cas échéant: «À utiliser à l’extérieur uniquement» et une distance de sécurité minimale.
+- 6\. Pièces d’artifice de la catégorie F2:
+- «Ne peut être remis à des personnes de moins de 16 ans», «À utiliser à l’extérieur uniquement» et, le cas échéant, une ou des distances de sécurité minimales.
+- 7\. Pièces d’artifice de la catégorie F3:
+- «Ne peut être remis à des personnes de moins de 18 ans», «À utiliser à l’extérieur uniquement» et, le cas échéant, une ou des distances de sécurité minimales.
+- 8\. Pièces d’artifice de la catégorie F4:
+- «Ne peut être remis que sur présentation d’un permis d’acquisition ou d’une autorisation de mise à feu. Utilisation réservée aux personnes ayant des connaissances particulières et titulaires d’un permis d’emploi.» et une ou des distances de sécurité minimales.
+
+Annexe 3
+
+(art. 22)
+
+## Caractéristiques des amorces électriques
+
+\1. Les amorces électriques exposées à une température de 20° C et branchées à un courant continu de 4 A ne doivent pas se déclencher avant l’écoulement d’un laps de temps de cinq min.
+
+\2. En plus, les amorces à pont électriques:
+
+2.1. ne doivent pas se déclencher lors d’un apport d’énergie atteignant 600 mWs (décharge d’un condensateur de 270 µF, papier métallisé ou similaire, chargé à 67 V sur l’amorce testée, pourvue de ses fils conducteurs non raccourcis),
+
+2.2. ne doivent pas se déclencher lors d’une impulsion d’allumage de 1100 mWs/Ohm (décharge d’un condensateur de 270 µF, papier métallisé ou similaire, chargé à 190 V sur l’amorce testée, pourvue d’une prérésistance et totalisant ensemble 4,4 Ohm) et,
+
+2.3. doivent être déclenchées par une impulsion d’allumage de 2500 mWs/Ohm (décharge d’un condensateur de 270 µF, papier métallisé ou similaire, chargé à 190 V sur l’amorce testée, pourvue d’une prérésistance et totalisant ensemble 2,0 Ohm).
+
+Annexe 4*[^t-3]*
+
+(art. 45, al. 1 et 47, al. 2)
+
+## Informations à fournir en vue de l’obtention du permis d’acquisition pour matières explosives ou engins pyrotechniques
+
+[^t-3]: Anciennement annexes 4.1 et 4.2. Nouvelle teneur selon le ch. II al. 2 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+Requérant ou société requérante:
+
+- – Nom, prénom ou nom de la société et nom et prénom de son représentant
+- – Lieu d’origine (pour les personnes physiques)
+- – Date de naissance (pour les personnes physiques)
+- – Adresse ou siège (si société)
+- – Numéro de téléphone
+- – Date et signature
+
+Représentant mandaté:
+
+- – Nom, prénom
+- – Lieu d’origine
+- – Date de naissance
+- – Adresse
+- – Autorisation et n° de permis
+
+Description de la matière explosive ou de l’engin pyrotechnique
+
+- – Type/modèle
+- – Quantité
+- – Masse explosive nette (seulement pour les engins pyrotechniques)
+- – Catégorie (seulement pour les engins pyrotechniques)
+
+Point de vente
+
+Utilisation
+
+- – Lieu de conservation avant utilisation
+- – But
+- – Lieu
+- – Date et heure (seulement pour les engins pyrotechniques)
+
+Annexe 5
+
+(art. 71, al. 1, 74, al. 1 et 5, 77, al. 2)
+
+## Distances minimales des voies de communication, des bâtiments d’habitation et d’autres constructions à protéger et hauteur du remblai de protection
+
+<table>
+<tr><td>Quantité d’explosif en kg et par entrepôt au magasin</td><td colspan="3">Distances (E) en m par rapport à</td></tr>
+<tr><td></td><td>A</td><td>B</td><td>C</td></tr>
+<tr><td></td><td colspan="3">Formule mathématique</td></tr>
+<tr><td>Quantité (M)</td><td>E = 7·M<sup>(1/3)</sup></td><td>E = 18·M<sup>(1/3)</sup></td><td>E = 35·M<sup>(1/3)</sup></td></tr>
+<tr><td>100</td><td>30</td><td>85</td><td>160</td></tr>
+<tr><td>200</td><td>40</td><td>105</td><td>205</td></tr>
+<tr><td>500</td><td>55</td><td>145</td><td>280</td></tr>
+<tr><td>1 000</td><td>70</td><td>180</td><td>350</td></tr>
+<tr><td>2 000</td><td>90</td><td>225</td><td>440</td></tr>
+<tr><td>5 000</td><td>120</td><td>305</td><td>600</td></tr>
+<tr><td>10 000</td><td>150</td><td>390</td><td>755</td></tr>
+<tr><td>20 000</td><td>190</td><td>490</td><td>950</td></tr>
+<tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td colspan="4">Les chiffres figurant dans le tableau ci-dessus sont arrondis à cinq mètres près.</td></tr>
+</table>
+
+Légende:
+
+A = Voies de communication publiques
+
+B = Bâtiments habités ou dans lesquels se tiennent des personnes, ainsi qu’installations d’intérêt public
+
+C = Immeubles à coefficient élevé d’occupation, comme p. ex. hôpitaux, homes, écoles, ainsi qu’édifices d’importance historique ou culturelle
+
+P = Point fixe 4,5 m au-dessus de la voie de communication
+
+S = Entrepôt ou magasin de matières explosives
+
+h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image1.png)
+
+Annexe 6
+
+(art. 74, al. 2 et 5, 76, al. 4)
+
+## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image2.png)
+
+<table>
+<tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
+<tr><td></td><td>2 changements de direction</td><td>3 changements de direction</td><td>R en m</td></tr>
+<tr><td></td><td colspan="3">Formule mathématique</td></tr>
+<tr><td>Quantité (M)</td><td>L = 3·M<sup>(1/2)</sup></td><td>L = 2·M<sup>(1/2)</sup></td><td>E = 2,3·M<sup>(1/3)</sup></td></tr>
+<tr><td>500</td><td>65</td><td>45</td><td>20</td></tr>
+<tr><td>1 000</td><td>95</td><td>65</td><td>25</td></tr>
+<tr><td>2 500</td><td>150</td><td>100</td><td>30</td></tr>
+<tr><td>5 000</td><td>210</td><td>140</td><td>40</td></tr>
+<tr><td>7 500</td><td>260</td><td>175</td><td>45</td></tr>
+<tr><td>10 000</td><td>300</td><td>200</td><td>50</td></tr>
+<tr><td>15 000</td><td>365</td><td>245</td><td>55</td></tr>
+<tr><td>20 000</td><td>425</td><td>285</td><td>60</td></tr>
+<tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td colspan="4">Les chiffres figurant dans le tableau ci-dessus sont arrondis à cinq mètres près.</td></tr>
+</table>
+
+Annexe 7
+
+(art. 74, al. 4)
+
+## Distances minimales entre les entrepôts ou magasins
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image3.png)
+
+rK=0,7·L<sup>(1/3)</sup>
+
+Annexe 8.1*[^t-4]*
+
+(art. 75, al. 4)
+
+## Entrepôts ou magasins en béton armé
+
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image4.png)
+
+- Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
+- Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
+- Armature: B500B (norme SIA 262) diamètre minimum 10 mm
+
+Largeur de maille max. 10 cm (filet également)
+
+Annexe 8.2
+
+(art. 75, al. 2)
+
+## Canaux de ventilation dans la paroi extérieure
+
+Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
+
+Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image5.png)
+
+Annexe 9.1
+
+(art. 75, al. 1, 76, al. 2)
+
+## Entrepôt ou magasin à ciel ouvert
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image6.png)
+
+Annexe 9.2
+
+(art. 77, al. 2 et 3)
+
+## Entrepôt ou magasin à ciel ouvert
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image7.png)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image8.png)
+
+Annexe 10.1*[^t-5]*
+
+(art. 83, al. 1)
+
+## Armoire à explosifs
+
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image9.png)
+
+A = moyens d’allumage
+
+B = explosifs
+
+- Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
+- Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
+- Armature: B500B (norme SIA 262) diamètre minimum 10 mm
+
+Largeur de maille max. 10 cm (filet également)
+
+À ciel ouvert, recouverte de terre ou placée dans une niche de rocher
+
+Annexe 10.2*[^t-6]*
+
+(art. 83, al. 2)
+
+## Armoire à explosifs
+
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+<table>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+</table>
+
+- Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
+- Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
+- Armature: B500B (norme SIA 262) diamètre minimum 10 mm
+
+Largeur de maille max. 10 cm (filet également)
+
+Annexe 11.1
+
+(art. 84, al. 1)
+
+## Récipient à matières explosives
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image12.png)
+
+Légende:
+
+A = Compartiment pour moyens d’allumage (garni d’une matière tendre)
+
+B = Compartiment pour explosifs
+
+C = Serrure de sécurité
+
+Annexe 11.2
+
+(art. 84, al. 1, 91, al. 2)
+
+## Récipient mobile
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image13.png)
+
+Légende:
+
+A = Détonateurs ou amorces
+
+B = Pince à sertir
+
+C = Bande isolante
+
+D = Mèches d’allumage de sûreté
+
+E = Fermeture
+
+F = Bandoulière
+
+G = Explosifs
+
+Annexe 12.1 à 13*[^t-7]*
+
+[^t-7]: Abrogées par le ch. II al. 2 de l’O du 25 nov. 2015, avec effet au 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+Annexe 14*[^t-8]*
+
+(art. 8, al. 1, let. a<sup>bis</sup>, 20, al. 3, 21, al. 1, 23, al. 4, et 110, al. 2, let. c, et 2<sup>bis</sup>)
+
+## Conditions relatives à l’identification et à la traçabilité des matières explosives à usage civil
+
+[^t-8]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 1 de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+
+### 1 Champ d’application
+
+Les dispositions de la présente annexe ne s’appliquent pas:
+
+- a. aux matières explosives transportées et livrées hors conditionnement ou en camion pompe pour déchargement direct dans le trou de mine;
+- b. aux matières explosives qui sont fabriquées sur les sites de minage et chargées directement après avoir été fabriquées (production dans les mélangeurs sur le lieu d’utilisation);
+- c. aux mèches d’allumage ordinaires (non détonantes);
+- d. aux mèches d’allumage de sûreté;
+- e. aux amorces à percussion qui sont constituées d’une capsule de métal ou en plastique contenant une petite quantité d’un mélange explosif primaire aisément mis à feu sous l’effet d’un choc et qui servent d’éléments d’allumage pour les cartouches pour arme de petit calibre et dans les allumeurs à percussion pour les charges propulsives.
+
+### 2 Identification du produit
+
+<sup>1</sup> Les fabricants, les importateurs ou les personnes qui fabriquent ou importent des matières explosives ou encore assemblent des détonateurs apposent une identification unique sur les matières explosives et sur chaque plus petite unité d’emballage.
+
+<sup>2</sup> Lorsqu’une matière explosive fait l’objet d’autres processus de fabrication, les fabricants ne sont pas tenus d’apposer une nouvelle identification unique sur celle-ci, à moins que l’identification unique originale n’apparaisse plus conformément au ch. 3.
+
+<sup>3</sup> L’al. 1 ne s’applique pas lorsque la matière explosive est fabriquée à des fins d’exportation et qu’elle comporte une marque d’identification conforme aux exigences du pays d’importation, assurant la traçabilité de la matière explosive.
+
+<sup>4</sup> L’identification unique comporte:
+
+- a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCEP), le code produit unique et les informations logistiques conçues par le fabricant;
+- b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image14.png)
+
+<sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCEP), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
+
+<sup>6</sup> Pour les articles dont la taille, la forme et la conception ne permettent pas d’apposer les données d’identification unique visées à l’al. 5, ladite identification est fixée sur la plus petite unité d’emballage.
+
+<sup>7</sup> Chaque plus petite unité d’emballage est fermée au moyen d’un sceau.
+
+<sup>8</sup> Chaque détonateur ou charge relais faisant l’objet de l’exemption prévue à l’al. 6 est marqué durablement, de manière à garantir une bonne lisibilité des lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et des trois chiffres identifiant le nom du site de production (attribué par l’OCEP). Le nombre de détonateurs et de booster contenus est imprimé sur la plus petite unité d’emballage.
+
+<sup>9</sup> Chaque cordeau détonant faisant l’objet de l’exemption prévue l’al. 6 est pourvu de la marque d’identification unique sur le dévidoir ou la bobine et, le cas échéant, sur la plus petite unité d’emballage.
+
+<sup>10</sup> Les distributeurs qui reconditionnent des matières explosives doivent s’assurer que l’identification unique est fixée à la matière explosive et à la plus petite unité d’emballage.
+
+<sup>11</sup> Lorsque le site de production est situé en dehors de la Suisse ou de l’Espace économique européen (EEE), le producteur établi en Suisse ou dans l’EEE contacte l’OCEP ou une autorité nationale de l’État membre de l’EEE d’importation pour faire attribuer un code au site de production.
+
+<sup>12</sup> Lorsque le site de production est situé en dehors de la Suisse ou de l’EEE et que le producteur n’est pas établi en Suisse ou dans l’EEE, l’importateur des explosifs concernés contacte l’OCEP ou une autorité nationale de l’État membre de l’EEE d’importation pour faire attribuer un code au site de production.
+
+### 3 Identification et fixation
+
+La marque d’identification unique est inscrite ou fixée fermement et durablement sur l’article concerné, de manière à être bien lisible.
+
+### 4 Explosifs encartouchés et explosifs en vrac
+
+<sup>1</sup> Dans le cas des explosifs encartouchés et des explosifs en vrac, l’identification unique se compose d’une étiquette adhésive ou d’une impression directe sur chaque cartouche ou emballage. Une étiquette connexe figure sur chaque conteneur de cartouches.
+
+<sup>2</sup> Les entreprises peuvent utiliser un badge électronique inerte passif fixé à chaque cartouche ou emballage et, de la même manière, un dispositif électronique connexe pour chaque conteneur de cartouche.
+
+### 5 Explosifs binaires
+
+Dans le cas des explosifs binaires emballés, l’identification unique se compose d’une étiquette adhésive ou d’une impression directe sur chaque plus petite unité d’emballage contenant les composantes binaires.
+
+### 6 Détonateurs
+
+<sup>1</sup> Dans le cas de détonateurs, l’identification unique se compose d’une étiquette adhésive ou d’une impression ou marque apposée directement sur le revêtement extérieur du détonateur. Une étiquette connexe est apposée sur chaque conteneur de détonateurs.
+
+<sup>2</sup> Les entreprises peuvent utiliser un badge électronique inerte passif apposé à chaque détonateur et un badge connexe pour chaque conteneur de détonateurs.
+
+### 7 Amorces électriques, non électriques et électroniques
+
+<sup>1</sup> Dans le cas des amorces électriques, non électriques et électroniques, l’identification unique se compose d’une étiquette adhésive apposée aux câbles ou aux tubes, ou encore d’une étiquette adhésive ou d’une impression ou marque apposée directement sur le revêtement extérieur de l’amorce. Une étiquette connexe figure sur chaque conteneur d’amorces.
+
+<sup>2</sup> En outre, les entreprises peuvent utiliser un badge électronique inerte passif fixé à chaque amorce et un badge connexe pour chaque conteneur d’amorces.
+
+### 8 Primer et booster
+
+<sup>1</sup> Dans le cas des primer et booster autres que ceux visés au ch. 1, let. e, l’identification unique se compose d’une étiquette adhésive ou d’une impression directe sur les primer et booster. Une étiquette connexe est apposée sur chaque conteneur de ces primer et booster.
+
+<sup>2</sup> En outre, les entreprises peuvent utiliser un badge électronique inerte passif fixé sur chaque primer et booster au sens de l’al. 1 et un badge connexe pour chaque conteneur de ces primer et booster.
+
+### 9 Cordeaux détonants
+
+<sup>1</sup> Dans le cas des cordeaux détonants, l’identification unique se compose d’une étiquette adhésive ou impression directe sur la bobine. Elle est apposée tous les cinq mètres sur l’enveloppe extérieure du cordeau ou sur la couche intérieure de plastique rainuré située juste sous la fibre extérieure du cordeau. Une étiquette connexe est apposée sur chaque conteneur de cordeaux détonants.
+
+<sup>2</sup> En outre, les entreprises peuvent utiliser un badge électronique inerte passif inséré dans le cordeau et un badge connexe pour chaque conteneur de cordeaux.
+
+### 10 Récipients contenant des matières explosives
+
+<sup>1</sup> Dans le cas de récipients pour matières explosives, l’identification unique se compose d’une étiquette adhésive ou d’une impression directe apposée sur le récipient.
+
+<sup>2</sup> Les entreprises peuvent utiliser un badge électronique inerte passif fixé sur chaque récipient.
+
+### 11 Copies de l’étiquette originale
+
+Les entreprises peuvent joindre des copies adhésives détachables de l’étiquette originale aux matières explosives destinées à être utilisées par leurs clients. Ces copies portent une marque visible les identifiant comme copies de l’original afin d’empêcher les usages abusifs.
+
+### 12 Collecte de données
+
+<sup>1</sup> Les entreprises spécialisées dans le domaine des matières explosives mettent en place un système de collecte de données relatif aux matières explosives, y compris leur identification unique tout au long de la chaîne logistique et leur durée de vie.
+
+<sup>2</sup> Le système de collecte des données permet aux entreprises de conserver des renseignements relatifs aux matières explosives, de manière que l’entreprise détentrice ou le particulier détenteur de ces matières puisse être identifié à tout moment.
+
+<sup>3</sup> Les données collectées, y compris le numéro d’identification unique, sont enregistrées et conservées pendant 10 ans à compter de la livraison ou de la dernière date, pour autant qu’elle soit connue, après la fin de la durée de vie de la matière explosive, même si l’entreprise concernée à mis un terme à ses activités.
+
+### 13 Fichier
+
+<sup>1</sup> Les entreprises spécialisées dans le domaine des matières explosives tiennent un fichier contenant l’ensemble des numéros d’identification des matières explosives, de même que toute information pertinente, y compris le type de matière explosive, le nom de l’entreprise détentrice ou du particulier détenteur.
+
+<sup>2</sup> Elles répertorient le lieu où est entreposée chaque matière explosive lorsqu’elle est en leur possession ou lorsqu’elles en ont la charge, et ce jusqu’à son déplacement en vue de son transfert de possession ou de charge.
+
+<sup>3</sup> Elles soumettent régulièrement leur système de collecte des données à des contrôles afin de s’assurer de son efficacité et de la qualité des données enregistrées.
+
+<sup>4</sup> Elles enregistrent et conservent les données collectées, y compris les numéros d’identification unique pour la période visée au ch. 12, al. 3.
+
+<sup>5</sup> Elles protègent les données collectées contre tout dommage ou destruction accidentelle ou délibérée.
+
+<sup>6</sup> Elles fournissent aux autorités compétentes, à la demande, les informations concernant le lieu d’origine et le lieu où est entreposée chaque matière explosive pendant sa durée de vie et tout au long de la chaîne logistique.
+
+<sup>7</sup> Elles fournissent aux autorités fédérales responsables les coordonnées d’une personne susceptible de fournir des données visée à l’al. 6 en dehors des heures d’ouverture normales des entreprises.
+
+Annexe 15*[^t-9]*
+
+(art. 1*a*, al. 2)
+
+## Équivalences terminologiques
+
+[^t-9]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 3 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+Pour interpréter correctement les directives 2014/28/UE[^annex15-lvlu1-1], 2013/29/UE[^annex15-lvlu1-2] et 2008/43/CE[^annex15-lvlu1-3], auxquelles renvoie la présente ordonnance, on appliquera les équivalences terminologiques suivantes:
+
+### 1 Termes allemands
+
+[^annex15-lvlu1-1]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^annex15-lvlu1-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^annex15-lvlu1-3]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+
+<table>
+<tr><td>UE</td><td>Suisse</td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
+<tr><td>In der Union ansässige Person</td><td>In der Schweiz niedergelassene Person</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>EU-Baumusterprüfung</td><td>Baumusterprüfung</td></tr>
+<tr><td>EU-Baumusterprüfbescheinigung</td><td>Baumusterprüfbescheinigung</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Bühne und Theater</td><td>Bühnen</td></tr>
+<tr><td>Zündschnüre</td><td>Sicherheitsanzündschnüre</td></tr>
+<tr><td>einfache Sprengzünder</td><td>Sprengkapseln</td></tr>
+<tr><td>elektrische, nicht elektrische, elektronische Zünder</td><td>elektrische, nicht elektrische, elektronische Sprengzünder</td></tr>
+<tr><td>Treibladungszünder und Booster</td><td>Primer und Booster</td></tr>
+<tr><td>In-situ-Produktion</td><td>Herstellung in Mischladegeräten auf der Verwendungsstelle</td></tr>
+</table>
+
+### 2 Termes français
+
+<table>
+<tr><td>UE</td><td>Suisse</td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td>personne établie dans l’Union</td><td>personne établie en Suisse</td></tr>
+<tr><td>état membre</td><td>Suisse</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
+<tr><td>article pyrotechnique</td><td>engin pyrotechnique</td></tr>
+<tr><td>examen UE de type</td><td>examen de type</td></tr>
+<tr><td>attestation d’examen UE de type</td><td>attestation d’examen de type</td></tr>
+<tr><td>artifices de divertissement</td><td>pièces d’artifice</td></tr>
+<tr><td>théâtre et scène</td><td>théâtre</td></tr>
+<tr><td>caisse</td><td>conteneur</td></tr>
+<tr><td>mèches lentes</td><td>mèches d’allumage de sûreté</td></tr>
+<tr><td>détonateurs électriques, non électriques, électroniques</td><td>amorces électriques, non électriques, électroniques</td></tr>
+<tr><td>boîtiers et tambours</td><td>récipients</td></tr>
+<tr><td>cartouches amorces et charges relais</td><td>primer et booster</td></tr>
+<tr><td>production sur site</td><td>production dans des mélangeurs sur le lieu d’utilisation</td></tr>
+<tr><td>producteur</td><td>fabricant</td></tr>
+</table>
+
+### 3 Termes italiens
+
+<table>
+<tr><th>UE</th><th>Suisse</th></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+<tr><td>mercato dell’Unione</td><td>mercato svizzero</td></tr>
+<tr><td>persona stabilita nell’Unione</td><td>persona domiciliata in Svizzera</td></tr>
+<tr><td>Stato membro</td><td>Svizzera</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
+<tr><td>dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
+<tr><td>articolo pirotecnico</td><td>pezzo pirotecnico</td></tr>
+<tr><td>esame UE del tipo</td><td>esame del tipo</td></tr>
+<tr><td>certificato di esame UE del tipo</td><td>attestato di esame del tipo</td></tr>
+<tr><td>teatrali e per uso scenico</td><td>per uso scenico</td></tr>
+<tr><td>confezione elementare</td><td>unità elementare d’imballaggio</td></tr>
+<tr><td>bidoni e fusti</td><td>contenitori</td></tr>
+<tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
+</table>
+
+Annexe 16*[^t-10]*
+
+(art. 119*a*, al. 5)
+
+## Homologation
+
+[^t-10]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### 1 Homologation
+
+<sup>1</sup> L’OCEP peut renoncer à la procédure d’homologation si la sécurité est garantie par d’autres mesures.
+
+<sup>2</sup> N’ont pas besoin d’être homologués les engins pyrotechniques qui entrent dans la fabrication de produits soumis à l’obligation d’un contrôle officiel.
+
+### 2 Exigences techniques
+
+Les engins pyrotechniques sont homologués:
+
+- a. si, de par leur composition et leur nature, ils sont conformes à l’état de la technique;
+- b. si leur maniement ne présente aucun risque pour les personnes et les biens lorsqu’ils sont utilisés conformément à leur destination, et
+- c. s’ils ne produisent pas d’éclats dangereux ni ne contiennent des éléments pouvant s’enflammer spontanément.
+
+### 3 Émolument
+
+Un émolument de 50 à 3000 francs est perçu pour l’homologation.
+
+Annexe 17*[^t-11]*
+
+(art. 117*e*)
+
+## Droits d’accès à BARBARA
+
+[^t-11]: Introduite par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+A = consulter
+
+B = traiter
+
+vide = pas d’accès
+
+### État-major fedpol
+
+<table>
+<tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
+<tr><td>Conseiller à la protection des données</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+</table>
+
+### Services fedpol
+
+<table>
+<tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
+<tr><td>Office central pour les explosifs et la pyrotechnie</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+</table>
+
+### Fournisseur de prestations informatiques fedpol
+
+<table>
+<tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
+<tr><td>Chef de projet et administrateur système</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+</table>
+
+### Police judiciaire fédérale
+
+<table>
+<tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
+<tr><td>Division Enquêtes Terrorisme</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Division Enquêtes Engagements spéciaux</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Division Enquêtes Protection de l’État</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+</table>
+
+### Services cantonaux compétents
+
+<table>
+<tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
+<tr><td>Bureaux des explosifs</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+</table>

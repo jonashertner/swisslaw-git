@@ -1,0 +1,1902 @@
+---
+sr: "784.101.1"
+title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
+short: OST
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
+language: it
+version: 2021-01-01
+adopted: 2007-03-09
+in_force: 2007-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sui servizi di telecomunicazione
+
+(OST)
+
+del 9 marzo 2007 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+vista la legge del 30 aprile 1997[^ingress-1] sulle telecomunicazioni (LTC),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Capitolo 1: Definizioni
+
+#### Art. 1
+
+Nella presente ordinanza, s’intende per:
+
+- a. *utente*: chi utilizza i servizi di un fornitore di servizi di telecomunicazione;
+- b. *cliente*: chi ha concluso con un fornitore di servizi di telecomunicazione un contratto sulla fruizione di tali servizi;
+- c.[^1-1] *...*
+- d.[^1-2] *prezzo di accesso:* il prezzo per l’accesso a servizi e dispositivi di fornitori che detengono una posizione dominante sul mercato secondo l’articolo 11 capoverso 1 LTC.
+
+[^1-1]: Abrogata dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^1-2]: Introdotta dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+## Capitolo 2: Disposizioni comuni sui servizi di telecomunicazione
+
+#### Art. 2
+
+**Portata dei servizi di telecomunicazione**
+
+Non fornisce servizi di telecomunicazione chi trasmette informazioni:
+
+- a. all’interno di un edificio;
+- b. nei limiti di un immobile, di due immobili contigui oppure di due immobili dirimpettai separati da una strada, un vicolo, una linea ferroviaria o un corso d’acqua;
+- c. all’interno di una stessa azienda, tra società madre e filiali o all’interno di un gruppo;
+- d. all’interno delle corporazioni di diritto pubblico e tra di esse;
+- e.[^2-1] nell’ambito della trasmissione gratuita di informazioni all’interno di gruppi senza organizzazione centralizzata.
+
+[^2-1]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 3
+
+**Registrazione**[^3-1]
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione trasmettono all’Ufficio federale delle comunicazioni (UFCOM) i dati necessari alla registrazione e gli comunicano immediatamente qualsiasi modifica in merito.
+
+<sup>2</sup> I fornitori di servizi di telecomunicazione registrati che intendono consentire a fornitori registrati o non ancora registrati di utilizzare risorse di cui all’articolo 4 capoverso 1 LTC devono comunicarlo all’UFCOM.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 4
+
+**Indirizzo postale in Svizzera**[^4-1]
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione registrati devono indicare, menzionando il numero unico d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^4-2] sul numero d’identificazione delle imprese, un indirizzo postale in Svizzera al quale sia possibile recapitare in modo giuridicamente valido in particolare comunicazioni, citazioni e decisioni.
+
+<sup>2</sup> L’UFCOM pubblica l’indirizzo postale. Può renderlo accessibile mediante una procedura di richiamo.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+
+#### Art. 5
+
+**Invio di dati nell’ambito dell’assistenza amministrativa**[^5-1]
+
+Il Servizio Sorveglianza della corrispondenza postale e del traffico delle comunicazioni mette gratuitamente a disposizione dell’UFCOM i dati in suo possesso concernenti i fornitori di servizi di telecomunicazione che possono essere importanti per l’esecuzione e la valutazione della legislazione sulle telecomunicazioni.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 6
+
+**Diritto di collegamento di un impianto terminale di telecomunicazione**
+
+<sup>1</sup> Il fornitore di servizi di telecomunicazione non può rifiutare per motivi tecnici il collegamento di impianti terminali di telecomunicazione alle relative interfacce, se tali impianti soddisfano le esigenze di cui all’articolo 7 dell’ordinanza del 25 novembre 2015[^6-1] sugli impianti di telecomunicazione [^6-2] (OIT).
+
+<sup>2</sup> L’UFCOM può autorizzare un fornitore di servizi di telecomunicazione a rifiutare o sopprimere il collegamento di un impianto terminale di telecomunicazione che soddisfa le esigenze di cui all’articolo 7 OIT oppure a non fornire più alcun servizio a tale impianto, qualora vi sia il pericolo che quest’ultimo provochi interferenze radiotecniche o danni alla rete o al suo funzionamento. L’UFCOM può inoltre adottare altre misure appropriate.
+
+<sup>3</sup> In caso di emergenza, un fornitore di servizi di telecomunicazione può escludere immediatamente dalla rete un impianto terminale di telecomunicazione, se necessario per proteggere la rete e se all’utente può essere fornita gratuitamente e rapidamente un’alternativa. Il fornitore informa senza indugio l’UFCOM.
+
+[^6-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^6-2]: Nuova espr. giusta l’art. 43 cpv. 1 lett. a dell’O del 25 nov. 2015 sugli impianti di telecomunicazione, in vigore dal 13 giu. 2016 ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
+
+#### Art. 7
+
+**Interfacce dei servizi e delle reti di telecomunicazione**[^7-1]
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione devono pubblicare le specifiche tecniche delle interfacce necessarie per l’accesso fisico alle reti di telecomunicazione.
+
+<sup>2</sup> Su richiesta, devono rendere noti all’UFCOM, ai clienti, ai produttori di impianti di telecomunicazione e di software per l’utilizzazione di servizi di telecomunicazione i tipi di interfaccia che mettono a disposizione per il servizio di accesso a Internet e per i servizi forniti mediante le risorse di cui all’articolo 4 capoverso 1 LTC. Devono comunicare queste informazioni gratuitamente ed entro un termine adeguato.
+
+<sup>3</sup> Le indicazioni di cui ai capoversi 1 e 2 devono essere così dettagliate da permettere la produzione e l’utilizzazione di impianti terminali di telecomunicazione per la fruizione di tutti i servizi proposti tramite l’interfaccia di un determinato fornitore.
+
+<sup>4</sup> I fornitori devono comunicare gratuitamente ai loro clienti, su richiesta, le caratteristiche d’identificazione e i dati d’accesso necessari all’accesso alle reti di telecomunicazione e alla fruizione di servizi di cui ai capoversi 1 e 2.
+
+<sup>5</sup> L’UFCOM emana le necessarie prescrizioni tecniche e amministrative.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 8
+
+**Utilizzazione dello spettro delle radiofrequenze**[^8-1]
+
+L’ordinanza del 18 novembre 2020[^8-2] sull’utilizzazione dello spettro delle radiofrequenze è applicabile a tutti i fornitori che per proporre i propri servizi di telecomunicazione utilizzano lo spettro delle radiofrequenze.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^8-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+#### Art. 9
+
+**Posti di formazione professionale di base[^9-1]**
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione che hanno una sede o una stabile organizzazione in Svizzera sono tenuti a offrire, al più tardi 18 mesi dopo l’ingresso sul mercato, almeno il tre per cento dei posti di lavoro nel settore delle telecomunicazioni in Svizzera sotto forma di posti di formazione professionale di base. I posti a tempo parziale sono calcolati secondo il grado di attività.[^9-2]
+
+<sup>2</sup> I fornitori possono adempiere quest’obbligo anche in collaborazione con terzi attivi nel settore delle telecomunicazioni.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10
+
+**Trasparenza dei prezzi**
+
+<sup>1</sup> Se per una chiamata tra clienti di fornitori di servizi di telecomunicazione mobile diversi vengono fatturate tasse più elevate rispetto alle chiamate a clienti dello stesso fornitore, chi chiama deve esserne informato al momento in cui viene stabilito il collegamento, in modo gratuito, semplice e senza fare uso di pubblicità. Questo vale anche per le chiamate tra gruppi di clienti diversi dello stesso fornitore. I fornitori devono permettere ai loro clienti di rinunciare gratuitamente a ricevere tale informazione.
+
+<sup>1bis</sup> Se per le chiamate verso i numeri di reti di telecomunicazione aziendali vengono fatturate tasse più elevate rispetto alle chiamate verso i numeri con indicativi geografici, chi chiama deve esserne informato al momento in cui viene stabilito il collegamento, in modo gratuito, semplice e senza fare uso di pubblicità. I fornitori devono permettere ai loro clienti di rinunciare gratuitamente a ricevere tale informazione.[^10-1]
+
+<sup>2</sup> Se offre una quota limitata di servizi di telecomunicazione gratuitamente o a prezzo ridotto, il fornitore deve permettere al cliente di informarsi gratuitamente sulle quote già utilizzate oppure ancora disponibili.
+
+<sup>3</sup> I capoversi 1–2 non si applicano alle chiamate ai servizi a valore aggiunto, alle chiamate all’estero e all’utilizzo di reti di telefonia mobile estere (roaming internazionale).[^10-2]
+
+[^10-1]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10a
+
+**Tariffe del roaming internazionale**[^10a-1]
+
+<sup>1</sup> Al momento della conclusione del contratto, i fornitori di servizi di telecomunicazione mobile indicano per scritto e in modo chiaro ai loro clienti come e dove informarsi sulle tariffe praticate per il roaming internazionale, comprese le opzioni tariffarie più vantaggiose.
+
+<sup>2</sup>
+
+Se un loro cliente entra in una rete di telefonia mobile estera, sono tenuti a informarlo senza indugio, gratuitamente e in forma chiara riguardo ai seguenti costi massimi dei servizi di roaming internazionale:
+
+- a. chiamate verso la Svizzera;
+- b. chiamate in entrata;
+- c. chiamate locali;
+- d. invio di SMS;
+- e. trasmissione di dati, compreso l’invio di MMS.
+
+<sup>3</sup> Devono permettere ai loro clienti di disattivare e riattivare facilmente e gratuitamente tale servizio di informazione. Sono tenuti a informarli in merito a questa possibilità al momento della conclusione del contratto e, in seguito, almeno una volta all’anno.
+
+[^10a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). I cpv. 2 e 3 entrano in vigore il 1° lug. 2010.
+
+#### Art. 10b a 10d
+
+[^10b10d-1]
+
+[^10b10d-1]: In vigore il 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10e
+
+**Misurazione della qualità dei servizi di accesso a Internet e informazione al pubblico**[^10e-1]
+
+<sup>1</sup>
+
+I fornitori di servizi di telecomunicazione devono:
+
+- a. misurare autonomamente la qualità dei servizi di accesso a Internet fissi e mobili da loro forniti, per quanto abbiano accesso agli apparecchi utilizzati per la misurazione;
+- b. consentire ai loro clienti di misurare la qualità del proprio accesso a Internet fisso o mobile, per quanto questi ultimi abbiano accesso agli apparecchi utilizzati per la misurazione;
+- c. consolidare i risultati e informare sia i loro clienti che il pubblico sulla qualità dei servizi di accesso a Internet.
+
+<sup>2</sup> ... [^10e-2]
+
+<sup>3</sup> Le informazioni sulla qualità devono consentire confronti tra le offerte dei vari fornitori. Devono essere pubblicate sotto forma di carte geografiche.
+
+<sup>4</sup> L’obbligo di misurazione e pubblicazione vale, per gli accessi fissi a Internet, per tutti i fornitori con almeno 300 000 clienti. Per gli accessi mobili a Internet, vale per tutti i fornitori con almeno 300 000 clienti e una concessione di radiocomunicazione mobile.
+
+<sup>5</sup> Nelle prescrizioni tecniche e amministrative l’UFCOM disciplina come i fornitori devono misurare i criteri di qualità e pubblicare i risultati.
+
+<sup>6</sup> Le informazioni ai sensi del presente articolo devono essere pubblicate su un sito Internet liberamente accessibile. L’UFCOM può prevedere che le pubblicazioni debbano essere effettuate sullo stesso sito Internet.
+
+[^10e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: In vigore il 1° set. 2021 rispettivamente il 1° gen. 2024 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10f
+
+**Internet aperto**[^10f-1]
+
+<sup>1</sup> Ai sensi dell’articolo 12*e* capoverso 2 lettera a LTC, ogni fornitore di accessi a Internet può trasmettere informazioni in modo differenziato se ciò è necessario per rispettare una prescrizione legale o la decisione di un’autorità giudiziaria che lo vincola.
+
+<sup>2</sup> La richiesta del cliente al fornitore ai sensi dell’articolo 12*e* capoverso 2 lettera c LTC non può essere oggetto di un’offerta che il cliente accetta sulla base delle condizioni generali di contratto o sulla base di un’offerta standard.
+
+[^10f-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 11
+
+**Contenuto minimo di un’iscrizione in un elenco**[^11-1]
+
+<sup>1</sup>
+
+L’iscrizione di un cliente in elenchi di servizi di telecomunicazione si compone almeno di:
+
+- a. l’elemento d’indirizzo attraverso il quale il cliente del servizio di telecomunicazione in questione può essere contattato;
+- b. il cognome e il nome oppure la ragione sociale del cliente;
+- c. l’indirizzo completo del cliente;
+- d. eventualmente il simbolo indicante che il cliente non desidera ricevere messaggi pubblicitari da parte di persone con cui non intrattiene una relazione commerciale e che i propri dati non possono essere comunicati ai fini della pubblicità diretta (art. 88 cpv. 1);
+- e. l’indicazione dei prezzi conformemente agli articoli 11*a*<sup>bis</sup> e 13*a* dell’ordinanza dell’11 dicembre 1978[^11-2] sull’indicazione dei prezzi (OIP) se si tratta di un elemento d’indirizzo di un servizio a valore aggiunto a pagamento.
+
+<sup>2</sup> Un cliente può richiedere più iscrizioni ai sensi del capoverso 1 con lo stesso elemento d’indirizzo, a condizione che tutte le persone interessate dalle iscrizioni abbiano dato il proprio consenso.
+
+<sup>3</sup> Se l’iscrizione serve unicamente alla fornitura di un servizio di collegamento, basta indicare i dati di cui al capoverso 1 lettere a–c.
+
+<sup>4</sup> Se un cliente accetta di essere contattato nell’ambito di un servizio di collegamento, il suo fornitore di servizi di telecomunicazione deve informarlo espressamente che i dati di cui al capoverso 1 lettere a–c vengono trasmessi su richiesta a ogni fornitore di tale servizio.
+
+<sup>5</sup> L’UFCOM definisce le designazioni dei campi contenenti i dati e altri dati complementari necessari per formattare e pubblicare gli elenchi.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^11-2]: [RS 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+
+## Capitolo 3: Servizio universale
+
+### Sezione 1: Concessione per il servizio universale
+
+#### Art. 12
+
+**Rilascio della concessione**
+
+<sup>1</sup> La concessione per il servizio universale è rilasciata sulla base di determinati criteri.
+
+<sup>2</sup> Il richiedente di una concessione per il servizio universale deve allegare al suo progetto la pianificazione aziendale per l’intera durata della concessione, le tariffe e gli investimenti previsti.
+
+<sup>3</sup> La concessione per il servizio universale è rilasciata al candidato che soddisfa le condizioni poste e non chiede un’indennità finanziaria. Se più candidati soddisfano le condizioni e non chiedono un’indennità finanziaria, la concessione è rilasciata a quello che meglio soddisfa i criteri applicati per la valutazione qualitativa.
+
+<sup>4</sup> Se tutti i candidati che soddisfano le condizioni poste chiedono un’indennità finanziaria, la concessione è rilasciata al candidato che propone il migliore rapporto tra i risultati della valutazione qualitativa e l’indennità richiesta.
+
+<sup>5</sup>
+
+La Commissione federale delle comunicazioni (ComCom) ricorre a uno o più fornitori di servizi di telecomunicazione per garantire il servizio universale se:
+
+- a. risulta subito chiaro che la pubblica gara non potrà svolgersi in condizioni concorrenziali;
+- b. non è stata inoltrata alcuna candidatura alla pubblica gara;
+- c. la pubblica gara si è svolta in condizioni non concorrenziali, in particolare se è pervenuta una sola candidatura;
+- d. alla conclusione della pubblica gara, nessun candidato soddisfa le condizioni poste.
+
+<sup>6</sup> Il concessionario designato in virtù del capoverso 5 può far valere il suo diritto a un’indennità finanziaria.
+
+<sup>7</sup> La nuova concessione per il servizio universale è rilasciata al più tardi sei mesi prima dello scadere della concessione in vigore.
+
+#### Art. 13
+
+**Indennità finanziaria**
+
+<sup>1</sup> L’indennità finanziaria serve esclusivamente a coprire i costi non coperti del servizio universale.
+
+<sup>2</sup> I costi non coperti corrispondono al costo totale netto del servizio universale. Il costo totale netto equivale alla differenza tra le spese sostenute dall’azienda che fornisce il servizio universale e quelle che dovrebbe sostenere se non lo fornisse.
+
+#### Art. 14
+
+**Calcolo del costo totale netto**
+
+<sup>1</sup>
+
+Il costo netto del servizio universale corrisponde alle spese sostenute da un fornitore efficace per garantire le prestazioni del servizio universale. Il calcolo del costo netto, effettuato separatamente per ogni singola prestazione, rispetta i seguenti principi:
+
+- a. il calcolo si fonda su basi attuali;
+- b. i costi della rete sono calcolati in base ai dati contabili;
+- c. il reddito del capitale utilizzato per gli investimenti è il reddito abituale nel settore, che deve essere calcolato in funzione del rischio intrinseco alla fornitura del servizio universale;
+- d. il metodo d’ammortamento tiene conto della durata di vita degli investimenti, che deve corrispondere alla loro durata di vita economica;
+- e. i proventi diretti e indiretti sono dedotti dai costi.
+
+<sup>2</sup> Il costo totale netto del servizio universale corrisponde alla somma dei costi netti calcolati separatamente per ogni prestazione, dedotti i benefici immateriali.
+
+<sup>3</sup> I dati utilizzati per il calcolo devono avere un fondamento, ossia essere trasparenti e provenire da fonti sicure. A tale scopo, vanno applicate le Raccomandazioni per la prestazione dei conti (RPC), la Norma contabile internazionale (*International* *Accounting* *Standards*, IAS) o le prescrizioni analoghe riconosciute sul piano internazionale nel settore contabile.
+
+### Sezione 2: Obblighi del concessionario del servizio universale
+
+#### Art. 15
+
+**Prestazioni del servizio universale**
+
+<sup>1</sup>
+
+Il servizio universale comprende le seguenti prestazioni:
+
+- a. il servizio telefonico pubblico che permette di effettuare e ricevere, in tempo reale, chiamate telefoniche nazionali e internazionali utilizzando un solo numero[^15-1];
+- b. il servizio telefonico pubblico che permette di effettuare e ricevere, in tempo reale, chiamate telefoniche nazionali e internazionali utilizzando tre numeri telefonici;
+- c. un’iscrizione nell’elenco del servizio telefonico pubblico in caso di utilizzo di uno dei servizi di cui alla lettera a o b; le economie domestiche hanno diritto a due iscrizioni;
+- d.[^15-2] il servizio di accesso a Internet che garantisca una velocità di trasmissione di 10/1 Mbit/s;
+- e.
+
+  i seguenti servizi per audiolesi:
+
+  - 1\. la messa a disposizione, 24 ore su 24, di un servizio di trascrizione, che tratta anche le chiamate d’emergenza, e di un servizio di intermediazione di messaggi brevi (SMS),
+  - 2\. la messa a disposizione di un servizio di intermediazione tramite videotelefonia, attivo da lunedì a venerdì dalle 8 alle 21 e dalle 10 alle 17 il sabato, la domenica e nei giorni riconosciuti come festivi dal diritto federale;
+
+- f.[^15-3] il servizio di elenco e di commutazione per ipovedenti e persone con difficoltà motorie: accesso, sotto forma di servizio informazioni nelle tre lingue ufficiali, ai dati elenco dei clienti di tutti i fornitori del servizio telefonico pubblico in Svizzera e messa a disposizione di un servizio di commutazione, 24 ore su 24; se il concessionario del servizio universale offre un servizio di collegamento, il servizio di commutazione permette inoltre di stabilire la comunicazione con i clienti non iscritti nell’elenco ma disponibili a essere raggiunti nell’ambito di un servizio di collegamento secondo l’articolo 11 capoverso 4.[^15-4]
+
+<sup>2</sup> Il concessionario del servizio universale è tenuto a fornire queste prestazioni durante tutta la durata della concessione.
+
+<sup>3</sup> L’UFCOM determina i dati tecnici applicabili alle prestazioni del servizio universale. Essi si fondano sulle norme internazionali armonizzate.
+
+[^15-1]: Nuova espr. giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15-2]: Nuovo testo giusta il n. I dell’O del 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3487](https://fedlex.data.admin.ch/eli/oc/2019/636)).
+[^15-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-4]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 16
+
+**Collegamento**[^16-1]
+
+<sup>1</sup> Le prestazioni di cui all’articolo 15 capoverso 1 devono essere fornite mediante un collegamento fino al punto terminale di rete all’interno dei locali abitativi o commerciali del cliente.
+
+<sup>2</sup>
+
+Se, per motivi tecnici o economici, il collegamento non permette di fornire il servizio di cui all’articolo 15 capoverso 1 lettera d, il concessionario del servizio universale può eccezionalmente:
+
+- a ridurre la portata della prestazione; o
+- b. rinunciare a fornire il servizio se il mercato offre un’alternativa a condizioni paragonabili.
+
+<sup>3</sup>
+
+Il concessionario del servizio universale è tenuto a presentare ogni anno all’UFCOM un rapporto sui casi eccezionali di cui al capoverso 2 e in particolare sui seguenti dati:
+
+- a. il numero annuo di casi in cui sono state ridotte le prestazioni e si è rinunciato a fornire il servizio;
+- b. il motivo che ha condotto alla riduzione delle prestazioni o alla rinuncia a fornire il servizio;
+- c. il luogo toccato dalla riduzione delle prestazioni o dalla rinuncia a fornire il servizio;
+- d. la portata della riduzione delle prestazioni.
+
+<sup>4</sup> L’UFCOM può pubblicare in forma anonima i dati di cui al capoverso 3.
+
+<sup>5</sup> L’UFCOM determina i dati tecnici applicabili al punto terminale di rete. Essi si fondano sulle norme internazionali armonizzate.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 17
+
+**Punto d’entrata nell’edificio**
+
+<sup>1</sup> Il concessionario del servizio universale deve mettere a disposizione gli impianti di telecomunicazione necessari a fornire le relative prestazioni fino al punto d’entrata nell’edificio. Non è tenuto a fornire gli impianti domestici.
+
+<sup>2</sup> Se il concessionario del servizio universale introduce una nuova tecnologia che richiede l’adattamento degli impianti domestici, assume i costi di tale adattamento.
+
+<sup>3</sup> Se gli impianti sono messi a disposizione per la prima volta, il proprietario può scegliere dove situare il punto d’entrata nell’edificio.
+
+<sup>4</sup> Se gli impianti sono già a disposizione, il concessionario non può esigere il cambiamento del punto d’entrata nell’edificio.
+
+<sup>5</sup> L’UFCOM può emanare prescrizioni tecniche relative al punto d’entrata nell’edificio.
+
+#### Art. 18
+
+**Collegamenti al di fuori dei centri abitati**[^18-1]
+
+<sup>1</sup> Se chiede che in un luogo servito da una tecnica di telecomunicazione situato al di fuori del centro abitato venga utilizzata una tecnica di collegamento diversa da quella offerta dal concessionario del servizio universale, il cliente deve assumersi la parte dei costi che eccede il costo per l’allestimento di un collegamento secondo l’articolo 16.
+
+<sup>2</sup> Se l’allestimento di un collegamento secondo l’articolo 16 in un luogo non servito da una tecnica di telecomunicazione situato al di fuori del centro abitato genera costi superiori a 20 000 franchi, il cliente può essere obbligato ad assumere la parte dei costi che eccede i 20 000 franchi.
+
+<sup>3</sup> Se l’allestimento di un collegamento al di fuori dei centri abitati genera costi superiori a 20 000 franchi, il concessionario del servizio universale può prescrivere una durata minima del contratto. Essa non può superare la durata della concessione per il servizio universale.
+
+<sup>4</sup> In caso di partecipazione finanziaria del cliente la portata della prestazione non può essere ridotta in virtù dell’articolo 16 capoverso 2 lettera a.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 19 e 20
+
+[^1920-1]
+
+[^1920-1]: Abrogati dal n. I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 21
+
+**Criteri qualitativi**
+
+<sup>1</sup>
+
+Il concessionario del servizio universale valuta la qualità delle prestazioni del servizio universale in base ai seguenti criteri e ne rende conto all’UFCOM in un rapporto annuale:
+
+- a.
+
+  per i collegamenti:
+
+  - 1\. il termine per la messa in servizio di un collegamento,
+  - 2\. la frequenza annuale, per collegamento, dei tentativi infruttuosi,
+  - 3\. la durata delle riparazioni;
+
+- b.
+
+  per il servizio telefonico pubblico:
+
+  - 1\. la disponibilità del servizio,
+  - 2\. il tempo necessario a stabilire la comunicazione,
+  - 3\. la qualità della trasmissione vocale,
+  - 4\. la frequenza dei tentativi infruttuosi di stabilire la comunicazione causati dal sovraccarico o da errori della rete,
+  - 5\. l’esattezza della fatturazione;
+
+- c.
+
+  per l’accesso a Internet:
+
+  - 1\. la disponibilità del servizio,
+  - 2\. la qualità della trasmissione dei dati;
+  - d. tempi di reazione dei servizi destinati ai disabili.[^21-1]
+
+<sup>2</sup> L’UFCOM disciplina i dettagli tecnici e stabilisce i valori di riferimento per i criteri qualitativi. Esso tiene conto dell’evoluzione della qualità e dei progressi tecnologici.
+
+<sup>3</sup> Il concessionario del servizio universale è tenuto a garantire all’UFCOM l’accesso agli impianti affinché esso possa controllare che i valori di riferimento per i criteri qualitativi siano stati effettivamente raggiunti.[^21-2]
+
+<sup>4</sup> Per controllare che i criteri qualitativi abbiano raggiunto i valori di riferimento, l’UFCOM può avvalersi della collaborazione di un perito indipendente. I risultati di questa perizia possono essere resi pubblici.[^21-3]
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 22
+
+**Limiti massimi di prezzo**[^22-1]
+
+<sup>1</sup>
+
+Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
+
+- a. servizio telefonico pubblico con un solo numero (art. 15 cpv. 1 lett. a) e una o due iscrizioni nell’elenco (art. 15 cpv. 1 lett. c), inclusi il collegamento (art. 16): 23,45 franchi al mese;
+- b. servizio di accesso a Internet (art. 15 cpv. 1 lett. d), incluso il collegamento (art. 16): 45 franchi al mese;
+- c. servizio telefonico pubblico con un solo numero (art. 15 cpv. 1 lett. a), una o due iscrizioni nell’elenco (art. 15 cpv. 1 lett. c) e un servizio di accesso a Internet (art. 15 cpv. 1 lett. d), inclusi il collegamento (art. 16): 55 franchi al mese;
+- d. servizio telefonico pubblico con tre numeri telefonici (art. 15 cpv. 1 lett. b): 16,55 franchi al mese oltre all’importo previsto alla lettera a o c;
+- e. fornitura delle prestazioni di cui alle lettere a–d: una tassa unica di 40 franchi al momento della stipula del contratto o se il cliente chiede di passare a un’altra delle prestazioni summenzionate;
+- f. comunicazioni nazionali stabilite nel quadro del servizio telefonico pubblico (art. 15 cpv. 1 lett. a e b) verso collegamenti fissi, fatturate al secondo e arrotondate ai successivi 10 centesimi: 7,5 centesimi al minuto;
+- g. utilizzazione del servizio di trascrizione (art. 15 cpv. 1 lett. e n.1), fatturato al secondo e arrotondato ai successivi 10 centesimi: 3,4 centesimi al minuto.
+
+<sup>2</sup> I limiti massimi di prezzo vigono anche per le prestazioni che sono fornite mediante i collegamenti di cui all’articolo 18.
+
+<sup>3</sup> Il concessionario del servizio universale notifica all’UFCOM tutti i cambiamenti delle sue tariffe almeno 30 giorni prima della loro introduzione.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 23
+
+**Fatture non pagate e cauzione**
+
+<sup>1</sup> Se il cliente non paga entro il termine stabilito la fattura emessa per prestazioni del servizio universale, il concessionario è tenuto a inviargli un richiamo indicando le misure cui il cliente si espone.
+
+<sup>2</sup> In caso di contestazione fondata della fattura o se la fattura non riguarda prestazioni del servizio universale, il concessionario non è autorizzato a bloccare il collegamento o a rescindere il contratto prima che la controversia sia stata composta.
+
+<sup>3</sup> Se la solvibilità del cliente è dubbia, il concessionario del servizio universale può esigere una cauzione, remunerata al tasso d’interesse applicato ai conti di risparmio. L’importo della cauzione non può tuttavia eccedere la copertura del rischio verosimilmente corso dal concessionario.
+
+### Sezione 3: Finanziamento del servizio universale
+
+#### Art. 24
+
+**Calcolo dell’indennità finanziaria**
+
+<sup>1</sup> Il costo totale netto è calcolato annualmente in base ai principi di cui all’articolo 14.
+
+<sup>2</sup> Il costo previsionale deve essere presentato all’UFCOM entro il 31 luglio dell’anno che precede quello per il quale viene compilato il bilancio preventivo. Se per il rilascio della concessione del servizio universale è bandita una pubblica gara, il costo previsionale per i primi due anni della concessione è precisato direttamente nella candidatura del concessionario del servizio universale.[^24-1]
+
+<sup>3</sup> Il costo effettivo deve essere presentato all’UFCOM al più tardi due mesi dopo la fine dell’anno. Il concessionario del servizio universale è tenuto a fornire all’UFCOM tutti i dati necessari al relativo controllo.[^24-2]
+
+<sup>4</sup> La ComCom determina l’indennità finanziaria sulla base del costo effettivo. Per poter essere indennizzate, le differenze tra il costo previsionale e il costo effettivo devono essere giustificate con argomentazioni valide.
+
+<sup>5</sup> Il concessionario anticipa l’importo dell’indennità finanziaria annua. L’anticipo è remunerato al tasso d’interesse applicato, al momento dell’indennizzo, alle obbligazioni federali concernenti un periodo identico o equivalente.
+
+<sup>6</sup> L’UFCOM può chiedere un audit sui dati contabili e sul calcolo del costo.[^24-3]
+
+<sup>7</sup> Se il concessionario non ha fornito le informazioni richieste entro dodici mesi dalla fine dell’anno, cessa il diritto a un’indennità finanziaria.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^24-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 25
+
+**Tassa destinata a finanziare il servizio universale**
+
+<sup>1</sup> La cifra d’affari determinante per il calcolo della tassa di un fornitore di servizi di telecomunicazione registrato risulta dai servizi di telecomunicazione offerti sul territorio nazionale, dedotti i costi dei servizi di telecomunicazione acquistati sul mercato all’ingrosso a fornitori terzi e i costi dei servizi di telecomunicazione fatturati per conto di terzi.[^25-1]
+
+<sup>2</sup> I fornitori di servizi di telecomunicazione presentano all’UFCOM le indicazioni relative alla cifra d’affari dell’anno precedente al più tardi entro il 30 aprile, la prima volta nel 2009.
+
+<sup>3</sup> Se un fornitore di servizi di telecomunicazione non presenta i dati necessari al calcolo della tassa, l’UFCOM stabilisce l’importo basandosi sulla cifra d’affari totale determinante per l’imposizione della tassa sul valore aggiunto.
+
+<sup>4</sup> L’UFCOM può prevedere un sistema di controllo esterno allo scopo di verificare l’esattezza dei dati presentati dai fornitori di servizi di telecomunicazione.
+
+<sup>5</sup> Se le somme dovute da un fornitore di servizi di telecomunicazione moroso non sono versate entro un anno a partire dal termine fissato nella messa in mora, sono stornate sul costo totale netto dell’esercizio seguente. L’obbligo di pagamento non si estingue al momento in cui le somme in questione sono stornate. Le somme infine pagate vengono versate all’organo che gestisce il meccanismo di finanziamento e sono dedotte dal costo totale netto dell’esercizio che segue il pagamento.
+
+<sup>6</sup> I fornitori di servizi di telecomunicazione la cui cifra d’affari determinante (cpv. 1) è inferiore a 5 milioni di franchi all’anno sono esonerati dal pagamento della tassa.
+
+<sup>7</sup> L’UFCOM emana prescrizioni amministrative relative al calcolo della cifra d’affari e alla presentazione delle informazioni necessarie alla ripartizione del costo.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 26
+
+**Gestione del meccanismo di finanziamento**
+
+<sup>1</sup> L’UFCOM gestisce il meccanismo di finanziamento. A tal fine può emanare prescrizioni tecniche e amministrative.
+
+<sup>2</sup> L’UFCOM pubblica periodicamente un rapporto sul finanziamento del servizio universale.
+
+<sup>3</sup> I costi imputabili alla gestione del meccanismo di finanziamento sono coperti dalle tasse destinate al finanziamento del servizio universale.
+
+## Capitolo 4:**** Obblighi derivanti dalla fornitura di servizi specifici
+
+[^chap4-1]
+
+[^chap4-1]: Originario avanti art. 27.
+
+#### Art. 26a
+
+**Indicazione del numero chiamante**[^26a-1]
+
+<sup>1</sup> I fornitori del servizio telefonico pubblico che stabiliscono collegamenti devono assicurarsi che almeno un numero chiamante del piano svizzero di numerazione E.164 sia trasmesso come numero di chiamata del collegamento chiamante.
+
+<sup>2</sup> Devono indicare il numero assegnato al cliente per il servizio abbinato al collegamento attivato. Gli altri fornitori di servizi di telecomunicazione che contribuiscono al collegamento non sono autorizzati a modificare i numeri telefonici indicati.
+
+<sup>3</sup> I fornitori del servizio telefonico pubblico possono permettere ai loro clienti di indicare altri numeri telefonici al momento di stabilire il collegamento a condizione che detti clienti possano dimostrare di avere un diritto d’utilizzazione. Se sono a conoscenza del fatto che i loro clienti trasmettono numeri di chiamata senza possedere un diritto d’utilizzazione, i fornitori devono prendere le misure necessarie per impedire la trasmissione di tali numeri.
+
+<sup>3bis</sup> Se un cliente rende verosimile il fatto che terzi utilizzano il suo numero di telefono senza autorizzazione, i fornitori del servizio telefonico pubblico possono, in accordo con il cliente, bloccare tutte le chiamate per le quali è stato indicato il suo numero. Fanno eccezione le chiamate che provengono realmente dal numero del cliente in questione.[^26a-2]
+
+<sup>4</sup> I numeri telefonici indicati devono essere provvisti di una segnalazione che riveli se si basano sui dati indicati dal cliente chiamante o sulle informazioni del fornitore del collegamento e se quest’ultimo ha verificato i dati forniti dal cliente.
+
+<sup>5</sup> I numeri telefonici dei gruppi 0900, 0901 e 0906 non possono essere trasmessi quali numeri chiamanti.
+
+[^26a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^26a-2]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 27
+
+**Accesso ai servizi di chiamata d’emergenza**[^27-1]
+
+<sup>1</sup> L’accesso ai servizi di chiamata d’emergenza di cui all’articolo 28 dell’ordinanza del 6 ottobre 1997[^27-2] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni (ORAT) va garantito gratuitamente da ogni collegamento telefonico. Soltanto per l’assistenza telefonica per adulti è possibile riscuotere una tassa forfettaria di 20 centesimi per chiamata.
+
+<sup>2</sup> I fornitori di servizi di telecomunicazione mobile via satellite del servizio universale ai quali l’Unione internazionale delle telecomunicazioni ha attribuito elementi d’indirizzo devono unicamente garantire l’accesso gratuito al numero d’emergenza europeo.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^27-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+
+#### Art. 28
+
+**Istradamento delle chiamate d’emergenza**[^28-1]
+
+I fornitori del servizio telefonico pubblico devono garantire l’istradamento delle chiamate d’emergenza ai servizi di chiamata d’emergenza di cui all’articolo 28 ORAT[^28-2].
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^28-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+
+#### Art. 29
+
+**Localizzazione delle chiamate d’emergenza: in generale**[^29-1]
+
+<sup>1</sup> Purché la tecnica scelta lo consenta, deve essere garantita online la possibilità di localizzare le chiamate ai servizi di chiamata d’emergenza di cui all’articolo 28 ORAT[^29-2]. Questo vale anche per i clienti che hanno rinunciato all’iscrizione negli elenchi pubblici.
+
+<sup>2</sup> In caso di una chiamata d’emergenza le funzioni di localizzazione integrate nei dispositivi possono essere attivate anche senza l’esplicito consenso dei clienti. Purché la tecnica scelta lo consenta, esse vanno disattivate di nuovo dopo la chiamata d’emergenza.
+
+<sup>3</sup> Su richiesta, l’UFCOM può designare altri numeri destinati esclusivamente a servizi di chiamata d’emergenza della polizia, dei pompieri, dei servizi medici e dei servizi di salvataggio, per i quali va garantita la localizzazione della chiamata. Pubblica una lista di questi numeri.
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+
+#### Art. 29a
+
+[^29a-1]
+
+[^29a-1]: In vigore il 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 29b
+
+**Localizzazione delle chiamate d’emergenza: esercizio di un servizio di localizzazione**[^29b-1]
+
+<sup>1</sup> Il concessionario del servizio universale gestisce un servizio di localizzazione in collaborazione con gli altri fornitori del servizio telefonico pubblico e a favore delle centrali d’allarme. Questo servizio deve essere accessibile anche alle centrali d’allarme che non sono collegate alla rete del concessionario del servizio universale.
+
+<sup>2</sup> La collaborazione tra il concessionario del servizio universale e gli altri fornitori del servizio telefonico pubblico e l’utilizzazione del servizio di localizzazione da parte delle centrali d’allarme si fonda sui principi della formazione dei prezzi in funzione dei costi di cui all’articolo 54.
+
+<sup>3</sup> I fornitori del servizio telefonico pubblico assumono i costi di investimento e d’esercizio del servizio di localizzazione.
+
+<sup>4</sup> ...[^29b-2]
+
+<sup>5</sup> Le centrali d’allarme assumono unicamente i costi per l’utilizzazione del servizio di localizzazione.
+
+[^29b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-2]: In vigore il 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 30
+
+**Disposizioni particolari per le chiamate d’emergenza**[^30-1]
+
+<sup>1</sup> Finché non sarà tecnicamente possibile istradare e localizzare correttamente per tutte le ubicazioni la trasmissione vocale mediante il protocollo Internet, questo servizio va garantito solo per le chiamate d’emergenza provenienti dall’ubicazione principale indicata nel contratto d’abbonamento.
+
+<sup>2</sup> I fornitori del servizio telefonico pubblico si assicurano che i clienti siano a conoscenza di queste restrizioni e che abbiano espressamente confermato di averne preso atto. Li informano che per le chiamate d’emergenza devono impiegare, per quanto possibile, un mezzo di comunicazione che consenta tecnicamente di istradare e localizzare correttamente le chiamate.
+
+<sup>3</sup> Le chiamate d’emergenza non possono essere interrotte da servizi di telecomunicazione aventi priorità nell’ambito della comunicazione di sicurezza (art. 90 cpv. 2).
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 31
+
+**Modalità per la messa a disposizione dei dati elenco**[^31-1]
+
+<sup>1</sup> I fornitori del servizio telefonico pubblico sono tenuti a mettere a disposizione degli aventi diritto secondo l’articolo 21 capoverso 2 LTC tanto l’accesso online ai dati elenco dei loro clienti, quanto la trasmissione dei dati in blocco, con l’opzione di aggiornamenti almeno quotidiani.
+
+<sup>2</sup> I fornitori che hanno accesso ai dati elenco di cui all’articolo 11 capoversi 1 e 2 possono modificare questi dati su richiesta del cliente e se comunicano tali modifiche al fornitore del servizio telefonico pubblico in questione.
+
+<sup>3</sup> I fornitori che hanno accesso ai dati elenco di cui all’articolo 11 capoverso 3 possono trattare questi dati unicamente per fornire un servizio di collegamento. Segnatamente, non possono pubblicare questi dati, né utilizzarli a fini pubblicitari né comunicarli a terzi.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 32
+
+**Interoperabilità**
+
+<sup>1</sup>
+
+I fornitori del servizio telefonico pubblico devono garantire la capacità di comunicazione di questo servizio (art. 21*a* cpv. 1 LTC). A tale scopo devono garantire, direttamente o indirettamente, l’interconnessione. Devono in particolare applicare le disposizioni in materia di:[^32-1]
+
+- a. trasparenza dell’offerta di base (art. 53 cpv. 1, 2 e 4);
+- b. indicazione delle condizioni tecniche e commerciali ai fornitori che chiedono un’interconnessione (art. 61);
+- c.[^32-2] interfacce (art. 55).
+
+<sup>2</sup> La procedura per la composizione di controversie in materia di interoperabilità è disciplinata per analogia dagli articoli 70–74.
+
+<sup>3</sup> La ComCom stabilisce le condizioni d’interconnessione secondo i principi usuali del mercato e del settore in questione.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^32-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 33
+
+**Servizi per audiolesi, ipovedenti e persone con difficoltà motorie**
+
+<sup>1</sup> I servizi per audiolesi, ipovedenti e persone con difficoltà motorie devono essere gratuiti, sia che il fornitore di prestazioni del servizio universale li offra direttamente, sia che dia l’accesso a servizi di terzi.
+
+<sup>2</sup> Le tariffe di collegamento fatturate ad audiolesi, ipovedenti e persone con difficoltà motorie per questi servizi non devono essere discriminatorie rispetto alle altre tariffe.
+
+## Capitolo 4*a*: Portabilità dei numeri****
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34
+
+**Applicazione**[^34-1]
+
+Gli articoli 34*a*‒34*e* si applicano alla portabilità dei numeri del piano di numerazione E. 164[^34-2], escluso il servizio di radiochiamata.
+
+[^34-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34-2]: Raccomandazione dell’UIT-T. Tale raccomandazione può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra.
+
+#### Art. 34a
+
+**Portabilità dei numeri tra fornitori di servizi di telecomunicazione**[^34a-1]
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione devono offrire ai loro clienti la possibilità di mantenere i loro numeri, se essi cambiano fornitore all’interno della stessa categoria di servizi di telecomunicazione.
+
+<sup>2</sup>
+
+Sono considerate categorie:
+
+- a. il servizio telefonico pubblico della rete fissa;
+- b. il servizio telefonico pubblico della rete mobile;
+- c. i servizi non geografici dello stesso tipo, come i servizi offerti attraverso i numeri gratuiti del tipo 0800.
+
+<sup>3</sup> I gruppi di numeri di selezione diretta dei clienti possono essere trasferiti solo nella loro totalità. Adeguamenti come la riduzione o la ripartizione dei gruppi di numeri di selezione diretta trasferiti devono essere concordati tra il fornitore di servizi di telecomunicazione attuale e il fornitore precedente.
+
+<sup>4</sup> L’UFCOM emana le prescrizioni tecniche e amministrative necessarie.
+
+[^34a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34b
+
+**Costi**[^34b-1]
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare la portabilità dei numeri si assumono i relativi costi.
+
+<sup>2</sup> Essi possono esigere dal nuovo fornitore contributi finanziari a copertura dei costi amministrativi direttamente legati al trasferimento dei numeri. Le regole sulla formazione dei prezzi in funzione dei costi di cui agli articoli 54–54*c* si applicano per analogia.
+
+<sup>3</sup> I fornitori disciplinano nei loro contratti di interconnessione la copertura dei costi legati all’istradamento delle comunicazioni a destinazione dei numeri trasferiti.
+
+[^34b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34c
+
+**Cambiamento dell’ubicazione del collegamento**[^34c-1]
+
+I fornitori di servizi di telecomunicazione possono offrire ai loro clienti la possibilità di mantenere il loro numero in caso di cambiamento dell’ubicazione del collegamento.
+
+[^34c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34d
+
+**Garanzia della trasmissione**[^34d-1]
+
+I fornitori di servizi di telecomunicazione che offrono la portabilità dei numeri devono garantire la trasmissione del numero conformemente all’articolo 26*a* capoverso 2.
+
+[^34d-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34e
+
+**Accesso alle informazioni**[^34e-1]
+
+I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare la portabilità dei numeri devono consentire agli altri fornitori l’accesso alle informazioni necessarie a garantire un istradamento corretto delle comunicazioni a destinazione dei numeri trasferiti.
+
+[^34e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Capitolo 4*b*:**** Libera scelta dei fornitori per i collegamenti nazionali e internazionali
+
+[^chap4b-1]
+
+[^chap4b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34f
+
+<sup>1</sup> I fornitori del servizio telefonico pubblico possono offrire ai loro clienti la possibilità di utilizzare il servizio di un altro fornitore per i collegamenti nazionali e internazionali. Ciò può avvenire sia in modo prestabilito, sia per ogni chiamata, componendo il numero breve attribuito a questo fine.
+
+<sup>2</sup> Chi compone un numero breve non valido deve essere immediatamente avvertito.
+
+<sup>3</sup> L’UFCOM emana le necessarie prescrizioni tecniche e amministrative.
+
+## Capitolo 5: Servizi a valore aggiunto
+
+#### Art. 35
+
+**Applicazione[^35-2]**[^35-1]
+
+<sup>1</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto forniti mediante elementi d’indirizzo del piano di numerazione E.164 del tipo 0800 (numeri gratuiti), 00800 (numeri gratuiti internazionali), 084x (numeri a costi suddivisi) si applicano soltanto gli articoli 39*a* e 39*b* capoverso 2.[^35-3]
+
+<sup>2</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164 né mediante SMS o MMS si applicano soltanto gli articoli 36 capoversi 4 e 5, 37, 38 capoverso 4, 40 capoversi 3–5 e 41 capoverso 1 lettera c e capoverso 2.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 36
+
+**Identificazione dei servizi a valore aggiunto**
+
+<sup>1</sup> Agli utenti va data la possibilità di riconoscere in modo chiaro i servizi a valore aggiunto.
+
+<sup>2</sup> I servizi a valore aggiunto offerti mediante elementi d’indirizzo del piano di numerazione E.164 possono essere forniti solo con i numeri di chiamata attribuiti individualmente ai sensi degli articoli 24*b*–24*i* ORAT[^36-1] e con i numeri brevi ai sensi degli articoli 29–32 e 54 ORAT.[^36-2]
+
+<sup>3</sup> I servizi a valore aggiunto offerti mediante SMS o MMS possono essere forniti solo con i numeri brevi di cui agli articoli 15*a* – 15*f* ORAT.
+
+<sup>3bis</sup> I titolari dei numeri di cui ai capoversi 2 e 3 sono considerati fornitori di servizi a valore aggiunto anche quando non sono essi stessi ad offrirli.[^36-3]
+
+<sup>4</sup> I servizi a valore aggiunto che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164, né mediante SMS o MMS, vanno designati chiaramente ed esplicitamente come tali.
+
+<sup>5</sup> I servizi a valore aggiunto a carattere erotico o pornografico devono essere compresi in una categoria separata, chiaramente identificabile dal cliente.
+
+[^36-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^36-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^36-3]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 37
+
+**Obbligo di sede o di stabile organizzazione**[^37-1]
+
+I fornitori di servizi a valore aggiunto devono avere una sede o una stabile organizzazione in Svizzera.
+
+[^37-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 38
+
+**Fatturazione dei servizi a valore aggiunto**
+
+<sup>1</sup>
+
+Finché sussiste la possibilità di contestare la fattura, i clienti possono chiedere al loro fornitore di servizi di telecomunicazione che comunichi loro gratuitamente, su singola richiesta o regolarmente a ogni fattura, i seguenti dati, a condizione che siano utilizzati per l’allestimento della fattura:
+
+- a. se disponibile, l’elemento d’indirizzo mediante il quale il servizio a valore aggiunto è stato fornito;
+- b. la data e l’ora della fornitura del servizio a valore aggiunto;
+- c. se del caso, la durata della comunicazione;
+- d. la tariffa del servizio a valore aggiunto.
+
+<sup>2</sup> Per le comunicazioni prepagate, il fornitore di servizi di telecomunicazione presenta, su richiesta, le indicazioni di cui al capoverso 1. La comunicazione orale deve essere gratuita. Per una comunicazione scritta può essere fatturato solo un importo esiguo.
+
+<sup>3</sup> Nella fattura, il fornitore di servizi di telecomunicazione è tenuto a indicare in modo chiaro come risalire all’identità e all’indirizzo del fornitore del servizio a valore aggiunto.
+
+<sup>4</sup> Se un cliente contesta una fattura che concerne i servizi a valore aggiunto, il fornitore di servizi di telecomunicazione non può bloccare il collegamento o rescindere il contratto per tale motivo, prima che la controversia sia stata composta. Questo vale anche se il servizio a valore aggiunto non è fornito, ma solo offerto attraverso un servizio di telecomunicazione. Il fornitore di servizi di telecomunicazione può però bloccare l’accesso ai servizi a valore aggiunto.
+
+#### Art. 39
+
+**Limiti massimi dei prezzi di servizi a valore aggiunto in generale[^39-1]**
+
+<sup>1</sup> Le tariffe di base e le tariffe fisse per servizi a valore aggiunto non possono superare i 100 franchi.
+
+<sup>2</sup> La tariffa al minuto di servizi a valore aggiunto non può mai superare i 10 franchi.
+
+<sup>3</sup> Nel caso di servizi a valore aggiunto che richiedono la preventiva iscrizione del cliente e possono implicare la trasmissione di diverse singole informazioni, la tariffa per informazione singola e la somma delle tariffe delle informazioni singole fornite nel lasso di un minuto non possono superare i 5 franchi.[^39-2]
+
+<sup>4</sup> Per i servizi a valore aggiunto, la somma di tutte le tariffe (tariffa di base, tariffa fissa e tariffa determinata dal tempo) non può superare i 400 franchi per collegamento o abbonamento.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^39-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 39a
+
+**Limiti massimi dei prezzi di servizi a valore aggiunto del tipo 084x, 0800 e 00800[^39a-2]**[^39a-1]
+
+<sup>1</sup> Per le comunicazioni verso i numeri del tipo 084x, i fornitori di servizi di telecomunicazione possono fatturare ai loro clienti soltanto una tassa determinata dal tempo, non superiore a 7,5 centesimi al minuto (IVA esclusa). La comunicazione è fatturata al secondo. L’importo finale può essere arrotondato ai successivi 10 centesimi.[^39a-3]
+
+<sup>2</sup> Per le comunicazioni verso i numeri del tipo 0800 e 00800, i fornitori di servizi di telecomunicazione non possono fatturare ai loro clienti alcun genere di tassa.
+
+[^39a-1]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° lug. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^39a-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39a-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 39b
+
+**Trasparenza dei prezzi dei servizi a valore aggiunto**[^39b-1]
+
+<sup>1</sup> Per le comunicazioni verso i numeri del tipo 084x e 090x e verso i numeri brevi di cui agli articoli 29–32 e 54 ORAT[^39b-2], i fornitori di servizi di telecomunicazione possono fatturare ai loro clienti soltanto il prezzo che è convenuto tra il titolare del numero e il fornitore presso cui il numero è attivo, e che è indicato in conformità agli articoli 11*a* e 13*a* OIP[^39b-3]. L’importo finale può essere arrotondato ai successivi 10 centesimi. Per le comunicazioni verso i numeri del tipo 090x le tasse determinate dal tempo devono essere fatturate al secondo.
+
+<sup>2</sup> Per le comunicazioni verso i numeri del tipo 0800, 00800, 084x, 090x e verso i numeri brevi di cui agli articoli 29–32 e 54 ORAT non può essere riscosso alcun supplemento oltre ai prezzi regolamentati nel capoverso 1 e nell’articolo 39*a*.
+
+[^39b-1]: Introdotto dal n. I dell’O del 5 nov. 2014 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39b-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^39b-3]: [RS 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+
+#### Art. 40
+
+**Blocco dell’accesso ai servizi a valore aggiunto**
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione garantiscono ai loro clienti la possibilità di bloccare l’accesso a tutti i numeri del tipo 090x o soltanto ai numeri del tipo 0906 riservati a contenuti a carattere erotico o pornografico.[^40-1]
+
+<sup>2</sup> I fornitori di servizi di telecomunicazione che offrono l’accesso ai numeri brevi per servizi SMS e MMS (art. 15*a–*15*f* ORAT[^40-2]) consentono ai loro clienti di bloccare l’accesso a tutti i servizi SMS e MMS o soltanto a quelli a carattere erotico o pornografico. Questa possibilità deve comprendere il blocco della ricezione di questi servizi SMS e MMS.[^40-3]
+
+<sup>3</sup> I fornitori di servizi di telecomunicazione riservano ai loro clienti la possibilità di bloccare l’accesso a tutti i servizi a valore aggiunto di cui all’articolo 35 capoverso 2 o solo a quelli a carattere erotico o pornografico.
+
+<sup>4</sup> Ai clienti va data la possibilità di attivare e disattivare i servizi bloccati, in qualsiasi momento in modo semplice e gratuito. Questo non vale per i clienti di cui all’articolo 38 capoverso 4 terzo periodo e all’articolo 41.
+
+<sup>5</sup> I fornitori di servizi di telecomunicazione di cui ai capoversi 1, 2 e 3 segnalano ai loro clienti la possibilità di bloccare i servizi a valore aggiunto al momento in cui concludono il contratto e, in seguito, almeno una volta all’anno.
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^40-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 41
+
+**Tutela dei minorenni**[^41-1]
+
+<sup>1</sup>
+
+Se è a conoscenza del fatto che il cliente o utente principale non ha ancora compiuto 16 anni, il fornitore di servizi di telecomunicazione gli blocca automaticamente l’accesso a:
+
+- a. numeri di servizi a valore aggiunto a carattere erotico o pornografico (n. 0906);
+- b. numeri brevi per servizi SMS e MMS a carattere erotico o pornografico;
+- c. servizi a valore aggiunto a carattere erotico o pornografico che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164 né mediante SMS o MMS.
+
+<sup>2</sup>
+
+Per determinare la necessità di un blocco dell’accesso, i fornitori di servizi di telecomunicazione mobile:
+
+- a. registrano l’età dell’utente principale, qualora questi non abbia ancora compiuto i 16 anni, al momento della conclusione del contratto e al momento della vendita di un nuovo impianto terminale di telecomunicazione;
+- b. esigono, in caso di dubbio, che venga prodotto un passaporto o una carta d’identità validi o un altro documento di viaggio riconosciuto per entrare in Svizzera.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2011, in vigore dal 1° mar. 2012 ([RU 2012 367](https://fedlex.data.admin.ch/eli/oc/2012/25)).
+
+## Capitolo 6: Organo di conciliazione
+
+#### Art. 42
+
+**Istituzione**
+
+<sup>1</sup> L’UFCOM istituisce un organo di conciliazione o incarica un terzo (delegato) di farlo entro 15 mesi dall’entrata in vigore delle presenti disposizioni.
+
+<sup>2</sup>
+
+Può incaricare un delegato di esercitare il compito che spetta all’organo di conciliazione, a condizione che il delegato:
+
+- a. garantisca di rispettare il diritto applicabile;
+- b. dimostri di poter finanziare a lungo termine l’attività di conciliazione;
+- c. si impegni a esercitare il suo compito in modo indipendente, imparziale, trasparente ed efficace; in particolare garantisce che le persone a cui affida la composizione delle controversie dispongano delle necessarie competenze professionali;
+- d. garantisca la trasparenza della sua attività di fronte all’UFCOM e a tutta la collettività; in particolare si impegna a pubblicare annualmente un rapporto sul suo operato.
+
+<sup>3</sup> L’UFCOM designa il delegato per una durata determinata. A tale scopo può indire una pubblica gara che non soggiace agli articoli 32 e seguenti dell’ordinanza dell’11 dicembre 1995[^42-1] sugli acquisti pubblici.
+
+<sup>4</sup> La delega deve essere fatta sotto forma di contratto di diritto amministrativo.
+
+<sup>5</sup> L’UFCOM approva la nomina della persona fisica designata quale responsabile dell’organo di conciliazione.
+
+[^42-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+
+#### Art. 43
+
+**Compito**
+
+<sup>1</sup> L’organo di conciliazione si occupa di ogni controversia di diritto civile che sorga tra un cliente e il suo fornitore di servizi di telecomunicazione o il suo fornitore di servizi a valore aggiunto.
+
+<sup>2</sup> Esercita il suo compito in modo indipendente, imparziale, trasparente ed efficace. Non può essere vincolato ad alcuna direttiva generale o particolare concernente la composizione di una controversia.
+
+#### Art. 44
+
+**Regolamento di procedura**
+
+<sup>1</sup> L’organo di conciliazione emana un regolamento di procedura.
+
+<sup>2</sup> Il delegato sottopone all’UFCOM, per approvazione, il suo regolamento di procedura e il suo regolamento sulle tasse, come pure ogni loro ulteriore modifica.
+
+#### Art. 45
+
+**Principi procedurali**
+
+<sup>1</sup> La procedura di conciliazione deve essere equa, rapida e comportare costi contenuti per i clienti.
+
+<sup>2</sup>
+
+Una richiesta di conciliazione può essere accolta solo se:
+
+- a. la parte richiedente ha dapprima cercato di risolvere la controversia prendendo direttamente contatto con l’altra parte;
+- b. è presentata nel rispetto delle condizioni previste dal regolamento di procedura dell’organo di conciliazione;
+- c. non è palesemente abusiva;
+- d. non è stato adito alcun tribunale o tribunale arbitrale.
+
+<sup>3</sup> La procedura di conciliazione si svolge, su scelta del cliente, in una delle lingue ufficiali della Confederazione.
+
+<sup>4</sup> L’organo di conciliazione può adottare tutte le misure necessarie a comporre la controversia per la quale è stato adito. Se le parti non giungono a un accordo su una soluzione negoziata, formula una proposta di conciliazione equa. Redige un rapporto in cui espone lo svolgimento della procedura di conciliazione che è consegnato, su domanda, alle parti.
+
+<sup>5</sup> La procedura di conciliazione si conclude con il ritiro della richiesta, l’ottenimento di un accordo tra le parti, la proposta dell’organo di conciliazione o il rigetto della richiesta poiché palesemente abusiva.
+
+#### Art. 46
+
+**Rapporti con altre procedure**
+
+<sup>1</sup> La presentazione di una richiesta di composizione o di qualsiasi altro atto legato alla procedura di conciliazione non preclude la possibilità di adire un tribunale civile.
+
+<sup>2</sup> L’organo di conciliazione pone termine alla procedura non appena un tribunale o un tribunale arbitrale è adito per decidere della controversia.
+
+#### Art. 47
+
+**Obblighi dei fornitori**
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione o di servizi a valore aggiunto coinvolti in una richiesta di conciliazione sono tenuti a partecipare alla procedura di conciliazione. Ottemperano alle richieste di informazione dell’organo di conciliazione.
+
+<sup>2</sup> Su richiesta, i fornitori di servizi di telecomunicazione o di servizi a valore aggiunto trasmettono all’organo di conciliazione i dati relativi al traffico delle telecomunicazioni e gli altri dati personali dei loro clienti necessari per comporre la controversia, purché ne siano in possesso.
+
+<sup>3</sup> I fornitori di servizi di telecomunicazione informano i loro clienti dell’esistenza dell’organo di conciliazione su ogni fattura. Nel caso delle comunicazioni prepagate, sono tenuti a farlo ad ogni ricarica effettuata dal cliente titolare del collegamento. Devono sempre segnalare che l’organo di conciliazione è competente anche per controversie in materia di servizi a valore aggiunto.[^47-1]
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 48
+
+**Protezione dei dati**
+
+<sup>1</sup> L’organo di conciliazione può trattare i dati personali concernenti le parti della controversia purché sia necessario all’adempimento dei compiti affidatigli e all’ottenimento del pagamento dovuto dalle parti. Può conservare i dati in questione al massimo per cinque anni dopo la conclusione della procedura di conciliazione.[^48-1]
+
+<sup>2</sup> Le persone incaricate dall’organo di conciliazione di svolgere un compito sono tenute a rispettare il segreto d’ufficio ai sensi dell’articolo 320 del Codice penale[^48-2].[^48-3]
+
+<sup>3</sup> L’organo di conciliazione può chiedere all’UFCOM di trasmettergli le informazioni personali necessarie per comporre la controversia. Può in particolare chiedergli informazioni riguardanti l’apertura di una procedura amministrativa e le sanzioni o misure amministrative decise nei confronti di un fornitore di servizi di telecomunicazione o di servizi a valore aggiunto.
+
+<sup>4</sup> L’organo di conciliazione può pubblicare le sue proposte di conciliazione su Internet, integralmente o in parte, ad eccezione del nome e di altre indicazioni sull’identità delle parti. Pubblica un compendio delle sue principali proposte.
+
+<sup>4bis</sup> Può pubblicare statistiche sul numero di casi suddivisi per fornitore di servizi di telecomunicazione o di servizi a valore aggiunto.[^48-4]
+
+<sup>5</sup> Esso è tenuto a comunicare gratuitamente a un nuovo delegato o all’UFCOM i dati personali in suo possesso al momento in cui cessa le sue attività di conciliazione.[^48-5]
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^48-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^48-4]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^48-5]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 49
+
+**Finanziamento**
+
+<sup>1</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) o il delegato determina le tasse di procedura e le altre fonti di reddito volte a garantire il finanziamento dell’organo di conciliazione.[^49-1]
+
+<sup>2</sup> Le tasse di procedura chieste al cliente devono essere modiche, salvo che egli abbia aperto la procedura di conciliazione in modo palesemente abusivo.
+
+<sup>3</sup> I fornitori di servizi di telecomunicazione o di servizi a valore aggiunto versano una tassa per ogni procedura alla quale prendono o dovrebbero prendere parte. L’organo di conciliazione può rinunciare a esigere una tassa per le procedure di conciliazione aperte da un cliente in modo palesemente abusivo.
+
+<sup>4</sup> L’organo di conciliazione può, mediante una decisione, riscuotere tasse procedurali dalle parti.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 50
+
+**Vigilanza in caso di delega**
+
+<sup>1</sup> L’UFCOM vigila affinché il delegato rispetti il diritto applicabile in materia, in particolare il presente capitolo e il contratto di diritto amministrativo.
+
+<sup>2</sup> Se vi è il sospetto che il delegato non rispetta i suoi obblighi, l’UFCOM procede a una verifica. Il delegato deve fornire tutte le informazioni utili. Se la verifica consente di stabilire che gli obblighi non sono rispettati, o non lo sono più, il delegato ne assume le spese.
+
+<sup>3</sup>
+
+Se accerta che il delegato non rispetta i suoi obblighi, l’UFCOM può:
+
+- a. esigere che il delegato ponga rimedio o prenda i provvedimenti necessari per evitare il ripetersi della violazione; in tal caso il delegato comunica all’UFCOM le disposizioni prese;
+- b. obbligarlo a versare alla Confederazione i proventi conseguiti illecitamente;
+- c. stipulare, nel contratto di diritto amministrativo, degli oneri;
+- d. limitare o sospendere il contratto di diritto amministrativo, oppure rescinderlo senza versare un’indennità.
+
+<sup>4</sup> Se il delegato cessa qualsiasi attività o fa fallimento, l’UFCOM rescinde il contratto senza versare un’indennità.
+
+<sup>5</sup> Se necessario per tutelare interessi pubblici preponderanti oppure se sono cambiate le condizioni di diritto o di fatto, può rescindere il contratto senza versare un’indennità.
+
+## Capitolo 7: Accesso alle risorse e ai servizi dei fornitori che detengono buna posizione dominante sul mercato
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 51
+
+**Aventi diritto**[^51-1]
+
+Hanno diritto di accedere alle risorse e ai servizi del fornitore che detiene una posizione dominante sul mercato tutti i fornitori di servizi di telecomunicazione.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 52
+
+**Non discriminazione**
+
+<sup>1</sup> Il fornitore di servizi di telecomunicazione che detiene una posizione dominante sul mercato garantisce ad altri fornitori, senza discriminazioni, un accesso ai suoi impianti e servizi e alle relative informazioni.
+
+<sup>2</sup> Ogni fornitore deve beneficiare delle medesime condizioni riservate alle unità aziendali, alle filiali e agli altri partner del fornitore che detiene una posizione dominante sul mercato.[^52-1]
+
+<sup>2bis</sup> La differenza tra i prezzi di accesso proposti dal fornitore che detiene una posizione dominante sul mercato e i prezzi che questi applica al dettaglio deve permettere a un analogo fornitore efficace di realizzare ricavi a copertura dei costi.[^52-2]
+
+<sup>3</sup> Il fornitore che detiene una posizione dominante sul mercato può costituire solo le riserve tecniche necessarie alla gestione, alla manutenzione corrente e alla sostituzione dei suoi impianti. Se gli altri fornitori lo richiedono, deve consentire loro di visitare i suoi impianti e, se del caso, deve giustificare per iscritto l’insufficienza di capacità.
+
+<sup>4</sup> Esso tratta sollecitamente le ordinazioni degli altri fornitori nell’ordine di arrivo. Può rifiutare un’ordinazione se vi sono dubbi fondati che corrisponda all’effettivo bisogno del fornitore richiedente.[^52-3]
+
+[^52-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-2]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-3]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 53
+
+**Trasparenza**
+
+<sup>1</sup> Il fornitore che detiene una posizione dominante sul mercato pubblica almeno una volta all’anno un’offerta di base aggiornata concernente l’accesso alle sue risorse e servizi. Presenta in modo comprensibile e distinto nelle loro componenti le basi di calcolo dei singoli prezzi.
+
+<sup>2</sup> È tenuto ad annunciare i cambiamenti dell’offerta di base almeno con tre mesi d’anticipo.
+
+<sup>3</sup> Fornisce online agli altri fornitori le informazioni aggiornate necessarie alle diverse forme di accesso e alla loro collocazione e consente di ordinare, gestire, esercitare e rescindere le prestazioni di accesso e di collocazione online e in un formato standard.
+
+<sup>4</sup> Il fornitore che detiene una posizione dominante sul mercato è tenuto ad annunciare con un termine adeguato se, una volta ricevuta l’ordinazione, effettua modifiche tecniche o d’esercizio alle prestazioni d’accesso e di collocazione che comportano svantaggi per l’altro fornitore. I cambiamenti che comportano oneri considerevoli per l’altro fornitore sono annunciati almeno 24 mesi prima. Con l’accordo dell’altro fornitore le modifiche possono essere effettuate in qualunque momento.
+
+<sup>5</sup> Il fornitore che detiene una posizione dominante sul mercato pubblica periodicamente una statistica sulle prestazioni di accesso e di collocazione che comprende informazioni rilevanti in merito alla domanda, alle effettive disponibilità e ai termini di messa a disposizione. Per le prestazioni simili, paragona le informazioni sui propri clienti con quelle valide per altri fornitori.
+
+#### Art. 54
+
+**Formazione dei prezzi in funzione dei costi: principio**[^54-1]
+
+<sup>1</sup> I prezzi di accesso devono corrispondere al massimo ai costi causati dalla concessione dell’accesso a servizi e dispositivi secondo l’articolo 11 capoverso 1 LTC (*rel**e**vant costs*).
+
+<sup>2</sup>
+
+Se non è specificato altrimenti, il computo si fonda sui costi che un fornitore efficace deve sostenere su basi attuali (*forward looking*) ed è conforme alle regole seguenti:
+
+- a. i costi corrispondono ai costi di riacquisto di impianti moderni funzionalmente equivalenti (*modern equivalent assets, MEA*);
+- b. si considerano i costi supplementari a lungo termine delle componenti di rete utilizzate e quelli che derivano esclusivamente dalla fornitura di una prestazione di accesso (*long run incremental costs, LRIC*);
+- c.[^54-2] occorre aggiungere i costi congiunti proporzionali rilevanti e un supplemento costante per i costi comuni;
+- d. vi si aggiunge un reddito del capitale, usuale nel settore, per gli investimenti effettuati.
+
+<sup>3</sup> Le prestazioni di accesso devono essere calcolate e fatturate separatamente dagli altri servizi.
+
+[^54-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^54-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 54a
+
+**Formazione dei prezzi in funzione dei costi: valutazione delle canalizzazioni di cavi**[^54a-1]
+
+<sup>1</sup> I costi delle canalizzazioni di cavi sono determinati sulla base dei costi sostenuti dal fornitore che detiene una posizione dominante sul mercato per la manutenzione e l’ampliamento delle canalizzazioni di cavi.
+
+<sup>2</sup> I costi di ammortamento corrispondono alla media degli investimenti effettuati e pianificati nell’infrastruttura di canalizzazione di cavi, calcolata su un numero adeguato di anni (tasso per la manutenzione e l’ampliamento dell’infrastruttura). Essi sono indicati per un anno civile.
+
+<sup>3</sup> Per determinare l’interesse calcolatorio del capitale impiegato è usata l’aliquota di costo del capitale del fornitore che detiene una posizione dominante sul mercato.
+
+<sup>4</sup>
+
+Per capitale impiegato si intende il capitale vincolato medio; esso è calcolato secondo le regole seguenti:
+
+- a. nel primo anno contabile il capitale vincolato medio si calcola sottraendo il tasso per la manutenzione e l’ampliamento dell’infrastruttura dalla metà dell’investimento di riacquisto che un fornitore efficace ha effettuato nell’infrastruttura di canalizzazione di cavi e aggiungendo al risultato ottenuto gli investimenti effettuati l’anno precedente dal fornitore che detiene una posizione dominante sul mercato;
+- b. negli anni successivi il capitale vincolato medio è calcolato indicizzando il valore ottenuto l’anno precedente con l’indice medio dei costi di produzione nelle categorie di lavoro delle condotte industriali e pavimentazioni in un rapporto pari a 7:3; in seguito si sottrae dal valore ottenuto il tasso per la manutenzione e l’ampliamento dell’infrastruttura e si aggiungono gli investimenti effettuati l’anno precedente dal fornitore che detiene una posizione dominante sul mercato.
+
+[^54a-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 54b
+
+**Formazione dei prezzi in funzione dei costi: prezzo soglia**[^54b-1]
+
+<sup>1</sup> Per i prezzi di accesso calcolati secondo gli articoli 54 e 54*a* si applica un prezzo soglia.
+
+<sup>2</sup> Il prezzo soglia corrisponde ai costi di un fornitore efficace, che si compongono dei costi supplementari a breve termine delle componenti di rete utilizzate, dei costi supplementari a breve termine generati esclusivamente dalle prestazioni di accesso, nonché dai costi congiunti e dai costi comuni (*short run incremental costs plus,* *SRIC+*).
+
+[^54b-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 54c
+
+**Formazione dei prezzi in funzione dei costi: prezzi discriminanti**[^54c-1]
+
+Se con l’applicazione degli articoli 54-54*b* non è possibile realizzare ricavi a copertura dei costi ai sensi dell’articolo 52 capoverso 2<sup>bis</sup>, i relativi prezzi di accesso sono calcolati sottraendo, dalla cifra d’affari che il fornitore che detiene una posizione dominante sul mercato consegue fornendo ai clienti finali servizi basati su una determinata forma d’accesso, i costi a valle per la fornitura di tali servizi e in seguito riportando il risultato ottenuto a un’unità (*retail m**i**nus*).
+
+[^54c-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 55
+
+**Interfacce**[^55-1]
+
+<sup>1</sup> L’UFCOM pubblica un catalogo delle interfacce raccomandate per l’accesso e i relativi dati tecnici. In questo caso deve dare la precedenza alle interfacce armonizzate a livello internazionale.
+
+<sup>2</sup>
+
+Altri fornitori possono domandare al fornitore che detiene una posizione dominante sul mercato le interfacce raccomandate dall’UFCOM e quelle che il suddetto fornitore utilizza per i propri servizi. Possono inoltre domandare al fornitore che detiene una posizione dominante sul mercato altre interfacce, a condizione che esse:
+
+- a. rispettino le norme armonizzate a livello internazionale;
+- b. siano tecnicamente realizzabili; e
+- c. presentino considerevoli vantaggi economici per la fornitura di servizi.
+
+[^55-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 56
+
+**Principi relativi alla collocazione**
+
+<sup>1</sup> Il fornitore che detiene una posizione dominante sul mercato offre senza discriminazione agli altri fornitori la possibilità di utilizzare tutti i suoi spazi necessari all’accesso e di installarvi ed esercitarvi degli impianti.
+
+<sup>2</sup>
+
+È in particolare tenuto a consentire agli altri fornitori di:
+
+- a. accedere agli spazi alle sue stesse condizioni, in particolare per quanto riguarda le vie d’accesso, gli orari e l’accompagnamento;
+- b. riunire varie forme d’accesso negli spazi di collocazione;
+- c. collegare, negli spazi, i loro impianti alle loro reti mediante gli stessi tipi di istradamento di cui dispone, ma in ogni caso in ponte radio;
+- d. collegare, negli spazi, i loro impianti con quelli di fornitori terzi;
+- e. ricevere prestazioni di accesso per fornitori terzi.
+
+<sup>3</sup> L’offerta di base contiene almeno l’utilizzo di uno spazio senza separazioni di tipo edile.
+
+<sup>4</sup> In caso di mancanza di spazio, le superfici di collocazione non utilizzate per almeno tre mesi devono essere immediatamente liberate.
+
+#### Art. 57
+
+**Collocazione in caso di spazio limitato**
+
+<sup>1</sup> Se la superficie di collocazione non è sufficiente nonostante un utilizzo ottimale dello spazio esistente, il fornitore che detiene una posizione dominante sul mercato mette a disposizione uno spazio supplementare nello stesso luogo.
+
+<sup>2</sup> Se non può garantire la collocazione in questo modo a condizioni accettabili, il fornitore che detiene una posizione dominante sul mercato esercita gli impianti di altri fornitori alle stesse condizioni tecniche e d’esercizio con le quali esercita i suoi impianti, oppure permette agli altri fornitori di installare ed esercitare impianti in locali o edifici adiacenti o vicini ai suoi spazi e di collegare tali impianti alla sua rete.
+
+<sup>3</sup> Gli altri fornitori decidono, nell’ambito delle possibilità tecniche, quale variante applicare in base al capoverso 2.
+
+### Sezione 2: Disposizioni particolari
+
+#### Art. 58
+
+**Accesso completamente disaggregato alla rete locale**
+
+<sup>1</sup>
+
+Il fornitore che detiene una posizione dominante sul mercato pubblica nella sua offerta di base le condizioni tecniche e commerciali concernenti l’accesso completamente disaggregato alla rete locale, in particolare:
+
+- a. le modalità per l’utilizzazione dell’accesso completamente disaggregato alla rete locale o a una sottorete locale (senza impianti di trasmissione o commutazione);
+- b. i dati tecnici delle interfacce importanti;
+- c. i dati tecnici dell’accesso fisico ai ripartitori;
+- d. i dati tecnici concernenti la compatibilità della rete.
+
+<sup>2</sup> Verifica costantemente la compatibilità della rete alle tecnologie standardizzate a livello internazionale, che corrispondono all’attuale stato della tecnica. Mette a disposizione in modo neutro dal punto di vista tecnologico e senza discriminazioni lo spettro disponibile nel doppino in rame, in modo tale da garantire un esercizio privo di interferenze.
+
+<sup>3</sup>
+
+Se, per determinare i costi di riacquisto di un impianto moderno funzionalmente equivalente secondo l’articolo 54 capoverso 2 lettera a, è necessario basarsi su una tecnologia diversa dalla coppia elicoidale metallica, nel calcolo del prezzo si deve considerare il differente valore che distingue un impianto moderno funzionalmente equivalente da uno basato sulla coppia elicoidale metallica. Si applicano le regole seguenti:
+
+- a. il differente valore degli impianti risulta dai differenti ricavi che possono essere realizzati sul mercato dei clienti finali, considerando i differenti costi variabili a valle (*variable downstream costs*);
+- b. le differenti possibilità di realizzare ricavi e i costi variabili a valle si riferiscono ai servizi e ai pacchetti di servizi proposti con i differenti impianti;
+- c. con i differenti valori si forma un quoziente composto, al numeratore, dal valore di un impianto basato sulla coppia elicoidale metallica e, al denominatore, dal valore di un impianto moderno funzionalmente equivalente (metodo del quoziente);
+- d. i costi di riacquisto si ottengono moltiplicando il quoziente con i costi di riacquisto di un impianto moderno funzionalmente equivalente. [^58-1]
+
+<sup>4</sup> In caso di accesso a una parte della rete locale, il fornitore che detiene una posizione dominante sul mercato può riservare nei suoi ripartitori il posto di cui ha bisogno per soddisfare la domanda dei propri clienti, prevista in un prossimo futuro, in materia di servizi forniti mediante tali ripartitori. Su richiesta fornisce le informazioni sulla domanda e sulle riserve previste e le relative giustificazioni.[^58-2]
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^58-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 59 e 60
+
+[^5960-1]
+
+[^5960-1]: Abrogati dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 61
+
+**Interconnessione**
+
+<sup>1</sup>
+
+Il fornitore che detiene una posizione dominante sul mercato pubblica nella sua offerta di base le condizioni tecniche e commerciali concernenti i servizi d’interconnessione, in particolare:
+
+- a. la descrizione di tutti i punti standard d’interconnessione e delle condizioni d’accesso, sia che l’altro fornitore intenda assicurare direttamente la connessione d’interconnessione, sia che egli voglia incaricarne il fornitore che detiene una posizione dominante sul mercato;
+- b. i dati tecnici delle interfacce d’interconnessione e dei protocolli di segnalazione utilizzati.
+
+<sup>2</sup>
+
+Il fornitore del servizio telefonico pubblico che detiene una posizione dominante sul mercato offre almeno i servizi d’interconnessione seguenti:
+
+- a. lo stabilimento, la terminazione e il transito di comunicazioni;
+- b. l’indicazione del numero chiamante e del numero chiamato ovvero la soppressione di questa indicazione;
+- c. accesso ai servizi a valore aggiunto 08xx e 09xx;
+- d. connessione fisica tra gli impianti di telecomunicazione di diversi fornitori indispensabile alla connessione dei servizi.
+
+<sup>3</sup> Oltre ai prezzi di accesso basati sui minuti e sulle chiamate, il fornitore che detiene una posizione dominante sul mercato propone prezzi di accesso basati sulla capacità (*capacity based charges*), in funzione delle larghezze di banda massime richieste dal partner d’interconnessione.[^61-1]
+
+<sup>4</sup>
+
+Se, per determinare i costi di riacquisto di un impianto moderno funzionalmente equivalente secondo l’articolo 54 capoverso 2 lettera a, è necessario basarsi su una nuova tecnologia che differisce sostanzialmente da quella finora in uso, si applicano le regole seguenti:
+
+- a. il primo anno, i costi secondo l’articolo 54 capoverso 2 sono stabiliti per due terzi sulla base dell’impianto precedente usato per l’ultima volta e per un terzo sulla base del nuovo impianto;
+- b. l’anno successivo, i costi secondo l’articolo 54 capoverso 2 sono stabiliti per un terzo sulla base dell’impianto precedente usato per l’ultima volta e per due terzi sulla base del nuovo impianto;
+- c. negli anni successivi, i costi secondo l’articolo 54 capoverso 2 sono stabiliti interamente sulla base del nuovo impianto. [^61-2]
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^61-2]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 62
+
+**Linee affittate**
+
+<sup>1</sup>
+
+Il fornitore che detiene una posizione dominante sul mercato pubblica nella sua offerta di base le condizioni tecniche e commerciali concernenti le linee affittate, in particolare:
+
+- a. i dati tecnici delle linee affittate;
+- b. i dati tecnici concernenti i punti d’accesso e i punti terminali;
+- c. i dati tecnici delle interfacce.
+
+<sup>2</sup>
+
+Se, per determinare i costi di riacquisto di un impianto moderno funzionalmente equivalente secondo l’articolo 54 capoverso 2 lettera a, è necessario basarsi su una nuova tecnologia che differisce sostanzialmente da quella finora in uso, si applicano le regole seguenti:
+
+- a. il primo anno, i costi secondo l’articolo 54 capoverso 2 sono stabiliti per due terzi sulla base dell’impianto precedente usato per l’ultima volta e per un terzo sulla base del nuovo impianto;
+- b. l’anno successivo, i costi secondo l’articolo 54 capoverso 2 sono stabiliti per un terzo sulla base dell’impianto precedente usato per l’ultima volta e per due terzi sulla base del nuovo impianto;
+- c. negli anni successivi, i costi secondo l’articolo 54 capoverso 2 sono stabiliti interamente sulla base del nuovo impianto.[^62-1]
+
+[^62-1]: Introdotto dal n. I dell’O del 14 mar. 2014, in vigore dal 1° lug. 2014 ([RU 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 63
+
+**Accesso alle canalizzazioni di cavi**
+
+<sup>1</sup>
+
+Il fornitore che detiene una posizione dominante sul mercato pubblica nella sua offerta di base le condizioni tecniche e commerciali concernenti l’accesso alle canalizzazioni di cavi, in particolare:
+
+- a. le modalità di accesso alle canalizzazioni di cavi, come pure la posa, la manutenzione e l’eliminazione dei cavi;
+- b. i dati tecnici concernenti i sistemi di trasmissione utilizzati.
+
+<sup>2</sup>
+
+Il sistema online del fornitore che detiene una posizione dominante sul mercato mette a disposizione dell’altro fornitore le informazioni seguenti:
+
+- a. i tracciati delle canalizzazioni di cavi che collegano determinati punti geografici;
+- b. nella misura in cui sono conosciute, le capacità utilizzate e quelle ancora a disposizione;
+- c. le ubicazioni delle camere di accesso.
+
+### Sezione 3: Accordi in materia d’accesso e procedure
+
+#### Art. 63a
+
+**Applicazione**[^63a-1]
+
+Gli articoli 64–68 si applicano soltanto agli accordi in materia d’accesso stipulati con un fornitore che detiene una posizione dominante sul mercato.
+
+[^63a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 64
+
+**Accordi in materia d’accesso**
+
+Gli accordi concernenti l’accesso devono essere conclusi per scritto e comprendere almeno i punti seguenti:
+
+- a. le condizioni generali di commercio;
+- b. la descrizione dei servizi d’accesso;
+- c. i dati tecnici sui servizi d’accesso;
+- d. le modalità della messa in servizio, dell’esercizio e della messa fuori servizio dell’accesso.
+
+#### Art. 65
+
+**Confidenzialità delle informazioni**
+
+<sup>1</sup> Le informazioni relative alle trattative concernenti l’accesso sono confidenziali. Non possono essere trasmesse ad altre unità aziendali, a filiali, a partner commerciali o a terzi.
+
+<sup>2</sup> Le informazioni sui clienti ricevute dai fornitori nel quadro della realizzazione di un rapporto concernente l’accesso possono essere utilizzate solo nell’ambito dell’accesso e per allestire la fattura.
+
+<sup>3</sup>
+
+L’indicazione che un cliente ha scelto liberamente un fornitore per le sue comunicazioni nazionali e internazionali, che ha soppresso questa scelta o che ha portato il numero presso un altro fornitore può essere utilizzata a condizione che:
+
+- a. questa informazione sia a disposizione in ugual misura di tutti i fornitori in questione;
+- b. questa informazione venga utilizzata soltanto dal fornitore che cede o riprende il numero;
+- c. il cliente abbia approvato l’utilizzazione di questa informazione.
+
+<sup>4</sup> L’obbligo di confidenzialità di cui ai capoversi 1 e 2 non si applica né alla ComCom né all’UFCOM.
+
+#### Art. 66
+
+**Notifica dell’apertura delle trattative**
+
+<sup>1</sup> Il fornitore che desidera stipulare un accordo concernente l’accesso può notificare per scritto all’UFCOM, quale prova, l’apertura o la ripresa di trattative in merito.
+
+<sup>2</sup> In caso di modifiche contrattuali, si presume che le trattative siano iniziate mediante la presentazione della relativa offerta.
+
+#### Art. 67
+
+**Obbligo di notifica**
+
+<sup>1</sup> Gli accordi concernenti l’accesso devono essere inoltrati all’UFCOM al più tardi due settimane dopo la loro conclusione. Lo stesso vale per la loro modifica o la loro rescissione.
+
+<sup>2</sup> I segreti commerciali possono essere omessi in caso di lettura da parte di terzi, a condizione di offrirne un compendio altrove. Se esso è incompleto, l’UFCOM può esigere informazioni più dettagliate.
+
+#### Art. 68
+
+**Diritto di consultazione**
+
+Su richiesta, l’UFCOM consente la consultazione di accordi e decisioni in materia di accesso.
+
+#### Art. 69
+
+[^69-1]
+
+[^69-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 70
+
+**Richiesta di decisione in materia di accesso**
+
+<sup>1</sup>
+
+Le domande di decisione in materia di accesso devono comprendere i dati seguenti:
+
+- a. le conclusioni;
+- b. i fatti essenziali;
+- c.[^70-1] il formulario dell’UFCOM, se la domanda è motivata dalla posizione dominante della controparte e se quest’ultima contesta il fatto di occupare una posizione dominante;
+- d.[^70-2] ...
+
+<sup>2</sup> ... [^70-3]
+
+<sup>3</sup> L’UFCOM è incaricato dell’istruzione. Se ritiene che la richiesta presentata sia incompleta o poco chiara, concede al richiedente un breve termine supplementare per regolarizzarla, avvisandolo che se le lacune non saranno debitamente colmate entro tale termine, proporrà alla ComCom di dichiarare la richiesta irricevibile.
+
+[^70-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-2]: Abrogata dal n. I dell’O del 4 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-3]: Abrogato dal n. I dell’O del 4 nov. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 71
+
+**Misure cautelari**
+
+Dopo il ricevimento della richiesta, la ComCom può prendere misure cautelari, d’ufficio o su richiesta di una delle parti, allo scopo di garantire l’accesso durante la procedura.
+
+#### Art. 72
+
+**Commissione della concorrenza**
+
+Se consultata, la Commissione della concorrenza prende posizione entro quattro settimane.
+
+#### Art. 73
+
+**Procedura di conciliazione**
+
+Nel quadro dell’istruzione, l’UFCOM può aprire un’udienza di conciliazione.
+
+#### Art. 74
+
+**Decisione in materia di accesso**
+
+<sup>1</sup> Una volta conclusa l’istruzione, l’UFCOM sottopone alla ComCom una proposta di decisione.
+
+<sup>2</sup> La ComCom decide sulle condizioni dell’accesso in base a principi usuali nel mercato o nel settore in questione.
+
+<sup>3</sup> Se il fornitore che detiene una posizione dominante sul mercato non è in grado di provare che rispetta il principio di formazione dei prezzi in funzione dei costi, la ComCom decide sulla base dei valori paragonabili usuali nel mercato o nel settore in questione. Può anche fissare i prezzi ricorrendo a modelizzazioni di prezzi e costi, o sulla base di altri metodi appropriati, in particolare se non sono disponibili valori paragonabili.
+
+## Capitolo 8: Utilizzazione di fondi di uso comune, altri collegamenti e coutenza****
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 75
+
+**Coordinamento con altri progetti di costruzione**
+
+<sup>1</sup> Concedendo a un fornitore di servizi di telecomunicazione il permesso di utilizzare un fondo di uso comune, il proprietario di tale fondo può porre la condizione che il fornitore coordini il proprio con un altro progetto, purché il primo possa venir realizzato entro tre mesi e che tale coordinamento non ostacoli oltre misura la destinazione e l’utilizzazione previste per il fondo in questione.
+
+<sup>2</sup> Il proprietario di un fondo di uso comune può esigere dal fornitore di informarsi presso altre aziende sui progetti che esse intendono realizzare su tale fondo. Gli indica le aziende alle quali può rivolgersi a tale scopo. Il fornitore può chiedere questo tipo di informazioni anche ad altre aziende. Esse sono tenute a rispondere entro quattro settimane.
+
+#### Art. 76
+
+**Spostamento di linee e telefoni pubblici**
+
+<sup>1</sup> Il proprietario di un fondo di uso comune notifica per scritto al fornitore di servizi di telecomunicazione lo spostamento di linee o di telefoni pubblici, indicandone i motivi. Il fornitore è tenuto a pronunciarsi sulle modalità dello spostamento, sui costi e sulla loro copertura. Se non viene raggiunto alcun accordo in merito allo spostamento e alle sue modalità, il proprietario ordina lo spostamento tenendo conto delle indicazioni del fornitore.
+
+<sup>2</sup>
+
+Di norma, i costi dello spostamento sono assunti dal fornitore. Tuttavia, il proprietario di un fondo di uso comune vi partecipa in misura adeguata, purché:
+
+- a. l’ubicazione attuale della linea o del telefono pubblico corrisponda a un suo esplicito desiderio;
+- b. utilizzi in comune la linea per bisogni propri;
+- c. lo spostamento della linea o del telefono pubblico sia richiesto entro un anno dalla sua installazione;
+- d. i costi di altri interventi accettabili siano inferiori rispetto a quelli dello spostamento.
+
+<sup>3</sup> Se lo spostamento è effettuato a favore di terzi, questi devono essere inclusi nella procedura e partecipare in misura adeguata ai costi dello spostamento.
+
+#### Art. 77
+
+**Fondi appartenenti alle ferrovie**
+
+<sup>1</sup> L’articolo 35 LTC è applicato per analogia nei casi in cui le linee di telecomunicazione attraversano, seppur brevemente, fondi appartenenti alle ferrovie.
+
+<sup>2</sup> Il fornitore di servizi di telecomunicazione sostiene i costi cagionati alle ferrovie dalla costruzione o dalla manutenzione delle linee.
+
+#### Art. 78
+
+**Utilizzazione di strade**
+
+<sup>1</sup> I proprietari di strade, ad eccezione delle strade di accesso, decidono il luogo in cui i fornitori di servizi di telecomunicazione posano le loro linee all’interno del perimetro stradale.
+
+<sup>2</sup> Purché sia accettabile per i fornitori, i proprietari di cui al capoverso 1 possono esigere che questi utilizzino le loro infrastrutture, se disponibili, contro adeguato indennizzo. L’indennizzo non deve superare i costi che il fornitore avrebbe assunto per posare altrimenti le sue linee.
+
+<sup>3</sup> Sono fatti salvi accordi contrari conclusi tra le parti sull’utilizzazione dei fondi.
+
+<sup>4</sup> L’articolo 76 capoverso 2 lettera a non si applica alle strade, ad eccezione delle strade di accesso.
+
+#### Art. 78a
+
+**Coutenza di impianti di raccordo all’immobile preesistenti**[^78a-1]
+
+L’obbligo dei proprietari dell’immobile di tollerare altri collegamenti via cavo secondo l’articolo 35*a* capoverso 1 LTC nonché di concedere l’accesso al punto d’entrata nell’edificio e di tollerare la coutenza di impianti domestici preesistenti secondo l’articolo 35*b* capoverso 1 LTC comprende anche:
+
+- a. se le capacità sono sufficienti: l’obbligo di tollerare la coutenza delle canalizzazioni di cavi preesistenti che servono per il raccordo all’immobile;
+- b. se le capacità sono insufficienti: l’obbligo di tollerare la realizzazione di ulteriori impianti che servono per il raccordo all’immobile.
+
+[^78a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 78b
+
+**Coutenza di impianti dell’edificio preesistenti**[^78b-1]
+
+L’obbligo dei proprietari dell’immobile e dei fornitori di servizi di telecomunicazione di tollerare la coutenza di impianti domestici preesistenti secondo l’articolo 35*b* capoverso 1 LTC comprende anche l’obbligo di tollerare:
+
+- a. la coutenza degli allacciamenti elettrici;
+- b. l’installazione di impianti che consentono a un fornitore che li coutilizza di fornire i propri servizi di telecomunicazione.
+
+[^78b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 78c
+
+**Regole comuni per la coutenza di impianti di raccordo all’immobile e di impianti dell’edificio preesistenti**[^78c-1]
+
+<sup>1</sup> Se, per fornire i propri servizi di telecomunicazione, un fornitore di servizi di telecomunicazione vuole utilizzare in comune impianti di raccordo all’immobile o impianti dell’edificio preesistenti, è tenuto a informare il proprietario dell’immobile e i fornitori preesistenti.
+
+<sup>2</sup> Se un proprietario dell’immobile non dispone delle informazioni necessarie relative a impianti di raccordo all’immobile o a impianti dell’edificio preesistenti, il fornitore che ha realizzato il raccordo all’immobile o l’impianto dell’edificio deve fornire queste informazioni su richiesta.
+
+<sup>3</sup> I fornitori che hanno finanziato una canalizzazione di cavi o un impianto domestico possono chiedere al fornitore che li coutilizza un’indennità proporzionale unica per unità aziendale o per unità abitativa utilizzata, in funzione dei loro costi di acquisto medi, per la messa a disposizione a lungo termine.
+
+<sup>4</sup> I fornitori che ottengono l’accesso a canalizzazioni di cavi o a impianti domestici sopportano le spese per i lavori di ripristino dovuti alla costruzione delle nuove installazioni.
+
+<sup>5</sup> Se un proprietario d’immobile o un fornitore di servizi di telecomunicazione deve assumere costi supplementari comprovati a causa dell’accesso o della coutenza, può chiedere un indennizzo commisurato al fornitore che coutilizza la canalizzazione o l’impianto.
+
+<sup>6</sup> La procedura per la composizione di controversie sull’accesso al punto d’entrata nell’edificio e la coutenza di impianti domestici è disciplinata per analogia dagli articoli 70–74.
+
+[^78c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 79
+
+**Coutenza di impianti secondo l’articolo 36 capoverso 2 LTC**[^79-1]
+
+È considerato un rimborso adeguato per la coutenza di impianti di altri fornitori secondo l’articolo 36 capoverso 2 LTC la parte corrispondente dei costi totali.
+
+[^79-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Capitolo 9: Segreto delle telecomunicazioni, protezione dei dati e protezione dei bambini e dei giovani****
+
+[^chap9-1]
+
+[^chap9-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 80
+
+**Trattamento dei dati relativi al traffico**[^80-1]
+
+<sup>1</sup>
+
+I fornitori di servizi di telecomunicazione possono trattare i dati relativi al traffico dei clienti senza il loro consenso, se e fino a quando sia necessario per:
+
+- a. fornire servizi di telecomunicazione;
+- b. ottenere il rimborso dovuto per le loro prestazioni;
+- c. adempiere obblighi legali;
+- d. scopi propri, non in relazione a persone.
+
+<sup>2</sup> Per altri scopi possono trattare i dati relativi al traffico soltanto in forma anonima e previo consenso dei clienti in questione.
+
+[^80-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 81
+
+**Comunicazione dei dati impiegati per l’allestimento della fattura[^81-1]**
+
+<sup>1</sup> Finché sussiste la possibilità di contestare la fattura, i clienti possono chiedere al loro fornitore di servizi di telecomunicazione che comunichi loro, su singola richiesta o regolarmente a ogni fattura, tutti i dati utilizzati per la fatturazione. Se sono impiegati per la fatturazione, i numeri di chiamata dei collegamenti entranti devono essere indicati senza le ultime quattro cifre.[^81-2]
+
+<sup>2</sup> I dati non possono essere comunicati in caso di chiamate all’assistenza telefonica per bambini e giovani ai sensi dell’articolo 28 lettera f ORAT[^81-3].[^81-4]
+
+<sup>3</sup> Per le comunicazioni prepagate, i dati devono essere forniti, su richiesta, durante un mese dopo l’addebito del rimborso.
+
+<sup>4</sup> Se un cliente contesta la fattura di un servizio a valore aggiunto oppure non la paga entro i termini stabiliti, il fornitore di servizi di telecomunicazione può comunicare al fornitore del servizio in questione i dati personali del cliente che ha a disposizione e che sono necessari a far valere il credito.
+
+[^81-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^81-3]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^81-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 82
+
+**Comunicazione dei dati in caso di chiamate abusive e di pubblicità di massa sleale**
+
+<sup>1</sup>
+
+Se il cliente rende verosimile, per scritto, che il suo collegamento è stato chiamato abusivamente oppure che ha ricevuto pubblicità di massa sleale, il fornitore di servizi di telecomunicazione è tenuto a trasmettergli i dati seguenti, purché siano in suo possesso:
+
+- a. data, ora e durata delle comunicazioni, oppure data e ora dei messaggi;
+- b. gli elementi d’indirizzo così come i nomi e l’indirizzo dei titolari dei collegamenti dai quali sono provenute le comunicazioni, oppure la pubblicità di massa sleale.
+
+<sup>2</sup> Se i dati non possono essere forniti retroattivamente e con ogni probabilità le chiamate abusive o la pubblicità di massa sleale proseguiranno, il fornitore di servizi di telecomunicazione è tenuto a raccogliere i dati necessari e a trasmettere ai clienti quelli cui essi hanno diritto.
+
+<sup>3</sup> Se le chiamate abusive o la pubblicità di massa sleale provengono da collegamenti di clienti di un altro fornitore di servizi di telecomunicazione, questi è tenuto a indicare i dati al fornitore di servizi di telecomunicazione dei clienti che hanno presentato domanda in merito. Soltanto i fornitori che contribuiscono alla trasmissione sono tenuti a comunicare al fornitore di servizi di telecomunicazione dei clienti che ne hanno presentato domanda da quale altro fornitore provengano le chiamate abusive o la pubblicità di massa sleale.[^82-1]
+
+[^82-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 83
+
+**Pubblicità di massa sleale**
+
+<sup>1</sup> Purché la tecnica lo consenta, i fornitori di servizi di telecomunicazione devono proteggere i loro clienti dalla pubblicità di massa sleale.
+
+<sup>2</sup> Possono impedire la diffusione della pubblicità di massa sleale.
+
+<sup>3</sup> Se un fornitore è a conoscenza del fatto che un suo cliente invia o inoltra pubblicità di massa sleale mediante la sua rete di telecomunicazione, deve bloccare senza indugio l’invio di questi messaggi oppure impedire l’allestimento delle relative comunicazioni. Può disconnettere dalla rete di telecomunicazione i clienti che inviano o inoltrano pubblicità di massa sleale.
+
+<sup>4</sup> Il fornitore di servizi di telecomunicazione deve istituire un servizio al quale sia possibile segnalare pubblicità di massa sleale che proviene dalla sua rete di telecomunicazione, o che vi circola.
+
+<sup>5</sup> L’UFCOM può emanare prescrizioni tecniche e amministrative per tutelare i clienti dalla pubblicità di massa sleale.
+
+<sup>6</sup> In caso di violazione dell’articolo 3 lettera o della legge federale del 19 dicembre 1986[^83-1] contro la concorrenza sleale (LCSl) o di disposizioni estere simili, l’autorità federale competente può chiedere al fornitore di servizi di telecomunicazione le informazioni e la documentazione necessarie per esercitare il suo diritto d’intervento e garantire la collaborazione amministrativa ai sensi della LCSl.
+
+[^83-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+
+#### Art. 84
+
+**Indicazione del numero chiamante**
+
+<sup>1</sup> Se è tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecomunicazione devono offrire ai loro clienti, in modo semplice e gratuito, la possibilità di sopprimere, per singola chiamata o in permanenza, l’indicazione del loro numero sull’apparecchio chiamato.
+
+<sup>2</sup> Al momento di concludere il contratto di abbonamento, i fornitori di servizi di telecomunicazione devono indicare esplicitamente ai loro clienti tale possibilità.
+
+<sup>3</sup> In ogni caso, essi devono garantire l’indicazione del numero chiamante per le chiamate di cui va garantita la localizzazione ai sensi degli articoli 29 capoverso 1 e 90 capoverso 5, e per le chiamate al servizio di trascrizione per audiolesi conformemente all’articolo 15 capoverso 1 lettera e. Eccezion fatta per il proprio servizio guasti, i fornitori non devono consentire a nessun altro cliente di conoscere il numero chiamante dei clienti che hanno scelto il servizio di soppressione dell’indicazione.[^84-1]
+
+[^84-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 85
+
+**Indicazione del numero chiamato**
+
+<sup>1</sup> Se tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecomunicazione devono offrire ai loro clienti, in modo semplice e gratuito, la possibilità di sopprimere l’indicazione del numero sull’apparecchio chiamante.
+
+<sup>2</sup> Al momento di concludere il contratto di abbonamento, i fornitori di servizi di telecomunicazione devono indicare esplicitamente ai loro clienti tale possibilità.
+
+#### Art. 86
+
+**Deviazione automatica delle chiamate**
+
+Se tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecomunicazione devono offrire ai loro clienti, in modo semplice e gratuito, la possibilità di sopprimere la deviazione automatica delle chiamate da parte di terzi verso il loro apparecchio.
+
+#### Art. 87
+
+**Sicurezza dei servizi di telecomunicazione**
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione devono avvertire i loro clienti del rischio di ascolto abusivo e di ingerenze legato all’utilizzazione dei loro servizi.
+
+<sup>2</sup> Devono offrire o indicare loro strumenti in grado di eliminare tali rischi.
+
+#### Art. 88
+
+**Elenchi telefonici**
+
+<sup>1</sup> I clienti che figurano in un elenco hanno il diritto di far indicare chiaramente che non desiderano ricevere messaggi pubblicitari da parte di persone con cui non intrattengono una relazione commerciale, e che i loro dati non possono essere comunicati ai fini della pubblicità diretta.[^88-1]
+
+<sup>2</sup> e <sup>3</sup> ...[^88-2]
+
+<sup>4</sup> Il fornitore di un elenco online deve adottare i provvedimenti tecnici e organizzativi adeguati per impedire che il contenuto di un’iscrizione o di una parte dell’elenco sia modificato o soppresso da una persona non autorizzata.
+
+[^88-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^88-2]: Abrogati dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 89
+
+**Legislazione sulla protezione dei dati**
+
+Per quanto la presente ordinanza non disponga altrimenti, è applicabile la legge federale del 19 giugno 1992[^89-1] sulla protezione dei dati.
+
+[^89-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 89a
+
+**Informazioni sulla protezione dei bambini e dei giovani**[^89a-1]
+
+I fornitori di servizi d’accesso a Internet informano i loro clienti sulle possibili misure di protezione dei bambini e dei giovani in Internet. Offrono ai propri clienti un sostegno individuale nell’applicazione di misure concrete di protezione.
+
+[^89a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 89b
+
+**Pornografia vietata**[^89b-1]
+
+<sup>1</sup> I fornitori di servizi d’accesso a Internet fanno in modo di poter ottenere le segnalazioni dell’Ufficio federale di polizia di cui all’articolo 46*a* capoverso 3 primo periodo LTC. Applicano immediatamente nei propri sistemi le misure necessarie a seguito delle segnalazioni*.*
+
+<sup>2</sup> Provvedono affinché terzi possano segnalare loro per scritto dei casi conformemente all’articolo 46*a* capoverso 3 secondo periodo LTC. Segnalano immediatamente all’Ufficio federale di polizia tutti i casi sospetti.
+
+[^89b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Capitolo 10: Interessi nazionali importanti****
+
+[^chap10-1]
+
+[^chap10-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Sezione 1: Comunicazione a garanzia della sicurezza****
+
+[^chap10-sec1-1]
+
+[^chap10-sec1-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 90
+
+**Prestazioni**[^90-1]
+
+<sup>1</sup>
+
+I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a disposizione i seguenti servizi di telecomunicazione a sostegno degli organi di cui all’articolo 47 capoverso 1 LTC:
+
+- a. servizio di trasmissione voce e dati via reti fisse e mobili;
+- b. servizio di allarme della popolazione e possibilità di comunicare sull’evento.
+
+<sup>2</sup> Devono poter fornire questi servizi in tutta la Svizzera e se necessario in via prioritaria rispetto al restante traffico civile delle telecomunicazioni. L’integrità dei dati, la larghezza di banda e la disponibilità dei servizi devono essere garantite nella misura necessaria.
+
+<sup>3</sup> Gli organi autorizzati possono richiedere solo servizi e funzionalità conformi alle norme standardizzate a livello internazionale e per i quali esiste una regolamentazione armonizzata dell’utilizzazione delle frequenze di radiocomunicazione.
+
+<sup>4</sup> I fornitori sono tenuti a mettere a disposizione locali e impianti e a tollerare lo svolgimento di esercizi in vista di e in caso di situazioni particolari e straordinarie.
+
+<sup>5</sup> Su richiesta degli organi autorizzati, l’UFCOM designa i numeri per i quali deve essere garantito il servizio di localizzazione delle chiamate. Per tali numeri gli organi hanno accesso al servizio di cui all’articolo 29*b*.
+
+[^90-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 91
+
+[^91-1]
+
+[^91-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 92
+
+**Designazione dei fornitori**
+
+<sup>1</sup> In linea di principio, gli organi di cui all’articolo 47 capoverso 1 LTC ordinano le prestazioni necessarie presso un fornitore di servizi di telecomunicazione di loro scelta, sulla base di un contratto.[^92-1]
+
+<sup>2</sup> Se la pubblica gara è stata infruttuosa, dietro presentazione dei documenti della pubblica gara possono chiedere all’UFCOM di obbligare un fornitore a mettere a disposizione i servizi necessari.[^92-2]
+
+<sup>3</sup> Il Consiglio federale può obbligare i fornitori di servizi di telecomunicazione i cui impianti o servizi sono importanti in situazioni straordinarie ad organizzarsi in previsione di simili situazioni.
+
+[^92-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 93
+
+**Indennità**[^93-1]
+
+<sup>1</sup> L’indennità spettante ai fornitori di servizi di telecomunicazione per le loro prestazioni è stipulata in un contratto con gli organi di cui all’articolo 47 capoverso 1 LTC. Per l’indennità vanno considerati in linea di principio i prezzi di mercato correnti delle prestazioni richieste.
+
+<sup>2</sup> Se le prestazioni richieste devono essere fornite appositamente per i bisogni degli organi di cui all’articolo 47 capoverso 1 LTC, l’indennità si calcola in funzione dei prezzi di costo. I costi congiunti, legati alla fornitura di servizi commerciali vanno ripartiti in modo non discriminatorio ai sensi dell’articolo 52 e aggiunti solo proporzionalmente ai prezzi di costo.
+
+<sup>3</sup> I contributi accordati provenienti da fondi pubblici vanno dedotti, in funzione della loro destinazione, dai costi per le prestazioni erogate dai fornitori.
+
+<sup>4</sup> Se, conformemente all’articolo 92 capoverso 2 un fornitore è obbligato a mettere a disposizione i servizi necessari, l’UFCOM stabilisce la relativa indennità sulla base dei capoversi 1–3.
+
+[^93-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Sezione 2: Limitazione del traffico delle telecomunicazioni
+
+#### Art. 94
+
+**Provvedimenti**[^94-1]
+
+<sup>1</sup> Purché la tecnica impiegata lo consenta, il DATEC può ordinare che, in situazioni straordinarie, si effettuino restrizioni al traffico civile delle telecomunicazioni a favore degli organi di cui all’articolo 47 capoverso 1 LTC.
+
+<sup>2</sup> L’ordine di effettuare restrizioni al traffico civile delle telecomunicazioni a favore degli organi di cui all’articolo 47 capoverso 1 LTC può essere disposto dalla Centrale nazionale d’allarme per 36 ore al massimo. Ne informa senza indugio l’UFCOM.
+
+<sup>3</sup> I fornitori di servizi di telecomunicazione possono effettuare restrizioni al traffico civile delle telecomunicazioni a favore degli organi di cui all’articolo 47 capoverso 1 LTC per 36 ore al massimo, se constatano un sovraccarico della propria rete. Ne informano senza indugio l’UFCOM.
+
+[^94-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 95
+
+**Provvedimenti preparatori**[^95-1]
+
+<sup>1</sup> In collaborazione con i fornitori di servizi di telecomunicazione, la Commissione federale per la telematica in ambito di salvataggio e sicurezza prende i provvedimenti di cui all’articolo 94 capoversi 1 e 2.
+
+<sup>2</sup> Nella misura in cui le restrizioni di cui all’articolo 94 non comportino vantaggi commerciali per i fornitori, la Confederazione assume i costi dei provvedimenti preparatori.
+
+[^95-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Sezione 3: Sicurezza****
+
+[^chap10-sec3-1]
+
+[^chap10-sec3-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 96
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione sono tenuti a segnalare senza indugio all’UFCOM le interferenze nell’esercizio della loro rete che toccano un numero rilevante di clienti.
+
+<sup>2</sup> L’UFCOM può emanare prescrizioni tecniche e amministrative sulla sicurezza e può dichiarare applicabili norme tecniche armonizzate a livello internazionale concernenti la sicurezza.[^96-1]
+
+[^96-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Capitolo 11: Statistica ufficiale sulle telecomunicazioni
+
+#### Art. 97
+
+**Competenze dell’UFCOM**
+
+<sup>1</sup> L’UFCOM allestisce la statistica ufficiale sulle telecomunicazioni, in particolare allo scopo di valutare la legislazione in vigore nel settore, prendere le necessarie decisioni regolatrici e garantire la continuità del servizio universale.
+
+<sup>2</sup> Garantisce la raccolta e il trattamento dei dati, nonché tutti i lavori statistici nell’ambito del capoverso 1.
+
+<sup>3</sup> Collabora e coordina questi lavori con l’Ufficio federale di statistica conformemente all’ordinanza del 30 giugno 1993[^97-1] sull’organizzazione della statistica federale.
+
+[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+
+#### Art. 98
+
+**Dati raccolti dall’UFCOM**
+
+<sup>1</sup> L’UFCOM raccoglie presso i fornitori di servizi di telecomunicazione i dati necessari all’elaborazione della statistica ufficiale sulle telecomunicazioni. Può inoltre ricorrere ai dati raccolti in applicazione della legislazione sulle telecomunicazioni e a quelli raccolti da altre autorità in applicazione del diritto federale.
+
+<sup>2</sup>
+
+Raccoglie, con l’ausilio di questionari annuali sulle reti e sui servizi dei fornitori, dati riguardanti in particolare:
+
+- a. le aziende stesse (segnatamente nome o ragione sociale, indirizzo e altre coordinate, campo d’attività);
+- b. le caratteristiche delle reti (segnatamente tipo, caratteristiche tecniche, numero e tipo di collegamenti, tasso di copertura della popolazione e del territorio, numero di ordini di preselezione eseguiti);
+- c. i diversi tipi di servizi offerti sulle reti, le loro caratteristiche e l’utilizzazione che ne viene fatta (segnatamente prezzo, numero di clienti, cifra d’affari per servizio, durata e numero di comunicazioni, volume di comunicazioni per servizio, numero di rivenditori, servizi offerti a terzi mediante numeri di servizio a carattere non geografico, tipo e volume dell’infrastruttura affittata a terzi).
+
+<sup>3</sup>
+
+Raccoglie, con l’ausilio di un questionario annuale sulla situazione finanziaria dei fornitori di servizi di telecomunicazione, dati riguardanti in particolare:
+
+- a. le aziende stesse (segnatamente nome o ragione sociale, indirizzo e altre coordinate, campo d’attività);
+- b. i ricavi d’esercizio suddivisi per tipo di servizi;
+- c. i costi d’esercizio, segnatamente gli acquisti di beni, gli acquisti di servizi (servizi acquistati presso altri operatori per tipo di rete e altri servizi), i costi del personale e gli ammortamenti;
+- d. i risultati, segnatamente il risultato d’esercizio, il risultato fuori esercizio, il risultato prima dell’imposta, il risultato netto;
+- e. gli investimenti, tanto materiali, quali quelli per gli impianti d’esercizio necessari ai servizi di telecomunicazione per tipo di rete, quanto immateriali e finanziari;
+- f. gli effettivi di personale.
+
+<sup>4</sup> Può raccogliere dati avvalendosi di altri mezzi, segnatamente mediante questionari unici.
+
+#### Art. 99
+
+**Obblighi dei fornitori di servizi di telecomunicazione**
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione sono tenuti a trasmettere gratuitamente all’UFCOM le informazioni necessarie all’elaborazione della statistica ufficiale sulle telecomunicazioni.
+
+<sup>2</sup> In particolare, sono tenuti a compilare i questionari elaborati dall’UFCOM in modo esaustivo, veritiero ed entro il termine fissato.
+
+#### Art. 100
+
+**Utilizzazione dei dati**
+
+I dati personali raccolti a scopi statistici possono essere messi a disposizione di servizi pubblici o privati oppure di servizi statistici di organizzazioni internazionali che ne hanno bisogno per effettuare lavori nel settore della statistica, a condizione che:
+
+- a. siano resi anonimi non appena lo scopo del trattamento lo permette;
+- b. il loro destinatario s’impegni a non comunicarli a terzi e a restituirli all’UFCOM oppure a distruggerli una volta conclusi i lavori;
+- c. la forma scelta dal destinatario per pubblicare i risultati non permetta di identificare le persone in questione;
+- d. tutto lasci pensare che il destinatario rispetterà il segreto statistico e la normativa federale in materia di protezione dei dati; e
+- e. non vi si opponga alcun interesse pubblico o privato preponderante.
+
+#### Art. 101
+
+**Provvedimenti per la protezione dei dati all’interno dell’UFCOM**
+
+L’UFCOM adotta i provvedimenti tecnici e organizzativi necessari a proteggere i dati raccolti da qualsiasi trattamento abusivo. In particolare, esso affida i lavori di statistica a un’unità organizzativa indipendente che non abbia funzioni di gestione o di controllo.
+
+#### Art. 102
+
+**Segreto d’ufficio**
+
+Le persone incaricate dei lavori statistici sono tenute a mantenere il segreto sui dati relativi a persone fisiche o giuridiche di cui sono venute a conoscenza nell’esercizio della loro funzione.
+
+#### Art. 103
+
+**Diffusione dei risultati statistici**
+
+<sup>1</sup> L’UFCOM pubblica o rende accessibili mediante una procedura di richiamo i risultati statistici d’interesse pubblico. Esso può fornire, su richiesta e a pagamento, i risultati non pubblicati o non accessibili mediante una procedura di richiamo, se nessun interesse pubblico o privato vi si oppone.
+
+<sup>2</sup> I risultati devono essere presentati in forma tale da impedire di risalire alla situazione di una persona fisica o giuridica, a meno che i dati siano stati resi pubblici dalla persona in questione oppure che essa vi abbia consentito.
+
+<sup>3</sup> L’utilizzazione o la riproduzione dei risultati è libera a condizione di indicarne la fonte. L’UFCOM può prevedere eccezioni.
+
+## Capitolo 12: Partecipazione alle attività dell’Unione internazionale delle telecomunicazioni
+
+#### Art. 104
+
+<sup>1</sup> I fornitori di servizi internazionali di telecomunicazione o i fornitori i cui servizi potrebbero provocare interferenze dannose sono considerati «gestioni riconosciute» secondo l’articolo 19 della Convenzione del 22 dicembre 1992[^104-1] dell’Unione internazionale delle telecomunicazioni (Convenzione dell’UIT).
+
+<sup>2</sup> Il segretario dell’Unione internazionale delle telecomunicazioni (UIT) può riconoscere la qualità di «membro dei Settori» ai sensi dell’articolo 19 della Convenzione dell’UIT agli altri fornitori di servizi di telecomunicazione nonché a organizzazioni o enti che hanno la loro sede o la loro attività commerciale in Svizzera, se questi garantiscono di rispettare le esigenze dell’UIT.[^104-2]
+
+[^104-1]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^104-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Capitolo 13: Disposizioni finali
+
+### Sezione 1: Esecuzione
+
+#### Art. 105
+
+<sup>1</sup> L’UFCOM emana le prescrizioni tecniche e amministrative.
+
+<sup>2</sup> Può concludere accordi internazionali dal contenuto tecnico o amministrativo che rientrano nel campo d’applicazione della presente ordinanza.
+
+### Sezione 2: Abrogazione e modifica del diritto vigente
+
+#### Art. 106
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 31 ottobre 2001[^106-1] sui servizi di telecomunicazione è abrogata.
+
+[^106-1]: [[RU 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421)[3170](https://fedlex.data.admin.ch/eli/oc/2001/479), [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27)[271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117)[4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70)[3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
+
+#### Art. 106a
+
+**Abrogazione di un altro atto normativo**[^106a-1]
+
+L’ordinanza del DATEC del 15 dicembre 1997[^106a-2] sui collegamenti di telecomunicazione al di fuori dei centri abitati è abrogata.
+
+[^106a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^106a-2]: [[RU 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483), [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665), [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84), [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
+
+#### Art. 107
+
+**Modifica del diritto vigente**
+
+...[^107-1]
+
+[^107-1]: Le mod. possono essere consultate alla [RU 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166).
+
+### Sezione 3: Disposizioni transitorie
+
+#### Art. 108
+
+[^108-1]
+
+[^108-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 108a
+
+**Disposizioni transitorie relative alla modifica del 2 dicembre 2016**[^108a-1]
+
+Sino al 31 dicembre 2021 il concessionario del servizio universale deve fornire ai clienti che lo richiedono un’interfaccia analogica o un’interfaccia ISDN (*Integrated Services Digital Network*) al punto terminale di rete. In tale caso non può addebitare alcun costo.
+
+[^108a-1]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 108b
+
+**Disposizione transitoria relativa alla modifica del 18 novembre 2020**[^108b-1]
+
+I fornitori di servizi a valore aggiunto che, all’entrata in vigore della presente ordinanza, non hanno né sede né stabile organizzazione in Svizzera devono indicare entro sei mesi una sede o una stabile organizzazione in Svizzera.
+
+[^108b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Sezione 4: Entrata in vigore
+
+#### Art. 109
+
+<sup>1</sup> Fatti salvi i capoversi 2 e 3, la presente ordinanza entra in vigore il 1° aprile 2007.
+
+<sup>2</sup> Gli articoli 15, 16, 17 capoverso 2, 21 capoverso 1 e 22 capoversi 1 e 2 entrano in vigore il 1° gennaio 2008.
+
+<sup>3</sup> L’articolo 9 entra in vigore il 1° ottobre 2008.

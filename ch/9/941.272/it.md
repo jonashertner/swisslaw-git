@@ -1,0 +1,176 @@
+---
+sr: "941.272"
+title: "Ordinanza del 21 novembre 2012 sull'Istituto federale di metrologia (OIFM)"
+short: OIFM
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/832"
+language: it
+version: 2021-01-01
+adopted: 2012-11-21
+in_force: 2013-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-832-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sull’Istituto federale di metrologia
+
+(OIFM)
+
+del 21 novembre 2012 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 1 capoverso 3, 3 capoversi 4 e 5, 4 capoverso 2, 7, 9 capoverso 2 e 12 capoverso 1 della legge federale del 17 giugno 2011[^ingress-1] sull’Istituto federale di metrologia (LIFM),
+
+ordina:
+
+[^ingress-1]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+
+#### Art. 1
+
+**Ragione sociale e sede**
+
+<sup>1</sup>
+
+L’Istituto federale di metrologia (METAS) è iscritto nel registro di commercio sotto la seguente denominazione:
+
+- Eidgenössisches Institut für Metrologie METAS
+- Institut fédéral de métrologie METAS
+- Istituto federale di metrologia METAS
+- Institut federal da metrologia METAS
+
+<sup>2</sup> L’Istituto ha sede a Köniz.
+
+#### Art. 2
+
+**Rappresentanza in organizzazioni e associazioni internazionali**
+
+<sup>1</sup> Il METAS rappresenta la Svizzera in seno alla Conferenza generale dei pesi e delle misure conformemente al Trattato del 20 maggio 1875[^2-1] sullo stabilimento di un Ufficio internazionale di pesi e misure (Convenzione del metro).
+
+<sup>2</sup> Rappresenta inoltre la Svizzera in seno al Comitato dell’Organizzazione internazionale di metrologia legale conformemente alla Convenzione del 12 ottobre 1955[^2-2] istitutiva di un’Organizzazione internazionale di metrologia legale.
+
+[^2-1]: [RS 0.941.291](https://fedlex.data.admin.ch/eli/cc/2/3_3_3)
+[^2-2]: R**S 0.941.290**
+
+#### Art. 3
+
+**Compiti assegnati dietro compenso**[^3-1]
+
+<sup>1</sup>
+
+Il METAS svolge i seguenti compiti conferitigli dietro compenso:[^3-2]
+
+- a. effettua la manutenzione della Rete di misurazione idrologica della Svizzera per l’Ufficio federale dell’ambiente;
+- b. fornisce prestazioni tecnico-scientifiche per l’Amministrazione federale delle dogane; effettua in particolare analisi chimiche;
+- c.[^3-3] fornisce prestazioni tecnico-scientifiche per l’Ufficio federale della sicurezza alimentare e di veterinaria; fatto salvo l’articolo 60 dell’ordinanza del 27 maggio 2020[^3-4] sull’esecuzione della legislazione sulle derrate alimentari, funge in particolare da laboratorio nazionale di riferimento secondo l’articolo 43 della legge del 20 giugno 2014[^3-5] sulle derrate alimentari;
+- d. fornisce prestazioni tecnico-scientifiche per l’Ufficio federale della sanità pubblica; effettua in particolare analisi chimiche;
+- e.[^3-6] mette esperti a disposizione del Servizio di accreditamento svizzero della Segreteria di Stato dell’economia;
+- f.[^3-7] fornisce servizi scientifici e tecnici all’Ufficio federale delle strade; svolge in particolare attività di ricerca e sviluppo per metodi di misurazione di applicazione pratica nella circolazione stradale.
+
+<sup>2</sup> La collaborazione è disciplinata in contratti di diritto pubblico.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5877](https://fedlex.data.admin.ch/eli/oc/2017/638)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+[^3-3]: Nuovo testo giusta l’art. 117 n. 1 dell’O del 27 mag. 2020 sull’esecuzione della legislazione sulle derrate alimentari, in vigore dal 1° lug. 2020 ([RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)).
+[^3-4]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^3-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3-6]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+[^3-7]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+
+#### Art. 4
+
+**Istituti designati**
+
+<sup>1</sup> Dopo aver consultato il Consiglio dell’Istituto, il METAS può incaricare persone di diritto pubblico o privato (istituti designati) di adempiere i compiti di cui all’articolo 3 capoverso 2 lettere a–d LIFM.
+
+<sup>2</sup> L’istituto designato deve garantire il perfetto adempimento dei compiti. In merito ai compiti previsti nell’articolo 3 capoverso 2 lettere a e b LIFM deve in particolare soddisfare i requisiti dell’«Arrangement de reconnaissance mutuelle des étalons nationaux de mesure et des certificats d’étalonnage et de mesurage émis par les laboratoires nationaux de métrologie» del 14 ottobre 1999, riveduto nell’ottobre 2003[^4-1].
+
+<sup>3</sup>
+
+Il METAS conclude con l’istituto designato un contratto di diritto pubblico che regola in particolare i seguenti punti:
+
+- a. i compiti dell’istituto designato;
+- b. la controprestazione del METAS.
+
+<sup>4</sup>
+
+L’istituto designato è tenuto:
+
+- a. ad adempiere i compiti conformemente ai requisiti di cui al capoverso 2;
+- b. a rendere conto al METAS.
+
+<sup>5</sup> Ha diritto alla controprestazione convenuta con il METAS.
+
+[^4-1]: Il testo dell’*Arrangement* è consultabile in francese e in inglese presso l’Istituto federale di metrologia, Lindenweg 50, 3003 Berna -Wabern oppure sul sito Internet www.bipm.org.
+
+#### Art. 5
+
+**Indennità dei membri del Consiglio dell’Istituto**
+
+<sup>1</sup>
+
+Le indennità dei membri del Consiglio dell’Istituto ammontano a:
+
+- a. indennità giornaliera per seduta del presidente: 2750 franchi;
+- b. indennità giornaliera per seduta degli altri membri: 2200 franchi.
+
+<sup>2</sup> L’indennità giornaliera per seduta include il lavoro di preparazione della stessa.
+
+<sup>3</sup> Il rimborso delle spese è disciplinato dalle corrispondenti disposizioni applicabili al personale federale.
+
+#### Art. 6
+
+**Rapporti di lavoro del direttore**
+
+<sup>1</sup> Il contratto di lavoro concluso con il direttore del METAS prevede che la cessazione della collaborazione proficua con il capo del Dipartimento federale di giustizia e polizia costituisce motivo di disdetta ordinaria per il venir meno di una condizione di assunzione legale o contrattuale conformemente alla legge del 24 marzo 2000[^6-1] sul personale federale (LPers).
+
+<sup>2</sup> In caso di disdetta secondo il capoverso 1, il direttore ha diritto a un’indennità corrispondente a un anno di stipendio.
+
+<sup>3</sup>
+
+Non viene versata alcuna indennità al direttore che:
+
+- a. viene occupato presso un datore di lavoro giusta l’articolo 3 LPers;
+- b. riceve una rendita d’invalidità completa dell’assicurazione invalidità, infortuni, militare o della previdenza professionale;
+- c. riceve una rendita di vecchiaia della previdenza professionale.
+
+<sup>4</sup> Il direttore che è assunto da uno dei datori di lavoro giusta l’articolo 3 LPers entro un anno dalla risoluzione del rapporto di lavoro con il METAS deve restituire l’indennità al METAS in proporzione al numero di mesi di assunzione nell’anno in questione presso il nuovo datore di lavoro.
+
+[^6-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 6a
+
+**Rapporto di lavoro a tempo determinato**[^6a-1]
+
+Con i collaboratori impiegati in progetti finanziati con mezzi limitati nel tempo può essere concluso un rapporto di lavoro a tempo determinato la cui durata non supera cinque anni.
+
+[^6a-1]: Introdotto dal n. I dell’O del 26 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2143](https://fedlex.data.admin.ch/eli/oc/2013/455)).
+
+#### Art. 7
+
+**Modifica del diritto vigente**
+
+La modifica del diritto vigente è disciplinata nell’allegato.
+
+#### Art. 8
+
+**Disposizione transitoria**
+
+Per gli istituti designati esistenti, il METAS adatta all’articolo 4 la delega di compiti fino il 31 dicembre 2013.
+
+#### Art. 9
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2013.
+
+Allegato
+
+(art. 7)
+
+## Modifica del diritto vigente
+
+...[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832).

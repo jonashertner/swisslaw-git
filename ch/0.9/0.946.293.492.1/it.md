@@ -1,0 +1,144 @@
+---
+sr: "0.946.293.492.1"
+title: "Protocollo franco-svizzero dell'11 giugno 1965 concernente l'amministrazione di vini francesi destinati alla clientela particolare svizzera"
+eli: "https://fedlex.data.admin.ch/eli/cc/1965/549_553_547"
+language: it
+version: 2013-01-01
+adopted: 1965-06-11
+in_force: 1965-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/549_553_547/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1965-549_553_547-20130101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/549_553_547/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Protocollo franco-svizzero concernente l’amministrazione del contingente di vini francesi destinati alla clientela particolare svizzera
+
+RU **1965** 547
+
+Traduzione*[^t-1]*
+
+(Stato 1° giugno 2013)
+
+[^t-1]: Dal testo originale francese.
+
+Gli accordi commerciali firmati tra la Svizzera e la Francia a contare dal 1934 prevedono che una parte del contingente d’importazione di vini francesi in Svizzera sia riservata per la fornitura a clienti particolari (compresi gli albergatori e gli osti), che li acquistano per i bisogni esclusivi del loro consumo domestico o del loro ristorante, esclusi i mercanti di vino[^ingress-1].
+
+Sempreché questo contingente speciale sia mantenuto negli accordi commerciali firmati tra la Svizzera e la Francia, esso sarà adoperato secondo le seguenti disposizioni d’applicazione.
+
+[^ingress-1]: Il presente Acc. commerciale franco-svizzero del 28 nov. 1967 ([RS 0.946.293.492](https://fedlex.data.admin.ch/eli/cc/1967/1665_1713_1707)) non prevede più questo.
+
+## A. Procedura applicabile in Francia
+
+\1. Documenti da presentarsi alla «Commission d’exportation des vins de France» per l’importazione in Svizzera
+
+L’esportatore francese che presenta per il visto la domanda d’importazione alla «Commission d’exportation des vins de France», deve produrre i seguenti documenti:
+
+- a. un’attestazione destinata all’Ufficio delle importazioni ed esportazioni, in Berna, conformemente al modulo qui allegato, firmata dal cliente svizzero e confermata dalla persona che assume effettivamente l’ordinazione. Quest’attestazione comprende in particolare la quantità in litri, la denominazione esatta del vino, eventualmente l’indicazione dell’annata e l’ammontare totale della fattura in franchi svizzeri;
+- b. una fattura provvisoria indicante soltanto la quantità approssimativa, che sarà obliterata dalla «Commission d’exportation des vins de France» e alla quale sarà sostituita, all’invio della merce, una fattura definitiva in due esemplari. L’originale della fattura definitiva sarà inviato direttamente al cliente svizzero dal fornitore. La copia certificata conforme all’originale dal fornitore sarà da questo inviata alla Camera francese di commercio per la Svizzera, in Ginevra.
+
+\2. Concessione del visto dalla «Commission d’exportation des vins de France»
+
+La domanda d’importazione sarà vistata dalla «Commission d’exportation des vins de France» solamente se l’esportatore produce, al momento della prima domanda, un’attestazione dei Servizi ufficiali francesi competenti (segnatamente dell’«Administration des contributions indirectes») provante che egli è considerato produttore o mercante secondo la legislazione francese.
+
+\3. Trasmissione delle domande e degli allegali alle stesse
+
+La «Commission d’exportation des vins de France» trasmette le domande di permesso, con la fattura provvisoria e l’attestazione dell’acquirente, e un elenco corrispondente in 4 esemplari, all’Ambasciata di Francia in Svizzera per l’Ufficio delle importazioni ed esportazioni in Berna.
+
+La detta Commissione, al principio di ogni anno, invia all’Ufficio delle importazioni ed esportazioni un elenco, in 3 esemplari, degli esportatori autorizzati a fruire del contingente speciale. Ogni modificazione dell’elenco sarà comunicata di volta in volta.
+
+## B. Procedura applicabile in Svizzera
+
+Le importazioni in virtù del contingente speciale saranno sorvegliate e allibrate da un titolare del permesso d’esercizio del commercio dei vini secondo il decreto federale del 12 maggio 1959[^lvlB-1] sul commercio dei vini e il regolamento dei Dipartimento federale dell’interno del 1° luglio 1961[^lvlB-2] per l’applicazione del decreto del Consiglio federale sul commercio dei vini.
+
+A questo scopo, l’Ufficio delle importazioni ed esportazioni invia alla Camera francese di commercio in Ginevra, ossia al suo committente, il permesso d’importazione, contro rimborso delle tasse di permesso. Le invia anche uno degli elenchi con copia della lettera inviata all’Ambasciata di Francia, indicante le eventuali correzioni apportate all’elenco, la fattura provvisoria e l’attestazione dell’acquirente.
+
+Il detto Ufficio invia alla Commissione federale del commercio dei vini, in Zurigo, un elenco con copia della lettera indirizzata all’Ambasciata di Francia, a Berna, indicante le eventuali correzioni apportate all’elenco.
+
+La Camera francese di commercio, in Ginevra, invia, i permessi d’importazione, contro rimborso delle tasse, al destinatario o al transitario designato nell’attestazione.
+
+La Camera francese di commercio, ossia il suo committente, è tenuta a osservare le prescrizioni del decreto e del regolamento menzionati nel capoverso 1.
+
+Trattasi segnatamente:
+
+- – d’allibrare i vini importati secondo le istruzioni della Commissione federale del commercio dei vini, adoperando i moduli ufficiali della stessa per ogni esportatore e sorta di vino separatamente;
+- – di confrontare la copia della fattura definitiva con quella provvisoria e, se è il caso, d’accertare le differenze. Se la copia d’una fattura definitiva non è sottoposta alla Camera francese di commercio in Ginevra, durante la validità dei permessi d’importazione, quella Camera ne informerà la «Commission d’exportation des vins de France» che la reclamerà al fornitore;
+- – di tenere a disposizione dei servizi di controllo questa contabilità e i documenti necessari al controllo;
+- – di riscuotere le tasse regolamentari.
+
+Per le ditte la cui esportazione supera annualmente una quantità da determinarsi, la Camera francese di commercio, in Ginevra, è tenuta a domandare dei permessi individuali per l’esercizio del commercio dei vini secondo il citato decreto del Consiglio federale.
+
+[^lvlB-1]: [[RU 1959 429](https://fedlex.data.admin.ch/eli/oc/1959/435_453_429), [1982 323](https://fedlex.data.admin.ch/eli/oc/1982/323_323_323), [1984 340](https://fedlex.data.admin.ch/eli/oc/1984/340_340_340), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 9. [RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182)art. 14 lett. a]
+[^lvlB-2]: [[RU 1961 645](https://fedlex.data.admin.ch/eli/oc/1961/621_630_645), [1982 1236](https://fedlex.data.admin.ch/eli/oc/1982/1236_1236_1236)[2302](https://fedlex.data.admin.ch/eli/oc/1982/2302_2302_2302). [RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182)art. 14 lett. b]
+
+## C. D Disposizioni finali
+
+Le autorità svizzere e le francesi si scambieranno quanto prima le informazioni necessarie alla vigilanza sulle operazioni fatte nell’ambito del contingente speciale e alla repressione delle infrazioni.
+
+Ove un esportatore contravvenga alle disposizioni dei presente protocollo, le autorità federali domanderanno contro lo stesso alle autorità francesi l’esclusione temporanea da questo contingente. La decisione d’esclusione sarà presa dalle autorità francesi, sentito il parere d’una commissione di periti designata a questo scopo. Questa decisione sarà comunicata alle autorità federali.
+
+Il destinatario di vini da importare nell’ambito di questo contingente, che contravvenga alle disposizioni del presente protocollo, segnatamente non adempia le condizioni stipulate nell’«attestazione», secondo il capo A, numero 1, lettera a, da lui firmata, sarà dalle autorità federali escluso, per uno spazio di tempo determinato, dalla concessione di permessi d’importazione. In questo caso, il nome del destinatario e le misure prese contro di lui saranno comunicate alle autorità francesi.
+
+Il presente protocollo sarà ratificato non appena possibile. Esso entrerà in vigore il 1<sup>o</sup> ottobre 1965.
+
+*Allegato:* un’attestazione.
+
+Parigi, 11 giugno 1965.
+
+(Seguono le firme)
+
+Allegato
+
+<table>
+<tr><td>Ufficio delle importazioni ed esportazioni (Divisione del commercio del DFEP[^t-2]) Berna</td><td>N. del permesso d’importazione</td></tr>
+</table>
+
+**Attestazione**
+
+per ottenere un Permesso d’importazione di vino francese d’«appellation contrôlée»
+
+(La presente attestazione dev’essere unita alla domanda d’importazione di vino a carico del contingente speciale riservato alla clientela particolare svizzera)
+
+<table>
+<tr><td>Il sottoscritto,</td></tr>
+<tr><td>cognome e nome</td></tr>
+<tr><td>professione o genere d’azienda</td></tr>
+<tr><td>indirizzo esatto</td></tr>
+</table>
+
+certifica all’Ufficio delle importazioni ed esportazioni, in Berna,
+
+d’avere ordinato alla ditta (nome e indirizzo del fornitore francese)
+
+<table>
+<tr><td>Quantità in l</td><td>«Appellations» esatta, ev. annata del vino</td><td>Ammontare totale della fattura in franchi svizzeri</td><td>\* franco frontiera non sdoganato</td></tr>
+<tr><td>................</td><td>.....................................................</td><td>..............................</td><td>\* franco domicilio</td></tr>
+<tr><td>................</td><td>.....................................................</td><td>..............................</td><td>sdoganato</td></tr>
+<tr><td>................</td><td>.....................................................</td><td>..............................</td><td>\* dalla stazione di partenza</td></tr>
+<tr><td></td><td colspan="3">Data della fornitura</td></tr>
+</table>
+
+Egli dichiara che le indicazioni che precedono corrispondono alla sua ordinazione e si obbliga ad adoperare il vino ordinato unicamente per suo uso personale rispettivamente per il consumo nel suo albergo o ristorante, escluso ogni commercio. Prende nota che un impiego dei permessi contrario alla dichiarazione fatta e/o un impiego del vino importato non conforme all’obbligo sottoscritto e ogni altra contravvenzione al protocollo franco/svizzero dell’11 giugno 1965 (pubblicato nella Raccolta delle leggi federali 1965, a pag. 547) implica, secondo il capo C dello stesso l’esclusione dalla concessione d’altri permessi d’importazione per uno spazio di tempo determinato.
+
+Egli autorizza il suo fornitore a presentare in suo nome una domanda d’importazione. Ove questa possa essere accolta nell’ambito del contingente disponibile, egli desidera che il permesso corrispondente sia spedito dalla Camera francese di commercio per la Svizzera, in Ginevra, contro rimborso della tassa e delle spese.
+
+<table>
+<tr><td>\* al suo indirizzo summenzionato: \* al mandatario del suo fornitore alla frontiera: \* Cancellare quello che non fa al caso</td><td></td><td>Luogo e data: Firma propria del cliente</td></tr>
+</table>
+
+**Dichiarazione**
+
+della persona che ha effettivamente assunto l’ordinazione
+
+<table>
+<tr><td colspan="2">Il sottoscritto</td></tr>
+<tr><td>(nome, qualità e indirizzo esatti)</td><td></td></tr>
+</table>
+
+certifica che le indicazioni che precedono corrispondono all’ordinazione da lui assunta per conto della ditta francese summenzionata.
+
+<table>
+<tr><td>Firma:</td></tr>
+</table>
+
+[^t-2]: Ora: Segreteria di Stato dell'economia del Dipartimento federale dell'economia, della formazione e della ricerca (vedi RU **2012** 3631).

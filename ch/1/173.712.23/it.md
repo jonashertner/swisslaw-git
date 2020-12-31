@@ -1,0 +1,198 @@
+---
+sr: "173.712.23"
+title: "Ordinanza dell'Assemblea federale del 1° ottobre 2010 concernente i rapporti di lavoro e la retribuzione del procuratore generale della Confederazione e dei sostituti procuratori generali"
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/651"
+language: it
+version: 2015-07-01
+adopted: 2010-10-01
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20150701/it/xml/fedlex-data-admin-ch-eli-cc-2010-651-20150701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20150701/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’Assemblea federale concernente i rapporti di lavoro e la retribuzione del procuratore generale della Confederazione e dei sostituti procuratori generali
+
+del 1° ottobre 2010 (Stato 1° luglio 2015) (Stato 1° luglio 2015)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 22 capoverso 1 della legge del 19 marzo 2010[^ingress-1] sull’organizzazione delle autorità penali (LOAP); visto il rapporto della Commissione degli affari giuridici del Consiglio degli Stati del 20 maggio 2010[^ingress-2]; visto il parere del Consiglio federale del 4 giugno 2010[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-2]: [FF 2010 3601](https://fedlex.data.admin.ch/eli/fga/2010/674)
+[^ingress-3]: [FF 2010 3629](https://fedlex.data.admin.ch/eli/fga/2010/679)
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+La presente ordinanza disciplina i rapporti di lavoro e la retribuzione del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione.
+
+## Sezione 2: Costituzione e risoluzione del rapporto di lavoro
+
+#### Art. 2
+
+**Costituzione del rapporto di lavoro**
+
+<sup>1</sup> Il rapporto di lavoro sorge in forza della decisione di nomina dell’Assemblea federale, fermo restando l’accordo dell’interessato.
+
+<sup>2</sup> I dettagli del rapporto di lavoro (inizio, stipendio iniziale, previdenza professionale) sono determinati dalla Commissione giudiziaria di regola prima dell’elezione e con riserva della stessa.
+
+#### Art. 3
+
+**Giuramento e promessa solenne**
+
+<sup>1</sup> Prima di entrare in carica, il procuratore generale e i sostituti procuratori generali giurano o promettono solennemente di adempiere coscienziosamente il loro dovere.
+
+<sup>2</sup> Prestano giuramento o promessa solenne dinanzi all’autorità di vigilanza sul Ministero pubblico della Confederazione (autorità di vigilanza).
+
+#### Art. 4
+
+**Durata della carica**
+
+<sup>1</sup> La durata della carica è disciplinata dall’articolo 20 capoverso 3 LOAP.
+
+<sup>2</sup> Il procuratore generale e i sostituti procuratori generali che raggiungono l’età ordinaria di pensionamento secondo le disposizioni in materia di rapporti di lavoro del personale federale lasciano la carica alla fine dell’anno civile.
+
+<sup>3</sup> I seggi divenuti vacanti sono riassegnati per il resto del periodo.
+
+#### Art. 5
+
+**Disdetta**
+
+<sup>1</sup> Il procuratore generale e i sostituti procuratori generali possono disdire il rapporto di lavoro per la fine di ogni mese con un termine di disdetta di sei mesi.
+
+<sup>2</sup> In singoli casi, la Commissione giudiziaria può accordare un termine di disdetta più breve se nessun interesse essenziale vi si oppone.
+
+## Sezione 3: Retribuzione
+
+#### Art. 6
+
+**Stipendio**
+
+<sup>1</sup> Il procuratore generale della Confederazione è classificato nella classe di stipendio 36 e i sostituti procuratori generali nella classe di stipendio 33 secondo l’articolo 36 dell’ordinanza del 3 luglio 2001[^6-1] sul personale federale (OPers).
+
+<sup>2</sup> La Commissione giudiziaria determina lo stipendio iniziale. Al riguardo tiene conto dell’età, della formazione e dell’esperienza professionale e di vita del candidato, nonché della situazione sul mercato del lavoro.
+
+<sup>3</sup> Lo stipendio aumenta il 1° gennaio di ogni anno del tre percento dell’importo massimo della classe di stipendio fino raggiungere tale importo massimo.
+
+<sup>4</sup> Non sono versati premi di prestazione secondo l’articolo 49 OPers.
+
+[^6-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+#### Art. 7
+
+**Indennità di residenza, compensazione del rincaro, assegno familiare, assegno per l’assistenza a congiunti**
+
+L’indennità di residenza, la compensazione del rincaro, l’assegno familiare e l’assegno per l’assistenza a congiunti sono disciplinati dalle disposizioni concernenti i rapporti di lavoro del personale federale.
+
+## Sezione 4: Prestazioni sociali
+
+#### Art. 8
+
+<sup>1</sup> Le prestazioni che il datore di lavoro versa in caso d’impedimento al lavoro dovuto a malattia, infortunio, invalidità, servizio militare, servizio di protezione civile, servizio civile e maternità, nonché le prestazioni che il datore di lavoro versa ai superstiti in caso di decesso, sono disciplinate dalle disposizioni concernenti i rapporti di lavoro del personale federale.
+
+<sup>2</sup> Il procuratore generale e i sostituti procuratori generali sono assicurati presso la cassa di previdenza della Confederazione PUBLICA contro le conseguenze economiche di vecchiaia, invalidità e morte.
+
+## Sezione 5: Grado di occupazione, vacanze e congedi
+
+#### Art. 9
+
+**Grado di occupazione**
+
+Il procuratore generale e i sostituti procuratori generali esercitano la loro attività a tempo pieno.
+
+#### Art. 10
+
+**Vacanze**
+
+<sup>1</sup>
+
+Ogni anno civile il procuratore generale e i sostituti procuratori generali hanno diritto a:
+
+- a. 5 settimane di vacanza fino all’anno civile in cui compiono il 49° anno d’età;
+- b. 6 settimane di vacanza a partire dall’anno civile in cui compiono il 50° anno d’età;
+- c. 7 settimane di vacanza a partire dall’anno civile in cui compiono il 60° anno d’età.
+
+<sup>2</sup> Di regola, le vacanze devono essere prese nel corso dell’anno civile in cui nasce il diritto. Se non è possibile, devono essere prese l’anno successivo.
+
+#### Art. 11
+
+**Congedo**
+
+<sup>1</sup> Su richiesta, l’autorità di vigilanza può concedere un congedo al procuratore generale e ai sostituti procuratori generali.
+
+<sup>2</sup> Nell’esame della richiesta, l’autorità di vigilanza tiene conto delle disposizioni concernenti il congedo del personale federale.
+
+## Sezione 6: Rimborso delle spese
+
+#### Art. 12
+
+<sup>1</sup> Al procuratore generale e ai sostituti procuratori generali sono rimborsate le spese supplementari sostenute nell’esercizio della loro funzione.
+
+<sup>2</sup>
+
+Gli importi stabiliti dal Dipartimento federale delle finanze per il personale federale si applicano in analogia per:
+
+- a. pasti, alloggio e viaggi;
+- b. viaggi di servizio all’estero;
+- c. partecipazione a conferenze internazionali;
+- d. trasloco per motivi di servizio;
+- e. spese di rappresentanza.
+
+## Sezione 7: Obblighi
+
+#### Art. 13
+
+**Domicilio**
+
+Il procuratore generale e i sostituti procuratori generali devono avere domicilio in Svizzera.
+
+#### Art. 14
+
+**Segreto d’ufficio**
+
+<sup>1</sup> Il procuratore generale e i sostituti procuratori generali sono tenuti a mantenere il segreto d’ufficio sui fatti di cui sono venuti a conoscenza nell’esercizio della loro funzione.
+
+<sup>2</sup> L’autorità di vigilanza è considerata autorità superiore competente per sciogliere dal segreto d’ufficio (art. 320 n. 2 del Codice penale[^14-1]).
+
+[^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## Sezione 7*a*:**** Indennità in caso di risoluzione del rapporto di lavoro
+
+[^sec7a-1]
+
+[^sec7a-1]: Introdotta dal n. I 2 dell’O dell’AF del 19 giu. 2015 concernente l’indennità in caso di risoluzione del rapporto di lavoro, in vigore dal 1° lug. 2015 e applicabile per la prima volta alle elezioni a partire dal 2015 ([RU 2015 2057](https://fedlex.data.admin.ch/eli/oc/2015/384); [FF 2015 1861](https://fedlex.data.admin.ch/eli/fga/2015/421)[1885](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+
+#### Art. 14a
+
+<sup>1</sup> In caso di risoluzione del rapporto di lavoro, e se la situazione lo giustifica, l’autorità di vigilanza può versare al procuratore generale o ai sostituti procuratori generali un’indennità pari al massimo a uno stipendio annuo. Tiene conto in particolare dell’età, della situazione personale e professionale, della durata dell’impiego e delle circostanze della risoluzione del rapporto di lavoro.
+
+<sup>2</sup> Il versamento dell’indennità necessita dell’approvazione della Delegazione delle finanze delle Camere federali.
+
+<sup>3</sup>
+
+Il versamento di un’indennità è escluso se il procuratore generale o il sostituto procuratore generale:
+
+- a. lascia la funzione poiché raggiunge l’età ordinaria di pensionamento;
+- b. è stato destituito o non è stato rieletto per aver violato gravemente i doveri d’ufficio; o
+- c. di propria iniziativa ha disdetto il rapporto di lavoro o non si candida alla rielezione.
+
+<sup>4</sup> L’indennità è versata sotto forma di prestazione in capitale.
+
+<sup>5</sup>
+
+Il beneficiario deve restituire tutta o parte dell’indennità se:
+
+- a. inizia un nuovo rapporto di lavoro entro un anno dalla risoluzione del rapporto di lavoro; e
+- b. l’autorità di vigilanza ritiene opportuno chiederne la restituzione tenendo conto dell’ammontare dell’indennità, del numero di mesi trascorsi senza rapporto di lavoro e dell’importo del nuovo stipendio.
+
+## Sezione 8: Entrata in vigore
+
+#### Art. 15
+
+La presente ordinanza entra in vigore il 1° gennaio 2011.

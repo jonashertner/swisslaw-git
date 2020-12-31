@@ -1,0 +1,708 @@
+---
+sr: "810.11"
+title: "Bundesgesetz vom 18. Dezember 1998 über die medizinisch unterstützte Fortpflanzung (Fortpflanzungsmedizingesetz, FMedG)"
+short: FMedG
+eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
+language: de
+version: 2017-09-01
+adopted: 1998-12-18
+in_force: 2001-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20170901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20170901/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die medizinisch unterstützte Fortpflanzung
+
+(Fortpflanzungsmedizingesetz, FMedG)
+
+vom 18. Dezember 1998 (Stand am 1. September 2017)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 119 Absatz 2 und 122 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2]
+
+nach Einsicht in die Botschaft des Bundesrates vom 26. Juni 1996[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^ingress-3]: [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand und Zweck**
+
+<sup>1</sup> Dieses Gesetz legt fest, unter welchen Voraussetzungen die Verfahren der medizinisch unterstützten Fortpflanzung beim Menschen angewendet werden dürfen.
+
+<sup>2</sup> Es schützt die Menschenwürde, die Persönlichkeit sowie die Familie und verbietet missbräuchliche Anwendungen der Bio- und der Gentechnologie.
+
+<sup>3</sup> Es sieht die Einsetzung einer nationalen Ethikkommission vor.
+
+#### Art. 2
+
+**Begriffe**
+
+In diesem Gesetz bedeuten:
+
+- a. *Verfahren der medizinisch unterstützten Fortpflanzung (Fortpflanzungsve**r**fahren):* Methoden zur Herbeiführung einer Schwangerschaft ohne Geschlechtsverkehr, insbesondere Insemination, In-vitro-Fertilisation mit Embryotransfer sowie Gametentransfer;
+- b. *Insemination:* das instrumentelle Einbringen von Samenzellen in die Geschlechtsorgane der Frau;
+- c. *In-vitro-Fertilisation:* die Vereinigung einer Eizelle mit Samenzellen ausserhalb des Körpers der Frau;
+- d. *Gametentransfer:* das instrumentelle Einbringen von Samen- und Eizellen in die Gebärmutter oder in einen Eileiter der Frau;
+- e. *Keimzellen (Gameten):* Samen- und Eizellen;
+- f. *Keimbahnzellen:* Keimzellen (einschliesslich ihrer Vorläuferzellen), imprägnierte Eizellen und embryonale Zellen, deren genetisches Material an Nachkommen vererbt werden kann;
+- g. *Imprägnation:* das Bewirken des Eindringens einer Samenzelle in das Plasma der Eizelle, namentlich durch Insemination, Gametentransfer oder In‑vitro-Fertilisation;
+- h. *imprägnierte Eizelle:* die befruchtete Eizelle vor der Kernverschmelzung;
+- i. *Embryo:* die Frucht von der Kernverschmelzung bis zum Abschluss der Organentwicklung;
+- j. *Fötus:* die Frucht vom Abschluss der Organentwicklung bis zur Geburt;
+- k. *Leihmutter:* eine Frau, die bereit ist, durch ein Fortpflanzungsverfahren ein Kind zu empfangen, es auszutragen und nach der Geburt Dritten auf Dauer zu überlassen;
+- l. *Klonen:* die künstliche Erzeugung genetisch identischer Wesen;
+- m. *Chimärenbildung:* die Vereinigung totipotenter Zellen aus zwei oder mehreren genetisch unterschiedlichen Embryonen zu einem Zellverband. Totipotent sind embryonale Zellen, welche die Fähigkeit haben, sich zu jeder spezialisierten Zelle zu entwickeln;
+- n. *Hybridbildung:* das Bewirken des Eindringens einer nichtmenschlichen Samenzelle in eine menschliche Eizelle oder einer menschlichen Samenzelle in eine nichtmenschliche Eizelle.
+
+## 2. Kapitel: Verfahren der medizinisch unterstützten Fortpflanzung
+
+### 1. Abschnitt: Grundsätze
+
+#### Art. 3
+
+**Kindeswohl**
+
+<sup>1</sup> Fortpflanzungsverfahren dürfen nur angewendet werden, wenn das Kindeswohl gewährleistet ist.
+
+<sup>2</sup>
+
+Sie dürfen nur bei Paaren angewendet werden:
+
+- a. zu denen ein Kindesverhältnis im Sinne der Artikel 252–263 des Zivilgesetzbuchs[^3-1] (ZGB) begründet werden kann; und
+- b.[^3-2] die auf Grund ihres Alters und ihrer persönlichen Verhältnisse voraussichtlich bis zur Volljährigkeit des Kindes für dessen Pflege und Erziehung sorgen können.
+
+<sup>3</sup> Gespendete Samenzellen dürfen nur bei Ehepaaren verwendet werden.
+
+<sup>4</sup> Keimzellen dürfen nach dem Tod der Person, von der sie stammen, nicht mehr verwendet werden. Ausgenommen sind Samenzellen von Samenspendern.[^3-3]
+
+<sup>5</sup> Imprägnierte Eizellen und Embryonen *in vitro* dürfen nach dem Tod eines Teils des betroffenen Paares nicht mehr verwendet werden.[^3-4]
+
+[^3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-2]: Fassung gemäss Anhang Ziff. 20 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^3-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^3-4]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 4
+
+**Verbotene Praktiken**
+
+Die Ei- und die Embryonenspende sowie die Leihmutterschaft sind unzulässig.
+
+#### Art. 5
+
+**Zulässigkeitsvoraussetzungen von Fortpflanzungsverfahren**[^5-1]
+
+Ein Fortpflanzungsverfahren darf nur angewendet werden, wenn:
+
+- a. damit die Unfruchtbarkeit eines Paares überwunden werden soll und die anderen Behandlungsmethoden versagt haben oder aussichtslos sind; oder
+- b. die Gefahr, dass eine schwere Krankheit auf die Nachkommen übertragen wird, anders nicht abgewendet werden kann.
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 5a
+
+**Untersuchung des Erbguts von Keimzellen und von Embryonen *in vitro* und deren Auswahl**[^5a-1]
+
+<sup>1</sup> Die Untersuchung des Erbguts von Keimzellen und deren Auswahl zur Beeinflussung des Geschlechts oder anderer Eigenschaften des Kindes sind nur zulässig zur Erkennung chromosomaler Eigenschaften, die die Entwicklungsfähigkeit des zu zeugenden Embryos beeinträchtigen können, oder wenn die Gefahr, dass die Veranlagung für eine schwere Krankheit übertragen wird, anders nicht abgewendet werden kann. Vorbehalten bleibt Artikel 22 Absatz 4.
+
+<sup>2</sup>
+
+Die Untersuchung des Erbguts von Embryonen *in vitro* und deren Auswahl nach ihrem Geschlecht oder nach anderen Eigenschaften sind nur zulässig, wenn:
+
+- a. die Gefahr, dass sich ein Embryo mit einer vererbbaren Veranlagung für eine schwere Krankheit in der Gebärmutter einnistet, anders nicht abgewendet werden kann;
+- b. es wahrscheinlich ist, dass die schwere Krankheit vor dem 50. Lebensjahr ausbrechen wird;
+- c. keine wirksame und zweckmässige Therapie zur Bekämpfung der schweren Krankheit zur Verfügung steht; und
+- d. das Paar gegenüber der Ärztin oder dem Arzt schriftlich geltend macht, dass ihm die Gefahr nach Buchstabe a nicht zumutbar ist.
+
+<sup>3</sup> Sie sind zudem zulässig zur Erkennung chromosomaler Eigenschaften, die die Entwicklungsfähigkeit des Embryos beeinträchtigen können.
+
+[^5a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 5b
+
+**Einwilligung des Paares**[^5b-1]
+
+<sup>1</sup> Fortpflanzungsverfahren dürfen nur angewendet werden, wenn das betroffene Paar nach hinreichender Information und Beratung schriftlich eingewilligt hat. Sind drei Behandlungszyklen ohne Erfolg geblieben, so ist eine erneute Einwilligung erforderlich; davor muss eine angemessene Bedenkfrist liegen.
+
+<sup>2</sup> Die schriftliche Einwilligung des Paares ist auch für das Reaktivieren von konservierten Embryonen und imprägnierten Eizellen erforderlich.
+
+<sup>3</sup> Besteht bei einem Fortpflanzungsverfahren das erhöhte Risiko einer Mehrlingsschwangerschaft, so darf das Verfahren nur durchgeführt werden, wenn das Paar auch mit der Geburt von Mehrlingen einverstanden ist.
+
+[^5b-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 6
+
+**Information und Beratung**
+
+<sup>1</sup>
+
+Bevor ein Fortpflanzungsverfahren durchgeführt wird, muss die Ärztin oder der Arzt das betroffene Paar hinreichend informieren über:[^6-1]
+
+- a. die verschiedenen Ursachen der Unfruchtbarkeit;
+- b. das medizinische Verfahren sowie dessen Erfolgsaussichten und Gefahren;
+- c. das Risiko einer allfälligen Mehrlingsschwangerschaft;
+- d. mögliche psychische und physische Belastungen; und
+- e. die rechtlichen und finanziellen Aspekte.
+
+<sup>2</sup> Im Beratungsgespräch ist in geeigneter Weise auch auf andere Möglichkeiten der Lebensgestaltung und der Erfüllung des Kinderwunsches hinzuweisen.
+
+<sup>3</sup> Zwischen dem Beratungsgespräch und der Behandlung muss eine angemessene Bedenkfrist liegen, die in der Regel vier Wochen dauert. Auf die Möglichkeit einer unabhängigen Beratung ist hinzuweisen.
+
+<sup>4</sup> Vor, während und nach der Behandlung ist eine psychologische Begleitung anzubieten.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 6a
+
+**Zusätzliche Informations- und Beratungspflichten**[^6a-1]
+
+<sup>1</sup>
+
+Bevor ein Fortpflanzungsverfahren mit Untersuchung des Erbguts von Keimzellen oder Embryonen *in vitro* oder mit Auswahl von gespendeten Samenzellen zur Verhinderung der Übertragung einer schweren Krankheit durchgeführt wird, sorgt die Ärztin oder der Arzt zusätzlich zur Information und Beratung nach Artikel 6 für eine nichtdirektive, fachkundige genetische Beratung. Dabei muss das betroffene Paar hinreichend informiert werden über:
+
+- a. Häufigkeit, Bedeutung, Wahrscheinlichkeit des Ausbruchs und mögliche Ausprägungen der betreffenden Krankheit;
+- b. prophylaktische und therapeutische Massnahmen, die gegen diese Krankheit ergriffen werden können;
+- c. Möglichkeiten der Lebensgestaltung mit einem Kind, das von dieser Krankheit betroffen ist;
+- d. Aussagekraft und Fehlerrisiko der Untersuchung des Erbguts;
+- e. Risiken, die das Fortpflanzungsverfahren für die Nachkommen mit sich bringen kann;
+- f. Vereinigungen von Eltern von Kindern mit Behinderungen, Selbsthilfegruppen sowie Informations- und Beratungsstellen nach Artikel 17 des Bundesgesetzes vom 8. Oktober 2004[^6a-2] über genetische Untersuchungen beim Menschen (GUMG).
+
+<sup>2</sup> Die Beratung darf sich nur auf die individuelle und familiäre Situation des betroffenen Paares beziehen, nicht aber auf allgemeine gesellschaftliche Interessen.
+
+<sup>3</sup> Die Auswahl eines oder mehrerer Embryonen zur Übertragung in die Gebärmutter trifft die Ärztin oder der Arzt im Anschluss an ein weiteres Beratungsgespräch.
+
+<sup>4</sup> Die Beratungsgespräche sind von der Ärztin oder vom Arzt zu dokumentieren.
+
+[^6a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^6a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 6b
+
+**Schutz und Mitteilung genetischer Daten**[^6b-1]
+
+Der Schutz und die Mitteilung genetischer Daten richten sich nach den Artikeln 7 und 19 GUMG[^6b-2].
+
+[^6b-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 7
+
+[^7-1]
+
+[^7-1]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+### 2. Abschnitt: Bewilligungspflicht
+
+#### Art. 8
+
+**Grundsätze**[^8-1]
+
+<sup>1</sup>
+
+Eine Bewilligung des Kantons benötigt, wer:
+
+- a. Fortpflanzungsverfahren anwendet;
+- b. Keimzellen, imprägnierte Eizellen oder Embryonen *in vitro* zur Konservierung entgegennimmt oder gespendete Samenzellen vermittelt, ohne selber Fortpflanzungsverfahren anzuwenden.
+
+<sup>2</sup> Laboratorien, die bei Fortpflanzungsverfahren nach Artikel 5*a* Untersuchungen des Erbguts durchführen, benötigen eine Bewilligung nach Artikel 8 Absatz 1 GUMG[^8-2].
+
+<sup>3</sup> Für die Insemination mit Samenzellen des Partners ist keine Bewilligung erforderlich.
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^8-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 9
+
+**Anwendung von Fortpflanzungsverfahren**
+
+<sup>1</sup> Die Bewilligung nach Artikel 8 Absatz 1 Buchstabe a wird nur Ärztinnen und Ärzten erteilt.[^9-1]
+
+<sup>2</sup>
+
+Diese müssen:
+
+- a. über die nötige Ausbildung und Erfahrung in den Methoden der medizinisch unterstützten Fortpflanzung verfügen;
+- b. Gewähr für eine sorgfältige, gesetzeskonforme Tätigkeit bieten;
+- c. zusammen mit den Mitarbeiterinnen und Mitarbeitern eine umfassende medizinische, fortpflanzungsbiologische und sozialpsychologische Beratung und Betreuung der zu behandelnden Personen gewährleisten;
+- d. über die notwendige Laborausrüstung verfügen;
+- e.[^9-2] sicherstellen, dass die Keimzellen, imprägnierten Eizellen und Embryonen *in vitro* nach dem Stand von Wissenschaft und Praxis konserviert werden.
+
+<sup>3</sup>
+
+Wird im Rahmen des Fortpflanzungsverfahrens das Erbgut von Keimzellen oder Embryonen *in vitro* untersucht, müssen sie zudem:
+
+- a. sich über hinreichende Kenntnisse im Bereich der medizinischen Genetik ausweisen; und
+- b. gewährleisten, dass das Verfahren und die Zusammenarbeit mit den beteiligten Laboratorien dem Stand von Wissenschaft und Praxis entsprechen.[^9-3]
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 10
+
+**Konservierung und Vermittlung von Keimzellen, imprägnierten Eizellen und Embryonen *in vitro*[^10-1]**
+
+<sup>1</sup> Die Bewilligung nach Artikel 8 Absatz 1 Buchstabe b wird nur Ärztinnen und Ärzten erteilt.[^10-2]
+
+<sup>2</sup>
+
+Diese müssen:
+
+- a. Gewähr für eine sorgfältige, gesetzeskonforme Tätigkeit bieten;
+- b. zusammen mit den Mitarbeiterinnen und Mitarbeitern eine sorgfältige Auswahl der Samenspender gewährleisten; und
+- c.[^10-3] sicherstellen, dass die Keimzellen, imprägnierten Eizellen und Embryonen *in vitro* nach dem Stand von Wissenschaft und Praxis konserviert werden.
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 11
+
+**Berichterstattung**
+
+<sup>1</sup> Personen mit einer Bewilligung nach Artikel 8 Absatz 1 müssen der kantonalen Bewilligungsbehörde jährlich über ihre Tätigkeit Bericht erstatten.[^11-1]
+
+<sup>2</sup>
+
+Der Bericht muss Auskunft geben über:
+
+- a. die Zahl und die Art der Behandlungen;
+- b. die Art der Indikationen;
+- c. die Verwendung gespendeter Samenzellen;
+- d. die Zahl der Schwangerschaften und deren Ausgang;
+- e.[^11-2] die Konservierung und Verwendung von Keimzellen, imprägnierten Eizellen und Embryonen *in vitro*;
+- f. die Anzahl der überzähligen Embryonen.
+
+<sup>3</sup> Er darf keine Angaben enthalten, die auf bestimmte Personen schliessen lassen.
+
+<sup>4</sup> Die kantonale Bewilligungsbehörde übermittelt die Daten dem Bundesamt für Statistik zur Auswertung und Veröffentlichung.[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 12
+
+**Aufsicht**[^12-1]
+
+<sup>1</sup>
+
+Die Bewilligungsbehörde kontrolliert, ob:
+
+- a. die Voraussetzungen für die Bewilligungserteilung erfüllt sind;
+- b. die Pflichten sowie allfällige Auflagen eingehalten werden.
+
+<sup>2</sup> Sie nimmt Inspektionen vor und kann dazu Grundstücke, Betriebe und Räume betreten. Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat der Bewilligungsbehörde die erforderlichen Auskünfte und Unterlagen sowie jede andere Unterstützung auf Verlangen unentgeltlich zur Verfügung zu stellen.
+
+<sup>3</sup> Sie kann alle Massnahmen treffen, die zum Vollzug dieses Gesetzes notwendig sind. Insbesondere kann sie bei schweren Verstössen gegen dieses Gesetz die Benützung von Räumen oder Einrichtungen verbieten, Betriebe schliessen und Bewilligungen sistieren oder widerrufen.
+
+<sup>4</sup> Der Bundesrat kann Organisationen und Personen des öffentlichen oder des privaten Rechts Vollzugsaufgaben, insbesondere Kontrollaufgaben, übertragen. Er sorgt für die finanzielle Abgeltung der übertragenen Aufgaben.
+
+[^12-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 13
+
+[^13-1]
+
+[^13-1]: Aufgehoben durch Anhang Ziff. 87 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 14
+
+**Ausführungsbestimmungen**
+
+Der Bundesrat erlässt die Ausführungsbestimmungen über Erteilung und Entzug der Bewilligung sowie über Berichterstattung und Aufsicht.
+
+### 2*a*. Abschnitt:**** Evaluation
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 14a
+
+<sup>1</sup> Das Bundesamt für Gesundheit (BAG) sorgt dafür, dass die Auswirkungen derjenigen Bestimmungen dieses Gesetzes, welche die Untersuchung des Erbgutes von Embryonen *in vitro* und deren Auswahl betreffen, evaluiert werden.
+
+<sup>2</sup>
+
+Die Evaluation betrifft insbesondere:
+
+- a. die Übereinstimmung der nach Artikel 11 Absatz 2 Buchstabe b gemeldeten Indikationen für Fortpflanzungsverfahren mit Untersuchung des Erbguts von Embryonen zur Verhinderung der Übertragung der Veranlagung für eine schwere Krankheit einerseits mit den Zulässigkeitsvoraussetzungen nach Artikel 5*a* Absatz 2 andererseits;
+- b. die Erhebung der Anzahl Paare und der durchgeführten Verfahren sowie deren Resultate;
+- c. die Abläufe im Rahmen von Vollzug und Aufsicht;
+- d. die Auswirkungen auf die Gesellschaft.
+
+<sup>3</sup> Die Inhaberinnen und Inhaber einer Bewilligung nach Artikel 8 Absatz 1 haben dem BAG und der mit der Durchführung der Evaluation beauftragten Person auf Verlangen die für die Evaluation notwendigen Daten in anonymisierter Form zur Verfügung zu stellen.
+
+<sup>4</sup> Das Eidgenössische Departement des Innern erstattet dem Bundesrat nach Abschluss der Evaluation Bericht und unterbreitet Vorschläge für das weitere Vorgehen.
+
+### 3. Abschnitt: Umgang mit Keimgut
+
+#### Art. 15
+
+**Konservierung von Keimzellen**
+
+<sup>1</sup> Keimzellen dürfen nur mit schriftlicher Einwilligung der Person, von der sie stammen, und während höchstens fünf Jahren konserviert werden. Auf Antrag dieser Person wird die Konservierungsdauer um maximal fünf Jahre verlängert.[^15-1]
+
+<sup>2</sup> Eine längere Konservierungsdauer kann vereinbart werden mit Personen, die im Hinblick auf die Erzeugung eigener Nachkommen ihre Keimzellen konservieren lassen, weil eine ärztliche Behandlung, der sie sich unterziehen, oder eine Tätigkeit, die sie ausüben, zur Unfruchtbarkeit oder zu einer Schädigung des Erbgutes führen kann.
+
+<sup>3</sup> Die Person, von der die Keimzellen stammen, kann ihre Einwilligung in die Konservierung und Verwendung jederzeit schriftlich widerrufen.
+
+<sup>4</sup> Bei Widerruf der Einwilligung oder bei Ablauf der Konservierungsdauer sind die Keimzellen sofort zu vernichten.
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 16
+
+**Konservierung von imprägnierten Eizellen und Embryonen *in vitro*[^16-1]**
+
+<sup>1</sup>
+
+Imprägnierte Eizellen und Embryonen *in vitro* dürfen nur konserviert werden, wenn:[^16-2]
+
+- a.[^16-3] das betroffene Paar seine schriftliche Einwilligung gibt; und
+- b. die Konservierung der späteren Herbeiführung einer Schwangerschaft dient.
+
+<sup>2</sup> Die Konservierungsdauer ist auf fünf Jahre begrenzt. Sie wird auf Antrag des betroffenen Paares um maximal fünf Jahre verlängert.[^16-4]
+
+<sup>3</sup> Jeder der beiden Partner kann die Einwilligung jederzeit schriftlich widerrufen.
+
+<sup>4</sup> Bei Widerruf der Einwilligung und bei Ablauf der Konservierungsfrist sind die imprägnierten Eizellen und die Embryonen *in vitro* sofort zu vernichten. Vorbehalten bleiben die Bestimmungen des Stammzellenforschungsgesetzes vom 19. Dezember 2003[^16-5].[^16-6]
+
+<sup>5</sup> …[^16-7]
+
+[^16-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-4]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-5]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^16-6]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-7]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 17
+
+**Entwicklung von Embryonen**
+
+<sup>1</sup> Ausserhalb des Körpers der Frau dürfen innerhalb eines Behandlungszyklus höchstens so viele menschliche Eizellen zu Embryonen entwickelt werden, als für die medizinisch unterstützte Fortpflanzung oder für die Untersuchung des Erbgutes der Embryonen notwendig sind; es dürfen jedoch höchstens zwölf sein.[^17-1]
+
+<sup>2</sup> Der Embryo darf ausserhalb des Körpers der Frau nur so weit entwickelt werden, als für die Einnistung in der Gebärmutter unerlässlich ist.
+
+<sup>3</sup> …[^17-2]
+
+[^17-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^17-2]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+### 4. Abschnitt: Samenspende
+
+#### Art. 18
+
+**Einwilligung und Information des Spenders**
+
+<sup>1</sup> Gespendete Samenzellen dürfen nur im Rahmen der zulässigen Fortpflanzungsverfahren und nur für Zwecke verwendet werden, in die der Spender schriftlich eingewilligt hat.
+
+<sup>2</sup> Der Spender muss vor der Samenspende schriftlich über die Rechtslage unterrichtet werden, namentlich über das Recht des Kindes, Auskunft über die Spenderakten zu erhalten (Art. 27).
+
+#### Art. 19
+
+**Auswahl von Spendern**
+
+<sup>1</sup> Spender müssen nach medizinischen Gesichtspunkten sorgfältig ausgewählt werden; namentlich müssen gesundheitliche Risiken für die Empfängerin der gespendeten Samenzellen so weit wie möglich ausgeschlossen sein. Andere Auswahlkriterien sind verboten.
+
+<sup>2</sup> Der Spender darf seine Samenzellen nur einer Stelle zur Verfügung stellen; er ist vor der Spende ausdrücklich darauf hinzuweisen.
+
+#### Art. 20
+
+**Vermittlung gespendeter Samenzellen**
+
+<sup>1</sup> Gespendete Samenzellen dürfen nur an Personen vermittelt werden, die eine Bewilligung zur Anwendung von Fortpflanzungsverfahren haben; dabei sind die Angaben nach Artikel 24 Absatz 2 beizufügen.
+
+<sup>2</sup> Wer gespendete Samenzellen entgegennimmt, muss darüber wachen, dass Artikel 22 Absatz 2 eingehalten wird.
+
+#### Art. 21
+
+**Unentgeltlichkeit**
+
+Die Samenspende als solche ist unentgeltlich.
+
+#### Art. 22
+
+**Verwendung gespendeter Samenzellen**
+
+<sup>1</sup> Innerhalb eines Zyklus dürfen nicht Samenzellen verschiedener Spender verwendet werden.
+
+<sup>2</sup> Die Samenzellen eines Spenders dürfen für die Erzeugung von höchstens acht Kindern verwendet werden.
+
+<sup>3</sup> Bei der Anwendung eines Fortpflanzungsverfahrens darf zwischen den Personen, von denen die Keimzellen stammen, kein Ehehindernis nach Artikel 95 ZGB[^22-1] bestehen.
+
+<sup>4</sup> Bei der Auswahl gespendeter Samenzellen dürfen nur die Blutgruppe und die Ähnlichkeit der äusseren Erscheinung des Spenders mit dem Mann, zu dem ein Kindesverhältnis begründet werden soll, berücksichtigt werden.
+
+[^22-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 23
+
+**Kindesverhältnis**
+
+<sup>1</sup> Das Kind, das nach den Bestimmungen dieses Gesetzes durch eine Samenspende gezeugt worden ist, kann das Kindesverhältnis zum Ehemann der Mutter nicht anfechten. Für die Anfechtungsklage des Ehemannes ist das ZGB[^23-1] anwendbar.
+
+<sup>2</sup> Ist ein Kind durch eine Samenspende gezeugt worden, so ist die Vaterschaftsklage gegen den Samenspender (Art. 261 ff. ZGB) ausgeschlossen; die Klage ist jedoch zulässig, wenn die Samenspende wissentlich bei einer Person erfolgt, die keine Bewilligung für die Fortpflanzungsverfahren oder für die Konservierung und Vermittlung gespendeter Samenzellen hat.
+
+[^23-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 24
+
+**Dokumentationspflicht**
+
+<sup>1</sup> Wer gespendete Samenzellen entgegennimmt oder verwendet, muss die Spende auf zuverlässige Weise dokumentieren.
+
+<sup>2</sup>
+
+Über den Spender sind insbesondere folgende Daten festzuhalten:
+
+- a. Name und Vorname, Geburtstag und Geburtsort, Wohnort, Heimatort oder Nationalität, Beruf und Ausbildung;
+- b. Datum der Samenspende;
+- c. Ergebnisse der medizinischen Untersuchung;
+- d. Angaben zur äusseren Erscheinung.
+
+<sup>3</sup>
+
+Über die Frau, für welche die gespendeten Samenzellen verwendet werden, und ihren Ehemann sind folgende Daten festzuhalten:
+
+- a. Name und Vorname, Geburtstag und Geburtsort, Wohnort, Heimatort oder Nationalität;
+- b. Datum der Verwendung der Samenzellen.
+
+#### Art. 25
+
+**Übermittlung der Daten**
+
+<sup>1</sup> Die behandelnde Ärztin oder der behandelnde Arzt muss die Daten nach Artikel 24 unverzüglich nach der Geburt des Kindes dem Eidgenössischen Amt für das Zivilstandswesen (Amt) übermitteln.
+
+<sup>2</sup> Ist der Ärztin oder dem Arzt eine Geburt nicht bekannt geworden, so sind die Daten unverzüglich nach dem errechneten Geburtstermin zu übermitteln, es sei denn, es stehe fest, dass die Behandlung nicht zum Erfolg geführt hat.
+
+<sup>3</sup> Der Bundesrat erlässt die erforderlichen Datenschutzbestimmungen.
+
+#### Art. 26
+
+**Aufbewahrung der Daten**
+
+Das Amt bewahrt die Daten während 80 Jahren auf.
+
+#### Art. 27
+
+**Auskunft**
+
+<sup>1</sup> Hat das Kind das 18. Lebensjahr vollendet, so kann es beim Amt Auskunft über die äussere Erscheinung und die Personalien des Spenders (Art. 24 Abs. 2 Bst. a und d) verlangen.
+
+<sup>2</sup> Im Übrigen kann es jederzeit Auskunft über alle Daten des Spenders (Art. 24 Abs. 2) verlangen, wenn es ein schutzwürdiges Interesse daran hat.
+
+<sup>3</sup> Bevor das Amt Auskunft über die Personalien erteilt, informiert es wenn möglich den Spender. Lehnt dieser den persönlichen Kontakt ab, so ist das Kind zu informieren und auf die Persönlichkeitsrechte des Spenders und den Anspruch seiner Familie auf Schutz hinzuweisen. Beharrt das Kind nach Absatz 1 auf Auskunft, so wird ihm diese erteilt.
+
+<sup>4</sup> Der Bundesrat kann die Behandlung von Auskunftsgesuchen einer eidgenössischen Fachkommission übertragen.
+
+<sup>5</sup> …[^27-1]
+
+[^27-1]: Aufgehoben durch Anhang Ziff. 87 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## 3. Kapitel: Nationale Ethikkommission
+
+#### Art. 28
+
+<sup>1</sup> Der Bundesrat setzt eine nationale Ethikkommission ein.
+
+<sup>2</sup> Sie verfolgt die Entwicklung in der Fortpflanzungs- und der Gentechnologie im humanmedizinischen Bereich und nimmt zu den damit verbundenen gesellschaftlichen, naturwissenschaftlichen und rechtlichen Fragen aus ethischer Sicht beratend Stellung.
+
+<sup>3</sup>
+
+Sie hat insbesondere die Aufgabe:
+
+- a. ergänzende Richtlinien zu diesem Gesetz zu erarbeiten;
+- b. Lücken in der Gesetzgebung aufzuzeigen;
+- c. die Bundesversammlung, den Bundesrat und die Kantone auf Anfrage zu beraten;
+- d. die Öffentlichkeit über wichtige Erkenntnisse zu informieren und die Diskussion über ethische Fragen in der Gesellschaft zu fördern.
+
+<sup>4</sup> Der Bundesrat bestimmt die weiteren Aufgaben der Kommission im Bereich der Humanmedizin. Er erlässt die Ausführungsbestimmungen.
+
+## 4. Kapitel: Strafbestimmungen
+
+#### Art. 29
+
+**Missbräuchliche Gewinnung von Embryonen**[^29-1]
+
+<sup>1</sup> Wer durch Imprägnation einen Embryo in der Absicht erzeugt, diesen zu einem anderen Zweck als der Herbeiführung einer Schwangerschaft zu verwenden oder verwenden zu lassen, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Ebenso wird bestraft, wer eine imprägnierte Eizelle oder einen Embryo *in vitro* in der Absicht konserviert, diese oder diesen zu einem anderen Zweck als der Herbeiführung einer Schwangerschaft zu verwenden oder verwenden zu lassen.
+
+[^29-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 30
+
+**Entwicklung von Embryonen ausserhalb des Körpers der Frau**
+
+<sup>1</sup> Wer einen Embryo ausserhalb des Körpers der Frau über den Zeitpunkt hinaus sich entwickeln lässt, in dem die Einnistung in die Gebärmutter noch möglich ist, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^30-1]
+
+<sup>2</sup> Ebenso wird bestraft, wer einen menschlichen Embryo auf ein Tier überträgt.
+
+[^30-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 31
+
+**Leihmutterschaft**
+
+<sup>1</sup> Wer bei einer Leihmutter ein Fortpflanzungsverfahren anwendet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^31-1]
+
+<sup>2</sup> Ebenso wird bestraft, wer Leihmutterschaften vermittelt.
+
+[^31-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 32
+
+**Missbrauch von Keimgut**[^32-1]
+
+<sup>1</sup> Wer eine Imprägnation oder eine Weiterentwicklung zum Embryo mit Keimgut bewirkt, das einem Embryo oder einem Fötus entnommen wurde, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Wer menschliches Keimgut oder Erzeugnisse aus Embryonen oder Föten entgeltlich veräussert oder erwirbt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>3</sup> Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahre oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+
+[^32-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 33
+
+**Untersuchung des Erbguts und Auswahl von Keimzellen und Embryonen *in vitro**[^33-1]*
+
+Wer bei Fortpflanzungsverfahren das Erbgut von Keimzellen oder Embryonen *in vitro* untersucht und sie nach ihrem Geschlecht oder nach anderen Eigenschaften auswählt, ohne dass damit die Unfruchtbarkeit überwunden oder die Übertragung der Veranlagung für eine schwere Krankheit auf die Nachkommen verhindert werden soll, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+[^33-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 34
+
+**Handeln ohne Einwilligung oder Bewilligung**[^34-1]
+
+<sup>1</sup> Wer ein Fortpflanzungsverfahren ohne Einwilligung der Person, von der die Keimzellen stammen, oder des betroffenen Paares anwendet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Ebenso wird bestraft, wer ohne Bewilligung oder aufgrund einer durch unwahre Angaben erschlichenen Bewilligung Fortpflanzungsverfahren anwendet, Keimzellen, imprägnierte Eizellen oder Embryonen *in vitro* konserviert oder vermittelt oder Untersuchungen des Erbguts von Embryonen *in vitro* veranlasst.
+
+[^34-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 35
+
+**Eingriffe in die Keimbahn**
+
+<sup>1</sup> Wer in das Erbgut einer Keimbahnzelle oder einer embryonalen Zelle verändernd eingreift, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^35-1]
+
+<sup>2</sup> Ebenso wird bestraft, wer eine in ihrem Erbgut künstlich veränderte Keimzelle zur Imprägnation oder eine in gleicher Weise veränderte imprägnierte Eizelle zur Weiterentwicklung zum Embryo verwendet.
+
+<sup>3</sup> Absatz 1 ist nicht anwendbar, wenn die Veränderung von Keimbahnzellen die unvermeidliche Begleiterscheinung einer Chemotherapie, einer Strahlentherapie oder einer anderen ärztlichen Behandlung ist, der eine Person sich unterzieht.
+
+[^35-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 36
+
+**Klonen, Chimären- und Hybridbildung**
+
+<sup>1</sup> Wer einen Klon, eine Chimäre oder eine Hybride bildet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^36-1]
+
+<sup>2</sup> Ebenso wird bestraft, wer eine Chimäre oder eine Hybride auf eine Frau oder auf ein Tier überträgt.
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 37
+
+**Übertretungen**
+
+Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:[^37-1]
+
+- a. entgegen Artikel 3 Absätze 2 Buchstabe a und 3 bei einer Frau ein Fortpflanzungsverfahren anwendet;
+- b.[^37-2] Keimzellen verwendet, die von einer verstorbenen Person stammen, ausser es handelt sich dabei um Samenzellen eines verstorbenen Samenspenders;
+- b<sup>bis</sup>.[^37-3] imprägnierte Eizellen oder Embryonen *in vitro* verwendet, die von einem Paar stammen, von dem ein Teil verstorben ist;
+- c. gespendete Eizellen verwendet, mit gespendeten Eizellen und gespendeten Samenzellen einen Embryo entwickelt oder einen gespendeten Embryo auf eine Frau überträgt;
+- d. Fortpflanzungsverfahren ohne erlaubte Indikation anwendet;
+- e.[^37-4] …
+- f. entgegen den Artikeln 15, 16 und 42 Keimgut konserviert;
+- g. entgegen Artikel 17 Absatz 1 Embryonen entwickelt;
+- h. als Spender Samenzellen mehreren Inhaberinnen oder Inhabern einer Bewilligung nach Artikel 8 Absatz 1 zur Verfügung stellt;
+- i. entgegen Artikel 22 Absätze 1–3 gespendete Samenzellen verwendet;
+- j. die nach Artikel 24 vorgeschriebenen Daten unrichtig oder unvollständig aufzeichnet.
+
+[^37-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-3]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-4]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+#### Art. 38
+
+**Zuständige Behörde**
+
+Die Verfolgung und die Beurteilung der Straftaten nach diesem Gesetz obliegen den Kantonen.
+
+## 5. Kapitel: Schlussbestimmungen
+
+### 1. Abschnitt: Änderung bisherigen Rechts
+
+#### Art. 39
+
+…[^39-1]
+
+[^39-1]: Die Änderung kann unter [AS 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554)konsultiert werden.
+
+### 2. Abschnitt: Übergangsbestimmungen
+
+#### Art. 40
+
+**Bewilligung**
+
+<sup>1</sup> Wer eine Bewilligung nach Artikel 8 Absatz 1 benötigt, muss das Gesuch mit den nötigen Unterlagen innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes bei der Bewilligungsbehörde einreichen.
+
+<sup>2</sup> Wer das Gesuch nicht fristgerecht stellt, muss die Tätigkeit einstellen.
+
+#### Art. 41
+
+**Auskunft**
+
+<sup>1</sup> Die Artikel 18 und 24–27 gelten auch, wenn Samenzellen vor dem Inkrafttreten dieses Gesetzes gespendet worden sind, aber erst nach dessen Inkrafttreten verwendet werden.
+
+<sup>2</sup> In den übrigen Fällen müssen die Ärztinnen und Ärzte, die Fortpflanzungsverfahren mit gespendeten Keimzellen durchgeführt haben, in sinngemässer Anwendung von Artikel 27 Auskunft erteilen.
+
+#### Art. 42
+
+**Aufbewahrung von Embryonen**
+
+<sup>1</sup> Wer beim Inkrafttreten dieses Gesetzes Embryonen aufbewahrt, muss dies innerhalb von drei Monaten der Bewilligungsbehörde melden. Artikel 11 ist anwendbar.
+
+<sup>2</sup> …[^42-1]
+
+[^42-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft bis zum 31. Dez. 2008 ([AS 2003 3681](https://fedlex.data.admin.ch/eli/oc/2003/522); [BBl 2003 1163](https://fedlex.data.admin.ch/eli/fga/2003/192)).
+
+#### Art. 43
+
+**Kindesverhältnis**
+
+Artikel 23 gilt auch für Kinder, die vor dem Inkrafttreten dieses Gesetzes im Rahmen eines Fortpflanzungsverfahrens durch eine Samenspende gezeugt worden sind.
+
+#### Art. 43a
+
+**Übergangsbestimmung zur Änderung vom 12. Dezember 2014**[^43a-1]
+
+Die Berichterstattung und die Unterbreitung von Vorschlägen nach Artikel 14*a* Absatz 4 erfolgt erstmals spätestens fünf Jahre nach Inkrafttreten der Änderung vom 12. Dezember 2014.
+
+[^43a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+
+### 3. Abschnitt: Referendum und Inkrafttreten
+
+#### Art. 44
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: 1. Januar 2001[^44-1]
+
+[^44-1]: BRB vom 4. Dez. 2000

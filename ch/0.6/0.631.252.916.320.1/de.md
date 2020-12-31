@@ -1,0 +1,68 @@
+---
+sr: "0.631.252.916.320.1"
+title: Protokoll vom 2. September 1963 betreffend die Anwendung des schweizerisch-österreichischen Abkommens samt Schlussprotokoll über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung in Verkehrsmitteln während der Fahrt auf das Fürstentum Liechtenstein
+eli: "https://fedlex.data.admin.ch/eli/cc/1964/1162_1162_1194"
+language: de
+version: 1965-01-14
+adopted: 1963-09-02
+in_force: 1965-01-14
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/1162_1162_1194/19650114/de/xml/fedlex-data-admin-ch-eli-cc-1964-1162_1162_1194-19650114-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/1162_1162_1194/19650114/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Protokoll betreffend die Anwendung des schweizerisch‑österreichischen Abkommens samt Schlussprotokoll über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung in Verkehrsmitteln während der Fahrt auf das Fürstentum Liechtenstein
+
+AS **1964** 1162; BB1 **1963** II 1053
+
+Originaltext
+
+Abgeschlossen am 2. September 1963 Von der Bundesversammlung genehmigt am 11. März 1964[^t-1] Ratifikationsurkunden ausgetauscht am 14. Dezember 1964 In Kraft getreten am 14. Januar 1965
+
+(Stand am 14. Januar 1965)
+
+[^t-1]: [AS 1964 389](https://fedlex.data.admin.ch/eli/oc/1964/389_385_385)
+
+Die Schweizerische Eidgenossenschaft, das Fürstentum Liechtenstein und die Republik Österreich
+
+haben folgendes vereinbart:
+
+#### Art. 1
+
+Das am 2. September 1963[^1-1] unterzeichnete Abkommen, samt Schlussprotokoll, zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung in Verkehrsmitteln während der Fahrt findet mit Bezug auf nebeneinanderliegende Grenzabfertigungsstellen an Verkehrswegen, die die beiden Vertragsstaaten des Abkommens über das Gebiet des Fürstentums Liechtenstein miteinander verbinden, sowie mit Bezug auf Strecken gemäss Artikel 1 Absatz 3 Buchstaben b, c und d des Abkommens, die über dieses Gebiet führen, auf das Fürstentum Liechtenstein Anwendung.
+
+Insbesondere sind daher für die Zwecke dieses Abkommens Staatsgebiet, Recht, Behörden, Staatsangehörige und Bewohner Liechtensteins und der Schweiz sinngemäss einander gleichgestellt bzw. nebengeordnet, soweit dies der Inhalt der einzelnen Bestimmungen erfordert. Dabei ist das im Fürstentum Liechtenstein anwendbare Recht massgebend.
+
+[^1-1]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
+
+#### Art. 2
+
+Vereinbarungen gemäss Artikel 1 Absatz 3 des Abkommens,[^2-1] die nebeneinanderliegende Grenzabfertigungsstellen oder die Grenzabfertigung in Verkehrsmitteln während der Fahrt auf liechtensteinischem Gebiet betreffen, werden zwischen den Regierungen der Schweizerischen Eidgenossenschaft, des Fürstentums Liechtenstein und der Republik Österreich abgeschlossen. Soweit nach Vereinbarungen gemäss Artikel 1 Absatz 3 des Abkommens Strecken im Sinne von Artikel 1 Absatz 3 Buchstaben c und d des Abkommens oder Verkehrswege zwischen den in einem Vertragsstaat des Abkommens errichteten nebeneinanderliegenden Grenzabfertigungsstellen und dem andern Vertragsstaat über liechtensteinisches Gebiet führen, bildet die diesbezügliche Regelung Gegenstand besonderer Vereinbarungen zwischen den Regierungen der Schweizerischen Eidgenossenschaft, des Fürstentums Liechtenstein und der Republik Österreich.
+
+[^2-1]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
+
+#### Art. 3
+
+Soweit die gemäss Artikel 22 des Abkommens[^3-1] zu vereinbarenden Massnahmen zur Durchführung des Abkommens die Mitwirkung liechtensteinischer Behörden erfordern, ist deren Einverständnis einzuholen.
+
+[^3-1]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
+
+#### Art. 4
+
+Soweit die gemäss Artikel 23 des Abkommens[^4-1] gebildete gemischte schweizerischösterreichische Kommission Fragen behandelt, die die Anwendung des Abkommens auf das Fürstentum Liechtenstein betreffen, werden dessen Vertreter beigezogen.
+
+[^4-1]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
+
+#### Art. 5
+
+Dieses Protokoll bedarf der Ratifikation. Die Ratifikationsurkunden sollen bei der Schweizerischen Regierung hinterlegt werden, welche die Hinterlegung den Regierungen der andern Unterzeichnerstaaten notifizieren wird.
+
+Es tritt einen Monat nach der Hinterlegung der dritten Ratifikationsurkunde in Kraft.
+
+Es gilt, solange das Fürstentum Liechtenstein mit der Schweiz durch einen Zollanschlussvertrag[^5-1] verbunden ist und das Abkommen[^5-2] in Kraft steht.
+
+[^5-1]: SR **0.641.112.514**
+[^5-2]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
+
+*Zu Urkund dessen* haben die Bevollmächtigten der Unterzeichnerstaaten dieses Protokoll mit ihren Unterschriften und Siegeln versehen. Geschehen in Bern am 2. September 1963 in dreifacher Urschrift in deutscher Sprache. Für die Schweizerische Eidgenossenschaft Wahlen Für das Fürstentum Liechtenstein Heinrich Prinz von Liechtenstein Für die Republik Österreich Tursky

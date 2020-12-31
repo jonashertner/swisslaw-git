@@ -1,0 +1,290 @@
+---
+sr: "725.116.214"
+title: "Ordonnance du DETEC du 20 décembre 2019 concernant le programme en faveur du trafic d'agglomération (OPTA)"
+short: OPTA
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/13"
+language: fr
+version: 2020-02-01
+adopted: 2019-12-20
+in_force: 2020-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-13-20200201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20200201/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DETEC concernant le programme en faveur du trafic d’agglomération
+
+(OPTA)
+
+du 20 décembre 2019 (Etat le 1<sup>er</sup> février 2020)
+
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
+
+vu l’art.17*e*, al. 2, de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-1], vu les art. 18*a*, al. 3, et 21*a*, al. 2 et 3, de l’ordonnance du 7 novembre 2007 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière (OUMin)[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^ingress-2]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
+
+## Section 1 Exigences requises pour les projets d’agglomération
+
+#### Art. 1
+
+**Constitution d’un projet d’agglomération**
+
+Un projet d’agglomération doit contenir au moins les parties suivantes:
+
+- a. une partie principale;
+- b. une partie relative aux mesures;
+- c. si un accord sur les prestations a été conclu lors d’une génération antérieure: des tableaux de mise en œuvre donnant les indications demandées par l’Office fédéral du développement territorial (ARE), y compris des représentations cartographiques.
+
+#### Art. 2
+
+**Partie principale**
+
+<sup>1</sup>
+
+La partie principale doit au moins contenir les modules suivants:
+
+- a. une analyse de la situation et des tendances dans les domaines des transports et de l’urbanisation, tenant compte du paysage, et de l’environnement;
+- b. une vision d’ensemble de l’agglomération incluant les objectifs de développement dans les domaines des transports et de l’urbanisation et tenant compte du paysage;
+- c. une description du besoin d’action dans les domaines des transports et de l’urbanisation;
+- d. des stratégies sectorielles dans les domaines des transports et de l’urbanisation, tenant compte du paysage;
+- e. une description des mesures et de leur priorisation;
+- f. un rapport de mise en œuvre si un accord sur les prestations a été conclu lors d’une génération antérieure.
+
+<sup>2</sup> Les modules visés à l’al. 1, let. a, b, d et e, doivent être complétés par des représentations cartographiques.
+
+#### Art. 3
+
+**Partie relative aux mesures**
+
+La partie relative aux mesures doit au moins contenir les éléments suivants:
+
+- a. une fiche de mesure pour chaque mesure prête à être réalisée dans les quatre ans qui suivent l’adoption de l’arrêté fédéral correspondant relatif au programme en faveur du trafic d’agglomération (mesure A);
+- b. une fiche de mesure pour chaque mesure qui remplira vraisemblablement les conditions d’une mesure A lors de la prochaine génération du programme en faveur du trafic d’agglomération (mesure B);
+- c. un tableau présentant les mesures A et B;
+- d. un tableau présentant les mesures relatives aux planifications nationales et cantonales et aux autres planifications pertinentes en Suisse et dans des régions étrangères limitrophes dans le domaine des transports, si ces mesures sont liées à celles visées à la let. c et que leur financement est assuré.
+
+#### Art. 4
+
+**Mesures**
+
+<sup>1</sup>
+
+Le projet d’agglomération doit contenir des mesures dans les catégories suivantes:
+
+- a. des mesures d’infrastructure de transport pour lesquelles l’organisme responsable sollicite des contributions fédérales au sens des art. 21 ou 21*a* OUMin;
+- b. des mesures de transport qui ne sont pas cofinancées par la Confédération;
+- c. des mesures d’urbanisation.
+
+<sup>2</sup> Il doit contenir des mesures A et des mesures B dans toutes les catégories mentionnées à l’al. 1.
+
+<sup>3</sup>
+
+Chaque mesure d’infrastructure de transport doit contenir des indications sur les critères suivants:
+
+- a. indication précisant si un cofinancement par la Confédération est sollicité, et à quelle hauteur;
+- b. cohérence au sens de l’art. 6;
+- c. état de la planification;
+- d. rapport coût-utilité;
+- e. mesure prête à être réalisée et financée.
+
+<sup>4</sup> S’il s’agit d’une mesure d’infrastructure de transport à l’étranger, il faut en outre indiquer si l’on peut en attendre une utilité déterminante en Suisse.
+
+#### Art. 5
+
+**Avant-projet**
+
+<sup>1</sup> Lorsqu’une mesure d’infrastructure de transport représente un coût d’investissement de plus de 50 millions de francs, elle doit faire, s’il s’agit d’une mesure A, l’objet d’un avant-projet conforme à la norme SIA 103, 2014, 2<sup>e</sup> édition remaniée, Règlement concernant les prestations et honoraires des ingénieurs civils[^5-1].
+
+<sup>2</sup> L’avant-projet doit être déposé au plus tard neuf mois après la date visée à l’art. 9, al. 1.
+
+[^5-1]: La norme SIA 103 peut être consultée gratuitement sur le site de la Société suisse des ingénieurs et architectes à l’adresse suivante : www.shop.sia.ch &gt; Collection des normes &gt; Ingénieur
+
+#### Art. 6
+
+**Cohérence**
+
+Le projet d’agglomération et les mesures qu’il contient doivent garantir:
+
+- a. la cohérence entre les générations;
+- b. la cohérence de contenu entre les différents modules visés à l’art. 2;
+- c. la coordination avec les planifications nationales et cantonales et avec les autres planifications pertinentes en Suisse et dans les régions étrangères limitrophes.
+
+#### Art. 7
+
+**Exigences de base**
+
+Le projet d’agglomération doit remplir les exigences de base suivantes:
+
+- a. apporter la preuve de l’existence d’un organisme responsable au sens de l’art. 23 OUMin et de la consultation appropriée des collectivités territoriales participantes et de la population concernée;
+- b. contenir une description de tous les modules visés à l’art. 2 ainsi qu’une planification globale cohérente au sens de l’art. 6;
+- c. contenir des mesures, classées par priorité, découlant de la vision d’ensemble, des stratégies sectorielles et du besoin d’action;
+- d. apporter la preuve qu’un contrôle efficace garantira le début de l’exécution et de la mise en œuvre dans les délais.
+
+#### Art. 8
+
+**Validation cantonale du projet d’agglomération**
+
+Avant d’être déposé auprès de la Confédération, le projet d’agglomération doit avoir été validé par l’autorité cantonale compétente.
+
+#### Art. 9
+
+**Dépôt**
+
+<sup>1</sup> L’ARE informe les organismes responsables de la date à laquelle les projets d’agglomération doivent être déposés au plus tard. La Confédération n’examine pas les projets d’agglomération déposés après cette date.
+
+<sup>2</sup> L’organisme responsable informe l’ARE au plus tard un an avant cette date s’il souhaite déposer un projet d’agglomération. S’il ne respecte pas ce délai, la Confédération peut renoncer à l’examen du projet d’agglomération.
+
+## Section 2 Procédure d’examen
+
+#### Art. 10
+
+**Offices fédéraux intéressés**
+
+Pour l’examen des projets d’agglomération, l’ARE consulte l’Office fédéral des routes, l’Office fédéral des transports et l’Office fédéral de l’environnement.
+
+#### Art. 11
+
+**Examen préliminaire**
+
+<sup>1</sup> L’ARE examine si le projet d’agglomération déposé remplit les exigences des art. 1 à 3 et 8.
+
+<sup>2</sup> Si le projet d’agglomération est incomplet, l’ARE accorde à l’organisme responsable un délai de 21 jours pour lui transmettre les indications manquantes.
+
+<sup>3</sup> Si les indications manquantes ne sont pas transmises dans le délai prévu à l’al. 2 et qu’une évaluation judicieuse n’est ainsi pas possible, l’ARE ne poursuit pas l’examen du projet d’agglomération.
+
+#### Art. 12
+
+**Examen des exigences de base**
+
+<sup>1</sup> Si les exigences des art. 1 à 3 et 8 sont remplies, l’ARE examine si le projet d’agglomération remplit les exigences de base.
+
+<sup>2</sup> Si les exigences de base ne sont pas toutes remplies et qu’une évaluation judicieuse n’est ainsi pas possible, l’ARE ne poursuit pas l’examen du projet d’agglomération.
+
+#### Art. 13
+
+**Évaluation des mesures**
+
+<sup>1</sup> Si les exigences de base sont remplies, les offices fédéraux participant à la procédure d’examen évaluent les mesures visées à l’art. 4, al. 1.
+
+<sup>2</sup> Ils peuvent modifier la priorisation des mesures qui figure dans le projet d’agglomération.
+
+<sup>3</sup> Les mesures d’infrastructure de transport sont évaluées sur la base des critères énumérés à l’art. 4, al. 3. Le rapport coût-utilité d’une mesure d’infrastructure de transport est évalué sur la base des coûts d’investissement nécessaires pour cette mesure et des objectifs visés à l’art. 17*d*, al. 2, LUMin.
+
+#### Art. 14
+
+**Évaluation du projet**
+
+<sup>1</sup> Le projet d’agglomération est évalué sur la base du rapport coût-utilité et de l’état de la mise en œuvre.
+
+<sup>2</sup> Les mesures déterminantes pour l’évaluation du rapport coût-utilité sont celles que les offices fédéraux participant à la procédure d’examen ont classées comme mesures A et mesures B. L’utilité du projet d’agglomération résulte de son efficacité globale. Celle-ci est évaluée sur la base des modules visés à l’art. 2, de la cohérence visée à l’art. 6 et des objectifs visés à l’art. 17*d*, al. 2, LUMin.
+
+<sup>3</sup> Les mesures déterminantes pour l’évaluation de l’état de la mise en œuvre sont les mesures A figurant dans l’accord sur les prestations de l’avant-dernière génération.
+
+#### Art. 15
+
+**Rapport d’examen**
+
+<sup>1</sup> L’ARE rend compte des résultats de l’examen du projet d’agglomération dans un rapport d’examen.
+
+<sup>2</sup> L’organisme responsable concerné peut donner son avis sur le projet de rapport d’examen.
+
+## Section 3 Contributions fédérales forfaitaires pour les mesures visées à l’art. 21*a* OUMin
+
+#### Art. 16
+
+**Plafond des coûts d’investissement**
+
+Le plafond des coûts d’investissement pour des mesures bénéficiant de contributions fédérales forfaitaires conformément à l’art. 21*a* OUMin est fixé à cinq millions de francs.
+
+#### Art. 17
+
+**Calcul**
+
+<sup>1</sup> Les coûts standardisés visés à l’art. 21*a*, al. 3, OUMin sont déterminés sur la base des coûts d’investissement indiqués pour lesdites mesures dans les projets d’agglomération. Ce faisant, les coûts moyens par unité de prestation sont pris en compte.
+
+<sup>2</sup>
+
+La qualité de conception des mesures est évaluée selon les critères suivants:
+
+- a. intégration systématique des mesures dans la planification globale des transports;
+- b. effet des mesures sur le projet d’agglomération.
+
+<sup>3</sup> Si des mesures présentent un faible degré d’intégration systématique dans la planification globale des transports et un faible effet sur le projet d’agglomération, les coûts standardisés sont réduits de 15 % au plus.
+
+<sup>4</sup> Le taux de contribution est celui fixé dans l’arrêté fédéral correspondant.
+
+## Section 4 Mise en œuvre des projets d’agglomération
+
+#### Art. 18
+
+**Début d’exécution d’un projet de construction**
+
+<sup>1</sup>
+
+L’exécution d’un projet de construction doit débuter au plus tard:
+
+- a. pour les projets d’agglomération de troisième génération pour lesquels l’Assemblée fédérale arrête des crédits d’engagement à partir de 2019: six ans et trois mois après l’adoption de l’arrêté fédéral correspondant;
+- b. pour les projets d’agglomération à partir de la quatrième génération: cinq ans et trois mois après l’adoption de l’arrêté fédéral correspondant.
+
+<sup>2</sup> Dans des cas exceptionnels dûment motivés, l’ARE peut accorder un délai supplémentaire de trois ans.
+
+<sup>3</sup> En cas de procédure de recours ou de référendum à l’encontre d’un projet de construction, le délai est suspendu pour cette mesure jusqu’à ce qu’une décision soit rendue et entrée en force. Cette règle s’applique aussi aux mesures dépendant directement de la mesure touchée par la suspension du délai.
+
+<sup>4</sup> Les al. 2 et 3 ne s’appliquent pas aux mesures bénéficiant de contributions fédérales forfaitaires.
+
+#### Art. 19
+
+**Exigences requises pour les mesures qui relèvent du plan directeur**
+
+S’il s’agit d’une mesure A d’infrastructure de transport qui relève du plan directeur ou d’une mesure d’urbanisation étroitement liée à une telle mesure, la mesure A doit être inscrite dans le plan directeur avec la catégorie «coordination réglée» et cette inscription doit être approuvée par la Confédération au plus tard au moment de la conclusion de l’accord sur les prestations.
+
+#### Art. 20
+
+**Obligation d’informer**
+
+<sup>1</sup> L’organisme responsable informe immédiatement l’ARE des modifications qui ont des répercussions sur le projet d’agglomération examiné ou sur les accords sur les prestations conclus.
+
+<sup>2</sup>
+
+Il communique à l’ARE tous les quatre ans, selon les consignes de ce dernier, les valeurs cibles pour les indicateurs de monitoring et de controlling et établit un rapport sur les résultats obtenus. Les valeurs cibles reposent sur les indicateurs suivants:
+
+- a. part du transport individuel motorisé sur la base de la distance journalière;
+- b. nombre d’accidentés blessés ou tués;
+- c. nombre d’habitants selon la classe de desserte en transport public;
+- d. nombre d’emplois selon la classe de desserte en transport public;
+- e. densité des zones d’habitation, mixtes et centrales bâties.
+
+<sup>3</sup> L’organisme responsable remet à l’ARE tous les quatre ans des tableaux de mise en œuvre au sens de l’art. 1, let. c. Il le fait même s’il ne dépose pas de projet d’agglomération dans la génération actuelle.
+
+## Section 5 Dispositions finales
+
+#### Art. 21
+
+**Prise en compte des projets d’agglomération**
+
+Les projets d’agglomération sont pris en considération comme éléments de base lors des planifications sectorielles de la Confédération dans le domaine des transports.
+
+#### Art. 22
+
+**Exécution**
+
+L’ARE peut édicter des directives précisant les modalités d’examen des projets d’agglomération.
+
+#### Art. 23
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du DETEC du 20 décembre 2017 concernant les délais et le calcul des contributions à des mesures dans le cadre du programme en faveur du trafic d’agglomération[^23-1] est abrogée.
+
+[^23-1]: [[RO 2018 73](https://fedlex.data.admin.ch/eli/oc/2018/23)]
+
+#### Art. 24
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2020.

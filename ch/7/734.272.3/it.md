@@ -1,0 +1,270 @@
+---
+sr: "734.272.3"
+title: Ordinanza del DATEC del 30 aprile 2018 sugli impianti elettrici a bassa tensione
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
+language: it
+version: 2018-06-01
+adopted: 2018-04-30
+in_force: 2018-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20180601/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20180601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20180601/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DATEC sugli impianti elettrici a bassa tensione
+
+del 30 aprile 2018 (Stato 1° giugno 2018)
+
+Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
+
+visti gli articoli 8 capoverso 3, 21 capoverso 2 e 37 capoverso 3 dell’ordinanza del 7 novembre 2001[^ingress-1] sugli impianti elettrici a bassa tensione (OIBT),
+
+ordina:
+
+[^ingress-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+<sup>1</sup>
+
+La presente ordinanza disciplina:
+
+- a. l’esame pratico per il riconoscimento della qualità di persona del mestiere di cui all’articolo 8 capoverso 2 OIBT;
+- b. l’esame per lavori a impianti propri all’impresa;
+- c. l’esame per l’installazione di impianti elettrici speciali a bassa tensione (impianti elettrici);
+- d. l’esame per il raccordo di materiali elettrici a bassa tensione (materiali elettrici).
+
+<sup>2</sup> Essa stabilisce inoltre il contenuto tecnico del rapporto di sicurezza per impianti elettrici.
+
+<sup>3</sup> La presente ordinanza si applica per analogia agli esami di idoneità di cui all’articolo 69*a* capoverso 2 dell’ordinanza del 19 novembre 2003[^1-1] sulla formazione professionale.
+
+[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+
+## Sezione 2: Esame pratico
+
+#### Art. 2
+
+**Scopo**
+
+Durante l’esame pratico si verifica se il candidato è in grado di progettare, analizzare, installare, modificare, riparare e controllare impianti elettrici in maniera autonoma.
+
+#### Art. 3
+
+**Condizioni d’ammissione**
+
+<sup>1</sup> È ammesso all’esame pratico chi dimostra di avere svolto tre anni di pratica nell’installazione di impianti sotto la sorveglianza di una persona del mestiere e possiede una formazione secondo l’articolo 8 capoverso 2 lettere a–c OIBT.
+
+<sup>2</sup>
+
+Devono essere allegati all’iscrizione all’esame pratico:
+
+- a. le prove relative alla formazione professionale;
+- b. le prove relative all’attività pratica secondo l’articolo 8 capoverso 2 frase introduttiva OIBT e un rapporto sul periodo di pratica;
+- c.
+
+  la prova di aver assolto i seguenti moduli di preparazione all’esame o la conferma del conseguimento di una formazione equivalente:
+
+  - 1\. modulo 1: sicurezza e regole della tecnica,
+  - 2\. modulo 2: controllo degli impianti e della sicurezza,
+  - 3\. modulo 3: perizia sugli impianti e sulla sicurezza;
+
+- d. la descrizione del lavoro pratico.
+
+#### Art. 4
+
+**Contenuto**
+
+<sup>1</sup> Prima dell’esame deve essere presentato un lavoro pratico scritto. Esso è parte integrante dell’esame.
+
+<sup>2</sup>
+
+L’esame pratico comprende:
+
+- a. la presentazione del lavoro pratico con relativa discussione tecnica, 80 minuti;
+- b. un caso di studio nel settore norme e sicurezza: preparazione, 60 minuti; prova scritta/pratica/orale, 80 minuti;
+- c. una prova inerente alla sicurezza, installazione di impianti ed elettrotecnica pratica: prova scritta/pratica/orale, 80 minuti;
+- d. un caso di studio nel settore installazione di impianti e sicurezza: preparazione, 60 minuti; prova scritta/orale, 80 minuti;
+- e. un’analisi tecnica di progetto: preparazione, 60 minuti; prova scritta/orale, 80 minuti.
+
+<sup>3</sup> La Commissione per la garanzia della qualità (CGQ) dell’Unione svizzera degli installatori elettricisti (USIE) stabilisce le prove d’esame, ne determina lo svolgimento e designa gli esperti per le singole prove.
+
+## Sezione 3: Esami per il conseguimento delle autorizzazioni d’installazione limitate
+
+#### Art. 5
+
+**Commissione d’esame**
+
+<sup>1</sup>
+
+La Commissione d’esame è composta:
+
+- a. dal direttore dell’Ispettorato federale degli impianti a corrente forte (Ispettorato);
+- b. da due collaboratori dell’Ispettorato nominati dal direttore aventi qualità di persone del mestiere o autorizzati a eseguire controlli;
+- c. da due rappresentanti delle usuali organizzazioni del mondo del lavoro (OrLav) aventi qualità di persone del mestiere o autorizzati a eseguire controlli.
+
+<sup>2</sup> La Commissione d’esame è presieduta dal direttore dell’Ispettorato.
+
+<sup>3</sup> La Commissione d’esame stabilisce le prove d’esame, ne determina lo svolgimento e designa gli esperti per le singole prove. Sorveglia lo svolgimento delle prove e decide dell’esito dell’esame.
+
+<sup>4</sup> L’Ispettorato svolge la funzione di segreteria della Commissione d’esame.
+
+#### Art. 6
+
+**Condizioni d’ammissione**
+
+<sup>1</sup>
+
+È ammesso all’esame per lavori a impianti propri all’impresa chi:
+
+- a. è titolare di un attestato federale di capacità di «installatore elettricista AFC/installatrice elettricista AFC» o di «pianificatore elettricista AFC/pianificatrice elettricista AFC» e dimostra di avere svolto, al termine della formazione professionale di base, almeno un anno di pratica nell’ambito degli impianti elettrici, sotto la sorveglianza di una persona del mestiere (art. 8 cpv. 1 e 2 OIBT); oppure
+- b. è titolare di un attestato federale di capacità in una professione affine a quella di installatore elettricista AFC/installatrice elettricista AFC o di pianificatore elettricista AFC/pianificatrice elettricista AFC o in una formazione equivalente e dimostra di avere svolto, al termine della formazione professionale di base, almeno due anni di pratica nell’ambito degli impianti elettrici, sotto la sorveglianza di una persona del mestiere.
+
+<sup>2</sup> L’ammissione all’esame per l’installazione di impianti elettrici speciali e per il raccordo di materiali elettrici è retta dagli articoli 14 capoverso 1 lettera b e 15 capoverso 1 lettera b OIBT.
+
+#### Art. 7
+
+**Esame per lavori a impianti propri all’impresa**
+
+<sup>1</sup> Durante l’esame per lavori a impianti propri all’impresa si verifica se il candidato possiede le capacità e le conoscenze necessarie per eseguire, in maniera autonoma, lavori di manutenzione, modifica, ampliamento e riparazione di impianti elettrici.
+
+<sup>2</sup>
+
+L’esame comprende le materie seguenti:
+
+- a. nozioni di base di elettrotecnica: prova scritta e orale, ciascuna di 30 minuti;
+- b. utilizzazione sicura dell’elettricità: prova orale, 30 minuti;
+- c. prescrizioni e norme d’installazione: prova orale, 30 minuti;
+- d. controllo degli impianti e metrologia: prova orale, 30 minuti;
+- e. tecnica di raccordo e scienza dei materiali: prova pratica/orale, 30 minuti.
+
+#### Art. 8
+
+**Esame per l’installazione di impianti elettrici speciali e per il raccordo di materiali elettrici**
+
+<sup>1</sup> Durante l’esame per l’installazione di impianti elettrici speciali e per il raccordo di materiali elettrici si verifica se il candidato possiede le necessarie capacità e conoscenze.
+
+<sup>2</sup> Per le materie e la durata dell’esame si applica per analogia l’articolo 7 capoverso 2.
+
+<sup>3</sup> I requisiti e le materie d’esame sono definiti di volta in volta dalla Commissione d’esame in funzione del tipo d’impianto per il quale deve essere sostenuto l’esame.
+
+#### Art. 9
+
+**Organizzazione**
+
+<sup>1</sup> La Commissione d’esame organizza gli esami almeno una volta all’anno.
+
+<sup>2</sup> L’iscrizione all’esame deve essere presentata per iscritto. Vanno allegati i documenti comprovanti l’adempimento delle condizioni di ammissione, in particolare certificati di capacità, diplomi e attestati di lavoro a dimostrazione dell’attività pratica svolta.
+
+<sup>3</sup> La Commissione d’esame decide sull’ammissione dei candidati e comunica loro la decisione per iscritto al più tardi quattro settimane prima dell’inizio delle prove.
+
+<sup>4</sup> Gli esami sono svolti in tedesco, francese o italiano.
+
+<sup>5</sup> Gli esami non sono pubblici.
+
+#### Art. 10
+
+**Valutazione**
+
+<sup>1</sup> Le prestazioni d’esame sono valutate con un voto compreso tra 6 e 1. Il voto 4 e i voti superiori indicano prestazioni sufficienti, i voti inferiori a 4 prestazioni insufficienti. Oltre a questi, sono ammessi soltanto i mezzi voti.
+
+<sup>2</sup> La scala dei voti è la seguente:
+
+<table>
+<tr><th>Voto</th><th>prestazioni</th></tr>
+<tr><td>6</td><td>quantitativamente e qualitativamente ottimo</td></tr>
+<tr><td>5</td><td>buono, corrispondente agli obiettivi</td></tr>
+<tr><td>4</td><td>corrispondente ai requisiti minimi</td></tr>
+<tr><td>3</td><td>scarso, incompleto</td></tr>
+<tr><td>2</td><td>molto scarso</td></tr>
+<tr><td>1</td><td>inutilizzabile o non eseguito</td></tr>
+</table>
+
+<sup>3</sup> Le prestazioni relative a ciascuna voce d’esame sono valutate conformemente al capoverso 2. Se per determinare il voto di una voce d’esame si ricorre dapprima a voti parziali, questi sono presi in considerazione in funzione della loro importanza nell’ambito della voce d’esame.
+
+<sup>4</sup> I voti delle materie sono il risultato della media dei voti delle voci d’esame. Sono arrotondati a una cifra decimale.
+
+<sup>5</sup> Il risultato dell’esame è espresso con un voto complessivo. Quest’ultimo è dato dalla media dei voti in ciascuna prova secondo l’articolo 7 capoverso 2. Il voto complessivo è arrotondato a una cifra decimale.
+
+<sup>6</sup> L’esame è superato se in nessuna materia il voto è inferiore a 4.
+
+#### Art. 11
+
+**Ripetizione dell’esame**
+
+<sup>1</sup> L’esame può essere ripetuto due volte.
+
+<sup>2</sup> L’esame può essere ripetuto al più presto dopo sei mesi.
+
+<sup>3</sup> Il nuovo esame verte su tutte le materie nelle quali il candidato non ha ottenuto almeno il voto 4.
+
+<sup>4</sup> Se l’esame non viene superato nemmeno la seconda volta, la Commissione d’esame respinge il candidato. Una volta respinto, il candidato può presentarsi a un nuovo esame non prima che siano trascorsi tre anni dalla notifica del rigetto. Il nuovo esame deve essere sostenuto integralmente.
+
+#### Art. 12
+
+**Certificato**
+
+L’Ispettorato rilascia un certificato comprovante il superamento dell’esame.
+
+## Sezione 4: Contenuto tecnico del rapporto di sicurezza relativo agli impianti elettrici
+
+#### Art. 13
+
+**Rapporto di sicurezza**
+
+<sup>1</sup> Il rapporto di sicurezza deve contenere, oltre alle indicazioni di cui all’articolo 37 capoverso 1 OIBT, tutti i dati tecnici necessari alla valutazione della sicurezza di un impianto elettrico.
+
+<sup>2</sup>
+
+Per dati necessari si intendono in particolare:
+
+- a. i valori relativi alla misura dell’isolamento oppure, nel caso di singoli gruppi di consumatori, se lo scollegamento dell’impianto risulta difficile o sproporzionato a causa dei consumatori allacciati, i valori relativi alla corrente differenziale;
+- b. la descrizione delle misure di protezione e degli organi di protezione e la loro valutazione.
+
+<sup>3</sup> In caso di controlli periodici di impianti elettrici la cui resistenza di isolamento è controllata costantemente mediante dispositivi adeguati quali interruttori differenziali con una corrente nominale d’intervento massima di 30 mA, si può rinunciare alla presentazione dei valori di cui al capoverso 2 lettera a.
+
+<sup>4</sup> Una volta eseguiti i lavori di manutenzione e di riparazione di cui all’articolo 15 capoverso 4 OIBT, si può rinunciare alla misura dell’isolamento.
+
+#### Art. 14
+
+**Verbale di misurazione e di verifica**
+
+<sup>1</sup> Il verbale di misurazione e di verifica contiene i risultati dei controlli eseguiti.
+
+<sup>2</sup>
+
+Esso deve essere redatto per i seguenti controlli:
+
+- a. prima verifica durante la realizzazione (art. 24 cpv. 1 OIBT);
+- b. controllo finale (art. 24 cpv. 2 OIBT);
+- c. collaudo (art. 35 cpv. 3 OIBT);
+- d. controllo periodico (art. 36 OIBT);
+- e. controllo saltuario (art. 39 cpv. 1 OIBT).
+
+## Sezione 5: Tasse
+
+#### Art. 15
+
+<sup>1</sup> Per lo svolgimento degli esami l’Ispettorato riscuote tasse conformemente all’ordinanza del 7 dicembre 1992[^15-1] sull’Ispettorato federale degli impianti a corrente forte.
+
+<sup>2</sup> La tassa è rimborsata se il candidato notifica il suo ritiro al più tardi 10 giorni lavorativi prima dell’esame oppure se non può parteciparvi per motivi validi subentrati nel frattempo.
+
+[^15-1]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+
+## Sezione 6: Disposizioni finali
+
+#### Art. 16
+
+**Abrogazione di altri atti normativi**
+
+L’ordinanza del DATEC del 15 maggio 2002[^16-1] sugli impianti elettrici a bassa tensione è abrogata.
+
+[^16-1]: [[RU 2002 1367](https://fedlex.data.admin.ch/eli/oc/2002/207)]
+
+#### Art. 17
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° giugno 2018.

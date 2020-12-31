@@ -1,0 +1,36 @@
+---
+sr: "0.351.946.3"
+title: "Déclaration de réciprocité des 16 avril/12 mai 1937 entre la Suisse et le Japon concernant l'entraide judiciaire en matière pénale"
+eli: "https://fedlex.data.admin.ch/eli/cc/53/639_635_651"
+language: fr
+version: 1937-05-12
+adopted: 1937-05-12
+in_force: 1937-05-12
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/53/639_635_651/19370512/fr/xml/fedlex-data-admin-ch-eli-cc-53-639_635_651-19370512-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/53/639_635_651/19370512/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Déclaration de réciprocité des 16 avril/12 mai 1937 entre la Suisse et le Japon concernant l’entraide judiciaire en matière pénale
+
+RS **12** 164
+
+Entrée en vigueur le 12 mai 1937
+
+(Etat le 12 mai 1937)
+
+Les 16 avril/12 mai 1937, la Suisse et le Japon ont échangé une déclaration de réciprocité concernant l’entraide judiciaire en matière pénale. On trouvera les dispositions de cette déclaration dans la note japonaise, reproduite ci‑dessous, qui forme la réponse à la note suisse.
+
+Traduction*[^ingress-1]*
+
+[^ingress-1]: Traduction officielle française, établie par le Ministère japonais des affaires étrangères, de la note originale japonaise.
+
+## Note japonaise
+
+J’ai l’honneur de porter ce qui suit, d’ordre de mon gouvernement, à la connaissance de Votre Excellence:
+
+- Le gouvernement suisse propose au gouvernement japonais d’établir entre les tribunaux des deux Etats l’assistance judiciaire mutuelle en matière criminelle, sur la base de la réciprocité et dans le cadre des dispositions légales intérieures respectives, à l’effet de la signification d’actes judiciaires et de l’exécution des commissions rogatoires visant la recherche de preuves. Il est entendu que les dépenses occasionnées par l’exécution des significations ou des commissions rogatoires seront remboursées par l’Etat auquel appartient le tribunal requérant. En outre, les demandes de significations et les commissions rogatoires, de même que les documents y relatifs, seront transmis par la voie diplomatique et accompagnés d’une traduction dans la langue officielle de l’Etat du tribunal requis.
+- Le gouvernement suisse est disposé à donner cours à l’assistance judiciaire susmentionnée aussitôt que le gouvernement japonais aura adhéré à sa proposition.
+
+J’ai l’honneur de vous informer que le gouvernement japonais accepte la proposition du gouvernement suisse et qu’il est prêt à accorder, dès ce jour, aux tribunaux suisses l’assistance judiciaire en matière criminelle, sur la base de la réciprocité et dans le cadre des dispositions légales intérieures japonaises, à l’effet de la signification d’actes judiciaires et de l’exécution des commissions rogatoires visant la recherche de preuves.

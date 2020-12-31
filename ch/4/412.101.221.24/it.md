@@ -1,0 +1,347 @@
+---
+sr: "412.101.221.24"
+title: Ordinanza della SEFRI del 30 ottobre 2009 sulla formazione professionale di base Aiuto costruttrice di modelli e stampi/Aiuto costruttore di modelli e stampi con certificato federale di formazione pratica (CFP)
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/820"
+language: it
+version: 2018-01-01
+adopted: 2009-10-30
+in_force: 2010-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2009-820-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza della SEFRI sulla formazione professionale di base Aiuto costruttrice di modelli e stampi/ Aiuto costruttore di modelli e stampi con certificato federale di formazione pratica (CFP)
+
+del 30 ottobre 2009 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+
+<table>
+<tr><td>30906</td><td>Aiuto costruttrice di modelli e stampi CFP/ Aiuto costruttore di modelli e stampi CFP Formenpraktikerin EBA/Formenpraktiker EBA Aide-mouleuse AFP/Aide-mouleurAFP</td></tr>
+</table>
+
+La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
+
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+
+ordina:*[^ingress-4]*
+
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-4]: Nuovo testo giusta il n. I 92 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## Sezione 1: Oggetto e durata
+
+#### Art. 1
+
+**Profilo professionale**
+
+<sup>1</sup>
+
+Gli aiuto costruttori di modelli e stampi di livello CFP svolgono, in particolare, le seguenti attività e si contraddistinguono per i seguenti comportamenti:
+
+- a. realizzano forme e modelli per diversi procedimenti e utilizzi;
+- b. creano forme e modelli che fabbricano sia manualmente sia con l’impiego di macchine. A tale fine si avvalgono delle loro capacità e abilità manuali in maniera specifica e seguendo istruzioni;
+- c. elaborano soluzioni funzionali; pensano e operano in funzione delle esigenze della clientela, rispettando criteri economici. Realizzano i loro incarichi e progetti in modo sistematico;
+- d. rispettano i principi della sicurezza sul lavoro e della protezione della salute e dell’ambiente.
+
+#### Art. 2
+
+**Durata e inizio**
+
+<sup>1</sup> La formazione professionale di base dura due anni.
+
+<sup>2</sup> L’inizio della formazione professionale di base segue il calendario scolastico della relativa scuola professionale.
+
+## Sezione 2: Obiettivi ed esigenze
+
+#### Art. 3
+
+**Profilo delle competenze**
+
+<sup>1</sup> Gli obiettivi e le esigenze della formazione professionale di base sono espressi sotto forma di profilo delle competenze.
+
+<sup>2</sup> Il profilo delle competenze vale per tutti i luoghi di formazione.
+
+<sup>3</sup>
+
+Il profilo delle competenze comprende le seguenti competenze operative:
+
+- a. creazione di pezzi;
+- b. fabbricazione manuale di pezzi;
+- c. fabbricazione meccanica convenzionale di pezzi.
+
+## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
+
+#### Art. 4
+
+[^4-1]
+
+<sup>1</sup> All’inizio e durante la formazione gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente, in particolare quelle relative alla comunicazione dei pericoli (simboli di pericolo e di obbligo, pittogrammi).
+
+<sup>2</sup> Dette prescrizioni e raccomandazioni sono fornite in tutti i luoghi di formazione e considerate nelle procedure di qualificazione.
+
+<sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
+
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+
+<sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^4-1]: Nuovo testo giusta il n. II 92 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
+
+#### Art. 5
+
+**Parti svolte dai luoghi di formazione**
+
+<sup>1</sup> La formazione professionale pratica si svolge in media su quattro giorni alla settimana per tutta la durata della formazione professionale di base.
+
+<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 720 lezioni. Di queste, 80 sono dedicate all’insegnamento dello sport.
+
+<sup>3</sup> I corsi interaziendali hanno una durata complessiva minima di 18 e massima di 22 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
+
+#### Art. 6
+
+**Lingua d’insegnamento**
+
+<sup>1</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
+
+<sup>2</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
+
+## Sezione 5: Piano di formazione e cultura generale
+
+#### Art. 7
+
+**Piano di formazione**[^7-1]
+
+<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione, emanato dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+
+<sup>2</sup>
+
+Il piano di formazione:
+
+- a. riporta i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente e determina quali competenze operative vengono trasmesse e apprese in ciascun luogo di formazione;
+- b. riporta la griglia delle lezioni della scuola professionale;
+- c. designa l’ente responsabile dei corsi interaziendali e definisce l’organizzazione dei corsi e la loro ripartizione sulla durata della formazione professionale di base;
+- d. rapporta coerentemente le competenze operative alle procedure di qualificazione, di cui precisa le modalità.
+
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^7-2]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+[^7-2]: Nuovo testo giusta il n. III 26 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+#### Art. 8
+
+**Cultura generale**
+
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
+
+#### Art. 9
+
+**Requisiti professionali minimi richiesti ai formatori**
+
+I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+
+- a. attestato federale di capacità di costruttore di modelli e stampi e almeno due anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di modellista tecnico qualificato e almeno due anni di esperienza professionale nel campo d’insegnamento;
+- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo del costruttore di modelli e stampi AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- d. diploma di formazione professionale superiore in ambito pertinente;
+- e. diploma di una scuola universitaria professionale in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
+
+#### Art. 10
+
+**Numero massimo di persone in formazione**
+
+<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.[^10-1]
+
+<sup>2</sup> Per ogni altro specialista occupato al 100 per cento o per ogni due specialisti in più occupati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.[^10-2]
+
+<sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità, di un certificato federale di formazione pratica o di una qualifica equivalente nel campo della persona in formazione.[^10-3]
+
+<sup>4</sup> Nelle aziende che possono impiegare solo una persona in formazione una seconda persona può iniziare il tirocinio quando la prima arriva all’ultimo anno della formazione professionale di base.[^10-4]
+
+<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione nelle aziende di tirocinio che da più anni svolgono la loro funzione di formazione con un successo superiore alla media.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+[^10-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+[^10-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+[^10-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+## Sezione 7: Documentazione dell’apprendimento e delle prestazioni
+
+#### Art. 11
+
+**Documentazione dell’apprendimento in azienda[^11-1]**
+
+<sup>1</sup> La persona in formazione tiene una documentazione dell’apprendimento, in cui annota regolarmente i principali lavori eseguiti, le capacità acquisite e le esperienze fatte in azienda.
+
+<sup>2</sup> e <sup>3</sup> ...[^11-2]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+[^11-2]: Abrogati dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+#### Art. 11a
+
+**Rapporto di formazione**[^11a-1]
+
+<sup>1</sup> Alla fine di ogni semestre, il formatore rileva in un rapporto il livello raggiunto dalla persona in formazione. Per farlo si basa sulle prestazioni nella formazione professionale pratica e sui resoconti delle prestazioni nella scuola professionale e nei corsi interaziendali. Discute il rapporto con la persona in formazione.
+
+<sup>2</sup> Se necessario, il formatore e la persona in formazione concordano misure per il raggiungimento degli obiettivi di formazione e fissano apposite scadenze. Le misure e le decisioni adottate vengono messe per iscritto.
+
+<sup>3</sup> Dopo la scadenza prefissata il formatore verifica l’efficacia delle misure concordate e ne riporta l’esito nel successivo rapporto di formazione.
+
+<sup>4</sup> Se gli obiettivi non sono stati raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
+
+[^11a-1]: Introdotto dal n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+#### Art. 12
+
+**Documentazione delle prestazioni nella formazione scolastica e nella formazione di base organizzata dalla scuola[^12-1]**
+
+Gli operatori della formazione scolastica e della formazione di base organizzata dalla scuola documentano le prestazioni delle persone in formazione nelle materie insegnate e consegnano loro una pagella alla fine di ogni semestre.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+## Sezione 8: Procedure di qualificazione
+
+#### Art. 13
+
+**Ammissione**
+
+È ammesso alle procedure di qualificazione chi ha assolto la formazione professionale di base:
+
+- a. secondo le disposizioni della presente ordinanza;
+- b. in un istituto di formazione autorizzato dal Cantone; o
+- c. al di fuori di un ciclo di formazione regolamentato, se
+  - 1\. ha maturato l’esperienza professionale di cui all’articolo 32 OFPr;
+  - 2\. di tale esperienza professionale ha svolto almeno tre anni nel campo dell’aiuto costruttore di modelli e stampi CFP;
+  - 3\. rende verosimile il possesso dei requisiti per l’esame finale (art. 15).
+
+#### Art. 14
+
+**Oggetto**
+
+Nelle procedure di qualificazione si deve dimostrare di aver acquisito le competenze operative di cui all’articolo 3 capoverso 3.
+
+#### Art. 15
+
+**Durata e svolgimento della procedura di qualificazione con esame finale**
+
+<sup>1</sup>
+
+L’esame finale della procedura di qualificazione valuta i campi di qualificazione sotto elencati nel seguente modo:
+
+- a. «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata da 8 a 12 ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di eseguire le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+- b. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^15-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+<sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^15-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 16
+
+**Superamento dell’esame finale, calcolo e ponderazione delle note**
+
+<sup>1</sup>
+
+La procedura di qualificazione con esame finale è superata se:
+
+- a. per il campo di qualificazione «lavoro pratico» viene attribuito il 4 o una nota superiore; e
+- b. la nota complessiva raggiunge o supera il 4.
+
+<sup>2</sup> La nota complessiva è data dalla media, arrotondata a un decimale, delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata relativa all’insegnamento professionale.
+
+<sup>3</sup> Per nota relativa all’insegnamento professionale si intende la media arrotondata al punto o al mezzo punto delle quattro note semestrali relative all’insegnamento professionale.[^16-1]
+
+<sup>4</sup>
+
+Per il calcolo della nota complessiva valgono le note sotto elencate con la seguente ponderazione:
+
+- a. lavoro pratico: 60 per cento;
+- b. cultura generale: 20 per cento;
+- c. nota relativa all’insegnamento professionale: 20 per cento.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+#### Art. 17
+
+**Ripetizioni**
+
+<sup>1</sup> La ripetizione della procedura di qualificazione è disciplinata dall’articolo 33 OFPr. Qualora debba essere ripetuto un campo di qualificazione, esso va ripetuto interamente.
+
+<sup>2</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente la scuola professionale, resta valida la nota relativa all’insegnamento professionale conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento professionale, per il calcolo della nota relativa all’insegnamento professionale fanno stato solo le nuove note.
+
+#### Art. 18
+
+**Caso particolare**
+
+<sup>1</sup> Per le persone che hanno assolto la formazione al di fuori di un ciclo di formazione regolamentato e che hanno sostenuto l’esame finale secondo la presente ordinanza, viene meno la nota relativa all’insegnamento professionale.
+
+<sup>2</sup>
+
+Per il calcolo della nota complessiva valgono le note sotto elencate con la seguente ponderazione:
+
+- a. lavoro pratico: 80 per cento;
+- b. cultura generale: 20 per cento.
+
+## Sezione 9: Attestazioni e titolo
+
+#### Art. 19
+
+<sup>1</sup> Chi ha superato una procedura di qualificazione consegue il certificato federale di formazione pratica (CFP).
+
+<sup>2</sup> Il certificato federale di formazione pratica conferisce al titolare il diritto di avvalersi del titolo legalmente protetto di «aiuto costruttrice di modelli e stampi CFP»/«aiuto costruttore di modelli e stampi CFP».[^19-1]
+
+<sup>3</sup>
+
+Se il certificato federale di formazione pratica è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:
+
+- a. la nota complessiva;
+- b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 18 capoverso 1, la nota relativa all’insegnamento professionale.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità
+
+#### Art. 20
+
+<sup>1</sup>
+
+La Commissione svizzera per lo sviluppo professionale e la qualità ha la seguente composizione:
+
+- a. da quattro a sei rappresentanti dell’associazione SWISS FORM;
+- b. un rappresentante dei docenti di materie professionali;
+- c. almeno un rappresentante, rispettivamente, della Confederazione e dei Cantoni.
+
+<sup>2</sup> Le regioni linguistiche devono essere adeguatamente rappresentate.
+
+<sup>3</sup> La Commissione non rientra nel campo d’applicazione dell’ordinanza del 3 giugno 1996[^20-1] sulle commissioni. Essa si autocostituisce.
+
+<sup>4</sup>
+
+La Commissione svolge in particolare i seguenti compiti:
+
+- a. verifica costantemente, ma almeno ogni cinque anni, l’ordinanza sulla formazione professionale di base e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici. Nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. chiede alla competente organizzazione del mondo del lavoro di presentare alla SEFRI una domanda di modifica dell’ordinanza sulla formazione professionale di base, qualora gli sviluppi osservati lo rendano necessario;
+- c. chiede all’organizzazione del mondo del lavoro l’adeguamento del piano di formazione, qualora gli sviluppi osservati lo rendano necessario;
+- d. esprime un parere riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
+- e. esprime un parere riguardo agli strumenti per la promozione della qualità della formazione professionale di base, in particolare sulle disposizioni esecutive concernenti le procedure di qualificazione.[^20-2]
+
+[^20-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n. II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]
+[^20-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+
+## Sezione 11: Disposizioni finali
+
+#### Art. 21
+
+**Entrata in vigore**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2010.
+
+<sup>2</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 13–19) entrano in vigore il 1° gennaio 2012.

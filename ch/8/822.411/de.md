@@ -1,0 +1,190 @@
+---
+sr: "822.411"
+title: "Verordnung vom 6. September 2006 über Massnahmen zur Bekämpfung der Schwarzarbeit (Verordnung gegen die Schwarzarbeit, VOSA)"
+short: VOSA
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/72"
+language: de
+version: 2008-01-01
+adopted: 2006-09-06
+in_force: 2008-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20080101/de/xml/fedlex-data-admin-ch-eli-cc-2007-72-20080101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über Massnahmen zur Bekämpfung der Schwarzarbeit
+
+(Verordnung gegen die Schwarzarbeit, VOSA)
+
+vom 6. September 2006(Stand am 1. Januar 2008)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 37*a* und 83 Absatz 1 zweiter Satz des Bundesgesetzes vom 14. Dezember 1990[^ingress-1] über die direkte Bundessteuer (DBG), Artikel 11 Absatz 4 und 32 Absatz 1 des Bundesgesetzes vom 14. Dezember 1990[^ingress-2] über die Harmonisierung der direkten Steuern der Kantone und Gemeinden (StHG) sowie die Artikel 3 Absatz 3, 4 Absatz 2, 7 Absatz 3, 12 Absätze 1 und 5, 16 Absätze 1–3 sowie 17 Absatz 3 des Bundesgesetzes vom 17. Juni 2005[^ingress-3] gegen die Schwarzarbeit (BGSA),
+
+verordnet:
+
+[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^ingress-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^ingress-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+
+#### Art. 1
+
+**Vereinfachtes Abrechnungsverfahren für Sozialversicherungen und Steuern**
+
+### (Art. 2 und 3 BGSA)
+
+<sup>1</sup> Arbeitgeber, welche die Löhne ihrer Arbeitnehmerinnen und Arbeitnehmer im vereinfachten Abrechnungsverfahren nach den Artikeln 2 und 3 BGSA abrechnen wollen, müssen sich zu Beginn eines Arbeitsverhältnisses bei der AHV-Ausgleichskasse anmelden.
+
+<sup>2</sup> Ein Wechsel zum vereinfachten Abrechnungsverfahren oder zurück zum ordentlichen Abrechnungsverfahren kann nur auf Beginn eines Kalenderjahres erfolgen. Der Arbeitgeber muss den geplanten Wechsel der AHV-Ausgleichskasse bis zum Ende des Vorjahres melden.
+
+<sup>3</sup> Arbeitgeber, die ihre Zahlungs- und Mitwirkungspflichten nicht erfüllen, können vom vereinfachten Abrechnungsverfahren ausgeschlossen werden.
+
+<sup>4</sup> Die AHV-Ausgleichskasse leitet die Anmeldung eines Arbeitgebers nach Absatz 1 ohne Verzug an den zuständigen Unfallversicherer weiter.
+
+<sup>5</sup> Die AHV-Ausgleichskassen erhalten für den Bezug der Quellensteuer eine Provision von 10 Prozent des gesamten von ihnen einkassierten Quellensteuerbetrags.
+
+#### Art. 2
+
+**Kantonales Kontrollorgan**
+
+### (Art. 4 BGSA)
+
+<sup>1</sup> Die Kantone statten das Kontrollorgan nach Artikel 4 BGSA mit den zur Erfüllung seiner Aufgaben notwendigen Ressourcen aus.
+
+<sup>2</sup> Sie sorgen dafür, dass die mit den Kontrollen betrauten Personen über die erforderlichen Kenntnisse und Fähigkeiten in der Arbeitsmarktkontrolle verfügen.
+
+<sup>3</sup> Das kantonale Kontrollorgan koordiniert seine Tätigkeit mit derjenigen anderer Kontrollstellen, der tripartiten Kommission nach Artikel 360*b* des Obligationenrechts (OR)[^2-1] und der durch Gesamtarbeitsverträge eingesetzten paritätischen Organe.
+
+<sup>4</sup> Die Kantone können vorsehen, dass das Kontrollorgan sowohl für den Vollzug des BGSA als auch für den Vollzug des Bundesgesetzes vom 8. Oktober 1999[^2-2] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer zuständig ist.
+
+<sup>5</sup> Die Kantone stellen den mit der Kontrolle betrauten Personen ein Dokument aus, das es ihnen erlaubt, sich über ihre Funktion auszuweisen.
+
+[^2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+
+#### Art. 3
+
+**Delegation von Kontrolltätigkeiten**
+
+### (Art. 4 BGSA)
+
+<sup>1</sup> Die Kantone können Kontrolltätigkeiten an Dritte delegieren. Sie regeln in einer Leistungsvereinbarung den Umfang der delegierten Kontrolltätigkeiten und die Höhe der Entschädigung.
+
+<sup>2</sup> Ein paritätisches Organ, an das Kontrolltätigkeiten delegiert wurden, kann lediglich Betriebe kontrollieren, die dem betreffenden Gesamtarbeitsvertrag unterstehen.
+
+#### Art. 4
+
+**Auskünfte und Unterlagen**
+
+### (Art. 7 BGSA)
+
+<sup>1</sup> Die mit den Kontrollen betrauten Personen können von den Arbeitgebern, von den Arbeitnehmerinnen und Arbeitnehmern sowie von den Selbstständigerwerbenden Auskünfte und Unterlagen verlangen, welche die Einhaltung der Melde- und Bewilligungspflicht gemäss Ausländerrecht und der Melde- und Abrechnungspflicht gemäss Sozialversicherungs- und Quellensteuerrecht belegen.
+
+<sup>2</sup>
+
+Unterlagen nach Absatz 1 sind insbesondere:
+
+- a. Unterlagen, welche die von den Arbeitnehmerinnen und Arbeitnehmern geleisteten Arbeitsstunden belegen;
+- b. Unterlagen, die Art und Beginn des Vertragsverhältnisses zwischen den beteiligten Personen belegen;
+- c. die individuellen Lohnabrechnungen nach Artikel 323*b* OR[^4-1] sowie Belege über die Auszahlung der Löhne.
+
+[^4-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 5
+
+**Mindestbetrag für das zu meldende Einkommen**
+
+### (Art. 12 Abs. 1 BGSA)
+
+Die kantonalen Steuerbehörden sind nach Artikel 12 Absatz 1 BGSA meldepflichtig, wenn das nicht deklarierte jährliche Einkommen aus unselbständiger Erwerbstätigkeit den Grenzbetrag nach Artikel 34*d* Absatz 1 der Verordnung vom 31. Oktober 1947[^5-1] über die Alters- und Hinterlassenenversicherung übersteigt.
+
+[^5-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 6
+
+**Liste der sanktionierten Arbeitgeber**
+
+### (Art. 13 Abs. 3 BGSA)
+
+<sup>1</sup> Das Staatssekretariat für Wirtschaft (SECO) macht in einem Abrufverfahren eine Liste der von den kantonalen Behörden ausgesprochenen Sanktionen gegenüber Arbeitgebern zugänglich, die von Aufträgen des öffentlichen Beschaffungswesens ausgeschlossen wurden und denen Finanzhilfen gekürzt wurden.
+
+<sup>2</sup> Die in der Liste aufgeführten Entscheide werden mit Ablauf der Zeitperiode, für welche die Sanktionen ausgesprochen wurden, gelöscht.
+
+#### Art. 7
+
+**Gebühren**
+
+### (Art. 16 Abs. 1 BGSA)
+
+<sup>1</sup> Eine Gebühr wird kontrollierten Personen auferlegt, die Melde- oder Bewilligungspflichten nach Artikel 6 BGSA verletzt haben.
+
+<sup>2</sup> Die Gebühren betragen höchstens 150 Franken pro Stunde Tätigkeit der mit den Kontrollen betrauten Personen, zuzüglich der dem Kontrollorgan entstandenen Auslagen. Die Höhe der Gebühr muss in einem angemessenen Verhältnis zu dem für die Ermittlung des festgestellten Verstosses erbrachten Kontrollaufwand stehen.
+
+#### Art. 8
+
+**Finanzierung durch den Bund**
+
+### (Art. 16 Abs. 2 und 3 BGSA)
+
+<sup>1</sup>
+
+Die Kantone legen dem SECO jährlich eine Abrechnung vor mit dem Nachweis über:
+
+- a. die gesamten vom Kanton im Rahmen des Vollzugs des BGSA getragenen Kosten;
+- b. den Gesamtbetrag der in Anwendung des BGSA bezogenen Gebühren;
+- c. den Gesamtbetrag der Bussen, die im Rahmen der Sanktionen, auf die in Artikel 10 Absatz 1 BGSA verwiesen wird, erhoben wurden.
+
+<sup>2</sup> Die von den Kantonen getragenen und nicht durch Gebühren oder Bussen gedeckten Kontrollkosten werden zur Hälfte vom Bund übernommen.
+
+<sup>3</sup>
+
+Der Bund belastet seinen Kostenanteil den nachstehenden Institutionen wie folgt:
+
+- a. dem Ausgleichsfonds der Alters- und Hinterlassenenversicherung: den Betrag der im betreffenden Kalenderjahr eingegangenen Zuschläge nach Artikel 14<sup>bis</sup> des Bundesgesetzes vom 20. Dezember 1946[^8-1] über die Alters- und Hinterlassenenversicherung (AHVG) abzüglich des den AHV-Ausgleichskassen zustehenden Anteils;
+- b. dem Fonds der Arbeitslosenversicherung: den Betrag der im betreffenden Kalenderjahr eingegangenen Zuschläge nach Artikel 6 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^8-2] in Verbindung mit Artikel 14<sup>bis</sup> AHVG;
+- c. der Schweizerischen Unfallversicherungsanstalt: einen Achtel der vom Bund zu tragenden Kosten;
+- d. der Ersatzkasse nach Artikel 72 des Bundesgesetzes vom 20. März 1981[^8-3] über die Unfallversicherung: einen Achtel der vom Bund zu tragenden Kosten.
+
+[^8-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 9
+
+**Datenschutz**
+
+### (Art. 17 BGSA)
+
+<sup>1</sup> Das kantonale Kontrollorgan nach Artikel 17 Absatz 1 BGSA und die kantonalen Behörden nach Artikel 17 Absatz 2 BGSA sind befugt, die dort aufgeführten Daten einzusehen und einzugeben, zu verändern oder zu vernichten.
+
+<sup>2</sup> Sie sind für die Sicherheit der von ihnen bearbeiteten Personendaten verantwortlich. Sie treffen in ihrem Bereich die angemessenen technischen und organisatorischen Massnahmen zum Schutz der Personendaten gegen unbefugtes Bearbeiten.
+
+<sup>3</sup> Die Personendaten müssen fünf Jahre nach ihrer Erhebung oder, sofern zu diesem Zeitpunkt noch eine Sanktion gegen den betreffenden Arbeitgeber wirksam ist, mit Ablauf der Sanktion vernichtet werden. Vorbehalten bleiben längere Aufbewahrungsfristen anderer Gesetzgebungen.
+
+<sup>4</sup> Dritte, an die Kontrolltätigkeiten delegiert worden sind, unterstehen denselben datenschutzrechtlichen Bestimmungen wie die kantonalen Kontrollorgane und die kantonalen Behörden.
+
+#### Art. 10
+
+**Änderung bisherigen Rechts**
+
+Die Änderung bisherigen Rechts wird im Anhang geregelt.
+
+#### Art. 11
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2008 in Kraft.
+
+Anhang
+
+(Art. 10)
+
+## Änderung bisherigen Rechts
+
+Die nachstehenden Verordnungen werden wie folgt geändert:
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)konsultiert werden

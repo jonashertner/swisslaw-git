@@ -1,0 +1,121 @@
+---
+sr: "0.632.293.362"
+title: Accordo del 12 aprile 1979 fra la Svizzera e gli Stati Uniti concernente il formaggio (con All.)
+eli: "https://fedlex.data.admin.ch/eli/cc/1979/2587_2592_2592"
+language: it
+version: 1980-01-01
+adopted: 1979-04-12
+in_force: 1980-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/2587_2592_2592/19800101/it/xml/fedlex-data-admin-ch-eli-cc-1979-2587_2592_2592-19800101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/2587_2592_2592/19800101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo fra la Svizzera e gli Stati Uniti concernente il formaggio
+
+RU **1979** 2592; FF **1979** III 1
+
+Traduzione[^t-1]
+
+Conchiuso il 12 aprile 1979 Approvato dall’Assemblea federale il 12 dicembre 1979[^t-2] Entrato in vigore il 1° gennaio 1980
+
+(Stato 1° gennaio 1980)
+
+[^t-1]: Dal testo originale inglese.
+[^t-2]: Cpv. 1 lett. o del DF del 12 dic. 1979 ([RU 1979 2153](https://fedlex.data.admin.ch/eli/oc/1979/2149_2153_2153)).
+
+\1. Gli Stati Uniti sono disposti ad includere nell’elenco XX dell’Accordo generale sulle tariffe doganali ed il commercio[^ingress-1] i contingenti per sorte di formaggio enumerati nell’allegato II. Questi contingenti saranno applicati conformemente al capitolo 22 della legge sull’agricoltura (Agricultural Adjustment Act) del 1933, a norma del GATT – Waiver del 1955.
+
+\2. Gli Stati Uniti sono disposti ad adattare il modo d’applicazione affinché:
+
+- – i formaggi enumerati nell’allegato I non siano sottoposti al contingentamento e
+- – gli altri formaggi possano essere importati liberamente nel quadro dei contingenti stabiliti.
+
+\3. Il quantitativo globale di formaggio sottoposto al sistema di contingentamento accordato alla Svizzera ammonta al minimo a 6500 tonnellate metriche. La ripartizione del contingente fra le diverse sorte è contemplata nell’allegato II del presente Accordo. Gli Stati Uniti sono disposti a prendere tutti i provvedimenti atti a permettere un’utilizzazione massimale dei contingenti. Qualora la Svizzera si trovasse nell’impossibilità di fornire un dato quantitativo del contingente annuo, è stato convenuto che gli Stati Uniti potranno temporaneamente modificare il paese d’origine per la parte del contingente annuo non utilizzata affinché gli importatori ed i beneficiari di una licenza americana siano in grado di coprire altrove il loro fabbisogno.
+
+\4. La Svizzera si è impegnata a non concedere delle restituzioni o altri pagamenti statali atti a portare il prezzo dei formaggi d’origine svizzera al disotto dei prezzi all’ingrosso dei formaggi indigeni americani delle medesime sorte. Tutti i pagamenti statali contrari a questo impegno provocherebbero dei provvedimenti di ritorsione da parte degli Stati Uniti.
+
+[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
+
+Allegato I
+
+In conformità dell’accordo, i formaggi che rientrano nelle seguenti categorie tariffarie della tariffa doganale americana non devono essere contingentati:
+
+<table>
+<tr><td>TD degli USA</td><td colspan="2"></td><td colspan="2">Descrizione</td></tr>
+<tr><td colspan="2">117.0020</td><td colspan="2"></td><td colspan="2">Formaggio Stilton, in forme originali, prodotto britannico</td></tr>
+<tr><td colspan="2">117.0520</td><td colspan="2"></td><td colspan="2">Formaggio Stilton, altro, prodotto britannico</td></tr>
+<tr><td colspan="2">117.1000</td><td colspan="2"></td><td colspan="2">Formaggio Bryndza</td></tr>
+<tr><td colspan="2">117.3000</td><td colspan="2"></td><td colspan="2">Formaggio Gjetost, prodotto da siero di latte caprino o da siero ottenuto da una miscela di latte caprino e non oltre il 20% di latte vaccino</td></tr>
+<tr><td colspan="2">117.3500</td><td colspan="2"></td><td colspan="2">Formaggio Gjetost, altro</td></tr>
+<tr><td colspan="2">ex 117.4060</td><td colspan="2"></td><td colspan="2">Formaggio Goya, in forme originali</td></tr>
+<tr><td colspan="2">117.4500</td><td colspan="2"></td><td colspan="2">Formaggio Roquefort, in forme originali, prodotto francese</td></tr>
+<tr><td colspan="2">117.5000</td><td colspan="2"></td><td colspan="2">Formaggio Roquefort, altro prodotto francese</td></tr>
+<tr><td colspan="2">117.6060</td><td colspan="2"></td><td colspan="2">Formaggi Gammelost e Mokkelost</td></tr>
+<tr><td colspan="2">117.6500</td><td colspan="2"></td><td colspan="2">Formaggi di latte ovino, in forme originali, ed adatti ad essere grattugiati</td></tr>
+<tr><td colspan="2">117.6700</td><td colspan="2"></td><td colspan="2">Formaggio pecorino, di latte ovino, in forme originali, non adatto ad essere grattugiato</td></tr>
+<tr><td colspan="2">117.7000</td><td colspan="2"></td><td colspan="2">Altro formaggio di latte ovino</td></tr>
+<tr><td colspan="2">117.7575</td><td colspan="2"></td><td colspan="2">Altro formaggio di latte caprino di valore non superiore a 25 cents per libbra</td></tr>
+<tr><td colspan="2">117.8575</td><td colspan="2"></td><td colspan="2">Altro formaggio di latte caprino di valore superiore a 25 cents per libbra</td></tr>
+<tr><td colspan="2">(da determ.)</td><td colspan="2"></td><td colspan="2">Quelli di cui ad una voce da creare, il cui testo deve essere basato sulla seguente definizione di «soft ripened cow’s cheese» (formaggio di latte vaccino, a pasta molle, stagionato): «I formaggi molli stagionati sono trattati o maturati con agenti biologici quali muffe, colture ed altri organismi che contribuiscono alla formazione di una crosta apparente sulla superficie del formaggio. Gli effetti del trattamento e della maturazione devono visibilmente progredire dalla superficie verso l’interno del formaggio. Il tenore in grasso della materia secca non è inferiore a cinquanta (50) per cento. Il tenore in acqua calcolato rispetto al peso della materia non grassa non è inferiore al sessantacinque (65) per cento». «Il termine formaggio a pasta molle stagionato non comprende i formaggi contenenti muffe blu o altre muffe ripartite all’interno della massa».</td></tr>
+</table>
+
+La lista seguente, non esaustiva, è data a titolo indicativo. Qualora insorgessero difficoltà per classificare questi formaggi, occorrerà cooperare amministrativamente a livello tecnico:
+
+Bibress
+
+Brie
+
+Camembert
+
+Cambre
+
+Carré de l’Est
+
+Chaource
+
+Coulommiers
+
+Epoisse
+
+Limbourg
+
+Livarot
+
+Maroilles
+
+Munster – dalla Francia e dalla Germania, dalle due sponde del Reno
+
+Pont‑l’évêque
+
+Reblochon
+
+St‑Marcellin
+
+Taleggio
+
+(Esempi proposti per la vendita senza denominazioni commerciali)
+
+Boursault
+
+Caprice des dieux
+
+Ducs (Suprême des)
+
+Explorateur
+
+Allegato II
+
+## Contingenti di formaggio\*
+
+[^annexII-lvlu1-1]
+
+[^annexII-lvlu1-1]: <sup>\*</sup> Riguardo alla Svizzera questi contingenti sono stati modificati come segue: 950.10 B 3430 TM 950.10 C 1450 TM 950.10 D 1620 TM
+
+<table>
+<tr><td>TD degli USA Appendice Voce n.</td><td>Prodotto</td><td></td><td>Contingenti di importazioni annui 1° gen. – 31 dic. (TM)</td></tr>
+<tr><td>950.10 B</td><td>Formaggio svizzero o Emmental con formazione di buchi</td><td></td><td>3630 TM</td></tr>
+<tr><td>950.10 C</td><td>Formaggio diverso dallo svizzero o dall’Emmental con formazione di buchi (definito statisticamente come processo gruviera)</td><td></td><td>1450 TM</td></tr>
+<tr><td>950.10 D</td><td>Formaggi e loro prodotti sostitutivi di cui alle voci 117.75 e 117.85, parte 4 C, elenco 1 della tariffa degli Stati Uniti (eccettuato il formaggio non contenente latte vaccino; formaggio, tranne quello fresco [ricotta], contenente non oltre 0,5% in peso di grasso di latte, e articoli che rientrano nei contingenti all’importazione di cui alla presente sezione)</td><td></td><td>1420 TM</td></tr>
+</table>

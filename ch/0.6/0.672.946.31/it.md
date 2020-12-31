@@ -1,0 +1,945 @@
+---
+sr: "0.672.946.31"
+title: Convenzione del 19 gennaio 1971 tra la Confederazione Svizzera e il Giappone intesa a evitare la doppia imposizione nel campo delle imposte sul reddito (con Scambio di note e Scambi di lettere)
+eli: "https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725"
+language: it
+version: 2012-09-07
+adopted: 1971-01-19
+in_force: 1971-12-26
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725/20120907/it/xml/fedlex-data-admin-ch-eli-cc-1971-1720_1725_1725-20120907-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1720_1725_1725/20120907/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito
+
+RU **1971** 1725; FF **1971** I 455
+
+Traduzione*[^t-1]*
+
+Conchiusa il 19 gennaio 1971 Approvata dall’Assemblea federale il 20 settembre 1971[^t-2] Istrumeni di ratificazione scambiati il 26 novembre 1971 Entrata in vigore il 26 dicembre 1971
+
+(Stato 7 settembre 2012)
+
+[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-2]: [RU 1971 1724](https://fedlex.data.admin.ch/eli/oc/1971/1719_1724_1724)
+
+Il Consiglio federale svizzero e il Governo del Giappone,
+
+animati dal desiderio di conchiudere una convenzione intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+La presente convenzione si applica alle persone che sono residenti di uno Stato contraente o di entrambi gli Stati contraenti.
+
+#### Art. 2
+
+<sup>1.</sup>
+
+Le imposte a cui si applica la presente convenzione sono:
+
+- a. per quanto riguarda il Giappone: l’imposta sul reddito, l’imposta sulle società e le imposte locali su gli abitanti. (in seguito: imposta giapponese);
+- b. per quanto riguarda la Svizzera: le imposte federali, cantonali e comunali sul reddito (reddito complessivo, reddito del lavoro, reddito della sostanza, utili industriali e commerciali, guadagni di capitale e altri redditi) (in seguito: imposta svizzera).
+
+<sup>2.</sup> La presente convenzione si applicherà anche a tutte le altre imposte di natura analoga a quella delle imposte menzionate al paragrafo 1, che, dopo la firma della presente convenzione, verranno istituite da uno Stato contraente, da una delle sue suddivisioni politiche o da uno dei suoi enti locali. Le autorità competenti degli Stati contraenti si comunicheranno, entro un termine appropriato, le modificazioni apportate alle legislazioni fiscali rispettive.
+
+<sup>3.</sup> La presente convenzione non si applica all’imposta federale preventiva ritenuta alla fonte sulle vincite alle lotterie.
+
+<sup>4.</sup> La presente convenzione, con riferimento esclusivo all’articolo 8 paragrafo 2, si applica anche all’imposta menzionata al paragrafo predetto.
+
+#### Art. 3
+
+<sup>1.</sup>
+
+Ai fini della presente convenzione, a meno che il contesto non richieda una interpretazione diversa:
+
+- a.[^3-1] il termine «Giappone», in senso geografico, designa tutto il territorio del Giappone incluse le acque territoriali in cui si applica la legislazione fiscale giapponese, e i territori situati fuori dalle sue acque territoriali inclusi il fondo e il sottosuolo marini su cui, in accordo con il diritto internazionale, può esercitare i suoi diritti sovrani e in cui si applica la legislazione fiscale giapponese;
+- b. il termine «Svizzera» designa la Confederazione Svizzera;
+- c. le espressioni «uno Stato contraente» e «l’altro Stato contraente» designano il Giappone o la Svizzera, come il contesto richiede;
+- d. il termine «imposta» designa l’imposta giapponese o l’imposta svizzera, come il contesto richiede;
+- e. il termine «persona» comprende le persone fisiche, le società e ogni altra unione di persone;
+- f. il termine «società» designa le persone giuridiche o gli enti che, ai fini fiscali, sono considerati persone giuridiche;
+- g. le espressioni «impresa di uno Stato contraente» e «impresa dell’altro Stato contraente» designano rispettivamente un’impresa esercitata da un residente di uno Stato contraente e un’impresa esercitata da un residente dell’altro Stato contraente;
+- h.[^3-2] l’espressione «traffico internazionale» designa qualsiasi trasporto effettuato per mezzo di una nave o di un aeromobile esercitato da un’impresa di uno Stato contraente, ad eccezione del caso in cui la nave o l’aeromobile sia esercitato esclusivamente tra località situate nell’altro Stato contraente;
+- i.[^3-3]
+
+  il termine «nazionale» designa:
+
+  - (i) in Giappone: ogni persona fisica che ha la cittadinanza giapponese e ogni persona giuridica costituita od organizzata in conformità della legislazione vigente in Giappone, nonché tutte le unioni senza personalità giuridica che ai fini dell’imposizione giapponese vengono trattate come le persone giuridiche costituite od organizzate in conformità della legislazione vigente in Giappone, e
+  - (ii) in Svizzera: tutti i cittadini svizzeri, tutte le persone giuridiche, nonché tutte le altre unioni ed associazioni di persone costituite in conformità della legislazione vigente in Svizzera;
+
+- j.[^3-4]
+
+  l’espressione «autorità competente» designa:
+
+  - (i) in Giappone: il ministro delle finanze o il suo rappresentante autorizzato, e
+  - (ii) in Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato; e
+
+- k.[^3-5]
+
+  l’espressione «cassa pensioni o istituzione di previdenza» designa una persona:
+
+  - (i) costituita in conformità della legislazione di uno Stato contraente,
+  - (ii) principalmente impiegata nell’amministrazione o nel versamento di rendite, pensioni o altre rimunerazioni analoghe oppure nel conseguimento di redditi per altre casse pensioni o istituzioni di previdenza, ed
+  - (iii) esentata dall’imposta in questo Stato contraente riguardo ai redditi dalle prestazioni descritte dal numero (ii).
+
+<sup>2.</sup> Per l’applicazione della presente convenzione da parte di uno Stato contraente, ogni altra espressione non altrimenti definita ha, a meno che il contesto non richieda un’interpretazione diversa, il significato che ad essa è attribuito dalla legislazione di detto Stato relativa alle imposte oggetto della presente convenzione.
+
+[^3-1]: Nuovo testo giusta l’art. 1 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-2]: Nuovo testo giusta l’art. 1 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-3]: Introdotta dall’art. 1 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-4]: Introdotta dall’art. 1 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-5]: Introdotta dall’art. 1 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 4
+
+Tuttavia, questa espressione non comprende le persone che sono imponibili in questo Stato soltanto per il reddito che esse ricavano da fonti situate in detto Stato.
+
+1.[^4-1] Ai fini della presente Convenzione, l’espressione «residente di uno Stato contraente» designa ogni persona che, in virtù della legislazione di tale Stato, è assoggettata ad imposta nello stesso Stato, a motivo del suo domicilio, della sua residenza, della sua sede principale, della sede della sua direzione o di ogni altro criterio di natura analoga, e include anche:
+
+- a. questo Stato contraente, una sua suddivisione politica o a un suo ente locale;
+- b. casse pensioni o un’istituzioni di previdenza costituite secondo la legislazione di questo Stato contraente; e
+- c. organizzazioni costituite secondo la legislazione di questo Stato contraente che perseguono unicamente uno scopo religioso, di utilità pubblica, educativo, scientifico, artistico, sportivo, culturale o di interesse pubblico (o una pluralità di questi scopi), qualora i loro redditi siano interamente o parzialmente esenti dall’imposta conformemente alla legislazione interna di detto Stato.
+
+2.[^4-2] Quando, in base alle disposizioni del paragrafo 1, una persona fisica è considerata residente di entrambi gli Stati contraenti, la sua situazione è determinata nel seguente modo:
+
+- a. detta persona è considerata residente dello Stato contraente nel quale ha un’abitazione permanente; se essa dispone di un’abitazione permanente in ciascuno degli Stati contraenti, è considerata residente soltanto dello Stato contraente nel quale le sue relazioni personali ed economiche sono più strette (centro degli interessi vitali);
+- b. se non si può determinare lo Stato contraente nel quale detta persona ha il centro dei suoi interessi vitali, o se la medesima non ha un’abitazione permanente in alcuno degli Stati contraenti, essa è considerata residente soltanto dello Stato contraente in cui soggiorna abitualmente;
+- c. se detta persona soggiorna abitualmente in entrambi gli Stati contraenti ovvero non soggiorna abitualmente in alcuno di essi, essa è considerata residente soltanto dello Stato contraente del quale ha la cittadinanza;
+- d. se la persona ha la cittadinanza di entrambi gli Stati contraenti o se non ha la cittadinanza di alcuno dei due Stati, le autorità competenti degli Stati contraenti risolvono la questione di comune accordo.
+
+<sup>3.</sup> Quando, in base alle disposizioni del paragrafo 1, una persona diversa da una persona fisica è considerata residente di entrambi gli Stati contraenti, si reputa che essa è residente dello Stato contraente in cui si trova la sua sede principale.
+
+4.[^4-3] Se uno Stato contraente accorda in base alla presente Convenzione uno sgravio o un’esenzione dell’imposta per i redditi di un residente in un altro Stato contraente e, secondo la legislazione di questo altro Stato, questo reddito è imponibile solo per la parte trasferita o riscossa in questo altro Stato contraente e non per il suo importo complessivo, l’esenzione o la riduzione della aliquota da concedere si applica solo alla parte del reddito che è trasferita o riscossa nell’altro Stato.
+
+non possono beneficiare dei vantaggi della Convenzione.
+
+5.[^4-4] Ai fini dell’applicazione della presente Convenzione:
+
+- a.
+
+  i redditi:
+
+  - (i) provenienti da uno Stato contraente pagati a un residente dell’altro Stato contraente, e
+  - (ii) che secondo la legislazione dell’altro Stato contraente sono trattati come redditi di beneficiari, membri o partecipanti di questa persona,
+
+- possono beneficiare dei vantaggi della Convenzione che sarebbero garantiti se fossero pagati direttamente da beneficiari, membri o partecipanti di questa persona, purché questi beneficiari, membri o partecipanti siano residenti in questo altro Stato contraente e soddisfino le altre condizioni previste in questa Convenzione, indipendentemente se questi redditi sono trattati come redditi di questi beneficiari, membri o partecipanti;
+- b. i redditi;
+  - (i) provenienti da uno Stato contraente pagati a un residente dell’altro Stato contraente, e
+  - (ii) che secondo la legislazione di detto altro Stato contraente sono trattati come redditi di questa persona,
+
+- possono beneficiare dei vantaggi della Convenzione che sarebbero garantiti se fossero pagati direttamente a un residente in questo altro Stato contraente, indipendentemente se questi redditi sono trattati come redditi di questa persona secondo la legislazione vigente nel primo Stato, se questa persona è residente nell’altro Stato contraente e soddisfa le altre condizioni previste da questa Convenzione;
+- c.
+
+  i redditi:
+
+  - (i) provenienti da uno Stato contraente pagati ad un residente di tale Stato contraente, e
+  - (ii) che secondo la legislazione dell’altro Stato contraente sono trattati come redditi di questa persona,
+
+[^4-1]: Nuovo testo giusta l’art. 2 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-2]: Nuovo testo giusta l’art. 2 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-3]: Introdotto dall’art. 2 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-4]: Introdotto dall’art. 2 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 5
+
+<sup>1.</sup> Ai fini della presente convenzione l’espressione «stabile organizzazione» designa una sede fissa di affari dove l’impresa svolge, in tutto o in parte, la sua attività.
+
+<sup>2.</sup>
+
+L’espressione «stabile organizzazione» comprende in particolare:
+
+- a. una sede di direzione;
+- b. una succursale;
+- c. un ufficio;
+- d. un’officina;
+- e. un laboratorio;
+- f. una miniera, una cava od ogni altro luogo di estrazione di risorse naturali;
+- g. un cantiere di costruzione o di montaggio la cui durata superi dodici mesi.
+
+<sup>3.</sup> 4.[^5-1] Nonostante le disposizioni dei paragrafi 1 e 2, se una persona – diversa da un agente che goda di uno statuto indipendente, di cui al paragrafo 5 – agisce per conto di un’impresa e dispone in uno Stato contraente di poteri che esercita abitualmente e che le permettono di concludere contratti a nome dell’impresa, si considera che questa impresa abbia in questo Stato contraente una stabile organizzazione per tutte le attività che questa persona esercita a suo nome, a meno che le attività di questa persona non si limitino a quelle menzionate nel paragrafo 3 e che, se fossero esercitate per il tramite di una sede fissa di affari, non permetterebbero di considerare tale sede come una stabile organizzazione giusta le disposizioni di tale paragrafo.
+
+5.[^5-2] Non si considera che un’impresa di uno Stato contraente abbia una stabile organizzazione nell’altro Stato contraente per il fatto che vi esercita la propria attività per mezzo di un mediatore, di un commissionario generale o di ogni altro intermediario che goda di uno statuto indipendente, a condizione che dette persone agiscano nell’ambito della loro attività normale.
+
+6.[^5-3] Il fatto che una società residente di uno Stato contraente controlli una società residente dell’altro Stato contraente, o ne sia invece controllata, ovvero vi svolga la sua attività (per mezzo di una stabile organizzazione o no), non costituisce, di per sé, motivo sufficiente per far considerare una qualsiasi delle dette società una stabile organizzazione dell’altra.
+
+Non si considera che vi sia una stabile organizzazione se:
+
+- a. si fa uso di installazioni ai soli fini di deposito, di esposizione o di consegna di merci appartenenti all’impresa;
+- b. le merci appartenenti all’impresa sono immagazzinate ai soli fini di deposito, di esposizione o di consegna;
+- c. le merci appartenenti all’impresa sono immagazzinate ai soli fini della trasformazione da parte di un’altra impresa;
+- d. un’installazione fissa di affari serve ai soli fini di acquistare merci o di raccogliere informazioni per l’impresa;
+- e. un’installazione fissa di affari serve, per l’impresa, ai soli fini di pubblicità, di fornire informazioni, di ricerche scientifiche o di attività analoghe che abbiano carattere preparatorio o ausiliare;
+- f.[^5-4] una sede fissa di affari è utilizzata ai soli fini dell’esercizio cumulativo di attività menzionate alle lettere a– e, a condizione che l’insieme delle attività della sede fissa di affari risultante da questo cumulo mantenga un carattere preparatorio o ausiliario.
+
+[^5-1]: Nuovo testo giusta l’art. 3 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^5-2]: Originario n. 6
+[^5-3]: Originario n. 7
+[^5-4]: Introdotta dall’art. 3 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 6
+
+1.[^6-1] I redditi che un residente di uno Stato contraente ritrae da beni immobili (compresi i redditi delle attività agricole e forestali) situati nell’altro Stato contraente, sono imponibili in detto altro Stato.
+
+<sup>2.</sup> L’espressione «beni immobili» è definita conformemente al diritto dello Stato contraente dove i beni stessi sono situati. Detta espressione comprende, in ogni caso, gli accessori, le scorte vive o morte delle aziende agricole o forestali, i diritti ai quali si applicano le disposizioni del diritto privato riguardante la proprietà immobiliare, l’usufrutto di beni immobili e i diritti a canoni fissi o variabili per lo sfruttamento o la concessione dello sfruttamento di giacimenti minerari, sorgenti e altre ricchezze del suolo. Le navi e gli aeromobili non sono considerati beni immobili.
+
+<sup>3.</sup> Le disposizioni del paragrafo 1 si applicano ai redditi provenienti dall’utilizzazione diretta, dalla locazione o dall’affitto, nonché da ogni altra forma d’utilizzazione di beni immobili.
+
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi provenienti da beni immobili di un’impresa e ai redditi di beni immobili che servono all’esercizio di una libera professione.
+
+[^6-1]: Nuovo testo giusta l’art. 4 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 7
+
+<sup>1.</sup> Gli utili di un’impresa di uno Stato contraente sono imponibili soltanto in detto Stato, a meno che l’impresa non svolga la sua attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata. Se l’impresa svolge in tal modo la sua attività, gli utili dell’impresa sono imponibili nell’altro Stato contraente, ma soltanto nella misura in cui essi sono attribuibili alla stabile organizzazione.
+
+<sup>2.</sup> Quando un’impresa di uno Stato contraente svolge la sua attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata, in ciascun Stato contraente sono attribuiti a detta stabile organizzazione gli utili che si ritiene potrebbero essere stati da essa conseguiti se la stabile organizzazione fosse stata un’impresa distinta e separata, svolgente attività identiche o analoghe, in condizioni identiche o analoghe, ed agente in piena indipendenza con l’impresa di cui essa è una stabile organizzazione.
+
+<sup>3.</sup> Nella determinazione degli utili di una stabile organizzazione sono ammesse in deduzione le spese sostenute per gli scopi che si prefigge la stabile organizzazione, comprese le spese di direzione e quelle generali di amministrazione, sia nello Stato contraente dove è situata la stabile organizzazione, sia altrove.
+
+<sup>4.</sup> Qualora uno degli Stati contraenti segua la prassi di determinare gli utili da attribuire a una stabile organizzazione in base a riparto degli utili complessivi dell’impresa fra le diverse sue parti, la disposizione del § 2 non impedisce a detto Stato contraente di determinare gli utili imponibili in. base al riparto in uso; il metodo di riparto adottato deve, tuttavia, essere tale che il risultato ottenuto sia conforme ai principi contenuti nel presente articolo.
+
+<sup>5.</sup> Nessun utile può essere attribuito alla stabile organizzazione per il semplice fatto di aver essa acquistato delle merci per l’impresa.
+
+<sup>6.</sup> Ai fini dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati ogni anno con lo stesso metodo, a meno che non esistano motivi validi e sufficienti per procedere diversamente.
+
+<sup>7.</sup> Allorquando negli utili siano compresi elementi di reddito considerati separatamente in altri articoli della presente convenzione, le disposizioni di tali articoli non sono modificate da quelle del presente articolo.
+
+#### Art. 8
+
+<sup>1.</sup> Gli utili conseguiti da un’impresa di uno Stato contraente con l’esercizio, in traffico internazionale, di navi o di aeromobili, sono imponibili soltanto in detto Stato contraente.
+
+<sup>2.</sup> Un’impresa di uno Stato contraente è esentata nell’altro Stato contraente dall’imposta sulle imprese per quanto riguarda l’esercizio in traffico internazionale di navi o di aeromobili.
+
+<sup>3.</sup> Le disposizioni dei paragrafi 1 e 2 si applicano anche alle partecipazioni di un’impresa di uno Stato contraente, che esercita in traffico internazionale delle navi o degli aeromobili, ad un qualsiasi fondo comune («pool»), esercizio in comune o organismo d’esercizio internazionale.
+
+#### Art. 9
+
+[^9-1]
+
+<sup>1.</sup> e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese ma che a causa di dette condizioni non lo sono stati, possono essere inclusi negli utili di questa impresa e tassati in conseguenza.
+
+Quando:
+
+- a. un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
+- b. le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente;
+
+<sup>2.</sup> Quando, in conformità con il paragrafo 1, uno Stato contraente include negli utili di un’impresa di questo Stato – e tassa in conseguenza – utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e le autorità competenti degli Stati contraenti si accordano che gli utili così inclusi sono utili o parti di utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede ad un aggiustamento dell’ammontare d’imposta prelevato su questi utili. Per determinare questo aggiustamento occorre tener conto delle altre disposizioni della presente Convenzione.
+
+<sup>3.</sup> Nonostante il paragrafo 1, uno Stato contraente non aggiusta gli utili di un’impresa nei casi previsti dal paragrafo 1 dopo lo spirare dei termini previsti dalla sua legislazione nazionale e, in ogni caso dopo sette anni dalla fine dell’anno fiscale in cui gli utili oggetto di tale aggiustamento sarebbero stati conseguiti da un’impresa di questo Stato. Il presente paragrafo non è applicabile in caso di frode od omissione volontaria.
+
+[^9-1]: Nuovo testo giusta l’art. 5 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 10
+
+[^10-1]
+
+<sup>1.</sup> I dividendi pagati da una società residente di uno Stato contraente a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
+
+<sup>2.</sup>
+
+Tuttavia, tali dividendi possono essere anche tassati nello Stato contraente di cui la società che paga i dividendi è residente ed in conformità alla legislazione di detto Stato contraente, ma, se la persona che riceve i dividendi è residente dell’altro Stato contraente, l’imposta così applicata non può eccedere:
+
+- a. il 5 per cento dell’ammontare lordo dei dividendi, se il beneficiario è una società che ha posseduto direttamente o indirettamente, durante un periodo di sei mesi che termina il giorno in cui è fissata la data del diritto ai dividendi,
+  - (i) azioni per almeno il 10 per cento dei diritti di voto della società che paga i dividendi se questa è residente in Giappone, o
+  - (ii) azioni per almeno il 10 per cento del capitale o dei diritti di voto della società che paga i dividendi se questa società è residente in Svizzera;
+
+- b. il 10 per cento dell’ammontare lordo dei dividendi, in tutti gli altri casi.
+
+<sup>3.</sup>
+
+Nonostante le disposizioni del paragrafo 2, i dividendi non sono imponibili nello Stato contraente di cui la società che paga i dividendi è residente se il beneficiario dei dividendi è un residente dell’altro Stato contraente, ed:
+
+- a. è una società che ha posseduto direttamente o indirettamente, durante un periodo di sei mesi (che termina il giorno in cui è fissata la data del diritto ai dividendi),
+  - (i) azioni per almeno il 50 per cento dei diritti di voto della società che paga i dividendi se questa società è residente in Giappone, o
+  - (ii) azioni per almeno il 50 per cento dei diritti di voto della società che paga i dividendi se questa società è residente in Svizzera; o
+
+- b. è una cassa pensioni o un’istituzione di previdenza, purché i dividendi provengano da attività ai sensi del numero (ii) della lettera k del paragrafo 1 dell’articolo 3.
+
+<sup>4.</sup> I paragrafi 2 e 3 non modificano l’imposizione della società per gli utili con i quali sono pagati i dividendi.
+
+<sup>5.</sup> Ai fini del presente articolo il termine «dividendi» designa i redditi derivanti da azioni o da altre quote di partecipazione agli utili – ad eccezione dei crediti – nonché i redditi assoggettati al medesimo regime fiscale dei redditi delle azioni secondo la legislazione fiscale dello Stato di cui è residente la società distributrice.
+
+<sup>6.</sup> Le disposizioni dei paragrafi 1, 2 e 3 non si applicano nel caso in cui il beneficiario dei dividendi, residente di uno Stato contraente, esercita nell’altro Stato contraente di cui è residente la società che paga i dividendi, sia un’attività commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una sede fissa ivi situata, cui si ricollega effettivamente la partecipazione generatrice dei dividendi. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 14, a seconda dei casi.
+
+<sup>7.</sup> Qualora una società residente di uno Stato contraente ritragga utili o redditi dall’altro Stato contraente, questo altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società, a meno che tali dividendi non siano pagati ad un residente di questo altro Stato o a meno che la partecipazione generatrice dei dividendi non sia effettivamente collegata a una stabile organizzazione o a una sede fissa situata in questo altro Stato, né riscuotere alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscono in tutto o in parte utili o redditi provenienti da questo altro Stato.
+
+<sup>8.</sup> detenga azioni o partecipazioni simili equivalenti a quelle del primo residente.
+
+Un residente di uno Stato contraente non è considerato come beneficiario dei dividendi pagati da un residente dell’altro Stato contraente in relazione ad azioni o partecipazioni simili, se la costituzione o l’acquisto di queste azioni o partecipazioni simili risultano dal fatto che una persona:
+
+- a. la quale non beneficia, per i dividendi pagati da un residente dell’altro Stato contraente, di vantaggi equivalenti o maggiori a quelli accordati dalla presente Convenzione a un residente del primo Stato contraente; e
+- b. non è residente di uno degli Stati contraenti;
+
+[^10-1]: Nuovo testo giusta l’art. 6 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 11
+
+[^11-1]
+
+<sup>1.</sup> Gli interessi provenienti da uno Stato contraente e corrisposti a un residente dell’altro Stato contraente sono imponibili in quest’ultimo Stato.
+
+<sup>2.</sup> Tuttavia, tali interessi possono essere tassati anche nello Stato contraente dal quale essi provengono e in conformità della legislazione di detto Stato, ma, se il beneficiario degli interessi è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere il 10 per cento dell’ammontare lordo degli interessi.
+
+<sup>3.</sup>
+
+Nonostante le disposizioni del paragrafo 2, gli interessi provenienti da uno Stato contraente sono imponibili solo nell’altro Stato contraente se:
+
+- a. il beneficiario degli interessi è il Governo dell’altro Stato contraente, una sua suddivisione politica, un suo ente locale o la banca di emissione dell’altro Stato contraente o un suo ente governativo;
+- b. il beneficiario degli interessi è un residente dell’altro Stato contraente i cui interessi sono pagati in dipendenza di crediti garantiti, assicurati o finanziati indirettamente da detto altro Stato contraente, o dalle sue suddivisioni politiche, o dai suoi enti locali o dalla banca di emissione dell’altro Stato contraente o da un ente governativo;
+- c.
+
+  il beneficiario degli interessi è un residente dell’altro Stato contraente ed è:
+
+  - (i) una banca,
+  - (ii) una società d’assicurazioni,
+  - (iii) un commerciante di valori mobiliari, o
+  - (iv) un’altra impresa, purché, durante i tre anni fiscali precedenti l’anno fiscale in cui gli interessi sono pagati, oltre il 50 per cento dei suoi passivi siano dovuti all’emissione di obbligazioni su mercati finanziari o alla remunerazione di depositi dietro interesse e purché oltre il 50 per cento dei suoi attivi siano costituiti da crediti nei confronti di persone che non hanno relazioni con l’impresa ai sensi della lettera a o b del paragrafo 1 dell’articolo 9;
+
+- d. il beneficiario degli interessi è una cassa pensioni o un istituzione di previdenza dell’altro Stato contraente, purché questi interessi provengano da attività giusta il numero (ii) della lettera k del paragrafo 1 dell’articolo 3; o
+- e. il beneficiario di questi interessi è un residente dell’altro Stato contraente e questi interessi sono pagati per un debito derivante dalla vendita a credito di equipaggiamenti o merci da parte di un residente dell’altro Stato.
+
+<sup>4.</sup>
+
+Ai fini del paragrafo 3 le espressioni «la banca di emissione» ed «ente governativo» significano:
+
+- a.
+
+  in Giappone:
+
+  - (i) la Banca del Giappone (the Bank of Japan),
+  - (ii) la Società finanziaria giapponese (the Japan Finance Corporation),
+  - (iii) l’Agenzia giapponese per la cooperazione internazionale (the Japan International Cooperation Agency),
+  - (iv) l’Assicurazione giapponese per le esportazioni e gli investimenti (the Nippon Export and Investment Insurance), e
+  - (v) qualsiasi altro ente simile appartenente al Governo giapponese, per cui i Governi degli Stati contraenti si accordano caso per caso tramite uno scambio di note diplomatiche;
+
+- b.
+
+  Svizzera:
+
+  - (i) la Banca nazionale svizzera,
+  - (ii) l’Assicurazione svizzera contro i rischi delle esportazioni,
+  - (iii) l’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA),
+  - (iv) un istituto ai sensi della legge federale del 20 dicembre 1946[^11-2] su l’assicurazione per la vecchiaia e per i superstiti, e
+  - (v) qualsiasi altro ente simile appartenente al Governo svizzero, per cui i Governi degli Stati contraenti si accordano caso per caso tramite uno scambio di note diplomatiche.
+
+<sup>5.</sup> Ai fini del presente articolo il termine «interessi» designa i redditi provenienti da crediti di ogni natura, corredati o no di diritti di pegno o di una clausola di partecipazione agli utili del debitore, e segnatamente i redditi provenienti da prestiti pubblici e obbligazioni di prestiti, compresi i premi e altri frutti relativi a detti titoli, nonché tutti i proventi assimilabili, in base alla legislazione dello Stato contraente da cui i redditi provengono, ai redditi di somme date in prestito. Il termine «interessi» non comprende tuttavia i redditi menzionati all’articolo 10.
+
+<sup>6.</sup> Le disposizioni dei paragrafi 1, 2 e 3 non si applicano nel caso in cui il beneficiario effettivo degli interessi, residente di uno Stato contraente, esercita, nell’altro Stato contraente dal quale provengono gli interessi, un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata o una professione indipendente mediante una base fissa ivi situata, e il credito generatore degli interessi si ricollega effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 14, a seconda dei casi.
+
+<sup>7.</sup> Gli interessi si considerano provenire da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una sede fissa per le cui necessità viene contratto il debito sul quale sono pagati gli interessi e tali interessi sono a carico della stabile organizzazione o sede fissa, gli interessi stessi si considerano provenienti dallo Stato in cui è situata la stabile organizzazione o sede fissa.
+
+<sup>8.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario o tra ciascuno di essi e terze persone, l’ammontare degli interessi pagati, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+<sup>9.</sup> detenga un credito equivalente nei confronti del primo residente.
+
+Un residente di uno Stato contraente non è considerato come beneficiario degli interessi provenienti dall’altro Stato contraente in relazione a un credito se la pretesa di questo credito risulta dal fatto che una persona:
+
+- a. la quale non beneficia, per gli interessi provenienti dall’altro Stato contraente, di vantaggi equivalenti o maggiori a quelli accordati dalla presente Convenzione a un residente del primo Stato contraente; e
+- b. non è residente di uno degli Stati contraenti;
+
+[^11-1]: Nuovo testo giusta l’art. 7 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^11-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 12
+
+[^12-1]
+
+<sup>1.</sup> I canoni provenienti da uno Stato contraente e pagati ad un residente dell’altro Stato contraente sono imponibili in detto altro Stato, se questo residente ne è il beneficiario.
+
+<sup>2.</sup> Ai fini del presente articolo il termine «canoni» designa i compensi di qualsiasi natura corrisposti per l’uso o la concessione in uso di un diritto d’autore su opere letterarie, artistiche o scientifiche (ivi comprese le pellicole cinematografiche e le pellicole o le registrazioni su nastro per trasmissioni radiofoniche e televisive), di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o procedimenti segreti oppure per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.
+
+<sup>3.</sup> Le disposizioni del paragrafo 1 non si applicano nel caso in cui il beneficiario dei canoni, residente di uno Stato contraente, svolge nell’altro Stato contraente dal quale provengono i canoni, sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una libera professione mediante una base fissa ivi situata, e che il diritto o il bene generatore dei canoni vi sia effettivamente connesso. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 14, a seconda dei casi.
+
+<sup>4.</sup> Quando, in conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario o tra ciascuno di essi e terze persone, l’ammontare dei canoni, tenuto conto della prestazione per la quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+<sup>5.</sup>
+
+Un residente di uno Stato contraente non è considerato come beneficiario dei canoni provenienti dall’altro Stato contraente in relazione all’uso del diritto o al bene generatore dei canoni, se il pagamento di questi canoni è da ricondurre a questa persona residente che paga i canoni a una persona per l’uso degli stessi diritti:
+
+- a. che non beneficia, per i canoni provenienti dall’altro Stato contraente, di vantaggi equivalenti o maggiori a quelli accordati dalla presente Convenzione a un residente del primo Stato contraente; e
+- b. non è residente di uno degli Stati contraenti.
+
+[^12-1]: Nuovo testo giusta l’art. 8 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 13
+
+[^13-1]
+
+<sup>1.</sup> Gli utili che un residente di uno Stato contraente ritrae dall’alienazione di beni immobili secondo la definizione di cui all’articolo 6 e situati nell’altro Stato contraente, sono imponibili in quest’ultimo Stato.
+
+<sup>2.</sup> Gli utili che un residente di uno Stato contraente consegue dall’alienazione di azioni di una società o di partecipazioni a un trust costituiti, direttamente o indirettamente, da almeno il 50 per cento da beni immobili ai sensi dell’articolo 6 situati nell’altro Stato contraente sono imponibili in detto altro Stato.
+
+- 3\. a.
+
+  Quando:
+
+  - (i) uno Stato contraente (includendo, nel caso del Giappone, la Società giapponese di assicurazione dei depositi) fornisce, secondo il suo diritto in materia di cessazione di pagamento imminente da parte di istituti finanziari, un importante sostegno finanziario a un istituto finanziario residente di questo Stato, e
+  - (ii) un residente dell’altro Stato contraente acquista azioni dell’istituto finanziario residente nel primo Stato contraente,
+
+- il primo Stato contraente può tassare gli utili conseguiti con l’alienazione di tali azioni dal residente dell’altro Stato contraente, purché l’alienazione avvenga entro cinque anni a contare dal primo giorno in cui il sostegno finanziario è stato fornito;
+- b. le disposizioni della lettera a non sono applicabili se la persona residente nell’altro Stato contraente ha acquisito azioni dell’istituto finanziario del primo Stato contraente menzionato, conformemente al contratto concluso, o prima dell’entrata in vigore delle disposizioni del presente paragrafo.
+
+<sup>4.</sup> Gli utili provenienti dall’alienazione di beni, eccettuati i beni immobili, facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente o di beni, eccettuati i beni immobili, appartenenti a una base fissa di cui un residente di uno Stato contraente dispone nell’altro Stato contraente per l’esercizio di una professione indipendente, compresi utili analoghi provenienti dall’alienazione di tale stabile organizzazione (da sola o in una con l’intera impresa) o di tale base fissa, sono imponibili in questo altro Stato.
+
+<sup>5.</sup> Gli utili di un’impresa residente di uno Stato contraente derivanti dall’alienazione di navi o aeromobili impiegati nel traffico internazionale da detta impresa e di beni, eccettuati i beni immobili adibiti al loro esercizio sono imponibili soltanto in questo Stato.
+
+<sup>6.</sup> Gli utili derivanti dall’alienazione di ogni altro bene diverso da quelli indicati ai paragrafi precedenti del presente articolo sono imponibili soltanto nello Stato contraente di cui l’alienante è residente.
+
+[^13-1]: Nuovo testo giusta l’art. 9 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 14
+
+<sup>1.</sup> I redditi che un residente di uno Stato contraente ritrae dall’esercizio di una libera professione o da altre attività indipendenti di carattere analogo sono imponibili soltanto in detto Stato contraente, a meno che, il residente non disponga abitualmente nell’altro Stato contraente di una sede fissa per l’esercizio della sua attività. Ove disponga di una tale sede fissa, i redditi sono imponibili in questo altro Stato contraente, ma soltanto nella misura in cui sono attribuibili a detta sede fissa.
+
+<sup>2.</sup> L’espressione «libera professione» comprende, in particolare, le attività indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, come anche le attività indipendenti dei medici, degli avvocati, degli ingegneri, degli architetti, dei dentisti e dei contabili.
+
+#### Art. 15
+
+<sup>1.</sup> Salve le disposizioni degli articoli 16, 18 e 19[^15-1], gli stipendi, i salari e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente sono imponibili soltanto in detto Stato contraente a meno che tale attività non venga svolta nell’altro Stato contraente. In quest’ultimo caso, le rimunerazioni percepite a detto titolo sono imponibili in questo altro Stato contraente.
+
+<sup>2.</sup>
+
+Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente svolta nell’altro Stato contraente sono imponibili soltanto nel primo Stato contraente se:
+
+- a. il beneficiario soggiorna nell’altro Stato contraente per un periodo o periodi di non più di 183 giorni, in totale, dell’anno civile considerato;
+- b. le rimunerazioni sono pagate da o a nome di un datore di lavoro che non è residente dell’altro Stato contraente
+- c. l’onere delle rimunerazioni non è sostenuto da una stabile organizzazione o sede fissa che il datore di lavoro ha nell’altro Stato contraente.
+
+<sup>3.</sup> Nonostante le disposizioni precedenti del presente articolo, le rimunerazioni dovute per attività dipendente svolta a bordo di navi o di aeromobili che un’impresa di uno Stato contraente esercita in traffico internazionale sono imponibili in questo Stato contraente.
+
+[^15-1]: Nuova espressione giusta l’art. 10 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 16
+
+Le rimunerazioni che un residente di uno Stato contraente riceve come membro del consiglio di vigilanza o di amministrazione di una società residente dell’altro Stato contraente sono imponibili in detto altro Stato contraente.
+
+#### Art. 17
+
+[^17-1]
+
+<sup>1.</sup> Nonostante le disposizioni degli articoli 14 e 15, i redditi che un residente di uno Stato contraente ritrae dalle sue prestazioni personali esercitate nell’altro Stato contraente in qualità di artista dello spettacolo, come artista di teatro, del cinema, della radio o della televisione, o in qualità di musicista o di sportivo, sono imponibili in detto altro Stato.
+
+<sup>2.</sup> Quando il reddito proveniente da prestazioni personali esercitate da un artista dello spettacolo o da uno sportivo in tale qualità è attribuito a una persona diversa dall’artista o dallo sportivo medesimo, detto reddito è imponibile, nonostante le disposizioni degli articoli 7, 14 e 15, nello Stato contraente dove dette prestazioni sono svolte.
+
+[^17-1]: Nuovo testo giusta l’art. 11 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 18
+
+Salve le disposizioni del’articolo 19 paragrafo 1 le pensioni e le altre rimunerazioni analoghe, pagate a un residente di uno Stato contraente a titolo di cessato impiego, sono imponibili soltanto in questo Stato contraente.
+
+#### Art. 19
+
+<sup>1.</sup> Le rimunerazioni, comprese le pensioni, pagate da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale, sia direttamente sia mediante prelevamento da un fondo speciale al quale questo Stato contraente, la sua suddivisione politica o l’ente locale versano dei contributi, ad una persona fisica sua cittadina per servizi resi a questo Stato contraente, ad una sua suddivisione politica o ad un suo ente locale nell’esercizio di pubbliche funzioni, sono imponibili soltanto in questo Stato contraente.
+
+<sup>2.</sup> Gli articoli 15, 16, 17 e 18 si applicano alle rimunerazioni o alle pensioni pagate per lavoro dipendente prestato in relazione ad un’attività commerciale o industriale, avente scopi di lucro, svolta da uno degli Stati contraenti, da una sua suddivisione politica o da un suo ente locale.
+
+#### Art. 20
+
+[^20-1]
+
+[^20-1]: Abrogato dall’art. 12 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, con effetto dal 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 21
+
+Le somme che uno studente o un praticante – il quale soggiorna in uno Stato contraente soltanto con lo scopo di proseguire i suoi studi (3 la sua formazione professionale ed è o era prima residente dell’altro Stato contraente – riceve per sopperire alle spese di mantenimento, di studio o di formazione non sono imponibili nel primo Stato contraente, a condizione che tali somme provengano da fonti situate fuori di questo Stato contraente.
+
+#### Art. 21A
+
+[^21A-1]
+
+Nonostante le altre diposizioni di questa Convenzione, i redditi e gli utili ricevuti da un finanziatore (Sleeping Partner) di un contratto di una società di persone (Tokumei Kumiai) o da un altro contratto simile, sono imponibili nello Stato contraente da cui provengono tali redditi o utili e secondo la legislazione di questo Stato contraente.
+
+[^21A-1]: Introdotto dall’art. 13 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 22
+
+[^22-1]
+
+<sup>1.</sup> Gli altri redditi di un beneficiario di uno Stato contraente, qualsiasi ne sia la provenienza, (designati nel presente articolo come «altri redditi») che non sono stati trattati negli articoli precedenti della presente Convenzione sono imponibili soltanto in questo Stato.
+
+<sup>2.</sup> Le disposizioni del paragrafo 1 non si applicano ai redditi diversi da quelli provenienti da beni immobili come sono definiti al paragrafo 2 dell’articolo 6, quando il beneficiario di tali altri redditi, residente di uno Stato contraente, esercita, nell’altro Stato contraente, sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una sede fissa ivi situata, cui si ricollega effettivamente il diritto o il bene generatore di tali altri redditi. In tale caso, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 14, a seconda dei casi.
+
+<sup>3.</sup> Se, in conseguenza di particolari relazioni esistenti tra il residente di cui al paragrafo 1 e il debitore o tra ciascuno di essi e terze persone, l’importo degli altri redditi pagati, eccede quello che sarebbe stato convenuto in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo importo. In tale caso, la somma eccedente degli altri redditi è imponibile secondo la legislazione di ciascuno Stato contraente, fermo restando le altre disposizioni della presente Convenzione.
+
+<sup>4.</sup>
+
+Un residente di uno Stato contraente non è considerato come beneficiario degli altri redditi provenienti dall’altro Stato contraente, se il pagamento di questi altri redditi deriva dal fatto che una persona:
+
+- a. non beneficia, per gli altri redditi provenienti dall’altro Stato contraente, di vantaggi equivalenti o maggiori a quelli accordati dalla presente Convenzione a un residente del primo Stato contraente; e
+- b. non è residente di uno degli Stati contraenti.
+
+[^22-1]: Nuovo testo giusta l’art. 14 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+### **Art. 22**A**
+
+[^22-subdivu2-1]
+
+[^22-subdivu2-1]: Introdotto dall’art. 15 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+<sup>1.</sup> Salvo disposizioni contrarie al presente articolo, un residente di uno Stato contraente che ritrae redditi dall’altro Stato contraente di cui al paragrafo 3 dell’articolo 10, alle lettere c, d o e del paragrafo 3 dell’articolo 11, all’articolo 12, al paragrafo 6 dell’articolo 13 o all’articolo 22, può beneficiare per un anno fiscale dei vantaggi accordati dalle disposizioni di queste lettere, paragrafi o articoli solo se questo residente è un avente diritto ai sensi del paragrafo 2 e se soddisfa tutte le altre condizioni previste da queste lettere, paragrafi o articoli per beneficiare di tali vantaggi.
+
+<sup>2.</sup>
+
+Un residente di uno Stato contraente è un avente diritto per un anno fiscale solo se è:
+
+- a. una persona fisica;
+- b. un ente governativo autorizzato;
+- c. una società la cui principale categoria di azioni è quotata o registrata in una borsa riconosciuta ai sensi dei numeri (i) o (ii) della lettera c del paragrafo 8 e negoziata con regolarità in una o diverse borse riconosciute;
+- d. una banca, una società di assicurazioni o un commerciante di titoli che a tale titolo è stato costituito ed è sottoposto a vigilanza secondo la legislazione dello Stato contraente di cui è residente;
+- e. una persona, ai sensi della lettera b o c del paragrafo 1 dell’articolo 4, purché – nel caso di una persona secondo questa lettera b – oltre il 50 per cento dei beneficiari, membri o partecipanti siano persone fisiche residenti in uno Stato contraente alla fine dell’anno fiscale precedente; o
+- f. un’altra persona diversa una persona fisica purché gli aventi diritto secondo le lettere a, b, c, d o e del presente paragrafo siano persone residenti di uno degli Stati contraenti che detengono direttamente o indirettamente azioni o altre partecipazioni rappresentanti almeno il 50 per cento del capitale o dei diritti di voto di questa persona.
+
+<sup>3.</sup> Una società residente di uno Stato contraente può, anche se non è un avente diritto, beneficiare dei vantaggi previsti dalla Convenzione di cui al paragrafo 3 dell’articolo 10, alle lettere c, d o e del paragrafo 3 dell’articolo 11, all’articolo 12, al paragrafo 6 dell’articolo 13 o all’articolo 22, in relazione ai redditi di cui a queste lettere, paragrafi o articoli provenienti dall’altro Stato contraente, se tale residente soddisfa tutte le altre condizioni previste in questi articoli, paragrafi o lettere per beneficiare di tali vantaggi e se le azioni che ammontano ad almeno il 75 per cento del capitale o dei diritti di voto sono detenute direttamente o indirettamente al massimo da sette persone che sono beneficiari equivalenti.
+
+<sup>4.</sup>
+
+Ai fini dell’applicazione della lettera f del paragrafo 2 o del paragrafo 3 si presuppone che un residente di uno Stato contraente:
+
+- a. in relazione all’imposizione alla fonte, soddisfa le condizioni descritte in questa lettera o paragrafo per l’anno fiscale in cui il pagamento è effettuato, se queste condizioni sono soddisfatte durante un periodo di 12 mesi precedente la data del pagamento del reddito o, nel caso dei dividendi, la data nella quale è stato stabilito il diritto ai dividendi;
+- b. in tutti gli altri casi, soddisfa le condizioni descritte in questa lettera o paragrafo per l’anno fiscale in cui il pagamento è effettuato, se queste condizioni sono soddisfatte per almeno la metà dei giorni dell’anno fiscale in considerazione.
+- 5\. a.
+
+  Una società residente di uno Stato contraente può, anche se non è un avente diritto, beneficiare dei vantaggi della Convenzione previsti al paragrafo 3 dell’articolo 10, alle lettere c, d o e del paragrafo 3 dell’articolo 11, all’articolo 12, al paragrafo 6 dell’articolo 13 o all’articolo 22 in relazione ai redditi di cui a queste lettere, paragrafi o articoli provenienti dall’altro Stato contraente, se:
+
+  - (i) questo residente esercita la funzione di una società che è la sede amministrativa principale di un gruppo d’imprese multinazionale,
+  - (ii) i redditi provenienti dall’altro Stato contraente sono realizzati con l’esercizio di un’attività commerciale secondo il numero (ii) della lettera b o sono a essa accessori, e
+  - (iii) questo residente soddisfa le altre condizioni previste in questi articoli, paragrafi o lettere per beneficiare di tali vantaggi della Convenzione.
+
+- b.
+
+  Ai sensi della lettera a un residente di uno Stato contraente è considerato società che è la sede amministrativa principale di un gruppo d’imprese multinazionale soltanto se:
+
+  - (i) questo residente esercita una parte sostanziale del controllo e della gestione di un gruppo di società o il finanziamento del gruppo,
+  - (ii) il gruppo di società è costituito da società che sono residenti di almeno cinque Stati e ivi esercitano effettivamente un’attività commerciale e se almeno il 5 per cento dei redditi lordi del gruppo è realizzato in ognuno dei cinque Stati,
+  - (iii) meno del 50 per cento dei redditi lordi del gruppo è realizzato in ognuno di questi Stati, escluso lo Stato contraente di cui è residente la società che è la sede amministrativa principale del gruppo d’imprese;
+  - (iv) il 50 per cento al massimo del reddito lordo proviene dall’altro Stato contraente,
+  - (v) questo residente possiede la competenza di assolvere autonomamente le funzioni menzionate al numero (i),
+  - (vi) questo residente è sottoposto, nello Stato contraente di cui è residente, alle stesse disposizioni concernenti le imposte sul reddito come i residenti di cui al paragrafo 6.
+
+- c. Ai sensi della lettera b si ritiene che un residente di uno Stato contraente soddisfa le condizioni richieste ai numeri (ii), (iii) o (iv) della presente lettera relative all’origine dei redditi lordi per l’anno fiscale in cui il reddito è conseguito, se questo residente soddisfa ognuna di queste condizioni per la media dei redditi conseguiti nei tre anni precedenti.
+- 6\. a.
+
+  Una società residente di uno Stato contraente può, anche se non è un avente diritto, beneficiare dei vantaggi della Convenzione previsti al paragrafo 3 dell’articolo 10, alle lettere c, d o e del paragrafo 3 dell’articolo 11, all’articolo 12, al paragrafo 6 dell’articolo 13 o all’articolo 22 in relazione ai redditi di cui a queste lettere, paragrafi o articoli provenienti dall’altro Stato contraente, se:
+
+  - (i) questo residente esercita un’attività commerciale (diversa da un’attività che consiste nell’effettuare, nel gestire investimenti di capitali per proprio conto, a meno che non si tratti di attività bancarie o assicurative oppure di operazioni su titoli esercitate da una banca o da una società d’assicurazioni o da un commerciante di titoli),
+  - (ii) i redditi provenienti dall’altro Stato contraente sono realizzati con l’esercizio di questa attività o sono ad essa accessori, e
+  - (iii) questo residente soddisfa le altre condizioni previste in questi articoli, paragrafi o lettere per beneficiare di tali vantaggi della Convenzione.
+
+- b. Qualora un residente di uno Stato contraente ritragga redditi da un’attività esercitata nell’altro Stato contraente o riceve redditi dall’altro Stato contraente da una persona associata al residente da una relazione ai sensi delle lettere a o b del paragrafo 1 dell’articolo 9, le condizioni di cui alla lettera a sono considerate come soddisfatte per tali redditi se l’attività dell’impresa esercitata nel primo Stato contraente è rilevante in rapporto all’attività esercitata nell’altro Stato contraente. I fatti e l’insieme delle circostanze stabiliscono se l’attività commerciale debba considerarsi rilevante.
+- c. Allo scopo di determinare se un residente esercita un’attività commerciale a sensi della lettera a del presente paragrafo, l’attività esercitata da una società di persone nella quale questo residente è associato e l’attività esercitata da persone associate a questa persona sono considerate come esercitate da questo residente. Un residente è associato a un’altra persona se detiene, direttamente o indirettamente, azioni o altri diritti di partecipazione dell’altra persona per almeno il 50 per cento del capitale o dei diritti di voto dell’altra persona, o se una terza persona detiene, direttamente o indirettamente, azioni o altri diritti di partecipazione di entrambe le persone per almeno il 50 per cento del capitale o dei diritti di voto di entrambe le persone. In tutti i casi un residente è associato a un’altra persona se, tenendo conto dei fatti e di tutte le circostanze del caso particolare, una controlla l’altra o se sono entrambe controllate dalla stessa o dalle stesse persone.
+
+<sup>7.</sup> Un residente di uno Stato contraente che secondo i paragrafi 3, 5 o 6 non è un avente diritto e secondo il paragrafo 3 dell’articolo 10, le lettere c, d o e del paragrafo 3 dell’articolo 11, l’articolo 12, il paragrafo 6 dell’articolo 13 o l’articolo 22 non beneficia dei vantaggi prevista nella Convenzione per i redditi contemplati in questi articoli, paragrafi o lettere, può fruire di tali vantaggi se l’autorità competente dell’altro Stato contraente, conformemente alla legislazione o la prassi amministrativa di questo altro Stato contraente, decide che la costituzione, l’acquisto o il mantenimento di questo residente e l’esercizio dell’attività di questo residente non hanno tra gli scopi principali l’ottenimento dei vantaggi della Convenzione.
+
+<sup>8.</sup>
+
+Ai fini del presente articolo:
+
+- a. l’espressione «ente governativo autorizzato» designa il Governo di uno Stato contraente, una sua suddivisione politica, un suo ente locale, la Banca del Giappone, la Banca nazionale svizzera nonché una persona la cui maggioranza del capitale è detenuta direttamente o indirettamente dal governo di uno Stato contraente, da una sua suddivisione politica o da un suo ente locale;
+- b. l’espressione «principale categoria di azioni» designa la categoria o le categorie di azioni di una società che rappresentano la maggioranza del capitale o dei diritti di voto della società;
+- c.
+
+  l’espressione «borsa riconosciuta» designa:
+
+  - (i) qualsiasi borsa istituita da una borsa finanziaria o un’associazione di società di strumenti finanziari secondo la legge giapponese sul commercio di prodotti finanziari (legge n. 25 del 1948),
+  - (ii) ogni borsa svizzera presso cui avviene un commercio di azioni registrate,
+  - (iii) le borse di Londra, la borsa irlandese e le borse i Amsterdam, Bruxelles, Düsseldorf, Francoforte, Amburgo, Johannesburg, Lisbona, Lussemburgo, Madrid, Messico, Milano, New York, Parigi, Seul, Singapore, Stoccolma, Sydney, Toronto e Vienna, nonché il sistema NASDAQ,
+  - (iv) qualsiasi altra borsa riconosciuta dalle competenti autorità degli Stati contraenti ai sensi del presente articolo;
+
+- d.
+
+  l’espressione «beneficiario equivalente» designa:
+
+  - (i)
+
+    un residente di uno Stato contraente che ha una Convenzione per evitare le doppie imposizioni con lo Stato contraente a cui è richiesto di accordare i vantaggi della presente Convenzione a condizione che:
+
+    - aa. la Convenzione contenga una disposizione per uno scambio di informazioni effettivo,
+    - bb. questo residente sia un avente diritto ai sensi della disposizione sulla limitazione dei vantaggi della Convenzione o, se la Convenzione non lo prevede, sarebbe considerato come avente diritto se la presente Convenzione sarebbe interpretata come se contenesse la disposizione corrispondente al paragrafo 2, e
+    - cc. trattandosi di redditi di cui al paragrafo 3 dell’articolo 10, alle lettere c, d o e del paragrafo 3 dell’articolo 11, all’articolo 12, al paragrafo 6 dell’articolo 13 o all’articolo 22, in virtù della presente Convenzione questo residente ha diritto per i redditi a cui sono richiesti i vantaggi della Convenzione, a un’aliquota d’imposta bassa almeno quanto l’aliquota applicabile in base alla presente Convenzione; o
+
+  - (ii) un avente diritto ai sensi delle lettere a, b, c, d o e del paragrafo 2;
+
+- e. l’espressione «redditi lordi» designa tutti i redditi conseguiti da un’impresa, dedotte le spese direttamente legate alla realizzazione di questi redditi.
+
+#### Art. 23
+
+[^23-1]
+
+<sup>1.</sup> Conformemente alla legislazione giapponese concernente il computo sull’imposta giapponese dell’imposta da pagarsi in un altro Stato che non sia il Giappone, se un residente del Giappone ritrae redditi dalla Svizzera che secondo le disposizioni della presente Convenzione sono imponibili in Svizzera, l’importo corrispondente all’imposta gravante su questi redditi viene computato sull’imposta giapponese dovuta da questa persona. L’ammontare computato non può tuttavia eccedere la frazione dell’imposta giapponese che corrisponde a questi redditi imponibili.
+
+<sup>2.</sup> Ai sensi del paragrafo 1, i redditi conseguiti da un residente del Giappone, che secondo le disposizioni della presente Convenzione sono imponibili in Svizzera, si considerano provenienti da fonti situate in Svizzera.
+
+<sup>3.</sup> Qualora un residente di Svizzera ritragga redditi che giusta le disposizioni della presente Convenzione sono imponibili in Giappone, la Svizzera esenta da imposta detti redditi, salvo il paragrafo 4 o 6, ma può, per determinare l’imposta afferente al rimanente reddito di questo residente, applicare l’aliquota corrispondente all’intero reddito, senza tener conto dell’esenzione; questa esenzione si applica agli utili di cui al paragrafo 2 dell’articolo 13, unicamente se ne è provata la loro effettiva imposizione in Giappone secondo questo paragrafo.
+
+<sup>4.</sup> La Svizzera determina la natura dello sgravio e ne disciplina la procedura secondo le disposizioni sull’esecuzione delle convenzioni internazionali concluse dalla Confederazione per evitare i casi di doppia imposizione.
+
+Se un residente di Svizzera percepisce dividendi o interessi che, conformemente all’articolo 10 o 11, sono imponibili in Giappone, la Svizzera concede a questo residente, a sua richiesta, uno sgravio fiscale. Questo sgravio consiste:
+
+- a. nel computo dell’imposta pagata in Giappone, giusta gli articoli 10 e 11, sull’imposta sul reddito di suddetto residente; l’importo computato non può tuttavia eccedere la frazione dell’imposta, calcolata prima del computo, che corrisponde al reddito imponibile in Giappone; o
+- b. in una riduzione globale dell’imposta svizzera, calcolata secondo norme prestabilite, che tenga conto dei principi generali di sgravio di cui alla lettera a precedente; o
+- c. in un’esenzione parziale dei redditi di cui si tratta dall’imposta svizzera, ma almeno in una deduzione dell’imposta pagata al Giappone dall’ammontare lordo dei redditi ritratti in Giappone.
+
+<sup>5.</sup> Una società residente di Svizzera che riceve dividendi da una società residente del Giappone beneficia, per quanto riguarda l’imposta svizzera afferente a tali dividendi, dei medesimi vantaggi di cui beneficerebbe se la società che paga i dividendi fosse un residente della Svizzera.
+
+<sup>6.</sup> Se un residente di Svizzera percepisce redditi ai sensi della lettera a del paragrafo 3 dell’articolo 13, la Svizzera accorda su richiesta un computo sull’imposta svizzera uguale all’imposta pagata in Giappone conformemente al paragrafo 3 dell’articolo 13; l’ammontare computato non può tuttavia eccedere la frazione dell’imposta, calcolata prima del computo, che corrisponde al reddito imponibile in Giappone.
+
+[^23-1]: Nuovo testo giusta l’art. 16 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 24
+
+<sup>1.</sup> I cittadini di uno Stato contraente non sono assoggettati nell’altro Stato contraente ad alcuna imposizione od obbligazione ad essa inerente, diversa o più onerosa di quella cui sono o potranno essere assoggettati i cittadini di detto altro Stato trovantisi nella medesima situazione.
+
+2.[^24-1] L’imposizione di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente non può essere in quest’ultimo Stato meno favorevole dell’imposizione delle imprese dello stesso Stato che svolgono la medesima attività. La presente disposizione non può essere interpretata nel senso che faccia obbligo ad uno Stato contraente di accordare ai residenti dell’altro Stato contraente deduzioni personali, esenzioni e riduzioni d’imposta che esso accorda ai propri residenti in relazione alla loro situazione e ai loro oneri familiari.
+
+3.[^24-2] A meno che non siano applicabili le disposizioni del paragrafo 1 dell’articolo 9, del paragrafo 8 dell’articolo 11, del paragrafo 4 dell’articolo 12 o del paragrafo 3 dell’articolo 22, gli interessi, i canoni e altre spese pagati da un’impresa di uno Stato contraente a un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione degli utili imponibili di tale impresa, come se fossero pagati a un residente del primo Stato contraente.
+
+<sup>4.</sup> Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente, posseduto o controllato da uno o più residenti dell’altro Stato contraente, non sono assoggettate nel primo Stato contraente ad alcuna imposizione od obbligazione ad essa inerente, diversa o più onerosa di quella cui sono o potranno essere assoggettate le altre imprese dello stesso genere del primo Stato contraente.
+
+<sup>5.</sup> Ai fini del presente articolo il termine «imposizione» designa le imposte di ogni genere e denominazione.
+
+<sup>6.</sup> L’applicazione di questo articolo non è limitata dalle disposizioni dell’articolo 1.
+
+[^24-1]: Nuovo testo giusta l’art. 17 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^24-2]: Nuovo testo giusta l’art. 17 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 25
+
+1.[^25-1] Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati contraenti, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso ricade nell’ambito di applicazione del paragrafo 1 dell’articolo 24, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+
+<sup>2.</sup> Detta autorità competente, se il reclamo le appare fondato ed essa stessa non è in grado di trovare una soluzione soddisfacente, si sforzerà di risolvere il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alle disposizioni della presente convenzione.
+
+<sup>3.</sup> Le autorità competenti degli Stati contraenti sì sforzeranno, in via di amichevole composizione, di appianare le difficoltà o di dissipare i dubbi che potessero sorgere in ordine all’applicazione o all’interpretazione della presente convenzione. Esse possono altresì concertarsi al fine di evitare la doppia imposizione nei casi non previsti dalla convenzione.
+
+<sup>4.</sup> Le autorità competenti degli Stati contraenti possono comunicare direttamente fra di loro al fine di pervenire ad un accordo nel senso dei paragrafi precedenti.
+
+[^25-1]: Nuovo testo giusta l’art. 18 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 25A
+
+[^25A-1]
+
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione della legislazione interna relativa alle imposte di ogni natura e denominazione riscosse per conto degli Stati contraenti, delle loro suddivisioni politiche o enti locali nella misura in cui l’imposizione prevista non sia contraria alla Convenzione. Lo scambio di informazioni non è limitato dagli articoli 1 e 2.
+
+<sup>2.</sup> Le informazioni ottenute in virtù del paragrafo 1 da uno Stato contraente sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione di questo Stato e sono accessibili soltanto alle persone o autorità (compresi i tribunali e le autorità amministrative) che si occupano dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale oppure della decisione di ricorrere a rimedi giuridici inerenti a queste imposte. Tali persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria.
+
+<sup>3.</sup>
+
+I paragrafi 1 e 2 non possono essere interpretati nel senso che facciano obbligo a uno Stato contraente:
+
+- a. eseguire misure amministrative in deroga alla sua legislazione e alla sua prassi amministrativa o a quelle dell’altro Stato contraente;
+- b. di fornire informazioni che non possono essere ottenute in virtù della sua legislazione o nell’ambito della sua prassi amministrativa normale oppure di quelle dell’altro Stato contraente;
+- c. di fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico.
+
+<sup>4.</sup> Qualora, ai sensi del presente articolo, uno Stato contraente chieda informazioni, l’altro Stato contraente usa le possibilità a sua disposizione al fine di ottenere le informazioni richieste, anche qualora queste informazioni non gli siano utili a fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3; esse non sono tuttavia da interpretare come il rifiuto di comunicare informazioni a uno Stato contraente unicamente poggiandosi sul fatto che queste ultime non presentano per lui alcun interesse per la sua legislazione fiscale nazionale.
+
+<sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 devono essere interpretate nel senso che permettono a uno Stato contraente di rifiutare di comunicare informazioni unicamente perché queste sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona. Nonostante le disposizioni del paragrafo 3 o le disposizioni contrarie del diritto interno, le autorità fiscali dello Stato richiesto sono autorizzate a divulgare le informazioni menzionate in questo paragrafo.
+
+[^25A-1]: Introdotto dall’art. 19 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 26
+
+[^26-1]
+
+<sup>1.</sup> Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i membri di missioni diplomatiche o di rappresentanze consolari in virtù delle regole generali del diritto internazionale o di accordi particolari.
+
+<sup>2.</sup>
+
+Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato contraente, situati nell’altro Stato contraente o in uno Stato terzo, è per l’applicazione della presente Convenzione considerata residente dello Stato accreditante, a condizione che:
+
+- a. conformemente al diritto internazionale, non sia assoggettata, nello Stato accreditatario, ad imposta sui redditi provenienti da fonti esterne a detto Stato; e
+- b. abbia, nello Stato accreditante, i medesimi obblighi, quanto alle imposte sul reddito complessivo, dei residenti di detto Stato.
+
+<sup>3.</sup> La presente Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato terzo, che soggiornano sul territorio di uno Stato contraente e non sono trattati in materia d’imposta sul reddito come residenti dell’uno o dell’altro Stato contraente.
+
+[^26-1]: Nuovo testo giusta l’art. 20 del Prot. del 21 mag. 2010, approvato dall’AF il 17 giu. 2011, entrato in vigore il 30 dic. 2011 ([RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+
+#### Art. 27
+
+<sup>1.</sup> La presente convenzione sarà ratificata e gli strumenti di ratificazione saranno scambiati a Berna non appena possibile.
+
+<sup>2.</sup>
+
+La presente convenzione entra in vigore trenta giorni dopo lo scambio degli strumenti di ratificazione e si applica:
+
+- a. in Giappone: ai redditi percepiti negli anni fiscali che s’iniziano il 1° gennaio dell’anno civile in cui la presente convenzione entrerà in vigore, o dopo tale data;
+- b. in Svizzera: agli anni fiscali che s’iniziano il 1° gennaio dell’anno civile in cui la presente convenzione entrerà in vigore, o dopo tale data.
+
+#### Art. 28
+
+La presente convenzione rimane in vigore a tempo indeterminato. Essa può, però, essere denunziata da ogni Stato contraente, mediante comunicazione scritta all’altro Stato contraente da farsi per via diplomatica, per il 30 giugno, o prima, di ogni anno civile che s’inizia dopo che siano trascorsi cinque anni, calcolati dal giorno dell’entrata in vigore della convenzione. In tal caso essa cesserà di essere applicabile:
+
+- a. in Giappone: ai redditi percepiti nell’anno fiscale che s’inizia il 1° gennaio dell’anno civile susseguente alla denunzia, o dopo tale data;
+- b. in Svizzera: agli anni fiscali che s’iniziano il 1° gennaio dell’anno civile susseguente alla denunzia, o dopo tale data.
+
+*In fede di che* i plenipotenziari sottoscritti hanno firmato la presente convenzione. Fatto a Tokio il 19 gennaio 1971 in sei esemplari originali, due in lingua tedesca, due in lingua giapponese e due in lingua inglese, i quali tutti fanno ugualmente fede; qualora si diano interpretazioni differenti del testo in lingua tedesca e di quello in lingua giapponese, il testo in lingua inglese è decisivo. Per il Consiglio federale svizzero: Per il Governo del Giappone: Emil Stadelhofer Kiichi Aichi
+
+Articolo 21 paragrafi 2 e 3 del Protocollo del 21 maggio 2010[^t-3]
+
+\2. La Convenzione si applicherà:
+
+- a. con riferimento alle imposte trattenute alla fonte, agli importi imponibili al 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore del Protocollo di modifica, o dopo tale data;
+- b. con riferimento alle imposte sul reddito non trattenute alla fonte, ai redditi per l’anno fiscale pagati il 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore del Protocollo di modifica, o dopo tale data; e
+- c. con riferimento alle altre imposte, alle imposte per l’anno fiscale che inizia 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore del Protocollo di modifica, o dopo tale data.
+
+\3. Lo scambio di informazioni secondo le disposizioni dell’articolo 25A della Convenzione, così come previsto dal Protocollo di modifica, è accordato per gli anni fiscali dal 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore del Protocollo di modifica, o dopo tale data.
+
+## Protocollo****
+
+[^annexu1-lvlu2-1]
+
+[^t-3]: [RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)
+[^annexu1-lvlu2-1]: [RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)
+
+All’atto della firma del Protocollo che modifica la Convenzione del 19 gennaio 1971 tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito, il Consiglio federale svizzero e il Governo del Giappone hanno convenuto le seguenti disposizioni, che sono parte integrante della Convenzione:
+
+\1. Per tutta la Convenzione:
+
+Non è accordato alcuno sgravio in virtù della Convenzione se lo scopo principale di una persona che crea o cede un diritto oppure una proprietà, e per cui è stato pagato un reddito, è di ottenere in tal modo i vantaggi della Convenzione.
+
+\2. Ad art. 3 cpv. 1 lett. k della Convenzione:
+
+Resta inteso che una cassa pensioni o un’istituzione di previdenza è esentata dall’imposta sul reddito per le attività di cui al numero (ii) della presente lettera, anche se questo reddito è soggiace all’imposta secondo gli articoli 8 o 10-2 della legge giapponese sulle imprese (legge n. 34 del 1965) o secondo l’articolo 20 paragrafo 1 delle disposizioni complementari di questa legge.
+
+\3. Ad art. 10 della Convenzione:
+
+La lettera a del paragrafo 2 e la lettera a del paragrafo 3 del presente articolo non sono applicabili nel caso di dividendi pagati da una società che ha il diritto di dedurre i dividendi versati dal reddito imponibile nello Stato contraente di cui è residente.
+
+\4. Ad art. 11 par. 3 e 22A della Convenzione:
+
+Resta inteso che il termine «assicurazione» include la riassicurazione.
+
+\5. Ad art. 25A della Convenzione:
+
+- a. Le disposizioni del presente articolo non possono essere interpretate nel senso di imporre a uno Stato contraente l’obbligo di fornire informazioni se l’altro Stato contraente non ha esaurito le fonti abituali di informazioni previste dalla sua legislazione e dalla sua prassi amministrativa, eccetto quelle che comportano difficoltà sproporzionate.
+- b. Resta inteso che lo scambio di informazioni previsto in questo articolo non comprende alcun provvedimento finalizzato alla ricerca generalizzata e indiscriminata di informazioni («fishing expedition»).
+- c.
+
+  Resta inteso che nella richiesta di assistenza amministrativa ai sensi di questo articolo la competente autorità dello Stato richiedente fornisce le seguenti informazioni alla competente autorità dello Stato richiesto:
+
+  - (i) i dati necessari per l’identificazione della persona oggetto del controllo (nome e, per quanto conosciuto, indirizzo, numero di conto o altre informazioni simili che permettono l’identificazione),
+  - (ii) il periodo oggetto della domanda,
+  - (iii) una descrizione delle informazioni ricercate, in particolare il modo e la forma in cui lo Stato richiedente desidera ricevere le informazioni dallo Stato richiesto,
+  - (iv) lo scopo fiscale per cui le informazioni sono state richieste, e
+  - (v) il nome e, se disponibile, l’indirizzo della persona per cui vi è motivo di ritenere che sia in possesso delle informazioni richieste.
+
+- d. Sebbene l’articolo 25A della Convenzione non limiti le procedure relative allo scambio di informazioni, gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico. Gli Stati contraenti si attendono una fornitura reciproca delle informazioni necessarie per l’applicazione della Convenzione.
+- e. Uno Stato contraente può rifiutare di fornire informazioni concernenti comunicazioni confidenziali tra avvocati o tra rappresentanti legali autorizzati e i loro clienti, nella misura in cui tali comunicazioni non possono essere comunicate secondo la legislazione interna di questo Stato contraente.
+- f. Resta inteso che, se uno Stato contraente richiede informazioni sulla base di questo articolo, nel caso di uno scambio di informazioni si applicano nello Stato richiesto le norme di procedura amministrativa relative ai diritti del contribuente nella misura in cui esse non ostacolano o ritardano indebitamente gli scambi effettivi di informazioni.
+
+Il presente Protocollo entra in vigore lo stesso giorno del Protocollo che modifica la Convenzione del 19 gennaio 1971 tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito.
+
+*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno firmato il presente Protocollo di modifica.
+
+Fatto in duplice esemplare a Berna, il 21 maggio 2010, nelle lingue tedesca, giapponese e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione farà stato il testo inglese.
+
+<table>
+<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo del Giappone:</td></tr>
+<tr><td>Hans-Rudolf Merz</td><td>Ichiro Komatsu</td></tr>
+</table>
+
+## Scambio di lettere del 21 maggio 2010**** tra il Consiglio federale svizzero e il Governo del Giappone concernente la Convenzione intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito firmata a Tokio il 19 gennaio 1971, nella versione conforme al Protocollo firmato in data odierna
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5187](https://fedlex.data.admin.ch/eli/fga/2010/1051)
+
+Traduzione*[^annexu1-lvlu3-2]*
+
+Berna, 21 maggio 2010
+
+S. E. Signor Ichiro Komatsu
+
+Ambasciatore straordinario e
+
+plenipotenziario del Gappone in Svizzera
+
+Berna
+
+Eccellenza,
+
+Ho l’onore di confermare la Sua lettera odierna del seguente tenore:
+
+«in riferimento alla Convenzione tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito firmata il 19 gennaio 1971 (di seguito «la Convenzione») e conformemente al Protocollo firmato in data odierna (di seguito «il Protocollo di modifica»), ho l’onore di sottoporle le seguenti proposte a nome del Governo giapponese:
+
+\1. Per quanto concerne l’articolo 3 paragrafo 1 lettera k della Convenzione:
+
+Resta inteso che l’espressione «cassa pensioni o istituzione di previdenza» comprende le seguenti istituzioni nonché tutte le istituzioni simili, costituite sulla base delle leggi emanate dopo la firma del Protocollo di modifica:
+
+- a.
+
+  Casse o istituzioni per pensioni o per la previdenza per la vecchiaia, costituite sulla base delle seguenti leggi giapponesi:
+
+  - (i) National Pension Law (Law No. 141 of 1959),
+  - (ii) Employees’ Pension Insurance Law (Law No. 115 of 1954),
+  - (iii) The Law Concerning Mutual Aid Association for National Public Officials (Law No. 128 of 1958),
+  - (iv) The Law Concerning Mutual Aid Association for Local Public Officials and Personnel of Similar Status (Law No. 152 of 1962),
+  - (v) The Law Concerning Mutual Aid for Private School Personnel (Law No. 245 of 1953),
+  - (vi) Coal-Mining Pension Fund Law (Law No. 135 of 1967),
+  - (vii) Defined-Benefit Corporate Pension Law (Law No. 50 of 2001),
+  - (viii) Defined-Contribution Pension Law (Law No. 88 of 2001),
+  - (ix) Farmers’ Pension Fund Law (Law No. 127 of 2002),
+  - (x) Corporate Tax Law (Law No. 34 of 1965),
+  - (xi) Small and Medium Enterprises Retirement Allowance Mutual Aid Law (Law No. 160 of 1959),
+  - (xii) Small Enterprise Mutual Relief Projects Law (Law No. 102 of 1965), e
+  - (xiii) Cabinet Order of Income Tax Law (Cabinet Order No. 96 of 1965); e
+
+- b. in Svizzera, tutti i piani e modelli secondo
+  - (i) la legge federale del 20 dicembre 1946[^annexu1-lvlu3-3] su l’assicurazione per la vecchiaia e per i superstiti;
+  - (ii) la legge federale del 19 giugno 1959[^annexu1-lvlu3-4] su l’assicurazione per l’invalidità,
+  - (iii) la legge federale del 6 ottobre 2006[^annexu1-lvlu3-5] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità,
+  - (iv) la legge federale del 25 giugno 1982[^annexu1-lvlu3-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, comprese le istituzioni di previdenza non registrate che offrono piani di previdenza professionali, e
+  - (v) le forme previdenziali riconosciute della previdenza individuale vincolata equiparabili alla previdenza professionale secondo l’articolo 82 della legge federale del 25 giugno 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità.
+
+Resta inoltre inteso che l’espressione «cassa pensioni o istituzione di previdenza» comprende i fondi di investimento e trust a condizione che tutte le parti di questi fondi e trust siano tenute da casse pensioni o istituzioni di previdenza.
+
+\2. Per quanto concerne l’articolo 11 paragrafo 3 lettera b della Convenzione:
+
+Resta inteso che la presente lettera è applicabile agli interessi provenienti da uno Stato contraente e pagati a un’istituzione residente nell’altro Stato contraente, che appartiene integralmente alla Banca centrale dell’altro Stato contraente, per crediti finanziati indirettamente da questa Banca centrale.
+
+\3. Per quanto concerne l’articolo 22A paragrafo 5 lettera b numero (i) della Convenzione:
+
+Resta inteso che se un residente di uno Stato contraente esercita una parte sostanziale del controllo e della gestione di un gruppo di società parte di un gruppo più grande di società, o fornisce il finanziamento per tale gruppo, questo residente adempie alle condizioni descritte in questo numero in relazione a questo gruppo di società.
+
+\4. Il presente scambio di lettere sostituisce lo scambio di note del 19 gennaio 1971.
+
+Nella misura in cui le suddette proposte sono approvate dal Consiglio federale svizzera, ho inoltre l’onore di proporre che la presente lettera e la risposta che Sua Eccellenza vorrà fornire siano considerate quale accordo tra i due Governi, che entra in vigore contemporaneamente al Protocollo di modifica.
+
+Voglia gradire, Sua Eccellenza, l’espressione della mia alta stima.»
+
+Il Consiglio federale svizzero approva le suddette proposte, e ho l’onore di confermare che la lettera di Sua Eccellenza e la presente risposta sono considerate quale accordo tra i due Governi, che entra in vigore contemporaneamente al Protocollo di modifica.
+
+Voglia gradire, Sua Eccellenza, l’espressione della mia alta stima.
+
+<table>
+<tr><td></td><td>Hans-Rudolf Merz Capo del Dipartimento federale delle finanze della Confederazione Svizzera</td></tr>
+</table>
+
+[^annexu1-lvlu3-2]: Dal testo originale inglese.
+[^annexu1-lvlu3-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu3-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu3-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^annexu1-lvlu3-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+## Scambio di lettere del 15 maggio 2012**** tra il Consiglio federale svizzero e il Governo del Giappone concernente la Convenzione tra la Confederazione Svizzera e il Giappone intesa a evitare la doppia imposizione nel campo delle imposte sul reddito firmata a Tokyo il 19 gennaio 1971, nel tenore modificato dal Protocollo firmato a Berna il 21 maggio 2010
+
+[^annexu1-lvlu4-1]
+
+[^annexu1-lvlu4-1]: [RU 2012 4475](https://fedlex.data.admin.ch/eli/oc/2012/521)
+
+Entrato in vigore il 15 maggio 2012
+
+Traduzione*[^annexu1-lvlu4-2]*
+
+<table>
+<tr><td>Kazuyoshi Umemoto</td><td>Berna, 15 maggio 2012</td></tr>
+<tr><td>Ambasciatore del Giappone</td><td></td></tr>
+<tr><td>in Svizzera</td><td></td></tr>
+<tr><td>Berna</td><td>Onorevole Presidente della Confederazione</td></tr>
+<tr><td></td><td>signora Eveline Widmer-Schlumpf</td></tr>
+<tr><td></td><td>Presidente della Confederazione</td></tr>
+<tr><td></td><td>Capo del Dipartimento federale delle finanze</td></tr>
+</table>
+
+Onorevole Presidente della Confederazione,
+
+ho l’onore di confermare la sua lettera del 15 maggio 2012 del seguente tenore:
+
+«In riferimento alla Convenzione tra la Confederazione Svizzera e il Giappone intesa a evitare la doppia imposizione nel campo delle imposte sul reddito firmata a Tokyo il 19 gennaio 1971, nel tenore modificato dal Protocollo firmato a Berna il 21 maggio 2010[^annexu1-lvlu4-3] (di seguito «la Convenzione») nonché al Protocollo parte integrante della Convenzione firmato a Berna il 21 maggio 2010 (di seguito «il Protocollo»), ho l’onore di confermare, in nome del Consiglio federale svizzero, l’Accordo seguente tra il Consiglio federale svizzero e il Governo del Giappone:
+
+In riferimento alle richieste di assistenza amministrativa secondo l’articolo 25*a* della Convenzione resta inteso che:
+
+- (1) il riferimento alle informazioni verosimilmente rilevanti di cui al paragrafo 1 del presente articolo ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile;
+- (2) sebbene la lettera c) del numero 5 del Protocollo contenga importanti requisiti procedurali volti a impedire le «fishing expedition», questa lettera deve essere interpretata in modo da non impedire uno scambio effettivo di informazioni.
+
+Ho l’onore di chiederle di confermare in nome del suo Governo l’Accordo di cui sopra.»
+
+Ho l’onore di confermare l’Accordo contenuto nella Sua lettera in nome del Governo del Giappone.
+
+Voglia gradire, onorevole Presidente della Confederazione, l’espressione della mia alta stima.
+
+<table>
+<tr><td></td><td>Kazuyoshi Umemoto</td></tr>
+</table>
+
+[^annexu1-lvlu4-2]: Traduzione dal testo originale inglese.
+[^annexu1-lvlu4-3]: [RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
+
+## Scambio di lettere**** tra il Consiglio federale svizzero e il Governo del Giappone concernente la Convenzione tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito firmata il 19 gennaio 1971 a Tokio nel tenore modificato dal Protocollo firmato il 21 maggio 2010 a Berna
+
+[^annexu1-lvlu5-1]
+
+[^annexu1-lvlu5-1]: [RU 2012 6267](https://fedlex.data.admin.ch/eli/oc/2012/737)
+
+Concluso il 7 settembre 2012 Entrato in vigore il 7 settembre 2012
+
+Traduzione*[^annexu1-lvlu5-2]*
+
+<table>
+<tr><td>Eveline Widmer-Schlumpf Presidente della Confederazione Capo del Dipartimento federale delle finanze</td><td>Berna, 7 settembre 2012</td></tr>
+<tr><td></td><td>Sua Eccellenza signor Kazuyoshi Umemoto Ambasciatore straordinario e plenipotenziario del Giappone in Svizzera</td></tr>
+</table>
+
+Eccellenza,
+
+Ho l’onore di confermare il ricevimento della nota di Sua Eccellenza in data odierna del seguente tenore:
+
+«In riferimento alla Convenzione tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito firmata il 19 gennaio 1971[^annexu1-lvlu5-3] a Tokio nel tenore modificato dal Protocollo firmato il 21 maggio 2010[^annexu1-lvlu5-4] a Berna (di seguito «la Convenzione»), ho l’onore di confermare, in nome del Governo del Giappone, l’accordo seguente tra i due Governi:
+
+In riferimento al paragrafo 4 dell’articolo 11 della Convenzione resta inteso che la «Japan Bank for International Cooperation» sia considerata un ente ai sensi del sottoparagrafo (v) lettera a del paragrafo 4 dell’articolo 11 della Convenzione.
+
+Nella misura in cui le suddette proposte sono approvate dal Consiglio federale svizzero, ho inoltre l’onore di proporre che la presente nota e la risposta di Sua Eccellenza siano considerate quale accordo tra i due Governi, che entra in vigore il giorno della risposta di Sua Eccellenza ed è applicabile agli importi imponibili dal 1° aprile 2012 o successivamente.»
+
+La presente proposta è approvata dal Consiglio federale svizzero e ho inoltre l’onore di confermare che la nota di sua Eccellenza e la presente risposta sono considerate quale accordo tra i due Governi che entra in vigore il giorno della presente risposta ed è applicabile agli importi imponibili dal 1° aprile 2012 o successivamente.
+
+Voglia gradire, Sua Eccellenza, l’espressione della mia alta stima.
+
+<table>
+<tr><td></td><td>Eveline Widmer-Schlumpf</td></tr>
+</table>
+
+[^annexu1-lvlu5-2]: Traduzione dal testo originale inglese.
+[^annexu1-lvlu5-3]: [RS 0.672.946.31](https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725)
+[^annexu1-lvlu5-4]: [RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
+
+## Scambio di lettere**** tra il Consiglio federale svizzero e il Governo del Giappone concernente la Convenzione tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito firmata il 19 gennaio 1971 a Tokio nel tenore modificato dal Protocollo firmato il 21 maggio 2010 a Berna
+
+[^annexu1-lvlu6-1]
+
+[^annexu1-lvlu6-1]: [RU 2012 6269](https://fedlex.data.admin.ch/eli/oc/2012/738)
+
+Concluso il 7 settembre 2012
+
+Entrato in vigore il 7 settembre 2012
+
+Traduzione*[^annexu1-lvlu6-2]*
+
+<table>
+<tr><td>Kazuyoshi Umemoto Ambasciatore del Giappone in Svizzera Berna</td><td>Berna, 7 settembre 2012</td></tr>
+<tr><td></td><td>Onorevole Presidente della Confederazione Capo del Dipartimento federale delle finanze Eveline Widmer-Schlumpf</td></tr>
+</table>
+
+Onorevole Presidente della Confederazione,
+
+Ho l’onore di confermare la sua lettera odierna del seguente tenore:
+
+«In riferimento al Protocollo firmato il 21 maggio 2010 a Berna che modifica la Convenzione tra la Confederazione Svizzera e il Giappone intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito firmata il 19 gennaio 1971[^annexu1-lvlu6-3] a Tokio, nel tenore modificato dal Protocollo firmato a Berna il 21 maggio 2010[^annexu1-lvlu6-4] (di seguito «la Convenzione»), nonché al Protocollo parte integrante della Convenzione firmato a Berna il 21 maggio 2010 (di seguito «il Protocollo») ho l’onore di confermare, in nome del Consiglio federale Svizzero, l’accordo seguente tra i due Governi:
+
+In riferimento alla lettera c) del numero 5 del Protocollo resta inteso che è possibile rispondere a una richiesta di assistenza amministrativa anche quando è possibile identificare il presunto detentore delle informazioni con altre informazioni trasmesse dallo Stato richiedente, oltre a quelle richieste sulla base dei sottoparagrafi (i)–(iv) della lettera c) del numero 5 del Protocollo.
+
+Nella misura in cui le suddette proposte sono approvate dal Governo del Giappone, ho inoltre l’onore di proporre che la presente nota e la risposta di Sua Eccellenza siano considerate quale accordo tra i due Governi, che entra in vigore il giorno della risposta di Sua Eccellenza ed è applicabile dal 1° gennaio 2012 o successivamente.»
+
+La presente proposta è approvata dal Governo del Giappone e ho inoltre l’onore di confermare che la nota di sua Eccellenza e la presente risposta sono considerate quale accordo tra i due Governi che entra in vigore il giorno della presente risposta ed è applicabile dal 1° gennaio 2012 o successivamente.
+
+Voglia gradire, onorevole Presidente della Confederazione, l’espressione della mia alta stima.
+
+<table>
+<tr><td></td><td>Kazuyoshi Umemoto</td></tr>
+</table>
+
+[^annexu1-lvlu6-2]: Traduzione dal testo originale inglese.
+[^annexu1-lvlu6-3]: [RS 0.672.946.31](https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725)
+[^annexu1-lvlu6-4]: [RU 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)

@@ -1,0 +1,1244 @@
+---
+sr: "956.1"
+title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufsicht (Finanzmarktaufsichtsgesetz, FINMAG)"
+short: FINMAG
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
+language: de
+version: 2020-01-01
+adopted: 2007-06-22
+in_force: 2009-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20200101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die Eidgenössische Finanzmarktaufsicht
+
+(Finanzmarktaufsichtsgesetz, FINMAG)
+
+vom 22. Juni 2007 (Stand am 1. Januar 2020)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 95 und 98 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 1. Februar 2006[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)
+
+## 1. Titel: Allgemeine Bestimmungen****
+
+[^tit1-1]
+
+[^tit1-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup>
+
+Der Bund schafft eine Behörde für die Aufsicht über den Finanzmarkt nach folgenden Gesetzen (Finanzmarktgesetze):
+
+- a. Pfandbriefgesetz vom 25. Juni 1930[^1-1];
+- b. Versicherungsvertragsgesetz vom 2. April 1908[^1-2];
+- c. Kollektivanlagengesetz vom 23. Juni 2006[^1-3];
+- d. Bankengesetz vom 8. November 1934[^1-4];
+- e.[^1-5] Finanzinstitutsgesetz vom 15. Juni 2018[^1-6];
+- f. Geldwäschereigesetz vom 10. Oktober 1997[^1-7];
+- g. Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^1-8];
+- h.[^1-9] Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^1-10];
+- i.[^1-11] Finanzdienstleistungsgesetz vom 15. Juni 2018[^1-12].
+
+<sup>2</sup> Dieses Gesetz legt die Organisation und die Aufsichtsinstrumente dieser Behörde fest.
+
+[^1-1]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^1-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^1-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^1-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^1-5]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^1-7]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^1-8]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^1-9]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^1-10]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^1-11]: Eingefügt durch Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1-12]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 2
+
+**Verhältnis zu den Finanzmarktgesetzen**
+
+<sup>1</sup> Dieses Gesetz gilt, soweit die Finanzmarktgesetze nichts anderes vorsehen.
+
+<sup>2</sup> Im Rahmen der internationalen Quellenbesteuerung abgeschlossene staatsvertragliche Regelungen und damit zusammenhängende zwischenstaatliche Vereinbarungen, namentlich über grenzüberschreitende Prüfungen und den Marktzugang, gehen diesem Gesetz und den Finanzmarktgesetzen vor.[^2-1]
+
+[^2-1]: Eingefügt durch Art. 46 des BG vom 15. Juni 2012 über die internationale Quellenbesteuerung, in Kraft seit 20. Dez. 2012 ([AS 2013 27](https://fedlex.data.admin.ch/eli/oc/2013/6); [BBl 2012 4943](https://fedlex.data.admin.ch/eli/fga/2012/752)).
+
+#### Art. 3
+
+**Beaufsichtigte**
+
+Der Finanzmarktaufsicht unterstehen:
+
+- a. die Personen, die nach den Finanzmarktgesetzen eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung der Finanzmarktaufsichtsbehörde benötigen; und
+- b. die kollektiven Kapitalanlagen;
+- c.[^3-1] ...
+
+[^3-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 4
+
+**Ziele der Finanzmarktaufsicht**[^4-1]
+
+Die Finanzmarktaufsicht bezweckt nach Massgabe der Finanzmarktgesetze den Schutz der Gläubigerinnen und Gläubiger, der Anlegerinnen und Anleger, der Versicherten sowie den Schutz der Funktionsfähigkeit der Finanzmärkte. Sie trägt damit zur Stärkung des Ansehens, der Wettbewerbsfähigkeit und der Zukunftsfähigkeit des Finanzplatzes Schweiz bei.
+
+[^4-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+## 2. Titel: Finanzmarktaufsichtsbehörde****
+
+[^tit2-1]
+
+[^tit2-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+### 1. Kapitel: Allgemeine Bestimmungen****
+
+[^tit2-chap1-1]
+
+[^tit2-chap1-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 5
+
+**Rechtsform, Sitz und Name**[^5-1]
+
+<sup>1</sup> Die Behörde, die den Finanzmarkt beaufsichtigt, ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit und Sitz in Bern.
+
+<sup>2</sup> Sie trägt den Namen «Eidgenössische Finanzmarktaufsicht (FINMA)».
+
+<sup>3</sup> Sie organisiert sich selbst nach den Grundsätzen einer guten Corporate Governance und wirtschaftlicher Betriebsführung. Sie führt eine eigene Rechnung.
+
+[^5-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 6
+
+**Aufgaben**
+
+<sup>1</sup> Die FINMA übt die Aufsicht nach den Finanzmarktgesetzen und nach diesem Gesetz aus.
+
+<sup>2</sup> Sie nimmt die internationalen Aufgaben wahr, die mit ihrer Aufsichtstätigkeit zusammenhängen.
+
+#### Art. 7
+
+**Regulierungsgrundsätze**
+
+<sup>1</sup>
+
+Die FINMA reguliert durch:
+
+- a. Verordnungen, wo dies in der Finanzmarktgesetzgebung vorgesehen ist; und
+- b. Rundschreiben über die Anwendung der Finanzmarktgesetzgebung.
+
+<sup>2</sup>
+
+Sie reguliert nur, soweit dies mit Blick auf die Aufsichtsziele nötig ist, sowie wenn immer möglich prinzipienbasiert. Dabei berücksichtigt sie das übergeordnete Bundesrecht sowie insbesondere:[^7-1]
+
+- a. die Kosten, die den Beaufsichtigten durch die Regulierung entstehen;
+- b. wie sich die Regulierung auf den Wettbewerb, die Innovationsfähigkeit und die internationale Wettbewerbsfähigkeit des Finanzplatzes Schweiz auswirkt;
+- c.[^7-2] die unterschiedlichen Grössen, Komplexitäten, Strukturen, Geschäftstätigkeiten und Risiken der Beaufsichtigten; und
+- d. die internationalen Mindeststandards.
+
+<sup>3</sup> Sie unterstützt die Selbstregulierung und kann diese im Rahmen ihrer Aufsichtsbefugnisse als Mindeststandard anerkennen und durchsetzen.
+
+<sup>4</sup> Sie sorgt für einen transparenten Regulierungsprozess und eine angemessene Beteiligung der Betroffenen.
+
+<sup>5</sup> Sie erlässt zur Umsetzung dieser Grundsätze Leitlinien. Sie spricht sich dabei mit dem Eidgenössisches Finanzdepartement (EFD)[^7-3] ab.
+
+[^7-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-2]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^7-3]: Ausdruck gemäss Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+### 2. Kapitel: Organisation
+
+### 1. Abschnitt: Organe und Personal
+
+#### Art. 8
+
+**Organe**
+
+Die Organe der FINMA sind:
+
+- a. der Verwaltungsrat;
+- b. die Geschäftsleitung;
+- c. die Revisionsstelle.
+
+#### Art. 9
+
+**Verwaltungsrat**
+
+<sup>1</sup>
+
+Der Verwaltungsrat ist das strategische Organ der FINMA. Er hat folgende Aufgaben:
+
+- a. Er legt die strategischen Ziele der FINMA fest und unterbreitet sie dem Bundesrat zur Genehmigung.
+- b. Er entscheidet über Geschäfte von grosser Tragweite.
+- c. Er erlässt die der FINMA delegierten Verordnungen und beschliesst die Rundschreiben.
+- d. Er überwacht die Geschäftsleitung.
+- e. Er setzt eine interne Revision ein und sorgt für die interne Kontrolle.
+- f. Er erstellt den Geschäftsbericht und unterbreitet ihn vor der Veröffentlichung dem Bundesrat zur Genehmigung.
+- g. Er wählt die Direktorin oder den Direktor unter Vorbehalt der Genehmigung durch den Bundesrat.
+- h. Er wählt die Mitglieder der Geschäftsleitung.
+- i. Er erlässt das Organisationsreglement und die Richtlinien über die Informationstätigkeit.
+- j. Er genehmigt den Voranschlag.
+
+<sup>2</sup> Er besteht aus sieben bis neun fachkundigen Mitgliedern, die von den Beaufsichtigten unabhängig sind. Der Verwaltungsrat wird für eine Amtsdauer von vier Jahren gewählt; jedes Mitglied kann zweimal wiedergewählt werden.
+
+<sup>3</sup> Der Bundesrat wählt den Verwaltungsrat. Er achtet dabei auf eine angemessene Vertretung beider Geschlechter. Er bestimmt die Präsidentin oder den Präsidenten und die Vizepräsidentin oder den Vizepräsidenten. Er legt die Entschädigungen fest. Artikel 6*a* des Bundespersonalgesetzes vom 24. März 2000[^9-1] gilt sinngemäss.
+
+<sup>4</sup> Die Präsidentin oder der Präsident darf weder eine andere wirtschaftliche Tätigkeit ausüben noch ein eidgenössisches oder kantonales Amt bekleiden, es sei denn, dies liege im Interesse der Aufgabenerfüllung der FINMA.
+
+<sup>5</sup> Der Bundesrat beruft Mitglieder des Verwaltungsrats ab und genehmigt die Auflösung des Arbeitsverhältnisses der Direktorin oder des Direktors durch den Verwaltungsrat, wenn die Voraussetzungen für die Ausübung des Amtes nicht mehr erfüllt sind.
+
+[^9-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 10
+
+**Geschäftsleitung**
+
+<sup>1</sup> Die Geschäftsleitung ist das operative Organ. Sie steht unter der Leitung einer Direktorin oder eines Direktors.
+
+<sup>2</sup>
+
+Sie hat insbesondere folgende Aufgaben:
+
+- a. Sie erlässt die Verfügungen nach Massgabe des Organisationsreglements.
+- b. Sie erarbeitet die Entscheidgrundlagen des Verwaltungsrats und berichtet ihm regelmässig, bei besonderen Ereignissen ohne Verzug.
+- c. Sie erfüllt alle Aufgaben, die nicht einem anderen Organ zugewiesen sind.
+
+<sup>3</sup> Das Organisationsreglement regelt die Einzelheiten.
+
+#### Art. 11
+
+**Fachvertretung**
+
+<sup>1</sup> Die FINMA ist in Fachbereiche aufgeteilt. Das Organisationsreglement regelt die Einzelheiten.
+
+<sup>2</sup> Bundesrat und Verwaltungsrat sorgen für eine angemessene Vertretung der verschiedenen Fachbereiche in Verwaltungsrat und Geschäftsleitung.
+
+#### Art. 12
+
+**Revisionsstelle**
+
+Die Eidgenössische Finanzkontrolle ist die externe Revisionsstelle und erstattet dem Verwaltungsrat und dem Bundesrat über das Ergebnis ihrer Prüfung Bericht*.*
+
+#### Art. 13
+
+**Personal**[^13-1]
+
+<sup>1</sup> Die FINMA stellt ihr Personal öffentlich-rechtlich an.
+
+<sup>2</sup> Artikel 6*a* des Bundespersonalgesetzes vom 24. März 2000[^13-2] gilt sinngemäss.
+
+<sup>3</sup> Die berufliche Vorsorge des Personals richtet sich nach der Gesetzgebung über die Pensionskasse des Bundes.
+
+<sup>4</sup>
+
+Der Verwaltungsrat regelt in einer Verordnung:
+
+- a. das Arbeitsverhältnis des Personals, insbesondere Entlöhnung, Nebenleistungen, Arbeitszeit, Treuepflicht und Kündigung;
+- b. die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs des Vorsorgewerks der FINMA.
+
+<sup>5</sup> Er unterbreitet die Verordnung dem Bundesrat zur Genehmigung.
+
+[^13-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 13a
+
+**Datenbearbeitung**[^13a-1]
+
+<sup>1</sup>
+
+Die FINMA bearbeitet in Papierform oder in einem oder mehreren Informationssystemen Daten ihres Personals zur Erfüllung der Aufgaben nach diesem Gesetz, insbesondere für:
+
+- a. die Begründung, Durchführung und Beendigung eines Arbeitsverhältnisses;
+- b. die Personal- und Lohnbewirtschaftung;
+- c. die Personalentwicklung;
+- d. die Leistungsbeurteilung;
+- e. Eingliederungsmassnahmen bei Krankheit und Unfall.
+
+<sup>2</sup>
+
+Sie kann folgende für die Erfüllung ihrer Aufgaben nach Absatz 1 notwendigen Daten ihres Personals, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, bearbeiten:
+
+- a. Angaben zur Person;
+- b. Angaben zur gesundheitlichen Situation in Bezug auf die Arbeitsfähigkeit;
+- c. Angaben zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+- d. erforderliche Daten im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts;
+- e. Verfahrensakten und Entscheide von Behörden in Verbindung mit der Arbeit.
+
+<sup>3</sup>
+
+Sie erlässt Ausführungsbestimmungen über:
+
+- a. die Architektur, die Organisation und den Betrieb des Informationssystems oder der Informationssysteme;
+- b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Archivierung und Vernichtung;
+- c. die Berechtigungen zur Datenbearbeitung;
+- d. die Datenkategorien nach Absatz 2;
+- e. den Schutz und die Sicherheit der Daten.
+
+[^13a-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 14
+
+**Amtsgeheimnis**
+
+<sup>1</sup> Das Personal und die Organe sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet.
+
+<sup>2</sup> Die Pflicht zur Verschwiegenheit bleibt auch nach Beendigung des Arbeitsverhältnisses oder der Zugehörigkeit zu einem Organ der FINMA bestehen.
+
+<sup>3</sup> Die Angestellten und die einzelnen Organe der FINMA dürfen sich ohne Ermächtigung der FINMA bei Einvernahmen und in Gerichtsverfahren als Partei, Zeuginnen und Zeugen oder Sachverständige nicht über Wahrnehmungen äussern, die sie bei der Erfüllung ihrer Aufgaben gemacht haben und die sich auf ihre amtlichen Aufgaben beziehen.
+
+<sup>4</sup> Dem Amtsgeheimnis unterstehen auch alle von der FINMA Beauftragten (Prüfbeauftragte, Untersuchungsbeauftragte, Sanierungsbeauftragte, Liquidatoren, Sachwalter).[^14-1]
+
+[^14-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+### 2. Abschnitt: Finanzierung und Finanzhaushalt
+
+#### Art. 15
+
+**Finanzierung**
+
+<sup>1</sup> Die FINMA erhebt Gebühren für Aufsichtsverfahren im Einzelfall und für Dienstleistungen. Zudem erhebt sie von den Beaufsichtigten jährlich pro Aufsichtsbereich eine Aufsichtsabgabe für die Kosten der FINMA, die durch die Gebühren nicht gedeckt sind.
+
+<sup>2</sup>
+
+Die Aufsichtsabgabe wird nach folgenden Kriterien bemessen:
+
+- a.[^15-1] ...
+- a<sup>bis</sup>.[^15-2] Für die Beaufsichtigten nach Artikel 1a des Bankengesetzes vom 8. November 1934[^15-3], nach Artikel 2 Absatz 1 Buchstabe e des Finanzinstitutsgesetzes vom 15. Juni 2018[^15-4] und nach dem Pfandbriefgesetz vom 25. Juni 1930[^15-5] sind Bilanzsumme und Effektenumsatz massgebend; für die Beaufsichtigten nach Artikel 2 Absatz 1 Buchstaben c und d des Finanzinstitutsgesetzes sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend; für die Beaufsichtigten nach Artikel 1*b* des Bankengesetzes sind Bilanzsumme und Bruttoertrag massgebend.
+- a<sup>ter</sup>.[^15-6] Für die Beaufsichtigten nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^15-7] sind Bilanzsumme und Effektenumsatz oder, wenn keine Effekten umgesetzt werden, der Bruttoertrag massgebend.
+- b. Für die Beaufsichtigten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^15-8] sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend.
+- c. Für ein Versicherungsunternehmen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^15-9] ist sein Anteil an den gesamten Prämieneinnahmen aller Versicherungsunternehmen massgebend; für Versicherungsvermittlerinnen und -vermittler nach Artikel 43 Absatz 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 sind ihre Anzahl und die Betriebsgrösse massgebend.
+- d.[^15-10] Für die Selbstregulierungsorganisationen nach dem Geldwäschereigesetz vom 10. Oktober 1997[^15-11] (GwG) sind Bruttoertrag und Anzahl Mitglieder massgebend.
+- e.[^15-12] Für eine Aufsichtsorganisation nach dem 3. Titel ist der Anteil der von ihr Beaufsichtigten an der Gesamtzahl der von allen Aufsichtsorganisationen Beaufsichtigten massgebend; die Aufsichtsabgabe deckt auch die Kosten der FINMA, welche durch Beaufsichtigte verursacht werden und nicht durch Gebühren gedeckt werden können.
+
+<sup>3</sup> Der Bundesrat kann die Aufteilung der Aufsichtsabgabe in eine fixe Grundabgabe und eine variable Zusatzabgabe vorsehen.
+
+<sup>4</sup>
+
+Er regelt die Einzelheiten, namentlich:
+
+- a. die Bemessungsgrundlagen;
+- b. die Aufsichtsbereiche nach Absatz 1; und
+- c. die Aufteilung der durch die Aufsichtsabgabe zu finanzierenden Kosten unter den Aufsichtsbereichen.
+
+[^15-1]: Gegenstandslos. Siehe Art. 75 Abs. 5 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)).
+[^15-2]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^15-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^15-5]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15-6]: Ursprünglich: Bst. a<sup>bis</sup>. Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^15-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^15-8]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^15-9]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^15-10]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-11]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^15-12]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 16
+
+**Reserven**
+
+Die FINMA bildet innert angemessener Frist für die Ausübung ihrer Aufsichtstätigkeit Reserven im Umfang eines Jahresbudgets.
+
+#### Art. 17
+
+**Tresorerie**
+
+<sup>1</sup> Die Eidgenössische Finanzverwaltung verwaltet im Rahmen ihrer zentralen Tresorerie die liquiden Mittel der FINMA.
+
+<sup>2</sup> Sie gewährt der FINMA zur Sicherstellung der Zahlungsbereitschaft Darlehen zu marktkonformen Bedingungen.
+
+<sup>3</sup> Die Eidgenössische Finanzverwaltung und die FINMA legen die Einzelheiten dieser Zusammenarbeit einvernehmlich fest.
+
+#### Art. 18
+
+**Rechnungslegung**
+
+<sup>1</sup> Die Rechnungslegung der FINMA stellt ihre Vermögens-, Finanz- und Ertragslage vollständig dar.
+
+<sup>2</sup> Sie folgt den allgemeinen Grundsätzen der Wesentlichkeit, Verständlichkeit, Stetigkeit und Bruttodarstellung und orientiert sich an allgemein anerkannten Standards.
+
+<sup>3</sup> Die aus den Rechnungslegungsgrundsätzen abgeleiteten Bilanzierungs- und Bewertungsregeln sind offenzulegen.
+
+#### Art. 19
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die Verantwortlichkeit der FINMA, ihrer Organe, ihres Personals sowie der von der FINMA Beauftragten richtet sich unter Vorbehalt von Absatz 2 nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^19-1].[^19-2]
+
+<sup>2</sup>
+
+Die FINMA und die von ihr Beauftragten haften nur, wenn:
+
+- a. sie wesentliche Amtspflichten verletzt haben; und
+- b. Schäden nicht auf Pflichtverletzungen einer oder eines Beaufsichtigten zurückzuführen sind.
+
+[^19-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^19-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 20
+
+**Steuerbefreiung**
+
+<sup>1</sup> Die FINMA ist von jeder Besteuerung durch den Bund, die Kantone und die Gemeinden Gemeinden befreit.
+
+<sup>2</sup>
+
+Vorbehalten bleibt das Bundesrecht über:
+
+- a. die Mehrwertsteuer;
+- b. die Verrechnungssteuer;
+- c. die Stempelabgaben.
+
+### 3. Abschnitt: Unabhängigkeit und Aufsicht
+
+#### Art. 21
+
+<sup>1</sup> Die FINMA übt ihre Aufsichtstätigkeit selbstständig und unabhängig aus.
+
+<sup>2</sup> Sie erörtert mindestens einmal jährlich mit dem Bundesrat die Strategie ihrer Aufsichtstätigkeit sowie aktuelle Fragen der Finanzplatzpolitik.
+
+<sup>3</sup> Sie verkehrt mit dem Bundesrat über das EFD.
+
+<sup>4</sup> Die eidgenössischen Räte üben die Oberaufsicht aus.
+
+### 4. Abschnitt: Information der Öffentlichkeit und Datenbearbeitung
+
+#### Art. 22
+
+**Information der Öffentlichkeit**
+
+<sup>1</sup> Die FINMA informiert die Öffentlichkeit jährlich mindestens einmal über ihre Aufsichtstätigkeit und Aufsichtspraxis.
+
+<sup>2</sup>
+
+Sie informiert nicht über einzelne Verfahren, es sei denn, es bestehe dafür ein besonderes aufsichtsrechtliches Bedürfnis, insbesondere, wenn die Information nötig ist:
+
+- a. zum Schutz der Marktteilnehmerinnen und -teilnehmer oder der Beaufsichtigten;
+- b. zur Berichtigung falscher oder irreführender Informationen; oder
+- c. zur Wahrung des Ansehens des Finanzplatzes Schweiz.
+
+<sup>3</sup> Hat sie über ein Verfahren informiert, so informiert sie unverzüglich auch über dessen Einstellung. Auf Verlangen des Betroffenen kann davon abgesehen werden.
+
+<sup>4</sup> Sie trägt bei ihrer gesamten Informationstätigkeit den Persönlichkeitsrechten der Betroffenen Rechnung. Die Veröffentlichung von Personendaten kann in elektronischer oder gedruckter Form erfolgen.
+
+#### Art. 23
+
+**Datenbearbeitung undöffentliches Verzeichnis**
+
+<sup>1</sup> Die FINMA bearbeitet im Rahmen der Aufsicht nach diesem Gesetz und den Finanzmarktgesetzen Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen. Sie regelt die Einzelheiten.
+
+<sup>2</sup> Sie führt ein Verzeichnis der Beaufsichtigten. Dieses Verzeichnis ist in elektronischer Form öffentlich zugänglich.
+
+### 3. Kapitel: Aufsichtsinstrumente
+
+### 1. Abschnitt: Prüfung
+
+#### Art. 24
+
+**Grundsatz**[^24-1]
+
+<sup>1</sup>
+
+Die FINMA kann nach Massgabe der Finanzmarktgesetze (Art. 1 Abs. 1) die Prüfung der Beaufsichtigten selbst ausführen oder sie ausführen lassen durch:
+
+- a. von den Beaufsichtigten beauftragte und der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^24-2] zugelassene Prüfgesellschaften; oder
+- b. Prüfbeauftragte gemäss Artikel 24*a*.
+
+<sup>2</sup> Die Prüfung orientiert sich insbesondere an den Risiken, die vom Beaufsichtigten für die Gläubigerinnen und Gläubiger, die Anlegerinnen und Anleger, die Versicherten und die Funktionsfähigkeit der Finanzmärkte ausgehen können. Doppelspurigkeiten bei der Prüfung sind so weit möglich zu vermeiden.
+
+<sup>3</sup> Für die Geheimhaltung durch die Prüfgesellschaften gilt Artikel 730*b* Absatz 2 des Obligationenrechts[^24-3] sinngemäss.
+
+<sup>4</sup> Der Bundesrat regelt bei der Prüfung gemäss Absatz 1 Buchstabe a die Grundzüge für den Inhalt und die Durchführung der Prüfung sowie die Form der Berichterstattung. Er kann die FINMA ermächtigen, Ausführungsbestimmungen zu technischen Angelegenheiten zu erlassen.
+
+<sup>5</sup> Die Beaufsichtigten tragen die Kosten der Prüfung.
+
+[^24-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^24-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^24-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 24a
+
+**Prüfbeauftragte**[^24a-1]
+
+<sup>1</sup> Die FINMA kann eine unabhängige und fachkundige Person beauftragen, Prüfungen bei Beaufsichtigten durchzuführen.
+
+<sup>2</sup> Sie umschreibt in der Einsetzungsverfügung die Aufgaben der oder des Prüfbeauftragten.
+
+<sup>3</sup> Die Kosten der oder des Prüfbeauftragten tragen die Beaufsichtigten.
+
+[^24a-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 25
+
+**Pflichten der geprüften Beaufsichtigten**[^25-1]
+
+<sup>1</sup> Wird eine Prüfgesellschaft zur Prüfung eingesetzt oder zieht die FINMA eine Prüfbeauftragte oder einen Prüfbeauftragten bei, so haben die Beaufsichtigten dieser oder diesem alle Auskünfte zu erteilen und Unterlagen herauszugeben, die sie oder er zur Erfüllung ihrer oder seiner Aufgaben benötigen.
+
+<sup>2</sup> Die oder der Beaufsichtigte hat die FINMA über die Wahl einer Prüfgesellschaft zu informieren.
+
+[^25-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 26
+
+[^26-1]
+
+[^26-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 27
+
+**Berichterstattung und Massnahmen**
+
+<sup>1</sup> Die Prüfgesellschaft erstattet der FINMA Bericht über ihre Prüfungen. Die Prüfgesellschaft stellt den Bericht dem obersten Leitungsorgan der oder des geprüften Beaufsichtigten zur Verfügung.[^27-1]
+
+<sup>2</sup> Stellt sie Verletzungen aufsichtsrechtlicher Bestimmungen oder sonstige Missstände fest, so setzt sie der oder dem geprüften Beaufsichtigten eine angemessene Frist zur Herstellung des ordnungsgemässen Zustandes. Wird die Frist nicht eingehalten, so informiert sie die FINMA.
+
+<sup>3</sup> Bei schweren Verletzungen aufsichtsrechtlicher Bestimmungen und schweren Missständen benachrichtigt die Prüfgesellschaft die FINMA ohne Verzug.
+
+[^27-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 28
+
+**Aufsicht über die Prüfgesellschaften**
+
+<sup>1</sup> …[^28-1]
+
+<sup>2</sup> Die FINMA und die Eidgenössische Revisionsaufsichtsbehörde erteilen einander alle Auskünfte und übermitteln alle Unterlagen, die sie für die Durchsetzung der jeweiligen Gesetzgebung benötigen.[^28-2]
+
+[^28-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^28-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 28a
+
+**Wahl und Wechsel der Prüfgesellschaft**[^28a-1]
+
+<sup>1</sup> Für die Prüfung im Rahmen eines Bewilligungsverfahrens sowie für die übrigen Prüfungen sind zwei unterschiedliche Prüfgesellschaften zu beauftragen.
+
+<sup>2</sup> Die FINMA kann in begründeten Fällen vom Beaufsichtigten den Wechsel der Prüfgesellschaft verlangen.
+
+<sup>3</sup> Die FINMA informiert die Eidgenössische Revisionsaufsichtsbehörde vor der Anordnung eines Wechsels nach Absatz 2.
+
+[^28a-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+### 2. Abschnitt: Weitere Aufsichtsinstrumente
+
+#### Art. 29
+
+**Auskunfts- und Meldepflicht**
+
+<sup>1</sup> Die Beaufsichtigten, ihre Prüfgesellschaften und Revisionsstellen sowie qualifiziert oder massgebend an den Beaufsichtigten beteiligte Personen und Unternehmen müssen der FINMA alle Auskünfte erteilen und Unterlagen herausgeben, die sie zur Erfüllung ihrer Aufgaben benötigt.
+
+<sup>2</sup> Die Beaufsichtigten und die Prüfgesellschaften, die bei ihnen Prüfungen durchführen, müssen der FINMA zudem unverzüglich Vorkommnisse melden, die für die Aufsicht von wesentlicher Bedeutung sind.[^29-1]
+
+[^29-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+#### Art. 30
+
+**Anzeige der Eröffnung eines Verfahrens**
+
+Ergeben sich Anhaltspunkte für Verletzungen aufsichtsrechtlicher Bestimmungen und eröffnet die FINMA ein Verfahren, so zeigt sie dies den Parteien an.
+
+#### Art. 31
+
+**Wiederherstellung des ordnungsgemässen Zustandes**
+
+<sup>1</sup> Verletzt eine Beaufsichtigte oder ein Beaufsichtigter die Bestimmungen dieses Gesetzes oder eines Finanzmarktgesetzes oder bestehen sonstige Missstände, so sorgt die FINMA für die Wiederherstellung des ordnungsgemässen Zustandes.
+
+<sup>2</sup> Erscheinen die Rechte der Kundinnen und Kunden gefährdet, so kann die FINMA die Beaufsichtigten zu Sicherheitsleistungen verpflichten.[^31-1]
+
+[^31-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 32
+
+**Feststellungsverfügung und Ersatzvornahme[^32-1]**
+
+<sup>1</sup> Ergibt das Verfahren, dass die oder der Beaufsichtigte aufsichtsrechtliche Bestimmungen schwer verletzt hat, und müssen keine Massnahmen zur Wiederherstellung des ordnungsgemässen Zustandes mehr angeordnet werden, so kann die FINMA eine Feststellungsverfügung erlassen.
+
+<sup>2</sup> Wird eine vollstreckbare Verfügung der FINMA nach vorgängiger Mahnung innert der angesetzten Frist nicht befolgt, so kann die FINMA auf Kosten der säumigen Partei die angeordnete Handlung selber vornehmen oder vornehmen lassen.[^32-2]
+
+[^32-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^32-2]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 33
+
+**Berufsverbot**
+
+<sup>1</sup> Stellt die FINMA eine schwere Verletzung aufsichtsrechtlicher Bestimmungen fest, so kann sie der verantwortlichen Person die Tätigkeit in leitender Stellung bei einer oder einem von ihr Beaufsichtigten untersagen.
+
+<sup>2</sup> Das Berufsverbot kann für eine Dauer von bis zu fünf Jahren ausgesprochen werden.
+
+#### Art. 33a
+
+**Tätigkeitsverbot**[^33a-1]
+
+<sup>1</sup>
+
+Die FINMA kann folgenden Personen die Tätigkeit im Handel mit Finanzinstrumenten oder als Kundenberaterin oder Kundenberater befristet oder im Falle einer Wiederholung dauernd verbieten, wenn sie die Bestimmungen der Finanzmarktgesetze, die Ausführungsbestimmungen oder die betriebsinternen Vorschriften schwer verletzen:
+
+- a. den für den Handel mit Finanzinstrumenten verantwortlichen Mitarbeiterinnen und Mitarbeitern einer oder eines Beaufsichtigten;
+- b. den als Kundenberaterinnen oder Kundenberater tätigen Mitarbeiterinnen und Mitarbeitern einer oder eines Beaufsichtigten.
+
+<sup>2</sup> Erfasst das Tätigkeitsverbot gleichzeitig auch eine Tätigkeit im Aufsichtsbereich einer Aufsichtsorganisation, so ist ihr der Entscheid mitzuteilen.
+
+[^33a-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 34
+
+**Veröffentlichung der aufsichtsrechtlichen Verfügung**
+
+<sup>1</sup> Liegt eine schwere Verletzung aufsichtsrechtlicher Bestimmungen vor, so kann die FINMA ihre Endverfügung nach Eintritt der Rechtskraft unter Angabe von Personendaten in elektronischer oder gedruckter Form veröffentlichen.
+
+<sup>2</sup> Die Veröffentlichung ist in der Verfügung selber anzuordnen.
+
+#### Art. 35
+
+**Einziehung**
+
+<sup>1</sup> Die FINMA kann den Gewinn einziehen, den eine Beaufsichtigte, ein Beaufsichtigter oder eine verantwortliche Person in leitender Stellung durch schwere Verletzung aufsichtsrechtlicher Bestimmungen erzielt hat.
+
+<sup>2</sup> Diese Regelung gilt sinngemäss, wenn eine Beaufsichtigte, ein Beaufsichtigter oder eine verantwortliche Person in leitender Stellung durch schwere Verletzung aufsichtsrechtlicher Bestimmungen einen Verlust vermieden hat.
+
+<sup>3</sup> Lässt sich der Umfang der einzuziehenden Vermögenswerte nicht oder nur mit unverhältnismässigem Aufwand ermitteln, so kann die FINMA ihn schätzen.
+
+<sup>4</sup> Das Recht zur Einziehung verjährt nach sieben Jahren.
+
+<sup>5</sup> Die strafrechtliche Einziehung nach den Artikeln 70–72 des Strafgesetzbuches[^35-1] geht der Einziehung nach dieser Bestimmung vor.
+
+<sup>6</sup> Die eingezogenen Vermögenswerte gehen an den Bund, soweit sie nicht Geschädigten ausbezahlt werden.
+
+[^35-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 36
+
+**Untersuchungsbeauftragte oder Untersuchungsbeauftragter**
+
+<sup>1</sup> Die FINMA kann eine unabhängige und fachkundige Person damit beauftragen, bei einer oder einem Beaufsichtigten einen aufsichtsrechtlich relevanten Sachverhalt abzuklären oder von ihr angeordnete aufsichtsrechtliche Massnahmen umzusetzen (Untersuchungsbeauftragte oder Untersuchungsbeauftragter).
+
+<sup>2</sup> Sie umschreibt in der Einsetzungsverfügung die Aufgaben der oder des Untersuchungsbeauftragten. Sie legt fest, in welchem Umfang die oder der Untersuchungsbeauftragte an Stelle der Organe der Beaufsichtigten handeln darf.
+
+<sup>3</sup> Die Beaufsichtigten haben der oder dem Untersuchungsbeauftragten Zutritt zu ihren Räumlichkeiten zu gewähren sowie alle Auskünfte zu erteilen und Unterlagen offenzulegen, welche die oder der Untersuchungsbeauftragte zur Erfüllung ihrer oder seiner Aufgaben benötigt.
+
+<sup>4</sup> Die Kosten der oder des Untersuchungsbeauftragten tragen die Beaufsichtigten. Sie haben auf Anordnung der FINMA einen Kostenvorschuss zu leisten.
+
+#### Art. 37
+
+**Entzug der Bewilligung, der Anerkennung oder der Zulassung[^37-1]**
+
+<sup>1</sup> Die FINMA entzieht einer oder einem Beaufsichtigten die Bewilligung, die Anerkennung oder die Zulassung, wenn er die Voraussetzungen für die Tätigkeit nicht mehr erfüllt oder aufsichtsrechtliche Bestimmungen schwer verletzt.[^37-2]
+
+<sup>2</sup> Mit dem Entzug verliert die oder der Beaufsichtigte das Recht, die Tätigkeit auszuüben. Die übrigen Folgen des Entzugs richten sich nach den anwendbaren Finanzmarktgesetzen.
+
+<sup>3</sup> Diese Folgen gelten analog, wenn eine Beaufsichtigte oder ein Beaufsichtigter tätig ist, ohne über eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung zu verfügen.
+
+[^37-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^37-2]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+### 3. Abschnitt: Zusammenarbeit mit inländischen Behörden
+
+#### Art. 38
+
+**Strafbehörden**
+
+<sup>1</sup> Die FINMA und die zuständige Strafverfolgungsbehörde tauschen die im Rahmen der Zusammenarbeit und zur Erfüllung ihrer Aufgaben notwendigen Informationen aus. Sie verwenden die erhaltenen Informationen ausschliesslich zur Erfüllung ihrer jeweiligen Aufgaben.[^38-1]
+
+<sup>2</sup> Sie koordinieren ihre Untersuchungen, soweit möglich und erforderlich.
+
+<sup>3</sup> Erhält die FINMA Kenntnis von gemeinrechtlichen Verbrechen und Vergehen sowie Widerhandlungen gegen dieses Gesetz und die Finanzmarktgesetze, so benachrichtigt sie die zuständigen Strafverfolgungsbehörden.
+
+[^38-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 39
+
+**Andere inländische Behörden**[^39-1]
+
+<sup>1</sup> Die FINMA ist befugt, anderen inländischen Aufsichtsbehörden sowie der Schweizerischen Nationalbank nicht öffentlich zugängliche Informationen zu übermitteln, die diese zur Erfüllung ihrer Aufgaben benötigen.
+
+- [tab] <sup>1bis</sup> Die FINMA und die Aufsichtsbehörde nach dem Krankenversicherungsaufsichtsgesetz vom 26. September 2014[^39-2] koordinieren ihre Aufsichtstätigkeiten. Sie informieren sich gegenseitig, sobald sie von Vorkommnissen Kenntnis erhalten, die für die andere Aufsichtsbehörde von Bedeutung sind.[^39-3]
+
+<sup>2</sup> Die FINMA kann zudem mit dem EFD nicht öffentlich zugängliche Informationen über bestimmte Finanzmarktteilnehmer austauschen, wenn es der Aufrechterhaltung der Stabilität des Finanzsystems dient.[^39-4]
+
+[^39-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^39-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^39-3]: Eingefügt durch Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^39-4]: Fassung gemäss Anhang Ziff. 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 40
+
+**Verweigerungsgründe**
+
+Die FINMA kann die Bekanntgabe von nicht öffentlich zugänglichen Informationen und die Herausgabe von Akten gegenüber Strafverfolgungsbehörden und anderen inländischen Behörden verweigern, soweit:
+
+- a. die Informationen und die Akten ausschliesslich der internen Meinungsbildung dienen;
+- b. deren Bekannt- oder Herausgabe ein laufendes Verfahren gefährden oder die Erfüllung ihrer Aufsichtstätigkeit beeinträchtigen würde;
+- c. sie mit den Zielen der Finanzmarktaufsicht oder mit deren Zweck nicht vereinbar ist.
+
+#### Art. 41
+
+**Streitigkeiten**
+
+Über Meinungsverschiedenheiten in der Zusammenarbeit zwischen der Finma einerseits und Strafverfolgungsbehörden und anderen inländischen Behörden anderseits entscheidet das Bundesverwaltungsgericht auf Ersuchen einer der betroffenen Behörden.
+
+#### Art. 41a
+
+**Zustellung von Urteilen**[^41a-1]
+
+<sup>1</sup> Die kantonalen Zivilgerichte und das Bundesgericht stellen der FINMA die Urteile, die sie in Streitigkeiten zwischen Beaufsichtigten und Gläubigerinnen und Gläubigern, Anlegerinnen und Anlegern oder Versicherten fällen, in vollständiger Ausfertigung kostenlos zu.
+
+<sup>2</sup> Die FINMA leitet Urteile, die durch die Aufsichtsorganisation Beaufsichtigte betreffen, der Aufsichtsorganisation weiter.
+
+[^41a-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+### 4. Abschnitt: Zusammenarbeit mit ausländischen Stellen****
+
+[^tit2-chap3-sec4-1]
+
+[^tit2-chap3-sec4-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 42
+
+**Amtshilfe**[^42-1]
+
+<sup>1</sup> Die FINMA kann zum Vollzug der Finanzmarktgesetze ausländische Finanzmarktaufsichtsbehörden um Informationen ersuchen.
+
+<sup>2</sup>
+
+Sie darf ausländischen Finanzmarktaufsichtsbehörden nicht öffentlich zugängliche Informationen nur übermitteln, sofern:
+
+- a. diese Informationen ausschliesslich zum Vollzug des Finanzmarktrechts verwendet oder zu diesem Zweck an andere Behörden, Gerichte oder Organe weitergeleitet werden;
+- b. die ersuchenden Behörden an ein Amts- oder Berufsgeheimnis gebunden sind, wobei Vorschriften über die Öffentlichkeit von Verfahren und die Orientierung der Öffentlichkeit über solche Verfahren vorbehalten bleiben.
+
+<sup>3</sup> Für den Austausch von Informationen zwischen der FINMA und ausländischen Behörden, Gerichten und Organen, die in die Sanierung und Abwicklung von Bewilligungsinhabern eingebunden sind, gelten die Absätze 1 und 2 sinngemäss.
+
+<sup>4</sup> Die Amtshilfe wird zügig geleistet. Die FINMA berücksichtigt den Grundsatz der Verhältnismässigkeit. Die Übermittlung von Informationen über Personen, die offensichtlich nicht in die zu untersuchende Angelegenheit verwickelt sind, ist unzulässig.
+
+<sup>5</sup> Die FINMA kann im Einvernehmen mit dem Bundesamt für Justiz zustimmen, dass übermittelte Informationen zu einem anderen als dem in Absatz 2 Buchstabe a genannten Zweck an Strafbehörden weitergeleitet werden, sofern die Rechtshilfe in Strafsachen nicht ausgeschlossen ist.
+
+[^42-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 42a
+
+**Amtshilfeverfahren**[^42a-1]
+
+<sup>1</sup> Befindet sich die FINMA noch nicht im Besitz der zu übermittelnden Informationen, so kann sie diese von den Informationsinhaberinnen und -inhabern verlangen. Auskunftspersonen können eine Befragung nach Artikel 16 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^42a-2] verweigern.
+
+<sup>2</sup> Betreffen die von der FINMA zu übermittelnden Informationen einzelne Kundinnen oder Kunden, so ist das Verwaltungsverfahrensgesetz vom 20. Dezember 1968 unter Vorbehalt der Absätze 3–6 anwendbar.
+
+<sup>3</sup> Die FINMA kann die Einsichtnahme in die Korrespondenz mit ausländischen Behörden verweigern. Artikel 28 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 bleibt vorbehalten.
+
+<sup>4</sup> Die FINMA kann ausnahmsweise davon absehen, die betroffenen Kundinnen und Kunden vor Übermittlung der Informationen zu informieren, wenn der Zweck der Amtshilfe und die wirksame Erfüllung der Aufgaben der ersuchenden Behörde durch die vorgängige Information vereitelt würde. In diesen Fällen sind die betroffenen Kundinnen und Kunden nachträglich zu informieren.
+
+<sup>5</sup> In den Fällen nach Absatz 4 informiert die FINMA die Informationsinhaberinnen und -inhaber sowie die Behörden, denen das Ersuchen zur Kenntnis gebracht wurde, über den Informationsaufschub. Diese dürfen bis zur nachträglichen Information der betroffenen Kundinnen und Kunden über das Ersuchen nicht informieren.
+
+<sup>6</sup> Der Entscheid der FINMA über die Übermittlung der Informationen an die ausländische Finanzmarktaufsichtsbehörde kann von der Kundin oder dem Kunden innert zehn Tagen beim Bundesverwaltungsgericht angefochten werden. Artikel 22*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 findet keine Anwendung. In den Fällen nach Absatz 4 kann das Rechtsbegehren lediglich auf Feststellung der Rechtswidrigkeit lauten.
+
+[^42a-1]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^42a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 42b
+
+**Zusammenarbeit mit internationalen Organisationen und Gremien**[^42b-1]
+
+<sup>1</sup> Die FINMA kann zur Erfüllung ihrer Aufgaben nach Artikel 6 an multilateralen Initiativen internationaler Organisationen und Gremien teilnehmen, in deren Rahmen Informationen ausgetauscht werden.
+
+<sup>2</sup> Bei multilateralen Initiativen von grosser Tragweite für den Schweizer Finanzplatz erfolgt die Teilnahme am Informationsaustausch im Einvernehmen mit dem EFD.
+
+<sup>3</sup>
+
+Bei einer Teilnahme kann die FINMA nicht öffentlich zugängliche Informationen an internationale Organisationen und Gremien nur übermitteln, sofern:
+
+- a. diese Informationen ausschliesslich zur Erfüllung von Aufgaben im Zusammenhang mit der Ausarbeitung und Einhaltung von Regulierungsstandards oder zur Analyse von systemischen Risiken verwendet werden;
+- b. die Geheimhaltung gewährleistet ist.
+
+<sup>4</sup> Die FINMA vereinbart mit den internationalen Organisationen und Gremien den genauen Verwendungszweck und eine allfällige Weiterleitung der übermittelten Informationen. Absatz 3 bleibt vorbehalten.
+
+[^42b-1]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 42c
+
+**Informationsübermittlung durch Beaufsichtigte**[^42c-1]
+
+<sup>1</sup>
+
+Beaufsichtigte dürfen den zuständigen ausländischen Finanzmarktaufsichtsbehörden und weiteren mit der Aufsicht betrauten ausländischen Stellen nicht öffentlich zugängliche Informationen übermitteln, sofern:
+
+- a. die Voraussetzungen von Artikel 42 Absatz 2 erfüllt sind;
+- b. die Rechte von Kunden und Dritten gewahrt bleiben.
+
+<sup>2</sup> Darüber hinaus dürfen sie nicht öffentliche Informationen, die im Zusammenhang mit Geschäften von Kunden und Beaufsichtigten stehen, ausländischen Behörden und den von diesen beauftragten Stellen übermitteln, wenn die Rechte von Kunden und Dritten gewahrt bleiben.
+
+<sup>3</sup> Eine Informationsübermittlung von wesentlicher Bedeutung nach Artikel 29 Absatz 2 bedarf der vorgängigen Meldung an die FINMA.
+
+<sup>4</sup> Die FINMA kann den Amtshilfeweg vorbehalten.
+
+<sup>5</sup> Sie kann die Übermittlung, die Veröffentlichung oder die Weitergabe von Akten aus dem Aufsichtsverhältnis von ihrer Zustimmung abhängig machen, wenn dies im Interesse der Erfüllung ihrer Aufgaben liegt und keine überwiegenden privaten oder öffentlichen Interessen entgegenstehen.
+
+[^42c-1]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 43
+
+**Grenzüberschreitende Prüfungen**
+
+<sup>1</sup> Die FINMA kann zum Vollzug der Finanzmarktgesetze direkte Prüfungen bei Beaufsichtigten im Ausland selber vornehmen oder durch Prüfgesellschaften oder beigezogene Prüfbeauftragte vornehmen lassen.[^43-1]
+
+<sup>2</sup>
+
+Sie darf ausländischen Finanzmarktaufsichtsbehörden direkte Prüfungen bei Beaufsichtigten erlauben, sofern:
+
+- a. diese Behörden im Rahmen der Herkunftslandkontrolle für die Aufsicht des geprüften Beaufsichtigten oder in ihrem Hoheitsgebiet für die Beaufsichtigung der Tätigkeit des geprüften Beaufsichtigten verantwortlich sind; und
+- b. die Voraussetzungen für die Amtshilfe nach Artikel 42 Absatz 2 erfüllt sind.[^43-2]
+
+<sup>3</sup>
+
+Durch grenzüberschreitende direkte Prüfungen dürfen nur Angaben erhoben werden, die für die Aufsichtstätigkeit der ausländischen Finanzmarktaufsichtsbehörden notwendig sind. Dazu gehören insbesondere Angaben darüber, ob ein Institut konzernweit:
+
+- a. angemessen organisiert ist;
+- b. die in seiner Geschäftstätigkeit enthaltenen Risiken angemessen erfasst, begrenzt und überwacht;
+- c. durch Personen geleitet wird, die Gewähr für eine einwandfreie Geschäftstätigkeit bieten;
+- d. Eigenmittel- und Risikoverteilungsvorschriften auf konsolidierter Basis erfüllt; und
+- e. seinen Berichterstattungspflichten gegenüber den Aufsichtsbehörden korrekt nachkommt.[^43-3]
+
+<sup>3bis</sup> Soweit die ausländischen Finanzmarktaufsichtsbehörden bei direkten Prüfungen in der Schweiz Informationen einsehen wollen, die direkt oder indirekt mit dem Vermögensverwaltungs-, Effektenhandels- oder Einlagengeschäft für einzelne Kundinnen oder Kunden zusammenhängen, erhebt die FINMA die Informationen selbst und übermittelt sie den ersuchenden Behörden. Gleiches gilt für Informationen, die direkt oder indirekt einzelne Anlegerinnen oder Anleger kollektiver Kapitalanlagen betreffen. Artikel 42*a* findet Anwendung.[^43-4]
+
+<sup>3ter</sup> Die FINMA kann der ausländischen Finanzmarktaufsichtsbehörde, die für die konsolidierte Aufsicht des geprüften Beaufsichtigten verantwortlich ist, für Zwecke nach Absatz 3 erlauben, eine beschränkte Anzahl einzelner Kundendossiers einzusehen. Die Auswahl der Dossiers muss zufällig anhand von im Voraus festgelegten Kriterien erfolgen.[^43-5]
+
+<sup>4</sup> Die FINMA kann die ausländischen Finanzmarktaufsichtsbehörden bei ihren direkten Prüfungen in der Schweiz begleiten oder durch eine Prüfgesellschaft oder eine Prüfbeauftragte oder einen Prüfbeauftragten begleiten lassen. Die betroffenen Beaufsichtigten können eine Begleitung verlangen.[^43-6]
+
+<sup>5</sup> Die nach schweizerischem Recht organisierten Niederlassungen haben den zuständigen ausländischen Finanzmarktaufsichtsbehörden und der FINMA die zur Durchführung der direkten Prüfungen oder der Amtshilfe durch die FINMA notwendigen Auskünfte zu erteilen und Einsicht in ihre Bücher zu gewähren.
+
+<sup>6</sup>
+
+Als Niederlassungen gelten:
+
+- a. Tochtergesellschaften, Zweigniederlassungen und Vertretungen von Beaufsichtigten oder ausländischen Instituten; und
+- b. andere Unternehmungen, soweit ihre Tätigkeit von einer Finanzmarktaufsichtsbehörde in die konsolidierte Aufsicht einbezogen wird.
+
+[^43-1]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^43-2]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^43-3]: Fassung gemäss Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^43-4]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^43-5]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^43-6]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+
+## 3. Titel:**** Aufsicht über Vermögensverwalter, Trustees und Handelsprüfer
+
+[^tit3-1]
+
+[^tit3-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 43a
+
+**Aufsichtsorganisation**
+
+<sup>1</sup> Die laufende Aufsicht über Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018[^43a-1] und über Handelsprüfer nach Artikel 42<sup>bis</sup> des Edelmetallkontrollgesetzes vom 20. Juni 1933[^43a-2] wird von einer oder mehreren Aufsichtsorganisationen mit Sitz in der Schweiz ausgeübt.
+
+<sup>2</sup> Die Aufsichtsorganisation bedarf vor der Aufnahme ihrer Aufsichtstätigkeit einer Bewilligung der FINMA und wird von ihr beaufsichtigt.
+
+<sup>3</sup> Die Aufsichtsorganisation kann auch Finanzintermediäre nach Artikel 2 Absatz 3 des Geldwäschereigesetzes vom 10. Oktober 1997[^43a-3] (GwG) hinsichtlich der Einhaltung der Pflichten nach GwG beaufsichtigen, sofern sie über eine Anerkennung als Selbstregulierungsorganisation nach Artikel 24 GwG verfügt.
+
+<sup>4</sup> Ist sie nach Absatz 3 auch als Selbstregulierungsorganisation tätig, sorgt sie dafür, dass dies gegen aussen jederzeit erkennbar ist.
+
+[^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43a-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 43b
+
+**Laufende Aufsicht**
+
+<sup>1</sup> Die Aufsichtsorganisation überprüft laufend, ob die Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018[^43b-1] und Handelsprüfer nach Artikel 42<sup>bis</sup> des Edelmetallkontrollgesetzes vom 20. Juni 1933[^43b-2] die für sie massgeblichen Finanzmarktgesetze einhalten.
+
+<sup>2</sup> Stellt die Aufsichtsorganisation Verletzungen aufsichtsrechtlicher Bestimmungen oder sonstige Missstände fest, so setzt sie der oder dem geprüften Beaufsichtigten eine angemessene Frist zur Herstellung des ordnungsgemässen Zustandes. Wird die Frist nicht eingehalten, so informiert sie unverzüglich die FINMA.
+
+<sup>3</sup> Der Bundesrat bestimmt Grundzüge und Inhalt der laufenden Aufsicht. Er trägt dabei der unterschiedlichen Grösse und dem unterschiedlichen Geschäftsrisiko der Beaufsichtigten Rechnung. Er kann die FINMA ermächtigen, Ausführungsbestimmungen zu technischen Angelegenheiten zu erlassen.
+
+[^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43b-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+
+### 2. Kapitel: Bewilligung
+
+#### Art. 43c
+
+**Grundsatz**
+
+<sup>1</sup> Die FINMA bewilligt die Aufsichtsorganisation, wenn die Bestimmungen dieses Kapitels erfüllt sind.
+
+<sup>2</sup> Sie genehmigt die Statuten und das Organisationsreglement der Aufsichtsorganisation sowie die Wahl der mit der Verwaltung und Geschäftsleitung betrauten Personen.
+
+<sup>3</sup> Die Änderung bewilligungspflichtiger Tatsachen und genehmigungspflichtiger Dokumente bedarf der vorgängigen Bewilligung oder Genehmigung durch die FINMA.
+
+<sup>4</sup> Werden mehrere Aufsichtsorganisationen errichtet, so kann der Bundesrat Regeln zur Koordination ihrer Tätigkeiten und zur Unterstellung der durch eine Aufsichtsorganisation Beaufsichtigten erlassen.
+
+#### Art. 43d
+
+**Organisation**
+
+<sup>1</sup> Die Aufsichtsorganisation muss tatsächlich von der Schweiz aus geleitet werden.
+
+<sup>2</sup> Sie muss über angemessene Regeln zur Unternehmensführung verfügen und so organisiert sein, dass sie die Pflichten nach diesem Gesetz erfüllen kann.
+
+<sup>3</sup> Sie muss über die zur Erfüllung ihrer Aufgaben notwendigen finanziellen und personellen Mittel verfügen.
+
+<sup>4</sup> Sie muss über eine Geschäftsleitung als operatives Organ verfügen.
+
+#### Art. 43e
+
+**Gewähr und Unabhängigkeit**
+
+<sup>1</sup> Die Aufsichtsorganisation und die mit der Geschäftsführung betrauten Personen müssen Gewähr für eine einwandfreie Geschäftstätigkeit bieten.
+
+<sup>2</sup> Die mit der Verwaltung und der Geschäftsführung betrauten Personen müssen zudem einen guten Ruf geniessen und die für die Funktion erforderlichen fachlichen Qualifikationen aufweisen.
+
+<sup>3</sup> Die Mehrheit der mit der Verwaltung betrauten Personen muss von den durch die Aufsichtsorganisation Beaufsichtigten unabhängig sein.
+
+<sup>4</sup> Die Mitglieder der Geschäftsleitung müssen von den durch die Aufsichtsorganisation Beaufsichtigten unabhängig sein.
+
+<sup>5</sup> Die mit der Aufsicht betrauten Personen müssen von den durch sie Beaufsichtigten unabhängig sein. Die Aufgaben einer Aufsichtsorganisation nach diesem Gesetz und diejenigen einer Selbstregulierungsorganisation nach dem GwG[^43e-1] können durch dieselben Personen geleitet und durch dasselbe Personal wahrgenommen werden.
+
+[^43e-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 43f
+
+**Finanzierung und Reserven**
+
+<sup>1</sup> Die Aufsichtsorganisation finanziert ihre Aufsichtstätigkeit im Einzelfall und ihre Dienstleistungen durch Beiträge der Beaufsichtigten.
+
+<sup>2</sup> Die Aufsichtsorganisation bildet innert angemessener Frist für die Ausübung ihrer Aufsichtstätigkeit Reserven im Umfang eines Jahresbudgets.
+
+<sup>3</sup> Der Bund kann der Aufsichtsorganisation zur Sicherstellung der Zahlungsbereitschaft bis zur vollständigen Äufnung der Reserven nach Absatz 2 ein Darlehen zu marktkonformen Bedingungen gewähren.
+
+#### Art. 43g
+
+**Verantwortlichkeit**
+
+Artikel 19 gilt sinngemäss auch für die Aufsichtsorganisation.
+
+### 3. Kapitel: Aufsicht über die Aufsichtsorganisation
+
+#### Art. 43h
+
+**Grundsätze**
+
+<sup>1</sup> Die Aufsichtsorganisation informiert die FINMA periodisch über ihre Aufsichtstätigkeit.
+
+<sup>2</sup> Die FINMA prüft, ob die Aufsichtsorganisation den Anforderungen nach dem 2. Kapitel dieses Titels entspricht und ob sie ihre Aufsichtsaufgaben wahrnimmt.
+
+<sup>3</sup> Die Aufsichtsorganisation muss der FINMA alle Auskünfte erteilen und Unterlagen herausgeben, welche die FINMA zur Wahrnehmung ihrer Aufsichtstätigkeit über die Aufsichtsorganisation benötigt.
+
+#### Art. 43i
+
+**Massnahmen**
+
+<sup>1</sup> Erfüllt die Aufsichtsorganisation die Anforderungen nach dem 2. Kapitel dieses Titels nicht oder nimmt sie ihre Aufsichtsaufgaben nicht wahr, so ergreift die FINMA die erforderlichen Massnahmen.
+
+<sup>2</sup> Die FINMA kann Personen, welche die Gewähr für eine einwandfreie Geschäftstätigkeit nicht mehr erfüllen, abberufen.
+
+<sup>3</sup> Erweist sich keine andere Massnahme als wirkungsvoll, so kann die FINMA die Aufsichtsorganisation liquidieren und die Aufsichtstätigkeit auf eine andere Aufsichtsorganisation übertragen.
+
+<sup>4</sup>
+
+Bestehen Anzeichen für Missstände und sorgt die Aufsichtsorganisation nicht für die Wiederherstellung des rechtmässigen Zustands, so kann die FINMA:
+
+- a. eine Prüfung beim Beaufsichtigten durchführen;
+- b. einen Prüfbeauftragten nach Artikel 24*a* einsetzen; oder
+- c. Aufsichtsinstrumente nach den Artikeln 29–37 ergreifen.
+
+### 4. Kapitel: Datenbearbeitung
+
+#### Art. 43j
+
+Artikel 23 gilt sinngemäss.
+
+### 5. Kapitel: Aufsichtsinstrumente der Aufsichtsorganisation
+
+#### Art. 43k
+
+**Prüfung**
+
+<sup>1</sup>
+
+Die Aufsichtsorganisation kann die Prüfung der von ihr Beaufsichtigten selbst ausführen oder sie durch Prüfgesellschaften ausführen lassen, die:
+
+- a. von der Eidgenössischen Revisionsaufsichtsbehörde als Revisorin nach Artikel 6 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^43k-1] zugelassen sind;
+- b. für diese Prüfung ausreichend organisiert sind; und
+- c. keine andere nach den Finanzmarktgesetzen bewilligungspflichtige Tätigkeit ausüben.
+
+<sup>2</sup>
+
+Bei Prüfungen durch eine Prüfgesellschaft nach Absatz 1 müssen leitende Prüferinnen oder leitende Prüfer eingesetzt werden, die:
+
+- a. von der Eidgenössischen Revisionsaufsichtsbehörde als Revisorin oder Revisor nach Artikel 5 des Revisionsaufsichtsgesetzes zugelassen sind;
+- b. das nötige Fachwissen und die nötige Praxiserfahrung für die Prüfung nach Absatz 1 aufweisen.
+
+<sup>3</sup> Die Artikel 24 Absätze 2–5 und 24*a*–28*a* sind sinngemäss anwendbar.
+
+<sup>4</sup> Die Beaufsichtigten haben auf Anordnung der Aufsichtsorganisation einen Kostenvorschuss zu leisten.
+
+[^43k-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+#### Art. 43l
+
+**Auskunfts- und Meldepflicht**
+
+<sup>1</sup> Die Beaufsichtigten, ihre Prüfgesellschaften und Revisionsstellen sowie qualifiziert oder massgebend an den Beaufsichtigten beteiligte Personen und Unternehmen müssen der Aufsichtsorganisation alle Auskünfte erteilen und Unterlagen herausgeben, die sie zur Erfüllung ihrer Aufgaben benötigt.
+
+<sup>2</sup> Die Beaufsichtigten und die Prüfgesellschaften, die bei ihnen Prüfungen durchführen, müssen der Aufsichtsorganisation zudem unverzüglich Vorkommnisse melden, die für die Aufsicht von wesentlicher Bedeutung sind.
+
+## 4. Titel: Strafbestimmungen****
+
+[^tit4-1]
+
+[^tit4-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 44
+
+**Tätigkeit ohne Bewilligung, Anerkennung, Zulassung, Registrierung oder Anschluss an eine Selbstregulierungsorganisation[^44-1]**
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich ohne Bewilligung, Anerkennung, Zulassung, Registrierung oder Anschluss an eine Selbstregulierungsorganisation nach Artikel 24 Absatz 1 GwG[^44-2] eine nach den Finanzmarktgesetzen bewilligungs-, anerkennungs-, zulassungs- oder registrierungspflichtige Tätigkeit oder eine Tätigkeit, die den Anschluss an eine Selbstregulierungsorganisation voraussetzt, ausübt.[^44-3]
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+<sup>3</sup> ...[^44-4]
+
+[^44-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^44-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^44-3]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^44-4]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 45
+
+**Erteilen falscher Auskünfte**
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich der FINMA, einer Prüfgesellschaft, einer Aufsichtsorganisation, einer Selbstregulierungsorganisation, einer oder einem Beauftragten falsche Auskünfte erteilt.[^45-1]
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+<sup>3</sup> ...[^45-2]
+
+[^45-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^45-2]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 46
+
+**Pflichtverletzungen der Beauftragten[^46-1]**
+
+<sup>1</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich als Beauftragte oder Beauftragter die aufsichtsrechtlichen Bestimmungen grob verletzt, indem sie oder er:[^46-2]
+
+- a.[^46-3] im Bericht wesentliche falsche Angaben macht oder wesentliche Tatsachen verschweigt;
+- b. eine vorgeschriebene Meldung an die FINMA nicht erstattet; oder
+- c. eine Aufforderung nach Artikel 27 an die oder den geprüften Beaufsichtigten unterlässt.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+<sup>3</sup> ...[^46-4]
+
+[^46-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^46-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^46-3]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^46-4]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 47
+
+**Prüfung der Jahresrechnung**
+
+<sup>1</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
+
+- a.[^47-1] die nach den Finanzmarktgesetzen vorgeschriebene Jahresrechnung nicht durch eine zugelassene Prüfgesellschaft prüfen oder eine von der FINMA oder einer Aufsichtsorganisation angeordnete Prüfung nicht vornehmen lässt;
+- b. die Pflichten, die ihm oder ihr gegenüber der Prüfgesellschaft oder gegenüber der oder dem Beauftragten obliegen, nicht erfüllt.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+<sup>3</sup> ...[^47-2]
+
+[^47-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^47-2]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+
+#### Art. 48
+
+**Missachten von Verfügungen[^48-1]**
+
+Mit Busse bis zu 100 000 Franken wird bestraft, wer einer von der FINMA unter Hinweis auf die Strafdrohung dieses Artikels ergangenen rechtskräftigen Verfügung oder einem Entscheid der Rechtsmittelinstanzen vorsätzlich nicht Folge leistet.
+
+[^48-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 49
+
+**Widerhandlungen in Geschäftsbetrieben**
+
+Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Stelle der Geschäftsbetrieb zur Bezahlung der Busse verurteilt werden (Art. 7 des BG vom 22. März 1974[^49-1] über das Verwaltungsstrafrecht), wenn:
+
+- a. die Ermittlung der Personen, die nach Artikel 6 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht strafbar sind, Untersuchungsmassnahmen bedingt, welche im Hinblick auf die verwirkte Strafe unverhältnismässig wären; und
+- b. für die Widerhandlungen gegen die Strafbestimmungen dieses Gesetzes oder der Finanzmarktgesetze eine Busse von höchstens 50 000 Franken in Betracht fällt.
+
+[^49-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 50
+
+**Zuständigkeit**
+
+<sup>1</sup> Für die Widerhandlungen gegen die Strafbestimmungen dieses Gesetzes oder der Finanzmarktgesetze ist das Bundesgesetz vom 22. März 1974[^50-1] über das Verwaltungsstrafrecht anwendbar, soweit das vorliegende Gesetz oder die Finanzmarktgesetze nichts anderes bestimmen. Verfolgende und urteilende Behörde ist das EFD.
+
+<sup>2</sup> Ist die gerichtliche Beurteilung verlangt worden oder hält das EFD die Voraussetzungen für eine Freiheitsstrafe oder eine freiheitsentziehende Massnahme für gegeben, so untersteht die strafbare Handlung der Bundesgerichtsbarkeit. In diesem Fall überweist das EFD die Akten der Bundesanwaltschaft zuhanden des Bundesstrafgerichts. Die Überweisung gilt als Anklage. Die Artikel 73–83 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht gelten sinngemäss.
+
+<sup>3</sup> Die Vertreterin oder der Vertreter der Bundesanwaltschaft und des EFD müssen zur Hauptverhandlung nicht persönlich erscheinen.
+
+[^50-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 51
+
+**Vereinigung der Strafverfolgung**
+
+<sup>1</sup> Sind in einer Strafsache sowohl die Zuständigkeit des EFD als auch der Bundesgerichtsbarkeit oder der kantonalen Gerichtsbarkeit gegeben, so kann das EFD die Vereinigung der Strafverfolgung in der Hand der bereits mit der Sache befassten Strafverfolgungsbehörde anordnen, sofern ein enger Sachzusammenhang besteht, die Sache noch nicht beim urteilenden Gericht hängig ist und die Vereinigung das laufende Verfahren nicht in unvertretbarem Masse verzögert.
+
+<sup>2</sup> Über Anstände zwischen dem EFD und der Bundesanwaltschaft oder den kantonalen Behörden entscheidet die Beschwerdekammer des Bundesstrafgerichts.
+
+#### Art. 52
+
+**Verjährung**
+
+Die Verfolgung von Übertretungen dieses Gesetzes und der Finanzmarktgesetze verjährt nach sieben Jahren.
+
+## 5. Titel: Verfahren und Rechtsschutz****
+
+[^tit5-1]
+
+[^tit5-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 53
+
+**Verwaltungsverfahren**
+
+Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1968[^53-1] über das Verwaltungsverfahren.
+
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 54
+
+**Rechtsschutz**
+
+<sup>1</sup> Die Anfechtung von Verfügungen der FINMA richtet sich nach den Bestimmungen über die Bundesrechtspflege.
+
+<sup>2</sup> Die FINMA ist zur Beschwerde an das Bundesgericht berechtigt.
+
+## 6. Titel: Schlussbestimmungen****
+
+[^tit6-1]
+
+[^tit6-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+### 1. Kapitel: Vollzug****
+
+[^tit6-chap1-1]
+
+[^tit6-chap1-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 55
+
+**Ausführungsbestimmungen**[^55-1]
+
+<sup>1</sup> Der Bundesrat erlässt die Ausführungsbestimmungen. Dabei berücksichtigt er die Regulierungsgrundsätze nach Artikel 7 Absatz 2 und richtet seine Regulierung grundsätzlich auf die Mehrheit der jeweiligen Beaufsichtigten aus. Vorbehalten bleiben höhere Anforderungen insbesondere bei Risiken für die Stabilität des Finanzsystems.
+
+<sup>2</sup> Der Bundesrat kann die FINMA ermächtigen, in Belangen von beschränkter Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungsbestimmungen zu diesem Gesetz und zu den Finanzmarktgesetzen zu erlassen.
+
+[^55-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 56
+
+**Vollzug**
+
+Die FINMA ist zuständig für den Vollzug dieses Gesetzes und der Finanzmarktgesetze.
+
+### 2. Kapitel: Änderung anderer Erlasse****
+
+[^tit6-chap2-1]
+
+[^tit6-chap2-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 57
+
+Die Änderung bisherigen Rechts wird im Anhang geregelt.
+
+### 3. Kapitel: Übergangsbestimmungen****
+
+[^tit6-chap3-1]
+
+[^tit6-chap3-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 58
+
+**Übergangsbestimmung zur Änderung vom 15. Juni 2018**[^58-1]
+
+Bewilligungsgesuche nach Artikel 43*c* Absatz 1 sind innert sechs Monaten nach Inkrafttreten der Änderung vom 15. Juni 2018 einzureichen. Die FINMA entscheidet innert sechs Monaten nach Eingang eines Bewilligungsgesuchs.
+
+[^58-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 59
+
+**Übergang der Arbeitsverhältnisse**
+
+<sup>1</sup> Die Arbeitsverhältnisse des Personals der Eidgenössischen Bankenkommission, des Bundesamtes für Privatversicherungen und der Kontrollstelle für die Bekämpfung der Geldwäscherei gehen gemäss Artikel 58 Absatz 1 auf die FINMA über und werden nach dem vorliegenden Gesetz weitergeführt.
+
+<sup>2</sup> Es besteht kein Anspruch auf Weiterführung der Funktion, des Arbeitsbereichs und der organisatorischen Einordnung; hingegen besteht während der Dauer eines Jahres Anspruch auf den bisherigen Lohn.
+
+<sup>3</sup> Bewerbungsverfahren werden nur dann durchgeführt, wenn es sich aufgrund einer Neuorganisation oder des Vorhandenseins mehrerer Kandidatinnen und Kandidaten als notwendig erweist.
+
+<sup>4</sup> Die FINMA bemüht sich, Umstrukturierungen sozialverträglich auszugestalten.
+
+#### Art. 60
+
+**Zuständige Arbeitgeberin**
+
+<sup>1</sup>
+
+Die FINMA gilt als zuständige Arbeitgeberin für die Rentenbezügerinnen und ‑bezüger:
+
+- a. die der Eidgenössischen Bankenkommission, dem Bundesamt für Privatversicherungen und der Kontrollstelle für die Bekämpfung der Geldwäscherei zugeordnet sind; und
+- b. deren Alters-, Invaliden- oder Hinterlassenenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei der Pensionskasse des Bundes zu laufen begonnen haben.
+
+<sup>2</sup> Liegt der Beginn der Arbeitsunfähigkeit, deren Ursache zu einem späteren Zeitpunkt zur Invalidität führt, vor dem Inkrafttreten dieses Gesetzes und beginnt die Rente erst nach seinem Inkrafttreten zu laufen, so gilt die FINMA ebenfalls als zuständige Arbeitgeberin.
+
+### 4. Kapitel: Referendum und Inkrafttreten****
+
+[^tit6-chap4-1]
+
+[^tit6-chap4-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+
+#### Art. 61
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens:[^61-1] Artikel 4, 7, 8, 9 Absatz 1 Buchstaben a–e und g–j sowie Absätze 2–5, Art. 10–14, 17–20, 21 Absätze 3 und 4, 53–55, 58 Absatz 2 zweiter Satz, 59 Absätze 2–4; Anhang Ziffer 4 (Verwaltungsgerichtsgesetz), Gliederungstitel vor Artikel 31 und 33 Buchstabe b: 1. Februar 2008 Übrige Bestimmungen: 1. Januar 2009
+
+[^61-1]: [AS 2008 5205](https://fedlex.data.admin.ch/eli/oc/2008/735)
+
+Anhang
+
+(Art. 57)
+
+## Änderung bisherigen Rechts
+
+Die nachstehenden Bundesgesetze werden wie folgt geändert:
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)konsultiert werden.

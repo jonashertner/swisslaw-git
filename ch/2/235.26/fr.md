@@ -1,0 +1,298 @@
+---
+sr: "235.26"
+title: "Ordonnance du 25 septembre 2020 sur le système d'information Plato (Ordonnance Plato)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
+language: fr
+version: 2020-11-01
+adopted: 2020-09-25
+in_force: 2020-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20201101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le système d’information Plato
+
+(Ordonnance Plato)
+
+du 25 septembre 2020 (Etat le 1<sup>er</sup> novembre 2020)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 6 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^ingress-1], vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle l’exploitation et l’utilisation du système d’information Plato (Plato) du Département fédéral des affaires étrangères (DFAE).
+
+#### Art. 2
+
+**Finalité du système d’information**
+
+Plato permet au DFAE de remplir ses tâches, à savoir celles assumées par la Division Sécurité humaine (DSH) de la Direction politique et par le Domaine Aide humanitaire et Corps suisse d’aide humanitaire (Domaine AH/CSA) de la Direction du développement et de la coopération (DDC), en application de la loi fédérale du 19 décembre 2003 sur des mesures de promotion civile de la paix et de renforcement des droits de l’homme[^2-1] ainsi que de l’ordonnance du 11 mai 1988 concernant le Corps suisse d’aide humanitaire[^2-2]. Il sert en particulier:
+
+- a. à la gestion et à l’administration des membres du Pool d’experts pour la promotion civile de la paix de la DSH et du CSA;
+- b. au recrutement d’experts pour les pools d’experts;
+- c. à la planification et à la gestion des missions;
+- d. à l’établissement de contrats de travail;
+- e. à l’administration des formations initiales et continues des experts;
+- f. à la logistique du matériel d’intervention;
+- g. à l’établissement de statistiques.
+
+[^2-1]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^2-2]: [RS 172.211.31](https://fedlex.data.admin.ch/eli/cc/1988/950_950_950)
+
+#### Art. 3
+
+**Responsabilités**
+
+Plato relève de la responsabilité de la DSH et du Domaine AH/CSA.
+
+#### Art. 4
+
+**Structure**
+
+Plato est constitué d’une interface utilisateur et des bases de données indépendantes les unes des autres énumérées ci-après:
+
+- a. base de données concernant les membres du Pool d’experts pour la promotion civile de la paix;
+- b. base de données pour les membres du CSA.
+
+## Section 2 Traitement des données
+
+#### Art. 5
+
+**Données traitées**
+
+<sup>1</sup> Plato contient des données relatives aux personnes visées à l’art. 2 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères.
+
+<sup>2</sup> Les données traitées dans le système sont spécifiées dans l’annexe.
+
+#### Art. 6
+
+**Provenance des données et droits de traitement**
+
+<sup>1</sup> Les données sont saisies par la DSH, la Division Personnel du DFAE et le Domaine AH/CSA. Ces unités disposent de tous les droits de traitement pour l’ensemble des données qu’elles gèrent.
+
+<sup>2</sup> Le Groupe spécialisé Sauvetage CSA du Département fédéral de la défense, de la protection de la population et des sports (DDPS) dispose d’un droit de lecture des données relatives à ses membres qui sont des experts du CSA.
+
+<sup>3</sup> L’unité Informatique du DFAE dispose des droits d’accès nécessaires à l’accomplissement de ses tâches.
+
+<sup>4</sup> Tous les droits de traitement s’exercent par le biais d’une procédure d’accès en ligne.
+
+#### Art. 7
+
+**Communication de données**
+
+Des données relatives à des experts déployés en mission peuvent être communiquées au Centre de gestion des crises du DFAE et à la Direction consulaire afin de permettre à ces unités de s’acquitter de leurs missions dans le cadre de la gestion de crises et d’incidents de sécurité ainsi que de la préparation aux crises.
+
+#### Art. 8
+
+**Destruction de données**
+
+<sup>1</sup> Les données personnelles saisies dans le système sont détruites au plus tard dix ans après que les personnes concernées ont atteint l’âge de septante ans.
+
+<sup>2</sup> Les données relatives à des personnes dont la candidature a été rejetée sont détruites au plus tard trois mois après la clôture de la procédure de candidature.
+
+<sup>3</sup> Sont réservées les dispositions de la législation fédérale relative à l’archivage.
+
+#### Art. 9
+
+**Classement de documents**
+
+Tous les documents relatifs aux personnes saisies dans le système peuvent être enregistrés dans Plato.
+
+## Section 3 Exploitation et droits d’accès
+
+#### Art. 10
+
+**Exploitation technique et administration du système**
+
+<sup>1</sup> L’unité Informatique du DFAE est responsable de l’exploitation technique de Plato.
+
+<sup>2</sup> L’administrateur système est rattaché à l’unité Informatique du DFAE. Il gère le système informatique, les bases de données et les applications.
+
+<sup>3</sup> Une personne responsable de l’application est rattachée à la DSH et une autre au Domaine AH/CSA. Ces personnes servent d’interface entre l’administrateur système et les utilisateurs.
+
+#### Art. 11
+
+**Attribution des droits d’accès**
+
+<sup>1</sup> Les personnes responsables de l’application attribuent les droits d’accès individuels aux utilisateurs de Plato.
+
+<sup>2</sup> Elles vérifient chaque année si les conditions relatives aux droits d’accès sont toujours remplies.
+
+## Section 4 Sécurité des données
+
+#### Art. 12
+
+**Devoirs de diligence**
+
+<sup>1</sup> La DSH et le Domaine AH/CSA veillent à ce que les données soient traitées dans Plato conformément aux prescriptions en vigueur.
+
+<sup>2</sup> Ils s’assurent que les données saisies sont exactes, complètes et à jour.
+
+#### Art. 13
+
+**Règlement relatif au traitement des données**
+
+La DSH et le Domaine AH/CSA édictent un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
+
+#### Art. 14
+
+**Journalisation**
+
+<sup>1</sup> Les accès à Plato et les modifications qui y sont effectuées sont journalisés en permanence.
+
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an.
+
+## Section 5 Entrée en vigueur
+
+#### Art. 15
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> novembre 2020.
+
+Annexe
+
+(art. 5, al. 2)
+
+## Données personnelles saisies dans Plato
+
+### I. Indications relatives à la personne
+
+- 1\. Nom(s)
+- 2\. Prénom(s)
+- 3\. Date de naissance/âge
+- 4\. État civil
+- 5\. Sexe
+- 6\. Lieu de naissance
+- 7\. Lieu d’origine
+- 8\. Nationalité(s) avec le code ISO
+- 9\. Adresse(s) (rue, NPA, localité)
+- 10\. Pays (nom, code postal, code ISO, indicatif téléphonique)
+- 11\. Type d’adresse
+- 12\. Numéro(s) de téléphone
+- 13\. Adresse électronique
+- 14\. Formule de civilité
+- 15\. Titre
+- 16\. Communication
+- 17\. Type de communication
+- 18\. Langue de correspondance
+- 19\. Compétences linguistiques
+- 20\. Diplômes et certificats de langues
+- 21\. Numéro d’assuré(e) au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annexu1-lvlu1-lvlI-1]
+- 22\. Numéro personnel
+- 23\. Indications relatives aux documents officiels (date et lieu de dépôt)
+- 24\. Profession et formation
+- 25\. Activité actuelle
+- 26\. Expérience dans le domaine humanitaire
+- 27\. Grade militaire
+- 28\. Grade dans la police
+- 29\. Statut (actif/passif) avec date et emplois précédents
+- 30\. Statut au sein du DDPS
+- 31\. Catégorie AH/CSA
+- 32\. Missions AH/CSA (hormis mandat/centrale DDC)
+- 33\. Nombre de missions AH/CSA (hormis mandat/centrale DDC)
+- 34\. dont missions effectuées dans le cadre de l’Équipe d’intervention rapide (EIR) ou de la Chaîne suisse de sauvetage (CSS)
+- 35\. Membre de l’EIR et fonction
+- 36\. Priorité EIR
+- 37\. Membre de la CSS et fonction
+- 38\. Priorité CSS
+- 39\. Instance compétente
+- 40\. Échelon de conduite
+- 41\. Entreprise
+- 42\. Expérience (type de missions)
+- 43\. Disponibilité pour des missions et restrictions en matière d’affectation
+- 44\. Réserve en matière d’affectation
+- 45\. Justification de la réserve en matière d’affectation
+- 46\. Groupe de travail spécialisé et position
+- 47\. Fonction dans le groupe spécialisé et position
+- 48\. Indications relatives aux missions effectuées pour des tiers (entreprise, organisation, description de l’activité, durée)
+- 49\. Besoins de formation continue
+- 50\. Indications relatives aux cours (nom du cours, type de cours, lieu, type de participants, statut de participation)
+
+[^annexu1-lvlu1-lvlI-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+### II. Indications relatives au passeport
+
+- 1\. Type de passeport
+- 2\. Pays
+- 3\. Numéro du passeport
+- 4\. Durée de validité
+- 5\. Lieu de délivrance
+- 6\. Date de délivrance
+- 7\. Remise
+- 8\. Restitution
+- 9\. Dépôt du passeport
+
+### III. Indications relatives au recrutement
+
+- 1\. Date de l’entretien
+- 2\. Candidature complète
+- 3\. Journée de recrutement
+- 4\. Attestation médicale d’aptitude
+- 5\. Date de l’extrait du casier judiciaire
+- 6\. Contrôle de sécurité relatif aux personnes (date limite de validité)
+- 7\. Confirmation d’admission
+- 8\. Permis de conduire (catégorie, date, remarques)
+
+### IV. Indications relatives à l’entreprise
+
+- 1\. Nom
+- 2\. Adresse(s) (rue, localité, pays)
+- 3\. Type d’adresse
+- 4\. Communication
+- 5\. Type de communication
+
+### V. Indications relatives à la personne de référence
+
+- 1\. Nom(s)
+- 2\. Prénom(s)
+- 3\. Nature de la relation
+- 4\. Priorité
+- 5\. Participation à une mission en famille
+- 6\. Adresse(s) (rue, NPA, localité)
+- 7\. Pays (nom, code postal, code ISO, indicatif téléphonique)
+- 8\. Type d’adresse
+- 9\. Communication
+- 10\. Type de communication
+
+### VI. Indications relatives à la mission et au contrat
+
+- 1\. Mission (désignation, type, sous-type, forme, durée, jours, lieu, AH/CSA, organisation, fonction, groupe spécialisé, pays, continent)
+- 2\. Contrat (type, durée, numéro, base légale)
+- 3\. Mission planifiée (type, statut)
+- 4\. Mission en famille
+- 5\. Classification
+- 6\. Chargé de programme
+- 7\. Taux d’occupation
+- 8\. Police civile (CIVPOL)
+- 9\. Niveau de contrôle de sécurité relatif aux personnes
+- 10\. Organisme d’envoi et organisme d’accueil
+- 11\. Superviseur
+- 12\. Statut relatif à la sélection
+- 13\. Grade dans la police
+- 14\. Compétence en matière de sécurité
+- 15\. Statut de candidature
+- 16\. Matériel/bagages
+- 17\. Unité d’organisation/Division/Section
+- 18\. Actuellement en mission pour l’AH/le CSA
+- 19\. Renseignements relatifs au voyage (date, heure)
+- 20\. Voyage compris
+- 21\. Congé non payé (du/au, nombre de jours)
+- 22\. Jours de vacances (nombre)
+- 23\. Subordination hiérarchique
+- 24\. Secteur du personnel
+- 25\. Indications relatives au salaire (classe de salaire, montant, versements, financement, type de frais de voyage de service, etc.)
+- 26\. Nombre de vols pour les vacances
+- 27\. Jours supplémentaires
+- 28\. Indemnités et allocations

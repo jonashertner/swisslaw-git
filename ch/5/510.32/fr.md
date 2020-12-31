@@ -1,0 +1,327 @@
+---
+sr: "510.32"
+title: "Ordonnance du 26 octobre 1994 concernant les pouvoirs de police de l'armée (OPoA)"
+short: OPoA
+eli: "https://fedlex.data.admin.ch/eli/cc/1995/40_40_40"
+language: fr
+version: 2009-01-01
+adopted: 1994-10-26
+in_force: 1995-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20090101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20090101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant les pouvoirs de police de l’armée
+
+(OPoA)**[^t-1]**
+
+du 26 octobre 1994 (Etat le 1<sup>er</sup> janvier 2009)
+
+[^t-1]: Nouvelle teneur de l’abréviation selon l’art. 2, let. e de l’O du 10 janv. 1996 modifiant les abréviations des titres de divers actes législatifs, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
+
+Le Conseil fédéral suisse,
+
+vu l’art. 92, al. 4, de la loi fédérale sur l’armée et l’administration militaire[^ingress-1],[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> La présente ordonnance règle les pouvoirs des organes militaires de police. Sont réservés d’autres pouvoirs d’organes militaires particuliers de police sur la base d’autres arrêtés.
+
+<sup>2</sup> Elle est valable durant le service d’instruction et, pour autant qu’il n’en soit pas disposé autrement, durant le service d’appui et le service actif également.[^1-1]
+
+<sup>3</sup> Elle est également valable pour les mises sur pied de troupes cantonales en vue d’un service d’ordre; le canton peut édicter des dispositions dérogatoires.[^1-2]
+
+<sup>4</sup>
+
+Elle n’est pas valable pour:
+
+- a. l’application de la force militaire contre des militaires et des formations ennemis;
+- b. la sauvegarde de la souveraineté sur l’espace atmosphérique.[^1-3]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-3]: Introduit par le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+
+#### Art. 2
+
+**Organes militaires de police**
+
+Les organes militaires de police sont:
+
+- a.
+
+  les organes de police de la troupe:
+
+  - 1\. la garde,
+  - 2\. les détachements et les formations auxquels sont confiées des tâches de police;
+
+- b. les membres de la sécurité militaire, notamment les organes des secteurs de la police militaire;
+- c. le corps des garde-fortifications;
+- d. les civils auxquels sont confiées des tâches de police militaire.
+
+#### Art. 3
+
+**But**[^3-1]
+
+<sup>1</sup>
+
+Pendant le service d’instruction, le service d’appui et le service actif, des mesures policières de contrainte peuvent être engagées pour:
+
+- a. écarter des dangers menaçant la sécurité de l’armée;
+- b. éliminer les perturbations visant l’ordre militaire;
+- c. prendre les mesures d’urgence qui s’imposent lors de la poursuite d’actes punissables commis contre l’armée ou ses membres jusqu’à l’arrivée des organes compétents en matière de poursuite pénale.
+
+<sup>2</sup> Pendant le service d’appui et le service actif, les mesures policières de contrainte peuvent être étendues afin de garantir l’accomplissement des missions de l’armée, de ses formations et de ses organes, pour autant que l’ordre d’engagement le prévoie expressément.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+
+#### Art. 4
+
+**Mesures policières de contrainte**[^4-1]
+
+<sup>1</sup>
+
+Les mesures policières de contrainte sont les suivantes:
+
+- a. éloigner et tenir à distance les personnes;
+- b. arrêter les personnes et contrôler leur identité;
+- c. les interroger;
+- d. les fouiller;
+- e. contrôler les objets;
+- f. procéder à des séquestres;
+- g. maintenir provisoirement des personnes en état d’arrestation;
+- h. exercer des contraintes physiques;
+- i. avoir recours aux armes.
+
+<sup>2</sup>
+
+Les armes suivantes peuvent être utilisées:
+
+- a. les armes à feu;
+- b. les substances irritantes;
+- c. les dispositifs incapacitants n’ayant pas d’effet létal (dispositifs incapacitants).
+
+<sup>3</sup>
+
+En cas de recours aux armes, les projectiles suivants peuvent être utilisés:
+
+- a. les projectiles chemisés;
+- b. les projectiles d’appoint;
+- c. les projectiles à expansion contrôlée.
+
+<sup>4</sup> Les dispositifs incapacitants et les projectiles à expansion contrôlée ne peuvent être utilisés que par le personnel militaire, les membres du service de sécurité militaire et les membres de l’armée spécialement formés à cet effet.
+
+[^4-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+
+#### Art. 5
+
+**Proportionnalité**
+
+<sup>1</sup> Toute mesure policière de contrainte doit être propre à sauvegarder ou à rétablir la situation légitime.
+
+<sup>2</sup> Elle ne doit pas aller au-delà de ce qui est nécessaire pour atteindre le but recherché.
+
+<sup>3</sup> Elle ne doit pas engendrer une situation défavorable disproportionnée par rapport au but recherché.
+
+#### Art. 6
+
+**Collaboration avec des organes civils de police**
+
+<sup>1</sup> Au lieu des prescriptions selon la section 2, le Département fédéral de la défense, de la protection de la population et des sports[^6-1] peut ordonner l’application des prescriptions civiles concernant les mesures policières de contrainte pour les organes militaires de police et les troupes.
+
+<sup>2</sup> ...[^6-2]
+
+[^6-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-2]: Abrogé par l’art. 10 de l’O du 14 avr. 1999 concernant l’instruction de la troupe en cas d’engagements de police, avec effet 1<sup>er</sup> mai 1999 ([RO 1999 1511](https://fedlex.data.admin.ch/eli/oc/1999/225)).
+
+## Section 2 Conditions régissant les différentes mesures policières de contrainte
+
+#### Art. 7
+
+**Principe**
+
+Les mesures policières de contrainte peuvent être appliquées selon les pouvoirs prévus à l’art. 3, pour autant que l’exécution de la mission l’exige.
+
+#### Art. 8
+
+**Eloigner des personnes et les tenir à distance**
+
+Les personnes peuvent être éloignées ou tenues à distance d’endroits déterminés si:
+
+- a. elles seraient sinon menacées sérieusement et directement;
+- b. la sécurité de l’armée, des militaires, du matériel d’armée, des ouvrages de l’armée ou des ouvrages qu’elle garde, la protection d’informations importantes ou le maintien de l’ordre militaire l’exigent;
+- c. elles empêchent des interventions ordonnées par l’autorité compétente pour le maintien ou le rétablissement de la sécurité et de l’ordre publics ou pour l’application de dispositions à exécuter.
+
+#### Art. 9
+
+**Interpeller des personnes et contrôler leur identité**
+
+<sup>1</sup> Les personnes suspectes peuvent être interpellées et leur identité contrôlée. Il peut être fait appel à la police civile pour déterminer si des personnes ou les objets qu’elles détiennent sont recherchés.
+
+<sup>2</sup> Les personnes qui sollicitent l’accès à des emplacements de troupe et à des ouvrages militaires ou gardés par l’armée peuvent être interpellées et leur identité contrôlée, même sans qu’elles soient suspectes.
+
+<sup>3</sup> Sur demande, les personnes interpellées doivent décliner leur identité et présenter les pièces d’identité qu’elles portent sur elles.
+
+<sup>4</sup> Si l’identité ne peut pas être établie avec certitude sur place ou uniquement avec des difficultés considérables, ou si des doutes importants subsistent quant à l’authenticité des indications, des papiers d’identité ou quant à la possession légale d’objets, les personnes interpellées peuvent être conduites à un poste de commandement ou à un poste de service militaires ou remises aux organes de police ou d’enquête compétents.
+
+<sup>5</sup> Si aucune autre mesure de contrainte ne s’impose, les personnes interpellées dont l’identité a été établie doivent être libérées immédiatement.
+
+#### Art. 10
+
+**Personnes interrogées**
+
+<sup>1</sup> Des personnes peuvent être interrogées au sujet de faits qu’il importe de connaître pour accomplir la mission.
+
+<sup>2</sup> Les personnes interrogées doivent être informées du droit de refuser toute déclaration.
+
+#### Art. 11
+
+**Personnes fouillées**
+
+<sup>1</sup>
+
+Les personnes peuvent être fouillées si:
+
+- a. elles sont fortement soupçonnées d’avoir commis un crime ou un délit;
+- b. elles portent des armes ou d’autres objets dangereux sur elles et sont soupçonnées d’en faire un usage illicite;
+- c. elles ont été interpellées provisoirement;
+- d. elles sont inconscientes ou incapables d’agir et que la fouille est nécessaire pour établir leur identité.
+
+<sup>2</sup> Les personnes qui sollicitent l’accès à des emplacements de troupe, à des ouvrages militaires ou à des ouvrages gardés par l’armée peuvent être fouillées sans devoir satisfaire à une des conditions prévues à l’al. 1.
+
+<sup>3</sup> Les personnes de sexe féminin ne peuvent être fouillées que par des femmes; la fouille visant la recherche d’armes fait exception. Durant le service actif, la présente disposition est valable pour autant que du personnel féminin soit disponible.
+
+#### Art. 12
+
+**Contrôles d’objets**
+
+<sup>1</sup> Les personnes arrêtées peuvent être obligées de présenter les objets qu’elles détiennent et d’ouvrir les contenants ainsi que les véhicules.
+
+<sup>2</sup> Des contenants et des véhicules peuvent être fouillés s’ils sont susceptibles de contenir des objets devant être séquestrés ou saisis.
+
+<sup>3</sup> Les contenants et les véhicules de personnes demandant accès à des emplacements de troupe, à des ouvrages militaires ou à des ouvrages gardés par l’armée peuvent être fouillés sans devoir satisfaire à la condition de l’al. 2.
+
+#### Art 13
+
+**Séquestre**
+
+<sup>1</sup>
+
+Des objets peuvent être séquestrés si:
+
+- a. ils représentent un danger important;
+- b. ils ont servi à commettre un acte punissable ou ont été soumis à un tel acte;
+- c. ils sont ou étaient destinés à commettre un acte punissable;
+- d. ils sont le produit d’un acte punissable ou ont été acquis à la suite d’un tel acte;
+- e. ils peuvent servir de moyen de preuve important.
+
+<sup>2</sup> Un procès-verbal doit être établi pour chaque séquestre. Il contient au moins la désignation des objets séquestrés, l’identité d’éventuelles personnes appelées à fournir des renseignements, le motif, le lieu et l’heure de la mesure. Le procès-verbal doit être signé par la personne dont les objets ont été saisis. Un refus de signer doit être mentionné dans le procès-verbal.
+
+<sup>3</sup> Les objets séquestrés doivent être remis aux organes de police ou aux organes chargés de l’enquête.
+
+#### Art. 14
+
+**Personnes maintenues provisoirement en état d’arrestation**
+
+<sup>1</sup>
+
+Des personnes peuvent être maintenues provisoirement en état d’arrestation si:
+
+- a. elles menacent la sécurité de l’armée, des militaires, du matériel d’armée, des ouvrages de l’armée ou des ouvrages qu’elle garde, ou la protection d’informations importantes, ou encore si elles troublent l’ordre militaire, dans la mesure où les éloigner ou les tenir à distance ne suffit pas;
+- b. elles ont commis ou tenté de commettre un acte punissable contre l’armée ou les militaires et qu’elles sont poursuivies directement par un organe militaire de police ou par la troupe;
+- c. elles menacent sérieusement leur propre personne ou d’autres personnes;
+- d. en raison de leur état ou de leur comportement, elles font scandale sur la voie publique ou troublent gravement la sécurité et l’ordre public;
+- e. elles sont recherchées.
+
+<sup>2</sup> L’arrestation de toute personne doit faire l’objet d’un procès-verbal. Il contient au moins l’identité de la personne arrêtée et celle d’éventuelles personnes appelées à fournir des renseignements, ainsi que le motif, le lieu et l’heure de la mesure. Le procès-verbal est signé par la personne en état d’arrestation. Un refus de signer doit être mentionné dans le procès-verbal.
+
+<sup>3</sup> Dès que le procès-verbal a été établi, les personnes en état d’arrestation doivent être remises immédiatement aux organes de police ou d’enquête compétents.
+
+<sup>4</sup> Des personnes en état d’arrestation peuvent être immobilisées au moyen de liens si elles opposent de la résistance ou s’il y a danger qu’elles fuient, attaquent d’autres personnes ou se blessent elles-mêmes.
+
+#### Art. 15
+
+**Contrainte physique**
+
+La contrainte physique ne peut être appliquée que si elle s’impose impérativement et que d’autres moyens sont inappropriés.
+
+#### Art. 16
+
+**Recours aux armes**
+
+<sup>1</sup> Le recours aux armes doit être un moyen ultime. Chaque usage doit être proportionné aux circonstances.
+
+<sup>2</sup>
+
+Si d’autres moyens à disposition sont insuffisants, l’arme à feu peut être utilisée de manière appropriée, en fonction des circonstances:
+
+- a. si les organes militaires de police sont menacés d’une attaque imminente dangereuse ou sont attaqués de manière dangereuse;
+- b. si d’autres personnes sont menacées d’une attaque imminente dangereuse ou attaquées de manière dangereuse;
+- c.
+
+  si les missions de service ne peuvent être exécutées qu’au moyen du recours à l’arme, notamment:
+
+  - 1\. si des personnes ayant ou étant fortement soupçonnées d’avoir commis un crime ou un délit grave tentent de se soustraire par la fuite à l’arrestation ou à une détention en cours d’exécution,
+  - 2\. si les organes militaires de police peuvent ou doivent déduire de renseignements obtenus ou de leurs propres constatations que des personnes faisant courir à autrui un danger grave et imminent pour sa santé ou sa vie tentent de se soustraire par la fuite à une arrestation ou à une détention en cours d’exécution,
+  - 3\. pour libérer des otages,
+  - 4\. pour empêcher un crime ou un délit imminent grave contre des installations au service de la collectivité ou qui représentent un danger particulier pour la collectivité en raison de leur vulnérabilité,
+  - 5\. s’il s’agit d’empêcher que du matériel pouvant représenter un danger grave pour la collectivité soit emporté de manière illégale,
+  - 6\. si un ouvrage militaire essentiel pour l’exécution de la mission de l’armée ou qui représente des éléments importants de celle-ci est menacé d’une façon imminente et dangereuse,
+  - 7\. si une violation grave du secret militaire doit être empêchée.
+
+<sup>3</sup> Le droit de recourir à l’usage d’une arme à feu peut être limité à certains cas prévus à l’al. 2 ou son utilisation peut être restreinte et précisée. Outre la situation et la mission, de telles prescriptions tiennent compte notamment du niveau d’instruction des membres des organes militaires de police.
+
+<sup>4</sup> Durant le service actif, le Département fédéral de la défense, de la protection de la population et des sports ou le général peuvent étendre le droit du recours aux armes.
+
+#### Art. 17
+
+**Principes généraux régissant le recours aux armes**
+
+<sup>1</sup> Chaque membre des organes militaires de police est personnellement responsable de l’usage de son arme.
+
+<sup>2</sup> Pour autant que le but et les circonstances le permettent, le recours à l’arme à feu doit être précédé d’une sommation ou d’un signal sans équivoque. Un coup de semonce ne peut être tiré qu’à condition qu’il résulte des circonstances que la sommation pourrait ne pas être entendue.
+
+<sup>3</sup> Le tir ajusté est uniquement un moyen d’obtenir l’incapacité d’attaquer ou de fuir.
+
+<sup>4</sup> Il convient de renoncer au recours à l’arme à feu si celui-ci menace de façon disproportionnée des tiers non impliqués.
+
+<sup>5</sup> La personne blessée par le recours à l’arme doit être secourue.
+
+<sup>6</sup> Le membre de l’organe militaire de police qui a fait usage de son arme doit être assisté.
+
+<sup>7</sup> Dans tous les cas, le supérieur doit être informé immédiatement du recours à l’arme.
+
+<sup>8</sup> Il faut immédiatement faire appel à la police civile ou à la police militaire pour relever des traces ou rechercher des personnes en fuite. Les armes utilisées doivent être mises en sécurité pour les fins de l’enquête.
+
+## Section 3 Dispositions finales
+
+#### Art. 18
+
+**Exécution**
+
+Le Département fédéral de la défense, de la protection de la population et des sports est chargé de l’exécution de la présente ordonnance.
+
+#### Art 19
+
+**Modification du droit en vigueur**
+
+...[^19-1]
+
+[^19-1]: La mod. peut être consultée au [RO 1995 40](https://fedlex.data.admin.ch/eli/oc/1995/40_40_40).
+
+#### Art. 20
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1995.

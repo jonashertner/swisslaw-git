@@ -1,0 +1,459 @@
+---
+sr: "0.814.021.5"
+title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 15. Oktober 2016"
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
+language: de
+version: 2020-10-28
+adopted: 2016-10-15
+in_force: 2019-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20201028/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20201028-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20201028/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen
+
+AS **2018** 5421
+
+Angenommen in Kigali am 15. Oktober 2016 an der 28. Tagung der Vertragsparteien
+
+Ratifikationsurkunde von der Schweiz hinterlegt am 7. November 2018
+
+In Kraft getreten für die Schweiz am 1. Januar 2019
+
+(Stand am 28. Oktober 2020)
+
+Übersetzung
+
+#### Art. 1
+
+**Änderung**
+
+### Art. 1 Abs. 4
+
+*In Artikel 1 Absatz 4 des Protokolls*[^1-subdivu1-1] *werden die Wörter* «Anlage C oder Anlage E» *durch folgende Wörter ersetzt:* «Anlage C, Anlage E oder Anlage F».
+
+[^1-subdivu1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+
+### Art. 2 Abs. 5
+
+*In Artikel 2 Absatz 5 des Protokolls werden die Wörter* «und Artikel 2H» *durch die Wörter* «und in den Artikeln 2H und 2J» *ersetzt.*
+
+### Art. 2 Abs. 8 Bst. a, 9 Bst. a und 11
+
+*In Artikel 2 Absatz 8 Buchstabe a und Absatz 11 des Protokolls werden die Wörter* «Artikel 2A bis 2I» *durch die Wörter* «Artikel 2A bis 2J» *und die Wörter* «Artikeln 2A bis 2I» *jeweils durch die Wörter* «Artikeln 2A bis 2J» *ersetzt.*
+
+*In Artikel 2 Absatz 9 Buchstabe a Ziffer i des Protokolls wird nach dem Wort* «welche,» *das Wort* «und» *gestrichen.*
+
+Artikel 2 Absatz 9 Buchstabe a Ziffer ii des Protokolls wird zu Ziffer iii.
+
+An Artikel 2 Absatz 8 Buchstabe a des Protokolls wird folgender Satz angefügt:
+
+- «eine solche Vereinbarung kann auf die Verpflichtungen bezüglich des Verbrauchs oder der Produktion aufgrund des Artikels 2J ausgedehnt werden; jedoch darf der gesamte berechnete Umfang des zusammengefassten Verbrauchs oder der zusammengefassten Produktion der betreffenden Vertragsparteien den in Artikel 2J vorgeschriebenen Umfang nicht übersteigen;»
+
+In Artikel 2 Absatz 9 Buchstabe a des Protokolls wird nach Ziffer i die folgende Ziffer ii eingefügt:
+
+- «ii. ob Anpassungen der globalen Treibhauspotentiale in Gruppe I der Anlage A, Anlage C und Anlage F vorgenommen werden sollen, und wenn ja, welche; und»
+
+### Art. 2J
+
+Nach Artikel 2I des Protokolls wird der folgende Artikel angefügt:
+
+## «**Art.** **2J**Teilfluorierte Kohlenwasserstoffe
+
+\1. Jede Vertragspartei sorgt dafür, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 2019 beginnt, und in jedem Zwölfmonatszeitraum danach der berechnete Umfang ihres Verbrauchs der geregelten Stoffe in Anlage F, ausgedrückt in CO<sub>2</sub>-Äquivalent, den für die jeweilige Spanne von Jahren in den Buchstaben a bis e festgelegten Prozentsatz des Jahresdurchschnitts des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Anlage F für die Jahre 2011, 2012 und 2013 zuzüglich 15 Prozent des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Gruppe I der Anlage C gemäss Artikel 2F Absatz 1, ausgedrückt in CO<sub>2</sub>‑Äquivalent, nicht übersteigt:
+
+- a) 2019 bis 2023: 90 Prozent;
+- b) 2024 bis 2028: 60 Prozent;
+- c) 2029 bis 2033: 30 Prozent;
+- d) 2034 bis 2035: 20 Prozent;
+- e) 2036 und danach: 15 Prozent.
+
+\2. Ungeachtet des Absatzes 1 können die Vertragsparteien beschliessen, dass eine Vertragspartei dafür sorgen muss, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 2020 beginnt, und in jedem Zwölfmonatszeitraum danach der berechnete Umfang ihres Verbrauchs der geregelten Stoffe in Anlage F, ausgedrückt in CO<sub>2</sub>-Äquivalent, den für die jeweilige Spanne von Jahren in den Buchstaben a bis e festgelegten Prozentsatz des Jahresdurchschnitts des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Anlage F für die Jahre 2011, 2012 und 2013 zuzüglich 25 Prozent des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Gruppe I der Anlage C gemäss Artikel 2F Absatz 1, ausgedrückt in CO<sub>2</sub>‑Äquivalent, nicht übersteigt:
+
+- a) 2020 bis 2024: 95 Prozent;
+- b) 2025 bis 2028: 65 Prozent;
+- c) 2029 bis 2033: 30 Prozent;
+- d) 2034 bis 2035: 20 Prozent;
+- e) 2036 und danach: 15 Prozent.
+
+\3. Jede Vertragspartei, welche die geregelten Stoffe der Anlage F produziert, sorgt dafür, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 2019 beginnt, und in jedem Zwölfmonatszeitraum danach der berechnete Umfang ihrer Produktion der geregelten Stoffe in Anlage F, ausgedrückt in CO<sub>2</sub>-Äquivalent, den für die jeweilige Spanne von Jahren in den Buchstaben a bis e festgelegten Prozentsatz des Jahresdurchschnitts des berechneten Umfangs ihrer Produktion der geregelten Stoffe der Anlage F für die Jahre 2011, 2012 und 2013 zuzüglich 15 Prozent des berechneten Umfangs ihrer Produktion der geregelten Stoffe der Gruppe I der Anlage C gemäss Artikel 2F Absatz 2, ausgedrückt in CO<sub>2</sub>-Äquivalent, nicht übersteigt:
+
+- a) 2019 bis 2023: 90 Prozent;
+- b) 2024 bis 2028: 60 Prozent;
+- c) 2029 bis 2033: 30 Prozent;
+- d) 2034 bis 2035: 20 Prozent;
+- e) 2036 und danach: 15 Prozent.
+
+\4. Ungeachtet des Absatzes 3 können die Vertragsparteien beschliessen, dass eine Vertragspartei, welche die geregelten Stoffe in Anlage F herstellt, dafür sorgen muss, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 2020 beginnt, und in jedem Zwölfmonatszeitraum danach der berechnete Umfang ihrer Produktion der geregelten Stoffe in Anlage F, ausgedrückt in CO<sub>2</sub>-Äquivalent, den für die jeweilige Spanne von Jahren in den Buchstaben a bis e festgelegten Prozentsatz des Jahresdurchschnitts des berechneten Umfangs ihrer Produktion der geregelten Stoffe der Anlage F für die Jahre 2011, 2012 und 2013 zuzüglich 25 Prozent des berechneten Umfangs ihrer Produktion der geregelten Stoffe der Gruppe I der Anlage C gemäss Artikel 2F Absatz 2, ausgedrückt in CO<sub>2</sub>-Äquivalent, nicht übersteigt:
+
+- a) 2020 bis 2024: 95 Prozent;
+- b) 2025 bis 2028: 65 Prozent;
+- c) 2029 bis 2033: 30 Prozent;
+- d) 2034 bis 2035: 20 Prozent;
+- e) 2036 und danach: 15 Prozent.
+
+\5. Die Absätze 1 bis 4 finden Anwendung, soweit nicht die Vertragsparteien beschliessen, den Umfang der Produktion oder des Verbrauchs zu gestatten, der zur Erfüllung von Zwecken notwendig ist, die von ihnen einvernehmlich als ausgenommene Zwecke erachtet werden.
+
+\6. Jede Vertragspartei, die Stoffe der Gruppe I der Anlage C oder der Anlage F herstellt, sorgt dafür, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 2020 beginnt, und in jedem Zwölfmonatszeitraum danach ihre Emissionen der Stoffe der Gruppe II der Anlage F, die in jeder Produktionsanlage erzeugt werden, die Stoffe der Gruppe I der Anlage C oder Stoffe der Anlage F herstellt, innerhalb desselben Zwölfmonatszeitraums durch von den Vertragsparteien genehmigte Technologie so weit wie möglich vernichtet werden.
+
+\7. Jede Vertragspartei sorgt dafür, dass die Vernichtung von Stoffen der Gruppe II der Anlage F, die von Anlagen erzeugt werden, die Stoffe der Gruppe I der Anlage C oder Stoffe der Anlage F herstellen, ausschliesslich durch von den Vertragsparteien genehmigte Technologien vernichtet werden.»
+
+Art. 3
+
+Der Einleitungssatz des Artikels 3 des Protokolls erhält folgenden Wortlaut:
+
+«1. Für die Zwecke der Artikel 2, 2A bis 2J und 5 bestimmt jede Vertragspartei für jede Gruppe von Stoffen in Anlage A, Anlage B, Anlage C, Anlage E oder Anlage F den berechneten Umfang:»
+
+*Am Ende des Artikels 3 Buchstabe a Ziffer i wird das Wort* «und» *gestrichen und durch den Wortlaut* «, sofern in Absatz 2 nichts anderes bestimmt ist, und» *ersetzt.*
+
+Am Ende des Buchstabens c wird der Punkt durch ein Semikolon ersetzt. An Artikel 3 des Protokolls wird folgender Wortlaut angefügt:
+
+- «d) ihrer Emissionen der Stoffe der Gruppe II der Anlage F, die in jeder Anlage erzeugt werden, die Stoffe der Gruppe I der Anlage C oder Stoffe der Anlage F herstellt, unter anderem unter Einbeziehung der durch Leckagen an Ausrüstungen, durch industrielle Abluftöffnungen und durch Geräte zur Vernichtung der Stoffe emittierten Mengen, aber unter Ausschluss der zur Verwendung, Vernichtung oder Lagerung aufgefangenen Mengen.
+
+\2. Bei der Berechnung des in CO<sub>2</sub>-Äquivalent ausgedrückten Umfangs der Produktion, des Verbrauchs, der Einfuhren, Ausfuhren und Emissionen der Stoffe der Anlage F und der Gruppe I der Anlage C für die Zwecke des Artikels 2J, des Artikels 2 Absatz 5 und des Artikels 3 Absatz 1 Buchstabe d verwendet jede Vertragspartei die in Gruppe I der Anlage A, in Anlage C und in Anlage F aufgeführten globalen Treibhauspotentiale dieser Stoffe.»
+
+Art. 4 Abs. 1<sup>septies</sup>
+
+Nach Artikel 4 Absatz 1<sup>sexies</sup> des Protokolls wird folgender Absatz eingefügt:
+
+«1<sup>septies</sup>. Ab dem Inkrafttreten dieses Absatzes verbietet jede Vertragspartei die Einfuhr der geregelten Stoffe in Anlage F aus jedem Staat, der nicht Vertragspartei dieses Protokolls ist.»
+
+Art. 4 Abs. 2<sup>septies</sup>
+
+Nach Artikel 4 Absatz 2<sup>sexies</sup> des Protokolls wird folgender Absatz eingefügt:
+
+«2<sup>septies</sup>. Ab dem Inkrafttreten dieses Absatzes verbietet jede Vertragspartei die Ausfuhr der geregelten Stoffe in Anlage F in jeden Staat, der nicht Vertragspartei dieses Protokolls ist.»
+
+Art. 4 Abs. 5, 6 und 7
+
+*In Artikel 4 Absätze 5, 6 und 7 des Protokolls werden die Wörter* «Anlagen A, B, C und E» *jeweils durch die Wörter* «Anlagen A, B, C, E und F» *ersetzt.*
+
+Art. 4 Abs. 8
+
+*In Artikel 4 Absatz 8 des Protokolls werden die Wörter* «Artikel 2A bis 2I» *durch die Wörter* «Artikel 2A bis 2J» *ersetzt.*
+
+Art. 4B
+
+Nach Artikel 4B Absatz 2 des Protokolls wird folgender Absatz eingefügt:
+
+«2<sup>bis</sup>. Jede Vertragspartei richtet bis zum 1. Januar 2019 oder innerhalb von drei Monaten ab dem Zeitpunkt, zu dem dieser Absatz für sie in Kraft tritt, je nachdem, welcher Zeitpunkt der spätere ist, ein System zur Lizenzerteilung für die Einfuhr und Ausfuhr von neuen, gebrauchten, wiederverwerteten und zurückgewonnenen geregelten Stoffen in Anlage F ein und setzt es um. Jede der in Artikel 5 Absatz 1 bezeichneten Vertragsparteien, die sich nicht in der Lage sieht, ein solches System bis zum 1. Januar 2019 einzurichten und umzusetzen, kann solche Massnahmen bis zum 1. Januar 2021 hinausschieben.»
+
+Art. 5
+
+*In Artikel 5 Absatz 4 des Protokolls wird das Wort* «2I» *durch das Wort* «2J» *ersetzt.*
+
+*In Artikel 5 Absätze 5 und 6 des Protokolls werden die Wörter* «Artikel 2I» *jeweils durch die Wörter* «den Artikeln 2I und 2J» *ersetzt.*
+
+Die Änderung in Artikel 5 Absatz 5 betrifft nicht die deutsche Übersetzung. Nach Artikel 5 Absatz 8<sup>ter</sup> des Protokolls wird folgender Absatz eingefügt:
+
+«8<sup>quater</sup>.
+
+- a)
+
+  Jede in Absatz 1 bezeichnete Vertragspartei ist vorbehaltlich von nach Artikel 2 Absatz 9 vorgenommenen Anpassungen der Regelungsmassnahmen in Artikel 2J berechtigt, die Einhaltung der Regelungsmassnahmen nach Artikel 2J Absatz 1 Buchstaben a bis e und Artikel 2J Absatz 3 Buchstaben a bis e zu verschieben und diese Massnahmen wie folgt zu ändern:
+
+  - i) 2024 bis 2028: 100 Prozent,
+  - ii) 2029 bis 2034: 90 Prozent,
+  - iii) 2035 bis 2039: 70 Prozent,
+  - iv) 2040 bis 2044: 50 Prozent,
+  - v) 2045 und danach: 20 Prozent;
+
+- b)
+
+  Ungeachtet des Buchstabens a können die Vertragsparteien beschliessen, dass eine in Absatz 1 bezeichnete Vertragspartei vorbehaltlich von nach Artikel 2 Absatz 9 vorgenommenen Anpassungen der Regelungsmassnahmen in Artikel 2J berechtigt ist, die Einhaltung der Regelungsmassnahmen nach Artikel 2J Absatz 1 Buchstaben a bis e und Artikel 2J Absatz 3 Buchstaben a bis e zu verschieben und diese Massnahmen wie folgt zu ändern:
+
+  - i) 2028 bis 2031: 100 Prozent,
+  - ii) 2032 bis 2036: 90 Prozent,
+  - iii) 2037 bis 2041: 80 Prozent,
+  - iv) 2042 bis 2046: 70 Prozent,
+  - iv) 2047 und danach: 15 Prozent;
+
+- c) Zur Berechnung ihres Basisverbrauchs nach Artikel 2J ist jede in Absatz 1 bezeichnete Vertragspartei berechtigt, den Durchschnittswert des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Anlage F für die Jahre 2020, 2021 und 2022 zuzüglich 65 Prozent ihres Basisverbrauchs der geregelten Stoffe der Gruppe I der Anlage C gemäss Absatz 8<sup>ter</sup> zu verwenden;
+- d) Ungeachtet des Buchstabens c können die Vertragsparteien beschliessen, dass eine in Absatz 1 bezeichnete Vertragspartei zur Berechnung ihres Basisverbrauchs nach Artikel 2J berechtigt ist, den Durchschnittswert des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Anlage F für die Jahre 2024, 2025 und 2026 zuzüglich 65 Prozent ihres Basisverbrauchs der geregelten Stoffe der Gruppe I der Anlage C gemäss Absatz 8<sup>ter</sup> zu verwenden;
+- e) Zur Berechnung ihrer Basisproduktion nach Artikel 2J ist jede in Absatz 1 bezeichnete Vertragspartei, welche die geregelten Stoffe in Anlage F herstellt, berechtigt, den Durchschnittswert des berechneten Umfangs ihrer Produktion der geregelten Stoffe der Anlage F für die Jahre 2020, 2021 und 2022 zuzüglich 65 Prozent ihrer Basisproduktion der geregelten Stoffe der Gruppe I der Anlage C gemäss Absatz 8<sup>ter</sup> zu verwenden;
+- f) Ungeachtet des Buchstabens e können die Vertragsparteien beschliessen, dass eine in Absatz 1 bezeichnete Vertragspartei, welche die geregelten Stoffe in Anlage F herstellt, zur Berechnung ihrer Basisproduktion nach Artikel 2J berechtigt ist, den Durchschnittswert des berechneten Umfangs ihrer Produktion der geregelten Stoffe der Anlage F für die Jahre 2024, 2025 und 2026 zuzüglich 65 Prozent ihrer Basisproduktion der geregelten Stoffe der Gruppe I der Anlage C gemäss Absatz 8<sup>ter</sup> zu verwenden;
+- g) Die Buchstaben a bis f finden auf den berechneten Umfang der Produktion und des Verbrauchs Anwendung, soweit keine Ausnahmeregelung für hohe Umgebungstemperaturen aufgrund von durch die Vertragsparteien beschlossenen Kriterien gilt.»
+
+Art. 6
+
+*In Artikel 6 des Protokolls werden die Wörter* «Artikeln 2A bis 2I» *durch die Wörter* «Artikeln 2A bis 2J» *ersetzt.*
+
+Art. 7 Abs. 2, 3 und 3<sup>ter</sup>
+
+*In Artikel 7 Absatz 2 des Protokolls wird nach der Zeile* «– in Anlage E für das Jahr 1991» *ein Komma und danach die folgende Zeile eingefügt:*
+
+- «– in Anlage F für die Jahre 2011 bis 2013, wobei die in Artikel 5 Absatz 1 bezeichneten Vertragsparteien diese Daten für die Jahre 2020 bis 2022 übermitteln, die in Artikel 5 Absatz 1 bezeichneten Vertragsparteien, für die Artikel 5 Absatz 8<sup>quater</sup> Buchstaben d und f gelten, jedoch für die Jahre 2024 bis 2026,»
+
+*In Artikel 7 Absatz 2 des Protokolls werden die Wörter* «C beziehungsweise E» *durch die Wörter* «C, E beziehungsweise F» *ersetzt.*
+
+*In Artikel 7 Absatz 3 des Protokolls werden die Wörter* «C und E» *durch die Wörter* «C, E und F» *und die Wörter* «C beziehungsweise E» *durch die Wörter* «C, E beziehungsweise F» *ersetzt.*
+
+Nach Artikel 7 Absatz 3<sup>bis</sup> des Protokolls wird folgender Absatz eingefügt:
+
+«3<sup>ter</sup>. Jede Vertragspartei übermittelt dem Sekretariat statistische Daten über ihre jährlichen Emissionen der geregelten Stoffe der Gruppe II der Anlage F pro Anlage nach Artikel 3 Absatz 1 Buchstabe d.»
+
+Art. 7 Abs. 4
+
+*In Artikel 7 Absatz 4 des Protokolls wird nach den Wörtern* «statistische Daten über» *und* «Daten über» *jeweils das Wort* «Produktion,» *eingefügt.*
+
+Art. 10 Abs. 1
+
+*In Artikel 10 Absatz 1 des Protokolls werden die Wörter* «und Artikel 2I» *durch die Wörter* «und in den Artikeln 2I und 2J» *ersetzt.*
+
+An Artikel 10 Absatz 1 des Protokolls wird folgender Satz angefügt:
+
+«Entscheidet sich eine in Artikel 5 Absatz 1 bezeichnete Vertragspartei, Mittel aus einem anderen Finanzierungsmechanismus in Anspruch zu nehmen, die einen Teil ihrer vereinbarten Mehrkosten decken könnten, so wird dieser Teil nicht durch den Finanzierungsmechanismus nach Artikel 10 gedeckt.»
+
+Art. 17
+
+*In Artikel 17 des Protokolls werden die Wörter* «2A bis 2I» *durch die Wörter* «2A bis 2J» *ersetzt.*
+
+Anlage A
+
+Die Tabelle für Gruppe I der Anlage A des Protokolls wird durch folgende Tabelle ersetzt:
+
+<table>
+<tr><td>Gruppe</td><td>Stoff</td><td></td><td>Ozonabbau potential\*</td><td>globales Treibhauspotential über einen Zeitraum von 100 Jahren</td></tr>
+<tr><td>*Gruppe I*</td><td>CFCl<sub>3</sub></td><td>(FCKW-11)</td><td>1,0</td><td>4750</td></tr>
+<tr><td></td><td>CF<sub>2</sub>Cl<sub>2</sub></td><td>(FCKW-12)</td><td>1,0</td><td>10900</td></tr>
+<tr><td></td><td>C<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub></td><td>(FCKW-113)</td><td>0,8</td><td>6130</td></tr>
+<tr><td></td><td>C<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub></td><td>(FCKW-114)</td><td>1,0</td><td>10000</td></tr>
+<tr><td></td><td>C<sub>2</sub>F<sub>5</sub>Cl</td><td>(FCKW-115)</td><td>0,6</td><td>7370</td></tr>
+<tr><td>...</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+Anlage C und Anlage F
+
+Die Tabelle für Gruppe I der Anlage C des Protokolls wird durch folgende Tabelle ersetzt:
+
+<table>
+<tr><th>Gruppe</th><th>Stoff</th><th>Anzahl der Isomere</th><th>Ozonabbaupotential\*</th><th>globales Treibhauspotential über einen Zeitraum von 100 Jahren\*\*\*</th></tr>
+<tr><td>Gruppe I</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>CHFCl<sub>2</sub></td><td>(HFCKW-21)\*\*</td><td>1</td><td>0,04</td><td>151</td></tr>
+<tr><td>CHF<sub>2</sub>Cl</td><td>(HFCKW-22)\*\*</td><td>1</td><td>0,055</td><td>1810</td></tr>
+<tr><td>CH<sub>2</sub>FCl</td><td>(HFCKW-31)</td><td>1</td><td>0,02</td><td></td></tr>
+<tr><td>C<sub>2</sub>HFCl<sub>4</sub></td><td>(HFCKW-121)</td><td>2</td><td>0,01 –0,04</td><td></td></tr>
+<tr><td>C<sub>2</sub>HF<sub>2</sub>Cl<sub>3</sub></td><td>(HFCKW-122)</td><td>3</td><td>0,02 –0,08</td><td></td></tr>
+<tr><td>C<sub>2</sub>HF<sub>3</sub>Cl<sub>2</sub></td><td>(HFCKW-123)</td><td>3</td><td>0,02 –0,06</td><td>77</td></tr>
+<tr><td>CHCl<sub>2</sub>CF<sub>3</sub></td><td>(HFCKW-123)\*\*</td><td>–</td><td>0,02</td><td></td></tr>
+<tr><td>C<sub>2</sub>HF<sub>4</sub>Cl</td><td>(HFCKW-124)</td><td>2</td><td>0,02 –0,04</td><td>609</td></tr>
+<tr><td>CHFClCF<sub>3</sub></td><td>(HFCKW-124)\*\*</td><td>–</td><td>0,022</td><td></td></tr>
+<tr><td>C<sub>2</sub>H<sub>2</sub>FCl<sub>3</sub></td><td>(HFCKW-131)</td><td>3</td><td>0,007–0,05</td><td></td></tr>
+<tr><td>C<sub>2</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>2</sub></td><td>(HFCKW-132)</td><td>4</td><td>0,008–0,05</td><td></td></tr>
+<tr><td>C<sub>2</sub>H<sub>2</sub>F<sub>3</sub>Cl</td><td>(HFCKW-133)</td><td>3</td><td>0,02 –0,06</td><td></td></tr>
+<tr><td>C<sub>2</sub>H<sub>3</sub>FCl<sub>2</sub></td><td>(HFCKW-141)</td><td>3</td><td>0,005–0,07</td><td></td></tr>
+<tr><td>CH<sub>3</sub>CFCl<sub>2</sub></td><td>(HFCKW-141b)\*\*</td><td>–</td><td>0,11</td><td>725</td></tr>
+<tr><td>C<sub>2</sub>H<sub>3</sub>F<sub>2</sub>Cl</td><td>(HFCKW-142)</td><td>3</td><td>0,008–0,07</td><td></td></tr>
+<tr><td>CH<sub>3</sub>CF<sub>2</sub>Cl</td><td>(HFCKW-142b)\*\*</td><td>–</td><td>0,065</td><td>2310</td></tr>
+<tr><td>C<sub>2</sub>H<sub>4</sub>FCl</td><td>(HCFC-151)</td><td>2</td><td>0,003–0,005</td><td></td></tr>
+<tr><td>C<sub>3</sub>HFCl<sub>6</sub></td><td>(HFCKW-221)</td><td>5</td><td>0,015–0,07</td><td></td></tr>
+<tr><td>C<sub>3</sub>HF<sub>2</sub>Cl<sub>5</sub></td><td>(HFCKW-222)</td><td>9</td><td>0,01 –0,09</td><td></td></tr>
+<tr><td>C<sub>3</sub>HF<sub>3</sub>Cl<sub>4</sub></td><td>(HFCKW-223)</td><td>12</td><td>0,01 –0,08</td><td></td></tr>
+<tr><td>C<sub>3</sub>HF<sub>4</sub>Cl<sub>3</sub></td><td>(HFCKW-224)</td><td>12</td><td>0,01 –0,09</td><td></td></tr>
+<tr><td>C<sub>3</sub>HF<sub>5</sub>Cl<sub>2</sub></td><td>(HFCKW-225)</td><td>9</td><td>0,02 –0,07</td><td></td></tr>
+<tr><td>CF<sub>3</sub>CF<sub>2</sub>CHCl<sub>2</sub></td><td>(HFCKW-225ca)\*\*</td><td>–</td><td>0,025</td><td>122</td></tr>
+<tr><td>CF<sub>2</sub>ClCF<sub>2</sub>CHClF</td><td>(HFCKW-225cb)\*\*</td><td>–</td><td>0,033</td><td>595</td></tr>
+<tr><td>C<sub>3</sub>HF<sub>6</sub>Cl</td><td>(HFCKW-226)</td><td>5</td><td>0,02 –0,10</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>2</sub>FCl<sub>5</sub></td><td>(HFCKW-231)</td><td>9</td><td>0,05 –0,09</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>2</sub>F2Cl<sub>4</sub></td><td>(HFCKW-232)</td><td>16</td><td>0,008–0,10</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub></td><td>(HFCKW-233)</td><td>18</td><td>0,007–0,23</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub></td><td>(HFCKW-234)</td><td>16</td><td>0,01 –0,28</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>2</sub>F<sub>5</sub>Cl</td><td>(HFCKW-235)</td><td>9</td><td>0,03 –0,52</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>3</sub>FCl<sub>4</sub></td><td>(HFCKW-241)</td><td>12</td><td>0,004–0,09</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>3</sub>F<sub>2</sub>Cl<sub>3</sub></td><td>(HFCKW-242)</td><td>18</td><td>0,005–0,13</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>3</sub>F<sub>3</sub>Cl<sub>2</sub></td><td>(HFCKW-243)</td><td>18</td><td>0,007–0,12</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>3</sub>F<sub>4</sub>Cl</td><td>(HFCKW-244)</td><td>12</td><td>0,009–0,14</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>4</sub>FCl<sub>3</sub></td><td>(HFCKW-251)</td><td>12</td><td>0,001–0,01</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>4</sub>F<sub>2</sub>Cl<sub>2</sub></td><td>(HFCKW-252)</td><td>16</td><td>0,005–0,04</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>4</sub>F<sub>3</sub>Cl</td><td>(HFCKW-253)</td><td>12</td><td>0,003–0,03</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>5</sub>FCl<sub>2</sub></td><td>(HFCKW-261)</td><td>9</td><td>0,002–0,02</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>5</sub>F<sub>2</sub>Cl</td><td>(HFCKW-262)</td><td>9</td><td>0,002–0,02</td><td></td></tr>
+<tr><td>C<sub>3</sub>H<sub>6</sub>FCl</td><td>(HFCKW-271)</td><td>5</td><td>0,001–0,03</td><td></td></tr>
+<tr><td colspan="5">\* Ist für das Ozonabbaupotential ein Bereich angegeben, so wird der höchste Wert dieses Bereichs für die Zwecke des Protokolls verwendet. Die als Einzelwerte angegebenen Ozonabbaupotentiale wurden durch Berechnungen auf der Grundlage von Labormessungen ermittelt. Die als Bereich angegebenen Ozonabbaupotentiale beruhen auf Schätzungen und sind weniger genau. Der Bereich bezieht sich auf eine Gruppe von Isomeren. Der obere Wert ist eine Schätzung des Ozonabbaupotentials des Isomers mit dem höchsten Ozonabbaupotential, und der untere Wert ist eine Schätzung des Ozonabbaupotentials des Isomers mit dem geringsten Ozonabbaupotential. \*\* Bezeichnet die wirtschaftlich bedeutendsten Stoffe samt Ozonabbaupotentialwerten, die für die Zwecke des Protokolls zu verwenden sind. \*\*\* Für Stoffe, für die kein globales Treibhauspotential angegeben ist, gilt der Standardwert «0», bis ein Wert für ein globales Treibhauspotential im Wege des Verfahrens nach Artikel 2 Absatz 9 Buchstabe a Ziffer ii aufgenommen wird.</td></tr>
+</table>
+
+Nach Anlage E wird folgende Anlage an das Protokoll angefügt:
+
+«Anlage F
+
+## Geregelte Stoffe
+
+<table>
+<tr><th>Gruppe</th><th>Stoff</th><th>globales Treibhauspotential über einen Zeitraum von 100 Jahren\*\*\*</th></tr>
+<tr><td>Gruppe I</td><td></td><td></td></tr>
+<tr><td>CHF<sub>2</sub>CHF<sub>2</sub></td><td>HFKW-134</td><td>1100</td></tr>
+<tr><td>CH<sub>2</sub>FCF<sub>3</sub></td><td>HFKW-134a</td><td>1430</td></tr>
+<tr><td>CH<sub>2</sub>FCHF<sub>2</sub></td><td>HFKW-143</td><td>353</td></tr>
+<tr><td>CHF<sub>2</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>HFKW-245fa</td><td>1030</td></tr>
+<tr><td>CF<sub>3</sub>CH<sub>2</sub>CF<sub>2</sub>CH<sub>3</sub></td><td>HFKW-365mfc</td><td>794</td></tr>
+<tr><td>CF<sub>3</sub>CHFCF<sub>3</sub></td><td>HFKW-227ea</td><td>3220</td></tr>
+<tr><td>CH<sub>2</sub>FCF<sub>2</sub>CF<sub>3</sub></td><td>HFKW-236cb</td><td>1340</td></tr>
+<tr><td>CHF<sub>2</sub>CHFCF<sub>3</sub></td><td>HFKW-236ea</td><td>1370</td></tr>
+<tr><td>CF<sub>3</sub>CH<sub>2</sub>CF<sub>3</sub></td><td>HFKW-236fa</td><td>9810</td></tr>
+<tr><td>CH<sub>2</sub>FCF<sub>2</sub>CHF<sub>2</sub></td><td>HFKW-245ca</td><td>693</td></tr>
+<tr><td>CF<sub>3</sub>CHFCHFCF<sub>2</sub>CF<sub>3</sub></td><td>HFKW-43-10mee</td><td>1640</td></tr>
+<tr><td>CH<sub>2</sub>F<sub>2</sub></td><td>HFKW-32</td><td>675</td></tr>
+<tr><td>CHF<sub>2</sub>CF<sub>3</sub></td><td>HFKW-125</td><td>3500</td></tr>
+<tr><td>CH<sub>3</sub>CF<sub>3</sub></td><td>HFKW-143a</td><td>4470</td></tr>
+<tr><td>CH<sub>3</sub>F</td><td>HFKW-41</td><td>92</td></tr>
+<tr><td>CH<sub>2</sub>FCH<sub>2</sub>F</td><td>HFKW-152</td><td>53</td></tr>
+<tr><td>CH<sub>3</sub>CHF<sub>2</sub></td><td>HFKW-152a</td><td>124</td></tr>
+<tr><td>Gruppe II</td><td></td><td></td></tr>
+<tr><td>CHF<sub>3</sub></td><td>HFKW-23</td><td>14800</td></tr>
+</table>
+
+»
+
+#### Art. 2
+
+**Verhältnis zur Änderung von 1999**
+
+Weder ein Staat noch eine Organisation der regionalen Wirtschaftsintegration darf eine Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zu dieser Änderung hinterlegen, ohne zuvor eine solche Urkunde zu der auf der Elften Tagung der Vertragsparteien am 3. Dezember 1999[^annexu1-lvlu1-2-1] in Peking angenommenen Änderung hinterlegt zu haben oder gleichzeitig zu hinterlegen.
+
+[^annexu1-lvlu1-2-1]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+
+#### Art. 3
+
+**Verhältnis zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen[^annexu1-lvlu1-3-1] und zum dazugehörigen Protokoll von Kyoto[^annexu1-lvlu1-3-2]**
+
+Zweck dieser Änderung ist es nicht, teilfluorierte Kohlenwasserstoffe aus dem Verpflichtungsumfang der Artikel 4 und 12 des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen oder der Artikel 2, 5, 7 und 10 des dazugehörigen Protokolls von Kyoto auszunehmen.
+
+[^annexu1-lvlu1-3-1]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^annexu1-lvlu1-3-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+
+#### Art. 4
+
+**Inkrafttreten**
+
+<sup>1.</sup> Mit Ausnahme der Regelung in Absatz 2 tritt diese Änderung am 1. Januar 2019 in Kraft, sofern mindestens zwanzig Ratifikations-, Annahme- oder Genehmigungsurkunden zu der Änderung von Staaten oder Organisationen der regionalen Wirtschaftsintegration hinterlegt worden sind, die Vertragsparteien des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, sind. Ist diese Bedingung bis zu dem genannten Tag nicht erfüllt, so tritt die Änderung am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem sie erfüllt worden ist.
+
+<sup>2.</sup> Die in Artikel I dieser Änderung festgelegten Änderungen des Artikels 4 des Protokolls – Regelung des Handels mit Nichtvertragsparteien – treten am 1. Januar 2033 in Kraft, sofern mindestens siebzig Ratifikations-, Annahme- oder Genehmigungsurkunden zu der Änderung von Staaten oder Organisationen der regionalen Wirtschaftsintegration hinterlegt worden sind, die Vertragsparteien des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, sind. Ist diese Bedingung bis zu dem genannten Tag nicht erfüllt, so tritt die Änderung am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem sie erfüllt worden ist.
+
+<sup>3.</sup> Für die Zwecke der Absätze 1 und 2 zählt eine von einer Organisation der regionalen Wirtschaftsintegration hinterlegte Urkunde nicht als zusätzliche Urkunde zu den von den Mitgliedstaaten der betreffenden Organisation hinterlegten Urkunden.
+
+<sup>4.</sup> Nach Inkrafttreten dieser Änderung nach den Absätzen 1 und 2 tritt sie für jede andere Vertragspartei des Protokolls am neunzigsten Tag nach dem Zeitpunkt der Hinterlegung ihrer Ratifikations-, Annahme- oder Genehmigungsurkunde in Kraft.
+
+#### Art. 5
+
+**Vorläufige Anwendung**
+
+Jede Vertragspartei kann jederzeit vor Inkrafttreten dieser Änderung für sie erklären, dass sie bis zum Inkrafttreten alle Regelungsmassnahmen nach Artikel 2J sowie die entsprechenden Berichtspflichten nach Artikel 7 vorläufig anwenden wird.
+
+(Es folgen die Unterschriften)
+
+Geltungsbereich am 28. Oktober 2020**[^t-1]**
+
+<table>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>18. Januar</td><td>2019</td><td>18. April</td><td>2019</td></tr>
+<tr><td>Andorra</td><td>23. Januar</td><td>2019</td><td>23. April</td><td>2019</td></tr>
+<tr><td>Argentinien</td><td>22. November</td><td>2019</td><td>20. Februar</td><td>2020</td></tr>
+<tr><td>Armenien</td><td>2. Mai</td><td>2019</td><td>31. Juli</td><td>2019</td></tr>
+<tr><td>Äthiopien</td><td>5. Juli</td><td>2019</td><td>3. Oktober</td><td>2019</td></tr>
+<tr><td>Australien</td><td>27. Oktober</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Bangladesch</td><td>8. Juni</td><td>2020</td><td>6. September</td><td>2020</td></tr>
+<tr><td>Barbados</td><td>19. April</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Belgien</td><td>4. Juni</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Benin</td><td>19. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Bhutan</td><td>27. September</td><td>2019</td><td>26. Dezember</td><td>2019</td></tr>
+<tr><td>Bolivien</td><td>9. Oktober</td><td>2020</td><td>7. Januar</td><td>2021</td></tr>
+<tr><td>Botsuana</td><td>19. September</td><td>2020</td><td>18. Dezember</td><td>2020</td></tr>
+<tr><td>Bulgarien</td><td>1. Mai</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Burkina Faso</td><td>26. Juli</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Chile</td><td>19. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Cook-Inseln</td><td>22. August</td><td>2019</td><td>20. November</td><td>2019</td></tr>
+<tr><td>Costa Rica</td><td>23. Mai</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Côte d’Ivoire</td><td>29. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>6. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Deutschland</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Ecuador</td><td>22. Januar</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Estland</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Europäische Union\*</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Fidschi</td><td>16. Juni</td><td>2020</td><td>14. September</td><td>2020</td></tr>
+<tr><td>Finnland</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Frankreich</td><td>29. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Gabun</td><td>28. Februar</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Ghana</td><td>2. August</td><td>2019</td><td>31. Oktober</td><td>2019</td></tr>
+<tr><td>Grenada</td><td>29. Mai</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Griechenland</td><td>5. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Guinea-Bissau</td><td>22. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Heiliger Stuhl\*</td><td>17. Juni</td><td>2020 B</td><td>15. September</td><td>2020</td></tr>
+<tr><td>Honduras</td><td>28. Januar</td><td>2019</td><td>28. April</td><td>2019</td></tr>
+<tr><td>Irland</td><td>12. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Japan</td><td>18. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Jordanien</td><td>16. Oktober</td><td>2019</td><td>14. Januar</td><td>2020</td></tr>
+<tr><td>Kanada</td><td>3. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Kirgisistan</td><td>8. September</td><td>2020</td><td>7. Dezember</td><td>2020</td></tr>
+<tr><td>Kiribati</td><td>26. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Komoren</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Korea (Nord-)</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Kroatien</td><td>6. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Kuba</td><td>20. Juni</td><td>2019</td><td>18. September</td><td>2019</td></tr>
+<tr><td>Laos</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Lesotho</td><td>7. Oktober</td><td>2019</td><td>5. Januar</td><td>2020</td></tr>
+<tr><td>Lettland</td><td>17. August</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Libanon</td><td>5. Februar</td><td>2020</td><td>5. Mai</td><td>2020</td></tr>
+<tr><td>Liberia</td><td>12. Juli</td><td>2020</td><td>10. Oktober</td><td>2020</td></tr>
+<tr><td>Liechtenstein</td><td>16. September</td><td>2020</td><td>15. Dezember</td><td>2020</td></tr>
+<tr><td>Litauen</td><td>24. Juli</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Luxemburg</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Malawi</td><td>21. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Malediven</td><td>13. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Mali</td><td>31. März</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Marshallinseln</td><td>15. Mai</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Mauritius</td><td>1. Oktober</td><td>2019</td><td>30. Dezember</td><td>2019</td></tr>
+<tr><td>Mexiko</td><td>25. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Mikronesien</td><td>12. Mai</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Montenegro</td><td>23. April</td><td>2019</td><td>22. Juli</td><td>2019</td></tr>
+<tr><td>Mosambik</td><td>16. Januar</td><td>2020</td><td>15. April</td><td>2020</td></tr>
+<tr><td>Namibia</td><td>16. Mai</td><td>2019</td><td>14. August</td><td>2019</td></tr>
+<tr><td>Neuseeland <sup>b</sup></td><td>3. Oktober</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Nicaragua</td><td>30. September</td><td>2020</td><td>29. Dezember</td><td>2020</td></tr>
+<tr><td>Niederlande</td><td>8. Februar</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Niger</td><td>29. August</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Nigeria</td><td>20. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Niue</td><td>24. April</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Nordmazedonien</td><td>12. März</td><td>2020</td><td>10. Juni</td><td>2020</td></tr>
+<tr><td>Norwegen</td><td>6. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Österreich</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Palau</td><td>29. August</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Panama</td><td>28. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Paraguay</td><td>1. November</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Peru</td><td>7. August</td><td>2019</td><td>5. November</td><td>2019</td></tr>
+<tr><td>Polen</td><td>7. Januar</td><td>2019</td><td>7. April</td><td>2019</td></tr>
+<tr><td>Portugal</td><td>17. Juli</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Ruanda</td><td>23. Mai</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Rumänien</td><td>1. Juli</td><td>2020</td><td>29. September</td><td>2020</td></tr>
+<tr><td>Russland</td><td>3. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Samoa</td><td>23. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>4. Oktober</td><td>2019</td><td>2. Januar</td><td>2020</td></tr>
+<tr><td>Schweden</td><td>17. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Schweiz</td><td>7. November</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Senegal</td><td>31. August</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Seychellen</td><td>20. August</td><td>2019</td><td>18. November</td><td>2019</td></tr>
+<tr><td>Sierra Leone</td><td>15. Juni</td><td>2020</td><td>13. September</td><td>2020</td></tr>
+<tr><td>Slowakei</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Slowenien</td><td>7. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Sri Lanka</td><td>28. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Südafrika</td><td>1. August</td><td>2019</td><td>30. Oktober</td><td>2019</td></tr>
+<tr><td>Togo</td><td>8. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Tonga</td><td>17. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Trinidad und Tobago</td><td>17. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Tschad</td><td>26. März</td><td>2019</td><td>24. Juni</td><td>2019</td></tr>
+<tr><td>Tschechische Republik</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Turkmenistan</td><td>31. August</td><td>2020</td><td>29. November</td><td>2020</td></tr>
+<tr><td>Tuvalu</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Uganda</td><td>21. Juni</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Ungarn</td><td>14. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Uruguay</td><td>12. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Vanuatu</td><td>20. April</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Gibraltar</td><td>18. Oktober</td><td>2019</td><td>18. Oktober</td><td>2019</td></tr>
+<tr><td>Vietnam</td><td>27. September</td><td>2019</td><td>26. Dezember</td><td>2019</td></tr>
+<tr><td>Zypern</td><td>22. Juli</td><td>2019</td><td>20. Oktober</td><td>2019</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Änderung des Montrealer Protokolls gilt nicht für Grönland. <sup>b</sup> Die Änderung des Montrealer Protokolls gilt nicht für Tokelau.</td></tr>
+</table>
+
+[^t-1]: [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820), [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102)[2255](https://fedlex.data.admin.ch/eli/oc/2019/425)[2663](https://fedlex.data.admin.ch/eli/oc/2019/499), [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42)[563](https://fedlex.data.admin.ch/eli/oc/2020/102)[3491](https://fedlex.data.admin.ch/eli/oc/2020/609)[3959](https://fedlex.data.admin.ch/eli/oc/2020/733)[4655](https://fedlex.data.admin.ch/eli/oc/2020/833). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).

@@ -1,0 +1,661 @@
+---
+sr: "170.512.1"
+title: "Ordonnance du 7 octobre 2015 sur les recueils du droit fédéral et la Feuille fédérale (Ordonnance sur les publications officielles, OPubl)"
+short: OPubl
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/670"
+language: fr
+version: 2018-01-01
+adopted: 2015-10-07
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/670/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-670-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les recueils du droit fédéral et la Feuille fédérale
+
+(Ordonnance sur les publications officielles, OPubl)
+
+du 7 octobre 2015 (Etat le 1<sup>er</sup> janvier 2018)
+
+Le Conseil fédéral suisse,
+
+vu la loi du 18 juin 2004 sur les publications officielles (LPubl)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+
+## Chapitre 1 Recueil officiel du droit fédéral
+
+### Section 1 Contenu
+
+#### Art. 1
+
+**Traités de droit international contenant des règles de droit et traités de droit international n’en contenant pas**
+
+<sup>1</sup> Sont réputés contenir des règles de droit les traités de droit international qui contiennent des dispositions selon l’art. 22, al. 4, de la loi du 13 décembre 2002 sur le Parlement[^1-1].
+
+<sup>2</sup>
+
+En ce qui concerne les traités de droit international qui relèvent des catégories ci-après, l’autorité responsable est en droit de présumer qu’ils ne contiennent ni n’autorisent à édicter des règles de droit (art. 3, al. 1, let. b, LPubl):
+
+- a. accords internationaux selon l’art. 10 de la loi fédérale du 19 mars 1976 sur la coopération au développement et l’aide humanitaire internationales[^1-2], s’ils concernent uniquement des projets concrets ou des contributions ciblées;
+- b. accords de droit international public selon l’art. 13, al. 2, de la loi fédérale du 24 mars 2006 sur la coopération avec les Etats d’Europe de l’Est[^1-3];
+- c. traités internationaux selon l’art. 8 de la loi fédérale du 19 décembre 2003 sur les mesures de promotion civile de la paix et de renforcement des droits de l’homme[^1-4];
+- d. accords d’exécution d’accords internationaux, selon l’art. 48*a*, al. 1, de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire (LAAM)[^1-5] concernant l’instruction à l’étranger ou avec des troupes étrangères;
+- e. conventions internationales selon l’art. 66*b*, al. 2, LAAM nécessaires à l’exécution des engagements pour la promotion de la paix;
+- f. accords internationaux selon l’art. 109*b* LAAM qui touchent le domaine de la coopération en matière d’armement.
+
+[^1-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^1-2]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^1-3]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
+[^1-4]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^1-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 2
+
+**Traités et décisions de droit international de portée mineure**
+
+Les traités et décisions de droit international de portée mineure (art. 7*a*, al. 2 et 3 de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^2-1], LOGA) ne sont pas publiés (art. 3, al. 3, LPubl) dans le Recueil officiel du droit fédéral (RO), à moins:
+
+- a. qu’ils concernent les droits et les obligations de particuliers, ou
+- b. que leur publication se révèle nécessaire pour des raisons de sécurité du droit ou de transparence.
+
+[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 3
+
+**Traités et décisions de droit international de durée limitée**
+
+Les traités et décisions de droit international dont la durée de validité ne dépasse pas six mois sont publiés dans le RO dès que leur validité est prolongée au-delà de ce délai.
+
+#### Art. 4
+
+**Modifications detraités et décisions de droit international**
+
+<sup>1</sup> Les modifications de traités et décisions de droit international publiés dans le RO doivent dans tous les cas être publiées dans le RO.
+
+<sup>2</sup> La publication peut être limitée aux dispositions modifiées.
+
+#### Art. 5
+
+**Champ d’application des traités internationaux multilatéraux ainsi que réserves, déclarations, objections et communications portant sur ces traités**
+
+<sup>1</sup> La première publication d’un traité international multilatéral dans le RO doit être assortie de la publication de son champ d’application. Les modifications du champ d’application sont publiées dès qu’elles sont au nombre de cinq, mais au plus tard trois ans après la première modification qui n’a pas été publiée.
+
+<sup>2</sup> Les réserves, déclarations et communications de la Suisse sont publiées dans le RO.
+
+<sup>3</sup> Les réserves, déclarations, objections et communications d’autres parties contractantes, ainsi que les objections de la Suisse, sont signalées uniquement dans la liste des champs d’application. Il y est fait mention du service auprès duquel les textes correspondants peuvent être obtenus ou consultés.
+
+#### Art. 6
+
+**Annexes**
+
+L’annexe d’un texte publié dans le RO doit y être publiée également si ledit texte y renvoie.
+
+#### Art. 7
+
+**Communications**
+
+Sont notamment mentionnés dans le RO sous la forme d’une communication:
+
+- a. les textes du RO devenus manifestement sans objet et qui n’ont pas été formellement abrogés;
+- b. les ordonnances devenues caduques selon les art. 7*c*, al. 3 ou 4, ou 7*d*, al. 2 ou 3, LOGA[^7-1];
+- c. les textes à retirer du Recueil systématique du droit fédéral (RS) qui, parce que leur publication n’est plus obligatoire, ne sont plus publiés dans le RO ni mis à jour dans le RS;
+- d. les dénonciations et les suspensions de traités et décisions de droit international.
+
+[^7-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 8
+
+**Corrections formelles**
+
+<sup>1</sup> Les corrections formelles des erreurs visées à l’art. 10, al. 1, LPubl qui sont publiées dans le RO contiennent et la disposition à corriger et la disposition corrigée.
+
+<sup>2</sup>
+
+Par erreurs entraînant un changement de sens selon l’art. 10, al. 1, LPubl, on entend notamment:
+
+- a. les erreurs de grammaire, d’orthographe ou de présentation qui ont une incidence sur le contenu;
+- b. les erreurs de forme comme les renvois erronés ou les erreurs de technique législative;
+- c. les erreurs de traduction ou les incohérences terminologiques.
+
+<sup>3</sup> Les erreurs ne peuvent faire l’objet d’une correction formelle que s’il est établi que l’autorité qui a édicté le texte a pris ou a cru prendre sa décision sur la base du libellé correct.
+
+### Section 2 …
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogé par le ch. II de l’O du 17 mai 2017, avec effet au 1<sup>er</sup> juil. 2017 ([RO 2017 3275](https://fedlex.data.admin.ch/eli/oc/2017/340)).
+
+### Section 3 Publication ordinaire
+
+#### Art. 10
+
+**Date de la publication**
+
+<sup>1</sup> Le délai fixé à l’art. 7, al. 1, LPubl ne comprend ni le jour de la publication dans le RO ni celui de l’entrée en vigueur.
+
+<sup>2</sup> Lorsque l’acte considéré et ses conséquences ont une grande portée, ou qu’il nécessite l’adoption de dispositions d’exécution, l’autorité responsable veille en collaboration avec la ChF à ce que la publication intervienne suffisamment tôt.
+
+#### Art. 11
+
+**Non-respect du délai**
+
+<sup>1</sup> Si l’autorité responsable livre à la ChF un acte pour qu’elle le publie mais que cette livraison intervient trop tard pour que le délai visé à l’art. 7, al. 1, LPubl puisse être respecté, la ChF demande immédiatement à l’autorité responsable de reporter l’entrée en vigueur.
+
+<sup>2</sup>
+
+Si l’autorité responsable refuse, elle expose les motifs pour lesquels la livraison est intervenue trop tard:
+
+- a. pour les actes qui doivent être soumis au Conseil fédéral: dans la proposition qui les accompagne;
+- b. pour les autres actes: par écrit adressé à la ChF au plus tard à la signature de l’acte.
+
+<sup>3</sup> Si l’entrée en vigueur ne peut être reportée, les obligations juridiques découlant de l’acte concerné naissent au plus tôt le jour suivant sa publication dans le RO.
+
+### Section 4 Publication urgente
+
+#### Art. 12
+
+<sup>1</sup> Si un acte est publié de manière urgente dans le RO le jour de son entrée en vigueur, l’heure de l’entrée en vigueur est précisée. Les obligations juridiques découlant de l’acte concerné naissent au plus tôt au moment de la publication.
+
+<sup>2</sup> La ChF désigne comme telles sur la plate-forme de publication (plate-forme) les publications urgentes.
+
+### Section 5 Publication par renvoi
+
+#### Art. 13
+
+**Compétence**
+
+<sup>1</sup> La publication d’un texte du droit interne sous forme de renvoi telle que prévue à l’art. 5, al. 1, LPubl est ordonnée par l’autorité qui a édicté le texte concerné.
+
+<sup>2</sup> La publication d’un traité ou d’une décision de droit international sous forme de renvoi telle que prévue à l’art. 5, al. 1, LPubl est ordonnée par l’autorité fédérale responsable.
+
+#### Art. 14
+
+**Présentation**
+
+<sup>1</sup> Les publications sous forme de renvoi selon l’art. 5, al. 1, LPubl sont présentées sous la forme d’une page distincte dans le RO.
+
+<sup>2</sup> Les publications sous forme de renvoi selon l’art. 5, al. 2, LPubl sont intégrées dans le texte ou dans les notes de bas de page.
+
+<sup>3</sup>
+
+Le renvoi selon l’art. 5, al. 2, LPubl doit mentionner:
+
+- a. l’adresse internet où le texte peut être consulté ou commandé;
+- b. l’autorité responsable ou, le cas échéant, les autres services auprès desquels le texte peut être consulté gratuitement;
+- c. l’adresse postale à laquelle le texte peut être commandé, si le service concerné ne possède pas d’adresse internet.
+
+#### Art. 15
+
+**Modifications, corrections et abrogations**
+
+Lorsque le texte auquel il est renvoyé dans le RO est modifié, corrigé ou abrogé, ces changements sont eux aussi mentionnés dans le RO.
+
+#### Art. 16
+
+**Obligations de l’autorité responsable**
+
+<sup>1</sup>
+
+En cas de publication par sous forme de renvoi, l’autorité responsable doit:
+
+- a. veiller à ce que les textes visés à l’art. 5, al. 1, LPubl qui font l’objet d’une modification soient disponibles dans leur forme consolidée à compter de la date de l’entrée en vigueur de cette modification;
+- b. livrer à la ChF les textes visés à l’art. 5, al. 1, LPubl, sous forme électronique, prêts à être imprimés, en vue de l’établissement, à titre exceptionnel, de tirés à part (art. 36);
+- c. veiller à ce que les textes visés à l’art. 5, al. 2, LPubl soient disponibles à tout moment dans les langues officielles requises à compter de la date de la publication du renvoi dans le RO et à ce qu’une version en ligne, si elle existe, soit accessible;
+
+<sup>2</sup> Elle garantit l’exactitude des versions consolidées des textes visés à l’art. 5, al. 1, LPubl.
+
+### Section 6 Publication extraordinaire
+
+#### Art. 17
+
+**Formes**
+
+<sup>1</sup>
+
+La publication extraordinaire d’un texte selon l’art. 7, al. 4, LPubl est notamment effectuée sous l’une ou plusieurs des formes suivantes:
+
+- a. publication sur un site internet de l’administration fédérale autre que la plate-forme;
+- b. communication à la radio et à la télévision par la Société suisse de radiodiffusion et les autres diffuseurs de programmes de radio ou de télévision concessionnaires;
+- c. envoi aux services désignés par les cantons conformément à l’art. 18 LPubl;
+- d. remise de communiqués de presse;
+- e. envoi de circulaires ou d’écrits assimilés aux personnes concernées par le texte, pour autant qu’il soit possible d’identifier celles-ci nommément;
+- f. affichage public;
+- g. notification directe quand le texte doit être appliqué immédiatement.
+
+<sup>2</sup> Les dispositions spéciales du droit fédéral relatives à la forme de la publication extraordinaire sont réservées.
+
+#### Art. 18
+
+**Contenu**
+
+La publication extraordinaire reproduit intégralement le texte ou en donne un résumé.
+
+#### Art. 19
+
+**Procédure**
+
+<sup>1</sup> En cas d’indisponibilité de la plate-forme, la ChF informe l’autorité responsable de la nécessité de procéder à une publication extraordinaire.
+
+<sup>2</sup> Elle envoie le texte aux services que les cantons ont désignés conformément à l’art. 18 LPubl.
+
+<sup>3</sup> Le texte est publié dans le RO dès que possible.
+
+## Chapitre 2 Recueil systématique du droit fédéral
+
+#### Art. 20
+
+<sup>1</sup> Les erreurs n’entraînant aucun changement de sens qui sont visées à l’art. 12, al. 1, LPubl, notamment les erreurs de grammaire, d’orthographe ou de présentation qui n’ont pas d’incidence sur le contenu, sont corrigées sans procédure formelle.
+
+<sup>2</sup> Sont adaptées sans procédure formelle les dénominations des unités administratives qui ont été modifiées à la suite de décisions de nature organisationnelle prises par le Conseil fédéral, les départements ou les offices en vertu de l’art. 8, al. 1, LOGA[^20-1]. Les départements communiquent les nouvelles dénominations à la ChF.
+
+[^20-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## Chapitre 3 Feuille fédérale
+
+### Section 1 Contenu
+
+#### Art. 21
+
+**Textes soumis à l’Assemblée fédérale pour approbation**
+
+Si un texte accompagné d’un message, tel qu’un traité ou une décision de droit international (art. 3 LPubl), est soumis pour approbation à l’Assemblée fédérale, le texte et le message sont publiés simultanément dans la Feuille fédérale (FF). Cette règle s’applique aussi aux constitutions cantonales.
+
+#### Art. 22
+
+**Textes publiés en vertu de l’art. 13, al. 2, LPubl**
+
+Les textes visés à l’art. 13, al. 2, LPubl sont publiés s’ils déploient des effets externes considérables ou revêtent une importance générale considérable. C’est notamment le cas:
+
+- a. des instructions qui revêtent la forme d’un acte émanant soit de l’administration fédérale, soit d’une organisation ou d’une personne de droit public ou privé chargée de tâches administratives mais ne faisant pas partie de l’administration fédérale;
+- b. des directives du Conseil fédéral comme les conventions de prestations, les principes directeurs et les objectifs stratégiques applicables aux entreprises proches de la Confédération ou aux organisations ou personnes de droit public ou privé chargées de tâches administratives mais ne faisant pas partie de l’administration fédérale;
+- c. des conventions administratives d’importance majeure.
+
+#### Art. 23
+
+**Publication sous forme de renvoi**
+
+Sont notamment publiés dans la FF avec mention uniquement du titre et de la référence ou du nom de l’organisme auprès duquel le texte peut être obtenu (art. 13, al. 3, LPubl):
+
+- a. le message sur le budget de la Confédération et ses suppléments;
+- b. le message sur le compte d’Etat de la Confédération;
+- c. le rapport de gestion du Conseil fédéral.
+
+### Section 2 Mentions
+
+#### Art. 24
+
+**Mention des lois fédérales urgentes adoptées**
+
+<sup>1</sup> Les lois fédérales urgentes qui ont été adoptées sont publiées dans la FF avec mention uniquement de leur titre, de leur référence dans le RO et, le cas échéant, de la date d’expiration du délai référendaire.
+
+<sup>2</sup> La mention dans la FF paraît en même temps que la loi est publiée dans le RO.
+
+#### Art. 25
+
+**Mention des actes de l’Assemblée fédérale publiés ultérieurement**
+
+Un acte de l’Assemblée fédérale est dans un premier temps publié dans la FF avec mention uniquement de son titre et de la date de son adoption si sa publication intégrale doit être différée, notamment lorsque la base juridique ou le traité international sur lequel il se fonde n’est pas encore entré en vigueur. Il est alors précisé qu’il sera publié ultérieurement dans le RO ou dans la FF.
+
+## Chapitre 4 Autres textes publiés sur la plate-forme
+
+#### Art. 26
+
+[^26-1]
+
+En plus des textes mentionnés à l’art. 13*a*, al. 1, LPubl, est publiée sur la plate-forme la banque de données de la ChF relative aux commissions extraparlementaires.
+
+[^26-1]: Nouvelle teneur selon le ch. II de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+
+## Chapitre 5 Dispositions communes
+
+### Section 1 Outils de recherche
+
+#### Art. 27
+
+**Répertoires et index**
+
+La ChF publie:
+
+- a. un répertoire systématique des textes du RS, contenant une table alphabétique et une liste des textes publiés sous forme de renvoi conformément à l’art. 5, al. 1, LPubl;
+- b. un index des matières de la FF;
+- c. un répertoire de tous les textes juridiques de l’Union européenne qui sont applicables à la Suisse.
+
+#### Art. 28
+
+**Moteur de recherche et accès direct**
+
+Les textes publiés sur la plate-forme sont notamment accessibles grâce aux outils suivants:
+
+- a. un moteur de recherche;
+- b. un accès direct aux textes du RS qui sont en vigueur, au moyen du numéro RS ou du sigle, et à leurs articles par ajout du numéro.
+
+### Section 2 Données électroniques
+
+#### Art. 29
+
+**Format des données électroniques**
+
+<sup>1</sup> Les textes de la plate-forme sont publiés au format PDF. Les exigences techniques sont définies au ch. 1 de l’annexe.
+
+<sup>2</sup> La ChF peut publier les textes dans des formats supplémentaires.
+
+<sup>3</sup> La version contenue dans les documents publiés au format PDF fait foi.
+
+<sup>4</sup> Le RO, le RS et la FF ont une présentation unifiée.
+
+#### Art. 30
+
+**Signature électronique**
+
+<sup>1</sup> Les textes du RO et de la FF qui sont publiés sur la plate-forme au format PDF sont munis d’une signature électronique apposée par la ChF. Les exigences techniques sont définies au ch. 2 de l’annexe.
+
+<sup>2</sup> La ChF veille à ce que la validité des signatures électroniques puisse en tout temps être vérifiée en ligne auprès d’un service de validation.
+
+### Section 3 Langues officielles
+
+#### Art. 31
+
+**Editions distinctes dans chacune des langues officielles**
+
+Le RO, le RS et la FF ainsi que les répertoires, les tables des matières et les index correspondants font l’objet d’éditions distinctes, dans chacune des trois langues officielles.
+
+#### Art. 32
+
+**Instructions destinées aux utilisateurs de publications électroniques**
+
+Les instructions doivent être disponibles au moins dans les langues officielles.
+
+#### Art. 33
+
+**Dérogations au principe de la publication dans les langues officielles**
+
+<sup>1</sup> La ChF décide, d’entente avec l’autorité responsable, si les conditions permettant de déroger à l’obligation de publier dans les langues officielles prévues à l’art. 14, al. 2, LPubl sont remplies.
+
+<sup>2</sup> Les textes de la JAAC sont publiés dans la langue originale du document, et accompagnés d’un résumé rédigé dans les autres langues officielles.
+
+### Section 4 Parution
+
+#### Art. 34
+
+<sup>1</sup> L’adresse internet de la plate-forme est www.droitfederal.admin.ch. Toute édition du RO et de la FF mentionne cette adresse.
+
+<sup>2</sup> Le RO paraît une fois par semaine, en même temps que la FF. Si cela est nécessaire pour effectuer des publications urgentes, il paraît plusieurs fois par semaine. Le RO paraît uniquement les jours ouvrables.
+
+<sup>3</sup> La version en ligne du RS est tenue à jour.
+
+### Section 5 Publications imprimées
+
+#### Art. 35
+
+**Editions imprimées périodiques**
+
+<sup>1</sup>
+
+La ChF fait établir des éditions imprimées périodiques en fonction de la demande selon un rythme qu’elle définit. Le rythme de publication est au moins le suivant:
+
+- a. le RO et la FF: une fois par mois;
+- b. le supplément du RS et l’index des matières de la FF: quatre fois par an;
+- c. le répertoire systématique: une fois par an.
+
+<sup>2</sup> Les éditions imprimées du RO et de la FF sont vendues par abonnement.
+
+<sup>3</sup> Les éditions imprimées du RS sont vendues sous forme de collection complète ou de parties distinctes. Les abonnés reçoivent également les suppléments.
+
+#### Art. 36
+
+**Tirés à part**
+
+<sup>1</sup> La ChF s’assure qu’il est possible de commander à l’unité les textes du RO, du RS et de la FF, y compris les textes qui sont publiés sous forme de renvoi conformément à l’art. 5, al. 1, LPubl.
+
+<sup>2</sup> La ChF édite des compilations de textes du RO, du RS et de la FF en fonction de la demande prévisible.
+
+#### Art. 37
+
+**Nombre minimal d’exemplaires imprimés**
+
+Le RO et la FF sont imprimés en trois exemplaires au moins; n’en font pas partie les textes qui y sont publiés sous forme de renvoi. La ChF s’assure que ces exemplaires sont entreposés dans trois bâtiments distincts au moins.
+
+#### Art. 38
+
+**Diffusion**
+
+Les publications visées par la LPubl peuvent être obtenues auprès de l’Office fédéral des constructions et de la logistique.
+
+### Section 6 Mesures visant à garantir la publication dans les délais prévus
+
+#### Art. 39
+
+**Obligations de la ChF et de l’autorité responsable**
+
+<sup>1</sup> La ChF s’assure que les textes soumis à la LPubl sont publiés à temps.
+
+<sup>2</sup> Les textes destinés à être publiés doivent être fournis à la ChF à temps, sous forme électronique, dans les langues officielles requises et dans leur version définitive.
+
+<sup>3</sup> Les traités et décisions de droit international doivent en outre être fournis à la Direction du droit international public du Département fédéral des affaires étrangères à temps avant leur entrée en vigueur, dans la langue originale et, sous forme électronique, dans les langues officielles requises.
+
+<sup>4</sup> Lorsqu’il n’est pas possible de publier à temps les messages et les rapports visés à l’art. 149 de la loi du 13 décembre 2002 sur le Parlement[^39-1], l’autorité responsable se charge de les faire parvenir aux Services du Parlement.
+
+[^39-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+#### Art. 40
+
+**Textes du droit interne**
+
+L’autorité responsable doit fournir à la ChF les différentes versions linguistiques des textes du droit interne dans les délais suivants au plus tard:
+
+- a. au début de la consultation des offices (art. 4 de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration, OLOGA[^40-1]), en allemand et en français: les projets d’acte qui font l’objet d’une consultation ou à l’appui desquels un message est rédigé;
+- b. à l’ouverture des contrôles linguistique et juridique (e-circuit), en allemand et en français: les autres projets d’acte et les autres textes qui doivent être publiés en vertu de la LPubl;
+- c. le jour où le Conseil fédéral prend sa décision, en italien: les textes de la compétence du Conseil fédéral;
+- d. à une date fixée d’entente avec la ChF, en italien: les textes de la compétence d’autres autorités.
+
+[^40-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 41
+
+**Traités et décisions de droit international**
+
+L’autorité responsable doit fournir à la ChF les différentes versions linguistiques des textes ci-après dans les délais suivants au plus tard:
+
+- a. à l’ouverture de la procédure de co-rapport (art. 5 OLOGA[^41-1]) en vue de l’approbation des traités ou décisions concernés, en allemand et en français: les textes des traités et décisions de droit international que le Conseil fédéral a la compétence de conclure seul;
+- b. avant la date de l’application provisoire, en allemand et en français: les textes des traités et décisions de droit international qui doivent être appliqués à titre provisoire;
+- c. à l’ouverture de la procédure de co-rapport (art. 5 OLOGA) en vue de l’approbation du message, en allemand et en français: les textes des traités et décisions de droit international à l’appui desquels un message doit être rédigé;
+- d. à une date fixée d’entente avec la ChF, en italien: les textes visés aux let. a à c.
+
+[^41-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+### Section 7 Date de la publication
+
+#### Art. 42
+
+<sup>1</sup> Les modifications de la Constitution[^42-1] qui sont acceptées par le peuple et les cantons sont publiées dans le RO le même jour que l’arrêté de validation est publié dans la FF.
+
+<sup>2</sup> Les lois fédérales et les arrêtés fédéraux sujets ou soumis au référendum sont publiés dans le RO à l’expiration du délai référendaire, s’il n’a pas été utilisé, ou après leur acceptation par le peuple.
+
+<sup>3</sup> Les lois fédérales urgentes et les ordonnances de l’Assemblée fédérale sont publiées dans le RO immédiatement après leur adoption.
+
+<sup>4</sup> Les textes visés aux al. 1 à 3 dont la date d’entrée en vigueur n’est pas encore fixée sont publiés dans le RO immédiatement après la décision d’entrée en vigueur.
+
+<sup>5</sup> Les traités internationaux qui sont appliqués à titre provisoire avant leur entrée en vigueur sont publiés dans le RO dès que possible après que la décision d’application provisoire a été prise.
+
+<sup>6</sup> Tous les textes qui ont été adoptés par l’Assemblée fédérale au cours d’une même session parlementaire et qui sont sujets au référendum sont publiés dans la FF simultanément. Leur publication intervient au plus tôt dix jours après le vote final des Chambres. Un texte peut être publié plus tôt si cela est indispensable pour qu’il puisse entrer en vigueur à temps.
+
+<sup>7</sup> Un arrêté fédéral simple n’est pas publié dans la FF avant que l’acte constituant sa base juridique ait été publié dans le RO.
+
+[^42-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+### Section 8 Sécurité des publications électroniques et protection des données
+
+#### Art. 43
+
+**Sécurité des publications électroniques**
+
+<sup>1</sup>
+
+Aux fins de l’art. 16*a* LPubl, on entend:
+
+- a. par *authenticité*: l’assurance qu’un texte a été publié par la ChF;
+- b. par *intégrité*: l’assurance qu’un texte n’a pas subi après sa publication de modification non autorisée ou accidentelle.
+
+<sup>2</sup>
+
+La conservation des textes publiés sur la plate-forme ainsi que leur authenticité et leur intégrité sont notamment assurées par les mesures suivantes:
+
+- a. sont conservées toutes les données relatives aux textes publiés sur la plate-forme qui sont nécessaires pour rétablir ces textes dans la version dans laquelle ils ont initialement été publiés sur la plate-forme (données clôturées); les données clôturées sont enregistrées sur plusieurs serveurs situés dans plusieurs emplacements différents et séparés du réseau public par des mesures techniques adéquates; au moins un des emplacements est situé dans un lieu protégé des catastrophes;
+- b. en cas de divergence entre les données clôturées et le texte publié sur la plate-forme, celui-ci est rétabli dans un délai de un jour dans la version dans laquelle ils ont initialement été publiés sur la plate-forme; font exception les données anonymisées conformément à l’art. 44, al. 2;
+- c. les données sont transmises de telle façon que le récepteur peut s’assurer qu’elles émanent bien de la plate-forme.
+
+<sup>3</sup> La ChF prend les mesures techniques et organisationnelles propres à assurer le bon fonctionnement de la plate-forme.
+
+#### Art. 44
+
+**Textes de la FF contenant des données sensibles**
+
+<sup>1</sup> Lorsqu’ils contiennent des données sensibles, les textes visés à l’art. 13, al. 1, let. g, et 2 LPubl sont disponibles sur la plate-forme et indexés par son moteur de recherche pendant une durée de six mois au plus. Si les circonstances le justifient, l’autorité responsable peut prolonger ce délai jusqu’à douze mois au plus.
+
+<sup>2</sup> A l’échéance du délai visé à l’al. 1, la ChF veille à ce que les textes ne soient plus accessibles ou qu’ils soient accessibles uniquement dans une version anonymisée.
+
+<sup>3</sup>
+
+Toute personne à laquelle se rapportent des données sensibles contenues dans un texte accessible en ligne peut demander à l’autorité responsable de les supprimer de la plate-forme avant l’échéance des délais visés à l’al. 1:
+
+- a si elle atteste avoir pris connaissance de la publication; et
+- b. si l’anonymisation du texte ne lèse pas les intérêts d’un tiers.
+
+#### Art. 45
+
+**Textes du RO et du RS contenant des données sensibles**
+
+Lorsqu’un texte du RO ou du RS, y compris un texte qui y est publié sous forme de renvoi conformément à l’art. 5, al. 1, LPubl, contient des données sensibles, celles-ci sont supprimées si l’autorité responsable l’ordonne.
+
+#### Art. 46
+
+**Données sensibles contenues dans les données clôturées ou les éditions imprimées**
+
+Dans les données clôturées sont conservées et la version anonymisée et la version non anonymisée d’un texte, alors que seule la version non anonymisée est conservée dans les éditions imprimées.
+
+### Section 9 Exploitation par des tiers
+
+#### Art. 47
+
+**Données utilisées pour un usage personnel**
+
+La consultation gratuite de la plate-forme prévue par l’art. 19, al. 1, LPubl comprend notamment le téléchargement des textes pour son usage personnel. Par usage personnel, on entend également le fait de citer ou de commenter ces textes dans des travaux ou publications scientifiques.
+
+#### Art. 48
+
+**Données utilisées à des fins d’exploitation**
+
+<sup>1</sup> La ChF met à disposition du public sous une forme électronique structurée les textes du RO, du RS et de la FF, y compris les versions intégrales des textes publiés par renvoi. Nul ne peut prétendre à une mise en forme particulière des données.
+
+<sup>2</sup> Le téléchargement de données à des fins d’exploitation est gratuit. La fourniture de données est soumise à émoluments.
+
+#### Art. 49
+
+**Exigences applicables à l’exploitation des données**
+
+<sup>1</sup>
+
+L’exploitation des données visées à l’art. 48 obéit aux exigences suivantes:
+
+- a. le contenu des données ne doit pas être modifié;
+- b. les données doivent être présentées de telle sorte que, visuellement, elles se distinguent clairement des commentaires ou autres adjonctions;
+- c. les données doivent être assorties de la mention suivante: «Ceci n’est pas une publication officielle. Seule la publication opérée par la Chancellerie fédérale fait foi»;
+- d. les indications données par la ChF au sujet de la qualité des données fournies doivent elles aussi être publiées;
+- e. ni la publicité, ni l’emballage, ni le support de données, ni le média électronique ne doivent donner l’impression qu’il s’agit d’une publication officielle;
+- f. les données sensibles contenues dans les textes du RO ou du RS, y compris celles qui sont contenues dans les textes qui y sont publiés par renvoi conformément à l’art. 5, al. 1, LPubl, doivent être supprimées dès que la ChF cesse de publier lesdits textes ou ne les publie plus que sous une forme anonymisée;
+- g. les données sensibles contenues dans d’autres textes que ceux visés à la let. f ne peuvent être ni exploitées, ni transmises à des tiers.
+
+<sup>2</sup> Quiconque télécharge des données conformément à l’art. 48 ne peut les transmettre ou rendre accessibles à des tiers que sous une forme valorisée s’il le fait contre rémunération.
+
+<sup>3</sup> La ChF peut refuser de fournir des données à quiconque a contrevenu aux exigences précitées.
+
+### Section 10 Consultation et remise
+
+#### Art. 50
+
+**Consultation**
+
+<sup>1</sup> Le contenu de la plate-forme peut être consulté en ligne auprès des services désignés par les cantons conformément à l’art. 18 LPubl.
+
+<sup>2</sup> Une version imprimée des textes concernés est mise à disposition sur demande par les services désignés par les cantons.
+
+<sup>3</sup> Les publications extraordinaires visées à l’art. 7, al. 4, LPubl peuvent elles aussi être consultées auprès des services désignés par les cantons.
+
+<sup>4</sup> Si la plate-forme est temporairement indisponible, la ChF communique sur demande les textes du RO ou de la FF.
+
+#### Art. 51
+
+**Emoluments**
+
+La perception des émoluments demandés en contrepartie de la fourniture de données électroniques visée à l’art. 48 et d’éditions imprimées selon les art. 35 et 36 est régie par l’ordonnance du 19 novembre 2014 sur les émoluments relatifs aux publications[^51-1].
+
+[^51-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+
+## Chapitre 6 Dispositions finales
+
+#### Art. 52
+
+**Exécution**
+
+<sup>1</sup>
+
+La ChF désigne le service chargé des publications selon la LPubl et fixe ses attributions en matière d’instructions et de coordination par rapport aux autorités responsables, notamment:
+
+- a. en vue de garantir que les textes seront publiés à temps et conformément aux exigences de qualité;
+- b. en ce qui concerne la mise en forme, la présentation et la remise des textes;
+- c. en ce qui concerne les moyens techniques à mettre en œuvre.
+
+<sup>2</sup>
+
+Elle gère les applications relatives aux publications selon la LPubl afin de garantir notamment:
+
+- a. le respect des délais de publication (art. 39 à 41);
+- b. la sécurité des publications et la protection des données (art. 43 et 46).
+
+<sup>3</sup> Elle peut adapter l’annexe à l’évolution technique.
+
+#### Art. 53
+
+**Abrogation et modification d’autres actes**
+
+<sup>1</sup> L’ordonnance du 17 novembre 2004 sur les publications officielles[^53-1] est abrogée.
+
+<sup>2</sup> ...[^53-2]
+
+[^53-1]: [[RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746), [2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741)art. 8 al. 2, [2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)annexe ch. 1, [2010 2645](https://fedlex.data.admin.ch/eli/oc/2010/351)]
+[^53-2]: La mod. peut être consultée au [RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670).
+
+#### Art. 54
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
+
+Annexe*[^t-1]*
+
+(art. 29, al. 1, 30, al. 1, et 52, al. 3)
+
+## Exigences techniques
+
+[^t-1]: Mise à jour selon le ch. II de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)) et le ch. I de l’O de la ChF du 8 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 709](https://fedlex.data.admin.ch/eli/oc/2017/134)).
+
+### 1 Format PDF
+
+Le format PDF visé à l’art. 29, al. 1, est la version A-1a.
+
+### 2 Signature électronique
+
+- 2\.1 La signature électronique selon l’art. 30 est un cachet électronique réglementé au sens de l’art. 2, let. d, de la loi du 18 mars 2016 sur la signature électronique (SCSE)[^annexu1-lvlu1-lvl2-1].
+- 2\.2 La validité du certificat doit être contrôlée lors de l’apposition du cachet.
+- 2\.3 Un horodatage électronique qualifié au sens de l’art. 2, let. j, SCSE doit être ajouté au cachet.
+- 2\.4 Les textes sont signés conformément à l’ancien droit[^annexu1-lvlu1-lvl2-2] jusqu’à ce que les exigences techniques nécessaires à l’apposition du cachet soient réalisées.
+
+[^annexu1-lvlu1-lvl2-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^annexu1-lvlu1-lvl2-2]: [RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)

@@ -1,0 +1,262 @@
+---
+sr: "832.112.5"
+title: "Ordinanza del 3 luglio 2001 sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito (ORPMUE)"
+short: ORPMUE
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
+language: it
+version: 2020-01-01
+adopted: 2001-07-03
+in_force: 2002-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20200101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20200101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia****
+
+(ORPMUE)[^t-1]
+
+del 3 luglio 2001 (Stato 1° gennaio 2020)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 66a capoverso 3 della legge federale del 18 marzo 1994[^ingress-1] sull’assicurazione malattie (legge, LAMal),
+
+ordina:
+
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 1
+
+**Scopo e campo d’applicazione**
+
+La presente ordinanza regola:
+
+- a.[^1-1] la riduzione dei premi nell’assicurazione obbligatoria delle cure medico-sanitarie per assicurati di modeste condizioni economiche residenti in uno Stato membro dell’Unione europea**[^1-2]**, in Islanda o in Norvegia e beneficiari di una rendita svizzera nonché per i loro familiari assicurati;
+- b. il versamento dei sussidi federali previsti per il finanziamento della riduzione dei premi giusta la lettera a.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^1-2]: Nuova espr. giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 2
+
+**Organo esecutivo**
+
+L’Istituzione comune applica la riduzione dei premi ai sensi dell’articolo 1 lettera a.
+
+#### Art. 3
+
+**Diritto ed importo delle riduzioni dei premi**
+
+<sup>1</sup> Hanno diritto a una riduzione dei premi gli assicurati beneficiari di rendite ed i loro familiari assicurati, se i premi medi giusta l’articolo 7 eccedono il 6 per cento del reddito determinante secondo l’articolo 6.
+
+<sup>2</sup> Quale riduzione dei premi è versato l’ammontare della differenza tra i premi medi e il 6 per cento del reddito determinante, ma al massimo il premio effettivamente dovuto dal beneficiario della rendita.[^3-1]
+
+<sup>3</sup> Non hanno diritto alla riduzione dei premi i beneficiari di rendite la cui sostanza netta supera 100 000 franchi, rispettivamente 150 000 franchi in caso di famiglie con figli. I versamenti di capitale delle casse pensioni e di altri istituti di previdenza vanno dedotti dalla sostanza computabile e addizionati al reddito conformemente all’articolo 4 capoverso 2. Nel caso delle famiglie si prende in considerazione la totalità delle sostanze nette dei membri che rientrano nel campo di applicazione della presente ordinanza.[^3-2]
+
+<sup>4</sup> Per la sostanza netta, la situazione familiare e lo Stato di residenza è determinante la situazione al 1° gennaio dell’anno per il quale è stata chiesta la riduzione dei premi. Se la richiesta è inoltrata ad anno iniziato, sono determinanti la sostanza netta, la situazione familiare e lo Stato di residenza alla nascita del diritto alla riduzione dei premi.
+
+<sup>5</sup> Per il reddito computabile ai sensi dell’articolo 4 sono determinanti le entrate che saranno presumibilmente ottenute nell’anno per cui si chiede la riduzione dei premi.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+
+#### Art. 4
+
+**Reddito computabile**
+
+<sup>1</sup>
+
+Sono considerate reddito computabile le seguenti entrate:
+
+- a.[^4-1] la totalità dei redditi conseguiti sotto forma di rendite;
+- b. i contributi di mantenimento;
+- c. i redditi patrimoniali a favore dei beneficiari di rendite;
+- d.[^4-2]
+
+  i redditi del lavoro dopo aver dedotto:
+
+  - 1\. gli interessi sul debito a eccezione degli interessi ipotecari,
+  - 2\. i contributi di mantenimento dovuti.
+
+<sup>2</sup> Se invece di una rendita, è versata una liquidazione in capitale della previdenza professionale, l’importo della rendita corrispondente a tale liquidazione deve essere conteggiato come reddito conseguito sotto forma di rendita. Questa rendita è calcolata in percentuale alla liquidazione in capitale, tenendo presente che è determinante l’importo del capitale lordo. Le percentuali sono calcolate in funzione dell’età dell’assicurato al momento dell’attribuzione del capitale e del tasso di conversione applicabile conformemente all’articolo 14 capoverso 2 della legge federale del 25 giugno 1982[^4-3] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità secondo la formula definita nell’allegato. I redditi prodotti dalla liquidazione in capitale non sono conteggiati quali redditi patrimoniali secondo il capoverso 1 lettera c. La liquidazione in capitale viene computata soltanto nella misura in cui è ancora presente sotto forma di sostanza.[^4-4]
+
+<sup>3</sup> Il reddito computabile delle famiglie è calcolato sulla base delle entrate di tutti i membri inclusi nel campo d’applicazione della presente ordinanza.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^4-2]: Introdotta dal n. I dell’O del 9 nov. 2005 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)). Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^4-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^4-4]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 5
+
+**Corsi di conversione**[^5-1]
+
+La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabile ai sensi dell’articolo 4 vengono convertiti in franchi svizzeri secondo il corso di conversione dell’Amministrazione federale delle dogane valido al momento della richiesta.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 6
+
+**Reddito determinante**
+
+<sup>1</sup> Il reddito determinante si ottiene convertendo il reddito computabile giusta l’articolo 4 secondo il potere d’acquisto nel Paese di residenza del beneficiario in funzione della differenza tra potere d’acquisto in Svizzera e potere d’acquisto nel Paese di residenza.
+
+<sup>2</sup> Il Dipartimento federale dell’interno (Dipartimento) fissa ogni anno il fattore di conversione per ciascuno degli Stati membri dell’Unione europea nonché per l’Islanda e la Norvegia basandosi sulle statistiche fornite da organizzazioni internazionali.[^6-1]
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+#### Art. 7
+
+**Premi medi**[^7-1]
+
+Al fine di stabilire il diritto a una riduzione dei premi, sono determinanti i premi medi dell’assicurazione obbligatoria delle cure medico-sanitarie fissati ogni anno dal Dipartimento per ogni Stato membro dell’Unione europea, per l’Islanda e la Norvegia applicabili ai beneficiari di rendite ed i loro familiari assicurati.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+#### Art. 8
+
+**Richiesta**
+
+<sup>1</sup> Le richieste di riduzione dei premi vanno inoltrate all’Istituzione comune utilizzando l’apposito modulo da essa elaborato.
+
+<sup>2</sup> Tale modulo va richiesto presso l’Istituzione comune o presso le rappresentanze estere competenti.
+
+#### Art. 9
+
+**Inizio e rinnovo del diritto**[^9-1]
+
+<sup>1</sup> Le richieste di riduzione di premi possono essere presentate soltanto per l’anno in corso e retroattivamente per tre mesi al massimo. Quale data della richiesta fa stato quella del timbro postale apposto sul modulo.
+
+<sup>2</sup> L’Istituzione comune comunica tempestivamente ogni anno ai beneficiari di riduzione dei premi che le richieste devono essere rinnovate entro il 31 marzo. Per l’inoltro della richiesta di rinnovo fa stato la data del timbro postale. In caso di inoltro tardivo il diritto inizia alla data del timbro postale apposto sulla richiesta di rinnovo.
+
+<sup>3</sup> L’Istituzione comune calcola l’importo della riduzione dei premi e lo comunica all’assicuratore e all’assicurato.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 10
+
+**Obblighi di collaborazione e d’informazione**
+
+<sup>1</sup> I beneficiari di rendite che fanno valere il diritto a una riduzione dei premi devono fornire all’Istituzione comune le necessarie informazioni conformi a verità e produrre i documenti giustificativi richiesti.
+
+<sup>2</sup> Essi informano immediatamente l’Istituzione comune su ogni mutamento della situazione familiare, su ogni cambiamento di Paese di residenza e su ogni modifica duratura delle condizioni economiche.
+
+<sup>3</sup> Se del caso, autorizzano le autorità e le istituzioni competenti a fornire informazioni all’Istituzione comune.
+
+#### Art. 11
+
+**Esame delle richieste**
+
+<sup>1</sup> L’Istituzione comune esamina le richieste inoltrate e si pronuncia sul diritto a una riduzione dei premi.
+
+<sup>2</sup> Se necessario, può chiedere ulteriori informazioni al beneficiario o alle autorità e istituzioni competenti e decidere ulteriori accertamenti.
+
+#### Art. 12
+
+**Nuovo esame delle richieste**
+
+Se durante l’anno la situazione familiare o il Paese di residenza del beneficiario di una rendita sono cambiati o le sue condizioni economiche hanno subìto modifiche durature, l’Istituzione comune procede a un nuovo esame del diritto a una riduzione dei premi.
+
+#### Art. 13
+
+**Estinzione del diritto a una riduzione dei premi**[^13-1]
+
+Il diritto a una riduzione dei premi si estingue il giorno in cui non ne sono più soddisfatte le condizioni. L’Istituzione comune calcola l’importo della riduzione dei premi fino a quel giorno e lo comunica all’assicuratore e all’assicurato.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 14
+
+**Versamento delle riduzioni dei premi**
+
+<sup>1</sup> L’Istituzione comune versa all’assicuratore l’importo annuo delle riduzioni dei premi per ogni beneficiario.
+
+<sup>2</sup> Gli articoli 106*b*–106*e* dell’ordinanza del 27 giugno 1995[^14-1] sull’assicurazione malattie si applicano per analogia al versamento delle riduzioni dei premi.[^14-2]
+
+<sup>3</sup> Non vengono versati importi inferiori a 50 franchi per famiglia e per anno civile.
+
+<sup>4</sup> ...[^14-3]
+
+[^14-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^14-2]: Nuovo testo giusta il n. II 2 dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^14-3]: Abrogato dal n. II 2 dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+
+#### Art. 15
+
+**Restituzione**[^15-1]
+
+In caso di estinzione del diritto a una riduzione dei premi, l’assicuratore chiede all’assicurato la differenza del premio. L’assicuratore rimborsa all’Istituzione comune la riduzione dei premi indebitamente ricevuta dall’assicurato.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 16
+
+**Versamento dei sussidi federali**
+
+<sup>1</sup> Su richiesta dell’Istituzione comune i sussidi federali necessari per la riduzione dei premi vengono versati dall’UFSP[^16-1] entro i limiti dei crediti stanziati.
+
+<sup>2</sup> I sussidi federali non utilizzati durante l’anno in corso vanno detratti da quelli previsti per l’anno successivo.
+
+[^16-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+
+#### Art. 17
+
+**Conteggio e controllo dell’impiego dei sussidi federali**
+
+<sup>1</sup> Gli articoli 5 capoversi 1 e 2 e 6 dell’ordinanza del 7 novembre 2007[^17-1] concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie (ORPM) si applicano per analogia al conteggio e al controllo dell’impiego dei sussidi federali.[^17-2]
+
+<sup>2</sup> L’apposito modulo va compilato distinguendo i dati dei singoli Stati membri dell’Unione europea, dell’Islanda e della Norvegia e dei singoli assicuratori.[^17-3]
+
+[^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
+[^17-2]: Nuovo testo giusta l’art. 9 cpv. 2 dell’O del 7 nov. 2007 concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie, in vigore dal 1° gen. 2008 ([RU 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
+[^17-3]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+#### Art. 18
+
+**Esecuzione**
+
+Il Dipartimento ha la facoltà di emanare disposizioni più dettagliate in merito all’esecuzione della presente ordinanza.
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogato dal n. IV 53 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 20
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° giugno 2002.
+
+## Disposizione finale della modifica del 9 novembre 2005****
+
+[^u1-1]
+
+[^u1-1]: [RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819). Abrogato dal n. I dell’O del 20 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+...
+
+Allegato*[^t-2]*
+
+(art. 4 cpv. 2)
+
+## Formula per il calcolo della percentuale della liquidazione in capitale
+
+[^t-2]: Introdotto dal n. II dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+v = u \* r(a) / r(p)
+
+- v = percentuale della liquidazione in capitale
+- a = età dell’assicurato al momento dell’attribuzione del capitale
+- p = età ordinaria che dà diritto alla rendita di vecchiaia secondo l’articolo 21 della legge federale del 20 dicembre 1946[^annexu1-lvlu1-1] sull’assicurazione per la vecchiaia e per i superstiti
+- u = aliquota minima di conversione secondo l’articolo 14 capoverso 2 della legge federale del 25 giugno 1982[^annexu1-lvlu1-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità
+- r = rendita annua secondo l’età di pensionamento in base alla «Tabella per la conversione di prestazioni in capitale in rendite vitalizie» del febbraio 2016 dell’Amministrazione federale delle contribuzioni[^annexu1-lvlu1-3]
+
+[^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu1-3]: Il documento può essere consultato all’indirizzo www.ufsp.admin.ch/rif.

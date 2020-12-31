@@ -1,0 +1,979 @@
+---
+sr: "817.023.11"
+title: "Ordonnance du DFI du 15 août 2012 sur la sécurité des jouets (Ordonnance sur les jouets, OSJo)"
+short: OSJo
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
+language: fr
+version: 2019-12-01
+adopted: 2012-08-15
+in_force: 2012-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20191201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DFI sur la sécurité des jouets
+
+(Ordonnance sur les jouets, OSJo)
+
+du 15 août 2012 (Etat le 1<sup>er</sup> décembre 2019)
+
+Le Département fédéral de l’intérieur (DFI),
+
+vu les art. 47, al. 5, 66, al. 4, 92 et 95, al. 3, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^ingress-1],[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> La présente ordonnance s’applique aux jouets au sens de l’art. 65 ODAlOUs.[^1-1]
+
+<sup>2</sup> Ne sont pas réputés jouets les objets usuels énumérés à l’annexe 1, ch. I.
+
+<sup>3</sup>
+
+La présente ordonnance ne s’applique pas:
+
+- a. aux jouets énumérés à l’annexe 1, ch. II;
+- b. aux jouets d’occasion au sens de l’art. 1, al. 4, de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^1-2];
+- c. aux jouets distribués à l’échelle locale, dans le cadre limité d’un bazar, d’une fête scolaire ou d’une autre situation analogue.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^1-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 1<sup>bis</sup>
+
+**Définitions**[^1bis-1]
+
+<sup>1</sup>
+
+Dans la présente ordonnance, on entend par:
+
+- a. *fabricant*: toute personne physique ou morale qui fabrique, conçoit ou fait fabriquer un jouet, et le commercialise sous son propre nom ou sa propre marque;
+- b. *mandataire*: toute personne physique ou morale ayant reçu mandat écrit d’un fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+- c. *importateur*: toute personne physique ou morale qui met un jouet provenant de l’étranger sur le marché;
+- d. *distributeur*: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un jouet sur le marché;
+- e. *danger*: une source potentielle d’effet dommageable;
+- f. *dangereux:* quelque chose qui représente un danger;
+- g. *risque*: un taux probable de fréquence d’un danger causant un effet dommageable et le degré de gravité de ce dernier.
+
+<sup>2</sup> Pour l’interprétation correcte des expressions figurant dans la directive 2009/48/CE[^1bis-2], à laquelle renvoie la présente ordonnance, les équivalents ci-après s’appliquent:
+
+<table>
+<tr><td>Expression dans la directive 2009/48/CE</td><td>Expression dans la présente ordonnance</td></tr>
+<tr><td>a. Expressions allemandes:</td><td></td></tr>
+<tr><td>Bereitstellung auf dem Markt / auf dem Markt bereitstellen</td><td>*Inverkehrbringen / in Verkehr bringen*</td></tr>
+<tr><td>*Inverkehrbringen*</td><td>*Erstmaliges Inverkehrbringen / erstmalig in Verkehr bringen*</td></tr>
+<tr><td>*Einführer*</td><td>*Importeur*</td></tr>
+<tr><td>*Gemisch*</td><td>*Zubereitung*</td></tr>
+<tr><td>b. Expressions françaises:</td><td></td></tr>
+<tr><td>*mise à dispostion sur le marché*</td><td>*mise sur le marché*</td></tr>
+<tr><td>*mise sur le marché*</td><td>*première mise sur le marché*</td></tr>
+<tr><td>*mélange*</td><td>*préparation*</td></tr>
+<tr><td>c. Expressions italiennes:</td><td></td></tr>
+<tr><td>*messa a disposizione sul mercato*</td><td>*immissione in commercio*</td></tr>
+<tr><td>*immissione sul mercato*</td><td>*prima immissione in commercio*</td></tr>
+<tr><td>*miscela*</td><td>*preparato*</td></tr>
+</table>
+
+[^1bis-1]: Introduit par le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^1bis-2]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1 ; modifiée en dernier lieu par la directive 2015/2017/UE, JO L 306 du 24.11.2015, p. 23.
+
+#### Art. 2
+
+**Importateurs ou distributeurs en qualité de fabricants**
+
+Un importateur ou un distributeur est considéré comme un fabricant aux fins de la présente ordonnance et soumis aux obligations incombant à celui-ci, lorsqu’il:
+
+- a. met un jouet sur le marché pour la première fois sous son propre nom ou sa propre marque, ou
+- b. modifie un jouet déjà mis sur le marché de telle sorte que sa conformité avec les exigences applicables risque d’en être affectée.
+
+## Chapitre 2 Exigences de sécurité auxquelles doivent satisfaire les jouets
+
+#### Art. 3
+
+<sup>1</sup>
+
+Les jouets doivent satisfaire aux exigences de sécurité suivantes (ci-après «exigences de sécurité»):
+
+- a.[^3-1] aux exigences de sécurité générales visées à l’art. 66, al. 1 à 3, ODAlOUs, et
+- b. aux exigences de sécurité particulières visées à l’annexe 2.
+
+<sup>2</sup> Les jouets placés sur le marché sont conformes aux exigences de sécurité pendant leur durée d’utilisation prévisible et normale.
+
+<sup>3</sup> Lorsqu’il met ses jouets sur le marché pour la première fois, le fabricant s’assure que ceux-ci ont été conçus et fabriqués conformément aux exigences de sécurité.
+
+<sup>4</sup>
+
+Lorsqu’un importateur ou un distributeur a des raisons de croire qu’un jouet n’est pas conforme aux exigences de sécurité, il ne met pas ledit jouet sur le marché tant que celui-ci ne satisfait pas à ces exigences. En outre, dans le cas où le jouet présente un risque:
+
+- a. l’importateur en informe le fabricant et les autorités d’exécution;
+- b. le distributeur en informe le fabricant ou l’importateur ainsi que les autorités d’exécution.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+## Chapitre 3 Jouets présentés lors de salons professionnels et d’expositions
+
+#### Art. 4
+
+Les jouets qui ne satisfont pas aux dispositions de la présente ordonnance peuvent être exposés et utilisés dans des salons professionnels et des expositions à condition qu’ils soient accompagnés d’une indication signalant clairement qu’ils ne satisfont pas aux dispositions de la présente ordonnance et qu’ils ne seront pas mis sur le marché avant d’avoir été mis en conformité avec celles-ci.
+
+## Chapitre 4 Marquage
+
+#### Art. 5
+
+**Avertissements et notice d’emploi**
+
+<sup>1</sup> Pour assurer une utilisation des jouets en toute sécurité, les avertissements spécifient les limites appropriées, conformément à la partie A de l’annexe 3.
+
+<sup>2</sup> Les catégories de jouets énumérées dans la partie B de l’annexe 3 doivent être assorties des avertissements figurant également dans cette partie de l’annexe. Les avertissements visés aux ch. 2 à 10 de la partie B de l’annexe 3 sont utilisés tels quels.
+
+<sup>3</sup>
+
+Les avertissements contiennent des informations exactes et figurent de manière clairement visible, facilement lisible et aisément compréhensible:
+
+- a. sur le jouet, sur une étiquette apposée ou sur l’emballage, et
+- b. si cela s’avère indispensable pour l’utilisation, dans la notice d’emploi qui accompagne le jouet.
+
+<sup>4</sup> S’agissant des petits jouets vendus sans emballage les avertissements appropriés doivent être placés si possible directement sur les jouets.
+
+<sup>5</sup> Les avertissements déterminants pour la décision d’achat du jouet figurent sur l’emballage de vente ou sont clairement visibles pour le consommateur avant l’achat. Ces conditions s’appliquent aussi lorsque l’achat est effectué en ligne.
+
+<sup>6</sup> Le jouet ne peut être muni des avertissements figurant à la partie B de l’annexe 3 qui sont en contradiction avec l’utilisation à laquelle le jouet est destiné de par ses fonctions, ses dimensions ou ses caractéristiques.
+
+<sup>7</sup> …[^5-1]
+
+<sup>8</sup> Le fabricant et l’importateur veillent à ce que le jouet soit accompagné des avertissements et de la notice d’emploi avant sa première mise sur le marché.
+
+<sup>9</sup> Le distributeur s’assure que le jouet est accompagné des avertissements et de la notice d’emploi avant de le mettre sur le marché.
+
+[^5-1]: Abrogé par le ch. I de l’O du DFI du 16 déc. 2016, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 6
+
+**Marque d’identification**
+
+<sup>1</sup> Les jouets doivent porter une marque (p. ex. numéro de type, de lot, de série ou de modèle) permettant leur identification. Lorsque la taille ou la nature du jouet ne le permet pas, les informations requises figurent sur l’emballage ou dans un document accompagnant le jouet.
+
+<sup>2</sup> Le fabricant appose la marque d’identification.
+
+<sup>3</sup> L’importateur veille à ce que le jouet soit muni de la marque d’identification avant sa première mise sur le marché.
+
+<sup>4</sup> Le distributeur s’assure que le jouet est muni de la marque d’identification avant de le mettre sur le marché.
+
+#### Art. 7
+
+**Indication du nom et de l’adresse**
+
+<sup>1</sup> Le fabricant indique sur le jouet son nom et son adresse ou un endroit principal où il peut être contacté ou, lorsque cela n’est pas possible, sur l’emballage ou dans un document accompagnant le jouet.
+
+<sup>2</sup> L’importateur indique son nom et son adresse sur le jouet ou, lorsque cela n’est pas possible, sur l’emballage ou dans un document accompagnant le jouet. Les accords internationaux qui prévoient des facilités demeurent réservés.
+
+<sup>3</sup> L’importateur veille à ce que les données du fabricant soient mentionnées avant la première mise sur le marché du jouet.
+
+<sup>4</sup> Le distributeur s’assure que les données du fabricant et de l’importateur sont mentionnées avant la mise sur le marché du jouet.
+
+## Chapitre 5 Conformité
+
+#### Art. 8
+
+**Présomption de conformité**
+
+Les jouets conformes aux normes techniques figurant dans l’annexe 4 sont présumés satisfaire aux exigences de sécurité pour autant que ces dernières soient couvertes par lesdites normes.
+
+#### Art. 9
+
+**Évaluation de la sécurité**
+
+<sup>1</sup> Le fabricant procède à une évaluation de la sécurité avant la première mise sur le marché du jouet.
+
+<sup>2</sup>
+
+L’évaluation de la sécurité comprend:
+
+- a. une analyse des dangers de nature chimique, physique, mécanique, électrique, des risques d’inflammabilité, de radioactivité et en matière d’hygiène que le jouet peut présenter;
+- b. une évaluation de l’exposition potentielle de l’utilisateur ou de tiers à ces dangers.
+
+#### Art. 10
+
+**Documentation technique**
+
+<sup>1</sup> Le fabricant établit une documentation technique relative au jouet. Il la conserve pendant une durée de dix ans à partir de la première mise sur le marché du jouet. En cas de fabrication en série, le délai court à partir de la mise sur le marché du dernier exemplaire.
+
+<sup>2</sup> La documentation technique contient l’ensemble des données quant aux moyens utilisés par le fabricant pour garantir que les jouets satisfont aux exigences de sécurité. Elle contient notamment les documents énumérés à l’annexe 5.
+
+<sup>3</sup> Sur demande de l’autorité d’exécution, le fabricant fournit, dans les trente jours, une traduction des parties pertinentes de la documentation technique dans une langue officielle de Suisse ou en anglais. L’autorité d’exécution peut fixer un délai plus court en raison d’un risque sérieux et immédiat.
+
+<sup>4</sup> Si le fabricant ne respecte pas les obligations prévues aux al. 2 et 3, l’autorité d’exécution peut exiger dudit fabricant qu’un test soit effectué par un organisme d’évaluation de la conformité, aux frais dudit fabricant, dans un délai précis, afin de vérifier le respect des normes techniques et des exigences de sécurité.
+
+<sup>5</sup> L’importateur s’assure que le fabricant a établi la documentation technique relative au produit avant la première mise sur le marché du jouet.
+
+<sup>6</sup> Pendant une durée de dix ans à partir de la mise sur le marché du jouet, il s’assure que la documentation technique peut être fournie à l’autorité d’exécution, sur demande. En cas de fabrication en série, le délai court à partir de la mise sur le marché du dernier exemplaire du jouet.
+
+#### Art. 11
+
+**Procédure d’évaluation de la conformité**
+
+<sup>1</sup>
+
+Avant d’être mis sur le marché pour la première fois, le jouet doit faire l’objet de l’une des évaluations de la conformité ci-après afin de démontrer qu’il satisfait aux exigences de sécurité:
+
+- a. la procédure de contrôle interne de fabrication présentée dans le module A de l’annexe II de la décision n<sup>o</sup> 768/2008/CE[^11-1], lorsque des normes techniques figurant dans l’annexe 4 sont applicables et couvrent toutes les exigences de sécurité;
+- b.
+
+  l’examen de type visé à l’art. 12, combiné à la procédure «Conformité au type» présentée dans le module C de l’annexe II de la décision n<sup>o</sup> 768/2008/CE, lorsque:
+
+  - 1\. des normes techniques selon l’annexe 4 couvrant toutes les exigences de sécurité requises pour le jouet n’existent pas;
+  - 2\. les normes techniques visées à l’annexe 4 existent, mais que le fabricant ne les a pas appliquées ou seulement en partie;
+  - 3\. des normes techniques visées à l’annexe 4 ont été publiées assorties d’une restriction, ou que
+  - 4\. le fabricant estime que la nature, la conception, la construction ou la destination du jouet nécessitent une vérification par un tiers.
+
+<sup>2</sup> Le fabricant effectue la procédure d’évaluation de la conformité ou la fait effectuer par un organisme d’évaluation de la conformité.
+
+<sup>3</sup> L’importateur veille à ce que la procédure d’évaluation de la conformité a été menée à bien avant la première mise sur le marché du jouet.
+
+[^11-1]: D n<sup>o</sup> 768/2008/CE du Parlement européen et du Conseil du 9 juil. 2008 relative à un cadre commun pour la commercialisation des produits et abrogeant la D 93/465/CEE du Conseil; dans la version du JO L 218 du 13.8.2008, p. 82.
+
+#### Art. 12
+
+**Examen de type**
+
+<sup>1</sup> Le fabricant dépose une demande d’examen de type selon la procédure figurant dans le module B, ch. 3, à l’annexe II de la décision n<sup>o</sup> 768/2008/CE[^12-1]. La demande comprend en outre une description du jouet et l’adresse du lieu de fabrication.
+
+<sup>2</sup> L’examen de type est effectué de la manière décrite au module B, ch. 2, second tiret, à l’annexe II de la décision n<sup>o</sup> 768/2008/CE.
+
+<sup>3</sup> L’organisme d’évaluation de la conformité effectue l’examen de type. Si nécessaire, notamment en fonction de la complexité du jouet, il analyse, conjointement avec le fabricant, l’évaluation de la sécurité effectuée par ce dernier conformément à l’art. 9.
+
+<sup>4</sup> La documentation technique et la correspondance se rapportant aux procédures de l’examen de type sont rédigées dans une langue officielle de Suisse ou dans une langue acceptée par l’organisme d’évaluation de la conformité.
+
+[^12-1]: Cf. note de bas de page concernant l’art. 11, al. 1, let. a.
+
+#### Art. 13
+
+**Attestation d’examen de type**
+
+<sup>1</sup>
+
+L’organisme d’évaluation de la conformité émet l’attestation d’examen de type selon la procédure figurant dans le module B, ch. 6, à l’annexe II de la décision n<sup>o</sup> 768/2008/CE[^13-1]. L’attestation comprend, en outre:
+
+- a.[^13-2] une référence à la présente ordonnance ou à la directive n° 2009/48/CE[^13-3];
+- b. une photo en couleur et une description du jouet, notamment de ses dimensions, et
+- c. une liste des essais effectués, accompagnée d’une référence au rapport.
+
+<sup>2</sup>
+
+Le fabricant passe en revue l’attestation d’examen de type:
+
+- a. si nécessaire, notamment en cas de modification du processus de fabrication, des matières premières ou des composants du jouet;
+- b. en tout état de cause, tous les cinq ans.
+
+<sup>3</sup> Si le jouet ne satisfait plus aux exigences de sécurité, l’attestation de type est retirée.
+
+[^13-1]: Cf. note de bas de page concernant l’art. 11, al. 1, let. a.
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^13-3]: Cf. note de bas de page relative à l’art. 1<sup>bis</sup>, al. 2
+
+#### Art. 14
+
+**Déclaration de conformité**
+
+<sup>1</sup> Lorsque la procédure d’évaluation a démontré que le jouet respecte les exigences de sécurité, le fabricant établit une déclaration de conformité.
+
+<sup>2</sup> En établissant la déclaration de conformité, le fabricant assume la responsabilité de la conformité du jouet aux dispositions de la présente ordonnance.
+
+<sup>3</sup> La déclaration de conformité contient au minimum les éléments précisés à l’annexe 6 ainsi que ceux précisés dans les modules pertinents de l’annexe II de la décision n<sup>o</sup> 768/2008/CE[^14-1].
+
+<sup>4</sup> Elle doit être rédigée dans une langue officielle de Suisse ou en anglais.
+
+<sup>5</sup> Le fabricant la met à jour en permanence.
+
+<sup>6</sup> Il conserve la déclaration de conformité pendant une durée de dix ans à partir de la première mise sur le marché du jouet. En cas de fabrication en série, le délai court à partir de la mise sur le marché du dernier exemplaire.
+
+<sup>7</sup> Pendant une durée de dix ans à partir de la première mise sur le marché du jouet, l’importateur tient une copie de la déclaration de conformité à la disposition des autorités d’exécution.
+
+[^14-1]: Cf. note de bas de page concernant l’art. 11, al. 1, let. a.
+
+#### Art. 15
+
+**Fabrication en série**
+
+<sup>1</sup> Le fabricant met en place des procédures garantissant que la fabrication en série reste également conforme aux dispositions de la présente ordonnance.
+
+<sup>2</sup> Il tient compte des modifications de la conception ou des caractéristiques du jouet ainsi que des modifications des normes techniques auxquelles il renvoie dans la déclaration de conformité.
+
+#### Art. 16
+
+**Stockage et transport**
+
+L’importateur et le distributeur s’assurent que les conditions de stockage et de transport ne compromettent pas la conformité du jouet aux exigences de sécurité.
+
+## Chapitre 6 Organismes d’évaluation de la conformité
+
+#### Art. 17
+
+<sup>1</sup>
+
+Les organismes d’évaluation de la conformité doivent:
+
+- a. être accrédités conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^17-1];
+- b. être reconnus par la Suisse dans le cadre d’un accord international, ou
+- c. être habilités à un autre titre par le droit fédéral.
+
+<sup>2</sup> Quiconque se fonde sur des documents émanant d’un organisme ne répondant pas aux critères de l’al. 1 doit prouver que les qualifications dudit organisme et les procédures d’évaluation qu’il applique satisfont aux exigences conformément à l’art. 18, al. 2, de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^17-2].
+
+<sup>3</sup> Les organismes d’évaluation de la conformité se transmettent les informations suivantes sur les résultats des évaluations de la conformité de jouets:
+
+a. spontanément, les informations relatives aux résultats négatifs;
+
+b. sur demande, les informations relatives aux résultats positifs.
+
+[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Chapitre 7 Mandataires
+
+#### Art. 18
+
+<sup>1</sup> Un fabricant peut désigner, par mandat écrit, un mandataire.
+
+<sup>2</sup>
+
+Le mandataire exécute les tâches spécifiées dans le mandat reçu du fabricant. Le mandat autorise le mandataire, au minimum:
+
+- a. à tenir la déclaration de conformité et la documentation technique à la disposition de l’autorité d’exécution pendant une durée de dix ans à partir de la première mise sur le marché du jouet. En cas de fabrication en série, le délai court à partir de la mise sur le marché du dernier exemplaire;
+- b. à la demande d’une autorité d’exécution, à lui communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité d’un jouet;
+- c. à coopérer avec l’autorité d’exécution, à la demande de cette dernière, à toute mesure prise pour éliminer les risques présentés par les jouets couverts par le mandat.
+
+<sup>3</sup>
+
+Dans tous les cas, il incombe au fabricant de vérifier que:
+
+- a. le jouet satisfait aux exigences de sécurité, et que
+- b. la documentation technique est établie selon l’art. 10.
+
+## Chapitre 8 Autocontrôle
+
+#### Art. 19
+
+**Surveillance du produit**
+
+<sup>1</sup> Les fabricants, les importateurs et les distributeurs qui ont des raisons de croire qu’un jouet qu’ils ont mis sur le marché n’est pas conforme à la présente ordonnance, prennent immédiatement les mesures correctives nécessaires pour le mettre en conformité avec les dispositions de la présente ordonnance et, au besoin, le retirent du marché ou le rappellent.
+
+<sup>2</sup> En outre, au cas où le jouet présente un risque, les fabricants, les importateurs et les distributeurs en informent immédiatement l’autorité d’exécution compétente, en fournissant des précisions, notamment sur les dispositions auxquelles le jouet ne satisfait pas et sur toute mesure corrective adoptée.
+
+#### Art. 20
+
+**Essais par sondage et examens**
+
+Lorsque cela est jugé approprié eu égard aux risques présentés par un jouet et nécessaire pour protéger la santé et assurer la sécurité des consommateurs, le fabricant et l’importateur:
+
+- a. effectuent des essais par sondage sur les jouets commercialisés et enquêtent sur les réclamations;
+- b. tiennent un registre des réclamations, des jouets non conformes et rappelés, et
+- c. informent les distributeurs de ce suivi.
+
+#### Art. 21
+
+**Traçabilité**
+
+<sup>1</sup> L’importateur et le distributeur communiquent aux autorités d’exécution, sur demande, les coordonnées de ceux qui leur fournissent des jouets.
+
+<sup>2</sup> Le fabricant et l’importateur communiquent aux autorités d’exécution, sur demande, les coordonnées de ceux à qui ils fournissent les jouets.
+
+<sup>3</sup> Le fabricant, l’importateur et le distributeur doivent être en mesure de fournir aux autorités d’exécution les informations pendant une durée de dix ans. Ce délai débute à partir de la date de la première mise sur le marché du jouet dans le cas du fabricant, et à partir de la date à laquelle le jouet leur a été fourni, dans le cas de l’importateur et du distributeur.
+
+## Chapitre 9 Collaboration avec l’autorité d’exécution
+
+#### Art. 22
+
+Le fabricant, le mandataire, l’importateur ou le distributeur:
+
+- a. communiquent à l’autorité d’exécution, à la demande de cette dernière, toutes les informations et tous les documents nécessaires, dans une langue officielle de Suisse ou en anglais, pour démontrer que le jouet satisfait aux dispositions de la présente ordonnance;
+- b. coopèrent, à la demande de ladite autorité, à toute mesure prise pour éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+
+## Chapitre 10**** Actualisation des annexes
+
+[^sec10-1]
+
+[^sec10-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 23
+
+<sup>1</sup>
+
+L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) actualise les annexes de la présente ordonnance comme suit:
+
+- a. les annexes 1 à 3, 5 et 6 à la version actualisée de la directive 2009/48/CE[^23-1];
+- b. l’annexe 4 aux normes internationales harmonisées.
+
+<sup>2</sup> Il peut édicter des dispositions transitoires.
+
+[^23-1]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L170 du 30.6.2009, p. 1.
+
+## Chapitre 11 Dispositions finales
+
+#### Art. 24
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 27 mars 2002 sur la sécurité des jouets[^24-1] est abrogée.
+
+[^24-1]: [[RO 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173), [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)ch. II 4 [6585](https://fedlex.data.admin.ch/eli/oc/2005/815), [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783), [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649), [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449), [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
+
+#### Art. 25
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les jouets qui ne sont pas conformes aux exigences de la présente ordonnance peuvent encore être remis au consommateur selon l’ancien droit, jusqu’à épuisement des stocks.
+
+<sup>2</sup> Les jouets qui ne satisfont pas aux exigences concernant les propriétés chimiques selon l’annexe 2, ch. 3, peuvent encore être fabriqués, étiquetés et importés selon l’ancien droit jusqu’au 20 juillet 2013. Ils peuvent encore être remis au consommateur selon l’ancien droit, jusqu’à épuisement des stocks.
+
+#### Art. 25a
+
+**Dispositions transitoires relatives à la modification du 25 novembre 2013**[^25a-1]
+
+<sup>1</sup> Les jouets qui ne sont pas conformes à la modification du 25 novembre 2013 de la présente ordonnance, peuvent encore être fabriqués, importés et étiquetés selon l’ancien droit jusqu’au 31 décembre 2015.
+
+<sup>2</sup> Ils peuvent encore être remis au consommateur selon l’ancien droit jusqu’à épuisement des stocks.
+
+[^25a-1]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)).
+
+#### Art. 25b
+
+**Dispositions transitoires de la modification du 14 septembre 2015**[^25b-1]
+
+<sup>1</sup> Les jouets qui ne sont pas conformes à la modification du 14 septembre 2015 peuvent encore être fabriqués, importés, étiquetés ou promus selon l’ancien droit jusqu’au 30 septembre 2016.
+
+<sup>2</sup> Ils peuvent encore être remis au consommateur jusqu’à épuisement des stocks.
+
+[^25b-1]: Introduit par le ch. I de l’O de l’OSAV du 14 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)).
+
+#### Art. 25c
+
+**Disposition transitoire de la modification du 16 décembre 2016**[^25c-1]
+
+Les jouets qui ne sont pas conformes à la modification du 16 décembre 2016 de la présente ordonnance peuvent encore être fabriqués, importés et étiquetés selon l’ancien droit jusqu’au 30 avril 2018. Ils peuvent encore être remis au consommateur jusqu’à épuisement des stocks.
+
+[^25c-1]: Introduit par le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 25d
+
+**Disposition transitoire de la modification du 12 mars 2018**[^25d-1]
+
+Les jouets qui ne sont pas conformes à la modification du 12 mars 2018 peuvent encore être importés et fabriqués selon l’ancien droit jusqu’au 30 avril 2019. Ils peuvent être remis au consommateur jusqu’à épuisement des stocks.
+
+[^25d-1]: Introduit par le ch. I de l’O de l’OSAV du 12 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)).
+
+#### Art. 25e
+
+**Dispositions transitoires relatives à la modification du 23 octobre 2019**[^25e-1]
+
+<sup>1</sup> Les jouets qui ne sont pas conformes aux exigences de l’annexe 2, ch. 3 (ch. 7, 11, let. a, et 12), de la modification du 23 octobre 2019 peuvent encore être importés, fabriqués, étiquetés et remis aux consommateurs selon l’ancien droit jusqu’au 31 mai 2020.
+
+<sup>2</sup> Les jouets qui ne sont pas conformes aux autres dispositions de la modification du 23 octobre 2019 peuvent encore être importés, fabriqués et étiquetés selon l’ancien droit jusqu’au 30 novembre 2020. Ils peuvent être remis aux consommateurs jusqu’à épuisement des stocks.
+
+[^25e-1]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+#### Art. 26
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2012.
+
+Annexe 1*[^t-1]*
+
+(art. 1, al. 2 et 3, let. a)
+
+## Listes des objets usuels auxquels la présente ordonnance ne s’applique pas
+
+[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+### I. Objets usuels qui ne sont pas considérés comme des jouets au sens de l’art. 65 ODAlOUs
+
+- 1\. Objets décoratifs servant aux fêtes et célébrations.
+- 2\.
+
+  Produits destinés à des collectionneurs, à condition que le produit ou son emballage indique de façon visible et lisible qu’il est destiné aux collectionneurs âgés d’au moins 14 ans. Exemples de produits appartenant à cette catégorie:
+
+  - a. modèles réduits à l’identique, construits à l’échelle en détail;
+  - b. coffrets d’assemblage de modèles réduits à l’identique, construits à l’échelle en détail;
+  - c. poupées folkloriques et décoratives et autres articles similaires;
+  - d. répliques historiques de jouets;
+  - e. reproductions d’armes à feu réelles.
+
+- 3\. Équipements sportifs (y compris les patins à roulettes, les patins en ligne et les planches à roulettes) destinés aux enfants pesant plus de 20 kg.
+- 4\. Les bicyclettes ayant une hauteur de selle maximale supérieure à 435 mm, distance mesurée à la verticale entre le sol et la surface supérieure de la selle, cette dernière se trouvant en position horizontale et réglée sur la position la plus basse.
+- 5\. Trottinettes et autres moyens de transport conçus pour le sport ou qui sont destinés à être utilisés à des fins de déplacement sur les voies et les sentiers publics.
+- 6\. Véhicules électriques destinés à être utilisés pour les déplacements sur les voies et les sentiers publics, ou sur leurs trottoirs.
+- 7\. Équipements nautiques destinés à être utilisés dans des eaux profondes et dispositifs pour apprendre à nager destinés aux enfants, tels que les sièges de natation et les aides à la natation.
+- 8\. Puzzles de plus de 500 pièces.
+- 9\. Armes et pistolets à air comprimé, à l’exception des pistolets à eau et revolvers à eau, et arcs à flèches d’une longueur supérieure à 120 cm.
+- 10\. Feux d’artifice, y compris amorces à percussion qui ne sont pas spécialement conçues pour des jouets.
+- 11\. Produits et jeux comprenant des projectiles à pointe acérée, tels que les jeux de fléchettes à pointe métallique.
+- 12\. Produits éducatifs fonctionnels, tels que les fours électriques, fers électriques et autres produits fonctionnels alimentés par une tension nominale supérieure à 24 volts et vendus exclusivement pour être employés à des fins éducatives, sous la surveillance d’un adulte.
+- 13\. Produits destinés à être utilisés dans les écoles à des fins d’enseignement et dans d’autres contextes pédagogiques, sous la surveillance d’un instructeur adulte, tels que les équipements scientifiques.
+- 14\. Équipements électroniques, tels que les ordinateurs personnels et les consoles de jeu, servant à utiliser des logiciels interactifs et les périphériques associés, à moins que ces équipements électroniques ou les périphériques associés ne soient spécifiquement conçus pour les enfants et destinés à ceux-ci, et aient une valeur ludique intrinsèque, tels que les ordinateurs personnels, claviers, manettes de jeu ou volants spécialement conçus.
+- 15\. Logiciels interactifs destinés aux loisirs et aux divertissements, tels que les jeux électroniques, et leurs supports de mémoire, tels que les disques compacts.
+- 16\. Sucettes de puériculture.
+- 17\. Luminaires attrayants pour les enfants.
+- 18\. Transformateurs électriques pour jouets.
+- 19\. Accessoires de mode pour enfants, non destinés à être utilisés à des fins de jeu.
+
+### II. Jouets au sens de l’art. 65 ODAlOUs auxquels la présente ordonnance ne s’applique pas
+
+- 1\. Équipements pour aires collectives de jeu destinées à une utilisation publique.
+- 2\. Machines de jeu automatiques, à pièces ou non, destinées à une utilisation publique.
+- 3\. Véhicules de jeu équipés de moteurs à combustion.
+- 4\. Jouets machine à vapeur.
+- 5\. Frondes et lance-pierres.
+
+Annexe 2*[^t-2]*
+
+(art. 3, al. 1, let. b)
+
+## Exigences de sécurité particulières pour les jouets
+
+[^t-2]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 25 nov. 2013 ([RO 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), le ch. II 3 de l’O du DFI du 5 juin 2015 ([RO 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), les ch. I et II al. 1 de l’O du DFI du 16 déc. 2016, ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), l’erratum du 30 mai 2017 ([RO 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)) et le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+### 1. Propriétés physiques et mécaniques
+
+- 1\. Les jouets et leurs pièces, ainsi que leurs fixations dans le cas de jouets montés, doivent avoir la résistance mécanique et, le cas échéant, la stabilité requises. Ils doivent résister aux contraintes auxquelles ils sont soumis lors de leur utilisation sans risque de provoquer des blessures par rupture ou déformation.
+- 2\. Les arêtes, saillies, cordes, câbles et fixations accessibles des jouets doivent être conçus et fabriqués de manière à réduire, dans la mesure du possible, les risques de blessure lors d’un contact.
+- 3\. Les jouets doivent être conçus et fabriqués de manière à ne présenter aucun risque ou seulement les risques minimaux provoqués par le mouvement de leurs pièces.
+- 4\.
+
+  Pour éviter les risques d’étranglement et d’asphyxie:
+
+  - a. Les jouets et leurs pièces doivent être conçus et fabriqués de manière à exclure tout risque d’étranglement.
+  - b. Les jouets et leurs pièces doivent être conçus et fabriqués de manière à éviter tout risque d’asphyxie par obstruction externe des voies respiratoires par la bouche et le nez.
+  - c. Les jouets et leurs pièces doivent être d’une dimension telle qu’ils ne peuvent pas rester coincés dans la bouche ou le pharynx, ou à l’entrée des voies respiratoires inférieures, de manière à exclure tout risque d’asphyxie par obstruction interne des voies respiratoires.
+  - d. Les jouets qui sont manifestement destinés aux enfants de moins de 36 mois, leurs éléments et leurs pièces détachables, doivent être de dimension suffisante pour empêcher leur ingestion ou leur inhalation. Cela s’applique également aux autres jouets destinés à être mis en bouche, ainsi qu’à leurs éléments et leurs pièces détachables.
+  - e. Les emballages dans lesquels les jouets sont contenus pour la vente au détail doivent être conçus et fabriqués de manière à exclure tout risque d’étranglement ou d’asphyxie par obstruction externe des voies respiratoires par la bouche et le nez.
+  - f. Les jouets présents dans des denrées alimentaires ou mélangés à des denrées alimentaires doivent avoir leur propre emballage. Cet emballage doit être de dimension suffisante pour empêcher son ingestion ou son inhalation.
+  - g. Les emballages de jouets, visés aux let. e et f, sphériques, ovoïdes ou ellipsoïdes, et toutes pièces détachables de ceux-ci, ou d’emballages cylindriques aux extrémités arrondies, doivent être d’une dimension suffisante pour empêcher leur ingestion ou leur inhalation et telle qu’ils ne peuvent pas rester coincés dans la bouche ou le pharynx ou à l’entrée des voies respiratoires inférieures, de manière à exclure tout risque d’asphyxie par obstruction interne des voies respiratoires.
+  - h. Les jouets qui font corps avec un produit alimentaire au stade de la consommation, de telle sorte qu'il est indispensable de consommer l'aliment avant d'avoir accès directement au jouet, sont interdits. Les parties de jouets qui, d'une autre manière, sont directement attachées à un produit alimentaire doivent satisfaire aux exigences énoncées aux let. c et d.
+
+- 5\. Les jouets aquatiques doivent être conçus et fabriqués de façon à réduire, dans la mesure du possible, et compte tenu de l’usage préconisé, tout risque de perte de flottabilité du jouet et de sa capacité à maintenir l’enfant hors de l’eau.
+- 6\. Les jouets dans lesquels on peut pénétrer et qui constituent un espace clos doivent posséder un moyen de sortie que les utilisateurs auxquels le jouet est destiné peuvent facilement actionner de l’intérieur.
+- 7\. Les jouets conçus pour être utilisés en tant que moyens de locomotion doivent, dans la mesure du possible, comporter un système de freinage adapté au type de jouet et en rapport avec l’énergie cinétique générée par le jouet. Ce système doit pouvoir être facilement actionné par l’utilisateur. Cette action ne doit présenter aucun risque d’éjection ou de chute ni de risque de blessures pour l’utilisateur ou pour des tiers. Dans le cas des jouets porteurs électriques, la vitesse nominale (vitesse de fonctionnement normale déterminée par la conception du jouet) doit être limitée de manière à réduire, dans la mesure du possible, le risque de blessures.
+- 8\. La forme et la composition des projectiles ainsi que l’énergie cinétique qu’ils peuvent générer lors de leur lancement par un jouet conçu à cette fin doivent être telles qu’elles excluent tout risque de blessures pour l’utilisateur ou pour des tiers, compte tenu de la nature du jouet.
+- 9\.
+
+  Les jouets doivent être fabriqués de manière à garantir que:
+
+  - a. les températures maximale et minimale de toute surface accessible ne causent pas de blessures lors d’un contact, et que
+  - b. les liquides et gaz contenus dans le jouet n’atteignent pas des températures ou pressions telles que leur échappement, pour autant qu’il soit indispensable au bon fonctionnement du jouet, soit susceptible de provoquer des brûlures ou autres blessures.
+
+- 10\. Les jouets conçus pour émettre un son doivent être conçus et fabriqués de manière à ce que les valeurs maximales que peuvent atteindre les impulsions sonores et les sons prolongés n’endommagent pas l’ouïe des enfants.
+- 11\.
+
+  Jouets d’activités:
+
+  - a.
+
+    Les jouets d’activités doivent être fabriqués de manière à réduire, dans la mesure du possible:
+
+    - 1\. le risque que des parties du corps soient écrasées ou coincées,
+    - 2\. le risque qu’un vêtement soit happé,
+    - 3\. le risque de chute et d’impact,
+    - 4\. le risque de noyade.
+
+  - b. Toute surface des jouets d’activités accessible à un ou plusieurs enfants doit être conçue de manière à supporter leur charge.
+
+### 2. Inflammabilité
+
+- 1\.
+
+  Les jouets ne doivent pas constituer un élément inflammable dangereux dans l’environnement de l’enfant. Ils doivent se composer de matériaux ne constituant pas un risque de propagation du feu aux autres matériaux utilisés dans le jouet et remplissant au moins l’une des conditions suivantes:
+
+  - a. ne pas brûler sous l’action directe d’une flamme, d’une étincelle ou de toute autre source potentielle d’incendie;
+  - b. être difficilement inflammables (la flamme s’éteint dès qu’il n’y a plus de cause d’incendie);
+  - c. s’ils s’enflamment, brûler lentement de manière à présenter une faible vitesse de propagation de la flamme;
+  - d. être conçus, quelle que soit la composition chimique du jouet, de manière à en retarder mécaniquement la calcination (processus de combustion).
+
+- 2\. Les jouets qui, pour des raisons indispensables à leur fonctionnement, contiennent des substances ou des préparations répondant aux critères de classification énoncés au ch. 1 de l’appendice B de la directive 2009/48/CE[^annex2-lvlu1-lvl2-1] ne doivent pas contenir des substances ou des préparations qui puissent devenir inflammables à la suite de la perte de composants volatils non inflammables. Ces substances et préparationss indispensables au fonctionnement peuvent notamment être employés dans des matériaux et équipements pour des expériences chimiques, l’assemblage de maquettes, les moulages plastiques ou céramiques, l’émaillage, la photographie ou des activités similaires.
+- 3\. Les jouets autres que les amorces à percussion pour jouets ne doivent pas être explosifs ni contenir d’éléments ou de substances susceptibles d’exploser lorsqu’ils sont utilisés conformément à la destination du jouet ou à l’usage prévisible, en tenant compte du comportement usuel d’un enfant.
+- 4\.
+
+  Les jouets ne doivent pas contenir des substances ou des préparationss qui:
+
+  - a. lorsqu’ils sont associés, sont susceptibles d’exploser, par réaction chimique ou par échauffement;
+  - b. sont susceptibles d’exploser lorsqu’ils sont mélangés avec des substances oxydantes, ou
+  - c. contiennent des composants volatils inflammables dans l’air et susceptibles de former des préparationss vapeur/air inflammables ou explosifs.
+
+[^annex2-lvlu1-lvl2-1]: Cf. note de bas de page concernant l’art. 13, al. 1, let. a.
+
+### 3. Propriétés chimiques
+
+- 1\. Les jouets ne doivent présenter aucun risque d’effet nuisible sur la santé humaine dû à l’exposition à des substances ou préparations chimiques qui entrent dans leur composition ou qui y sont présents.
+- 2\. Les jouets qui sont eux-mêmes des substances ou des préparationss doivent également se conformer à l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^annex2-lvlu1-lvl3-1] en ce qui concerne la classification, l’emballage et l’étiquetage de certaines préparations et substances, pour autant que ladite ordonnance soit applicable.
+- 3\. Les substances classées comme étant cancérogènes, mutagènes ou toxiques pour la reproduction (CMR), de catégorie 1A, 1B ou 2 dans la version du règlement (CE) n° 1272/2008 figurant à l’annexe 2, ch. 1, OChim ne doivent pas être utilisées dans les jouets.
+- 4\. Il est possible de déroger au ch. 3 conformément aux ch. III.4 et III.5 de l’annexe II de la directive 2009/48/CE[^annex2-lvlu1-lvl3-2].
+- 5\. Les ch. 3 et 4 ne s’appliquent pas aux jouets et parties de jouets avec du nickel contenu dans l’acier inoxydable, ni aux parties de jouets avec du nickel destinées à conduire le courant électrique. L’art. 2, al. 1 et 2, de l’ordonnance du 23 novembre 2005 sur les objets destinés à entrer en contact avec le corps humain[^annex2-lvlu1-lvl3-3] s’applique aux jouets contenant des parties nickelées qui sont en contact direct et prolongé avec la peau.
+- 6\. Les ch. 3 et 4 ne s’appliquent pas aux matériaux couverts par les dispositions du règlement (CE) n<sup>o</sup> 1935/2004[^annex2-lvlu1-lvl3-4] qui respectent lesdites dispositions.
+- 7\.
+
+  Sans préjudice de l’application des ch. 3 et 4, les valeurs limites de migration des nitrosamines et des substances nitrosables dans les jouets destinés à des enfants de moins de 36 mois et dans les autres jouets destinés à être mis en bouche, sont les suivantes:
+
+  - a. pour les nitrosamines: 0,05 mg/kg;
+  - b. pour les substances nitrosables: 1 mg/kg.
+
+- 8\. Les jouets cosmétiques, tels que les cosmétiques pour poupées, doivent être conformes aux exigences de l’ordonnance du DFI du 16 décembre 2016 sur les cosmétiques (OCos)[^annex2-lvlu1-lvl3-5].
+- 9\.
+
+  Substances parfumantes allergisantes:
+
+  - a. Les jouets ne contiennent pas les substances parfumantes allergisantes ci-après; toutefois, la présence de traces de ces substances parfumantes est tolérée, à condition qu’elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu’elle ne dépasse pas 100 mg/kg:
+
+<table>
+<tr><th>N°</th><th>Substance parfumante allergisante</th><th>Numéro CAS[^annex2-lvlu1-lvl3-6]</th></tr>
+<tr><td>(1)</td><td>Huile de racine d’aunée (*Inula helenium*)</td><td>97676-35-2</td></tr>
+<tr><td>(2)</td><td>Allylisothiocyanate</td><td>57-06-7</td></tr>
+<tr><td>(3)</td><td>Cyanure de benzyle</td><td>140-29-4</td></tr>
+<tr><td>(4)</td><td>4-tert-butylphenol</td><td>98-54-4</td></tr>
+<tr><td>(5)</td><td>Huile de chénopode</td><td>8006-99-3</td></tr>
+<tr><td>(6)</td><td>Alcool de cyclamen</td><td>4756-19-8</td></tr>
+<tr><td>(7)</td><td>Maléate diéthylique</td><td>141-05-9</td></tr>
+<tr><td>(8)</td><td>Dihydrocoumarine</td><td>119-84-6</td></tr>
+<tr><td>(9)</td><td>2,4-dihydroxy-3-methylbenzaldéhyde</td><td>6248-20-0</td></tr>
+<tr><td>(10)</td><td>3,7-dimethyle-2-octen-1-ol (6,7-dihydrogéraniol)</td><td>40607-48-5</td></tr>
+<tr><td>(11)</td><td>4,6-dimethyle-8-tert-butylcoumarine</td><td>17874-34-9</td></tr>
+<tr><td>(12)</td><td>Citraconate de diméthyle</td><td>617-54-9</td></tr>
+<tr><td>(13)</td><td>7,11-diméthyle-4,6,10-dodécatrien-3-one</td><td>26651-96-7</td></tr>
+<tr><td>(14)</td><td>6,10-diméthyle-3,5,9-undécatrien-2-one</td><td>141-10-6</td></tr>
+<tr><td>(15)</td><td>Diphénylamine</td><td>122-39-4</td></tr>
+<tr><td>(16)</td><td>Acrylate d’éthyle</td><td>140-88-5</td></tr>
+<tr><td>(17)</td><td>Feuille de figuier, fraîche et préparations</td><td>68916-52-9</td></tr>
+<tr><td>(18)</td><td>trans-2-Hepténal</td><td>18829-55-5</td></tr>
+<tr><td>(19)</td><td>trans-2-Hexénal diéthyle acétal</td><td>67746-30-9</td></tr>
+<tr><td>(20)</td><td>trans-2-Hexénal dimethyle acétal</td><td>18318-83-7</td></tr>
+<tr><td>(21)</td><td>Alcool hydroabiétylique</td><td>13393-93-6</td></tr>
+<tr><td>(22)</td><td>4-éthoxy-phénol</td><td>622-62-8</td></tr>
+<tr><td>(23)</td><td>6-décahydro-6-isopropyl-2-naphtol</td><td>34131-99-2</td></tr>
+<tr><td>(24)</td><td>7-Méthoxycoumarine</td><td>531-59-9</td></tr>
+<tr><td>(25)</td><td>4-Methoxyphénol</td><td>150-76-5</td></tr>
+<tr><td>(26)</td><td>4-(p-méthoxyphényl)-3-butane-2-one</td><td>943-88-4</td></tr>
+<tr><td>(27)</td><td>1-(p-méthoxyphényl)-1-pentène-3-one</td><td>104-27-8</td></tr>
+<tr><td>(28)</td><td>Méthyl trans-2-buténoate</td><td>623-43-8</td></tr>
+<tr><td>(29)</td><td>Méthyl-6-coumarine</td><td>92-48-8</td></tr>
+<tr><td>(30)</td><td>Méthyl-7-coumarine</td><td>2445-83-2</td></tr>
+<tr><td>(31)</td><td>Méthyl-5-2,3-hexanédione</td><td>13706-86-0</td></tr>
+<tr><td>(32)</td><td>Huile de racine de costus (*Saussurea lappa Clarke*)</td><td>8023-88-9</td></tr>
+<tr><td>(33)</td><td>7-Ethoxy-4-methylcoumarine</td><td>87-05-8</td></tr>
+<tr><td>(34)</td><td>Hexahydrocoumarine</td><td>700-82-3</td></tr>
+<tr><td>(35)</td><td>Baume du Pérou, brut (Exsudation de *Myrox**y**lon Pereirae Klotzsch*)</td><td>8007-00-9</td></tr>
+<tr><td>(36)</td><td>2-pentylidène-cyclohexanone</td><td>25677-40-1</td></tr>
+<tr><td>(37)</td><td>3,6,10-triméthyl-3,5,9-undécatrien-2-one</td><td>1117-41-5</td></tr>
+<tr><td>(38)</td><td>Huile de verbena (*Lippia citriodora Kunth*).</td><td>8024-12-2</td></tr>
+<tr><td>(39)</td><td>Musk ambrette (4-ter-Butyl-3-methoxy-2,6-dinitrotoluene)</td><td>83-66-9</td></tr>
+<tr><td>(40)</td><td>4-Phenyl-3-buten-2-one</td><td>122-57-6</td></tr>
+<tr><td>(41)</td><td>Amyl cinnamal</td><td>122-40-7</td></tr>
+<tr><td>(42)</td><td>Amylcinnamyl alcool</td><td>101-85-9</td></tr>
+<tr><td>(43)</td><td>Alcool de benzyle</td><td>100-51-6</td></tr>
+<tr><td>(44)</td><td>Salicylate de benzyle</td><td>118-58-1</td></tr>
+<tr><td>(45)</td><td>Cinnamyl alcool</td><td>104-54-1</td></tr>
+<tr><td>(46)</td><td>Cinnamal</td><td>104-55-2</td></tr>
+<tr><td>(47)</td><td>Citral</td><td>5392-40-5</td></tr>
+<tr><td>(48)</td><td>Coumarine</td><td>91-64-5</td></tr>
+<tr><td>(49)</td><td>Eugenol</td><td>97-53-0</td></tr>
+<tr><td>(50)</td><td>Géraniol</td><td>106-24-1</td></tr>
+<tr><td>(51)</td><td>Hydroxy-citronellal</td><td>107-75-5</td></tr>
+<tr><td>(52)</td><td>Hydroxy-methylpentylcyclohexenecarboxaldehyde</td><td>31906-04-4</td></tr>
+<tr><td>(53)</td><td>Isoeugenol</td><td>97-54-1</td></tr>
+<tr><td>(54)</td><td>Extraits de mousse de chêne</td><td>90028-68-5</td></tr>
+<tr><td>(55)</td><td>Extraits de mousse d’arbre</td><td>90028-67-4</td></tr>
+</table>
+
+- b. Les substances parfumantes allergisantes ci-après doivent être indiquées sur le jouet, sur une étiquette jointe ou sur un feuillet d’accompagnement, si elles ont été ajoutées aux jouets à des concentrations dépassant 100 mg/kg du jouet ou des pièces de celui-ci:
+
+<table>
+<tr><th>N°</th><th>Substance parfumante allergisante</th><th>Numéro CAS</th></tr>
+<tr><td>(1)</td><td>Alcool anisique</td><td>105-13-5</td></tr>
+<tr><td>(2)</td><td>Benzoate de benzyle</td><td>120-51-4</td></tr>
+<tr><td>(3)</td><td>Cinnamate de benzyle</td><td>103-41-3</td></tr>
+<tr><td>(4)</td><td>Citronellol</td><td>106-22-9</td></tr>
+<tr><td>(5)</td><td>Farnesol</td><td>4602-84-0</td></tr>
+<tr><td>(6)</td><td>Hexylcinnamaldéhyde</td><td>101-86-0</td></tr>
+<tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
+<tr><td>(8)</td><td>d-Limonene</td><td>5989-27-5</td></tr>
+<tr><td>(9)</td><td>Linalol</td><td>78-70-6</td></tr>
+<tr><td>(10)</td><td>Methyl heptine carbonate</td><td>111-12-6</td></tr>
+<tr><td>(11)</td><td>3-méthyl-4-(2,6,6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one</td><td>127-51-5</td></tr>
+</table>
+
+- 10\.
+
+  Jeux de table olfactifs, ensembles cosmétiques et jeux gustatifs:
+
+  - a.
+
+    Les substances parfumantes visées au ch. 9, let. a, numéro 41 à 55, et au ch. 9, let. b, numéro 1 à 11, peuvent être utilisées dans les jeux de table olfactifs, les ensembles cosmétiques et les jeux gustatifs à condition que:
+
+    - 1\. ces substances parfumantes soient clairement étiquetées et que l’emballage soit muni de l’avertissement prévu à l’annexe 3, partie B, ch. 10;
+    - 2\. les produits que l’enfant peut fabriquer conformément au mode d’emploi soient conformes aux exigences de l’OCos[^annex2-lvlu1-lvl3-7], et que
+    - 3\. ces substances parfumantes soient conformes aux dispositions régissant les arômes dans les denrées alimentaires.
+
+  - b. Les jeux olfactifs, ensembles cosmétiques et jeux gustatifs ne peuvent être utilisés par des enfants de moins de 36 mois. Ces types de jouets doivent être munis d’un des avertissements visés à l’annexe 3, partie B, ch. 1.
+
+- 11\.
+
+  Limites lors de l’essai de migration:
+
+  - a. Sans préjudice de l’application des ch. 3 et 4, les limites ci-après ne doivent pas être dépassées lors de l’essai de migration sur les jouets ou composants de jouets:
+
+<table>
+<tr><th>Élément ou liaison</th><th>mg/kg de matière de jouet sèche, friable, poudreuse ou souple</th><th>mg/kg de matière de jouet liquide ou collante</th><th>mg/kg de matière grattée du jouet</th></tr>
+<tr><td>Aluminium</td><td>5625</td><td>1406</td><td>70000</td></tr>
+<tr><td>Antimoine</td><td>45</td><td>11,3</td><td>560</td></tr>
+<tr><td>Arsenic</td><td>3,8</td><td>0,9</td><td>47</td></tr>
+<tr><td>Baryum</td><td>1500</td><td>375</td><td>18750</td></tr>
+<tr><td>Bore</td><td>1200</td><td>300</td><td>15000</td></tr>
+<tr><td>Cadmium</td><td>1,3</td><td>0,3</td><td>17</td></tr>
+<tr><td>Chrome<sup>(3+)</sup></td><td>37,5</td><td>9,4</td><td>460</td></tr>
+<tr><td>Chrome<sup>(6+)</sup></td><td>0,02</td><td>0,005</td><td>0,053</td></tr>
+<tr><td>Cobalt</td><td>10,5</td><td>2,6</td><td>130</td></tr>
+<tr><td>Cuivre</td><td>622,5</td><td>156</td><td>7700</td></tr>
+<tr><td>Plomb</td><td>2,0</td><td>0,5</td><td>23</td></tr>
+<tr><td>Manganèse</td><td>1200</td><td>300</td><td>15000</td></tr>
+<tr><td>Mercure</td><td>7,5</td><td>1,9</td><td>94</td></tr>
+<tr><td>Nickel</td><td>75</td><td>18,8</td><td>930</td></tr>
+<tr><td>Sélénium</td><td>37,5</td><td>9,4</td><td>460</td></tr>
+<tr><td>Strontium</td><td>4500</td><td>1125</td><td>56000</td></tr>
+<tr><td>Étain</td><td>15000</td><td>3750</td><td>180000</td></tr>
+<tr><td>Étain organique</td><td>0,9</td><td>0,2</td><td>12</td></tr>
+<tr><td>Zinc</td><td>3750</td><td>938</td><td>46000</td></tr>
+</table>
+
+- b. Ces valeurs limites ne s’appliquent pas aux jouets ou composants de jouets qui, en raison de leur accessibilité, de leur fonction, de leur volume ou de leur masse, excluent tout danger par succion, léchage, ingestion ou contact prolongé avec la peau, lorsqu’ils sont utilisés conformément à la destination du jouet ou à l’usage prévisible, en tenant compte du comportement usuel d’un enfant.
+
+- 12\. Sans préjudice de l’application des ch. 1 à 3, les jouets ne peuvent contenir plus de 0,1 % masse (valeur limite totale) des esters phtaliques (plastifiants) suivants: di‑(2-éthylhexyl) phtalate (DEHP[^annex2-lvlu1-lvl3-8]), dibutyl phtalate (DBP[^annex2-lvlu1-lvl3-9]), diisobutyl phtalate (DIBP[^annex2-lvlu1-lvl3-10]) et butylbenzyl phtalate (BBP[^annex2-lvlu1-lvl3-11]). Les jouets qui peuvent être mis en bouche par les enfants ne peuvent contenir plus de 0,1 % masse (valeur limite totale) des esters phtaliques (plastifiants) suivants: di-isononyl phtalate (DINP[^annex2-lvlu1-lvl3-12]), di-isodecyl phtalate (DIDP[^annex2-lvlu1-lvl3-13]) et di-n-octyl phtalate (DNOP[^annex2-lvlu1-lvl3-14]).
+- 13\. Les jouets ou les éléments de jouets ne doivent pas contenir plus de 5 mg/kg de benzène libre.
+- 14\. Les jouets, y compris les jouets d’activité, ne doivent pas être mis sur le marché si l’un de leurs composants en caoutchouc ou en matière plastique qui, dans des conditions d’utilisation normales ou raisonnablement prévisibles, entre en contact direct et prolongé ou direct, bref et répété avec la peau humaine ou la cavité buccale contient plus de 0,5 mg/kg d’un hydrocarbure aromatique polycyclique (HAP) figurant à l’annexe 2.9, ch. 2, al. 1, let. d, de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^annex2-lvlu1-lvl3-15].
+- 15\. Les valeurs limites spécifiques pour les substances chimiques utilisées dans des jouets destinés à l’usage d’enfants de moins de 36 mois ou dans d’autres jouets destinés à être mis en bouche sont les suivantes:
+
+<table>
+<tr><td>Substance</td><td>Numéro CAS</td><td>Valeur limite</td></tr>
+<tr><td>TCEP</td><td>115-96-8</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
+<tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
+<tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
+<tr><td>Bisphénol A</td><td>80-05-7</td><td>0,04 mg/l (limite spécifique de migration) conformément aux procédures selon les normes EN 71‑10:2005 et EN 71-11:2005[^annex2-lvlu1-lvl3-16]</td></tr>
+<tr><td>Formamide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (limite d’émission) après une période maximale de 28 jours à compter du commencement du test des émissions des matériaux de jouet en mousse présentant une teneur en formamide supérieure à 200 mg/kg (valeur seuil basée sur la teneur)</td></tr>
+<tr><td>1,2-benzisothiazol-3(2H)-one</td><td>2634-33-5</td><td>5 mg/kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10:2005 et EN 71-11:2005</td></tr>
+<tr><td>Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin‑3-one [n<sup>o</sup> CE 247-500-7] et de la 2-méthyl-2H‑isothiazol-3-one [n<sup>o</sup> CE 220-239-6] (3:1)</td><td>55965-84-9</td><td>1 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
+<tr><td>5-chloro-2-méthyl-isothiazolin-3(2H)-one</td><td>26172-55-4</td><td>0,75 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
+<tr><td>2-méthyl-isothiazolin‑3(2H)-one</td><td>2682-20-4</td><td>0,25 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
+<tr><td>Phénol</td><td>108-95-2</td><td>5 mg/l (limite spécifique de migration) dans les matériaux polymères conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005 10 mg/kg (teneur limite) pour les utilisations en tant qu’agent conservateur conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005</td></tr>
+</table>
+
+[^annex2-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex2-lvlu1-lvl3-2]: Cf. note de bas de page concernant l’art. 13, al. 1, let. a.
+[^annex2-lvlu1-lvl3-3]: [RS 817.023.41](https://fedlex.data.admin.ch/eli/cc/2005/811)
+[^annex2-lvlu1-lvl3-4]: R (CE) n<sup>o</sup> 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant les directives 80/590/CEE et 89/109/CEE; version du JO L 338 du 13.11.2004, p. 4.
+[^annex2-lvlu1-lvl3-5]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex2-lvlu1-lvl3-6]: *Chemical Abstract Service* (CAS)
+[^annex2-lvlu1-lvl3-7]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex2-lvlu1-lvl3-8]: N<sup>o</sup> CAS 117-81-7; European Inventory of Existing Commercial Chemical Substances (Einecs) n<sup>o</sup> 204-211-0
+[^annex2-lvlu1-lvl3-9]: N<sup>o</sup> CAS 84-74-2; n<sup>o</sup> Einecs 201-557-4
+[^annex2-lvlu1-lvl3-10]: N<sup>o</sup> CAS 84-69-5; n<sup>o</sup> Einecs 201-553-2
+[^annex2-lvlu1-lvl3-11]: N<sup>o</sup> CAS 85-68-7; n<sup>o</sup> Einecs 201-622-7
+[^annex2-lvlu1-lvl3-12]: N<sup>o</sup> CAS 28553-12-0 et 68515-48-0; n<sup>o</sup> Einecs 249-079-5 et 271-090-9
+[^annex2-lvlu1-lvl3-13]: N<sup>o</sup> CAS 26761-40-0 et 68515-49-1; n<sup>o</sup> Einecs 247-977-1 et 271-091-4
+[^annex2-lvlu1-lvl3-14]: N<sup>o</sup> CAS 117-84-0; n<sup>o</sup> Einecs 204-214-7
+[^annex2-lvlu1-lvl3-15]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex2-lvlu1-lvl3-16]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 4. Propriétés électriques
+
+- 1\.
+
+  Tension:
+
+  - a. Les jouets et leurs pièces accessibles sont alimentés par une tension qui n’excède pas 24 volts de courant continu ou l’équivalent en courant alternatif.
+  - b. Les voltages internes n’excèdent pas 24 volts de courant direct ou l’équivalent en courant alternatif, à moins que ne soit garanti que la combinaison voltage et ampérage ne comporte aucun risque ou ne peut produire aucun choc électrique nuisible, même si le jouet est cassé.
+
+- 2\. Les pièces des jouets reliées à une source d’électricité pouvant provoquer un choc électrique, ou susceptibles d’être en contact avec une source d’électricité, ainsi que les câbles ou autres fils conducteurs par lesquels l’électricité est conduite au jouet doivent être bien isolés et mécaniquement protégés afin de prévenir le risque d’un tel choc.
+- 3\. Les jouets électriques doivent être conçus et fabriqués de manière à garantir que les températures maximales atteintes par toutes les surfaces directement accessibles ne causent pas de brûlures.
+- 4\. Lors de pannes prévisibles, les jouets doivent fournir une protection contre les risques liés à l’électricité résultant d’une source d’énergie électrique.
+- 5\. Les jouets doivent assurer une protection adéquate contre les risques d’incendie.
+- 6\. Les jouets électriques doivent être conçus et fabriqués de telle sorte que les champs électriques, magnétiques et électromagnétiques et les autres radiations générées par le matériel soient limités à ce qui est nécessaire pour le fonctionnement du jouet. Lors de l’utilisation du jouet, un niveau de sécurité correspondant à l’état généralement reconnu de la technique et conforme aux mesures applicables doit être maintenu.
+- 7\. Les jouets dotés d’un système de commande électronique doivent être conçus et fabriqués de manière à fonctionner en toute sécurité, même en cas de dysfonctionnement ou de panne du système de commande, y compris découlant d’un facteur extérieur.
+- 8\. Les jouets doivent être conçus et fabriqués de manière à ne présenter aucun risque pour la santé et aucun risque de blessures aux yeux ou à la peau par des lasers, des diodes électroluminescentes ou toute autre radiation.
+- 9\. Le transformateur électrique pour jouets ne fait pas partie intégrante du jouet.
+
+### 5. Hygiène
+
+- 1\. Les jouets doivent être conçus et fabriqués de façon à satisfaire aux conditions d’hygiène et de propreté afin d’éviter tout risque d’infection, de maladie ou de contamination.
+- 2\. Les jouets destinés à l’usage d’enfants de moins de 36 mois doivent être conçus et fabriqués de manière à pouvoir être nettoyés. Les jouets en textile sont lavables, sauf s’ils contiennent un mécanisme susceptible d’être endommagé au lavage à grandes eaux. Les jouets doivent continuer de remplir les conditions de sécurité après le nettoyage conformément aux consignes du fabricant.
+
+### 6. Radioactivité
+
+- 1\. Les jouets ne doivent contenir ni éléments ni substances radioactives sous des formes ou dans des proportions susceptibles de nuire à la santé des enfants.
+- 2\. Pour le reste, les dispositions de l’ordonnance du 22 juin 1994 sur la radioprotection[^annex2-lvlu1-lvl6-1] s’appliquent.
+
+[^annex2-lvlu1-lvl6-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+Annexe 3*[^t-3]*
+
+(art. 5, al. 1, 2 et 6)
+
+## Avertissements
+
+[^t-3]: Mise à jour selon les ch. I et II al. 1 de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+### Remarque préliminaire:
+
+Tous les avertissements sont précédés du mot «Attention».
+
+### Partie A Avertissements généraux
+
+Si cela est nécessaire pour assurer une utilisation sûre, les avertissements spécifient les limites d’utilisation appropriées, par exemple:
+
+- – l’âge minimum ou maximum de l’utilisateur;
+- – le poids minimum ou maximum de l’utilisateur;
+- – les aptitudes de l’utilisateur;
+- – une remarque sur la nécessité de veiller à ce que le jouet soit utilisé sous la surveillance d’un adulte.
+
+### Partie B Avertissements spécifiques et indications des précautions d’emploi pour certaines catégories de jouets
+
+### 1. Jouets non destinés à l’usage d’enfants de moins de 36 mois
+
+- 1\.1 Les jouets qui sont susceptibles de présenter un danger pour les enfants de moins de 36 mois doivent s’accompagner d’un avertissement, tel que: «Attention. Ne convient pas aux enfants de moins de 36 mois» ou «Attention. Ne convient pas aux enfants de moins de trois ans», ou un avertissement sous la forme du graphique suivant:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/fr/xml/image/image1.png)
+
+- 1\.2 Cet avertissement s’accompagne d’une brève indication sur le danger précis justifiant cette précaution. Cette indication complémentaire peut également figurer dans la notice d’emploi.
+- 1\.3 Le présent chiffre ne s’applique pas aux jouets qui, en raison de leurs fonctions, dimensions, caractéristiques, propriétés ou autres éléments probants, ne sont manifestement pas susceptibles d’être destinés aux enfants de moins de 36 mois.
+
+### 2. Jouets d’activité
+
+- 2\.1 Un jouet d’activité est un jouet destiné à un usage familial, dont la structure portante reste fixe pendant l’activité et qui est destiné aux enfants pour pratiquer l’une des activités suivantes: grimper, sauter, se balancer, glisser, basculer, tournoyer, ramper, se faufiler ou toute combinaison de ces activités.
+- 2\.2 Les jouets d’activité portent l’avertissement suivant:
+- «Attention. Réservé à un usage familial».
+- 2\.3 Les jouets d’activité attachés à une traverse et, le cas échéant, à d’autres jouets d’activité sont accompagnés d’une notice d’emploi attirant l’attention sur la nécessité d’effectuer des contrôles et des entretiens périodiques de leurs parties les plus importantes (suspensions, attaches, fixation au sol, etc.) et précisant que, en cas d’omission de ces contrôles, le jouet pourrait présenter des risques de chute ou de renversement. Des instructions sur la façon correcte de les assembler doivent également être fournies avec le jouet. Elles indiquent les parties qui peuvent présenter des dangers si l’assemblage n’est pas correct et donnent des informations précises sur la surface appropriée sur laquelle placer le jouet.
+
+### 3. Jouets fonctionnels
+
+- 3\.1 Un jouet fonctionnel est un jouet qui fonctionne et qui est utilisé de la même manière qu’un produit, un appareil ou une installation destinés à être utilisés par des adultes, et qui peut constituer un modèle réduit d’un tel produit, appareil ou installation.
+- 3\.2 Les jouets fonctionnels portent l’avertissement suivant:
+- «Attention. À utiliser sous la surveillance d’un adulte».
+- 3\.3 La notice d’emploi des jouets fonctionnels décrit les précautions à suivre lors de l’utilisation. Elle mentionne les dangers auxquels s’expose l’utilisateur s’il ne respecte pas lesdites précautions. La notice précise ces dangers. Il s’agit, en règle générale, des dangers potentiels inhérents à l’appareil ou au produit dont le jouet constitue un modèle réduit ou une imitation. Il faut également indiquer que ces jouets doivent être maintenus hors de la portée d’enfants d’un certain âge. Le fabricant précise l’âge en question.
+
+### 4. Jouets chimiques
+
+- 4\.1 Un jouet chimique est un jouet destiné à la manipulation directe de substances et de préparations chimiques et qui est destiné à être utilisé, à un âge approprié, sous la surveillance d’adultes.
+- 4\.2 L’emballage des jouets chimiques doit porter l’avertissement suivant:
+- «Attention. Ne convient pas aux enfants de moins de … ans[^annex3-lvlu1-partB-lvl4-1]. À utiliser sous la surveillance d’un adulte».
+- 4\.3 La notice d’emploi des jouets contenant des substances ou préparations dangereuses porte l’indication du caractère dangereux de celles-ci. Elle décrit les précautions à prendre lors de l’utilisation. Elle mentionne les dangers auxquels s’expose l’utilisateur s’il ne respecte pas lesdites précautions. La notice précise ces dangers de manière concise. Doivent également être mentionnés les soins de première urgence à donner en cas d’accidents graves susceptibles de survenir lors de l’utilisation de ce type de jouets. Il faut également indiquer que ces jouets doivent être maintenus hors de la portée d’enfants d’un certain âge. Le fabricant précise l’âge en question.
+- 4\.4 Les dispositions prévues par l’OChim[^annex3-lvlu1-partB-lvl4-2] applicables à la classification, à l’emballage et à l’étiquetage de certaines préparations et substances dangereuses sont réservées.
+- 4\.5 Sont notamment considérés comme «jouets chimiques» les boîtes d’inclusion plastique, les ateliers miniatures de céramique, d’émaillage, de photographie et les jouets analogues qui, en cours d’utilisation, provoquent une réaction chimique ou une modification analogue de la substance.
+
+[^annex3-lvlu1-partB-lvl4-1]: Le fabricant précise l’âge.
+[^annex3-lvlu1-partB-lvl4-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+### 5. Patins, patins à roulettes, patins en ligne, planches à roulettes, trottinettes et bicyclettes pour enfants
+
+- 5\.1 Les patins, patins à roulettes, patins en ligne, planches à roulettes, trottinettes et bicyclettes pour enfants, présentés à la vente comme jouets, sont munis des avertissements suivants:
+- «Attention. À utiliser avec équipement de protection. Ne pas utiliser sur la voie publique».
+- 5\.2 La notice d’emploi rappelle que l’utilisation du jouet doit se faire avec prudence, étant donné qu’elle exige beaucoup d’adresse, afin d’éviter des accidents, par chutes ou collisions, de l’utilisateur et des tiers. Des indications concernant l’équipement de protection conseillé (casques, gants, genouillères, coudières, etc.) doivent être données.
+
+### 6. Jouets aquatiques
+
+- 6\.1 Un jouet aquatique est un jouet destiné à être utilisé en eaux peu profondes et apte à porter ou à soutenir un enfant sur l’eau.
+- 6\.2 Les jouets aquatiques portent l’avertissement suivant:
+- «Attention. À n’utiliser qu’en eau où l’enfant a pied et sous la surveillance d’un adulte».
+
+### 7. Jouets contenus dans les denrées alimentaires
+
+- L’emballage des jouets contenus dans les denrées alimentaires ou qui y sont mélangés est muni de l’avertissement suivant:
+- «Attention. Contient un jouet. La surveillance d’un adulte est recommandée».
+
+### 8. Imitations de masques protecteurs et de casques
+
+- Les imitations de masques protecteurs et de casques sont munies de l’avertissement suivant:
+- «Attention. Ce jouet n’assure pas une protection.».
+
+### 9. Jouets destinés à être suspendus au-dessus d’un berceau, d’un parc ou d’une poussette au moyen de fils, de cordes, d’élastiques ou de courroies
+
+- 9\.1 Les jouets destinés à être suspendus au-dessus d’un berceau, d’un parc ou d’une poussette au moyen de fils, de cordes, d’élastiques ou de sangles, portent l’avertissement suivant:
+- «Attention. Afin d’éviter tout risque d’étranglement, ôter le jouet dès que l’enfant tente de se mettre à quatre pattes ou de ramper».
+- 9\.2 L’avertissement est indiqué sur l’emballage et de manière permanente sur le jouet.
+
+### 10. Emballage des substances parfumantes contenues dans les jeux de table olfactifs, les ensembles cosmétiques et les jouets gustatifs
+
+- 10\.1 Un jeu de table olfactif est un jeu dont l’objet est d’aider un enfant à apprendre à reconnaître différents parfums ou odeurs.
+- 10\.2 Un ensemble cosmétique est un jouet dont l’objet est d’aider l’enfant à fabriquer des produits tels que substances parfumantes, savons, crèmes, shampoings, mousses pour le bain, vernis à lèvre, rouge à lèvres, autre maquillage, dentifrice et produits de soins capillaires.
+- 10\.3 Un jeu gustatif est un jouet pouvant comporter l’utilisation d’ingrédients alimentaires, tels qu’édulcorants, liquides, poudres et arômes, permettant aux enfants de confectionner des friandises ou des préparations culinaires.
+- 10\.4 L’emballage des substances parfumantes contenues dans les jeux de table olfactifs, les ensembles cosmétiques et les jeux gustatifs contenant les substances parfumantes visées à l’annexe 2, ch. 3.9, let. a, n<sup>os</sup> 41 à 55, et b, est muni de l’avertissement suivant:
+- [tab] «Attention. Contient des substances parfumantes susceptibles de causer des allergies».
+
+Annexe 4*[^t-4]*
+
+(art. 8)
+
+## Normes techniques pour la sécurité des jouets****
+
+[^annex4-lvlu1-1]
+
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^annex4-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+
+<table>
+<tr><td>Numéro</td><td>Titre</td></tr>
+<tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sécurité des jouets – Partie 1: Propriétés mécaniques et physiques</td></tr>
+<tr><td>SN EN 71-2:2011 avec rectificatif A1:2014</td><td>Sécurité des jouets – Partie 2: Inflammabilité</td></tr>
+<tr><td>SN EN 71-3:2013 avec rectificatif A3:2018</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
+<tr><td>SN EN 71-4:2013</td><td>Sécurité des jouets – Partie 4: Coffrets d’expériences chimiques et d’activités connexes</td></tr>
+<tr><td>SN EN 71-5:2016</td><td>Sécurité des jouets – Partie 5: Jeux chimiques (coffrets), autres que les coffrets d’expériences chimiques</td></tr>
+<tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sécurité des jouets – Partie 7: Peintures au doigt – Exigences et méthodes d’essai</td></tr>
+<tr><td>SN EN 71-8:2018</td><td>Sécurité des jouets – Partie 8: Balançoires, toboggans et jouets d’activité similaires à usage familial en extérieur et en intérieur</td></tr>
+<tr><td>SN EN 71-12:2013</td><td>Sécurité des jouets – Partie 12: Nitrosamines et substances nitrosables</td></tr>
+<tr><td>SN EN 71-13:2014</td><td>Sécurité des jouets – Partie 13: Jeux de table olfactifs, ensembles cosmétiques et jeux gustatifs</td></tr>
+<tr><td>SN EN 71-14:2018</td><td>Sécurité des jouets – Partie 14: Trampolines à usage familial</td></tr>
+<tr><td>SN EN 62115:2005 avec amendement A2:2011 et rectificatif AC:2011 avec amendement A11:2012 et rectificatif AC:2013 avec amendement A12:2015</td><td>Jouets électriques – Sécurité</td></tr>
+</table>
+
+Annexe 5
+
+(art. 10, al. 2)
+
+## Documentation technique
+
+La documentation technique contient notamment:
+
+- 1\. une description détaillée de la conception et de la fabrication, y compris une liste des composants et des matériaux utilisés dans les jouets, ainsi que les fiches de données de sécurité relatives aux substances chimiques utilisées (à obtenir auprès des fournisseurs de substances chimiques);
+- 2\. la ou les évaluations de la sécurité effectuées en vertu de l’art. 9;
+- 3\. une description de la procédure suivie pour évaluer la conformité;
+- 4\. une copie de la déclaration de conformité;
+- 5\. les adresses des lieux de fabrication et d’entreposage;
+- 6\. les copies des documents que le fabricant a communiqués à l’organisme désigné participant, si ce dernier intervient;
+- 7\. les rapports d’essais et la description des moyens par lesquels le fabricant a garanti la conformité de la production aux normes techniques, si ce fabricant a suivi la procédure de contrôle interne de la fabrication visée à l’art. 11, al. 1, let. a, et
+- 8\. une copie de l’attestation de l’examen de type, une description des moyens par lesquels le fabricant a garanti la conformité de la production au type de produit décrit dans l’attestation d’examen de type, ainsi que des copies des documents que le fabricant a communiqués à l’organisme d’évaluation de la conformité, si le fabricant a soumis le jouet à un examen de type et suivi la procédure de conformité au type visée à l’art. 11, al. 1, let. b.
+
+Annexe 6
+
+(art. 14, al. 3)
+
+## Déclaration de conformité
+
+La déclaration de conformité doit au moins comprendre les éléments indiqués dans les modules applicables de l’annexe II de la décision n<sup>o</sup> 768/2008/CE[^annex6-lvlu1-1] ainsi que les données suivantes:
+
+- 1\. n<sup>o</sup> … (identification unique du ou des jouets);
+- 2\. les nom et adresse du fabricant ou de son mandataire;
+- 3\. la déclaration: «La présente déclaration de conformité est établie sous la seule responsabilité du fabricant»;
+- 4\. l’objet de la déclaration (identification du jouet permettant sa traçabilité), accompagné d’une photo couleur permettant d’identifier le jouet de façon suffisamment claire;
+- 5\. la déclaration selon laquelle l’objet visé au point 4 est conforme aux dispositions applicables;
+- 6\. les références des normes techniques pertinentes appliquées ou des documentations techniques (des spécifications) par rapport auxquelles la conformité est déclarée;
+- 7\. le cas échéant, la déclaration: «L’organisme d’évaluation de la conformité … (nom, numéro) … a effectué … (description de l’intervention) et a établi l’attestation suivante: …»;
+- 8\. les informations complémentaires:
+- Signé par et au nom de:
+- (date et lieu d’établissement)
+- (nom, fonction) (signature).
+
+[^annex6-lvlu1-1]: Cf. note de bas de page concernant l’art. 11, al. 1 let. a.

@@ -1,0 +1,286 @@
+---
+sr: "313.041"
+title: Ordinanza del 20 settembre 2013 sul sistema d’informazione in materia penale dell’Ufficio federale della dogana e della sicurezza dei confini (OSIP-UDSC)
+short: OSIP-UDSC
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/639"
+language: it
+version: 2021-01-01
+adopted: 2013-09-20
+in_force: 2013-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/639/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-639-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/639/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul sistema d’informazione in materia penale dell’Amministrazione federale delle dogane
+
+(OSIP-AFD)
+
+del 20 settembre 2013 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 110 capoverso 3, 112 capoverso 5 e 130 della legge del 18 marzo 2005[^ingress-1] sulle dogane; visto l’articolo 107 della legge federale del 22 marzo 1974[^ingress-2] sul diritto penale amministrativo (DPA); visto l’articolo 111 dell’assistenza in materia penale del 20 marzo 1981[^ingress-3],
+
+ordina:
+
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^ingress-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina per il sistema d’informazione in materia penale dell’Amministrazione federale delle dogane (sistema d’informazione):
+
+- a. l’autorità responsabile e l’organizzazione;
+- b. lo scopo e il contenuto;
+- c. il trattamento dei dati;
+- d. i servizi autorizzati ad accedere ai dati;
+- e. la protezione e la sicurezza dei dati.
+
+#### Art. 2
+
+**Autorità responsabile**
+
+<sup>1</sup> L’Amministrazione federale delle dogane (AFD) è responsabile del sistema d’informazione.
+
+<sup>2</sup> Su mandato dell’AFD, l’Ufficio federale dell’informatica e della telecomunicazione (UFIT) è responsabile dell’attuazione tecnica e dell’esercizio.
+
+#### Art. 3
+
+**Regolamento per il trattamento**
+
+L’AFD emana un regolamento per il trattamento ai sensi dell’articolo 21 dell’ordinanza del 14 giugno 1993[^3-1] relativa alla legge federale sulla protezione dei dati.
+
+[^3-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+## Sezione 2: Scopo e contenuto del sistema d’informazione
+
+#### Art. 4
+
+**Scopo del sistema d’informazione**
+
+Il sistema d’informazione fornisce un sostegno per i seguenti compiti nell’ambito di competenza dell’AFD:
+
+- a. accertamento e perseguimento di reati;
+- b. concessione dell’assistenza giudiziaria e amministrativa nazionale e internazionale;
+- c. esecuzione delle pene e delle misure nonché riscossione posticipata dei tributi;
+- d. organizzazione mirata della vigilanza e dei controlli doganali;
+- e. ricapitolazione, visualizzazione e analisi statistica delle informazioni in relazione con procedimenti penali e procedure di assistenza giudiziaria e amministrativa.
+
+#### Art. 5
+
+**Contenuto del sistema d’informazione**
+
+Il sistema d’informazione contiene indicazioni su:
+
+- a. persone fisiche (cognome, nome, indirizzo, domicilio, cittadinanza, cognome prima del matrimonio, pseudonimo, data di nascita, luogo di nascita, luogo d’origine, sesso, stato civile, professione, lingua, connotati, confessione, cognome e nome del padre e della madre, cognome e nome del coniuge, cognome e nome del partner registrato, numeri di telefono, cellulare e fax, indirizzi e-mail, riferimenti bancari, indirizzi Internet, documenti);
+- b. persone giuridiche e associazioni di persone (nome, ditta, forma giuridica, indirizzo, sede, Stato, rappresentanti o organi, numeri di telefono, cellulare e fax, indirizzi e-mail, riferimenti bancari, indirizzi Internet, numero d’identificazione delle imprese);
+- c. difensori (cognome, nome, indirizzo o recapito in Svizzera);
+- d. sospetti, accuse o pene;
+- e. reati (luogo, data e ora del reato, genere di reato, fattispecie penale applicabile, genere di regime, genere di traffico, genere di merce, mezzo di trasporto utilizzato e targhe di controllo, nascondigli, designazione e voce di tariffa della merce, Paese di provenienza, di spedizione, d’origine e di destinazione, luogo di destinazione);
+- f. oggetti e mezzi di prova sequestrati;
+- g. domande di assistenza amministrativa e giudiziaria (autorità richiedente, data, oggetto della domanda, genere di provvedimenti);
+- h. svolgimento dei procedimenti penali (inchiesta preliminare e inchiesta, esecuzione) e delle procedure di assistenza giudiziaria e amministrativa;
+- i. decisioni (data e genere di decisione, passaggio in giudicato);
+- j. riscossione e versamento di tributi, addossamento e pagamento di spese, multe, pene pecuniarie e prestazioni di garanzia nonché inflizione ed esecuzione di pene detentive e da commutazione;
+- k. collaboratori coinvolti;
+- l. controlli degli affari, dei termini e delle scadenze;
+- m. incarti (numero d’incarto, stato del trattamento, rinvio ad altri incarti).
+
+## Sezione 3: Trattamento dei dati
+
+#### Art. 6
+
+**Principio**
+
+<sup>1</sup> I dati memorizzati nel sistema d’informazione possono essere consultati e trattati solo nell’ambito dello scopo (art. 4).
+
+<sup>2</sup> Il sistema d’informazione è utilizzato esclusivamente dall’AFD. Gli agenti di collegamento dell’Ufficio federale di polizia (fedpol) hanno accesso al sistema d’informazione quando adempiono all’estero compiti degli agenti di collegamento dell’AFD e possono trattare i pertinenti dati, se necessario per l’adempimento dei compiti di cui all’articolo 4 lettere a e b.[^6-1]
+
+<sup>3</sup> Un collegamento con sistemi d’informazione al di fuori dell’AFD non è ammesso.
+
+[^6-1]: Nuovo testo giusta il n. I 1 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’AFD, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+
+#### Art. 7
+
+**Trattamento dei dati in un sistema di analisi esterno**
+
+<sup>1</sup> I dati del sistema d’informazione possono essere trasferiti e trattati in un sistema di analisi esterno per eseguire un mandato di analisi. Un simile mandato può essere svolto soltanto da specialisti appositamente autorizzati della divisione principale Antifrode doganale, del Comando del Corpo delle guardie di confine o della sezione Analisi dei rischi.[^7-1]
+
+<sup>2</sup> I trasferimenti di dati che vanno oltre il semplice obiettivo della visualizzazione richiedono il consenso del consulente per la protezione dei dati dell’AFD.
+
+<sup>3</sup> I dati trasferiti in un sistema di analisi esterno devono essere conservati e distrutti conformemente agli articoli 16 e 17.
+
+<sup>4</sup> L’AFD disciplina i dettagli nel regolamento sul trattamento dei dati.
+
+[^7-1]: Nuovo testo giusta l’all. n. 1 dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+
+#### Art. 8
+
+**Scambio di dati con altri sistemi d’informazione**
+
+Lo scambio automatico di dati con i sistemi d’informazione Finanze e contabilità di cui all’allegato A 2 dell’ordinanza del 4 aprile 2007[^8-1] sul trattamento dei dati nell’AFD è ammesso.
+
+[^8-1]: [[RU 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)n. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)all. n. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)all. n. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)all. n. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)n. I 4. [2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)art. 15]. Vedi ora l’O del 23 ago. 2017 ([RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)).
+
+#### Art. 9
+
+**Statistica**
+
+Con i dati del sistema d’informazione è possibile allestire una statistica, segnatamente anche ai fini della pianificazione e dei controlli interni degli affari nonché dell’analisi delle attività di contrabbando. Se le statistiche sono pubblicate, i dati devono essere resi anonimi.
+
+## Sezione 4: Servizi autorizzati ad accedere ai dati
+
+#### Art. 10
+
+**Uffici doganali**
+
+<sup>1</sup> Gli uffici doganali (uffici doganali del servizio civile, uffici di servizio del Corpo delle guardie di confine) possono trattare i dati di un incarto che hanno aperto essi stessi, finché ne sono competenti.
+
+<sup>2</sup> Se la competenza per il trattamento dell’incarto è passata a un’istanza superiore, gli uffici doganali, ai fini dell’accertamento e del perseguimento di reati nell’ambito di competenza dell’AFD (art. 4 lett. a), possono consultare i dati di cui all’articolo 5 lettere a, b, d–f, j e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita), della targa di controllo o del numero d’incarto.
+
+<sup>3</sup> Negli incarti che non hanno aperto essi stessi, gli uffici doganali, ai fini dell’accertamento e del perseguimento di reati nell’ambito di competenza dell’AFD (art. 4 lett. a), possono consultare i dati di cui all’articolo 5 lettere a, b, d–f e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita) o della targa di controllo.
+
+<sup>4</sup>
+
+Gli uffici doganali possono consultare i dati:
+
+- a. in caso di procedimenti penali con abbandono del procedimento o assoluzione: al massimo per due anni dalla conclusione del procedimento;
+- b. in caso di procedimenti penali con condanna a una multa fino a 500 franchi: al massimo per due anni dalla conclusione del procedimento;
+- c. in caso di procedimenti penali con condanna a una multa superiore a 500 franchi o a pena detentiva: al massimo per cinque anni dalla conclusione del procedimento.
+
+#### Art. 11
+
+**Divisione principale Antifrode doganale**[^11-1]
+
+La divisione principale Antifrode doganale può consultare e trattare tutti i dati.
+
+[^11-1]: Nuovo testo giusta l’all. n. 1 dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+
+#### Art. 12
+
+**Servizi di supporto, controllo e manutenzione**
+
+<sup>1</sup> L’AFD stabilisce un servizio di supporto e controllo per il sistema d’informazione.
+
+<sup>2</sup> Il servizio di supporto e controllo nonché i servizi o le persone interni all’Amministrazione incaricati di verificare l’osservanza delle disposizioni sulla protezione dei dati possono trattare tutti i dati nel sistema d’informazione, se necessario per l’adempimento dei loro compiti di supporto o controllo.
+
+<sup>3</sup>
+
+Le persone dell’UFIT incaricate dei lavori di manutenzione possono trattare i dati nel sistema d’informazione solo se:
+
+- a. assolutamente necessario per l’adempimento dei loro compiti di manutenzione; e se
+- b. la sicurezza dei dati è garantita.
+
+#### Art. 13
+
+**Altri servizi dell’AFD**
+
+<sup>1</sup> Gli altri servizi dell’AFD possono consultare i dati di cui all’articolo 5 lettere a, b, d–g e m sulla base dei dati personali (cognome, cognome e nome, cognome e data di nascita o cognome e nome e data di nascita) o della targa di controllo, se necessario per l’adempimento dei loro compiti nel quadro dell’articolo 4 lettere a e b.
+
+<sup>2</sup> Il capoverso 1 si applica anche agli agenti di collegamento di fedpol quando adempiono all’estero compiti degli agenti di collegamento dell’AFD.[^13-1]
+
+[^13-1]: Introdotto dal n. I 1 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’AFD, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+
+## Sezione 5: Protezione e sicurezza dei dati
+
+#### Art. 14
+
+**Diritti delle persone interessate**
+
+<sup>1</sup> In caso di procedimenti penali conclusi, i diritti delle persone interessate, in particolare i diritti d’informazione, di rettifica e di distruzione dei dati, sono retti dalle disposizioni della legge del 19 giugno 1992[^14-1] sulla protezione dei dati e della DPA.
+
+<sup>2</sup> In caso di procedimenti penali pendenti, tali diritti sono retti dall’articolo 36 DPA concernente il diritto di esame degli atti.
+
+<sup>3</sup> In caso di domande di assistenza amministrativa, tali diritti sono retti dalle disposizioni della legge federale del 20 dicembre 1968[^14-2] sulla procedura amministrativa, mentre in caso di domande di assistenza giudiziaria dalle disposizioni dell’assistenza in materia penale del 20 marzo 1981.
+
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^14-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 15
+
+**Rettifica dei dati**
+
+<sup>1</sup> I dati inesatti e i dati che non corrispondono alle disposizioni della presente ordinanza devono essere rettificati o distrutti d’ufficio.
+
+<sup>2</sup> Il servizio di supporto e controllo di cui all’articolo 12 verifica regolarmente l’esattezza dei dati.
+
+#### Art. 16
+
+**Conservazione dei dati**
+
+<sup>1</sup>
+
+I dati sono conservati:
+
+- a. in caso di procedimenti penali con abbandono del procedimento o assoluzione: per cinque anni dalla conclusione del procedimento;
+- b. in caso di procedimenti penali con condanna a una multa fino a 500 franchi: per cinque anni dalla conclusione del procedimento;
+- c. in caso di procedimenti penali con condanna a una multa superiore a 500 franchi o a pena detentiva: per dieci anni dalla conclusione del procedimento;
+- d. in caso di procedimenti penali che terminano con un attestato di carenza di beni: per la durata di validità dell’attestato;
+- e. in caso di procedure di assistenza amministrativa o giudiziaria: per cinque anni dalla trasmissione dei dati.
+
+<sup>2</sup> Se alla conclusione del procedimento penale i tributi dovuti non sono ancora stati versati interamente, i termini di cui al capoverso 1 iniziano a decorrere solo quando la procedura di riscossione posticipata è conclusa.
+
+<sup>3</sup> Per motivi particolari, segnatamente in caso di pericolo di recidiva, la divisione Cause penali della Direzione generale delle dogane può prorogare il termine di conservazione per un periodo analogo.
+
+#### Art. 17
+
+**Archiviazione e distruzione dei dati**
+
+<sup>1</sup> Il versamento all’Archivio federale di dati del sistema d’informazione è retto dalle disposizioni della legge del 26 giugno 1998[^17-1] sull’archiviazione.
+
+<sup>2</sup> Dopo il versamento all’Archivio federale i dati vengono distrutti. I dati che non sono consegnati all’Archivio federale devono essere distrutti allo scadere del termine di conservazione.
+
+<sup>3</sup> La consegna dei dati all’Archivio federale può avvenire in forma elettronica.
+
+[^17-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 18
+
+**Sicurezza dei dati**
+
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^18-1] relativa alla legge federale sulla protezione dei dati e le disposizioni dell’ordinanza del 27 maggio 2020[^18-2] sui ciber-rischi.[^18-3]
+
+<sup>2</sup> I dati, i programmi e la relativa documentazione devono essere protetti dal trattamento non autorizzato nonché dalla distruzione e dal furto. Essi devono poter essere ripristinati.
+
+<sup>3</sup> La trasmissione dei dati deve avvenire in forma cifrata durante l’intero processo.
+
+<sup>4</sup> L’accesso al sistema d’informazione da parte degli utenti deve essere controllato mediante un profilo individuale in modo che una persona possa utilizzare il sistema solo nell’ambito delle proprie competenze.
+
+<sup>5</sup> Il trattamento dei dati deve essere registrato automaticamente.
+
+[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^18-3]: Nuovo testo giusta l’all. n. 10 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+
+## Sezione 6: Disposizioni finali
+
+#### Art. 19
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del 6 marzo 2000[^19-1] sul sistema informatico dell’Amministrazione federale delle dogane in materia penale è abrogata.
+
+[^19-1]: [[RU 2000 1127](https://fedlex.data.admin.ch/eli/oc/2000/181), [2004 4559](https://fedlex.data.admin.ch/eli/oc/2004/694), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 5]
+
+#### Art. 20
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le raccolte di dati già esistenti, che sono servite all’AFD per perseguire e giudicare casi penali, vengono trasferite nel nuovo sistema d’informazione dell’AFD.
+
+<sup>2</sup> Ai fini della sicurezza dei dati, le raccolte di dati esistenti possono essere conservate per cinque anni dal trasferimento. In seguito i dati devono essere distrutti.
+
+<sup>3</sup> Dopo il trasferimento dei dati nel sistema d’informazione, la presente ordinanza si applica anche ai dati rilevati nel quadro delle vecchie disposizioni.
+
+#### Art. 21
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° novembre 2013.

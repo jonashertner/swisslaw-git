@@ -1,0 +1,430 @@
+---
+sr: "361.3"
+title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
+eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
+language: fr
+version: 2019-05-06
+adopted: 2013-12-06
+in_force: 2014-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20190506/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20190506-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20190506/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le traitement des données signalétiques biométriques
+
+du 6 décembre 2013 (Etat le 6 mai 2019)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 354, al. 4, du code pénal[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet et but**
+
+<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et par le Secrétariat d’Etat aux migrations (SEM).[^1-1]
+
+<sup>2</sup> Le traitement des données signalétiques biométriques a pour but de permettre aux autorités fédérales et cantonales d’identifier des personnes vivantes ou décédées, d’identifier les traces relevées sur les lieux d’une infraction et d’établir des liens entre plusieurs infractions.
+
+<sup>3</sup> Pour le reste, sont applicables l’art. 87 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^1-2] et 226 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)[^1-3].
+
+[^1-1]: Nouvelle teneur selon le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^1-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^1-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+
+#### Art. 2
+
+**Données signalétiques biométriques**
+
+Sont considérées comme données signalétiques biométriques au sens de la présente ordonnance:
+
+- a. les données dactyloscopiques: empreintes digitales, empreintes des paumes et de la tranche de la main;
+- b. les traces dactyloscopiques relevées suite à des soupçons d’infraction (ci‑après traces);
+- c. les photographies;
+- d. les signalements.
+
+#### Art. 3
+
+**Tâches de fedpol**
+
+<sup>1</sup>
+
+Les services compétents de fedpol traitent des données signalétiques lorsqu’ils accomplissent les tâches suivantes:
+
+- a. gestion du système automatique d’identification des empreintes digitales (AFIS) aux fins de l’enregistrement centralisé des données signalétiques biométriques mentionnées à l’art. 2 ainsi que de leur comparaison automatique et de leur évaluation;
+- b. gestion des fichiers contenant les empreintes digitales et les photographies qui leur sont communiquées;
+- c. réception et contrôle de la qualité et de l’exhaustivité des données signalétiques fournies par d’autres autorités;
+- d. comparaison des données signalétiques qui leur sont fournies avec celles qui sont contenues dans leurs propres fichiers;
+- e. communication du résultat de la comparaison à l’autorité requérante, à d’autres autorités de poursuite pénale enquêtant sur la même personne ainsi qu’à d’autres autorités devant connaître l’identité de la personne concernée pour accomplir leurs tâches légales;
+- f. établissement de statistiques sur les résultats;
+- g. mise à disposition des données dactyloscopiques existantes aux autorités mentionnées à l’art. 4 dans la mesure où elles ont demandé ces données dans le cas d’espèce et que ces données sont indispensables à l’accomplissement de leurs tâches.
+
+<sup>2</sup> Les services compétents selon l’al. 1 doivent être accrédités conformément à la norme ISO/IEC 17025[^3-1].
+
+[^3-1]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+#### Art. 3a
+
+**Compétence du SEM**[^3a-1]
+
+Le SEM peut livrer les données signalétiques biométriques de manière automatisée à la partie nationale du Système d’information Schengen (N-SIS) à partir d’AFIS et du système d’information central sur la migration (SYMIC) du SEM, lors de signalements aux fins de non admission et d’interdiction de séjour.
+
+[^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+
+#### Art. 4
+
+**Autorités requérantes**
+
+<sup>1</sup>
+
+Les autorités suivantes peuvent faire comparer des données signalétiques biométriques par le service chargé de la gestion d’AFIS:
+
+- a. les services de fedpol chargés de tâches de police judiciaire au niveau fédéral et de coopération policière internationale;
+- b.[^4-1] les services du SEM chargés de l’identification des requérants d’asile et des personnes à protéger, de l’examen des conditions d’entrée et des procédures relevant du droit des étrangers;
+- c. le service de l’Office fédéral de la justice chargé de l’entraide judiciaire internationale;
+- d. les services de l’Administration fédérale des douanes chargés de l’identification de personnes;
+- e. les représentations suisses à l’étranger chargées de délivrer des visas;
+- f. le Service de renseignement de la Confédération (SRC);
+- g. les services de police chargés, dans les cantons, en vertu du droit cantonal des saisies signalétiques et de l’identification des personnes;
+- h. les autorités des cantons chargées des questions en matière d’étrangers et d’asile dans la mesure où le SEM les autorise à effectuer des comparaisons de données dans AFIS.
+
+<sup>2</sup> Le service cantonal d’identification selon l’al. 1, let. g, est l’interlocuteur unique de fedpol pour toutes les questions relatives à l’application de la présente ordonnance par les services de police du canton concerné.
+
+[^4-1]: Nouvelle teneur selon le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+
+#### Art. 5
+
+**Droits des personnes concernées**
+
+<sup>1</sup> Les droits des personnes concernées, notamment le droit d’être renseigné et le droit à la rectification ou à la destruction de données, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^5-1].
+
+<sup>2</sup> Si une personne concernée veut faire valoir son droit, elle doit justifier de son identité et déposer une demande écrite à fedpol.
+
+[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 6
+
+**Archivage des données**
+
+La remise des données du système d’information aux Archives fédérales est régie par l’art. 21 LPD[^6-1] et par la loi fédérale du 26 juin 1998 sur l’archivage[^6-2].
+
+[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+## Section 2 AFIS
+
+#### Art. 7
+
+**Principes**
+
+<sup>1</sup> AFIS contient des données signalétiques biométriques.
+
+<sup>2</sup> Chaque saisie signalétique de personne et chaque trace reçoit un numéro de contrôle du processus unique.
+
+<sup>3</sup> Toutes les données signalétiques biométriques nécessaires à la comparaison sont enregistrées.
+
+<sup>4</sup> Afin de documenter le processus d’analyse et d’assurer la qualité, les données relatives au processus et au cas peuvent être enregistrées en plus des données signa-létiques biométriques.
+
+#### Art. 8
+
+**Contenu d’AFIS**
+
+<sup>1</sup>
+
+Sont enregistrées dans AFIS après comparaison:
+
+- a.
+
+  les données signalétiques biométriques saisies:
+
+  - 1\. aux fins de l’établissement de l’identité de personnes durant la procédure préliminaire conformément au code de procédure pénale[^8-1],
+  - 2\. dans le cadre d’investigations visant à élucider une infraction, ou
+  - 3\. par des autorités policières suisses ou étrangères dans le cadre de l’assistance administrative internationale;
+
+- b.
+
+  les données signalétiques biométriques saisies à des fins d’établissement de l’identité:
+
+  - 1\. de personnes décédées,
+  - 2\. de personnes qui ne peuvent donner d’informations sur leur identité, en raison de leur âge, d’un accident, d’une maladie durable, d’un handicap, d’un trouble psychique ou d’une altération de la conscience;
+
+- c. les traces et les photographies d’auteurs inconnus présumés qui ont été relevées sur les lieux d’une infraction;
+- d. les empreintes digitales et les photographies de requérants d’asile prises conformément à la législation sur l’asile;
+- e. les données signalétiques biométriques relevées sur des personnes confor-mément à la législation sur les étrangers et sur les douanes.
+
+<sup>2</sup> Les données signalétiques biométriques du SRC ne sont pas enregistrées dans AFIS.
+
+[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 9
+
+**Re-photographie ou notice signalétique destinée à IPAS**
+
+<sup>1</sup> Dans le cas d’espèce, une autorité selon l’art. 4, al. 1, let. a, d et g peut se limiter à prendre une photographie d’une personne dont les données signalétiques ont déjà été saisies ou de rédiger une notice signalétique destinée au système informatisé de gestion et d’indexation de dossiers et de personnes (IPAS) de fedpol.
+
+<sup>2</sup> Le lien entre la photographie ou la notice signalétique destinée à IPAS et les données signalétiques biométriques déjà existantes est établi au moyen du numéro de contrôle du processus. Il est vérifié au préalable par un contrôle effectué au moyen des empreintes de deux doigts.
+
+#### Art. 10
+
+**Données dactyloscopiques des personnes autorisées à se rendre sur les lieux d’une infraction**
+
+<sup>1</sup> Les autorités cantonales et fédérales peuvent prélever les données dactyloscopiques des personnes qui accomplissent des tâches dans les domaines de la police technique et scientifique et de la collecte des éléments de preuve, dans la mesure où cela est nécessaire pour distinguer leurs traces des autres traces prélevées sur le lieu d’une infraction.
+
+<sup>2</sup> Les autorités transmettent au service chargé de la gestion d’AFIS les données mentionnées à l’al. 1, accompagnées d’un numéro d’identification. Les données personnelles ne sont pas transmises.
+
+<sup>3</sup> Le service chargé de la gestion d’AFIS enregistre les données dactyloscopiques dans un index indépendant du système d’information.
+
+<sup>4</sup> Les autorités ordonnent que les données dactyloscopiques d’une personne soient effacées de l’index dès que son activité ne nécessite plus qu’elles y soient enregistrées.
+
+#### Art. 11
+
+**Index servant au contrôle du processus de traitement**
+
+<sup>1</sup> Afin de pouvoir retracer ou contrôler ultérieurement le résultat d’une comparaison effectuée dans le système d’information, les données signalétiques biométriques et les données relatives au processus et au cas mentionnées à l’art. 7, al. 4 sont enregistrées dans un index séparé; cet index ne peut pas être utilisé à des fins de comparaison.
+
+<sup>2</sup> Les données saisies lors de l’identification d’une personne sont conservées dans cet index pendant 30 jours à compter de la consultation, les données liées à une trace le sont durant cinq ans à partir du moment où une concordance a été établie.
+
+#### Art. 12
+
+**Règlement sur le traitement des données**
+
+Fedpol édicte un règlement sur le traitement des données dans AFIS.
+
+#### Art. 13
+
+**Planification, tests et formation**
+
+Des données pseudonymisées peuvent être traitées à des fins de planification, de test, d’optimisation du système et de formation.
+
+#### Art. 14
+
+**Sécurité des données**
+
+La sécurité des données est garantie par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
+- b. l’ordonnance du 9 décembre 2011 sur l’informatique et la télécommunication dans l’administration fédérale[^14-2].
+
+[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+## Section 3 Traitement des données dans d’autres systèmes d’information
+
+#### Art. 15
+
+<sup>1</sup> Le numéro de contrôle du processus, ainsi que les données personnelles correspondantes ou les données relatives au cas, sont traités dans IPAS ou dans le SYMIC.[^15-1]
+
+<sup>2</sup> Le service chargé de la gestion d’AFIS relie le numéro de contrôle du processus aux autres données personnelles ou relatives à une trace contenues dans IPAS ou dans le SYMIC.
+
+[^15-1]: Nouvelle teneur selon le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+
+## Section 4 Communication et transmission des données
+
+#### Art. 16
+
+**Communication des données**
+
+<sup>1</sup>
+
+Lors de la communication du résultat de la comparaison au sens de l’art. 3, let. e, fedpol fournit les données suivantes:
+
+- a.
+
+  issues d’AFIS:
+
+  - 1\. le résultat de la comparaison («hit» ou «no-hit»),
+  - 2\. photographies, si disponibles,
+  - 3\. en cas de concordance de traces, la comparaison des empreintes digitales;
+
+- b.
+
+  issues d’IPAS:
+
+  - 1\. noms,
+  - 2\. prénoms,
+  - 3\. date de naissance,
+  - 4\. sexe,
+  - 5\. lieu d’origine,
+  - 6\. lieu de naissance,
+  - 7\. nationalité,
+  - 8\. noms des parents,
+  - 9\. nom d’emprunt,
+  - 10\. numéro de contrôle du processus,
+  - 11\. motif de la saisie signalétique (en code),
+  - 12\. autorité, lieu et date de la saisie signalétique,
+  - 13\. informations sur les photographies et les profils d’ADN disponibles,
+  - 14\. informations sur les documents d’identité,
+  - 15\. mesures,
+  - 16\. résultat de la comparaison de données dactyloscopiques ou de profils d’ADN, déjà effectuée dans le cadre de demandes d’identification antérieures, avec identification positive («hit»);
+
+- c.
+
+  issues du SYMIC:
+
+  - 1\. numéro personnel,
+  - 2\. noms,
+  - 3\. prénoms,
+  - 4\. date de naissance,
+  - 5\. sexe,
+  - 6\. nationalité,
+  - 7\. nom d’emprunt,
+  - 8\. numéro de contrôle du processus,
+  - 9\. canton auquel le requérant a été attribué (procédure relevant du droit de l’asile),
+  - 10\. autorité, lieu et date du relevé des empreintes digitales (procédure relevant du droit des étrangers).
+
+<sup>2</sup> Lorsque des empreintes digitales relevées par des services de police étrangers concordent avec celles enregistrées par le SEM, ce dernier décide s’il est licite de transmettre les résultats aux autorités étrangères.
+
+## Section 5 Effacement des données
+
+#### Art. 17
+
+**Effacement des données signalétiques biométriques saisies dans le cadre d’une procédure pénale**
+
+<sup>1</sup>
+
+Le service chargé de la gestion d’AFIS efface les données signalétiques biométriques mentionnées à l’art. 2 ayant été saisies sur une personne déterminée:
+
+- a. sitôt qu’il s’avère, au cours de la procédure, que la personne concernée ne peut être l’auteur de l’infraction;
+- b. après le décès de la personne concernée;
+- c. immédiatement après la clôture de la procédure par un acquittement ayant force de droit;
+- d. un an après le non-lieu;
+- e. cinq ans après l’expiration du délai d’épreuve lorsqu’il s’agit d’une peine assortie du sursis ou du sursis partiel;
+- f. cinq ans après le paiement d’une amende ou d’une peine pécuniaire, après la cessation d’un travail d’intérêt général ou après l’exécution d’une peine de substitution;
+- g. cinq ans après une réprimande, la fin d’une prestation personnelle ou le paiement d’une amende au sens des art. 22 à 24 du droit pénal des mineurs du 20 juin 2003 (DPMin)[^17-1];
+- h. cinq ans après l’expiration du délai d’épreuve en cas de sursis à l’exécution d’une amende, d’une prestation personnelle ou d’une privation de liberté au sens de l’art. 35 DPMin;
+- i. cinq ans après l’exécution d’une mesure de protection au sens des art. 12 à 14 DPMin;
+- j. dix ans après l’exécution d’une privation de liberté au sens de l’art. 25 DPMin;
+- k. dix ans après la cessation d’un placement au sens de l’art. 15 DPMin;
+- l.[^17-2] dix ans après la fin d’une interdiction d’exercer une activité au sens de l’art. 67 du code pénal, de l’art. 50 du code pénal militaire du 13 juin 1927 (CPM)[^17-3] ou de l’art. 16*a*, al. 1, DPMin;
+- m.[^17-4] dix ans après la fin d’une interdiction de contact ou d’une interdiction géographique au sens de l’art. 67*b* du code pénal, de l’art. 50*b* CPM ou de l’art. 16*a*, al. 2, DPMin.
+
+<sup>2</sup> Dans les cas visés à l’al. 1, let. c et d, les données ne sont pas effacées lorsque l’acquittement ou le non-lieu a été décidé pour cause d’irresponsabilité de l’auteur.
+
+<sup>3</sup>
+
+Toutes les données qui n’ont pas été effacées en vertu de l’al. 1 sont effacées, sous réserve d’un effacement ultérieur au sens de l’al. 4, au plus tard:
+
+- a. 30 ans après la saisie signalétique;
+- b. en cas de matériel signalétique étranger, 30 ans après sa saisie dans IPAS.
+
+<sup>4</sup> Lorsque la personne purge une peine privative de liberté, est internée, se voit appliquer une mesure thérapeutique ou a été expulsée au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^17-5] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^17-6], fedpol efface ses données 20 ans après la libération de la peine privative de liberté ou de l’internement, ou après la fin de la mesure thérapeutique en question ou de la durée d’expulsion.[^17-7]
+
+[^17-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^17-2]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
+[^17-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^17-4]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
+[^17-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^17-7]: Nouvelle teneur selon le ch. I 12 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 18
+
+**Détails de l’effacement**
+
+<sup>1</sup> S’il se révèle, au moment où les données signalétiques biométriques d’une personne déterminée doivent être effacées, que ces données sont utiles à une autre procédure menée à l’encontre de la même personne mais qu’IPAS ne contient à propos de celle-ci qu’une re-photographie ou une notice signalétique destinée à IPAS (art. 9), l’effacement effectué dans IPAS en lien avec la première procédure est consigné dans le procès-verbal de journalisation tandis que les données signalétiques biométriques sont reliées à l’autre procédure par le biais d’une remarque.
+
+<sup>2</sup> Si l’on constate, au moment de l’effacement des données signalétiques biométriques d’une personne déterminée dans IPAS, sur la base des informations qui y sont enregistrées, que ces données ont permis d’établir une concordance avec une trace, l’effacement des données est communiqué au canton possédant cette trace.
+
+#### Art. 19
+
+**Effacement soumis à autorisation**
+
+<sup>1</sup> Dans les cas visés à l’art. 17, al. 1, let. e à k, et 4, l’autorité requérante soumet l’effacement à l’approbation de l’autorité judiciaire compétente. Celle-ci peut refuser l’effacement s’il subsiste un soupçon concret relatif à un crime ou à un délit non prescrit ou s’il y a lieu de craindre une récidive.
+
+<sup>2</sup> Dès qu’elle dispose de l’approbation de l’autorité judiciaire compétente, l’autorité requérante demande au service chargé de la gestion d’AFIS d’effacer les données.
+
+<sup>3</sup> L’autorité requérante peut renoncer à demander l’approbation d’une autorité étran-gère.
+
+#### Art. 20
+
+**Effacement de traces et des données signalétiques biométriques de personnes décédées**
+
+Fedpol efface une trace et les données signalétiques biométriques d’une personne décédée et les données relatives au cas:
+
+- a. à la demande de l’autorité qui a fourni les données; celle-ci exige en particulier l’effacement sitôt que les données peuvent être attribuées à une personne dont il s’est avéré qu’elle ne pouvait être l’auteur de l’infraction;
+- b. sitôt qu’elles peuvent être attribuées à l’auteur présumé de l’infraction;
+- c. d’office après 30 ans, excepté les traces de crimes imprescriptibles.
+
+#### Art. 21
+
+**Effacement des données signalétiques biométriques saisies en dehors d’une procédure pénale**
+
+<sup>1</sup> Les données signalétiques biométriques d’une personne décédée qui ont été saisies en dehors d’une procédure pénale sont effacées dès que la personne concernée a été identifiée.
+
+<sup>2</sup> Les données signalétiques biométriques enregistrées dans AFIS conformément à l’art. 8, al. 1, let. b, ch. 2 sont maintenues dans AFIS tant que les motifs ayant conduit à l’enregistrement restent valables.
+
+<sup>3</sup> Les données saisies en dehors d’une procédure pénale sont effacées dans tous les cas après 50 ans.
+
+#### Art. 22
+
+**Communication des données à effacer**
+
+<sup>1</sup>
+
+Les autorités suivantes avertissent le service chargé de la gestion d’AFIS lorsque les conditions légales sont remplies pour l’effacement de données personnelles et de traces:
+
+- a. les autorités mentionnées à l’art. 4, let. a à e et g;
+- b. les ministères publics et les tribunaux de la Confédération et des cantons dans le cadre de procédures pénales;
+- c. les autorités d’exécution des peines et des mesures.
+
+<sup>2</sup> La communication doit être effectuée par voie électronique dans les 30 jours suivant l’apparition ou la prise de connaissance de l’événement justifiant l’effacement.
+
+<sup>3</sup> Les cantons désignent un service central chargé d’effectuer la communication.
+
+#### Art. 23
+
+**Traitement des communications d’effacement**
+
+Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
+
+[^23-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+
+## Section 6 Dispositions finales
+
+#### Art. 24
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 21 novembre 2001 sur le traitement des données signalétiques biométriques[^24-1] est abrogée.
+
+[^24-1]: [[RO 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30), [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307)[4813](https://fedlex.data.admin.ch/eli/oc/2004/728)annexe ch. 11, [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171)[1945](https://fedlex.data.admin.ch/eli/oc/2006/303)annexe 3 ch. 7, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I 13]
+
+#### Art. 25
+
+**Modification d’autres actes**
+
+La modification d’autres actes est réglée en annexe.
+
+#### Art. 26
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les données signalétiques biométriques saisies dans AFIS avant l’entrée en vigueur de la présente ordonnance sont effacées à la demande de la personne concernée pour les motifs énoncés à l’art. 17, al. 1, let. a et c à k; l’art. 17, al. 2 à 4 s’applique par analogie.
+
+<sup>2</sup> Si des données dactyloscopiques ayant été saisies avant l’entrée en vigueur de la présente ordonnance sont accompagnées d’un profil d’ADN, l’effacement de ce profil implique celui des données dactyloscopiques qui y sont liées.
+
+#### Art. 27
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2014.
+
+Annexe
+
+(art. 25)
+
+## Modification d’autres actes
+
+Les ordonnances mentionnées ci-après sont modifiées comme suit:
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23).

@@ -1,0 +1,342 @@
+---
+sr: "414.110.37"
+title: Verordnung des ETH-Rates vom 13. November 2003 über die Eidgenössischen Technischen Hochschulen Zürich und Lausanne (ETHZ-ETHL-Verordnung)
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/17"
+language: de
+version: 2009-05-01
+adopted: 2003-11-13
+in_force: 2004-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20090501/de/xml/fedlex-data-admin-ch-eli-cc-2004-17-20090501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des ETH-Rates über die Eidgenössischen Technischen Hochschulen Zürich und Lausanne
+
+(ETHZ-ETHL-Verordnung)
+
+vom 13. November 2003 (Stand am 1. Mai 2009)
+
+Der ETH-Rat,
+
+gestützt auf die Artikel 27 Absatz 2 und 32 Absatz 4 des ETH-Gesetzes vom 4. Oktober 1991[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+## 1. Abschnitt: Geltungsbereich
+
+#### Art. 1
+
+Diese Verordnung gilt für:
+
+- a. die Eidgenössische Technische Hochschule Zürich (ETHZ);
+- b. die Eidgenössische Technische Hochschule Lausanne (ETHL).
+
+## 2. Abschnitt: Schulleitung
+
+#### Art. 2
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Schulleitungen der ETH bestehen je aus dem Präsidenten oder der Präsidentin und den ihm oder ihr unterstellten übrigen Mitgliedern der Schulleitung.
+
+<sup>2</sup> Der Präsident oder die Präsidentin schlägt die übrigen Mitglieder der Schulleitung zur Wahl vor.
+
+#### Art. 3
+
+**Aufgaben**
+
+<sup>1</sup>
+
+Die Schulleitung hat folgende Aufgaben:
+
+- a. Sie beschliesst über die Organisation der Schule, namentlich über die Errichtung und Aufhebung, über die Aufgaben und über die Organisation der einzelnen Unterrichts- und Forschungseinheiten sowie der weiteren Einheiten.
+- b. Sie erlässt die Verordnungen zum Studium.
+- c. Sie ist verantwortlich für die Qualitätssicherung, namentlich für die Evaluation von Lehre, Forschung und Dienstleistungen.
+
+<sup>2</sup> Sie ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend sind. Beschlüsse fasst sie mit dem einfachen Mehr der anwesenden Mitglieder. Bei Stimmengleichheit hat der Präsident oder die Präsidentin den Stichentscheid.
+
+<sup>3</sup> Bei Geschäften, die nicht in Absatz 1 genannt sind, entscheidet der Präsident oder die Präsidentin.
+
+## 3. Abschnitt: Hochschulangehörige
+
+#### Art. 4
+
+**Bezeichnung der akademischen Mitarbeiter und Mitarbeiterinnen in Lehre und Forschung**
+
+Die Bezeichnung der akademischen Mitarbeiter und Mitarbeiterinnen in Lehre und Forschung ist im Anhang festgelegt.
+
+#### Art. 5
+
+**Leitende wissenschaftliche Mitarbeiter und Mitarbeiterinnen, höhere wissenschaftliche Mitarbeiter und Mitarbeiterinnen**
+
+Die Schulleitungen können zu leitenden wissenschaftlichen Mitarbeitern und Mitarbeiterinnen (maître d’enseignement et de recherche) und zu höheren wissenschaftlichen Mitarbeitern und Mitarbeiterinnen Personen ernennen, die eine akademische Laufbahn auf hohem Niveau absolviert haben und besonders qualifizierte Leistungen in Lehre und Forschung erbringen.
+
+#### Art. 6
+
+**Wissenschaftliche Mitarbeiter und Mitarbeiterinnen**
+
+<sup>1</sup> Wissenschaftliche Mitarbeiter und Mitarbeiterinnen müssen ein Hochschulstudium abgeschlossen haben.
+
+<sup>2</sup> Sie führen Arbeiten in Lehre und Forschung aus.
+
+#### Art. 7
+
+**Administrative und technische Mitarbeiter und Mitarbeiterinnen**
+
+Administrative und technische Mitarbeiter und Mitarbeiterinnen führen unterstützende Aufgaben in Lehre, Forschung oder in der Administration aus.
+
+#### Art. 8
+
+**Assistenten und Assistentinnen**
+
+<sup>1</sup> Assistenten und Assistentinnen müssen ein Hochschulstudium abgeschlossen haben.
+
+<sup>2</sup> Sie stehen zu einer ETH in einem befristeten öffentlich-rechtlichen Anstellungsverhältnis.
+
+<sup>3</sup> Sie unterstützen das vorgesetzte Mitglied des Lehrkörpers in Lehre und Forschung und vertiefen das eigene Fachwissen.
+
+#### Art. 9
+
+**Titularprofessoren und Titularprofessorinnen**
+
+<sup>1</sup> Die Präsidenten oder Präsidentinnen der ETH können Privatdozenten und Privatdozentinnen, leitende wissenschaftliche Mitarbeiter und Mitarbeiterinnen sowie Lehrbeauftragte, die sich durch akademische Leistungen besonders ausgezeichnet haben und im ETH-Bereich tätig sind, als Titularprofessoren oder Titularprofessorinnen vorschlagen.
+
+<sup>2</sup> Die Direktoren oder Direktorinnen der Forschungsanstalten können den ETH Nominierungen von Personen vorschlagen, die an ihren Anstalten tätig sind und zugleich an einer ETH eine in Absatz 1 erwähnte Funktion innehaben.
+
+#### Art. 10
+
+**Privatdozenten und Privatdozentinnen**
+
+<sup>1</sup> Wer sich über besondere Eignung in Lehre und Forschung ausweist, kann sich als Privatdozent oder Privatdozentin habilitieren. Er oder sie erhält von der ETH die Venia Legendi, die dazu berechtigt, in einem bestimmten Unterrichtsgebiet freie Lehrveranstaltungen zu halten.
+
+<sup>2</sup> Die Venia Legendi kann entzogen werden, wenn der Privatdozent oder die Privatdozentin zwei Jahre lang keine Vorlesung auf dem entsprechenden Fachgebiet gehalten hat oder wenn er oder sie Pflichten verletzt hat. Sie erlischt mit dem Ablauf des Semesters, in welchem der Privatdozent oder die Privatdozentin das 65. Altersjahr vollendet.
+
+<sup>3</sup> Die ETH regeln das Verfahren zur Erteilung und zum Entzug der Venia Legendi.
+
+<sup>4</sup> Die ETH können den Privatdozenten und Privatdozentinnen für ihre Lehrveranstaltungen ein Honorar ausrichten; für Lehraufträge gelten die Bestimmungen von Artikel 17*a* ETH-Gesetz.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I der V des ETH-Rats vom 11. März 2009, in Kraft seit 1. Mai 2009 ([AS 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
+
+#### Art. 11
+
+**Lehrbeauftragte**
+
+<sup>1</sup> Die ETH können für den Unterricht Lehrbeauftragte beiziehen.
+
+<sup>2</sup> Sie erteilen die Lehraufträge für jedes Semester.
+
+<sup>3</sup> ...[^11-1]
+
+[^11-1]: Aufgehoben durch Ziff. I der V des ETH-Rats vom 11. März 2009, mit Wirkung seit 1. Mai 2009 ([AS 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
+
+#### Art. 12
+
+**Gastprofessoren und Gastprofessorinnen, Gastdozenten und Gastdozentinnen**
+
+<sup>1</sup> Die ETH können Wissenschafter und Wissenschafterinnen einladen, bei ihnen als Gäste in Lehre und Forschung tätig zu sein.
+
+<sup>2</sup> Die Schulleitungen der ETH können sie als Gastprofessoren oder Gastprofessorinnen beziehungsweise als Gastdozenten oder Gastdozentinnen bezeichnen.
+
+<sup>3</sup> Die ETH können sie für ihre Tätigkeit entschädigen. Bei der Festsetzung der Entschädigung sind die Bezüge an der Hochschule oder sonstigen Arbeitsstelle des Gastes zu berücksichtigen.
+
+<sup>4</sup> Für Lehraufträge gelten die Bestimmungen von Artikel 17*a* ETH-Gesetz.[^12-1]
+
+[^12-1]: Eingefügt durch Ziff. I der V des ETH-Rats vom 11. März 2009, in Kraft seit 1. Mai 2009 ([AS 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
+
+#### Art. 13
+
+[^13-1]
+
+[^13-1]: Aufgehoben durch Ziff. I der V des ETH-Rats vom 11. März 2009, mit Wirkung seit 1. Mai 2009 ([AS 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
+
+#### Art. 14
+
+**Doktoranden und Doktorandinnen**
+
+Doktoranden und Doktorandinnen sind an einer ETH eingeschrieben, um im Rahmen eines Studienganges das Doktorat zu erwerben.
+
+#### Art. 15
+
+**Studierende sowie Hörer und Hörerinnen**
+
+<sup>1</sup> Studierende sind an einer ETH eingeschrieben, um im Rahmen eines Studienganges, eines Austausches oder einer Weiterbildung ein ETH-Diplom, ein eidgenössisches Diplom, einen Bachelor- oder Mastertitel oder ein Zertifikat zu erwerben.
+
+<sup>2</sup> Hörer und Hörerinnen sind an einer ETH eingeschrieben, um Lehrveranstaltungen besuchen zu können, ohne ein Diplom oder ein Zertifikat zu erwerben.
+
+#### Art. 16
+
+**Disziplinarrecht**
+
+Die Studierenden, die Hörer und Hörerinnen und die Doktoranden und Doktorandinnen unterstehen der von den Schulleitungen erlassenen Disziplinarordnung.
+
+## 4. Abschnitt: Mitwirkung
+
+#### Art. 17
+
+**Gruppen der Hochschulangehörigen**
+
+<sup>1</sup>
+
+Zur Wahrnehmung ihrer Mitwirkungsrechte an den ETH bilden die folgenden Hochschulangehörigen je eine Gruppe:
+
+- a.
+
+  die Mitglieder des Lehrkörpers:
+
+  - 1\. die ordentlichen Professoren und Professorinnen,
+  - 2\. die ausserordentlichen Professoren und Professorinnen,
+  - 3\. die Tenure-Track-Assistenzprofessoren und Tenure-Track-Assistenzprofessorinnen,
+  - 4\. die Assistenzprofessoren und Assistenzprofessorinnen,
+  - 5\. die leitenden wissenschaftlichen Mitarbeiter und Mitarbeiterinnen,
+  - 6\. die Titularprofessoren und Titularprofessorinnen,
+  - 7\. die Privatdozenten und Privatdozentinnen,
+  - 8\. die Lehrbeauftragten,
+  - 9\. die Gastprofessoren und Gastprofessorinnen,
+  - 10\. die Gastdozenten und Gastdozentinnen;
+
+- b.
+
+  die Mitglieder des akademischen Mittelbaus, soweit sie keinen Lehrauftrag haben:
+
+  - 1\. die höheren wissenschaftlichen Mitarbeiter und Mitarbeiterinnen,
+  - 2\. die wissenschaftlichen Mitarbeiter und Mitarbeiterinnen,
+  - 3\. die Assistenten und Assistentinnen,
+  - 4\. die Doktoranden und Doktorandinnen,;
+
+- c. die Studierenden und die Hörer und Hörerinnen;
+- d. die administrativen und die technischen Mitarbeiter und Mitarbeiterinnen.
+
+<sup>2</sup> Die Hochschulangehörigen können nur in einer Gruppe mitwirken.
+
+<sup>3</sup> Wird eine Gruppe durch keine oder durch mehrere Organisationen vertreten, so bestimmt die Schulleitung die Mitwirkung in Zusammenarbeit mit der Hochschulversammlung. Sie sorgt ausserdem dafür, dass alle Angehörigen einer Gruppe ihre Mitwirkungsrechte ausüben können, auch wenn sie keiner entsprechenden Organisation angehören.
+
+#### Art. 18
+
+**Hochschulversammlung**
+
+<sup>1</sup> Die Hochschulversammlung setzt sich paritätisch aus jeweils mehreren Vertretern und Vertreterinnen der Gruppen der Hochschulangehörigen zusammen.
+
+<sup>2</sup> Die Gruppen wählen ihre Vertreter und Vertreterinnen selbst.
+
+<sup>3</sup> Die Hochschulversammlung gibt sich eine Geschäftsordnung und wählt ihren Präsidenten oder ihre Präsidentin sowie ihre Organe.
+
+#### Art. 19
+
+**Umfang der Mitwirkung**
+
+<sup>1</sup> Der ETH-Rat und die Schulleitungen konsultieren die Gruppen der Hochschulangehörigen und die Hochschulversammlungen sowie die betroffenen Unterrichts- und Forschungseinheiten, bevor sie Beschlüsse von allgemeinem Interesse für die ETH fassen.
+
+<sup>2</sup> Die Schulleitungen konsultieren die Gruppen der Hochschulangehörigen und die Hochschulversammlung sowie die betroffenen Unterrichts- und Forschungseinheiten, bevor sie Beschlüsse fassen über die Schaffung und Aufhebung von Unterrichts- und Forschungseinheiten, über Strukturfragen und über Ausbildungsmethoden.
+
+<sup>3</sup> Die Schulleitungen konsultieren die betroffenen Unterrichts- und Forschungseinheiten bevor sie Beschlüsse fassen über Studiengänge und Prüfungsordnungen.
+
+<sup>4</sup> Im Bereich der Planung wirken Vertreter oder Vertreterinnen der Gruppen der Hochschulangehörigen in den Gremien der ETH mit, die die Planung vorbereiten.
+
+#### Art. 20
+
+**Verfahren der Mitwirkung**
+
+<sup>1</sup> Die Schulleitung sorgt durch umfassende Information dafür, dass die Gruppen der Hochschulangehörigen ihre Mitwirkungsrechte ausüben können.
+
+<sup>2</sup> Der ETH-Rat konsultiert die Gruppen der Hochschulangehörigen und die Hochschulversammlungen über die Schulleitungen. Diese überweisen deren Stellungnahmen dem ETH-Rat.
+
+#### Art. 21
+
+**Zusammenarbeit mit Personalverbänden**
+
+Die ETH arbeiten in Personalfragen mit den Personalverbänden zusammen. Die Zusammenarbeit richtet sich nach den Vereinbarungen gemäss Artikel 13 der Personalverordnung ETH-Bereich vom 15. März 2001[^21-1].
+
+[^21-1]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+
+## 5. Abschnitt: Lehre und Forschung
+
+#### Art. 22
+
+**Unterrichts- und Forschungseinheiten**
+
+<sup>1</sup> Zur Erfüllung ihrer Lehr-, Forschungs- und Dienstleistungsaufgaben gliedern sich die ETH in Unterrichts- und Forschungseinheiten.
+
+<sup>2</sup> Die Unterrichts- und Forschungseinheiten sind zuständig für die Lehre und Forschung und stellen die Dienstleistungen in ihren Fachgebieten sicher.
+
+<sup>3</sup> Die Schulleitung kann weitere Einheiten bilden.
+
+#### Art. 23
+
+**Koordination**
+
+<sup>1</sup>
+
+Die ETH koordinieren ihre Tätigkeiten in Lehre und Forschung untereinander und mit den Forschungsanstalten. Sie koordinieren namentlich:
+
+- a. die Zulassungsbedingungen zum Studium;
+- b. die Studiengänge;
+- c. die akademischen Titel;
+- d. den akademischen Kalender.
+
+<sup>2</sup> Sie hören einander vor dem Erlass von Verordnungen zum Studium an.
+
+#### Art. 24
+
+**Akademische Titel**
+
+<sup>1</sup>
+
+Die ETH können folgende akademische Titel verleihen:
+
+- a. Diplom (Dipl. «Fach» ETH);
+- b. Bachelor (Bachelor «Fach» ETH Zürich bzw. ETH Lausanne);
+- c. Master (Master «Fach» ETH Zürich bzw. ETH Lausanne);
+- d. Doktor (Dr. sc. ETH Zürich bzw. Dr. sc. ETH Lausanne).
+
+<sup>2</sup> Die ETH führen ein gemeinsames Titelregister.
+
+#### Art. 25
+
+**Stipendien, Darlehen und Gebührenerlass**
+
+<sup>1</sup> Die Schulleitungen können aus ihren Mitteln Stipendien und Darlehen gewähren.
+
+<sup>2</sup> Sie können Stipendiaten und Stipendiatinnen sowie bedürftigen Studierenden Schulgeld und Gebühren erlassen.
+
+<sup>3</sup> Eine Verordnung der Schulleitungen regelt das Nähere.
+
+#### Art. 26
+
+**Professurenplanung**
+
+<sup>1</sup> Der Präsident oder die Präsidentin jeder ETH legt dem ETH-Rat halbjährlich die Professurenplanung zur Kenntnisnahme vor.
+
+<sup>2</sup> Die Professurenplanung nimmt Bezug auf die strategische Planung und auf den Entwicklungsplan der betroffenen ETH.
+
+## 6. Abschnitt: Schlussbestimmung
+
+#### Art. 27
+
+Diese Verordnung tritt am 1. Januar 2004 in Kraft.
+
+Anhang
+
+(Art. 4)
+
+## Bezeichnung der akademischen Mitarbeiter und Mitarbeiterinnen in Lehre und Forschung
+
+<table>
+<tr><td>Deutsch</td><td>Französisch</td><td>Italienisch</td><td>Englisch</td></tr>
+<tr><td>ordentlicher Professor/ ordentliche Professorin</td><td>professeur ordinaire</td><td>professore ordinario/ professoressa ordinaria</td><td>full professor</td></tr>
+<tr><td>ausserordentlicher Professor/ ausserordentliche Professorin</td><td>professeur associé</td><td>professore straordinario/professoressa straordinaria</td><td>associate professor</td></tr>
+<tr><td>Tenure-Track-Assistenzprofessor/Tenure-Track-Assistenzprofessorin</td><td>professeur assistant tenure track</td><td>professore assistente tenure track/professoressa assistente tenure track</td><td>tenure track assistant professor</td></tr>
+<tr><td>Assistenzprofessor/ Assistenzprofessorin</td><td>professeur assistant</td><td>professore assistente/ professoressa assistente</td><td>assistant professor</td></tr>
+<tr><td>leitender wissenschaftlicher Mitarbeiter/leitende wissenschaftliche Mitarbeiterin</td><td>maître d’enseignement et de recherche</td><td>collaboratore scientifico con funzioni direttive/collaboratrice scientifica con funzioni direttive</td><td>senior scientist</td></tr>
+<tr><td>Höherer wissenschaftlicher Mitarbeiter/höhere wissenschaftliche Mitarbeiterin</td><td>collaborateur scientifique senior</td><td>collaboratore scientifico superiore/collaboratrice scientifica superiore</td><td>research and teaching associate</td></tr>
+<tr><td>wissenschaftlicher Mitarbeiter/ wissenschaftliche Mitarbeiterin</td><td>collaborateur scientifique</td><td>collaboratore scientifico/collaboratrice scientifica</td><td>scientist</td></tr>
+<tr><td>Assistent/Assistentin</td><td>assistant</td><td>Assistente</td><td>assistant</td></tr>
+<tr><td>Titularprofessor/ Titularprofessorin</td><td>professeur titulaire</td><td>professore titolare/ professoressa titolare</td><td>adjunct professor</td></tr>
+<tr><td>Privatdozent/Privatdozentin</td><td>privatdocent</td><td>libero docente/libera docente</td><td>privat docent</td></tr>
+<tr><td>Lehrbeauftragter/Lehrbeauftragte</td><td>chargé de cours</td><td>incaricato di corsi/ incaricata di corsi</td><td>lecturer</td></tr>
+<tr><td>Gastprofessor/Gastprofessorin</td><td>professeur invité</td><td>professore invitato/ professoressa invitata</td><td>visiting professor</td></tr>
+<tr><td>Gastdozent/Gastdozentin</td><td>hôte académique</td><td>docente ospite</td><td>guest lecturer</td></tr>
+</table>

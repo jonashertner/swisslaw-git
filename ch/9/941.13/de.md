@@ -1,0 +1,130 @@
+---
+sr: "941.13"
+title: "Bundesgesetz vom 19. März 2004 über die internationale Währungshilfe (Währungshilfegesetz, WHG)"
+short: WHG
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/625"
+language: de
+version: 2017-11-01
+adopted: 2004-03-19
+in_force: 2004-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/625/20171101/de/xml/fedlex-data-admin-ch-eli-cc-2004-625-20171101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/625/20171101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die internationale Währungshilfe
+
+(Währungshilfegesetz, WHG)
+
+vom 19. März 2004 (Stand am 1. November 2017)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 54 Absatz 1 und 99 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 21. Mai 2003[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2003 4775](https://fedlex.data.admin.ch/eli/fga/2003/720)
+
+#### Art. 1
+
+**Grundsatz**
+
+<sup>1</sup> Um die Stabilität der internationalen Währungs- und Finanzbeziehungen zu erhalten und zu fördern, kann der Bund im Rahmen der bewilligten Kredite internationalen Organisationen, einzelnen Staaten und Staatengruppen Währungshilfe leisten.
+
+<sup>2</sup> Die Währungshilfe kann in Form von Darlehen, Garantieverpflichtungen und À‑fonds-perdu-Beiträgen geleistet werden.
+
+#### Art. 2
+
+**Währungshilfe bei Störungen des internationalen Währungssystems**
+
+<sup>1</sup> Der Bund kann an multilateralen Hilfsaktionen zur Verhütung oder Behebung ernsthafter Störungen des internationalen Währungssystems mitwirken.
+
+<sup>2</sup> …[^2-1]
+
+<sup>3</sup> Die maximale Laufzeit von Darlehen oder Garantieverpflichtungen beträgt in der Regel zehn Jahre.[^2-2]
+
+[^2-1]: Aufgehoben durch Ziff. I des BG vom 16. Juni 2017, mit Wirkung seit 1. Nov. 2017 ([AS 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [BBl 2016 8049](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
+[^2-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [BBl 2016 8049](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
+
+#### Art. 3
+
+**Besondere Beteiligungen im Rahmen des Internationalen Währungsfonds**
+
+Der Bund kann sich, insbesondere zu Gunsten einkommensschwacher Staaten, an Spezialfonds und anderen Einrichtungen des Internationalen Währungsfonds beteiligen.
+
+#### Art. 4
+
+**Währungshilfe zu Gunsten einzelner Staaten**
+
+<sup>1</sup> Der Bund kann einem einzelnen Staat kurz- oder mittelfristige Währungshilfe leisten, wenn dieser Staat im Bereich der Währungs- und Wirtschaftspolitik besonders eng mit der Schweiz zusammenarbeitet.
+
+<sup>2</sup> Er kann einem einzelnen Staat auch im Rahmen mittel- oder längerfristiger, international koordinierter Stützungsaktionen Währungshilfe leisten.
+
+<sup>3</sup> Die Leistungen sollen in erster Linie Staaten mit mittlerem und tiefem Einkommen zugute kommen, die unter aussenwirtschaftlichem oder strukturellem Anpassungsdruck stehen.
+
+#### Art. 5
+
+**Befugnisse des Bundesrates**
+
+<sup>1</sup>
+
+Sind die Voraussetzungen einer Währungshilfe erfüllt, so ist der Bundesrat ermächtigt:
+
+- a. im Rahmen der bewilligten Kredite Darlehen zu gewähren, Garantieverpflichtungen einzugehen und À-fonds-perdu-Beiträge zu leisten;
+- b. mit internationalen Organisationen, einzelnen Staaten und Staatengruppen entsprechende Vereinbarungen abzuschliessen.
+
+<sup>2</sup> Der Bundesrat kann die Schweizerische Nationalbank (SNB) zum Abschluss der Vereinbarungen ermächtigen, sofern sie die Darlehen und Garantien gewährt.
+
+#### Art. 6
+
+**Mitwirkung der SNB**[^6-1]
+
+<sup>1</sup> Im Fall von Artikel 2 Absatz 1 kann der Bundesrat die SNB mit der Darlehens- oder Garantiegewährung beauftragen.
+
+<sup>2</sup> Er kann der SNB den Antrag stellen, die Darlehensgewährung nach Artikel 3 zu übernehmen. Stellt er einen solchen Antrag, so unterbreitet er der Bundesversammlung das Verpflichtungskreditbegehren nach Artikel 8 Absatz 2 erst, wenn er die Zustimmung der SNB erhalten hat.
+
+<sup>3</sup> Sind die Voraussetzungen einer Währungshilfe nach Artikel 4 erfüllt, so kann der Bundesrat der SNB den Antrag stellen, die Darlehens- oder Garantiegewährung zu übernehmen.
+
+<sup>4</sup> Der Bund garantiert der SNB die fristgerechte Erfüllung der von ihr abgeschlossenen Vereinbarungen.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [BBl 2016 8049](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
+
+#### Art. 7
+
+**Koordination**
+
+Der Bundesrat koordiniert in enger Absprache mit der SNB die Vorbereitung und Durchführung der Währungshilfemassnahmen.
+
+#### Art. 8
+
+**Finanzierung**
+
+<sup>1</sup> Die Bundesversammlung bewilligt für Hilfeleistungen nach den Artikeln 2 und 4 mit einfachem Bundesbeschluss einen Rahmenkredit. Zurückfliessende Darlehen und verlustfrei erloschene Garantien dürfen wieder angerechnet werden.
+
+<sup>2</sup> Für Beteiligungen nach Artikel 3 ist nach Massgabe von Artikel 21 des Finanzhaushaltgesetzes vom 7. Oktober 2005[^8-1] ein Verpflichtungskredit einzuholen.[^8-2]
+
+[^8-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^8-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5567](https://fedlex.data.admin.ch/eli/oc/2017/600); [BBl 2016 8049](https://fedlex.data.admin.ch/eli/fga/2016/1788)).
+
+#### Art. 9
+
+**Aufhebung bisherigen Rechts**
+
+Der Bundesbeschluss vom 20. März 1975[^9-1] über die Mitwirkung der Schweiz an internationalen Währungsmassnahmen wird aufgehoben.
+
+[^9-1]: [[AS 1975 1293](https://fedlex.data.admin.ch/eli/oc/1975/1293_1293_1293), [1980 325](https://fedlex.data.admin.ch/eli/oc/1980/325_325_325), [1985 1036](https://fedlex.data.admin.ch/eli/oc/1985/1036_1036_1036), [1995 3658](https://fedlex.data.admin.ch/eli/oc/1995/3658_3658_3658), [1999 2889](https://fedlex.data.admin.ch/eli/oc/1999/455)]
+
+#### Art. 10
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: 1. Oktober 2004[^10-1]
+
+[^10-1]: BRB vom 9. Sept. 2004

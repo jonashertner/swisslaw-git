@@ -1,0 +1,412 @@
+---
+sr: "0.232.143.1"
+title: Accordo di Strasburgo del 24 marzo 1971 sulla classificazione internazionale dei brevetti
+eli: "https://fedlex.data.admin.ch/eli/cc/1975/1814_1814_1814"
+language: it
+version: 2013-05-03
+adopted: 1971-03-24
+in_force: 1975-10-07
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1814_1814_1814/20130503/it/xml/fedlex-data-admin-ch-eli-cc-1975-1814_1814_1814-20130503-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1814_1814_1814/20130503/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo di Strasburgo sulla classificazione internazionale dei brevetti
+
+RU **1975** 1814; FF **1972** I 537
+
+Traduzione*[^t-1]*
+
+Conchiuso a Strasburgo il 24 marzo 1971 Approvato dall’Assemblea federale il 3 ottobre 1972[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 20 dicembre 1972 Entrato in vigore per la Svizzera il 7 ottobre 1975
+
+(Stato 3 maggio 2013)
+
+[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: [RU 1975 1813](https://fedlex.data.admin.ch/eli/oc/1975/1813_1813_1813)
+
+Le Parti Contraenti,
+
+Considerando che l’adozione, sul piano mondiale, di un sistema uniforme per la classificazione dei brevetti, dei certificati d’autore d’invenzione, dei modelli d’utilità e dei certificati d’utilità è d’interesse generale e atta a stabilire una più stretta cooperazione internazionale nonché a favorire l’armonizzazione dei sistemi giuridici nel campo della proprietà industriale;
+
+Riconoscendo l’importanza della Convenzione europea sulla classificazione internazionale dei brevetti d’invenzione, del 19 dicembre 1954[^ingress-1] con la quale il Consiglio d’Europa ha istituito la classificazione internazionale dei brevetti d’invenzione;
+
+Tenuto conto del valore universale di questa classificazione e dell’importanza che essa riveste per tutti i paesi facenti parte della Convenzione di Parigi per la protezione della proprietà industriale[^ingress-2];
+
+Consapevoli dell’importanza che questa classificazione presenta per i paesi in via di sviluppo, aiutandoli ad accedere alla tecnologia moderna, in costante progresso;
+
+Visto l’articolo 19 della Convenzione di Parigi per la protezione della proprietà industriale del 20 marzo 1883[^ingress-3], riveduta a Bruxelles il 14 dicembre 1900[^ingress-4], a Washington il 2 giugno 1911[^ingress-5], all’Aia il 6 novembre 1925[^ingress-6], a Londra il 2 giugno 1934[^ingress-7], a Lisbona il 31 ottobre 1958[^ingress-8] e a Stoccolma il 14 luglio 1967[^ingress-9],
+
+hanno convenuto quanto segue:
+
+[^ingress-1]: [[RU 1967 899](https://fedlex.data.admin.ch/eli/oc/1967/866_908_899), [1968 1320](https://fedlex.data.admin.ch/eli/oc/1968/1356_1403_1320), [RU 1975 1830](https://fedlex.data.admin.ch/eli/oc/1975/1830_1830_1830)]
+[^ingress-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^ingress-3]: [RU **7** 517 **16** 365]
+[^ingress-4]: [RU **19** 213]
+[^ingress-5]: [CS **11** 929]
+[^ingress-6]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)
+[^ingress-7]: [RS 0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
+[^ingress-8]: [RS 0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127)
+[^ingress-9]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+
+#### Art. 1
+
+**Istituzione di una Unione particolare; Adozione di una classificazione internazionale**
+
+I paesi ai quali si applica il presente accordo sono costituiti in Unione particolare e adottano una classificazione comune, chiamata «classificazione internazionale dei brevetti» (denominata in seguito «classificazione internazionale»), per i brevetti d’invenzione, i certificati d’autore d’invenzione, i modelli d’utilità e i certificati d’utilità.
+
+#### Art. 2
+
+**Definizione della classificazione**
+
+- 1) a)
+
+  La classificazione consta:
+
+  - i) del testo che è stato stabilito in conformità alle disposizioni della Convenzione europea sulla classificazione dei brevetti d’invenzione del 19 dicembre 1954[^2-1] (denominata in seguito «Convenzione europea») e che è entrato in vigore ed è stato pubblicato dal Segretario generale del Consiglio d’Europa il 1° settembre 1968;
+  - ii) delle modificazioni che son entrate in vigore in virtù dell’articolo 2.2) della Convenzione europea prima dell’entrata in vigore del presente accordo;
+  - iii) delle modificazioni apportate in seguito in virtù dell’articolo 5 e che entrano in vigore conformemente all’articolo 6.
+
+- b) La guida d’utilizzazione e le note contenute nel testo della classificazione sono parti integranti della medesima.
+- 2) a) Il testo di cui all’alinea 1) a) i) è contenuto nei due esemplari autentici, nelle lingue inglese e francese, depositati, nel momento in cui il presente accordo è aperto alla firma, l’uno presso il Segretario generale del Consiglio d’Europa e l’altro presso il Direttore generale dell’Organizzazione Mondiale della Proprietà Intellettuale (denominati in seguito rispettivamente «Direttore generale» e «Organizzazione») istituita dalla Convenzione del 14 luglio 1967[^2-2].
+- b) Le modificazioni di cui all’alinea 1) a) ii) sono depositate in due esemplari autentici, nelle lingue inglese e francese, l’uno presso il Segretario generale del Consiglio d’Europa e l’altro presso il Direttore generale.
+- c) Le modificazioni di cui all’alinea 1) a) iii) sono depositate in un solo esemplare, autentico, nelle lingue inglese e francese, presso il Direttore generale.
+
+[^2-1]: [[RU 1967 899](https://fedlex.data.admin.ch/eli/oc/1967/866_908_899), [1968 1320](https://fedlex.data.admin.ch/eli/oc/1968/1356_1403_1320). [RU 1975 1830](https://fedlex.data.admin.ch/eli/oc/1975/1830_1830_1830)]
+[^2-2]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
+
+#### Art. 3
+
+**Lingue della classificazione**
+
+\1) La classificazione è redatta nelle lingue inglese e francese, i due testi facendo egualmente fede.
+
+\2) L’Ufficio internazionale dell’Organizzazione (denominato in seguito «Ufficio internazionale»), previa consultazione dei governi interessati e sulla base di una traduzione proposta da questi governi o ricorrendo a qualsiasi altro mezzo che non abbia incidenze finanziarie sul bilancio dell’Unione particolare o sull’Organizzazione, redige dei testi ufficiali nelle lingue tedesca, spagnola, giapponese, portoghese, russa e nelle altre lingue che l’Assemblea, di cui all’articolo 7, potrà designare.
+
+#### Art. 4
+
+**Applicazione della classificazione**
+
+\1) La classificazione ha carattere esclusivamente amministrativo.
+
+\2) Ciascun paese dell’Unione particolare ha la facoltà di applicare la classificazione come sistema principale o come sistema ausiliario.
+
+\3) Le amministrazioni competenti dei paesi dell’Unione particolare faranno figurare
+
+i simboli completi della classificazione attribuiti all’invenzione che forma oggetto del documento citato nel comma i).
+
+\5) I simboli della classificazione, preceduti dalla menzione «classificazione internazionale dei brevetti» o da un’abbreviazione stabilita dal Comitato di esperti di cui all’articolo 5, saranno stampati, in caratteri neri o in altro modo ben visibile, nel margine in alto di ogni documento di cui all’alinea 3) i) nel quale devono figurare.
+
+\6) Se un paese dell’Unione particolare affida il rilascio dei brevetti ad un’amministrazione intergovernativa, esso deve prendere tutti i provvedimenti di sua competenza affinché la detta amministrazione applichi la classificazione conformemente al presente articolo.
+
+- i) nei brevetti, certificati d’autore d’invenzione, modelli d’utilità e certificati d’utilità da esse rilasciati, nonché nelle domande di tali titoli di protezione, siano esse pubblicate o soltanto messe a disposizione del pubblico per consultazione,
+- ii) nelle comunicazioni con le quali i periodici ufficiali rendono nota la pubblicazione o la messa a disposizione del pubblico dei documenti citati nel comma i),
+
+\4) All’atto della firma del presente accordo o del deposito dello strumento di ratifica o di adesione:
+
+- i) ciascun paese può dichiarare che si riserva di non far figurare i simboli dei gruppi o sottogruppi della classificazione nelle domande di cui all’alinea 3), unicamente messe a disposizione del pubblico per consultazione, né nelle relative comunicazioni;
+- ii) ciascun paese che non procede all’esame, immediato o differito, della novità delle invenzioni e la cui procedura di rilascio dei brevetti o di altri titoli di protezione non prevede una ricerca sullo stato della tecnica, può dichiarare che si riserva di non far figurare i simboli dei gruppi e sottogruppi della classificazione dei documenti e nelle comunicazioni di cui all’alinea 3). Se queste condizioni si verificano soltanto per talune categorie di titoli di protezione o per taluni rami della tecnica, tale paese può far uso della riserva soltanto entro questi limiti.
+
+#### Art. 5
+
+**Comitato di esperti**
+
+\1) È istituito un Comitato di esperti nel quale ciascun paese dell’Unione particolare è rappresentato.
+
+\4) Il Comitato di esperti adotta il suo regolamento interno. Questo regolamento dà alle organizzazioni intergovernative citate nell’alinea 2) a) che sono in grado di fornire un contributo sostanziale allo sviluppo della classificazione la possibilità di partecipare alle riunioni dei sottocomitati e dei gruppi di lavoro del Comitato di esperti.
+
+\5) Proposte di modificazioni della classificazione possono essere avanzate dall’amministrazione competente di qualsiasi paese dell’Unione particolare, dall’Ufficio internazionale, dalle organizzazioni intergovernative rappresentate nel Comitato di esperti in virtù dell’alinea 2) a) e da tutte le altre organizzazioni espressamente invitate dal Comitato di esperti a formulare tali proposte. Le proposte sono comunicate all’Ufficio internazionale, che le sottopone ai membri del Comitato di esperti e agli osservatori almeno due mesi prima della sessione del Comitato di esperti nella quale esse saranno esaminate.
+
+- 2) a) Il Direttore generale invita le organizzazioni intergovernative specializzate nel ramo dei brevetti che hanno fra i loro membri almeno un paese facente parte del presente accordo a farsi rappresentare da osservatori alle riunioni del Comitato di esperti.
+- b) Il Direttore generale può, e, a richiesta del Comitato di esperti, deve invitare rappresentanti di altre organizzazioni intergovernative e internazionali non governative a partecipare alle discussioni alle quali dette organizzazioni sono interessate.
+
+\3) Il Comitato di esperti:
+
+- i) modifica la classificazione;
+- ii) rivolge ai paesi dell’Unione particolare delle raccomandazioni tendenti a facilitare l’utilizzazione della classificazione e a promuoverne l’applicazione uniforme;
+- iii) presta la sua assistenza per promuovere la cooperazione nella riclassificazione della documentazione che serve all’esame delle invenzioni, tenendo conto in particolar modo delle necessità dei paesi in via di sviluppo;
+- iv) prende qualsiasi altro provvedimento che, senza aver incidenze finanziarie sul bilancio dell’Unione particolare o sull’Organizzazione, sia tale da facilitare ai paesi in via di sviluppo l’applicazione della classificazione;
+- v) è abilitato a istituire dei sottocomitati e dei gruppi di lavoro.
+
+- 6) a) Ciascun paese membro del Comitato di esperti dispone di un voto.
+- b) Il Comitato di esperti decide con la maggioranza semplice.
+- c) Qualsiasi decisione che, a giudizio di un quinto dei paesi rappresentati e votanti, implica una trasformazione della struttura fondamentale della classificazione o comporta un importante lavoro di riclassificazione deve essere presa con la maggioranza dei tre quarti dei paesi rappresentati e votanti.
+- d) L’astensione non è considerata voto.
+
+#### Art. 6
+
+**Notificazione, entrata in vigore e pubblicazione delle modificazioni e delle altre decisioni**
+
+\1) Tutte le decisioni del Comitato di esperti relative a modificazioni apportate alla classificazione, nonché le raccomandazioni del Comitato di esperti, sono notificate dall’Ufficio internazionale alle amministrazioni competenti dei paesi membri dell’Unione particolare. Le modificazioni entrano in vigore sei mesi dopo la data d’invio delle notificazioni.
+
+\2) L’Ufficio internazionale inserisce nella classificazione le modificazioni entrate in vigore. Le modificazioni formano oggetto di avvisi pubblicati nei periodici designati dall’Assemblea prevista nell’articolo 7.
+
+#### Art. 7
+
+**Assemblea dell’Unione particolare**
+
+\5) L’Assemblea adotta il suo regolamento interno.
+
+- 1) a) L’Unione particolare ha un’Assemblea composta dei paesi dell’Unione particolare.
+- b) Il governo di ogni paese dell’Unione particolare è rappresentato da un delegato, che può essere assistito da supplenti, da consiglieri e da esperti.
+- c) Qualsiasi organizzazione intergovernativa di cui all’articolo 5.2) a) può farsi rappresentare da un osservatore alle riunioni dell’Assemblea e, se questa decide in tal senso, a quelle dei comitati e gruppi di lavoro istituiti dall’Assemblea.
+- d) Le spese di ciascuna delegazione sono a carico del governo che l’ha designata.
+- 2) a)
+
+  Fatte salve le disposizioni dell’articolo 3, l’Assemblea:
+
+  - i) tratta le questioni concernenti il mantenimento e lo sviluppo dell’Unione particolare e l’applicazione del presente accordo;
+  - ii) impartisce all’Ufficio internazionale le direttive sulla preparazione delle conferenze di revisione;
+  - iii) esamina e approva le relazioni e le attività del Direttore generale relative all’Unione particolare e gli impartisce le necessarie direttive sulle questioni che sono di competenza dell’Unione particolare;
+  - iv) stabilisce il programma, adotta il bilancio biennale[^7-1] dell’Unione particolare e ne approva i conti di chiusura;
+  - v) adotta il regolamento finanziario dell’Unione particolare;
+  - vi) decide che vengano redatti testi ufficiali della classificazione internazionale in lingue diverse dall’inglese e dal francese e da quelle indicate nell’articolo 3.2);
+  - vii) istituisce i comitati di esperti e i gruppi di lavoro che ritiene utili per realizzare gli scopi dell’Unione particolare;
+  - viii) decide, fatte salve le disposizioni dell’alinea 1) c), quali sono i paesi non membri dell’Unione particolare, le organizzazioni intergovernative e le organizzazioni internazionali non governative che possono essere ammessi come osservatori alle sue riunioni e a quelle dei comitati e gruppi di lavoro da essi istituiti;
+  - ix) intraprende qualsiasi altra azione idonea al conseguimento degli scopi dell’Unione particolare;
+  - x) svolge qualsiasi altro compito che il presente accordo comporta.
+
+- b) L’Assemblea delibera su questioni che interessano anche altre Unioni amministrate dall’Organizzazione, dopo aver sentito il parere del Comitato di coordinamento dell’Organizzazione.
+- 3) a) Ciascun paese membro dell’Assemblea dispone di un voto.
+- b) La metà dei paesi membri dell’Assemblea costituisce il quorum.
+- c) L’Assemblea può deliberare ancorché il quorum non sia raggiunto; tuttavia, le deliberazioni dell’Assemblea, eccettuate quelle concernenti la procedura, divengono esecutive solo quando siano soddisfatte le condizioni seguenti. L’Ufficio internazionale comunica dette deliberazioni ai paesi membri dell’Assemblea che non erano rappresentati, invitandoli a esprimere per iscritto, entro tre mesi dalla data della comunicazione, il loro voto o la loro astensione. Se, allo scadere del termine, il numero dei paesi che hanno espresso il loro voto o la loro astensione risulta almeno uguale al numero dei paesi mancanti per il conseguimento del quorum durante la sessione, le dette deliberazioni divengono esecutive purché nel contempo sia stata raggiunta la maggioranza necessaria.
+- d) Fatte salve le disposizioni dell’articolo 11.2), l’Assemblea decide con la maggioranza dei due terzi dei voti espressi.
+- e) L’astensione non è considerata voto.
+- f) Un delegato può rappresentare un solo paese e votare soltanto a nome di esso.
+- 4) a) L’Assemblea si riunisce una volta ogni due anni[^7-2] in sessione ordinaria, su convocazione del Direttore generale e, salvo casi eccezionali, durante il medesimo periodo e nel medesimo luogo in cui si svolge l’Assemblea generale dell’Organizzazione.
+- b) L’Assemblea è convocata in sessione straordinaria dal Direttore generale a richiesta di un quarto dei paesi membri.
+- c) L’ordine del giorno di ogni sessione è predisposto dal Direttore generale.
+
+[^7-1]: Nuovo testo giusta gli emendamenti del 2 ott. 1979, in vigore per la Svizzera dal 25 feb. 1982 ([RU 1983 1093](https://fedlex.data.admin.ch/eli/oc/1983/1093_1093_1093)).
+[^7-2]: Nuovo testo giusta gli emendamenti del 2 ott. 1979, in vigore per la Svizzera dal 25 feb. 1982 ([RU 1983 1093](https://fedlex.data.admin.ch/eli/oc/1983/1093_1093_1093)).
+
+#### Art. 8
+
+**Ufficio internazionale**
+
+\2) Il Direttore generale e i membri del personale da lui designati intervengono, senza diritto di voto, a tutte le riunioni dell’Assemblea, del Comitato di esperti e di qualsiasi altro comitato di esperti o gruppo di lavoro, che l’Assemblea o il Comitato di esperti avessero istituito. Il Direttore generale o un membro del personale da lui designato è, d’ufficio, segretario di questi organi.
+
+\4) L’Ufficio internazionale svolge gli altri compiti che gli sono attribuiti.
+
+- 1) a) I compiti amministrativi spettanti all’Unione particolare sono svolti dall’Ufficio internazionale.
+- b) In particolare, l’Ufficio internazionale prepara le riunioni e assume la segreteria dell’Assemblea, del Comitato di esperti e di qualsiasi altro comitato di esperti o gruppo di lavoro che l’Assemblea o il Comitato di esperti avessero istituito.
+- c) Il Direttore generale è il più alto funzionario dell’Unione particolare e la rappresenta.
+
+- 3) a) L’Ufficio internazionale prepara le conferenze di revisione in base alle direttive dell’Assemblea.
+- b) L’Ufficio internazionale può consultare organizzazioni intergovernative e organizzazioni internazionali non governative sulla preparazione delle conferenze di revisione.
+- c) Il Direttore generale e le persone da lui designate intervengono, senza diritto di voto, alle deliberazioni di dette conferenze.
+
+#### Art. 9
+
+**Finanze**
+
+\2) Il bilancio dell’Unione particolare è stabilito tenendo conto delle esigenze di coordinamento con i bilanci delle altre Unioni amministrate dall’Organizzazione.
+
+\5) L’ammontare delle tasse e somme dovute per servizi resi dall’Ufficio internazionale in relazione all’Unione particolare è stabilito dal Direttore generale, che ne fa rapporto all’Assemblea.
+
+\8) La verifica dei conti è effettuata, secondo le modalità previste dal regolamento finanziario, da uno o più paesi dell’Unione particolare oppure da revisori esterni designati, col loro consenso, dall’Assemblea.
+
+- 1) a) L’Unione particolare ha un bilancio preventivo.
+- b) Il bilancio preventivo dell’Unione particolare comprende gli introiti e le spese proprie dell’Unione particolare, il suo contributo al bilancio delle spese comuni alle Unioni e, occorrendo, la somma messa a disposizione nel bilancio della Conferenza dell’Organizzazione.
+- c) Sono comuni alle Unioni le spese che non vengono attribuite esclusivamente all’Unione particolare bensì a un’altra o ad altre Unioni amministrate dall’Organizzazione. Il contributo dell’Unione particolare a tali spese comuni è proporzionale all’interesse che le medesime presentano per essa.
+
+\3) Il bilancio dell’Unione particolare è finanziato dalle seguenti entrate:
+
+- i) i contributi dei paesi dell’Unione particolare;
+- ii) le tasse e le somme dovute per i servizi resi dall’Ufficio internazionale in relazione all’Unione particolare;
+- iii) i proventi della vendita di pubblicazioni dell’Ufficio internazionale, concernenti l’Unione particolare, e i diritti inerenti a queste pubblicazioni;
+- iv) i doni, i lasciti e le sovvenzioni;
+- v) i canoni d’affitto, gli interessi e altri diversi proventi.
+- 4) a) Per determinare la quota contributiva secondo l’alinea 3) i), i paesi dell’Unione particolare sono assegnati alla classe cui appartengono secondo l’Unione di Parigi per la protezione della proprietà industriale e pagano contributi annui in rapporto al numero di unità stabilito per tale classe in quell’Unione.
+- b) Il rapporto tra l’ammontare del contributo annuo di ciascuno dei paesi dell’Unione particolare e il totale dei contributi annui al bilancio dell’Unione particolare pagati da questi paesi è uguale al rapporto tra il numero di unità della classe in cui il paese è posto e il numero totale di unità dell’insieme dei paesi.
+- c) I contributi sono dovuti al 1° gennaio di ogni anno.
+- d) Un paese in mora nel pagamento dei contributi non può esercitare il suo diritto di voto in alcun organo dell’Unione particolare, se l’ammontare del suo arretrato risulta uguale o superiore a quello dei contributi da esso dovuti per i due anni completi trascorsi. Tuttavia, tale paese può essere autorizzato a conservare l’esercizio del suo diritto di voto in seno a detto organo finché quest’ultimo ritiene il ritardo attribuibile a circostanze eccezionali e inevitabili.
+- e) Qualora il bilancio non sia stato ancora adottato all’inizio di un nuovo esercizio, il bilancio dell’anno precedente va riportato secondo le modalità del regolamento finanziario.
+
+- 6) a) L’Unione particolare possiede un fondo di cassa costituito mediante un versamento unico effettuato da ciascun paese dell’Unione particolare. Se il fondo diviene insufficiente, l’Assemblea ne decide l’aumento.
+- b) L’ammontare del versamento iniziale di ciascun paese a tale fondo o della sua partecipazione ad un aumento è proporzionale al contributo del paese per l’anno in cui il fondo di cassa è costituito o l’aumento è deciso.
+- c) La proporzione e le modalità di versamento sono stabilite dall’Assemblea, su proposta del Direttore generale e dopo aver consultato il Comitato di coordinamento dell’Organizzazione.
+- 7) a) L’accordo di sede concluso con il paese sul cui territorio ha sede l’Organizzazione deve prevedere che, ove il fondo di cassa si riveli insufficiente, questo paese conceda delle anticipazioni. L’ammontare delle anticipazioni e le condizioni di concessione saranno oggetto, di volta in volta, di un accordo particolare tra questo paese e l’Organizzazione.
+- b) Il paese di cui al comma a) e l’Organizzazione hanno ciascuno la facoltà di denunciare l’impegno di concedere anticipazioni mediante notificazione scritta. La denuncia ha effetto tre anni dopo la fine dell’anno in cui è stata notificata.
+
+#### Art. 10
+
+**Revisione dell’accordo**
+
+\1) Il presente accordo può essere riveduto periodicamente da conferenze speciali dei paesi dell’Unione particolare.
+
+\2) La convocazione delle conferenze di revisione è decisa dall’Assemblea.
+
+\3) Gli articoli 7, 8, 9 e 11 possono essere modificati sia da conferenze di revisione, sia secondo le disposizioni dell’articolo 11.
+
+#### Art. 11
+
+**Modificazione di talune disposizioni dell’accordo**
+
+\1) Proposte di modificazione degli articoli 7, 8, 9 e del presente articolo possono essere presentate da ciascun paese dell’Unione particolare o dal Direttore generale. Questi comunica le proposte ai paesi dell’Unione particolare almeno sei mesi prima che esse vengano sottoposte all’esame dell’Assemblea.
+
+\2) Qualsiasi modificazione degli articoli elencati nell’alinea 1) va adottata dall’Assemblea. La maggioranza richiesta è dei tre quarti dei voti espressi; tuttavia, le modificazioni dell’articolo 7 e del presente alinea esigono la maggioranza dei quattro quinti dei voti espressi.
+
+- 3) a) Ogni modificazione degli articoli elencati nell’alinea 1) entra in vigore un mese dopo che il Direttore generale ha ricevuto, per iscritto, le notificazioni d’accettazione, effettuate in conformità alle rispettive regole costituzionali, da parte dei tre quarti dei paesi che erano membri dell’Unione particolare nel momento in cui la modificazione è stata adottata.
+- b) Ogni modificazione dei detti articoli in tal modo accettata vincola tutti i paesi che sono membri dell’Unione particolare nel momento in cui la modificazione stessa entra in vigore; tuttavia, ogni modificazione che accresca gli obblighi finanziari dei paesi dell’Unione particolare vincola soltanto quelli che hanno notificato di accettarla.
+- c) Ogni modificazione accettata conformemente al comma a) vincola tutti i paesi che divengono membri dell’Unione particolare dopo la data alla quale la modificazione è entrata in vigore conformemente al comma a).
+
+#### Art. 12
+
+**Modalità secondo le quali i paesi possono divenire parti dell’accordo**
+
+\2) Gli strumenti di ratifica o di adesione vanno depositati presso il Direttore generale.
+
+\3) Sono applicabili al presente accordo le disposizioni dell’articolo 24 della Convenzione di Parigi per la protezione della proprietà industriale.
+
+\4) L’alinea 3) non potrà in nessun caso essere interpretato come se implicasse il riconoscimento o l’accettazione tacita da parte di un qualunque paese dell’Unione particolare della situazione di fatto di qualsiasi territorio al quale il presente accordo è reso applicabile da un altro paese in virtù del detto alinea.
+
+\1) Qualsiasi paese che faccia parte della Convenzione di Parigi per la protezione della proprietà industriale può essere ammesso a far parte del presente accordo:
+
+- i) con l’apposizione della firma, seguita dal deposito di uno strumento di ratifica, oppure
+- ii) con il deposito di uno strumento di adesione.
+
+#### Art. 13
+
+**Entrata in vigore dell’accordo**
+
+\2) La ratifica o l’adesione implica, di pieno diritto, l’accettazione di tutte le clausole e l’ammissione a tutti i benefici riconosciuti nel presente accordo.
+
+- 1) a) Il presente accordo entra in vigore un anno dopo il deposito degli strumenti di ratifica o di adesione
+  - i) dei due terzi dei paesi che, il giorno in cui il presente accordo viene aperto alla firma, fanno parte della Convenzione europea, e
+  - ii) di tre paesi facenti parte della Convenzione di Parigi per la protezione industriale ma non della Convenzione europea, uno di essi almeno dovendo essere un paese in cui, secondo le più recenti statistiche annuali pubblicate dall’Ufficio internazionale al momento del deposito del suo strumento di ratifica o di adesione, sono state depositate più di 40 000 domande di brevetto o di certificato d’autore d’invenzione.
+
+- b) Nei riguardi di qualsiasi paese che non sia uno di quelli per i quali l’accordo è entrato in vigore secondo il comma a), il presente accordo entra in vigore un anno dopo la data della notificazione, da parte del Direttore generale, della ratifica o dell’adesione di questo paese, salvo che una data posteriore non sia stata indicata nello strumento di ratifica o di adesione. In quest’ultimo caso, il presente accordo entra in vigore, nei riguardi di detto paese, alla data così indicata.
+- c) I paesi facenti parte della Convenzione europea che ratificano il presente accordo o vi aderiscono sono tenuti a denunciare questa Convenzione al più tardi con effetto a decorrere dal giorno in cui il presente accordo entra in vigore nei loro riguardi.
+
+#### Art. 14
+
+**Durata dell’accordo**
+
+Il presente accordo ha la stessa durata della Convenzione di Parigi per la protezione della proprietà industriale.
+
+#### Art. 15
+
+**Denuncia**
+
+\1) Ciascun paese potrà denunciare il presente accordo mediante notificazione indirizzata al Direttore generale.
+
+\2) La denuncia avrà effetto un anno dopo il giorno in cui il Direttore generale ne avrà ricevuto la notificazione.
+
+\3) La facoltà di denuncia prevista dal presente articolo non potrà essere esercitata prima che sia trascorso un periodo di cinque anni a decorrere dalla data in cui il paese è divenuto membro dell’Unione particolare.
+
+#### Art. 16
+
+**Firma, lingue, notificazioni, funzioni del depositario**
+
+\2) Il Direttore generale cura la preparazione di testi ufficiali, previa consultazione dei governi interessati, nelle lingue tedesca, spagnola, giapponese, portoghese, russa e nelle altre lingue che l’Assemblea potrà indicare.
+
+\4) Il Direttore generale fa registrare il presente accordo presso la Segreteria dell’Organizzazione delle Nazioni Unite.
+
+- 1) a) Il presente accordo è firmato in un solo originale, nelle lingue inglese e francese, i due testi facendo egualmente fede.
+- b) Il presente accordo rimane aperto alla firma, a Strasburgo, fino al 30 settembre 1971.
+- c) L’esemplare originale del presente accordo, quando non è più aperto alla firma, è depositato presso il Direttore generale.
+
+- 3) a) Il Direttore generale certifica e trasmette due copie del testo firmato del presente accordo ai governi dei paesi che l’hanno sottoscritto e al governo di qualsiasi altro paese che ne faccia domanda. Inoltre, egli ne certifica e ne trasmette una copia al Segretario generale del Consiglio d’Europa.
+- b) Il Direttore generale certifica e trasmette due copie di ogni modificazione del presente accordo ai governi di tutti i paesi dell’Unione particolare e, a richiesta, al governo di qualsiasi altro paese. Inoltre, egli ne certifica e ne trasmette due copie al Segretario generale del Consiglio d’Europa.
+- c) Il Direttore generale invia, a richiesta, al governo di qualsiasi paese che ha firmato il presente accordo o vi aderisce un esemplare, certificato conforme, della classificazione internazionale nelle lingue inglese o francese.
+
+\5) Il Direttore generale notifica ai governi di tutti i paesi facenti parte della Convenzione di Parigi per la protezione della proprietà industriale e al Segretario generale del Consiglio d’Europa:
+
+- i) le firme;
+- ii) il deposito di strumenti di ratifica o di adesione;
+- iii) la data di entrata in vigore del presente accordo;
+- iv) le riserve concernenti l’applicazione della classificazione;
+- v) le accettazioni di modificazioni del presente accordo;
+- vi) le date di entrata in vigore di queste modificazioni;
+- vii) le denunce ricevute.
+
+#### Art. 17
+
+**Disposizioni transitorie**
+
+\1) Nei due anni che seguono l’entrata in vigore del presente accordo, i paesi facenti parte della Convenzione europea ma non ancora membri dell’Unione particolare possono, qualora lo desiderino, esercitare in seno al Comitato di esperti i diritti di cui godrebbero se fossero membri dell’Unione particolare.
+
+\2) Nei tre anni che seguono la scadenza del termine previsto nell’alinea 1) i paesi di cui a detto alinea possono farsi rappresentare da osservatori alle riunioni del Comitato di esperti e, se questi decide in tal senso, a quelle dei sottocomitati e gruppi di lavoro da esso istituiti. Durante questo triennio, essi possono presentare proposte di modificazioni della classificazione in virtù dell’articolo 5.5) e ricevono notificazione delle decisioni e raccomandazioni del Comitato di esperti in virtù dell’articolo 6.1).
+
+\3) Nei cinque anni che seguono l’entrata in vigore del presente accordo, i paesi facenti parte della Convenzione europea ma non ancora membri dell’Unione particolare possono farsi rappresentare da osservatori alle riunioni dell’Assemblea e, se questa decide in tal senso, a quelle dei comitati e gruppi di lavoro da essa istituiti.
+
+*In fede di che* i plenipotenziari autorizzati hanno firmato il presente accordo. Fatto a Strasburgo il 24 marzo 1971. (Seguono le firme)
+
+Campo d’applicazione il 3 maggio 2013**[^t-3]**
+
+<table>
+<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td colspan="2">Albania</td><td>24 luglio</td><td>2006 A</td><td>24 luglio</td><td>2007</td></tr>
+<tr><td colspan="2">Argentina</td><td>13 settembre</td><td>2007 A</td><td>13 settembre</td><td>2008</td></tr>
+<tr><td colspan="2">Armenia</td><td>6 dicembre</td><td>2004 A</td><td>6 dicembre</td><td>2005</td></tr>
+<tr><td colspan="2">Australia<sup>\*</sup></td><td>7 novembre</td><td>1974 A</td><td>12 novembre</td><td>1975</td></tr>
+<tr><td colspan="2">Austria</td><td>3 luglio</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Azerbaigian</td><td>14 luglio</td><td>2003 A</td><td>14 luglio</td><td>2004</td></tr>
+<tr><td colspan="2">Belarus</td><td>12 marzo</td><td>1998 A</td><td>12 marzo</td><td>1999</td></tr>
+<tr><td colspan="2">Belgio<sup>\*</sup></td><td>30 giugno</td><td>1975</td><td>4 luglio</td><td>1976</td></tr>
+<tr><td colspan="2">Bosnia e Erzegovina</td><td>27 ottobre</td><td>2008 A</td><td>27 ottobre</td><td>2009</td></tr>
+<tr><td colspan="2">Brasile</td><td>3 ottobre</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Bulgaria</td><td>27 novembre</td><td>2000 A</td><td>27 novembre</td><td>2001</td></tr>
+<tr><td colspan="2">Canada</td><td>11 gennaio</td><td>1995 A</td><td>11 gennaio</td><td>1996</td></tr>
+<tr><td colspan="2">Ceca, Repubblica</td><td>18 dicembre</td><td>1992 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Cina<sup>\*</sup></td><td>17 giugno</td><td>1996 A</td><td>19 giugno</td><td>1997</td></tr>
+<tr><td colspan="2">Corea (Nord)</td><td>21 novembre</td><td>2001 A</td><td>21 novembre</td><td>2002</td></tr>
+<tr><td colspan="2">Corea (Sud)</td><td>8 ottobre</td><td>1998 A</td><td>8 ottobre</td><td>1999</td></tr>
+<tr><td colspan="2">Croazia</td><td>25 novembre</td><td>1999 A</td><td>25 novembre</td><td>2000</td></tr>
+<tr><td colspan="2">Cuba</td><td>9 novembre</td><td>1995 A</td><td>9 novembre</td><td>1996</td></tr>
+<tr><td colspan="2">Danimarca</td><td>9 gennaio</td><td>1973</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Egitto</td><td>8 ottobre</td><td>1974 A</td><td>17 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Estonia</td><td>24 febbraio</td><td>1996 A</td><td>27 febbraio</td><td>1997</td></tr>
+<tr><td colspan="2">Finlandia<sup>\*</sup></td><td>14 maggio</td><td>1975</td><td>16 maggio</td><td>1976</td></tr>
+<tr><td colspan="2">Francia<sup>\*</sup></td><td>16 novembre</td><td>1972</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Germania</td><td>13 luglio</td><td>1973</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Giappone</td><td>16 agosto</td><td>1976</td><td>18 agosto</td><td>1977</td></tr>
+<tr><td colspan="2">Grecia</td><td>21 ottobre</td><td>1996</td><td>21 ottobre</td><td>1997</td></tr>
+<tr><td colspan="2">Guinea<sup>\*</sup></td><td>5 agosto</td><td>1996 A</td><td>5 agosto</td><td>1997</td></tr>
+<tr><td colspan="2">Irlanda<sup>\*</sup></td><td>19 aprile</td><td>1972 A</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Israele</td><td>7 ottobre</td><td>1974 A</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Italia<sup>\*</sup></td><td>28 marzo</td><td>1979</td><td>30 marzo</td><td>1980</td></tr>
+<tr><td colspan="2">Kazakstan</td><td>24 gennaio</td><td>2002 A</td><td>24 gennaio</td><td>2003</td></tr>
+<tr><td colspan="2">Kirghizistan</td><td>10 settembre</td><td>1998 A</td><td>10 settembre</td><td>1999</td></tr>
+<tr><td colspan="2">Lussemburgo<sup>\*</sup></td><td>6 aprile</td><td>1976</td><td>9 aprile</td><td>1977</td></tr>
+<tr><td colspan="2">Macedonia</td><td>30 maggio</td><td>2002 A</td><td>30 maggio</td><td>2003</td></tr>
+<tr><td colspan="2">Malawi</td><td>24 luglio</td><td>1995 A</td><td>24 luglio</td><td>1996</td></tr>
+<tr><td colspan="2">Messico</td><td>26 ottobre</td><td>2000 A</td><td>26 ottobre</td><td>2001</td></tr>
+<tr><td colspan="2">Moldova</td><td>1° settembre</td><td>1997 A</td><td>1° settembre</td><td>1998</td></tr>
+<tr><td colspan="2">Monaco<sup>\*</sup></td><td>10 giugno</td><td>1975</td><td>13 giugno</td><td>1976</td></tr>
+<tr><td colspan="2">Mongolia</td><td>16 marzo</td><td>2001 A</td><td>16 marzo</td><td>2002</td></tr>
+<tr><td colspan="2">Montenegro</td><td>6 gennaio</td><td>2012 A</td><td>6 gennaio</td><td>2013</td></tr>
+<tr><td colspan="2">Norvegia<sup>\*</sup></td><td>30 gennaio</td><td>1973</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Paesi Bassi</td><td>13 settembre</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Aruba</td><td>13 settembre</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Curaçao</td><td>13 settembre</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>13 settembre</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Sint Maarten</td><td>13 settembre</td><td>1974</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Polonia</td><td>4 dicembre</td><td>1996 A</td><td>4 dicembre</td><td>1997</td></tr>
+<tr><td colspan="2">Portogallo</td><td>28 aprile</td><td>1978 A</td><td>1° maggio</td><td>1979</td></tr>
+<tr><td colspan="2">Regno Unito<sup>\*</sup></td><td>26 maggio</td><td>1972</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Romania</td><td>31 marzo</td><td>1998 A</td><td>31 marzo</td><td>1999</td></tr>
+<tr><td colspan="2">Russia</td><td>30 settembre</td><td>1975 A</td><td>3 ottobre</td><td>1976</td></tr>
+<tr><td colspan="2">Serbia</td><td>15 luglio</td><td>2009</td><td>15 luglio</td><td>2010</td></tr>
+<tr><td colspan="2">Slovacchia</td><td>30 dicembre</td><td>1992 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Slovenia</td><td>10 maggio</td><td>2001 A</td><td>10 maggio</td><td>2002</td></tr>
+<tr><td colspan="2">Spagna<sup>\*</sup></td><td>26 novembre</td><td>1974</td><td>29 novembre</td><td>1975</td></tr>
+<tr><td colspan="2">Stati Uniti</td><td>21 dicembre</td><td>1973</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Suriname</td><td>16 novembre</td><td>1976 S</td><td>25 novembre</td><td>1975</td></tr>
+<tr><td colspan="2">Svezia</td><td>17 maggio</td><td>1973</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Svizzera</td><td>20 dicembre</td><td>1972</td><td>7 ottobre</td><td>1975</td></tr>
+<tr><td colspan="2">Tagikistan</td><td>14 febbraio</td><td>1994 S</td><td>25 dicembre</td><td>1991</td></tr>
+<tr><td colspan="2">Trinidad e Tobago</td><td>20 dicembre</td><td>1995 A</td><td>20 dicembre</td><td>1996</td></tr>
+<tr><td colspan="2">Turchia</td><td>1° ottobre</td><td>1995 A</td><td>1° ottobre</td><td>1996</td></tr>
+<tr><td colspan="2">Turkmenistan</td><td>7 marzo</td><td>2006 A</td><td>7 marzo</td><td>2007</td></tr>
+<tr><td colspan="2">Ucraina</td><td>7 aprile</td><td>2009 A</td><td>7 aprile</td><td>2010</td></tr>
+<tr><td colspan="2">Uruguay</td><td>19 ottobre</td><td>1999 A</td><td>19 ottobre</td><td>2000</td></tr>
+<tr><td colspan="2">Uzbekistan</td><td>12 ottobre</td><td>2001 A</td><td>12 ottobre</td><td>2002</td></tr>
+<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni.</td></tr>
+<tr><td></td><td colspan="5">Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet della Organizzazione mondiale della proprietà intellettuale: www.wipo.int/wipolex/fr od ottenere alla Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+</table>
+
+- [tab]
+
+[^t-3]: RU **1975** 1814, **1976** 185, **1977** 230, **1979** 623, **1983** 28, **2003** 3427, **2006** 4437, **2009** 5127 e **2013** 1475. Una versione del campo di applicazione aggiornata è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).

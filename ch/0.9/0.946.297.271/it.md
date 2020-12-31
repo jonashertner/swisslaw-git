@@ -1,0 +1,82 @@
+---
+sr: "0.946.297.271"
+title: Accordo di commercio e cooperazione del 29 novembre 1976 tra la Confederazione Svizzera e la Repubblica Araba Siriana
+eli: "https://fedlex.data.admin.ch/eli/cc/1977/1890_1889_1889"
+language: it
+version: 1977-09-30
+adopted: 1976-11-29
+in_force: 1977-09-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1890_1889_1889/19770930/it/xml/fedlex-data-admin-ch-eli-cc-1977-1890_1889_1889-19770930-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1890_1889_1889/19770930/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo di commercio e cooperazione economica tra la Confederazione Svizzera e la Repubblica Araba Siriana
+
+RU **1977** 1889
+
+Traduzione*[^t-1]*
+
+Concluso il 29 novembre 1976
+
+Entrato in vigore mediante scambio di note il 30 settembre 1977
+
+(Stato 30 settembre 1977)
+
+[^t-1]: Dal testo originale francese.
+
+Il Governo della Confederazione Svizzera e il Governo della Repubblica Araba Siriana,
+
+desiderosi d’intensificare la cooperazione economica e di sviluppare, tra i loro territori, gli scambi commerciali,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+Le Parti Contraenti si sforzeranno, ricorrendo a tutti i mezzi adeguati, d’intensificare gli scambi commerciali, conformemente alle leggi e alle normative vigenti in Svizzera e in Siria.
+
+#### Art. 2
+
+Le Parti Contraenti convengono di accordarsi reciprocamente il trattamento della nazione più favorita, per quanto concerne i diritti doganali e le relative formalità.
+
+Tuttavia il trattamento della nazione più favorita non si estenderà alle esenzioni, alle concessioni o ai vantaggi che ciascuna Parte accorda o accorderà:
+
+- – ai Paesi limitrofi nel traffico di confine;
+- – ai Paesi partecipi d’un’unione doganale o d’una zona di libero scambio o d’analoga associazione regionale istituita o istituibile.
+
+#### Art. 3
+
+Le competenti autorità delle Parti Contraenti accorderanno all’importazione di prodotti originari e provenienti dall’altra Parte un trattamento non meno favorevole di quello accordato a qualsiasi terzo Paese.
+
+#### Art. 4
+
+I pagamenti tra la Svizzera e la Siria s’operano in divise convertibili.
+
+#### Art. 5
+
+Le Parti Contraenti procurano di promuovere la cooperazione nei settori economico, industriale, tecnologico e turistico, nonché nel settore, dei servizi. Esse sostengono gli sforzi fatti all’uopo dalle aziende ed organizzazioni dei due Paesi.
+
+Le realizzazioni procedenti da detta cooperazione godranno del trattamento più favorevole possibile, nel quadro delle leggi e delle normative vigenti nei due Paesi.
+
+I due Governi si accordano reciprocamente, rispettando i loro obblighi internazionali, l’assistenza necessaria per garantire i diritti derivanti dalla proprietà industriale e commerciale ed inerenti ai diritti d’autore (designazioni d’origine comprese), rispetto ai soggetti giuridici dell’altra Parte.
+
+#### Art. 6
+
+Verrà costituita una Commissione mista composta dei rappresentanti delle Parti Contraenti. Essa si adunerà, ove occorra, a domanda dell’una o dell’altra Parte, in Svizzera o in Siria, per esaminare i progressi fatti nella cooperazione economica generale, le vie ed i mezzi per il promovimento della cooperazione prospettata nell’articolo 5, come anche le difficoltà che potessero derivare dall’applicazione del presente accordo.
+
+#### Art. 7
+
+Il presente accordo s’applica anche al Principato del Liechtenstein finché questo resterà vincolato alla Svizzera dal trattato d’unione doganale.[^7-1]
+
+[^7-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+
+#### Art. 8
+
+Il presente accordo entrerà in vigore il giorno della data dello scambio di note accertante la sua approvazione, secondo la procedura costituzionale delle due Parti Contraenti, e resterà poi in vigore per un anno. Esso verrà tacitamente rinnovato di anno in anno, sempreché l’una o l’altra Parte non l’abbia disdetto per scritto tre mesi prima della scadenza.
+
+Fatto a Damasco, il 29 novembre 1976, in due originali, in arabo e francese. Quest’ultimo testo farà fede in caso di divergenze interpretative.
+
+<table>
+<tr><td>Per il Governo della Confederazione Svizzera: E. Moser</td><td>Per il Governo della Repubblica Araba Siriana: Ammar Jammal</td></tr>
+</table>

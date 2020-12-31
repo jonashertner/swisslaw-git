@@ -1,0 +1,1112 @@
+---
+sr: "173.110.131"
+title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
+short: RTF
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
+language: fr
+version: 2021-01-01
+adopted: 2006-11-20
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Règlement du Tribunal fédéral
+
+(RTF)
+
+du 20 novembre 2006 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Tribunal fédéral,
+
+vu les art. 13 et 15, al. 1, let. a de la loi du 17 juin 2005 sur le Tribunal fédéral (LTF)[^ingress-1],
+
+arrête le règlement suivant:
+
+[^ingress-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+
+## Titre 1 Dispositions générales d’organisation
+
+### Chapitre 1 Organes de direction
+
+### Section 1 Présidence
+
+#### Art. 1
+
+**Présidence**
+
+### (art. 10, al. 2 et 14, al. 3, LTF)
+
+Le président[^1-1] du Tribunal fédéral:
+
+- a. remplit les tâches prévues aux art. 10, al. 2 et 14, al. 3, LTF;
+- b. convoque la Cour plénière et la Commission administrative;
+- c. décide du recours à la procédure par voie de circulation pour les décisions de la Cour plénière; l’art. 7, al. 2, du présent règlement demeure réservé.
+
+[^1-1]: Dans le présent R, le masculin générique est utilisé pour désigner les deux sexes.
+
+#### Art. 2
+
+**Vice-président**
+
+### (art. 14, al. 4, LTF)
+
+Le vice-président représente et assiste le président.
+
+### Section 2 Cour plénière
+
+#### Art. 3
+
+**Tâches**
+
+### (art. 15, al. 1, LTF)
+
+<sup>1</sup> La Cour plénière remplit les tâches énumérées à l’art. 15, al. 1, LTF.
+
+<sup>2</sup> …[^3-1]
+
+<sup>3</sup> Elle nomme le troisième membre de la Commission administrative.
+
+<sup>4</sup> Sur proposition de la Commission administrative, elle compose les cours et nomme leurs présidents. Ceux-ci ne peuvent pas être simultanément membres de la Commission administrative.
+
+<sup>5</sup> Sur proposition de la Commission administrative, elle nomme les membres de la Commission de recours. Ceux-ci ne peuvent pas être simultanément membres de la Commission administrative ou de la Conférence des présidents.
+
+[^3-1]: Abrogé par le ch. I de l’O du TF du 17 mars 2014, avec effet au 17 mars 2014 ([RO 2014 955](https://fedlex.data.admin.ch/eli/oc/2014/211)).
+
+#### Art. 4
+
+**Délais**
+
+### (art. 14, al. 2, 15, al. 1, let. e, et 17, al. 3, LTF)
+
+<sup>1</sup> La Cour plénière décide, jusqu’au 15 octobre de l’année des élections, des propositions à faire selon l’art. 3, al. 2 et procède, dans le même délai, aux nominations prévues à l’art. 3, al. 3 à 5, du présent règlement.
+
+<sup>2</sup> Les membres des organes de direction et ceux de la Commission de recours sont tenus d’indiquer à la Commission administrative jusqu’au 31 août de l’année des élections s’ils se représentent. La Commission administrative en communique sans délai l’information à tous les juges.
+
+<sup>3</sup> Elle invite simultanément les juges ordinaires à présenter par écrit jusqu’au 20 septembre d’autres candidatures et propositions.
+
+#### Art. 5
+
+**Procédure de vote**
+
+### (art. 21 LTF)
+
+<sup>1</sup> La Cour plénière décide à bulletin secret et séparément sur chacune des propositions destinées à l’Assemblée fédérale pour l’élection du président et du vice-président du Tribunal fédéral; elle nomme ensuite le troisième membre de la Commission administrative selon la même procédure.
+
+<sup>2</sup> Est nommée la personne qui réunit sur son nom plus de la moitié des bulletins valables.
+
+<sup>3</sup> Pour déterminer la majorité absolue, les bulletins blancs et les bulletins nuls ne sont pas pris en compte. Pour le surplus, la loi du 13 décembre 2002 sur l’Assemblée fédérale[^5-1] est applicable par analogie.
+
+<sup>4</sup> S’il y a plus de deux candidats, celui qui obtient le moins de voix est éliminé à chaque tour de scrutin.
+
+[^5-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+#### Art. 6
+
+**Convocation**
+
+### (art. 15 LTF)
+
+<sup>1</sup>
+
+Peuvent exiger la convocation de la Cour plénière:
+
+- a. la Commission administrative;
+- b. une cour;
+- c. cinq membres au moins de la Cour plénière.
+
+<sup>2</sup> La Cour plénière est convoquée par le président du Tribunal fédéral.
+
+<sup>3</sup> Les membres de la Cour plénière sont convoqués à la séance par écrit.
+
+<sup>4</sup> La convocation est en règle générale remise cinq jours ouvrables avant la séance. Elle contient l’ordre du jour. D’éventuels documents sont joints à la convocation ou mis à disposition pour consultation.
+
+#### Art. 7
+
+**Décisions**
+
+### (art. 15, al. 2, et art. 21, LTF)
+
+<sup>1</sup> La Cour plénière prend ses décisions en règle générale par voie de circulation.
+
+<sup>2</sup> La voie de circulation est exclue lorsqu’une cour ou cinq membres au moins de la Cour plénière exigent des délibérations.
+
+#### Art. 8
+
+**Vote à bulletin secret et nominations**
+
+### (art. 21 LTF)
+
+Lors des séances de la Cour plénière, les votes et les nominations ont lieu à bulletin secret à la demande de la Commission administrative ou d’au moins cinq membres de la Cour plénière.
+
+### Section 3 Conférence des présidents
+
+#### Art. 9
+
+**Tâches**
+
+### (art. 16 LTF)
+
+<sup>1</sup> La Conférence des présidents remplit les tâches énumérées à l’art. 16 LTF.
+
+<sup>2</sup> Elle coordonne la jurisprudence des cours selon l’art. 23 LTF dans la mesure où cette tâche ne relève pas de la compétence des cours réunies (art. 37 du présent règlement).
+
+<sup>3</sup> Les juges ordinaires signalent à la Conférence des présidents les questions juridiques nécessitant une coordination.
+
+#### Art. 10
+
+**Collaboration avec d’autres organes**
+
+### (art. 16, al. 2, et 17, al. 4, LTF)
+
+<sup>1</sup> La Conférence des présidents fait part à la Commission administrative et au secrétariat général des besoins communs des cours.
+
+<sup>2</sup> Le président du Tribunal fédéral participe aux séances et aux décisions de la Conférence des présidents avec voix consultative.[^10-1]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### Section 4 Commission administrative
+
+#### Art. 11
+
+**Composition**
+
+### (art. 17, al. 1, LTF)
+
+<sup>1</sup>
+
+La Commission administrative se compose:
+
+- a. du président du Tribunal fédéral;
+- b. du vice-président du Tribunal fédéral;
+- c. d’un autre juge ordinaire.
+
+<sup>2</sup> Les membres de la Commission administrative sont déchargés de leur travail au sein des cours dans une mesure suffisante.
+
+#### Art. 12
+
+**Tâches**
+
+### (art. 15, al. 1, let. d et f, et 17, al. 4, LTF)
+
+<sup>1</sup>
+
+La Commission administrative remplit les tâches énumérées aux art. 15, al. 1, let. d et f, et 17, al. 4, LTF. Elle est compétente pour prendre des mesures temporaires destinées à décharger les cours, en particulier pour:[^12-1]
+
+- a. désigner un juge appelé à siéger dans une autre cour pour un engagement allant au-delà d’un cas particulier (art. 18, al. 3, LTF);
+- b. attribuer à une autre cour des juges suppléants et des greffiers avant l’échéance de la période ordinaire de deux ans;
+- c.[^12-2] modifier l’attribution de domaines de compétence ou de groupes d’affaires en vue d’équilibrer la charge de travail des cours.
+
+<sup>2</sup> Avant de prendre les décisions prévues à l’al. 1, la Commission administrative consulte la Conférence des présidents. Avant de prendre les décisions prévues à l’al. 1, let. a et b, elle consulte également la personne concernée.
+
+<sup>3</sup> La Commission administrative prépare le rapport de gestion destiné à la Cour plénière.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### Section 5 Assistance des organes de direction
+
+#### Art. 13
+
+**Secrétaire général**
+
+### (art. 17, al. 2, et 26, LTF)
+
+<sup>1</sup> Le secrétaire général dirige les secrétariats de la Cour plénière, de la Conférence des présidents ainsi que de la Commission administrative.
+
+<sup>2</sup> Il participe aux séances de ces trois organes de direction avec voix consultative.
+
+<sup>3</sup> Il prépare et exécute les décisions des organes de direction pour autant que ces tâches ne relèvent pas de la compétence des cours.
+
+<sup>4</sup> Le secrétaire général et son remplaçant sont assermentés par la Commission administrative et promettent de remplir fidèlement leurs tâches. Le serment peut être remplacé par une promesse solennelle.
+
+### Section 6 Signature et procès-verbaux
+
+#### Art. 14
+
+**Signature**
+
+### (art. 13 LTF)
+
+<sup>1</sup> Le président du Tribunal fédéral signe conjointement avec le secrétaire général dans les affaires relevant de la compétence de la Cour plénière ou de la Commission administrative.
+
+<sup>2</sup> Le président de la Conférence des présidents signe conjointement avec le secrétaire général dans les affaires relevant de la compétence de la Conférence des présidents.
+
+<sup>3</sup> Dans les affaires relevant de la seule compétence du président du Tribunal fédéral, sa signature suffit.
+
+#### Art. 15
+
+**Procès-verbaux**
+
+### (art. 13 LTF)
+
+Les procès-verbaux de la Cour plénière, de la Commission administrative et de la Conférence des présidents sont en tout temps à la disposition des juges ordinaires pour consultation.
+
+### Chapitre 2 Juges suppléants
+
+#### Art. 16
+
+**Attribution et mise en œuvre**
+
+### (art. 22 LTF)
+
+<sup>1</sup> Les juges suppléants sont attribués aux cours en fonction de leurs connaissances particulières, de leur langue ainsi que de la charge de travail et des besoins des cours.
+
+<sup>2</sup> Lors de l’attribution, la représentation des sexes dans les cours et la disponibilité des juges suppléants sont prises en considération de manière appropriée.
+
+<sup>3</sup> L’activité des juges suppléants au sein des cours est organisée par les présidents de celles-ci.[^16-1]
+
+[^16-1]: [RO 2007 33](https://fedlex.data.admin.ch/eli/oc/2007/11)
+
+#### Art. 17
+
+**Rétribution**
+
+### (art. 13 LTF)
+
+<sup>1</sup> La rétribution des juges suppléants est réglée par l’ordonnance de l’Assemblée fédérale relative aux indemnités journalières des juges suppléants ainsi que par les règles sur les indemnités pour voyages de service des juges fédéraux[^17-1].
+
+<sup>2</sup> La Commission administrative règle les détails par voie de directive.
+
+[^17-1]: Message du CF du 8 déc. 2006 relatif à l’O de l’Ass. féd. concernant les indemnités journalières des juges suppléants du TF et les indemnités de déplacement des juges ordinaires et des juges suppléants du TF ([FF 2007 189](https://fedlex.data.admin.ch/eli/fga/2007/23)).
+
+### Chapitre 3 Activités accessoires des juges ordinaires
+
+#### Art. 18
+
+**Principes**
+
+### (art. 6 et 7 LTF)
+
+<sup>1</sup> Les juges ordinaires peuvent exercer des activités accessoires pour autant que l’indépendance et la réputation du Tribunal et du juge concerné n’en soient pas affectées.
+
+<sup>2</sup> Les activités accessoires ne doivent affecter d’aucune façon l’exercice de leur fonction.
+
+#### Art. 19
+
+**Autorisation obligatoire**
+
+### (art. 7, al. 2, LTF)
+
+<sup>1</sup>
+
+Peuvent être autorisées les activités suivantes:
+
+- a. mandat d’arbitre, collaboration à des organes juridictionnels et à des commissions d’experts ainsi que mandats de médiation et d’expertise, pour autant qu’il existe un intérêt public;
+- b. enseignements ponctuels, publication de commentaires, de séries et de revues spécialisées;
+- c. participation à des organes d’associations, de fondations ou d’autres organisations sans but économique.
+
+<sup>2</sup> Aucune autorisation n’est exigée pour la rédaction d’ouvrages et d’articles, la présentation d’exposés ou la participation à des congrès et à des journées juridiques.
+
+#### Art. 20
+
+**Procédure d’autorisation**
+
+### (art. 17, al. 4, let. h, LTF)
+
+<sup>1</sup> Le juge qui désire exercer une activité accessoire soumise à autorisation présente une demande au président de sa cour.
+
+<sup>2</sup> La demande doit contenir toutes les indications utiles sur la nature et l’objet de l’activité accessoire ainsi que sur le temps prévisible qu’elle nécessitera.
+
+<sup>3</sup> Le président de la cour transmet la demande à la Conférence des présidents pour préavis puis pour décision à la Commission administrative.
+
+#### Art. 21
+
+**Contrôle**
+
+### (art. 13 LTF)
+
+<sup>1</sup> Le secrétaire général tient à jour une liste des autorisations accordées.
+
+<sup>2</sup> La Commission administrative peut demander aux juges des renseignements sur le temps utilisé et les indemnités reçues.
+
+<sup>3</sup> La fin de l’activité accessoire doit être annoncée à la Commission administrative et au président de la cour.
+
+#### Art. 22
+
+**Émolument pour les prestations de service**
+
+### (art. 13 LTF)
+
+<sup>1</sup> Un émolument approprié est perçu pour les prestations de service fournies par le Tribunal.
+
+<sup>2</sup> Le secrétaire général fixe dans chaque cas le montant de l’émolument.
+
+#### Art. 23
+
+**Obligation de remise**
+
+### (art. 13 LTF)
+
+Lorsque le total des rétributions, défraiement compris, provenant d’activités accessoires autorisées ou non soumises à autorisation, excède 10 000 francs par an, l’excédent doit être versé à la caisse du Tribunal fédéral.
+
+### Chapitre 4 Règlement des conflits
+
+#### Art. 24
+
+**Résolution interne**
+
+### (art. 15, al. 1, let. a, LTF)
+
+<sup>1</sup> Les litiges entre juges doivent si possible se régler au sein du Tribunal fédéral.[^24-1]
+
+<sup>2</sup> En cas de litige, les intéressés doivent d’abord chercher le dialogue entre eux puis au sein des cours concernées.
+
+<sup>3</sup> En cas d’échec, l’affaire est soumise au président du Tribunal fédéral qui fait appel au besoin à la Commission administrative. Celle-ci prend les dispositions appropriées.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 25
+
+**Haute surveillance**
+
+### (art. 3, al. 1, LTF)
+
+En cas d’échec des tentatives de règlement interne du conflit, la Commission administrative informe l’Assemblée fédérale s’il s’agit d’une affaire importante qui peut relever de la haute surveillance.
+
+## Titre 2 Organisation de l’activité judiciaire
+
+### Chapitre 1 Cours
+
+### Section 1 Dispositions générales
+
+#### Art. 26
+
+**Nombre et composition**
+
+### (art. 18 LTF)
+
+<sup>1</sup>
+
+Le Tribunal fédéral se compose des sept cours suivantes:
+
+- a. deux cours de droit public;
+- b. deux cours de droit civil;
+- c. une cour de droit pénal;
+- d. deux cours de droit social.
+
+<sup>2</sup> Les deux cours de droit public, les deux cours de droit civil et la cour de droit pénal siègent à Lausanne. Les deux cours de droit social siègent à Lucerne.
+
+<sup>3</sup> Les cours comportent de quatre à six juges ordinaires.[^26-1]
+
+<sup>4</sup> Deux juges de langue française sont attribués aux cours comportant six juges. Un ou deux juges de langue française sont attribués aux cours comportant cinq juges.[^26-2]
+
+<sup>5</sup> Aucune cour ne peut compter plus d’un juge de langue italienne.[^26-3]
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-3]: Introduit par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 27
+
+**Organisation**
+
+### (art. 18 LTF)
+
+Les cours s’organisent elles-mêmes pour autant que la LTF ou le présent règlement n’en disposent pas autrement.
+
+#### Art. 28
+
+**Transferts et vacances**
+
+### (art. 18 LTF)
+
+<sup>1</sup> Les demandes de transfert d’un juge dans une autre cour doivent être adressées à la Commission administrative qui invite les cours concernées à se déterminer.
+
+<sup>2</sup> Avant l’expiration d’une période de deux ans, le transfert dans une autre cour n’est possible qu’en cas de vacance ou pour des motifs importants.
+
+<sup>3</sup> En cas de vacance, la Commission administrative examine si le poste devenu vacant peut être occupé par un transfert interne. Elle informe la Commission judiciaire du résultat de son examen.
+
+### Section 2 Les sept cours
+
+#### Art. 29
+
+**Première Cour de droit public**
+
+### (art. 22 LTF)
+
+<sup>1</sup>
+
+La première Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. expropriation;
+- b.
+
+  matières touchant l’aménagement du territoire, notamment:
+
+  - 1\. aménagement du territoire et droit des constructions,
+  - 2\. protection de l’environnement, des eaux, des forêts, de la nature et du paysage,
+  - 3\. ouvrages publics,
+  - 4\. améliorations foncières,
+  - 5\. encouragement à la construction lié à l’aménagement du territoire,
+  - 6\. chemins de randonnée;
+
+- c. droits politiques;
+- d. entraide judiciaire internationale en matière pénale;
+- e. circulation routière;
+- f. droit de cité;
+- g.[^29-1] …
+
+<sup>2</sup>
+
+Pour autant que le litige ne puisse pas être rattaché à un autre domaine du droit, la première Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires qui relèvent des droits fondamentaux suivants:
+
+- a. égalité de traitement (art. 8 de la Constitution fédérale, Cst.[^29-2]);
+- b. protection contre l’arbitraire et protection de la bonne foi (art. 9 Cst.);
+- c. droit à la vie et à la liberté personnelle (art. 10 Cst.);
+- d. protection de la sphère privée, droit au mariage et à la famille, liberté d’opinion et d’information, liberté des médias (art. 13, 14, 16 et 17 Cst.);
+- e. liberté de l’art, liberté de réunion, liberté d’association (art. 21 à 23 Cst.);
+- f. garantie de la propriété (art. 26 Cst.);
+- g. garanties générales de procédure, garantie de l’accès au juge, garanties de procédure judiciaire, privation de liberté (art. 29 à 31 Cst.).
+
+<sup>3</sup> La première Cour de droit public traite les recours en matière pénale contre les décisions incidentes relevant de la procédure pénale.[^29-3]
+
+<sup>4</sup> Elle traite, par voie d’action, les conflits de compétence entre autorités fédérales et autorités cantonales (art. 120, al. 1, let. a, LTF) ainsi que les contestations de droit public entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF).
+
+[^29-1]: Abrogée par le ch. I de l’O du TF du 24 nov. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^29-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du TF du 8 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+
+#### Art. 30
+
+**Deuxième Cour de droit public**
+
+### (art. 22 LTF)
+
+<sup>1</sup>
+
+La deuxième Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. droit des étrangers;
+- b. impôts et taxes;
+- c.
+
+  droit public économique et autres domaines du droit administratif pour autant qu’une autre cour ne soit pas compétente, notamment:
+
+  - 1\. responsabilité de l’État (sans les prétentions découlant de l’activité médicale et sans celles résultant des règles de procédure pénale en matière d’indemnisation),
+  - 2\. instruction et formation,
+  - 3\. acquisition d’immeubles par des personnes résidant à l’étranger,
+  - 4\. cinématographie,
+  - 5\. protection des animaux,
+  - 6\. subventions,
+  - 7\. concessions et monopoles,
+  - 8\. marchés publics,
+  - 9\. énergie (fourniture d’eau et d’électricité),
+  - 10\. permis d’exploitation en matière de transports,
+  - 11\. transports: routes, chemins de fer, navigation aérienne, navigation (sauf la planification, l’expropriation ou la construction d’installations),
+  - 12\. poste,
+  - 13\. radio et télévision,
+  - 14\. santé et police des denrées alimentaires,
+  - 15\. droit public du travail,
+  - 16\. agriculture,
+  - 17\. chasse et pêche,
+  - 18\. loteries et jeux de hasard,
+  - 19\. surveillance des banques, des assurances, des bourses, des cartels et des prix,
+  - 20\. commerce extérieur,
+  - 21\. professions libérales.
+
+<sup>2</sup>
+
+Pour autant que le litige ne puisse pas être attribué à un autre domaine du droit, la deuxième Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires relatifs aux droits fondamentaux suivants:
+
+- a. protection des enfants et des jeunes (art. 11 Cst.[^30-1]);
+- b. liberté de conscience et de croyance (art. 15 Cst.);
+- c. liberté de la langue (art. 18 Cst.);
+- d. droit à un enseignement de base (art. 19 Cst.);
+- e. liberté de la science (art. 20 Cst.);
+- f. liberté d’établissement (art. 24 Cst.);
+- g. liberté économique (art. 27 Cst.);
+- h. liberté syndicale (art. 28 Cst.).
+
+<sup>3</sup> La deuxième Cour de droit public traite par voie d’action les prétentions portant sur des dommages-intérêts ou sur une indemnité à titre de réparation morale résultant de l’activité officielle de personnes visées à l’art. 1, al. 1, let. a à c, de la loi du 14 mars 1958 sur la responsabilité[^30-2] (art. 120, al. 1, let. c, LTF).
+
+[^30-1]: RS**101**
+[^30-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 31
+
+**Première Cour de droit civil**
+
+### (art. 22 LTF)
+
+<sup>1</sup>
+
+La première Cour de droit civil traite les recours en matière civile et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. droit des obligations;
+- b. contrat d’assurance;
+- c. responsabilité extracontractuelle (y compris celle résultant de lois spéciales);
+- d. responsabilité de l’État pour les activités médicales;
+- e. droit privé de la concurrence;
+- f. propriété intellectuelle;
+- g.[^31-1] arbitrage international;
+- h. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, ch.1 et 2, LTF dans les domaines prévus aux let. a à g ci-dessus.
+
+<sup>2</sup> La première Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 du code de procédure civile (CPC)[^31-2].[^31-3]
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^31-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^31-3]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+
+#### Art. 32
+
+**Deuxième Cour de droit civil**
+
+### (art. 22 LTF)
+
+<sup>1</sup>
+
+La deuxième Cour de droit civil traite les recours en matière civile et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a.
+
+  code civil:
+
+  - 1\. droit des personnes,
+  - 2\. droit de la famille,
+  - 3\. droit des successions,
+  - 4\. droits réels;
+
+- b. droit foncier rural;
+- c. poursuite pour dettes et faillite;
+- d. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, LTF dans les domaines prévus aux let. a à c ci-dessus.
+
+<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 CPC[^32-1].[^32-2]
+
+[^32-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+
+#### Art. 33
+
+**Cour de droit pénal**
+
+### (art. 22 LTF)
+
+La Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénaledans les domaines suivants:[^33-1]
+
+- a. droit pénal matériel (y compris l’exécution des peines et des mesures);
+- b. procédure pénale (sauf les recours contre les décisions incidentes relevant de la procédure pénale);
+- c.[^33-2] les décisions finales en matière pénale (y compris les ordonnances de non-entrée en matière ou de classement de la procédure).
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-2]: Nouvelle teneur selon le ch. I de l’O du TF du 8 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+
+#### Art. 34
+
+**Première Cour de droit social**
+
+### (art. 22 LTF)
+
+La première Cour de droit social traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. assurance-invalidité;
+- b.[^34-1] assurance-accidents;
+- c.[^34-2] assurance-chômage;
+- d.[^34-3] assurance sociale cantonale;
+- e.[^34-4] allocations familiales;
+- f.[^34-5] aide sociale et aide dans des situations de détresse selon l’art. 12 Cst.[^34-6];
+- g.[^34-7] assurance militaire;
+- h.[^34-8] personnel du secteur public.
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-3]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-4]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-5]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-6]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^34-7]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-8]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 35
+
+**Deuxième Cour de droit social**
+
+### (art. 22 LTF)
+
+La deuxième Cour de droit social traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. assurance-vieillesse et survivants;
+- b. assurance-invalidité;
+- c. allocations pour perte de gain (y compris maternité);
+- d. assurance-maladie;
+- e. prévoyance professionnelle (art. 73 et 74 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité[^35-1]);
+- f.[^35-2] prestations complémentaires.
+
+[^35-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^35-2]: Introduite par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### Section 3 Délimitation des compétences et collaboration
+
+#### Art. 36
+
+**Délimitation des compétences**
+
+### (art. 22 LTF)
+
+<sup>1</sup> La question juridique prépondérante détermine l’attribution d’une affaire à une cour.
+
+<sup>2</sup> Il est possible de déroger aux règles d’attribution lorsque la nature de la cause et sa connexité avec d’autres affaires le justifient. En pareils cas, les présidents des cours concernées se mettent d’accord.
+
+<sup>3</sup> En cas de divergences de vues entre les cours, le président du Tribunal fédéral tranche.
+
+<sup>4</sup> …[^36-1]
+
+[^36-1]: Abrogé par le ch. I de l’O du TF du 24 nov. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 37
+
+**Cours réunies**
+
+### (art. 23 LTF)
+
+<sup>1</sup> Les cours réunies sont présidées par le président de la Conférence des présidents.
+
+<sup>2</sup> Il désigne un membre de la Conférence des présidents qui établit un rapport sur la question juridique à trancher. Il peut désigner d’autres rapporteurs.
+
+<sup>3</sup> L’abstention lors d’un vote des cours réunies n’est pas autorisée. Le président participe au vote pour autant qu’il fasse partie d’une des cours intéressées.
+
+<sup>4</sup> En cas d’égalité des voix, la jurisprudence existante est maintenue. Lorsque la question juridique n’a jamais été tranchée, la voix du président est prépondérante s’il vote; si tel n’est pas le cas, il lui appartient de trancher.
+
+<sup>5</sup> La Conférence des présidents règle dans une directive la procédure des cours réunies.
+
+### Chapitre 2 Greffiers
+
+#### Art. 38
+
+**Position et tâches**
+
+### (art. 24 LTF)
+
+<sup>1</sup> Chaque juge ordinaire a droit à ce qu’un greffier lui soit attribué à titre personnel.
+
+<sup>2</sup> Les greffiers prêtent serment devant la cour de remplir fidèlement leurs devoirs. Le serment peut être remplacé par une promesse solennelle.
+
+<sup>3</sup>
+
+Ils accomplissent les tâches suivantes:
+
+- a. Ils participent à l’instruction des causes.
+- b. Ils établissent des rapports sous la responsabilité d’un juge.
+- c. Ils tiennent les procès-verbaux des audiences et des délibérations.
+- d. Ils rédigent les arrêts, les décisions et les ordonnances du Tribunal.
+- e. Ils communiquent par écrit le dispositif des arrêts lorsqu’ils ont été rendus en audience de délibération (art. 60, al. 2, LTF) ou lorsque la décision complète ne peut pas être notifiée immédiatement après son prononcé.
+- f. Ils contrôlent le travail de la chancellerie lors de la mise au net des arrêts, des décisions, des procès-verbaux et des ordonnances du Tribunal qu’ils ont rédigés et les signent dans les cas prévus.
+- g. Ils adaptent et rendent anonymes les arrêts destinés à être publiés ou remis à des tiers.
+- h. Ils veillent à se remplacer et à s’entraider.
+- i. Ils accomplissent d’autres tâches pour les cours ou pour le Tribunal fédéral.
+
+<sup>4</sup> Le juge instructeur peut autoriser un greffier à signer en son nom une ordonnance relative à l’instruction.
+
+#### Art. 39
+
+**Voix consultative**
+
+### (art. 24, al. 1, 2<sup>e</sup> phrase, LTF)
+
+Les greffiers peuvent exprimer leur voix consultative:
+
+- a. lors des délibérations orales, après que les juges ont exprimé leur avis lors du premier tour de parole;
+- b. dans les procédures par voie de circulation par des remarques dans le projet de rapport lors de son élaboration ou, s’ils n’y ont pas participé, après que celui-ci a circulé auprès des juges.
+
+### Chapitre 3 Cours appelées à statuer, procédure et fonctionnement du Tribunal
+
+### Section 1 Cours appelées à statuer
+
+#### Art. 40
+
+**Composition des cours appelées à statuer**
+
+### (art. 20 et 22 LTF)
+
+<sup>1</sup> La cour appelée à statuer est constituée par le président de la cour compétente.
+
+<sup>2</sup>
+
+Il tient compte, en plus des dispositions légales impératives, notamment des critères et circonstances suivants:
+
+- a. équilibre de la charge de travail des juges; à cet égard, le surcroît de travail résultant d’autres fonctions est pris en considération (par exemple la présidence du Tribunal fédéral);
+- b. langue; la langue du juge rapporteur doit si possible correspondre à celle du procès;
+- c. participation de membres des deux sexes lorsque la nature du litige paraît le justifier;
+- d. connaissances spécifiques d’un juge dans un domaine déterminé;
+- e. participation d’un juge à des décisions antérieures dans la même matière;
+- f. absences dues notamment à la maladie, aux vacances, etc.
+
+<sup>3</sup> …[^40-1]
+
+<sup>4</sup> En règle générale, la cour appelée à statuer tranche les affaires connexes.
+
+<sup>5</sup> Si un membre d’une cour doit siéger dans une autre cour, le président de celle-ci le désigne après l’avoir entendu, cela en accord avec le président de la cour à laquelle il appartient.
+
+[^40-1]: Abrogé par le ch. I de l’O du TF du 4 mars 2013, avec effet au 1<sup>er</sup> mai 2013 ([RO 2013 1043](https://fedlex.data.admin.ch/eli/oc/2013/228)).
+
+#### Art. 41
+
+**Arrêts de principe de la deuxième Cour de droit social**[^41-1]
+
+### (art. 13, 18, al. 3, et 20, al. 2, LTF)
+
+<sup>1</sup> Un membre de la première Cour de droit social est appelé à siéger, par rotation, dans les affaires de principe de la deuxième Cour de droit social.
+
+<sup>2</sup> Cette rotation suit l’ordre d’ancienneté et inclut tous les membres de la cour.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+
+#### Art. 42
+
+**Transparence et contrôle de la composition de la cour appelée à statuer**[^42-1]
+
+<sup>1</sup> Chaque année, la Commission administrative établit, sur la base des indications obtenues auprès des cours, un rapport à l’intention de la Cour plénière sur le respect de l’art. 40 du présent règlement.
+
+<sup>2</sup> Le secrétaire général récolte des données statistiques qui facilitent l’établissement du rapport.
+
+<sup>3</sup> Les données statistiques peuvent être consultées par tous les juges ordinaires. Celles qui se rapportent à leur cour sont portées à leur connaissance chaque trimestre.
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### Section 2 Procédure et fonctionnement du Tribunal
+
+#### Art. 43
+
+**Préparation des séances**
+
+### (art. 58 LTF)
+
+<sup>1</sup> Les présidents des cours convoquent les séances en fixant l’ordre du jour.
+
+<sup>2</sup> En règle générale, l’ordre du jour est envoyé au moins six jours ouvrables avant la séance.
+
+<sup>3</sup> Les dossiers doivent être mis à disposition des juges au plus tard au moment de l’envoi de l’ordre du jour.
+
+#### Art. 44
+
+**Placement et délibération**
+
+### (art. 58 LTF)
+
+<sup>1</sup> Lors des séances, les juges prennent place à la droite et à la gauche du président selon leur ordre d’ancienneté au Tribunal et, en cas d’élection à la même date, selon leur âge.
+
+<sup>2</sup> Lors de la délibération, le président donne d’abord la parole au juge rapporteur puis aux autres juges. Il s’exprime en dernier.
+
+<sup>3</sup> Celui qui entend faire une contre-proposition peut la présenter immédiatement après la présentation du rapport.
+
+#### Art. 45
+
+**Approbation de la motivation de l’arrêt après la délibération**
+
+### (art. 58 LTF)
+
+Lorsqu’un arrêt est prononcé à l’issue d’une séance de délibérations, ses considérants sont soumis pour approbation aux juges concernés par voie de circulation avant son expédition.
+
+#### Art. 46
+
+**Modifications du dispositif ou des considérants après la circulation**
+
+### (art. 58 LTF)
+
+<sup>1</sup> À l’issue de la circulation, des modifications du dispositif ou des considérants ne peuvent être effectuées qu’avec l’accord de tous les juges concernés, sous réserve de modifications mineures d’ordre rédactionnel.
+
+<sup>2</sup> Dans les cas simples ou en cas d’urgence particulière, l’approbation conjointe du juge rapporteur et du président suffit.
+
+<sup>3</sup> Sur requête d’un membre ou du greffier, la cour appelée à statuer se prononce sur les modifications demandées.
+
+#### Art. 47
+
+**Notification de l’arrêt, signature et représentation**
+
+### (art. 60 LTF)
+
+<sup>1</sup> Les arrêts et les dispositifs, pour autant que ces derniers soient expédiés séparément, sont notifiés par écrit aux parties.
+
+<sup>2</sup>
+
+Les arrêts portent les signatures:
+
+- a. du président de la cour ou du juge présidant la cour appelée à statuer, et
+- b. du greffier.
+
+<sup>3</sup> Les dispositifs portent la signature du greffier.
+
+<sup>4</sup> En cas de notification électronique, les arrêts et les dispositifs ainsi que les ordonnances qui sont cosignés par le greffier portent la signature électronique du greffier.[^47-1]
+
+<sup>5</sup> Les autres ordonnances et la correspondance adressées sur mandat du président de la cour ou du juge instructeur peuvent porter la signature manuscrite et électronique du personnel de la chancellerie.[^47-2]
+
+<sup>6</sup> En cas d’empêchement d’un juge, le doyen de fonction de la cour qui est présent signe; en cas d’empêchement du greffier, son remplaçant signe.[^47-3]
+
+<sup>7</sup> Lorsqu’une affaire compte au moins 20 parties à la procédure, les arrêts, les dispositifs et les ordonnances qui doivent être cosignés par le greffier peuvent être notifiés au moyen d’une copie légalisée par lui. L’original est signé conformément aux al. 2, 3 et 6 et archivé au Tribunal fédéral.[^47-4]
+
+[^47-1]: Introduit par le ch. I de l’O du TF du 9 déc. 2010 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)). Nouvelle teneur selon le ch. I du RTF du 3 juil. 2012, en vigueur depuis le 3 juil. 2012 ([RO 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
+[^47-2]: Introduit par le ch. I du RTF du 3 juil. 2012, en vigueur depuis le 3 juil. 2012 ([RO 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
+[^47-3]: Anciennement al. 4.
+[^47-4]: Introduit par le ch. I de l’O du TF du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 47](https://fedlex.data.admin.ch/eli/oc/2018/19)).
+
+#### Art. 48
+
+**Tenue**
+
+### (art. 59 LTF)
+
+Lors des audiences publiques du Tribunal, les juges et les greffiers et, en cas de débats, les représentants des parties portent des vêtements noirs.
+
+## Titre 3 Administration du Tribunal et commission de recours
+
+### Chapitre 1 Secrétariat général et services
+
+#### Art. 49
+
+**Secrétaire général**
+
+### (art. 26 LTF)
+
+<sup>1</sup> Le secrétaire général dirige l’administration du Tribunal y compris les services scientifiques.
+
+<sup>2</sup>
+
+Relèvent notamment de sa compétence:
+
+- a. la préparation du budget, de la planification financière et des comptes destinés à la Commission administrative, ainsi que le contrôle des finances;
+- b. la coordination et le contrôle des services scientifiques et administratifs;
+- c. la gestion des bâtiments (entretien, utilisation, construction, locations) en collaboration avec les services compétents de la Confédération;
+- d. la sécurité;
+- e. l’établissement de directives et de règles uniformes pour le traitement et la conservation des dossiers;
+- f. les publications du Tribunal, l’information et les relations avec le public selon le règlement correspondant, ainsi que l’organisation de manifestations;
+- g. les décisions relatives au personnel prévues dans l’ordonnance du 27 août 2001 sur le personnel du Tribunal fédéral[^49-1], ainsi que la préparation des décisions relatives au personnel relevant de la compétence de la Commission administrative;
+- h. la légalisation des signatures, des arrêts et des copies, ainsi que des extraits de procès-verbaux et de dossiers;
+- i. toutes les autres affaires que lui attribuent les ordonnances ou les règlements ou que les organes de direction lui confient.
+
+<sup>3</sup> Il peut déléguer certaines compétences ou domaines d’activité à des cadres.
+
+[^49-1]: [RS 172.220.114](https://fedlex.data.admin.ch/eli/cc/2001/487)
+
+#### Art. 50
+
+**Suppléant**
+
+### (art. 15, al. 1, let. f, et 26 LTF)
+
+Le suppléant assiste le secrétaire général et exécute les tâches qui lui sont dévolues.
+
+#### Art. 51
+
+**Services**
+
+### (art. 25, al. 2, LTF)
+
+<sup>1</sup> Les services scientifiques et administratifs nécessaires sont mis à disposition aux deux lieux où siègent les cours.
+
+<sup>2</sup> Les services sont dirigés de manière centralisée depuis le siège du Tribunal fédéral.
+
+#### Art. 52
+
+**Signature**
+
+### (art. 13 et 26 LTF)
+
+<sup>1</sup> Dans les affaires administratives qui lui sont attribuées pour décision, le secrétaire général signe seul.
+
+<sup>2</sup> Il peut déléguer la compétence de signer à d’autres personnes pour des affaires déterminées.
+
+#### Art. 53
+
+**Surveillance du personnel**
+
+### (art. 26 LTF)
+
+Le secrétaire général et les cadres sont responsables de la surveillance du personnel pour autant que celle-ci ne relève pas de la compétence des présidents des cours.
+
+### Chapitre 2 Commission de recours
+
+#### Art. 54
+
+**Composition**
+
+### (art. 28, al. 2, LTF)
+
+[^54-1]
+
+<sup>1</sup> La Commission de recours se compose de trois juges ordinaires.
+
+<sup>2</sup> …[^54-2]
+
+<sup>3</sup> Le juge le plus ancien dans la fonction préside la Commission.
+
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^54-2]: Abrogé par le ch. I de l’O du TF du 24 juin 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+
+#### Art. 55
+
+**Compétence**
+
+### (art. 13 et 28, al. 2, LTF)
+
+[^55-1]
+
+La Commission de recours statue sur les litiges prévus aux dispositions suivantes:
+
+- a.[^55-2] art. 10, al. 2, 2<sup>e</sup> phrase du règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral[^55-3] et contre les autres décisions du Secrétariat général en matière de recouvrement.
+- b. art. 28 LTF et art. 64 du présent règlement relatif à la transparence dans l’administration;
+- c. art. 16 de l’ordonnance du 27 septembre 1997 du Tribunal fédéral portant application de la loi fédérale sur l’archivage[^55-4];
+- d. art. 15[^55-5] des directives du 6 novembre 2006 concernant la chronique de l’activité judiciaire du Tribunal fédéral[^55-6].
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^55-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+[^55-5]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+
+#### Art. 56
+
+**Procédure**
+
+### (art. 13 LTF)
+
+La procédure de recours est régie par les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^56-1] (art. 1, al. 2, let. b, et 44 ss).
+
+[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## Titre 4 Information
+
+#### Art. 57
+
+**Principe**
+
+### (art. 27 LTF)
+
+<sup>1</sup>
+
+Le Tribunal fédéral informe le public sur sa jurisprudence par les moyens suivants:
+
+- a. recueil officiel des arrêts du Tribunal fédéral suisse (recueil officiel, ATF);
+- b. internet;
+- c. arrêts mis à disposition du public;
+- d. communications aux médias.
+
+<sup>2</sup> Il informe les médias sur les affaires en cours et sur les événements spéciaux de manière appropriée.
+
+#### Art. 58
+
+**Recueil officiel**
+
+### (art. 27 LTF)
+
+<sup>1</sup> Les arrêts de principe sont publiés au recueil officiel.
+
+<sup>2</sup> La cour compétente décide de la publication.
+
+<sup>3</sup> Le recueil officiel contient un répertoire des matières.
+
+#### Art. 59
+
+**Internet**
+
+### (art. 27 LTF)
+
+<sup>1</sup>
+
+Sont publiés sur internet:
+
+- a. tous les arrêts publiés au recueil officiel;
+- b. tous les arrêts finaux et partiels, ainsi que les décisions préjudicielles et incidentes déterminées par le président de la cour.
+
+<sup>2</sup> Le président de la cour prend les mesures appropriées pour la protection de la personnalité des parties.
+
+#### Art. 60
+
+**Mise à disposition du public**
+
+### (art. 59, al. 3, LTF)
+
+Le rubrum et le dispositif de tous les arrêts sont mis à la disposition du public au siège du Tribunal fédéral pendant 30 jours ouvrables avec les noms des parties pour autant que la loi n’exige pas qu’ils soient rendus anonymes.
+
+#### Art. 61
+
+**Travail des médias**
+
+### (art. 27 LTF)
+
+<sup>1</sup> Les personnes actives dans les médias qui veulent tenir la chronique judiciaire pour des médias paraissant ou établis en Suisse sont à leur demande accréditées par le secrétaire général pour une durée déterminée.
+
+<sup>2</sup> La Commission administrative règle par une directive les détails de l’accréditation, les prestations de service fournies par le Tribunal fédéral et l’accès à l’information.
+
+<sup>3</sup> Les communiqués de presse relatifs aux arrêts et aux autres décisions sont rédigés par le greffier en collaboration avec la personne chargée des relations avec les médias et avec l’approbation de la cour appelée à statuer, en règle générale au moment où la rédaction de l’arrêt est approuvée.
+
+#### Art. 62
+
+**Prises de vue et de son**
+
+### (art. 59 et 60 LTF)
+
+<sup>1</sup> Les prises de vue et de son pendant les débats et les délibérations sont interdites.
+
+<sup>2</sup> Le président peut autoriser les prises de vue et de son au début de l’audience ou au moment du prononcé de l’arrêt.
+
+#### Art. 63
+
+**Communication et personne chargée des relations avec les médias**
+
+### (art. 27 LTF)
+
+La personne chargée de la communication et des relations avec les médias conseille et assiste la présidence et les cours en matière de communication interne et externe.
+
+#### Art. 64
+
+**Principe de la transparence**
+
+### (art. 28 LTF)
+
+<sup>1</sup> Le service compétent pour établir un document officiel administratif peut en autoriser l’accès conformément à la loi du 17 décembre 2004 sur la transparence[^64-1].
+
+<sup>2</sup> En règle générale, il est répondu oralement aux demandes orales et par écrit aux demandes écrites.
+
+<sup>3</sup> Lorsque l’accès à un document doit être limité, différé ou refusé, la demande est transmise sans délai au secrétariat général.
+
+<sup>4</sup> Il n’y a pas de procédure de conciliation.
+
+<sup>5</sup> Le secrétariat général se prononce sur une demande écrite par une décision soumise à recours au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^64-2].
+
+<sup>6</sup> L’autorité de recours est la Commission de recours du Tribunal fédéral. Sa décision est définitive.
+
+<sup>7</sup> Le conseiller au sens de l’art. 20 de l’ordonnance du 24 mai 2006 sur la transparence[^64-3] est la personne chargée de la protection des données du Tribunal fédéral. Elle est également compétente pour la rédaction du rapport.
+
+<sup>8</sup> Les émoluments sont fixés conformément au règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral [^64-4]. Lorsque celui-ci ne contient pas de dispositions topiques, les émoluments sont fixés selon le tarif des émoluments de l’annexe 1 de l’ordonnance sur la transparence.
+
+<sup>9</sup> Pour le surplus, l’ordonnance du 24 mai 2006 sur la transparence est applicable par analogie.
+
+[^64-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^64-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^64-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
+[^64-4]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+
+## Titre 5 Dispositions finales
+
+#### Art. 65
+
+**Abrogation du droit en vigueur**
+
+Les règlements suivants sont abrogés:
+
+- 1\. Règlement du 14 décembre 1978 du Tribunal fédéral[^65-1];
+- 2\. Règlement du 16 novembre 1999 du Tribunal fédéral des assurances[^65-2];
+- 3\. Règlement du 22 février 1993 sur les activités accessoires des membres du Tribunal fédéral[^65-3];
+- 4\. Règlement du 16 mars 1993 sur les activités accessoires des membres du Tribunal fédéral des assurances[^65-4]<sup>.</sup>
+
+[^65-1]: [[RO 1979 46](https://fedlex.data.admin.ch/eli/oc/1979/46_46_46), [1991 378](https://fedlex.data.admin.ch/eli/oc/1991/378_378_378), [1993 3165](https://fedlex.data.admin.ch/eli/oc/1993/3165_3165_3165), [1994 80](https://fedlex.data.admin.ch/eli/oc/1994/80_80_80)[294](https://fedlex.data.admin.ch/eli/oc/1994/294_294_294), [2000 2191](https://fedlex.data.admin.ch/eli/oc/2000/339), [2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487)art. 88 ch. 1, [2004 2343](https://fedlex.data.admin.ch/eli/oc/2004/273), [2005 483](https://fedlex.data.admin.ch/eli/oc/2005/57), [2006 2343](https://fedlex.data.admin.ch/eli/oc/2006/357)]
+[^65-2]: [[RO 1999 3019](https://fedlex.data.admin.ch/eli/oc/1999/462), [2001 965](https://fedlex.data.admin.ch/eli/oc/2001/130)[3287](https://fedlex.data.admin.ch/eli/oc/2001/488)art. 13]
+[^65-3]: [[RO 1993 1352](https://fedlex.data.admin.ch/eli/oc/1993/1352_1352_1352)]
+[^65-4]: [[RO 1993 1355](https://fedlex.data.admin.ch/eli/oc/1993/1355_1355_1355)]
+
+#### Art. 66
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les autorisations d’exercer une activité accessoire délivrées aux juges ordinaires avant l’entrée en vigueur du présent règlement demeurent valables.
+
+<sup>2</sup> Les activités accessoires qui ne sont plus compatibles avec le nouveau droit doivent prendre fin au plus tard une année après l’entrée en vigueur du présent règlement.
+
+#### Art. 67
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2007.

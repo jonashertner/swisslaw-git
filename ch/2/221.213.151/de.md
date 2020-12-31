@@ -1,0 +1,120 @@
+---
+sr: "221.213.151"
+title: Verordnung vom 31. Januar 1996 über Rahmenmietverträge und deren Allgemeinverbindlicherklärung (VRA)
+short: VRA
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/756_756_756"
+language: de
+version: 1996-03-01
+adopted: 1996-01-31
+in_force: 1996-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/756_756_756/19960301/de/xml/fedlex-data-admin-ch-eli-cc-1996-756_756_756-19960301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/756_756_756/19960301/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über Rahmenmietverträge und deren Allgemeinverbindlicherklärung
+
+(VRA)
+
+vom 31. Januar 1996 (Stand am 1. März 1996)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 3 Absatz 5 und 16 des Bundesgesetzes vom 23. Juni 1995[^ingress-1] über Rahmenmietverträge und deren Allgemeinverbindlicherklärung (Gesetz),
+
+verordnet:
+
+[^ingress-1]: [SR 221.213.15](https://fedlex.data.admin.ch/eli/cc/1996/750_750_750)
+
+## 1. Abschnitt: Allgemeines
+
+#### Art. 1
+
+<sup>1</sup> Sieht der Rahmenmietvertrag nichts anderes vor, so ist er auf alle Mietobjekte des örtlichen Geltungsbereichs anwendbar.
+
+<sup>2</sup>
+
+Im Rahmenmietvertrag kann der sachliche Geltungsbereich auf bestimmte Kategorien von Mietobjekten beschränkt werden. Mietobjekte können auf Grund ihres gemeinsamen Verwendungszwecks zu Kategorien zusammengefasst werden; insbesondere sind folgende Kategorien von Mietobjekten zulässig:
+
+- a. Wohnungen;
+- b. Wohnungen, deren Bereitstellung von der öffentlichen Hand gefördert wurde;
+- c. Wohnungen, deren Vermietung vom Bestehen eines anderen Rechtsverhältnisses zwischen den Mietparteien abhängig ist, wie Genossenschaftswohnungen, Dienstwohnungen und Wohnungen, die mit einem Dienstleistungsangebot vermietet werden;
+- d. möblierte Wohnungen;
+- e. Ferienwohnungen;
+- f. Geschäftsräume, insbesondere auch Gewerbe-, Dienstleistungs-, Büro, Gastgewerberäume sowie Industriebauten.
+
+## 2. Abschnitt: Abweichung von zwingenden Vorschriften
+
+#### Art. 2
+
+**Bewilligung**
+
+<sup>1</sup> Der Antrag zur Abweichung von zwingenden Vorschriften ist beim Bundesamt für Wohnungswesen (Bundesamt) einzureichen.
+
+<sup>2</sup>
+
+Die Antragsteller haben mit dem Antrag einzureichen:
+
+- a. die Statuten;
+- b. den Nachweis, dass sie die gesetzliche Mindestzahl von Mietenden und Vermietenden vertreten;
+- c. den Nachweis, dass sie seit mindestens zehn Jahren statutarisch die Interessen der Mietenden und Vermietenden wahrnehmen;
+- d. weitere Nachweise, die notwendig sind, um die Erfüllung der Voraussetzungen zu prüfen.
+
+<sup>3</sup> Bei einem regionalen Rahmenmietvertrag haben die Parteien zudem nachzuweisen, dass der örtliche Geltungsbereich mindestens 30 000 Wohnungen oder 10 000 Geschäftsräume umfasst (Art. 1 Abs. 3 Bst. c des Gesetzes).
+
+<sup>4</sup> Das Bundesamt prüft von Amtes wegen, ob die übrigen gesetzlichen Erfordernisse erfüllt sind.
+
+#### Art. 3
+
+**Anhörung der Kantone**
+
+Das Gesuch ist den betroffenen Kantonen zur Stellungnahme vorzulegen. Die Anhörungsfrist beträgt mindestens 30 Tage.
+
+#### Art. 4
+
+**Entscheid des Bundesrates**
+
+<sup>1</sup> Der Bundesrat entscheidet über den Antrag.
+
+<sup>2</sup> Der Entscheid wird begründet und den antragstellenden Parteien umgehend eröffnet.
+
+<sup>3</sup> Die Bewilligung tritt 30 Tage nach ihrer Eröffnung in Kraft.
+
+#### Art. 5
+
+**Überwachung**
+
+<sup>1</sup> Das Bundesamt überprüft periodisch, ob die Kriterien, die zu einer Bewilligung geführt haben, noch erfüllt sind.
+
+<sup>2</sup> Sind diese nicht mehr oder nur noch teilweise erfüllt, so kann der Bundesrat nach Anhörung der betroffenen Kantone und der vertragschliessenden Parteien die Bewilligung widerrufen oder, wenn die Parteien einverstanden sind, abändern.
+
+<sup>3</sup> Artikel 4 Absätze 2 und 3 sind anwendbar.
+
+## 3. Abschnitt: Allgemeinverbindlicherklärung
+
+#### Art. 6
+
+**Einreichung des Antrages**
+
+<sup>1</sup> Der Antrag auf Allgemeinverbindlicherklärung ist beim Bundesamt oder bei der zuständigen kantonalen Behörde einzureichen. Er muss die in Artikel 8 des Gesetzes genannten Voraussetzungen erfüllen und die Nachweise nach Artikel 2 enthalten.
+
+<sup>2</sup> Die zuständige Behörde prüft von Amtes wegen die Voraussetzungen nach Artikel 6 des Gesetzes und führt das vorgesehene Verfahren durch.
+
+#### Art. 7
+
+**Dauer der Wirkung einer Allgemeinverbindlicherklärung**
+
+<sup>1</sup> Die zuständige Behörde veröffentlicht die Allgemeinverbindlicherklärung im Wortlaut (Art. 11 des Gesetzes) und setzt sie frühestens 30 Tage danach in Kraft. Die Kantone dürfen die Allgemeinverbindlicherklärung erst in Kraft setzen, wenn der Bund sie genehmigt hat.
+
+<sup>2</sup> Widerruft die zuständige Behörde die Allgemeinverbindlicherklärung (Art. 12 Abs. 4 des Gesetzes) oder setzt sie diese ausser Kraft (Art. 14 Abs. 1 des Gesetzes) so tritt dieser Entscheid frühestens 30 Tage danach in Kraft.
+
+<sup>3</sup> Läuft die Geltungsdauer (Art. 14 Abs. 2 des Gesetzes) einer Allgemeinverbindlicherklärung ab, so ist dies spätestens 30 Tage vorher zu veröffentlichen.
+
+<sup>4</sup> Die zuständige Behörde überprüft periodisch, ob die Voraussetzungen der Allgemeinverbindlicherklärung noch erfüllt sind.
+
+## 4. Abschnitt: Inkrafttreten
+
+#### Art. 8
+
+Diese Verordnung tritt am 1. März 1996 in Kraft.

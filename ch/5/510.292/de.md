@@ -1,0 +1,186 @@
+---
+sr: "510.292"
+title: Verordnung vom 17. Oktober 2012 über die elektronische Kriegführung und die Funkaufklärung (VEKF)
+short: VEKF
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
+language: de
+version: 2017-09-01
+adopted: 2012-10-17
+in_force: 2012-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2012-638-20170901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die elektronische Kriegführung und die Funkaufklärung
+
+(VEKF)
+
+vom 17. Oktober 2012 (Stand am 1. September 2017)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 38 Absatz 3 sowie 79 Absatz 4 des Nachrichtendienstgesetzes vom 25. September 2015[^ingress-1] (NDG), Artikel 99 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. Februar 1995[^ingress-2] (MG) sowie die Artikel 26 Absatz 2 und 48 Absatz 1 des Fernmeldegesetzes vom 30. April 1997[^ingress-3] (FMG),[^ingress-4]
+
+verordnet:
+
+[^ingress-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-4]: Fassung gemäss Anhang 4 Ziff. II 9 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+## 1. Abschnitt: Funkaufklärung
+
+#### Art. 1
+
+**Zuständige Stelle**[^1-1]
+
+Für die Funkaufklärung ist das Zentrum für elektronische Operationen (ZEO) zuständig.
+
+[^1-1]: Fassung gemäss Anhang 4 Ziff. II 9 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 2
+
+**Aufgaben des Zentrums für elektronische Operationen**
+
+<sup>1</sup> Das ZEO nimmt die Funkaufklärungsaufträge seiner Auftraggeber entgegen und bearbeitet sie.
+
+<sup>2</sup> Es erfasst und bearbeitet elektromagnetische Ausstrahlungen von Telekommunikationssystemen im Ausland und leitet die Resultate an die Auftraggeber weiter.
+
+<sup>3</sup> Es beschafft die technischen Einrichtungen, die zur Wahrnehmung seiner Aufgaben notwendig sind, und führt die erforderlichen Messungen und Versuche durch.
+
+<sup>4</sup> Es kann die Machbarkeit von neuen Funkaufklärungsaufträgen prüfen.
+
+<sup>5</sup> Es kann den Auftraggebern vorschlagen, zusätzliche Funkaufklärungsobjekte in laufende Aufträge aufzunehmen.
+
+#### Art. 3
+
+**Funkaufklärungsaufträge**
+
+<sup>1</sup>
+
+Die folgenden Stellen sind im Rahmen ihrer gesetzlichen Aufgaben berechtigt, Funkaufklärungsaufträge zu erteilen:
+
+- a. der Nachrichtendienst des Bundes (NDB);
+- b. der Nachrichtendienst der Armee.
+
+<sup>2</sup> Der NDB und der Nachrichtendienst der Armee dürfen ausschliesslich Funkaufklärungsaufträge zur Beschaffung von sicherheitspolitisch bedeutsamen Informationen über Vorgänge im Ausland erteilen.
+
+<sup>3</sup>
+
+Die Informationen nach Absatz 2 dienen:
+
+- a. im Bereich Terrorismus: der Erkennung von Aktivitäten, Verbindungen und Strukturen von terroristischen Gruppierungen und Netzwerken sowie der Erkennung von Aktivitäten und Verbindungen von Einzeltätern;
+- b.[^3-1] im Bereich Proliferation: zur Aufklärung von Weiterverbreitung nuklearer, biologischer oder chemischer Waffen, einschliesslich ihrer Trägersysteme, sowie aller zur Herstellung dieser Waffen notwendigen zivil und militärisch verwendbaren Güter und Technologien (NBC-Proliferation), zur Aufklärung von illegalem Handel mit radioaktiven Substanzen, Kriegsmaterial und anderen Rüstungsgütern, zur Aufklärung von Programmen für Massenvernichtungswaffen, einschliesslich ihrer Trägersysteme, sowie zur Aufklärung von Beschaffungsstrukturen und Beschaffungsversuchen;
+- c. im Bereich Spionageabwehr: der Erkennung von Aktivitäten und Strukturen staatlicher und nichtstaatlicher Akteure;
+- d. im Bereich ausländische Konflikte mit Auswirkungen auf die Schweiz: der Beurteilung der Sicherheitslagen, Regimestabilitäten und strategischen Einflussfaktoren;
+- e. im Bereich Militär und Rüstung: der Aufklärung von aktuellen und potenziellen militärischen Konflikten sowie von militärischen Potenzialen und Rüstungsentwicklungen;
+- f. im Bereich Einsatzgebiete der Schweizer Armee: der Aufklärung der aktuellen Sicherheitslage und der Beurteilung von möglichen Entwicklungen;
+- f<sup>bis</sup>.[^3-2] in den Bereichen Aufklärung der Cyber-Bedrohung und Schutz kritischer Infrastrukturen: zur Aufklärung des Einsatzes, der Herkunft und der technischen Beschaffenheit der Cyber-Angriffsmittel sowie zur Gestaltung wirksamer Abwehrmassnahmen;
+- g. der Aufrechterhaltung und Weiterentwicklung der Beschaffungstätigkeiten der berechtigten Auftraggeber.
+
+<sup>4</sup> Die Funkaufklärungsaufträge werden schriftlich vereinbart. Dabei werden insbesondere der Aufklärungsbereich und die Form der Resultate festgelegt.
+
+[^3-1]: Fassung gemäss Anhang 4 Ziff. II 9 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-2]: Eingefügt durch Anhang 4 Ziff. II 9 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 4
+
+**Datenbearbeitung**
+
+<sup>1</sup> Das ZEO vernichtet die im Rahmen der Funkaufklärung gewonnenen Resultate spätestens im Zeitpunkt der Beendigung des jeweiligen Funkaufklärungsauftrags.
+
+<sup>2</sup> Es vernichtet die erfassten Kommunikationen spätestens 18 Monate nach deren Erfassung.
+
+<sup>3</sup> Es vernichtet die erfassten Verbindungsdaten spätestens 5 Jahre nach deren Erfassung.
+
+<sup>4</sup> Es darf Daten, die aufgrund eines Funkaufklärungsauftrags erfasst worden sind, auch zur Erfüllung eines anderen Funkaufklärungsauftrags des gleichen Auftraggebers verwenden.
+
+<sup>5</sup> Die Anmeldung von Datensammlungen, das Auskunfts- und Einsichtsrecht sowie die Archivierung richten sich nach den für den jeweiligen Auftraggeber geltenden rechtlichen Bestimmungen.
+
+#### Art. 5
+
+**Daten über Personen und Vorgänge im Inland**
+
+<sup>1</sup> Daten über Personen und Vorgänge im Inland, die als solche erkannt worden sind, werden vom ZEO umgehend vernichtet.
+
+<sup>2</sup> Vorbehalten bleiben Daten nach Artikel 38 Absätze 4 Buchstabe b und 5 NDG.[^5-1]
+
+[^5-1]: Fassung gemäss Anhang 4 Ziff. II 9 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 6
+
+**Kontakte zu ausländischen Fachstellen**
+
+Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen über den NDB.
+
+#### Art. 7
+
+**Sicherheit**
+
+<sup>1</sup> Die Resultate der Funkaufklärungsaufträge werden nach der Informationsschutzverordnung vom 4. Juli 2007[^7-1] klassifiziert.
+
+<sup>2</sup> Die betroffenen Stellen gewährleisten in ihrem Verantwortungsbereich einen angemessenen Personen-, Informations- und Objektschutz.
+
+[^7-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+
+## 2. Abschnitt: …
+
+#### Art. 8-11
+
+[^811-1]
+
+[^811-1]: Aufgehoben durch Anhang Ziff. 5 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten, mit Wirkung seit. 1. Sept. 2017 ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+
+## 3. Abschnitt: Elektronische Kriegführung der Armee
+
+#### Art. 12
+
+<sup>1</sup> Für die elektronische Kriegführung nach Artikel 99 Absätze 1<sup>bis</sup> und 1<sup>ter</sup> MG sowie die Beeinträchtigung des elektromagnetischen Spektrums ist die Armee zuständig.
+
+<sup>2</sup> Die Beeinträchtigung des elektromagnetischen Spektrums auf nicht militärischen Frequenzen muss von der Departementsvorsteherin oder vom Departementsvorsteher des VBS genehmigt werden.
+
+<sup>3</sup> Der Chef der Armee erlässt Weisungen über die Ausbildung und den Einsatz im Bereich elektronische Kriegführung.
+
+<sup>4</sup> Das ZEO unterstützt die Ausbildung und den Einsatz im Bereich elektronische Kriegführung.
+
+## 4. Abschnitt: Technische Unterstützung von zivilen Behörden
+
+#### Art. 13
+
+<sup>1</sup> Das ZEO kann Behörden des Bundes und der Kantone bei der Wahrnehmung ihrer Aufgaben technisch unterstützen.
+
+<sup>2</sup> Die Unterstützung erfolgt nach den für den jeweiligen Auftraggeber geltenden rechtlichen Bestimmungen und in Absprache mit dem Bundesamt für Kommunikation.
+
+<sup>3</sup> Das ZEO kann die notwendigen technischen Mittel beschaffen sowie Machbarkeitsstudien, Messungen und Versuche durchführen.
+
+<sup>4</sup> Die Leistungen des ZEO werden nach den Bestimmungen der Gebührenverordnung VBS vom 8. November 2006[^13-1] vergütet.
+
+[^13-1]: [SR 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
+
+## 5. Abschnitt: Schlussbestimmungen
+
+#### Art. 14
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 15. Oktober 2003[^14-1] über die elektronische Kriegführung wird aufgehoben.
+
+[^14-1]: [[AS 2003 3971](https://fedlex.data.admin.ch/eli/oc/2003/571), [2006 3719](https://fedlex.data.admin.ch/eli/oc/2006/565), [2007 4309](https://fedlex.data.admin.ch/eli/oc/2007/574), [2008 3217](https://fedlex.data.admin.ch/eli/oc/2008/432), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 19]
+
+#### Art. 15
+
+**Änderung bisherigen Rechts**
+
+Die nachstehenden Verordnungen werden wie folgt geändert:
+
+…[^15-1]
+
+[^15-1]: Die Änderungen können unter [AS 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)konsultiert werden.
+
+#### Art. 16
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. November 2012 in Kraft.

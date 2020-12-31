@@ -1,0 +1,31 @@
+---
+sr: "232.149.336"
+title: "Arrêté du Conseil fédéral du 28 janvier 1908 concernant l'application de l'article 18 de la loi sur les brevets d'invention (Réciprocité envers les États-Unis d'Amérique pour l'extinction des brevets)"
+eli: "https://fedlex.data.admin.ch/eli/cc/24/35_33_33"
+language: fr
+version: 1908-02-17
+adopted: 1908-01-28
+in_force: 1908-02-17
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/35_33_33/19080217/fr/xml/fedlex-data-admin-ch-eli-cc-24-35_33_33-19080217-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/35_33_33/19080217/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Arrêté du Conseil fédéral concernant l’application de l’art. 18 de la loi fédérale sur les brevets d’invention
+
+(Réciprocité envers les États-Unis d’Amérique pour l’extinction des brevets)
+
+du 28 janvier 1908 (État le 17 février 1908)
+
+Le Conseil fédéral suisse,
+
+vu la déclaration du gouvernement des États-Unis d’Amérique de laquelle il résulte que, suivant les lois des États-Unis sur les brevets d’invention, aucun brevet ne peut être annulé pour non-exécution de l’invention brevetée, en application de l’art. 18, al. 2, de la loi fédérale du 21 juin 1907[^ingress-1] sur les brevets d’invention, sur la proposition de son département de justice et police,
+
+arrête:
+
+La disposition du premier alinéa de l’art. 18 de la loi fédérale du 21 juin 1907 sur les brevets d’invention est inapplicable à l’égard des États-Unis d’Amérique, en ce sens que l’exécution de l’invention dans les États-Unis équivaut à son exécution en Suisse.
+
+Date de l’entrée en vigueur: 17 février 1908
+
+[^ingress-1]: [RS **2** 887. [RO 1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 109 al. 2 ch. 1]. À l’art. 18 al. 2, devenu par la suite al. 4, et à l’art. 18 al. 1 de la loi mentionnée correspondent actuellement l’art. 39 et les art. 37 et 38 de la LF du 25 juin 1954 sur les brevets d’invention ([RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)).

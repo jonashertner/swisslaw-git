@@ -1,0 +1,2407 @@
+---
+sr: "131.217"
+title: "Verfassung des Kantons Glarus, vom 1. Mai 1988"
+eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
+language: de
+version: 2020-09-17
+adopted: 1988-05-01
+in_force: 1988-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20200917-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verfassung des Kantons Glarus
+
+vom 1. Mai 1988 (Stand am 17. September 2020)[^t-1]
+
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+
+**Präambel**
+
+Das Volk des Landes Glarus,
+
+eingedenk seiner Verantwortung vor Gott, den Menschen und der Schweizerischen Eidgenossenschaft,
+
+gibt sich folgende Verfassung:
+
+## Erstes Kapitel: Allgemeine Grundsätze
+
+### Erster Abschnitt: Grundlage der Verfassung
+
+#### Art. 1
+
+<sup>1</sup> Der Kanton Glarus ist ein Stand der Schweizerischen Eidgenossenschaft.
+
+<sup>2</sup> Die Staatsgewalt beruht im Volk. Es übt diese unmittelbar an der Landsgemeinde, an der Gemeindeversammlung und an der Urne, mittelbar durch die von ihm gewählten Behörden und Angestellten aus.[^1-1]
+
+<sup>3</sup> Die Verfassung und die gesamte übrige Rechtsordnung des Kantons unterstehen dem Bundesrecht.
+
+[^1-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+### Zweiter Abschnitt: Grundrechte und Staatsgrundsätze
+
+#### Art. 2
+
+**Geltung der Grundrechte**
+
+<sup>1</sup> Alle Staatsgewalt ist durch die Grundrechte beschränkt.
+
+<sup>2</sup> Jedermann soll bei der Ausübung seiner Grundrechte die Rechte anderer achten.
+
+<sup>3</sup> Die Grundrechte können nur im Rahmen der Verfassung und aufgrund des Gesetzes eingeschränkt werden. Vorbehalten bleiben Fälle ernster, unmittelbarer und offensichtlicher Gefahr.
+
+<sup>4</sup> Kein Eingriff in die Freiheit darf weiter gehen, als es ein zulässiger Zweck und ein überwiegendes öffentliches Interesse erfordern.
+
+<sup>5</sup> In der Ausübung privatrechtlicher Befugnisse haben Kanton und Gemeinden Sinn und Geist der Grundrechte zu wahren.
+
+#### Art. 3
+
+**Persönlichkeit, Würde und Freiheit des Menschen**
+
+Persönlichkeit, Würde und Freiheit des Menschen sind unantastbar.
+
+#### Art. 4
+
+**Rechtsgleichheit**
+
+<sup>1</sup> Die Rechtsgleichheit ist für jedermann gewährleistet.
+
+<sup>2</sup> Niemand darf wegen seines Geschlechts, seiner Sprache, seiner Rasse, seiner Heimat oder Herkunft, seiner religiösen, weltanschaulichen oder politischen Ansichten benachteiligt oder bevorzugt werden.
+
+#### Art. 5
+
+**Persönliche Freiheit**
+
+<sup>1</sup> Jedermann hat das Recht auf Leben, körperliche und geistige Unversehrtheit, Bewegungsfreiheit, persönliche Sicherheit, Schutz der Gesundheit sowie Schutz vor Missbrauch der ihn betreffenden Daten.
+
+<sup>2</sup> Das Privatleben und das Hausrecht sind unverletzlich.
+
+#### Art. 6
+
+**Glaubens- und Gewissensfreiheit**
+
+Die Glaubens- und Gewissensfreiheit ist unverletzlich.
+
+#### Art. 7
+
+**Kirchen- und Kultusfreiheit**
+
+Die freie Bildung religiöser Gemeinschaften und die freie Ausübung gottesdienstlicher Handlungen sind gewährleistet, soweit sie nicht die öffentliche Ordnung oder den konfessionellen Frieden ernsthaft beeinträchtigen.
+
+#### Art. 8
+
+**Meinungsfreiheit**
+
+Die freie Meinungsbildung, Meinungsäusserung und Meinungsverbreitung in Wort, Schrift und Bild oder auf andere Weise ist gewährleistet, soweit die öffentliche Ordnung, der Jugendschutz und der Schutz der persönlichen Verhältnisse Dritter gewahrt bleiben.
+
+#### Art. 9
+
+**Medienfreiheit**
+
+<sup>1</sup> Die Freiheit der Medien ist gewährleistet.
+
+<sup>2</sup> Es besteht keine Zensur von Presse, Film oder andern Medien.
+
+#### Art. 10
+
+**Kultur- und Kunstfreiheit**
+
+Die Freiheit der Kultur und der Kunst ist gewährleistet.
+
+#### Art. 11
+
+**Unterrichts- und Lehrfreiheit**
+
+Die Unterrichts- und Lehrfreiheit ist in den Schranken des Gesetzes sowie der Ziele der öffentlichen Schul- und Bildungsförderung gewährleistet.
+
+#### Art. 12
+
+**Vereins- und Versammlungsfreiheit**
+
+<sup>1</sup> Die Vereins- und Versammlungsfreiheit ist gewährleistet.
+
+<sup>2</sup> Versammlungen und Kundgebungen auf öffentlichem Grund können von einer Bewilligung abhängig gemacht werden. Sie dürfen nur verboten oder eingeschränkt werden, wenn eine ernste und unmittelbare Gefahr für die öffentliche Ordnung und Sicherheit besteht.
+
+#### Art. 13
+
+**Niederlassungsfreiheit**
+
+Die freie Niederlassung ist gewährleistet.
+
+#### Art. 14
+
+**Eigentumsgarantie**
+
+<sup>1</sup> Das Eigentum ist gewährleistet.
+
+<sup>2</sup> Das Gesetz kann im öffentlichen Interesse Enteignungen oder Eigentumsbeschränkungen vorsehen.
+
+<sup>3</sup> für Enteignungen sowie für Eigentumsbeschränkungen, die einer Enteignung gleichkommen, ist volle Entschädigung zu leisten.
+
+#### Art. 15
+
+**Wirtschaftsfreiheit**
+
+Die freie wirtschaftliche Tätigkeit, insbesondere die freie Wahl und Ausübung eines Berufes und die freie Erwerbstätigkeit, ist gewährleistet.
+
+#### Art. 16
+
+**Rechtsschutz**
+
+<sup>1</sup> Niemand darf dem verfassungsmässigen Richter entzogen werden.
+
+<sup>2</sup> Jede Behörde und Amtsstelle hat den Betroffenen das rechtliche Gehör zu gewährleisten. Jedermann hat Anspruch auf Einsicht in ihn betreffende Akten, soweit nicht überwiegende öffentliche oder private Interessen die Geheimhaltung erfordern.
+
+<sup>3</sup> Die staatlichen Organe müssen ihre Entscheide begründen und die dagegen bestehenden Rechtsmittel angeben; vorbehalten bleiben gesetzliche Ausnahmen.
+
+<sup>4</sup> für Bedürftige ist die Rechtspflege im Rahmen des Gesetzes unentgeltlich.
+
+<sup>5</sup> Die Gesetzgebung bestimmt die für die Betroffenen notwendigen Garantien bei Hausdurchsuchung, Verhaftung oder Beschlagnahmung sowie während der Strafuntersuchung, des Strafvollzugs oder der Versorgung.
+
+#### Art. 17
+
+**Grundsätze des staatlichen Handelns**
+
+Jedes staatliche Handeln muss rechtmässig und verhältnismässig sein sowie Treu und Glauben achten.
+
+#### Art. 18
+
+**Staatshaftung**
+
+<sup>1</sup> Kanton, Gemeinden und andere öffentlich-rechtliche Körperschaften haften für den Schaden, den ihre Behördenmitglieder, Angestellten und Lehrpersonen oder andere im öffentlichen Auftrag tätige Personen durch eine Amtshandlung rechtswidrig verursacht haben.[^18-1]
+
+<sup>2</sup> und <sup>3</sup> …[^18-2]
+
+[^18-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^18-2]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+#### Art. 19
+
+**Rückwirkungsverbot**
+
+Rückwirkende Erlasse dürfen dem einzelnen keine neuen Belastungen auferlegen.
+
+### Dritter Abschnitt: Bürgerrecht
+
+#### Art. 20
+
+<sup>1</sup> Das Kantonsbürgerrecht begründet alle Rechte und Pflichten eines Bürgers des Bundes, des Kantons und der Gemeinde.
+
+<sup>2</sup> Das Kantonsbürgerrecht ist mit dem Gemeindebürgerrecht untrennbar verbunden.[^20-1]
+
+<sup>3</sup> …[^20-2]
+
+<sup>4</sup> Das Gesetz regelt Erwerb und Verlust des Kantons- und des Gemeindebürgerrechts.[^20-3]
+
+[^20-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^20-2]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^20-3]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Vierter Abschnitt: Bürgerpflichten
+
+#### Art. 21
+
+<sup>1</sup> Jedermann hat die Pflichten zu erfüllen, die ihm die Rechtsordnung des Kantons und der Gemeinden auferlegt.
+
+<sup>2</sup> Die Teilnahme an der Landsgemeinde, an den Gemeindeversammlungen und an den geheimen Wahlen und Abstimmungen ist Bürgerpflicht.
+
+## Zweites Kapitel: Öffentliche Aufgaben und Finanzordnung
+
+### Erster Abschnitt: Umweltschutz und Raumordnung
+
+#### Art. 22
+
+**Schutz der Umwelt**
+
+<sup>1</sup> Jedermann ist verpflichtet, die Umwelt zu schonen.
+
+<sup>2</sup> Der Kanton und die Gemeinden erlassen im Rahmen des Bundesrechts Vorschriften und treffen Massnahmen zum Schutz des Menschen und seiner Umwelt.
+
+<sup>3</sup> Sie bewahren die Schönheit und Eigenart der Landschaft und der Ortsbilder sowie der Natur- und Kulturdenkmäler.
+
+#### Art. 23
+
+**Raumplanung**
+
+Der Kanton und die Gemeinden stellen im Rahmen des Bundesrechts die geordnete Besiedlung des Landes und die zweckmässige Nutzung des Bodens sicher.
+
+#### Art. 24
+
+**Bauwesen, Strassen und Gewässer**
+
+<sup>1</sup> Der Kanton und die Gemeinden regeln das Bauwesen. Den Bedürfnissen der Behinderten ist angemessen Rechnung zu tragen.
+
+<sup>2</sup> Der Kanton und die Gemeinden ordnen Planung, Bau und Unterhalt der Strassen und Wege.
+
+<sup>3</sup> Der Kanton übt nach Gesetz die Aufsicht über die Gewässer aus.
+
+<sup>4</sup> Er stellt Vorschriften über die öffentlichen Sachen sowie über deren Gebrauch und Nutzung auf.
+
+### Zweiter Abschnitt: Öffentliche Ordnung
+
+#### Art. 25
+
+Der Kanton und die Gemeinden gewährleisten die öffentliche Ordnung und Sicherheit.
+
+### Dritter Abschnitt: Sozialwesen
+
+#### Art. 26
+
+**Soziale Sicherheit und allgemeine Wohlfahrt**
+
+<sup>1</sup> Der Kanton und die Gemeinden fördern die soziale Sicherheit und die allgemeine Wohlfahrt.
+
+<sup>2</sup> Die öffentliche Sozialhilfe soll die persönliche Verantwortung und Selbsthilfe stärken.[^26-1]
+
+<sup>3</sup> Der Kanton übt im Rahmen des Bundesrechts die Aufsicht über das Sozialwesen aus.
+
+[^26-1]: Angenommen an der Landsgemeinde vom 7. Mai 1995, in Kraft seit 1. Jan. 1996. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 3, I 1301).
+
+#### Art. 27
+
+**Sozialversicherung**
+
+Der Kanton und die Gemeinden können die Leistungen des Bundes für die soziale Sicherheit ergänzen.
+
+#### Art. 28
+
+**Arbeitslosenfürsorge und Arbeitsrecht**
+
+<sup>1</sup> Der Kanton regelt im Rahmen des Bundesrechts die Arbeitslosenfürsorge und Arbeitsvermittlung.
+
+<sup>2</sup> Er kann in Ergänzung des Bundesrechts Vorschriften über das Arbeitsverhältnis und den Schutz der Arbeitnehmer erlassen.
+
+<sup>3</sup> Der Kanton und die Gemeinden können Massnahmen zur Arbeitsbeschaffung treffen.
+
+#### Art. 29
+
+**Sozialhilfe und Vormundschaftswesen**[^29-1]
+
+<sup>1</sup> Die öffentliche Sozialhilfe und das Vormundschaftswesen sind Sache des Kantons. Die Gemeinden unterstützen den Kanton in der Wahrnehmung dieser Aufgaben, soweit dies für eine wirksame und kostengünstige Erfüllung dieser Aufgaben erforderlich ist.[^29-2]
+
+<sup>2</sup> Das Gesetz regelt die Aufsicht des Kantons über Sozialhilfeeinrichtungen, im Besonderen über stationäre Einrichtungen.
+
+[^29-1]: Angenommen an der Landsgemeinde vom 7. Mai 1995, in Kraft seit 1. Jan. 1996. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 3, I 1301).
+[^29-2]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 30
+
+**Betreuung von Ausländern**
+
+Der Kanton und die Gemeinden sind bei der Eingliederung der Ausländer behilflich.
+
+#### Art. 31
+
+**Wohnbauförderung**
+
+Der Kanton kann den Wohnungsbau fördern oder Mietzinserleichterungen gewähren, sei es selbständig, in Ergänzung des Bundesrechts oder zusammen mit den Gemeinden oder Dritten.
+
+### Vierter Abschnitt: Gesundheitswesen
+
+#### Art. 32
+
+**Allgemeines**
+
+<sup>1</sup> Der Kanton und die Gemeinden fördern die Volksgesundheit, die Gesundheitsvorsorge und die Krankenpflege.
+
+<sup>2</sup> Das Gesetz regelt die Aufsicht des Kantons über das Gesundheitswesen.
+
+<sup>3</sup> Der Kanton ordnet das Medizinalwesen und die Gesundheitspolizei.
+
+<sup>4</sup> …[^32-1]
+
+[^32-1]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+#### Art. 33
+
+**Spitäler und Heime**
+
+<sup>1</sup> Der Kanton gewährleistet den Betrieb eines Spitals mit Standort im Kanton Glarus (Kantonsspital). Das Gesetz regelt die vom Kantonsspital zu erbringenden Leistungen und die Rechtsform.[^33-1]
+
+<sup>2</sup> Die Gemeinden sorgen für die stationäre Altersbetreuung.[^33-2]
+
+<sup>3</sup> Sie können Alters- und Pflegeheime führen oder deren Führung an Dritte übertragen.[^33-3]
+
+<sup>4</sup> Das Gesetz regelt die Aufsicht.[^33-4]
+
+[^33-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 3. Mai 2009. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^33-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-4]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+### Fünfter Abschnitt: Schutz der Familie
+
+#### Art. 34
+
+Der Kanton und die Gemeinden sind bestrebt, die Familie als Grundlage des Gemeinwesens zu schützen und zu festigen.
+
+### Sechster Abschnitt: Schul- und Bildungswesen
+
+#### Art. 35
+
+**Schulpflicht**
+
+<sup>1</sup> Der Schulbesuch ist innerhalb der gesetzlichen Altersgrenzen obligatorisch.
+
+<sup>2</sup> Jedermann soll die öffentlichen Schulen ohne Beeinträchtigung seiner Glaubens- und Gewissensfreiheit besuchen können.
+
+<sup>3</sup> Beiden Geschlechtern sind die gleichen Ausbildungsmöglichkeiten zu gewährleisten.
+
+<sup>4</sup> Während der obligatorischen Schulzeit ist der Unterricht an allen öffentlichen Schulen für Kantonseinwohner unentgeltlich. Soweit das Gesetz nichts anderes bestimmt, werden die Lehr- und Unterrichtsmittel unentgeltlich zur Verfügung gestellt.
+
+#### Art. 36
+
+**Privatschulen**
+
+<sup>1</sup> Das Recht, Privatschulen zu errichten und zu führen, ist in den Schranken des Gesetzes gewährleistet.
+
+<sup>2</sup> Die Privatschulen können aus öffentlichen Mitteln unterstützt werden.
+
+#### Art. 37
+
+**Öffentliche Aufgaben im Schulwesen**
+
+<sup>1</sup> Das gesamte Schul- und Bildungswesen steht unter der Aufsicht des Kantons.
+
+<sup>2</sup> Die Gemeinden führen die Volksschule.
+
+<sup>3</sup>
+
+Der Kanton nimmt im Schulwesen insbesondere folgende Aufgaben wahr:
+
+- a. er führt eine Kantonsschule;
+- b. er führt und fördert Berufsschulen und Fortbildungskurse;
+- c.[^37-1] er fördert den ausserschulischen Musikunterricht.
+
+<sup>4</sup> Der Kanton kann Aufgaben der Berufsbildung privaten Unternehmen, Wirtschafts- und Berufsverbänden oder andern Organisationen übertragen.
+
+<sup>5</sup> Er erleichtert die Ausbildung durch Stipendien und soziale Massnahmen.
+
+[^37-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+
+#### Art. 38
+
+**Kinderhorte**[^38-1]
+
+Der Kanton regelt die Führung der Kinderhorte.
+
+[^38-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Aug. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+
+#### Art. 39
+
+**Sonderschulen und Erziehungsheime**
+
+<sup>1</sup> Geistig und körperlich behinderte Kinder erhalten unentgeltlich eine angemessene Erziehung und Ausbildung.
+
+<sup>2</sup> Der Kanton unterstützt oder führt Sonderschulen und Erziehungsheime.[^39-1]
+
+<sup>3</sup> Das Gesetz regelt die Aufsicht des Kantons über die Sonderschulen und Erziehungsheime.
+
+[^39-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+
+#### Art. 40
+
+**Kulturförderung; Erwachsenenbildung; Jugendarbeit**
+
+<sup>1</sup> Der Kanton und die Gemeinden fördern das kulturelle, künstlerische und wissenschaftliche Schaffen.
+
+<sup>2</sup> Sie unterstützen die Erwachsenenbildung.
+
+<sup>3</sup> Sie fördern die Jugendarbeit.
+
+#### Art. 41
+
+**Sport**
+
+Der Kanton und die Gemeinden unterstützen den gesundheitsfördernden Sport.
+
+### Siebenter Abschnitt: Wirtschaft
+
+#### Art. 42
+
+**Wirtschaftsförderung**
+
+<sup>1</sup> Der Kanton und die Gemeinden sind bestrebt, alle Bereiche der Wirtschaft zu fördern, indem sie insbesondere günstige Rahmenbedingungen schaffen.
+
+<sup>2</sup> Der Kanton und die Gemeinden können im öffentlichen Interesse Organisationen, Werke oder Unternehmen, die der Förderung der wirtschaftlichen Entwicklung des Kantons dienen, unterstützen, betreiben oder sich daran beteiligen.
+
+<sup>3</sup> Der Kanton achtet bei der Wirtschaftsförderung auf eine ausgeglichene Entwicklung aller Landesteile.
+
+#### Art. 43
+
+**Wirtschaftspolizei**
+
+Der Kanton kann Vorschriften für die geordnete Ausübung wirtschaftlicher Tätigkeiten erlassen.
+
+#### Art. 44
+
+**Landwirtschaft**
+
+Der Kanton kann in Ergänzung des Bundesrechts Massnahmen zur Erhaltung und Förderung der Landwirtschaft treffen.
+
+#### Art. 45
+
+**Waldwirtschaft**
+
+<sup>1</sup> Der Kanton ordnet durch Gesetz die Massnahmen zur Erhaltung und Bewirtschaftung der Wälder.
+
+<sup>2</sup> Der Kanton und die Gemeinden können in Ergänzung des Bundesrechts Massnahmen zur Förderung der Forstwirtschaft treffen.
+
+#### Art. 46
+
+**Öffentlicher Verkehr und Energie**
+
+<sup>1</sup> Der Kanton und die Gemeinden fördern den öffentlichen Verkehr. Sie können sich an Verkehrsunternehmen beteiligen oder solche betreiben.
+
+<sup>2</sup> Der Kanton und die Gemeinden fördern eine ausreichende und umweltgerechte Energieversorgung sowie einen sparsamen Energieverbrauch. Sie können sich an Werken für die Energieversorgung beteiligen oder solche betreiben.
+
+#### Art. 47
+
+**Regalrechte**
+
+<sup>1</sup> Dem Kanton stehen das Bergregal, das Salzregal, das Jagd- und das Fischereiregal zu.
+
+<sup>2</sup> Er regelt durch Gesetz die Gewinnung und Nutzung der Erdwärme.
+
+#### Art. 48
+
+**Gebäudeversicherung**
+
+<sup>1</sup> Der Kanton betreibt eine Anstalt für die Gebäudeversicherung.
+
+<sup>2</sup> Die Anstalt kann nach Gesetz weitere Sachversicherungen führen.
+
+#### Art. 49
+
+**Kantonalbank**
+
+<sup>1</sup> Der Kanton betreibt eine Kantonalbank. Er garantiert deren Verbindlichkeiten.
+
+<sup>2</sup> Die Kantonalbank muss nach wirtschaftlichen Gesichtspunkten geführt werden. Sie hat vor allem der gesamten Volkswirtschaft zu dienen.
+
+### Achter Abschnitt: Finanzordnung
+
+#### Art. 50
+
+**Steuern und andere Abgaben**
+
+<sup>1</sup> Der Kanton und die Gemeinden sind berechtigt, für die Bedürfnisse des öffentlichen Haushalts nach Gesetz Steuern zu erheben.
+
+<sup>2</sup> Sie besteuern das Einkommen und das Vermögen der natürlichen Personen sowie den Ertrag und das Kapital der juristischen Personen.
+
+<sup>3</sup> Das Gesetz bestimmt Art und Umfang der weiteren Steuern. Es regelt die übrigen Abgaben, die Kanton, Gemeinden oder andere öffentlich-rechtliche Körperschaften erheben können.
+
+<sup>4</sup> Der Kanton, die Gemeinden und die andern öffentlich-rechtlichen Körperschaften können aufgrund von Verordnungen oder Gemeindeerlassen Gebühren verlangen.
+
+#### Art. 51
+
+**Steuerpflicht**
+
+Alle Steuerpflichtigen haben nach ihren Mitteln und ihrer wirtschaftlichen Leistungsfähigkeit die Staats- und Gemeindelasten mitzutragen.
+
+#### Art. 52
+
+**Finanzhaushalt**
+
+<sup>1</sup> Der Kanton, die Gemeinden und die andern öffentlich-rechtlichen Körperschaften müssen ihren Haushalt nach den Grundsätzen der Gesetzmässigkeit, des Haushaltsgleichgewichts, der Sparsamkeit, der Dringlichkeit, der Wirtschaftlichkeit, des Verursacherprinzips, der Vorteilsabgeltung, der Wirkungsorientierung, der Zielorientierung und des Verbots der Zweckbindung von Hauptsteuern, unter Vorbehalt der Bausteuer, führen.[^52-1]
+
+<sup>2</sup> Das Gesetz bestimmt die Einzelheiten der Ausgabenbefugnisse.
+
+<sup>3</sup> Es regelt Umfang und Durchführung von Finanzkontrollen durch unabhängige Organe.[^52-2]
+
+<sup>4</sup> Der Kanton und die Gemeinden erstellen Finanzplanungen.[^52-3]
+
+[^52-1]: Angenommen an der Landsgemeinde vom 5. Mai 2019, in Kraft seit 1. Jan. 2020. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 2, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^52-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^52-3]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 53
+
+**Budget und Rechnung[^53-1]**
+
+<sup>1</sup> Das Budget enthält die voraussichtlichen Erträge und Einnahmen sowie die bewilligten Aufwände und Ausgaben der Rechnungsperiode.[^53-2]
+
+<sup>2</sup> Die Rechnung enthält sämtliche Erträge und Einnahmen sowie Aufwände und Ausgaben und gibt die Vermögenslage auf Ende der Rechnungsperiode an.[^53-3]
+
+<sup>3</sup> Im Rechnungswesen gilt der Grundsatz der Öffentlichkeit.
+
+[^53-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^53-2]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^53-3]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+#### Art. 54
+
+**Finanzierung**
+
+<sup>1</sup> Die Behörden müssen bei der Vorbereitung von Erlassen und Beschlüssen in jedem Fall die finanziellen Auswirkungen beurteilen und, wenn erforderlich, zusätzliche Deckung schaffen.
+
+<sup>2</sup> Sie müssen die entsprechenden Angaben und Anträge in die Vorlagen aufnehmen.
+
+#### Art. 55
+
+**Kantons- und Gemeindeleistungen an die Aufgabenerfüllung**[^55-1]
+
+<sup>1</sup> Der Kanton richtet den Gemeinden zur Unterstützung ihrer Aufgaben nach Gesetz Abgeltungen und zweckgebundene Finanzhilfen aus.
+
+<sup>2</sup> Die Gemeinden können nach Gesetz zu geldwerten Leistungen an die Erfüllung gemeinsamer Aufgaben des Kantons und der Gemeinden verpflichtet werden.
+
+[^55-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 55a
+
+**Finanzausgleich**[^55a-1]
+
+Der Finanzausgleich besteht aus dem Ressourcen- und dem Lastenausgleich. Den Ressourcenausgleich finanzieren die Gemeinden, der Lastenausgleich wird vom Kanton finanziert. Das Gesetz regelt das Nähere.
+
+[^55a-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+## Drittes Kapitel: Politische Rechte der Bürger und Landsgemeinde
+
+### Erster Abschnitt: Politische Rechte
+
+#### Art. 56
+
+**Voraussetzungen des Stimmrechts**
+
+<sup>1</sup> Alle Schweizer sind im Kanton und in der Gemeinde stimmberechtigt, wenn sie hier wohnhaft sind und das 16. Altersjahr zurückgelegt haben.[^56-1]
+
+<sup>2</sup> Ausgeschlossen vom Stimmrecht ist, wer wegen Geisteskrankheit oder Geistesschwäche entmündigt ist.
+
+<sup>3</sup> Das Stimmrecht wird an der Landsgemeinde und im Übrigen, soweit das Gesetz keine Erleichterungen vorsieht, am Wohnort ausgeübt; es wird mit der Niederlassung erlangt.
+
+[^56-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 57
+
+**Inhalt des Stimmrechts**
+
+<sup>1</sup>
+
+Auf kantonaler Ebene hat jeder Stimmberechtigte das Recht:
+
+- a.[^57-1] an der Landsgemeinde oder an der Urne zu wählen und, ab zurückgelegtem 18. Altersjahr, gewählt zu werden;
+- b. Anträge zuhanden der Landsgemeinde zu stellen;
+- c. an der Landsgemeinde zu raten, zu mindern und zu mehren;
+- d. an der Urne über Stellungnahmen des Kantons zuhanden des Bundes über die Errichtung von Atomanlagen auf dem Gebiet des Kantons Glarus und der angrenzenden Kantone abzustimmen.
+
+<sup>2</sup>
+
+Auf Gemeindeebene hat jeder Stimmberechtigte das Recht:
+
+- a.[^57-2] an der Gemeindeversammlung oder an der Urne zu wählen und, ab zurückgelegtem 18. Altersjahr, gewählt zu werden;
+- b. Anträge zuhanden der Gemeindeversammlung zu stellen;
+- c. an der Gemeindeversammlung zu raten sowie an der Gemeindeversammlung oder an der Urne abzustimmen.
+
+[^57-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^57-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 58
+
+**Memorialsanträge**
+
+<sup>1</sup> Die Stimmberechtigten haben das Recht, jederzeit zuhanden der Landsgemeinde selbstständig oder gemeinsam mit anderen Stimmberechtigten Memorialsanträge zu stellen.[^58-1] Dieses Recht steht auch den Gemeinden und ihren Vorsteherschaften zu.[^58-2]
+
+<sup>2</sup> Ein Memorialsantrag kann jeden Gegenstand betreffen, der in die Zuständigkeit der Landsgemeinde fällt.[^58-3]
+
+<sup>3</sup> …[^58-4]
+
+<sup>4</sup> Verletzt der Antrag die Einheit der Form, die Einheit der Materie oder übergeordnetes Recht oder ist er undurchführbar, so erklärt ihn der Landrat für ganz oder teilweise unzulässig.[^58-5]
+
+<sup>5</sup> Der Antrag muss genau umschrieben, begründet und von den Antragstellern unterzeichnet sein.
+
+<sup>6</sup> …[^58-6]
+
+[^58-1]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^58-3]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-4]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-5]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-6]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+
+#### Art. 59
+
+**Behandlung der Memorialsanträge**
+
+<sup>1</sup> …[^59-1]
+
+<sup>2</sup> Der Landrat entscheidet über die rechtliche Zulässigkeit der Anträge und beschliesst über deren Erheblichkeit. Zulässige Anträge sind erheblich, wenn sie wenigstens zehn Stimmen auf sich vereinigen.[^59-2]
+
+<sup>3</sup> Der Landrat legt die Memorialsanträge nach dem Beschluss über die Erheblichkeit spätestens der übernächsten Landsgemeinde vor.
+
+<sup>4</sup> Bei Anträgen des Regierungsrates zuhanden der Landsgemeinde erfolgt kein Beschluss über die Erheblichkeit; tritt der Landrat aber auf einen Antrag des Regierungsrates nicht ein oder weist er ihn ab, so fällt der Antrag dahin.
+
+[^59-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^59-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+
+#### Art. 60
+
+**Petitionsrecht**
+
+<sup>1</sup> Jedermann ist berechtigt, an Behörden Petitionen und Eingaben zu richten.
+
+<sup>2</sup> Die angesprochene Behörde hat sie im Rahmen ihrer Zuständigkeit zu beantworten oder an die zuständige Stelle weiterzuleiten.
+
+### Zweiter Abschnitt: Landsgemeinde
+
+#### Art. 61
+
+**Stellung der Landsgemeinde**
+
+Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie ist das oberste Organ des Kantons.
+
+#### Art. 62
+
+**Landsgemeindememorial**
+
+<sup>1</sup> Das Landsgemeindememorial enthält die an der Landsgemeinde zur Behandlung kommenden Geschäfte, insbesondere die Gesetzes- und Beschlussesentwürfe des Landrates und die eingereichten Memorialsanträge.
+
+<sup>2</sup> Die vom Landrat unerheblich erklärten Memorialsanträge werden ohne Stellungnahme gesondert aufgeführt.
+
+<sup>3</sup> Mit dem Memorial werden der Landsgemeinde die Jahresrechnung, der Finanz-bericht sowie das Budget zur Kenntnis gebracht.[^62-1]
+
+<sup>4</sup> Das Landsgemeindememorial wird in einer ausreichenden Anzahl spätestens vier Wochen vor der Landsgemeinde an die Stimmberechtigten verteilt.[^62-2]
+
+<sup>5</sup> …[^62-3]
+
+[^62-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^62-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^62-3]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+
+#### Art. 63
+
+**Einberufung**
+
+<sup>1</sup> Die ordentliche Landsgemeinde versammelt sich am ersten Sonntag im Mai in Glarus.
+
+<sup>2</sup> Der Regierungsrat entscheidet über eine allfällige Verschiebung.
+
+<sup>3</sup> Eine ausserordentliche Landsgemeinde findet statt, wenn die Landsgemeinde es beschliesst, wenn es mindestens 2000 Stimmberechtigte unter Angabe der zu behandelnden Gegenstände verlangen oder wenn der Landrat die Stimmberechtigten zur Behandlung dringlicher Geschäfte zusammenruft.
+
+<sup>4</sup> …[^63-1]
+
+<sup>5</sup> Der Regierungsrat kann Massnahmen zur Erleichterung der Teilnahme treffen, besonders für Stimmberechtigte aus entfernteren Gemeinden.
+
+[^63-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+
+#### Art. 64
+
+**Leitung und Eröffnung**
+
+<sup>1</sup> Der Landammann leitet die Landsgemeinde. Wenn er verhindert ist, tritt an seine Stelle der Landesstatthalter, bei dessen Verhinderung der amtsälteste Regierungsrat.
+
+<sup>2</sup> Der Landammann eröffnet die Landsgemeinde mit einer Ansprache. Danach werden die stimmberechtigten Teilnehmer vereidigt.
+
+#### Art. 65
+
+**Verhandlungen**
+
+<sup>1</sup> Die Grundlage für die Verhandlungen bilden die im Memorial oder im Amtsblatt veröffentlichten Vorlagen des Landrates; andere Gegenstände dürfen nicht beraten werden.
+
+<sup>2</sup> Jeder stimmberechtigte Teilnehmer hat das Recht, zu den Sachvorlagen Anträge auf Unterstützung, Abänderung, Ablehnung, Verschiebung oder Rückweisung zu stellen.
+
+<sup>3</sup> Abänderungsanträge müssen zum Beratungsgegenstand in einem sachlichen Zusammenhang stehen.
+
+<sup>4</sup> Auf die vom Landrat nicht erheblich erklärten Memorialsanträge tritt die Landsgemeinde nur auf besonderen Antrag hin ein; sie kann entweder die Ablehnung oder die Behandlung auf das folgende Jahr beschliessen.
+
+<sup>5</sup> Wer sich zu einer Sachvorlage äussern will, hat zuerst seinen Antrag zu formulieren und ihn danach kurz zu begründen.
+
+#### Art. 66
+
+**Abstimmungsverfahren**
+
+<sup>1</sup> Der Antrag des Landrates ist genehmigt, wenn hiezu kein abweichender Antrag gestellt wird.
+
+<sup>2</sup> Wird aber ein solcher Antrag gestellt, so hat die Landsgemeinde zu mindern oder zu mehren.
+
+<sup>3</sup> Werden an einer Vorlage zwei oder mehr Abänderungen vorgenommen, so ist eine Schlussabstimmung durchzuführen.
+
+<sup>4</sup> Bei Wahlen wird in jedem Fall abgestimmt.
+
+#### Art. 67
+
+**Ermittlung der Mehrheit**
+
+<sup>1</sup> Der Landammann ermittelt die Mehrheit durch Abschätzen. In zweifelhaften Fällen kann er vier Mitglieder des Regierungsrates beratend beiziehen.
+
+<sup>2</sup> Sein Entscheid ist unanfechtbar.
+
+#### Art. 68
+
+**Wahlbefugnisse**
+
+Die Landsgemeinde ist zuständig für:
+
+- a. die Wahl des Landammanns und des Landesstatthalters;
+- b.[^68-1] die Wahl der Gerichtspräsidenten und der weiteren Richter;
+- c. …[^68-2].
+
+[^68-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^68-2]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 69
+
+**Gesetzgebung und Sachbefugnisse**[^69-1]
+
+<sup>1</sup> Die Landsgemeinde ist zuständig für die Änderung der Kantonsverfassung. Sie erlässt zudem in der Form des Gesetzes alle grundlegenden und wichtigen Bestimmungen.
+
+<sup>2</sup>
+
+Sie ist im Weiteren zuständig für:
+
+- a. die Zustimmung zu Konkordaten und andern Verträgen, wenn diese einen Gegenstand der Verfassung oder der Gesetzgebung oder eine Ausgabe nach Buchstabe b betreffen;
+- b. Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck von mehr als 1 Million Franken und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck von mehr als 200 000 Franken im Jahr;
+- c. den freien Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 5 000 000 Franken;
+- d. weitere durch den Landrat vorgelegte Beschlüsse;
+- e. die Festsetzung des Steuerfusses.
+
+<sup>3</sup> Die Landsgemeinde kann ihre Befugnisse dem Landrat oder dem Regierungsrat übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt und nach Zweck und Umfang näher umschrieben wird.
+
+[^69-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+### Dritter Abschnitt: Kantonale Urnenwahlen
+
+#### Art. 70
+
+**Landrat**
+
+<sup>1</sup> Die Stimmberechtigten wählen die Mitglieder des Landrates an der Urne nach dem Verhältniswahlverfahren.
+
+<sup>2</sup> Das Gesetz legt die Wahlkreise und das Verteilungsverfahren fest.
+
+#### Art. 71
+
+**Regierungsrat**
+
+Die Stimmberechtigten wählen die Mitglieder des Regierungsrates an der Urne nach dem Mehrheitswahlverfahren.
+
+#### Art. 72
+
+**Ständerat**
+
+Die Stimmberechtigten wählen die beiden Mitglieder des Ständerates an der Urne nach dem Mehrheitswahlverfahren.
+
+## Viertes Kapitel: Allgemeine Bestimmungen für die Behörden
+
+#### Art. 73
+
+**Gewaltentrennung**
+
+Die gesetzgebende, die vollziehende und die richterliche Gewalt sind dem Grundsatz nach getrennt.
+
+#### Art. 74
+
+**Wählbarkeit**[^74-1]
+
+<sup>1</sup> Alle Stimmberechtigten ab zurückgelegtem 18. Altersjahr sind wählbar als Landrat, Regierungsrat oder Richter, als Ständerat oder als Mitglied der weiteren Behörden des Kantons und der Gemeinden.[^74-2]
+
+<sup>2</sup> Das Gesetz kann für bestimmte Behörden zusätzliche Wählbarkeitsvoraussetzungen vorsehen.
+
+<sup>3</sup> Durch Gesetz oder Verordnung des Landrates kann gestattet werden, ausnahmsweise bestimmte Behörden durch Nichtstimmberechtigte zu besetzen.
+
+[^74-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^74-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 75
+
+**Unvereinbarkeiten**
+
+<sup>1</sup> Die Mitglieder des Regierungsrates, der Gerichte sowie die im Gesetz bezeichneten kantonalen Angestellten können dem Landrat nicht angehören.[^75-1]
+
+<sup>2</sup> Die Mitglieder des Regierungsrates können kein Richteramt ausüben. Sie dürfen zudem weder einer Gemeindebehörde noch den eidgenössischen Räten angehören und nicht Angestellte oder Lehrpersonen des Kantons oder einer Gemeinde sein. Das Gesetz regelt die Unvereinbarkeit des Regierungsamtes mit anderweitigen Nebenbeschäftigungen.[^75-2]
+
+<sup>3</sup> Die Mitglieder des Verwaltungsgerichtes können weder einer andern Kantonsbehörde angehören noch Angestellte des Kantons sein. Sie dürfen zudem keiner Gemeindebehörde angehören.[^75-3]
+
+<sup>4</sup> Die Mitglieder von Verwaltungskommissionen dürfen nicht Angestellte des Kantons sein. Durch Gesetz können für die einzelnen Rekurskommissionen weitere Unvereinbarkeiten festgelegt werden.[^75-4]
+
+<sup>5</sup> Das Gesetz bestimmt, welche Tätigkeiten mit den Aufgaben einer Gerichts- oder Strafverfolgungsbehörde unvereinbar sind.
+
+[^75-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^75-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-3]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-4]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+#### Art. 76
+
+**Verwandtenausschluss**
+
+<sup>1</sup> Eltern und Kinder, Geschwister, Ehegatten, eingetragene Partnerinnen oder Partner, Grosseltern und Enkelkinder, Schwäger und Schwägerinnen sowie Schwiegereltern und Schwiegerkinder können nicht der gleichen Kantons- oder Gemeindebehörde angehören.[^76-1]
+
+<sup>2</sup> Diese Vorschrift gilt nicht für den Landrat und die Gemeindeparlamente.[^76-2]
+
+[^76-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^76-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+
+#### Art. 77
+
+**Ausstand**
+
+<sup>1</sup> Mitglieder einer Behörde, die an einer Sache ein unmittelbares persönliches Interesse haben, müssen bei der Beschlussfassung in den Ausstand treten.
+
+<sup>2</sup> Weitergehende gesetzliche Vorschriften bleiben vorbehalten.
+
+#### Art. 78
+
+**Amtsdauer und Wiederwahl**[^78-1]
+
+<sup>1</sup> Die Amtsdauer für die Behördenmitglieder und die auf die Amtsdauer gewählten Angestellten des Kantons und der Gemeinden beträgt vier Jahre.
+
+<sup>2</sup> Sie nimmt ihren Anfang jeweils am 1. Juli, mit folgenden Ausnahmen: Für den Landrat beginnt sie mit der konstituierenden Sitzung und für die Mitglieder des Regierungsrates an der Landsgemeinde. Die Amtsdauer der Ständeräte beginnt mit der konstituierenden Sitzung nach der Gesamterneuerung des Nationalrates.[^78-2]
+
+<sup>3</sup> Nach Ablauf der Amtsdauer ist die Wiederwahl zulässig.
+
+<sup>4</sup> Vorbehalten bleiben die Vorschriften für den Landammann, den Landesstatthalter sowie den Präsidenten und Vizepräsidenten des Landrates.
+
+<sup>5</sup> Die Mitglieder des Regierungsrates, die beiden Ständeräte sowie die Gerichtspräsidenten und weiteren Richter, die das 65. Altersjahr vollendet haben, scheiden auf die darauffolgende Landsgemeinde bzw. auf Ende Juni aus ihrem Amte aus.[^78-3]
+
+[^78-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^78-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^78-3]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 79
+
+**Beschlussfähigkeit**
+
+<sup>1</sup> Eine Behörde oder eine Kommission ist beschlussfähig, wenn mehr als die Hälfte, mindestens aber drei Mitglieder, anwesend sind.
+
+<sup>2</sup> Strengere gesetzliche Vorschriften bleiben vorbehalten.
+
+#### Art. 80
+
+**Information der Öffentlichkeit**
+
+Die Behörden informieren die Stimmberechtigten fristgerecht über Abstimmungsvorlagen, laufend über Sachgeschäfte und frühzeitig über wichtige Probleme und Vorhaben.
+
+#### Art. 81
+
+**Notrecht**
+
+<sup>1</sup> Zum Schutz der Bevölkerung bei Versorgungsstörungen oder schweren Mangellagen, denen die Wirtschaft nicht selber begegnen kann, bei Katastrophen oder kriegerischen Ereignissen können dem Landrat und dem Regierungsrat durch Gesetz für beschränkte Zeit Befugnisse eingeräumt werden, die von den Vorschriften dieser Verfassung abweichen.
+
+<sup>2</sup> Sobald es die Umstände zulassen, erstattet der Regierungsrat dem Landrat und dieser der Landsgemeinde Bericht über die getroffenen Massnahmen.
+
+## Fünftes Kapitel: Kantonale Behörden
+
+### Erster Abschnitt: Landrat
+
+#### Art. 82
+
+**Stellung und Aufgabe des Landrates**
+
+<sup>1</sup> Der Landrat ist das Parlament des Kantons. Er zählt 60 Mitglieder.[^82-1]
+
+<sup>2</sup> Er ist die oberste Aufsichtsbehörde des Kantons über Regierung, Verwaltung und Gerichte.
+
+<sup>3</sup> Er bereitet die Verfassungs- und Gesetzgebung und die übrigen Beschlüsse der Landsgemeinde vor.
+
+<sup>4</sup> Er erlässt Verordnungen, Verwaltungs- und Finanzbeschlüsse und entscheidet über grundlegende oder allgemeinverbindliche Planungen.
+
+[^82-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 1, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+
+#### Art. 83
+
+**Landratsbüro**[^83-1]
+
+Der Landrat wählt alljährlich aus seiner Mitte den Präsidenten, den Vizepräsidenten und die weiteren Mitglieder des Landratsbüros.
+
+[^83-1]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+
+#### Art. 84
+
+**Kommissionen und Fraktionen**
+
+<sup>1</sup> Der Landrat kann zur Vorbereitung der Verhandlungen, zur Ausübung der Oberaufsicht oder für besondere Untersuchungen Kommissionen bilden.
+
+<sup>2</sup> Die Mitglieder des Landrates können sich zu Fraktionen zusammenschliessen.
+
+#### Art. 85
+
+**Sitzungen**
+
+<sup>1</sup> Der Landrat versammelt sich, sooft die Geschäfte es erfordern.
+
+<sup>2</sup> Die Sitzungen des Landrates sind öffentlich.
+
+<sup>3</sup> Sitzungen unter Ausschluss der Öffentlichkeit sind nur zulässig, wenn zwei Drittel der anwesenden Mitglieder es in geheimer Abstimmung beschliessen.
+
+#### Art. 86
+
+**Landratsverordnung[^86-1]**
+
+<sup>1</sup> Der Landrat regelt durch Verordnung seine Organisation, seine Sitzungen, das Verhandlungsverfahren, die Wahl und Organisation der Kommissionen sowie die Rechte und Pflichten der Landratsmitglieder.[^86-2]
+
+<sup>2</sup> Verfassungsänderungen, Gesetze und Verordnungen unterliegen einer zweiten Lesung.
+
+<sup>3</sup> Die Landräte verhandeln und stimmen ohne Instruktion.
+
+[^86-1]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^86-2]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+
+#### Art. 86a
+
+**Informationsrechte**[^86a-1]
+
+<sup>1</sup> Jedes Mitglied des Landrates kann für seine parlamentarischen Aufgaben von den Departementen, der Staatskanzlei und den übrigen Trägern von Verwaltungsaufgaben sowie von den Gerichten Auskünfte über Rechts- oder Sachfragen, die nicht dem Amtsgeheimnis unterliegen, erhalten.[^86a-2]
+
+<sup>2</sup> Die Kommissionen des Landrates erhalten Auskunft oder Akteneinsicht, soweit sie diese zur Erfüllung ihrer Aufgaben benötigen. In begründeten Fällen kann der Regierungsrat einzelne seiner Mitglieder, kantonale Angestellte oder kantonale Lehrpersonen vom Amtsgeheimnis entbinden. Ebenso kann in begründeten Fällen die Verwaltungskommission der Gerichte einzelne Mitglieder oder Angestellte eines Gerichts in Fragen der Gerichtsverwaltung vom Amtsgeheimnis entbinden.[^86a-3]
+
+<sup>3</sup> Setzt der Landrat zur Klärung von Vorkommnissen von grosser Tragweite eine Untersuchungskommission ein, so kann diese vom Regierungsrat, in Fragen der Gerichtsverwaltung von den Gerichten oder in Fragen der Zusammenarbeit von Kanton und Gemeinden von den Gemeindebehörden sämtliche notwendigen Informationen einholen. Die Mitglieder von Behörden sowie die Angestellten und Lehrpersonen des Kantons und der Gemeinden müssen auch über Wahrnehmungen, die dem Amtsgeheimnis unterliegen, Auskunft erteilen. Private Personen können nach Massgabe des Gesetzes über die Verwaltungsrechtspflege befragt werden.[^86a-4]
+
+[^86a-1]: Angenommen an der Landsgemeinde vom 1. Mai 1994, in Kraft seit 1. Juli 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 1 I 969).
+[^86a-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^86a-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^86a-4]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 87
+
+**Mitwirkung des Regierungsrates**
+
+Die Mitglieder des Regierungsrates nehmen an den Sitzungen des Landrates und nach Bedarf an den Sitzungen seiner Kommissionen mit beratender Stimme teil.
+
+#### Art. 88
+
+**Wahlbefugnisse**
+
+<sup>1</sup> Der Landrat wählt die Behörden- und Kommissionsmitglieder und die kantonalen Angestellten, soweit die Gesetzgebung es vorsieht; ferner ernennt er die Kommandanten der kantonalen Bataillone.[^88-1]
+
+<sup>2</sup> Er ist im Weitern zuständig für die Wahl der Staatsanwälte und der Jugendanwälte sowie der amtlichen Verteidiger. Sodann bezeichnet er den Ersten Staatsanwalt.[^88-2]
+
+[^88-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^88-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 89
+
+**Rechtsetzung**[^89-1]
+
+Der Landrat ist zuständig für:
+
+- a. die Beratung von Vorlagen und die Antragstellung zuhanden der Landsgemeinde;
+- b. den Erlass von Verordnungen aufgrund von Ermächtigungen der Verfassung;
+- c. den Erlass von Verordnungen aufgrund von Ermächtigungen der Landsgemeinde;
+- d. den Erlass von Einführungsbestimmungen zu Bundesrecht und von Ausführungsbestimmungen zu interkantonalem Recht, soweit diese keinen Gegenstand der Gesetzgebung betreffen;
+- e. die Genehmigung oder die Kündigung interkantonaler Vereinbarungen und anderer Verträge, soweit nicht die Landsgemeinde oder der Regierungsrat zuständig ist;
+- f. eine Rechtsetzung in dringlichen Fällen anstelle der Landsgemeinde; solche Erlasse gelten bis zur nächsten ordentlichen Landsgemeinde.
+
+[^89-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 90
+
+**Finanzbefugnisse**
+
+Dem Landrat stehen zu:
+
+- a.[^90-1] die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Genehmigung des Finanzplans;
+- b.[^90-2] Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die 1 Million Franken und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die 200 000 Franken im Jahr nicht übersteigen;
+- c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 600 000 Franken bis zu 5 000 000 Franken;
+- d. Beschlüsse über die Aufnahme und Erneuerung langfristiger Anleihen.
+
+[^90-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^90-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 91
+
+**Sachbefugnisse**
+
+Dem Landrat obliegen:
+
+- a. die Prüfung und Genehmigung des Protokolls der Landsgemeinde;
+- b. die Einberufung ausserordentlicher Landsgemeinden;
+- c. die Oberaufsicht über den Regierungsrat, die kantonale Verwaltung und die Gerichte, insbesondere durch Prüfung und Genehmigung des Amtsberichts;
+- d. Beschlüsse über grundlegende oder allgemeinverbindliche Pläne sowie über Richtlinien für die Planung kantonaler Bauten, Werke und Anstalten;
+- e. die Erteilung von Konzessionen, soweit das Gesetz nichts anderes vorsieht;
+- f.[^91-1] die Festlegung der Besoldungen und Taggelder sowie der Leistungen der Sozialversicherungen für die Behördenmitglieder und Angestellten des Kantons sowie für die Lehrpersonen des Kantons und der Gemeinden;
+- g. der Entscheid von Kompetenzstreitigkeiten zwischen dem Regierungsrat und den Gerichten;
+- h. das Recht der Begnadigung in den durch Gesetz vorgesehenen Fällen;
+- i. die Anordnung kantonaler Truppenaufgebote, wenn die öffentliche Ordnung im Kanton gestört ist oder Gefahr von aussen droht;
+- k.[^91-2] ….
+
+[^91-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^91-2]: Aufgehoben an der Landsgemeinde vom 3. Mai 2009, mit Wirkung seit 1. Jan. 2010. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+
+#### Art. 92
+
+**Mitwirkung im Bund**
+
+Der Landrat kann für den Kanton im Bund mitwirken, indem er insbesondere:
+
+- a. eine Standesinitiative einreicht;
+- b. zusammen mit andern Kantonen ein Standesreferendum ergreift;
+- c.[^92-1] …
+
+[^92-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+
+#### Art. 93
+
+**Übertragung von Befugnissen**
+
+Der Landrat kann seine Befugnisse an den Regierungsrat übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt und nach Zweck und Umfang näher umschrieben wird.
+
+### Zweiter Abschnitt: Regierungsrat und kantonale Verwaltung
+
+### Erster Unterabschnitt: Regierungsrat
+
+#### Art. 94
+
+**Stellung und Aufgabe des Regierungsrates**[^94-1]
+
+<sup>1</sup> Der Regierungsrat ist die leitende und die oberste vollziehende Behörde des Kantons. Er besteht aus fünf hauptamtlichen Mitgliedern.
+
+<sup>2</sup> Er plant das staatliche Handeln, ergreift Initiativen, pflegt die Beziehungen zum Bund und zu den anderen Kantonen, koordiniert die Verwaltungsarbeiten und vertritt den Kanton nach innen und nach aussen. Vorbehalten bleiben die Befugnisse der Landsgemeinde und des Landrates.
+
+<sup>3</sup> Er führt die kantonale Verwaltung, wirkt bei der kantonalen und eidgenössischen Rechtsetzung mit, ist beim Vollzug der Gesetze und in der Verwaltungsrechtspflege tätig, beaufsichtigt nach Gesetz die Gemeinden und die anderen Träger öffentlicher Aufgaben und sorgt für die Verbindung der Behörden mit der Öffentlichkeit.
+
+[^94-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+#### Art. 95
+
+**Kollegial- und Departementalsystem**[^95-1]
+
+<sup>1</sup> Die grundsätzlichen und wichtigen Entscheide trifft der Regierungsrat gesamthaft.
+
+<sup>2</sup> Im Übrigen werden die Geschäfte nach Departementen den einzelnen Mitgliedern zugewiesen.
+
+<sup>3</sup> Das Gesetz regelt die Organisation des Regierungsrates in den Grundzügen.
+
+[^95-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+#### Art. 96
+
+**Stellung und Aufgabe des Landammanns**
+
+<sup>1</sup> Der Landammann ist der erste Repräsentant des Landes und der Präsident des Regierungsrates.
+
+<sup>2</sup> Er leitet die Planung, Koordination und Information im Regierungsrat.
+
+<sup>3</sup> Der Landesstatthalter ist der Stellvertreter des Landammanns.
+
+#### Art. 97
+
+**Wahl des Landammanns und des Landesstatthalters**[^97-1]
+
+<sup>1</sup> Der Landammann und der Landesstatthalter werden durch die Landsgemeinde aus dem Kreis der Mitglieder des Regierungsrates für zwei Jahre gewählt. Die Amtszeit beginnt mit der Landsgemeinde.
+
+<sup>2</sup> Erfolgt die Wahl im Laufe der Amtszeit, so wird diese nicht angerechnet.
+
+<sup>3</sup> Der abtretende Landammann ist für die folgenden zwei Jahre weder als Landammann noch als Landesstatthalter, der abtretende Landesstatthalter nur als Landammann wählbar.
+
+[^97-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+#### Art. 98
+
+**Wahlbefugnisse**[^98-1]
+
+Der Regierungsrat wählt die Mitglieder der Kommissionen und die mit öffentlichen Aufgaben betrauten Personen; ferner wählt er die kantonalen Angestellten und Lehrpersonen, soweit diese Befugnis nicht durch Gesetz oder landrätliche Verordnung dem Regierungsrat nachgeordneten Verwaltungseinheiten übertragen ist. Vorbehalten bleiben die Zuständigkeiten des Landrates und der Gerichtsbehörden.
+
+[^98-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 99
+
+**Rechtsetzung**
+
+Der Regierungsrat ist zuständig für:
+
+- a. den Entwurf von Erlassen und Beschlüssen zuhanden des Landrates und der Landsgemeinde und die Durchführung von Vernehmlassungen hiezu;
+- b.[^99-1] den Erlass von Vollzugs- und Verwaltungsverordnungen sowie von Verordnungen aufgrund von Ermächtigungen der Landsgemeinde oder des Landrates;
+- c. den Abschluss, die Änderung oder die Kündigung interkantonaler Vereinbarungen und anderer Verträge, soweit nicht der Landrat oder die Landsgemeinde zuständig ist;
+- d. Verordnungen und Verfügungen in Notlagen und andern fällen zeitlicher Dringlichkeiten, insbesondere zur raschen Einführung von Bundesrecht; diese Erlasse sind sobald als möglich dem Landrat oder der nächsten Landsgemeinde vorzulegen.
+
+[^99-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 100
+
+**Finanzbefugnisse**
+
+Dem Regierungsrat stehen zu:
+
+- a.[^100-1] der Entwurf des Budgets, die Führung der Jahresrechnung sowie die Aufstellung des Finanzplans;
+- b.[^100-2] Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die 200 000 Franken, und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die 40 000 Franken im Jahr nicht übersteigen;
+- c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge bis zum Betrag von 600 000 Franken;
+- d. die Verwaltung des Kantons Vermögens, besonders die Anlage von Staatsgeldern sowie der ordentliche Unterhalt der kantonalen Gebäude und Einrichtungen;
+- e. die Aufnahme von Krediten.
+
+[^100-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^100-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 101
+
+**Sachbefugnisse**
+
+Dem Regierungsrat obliegt es:
+
+- a.[^101-1] Verfassung, Gesetze, Verordnungen und Verträge zu vollziehen, soweit dafür nicht andere Organe zuständig sind;
+- b.[^101-2] Beschlüsse, Entscheide und Urteile anderer kantonaler Behörden zu vollstrecken, soweit dafür nicht andere Organe zuständig sind;
+- c. die kantonalen öffentlichen Dienste zu leiten und zu beaufsichtigen;
+- d.[^101-3] über Verwaltungsbeschwerden zu entscheiden, soweit die Gesetzgebung es vorsieht;
+- e. die Beziehungen zu den Behörden des Bundes, anderer Kantone oder Staaten wahrzunehmen;
+- f. zu Vorlagen der Bundesbehörden Stellung zu nehmen, soweit im Einzelfall die Kompetenz nicht dem Landrat übertragen ist;
+- g. im Namen des Kantons Beschwerden und Klagen zu erheben;
+- h. über Begnadigungsgesuche zu entscheiden, soweit nicht der Landrat zuständig ist.
+
+[^101-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^101-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^101-3]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+### Zweiter Unterabschnitt: Kantonale Verwaltung
+
+#### Art. 102
+
+**Grundlagen der Verwaltungstätigkeit**
+
+<sup>1</sup> Die Verwaltung erfüllt ihre Aufgaben im Hinblick auf das Gemeinwohl und unter Beachtung der Rechtmässigkeit, Wirksamkeit und Wirtschaftlichkeit.
+
+<sup>2</sup> Das Gesetz regelt die Grundzüge der Verwaltungsorganisation sowie das Verwaltungsverfahren und das Verwaltungsbeschwerdeverfahren.
+
+#### Art. 103
+
+**Organisation**[^103-1]
+
+<sup>1</sup> Die kantonale Verwaltung wird in Departemente gegliedert. Jedes Mitglied des Regierungsrates steht einem Departement vor. Der Regierungsrat verteilt die Departemente unter seine Mitglieder und ordnet die Stellvertretung.
+
+<sup>2</sup> Der Ratsschreiber führt die Staatskanzlei als Stabsstelle des Regierungsrates; er untersteht dem Landammann.
+
+<sup>3</sup> Die Departemente und die Staatskanzlei sowie die ihnen nachgeordneten Verwaltungseinheiten bereiten die Geschäfte des Regierungsrates vor und führen sie aus. Durch Gesetz oder Verordnung können ihnen Geschäfte zur selbständigen Erledigung zugewiesen werden.
+
+<sup>4</sup> Durch Gesetz können Verwaltungsaufgaben auf Organisationen und Personen des öffentlichen oder privaten Rechts übertragen werden. Dabei müssen der Rechtsschutz und die Aufsicht des Kantons sichergestellt sein.
+
+[^103-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+#### Art. 104
+
+**Kommissionen**[^104-1]
+
+<sup>1</sup> Durch Gesetz, Verordnung oder Beschluss des Regierungsrates können Kommissionen eingesetzt werden, die den Regierungsrat oder die Departemente bei der Vorbereitung der Rechtsetzung, der Planung oder in besondern Fragen beraten.
+
+<sup>2</sup> Entscheidungs- oder Aufsichtsbefugnisse können einer Kommission nur durch Gesetz oder landrätliche Verordnung übertragen werden.
+
+[^104-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+#### Art. 105
+
+**Dienstrecht**[^105-1]
+
+<sup>1</sup> Das Gesetz regelt die Rechte und Pflichten der Behördenmitglieder und der Angestellten des Kantons sowie der Lehrpersonen des Kantons und der Gemeinden.
+
+<sup>2</sup> Es bestimmt insbesondere die Wahlvoraussetzungen und Unvereinbarkeiten für die kantonalen Angestellten sowie für die Lehrpersonen.
+
+[^105-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+### Dritter Abschnitt: Rechtspflege
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+### Erster Unterabschnitt: Gerichte
+
+[^chap5-sec3-subsec1-1]
+
+[^chap5-sec3-subsec1-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 106
+
+**Richterliche Unabhängigkeit**
+
+<sup>1</sup> Die Gerichte sind unabhängig und nur an Recht und Gesetz gebunden.
+
+<sup>2</sup> Sie dürfen Erlasse nicht anwenden, die Bundesrecht oder kantonalen Verfassungs- und Gesetzesrecht widersprechen.
+
+#### Art. 107
+
+[^107-1]
+
+[^107-1]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 108
+
+**Kantonsgericht**
+
+<sup>1</sup>
+
+Das Kantonsgericht urteilt in Zivil-, Straf- und Jugendstrafsachen als erste Instanz durch:
+
+- a. zwei Zivilkammern, bestehend aus je einem Präsidenten und vier Mitgliedern;
+- b. die Strafkammer, bestehend aus dem Präsidenten und vier Mitgliedern;
+- c. die Strafgerichtskommission, bestehend aus dem Präsidenten sowie zwei Mitgliedern der Strafkammer.[^108-1]
+
+<sup>2</sup> Das Kantonsgericht hat zwei vollamtliche Präsidenten, die als Vorsitzende der Kammern und der Strafgerichtskommission sowie als Einzelrichter amten.
+
+<sup>3</sup> Die Präsidenten und die Mitglieder des Kantonsgerichts amten in den vom Gesetz vorgesehenen Fällen als Einzelrichter.[^108-2]
+
+[^108-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^108-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 109
+
+[^109-1]
+
+[^109-1]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 110
+
+**Obergericht**[^110-1]
+
+<sup>1</sup> Das Obergericht urteilt in Zivil-, Straf- und Jugendstrafsachen als letzte oder einzige kantonale Instanz.
+
+<sup>2</sup> Das Obergericht besteht aus dem Präsidenten und sieben Mitgliedern; das Gesetz regelt die Zusammensetzung der Spruchkörper.
+
+<sup>3</sup> Der Obergerichtspräsident entscheidet in den vom Gesetz vorgesehenen Fällen als Einzelrichter.
+
+[^110-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 111
+
+**Verwaltungsgericht**[^111-1]
+
+<sup>1</sup> Das Verwaltungsgericht beurteilt verwaltungs- und andere öffentlich-rechtliche Streitigkeiten als erste oder als Beschwerdeinstanz. Es besteht aus dem Präsidenten sowie acht Richtern und bildet aus diesen zwei Kammern.
+
+<sup>2</sup> Für besondere Verwaltungsstreitigkeiten können durch Gesetz verwaltungsunabhängige Rekurskommissionen eingesetzt werden.
+
+[^111-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 112
+
+**Organisation und Verwaltung**[^112-1]
+
+<sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Gerichte sowie das Verfahren vor Gericht.
+
+<sup>2</sup> Es ordnet die Geschäftsverteilung, die Stellvertretung der Präsidenten und die Gerichtsergänzung in Ausstands- und Verhinderungsfällen.
+
+<sup>3</sup> Das Obergericht hat die Aufsicht über die Geschäftsführung des Kantonsgerichtes, das Verwaltungsgericht über die der Rekurskommissionen.
+
+<sup>4</sup> Die Verwaltungskommission der Gerichte besteht aus den Präsidenten des Ober-, des Verwaltungs- und des Kantonsgerichtes. Sie wählt und beaufsichtigt nach Gesetz die Angestellten der Gerichte.
+
+[^112-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+### Zweiter Unterabschnitt: Strafverfolgung
+
+[^chap5-sec3-subsec2-1]
+
+[^chap5-sec3-subsec2-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 113
+
+**Staats- und Jugendanwaltschaft**
+
+Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene sowie Jugendliche.
+
+#### Art. 114
+
+**Organisation und Aufsicht**
+
+<sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Staats- und Jugendanwaltschaft sowie die Befugnis von Verwaltungsstellen und Gemeindebehörden, Bussen auszusprechen.
+
+<sup>2</sup> Der Regierungsrat hat die Aufsicht über die Strafverfolgung, wobei konkrete Weisungen zu einzelnen Verfahren ausgeschlossen sind.
+
+## Sechstes Kapitel: Gemeinden, Zweckverbände und Korporationen
+
+### Erster Abschnitt: Stellung der Gemeinden und Zweckverbände
+
+#### Art. 115
+
+**Bestand und Selbständigkeit**
+
+<sup>1</sup> Die Gemeinden und die Zweckverbände von Gemeinden sind selbständige Körperschaften des öffentlichen Rechts.
+
+<sup>2</sup> In den Schranken von Verfassung und Gesetz sind den Gemeinden und den Zweckverbänden ihr Bestand und das Recht, ihre Angelegenheiten selbständig zu regeln, gewährleistet.
+
+#### Art. 116
+
+**Zweckverbände**
+
+<sup>1</sup> Gemeinden können mit andern Gemeinden innerhalb oder ausserhalb des Kantons für bestimmte Aufgaben Zweckverbände bilden.
+
+<sup>2</sup> Der Gründungsvertrag und das Organisationsstatut sowie deren Änderungen bedürfen der Zustimmung der beteiligten Gemeinden und der Genehmigung des Regierungsrates. Bei interkantonalen Zweckverbänden kann der Regierungsrat die Genehmigung auch dann erteilen, wenn Änderungen von Gründungsvertrag und Organisationsstatut durch Mehrheitsbeschluss vorgesehen sind.[^116-1]
+
+<sup>3</sup> Aus wichtigen Gründen kann der Regierungsrat Zweckverbände errichten und deren Gründungsvertrag und Organisationsstatut bestimmen oder Gemeinden verpflichten, einem Zweckverband beizutreten. Gegen den Entscheid des Regierungsrates können die betroffenen Gemeinden innert 30 Tagen beim Landrat Beschwerde erheben.
+
+<sup>4</sup> Das Gesetz regelt die Organisation der Zweckverbände sowie die Rechte der Stimmberechtigten und der Behörden der angeschlossenen Gemeinden.
+
+[^116-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 117
+
+**Zusammenarbeit**
+
+<sup>1</sup> Der Kanton fördert die Zusammenarbeit der Gemeinden.
+
+<sup>2</sup> Die Gemeinden und die Zweckverbände arbeiten bei der Erfüllung aller Aufgaben, die im gemeinsamen Interesse liegen, mit andern Gemeinden oder Zweckverbänden zusammen.
+
+<sup>3</sup> …[^117-1]
+
+[^117-1]: Aufgehoben an der Landsgemeinde vom 6. Mai 2007, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+#### Art. 118
+
+**Bestandes- und Grenzänderungen**[^118-1]
+
+<sup>1</sup> Änderungen im Bestand der Gemeinden bedürfen der Zustimmung der betroffenen Stimmberechtigten und der Genehmigung durch die Landsgemeinde.
+
+<sup>2</sup> Bei Kirchgemeinden sowie bei Grenzänderungen genügt die Genehmigung durch den Landrat.
+
+[^118-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 119
+
+**Gemeindeautonomie**
+
+<sup>1</sup> Die Gemeinden besorgen alle örtlichen Angelegenheiten, für die weder der Bund noch der Kanton ausschliesslich zuständig sind.[^119-1]
+
+<sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation durch Erlass einer Gemeindeordnung selbst, wählen ihre Behörden, Angestellten und Lehrpersonen und erfüllen ihre Aufgaben nach eigenem Ermessen.[^119-2]
+
+[^119-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^119-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+
+#### Art. 120
+
+**Aufsicht**
+
+<sup>1</sup> Die Gemeinden, die Zweckverbände, ihre Anstalten und Unternehmen stehen unter der Aufsicht des Regierungsrates.
+
+<sup>2</sup> Der Regierungsrat prüft, soweit die Gesetzgebung nichts anderes bestimmt, nur die Rechtmässigkeit von Verfügungen, Beschlüssen und Erlassen der Gemeinden.
+
+<sup>3</sup> Er trifft bei Unregelmässigkeiten geeignete Massnahmen; er kann in schwerwiegenden Fällen das Recht der Selbstverwaltung einschränken oder aufheben.
+
+<sup>4</sup> Gegen den Entscheid des Regierungsrates können die betroffenen Gemeinden innert 30 Tagen beim Verwaltungsgericht Beschwerde erheben.
+
+#### Art. 121
+
+**Rechtsschutz**
+
+<sup>1</sup> Gegen letztinstanzliche Verfügungen, Beschlüsse und Erlasse von Organen der Gemeinden und Zweckverbände kann jeder, der ein eigenes schutzwürdiges Interesse hat, innert der gesetzlichen Frist beim Regierungsrat oder bei einem Departement Beschwerde erheben. Beide Parteien können den Beschwerdeentscheid nach Massgabe des Gesetzes an das Verwaltungsgericht weiterziehen.[^121-1]
+
+<sup>2</sup> In Wahl- und Abstimmungssachen ist jeder Stimmberechtigte unter Vorbehalt gesetzlicher Ausnahmen beschwerdeberechtigt.
+
+[^121-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+### Zweiter Abschnitt: Arten von Gemeinden
+
+[^chap6-sec2-1]
+
+[^chap6-sec2-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 122
+
+**Einheitsgemeinde**[^122-1]
+
+<sup>1</sup> Die Gemeinde nimmt alle öffentlichen Aufgaben wahr, für die weder der Bund noch der Kanton ausschliesslich zuständig sind (Einheitsgemeinden).[^122-2]
+
+<sup>2</sup> Jede Gemeinde umfasst die in ihrem Gebiet wohnhaften Personen.
+
+<sup>3</sup> Die Gemeinde besorgt insbesondere auch alle Schulangelegenheiten, soweit das Gesetz nichts anderes bestimmt.
+
+[^122-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^122-2]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+#### Art. 123–125
+
+[^123125-1]
+
+[^123125-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 126
+
+[^126-1]
+
+[^126-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 126a
+
+[^126a-1]
+
+[^126a-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 127
+
+**Kirchgemeinde**
+
+<sup>1</sup> Die Kirchgemeinde umfasst die im Kirchgemeindegebiet wohnhaften Angehörigen der betreffenden öffentlich-rechtlich anerkannten Kirche.
+
+<sup>2</sup> Die Kirchgemeinde regelt im Rahmen des staatlichen Rechts und nach den Vorschriften ihrer Kirche die Angelegenheiten ihrer Konfession für das Kirchgemeindegebiet.
+
+<sup>3</sup> Die Organisation und Verwaltung der Kirchgemeinde müssen den Grundsätzen der Kantonsverfassung und der Gemeindegesetzgebung entsprechen.
+
+<sup>4</sup> Für die kommunalen Organisationen anderer Religionsgemeinschaften, die als öffentlich-rechtliche Körperschaften anerkannt sind, gelten die Vorschriften über die Kirchgemeinden sinngemäss.[^127-1]
+
+[^127-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+### Dritter Abschnitt: Organisation der Gemeinden
+
+#### Art. 128
+
+**Gemeindeorgane**
+
+<sup>1</sup>
+
+Notwendige Gemeindeorgane sind:
+
+- a. die Stimmberechtigten;
+- b.[^128-1] die Vorsteherschaft;
+- c.[^128-2] die Geschäftsprüfungskommission der Gemeinde respektive ein Rechnungsprüfungsorgan einer Kirchgemeinde.
+
+<sup>2</sup> In der Gemeinde bildet der Gemeinderat die Vorsteherschaft, in der Kirchgemeinde der Kirchenrat.[^128-3]
+
+<sup>3</sup> Die Gemeinden können ein Gemeindeparlament einführen. Es umfasst mindestens 20 Mitglieder und konstituiert sich im Rahmen von Gesetz und Gemeindeordnung selbst.[^128-4]
+
+[^128-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^128-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 129
+
+**Antragsrecht**
+
+<sup>1</sup> Jeder Stimmberechtigte hat das Recht, der Vorsteherschaft jederzeit Anträge zuhanden der Stimmberechtigten einzureichen über Gegenstände, die in deren Zuständigkeit fallen.[^129-1]
+
+<sup>2</sup> Das Gesetz regelt die Zulässigkeit, die Form und das Verfahren der Behandlung der Anträge.
+
+[^129-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 130
+
+**Gemeindeversammlung, Urnenwahl und Urnenabstimmung**
+
+<sup>1</sup> Die Stimmberechtigten üben das Stimmrecht grundsätzlich an der Gemeindeversammlung aus; diese tritt nach Bedarf, jährlich aber mindestens einmal, zusammen.[^130-1]
+
+<sup>2</sup> Eine ausserordentliche Gemeindeversammlung findet statt, wenn die Vorsteherschaft es beschliesst, wenn es von der im Gesetz bezeichneten Anzahl Stimmberechtigten, unter Angabe der zu behandelnden Geschäfte verlangt wird oder wenn der Regierungsrat eine solche anordnet.[^130-2]
+
+<sup>3</sup> für bestimmte Angelegenheiten können Gesetz oder Gemeindeordnung die Urnenwahl oder Urnenabstimmung vorsehen. Die Gemeindeversammlung kann ausnahmsweise auch in andern fällen die Urnenwahl oder die Urnenabstimmung beschliessen.
+
+<sup>4</sup> Die Mitglieder des Gemeindeparlaments werden an der Urne nach dem Verhältniswahlverfahren gewählt; das Gesetz regelt die Wahlkreise.[^130-3]
+
+<sup>5</sup> Der Gemeindepräsident sowie die Mitglieder des Gemeinderates werden an der Urne nach dem Mehrheitswahlverfahren gewählt.[^130-4]
+
+<sup>6</sup> Das Gesetz legt die Zuständigkeiten und die Wahlverfahren für die übrigen Wahlen fest.[^130-5]
+
+[^130-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-3]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 131
+
+**Befugnisse der Stimmberechtigten**
+
+<sup>1</sup>
+
+Die Stimmberechtigten sind insbesondere zuständig für:
+
+- a.[^131-1] die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft;
+- b.[^131-2] die Wahl des Präsidenten sowie der Mitglieder der Geschäftsprüfungskommission oder die Wahl des Rechnungsprüfungsorgans;
+- c.[^131-3] die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht der Vorsteherschaft übertragen ist;
+- d. den Erlass der Gemeindeordnung;
+- e. den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten der Vorsteherschaft übertragen ist;
+- f.[^131-4] die Festsetzung des Budgets;
+- g.[^131-5] die Genehmigung der Gemeinderechnungen und der zugehörigen Berichte der Geschäftsprüfungskommission respektive des Rechnungsprüfungsorgans;
+- h. Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach der Gemeindeordnung nicht die Vorsteherschaft zuständig ist;
+- i. die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung;
+- k. Beschlüsse über die Vereinigung oder Auflösung der Gemeinde und über Grenzänderungen;
+- l. Beschlüsse über die Mitgliedschaft in Zweckverbänden, über die Genehmigung und Änderung des Gründungsvertrags und des Organisationsstatuts sowie über den Abschluss weiterer Verträge;
+- m. weitere ihnen von der Vorsteherschaft vorgelegte Beschlüsse.
+
+<sup>2</sup>
+
+In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten obligatorisch zuständig für:
+
+- a. die Wahl der Mitglieder des Gemeindeparlaments;
+- b. die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft;
+- c. den Erlass der Gemeindeordnung;
+- d. Beschlüsse nach Absatz 1 Buchstabe h im Rahmen der Gemeindeordnung sowie die Beschlüsse nach Absatz 1 Buchstaben i, k und l.[^131-6]
+
+[^131-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^131-4]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^131-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-6]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 132
+
+**Dringliche Beschlussfassung**[^132-1]
+
+Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss der Gemeinde kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn der einstimmig gefasste Beschluss der Vorsteherschaft oder der mit absoluter Mehrheit gefasste Beschluss des Gemeindeparlaments öffentlich kundgemacht wird und wenn danach nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag an die nächste Gemeindeversammlung oder die nächste Urnenabstimmung gelangt.
+
+[^132-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 133
+
+**Fakultatives Referendum**[^133-1]
+
+<sup>1</sup>
+
+Gemeinden mit Gemeindeversammlung können in der Gemeindeordnung vorsehen, dass die Vorsteherschaft zuständig ist für:
+
+- a. bestimmte Gemeindeerlasse nach Artikel 131 Absatz 1 Buchstabe e;
+- b. Beschlüsse nach Artikel 131 Absatz 1 Buchstabe h bis zu einem bestimmten Betrag;
+- c. den Abschluss bestimmter Verträge nach Artikel 131 Absatz 1 Buchstabe l.
+
+<sup>2</sup> Diese Erlasse und Beschlüsse unterstehen dem fakultativen Referendum; das Gesetz regelt Fristen und Quoren.
+
+<sup>3</sup> Gemeinden mit Gemeindeparlament bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse des Gemeindeparlaments, die dem fakultativen Referendum unterliegen oder die vom Gemeindeparlament den Stimmberechtigten zur Abstimmung vorgelegt werden.
+
+[^133-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+### Vierter Abschnitt: Korporationen
+
+#### Art. 134
+
+<sup>1</sup> Die Errichtung neuer Korporationen und Änderungen im Bestand derselben bedürfen der Genehmigung des Regierungsrates oder eines Departementes.[^134-1]
+
+<sup>2</sup> Die Korporationen können ihr Vermögen selbständig verwalten und nutzen, soweit das Gesetz nichts anderes vorsieht.
+
+<sup>3</sup> Sie stehen unter der Aufsicht des Regierungsrates.
+
+[^134-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+
+## Siebentes Kapitel: Kirche und Staat
+
+#### Art. 135
+
+**Kirchen**
+
+<sup>1</sup> Die evangelisch-reformierte und die römisch-katholische Landeskirche und ihre Kirchgemeinden sind staatlich anerkannte, selbständige Körperschaften des öffentlichen Rechts.
+
+<sup>2</sup> Der Landrat kann auch andere Religionsgemeinschaften als Körperschaften des öffentlichen Rechts anerkennen.
+
+<sup>3</sup> für die öffentlich-rechtlich nicht anerkannten religiösen Gemeinschaften gilt das Privatrecht.
+
+#### Art. 136
+
+**Autonomie der Kirchen**
+
+<sup>1</sup> Das Verhältnis der öffentlich-rechtlich anerkannten Landeskirchen und ihrer Kirchgemeinden zum Staat wird durch die Gesetzgebung geregelt.
+
+<sup>2</sup> Die Kirchen ordnen ihre innern Angelegenheiten selbst. Das Stimm- und Wahlrecht in kirchlichen Angelegenheiten wird durch die Kirchenverfassung geregelt.
+
+<sup>3</sup> Die Verfassung einer öffentlich-rechtlich anerkannten Religionsgemeinschaft bedarf der Genehmigung des Landrates; diese wird erteilt, wenn nicht Bundesrecht oder kantonales Recht verletzt ist.
+
+<sup>4</sup> Gegen Verfügungen, Beschlüsse und Erlasse der Kirchenbehörden kann nach Gesetz und kirchlichen Vorschriften Beschwerde beim Verwaltungsgericht erhoben werden.
+
+<sup>5</sup> Die Verpflichtungen des Staates und der Gemeinden, die auf historischen Rechtstiteln beruhen, bleiben gewahrt.
+
+#### Art. 137
+
+**Steuern und Beiträge**
+
+<sup>1</sup> Die öffentlich-rechtlich anerkannten Kirchen und ihre Kirchgemeinden sind berechtigt, nach Gesetz Steuern zu erheben.
+
+<sup>2</sup> Der Kanton und die Gemeinden können die überkonfessionellen öffentlichen Arbeiten der Kirchen mit Beiträgen unterstützen.
+
+## Achtes Kapitel: Revision der Kantonsverfassung
+
+#### Art. 138
+
+**Voraussetzungen**
+
+<sup>1</sup> Die Verfassung kann jederzeit ganz oder teilweise geändert werden.
+
+<sup>2</sup> Eine Verfassungsrevision darf nicht bundesrechtswidrig oder undurchführbar sein.
+
+<sup>3</sup> Jeder Stimmberechtigte sowie die Gemeinden und ihre Vorsteherschaften haben das Recht, zuhanden der Landsgemeinde Memorialsanträge auf Revision der Kantonsverfassung zu stellen.
+
+<sup>4</sup> Der Memorialsantrag auf eine Totalrevision ist in der Form der allgemeinen Anregung zu stellen.
+
+#### Art. 139
+
+**Teilrevision**
+
+<sup>1</sup> Eine Teilrevision kann eine einzelne Bestimmung oder einzelne, sachlich zusammenhängende Abschnitte der Verfassung betreffen.
+
+<sup>2</sup> Werden mehrere, sachlich verschiedene Materien zur Revision vorgeschlagen, so bildet jede Materie Gegenstand einer besondern Revision.
+
+#### Art. 140
+
+**Totalrevision**
+
+<sup>1</sup> Wird ein Antrag auf Totalrevision der Kantonsverfassung gestellt, so muss die Landsgemeinde vor der Durchführung entscheiden, ob darauf eingetreten werden soll oder nicht.
+
+<sup>2</sup> Über den Entwurf der totalrevidierten Verfassung befindet die Landsgemeinde grundsätzlich nach dem für die Gesetzgebung vorgesehenen Verfahren. Abänderungsanträge gegenüber dem Entwurf des Landrates sind aber als formulierte Memorialsanträge zu einzelnen Artikeln zu stellen und zu behandeln. Abänderungsanträge an der Landsgemeinde sind nur zulässig, soweit sie zu einem gestellten Memorialsantrag in unmittelbarem Zusammenhang stehen.
+
+<sup>3</sup> Wird der Entwurf abgelehnt, so hat die Landsgemeinde anschliessend zu entscheiden, ob die Revision fortzusetzen ist.
+
+## Neuntes Kapitel: Schlussbestimmungen
+
+#### Art. 141
+
+**Inkrafttreten**
+
+Diese Verfassung tritt mit der Annahme durch die Landsgemeinde in Kraft.
+
+#### Art. 142
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Verfassung des Kantons Glarus vom 22. Mai 1887 ist aufgehoben.
+
+<sup>2</sup> Bestimmungen des bisherigen Rechts, die der vorliegenden Verfassung widersprechen, sind aufgehoben.
+
+<sup>3</sup> Vorbehalten bleiben die folgenden Artikel.
+
+#### Art. 143
+
+**Beschränkte Weitergeltung**
+
+<sup>1</sup> Bestimmungen, die in einem nach dieser Verfassung nicht mehr zulässigen Verfahren oder von einer nicht mehr zuständigen Behörde erlassen worden sind, bleiben bis zu ihrer Änderung oder Aufhebung in Kraft.
+
+<sup>2</sup> Dasselbe gilt für Vereinbarungen oder Planungen, die nach einem nicht mehr zulässigen Verfahren c der von einer nicht mehr zuständigen Behörde beschlossen worden sind.
+
+#### Art. 144
+
+**Behörden und Beamte**
+
+<sup>1</sup> Behörden, Beamte und Angestellte bleiben bis zum Ende der Amtsdauer, in der diese Verfassung in Kraft getreten ist, im Amt. Für Neuwahlen und Ersatzwahlen gilt die vorliegende Verfassung.
+
+<sup>2</sup> Die bisherigen Bestimmungen über die Voraussetzungen und das Verfahren der Wahl des Landrates gelten bis zum Ende der Amtsdauer, in der diese Verfassung in Kraft getreten ist.
+
+<sup>3</sup> Die Erneuerungswahl für die beiden Mitglieder des Ständerates erfolgt zusammen mit der Gesamterneuerungswahl des Regierungsrates im Jahre 1990. Die Amtsdauer der beiden Ständeräte läuft bis zur konstituierenden Sitzung nach der Gesamterneuerung des Nationalrates im Jahre 1995.
+
+<sup>4</sup> Die bisherigen Bestimmungen über die Gerichtsorganisation, insbesondere über die Vermittlung, das Zivil- und das Augenscheingericht sowie über das Kriminal- und das Polizeigericht, gelten bis zur gesetzlichen Neuordnung.
+
+<sup>5</sup> Artikel 78 Absatz 4 gilt erstmals für den Ablauf der Amtsdauer 1986–1990.
+
+#### Art. 145
+
+<sup>1</sup> Die bisherigen Bestimmungen über die Befugnisse der Stimmberechtigten und der Vorsteherschaften sowie über die Finanzordnung der Gemeinden bleiben bis zur gesetzlichen Neuordnung in Kraft.
+
+<sup>2</sup> Durch Gesetz oder durch Vereinbarung zwischen den Gemeinden ist innerhalb von vier Jahren nach Inkrafttreten dieser Verfassung zu bestimmen, welche Gemeinden oder Zweckverbände die Aufgaben der Wahlgemeinden übernehmen und welche Behörden und Amtsstellen dafür vorgesehen sind.
+
+<sup>3</sup> …[^145-1]
+
+[^145-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Juli 2010. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 146
+
+**Erforderliche Rechtsetzung**
+
+<sup>1</sup> Ist nach dieser Verfassung neues Recht zu erlassen oder bestehendes Recht zu ändern, muss dies ohne Verzug geschehen.
+
+<sup>2</sup> Der Regierungsrat legt dem Landrat innert Jahresfrist nach Inkrafttreten der Verfassung eine Übersicht über die erforderliche Rechtsetzung vor.
+
+## Schluss- und Übergangsbestimmungen zur Änderung vom 7. Mai 2006
+
+[^u1-1]
+
+[^u1-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011; mit Ausnahme der Art. 153 und 155, in Kraft seit 7. Mai 2006. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+#### Art. 147
+
+**Inkrafttreten der Änderungen vom 7. Mai 2006**
+
+<sup>1</sup> Die Änderungen vom 7. Mai 2006 treten am 1. Januar 2011 in Kraft.
+
+<sup>2</sup> Der Regierungsrat kann einzelne Bestimmungen oder Gruppen von Bestimmungen auf einen früheren Zeitpunkt in Kraft setzen.
+
+#### Art. 148
+
+**Zusammenlegung von Gemeinden**
+
+<sup>2</sup> Vorbehalten bleiben weitere freiwillige Zusammenschlüsse.
+
+<sup>3</sup> Die Stimmberechtigten der zusammengeschlossenen Gemeinden bestimmen den Namen der neuen Gemeinde.
+
+<sup>4</sup> Soweit die einzelnen Gemeinden gemäss Absatz 1 sich nicht bis zum 31. Dezember 2010 selber zusammenschliessen, erfolgt der Zusammenschluss ohne weitere Beschlussfassung auf den 1. Januar 2011.
+
+<sup>5</sup> Das Gemeindegesetz kann vorsehen, dass für eine Übergangsfrist von einer Amtsdauer Gemeinden, die gemäss Absatz 1 zusammengeschlossen werden, ein Anspruch auf mindestens einen Sitz in der Gemeindeexekutive zusteht. Der Anspruch kann für jede Gemeinde oder aber für eine Gemeindegruppe bestehen.
+
+<sup>1</sup> Ab dem 1. Januar 2011 bestehen im Kanton noch die folgenden drei Gemeinden in der Form der Einheitsgemeinde (Zusammenschluss von Orts-, Schulgemeinde und Tagwen):
+
+- Bilten, Mühlehorn, Obstalden, Filzbach, Niederurnen, Oberurnen, Näfels und Mollis;
+- Netstal, Riedern, Glarus und Ennenda;
+- Mitlödi, Sool, Schwändi, Schwanden, Haslen[^u1-148-1], Luchsingen, Betschwanden, Rüti, Braunwald, Linthal, Matt, Engi und Elm.
+
+[^u1-148-1]: Der Zusammenschluss der Ortsgemeinden Nidfurn, Leuggelbach und Haslen tritt am 1. Juli 2006 in Kraft. Es rechtfertigt sich, dass der Landrat dies im Zuge der vorliegenden Bereinigung vorwegnimmt; «Haslen» umfasst also die Gemeinden Nidfurn, Leuggelbach und Haslen.
+
+#### Art. 149
+
+**Zusammenlegung der Schulgemeinden und der Ortsgemeinden**
+
+Soweit die Schulgemeinden bis 31. Dezember 2010 noch nicht mit den entsprechenden Ortsgemeinden vereinigt sind, erfolgt dieser Zusammenschluss ohne weitere Beschlussfassung auf den 1. Januar 2011 zur Einheitsgemeinde im Rahmen von Artikel 148 Absatz 1.
+
+#### Art. 150
+
+**Zusammenlegung der Tagwen und der Ortsgemeinden**
+
+Soweit die Tagwen bis 31. Dezember 2010 noch nicht mit den entsprechenden Ortsgemeinden vereinigt sind, erfolgt dieser Zusammenschluss ohne weitere Beschlussfassung auf den 1. Januar 2011 zur Einheitsgemeinde im Rahmen von Artikel 148 Absatz 1.
+
+#### Art. 151
+
+**Aufhebung der Fürsorgegemeinden**
+
+Mit Inkrafttreten von Artikel 29 Absatz 1 in der Fassung vom 7. Mai 2006 werden die noch bestehenden Fürsorgegemeinden aufgehoben. Der Regierungsrat kann vorsehen, dass die Übernahme des Sozialwesens durch den Kanton gemeindeweise und in Etappen erfolgt. Mit dieser Aufgabenübertragung fallen die Fürsorgevermögen zweckgebunden dem Kanton zu; eine Gemeinde ist dann von der Ablieferung des Fürsorgevermögens an den Kanton entbunden, wenn am 20. September 2005 eine selbständige Fürsorgegemeinde nicht mehr bestand oder deren Zusammenschluss mit der Ortsgemeinde rechtskräftig beschlossen war. Das Gesetz regelt die Einzelheiten.
+
+#### Art. 152
+
+**Vormundschaftswesen**
+
+Mit Inkrafttreten von Artikel 29 Absatz 1 in der Fassung vom 7. Mai 2006 werden die Vormundschaftsbehörden der Gemeinden aufgehoben. Das Gesetz kann vorsehen, dass diese Vormundschaftsbehörden vor dem Inkrafttreten anhängig gemachte Fälle noch zu Ende führen. Es regelt die Einzelheiten.
+
+#### Art. 153
+
+**Zuständigkeiten des Regierungsrates**
+
+<sup>1</sup> Fehlt es einer Einheitsgemeinde bei Inkrafttreten der Änderung vom 7. Mai 2006 an den unerlässlichen Vorschriften, so trifft der Regierungsrat für die erforderliche Dauer die nötigen Anordnungen.
+
+<sup>2</sup> Der Regierungsrat als Aufsichtsbehörde nach Artikel 138 ff. Gemeindegesetz kann gestützt auf diese Verfassungsbestimmung alle Anordnungen treffen, welche in der Übergangsphase zwischen der Beschlussfassung durch die Landsgemeinde einerseits und der Errichtung von drei Einheitsgemeinden und der Übernahme der Aufgaben der bisherigen Fürsorgegemeinden und Vormundschaftsbehörden durch den Kanton bzw. der Auflösung der Fürsorgegemeinden andererseits erforderlich sind oder der reibungslosen und sparsamen Umsetzung der neuen Gemeindestruktur dienen. Er hat namentlich darauf zu achten, dass Aktiven möglichst erhalten, wirkungsvoll und sparsam eingesetzt, sowie bestimmungsgemäss bzw. nicht derart verwendet werden, dass es zum Nachteil anderer Gemeinden gereicht.
+
+<sup>3</sup> Diese Bestimmung tritt mit der Annahme durch die Landsgemeinde in Kraft.
+
+#### Art. 154
+
+**Zuständigkeiten der neuen Vorsteherschaften**[^u1-154-1]
+
+Das Gesetz kann bestimmen, dass die vor Ende der Amtsdauer 2006/2010 gewählten Vorsteherschaften der drei am 1. Januar 2011 neu entstehenden Gemeinden bereits am 1. Juli 2010 in alle Rechte und Pflichten, Aufgaben und Zuständigkeiten der am 30. Juni 2010 ausscheidenden Gemeinde-, Tagwen- und Schulvorsteherschaften eintreten.
+
+[^u1-154-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 155
+
+**Ausgleich der Vermögensverhältnisse, Finanzierungsbeschluss**
+
+<sup>1</sup> Die Landsgemeinde erlässt in einem besonderen Beschluss die Bestimmungen über die Art und die Finanzierung des Ausgleichs der unterschiedlichen Vermögensverhältnisse bei den sich zusammenschliessenden Gemeinden gemäss Artikel 148 Absatz 1. Sie bestimmt namentlich die Höhe des Kantonsbeitrages und legt den Höchstbetrag fest, der einer zusammengeschlossenen Gemeinde nach Artikel 148 Absatz 1 unter dem Titel des Ausgleichs unterschiedlicher Vermögensverhältnisse zukommen kann.
+
+<sup>2</sup> Dabei kann sie ihre Zuständigkeiten dem Landrat übertragen, insbesondere soweit es um die Anpassung der von ihr im Jahre 2006 festgelegten Beiträge an die Verhältnisse am 31. Dezember 2010 geht.
+
+<sup>3</sup> Diese Bestimmung tritt mit der Annahme durch die Landsgemeinde in Kraft.
+
+## Übergangsbestimmung zur Änderung vom 2. Mai 2010
+
+[^u2-1]
+
+[^u2-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+Der bisherige Staatsanwalt und die beiden Verhörrichter sowie die Jugendanwältin bleiben über ihre Amtsdauer hinaus bis zum 31. Dezember 2010 im Amt.
+
+Anhang[^t-2]
+
+## Verzeichnis der Gemeinden
+
+[^t-2]: Stand am: 8. Juni 2010, in Kraft seit 1. Januar 2011.
+
+Glarus Nord
+
+Glarus
+
+Glarus Süd
+
+## Verzeichnis der Kirchgemeinden
+
+A. Evangelisch-reformierte Kirchgemeinden
+
+Bilten Ennenda
+
+Mühlehorn Mitlödi
+
+Obstalden-Filzbach Schwanden
+
+Niederurnen Grosstal
+
+Mollis-Näfels Matt-Engi
+
+Netstal Elm
+
+Glarus-Riedern
+
+B. Römisch-katholische Kirchgemeinden
+
+Niederurnen Netstal
+
+Oberurnen Glarus-Riedern-Ennenda
+
+Näfels Glarner Hinterland-Sernftal
+
+## Sachregister
+
+Die Zahlen verweisen auf Artikel der Verfassung
+
+**Abgaben** 50
+
+**Altersbetreuung**, stationäre 33<sup>2</sup>
+
+**Amtsblatt** 62, 65
+
+Amtsdauer 78, 154, UeBest 2.5.2010
+
+Angestellte
+
+- – Amtsdauer und Wiederwahl 78
+- – Amtsgeheimnis 86*a*
+- – der Gemeinden 119
+- – der Gerichte 112
+- – Dienstrecht 105
+- – Leistungen an 91
+- – Unvereinbarkeiten 75
+- – Wahl 88, 131
+
+**Antragsrecht** 129
+
+**Aufsicht** (Oberaufsicht)
+
+- – des Kantons über
+  - – Fürsorgewesen 29, 151
+  - – Gesundheitswesen 32
+  - – Gewässer 24
+  - – Spitäler und Heime 33
+  - – Schul- und Bildungswesen 37
+  - – Sonderschulen und Erziehungsheime 39
+  - – Sozialwesen 26
+
+- – des Landrates über
+  - – Gerichte 82
+  - – Regierung 82, 91
+  - – Verwaltung 82
+
+- – des Obergerichtes über
+  - – Kantonsgericht 112
+
+- – des Regierungsrates über
+  - – Gemeinden 94, 120, 153
+  - – Jugendstrafrechtsbehörden 114
+  - – öffentliche Dienste 101
+  - – Sachversicherung 94
+  - – Strafverfolgung 114
+  - – Verwaltung 94, 101
+
+- – des Verwaltungsgerichtes über
+  - – Rekurskommissionen 112
+
+**Ausgaben** (Kompetenzen)
+
+- – der Gemeindeversammlung 131
+- – des Landrates 90, 155
+- – der Landsgemeinde 69, 155
+- – des Regierungsrates 100, 153
+
+**Ausländer** 30
+
+**Ausstand** 77
+
+**Bauwesen** 24, 91
+
+**Begnadigung** 91, 101
+
+Behörden
+
+- – Amtsdauer 78, 154
+- – Ausstand 77
+- – Beschlussfähigkeit 79
+- – der Gemeinden 119, 131
+- – Dienstrecht 105
+- – Gerichte 106ff.
+- – Gewaltentrennung 73
+- – Information der Öffentlichkeit 80
+- – Landrat 82ff., 155
+- – Regierungsrat 94 ff.
+- – Unvereinbarkeiten 75
+- – Verwaltung 102ff.
+- – Verwandtenausschluss 76
+- – Vormundschaftsbehörde 152
+- – Wahl 88, 131
+- – Wählbarkeit 74
+- – Wiederwahl 78
+
+**Beschlagnahmung** 16
+
+Beschlussfassung, dringliche 132
+
+Bestandesänderungen, von Gemeinden 118
+
+Budget 53, 62<sup>3</sup>, 90<sup>a</sup>, 100<sup>a</sup>, 131<sup>f</sup>
+
+Bund
+
+- – Mitwirkung des Kantons im – 92
+- – Stand 1
+
+**Bürgerpflichten** 21
+
+Bürgerrecht 20
+
+**Bussen** 114<sup>1</sup>
+
+**Eigentumsgarantie** 14
+
+**Einzelrichter** 108
+
+**Energie** s. Wirtschaft
+
+**Erdwärme** (Nutzung) 47
+
+**Erziehungsheime** 39
+
+**Familie** 34
+
+**Finanzierungsbeschluss** 155
+
+Finanzordnung
+
+- – Abgaben 50
+- – Budget und Rechnung 53, 62, 90, 100
+- – Finanzausgleich 55, 55*a*, 155
+- – Finanzbericht 62
+- – Finanzierung 54, 155
+- – Gebühren 50
+- – Haushalt 52
+- – Planung 52, 90, 100
+- – Steuerfuss 69
+- – Steuern 50
+- – Steuerpflicht 51
+- [tab] **Finanzplanung** 52, 90<sup>a</sup>, 100<sup>a</sup>
+
+**Fraktionen** 84
+
+**Fürsorge** 28, 151, 153; Anhang
+
+**Gebäudeversicherung** 48<sup>1</sup>
+
+Gemeinden
+
+- – Arten und Aufgaben 122ff.
+- – Aufsicht 120
+- – Ausgaben 131
+- – Autonomie, (Selbständigkeit) 115, 119
+- – Bestand 115, 118, 131
+- – Einheitsgemeinde 122, 148, 149
+- – Finanzausgleich 55, 55*a*
+- – Fürsorgegemeinden 151, 153
+- – Gemeinderat 128
+- – Gemeindeversammlung 130, 132
+- – Grenzen 118
+- – Kirchgemeinde 127, 128
+- – Organe 128
+- – Organisation 128ff.
+- – Ortsgemeinde 148ff.
+- – Parlament 128<sup>3</sup>
+- – Rechnung 131
+- – Rechtsschutz 121
+- – Referendum, fakultatives 133
+- – Schulgemeinde 148, 149
+- – Stellung 115ff.
+- – Steuerfuss 131
+- – stillschweigende Beschlussfassung 132
+- – Stimm- und Wahlrecht 57, 129–132
+- – Tagwen 150
+- – Budget 131
+- – Vormundschaftsbehörde 152
+- – Wahlen 130, 131
+- – Zusammenarbeit 117
+- – Zusammenlegung 148 ff.
+- – Zweckverbände s. dort
+
+Gerichte
+
+- – Aufsicht 112, 114
+- – Jugendstrafrechtspflege 113, 114, UeBest 2.5.2010
+- – Kantonsgericht 108
+- – Obergericht 110
+- – Strafverfolgung 113, 114
+- – Unabhängigkeit 106
+- – Verwaltungsgericht 111, 120
+- – Verwaltungskommission 112
+- – Zuständigkeiten und Organisation 112
+
+Gesundheitswesen
+
+- – Allgemeines 32
+- – Spitäler und Heime 33
+- – Spitäler 33
+- – Sport 41
+
+**Gewässer** s. Bauwesen
+
+**Glaubens- und Gewissensfreiheit** 6
+
+Grenzänderungen, von Gemeinden 118
+
+**Grundrechte** 2ff.
+
+- – Einschränkung 2
+- – Geltung 2
+- – Verhältnismässigkeit 2, 17
+
+**Haftung**
+
+- – Staatshaftung 18
+
+**Hausdurchsuchung** 16
+
+**Information** 80
+
+Jugendanwaltschaft
+
+- – Strafrechtspflege 113, 114, UeBest 2.5.2010
+- – Wahl 88
+
+**Jugendarbeit** 40
+
+**Kantonalbank** 49
+
+**Kantonsbürgerrecht** s. Bürgerrecht
+
+**Kantonsspital** 33
+
+Kantonsverfassung
+
+- – Revision 69
+  - – Teilrevision 139
+  - – Totalrevision 139
+  - – Voraussetzungen 138
+
+- – Schlussbestimmungen
+  - – Aufhebung bisherigen Rechts 142
+  - – Inkrafttreten 141
+  - – Übergangsrecht 143–146
+
+**Kinderhorte** 38
+
+**Kirchen- und Kultusfreiheit** 7
+
+**Kirchenrat** 128
+
+**Kirchgemeinde** 127, 128
+
+**Kommissionen** 84, 88, 104, 131
+
+**Kompetenzstreitigkeiten** 91<sup>g</sup>
+
+Konkordate und Verträge
+
+- – Kompetenz der Gemeinden 131, 133
+- – Kompetenz des Landrates 89
+- – Kompetenz der Landsgemeinde 69
+- – Kompetenz des Regierungsrates 99
+
+**Konzessionen** 91
+
+**Korporationen** 134
+
+**Kultur- und Kunstfreiheit** 10
+
+**Kulturförderung** 40
+
+Landammann
+
+- – Amtsdauer und Wiederwahl 78
+- – Stellung und Aufgabe 96
+- – Unvereinbarkeiten 75
+- – Wahl 68, 97
+
+**Landeskirchen** 135
+
+- – Autonomie 136
+- – Steuern 137
+- – Stimm- und Wahlrecht 136
+
+Landesstatthalter
+
+- – Amtsdauer und Wiederwahl 78
+- – Stellung 96
+- – Unvereinbarkeiten 75
+- – Wahl 68, 97
+
+Landrat
+
+- – Amtsdauer und Wiederwahl 78, 83
+- – Büro 83
+- – Finanzbefugnisse 90
+- – Informationsrechte 86*a*
+- – Kommissionen und Fraktionen 84
+- – Kompetenzdelegation 93, 154
+- – Landratsverordnungen 86
+- – Rechtsetzung 89
+- – Sachbefugnisse 91
+- – Sitzungen 85, 87
+- – Stellung und Aufgabe 82
+- – Unvereinbarkeiten 75
+- – Verhandlungen 86, 87
+- – Wahl 70
+- – Wahlbefugnisse 88
+
+Landsgemeinde
+
+- – Abstimmungsverfahren 66
+- – Ausgaben 69
+- – Einberufung 63
+- – Ermittlung der Mehrheit 67
+- – Finanzierungsbeschluss 155
+- – Gesetzgebung 69
+- – Kompetenzdelegation 69, 155
+- – Leitung und Eröffnung 64
+- – Memorial 62
+- – Sachbefugnisse 69
+- – Stellung 61
+- – Verhandlungen 65
+- – Wahlbefugnisse 68
+- – Wahlen 66
+
+Lehrer
+
+- – Dienstrecht 105
+- – Unvereinbarkeiten 75
+
+**Medienfreiheit** 9
+
+**Meinungsfreiheit** 8
+
+**Memorialsanträge** 58, 59
+
+Militär
+
+- – Kompetenzen des Landrates 88, 91
+- – Wahl der Kommandanten 88
+
+**Musikunterricht**
+
+- – Förderung des ausserschulischen 37
+
+**Niederlassungsfreiheit** 13
+
+**Notrecht** 81, 89, 99
+
+**Öffentlich-rechtliche Körperschaften** 18, 50, 52, 127, 135–137
+
+**Öffentliche Ordnung** 25, 91
+
+**Ortsgemeinde** 122, 128<sup>2</sup>, 149, 150, 151; Anhang
+
+**Persönliche Freiheit** 5
+
+**Petitionsrecht** 60
+
+Politische Rechte
+
+- – Antragsrecht zuhanden der Stimmberechtigten 129
+- – Einberufung der Bundesversammlung 92
+- – Einberufung der Gemeindeversammlung 130
+- – Einberufung der Landsgemeinde 63
+- – Memorialsantrag 58, 59
+- – Petitionsrecht 60
+- – Referendum 133
+- – Stimmrecht 56, 57, 130, 132
+- – Wahlrecht 57
+
+**Ratsschreiber** 103
+
+**Raumplanung** 23
+
+**Rechnung** 53, 62<sup>3</sup>, 90<sup>a</sup>
+
+**Rechtsetzung** s.
+
+- – Gemeindeversammlung
+- – Landrat
+- – Landsgemeinde
+- – Regierungsrat
+
+**Rechtsgleichheit** 4
+
+**Rechtsordnung** 1, 21
+
+Rechtspflege
+
+- – durch den Regierungsrat 94, 101
+- – durch die Gerichte 106ff.
+
+Rechtsschutz
+
+- – Akteneinsicht 16
+- – Begründungspflicht 16
+- – gegen letztinstanzliche Verfügungen, Beschlüsse und Erlasse von Organen der Gemeinden und Zweckverbänden 121
+- – rechtliches Gehör 16
+- – Rechtsmittelbelehrung 16
+- – unentgeltliche Rechtspflege 16
+- – verfassungsmässiger Richter 16
+
+**Rechtsweggarantie**, in öffentlich-rechtlichen Angelegenheiten 59<sup>2</sup>, 111<sup>1</sup>
+
+**Referendum,** fakultatives 133
+
+Regierungsrat
+
+- – Amtsdauer und Wiederwahl 78
+- – Finanzbefugnisse 100
+- – Kollegial- und Departementalsystem 95
+- – Kompetenzdelegation 103
+- – Landammann s. dort
+- – Landesstatthalter s. dort
+- – Mitwirkung im Landrat 87
+- – Rechtsetzung 99
+- – Stellung und Aufgabe 94
+- – Unvereinbarkeiten 75
+- – Wahl 71
+- – Wahlbefugnisse 98
+- – Zuständigkeiten 101, 147, 153
+
+**Rekurskommissionen** 111<sup>2</sup>, 112
+
+Religionsgemeinschaften 127<sup>4,</sup> 135, 136
+
+Richter
+
+- – Amtsdauer und Wiederwahl 78
+- – Einzelrichter 108
+- – Unvereinbarkeiten 75
+- – Wahl 68
+
+**Rückwirkungsverbot** 19
+
+**Sachen** (öffentliche) s. Bauwesen
+
+Schul- und Bildungswesen
+
+- – Aufsicht 37
+- – Berufsbildung 37
+- – Berufsschule 37
+- – Erwachsenenbildung 40
+- – Erziehungsheime 39
+- – Kantonsschule 37
+- – Kinderhorte 38
+- – Musikunterricht 37
+- – Privatschulen 36
+- – Schulgemeinde 128<sup>2</sup>, 149
+- – Schulpflicht 35
+- – Sonderschulen 39
+- – Stipendien 37
+- – Unentgeltlichkeit 35
+- – Volksschule 35
+
+**Sonderschulen** 39
+
+**Soziale Sicherheit** 26, 27
+
+Sozialwesen
+
+- – Arbeitsbeschaffung 28
+- – Arbeitslosenfürsorge 28
+- – Arbeitsvermittlung 28
+- – Ausländer 30
+- – Fürsorgegemeinde 151
+- – Schutz der Arbeitnehmer 28
+- – Soziale Sicherheit und Wohlfahrt 26
+- – Sozialhilfe 29
+- – Sozialversicherungen 27
+- – Vormundschaftswesen 29, 152
+- – Wohnungsbau 31
+
+Staat
+
+- – Gewaltentrennung 73
+- – Haftung 18
+- – Legalitätsprinzip 17
+- – öffentliche Ordnung und Sicherheit 25, 91
+
+Staatsanwalt
+
+- – Aufgaben 113, 114, UeBest 2.5.2010
+- – Wahl 88
+
+Staatsgewalt
+
+- – Ausübung 1
+- – Beschränkung 2
+- – Haftung 18
+- – Trennung 73
+
+Staatskanzlei 103
+
+Ständerat
+
+- – Amtsdauer und Wiederwahl 78
+- – Unvereinbarkeiten 75
+- – Wahl 72
+
+**Standesinitiative** 92
+
+**Standesreferendum** 92
+
+**Steuerfuss** (Festsetzung)
+
+- – durch die Landsgemeinde 69
+
+**Steuern** 50
+
+**Stimmrecht**
+
+- – auf Gemeindeebene 57
+- – auf Kantonsebene 57
+- – Voraussetzungen des Stimmrechts 56
+
+**Strafgerichtskommission** 108
+
+**Strafkammer** 108
+
+Strafrecht
+
+- – Rechtsschutz 16
+- – Gerichte s. dort
+
+**Strassen** s. Bauwesen
+
+**Tagwen** 150
+
+**Truppen**, kantonale 91
+
+**Umweltschutz** 22
+
+**Unterrichts- und Lehrfreiheit** 11
+
+**Unvereinbarkeiten** 75
+
+**Vereins- und Versammlungsfreiheit** 12
+
+**Verfahrensgarantien** 16
+
+**Verhaftung** 16
+
+**Verkehr** s. Wirtschaft
+
+**Verwaltung**, kantonale
+
+- – Dienstrecht 105
+- – Grundlage 102
+- – Kommissionen 104
+  - – Unvereinbarkeiten 75
+
+- – Organisation 103
+- – Rechtspflege durch den Regierungsrat 94, 101
+
+**Verwandtenausschluss** 76
+
+**Volksschule** 35
+
+**Vormundschaftsbehörde** 152, 153
+
+**Vorsteherschaft** 58<sup>1</sup>, 128<sup>1</sup>, 129<sup>1</sup>, 130<sup>2</sup>, 131, 132, 133<sup>1</sup>, 138<sup>3</sup>, 145<sup>1</sup>, 154
+
+**Wählbarkeit**, kantonale und kommunale 57, 74, 78
+
+**Wahlkreise** 70
+
+Wahlrecht 57
+
+Wahlverfahren
+
+- – Gemeinde 130
+- – Kanton 70–72
+
+Wirtschaft
+
+- – Förderung 42
+- – Gebäudeversicherung 48
+- – Kantonalbank 49
+- – Landwirtschaft 44
+- – Polizei 43
+- – Regalrechte 47
+- – Verkehr und Energie 46
+- – Waldwirtschaft 45
+- – Wirtschaftsfreiheit 15
+- [tab] **Zivilkammer** 108
+
+**Zweckverbände** 116, 131
+
+- – Aufsicht 120
+- – Bestand und Selbständigkeit 115
+- – Rechtsschutz 121
+- – Stellung 115ff.
+- – Zusammenarbeit 117

@@ -1,0 +1,473 @@
+---
+sr: "211.231"
+title: "Legge federale del 18 giugno 2004 sull'unione domestica registrata di coppie omosessuali (Legge sull'unione domestica registrata, LUD)"
+short: LUD
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
+language: it
+version: 2018-01-01
+adopted: 2004-06-18
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sull’unione domestica registrata di coppie omosessuali
+
+(Legge sull’unione domestica registrata, LUD)
+
+del 18 giugno 2004 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 38 capoverso 2, 112 capoverso 1, 113 capoverso 1, 119 capoverso 2, 121 capoverso 1, 122 capoverso 1, 123 capoverso 1, 128 capoverso 1 e 129 capoverso 1 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 29 novembre 2002[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente legge disciplina la costituzione, gli effetti e lo scioglimento dell’unione domestica registrata di coppie omosessuali.
+
+#### Art. 2
+
+**Principio**
+
+<sup>1</sup> Due persone dello stesso sesso possono far registrare ufficialmente la loro unione domestica.
+
+<sup>2</sup> In tal modo si uniscono in una comunione di vita con diritti e doveri reciproci.
+
+<sup>3</sup> Il loro stato civile è: «in unione domestica registrata».
+
+## Capitolo 2: Registrazione dell’unione domestica
+
+### Sezione 1: Condizioni e impedimenti
+
+#### Art. 3
+
+**Condizioni**
+
+<sup>1</sup> Entrambi i partner devono aver compiuto il diciottesimo anno di età ed essere capaci di discernimento.
+
+<sup>2</sup> ...[^3-1]
+
+[^3-1]: Abrogato dal n. 8 dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), con effetto dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+
+#### Art. 4
+
+**Impedimenti**
+
+<sup>1</sup> È proibito contrarre un’unione domestica registrata tra parenti in linea retta e tra fratelli o sorelle germani, consanguinei o uterini.
+
+<sup>2</sup> Entrambi i partner devono provare di non essere già vincolati da un’unione domestica registrata o coniugati.
+
+### Sezione 2: Procedura
+
+#### Art. 5
+
+**Domanda**
+
+<sup>1</sup> La domanda di registrazione si fa all’ufficio dello stato civile del domicilio di uno dei partner.
+
+<sup>2</sup> I partner compaiono personalmente. Se provano che la comparsa personale non può essere manifestamente pretesa da loro, la procedura preliminare si svolge per scritto.
+
+<sup>3</sup> I partner producono i documenti necessari. Dichiarano personalmente all’ufficio dello stato civile di soddisfare le condizioni di registrazione dell’unione domestica.
+
+<sup>4</sup> I partner che non hanno la cittadinanza svizzera devono provare la legalità del loro soggiorno in Svizzera durante la procedura preliminare.[^5-1]
+
+[^5-1]: Introdotto dal n. II 2 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+
+#### Art. 6
+
+**Esame**
+
+<sup>1</sup> L’ufficio dello stato civile competente esamina se sono soddisfatte le condizioni di registrazione e se non sussistono impedimenti né circostanze secondo cui la domanda non corrisponde manifestamente alla libera volontà dei partner.[^6-1]
+
+<sup>2</sup> L’ufficiale dello stato civile si rifiuta di procedere se uno dei partner manifestamente non intende creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri.[^6-2]
+
+<sup>3</sup> Nei casi di cui al capoverso 2, l’ufficiale dello stato civile sente i partner e può sollecitare informazioni da altre autorità o terzi.[^6-3]
+
+<sup>4</sup> L’ufficio dello stato civile comunica all’autorità competente l’identità dei partner che non hanno fornito la prova della legalità del loro soggiorno in Svizzera.[^6-4]
+
+[^6-1]: Nuovo testo giusta il n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^6-2]: Introdotto dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^6-3]: Introdotto dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^6-4]: Introdotto dal n. II 2 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+
+#### Art. 7
+
+**Forma**
+
+<sup>1</sup> L’ufficiale dello stato civile registra la dichiarazione di volontà di entrambi i partner e fa loro firmare il certificato di unione.
+
+<sup>2</sup> La registrazione dell’unione domestica è pubblica.
+
+#### Art. 8
+
+**Disposizioni di esecuzione**
+
+Il Consiglio federale emana le disposizioni di esecuzione.
+
+### Sezione 3: Annullamento
+
+#### Art. 9
+
+**Annullabilità assoluta**
+
+<sup>1</sup>
+
+Qualsiasi interessato può in ogni tempo domandare al giudice l’annullamento dell’unione domestica registrata se:
+
+- a. al momento della registrazione dell’unione domestica uno dei partner non era capace di discernimento e da allora non ha riacquistato la capacità di discernimento;
+- b. l’unione domestica è stata registrata in violazione dell’articolo 4;
+- c.[^9-1] uno dei partner non intendeva creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
+- d.[^9-2] l’unione domestica registrata non corrispondeva alla libera volontà di uno dei partner;[^9-3]
+- e.[^9-4] uno dei partner è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento dell’unione.
+
+<sup>2</sup> Durante l’unione domestica registrata l’azione di annullamento è promossa d’ufficio dall’autorità competente nel domicilio dei partner. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.[^9-5]
+
+[^9-1]: Introdotta dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^9-2]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^9-4]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-5]: Per. introdotto dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+
+#### Art. 10
+
+**Annullabilità relativa**
+
+<sup>1</sup> Un partner può domandare al giudice l’annullamento dell’unione domestica registrata per vizi della volontà.
+
+<sup>2</sup> L’azione di annullamento dev’essere promossa entro sei mesi dal giorno in cui l’avente diritto ha scoperto il vizio della volontà, ma in ogni caso entro cinque anni dalla registrazione.
+
+<sup>3</sup> Se il partner attore muore durante il procedimento, un erede può proseguire l’azione.
+
+#### Art. 11
+
+**Effetti della sentenza di annullamento**
+
+<sup>1</sup> L’annullamento dell’unione domestica registrata ha effetto dal giudicato della relativa sentenza.
+
+<sup>2</sup> I diritti di successione si estinguono retroattivamente. Per il rimanente si applicano per analogia le disposizioni concernenti gli effetti dello scioglimento giudiziale dell’unione domestica registrata.
+
+## Capitolo 3: Effetti dell’unione domestica registrata
+
+### Sezione 1: Diritti e doveri generali
+
+#### Art. 12
+
+**Assistenza e rispetto**
+
+I partner si devono assistenza e rispetto reciproci.
+
+#### Art. 12a
+
+**Cognome**[^12a-1]
+
+<sup>1</sup> Ciascun partner conserva il proprio cognome.
+
+<sup>2</sup> Al momento della registrazione dell’unione domestica, i partner possono tuttavia dichiarare all’ufficiale dello stato civile di voler assumere un cognome comune; possono scegliere tra il cognome da celibe o nubile di uno di loro.
+
+[^12a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 13
+
+**Mantenimento**
+
+<sup>1</sup> I partner provvedono in comune, ciascuno nella misura delle proprie forze, al debito mantenimento dell’unione domestica. Per il rimanente si applicano per analogia gli articoli 163–165 del Codice civile (CC)[^13-1].[^13-2]
+
+<sup>2</sup> Se i partner non possono accordarsi in proposito, il giudice stabilisce, ad istanza di parte, i contributi pecuniari per il mantenimento dell’unione domestica. Tali contributi possono essere pretesi per il futuro e per l’anno precedente l’istanza.
+
+<sup>3</sup> Se un partner non adempie il proprio obbligo di mantenimento, il giudice può ordinare ai suoi debitori che facciano i loro pagamenti, in tutto o in parte, all’altro.
+
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-2]: Per. introdotto dal n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+#### Art. 14
+
+**Abitazione comune**
+
+<sup>1</sup> Un partner non può, senza l’esplicito consenso dell’altro, disdire un contratto di locazione, alienare l’abitazione comune o limitare con altri negozi giuridici i diritti inerenti alla stessa.
+
+<sup>2</sup> Il partner che non può procurarsi questo consenso, o cui il consenso è negato senza valido motivo, può adire il giudice.
+
+#### Art. 15
+
+**Rappresentanza dell’unione domestica**
+
+<sup>1</sup> Durante la vita comune, ciascun partner rappresenta l’unione domestica per i bisogni correnti della stessa.
+
+<sup>2</sup>
+
+Per gli altri bisogni, un partner rappresenta l’unione domestica soltanto se:
+
+- a. ne è stato autorizzato dall’altro o dal giudice; o
+- b. l’affare non consente una dilazione e l’altro partner è impossibilitato a dare il proprio consenso per malattia, assenza o analoghi motivi.
+
+<sup>3</sup> Con i propri atti ciascun partner obbliga sé stesso e, in quanto non ecceda il potere di rappresentanza in modo riconoscibile dai terzi, solidalmente anche l’altro.
+
+<sup>4</sup> Se un partner eccede il suo potere di rappresentare l’unione domestica o se ne dimostra incapace, il giudice, ad istanza dell’altro, può privarlo in tutto o in parte della rappresentanza. La privazione è opponibile ai terzi di buona fede soltanto quando sia stata pubblicata per ordine del giudice.
+
+#### Art. 16
+
+**Obbligo d’informazione**
+
+<sup>1</sup> Ciascun partner è tenuto a informare l’altro, a domanda, sui suoi redditi, la sua sostanza e i suoi debiti.
+
+<sup>2</sup> Ad istanza di parte, il giudice può obbligare un partner o terzi a fornire le informazioni occorrenti e a produrre i documenti necessari.
+
+<sup>3</sup> Rimane salvo il segreto professionale degli avvocati, dei notai, dei medici, degli ecclesiastici e dei loro ausiliari.
+
+#### Art. 17
+
+**Sospensione della vita comune**
+
+<sup>1</sup> Un partner è autorizzato a sospendere la vita comune per gravi motivi.
+
+<sup>2</sup>
+
+Ad istanza di parte, il giudice:
+
+- a. stabilisce i contributi pecuniari di un partner in favore dell’altro;
+- b. prende le misure riguardanti l’abitazione e le suppellettili domestiche.
+
+<sup>3</sup> Un partner può parimenti proporre l’istanza se l’altro rifiuta la convivenza senza valido motivo.
+
+<sup>3bis</sup> Se una persona ha adottato il figlio minorenne del partner, il giudice prende le misure necessarie secondo gli articoli 270–327*c* CC[^17-1].[^17-2]
+
+<sup>4</sup> In caso di modifica delle circostanze, il giudice, ad istanza di parte, adatta o revoca le misure prese.
+
+[^17-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^17-2]: Introdotto dal n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+### Sezione 2: Rapporti patrimoniali
+
+#### Art. 18
+
+**Beni dei partner**
+
+<sup>1</sup> Ciascun partner dispone dei suoi beni.
+
+<sup>2</sup> Ciascun partner risponde dei suoi debiti con i suoi beni.
+
+#### Art. 19
+
+**Prova**
+
+<sup>1</sup> Chiunque affermi che un bene sia di proprietà dell’uno o dell’altro partner deve fornirne la prova.
+
+<sup>2</sup> Mancando tale prova, si presume che il bene sia di comproprietà dei partner.
+
+#### Art. 20
+
+**Inventario**
+
+<sup>1</sup> Ciascun partner può in ogni tempo chiedere all’altro di concorrere alla compilazione per atto pubblico di un inventario dei loro beni rispettivi.
+
+<sup>2</sup> Questo inventario si presume esatto se compilato entro un anno dal conferimento dei beni.
+
+#### Art. 21
+
+**Mandato di amministrazione**
+
+Se un partner affida all’altro l’amministrazione dei suoi beni, si applicano, salvo diverso accordo, le disposizioni sul mandato.
+
+#### Art. 22
+
+**Restrizione del potere di disporre**
+
+<sup>1</sup> Se necessario per assicurare le basi economiche o per adempiere un obbligo patrimoniale derivante dall’unione domestica registrata, il giudice, ad istanza di parte, può subordinare al consenso di un partner la disposizione di determinati beni da parte dell’altro e prendere provvedimenti conservativi.
+
+<sup>2</sup> Se questa misura concerne un fondo, il giudice ne ordina la menzione nel registro fondiario.
+
+#### Art. 23
+
+**Debiti tra partner**
+
+<sup>1</sup> Il partner cui il rimborso di debiti esistenti nei confronti dell’altro arrechi serie difficoltà può chiedere dilazioni, sempreché si possa ragionevolmente esigerlo dal partner creditore.
+
+<sup>2</sup> Se le circostanze lo esigono, la pretesa dev’essere garantita.
+
+#### Art. 24
+
+**Attribuzione in caso di comproprietà**
+
+Se un bene è in comproprietà dei partner, il partner che provi d’avere un interesse preponderante può, al momento dello scioglimento dell’unione domestica registrata e oltre alle altre misure legali, chiedere che tale bene gli sia attribuito per intero contro compenso all’altro partner.
+
+#### Art. 25
+
+**Convenzione patrimoniale**
+
+<sup>1</sup> I partner possono concordare mediante convenzione patrimoniale una regolamentazione speciale per il caso in cui l’unione domestica registrata sia sciolta. Possono segnatamente convenire che i beni siano divisi conformemente agli articoli 196–219 CC[^25-1].[^25-2]
+
+<sup>2</sup> Tali convenzioni non devono pregiudicare la porzione legittima dei discendenti di un partner.
+
+<sup>3</sup> La convenzione patrimoniale è stipulata per atto pubblico firmato dai contraenti e, se del caso, dal rappresentante legale.
+
+<sup>4</sup> Gli articoli 185 e 193 CC si applicano per analogia.
+
+[^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^25-2]: Nuovo testo del per. giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+### Sezione 3: Effetti particolari
+
+#### Art. 26
+
+**Esclusione del matrimonio**
+
+Chi è vincolato da un’unione domestica registrata non può contrarre matrimonio.
+
+#### Art. 27
+
+**Figli del partner**
+
+<sup>1</sup> Se uno dei partner ha figli, l’altro lo assiste in modo adeguato nell’adempimento del suo obbligo di mantenimento e nell’esercizio dell’autorità parentale e lo rappresenta ove le circostanze lo richiedano. I diritti dei genitori rimangono in ogni caso salvaguardati.
+
+<sup>2</sup> In caso di sospensione della vita comune o di scioglimento dell’unione domestica registrata, l’autorità tutoria può, alle condizioni di cui all’articolo 274*a* CC[^27-1], conferire il diritto di intrattenere relazioni personali.
+
+[^27-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 27a
+
+**Adozione del figliastro**[^27a-1]
+
+Se una persona ha adottato il figlio minorenne del partner, si applicano per analogia gli articoli 270–327*c* CC[^27a-2].
+
+[^27a-1]: Introdotto dal n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^27a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 28
+
+**Adozione e medicina riproduttiva**[^28-1]
+
+Chi è vincolato da un’unione domestica registrata non può adottare congiuntamente né valersi di tecniche di procreazione medicalmente assistita.
+
+[^28-1]: Nuovo testo giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+## Capitolo 4: Scioglimento giudiziale dell’unione domestica registrata
+
+### Sezione 1: Condizioni
+
+#### Art. 29
+
+**Richiesta comune**
+
+<sup>1</sup> Qualora i partner domandino congiuntamente lo scioglimento dell’unione domestica registrata, il giudice li sente ed esamina se hanno presentato la richiesta dopo matura riflessione e per libera scelta e stipulato una convenzione sugli effetti dello scioglimento che può essere omologata.
+
+<sup>2</sup> Se tali condizioni sono adempiute, il giudice pronuncia lo scioglimento dell’unione domestica registrata.
+
+<sup>3</sup> I partner possono domandare mediante richiesta comune che il giudice decida, nella sentenza di scioglimento, sugli effetti dello scioglimento in merito ai quali sussiste disaccordo.
+
+#### Art. 30
+
+**Azione**
+
+Un partner può domandare lo scioglimento dell’unione domestica registrata se al momento della proposizione dell’azione i partner vivono separati da almeno un anno.
+
+### Sezione 2: Effetti
+
+#### Art. 30a
+
+**Cognome**[^30a-1]
+
+Il partner che ha cambiato cognome in occasione della registrazione dell’unione domestica conserva il nuovo cognome anche dopo lo scioglimento della stessa; può tuttavia dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
+
+[^30a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 31
+
+**Diritto successorio**
+
+<sup>1</sup> Dallo scioglimento dell’unione domestica registrata i partner cessano di essere eredi legittimi l’uno dell’altro.
+
+<sup>2</sup> Non possono avanzare pretese per disposizioni a causa di morte fatte prima della litispendenza della procedura di scioglimento.
+
+#### Art. 32
+
+**Attribuzione dell’abitazione comune**
+
+<sup>1</sup> Quando lo giustifichino gravi motivi, il giudice può attribuire a uno soltanto dei partner i diritti e gli obblighi risultanti dal contratto di locazione relativo all’abitazione comune, sempreché si possa ragionevolmente esigerlo dall’altro partner.
+
+<sup>2</sup> Il partner ex locatario risponde solidalmente della pigione sino al momento in cui il rapporto di locazione cessa o può essere sciolto per contratto o per legge, ma in ogni caso durante due anni al massimo. Se è chiamato effettivamente a rispondere, può compensare l’importo versato con il contributo di mantenimento dovuto all’altro partner, mediante rate equivalenti alla pigione mensile.
+
+<sup>3</sup> Se l’abitazione comune appartiene a uno dei partner, il giudice può, alle condizioni di cui al capoverso 1, attribuire all’altro un diritto d’abitazione per una durata limitata e contro adeguata indennità o imputazione sul contributo di mantenimento. Il diritto d’abitazione è limitato o soppresso ove lo esigano fatti nuovi rilevanti.
+
+#### Art. 33
+
+**Previdenza professionale**
+
+Le prestazioni di uscita della previdenza professionale acquisite durante l’unione domestica registrata sono divise secondo le disposizioni del diritto del divorzio concernenti la previdenza professionale.
+
+#### Art. 34
+
+**Contributo di mantenimento**
+
+<sup>1</sup> In linea di principio, dopo lo scioglimento dell’unione domestica registrata ciascun partner provvede da sé al proprio mantenimento.
+
+<sup>2</sup> Il partner che ha limitato la sua attività lucrativa, o non ne ha esercitata alcuna, a causa della ripartizione dei compiti durante l’unione domestica registrata può esigere dall’altro adeguati contributi di mantenimento finché non sia in grado di provvedere da sé al proprio mantenimento grazie all’esercizio di un’attività lucrativa.
+
+<sup>3</sup> Un partner può inoltre esigere contributi di mantenimento adeguati se si trova in stato di bisogno in seguito allo scioglimento dell’unione domestica registrata e si può ragionevolmente pretendere dall’altro, dato l’insieme delle circostanze, il versamento di contributi di mantenimento.
+
+<sup>4</sup> Per il rimanente si applicano per analogia gli articoli 125 capoversi 2 e 3 nonché 126–134 CC[^34-1].[^34-2]
+
+[^34-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-2]: Nuovo testo giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+#### Art. 35
+
+[^35-1]
+
+[^35-1]: Abrogato dal n. II 4 dell’all. 1 al Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+
+## Capitolo 5: Disposizioni finali
+
+#### Art. 36
+
+**Modifica del diritto vigente**
+
+La modifica del diritto vigente è disciplinata nell’allegato.
+
+#### Art. 37
+
+**Coordinamento con modifiche di altre leggi**
+
+...[^37-1]
+
+[^37-1]: Le disp. di coordinazione possono essere consultate alla [RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782).
+
+#### Art. 37a
+
+**Disposizione transitoria della modifica del 30 settembre 2011**[^37a-1]
+
+Se l’unione domestica è stata registrata prima dell’entrata in vigore della modifica del 30 settembre 2011 del Codice civile, i partner possono, entro un anno dall’entrata in vigore di tale modifica, dichiarare all’ufficiale dello stato civile di voler assumere un cognome comune; possono scegliere tra il cognome da celibe o nubile di uno di loro.
+
+[^37a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 38
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà a referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° gennaio 2007[^38-1]
+
+[^38-1]: DCF del 9 dic. 2005.
+
+Allegato
+
+(art. 36)
+
+## Modifica del diritto vigente
+
+...[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782).

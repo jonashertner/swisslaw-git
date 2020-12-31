@@ -1,0 +1,45 @@
+---
+sr: "0.642.045.42"
+title: Abkommen vom 31. Juli 1935 zwischen der Schweiz und Italien betreffend die Steuerbefreiung der schweizerischen Schulen in Italien und der italienischen Schulen in der Schweiz
+eli: "https://fedlex.data.admin.ch/eli/cc/51/626_638_730"
+language: de
+version: 1935-11-01
+adopted: 1935-07-31
+in_force: 1935-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/626_638_730/19351101/de/xml/fedlex-data-admin-ch-eli-cc-51-626_638_730-19351101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/626_638_730/19351101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zwischen der Schweiz und Italien betreffend die Steuerbefreiung der schweizerischen Schulen in Italien und der italienischen Schulen in der Schweiz
+
+BS **12** 421
+
+Abgeschlossen durch Notenaustausch vom 31. Juli 1935 In Kraft getreten am 1. November 1935
+
+(Stand am 1. November 1935)
+
+Durch Notenaustausch vom 31. Juli 1935 ist zwischen der Schweiz und Italien ein Abkommen über die Steuerbefreiung der schweizerischen Schulen in Italien und der italienischen Schulen in der Schweiz getroffen worden. Der Gegenstand dieses Abkommens ist aus der hiernach abgedruckten schweizerischen Note ersichtlich, die inhaltlich mit der italienischen übereinstimmt.
+
+Übersetzung[^ingress-1]
+
+[^ingress-1]: Der Originaltext findet sich unter der gleichen Nummer in der italienischen Ausgabe dieser Sammlung.
+
+Schweizerische Note
+
+Mit einer das heutige Datum tragenden Note hatte Euere Exzellenz die Gefälligkeit, mir im Namen der Italienischen Regierung nachstehendes mitzuteilen:
+
+- «In der Absicht, die geistigen Beziehungen zwischen Italien und der Schweiz immer mehr zu entwickeln, beehre ich mich, im Namen der Italienischen Regierung, das nachstehende Abkommen vorzuschlagen:
+- Alle gegenwärtig im Gebiet der Schweizerischen Eidgenossenschaft bestehenden italienischen Schulen (Primarschulen und Abendschulen), die keine gewinnbringende Tätigkeit verfolgen, sind, in welchem Kanton immer sie sich befinden mögen, von allen direkten Bundes‑, Kantons‑ und Gemeindesteuern, mit Ausnahme der Grundsteuern, befreit. Desgleichen sind alle ähnlichen gegenwärtig im Gebiet des Königreichs Italien bestehenden schweizerischen Schulen, die keine gewinnbringende Tätigkeit verfolgen, von allen direkten Staats‑, Provinz‑ und Gemeindesteuern, mit Ausnahme der Grundsteuern, befreit.
+- Um die Eröffnung neuer italienischer Primar‑ und Abendschulen in der Schweiz und solcher schweizerischer Schulen in Italien zu erleichtern, finden auf sie die im vorhergehenden Abschnitt genannten Steuererleichterungen ebenfalls Anwendung, sofern sie keinen gewinnbringenden Zweck verfolgen.
+- Das gegenwärtige Abkommen kann von den beiden Regierungen jederzeit auf das Ende des nachfolgenden Jahres gekündigt werden.
+- Sofern die Schweizerische Regierung diesen Vorschlag annimmt, wird die zustimmende Antwort Euerer Exzellenz das gegenwärtige Abkommen vervollständigen, in der Meinung, dass dasselbe am 1. November 1935 in Kraft tritt.»
+
+Ich beehre mich, Euere Exzellenz davon in Kenntnis zu setzen, dass sich die Schweizerische Regierung einverstanden erklärt und dass demnach der gegenwärtige Notenaustausch die vorstehenden Bedingungen endgültig und vollkommen gestaltet.
+
+Genehmigen Sie, Herr Minister, die Versicherung unserer ausgezeichneten Hochachtung.
+
+<table>
+<tr><td></td><td>Wagnière</td></tr>
+</table>

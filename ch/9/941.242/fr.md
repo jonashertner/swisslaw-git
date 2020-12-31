@@ -1,0 +1,618 @@
+---
+sr: "941.242"
+title: "Ordonnance du DFJP du 19 mars 2006 sur les instruments mesureurs des gaz d'échappement des moteurs à combustion (OIGE)"
+short: OIGE
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/251"
+language: fr
+version: 2018-12-01
+adopted: 2006-03-19
+in_force: 2006-10-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20181201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-251-20181201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/251/20181201/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DFJP sur les instruments mesureurs des gaz d’échappement des moteurs à combustion****
+
+(OIGE)[^t-1]
+
+du 19 mars 2006 (Etat le 1<sup>er</sup> décembre 2018)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+
+Le Département fédéral de justice et police (DFJP),
+
+vu les art. 5, al. 2, 8, al. 2, 11, al. 2, 16, al. 2, 17, al. 2, 24, al. 3, et 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure (ordonnance sur les instruments de mesure)[^ingress-1],[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^ingress-2]: Nouvelle teneur selon le ch. I 14 de l’O du DFJP du 7 déc. 2012 (Nouvelles bases légales en métrologie), en vigueur depuis le 1<sup>er janv.</sup> 2013 ([RO 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance fixe:
+
+- a.[^1-1] les exigences afférentes aux instruments mesureurs[^1-2] des composants gazeux des moteurs à allumage commandé, aux instruments mesureurs de fumée de diesel des moteurs à allumage par compression et aux instruments mesureurs des nanoparticules des moteurs à combustion;
+- b. les procédures de mise sur le marché de ces instruments de mesure;
+- c. les procédures destinées à maintenir la stabilité de mesure de ces instruments de mesure.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^1-2]: Nouvelle expression selon le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 2
+
+**Champ d’application**
+
+Sont soumis aux dispositions de la présente ordonnance les instruments mesureurs des composants gazeux, les instruments mesureurs de fumée de diesel et les instruments mesureurs des nanoparticules qui sont utilisés pour:[^2-1]
+
+- a. l’entretien du système antipollution par les entreprises habilitées conformément à l’art. 35 de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^2-2];
+- b. les contrôles subséquents des gaz d’échappement effectués par l’autorité d’immatriculation conformément à l’art. 36 OETV ainsi que les contrôles subséquents des gaz d’échappement effectués par la police;
+- c.[^2-3] le contrôle périodique des systèmes de filtre à particules selon l’art. 15 de l’ordonnance du 14 octobre 2015 sur les moteurs de bateaux[^2-4] et selon l’art. 5 des dispositions d’exécution du DETEC du 28 août 2017 de l’ordonnance sur les exigences applicables aux moteurs de bateaux dans les eaux suisses[^2-5];
+- d. l’entretien du système antipollution ou les contrôles périodiques des gaz d’échappement conformément à l’art. 13.11a, al. 7, de l’ordonnance du 17 janvier 1976 concernant la navigation sur le lac de Constance[^2-6];
+- e.[^2-7] les mesures et contrôles des émissions prévus par l’art. 13 de l’ordonnance du 16 décembre 1985 sur la protection de l’air[^2-8] qui sont effectués sur les machines de chantier ainsi que sur les machines et appareils équipés d’un moteur à combustion;
+- f.[^2-9] l’établissement de valeurs de référence par les autorités d’homologation.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^2-4]: [RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)
+[^2-5]: [RS 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548)
+[^2-6]: [RS 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338)
+[^2-7]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^2-8]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^2-9]: Introduite par le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+
+#### Art. 3
+
+**Définitions**
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *instrument mesureur des composants gazeux:* un instrument de mesure servant à déterminer, à partir d’un flux partiel des gaz d’échappement, les fractions volumiques, au niveau d’humidité présente, de certains composants des gaz d’échappement d’un véhicule à moteur à allumage commandé en régime stationnaire;
+- b. *instrument mesureur de fumée de diesel:* un instrument de mesure servant à déterminer, à partir d’un flux partiel des gaz d’échappement, le coefficient d’opacité maximum de la fumée des gaz d’échappement d’un moteur à allumage par compression et les régimes du ralenti et de régulation à vide durant une accélération libre;
+- c.[^3-1] *instrument mesureur des nanoparticules des moteurs à combustion:* un instrument de mesure servant à déterminer la concentration numérique de nanoparticules à partir d’un flux partiel des gaz d’échappement d’un moteur à combustion.
+
+[^3-1]: Introduite par le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+
+## Section 2 Instruments mesureurs des composants gazeux
+
+#### Art. 4
+
+**Exigences essentielles**
+
+Les instruments mesureurs des composants gazeux doivent répondre aux exigences essentielles fixées à l’annexe 1 de l’ordonnance sur les instruments de mesure et à l’annexe 1 de la présente ordonnance.
+
+#### Art. 5
+
+**Procédures de mise sur le marché**
+
+La conformité des instruments mesureurs des composants gazeux avec les exigences essentielles mentionnées à l’art. 4 peut être évaluée et certifiée au choix du fabricant selon l’une des procédures suivantes prévues à l’annexe 2 de l’ordonnance sur les instruments de mesure:
+
+- a. examen de type (module B) complété par la déclaration de conformité au type sur la base d’une assurance de la qualité du procédé de fabrication (module D);
+- b. examen de type (module B) complété par la déclaration de conformité au type sur la base d’une vérification du produit (module F);
+- c. déclaration de conformité sur la base d’une assurance complète de la qualité et d’un contrôle de la conception (module H1).
+
+#### Art. 6
+
+**Procédure de maintien de la stabilité de mesure**[^6-1]
+
+Les instruments mesureurs des composants gazeux sont soumis à une vérification ultérieure selon l’annexe 7, ch. 1, de l’ordonnance sur les instruments de mesure et l’annexe 3, ch. 1, de la présente ordonnance, effectuée annuellement par les offices cantonaux de vérification.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+
+## Section 3 Instruments mesureurs de fumée de diesel
+
+#### Art. 7
+
+**Exigences essentielles**
+
+Les instruments mesureurs de fumée de diesel doivent répondre aux exigences essentielles fixées à l’annexe 1 de l’ordonnance sur les instruments de mesure et à l’annexe 2 de la présente ordonnance.
+
+#### Art. 8
+
+**Procédures de mise sur le marché**
+
+Les instruments mesureurs de fumée de diesel sont soumis à une approbation ordinaire et à une vérification initiale selon l’annexe 5 de l’ordonnance sur les instruments de mesure.
+
+#### Art. 9
+
+**Procédure de maintien de la stabilité de mesure**[^9-1]
+
+Les instruments mesureurs de fumée de diesel sont soumis à une vérification ultérieure selon l’annexe 7, ch. 1, de l’ordonnance sur les instruments de mesure et l’annexe 3, ch. 1, de la présente ordonnance, effectuée annuellement par les offices cantonaux de vérification.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+
+## Section 3*a***** Instruments mesureurs des nanoparticules des moteurs à combustion
+
+[^sec3a-1]
+
+[^sec3a-1]: Introduite le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+
+#### Art. 9a
+
+**Exigences essentielles**
+
+Les instruments mesureurs des nanoparticules des moteurs à combustion doivent répondre aux exigences essentielles fixées à l’annexe 1 de l’ordonnance sur les instruments de mesure et à l’annexe 4, let. B, ch. 1 à 5, de la présente ordonnance.
+
+#### Art. 9b
+
+**Procédures de mise sur le marché**
+
+La conformité des instruments mesureurs des nanoparticules des moteurs à combustion avec les exigences prévues à l’art. 9*a* est évaluée et certifiée à l’aide des procédures ci-après, conformément à l’annexe 2 de l’ordonnance sur les instruments de mesure:
+
+- a. examen de type (module B); et
+- b. déclaration de conformité au type sur la base d’une vérification du produit (module F).
+
+#### Art. 9c
+
+**Procédures de maintien de la stabilité de mesure**
+
+Les instruments mesureurs des nanoparticules des moteurs à combustion sont soumis aux procédures suivantes, destinées à assurer le maintien de la stabilité de mesure:
+
+- a. vérification ultérieure selon l’annexe 7, ch. 1, de l’ordonnance sur les instruments de mesure et l’annexe 4, let. B, ch. 6, de la présente ordonnance, effectuée annuellement par l’Institut fédéral de métrologie ou par un laboratoire de vérification habilité; et
+- b. entretien selon l’annexe 7, ch. 7, de l’ordonnance sur les instruments de mesure et l’annexe 4, let. B, ch. 6, de la présente ordonnance, effectué au minimum une fois par an par une personne compétente.
+
+#### Art. 9d
+
+**Marquage**
+
+Les instruments mesureurs des nanoparticules des moteurs à combustion doivent être munis de la marque de conformité et de la marque métrologique conformément à l’annexe 5.
+
+## Section 4 Obligations de l’utilisateur
+
+#### Art. 10
+
+L’utilisateur assume la responsabilité précisée à l’art. 21, al. 1, de l’ordonnance sur les instruments de mesure, mais aussi celle:
+
+- a. de faire respecter les instructions du fabricant pour le montage et la mise en service de l’instrument de mesure;
+- b. de faire réviser l’instrument de mesure conformément aux instructions du fabricant.
+
+## Section 5 Erreurs maximales tolérées lors des contrôles
+
+#### Art. 11
+
+Pour les contestations au sens de l’art. 29, al. 1, de l’ordonnance sur les instruments de mesure ou pour les contrôles officiels d’instruments de mesure autres que la vérification, les erreurs maximales tolérées fixées aux annexes 1, 2 et 4 de la présente ordonnance sont applicables.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 22 août 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+
+## Section 6 Dispositions finales
+
+#### Art. 12
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 20 octobre 1993 sur les instruments mesureurs des gaz d’échappement des moteurs à combustion (OAGE)[^12-1] est abrogée.
+
+[^12-1]: [[RO 1993 2985](https://fedlex.data.admin.ch/eli/oc/1993/2985_2985_2985), [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 23]
+
+#### Art. 13
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les instruments mesureurs des composants gazeux et les instruments mesureurs de fumée de diesel vérifiés avant l’entrée en vigueur de la présente ordonnance peuvent continuer d’être vérifiés ultérieurement. Lors de la vérification ultérieure, les instruments doivent respecter les erreurs maximales tolérées conformément aux dispositions antérieures.
+
+<sup>2</sup> Les instruments mesureurs des composants gazeux et les instruments mesureurs de fumée de diesel approuvés selon le droit antérieur peuvent être mis sur le marché et vérifiés initialement selon l’annexe 5, ch. 2, de l’ordonnance sur les instruments de mesure pendant dix ans à partir de l’entrée en vigueur de la présente ordonnance. Après l’échéance de ces dix ans, ils pourront encore être vérifiés ultérieurement.
+
+#### Art. 14
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 30 octobre 2006.
+
+Annexe 1*[^t-2]*
+
+(art. 4)
+
+## Exigences spécifiques afférentes aux instruments mesureurs des composants gazeux
+
+[^t-2]: Mise à jour selon le ch. II de l’O du DFJP du 15 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+
+### A Définitions et explications
+
+Instruments mesureurs des composants gazeux
+
+Un instrument mesureur des composants gazeux est un instrument de mesure servant à déterminer les titres volumiques de certains composants des gaz d’échappement d’un véhicule à moteur à allumage commandé au niveau d’humidité de l’échantillon analysé.
+
+Ces composants gazeux sont le monoxyde de carbone (CO), le dioxyde de carbone (CO<sub>2</sub>), l’oxygène (O<sub>2</sub>) et les hydrocarbures (HC).
+
+La teneur en hydrocarbures doit être exprimée en équivalent n-hexane (C<sub>6</sub>H<sub>14</sub>), mesurée à l’aide de techniques d’absorption proches de l’infrarouge.
+
+Les titres volumiques des composants gazeux sont exprimés en % (% vol) pour le CO, le CO<sub>2</sub> et l’O<sub>2</sub> et en parties par million (ppm vol) pour les HC[^annex1-lvlu1-lvlA-1].
+
+Valeur lambda
+
+Lambda est une valeur sans dimension, représentative de l’efficacité de combustion d’un moteur en termes de rapport air/carburant dans les gaz d’échappement. Il est déterminé à l’aide d’une formule normalisée de référence.
+
+La valeur lambda est déterminée par un instrument mesureur des composants gazeux à partir des titres volumiques des composants gazeux.
+
+[^annex1-lvlu1-lvlA-1]: La fraction de quantité de matière (titre molaire) des composants des gaz d’échappement est considérée, dans la présente ordonnance, comme égale à leur fraction volumique (titre volumique).
+
+### B Exigences métrologiques
+
+### 1 Classes d’instrument
+
+- 1\.1 Deux classes, 0 et I, sont définies pour les instruments mesureurs des composants gazeux. Les étendues de mesure minimales pertinentes pour ces classes sont indiquées au tableau 1.
+- Classes et étendues de mesure
+
+Tableau 1
+
+<table>
+<tr><th>Paramètre</th><th>Classes 0 et I</th></tr>
+<tr><td>titre en CO</td><td>de 0 à 5 % vol</td></tr>
+<tr><td>titre en CO<sub>2</sub></td><td>de 0 à 16 % vol</td></tr>
+<tr><td>titre en HC</td><td>de 0 à 2 000 ppm vol</td></tr>
+<tr><td>titre en O<sub>2</sub></td><td>de 0 à 21 % vol</td></tr>
+<tr><td>λ</td><td>de 0,8 à 1,2</td></tr>
+</table>
+
+### 2 Conditions de fonctionnement nominales
+
+- Les valeurs des conditions de fonctionnement nominales doivent être spécifiées par le fabricant comme suit:
+- 2\.1
+
+  Pour les facteurs d’influence climatiques et mécaniques:
+
+  - – une étendue de température d’au moins 35 °C pour l’environnement climatique;
+  - – la classe d’environnement mécanique M1 est applicable.
+
+- 2\.2
+
+  Pour les facteurs d’influence de la puissance électrique:
+
+  - – l’étendue de tension et de fréquence pour l’alimentation en courant alternatif;
+  - – les limites de l’alimentation en courant continu.
+
+- 2\.3
+
+  Pour la pression ambiante:
+
+  - – les valeurs minimale et maximale de la pression ambiante sont, pour les deux classes, les suivantes: *p*<sub>min</sub> ≤ 860 hPa, *p*<sub>max</sub> ≥ 1060 hPa.
+
+### 3 Erreurs maximales tolérées (EMT)
+
+- Les EMT sont définies comme suit:
+- 3\.1 Pour chacun des titres mesurés, la valeur de l’écart maximal toléré dans les conditions de fonctionnement nominales, conformément à l’annexe 1, ch. 1.1, de l’ordonnance sur les instruments de mesure, est la plus grande des deux valeurs indiquées au tableau 2. Les valeurs absolues sont exprimées en % vol ou en ppm vol; les valeurs en % sont des pourcentages de la valeur vraie.
+- Erreurs maximales tolérées
+
+Tableau 2
+
+<table>
+<tr><td>Paramètre</td><td>Classe 0</td><td>Classe I</td></tr>
+<tr><td>titre en CO</td><td>± 0,03 % vol ± 5 %</td><td>± 0,06 % vol ± 5 %</td></tr>
+<tr><td>titre en CO<sub>2</sub></td><td>± 0,5 % vol ± 5 %</td><td>± 0,5 % vol ± 5 %</td></tr>
+<tr><td>titre en HC</td><td>± 10 ppm vol ± 5 %</td><td>± 12 ppm vol ± 5 %</td></tr>
+<tr><td>titre en O<sub>2</sub></td><td>± 0,1 % vol ± 5 %</td><td>± 0,1 % vol ± 5 %</td></tr>
+</table>
+
+- 3\.2 L’erreur maximale tolérée pour le calcul de lambda est 0,3 %. La valeur réelle conventionnelle est calculée selon la formule énoncée au point 5.3.7.3 du règlement n<sup>o</sup> 83 de la Commission économique pour l’Europe des Nations unies (CEE-ONU)[^annex1-lvlu1-lvlB-lvl3-1]. À cette fin, les valeurs indiquées par l’instrument sont utilisées pour les calculs.
+
+[^annex1-lvlu1-lvlB-lvl3-1]: Règlement n<sup>o</sup> 83 de la Commission économique pour l’Europe des Nations unies (CEE-ONU) – Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’émission de polluants selon les exigences du moteur en matière de carburant, JO L 42 du 15.2.2012, p. 1.
+
+### 4 Effet toléré de perturbations
+
+- 4\.1 Pour chacun des titres volumiques mesurés par l’instrument, la valeur de variation critique est égale à l’erreur maximale tolérée pour le paramètre concerné.
+- 4\.2
+
+  Une perturbation électromagnétique peut avoir les effets suivants:
+
+  - – la variation du résultat du mesurage ne dépasse pas la valeur de variation critique définie au ch. 4.1, ou
+  - – le résultat du mesurage est indiqué de telle manière qu’il ne puisse pas être considéré comme un résultat valable.
+
+### 5 Autres exigences
+
+- 5\.1 La résolution doit être égale aux valeurs indiquées au tableau 3 ou meilleure d’un ordre de grandeur.
+- Résolution
+
+Tableau 3
+
+<table>
+<tr><td></td><td>CO</td><td>CO<sub>2</sub></td><td>O<sub>2</sub></td><td>HC</td></tr>
+<tr><td>Classes 0 et I</td><td>0,01 % vol</td><td>0,1 % vol</td><td>\*</td><td>1 ppm vol</td></tr>
+<tr><td colspan="5">\* 0,01 % vol pour les valeurs mesurées inférieures ou égales à 4 % vol, sinon 0,1 % vol.</td></tr>
+</table>
+
+- La valeur lambda doit être affichée avec une résolution de 0,001.
+- 5\.2 L’écart-type de 20 mesurages ne doit pas être supérieur à un tiers de la valeur absolue de l’erreur maximale tolérée pour chaque titre volumique de gaz applicable.
+- 5\.3 Pour mesurer le CO, le CO<sub>2</sub> et les HC, l’instrument, y compris le système spécifique de circulation du gaz, doit indiquer 95 % de la valeur finale déterminée avec des gaz pour étalonnage dans les 15 s qui suivent un changement à partir d’un gaz à teneur zéro, par exemple l’air frais. Pour mesurer le O<sub>2</sub>, l’instrument utilisé dans des conditions similaires doit indiquer une valeur s’écartant de moins de 0,1 % vol de zéro dans les 60 s qui suivent un passage d’air frais à un gaz sans oxygène.
+- 5\.4
+
+  Les composants des gaz d’échappement autres que les composants dont les valeurs sont mesurées ne doivent pas affecter les résultats du mesurage de plus de la moitié des EMT lorsque ces composants sont présents dans les quantités maximales suivantes:
+
+  - – 6 % vol CO;
+  - – 16 % vol CO<sub>2</sub>;
+  - – 10 % vol O<sub>2</sub>;
+  - – 5 % vol H<sub>2</sub>;
+  - – 0,3 % vol NO;
+  - – 2000 ppm vol HC (en équivalent n-hexane);
+  - – vapeur d’eau jusqu’à saturation.
+
+- 5\.5 Un instrument mesureur des composants gazeux doit avoir un dispositif d’ajustage permettant la remise à zéro, l’étalonnage au moyen d’un gaz et l’ajustage interne. La remise à zéro et les ajustages internes doivent être automatiques.
+- 5\.6 Dans le cas d’un dispositif d’ajustage automatique ou semi-automatique, l’instrument doit être incapable de réaliser une mesure tant que les ajustages n’ont pas été effectués.
+- 5\.7 Un instrument mesureur des composants gazeux doit détecter les résidus d’hydrocarbures dans le système de circulation des gaz. Il doit être impossible d’effectuer un mesurage si les résidus d’hydrocarbures présents avant toute mesure dépassent 20 ppm vol.
+- 5\.8 Un instrument mesureur des composants gazeux doit avoir un dispositif reconnaissant automatiquement tout dysfonctionnement du capteur dans le canal d’oxygène dû à l’usure ou à une rupture de la ligne de connexion.
+- 5\.9 Lorsque l’instrument mesureur des composants gazeux est capable de traiter différents carburants, tels que l’essence ou le GPL, il doit être possible de sélectionner les coefficients adéquats pour le calcul de la valeur lambda de manière à ne laisser subsister aucune ambiguïté concernant la formule adéquate.
+
+Annexe 2
+
+(art. 7)
+
+## Exigences spécifiques afférentes aux instruments mesureurs de fumée de diesel
+
+### 1 Exigences
+
+- 1\.1 Les instruments mesureurs de fumée de diesel doivent permettre d’obtenir les mêmes résultats que ceux des opacimètres destinés à la mesure en accélération libre prévue par la directive 72/306/CEE[^annex2-lvlu1-lvl1-1] et le règlement ECE n<sup>o</sup> 24[^annex2-lvlu1-lvl1-2].
+- 1\.2 Les exigences afférentes à la construction et aux caractéristiques métrologiques des instruments mesureurs de fumée de diesel mentionnées à l’art. 7 sont satisfaites si les instruments répondent aux exigences de la norme ISO 11614[^annex2-lvlu1-lvl1-3] et aux dispositions suivantes.
+
+[^annex2-lvlu1-lvl1-1]: Directive n<sup>o</sup> 72/306 du Conseil, du 2 août 1972, concernant le rapprochement des législations des Etats membres relatives aux mesures à prendre contre les émissions de polluants provenant des moteurs diesel destinés à la propulsion des véhicules à moteur; JO L 190 du 20.8.1972, p. 1, modifiée par les directives 89/491/CEE (JO L 238 du 15.8.1989, p. 43) et 97/20/CE (JO L 125 du 16.5.1997, p. 21).
+[^annex2-lvlu1-lvl1-2]: Commission économique pour l’Europe (ECE): «Accord du 20 mars 1958 concernant l’adoption de conditions uniformes d’homologation et la reconnaissance réciproque de l’homologation des équipements et pièces de véhicules à moteurs», additif 23: R n<sup>o</sup> 24 du 20 avril 1986 à annexer à l’Accord. Des renseignements sur le R ECE n<sup>o</sup> 24 peuvent être obtenus auprès de l’Office fédéral de métrologie (METAS), 3003 Berne-Wabern.
+[^annex2-lvlu1-lvl1-3]: Norme internationale ISO 11614, «Moteurs alternatifs à combustion interne à allumage par compression – Appareillage de mesure de l’opacité et du coefficient d’absorption de la lumière des gaz d’échappement», édition 1999-09-01.
+
+### 2 Principe de construction
+
+- 2\.1 Le processus de mesurage des instruments mesureurs de fumée de diesel doit être automatisé au maximum afin que les influences subjectives de la personne qui effectue les mesurages puissent être éliminées.
+- 2\.2 Les instruments mesureurs doivent être des opacimètres à prélèvement conformément à la norme ISO 11614, ch. 5.1 et 9.1.
+- 2\.3 Les instruments mesureurs doivent mesurer la quantité de fumée durant l’accélération libre selon la norme ISO 11614, ch. 9.4.
+- 2\.4 Les instruments mesureurs doivent répondre aux exigences fixées dans la norme ISO 11614, ch. 10.1 à 10.3.
+- 2\.5 Les instruments mesureurs doivent être équipés d’une imprimante. La transmission des données entre l’instrument de mesure et l’imprimante doit être conçue de telle manière que les résultats ne puissent pas être altérés. Il ne doit pas être possible d’imprimer un document pour utilisation légale si le dispositif de contrôle a détecté un défaut significatif ou un mauvais fonctionnement de l’instrument de mesure.
+- 2\.6
+
+  Une pièce officielle doit comprendre au minimum les données suivantes:
+
+  - – la date et l’heure du mesurage;
+  - – le nom et l’adresse de la station de mesure;
+  - – une identification de l’instrument telle que le n<sup>o</sup> de série;
+  - – les grandeurs mesurées et les résultats conformément au ch. 3;
+  - – la mention «mesure officielle»;
+  - – la désignation de la sonde utilisée ainsi que son diamètre;
+  - – une rubrique pour l’introduction de l’identification du véhicule ainsi que le n<sup>o</sup> de châssis.
+
+### 3 Grandeurs mesurées
+
+-
+
+  Les instruments mesureurs de fumée de diesel doivent déterminer les grandeurs suivantes, obtenues lors d’un essai d’accélération libre:
+
+  - – les coefficients d’opacité maximum *k* [m<sup>-1</sup>] conformément à la norme ISO 11614, ch. 7;
+  - – le régime [min<sup>-1</sup>] du moteur au ralenti et au régime de régulation à vide.
+
+### 4 Erreurs maximales tolérées (EMT)
+
+- 4\.1
+
+  En mesure dynamique telle qu’en accélération libre d’un moteur, les EMT pour le coefficient d’opacité *k* [min<sup>-1</sup>] par rapport à l’instrument de référence sont de:
+
+  - – ± 0,15 m<sup>-1</sup> si *k* ≤ 1 m<sup>-1</sup>;
+  - – ± 0,15 · *k* si *k* &gt; 1 m<sup>-1</sup>.
+
+- 4\.2
+
+  Lors d’un contrôle statique de l’instrument avec un système externe (contrôle de la linéarité conformément à ISO 11614, ch. 7.3.5), les écarts maximaux par rapport à une valeur définie de *k* sont de:
+
+  - – ± 0,05 m<sup>-1</sup> si *k* ≤ 2 m<sup>-1</sup>;
+  - – ± 0,025 · *k* si *k* &gt; 2 m<sup>-1</sup>.
+
+### 5 Mesure officielle
+
+- 5\.1 La procédure en mode «mesure officielle» doit se faire conformément à la norme ISO 11614, ch. 9.4, et 10.1.6, let. d. En plus, la condition suivante doit être remplie, tant pour le ralenti que pour le régime de régulation à vide: la différence entre le plus grand et le plus petit nombre de tours/min des quatre mesures considérées n’excède pas la plus grande valeur entre 100 min<sup>-1</sup> et 10 % de la valeur moyenne des quatre mesures.
+- 5\.2 A la fin de la mesure officielle, l’instrument mesureur de fumée de diesel doit imprimer la pièce officielle selon la norme ISO 11614, ch. 10.1.6, let. f, complétée par les valeurs mesurées du régime.
+- 5\.3 Si les mesures ne remplissent pas les conditions visées au ch. 5.1, la pièce officielle doit être clairement invalidée.
+
+### 6 Données à inscrire sur les instruments mesureurs de fumée de diesel
+
+En complément de l’annexe 1, ch. 9.1, de l’ordonnance sur les instruments de mesure, les données supplémentaires suivantes doivent être inscrites sur tous les composants de l’instrument:
+
+- – l’année de fabrication;
+- – le sigle d’approbation et le numéro d’ordre;
+- – le numéro de série de l’instrument;
+- – la longueur optique effective *L* de la cellule de mesure.
+
+### 7 Mode d’emploi et d’entretien
+
+En complément de l’annexe 1, ch. 9.3, de l’ordonnance sur les instruments de mesure, le mode d’emploi et d’entretien doit également inclure:
+
+- – la procédure d’une mesure officielle; celle-ci se base en particulier sur la directive 72/306/CEE[^annex2-lvlu1-lvl7-1] ou sur le règlement CEE n<sup>o</sup> 24[^annex2-lvlu1-lvl7-2] et comprend en particulier le conditionnement du moteur, le nettoyage du système d’échappement et la manière de procéder pour une accélération libre;
+- – si nécessaire, les catégories de véhicules diesel qui peuvent être officiellement mesurées avec l’instrument mesureur de fumée de diesel;
+- – si plusieurs sondes existent, les conditions d’utilisation de chaque sonde.
+
+[^annex2-lvlu1-lvl7-1]: Directive n<sup>o</sup> 72/306 du Conseil, du 2 août 1972, concernant le rapprochement des législations des Etats membres relatives aux mesures à prendre contre les émissions de polluants provenant des moteurs diesel destinés à la propulsion des véhicules à moteur; JO L 190 du 20.8.1972, p. 1, modifiée par les directives 89/491/CEE (JO L 238 du 15.8.1989, p. 43) et 97/20/CE (JO L 125 du 16.5.1997, p. 21).
+[^annex2-lvlu1-lvl7-2]: Commission économique pour l’Europe (ECE): «Accord du 20 mars 1958 concernant l’adoption de conditions uniformes d’homologation et la reconnaissance réciproque de l’homologation des équipements et pièces de véhicules à moteurs», additif 23: R n<sup>o</sup> 24 du 20 avril 1986 à annexer à l’Accord. Des renseignements sur le R ECE n<sup>o</sup> 24 peuvent être obtenus auprès de l’Office fédéral de métrologie (METAS), 3003 Berne-Wabern.
+
+Annexe 3*[^t-3]*
+
+(art. 6 et 9)
+
+## Vérification ultérieure des instruments mesureurs des composants gazeux et des instruments mesureurs de fumée de diesel
+
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du DFJP du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+
+- 1 Les instruments mesureurs des composants gazeux et les instruments mesu-reurs de fumée de diesel doivent être vérifiés dans les conditions usuelles d’emploi. Si les conditions métrologiques le permettent, l’examen doit se faire au lieu d’utilisation. L’examen de parties isolées d’appareils n’est autorisé qu’en cas d’extrême nécessité. L’Institut fédéral de métrologie détermine la procédure de vérification ultérieure au cas par cas selon le type d’instrument mesureur.
+- 2 Tout instrument mesureur dont les caractéristiques métrologiques sont fortement détériorées ou dont l’obligation d’entretien selon l’art. 10, let. b, n’est manifestement pas respectée peut être scellé de manière à empêcher son utilisation. Ce scellage peut par exemple consister dans le blocage de l’imprimante ou dans le scellage de l’alimentation. L’office de vérification compétent fixe un délai raisonnable pour la remise en état par une personne compétente.
+
+Annexe 4*[^t-4]*
+
+(art. 9*a* et 9*c*)
+
+## Exigences spécifiques afférentes aux instruments mesureurs des nanoparticules des moteurs à combustion
+
+[^t-4]: Introduite par le ch. II de l’O du DFJP du 22 août 2012 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Mise à jour selon le ch. I de l’O du DFJP du 30 janv. 2013 ([RO 2014 477](https://fedlex.data.admin.ch/eli/oc/2014/85)) et le ch. II de l’O du DFJP du 15 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+
+### A Définitions et explications
+
+Diamètre de mobilité
+
+Moyenne géométrique liée aux nombres d’une distribution unimodale de la taille avec un écart type géométrique entre 1.4 et 1.6 qui, lors du mesurage dans un analyseur de mobilité selon la norme ISO 15900:2009[^annex4-lvlu1-lvlA-1], présente la même mobilité électrique qu’une particule de forme sphérique dont le diamètre est connu.
+
+Nanoparticules
+
+Composants solides, à base de carbone, contenus dans les gaz d’échappement du pot catalytique des moteurs à combustion.
+
+Les particules présentent un diamètre de mobilité allant de 20 nm à 300 nm.
+
+Les parties condensées ne sont pas qualifiées de nanoparticules.
+
+Concentration numérique de particules
+
+Nombre de nanoparticules mesuré par unité de volume, indiqué par centimètre cube (cm<sup>3</sup>).
+
+Efficience E
+
+Quotient de la concentration numérique de particules indiquée et de la concentration numérique de particules mesurée à l’entrée de l’instrument mesureur.
+
+[^annex4-lvlu1-lvlA-1]: Norme ISO 15900:2009, Determination of particle size distribution – Differential electrical mobility analysis for aerosol particles (Détermination de la distribution granulométrique – Analyse de mobilité électrique différentielle pour les particules d’aérosol). La norme peut être obtenue auprès de l’Association suisse de normalisation (SNV), 8400 Winterthour, www.snv.ch. La norme peut aussi être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne.
+
+### B Exigences métrologiques
+
+### 1 Etendue de mesure
+
+- 1\.1 L’étendue de mesure pour la concentration numérique de particules se situe au minimum entre 5 × 10<sup>4</sup> cm<sup>–3</sup> et 5 × 10<sup>6</sup> cm<sup>–3</sup>.
+- 1\.2 Pour les valeurs de mesure situées en dehors de l’étendue de mesure, l’instrument mesureur doit indiquer si la valeur mesurée est inférieure ou supérieure à l’étendue de mesure. Si cela n’est pas possible, aucune valeur n’est indiquée.
+- 1\.3 La concentration numérique de particules doit être indiquée pour les conditions ambiantes prévalant lors de chaque mesure.
+
+### 2 Conditions de fonctionnement nominales
+
+- Les conditions de fonctionnement nominales ci-après doivent être remplies:
+- 2\.1
+
+  Environnement climatique, mécanique et électromagnétique:
+
+  - – domaine pour la pression ambiante entre 860 hPa et 1060 hPa;
+  - – classe d’environnement mécanique M2;
+  - – classe d’environnement électromagnétique E2.
+
+- 2\.2
+
+  Les conditions de fonctionnement nominales électriques indiquées par le producteur se rapportent:
+
+  - – à l’étendue de tension et de fréquence pour l’alimentation en courant alternatif;
+  - – aux limites de l’alimentation en courant continu.
+
+### 3 Erreurs maximales tolérées (EMT)
+
+- Les EMT sont définies comme suit:
+- Selon la taille et la composition des particules, l’instrument mesureur doit maintenir sur toute l’étendue de mesure une efficience *E* située à l’intérieur des limites prévues au tableau 1.
+- Efficience des instruments mesureurs des nanoparticules
+
+Tableau 1
+
+<table>
+<tr><th>Diamètre de mobilité</th><th>Limites de l´efficience *E*</th></tr>
+<tr><td>Nanoparticules de 23 nm</td><td>*E* &lt; 50 %</td></tr>
+<tr><td>Nanoparticules de 41 nm</td><td>*E* &gt; 40 %</td></tr>
+<tr><td>Nanoparticules de 80 nm</td><td>70 % &lt; *E* &lt; 130 %</td></tr>
+<tr><td>Nanoparticules de 200 nm</td><td>*E* &lt; 200 %</td></tr>
+<tr><td>gouttes de tétracontane de 30 nm (concentration numérique jusqu’à 10<sup>5</sup> cm<sup>–3</sup>)</td><td>*E* &lt; 5 %</td></tr>
+</table>
+
+### 4 Effets tolérés des perturbations
+
+- 4\.1
+
+  Sont considérées comme perturbations:
+
+  - – les nanoparticules d’un diamètre inférieur à 20 nm issues notamment d’additifs pour carburants pour moteurs à combustion;
+  - – les éclaboussures, les composants de gaz d’échappement corrosifs, la poussière;
+  - – la chaleur dans l’échantillon et dans l’environnement du prélèvement de l’échantillon (température de 300 °C pendant 5 minutes);
+  - – la condensation de composants gazeux;
+  - – une concentration de particules très élevée, par exemple lors d’une mesure sur un moteur sans filtre à particules ou avec filtre à particules endommagé;
+  - – un dépôt de salissures sur les capteurs de l’instrument mesureur, notamment de la suie ou de la condensation.
+
+- 4\.2
+
+  Une perturbation ne peut influencer l’instrument mesureur que:
+
+  - – si la variation du résultat de la mesure ne dépasse pas la valeur limite fixée au ch. 3; ou
+  - – si l’indication du résultat de la mesure ne peut pas être considérée comme valable.
+
+- 4\.3 L’utilisateur doit être averti, et une mesure officielle doit être supprimée lorsque des perturbations provoquent une variation du résultat dépassant la valeur limite fixée au ch. 4.2.
+
+### 5 Autres exigences
+
+- 5\.1 Le processus de mesurage doit être automatisé afin que les influences subjectives de l’utilisateur puissent être éliminées.
+- 5\.2 …
+- 5\.3 La durée de l’entrée gazeuse lors du prélèvement de l’échantillon jusqu’à l’affichage de la concentration numérique doit être inférieure à 10 s (temps de retard).
+- 5\.4 Pour l’examen de type, il convient de prévoir une émission électronique des données de mesure dans un fichier texte, avec indication de la date et de la concentration numérique et un taux d’enregistrement d’au moins 10 Hz. Le fichier doit pouvoir être téléchargé avec une interface sur un ordinateur disponible dans le commerce.
+- 5\.5 L’instrument mesureur doit être conçu pour pouvoir fonctionner en plein air de manière portable.
+
+### 6 Stabilité de mesure
+
+- 6\.1 Les informations sur le fonctionnement des instruments mesureurs prévues à l’annexe 1, ch. 9.3, de l’ordonnance sur les instruments de mesure, doivent contenir en particulier des indications détaillées sur l’obligation d’entretien du détenteur, sur tous les travaux d’entretien ainsi que sur l’intervalle entre ces travaux et sur la preuve de leur exécution.
+- 6\.2
+
+  Font partie des travaux d’entretien au moins les travaux suivants:
+
+  - – nettoyage des composantes qui entrent en contact avec des particules;
+  - – contrôle des capteurs intégrés, notamment pour la température et la pression;
+  - – au besoin un ajustage des capteurs importants pour le mesurage du nombre de particules.
+
+- 6\.3 L’instrument mesureur doit être conçu de telle manière que les travaux d’entretien suffisent pour maintenir les caractéristiques métrologiques dans les limites des erreurs tolérées pendant le délai de vérification.
+- 6\.4 L’instrument mesureur ajusté après l’entretien doit être soumis à une vérification ultérieure.
+- 6\.5 L’Institut fédéral de métrologie fixe la procédure de vérification ultérieure au cas par cas selon le type de l’instrument mesureur.
+
+### 7 Mesure officielle
+
+- 7\.1 On entend par «mesure officielle» le processus de mesure réglementé pour le mesurage officiel des gaz d’échappement.
+- 7\.2
+
+  La mesure officielle doit:
+
+  - – être enclenchée et arrêtée par l´utilisateur;
+  - – être effectuée sans interruption;
+  - – déterminer la valeur moyenne à partir de trois valeurs mesurées établies de la manière suivante: 15 s attente, 5 s 1<sup>re</sup> mesure, 5 s pause, 5 s 2<sup>e</sup> mesure, 5 s pause, 5 s 3<sup>e</sup> mesure;
+  - – indiquer au moins les valeurs suivantes: la valeur de mesure actuelle, la valeur moyenne ainsi que la durée de la mesure, en secondes, après l’enclenchement de la mesure officielle.
+
+- 7\.3
+
+  A la fin de la mesure officielle, l’instrument mesureur doit enregistrer durablement les données suivantes:
+
+  - – mention «mesure officielle»;
+  - – date et heure de la mesure;
+  - – valeur moyenne de la concentration numérique;
+  - – durée de la mesure.
+
+Annexe 5*[^t-5]*
+
+(art. 9*d*)
+
+## Marques de conformité et indications supplémentaires nécessaires pour les instruments mesureurs des nanoparticules
+
+[^t-5]: Introduite par le ch. II de l’O du DFJP du 22 août 2012 ([RO 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Mise à jour selon le ch. I 14 de l’O du DFJP du 7 déc. 2012 (Nouvelles bases légales en métrologie), ([RO 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)) et le ch. II de l’O du DFJP du 15 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+
+### Marques et inscriptions
+
+### 1 Symbole
+
+Les instruments mesureurs des nanoparticules doivent être munis:
+
+- a.
+
+  de la marque de conformité et du ou des numéros d’identification suivants:
+
+  - 1\. la marque de conformité est constituée par le symbole suivant, d’une taille d’au moins 5 mm:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20181201/fr/xml/image/image1.png)
+
+- 2\. le ou les numéros d’identification du ou des organismes d’évaluation de la conformité qui ont effectué le contrôle du produit;
+
+- b. de la marque métrologique suivante: la marque est constituée par la lettre «M» et les deux derniers chiffres de l’année de son apposition, entourés d’un rectangle; la hauteur du rectangle est égale à la taille de la marque de conformité; la marque métrologique suit immédiatement la marque de conformité;
+- c.
+
+  des inscriptions suivantes:
+
+  - 1\. le nom du fabricant,
+  - 2\. le numéro du certificat d’examen de type,
+  - 3\. le modèle et le numéro de série de l’instrument,
+  - 4\. les températures maximale et minimale (annexe 1, ch. 1.3.1 de l’ordonnance sur les instruments de mesure).
+
+### 2 Aménagement permettant l’apposition de la marque de conformité
+
+Les instruments mesureurs des nanoparticules doivent être pourvus d’aménagements permettant l’apposition de la marque de conformité et des inscriptions. Les aménagements doivent être tels qu’il soit impossible d’enlever les marques et les inscriptions sans les endommager, et que les marques et les inscriptions soient visibles lorsque l’instrument de mesure se trouve en position de fonctionnement normal. La marque et les inscriptions doivent être apposées ensemble sur l’instrument de manière distincte.
+
+### 3 Utilisation d’une plaque de données
+
+Si l’on utilise une plaque de données, cette plaque doit pouvoir être scellée, à moins qu’il soit impossible de la retirer sans la détruire. Si la plaque de données est scellée, on doit pouvoir lui appliquer une marque de contrôle.

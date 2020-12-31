@@ -1,0 +1,63 @@
+---
+sr: "0.274.181.722"
+title: Übereinkunft vom 9. September 1886 zwischen der Schweiz und Belgien betreffend die gegenseitige Bewilligung des Armenrechts im Prozessverfahren
+eli: "https://fedlex.data.admin.ch/eli/cc/9/386_336_386"
+language: de
+version: 1886-12-30
+adopted: 1886-09-09
+in_force: 1886-12-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/9/386_336_386/18861230/de/xml/fedlex-data-admin-ch-eli-cc-9-386_336_386-18861230-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/9/386_336_386/18861230/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Übereinkunft zwischen der Schweiz und Belgien betreffend die gegenseitige Bewilligung des Armenrechtes im Prozessverfahren
+
+0.274.181.722Nicht löschen bitte "[^t-1] " !! (Stand am 5. November 1999)
+
+Übersetzung*[^t-2]*
+
+Abgeschlossen am 9. September 1886 Von der Bundesversammlung genehmigt am 23. Dezember 1886[^t-3] Ratifikationsurkunden ausgetauscht am 30. Dezember 1886 In Kraft getreten am 30. Dezember 1886
+
+[^t-1]: BS **12** 290; [BBl 1886 III 953](https://fedlex.data.admin.ch/eli/fga/1886/3_953__)
+[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+[^t-3]: [AS 9 386](https://fedlex.data.admin.ch/eli/oc/9/386_336_386)
+
+Der Bundesrat der Schweizerischen Eidgenossenschaft und Seine Majestät der König der Belgier,
+
+von dem gemeinsamen Wunsche geleitet, eine Vereinbarung abzuschliessen, um den Angehörigen des andern Staates im gerichtlichen Verfahren Schutz (Armenrecht) zu sichern, haben zu diesem Behufe zu Bevollmächtigten ernannt, und zwar:
+
+(Es folgen die Namen der Bevollmächtigten)
+
+welche, nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten, über folgende Artikel übereingekommen sind:
+
+#### Art. 1
+
+Die Schweizer geniessen in Belgien und die belgischen Staatsangehörigen geniessen in der Schweiz die Rechtswohltat des Armenrechts vor Gericht in allen Fällen, wo dieselbe auch den Landesangehörigen zusteht, wenn sie die jeweilen in Kraft bestehenden Gesetze des Landes beobachten, in welchem das Armenrecht nachgesucht wird.
+
+#### Art. 2
+
+In allen Fällen soll das Armutszeugnis dem Fremden, welcher das Armenrecht verlangt, von den Behörden seines gewöhnlichen Wohnsitzes ausgestellt werden.
+
+Wohnt er nicht in dem Lande, in welchem das Begehren gestellt wird, so soll das Armutszeugnis von einem diplomatischen Agenten des Landes, in welchem dasselbe gebraucht werden will, unentgeltlich beglaubigt werden.
+
+Wohnt hingegen der Fremde in dem Lande, wo das Begehren gestellt wird, so können ausserdem bei den Behörden seines Heimatlandes Erkundigungen eingezogen werden.
+
+#### Art. 3
+
+Die Schweizer, welchen in Belgien, und die belgischen Staatsangehörigen, welchen in der Schweiz die Vorteile des Armenrechtes bewilligt worden, sind von Rechts wegen auch von jeder Bürgschaft oder Hinterlage befreit, die von Ausländern, welche gegen Landesangehörige einen Rechtsstreit führen, gemäss der Gesetzgebung des Landes, wo die Klage angestellt wird, unter irgendwelcher Bezeichnung gefordert werden können.
+
+#### Art. 4
+
+Die vorstehende Übereinkunft ist für die Dauer von fünf Jahren abgeschlossen.
+
+In dem Falle, wo keine der beiden Hohen kontrahierenden Parteien ein Jahr vor dem Ablaufe dieses Termins die Absicht kundgegeben, ihre Wirkung aufzuheben, soll die Übereinkunft in Kraft bestehen, bis nach geschehener Kündigung seitens des einen oder des anderen Teiles ein Jahr verflossen sein wird.
+
+#### Art. 5
+
+Diese Übereinkunft soll sobald als möglich der Ratifikation der kompetenten Behörden unterstellt werden.
+
+Sie tritt mit dem Tage der Auswechslung der Ratifikationsurkunden in Kraft.
+
+*Zu Urkund dessen* haben die beidseitigen Bevollmächtigten diese Übereinkunft unterzeichnet und ihre Siegel beigedrückt. So geschehen, in Bern, den 9. September 1886. L. Ruchonnet Maurice Delfosse

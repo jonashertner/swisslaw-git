@@ -1,0 +1,270 @@
+---
+sr: "734.272.3"
+title: Ordonnance du DETEC du 30 avril 2018 sur les installations électriques à basse tension
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
+language: fr
+version: 2018-06-01
+adopted: 2018-04-30
+in_force: 2018-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20180601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20180601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20180601/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DETEC sur les installations électriques à basse tension
+
+du 30 avril 2018 (Etat le 1<sup>er</sup> juin 2018)
+
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
+
+vu les art. 8, al. 3, 21, al. 2, et 37, al. 3, de l’ordonnance du 7 novembre 2001 sur les installations à basse tension (OIBT)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+
+## Section 1 Objet
+
+#### Art. 1
+
+<sup>1</sup>
+
+La présente ordonnance règle:
+
+- a. l’examen pratique permettant d’être reconnu comme personne du métier selon l’art. 8, al. 2, OIBT;
+- b. l’examen concernant les travaux effectués sur des installations propres à l’entreprise;
+- c. l’examen de montage d’installations électriques spéciales à basse tension (installations électriques);
+- d. l’examen de raccordement de matériels électriques à basse tension (matériels électriques).
+
+<sup>2</sup> Elle fixe en outre le contenu technique du rapport de sécurité pour installations électriques.
+
+<sup>3</sup> La présente ordonnance s’applique par analogie aux épreuves d’aptitude visées à l’art. 69*a*, al. 2, de l’ordonnance du 19 novembre 2003 sur la formation professionnelle[^1-1].
+
+[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+
+## Section 2 Examen pratique
+
+#### Art. 2
+
+**But**
+
+Le candidat à l’examen doit prouver qu’il est en mesure de planifier, d’analyser, de monter, de modifier, d’entretenir et de contrôler seul les installations électriques.
+
+#### Art. 3
+
+**Conditions d’admission**
+
+<sup>1</sup> Pour être admis à l’examen pratique, le candidat doit justifier de trois ans de pratique dans les travaux d’installation sous la surveillance d’une personne du métier et posséder une formation au sens de l’art. 8, al. 2, let. a à c, OIBT.
+
+<sup>2</sup>
+
+Il doit joindre à son inscription à l’examen:
+
+- a. les documents attestant de la formation professionnelle;
+- b. l’attestation de la pratique professionnelle visée à l’art. 8, al. 2, phrase introductive, OIBT ainsi qu’un rapport de stage;
+- c.
+
+  le document prouvant qu’il a suivi les modules de formation ci-après de la préparation à l’examen ou qu’il a achevé une formation équivalente:
+
+  - 1\. module 1: sécurité et règles techniques,
+  - 2\. module 2: contrôle des installations et de la sécurité,
+  - 3\. module 3: expertise des installations et de la sécurité;
+
+- d. le descriptif du travail pratique.
+
+#### Art. 4
+
+**Contenu**
+
+<sup>1</sup> Avant l’examen, le candidat doit remettre un travail pratique sous forme écrite. Ce travail fait partie intégrante de l’examen.
+
+<sup>2</sup>
+
+L’examen pratique comprend:
+
+- a. la présentation du travail pratique, suivie d’un entretien technique: 80 min;
+- b. une étude de cas dans le domaine des normes et de la sécurité: préparation de 60 min., épreuve écrite/pratique/orale de 80 min.;
+- c. un examen dans le domaine de la sécurité, des travaux d’installation et de l’électrotechnique pratique: épreuve écrite/pratique/orale de 80 min.;
+- d. une étude de cas dans le domaine des travaux d’installation et de la sécurité: préparation de 60 min., épreuve écrite/orale de 80 min.;
+- e. une analyse technique de projet: préparation de 60 min., épreuve écrite/orale de 80 min.
+
+<sup>3</sup> La commission chargée de l’assurance qualité (commission AQ) rattachée à l’Union suisse des installateurs-électriciens (USIE) détermine les sujets d’examen ainsi que le déroulement de l’examen et désigne les experts pour les différentes épreuves.
+
+## Section 3 Examens permettant d’obtenir des autorisations d’installer limitées
+
+#### Art. 5
+
+**Commission d’examen**
+
+<sup>1</sup>
+
+La commission d’examen se compose:
+
+- a. du directeur de l’Inspection fédérale des installations à courant fort (Inspection);
+- b. de deux collaborateurs de l’Inspection nommés par le directeur, qui sont du métier ou qui sont habilités à effectuer les contrôles;
+- c. de deux représentants des organisations du monde du travail (Ortra) de la branche, qui sont du métier ou qui sont habilités à effectuer les contrôles.
+
+<sup>2</sup> La commission d’examen est présidée par le directeur de l’Inspection.
+
+<sup>3</sup> La commission d’examen définit les sujets d’examen ainsi que le déroulement de l’examen et désigne les experts pour les différentes épreuves. Elle surveille le déroulement des examens et statue sur leurs résultats.
+
+<sup>4</sup> Le secrétariat de la commission d’examen est assuré par l’Inspection.
+
+#### Art. 6
+
+**Conditions d’admission**
+
+<sup>1</sup>
+
+Pour être admis à l’examen concernant les travaux effectués sur des installations propres à l’entreprise, le candidat doit:
+
+- a. posséder le «certificat fédéral de capacité (CFC) d’installateur-électricien» ou le «certificat fédéral de capacité (CFC) de planificateur-électricien» et justifier d’au moins une année de pratique dans le domaine des installations électriques sous la surveillance d’une personne du métier après sa formation professionnelle de base (art. 8, al. 1 et 2, OIBT), ou
+- b. posséder le certificat fédéral de capacité d’une profession apparentée à celle d’«installateur-électricien CFC» ou de «planificateur-électricien CFC» ou toute autre formation jugée équivalente, et justifier d’au moins deux années de pratique dans le domaine des installations électriques sous la surveillance d’une personne du métier après sa formation professionnelle de base.
+
+<sup>2</sup> Les art. 14, al. 1, let. b, et 15, al. 1, let. b, OIBT règlent les conditions d’admission aux examens de montage d’installations électriques spéciales et de raccordement de matériels électriques.
+
+#### Art. 7
+
+**Examen concernant les travaux effectués sur des installations propres à l’entreprise**
+
+<sup>1</sup> Le candidat à l’examen concernant les travaux effectués sur des installations propres à l’entreprise doit prouver qu’il possède les capacités et les connaissances requises pour procéder seul à l’entretien d’installations, à la suppression de perturbations ainsi qu’à la modification ou à l’extension d’installations.
+
+<sup>2</sup>
+
+L’examen porte sur:
+
+- a. les bases de l’électrotechnique: épreuve orale et épreuve écrite de 30 min. chacune;
+- b. l’utilisation de l’électricité en toute sécurité: épreuve orale de 30 min.;
+- c. les normes et prescriptions d’installation: épreuve orale de 30 min.;
+- d. le contrôle de l’installation et la métrologie: épreuve orale de 30 min.;
+- e. les techniques de raccordement et la connaissance du matériel: épreuve pratique/orale de 30 min.
+
+#### Art. 8
+
+**Examen de montage d’installations électriques spéciales et de raccordement de matériels électriques**
+
+<sup>1</sup> Le candidat à l’examen de montage d’installations électriques spéciales ou de raccordement de matériels électriques doit prouver qu’il possède les capacités et les connaissances requises pour procéder au montage d’installations électriques spéciales et au raccordement de matériels électriques.
+
+<sup>2</sup> L’art. 7, al. 2, s’applique par analogie au contenu de l’examen et à la durée des épreuves.
+
+<sup>3</sup> Les exigences et les sujets sont fixés par la commission d’examen en fonction du genre de travaux que le candidat se propose d’exécuter.
+
+#### Art. 9
+
+**Organisation**
+
+<sup>1</sup> La commission d’examen organise les examens au moins une fois par année.
+
+<sup>2</sup> L’inscription à l’examen s’effectue par écrit. La demande doit être accompagnée des pièces prouvant que les conditions d’admission sont remplies, en particulier des certificats de capacité, des diplômes et des certificats de travail attestant la pratique du candidat.
+
+<sup>3</sup> La commission d’examen décide de l’admission et en informe le candidat, par écrit, au plus tard quatre semaines avant la session d’examen.
+
+<sup>4</sup> Les examens ont lieu en allemand, en français ou en italien.
+
+<sup>5</sup> Ils ne sont pas publics.
+
+#### Art. 10
+
+**Appréciation**
+
+<sup>1</sup> Les résultats de l’examen sont notés de 6 à 1. Les notes 4 et au-dessus correspondent à des résultats suffisants; celles inférieures à 4 correspondent à des résultats insuffisants. Seules sont en outre admises les demi-notes.
+
+<sup>2</sup> Echelonnement des notes:
+
+<table>
+<tr><th>Note</th><th>Appréciations</th></tr>
+<tr><td>6</td><td>Très bon, quantitativement et qualitativement</td></tr>
+<tr><td>5</td><td>Bon, répond aux exigences</td></tr>
+<tr><td>4</td><td>Correspond aux connaissances minimales requises</td></tr>
+<tr><td>3</td><td>Faible, insuffisant</td></tr>
+<tr><td>2</td><td>Très faible</td></tr>
+<tr><td>1</td><td>Inutilisable ou non exécuté</td></tr>
+</table>
+
+<sup>3</sup> Pour chaque point d’appréciation, une note est attribuée conformément à l’al. 2. Si, pour déterminer la note se rapportant à un point d’appréciation, on fait préalablement usage de notes auxiliaires, celles-ci sont établies en fonction de l’importance des travaux auxquels elles se réfèrent dans l’ensemble du point d’appréciation.
+
+<sup>4</sup> Les notes de chaque branche correspondent à la moyenne des notes attribuées aux différents points d’appréciation. Elles sont arrondies à la première décimale.
+
+<sup>5</sup> L’examen est sanctionné par une note globale. Cette note correspond à la moyenne des notes obtenues dans les épreuves visées à l’art. 7, al. 2. Elle est arrondie à la première décimale.
+
+<sup>6</sup> L’examen est réussi si la note de chaque branche est supérieure ou égale à 4.
+
+#### Art. 11
+
+**Répétition de l’examen**
+
+<sup>1</sup> L’examen peut être répété deux fois.
+
+<sup>2</sup> Le candidat ayant échoué ne peut se représenter à l’examen qu’après un délai de six mois.
+
+<sup>3</sup> Le nouvel examen portera sur toutes les branches dans lesquelles le candidat n’a pas obtenu au moins la note 4.
+
+<sup>4</sup> En cas d’échec lors de la deuxième répétition de l’examen, le candidat est refusé par la commission d’examen. Le candidat qui a été refusé peut se réinscrire à l’examen au plus tôt trois ans après la notification du refus. Il doit repasser l’examen complet.
+
+#### Art. 12
+
+**Attestation**
+
+L’Inspection délivre une attestation confirmant la réussite de l’examen.
+
+## Section 4 Contenu technique du rapport de sécurité pour installations électriques
+
+#### Art. 13
+
+**Rapport de sécurité**
+
+<sup>1</sup> Outre celles prévues à l’art. 37, al. 1, OIBT, le rapport de sécurité doit contenir toutes les données nécessaires à l’évaluation de la sécurité d’une installation électrique.
+
+<sup>2</sup>
+
+Ces données comprennent en particulier:
+
+- a. les mesures de l’isolement ou du courant différentiel si le débranchement de l’installation pour certains groupes de consommateurs est difficile ou disproportionné en raison des consommateurs raccordés;
+- b. la description des mesures et des organes de protection et leur appréciation.
+
+<sup>3</sup> Il est possible de renoncer à indiquer les données prévues à l’al. 2, let. a, lorsque le contrôle périodique concerne des installations électriques dont les résistances d’isolement sont en permanence surveillées par des dispositifs appropriés comme des disjoncteurs à courant différentiel-résiduel de 30 mA au maximum.
+
+<sup>4</sup> Après l’exécution de travaux de maintenance et de réparation au sens de l’art. 15, al. 4, OIBT, il est possible de renoncer à la mesure de l’isolement.
+
+#### Art. 14
+
+**Protocole de mesure et de contrôle**
+
+<sup>1</sup> Le protocole de mesure et de contrôle contient les résultats des contrôles effectués.
+
+<sup>2</sup>
+
+Il est établi pour les contrôles suivants:
+
+- a. la première vérification, effectuée parallèlement à la construction (art. 24, al. 1, OIBT);
+- b. le contrôle final (art. 24, al. 2, OIBT);
+- c. le contrôle de réception (art. 35, al. 3, OIBT);
+- d. le contrôle périodique (art. 36 OIBT);
+- e. le contrôle ponctuel (art. 39, al. 1, OIBT).
+
+## Section 5 Emoluments
+
+#### Art. 15
+
+<sup>1</sup> L’Inspection perçoit des émoluments pour l’organisation des examens conformément à l’ordonnance du 7 décembre 1992 sur l’Inspection fédérale des installations à courant fort[^15-1].
+
+<sup>2</sup> L’émolument est remboursé si le candidat se désiste au moins dix jours ouvrables avant l’examen ou si des motifs valables survenus après ce délai l’empêchent de s’y présenter.
+
+[^15-1]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+
+## Section 6 Dispositions finales
+
+#### Art. 16
+
+**Abrogation**
+
+L’ordonnance du DETEC du 15 mai 2002 sur les installations électriques à basse tension[^16-1] est abrogée.
+
+[^16-1]: [[RO 2002 1367](https://fedlex.data.admin.ch/eli/oc/2002/207), [2004 2147](https://fedlex.data.admin.ch/eli/oc/2004/248)]
+
+#### Art. 17
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2018.

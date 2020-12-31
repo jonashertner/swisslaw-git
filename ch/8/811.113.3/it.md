@@ -1,0 +1,729 @@
+---
+sr: "811.113.3"
+title: Ordinanza del 26 novembre 2008 concernente gli esami federali per le professioni mediche (Ordinanza sugli esami LPMed)
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
+language: it
+version: 2020-05-28
+adopted: 2008-11-26
+in_force: 2009-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20200528/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20200528-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente gli esami federali per le professioni mediche
+
+(Ordinanza sugli esami LPMed)
+
+del 26 novembre 2008 (Stato 28 maggio 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 12 capoverso 3, 13, 13a e 60 della legge del 23 giugno 2006[^ingress-1] sulle professioni mediche (LPMed),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+## Capitolo 1: Disposizioni generali
+
+### Sezione 1: Oggetto
+
+#### Art. 1
+
+La presente ordinanza disciplina:
+
+- a. il contenuto, la forma e la valutazione dell’esame federale per le professioni mediche universitarie;
+- b. i compiti degli organi;
+- c. la procedura d’esame;
+- d. le tasse d’esame;
+- e. le indennità per gli esperti.
+
+### Sezione 2: Contenuto, forma e valutazione dell’esame federale
+
+#### Art. 2
+
+**Principi**
+
+<sup>1</sup> L’esame federale permette di verificare se gli obiettivi della formazione stabiliti nella LPMed sono raggiunti.
+
+<sup>2</sup> L’esame federale si svolge al termine di un ciclo di studio accreditato secondo la LPMed (art. 23 LPMed) o di un ciclo di studio estero riconosciuto (art. 33 LPMed).
+
+<sup>3</sup> L’esame federale è conforme allo stato della scienza e ai principi e alle esigenze internazionali.
+
+#### Art. 3
+
+**Contenuto e forma dell’esame federale**[^3-1]
+
+<sup>1</sup>
+
+Il contenuto dell’esame federale si fonda sugli obiettivi formativi generali e specifici di ogni professione secondo la LPMed e sui seguenti cataloghi svizzeri degli obiettivi didattici per i cicli di studio accreditati relativi alle professioni mediche universitarie:
+
+- a. medicina umana: Catalogo svizzero degli obiettivi di apprendimento (PROFILES) del 15 marzo 2017[^3-2];
+- b. farmacia: Catalogo svizzero degli obiettivi di apprendimento del 23 novembre 2016[^3-3];
+- c.[^3-4] odontoiatria: Catalogo svizzero degli obiettivi di apprendimento del 18 settembre 2017[^3-5];
+- d.[^3-6] chiropratica: Catalogo svizzero degli obiettivi di apprendimento (PROFILES) del 25 settembre 2017[^3-7];
+- e.[^3-8] veterinaria: Catalogo svizzero degli obiettivi di apprendimento del 10 ottobre 2017[^3-9].
+
+<sup>2</sup> Il Dipartimento federale dell’interno (DFI) stabilisce, dopo aver consultato la Commissione delle professioni mediche (MEBEKO), sezione «Formazione», i principi e i dettagli delle diverse forme di esame.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^3-2]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Humanmedizin (solo in ted. e franc.)
+[^3-3]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Pharmazie (solo in ted. e franc.)
+[^3-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
+[^3-5]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Zahnmedizin
+[^3-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
+[^3-7]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Chiropraktik
+[^3-8]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 799](https://fedlex.data.admin.ch/eli/oc/2018/101)).
+[^3-9]: www.bag.admin.ch &gt; Themen &gt; Berufe im Gesundheitswesen &gt; Medizinalberufe &gt; Eidgenössische Prüfungen universitärer Medizinalberufe &gt; Eidgenössische Prüfung in Veterinärmedizin
+
+#### Art. 4
+
+[^4-1]
+
+[^4-1]: Abrogato dal n. I dell’O del 5 apr. 2017, con effetto dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 4a
+
+**Provvedimenti concernenti l’esame federale di medicina umana 2020 in considerazione della pandemia di coronavirus**[^4a-1]
+
+<sup>1</sup>
+
+L’esame federale di medicina umana 2020 si compone di:
+
+- a. un esame scritto secondo il procedimento della scelta fra più risposte; e
+- b. la prova fornita nel quadro di un’attività pratica in un centro di perfezionamento riconosciuto dall’Istituto svizzero per la formazione medica di disporre delle attitudini e delle capacità, nonché delle modalità di comportamento e della competenza sociale necessarie all’esercizio della professione sotto vigilanza professionale (prova pratica).
+
+<sup>2</sup> Ai candidati che nel 2020 si sono iscritti alla ripetizione dell’esame pratico strutturato si applica il capoverso 1 lettera b.
+
+[^4a-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 4b
+
+**Prova pratica nel quadro dell’esame federale di medicina umana 2020**[^4b-1]
+
+<sup>1</sup> La persona responsabile del perfezionamento valuta il candidato secondo l’articolo 4*a* capoverso 1 lettera b per una durata di sei settimane.
+
+<sup>2</sup> I contenuti e la struttura della valutazione sono conformi alle prescrizioni di un modulo di valutazione unitario.
+
+<sup>3</sup> La persona responsabile del perfezionamento rilascia al candidato un documento con il risultato della sua valutazione inclusa la motivazione.
+
+<sup>4</sup> Consegna il documento alla commissione d’esame in medicina umana entro il 15 ottobre 2021.
+
+<sup>5</sup> La MEBEKO, sezione «Formazione», elabora il modulo di valutazione di cui al capoverso 2 su proposta della commissione d’esame.
+
+[^4b-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 5
+
+**Struttura e valutazione**
+
+<sup>1</sup> L’esame federale può consistere in una o più prove. Le singole prove possono includere prove parziali.
+
+<sup>2</sup> Ogni prova è valutata con la menzione «superato» o «non superato».
+
+<sup>3</sup> L’esame federale è superato se ogni prova è stata valutata con la menzione «superato».
+
+<sup>4</sup> Nell’ambito di una singola prova, le prestazioni fornite nelle prove parziali possono compensarsi reciprocamente.[^5-1]
+
+<sup>5</sup> ...[^5-2]
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^5-2]: Abrogato dal n. I dell’O del 5 apr. 2017, con effetto dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 5a
+
+**Disposizioni e direttive della Commissione delle professioni mediche**[^5a-1]
+
+Per ciascuna professione medica universitaria la MEBEKO, sezione «Formazione», emana su proposta della corrispondente commissione d’esame:
+
+- a. disposizioni concernenti il contenuto, la forma, la data nonché la correzione e la valutazione dell’esame federale; e
+- b. direttive sui dettagli per lo svolgimento dell’esame federale.
+
+[^5a-1]: Introdotto dal n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 6
+
+**Esame federale per i titolari di diplomi conseguiti all’estero**
+
+<sup>1</sup>
+
+Se non riconosce un diploma conseguito all’estero ed esige dal titolare di superare l’esame federale, la MEBEKO, sezione «Formazione», stabilisce:
+
+- a. le condizioni d’ammissione all’esame federale; e
+- b. se il titolare deve sostenere l’esame federale completo o parti di esso.
+
+<sup>2</sup> A tale scopo essa tiene conto della carriera e dell’esperienza professionale del titolare, in particolare nel settore sanitario svizzero.
+
+## Capitolo 2: Procedura dell’esame federale
+
+### Sezione 1: Organi e loro compiti
+
+#### Art. 7
+
+**Commissioni d’esame**
+
+<sup>1</sup> Dopo aver consultato la MEBEKO, sezione «Formazione», e le istituzioni di formazione, il Consiglio federale istituisce, per ogni professione medica universitaria, una commissione d’esame in cui ogni istituzione di formazione è rappresentata.
+
+<sup>2</sup> Su proposta del DFI, il Consiglio federale nomina per ogni commissione d’esame un presidente e quattro a otto membri.
+
+<sup>3</sup> Le commissioni d’esame assicurano la preparazione e lo svolgimento dell’esame federale in collaborazione con le istituzioni di formazione delle professioni mediche universitarie. In tal modo esse rappresentano gli interessi della Confederazione.
+
+<sup>4</sup>
+
+Le commissioni d’esame hanno i seguenti compiti:
+
+- a. elaborano, all’indirizzo della MEBEKO, sezione «Formazione», una proposta riguardante il contenuto, la forma, la data e la valutazione dell’esame federale;
+- b. preparano l’esame federale in collaborazione con la MEBEKO, sezione «Formazione»;
+- c.[^7-1] designano le persone che garantiscono lo svolgimento dell’esame federale nelle sedi d’esame (responsabili di sede);
+- d.[^7-2] propongono alla MEBEKO, sezione «Formazione», misure di adeguamento secondo l’articolo 12*a* capoverso 2;
+- e. propongono alla MEBEKO, sezione «Formazione», direttive per lo svolgimento dell’esame federale;
+- f. propongono alla MEBEKO, sezione «Formazione», i nomi di esaminatori per la nomina;
+- g.[^7-3] ...
+
+[^7-1]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^7-3]: Abrogata dal n. I dell’O del 5 apr. 2017, con effetto dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 8
+
+**Presidenti delle commissioni d’esame**
+
+<sup>1</sup>
+
+I presidenti delle commissioni d’esame hanno i seguenti compiti:
+
+- a. coordinano la preparazione, lo svolgimento e la valutazione degli esami federali con la MEBEKO, sezione «Formazione», e le istituzioni di formazione;
+- b. presentano in tempo utile alla MEBEKO, sezione «Formazione», le proposte delle commissioni d’esame conformemente alla presente ordinanza;
+- c. controllano i lavori preparatori per gli esami federali in collaborazione con il segretariato della MEBEKO, sezione «Formazione»;
+- d. istruiscono i responsabili di sede in merito ai loro compiti;
+- [tab] e. e f.[^8-1]...
+- g. comunicano i risultati degli esami federali.
+
+<sup>2</sup> Il presidente della commissione d’esame designa il suo supplente.
+
+[^8-1]: Abrogate dal n. I dell’O del 5 apr. 2017, con effetto dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 9
+
+**Responsabili di sede**
+
+<sup>1</sup>
+
+I responsabili di sede hanno i seguenti compiti:
+
+- a.[^9-1] organizzano, d’intesa con le istituzioni di formazione, la commissione d’esame e il segretariato della MEBEKO, sezione «Formazione», gli esami federali nella sede d’esame;
+- b. compilano, sulla base della lista dei candidati ammessi, la convocazione all’esame e la inoltrano ai candidati e agli esaminatori;
+- c. informano gli esaminatori, i candidati e le altre persone coinvolte nell’esame federale in merito ai mezzi ausiliari ammessi durante le prove;
+- d. consigliano i candidati nelle questioni relative all’esame federale.
+
+<sup>2</sup> Decidono in merito alla validità dei motivi addotti per giustificare un impedimento a partecipare all’esame o l’interruzione dello stesso.
+
+<sup>3</sup> Se il numero di esaminatori autorizzati è insufficiente, i responsabili di sede possono designare altri professionisti *ad hoc* in qualità di esaminatori. Ne comunicano i nominativi al segretariato della MEBEKO, sezione «Formazione».
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 10
+
+**Esaminatori**
+
+<sup>1</sup> La MEBEKO, sezione «Formazione», tiene un elenco degli esaminatori autorizzati e ne stabilisce i compiti.
+
+<sup>2</sup> Gli esaminatori sono proposti dalle commissioni d’esame.
+
+<sup>3</sup>
+
+Possono essere autorizzati quali esaminatori:
+
+- a. i professionisti attivi nel settore della formazione universitaria;
+- b. i liberi professionisti.
+
+<sup>4</sup> Gli esaminatori possono esercitare la loro funzione sino alla fine dell’anno in cui compiono 70 anni. In seguito sono stralciati dall’elenco degli esaminatori autorizzati.
+
+### Sezione 2: Ordinamento dell’esame
+
+#### Art. 11
+
+**Date d’esame**
+
+<sup>1</sup> L’esame federale ha luogo una volta all’anno. La data dev’essere coordinata in funzione delle sessioni degli esami universitari e della fine del semestre.
+
+<sup>2</sup> La MEBEKO, sezione «Formazione», stabilisce le date dell’esame federale su proposta delle commissioni d’esame.
+
+#### Art. 12
+
+**Iscrizione**
+
+<sup>1</sup> I candidati sono tenuti a iscriversi all’esame federale presso il segretariato della sezione «Formazione» della MEBEKO entro la data ufficiale di chiusura delle iscrizioni.
+
+<sup>2</sup> Prima dell’inizio di ogni anno accademico, la MEBEKO, sezione «Formazione», pubblica la data di chiusura delle iscrizioni in Internet.[^12-1]
+
+<sup>3</sup> La MEBEKO, sezione «Formazione», può prevedere una data straordinaria di chiusura delle iscrizioni all’esame federale 2021 per i candidati all’esame federale di medicina umana 2020.[^12-2]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^12-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 12a
+
+**Compensazione degli svantaggi subiti da disabili**[^12a-1]
+
+<sup>1</sup> Le persone disabili possono presentare alla MEBEKO, sezione «Formazione», una domanda per la compensazione degli svantaggi. Nelle proprie direttive di cui all’articolo 5*a* lettera b, la MEBEKO definisce i dettagli della procedura di presentazione della domanda.
+
+<sup>2</sup> Su proposta della commissione d’esame, la MEBEKO, sezione «Formazione», definisce le misure di adeguamento idonee per compensare gli svantaggi derivanti dalla disabilità. Le misure di adeguamento non possono costituire una riduzione dei requisiti d’esame e devono poter essere realizzate con un onere proporzionato.
+
+[^12a-1]: Introdotto dal n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 12b
+
+**Sede d’esame**[^12b-1]
+
+<sup>1</sup> In linea di principio il candidato deve sostenere l’esame federale presso la sede in cui ha concluso gli studi.
+
+<sup>2</sup> Se, per motivi organizzativi, non tutti i candidati possono sostenere l’esame presso tale sede, la commissione d’esame, previa intesa con il segretariato della MEBEKO, sezione «Formazione», può ordinare che l’esame sia sostenuto in un’altra sede con la stessa lingua d’esame.
+
+<sup>3</sup>
+
+Nelle sue disposizioni di cui all’articolo 5*a* lettera a, la MEBEKO stabilisce:
+
+- a. i criteri secondo i quali è modificata la sede d’esame;
+- b. la procedura secondo la quale sono decisi i candidati interessati dalla modifica; e
+- c. il termine entro il quale i candidati interessati devono essere informati sul cambio di sede.
+
+[^12b-1]: Introdotto dal n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 12c
+
+**Lingua d’esame**[^12c-1]
+
+<sup>1</sup> La lingua d’esame è per principio la lingua ufficiale della sede d’esame scelta.
+
+<sup>2</sup> Sono concesse eccezioni, su richiesta tempestiva del candidato, se sono utilizzati questionari identici.
+
+<sup>3</sup> Se le sedi d’esame sono bilingue è possibile scegliere la lingua d’esame.
+
+[^12c-1]: Introdotto dal n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 13
+
+**Ammissione**
+
+<sup>1</sup> Le scuole universitarie comunicano in tempo utile alla MEBEKO, sezione «Formazione», i nominativi delle persone che hanno concluso il corrispondente ciclo di studio accreditato.
+
+<sup>2</sup>
+
+I candidati che, conformemente all’articolo 12 capoverso 2 LPMed, intendono presentarsi all’esame federale di chiropratici devono dimostrare, contestualmente all’iscrizione di cui all’articolo 12 capoverso 2 della presente ordinanza:[^13-1]
+
+- a. di aver ottenuto 60 punti di credito formativo frequentando un ciclo di studio accreditato secondo la LPMed;
+- b. di aver concluso un ciclo di studio secondo l’articolo 12 capoverso 2 lettera b LPMed.
+
+<sup>3</sup> La MEBEKO, sezione «Formazione», decide se un candidato è ammesso all’esame federale.
+
+<sup>4</sup> Chi si iscrive oltre il termine ufficiale non è ammesso all’esame federale, salvo se può far valere motivi seri quali una malattia o un infortunio.[^13-2]
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^13-2]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+#### Art. 14
+
+**Elenco dei candidatiammessi all’esame**
+
+Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzione dei responsabili di sede, l’elenco dei candidati ammessi all’esame.
+
+#### Art. 15
+
+**Ritiro dell’iscrizione**
+
+<sup>1</sup> Un candidato iscritto può ritirare la propria iscrizione prima dell’inizio dell’esame mediante comunicazione scritta alla MEBEKO, sezione «Formazione».
+
+<sup>2</sup> Chi ritira la propria iscrizione è tenuto a versare la tassa d’iscrizione.
+
+<sup>3</sup> Chi ritira la propria iscrizione dopo aver ricevuto la decisione d’ammissione è inoltre tenuto a versare la tassa d’esame, tranne se può far valere motivi seri quali una malattia o un infortunio.
+
+<sup>4</sup> La MEBEKO, sezione «Formazione», decide se i motivi sono validi.
+
+#### Art. 16
+
+**Rinuncia e interruzione**
+
+<sup>1</sup> Se un candidato rinuncia a presentarsi all’esame federale senza aver ritirato la propria iscrizione oppure interrompe una prova, l’esame è considerato «non superato», tranne se la persona interessata può far valere motivi seri quali una malattia o un infortunio.
+
+<sup>2</sup> Il candidato comunica senza indugio al responsabile di sede la rinuncia a presentarsi all’esame o l’interruzione di una prova. Deve presentare o inviare spontaneamente i giustificativi, quali un certificato medico.
+
+<sup>3</sup> I responsabili di sede decidono se i motivi addotti sono validi e lo notificano al segretariato della sezione «Formazione» della MEBEKO.
+
+<sup>4</sup> Se i motivi addotti per la rinuncia o l’interruzione sono validi, il candidato può iscriversi alla sessione successiva. Se una prova si compone di diverse prove parziali che il candidato non ha potuto interamente terminare a causa di un’interruzione dell’esame per motivi validi, nella sessione successiva deve ripetere l’intera prova con tutte le corrispondenti prove parziali.
+
+<sup>5</sup> La tassa d’iscrizione è dovuta in ogni caso. Se un candidato rinuncia a presentarsi all’esame, deve pagare la tassa d’esame, tranne se può far valere motivi validi. In caso di interruzione, la tassa d’esame è comunque dovuta.
+
+#### Art. 17
+
+**Pubblicità**
+
+<sup>1</sup> L’esame federale non è pubblico.
+
+<sup>2</sup> Le persone che intendono assistere all’esame federale devono ottenere il permesso del presidente della commissione d’esame.
+
+<sup>3</sup> I membri della MEBEKO, sezione «Formazione», e della commissione d’esame sono ammessi d’ufficio all’esame.
+
+#### Art. 18
+
+**Ripetizione di un esame federale non superato**
+
+<sup>1</sup> Il candidato che non ha superato l’esame federale può iscriversi alla sessione successiva.
+
+<sup>2</sup> Vanno ripetute unicamente le prove valutate come «non superate».
+
+<sup>3</sup> In caso d’insuccesso, l’esame federale può essere ripetuto due volte.
+
+<sup>4</sup> Ai candidati all’esame federale di medicina umana 2020 non sono conteggiati, nel numero di possibilità di ripetizione secondo il capoverso 3, un esame di cui all’articolo 4*a* capoverso 1 lettera a o una prova pratica di cui all’articolo 4*a* capoverso 1 lettera b non superati nel 2020.[^18-1]
+
+<sup>5</sup> Chi non supera la prova pratica prima della data di cui all’articolo 4*b* capoverso 4 può iscriversi alla prima sessione successiva possibile dell’esame pratico strutturato.[^18-2]
+
+[^18-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^18-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 19
+
+**Esclusione definitiva**
+
+<sup>1</sup> Il candidato che non ha superato per tre volte l’esame federale è escluso da qualsiasi altro esame federale per la stessa professione medica universitaria.
+
+<sup>2</sup> Ai candidati all’esame federale di medicina umana 2020 non sono conteggiati, nel numero di possibilità di ripetizione di cui al capoverso 1, un esame di cui all’articolo 4*a* capoverso 1 lettera a o una prova pratica di cui all’articolo 4*a* capoverso 1 lettera b non superati nel 2020.[^19-1]
+
+[^19-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 20
+
+**Comunicazione dei risultati dell’esame**
+
+<sup>1</sup> Il presidente della commissione d’esame comunica al candidato il risultato dell’esame mediante una decisione formale.
+
+<sup>2</sup> I nomi dei candidati che hanno superato l’esame federale sono pubblicati in Internet e in un’altra forma appropriata.
+
+<sup>3</sup> Il presidente della commissione d’esame in medicina umana comunica al candidato all’esame federale di medicina umana 2020 il risultato dell’esame scritto di cui all’articolo 4*a* capoverso 1 lettera a mediante una decisione formale intermedia separata.[^20-1]
+
+[^20-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 21
+
+**Conservazione dei documenti d’esame**
+
+<sup>1</sup> La MEBEKO, sezione «Formazione», provvede affinché tutti i documenti relativi all’esame federale siano conservati per due anni a partire dalla comunicazione dei risultati.
+
+<sup>2</sup> In caso di ricorso, i documenti sono conservati finché la decisione su ricorso è passata in giudicato.
+
+#### Art. 22
+
+**Diplomi**
+
+Il candidato che ha superato l’esame federale riceve un diploma federale un corrispondente attestato (tessera plastificata).
+
+#### Art. 23
+
+**Sanzioni**[^23-1]
+
+<sup>1</sup> La MEBEKO, sezione «Formazione», può annullare un esame federale superato se risulta che il candidato ha ottenuto indebitamente l’ammissione fornendo indicazioni false o incomplete. Può dichiarare che l’esame federale non è stato superato se il candidato ha influenzato l’esito dell’esame con mezzi illeciti.
+
+<sup>2</sup> I responsabili di sede possono allontanare dalla singola prova interessata un candidato che, durante l’esame federale, si comporta in modo sconveniente o cerca di influenzare l’esito con mezzi illeciti.
+
+<sup>3</sup> I responsabili di sede comunicano alla MEBEKO, sezione «Formazione», tutti gli eventi di cui al capoverso 2, indipendentemente dal fatto che abbiano allontanato il candidato in questione dalla singola prova interessata.
+
+<sup>4</sup> Secondo la gravità della colpa del candidato, la MEBEKO, sezione «Formazione», può dichiarare l’esame federale «non superato».
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+## Capitolo 3: Trattamento dei dati
+
+#### Art. 24
+
+**Banca dati della MEBEKO**
+
+<sup>1</sup>
+
+La MEBEKO, sezione «Formazione», gestisce una banca dati. Quest’ultima contiene le iscrizioni pervenute e le decisioni relative all’ammissione, nonché i seguenti dati concernenti i candidati:
+
+- a. il cognome, il nome o i nomi, il cognome precedente o i cognomi precedenti;
+- b. la data di nascita e il sesso;
+- c. la lingua di corrispondenza;
+- d. il luogo o i luoghi di attinenza e la cittadinanza o le cittadinanze;
+- e. il numero di assicurato AVS;
+- f. un numero d’identificazione per le persone appartenenti alle professioni mediche (GLN[^24-1]);
+- g. l’indirizzo, il numero di telefono e l’indirizzo elettronico;
+- h. i risultati dell’esame.
+
+<sup>2</sup>
+
+La banca dati contiene inoltre:
+
+- a. i dati che indicano se un candidato è definitivamente escluso dall’esame federale;
+- b. i diplomi federali con la data e il luogo dell’emissione del diploma;
+- c. una statistica relativa all’esame federale.
+
+[^24-1]: GLN è l’acronimo di *Global Location Number*.
+
+#### Art. 25
+
+**Comunicazione dei dati**[^25-1]
+
+<sup>1</sup> La MEBEKO, sezione «Formazione», trasmette regolarmente all’Ufficio federale della sanità pubblica (UFSP) tutti i dati riguardanti i candidati che hanno superato l’esame federale conformemente all’articolo 24 capoverso 1 lettere a–g, affinché siano riportati nel registro delle professioni mediche.
+
+<sup>2</sup> Su richiesta, essa comunica al segretariato dell’incaricato del Consiglio federale per il Servizio sanitario coordinato il cognome, il nome, l’indirizzo e la data di nascita dei candidati che hanno superato l’esame federale di medicina umana, odontoiatria, chiropratica o farmacia.
+
+<sup>3</sup> Su richiesta, essa comunica all’Ufficio federale della sicurezza alimentare e di veterinaria, all’attenzione del Servizio veterinario coordinato, il cognome, il nome, l’indirizzo e la data di nascita dei candidati che hanno superato l’esame federale di medicina veterinaria.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 26
+
+**Diritto d’informazione**
+
+<sup>1</sup> I candidati hanno il diritto di essere informati sui dati che li concernono.
+
+<sup>2</sup> A tale scopo devono presentare una domanda scritta alla MEBEKO, sezione «Formazione», attestando la loro identità.
+
+<sup>3</sup> Le informazioni sono fornite entro 30 giorni, per scritto e gratuitamente.
+
+## Capitolo 4: Tasse, indennità e costi
+
+#### Art. 27
+
+**Tasse**
+
+<sup>1</sup> La tassa d’iscrizione ammonta ogni volta a 200 franchi.
+
+<sup>2</sup> La tassa per i diversi esami federali è stabilita come segue:
+
+<table>
+<tr><td>a. esame federale di medicina umana:</td><td>1500 franchi</td></tr>
+<tr><td>b. esame federale di odontoiatria:</td><td>1000 franchi</td></tr>
+<tr><td>c. esame federale di chiropratica:</td><td>1300 franchi</td></tr>
+<tr><td>d. esame federale di farmacia:</td><td>1300 franchi</td></tr>
+<tr><td>e. esame federale di medicina veterinaria:</td><td>1000 franchi. [^27-1]</td></tr>
+</table>
+
+<sup>3</sup> Se il candidato deve superare o ripetere unicamente parti dell’esame federale, le tasse vengono calcolate proporzionalmente.
+
+<sup>4</sup> Gli emolumenti per il rilascio dei diplomi sono indicati nell’allegato 5 dell’ordinanza del 27 giugno 2007[^27-2] sui diplomi, la formazione, il perfezionamento e l’esercizio della professione nelle professioni mediche universitarie.
+
+[^27-1]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+[^27-2]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+
+#### Art. 28
+
+**Tasse e indennità per l’esame federale di medicina umana 2020**[^28-1]
+
+<sup>1</sup>
+
+In deroga all’articolo 27 capoverso 2 lettera a, la tassa per l’esame federale di medicina umana 2020 di cui all’articolo 4*a* è stabilita come segue:
+
+- a. esame scritto secondo il procedimento della scelta fra più risposte: 750 franchi;
+- b. prova pratica: 300 franchi.
+
+<sup>2</sup> I responsabili del perfezionamento ricevono un’indennità di 300 franchi per il rilascio del documento di cui all’articolo 4*b* capoverso 3.
+
+[^28-1]: Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+
+#### Art. 29
+
+**Indennità per i responsabili di sede**
+
+<sup>1</sup> I responsabili di sede ricevono un forfait annuo di 8000 franchi e un’indennità stabilita in funzione del numero dei candidati che la MEBEKO, sezione «Formazione», ha notificato loro per l’anno corrispondente.
+
+<sup>2</sup>
+
+L’importo dell’indennità in funzione del numero di candidati è fissato, per candidato all’esame federale per singola prova, a:
+
+- a. 30 franchi per gli esami scritti secondo il procedimento della scelta fra più risposte o secondo il procedimento che prevede domande e risposte brevi;
+- b. 40 franchi per gli esami pratici strutturati e per gli esami pratici;
+- c. 35 franchi per gli esami orali.[^29-1]
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+
+#### Art. 30
+
+[^30-1]
+
+[^30-1]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+#### Art. 31
+
+**Indennità per gli esaminatori**
+
+Per gli esaminatori sono applicabili le seguenti aliquote d'indennità:[^31-1]
+
+- a. preparare le prove dell’esame federale, assistere all’esame, correggere e valutare i risultati: 150 franchi l’ora;
+- b. i lavori di segretariato di cui è comprovata l’esecuzione in rapporto agli esami federali: 30 franchi l’ora;
+- c. le spese di viaggio per assistere agli esami federali e partecipare a sedute intese a elaborare gli esami federali: un’indennità calcolata secondo le modalità applicabili per il personale federale;
+- d. ogni pasto principale, il pernottamento e la colazione: un’indennità calcolata secondo le modalità applicabili per il personale federale.
+
+[^31-1]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+#### Art. 31a
+
+**Indennità per i pazienti standardizzati**[^31a-1]
+
+<sup>1</sup> Chi partecipa a un esame in qualità di paziente specialmente istruito (paziente standardizzato) riceve un'indennità di 50 franchi l’ora per la preparazione e la partecipazione agli esami federali.
+
+<sup>2</sup> Il rimborso delle spese legate alla preparazione e alla partecipazione agli esami federali è disciplinato dalle corrispondenti disposizioni applicabili al personale federale.
+
+[^31a-1]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+#### Art. 32
+
+**Altre indennità**[^32-1]
+
+<sup>1</sup> L'indennità per il personale ausiliario che predispone i locali o prepara il materiale per gli esami federali è fissata a 25 franchi l’ora.
+
+<sup>2</sup> L'indennità per le persone che sorvegliano lo svolgimento degli esami durante gli esami federali è fissata a 30 franchi l’ora.
+
+[^32-1]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+#### Art. 33
+
+**Costi**
+
+<sup>1</sup> Se per organizzare gli esami federali occorre locare sale al di fuori delle istituzioni di formazione universitarie, i responsabili di sede stabiliscono il canone d’affitto d’intesa con il segretariato della sezione «Formazione» della MEBEKO e l’UFSP.
+
+<sup>2</sup> Previa intesa con l’UFSP, gli stampati sono ordinati presso la Cancelleria federale e pagati dall’UFSP.
+
+<sup>3</sup> La Confederazione assume i costi per la stampa e la traduzione delle domande di tutti gli esami federali.[^33-1]
+
+<sup>4</sup> La Confederazione assume i costi per il materiale ausiliario consegnato ai candidati se questo materiale proviene dalla Confederazione.
+
+[^33-1]: Nuovo testo giusa il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+## Capitolo 5: Disposizioni finali
+
+#### Art. 34
+
+**Diritto vigente: abrogazione**
+
+L’abrogazione del diritto vigente è disciplinata nell’allegato 1.
+
+#### Art. 35
+
+**Modifica del diritto vigente**
+
+La modifica del diritto vigente è disciplinata nell’allegato 2.
+
+#### Art. 36
+
+**Disposizioni transitorie**
+
+Nel caso in cui il contenuto degli esami che i candidati devono superare conformemente al diritto anteriore e quello degli esami che devono essere superati secondo il nuovo diritto coincidono, la MEBEKO, sezione «Formazione», su proposta delle commissioni d’esame, può decidere:
+
+- a. di non più organizzare interamente o in parte gli esami secondo il diritto anteriore; o
+- b. di imputare interamente o in parte gli esami secondo il diritto anteriore all’esame federale secondo il nuovo diritto.
+
+#### Art. 36a
+
+**Disposizioni transitorie della modifica del 17 novembre 2010**[^36a-1]
+
+<sup>1</sup> Per le prime due sessioni dell’esame federale secondo la LPMed dopo l’entrata in vigore della modifica del 17 novembre 2010 sono previste le seguenti tasse d’esame:
+
+<table>
+<tr><td>a. esame federale di medicina umana:</td><td>1000 franchi</td></tr>
+<tr><td>b. esame federale di odontoiatria:</td><td>850 franchi</td></tr>
+<tr><td>c. esame federale di farmacia:</td><td>850 franchi</td></tr>
+<tr><td>d. esame federale di medicina veterinaria:</td><td>850 franchi</td></tr>
+</table>
+
+<sup>2</sup> A partire dalla terza sessione dell’esame federale secondo la LPMed dopo l'entrata in vigore della modifica del 17 novembre 2010 sono dovute integralmente le tasse di cui all’articolo 27 capoverso 2.
+
+[^36a-1]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
+
+#### Art. 37
+
+**Entrata in vigore**
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° gennaio 2009.
+
+<sup>2</sup> L’articolo 34 entra in vigore il 31 dicembre 2010.
+
+Allegato 1
+
+(art. 34)
+
+## Diritto vigente: abrogazione
+
+I seguenti atti normativi sono abrogati:
+
+- 1\. Ordinanza generale del 19 novembre 1980[^annex1-lvlu1-1] sugli esami federali per le professioni mediche;
+- 2\. Ordinanza del 19 dicembre 1975[^annex1-lvlu1-2] concernente deroghe sperimentali al regolamento degli esami federali per le arti sanitarie;
+- 3\. Ordinanza del 12 novembre 1984[^annex1-lvlu1-3] che stabilisce le tasse e le indennità riguardanti gli esami federali per le professioni mediche;
+- 4\. Ordinanza del DFI del 15 luglio 1970[^annex1-lvlu1-4] che stabilisce le indennità per esami scritti sostitutivi di quelli orali secondo il regolamento degli esami federali per le arti sanitarie;
+- 5\. Ordinanza del 29 aprile 1943[^annex1-lvlu1-5] sugli esami federali professionali di medicina per gli Svizzeri in possesso di diplomi italiani;
+- 6\. Decreto del Consiglio federale del 28 settembre 1945[^annex1-lvlu1-6] che autorizza il conferimento del diploma federale ai medici, farmacisti e veterinari ticinesi che hanno compiuto i loro studi nelle università italiane;
+- 7\. Ordinanza del 18 novembre 1975[^annex1-lvlu1-7] concernente gli esami professionali particolari per Svizzeri dell’estero e Svizzeri naturalizzati;
+- 8\. Decreto del Consiglio federale del 28 gennaio 1944[^annex1-lvlu1-8] concernente l’ammissione dei cittadini del Liechtenstein agli esami federali per le arti sanitarie;
+- 9\. Ordinanza del 21 febbraio 1979[^annex1-lvlu1-9] riguardante l’ammissione di rifugiati agli esami federali per le arti sanitarie;
+- 10\. Ordinanza del 30 giugno 1983[^annex1-lvlu1-10] che riguarda le particolarità della procedura degli esami federali per le professioni mediche;
+- 11\. Regolamento del 16 ottobre 1984[^annex1-lvlu1-11] per la Giunta direttiva, le commissioni d’esame, i presidenti locali e gli esaminatori agli esami federali per le professioni mediche;
+- 12\. Ordinanza del 19 novembre 1980[^annex1-lvlu1-12] sugli esami dei medici;
+- 13\. Ordinanza del 18 febbraio 1983[^annex1-lvlu1-13] concernente le disposizioni transitorie per gli esami dei medici;
+- 14\. Ordinanza del 29 maggio 1985[^annex1-lvlu1-14] concernente l’esame delle tecniche mediche;
+- 15\. Ordinanza del 1° novembre 1999[^annex1-lvlu1-15] concernente la sperimentazione di un modulo speciale di insegnamento e di esame presso la Facoltà di medicina dell’Università di Berna;
+- 16\. Ordinanza del DFI del 30 agosto 2007[^annex1-lvlu1-16] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per i primi quattro anni di studio presso la facoltà di biologia e di medicina dell’Università di Losanna;
+- 17\. Ordinanza del DFI del 17 ottobre 2005[^annex1-lvlu1-17] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per i primi quattro anni di studio presso la facoltà di medicina dell’Università di Zurigo;
+- 18\. Ordinanza del DFI del 21 ottobre 2004[^annex1-lvlu1-18] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame presso la facoltà di medicina dell’Università di Ginevra;
+- 19\. Ordinanza del DFI del 21 ottobre 2004[^annex1-lvlu1-19] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per i primi due anni di studio presso il Dipartimento di medicina della facoltà di scienze dell’Università di Friburgo;
+- 20\. Ordinanza del DFI del 17 ottobre 2005[^annex1-lvlu1-20] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per i primi quattro anni di studio presso la facoltà di medicina dell’Università di Basilea;
+- 21\. Ordinanza del 19 novembre 1980[^annex1-lvlu1-21] sugli esami dei medici dentisti;
+- 22\. Ordinanza del DFI del 30 agosto 2007[^annex1-lvlu1-22] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame presso l’istituto di medicina dentaria della facoltà di medicina dell’Università di Ginevra;
+- 23\. Ordinanza del 19 novembre 1980[^annex1-lvlu1-23] sugli esami dei veterinari;
+- 24\. Ordinanza del DFI del 21 ottobre 2004[^annex1-lvlu1-24] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame in veterinaria;
+- 25\. Ordinanza del 16 aprile 1980[^annex1-lvlu1-25] concernente gli esami dei farmacisti;
+- 26\. Ordinanza del 4 marzo 1982[^annex1-lvlu1-26] concernente le disposizioni transitorie per gli esami dei farmacisti;
+- 27\. Ordinanza del DFI del 21 ottobre 2004[^annex1-lvlu1-27] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per il ciclo di studi che permette il conseguimento del diploma federale di farmacista presso l’Università di Basilea, la scuola di farmacia di Ginevra-Losanna e il Politecnico federale di Zurigo;
+- 28\. Ordinanza del DFI del 3 settembre 2003[^annex1-lvlu1-28] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per il corso di studi in scienze farmaceutiche presso la Facoltà di biologia e medicina dell’Università di Losanna;
+- 29\. Ordinanza del 4 ottobre 2001[^annex1-lvlu1-29] concernente la sperimentazione di un modulo speciale di insegnamento e di esame per il corso di studi parziale in scienze farmaceutiche all’Università di Berna;
+- 30\. Ordinanza del 4 ottobre 2001[^annex1-lvlu1-30] concernente la sperimentazione di un modulo speciale di insegnamento e di esame per il corso di studi parziale in scienze farmaceutiche all’Università di Friburgo;
+- 31\. Ordinanza del DFI del 3 settembre 2003[^annex1-lvlu1-31] concernente la sperimentazione di un modulo speciale d’insegnamento e d’esame per il primo ciclo di studi in scienze farmaceutiche all’Università di Neuchâtel;
+- 32\. Regolamento del 26 marzo 2002[^annex1-lvlu1-32] per il Comitato di perfezionamento per le professioni mediche.
+
+[^annex1-lvlu1-1]: [[RU 1982 563](https://fedlex.data.admin.ch/eli/oc/1982/563_563_563), [1995 4367](https://fedlex.data.admin.ch/eli/oc/1995/4367_4367_4367), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. k, [1999 2643](https://fedlex.data.admin.ch/eli/oc/1999/416)]
+[^annex1-lvlu1-2]: [[RU 1976 51](https://fedlex.data.admin.ch/eli/oc/1976/51_51_51)]
+[^annex1-lvlu1-3]: [[RU 1986 817](https://fedlex.data.admin.ch/eli/oc/1986/817_817_817), [2005 5255](https://fedlex.data.admin.ch/eli/oc/2005/728)]
+[^annex1-lvlu1-4]: [[RU 1970 975](https://fedlex.data.admin.ch/eli/oc/1970/975_975_975)]
+[^annex1-lvlu1-5]: [CS **4** 337; [RU 1952 829](https://fedlex.data.admin.ch/eli/oc/1952/813_834_829), [1960 975](https://fedlex.data.admin.ch/eli/oc/1960/941_981_975), [1979 1184](https://fedlex.data.admin.ch/eli/oc/1979/1184_1184_1184)]
+[^annex1-lvlu1-6]: [CS **4** 345]
+[^annex1-lvlu1-7]: [[RU 1975 2331](https://fedlex.data.admin.ch/eli/oc/1975/2331_2331_2331), [1980 911](https://fedlex.data.admin.ch/eli/oc/1980/911_911_911)]
+[^annex1-lvlu1-8]: [CS **4** 346]
+[^annex1-lvlu1-9]: [[RU 1979 1298](https://fedlex.data.admin.ch/eli/oc/1979/1298_1298_1298)]
+[^annex1-lvlu1-10]: [[RU 1983 1313](https://fedlex.data.admin.ch/eli/oc/1983/1313_1313_1313)]
+[^annex1-lvlu1-11]: [[RU 1984 1302](https://fedlex.data.admin.ch/eli/oc/1984/1302_1302_1302)]
+[^annex1-lvlu1-12]: [[RU 1982 575](https://fedlex.data.admin.ch/eli/oc/1982/575_575_575), [1999 2643](https://fedlex.data.admin.ch/eli/oc/1999/416)n. II]
+[^annex1-lvlu1-13]: [[RU 1983 228](https://fedlex.data.admin.ch/eli/oc/1983/228_228_228)]
+[^annex1-lvlu1-14]: [[RU 1985 785](https://fedlex.data.admin.ch/eli/oc/1985/785_785_785)]
+[^annex1-lvlu1-15]: [[RU 1999 3590](https://fedlex.data.admin.ch/eli/oc/1999/513), [2002 3652](https://fedlex.data.admin.ch/eli/oc/2002/558)all. n. 1, [2007 4313](https://fedlex.data.admin.ch/eli/oc/2007/576)]
+[^annex1-lvlu1-16]: [[RU 2007 4315](https://fedlex.data.admin.ch/eli/oc/2007/577)]
+[^annex1-lvlu1-17]: [[RU 2005 4817](https://fedlex.data.admin.ch/eli/oc/2005/649), [2007 4323](https://fedlex.data.admin.ch/eli/oc/2007/578)]
+[^annex1-lvlu1-18]: [[RU 2004 4489](https://fedlex.data.admin.ch/eli/oc/2004/680), [2005 4825](https://fedlex.data.admin.ch/eli/oc/2005/650), [2007 4325](https://fedlex.data.admin.ch/eli/oc/2007/579)]
+[^annex1-lvlu1-19]: [[RU 2004 4497](https://fedlex.data.admin.ch/eli/oc/2004/681), [2007 4327](https://fedlex.data.admin.ch/eli/oc/2007/580)]
+[^annex1-lvlu1-20]: [[RU 2005 4827](https://fedlex.data.admin.ch/eli/oc/2005/651), [2007 4329](https://fedlex.data.admin.ch/eli/oc/2007/581)]
+[^annex1-lvlu1-21]: [[RU 1982 584](https://fedlex.data.admin.ch/eli/oc/1982/584_584_584)]
+[^annex1-lvlu1-22]: [[RU 2007 4331](https://fedlex.data.admin.ch/eli/oc/2007/582)]
+[^annex1-lvlu1-23]: [[RU 1982 591](https://fedlex.data.admin.ch/eli/oc/1982/591_591_591)]
+[^annex1-lvlu1-24]: [[RU 2004 4505](https://fedlex.data.admin.ch/eli/oc/2004/682), [2007 4337](https://fedlex.data.admin.ch/eli/oc/2007/583)]
+[^annex1-lvlu1-25]: [[RU 1980 781](https://fedlex.data.admin.ch/eli/oc/1980/781_781_781)]
+[^annex1-lvlu1-26]: [[RU 1982 321](https://fedlex.data.admin.ch/eli/oc/1982/321_321_321)]
+[^annex1-lvlu1-27]: [[RU 2004 4513](https://fedlex.data.admin.ch/eli/oc/2004/683), [2007 4339](https://fedlex.data.admin.ch/eli/oc/2007/584)]
+[^annex1-lvlu1-28]: [[RU 2003 3398](https://fedlex.data.admin.ch/eli/oc/2003/477)]
+[^annex1-lvlu1-29]: [[RU 2001 2569](https://fedlex.data.admin.ch/eli/oc/2001/385), [2003 3403](https://fedlex.data.admin.ch/eli/oc/2003/478)all. n. 2]
+[^annex1-lvlu1-30]: [[RU 2001 2574](https://fedlex.data.admin.ch/eli/oc/2001/386), [2003 3403](https://fedlex.data.admin.ch/eli/oc/2003/478)all. n. 3]
+[^annex1-lvlu1-31]: [[RU 2003 3413](https://fedlex.data.admin.ch/eli/oc/2003/479)]
+[^annex1-lvlu1-32]: [[RU 2002 3892](https://fedlex.data.admin.ch/eli/oc/2002/599), [2003 4791](https://fedlex.data.admin.ch/eli/oc/2003/702)]
+
+Allegato 2
+
+(art. 35)
+
+## Modifica del diritto vigente
+
+Le ordinanze qui appresso sono modificate come segue:
+
+...[^annex2-lvlu1-1]
+
+[^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2008 6007](https://fedlex.data.admin.ch/eli/oc/2008/832).

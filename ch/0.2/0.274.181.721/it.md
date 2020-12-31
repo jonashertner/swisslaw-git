@@ -1,0 +1,41 @@
+---
+sr: "0.274.181.721"
+title: "Dichiarazione del 29 novembre 1900 fra la Svizzera e il Belgio circa la trasmissione diretta degli atti giudiziari, ecc."
+eli: "https://fedlex.data.admin.ch/eli/cc/18/295_271_289"
+language: it
+version: 1900-11-29
+adopted: 1900-11-29
+in_force: 1900-11-29
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/295_271_289/19001129/it/xml/fedlex-data-admin-ch-eli-cc-18-295_271_289-19001129-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/295_271_289/19001129/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Dichiarazione fra la Svizzera e il Belgio circa la trasmissione diretta degli atti giudiziali, ecc.
+
+CS **12** 286
+
+Traduzione
+
+Data il 29 novembre 1900 Entrata in vigore il 29 novembre 1900
+
+(Stato 29 novembre 1900)
+
+Il governo della Confederazione svizzera e il governo di Sua Maestà il Re dei Belgi,
+
+affine di semplificare le regole fin qui seguite per la trasmissione degli atti giudiziali o stragiudiziali e delle rogatorie in materia civile o commerciale,
+
+hanno convenuto quanto segue:[^ingress-1]
+
+le autorità giudiziarie svizzere[^ingress-2] e belghe (tribunali e pubblici ministeri) hanno facoltà di corrispondere direttamente fra loro per la trasmissione degli atti giudiziali o stragiudiziali e delle rogatorie nelle cause civili o commerciali, quando speciali circostanze non richiedano la trasmissione in via diplomatica.
+
+Così fatto in doppio esemplare, a Berna, il 29 novembre 1900.
+
+<table>
+<tr><td>Il plenipotenziario svizzero:</td><td>Il plenipotenziario belga:</td></tr>
+<tr><td>Brenner</td><td>C.<sup>e</sup> de Lalaing</td></tr>
+</table>
+
+[^ingress-1]: Tra la Svizzera e il Belgio sono attualmente applicabili anche la Conv. dell’Aja del 15 nov. 1965 relativa alla notificazione e alla comunicazione all’estero degli atti giudiziari e extragiudiziari in materia civile o commerciale ([RS 0.274.131](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1200)) e la Conv. del 1° mar. 1954 relativa alla procedura civile ([RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)).
+[^ingress-2]: Un elenco aggiornato delle autorità giudiziarie svizzere ai sensi di questa dichiarazione può essere consultato in internet all’indirizzo seguente: [www.rhf.admin.ch/it/](https://www.rhf.admin.ch/it/) &gt; Diritto civile &gt; autorità &gt; Elenco delle autorità svizzere

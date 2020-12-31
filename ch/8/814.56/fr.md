@@ -1,0 +1,256 @@
+---
+sr: "814.56"
+title: Ordonnance du 26 avril 2017 sur les émoluments perçus dans le domaine de la radioprotection (OE-RaP)
+short: OE-RaP
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/511"
+language: fr
+version: 2018-01-01
+adopted: 2017-04-26
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-511-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les émoluments perçus dans le domaine de la radioprotection
+
+(OE-RaP)
+
+du 26 avril 2017 (Etat le 1<sup>er</sup> janvier 2018)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 42 de la loi du 22 mars 1991 sur la radioprotection (LRaP)[^ingress-1]*,*
+
+arrête:
+
+[^ingress-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance régit les émoluments requis pour les mesures, les prestations de services et les décisions de l’Office fédéral de la santé publique (OFSP) et des organes mandatés par ses soins dans le domaine de la radioprotection.
+
+#### Art. 2
+
+**Applicabilité de l’ordonnance générale sur les émoluments**
+
+Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^2-1] sont applicables pour autant que la présente ordonnance ne prévoie pas de réglementation particulière.
+
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 3
+
+**Régime des émoluments**
+
+Quiconque sollicite une mesure, une prestation de services ou une décision au sens de l’art. 1 est tenu d’acquitter un émolument.
+
+#### Art. 4
+
+**Renonciation à la perception d’émoluments**
+
+<sup>1</sup>
+
+Dans des cas justifiés, il n’est pas nécessaire de percevoir des émoluments, en particulier:
+
+- a. pour l’élimination de la matière radioactive produite lorsque la LRaP n’était pas encore applicable ou dont le propriétaire n’est pas ou plus identifiable;
+- b. pour des prestations de services qui doivent être fournies en cas d’événement en vue d’assurer la sécurité de la population et lorsqu’aucun responsable ne peut être identifié.
+- [tab] <sup>2</sup> Si le propriétaire ou le responsable visé à l’al. 1 est identifié par la suite, l’OFSP peut facturer après coup l’émolument dû.
+
+#### Art. 5
+
+**Calcul des émoluments**
+
+<sup>1</sup> Les émoluments sont calculés selon les taux fixés dans l’annexe.
+
+<sup>2</sup> Les émoluments sont calculés en fonction du temps consacré pour les mesures, prestations de services ou décisions qui ne sont pas mentionnées dans l’annexe ou celles pour lesquelles cette modalité y est fixée. Le tarif horaire se situe, suivant les connaissances techniques nécessaires et le niveau de fonction du personnel en charge, entre 100 et 200 francs. Les temps de déplacement et d’attente sont comptés comme temps de travail.
+
+#### Art. 6
+
+**Supplément d’émolument**
+
+L’OFSP et les organes qu’il a mandatés peuvent exiger un supplément pouvant atteindre 50 % de l’émolument de base si, sur demande, la prestation de services a été effectuée d’urgence, en dehors de l’horaire normal de travail ou a demandé une charge administrative extraordinaire.
+
+#### Art. 7
+
+**Débours**
+
+Sont réputés débours, outre les frais prévus à l’art. 6 OGEmol[^7-1], les frais supplémentaires afférents à une prestation de services donnée, à savoir les indemnités prévues aux art. 8*l* à 8*t* de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^7-2].
+
+[^7-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^7-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 8
+
+**Facturation, décision fixant les émoluments**
+
+<sup>1</sup> Si l’OFSP confie une tâche à un autre organe, il peut habiliter ce dernier à facturer lui-même les émoluments.
+
+<sup>2</sup> En cas de litige concernant la facture, l’OFSP rend une décision fixant les émoluments.
+
+#### Art. 9
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 5 juillet 2006 sur les émoluments dans le domaine de la radioprotection[^9-1] est abrogée.
+
+[^9-1]: [[RO 2006 2949](https://fedlex.data.admin.ch/eli/oc/2006/451), [2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)annexe 6 ch. 4]
+
+#### Art. 10
+
+**Disposition transitoire**
+
+La présente ordonnance s’applique aux mesures, aux prestations de services et aux décisions encore en cours ou qui ne sont pas encore exécutoires au moment de son entrée en vigueur.
+
+#### Art. 11
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
+
+Annexe
+
+(art. 5, al. 1)
+
+## Forfaits
+
+### A. Autorisations concernant l’utilisation des rayonnements ionisants (art. 9 de l’ordonnance du 27 avril 2017 sur la radioprotection [ORaP]****)
+
+[^annexu1-lvlu1-lvlA-1]
+
+[^annexu1-lvlu1-lvlA-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td colspan="2">I. Applications médicales</td></tr>
+<tr><td>1. Installations dans les hôpitaux de district / régionaux, hôpitaux cantonaux, instituts privés, hôpitaux universitaires, cabinets et cliniques dentaires</td><td></td></tr>
+<tr><td>1.1 Petite installation de radiographie dentaire jusqu’à 70 kV</td><td>400</td></tr>
+<tr><td>1.2 Orthopantomographe / appareil de radiographie panoramique, orthopantomographe avec radiographie à distance, tomographe volumique numérisé</td><td>650</td></tr>
+<tr><td>2. Installations dans les cabinets médicaux et en chiropraxie</td><td></td></tr>
+<tr><td>2.1 Installation de radiographie</td><td>650</td></tr>
+<tr><td>2.2 Installation de radiographie et de radioscopie</td><td>700</td></tr>
+<tr><td>3. Installations dans les hôpitaux de districts / régionaux, hôpitaux cantonaux, instituts privés, hôpitaux universitaires</td><td></td></tr>
+<tr><td>3.1 Installation de radiographie</td><td>950</td></tr>
+<tr><td>3.2 Installation de radiographie et de radioscopie</td><td>1 000</td></tr>
+<tr><td>3.3 Mammographe</td><td>950</td></tr>
+<tr><td>3.4 Simulateur</td><td>1 000</td></tr>
+<tr><td>3.5 Installation radiologique pour la thérapie de surface</td><td>950</td></tr>
+<tr><td>3.6 Installation radiologique pour la thérapie en profondeur</td><td>1 600</td></tr>
+<tr><td>3.7 Installation pour les applications à doses élevées en cardiologie et en radiologie interventionnelle</td><td>1 150</td></tr>
+<tr><td>3.8 Tomodensitomètre</td><td>1 600</td></tr>
+<tr><td>3.9 Appareil *afterloading*, unité d’irradiation</td><td>2 000</td></tr>
+<tr><td>3.10 Accélérateur linéaire</td><td>2 600</td></tr>
+<tr><td>4. Médecine nucléaire</td><td></td></tr>
+<tr><td>4.1 Diagnostic, secteur de travail de type C</td><td>1 400</td></tr>
+<tr><td>4.2 Thérapie, secteur de travail de type B /C</td><td>2 600</td></tr>
+<tr><td>4.3 Equipement TEP-CT</td><td>2 000</td></tr>
+<tr><td>4.4 Equipement SPECT-CT</td><td>1 750</td></tr>
+<tr><td>4.5 Chambres pour patients</td><td>1 400</td></tr>
+<tr><td>5. Installations de médecine vétérinaire, de médecine légale et celles utilisées pour la recherche et la formation</td><td></td></tr>
+<tr><td>5.1 Petite installation de radiographie dentaire jusqu’à 70 kV</td><td>400</td></tr>
+<tr><td>5.2 Installation de radiographie</td><td>650</td></tr>
+<tr><td>5.3 Installation de radiographie et de radioscopie</td><td>700</td></tr>
+<tr><td>5.4 Tomodensitomètre</td><td>1 150</td></tr>
+<tr><td>5.5 Accélérateur linéaire</td><td>2 600</td></tr>
+<tr><td>6. Installation de densitométrie osseuse</td><td>500</td></tr>
+<tr><td colspan="2">II. Applications non médicales</td></tr>
+<tr><td>1. Installation radiologique à usage non médical</td><td></td></tr>
+<tr><td>1.1 avec un dispositif de protection totale</td><td>500</td></tr>
+<tr><td>1.2 sans dispositif de protection totale</td><td>800</td></tr>
+<tr><td>2. Accélérateur non médical</td><td>1 400</td></tr>
+<tr><td>3. Installation de contrôle des eaux usées</td><td>1 400</td></tr>
+<tr><td>4. Commerce, location, assurance de la qualité</td><td></td></tr>
+<tr><td>4.1 *Exclusivement* le commerce (achat, remise), la location d’installations ou *exclusivement* l’exécution de mesures d’assurance de qualité sur les installations, sur les appareillages d’examen en médecine nucléaire et les activimètres ou sur les systèmes de réception et de restitution d’images en radiodiagnostic en vertu de l’art. 9, let. g, ORaP.</td><td>2 100</td></tr>
+<tr><td>4.2 Commerce (achat, remise), équipement, test de réception, entretien, examen de l’état, suivi, expériences, démonstrations, présentation, remise d’installations à des fins diagnostiques dans le domaine des faibles doses et des doses modérées au sens de l’art. 26, let. a et b, ORaP, *y compris* l’exécution de mesures d’assurance de qualité sur les installations, sur les appareillages d’examen en médecine nucléaire et les activimètres ou sur les systèmes de réception et de restitution d’images en radiodiagnostic en vertu de l’art. 9, let. g, ORaP.</td><td>3 900</td></tr>
+<tr><td>4.3 Commerce (achat, remise), équipement, test de réception, entretien, examen de l’état, suivi, expériences, démonstrations, présentation, remise d’installations à des fins diagnotiques/thérapeutiques dans le domaine des doses élevées au sens de l’art. 26, let. c, ORaP, *y compris* l’exécution de mesures d’assurance de qualité sur les installations, sur les appareillages d’examen en médecine nucléaire et les activimètres ou sur les systèmes de réception et de restitution d’images en radiodiagnostic en vertu de l’art. 9, let. g, ORaP.</td><td>5 100</td></tr>
+<tr><td>5. Commerce de sources radioactives</td><td>550</td></tr>
+<tr><td>6. Ecoles</td><td></td></tr>
+<tr><td>6.1 Utilisation de sources radioactives ou d’installations</td><td>650</td></tr>
+<tr><td>7. Utilisation de sources radioactives scellées</td><td></td></tr>
+<tr><td>7.1 jusqu’à 10 sources radioactives scellées</td><td>650</td></tr>
+<tr><td>7.2 plus de 10 sources radioactives scellées</td><td>1 150</td></tr>
+<tr><td>8. Utilisation de sources radioactives scellées de haute activité</td><td></td></tr>
+<tr><td>8.1 jusqu’à 3 sources radioactives scellées de haute activité</td><td>800</td></tr>
+<tr><td>8.2 plus de 3 sources radioactives scellées de haute activité</td><td>1 400</td></tr>
+<tr><td>9. Utilisation de sources radioactives non scellées</td><td></td></tr>
+<tr><td>9.1 Utilisation simple dans le secteur contrôlé</td><td>650</td></tr>
+<tr><td>9.2 Secteur de travail de type C</td><td>1 100</td></tr>
+<tr><td>9.3 Secteur de travail de type B</td><td>1 400</td></tr>
+<tr><td>10. Autorisation de transport</td><td>800</td></tr>
+<tr><td>11. Octroi d’une autorisation pour les entreprises actives dans le domaine de surveillance de la Suva</td><td>200</td></tr>
+</table>
+
+### B. Reconnaissance des formations et des formations continues (art. 180 ORaP)
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>1. Reconnaissance d’un cycle de formation en radioprotection</td><td>1 000</td></tr>
+<tr><td>2. Reconnaissance d’un cycle de formation continue en radioprotection</td><td>500</td></tr>
+</table>
+
+### C. Agrément des services de dosimétrie individuelle (art. 66 ORaP)
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>1. Agrément par l’OFSP d’un service de dosimétrie individuelle dans le domaine de surveillance de l’OFSP ou de la Suva</td><td>1 200</td></tr>
+<tr><td>2. Agrément par l’OFSP d’un service accrédité de dosimétrie individuelle dans le domaine de surveillance de l’OFSP ou de la Suva</td><td>500</td></tr>
+</table>
+
+### D. Agrément des services de mesure du radon (art. 159 ORaP)
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>Agrément d’un service de mesure du radon</td><td>500</td></tr>
+</table>
+
+### E. Emoluments uniques en lien avec les autorisations et les reconnaissances
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>1. Octroi d’une autorisation provisoire pour le remplacement urgent d’une installation existante</td><td>100</td></tr>
+<tr><td>2. Autorisation séparée d’importation / exportation de sources radioactives scellées scellées de haute activité (art. 103, al. 4, ORaP)</td><td>350</td></tr>
+<tr><td>3. Reconnaissance individuelle d’une formation et d’une formation continue en radioprotection (art. 178 ORaP)</td><td>250</td></tr>
+</table>
+
+### F. Mesures (art. 15, al. 3, ORaP)
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>1. Mesure gamma</td><td>300</td></tr>
+<tr><td>2. Mesure par scintillation liquide</td><td>200</td></tr>
+</table>
+
+### G. Conditionnement, stockage temporaire et dépôt en couches géologiques profondes de déchets radioactifs soumis à l’obligation de livraison (art. 119 et 120 ORaP)
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>1. Conditionnement et stockage temporaire</td><td></td></tr>
+<tr><td>1.1 Déchets conditionnés par m<sup>3</sup></td><td>17 500</td></tr>
+<tr><td>1.2 Déchets non conditionnés (volume de déchets effectif)</td><td></td></tr>
+<tr><td>a. sources radioactives scellées</td><td></td></tr>
+<tr><td>*émetteur β/γ*</td><td></td></tr>
+<tr><td>par source Q2: 10<sup>-4</sup> A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></td><td>4 100</td></tr>
+<tr><td>par source Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></td><td>5 851</td></tr>
+<tr><td>par source Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</td><td>en fonction du temps consacré</td></tr>
+<tr><td>*émetteur α*</td><td></td></tr>
+<tr><td>par source QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></td><td>4 100</td></tr>
+<tr><td>par source QA3:10<sup>-1</sup> A<sub>2</sub>&lt;QA3</td><td>en fonction du temps consacré</td></tr>
+<tr><td>b. autres déchets non conditionnés par m<sup>3</sup></td><td>94 000</td></tr>
+<tr><td>1.3 Minimum pour de petites quantités</td><td>100</td></tr>
+<tr><td>2. Dépôt en couches géologiques profondes</td><td></td></tr>
+<tr><td>2.1 Déchets conditionnés par m<sup>3</sup></td><td>24 000</td></tr>
+<tr><td>2.2 Déchets non conditionnés</td><td></td></tr>
+<tr><td>a. sources radioactives scellées</td><td></td></tr>
+<tr><td>*émetteur β/γ*</td><td></td></tr>
+<tr><td>par source Q2: 10<sup>-4</sup> A<sub>2</sub>&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></td><td>800</td></tr>
+<tr><td>par source Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></td><td>3 500</td></tr>
+<tr><td>par source Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</td><td>en fonction du temps consacré</td></tr>
+<tr><td>*émetteur α*</td><td></td></tr>
+<tr><td>par source QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></td><td>800</td></tr>
+<tr><td>par source QA3: 10<sup>-1</sup> A<sub>2</sub>&lt;QA3</td><td>en fonction du temps consacré</td></tr>
+<tr><td>b. autres déchets non conditionnés par m<sup>3</sup></td><td>24 000</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvlG-1]: Les valeurs A<sub>2</sub> figurent dans l’Accord européen du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).

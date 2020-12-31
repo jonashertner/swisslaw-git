@@ -1,0 +1,312 @@
+---
+sr: "142.209"
+title: "Ordinanza del 24 ottobre 2007 sugli emolumenti della legge federale sugli stranieri e la loro integrazione (Ordinanza sugli emolumenti LStrI, OEmol-LStrI)"
+short: OEmol-LStrI
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
+language: it
+version: 2021-01-01
+adopted: 2007-10-24
+in_force: 2008-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli emolumenti della legge federale sugli stranieri e la loro integrazione
+
+(Ordinanza sugli emolumenti LStrI, OEmol-LStrI)
+
+del 24 ottobre 2007 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 123 capoverso 2 legge federale del 16 dicembre 2005[^ingress-1] sugli stranieri e la loro integrazione (LStrI)[^ingress-2],
+
+ordina:
+
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Campo di applicazione**[^1-1]
+
+La presente ordinanza disciplina gli emolumenti per le decisioni e le prestazioni fornite in applicazione della LStrI e dell’Accordo del 21 giugno 1999[^1-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (ALC), della Convenzione del 4 gennaio 1960[^1-3] istitutiva dell’Associazione europea di libero scambio (Convenzione AELS) e degli Accordi di associazione alla normativa di Schengen nonché dell’Accordo del 25 febbraio 2019[^1-4] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone.
+
+[^1-1]: Nuovo testo giusta il n. III 2 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^1-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^1-4]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+
+#### Art. 2
+
+**Applicabilità dell’ordinanza generale sugli emolumenti**
+
+Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale sugli emolumenti dell’8 settembre 2004[^2-1].
+
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 3
+
+**Assoggettamento**
+
+<sup>1</sup> È tenuto a pagare un emolumento chi sollecita una decisione o una prestazione ai sensi dell’articolo 1.
+
+<sup>2</sup> Le persone che hanno presentato una domanda a favore di uno straniero rispondono solidalmente con quest’ultimo.
+
+#### Art. 4
+
+**Determinazione degli emolumenti**
+
+<sup>1</sup> Se non è prevista un’aliquota speciale, gli emolumenti sono calcolati in funzione del tempo impiegato.
+
+<sup>2</sup> La tariffa oraria varia da 100 a 250 franchi a seconda delle conoscenze speciali necessarie.
+
+#### Art. 5
+
+**Supplemento**
+
+Per le decisioni e le prestazioni che, su domanda, sono fornite d’urgenza o fuori del normale orario di lavoro nonché per le procedure e le prestazioni di eccezionale entità o di particolare difficoltà possono essere riscossi supplementi fino al 50 per cento dell’emolumento di base.
+
+#### Art. 6
+
+**Incasso**
+
+<sup>1</sup> Gli emolumenti possono essere riscossi anticipatamente, contro rimborso o dietro fatturazione.
+
+<sup>2</sup> All’estero gli emolumenti vanno pagati anticipatamente nella valuta del rispettivo Paese. Nei Paesi senza valuta convertibile, previa intesa con il Dipartimento federale degli affari esteri (DFAE), gli emolumenti possono essere riscossi in un’altra valuta.
+
+<sup>3</sup> Il corso del cambio delle valute di cui al capoverso 2 è fissato dalle rappresentanze diplomatiche e consolari svizzere secondo le istruzioni del DFAE.
+
+#### Art. 7
+
+**Emolumenti cantonali**
+
+Per gli emolumenti cantonali, la procedura è retta dal diritto cantonale.
+
+## Sezione 2: Emolumenti cantonali
+
+#### Art. 8
+
+**Emolumenti cantonali massimi**[^8-1]
+
+<sup>1</sup> Gli emolumenti cantonali massimi relativi ad autorizzazioni previste dal diritto degli stranieri ammontano a:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. per l’autorizzazione relativa al rilascio del visto o per l’assicurazione del rilascio di un permesso</td><td>95</td></tr>
+<tr><td>b. per il rilascio o il rinnovo di permessi di soggiorno di breve durata, di dimora o per frontalieri</td><td>95</td></tr>
+<tr><td>c. per l’autorizzazione di assumere un impiego, di cambiare Cantone, posto o professione</td><td>95</td></tr>
+<tr><td>d. per il rilascio del permesso di domicilio</td><td>95</td></tr>
+<tr><td>e. per la proroga di permessi di soggiorno di breve durata, di dimora o per frontalieri</td><td>75</td></tr>
+<tr><td>f. per la proroga del termine di controllo della carta di soggiorno certificante il domicilio</td><td>65</td></tr>
+<tr><td>g. per la proroga del termine durante il quale resta in vigore il permesso di domicilio di uno straniero che si trova all’estero</td><td>65</td></tr>
+<tr><td>h. per la proroga della carta di soggiorno di persone ammesse provvisoriamente</td><td>40</td></tr>
+<tr><td>i. per la richiesta di un estratto del casellario giudiziale</td><td>25</td></tr>
+<tr><td>j. per tutti i cambiamenti nel Sistema d’informazione centrale sulla migrazione (SIMIC) che non richiedono il rilascio di una nuova carta di soggiorno, nello specifico per il cambiamento di indirizzo</td><td>30</td></tr>
+<tr><td>k. per la conferma della notifica dei lavoratori e dei lavoratori indipendenti</td><td>25</td></tr>
+<tr><td>l. per la verifica, la registrazione e il trattamento in SIMIC di tutte le restanti modifiche alla carta di soggiorno</td><td>40</td></tr>
+<tr><td>m. per il rilascio di un duplicato</td><td>40</td></tr>
+</table>
+
+<sup>2</sup> Gli emolumenti cantonali massimi relativi all’allestimento e alla produzione delle carte di soggiorno ammontano a:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. per il rilascio, la sostituzione e tutte le altre modifiche della carta di soggiorno biometrica</td><td>22</td></tr>
+<tr><td>b. per il rilascio, la sostituzione e tutte le altre modifiche della carta di soggiorno non biometrica</td><td>10</td></tr>
+</table>
+
+<sup>3</sup> Gli emolumenti cantonali massimi relativi al rilevamento e alla registrazione dei dati ammontano a:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. per il rilevamento e la registrazione dei dati biometrici in vista del rilascio della carta di soggiorno biometrica</td><td>20</td></tr>
+<tr><td>b. per il rilevamento e la registrazione della fotografia e della firma in vista del rilascio della carta di soggiorno non biometrica</td><td>15</td></tr>
+</table>
+
+<sup>4</sup>
+
+Per i cittadini di uno Stato parte dell’ALC[^8-2] o di uno Stato membro dell’AELS e per i lavoratori distaccati da un’impresa con sede in uno Stato parte dell’ALC o in uno Stato membro dell’AELS per un soggiorno in Svizzera di oltre 90 giorni lavorativi nell’arco di un anno civile, vigono gli emolumenti massimi seguenti:
+
+- a.[^8-3] l’emolumento per la procedura di cui al capoverso 1 lettera a, b o e, nonché per l’allestimento e la produzione della carta di soggiorno secondo il capoverso 2 lettera b e per il rilevamento e la registrazione dei dati secondo il capoverso 3 lettera b ammonta a 65 franchi al massimo;
+- b. la competente autorità cantonale rinuncia a prelevare un emolumento supplementare se le persone interessate presentano un’assicurazione del rilascio di un permesso (cpv. 1 lett. a);
+- c. per le persone non coniugate e minori di 18 anni, l’emolumento per le procedure di autorizzazione di cui al capoverso 1 lettere a–h, l ed m, nonché per l’allestimento e la produzione della carta di soggiorno secondo il capoverso 2 lettera b e per il rilevamento e la registrazione dei dati secondo il capoverso 3 lettera b, ammonta complessivamente a 30 franchi al massimo. L’emolumento per le prestazioni di cui al capoverso 1 lettere i e j ammonta a 20 franchi al massimo.
+
+<sup>5</sup>
+
+Per i cittadini di uno Stato non parte dell’ALC e non membro dell’AELS, membri della famiglia di un cittadino di uno Stato parte dell’ALC o di uno Stato membro dell’AELS che ha ottenuto un diritto di rimanere ai sensi dell’allegato I articolo 4 ALC o dell’allegato K appendice 1 articolo 4 della Convenzione AELS, vigono gli emolumenti massimi seguenti:
+
+- a. l’emolumento per la procedura di cui al capoverso 1 lettera b o e, nonché per l’allestimento e la produzione della carta di soggiorno secondo il capoverso 2 lettera a e per il rilevamento e la registrazione dei dati secondo il capoverso 3 lettera a, ammonta a 65 franchi al massimo;
+- b. per le persone non coniugate e minori di 18 anni, l’emolumento per le prestazioni di cui alla lettera a del presente capoverso ammonta a 30 ranchi al massimo. L’emolumento per le prestazioni di cui al capoverso 1 lettere i e j ammonta a 20 franchi al massimo.
+
+<sup>6</sup> Per le decisioni e le prestazioni comuni concernenti più di 12 persone si preleva un emolumento di gruppo. Esso ammonta al massimo a 12 emolumenti di cui ai capoversi 1, 4 e 5.
+
+<sup>7</sup> Possono essere prelevati emolumenti per decisioni di rifiuto. Il loro ammontare è determinato in base al tempo effettivamente impiegato.
+
+[^8-1]: Nuovo testo giusta l’all. n. 2 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^8-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^8-3]: Nuovo testo giusta il n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
+
+#### Art. 9
+
+**Determinazione degli emolumenti da parte dei Cantoni**
+
+I Cantoni possono fissare loro stessi gli emolumenti per altre decisioni o prestazioni di diritto degli stranieri non previsti dall’articolo 8 nonché per le decisioni prese in materia di mercato del lavoro in applicazione dell’ordinanza del 24 ottobre 2007[^9-1] sull’ammissione, il soggiorno e l’attività lucrativa.
+
+[^9-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+## Sezione 3: Emolumenti federali
+
+#### Art. 10
+
+**Emolumenti federali**
+
+<sup>1</sup> Gli emolumenti della Segreteria di Stato della migrazione (SEM) per le decisioni ammontano a:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. per la sospensione provvisoria di un divieto d’entrata</td><td>150</td></tr>
+<tr><td>b. per l’abrogazione anticipata di un divieto d’entrata</td><td>150.[^10-1]</td></tr>
+</table>
+
+<sup>2</sup>
+
+L’emolumento per il trattamento dei dati nel SIMIC è compreso nell’ammontare dell’emolumento secondo l’articolo 8 ed è prelevato dalla SEM[^10-2] direttamente presso i Cantoni.[^10-3] Esso ammonta al massimo a 10 franchi per straniero. Per il calcolo dell’emolumento da parte della SEM sono determinanti:
+
+- a. la media degli effettivi della popolazione residente straniera al 31 dicembre dell’anno precedente e al 31 agosto dell’anno corrente; e
+- b. le spese annue della SEM per la costituzione, l’esercizio e l’ammortamento del SIMIC nonché per l’esecuzione della LStrI nella misura in cui non sia già previsto un emolumento speciale secondo la presente ordinanza.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3045](https://fedlex.data.admin.ch/eli/oc/2015/572)).
+[^10-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 sulle pubblicazioni ufficiali del 17 nov. 2004 ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo
+[^10-3]: Nuovo testo giusta il n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+
+#### Art. 11
+
+**Emolumenti per i datori di lavoro**
+
+<sup>1</sup> Il calcolo degli emolumenti per le decisioni relative al mercato del lavoro della SEM è retto dagli articoli 2 e 4.
+
+<sup>2</sup> Gli emolumenti prelevati per le decisioni prese in materia di mercato del lavoro in applicazione dell’ordinanza del 24 ottobre 2007[^11-1] sull’ammissione, il soggiorno e l’attività lucrativa, e che sono diretti al datore di lavoro, sono a carico di quest’ultimo.
+
+[^11-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+## Sezione 4: Emolumenti per i visti
+
+#### Art. 12
+
+**Emolumenti**[^12-1]
+
+<sup>1</sup> L’importo dell’emolumento è fissato in franchi svizzeri e corrisponde ai seguenti importi in euro:
+
+<table>
+<tr><th></th><th>EUR</th></tr>
+<tr><td>a. per una domanda di visto ai sensi degli articoli 8–10 dell’ordinanza del 15 agosto 2018[^12-2] concernente l’entrata e il rilascio del visto</td><td>80</td></tr>
+<tr><td>b. per un visto per bambini di età tra i sei e i 12 anni</td><td>40. [^12-3]</td></tr>
+</table>
+
+<sup>2</sup>
+
+Nell’ambito della sua competenza in materia di visti la SEM o il DFAE può, in singoli casi, ridurre o condonare l’emolumento:
+
+- a. al fine di promuovere interessi culturali o sportivi oppure interessi in materia di politica estera, di politica di sviluppo o altri importanti interessi pubblici della Svizzera; o
+- b. per motivi umanitari o per ossequiare obblighi internazionali.[^12-4]
+
+<sup>3</sup> …[^12-5]
+
+<sup>4</sup> Sono fatti salvi gli emolumenti previsti da accordi internazionali.
+
+<sup>5</sup> L’autorità cantonale che rilascia un visto rimette la metà dell’emolumento alla SEM.
+
+[^12-1]: Nuovo testo giusta il n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^12-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^12-3]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^12-4]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^12-5]: Abrogato dal n. II dell’O del 12 mar. 2010, con effetto dal 5 apr. 2010 ([RU 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
+
+#### Art. 13
+
+**Visti esenti da emolumento**
+
+<sup>1</sup>
+
+I visti sono esenti da emolumento per i seguenti stranieri :
+
+- a. i minori di sei anni;
+- b. le persone che vengono in Svizzera in missione ufficiale, comprese le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^13-1] sullo Stato ospite;
+- c. i titolari di passaporti ufficiali, in particolare di un passaporto diplomatico, di servizio o speciale valido;
+- d. gli scolari, gli studenti, gli studenti postgrado e gli insegnanti-accompagnatori per un viaggio a fini di studio o formazione;
+- e. i ricercatori cittadini di Paesi terzi, ai quali è applicabile la raccomandazione 2005/761/CE[^13-2];
+- e<sup>bis</sup>.[^13-3] i rappresentanti di organizzazioni di utilità pubblica fino all’età di 25 anni che partecipano a manifestazioni organizzate da organizzazioni di utilità pubblica;
+- f. i borsisti dei Politecnici federali, della Commissione federale delle borse e del Fondo nazionale svizzero per le ricerche scientifiche;
+- g. i borsisti delle Nazioni Unite, delle istituzioni specializzate e di altri organi dell’ONU che vengono in Svizzera presso queste organizzazioni per ricevere istruzioni o per presentare il loro rapporto finale;
+- h. i borsisti della cooperazione tecnica bilaterale e multilaterale o di organizzazioni private, quali la Fondazione Ford o la Fondazione Rockefeller, come pure Swissaid, Swisscontact e Helvetas, che vengono in Svizzera a scopo d’istruzione;
+- i. i familiari delle persone menzionate nelle lettere b–h;
+- j. i visitatori di fiere ed esposizioni svizzere di portata internazionale e particolarmente rilevanti per l’economia svizzera;
+- k. i membri del Comitato olimpico;
+- l. gli stranieri che sono sposati con un cittadino svizzero o che vivono in un’unione domestica registrata con un cittadino svizzero;
+- m.
+
+  i seguenti familiari di un cittadino di uno Stato dell’UE o dell’AELS:
+
+  - 1\. il coniuge e i parenti in linea discendente, se minori di 21 anni o a carico,
+  - 2\. i parenti e gli affini in linea ascendente, se a carico,
+  - 3\. nel caso di studenti, il coniuge e i figli a carico.[^13-4]
+
+<sup>2</sup>
+
+D’intesa con il DFAE, la SEM può assoggettare all’emolumento i titolari di passaporti ufficiali rilasciati:
+
+- a. da uno Stato che non accorda la reciprocità;
+- b. per scopi che, secondo la prassi costante della Svizzera o il diritto internazionale pubblico, non giustificano questo rilascio.
+
+<sup>3</sup> È fatta salva l’esenzione dagli emolumenti prevista in trattati internazionali.[^13-5]
+
+[^13-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^13-2]: Raccomandazione del Parlamento europeo e del Consiglio, del 28 set. 2005, diretta a facilitare il rilascio, da parte degli Stati membri, di visti uniformi di soggiorno di breve durata per i ricercatori di paesi terzi che si spostano nella Comunità a fini di ricerca scientifica (GU L 289 del 3.11.2005, pag. 23).
+[^13-3]: Introdotta dal n. II dell’O del 12 mar. 2010, in vigore dal 5 apr. 2010 ([RU 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
+[^13-4]: Nuovo testo giusta il n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^13-5]: Introdotto dal n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 14
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 20 maggio 1987[^14-1] sulle tasse da riscuotere in applicazione della legge federale concernente la dimora e il domicilio degli stranieri è abrogata.
+
+[^14-1]: [[RU 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784), [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266), [1998 194](https://fedlex.data.admin.ch/eli/oc/1998/194_194_194)art. 30 [847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847), [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638), [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 2 [4331](https://fedlex.data.admin.ch/eli/oc/2003/647), [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 4, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 3 [3363](https://fedlex.data.admin.ch/eli/oc/2006/531)[4869](https://fedlex.data.admin.ch/eli/oc/2006/755)n. I 1]
+
+#### Art. 15
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2008.
+
+Allegato*[^t-1]*
+
+(art. 1 cpv. 2)
+
+## Accordi d’associazione a Schengen
+
+[^t-1]: Introdotto dal n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3725](https://fedlex.data.admin.ch/eli/oc/2015/625)).
+
+Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
+
+- a. Accordo del 26 ottobre 2004[^annexu1-lvlu1-1] tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen;
+- b. Accordo del 26 ottobre 2004[^annexu1-lvlu1-2] sotto forma di scambio di lettere tra il Consiglio dell’Unione europea e la Confederazione Svizzera concernente i comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi;
+- c. Convenzione del 22 settembre 2011[^annexu1-lvlu1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
+- d. Accordo del 17 dicembre 2004[^annexu1-lvlu1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
+- e. Accordo del 28 aprile 2005[^annexu1-lvlu1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
+- f. Protocollo del 28 febbraio 2008[^annexu1-lvlu1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
+
+[^annexu1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annexu1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annexu1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
+[^annexu1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annexu1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annexu1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)

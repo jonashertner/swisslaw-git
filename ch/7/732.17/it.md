@@ -1,0 +1,781 @@
+---
+sr: "732.17"
+title: "Ordinanza del 7 dicembre 2007 sul Fondo di disattivazione e sul Fondo di smaltimento per gli impianti nucleari (Ordinanza sul Fondo di disattivazione e sul Fondo di smaltimento, OFDS)"
+short: OFDS
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
+language: it
+version: 2020-01-01
+adopted: 2007-12-07
+in_force: 2008-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2008-64-20200101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul Fondo di disattivazione e sul Fondo di smaltimento per gli impianti nucleari
+
+(Ordinanza sul Fondo di disattivazione e sul Fondo di smaltimento, OFDS)
+
+del 7 dicembre 2007 (Stato 1° gennaio 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 81 capoverso 5, 82 capoverso 2 e 101 della legge federale del 21 marzo 2003[^ingress-1] sull’energia nucleare (LENu),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+## Sezione 1: Sede
+
+#### Art. 1
+
+Il Fondo di disattivazione e il Fondo di smaltimento per gli impianti nucleari (Fondi) hanno sede a Berna.
+
+## Sezione 2: Costi
+
+#### Art. 2
+
+**Costi di disattivazione**
+
+<sup>1</sup> Per costi di disattivazione si intendono tutti i costi derivanti dalla disattivazione di impianti nucleari.
+
+<sup>2</sup>
+
+I costi di disattivazione comprendono in particolare i costi:
+
+- a. di preparazione tecnica della disattivazione;
+- b. di confinamento, manutenzione e sorveglianza dell’impianto;
+- c. di decontaminazione o smontaggio e frammentazione delle parti radioattive e contaminate;
+- d. di trasporto e smaltimento delle scorie radioattive risultanti dalla disattivazione;
+- e. di demolizione di tutte le installazioni tecniche e le strutture edili e di discarica dei rifiuti non radioattivi;
+- f. di decontaminazione del territorio;
+- g. di pianificazione, progettazione, direzione e sorveglianza;
+- h. per le misure protettive contro le radiazioni e gli infortuni professionali;
+- i. di autorizzazione e vigilanza delle autorità;
+- j. di assicurazione;
+- k. amministrativi.
+
+#### Art. 3
+
+**Costi di smaltimento**
+
+<sup>1</sup> Per costi di smaltimento si intendono tutti i costi per lo smaltimento delle scorie radioattive d’esercizio e degli elementi combustibili esausti dopo la messa fuori servizio definitiva di una centrale nucleare.[^3-1]
+
+<sup>2</sup>
+
+I costi di smaltimento comprendono in particolare i costi:
+
+- a. di trasporto e smaltimento delle scorie radioattive d’esercizio;
+- b. di trasporto, rielaborazione e smaltimento degli elementi combustibili esausti;
+- c. per una fase di osservazione di 50 anni di un deposito in strati geologici profondi;
+- d. di pianificazione, progettazione, direzione, costruzione, esercizio, smantellamento e sorveglianza degli impianti di smaltimento;
+- e. per le misure protettive contro le radiazioni e gli infortuni professionali;
+- f. di autorizzazione e vigilanza delle autorità;
+- g. di assicurazione;
+- h. amministrativi.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 4
+
+**Fissazione del prevedibile ammontare dei costi di disattivazione e di smaltimento**[^4-1]
+
+<sup>1</sup> Ogni cinque anni i proprietari di un impianto nucleare tenuti a versare contributi allestiscono uno studio sul prevedibile ammontare dei costi di disattivazione e di smaltimento (studio sui costi) per il loro impianto, la prima volta al momento della sua entrata in servizio.
+
+<sup>2</sup> I costi sono calcolati in base ai piani di disattivazione, al programma di smaltimento delle scorie e alle più recenti conoscenze scientifiche nonché in base ai prezzi in vigore al momento del calcolo.
+
+<sup>2bis</sup> Per il calcolo dei costi deve essere scelta una metodologia che corrisponda allo stato della scienza e della tecnica e consideri i supplementi sui costi per le imprecisioni nelle previsioni, i pericoli e le opportunità, nonché un supplemento di sicurezza generale.[^4-2]
+
+<sup>3</sup> Per il calcolo dei costi di disattivazione e di smaltimento delle centrali nucleari si presume una durata d’esercizio di 50 anni. Sulla base delle informazioni fornite dal proprietario, la Commissione amministrativa del Fondo di disattivazione e del Fondo di smaltimento per gli impianti nucleari (Commissione) può disporre che sia considerata una diversa presumibile durata d’esercizio.
+
+<sup>4</sup> Lo studio sui costi è verificato dall’Ispettorato federale della sicurezza nucleare (IFSN) in merito agli aspetti concernenti la sicurezza e da specialisti indipendenti in merito al calcolo dei costi. Questi ultimi verificano, in particolare, se i costi e i supplementi sono stati stimati in modo realistico.[^4-3]
+
+<sup>5</sup> Sulla base dello studio sui costi e della verifica di cui al capoverso 4, la Commissione chiede al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) di stabilire il prevedibile ammontare dei costi di disattivazione e di smaltimento per ogni impianto nucleare.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^4-2]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 4a
+
+**Nuovo calcolo anticipato dei costi di disattivazione e di smaltimento**[^4a-1]
+
+<sup>1</sup> I costi di disattivazione e di smaltimento devono essere calcolati nuovamente prima della scadenza del termine di cinque anni di cui all’articolo 4 capoverso 1 se, in seguito a circostanze impreviste, occorre prevedere un sostanziale cambiamento dei costi.
+
+<sup>2</sup> La Commissione può autorizzare il posticipo del nuovo calcolo alla successiva scadenza ordinaria dello studio sui costi, qualora questo studio sia comunque previsto in un futuro prossimo.
+
+[^4a-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 5
+
+**Costi amministrativi dei Fondi**
+
+<sup>1</sup>
+
+Per costi amministrativi si intendono in particolare:
+
+- a.[^5-1] le diarie e le indennità per i membri della Commissione nonché per i comitati e i gruppi di specialisti;
+- b.[^5-2] le spese per l’Ufficio e il Servizio di revisione;
+- c. le indennità corrisposte agli specialisti;
+- d. le spese della Confederazione per le attività di vigilanza sul Fondo di disattivazione e sul Fondo di smaltimento;
+- e. altre spese decise dalla Commissione e necessarie per l’adempimento dei suoi compiti;
+- f. le spese giudiziarie e le spese ripetibili a carico dei Fondi.
+- g. i costi di assicurazione degli organi e dei membri della Commissione.
+
+<sup>2</sup> I costi di gestione del patrimonio non sono considerati costi amministrativi.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+## Sezione 3: Obbligo di contribuire e importo dei contributi
+
+#### Art. 6
+
+**Obbligo di contribuire**
+
+<sup>1</sup>
+
+I contributi al Fondo di disattivazione sono versati dai proprietari di impianti nucleari:
+
+- a. che producono essenzialmente energia utile;
+- b. che servono al deposito intermedio di combustibili usati e di scorie radioattive provenienti da centrali nucleari.
+
+<sup>2</sup> I contributi al Fondo di smaltimento sono versati dai proprietari di centrali nucleari.
+
+<sup>3</sup>
+
+Sono esentati dall’obbligo di contribuire per i loro impianti nucleari:
+
+- a. gli istituti del settore dei politecnici federali;
+- b. le università cantonali.
+
+#### Art. 7
+
+**Durata dell’obbligo di contribuire**[^7-1]
+
+<sup>1</sup> L’obbligo di contribuire al Fondo di disattivazione e al Fondo di smaltimento inizia il giorno in cui l’impianto nucleare è messo in servizio.
+
+<sup>2</sup> Esso termina nel momento in cui la disattivazione dell’impianto in questione è conclusa (art. 29 cpv. 1 LENu).
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 8
+
+**Periodo determinante per il versamento dei contributi**[^8-1]
+
+<sup>1</sup> I contributi devono essere versati nel corso della durata d’esercizio fino alla messa fuori servizio definitiva di una centrale nucleare o di un altro impianto nucleare. È fatto salvo l’obbligo di versare contributi dopo la messa fuori servizio definitiva.
+
+<sup>2</sup>
+
+Per messa fuori servizio definitiva si intende:
+
+- a. nel caso di una centrale nucleare, l’interruzione definitiva dell’esercizio produttivo;
+- b. nel caso di un altro impianto nucleare, l’interruzione definitiva dell’esercizio.
+
+<sup>3</sup> I calcoli sono fondati su una durata d’esercizio presunta delle centrali nucleari di 50 anni. Se una centrale nucleare può essere mantenuta in esercizio più a lungo, il DATEC adegua la base di calcolo.
+
+<sup>4</sup> La durata d’esercizio presunta per gli impianti di smaltimento è stabilita nel programma di smaltimento delle scorie.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 8a
+
+**Calcolo e determinazione dei contributi**[^8a-1]
+
+<sup>1</sup> I contributi sono calcolati in modo tale che, al momento della messa fuori servizio definitiva, il corrispondente capitale accumulato, tenuto conto del reddito del capitale e del tasso di rincaro, possa coprire i prevedibili costi di disattivazione e di smaltimento.
+
+<sup>2</sup>
+
+L’importo dei contributi è determinato in base:
+
+- a. al patrimonio dei Fondi;
+- b. ai costi di disattivazione e di smaltimento stabiliti;
+- c. ai costi amministrativi dei Fondi;
+- d. al reddito del capitale accumulato nonché al tasso di rincaro.
+
+<sup>3</sup> Per il calcolo deve essere utilizzato un modello attuariale; il calcolo è eseguito per ogni singolo impianto.
+
+<sup>4</sup> Il reddito del capitale e il tasso di rincaro sono fissati nell’allegato 1. In caso di sostanziali modifiche delle condizioni quadro, il DATEC adegua l’allegato 1 d’intesa con il Dipartimento federale delle finanze e il Dipartimento federale dell’economia, della formazione e della ricerca.
+
+[^8a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 9
+
+**Tassazione e tassazione intermedia fino alla messa fuori servizio definitiva[^9-1]**
+
+<sup>1</sup> All’inizio di un periodo di tassazione di cinque anni, la Commissione fissa i contri-buti annui sulla base dei costi di disattivazione e di smaltimento calcolati.
+
+<sup>2</sup>
+
+La Commissione effettua una tassazione intermedia se:
+
+- a.[^9-2] da un nuovo calcolo dei costi di disattivazione e di smaltimento risulta una differenza superiore al 10 per cento rispetto all’ultimo studio sui costi;
+- b. a causa dell’evoluzione dei mercati finanziari, il valore effettivo del capitale accumulato è inferiore di oltre il 10 per cento al valore teorico in due chiusure di bilancio consecutive;
+- c. le basi di calcolo di cui all’articolo 8*a* capoverso 2 sono adeguate.[^9-3]
+
+<sup>2bis</sup> Il valore effettivo e il valore teorico del capitale accumulato sono determinati conformemente all’allegato 2.[^9-4]
+
+<sup>3</sup> In caso di tassazione intermedia, la Commissione può fissare nuovi contributi annui per il resto del periodo di tassazione.[^9-5]
+
+<sup>4</sup> I contributi sono riscossi annualmente. La Commissione stabilisce le scadenze di pagamento.
+
+<sup>5</sup> La Commissione può fissare il pagamento rateale dei contributi.
+
+<sup>6</sup> I proprietari tenuti a versare contributi possono corrispondere anticipi.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^9-3]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^9-4]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^9-5]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 9a
+
+**Tassazione e tassazione intermedia dopo la messa fuori servizio definitiva**[^9a-1]
+
+<sup>1</sup> Se la messa fuori servizio definitiva ha luogo durante un periodo di tassazione, la Commissione effettua una tassazione intermedia per il resto del periodo di tassazione.
+
+<sup>2</sup> ...[^9a-2]
+
+<sup>3</sup> Se sulla base di una tassazione o di una tassazione intermedia devono essere versati contributi dopo la messa fuori servizio definitiva, la Commissione può accordare termini di pagamento fino a cinque anni.[^9a-3]
+
+<sup>4</sup> La durata del periodo di tassazione resta immutata anche se un impianto viene messo fuori servizio definitivamente durante tale periodo.
+
+<sup>5</sup> Per il resto, si applica per analogia l’articolo 9.
+
+[^9a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9a-2]: Abrogato dal n. I dell’O del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^9a-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 9b
+
+**Conteggio al termine dell’obbligo di contribuire**[^9b-1]
+
+<sup>1</sup> Al termine dell’obbligo di contribuire, viene inviato un conteggio ai proprietari tenuti a versare contributi.
+
+<sup>2</sup> Se al termine dell’obbligo di contribuire sono ancora dovuti contributi, questi ultimi vanno versati entro cinque anni.
+
+[^9b-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 9c
+
+**Messa fuori servizio definitiva anticipata**[^9c-1]
+
+<sup>1</sup> Se una centrale nucleare viene messa fuori servizio definitivamente prima che abbia raggiunto una durata d’esercizio di 50 anni, ai fini degli articoli 8, 8*a*, 9 e 9*a*, quale data di messa fuori servizio definitiva viene considerato il momento in cui sarebbe stata raggiunta la durata d’esercizio di 50 anni.[^9c-2]
+
+<sup>2</sup> Se la centrale appartiene a una società anonima che non dispone di attivi sufficienti a garantire il pagamento dei contributi ancora dovuti, il capoverso 1 è applicabile solamente se la società anonima fornisce una corrispondente garanzia dei suoi azionisti.
+
+[^9c-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9c-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 10
+
+**Forma dei contributi**
+
+Con l’approvazione della Commissione, i contributi possono essere forniti:
+
+- a. sotto forma di titoli;
+- b. fino a concorrenza di un quarto della somma dovuta, sotto forma di contratti di assicurazione conclusi con una compagnia di assicurazioni autorizzata a esercitare in Svizzera o sotto forma di garanzie a favore dei Fondi.
+
+#### Art. 11
+
+**Contratti di assicurazione e garanzie**
+
+<sup>1</sup>
+
+I contratti di assicurazione e le garanzie possono essere considerati alla stregua di contributi se:
+
+- a. garantiscono ai Fondi il diritto incondizionato e irrevocabile di disporne;
+- b. il diritto dei Fondi nei confronti dell’assicuratore o del garante non si estin-gue qualora il proprietario tenuto a versare contributi disattenda i propri obblighi verso l’assicuratore o il garante;
+- c. l’assicuratore o il garante offre garanzia di solvibilità a lungo termine;
+- d. l’assicuratore ha rinunciato irrevocabilmente al diritto di recedere dal contratto, conferitogli dall’articolo 6 della legge federale del 2 aprile 1908[^11-1] sul contratto d’assicurazione.
+
+<sup>2</sup>
+
+Non sono riconosciuti in particolare:
+
+- a. i contratti di assicurazione effettivi soltanto in caso di disattivazione conseguente a un incidente;
+- b. i contratti di assicurazione non effettivi in caso di disattivazione conseguente a un incidente;
+- c. le garanzie dei proprietari tenuti a versare contributi.
+
+<sup>3</sup> Se l’assicuratore o il garante diventano insolventi, il proprietario tenuto a versare contributi paga entro un anno sotto forma di deposito l’importo coperto in precedenza con contratti di assicurazione o garanzie; previa approvazione della Commissione, esso può altrimenti concludere entro sei mesi una nuova assicurazione o fornire una nuova garanzia.
+
+<sup>4</sup> In caso di disdetta dell’assicurazione o della garanzia, il proprietario tenuto a versare contributi deve corrispondere sotto forma di deposito l’importo coperto in precedenza con contratti di assicurazione o garanzie; previa approvazione della Commissione ed entro il termine di disdetta, esso può altrimenti concludere una nuova assicurazione o fornire una nuova garanzia.
+
+[^11-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 12
+
+**Quota dei contratti di assicurazione e delle garanzie**
+
+La quota dei contratti di assicurazione e delle garanzie non deve superare, per ogni proprietario tenuto a versare contributi, un quarto del capitale accumulato.
+
+## Sezione 4: Pretese
+
+#### Art. 13
+
+**Capitale accumulato**
+
+<sup>1</sup>
+
+Le pretese che i proprietari tenuti a versare contributi possono far valere sul capitale accumulato sono pari:
+
+- a. ai depositi effettuati per il corrispondente impianto;
+- b. alla partecipazione agli utili;
+- c. al valore nominale dei contratti di assicurazione e delle garanzie.
+
+<sup>2</sup>
+
+Sono dedotti dal capitale accumulato:
+
+- a. i pagamenti effettuati dai Fondi a favore dell’impianto in questione;
+- b. la quota di costi amministrativi corrispondente all’impianto in questione.
+
+<sup>3</sup> La partecipazione agli utili comprende gli interessi, i dividendi e altri ricavi nonché i profitti e le perdite sul patrimonio dei Fondi. Essa è calcolata per ogni proprietario entro il 31 dicembre dell’anno contabile e versata o addebitata sul suo conto.
+
+<sup>4</sup> ...[^13-1]
+
+[^13-1]: Abrogato dal n. I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 13a
+
+**Rimborso**[^13a-1]
+
+Il capitale accumulato in eccedenza nei Fondi è rimborsato ai proprietari tenuti a versare contributi dopo il conteggio finale secondo l’articolo 78 capoverso 2 LENu.
+
+[^13a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 14
+
+**Quadro finanziario**[^14-1]
+
+<sup>1</sup>
+
+La Commissione stabilisce un quadro finanziario per il versamento delle risorse dei Fondi per il periodo di tassazione quinquennale successivo, conformemente all’articolo 9 capoverso 1. A tale scopo si basa:
+
+- a. sui costi di disattivazione e di smaltimento prevedibili fissati dal DATEC;
+- b. sullo studio sui costi.
+
+<sup>2</sup> In casi eccezionali la Commissione può adeguare il quadro finanziario precedentemente stabilito.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 14a
+
+**Domanda di versamento delle risorse dei Fondi**[^14a-1]
+
+<sup>1</sup> I proprietari chiedono alla Commissione il versamento delle risorse dei Fondi a partire dal momento in cui devono sostenere costi di disattivazione e di smaltimento, presentando annualmente un piano dei costi.
+
+<sup>2</sup> La Commissione approva il piano dei costi e versa ratealmente ai proprietari l’80 per cento dei versamenti autorizzati, esclusa l’imposta sul valore aggiunto.
+
+[^14a-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 14b
+
+**Procedura per il versamento delle risorse dei Fondi**[^14b-1]
+
+<sup>1</sup> I proprietari allestiscono, all’attenzione della Commissione, un conteggio finale dei costi di disattivazione e di smaltimento accumulati e da essi coperti.
+
+<sup>2</sup> La Commissione approva il conteggio finale e compensa le differenze tra i versamenti già effettuati e i costi effettivamente accumulati.
+
+<sup>3</sup> Le risorse dei Fondi sono versate solamente se i proprietari in questione non sono in ritardo con il pagamento dei contributi.
+
+<sup>4</sup> Il proprietario può scegliere se addebitare il pagamento sul suo deposito o se compensarlo nell’ambito dei contratti di assicurazione e delle garanzie.
+
+<sup>5</sup> La Commissione stabilisce in una direttiva i dettagli della procedura per il versamento e i requisiti per il piano dei costi e il conteggio finale.
+
+[^14b-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+## Sezione 5: Politica d’investimento
+
+#### Art. 15
+
+**Collocamento degli averi e contabilità**
+
+<sup>1</sup> Le risorse finanziarie dei Fondi devono essere investite in modo che siano garantite la sicurezza, un’equa rimunerazione e una sufficiente liquidità per ogni centrale.
+
+<sup>1bis</sup> I due Fondi possono essere gestiti congiuntamente.[^15-1]
+
+<sup>2</sup> Per ogni Fondo è tenuta una contabilità separata.
+
+[^15-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 16
+
+**Restrizioni all’investimento**
+
+<sup>1</sup>
+
+Le risorse finanziarie dei Fondi non possono essere investite in:
+
+- a. imprese tenute a versare i contributi;
+- b. imprese con partecipazioni superiori al 20 per cento in un’impresa tenuta a versare i contributi;
+- c. imprese svizzere che, in base a diritti di acquisto di corrente elettrica pro-dotta in centrali nucleari, forniscono oppure acquistano e forniscono succes-sivamente corrente elettrica.
+
+<sup>2</sup> Le restrizioni di cui al capoverso 1 non si applicano agli investimenti collettivi come gli investimenti patrimoniali indicizzati e gli investimenti in fondi.
+
+## Sezione 6: Valuta e contabilità
+
+#### Art. 17
+
+**Valuta**
+
+I costi, i contributi e le pretese sono calcolati in franchi svizzeri.
+
+#### Art. 18
+
+**Contabilità**
+
+<sup>1</sup> L’esercizio contabile corrisponde all’anno civile.
+
+<sup>2</sup> La contabilità dei Fondi è tenuta conformemente alle disposizioni del Codice delle obbligazioni[^18-1] (CO) concernenti la contabilità commerciale e la presentazione dei conti (art. 957–962*a* CO). Gli articoli 961–961*d* CO non sono applicabili.[^18-2] I rendiconti devono presentare lo stato patrimoniale e i risultati annui dei Fondi in modo tale che un terzo possa ricavarne una valutazione affidabile. I rendiconti devono informare sui risultati annui dei Fondi.[^18-3]
+
+<sup>3</sup> I titoli sono esposti a bilancio alla quotazione stabilita dalle banche per la valutazione dei depositi.
+
+<sup>4</sup> ...[^18-4]
+
+[^18-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-2]: Correzione del 12 ago. 2014 ([RU 2014 2487](https://fedlex.data.admin.ch/eli/oc/2014/440)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^18-4]: Abrogato dal n. I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+## Sezione 7:**** Accantonamenti per i costi di smaltimento prima della messa fuori servizio definitiva delle centrali nucleari
+
+[^sec7-1]
+
+[^sec7-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 19
+
+<sup>1</sup> I proprietari sottopongono alla Commissione, per approvazione, il piano di accantonamento per i costi di smaltimento risultanti prima della messa fuori servizio definitiva delle centrali nucleari.
+
+<sup>2</sup> Essi presentano inoltre alla Commissione il rapporto del Servizio di revisione che attesta il rispetto dei piani di accantonamento e l’utilizzazione a destinazione vincolata di accantonamenti.
+
+## Sezione 8: Organizzazione
+
+#### Art. 20
+
+**Organi**[^20-1]
+
+<sup>1</sup>
+
+Gli organi dei Fondi sono:
+
+- a. la Commissione;
+- b. l’Ufficio;
+- c. il Servizio di revisione.
+
+<sup>2</sup> I membri della Commissione e del Servizio di revisione sono nominati dal Consiglio federale, ogni volta per un quadriennio. La durata del mandato coincide con la legislatura del Consiglio nazionale. Essa inizia il 1° gennaio e termina il 31 dicembre.
+
+<sup>3</sup> Il mandato dei membri della Commissione e del Servizio di revisione nominati nel corso della legislatura termina alla fine di quest’ultima.
+
+<sup>4</sup> Ai membri della Commissione si applica per analogia la limitazione della durata della funzione di cui all’articolo 8*i* dell’ordinanza del 25 novembre 1998[^20-2] sull’organizzazione del Governo e dell’Amministrazione (OLOGA).
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^20-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 21
+
+**Commissione**[^21-1]
+
+<sup>1</sup> La Commissione si compone di undici membri al massimo.
+
+<sup>2</sup> I proprietari hanno diritto a un’adeguata rappresentanza, ma al massimo a un terzo dei seggi della Commissione.
+
+<sup>3</sup> I collaboratori del DATEC, dell’IFSN e di imprese che hanno collaborato alla verifica degli studi sui costi su mandato del Fondo di disattivazione e del Fondo di smaltimento non possono essere nominati come membri della Commissione o dei comitati.
+
+<sup>4</sup> Per la rappresentanza dei sessi e delle comunità linguistiche si applicano per analogia gli articoli 8*c* capoverso 1 e 8*c*<sup>bis</sup> capoverso 1 OLOGA[^21-2]. È possibile derogare eccezionalmente a queste disposizioni per ragioni concernenti le qualifiche professionali.
+
+<sup>5</sup> La Commissione può far capo a specialisti.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^21-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 21a
+
+**Indipendenza**[^21a-1]
+
+<sup>1</sup> I membri della Commissione che non rappresentano i proprietari non possono intrattenere con questi ultimi relazioni tali da poter far sorgere il sospetto di parzialità.
+
+<sup>2</sup> Se intende intraprendere un’attività che potrebbe essere incompatibile con l’esigenza di indipendenza, un membro di cui al capoverso precedente deve previamente chiedere la raccomandazione della Commissione. In caso di dubbio, la Commissione chiede una valutazione al DATEC.
+
+[^21a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 21b
+
+**Segreto**[^21b-1]
+
+<sup>1</sup> Le deliberazioni della Commissione, dei suoi comitati e dei gruppi di specialisti non sono pubbliche. Le deliberazioni e i documenti sono confidenziali, sempre che gli interessi pubblici al mantenimento del segreto siano preponderanti.
+
+<sup>2</sup> I membri della Commissione e le altre persone che partecipano alle sedute sottostanno alle disposizioni valide per gli impiegati della Confederazione in merito al segreto d’ufficio e all’obbligo di testimoniare.
+
+<sup>3</sup> Il DATEC è l’autorità competente ai sensi dell’articolo 320 numero 2 del Codice penale[^21b-2].
+
+<sup>4</sup> L’obbligo di serbare il segreto vige anche per i membri che non fanno più parte della Commissione.
+
+[^21b-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 21c
+
+**Indennizzo dei membri della Commissione**[^21c-1]
+
+<sup>1</sup> Salvo disposizione contraria della presente ordinanza, l’indennità è retta per analogia dagli articoli 8*l*–8*t* OLOGA[^21c-2] per le commissioni di vigilanza sul mercato della categoria M2/A.
+
+<sup>2</sup> Per i presidenti dei comitati si applicano gli stessi importi previsti per i presidenti.
+
+<sup>3</sup> Il DATEC può aumentare gli importi al massimo del 50 per cento per i membri indipendenti.
+
+[^21c-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21c-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 22
+
+**Comitati e gruppi di specialisti[^22-1]**
+
+<sup>1</sup> La Commissione può istituire comitati e gruppi di specialisti composti di membri della Commissione e di specialisti esterni.[^22-2]
+
+<sup>1bis</sup> I proprietari hanno diritto a un’adeguata rappresentanza, ma al massimo a un terzo dei seggi di ciascun comitato o di ciascun gruppo di specialisti.[^22-3]
+
+<sup>2</sup> Ciascun comitato è presieduto da un membro della Commissione.
+
+<sup>3</sup> I comitati e i gruppi di specialisti preparano la documentazione necessaria per le decisioni della Commissione.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^22-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^22-3]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 23
+
+**Compiti**
+
+La Commissione svolge in particolare i seguenti compiti:
+
+- a.[^23-1] chiede al DATEC di stabilire le prescrizioni per l’allestimento dello studio sui costi;
+- a<sup>bis</sup>.[^23-2] dirige e coordina la verifica dello studio sui costi;
+- a<sup>ter</sup>.[^23-3] chiede al DATEC di stabilire il prevedibile ammontare dei costi di disattivazione e di smaltimento;
+- b. stabilisce il modello attuariale per il calcolo dei contributi, il piano finanzia-rio e il preventivo per i costi di smaltimento;
+- c. stabilisce i contributi dei proprietari ai Fondi;
+- d. decide sull’accettazione di titoli, contratti di assicurazione e altre garanzie;
+- e. fissa l’ammontare e la scadenza delle somme da esigere dai proprietari o da restituire ai medesimi;
+- f. consente la concessione di anticipi fra i Fondi;
+- g. sottopone al DATEC[^23-4], a destinazione del Consiglio federale, proposte concernenti gli anticipi della Confederazione;
+- h. constata che i proprietari abbiano adempiuto integralmente i loro obblighi;
+- i.[^23-5] approva il piano di accantonamento per i costi di smaltimento che precedono la messa fuori servizio definitiva delle centrali nucleari;
+- j. esamina i costi di disattivazione, di smaltimento nonché i costi amministrativi, e li addebita ai Fondi;
+- k. autorizza il pagamento dei costi di smaltimento che non erano inclusi nella stima dei costi;
+- l. fissa l’ammontare e la scadenza delle somme da restituire ai proprietari tenuti a versare contributi conformemente all’articolo 78 capoverso 2 della legge federale del 21 marzo 2003 sull’energia nucleare;
+- m. investe gli averi dei Fondi;
+- n.[^23-6] emana le direttive relative agli investimenti;
+- o. nomina l’Ufficio;
+- p. sceglie gli uffici di deposito e nomina i gestori patrimoniali;
+- q. sceglie i membri dei comitati;
+- r. vigila sull’operato dell’Ufficio e degli specialisti cui esso ha fatto capo;
+- s.[^23-7] fornisce all’Ufficio federale dell’energia (UFE) tutte le informazioni necessarie all’esercizio della vigilanza;
+- t.[^23-8] allestisce i rapporti e i conti annuali e sottopone i rapporti annuali al Consiglio federale per approvazione.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-2]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-3]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-4]: Nuovo termine giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^23-5]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-6]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-7]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-8]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 24
+
+**Firma**
+
+<sup>1</sup> Il presidente o il vicepresidente sono autorizzati a firmare a nome dei Fondi, ciascuno collettivamente con un altro membro della Commissione.
+
+<sup>2</sup> La Commissione può autorizzare altre persone a firmare.
+
+#### Art. 25
+
+**Sedute, quorum, voto**
+
+<sup>1</sup> La Commissione è convocata dal presidente o, in caso di suo impedimento, dal vicepresidente. Si riunisce ogni qualvolta gli affari lo richiedano, ma almeno una volta all’anno o qualora almeno un terzo dei membri ne faccia richiesta.
+
+<sup>2</sup> La Commissione può deliberare validamente se almeno due terzi dei membri sono presenti. Le decisioni sono prese a maggioranza semplice. Il presidente vota e, in caso di parità, decide.
+
+<sup>3</sup> Le decisioni possono essere prese a maggioranza semplice mediante circolazione degli atti se almeno due terzi dei membri votano entro il termine stabilito e se nessun membro chiede la discussione dell’oggetto. Simili decisioni devono essere iscritte nel verbale della successiva seduta della Commissione.
+
+<sup>4</sup> Ogni membro può farsi sostituire a una seduta da un altro membro e abilitarlo a votare in vece sua. Un membro può sostituire al massimo un altro membro.
+
+#### Art. 26
+
+**Ufficio**
+
+<sup>1</sup>
+
+L’Ufficio svolge in particolare i seguenti compiti:
+
+- a. tiene la contabilità ed effettua i pagamenti se la Commissione non decide altrimenti;
+- b. prepara le sedute della Commissione e ne esegue le decisioni;
+- c. redige i verbali.
+
+<sup>2</sup> La Commissione può affidare altri compiti all’Ufficio.
+
+#### Art. 27
+
+**Servizio di revisione**[^27-1]
+
+<sup>1</sup> Al Servizio di revisione e alla revisione si applicano per analogia le disposizioni relative alla revisione ordinaria del diritto della società anonima.
+
+<sup>2</sup> Il Servizio di revisione presenta il risultato degli esami alla Commissione e al DATEC, a destinazione del Consiglio federale.
+
+<sup>3</sup> Dopo la presentazione di nuovi studi sui costi e prima della fissazione dei contributi, il Servizio di revisione certifica la plausibilità del modello attuariale e ne verifica il corretto funzionamento nonché l’acquisizione dei dati dagli studi sui costi.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 28
+
+**Costi**
+
+Le diarie e le indennità di viaggio ai membri della Commissione, nonché le spese dell’Ufficio, del Servizio di revisione, degli specialisti e per i mandati impartiti dalla Commissione sono a carico dei Fondi.
+
+## Sezione 9: Vigilanza e rimedi giuridici
+
+#### Art. 29
+
+**Vigilanza**[^29-1]
+
+I Fondi sottostanno alla vigilanza del Consiglio federale.
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 29a
+
+**Competenze**[^29a-1]
+
+<sup>1</sup>
+
+Il Consiglio federale ha le seguenti competenze:
+
+- a. nomina i membri della Commissione e il suo presidente nonché il suo vicepresidente;
+- b. nomina il Servizio di revisione;
+- c. approva i rapporti annuali;
+- d. dà lo scarico alla Commissione;
+- e. se constata anomalie, può segnatamente revocare o sostituire membri della Commissione nonché il Servizio di revisione.
+
+<sup>2</sup>
+
+Il DATEC ha le seguenti competenze:
+
+- a. emana un regolamento sull’organizzazione dei Fondi, i principi e gli obiettivi degli investimenti patrimoniali nonché le relative condizioni;
+- b. stabilisce nel caso specifico le prescrizioni per allestire lo studio sui costi;
+- c. stabilisce nel caso specifico il prevedibile ammontare dei costi di disattivazione e di smaltimento;
+- d.[^29a-2] su proposta della Commissione, definisce il profilo dei requisiti per i membri della Commissione, i presidenti del comitato per gli investimenti e del comitato per il controllo dei costi e per i rispettivi membri.
+
+<sup>3</sup> L’UFE è competente per la preparazione e l’esecuzione delle decisioni del Consiglio federale e del DATEC.
+
+[^29a-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^29a-2]: Introdotta dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+#### Art. 30
+
+**Rendiconto**
+
+La Commissione presenta i rapporti annuali per ogni Fondo al DATEC, a destinazione del Consiglio federale, e ai proprietari tenuti al versamento dei contributi. Tali rapporti comprendono i conti, i rapporti del Servizio di revisione e forniscono informazioni in merito ai principi e agli obiettivi degli investimenti patrimoniali.
+
+#### Art. 31
+
+**Rimedi giuridici**
+
+La procedura per l’emanazione e l’impugnazione di decisioni del Fondo è disciplinata dalla legislazione in materia di procedura amministrativa e di amministrazione della giustizia federali.
+
+## Sezione 10: Disposizioni finali
+
+#### Art. 32
+
+[^32-1]
+
+[^32-1]: Abrogato dal n. I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 33
+
+**Diritto previgente: abrogazione**
+
+I seguenti atti normativi sono abrogati:
+
+- 1\. ordinanza del 5 dicembre 1983[^33-1] concernente il Fondo di spegnimento;
+- 2\. ordinanza del 6 marzo 2000[^33-2] sul Fondo di smaltimento.
+- 3\. regolamento del DATEC del 21 febbraio 1985[^33-3] concernente il Fondo per lo spegnimento di impianti nucleari;
+- 4\. regolamento del DATEC del 15 ottobre 2001[^33-4] concernente il Fondo per lo smaltimento delle scorie radioattive prodotte dalle centrali nucleari.
+
+[^33-1]: [[RU 1983 1871](https://fedlex.data.admin.ch/eli/oc/1983/1871_1871_1871), [1996 2782](https://fedlex.data.admin.ch/eli/oc/1996/2782_2782_2782), [2001 78](https://fedlex.data.admin.ch/eli/oc/2001/14), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 59]
+[^33-2]: [[RU 2000 1027](https://fedlex.data.admin.ch/eli/oc/2000/159), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 60]
+[^33-3]: [[RU 1985 327](https://fedlex.data.admin.ch/eli/oc/1985/327_327_327), [1994 1757](https://fedlex.data.admin.ch/eli/oc/1994/1757_1757_1757), [1996 3433](https://fedlex.data.admin.ch/eli/oc/1996/3433_3433_3433), **2004** 643]
+[^33-4]: [[RU 2002 66](https://fedlex.data.admin.ch/eli/oc/2002/13), [2004 645](https://fedlex.data.admin.ch/eli/oc/2004/55)]
+
+#### Art. 33a
+
+**Disposizione transitoria della modifica del 25 giugno 2014**[^33a-1]
+
+Il periodo di tassazione di cinque anni di cui all’articolo 9 capoverso 1 viene mantenuto dopo l’entrata in vigore della modifica del 25 giugno 2014.
+
+[^33a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+
+#### Art. 33b
+
+**Modifica di altri atti normativi**[^33b-1]
+
+...[^33b-2]
+
+[^33b-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^33b-2]: La mod. può essere consultata alla [RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675).
+
+#### Art. 34
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° febbraio 2008.
+
+Allegato 1*[^t-1]*
+
+(art. 8*a* cpv. 3)
+
+## Reddito del capitale e tasso di rincaro
+
+[^t-1]: Introdotto dal n. II dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. II cpv. 1 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+Per il calcolo dei contributi secondo l’articolo 8a capoversi 1 e 2 si suppone:
+
+- 1\. un reddito del capitale del 2,1 per cento (dedotti i costi di gestione del patrimonio, comprese le spese bancarie e le tasse di negoziazione);
+- 2\. un tasso di rincaro dello 0,5 per cento.
+
+Allegato 2*[^t-2]*
+
+(art. 8*a* cpv. 2, 9 cpv. 2 e 2<sup>bis</sup>)
+
+## Definizioni e regole per determinare il valore dei Fondi
+
+[^t-2]: Originario all. Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Aggiornato dal n. II cpv. 2 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+
+Nella presente ordinanza:
+
+- 1 Il termine *valore attuale* indica il valore al momento attuale di un importo di denaro atteso in futuro.
+- 1\.1 Il valore attuale si ottiene scontando l’importo futuro con il tasso d’interesse sul capitale, secondo la formula seguente:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/it/xml/image/image1.png)
+
+- PV: valore attuale
+- C<sub>t</sub>: importo al momento t
+- r: tasso d’interesse sul capitale (corrisponde al reddito del capitale di cui all’articolo 8*a* cpv. 2)
+- Δt: periodo di tempo (in anni) fra il momento in cui l’importo C<sub>t</sub> è dovuto e l’anno di riferimento per il calcolo del valore attuale
+
+- 1\.2 Il valore attuale dei costi futuri si determina calcolando con la formula di cui al numero 1.1 il valore attuale di ciascun elemento di costo futuro (= importo C<sub>t</sub>) e sommando poi questi singoli valori attuali per ottenere un valore attuale (complessivo).
+- 2 Il termine *valore effettivo* indica il valore di una quota di Fondo risultante alla data di bilancio per impianto nucleare e per Fondo.
+- 3 ...
+- 4
+
+  Il termine *valore teorico* indica:
+
+  - 4\.1 prima della messa fuori servizio definitiva: il valore alla data di bilancio, che sulla base del valore teorico al termine del precedente periodo di tassazione, mediante contributi annui costanti per tutta la presunta durata d’esercizio residua dell’impianto nucleare (e tenendo conto del reddito del capitale) porta, fino al momento della messa fuori servizio, al valore da raggiungere;
+  - 4\.2 dopo la messa fuori servizio definitiva: il valore attuale dei costi futuri secondo lo studio sui costi più recente, al termine dell’anno civile considerato fino alla conclusione dei lavori di disattivazione o di smaltimento, tenuto conto del reddito del capitale e del tasso di rincaro di cui all’allegato 1.
+
+- 5 Il termine *valore da raggiungere* indica il valore che deve essere raggiunto al momento della messa fuori servizio definitiva di un impianto nucleare.

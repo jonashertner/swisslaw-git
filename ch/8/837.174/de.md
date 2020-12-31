@@ -1,0 +1,160 @@
+---
+sr: "837.174"
+title: Verordnung vom 3. März 1997 über die obligatorische berufliche Vorsorge von arbeitslosen Personen
+eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
+language: de
+version: 2021-01-01
+adopted: 1997-03-03
+in_force: 1997-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die obligatorische berufliche Vorsorge von arbeitslosen Personen
+
+vom 3. März 1997 (Stand am 1. Januar 2021)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 22*a* Absatz 3 des Arbeitslosenversicherungsgesetzes[^ingress-1] (AVIG) und auf Artikel 97 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^ingress-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG),
+
+verordnet:
+
+[^ingress-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^ingress-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 1
+
+**Versicherte Personen**
+
+<sup>1</sup>
+
+Für die Risiken Tod und Invalidität sind obligatorisch versichert arbeitslose Personen, welche:
+
+- a. die Anspruchsvoraussetzungen nach Artikel 8 AVIG für den Bezug von Taggeldern der Arbeitslosenversicherung erfüllen oder Entschädigungen nach Artikel 29 AVIG beziehen; und
+- b. einen koordinierten Tageslohn nach den Artikeln 4 oder 5 erzielen.
+
+<sup>2</sup> Nicht versichert sind Personen, die bereits nach Artikel 47 Absatz 1 oder 47*a* BVG mindestens in dem Umfang versichert sind, in dem sie nach dieser Verordnung versichert wären.[^1-1]
+
+[^1-1]: Fassung gemäss Ziff. II der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+
+#### Art. 2
+
+**Versicherungsschutz**
+
+<sup>1</sup> Die Versicherung beginnt nach Ablauf der Wartezeiten nach Artikel 18 AVIG.[^2-1]
+
+<sup>2</sup> Personen, deren Anspruchsberechtigung eingestellt ist, sind versichert (Art. 30 AVIG).
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2006, in Kraft seit 1. März 2006 ([AS 2006 739](https://fedlex.data.admin.ch/eli/oc/2006/99)).
+
+#### Art. 3
+
+**Grundlage zur Bestimmung des koordinierten Lohnes**
+
+<sup>1</sup> Die Grenzbeträge nach den Artikeln 2, 7 und 8 BVG werden durch 260,4 geteilt (Tagesgrenzbeträge). Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^3-1] über die Invalidenversicherung teilweise invalid sind, werden die Grenzbeträge nach den Artikeln 2, 7 und 8 Absatz 1 BVG folgendermassen gekürzt:
+
+<table>
+<tr><td>Rentenanspruch in Bruchteilen einer ganzen Rente</td><td>Kürzung der Grenzbeträge</td></tr>
+<tr><td>¼</td><td>¼</td></tr>
+<tr><td>½</td><td>½</td></tr>
+<tr><td>¾</td><td>¾.[^3-2]</td></tr>
+</table>
+
+<sup>2</sup> Die Löhne aus Zwischenverdiensttätigkeit (Art. 24 AVIG) und Teilzeitbeschäftigung (Art. 10 Abs. 2 Bst. b AVIG) innerhalb einer Kontrollperiode werden durch die Zahl der in die Kontrollperiode fallenden kontrollierten Tage geteilt (Tageslohn).[^3-3]
+
+[^3-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^3-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 der V vom 10. Juni 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
+
+#### Art. 4
+
+**Koordinierter Tageslohn**
+
+<sup>1</sup> Zu versichern ist der koordinierte Tageslohn.
+
+<sup>2</sup> Der koordinierte Tageslohn ist die positive Differenz aus dem Arbeitslosentaggeld abzüglich des auf einen Tag nach Artikel 3 Absatz 1 umgerechneten Koordinationsabzuges.
+
+<sup>3</sup> Beträgt der koordinierte Tageslohn weniger als der auf den Tag umgerechnete Betrag nach Artikel 8 Absatz 2 BVG, so muss er auf diesen Betrag aufgerundet werden.
+
+<sup>4</sup> Der versicherte Mindestlohn nach Absatz 3 gilt auch für die obligatorische Versicherung von Personen, bei denen die Grenzbeträge nach Artikel 3 Absatz 1 gekürzt werden.[^4-1]
+
+[^4-1]: Eingefügt durch Anhang Ziff. 3 der V vom 10. Juni 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+
+#### Art. 5
+
+**Koordinierter Tageslohn bei Zwischenverdienst und Teilzeitbeschäftigung[^5-1]**
+
+<sup>1</sup>
+
+Der koordinierte Tageslohn ist die positive Differenz aus:
+
+- a.[^5-2] dem Tageslohn aus Zwischenverdiensttätigkeit oder Teilzeitbeschäftigung und
+- b. dem analog zu Artikel 3 Absatz 2 auf einen Tag umgerechneten entschädigungsberechtigten Verdienstausfall
+- c. abzüglich des auf einen Tag nach Artikel 3 Absatz 1 umgerechneten Koordinationsabzuges.
+
+<sup>2</sup> Ist der Tageslohn aus Zwischenverdiensttätigkeit oder Teilzeitbeschäftigung nach Artikel 2 Absatz 1 BVG versichert, so wird vom koordinierten Tageslohn nach Absatz 1 der koordinierte Tageslohn aus Zwischenverdiensttätigkeit oder Teilzeitbeschäftigung abgezogen.[^5-3]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
+
+#### Art. 6
+
+**Koordinierter Lohn für die Berechnung der Hinterlassenen- und Invalidenleistungen**
+
+<sup>1</sup> Als Grundlage für die Berechnung der Leistungen im Todesfalle oder bei Invalidität gilt der koordinierte Tageslohn jener Kontrollperiode, in welcher das versicherte Ereignis eingetreten ist. Konnte die versicherte Person aufgrund des Ereignisses ihre Kontrollpflicht nicht ordnungsgemäss erfüllen, so gelten die Tage jener Kontrollperiode bis und mit auslösendem Ereignis als kontrolliert.
+
+<sup>2</sup> Die Höhe der Renten berechnet sich aus dem vor dem Beginn der Versicherung angesammelten Altersguthaben sowie der Summe der Altersgutschriften für die vom Beginn der Versicherung bis zum Rentenalter fehlenden Jahre, ohne Zins.[^6-1]
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 202](https://fedlex.data.admin.ch/eli/oc/2002/36)).
+
+#### Art. 7
+
+**Ausscheiden der arbeitslosen Personen aus der obligatorischen Versicherung**
+
+Die Weiterführung der Vorsorge für die Risiken Tod und Invalidität für Versicherte, die aus der obligatorischen Versicherung der arbeitslosen Personen (Art. 2 Abs. 1bis BVG[^7-1]) ausscheiden, ist nur möglich, solange die Versicherten:
+
+- a. nicht der obligatorischen Versicherung nach Artikel 2 Absatz 1 oder erneut Absatz 1<sup>bis</sup>[^7-2] BVG unterstehen; oder
+- b. keiner freiwilligen Versicherung nach Artikel 44 oder Artikel 46 BVG beitreten können.
+
+[^7-1]: Heute: Art. 2 Abs. 3 BVG.
+[^7-2]: Heute: erneut Abs. 3.
+
+#### Art. 8
+
+**Festsetzung des Beitragssatzes**
+
+<sup>1</sup> Der Beitragssatz für die Risiken Tod und Invalidität beträgt 0,25 Prozent des koordinierten Tageslohnes.[^8-1]
+
+<sup>2</sup> Die Auffangeinrichtung prüft regelmässig, ob der Beitragssatz kostendeckend ist und erstattet der Ausgleichsstelle der Arbeitslosenversicherung mindestens einmal jährlich Bericht. Ist auf Grund des Risikoverlaufs der Beitragssatz anzupassen, stellt die Auffangeinrichtung der Ausgleichsstelle der Arbeitslosenversicherung zuhanden des Bundesrates Antrag auf Anpassung.[^8-2]
+
+<sup>3</sup> Der Antrag auf Änderung des Beitragssatzes ist der Ausgleichsstelle der Arbeitslosenversicherung spätestens drei Monate vor dem Zeitpunkt einzureichen, auf den die Anpassung wirksam werden soll.[^8-3]
+
+<sup>4</sup> Die Auffangeinrichtung führt eine Statistik über die Risiken Tod und Invalidität der arbeitslosen Personen.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4689](https://fedlex.data.admin.ch/eli/oc/2018/741)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
+
+#### Art. 9
+
+**Beiträge**
+
+<sup>1</sup> Die arbeitslose Person und die Arbeitslosenversicherung tragen die Beiträge je zur Hälfte.
+
+<sup>2</sup> Während Tagen, an denen die arbeitslose Person keine Leistungen erhält, übernimmt die Arbeitslosenversicherung den ganzen Beitrag.
+
+#### Art. 10
+
+**Steuerrechtliche Behandlung der Vorsorge der arbeitslosen Personen**
+
+Die von den Bezügern von Taggeldern der Arbeitslosenversicherung geleisteten Beiträge sind bei den direkten Steuern des Bundes, der Kantone und der Gemeinden von den steuerbaren Einkünften abziehbar.
+
+#### Art. 11
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Juli 1997 in Kraft.

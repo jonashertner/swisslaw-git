@@ -1,0 +1,109 @@
+---
+sr: "742.147.2"
+title: "Ordinanza del 4 novembre 2009 sulla videosorveglianza nei trasporti pubblici (Ordinanza sulla videosorveglianza TP, OVsor-TP)"
+short: OVsor-TP
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/736"
+language: it
+version: 2010-01-01
+adopted: 2009-11-04
+in_force: 2010-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/736/20100101/it/xml/fedlex-data-admin-ch-eli-cc-2009-736-20100101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/736/20100101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla videosorveglianza nei trasporti pubblici
+
+(Ordinanza sulla videosorveglianza TP, OVsor-TP)
+
+del 4 novembre 2009 (Stato 1° gennaio 2010)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 16*b* capoverso 6 della legge federale del 20 dicembre 1957[^ingress-1] sulle ferrovie; visto l’articolo 55 capoverso 6 della legge del 20 marzo 2009[^ingress-2] sul trasporto di viaggiatori (LTV),
+
+ordina:
+
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina la sorveglianza mediante videocamere dei veicoli (art. 2 cpv. 2 lett. b LTV) nonché delle costruzioni, degli impianti e delle installazioni (infrastruttura) delle imprese di trasporti pubblici.
+
+#### Art. 2
+
+**Scopo della videosorveglianza**
+
+<sup>1</sup> La videosorveglianza ha lo scopo di proteggere i viaggiatori, l’esercizio e l’infrastruttura.
+
+<sup>2</sup>
+
+La videosorveglianza è intesa segnatamente a:
+
+- a. proteggere il personale, i viaggiatori, i clienti e i visitatori dalle aggressioni e dalle molestie;
+- b. garantire la sicurezza degli oggetti di valore;
+- c. prevenire i danneggiamenti;
+- d. permettere il rilevamento dei viaggiatori per scopi inerenti alla sicurezza dell’esercizio.
+
+#### Art. 3
+
+**Impiego**
+
+<sup>1</sup> La decisione di impiegare apparecchi video compete alle imprese. La sfera segreta delle persone non può essere sorvegliata (art. 179<sup>quater</sup> del Codice penale[^3-1]).
+
+<sup>2</sup> La videosorveglianza dev’essere segnalata.
+
+[^3-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 4
+
+**Elaborazione delle registrazioni**
+
+<sup>1</sup> Le registrazioni che contengono dati personali sono esaminate al più tardi il giorno feriale successivo alla registrazione. Se per motivi legati all’esercizio o per motivi tecnici non è possibile rispettare tale termine, le registrazioni sono esaminate al più tardi il terzo giorno feriale successivo alla registrazione.
+
+<sup>2</sup> Per quanto tecnicamente possibile le registrazioni sono conservate durante almeno 72 ore.
+
+<sup>3</sup> Fatto salvo l’articolo 5, le registrazioni sono distrutte al più tardi dopo 100 giorni.
+
+#### Art. 5
+
+**Comunicazione di registrazioni**
+
+<sup>1</sup>
+
+Le registrazioni possono essere comunicate soltanto alle autorità seguenti:
+
+- a. autorità federali e cantonali preposte al perseguimento penale;
+- b. autorità alle quali le imprese presentano una denuncia o presso cui fanno valere pretese.
+
+<sup>2</sup> La comunicazione è ammessa soltanto nella misura in cui sia necessaria allo svolgimento del procedimento.
+
+<sup>3</sup> In caso di comunicazione di registrazioni, le stesse possono essere conservate fino a quando il procedimento è chiuso con decisione passata in giudicato.
+
+#### Art. 6
+
+**Protezione e sicurezza dei dati**
+
+<sup>1</sup> Le imprese prendono le misure necessarie per impedire l’accesso ai dati personali a terzi non autorizzati. Esse disciplinano il diritto d’accesso ai dati.
+
+<sup>2</sup> Per il resto si applicano le disposizioni della legge federale del 19 giugno 1992[^6-1] sulla protezione dei dati, in particolare gli articoli 16–25<sup>bis</sup>.
+
+[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 7
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 5 dicembre 2003[^7-1] sulla videosorveglianza FFS è abrogata.
+
+[^7-1]: [[RU 2003 4751](https://fedlex.data.admin.ch/eli/oc/2003/691)]
+
+#### Art. 8
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2010.

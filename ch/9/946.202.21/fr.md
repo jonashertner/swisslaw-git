@@ -1,0 +1,825 @@
+---
+sr: "946.202.21"
+title: "Ordonnance du 21 août 2013 sur le contrôle des produits chimiques utilisables à des fins civiles et militaires (Ordonnance sur le contrôle des produits chimiques, OCPCh)"
+short: OCPCh
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
+language: fr
+version: 2020-06-01
+adopted: 2013-08-21
+in_force: 2013-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20200601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-580-20200601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le contrôle des produits chimiques utilisables à des fins civiles et militaires
+
+(Ordonnance sur le contrôle des produits chimiques, OCPCh)
+
+du 21 août 2013 (Etat le 1<sup>er</sup> juin 2020)
+
+Le Conseil fédéral suisse,
+
+vu les art. 4, 11 et 22, al. 1, de la loi du 13 décembre 1996 sur le contrôle des biens[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**But et champ d’application**
+
+<sup>1</sup> La présente ordonnance règle l’exécution de la Convention du 13 janvier 1993 sur les armes chimiques (CAC)[^1-1].
+
+<sup>2</sup> Elle s’applique aux produits chimiques mentionnés dans l’annexe (tableaux de produits chimiques).
+
+<sup>3</sup> Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) met à jour les tableaux de produits chimiques lorsque des obligations internationales de la Suisse l’exigent.
+
+[^1-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 2
+
+**Définitions**
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *fabrication:* l’obtention d’un produit chimique par le biais d’une réaction chimique ou biochimique, ou d’un processus biologique;
+- b. *traitement:* un processus physique tel que la préparation, l’extraction ou la purification, où le produit chimique n’est pas transformé en un autre;
+- c. *consommation:* la transformation d’un produit chimique en un autre par le biais d’une réaction chimique ou biochimique, ou d’un processus biologique;
+- d. *site d’usines:* plusieurs usines localisées au même endroit;
+- e. *usine:* une zone autonome abritant une ou plusieurs unités;
+- f. *unité:* une installation destinée à la fabrication, au traitement ou à la consommation d’un produit chimique, y compris le matériel nécessaire à cet effet;
+- g. *produit chimique organique défini (PCOD):* tout produit chimique organique selon la définition correspondant à l’état des connaissances scientifiques, à l’exception des polymères d’un poids moléculaire supérieur à 1000 et des produits chimiques contenant seulement des hydrocarbures ou du carbone et des métaux;
+- h. *produit chimique PSF:* un PCOD qui contient un ou plusieurs éléments de phosphore, de soufre ou de fluor et qui n’est pas mentionné dans les tableaux de produits chimiques;
+- i. *sous-produit inévitable:* un produit chimique qui se forme, à défaut d’un autre procédé approprié, lors d’une réaction chimique ou biochimique, ou d’un processus biologique;
+- j. *État partie:* un État qui a ratifié la CAC[^2-1];
+- k. *pays d’origine:* le pays dans lequel un produit chimique a été fabriqué;
+- l. *pays de provenance:* le pays dans lequel un produit chimique a été dédouané en dernier.
+
+[^2-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 3
+
+**Représentations diplomatiques ou consulaires et organisations internationales**
+
+Les livraisons en provenance de représentations diplomatiques ou consulaires, ou d’organisations internationales sises en Suisse ou dans la Principauté de Liechtenstein et les livraisons qui leur sont destinées sont assimilées respectivement, selon la présente ordonnance, à des importations et à des exportations; elles sont soumises aux mêmes obligations en matière de permis et de déclaration.
+
+## Chapitre 2 Compétences
+
+#### Art. 4
+
+**Permis**[^4-1]
+
+<sup>1</sup> Le Conseil fédéral délivre les permis prévus à l’art. 11 sur proposition du DEFR.
+
+<sup>2</sup> Le Secrétariat d’État à l’économie (SECO) autorise les demandes de permis individuels lorsque rien n’indique qu’il existe un motif de refus selon l’art. 6 de la loi du 13 décembre 1996 sur le contrôle des biens (LCB) ou l’art. 20, al. 1, de la présente ordonnance.
+
+<sup>3</sup> Il rejette les demandes de permis lorsqu’il existe un motif de refus visé à l’art. 6 LCB ou à l’art. 20 de la présente ordonnance.
+
+<sup>4</sup> Pour l’examen matériel des demandes de permis, il peut faire appel à d’autres services fédéraux, notamment au Laboratoire Spiez, ainsi qu’à des organisations spécialisées, des associations professionnelles et à des experts.
+
+<sup>5</sup> Dans tous les autres cas, il décide en accord avec les services compétents du Département fédéral des affaires étrangères (DFAE), du Département fédéral de la défense, de la protection de la population et des sports et du Département fédéral de l’environnement, des transports, de l’énergie et de la communication, après avoir consulté le Service de renseignement de la Confédération. Faute d’accord, le Conseil fédéral tranche sur proposition du DEFR.
+
+[^4-1]: Nouvelle teneur selon le ch. 3 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+
+#### Art. 5
+
+**Déclarations**
+
+<sup>1</sup> Le Laboratoire Spiez collecte les déclarations prévues par la présente ordonnance, les examine selon les instructions du SECO et les classe conformément à la CAC[^5-1].
+
+<sup>2</sup> Il fixe le délai dans lequel les déclarations doivent être présentées et établit les formulaires nécessaires.
+
+[^5-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 6
+
+**Autorité nationale CAC**
+
+<sup>1</sup> La mise en œuvre de la CAC[^6-1] en Suisse incombe à un groupe de travail interne à l’administration (désigné par «Autorité nationale CAC»).
+
+<sup>2</sup> L’Autorité nationale CAC est le point de contact national de l’Organisation pour l’interdiction des armes chimiques (OIAC)[^6-2] conformément à l’art. VII, par. 4, CAC, des États parties, des associations et des entreprises concernées par les obligations de la CAC en matière de permis, de déclaration ou d’inspection.
+
+<sup>3</sup> Elle compte également des représentants du SECO, de l’État-major de l’armée et du Laboratoire Spiez.
+
+<sup>4</sup> La direction de l’Autorité nationale CAC est assurée par la Direction politique du DFAE.
+
+<sup>5</sup> Les membres du groupe de travail se réunissent au moins une fois par an.
+
+[^6-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^6-2]: www.opcw.org
+
+## Chapitre 3 Interdictions
+
+#### Art. 7
+
+**Produits chimiques du tableau 1 sous forme de produits intermédiaires ou de sous-produits**
+
+<sup>1</sup> Les produits chimiques du tableau 1 qui apparaissent sous la forme de produits intermédiaires ou de sous-produits sont interdits. Font exception les produits chimiques du tableau 1 qui apparaissent sous la forme de produits intermédiaires et qui continuent de réagir à une vitesse telle qu’il n’est pas possible de les isoler même en cas de modification ou d’interruption du processus.
+
+<sup>2</sup> Si un produit chimique du tableau 1 apparaît sous la forme d’un sous-produit inévitable et que sa concentration totale est inférieure à 0,5 % en poids, la quantité est considérée comme nulle.
+
+#### Art. 8
+
+**Interdiction d’importer et d’exporter des produits chimiques du tableau 1**
+
+<sup>1</sup> L’importation de produits chimiques du tableau 1 en provenance d’États non parties et leur exportation à destination de ces États sont interdites. Cette interdiction s’applique aussi aux mélanges contenant des produits chimiques du tableau 1, quelle que soit leur concentration.
+
+<sup>2</sup> Si un produit chimique du tableau 1 apparaît sous la forme d’un sous-produit inévitable et que sa concentration totale est inférieure à 0,5 % en poids, la quantité est considérée comme nulle.
+
+#### Art. 9
+
+**Interdiction de réexporter des produits chimiques du tableau 1**
+
+La réexportation de produits chimiques du tableau 1 est interdite.
+
+#### Art. 10
+
+**Interdiction d’importer et d’exporter des produits chimiques du tableau 2**
+
+<sup>1</sup> L’importation de produits chimiques du tableau 2 en provenance d’États non parties et leur exportation à destination de ces États sont interdites.
+
+<sup>2</sup>
+
+Cette interdiction s’applique aussi aux mélanges contenant des produits chimiques du tableau 2. Font exception:
+
+- a. les mélanges contenant des produits chimiques du tableau 2A, pour autant que leur proportion soit inférieure à 1 % en poids;
+- b. les mélanges contenant des produits chimiques du tableau 2B, pour autant que leur proportion soit inférieure à 10 % en poids;
+- c. les produits dont la composition usuelle comprend des produits chimiques du tableau 2 et qui sont conditionnés pour la vente au détail en vue d’un usage personnel, ou les produits dont la composition usuelle comprend des produits chimiques du tableau 2 et qui sont conditionnés pour un usage individuel.
+
+## Chapitre 4 Obligations en matière de permis
+
+### Section 1 Fabrication, traitement et consommation
+
+#### Art. 11
+
+**Produits chimiques du tableau 1**
+
+<sup>1</sup> La fabrication, le traitement et la consommation de produits chimiques du tableau 1 requièrent un permis.
+
+<sup>2</sup>
+
+Le permis peut être délivré:
+
+- a. à des fins de recherche, à des fins médicales ou pharmaceutiques ou à des fins de protection dans une usine étatique à petite échelle;
+- b. à des fins de recherche ou à des fins médicales ou pharmaceutiques dans des usines, pour autant que la quantité totale par usine ne dépasse pas 10 kg par an.
+
+<sup>3</sup>
+
+La demande doit être présentée au SECO au plus tard 200 jours avant que l’activité soumise au permis ne commence pour la première fois, et contenir les indications suivantes:
+
+- a. le nom et l’adresse du requérant;
+- b. une description technique détaillée de l’unité et des parties concernées de celle-ci;
+- c. une description de l’activité prévue.
+
+<sup>4</sup>
+
+Ne sont pas soumis au permis, pour autant que la quantité totale par usine ne dépasse pas 100 g par an, le traitement et la consommation de produits chimiques du tableau 1:
+
+- a. à des fins de recherche ou à des fins médicales ou pharmaceutiques;
+- b. à des fins de protection dans une usine de l’administration fédérale centrale.[^11-1]
+
+[^11-1]: Introduit par le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 12
+
+**Restrictions de quantité**
+
+<sup>1</sup> Le Laboratoire Spiez peut, à des fins de protection contre les produits chimiques toxiques et les armes chimiques, fabriquer une quantité totale de produits chimiques du tableau 1 ne dépassant pas 10 kg par an, et traiter, consommer et stocker des produits chimiques du tableau 1.
+
+<sup>2</sup> La quantité de produits chimiques du tableau 1 qui sont fabriqués, stockés ou importés en Suisse ne doit pas dépasser 1 t par an au total.
+
+### Section 2 Importation, exportation et transit
+
+#### Art. 13
+
+**Produits chimiques du tableau 1**
+
+<sup>1</sup> L’importation de produits chimiques du tableau 1 en provenance d’États parties et leur exportation à destination de ces États sont soumises au permis. L’obligation de détenir un permis s’applique aussi aux mélanges contenant des produits chimiques du tableau 1, quelle que soit leur concentration.
+
+<sup>2</sup> Si un produit chimique du tableau 1 apparaît sous la forme d’un sous-produit inévitable et que sa concentration totale est inférieure à 0,5 % en poids, la quantité est considérée comme nulle.
+
+<sup>3</sup>
+
+La demande visée à l’al. 1 doit être présentée au SECO au plus tard 40 jours avant l’importation ou l’exportation, et contenir les indications suivantes:
+
+- a. la désignation chimique, y compris le numéro du *Chemical Abstract Service* (numéro CAS)[^13-1], et la quantité exacte du produit chimique;
+- b. le nom et l’adresse de l’utilisateur final;
+- c. une description détaillée de l’utilisation prévue du produit chimique;
+- d. une confirmation que le produit chimique sera utilisé exclusivement à des fins de recherche ou de protection, ou dans le domaine médical ou pharmaceutique;
+- e. une confirmation que le produit chimique ne sera pas réexporté.
+
+<sup>4</sup> En cas d’exportation, l’exportateur doit faire certifier les indications visées à l’al. 3 par l’État destinataire.
+
+[^13-1]: Numéro attribué par le *Chemical Abstract Service* (www.cas.org) pour identifier les substances.
+
+#### Art. 14
+
+**Produits chimiques du tableau 2**
+
+<sup>1</sup>
+
+L’exportation de produits chimiques du tableau 2 requiert un permis. Ne sont pas soumises au permis les exportations:
+
+- a. de produits chimiques du tableau 2B à destination des États parties, pour autant que les produits chimiques soient utilisés comme échantillons et que la quantité totale par envoi soit inférieure à 100 g;
+- b. de mélanges contenant des produits chimiques du tableau 2A, pour autant que leur proportion soit inférieure à 1 % en poids;
+- c. de mélanges contenant des produits chimiques du tableau 2B, pour autant que leur proportion soit inférieure à 30 % en poids.
+
+<sup>2</sup> …[^14-1]
+
+<sup>3</sup> Le SECO peut exiger du requérant une confirmation que le produit chimique ne sera pas réexporté.
+
+[^14-1]: Abrogé par le ch. I de l’O du 28 janv. 2015, avec effet au 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 15
+
+**Produits chimiques du tableau 3**
+
+<sup>1</sup>
+
+L’exportation de produits chimiques du tableau 3 requiert un permis. Ne sont pas soumises au permis les exportations:
+
+- a. de produits chimiques du tableau 3, pour autant qu’ils soient utilisés comme échantillons et que la quantité totale par envoi soit inférieure à 1 kg;
+- b. de mélanges contenant des produits chimiques du tableau 3, pour autant que leur proportion soit inférieure à 30 % en poids.
+
+<sup>2</sup>
+
+En cas d’exportation vers un État non partie, la demande doit être présentée au SECO, accompagnée d’un certificat de l’État destinataire, qui doit contenir les indications suivantes:[^15-1]
+
+- a. la désignation chimique, y compris le numéro CAS, et la quantité exacte du produit chimique;
+- b. le nom et l’adresse de l’utilisateur final;
+- c. une description détaillée de l’utilisation prévue du produit chimique;
+- d. une confirmation que le produit chimique ne sera utilisé qu’à des fins non interdites par la CAC[^15-2];
+- e.[^15-3] une confirmation que le produit chimique ne sera pas réexporté.
+
+<sup>3</sup> …[^15-4]
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^15-3]: Introduite par le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-4]: Abrogé par le ch. I de l’O du 28 janv. 2015, avec effet au 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 16
+
+**Épreuves de compétence**
+
+<sup>1</sup> L’importation d’échantillons analytiques contenant des produits chimiques des tableaux 1 ou 2A en provenance d’États parties et l’exportation à destination de ces États peuvent bénéficier d’un permis à des fins de vérification de la qualité de laboratoires (épreuves de compétence) par des organisations internationales ou des instituts scientifiques certifiés.
+
+<sup>2</sup> L’interdiction de réexporter fixée à l’art. 9 n’est pas applicable.
+
+#### Art. 17
+
+**Exportation exempte de permis**
+
+<sup>1</sup> Quiconque exporte des produits chimiques relevant des chap. 28 à 30 (n<sup>os</sup> 3002.1100–9000 du tarif), 34, 36 à 40 et 81 du tarif des douanes[^17-1] et dont l’exportation ne requiert pas de permis est tenu de faire figurer la mention «exempt de permis» dans la déclaration d’exportation.[^17-2]
+
+<sup>2</sup> Sur demande du SECO, il doit pouvoir être prouvé à tout moment que l’exportation sans permis a eu lieu conformément au droit. L’obligation de fournir cette preuve expire dix ans après le placement sous régime douanier.
+
+[^17-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
+[^17-2]: Nouvelle teneur selon le ch. 15 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+
+#### Art. 18
+
+**Transit**
+
+<sup>1</sup> Les services douaniers peuvent, à des fins de clarification, retenir des transports de produits chimiques en transit.
+
+<sup>2</sup> Le transit n’est autorisé que si l’exportation répond aux prescriptions du pays d’origine ou du pays de provenance.
+
+<sup>3</sup> L’entreprise chargée du transit doit fournir la preuve prévue à l’al. 2 lors de l’introduction sur le territoire douanier. Dans des cas dûment motivés et après entente avec l’autorité compétente, la preuve peut être fournie plus tard.
+
+<sup>4</sup> Le SECO interdit le transit s’il y a des raisons de supposer qu’il contrevient à la CAC[^18-1].
+
+<sup>5</sup> La sortie d’un entrepôt douanier ouvert, d’un entrepôt de marchandises de grande consommation ou d’un dépôt franc sous douane est assimilée au transit.
+
+[^18-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+### Section 3 Procédure
+
+#### Art. 19
+
+**Demandes de permis**
+
+<sup>1</sup> Les demandes de permis doivent être présentées au moyen du formulaire établi par le SECO.
+
+<sup>2</sup> Les certificats fournis par l’État destinataire en application des art. 13, al. 4, et 15, al. 2, peuvent être rédigés en allemand, en français, en italien ou en anglais. Les traductions à partir d’autres langues doivent être accompagnées d’une authentification officielle.[^19-1]
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 20
+
+**Refus de permis**
+
+<sup>1</sup> Le permis n’est pas délivré si l’activité envisagée est contraire à la CAC[^20-1].
+
+<sup>2</sup>
+
+La licence générale d’exportation (LG) n’est pas délivrée si le requérant ou un membre de ses organes a fait l’objet, au cours des deux années précédant la présentation de la demande, d’une condamnation exécutoire prononcée pour infraction:
+
+- a. à la loi du 13 décembre 1996 sur le contrôle des biens;
+- b. aux dispositions en matière d’exportation, d’importation ou de transit de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^20-2], de la loi du 21 mars 2003 sur l’énergie nucléaire[^20-3] ou de la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^20-4].
+
+[^20-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^20-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^20-3]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^20-4]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+
+#### Art. 21
+
+**Permis individuels**
+
+<sup>1</sup> Le SECO peut délivrer un permis individuel à une personne physique ou morale ayant son domicile ou un établissement sur le territoire douanier suisse ou dans une enclave douanière suisse pour l’importation de produits chimiques mentionnés dans les tableaux de produits chimiques et leur exportation.
+
+<sup>2</sup> Le permis individuel n’est pas transmissible.
+
+<sup>3</sup> Il est valable deux ans. Sa durée de validité peut être prolongée une fois de deux ans.[^21-1]
+
+<sup>4</sup> Il peut être assorti de charges et de conditions.
+
+<sup>5</sup>
+
+Le SECO retire le permis:
+
+- a. si les conditions préalables à son octroi ne sont plus remplies;
+- b. si les conditions et les charges liées au permis ne sont pas respectées.
+
+[^21-1]: Nouvelle teneur selon le ch. 3 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+
+#### Art. 22
+
+**Licence générale d’exportation**
+
+<sup>1</sup> Le SECO peut délivrer une LG à une personne physique ou morale inscrite au registre suisse ou liechtensteinois du commerce pour l’exportation de produits chimiques des tableaux 2B et 3.
+
+<sup>2</sup> Une LG peut aussi être délivrée pour des épreuves de compétence selon l’art. 16.
+
+<sup>3</sup> Une LG n’est pas transmissible.
+
+<sup>4</sup> Elle est valable deux ans.
+
+<sup>5</sup>
+
+Le SECO retire la licence:
+
+- a. si les conditions préalables à son octroi ne sont plus remplies;
+- b. si les conditions et les charges liées à la licence ne sont pas respectées.
+
+#### Art. 23
+
+**Condition préalable à l’octroi d’une LG**
+
+Une LG peut être délivrée lorsque les produits chimiques sont destinés à des utilisateurs finaux ayant leur siège ou leur domicile dans un État partie à la CAC[^23-1] ou que le requérant peut prouver:
+
+- a. que l’activité de l’utilisateur final est compatible avec la CAC;
+- b. qu’il assure une exécution réglementaire des affaires transfrontalières, et
+- c. qu’il effectue un contrôle interne fiable lors de l’exportation.
+
+[^23-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 24
+
+**Charges liées à la LG**
+
+Le titulaire d’une LG doit remplir les charges suivantes:
+
+- a. indiquer le numéro de la LG dans la déclaration en douane;
+- b. faire figurer, dans les documents commerciaux relatifs à l’exportation, la mention «Ces biens sont soumis aux contrôles internationaux à l’exportation» ou une mention de teneur équivalente;
+- c. conserver tous les documents essentiels à l’exportation, pendant dix ans à compter de la date du placement sous régime douanier, et les remettre sur demande aux autorités compétentes.
+
+## Chapitre 5 Obligations en matière de déclaration
+
+### Section 1 Fabrication, traitement et consommation
+
+#### Art. 25
+
+**Produits chimiques du tableau 1**
+
+<sup>1</sup>
+
+Le Laboratoire Spiez et le titulaire d’un permis selon l’art. 11 sont tenus de déclarer au Laboratoire Spiez:
+
+- a. la fabrication, le traitement et la consommation de produits chimiques du tableau 1 pendant l’année civile écoulée, en indiquant les quantités exactes, y compris les quantités stockées;
+- b. toutes les modifications apportées à l’unité pendant l’année civile écoulée;
+- c. avant la fin de l’année, les activités prévues pendant l’année civile suivante.
+
+<sup>2</sup> Les modifications qu’il est prévu d’apporter à l’unité doivent être déclarées au Laboratoire Spiez 200 jours au plus tard avant qu’elles ne soient réalisées.
+
+#### Art. 26
+
+**Produits chimiques du tableau 2**
+
+<sup>1</sup>
+
+La fabrication, le traitement et la consommation de produits chimiques du tableau 2 doivent être déclarés chaque année au Laboratoire Spiez si, sur un site d’usines, les quantités suivantes ont été dépassées pendant l’une des trois dernières années civiles ou, selon les prévisions, le seront au cours de l’année civile suivante:
+
+- a. 1 kg d’un produit chimique du tableau 2A suivi d’un «\*»;
+- b. 100 kg d’un produit chimique du tableau 2A non suivi d’un «\*»;
+- c. 1 t d’un produit chimique du tableau 2B.
+
+<sup>2</sup>
+
+Les déclarations annuelles comprennent:
+
+- a. au début de l’année, une déclaration sur les activités pratiquées pendant l’année civile écoulée;
+- b. avant la fin de l’année, une déclaration sur les activités prévues au cours de l’année civile suivante.
+
+<sup>3</sup>
+
+Les déclarations doivent contenir les indications suivantes:
+
+- a. la description du site d’usines, son emplacement exact, y compris son adresse, et la désignation de l’entreprise qui le gère;
+- b. l’énumération de toutes les usines à l’intérieur du site dans lesquelles une activité soumise à déclaration conformément à l’al. 1 a été pratiquée ou le sera selon les prévisions, ainsi que leurs emplacements exacts, la désignation des entreprises qui les gèrent, leurs activités principales et leurs capacités de fabrication des produits chimiques déclarés;
+- c. la désignation exacte des produits chimiques, ainsi que l’indication de leurs quantités respectives et des fins auxquelles ils ont été ou seront fabriqués;
+- d. s’agissant de la déclaration d’activités prévues: la période pendant laquelle elles seront pratiquées.
+
+<sup>4</sup> Si, après la présentation de la déclaration visée à l’al. 2, let. b, une activité supplémentaire est prévue, elle doit être déclarée dix jours au plus tard avant qu’elle ne commence.
+
+#### Art. 27
+
+**Produits chimiques du tableau 2 sous forme de mélanges, de produits intermédiaires ou de sous-produits**
+
+<sup>1</sup>
+
+Les obligations en matière de déclaration fixées à l’art. 26 s’appliquent aussi aux produits chimiques:
+
+- a.
+
+  du tableau 2A sous forme de mélanges, pour autant:
+
+  - 1\. que leur proportion soit inférieure à 10 % en poids et que la quantité totale soit supérieure à 10 kg,
+  - 2\. que leur proportion soit supérieure à 10 % en poids et que la quantité totale soit supérieure à 1 kg;
+
+- b. du tableau 2A, pour autant qu’ils n’apparaissent que sous la forme de produits intermédiaires ou de sous-produits, qu’ils soient immédiatement détruits et que leur concentration au cours du processus soit, à un moment donné, supérieure à 1 % en poids;
+- c. du tableau 2B sous forme de mélanges, pour autant que leur proportion soit supérieure à 30 % en poids;
+- d. du tableau 2B qui n’apparaissent que sous la forme de produits intermédiaires ou de sous-produits et sont immédiatement détruits, pour autant que leur concentration au cours du processus soit, à un moment donné, supérieure à 30 % en poids.
+
+<sup>2</sup> Font exception les produits intermédiaires qui continuent de réagir à une vitesse telle que, même en cas de modification ou d’interruption du processus, il n’est pas possible de les isoler.
+
+#### Art. 28
+
+**Produits chimiques du tableau 3**
+
+<sup>1</sup> La fabrication de produits chimiques du tableau 3 doit être déclarée chaque année au Laboratoire Spiez si plus de 30 t ont été fabriquées sur un site d’usines pendant l’année civile écoulée ou, selon les prévisions, le seront au cours de l’année civile suivante.
+
+<sup>2</sup>
+
+Les déclarations annuelles comprennent:
+
+- a. au début de l’année, une déclaration sur les activités pratiquées pendant l’année civile écoulée;
+- b. avant la fin de l’année, une déclaration sur les activités prévues au cours de l’année civile suivante.
+
+<sup>3</sup>
+
+Les déclarations doivent contenir les indications suivantes:
+
+- a. la description du site d’usines, son emplacement exact, y compris son adresse, et la désignation de l’entreprise qui le gère;
+- b. l’énumération de toutes les usines à l’intérieur du site dans lesquelles plus de 30 t d’un produit chimique du tableau 3 ont été fabriquées ou le seront selon les prévisions, ainsi que leurs emplacements exacts, la désignation des entreprises qui les gèrent et leurs activités principales;
+- c. la désignation exacte des produits chimiques, ainsi que l’indication des quantités approximatives fabriquées et des fins auxquelles les produits chimiques ont été ou seront fabriqués.
+
+<sup>4</sup> Si, après la présentation de la déclaration visée l’al. 2, let. b, une activité supplémentaire est prévue, elle doit être déclarée dix jours au plus tard avant qu’elle ne commence.
+
+#### Art. 29
+
+**Produits chimiques du tableau 3 sous forme de mélanges, de produits intermédiaires ou de sous-produits**
+
+<sup>1</sup>
+
+Les obligations en matière de déclaration fixées à l’art. 28 s’appliquent aussi aux produits chimiques:
+
+- a. sous forme de mélanges, pour autant que leur proportion soit supérieure à 30 % en poids;
+- b. qui n’apparaissent que sous la forme de produits intermédiaires ou de sous-produits, même s’ils sont immédiatement détruits, pour autant que leur concentration au cours du processus soit, à un moment donné, supérieure à 30 % en poids.
+
+<sup>2</sup> Font exception les produits intermédiaires qui continuent de réagir à une vitesse telle qu’il n’est pas possible de les isoler même en cas de modification ou d’interruption du processus.
+
+#### Art. 30
+
+**Sites d’usines fabriquant des PCOD**
+
+<sup>1</sup>
+
+Les fabricants de PCOD sont tenus de déclarer chaque année au Laboratoire Spiez:
+
+- a. sur quel site d’usines plus de 200 t de PCOD ont été fabriquées au total pendant l’année civile écoulée;
+- b. dans quelle usine ou quelles usines du site déclaré plus de 30 t d’un produit chimique PSF ont été fabriquées au total pendant l’année civile écoulée.
+
+<sup>2</sup> Les sites d’usines qui fabriquent exclusivement des explosifs et des hydrocarbures ne doivent pas être déclarés.
+
+<sup>3</sup>
+
+Les déclarations doivent comporter les indications suivantes:
+
+- a. une description du site d’usines;
+- b. ses activités principales;
+- c. son emplacement exact, y compris son adresse;
+- d. la désignation de l’entreprise qui gère le site d’usines.
+
+### Section 2 Importation et exportation
+
+#### Art. 31
+
+**Importation et exportation de produits chimiques du tableau 1**
+
+<sup>1</sup> Le titulaire d’un permis selon l’art. 21 ou 22 est tenu de déclarer au Laboratoire Spiez, au début de l’année, les quantités de produits chimiques du tableau 1 effectivement importées et exportées pendant l’année civile écoulée, en indiquant le pays de provenance et le pays de destination.
+
+<sup>2</sup> Dans le cas de mélanges, il convient d’indiquer la proportion du produit chimique soumis au permis.
+
+#### Art. 32
+
+**Importation et exportation de produits chimiques des tableaux 2 et 3**
+
+<sup>1</sup>
+
+Le titulaire d’un permis selon l’art. 21 ou 22 est tenu de déclarer au Laboratoire Spiez, au début de l’année, les quantités de produits chimiques des tableaux 2 et 3 effectivement exportées pendant l’année civile écoulée, en indiquant le pays de destination, lorsque les quantités suivantes sont dépassées:
+
+- a. 1 kg d’un produit chimique du tableau 2A suivi d’un «\*»;
+- b. 100 kg d’un produit chimique du tableau 2A non suivi d’un «\*»;
+- c. 100 kg d’un produit chimique du tableau 2B;
+- d. 100 kg d’un produit chimique du tableau 3.
+
+<sup>2</sup>
+
+Il est tenu de déclarer au Laboratoire Spiez, au début de l’année, les quantités de produits chimiques des tableaux 2 et 3 effectivement importées pendant l’année civile écoulée, en indiquant le pays de provenance, lorsque les quantités suivantes sont dépassées:
+
+- a. 1 kg d’un produit chimique du tableau 2A suivi d’un «\*»;
+- b. 100 kg d’un produit chimique du tableau 2A non suivi d’un «\*»;
+- c. 100 kg d’un produit chimique du tableau 2B;
+- d. 100 kg d’un produit chimique du tableau 3.
+
+<sup>3</sup> Dans le cas de mélanges, il convient d’indiquer le poids effectif du produit chimique soumis à déclaration.
+
+### Section 3 Mesures de protection
+
+#### Art. 33
+
+**Agents de lutte antiémeute**
+
+<sup>1</sup> L’acquisition de substances irritantes utilisées en cas d’émeute ou de missions spéciales et l’acquisition de moyens auxiliaires chimiques pour faire usage de la contrainte policière doivent être déclarées au Laboratoire Spiez dans un délai de dix jours à compter de l’acquisition, en indiquant la désignation chimique des composants actifs et les numéros CAS.
+
+<sup>2</sup>
+
+Ne doivent pas être déclarés les agents qui, en tant que composants actifs, contiennent exclusivement les substances suivantes:
+
+- a. CS, o-chlorobenzylidène-malononitrile, n<sup>o</sup> CAS 2698-41-1;
+- b. CN, chloroacétophénone, n<sup>o</sup> CAS 532-27-4;
+- c. capsaïcine, n<sup>o</sup> CAS 404-86-4;
+- d. capsaïcine synthétique, amide vanillique de l’acide pélargonique, n<sup>o</sup> CAS 2444-46-4.
+
+#### Art. 34
+
+**Programmes et mesures de protection contre les armes chimiques**
+
+Les programmes et les mesures de protection contre les armes chimiques mis en œuvre pendant l’année civile écoulée doivent être déclarés chaque année au Laboratoire Spiez.
+
+## Chapitre 6 Obligations en matière d’inspection
+
+#### Art. 35
+
+**Inspections**
+
+<sup>1</sup> L’OIAC peut vérifier les déclarations visées aux art. 3, 25, 26, 28 et 30 à 34 en procédant à des inspections sur place.
+
+<sup>2</sup> Elle peut vérifier les déclarations concernant la fabrication de produits chimiques du tableau 1 à l’aide d’instruments installés sur place à cet effet.
+
+#### Art. 36
+
+**Conduite des inspections**
+
+<sup>1</sup> Les inspections sont effectuées par des représentants de l’OIAC (équipe d’inspection).
+
+<sup>2</sup> L’équipe d’inspection est accompagnée par une équipe de l’Autorité nationale CAC (équipe d’accompagnement). L’équipe d’accompagnement collabore étroitement avec les représentants du site d’usines.
+
+<sup>3</sup> La direction de l’équipe d’accompagnement est assurée par le SECO. Les inspections d’installations militaires sont dirigées par l’État-major de l’armée. Le responsable de l’équipe d’accompagnement détient le pouvoir décisionnel.
+
+<sup>4</sup> Le responsable de l’équipe d’accompagnement prend les dispositions nécessaires à la conduite de l’inspection et veille à la sauvegarde des intérêts dignes de protection.
+
+#### Art. 37
+
+**Tâches de l’équipe d’accompagnement**
+
+<sup>1</sup>
+
+L’équipe d’accompagnement assume, entre autres, les tâches suivantes:
+
+- a. veiller à ce que la zone inspectée ne soit perturbée que dans la mesure nécessaire à l’inspection;
+- b. veiller à la protection des données confidentielles et des installations;
+- c. veiller à la classification des informations accessibles;
+- d. décider, après entente avec les représentants du site d’usines, des informations confidentielles devant être mises à la disposition de l’équipe d’inspection;
+- e. veiller, sur demande des représentants du site d’usines, à ce que les informations confidentielles ne soient pas mentionnées dans le rapport;
+- f. établir, en collaboration avec l’équipe d’inspection, la procédure et la marche à suivre pour protéger les parties d’unités et les objets sensibles;
+- g. statuer sur les réclamations et les éventuelles mesures qui en découlent;
+- h. recevoir le rapport contenant les constatations préliminaires de l’équipe d’inspection et veiller à ce que les représentants du site d’usines y aient accès.
+
+<sup>2</sup> La responsabilité pour dommages imputables au comportement illicite des représentants de la Confédération au sein de l’équipe d’accompagnement est régie par la loi du 14 mars 1958 sur la responsabilité[^37-1].
+
+[^37-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 38
+
+**Accords d’inspection**
+
+<sup>1</sup> Le responsable de l’équipe d’accompagnement conclut des accords sur les inspections de routine dans les unités où sont fabriqués des produits chimiques du tableau 1.
+
+<sup>2</sup> Il consulte un représentant du site d’usines avant de conclure l’accord.
+
+#### Art. 39
+
+**Annonce des inspections et obligation de coopérer**
+
+<sup>1</sup> Lorsque l’OIAC annonce une inspection, le responsable de l’équipe d’accompagnement en informe immédiatement les responsables du site d’usines. Il communique le moment et le lieu de l’inspection, la composition de l’équipe d’inspection et les noms des personnes qui forment l’équipe d’accompagnement.
+
+<sup>2</sup>
+
+Les représentants du site d’usines sont tenus de coopérer lors des inspections, et en particulier:
+
+- a. de désigner une personne autorisée à donner toutes les instructions internes nécessaires à la conduite de l’inspection et à prendre des décisions;
+- b. de renseigner l’équipe d’inspection sur le site d’usines concerné, les activités qui y sont pratiquées, les mesures de sécurité nécessaires pour l’inspection et les aspects administratifs et logistiques de celle-ci;
+- c. de mettre à la disposition de l’équipe d’inspection et de l’équipe d’accompagnement des moyens de communication, des locaux de travail équipés de raccordements électriques et les moyens de locomotion nécessaires aux déplacements à l’intérieur du site d’usines, dans la mesure où ceux-ci sont nécessaires au bon déroulement de l’inspection;
+- d. de fournir le soutien nécessaire à l’exécution du mandat d’inspection;
+- e. sur demande de l’équipe d’inspection, de prélever des échantillons et de prendre des photographies d’objets ou de bâtiments à l’intérieur du site d’usines, ou d’aider l’équipe d’accompagnement à le faire;
+- f. sur demande de l’équipe d’inspection et en sa présence, de procéder à des analyses ou de l’aider à le faire, pour autant que ce soit nécessaire à la conduite de l’inspection et qu’aucune considération de sécurité ne s’y oppose;
+- g. de démontrer à l’équipe d’inspection, en produisant des documents appropriés ou par d’autres moyens, que les parties ou les objets du site d’usines auxquels l’accès a été refusé au cours de l’inspection ou de l’enquête n’ont pas été ni ne sont utilisés à des fins interdites par la CAC[^39-1];
+- h. de prendre part à l’examen des résultats provisoires de l’inspection et à la levée des éventuelles ambiguïtés;
+- i. de fournir aux autorités fédérales les renseignements nécessaires à la négociation et à la conclusion d’accords d’inspection.
+
+<sup>3</sup> Ils supportent les coûts résultant, pour eux, de la conduite de l’inspection. Ils peuvent demander leur remboursement à l’OIAC. La demande doit être présentée au SECO.
+
+<sup>4</sup> Si des représentants du site d’usines sont lésés par des tiers dans le cadre d’inspections, la Confédération les aide, dans la mesure de ses attributions légales, à faire valoir leurs prétentions.
+
+[^39-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 40
+
+**Prérogatives en matière d’inspection**
+
+<sup>1</sup>
+
+Si la conduite des inspections prévues aux art. VI et IX de la CAC[^40-1] l’exige, l’équipe d’inspection est habilitée notamment:
+
+- a. à pénétrer sur les biens-fonds et dans les locaux et à les visiter pendant les heures de travail habituelles;
+- b. à utiliser le matériel approuvé au sens de la CAC, compte tenu des prescriptions de sécurité en vigueur dans l’unité;
+- c. à poser des questions au personnel;
+- d. à consulter des documents, dossiers et illustrations;
+- e. à prélever des échantillons, avec le consentement des représentants du site d’usines ou du responsable de l’équipe d’accompagnement;
+- f. à analyser des échantillons à l’intérieur du site d’usines au moyen du matériel approuvé, ou à les faire analyser dans un laboratoire externe désigné par l’OIAC;
+- g. à installer, dans des unités où sont fabriqués des produits chimiques du tableau 1, des instruments de surveillance continue, pour autant que le fonctionnement de ces unités n’en soit pas entravé, et à y conserver des photographies, plans et autres documents.
+
+<sup>2</sup>
+
+Si la conduite des inspections prévues à l’art. IX de la CAC l’exige, elle est également habilitée notamment:
+
+- a. à pénétrer sur les biens-fonds et dans les locaux et à les visiter en dehors des heures de travail habituelles;
+- b. à exiger des données sur l’ensemble des mouvements de véhicules du site d’usines servant au transport terrestre, aérien, fluvial ou maritime;
+- c. à surveiller et à inspecter les véhicules qui quittent le site d’usines, à l’exception des voitures privées.
+
+[^40-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+## Chapitre 7 Dispositions pénales
+
+#### Art. 41
+
+Est puni d’une amende de 100 000 francs au plus, conformément à l’art. 15 de la loi du 13 décembre 1996 sur le contrôle des biens, quiconque:
+
+- a. enfreint, intentionnellement ou par négligence, les obligations en matière de déclaration fixées aux art. 3, 25, 26, 28 et 30 à 34;
+- b. empêche les inspections prévues à l’art. 35 ou refuse de s’acquitter des obligations de coopérer prévues à l’art. 39 lors de telles inspections.
+
+## Chapitre 8 Dispositions finales
+
+#### Art. 42
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 17 octobre 2007 sur le contrôle des produits chimiques[^42-1] est abrogée.
+
+[^42-1]: [[RO 2007 5057](https://fedlex.data.admin.ch/eli/oc/2007/710), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 23]
+
+#### Art. 43
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2013.
+
+Annexe*[^t-1]*
+
+(art. 1, al. 2 et 3)
+
+## Tableaux de produits chimiques****
+
+[^annexu1-lvlu1-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 24 fév. 2020, en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)).
+[^annexu1-lvlu1-1]: Les noms des produits chimiques sont déterminants pour le contrôle. Le numéro CAS ne doit pas être utilisé comme identifiant unique du composé. Plusieurs inscriptions correspondent à des «familles», comptant des centaines de substances dont la composition chimique est similaire.
+
+(v. aussi le numéro de contrôle à l’exportation 1C350 à l’ann. 2, partie 2, de l’ordonnance du 3 juin 2016 sur le contrôle des biens[^annexu1-lvlu1-2])
+
+<table>
+<tr><th>Tableau 1A</th><th>Produits chimiques toxiques</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>1.</td><td>Alkyl(Me, Et, n-Pr ou i-Pr)phosphonofluoridates de O-alkyle(≤ C<sub>10</sub>, y compris cycloalkyle)</td><td></td></tr>
+<tr><td></td><td>ex. Sarin: méthylphosphonofluoridate de O-isopropyle</td><td>107-44-8</td></tr>
+<tr><td></td><td>Soman: méthylphosphonofluoridate de O-pinacolyle</td><td>96-64-0</td></tr>
+<tr><td>2.</td><td>N,N-dialkyl(Me, Et, n-Pr ou i-Pr)phosphoramidocyanidates de O-alkyle(≤ C<sub>10</sub>, y compris cycloalkyle)</td><td></td></tr>
+<tr><td></td><td>ex. Tabun: N,N-diméthylphosphoramidocyanidate de O-éthyle</td><td>77-81-6</td></tr>
+<tr><td>3.</td><td>Alkyl(Me, Et, n-Pr ou i-Pr)phosphonothioates de O-alkyle(H ou ≤ C<sub>10</sub>, y compris cycloalkyle) et de S-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthyle et les sels alkylés ou protonés correspondants</td><td></td></tr>
+<tr><td></td><td>ex. VX: méthylphosphonothioate de O-éthyle et de S-2-diisopropylaminoéthyle</td><td>50782-69-9</td></tr>
+<tr><td>4.</td><td>Moutardes au soufre:</td><td></td></tr>
+<tr><td></td><td>Sulfure de 2-chloroéthyle et de chlorométhyle</td><td>2625-76-5</td></tr>
+<tr><td></td><td>Ypérite (gaz moutarde): sulfure de bis(2-chloroéthyle)</td><td>505-60-2</td></tr>
+<tr><td></td><td>Bis(2-chloroéthylthio)méthane</td><td>63869-13-6</td></tr>
+<tr><td></td><td>Sesqui-ypérite (Q): 1,2-bis(2-chloroéthylthio)éthane</td><td>3563-36-8</td></tr>
+<tr><td></td><td>1,3-Bis(2-chloroéthylthio)-n-propane</td><td>63905-10-2</td></tr>
+<tr><td></td><td>1,4-Bis(2-chloroéthylthio)-n-butane</td><td>142868-93-7</td></tr>
+<tr><td></td><td>1,5-Bis(2-chloroéthylthio)-n-pentane</td><td>142868-94-8</td></tr>
+<tr><td></td><td>Oxyde de bis(2-chloroéthylthiométhyle)</td><td>63918-90-1</td></tr>
+<tr><td></td><td>Moutarde-O: oxyde de bis(2-chloroéthylthioéthyle)</td><td>63918-89-8</td></tr>
+<tr><td>5.</td><td>Lewisites:</td><td></td></tr>
+<tr><td></td><td>Lewisite 1: 2-chlorovinyldichlorarsine</td><td>541-25-3</td></tr>
+<tr><td></td><td>Lewisite 2: bis(2-chlorovinyl)chlorarsine</td><td>40334-69-8</td></tr>
+<tr><td></td><td>Lewisite 3: tris(2-chlorovinyl)arsine</td><td>40334-70-1</td></tr>
+<tr><td>6.</td><td>Moutardes à l’azote:</td><td></td></tr>
+<tr><td></td><td>HN1: bis(2-chloroéthyl)éthylamine</td><td>538-07-8</td></tr>
+<tr><td></td><td>HN2: bis(2-chloroéthyl)méthylamine</td><td>51-75-2</td></tr>
+<tr><td></td><td>HN3: tris(2-chloroéthyl)amine</td><td>555-77-1</td></tr>
+<tr><td>7.</td><td>Saxitoxine</td><td>35523-89-8</td></tr>
+<tr><td>8.</td><td>Ricine</td><td>9009-86-3</td></tr>
+<tr><td>13.</td><td>Phosphonamidofluoridates de P-alkyle (H ou ≤C10, y compris cycloalkyle) N-(1-(dialkyle (≤C10, y compris cycloalkyle)amino))alkylidène(H ou ≤C10, y compris cycloalkyle) et les sels alkylés ou protonés correspondants ex.</td><td></td></tr>
+<tr><td></td><td>Phosphonamidofluoridate de P-décyle N-(1-(di-n-décylamino)-n-décylidène)</td><td>2387495-99-8</td></tr>
+<tr><td></td><td>Phosphonamidofluoridate de méthyl-(1-diéthylamino)éthylidène)</td><td>2387496-12-8</td></tr>
+<tr><td>14.</td><td>Phosphoramidofluoridates de O-alkyle (H ou ≤C10, y compris cycloalkyle) N-(1-(dialkyle (≤C10, y compris cycloalkyle)amino))alkylidène(H ou ≤C10, y compris cycloalkyle) et les sels alkylés ou protonés correspondants ex.</td><td></td></tr>
+<tr><td></td><td>Phosphoramidofluoridate de O-n-décyle N-(1-(di-n-décylamino)-n-décylidène)</td><td>2387496-00-4</td></tr>
+<tr><td></td><td>Phosphoramidofluoridate de méthyl (1-(diéthylamino)éthylidène)</td><td>2387496-04-8</td></tr>
+<tr><td></td><td>Phosphoramidofluoridate d’éthyl (1-(diéthylamino)éthylidène)</td><td>2387496-06-0</td></tr>
+<tr><td>15.</td><td>(Bis(diéthylamino)méthylène)phosphonamidofluoridate de méthyle</td><td>2387496-14-0</td></tr>
+<tr><td>16.</td><td>Carbamates (quaternaires et biquaternaires de diméthylcarbamoyloxypyridines) Quaternaires de diméthylcarbamoyloxypyridines: 1-[N,N-Dialkyl(С≤10)-N-(n-(hydroxyl, cyano, acétoxy)alkyl(С≤10)) ammonio]-n-[N-(3-diméthyl-carbamoxy-α-picolinyl)-N,N-dialkyl(С≤10) ammonio]décane dibromide (n=1-8) ex.</td><td></td></tr>
+<tr><td></td><td>1-[N,N-Diméthyl-N-(2-hydroxy)éthylammonio]-10-[N-(3-diméthylcarbamoxy-α-picolinyl)-N,N-diméthylammonio]décane dibromide</td><td>77104-62-2</td></tr>
+<tr><td></td><td>Biquaternaires de diméthylcarbamoyloxypyridines: 1,n-Bis[N-(3-diméthylcarbamoxy-α-picolyl)-N,N-dialkyl(С≤10) ammonio]-alkane-(2,(n-1)-dione) dibromide (n=2-12) ex. 1,10-Bis[N-(3-diméthylcarbamoxy-α-picolyl)-N-éthyl-N-méthylammonio]-décane-2,9-dione dibromide</td><td>77104-00-8</td></tr>
+</table>
+
+<table>
+<tr><th>Tableau 1B</th><th>Précurseurs</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>9.</td><td>Difluorures d’alkyl(Me, Et, n-Pr ou i-Pr)phosphonyle</td><td></td></tr>
+<tr><td></td><td>ex. DF: difluorure de méthylphosphonyle</td><td>676-99-3</td></tr>
+<tr><td>10.</td><td>Alkyl(Me, Et, n-Pr ou i-Pr)phosphonites de O-alkyle(H ou ≤ C<sub>10</sub>, y compris cycloalkyle) et de O-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthyle et les sels alkylés ou protonés correspondants</td><td></td></tr>
+<tr><td></td><td>ex. QL: méthylphosphonite de O-éthyle et de O-2-diisopropylaminoéthyle</td><td>57856-11-8</td></tr>
+<tr><td>11.</td><td>Chloro Sarin:</td><td></td></tr>
+<tr><td></td><td>méthylphosphonochloridate de O-isopropyle</td><td>1445-76-7</td></tr>
+<tr><td>12.</td><td>Chloro Soman:</td><td></td></tr>
+<tr><td></td><td>méthylphosphonochloridate de O-pinacolyle</td><td>7040-57-5</td></tr>
+</table>
+
+<table>
+<tr><th>Tableau 2A</th><th>Produits chimiques toxiques</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>1.</td><td>Amiton: phosphorothioate de O,O-diéthyle et de S-[2-(diéthylamino)éthyle] et les sels alkylés ou protonés correspondants</td><td>78-53-5</td></tr>
+<tr><td>2.</td><td>PFIB: 1,1,3,3,3-pentafluoro-2-(trifluorométhyl)propène</td><td>382-21-8</td></tr>
+<tr><td>3.</td><td>BZ: benzilate de 3-quinuclidinyle \*</td><td>6581-06-2</td></tr>
+</table>
+
+<table>
+<tr><th>Tableau 2B</th><th>Précurseurs</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>4.</td><td>Produits chimiques, hormis ceux qui sont inscrits au tableau 1, contenant un atome de phosphore auquel est lié un groupe méthyle, éthyle ou propyle (normal ou iso), sans autres atomes de carbone</td><td></td></tr>
+<tr><td></td><td>ex. Dichlorure de méthylphosphonyle</td><td>676-97-1</td></tr>
+<tr><td></td><td>Méthylphosphonate de diméthyle</td><td>756-79-6</td></tr>
+<tr><td></td><td>*Sauf:* Fonofos: éthyldithiophosphonate de O-éthyle et de S-phényle</td><td>944-22-9</td></tr>
+<tr><td>5.</td><td>Dihalogénures N, N-dialkyl(Me, Et, n-Pr ou i-Pr) phosphoramidiques</td><td></td></tr>
+<tr><td>6.</td><td>N,N-dialkyl(Me, Et, n-Pr ou i-Pr)phosphoramidates de dialkyle(Me, Et, n-Pr ou i-Pr)</td><td></td></tr>
+<tr><td>7.</td><td>Trichlorure d’arsenic</td><td>7784-34-1</td></tr>
+<tr><td>8.</td><td>Acide 2,2-diphényl-2-hydroxyacétique</td><td>76-93-7</td></tr>
+<tr><td>9.</td><td>Quinuclidin-3-ol</td><td>1619-34-7</td></tr>
+<tr><td>10.</td><td>Chlorures de N,N-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthyle et les sels protonés correspondants</td><td></td></tr>
+<tr><td>11.</td><td>N,N-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthanol et les sels protonés correspondants</td><td></td></tr>
+<tr><td></td><td>Sauf:</td><td></td></tr>
+<tr><td></td><td>N,N-diméthylaminoéthanol et les sels protonés correspondants</td><td>108-01-0</td></tr>
+<tr><td></td><td>N,N-diéthylaminoéthanol et les sels protonés correspondants</td><td>100-37-8</td></tr>
+<tr><td>12.</td><td>N,N-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthanethiol et les sels protonés correspondants</td><td></td></tr>
+<tr><td>13.</td><td>Thiodiglycol: sulfure de bis(2-hydroxyéthyle)</td><td>111-48-8</td></tr>
+<tr><td>14.</td><td>Alcool pinacolique: 3,3-diméthylbutan-2-ol</td><td>464-07-3</td></tr>
+</table>
+
+<table>
+<tr><th>Tableau 3A</th><th>Produits chimiques toxiques</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>1.</td><td>Phosgène: dichlorure de carbonyle</td><td>75-44-5</td></tr>
+<tr><td>2.</td><td>Chlorure de cyanogène</td><td>506-77-4</td></tr>
+<tr><td>3.</td><td>Cyanure d’hydrogène</td><td>74-90-8</td></tr>
+<tr><td>4.</td><td>Chloropicrine: trichloronitrométhane</td><td>76-06-2</td></tr>
+</table>
+
+<table>
+<tr><th>Tableau 3B</th><th>Précurseurs</th><th>N<sup>o</sup> CAS</th></tr>
+<tr><td>5.</td><td>Oxychlorure de phosphore</td><td>10025-87-3</td></tr>
+<tr><td>6.</td><td>Trichlorure de phosphore</td><td>7719-12-2</td></tr>
+<tr><td>7.</td><td>Pentachlorure de phosphore</td><td>10026-13-8</td></tr>
+<tr><td>8.</td><td>Phosphite de triméthyle</td><td>121-45-9</td></tr>
+<tr><td>9.</td><td>Phosphite de triéthyle</td><td>122-52-1</td></tr>
+<tr><td>10.</td><td>Phosphite de diméthyle</td><td>868-85-9</td></tr>
+<tr><td>11.</td><td>Phosphite de diéthyle</td><td>762-04-9</td></tr>
+<tr><td>12.</td><td>Monochlorure de soufre</td><td>10025-67-9</td></tr>
+<tr><td>13.</td><td>Dichlorure de soufre</td><td>10545-99-0</td></tr>
+<tr><td>14.</td><td>Chlorure de thionyle</td><td>7719-09-7</td></tr>
+<tr><td>15.</td><td>Ethyldiéthanolamine</td><td>139-87-7</td></tr>
+<tr><td>16.</td><td>Méthyldiéthanolamine</td><td>105-59-9</td></tr>
+<tr><td>17.</td><td>Triéthanolamine</td><td>102-71-6</td></tr>
+</table>
+
+[^annexu1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)

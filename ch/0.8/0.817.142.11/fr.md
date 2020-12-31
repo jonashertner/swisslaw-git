@@ -1,0 +1,45 @@
+---
+sr: "0.817.142.11"
+title: "Échange de lettres du 29 mars 1982 entre la Suisse et la Communauté économique européenne relatif aux conditions d'admission du Parmigiano Reggiano aux taux de droit de douane consolidé au GATT"
+eli: "https://fedlex.data.admin.ch/eli/cc/1982/681_681_681"
+language: fr
+version: 1982-05-01
+adopted: 1982-03-29
+in_force: 1982-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/681_681_681/19820501/fr/xml/fedlex-data-admin-ch-eli-cc-1982-681_681_681-19820501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/681_681_681/19820501/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Echange de lettres du 29 mars 1982 entre la Suisse et la Communauté économique européenne relatif aux conditions d’admission du Parmigiano-Reggiano au taux de droit de douane consolidé au GATT
+
+RO **1982** 681
+
+*Texte original*
+
+(Etat le 1<sup>er</sup> mai 1982)
+
+<table>
+<tr><td>Commission des Communautés européennes</td><td>Bruxelles, le 29 mars 1982 S.E. M. Pierre Cuénoud Ambassadeur, chef de la Mission Suisse auprès des Communautés européennes</td></tr>
+</table>
+
+Monsieur l’Ambassadeur,
+
+J’ai l’honneur d’accuser réception de votre lettre du 29 mars 1982 libellée comme suit:
+
+- «J’ai l’honneur de me référer aux entretiens que nous avons eus au sujet des problèmes qui sont apparus à l’importation en Suisse de «Parmigiano Reggiano» depuis la mise en vigueur des nouvelles conditions d’admission pour ce fromage convenues entre la Suisse et la Communauté en 1980.
+- Nous sommes arrivés à la conclusion que, pour surmonter ces difficultés, il serait opportun d’adapter les normes figurant dans la Convention de Stresa, en y éliminant la notion de poids moyen de ce fromage, conformément à la législation italienne en vigueur.
+- Vu que la procédure d’adaptation de ces normes prendra un certain temps, les autorités suisses s’engagent à appliquer la solution transitoire suivante:
+- au plus tard un mois après que le Conseil Permanent de ladite Convention aura notifié aux autorités fédérales le dépôt de la demande du Gouvernement italien de modifier les normes de la Convention concernant le poids moyen du fromage «Parmigiano‑Reggiano», les autorités suisses admettront au taux du droit consolidé de frs. 25.–/100 kg ledit fromage, sans tenir compte dorénavant du critère de poids moyen.
+- Au cas où la modification en question ne serait pas adoptée par les Parties Contractantes de la Convention, des consultations auront lieu entre la Suisse et la Communauté en vue de trouver une solution satisfaisante définitive.
+- Ces dispositions entreront en vigueur après l’accomplissement des procédures d’approbation interne.
+- Je vous prie, Monsieur le Directeur Général, de bien vouloir me confirmer votre accord sur ce qui précède.»
+
+J’ai l’honneur de marquer mon accord sur ce qui précède.
+
+Veuillez agréer, Monsieur l’Ambassadeur, l’assurance de ma très haute considération.
+
+<table>
+<tr><td></td><td>C. Villain Directeur général de l’agriculture</td></tr>
+</table>

@@ -1,0 +1,159 @@
+---
+sr: "810.215.7"
+title: "Ordinanza del 16 marzo 2007 sugli emolumenti per l'esecuzione da parte delle autorità federali della legislazione in materia di trapianti (Ordinanza sugli emolumenti in materia di trapianti)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/284"
+language: it
+version: 2017-11-15
+adopted: 2007-03-16
+in_force: 2007-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/284/20171115/it/xml/fedlex-data-admin-ch-eli-cc-2007-284-20171115-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/284/20171115/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli emolumenti per l’esecuzione da parte delle autorità federali della legislazione in materia di trapianti
+
+(Ordinanza sugli emolumenti in materia di trapianti)
+
+del 16 marzo 2007 (Stato 15 novembre 2017)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 67 capoverso 2 della legge dell’8 ottobre 2004[^ingress-1] sui trapianti,
+
+ordina:
+
+[^ingress-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+
+#### Art. 1
+
+**Oggetto e campo di applicazione**
+
+<sup>1</sup> La presente ordinanza disciplina gli emolumenti per le decisioni, le prestazioni di servizio e i controlli (atti amministrativi) delle autorità federali di esecuzione nell’ambito della legislazione in materia di trapianti.
+
+<sup>2</sup>
+
+La presente ordinanza non si applica ad atti amministrativi:
+
+- a. delle autorità doganali;
+- b. dei Cantoni;
+- c. dell’Istituto svizzero per gli agenti terapeutici.
+
+#### Art. 2
+
+**Applicabilità dell’ordinanza generale sugli emolumenti**
+
+Per quanto la presente ordinanza non preveda un disciplinamento specifico, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^2-1] sugli emolumenti (OgeEm).
+
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 3
+
+**Calcolo degli emolumenti**
+
+<sup>1</sup> Le autorità federali di esecuzione riscuotono per i propri atti amministrativi emolumenti calcolati secondo il dispendio di tempo in base alle tariffe stabilite nell’allegato.
+
+<sup>2</sup> Per quanto concerne gli atti amministrativi per i quali nell’allegato non sono stabilite aliquote, gli emolumenti sono calcolati secondo il dispendio di tempo.
+
+<sup>3</sup> L’aliquota oraria per il calcolo del dispendio di tempo si basa sui costi diretti di personale e di posti di lavoro dell’Amministrazione federale calcolati dall’Amministrazione federale delle finanze.
+
+<sup>4</sup> Per gli atti amministrativi di cui all’articolo 5 capoverso 3 OgeEm[^3-1] possono essere riscossi supplementi pari al massimo al 50 per cento dell’emolumento ordinario.
+
+[^3-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 4
+
+**Disposizione transitoria**
+
+Gli emolumenti per gli atti amministrativi non ancora conclusi al momento dell’entrata in vigore della presente ordinanza sono stabiliti secondo gli articoli 35–39 dell’ordinanza del 26 giugno 1996[^4-1] concernente il controllo degli espianti.
+
+[^4-1]: [[RU 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309), [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204), [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 10, [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17). [RU 2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)art. 54]
+
+#### Art. 5
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° luglio 2007.
+
+Allegato[^t-1]
+
+(art. 3 cpv. 1)
+
+## I. Emolumenti secondo l’ordinanza del 16 marzo 2007 sui trapianti
+
+[^annexu1-lvlI-1]
+
+[^t-1]: Aggiornato dai n. I delle O del 10 set. 2008 ([RU 2008 4473](https://fedlex.data.admin.ch/eli/oc/2008/622)) e del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5679](https://fedlex.data.admin.ch/eli/oc/2017/612)).
+[^annexu1-lvlI-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+
+<table>
+<tr><th></th><th>Franchi</th></tr>
+<tr><td>1 Rilascio o rinnovo di un’autorizzazione per:</td><td></td></tr>
+<tr><td>1.1 i centri di trapianto di cui all’articolo 16 (secondo il tipo e il numero dei programmi di trapianto)</td><td>5 000–30 000</td></tr>
+<tr><td>1.2 la conservazione di tessuti o cellule, secondo l’articolo 17</td><td>500–20 000</td></tr>
+<tr><td>1.3 l’importazione o l’esportazione, secondo l’articolo 18, di tessuti, cellule e organi la cui attribuzione non è disciplinata dagli articoli 16–23 della legge sui trapianti.</td><td>500–2 000</td></tr>
+<tr><td>1.4 l’impiego di organi, tessuti e cellule geneticamente modificati nell’ambito di un trattamento standard, secondo l’articolo 19</td><td>1 000–20 000</td></tr>
+<tr><td>1.5 …</td><td></td></tr>
+<tr><td>1.6 una sperimentazione clinica di trapianto di tessuti o cellule embrionali o fetali secondo l’articolo 49 capoverso 3 dell’ordinanza del 20 settembre 2013[^annexu1-lvlI-2] sulle sperimentazioni cliniche (OSRUm)</td><td>500–10 000</td></tr>
+<tr><td>1.7 il trapianto di tessuti o cellule provenienti da embrioni o feti nell’ambito di un trattamento standard, secondo l’articolo 34</td><td>1 000–20 000</td></tr>
+<tr><td>1.8 una sperimentazione clinica di trapianto di organi, tessuti o cellule di origine umana secondo l’articolo 49 capoversi 1 e 2 OSRUm</td><td>500–3 000</td></tr>
+<tr><td>2 Sospensione o revoca di un’autorizzazione per:</td><td></td></tr>
+<tr><td>2.1 i centri di trapianto di cui all’articolo 16 (secondo il tipo e il numero dei programmi di trapianto)</td><td>500–5 000</td></tr>
+<tr><td>2.2 la conservazione di tessuti o cellule, secondo l’articolo 17</td><td>200–1 000</td></tr>
+<tr><td>2.3 l’importazione o l’esportazione, secondo l’articolo 18, di tessuti, cellule e organi la cui attribuzione non è disciplinata dagli articoli 16–23 della legge sui trapianti</td><td>200–500</td></tr>
+<tr><td>2.4 l’impiego di organi, tessuti e cellule geneticamente modificati nell’ambito di un trattamento standard, secondo l’articolo 19</td><td>200–1 000</td></tr>
+<tr><td>2.5 …</td><td></td></tr>
+<tr><td>2.6 una sperimentazione clinica di trapianto di tessuti o cellule embrionali o fetali secondo l’articolo 49 capoverso 3 OSRUm</td><td>200–500</td></tr>
+<tr><td>2.7 il trapianto di tessuti o cellule provenienti da embrioni o feti nell’ambito di un trattamento standard, secondo l’articolo 34</td><td>200–1 000</td></tr>
+<tr><td>2.8 una sperimentazione clinica di trapianto di organi, tessuti o cellule di origine umana secondo l’articolo 49 capoversi 1 e 2 OSRUm</td><td>200–500</td></tr>
+<tr><td>3 Modifica di un’autorizzazione per:</td><td></td></tr>
+<tr><td>3.1 i centri di trapianto di cui all’articolo 16 (secondo il tipo e il numero dei programmi di trapianto)</td><td>200–10 000</td></tr>
+<tr><td>3.2 la conservazione di tessuti o cellule, secondo l’articolo 17</td><td>200–5 000</td></tr>
+<tr><td>3.3 l’importazione o l’esportazione, secondo l’articolo 18, di tessuti, cellule e organi la cui attribuzione non è disciplinata dagli articoli 16–23 della legge sui trapianti</td><td>200–2 000</td></tr>
+<tr><td>3.4 l’impiego di organi, tessuti e cellule geneticamente modificati nell’ambito di un trattamento standard, secondo l’articolo 19</td><td>200–10 000</td></tr>
+<tr><td>3.5 …</td><td></td></tr>
+<tr><td>3.6 una sperimentazione clinica di trapianto di tessuti o cellule embrionali o fetali secondo l’articolo 49 capoverso 3 OSRUm</td><td>200–5 000</td></tr>
+<tr><td>3.7 il trapianto di tessuti o cellule provenienti da embrioni o feti nell’ambito di un trattamento standard, secondo l’articolo 34</td><td>200–10 000</td></tr>
+<tr><td>3.8 una sperimentazione clinica di trapianto di organi, tessuti o cellule di origine umana secondo l’articolo 49 capoversi 1 e 2 OSRUm</td><td>200–3 000</td></tr>
+<tr><td>4 Altri emolumenti</td><td></td></tr>
+<tr><td>4.1 …</td><td></td></tr>
+<tr><td>4.2 …</td><td></td></tr>
+<tr><td>4.3 ispezione secondo l’articolo 40 in funzione del dispendio, per ispettore e per mezza giornata (esclusa la preparazione e il rapporto)</td><td>800</td></tr>
+<tr><td>4.4 stesura di rapporti</td><td>500–1 000</td></tr>
+<tr><td>4.5 rilascio di conferme e certificati</td><td>100–200</td></tr>
+<tr><td>4.6 emissione di diffide</td><td>100–300</td></tr>
+<tr><td>4.7 spese supplementari[^annexu1-lvlI-3] sostenute dall’Ufficio federale della sanità pubblica (UFSP) per il rilevamento e la trasmissione manuali di dati relativi a notifiche[^annexu1-lvlI-4] e a domande[^annexu1-lvlI-5] che non sono state presentate nella forma prevista dall’UFSP.</td><td>100–300</td></tr>
+</table>
+
+[^annexu1-lvlI-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^annexu1-lvlI-3]: Per agevolare l’esecuzione della L dell’8 ott. 2004 sui trapianti è disponibile un sistema elettronico dotato di moduli mediante i quali le persone soggette all’obbligo di notifica e i richiedenti possono introdurre direttamente le loro indicazioni e i loro dati (www.transplantationsdaten.admin.ch).
+[^annexu1-lvlI-4]: Sono incluse sia le notifiche di cui agli art. 15, 21 cpv. 2, 22 cpv. 2 e 28 dell’O del 16 mar. 2007 sui trapianti sia la modifica di notifiche già esaminate in precedenza.
+[^annexu1-lvlI-5]: Sono incluse anche le domande di modifica per attività per le quali è già stata rilasciata un’autorizzazione.
+
+## II. Emolumenti secondo l’ordinanza del 16 marzo 2007 sugli xenotrapianti
+
+[^annexu1-lvlII-1]
+
+[^annexu1-lvlII-1]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+
+<table>
+<tr><th></th><th>Franchi</th></tr>
+<tr><td>1 Rilascio o rinnovo di un’autorizzazione per:</td><td></td></tr>
+<tr><td>1.1 una sperimentazione clinica di xenotrapianto secondo l’articolo 3</td><td>500–20 000</td></tr>
+<tr><td>1.2 xenotrapianti nell’ambito di un trattamento standard secondo l’articolo 13</td><td>1 000–30 000</td></tr>
+<tr><td>2 Sospensione o revoca di un’autorizzazione per:</td><td></td></tr>
+<tr><td>2.1 una sperimentazione clinica di xenotrapianto secondo l’articolo 3</td><td>200–500</td></tr>
+<tr><td>2.2 xenotrapianti nell’ambito di un trattamento standard secondo l’articolo 13</td><td>200–1 000</td></tr>
+<tr><td>3 Modifica o di un’autorizzazione per:</td><td></td></tr>
+<tr><td>3.1 una sperimentazione clinica di xenotrapianto secondo l’articolo 3</td><td>200–5 000</td></tr>
+<tr><td>3.2 xenotrapianti nell’ambito di un trattamento standard secondo l’articolo 13</td><td>200–10 000</td></tr>
+<tr><td>4 Altri emolumenti</td><td></td></tr>
+<tr><td>4.1 ispezioni secondo l’articolo 30 capoverso 3 in funzione del dispendio, per ispettore e per mezza giornata (esclusa la preparazione e il rapporto)</td><td>800</td></tr>
+<tr><td>4.2 stesura di rapporti</td><td>500–1 000</td></tr>
+<tr><td>4.3 rilascio di conferme e certificati</td><td>100–200</td></tr>
+<tr><td>4.4 spese supplementari[^annexu1-lvlII-2] sopportate dall’UFSP per il rilevamento e la trasmissione manuali di dati relativi a domande[^annexu1-lvlII-3] che non sono state presentate nella forma prevista dall’UFSP.</td><td>100–300</td></tr>
+</table>
+
+[^annexu1-lvlII-2]: Per agevolare l’esecuzione della L dell’8 ott. 2004 sui trapianti è disponibile un sistema elettronico dotato di moduli mediante i quali i richiedenti possono introdurre direttamente le proprie indicazioni e i propri dati (www.transplantationsdaten.admin.ch).
+[^annexu1-lvlII-3]: Sono incluse anche le domande di modifica per attività per le quali è già stata rilasciata un’autorizzazione.

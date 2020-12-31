@@ -1,0 +1,260 @@
+---
+sr: "0.946.294.363"
+title: "Accordo del 24 maggio 2005 commerciale tra la Confederazione Svizzera e la Repubblica Islamica dell'Iran"
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/271"
+language: it
+version: 2017-03-17
+adopted: 2005-05-24
+in_force: 2017-03-17
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/271/20170317/it/xml/fedlex-data-admin-ch-eli-cc-2017-271-20170317-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/271/20170317/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo commerciale tra la Confederazione Svizzera e la Repubblica Islamica dell’Iran
+
+RU **2017** 2685; FF **2017** 693
+
+Traduzione*[^t-1]*
+
+Concluso il 24 maggio 2005
+
+Approvato dall’Assemblea federale il 16 marzo 2017[^t-2]
+
+Entrato in vigore mediante scambio di note il 17 marzo 2017
+
+(Stato 17 marzo 2017)
+
+[^t-1]: Dal testo originale in francese.
+[^t-2]: [RU 2017 2683](https://fedlex.data.admin.ch/eli/oc/2017/270)
+
+La Confederazione Svizzera e la Repubblica Islamica dell’Iran
+
+di seguito denominate «Parti contraenti»,
+
+consapevoli della particolare importanza che il commercio estero e le diverse forme di cooperazione economica rivestono ai fini dello sviluppo economico dei due Paesi;
+
+confermando che il rispetto dei principi democratici e dei diritti fondamentali dell’uomo, come enunciati in particolare nella Dichiarazione universale dei diritti dell’uomo, ispira le rispettive politiche nazionali ed estere e costituisce un elemento essenziale al pari degli obiettivi del presente Accordo;
+
+animate dal desiderio di creare le condizioni favorevoli a uno sviluppo concreto e armonioso nonché alla diversificazione degli scambi reciproci e alla promozione della cooperazione commerciale ed economica in settori di interesse reciproco;
+
+dichiarandosi disposte a esaminare le possibilità di sviluppare e approfondire le loro relazioni e di estenderle a settori non coperti dal presente Accordo;
+
+decise a sviluppare le loro relazioni commerciali nel rispetto dei principi dell’uguaglianza dei diritti e dei doveri, della non discriminazione e degli interessi reciproci;
+
+consapevoli dello statuto della Confederazione Svizzera in quanto membro dell’OMC e dell’intenzione della Repubblica Islamica dell’Iran di aderire quanto prima all’OMC,
+
+hanno convenuto, al fine di conseguire i suddetti obiettivi, di concludere il seguente Accordo:
+
+#### Art. 1
+
+**Obiettivo**
+
+Il presente Accordo è finalizzato a istituire adeguati principi e norme che disciplinino le relazioni commerciali ed economiche fra le Parti contraenti. In particolare, le Parti contraenti si impegnano, nell’ambito delle loro leggi e regolamentazioni e dei rispettivi obblighi internazionali, a sviluppare armoniosamente i loro scambi commerciali nonché diverse forme di cooperazione commerciale ed economica.
+
+#### Art. 2
+
+**Campo d’applicazione dell’Accordo**
+
+Gli scambi commerciali fra le Parti contraenti e i contratti fra persone fisiche e giuridiche dei due Paesi sono attuati nell’ambito del presente Accordo, conformemente alle leggi e regolamentazioni nonché agli obblighi internazionali di ogni Parte contraente.
+
+#### Art. 3
+
+**Trattamento della nazione più favorita**
+
+<sup>1.</sup> Le Parti contraenti si accordano reciprocamente il trattamento della nazione più favorita per quanto concerne sia i dazi doganali e qualsiasi tipo di tributo prelevato su o in rapporto con l’importazione o l’esportazione di merci oppure sui trasferimenti internazionali di pagamenti per le importazioni o esportazioni nonché le tasse e gli altri tributi prelevati direttamente o indirettamente sulle merci importate, sia le modalità di prelevamento di tali dazi doganali, tasse e tributi nonché qualsiasi prescrizione e formalità nell’ambito degli scambi commerciali.
+
+<sup>2.</sup>
+
+Il paragrafo 1 del presente articolo non va inteso come obbligo per una Parte contraente di far beneficiare l’altra Parte contraente dei vantaggi che essa concede:
+
+- – per agevolare il commercio frontaliero;
+- – allo scopo di creare un’unione doganale o una zona di libero scambio o in seguito alla creazione di tale unione o zona, in applicazione dell’articolo XXIV del GATT 1994[^3-1], corrispondente al 1373 Hijri solare;
+- – ai Paesi in sviluppo, in applicazione del GATT/OMC o di altri accordi internazionali.
+
+[^3-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1A.1
+
+#### Art. 4
+
+**Non discriminazione**
+
+Le importazioni in provenienza da o le esportazioni verso il territorio dell’altra Parte contraente non sono soggette ad alcun divieto né ad alcuna restrizione quantitativa, comprese le licenze, salvo che l’importazione o l’esportazione di un prodotto simile da o verso un Paese terzo non sia parimenti assoggettata a tale divieto o restrizione. La Parte contraente che introduce tali misure le applica in modo da pregiudicare il meno possibile l’altra Parte contraente.
+
+#### Art. 5
+
+**Trattamento nazionale**
+
+Per quanto riguarda le tasse e gli altri tributi interni nonché tutte le leggi, i regolamenti e le prescrizioni concernenti la vendita interna, l’offerta sul mercato, l’acquisto, il trasporto, la distribuzione o l’utilizzazione, il trattamento riservato alle merci provenienti dal territorio di una Parte contraente e importate nel territorio dell’altra Parte contraente conformemente alle leggi e regolamentazioni del Paese importatore non può essere meno favorevole di quello riservato alle merci simili di origine nazionale.
+
+#### Art. 6
+
+**Pagamenti**
+
+Salvo che le Banche centrali delle Parti contraenti convengano diversamente di comune accordo, i pagamenti in contropartita degli scambi di merci e servizi fra le Parti contraenti sono effettuati in moneta liberamente convertibile e conformemente alle norme e pratiche bancarie internazionali.
+
+#### Art. 7
+
+**Altre condizioni commerciali**
+
+<sup>1.</sup> Le merci sono scambiate tra gli operatori in singole transazioni a prezzi di mercato. In particolare, le agenzie e le imprese statali acquistano o vendono i prodotti importati o esportati fondandosi unicamente su considerazioni commerciali, segnatamente in materia di prezzo, qualità e quantità; conformemente alla prassi commerciale abituale, invitano le imprese dell’altra Parte contraente a partecipare a tali transazioni.
+
+<sup>2.</sup> Nessuna Parte contraente può esigere che gli operatori coinvolti in singole transazioni si impegnino in operazioni di permuta o compensazione né incitarli in questo senso.
+
+#### Art. 8
+
+**Trasparenza**
+
+Ciascuna Parte contraente rende pubblicamente accessibili le sue leggi, decisioni giudiziarie e amministrative concernenti le attività commerciali e informa l’altra Parte contraente su eventuali cambiamenti concernenti la nomenclatura tariffaria o statistica nonché su modifiche della sua legislazione interna che potrebbero incidere sull’attuazione del presente Accordo.
+
+#### Art. 9
+
+**Perturbazioni del mercato**
+
+<sup>1.</sup> Le Parti contraenti si consultano qualora l’importazione di un determinato prodotto nel territorio di una Parte contraente aumenti in modo tale o a condizioni tali da pregiudicare o rischiare di pregiudicare gravemente i produttori nazionali di merci analoghe o direttamente concorrenziali.
+
+<sup>2.</sup> Le consultazioni di cui al paragrafo 1 sono finalizzate a trovare soluzioni reciprocamente soddisfacenti. Se le Parti contraenti non convengono altrimenti, le consultazioni terminano al più tardi 30 giorni dopo la notifica della richiesta di consultazioni della Parte contraente interessata.
+
+<sup>3.</sup> Se le Parti contraenti non raggiungono un’intesa conformemente ai paragrafi 1 e 2, la Parte contraente lesa può limitare le importazioni delle merci interessate nella misura e durante il periodo assolutamente necessari per prevenire o porre rimedio al pregiudizio. In questo caso, e dopo consultazioni in seno alla Commissione mista, l’altra Parte contraente è libera di prendere le misure adeguate nei limiti del presente Accordo.
+
+<sup>4.</sup> Qualora decidano di applicare i provvedimenti previsti nel paragrafo 3, le Parti contraenti danno la priorità a quelli che meno pregiudicano il funzionamento del presente Accordo.
+
+#### Art. 10
+
+**Proprietà intellettuale**
+
+<sup>1.</sup> Le Parti contraenti garantiscono, nell’ambito delle loro leggi e regolamentazioni e in conformità con le convenzioni internazionali sulla proprietà intellettuale cui hanno aderito, una protezione adeguata, efficace e non discriminatoria dei diritti di proprietà intellettuale (in particolare del diritto d’autore – compresi i programmi per computer e le banche dati – e dei diritti di protezione affini, dei marchi di prodotti e servizi, delle indicazioni geografiche per prodotti e servizi, dei brevetti in tutti i settori della tecnologia, delle varietà vegetali, dei disegni e modelli industriali, della topografia dei circuiti integrati e delle informazioni confidenziali) su tutti i prodotti e i servizi scambiati.
+
+Le Parti contraenti si adoperano per conformare le loro leggi e regolamentazioni alle disposizioni delle relative convenzioni sulla proprietà intellettuale entro termini ragionevoli.
+
+<sup>2.</sup> Le licenze obbligatorie in materia di brevetti conformemente all’articolo 5 della Convenzione di Parigi del 20 marzo 1883, corrispondente al 29 Esfand 1261, per la protezione della proprietà industriale, (Atto di Stoccolma, 1967[^10-1], corrispondente al 1346 Hijri solare) non sono né esclusive né discriminatorie, sottostanno a una compensazione equa e che tiene conto del valore economico della licenza sul mercato nazionale, e possono essere oggetto di un riesame giudiziario. La portata e la durata di tali licenze sono limitate allo scopo per il quale sono state rilasciate. Le licenze per non sfruttamento, ossia per le invenzioni brevettate che non sono né prodotte nel Paese né importate, sono utilizzate unicamente nella misura necessaria per soddisfare il mercato nazionale a condizioni commerciali ragionevoli.
+
+<sup>3.</sup> Le Parti contraenti si adoperano, nei limiti del possibile, per prevedere nella loro legislazione interna disposizioni d’applicazione adeguate, efficaci e non discriminatorie al fine di tutelare i diritti di proprietà intellettuale contro qualsiasi violazione, in particolare contro la contraffazione e la pirateria. Dette disposizioni comprendono sanzioni civili e, ove opportuno, sanzioni penali contro la violazione di qualsiasi diritto di proprietà intellettuale. Le procedure amministrative e giudiziarie (civili e penali) sono leali ed eque. Esse non sono inutilmente complicate e costose né comportano termini irragionevoli o dilazioni ingiustificate. Comprendono in particolare le ingiunzioni, un risarcimento commisurato al danno subìto dall’avente diritto e stabilito dall’autorità giudiziaria, nonché provvedimenti cautelari, compresi provvedimenti *inaudita altera parte* decisi dall’autorità giudiziaria*.* Le decisioni amministrative di ultima istanza concernenti la proprietà intellettuale possono essere impugnate davanti a un’autorità giudiziaria.
+
+<sup>4.</sup> Inoltre, le Parti contraenti che non sono parti alle Convenzioni di Berna e di Roma si impegnano ad adottare ogni provvedimento necessario per aderirvi.
+
+Riaffermando il loro impegno ad adempiere gli obblighi derivanti dalla Convenzione di Parigi del 20 marzo 1883, corrispondente al 29 Esfand 1261, per la protezione della proprietà intellettuale (Atto di Stoccolma, 1967, corrispondente al 1346 Hijri solare), le Parti contraenti si adoperano, in modo appropriato, per conformare le loro leggi e regolamentazioni alle disposizioni dei seguenti accordi multilaterali e convenzioni internazionali sulla proprietà intellettuale:
+
+- (1) Accordo dell’OMC del 15 aprile 1994[^10-2], corrispondente al 26 Farvardin 1373, sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio;
+- (2) Convenzione di Berna del 9 settembre 1886, corrispondente al 18 Shahrivar 1265, per la protezione delle opere letterarie ed artistiche (Atto di Parigi, 1971[^10-3], corrispondente al 1350 Hijri solare);
+- (3) Convenzione internazionale del 26 ottobre 1961[^10-4], corrispondente al 4 Aban 1340, sulla protezione degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione (Convenzione di Roma).
+
+<sup>5.</sup> Se l’acquisizione di un diritto di proprietà intellettuale è soggetta al rilascio o alla registrazione, le Parti contraenti assicurano che le procedure di rilascio o di registrazione siano di buona qualità, non discriminatorie, adeguate ed eque. Esse non sono inutilmente complicate e costose né comportano termini irragionevoli o dilazioni ingiustificate.
+
+Dall’entrata in vigore del presente Accordo, le Parti contraenti garantiscono nella loro legislazione interna una protezione adeguata ed efficace dei disegni e modelli industriali, in particolare assicurando loro un periodo di protezione di almeno dieci anni.
+
+Qualora non fossero parti ai seguenti due Accordi, le Parti contraenti si impegnano ad aderirvi:
+
+- (1) Accordo di Madrid del 14 aprile 1891, corrispondente al 25 Farvardin 1270, per la registrazione internazionale dei marchi (Atto di Stoccolma, 1967[^10-5], corrispondente al 1346 Hijri solare);
+- (2) Accordo dell’Aia del 6 novembre 1925, corrispondente al 15 Aban 1304, per il deposito internazionale dei disegni e modelli industriali (Atto di Ginevra, 1999[^10-6], corrispondente al 1378 Hijri solare).
+
+<sup>6.</sup> Le Parti contraenti accordano ai cittadini dell’altra Parte contraente, nel settore della proprietà intellettuale, un trattamento non meno favorevole di quello riservato ai loro cittadini, fatte salve le deroghe previste nelle convenzioni internazionali sulla proprietà intellettuale cui hanno aderito.
+
+<sup>7.</sup> Le Parti contraenti accordano ai cittadini dell’altra Parte contraente un trattamento non meno favorevole di quello riservato ai cittadini di qualsiasi altro Stato terzo. Tutti i vantaggi, i benefici, i privilegi o le immunità accordati da una Parte contraente ai cittadini di qualsiasi altro Stato sono estesi immediatamente e incondizionatamente ai cittadini dell’altra Parte contraente.
+
+Sono esenti da questo obbligo tutti i vantaggi, i benefici, i privilegi o le immunità accordati da una Parte contraente in virtù di accordi internazionali relativi alla protezione della proprietà intellettuale entrati in vigore prima dell’entrata in vigore del presente Accordo, purché tali accordi siano notificati all’altra Parte contraente entro sei mesi dall’entrata in vigore di questo Accordo e non costituiscano una discriminazione arbitraria o ingiustificata contro i cittadini dell’altra Parte contraente.
+
+<sup>8.</sup> Al fine di migliorare il livello di protezione e di prevenire o eliminare distorsioni commerciali legate ai diritti di proprietà intellettuale, le disposizioni del presente articolo possono essere riesaminate conformemente all’articolo 14 («Commissione mista»).
+
+[^10-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^10-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1C
+[^10-3]: [RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
+[^10-4]: [RS 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
+[^10-5]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
+[^10-6]: [RS 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
+
+#### Art. 11
+
+**Deroghe**
+
+<sup>1.</sup> o qualsiasi misura cui fa riferimento l’articolo XX del GATT 1994[^11-1], corrispondente al 1373 Hijri solare.
+
+Fermo restando che le suddette misure non siano applicate in modo da costituire una discriminazione arbitraria o ingiustificata negli scambi commerciali fra le Parti contraenti né una limitazione occulta di tali scambi, il presente Accordo non vieta alle Parti contraenti di adottare provvedimenti giustificati dal punto di vista della tutela:
+
+- – della moralità pubblica,
+- – della salute o della vita di persone, animali e vegetali nonché dell’ambiente;
+
+<sup>2.</sup> Il presente Accordo non limita il diritto delle Parti contraenti di adottare misure in applicazione dell’articolo XXI del GATT 1994, corrispondente al 1373, Hijri solare.
+
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1A.1
+
+#### Art. 12
+
+**Cooperazione economica**
+
+<sup>1.</sup> Le Parti contraenti si adoperano per favorire e promuovere la cooperazione economica in settori di interesse reciproco.
+
+<sup>2.</sup>
+
+Tale cooperazione economica avrà, fra gli altri scopi, quello di:
+
+- – consolidare e diversificare i legami economici fra le Parti contraenti;
+- – contribuire allo sviluppo economico reciproco;
+- – aprire l’accesso a nuove fonti di approvvigionamento e a nuovi mercati;
+- – favorire la cooperazione fra operatori economici al fine di promuovere le joint venture, gli accordi sulla concessione di licenze nonché forme di cooperazione analoghe;
+- – promuovere determinati adeguamenti strutturali in campo economico e sostenere la Repubblica Islamica dell’Iran in materia di politica commerciale, offrendo altresì assistenza tecnica nel processo d’adesione dell’Iran all’OMC;
+- – agevolare la partecipazione delle piccole e medie imprese agli scambi e alla cooperazione;
+- – promuovere e approfondire la cooperazione nel settore della proprietà intellettuale, in particolare mediante l’istituzione di modalità appropriate di assistenza tecnica fra le rispettive autorità delle Parti contraenti; a tal fine, le Parti contraenti coordinano le loro iniziative con le organizzazioni internazionali competenti.
+
+#### Art. 13
+
+**Servizi consolari**
+
+Al fine di sviluppare le relazioni commerciali reciproche, le Parti contraenti hanno convenuto di considerare favorevolmente la semplificazione delle procedure consolari concernenti le domande di visto per affari da parte delle autorità competenti nonché concernenti la legalizzazione di documenti ufficiali, conformemente alle loro leggi, usi e regolamentazioni.
+
+#### Art. 14
+
+**Commissione mista**
+
+Le Parti contraenti convengono di istituire una commissione mista composta di loro rappresentanti. La Commissione si riunisce regolarmente o su domanda di una delle Parti contraenti.
+
+Le due delegazioni possono invitare rappresentanti del settore privato alle sedute, secondo l’ordine del giorno.
+
+La Commissione mista ha in particolare il compito di:
+
+- (1) vigilare sul buon funzionamento dell’Accordo e riesaminarne le disposizioni su richiesta di una delle Parti contraenti;
+- (2) proporre soluzioni per eliminare le difficoltà che possono derivare dall’applicazione del presente Accordo;
+- (3) riesaminare e studiare i mezzi per intensificare e diversificare la cooperazione economica reciproca e formulare le raccomandazioni del caso alle Parti contraenti;
+- (4) sviluppare e approfondire le relazioni instaurate in virtù dell’Accordo ed estenderle a settori non contemplati da quest’ultimo, segnatamente ai servizi.
+
+#### Art. 15
+
+**Accesso alle autorità giudiziarie**
+
+Le Parti contraenti si impegnano ad accordare ai cittadini dell’altra Parte contraente parità di trattamento per quanto riguarda l’accesso alle autorità giudiziarie secondo quanto previsto dalle leggi e regolamentazioni di ogni Parte contraente.
+
+#### Art. 16
+
+**Commissione per la composizione delle controversie**
+
+Tutte le questioni e le controversie che dovessero sorgere nell’ambito del presente Accordo sono sottoposte da una o dall’altra Parte contraente a un’apposita commissione composta di un rappresentante per ognuna delle Parti contraenti nonché di una o tre personalità internazionali con cittadinanza diversa da quella delle Parti contraenti, nominate di comune accordo fra i rappresentanti. La Commissione esamina i fatti e propone soluzioni appropriate in conformità con le rispettive leggi, regolamentazioni e usanze.
+
+#### Art. 17
+
+**Applicazione territoriale**
+
+Il presente Accordo si applica anche al Principato del Liechtenstein nella misura in cui tale Paese rimanga legato alla Confederazione Svizzera dall’Accordo bilaterale del 29 marzo 1923[^17-1], corrispondente al 9 Farvardin 1302.
+
+[^17-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+
+#### Art. 18
+
+**Validità dell’Accordo**
+
+Il presente Accordo entra in vigore il giorno in cui le Parti contraenti si notificano reciprocamente che le condizioni costituzionali richieste per l’entrata in vigore del presente Accordo sono adempiute ed è valido per una durata di cinque anni. Allo scadere di tale termine, è rinnovato ogni volta per un periodo di un anno, salvo se una delle Parti contraenti lo denuncia mediante notifica scritta all’altra Parte contraente sei mesi prima della data di scadenza.
+
+Alla data di scadenza del presente Accordo le sue disposizioni concernenti i contratti debitamente firmati e in essere rimangono valide per al massimo un anno, salvo se diversamente convenuto dalle Parti contraenti.
+
+Fatto a Berna, il 24 maggio 2005, corrispondente al 3 Khordad 1384, composto di un preambolo, di 18 articoli e di un allegato, in due esemplari originali in francese, persiano e inglese, tutti i testi facenti parimenti fede.
+
+In caso di divergenze d’interpretazione prevale il testo inglese.
+
+<table>
+<tr><td>Per la Confederazione Svizzera: Joseph Deiss</td><td>Per la Repubblica Islamica dell’Iran: Mohammad Shariatmadari</td></tr>
+</table>
+
+## Allegato all’Accordo commerciale tra la Confederazione Svizzera e la Repubblica Islamica dell’Iran
+
+Le Parti contraenti hanno convenuto che gli obblighi della Repubblica Islamica dell’Iran derivanti dal presente Accordo di rispettare le disposizioni materiali dell’Accordo dell’OMC del 15 aprile 1994[^lvlu19-1], corrispondente al 26 Farvardin 1373, sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio (segnatamente l’art. 10 par. 4) diverranno effettivi soltanto a partire dalla data della sua adesione all’Organizzazione mondiale del commercio.
+
+[^lvlu19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1C

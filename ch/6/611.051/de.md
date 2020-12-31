@@ -1,0 +1,46 @@
+---
+sr: "611.051"
+title: Verordnung der Bundesversammlung vom 18. Juni 2004 über die Verpflichtungskreditbegehren für Grundstücke und Bauten
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/383"
+language: de
+version: 2004-08-01
+adopted: 2004-06-18
+in_force: 2004-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/383/20040801/de/xml/fedlex-data-admin-ch-eli-cc-2004-383-20040801-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/383/20040801/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung der Bundesversammlung über die Verpflichtungskreditbegehren für Grundstücke und Bauten
+
+vom 18. Juni 2004 (Stand am 1. August 2004)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf Artikel 27 Absatz 1 des Finanzhaushaltgesetzes vom 6. Oktober 1989[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 5. Dezember 2003[^ingress-2],
+
+verordnet:
+
+[^ingress-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^ingress-2]: [BBl 2004 1](https://fedlex.data.admin.ch/eli/fga/2004/1)
+
+#### Art. 1
+
+<sup>1</sup> Verpflichtungskreditbegehren für Grundstücke und Bauten, mit Ausnahme derjenigen für den ETH-Bereich, sind vom Bundesrat den eidgenössischen Räten mit besonderer Botschaft zu unterbreiten und im Einzelnen zu erläutern, wenn die für den Bund zu erwartenden Gesamtausgaben pro Projekt 10 Millionen Franken übersteigen.
+
+<sup>2</sup> Beträgt die Ausgabe nicht mehr als 10 Millionen Franken, so kann der Verpflichtungskredit ohne besondere Botschaft mit dem Voranschlag oder einem Nachtrag angefordert werden. Dieses Verfahren wird auch bei Vorhaben angewandt, die im Interesse der Landesverteidigung geheimgehalten werden.
+
+#### Art. 2
+
+Der Bundesrat wird mit dem Vollzug beauftragt.
+
+#### Art. 3
+
+Der Bundesbeschluss vom 6. Oktober 1989[^3-1] über Objektkreditbegehren für Grundstücke und Bauten wird aufgehoben.
+
+[^3-1]: [[AS 1990 1013](https://fedlex.data.admin.ch/eli/oc/1990/1013_1013_1013)]
+
+#### Art. 4
+
+Diese Verordnung der Bundesversammlung tritt am 1. August 2004 in Kraft.

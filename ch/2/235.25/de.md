@@ -1,0 +1,193 @@
+---
+sr: "235.25"
+title: Verordnung vom 17. Oktober 2018 über das Datenbearbeitungssystem «e-vent» der Kommunikation EDA (Verordnung «e-vent»)
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/650"
+language: de
+version: 2018-12-01
+adopted: 2018-10-17
+in_force: 2018-12-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20181201/de/xml/fedlex-data-admin-ch-eli-cc-2018-650-20181201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20181201/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über das Datenbearbeitungssystem «e-vent» des Konferenzdienstes EDA
+
+(Verordnung «e-vent»)
+
+vom 17. Oktober 2018 (Stand am 1. Dezember 2018)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung regelt den Betrieb und die Benützung des Datenbearbeitungssystems «e-vent» (System) des Konferenzdienstes des Eidgenössischen Departements für auswärtige Angelegenheiten (Konferenzdienst EDA) im Staatssekretariat des EDA.
+
+#### Art. 2
+
+**Zweck**
+
+Das System dient dem Konferenzdienst EDA zur Wahrnehmung seiner Aufgaben im Rahmen der Planung, Organisation und Durchführung von Konferenzen und Veranstaltungen.
+
+#### Art. 3
+
+**Verantwortliche Behörde**
+
+Der Konferenzdienst EDA trägt die Verantwortung für das System.
+
+#### Art. 4
+
+**Struktur**
+
+Das System besteht aus einer Datenbank und je einem Online-Portal für den Zugriff von innerhalb und von ausserhalb des EDA.
+
+## 2. Abschnitt: Daten und Datenbearbeitung
+
+#### Art. 5
+
+**Personen und bearbeitete Daten**
+
+<sup>1</sup> Das System enthält Daten von Teilnehmerinnen und Teilnehmern von Konferenzen und Veranstaltungen.
+
+<sup>2</sup> Welche Daten erfasst werden, ist im Anhang geregelt.
+
+#### Art. 6
+
+**Herkunft der Daten und Bearbeitungsrechte**
+
+<sup>1</sup> Die Daten werden von den Teilnehmerinnen und Teilnehmern oder vom Konferenzdienst EDA erfasst.
+
+<sup>2</sup> Die Teilnehmerinnen und Teilnehmer verfügen für die eigenen Daten im System über vollständige Bearbeitungsrechte.
+
+<sup>3</sup> Der Konferenzdienst EDA verfügt für alle Daten im System über vollständige Bearbeitungsrechte.
+
+<sup>4</sup> Die Einheit für Informatik des EDA verfügt über diejenigen Zugriffsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind.
+
+<sup>5</sup> Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt.
+
+<sup>6</sup> Die Daten gemäss Anhang dürfen an Dritte weitergegeben werden, soweit diese die Daten zu Organisations- und Reservationszwecken benötigen.
+
+#### Art. 7
+
+**Dokumente**
+
+Im System können alle Dokumente zu Konferenzen, Veranstaltungen und den daran teilnehmenden Personen im Rahmen des Zwecks dieser Verordnung erfasst werden.
+
+#### Art. 8
+
+**Aufbewahrung, Archivierung und Vernichtung von Daten**
+
+<sup>1</sup> Datensätze von Personen werden spätestens zehn Jahre nach der letzten Bearbeitung vernichtet.
+
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung.
+
+## 3. Abschnitt: Betrieb und Zugriffsberechtigungen
+
+#### Art. 9
+
+**Technischer Betrieb und Systemverwaltung**
+
+<sup>1</sup> Die Einheit für Informatik des EDA ist für den technischen Betrieb des Systems verantwortlich.
+
+<sup>2</sup> Die Systemadministratorin oder der Systemadministrator gehört der Einheit für Informatik des EDA an. Sie oder er verwaltet das Computersystem, die Datenbank und die Anwendungen.
+
+<sup>3</sup> Die oder der Anwendungsverantwortliche gehört dem Konferenzdienst EDA an. Sie oder er bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern.
+
+#### Art. 10
+
+**Erteilung der Zugriffsberechtigung**
+
+<sup>1</sup> Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des Systems die individuellen Zugriffsrechte.
+
+<sup>2</sup> Der Konferenzdienst EDA überprüft jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen.
+
+## 4. Abschnitt: Datensicherheit
+
+#### Art. 11
+
+**Sorgfaltspflichten**
+
+<sup>1</sup> Der Konferenzdienst EDA sorgt dafür, dass die Daten im System vorschriftsgemäss bearbeitet werden.
+
+<sup>2</sup> Er stellt sicher, dass die Personendaten richtig, vollständig und nachgeführt sind.
+
+#### Art. 12
+
+**Bearbeitungsreglement**
+
+Der Konferenzdienst EDA erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
+
+#### Art. 13
+
+**Protokollierung**
+
+<sup>1</sup> Die Zugriffe auf das System und die Bearbeitungen werden laufend protokolliert.
+
+<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+
+## 5. Abschnitt: Inkrafttreten
+
+#### Art. 14
+
+Diese Verordnung tritt am 1. Dezember 2018 in Kraft.
+
+Anhang
+
+(Art. 5 Abs. 2)
+
+## Im System erfasste Personendaten
+
+- 1\. Namen
+- 2\. Namen gemäss Reisepass
+- 3\. Vornamen
+- 4\. Vornamen gemäss Reisepass
+- 5\. Titel (akademisch)
+- 6\. Titel (berufliche oder amtliche Funktion)
+- 7\. Anrede
+- 8\. Firma
+- 9\. Geschlecht
+- 10\. Geburtsdatum
+- 11\. Geburtsort
+- 12\. Staatsangehörigkeiten
+- 13\. Repräsentant/in welcher Delegation / welchen Landes / welcher Organisation
+- 14\. E-Mail-Adressen
+- 15\. Telefonnummer (Festnetz)
+- 16\. Telefonnummer (Mobil)
+- 17\. Faxnummer
+- 18\. Adresse (Strasse, Postleitzahl, Ort)
+- 19\. Land
+- 20\. Homepage
+- 21\. Korrespondenzart (Brief / E-Mail)
+- 22\. Rechnungsadresse
+- 23\. Besondere Ansprüche an Essen und Trinken
+- 24\. Militärischer Rang
+- 25\. Ziviler Rang
+- 26\. Position
+- 27\. Arbeitgeber
+- 28\. Ankunft am Veranstaltungsort / im Hotel
+- 29\. Abreise am Veranstaltungsort / im Hotel
+- 30\. Korrespondenzsprache
+- 31\. Fluginformationen (Datum und Uhrzeit der An- und Abreise, Flugnummer, Transferzeiten)
+- 32\. Reisepassinformationen (Nummer, Ausstellungs- und Gültigkeitsdatum, Ausstellungsort)
+- 33\. Benötigtes Visum
+- 34\. Kreditkartenangaben (Nummer, Ablaufdatum)
+- 35\. Angaben zu Hotel / Aufenthaltsort (Adresse, Zimmer etc.)
+- 36\. Name der mitreisenden Partnerin / des mitreisenden Partners
+- 37\. Angaben zur Teilnahme (Workshops, Dinners, Frühstück, Mittagessen, Abendessen, Ausflüge)
+- 38\. Themen für Workshops
+- 39\. Foto
+- 40\. Sponsorship: ja / nein
+- 41\. Begründung für das Sponsorship
+- 42\. Spezielle Bedürfnisse aufgrund von körperlichen Beeinträchtigungen
+- 43\. Teilnahme an früheren Konferenzen

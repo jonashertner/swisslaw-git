@@ -1,0 +1,256 @@
+---
+sr: "725.13"
+title: Bundesgesetz vom 30. September 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr (NAFG)
+short: NAFG
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/761"
+language: de
+version: 2018-01-01
+adopted: 2016-09-30
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/761/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-761-20180101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/761/20180101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über den Fonds für die Nationalstrassen und den Agglomerationsverkehr
+
+(NAFG)
+
+vom 30. September 2016 (Stand am 1. Januar 2018)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf Artikel 86 Absatz 1 der Bundesverfassung (BV)[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 18. Februar 2015[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)
+
+#### Art. 1
+
+**Fonds**
+
+<sup>1</sup> Der Fonds zur Finanzierung der Nationalstrassen und des Agglomerationsverkehrs (Fonds) ist ein rechtlich unselbstständiger Fonds mit eigener Rechnung.
+
+<sup>2</sup> Das Finanzhaushaltgesetz vom 7. Oktober 2005[^1-1] ist subsidiär anwendbar.
+
+[^1-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+
+#### Art. 2
+
+**Zweck**
+
+<sup>1</sup> Die Mittel des Fonds dienen der effizienten und umweltverträglichen Bewältigung der für eine leistungsfähige Gesellschaft und Wirtschaft erforderlichen Mobilität in allen Landesgegenden.
+
+<sup>2</sup> Bei der Investitionsplanung werden die Kantone ausgewogen berücksichtigt.
+
+<sup>3</sup>
+
+Der Einsatz der Mittel basiert auf einer Gesamtschau des Verkehrs, die:
+
+- a. alle Verkehrsträger und -mittel mit ihren Vor- und Nachteilen einbezieht;
+- b. wirksame Alternativen gegenüber neuen Infrastrukturen vorzieht;
+- c. die langfristige Finanzierbarkeit und die Finanzlage der öffentlichen Hand berücksichtigt;
+- d. den Schutz der Umwelt und die Koordination mit der Siedlungsentwicklung beachtet;
+- e. die Verbesserung der Erschliessung der Berggebiete und der Tourismusregionen einbezieht.
+
+#### Art. 3
+
+**Fondsrechnung**
+
+<sup>1</sup> Die Fondsrechnung besteht aus einer Erfolgsrechnung, einer Bilanz und einer Investitionsrechnung.
+
+<sup>2</sup>
+
+Die Erfolgsrechnung weist mindestens aus:
+
+- a.
+
+  als Ertrag:
+
+  - 1\. die Einlagen in Form von zweckgebundenen Einnahmen,
+  - 2\. die Erträge im Zusammenhang mit der Bewirtschaftung der Nationalstrassen durch den Bund;
+
+- b.
+
+  als Aufwand:
+
+  - 1\. die Entnahmen für die Finanzierung der Nationalstrassen nach Artikel 7 Absatz 1 des Bundesgesetzes vom 22. März 1985[^3-1] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG) und für die Beiträge an Massnahmen zur Verbesserung der Verkehrsinfrastruktur in Städten und Agglomerationen (Agglomerationsverkehr) nach Artikel 17*a* MinVG, soweit diese nicht als aktivierbare Ausgaben unter Absatz 4 fallen,
+  - 2\. die Wertberichtigung der Nationalstrassen im Bau und der Darlehen für Schienenprojekte des Agglomerationsverkehrs.
+
+<sup>3</sup>
+
+Die Bilanz weist aus:
+
+- a. unter den Aktiven: das Umlauf- und das Anlagevermögen;
+- b. unter den Passiven: das Fremd- und das Eigenkapital.
+
+<sup>4</sup>
+
+Die Investitionsrechnung weist mindestens aus:
+
+- a. die Investitionen für die Nationalstrassen im Bau;
+- b. die Beträge der gewährten Darlehen für Schienenprojekte des Agglomerationsverkehrs.
+
+[^3-1]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+
+#### Art. 4
+
+**Einlagen**
+
+<sup>1</sup> Der Bundesrat beantragt der Bundesversammlung mit dem Voranschlag die Höhe der Mittel, die dem Fonds zuzuweisen sind, soweit diese nicht in der Bundesverfassung bestimmt ist.
+
+<sup>2</sup> Er überprüft regelmässig, ob die Mittel des Fonds für die Finanzierung der Aufgaben nach Artikel 86 Absatz 1 BV genügen. Ist dies nicht der Fall, so beantragt er eine Anpassung der Verbrauchssteuern (inklusive Zuschlag) und Abgaben nach Artikel 86 Absatz 2 BV.
+
+#### Art. 5
+
+**Entnahmen**
+
+<sup>1</sup>
+
+Die Bundesversammlung legt gleichzeitig mit dem Bundesbeschluss über den Voranschlag des Bundes mit einfachem Bundesbeschluss die Höhe der Mittel fest, die dem Fonds jährlich entnommen werden. Diese Mittel werden wie folgt aufgeteilt:
+
+- a.
+
+  Nationalstrassen:
+
+  - 1\. Betrieb, Unterhalt und Ausbau im Sinne von Anpassungen,
+  - 2\. Ausbau im Sinne von Kapazitätserweiterungen (Ausbauschritte) sowie grössere Vorhaben im bestehenden Nationalstrassennetz,
+  - 3\. Fertigstellung;
+
+- b. Beiträge an Massnahmen zur Verbesserung des Agglomerationsverkehrs.
+
+<sup>2</sup> Die Mittel für die Finanzierung der Nationalstrassen haben vorrangig den Bedarf für deren Betrieb und Unterhalt sicherzustellen.
+
+<sup>3</sup> Werden die Arbeiten für die Ausbauschritte und für die grösseren Vorhaben im bestehenden Nationalstrassennetz rascher als geplant ausgeführt und entwickeln sich die Kosten erwartungsgemäss, so kann der Bundesrat den im laufenden Jahr dafür bewilligten Voranschlagskredit um bis zu 15 Prozent erhöhen.
+
+#### Art. 6
+
+**Zahlungsrahmen**
+
+Der Bundesrat beantragt der Bundesversammlung jeweils einen vierjährigen Zahlungsrahmen für die Entnahmen nach Artikel 5 Absatz 1 Buchstabe a Ziffer 1.
+
+#### Art. 7
+
+**Verpflichtungskredite**
+
+Der Bundesrat beantragt der Bundesversammlung in der Regel alle vier Jahre je einen Verpflichtungskredit für:
+
+- a. die Ausbauschritte und die grösseren Vorhaben im bestehenden Nationalstrassennetz nach Artikel 5 Absatz 1 Buchstabe a Ziffer 2;
+- b. die Beiträge an Massnahmen zur Verbesserung des Agglomerationsverkehrs nach Artikel 5 Absatz 1 Buchstabe b.
+
+#### Art. 8
+
+**Berichterstattung**
+
+Der Bundesrat berichtet der Bundesversammlung zusammen mit der Botschaft zur Bewilligung des Zahlungsrahmens und der Verpflichtungskredite:
+
+- a. über den Zustand und die Auslastung der Nationalstrassen;
+- b. über den Stand der Umsetzung der Ausbauschritte und über die geplanten nächsten Ausbauschritte;
+- c. über den Stand der Umsetzung des Programms im Agglomerationsverkehr und über die geplanten nächsten Phasen.
+
+#### Art. 9
+
+**Verschuldung, Reserve und Verzinsung**
+
+<sup>1</sup> Der Fonds darf sich nicht verschulden. Vorbehalten bleiben Vorfinanzierungen nach Artikel 8a MinVG[^9-1].
+
+<sup>2</sup> Er bildet eine angemessene Reserve.
+
+<sup>3</sup> Guthaben des Fonds gegenüber dem Bund werden nicht verzinst.
+
+[^9-1]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+
+#### Art. 10
+
+**Genehmigung der Fondsrechnung und Kenntnisnahme der Finanzplanung**
+
+<sup>1</sup> Der Bundesrat unterbreitet der Bundesversammlung jährlich die Fondsrechnung zur Genehmigung.
+
+<sup>2</sup> Er erstellt für den Fonds eine Finanzplanung über die drei dem Voranschlag folgenden Jahre und bringt sie der Bundesversammlung zusammen mit dem Voranschlag zur Kenntnis.
+
+#### Art. 11
+
+**Aufhebung und Änderung anderer Erlasse**
+
+Die Aufhebung und Änderung anderer Erlasse werden im Anhang geregelt.
+
+#### Art. 12
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Alle Aktiven und Passiven des Infrastrukturfonds nach dem Infrastrukturfondsgesetz vom 6. Oktober 2006[^12-1] werden mit dem Inkrafttreten dieses Gesetzes dem Fonds übertragen. Der Anteil der Rückstellungen der Spezialfinanzierung für den Strassenverkehr nach Artikel 86 Absatz 3 BV (Spezialfinanzierung Strassenverkehr), der dem Fonds gemäss den zu überführenden Aufgaben zusteht, wird diesem innerhalb von drei Jahren nach Inkrafttreten dieses Gesetzes über die Bundesrechnung zugewiesen. Vor der Aufteilung wird die Rückstellung um die Beträge nach Absatz 1<sup>bis</sup> gekürzt.[^12-2]
+
+<sup>1bis</sup>
+
+Die Beträge, um die die Einlagen in den Infrastrukturfonds in den Jahren 2016 und 2017 gekürzt wurden, werden dem Fonds wie folgt gutgeschrieben:
+
+- a. 2018: der Kürzungsbetrag 2017 für die Bereinigung des Finanzplans 2017–2019;
+- b. 2019: der Kürzungsbetrag 2016 für die Bereinigung des Finanzplans 2017–2019;
+- c. 2020: der Kürzungsbetrag 2017 im Rahmen des Stabilisierungsprogramms 2017–2019.[^12-3]
+
+<sup>1ter</sup> Sofern der Bundesbeschluss vom 30. September 2016[^12-4] über die Schaffung eines Fonds für die Nationalstrassen und den Agglomerationsverkehr später als 2018 in Kraft gesetzt wird, erfolgen die Gutschriften nur noch in den jeweils verbleibenden Jahren.[^12-5]
+
+<sup>2</sup> Mit Inkrafttreten dieses Gesetzes wird der Anteil der Liquiditätsreserve des Infrastrukturfonds, der den Beiträgen an Hauptstrassen in Berggebieten und Randregionen zusteht, in der Bundesrechnung als Einnahme verbucht und der Spezialfinanzierung Strassenverkehr gutgeschrieben.
+
+<sup>3</sup> Die Verpflichtungskredite, die vor Inkrafttreten dieses Gesetzes gestützt auf Artikel 1 Absatz 2 Buchstaben a–c des Bundesbeschlusses vom 4. Oktober 2006[^12-6] über den Gesamtkredit für den Infrastrukturfonds für die Nationalstrassen und den Agglomerationsverkehr bewilligt wurden, werden weitergeführt. Die entsprechenden Ausgaben werden dem Fonds belastet.
+
+<sup>4</sup> Der Verpflichtungskredit, der vor Inkrafttreten dieses Gesetzes gestützt auf Artikel 1 Absatz 2 Buchstabe d des Bundesbeschlusses vom 4. Oktober 2006 über den Gesamtkredit für den Infrastrukturfonds für Beiträge an Hauptstrassen in Berggebieten und Randregionen bewilligt wurde, wird weitergeführt. Die entsprechenden Ausgaben werden der Spezialfinanzierung Strassenverkehr belastet.
+
+[^12-1]: [[AS 2007 6017](https://fedlex.data.admin.ch/eli/oc/2007/798), [2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708)Anhang Ziff. 4, [2011 1753](https://fedlex.data.admin.ch/eli/oc/2011/267), [2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)Art. 47, [2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672)Anhang Ziff. 3]
+[^12-2]: Dritter Satz eingefügt durch Ziff. I 5 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^12-3]: Eingefügt durch Ziff. I 5 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^12-4]: [BBl 2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628)
+[^12-5]: Eingefügt durch Ziff. I 5 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^12-6]: [BBl 2007 8553](https://fedlex.data.admin.ch/eli/fga/2007/1389)
+
+#### Art. 13
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat veröffentlicht dieses Gesetz im Bundesblatt, wenn der Bundesbeschluss vom 30. September 2016[^13-1] über die Schaffung eines Fonds für die Nationalstrassen und den Agglomerationsverkehr von Volk und Ständen angenommen worden ist.
+
+<sup>3</sup> Er setzt dieses Gesetz unter Vorbehalt der Absätze 4–6 gleichzeitig mit dem Bundesbeschluss vom 30. September 2016 über die Schaffung eines Fonds für die Nationalstrassen und den Agglomerationsverkehr in Kraft[^13-2].
+
+<sup>4</sup>
+
+Er setzt die Änderung des Mineralölsteuergesetzes vom 21. Juni 1996[^13-3] (Anhang Ziff. 1) wie folgt in Kraft:
+
+- a. Artikel 12 Absatz 2: im Jahr, bevor die Reserve des Fonds unter den Betrag von 500 Millionen Franken fallen würde;
+- b. Artikel 12*f*: gleichzeitig mit der ersten Anpassung des Mineralölsteuerzuschlags nach Inkrafttreten von Artikel 12 Absatz 2.
+
+<sup>5</sup> Er setzt Artikel 5 MinVG[^13-4] (Anhang Ziff. 5) zwei Jahre nach Inkrafttreten des Bundesbeschlusses vom 30. September 2016 über die Schaffung eines Fonds für die Nationalstrassen und den Agglomerationsverkehr in Kraft.
+
+<sup>6</sup> Er setzt Artikel 2 des Nationalstrassenabgabegesetzes vom 19. März 2010[^13-5] (Anhang Ziff. 6) zwei Jahre nach Inkrafttreten des Bundesbeschlusses vom 30. September 2016 über die Schaffung eines Fonds für die Nationalstrassen und den Agglomerationsverkehr in Kraft.
+
+Datum des Inkrafttretens: 1. Januar 2018[^13-6]
+
+[^13-1]: [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751)
+[^13-2]: Dieser BB tritt am 1. Januar 2018 in Kraft.
+[^13-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+[^13-4]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^13-5]: [SR 741.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8697)
+[^13-6]: BRB vom 22. Nov. 2017
+
+Anhang
+
+(Art. 11)
+
+## Aufhebung und Änderung anderer Erlasse
+
+I
+
+Das Infrastrukturfondsgesetz vom 6. Oktober 2006[^annexu1-lvlu1-1] wird aufgehoben.
+
+II
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+…[^annexu1-lvlu1-2]
+
+[^annexu1-lvlu1-1]: [[AS 2007 6017](https://fedlex.data.admin.ch/eli/oc/2007/798), [2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708)Anhang Ziff. 4, [2011 1753](https://fedlex.data.admin.ch/eli/oc/2011/267), [2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)Art. 47, [2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672)Anhang Ziff. 3]
+[^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761)konsultiert werden.

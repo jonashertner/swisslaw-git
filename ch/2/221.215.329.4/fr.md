@@ -1,0 +1,158 @@
+---
+sr: "221.215.329.4"
+title: "Ordonnance du 20 octobre 2010 sur le contrat-type de travail pour les travailleurs de l'économie domestique (CTT économie domestique)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
+language: fr
+version: 2020-01-01
+adopted: 2010-10-20
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le contrat-type de travail pour les travailleurs de l’économie domestique
+
+(CTT économie domestique)
+
+du 20 octobre 2010 (Etat le 1<sup>er</sup> janvier 2020)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 360*a* du code des obligations (CO)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 1
+
+**Champ d’application territorial**
+
+<sup>1</sup> La présente ordonnance s’applique sur le territoire suisse.
+
+<sup>2</sup> Elle ne s’applique pas dans les cantons dans lesquels, lors de son entrée en vigueur, un contrat-type de travail cantonal selon l’art. 360*a* CO est applicable dans l’économie domestique, aussi longtemps que le contrat-type de travail cantonal est en vigueur.
+
+#### Art. 2
+
+**Champ d’application quant aux personnes**
+
+<sup>1</sup> La présente ordonnance s’applique à tous les rapports de travail entre des travailleurs qui effectuent des activités domestiques dans un ménage privé et leurs employeurs.
+
+<sup>2</sup>
+
+Elle ne s’applique pas aux rapports de travail entre les personnes qui ont la relation suivante:
+
+- a. époux;
+- b. partenaires enregistrés;
+- c. ascendants et descendants en ligne directe, leurs conjoints et partenaires enregistrés;
+- d. concubins.
+
+<sup>3</sup>
+
+Elle ne s’applique pas non plus aux rapports de travail des personnes suivantes:
+
+- a. travailleurs au pair;
+- b. jeunes employés exclusivement pour garder occasionnellement des enfants;
+- c. personnes qui prennent en charge des enfants en dehors de la famille (mamans de jour, accueil à midi);
+- d. stagiaires qui effectuent un stage pour une formation professionnelle initiale dans un centre de formation en Suisse;
+- e. personnes effectuant un apprentissage de gestionnaire en intendance;
+- f. personnes dont les rapports de travail sont soumis au droit public fédéral, cantonal, communal ou au droit international public;
+- g. personnes employées par une organisation de droit public ou par une organisation d’utilité publique qui a un mandat public;
+- h. travailleurs de l’économie domestique actifs dans des ménages agricoles et qui sont soumis à un contrat-type de travail pour les employés agricoles;
+- i. travailleurs actifs pendant moins de cinq heures en moyenne par semaine auprès du même employeur;
+- j. travailleurs soumis à une convention collective de travail déclarée de force obligatoire;
+- k. travailleurs titulaires d’une carte de légitimation de type E ou F du Département fédéral des affaires étrangères et affectés au service domestique d’une personne bénéficiaire visée à l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^2-1].
+
+[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+
+#### Art. 3
+
+**Activités domestiques**
+
+Sont considérés comme activités domestiques les travaux d’entretien général du ménage, en particulier:
+
+- a. les travaux de nettoyage;
+- b. l’entretien du linge;
+- c. les commissions;
+- d. la cuisine;
+- e. la participation à la prise en charge d’enfants, de personnes âgées et de malades;
+- f. l’assistance aux personnes âgées et aux malades dans la vie quotidienne.
+
+#### Art. 4
+
+**Catégories de salaire**
+
+<sup>1</sup>
+
+Le salaire minimum est fixé en fonction des catégories suivantes:
+
+- a. employé non qualifié;
+- b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique;
+- c. employé qualifié.
+
+<sup>2</sup> L’expérience professionnelle dans l’économie domestique est reconnue si elle englobe plusieurs activités domestiques représentant au moins cinq heures de travail hebdomadaire en moyenne. Le travailleur doit pouvoir attester de son expérience professionnelle lors de sa prise d’emploi.
+
+<sup>3</sup>
+
+Sont considérés comme employés qualifiés les travailleurs:
+
+- a. disposant d’un certificat fédéral de capacité (CFC) de gestionnaire en intendance ou d’un diplôme de fin de formation professionnelle initiale d’une durée d’au moins trois ans approprié à l’activité exercée;
+- b. disposant d’une attestation fédérale de formation professionnelle (AFP) d’employé en intendance ou d’un diplôme de fin de formation professionnelle initiale d’une durée de deux ans approprié à l’activité exercée.
+
+#### Art. 5
+
+**Montant du salaire minimum**
+
+<sup>1</sup> Le salaire minimum brut, sans les suppléments pour vacances et jours fériés payés, est fixé comme suit selon les différentes catégories:
+
+<table>
+<tr><td></td><td>Francs par heure</td></tr>
+<tr><td>a. employé non qualifié</td><td>19,20</td></tr>
+<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>21,10</td></tr>
+<tr><td>c. employé qualifié avec CFC</td><td>23,20</td></tr>
+<tr><td>d. employé qualifié avec AFP</td><td>21,10 [^5-1]</td></tr>
+</table>
+
+<sup>2</sup> Le Secrétariat d’État à l’économie publie les salaires mensuels calculés sur la base de ces salaires horaires en fonction du nombre d’heures de travail par semaine. Le calcul des salaires mensuels repose sur le versement de douze salaires mensuels par an.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+
+#### Art. 6
+
+**Dérogations au salaire minimum en cas de capacité réduite**
+
+<sup>1</sup> Pour les travailleurs dont les capacités dans les activités domestiques sont réduites de manière permanente pour des raisons de santé, un salaire dérogeant au salaire minimum fixé à l’art. 5 peut être convenu. Dans ces cas, les salaires minimaux constituent des valeurs indicatives.
+
+<sup>2</sup> La dérogation au salaire minimum doit reposer sur un accord écrit se référant aux capacités réduites du travailleur.
+
+#### Art. 7
+
+**Salaire en nature**
+
+Si un travailleur reçoit une partie de son salaire sous la forme d’un logement ou de nourriture, la valeur de ces prestations est déterminée par les montants fixés à l’art. 11 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^7-1].
+
+[^7-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 8
+
+**Applicabilité aux rapports de travail existants**
+
+La présente ordonnance est applicable aux rapports de travail existants dès son entrée en vigueur.
+
+#### Art. 9
+
+**Entrée en vigueur et durée de validité**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2011 et a effet jusqu’au 31 décembre 2013.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2016.[^9-1]
+
+<sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2019.[^9-2]
+
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022.[^9-3]
+
+[^9-1]: Introduit par le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
+[^9-2]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
+[^9-3]: Introduit par le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).

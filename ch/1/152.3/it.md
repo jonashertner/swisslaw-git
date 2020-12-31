@@ -1,0 +1,359 @@
+---
+sr: "152.3"
+title: "Legge federale del 17 dicembre 2004 sul principio di trasparenza dell'amministrazione (Legge sulla trasparenza, LTras)"
+short: LTras
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
+language: it
+version: 2014-08-19
+adopted: 2004-12-17
+in_force: 2006-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20140819/it/xml/fedlex-data-admin-ch-eli-cc-2006-355-20140819-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sul principio di trasparenza dell’amministrazione
+
+(Legge sulla trasparenza, LTras)
+
+del 17 dicembre 2004 (Stato 19 agosto 2014)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 12 febbraio 2003[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2003 1783](https://fedlex.data.admin.ch/eli/fga/2003/246)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo e oggetto**
+
+La presente legge ha lo scopo di promuovere la trasparenza sulle attribuzioni, l’organizzazione e l’attività dell’amministrazione. A tal fine contribuisce all’informazione del pubblico garantendogli accesso ai documenti ufficiali.
+
+#### Art. 2
+
+**Campo d’applicazione personale**
+
+<sup>1</sup>
+
+La presente legge si applica:
+
+- a. all’amministrazione federale;
+- b. alle organizzazioni e alle persone di diritto pubblico o privato esterne all’Amministrazione federale, nella misura in cui emanino atti normativi o emettano decisioni di prima istanza ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968[^2-1] sulla procedura amministrativa;
+- c. ai Servizi del Parlamento.
+
+<sup>2</sup> La presente legge non si applica alla Banca nazionale svizzera, né all’Autorità federale di vigilanza sui mercati finanziari.[^2-2]
+
+<sup>3</sup>
+
+Il Consiglio federale può escludere dal campo d’applicazione altre unità dell’amministrazione federale nonché altre organizzazioni e persone esterne all’Amministrazione federale, se:
+
+- a. è necessario per l’adempimento dei compiti loro affidati;
+- b. l’assoggettamento alla presente legge pregiudica la loro competitività; oppure
+- c. i compiti che sono stati loro affidati sono di poca importanza.
+
+[^2-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^2-2]: Nuovo testo giusta il n. 1 dell'all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+#### Art. 3
+
+**Campo d’applicazione materiale**
+
+<sup>1</sup>
+
+La presente legge non si applica:
+
+- a. all’accesso a documenti ufficiali concernenti
+  - 1\. procedimenti civili,
+  - 2\. procedimenti penali,
+  - 3\. procedure di assistenza giudiziaria e amministrativa internazionale,
+  - 4\. procedure internazionali di composizione delle controversie,
+  - 5\. procedure di giurisdizione amministrativa e in materia di diritto pubblico, nonché
+  - 6\. procedimenti arbitrali;
+
+- b. al diritto di una parte di consultare gli atti nell’ambito di una procedura amministrativa di prima istanza.
+
+<sup>2</sup> L’accesso ai documenti ufficiali che contengono dati del richiedente è retto dalla legge federale del 19 giugno 1992[^3-1] sulla protezione dei dati (LPD).
+
+[^3-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 4
+
+**Riserva di disposizioni speciali**
+
+Restano salve le disposizioni speciali previste in altre leggi federali, che:
+
+- a. dichiarano segrete determinate informazioni; o
+- b. prevedono condizioni divergenti da quelle previste dalla presente legge per l’accesso a determinate informazioni.
+
+#### Art. 5
+
+**Documenti ufficiali**
+
+<sup>1</sup>
+
+Per documento ufficiale si intende ogni informazione:
+
+- a. registrata su un supporto qualsiasi;
+- b. in possesso dell’autorità da cui proviene o a cui è stata comunicata; e
+- c. concernente l’adempimento di un compito pubblico.
+
+<sup>2</sup> Sono considerati ufficiali anche i documenti che possono essere allestiti mediante un trattamento informatico semplice sulla base di informazioni registrate che soddisfano le condizioni di cui al capoverso 1 lettere b e c.
+
+<sup>3</sup>
+
+Non sono considerati ufficiali i documenti:
+
+- a. utilizzati da un’autorità per scopi commerciali;
+- b. la cui elaborazione non è terminata; o
+- c. destinati all’uso personale.
+
+## Sezione 2: Diritto di accesso ai documenti ufficiali
+
+#### Art. 6
+
+**Principio della trasparenza**
+
+<sup>1</sup> Ogni persona ha il diritto di consultare i documenti ufficiali e di ottenere informazioni sul loro contenuto da parte delle autorità.
+
+<sup>2</sup> Può consultare i documenti ufficiali sul posto oppure ottenerne una copia. Rimane salva la legislazione in materia di diritti d’autore.
+
+<sup>3</sup> Se un documento ufficiale è pubblicato in un organo della Confederazione o su una pagina internet della Confederazione, il diritto di consultazione di cui ai capoversi 1 e 2 è considerato adempiuto.
+
+#### Art. 7
+
+**Eccezioni**
+
+<sup>1</sup>
+
+Il diritto di accesso a un documento ufficiale è limitato, differito o negato se può:
+
+- a. ledere in modo considerevole la libera formazione dell’opinione e della volontà di un’autorità soggetta alla presente legge, di un altro organo legislativo o amministrativo o di un’autorità giudiziaria;
+- b. perturbare l’esecuzione appropriata di misure concrete di un’autorità;
+- c. compromettere la sicurezza interna o esterna della Svizzera;
+- d. compromettere gli interessi della politica estera o le relazioni internazionali della Svizzera;
+- e. compromettere i rapporti tra la Confederazione e i Cantoni o tra i Cantoni;
+- f. compromettere gli interessi della politica economica o monetaria della Svizzera;
+- g. comportare la rivelazione di segreti professionali, di fabbricazione o d’affari;
+- h. far sì che vengano divulgate informazioni fornite liberamente da terzi a un’autorità che ne ha garantito il segreto.
+
+<sup>2</sup> Il diritto di accesso è altresì limitato, differito o negato se può ledere la sfera privata di terzi; eccezionalmente può tuttavia prevalere l’interesse pubblico all’accesso.
+
+#### Art. 8
+
+**Casi particolari**
+
+<sup>1</sup> Non sussiste il diritto di accesso ai documenti ufficiali della procedura di corapporto.
+
+<sup>2</sup> I documenti ufficiali possono essere resi accessibili soltanto allorché la decisione politica o amministrativa per la quale costituiscono la base è stata presa.
+
+<sup>3</sup> Il Consiglio federale può eccezionalmente disporre che documenti ufficiali della procedura di consultazione degli Uffici non vengano resi accessibili nemmeno dopo la decisione.
+
+<sup>4</sup> L’accesso a documenti ufficiali concernenti posizioni relative a negoziati in corso o futuri è in ogni caso escluso.
+
+<sup>5</sup> L’accesso ai rapporti di valutazione dell’efficienza dell’Amministrazione federale e dell’efficacia delle sue misure è garantito.
+
+#### Art. 9
+
+**Protezione dei dati personali**
+
+<sup>1</sup> I documenti ufficiali che contengono dati personali devono, se possibile, essere resi anonimi prima di essere consultati.
+
+<sup>2</sup> Se la domanda di accesso concerne documenti ufficiali che non possono essere resi anonimi, si applica l’articolo 19 LPD[^9-1]. La procedura di accesso è retta dalla presente legge.
+
+[^9-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Sezione 3: Procedura di accesso ai documenti ufficiali
+
+#### Art. 10
+
+**Domanda di accesso**
+
+<sup>1</sup> La domanda di accesso ai documenti ufficiali deve essere indirizzata all’autorità che ha stilato il documento o lo ha ricevuto, quale destinataria principale, da terzi non soggetti alla presente legge.
+
+<sup>2</sup> Il Consiglio federale può prevedere una procedura particolare per l’accesso a documenti ufficiali delle rappresentanze svizzere all’estero e delle missioni presso organizzazioni internazionali.
+
+<sup>3</sup> La domanda deve essere formulata con sufficiente precisione.
+
+<sup>4</sup>
+
+Il Consiglio federale disciplina le modalità della procedura:
+
+- a. tiene conto dei bisogni particolari dei media;
+- b. può prevedere altre modalità di accesso allorquando un numero rilevante di domande si riferisca agli stessi documenti;
+- c. può prevedere termini di trattamento più lunghi per domande che richiedono un trattamento particolarmente dispendioso.
+
+#### Art. 11
+
+**Diritto di essere consultati**
+
+<sup>1</sup> Se la domanda di accesso concerne documenti ufficiali che contengono dati personali, l’autorità, qualora preveda di accordare l’accesso, consulta la persona interessata e le dà la possibilità di presentare le proprie osservazioni entro dieci giorni.
+
+<sup>2</sup> L’autorità informa la persona consultata della sua presa di posizione sulla domanda di accesso.
+
+#### Art. 12
+
+**Presa di posizione dell’autorità**
+
+<sup>1</sup> L’autorità si pronuncia il più presto possibile, ma al più tardi venti giorni dopo la ricezione della domanda.
+
+<sup>2</sup> Il termine può essere eccezionalmente prorogato di venti giorni se la domanda concerne documenti voluminosi, complessi o difficili da reperire. È prorogato della durata necessaria se la domanda concerne documenti ufficiali che contengono dati personali.
+
+<sup>3</sup> Se la domanda concerne documenti ufficiali che contengono dati personali, l’accesso è sospeso fino a quando la situazione giuridica sia chiarita.
+
+<sup>4</sup> L’autorità informa il richiedente quando il termine è prorogato o il diritto di accesso limitato o negato e ne indica sommariamente i motivi. L’informazione e la motivazione relative alla limitazione o al diniego dell’accesso devono avvenire per scritto.
+
+#### Art. 13
+
+**Mediazione**
+
+<sup>1</sup>
+
+Può presentare una domanda scritta di mediazione la persona:
+
+- a. il cui accesso a documenti ufficiali è limitato, differito o negato;
+- b. sulla cui domanda l’autorità non si è pronunciata entro il termine; o
+- c. che è stata consultata secondo l’articolo 11, se l’autorità intende accordare l’accesso contro la sua volontà.
+
+<sup>2</sup> La domanda di mediazione deve essere presentata per scritto all’Incaricato federale della protezione dei dati e della trasparenza entro venti giorni dalla ricezione della presa di posizione dell’autorità o dallo scadere del termine di cui l’autorità dispone per prendere posizione.
+
+<sup>3</sup> Se la mediazione ha successo, la pratica è tolta dal ruolo.
+
+#### Art. 14
+
+**Raccomandazione**
+
+Se la mediazione non ha successo, l’Incaricato federale della protezione dei dati e della trasparenza emana, entro trenta giorni dalla ricezione della domanda di mediazione, una raccomandazione scritta all’attenzione dei partecipanti alla procedura.
+
+#### Art. 15
+
+**Decisione**
+
+<sup>1</sup> Il richiedente o la persona consultata può chiedere, entro dieci giorni dalla ricezione della raccomandazione, l’emanazione di una decisione ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968[^15-1] sulla procedura amministrativa.
+
+<sup>2</sup>
+
+Per il resto l’autorità pronuncia una decisione se, diversamente da quanto raccomandato:
+
+- a. intende limitare, differire o negare il diritto di accesso a un documento ufficiale;
+- b. intende accordare il diritto di accesso a un documento ufficiale che contiene dati personali.
+
+<sup>3</sup> La decisione è pronunciata entro venti giorni dalla ricezione della raccomandazione o dalla ricezione della richiesta di decisione ai sensi del capoverso 1.
+
+[^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 16
+
+**Ricorso**[^16-1]
+
+<sup>1</sup> La procedura di ricorso è retta dalle disposizioni generali della procedura amministrativa federale.
+
+<sup>2</sup> Le autorità di ricorso hanno anche accesso ai documenti ufficiali sottoposti al segreto d’ufficio.
+
+[^16-1]: Nuovo testo giusta il n. 7 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 17
+
+**Emolumenti**
+
+<sup>1</sup> L’accesso a documenti ufficiali è di norma soggetto al versamento di un emolumento.[^17-1]
+
+<sup>2</sup>
+
+Non vengono riscossi emolumenti per:
+
+- a. le domande il cui trattamento richiede poco lavoro;
+- b. la procedura di mediazione (art. 13); e
+- c. la procedura di decisione (art. 15).
+
+<sup>3</sup> Il Consiglio federale disciplina i dettagli e stabilisce la tariffa degli emolumenti in funzione del dispendio. Rimangono salve le disposizioni speciali previste in altre leggi federali.
+
+<sup>4</sup> Per la fornitura di rapporti, opuscoli o altri documenti stampati e supporti di informazione può in ogni caso essere riscosso un emolumento.
+
+[^17-1]: Correzione del 16 giu. 2014 ([RU 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
+
+## Sezione 4: Incaricato federale della protezione dei dati e della trasparenza
+
+#### Art. 18
+
+**Compiti e competenze**
+
+Secondo la presente legge, l’Incaricato federale della protezione dei dati e della trasparenza (Incaricato), di cui all’articolo 26 LPD[^18-1], ha in particolare i compiti e le competenze seguenti:
+
+- a. dirige la procedura di mediazione (art. 13) ed emana una raccomandazione se la mediazione non ha successo (art. 14);
+- b. d’ufficio o su richiesta, informa i privati e le autorità sulle modalità di accesso ai documenti ufficiali;
+- c. si pronuncia in merito ai progetti di atti legislativi federali e ai provvedimenti federali che concernono in misura considerevole il principio della trasparenza.
+
+[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 19
+
+**Valutazione**
+
+<sup>1</sup> L’Incaricato valuta l’applicazione, gli effetti e, in particolare, i costi provocati dall’esecuzione della presente legge e redige periodicamente un rapporto all’attenzione del Consiglio federale.
+
+<sup>2</sup> Un primo rapporto sui costi provocati dall’esecuzione della presente legge è sottoposto al Consiglio federale entro tre anni dall’entrata in vigore della legge.
+
+<sup>3</sup> I rapporti dell’Incaricato sono pubblicati.
+
+#### Art. 20
+
+**Diritto di ottenere informazioni e di consultare i documenti**
+
+<sup>1</sup> Nell’ambito della procedura di mediazione, l’Incaricato ha anche accesso ai documenti ufficiali soggetti al segreto d’ufficio.
+
+<sup>2</sup> L’Incaricato e il suo segretariato sottostanno al segreto d’ufficio nella stessa misura delle autorità di cui consultano i documenti ufficiali o da cui ottengono informazioni.
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 21
+
+**Esecuzione**
+
+Il Consiglio federale può in particolare emanare disposizioni concernenti:
+
+- a. la gestione dei documenti ufficiali;
+- b. l’informazione sui documenti ufficiali;
+- c. la pubblicazione dei documenti ufficiali.
+
+#### Art. 22
+
+**Modifica del diritto vigente**
+
+La modifica del diritto vigente è disciplinata nell’allegato.
+
+#### Art. 23
+
+**Disposizione transitoria**
+
+La presente legge è applicabile ai documenti ufficiali stilati o ricevuti da un’autorità dopo la sua entrata in vigore.
+
+#### Art. 24
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà a referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° luglio 2006[^24-1]
+
+[^24-1]: DCF del 24 mag. 2006.
+
+Allegato
+
+(art. 22)
+
+## Modifica del diritto vigente
+
+Le leggi qui appresso sono modificate come segue:
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla RU**2006** 2319.

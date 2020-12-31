@@ -1,0 +1,434 @@
+---
+sr: "143.116"
+title: "Ordinanza del DFAE del 13 novembre 2002 concernente l'ordinanza sui documenti d'identità (O-ODI-DFAE)"
+short: O-ODI-DFAE
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/664"
+language: it
+version: 2012-03-01
+adopted: 2002-11-13
+in_force: 2003-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20120301/it/xml/fedlex-data-admin-ch-eli-cc-2002-664-20120301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFAE concernente l’ordinanza sui documenti d’identità
+
+(O-ODI-DFAE)
+
+del 13 novembre 2002 (Stato 1° marzo 2012) (Stato 1° marzo 2012)
+
+Il Dipartimento federale degli affari esteri (DFAE),
+
+visti gli articoli 55 capoverso 3 e 56 dell’ordinanza del 20 settembre 2002[^ingress-1] sui documenti d’identità (ODI),
+
+ordina:
+
+[^ingress-1]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Passaporti diplomatici e di servizio**
+
+<sup>1</sup> Passaporti diplomatici o di servizio possono essere consegnati d’ufficio a persone che, in virtù della loro funzione o su incarico della Confederazione, sono incaricate di tutelare gli interessi svizzeri all’estero.
+
+<sup>2</sup>
+
+I passaporti diplomatici e di servizio hanno l’unico scopo di:
+
+- a. facilitare il passaggio di confine in uno Stato estero;
+- b. consentire l’annuncio nello Stato accreditatario.
+
+<sup>3</sup> Essi non danno diritto a nessun privilegio di natura consolare o diplomatica.
+
+<sup>4</sup> Passaporti diplomatici sono rilasciati a persone incaricate di tutelare interessi diplomatici o consolari; negli altri casi sono rilasciati passaporti di servizio.
+
+#### Art. 2
+
+**Passaporti ordinari e provvisori[^2-1]**
+
+<sup>1</sup> Un passaporto diplomatico o di servizio ordinario è rilasciato per la durata del mandato, della carica, della funzione o di una missione.
+
+<sup>2</sup> Un passaporto diplomatico o di servizio provvisorio è rilasciato soltanto in casi urgenti se non vi è tempo sufficiente per rilasciare un passaporto ordinario.
+
+<sup>3</sup> ...[^2-2]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^2-2]: Introdotto dal n. I dell’O del DFAE del 22 feb. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)). Abrogato dal n. I dell’O del DFAE del 31 gen. 2012, con effetto dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 3
+
+**Cittadinanza svizzera**
+
+Passaporti diplomatici e di servizio possono essere rilasciati soltanto a persone in possesso della cittadinanza svizzera.
+
+#### Art. 4
+
+**Impiegati in prova**
+
+Agli impiegati in prova non sono rilasciati passaporti diplomatici e di servizio.
+
+#### Art. 5
+
+**Autorità competenti**
+
+<sup>1</sup> La Direzione delle risorse del DFAE (Direzione) è l’autorità richiedente e l’autorità di rilascio ai sensi della legge del 22 giugno 2001[^5-1] sui documenti d’identità (LDI).[^5-2]
+
+<sup>2</sup> Essa decide in merito al rilascio, alla restituzione e al ritiro di un passaporto diplomatico o di servizio (documenti d’identità ufficiali).
+
+<sup>3</sup>
+
+Essa può derogare, in via eccezionale, alle disposizioni della presente ordinanza:
+
+- a. su domanda;
+- b. in presenza di motivi importanti; e
+- c. se la deroga è indispensabile al fine di tutelare interessi nazionali.
+
+[^5-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^5-2]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+## Capitolo 2: Titolari del passaporto
+
+### Sezione 1: Passaporto diplomatico
+
+#### Art. 6
+
+**Impiegati del DFAE**
+
+Un passaporto diplomatico può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata:
+
+- a.[^6-1] agli impiegati del DFAE soggetti all’obbligo di trasferimento;
+- b. agli altri impiegati del DFAE che adempiono funzioni intese a tutelare gli interessi diplomatici e consolari;
+- c. agli altri impiegati del DFAE occupati all’estero o incaricati di una missione all’estero, sempreché sia necessario per importanti ragioni di servizio o di altra natura e sia stato autorizzato dalla Direzione dopo aver sentito la divisione politica competente nel caso singolo oppure per determinati luoghi di lavoro in generale;
+- d.[^6-2] agli altri impiegati del DFAE, sempre che esercitino una funzione corrispondente alle classi di salario 18 e superiori e che sia necessario per importanti ragioni di servizio o di altra natura.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^6-2]: Introdotta dal n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+
+#### Art. 7
+
+**Impiegati di altri Dipartimenti**
+
+Un passaporto diplomatico può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata:
+
+- a. agli impiegati degli altri Dipartimenti occupati all’estero che sono distaccati presso il DFAE e adempiono funzioni intese a tutelare gli interessi diplomatici o consolari;
+- b. agli impiegati degli altri Dipartimenti aventi rango di segretario di Stato, ambasciatore o ministro;
+- c.[^7-1] ai direttori degli uffici federali.
+
+[^7-1]: Introdotta dal n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+
+#### Art. 8
+
+**Magistrati della Confederazione**
+
+Un passaporto diplomatico è rilasciato e consegnato per una durata illimitata:
+
+- a. ai consiglieri federali in carica o in pensione;
+- b. al cancelliere in carica e ai cancellieri in pensione.
+
+#### Art. 9
+
+**Altre persone**
+
+Un passaporto diplomatico può essere rilasciato e consegnato per la durata del mandato, della carica, della funzione o di una missione:
+
+- a. al presidente del Consiglio nazionale;
+- b. al presidente del Consiglio degli Stati;
+- c. ai membri delle Camere federali che rappresentano la Svizzera presso il Consiglio d’Europa;
+- d. ai membri delle Camere federali che siedono in commissioni internazionali;
+- e. al presidente del Tribunale federale;
+- f. ai membri delle Camere federali che viaggiano all’estero per conto del Parlamento;
+- g. agli impiegati dei Servizi del Parlamento che accompagnano all’estero i membri di Commissioni parlamentari o una delegazione ufficiale;
+- h. al procuratore generale della Confederazione;
+- i. agli impiegati superiori presso le organizzazioni internazionali a partire dalla classe D1 in avanti;
+- j. ai delegati svizzeri e ai loro supplenti nella commissione centrale per la navigazione sul Reno;
+- k. ai giudici svizzeri alla Corte internazionale di giustizia dell’Aia, alla Corte europea dei diritti dell’uomo di Strasburgo, alla Camera d’appello della commissione centrale per la navigazione sul Reno e presso gli organi internazionali di giustizia, arbitrato, inchiesta o conciliazione;
+- l. alle persone incaricate per una durata limitata dal Consiglio federale di adempiere una missione ufficiale presso un governo estero, un’organizzazione o una conferenza internazionali;
+- m. al presidente del Comitato internazionale della Croce Rossa (CICR) e ai membri e delegati della CICR nella categoria fuori classe I;
+- n. ai collaboratori della CICR nella categoria fuori classe II;
+- o. agli altri collaboratori e delegati della CICR, purché necessario per motivi di sicurezza o per altri motivi importanti;
+- p. al presidente e al medico capo della Croce Rossa svizzera.
+
+### Sezione 2: Passaporto di servizio
+
+#### Art. 10
+
+**Impiegati del DFAE**
+
+Un passaporto di servizio può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata:
+
+- a.[^10-1] agli impiegati del DFAE, se la loro funzione lo richiede per motivi importanti;
+- b. ai membri onorari ai quali la Direzione ha conferito un titolo consolare.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 11
+
+**Impiegati di altri Dipartimenti**
+
+Un passaporto di servizio può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata agli impiegati degli altri Dipartimenti occupati all’estero, sempreché questi siano distaccati presso il DFAE e non ricevano un passaporto diplomatico.
+
+#### Art. 12
+
+**Altre persone**
+
+Un passaporto di servizio può essere rilasciato e consegnato per la durata della missione ufficiale all’estero:
+
+- a. alle persone incaricate dal Consiglio federale o dal capo del DFAE di adempiere una missione temporanea all’estero che non si svolge presso un governo straniero, un’organizzazione internazionale o una conferenza internazionale;
+- b. ai delegati della Croce Rossa svizzera per i loro impieghi all’estero;
+- c. al presidente, al direttore, ai sostituti-direttori e agli impiegati in servizio esterno dell’Ufficio svizzero per l’espansione commerciale (OSEC);
+- d. al presidente, al vicepresidente e al direttore della fondazione Pro Helvetia come pure ai capi delle agenzie estere della fondazione Pro Helvetia;
+- e. al presidente e al direttore di Svizzera Turismo, ai capi delle agenzie estere di Svizzera Turismo come pure agli impiegati di queste agenzie.
+
+### Sezione 3: Passaporti per congiunti
+
+#### Art. 13
+
+**Passaporto diplomatico**[^13-1]
+
+Un passaporto diplomatico può essere rilasciato e consegnato per una durata illimitata:
+
+- a. al coniuge o al partner registrato del titolare del passaporto secondo gli articoli 6, 7 lettere a–b e 8;
+- b. al partner del titolare del passaporto secondo gli articoli 6 lettere a–c e 7 lettera a per la durata dell’impiego all’estero del titolare del passaporto;
+- c. ai figli del titolare del passaporto secondo gli articoli 6 lettere a–c, 7 lettera a e 8 fino al compimento del 18° anno di età;
+- d. ai figli in formazione del titolare del passaporto secondo gli articoli 6 lettere a–c e 7 lettera a aventi un’età compresa tra 18 e 25 anni, a scopo di visita o viaggi in comune, per la durata dell’impiego all’estero del titolare del passaporto.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+
+#### Art. 14
+
+**Passaporto di servizio**[^14-1]
+
+Un passaporto di servizio può essere rilasciato e consegnato per una durata illimitata:
+
+- a. al coniuge o al partner registrato del titolare del passaporto secondo gli articoli 10 lettera a e 11;
+- b. al partner del titolare del passaporto secondo gli articoli 10 lettera a e 11 per la durata dell’impiego all’estero del titolare del passaporto;
+- c. ai figli del titolare del passaporto secondo gli articoli 10 lettera a e 11 fino al compimento del 18° anno di età;
+- d. ai figli in formazione del titolare del passaporto secondo gli articoli 10 lettera a e 11 aventi un’età compresa tra 18 e 25 anni, a scopo di visita o viaggi in comune, per la durata dell’impiego all’estero del titolare del passaporto.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+
+#### Art. 15
+
+**Partner**
+
+<sup>1</sup> È considerato partner la persona con la quale il titolare del passaporto convive.
+
+<sup>2</sup>
+
+Vi è convivenza quando:
+
+- a. il partner e il titolare del passaporto vivono in economia domestica comune; e
+- b. il partner prende parte con il titolare del passaporto a un impiego all’estero.
+
+<sup>3</sup> Il partner che vuole ricevere un passaporto diplomatico o di servizio deve attestare alla Direzione per scritto l’effettiva esistenza e la durata della convivenza.
+
+### Sezione 4: Eccezioni alla consegna dei passaporti per una durata limitata
+
+#### Art. 16
+
+**Eccezioni**
+
+La Direzione può rilasciare a persone che devono intraprendere più viaggi all’anno per adempiere missioni ufficiali passaporti diplomatici o di servizio secondo gli articoli 9 e 12 per una durata illimitata.
+
+## Capitolo 3: Validità dei passaporti
+
+#### Art. 17
+
+<sup>1</sup>
+
+I passaporti diplomatici e di servizio ordinari sono validi:
+
+- a. dieci anni al massimo per persone che, al momento della domanda, hanno compiuto il 18° anno di età;
+- b.[^17-1] cinque anni al massimo per persone che, al momento della domanda, non hanno ancora compiuto il 18° anno d’età;
+- c.[^17-2] ...
+
+<sup>1bis</sup> ...[^17-3]
+
+<sup>2</sup> I passaporti diplomatici e di servizio provvisori sono validi al massimo 12 mesi.
+
+<sup>3</sup> La Direzione stabilisce la durata di validità del passaporto al momento del rilascio.
+
+<sup>4</sup> La validità si calcola in mesi e decorre a partire dalla data di emissione del documento.
+
+<sup>5</sup> La durata di un passaporto diplomatico o di servizio non è prorogabile.
+
+<sup>6</sup> Se per un lungo periodo non è possibile la produzione dei passaporti diplomatici e di servizio, la durata dei passaporti validi può essere prorogata fino a un massimo di 3 anni e i passaporti provvisori possono essere rilasciati con una validità di 3 anni.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^17-2]: Abrogata dal n. I dell’O del DFAE del 31 gen. 2012, con effetto dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^17-3]: Introdotto dal n. I dell’O del DFAE del 22 feb. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)). Abrogato dal n. I dell’O del DFAE del 31 gen. 2012, con effetto dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+## Capitolo 4: Rilascio, perdita e restituzione
+
+### Sezione 1: Procedura di richiesta e di rilascio
+
+#### Art. 18
+
+**Richiesta**[^18-1]
+
+<sup>1</sup> Per la procedura di rilascio di un passaporto diplomatico o di servizio sono applicabili per analogia gli articoli 9–14*a* ODI.
+
+<sup>2</sup> La Direzione può predisporre moduli complementari secondo cui allestire il modulo di richiesta ordinario.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogato dal n. I dell’O del DFAE del 31 gen. 2012, con effetto dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 20
+
+**Presenza personale**[^20-1]
+
+<sup>1</sup> Il richiedente deve presentarsi personalmente alla Direzione, portare i documenti eventualmente richiesti da quest’ultima e dimostrare la propria identità.
+
+<sup>2</sup> La Direzione verifica l’identità del richiedente.
+
+<sup>3</sup> Il richiedente può presentarsi personalmente presso una rappresentanza svizzera all’estero se la Direzione ha previamente dato il suo consenso.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 21
+
+[^21-1]
+
+[^21-1]: Abrogato dal n. I dell’O del DFAE del 31 gen. 2012, con effetto dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 22
+
+**Contenuto dei passaporti**
+
+Nei passaporti diplomatici e di servizio possono essere iscritti, oltre ai dati secondo l’articolo 14 ODI, la descrizione della funzione e altri dati necessari per svolgere una missione, una carica, un mandato o un’attività.
+
+#### Art. 23
+
+**Passaporti sostitutivi**
+
+<sup>1</sup> In presenza di gravi motivi, la Direzione può rilasciare al titolare di un passaporto diplomatico o di servizio ulteriori passaporti (passaporti sostitutivi).
+
+<sup>2</sup> Venuti meno i gravi motivi, i passaporti sostitutivi devono essere restituiti immediatamente e spontaneamente alla Direzione.
+
+#### Art. 24
+
+**Deposito dei passaporti svizzeri ordinari**
+
+<sup>1</sup> Alla consegna di un passaporto diplomatico o di servizio, eventuali altri passaporti svizzeri validi già rilasciati devono essere depositati presso la Direzione.[^24-1]
+
+<sup>2</sup> La Direzione può permettere che tali passaporti siano depositati altrove, sempreché sia escluso ogni abuso.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+
+#### Art. 25
+
+**Deposito dei passaporti diplomatici e di servizio**
+
+Il titolare di un passaporto diplomatico o di servizio deve depositarlo presso la Direzione quando fa domanda per ottenere un passaporto svizzero ordinario.
+
+#### Art. 26
+
+**Consegna**
+
+<sup>1</sup> Dopo la loro produzione, i passaporti diplomatici e di servizio sono consegnati alla Direzione.
+
+<sup>2</sup> La Direzione li inoltra ai rispettivi titolari.
+
+### Sezione 2: Perdita
+
+#### Art. 27
+
+**Denuncia della perdita**
+
+<sup>1</sup> Il titolare di un passaporto diplomatico o di servizio deve notificarne immediatamente la perdita alla Direzione.
+
+<sup>2</sup> La Direzione mette a disposizione un modulo per notificare la perdita.
+
+<sup>3</sup> Il titolare del passaporto deve allegare alla notifica della perdita, per quanto possibile, un rapporto del posto di polizia competente per territorio.
+
+<sup>4</sup> La Direzione segnala i passaporti di cui è stata notificata la perdita all’Ufficio federale di polizia affinché siano iscritti nella ricerca d’oggetti RIPOL.
+
+#### Art. 28
+
+**Passaporti perduti e ritrovati**
+
+<sup>1</sup> La Direzione dichiara non validi i passaporti diplomatici o di servizio di cui è stata notificata la perdita.
+
+<sup>2</sup> I passaporti ritrovati devono essere restituiti alla Direzione. Questa informa l’Ufficio federale di polizia.
+
+### Sezione 3: Restituzione, ritiro e dichiarazione di nullità
+
+#### Art. 29
+
+**Restituzione e ritiro**
+
+<sup>1</sup>
+
+Un passaporto diplomatico o di servizio deve essere restituito o è ritirato dalla Direzione se:
+
+- a. le condizioni necessarie per il rilascio non sono o non sono più adempiute (art. 7 cpv. 1 lett. a LDI[^29-1]);
+- b. un’identificazione chiara del titolare del passaporto non è più possibile (art. 7 cpv. 1 lett. b LDI);
+- c. contiene iscrizioni false o non ufficiali o è stato altrimenti modificato (art. 7 cpv. 1 lett. c LDI);
+- d. non è più valido;
+- e. si tratta di un passaporto per congiunti che vivono separati dall’impiegato non per motivi di salute o di servizio;
+- f. il titolare riceve un congedo non pagato superiore a 30 giorni civili; se il titolare è impiegato presso il DFAE ed è distaccato presso un altro Dipartimento durante il congedo, la Direzione può rinunciare a ritirargli il passaporto per la durata del distacco.
+
+<sup>2</sup>
+
+Un passaporto diplomatico o di servizio deve essere restituito o può essere ritirato dalla Direzione se:
+
+- a. il titolare è penalmente perseguito in Svizzera per un crimine o un delitto o è stato condannato da un tribunale svizzero con sentenza passata in giudicato (art. 7 cpv. 2 LDI);
+- b. si tenta in modo illecito o abusivo di trarre vantaggi dal passaporto;
+- c. il titolare svolge all’estero un’occupazione remunerata che potrebbe danneggiare gli interessi della Confederazione svizzera.
+
+[^29-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+
+#### Art. 30
+
+**Dichiarazione di nullità**
+
+Se il titolare di un passaporto diplomatico o di servizio non dà alcun seguito all’invito di restituirlo o se si oppone al ritiro, la Direzione può dichiarare non valido il passaporto e ordinarne l’iscrizione nella ricerca d’oggetti RIPOL.
+
+## Capitolo 5: Emolumenti e spese
+
+#### Art. 31
+
+**Emolumenti**
+
+I passaporti diplomatici e di servizio sono consegnati gratuitamente.
+
+#### Art. 32
+
+**Spese**
+
+<sup>1</sup> Le spese possono essere addebitate al titolare di un passaporto diplomatico o di servizio.
+
+<sup>2</sup> Esse sono calcolate secondo i costi effettivi.
+
+<sup>3</sup> Sono spese i costi secondo l’articolo 49 capoverso 2 ODI.
+
+## Capitolo 6: Disposizioni finali
+
+#### Art. 33
+
+**Diritto previgente: abrogazione**
+
+Il regolamento del DFAE del 28 ottobre 1998[^33-1] sui passaporti diplomatici, di servizio e speciali è abrogato.
+
+[^33-1]: Non pubblicato nella RU.
+
+#### Art. 34
+
+[^34-1]
+
+[^34-1]: Abrogato dal n. I dell’O del DFAE del 31 gen. 2012, con effetto dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+
+#### Art. 35
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2003.

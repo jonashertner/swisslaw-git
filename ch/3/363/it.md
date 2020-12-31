@@ -1,0 +1,393 @@
+---
+sr: "363"
+title: "Legge federale del 20 giugno 2003 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Legge sui profili del DNA)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
+language: it
+version: 2016-10-01
+adopted: 2003-06-20
+in_force: 2005-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20161001/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20161001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sull’utilizzo di profili del DNA nel procedimento penale e per l’identificazione di persone sconosciute o scomparse
+
+(Legge sui profili del DNA)
+
+del 20 giugno 2003 (Stato 1° ottobre 2016)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 119 e 123 capoverso 1 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale dell’8 novembre 2000[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2001 11](https://fedlex.data.admin.ch/eli/fga/2001/29)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto e scopo**
+
+<sup>1</sup>
+
+La presente legge disciplina:
+
+- a. l’utilizzazione di profili del DNA nel procedimento penale;
+- b. il trattamento di profili del DNA in un sistema d’informazione della Confederazione;
+- c. l’identificazione al di fuori del procedimento penale, mediante il confronto di profili del DNA, di persone sconosciute, scomparse o decedute.[^1-1]
+
+<sup>2</sup>
+
+La presente legge ha in particolare lo scopo di accrescere l’efficacia del perseguimento penale; tale maggior efficacia va in particolare raggiunta facendo sì che:
+
+- a.
+
+  mediante il confronto di profili del DNA:
+
+  - 1\. si identifichino persone sospette o se ne scagionino altre,
+  - 2\. mediante l’analisi sistematica di materiale biologico si individuino più rapidamente nessi con reati e quindi, in particolare, gruppi di autori che operano in modo organizzato, autori di reati in serie o autori recidivi;
+  - 3\. si agevoli l’assunzione delle prove;
+
+- b. i profili del DNA possano essere confrontati nell’ambito dell’assistenza giudiziaria e dell’assistenza amministrativa in materia di polizia.
+
+<sup>3</sup> ...[^1-2]
+
+[^1-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1-2]: Abrogato dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, con effetto dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+
+#### Art. 1a
+
+**Campo d’applicazione**[^1a-1]
+
+Le disposizioni della sezione 2 della presente legge concernenti il procedimento penale non sono applicabili laddove il perseguimento o il giudizio di un reato sia disciplinato dal Codice di procedura penale del 5 ottobre 2007[^1a-2].
+
+[^1a-1]: Introdotto dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 2
+
+**Profilo del DNA e uso previsto**
+
+<sup>1</sup> Il profilo del DNA è un codice alfanumerico specifico di un individuo, determinato mediante tecniche di biologia molecolare a partire da sequenze non codificanti del patrimonio genetico DNA.
+
+<sup>2</sup> L’analisi del DNA non può essere utilizzata per accertare né lo stato di salute, né altre caratteristiche individuali della persona implicata, ad eccezione del sesso.
+
+<sup>3</sup> Il profilo del DNA e il relativo materiale d’analisi possono essere utilizzati soltanto per gli scopi previsti dalla presente legge (art. 1).
+
+## Sezione 2: Prelievo di campioni e analisi del DNA
+
+#### Art. 3
+
+**Prelievo di campioni e analisi del DNA nel procedimento penale**
+
+<sup>1</sup>
+
+Per far luce su un crimine o un delitto, ai fini dell’analisi del DNA è possibile prelevare un campione, ad esempio uno striscio della mucosa orale, sulle persone seguenti (persone implicate):
+
+- a. persone sospette;
+- b. altre persone, in particolare vittime e persone autorizzate ad accedere al luogo del reato, se il prelievo è necessario per distinguere le loro tracce da quelle delle persone sospettate.
+
+<sup>2</sup> In caso di indagini a tappeto intraprese per far luce su un crimine, ai fini dell’analisi del DNA è possibile prelevare un campione, ad esempio uno striscio della mucosa orale, su persone che presentano determinate caratteristiche accertate in relazione alla commissione del fatto, al fine di identificarle quali possibili autori o scagionarle.
+
+- [tab] <sup>3</sup> Tranne in caso di indagine a tappeto, si prescinde dall’analisi del campione fintanto che non sia certo che siano adempiute le condizioni di registrazione del profilo del DNA nel sistema d’informazione (art. 11).
+
+#### Art. 4
+
+**Rilevamento di tracce e prelievo di campioni su persone decedute**
+
+Un profilo del DNA può essere allestito a partire da materiale biologico pertinente al reato (tracce) e da campioni prelevati su persone decedute se indizi concreti fanno supporre che in tal modo si possa far luce su un crimine o su un delitto.
+
+#### Art. 5
+
+**Prelievo di campioni e analisi del DNA in caso di condannati**
+
+Immediatamente dopo il passaggio in giudicato della sentenza, ai fini dell’allestimento di un profilo del DNA si può prelevare un campione su persone:
+
+- a.[^5-1] che sono state condannate a una pena detentiva o a una privazione della libertà superiore a un anno per aver commesso intenzionalmente un crimine;
+- b. che sono state condannate per un crimine o delitto intenzionale contro la vita o l’integrità della persona o contro l’integrità sessuale; oppure
+- c.[^5-2] nei cui confronti sono stati ordinati una misura terapeutica (art. 59–63 del Codice penale, CP[^5-3]), l’internamento (art. 64 CP) o un collocamento (art. 15 della L del 20 giu. 2003[^5-4] sul diritto penale minorile.
+
+[^5-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-2]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^5-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+
+#### Art. 6
+
+**Identificazione al di fuori del procedimento penale**
+
+<sup>1</sup>
+
+Al di fuori del procedimento penale, se l’identificazione non è altrimenti possibile, può essere allestito il profilo del DNA di persone:
+
+- a. decedute:
+- b. che non possono fornire informazioni sulla propria identità causa la loro età, un infortunio, una malattia permanente, un’invalidità, una turba psichica o una turba della coscienza.
+
+<sup>2</sup> Per identificare tali persone può essere analizzato anche loro materiale biologico.
+
+<sup>3</sup> Ai fini di un’identificazione a posteriori può essere analizzato materiale biologico di persone scomparse.
+
+<sup>4</sup> Il profilo del DNA di presunti parenti della persona da identificare può essere allestito a fini di confronto se essi vi acconsentono per scritto.
+
+#### Art. 7
+
+**Autorità competenti**
+
+<sup>1</sup>
+
+La polizia, le autorità d’istruzione penale e i tribunali penali (autorità competenti) possono ordinare:
+
+- a. il prelievo non invasivo di campioni su persone (art. 3 cpv. 1), nonché l’analisi ai fini dell’allestimento di un profilo del DNA;
+- b. l’analisi di tracce e di campioni di persone decedute, ai fini dell’allestimento di un profilo del DNA (art. 4).
+
+<sup>2</sup> Se ordina un prelievo di campione, la polizia informa la persona interessata del suo diritto di impugnare questa decisione presso l’autorità d’istruzione penale. In caso di impugnazione, si procede al prelievo soltanto se l’autorità d’istruzione conferma la decisione.
+
+<sup>3</sup>
+
+Le autorità giudiziarie decidono in merito a:
+
+- a. l’effettuazione di indagini a tappeto (art. 3 cpv. 2);
+- b. il prelievo invasivo di un campione e la relativa analisi ai fini dell’allestimento di un profilo del DNA.
+
+<sup>4</sup> L’autorità giudicante decide sui prelievi di campioni e sulle analisi ai fini dell’allestimento dei profili del DNA di persone condannate (art. 5).
+
+<sup>5</sup> Se l’identificazione di cui all’articolo 6 compete a un’altra autorità d’istruzione, anche questa autorità può ordinare il prelievo del campione e l’analisi ai fini dell’allestimento di un profilo del DNA.
+
+## Sezione 3: Organizzazione dell’analisi del DNA
+
+#### Art. 8
+
+**Analisi del DNA**
+
+<sup>1</sup> Il Dipartimento federale di giustizia e polizia (Dipartimento) designa i laboratori abilitati a effettuare analisi del DNA secondo la presente legge.
+
+<sup>2</sup> L’autorità competente fa eseguire l’analisi da un laboratorio abilitato giusta il capoverso 1.
+
+<sup>3</sup> Il campione è reso anonimo mediante un numero di controllo che designa anche le generalità e gli altri dati segnaletici (foto, impronte digitali).
+
+<sup>4</sup> Insieme al campione, al laboratorio sono comunicati soltanto i dati necessari all’allestimento del profilo del DNA e alla valutazione del suo valore probatorio, in particolare quelli concernenti l’appartenenza razziale della persona implicata, il luogo del reato e il luogo di ritrovamento di tracce.
+
+#### Art. 9
+
+**Distruzione dei campioni**
+
+<sup>1</sup>
+
+L’autorità competente dispone la distruzione del campione prelevato su una persona:
+
+- a. se è già stato allestito un profilo del DNA della persona implicata;
+- b. tre mesi dopo il prelievo, se essa non ha disposto l’analisi del campione;
+- c. se la persona implicata può essere scagionata;
+- d. se la persona è stata identificata ai sensi dell’articolo 6.
+
+<sup>2</sup> Il laboratorio distrugge il campione prelevato su una persona non appena il profilo del DNA che ne è stato ricavato soddisfa alle esigenze qualitative per essere registrato nel sistema d’informazione dei profili DNA (art. 10–13), il più tardi però dopo tre mesi dopo averlo ricevuto.
+
+## Sezione 4: Sistema d’informazione basato sui profili del DNA
+
+#### Art. 10
+
+**Principio**
+
+<sup>1</sup> Il sistema d’informazione basato sui profili del DNA consente il confronto di profili del DNA ai fini del procedimento penale e dell’identificazione di persone ignote o scomparse.
+
+<sup>2</sup> Il sistema d’informazione è gestito esclusivamente dalla Confederazione.
+
+#### Art. 11
+
+**Registrazione nel sistema d’informazione**
+
+<sup>1</sup>
+
+Nel sistema d’informazione sono registrati i profili del DNA concernenti:
+
+- a. persone sospettate di essere gli autori di crimini o delitti oppure di avervi partecipato (art. 3);
+- b. persone condannate (art. 5);
+- c. tracce e persone defunte (art. 4).
+
+<sup>2</sup>
+
+Nel sistema d’informazione sono inoltre registrati i profili del DNA di:
+
+- a. persone non identificate viventi o decedute (art. 6 cpv. 1);
+- b. materiale biologico attribuibile a persone scomparse (art. 6 cpv. 3);
+- c. parenti di persone decedute o scomparse che vanno identificate al di fuori di un procedimento penale (art. 6 cpv. 4).
+
+<sup>3</sup> Se risulta adempiuta una delle condizioni di cui ai capoversi 1 e 2, nel sistema d’informazione sono registrati i profili del DNA trasmessi dall’estero nell’ambito della collaborazione internazionale e necessari in procedimenti svizzeri (art. 13).
+
+<sup>4</sup>
+
+Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
+
+- a. vittime identificate (art. 3 cpv. 1 lett. b);
+- b. persone autorizzate ad accedere al luogo del reato e le cui tracce vanno distinte da quelle dell’autore del reato (art. 3 cpv. 1 lett. b);
+- c. persone scagionate nell’ambito di un’indagine a tappeto (art. 3 cpv. 2);
+- d. persone scagionate dal sospetto di aver commesso il crimine o il delitto in questione;
+- e. persone che erano implicate in un procedimento che è stato abbandonato.
+
+#### Art. 12
+
+**Autorità federale responsabile**
+
+<sup>1</sup> Il Consiglio federale designa l’ufficio federale responsabile del sistema d’informazione (Ufficio federale) ai sensi della legge federale del 19 giugno 1992[^12-1] sulla protezione dei dati.
+
+<sup>2</sup> I laboratori riconosciuti possono essere collegati online al sistema d’informazione. La decisione in merito al collegamento spetta al Dipartimento.
+
+[^12-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 13
+
+**Collaborazione internazionale**
+
+<sup>1</sup> Nell’ambito della collaborazione con Interpol ai sensi degli articoli 351<sup>ter</sup> e 351<sup>quinquies</sup> CP[^13-1], l’Ufficio federale può trasmettere richieste estere di esame di profili del DNA e presentare richieste svizzere.
+
+<sup>2</sup> La collaborazione internazionale presuppone che siano soddisfatte le condizioni del prelievo dei campioni giusta la presente legge e che sia garantita la possibilità di confrontare i profili del DNA.
+
+[^13-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## Sezione 5: Trattamento di altri dati
+
+#### Art. 14
+
+<sup>1</sup> L’autorità competente comunica all’Ufficio federale le generalità note e informazioni sul luogo del reato e del ritrovamento di tracce (altri dati).
+
+<sup>2</sup> L’Ufficio federale tratta tali altri dati in un sistema d’informazione separato dal sistema d’informazione basato sui profili del DNA.
+
+<sup>3</sup> I profili del DNA sono associati agli altri dati mediante un numero di controllo. Tale operazione può essere compiuta soltanto dall’Ufficio federale.
+
+## Sezione 6: Protezione dei dati
+
+#### Art. 15
+
+**Diritto all’informazione**
+
+<sup>1</sup> Prima del prelievo dei campioni, l’autorità competente informa la persona implicata della registrazione del profilo del DNA nel sistema d’informazione, del suo diritto all’informazione e delle condizioni di cancellazione.
+
+<sup>2</sup> Ognuno ha il diritto di informarsi presso l’Ufficio federale se nel sistema d’informazione è registrato sotto il suo nome un profilo del DNA.
+
+<sup>3</sup> Il diritto all’informazione nonché il rifiuto, la limitazione o il differimento della stessa sono disciplinati dagli articoli 8 e 9 della legge federale del 19 giugno 1992[^15-1] sulla protezione dei dati.
+
+[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 16
+
+**Cancellazione dei profili del DNA di persone**
+
+<sup>1</sup>
+
+L’Ufficio federale cancella i profili del DNA di persone allestiti giusta gli articoli 3 e 5:
+
+- a. non appena, nel corso del procedimento, si è potuto scagionare la persona implicata;
+- b. dopo la morte della persona implicata;
+- c. non appena il procedimento in corso si è concluso con una sentenza d’assoluzione passata in giudicato;
+- d. un anno dopo l’abbandono definitivo del procedimento;
+- e.[^16-1] cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale totale o parziale della pena;
+- f.[^16-2] cinque anni dopo il pagamento di una pena pecuniaria, dopo la fine di un lavoro di pubblica utilità o dopo l’esecuzione di una corrispondente pena da commutazione;
+- g.[^16-3] cinque anni dopo un’ammonizione, dopo il pagamento di una multa o dopo la fine di una prestazione personale ai sensi degli articoli 22–24 DPMin[^16-4];
+- h.[^16-5] cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale di una multa, di una prestazione personale o di una privazione della libertà ai sensi dell’articolo 35 DPMin;
+- i.[^16-6] cinque anni dopo l’esecuzione di una misura protettiva ai sensi degli articoli 12–14 DPMin;
+- j.[^16-7] dieci anni dopo l’esecuzione di una privazione della libertà ai sensi dell’articolo 25 DPMin;
+- k.[^16-8] dieci anni dopo la fine dell’esecuzione di un collocamento ai sensi dell’articolo 15 DPMin;
+- l.[^16-9] dieci anni dopo la fine dellʼinterdizione di esercitare unʼattività o del divieto di avere contatti e di accedere ad aree determinate ai sensi degli articoli 67 e 67*b* CP[^16-10], 50 e 50*b* del Codice penale militare del 13 giugno 1927[^16-11] o 16*a* DPMin, fatta salva una cancellazione successiva secondo il capoverso 4.
+
+<sup>2</sup> Nei casi di cui al capoverso 1 lettere c e d, il profilo del DNA non viene cancellato se l’assoluzione o l’abbandono del procedimento sono avvenuti per non imputabilità dell’autore.
+
+<sup>3</sup> Dopo 30 anni, l’Ufficio federale cancella tutti i profili del DNA che già non lo siano stati in virtù del capoverso 1. Rimane salva una cancellazione successiva secondo il capoverso 4.
+
+<sup>4</sup> In caso di esecuzione di una pena detentiva, di internamento, di misure terapeutiche o di espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927, l’Ufficio federale cancella il profilo del DNA 20 anni dopo la liberazione dalla pena detentiva o dall’internamento o dopo l’esecuzione della misura o dell’espulsione.[^16-12]
+
+[^16-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-2]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-3]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^16-5]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-6]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-7]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-8]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-9]: Introdotta dal n. 4 dell’all. alla LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-10]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-11]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-12]: Nuovo testo giusta il n. 9 dell’all. alla LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+
+#### Art. 17
+
+**Cancellazioni subordinate a consenso**
+
+<sup>1</sup> Nei casi di cui all’articolo 16 capoversi 1 lettere e–k e 4, l’Ufficio federale chiede il consenso dell’autorità giudiziaria competente.[^17-1] Questa può negare il consenso se sussiste il sospetto concreto di un crimine o delitto non caduto in prescrizione o si teme una recidiva.
+
+<sup>2</sup> Si può prescindere dal chiedere il consenso a un’autorità estera.
+
+[^17-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+
+#### Art. 18
+
+**Cancellazione dei profili del DNA di tracce e di campioni di persone defunte**
+
+L’Ufficio federale cancella i profili del DNA ricavati secondo l’articolo 4 da tracce o da campioni di persone defunte:
+
+- a. su richiesta dell’autorità competente; questa chiede la cancellazione non appena la traccia può essere attribuita a una persona che non entra in linea di conto come autrice del reato;
+- b. d’ufficio dopo 30 anni, eccetto in caso di reati imprescrittibili.
+
+#### Art. 19
+
+**Cancellazione dei profili del DNA allestiti al di fuori di procedimenti penali**
+
+I profili del DNA allestiti al di fuori di procedimenti penali ai sensi dell’articolo 6 vengono cancellati non appena la persona in questione è identificata, in ogni caso però dopo 50 anni.
+
+## Sezione 7: Finanziamento
+
+#### Art. 20
+
+<sup>1</sup> La Confederazione sopperisce alle spese d’allestimento e di gestione del sistema d’informazione.
+
+<sup>2</sup> L’autorità competente sopperisce alle spese relative al rilevamento e alla trasmissione dei campioni nonché a quelle di analisi e di valutazione.
+
+## Sezione 8: Disposizioni finali
+
+#### Art. 21
+
+**Esecuzione cantonale**
+
+I Cantoni provvedono all’esecuzione della presente legge negli ambiti di loro competenza.
+
+#### Art. 22
+
+**Esecuzione federale**
+
+Il Consiglio federale emana le disposizioni d’esecuzione; vi disciplina in particolare:
+
+- a. il trattamento dei dati giusta la presente legge; in particolare l’inserimento di dati nel sistema d’informazione;
+- b. le modalità d’identificazione di persone sconosciute viventi o decedute nonché di persone scomparse;
+- c. l’organizzazione e le procedure di allestimento di profili del DNA;
+- d. le condizioni e la procedura di riconoscimento dei laboratori;
+- e. la comunicazione della conclusione del procedimento all’Ufficio federale;
+- f. la registrazione dei profili del DNA allestiti all’estero.
+
+#### Art. 23
+
+**Disposizioni transitorie**
+
+<sup>1</sup> La presente legge è parimenti applicabile ai profili del DNA già registrati nel sistema d’informazione in virtù dell’ordinanza del 31 maggio 2000[^23-1] concernente il sistema d’informazione basato sui profili di DNA (ordinanza SIDNA).
+
+<sup>2</sup> Il riconoscimento provvisorio dei laboratori secondo l’articolo 20 dell’ordinanza SIDNA permane valido per due anni dopo l’entrata in vigore della presente legge.
+
+<sup>3</sup> Nei confronti di persone che, prima dell’entrata in vigore della presente legge, sono state condannate senza condizionale a una pena detentiva superiore a un anno o contro le quali è stata ordinata una misura privativa della libertà secondo gli articoli secondo gli articoli 59, 61 o 64 CP[^23-2], può essere prelevato un campione, nonché allestito e registrato nel sistema d’informazione un profilo del DNA, fintanto che dura la pena o la misura, ma comunque non oltre un anno dopo l’entrata in vigore della presente legge.
+
+[^23-1]: [[RU 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 n. 1]
+[^23-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 24
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° gennaio 2005[^24-1]
+
+[^24-1]: DCF del 3 dic. 2004.

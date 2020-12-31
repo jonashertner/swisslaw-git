@@ -1,0 +1,116 @@
+---
+sr: "748.128"
+title: "Ordinanza dell'11 agosto 1993 concernente la delimitazione del traffico di linea dagli altri tipi di traffico aereo commerciale"
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/2417_2417_2417"
+language: it
+version: 1993-09-01
+adopted: 1993-08-11
+in_force: 1993-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2417_2417_2417/19930901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2417_2417_2417-19930901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2417_2417_2417/19930901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la delimitazione del traffico di linea dagli altri tipi di traffico aereo commerciale
+
+dell’11 agosto 1993 (Stato 1° settembre 1993)
+
+Il Dipartimento federale dei trasporti, delle comunicazioni e delle energie,
+
+visto l’articolo 101 capoverso 4 dell’ordinanza sulla navigazione aerea del 14 novembre 1973[^ingress-1],
+
+ordina:
+
+[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+
+#### Art. 1
+
+**Pubblicità, accessibilità e disponibilità nel trasporto di persone**
+
+<sup>1</sup>
+
+Nel trasporto di persone, le serie di voli di cui all’articolo 101 capoverso 3 lettera c dell’ordinanza sulla navigazione aerea non sono considerate traffico di linea sottoposto a concessione se sono adempiute le seguenti premesse:
+
+- a. i voli sono eseguiti sulla base di contratti di noleggio;
+- b. ogni noleggiatore assume almeno 10 posti di passeggeri per una determinata destinazione; questa restrizione non si applica se la capacità totale o residua dell’aeromobile è inferiore a 10 posti;
+- c. prima della partenza, ogni passeggero possiede una prenotazione definitiva per l’andata e il ritorno presso un solo noleggiatore. Tuttavia, il volo di ritorno può anche prendere avvio da un luogo diverso da quello di destinazione. A titolo eccezionale, la data del volo di ritorno può essere modificata dopo la partenza. I voli di andata e di ritorno possono essere eseguiti da diverse imprese di trasporto aereo. Sono ammessi trasporti di sola andata conformemente all’articolo 4 capoverso 2;
+- d. i passeggeri rientrano in una delle categorie di noleggio menzionate negli articoli 2 a 5.
+
+<sup>2</sup>
+
+L’Ufficio federale dell’aviazione civile (ufficio) può rilasciare a un’impresa di trasporto aereo l’autorizzazione per trasportare, in base a tariffe stabilite liberamente, passeggeri sui voli di linea che adempiono le condizioni menzionate al capoverso 1, se:
+
+- a. ciò non costituisce una violazione di accordi internazionali;
+- b. sono utilizzati meno della metà dei posti riservati al traffico di linea.
+
+<sup>3</sup> Sono ammessi eccezionalmente i trasporti a titolo gratuito nonché quelli che consentono di utilizzare disponibilità inopinate di posti con ritorno dei passeggeri entro 24 ore dall’arrivo a destinazione. I trasporti di questo tipo vanno annunciati all’ufficio entro la settimana successiva.
+
+#### Art. 2
+
+**Viaggi a forfait (ITC)**
+
+<sup>1</sup> I viaggi a forfait comprendono il trasporto nonché le prestazioni accessorie, indissociabili da esse, che sono parte integrante del viaggio.
+
+<sup>2</sup> Le prestazioni accessorie nel luogo di destinazione, che devono essere certificate e messe a disposizione di ogni passeggero per tutta la durata del viaggio, comprendono almeno i trasferimenti e l’alloggio in albergo o una prestazione equivalente.
+
+#### Art. 3
+
+**Comitive con prenotazione (ABC)**
+
+Sono considerate comitive con prenotazione le comitive i cui membri possiedono una prenotazione definitiva per il volo di andata e di ritorno e il cui cognome, numero di passaporto e data di nascita nonché data di ritorno sono stati comunicati all’ufficio dall’impresa di trasporto o dal noleggiatore al più tardi due settimane prima della partenza.
+
+#### Art. 4
+
+**Voli per lavoratori stranieri**
+
+<sup>1</sup> Sono considerati voli per lavoratori stranieri i voli che trasportano stranieri, o i loro parenti stretti, che dimostrano di aver lavorato per almeno tre mesi per un datore di lavoro svizzero. Per principio, questi trasporti si fanno in provenienza e a destinazione del Paese del quale è originario il lavoratore straniero.
+
+<sup>2</sup> I trasporti di sola andata sono ammessi unicamente per i lavoratori stranieri, o i loro stretti parenti, che iniziano per la prima volta la loro attività professionale in Svizzera o se vi pongono fine.
+
+#### Art. 5
+
+**Persone in corso di formazione**
+
+<sup>1</sup>
+
+Sono persone in corso di formazione:
+
+- a. studenti tra i 16 e 30 anni, iscritti a una scuola superiore;
+- b. studenti tra i 16 e 26 anni che frequentano una scuola a tempo pieno durante almeno un anno;
+- c. apprendisti tra i 16 e 26 anni che assolvono un tirocinio professionale riconosciuto della durata minima di due anni.
+
+<sup>2</sup> I requisiti menzionati devono essere documentati da una legittimazione rilasciata dall’istituto di formazione.
+
+#### Art. 6
+
+**Pubblicità, accessibilità e disponibilità nel trasporto di merci**
+
+Nel trasporto di merci le serie di voli di cui all’articolo 101 capoverso 3 lettera c dell’ordinanza sulla navigazione aerea non sono considerate traffico di linea sottoposto a concessione se sono adempiute le seguenti premesse:
+
+- a. i voli sono eseguiti sulla base di contratti di noleggio;
+- b. i voli non sono offerti al pubblico né direttamente né indirettamente;
+- c.
+
+  il singolo volo è destinato:
+
+  - 1\. al massimo a quattro noleggiatori per il trasporto delle loro merci o
+  - 2\.[^6-1] esclusivamente al trasporto di piccole spedizioni che, prese singolarmente, pesano al massimo 60 kg.
+
+[^6-1]: [RU 1993 2934](https://fedlex.data.admin.ch/eli/oc/1993/2934_2934_2934)
+
+#### Art. 7
+
+**Autorizzazione speciale**
+
+I voli del traffico merci di cui all’articolo 101 capoverso 3 lettera d dell’ordinanza sulla navigazione aerea richiedono un’autorizzazione speciale dell’ufficio.
+
+#### Art. 8
+
+**Abrogazione del diritto vigente e entrata in vigore**
+
+<sup>1</sup> L’ordinanza del 24 ottobre 1980[^8-1] concernente la delimitazione del traffico di linea dagli altri tipi di traffico aereo commerciale è abrogata.
+
+<sup>2</sup> La presente ordinanza entra in vigore il 1° settembre 1993.
+
+[^8-1]: [[RU 1980 1570](https://fedlex.data.admin.ch/eli/oc/1980/1570_1570_1570)]

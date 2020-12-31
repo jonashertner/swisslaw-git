@@ -1,0 +1,78 @@
+---
+sr: "0.142.111.231"
+title: "Convenzione di domicilio e di commercio del 10 giugno 1929 tra la Svizzera e l'Albania (con Protocollo finale)"
+eli: "https://fedlex.data.admin.ch/eli/cc/46/82_82_88"
+language: it
+version: 1930-03-03
+adopted: 1929-06-10
+in_force: 1930-03-03
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/46/82_82_88/19300303/it/xml/fedlex-data-admin-ch-eli-cc-46-82_82_88-19300303-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/46/82_82_88/19300303/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione di domicilio e di commercio tra la Svizzera e l’Albania
+
+CS **11** 563; FF **1929** III 6 ediz. ted. 7 ediz. franc.
+
+Traduzione[^t-1]
+
+Conchiusa il 10 giugno 1929 Approvata dall’Assemblea federale il 13 dicembre 1929[^t-2] Istrumenti di ratificazione scambiati il 3 marzo 1930 Entrata in vigore il 3 marzo 1930
+
+(Stato 3 marzo 1930)
+
+[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: RU **46** 87
+
+Il Consiglio federale svizzero e Sua Maestà il Re d’Albania,
+
+animati dal desiderio di facilitare le relazioni tra la Svizzera e l’Albania hanno risolto di conchiudere una convenzione di domicilio e di commercio e hanno designato a questo scopo come loro plenipotenziari:
+
+(Seguono i nomi dei plenipotenziari)
+
+i quali, dopo essersi comunicati i loro pieni poteri, trovati in piena regola, hanno convenuto quanto segue:
+
+#### Art. 1
+
+Ognuna delle parti contraenti accorderà ai rappresentanti diplomatici e consolari dell’altra parte i vantaggi ed i privilegi che essa ha concesso o concederà ai rappresentanti diplomatici e consolari della nazione più favorita.
+
+#### Art. 2
+
+I cittadini di ciascuno dei due Stati ammessi a risiedere nel territorio dell’altro Stato, dalle autorità e secondo la legislazione di questo ultimo, fruiranno sotto tutti i riguardi, specialmente per ciò che concerne la loro condizione giuridica, la protezione alla quale avranno diritto da parte delle autorità, il libero e facile accesso ai tribunali, l’esercizio del commercio e dell’industria, l’acquisto e il possesso di beni mobili e immobili e le contribuzioni e altri oneri fiscali ai quali potessero essere sottoposti, del trattamento accordato agli stranieri meglio trattati.
+
+#### Art. 3
+
+Le società commerciali, industriali o altre legalmente costituite nel territorio di una delle parti saranno riconosciute nel territorio dell’altra parte conformemente alle leggi del paese e vi fruiranno dei trattamento accordato alle società della nazione più favorita.
+
+#### Art. 4
+
+[^4-1]
+
+Le merci originarie di una delle parti contraenti e provenienti direttamente o indirettamente da esse, che sono importate nel territorio dell’altra parte e destinate, sia al consumo, sia alla riesportazione o al transito, fruiranno dei trattamento applicabile alle merci originarie della nazione più favorita o proveniente da essa.
+
+[^4-1]: Vedi anche l’art. 3 dell’Acc. commerciale e di cooperazione economica tra il Consiglio federale svizzero e la Repubblica d’Albania, del 31 ott. 1995 ([RS 0.946.291.232](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4158)).
+
+#### Art. 5
+
+Le contestazioni che potessero sorgere tra le parti sul l’interpretazione e l’esecuzione della presente convenzione e che non si fossero potute risolvere in via diplomatica entro un congruo termine, saranno deferite, a richiesta di una sola delle parti, alla Corte permanente di giustizia internazionale[^5-1].
+
+[^5-1]: Ora: alla Corte internazionale di Giustizia (art. 37 dello statuto della Corte internazionale di Giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
+
+#### Art. 6
+
+La presente convenzione sarà ratificata. Essa entrerà in vigore dopo lo scambio degli atti di ratificazione, che avverrà a Roma il più presto possibile.
+
+La presente convenzione avrà effetto fino allo spirare dei termine di tre mesi a contare dal giorno in cui una delle Parti avrà notificato all’altra parte la sua intenzione dimettervi fine.
+
+*In fede di che,* i plenipotenziari hanno firmato la presente convenzione e l’hanno munita dei loro sigilli. Fatto a Roma, in doppio esemplare, il dieci giugno mille novecento ventinove. Wagnière D. Dino
+
+Protocollo finale
+
+Al momento di firmare la presente convenzione di domicilio e di commercio, i plenipotenziari sottoscritti si sono dichiarati d’accordo ch’essa abbia ad applicarsi altresì e sotto tutti i rapporti al principato del Liechtenstein fino a che questo sarà legato alla Svizzera da un trattato d’unione doganale.
+
+Fatto, in doppio esemplare, a Roma, il dieci giugno mille novecento ventinove.
+
+<table>
+<tr><td>Wagnière</td><td>D. Dino</td></tr>
+</table>

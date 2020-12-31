@@ -1,0 +1,1261 @@
+---
+sr: "414.110"
+title: Legge federale del 4 ottobre 1991 sui politecnici federali (Legge sui PF)
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
+language: it
+version: 2017-05-01
+adopted: 1991-10-04
+in_force: 1993-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20170501/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20170501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20170501/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sui politecnici federali
+
+(Legge sui PF)
+
+del 4 ottobre 1991 (Stato 1° maggio 2017)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 63*a* capoverso 1 e 64 capoverso 3 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 14 dicembre 1987[^ingress-2],[^ingress-3]
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 1988 I 565](https://fedlex.data.admin.ch/eli/fga/1988/1_741_697_565)
+[^ingress-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2011, in vigore dal 15 nov. 2011 ([RU 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 689](https://fedlex.data.admin.ch/eli/fga/2011/95)).
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Campo d’applicazione**
+
+<sup>1</sup>
+
+La presente legge si applica al settore dei politecnici federali (settore dei PF) in cui rientrano:
+
+- a. il Politecnico federale di Zurigo (PFZ);
+- b. il Politecnico federale di Losanna (PFL);
+- c.[^1-1] gli istituti di ricerca .
+
+<sup>2</sup> Questi istituti sono gestiti dalla Confederazione.
+
+[^1-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 2
+
+**Scopo**
+
+<sup>1</sup>
+
+I PF e gli istituti di ricerca devono:
+
+- a. formare studenti e personale qualificato nei campi scientifico e tecnico e garantirne il perfezionamento permanente;
+- b. dedicarsi alla ricerca e contribuire in tal modo allo sviluppo delle conoscenze scientifiche;
+- c. incoraggiare la formazione di nuove leve scientifiche;
+- d. fornire servizi di carattere scientifico e tecnico;
+- e.[^2-1] curare le pubbliche relazioni;
+- f.[^2-2] valorizzare i risultati delle loro ricerche.
+
+<sup>2</sup> Essi tengono conto dei bisogni del Paese.
+
+<sup>3</sup> Essi adempiono i loro compiti ad un livello internazionalmente riconosciuto e si curano di favorire la cooperazione internazionale.
+
+<sup>4</sup> Il rispetto della dignità umana, la responsabilità rispetto alle basi esistenziali dell’uomo e all’ambiente nonché la valutazione delle ripercussioni tecnologiche improntano l’insegnamento e la ricerca.
+
+[^2-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-2]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 3
+
+**Collaborazione e coordinamento**
+
+<sup>1</sup> I PF e gli istituti di ricerca collaborano con altre istituzioni di formazione e di ricerca in Svizzera o all’estero. Promuovono gli scambi di studenti e di personale scientifico come pure il mutuo riconoscimento dei periodi di studi e dei diplomi.
+
+<sup>2</sup> A tal fine, stipulano convenzioni di diritto pubblico o privato.
+
+<sup>3</sup> Coordinano le loro attività e partecipano, nell’ambito della legislazione federale, al coordinamento del settore universitario svizzero e della ricerca. Partecipano al coordinamento della politica universitaria a livello nazionale e alla ripartizione dei compiti nei settori con costi particolarmente onerosi.[^3-1]
+
+<sup>4</sup> I PF presentano alla Conferenza svizzera delle scuole universitarie i loro costi medi d’insegnamento per studente.[^3-2]
+
+[^3-1]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-2]: Introdotto dal n. II 3 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+
+#### Art. 3a
+
+**Collaborazione con terzi**[^3a-1]
+
+Nell’ambito degli obiettivi strategici definiti dal Consiglio federale per il settore dei PF e delle istruzioni del Consiglio dei PF, i PF e gli istituti di ricerca possono costituire società, partecipare a società oppure collaborare in altro modo con terzi al fine di adempiere i propri compiti.
+
+[^3a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 4
+
+**Organizzazione e autonomia del settore dei PF**[^4-1]
+
+<sup>1</sup> Il settore dei PF è aggregato amministrativamente al Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^4-2]. Nel quadro della legge, organizza le proprie attività autonomamente.
+
+<sup>2</sup> Il Consiglio dei PF è l’organo di direzione strategica del settore dei PF.
+
+<sup>3</sup> I PF e gli istituti di ricerca esercitano le competenze che non sono espressamente assegnate al Consiglio dei PF.
+
+[^4-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^4-2]: Nuova espr. giusta il n. I 9 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 4a
+
+**Numero d’assicurato dell’assicurazione vecchiaia e superstiti**[^4a-1]
+
+Per adempiere i loro compiti legali, gli istituti di cui all’articolo 1 capoverso 1 sono autorizzati a utilizzare sistematicamente il numero d’assicurato dell’assicurazione vecchiaia e superstiti conformemente alle disposizioni della legge federale del 20 dicembre 1946[^4a-2] sull’assicurazione per la vecchiaia e per i superstiti.
+
+[^4a-1]: Introdotto dal n. 3 dell’all. alla LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^4a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+## Capitolo 2: Politecnici federali
+
+### Sezione 1: Statuto e compiti dei PF
+
+#### Art. 5
+
+**Autonomia**
+
+<sup>1</sup> I PF di Zurigo e Losanna sono istituti federali autonomi di diritto pubblico, con personalità giuridica.
+
+<sup>2</sup> Essi regolano e gestiscono le loro attività autonomamente. Entrambi sono parificati, pur mantenendo caratteristiche proprie.
+
+<sup>3</sup> Nei PF è garantita la libertà di insegnamento, di ricerca e di studio.
+
+<sup>4</sup> …[^5-1]
+
+[^5-1]: Abrogato dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 6
+
+**Obiettivi generali**
+
+I PF abilitano i loro studenti a lavorare in modo autonomo, secondo metodi scientifici. Incentivano l’approccio interdisciplinare, l’iniziativa individuale e la volontà di perfezionamento.
+
+#### Art. 7
+
+**Discipline scientifiche**
+
+<sup>1</sup> I PF assicurano l’insegnamento e la ricerca in ingegneria, scienze naturali, architettura, matematica e nelle discipline affini.
+
+<sup>2</sup> La loro attività è integrata da discipline umanistiche e scienze sociali.
+
+<sup>3</sup> Essi promuovono l’insegnamento e la ricerca pluridisciplinari.
+
+#### Art. 8
+
+**Insegnamento**
+
+<sup>1</sup>
+
+I PF adempiono il loro compito di insegnamento, in particolare:
+
+- a.[^8-1] dando agli studenti una formazione universitaria specializzata che si conclude con il conferimento di un titolo accademico;
+- b. offrendo la possibilità di conseguire un dottorato;
+- c. organizzando studi di terzo ciclo e altri corsi di perfezionamento;
+- d. organizzando corsi speciali;
+- e. offrendo corsi di reinserimento professionale.
+
+<sup>2</sup> A tal fine si appoggiano in particolare all’attività di ricerca dei membri del corpo insegnante.[^8-2]
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^8-2]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 9
+
+**Ricerca**
+
+<sup>1</sup>
+
+I PF adempiono il loro compito di ricerca:
+
+- a. compiendo studi scientifici;
+- b. partecipando a progetti di ricerca nazionali e internazionali.
+
+<sup>2</sup> Essi tengono conto delle esigenze dell’insegnamento.
+
+#### Art. 10
+
+**Prestazioni**
+
+<sup>1</sup> I PF possono accettare mandati di formazione e di ricerca o fornire altre prestazioni, purché compatibili con il loro compito di insegnamento e di ricerca.
+
+<sup>2</sup> Trattandosi di prestazioni che possono essere assunte anche dall’economia privata, non deve risultarne falsata la libera concorrenza.
+
+#### Art. 10a
+
+**Garanzia della qualità e accreditamento**[^10a-1]
+
+<sup>1</sup> I PF verificano periodicamente la qualità del loro insegnamento, della loro ricerca e dei loro servizi e provvedono a garantire a lungo termine la qualità e il suo sviluppo.
+
+<sup>2</sup> Istituiscono e gestiscono a tale scopo un sistema di garanzia della qualità secondo l’articolo 27 della legge federale del 30 settembre 2011[^10a-2] sulla promozione e sul coordinamento del settore universitario svizzero.
+
+<sup>3</sup> Provvedono a ottenere un accreditamento istituzionale.
+
+[^10a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nuovo testo giusta il n. II 3 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^10a-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+
+#### Art. 11
+
+**Servizi sociali e culturali**
+
+<sup>1</sup> I PF istituiscono servizi sociali e culturali destinati ai loro membri oppure partecipano a servizi esistenti. Prendono provvedimenti volti a facilitare la custodia dei bambini.[^11-1]
+
+<sup>2</sup> Essi possono accordare borse di studio e prestiti.
+
+<sup>3</sup> Essi promuovono lo sport universitario.[^11-2]
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^11-2]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 12
+
+**Lingue**
+
+<sup>1</sup> In ognuno dei PF le lingue d’insegnamento sono il tedesco, il francese, l’italiano e, secondo le consuetudini dell’insegnamento e della ricerca, l’inglese.[^12-1]
+
+<sup>2</sup> La Direzione della scuola può autorizzare l’uso di altre lingue d’insegnamento.
+
+<sup>3</sup> I PF curano le lingue nazionali e promuovono la comprensione dei rispettivi valori culturali.
+
+[^12-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+### Sezione 2: Membri dei PF e relative attività
+
+#### Art. 13
+
+**Definizione**
+
+<sup>1</sup>
+
+Sono membri dei PF:
+
+- a.[^13-1] i membri del corpo insegnante (professori ordinari, professori straordinari, professori-assistenti, liberi docenti, *maîtres d’enseignement et de recherche* e incaricati di corsi);
+- b. gli assistenti, i collaboratori scientifici e i candidati al dottorato;
+- c. gli studenti e gli uditori;
+- d. i collaboratori amministrativi e tecnici.
+
+<sup>2</sup> Il Consiglio dei PF può istituire altre categorie di membri del corpo insegnante.[^13-2]
+
+[^13-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^13-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 14
+
+**Membri del corpo insegnante**[^14-1]
+
+<sup>1</sup> I membri del corpo insegnante insegnano e svolgono ricerche autonomamente nell’ambito del mandato di insegnamento e di ricerca e sotto la propria responsabilità.
+
+<sup>2</sup> Su proposta dei PF, il Consiglio dei PF nomina i professori ordinari e straordinari e ne definisce il campo d’insegnamento e di ricerca.
+
+<sup>3</sup> Su proposta dei PF, nomina i professori-assistenti per un periodo di quattro anni al massimo. Può rinnovarne il mandato una volta sola. Il rapporto di lavoro può essere disdetto secondo la procedura ordinaria.
+
+<sup>4</sup> La Direzione della scuola conferisce la *venia legendi* e designa i *maîtres d’en**seignement et de recherche* e gli incaricati di corsi.
+
+[^14-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 15
+
+**Assistenti[^15-1]**
+
+<sup>1</sup> La Direzione della scuola assume assistenti per attività di insegnamento e di ricerca di durata limitata. Essi hanno la possibilità di perfezionarsi svolgendo ricerche o seguendo corsi.
+
+<sup>2</sup> e <sup>3</sup> …[^15-2]
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^15-2]: Abrogati dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 16
+
+**Condizioni d’ammissione**[^16-1]
+
+<sup>1</sup>
+
+È ammesso a un PF come studente del primo semestre del ciclo di studi bachelor:
+
+- a. il titolare di un attestato di maturità federale, di un attestato di maturità riconosciuto dalla Confederazione o di un attestato equivalente rilasciato da una scuola media superiore svizzera o del Liechtenstein;
+- b. il titolare di un altro diploma riconosciuto dalla Direzione della scuola;
+- c. il titolare di un diploma rilasciato da una scuola universitaria professionale svizzera; oppure
+- d. chi ha superato un esame d’ammissione.
+
+<sup>2</sup>
+
+La Direzione della scuola disciplina le condizioni e la procedura d’ammissione per:
+
+- a. accedere a un semestre superiore del ciclo di studi bachelor;
+- b. il ciclo di studi master;
+- c. il dottorato;
+- d. i programmi di perfezionamento accademico;
+- e. gli uditori.
+
+[^16-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 15 feb. 2013 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+
+#### Art. 16a
+
+**Limitazioni all’ammissione[^16a-2]**[^16a-1]
+
+<sup>1</sup> Il Consiglio dei PF può, su domanda della Direzione della scuola e se motivi di capacità lo esigono, limitare l’ammissione al ciclo di studi bachelor o master degli studenti in possesso di un attestato estero che dà accesso agli studi superiori. Le limitazioni possono riferirsi a singoli indirizzi accademici o al numero totale dei posti di studio presso i PF.[^16a-3]
+
+<sup>2</sup> Su domanda della Direzione della scuola, il Consiglio dei PF può decidere di limitare l’ammissione di tutti gli studenti ai cicli di studio che preparano a un ciclo di studio master in medicina.[^16a-4]
+
+<sup>3</sup> Le decisioni del Consiglio dei PF sono pubblicate nel Foglio federale.
+
+<sup>4</sup> In caso di limitazioni all’ammissione, i candidati sono ammessi in base alla loro idoneità.
+
+<sup>5</sup> La Direzione della scuola stabilisce le condizioni e la procedura d’ammissione.
+
+[^16a-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 15 feb. 2013 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^16a-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^16a-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^16a-4]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 17
+
+**Rapporti di lavoro**[^17-1]
+
+<sup>1</sup> Il Consiglio federale disciplina nel quadro della legge del 24 marzo 2000[^17-2] sul personale federale e della legge del 23 giugno 2000[^17-3] sulla Cassa pensioni della Confederazione le condizioni d’impiego e la previdenza professionale dei membri a tempo pieno del Consiglio dei PF, dei presidenti delle scuole e dei direttori degli istituti di ricerca.
+
+<sup>1bis</sup> Gli altri membri del Consiglio dei PF sono legati alla Confederazione da un mandato di diritto pubblico. Il Consiglio federale stabilisce le indennità e le altre condizioni contrattuali.[^17-4]
+
+<sup>2</sup> I rapporti di lavoro del personale sono retti dalla legge del 24 marzo 2000 sul personale federale, sempreché la presente legge non disponga diversamente.
+
+<sup>3</sup> Per quanto lo richiedano esigenze particolari dell’insegnamento e della ricerca, il Consiglio dei PF può, nel quadro dell’articolo 6 capoverso 5 della legge del 24 marzo 2000 sul personale federale, emanare prescrizioni concernenti le condizioni d’impiego di professori sulla base del diritto privato; tali prescrizioni necessitano dell’approvazione del Consiglio federale.
+
+<sup>4</sup> In casi eccezionali debitamente motivati, il Consiglio dei PF può convenire con un professore che il suo impiego duri oltre il limite di età di cui all’articolo 21 della legge federale del 20 dicembre 1946[^17-5] sull’assicurazione per la vecchiaia e i superstiti.
+
+<sup>5</sup> Il personale è assicurato presso la Cassa pensioni della Confederazione (PUBLICA). Per il settore dei PF, il Consiglio dei PF è il datore di lavoro ai sensi della legge del 20 dicembre 2006[^17-6] su PUBLICA.[^17-7]
+
+[^17-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^17-3]: [[RU 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), **2004** 5264, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369). [RU 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)art. 27]. Vedi ora la LF del 20 dic. 2006 su PUBLICA ([RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)).
+[^17-4]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^17-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^17-6]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^17-7]: Nuovo testo giusta il n. 2 dell’all. alla LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+
+#### Art. 17a
+
+**Incarichi d’insegnamento**[^17a-1]
+
+<sup>1</sup> Gli incaricati di corsi nell’ambito di incarichi d’insegnamento esterni sono assunti, salvo convenzione contraria, con un contratto di lavoro conformemente al Codice delle obbligazioni[^17a-2].
+
+<sup>2</sup> Il contratto di lavoro può essere rinnovato più volte per una durata complessiva di cinque anni al massimo. Oltre i cinque anni il rapporto di lavoro è considerato di durata indeterminata.
+
+<sup>3</sup> I PF e gli istituti di ricerca disciplinano la retribuzione degli incaricati di corsi.
+
+[^17a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° ago. 2008 ([RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [FF 2007 1131](https://fedlex.data.admin.ch/eli/fga/2007/181)).
+[^17a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 17b
+
+**Durata del rapporto di lavoro**[^17b-1]
+
+<sup>1</sup> Se il contratto di lavoro non è limitato nel tempo, il rapporto di lavoro è di durata indeterminata.
+
+<sup>2</sup>
+
+Un contratto di lavoro di durata determinata può essere rinnovato più volte per una durata complessiva di:
+
+- a. otto anni al massimo per i professori-assistenti;
+- b. sei anni al massimo per gli assistenti e gli assistenti in capo, nonché gli altri impiegati che esercitano una funzione equivalente; in caso di passaggio dall’impiego di assistente a quello di assistente in capo, gli anni di attività come assistente non sono computati;
+- c. nove anni al massimo per gli impiegati attivi in progetti d’insegnamento e di ricerca e per le persone che partecipano a progetti finanziati da terzi;
+- d. cinque anni al massimo per gli altri impiegati.
+
+[^17b-1]: Introdotto dal n. 2 dell’all. alla LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+
+#### Art. 18
+
+**Pubblicazioni scientifiche**[^18-1]
+
+Nelle pubblicazioni scientifiche devono essere menzionate tutte le persone che vi hanno collaborato sul piano scientifico.
+
+[^18-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 19
+
+**Titoli accademici, *venia legendi* e certificati**
+
+<sup>1</sup>
+
+I PF conferiscono:
+
+- a. diplomi;
+- [tab] a<sup>bis</sup>.[^19-1] titoli di *b**achelor* e di *master*;
+- b. dottorati;
+- c. la venia legendi.
+
+<sup>2</sup> Il Consiglio dei PF può creare ulteriori titoli accademici.
+
+<sup>3</sup> I PF possono rilasciare certificati ed attestati.
+
+[^19-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 20
+
+**Professori titolari e dottori honoris causa**
+
+<sup>1</sup> Il Consiglio dei PF può conferire il titolo di professore a liberi docenti, *maîtres d’enseignement et de recherche* e incaricati di corsi particolarmente meritevoli.[^20-1]
+
+<sup>2</sup> I PF possono conferire il titolo di dottore honoris causa a persone che si sono particolarmente distinte in campo scientifico.
+
+[^20-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+### Sezione 3:**** Integrità scientifica e buona prassi scientifica
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 20a
+
+**Regole, procedura e sanzioni**
+
+<sup>1</sup> I PF e gli istituti di ricerca emanano regole vincolanti per i loro membri sull’integrità scientifica e sulla buona prassi scientifica.
+
+<sup>2</sup> I PF e gli istituti di ricerca definiscono la procedura per i casi di sospetta violazione di tali regole.
+
+<sup>3</sup> Le sanzioni per la violazione di queste regole sono rette dalle disposizioni in materia del diritto del personale e dalle disposizioni concernenti la revoca di titoli accademici.
+
+#### Art. 20b
+
+**Fornitura e richiesta di informazioni**
+
+<sup>1</sup>
+
+Caso per caso e su precisa richiesta scritta, il Consiglio dei PF, i PF e gli istituti di ricerca possono comunicare agli organi di università, di istituzioni di ricerca o di promozione della ricerca, nazionali o estere, incaricati di individuare e sanzionare comportamenti scientifici scorretti:
+
+- a. se loro membri hanno violato le regole dell’integrità scientifica e della buona prassi scientifica o se sussiste il sospetto fondato di una tale violazione;
+- b. quali sanzioni sono state inflitte alle rispettive persone.
+
+<sup>2</sup> Il Consiglio dei PF, i PF e gli istituti di ricerca possono, dal canto loro, richiedere agli organi competenti informazioni su una violazione delle regole o sul sospetto fondato di tale violazione da parte di loro membri o di membri di altre istituzioni con cui intrattengono o intendono stringere partenariati di ricerca.
+
+<sup>3</sup> Il diritto di fornire o richiedere informazioni si prescrive in cinque anni dal momento in cui il Consiglio dei PF, il PF o l’istituto di ricerca è venuto a conoscenza della sospetta violazione delle regole. Il termine è interrotto da qualsiasi atto istruttorio. Il termine della prescrizione assoluta è di dieci anni.
+
+#### Art. 20c
+
+**Informazione delle persone interessate**
+
+<sup>1</sup>
+
+Il Consiglio dei PF, il PF o l’istituto di ricerca comunica per iscritto alla persona interessata dalla fornitura o dalla richiesta di informazioni, al più tardi nel momento in cui le informazioni vengono fornite o richieste:
+
+- a. a chi sono state fornite o richieste;
+- b. a quale scopo sono state fornite o richieste.
+
+<sup>2</sup> Il Consiglio dei PF, il PF o l’istituto di ricerca può rifiutare, limitare o differire la comunicazione delle informazioni alla persona interessata se tale comunicazione potrebbe compromettere un procedimento penale.
+
+<sup>3</sup> Appena vengono meno i motivi di rifiuto, limitazione o differimento si informa senza indugio la persona interessata, salvo che ciò sia impossibile, o possibile soltanto con un onere sproporzionato.
+
+## Capitolo 3: Istituti di ricerca
+
+#### Art. 21
+
+**Autonomia e compiti**
+
+<sup>1</sup> Gli istituti di ricerca sono istituti federali autonomi di diritto pubblico, con personalità giuridica.
+
+<sup>2</sup> Essi svolgono ricerche nel loro settore d’attività e forniscono prestazioni di natura scientifica e tecnica.
+
+<sup>3</sup> Secondo le rispettive possibilità, essi sono a disposizione dei PF e delle università per attività d’insegnamento o ricerca.
+
+#### Art. 22
+
+**Istituzione e soppressione**[^22-1]
+
+Istituti di ricerca possono essere istituiti o soppressi mediante ordinanza dell’Assemblea federale.
+
+[^22-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 23
+
+**Diritto applicabile**
+
+In assenza di disposizioni legislative specifiche, le norme che disciplinano i PF si applicano per analogia agli istituti di ricerca.
+
+## Capitolo 4: Organizzazione
+
+### Sezione 1: Consiglio dei PF
+
+#### Art. 24
+
+**Composizione, nomina e revoca[^24-2]**[^24-1]
+
+<sup>1</sup>
+
+Il Consiglio federale nomina per un periodo di quattro anni i seguenti membri del Consiglio dei PF:
+
+- a. il presidente;
+- b. il vicepresidente;
+- c. un direttore di un istituto di ricerca;
+- d. un membro proposto dalle assemblee delle scuole;
+- e. altri cinque membri.
+
+<sup>2</sup> La rielezione è possibile.
+
+<sup>3</sup> I presidenti delle scuole fanno parte d’ufficio del Consiglio dei PF.
+
+<sup>4</sup> Il Consiglio federale può revocare per motivi gravi i membri del Consiglio dei PF durante il loro mandato.[^24-3]
+
+[^24-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^24-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^24-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 24a
+
+**Comitati**[^24a-1]
+
+Il Consiglio dei PF può formare comitati.
+
+[^24a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 24b
+
+**Obbligo di diligenza e di fedeltà**[^24b-1]
+
+<sup>1</sup> I membri del Consiglio dei PF adempiono i propri compiti e obblighi con la massima diligenza e tutelano secondo buona fede gli interessi del settore dei PF.
+
+<sup>2</sup> Il Consiglio dei PF adotta i provvedimenti organizzativi necessari per tutelare gli interessi del settore dei PF ed evitare conflitti d’interesse.
+
+[^24b-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 24c
+
+**Indicazione delle relazioni d’interesse**[^24c-1]
+
+<sup>1</sup> Prima di essere nominati, i membri del Consiglio dei PF rendono pubbliche le loro relazioni d’interesse.
+
+<sup>2</sup> Comunicano immediatamente eventuali cambiamenti delle loro relazioni d’interesse al DEFR e al Consiglio dei PF.
+
+<sup>3</sup> Se una relazione d’interesse non è conciliabile con la funzione di membro del Consiglio dei PF e il membro la mantiene, il DEFR chiede al Consiglio federale la revoca di tale membro.
+
+<sup>4</sup> Il Consiglio dei PF informa nel quadro del resoconto annuale sulle relazioni d’interesse dei suoi membri.
+
+[^24c-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 25
+
+**Compiti**
+
+<sup>1</sup>
+
+Il Consiglio dei PF:
+
+- a.[^25-1] definisce la strategia del settore dei PF nell’ambito degli obiettivi strategici definiti dal Consiglio federale;
+- b. rappresenta il settore dei PF nei confronti delle autorità della Confederazione;
+- c. emana disposizioni sulla supervisione e esercita la supervisione strategica;
+- d. approva i piani di sviluppo del settore dei PF e ne controlla l’esecuzione;
+- e.[^25-2] procede alle assunzioni e alle nomine di sua competenza;
+- f. esercita la sorveglianza sul settore dei PF;
+- g.[^25-3] è responsabile del coordinamento e della pianificazione secondo la legge federale del 30 settembre 2011[^25-4] sulla promozione e sul coordinamento del settore universitario svizzero;
+- h. adotta il proprio regolamento interno;
+- i. adempie gli altri compiti assegnatigli dalla presente legge.[^25-5]
+
+<sup>2</sup> Esso sottopone al DEFR i preavvisi e le proposte sugli affari relativi al settore dei PF. Il DEFR, qualora non intenda seguire il preavviso del Consiglio dei PF oppure abbia proposte proprie, consulta in merito il Consiglio stesso.
+
+<sup>3</sup> Il Consiglio dei PF informa i membri dei PF e degli istituti di ricerca su tutti gli affari che li concernono.
+
+[^25-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^25-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^25-3]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^25-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^25-5]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 26
+
+**Presidente del Consiglio dei PF**[^26-1]
+
+<sup>1</sup> Il presidente del Consiglio dei PF gestisce gli affari che competono al Consiglio dei PF e decide quanto gli pertiene secondo il regolamento interno.
+
+<sup>2</sup> Rappresenta il settore dei PF verso l’esterno.
+
+[^26-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 26a
+
+**Comitato consultivo**[^26a-1]
+
+Il Consiglio dei PF può istituire un comitato consultivo scientifico.
+
+[^26a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 26b
+
+**Stato maggiore**[^26b-1]
+
+Il Consiglio dei PF dispone di uno stato maggiore.
+
+[^26b-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+### Sezione 2: Politecnici federali
+
+#### Art. 27
+
+**Struttura**
+
+<sup>1</sup> I PF comprendono una direzione, un’assemblea di scuola, organi centrali e unità d’insegnamento e di ricerca.
+
+<sup>2</sup> Il Consiglio dei PF definisce nelle linee fondamentali l’organizzazione dei PF.[^27-1]
+
+<sup>3</sup> ...[^27-2]
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^27-2]: Abrogato dal n. 2 dell’all. alla LF del 14 dic. 2012, con effetto dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+
+#### Art. 28
+
+**Direzione della scuola**[^28-1]
+
+<sup>1</sup> I presidenti delle scuole sono nominati dal Consiglio federale su proposta del Consiglio dei PF. La durata della funzione è di quattro anni. La rielezione è possibile.
+
+<sup>2</sup> L’autorità di nomina decide discrezionalmente in merito alla nomina e alla non rielezione. In caso di non rielezione va rispettato un termine di preavviso di quattro mesi. Conformemente all’articolo 14 capoverso 2 lettera d della legge del 24 marzo 2000[^28-2] sul personale federale, la persona nominata può chiedere la risoluzione del rapporto di lavoro per la fine di un mese, osservando un termine di preavviso di quattro mesi.
+
+<sup>3</sup> Il Consiglio federale stabilisce le condizioni per il versamento di un’indennità se il rapporto di lavoro è disdetto senza colpa dell’impiegato o di comune intesa.
+
+<sup>4</sup> Gli altri membri delle direzioni delle scuole sono assunti dal Consiglio dei PF. La funzione di direzione può essere iscritta in un contratto denunciabile separatamente che completa un contratto di lavoro esistente. Il contratto di lavoro può prevedere che una disdetta ordinaria può essere pronunciata per motivi legati alla salvaguardia del buon funzionamento della direzione. Quale motivo di disdetta ordinaria può essere prevista anche la cessazione della proficua collaborazione con il presidente della scuola.
+
+<sup>5</sup> Il Consiglio dei PF emana le disposizioni d’esecuzione relative al capoverso 4. Vi stabilisce le condizioni per il versamento di un’indennità se il rapporto di lavoro è disdetto senza colpa dell’impiegato o di comune intesa.
+
+<sup>6</sup> L’indennità ammonta almeno a uno stipendio mensile e al massimo a uno stipendio annuo.
+
+<sup>7</sup> I capoversi 1–6 si applicano per analogia ai membri delle direzioni degli istituti di ricerca.
+
+[^28-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^28-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 29
+
+**Presidente della scuola**
+
+<sup>1</sup> Il presidente della scuola ha la responsabilità complessiva della direzione della scuola e risponde della sua gestione di fronte al Consiglio dei PF.
+
+<sup>2</sup> È competente per tutte le questioni interne che non spettano a un altro organo.
+
+#### Art. 30
+
+**Conferenza dei membri del corpo insegnante**[^30-1]
+
+<sup>1</sup> La Conferenza è composta di rappresentanti del corpo insegnante. Essa dà un parere alla Direzione della scuola su tutti i problemi riguardanti l’insieme del corpo insegnante.
+
+<sup>2</sup> I membri del corpo insegnante stabiliscono la procedura di nomina e il regolamento interno della Conferenza.
+
+[^30-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 31
+
+**Assemblea della scuola**
+
+<sup>1</sup> In ogni PF vi è un’assemblea paritetica, composta di rappresentanti eletti di tutti i gruppi di membri della scuola.
+
+<sup>2</sup>
+
+L’assemblea della scuola ha il diritto di formulare proposte:
+
+- a. su tutti gli atti normativi del Consiglio dei PF e degli organi a lui subordinati, in relazione ai PF;
+- b. sul preventivo e sulla pianificazione dei PF, nonché sulla creazione o la soppressione di unità d’insegnamento e di ricerca;
+- c. in materia di strutture e di cogestione.
+
+<sup>3</sup> Essa riferisce al Consiglio dei PF il proprio parere sul rapporto annuale d’attività del presidente della scuola, sorveglia la cogestione ed emana il proprio regolamento interno. Mediante ordinanza, il Consiglio dei PF può attribuirle altri compiti.[^31-1]
+
+<sup>4</sup> Le proposte assembleari che implicano competenze decisionali di organi superiori sono comunicate a questi ultimi tramite la Direzione della scuola. Per motivare le proprie proposte in seno al Consiglio dei PF, l’assemblea può delegarvi un rappresentante.
+
+<sup>5</sup> Prima di adottare decisioni di interesse generale per la scuola, la Direzione della scuola e il Consiglio dei PF consultano l’assemblea e i gruppi di membri della scuola.
+
+[^31-1]: Nuovo testo del per. giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 32
+
+**Diritti di cogestione**
+
+<sup>1</sup>
+
+I rappresentanti di tutti i gruppi di membri dei PF partecipano, se interessati:
+
+- a. alla formazione delle opinioni e alla preparazione delle decisioni, soprattutto ove si tratti d’insegnamento, ricerca e pianificazione dei PF;
+- b. alle decisioni su tali questioni nelle loro unità d’insegnamento e di ricerca.
+
+<sup>2</sup> La Direzione si occupa di procurare ai membri della scuola tutte le informazioni necessarie; questi ultimi, nonché le organizzazioni di ex studenti, possono sottoporre proposte a tutti gli organi.
+
+<sup>3</sup> Le unità d’insegnamento e di ricerca sono dirette da organi composti di rappresentanti di tutti i gruppi interessati di membri dei PF.
+
+<sup>4</sup> Per il rimanente, il Consiglio dei PF disciplina l’estensione e le modalità della cogestione.[^32-1]
+
+[^32-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+## Capitolo 5:**** Obiettivi strategici e finanze****
+
+[^chap5-1][^chap5-2]
+
+[^chap5-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap5-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 33
+
+**Obiettivi strategici**[^33-1]
+
+<sup>1</sup> Il Consiglio federale definisce ogni quattro anni, entro i limiti stabiliti dalle basi legali, gli obiettivi strategici per il settore dei PF. Consulta previamente il Consiglio dei PF.
+
+<sup>2</sup> Gli obiettivi strategici determinano in particolare le priorità del settore dei PF per quanto concerne l’insegnamento, la ricerca e le prestazioni nonché i principi secondo cui i mezzi finanziari sono assegnati ai PF e agli istituti di ricerca.
+
+<sup>3</sup> Gli obiettivi strategici sono conformi al limite di spesa della Confederazione tanto nei tempi quanto nei contenuti.
+
+<sup>4</sup> Il Consiglio federale può modificare gli obiettivi strategici durante il periodo di validità se motivi gravi e non prevedibili lo richiedono.
+
+[^33-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 33a
+
+**Attuazione**[^33a-1]
+
+<sup>1</sup> Il Consiglio dei PF provvede all’attuazione degli obiettivi strategici definiti dal Consiglio federale.
+
+<sup>2</sup> Il Consiglio dei PF conclude ogni quattro anni accordi sugli obiettivi con i PF e gli istituti di ricerca. In caso di dissenso sul contenuto o sull’attuazione degli accordi sugli obiettivi, decide in via definitiva.
+
+<sup>3</sup> Il Consiglio dei PF ripartisce i mezzi finanziari della Confederazione; a tal fine, si fonda in particolare sulle proposte budgetarie presentate dai PF e dagli istituti di ricerca.
+
+[^33a-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 34
+
+**Resoconto**[^34-1]
+
+Il Consiglio dei PF sottopone ogni anno al Consiglio federale i seguenti documenti:
+
+- a. il rapporto sul raggiungimento degli obiettivi strategici;
+- b. la relazione sulla gestione;
+- c. il rapporto di verifica dell’organo di revisione;
+- d. il rapporto del Controllo federale delle finanze, qualora quest’ultimo abbia verificato il settore dei PF nell’anno corrispondente.
+
+[^34-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 34a
+
+**Valutazione e misure**
+
+Il DEFR valuta la realizzazione del mandato e propone al Consiglio federale le misure eventualmente necessarie. Unitamente alla proposta relativa al nuovo mandato di prestazioni[^34a-1], presenta all’Assemblea federale un rapporto intermedio sulla realizzazione degli obiettivi.
+
+[^34a-1]: Ora: obiettivi strategici.
+
+#### Art. 34b
+
+**Contributo finanziario della Confederazione**
+
+<sup>1</sup> Il Consiglio federale propone all’Assemblea federale il limite di spesa per la copertura del fabbisogno finanziario del settore dei PF per l’esercizio e gli investimenti.
+
+<sup>2</sup> L’Assemblea federale stabilisce di volta in volta il limite di spesa per un periodo di quattro anni.
+
+<sup>3</sup> Il contributo finanziario è indipendente dall’importo e dallo scopo dei mezzi di terzi acquisiti dai PF o dagli istituti di ricerca.
+
+#### Art. 34b<sup>bis</sup>
+
+**Trasferimento dell’utilizzazione**[^34bbis-1]
+
+<sup>1</sup> Il Consiglio dei PF e, se quest’ultimo lo stabilisce, i PF e gli istituti di ricerca possono trasferire temporaneamente a terzi l’utilizzazione dei fondi di proprietà della Confederazione.
+
+<sup>2</sup> Il Consiglio federale può rinunciare ai ricavi derivanti dal trasferimento, purché siano di modesta entità e il trasferimento dell’utilizzazione sia nell’interesse della Confederazione.
+
+[^34bbis-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 34c
+
+**Mezzi di terzi**
+
+<sup>1</sup> I PF e gli istituti di ricerca dispongono, compatibilmente con i loro compiti, dei mezzi che provengono loro da terzi.
+
+<sup>2</sup> Il Consiglio dei PF emana prescrizioni sulla gestione di tali mezzi.
+
+#### Art. 34d
+
+**Tasse**
+
+<sup>1</sup> I PF e gli istituti di ricerca riscuotono tasse per le loro prestazioni.
+
+<sup>2</sup> L’importo delle tasse universitarie per gli studenti svizzeri e per gli studenti stranieri domiciliati in Svizzera deve essere socialmente sostenibile.[^34d-1]
+
+<sup>2bis</sup> Per gli studenti stranieri che eleggono domicilio in Svizzera a scopo di studio o che non hanno domicilio in Svizzera possono essere fissate tasse universitarie più elevate; queste possono ammontare al massimo al triplo delle tasse universitarie di cui al capoverso 2.[^34d-2]
+
+<sup>3</sup> Il Consiglio dei PF emana l’ordinanza sulle tasse nel settore dei PF. Qualora decida un aumento delle tasse, può emanare disposizioni transitorie per evitare casi di rigore nei confronti degli studenti già immatricolati.[^34d-3]
+
+<sup>4</sup> I PF e gli istituti di ricerca forniscono le loro prestazioni a prezzi di mercato.
+
+[^34d-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^34d-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 34e
+
+**Altri tributi**
+
+<sup>1</sup> I PF e gli istituti di ricerca possono autorizzare organizzazioni di loro membri a riscuotere tasse adeguate e socialmente sopportabili per le prestazioni fornite nell’interesse dei PF e degli istituti di ricerca o dei loro membri. Le tasse devono essere fissate in un regolamento; questo regolamento sottostà all’approvazione dei PF o degli istituti di ricerca.
+
+<sup>2</sup> I PF possono riscuotere dagli studenti e dai candidati al dottorato contributi socialmente sopportabili per l’utilizzazione degli impianti sportivi.
+
+#### Art. 35
+
+**Preventivo e relazione sulla gestione**[^35-1]
+
+<sup>1</sup> Il Consiglio dei PF allestisce, per il settore dei PF, il preventivo annuo e la relazione sulla gestione.
+
+<sup>2</sup>
+
+La relazione sulla gestione contiene la relazione annuale e il conto annuale del settore dei PF con:
+
+- a. il bilancio;
+- b. il conto economico;
+- c. il conto dei flussi di tesoreria;
+- d. il conto degli investimenti;
+- e. lo stato del capitale proprio;
+- f. l’allegato.
+
+<sup>3</sup> Il Consiglio dei PF sottopone la relazione sulla gestione riveduta al Consiglio federale per approvazione. Nel contempo propone al Consiglio federale il discarico e gli sottopone una proposta sull’impiego dell’eventuale eccedenza dei ricavi.[^35-2]
+
+<sup>4</sup> Dopo la sua approvazione, il Consiglio dei PF pubblica la relazione sulla gestione.[^35-3]
+
+[^35-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^35-2]: Per. introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35-3]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 35a
+
+**Finanze e contabilità[^35a-2]**[^35a-1]
+
+<sup>1</sup> La presentazione dei conti del settore dei PF espone la situazione reale inerente al patrimonio, alle finanze e ai ricavi.
+
+<sup>2</sup> La presentazione dei conti è retta dai principi dell’essenzialità, della completezza, della comprensibilità, della continuità e dell’espressione al lordo e si fonda su norme generalmente riconosciute.
+
+<sup>3</sup> Le norme di iscrizione a bilancio e di valutazione derivanti dai principi contabili vanno indicate nell’allegato al bilancio.
+
+<sup>4</sup> La contabilità d’esercizio deve evidenziare i costi e i ricavi delle singole prestazioni.
+
+<sup>5</sup> Il Consiglio federale può emanare prescrizioni sulle finanze e sulla contabilità.[^35a-3]
+
+[^35a-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^35a-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35a-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 35a<sup>bis</sup>
+
+**Sistemi di controllo interno e di gestione del rischio**[^35abis-1]
+
+Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF e gli istituti di ricerca gestiscono ognuno un sistema di controllo interno e un sistema di gestione del rischio.
+
+[^35abis-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 35a<sup>ter</sup>
+
+**Vigilanza finanziaria**[^35ater-1]
+
+<sup>1</sup> Il Consiglio dei PF istituisce un servizio di audit interno.[^35ater-2]
+
+<sup>2</sup> Emana le prescrizioni esecutive sull’esercizio della vigilanza finanziaria nel settore dei PF d’intesa con il Controllo federale delle finanze.
+
+<sup>3</sup> I conti del settore dei PF sono revisionati dal Controllo federale delle finanze.
+
+[^35ater-1]: Originario art. 35*a* e 35*a*<sup>bis</sup>.
+[^35ater-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 35a<sup>quater</sup>
+
+**Tesoreria**[^35aquater-1]
+
+<sup>1</sup> L’Amministrazione federale delle finanze (AFF) amministra nell’ambito della sua tesoreria centrale le liquidità del settore dei PF provenienti da contributi diretti o indiretti della Confederazione. Gli altri fondi possono essere depositati presso l’AFF.
+
+<sup>2</sup> L’AFF concede al settore dei PF prestiti a condizioni di mercato per garantirne la solvibilità necessaria allo svolgimento dei suoi compiti.
+
+<sup>3</sup> L’AFF e il Consiglio dei PF concordano i particolari in un contratto di diritto pubblico.
+
+[^35aquater-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+## Capitolo 6: Fondi e diritti su beni immateriali****
+
+[^chap6-1]
+
+[^chap6-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 35b
+
+**Fondi**[^35b-1]
+
+<sup>1</sup> Il Consiglio federale disciplina l’utilizzazione dei fondi di proprietà della Confederazione.
+
+<sup>2</sup> Il Consiglio dei PF coordina la gestione dei fondi e provvede a conservarne il valore e la funzione.
+
+[^35b-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 36
+
+**Diritti su beni immateriali**[^36-1]
+
+<sup>1</sup> Ad eccezione dei diritti d’autore, tutti i diritti sui beni immateriali prodotti nell’esercizio dell’attività di servizio da persone legate da un rapporto di lavoro ai sensi dell’articolo 17 appartengono ai PF e agli istituti di ricerca.
+
+<sup>2</sup> I diritti esclusivi di uso di programmi per computer prodotti nell’esercizio dell’attività di servizio da persone legate da un rapporto di lavoro ai sensi dell’articolo 17 appartengono ai PF e agli istituti di ricerca. I PF e gli istituti di ricerca possono pattuire con gli aventi diritto la cessione dei diritti d’autore su altre categorie d’opere.
+
+<sup>3</sup> Le persone che producono beni immateriali ai sensi dei capoversi 1 e 2 devono ottenere un’adeguata partecipazione agli eventuali utili realizzati con lo sfruttamento di tali beni.
+
+<sup>4</sup> Il Consiglio dei PF disciplina le disposizioni esecutive in un’ordinanza; questa ordinanza sottostà all’approvazione del Consiglio federale.
+
+[^36-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+## Capitolo 6*a*:**** Trattamento dei dati
+
+[^chap6a-1]
+
+[^chap6a-1]: Introdotto dal n. 2 dell’all. alla LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+
+### Sezione 1: Sistemi d’informazione concernenti il personale e di gestione degli studi****
+
+[^chap6a-sec1-1]
+
+[^chap6a-sec1-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 36a
+
+**Sistemi d’informazione concernenti il personale**
+
+<sup>1</sup> Il Consiglio dei PF, i PF e gli istituti di ricerca gestiscono ognuno un sistema d’informazione concernente il personale nel quale possono essere trattati anche dati personali degni di particolare protezione e profili della personalità. Il Consiglio dei PF può trasferire il trattamento dei suoi dati sul sistema d’informazione concernente il personale di un PF o di un istituto di ricerca.
+
+<sup>2</sup>
+
+I sistemi d’informazione concernenti il personale servono all’adempimento dei compiti sanciti dalla LPers, e in particolare:
+
+- a. a gestire e amministrare i dati personali relativi agli impiegati;
+- b. a trattare i dati concernenti gli stipendi ed eseguire valutazioni, simulazioni del preventivo e pianificazioni dei costi del personale;
+- c. a integrare la gestione dei dati nel sistema di gestione finanziaria e contabile;
+- d. a gestire i dati rilevanti per il promovimento dei quadri e lo sviluppo delle capacità gestionali.
+
+<sup>3</sup>
+
+Per quanto sia necessario per l’adempimento dei compiti di cui al capoverso 2, i sistemi d’informazione concernenti il personale trattano le categorie di dati seguenti:
+
+- a. lingua materna e data di nascita;
+- b. nazionalità;
+- c. funzione e stipendio, anni di esperienza, prestazioni accessorie allo stipendio;
+- d. tutte le informazioni necessarie per l’imposizione alla fonte;
+- e. tutte le informazioni necessarie per attuare la legge del 24 marzo 2006[^36a-1] sugli assegni familiari;
+- f. congedo parentale;
+- g. cariche pubbliche e attività accessorie;
+- h. esami dello stato di salute necessari nell’ambito della sicurezza sul lavoro e risultati di tali esami;
+- i. tempo di lavoro, comprese le assenze di ogni tipo;
+- j. competenze sociali e professionali, nonché formazione;
+- k. livello di valutazione attribuito in base alla valutazione delle prestazioni, nonché analisi di tale valutazione;
+- l. dati relativi allo sviluppo del personale, in particolare al promovimento dei quadri, allo sviluppo delle capacità gestionali e all’individuazione delle potenzialità;
+- m. pignoramenti dello stipendio, sentenze di divorzio, estratti del casellario giudiziale e del registro delle esecuzioni, trattenute dallo stipendio per debiti nei confronti del datore di lavoro;
+- n. riduzione della capacità di guadagno;
+- o. pensionamento per ragioni mediche;
+- p. diritti derivanti dalla legislazione in materia di assicurazioni sociali;
+- q. motivi delle dimissioni;
+- r. altri dati definiti nelle disposizioni d’esecuzione.
+
+<sup>4</sup> Il Consiglio dei PF, i PF e gli istituti di ricerca raccolgono i dati dei loro impiegati. Essi sono responsabili della protezione e della sicurezza dei dati.
+
+<sup>5</sup> I servizi del personale, i servizi finanziari e i servizi responsabili del supporto tecnico hanno accesso al sistema d’informazione concernente il personale della loro istituzione, per quanto sia necessario per l’adempimento dei loro compiti.
+
+<sup>6</sup>
+
+Il Consiglio dei PF emana disposizioni d’esecuzione concernenti:
+
+- a. l’organizzazione e la gestione dei sistemi d’informazione concernenti il personale;
+- b. il trattamento dei dati, in particolare la loro raccolta, conservazione, comunicazione, archiviazione e distruzione;
+- c. le autorizzazioni per il trattamento dei dati;
+- d. i cataloghi di dati;
+- e. la sicurezza dei dati e la loro protezione;
+- f. la comunicazione a organizzazioni e persone che non fanno parte del settore dei PF, mediante procedura di richiamo, di dati non degni di particolare protezione registrati nei sistemi d’informazione concernenti il personale.
+
+[^36a-1]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+
+#### Art. 36b
+
+**Sistemi di gestione degli studi**
+
+<sup>1</sup> Ogni PF dispone di un sistema d’informazione per la gestione dei dati dei candidati, degli studenti, dei dottorandi e degli uditori nel quale possono essere trattati anche dati personali degni di particolare protezione e profili della personalità.
+
+<sup>2</sup>
+
+I sistemi d’informazione servono per:
+
+- a. l’ammissione dei candidati agli studi e l’immatricolazione;
+- b. l’identificazione degli studenti e il controllo dell’avanzamento negli studi;
+- c. l’attestazione delle prestazioni di studio, il rilascio di diplomi e il conferimento di titoli accademici;
+- d. la fornitura di prestazioni legate agli studi;
+- e. la pianificazione e l’allestimento di statistiche.
+
+<sup>3</sup> I sistemi d’informazione trattano in particolare dati relativi alla persona, all’immatricolazione, alla materia di studio, allo svolgimento degli studi, ai risultati degli esami, alle prestazioni di studio (crediti), ai diplomi e ai titoli accademici, alle borse di studio e alle tasse pagate, nonché alla procedura disciplinare e ad altre procedure amministrative.
+
+<sup>4</sup> I dati possono essere gestiti esclusivamente in forma elettronica. In tal caso i documenti cartacei, dopo essere stati inseriti nel sistema d’informazione, vengono restituiti o distrutti.
+
+<sup>5</sup> I dati contenuti nei sistemi d’informazione possono essere comunicati mediante procedura di richiamo, per quanto sia necessario per l’adempimento dei compiti di cui al capoverso 2. I dati personali degni di particolare protezione e i profili della personalità possono essere comunicati mediante procedura di richiamo unicamente ai servizi competenti per la gestione degli studi in seno a ogni PF.
+
+<sup>6</sup>
+
+I PF emanano disposizioni d’esecuzione concernenti:
+
+- a. i dati contenuti nei sistemi d’informazione;
+- b. il trattamento dei dati, in particolare la loro raccolta, conservazione, comunicazione, archiviazione e distruzione;
+- c. l’uso dei dati;
+- d. le autorizzazioni per il trattamento di dati;
+- e. le autorizzazioni d’accesso ai dati in seno ai PF;
+- f. la comunicazione a organizzazioni e persone che non fanno parte dei PF, mediante procedura di richiamo, di dati personali non degni di particolare protezione, registrati nei sistemi d’informazione.
+
+### Sezione 2:**** Trattamento dei dati personali nell’ambito di progetti di ricerca
+
+[^chap6a-sec2-1]
+
+[^chap6a-sec2-1]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 36c
+
+**Trattamento dei dati**
+
+<sup>1</sup> Nell’ambito di progetti di ricerca i PF e gli istituti di ricerca possono trattare dati personali, inclusi dati personali degni di particolare protezione e profili della personalità, se necessario per il progetto di ricerca.
+
+<sup>2</sup> Garantiscono l’osservanza delle disposizioni della legge federale del 19 giugno 1992[^36c-1] sulla protezione dei dati.
+
+[^36c-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 36d
+
+**Anonimizzazione, conservazione e distruzione dei dati**
+
+<sup>1</sup> I PF e gli istituti di ricerca provvedono ad anonimizzare i dati personali non appena lo scopo del trattamento lo consente e a conservarli per la durata da essi stabilita.
+
+<sup>2</sup> Se la natura e lo scopo del progetto di ricerca non ne consentono l’anonimizzazione, i dati della ricerca riferiti a persone possono essere conservati in modo sicuro per al massimo 20 anni.
+
+<sup>3</sup> Trascorso il termine di conservazione devono essere distrutti; sono fatte salve le disposizioni della legge federale del 26 giugno 1998[^36d-1] sull’archiviazione.
+
+[^36d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 36e
+
+**Obbligo d’informazione**
+
+<sup>1</sup> I PF e gli istituti di ricerca sono tenuti a informare le persone interessate della raccolta e del trattamento dei dati personali in relazione con un determinato progetto di ricerca.
+
+<sup>2</sup> Questo obbligo di informazione sussiste anche se i dati personali sono raccolti presso terzi. In tal caso i PF e gli istituti di ricerca provvedono affinché i terzi adempiano l’obbligo di informazione. Se ciò non può essere garantito, i PF e gli istituti di ricerca informano essi stessi, senza indugio, le persone interessate.
+
+## Capitolo 7: Protezione giuridica e disposizioni penali****
+
+[^chap7-1]
+
+[^chap7-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 37
+
+**Protezione giuridica**[^37-1]
+
+<sup>1</sup> Sempre che la presente legge non disponga altrimenti, la protezione giuridica è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
+
+<sup>2</sup> Il Consiglio dei PF, i PF e gli istituti di ricerca sono legittimati a ricorrere contro le decisioni su ricorso nella cause in cui hanno pronunciato come autorità di prima istanza. Le assemblee delle scuole sono legittimate a ricorrere contro le decisioni in materia di cogestione.
+
+<sup>3</sup> Contro le decisioni dei PF e degli istituti di ricerca può essere interposto ricorso alla Commissione di ricorso dei PF. Sono eccettuate le decisioni rette dalla legge del 14 marzo 1958[^37-2] sulla responsabilità.[^37-3]
+
+<sup>4</sup> Nelle procedure di ricorso contro le decisioni in materia di esito di esami e promozioni non può essere invocata l’inadeguatezza.
+
+[^37-1]: Nuovo testo giusta il n. 36 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^37-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-3]: Nuovo testo giusta il n. II cpv. 2 della LF del 25 set. 2009, in vigore dal 1° mar. 2010 ([RU 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 413](https://fedlex.data.admin.ch/eli/fga/2009/60)).
+
+#### Art. 37a
+
+**Commissione di ricorso dei PF**[^37a-1]
+
+<sup>1</sup> Il Consiglio dei PF nomina i sette membri della Commissione di ricorso dei PF. Almeno quattro di questi membri devono far parte del settore dei PF.
+
+<sup>2</sup> La durata della funzione è di quattro anni e la rielezione è possibile.
+
+<sup>3</sup> Nell’esercizio della loro attività i membri sono indipendenti e sottostanno soltanto alla legge.
+
+<sup>4</sup> La Commissione dipende amministrativamente dal Consiglio dei PF. Essa dispone di una propria segreteria.
+
+<sup>5</sup> Il Consiglio dei PF emana il regolamento della Commissione. Vi disciplina segnatamente le competenze del presidente nei casi urgenti o di importanza secondaria e l’istituzione di camere con competenza decisionale autonoma.
+
+[^37a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 38
+
+**Protezione dei titoli conferiti dai PF**
+
+<sup>1</sup>
+
+È punito con la multa chiunque:[^38-1]
+
+- a. si fregia del titolo di docente di un PF, senza essere stato nominato a tale funzione;
+- b. porta un titolo rilasciato da un PF senza averlo ottenuto;
+- c. si serve di un titolo, tale da far credere che gli sia stato conferito da un PF.
+
+<sup>2</sup> Il perseguimento penale spetta ai Cantoni.
+
+[^38-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+
+## Capitolo 8:**** Disposizioni finali
+
+[^chap8-1]
+
+[^chap8-1]: Originario capitolo 6.
+
+### Sezione 1: Alta sorveglianza, norme d’esecuzione****
+
+[^chap8-sec1-1]
+
+[^chap8-sec1-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 39
+
+**…[^39-1]**
+
+<sup>1</sup> Il Consiglio federale esercita l’alta sorveglianza sui PF e sugli istituti di ricerca.
+
+<sup>2</sup> Esso emana le norme d’esecuzione. Può delegare il disciplinamento di dettaglio al Consiglio dei PF.
+
+<sup>3</sup> Può concludere accordi internazionali, nell’ambito della presente legge e nei limiti dei crediti stanziati.
+
+<sup>4</sup> Consulta il Consiglio dei PF prima di emanare le norme d’esecuzione o di concludere accordi internazionali. Le associazioni del personale vanno consultate prima di emanare norme relative ai rapporti di servizio.
+
+[^39-1]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+### Sezione 2: Modifica del diritto vigente****
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 40
+
+**Abrogazione e modifica del diritto vigente[^40-1]**
+
+<sup>1</sup>
+
+Sono abrogate:
+
+- 1\. la legge federale del 7 febbraio 1854[^40-2] sull’istituzione di una Scuola politecnica svizzera;
+- 2\. la legge federale dell’11 dicembre 1964[^40-3] concernente la competenza di stabilire le prestazioni della Confederazione agli ex-professori della Scuola politecnica federale e ai loro superstiti;
+- 3\. i decreti federali del 24 giugno 1970[^40-4], 20 giugno 1975[^40-5], 21 marzo 1980[^40-6] e 26 giugno 1985[^40-7] sui politecnici federali (disciplinamento transitorio).
+
+<sup>2</sup> Le seguenti leggi sono modificate come segue:
+
+...[^40-8]
+
+[^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^40-2]: [CS **4** 105; [RU 1959 533](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 cpv. 1 e [3](https://fedlex.data.admin.ch/eli/oc/1970/3_3_3), [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 70]
+[^40-3]: [[RU 1965 415](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
+[^40-4]: [[RU 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886), 1991 2276]
+[^40-5]: [[RU 1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759)]
+[^40-6]: [[RU 1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
+[^40-7]: [[RU 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
+[^40-8]: Le mod. possono essere consultate alla RU**2003** 4265.
+
+### Sezione 3:**** Disposizioni transitorie relative alla modifica del 21 marzo 2003
+
+[^chap8-sec3-1]
+
+[^chap8-sec3-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 40a
+
+**Passaggio al nuovo rapporto di lavoro**
+
+Il Consiglio dei PF è autorizzato a porre termine in un momento da esso stabilito al mandato dei professori ordinari e straordinari e a disciplinare il passaggio al nuovo rapporto di lavoro. Tale disciplinamento deve essere approvato dal Consiglio federale.
+
+#### Art. 40b
+
+**Trasferimento alla Cassa pensioni della Confederazione**
+
+<sup>1</sup> I professori ordinari e straordinari nominati prima del 1° gennaio 1995, compresi quelli pensionati, e i loro superstiti sono assicurati presso la Cassa pensioni della Confederazione dall’entrata in vigore della presente legge.
+
+<sup>2</sup> Le pensioni e le rendite per superstiti correnti rimangono invariate. La determinazione delle rendite future per superstiti e l’adeguamento al rincaro sono retti dalle disposizioni in vigore per la Cassa pensioni della Confederazione.
+
+<sup>3</sup> La Confederazione si assume la riserva matematica necessaria al trasferimento degli assicurati alla Cassa pensioni della Confederazione.
+
+<sup>4</sup> Il Consiglio federale disciplina le modalità del trasferimento e l’importo della riserva matematica necessaria.
+
+#### Art. 40c
+
+**Trasferimento di beni mobili**
+
+Il Consiglio federale stabilisce mediante ordinanza il momento in cui i beni mobili diventano proprietà dei PF e degli istituti di ricerca.
+
+#### Art. 40d
+
+**Disposizioni transitorie relative alla protezione giuridica**
+
+<sup>1</sup> Entro un anno dall’entrata in vigore della presente legge, il Consiglio dei PF emana il regolamento della Commissione di ricorso dei PF.
+
+<sup>2</sup> Fino all’entrata in vigore di detto regolamento, il Consiglio dei PF rimane competente a statuire sui ricorsi di cui all’articolo 37 capoverso 1.
+
+<sup>3</sup> Dall’entrata in vigore di detto regolamento, la Commissione di ricorso dei PF è competente a statuire sui ricorsi pendenti presso il Consiglio dei PF.
+
+### Sezione 3*a*:**** Disposizioni transitorie della modifica del 5 ottobre 2007
+
+[^chap8-sec3a-1]
+
+[^chap8-sec3a-1]: Introdotta dal n. I della LF del 5 ott. 2007, in vigore dal 1° ago. 2008 ([RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [FF 2007 1131](https://fedlex.data.admin.ch/eli/fga/2007/181)).
+
+#### Art. 40e
+
+L’articolo 17*a* si applica a tutti gli incarichi d’insegnamento esterni assegnati dopo l’entrata in vigore della modifica della presente legge del 5 ottobre 2007[^40e-1]. Gli incarichi d’insegnamento esterni in corso di svolgimento al momento dell’entrata in vigore devono essere adeguati al nuovo diritto entro l’inizio del semestre successivo.
+
+[^40e-1]: [RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)
+
+### Sezione 3*b*:**** Disposizioni transitorie per il 2012
+
+[^chap8-sec3b-1]
+
+[^chap8-sec3b-1]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 15 nov. 2011 ([RU 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [FF 2011 689](https://fedlex.data.admin.ch/eli/fga/2011/95)).
+
+#### Art. 40f
+
+**Limite di spesa secondo l’articolo 34*b***
+
+<sup>1</sup> In deroga all’articolo 34*b* capoverso 2, per il 2012 l’Assemblea federale proroga di un anno il limite di spesa per gli anni 2008–2011.
+
+<sup>2</sup> Il limite di spesa è aumentato in funzione del mandato di prestazioni.
+
+#### Art. 40g
+
+**Mandato di prestazioni secondo l’articolo 33**
+
+<sup>1</sup> Il mandato di prestazioni secondo l’articolo 33 per gli anni 2008–2011 è prorogato di un anno ed è valido anche per il 2012.
+
+<sup>2</sup> Può essere modificato e completato.
+
+<sup>3</sup> Gli accordi sugli obiettivi conclusi dal Consiglio dei PF con i PF e gli istituti di ricerca per gli anni 2008–2011 in virtù dell’articolo 33*a* sono validi anche per il 2012. Il Consiglio dei PF può completarli.
+
+#### Art. 40h
+
+**Nomina del Consiglio dei PF secondo l’articolo 24**
+
+In deroga all’articolo 24 capoverso 1, il Consiglio federale nomina i membri del Consiglio dei PF per un periodo di cinque anni, con effetto dal 1° gennaio 2012.
+
+### Sezione 3*c*:**** Disposizione transitoria relativa alla modifica del 14 dicembre 2012
+
+[^chap8-sec3c-1]
+
+[^chap8-sec3c-1]: Introdotto dal n. 2 dell’all. alla LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+
+#### Art. 40i
+
+La durata della funzione degli altri membri delle direzioni delle scuole (art. 28 cpv. 4) termina con la stipulazione del nuovo contratto di lavoro, al più tardi tuttavia un anno dopo l’entrata in vigore della modifica dell’articolo 28.
+
+### Sezione 4: Referendum ed entrata in vigore
+
+[^chap8-sec4-1]
+
+[^chap8-sec4-1]: Introdotta dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+
+#### Art. 41
+
+**…[^41-1]**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° febbraio 1993[^41-2]
+
+[^41-1]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^41-2]: DCF del 13 gen. 1993.

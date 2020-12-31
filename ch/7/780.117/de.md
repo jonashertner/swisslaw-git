@@ -1,0 +1,365 @@
+---
+sr: "780.117"
+title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Überwachung des Post- und Fernmeldeverkehrs (VD-ÜPF)
+short: VD-ÜPF
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
+language: de
+version: 2020-03-01
+adopted: 2017-11-15
+in_force: 2018-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20200301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EJPD über die Durchführung der Überwachung des Post- und Fernmeldeverkehrs
+
+(VD-ÜPF)
+
+vom 15. November 2017 (Stand am 1. März 2020)
+
+Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
+
+gestützt auf Artikel 31 Absatz 3 des Bundesgesetzes vom 18. März 2016[^ingress-1] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) und auf Artikel 70 der Verordnung vom 15. November 2017[^ingress-2] über die Überwachung des Post- und Fernmeldeverkehrs (VÜPF),
+
+verordnet:
+
+[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^ingress-2]: [SR 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+Diese Verordnung gilt für den Dienst Überwachung Post- und Fernmeldeverkehr (Dienst ÜPF) und die Mitwirkungspflichtigen gemäss Artikel 2 BÜPF.
+
+#### Art. 2
+
+**Instruktionspflicht und Rechtsaufklärung**
+
+Die Mitwirkungspflichtigen sind verpflichtet, für Überwachungen zuständige Mitarbeiterinnen und Mitarbeiter und von ihnen beauftragte Dritte zu informieren über:
+
+- a. die Vertraulichkeit der Überwachungsmassnahmen;
+- b. das Post- und Fernmeldegeheimnis;
+- c. die Straffolgen gemäss Artikel 321<sup>ter</sup> des Strafgesetzbuchs[^2-1] (StGB) sowie Artikel 39 BÜPF.
+
+[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 3
+
+**Absicherung der Kommunikation**
+
+Bei der Kommunikation zwischen den Mitwirkungspflichtigen und dem Dienst ÜPF sind folgende Vorgaben einzuhalten:
+
+- a. Vertrauliche Mitteilungen dürfen nur von im Voraus bestimmten Personen verschickt und an solche adressiert werden.
+- b. E-Mails sind zu verschlüsseln und zu signieren.
+
+#### Art. 4
+
+**Zustellform von Aufträgen**
+
+<sup>1</sup> Der Dienst ÜPF stellt den Mitwirkungspflichtigen Aufträge schriftlich auf elektronischem Weg zu.
+
+<sup>2</sup> Namentlich in dringenden Fällen kann er eine Überwachung oder ein Auskunftsgesuch telefonisch in Auftrag geben; der Auftrag ist am nachfolgenden Arbeitstag schriftlich auf elektronischem Weg nachzureichen.
+
+#### Art. 5
+
+**Kontaktstelle**
+
+<sup>1</sup> Jede Mitwirkungspflichtige gemäss Artikel 2 Buchstaben a–c BÜPF (Anbieterin) meldet dem Dienst ÜPF eine für die Überwachungen und Auskünfte zuständige Kontaktstelle, die für ihn telefonisch und per E-Mail erreichbar sein muss. Auf Verlangen des Dienstes ÜPF müssen auch Mitwirkungspflichtige gemäss Artikel 2 Buchstaben d–f BÜPF eine solche Kontaktstelle bestimmen.
+
+<sup>2</sup> Sie übermittelt dem Dienst ÜPF die aktuellen Kontaktdaten, insbesondere Name, Vorname, Funktionsbezeichnung, direkte Telefonnummer und E-Mail-Adresse der Ansprechpersonen sowie die kryptografischen Schlüssel.
+
+<sup>3</sup> Sie bezeichnet eine Korrespondenzadresse in der Schweiz, an die insbesondere Mitteilungen, Vorladungen, Überwachungsaufträge und sonstige Verfügungen rechtsgültig zugestellt werden können.
+
+#### Art. 6
+
+**Bearbeitungszeiten**
+
+<sup>1</sup> Der Dienst ÜPF und die Anbieterinnen bearbeiten die bei ihnen eingehenden Anordnungen, Gesuche und Aufträge vor Ablauf der in dieser Verordnung vorgesehenen Fristen.
+
+<sup>2</sup> Übernimmt der Dienst ÜPF oder ein durch ihn beauftragter Dritter die Durchführung eines Überwachungsauftrages, untersteht er nicht den für die Anbieterinnen geltenden Bearbeitungsfristen gemäss den Artikeln 16–18.
+
+#### Art. 7
+
+**Qualitätssicherung der Datenausleitung**
+
+<sup>1</sup> Die Qualität der Datenausleitung wird durch ein automatisiertes Monitoring und bei Bedarf durch zusätzliche Tests sichergestellt. Die Anbieterinnen und der Dienst ÜPF arbeiten dabei zusammen. Der Dienst ÜPF erstellt nach Anhörung der Anbieterinnen ein Testkonzept.
+
+<sup>2</sup> Der Dienst ÜPF legt nach Anhörung der Anbieterin die Einzelheiten der Qualitätssicherung der Datenausleitung schriftlich fest.
+
+<sup>3</sup>
+
+Die Anbieterin trifft zur Qualitätssicherung der Datenausleitung folgende Massnahmen:
+
+- a. Sie stellt, gestützt auf Anhang 1 und gemäss den Anweisungen des Dienstes ÜPF, dem Dienst ÜPF die Testdaten, die Fernmeldedienste und die abgeleiteten Kommunikationsdienste zur Verfügung, die für die Testauskünfte und Testschaltungen verwendet werden. Sie informiert den Dienst ÜPF unverzüglich über allfällige Änderungen der Testschaltungen oder von deren Identifikatoren sowie der Testdaten.
+- b.
+
+  Sie gewährt dem Dienst ÜPF den Zugang vor Ort oder den Fernzugang, um das Anschliessen von Testausrüstungen oder den Betrieb von Testauskünften und Testschaltungen zu ermöglichen. Hierzu zählen insbesondere:
+
+  - 1\. die Konfiguration der Testauskünfte und Testschaltungen nach den Vorgaben des Diensts ÜPF und dessen Zugriff auf die angeschlossenen Testausrüstungen oder auf die mobilen Endgeräte,
+  - 2\. auf Verlangen des Dienstes ÜPF das *Hosting* der Testausrüstungen zusammen mit den zugehörigen Testauskünften und Testschaltungen bei der Anbieterin oder bei von dieser beauftragten Dritten,
+  - 3\. auf Verlangen des Dienstes ÜPF Internetzugänge.
+
+<sup>4</sup> Die Mitarbeiterinnen und Mitarbeiter der Anbieterin oder von ihr beauftragte Dritte unterstützen den Dienst ÜPF zur Umsetzung der Massnahmen gemäss Absatz 3 bei Bedarf vor Ort.
+
+#### Art. 8
+
+**Störungen in den Systemen der Anbieterin**
+
+<sup>1</sup> Ist eine Anbieterin aufgrund einer Störung ihrer Systeme vorübergehend nicht in der Lage, ihre Pflichten zur Überwachung des Fernmeldeverkehrs oder zur Erteilung von Auskünften wahrzunehmen, so meldet sie dies unverzüglich dem Dienst ÜPF. Erfolgt die Meldung telefonisch, so muss sie die schriftliche Meldung innerhalb von fünf Arbeitstagen nachreichen.
+
+<sup>2</sup> Die Meldung befreit die Anbieterin nicht von ihrer Pflicht, Überwachungen durchzuführen oder Auskünfte zu erteilen.
+
+<sup>3</sup> Die Anbieterin behebt die Störung schnellstmöglich und informiert den Dienst ÜPF laufend über den Stand der Störung.
+
+#### Art. 9
+
+**Störungen im Ausleitungsnetz**
+
+Störungen in den Ausleitungsnetzen, die im gemeinsamen Verantwortungsbereich liegen, sind von den Beteiligten gemeinsam zu beheben. Die Beteiligten informieren sich laufend über den Stand der Störungsbehebung.
+
+## 2. Abschnitt: Überwachung des Postverkehrs
+
+#### Art. 10
+
+**Echtzeitüberwachung**
+
+<sup>1</sup> Das Abfangen der Postsendungen gemäss Artikel 16 Buchstabe a VÜPF umfasst das Identifizieren und Aussortieren, das Bereithalten zur Abholung durch die anordnende Behörde sowie allenfalls die Wiederentgegennahme nach erfolgter Kontrolle und die Zustellung.
+
+<sup>2</sup> Die Datenlieferung gemäss Artikel 16 Buchstabe b VÜPF besteht in der laufenden Mitteilung der Daten gemäss den Ziffern 1–4 der genannten Bestimmung, ohne dass die Zustellung der betreffenden Postsendungen unterbrochen wird.
+
+<sup>3</sup> Die Echtzeitüberwachung gemäss Artikel 16 Buchstaben a und b VÜPF ist von den Anbieterinnen von Postdiensten innerhalb eines Arbeitstags ab Eingang des Auftrags einzurichten. Sie dauert bis zum Zeitpunkt der Aufhebung.
+
+#### Art. 11
+
+**Rückwirkende Überwachung**
+
+Die Anbieterinnen von Postdiensten führen die rückwirkende Überwachung gemäss Artikel 16 Buchstabe c VÜPF innerhalb von drei Arbeitstagen ab Eingang des Auftrags aus.
+
+## 3. Abschnitt: Auskünfte zum Fernmeldeverkehr
+
+#### Art. 12
+
+**Auskunftserteilung**
+
+Im Auskunftsgesuch kann angegeben werden, dass die Informationen geliefert werden müssen, die in einem bestimmten Zeitraum aktuell waren. Ist kein Zeitraum angegeben, so bezieht sich das Auskunftsgesuch auf den Zeitpunkt, in dem es gestellt wird.
+
+#### Art. 13
+
+**Buchstabengetreue Suche und flexible Namenssuche**
+
+<sup>1</sup>
+
+Die buchstabengetreue Suche gemäss Artikel 35, 40, 42 und 43 VÜPF ist so durchzuführen, dass die Suchzeichenkette und die Suchindexe vor Ausführung der Suche zunächst wie folgt zu normalisieren sind und danach nach exakter Übereinstimmung der normalisierten Zeichenketten zu suchen ist:
+
+- a. alle Zeichen, die weder Buchstabe noch Ziffer sind, sind zu entfernen; und
+- b. die verbliebenen Buchstaben, die nicht Teil des aus 26 Buchstaben bestehenden lateinischen Alphabets sind (z. B. Buchstaben mit diakritischen Zeichen), sind umzuwandeln gemäss Spalte Zeichenumwandlung der Umsetzungsliste für Sonderzeichen im Anhang 2 der Weisung des EJPD vom 1. Januar 2012[^13-1] über die Bestimmung und Schreibweise der Namen von ausländischen Staatsangehörigen; und
+- c. alle Kleinbuchstaben sind in Grossbuchstaben umzuwandeln.
+
+<sup>2</sup>
+
+Die flexible Suche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 VÜPF hat alle folgenden Anforderungen zu erfüllen:
+
+- a. Die Suche ist fehlertolerant gegenüber Vertauschen, Auslassen, Einfügen und Ersetzen von Buchstaben und Zeichen, zum Beispiel Schreibfehler;
+- b. Die Suche ist fehlertolerant gegenüber Vertauschen, Auslassen und Abkürzen von Namensteilen, zum Beispiel Vertauschen von Vornamen und Nachnamen;
+- c. Die Suche findet phonetische Übereinstimmungen nach dem Sprachklang der englischen Sprache und nach Möglichkeit ebenfalls der drei Amtssprachen Deutsch, Französisch und Italienisch.
+
+[^13-1]: Die Weisung kann im Internet beim Staatssekretariat für Migration unter www.sem.admin.ch &gt; Publikationen & Service &gt; Weisungen und Kreisschreiben &gt; I. Ausländerbereich &gt; 3 Aufenthaltsregelung kostenlos abgerufen werden.
+
+#### Art. 14
+
+**Bearbeitungsfristen für Auskünfte**
+
+<sup>1</sup> Der Dienst ÜPF leitet Auskunftsgesuche innerhalb einer Stunde, nachdem sie eingegangen sind, zur Ausführung an die Mitwirkungspflichtige weiter.
+
+<sup>2</sup>
+
+Die Anbieterinnen von Fernmeldediensten, ausgenommen jene mit reduzierten Überwachungspflichten gemäss Artikel 51 VÜPF, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 VÜPF müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, wie folgt beantworten:
+
+- a. Auskunftsgesuche gemäss den Artikeln 35–37 und 40–42 VÜPF sowie gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40 und 42 VÜPF: innerhalb einer Stunde;
+- b. Auskunftsgesuche gemäss den Artikeln 38, 39 und 43–48 VÜPF sowie gemäss Artikel 27 in Verbindung mit Artikel 43 VÜPF: innerhalb eines Arbeitstags.
+
+<sup>3</sup> Die Anbieterinnen von Fernmeldediensten mit reduzierten Überwachungspflichten, Anbieterinnen abgeleiteter Kommunikationsdienste ohne weitergehende Auskunftspflichten und Betreiberinnen interner Fernmeldenetze müssen Auskunftsgesuche, nachdem sie bei ihnen eingegangen sind, innerhalb von zwei Arbeitstagen beantworten.
+
+## 4. Abschnitt: Überwachung des Fernmeldeverkehrs
+
+#### Art. 15
+
+**Ausführung**
+
+<sup>1</sup>
+
+Alle Typen von Echtzeitüberwachung (Art. 54–59 VÜPF), rückwirkender Überwachung (Art. 60–66 VÜPF), Notsuche (Art. 67 VÜPF) und Fahndung (Art. 68 VÜPF) sind wie folgt auszuführen:
+
+- a. Der Dienst übermittelt den Auftrag an die Anbieterin.
+- b. Die Anbieterin bestätigt dem Dienst ÜPF den Eingang des Auftrags.
+- c. Sie oder die von ihr beauftragte Dritte führt den Auftrag aus.
+- d. Sie bestätigt dem Dienst ÜPF auf elektronischem Weg, dass der Auftrag ausgeführt wurde; sie gibt den Zeitpunkt an, in dem die Massnahme aktiviert oder deaktiviert wurde oder in dem die Daten abgesendet wurden.
+
+<sup>2</sup> Bei einer Echtzeitüberwachung kann mit einem Auftrag entweder die Aktivierung oder Deaktivierung der Überwachung angeordnet werden.
+
+<sup>3</sup> Der Auftrag, eine rückwirkende Überwachung durchzuführen, ist ausgeführt, wenn die entsprechenden Daten erhoben und übermittelt wurden.
+
+#### Art. 16
+
+**Bearbeitungsfristen für Echtzeitüberwachungen**
+
+<sup>1</sup> Der Dienst ÜPF übermittelt den Auftrag zur Ausführung einer Echtzeitüberwachung an die Anbieterin innerhalb einer Stunde ab Eingang der Anordnung.
+
+<sup>2</sup> Wird eine Echtzeitüberwachung während der Normalarbeitszeiten gemäss Artikel 10 VÜPF in Auftrag gegeben, so muss die Anbieterin die Echtzeitüberwachung innerhalb einer Stunde ab Eingang des Auftrags aktivieren.
+
+<sup>3</sup> Soll eine Echtzeitüberwachung ab einem bestimmten Zeitpunkt durchgeführt werden, so muss die Anbieterin diese zu dem im Auftrag angegebenen Zeitpunkt aktivieren. Sie bearbeitet den Auftrag während der Normalarbeitszeiten.
+
+<sup>4</sup> Wird eine Echtzeitüberwachung ausserhalb der Normalarbeitszeiten in Auftrag gegeben, so muss die Anbieterin die Überwachung innerhalb von zwei Stunden ab Eingang des Auftrags aktivieren.
+
+<sup>5</sup> Der Dienst ÜPF erteilt den Deaktivierungsauftrag ausschliesslich während der Normalarbeitszeiten. Die Anbieterin deaktiviert die Überwachung innerhalb eines Arbeitstags.
+
+#### Art. 17
+
+**Bearbeitungsfristen für rückwirkende Überwachungen**
+
+<sup>1</sup> Der Dienst ÜPF übermittelt den Auftrag zur Durchführung einer rückwirkenden Überwachung an die Anbieterin innerhalb einer Stunde ab Eingang der Anordnung.
+
+<sup>2</sup> Rückwirkende Überwachungen werden während der Normalarbeitszeiten gemäss Artikel 10 VÜPF in Auftrag gegeben. In dringenden Fällen werden rückwirkende Überwachungen auch ausserhalb der Normalarbeitszeiten in Auftrag gegeben.
+
+<sup>3</sup> Die Anbieterin muss die rückwirkende Überwachung innerhalb von drei Arbeitstagen ab Eingang des Auftrags durchführen; in dringenden Fällen muss die Durchführung innerhalb von sechs Stunden ab Eingang des Auftrags bei der Anbieterin erfolgen.
+
+#### Art. 18
+
+**Bearbeitungsfristen für Notsuchen und Fahndungen**
+
+<sup>1</sup> Der Dienst ÜPF übermittelt Aufträge zur Ausführung von Notsuchen und Fahndungen so rasch wie möglich an die Anbieterin, höchstens aber innerhalb einer Stunde ab Eingang der Anordnung.
+
+<sup>2</sup> Handelt es sich um eine Notsuche gemäss Artikel 67 Buchstaben a–c VÜPF oder um eine Echtzeitüberwachung aufgrund einer Fahndung gemäss Artikel 68 Buchstaben a oder b VÜPF, so muss die Anbieterin die Überwachung so rasch wie möglich, in der Regel aber spätestens innerhalb einer Stunde ab Eingang des Auftrags durchführen beziehungsweise aktivieren.
+
+<sup>3</sup> Handelt es sich um eine Notsuche gemäss Artikel 67 Buchstabe d VÜPF oder eine rückwirkende Überwachung aufgrund einer Fahndung gemäss Artikel 68 Buchstabe c oder d VÜPF, so muss die Anbieterin die Überwachung so rasch wie möglich, in der Regel aber spätestens innerhalb von vier Stunden ab Eingang des Auftrags durchführen.
+
+#### Art. 19
+
+**Annullierung von Überwachungsaufträgen**
+
+<sup>1</sup> Der Dienst ÜPF kann einen Auftrag zur Durchführung einer Echtzeitüberwachung annullieren, solange die Anbieterin die Aktivierung noch nicht mit einer Quittung bestätigt hat.
+
+<sup>2</sup> Er kann einen Auftrag zur Durchführung einer rückwirkenden Überwachung annullieren, solange die Anbieterin die Daten noch nicht übermittelt hat.
+
+<sup>3</sup>
+
+Die Annullierung ist wie folgt durchzuführen:
+
+- a. Der Dienst ÜPF kontaktiert die Anbieterin und beauftragt sie schriftlich oder in Ausnahmefällen telefonisch, mit Nachreichung des schriftlichen Auftrags, mit der Annullierung der Überwachung.
+- b. Die Anbieterin bestätigt den Eingang des Annullierungsauftrags.
+- c. Sie führt den Annullierungsauftrag aus.
+- d. Nach der Ausführung des Annullierungsauftrags bestätigt sie dem Dienst ÜPF die Annullierung.
+
+<sup>4</sup> Ist die Annullierung einer Echtzeitüberwachung nicht mehr möglich, so erteilt der Dienst ÜPF den Auftrag zur Deaktivierung.
+
+## 5. Abschnitt: Auskunfts- und Überwachungsbereitschaft
+
+#### Art. 20
+
+**Anbindung der Systeme einer Anbieterin an das Verarbeitungssystem des Dienstes ÜPF**
+
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten informieren den Dienst ÜPF über ihre Auskunftsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Auskunftstypen für die einzelnen Dienste realisieren.
+
+<sup>2</sup> Die Anbieterinnen von Fernmeldediensten, ausser jenen mit reduzierten Überwachungspflichten, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 VÜPF informieren den Dienst ÜPF über ihre Überwachungsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Überwachungstypen für die einzelnen Dienste realisieren.
+
+<sup>3</sup> Der Dienst ÜPF legt nach Anhörung der Anbieterin die Einzelheiten zur Auftragsabwicklung, zum Ausleitungsnetz sowie die für die einzelnen Auskunfts- und Überwachungstypen zutreffenden Identifikatoren wie Typ oder Format fest.
+
+<sup>4</sup> Die Anbieterin implementiert das Ausleitungsnetz gemäss Anhang 2 und den Anweisungen des Dienstes ÜPF.
+
+#### Art. 21
+
+**Pflicht zur gegenseitigen Information**
+
+<sup>1</sup> Die Anbieterinnen müssen geplante Änderungen, die ihre Datenausleitung oder ihre Auskunfts- oder Überwachungsbereitschaft beeinflussen können, dem Dienst ÜPF schriftlich mitteilen, sobald sie davon Kenntnis erhalten, spätestens jedoch fünf Arbeitstage vor der Änderung.
+
+<sup>2</sup> Der Dienst ÜPF informiert die betroffenen Anbieterinnen über geplante Änderungen in seinen Systemen, am Ausleitungsnetz oder an den Schnittstellen, welche die Datenausleitung oder die Auskunfts- oder Überwachungsbereitschaft beeinflussen können, sobald der Zeitpunkt der Änderung bekannt ist, spätestens jedoch fünf Arbeitstage vor der Änderung.
+
+<sup>3</sup> Die Anbieterinnen und der Dienst ÜPF informieren sich gegenseitig über die voraussichtlichen Auswirkungen sowie die Prioritätsstufe der Änderung.
+
+#### Art. 22
+
+**Überprüfung der Auskunfts- und Überwachungsbereitschaft**
+
+<sup>1</sup> Der Dienst ÜPF teilt der Anbieterin zur Überprüfung der Auskunfts- und Überwachungsbereitschaft mit, welche Tests durchzuführen sind und welche Voraussetzungen dafür geschaffen werden müssen. Er legt nach Rücksprache mit ihr den Zeitraum der Durchführung fest.
+
+<sup>2</sup> Falls nötig ändert der Dienst ÜPF nach Anhörung der Anbieterin seine Anweisungen. Der Dienst ÜPF prüft in Zusammenarbeit mit der Anbieterin, ob die Voraussetzungen erfüllt sind.
+
+<sup>3</sup> Er entscheidet gestützt auf Informationen der Anbieterin oder neue Erkenntnisse, wann und wie eine erneute Überprüfung der Auskunfts- und Überwachungsbereitschaft durchzuführen ist. Die Überprüfung richtet sich nach den Absätzen 1 und 2.
+
+#### Art. 23
+
+**Tests zur Überprüfung der Auskunftsbereitschaft**
+
+<sup>1</sup> Die Anbieterin stellt in ihren Systemen die für die Beantwortung der Testauskünfte benötigten Testdaten bereit.
+
+<sup>2</sup> Der Dienst ÜPF sendet der Anbieterin den Fragebogen gemäss Artikel 31 Absatz 2 Buchstabe b VÜPF und die Auskunftsgesuche für die Testauskünfte.
+
+<sup>3</sup> Die Anbieterin erteilt die entsprechenden Testauskünfte und sendet den ausgefüllten Fragebogen an den Dienst ÜPF.
+
+#### Art. 24
+
+**Tests zur Überprüfung der Überwachungsbereitschaft**
+
+<sup>1</sup> Die Anbieterin richtet die für die Testschaltungen benötigten Fernmeldedienste oder abgeleiteten Kommunikationsdienste ein und teilt dem Dienst ÜPF deren Identifikatoren mit.
+
+<sup>2</sup> Der Dienst ÜPF sendet der Anbieterin den Fragebogen gemäss Artikel 31 Absatz 2 Buchstabe b VÜPF und die Überwachungsaufträge für die Testschaltungen.
+
+<sup>3</sup> Die Anbieterin richtet die Testschaltungen in ihren Systemen ein und führt die Tests gemäss der Liste der Testfälle (Art. 31 Abs. 2 Bst. a VÜPF) selbstständig durch.
+
+<sup>4</sup> Sie vervollständigt die Liste und sendet diese sowie den ausgefüllten Fragebogen an den Dienst ÜPF.
+
+#### Art. 25
+
+**Auswertung und Bestätigung der Auskunfts- oder Überwachungsbereitschaft**
+
+<sup>1</sup> Der Dienst ÜPF wertet den Fragebogen und die Liste der Testfälle aus und analysiert die Auskunfts- und Überwachungstestdaten.
+
+<sup>2</sup> Bei Bedarf fordert er die Anbieterin auf, Testfälle zu wiederholen oder zusätzliche Tests durchzuführen.
+
+<sup>3</sup> Können die Tests nicht innert dem vorgesehenen Zeitraum gemäss Artikel 22 Absatz 1 erfolgreich abgeschlossen werden, kann der Dienst ÜPF entscheiden, die Tests abzubrechen und ein neues Verfahren zur Überprüfung gemäss Artikel 22 einzuleiten.
+
+<sup>4</sup> Nach dem erfolgreichen Abschluss der Tests bestätigt er der Anbieterin schriftlich die Auskunfts- oder Überwachungsbereitschaft.
+
+## 6. Abschnitt: Technische Vorschriften
+
+#### Art. 26
+
+Die technischen Vorschriften zur Durchführung der Überwachung des Fernmeldeverkehrs sowie der Erteilung von Auskünften sind in den Anhängen 1 und 2 geregelt.
+
+## 7. Abschnitt: Schlussbestimmungen
+
+#### Art. 27
+
+**Übergangsbestimmung**
+
+Bis die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten ihre Systeme nach Artikel 74 Absatz 8 VÜPF angepasst haben, gilt für die Bearbeitung der Auskunftsgesuche gemäss den Artikeln 36 und 41 VÜPF eine Frist von höchstens einem Arbeitstag.
+
+#### Art. 28
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. März 2018 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 7 Abs. 3 Bst. a und 26)
+
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.0)****
+
+[^annex1-lvlu1-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 1219](https://fedlex.data.admin.ch/eli/oc/2020/230)).
+[^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, Fellerstrasse 15, 3003 Bern bezogen werden.
+
+Anhang 2*[^t-2]*
+
+(Art. 20 Abs. 4 und 26)
+
+## Technische Vorschriften für die Ausleitungsnetze für die Durchführung der Fernmeldeüberwachung (Ausgabe 1.1)
+
+[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 571](https://fedlex.data.admin.ch/eli/oc/2019/96)). Er kann kostenlos im Internet unter www.li.admin.ch abgerufen oder beim Dienst ÜPF, Fellerstrasse 15, 3003 Bern, bezogen werden.

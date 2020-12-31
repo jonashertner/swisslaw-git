@@ -1,0 +1,158 @@
+---
+sr: "221.215.329.4"
+title: Verordnung vom 20. Oktober 2010 über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft (NAV Hauswirtschaft)
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
+language: de
+version: 2020-01-01
+adopted: 2010-10-20
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2010-724-20200101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft
+
+(NAV Hauswirtschaft)
+
+vom 20. Oktober 2010 (Stand am 1. Januar 2020)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 360*a* des Obligationenrechts (OR)[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 1
+
+**Räumlicher Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung gilt für das Gebiet der Schweiz.
+
+<sup>2</sup> In den Kantonen, in denen bei Inkrafttreten dieser Verordnung ein kantonaler Normalarbeitsvertrag nach Artikel 360*a* OR in der Hauswirtschaft besteht, gilt die Verordnung nicht, solange der kantonale Normalarbeitsvertrag in Kraft ist.
+
+#### Art. 2
+
+**Persönlicher Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung gilt für alle Arbeitsverhältnisse zwischen Arbeitnehmerinnen und Arbeitnehmern, die hauswirtschaftliche Tätigkeiten in einem Privathaushalt verrichten, und ihren Arbeitgebern.
+
+<sup>2</sup>
+
+Sie gilt nicht für Arbeitsverhältnisse zwischen Personen, die zueinander in folgender Beziehung stehen:
+
+- a. Ehefrau und Ehemann;
+- b. eingetragene Partnerinnen oder eingetragene Partner;
+- c. Verwandte in gerader Linie und deren Ehegatten, deren eingetragene Partnerinnen oder eingetragene Partner;
+- d. Konkubinatspartnerinnen oder Konkubinatspartner.
+
+<sup>3</sup>
+
+Sie gilt nicht für Arbeitsverhältnisse mit folgenden Personen:
+
+- a. Au-pairs;
+- b. Jugendlichen, die gelegentlich und ausschliesslich zur Beaufsichtigung von Kindern beschäftigt werden;
+- c. Personen, die familienextern Kinder betreuen (Tagesmütter, Mittagstisch);
+- d. Praktikantinnen und Praktikanten, die für eine berufliche Grundbildung an einer Ausbildungsstätte in der Schweiz ein Praktikum absolvieren;
+- e. Personen in einem hauswirtschaftlichen Lehrverhältnis;
+- f. Personen, deren Arbeitsverhältnis dem öffentlichen Recht des Bundes, der Kantone, der Gemeinden oder dem Völkerrecht untersteht;
+- g. Personen, die bei einer öffentlich-rechtlichen Organisation oder bei einer gemeinnützigen Organisation mit öffentlichem Auftrag angestellt sind;
+- h. Hausangestellten in landwirtschaftlichen Haushalten, die einem Normalarbeitsvertrag für landwirtschaftliche Arbeitnehmerinnen und Arbeitnehmer unterstehen;
+- i. Arbeitnehmerinnen und Arbeitnehmern, die durchschnittlich weniger als fünf Stunden pro Woche für den gleichen Arbeitgeber tätig sind;
+- j. Arbeitnehmerinnen und Arbeitnehmern, die einem allgemeinverbindlich erklärten Gesamtarbeitsvertrag unterstehen;
+- k. Arbeitnehmerinnen und Arbeitnehmern mit einer Legitimationskarte E oder F des Eidgenössischen Departements für auswärtige Angelegenheiten, die im häuslichen Dienst einer nach Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^2-1] begünstigten Person stehen.
+
+[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+
+#### Art. 3
+
+**Hauswirtschaftliche Tätigkeiten**
+
+Als hauswirtschaftliche Tätigkeiten gelten Arbeiten, die der allgemeinen Pflege des Haushalts dienen, insbesondere:
+
+- a. Reinigungsarbeiten;
+- b. Besorgung der Wäsche;
+- c. Einkaufen;
+- d. Kochen;
+- e. Mithilfe bei der Betreuung von Kindern, Betagten und Kranken;
+- f. Unterstützung von Betagten und Kranken in der Alltagsbewältigung.
+
+#### Art. 4
+
+**Lohnkategorien**
+
+<sup>1</sup>
+
+Der Mindestlohn wird nach folgenden Kategorien festgelegt:
+
+- a. ungelernt;
+- b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft;
+- c. gelernt.
+
+<sup>2</sup> Berufserfahrung in der Hauswirtschaft wird anerkannt, wenn sie mehrere hauswirtschaftliche Tätigkeiten und eine minimale Dauer von durchschnittlich fünf Stunden pro Woche umfasst. Die Arbeitnehmerin oder der Arbeitnehmer muss die Berufserfahrung bei Stellenantritt nachweisen können.
+
+<sup>3</sup>
+
+Als gelernt gelten Arbeitnehmerinnen und Arbeitnehmer:
+
+- a. mit einem eidgenössischen Fähigkeitszeugnis (EFZ) als Fachfrau oder Fachmann Hauswirtschaft oder mit einer abgeschlossenen mindestens dreijährigen beruflichen Grundbildung, die für die auszuübende hauswirtschaftliche Tätigkeit geeignet ist;
+- b. mit einem eidgenössischen Berufsattest (EBA) als Hauswirtschaftspraktiker oder Hauswirtschaftspraktikerin oder mit einer abgeschlossenen zweijährigen beruflichen Grundbildung, die für die auszuübende hauswirtschaftliche Tätigkeit geeignet ist.
+
+#### Art. 5
+
+**Höhe des Mindestlohnes**
+
+<sup>1</sup> Der Mindestlohn beträgt brutto, ohne Zuschläge für Ferien und bezahlte Feiertage, für die Kategorien:
+
+<table>
+<tr><td></td><td>Franken pro Stunde</td></tr>
+<tr><td>a. ungelernt</td><td>19.20</td></tr>
+<tr><td>b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft</td><td>21.10</td></tr>
+<tr><td>c. gelernt mit EFZ</td><td>23.20</td></tr>
+<tr><td>d. gelernt mit EBA</td><td>21.10.[^5-1]</td></tr>
+</table>
+
+<sup>2</sup> Das Staatssekretariat für Wirtschaft publiziert die auf Basis dieser Stundenlöhne berechneten Monatslöhne, abgestuft nach Arbeitsstunden pro Woche. Die Berechnung der Monatslöhne beruht auf der Ausrichtung von zwölf Monatslöhnen pro Jahr.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+
+#### Art. 6
+
+**Abweichung vom Mindestlohn bei beeinträchtigter Leistungsfähigkeit**
+
+<sup>1</sup> Für Arbeitnehmerinnen und Arbeitnehmer, deren Leistungsfähigkeit für hauswirtschaftliche Tätigkeiten aus gesundheitlichen Gründen bleibend beeinträchtigt ist, kann ein vom Mindestlohn nach Artikel 5 abweichender Lohn vereinbart werden. In diesen Fällen gelten die Mindestlöhne als Richtwerte.
+
+<sup>2</sup> Die Abweichung vom Mindestlohn muss auf einer schriftlichen Vereinbarung beruhen, welche auf die beeinträchtigte Leistungsfähigkeit der Arbeitnehmerin oder des Arbeitnehmers Bezug nimmt.
+
+#### Art. 7
+
+**Naturallohn**
+
+Bezieht eine Arbeitnehmerin oder ein Arbeitnehmer einen Teil des Lohnes in Form von Unterkunft oder Verpflegung, so richtet sich der Wert dieser Leistungen nach den Ansätzen in Artikel 11 der Verordnung vom 31. Oktober 1947[^7-1] über die Alters- und Hinterlassenenversicherung.
+
+[^7-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 8
+
+**Anwendbarkeit auf bestehende Arbeitsverhältnisse**
+
+Diese Verordnung ist ab ihrem Inkrafttreten auf bestehende Arbeitsverhältnisse anwendbar.
+
+#### Art. 9
+
+**Inkrafttreten und Geltungsdauer**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2011 in Kraft und gilt bis zum 31. Dezember 2013*.*
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2016 verlängert.[^9-1]
+
+<sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2019 verlängert.[^9-2]
+
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2022 verlängert.[^9-3]
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).

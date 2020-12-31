@@ -1,0 +1,179 @@
+---
+sr: "0.946.293.671.1"
+title: "Zusatzabkommen vom 11. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft, dem Vereinigten Königreich von Grossbritannien und Nordirland und dem Fürstentum Liechtenstein über die Einbeziehung des Fürstentums Liechtenstein in gewisse Bestimmungen des Handelsabkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (mit Anhang)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/1072"
+language: de
+version: 2021-01-01
+adopted: 2019-02-11
+in_force: 2021-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1072/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1072-20210101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1072/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Zusatzabkommen zwischen der Schweizerischen Eidgenossenschaft, dem Vereinigten Königreich von Grossbritannien und Nordirland und dem Fürstentum Liechtenstein über die Einbeziehung des Fürstentums Liechtenstein in gewisse Bestimmungen des Handelsabkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland
+
+AS **2020** 6667; BBl **2020** 1979
+
+*Originaltext*
+
+Abgeschlossen am 11. Februar 2019
+
+Von der Bundesversammlung genehmigt am 19. Juni 2020[^t-1]
+
+In Kraft getreten durch Noteaustausch am 1. Januar 2021
+
+(Stand am 1. Januar 2021)
+
+[^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 19. Juni 2020 ([AS 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
+
+Die Schweizerische Eidgenossenschaft (die «Schweiz»), das Vereinigte Königreich von Grossbritannien und Nordirland (das «Vereinigte Königreich») und das Fürstentum Liechtenstein («Liechtenstein»),
+
+in Erwägung nachstehender Gründe:
+
+- (1) gemäss dem Vertrag vom 29. März 1923[^ingress-1] zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (der «Zollvertrag») ist Liechtenstein Teil des schweizerischen Zollgebiets;
+- (2) der Zollvertrag verleiht nicht allen Bestimmungen des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft, abgeschlossen am 22. Juli 1972[^ingress-2] (das «Freihandelsabkommen»), und des Abkommens zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Handel mit landwirtschaftlichen Erzeugnissen, abgeschlossen am 21. Juni 1999[^ingress-3] (das «Agrarabkommen»), Geltung für Liechtenstein;
+- (3) das Protokoll Nr. 3[^ingress-4] des Freihandelsabkommens besagt, dass Produkte mit Ursprung in Liechtenstein als Produkte mit Ursprung in der Schweiz gelten. Artikel 4 des Agrarabkommens besagt, dass die im Hinblick auf die Anwendung der Anhänge 1, 2 und 3 geltenden Ursprungsregeln denen des Protokolls Nr. 3 des Freihandelsabkommens entsprechen;
+- (4) die Bestimmungen des Freihandelsabkommens und des Agrarabkommens, die gelten, unmittelbar bevor sie für das Vereinigte Königreich nicht mehr anwendbar sind, finden vorbehältlich der Bestimmungen des Handelsabkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (das «Handelsabkommen Schweiz**–**Vereinigtes Königreich»)[^ingress-5] weiterhin Anwendung zwischen der Schweiz und dem Vereinigten Königreich;
+- (5) alle Bestimmungen des Freihandelsabkommens und des Agrarabkommens, wie inkorporiert und durch das Handelsabkommen Schweiz–Vereinigtes Königreich geändert, sollen auch für Liechtenstein gelten,
+
+sind wie folgt übereingekommen:
+
+[^ingress-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
+[^ingress-2]: [SR 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^ingress-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^ingress-4]: [SR 0.632.401.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2427)
+[^ingress-5]: [SR 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
+
+#### Art. 1
+
+<sup>1.</sup> Die Bestimmungen des Freihandelsabkommens und des Agrarabkommens, wie inkorporiert und durch das Handelsabkommen Schweiz–Vereinigtes Königreich geändert (das «Inkorporierte Freihandelsabkommen» und das «Inkorporierte Agrarabkommen»), finden Anwendung auf Liechtenstein, vorbehältlich der Bestimmungen des Handelsabkommens Schweiz–Vereinigtes Königreich[^1-1].
+
+<sup>2.</sup> Die liechtensteinspezifischen Anpassungen der Anhänge des Inkorporierten Agrarabkommens sind im Anhang dieses Zusatzabkommens aufgeführt, der ein Bestandteil dieses Zusatzabkommens ist.
+
+[^1-1]: Zur Vermeidung allfälliger Zweifel sei darauf hingewiesen, dass das Zusatzprotokoll über die gegenseitige Amtshilfe im Zollbereich ein integraler Bestandteil des Freihandelsabkommens ist.
+
+#### Art. 2
+
+<sup>1.</sup> Bei jeder Anwendung und Weiterentwicklung der Bestimmungen des Inkorporierten Freihandelsabkommens und des Inkorporierten Agrarabkommens können die liechtensteinischen Interessen von einer Vertreterin bzw. einem Vertreter Liechtensteins in der schweizerischen Delegation in den durch das Inkorporierte Freihandelsabkommen und das Inkorporierte Agrarabkommen eingesetzten Gemischten Ausschüssen und in deren Arbeitsgruppen vertreten werden.
+
+<sup>2.</sup> Gemäss den Bestimmungen der Artikel 6 und 11 des Inkorporierten Agrarabkommens kann der Gemischte Ausschuss für Landwirtschaft den Anhang dieses Zusatzabkommens *mutatis mutandis* ändern. Diese Änderungen bedürfen der Zustimmung der Vertreterin bzw. des Vertreters Liechtensteins.
+
+#### Art. 3
+
+<sup>1.</sup> Dieses Zusatzabkommen wird von den Vertragsparteien gemäss ihren innerstaatlichen Verfahren genehmigt.
+
+<sup>2.</sup> Dieses Zusatzabkommen tritt in Kraft, wenn das Handelsabkommen Schweiz–Vereinigtes Königreich in Kraft tritt.
+
+<sup>3.</sup> Bis zum Inkrafttreten dieses Zusatzabkommens wenden die Vertragsparteien dieses Abkommen gemäss ihren jeweiligen internen Anforderungen und Verfahren vorläufig an, sobald das Handelsabkommen Schweiz–Vereinigtes Königreich vorläufig Anwendung findet. Eine Vertragspartei kann die vorläufige Anwendung dieses Abkommens mit schriftlicher Notifikation an die anderen Vertragsparteien beenden. Die Beendigung wird am ersten Tag des zweiten Monats nach dieser Notifikation wirksam.
+
+<sup>4.</sup>
+
+Dieses Zusatzabkommen:
+
+- (a) kann durch schriftliche Notifikation an die anderen Vertragsparteien gekündigt werden. Es tritt zwölf Monate nach Erhalt dieser Notifikation ausser Kraft;
+- (b)
+
+  ist, sofern die Vertragsparteien nichts anderes vereinbart haben, nicht mehr anwendbar bei Beendigung:
+
+  - (i) des Zollvertrags,
+  - (ii) des Handelsabkommens Schweiz–Vereinigtes Königreich, oder
+  - (iii) sowohl des Inkorporierten Freihandelsabkommens als auch des Inkorporierten Agrarabkommens.
+
+<sup>5.</sup> Falls das Inkorporierte Agrarabkommen oder Teile davon von der Schweiz oder vom Vereinigten Königreich aufgehoben werden, werden die entsprechenden Bestimmungen des Anhangs zu diesem Abkommen gleichzeitig aufgehoben, sofern die Vertragsparteien nichts anderes vereinbart haben.
+
+<sup>6.</sup> Falls das Inkorporierte Agrarabkommen zwischen der Schweiz und dem Vereinigten Königreich nicht mehr anwendbar ist, findet der Anhang zu diesem Abkommen gleichzeitig auch nicht mehr Anwendung, sofern die Vertragsparteien nichts anderes vereinbart haben.
+
+Dieses Zusatzabkommen ist zu Bern, am 11. Februar 2019 in drei Urschriften in deutscher und englischer Sprache abgefasst, wobei jeder Wortlaut gleichermassen verbindlich ist. Im Falle von Abweichungen zwischen den Sprachversionen ist der englische Wortlaut massgebend.
+
+<table>
+<tr><td>Für die Schweizerische Eidgenossenschaft: Guy Parmelin</td><td>Für das Vereinigte Königreich von Grossbritannien und Nordirland: Liam Fox Für das Fürstentum Liechtenstein: Aurelia Frick</td></tr>
+</table>
+
+Anhang
+
+## Grundsatz
+
+Vorbehältlich folgender Abänderungen und Zusätze gelten die aufgrund des Agrarabkommens für die Schweiz geltenden Rechtsvorschriften und rechtlichen Verpflichtungen, Verzeichnisse, Namen und Begriffe auch für Liechtenstein.
+
+Soweit bestimmte Aufgaben, Zuständigkeiten und Befugnisse schweizerischen Kantonsbehörden zugewiesen sind, obliegen diese den zuständigen liechtensteinischen Amtsstellen. Bei Angelegenheiten, die von den kantonalen Agrarbehörden gehandhabt werden, ist dies das Amt für Umwelt, Abteilung Landwirtschaft, Dr. Grass-Strasse 10, FL-9490 Vaduz[^annexu1-lvlu1-1], und bei Angelegenheiten, die von den kantonalen Veterinär- und Lebensmittelbehörden gehandhabt werden, ist dies das Amt für Lebensmittelkontrolle und Veterinärwesen, Postplatz 2, FL-9494 Schaan.
+
+Darüber hinaus sind private Einrichtungen, denen besondere Aufgaben übertragen sind (z. B. Prüf- und Zertifizierungsorganisationen), auch für Liechtenstein zuständig, sofern im Folgenden nicht anders geregelt.
+
+### Abänderungen/Zusätze zu den Anhängen 4–12 des Inkorporierten Agrarabkommens
+
+[^annexu1-lvlu1-1]: Seit dem 1. Aug. 2026: Amt für Wald, Natur und Landwirtschaft, Landstrasse 190, FL-9495Triesen.
+
+**Anhang 7, Handel mit Weinbauerzeugnissen**
+
+Geschützte Namen von Weinbauerzeugnissen mit Ursprung in Liechtenstein (im Sinne von Anhang 7 Art. 5)
+
+Geografische Angaben
+
+### Qualitätsweine
+
+- – Balzers
+- – Bendern
+- – Eschen
+- – Eschnerberg
+- – Gamprin
+- – Mauren
+- – Ruggell
+- – Schaan
+- – Schellenberg
+- – Triesen
+- – Vaduz
+
+### Tafelweine mit geografischer Angabe
+
+- – Liechtensteiner Oberländer Landwein
+- – Liechtensteiner Unterländer Landwein
+
+### Traditionelle Begriffe
+
+- – Ablass
+- – Appellation d’origine contrôlée
+- – Auslese Liechtenstein
+- – Beerenauslese
+- – Beerle
+- – Beerli
+- – Beerliwein
+- – Eiswein
+- – Federweiss[^annexu1-lvlu1-lvlu1-modu1-subdivu4-1]
+- – Grand Cru Liechtenstein
+- – Kretzer
+- – Landwein
+- – Sélection Liechtenstein
+- – Strohwein
+- – Süssdruck
+- – Trockenbeerenauslese
+- – Weissherbst
+
+[^annexu1-lvlu1-lvlu1-modu1-subdivu4-1]: Unbeschadet der Verwendung des traditionellen deutschen Ausdrucks «Federweisser» für teilweise gegorenen Traubenmost, der zum unmittelbaren Verbrauch bestimmt ist, im Sinne von Paragraph 34*c* der deutschen Weinverordnung und von Art. 12 Abs. 1 Bst. b) und Art. 14 Abs. 1 der Verordnung (EG) Nr. 753/2002 der Kommission in der zuletzt geänderten Fassung.
+
+**Anhang 8, Über die gegenseitige Anerkennung und den Schutz der Bezeichnungen im Sektor Spirituosen und aromatisierte weinhaltige Getränke**
+
+Geschützte Bezeichnungen für Spirituosen mit Ursprung in Liechtenstein (im Sinne von Anhang 8 Art. 4)
+
+### Tresterbrand
+
+- – Balzner Marc
+- – Benderer Marc
+- – Eschner Marc
+- – Eschnerberger Marc
+- – Gampriner Marc
+- – Maurer Marc
+- – Ruggeller Marc
+- – Schaaner Marc
+- – Schellenberger Marc
+- – Triesner Marc
+- – Vaduzer Marc
+
+**Anhang 12, Zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel**
+
+Das geografische Gebiet der folgenden, gemäss Anhang 12 Anlage 1 geschützten schweizerischen g.A. umfasst auch das Hoheitsgebiet Liechtensteins:
+
+- – Rheintaler Ribel/Türggen Ribel (PDO)
+- – St. Galler Bratwurst/St. Galler Kalbsbratwurst (PGI)
+- – Werdenberger Sauerkäse/Liechtensteiner Sauerkäse/Bloderkäse (PDO)

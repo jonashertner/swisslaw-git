@@ -1,0 +1,63 @@
+---
+sr: "0.632.231.53"
+title: Verpflichtung der Schweiz betreffend den Marktzutritt für Rindfleisch
+eli: "https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596"
+language: de
+version: 1980-01-01
+adopted: 1979-04-12
+in_force: 1980-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596/19800101/de/xml/fedlex-data-admin-ch-eli-cc-1979-2591_2596_2596-19800101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/2591_2596_2596/19800101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verpflichtung der Schweiz betreffend den Marktzutritt für Rindfleisch
+
+0.632.231.53Nicht löschen bitte "[^t-1] " !! (Stand am 5. November 1999)
+
+Übersetzung des englischen Originaltextes
+
+Von der Bundesversammlung genehmigt am 12. Dezember 1979[^t-2]
+
+[^t-1]: [AS 1979 2591](https://fedlex.data.admin.ch/eli/oc/1979/2591_2596_2596); [BBl 1979 III 1](https://fedlex.data.admin.ch/eli/fga/1979/3_1_1_1)
+[^t-2]: Abs. 1 Bst. p des BB vom 12. Dez. 1979 ([AS 1979 2149](https://fedlex.data.admin.ch/eli/oc/1979/2149_2153_2153))
+
+\1. Als ein Resultat der multilateralen Handelsverhandlungen im Rahmen des GATT[^ingress-1] geht die Schweiz die Verpflichtung ein, Mindestimportmöglichkeiten (Lizenzen) für die folgenden Globalmengen von frischem, gekühltem oder gefrorenem Rindfleisch der Tarifnummer[^ingress-2] 0201.20/22 zu eröffnen: 2000 Tonnen pro Jahr.
+
+\2. Diese Importmöglichkeiten betreffen hochqualitatives Rindfleisch vom Schlachtkörper, mit magerem rotem Fleisch von fester und feinkörniger Beschaffenheit, etwas fettdurchwachsen und einer festen, weissen äusseren Fettschicht.
+
+\3. Die folgenden Stücke fallen unter dieses Regime:
+
+- a) Rippenstücke (Hohrücken),
+- b) Nierstücke, einschliesslich Entrecôte, Filet und Huft (an einem Stück oder geschnitten);
+- c) Bindenstotzen, einschliesslich Eckstück, Unterspälte, Fischli und Nüssli,
+- d) Zungen.
+
+\4. Diese Importmöglichkeiten werden im Rahmen des schweizerischen Importsystems eröffnet. Unter ausserordentlichen Umständen, unter denen es unmöglich erscheint, die gesamte Menge zum Import freizugeben, ist die Schweiz bereit, auf Antrag interessierter Länder Konsultationen zu führen.
+
+\5. Von obiger Menge wird eine Mindestimportmöglichkeit von 700 Tonnen für Rindfleisch eröffnet, das einer der beiden folgenden Definitionen entspricht:
+
+- i)
+
+  Rindsviertel, Grosshandelsstücke, Haupt- und Nebenstücke ohne Knochen oder aufgeteilte Stücke vom Schlachtkörper mit den folgenden Eigenschaften:
+
+  - a) äussere Fettschicht, über dem langen Rückenmuskel bei der zwölften Rippe: mindestens 1,0–2,3 cm (0,4–0,9 Zoll);
+  - b) Gewicht des Schlachtkörpers: 270–383 kg (600–850 lbs),
+  - c) Mindestfläche des langen Rückenmuskels bei der zwölften Rippe: 56,3 CM2 (9 Quadratzoll),
+  - d) Höchstalter: 30 Monate. Der Schlachtkörper darf keine sichtbare Verknöcherung der Knorpelstellen auf dem Dornfortsatz zwischen dem ersten und elften Brustwirbel aufweisen;
+  - e) Mindestgehalt an Zwischenmuskelfett, welches das magere Fleisch im Hohrücken (langer Rückenmuskel/«ribeye») bei der zwölften Rippe durchzieht: mindestens 6 Prozent Fettgehalt im mageren Fleisch auf der Basis von feuchtem Gewebe.
+  - *Anmerkung:* Gilt nicht für andere Muskeln des Schlachtkörpers;
+  - f) Farbe: Das magere Fleisch muss im Moment des Aufschneidens des Schlachtkörpers von einem hellen Kirschenrot sein;
+  - g) die frisch gekühlten Schlachtkörper oder Stücke davon müssen bei der Verpackung für den Versand eine Temperatur (im Innern des langen Rückenmuskels) von weniger als 4 °C aufweisen.
+
+- ii) Schlachtkörper oder irgendwelche Stücke davon, die nicht mehr als 30 Monate alt sind und während 100 Tagen oder mehr mit hochenergetischem Futter, das nicht weniger als 70 Prozent Getreide enthält, und einem Total an Futtermitteln von mindestens 9 kg (20 lbs) pro Tag gefüttert wurden.
+
+\6. Die oben erwähnten Einfuhrmöglichkeiten werden entsprechend der Nachfrage der schweizerischen Importeure gehandhabt.
+
+<table>
+<tr><td></td><td>Genf, den 12. April 1979</td></tr>
+</table>
+
+[^ingress-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang

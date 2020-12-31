@@ -1,0 +1,126 @@
+---
+sr: "512.26"
+title: Ordinanza del 14 aprile 1999 concernente l’istruzione della truppa in caso di impieghi di polizia (OITIP)
+short: OITIP
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/225"
+language: it
+version: 1999-05-01
+adopted: 1999-04-14
+in_force: 1999-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/225/19990501/it/xml/fedlex-data-admin-ch-eli-cc-1999-225-19990501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/225/19990501/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente l’istruzione della truppa in caso di impieghi di polizia
+
+del 14 aprile 1999 (Stato 1° maggio 1999)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 54, 92 capoverso 4 e 150 capoverso 1 della legge militare (LM)[^ingress-1],
+
+ordina:
+
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza regola l’istruzione dei militari, dei distaccamenti di truppa e delle formazioni in vista di impieghi sussidiari di sicurezza, nell’ambito di operazioni degli organi civili di polizia.
+
+<sup>2</sup>
+
+Essa non è applicabile:
+
+- a. alle esercitazioni sulle piazze d’istruzione dell’esercito;
+- b. agli esercizi di pianificazione, di stato maggiore e di presa di decisioni.
+
+#### Art. 2
+
+**Definizioni**
+
+Nella presente ordinanza s’intendono per:
+
+- a. impieghi sussidiari di sicurezza dell’esercito:
+- il sostegno agli organi civili di polizia
+  - 1\. per la protezione di persone e beni degni di particolare protezione (art. 67 cpv. 1 lett. b LM),
+  - 2\. per la protezione dei confini nazionali (art. 67 cpv. 1 lett. e LM), nonché
+  - 3\. per il servizio d’ordine (art. 83 LM);
+
+- b. organi civili di polizia:
+- i membri dei corpi civili di polizia o di servizi civili della Confederazione o dei Cantoni con poteri di polizia.
+
+#### Art. 3
+
+**Truppe da istruire**
+
+<sup>1</sup> Il capo delle Forze terrestri designa, secondo le opzioni del capo dello Stato maggiore generale, le formazioni che, nell’ambito di operazioni di organi civili di polizia devono essere istruite per impieghi sussidiari di sicurezza.
+
+<sup>2</sup> Per i compiti del servizio d’ordine devono essere istruiti soltanto la Polizia militare e il Corpo della guardia delle fortificazioni.
+
+#### Art. 4
+
+**Competenze**
+
+Nel loro ambito di competenza, il capo dello Stato maggiore generale, il capo delle Forze terrestri e i comandanti delle Grandi Unità possono ordinare l’istruzione della truppa nel quadro di impieghi civili di polizia e attribuire loro materiale di polizia supplementare.
+
+#### Art. 5
+
+**Condizioni**
+
+L’istruzione nell’ambito di operazioni di organi civili di polizia può essere ordinata soltanto se:
+
+- a. serve esclusivamente all’addestramento della truppa;
+- b. in occasione dell’istruzione, la truppa non fornisce sostegno né sgrava gli organi civili di polizia; e
+- c. le autorità civili competenti approvano l’istruzione.
+
+#### Art. 6
+
+**Poteri di polizia**
+
+<sup>1</sup> Alla truppa è consentito l’impiego dell’arma da fuoco soltanto per legittima difesa e in stato di necessità.
+
+<sup>2</sup> Essa può applicare ulteriori misure coercitive di polizia soltanto per quanto necessario all’adempimento del compito civile di polizia che le è stato assegnato.
+
+<sup>3</sup> Del rimanente, si applicano le disposizioni dell’ordinanza del 26 ottobre 1994[^6-1] concernente i poteri di polizia dell’esercito.
+
+[^6-1]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+
+#### Art. 7
+
+**Responsabilità e organizzazione dell’istruzione**
+
+<sup>1</sup> Gli organi civili di polizia chiamati a partecipare sono responsabili per l’istruzione tecnica.
+
+<sup>2</sup> Prima dell’inizio dell’istruzione, il capo dello Stato maggiore generale, il capo delle Forze terrestri e i comandanti delle Grandi Unità concordano i dettagli con gli organi civili di polizia.
+
+#### Art. 8
+
+**Spese**
+
+<sup>1</sup> Di regola, la Confederazione assume le spese che l’istruzione causa agli organi civili di polizia (spese d’istruzione).
+
+<sup>2</sup> Alla Confederazione non possono essere addebitate spese d’istruzione se l’istruzione è ordinata in vista di un impiego concreto per un servizio d’appoggio o un servizio d’ordine.
+
+#### Art. 9
+
+**Esecuzione**
+
+Il Dipartimento federale della difesa, della protezione della popolazione e dello sport è incaricato dell’esecuzione della presente ordinanza.
+
+#### Art. 10
+
+**Diritto vigente: modifica**
+
+...*[^10-1]*
+
+[^10-1]: La mod. può essere consultata alla [RU 1999 1511](https://fedlex.data.admin.ch/eli/oc/1999/225).
+
+#### Art. 11
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° maggio 1999.

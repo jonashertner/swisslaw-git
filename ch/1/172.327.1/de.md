@@ -1,0 +1,192 @@
+---
+sr: "172.327.1"
+title: Verordnung vom 10. Dezember 2004 über die Schlichtungskommission Gleichstellungsgesetz
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/124"
+language: de
+version: 2012-01-01
+adopted: 2004-12-10
+in_force: 2005-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/124/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2005-124-20120101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/124/20120101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Schlichtungskommission gemäss Gleichstellungsgesetz
+
+vom 10. Dezember 2004 (Stand am 1. Januar 2012)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 13 Absatz 3 des Gleichstellungsgesetzes vom 24. März 1995[^ingress-1] (Gleichstellungsgesetz, GlG),
+
+verordnet:
+
+[^ingress-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt Organisation und Verfahren der Schlichtungskommission gemäss Gleichstellungsgesetz für das Personal der Bundesverwaltung nach Artikel 6 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^1-1] (Schlichtungskommission).
+
+<sup>2</sup> Die Bundesversammlung (für die Parlamentsdienste), die Schweizerische Post, die Schweizerischen Bundesbahnen, das Bundesgericht und der ETH-Rat setzen für ihr Personal je eine eigene Schlichtungskommission ein.
+
+[^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 2
+
+**Aufgabe**
+
+<sup>1</sup> Die Schlichtungskommission informiert und berät die Parteien bei Streitigkeiten, die in den Bereich des Gleichstellungsgesetzes fallen. Sie versucht, eine Einigung herbeizuführen.
+
+<sup>2</sup> Sie informiert das Bundespersonal regelmässig, mindestens jährlich, über ihr Angebot.
+
+#### Art. 3
+
+**Unabhängigkeit**
+
+<sup>1</sup> Die Schlichtungskommission ist weisungsungebunden.
+
+<sup>2</sup> Sie ist administrativ dem Eidgenössischen Personalamt angegliedert.
+
+## 2. Abschnitt: Organisation
+
+#### Art. 4
+
+**Zusammensetzung und Entschädigung**
+
+<sup>1</sup> Der Schlichtungskommission gehören an: die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident sowie weitere vier Mitglieder und vier Ersatzmitglieder. Die Mitglieder und Ersatzmitglieder vertreten zu gleichen Teilen die Bundesverwaltung (Arbeitgeberin) und deren Personal. Das Eidgenössische Personalamt hat einen Sitz aus dem Kontingent der Bundesverwaltung inne.
+
+<sup>2</sup> Die Schlichtungskommission zählt gleich viele Frauen wie Männer.
+
+<sup>3</sup> Die Entschädigungen richten sich nach der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^4-1].[^4-2]
+
+[^4-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^4-2]: Fassung gemäss Ziff. I 5.1 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+
+#### Art. 5
+
+**Wählbarkeit**
+
+Die Mitglieder der Schlichtungskommission müssen in Fragen der Gleichstellung von Frau und Mann spezialisiert sein und über eingehende Kenntnisse auf dem Gebiet des Personalwesens, des Arbeits- und Bundespersonalrechts oder der Arbeitswissenschaft verfügen. Die Präsidentin oder der Präsident muss zusätzlich über eine juristische Ausbildung und vorzugsweise über Erfahrung in Mediation verfügen.
+
+#### Art. 6
+
+**Wahl**
+
+<sup>1</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident sowie zwei Mitglieder und zwei Ersatzmitglieder werden vom Bundesrat gewählt.
+
+<sup>2</sup> Zwei Mitglieder und zwei Ersatzmitglieder werden gewählt von den gesamtschweizerischen Organisationen des Personals der Bundesverwaltung, die nach ihren Statuten dessen Interessen wahrnehmen.
+
+<sup>3</sup> Das Eidgenössische Personalamt koordiniert die Wahlvorbereitungen. Es achtet darauf, dass die doppelte Parität nach Artikel 4 Absätze 1 und 2 eingehalten wird und die Sprachgemeinschaften angemessen vertreten sind.
+
+#### Art. 7
+
+**Sekretariat**
+
+<sup>1</sup> Das Sekretariat wird von der Präsidentin oder vom Präsidenten im Mandat geführt.
+
+<sup>2</sup> Die Entschädigung für die Sekretariatsarbeit richtet sich nach dem Aufwand. Sie wird in einem Vertrag zwischen dem Eidgenössischen Personalamt und der Präsidentin oder dem Präsidenten geregelt.
+
+## 3. Abschnitt: Verfahren
+
+#### Art. 8
+
+**Freiwilligkeit und Verpflichtung**
+
+<sup>1</sup> Das Schlichtungsverfahren ist für das Bundespersonal freiwillig.
+
+<sup>2</sup> Die Bundesverwaltung (Arbeitgeberin) ist verpflichtet, sich in jedem Fall auf das Schlichtungsverfahren einzulassen.
+
+#### Art. 9
+
+**Einleitung**
+
+<sup>1</sup> Das Schlichtungsverfahren ist bei der Präsidentin oder beim Präsidenten schriftlich unter Angabe der Begehren zu beantragen.
+
+<sup>2</sup> Ist bereits eine Verfügung ergangen, so ist das Schlichtungsbegehren vor Anhebung einer Beschwerde innerhalb der Beschwerdefrist nach Art. 50 des Bundesgesetzes vom 20. Dezember 1968[^9-1] über das Verwaltungsverfahren zu stellen. Das Einreichen eines Schlichtungsbegehrens wahrt die Rechtsmittelfrist. Misslingt der Schlichtungsversuch, so beginnt mit der Zustellung des Protokolls die ordentliche Rechtsmittelfrist neu zu laufen.
+
+[^9-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 10
+
+**Einigungsversuch**
+
+<sup>1</sup> Nach Eingang eines Schlichtungsbegehrens beruft die Präsidentin oder der Präsident die Schlichtungskommission ein und lädt die Parteien zu einer Schlichtungsverhandlung ein.
+
+<sup>2</sup> Alle Verwaltungseinheiten der Bundesverwaltung sind gegenüber der Präsidentin oder dem Präsidenten zur Mithilfe verpflichtet (zum Beispiel Gewährung von Auskünften und Akteneinsicht).
+
+#### Art. 11
+
+**Schlichtungsverhandlung**
+
+<sup>1</sup> Neben dem Präsidenten oder der Präsidentin nehmen an der Schlichtungsverhandlung zwei Mitglieder teil, die unter Wahrung der doppelten Parität nach Artikel 4 Absätze 1 und 2 bestimmt wurden.
+
+<sup>2</sup> Die Parteien haben zur Schlichtungsverhandlung in der Regel persönlich zu erscheinen. Die Präsidentin oder der Präsident kann ihnen in Ausnahmefällen bewilligen, sich durch eine schriftlich bevollmächtigte Person vertreten zu lassen.
+
+#### Art. 12
+
+**Mündlichkeit**
+
+<sup>1</sup> Die Verhandlung vor der Schlichtungskommission ist mündlich.
+
+<sup>2</sup> über die Parteiausführungen wird kein Protokoll geführt.
+
+#### Art. 13
+
+**Abschluss**
+
+<sup>1</sup> Am Ende der Schlichtungsverhandlung wird protokollarisch festgehalten, ob eine Einigung zustande gekommen ist oder nicht.
+
+<sup>2</sup> Ein von den Parteien unterzeichneter und von der Schlichtungskommission genehmigter Vergleich hat Rechtskraft und ist wie ein Urteil vollstreckbar.
+
+<sup>3</sup> Das Schlichtungsverfahren ist in der Regel innerhalb von 60 Tagen nach Eingang des Schlichtungsbegehrens abgeschlossen.
+
+#### Art. 14
+
+**Ausstand**
+
+<sup>1</sup> Mitglieder der Schlichtungskommission und des Sekretariats treten in den Ausstand, wenn ein Ausstandsgrund nach Artikel 10 Absatz 1 des Bundesgesetzes vom 20. Dezember 1968[^14-1] über das Verwaltungsverfahren vorliegt, oder wenn sie direkte Vorgesetzte oder Mitarbeitende der Antragstellerin oder des Antragstellers sind.
+
+<sup>2</sup> über den Ausstand entscheidet die Präsidentin oder der Präsident. Betreffen die Ausstandsgründe die Präsidentin oder den Präsidenten, so entscheidet die Vizepräsidentin oder der Vizepräsident. Sind beide von den Ausstandsgründen betroffen, entscheidet ein von der Schlichtungskommission bestimmtes Mitglied über den Ausstand.
+
+[^14-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 15
+
+**Verschwiegenheit**
+
+Die Mitglieder der Schlichtungskommission und des Sekretariats sind verpflichtet, über die Verhandlungen in der Schlichtungskommission Verschwiegenheit zu bewahren.
+
+#### Art. 16
+
+**Unentgeltlichkeit**
+
+Das Schlichtungsverfahren ist unentgeltlich ausser bei Mutwilligkeit.
+
+#### Art. 17
+
+**Subsidiäres Recht**
+
+Soweit diese Verordnung keine besonderen Bestimmungen enthält, richtet sich das Schlichtungsverfahren nach dem Bundesgesetz vom 20. Dezember 1968[^17-1] über das Verwaltungsverfahren.
+
+[^17-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## 4. Abschnitt: Schlussbestimmungen
+
+#### Art. 18
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 9. Dezember 1996[^18-1] über die Begutachtende Fachkommission Gleichstellungsgesetz wird aufgehoben.
+
+[^18-1]: [[AS 1997 240](https://fedlex.data.admin.ch/eli/oc/1997/240_240_240), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. II 3]
+
+#### Art. 19
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. März 2005 in Kraft.

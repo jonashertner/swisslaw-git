@@ -1,0 +1,1379 @@
+---
+sr: "955.033.0"
+title: "Ordinanza del 3 giugno 2015 dell'Autorità federale di vigilanza sui mercati finanziari sulla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo nel settore finanziario (Ordinanza FINMA sul riciclaggio di denaro, ORD-FINMA)"
+short: ORD-FINMA
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/390"
+language: it
+version: 2021-01-01
+adopted: 2015-06-03
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-390-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’Autorità federale di vigilanza sui mercati finanziari sulla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo nel settore finanziario
+
+(Ordinanza FINMA sul riciclaggio di denaro, ORD-FINMA)
+
+del 3 giugno 2015 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+
+L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
+
+visto l’articolo 17 della legge del 10 ottobre 1997[^ingress-1] sul riciclaggio di denaro (LRD),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-2]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+## Titolo 1: Disposizioni generali
+
+### Capitolo 1: Oggetto e definizioni
+
+#### Art. 1
+
+**Oggetto**
+
+<sup>1</sup> La presente ordinanza definisce gli obblighi degli intermediari finanziari ai sensi dell’articolo 3 capoverso 1 in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>2</sup> La FINMA tiene conto delle regole quadro della presente ordinanza per l’approvazione di regolamenti di organismi di autodisciplina ai sensi dell’articolo 25 LRD e per il riconoscimento come standard minimi di regolamenti di organismi di autodisciplina ai sensi dell’articolo 17 LRD.
+
+<sup>3</sup> Gli organismi di autodisciplina possono limitarsi a regolamentare le deroghe rispetto alla presente ordinanza. Le deroghe sono designate in ogni caso come tali.
+
+#### Art. 2
+
+**Definizioni**
+
+Ai sensi della presente ordinanza si intende per:
+
+- a.
+
+  *società di sede*: le persone giuridiche, le società, gli istituti, le fondazioni, i trust, le società fiduciarie e le formazioni analoghe che non esercitano un’attività commerciale, di fabbricazione o un’altra attività gestita secondo criteri commerciali. Non sono considerate come società di sede, le società che:
+
+  - 1\. perseguono lo scopo di salvaguardare gli interessi dei propri membri o dei loro beneficiari mediante un’azione comune oppure si propongono un fine politico, religioso, scientifico, artistico, di pubblica utilità, ricreativo o simile,
+  - 2\. detengono la maggioranza delle partecipazioni in una o più società con attività operative nell’intento di accorparle, mediante la maggioranza di voti o in altro modo, sotto un’unica direzione e il cui scopo principale non consiste nell’amministrare il patrimonio di terzi (società holding o sub-holding). Al riguardo, la società holding o sub-holding deve anche poter esercitare effettivamente le sue facoltà di direzione e controllo;
+
+- b. *operazioni di cassa*: ogni operazione in contanti, in particolare il cambio, l’acquisto e la vendita di metalli preziosi, la vendita di assegni di viaggio, la sottoscrizione di titoli al portatore, obbligazioni di cassa e prestiti obbligazionari, l’incasso in contanti di assegni, sempre che queste operazioni non siano legate a una relazione d’affari continua;
+- c. *trasferimento di denaro e di valori*: il trasferimento di valori patrimoniali attraverso l’accettazione di contanti, metalli preziosi, valute virtuali, assegni o altri mezzi di pagamento in Svizzera e il pagamento della somma corrispondente in contanti, metalli preziosi, valute virtuali o attraverso il trasferimento scritturale, il bonifico o altra utilizzazione di un mezzo di pagamento o di conteggio all’estero, o viceversa, sempre che queste operazioni non siano legate a una relazione d’affari continua;
+- d. *relazione d’affari continua*: una relazione con un cliente registrata presso un intermediario finanziario svizzero o gestita prevalentemente dalla Svizzera e che non si limita a eseguire attività assoggettate uniche;
+- e. *negozianti professionali di biglietti di banca*: le imprese o persone del settore non bancario che mediante la loro attività di vendita e acquisto di biglietti di banca realizzano una cifra d’affari o un reddito importanti;
+- f. *detentori del controllo:* le persone fisiche che, tramite voti o capitale, esercitano, per almeno il 25 per cento direttamente o indirettamente, da sole o di concerto con terzi oppure in altro modo, il controllo su una persona giuridica o una società di persone con attività operativa e sono considerate come aventi economicamente diritto di tali imprese con attività operativa da esse controllate, o in via sostitutiva come membro superiore dell’organo direttivo;
+- g. *società di investimento ai sensi della LICol:* le società di investimento secondo la legge del 23 giugno 2006[^2-1] sugli investimenti collettivi, ossia le società di investimento a capitale variabile (SICAV), società in accomandita per investimenti collettivi di capitale (SACol)[^2-2] e società di investimento a capitale fisso (SICAF) ai sensi dell’articolo 2 capoverso 2 lettera b<sup>bis</sup> LRD;
+- h.[^2-3] *gestori di patrimoni collettivi:* i gestori di patrimoni collettivi ai sensi dell’articolo 2 capoverso 1 lettera c della legge del 15 giugno 2018[^2-4] sugli istituti finanziari (LIsFi) in combinato disposto con l’articolo 2 capoverso 2 lettera b<sup>bis</sup> LRD.
+
+[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-2]: Dal 1° lug. 2016: SAcCol.
+[^2-3]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^2-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### Capitolo 2: Campo d’applicazione
+
+#### Art. 3
+
+**Campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza si applica agli intermediari finanziari secondo l’articolo 2 capoverso 2 lettere a–d LRD.[^3-1]
+
+<sup>2</sup> Nell’applicare la presente ordinanza, la FINMA può tenere conto delle specificità dell’attività esercitata dagli intermediari finanziari e in particolare autorizzare agevolazioni oppure ordinare inasprimenti in virtù del rischio di riciclaggio di denaro legato a un’attività o delle dimensioni di un’impresa. Può anche considerare lo sviluppo di nuove tecnologie che offrono una sicurezza equivalente per l’attuazione degli obblighi di diligenza.
+
+<sup>3</sup> La FINMA rende pubblica la propria prassi.
+
+[^3-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 4
+
+[^4-1]
+
+[^4-1]: Abrogato dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, con effetto dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 5
+
+**Succursali e società del gruppo all’estero**
+
+<sup>1</sup>
+
+L’intermediario finanziario vigila affinché le sue succursali all’estero nonché le sue società del gruppo estere attive nel settore finanziario o assicurativo si conformino ai seguenti principi della LRD e della presente ordinanza:
+
+- a. i principi di cui agli articoli 7 e 8;
+- b. l’identificazione della controparte;
+- c. l’accertamento del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali;
+- d.[^5-1] l’applicazione di un approccio basato sul rischio, in particolare per quanto riguarda la classificazione delle relazioni d’affari e delle transazioni in base al rischio;
+- e. gli obblighi di chiarimento particolari in caso di rischi superiori.
+
+<sup>2</sup> L’intermediario finanziario vi provvede in particolare per le filiali e le succursali situate in Paesi che a livello internazionale sono da considerarsi legati a rischi superiori.
+
+<sup>3</sup> L’intermediario finanziario informa la FINMA se le prescrizioni locali escludono l’applicazione dei principi fondamentali della presente ordinanza o la loro applicazione gli causa un serio svantaggio concorrenziale.
+
+<sup>4</sup> La comunicazione di transazioni o di relazioni d’affari sospette nonché l’eventuale blocco degli averi sono regolati dal diritto dello Stato di accoglienza.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 6
+
+**Sorveglianza globale dei rischi giuridici e di reputazione**
+
+<sup>1</sup>
+
+L’intermediario finanziario che possiede succursali all’estero oppure dirige un gruppo finanziario che comprende società estere determina, limita e controlla in maniera globale i suoi rischi giuridici e di reputazione legati al riciclaggio di denaro e al finanziamento del terrorismo. In particolare, esso provvede affinché:
+
+- a. il servizio di lotta contro il riciclaggio di denaro o un altro servizio indipendente dell’intermediario finanziario svolga periodicamente un’analisi dei rischi su base consolidata;
+- b. disponga, almeno su base annuale, di un rendiconto standardizzato contenente sufficienti dati sia quantitativi che qualitativi sulle succursali e le società del gruppo, in modo tale da poter valutare in maniera affidabile e su base consolidata i suoi rischi giuridici e di reputazione;
+- c. le succursali e le società del gruppo lo informino di propria iniziativa e tempestivamente in merito all’avvio e al proseguimento delle relazioni d’affari maggiormente significative a livello globale dal punto di vista dei rischi, in merito alle transazioni maggiormente significative a livello globale dal punto di vista dei rischi, nonché in merito ad altre variazioni sostanziali dei rischi giuridici e di reputazione, in particolare se esse riguardano valori patrimoniali importanti o persone politicamente esposte;
+- d. la funzione di compliance del gruppo svolga regolarmente controlli interni basati sul rischio presso le succursali e le società del gruppo, compresi controlli a campione in loco di singole relazioni d’affari.[^6-1]
+
+<sup>2</sup>
+
+Esso assicura che:
+
+- a. gli organi di sorveglianza interni, segnatamente la funzione di compliance e l’organo di revisione interno, e la società di audit del gruppo dispongano, in caso di bisogno, di un accesso alle informazioni concernenti le relazioni d’affari individuali di tutte le succursali e le società del gruppo; non è obbligatoria né la costituzione di una banca dati centralizzata delle controparti e degli aventi economicamente diritto a livello del gruppo, né un accesso centralizzato degli organi di sorveglianza interni del gruppo alle banche dati locali;
+- b. su richiesta, le succursali e le società del gruppo mettano rapidamente a disposizione degli organi competenti del gruppo le informazioni necessarie alla sorveglianza globale dei rischi giuridici e di reputazione.[^6-2]
+
+<sup>3</sup> Un intermediario finanziario che constata che l’accesso alle informazioni relative alle controparti, ai detentori del controllo, agli aventi economicamente diritto dei valori patrimoniali è, in certi Paesi, escluso o seriamente limitato per motivi di ordine giuridico o pratico ne informa senza indugio la FINMA.
+
+<sup>4</sup> L’intermediario finanziario che fa parte di un gruppo finanziario svizzero o estero garantisce agli organi di sorveglianza interni o alla società di audit del gruppo l’accesso, in caso di bisogno, alle informazioni concernenti determinate relazioni d’affari, nella misura necessaria alla sorveglianza globale dei rischi giuridici e di reputazione.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^6-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+### Capitolo 3: Principi
+
+#### Art. 7
+
+**Valori patrimoniali proibiti**
+
+<sup>1</sup> L’intermediario finanziario non può accettare i valori patrimoniali di cui sa o deve presumere che provengano da un crimine o da un delitto fiscale qualificato, anche se il crimine o il delitto è stato commesso all’estero.
+
+<sup>2</sup> L’accettazione per negligenza di valori patrimoniali provenienti da un crimine o da un delitto fiscale qualificato può mettere in questione la garanzia di un’attività irreprensibile richiesta all’intermediario finanziario.
+
+#### Art. 8
+
+**Relazione d’affari proibita**
+
+L’intermediario finanziario non può intrattenere relazioni d’affari:
+
+- a. con imprese o persone di cui sa o deve presumere che finanziano il terrorismo o costituiscono un’organizzazione criminale, appartengono a una tale organizzazione o sostengono una tale organizzazione;
+- b. con banche che non hanno una presenza fisica nello Stato secondo il diritto del quale sono organizzate (banche fittizie), a meno che facciano parte di un gruppo finanziario oggetto di una sorveglianza consolidata adeguata.
+
+#### Art. 9
+
+**Violazione delle disposizioni**
+
+<sup>1</sup> La violazione delle disposizioni della presente ordinanza o di norme di autoregolamentazione riconosciute dalla FINMA può mettere in questione la garanzia di un’attività irreprensibile richiesta all’intermediario finanziario.
+
+<sup>2</sup> Gravi violazioni possono comportare un divieto di esercizio della professione secondo l’articolo 33 della legge del 22 giugno 2007[^9-1] sulla vigilanza dei mercati finanziari (LFINMA) e la confisca dell’utile risultante da tali violazioni secondo l’articolo 35 LFINMA.
+
+[^9-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+### Capitolo 4: Obblighi generali di diligenza
+
+#### Art. 9a
+
+**Chiarimenti in caso di società di sede**[^9a-1]
+
+L’intermediario finanziario chiarisce i motivi dell’utilizzo di società di sede.
+
+[^9a-1]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 10
+
+**Informazioni nell’ambito di ordini di bonifico**
+
+<sup>1</sup> Per gli ordini di bonifico l’intermediario finanziario dell’ordinante indica il nome, il numero di conto e l’indirizzo dell’ordinante nonché il nome e il numero di conto del beneficiario. In mancanza di un numero di conto, è indicato un numero di riferimento relativo alla transazione. L’indirizzo dell’ordinante può essere sostituito dalla data di nascita e dal luogo di nascita, dal numero d’identificazione come cliente o dal numero d’identità nazionale dell’ordinante. L’intermediario finanziario assicura che le indicazioni sull’ordinante siano esatte e complete e che le informazioni sul beneficiario siano complete.[^10-1]
+
+<sup>2</sup> Nel caso di ordini di bonifico in Svizzera, l’intermediario finanziario può limitarsi a indicare il numero di conto o il numero di riferimento relativo alla transazione, sempre che sia in grado di fornire, su richiesta, le ulteriori informazioni sull’ordinante all’intermediario finanziario del beneficiario e alle autorità svizzere competenti nel lasso di tempo di tre giorni lavorativi.
+
+<sup>3</sup> Per gli ordini di bonifico nazionali che servono al pagamento di beni e servizi, l'intermediario finanziario può seguire la procedura di cui al capoverso 2 se, per ragioni tecniche, non è possibile procedere in conformità al capoverso 1.
+
+<sup>4</sup> L’intermediario finanziario informa in modo adeguato l’ordinante circa la trasmissione delle sue informazioni nell’ambito del traffico dei pagamenti.
+
+<sup>5</sup> L’intermediario finanziario del beneficiario stabilisce la procedura da rispettare in caso di ordini di bonifico contenenti informazioni incomplete sull’ordinante o sul beneficiario. In tal caso, esso procede secondo un approccio basato sul rischio.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 11
+
+**Rinuncia all’adempimento degli obblighi di diligenza**
+
+<sup>1</sup>
+
+Nel caso di relazioni d’affari continue con controparti nell’ambito dei mezzi di pagamento per il traffico scritturale dei pagamenti che servono esclusivamente al pagamento scritturale di beni e servizi l’intermediario finanziario può rinunciare all’adempimento degli obblighi di diligenza se:
+
+- a. non può essere pagato un importo superiore a 1000 franchi per transazione e a 5000 franchi per anno civile e per controparte; gli eventuali rimborsi del mezzo di pagamento vengono effettuati esclusivamente a favore di conti presso banche autorizzate in Svizzera oppure assoggettate a vigilanza equivalente all’estero nonché intestati alla controparte e per ogni rimborso l’importo non supera 1000 franchi;
+- b. non può essere pagato un importo superiore a 5000 franchi al mese e a 25 000 franchi per anno civile e controparte a commercianti in Svizzera, con i caricamenti effettuati esclusivamente a debito e gli eventuali rimborsi del mezzo di pagamento esclusivamente a credito di un conto intestato alla controparte presso una banca autorizzata in Svizzera;
+- c. i mezzi di pagamento possono essere utilizzati esclusivamente all’interno di una determinata rete di fornitori di beni o servizi e il fatturato non supera 5000 franchi al mese e 25 000 franchi per anno civile e per controparte;
+- d.[^11-1] ...
+
+<sup>2</sup> Nel caso di relazioni d’affari continue con controparti nell’ambito dei mezzi di pagamento per il traffico scritturale dei pagamenti che non servono esclusivamente al pagamento scritturale di beni e servizi, l’intermediario finanziario può rinunciare all’adempimento degli obblighi di diligenza se per ogni mezzo di pagamento non possono essere resi disponibili più di 200 franchi al mese e i pagamenti vengono effettuati esclusivamente a debito e gli eventuali rimborsi del mezzo di pagamento esclusivamente a credito di un conto intestato alla controparte presso una banca autorizzata in Svizzera.
+
+<sup>3</sup>
+
+Nel caso di mezzi di pagamento non riscrivibili, l’intermediario finanziario può rinunciare all’adempimento degli obblighi di diligenza se:
+
+- a. il credito serve esclusivamente alla controparte per pagare in via elettronica i beni e i servizi acquisiti;
+- b. l’importo che può essere reso disponibile per ogni supporto dati non supera 250 franchi; e
+- c. l’importo disponibile per operazione e per controparte non supera 1500 franchi.
+
+<sup>4</sup> L’intermediario finanziario può rinunciare all’adempimento degli obblighi di diligenza solo se dispone di un’infrastruttura tecnica adeguata che gli consenta di rilevare il superamento dei corrispondenti valori di soglia. Esso adotta inoltre le opportune misure per evitare un eventuale accumulo dei limiti d’importo e violazioni della presente disposizione. Sono fatti salvi gli articoli 14 e 20 in riferimento alla sorveglianza delle transazioni. È inoltre fatto salvo l’articolo 10, sempre che sia applicabile.
+
+<sup>4bis</sup> L’intermediario finanziario può rinunciare all’adempimento degli obblighi di diligenza se si tratta di un leasing di finanziamento e le rate annue da pagare non superano 5000 franchi, imposta sul valore aggiunto compresa.[^11-2]
+
+<sup>5</sup> Su richiesta di organismi di autodisciplina o di intermediari finanziari secondo l’articolo 3 capoverso 1, la FINMA può autorizzare ulteriori deroghe all’adempimento degli obblighi di diligenza secondo la LRD per le relazioni d’affari continue a condizione che sia dimostrato che sussiste un rischio di riciclaggio di denaro lieve ai sensi dell’articolo 7*a* LRD.
+
+[^11-1]: Abrogata dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, con effetto dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^11-2]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 12
+
+**Obblighi di diligenza semplificati[^12-1]**
+
+<sup>1</sup>
+
+L’emittente di mezzi di pagamento è esonerato dall’obbligo di acquisire agli atti copia dei documenti per l’identificazione della controparte e l’accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali, qualora abbia concluso un accordo di delega con una banca autorizzata in Svizzera, secondo il quale:
+
+- a. la banca comunica all’emittente del mezzo di pagamento le informazioni sull’identità della controparte, del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali;
+- b. la banca comunica all’emittente del mezzo di pagamento se la controparte, il detentore del controllo o l’avente economicamente diritto dei valori patrimoniali è una persona politicamente esposta;
+- c. la banca comunica immediatamente all’emittente del mezzo di pagamento eventuali cambiamenti concernenti le informazioni di cui alle lettere a e b;
+- d. l’emittente del mezzo di pagamento risponde alle richieste di informazioni delle autorità svizzere competenti e rinvia tali autorità alla banca interessata per l’eventuale consegna della documentazione.
+
+<sup>2</sup>
+
+Per le relazioni d’affari concluse direttamente e per quelle concluse per corrispondenza, l’emittente del mezzo di pagamento non è tenuto a richiedere un’attestazione di autenticità delle copie dei documenti d’identificazione se:
+
+- a. con i mezzi di pagamento per il pagamento scritturale di beni e servizi e per il prelievo in contanti, per le cui transazioni è necessario un credito depositato elettronicamente, non può essere pagato o prelevato in contanti un importo superiore a 10 000 franchi al mese e per controparte;
+- b. per i mezzi di pagamento per i quali le transazioni sono fatturate a posteriori il limite per il pagamento scritturale di beni e servizi e per il prelievo in contanti non supera 25 000 franchi al mese e per controparte;
+- c. per i mezzi di pagamento che autorizzano il traffico scritturale dei pagamenti tra privati con domicilio in Svizzera l’importo ricevuto da privati o versato a privati non supera 1000 franchi al mese e 5000 franchi per anno civile e per controparte; oppure
+- d. per i mezzi di pagamento che autorizzano il traffico scritturale dei pagamenti tra privati senza limitazioni a livello di domicilio l’importo ricevuto da privati o versato a privati non supera 500 franchi al mese e 3000 franchi per anno civile e controparte.
+
+<sup>2bis</sup> In caso di rinuncia a richiedere un’attestazione di autenticità, l’emittente del mezzo di pagamento verifica se le copie dei documenti d’identificazione contengono indizi dell’utilizzo di un documento d’identità falso o contraffatto. In presenza di tali indizi, non si applicano le agevolazioni di cui ai capoversi 1 e 2.[^12-2]
+
+<sup>3</sup> Se nell’ambito della sorveglianza delle transazioni viene a conoscenza di indizi concernenti l’inoltro del mezzo di pagamento a una persona che non sembra in stretta relazione con la controparte, l’emittente del mezzo di pagamento di cui ai capoversi 1 e 2 identifica nuovamente la controparte e verifica l’identità dell’avente economicamente diritto del mezzo di pagamento.
+
+<sup>4</sup>
+
+Nell’emissione di crediti al consumo, per le relazioni d’affari concluse per corrispondenza non è necessario richiedere un’attestazione di autenticità delle copie dei documenti d’identificazione se l’importo del credito non supera 25 000 franchi e:
+
+- a. è versato su un conto esistente del beneficiario del credito;
+- b. è accreditato a un tale conto;
+- c. è garantito quale credito sotto forma di anticipo su un tale conto; o
+- d. nel caso di una cessione, tale somma è trasferita direttamente a un venditore di merce sulla base di un ordine di pagamento trasmesso dal beneficiario del credito.[^12-3]
+
+[^12-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^12-2]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^12-3]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+### Capitolo 5: Obblighi di diligenza particolari
+
+#### Art. 13
+
+**Relazioni d’affari che comportano un rischio superiore**
+
+<sup>1</sup> L’intermediario finanziario stabilisce criteri per il riconoscimento di relazioni d’affari che comportano rischi superiori.
+
+<sup>2</sup>
+
+In funzione dell’attività dell’intermediario finanziario vengono considerati segnatamente i criteri seguenti:
+
+- a. la sede o il domicilio della controparte, del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali, segnatamente se ha la sede in uno dei Paesi che il Gruppo d’azione finanziaria (GAFI) considera a rischio elevato oppure non cooperativo, nonché la nazionalità della controparte o dell’avente economicamente diritto dei valori patrimoniali;
+- b. il tipo e il luogo dell’attività della controparte o dell’avente economicamente diritto dei valori patrimoniali, segnatamente se l’attività è esercitata in uno dei Paesi che il GAFI considera a rischio elevato oppure non cooperativo;
+- c. l’assenza di un contatto personale con la controparte e con l’avente economicamente diritto;
+- d. il tipo di prestazioni o di prodotti richiesti;
+- e. l’ammontare dei valori patrimoniali depositati;
+- f. l’ammontare dei valori patrimoniali in entrata e in uscita;
+- g. il Paese di origine o di destinazione di pagamenti frequenti, segnatamente per i pagamenti che provengono da o sono diretti in un Paese che il GAFI considera a rischio elevato oppure non cooperativo;
+- h. la complessità delle strutture, in particolare attraverso l’utilizzo di più società di sede o di una società di sede con azionisti fiduciari all’interno di una giurisdizione non trasparente, senza un motivo manifestamente comprensibile o a fini di collocamento a breve termine del patrimonio;
+- i. transazioni frequenti che comportano rischi superiori.[^13-1]
+
+<sup>2bis</sup> Sulla base della sua analisi dei rischi, l’intermediario finanziario stabilisce per ognuno di questi criteri se siano pertinenti per le sue attività. Esso concretizza i criteri pertinenti nelle direttive interne e li prende in considerazione per identificare le proprie relazioni d’affari a rischio superiore.[^13-2]
+
+<sup>3</sup>
+
+Sono considerate in ogni caso a rischio superiore le relazioni d’affari con:
+
+- a. persone politicamente esposte all’estero;
+- b. persone vicine alle persone di cui alla lettera a in conformità all’articolo 2*a* capoverso 2 LRD;
+- c. banche estere per le quali un intermediario finanziario svizzero svolge operazioni quale banca corrispondente;
+- d.[^13-3] persone con sede in un Paese che il GAFI considera a rischio elevato oppure non cooperativo e nei confronti del quale il GAFI esorta ad adottare maggiore diligenza.
+
+<sup>4</sup>
+
+Sono considerate relazioni d’affari a rischio superiore in relazione a uno o più altri criteri di rischio supplementari le relazioni d’affari con:
+
+- a. persone politicamente esposte in Svizzera;
+- b. persone politicamente esposte che rivestono funzioni dirigenziali presso organismi interstatali;
+- c. persone vicine alle persone di cui alla lettera a e b in conformità all’articolo 2*a* capoverso 2 LRD;
+- d<sup>.</sup> persone esposte politicamente che rivestono funzioni dirigenziali presso associazioni sportive internazionali;
+- e. persone vicine alle persone di cui alla lettera d in conformità all’articolo 2*a* capoverso 2 LRD.
+
+<sup>5</sup>
+
+Le relazioni d’affari ai sensi del capoverso 3 lettere a, b e d e del capoverso 4 sono considerate relazioni d’affari a rischio superiore indipendentemente dal fatto che le persone interessate intervengano a titolo di:[^13-4]
+
+- a. controparte;
+- b. detentore del controllo;
+- c. persona avente economicamente diritto dei valori patrimoniali;
+- d. persona con procura.
+
+<sup>6</sup> L’intermediario finanziario determina le relazioni d’affari che comportano un rischio superiore e le designa come tali per l’uso interno.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-2]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-3]: Introdotta dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-4]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 14
+
+**Transazioni che comportano un rischio superiore**
+
+<sup>1</sup> L’intermediario finanziario stabilisce criteri per il riconoscimento di transazioni che comportano rischi superiori.
+
+<sup>2</sup>
+
+In funzione dell’attività dell’intermediario finanziario entrano in considerazione segnatamente i criteri seguenti:
+
+- a. l’ammontare dei valori patrimoniali in entrata e in uscita;
+- b. le divergenze considerevoli quanto a tipo, volume e frequenza delle transazioni rispetto a quelle normalmente effettuate nell’ambito della stessa relazione d’affari;
+- c. le divergenze considerevoli quanto a tipo, volume e frequenza delle transazioni rispetto a quelle normalmente effettuate nell’ambito di relazioni d’affari simili;
+- d.[^14-1] il Paese di origine o di destinazione dei pagamenti, in particolare di pagamenti provenienti da o diretti in un Paese che il GAFI considera a rischio elevato oppure non cooperativo.
+
+<sup>3</sup>
+
+Sono considerate in ogni caso transazioni che comportano un rischio superiore:
+
+- a. le transazioni mediante le quali all’inizio di una relazione d’affari vengono fisicamente apportati valori patrimoniali per un controvalore superiore a 100 000 franchi in una volta o in modo scaglionato;
+- b. i pagamenti provenienti da o diretti in un Paese che il GAFI considera a rischio elevato oppure non cooperativo e nei confronti del quale il GAFI esorta ad adottare maggiore diligenza.[^14-2]
+
+[^14-1]: Introdotta dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^14-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 15
+
+**Chiarimenti complementari in caso di rischi superiori**
+
+<sup>1</sup> L’intermediario finanziario procede, in misura proporzionata alle circostanze, a chiarimenti complementari riguardanti le relazioni d’affari o le transazioni che presentano rischi superiori.
+
+<sup>2</sup>
+
+A seconda delle circostanze, occorre chiarire segnatamente:
+
+- a. se la controparte è l’avente economicamente diritto dei valori patrimoniali consegnati;
+- b. qual è l’origine dei valori patrimoniali consegnati;
+- c. a quale scopo i valori patrimoniali prelevati vengono utilizzati;
+- d. il retroscena economico e la plausibilità di versamenti in entrata importanti;
+- e. qual è l’origine del patrimonio della controparte e dell’avente economicamente diritto dell’impresa o dei valori patrimoniali;
+- f. qual è l’attività professionale o commerciale esercitata dalla controparte e dall’avente economicamente diritto dell’impresa o dei valori patrimoniali;
+- g. se la controparte, il detentore del controllo o l’avente economicamente diritto dei valori patrimoniali è una persona politicamente esposta.
+
+#### Art. 16
+
+**Mezzi di chiarimento**
+
+<sup>1</sup>
+
+Secondo le circostanze, i chiarimenti comprendono segnatamente:
+
+- a. informazioni raccolte per scritto o oralmente presso la controparte, i detentori del controllo o gli aventi economicamente diritto dei valori patrimoniali;
+- b. visite nei luoghi in cui la controparte, i detentori del controllo o gli aventi economicamente diritto svolgono la loro attività;
+- c. la consultazione delle fonti e delle banche dati pubblicamente accessibili;
+- d. in caso di necessità, informazioni presso persone degne di fiducia.
+
+<sup>2</sup> L’intermediario finanziario verifica se i risultati dei chiarimenti sono plausibili e li documenta.
+
+#### Art. 17
+
+**Momento in cui hanno luogo i chiarimenti**[^17-1]
+
+Se in una relazione d’affari constata rischi superiori, l’intermediario finanziario procede senza indugio ai chiarimenti complementari e li esegue il più rapidamente possibile.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 18
+
+**Avvio di relazioni d’affari che presentano rischi superiori**
+
+L’avvio di relazioni d’affari che presentano rischi superiori necessita dell’accordo di un superiore gerarchico, di un organo superiore oppure della direzione.
+
+#### Art. 19
+
+**Responsabilità della direzione generale in caso di rischi superiori**
+
+<sup>1</sup>
+
+La direzione generale o almeno uno dei suoi membri decide in merito:
+
+- a. all’avvio delle relazioni d’affari che presentano rischi superiori ai sensi dell’articolo 13 capoversi 3 e 4 lettere a–c e annualmente in merito al proseguimento delle relazioni d’affari ai sensi dell’articolo 13 capoversi 3 lettere a e b e 4 lettere a–c;
+- b. la prescrizione di controlli regolari di tutte le relazioni d’affari che comportano rischi superiori, nonché la relativa sorveglianza e valutazione.
+
+<sup>2</sup> Gli intermediari finanziari con un’attività di gestione patrimoniale molto importante e strutture con numerosi livelli gerarchici possono delegare questa responsabilità alla direzione di un’unità d’affari.
+
+#### Art. 20
+
+**Sorveglianza delle relazioni d’affari e delle transazioni**
+
+<sup>1</sup> L’intermediario finanziario provvede a un’efficace sorveglianza delle relazioni d’affari e delle transazioni, assicurando che siano individuati i rischi superiori.
+
+<sup>2</sup> Per la sorveglianza delle transazioni, le banche e le società di intermediazione mobiliare[^20-1] gestiscono un sistema informatico che serve a rilevare le transazioni che comportano un rischio superiore secondo l’articolo 14.
+
+<sup>3</sup> Le transazioni rilevate dal sistema di sorveglianza informatico sono valutate entro un congruo termine. Se necessario si procede ai chiarimenti complementari di cui all’articolo 15.
+
+<sup>4</sup> Le banche e le società di intermediazione mobiliare con un numero ristretto di controparti e di aventi economicamente diritto o con un numero limitato di transazioni possono rinunciare a un sistema informatico di sorveglianza delle transazioni.[^20-2]
+
+<sup>5</sup> La FINMA può esigere da un istituto d’assicurazione, da una direzione del fondo, da una società di investimento ai sensi della LICol, da un gestore di patrimoni collettivi, da una persona ai sensi dell’articolo 1*b* LBCR[^20-3] o da un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup> LRD l’introduzione di un sistema informatico di sorveglianza delle transazioni, se questo è necessario ai fini di una sorveglianza efficace.[^20-4]
+
+[^20-1]: Nuova espr. giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^20-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^20-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-4]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 21
+
+**Delitto fiscale qualificato**
+
+Per mettere a punto criteri al fine di rilevare le nuove relazioni d’affari e le relazioni d’affari esistenti con rischi superiori in relazione a delitti fiscali qualificati e per determinare tali relazioni d’affari, gli intermediari finanziari possono adottare l’aliquota fiscale massima del Paese del domicilio fiscale del cliente per stimare se l’imposta sottratta raggiunge la soglia di 300 000 franchi fissata nell’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> del Codice penale (CP)[^21-1]. Non sono tenuti a determinare gli elementi imponibili individuali per la relazione d’affari.
+
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+### Capitolo 6: Obbligo di allestire e conservare documenti
+
+#### Art. 22
+
+<sup>1</sup>
+
+L’intermediario finanziario allestisce, organizza e conserva i suoi documenti in modo da consentire a una delle seguenti autorità o persone di formarsi, entro un congruo termine, un giudizio attendibile sull’ottemperanza degli obblighi in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo:
+
+- a. la FINMA;
+- b. un incaricato dell’audit ai sensi dell’articolo 25 LFINMA[^22-1] da essa designato;
+- c. un incaricato dell’inchiesta ai sensi dell’articolo 36 LFINMA da essa nominato;
+- d. una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori;
+- e.[^22-2] l’organismo di vigilanza.
+
+<sup>2</sup> Egli allestisce, organizza e conserva i suoi documenti in modo tale da essere in grado di soddisfare, entro un congruo termine, le richieste di informazioni e di sequestro da parte delle autorità di perseguimento penale o di altre autorità autorizzate, allegando i documenti necessari.
+
+[^22-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22-2]: Introdotta dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+### Capitolo 7: Provvedimenti organizzativi
+
+#### Art. 23
+
+**Nuovi prodotti, pratiche commerciali e tecnologie**
+
+L’intermediario finanziario garantisce che i rischi di riciclaggio di denaro e finanziamento del terrorismo legati allo sviluppo di nuovi prodotti o pratiche commerciali o derivanti dall’impiego di tecnologie nuove o ulteriormente sviluppate vengano valutati in via preliminare nonché adeguatamente determinati, limitati e controllati nell’ambito della gestione dei rischi.
+
+#### Art. 24
+
+**Servizio di lotta contro il riciclaggio di denaro**
+
+<sup>1</sup> L’intermediario finanziario designa una o più persone qualificate che costituiscono il servizio di lotta contro il riciclaggio di denaro. Questo servizio fornisce il sostegno e i consigli necessari ai responsabili gerarchici e alla direzione nell’applicazione della presente ordinanza, senza tuttavia liberare questi ultimi dalla loro responsabilità.
+
+<sup>2</sup> Il servizio di lotta contro il riciclaggio di denaro prepara le direttive interne sulla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo e pianifica e sorveglia la formazione interna in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+#### Art. 25
+
+**Ulteriori compiti del servizio di lotta contro il riciclaggio di denaro**
+
+<sup>1</sup>
+
+Oltre ai compiti ai sensi dell’articolo 24, il servizio di lotta contro il riciclaggio di denaro o un altro servizio indipendente sorveglia il rispetto degli obblighi in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo, in particolare:
+
+- a. sorveglia, di concerto con l’organo di revisione interno, la società di audit e i responsabili gerarchici, l’applicazione delle direttive interne sulla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo;
+- b. definisce i parametri del sistema di sorveglianza delle transazioni ai sensi dell’articolo 20;
+- c. ordina la valutazione degli annunci generati dal sistema di sorveglianza delle transazioni;
+- d. ordina i chiarimenti complementari secondo l’articolo 15 o li esegue di persona;
+- e. assicura che l’organo della direzione competente per decidere l’avvio o il proseguimento di relazioni d’affari in conformità all’articolo 19 riceva le informazioni necessarie per la sua decisione.
+
+<sup>2</sup> Il servizio di lotta contro il riciclaggio di denaro o un altro servizio indipendente svolge inoltre, tenendo conto del settore d’attività e del tipo di relazioni d’affari gestite dall’intermediario finanziario, un’analisi dei rischi nell’ottica della lotta contro il riciclaggio di denaro e il finanziamento del terrorismo, considerando in particolare la sede o il domicilio del cliente, il segmento dei clienti, nonché i prodotti e i servizi offerti. L’analisi dei rischi è approvata dal consiglio di amministrazione o dalla direzione generale ed è aggiornata periodicamente.
+
+<sup>3</sup> Una persona interna incaricata della sorveglianza ai sensi del capoverso 1 non può controllare una relazione d’affari della quale è direttamente responsabile.
+
+<sup>4</sup>
+
+L’intermediario finanziario può anche, sotto la propria responsabilità, designare quale servizio di lotta contro il riciclaggio di denaro specialisti esterni, se:
+
+- a. in ragione della sua dimensione o della sua organizzazione, non è in grado di istituire un proprio servizio specializzato; o
+- b. l’istituzione di un tale servizio sarebbe sproporzionata.
+
+#### Art. 25a
+
+**Competenza decisionale in caso di comunicazioni**[^25a-1]
+
+La direzione generale decide in merito alle comunicazioni secondo l’articolo 9 LRD o secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^25a-2]. Può delegare questo compito a uno o più membri non direttamente responsabili della relazione d’affari, al servizio di lotta contro il riciclaggio di denaro o a un altro servizio a maggioranza indipendente.
+
+[^25a-1]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^25a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 26
+
+**Direttive interne**
+
+<sup>1</sup> L’intermediario finanziario emana direttive interne sulla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo e le comunica alle persone interessate in forma adeguata. Tali direttive sono approvate dal consiglio di amministrazione o dalla direzione generale.
+
+<sup>2</sup>
+
+Nelle direttive interne sono disciplinati in particolare:
+
+- a. i criteri applicati per la determinazione delle relazioni d’affari che comportano rischi superiori di secondo l’articolo 13;
+- b. i criteri applicati per la determinazione delle transazioni che comportano rischi superiori secondo l’articolo 14 capoversi 1 e 2;
+- c. i principi per la sorveglianza delle transazioni secondo l’articolo 20;
+- d. i casi nei quali il servizio interno di lotta contro il riciclaggio di denaro è consultato e la direzione generale è informata;
+- e. i principi della formazione dei collaboratori;
+- f. la politica dell’impresa nei confronti delle persone politicamente esposte;
+- g. le competenze per la comunicazione all’Ufficio di comunicazione in materia di riciclaggio di denaro;
+- h. le modalità con le quali l’intermediario finanziario determina, limita e controlla i rischi superiori;
+- i. gli importi massimi secondo gli articoli 13 capoverso 2 lettere e ed f, e 14 capoverso 2 lettera a;
+- j. i criteri secondo i quali si può ricorrere a terzi ai sensi dell’articolo 28;
+- k. la ripartizione in seno all’impresa dei restanti compiti e competenze tra il servizio di lotta contro il riciclaggio di denaro e le altre unità incaricate dell’applicazione degli obblighi di diligenza.
+
+#### Art. 27
+
+**Integrità e formazione**
+
+<sup>1</sup> La lotta contro il riciclaggio di denaro e il finanziamento del terrorismo esige personale integro e adeguatamente formato.
+
+<sup>2</sup> L’intermediario finanziario provvede alla selezione accurata del personale e alla formazione regolare di tutti i collaboratori interessati sugli aspetti per loro rilevanti della lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+### Capitolo 8: Ricorso a terzi
+
+#### Art. 28
+
+**Condizioni**
+
+<sup>1</sup>
+
+L’intermediario finanziario può incaricare mediante accordo scritto persone e imprese dell’identificazione della controparte, dell’accertamento del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali e dei chiarimenti complementari richiesti, se:
+
+- a. ha scelto con cura la persona incaricata;
+- b. ha istruito quest’ultima sul suo compito; e
+- c. può controllare se la persona incaricata adempie gli obblighi di diligenza.
+
+<sup>2</sup>
+
+L’intermediario finanziario può affidare senza accordo scritto i compiti relativi agli obblighi di diligenza secondo il capoverso 1:
+
+- a. a un servizio all’interno di un gruppo, se le norme di diligenza equivalente applicabili sono equivalenti; o
+- b. a un altro intermediario finanziario, se quest’ultimo è sottoposto a una vigilanza e a una regolamentazione equivalenti in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo e ha adottato provvedimenti volti ad adempiere gli obblighi di diligenza in modo equivalente.
+
+<sup>3</sup> I terzi cui si è fatto ricorso non possono affidarsi ai servizi di ulteriori persone o imprese.
+
+<sup>4</sup> Sono fatti salvi gli accordi di delega ai sensi dell’articolo 12 capoverso 1, se il sub-delegatario è anch’esso un intermediario finanziario autorizzato in Svizzera.
+
+#### Art. 29
+
+**Modalità del ricorso a terzi**
+
+<sup>1</sup> L’intermediario finanziario rimane in ogni caso responsabile, dal profilo del diritto in materia di vigilanza, del congruo adempimento dei compiti per cui è ricorso a persone e imprese secondo l’articolo 28.
+
+<sup>2</sup> Esso acquisisce agli atti una copia dei documenti di cui si è servito per adempiere gli obblighi in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo e si fa confermare per scritto che le copie consegnategli sono conformi ai documenti originali.
+
+<sup>3</sup> Esso verifica personalmente la plausibilità dei risultati dei chiarimenti complementari.
+
+### Capitolo 9: Proseguimento della relazione d’affari e comunicazione
+
+#### Art. 30
+
+**Comportamento dopo la comunicazione**
+
+<sup>1</sup>
+
+L’intermediario finanziario può decidere a sua discrezione in merito al proseguimento della relazione d’affari, se:
+
+- a.
+
+  entro il termine di 20 giorni lavorativi da una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera a LRD l’Ufficio di comunicazione in materia di riciclaggio di denaro:
+
+  - 1\. non lo informa,
+  - 2\. lo informa che la comunicazione non verrà inoltrata alle autorità di perseguimento penale,
+  - 3\. lo informa che la comunicazione è stata inoltrata a un’autorità di perseguimento penale ed esso da questo momento non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
+
+- b. dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
+- c. dopo una comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP[^30-1], l’Ufficio di comunicazione in materia di riciclaggio di denaro lo informa che la sua comunicazione non sarà inoltrata all’autorità di perseguimento penale; oppure
+- d. dopo il blocco disposto dall’autorità di perseguimento penale in base a una comunicazione ai sensi dell’articolo 9 LRD o l’articolo 305<sup>ter</sup> capoverso 2 CP viene informato della sua revoca, con riserva di altre comunicazioni delle autorità di perseguimento penale.
+
+<sup>2</sup> L’intermediario finanziario che non vuole proseguire la relazione d’affari può permettere il prelievo di importanti valori patrimoniali soltanto in una forma tale da consentire alle autorità di perseguimento penale di seguire la traccia della transazione (*paper trail*).
+
+[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 31
+
+**Relazioni d’affari dubbiose e diritto di comunicazione**[^31-1]
+
+Se, in caso di relazioni d’affari dubbiose che concernono importanti valori patrimoniali, non esercita il suo diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^31-2], l’intermediario finanziario ne documenta i motivi.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 32
+
+**Interruzione della relazione d’affari**
+
+<sup>1</sup> Se pone termine a una relazione d’affari dubbiosa senza effettuare una comunicazione per mancanza di un sospetto fondato di riciclaggio di denaro o finanziamento del terrorismo, l’intermediario finanziario può permettere il prelievo di importanti valori patrimoniali soltanto in una forma tale da consentire alle autorità di perseguimento penale di seguire la traccia della transazione (*paper trail*).
+
+<sup>2</sup> L’intermediario finanziario non può interrompere una relazione d’affari dubbiosa né permettere il prelievo di importanti valori patrimoniali se sussistono indizi concreti di imminenti misure di sicurezza da parte di un’autorità.
+
+<sup>3</sup> Se le condizioni per la comunicazione secondo l’articolo 9 LRD all’Ufficio di comunicazione in materia di riciclaggio di denaro sono adempiute o l’intermediario finanziario si avvale del diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^32-1], questi non può interrompere di sua iniziativa la relazione d’affari con la controparte.[^32-2]
+
+[^32-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^32-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 33
+
+**Esecuzione di ordini dei clienti**
+
+L’intermediario finanziario esegue gli ordini dei clienti che riguardano importanti valori patrimoniali ai sensi dell’articolo 9*a* LRD soltanto in una forma tale da consentire di seguire la traccia della transazione (*paper trail*).
+
+#### Art. 34
+
+**Informazione**
+
+<sup>1</sup> L’intermediario finanziario informa la FINMA o l’organismo di vigilanza delle comunicazioni inoltrate all’Ufficio di comunicazione in materia di riciclaggio di denaro riguardanti relazioni d’affari che concernono importanti valori patrimoniali. In particolare informa quando risulta verosimile, considerate le circostanze, che la vicenda che porta alla comunicazione possa ripercuotersi sulla reputazione dell’intermediario finanziario o su quella della piazza finanziaria.[^34-1]
+
+<sup>2</sup> Se informa un altro intermediario finanziario secondo l’articolo 10*a* LRD, lo documenta in forma adeguata.
+
+[^34-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+## Titolo 2: Disposizioni particolari per banche e società di intermediazione mobiliare
+
+#### Art. 35
+
+**Obbligo dell’identificazione della controparte, dell’accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali**[^35-1]
+
+Le disposizioni in materia di identificazione della controparte e di accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali della Convenzione del 13 giugno 2018[^35-2] relativa all’obbligo di diligenza delle banche (CDB 20) sono applicabili a banche e società di intermediazione mobiliare.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^35-2]: La convenzione può essere consultata gratuitamente nel sito dell’Associazione Svizzera dei Banchieri www.swissbanking.org
+
+#### Art. 36
+
+**Negozio professionale di biglietti di banca**
+
+<sup>1</sup> Il negozio professionale di biglietti di banca è autorizzato solo con negozianti di biglietti di banca che adempiono i criteri di una relazione di banca di corrispondenza degna di fiducia.
+
+<sup>2</sup> Prima dell’avvio di una relazione con il negoziante di biglietti di banca l’intermediario finanziario si informa sull’attività commerciale del negoziante e si procura le informazioni commerciali e le referenze.
+
+<sup>3</sup> L’intermediario finanziario fissa i limiti di cifra d’affari e di credito per il proprio negozio professionale di biglietti di banca nella sua totalità e per ogni singola controparte, riesamina questi limiti almeno una volta all’anno e ne controlla il rispetto in modo continuo.
+
+<sup>4</sup> Un intermediario finanziario che pratica il negozio professionale di biglietti di banca emana direttive a questo scopo, che sono adottate dalla direzione generale.
+
+#### Art. 37
+
+**Relazioni con banche corrispondenti estere**
+
+<sup>1</sup> Fatto salvo l’articolo 28 capoverso 2 lettera b, le disposizioni generali della presente ordinanza si applicano anche alle relazioni con banche corrispondenti.
+
+<sup>2</sup> Un intermediario finanziario che effettua operazioni quale banca corrispondente per conto di una banca estera si accerta in modo appropriato che questa non possa avviare relazioni d’affari con banche fittizie.
+
+<sup>3</sup> Oltre ai chiarimenti ai sensi dell’articolo 15, a seconda delle circostanze l’intermediario finanziario accerta quali controlli effettua la controparte per lottare contro il riciclaggio di denaro e il finanziamento del terrorismo. Per determinare la portata dei chiarimenti considera se la controparte è sottoposta a una vigilanza e a una regolamentazione adeguate in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>4</sup> L’intermediario finanziario assicura la completezza e la trasmissione di tutte le informazioni ottenute necessarie all’esecuzione di ordini di pagamento. Esso regola la procedura da seguire nel caso in cui riceva ripetutamente ordini di bonifico contenenti informazioni manifestamente incomplete. In tal caso, procede secondo un approccio basato sul rischio.[^37-1]
+
+[^37-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 38
+
+**Criteri per transazioni che comportano un rischio superiore**
+
+Sono considerate transazioni che comportano un rischio superiore, oltre alle transazioni secondo l’articolo 14, quelle che presentano indizi di riciclaggio di denaro (allegato).
+
+#### Art. 39
+
+**Obbligo di allestire documenti**
+
+<sup>1</sup>
+
+In applicazione dell’articolo 22, l’intermediario finanziario organizza la propria documentazione in modo da essere segnatamente in grado di fornire, entro un congruo termine, le informazioni necessarie a stabilire chi è l’ordinante di un ordine di pagamento in uscita e se un’impresa o una persona:[^39-1]
+
+- a. è controparte, detentore del controllo o avente economicamente diritto dei valori patrimoniali;
+- b. ha eseguito un’operazione di cassa che esige l’identificazione delle persone coinvolte;
+- c. dispone di una procura permanente su un conto o un deposito, sempre che questa non risulti già da un registro pubblico.
+
+<sup>2</sup> La controparte è da ritenere come comunemente nota in particolare quando è una società aperta al pubblico oppure risulta legata in modo diretto o indiretto a una società di questo tipo.[^39-2]
+
+[^39-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^39-2]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+## Titolo 3: Disposizioni particolari per direzioni dei fondi, società d’investimento ai sensi della LICol e gestore di patrimoni collettivi****
+
+[^tit3-1]
+
+[^tit3-1]: Nuova espr. giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 40
+
+**Direzioni dei fondi e società d’investimento ai sensi della LICol**
+
+<sup>1</sup> Le direzioni dei fondi secondo l’articolo 2 capoverso 2 lettera b LRD e le società d’investimento ai sensi della LICol identificano il sottoscrivente al momento della sottoscrizione di investimenti collettivi di capitale svizzeri non quotati in borsa e procedono all’accertamento del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali quando il valore della sottoscrizione supera 15 000 franchi.[^40-1]
+
+<sup>2</sup> Non sono tenute a richiedere dichiarazioni dal detentore del controllo o dall’avente economicamente diritto dei valori patrimoniali al momento della sottoscrizione se il sottoscrivente è un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 lettere a–d LRD o un intermediario finanziario estero sottoposto a una vigilanza prudenziale adeguata e a una regolamentazione adeguata in relazione alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>3</sup> Se una direzione del fondo, una SICAV o una SICAF affida i compiti relativi all’adempimento degli obblighi di diligenza e di allestire documenti alla banca depositaria o se la SACol[^40-2] li affida a una banca autorizzata in Svizzera, le condizioni di cui all’articolo 28 capoverso 3 e le modalità di cui all’articolo 29 capoverso 2 non sono adempiute. La banca depositaria o la banca può avvalersi di sub-delegatari unicamente se questi ultimi soddisfano le condizioni di cui all’articolo 28 capoverso 1 o 2 e le modalità di cui all’articolo 29 capoversi 2 e 3. La direzione del fondo e le società d’investimento ai sensi della LICol restano responsabili dell’adempimento di tali obblighi ai sensi del diritto in materia di vigilanza.
+
+<sup>4</sup> Per i metodi di identificazione della controparte e per l’accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali, come pure per eventuali altre attività della direzione del fondo rilevanti ai fini della LRD fa stato la CDB 20[^40-3].[^40-4]
+
+[^40-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^40-2]: Dal 1° lug. 2016: SAcCol.
+[^40-3]: La convenzione può essere consultata gratuitamente nel sito dell’Associazione Svizzera dei Banchieri www.swissbanking.org
+[^40-4]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 41
+
+**Gestori di patrimoni collettivi di investimenti collettivi di capitali esteri**
+
+<sup>1</sup>
+
+I gestori di patrimoni collettivi di investimenti collettivi di capitali esteri non quotati in borsa identificano il sottoscrivente e procedono all’accertamento del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali dell’investimento collettivo di capitale estero, se:
+
+- a. né l’investimento collettivo di capitale estero né la sua società di gestione patrimoniale sottostanno a una vigilanza prudenziale e a una regolamentazione adeguate in relazione alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo;
+- b. non possono dimostrare l’applicazione di una regolamentazione adeguata in relazione alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo da parte di un altro intermediario finanziario che sottostà a una sorveglianza prudenziale adeguata; e
+- c.[^41-1] l’importo investito supera 15 000 franchi.
+
+<sup>2</sup> Non sono tenuti a richiedere dichiarazioni sul detentore del controllo o l’avente economicamente diritto dei valori patrimoniali, se il sottoscrivente è un intermediario finanziario secondo l’articolo 2 capoverso 2 lettere a–d LRD o un intermediario finanziario estero sottoposto a una vigilanza prudenziale e a una regolamentazione adeguate in relazione alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>3</sup> Per i metodi di identificazione della controparte e di accertamento del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali, come pure per eventuali altre attività rilevanti ai fini della LRD fa stato la CDB 20[^41-2].[^41-3]
+
+[^41-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^41-2]: La convenzione può essere consultata gratuitamente nel sito dell’Associazione Svizzera dei Banchieri www.swissbanking.org
+[^41-3]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+## Titolo 4: Disposizioni particolari per gli istituti d’assicurazione
+
+#### Art. 42
+
+**Regolamento dell’Associazione Svizzera di Assicurazioni per la lotta contro il riciclaggio di denaro**
+
+<sup>1</sup> Gli obblighi di diligenza degli istituti d’assicurazione sono disciplinati dal Regolamento del 22 giugno 2018[^42-1] dell’Organismo di autodisciplina dell’Associazione Svizzera di Assicurazioni per la lotta contro il riciclaggio di denaro.[^42-2]
+
+<sup>2</sup> Sono fatti salvi gli articoli 6 e 20 capoverso 5.
+
+[^42-1]: Il Regolamento può essere consultato gratuitamente nel sito dell’Associazione Svizzera di Assicurazioni per la lotta contro il riciclaggio di denaro www.sro-svv.ch
+[^42-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 43
+
+**Eccezioni**
+
+Non sono assoggettati agli obblighi di diligenza secondo la LRD i contratti assicurativi dei pilastri 2 e 3a e le assicurazioni di rischio puro.
+
+## Titolo 5: Disposizioni particolari per gli intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup> LRD e le persone ai sensi dell’articolo 1*b* LBCR****
+
+[^tit5-1]
+
+[^tit5-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+### Capitolo 1: Campo d’applicazione****
+
+[^tit5-chap1-1]
+
+[^tit5-chap1-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 43a
+
+[^43a-1]
+
+Il presente titolo si applica ai seguenti intermediari finanziari:
+
+- a. intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup>;
+- b. persone ai sensi dell’articolo 1*b* LBCR.
+
+[^43a-1]: Introdotto dal n. I dell’O della FINMA del 5 dic. 2018 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+### Capitolo 1*a*: Identificazione della controparte (art. 3 LRD)****
+
+[^tit5-chap1a-1]
+
+[^tit5-chap1a-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 44
+
+**Informazioni necessarie**
+
+<sup>1</sup>
+
+Al momento dell’avvio di una relazione d’affari, l’intermediario finanziario[^44-1] richiede alla controparte le seguenti informazioni:
+
+- a. per le persone fisiche e i titolari di imprese individuali: il cognome, il nome, la data di nascita, l’indirizzo del domicilio e la cittadinanza;
+- b. per le persone giuridiche e le società di persone: la ragione sociale e l’indirizzo della sede.
+
+<sup>2</sup> Se la controparte proviene da un Paese nel quale la data di nascita o l’indirizzo del domicilio non sono utilizzati, l’obbligo di disporre di queste informazioni decade. Tale deroga è motivata in una nota agli atti.
+
+<sup>3</sup> Se la controparte è una persona giuridica o una società di persone, l’intermediario finanziario prende atto delle disposizioni della controparte concernenti il conferimento dei poteri di rappresentanza in relazione a questa persona, le documenta e verifica l’identità delle persone che avviano la relazione d’affari in nome della persona giuridica o della società di persone.
+
+<sup>4</sup> In caso di relazioni d’affari con trust, il trustee deve essere identificato. Inoltre, il trustee deve confermare per scritto di essere autorizzato ad avviare per conto del trust una relazione d’affari con l’intermediario finanziario.[^44-2]
+
+<sup>5</sup> Il soggetto terzo maggiorenne che avvia una relazione d’affari a nome di un soggetto minorenne deve essere identificato. Se un soggetto minorenne capace di discernimento avvia di propria iniziativa una relazione d’affari, deve essere identificato.[^44-3]
+
+[^44-1]: Nuova espr. giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^44-2]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^44-3]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 45
+
+**Persone fisiche e titolari di imprese individuali**
+
+<sup>1</sup> Al momento dell’avvio di una relazione d’affari con una persona fisica o il titolare di un’impresa individuale, l’intermediario finanziario verifica l’identità della controparte in base a un documento d’identità.
+
+<sup>2</sup> Se la relazione d’affari è avviata senza che vi sia stato un contatto personale tra le parti, l’intermediario finanziario verifica anche l’indirizzo del domicilio mediante scambio di corrispondenza o qualsiasi altro mezzo equivalente e acquisisce agli atti una copia autenticata del documento di identificazione.
+
+<sup>3</sup> Sono ammessi tutti i documenti d’identità rilasciati da un’autorità svizzera o estera e provvisti di fotografia.
+
+#### Art. 46
+
+**Società semplici**
+
+<sup>1</sup>
+
+Nel momento in cui viene avviata una relazione d’affari con una società semplice, l’intermediario finanziario verifica l’identità della controparte controllando a scelta l’identità:
+
+- a. di tutti i soci; oppure
+- b. di almeno un socio e delle persone che hanno il diritto di firma nei confronti dell’intermediario finanziario.
+
+<sup>2</sup> L’articolo 45 capoversi 2 e 3 si applica per analogia.
+
+#### Art. 47
+
+**Persone giuridiche, società di persone e autorità**
+
+<sup>1</sup>
+
+Al momento dell’avvio di una relazione d’affari con una persona giuridica o una società di persone iscritta nel registro di commercio svizzero o in un registro estero equivalente, l’intermediario finanziario verifica l’identità della controparte sulla base di uno dei seguenti documenti:
+
+- a. estratto del registro rilasciato dall’ufficiale del registro;
+- b. estratto scritto di una banca dati gestita dall’autorità del registro;
+- c. estratto scritto di elenchi e banche dati amministrati da privati, purché affidabili.
+
+<sup>2</sup>
+
+L’identità delle persone giuridiche, delle società di persone e delle autorità non iscritte nel registro di commercio svizzero o in un registro estero equivalente è verificata sulla base di uno dei seguenti documenti:
+
+- a. statuto, atto costitutivo o contratto di costituzione, attestato dell’ufficio di revisione, autorizzazione ufficiale a esercitare l’attività oppure documento equivalente;
+- b. estratto scritto di elenchi e banche dati amministrati da privati, purché affidabili.
+
+<sup>3</sup> L’identità delle autorità è verificata sulla base di statuti o decisioni appropriati o sulla base di altri documenti o fonti equivalenti.
+
+<sup>4</sup> Al momento di verificare l’identità, l’estratto del registro, l’attestato dell’ufficio di revisione e l’estratto di elenchi o banche dati non sono datati più di 12 mesi e sono aggiornati.
+
+#### Art. 48
+
+**Forma e trattamento dei documenti**
+
+<sup>1</sup> L’intermediario finanziario si fa consegnare i documenti d’identificazione in originale o in copia autenticata.
+
+<sup>2</sup> Esso acquisisce agli atti la copia autenticata o fa una copia del documento presentatogli, sul quale riporta di avere esaminato l’originale o la copia autenticata e appone la data e la firma sulla copia.
+
+<sup>3</sup> Sono fatte salve le agevolazioni di cui all’articolo 3 capoverso 2 e all’articolo 12.
+
+#### Art. 49
+
+**Attestazione di autenticità**
+
+<sup>1</sup>
+
+L’attestazione di autenticità della copia del documento d’identificazione può essere rilasciata da:
+
+- a. un notaio o un ente pubblico normalmente preposto al rilascio di tali attestazioni;
+- b. un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 o 3 LRD con domicilio o sede in Svizzera;
+- c. un avvocato abilitato a esercitare la professione in Svizzera;
+- d. un intermediario finanziario che esercita un’attività secondo l’articolo 2 capoverso 2 o 3 LRD e il cui domicilio o la cui sede è all’estero, sempre che sia sottoposto a una vigilanza e a una regolamentazione equivalenti in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>2</sup> È considerata attestazione di autenticità valida anche la copia del documento d’identità presente nella banca dati di un prestatore di servizi di certificazione riconosciuto secondo la legge federale del 19 dicembre 2003[^49-1] sulla firma elettronica in combinazione con un’autentificazione elettronica effettuata dalla controparte in questo ambito. Questa copia del documento d’identità è richiesta nel quadro dell’emissione di un certificato qualificato.
+
+[^49-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n. I]. Vedi ora la LF del 18 marzo 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+
+#### Art. 50
+
+**Rinuncia all’attestazione di autenticità e mancanza di documenti d’identità**
+
+<sup>1</sup> L’intermediario finanziario può rinunciare all’attestazione di autenticità se adotta altri provvedimenti che gli consentano di verificare l’identità e l’indirizzo della controparte. I provvedimenti sono documentati.
+
+<sup>2</sup> Se la controparte non dispone di documenti d’identità ai sensi della presente ordinanza, la sua identità può essere eccezionalmente verificata sulla base di altri documenti probanti. Tale deroga è motivata in una nota agli atti.
+
+#### Art. 51
+
+**Operazioni di cassa**
+
+<sup>1</sup>
+
+L’intermediario finanziario verifica l’identità della controparte se una o più transazioni che sembrano legate tra di loro raggiungono o superano:
+
+- a. 5000 franchi per le operazioni di cambio;
+- b.[^51-1] 15 000 franchi per tutte le altre operazioni di cassa.
+
+<sup>2</sup> Se effettua altre operazioni secondo il capoverso 1 e l’articolo 52 con una stessa controporte, l’intermediario finanziario può rinunciare a verificarne l’identità dopo essersi assicurato che la controparte sia la persona la cui identità è stata verificata nella prima operazione.
+
+<sup>3</sup> Se sussistono indizi di riciclaggio di denaro o finanziamento del terrorismo, l’intermediario finanziario verifica in ogni caso l’identità della controparte.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 51a
+
+**Operazioni con valute virtuali**[^51a-1]
+
+<sup>1</sup> L’intermediario finanziario verifica l’identità della controparte se una o più transazioni con una valuta virtuale che sembrano legate tra di loro raggiungono o superano l’importo di 1000 franchi, sempre che tali transazioni non costituiscano trasferimenti di denaro e di valori e tali operazioni non siano legate a una relazione d’affari continua.
+
+<sup>2</sup> Se effettua altre operazioni secondo il capoverso 1 e l’articolo 52 con la stessa controparte, può rinunciare a verificarne l’identità dopo essersi assicurato che la controparte sia la persona la cui identità è stata verificata nella prima operazione.
+
+<sup>3</sup> Se sussistono indizi di riciclaggio di denaro o finanziamento del terrorismo, verifica in ogni caso l’identità della controparte.
+
+[^51a-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 52
+
+**Trasferimento di denaro e valori**
+
+<sup>1</sup> L’identità della controparte è sempre accertata in caso di trasferimento di denaro o valori dalla Svizzera all’estero.
+
+<sup>2</sup> In caso di trasferimento di denaro o valori dall’estero in Svizzera, occorre identificare il beneficiario del pagamento se una o più transazioni che sembrano legate tra di loro superano 1000 franchi. Se sussistono indizi di riciclaggio di denaro o finanziamento del terrorismo, l’identità del beneficiario del trasferimento di denaro o valori è in ogni caso verificata.
+
+#### Art. 53
+
+**Persone giuridiche, società di persone e autorità comunemente note**
+
+<sup>1</sup> L’intermediario finanziario può rinunciare a identificare una persona giuridica, una società di persone o un’autorità se la controparte è comunemente nota. L’identità è in particolare da considerare come comunemente nota se la controparte è una società con azioni quotate in borsa oppure se è direttamente o indirettamente legata a una società di questo tipo.
+
+<sup>2</sup> Se l’intermediario finanziario rinuncia a identificare la controparte, ne annota i motivi negli atti.
+
+#### Art. 54
+
+[^54-1]
+
+[^54-1]: Abrogato dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, con effetto dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 55
+
+**Insuccesso dell’identificazione della controparte**
+
+<sup>1</sup> I documenti e le informazioni necessarie per verificare l’identità della controparte sono acquisiti interamente prima di effettuare qualsiasi transazione nell’ambito di una relazione d’affari.
+
+<sup>2</sup> Se l’identità della controparte non può essere verificata, l’intermediario finanziario rifiuta di entrare in una relazione d’affari o interrompe la relazione d’affari in virtù delle disposizioni del capitolo 9 del titolo 1.
+
+### Capitolo 2: Accertamento relativo all’avente economicamente diritto di un’impresa e dei valori patrimoniali (art. 4 LRD)
+
+### Sezione 1: Detentore del controllo
+
+#### Art. 56
+
+**Principio**
+
+<sup>1</sup> Se la controparte è una persona giuridica o una società di persone non quotata in borsa che esercita attività operative o una filiale controllata a maggioranza da una siffatta società, l’intermediario finanziario richiede alla controparte una dichiarazione scritta che indichi chi detiene, in qualità di detentore del controllo, direttamente o indirettamente, da solo o d’intesa con terzi, almeno il 25 per cento delle quote sociali o dei diritti di voto della società.
+
+<sup>2</sup> Se la società non è controllata dalle persone di cui al capoverso 1, l’intermediario finanziario richiede alla controparte una dichiarazione scritta che indichi chi controlla in qualsiasi altro modo la società in qualità di detentore del controllo.
+
+<sup>3</sup> Se non è possibile identificare i detentori del controllo in conformità ai capoversi 1 e 2, in via sostitutiva l’intermediario finanziario richiede alla controparte, anziché al detentore del controllo, una dichiarazione scritta che indichi il membro superiore dell’organo direttivo.
+
+<sup>4</sup> I capoversi 1–3 si applicano per l’avvio di relazioni d’affari continue e in tutti i casi ai trasferimenti di denaro e di valori dalla Svizzera all’estero.
+
+<sup>5</sup> Alle operazioni di cassa in Svizzera si applicano i capoversi 1–3 se una o più transazioni che sembrano legate tra di loro superano 15 000 franchi. L’intermediario finanziario richiede la dichiarazione al più tardi immediatamente dopo aver effettuato la transazione.[^56-1]
+
+[^56-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 57
+
+**Informazioni richieste**
+
+<sup>1</sup> La dichiarazione scritta della controparte concernente il detentore del controllo contiene le informazioni relative a cognome, nome e indirizzo di domicilio del detentore del controllo.
+
+<sup>2</sup> Se il detentore del controllo proviene da un Paese nel quale l’indirizzo del domicilio non è utilizzato, l’obbligo di disporre di tale informazione decade. Tale deroga è motivata in una nota agli atti.
+
+#### Art. 58
+
+**Eccezioni all’obbligo di accertamento**
+
+L’intermediario finanziario non richiede una dichiarazione scritta concernente il detentore del controllo se le controparti sono:[^58-1]
+
+- a. società quotate in borsa o una filiale controllata a maggioranza da siffatte società;
+- b. autorità;
+- c.[^58-2] intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettere a–d<sup>ter</sup> LRD nonché istituzioni della previdenza professionale esonerate dall’obbligo fiscale con sede in Svizzera;
+- d. banche, società di intermediazione mobiliare, direzioni dei fondi, società di investimento ai sensi della LICol, gestori di patrimoni collettivi, società di assicurazioni sulla vita con sede o domicilio all’estero a condizione che siano sottoposte a una sorveglianza equivalente al diritto svizzero;
+- e. altri intermediari finanziari con sede o domicilio all’estero, a condizione che siano sottoposti a una vigilanza prudenziale e a una regolamentazione adeguate in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo;
+- f. società semplici.
+
+[^58-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^58-2]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+### Sezione 2: Avente economicamente diritto dei valori patrimoniali
+
+#### Art. 59
+
+**Principio**
+
+<sup>1</sup>
+
+L’intermediario finanziario richiede alla controparte una dichiarazione scritta che indichi chi è la persona fisica avente economicamente diritto dei valori patrimoniali, se la controparte non coincide con essa oppure se nutre dubbi sul fatto che la controparte coincida con essa, segnatamente se:
+
+- a. una persona che, in modo manifesto, non ha legami sufficientemente stretti con la controparte è in possesso di una procura che autorizza il prelevamento di valori patrimoniali;
+- b. i valori patrimoniali apportati dalla controparte superano in modo manifesto la sua disponibilità finanziaria;
+- c. dalle sue relazioni con la controparte emergono altre constatazioni insolite;
+- d. la relazione d’affari è avviata senza un contatto personale con la controparte.
+
+<sup>2</sup> L’intermediario finanziario richiede alle persone giuridiche o alle società di persone non quotate in borsa che esercitano attività operative una dichiarazione scritta che indichi chi è la persona fisica avente economicamente diritto dei valori patrimoniali, se è noto oppure se sussistono indizi concreti in merito al fatto che la persona giuridica o la società di persone che esercita attività operative detiene i valori patrimoniali per conto di una terza persona.
+
+<sup>3</sup> Se sussistono indizi di riciclaggio di denaro o di finanziamento del terrorismo, l’intermediario finanziario richiede alla controparte una dichiarazione scritta che indichi l’identità dell’avente economicamente diritto dei valori patrimoniali.
+
+<sup>4</sup> Se l’intermediario finanziario non nutre dubbi sul fatto che la controparte o il detentore del controllo sia anche l’avente economicamente diritto dei valori patrimoniali, lo documenta in forma adeguata.
+
+#### Art. 60
+
+**Informazioni necessarie**
+
+<sup>1</sup> La dichiarazione scritta della controparte relativa all’avente economicamente diritto dei valori patrimoniali riporta le seguenti informazioni: cognome, nome, data di nascita, indirizzo del domicilio e nazionalità.
+
+<sup>2</sup> La dichiarazione può essere firmata dalla controparte o da una persona con procura. Nel caso delle persone giuridiche, la dichiarazione è firmata da una persona autorizzata ai sensi della documentazione della società.
+
+<sup>3</sup> Se l’avente economicamente diritto proviene da un Paese nel quale la data di nascita o l’indirizzo del domicilio non sono utilizzati, l’obbligo di disporre di queste informazioni decade. Tale deroga è motivata in una nota agli atti.
+
+#### Art. 61
+
+**Operazioni di cassa**
+
+<sup>1</sup> L’intermediario finanziario richiede alla controparte una dichiarazione scritta che indichi l’identità dell’avente economicamente diritto dei valori patrimoniali, se una o più transazioni che sembrano legate tra di loro raggiungono o superano 15 000 franchi.[^61-1]
+
+<sup>2</sup>
+
+L’intermediario finanziario richiede in ogni caso una siffatta dichiarazione:
+
+- a. se sussiste il dubbio che la controparte, il detentore del controllo o l’avente economicamente diritto dei valori patrimoniali siano le stesse persone; o
+- b. se sussistono indizi di riciclaggio di denaro o di finanziamento del terrorismo.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+
+#### Art. 62
+
+**Trasferimento di denaro e di valori**
+
+<sup>In caso di trasferimento di denaro e di valori dalla Svizzera all’estero, la dichiarazione conce</sup> <sup>r</sup><sup>nente l’avente economicamente diritto dei valori p</sup><sup>a</sup><sup>trimoniali è sempre richiesta.</sup>
+
+#### Art. 63
+
+**Società di sede**
+
+<sup>1</sup> Se la controparte è una società di sede, l’intermediario finanziario richiede alla controparte una dichiarazione scritta che indichi chi è l’avente economicamente diritto.
+
+<sup>2</sup>
+
+I seguenti indizi lasciano presumere in particolare che si è in presenza di una società di sede:
+
+- a. la società non dispone di locali propri, per esempio nel caso in cui venga indicato un indirizzo c/o, una sede presso un avvocato, una fiduciaria o una banca; oppure
+- b. la società non dispone di personale proprio.
+
+<sup>3</sup> Se, malgrado sussistano uno o entrambi gli indizi di cui al capoverso 2, l’intermediario finanziario non considera la controparte come società di sede, ne motiva le ragioni in una nota da acquisire agli atti.
+
+<sup>4</sup> Le società di sede quotate in borsa e le filiali controllate a maggioranza da siffatte società non sono tenute a presentare una dichiarazione concernente l’avente economicamente diritto.
+
+#### Art. 64
+
+**Unioni di persone, trust e altre unità patrimoniali**
+
+<sup>1</sup>
+
+Nel caso di unioni di persone, trust o altre unità patrimoniali organizzate, l’intermediario finanziario richiede alla controparte una dichiarazione scritta concernente le seguenti persone:
+
+- a. il fondatore effettivo;
+- b. i trustee;
+- c. i curatori, i protettori eventuali e le persone incaricate di funzioni analoghe;
+- d. i beneficiari nominativamente indicati;
+- e. nel caso in cui non sia stato ancora nominativamente indicato alcun beneficiario: la cerchia di persone, suddivisa in categorie, che entra in considerazione come beneficiaria;
+- f. le persone abilitate a impartire istruzioni alla controparte o ai suoi organi;
+- g. nel caso di strutture revocabili: le persone abilitate a effettuare la revoca.
+
+<sup>2</sup> Alle società con un funzionamento analogo a unioni di persone, trust o altre unità patrimoniali organizzate si applica per analogia il capoverso 1.
+
+<sup>3</sup> Un intermediario finanziario che avvia una relazione d’affari o esegue una transazione in qualità di trustee si identifica come tale nei confronti dell’intermediario finanziario, della controparte o del partner della transazione.
+
+#### Art. 65
+
+**Intermediario finanziario sottoposto a vigilanza in virtù di una legge speciale o istituto di previdenza professionale esonerato dall’obbligo fiscale come controparte**
+
+<sup>1</sup>
+
+Non è necessario richiedere una dichiarazione relativa all’avente economicamente diritto se la controparte è:
+
+- a. un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 lettere a o b–c LRD il cui domicilio o la cui sede è in Svizzera;
+- b. una società di intermediazione mobiliare ai sensi dell’articolo 2 capoverso 2 lettera d LRD la cui sede è in Svizzera che tiene personalmente conti secondo l’articolo 44 capoverso 1 lettera a LIsFi;
+- c. un intermediario finanziario che esercita un’attività secondo l’articolo 2 capoverso 2 lettere a o b–c LRD il cui domicilio o la cui sede è all’estero, a condizione che sia sottoposto a una vigilanza e a una regolamentazione equivalenti;
+- d. un intermediario finanziario che esercita un’attività secondo l’articolo 2 capoverso 2 lettera d LRD la cui sede è all’estero e tiene personalmente conti;
+- e.[^65-1] un istituto di previdenza professionale esonerato dall’obbligo fiscale ai sensi dell’articolo 2 capoverso 4 lettera b LRD.[^65-2]
+
+<sup>2</sup>
+
+Una dichiarazione relativa all’avente economicamente diritto è sempre richiesta alla controparte se:
+
+- a. sussistono indizi di riciclaggio di denaro o di finanziamento del terrorismo;
+- b. la FINMA ha messo in guardia contro abusi in generale o contro una determinata controparte;
+- c. la FINMA ha messo in guardia in generale contro gli istituti finanziari del Paese in cui la controparte ha la sede o il domicilio.
+
+[^65-1]: Introdotta dal n. I dell’O della FINMA del 10 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
+[^65-2]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 65a
+
+**Assicurazione sulla vita con tenuta di conto o di deposito separata (*insurance wrapper*)**[^65a-1]
+
+<sup>1</sup>
+
+Per un’assicurazione sulla vita, l’intermediario finanziario deve procurarsi dalla controparte una dichiarazione sullo stipulante e, se non si tratta della stessa persona, sul pagatore effettivo del premio, se:
+
+- a. i valori patrimoniali apportati nell’assicurazione provengono da un rapporto contrattuale immediatamente pregresso tra lo stesso e lo stipulante o il pagatore effettivo del premio, ovvero da un rapporto contrattuale di cui questi era l’avente economicamente diritto;
+- b. lo stipulante o il pagatore effettivo del premio detiene una procura o un diritto di informazione sul deposito d’investimento;
+- c. i valori patrimoniali apportati nell’assicurazione vengono amministrati conformemente a una strategia d’investimento concordata tra l’intermediario finanziario e lo stipulante o il pagatore effettivo del premio; oppure
+- d. l’impresa di assicurazione non attesta che il prodotto assicurativo è conforme ai requisiti posti a un’assicurazione sulla vita vigenti nel paese di imposizione fiscale o di domicilio dello stipulante, ivi inclusi i requisiti concernenti i rischi biometrici.
+
+<sup>2</sup> Se l’intermediario finanziario apre una relazione d’affari sulla base di una conferma dell’impresa di assicurazione secondo cui non è presente nessuno dei casi di cui al capoverso 1, tale conferma deve contenere anche una descrizione delle caratteristiche del prodotto assicurativo in relazione ai punti di cui al capoverso 1 lettere a–d.
+
+<sup>3</sup> Se durante la relazione d’affari l’intermediario finanziario constata che lo stipulante o il pagatore effettivo del premio è in grado di influenzare direttamente o indirettamente le decisioni d’investimento individuali in modo diverso da quanto sancito nel capoverso 1, lo stipulante o il pagatore effettivo del premio devono essere definiti per scritto.
+
+[^65a-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 66
+
+**Forma d’investimento collettivo o società di partecipazione come controparte**
+
+<sup>1</sup> Se la controparte è una forma d’investimento collettivo o una società di partecipazione fino a 20 investitori, l’intermediario finanziario richiede una dichiarazione relativa agli aventi economicamente diritto.
+
+<sup>2</sup> Se la controparte è una forma d’investimento collettivo o una società di partecipazione con più di 20 investitori, l’intermediario finanziario richiede una dichiarazione relativa agli aventi economicamente diritto solo se le forme d’investimento o le società di partecipazione non sono assoggettate a una vigilanza e a una regolamentazione adeguate in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>3</sup>
+
+È possibile rinunciare a una dichiarazione relativa all’avente economicamente diritto, se:
+
+- a. la forma d’investimento collettivo o la società di partecipazione è quotata in borsa;
+- b. un intermediario finanziario ai sensi dell’articolo 65 capoverso 1 funge da promotore o sponsor per una forma d’investimento collettivo o una società di partecipazione e dimostra di applicare una regolamentazione adeguata in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+#### Art. 67
+
+**Società semplici**
+
+Se in una relazione d’affari con i soci di una società semplice, i soci stessi sono gli aventi economicamente diritto, non è necessario richiedere una dichiarazione relativa agli aventi economicamente diritto se la società semplice persegue lo scopo di salvaguardare gli interessi dei propri membri o dei loro beneficiari mediante un’azione comune oppure si propone un fine politico, religioso, scientifico, artistico, di pubblica utilità, ricreativo o simile, è composta da più di quattro soci e non intrattiene alcun contatto con Paesi che presentano rischi superiori.
+
+### Sezione 3: Insuccesso dell’identificazione dell’avente economicamente diritto
+
+#### Art. 68
+
+<sup>1</sup> I documenti e le informazioni necessarie per verificare l’identità del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali sono acquisiti interamente prima di effettuare qualsiasi transazione nell’ambito di una relazione d’affari.
+
+<sup>2</sup> Se in merito all’esattezza della dichiarazione della controparte sussistono dubbi che non possono essere dissolti con ulteriori chiarimenti, l’intermediario finanziario rifiuta di entrare in relazione d’affari o interrompe la relazione d’affari in virtù delle disposizioni del capitolo 9 del titolo 1.
+
+### Capitolo 3: Rinnovo dell’identificazione della controparte o accertamento dell’avente economicamente diritto dei valori patrimoniali (art. 5 LRD)
+
+#### Art. 69
+
+**Rinnovo dell’identificazione o accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali**
+
+Nel corso della relazione d’affari occorre procedere nuovamente all’identificazione della controparte o all’accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali, se sorgono dubbi circa:
+
+- a. l’esattezza delle informazioni relative all’identità della controparte o del detentore del controllo;
+- b. il fatto che la controparte o il detentore del controllo sia l’avente economicamente diritto dei valori patrimoniali;
+- c. l’esattezza della dichiarazione consegnata dalla controparte o dal detentore del controllo riguardo all’avente economicamente diritto dei valori patrimoniali.
+
+#### Art. 70
+
+**Interruzione della relazione d’affari**
+
+L’intermediario finanziario interrompe la relazione d’affari secondo le disposizioni del capitolo 9 del titolo 1 il più rapidamente possibile:
+
+- a. se sussistono dubbi in merito a informazioni fornite dalla controparte o dal detentore del controllo anche dopo la conclusione della procedura secondo l’articolo 69;
+- b. se nutre il sospetto che gli siano state scientemente fornite informazioni false sull’identità della controparte, del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali.
+
+#### Art. 71
+
+**Identificazione della controparte e accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali nell’ambito di un gruppo**
+
+<sup>1</sup> Se l’identità della controparte è già stata verificata in seno al gruppo cui appartiene l’intermediario finanziario in modo equiparabile a quello previsto dalla presente ordinanza, una nuova verifica non è necessaria secondo le disposizioni del capitolo 8 del titolo 1.
+
+<sup>2</sup> Lo stesso principio è applicabile quando una dichiarazione relativa al detentore del controllo o all’avente economicamente diritto dei valori patrimoniali è già stata ottenuta in seno al gruppo.
+
+### Capitolo 4: Relazioni d’affari e transazioni che comportano un rischio superiore
+
+#### Art. 72
+
+**Criteri per relazioni d’affari che comportano un rischio superiore**
+
+<sup>1</sup> L’intermediario finanziario che mantiene al massimo 20 relazioni d’affari continue non deve stabilire criteri ai sensi dell’articolo 13 per il riconoscimento di relazioni d’affari che comportano rischi superiori.
+
+<sup>2</sup> Le persone ai sensi dell’articolo 1b LBCR stabiliscono in ogni caso criteri conformemente all’articolo 13.[^72-1]
+
+[^72-1]: Introdotto dal n. I dell’O della FINMA del 5 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
+
+#### Art. 73
+
+**Trasferimento di denaro e di valori**
+
+<sup>1</sup> L’intermediario finanziario fissa i criteri per il riconoscimento delle transazioni che comportano rischi superiori. Utilizza un sistema informatico di rilevamento e sorveglianza delle transazioni che comportano rischi superiori.
+
+<sup>2</sup> I trasferimenti di denaro e di valori sono considerati in ogni caso transazioni che comportano un rischio superiore, se una o più transazioni che sembrano legate tra di loro raggiungono o superano 5000 franchi.
+
+<sup>3</sup> Nei trasferimenti di denaro o di valori devono figurare sulla ricevuta di pagamento il nome e l’indirizzo dell’intermediario finanziario.
+
+<sup>4</sup> L’intermediario finanziario tiene un elenco aggiornato degli ausiliari e degli agenti dei gestori di sistemi cui fa capo.
+
+<sup>5</sup> Un intermediario finanziario che agisce in nome e per conto di altri intermediari finanziari autorizzati o affiliati a un organismo di autodisciplina ai sensi dell’articolo 24 LRD può effettuare operazioni di trasferimento di denaro e di valori soltanto per un unico intermediario finanziario.
+
+### Capitolo 5: Obbligo di allestire e conservare documenti
+
+#### Art. 74
+
+<sup>1</sup>
+
+L’intermediario finanziario conserva in particolare:
+
+- a. una copia dei documenti che sono serviti per l’identificazione della controparte;
+- b. nei casi di cui al capitolo 2 del presente titolo, la dichiarazione scritta della controparte relativa all’identità del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali;
+- c. una nota scritta relativa ai risultati dell’applicazione dei criteri secondo l’articolo 13;
+- d. una nota scritta o i documenti relativi ai risultati dei chiarimenti secondo l’articolo 15;
+- e. i documenti relativi alle transazioni effettuate;
+- f. una copia delle comunicazioni secondo l’articolo 9 capoverso 1 LRD e l’articolo 305<sup>ter</sup> capoverso 2 CP[^74-1];
+- g. un elenco delle sue relazioni d’affari sottoposte alla LRD.
+
+<sup>2</sup> I documenti devono permettere di ricostruire ogni singola transazione.
+
+<sup>3</sup> I documenti e i giustificativi devono essere conservati in Svizzera, in un luogo sicuro e accessibile in ogni momento.
+
+<sup>4</sup> La conservazione dei documenti in forma elettronica deve essere conforme agli articoli 9 e 10 dell’ordinanza del 24 aprile 2002[^74-2] sui libri di commercio. Se il server utilizzato non è situato in Svizzera, l’intermediario finanziario dispone in Svizzera di una copia aggiornata, in forma cartacea o elettronica, dei documenti pertinenti.
+
+[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-2]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+
+### Capitolo 6: Provvedimenti organizzativi
+
+#### Art. 75
+
+**Servizio di lotta contro il riciclaggio di denaro per intermediari finanziari**[^75-1]
+
+<sup>1</sup>
+
+Il servizio di lotta contro il riciclaggio di denaro di un intermediario finanziario deve svolgere esclusivamente i compiti di cui all’articolo 24, se:
+
+- a. l’intermediario finanziario impiega non più di cinque persone a tempo pieno nell’impresa oppure realizza un ricavo lordo annuo inferiore a 2 milioni di franchi; e
+- b. il suo modello aziendale è privo di rischi elevati.
+
+<sup>2</sup> Se è necessario per sorvegliare il rispetto degli obblighi in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo, la FINMA può esigere anche da un intermediario finanziario che soddisfa le condizioni di cui al capoverso 1 che il servizio di lotta contro il riciclaggio di denaro svolga anche i compiti di cui all’articolo 25.
+
+<sup>3</sup> I valori soglia di cui al capoverso 1 lettera a devono essere raggiunti in due di tre esercizi precedenti oppure previsti nella pianificazione dell’attività.
+
+[^75-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 75a
+
+**Servizio di lotta contro il riciclaggio di denaro per le persone ai sensi dell’articolo 1*b* LBCR**[^75a-1]
+
+<sup>1</sup> Nel caso di persone secondo l’articolo 1*b* LBCR[^75a-2] che soddisfano i requisiti per le agevolazioni concernenti la gestione del rischio e la *compliance* conformemente all’articolo 14*e* capoverso 5 dell’ordinanza sulle banche del 30 aprile 2014[^75a-3], il servizio di lotta contro il riciclaggio di denaro deve adempiere esclusivamente i compiti di cui all’articolo 24. Tali compiti possono essere svolti anche dalla direzione o da un membro della direzione. Le attività da controllare non possono essere controllate da una persona direttamente responsabile per tale relazione d’affari.
+
+<sup>2</sup> La FINMA può in ogni caso richiedere l’adempimento dei compiti secondo l’articolo 25, se ciò è necessario ai fini della lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+[^75a-1]: Introdotto dal n. I dell’O della FINMA del 5 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
+[^75a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^75a-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+#### Art. 76
+
+[^76-1]
+
+[^76-1]: Abrogato dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, con effetto dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+## Titolo 6: Disposizioni finali e transitorie
+
+#### Art. 77
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza della FINMA dell’8 dicembre 2010[^77-1] sul riciclaggio di denaro è abrogata.
+
+[^77-1]: [[RU 2010 6295](https://fedlex.data.admin.ch/eli/oc/2010/885)]
+
+#### Art. 78
+
+**Disposizioni transitorie**
+
+<sup>1</sup> L’intermediario finanziario attua le disposizioni degli articoli 26 capoverso 2 lettera k e 73 capoverso 1 al più tardi dal 1° gennaio 2017.
+
+<sup>2</sup> Gli emittenti dei mezzi di pagamento attuano il monitoraggio delle transazioni in relazione con la controparte ai sensi dell’articolo 12 capoversi 2 e 3 al più tardi dal 1° luglio 2017.
+
+<sup>3</sup> Le disposizioni concernenti l’accertamento del detentore del controllo sono applicabili alle relazioni d’affari avviate dal 1° gennaio 2016. Per quanto riguarda le relazioni d’affari già in essere al 1° gennaio 2016, tali disposizioni sono applicabili se nel corso della relazione d’affari è necessario rinnovare l’identificazione della controparte o l’accertamento dell’avente economicamente diritto dei valori patrimoniali.
+
+#### Art. 78a
+
+**Disposizioni transitorie della modifica del 4 novembre 2020**[^78a-1]
+
+<sup>1</sup> Per gli intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup> LRD la presente ordinanza si applica dal rilascio dell’autorizzazione ai sensi dell’articolo 74 capoverso 2 LIsFi[^78a-2].
+
+<sup>2</sup> L’articolo 65*a* si applica alle relazioni d’affari che sono state nuovamente avviate dopo il rilascio dell’autorizzazione secondo l’articolo 74 capoverso 2 LIsFi.
+
+[^78a-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^78a-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+#### Art. 79
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2016.
+
+Allegato
+
+(art. 38)
+
+## Indizi di riciclaggio di denaro
+
+### 1 Importanza degli indizi
+
+- 1\.1 Gli intermediari finanziari tengono conto degli indizi di riciclaggio elencati qui di seguito, in quanto forniscono indicazioni sulle relazioni d’affari o sulle transazioni che comportano un rischio superiore. Di per sé i singoli indizi non permettono di fondare un sospetto sufficiente dell’esistenza di una transazione di riciclaggio passibile di pena, tuttavia il concorso di diversi di questi elementi può indicarne la presenza.
+- 1\.2 La plausibilità delle dichiarazioni del cliente sul retroscena economico di tali operazioni deve essere verificata. Al riguardo è importante che non tutte le dichiarazioni del cliente siano accettate senza essere esaminate.
+
+### 2 Indizi generali
+
+- 2\.1 Una transazione presenta rischi particolari di riciclaggio se:
+- 2\.1.1 la sua costruzione indica uno scopo illecito, il suo scopo economico non è riconoscibile oppure essa appare economicamente assurda;
+- 2\.1.2 i valori patrimoniali sono ritirati poco tempo dopo essere stati versati (conto di passaggio), sempre che l’attività commerciale del cliente non renda plausibile un tale ritiro immediato;
+- 2\.1.3 non sono chiari i motivi per cui il cliente ha scelto proprio questo intermediario finanziario o questa sede per i suoi affari;
+- 2\.1.4 essa ha per conseguenza che un conto, rimasto fino ad allora ampiamente inattivo, diventi molto attivo senza che se ne possa riscontrare un motivo plausibile;
+- 2\.1.5 essa non è compatibile con le informazioni e le esperienze dell’intermediario finanziario concernenti il cliente o lo scopo della relazione d’affari.
+- 2\.2 È inoltre considerato sospetto ogni cliente che comunica all’intermediario finanziario informazioni false o ingannevoli oppure che, senza ragioni plausibili, rifiuta di fornire i documenti o le informazioni usuali e necessarie per la relazione d’affari e per l’attività indicata.
+- 2\.3 Può costituire un motivo di sospetto il fatto che un cliente riceva periodicamente bonifici da una banca con sede in uno dei Paesi considerati dal Gruppo d’azione finanziaria (GAFI) a rischio elevato (high risk) oppure non cooperativi, o che un cliente effettui ripetutamente bonifici in direzione di uno di questi Paesi.
+- 2\.4 Può inoltre costituire un motivo di sospetto il fatto che un cliente effettui periodicamente bonifici in direzione di località ubicate in prossimità geografica alle aree in cui operano le organizzazioni terroristiche.
+
+### 3 Indizi specifici
+
+### 3.1 Operazioni di cassa
+
+- 3\.1.1 Cambio di un grosso importo in biglietti di banca di piccolo taglio (svizzeri o esteri) in biglietti di grosso taglio;
+- 3\.1.2 operazioni di cambio importanti, senza contabilizzazione sul conto di un cliente;
+- 3\.1.3 incasso di importi importanti tramite assegni, inclusi traveller’s chèques;
+- 3\.1.4 acquisto o vendita di grandi quantità di metalli preziosi da clienti occasionali;
+- 3\.1.5 acquisto di assegni bancari per grossi importi da clienti occasionali;
+- 3\.1.6 ordini di bonifico all’estero impartiti da clienti occasionali, senza ragioni legittime apparenti;
+- 3\.1.7 ripetuta conclusione di operazioni di cassa fino a un importo di poco inferiore al limite al di sopra del quale è richiesta l’identificazione del cliente;
+- 3\.1.8 acquisto di titoli al portatore mediante consegna fisica.
+
+### 3.2 Operazioni tramite conto o tramite depositi
+
+- 3\.2.1 Ritiro frequente di grossi importi in contanti senza che l’attività del cliente giustifichi una tale operazione;
+- 3\.2.2 ricorso a metodi di finanziamento il cui impiego, per quanto usuale nel commercio internazionale, risulta in contrasto con l’attività conosciuta del cliente;
+- 3\.2.3 conti utilizzati in maniera intensiva, quando normalmente questi conti non sono utilizzati o lo sono in minima misura;
+- 3\.2.4 struttura economica assurda della relazione d’affari tra il cliente e la banca (grande numero di conti presso lo stesso istituto, frequenti trasferimenti tra conti diversi, liquidità eccessiva, ecc.);
+- 3\.2.5 fornitura di garanzie (pegni, fideiussioni) da parte di terzi sconosciuti alla banca che apparentemente non sono in stretta relazione con il cliente né hanno un motivo plausibile per fornire tali garanzie;
+- 3\.2.6 bonifici verso un’altra banca senza indicazione del beneficiario;
+- 3\.2.7 accettazione di bonifici da parte di altre banche senza indicazione del nome o del numero di conto del beneficiario o della controparte ordinante;
+- 3\.2.8 bonifici ripetuti di somme importanti all’estero con ordine di pagamento in contanti al beneficiario;
+- 3\.2.9 bonifici importanti e ripetuti in direzione di o provenienti da Paesi produttori di droga;
+- 3\.2.10 fornitura di fideiussioni o di garanzie bancarie a titolo di garanzia per prestiti tra terzi non conformi alle condizioni del mercato;
+- 3\.2.11 versamenti in contanti da parte di un gran numero di persone diverse sul medesimo conto;
+- 3\.2.12 rimborso inatteso e senza spiegazioni convincenti di un credito compromesso;
+- 3\.2.13 uso di conti pseudonimi o cifrati nell’esecuzione di transazioni commerciali da parte di imprese artigianali, commerciali o industriali;
+- 3\.2.14 prelievo di valori patrimoniali poco tempo dopo il loro accreditamento sul conto (conto di passaggio).
+
+### 3.3 Operazioni fiduciarie
+
+- 3\.3.1 Crediti fiduciari (back-to-back loan) senza scopo lecito riconoscibile;
+- 3\.3.2 detenzione a titolo fiduciario di partecipazioni a società non quotate in borsa, la cui attività non può essere esaminata dall’intermediario finanziario.
+
+### 3.4 Altro
+
+- 3\.4.1 Tentativi del cliente di sottrarsi al contatto personale con l’intermediario finanziario.
+- 3\.4.2 Richiesta di consegna di informazioni ai sensi dell’articolo 11*a* capoverso 2 LRD da parte dell’Ufficio di comunicazione in materia di riciclaggio di denaro.
+
+### 4 Indizi qualificati
+
+- 4\.1 Richiesta del cliente di chiudere un conto e di aprirne altri in nome proprio o in nome di membri della sua famiglia senza lasciare tracce nella documentazione della banca (*paper trail*);
+- 4\.2 richiesta del cliente di ottenere ricevute per prelievi in contanti o per consegne di titoli che non si sono realmente verificati o che sono stati immediatamente depositati nello stesso istituto;
+- 4\.3 richiesta del cliente di effettuare ordini di bonifico con indicazione inesatta dell’ordinante;
+- 4\.4 richiesta del cliente di effettuare determinati pagamenti non direttamente dai propri conti, bensì da conti «Nostro» dell’intermediario finanziario o da conti transitori;
+- 4\.5 richiesta del cliente di accettare o fare documentare garanzie di credito che non corrispondono alla realtà economica o di concedere crediti a titolo fiduciario in base a una copertura fittizia;
+- 4\.6 procedimenti penali contro il cliente dell’intermediario finanziario per crimini, corruzione, uso improprio di denaro pubblico o delitto fiscale qualificato.

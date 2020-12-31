@@ -1,0 +1,41 @@
+---
+sr: "0.423.131.1"
+title: "Erklärung der Schweiz vom 13. Juli 2015 über ihre Teilnahme an der Europäischen Spallationsneutronenquelle (ESS), gegründet als Konsortium für eine Europäische Forschungsinfrastruktur (ERIC)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/299"
+language: de
+version: 2015-09-01
+adopted: 2015-07-13
+in_force: 2015-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/299/20150901/de/xml/fedlex-data-admin-ch-eli-cc-2016-299-20150901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/299/20150901/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Erklärung der Schweiz über ihre Teilnahme an der Europäischen Spallationsneutronenquelle (ESS), gegründet als Konsortium für eine Europäische Forschungsinfrastruktur (ERIC)
+
+AS **2016** 1653; BBl **2014** 6795
+
+Von der Bundesversammlung genehmigt am 20. März 2015[^t-1] Erklärung der Schweiz über ihre Teilnahme hinterlegt am 13. Juli 2015 In Kraft getreten für die Schweiz am 1. September 2015
+
+(Stand am 1. September 2015)
+
+[^t-1]: [AS 2016 1615](https://fedlex.data.admin.ch/eli/oc/2016/297)
+
+Übersetzung*[^ingress-1]*
+
+\1. Die Schweiz, vertreten durch den Schweizerischen Bundesrat, erklärt im Hinblick auf ihren Antrag auf Teilnahme an der Europäischen Spallationsneutronenquelle (ESS) Folgendes:
+
+- (a) Die ESS besitzt nach den schweizerischen Rechts- und Verwaltungsvorschriften Rechtspersönlichkeit sowie Rechts- und Geschäftsfähigkeit gemäss Artikel 7(1) und (2) der Verordnung (EG) Nr. 723/2009 des Rates vom 25. Juni 2009[^ingress-2] über den gemeinschaftlichen Rechtsrahmen für ein Konsortium für eine Europäische Forschungsinfrastruktur (ERIC), in der Fassung der Verordnung (EU) Nr. 1261/2013 des Rates vom 2. Dezember 2013[^ingress-3].
+- (b) Die Teilnahme der Schweiz an der ESS unterliegt Vorschriften, die in Anwendung von Artikel 15 der ERIC-Verordnung bestimmt werden.
+
+\2. Die Schweiz gewährt der ESS eine Behandlung gemäss:
+
+- (a) Artikel 5(1)(d) der Verordnung (EG) Nr. 723/2009, unter Berücksichtigung der in einer Vereinbarung zwischen den Mitgliedern des ESS festgelegten Grenzen und Bedingungen; und
+- (b) Artikel 7(3) der Verordnung (EG) Nr. 723/2009.
+
+\3. Diese Erklärung bindet die Schweiz für die gesamte Dauer ihrer Teilnahme an der ESS.
+
+[^ingress-1]: Übersetzung des englischen Originaltextes.
+[^ingress-2]: ABl. L 206, 8.8.2009, S. 1.
+[^ingress-3]: ABl. L 326, 6.12.2013 S. 1

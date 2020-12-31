@@ -1,0 +1,2381 @@
+---
+sr: "812.21"
+title: "Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)"
+short: HMG
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
+language: de
+version: 2020-08-01
+adopted: 2000-12-15
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20200801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20200801/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über Arzneimittel und Medizinprodukte
+
+(Heilmittelgesetz, HMG)
+
+vom 15. Dezember 2000 (Stand am 1. August 2020)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 95 Absatz 1 und 118 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 1. März 1999[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: BBl **1999** 3453
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Dieses Gesetz soll zum Schutz der Gesundheit von Mensch und Tier gewährleisten, dass nur qualitativ hoch stehende, sichere und wirksame Heilmittel in Verkehr gebracht werden.
+
+<sup>2</sup>
+
+Es soll zudem:
+
+- a. Konsumentinnen und Konsumenten von Heilmitteln vor Täuschung schützen;
+- b. dazu beitragen, dass die in Verkehr gebrachten Heilmittel ihrem Zweck entsprechend und massvoll verwendet werden;
+- c. dazu beitragen, dass eine sichere und geordnete Versorgung mit Heilmitteln, einschliesslich der dafür nötigen fachlichen Information und Beratung, im ganzen Land angeboten wird.
+
+<sup>3</sup>
+
+Beim Vollzug dieses Gesetzes, insbesondere beim Erlass von Verordnungen und bei der Anwendung im Einzelfall, ist darauf zu achten, dass:
+
+- a. die Leistungsfähigkeit und die Unabhängigkeit der schweizerischen Heilmittelkontrolle gewahrt werden;
+- b. für die Forschung und Entwicklung im Heilmittelbereich günstige Rahmenbedingungen bestehen;
+- c. die miteinander im Wettbewerb stehenden Marktpartner den gleichen gesetzlichen Sicherheits- und Qualitätsanforderungen genügen.
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup>
+
+Dieses Gesetz gilt für:
+
+- a. den Umgang mit Heilmitteln (Arzneimittel und Medizinprodukte), insbesondere für die Herstellung und das Inverkehrbringen;
+- b. Betäubungsmittel im Sinne des Betäubungsmittelgesetzes vom 3. Oktober 1951[^2-1], soweit sie als Heilmittel verwendet werden;
+- c. Heilverfahren, wie Gentherapie, soweit sie in unmittelbarem Zusammenhang mit Heilmitteln stehen; der Bundesrat kann dazu besondere Bestimmungen erlassen.
+
+<sup>2</sup> Der Bundesrat kann Medizinprodukte, die zur Anwendung an Tieren oder zur veterinärmedizinischen Diagnostik bestimmt sind, vom Geltungsbereich dieses Gesetzes ganz oder teilweise ausnehmen.
+
+[^2-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+
+#### Art. 3
+
+**Sorgfaltspflicht**
+
+<sup>1</sup> Wer mit Heilmitteln umgeht, muss dabei alle Massnahmen treffen, die nach dem Stand von Wissenschaft und Technik erforderlich sind, damit die Gesundheit von Mensch und Tier nicht gefährdet wird.
+
+<sup>2</sup> Bei Komplementärarzneimitteln ohne Indikationsangabe ist der Stand von Wissenschaft und Technik, unter Einbezug der Prinzipien der entsprechenden Therapierichtung, zu beachten.[^3-1]
+
+[^3-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 4
+
+**Begriffe**
+
+<sup>1</sup>
+
+Im Sinne dieses Gesetzes gelten als:
+
+- a. *Arzneimittel:* Produkte chemischen oder biologischen Ursprungs, die zur medizinischen Einwirkung auf den menschlichen oder tierischen Organismus bestimmt sind oder angepriesen werden, insbesondere zur Erkennung, Verhütung oder Behandlung von Krankheiten, Verletzungen und Behinderungen; zu den Arzneimitteln gehören auch Blut und Blutprodukte;
+- a<sup>bis</sup>.[^4-1] *Arzneimittel mit Indikationsangabe:* Arzneimittel mit behördlich genehmigter Angabe eines bestimmten Anwendungsgebiets, die zur Anwendung nach den Regeln der medizinischen und pharmazeutischen Wissenschaften bestimmt sind;
+- a<sup>ter</sup>.[^4-2] *Komplementärarzneimittel mit Indikationsangabe:* Arzneimittel mit behördlich genehmigter Angabe eines bestimmten Anwendungsgebiets, die nach den Herstellungsvorschriften komplementärmedizinischer Therapierichtungen wie der Homöopathie, der anthroposophischen Medizin oder der traditionellen asiatischen Medizin hergestellt und deren Anwendungsgebiet gemäss den Prinzipien der entsprechenden Therapierichtung festgelegt wird;
+- [tab] a<sup>quater</sup>.[^4-3] *Komplementärarzneimittel ohne Indikationsangabe:* Komplementärarzneimittel ohne behördlich genehmigte Angabe eines bestimmten Anwendungsgebiets, die zur individualtherapeutischen Anwendung bestimmt sind;
+- [tab] a<sup>quinquies</sup>.[^4-4] *Phytoarzneimittel:* Arzneimittel mit Indikationsangabe, die als Wirkstoffe ausschliesslich einen oder mehrere pflanzliche Stoffe oder pflanzliche Zubereitungen enthalten und die nicht den Komplementärarzneimitteln zuzuordnen sind;
+- [tab] a<sup>sexies</sup>.[^4-5] *Originalpräparat:* Arzneimittel, das vom Schweizerischen Heilmittelinstitut (Institut) als erstes mit einem bestimmten Wirkstoff zugelassen wird, einschliesslich aller zum gleichen Zeitpunkt oder später zugelassenen Darreichungsformen;
+- [tab] a<sup>septies</sup>.[^4-6] *Generikum:* ein vom Institut zugelassenes Arzneimittel, das im Wesentlichen gleich ist wie ein Originalpräparat und das mit diesem aufgrund identischer Wirkstoffe sowie seiner Darreichungsform und Dosierung austauschbar ist;
+- [tab] a<sup>octies</sup>.[^4-7] *Referenzpräparat:* biologisches Arzneimittel, das in der Zulassungsdokumentation für ein Biosimilar als Referenz für die Vergleichbarkeit seiner pharmazeutischen Qualität, Wirksamkeit und Sicherheit herangezogen wird;
+- [tab] a<sup>novies</sup>.[^4-8] *Biosimilar:* biologisches Arzneimittel, das eine genügende Ähnlichkeit mit einem vom Institut zugelassenen Referenzpräparat aufweist und auf dessen Dokumentation Bezug nimmt;
+- [tab]
+
+  a<sup>decies</sup>.[^4-9] *wichtiges* *Arzneimittel für seltene Krankheiten (Orphan Drug):* Humanarzneimittel, bei dem nachgewiesen ist, dass:
+
+  - 1\. es der Erkennung, Verhütung oder Behandlung einer lebensbedrohenden oder chronisch invalidisierenden Erkrankung dient, von der zum Zeitpunkt der Gesuchseinreichung höchstens fünf von zehntausend Personen in der Schweiz betroffen sind, oder
+  - 2\. ihm oder seinem Wirkstoff von einem anderen Land mit vergleichbarer Arzneimittelkontrolle im Sinne von Artikel 13 der Status als wichtiges Arzneimittel für seltene Krankheiten zuerkannt wird;
+
+- b. *Medizinprodukte:* Produkte, einschliesslich Instrumente, Apparate, In-vitro-Diagnostika, Software und andere Gegenstände oder Stoffe, die für die medizinische Verwendung bestimmt sind oder angepriesen werden und deren Hauptwirkung nicht durch ein Arzneimittel erreicht wird;
+- c. *Herstellen:* sämtliche Arbeitsgänge der Heilmittelproduktion von der Beschaffung der Ausgangsmaterialien über die Verarbeitung bis zur Verpackung, Lagerung und Auslieferung des Endproduktes sowie die Qualitätskontrollen und die Freigaben;
+- d. *Inverkehrbringen:* das Vertreiben und Abgeben von Heilmitteln;
+- e.[^4-10] *Vertreiben:* die entgeltliche oder unentgeltliche Übertragung oder Überlassung eines Heilmittels, einschliesslich der Tätigkeiten der Mäklerinnen und Mäkler sowie der Agentinnen und Agenten, mit Ausnahme des Abgebens;
+- f. *Abgeben:* die entgeltliche oder unentgeltliche Übertragung oder Überlassung eines verwendungsfertigen Heilmittels für die Verwendung durch den Erwerber oder die Erwerberin sowie für die Anwendung an Drittpersonen oder an Tieren;
+- f<sup>bis</sup>.[^4-11] *Verschreibung:* protokollierter Entscheid einer berechtigten Medizinalperson, der gemäss Artikel 26 Absatz 2 für eine bestimmte Person ausgestellt ist und dieser Person ein Zugangsrecht zu medizinischen Leistungen wie Pflegeleistungen, Medikamenten, Analysen oder Medizinprodukten erteilt;
+- g. *Pharmakopöe (Pharmacopoea Europaea* und *Pharmacopoea Helvetica):* eine Sammlung von Vorschriften über die Qualität von Arzneimitteln, pharmazeutischen Hilfsstoffen und einzelnen Medizinprodukten;
+- h.[^4-12] *neuer Wirkstoff**:* Wirkstoff, der in der Schweiz erstmals im Rahmen eines ordentlichen Verfahrens nach Artikel 11 zugelassen wird. Bisher nur in Humanarzneimitteln zugelassene Wirkstoffe gelten als neue Wirkstoffe, wenn sie in Tierarzneimitteln eingesetzt werden, und umgekehrt;
+- i.[^4-13] *ö**ffentliche Apotheke:* kantonal bewilligter Apothekenbetrieb, durch eine Apothekerin oder einen Apotheker geführt, der regelmässige Öffnungszeiten garantiert und einen direkten Zugang für die Öffentlichkeit anbietet;
+- j.[^4-14] *Spitalapotheke:* Einrichtung in einem Spitalbetrieb, die von einer Apothekerin oder einem Apotheker geführt wird und pharmazeutische Dienstleistungen an die Kundschaft des Spitals anbietet;
+- k.[^4-15] *Selbstdispensation:* kantonal bewilligte Abgabe von Arzneimitteln innerhalb einer Arztpraxis beziehungsweise einer ambulanten Institution des Gesundheitswesens, deren Apotheke unter fachlicher Verantwortung einer Ärztin oder eines Arztes mit Berufsausübungsbewilligung steht.
+
+<sup>2</sup> Der Bundesrat kann durch Verordnung die übrigen in diesem Gesetz verwendeten Begriffe sowie die Begriffe nach Absatz 1 voneinander abgrenzen, näher ausführen und gestützt auf neue Erkenntnisse in Wissenschaft und Technik sowie in Anlehnung an die internationale Entwicklung Ausnahmen vorsehen.
+
+[^4-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-7]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-8]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-9]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-10]: Fassung gemäss Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^4-11]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-12]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-13]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-14]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-15]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+## 2. Kapitel: Arzneimittel
+
+### 1. Abschnitt: Herstellung
+
+#### Art. 5
+
+**Bewilligungspflicht**
+
+<sup>1</sup>
+
+Eine Bewilligung des Instituts braucht, wer Arzneimittel:[^5-1]
+
+- a. herstellt;
+- b. Futtermitteln beimischt.
+
+<sup>2</sup>
+
+Der Bundesrat regelt die Ausnahmen von der Bewilligungspflicht. Er kann insbesondere:
+
+- a.[^5-2] die Herstellung von Arzneimitteln nach Artikel 9 Absatz 2 Buchstaben a–c<sup>bis</sup> einer kantonalen Bewilligungs- oder Meldepflicht unterstellen;
+- b. Tierhalter, die für den eigenen Tierbestand Futtermitteln Arzneimittel beimischen, von der Bewilligungspflicht befreien.
+
+<sup>3</sup> Er kann für die Herstellung bestimmter Kategorien pharmazeutischer Hilfsstoffe, die ein erhöhtes Risiko für Patientinnen und Patienten aufweisen, in Übereinstimmung mit den entsprechenden, international anerkannten Anforderungen eine Bewilligungspflicht vorsehen.[^5-3]
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^5-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^5-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 6
+
+**Voraussetzungen**
+
+<sup>1</sup>
+
+Die Bewilligung wird erteilt, wenn:
+
+- a. die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
+- b. ein geeignetes Qualitätssicherungssystem vorhanden ist.
+
+<sup>2</sup> Die zuständige Behörde prüft in einer Inspektion, ob die Voraussetzungen erfüllt sind.
+
+#### Art. 7
+
+**Anforderungen an die Herstellung**
+
+<sup>1</sup> Arzneimittel und pharmazeutische Hilfsstoffe, deren Herstellung einer Bewilligung bedarf, müssen nach den anerkannten Regeln der Guten Herstellungspraxis hergestellt werden.[^7-1]
+
+<sup>2</sup> Der Bundesrat umschreibt die anerkannten Regeln der Guten Herstellungspraxis näher. Er berücksichtigt dabei international anerkannte Richtlinien und Normen.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 7a
+
+**Öffentliche Apotheken und Spitalapotheken**[^7a-1]
+
+Öffentliche Apotheken und Spitalapotheken müssen über eine Herstellungsbewilligung in folgendem Umfang verfügen:
+
+- a. öffentliche Apotheken: über eine Bewilligung, die mindestens die Herstellung von Arzneimitteln nach Artikel 9 Absatz 2 Buchstabe a erlaubt;
+- b. Spitalapotheken: über eine Bewilligung, die mindestens die Herstellung von Arzneimitteln nach Artikel 9 Absatz 2 erlaubt.
+
+[^7a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 2. Abschnitt: Grundsatz des Inverkehrbringens und Zulassungsverfahren
+
+#### Art. 8
+
+**Grundsatz des Inverkehrbringens**[^8-1]
+
+Werden Arzneimittel oder pharmazeutische Hilfsstoffe in Verkehr gebracht, so müssen sie den Anforderungen der Pharmakopöe oder anderer vom Institut anerkannter Arzneibücher entsprechen, sofern entsprechende Vorschriften aufgeführt sind.
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 9
+
+**Zulassung**
+
+<sup>1</sup> Verwendungsfertige Arzneimittel und Tierarzneimittel, die zur Herstellung von Fütterungsarzneimitteln bestimmt sind (Arzneimittelvormischungen), dürfen nur in Verkehr gebracht werden, wenn sie vom Institut zugelassen sind. Vorbehalten sind internationale Abkommen über die Anerkennung von Zulassungen.
+
+<sup>2</sup>
+
+Keine Zulassung brauchen:
+
+- a.[^9-1] Arzneimittel, die in einer öffentlichen Apotheke oder in einer Spitalapotheke in Ausführung einer ärztlichen Verschreibung für eine bestimmte Person oder einen bestimmten Personenkreis oder für ein bestimmtes Tier oder einen bestimmten Tierbestand hergestellt werden (*Formula magistra**lis*); gestützt auf eine solche Verschreibung kann das Arzneimittel in der öffentlichen Apotheke oder der Spitalapotheke *ad hoc* oder defekturmässig hergestellt, aber nur auf ärztliche Verschreibung hin abgegeben werden;
+- b.[^9-2] Arzneimittel, die in einer öffentlichen Apotheke, einer Spitalapotheke, einer Drogerie oder in einem anderen Betrieb, der über eine Herstellungsbewilligung verfügt, nach einer speziellen Präparate-Monografie der Pharmakopöe oder eines andern vom Institut anerkannten Arzneibuchs oder Formulariums ad hoc oder defekturmässig hergestellt werden und die für die Abgabe an die eigene Kundschaft bestimmt sind (*Formula officinalis*);
+- c.[^9-3] nicht verschreibungspflichtige Arzneimittel, die in einer öffentlichen Apotheke, einer Spitalapotheke, einer Drogerie oder in einem anderen Betrieb, der über eine Herstellungsbewilligung verfügt, im Rahmen der Abgabekompetenz der für die Herstellung verantwortlichen Person gemäss Artikel 25 nach einer eigenen oder einer in der Fachliteratur veröffentlichten Formel *ad hoc* oder defekturmässig hergestellt werden und die für die Abgabe an die eigene Kundschaft bestimmt sind;
+- c<sup>bis</sup>.[^9-4] Arzneimittel, für die nachweislich kein alternativ anwendbares und gleichwertiges Arzneimittel zugelassen oder verfügbar ist, die in einer Spitalapotheke gemäss einer spitalinternen Arzneimittelliste defekturmässig hergestellt werden und für die Abgabe an die eigene Kundschaft bestimmt sind;
+- d. Arzneimittel für klinische Versuche;
+- e. Arzneimittel, die nicht standardisierbar sind;
+- f.[^9-5] Arzneimittel, die am 1. Januar 2002 in einem Kanton zugelassen waren und sich im Zeitpunkt des Inkrafttretens der Änderung vom 18. März 2016 noch in Verkehr befinden; sie sind entsprechend zu kennzeichnen und dürfen ausschliesslich im betreffenden Kanton in Verkehr gebracht und nur durch Personen abgegeben werden, die nach diesem Gesetz zur Abgabe von Arzneimitteln berechtigt sind.
+
+<sup>2</sup> <sup>bis</sup> Mit der Herstellung von Arzneimitteln nach Absatz 2 Buchstaben a–c<sup>bis</sup> darf ein Betrieb mit Herstellungsbewilligung beauftragt werden (Lohnherstellung).[^9-6]
+
+<sup>2ter</sup> Betriebe mit einer Herstellungsbewilligung des Instituts können ein Komplementärarzneimittel, für das nachweislich kein alternativ anwendbares und gleichwertiges Arzneimittel verfügbar oder zugelassen ist, auch ohne Lohnherstellungsauftrag nach Absatz 2<sup>bis</sup> herstellen und an Betriebe, die nach Absatz 2 Buchstaben a, b und c herstellberechtigt sind, vertreiben. Ein Betrieb darf pro Wirkstoff und Jahr höchstens 100 Packungen eines solchen Arzneimittels mit insgesamt höchstens 3000 Tagesdosen herstellen; bei homöopathischen und anthroposophischen Arzneimitteln gilt diese Beschränkung für jede Verdünnungsstufe einzeln.[^9-7]
+
+<sup>2quater</sup> Der Bundesrat legt die qualitativen und quantitativen Kriterien für die Arzneimittel fest, die nach den Absätzen 2 Buchstaben a–c<sup>bis</sup> und 2<sup>bis</sup> hergestellt werden, und die qualitativen Kriterien für Arzneimittel, die nach Absatz 2<sup>ter</sup> hergestellt werden.[^9-8]
+
+<sup>3</sup> Der Bundesrat kann für Arzneimittel, die nicht standardisierbar sind, eine Zulassung für das Gewinnungs- oder Herstellungsverfahren vorschreiben.
+
+<sup>4</sup> ...[^9-9]
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-2]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-3]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-4]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^9-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-6]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-7]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-8]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-9]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 9a
+
+**Befristete Zulassung**[^9a-1]
+
+<sup>1</sup>
+
+Das Institut kann Arzneimittel gegen Krankheiten, die lebensbedrohend sind oder eine Invalidität zur Folge haben, in einem vereinfachten Verfahren gemäss Artikel 14 Absatz 1 befristet zulassen, wenn:
+
+- a. es mit dem Schutz der Gesundheit vereinbar ist;
+- b. von deren Anwendung ein grosser therapeutischer Nutzen zu erwarten ist; und
+- c. in der Schweiz kein zugelassenes, alternativ anwendbares und gleichwertiges Arzneimittel verfügbar ist.
+
+<sup>2</sup> Das Institut legt die Nachweise fest, die für die Beurteilung eines Gesuchs nach Absatz 1 einzureichen sind.
+
+[^9a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 9b
+
+**Befristete Bewilligung zur Anwendung und zum begrenzten Inverkehrbringen**[^9b-1]
+
+<sup>1</sup> Das Institut kann die Anwendung von Arzneimitteln nach Artikel 9 Absatz 2 Buchstabe d an bestimmten Personen oder an einem bestimmten Personenkreis ausserhalb klinischer Versuche befristet bewilligen.
+
+<sup>2</sup>
+
+Ebenfalls kann es das zeitlich oder mengenmässig begrenzte Inverkehrbringen eines Arzneimittels zur Überbrückung einer temporären Nichtverfügbarkeit eines identischen, in der Schweiz zugelassenen Arzneimittels bewilligen, sofern:
+
+- a. das Arzneimittel in einem andern Land mit vergleichbarer Arzneimittelkontrolle zugelassen ist; und
+- b. in der Schweiz kein im Wesentlichen gleiches Arzneimittel zugelassen und verfügbar ist.
+
+[^9b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 10
+
+**Zulassungsvoraussetzungen**
+
+<sup>1</sup>
+
+Wer um die Zulassung ersucht, muss:[^10-1]
+
+- a.[^10-2] bei Arzneimitteln mit Indikationsangabe oder bei Verfahren belegen, dass sie qualitativ hochstehend, sicher und wirksam sind;
+- a<sup>bis</sup>.[^10-3]
+
+  bei Komplementärarzneimitteln ohne Indikationsangabe jederzeit anhand einer Dokumentation:
+
+  - 1\. nachweisen können, dass sie qualitativ hochstehend sind, und
+  - 2\. glaubhaft machen können, dass vom betreffenden Arzneimittel keine Gefahr für die Sicherheit der Konsumentinnen und Konsumenten ausgeht;
+
+- b. über eine Herstellungs-, Einfuhr- oder Grosshandelsbewilligung der zuständigen Behörde verfügen;
+- c. Wohnsitz, Geschäftssitz oder eine Zweigniederlassung in der Schweiz begründet haben.
+
+<sup>2</sup> Das Institut überprüft die Zulassungsvoraussetzungen. Es kann dazu produktespezifische Inspektionen durchführen.
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^10-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^10-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 11
+
+**Zulassungsgesuch**[^11-1]
+
+<sup>1</sup>
+
+Das Zulassungsgesuch muss alle für die Beurteilung wesentlichen Angaben und Unterlagen enthalten, insbesondere:
+
+- a. die Bezeichnung des Arzneimittels;
+- b. den Hersteller und die Vertriebsfirma;
+- c. die Herstellungsmethode, die Zusammensetzung, die Qualität und die Haltbarkeit.
+
+<sup>2</sup>
+
+Mit dem Gesuch um Zulassung folgender Arzneimittel sind zusätzlich folgende Angaben und Unterlagen einzureichen:
+
+- a.
+
+  Arzneimittel mit Indikationsangabe:
+
+  - 1\. die Ergebnisse der physikalischen, chemischen, galenischen und biologischen oder mikrobiologischen Prüfungen,
+  - 2\. die Ergebnisse der pharmakologischen, toxikologischen und der klinischen Prüfungen, einschliesslich sämtlicher Ergebnisse aus Prüfungen in besonderen Bevölkerungsgruppen,
+  - 3\. die Heilwirkungen und die unerwünschten Wirkungen,
+  - 4\. die Kennzeichnung, die Arzneimittelinformation sowie die Abgabe- und die Anwendungsart,
+  - 5\. eine Bewertung der Risiken und soweit erforderlich ein Plan zu ihrer systematischen Erfassung, Abklärung und Prävention (Pharmacovigilance-Plan),
+  - 6\. das pädiatrische Prüfkonzept nach Artikel 54*a*;
+
+- b.
+
+  Arzneimittel für Tiere, die für die Lebensmittelproduktion gehalten werden:
+
+  - 1\. die Angaben und Unterlagen nach Buchstabe a,
+  - 2\. der Rückstandsnachweis,
+  - 3\. die Absetzfristen.
+
+<sup>3</sup> Für die Zulassung von Verfahren nach Artikel 9 Absatz 3 sind neben den Angaben und Unterlagen nach Absatz 1 diejenigen nach Absatz 2 Buchstabe a einzureichen.
+
+<sup>4</sup> Das Institut umschreibt die Angaben und Unterlagen nach den Absätzen 1–3 näher.
+
+<sup>5</sup>
+
+Der Bundesrat legt Folgendes fest:
+
+- a. die Anforderungen an die Organisation, Durchführung und Aufzeichnung der pharmakologischen und toxikologischen Prüfungen nach Absatz 2 Buchstabe a Ziffer 2 und das Kontrollverfahren; dabei berücksichtigt er international anerkannte Richtlinien und Normen;
+- b. die Sprachen, in denen gekennzeichnet und informiert werden muss.
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 11a
+
+**Unterlagenschutz im Allgemeinen**[^11a-1]
+
+Die Unterlagen zu einem Arzneimittel, das mindestens einen neuen Wirkstoff enthält und im Verfahren nach Artikel 11 zugelassen wird, sind während zehn Jahren geschützt.
+
+[^11a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 11b
+
+**Unterlagenschutz in Spezialfällen**[^11b-1]
+
+<sup>1</sup> Werden zu einem Arzneimittel mit einem oder mehreren bekannten Wirkstoffen, Unterlagen zu neuen Indikationen, Verabreichungswegen, Darreichungsformen oder Dosierungen oder zu dessen Anwendung auf eine neue Zieltierart eingereicht, so sind diese während drei Jahren geschützt.
+
+<sup>2</sup> Für eine neue Indikation wird diese Schutzdauer durch das Institut auf Antrag hin auf 10 Jahre festgelegt, wenn ein bedeutender klinischer Nutzen gegenüber bestehenden Therapien erwartet werden kann und die Indikation durch umfangreiche klinische Prüfungen gestützt wird.
+
+<sup>3</sup> Das Institut gewährt auf Antrag hin einen Unterlagenschutz von zehn Jahren für ein Arzneimittel speziell und ausschliesslich für die pädiatrische Anwendung gemäss pädiatrischem Prüfkonzept, sofern kein Unterlagenschutz für ein anderes vom Institut zugelassenes Arzneimittel mit dem gleichen Wirkstoff für die gleiche spezielle pädiatrische Anwendung besteht.
+
+<sup>4</sup> Handelt es sich um ein wichtiges Arzneimittel für seltene Krankheiten, so gewährt das Institut auf Antrag hin einen Unterlagenschutz von fünfzehn Jahren.
+
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten.
+
+[^11b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 12
+
+**Zulassung von im Wesentlichen gleichen Arzneimitteln**[^12-1]
+
+<sup>1</sup>
+
+Das Gesuch um Zulassung eines Arzneimittels, das im Wesentlichen gleich ist wie ein Arzneimittel, dessen Unterlagen gemäss Artikel 11*a* oder 11*b* geschützt sind, kann sich auf die Ergebnisse dessen pharmakologischer, toxikologischer und klinischer Prüfungen stützen, wenn:
+
+- a. die Inhaberin der Zulassung des Arzneimittels mit Unterlagenschutz schriftlich zustimmt; oder
+- b. der Schutz der entsprechenden Unterlagen abgelaufen ist.
+
+<sup>2</sup> Stimmt die Zulassungsinhaberin nicht zu, so ist die Erteilung einer Zulassung eines im Wesentlichen gleichen Arzneimittels frühestens am ersten Tag nach Ablauf der Schutzdauer des Arzneimittels mit Unterlagenschutz zulässig. Ein entsprechendes Gesuch um Zulassung kann frühestens zwei Jahre vor dem Ablauf der Schutzdauer eingereicht werden.
+
+[^12-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 13
+
+**Im Ausland zugelassene Arzneimittel und Verfahren**
+
+Ist ein Arzneimittel oder ein Verfahren bereits in einem andern Land mit vergleichbarer Arzneimittelkontrolle zugelassen, so werden die Ergebnisse der dafür durchgeführten Prüfungen berücksichtigt.
+
+#### Art. 14
+
+**Vereinfachte Zulassungsverfahren**
+
+<sup>1</sup>
+
+Das Institut sieht für bestimmte Kategorien von Arzneimitteln vereinfachte Zulassungsverfahren vor, wenn dies mit den Anforderungen an Qualität, Sicherheit und Wirksamkeit vereinbar ist und weder Interessen der Schweiz noch internationale Verpflichtungen entgegenstehen. Dies gilt insbesondere für:
+
+- a. Arzneimittel mit bekannten Wirkstoffen;
+- a<sup>bis</sup>.[^14-1] Arzneimittel, deren Wirkstoffe in einem Arzneimittel verwendet werden, das zum Zeitpunkt der Gesuchseinreichung nachweislich seit mindestens 10 Jahren in mindestens einem Land der EU oder EFTA als Arzneimittel zugelassen ist und das hinsichtlich Indikationen, Dosierung und Applikationsart vergleichbar ist;
+- a<sup>ter</sup>.[^14-2] nicht verschreibungspflichtige Arzneimittel mit Indikationsangabe, die zum Zeitpunkt der Gesuchseinreichung nachweislich seit mindestens 30 Jahren medizinisch verwendet werden, davon mindestens 15 Jahre in Ländern der EU und der EFTA;
+- [tab] a<sup>quater</sup>.[^14-3]Arzneimittel, die zum Zeitpunkt der Gesuchseinreichung nachweislich mindestens 15 Jahre in einem Kanton als Arzneimittel zugelassen sind;
+- b.[^14-4] Komplementärarzneimittel;
+- c.[^14-5] ...
+- c<sup>bis</sup>.[^14-6] Phytoarzneimittel;
+- d.[^14-7] Arzneimittel, die in einer Spitalapotheke oder in einem spitalinternen radiopharmazeutischen Betrieb für den Spitalbedarf hergestellt werden;
+- e. Arzneimittel, die von der Armee hergestellt und für Zwecke des Koordinierten Sanitätsdienstes verwendet werden;
+- f. wichtige Arzneimittel für seltene Krankheiten;
+- g. Tierarzneimittel, die ausschliesslich für Tiere bestimmt sind, die nicht zur Lebensmittelproduktion gehalten werden.
+
+<sup>2</sup>
+
+Das Institut sieht für ein Gesuch eines weiteren Inverkehrbringers für ein in der Schweiz bereits zugelassenes, aus einem Land mit einem gleichwertigen Zulassungssystem eingeführtes Arzneimittel ein vereinfachtes Zulassungsverfahren vor, wenn:
+
+- a. das Arzneimittel den gleichen Anforderungen genügt wie das in der Schweiz bereits zugelassene Arzneimittel, insbesondere denjenigen an die Kennzeichnung und Arzneimittelinformation nach Artikel 11;
+- b. dieser weitere Inverkehrbringer fortwährend sicherstellen kann, dass er für alle von ihm vertriebenen zugelassenen Arzneimittel die gleichen Sicherheits- und Qualitätsanforderungen erfüllt wie der Erstanmelder.
+
+<sup>3</sup> ...[^14-8]
+
+[^14-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-5]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^14-7]: Fassung gemäss Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^14-8]: Aufgehoben durch Ziff. II des BG vom 19. Dez. 2008, mit Wirkung seit 1. Juli 2009 ([AS 2009 2615](https://fedlex.data.admin.ch/eli/oc/2009/349); [BBl 2008 303](https://fedlex.data.admin.ch/eli/fga/2008/109)).
+
+#### Art. 14a
+
+**Zulassungsgesuch im vereinfachten Zulassungsverfahren**[^14a-1]
+
+<sup>1</sup>
+
+Das Gesuch um Zulassung im vereinfachten Verfahren muss für folgende Arzneimittel nachstehende Angaben und Unterlagen enthalten:
+
+- a.
+
+  Arzneimittel nach Artikel 14 Absatz 1 Buchstabe a<sup>bis</sup>:
+
+  - 1\. die Angaben und Unterlagen nach Artikel 11 Absätze 1 und 2 Buchstabe a Ziffern 1–4, wobei die Angaben nach Artikel 11 Absatz 2 Buchstabe a Ziffer 2 ersetzt werden können durch eine Zusammenstellung gleichwertigen wissenschaftlichen Erkenntnismaterials,
+  - 2\. der Nachweis der Zulassungen des ausländischen Vergleichspräparats;
+
+- b.
+
+  Arzneimittel nach Artikel 14 Absatz 1 Buchstabe a<sup>ter</sup>:
+
+  - 1\. die Angaben und Unterlagen nach Artikel 11 Absätze 1 und 2 Buchstabe a Ziffern 1, 3 und 4,
+  - 2\. eine Bewertung der Risiken,
+  - 3\. der Nachweis der 30- beziehungsweise 15-jährigen medizinischen Verwendung;
+
+- c.
+
+  Arzneimittel nach Artikel 14 Absatz 1 Buchstabe a<sup>quater</sup>:
+
+  - 1\. die Angaben und Unterlagen nach Artikel 11 Absätze 1 und 2 Buchstabe a Ziffern 1, 3 und 4,
+  - 2\. eine Bewertung der Risiken,
+  - 3\. die kantonale Zulassung;
+
+- d. Arzneimittel nach Artikel 14 Absatz 1 Buchstabe b: die Angaben und Unterlagen nach Artikel 11 Absätze 1 und 2 Buchstabe a, wobei die Angaben nach Artikel 11 Absatz 2 Buchstabe a Ziffer 2 ersetzt werden können durch äquivalente Angaben gemäss den speziellen Therapierichtungen, insbesondere durch einen bibliografischen Nachweis von Wirksamkeit und Sicherheit oder durch Anwendungsbelege;
+- e. Arzneimittel nach Artikel 14 Absatz 1 Buchstabe c<sup>bis</sup>: die Angaben und Unterlagen nach Artikel 11 Absätze 1 und 2 Buchstabe a, wobei die Angaben nach Artikel 11 Absatz 2 Buchstabe a Ziffer 2 ersetzt werden können durch einen bibliografischen Nachweis von Wirksamkeit und Sicherheit oder durch Anwendungsbelege.
+
+<sup>2</sup>
+
+Während der gesamten Dauer der Zulassung von Arzneimitteln nach Absatz 1 Buchstabe a sind dem Institut die folgenden Informationen zum ausländischen Vergleichspräparat unaufgefordert einzureichen:
+
+- a. alle international erfassten Sicherheitssignale;
+- b. alle Zwischenberichte und abschliessenden Ergebnisse der ausländischen Zulassungsbehörde.
+
+[^14a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 15
+
+**Zulassung aufgrund einer Meldung**[^15-1]
+
+<sup>1</sup>
+
+Aufgrund einer Meldung an das Institut dürfen in Verkehr gebracht werden:
+
+- a. Komplementärarzneimittel ohne Indikationsangabe, deren Wirkstoffe in Listen zu speziellen Therapierichtungen aufgeführt sind;
+- b. weitere Arzneimittel oder Arzneimittelgruppen, bei denen sich aufgrund des geringen Risikopotenzials eine Zulassung im vereinfachten Verfahren als unverhältnismässig erweist.
+
+<sup>2</sup> Das Institut erstellt die Listen nach Absatz 1 Buchstabe a. Es bestimmt die Arzneimittel oder Arzneimittelgruppen nach Absatz 1 Buchstabe b und regelt das Meldeverfahren.
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 16
+
+**Zulassungsentscheid und Zulassungsdauer[^16-1]**
+
+<sup>1</sup> Das Institut verfügt die Zulassung, wenn die Voraussetzungen erfüllt sind. Es kann die Zulassung mit Auflagen und Bedingungen verknüpfen.
+
+<sup>2</sup>
+
+Die Zulassung wird erstmals für fünf Jahre verfügt. Das Institut verfügt eine kürzere Zulassungsdauer, wenn es:
+
+- a. sich um befristete Zulassungen nach Artikel 9*a* handelt; oder
+- b. dies zum Schutz der Gesundheit erforderlich ist.[^16-2]
+
+<sup>3</sup> Die Zulassung von Arzneimitteln aufgrund einer Meldung ist unbefristet gültig.[^16-3]
+
+<sup>4</sup> ...[^16-4]
+
+[^16-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16-4]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 16a
+
+**Widerruf und Übertragung der Zulassung[^16a-2]**[^16a-1]
+
+<sup>1</sup>
+
+Das Institut widerruft die Zulassung eines Arzneimittels, wenn dieses:
+
+- a. innerhalb von drei Jahren nach Erteilung der Zulassung nicht tatsächlich in Verkehr gebracht worden ist;
+- b. sich nach Inverkehrbringen während drei aufeinanderfolgenden Jahren nicht mehr tatsächlich auf dem Markt befindet.
+
+<sup>2</sup> Der Bundesrat kann Ausnahmen von Absatz 1 vorsehen.
+
+<sup>3</sup> Er kann vorsehen, dass bei Arzneimitteln gegen schwerwiegende Krankheiten, Verletzungen oder Behinderungen sowie bei Arzneimitteln mit einer pädiatrischen Indikation oder für die pädiatrische Anwendung die Zulassung bereits vor Ablauf der Frist nach Absatz 1 widerrufen wird. Er bestimmt die Fristen und legt die Kriterien eines solchen Widerrufs fest.[^16a-3]
+
+<sup>4</sup> Beabsichtigt die Zulassungsinhaberin, ein für eine pädiatrische Indikation oder für die pädiatrische Anwendung zugelassenes Arzneimittel nicht mehr weiter in Verkehr zu bringen, für das sie den Schutz nach Artikel 11*b* Absätze 3 und 4 dieses Gesetzes oder nach Artikel 140*n* oder 140*t* des Patentgesetzes vom 25. Juni 1954[^16a-4] erhalten hat, so hat sie diese Absicht in geeigneter Form zu publizieren.[^16a-5]
+
+<sup>5</sup> Die Zulassungsinhaberin hat in der Publikation darauf hinzuweisen, dass sie die Zulassungsdokumentation Dritten zum Zweck der Erlangung einer eigenen Zulassung kostenlos übertragen wird.[^16a-6]
+
+[^16a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+[^16a-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-4]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^16a-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^16a-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 16b
+
+**Erneuerung der Zulassung**[^16b-1]
+
+<sup>1</sup> Die Zulassung wird auf Gesuch hin erneuert, wenn die Zulassungsvoraussetzungen weiterhin erfüllt sind.
+
+<sup>2</sup> Die erneuerte Zulassung gilt in der Regel unbefristet. Das Institut kann sie jedoch befristen, insbesondere Zulassungen nach Artikel 16 Absatz 2 Buchstaben a und b.
+
+[^16b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 16c
+
+**Überprüfung der Zulassung**[^16c-1]
+
+Das Institut kann die Zulassung jederzeit überprüfen; es kann die Zulassung veränderten Verhältnissen anpassen oder widerrufen.
+
+[^16c-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 17
+
+**Behördliche Chargenfreigabe**
+
+<sup>1</sup> Erfordert die Herstellung eines Arzneimittels besondere Massnahmen, insbesondere zur Gewährleistung der Sicherheit, so muss vor dem Vertrieb für jede Charge eine Freigabe durch das Institut eingeholt werden. Vorbehalten sind internationale Abkommen über die Anerkennung von Chargenfreigaben.
+
+<sup>2</sup> Das Institut bestimmt die Kategorien von Arzneimitteln, welche der behördlichen Chargenfreigabe unterstehen, sowie die Anforderungen und das Verfahren.
+
+<sup>3</sup> Es veröffentlicht eine Liste der Arzneimittel, für deren Vertrieb eine Chargenfreigabe erforderlich ist.
+
+### 3. Abschnitt: Einfuhr, Ausfuhr und Handel im Ausland
+
+#### Art. 18
+
+**Bewilligungspflicht**
+
+<sup>1</sup>
+
+Eine Bewilligung des Instituts benötigt, wer berufsmässig:
+
+- a. Arzneimittel für den Vertrieb oder die Abgabe einführt;
+- b. Arzneimittel für den Vertrieb oder die Abgabe ausführt;
+- c. von der Schweiz aus mit Arzneimitteln handelt, ohne dass diese das Gebiet der Schweiz berühren;
+- d. von der Schweiz aus als Mäkler oder Agent für Arzneimittel tätig ist.[^18-1]
+
+<sup>2</sup> Der Bundesrat präzisiert die Anforderungen für die Tätigkeiten nach Absatz 1.[^18-2]
+
+<sup>3</sup>
+
+Er kann Ausnahmen von der Bewilligungspflicht erlassen für:
+
+- a. Medizinalpersonen, die grenzüberschreitend tätig sind;
+- b. internationale Organisationen.
+
+<sup>4</sup> Die Einlagerung in ein Zolllager oder in ein Zollfreilager gilt als Einfuhr.[^18-3]
+
+<sup>5</sup> Der Bundesrat kann für die Durchfuhr besondere Bestimmungen erlassen.
+
+<sup>6</sup> Verlangt ein anderer Staat Ausfuhrzertifikate und Bestätigungen für einzuführende Arzneimittel, so kann das Institut ausfuhrberechtigten Personen diese ausstellen.
+
+[^18-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^18-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^18-3]: Fassung gemäss Anhang Ziff. 17 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+
+#### Art. 19
+
+**Bewilligungsvoraussetzungen**
+
+<sup>1</sup>
+
+Die Bewilligung wird erteilt, wenn:
+
+- a. die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
+- b. ein geeignetes Qualitätssicherungssystem vorhanden ist.
+
+<sup>2</sup> Die Bewilligung wird auch erteilt, wenn die Gesuchstellerin oder der Gesuchsteller bereits über eine Herstellungsbewilligung verfügt. Die Bewilligung nach Artikel 18 Absatz 1 Buchstaben b und c wird zudem erteilt, wenn die Gesuchstellerin oder der Gesuchsteller bereits über eine Einfuhr- oder eine Grosshandelsbewilligung verfügt.
+
+<sup>3</sup> Die zuständige Behörde prüft in einer Inspektion, ob die Bewilligungsvoraussetzungen erfüllt sind.
+
+#### Art. 20
+
+**Besondere Bestimmungen für die Einfuhr**
+
+<sup>1</sup> Eingeführt werden dürfen zugelassene oder nicht zulassungspflichtige Arzneimittel.
+
+<sup>2</sup>
+
+Der Bundesrat kann erlauben, dass nicht zugelassene, verwendungsfertige Arzneimittel in kleinen Mengen eingeführt werden von:
+
+- a. Einzelpersonen für den Eigengebrauch;
+- b. Medizinalpersonen.
+
+<sup>2bis</sup> Er kann erlauben, dass nicht zugelassene, verwendungsfertige, nicht-verschreibungspflichtige Arzneimittel, für die nachweislich kein alternativ anwendbares und gleichwertiges Arzneimittel zugelassen ist, in kleinen Mengen von Fachpersonen gemäss Artikel 25 Absatz 1 Buchstaben b und c im Rahmen ihrer Abgabekompetenzen eingeführt werden.[^20-1]
+
+<sup>3</sup>
+
+Er kann:
+
+- a. vorschreiben, dass die Einfuhr bestimmter Arzneimittel, die zum Schutz der Gesundheit einer besonderen Kontrolle bedürfen, im Einzelfall durch das Institut bewilligt werden muss;
+- b. die Einfuhr bestimmter Arzneimittel beschränken oder verbieten, wenn aus den Umständen erkennbar ist, dass sie für widerrechtliche Zwecke oder missbräuchliche Verwendung bestimmt sein könnten.
+
+<sup>4</sup> Das Institut erstellt eine Liste der Arzneimittel, deren Einfuhr beschränkt oder verboten ist.
+
+[^20-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 21
+
+**Beschränkungen für die Ausfuhr und den Handel im Ausland**
+
+<sup>1</sup>
+
+Es ist verboten, Arzneimittel auszuführen oder mit ihnen Handel im Ausland zu betreiben, wenn:
+
+- a. sie im Zielland verboten sind;
+- b.[^21-1] aus den Umständen erkennbar ist, dass sie für widerrechtliche Zwecke vorgesehen sind; oder
+- c.[^21-2] davon auszugehen ist, dass sie für die Hinrichtung von Menschen bestimmt sind.
+
+<sup>1bis</sup> Der Bundesrat regelt die Anforderungen an die Ausfuhr und den Handel im Ausland von Arzneimitteln, welche für die Hinrichtung von Menschen verwendet werden könnten. Er berücksichtigt dabei die Bestimmungen der EU.[^21-3]
+
+<sup>2</sup> Der Bundesrat kann vorschreiben, dass die Ausfuhr von Arzneimitteln, die in der Schweiz oder im Zielland nicht zugelassen sind, im Einzelfall vom Institut verboten oder einer Beschränkung unterstellt wird.
+
+<sup>3</sup> Das Institut erstellt eine Liste der Arzneimittel, die einer Ausfuhrbeschränkung oder einem Ausfuhrverbot unterliegen.
+
+<sup>4</sup> Es kann im Einzelfall Ausnahmen von der Ausfuhrbeschränkung oder dem Ausfuhrverbot bewilligen, insbesondere wenn die Behörde des Ziellandes der Einfuhr zustimmt.
+
+[^21-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^21-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^21-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 22
+
+**Sorgfaltspflichten bei der Ausfuhr**
+
+<sup>1</sup> Wer verwendungsfertige oder bis auf die Konfektionierung verwendungsfertige Arzneimittel ausführt, hat der belieferten Person unaufgefordert eine angemessene medizinische und pharmazeutische Basisinformation mitzuliefern.
+
+<sup>2</sup> Wer Arzneimittel für klinische Versuche ausführt, muss sich belegen lassen, dass die Regeln der Guten Praxis der klinischen Versuche bei der Anwendung beachtet werden.
+
+### 4. Abschnitt: Vertrieb, Verschreibung, Abgabe und Anwendung****
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 23
+
+**Kategorien von Arzneimitteln**
+
+<sup>1</sup> Die Arzneimittel werden in Kategorien mit und ohne Verschreibungspflicht eingeteilt.
+
+<sup>2</sup> Es wird eine Kategorie frei verkäuflicher Arzneimittel gebildet, für welche weder medizinisch-pharmazeutische noch fachliche Kundenberatung erforderlich ist. Für diese sind die Artikel 24–27 sowie 30 nicht anwendbar.[^23-1]
+
+<sup>3</sup> Der Bundesrat legt die Einteilungskriterien fest.[^23-2]
+
+[^23-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^23-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 23a
+
+**Zuordnung der Arzneimittel zu den einzelnen Kategorien**[^23a-1]
+
+<sup>1</sup> Das Institut ordnet jedes von ihm zugelassene Arzneimittel gemäss den vom Bundesrat festgelegten Einteilungskriterien einer Kategorie zu. Es berücksichtigt dabei die Fachkompetenz der abgabeberechtigten Berufsgruppen.
+
+<sup>2</sup> Es überprüft die Einteilung der Arzneimittel periodisch oder auf Gesuch der Zulassungsinhaberin hin und passt sie dem Stand von Wissenschaft und Technik an.
+
+[^23a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 24
+
+**Abgabe verschreibungspflichtiger Arzneimittel**
+
+<sup>1</sup>
+
+Verschreibungspflichtige Arzneimittel abgeben dürfen:
+
+- a.[^24-1]
+
+  Apothekerinnen und Apotheker auf ärztliche Verschreibung. Sie dürfen solche Arzneimittel auch ohne ärztliche Verschreibung abgeben, wenn sie direkten Kontakt mit der betroffenen Person haben, die Abgabe dokumentieren und es sich um:
+
+  - 1\. Arzneimittel und Indikationen handelt, die der Bundesrat bezeichnet hat, oder
+  - 2\. einen begründeten Ausnahmefall handelt;
+
+- b.[^24-2] weitere Medizinalpersonen entsprechend den Bestimmungen über die Selbstdispensation sowie unter Berücksichtigung von Artikel 1 Absatz 3 Buchstabe c;
+- c. entsprechend ausgebildete Fachpersonen unter der Kontrolle von Personen nach den Buchstaben a und b.
+
+<sup>1bis</sup> Der Bundesrat bestimmt die Form und den Umfang der Dokumentationspflicht nach Absatz 1 Buchstabe a.[^24-3]
+
+<sup>2</sup> Verschreibungspflichtige Fütterungsarzneimittel dürfen, auf tierärztliche Verschreibung, auch von Personen abgegeben werden, die über eine Bewilligung zur Beimischung von Arzneimitteln zu Futtermitteln verfügen.
+
+<sup>3</sup> Die Kantone können bewilligen, dass Personen nach Artikel 25 Absatz 1 Buchstabe c bestimmte verschreibungspflichtige Arzneimittel anwenden.
+
+[^24-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^24-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^24-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 25
+
+**Abgabe nicht verschreibungspflichtiger Arzneimittel**
+
+<sup>1</sup>
+
+Nicht verschreibungspflichtige Arzneimittel abgeben dürfen:
+
+- a. Personen, die verschreibungspflichtige Arzneimittel abgeben dürfen;
+- b.[^25-1] eidgenössisch diplomierte Drogistinnen und Drogisten;
+- c. weitere Personen, die über eine angemessene Ausbildung verfügen, im Rahmen ihrer Abgabekompetenz;
+- d. entsprechend ausgebildete Fachpersonen unter der Kontrolle von Personen nach den Buchstaben a und b.
+
+<sup>2</sup> Der Bundesrat bestimmt, welche Berufskategorien über eine angemessene Ausbildung im Sinne von Absatz 1 Buchstabe c verfügen.
+
+<sup>3</sup> Das Institut legt fest, welche Arzneimittel durch Personen nach Absatz 1 Buchstabe c abgegeben werden dürfen.[^25-2]
+
+<sup>4</sup> ...[^25-3]
+
+<sup>5</sup> Die Kantone können, vorbehältlich der Absätze 2 und 3, Personen, die über eine kantonal anerkannte Ausbildung verfügen, zur Abgabe bestimmter Arzneimittelgruppen wie komplementärmedizinischer Arzneimittel zulassen. Das Institut ist zu informieren.
+
+[^25-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^25-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^25-3]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 26
+
+**Grundsatz für Verschreibung, Abgabe und Anwendung[^26-1]**
+
+<sup>1</sup> Bei der Verschreibung, Abgabe und Anwendung von Arzneimitteln müssen die anerkannten Regeln der medizinischen und pharmazeutischen Wissenschaften beachtet werden, bei Komplementärarzneimitteln ohne Indikationsangabe zudem die Prinzipien der entsprechenden Therapierichtung. Der Bundesrat kann diese Regeln näher umschreiben.[^26-2]
+
+<sup>2</sup> Ein Arzneimittel darf nur verschrieben werden, wenn der Gesundheitszustand der Konsumentin oder des Konsumenten beziehungsweise der Patientin oder des Patienten bekannt ist.
+
+<sup>2bis</sup>
+
+Für die Verschreibung von Arzneimitteln sind folgende Grundsätze und Mindestanforderungen zu beachten:
+
+- a. Die Verschreibung entspricht den Minimalanforderungen, die der Bundesrat nach Anhörung der betroffenen Medizinalberufe festgelegt hat.
+- b. Die Verschreibung wird Eigentum der Person, für die sie ausgestellt wurde. Die Person soll frei in ihrer Entscheidung bleiben, die verschriebene Leistung zu beziehen oder eine Zweitmeinung einzuholen und zu bestimmen, bei welchem zugelassenen Leistungserbringer sie die Verschreibung einlösen will. Bei elektronischen Verschreibungen darf die Wahl des Leistungserbringers nicht durch technische Hindernisse eingeschränkt sein.[^26-3]
+
+<sup>3</sup> Die verschreibende Person darf die Patientinnen und Patienten bei der Wahl der Person, die ihnen die Arzneimittel abgeben wird, nicht beeinflussen, wenn sie daraus einen materiellen Vorteil zieht. Der Bundesrat kann Ausnahmen vorsehen.[^26-4]
+
+<sup>4</sup> Vor jeder Abgabe eines verschreibungspflichtigen Humanarzneimittels muss eine zur Verschreibung und Abgabe berechtigte Person zuhanden der Patientin oder dem Patienten grundsätzlich eine Verschreibung ausstellen. Die Patientin oder der Patient kann auf eine Verschreibung verzichten.[^26-5]
+
+[^26-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019, Bst. A in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^26-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 27
+
+**Versandhandel**
+
+<sup>1</sup> Der Versandhandel mit Arzneimitteln ist grundsätzlich untersagt.
+
+<sup>2</sup>
+
+Eine Bewilligung wird nur erteilt, wenn:
+
+- a. für das betreffende Arzneimittel eine ärztliche Verschreibung vorliegt;
+- b. keine Sicherheitsanforderungen entgegenstehen;
+- c. die sachgemässe Beratung sichergestellt ist;
+- d. eine ausreichende ärztliche Überwachung der Wirkung sichergestellt ist.
+
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten.
+
+<sup>4</sup> Die Kantone erteilen die Bewilligung.
+
+#### Art. 28
+
+**Bewilligung für den Grosshandel**
+
+<sup>1</sup> Wer mit Arzneimitteln Grosshandel betreibt, benötigt dafür eine Bewilligung des Instituts.
+
+<sup>2</sup>
+
+Die Bewilligung wird erteilt, wenn:
+
+- a. die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
+- b. ein geeignetes Qualitätssicherungssystem vorhanden ist.
+
+<sup>3</sup> Die Bewilligung wird auch erteilt, wenn die Gesuchstellerin oder der Gesuchsteller bereits über eine Herstellungs- oder eine Einfuhrbewilligung verfügt.
+
+<sup>4</sup> Die zuständige Behörde prüft in einer Inspektion, ob die Bewilligungsvoraussetzungen erfüllt sind.
+
+#### Art. 29
+
+**Anforderungen an den Grosshandel**[^29-1]
+
+<sup>1</sup> Wer mit Arzneimitteln Grosshandel betreibt, muss die anerkannten Regeln der Guten Vertriebspraxis einhalten.
+
+<sup>2</sup> Der Bundesrat umschreibt die anerkannten Regeln der Guten Vertriebspraxis näher. Er berücksichtigt dabei international anerkannte Richtlinien und Normen.
+
+[^29-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+
+#### Art. 30
+
+**Bewilligung für die Abgabe**[^30-1]
+
+<sup>1</sup> Wer Arzneimittel abgibt, benötigt eine kantonale Bewilligung.
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn die erforderlichen fachlichen Voraussetzungen erfüllt sind und ein geeignetes, der Art und Grösse des Betriebs angepasstes Qualitätssicherungssystem vorhanden ist.
+
+<sup>3</sup> Die Kantone können weitere Voraussetzungen vorsehen. Sie regeln das Bewilligungsverfahren und führen periodische Betriebs- und Praxiskontrollen durch.
+
+[^30-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 5. Abschnitt: Werbung und Preisvergleiche
+
+#### Art. 31
+
+**Grundsatz**
+
+<sup>1</sup>
+
+Grundsätzlich zulässig ist:
+
+- a. Werbung für alle Arten von Arzneimitteln, sofern sie sich ausschliesslich an Personen richtet, die diese Arzneimittel verschreiben oder abgeben;
+- b. Publikumswerbung für nicht verschreibungspflichtige Arzneimittel.
+
+<sup>2</sup> Der Bundesrat regelt die Voraussetzungen für die Bekanntgabe von Preisvergleichen für verschreibungspflichtige Arzneimittel.
+
+<sup>3</sup> Er kann zum Schutz der Gesundheit und zum Schutz gegen Täuschung die Werbung für bestimmte Arzneimittel oder Arzneimittelgruppen beschränken oder verbieten sowie für die grenzüberschreitende Werbung Bestimmungen erlassen.
+
+#### Art. 32
+
+**Unzulässige Werbung**
+
+<sup>1</sup>
+
+Unzulässig ist Werbung:
+
+- a. die irreführend ist oder der öffentlichen Ordnung und den guten Sitten widerspricht;
+- b. die zu einem übermässigen, missbräuchlichen oder unzweckmässigen Einsatz von Arzneimitteln verleiten kann;
+- c.[^32-1] für Arzneimittel, die weder national noch kantonal in Verkehr gebracht werden dürfen.
+
+<sup>2</sup>
+
+Unzulässig ist Publikumswerbung für Arzneimittel, die:
+
+- a. nur auf ärztliche Verschreibung abgegeben werden dürfen;
+- b. Betäubungsmittel oder psychotrope Stoffe im Sinne des Betäubungsmittelgesetzes vom 3. Oktober 1951[^32-2] enthalten;
+- c. nach ihrer Zusammensetzung und Zweckbestimmung so beschaffen sind, dass sie ohne ärztliches Tätigwerden für die entsprechende Diagnose, Verschreibung oder Behandlung nicht verwendet werden können;
+- d. häufig missbraucht werden oder zu Gewöhnung und Abhängigkeit führen können.
+
+[^32-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^32-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+
+#### Art. 33
+
+[^33-1]
+
+[^33-1]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 6. Abschnitt: Besondere Bestimmungen für Blut und Blutprodukte
+
+#### Art. 34
+
+**Betriebsbewilligung**
+
+<sup>1</sup> Wer Menschen Blut entnimmt, um es für Transfusionen oder zur Herstellung von Heilmitteln zu verwenden oder weiterzugeben, benötigt eine Betriebsbewilligung des Instituts.
+
+<sup>2</sup>
+
+Die Bewilligung wird erteilt, wenn:
+
+- a. die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
+- b. ein geeignetes Qualitätssicherungssystem vorhanden ist.
+
+<sup>3</sup> Das Institut überprüft in einer Inspektion, ob die Bewilligungsvoraussetzungen erfüllt sind.
+
+<sup>4</sup> Betriebe wie Spitäler, welche Blut oder Blutprodukte nur lagern, brauchen eine Betriebsbewilligung der Kantone. Die Kantone regeln die Voraussetzungen und das Verfahren für die Erteilung dieser Bewilligung. Sie führen periodisch Betriebskontrollen durch.
+
+#### Art. 35
+
+**Bewilligung für die Einzeleinfuhr**
+
+<sup>1</sup> Für jede einzelne Einfuhr von Blut und Blutprodukten muss eine Einfuhrbewilligung eingeholt werden. Die Einlagerung in ein Zolllager gilt als Einfuhr.
+
+<sup>2</sup> Der Bundesrat kann Ausnahmen von der Einfuhrbewilligung vorsehen, wenn eine Gefährdung von Personen ausgeschlossen ist.
+
+#### Art. 36
+
+**Tauglichkeit der spendenden Person**
+
+<sup>1</sup> Die Inhaberin oder der Inhaber der Bewilligung nach Artikel 34 Absatz 1 muss die Tauglichkeit der spendenden Person überprüfen.
+
+<sup>2</sup>
+
+Vom Blutspenden auszuschliessen sind Personen:
+
+- a. deren Gesundheit durch die Blutentnahme Schaden erleiden kann;
+- b. durch deren Blut Krankheitserreger übertragen werden können.
+
+<sup>3</sup> Der Bundesrat regelt die Anforderungen an die Spendetauglichkeit, die Zuständigkeit für deren Abklärung und die dabei zu erhebenden Daten.
+
+#### Art. 37
+
+**Regeln der Guten Herstellungspraxis im Umgang mit Blut und Blutprodukten**
+
+<sup>1</sup> Der Umgang mit Blut und labilen Blutprodukten, insbesondere die Entnahme, die Herstellung, die Verarbeitung, die Lagerung und das Inverkehrbringen, muss nach den Grundsätzen des Qualitätsmanagements und den Regeln der Guten Herstellungspraxis im Umgang mit Blut und Blutprodukten erfolgen.
+
+<sup>2</sup> Blut und labile Blutprodukte sowie die zugehörigen Blutproben müssen so gekennzeichnet sein, dass sie jederzeit einwandfrei identifiziert werden können.
+
+<sup>3</sup> Der Bundesrat umschreibt die anerkannten Regeln der Guten Herstellungspraxis näher. Er berücksichtigt dabei international anerkannte Richtlinien und Normen.
+
+#### Art. 38
+
+**Testpflicht**
+
+<sup>1</sup> Gespendetes Blut muss auf Krankheitserreger oder auf Hinweise auf Krankheitserreger hin getestet und Abklärungen zur Gewährleistung der Verträglichkeit unterzogen werden.
+
+<sup>2</sup>
+
+Der Bundesrat legt fest:
+
+- a. auf welche Krankheitserreger oder auf welche Hinweise auf Krankheitserreger hin das Blut zu testen ist;
+- b. wie bei reaktivem Testergebnis vorzugehen ist;
+- c. welche Abklärungen zur Gewährleistung der Verträglichkeit vorgenommen werden müssen;
+- d. nach welchen Vorschriften die Tests durchzuführen sind.
+
+<sup>3</sup> Er kann für Eigenbluttransfusionen Ausnahmen von der Testpflicht vorsehen.
+
+#### Art. 39
+
+**Aufzeichnungspflicht**
+
+<sup>1</sup>
+
+Wer mit Blut und Blutprodukten umgeht, muss:
+
+- a. alle für die Sicherheit bedeutsamen Vorgänge aufzeichnen;
+- b. diese Aufzeichnungen so führen, dass die Daten bis zur Person, die das Blut gespendet oder empfangen hat, zurückverfolgt werden können.
+
+<sup>2</sup>
+
+Bei jeder Blutentnahme sind insbesondere aufzuzeichnen:
+
+- a. der Name, der Vorname und das Geburtsdatum der Spenderin oder des Spenders;
+- b. das Datum der Blutentnahme;
+- c. die Testergebnisse und ihre Interpretation.
+
+<sup>3</sup>
+
+Von einer Person, die vom Blutspenden ausgeschlossen wird, sind aufzuzeichnen:
+
+- a. der Name, der Vorname und das Geburtsdatum;
+- b. das Datum und der Grund des Ausschlusses.
+
+<sup>4</sup>
+
+Von einer Person, der Blut oder Blutprodukte verabreicht werden, sind aufzuzeichnen:
+
+- a. der Name, der Vorname und das Geburtsdatum;
+- b. das Datum der Verabreichung;
+- c. die Kennzeichnung und die Herkunft des Bluts oder des Blutprodukts.
+
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten. Er kann insbesondere für Eigenblutspenden Ausnahmen von der Aufzeichnungspflicht vorsehen.
+
+#### Art. 40
+
+**Aufbewahrungspflicht**
+
+<sup>1</sup> Die Aufzeichnungen nach Artikel 39 und alle wichtigen Unterlagen sind während 30 Jahren aufzubewahren.[^40-1]
+
+<sup>2</sup>
+
+Der Bundesrat regelt die Einzelheiten. Er kann insbesondere:
+
+- a. die Übergabe der Aufzeichnungen nach Artikel 39 und der wichtigen Unterlagen ans Institut oder deren Aufbewahrung vorsehen, wenn die Geschäftstätigkeit vor Ablauf der Aufbewahrungsfrist endet;
+- b. für Eigenblutspenden Ausnahmen von der Aufbewahrungspflicht vorsehen.
+
+[^40-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 41
+
+**Weitere Vorschriften**
+
+Der Bundesrat kann weitere Sicherheitsmassnahmen vorschreiben; er kann insbesondere festlegen, dass Verfahren, mit welchen allfällige Krankheitserreger entfernt oder inaktiviert werden, erst nach einer Zulassung durch das Institut angewendet werden dürfen.
+
+### 7. Abschnitt: Besondere Bestimmungen für Tierarzneimittel
+
+#### Art. 42
+
+**Verschreibung und Abgabe**
+
+<sup>1</sup> Ein Arzneimittel darf für Tiere nur verschrieben oder abgegeben werden, wenn die verschreibende Person das Tier oder den Tierbestand kennt.
+
+<sup>2</sup> Ist das Arzneimittel für Nutztiere bestimmt, so muss die verschreibende Person auch deren Gesundheitszustand kennen.
+
+<sup>3</sup> Der Bundesrat kann verbieten, dass für Nutztiere Arzneimittel verschrieben und abgegeben oder an Nutztieren Arzneimittel angewendet werden, die nach Artikel 9 Absatz 2 keine Zulassung brauchen. Er kann die Verschreibung, die Abgabe oder die Anwendung auch beschränken.[^42-1]
+
+[^42-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 42a
+
+**Massnahmen zur Reduktion von Antibiotikaresistenzen**[^42a-1]
+
+<sup>1</sup>
+
+Der Bundesrat kann Massnahmen zur Reduktion von Antibiotikaresistenzen vorsehen, insbesondere:
+
+- a. Massnahmen zur Senkung des Antibiotikaverbrauchs und zur Förderung der Tiergesundheit;
+- b. Anforderungen an die Aus- und Weiterbildung von Tierärztinnen und Tierärzten sowie Tierhalterinnen und Tierhalter.
+
+<sup>2</sup> Er kann zudem den Einsatz von bestimmten antibiotischen Wirkstoffen in der Veterinärmedizin im Einklang mit ausländischen Regelungen einschränken oder verbieten, sofern dies im Hinblick auf eine wirksame Behandlung von Patientinnen und Patienten notwendig erscheint.
+
+[^42a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 43
+
+**Buchführungspflicht**
+
+Wer Tierarzneimittel ein- oder ausführt, vertreibt, abgibt oder an Nutztiere verabreicht oder verabreichen lässt, ist verpflichtet, über den Ein- und Ausgang dieser Arzneimittel Buch zu führen und die Belege aufzubewahren.
+
+#### Art. 44
+
+**Vereinheitlichung und Koordination des Vollzugs**
+
+Der Bundesrat kann den Kantonen Massnahmen für einen einheitlichen Vollzug vorschreiben und sie verpflichten, die zuständigen Bundesstellen über Vollzugsmassnahmen und Untersuchungsergebnisse zu informieren.
+
+## 3. Kapitel: Medizinprodukte
+
+#### Art. 45
+
+**Anforderungen**
+
+<sup>1</sup> Ein Medizinprodukt darf bei seiner bestimmungsgemässen Verwendung die Gesundheit der Anwenderinnen und Anwender, Konsumentinnen und Konsumenten, Patientinnen und Patienten sowie Dritter nicht gefährden. Die angepriesene Leistung oder Wirksamkeit muss nachweisbar sein.
+
+<sup>2</sup> Wer ein Medizinprodukt in Verkehr bringt, muss nachweisen können, dass es die grundlegenden Anforderungen erfüllt.
+
+<sup>3</sup>
+
+Der Bundesrat legt die Anforderungen an Medizinprodukte fest. Er bestimmt insbesondere:
+
+- a. die grundlegenden Anforderungen;
+- b. die Regeln ihrer Klassifizierung;
+- c. die Sprachen für die Produktinformation.
+
+<sup>4</sup> Das Institut bezeichnet die technischen Normen, die geeignet sind, die grundlegenden Anforderungen zu konkretisieren. Soweit möglich bezeichnet es international harmonisierte Normen. Abweichungen bedürfen der Zustimmung der zuständigen Behörde[^45-1].
+
+<sup>5</sup> Der Bundesrat regelt, welche Anforderungen für Medizinprodukte gelten, die für Versuche bestimmt sind.
+
+[^45-1]: Heute: Staatssekretariat für Wirtschaft.
+
+#### Art. 46
+
+**Konformitätsbewertungsverfahren**
+
+<sup>1</sup> Wer ein Medizinprodukt in Verkehr bringt, muss nachweisen können, dass die erforderlichen Konformitätsbewertungsverfahren durchgeführt worden sind.
+
+<sup>2</sup>
+
+Der Bundesrat regelt die Konformitätsbewertungsverfahren. Er bestimmt insbesondere:
+
+- a. die Arten der Verfahren;
+- b. bei welchen Medizinprodukten eine Konformitätsbewertungsstelle für die Überprüfung der Konformität beigezogen werden muss;
+- c. welche Unterlagen erforderlich und wie lange sie aufzubewahren sind.
+
+<sup>3</sup>
+
+Er kann:
+
+- a. für bestimmte Medizinprodukte als Teil des Konformitätsnachweises die Durchführung klinischer Versuche vorschreiben;
+- b. für bestimmte Medizinprodukte oder Medizinproduktegruppen Ausnahmen von der Konformitätsbewertung vorsehen.[^46-1]
+
+[^46-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47
+
+**Weitere Bestimmungen für das Inverkehrbringen**
+
+<sup>1</sup> Wer Medizinprodukte in Verkehr bringt, muss ein Produktebeobachtungssystem einführen und unterhalten, welches erlaubt, die Erfahrungen mit diesen Produkten zu sammeln, auszuwerten und dafür zu sorgen, dass die daraus gewonnenen Erkenntnisse bei der Herstellung oder Weiterentwicklung berücksichtigt werden.
+
+<sup>2</sup>
+
+Der Bundesrat kann:
+
+- a. für das Inverkehrbringen bestimmter Medizinprodukte eine Meldepflicht vorsehen;
+- b. für das Inverkehrbringen bestimmter Medizinprodukte, insbesondere von Invitro-Diagnostika, eine Bewilligungspflicht vorsehen.
+
+#### Art. 48
+
+**Abgabe und Anwendung**
+
+<sup>1</sup>
+
+Zum Schutz der Gesundheit kann der Bundesrat für bestimmte Medizinprodukte:
+
+- a. vorsehen, dass sie nur auf ärztliche Verschreibung abgegeben werden dürfen;
+- b. für die Abgabe und die Anwendung fachliche und betriebliche Voraussetzungen oder eine Meldepflicht festlegen;
+- c. mit der Abgabe die Auflage verbinden, dass die betreffenden Produkte von ihrer Herstellung bis zur Anwendung verfolgt und zurückverfolgt werden können.
+
+<sup>2</sup> Artikel 26 gilt für Medizinprodukte sinngemäss.[^48-1]
+
+[^48-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 49
+
+**Instandhaltungspflicht**
+
+<sup>1</sup> Wer ein Medizinprodukt gewerblich oder an Dritten einsetzt, muss dabei alle Massnahmen für die Instandhaltung treffen, die für die Erhaltung der Leistung und der Sicherheit des Medizinproduktes erforderlich sind.
+
+<sup>2</sup>
+
+Der Bundesrat kann:
+
+- a. für bestimmte Medizinprodukte oder Medizinprodukteklassen festlegen, wie sie in Stand gehalten werden müssen;
+- b. das Nachweisverfahren für die Erfüllung der Instandhaltungspflicht und der Instandhaltungsanforderungen festlegen;
+- c. die Instandhaltung von fachlichen Voraussetzungen abhängig machen.
+
+#### Art. 50
+
+**Einfuhr und Ausfuhr**
+
+<sup>1</sup> Soweit der Schutz der Gesundheit dies erfordert, kann der Bundesrat für die Ein- und Ausfuhr von bestimmten Medizinprodukten Beschränkungen und Verbote festlegen.
+
+<sup>2</sup> Verlangt ein anderer Staat Ausfuhrzertifikate und Bestätigungen für einzuführende Medizinprodukte, so kann das Institut den ausführenden Personen solche ausstellen.
+
+#### Art. 51
+
+**Werbung**
+
+Der Bundesrat kann die Werbung für bestimmte Medizinprodukte zum Schutz der Gesundheit und zum Schutz gegen Täuschung beschränken oder verbieten sowie für die grenzüberschreitende Werbung Bestimmungen erlassen.
+
+## 4. Kapitel: Gemeinsame Bestimmungen für Arzneimittel und Medizinprodukte
+
+### 1. Abschnitt: Pharmakopöe
+
+#### Art. 52
+
+<sup>1</sup> Das Institut erlässt die Pharmakopöe.
+
+<sup>2</sup> Es beteiligt die interessierten Kreise an der Erarbeitung der Pharmakopöe. Es zieht insbesondere Fachleute sowie Arbeitsgruppen bei.
+
+<sup>3</sup> Es beteiligt sich nach Massgabe staatsvertraglicher Vereinbarungen an der Erarbeitung der Europäischen Pharmakopöe *(Pharmacopoea Europaea)* und übernimmt diese in das Bundesrecht. Es kann für die Schweiz zusätzliche Vorschriften erlassen *(Pharmacopoea Helvetica).*
+
+<sup>4</sup> Die Pharmakopöe wird ausserhalb der Amtlichen Sammlung des Bundesrechts publiziert. Der Bundesrat regelt die Einzelheiten und bestimmt insbesondere die Publikationssprachen.
+
+### 2. Abschnitt: Klinische Versuche
+
+#### Art. 53
+
+**Grundsatz**[^53-1]
+
+Auf klinische Versuche mit Heilmitteln am Menschen ist zusätzlich zu den Vorschriften dieses Gesetzes das Humanforschungsgesetz vom 30. September 2011[^53-2] anwendbar.
+
+[^53-1]: Fassung gemäss Anhang Ziff. 6 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^53-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+
+#### Art. 54
+
+**Bewilligungspflicht**[^54-1]
+
+<sup>1</sup> Klinische Versuche mit Heilmitteln bedürfen vor ihrer Durchführung einer Bewilligung des Instituts.
+
+<sup>2</sup>
+
+Ausgenommen von der Bewilligungspflicht sind klinische Versuche mit:
+
+- a. zugelassenen Arzneimitteln, die im Rahmen der zugelassenen Anwendungsbedingungen verabreicht werden;
+- b. konformen Medizinprodukten, die innerhalb der in der Konformitätsbewertung vorgesehenen Zweckbestimmung angewendet werden.
+
+<sup>3</sup>
+
+Der Bundesrat kann:
+
+- a. weitere Versuche von der Bewilligungspflicht ausnehmen oder dafür eine Meldepflicht vorsehen;
+- b. klinische Versuche mit Tierheilmitteln einer Bewilligungs- oder Meldepflicht unterstellen.
+
+<sup>4</sup>
+
+Im Rahmen des Bewilligungsverfahrens prüft das Institut, ob:
+
+- a. die Arzneimittel die Anforderungen der Guten Herstellungspraxis sowie diejenigen an die Arzneimittelsicherheit erfüllen; oder
+- b. die Medizinprodukte die Anforderungen nach Artikel 45 erfüllen, die Produkterisiken im klinischen Versuch berücksichtigt werden sowie ob die Produkteangaben dem wissenschaftlichen Stand entsprechen und im Prüfplan korrekt abgebildet wurden.
+
+<sup>5</sup> Es kann jederzeit mit einer Inspektion prüfen, ob die Durchführung des klinischen Versuchs den Anforderungen dieses Gesetzes sowie denjenigen des Humanforschungsgesetzes vom 30. September 2011[^54-2] genügt.
+
+<sup>6</sup> Der Bundesrat erlässt Vorschriften zum Verfahren. Er kann Änderungen an klinischen Versuchen einer Bewilligungspflicht unterstellen.
+
+<sup>7</sup>
+
+Er kann Melde- und Informationspflichten vorsehen, insbesondere bei:
+
+- a. dem Abschluss oder Abbruch eines klinischen Versuchs;
+- b. unerwünschten Ereignissen im Rahmen eines klinischen Versuchs;
+- c. dem Auftreten von Umständen während der Durchführung eines klinischen Versuchs, die sich auf die Sicherheit oder die Gesundheit der teilnehmenden Personen auswirken können.
+
+<sup>8</sup> Beim Erlass von Vorschriften nach den Absätzen 4 und 5 beachtet der Bundesrat anerkannte internationale Regelungen.
+
+[^54-1]: Fassung gemäss Anhang Ziff. 6 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^54-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+
+#### Art. 54a
+
+**Pädiatrisches Prüfkonzept**[^54a-1]
+
+<sup>1</sup> Für jedes Arzneimittel ist im Hinblick auf dessen Zulassung ein pädiatrisches Prüfkonzept zu erstellen, das die Anforderungen an die Entwicklung des Arzneimittels in der Pädiatrie festlegt und dem Institut zu unterbreiten ist.
+
+<sup>2</sup>
+
+Der Bundesrat regelt:
+
+- a. das Verfahren;
+- b. die Anforderungen an das pädiatrische Prüfkonzept in Anlehnung an die Bestimmungen der EU.
+
+<sup>3</sup> Er kann von der Pflicht zur Erstellung eines pädiatrischen Prüfkonzepts absehen, namentlich für Arzneimittel zur Behandlung von Krankheiten, die nur bei Erwachsenen auftreten. Er kann vorsehen, dass ein von einer ausländischen Behörde beurteiltes pädiatrisches Prüfkonzept berücksichtigt wird.
+
+[^54a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 2*a*. Abschnitt: Integrität und Transparenz
+
+[^chap4-sec2a-1]
+
+[^chap4-sec2a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 55
+
+**Integrität**[^55-1]
+
+<sup>1</sup> Personen, die verschreibungspflichtige Arzneimittel verschreiben, abgeben, anwenden oder zu diesem Zweck einkaufen, und Organisationen, die solche Personen beschäftigen, dürfen weder für sich noch zu Gunsten eines Dritten einen nicht gebührenden Vorteil fordern, sich versprechen lassen oder annehmen. Desgleichen ist es verboten, einer solchen Person oder Organisation zu deren Gunsten oder zu Gunsten eines Dritten einen nicht gebührenden Vorteil anzubieten, zu versprechen oder zu gewähren.
+
+<sup>2</sup>
+
+Keine nicht gebührenden Vorteile sind:
+
+- a. Vorteile von bescheidenem Wert, die für die medizinische oder pharmazeutische Praxis von Belang sind;
+- b. Unterstützungsbeiträge für Forschung, Weiter- und Fortbildung, sofern bestimmte Kriterien erfüllt sind;
+- c. Abgeltungen für gleichwertige Gegenleistungen, insbesondere für solche bei Bestellungen und Lieferungen von Heilmitteln;
+- d. beim Heilmitteleinkauf gewährte Preisrabatte oder Rückvergütungen, sofern sie keinen Einfluss auf die Wahl der Behandlung haben.
+
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten. Er kann die Anwendbarkeit der Absätze 1 und 2 auf weitere Heilmittelkategorien ausweiten.
+
+[^55-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 56
+
+**Transparenzpflicht**[^56-1]
+
+<sup>1</sup> Sämtliche beim Heilmitteleinkauf gewährten Preisrabatte und Rückvergütungen sind in den Belegen und Rechnungen sowie in den Geschäftsbüchern der verkaufenden wie der einkaufenden Personen und Organisationen auszuweisen und den zuständigen Behörden auf Verlangen offenzulegen.
+
+<sup>2</sup> Der Bundesrat regelt die Einzelheiten.
+
+<sup>3</sup> Er kann bei Heilmitteln mit geringem Risikopotenzial Ausnahmen von der Pflicht nach Absatz 1 vorsehen.
+
+[^56-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 57
+
+[^57-1]
+
+[^57-1]: Aufgehoben durch Anhang Ziff. 6 des Humanforschungsgesetzes vom 30. Sept. 2011, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+
+### 3. Abschnitt: Marktüberwachung und Durchführung von Inspektionen
+
+#### Art. 58
+
+**Behördliche Marktüberwachung**
+
+<sup>1</sup> Das Institut und die anderen mit dem Vollzug dieses Gesetzes betrauten Behörden überwachen im Rahmen ihrer Zuständigkeiten die Rechtmässigkeit der Herstellung, des Vertriebs, der Abgabe und der Anpreisung von Heilmitteln.[^58-1] Sie überprüfen mit periodischen Inspektionen, ob die Voraussetzungen für die Bewilligungen noch erfüllt sind.
+
+<sup>2</sup> Das Institut überprüft die in Verkehr gebrachten Heilmittel. Es überprüft die Arzneimittel auf ihre Übereinstimmung mit der Zulassung und die Medizinprodukte auf ihre Übereinstimmung mit den gesetzlich vorgesehenen Anforderungen hin.
+
+<sup>3</sup> Das Institut ist zuständig für die Überwachung der Sicherheit der Heilmittel. Zu diesem Zweck sammelt es insbesondere Meldungen nach Artikel 59, wertet sie aus und trifft die erforderlichen Verwaltungsmassnahmen.
+
+<sup>4</sup> Das Institut und die anderen mit dem Vollzug dieses Gesetzes betrauten Behörden können die dazu notwendigen Muster erheben, die erforderlichen Auskünfte oder Unterlagen verlangen und jede andere erforderliche Unterstützung anfordern. Weder die Muster noch jede andere Art der Unterstützung werden abgegolten.[^58-2]
+
+<sup>5</sup> Die Kantone melden im Rahmen ihrer Überwachungstätigkeit festgestellte Ereignisse, Erkenntnisse und Beanstandungen je nach Zuständigkeit dem Institut oder dem Bundesamt für Gesundheit (BAG). Das Institut oder das BAG trifft die erforderlichen Verwaltungsmassnahmen. Bei einer unmittelbaren und schwerwiegenden Gesundheitsgefährdung können auch Kantone die erforderlichen Verwaltungsmassnahmen treffen.[^58-3]
+
+[^58-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^58-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^58-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 59
+
+**Meldepflicht, Meldesystem und Melderecht**
+
+<sup>1</sup>
+
+Wer Heilmittel herstellt oder verwendungsfertige Heilmittel vertreibt, muss für ein Meldesystem sorgen. Er muss dem Institut unerwünschte Wirkungen und Vorkommnisse melden, die:
+
+- a. auf das Heilmittel selbst, seine Anwendung oder auf unsachgemässe Kennzeichnung oder Gebrauchsanweisung zurückzuführen sind oder zurückgeführt werden könnten;
+- b. die Gesundheit von Konsumentinnen und Konsumenten, Patientinnen und Patienten sowie Dritter und behandelter Tiere gefährden oder beeinträchtigen könnten.
+
+<sup>2</sup> Wer Heilmittel herstellt oder vertreibt, muss dem Institut zudem Qualitätsmängel sowie weitere Erkenntnisse und Bewertungen, welche die Beurteilungsgrundlagen beeinflussen können, melden.
+
+<sup>3</sup> Wer berufsmässig Heilmittel abgibt oder an Menschen oder an Tieren anwendet oder als Medizinalperson dazu berechtigt ist, muss dem Institut schwerwiegende oder bisher nicht bekannte unerwünschte Wirkungen und Vorkommnisse, Beobachtungen anderer schwerwiegender oder bisher nicht bekannter Tatsachen sowie Qualitätsmängel melden, die für die Heilmittelsicherheit von Bedeutung sind.[^59-1]
+
+<sup>3bis</sup> Wer Heilmittel herstellt oder in Verkehr bringt, muss dem Institut jeden Verdacht auf illegalen Heilmittelhandel durch Dritte melden, den er im Zusammenhang mit seiner Tätigkeit, mit einem seiner Produkte oder mit dessen Bestandteilen feststellt.[^59-2]
+
+<sup>4</sup> Konsumentinnen und Konsumenten, Patientinnen und Patienten und deren Organisationen sowie interessierte Dritte können dem Institut unerwünschte Wirkungen von Heilmitteln und Vorkommnisse melden.
+
+<sup>5</sup> Die Meldungen nach den Absätzen 1–3 sind gemäss den anerkannten Regeln der Guten Vigilance-Praxis zu erstatten.[^59-3]
+
+<sup>6</sup> Der Bundesrat umschreibt die anerkannten Regeln der Guten Vigilance-Praxis näher. Er berücksichtigt dabei international anerkannte Richtlinien und Normen.[^59-4]
+
+<sup>7</sup> Angestellte von Personen und Organisationen, die Heilmittel herstellen, vertreiben, verschreiben oder abgeben, sind berechtigt, den zuständigen Behörden Wahrnehmungen zu melden, die auf eine Widerhandlung gegen Bestimmungen dieses Gesetzes schliessen lassen.[^59-5]
+
+[^59-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-2]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^59-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^59-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 60
+
+**Zuständigkeit zur Durchführung von Inspektionen**
+
+<sup>1</sup> Das Institut ist unter Vorbehalt der Artikel 30 und 34 Absatz 4 für das Inspektionswesen in der Schweiz verantwortlich.
+
+<sup>2</sup>
+
+Es ist zuständig für Inspektionen nach den Artikeln 6, 19 und 28 in folgenden Bereichen:
+
+- a. immunologische Arzneimittel;
+- b. Blut und Blutprodukte;
+- c. selten eingesetzte Verfahren, die hoch spezifisches Fachwissen erfordern.
+
+<sup>3</sup> Es überträgt Inspektionen nach den Artikeln 6, 19 und 28 in den anderen Bereichen den Inspektoraten der Kantone, wenn diese die Anforderungen des nationalen und des für die Schweiz massgebenden internationalen Rechtes erfüllen.
+
+<sup>4</sup> Es kann die Inspektorate der Kantone zu Inspektionen in seinem Kompetenzbereich beiziehen oder damit beauftragen.
+
+<sup>5</sup> Die Kantone können regionale oder andere kantonale Inspektorate oder das Institut zu Inspektionen nach Absatz 3 beiziehen oder mit solchen Inspektionen beauftragen.
+
+### 4. Abschnitt: Schweigepflicht und Datenbearbeitung****
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 61
+
+**Schweigepflicht**
+
+Die mit dem Vollzug dieses Gesetzes beauftragten Personen unterstehen der Schweigepflicht.
+
+#### Art. 62
+
+**Vertraulichkeit von Daten**
+
+<sup>1</sup> Die auf Grund dieses Gesetzes gesammelten Daten, an deren Geheimhaltung ein überwiegendes schutzwürdiges Interesse besteht, sind von der zuständigen Behörde vertraulich zu behandeln.
+
+<sup>2</sup> Der Bundesrat kann festlegen, welche Daten von der zuständigen Behörde veröffentlicht werden.
+
+#### Art. 62a
+
+**Bearbeitung von Personendaten**[^62a-1]
+
+<sup>1</sup>
+
+Stellen des Bundes und der Kantone, regionale Zentren und mit Vollzugsaufgaben betraute Dritte können, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist, folgende besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten:
+
+- a.
+
+  Daten über die Gesundheit:
+
+  - 1\. zur behördlichen Marktüberwachung bei Blut und Blutprodukten,
+  - 2\. zur Wahrnehmung der Vigilance im Rahmen eingehender Meldungen über unerwünschte Wirkungen und Vorkommnisse sowie über Qualitätsmängel, oder
+  - 3\. zur Überprüfung von klinischen Versuchen im Rahmen eingehender Meldungen und mittels Inspektionen;
+
+- b.
+
+  Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen:
+
+  - 1\. im Rahmen von Verfahren zur Erteilung von Betriebsbewilligungen, oder
+  - 2\. zur Beurteilung, ob eine Prüfärztin oder ein Prüfarzt für die Durchführung von klinischen Versuchen geeignet ist.
+
+<sup>2</sup> Besonders schützenswerte Personendaten nach Absatz 1 Buchstabe a sind nach Möglichkeit zu anonymisieren.
+
+<sup>3</sup>
+
+Der Bundesrat erlässt Ausführungsbestimmungen über:
+
+- a. die Verantwortlichkeit bei der Datenbearbeitung;
+- b. den Umfang der Zugriffsberechtigungen durch Abrufverfahren;
+- c. die Aufbewahrungsdauer der Daten;
+- d. die Archivierung und Vernichtung der Daten;
+- e. die Datensicherheit.
+
+[^62a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 62b
+
+**Zusammenarbeit mit dem privaten Sektor**[^62b-1]
+
+<sup>1</sup> Das Institut und die Eidgenössische Zollverwaltung (EZV) sind nach einer Interessenabwägung berechtigt, der Inhaberin oder dem Inhaber einer Betriebsbewilligung oder einer Zulassung für Arzneimittel sowie jeder Person, die ein Medizinprodukt in Verkehr bringt, nach diesem Gesetz gesammelte, vertrauliche Daten im Einzelfall bekannt zu geben, einschliesslich besonders schützenswerter Daten nach Artikel 3 Buchstabe c Ziffer 4 des Bundesgesetzes vom 19. Juni 1992[^62b-2] über den Datenschutz, sofern diese Massnahme für notwendig erachtet wird, um einen mutmasslichen illegalen Heilmittelhandel aufzudecken und zu bekämpfen.
+
+<sup>2</sup> Persönliche Patientendaten dürfen nicht bekannt gegeben werden.
+
+[^62b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 63
+
+**Bekanntgabe von Daten unter Vollzugsbehörden in der Schweiz**
+
+<sup>1</sup> Die für den Vollzug dieses Gesetzes zuständigen Stellen des Bundes und der Kantone sorgen für die gegenseitige Bekanntgabe von Daten, soweit dies für den Vollzug dieses Gesetzes erforderlich ist.
+
+<sup>2</sup> Der Bundesrat kann vorsehen, dass Daten weiteren Behörden oder Organisationen bekannt gegeben werden dürfen, wenn es für den Vollzug dieses Gesetzes erforderlich ist.
+
+<sup>3</sup> Er kann vorsehen, dass das Institut weiteren Bundesbehörden Daten bekannt geben darf, wenn dies für den Vollzug von Bundesgesetzen im Bereich der Gesundheit erforderlich ist.[^63-1]
+
+[^63-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 64
+
+**Bekanntgabe von Daten ins Ausland und internationale Amtshilfe[^64-1]**
+
+<sup>1</sup> Die für den Vollzug dieses Gesetzes zuständigen Stellen des Bundes können zuständige ausländische Behörden oder internationale Organisationen um Auskünfte ersuchen.
+
+<sup>2</sup> Nichtvertrauliche Daten, die nach diesem Gesetz erhoben worden sind, dürfen sie zuständigen ausländischen Behörden oder internationalen Organisationen bekannt geben.
+
+<sup>3</sup> Vertrauliche Daten, einschliesslich Personendaten, die nach diesem Gesetz erhoben worden sind, dürfen sie zuständigen ausländischen Behörden oder internationalen Organisationen im Einzelfall bekannt geben, sofern dadurch schwerwiegende Gesundheitsrisiken abgewendet werden können oder die Möglichkeit besteht, dass illegaler Handel oder andere schwerwiegende Verstösse gegen dieses Gesetz aufgedeckt werden.[^64-2]
+
+<sup>4</sup>
+
+Auf deren Ersuchen hin dürfen sie zudem zuständigen ausländischen Behörden vertrauliche Daten, einschliesslich Personendaten, die nach diesem Gesetz erhoben worden sind, bekannt geben, wenn:[^64-3]
+
+- a. die ersuchenden ausländischen Behörden die Vertraulichkeit wahren;
+- a<sup>bis</sup>.[^64-4] durch die Bekanntgabe die Persönlichkeit der betroffenen Person nicht schwerwiegend gefährdet wird;
+- b. die ersuchenden ausländischen Behörden die erhaltenen Daten ausschliesslich in einem Verwaltungsverfahren im Zusammenhang mit dem Vollzug von Heilmittelvorschriften verwenden;
+- c. ausschliesslich Daten mitgeteilt werden, die für den Vollzug von Heilmittelvorschriften notwendig sind;
+- d. keine Fabrikations- oder Geschäftsgeheimnisse offen gelegt werden, es sei denn, die Bekanntgabe von Daten sei zur Abwendung unmittelbar drohender Gefahren für die Gesundheit erforderlich.
+
+<sup>4bis</sup>
+
+Das Institut ist berechtigt, der internationalen Pharmacovigilance-Datenbank der Weltgesundheitsorganisation zwecks Meldung und Registrierung unerwünschter Wirkungen von Arzneimitteln Folgendes bekannt zu geben:
+
+- a. vertrauliche Daten sowie die Gesundheit betreffende Personendaten, namentlich die Initialen, das Geschlecht und den Jahrgang der betroffenen Person;
+- b. einen Bericht über die unerwünschten Wirkungen.[^64-5]
+
+<sup>5</sup> Der Bundesrat kann internationale Abkommen über die Bekanntgabe von vertraulichen Daten einschliesslich Personendaten an ausländische Behörden oder internationale Organisationen abschliessen, soweit es für den Vollzug dieses Gesetzes erforderlich ist.[^64-6]
+
+<sup>6</sup> Die Bestimmungen über die Rechtshilfe in Strafsachen bleiben vorbehalten.
+
+[^64-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64-6]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 64a
+
+**Grenzüberschreitende Kontrollen**[^64a-1]
+
+<sup>1</sup>
+
+Ausländische zuständige Behörden sind berechtigt, nach Meldung an das Institut schweizerische Betriebe zu kontrollieren, die im Heilmittelbereich tätig sind, wenn:
+
+- a. die Kontrolle ausschliesslich die Überprüfung der Einhaltung von Heilmittelvorschriften bezweckt;
+- b. das Ergebnis der Kontrolle ausschliesslich in einem Verwaltungsverfahren im Zusammenhang mit dem Vollzug von Heilmittelvorschriften verwendet wird;
+- c. der zu kontrollierende Betrieb der Kontrolle zustimmt; und
+- d. die ausländische Behörde das Institut über das Ergebnis informiert mittels Zustellung des Inspektionsberichtes in einer schweizerischen Amtssprache oder in englischer Sprache.
+
+<sup>2</sup> Das Institut kann die ausländische Behörde bei ihrer Kontrolle begleiten.
+
+<sup>3</sup> Es kann im Ausland nach Rücksprache mit den zuständigen Behörden Kontrollen von Betrieben durchführen, die im Heilmittelbereich tätig sind, wenn dies für die Gewährleistung des Gesundheitsschutzes erforderlich ist.
+
+[^64a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 4*a*. Abschnitt:**** Informationssystem Antibiotika in der Veterinärmedizin
+
+[^chap4-sec4a-1]
+
+[^chap4-sec4a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 64b
+
+**Bearbeitung von Personendaten**
+
+Die zuständigen Behörden von Bund und Kantonen sind berechtigt, im Rahmen des Vollzugs ihrer Aufgaben nach diesem Gesetz im Hinblick auf die Massnahmen zur Reduktion von Antibiotikaresistenzen in der Veterinärmedizin Personendaten zu bearbeiten.
+
+#### Art. 64c
+
+**Betrieb und Zweck des Informationssystems Antibiotika**
+
+<sup>1</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) betreibt ein Informationssystem zur Überwachung des Antibiotikavertriebs, des Antibiotikaverbrauchs und der Antibiotikaresistenzsituation (Informationssystem Antibiotika).
+
+<sup>2</sup> Das Informationssystem Antibiotika ist Teil des gemeinsamen zentralen Informationssystems entlang der Lebensmittelkette des Bundesamtes für Landwirtschaft (BLW) und des BLV.
+
+<sup>3</sup> Die Kosten für den Aufbau und den Betrieb des Informationssystems Antibiotika gehen zulasten des Bundes.
+
+#### Art. 64d
+
+**Inhalt des Informationssystems Antibiotika**
+
+<sup>1</sup>
+
+Das Informationssystem Antibiotika enthält Personendaten einschliesslich:
+
+- a. die Menge Arzneimittel mit antimikrobiellen Wirkstoffen, die an die zur Abgabe berechtigten Personen vertrieben werden;
+- b. die Daten zur Verschreibung, Abgabe und Anwendung von Arzneimitteln mit antimikrobiellen Wirkstoffen gemäss Anwendungsanweisung und amtlichem Rezeptformular;
+- c. den Namen und die Adresse der abgebenden Person oder Praxis;
+- d. den Namen der Tierhalterin oder des Tierhalters, der oder dem das Arzneimittel abgegeben wird;
+- e. das Abgabedatum.
+
+<sup>2</sup>
+
+Das Informationssystem Antibiotika bezieht:
+
+- a. Daten aus anderen Anwendungen des gemeinsamen zentralen Informationssystems entlang der Lebensmittelkette gemäss Artikel 64*c* Absatz 2;
+- b. Personendaten aus dem Register der universitären Medizinalberufe nach den Artikeln 51–54 des Medizinalberufegesetzes vom 23. Juni 2006[^64d-1] (Medizinalberuferegister).
+
+[^64d-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+#### Art. 64e
+
+**Zugriff auf das Informationssystem Antibiotika**
+
+<sup>1</sup>
+
+Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Behörden Daten im Informationssystem Antibiotika online bearbeiten:
+
+- a. das BLV: zur Erstellung der Antibiotikavertriebs- und Verbrauchsstatistik sowie zur Überwachung der Antibiotikaresistenzsituation und zur Gewährleistung des Vollzugs der Gesetzgebung;
+- b. die kantonalen Vollzugsbehörden: zur Erfüllung ihrer Aufgaben in ihrem jeweiligen Zuständigkeitsbereich.
+
+<sup>2</sup>
+
+Zur Erfüllung ihrer gesetzlichen Aufgaben können die folgenden Stellen oder Personen Daten im Informationssystem Antibiotika online abrufen:
+
+- a. das BLV und die kantonalen Vollzugsbehörden: Vertriebs-, Verschreibungs‑, Abgabe- und Anwendungsdaten;
+- b. das BLW: Vertriebs-, Verschreibungs-, Abgabe- und Anwendungsdaten zur Erfüllung seiner nach dem Landwirtschaftsgesetz vom 29. April 1998[^64e-1] übertragenen Aufgaben;
+- c. Tierhalterinnen und Tierhalter: Daten, die sie selbst betreffen;
+- d. Tierärztinnen und Tierärzte sowie die weiteren der Meldepflicht nach Artikel 64*f* Buchstabe h unterstellten Personen: Daten, die sie selbst betreffen, sowie Daten, die sie gemeldet haben.
+
+[^64e-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+
+#### Art. 64f
+
+**Ausführungsbestimmungen**
+
+Der Bundesrat regelt für das Informationssystem Antibiotika:
+
+- a. die Struktur und den Datenkatalog, einschliesslich des von den Kantonen genutzten Teils;
+- b. die Verantwortlichkeiten für die Datenbearbeitung;
+- c. die Zugriffsrechte nach Artikel 64*e*, namentlich deren Umfang;
+- d. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen;
+- e. das Verfahren der Zusammenarbeit mit den Kantonen;
+- f. die Aufbewahrungs- und Vernichtungsfrist;
+- g. die Archivierung;
+- h. die Meldepflichten der Personen, die Antibiotika vertreiben, verschreiben, abgeben und anwenden; von der Meldepflicht ausgenommen sind Tierhalterinnen und Tierhalter;
+- i. den Bezug von Daten zur Tierärzteschaft aus dem Medizinalberuferegister nach Artikel 51–54 des Medizinalberufegesetzes 23. Juni 2006[^64f-1].
+
+[^64f-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+#### Art. 64g
+
+**Gebrauch des Informationssystems Antibiotika durch die Kantone**
+
+Die Kantone, die das Informationssystem Antibiotika für ihre eigenen Vollzugsaufgaben nutzen, sind verpflichtet, für ihren Bereich gleichwertige Datenschutzbestimmungen zu erlassen und ein Organ zu bezeichnen, welches deren Einhaltung überwacht.
+
+### 5. Abschnitt: Gebühren und Aufsichtsabgabe****
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 65
+
+<sup>1</sup> Das Institut und die anderen mit dem Vollzug dieses Gesetzes betrauten Behörden erheben für ihre Bewilligungen, Kontrollen und Dienstleistungen Gebühren. Das Institut kann zudem Gebühren erheben für die Entgegennahme von Meldungen.
+
+<sup>2</sup> Es erhebt von den Zulassungsinhaberinnen eine Aufsichtsabgabe für die Finanzierung der Kosten, die ihm im Bereich Arzneimittel entstehen und weder durch Gebühren nach Absatz 1 noch durch Abgeltungen des Bundes nach Artikel 77 Absatz 2 Buchstabe a gedeckt sind.[^65-1]
+
+<sup>3</sup> Die Aufsichtsabgabe wird auf dem Fabrikabgabepreis der in der Schweiz verkauften zugelassenen verwendungsfertigen Arzneimittel erhoben. Der Abgabesatz beträgt maximal 15 Promille des Fabrikabgabepreises. Die Einnahmen aus der Abgabe dürfen insgesamt 10 Promille des Erlöses aller im jeweiligen Abgabejahr verkauften Arzneimittel nicht übersteigen.[^65-2]
+
+<sup>4</sup> Der Bundesrat regelt die Einzelheiten der Aufsichtsabgabe, namentlich den für die einzelnen Preiskategorien anzuwendenden Abgabesatz.[^65-3]
+
+<sup>5</sup> Der Institutsrat legt seine Gebühren nach Absatz 1 in der Gebührenverordnung des Instituts fest. Die Gebührenverordnung ist dem Bundesrat zur Genehmigung zu unterbreiten.[^65-4]
+
+<sup>6</sup> Der Bundesrat kann vom Institut im Rahmen der strategischen Ziele verlangen, auf die Erhebung von Gebühren für bestimmte Bewilligungen, Kontrollen oder Dienstleistungen ganz oder teilweise zu verzichten.[^65-5]
+
+[^65-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^65-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 6. Abschnitt: Verwaltungsmassnahmen
+
+#### Art. 66
+
+**Allgemeines**
+
+<sup>1</sup> Das Institut und die anderen mit dem Vollzug dieses Gesetzes betrauten Behörden können in ihrem Zuständigkeitsbereich alle Verwaltungsmassnahmen treffen, die zum Vollzug dieses Gesetzes erforderlich sind.[^66-1]
+
+<sup>2</sup>
+
+Insbesondere können sie:[^66-2]
+
+- a. Beanstandungen aussprechen und eine angemessene Frist zur Wiederherstellung des rechtmässigen Zustandes ansetzen;
+- b. Bewilligungen und Zulassungen sistieren oder widerrufen;
+- c. Betriebe schliessen;
+- d. gesundheitsgefährdende oder nicht den Vorschriften dieses Gesetzes entsprechende Heilmittel beschlagnahmen, amtlich verwahren oder vernichten;
+- e. das Vertreiben und Abgeben von Heilmitteln, die Ein- und Ausfuhr sowie den Handel im Ausland von der Schweiz aus verbieten und den unverzüglichen Rückruf von Heilmitteln vom Markt oder die Verbreitung von schadenverhütenden Verhaltensempfehlungen anordnen;
+- f. unzulässige Werbemittel beschlagnahmen, amtlich verwahren, vernichten sowie deren Verwendung verbieten und dieses Verbot auf Kosten der Verantwortlichen veröffentlichen;
+- g. die Werbung für ein bestimmtes Heilmittel bei schwerer oder wiederholter Widerhandlung gegen die Bestimmungen dieses Gesetzes über die Werbung vorübergehend oder dauernd verbieten und dieses Verbot auf Kosten der Verantwortlichen veröffentlichen.
+
+<sup>3</sup>
+
+Sie können bei einer Person unter fiktivem Namen Heilmittel bestellen, wenn:
+
+- a. der Verdacht besteht, dass diese Person unrechtmässig Heilmittel herstellt, einführt, ausführt oder in Verkehr bringt; und
+- b. die bisherigen Abklärungen erfolglos geblieben sind oder weitere Abklärungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.[^66-3]
+
+<sup>4</sup> Die Zollorgane sind berechtigt, Heilmittelsendungen an der Grenze, in Zollfreilagern oder in Zolllagern zurückzuhalten, wenn der Verdacht besteht, dass der Empfänger oder Absender in der Schweiz mit dem Inhalt der Sendung gegen die Bestimmungen über die Einfuhr, die Herstellung, das Inverkehrbringen oder die Ausfuhr von Heilmitteln verstösst.[^66-4]
+
+<sup>5</sup> Sie können die Vollzugsbehörden beiziehen. Diese nehmen die weiteren Abklärungen vor und treffen die erforderlichen Massnahmen. Insbesondere können sie bei den Anbieterinnen von Postdiensten den Namen und die Adresse der Inhaberin oder des Inhabers eines Postfachs verlangen. Die Anbieterinnen sind in diesem Fall zur Auskunft verpflichtet.[^66-5]
+
+<sup>6</sup>
+
+Die Vollzugsbehörden informieren die betroffenen Personen spätestens nach Abschluss des Verfahrens über:
+
+- a. die Bestellung unter fiktivem Namen;
+- b. die Einholung der Auskunft und den Grund dazu.[^66-6]
+
+[^66-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^66-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 67
+
+**Information der Öffentlichkeit**
+
+<sup>1</sup> Das Institut sorgt dafür, dass die Öffentlichkeit über besondere Ereignisse im Zusammenhang mit Heilmitteln, welche die Gesundheit gefährden, informiert wird und Verhaltensempfehlungen erhält. Es veröffentlicht Informationen von allgemeinem Interesse aus dem Bereich Heilmittel, insbesondere über Zulassungs- und Widerrufsentscheide sowie Erkenntnisse im Rahmen der Marktüberwachung.[^67-1]
+
+<sup>1</sup> <sup>bis</sup> Die Fachinformationen enthalten sämtliche Wirk- und Hilfsstoffe eines Arzneimittels.[^67-2]
+
+<sup>2</sup> Die zuständigen Bundesstellen können die Öffentlichkeit zum Schutz der Gesundheit und zur Bekämpfung des Heilmittelmissbrauchs über die sachgerechte Verwendung von Heilmitteln informieren.
+
+<sup>3</sup> Die Zulassungsinhaberinnen, die Vertreterinnen und Vertreter der interessierten Medizinalberufe, die Personen mit einer eigenverantwortlichen Abgabekompetenz nach Artikel 25 sowie die Patientinnen und Patienten oder deren Verbände führen gemeinsam eine Einrichtung in Form einer Stiftung, welche ein elektronisches Verzeichnis mit den gesetzlich vorgeschriebenen Inhalten der Arzneimittelinformationen im Human- und Veterinärbereich betreibt.[^67-3]
+
+<sup>4</sup> Die Einrichtung veröffentlicht im elektronischen Verzeichnis nach Absatz 3 den Inhalt der Arzneimittelinformationen der Zulassungsinhaberinnen vollständig und aktuell in geeigneter und strukturierter Form auf deren Kosten. Ein einfaches Verzeichnis mit den vollständigen und aktuellen Arzneimittelinformationen ist für alle öffentlich und kostenlos zugänglich.[^67-4]
+
+<sup>5</sup> Die Zulassungsinhaberinnen liefern der Einrichtung die gesetzlich vorgeschriebenen Inhalte der Arzneimittelinformationen in der dafür vorgesehenen Form. Kommen die Zulassungsinhaberinnen dieser Pflicht nicht nach, so erstellt die Einrichtung die Strukturierung auf deren Kosten.[^67-5]
+
+<sup>6</sup> Die Einrichtung legt unter Einbezug des Instituts und der Personen mit der Kompetenz zur eigenverantwortlichen Abgabe nach Artikel 25 die Anforderungen an Umfang und Struktur der Daten nach Absatz 4 und deren Lieferung nach Absatz 5 fest. Sie berücksichtigt dafür soweit möglich die einschlägigen internationalen Standards.[^67-6]
+
+<sup>7</sup> Die zuständigen Bundesstellen können über den Verzeichnisdienst weitere behördlich veröffentlichte Informationen zugänglich machen.[^67-7]
+
+<sup>8</sup> Kommt die Einrichtung ihrer Aufgabe nicht nach, veröffentlicht das Institut die gesetzlich vorgeschriebenen Inhalte der Arzneimittelinformationen auf Kosten der Zulassungsinhaberinnen in Form eines elektronischen Verzeichnisses. Das Institut kann die Erstellung und den Betrieb des Verzeichnisses an Dritte übertragen.[^67-8]
+
+<sup>9</sup> Das Institut veröffentlicht, sobald es ein Gesuch um Zulassung eines Arzneimittels erhalten hat, die Indikation, die Wirkstoffe dieses Arzneimittels sowie Name und Adresse des Gesuchstellers, sofern der Veröffentlichung keine schützenswerten Geheimhaltungsinteressen entgegenstehen.[^67-9]
+
+[^67-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-7]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-8]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^67-9]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 67a
+
+**Information über den Arzneimitteleinsatz in bestimmten Bevölkerungsgruppen**[^67a-1]
+
+<sup>1</sup> Der Bundesrat kann zur Verbesserung der Sicherheit des Arzneimitteleinsatzes in der Pädiatrie die Sammlung, Harmonisierung, Auswertung und Veröffentlichung von Daten vorsehen, welche die Verschreibung, Abgabe und Anwendung von Arzneimitteln betreffen.
+
+<sup>2</sup> Der Bund kann zu diesem Zweck eine Datenbank durch Dritte erstellen und betreiben lassen. Diese Datenbank darf keine Personendaten enthalten.
+
+<sup>3</sup>
+
+Der Bundesrat:
+
+- a. legt die grundsätzlichen Anforderungen an Inhalt, Betrieb und Qualität der Datenbank fest und regelt die Bedingungen für den Zugang und die Verwendung der Daten;
+- b. bestimmt die zur Führung der Datenbank zuständige Stelle und kann diese ermächtigen, bei Medizinalpersonen Informationen in anonymisierter Form zu erheben.
+
+<sup>4</sup> Die Betreiber nach Absatz 2 gewährleisten die Interoperabilität dieser Datenbank mit dem Verzeichnis nach Artikel 67.
+
+<sup>5</sup> Der Bundesrat kann die Tätigkeiten nach den Absätzen 1 und 2 auf weitere spezifische Bevölkerungsgruppen ausdehnen. Er kann die Einsetzung beratender Fachkommissionen oder den Beizug von Expertinnen und Experten vorsehen.
+
+[^67a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 67b
+
+**Veröffentlichung von Ergebnissen klinischer Versuche**[^67b-1]
+
+<sup>1</sup> Der Bundesrat kann unter Berücksichtigung international anerkannter Regelungen vorsehen, dass Ergebnisse klinischer Versuche, welche im Hinblick auf die Entwicklung eines Humanarzneimittels durchgeführt wurden, nach dem Zulassungsentscheid veröffentlicht werden.
+
+<sup>2</sup> Der Bund kann zu diesem Zweck eine Datenbank betreiben oder durch Dritte betreiben lassen. Diese Datenbank darf keine Daten enthalten, die einen Bezug zu an klinischen Versuchen teilnehmenden Personen ermöglichen.
+
+<sup>3</sup>
+
+Der Bundesrat:
+
+- a. bestimmt die zur Führung der Datenbank zuständige Stelle;
+- b. legt die Pflichten und das Verfahren im Hinblick auf die Veröffentlichung fest;
+- c. bestimmt den Inhalt und die Form der zu publizierenden Ergebnisse;
+- d. bestimmt die Anforderungen an den Inhalt und Betrieb der Datenbank;
+- e. regelt den Zugang und die Verwendung der Daten.
+
+[^67b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+## 5. Kapitel: Schweizerisches Heilmittelinstitut
+
+### 1. Abschnitt: Rechtsform und Stellung
+
+#### Art. 68
+
+<sup>1</sup> Der Bund betreibt unter Mitwirkung der Kantone das Institut.
+
+<sup>2</sup> Das Institut ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit.
+
+<sup>3</sup> Es ist in seiner Organisation und Betriebsführung selbstständig; es verfügt über eine eigene Finanzierung und führt eine eigene Rechnung.
+
+<sup>4</sup> Es kann für einzelne Aufgaben Private beiziehen.
+
+<sup>5</sup> Es kann beratende Kommissionen sowie Expertinnen und Experten einsetzen.
+
+### 2. Abschnitt: Aufgaben und strategische Ziele****
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 69
+
+**Aufgaben**
+
+<sup>1</sup> Das Institut erfüllt die Aufgaben, die ihm gemäss diesem Gesetz sowie weiteren Bundesgesetzen zugewiesen sind.[^69-1]
+
+<sup>1bis</sup> Der Bundesrat kann dem Institut gegen Abgeltung weitere Aufgaben übertragen, die in engem Bezug zu den ihm gesetzlich übertragenen Aufgaben stehen und deren Erfüllung nicht beeinträchtigen.[^69-2]
+
+<sup>2</sup> Das Institut kann gegen Entgelt Dienstleistungen im Rahmen der Aufgaben nach diesem Gesetz für andere Behörden und internationale Organisationen erbringen, sofern diese die Unabhängigkeit des Instituts nicht gefährden.[^69-3]
+
+<sup>3</sup> Der Bundesrat kann das Institut beauftragen, bei der Vorbereitung der Erlasse auf dem Gebiet der Heilmittel mitzuwirken.
+
+<sup>4</sup> Das Institut ist die nationale Zentral- und Kontaktstelle nach den Artikeln 17 Absatz 3 und 22 Absatz 2 des Übereinkommens des Europarats vom 28. Oktober 2011[^69-4] über die Fälschung von Arzneimitteln und Medizinprodukten und über ähnliche die öffentliche Gesundheit gefährdende Straftaten. Es steht in Verbindung mit den bezeichneten ausländischen Kontaktstellen.[^69-5]
+
+[^69-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^69-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^69-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^69-4]: [SR 0.812.41](https://fedlex.data.admin.ch/eli/cc/2019/87); [BBl 2017 3185](https://fedlex.data.admin.ch/eli/fga/2017/651)
+[^69-5]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+
+#### Art. 70
+
+**Strategische Ziele**[^70-1]
+
+<sup>1</sup> Der Bundesrat genehmigt auf Vorschlag des Institutsrats die strategischen Ziele des Instituts für einen Zeitraum von vier Jahren.
+
+<sup>2</sup> Anpassungen, die aufgrund der jährlichen Überprüfung durch den Institutsrat erforderlich werden, sind ebenfalls dem Bundesrat zur Genehmigung zu unterbreiten.
+
+[^70-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 3. Abschnitt: Organe und Zuständigkeiten
+
+#### Art. 71
+
+**Organe**[^71-1]
+
+<sup>1</sup>
+
+Die Organe des Instituts sind:
+
+- a. der Institutsrat;
+- b. die Geschäftsleitung;
+- c. die Revisionsstelle.
+
+<sup>2</sup> Eine Person darf nur einem dieser Organe angehören.
+
+<sup>3</sup> Der Bundesrat kann einzelne oder mehrere Mitglieder des Institutsrats aus wichtigen Gründen abberufen.
+
+[^71-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 71a
+
+**Offenlegung der Interessenbindungen der Mitglieder des Institutsrats**[^71a-1]
+
+<sup>1</sup> Die Mitglieder des Institutsrats legen dem Bundesrat ihre Interessenbindungen vor ihrer Wahl offen.
+
+<sup>2</sup> Wer sich weigert, seine Interessenbindungen offenzulegen, ist als Mitglied nicht wählbar.
+
+<sup>3</sup> Die Mitglieder im Institutsrat melden jede Änderung der Interessenbindungen während der Amtsdauer unverzüglich dem Eidgenössischen Departement des Innern.
+
+<sup>4</sup> Das Institut aktualisiert das Verzeichnis und publiziert die Interessenbindungen.
+
+<sup>5</sup> Das Berufsgeheimnis im Sinne des Strafgesetzbuches[^71a-2] bleibt vorbehalten.
+
+<sup>6</sup> Ein Mitglied im Institutsrat kann abberufen werden, wenn es seine Interessenbindungen anlässlich der Wahl nicht vollständig offengelegt oder Änderungen der Interessenbindungen während der Amtsdauer nicht gemeldet hat und dies auch nach entsprechender Aufforderung durch das Eidgenössische Departement des Innern unterlässt.
+
+[^71a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^71a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 72
+
+**Zusammensetzung und Wahl des Institutsrats**[^72-1]
+
+<sup>1</sup> Der Institutsrat besteht aus höchstens sieben Mitgliedern.
+
+<sup>2</sup> Der Bundesrat wählt, gestützt auf ein Anforderungsprofil, die Mitglieder des Institutsrats und bestimmt aus diesen die Präsidentin oder den Präsidenten. Die Kantone haben für drei Mitglieder ein Antragsrecht.
+
+<sup>3</sup> Die Wahl erfolgt für eine Amtsdauer von vier Jahren. Eine Wiederwahl ist für zwei weitere Amtsperioden möglich.
+
+[^72-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 72a
+
+**Funktion und Aufgaben des Institutsrats**[^72a-1]
+
+<sup>1</sup>
+
+Der Institutsrat ist das strategische Organ des Instituts und wahrt dessen Interessen. Er hat folgende Aufgaben:
+
+- a. Er erarbeitet die strategischen Ziele des Instituts, legt sie dem Bundesrat zur Genehmigung vor und überprüft diese jährlich.
+- b. Er erstattet dem Bundesrat jährlich Bericht über die Erfüllung der strategischen Ziele. Er legt dem Bundesrat den Bericht der Eidgenössischen Finanzkontrolle über eine im Rahmen der Finanzaufsicht durchgeführte Prüfung des Instituts vor.
+- c. Er beantragt dem Bundesrat die vom Bund für Leistungen nach Artikel 69 zu erbringenden Abgeltungen.
+- d. Er erlässt das Organisationsreglement des Instituts.
+- e. Er erlässt sein eigenes Geschäftsreglement und legt darin insbesondere die Ausstandsregeln fest.
+- f. Er erstellt und verabschiedet für jedes Geschäftsjahr einen Geschäftsbericht und unterbreitet diesen dem Bundesrat zur Genehmigung. Gleichzeitig stellt er dem Bundesrat Antrag auf Entlastung und über die Verwendung eines allfälligen Gewinns. Er veröffentlicht den Geschäftsbericht nach der Genehmigung.
+- g. Er entscheidet über die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses mit der Direktorin oder dem Direktor. Die Begründung und die Beendigung des Arbeitsverhältnisses bedürfen der Genehmigung durch den Bundesrat.
+- h. Er entscheidet auf Antrag der Direktorin oder des Direktors über die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses der weiteren Mitglieder der Geschäftsleitung.
+- i. Er erfüllt weitere Aufgaben im Heilmittelbereich, die ihm der Bundesrat zuweist.
+- j. Er beaufsichtigt die Geschäftsleitung und sorgt für ein dem Institut angepasstes internes Kontrollsystem und Risikomanagement.
+- k. Er erlässt die Bestimmungen nach Artikel 82 Absatz 2.
+- l. Er genehmigt die Geschäftsplanung und den Voranschlag.
+- m. Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (PUBLICA) ab und unterbreitet ihn dem Bundesrat zur Genehmigung.
+- n. Er regelt die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs für das Vorsorgewerk.
+- o. Er erlässt reglementarische Bestimmungen, welche die Unabhängigkeit der vom Institut beauftragten Expertinnen und Experten gewährleisten.
+
+<sup>2</sup> Die Mitglieder des Institutsrats müssen ihre Aufgaben und Pflichten mit aller Sorgfalt erfüllen und die Interessen des Instituts in guten Treuen wahren. Der Institutsrat trifft die organisatorischen Vorkehren zur Wahrung der Interessen des Instituts und zur Verhinderung von Interessenkollisionen.
+
+[^72a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 73
+
+**Geschäftsleitung**[^73-1]
+
+<sup>1</sup> Die Geschäftsleitung ist das operative Organ des Instituts. Ihr steht eine Direktorin oder ein Direktor vor.
+
+<sup>2</sup>
+
+Sie hat folgende Aufgaben:
+
+- a. Sie führt die Geschäfte.
+- b. Sie erlässt die Verfügungen nach Massgabe des Organisationsreglements.
+- c. Sie erarbeitet die Entscheidgrundlagen für den Institutsrat und berichtet ihm regelmässig, bei besonderen Vorkommnissen ohne Verzug.
+- d. Sie vertritt das Institut gegen aussen.
+- e. Sie erlässt die Geschäftsplanung und den Voranschlag und unterbreitet diese dem Institutsrat zur Genehmigung.
+- f. Sie entscheidet über die Begründung, Änderung und die Beendigung der Arbeitsverhältnisse des Personals des Instituts; vorbehalten bleibt Artikel 72*a* Absatz 1 Buchstabe h.
+- g. Sie erfüllt die Aufgaben, die nicht einem anderen Organ zugewiesen sind.
+
+<sup>3</sup> Das Organisationsreglement regelt die Einzelheiten.
+
+[^73-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 74
+
+**Revisionsstelle**[^74-1]
+
+<sup>1</sup> Der Bundesrat bezeichnet die Revisionsstelle für eine Dauer von vier Jahren. Sie kann jeweils für eine weitere Amtsdauer wiedergewählt werden.
+
+<sup>2</sup> Für die Revisionsstelle sind die Vorschriften des Obligationenrechts[^74-2] über die Revisionsstelle bei Aktiengesellschaften sinngemäss anwendbar.
+
+<sup>3</sup> Die Revisionsstelle führt eine ordentliche Revision durch und erstattet dem Bundesrat und dem Institutsrat über das Ergebnis ihrer Prüfung umfassend Bericht.
+
+<sup>4</sup> Der Bundesrat kann bestimmte Sachverhalte durch die Revisionsstelle abklären lassen.
+
+<sup>5</sup> Er kann die Revisionsstelle abberufen.
+
+[^74-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^74-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### 4. Abschnitt: Personal
+
+#### Art. 75
+
+**Entschädigung des Institutsrats und Anstellungsverhältnisse[^75-1]**
+
+<sup>1</sup> Das Institut stellt sein Personal öffentlich-rechtlich an. In begründeten Fällen können Verträge nach Obligationenrecht[^75-2] abgeschlossen werden.
+
+<sup>2</sup> Der Institutsrat erlässt die Personalverordnung des Instituts unter Vorbehalt der Genehmigung durch den Bundesrat.[^75-3]
+
+<sup>3</sup> Für den Lohn der Geschäftsleitungsmitglieder und weiterer Personen, die in vergleichbarer Weise entlöhnt werden, sowie für die weiteren mit diesen Personen vereinbarten Vertragsbedingungen gilt Artikel 6*a* Absätze 1–5 des Bundespersonalgesetzes vom 24. März 2000[^75-4] sinngemäss.[^75-5]
+
+<sup>4</sup> Der Bundesrat legt die Entschädigungen der Mitglieder des Institutsrats fest. Für das Honorar der Mitglieder des Institutsrats und die weiteren mit diesen Personen vereinbarten Vertragsbedingungen gilt Artikel 6*a* Absätze 1–5 des Bundespersonalgesetzes.[^75-6]
+
+[^75-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^75-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^75-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^75-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 75a
+
+**Anzeigepflichten, Melderecht und Schutz**[^75a-1]
+
+<sup>1</sup> Die Angestellten sind verpflichtet, alle von Amtes wegen zu verfolgenden Verbrechen oder Vergehen, die sie bei ihrer amtlichen Tätigkeit festgestellt haben oder die ihnen gemeldet worden sind, den Strafverfolgungsbehörden, ihren Vorgesetzten, dem Institutsrat oder der Eidgenössischen Finanzkontrolle anzuzeigen.
+
+<sup>2</sup> Vorbehalten bleiben Anzeigepflichten aus anderen Bundesgesetzen.
+
+<sup>3</sup> Die Anzeigepflicht entfällt für Personen, die nach den Artikeln 113 Absatz 1, 168 und 169 der Strafprozessordnung[^75a-2] (StPO) zur Aussage- oder Zeugnisverweigerung berechtigt sind.
+
+<sup>4</sup> Die Angestellten sind berechtigt, andere Unregelmässigkeiten, die sie bei ihrer amtlichen Tätigkeit festgestellt haben oder die ihnen gemeldet worden sind, ihren Vorgesetzten, dem Institutsrat oder der Eidgenössischen Finanzkontrolle zu melden.
+
+<sup>5</sup> Wer in guten Treuen eine Anzeige oder Meldung erstattet oder wer als Zeuge oder Zeugin ausgesagt hat, darf deswegen nicht in seiner beruflichen Stellung benachteiligt werden.
+
+[^75a-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^75a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 76
+
+**Pensionskasse**[^76-1]
+
+Das Personal des Instituts wird bei der Pensionskasse des Bundes versichert.
+
+[^76-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+
+### 5. Abschnitt: Finanzhaushalt und Geschäftsbericht
+
+[^chap5-sec5-1]
+
+[^chap5-sec5-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 77
+
+**Finanzielle Mittel**[^77-1]
+
+<sup>1</sup> Bund und Kantone können das Institut mit einem unverzinslichen Dotationskapital ausstatten.
+
+<sup>2</sup>
+
+Das Institut finanziert seine Ausgaben insbesondere aus:
+
+- a. Abgeltungen des Bundes für Aufgaben nach Artikel 69 Absatz 1, sofern sie nicht durch Gebühren abgedeckt sind;
+- b. Abgaben und Gebühren nach Artikel 65;
+- c. Entgelten für Dienstleistungen für andere Behörden und internationale Organisationen nach Artikel 69 Absatz 2.
+
+<sup>3</sup> Die aufgabenspezifische Verwendung der Mittel nach Absatz 2 Buchstaben a und b wird im Rahmen der Genehmigung der strategischen Ziele festgelegt.
+
+<sup>4</sup> Die Bussen und Einnahmen aus Sanktionen gehen an den Bund.
+
+[^77-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 78
+
+**Rechnungslegung**[^78-1]
+
+<sup>1</sup> Die Rechnungslegung des Instituts stellt seine Vermögens-, Finanz- und Ertragssituation den tatsächlichen Verhältnissen entsprechend dar.
+
+<sup>2</sup> Sie folgt den allgemeinen Grundsätzen der Wesentlichkeit, Vollständigkeit, Verständlichkeit, Stetigkeit und Bruttodarstellung und orientiert sich an allgemein anerkannten Standards.
+
+<sup>3</sup> Die aus den Rechnungslegungsgrundsätzen abgeleiteten Bilanzierungs- und Bewertungsregeln sind im Anhang offenzulegen.
+
+<sup>4</sup> Der Bundesrat kann für das Institut Vorschriften für die Rechnungslegung erlassen.
+
+[^78-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 78a
+
+**Geschäftsbericht**[^78a-1]
+
+<sup>1</sup> Der Geschäftsbericht enthält die Jahresrechnung, die Bestätigung zur Revision der Jahresrechnung und den Lagebericht.
+
+<sup>2</sup> Die Jahresrechnung setzt sich zusammen aus der Bilanz, der Erfolgsrechnung und dem Anhang.
+
+<sup>3</sup> Die Jahresrechnung ist durch die Revisionsstelle prüfen zu lassen.
+
+[^78a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 79
+
+**Reserven**[^79-1]
+
+<sup>1</sup> Sofern Reserven gebildet werden, dienen diese dem Institut zur Finanzierung künftiger Investitionen und zur Deckung allfälliger Verluste.
+
+<sup>2</sup> Übersteigen die Reserven die Höhe eines Jahresbudgets, so sind die Abgaben und Gebühren zu senken.
+
+[^79-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 79a
+
+**Tresorerie**[^79a-1]
+
+<sup>1</sup> Auf Begehren des Instituts kann die Eidgenössische Finanzverwaltung im Rahmen ihrer zentralen Tresorerie dessen liquide Mittel verwalten.
+
+<sup>2</sup> Die Eidgenössische Finanzverwaltung kann dem Institut zur Sicherstellung der Zahlungsbereitschaft Darlehen zu marktkonformen Zinsen gewähren.
+
+<sup>3</sup> Die Eidgenössische Finanzverwaltung und das Institut legen die Einzelheiten dieser Zusammenarbeit einvernehmlich fest.
+
+[^79a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 80
+
+**Haftung**[^80-1]
+
+<sup>1</sup> Die Verantwortlichkeit des Instituts, seiner Organe, seines Personals und der von ihm Beauftragten richtet sich unter Vorbehalt von Absatz 2 nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^80-2].
+
+<sup>2</sup>
+
+Das Institut und die von ihm Beauftragten haften nur, wenn:
+
+- a. sie wesentliche Amtspflichten verletzt haben;
+- b. Schäden nicht auf Pflichtverletzungen einer oder eines Beaufsichtigten zurückzuführen sind.
+
+[^80-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^80-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 81
+
+**Steuerfreiheit**
+
+<sup>1</sup> Das Institut ist von jeder Besteuerung durch Bund, Kantone und Gemeinden befreit.
+
+<sup>2</sup>
+
+Vorbehalten bleibt das Bundesrecht über:
+
+- a. die Mehrwertsteuer auf Entgelten;
+- b. die Verrechnungssteuer und die Stempelabgaben.
+
+### 6. Abschnitt:**** Unabhängigkeit und Aufsicht
+
+[^chap5-sec6-1]
+
+[^chap5-sec6-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 81a
+
+<sup>1</sup> Das Institut übt seine Aufsichtstätigkeit selbstständig und unabhängig aus.
+
+<sup>2</sup> Es untersteht der Aufsicht des Bundesrats.
+
+<sup>3</sup>
+
+Der Bundesrat übt seine Aufsichts- und Kontrollfunktion insbesondere aus durch:
+
+- a. die Wahl und die Abberufung der Mitglieder des Institutsrats und von dessen Präsidentin oder Präsidenten;
+- b. die Genehmigung der Begründung und der Beendigung des Arbeitsverhältnisses mit der Direktorin oder mit dem Direktor;
+- c. die Wahl und die Abberufung der Revisionsstelle;
+- d. die Genehmigung der Personal- und der Gebührenverordnung sowie des Anschlussvertrages mit der PUBLICA;
+- e. die Genehmigung des Geschäftsberichts und den Beschluss über die Verwendung eines allfälligen Gewinns;
+- f. die Genehmigung der strategischen Ziele und die jährliche Überprüfung der Erreichung der strategischen Ziele;
+- g. die Entlastung des Institutsrats.
+
+<sup>4</sup> Der Bundesrat kann zur Überprüfung der Erreichung der strategischen Ziele Einsicht in die Geschäftsunterlagen des Instituts nehmen und sich zu diesem Zweck über dessen Geschäftstätigkeit jederzeit informieren lassen.
+
+<sup>5</sup> Die gesetzlichen Befugnisse der Eidgenössischen Finanzkontrolle bleiben vorbehalten.
+
+## 6. Kapitel: Vollzug
+
+#### Art. 82
+
+**Bund**
+
+<sup>1</sup> Der Bundesrat und das Institut vollziehen dieses Gesetz, soweit es den Bund für zuständig erklärt. Für den Vollzug des 4. Kapitels 2*a*. Abschnitt ist das BAG zuständig. Der Bundesrat kann einzelne Aufgaben des Instituts oder des BAG anderen Behörden übertragen.[^82-1]
+
+<sup>2</sup> Er erlässt die Ausführungsbestimmungen, soweit dieses Gesetz nicht das Institut für zuständig erklärt oder er den Erlass von Bestimmungen fachtechnischen Inhalts und untergeordneter Bedeutung nicht dem Institut übertragen hat.
+
+[^82-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 83
+
+**Kantone**
+
+<sup>1</sup>
+
+Die Kantone erfüllen die Vollzugsaufgaben, die:
+
+- a. ihnen dieses Gesetz überträgt;
+- b. nicht ausdrücklich dem Bund übertragen sind.
+
+<sup>2</sup> Die Kantone teilen dem Institut ihre das Heilmittelwesen betreffenden Erlasse mit.
+
+## 7. Kapitel: Verwaltungsverfahren und Rechtsschutz
+
+#### Art. 84
+
+**...[^84-1]**
+
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, richten sich das Verwaltungsverfahren und der Rechtsschutz nach dem Bundesgesetz vom 20. Dezember 1968[^84-2] über das Verwaltungsverfahren, dem Verwaltungsgerichtsgesetz vom 17. Juni 2005[^84-3] und dem Bundesgerichtsgesetz vom 17. Juni 2005[^84-4].[^84-5]
+
+<sup>1bis</sup> In Verwaltungsverfahren des Instituts dürfen die Namen von Referentinnen und Referenten und wissenschaftlichen Gutachterinnen und Gutachtern nur mit deren Einverständnis den Parteien bekannt gegeben werden.[^84-6]
+
+<sup>2</sup> Das Institut ist berechtigt, gegen Verfügungen der kantonalen Behörden und des Bundesverwaltungsgerichts in Anwendung dieses Gesetzes und seiner Ausführungserlasse die Rechtsmittel des kantonalen und eidgenössischen Rechts zu ergreifen.[^84-7]
+
+<sup>3</sup> Es ist zudem berechtigt, gegen Entscheide letzter kantonaler Instanzen, die in Anwendung des Humanforschungsgesetzes vom 30. September 2011[^84-8] ergangen sind, Beschwerde zu führen (Art. 89 Abs. 2 Bst. a des Bundesgerichtsgesetzes vom 17. Juni 2005).[^84-9]
+
+[^84-1]: Aufgehoben durch Anhang Ziff. 89 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^84-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^84-4]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^84-5]: Fassung gemäss Anhang Ziff. 89 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^84-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^84-7]: Fassung gemäss Ziff. I 12 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^84-8]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^84-9]: Eingefügt durch Anhang Ziff. 6 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+
+#### Art. 85
+
+[^85-1]
+
+[^85-1]: Aufgehoben durch Anhang Ziff. 89 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## 8. Kapitel: Strafbestimmungen
+
+#### Art. 86
+
+**Verbrechen und Vergehen**[^86-1]
+
+<sup>1</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer vorsätzlich:
+
+- a. Arzneimittel ohne die erforderliche Zulassung oder Bewilligung, entgegen den mit einer Zulassung oder Bewilligung verknüpften Auflagen und Bedingungen oder entgegen den in den Artikeln 3, 7, 21, 22, 26, 29 und 42 statuierten Sorgfaltspflichten herstellt, in Verkehr bringt, anwendet, verschreibt, einführt, ausführt oder damit im Ausland handelt;
+- b. antibiotische Wirkstoffe entgegen den gestützt auf Artikel 42*a* Absatz 2 erlassenen Einschränkungen oder Verboten einsetzt;
+- c. beim Umgang mit Blut und Blutprodukten die Vorschriften über die Spendetauglichkeit, die Testpflicht, die Aufzeichnungs- oder Aufbewahrungspflicht oder Sorgfaltspflichten nach Artikel 37 verletzt oder die notwendigen Schutz- und Sicherheitsmassnahmen unterlässt;
+- d. Medizinprodukte, die den Anforderungen dieses Gesetzes nicht entsprechen, in Verkehr bringt oder anwendet oder Medizinprodukte anwendet, ohne dass die erforderlichen fachlichen und betrieblichen Voraussetzungen erfüllt sind;
+- e. die Sorgfaltspflicht nach Artikel 48 oder die Instandhaltungspflicht für Medizinprodukte verletzt;
+- f. am Menschen einen klinischen Versuch durchführt oder durchführen lässt, der den Anforderungen dieses Gesetzes nicht entspricht;
+- g. Arzneimittel oder Medizinprodukte unrechtmässig nachmacht, verfälscht oder falsch bezeichnet oder unrechtmässig nachgemachte, verfälschte oder falsch bezeichnete Arzneimittel oder Medizinprodukte in Verkehr bringt, anwendet, einführt, ausführt oder damit im Ausland handelt;
+- h. gegen ein Verbot nach Artikel 55 verstösst.
+
+<sup>2</sup>
+
+Mit Freiheitsstrafe bis zu zehn Jahren, womit eine Geldstrafe verbunden werden kann, wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a–g:
+
+- a. weiss oder annehmen muss, dass die Widerhandlung die Gesundheit von Menschen konkret gefährdet;
+- b. durch gewerbsmässiges Handeln einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
+
+<sup>3</sup> Mit Freiheitsstrafe bis zu zehn Jahren, womit eine Geldstrafe verbunden werden kann, wird bestraft, wer in den Fällen von Absatz 1 Buchstaben a, c, d, f und g als Mitglied einer Bande zur fortgesetzten Ausübung des unerlaubten Heilmittelhandels handelt.
+
+<sup>4</sup> Wer fahrlässig handelt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft. In leichten Fällen kann auf Busse erkannt werden.
+
+[^86-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 mit Ausnahme von Abs. 1 Bst. h, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 87
+
+**Weitere Straftaten[^87-1]**
+
+<sup>1</sup>
+
+Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich:[^87-2]
+
+- a. Heilmittel oder pharmazeutische Hilfsstoffe herstellt, in Verkehr bringt, einführt, ausführt oder damit im Ausland handelt, die den Anforderungen, die in der Pharmakopöe aufgeführt sind, nicht entsprechen;
+- b. gegen die Bestimmungen über die Werbung für Arzneimittel verstösst;
+- c.[^87-3] Melde- oder Publikationspflichten dieses Gesetzes verletzt;
+- d. Kennzeichnungs-, Buchführungs-, Aufbewahrungs- oder Mitwirkungspflichten verletzt;
+- e. die Schweigepflicht verletzt, soweit nicht die Artikel 162, 320 oder 321 des Strafgesetzbuches[^87-4] verletzt sind;
+- f.[^87-5] eine Widerhandlung nach Artikel 86 Absatz 1 Buchstaben a–g begeht, sofern das Heilmittel ausschliesslich für den Eigengebrauch bestimmt ist oder es sich um frei verkäufliche Arzneimittel oder um Medizinprodukte der Klasse I gemäss Anhang IX der Richtlinie 93/42/EWG[^87-6] über Medizinprodukte handelt;
+- g.[^87-7] gegen eine unter Hinweis auf die Strafandrohung dieses Artikels gegen ihn erlassene Verfügung verstösst;
+- h.[^87-8] die Transparenzpflicht nach Artikel 56 verletzt.
+
+<sup>2</sup> Wer in den Fällen nach Absatz 1 Buchstaben a, b, e oder f gewerbsmässig handelt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft.[^87-9]
+
+<sup>3</sup> Wer fahrlässig handelt, wird mit Busse bis zu 20 000 Franken bestraft.[^87-10]
+
+<sup>4</sup> Versuch und Gehilfenschaft sind strafbar.
+
+<sup>5</sup> Eine Übertretung und die Strafe für eine Übertretung verjähren in fünf Jahren.
+
+<sup>6</sup> In besonders leichten Fällen kann auf Strafverfolgung und Bestrafung verzichtet werden.
+
+[^87-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^87-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-6]: Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
+[^87-7]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-8]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-9]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-10]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 88
+
+**Anwendbarkeit anderer Strafandrohungen**
+
+Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen, den Gebrauch von unechten oder unwahren Bescheinigungen, das unberechtigte Ausstellen von Konformitätserklärungen, das unberechtigte Anbringen und Verwenden von Konformitätszeichen sowie für unrechtmässige Vermögensvorteile im Sinne der Artikel 23–29 des Bundesgesetzes vom 6. Oktober 1995[^88-1] über die technischen Handelshemmnisse gelten die dort genannten Strafandrohungen.
+
+[^88-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+#### Art. 89
+
+**Widerhandlungen in Geschäftsbetrieben**[^89-1]
+
+<sup>1</sup> Fällt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^89-2] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, welche im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann von einer Verfolgung dieser Personen abgesehen und an deren Stelle der Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilt werden.
+
+<sup>2</sup> Die Artikel 6 und 7 VStrR gelten auch bei der Strafverfolgung durch kantonale Behörden.
+
+[^89-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^89-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 90
+
+**Strafverfolgung**[^90-1]
+
+<sup>1</sup> Die Strafverfolgung im Vollzugsbereich des Bundes wird vom Institut und vom BAG nach den Bestimmungen des VStrR[^90-2] geführt. Liegt bei der Ein-, Durch- und Ausfuhr von Heilmitteln gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^90-3] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^90-4] vor, so verfolgt und beurteilt die EZV die Widerhandlungen.
+
+<sup>2</sup> Ist nach diesem oder nach einem anderen Bundesgesetz die Zuständigkeit mehrerer Behörden des Bundes zur Strafverfolgung gegeben, so können diese Behörden die Vereinigung der Strafverfolgung zuhanden einer Behörde vereinbaren, sofern es sich um denselben Sachverhalt handelt oder ein enger Sachzusammenhang besteht.
+
+<sup>3</sup> Die Strafverfolgung im Vollzugsbereich der Kantone ist Sache der Kantone. Das Institut kann im Verfahren die Rechte einer Privatklägerschaft wahrnehmen. Die Staatsanwaltschaft teilt dem Institut die Einleitung eines Vorverfahrens mit.
+
+<sup>4</sup> Ist in einer Strafsache, die in den Geltungsbereich dieses Gesetzes fällt, sowohl die Zuständigkeit des Bundes als auch die der Kantone gegeben, so können die zuständigen Behörden die Vereinigung der Verfahren zuhanden des Bundes oder des Kantons vereinbaren.
+
+[^90-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^90-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^90-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^90-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+
+#### Art. 90a
+
+**Geheime Überwachungsmassnahmen**[^90a-1]
+
+<sup>1</sup> Das Institut oder die EZV kann geheime Überwachungsmassnahmen nach den Artikeln 282 und 283 oder 298*a*–298*d* StPO[^90a-2] anordnen.
+
+<sup>2</sup> Dauert eine Massnahme nach Absatz 1 länger als 30 Tage, so ist die Genehmigung der Direktorin oder des Direktors der anordnenden Behörde erforderlich.
+
+<sup>3</sup> Spätestens nach Abschluss der Untersuchung teilt die anordnende Behörde der betroffenen Person den Grund, die Art und die Dauer der geheimen Überwachung mit.
+
+<sup>4</sup> Erweisen sich in einem Vefahren geheime Überwachungsmassnahmen nach den Artikeln 269–281 oder 284–298 StPO als notwendig, so informiert das Institut oder die EZV unverzüglich die Bundesanwaltschaft.
+
+<sup>5</sup> In den Fällen nach Absatz 4 gelangt das Institut oder die EZV mit Zustimmung der Bundesanwaltschaft an das Zwangsmassnahmengericht. Genehmigt dieses die Massnahmen, so übernimmt die Bundesanwaltschaft das Verfahren in Anwendung der StPO.
+
+[^90a-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 90b
+
+**Im Ausland begangene Straftaten und komplexe Verfahren**[^90b-1]
+
+Bezieht sich ein vom Institut oder von der EZV geführtes Verfahren mehrheitlich auf Straftaten im Ausland oder erweist sich das Verfahren als so komplex oder aufwendig, dass es mit den Mitteln, die dem Institut oder der EZV zur Verfügung stehen, nicht oder nicht innert angemessener Frist abgeschlossen werden kann, so kann das Institut oder die EZV die Bundesanwaltschaft um Übernahme des Verfahrens ersuchen. Diese führt das Verfahren in Anwendung der StPO[^90b-2] durch.
+
+[^90b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 90c
+
+**Einbezug Dritter**[^90c-1]
+
+Das Institut und das BAG können unabhängige und fachkundige Personen damit beauftragen, im Rahmen von Verwaltungsstrafverfahren beschlagnahmte Daten zu sichern, zu speichern, auszuwerten und aufzubewahren. Im Rahmen ihrer Tätigkeit für das Institut oder das BAG unterstehen diese Personen den für das Personal des Instituts oder der Bundesverwaltung geltenden Pflichten. Ihre Entschädigungen stellen Barauslagen im Sinne von Artikel 94 Absatz 1 VStrR[^90c-2] dar.
+
+[^90c-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^90c-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+## 9. Kapitel: Schlussbestimmungen
+
+### 1. Abschnitt: Einführungs- und Übergangsbestimmungen
+
+#### Art. 91
+
+**Übernahme der Interkantonalen Kontrollstelle für Heilmittel durch das Institut**
+
+<sup>1</sup> Der Bundesrat kann Stellen, welche bisher Heilmittel registriert oder die Marktüberwachung durchgeführt haben, verpflichten, ihre Unterlagen dem Institut abzuliefern.
+
+<sup>2</sup> Im Übrigen schliesst der Bundesrat mit der Interkantonalen Vereinigung für die Kontrolle der Heilmittel eine Vereinbarung ab betreffend die Übernahme der Interkantonalen Kontrollstelle für Heilmittel durch das Institut.
+
+#### Art. 92
+
+**Übergangsrecht Personal**
+
+<sup>1</sup> Der Bundesrat ernennt die erste Direktorin oder den ersten Direktor des Instituts auf Antrag des Eidgenössischen Departements des Innern.
+
+<sup>2</sup> Das Eidgenössische Departement des Innern bestimmt erstmals die weiteren Mitglieder der Direktion. Sie sind durch den Institutsrat gemäss Artikel 72 Buchstabe h spätestens 18 Monate nach Betriebsaufnahme des Instituts zu bestätigen.
+
+<sup>3</sup> Die Dienstverhältnisse des vom BAG[^92-1] und von der Interkantonalen Kontrollstelle für Heilmittel in das Institut übertretenden Personals werden auf den Zeitpunkt der Betriebsaufnahme des Instituts dem Personalrecht des Instituts unterstellt.
+
+[^92-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 93
+
+**Fehlbetrag der Pensionskasse des Bundes**
+
+Auf den Zeitpunkt der Schaffung des Instituts übernimmt der Bund den Fehlbetrag der Pensionskasse des Bundes für Versicherte, die vom BAG in das Institut übertreten.
+
+#### Art. 94
+
+**Hängige Verfahren**
+
+<sup>1</sup> Verfahren, die im Zeitpunkt des Inkrafttretens dieses Gesetzes vor dem BAG, dem BLV[^94-1], der Interkantonalen Kontrollstelle für Heilmittel, den Organen der Interkantonalen Vereinigung für die Kontrolle der Heilmittel sowie vor den erstinstanzlichen kantonalen Verwaltungsbehörden hängig sind, werden nach den Bestimmungen dieses Gesetzes und von den nach diesem Gesetz zuständigen Behörden abgeschlossen.
+
+<sup>2</sup> Verfahrenshandlungen, die von den bisher zuständigen Behörden in diesen Verfahren vorgenommen wurden, bleiben gültig, sofern sie nicht im Widerspruch zu den materiellen Bestimmungen dieses Gesetzes stehen.
+
+[^94-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 95
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Registrierungen von Arzneimitteln des BAG, des BLV und der Interkantonalen Kontrollstelle für Heilmittel behalten ihre Gültigkeit bis spätestens fünf Jahre nach Inkrafttreten dieses Gesetzes.
+
+<sup>2</sup>
+
+Kantonale Zulassungen von Arzneimitteln bleiben noch bis am 31. Dezember 2017 gültig; die Arzneimittel können innert zwei Jahren nach Ablaufen der Übergangsfrist vom Institut zugelassen werden.[^95-1] Vorbehalten bleiben:
+
+- a. der Widerruf einer Zulassung durch den Kanton;
+- b. die Ablösung einer kantonalen Zulassung durch eine Zulassung des Instituts auf Grund eines entsprechenden Gesuchs.
+
+<sup>3</sup> Für Arzneimittel, die bisher weder nach kantonalem noch nach Bundesrecht zulassungspflichtig waren und die neu zugelassen werden müssen, ist das Zulassungsgesuch innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes einzureichen. Bis zum Zulassungsentscheid des Instituts dürfen sie weiter in Verkehr bleiben.
+
+<sup>4</sup> In-vitro-Diagnostika dürfen nach bisherigem Recht noch bis zum 7. Dezember 2003 in Verkehr gebracht werden. Bewilligungen und Registrierungen von In-vitro-Diagnostika nach bisherigem Recht bleiben bis zum Ablauf der Bewilligungsdauer oder spätestens bis drei Jahre nach Inkrafttreten dieses Gesetzes gültig.
+
+<sup>5</sup> Bewilligungen des Bundes und der Kantone nach bisherigem Recht bleiben bis zum Ablauf der Bewilligungsdauer oder spätestens bis fünf Jahre nach Inkrafttreten dieses Gesetzes gültig.
+
+<sup>6</sup> Personen, welche die Bestimmungen über die Abgabeberechtigung (Art. 24 und 25) nicht erfüllen, müssen die Abgabe von Arzneimitteln bis sieben Jahre nach Inkrafttreten dieses Gesetzes einstellen. Der Bundesrat kann bei Nachweis einer genügenden Aus- und Weiterbildung Ausnahmen vorsehen.
+
+<sup>7</sup> Verwaltungsmassnahmen des Instituts nach Artikel 66 bleiben vorbehalten.
+
+[^95-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4137](https://fedlex.data.admin.ch/eli/oc/2013/761); [BBl 2013 3281](https://fedlex.data.admin.ch/eli/fga/2013/681)[3289](https://fedlex.data.admin.ch/eli/fga/2013/683)).
+
+#### Art. 95a
+
+**Übergangsbestimmung zur Änderung vom 13. Juni 2008**[^95a-1]
+
+Für Arzneimittel, die im Zeitpunkt des Inkrafttretens der Änderung vom 13. Juni 2008 zugelassen sind, beginnen die Fristen nach Artikel 16*a* Absatz 1 mit Datum des Inkrafttretens dieser Änderung zu laufen.
+
+[^95a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008, in Kraft seit 1. Okt. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
+
+#### Art. 95b
+
+**Übergangsbestimmung zur Änderung vom 18. März 2016**[^95b-1]
+
+Solange kein vollständiges Verzeichnis nach Artikel 67 Absätze 3 und 4 besteht, publiziert das Institut die Arzneimittelinformationen auf Kosten der Zulassungsinhaberinnen in Form eines elektronischen Verzeichnisses. Es kann die Erstellung und den Betrieb des Verzeichnisses an Dritte übertragen.
+
+[^95b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+### 2. Abschnitt: Referendum und Inkrafttreten
+
+#### Art. 96
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens:[^96-1] 1. Januar 2002 Artikel 71 und 72: 1. Oktober 2001
+
+[^96-1]: BRB vom 28. Sept. 2001.
+
+Anhang
+
+## Aufhebung und Änderung bisherigen Rechts
+
+I
+
+Das Pharmakopöegesetz vom 6. Oktober 1989[^annexu1-lvlu1-1] wird aufgehoben.
+
+II
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+...[^annexu1-lvlu1-2]
+
+[^annexu1-lvlu1-1]: [[AS 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
+[^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)konsultiert werden.

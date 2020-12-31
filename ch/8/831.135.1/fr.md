@@ -1,0 +1,191 @@
+---
+sr: "831.135.1"
+title: "Ordonnance du 28 août 1978 concernant la remise de moyens auxiliaires par l'assurance-vieillesse (OMAV)"
+short: OMAV
+eli: "https://fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387"
+language: fr
+version: 2018-07-01
+adopted: 1978-08-28
+in_force: 1979-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1387_1387_1387/20180701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1387_1387_1387-20180701-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1387_1387_1387/20180701/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la remise de moyens auxiliaires par l’assurance‑vieillesse
+
+(OMAV)
+
+du 28 août 1978 (État le 1<sup>er</sup> juillet 2018)
+
+Le Département fédéral de l’intérieur,
+
+vu l’art. 66<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance‑vieillesse et survivants (RAVS)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 1
+
+**Champ d’application**
+
+La présente ordonnance définit le droit des assurés à l’octroi de moyens auxiliaires, conformément à l’art. 43<sup>ter</sup> de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1-1].
+
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 2
+
+**Droit aux moyens auxiliaires[^2-1]**
+
+<sup>1</sup> Les bénéficiaires d’une rente de vieillesse qui sont domiciliés en Suisse et ont besoin de moyens auxiliaires pour accomplir leurs travaux habituels, se déplacer, établir des contacts avec leur entourage ou développer leur autonomie personnelle, ont droit à des prestations de l’assurance, selon la liste annexée. Cette liste définit exhaustivement le genre et l’ampleur des prestations afférentes à chaque moyen auxiliaire.
+
+<sup>2</sup> Dans la mesure où la liste n’en dispose pas autrement, l’assurance fournit une contribution de 75 % du prix net.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 oct. 1992, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)).
+[^2-2]: Introduit par le ch. I de l’O du DFI du 9 oct. 1992, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)).
+
+#### Art. 3
+
+**Naissance et extinction du droit aux prestations**
+
+Le droit aux prestations prend naissance au plus tôt le premier jour du mois pour lequel une rente de vieillesse est versée, mais au plus tard à l’âge de la retraite fixé à l’art. 21, al. 1, LAVS[^3-1].[^3-2] Il s’éteint lorsque les conditions dont dépend l’octroi ne sont plus remplies.
+
+[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
+
+#### Art. 4
+
+**Droit aux prestations lorsque des moyens auxiliaires ont déjà été accordés par l’AI**[^4-1]
+
+Les bénéficiaires d’une rente de vieillesse domiciliés en Suisse qui bénéficient de moyens auxiliaires ou de contributions aux frais au sens des art. 21 et 21<sup>bis</sup> de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^4-2] au moment où ils peuvent prétendre une rente AVS, continuent d’avoir droit à ces prestations dans la même mesure, tant que les conditions qui présidaient à leur octroi sont remplies et autant que la présente ordonnance n’en dispose pas autrement. Pour le reste, les dispositions de l’assurance-invalidité relatives aux moyens auxiliaires sont applicables par analogie.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 sept. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 (RO **1982** **1930**).
+[^4-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 5
+
+**Conventions avec les fournisseurs de moyens auxiliaires**[^5-1]
+
+L’Office fédéral des assurances sociales peut conclure avec les institutions d’aide à la vieillesse ou avec les fournisseurs de moyens auxiliaires, des conventions réglant la remise de ceux-ci.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006 en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)).
+
+#### Art. 6
+
+**Procédure**[^6-1]
+
+<sup>1</sup> Pour la procédure, les art. 65 à 79<sup>bis</sup> du règlement du 17 janvier 1961 sur l’assurance-invalidité (RAI)[^6-2] s’appliquent par analogie. La demande doit être adressée à la caisse de compensation qui est compétente pour verser la rente de vieillesse.
+
+<sup>2</sup> …[^6-3]
+
+<sup>3</sup> L’office AI examine le droit aux prestations. Si la demande est traitée selon la procédure simplifiée prévue par l’art. 51 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales[^6-4], il adresse une communication. Si une décision doit être notifiée, cette tâche est du ressort de la caisse de compensation du canton où l’office AI a son siège.[^6-5]
+
+<sup>4</sup> …[^6-6]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 nov. 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 2007](https://fedlex.data.admin.ch/eli/oc/1985/2007_2007_2007)).
+[^6-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^6-3]: Abrogé par le ch. I de l’O du DFI du 20 déc. 2006, avec effet depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)).
+[^6-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3718](https://fedlex.data.admin.ch/eli/oc/2002/573)).
+[^6-6]: Abrogé par le ch. I de l’O du DFI du 25 mai 1992, avec effet au 1<sup>er</sup> juil. 1992 ([RO 1992 1249](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)).
+
+#### Art. 7
+
+[^7-1]
+
+[^7-1]: <sup>Abrogé par le ch. I de l’O du DFI du 13 nov. 1985</sup>, avec effet au 1<sup>er</sup> janv. 1986 <sup>(</sup>[<sup>RO</sup> <sup>1985</sup> <sup>2007</sup>](https://fedlex.data.admin.ch/eli/oc/1985/2007_2007_2007)<sup>).</sup>
+
+#### Art. 8
+
+**Modification d’une autre ordonnance**
+
+…[^8-1]
+
+[^8-1]: La mod. peut être consultée au [RO 1978 1387](https://fedlex.data.admin.ch/eli/oc/1978/1387_1387_1387).
+
+#### Art. 9
+
+**Dispositions finales**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1979.
+
+<sup>2</sup> à <sup>4</sup> …[^9-1]
+
+[^9-1]: <sup>Abrogés par le ch. I de l’O du DFI du 25 mai 1992</sup>, avec effet au 1<sup>er</sup> juil. 1992 <sup>(</sup>[<sup>RO</sup> <sup>1992</sup> <sup>1249</sup>](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)<sup>).</sup>
+
+## Disposition finale de la modification du 25 mai 1992
+
+[^u1-1]
+
+[^u1-1]: [RO 1992 1249](https://fedlex.data.admin.ch/eli/oc/1992/1249_1249_1249)
+
+La présente modification s’applique aux offices AI et aux caisses de compensation concernés dès l’entrée en vigueur de la loi cantonale d’introduction (disp. trans. de la modification de la LAI du 22 mars 1991[^u1-2], en vigueur dès le 1<sup>er</sup> janv. 1992).
+
+[^u1-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)in fine
+
+## Disposition transitoire de la modification du 20 décembre 2006
+
+[^u2-1]
+
+[^u2-1]: [RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)
+
+Pour les fauteuils roulants loués avant le 1<sup>er</sup> janvier 2007, l’assurance prend en charge les frais aux conditions actuelles, mais au plus tard jusqu’au 31 décembre 2007.
+
+## Disposition transitoire de la modification du 25 mai 2011
+
+[^u3-1]
+
+[^u3-1]: [RO 2011 2657](https://fedlex.data.admin.ch/eli/oc/2011/366)
+
+La modification du 25 mai 2011 est applicable aux demandes en vue d’un appareillage auditif déposées avant la date de son entrée en vigueur à l’échéance d’une période de cinq ans à compter de la remise.
+
+## Disposition transitoire de la modification du 14 mai 2018
+
+[^u4-1]
+
+[^u4-1]: [RO 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)
+
+La modification du 14 mai 2018 est applicable aux demandes en vue d’un appareillage auditif déposées avant la date de son entrée en vigueur à l’échéance d’une période de cinq ans à compter de la remise.
+
+Annexe[^t-1]
+
+(art. 2)
+
+## Liste des moyens auxiliaires
+
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 9 oct. 1992 ([RO 1992 2402](https://fedlex.data.admin.ch/eli/oc/1992/2402_2402_2402)). Mise à jour selon le ch. I des O du DFI du 6 nov. 1998 ([RO 1998 3023](https://fedlex.data.admin.ch/eli/oc/1998/3023_3023_3023)), du 16 déc. 1999 ([RO 2000 615](https://fedlex.data.admin.ch/eli/oc/2000/104)), du 20 déc. 2006 ([RO 2006 5765](https://fedlex.data.admin.ch/eli/oc/2006/854)), et du 14 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2245](https://fedlex.data.admin.ch/eli/oc/2018/314)).
+
+- **1** **…**
+- **2** **…**
+- **4** **Chaussures**
+- 4\.51 *Chaussures orthopédiques sur mesure et chaussures orthopédiques de sé**rie, frais de fabrication inclus*
+- Lorsqu’elles sont adaptées individuellement à une forme ou à une fonction pathologique du pied ou qu’elles remplacent un appareil orthopédique. La prestation de l’assurance peut être revendiquée au maximum tous les deux ans, à moins que des raisons médicales ne justifient un nouvel achat de chaussures orthopédiques sur mesure avant l’expiration de ce délai.
+- **5** **Moyens auxiliaires pour le crâne et la face**
+- 5\.51 …
+- 5\.52 *Epithèses faciales*
+- La prestation de l’assurance peut être revendiquée au maximum tous les deux ans.
+- 5\.56 *Perruques*
+- Lorsque l’absence de chevelure modifie l’apparence extérieure de l’assuré. L’assurance participe aux coûts à raison de 1000 francs maximum par année civile.
+- 5\.57 *Appareils auditifs*
+- L’appareillage est pris en charge à condition que l’assuré souffre de surdité grave, que la pose d’un appareil améliore notablement la capacité auditive et que les contacts de l’assuré avec son entourage soient ainsi considérablement facilités.
+- L’assuré a droit à un remboursement forfaitaire, qui peut être demandé tous les cinq ans au maximum, pour un ou deux appareils auditifs; le remplacement des appareils avant l’expiration de ce délai est possible si une modification notable de l’acuité auditive l’exige. Les appareils auditifs doivent être remis par une personne qualifiée.
+- Le forfait correspond à 75 % du forfait de l’assurance-invalidité (AI) prévu au ch. 5.07 de l’annexe à l’ordonnance du DFI du 29 novembre 1976 concernant la remise de moyens auxiliaires par l’assurance-invalidité (OMAI)[^annexu1-lvlu1-1]. La prestation prise en charge se limite à l’appareillage auditif, les autres coûts ne sont pas remboursés par l’assurance.
+- Le forfait n’est accordé que pour des appareils auditifs qui répondent aux exigences de l’assurance.
+- Il est versé sur présentation du montant global facturé et des justificatifs correspondants.
+- 5\.57.1 *Dispositions particulières pour les appareils auditifs implantés ou fixés par ancrage osseux et les implants d’oreille moyenne*
+- L’AVS fournit une contribution de 75 % du montant remboursé par l’AI pour les composantes externes des appareils auditifs implantés ou fixés par ancrage osseux et des implants d’oreille moyenne.
+- Elle accorde en outre un forfait de prestations pour l’adaptation et le suivi des composantes externes des appareils auditifs implantés et des implants d’oreille moyenne. Ce forfait correspond à 75 % des forfaits respectifs prévus au ch. 5.07.1 de l’annexe à l’OMAI.
+- Le forfait de prestations est versé sur présentation du montant global facturé et des justificatifs correspondants.
+- La prestation prise en charge se limite aux composantes externes et au forfait de prestations pour l’adaptation et le suivi de celles-ci; les autres coûts ne sont pas remboursés par l’assurance.
+- 5\.58 *Appareils orthophoniques après opération du larynx*
+- La prestation de l’assurance peut être revendiquée au maximum tous les cinq ans.
+- **9** **Fauteuils roulants**
+- 9\.51 *Fauteuils roulants sans moteur*
+- Lorsqu’il est probable qu’ils seront utilisés continuellement et durablement. La contribution de l’assurance est de 900 francs et la prestation peut être revendiquée au maximum tous les cinq ans. La participation aux coûts pour un équipement spécial nécessité par l’invalidité s’élève à 1840 francs. Si, en plus, un coussin anti-escarres est nécessaire, la participation s’élève à 2200 francs. Les équipements spéciaux doivent être remis par des centres reconnus par l’Office fédéral des assurances sociales.
+- **11** **Moyens auxiliaires pour handicapés de la vue**
+- 11\.57 *Lunettes-loupes*
+- Destinées aux assurés gravement handicapés de la vue qui ne peuvent lire que par ce moyen. L’assurance participe aux coûts à raison de 590 francs au plus pour des lunettes loupes monoculaires, de 900 francs au plus pour des lunettes loupes binoculaires, de 1334 francs au plus pour des téléloupes monoculaires et de 2048 francs au plus pour des téléloupes binoculaires. La prestation peut être revendiquée au maximum tous les cinq ans, à moins que des raisons médicales ne justifient un nouvel achat avant l’expiration de ce délai.
+
+[^annexu1-lvlu1-1]: [RS 831.232.51](https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664)

@@ -1,0 +1,312 @@
+---
+sr: "0.211.212.3"
+title: Übereinkommen vom 1. Juni 1970 über die Anerkennung von Ehescheidungen und Ehetrennungen
+eli: "https://fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546"
+language: de
+version: 2013-10-18
+adopted: 1970-06-01
+in_force: 1976-07-17
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546/20131018/de/xml/fedlex-data-admin-ch-eli-cc-1976-1546_1546_1546-20131018-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20131018/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Übereinkommen über die Anerkennung von Ehescheidungen und Ehetrennungen
+
+AS **1976** 1546; BBl **1975** II 1369
+
+Übersetzung*[^t-1]*
+
+Abgeschlossen in Den Haag am 1. Juni 1970
+
+Von der Bundesversammlung genehmigt am 4. März 1976[^t-2]
+
+Schweizerische Ratifikationsurkunde hinterlegt am 18. Mai 1976
+
+In Kraft getreten für die Schweiz am 17. Juli 1976
+
+(Stand am 18. Oktober 2013)
+
+[^t-1]: Mit Deutschland und Österreich im Jahre 1994 neue abgestimmte Übersetzung, welche von der Publikation in der [AS 1976 1546](https://fedlex.data.admin.ch/eli/oc/1976/1546_1546_1546)abweicht. Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+[^t-2]: [AS 1976 1544](https://fedlex.data.admin.ch/eli/oc/1976/1544_1544_1544)
+
+Die Unterzeichnerstaaten dieses Übereinkommens,
+
+in dem Wunsch, die Anerkennung von Ehescheidungen und Ehetrennungen zu erleichtern, die auf ihrem Hoheitsgebiet erwirkt worden sind,
+
+haben beschlossen, zu diesem Zweck ein Übereinkommen zu schliessen, und haben die folgenden Bestimmungen vereinbart:
+
+#### Art. 1
+
+Dieses Übereinkommen ist auf die Anerkennung von Ehescheidungen und Ehetrennungen in einem Vertragsstaat anzuwenden, die in einem anderen Vertragsstaat aufgrund eines gerichtlichen oder eines in diesem Staat amtlich anerkannten Verfahrens erwirkt wurden und dort rechtswirksam sind.
+
+Das Übereinkommen ist auf die in der Ehescheidungs- oder Ehetrennungsentscheidung ergangenen Beschlüsse oder Verurteilungen zu Zahlungen und Anordnungen über das Sorgerecht für die Kinder, nicht anzuwenden.
+
+#### Art. 2
+
+Diese Ehescheidungen und Ehetrennungen werden vorbehaltlich der sonstigen Bestimmungen dieses Übereinkommens in jedem anderen Vertragsstaat anerkannt, wenn im Zeitpunkt der Einleitung des Verfahrens im Scheidungs- oder Trennungsstaat (im folgenden als «Ursprungsstaat» bezeichnet)
+
+- 1\. der Antragsgegner seinen gewöhnlichen Aufenthalt im Ursprungsstaat hatte;
+- 2\.
+
+  der Antragsteller seinen gewöhnlichen Aufenthalt im Ursprungsstaat hatte und ausserdem eine der folgenden Voraussetzungen erfüllt war:
+
+  - a) der gewöhnliche Aufenthalt hatte unmittelbar vor der Einleitung des Verfahrens mindestens ein Jahr gedauert, oder
+  - b) die Ehegatten hatten dort ihren letzten gemeinsamen gewöhnlichen Aufenthalt gehabt;
+
+- 3\. beide Ehegatten Angehörige des Ursprungsstaates waren;
+- 4\.
+
+  der Antragsteller Angehöriger des Ursprungsstaats war und ausserdem eine der folgenden Voraussetzungen erfüllt war:
+
+  - a) der Antragsteller hatte seinen gewöhnlichen Aufenthalt im Ursprungsstaat, oder
+  - b) der Antragsteller hatte dort ein Jahr lang ununterbrochen seinen gewöhnlichen Aufenthalt gehabt, wovon zumindest ein Teil innerhalb eines Zeitraumes von zwei Jahren vor der Einleitung des Verfahrens lag, oder
+
+- 5\.
+
+  der Antragsteller des Scheidungsverfahrens Angehöriger des Ursprungsstaats war und ausserdem die beiden folgenden Voraussetzungen erfüllt waren:
+
+  - a) der Antragsteller war im Zeitpunkt der Einleitung des Verfahrens im Ursprungsstaat anwesend, und
+  - b) die Ehegatten hatten ihren gemeinsamen gewöhnlichen Aufenthalt zuletzt in einem Staat, dessen Recht im Zeitpunkt der Einleitung des Verfahrens die Ehescheidung nicht vorsah.
+
+#### Art. 3
+
+Beruht im Ursprungsstaat die Zuständigkeit für Ehescheidungs- und Ehetrennungssachen auf dem Wohnsitz, so umfasst der in Artikel 2 gebrauchte Ausdruck «gewöhnlicher Aufenthalt» auch den Begriff des Wohnsitzes, wie er in diesem Staat verwendet wird.
+
+Absatz 1 ist jedoch nicht auf den Wohnsitz der Ehefrau anzuwenden, wenn dieser von dem des Ehemannes abgeleitet ist.
+
+#### Art. 4
+
+Im Falle einer Widerklage wird die aufgrund der Klage oder Widerklage erwirkte Ehescheidung oder Ehetrennung anerkannt, wenn eine der beiden Klagen die Voraussetzungen der Artikel 2 oder 3 erfüllt.
+
+#### Art. 5
+
+Ist eine den Bestimmungen dieses Übereinkommens entsprechende Ehetrennung im Ursprungsstaat in eine Ehescheidung umgewandelt worden, so darf die Anerkennung der Ehescheidung nicht mit der Begründung versagt werden, dass die in den Artikeln 2 und 3 genannten Voraussetzungen im Zeitpunkt der Einleitung des Scheidungsverfahrens nicht mehr erfüllt waren.
+
+#### Art. 6
+
+Hat der Antragsgegner am Verfahren teilgenommen, so sind die Behörden des Staates, in dem die Anerkennung einer Ehescheidung oder Ehetrennung geltend gemacht wird (Anerkennungsstaate), an die tatsächlichen Feststellungen gebunden, auf welche die Zuständigkeit gegründet worden ist.
+
+Die Anerkennung einer Ehescheidung oder Ehetrennung darf nicht mit der Begründung versagt werden,
+
+Unbeschadet einer Nachprüfung, die für die Anwendung anderer Bestimmungen dieses Übereinkommens erforderlich sein könnte, dürfen die Behörden des Anerkennungsstaats die Entscheidung in der Sache selbst nicht nachprüfen.
+
+- a) dass das innerstaatliche Recht des Anerkennungsstaats die Ehescheidung oder Ehetrennung wegen derselben Tatsachen nicht zulassen würde oder
+- b) dass ein anderes als das Recht angewendet worden ist, das nach den Vorschriften des internationalen Privatrechts des Anerkennungsstaats anzuwenden gewesen wäre.
+
+#### Art. 7
+
+Jeder Vertragsstaat kann, die Anerkennung einer Ehescheidung versagen, wenn beide Ehegatten im Zeitpunkt der Entscheidung ausschliesslich Angehörige eines Staates waren, dessen Recht die Ehescheidung nicht vorsah.
+
+#### Art. 8
+
+Wurden unter Würdigung aller Umstände keine angemessenen Vorkehrungen getroffen, um den Antragsgegner vom Ehescheidungs- oder Ehetrennungsverfahren in Kenntnis zu setzen, oder wurde dem Antragsgegner keine ausreichende Gelegenheit gegeben, seine Rechte geltend zu machen, so kann die Anerkennung der Ehescheidung oder Ehetrennung versagt werden.
+
+#### Art. 9
+
+Jeder Vertragsstaat kann die Anerkennung einer Ehescheidung oder Ehetrennung versagen, wenn sie mit einer früheren Entscheidung über den ehelichen Stand der Ehegatten unvereinbar ist, die im Anerkennungsstaat ergangen ist oder die in diesem Staat anerkannt worden ist oder sie die Voraussetzungen für die Anerkennung erfüllt.
+
+#### Art. 10
+
+Jeder Vertragsstaat kann die Anerkennung einer Ehescheidung oder Ehetrennung versagen, wenn eine solche Anerkennung mit seiner öffentlichen Ordnung offensichtlich unvereinbar ist.
+
+#### Art. 11
+
+Ein Staat, der nach diesem Übereinkommen verpflichtet ist, eine Ehescheidung anzuerkennen, darf keinem der Ehegatten eine neue Eheschliessung mit der Begründung verweigern, dass das Recht eines anderen Staates diese Ehescheidung nicht anerkennt.
+
+#### Art. 12
+
+Das in diesem Vertragsstaat anhängige Ehescheidungs- oder Ehetrennungsverfahren kann ausgesetzt werden, wenn der eheliche Stand eines Ehegatten Gegenstand eines Verfahrens in einem anderen Vertragsstaat ist.
+
+#### Art. 13
+
+Für Ehescheidungen oder Ehetrennungen, die in Vertragsstaaten erwirkt worden sind oder deren Anerkennung in Vertragsstaaten geltend gemacht wird, in denen für Ehescheidungs- oder Ehetrennungssachen zwei oder mehr Rechtssysteme bestehen, die in verschiedenen Gebietseinheiten gelten, ist
+
+- 1\. eine Verweisung auf das Recht des Ursprungsstaates als Verweisung auf das Recht der Gebietseinheit zu verstehen, in der die Ehescheidung oder Ehetrennung erwirkt worden ist;
+- 2\. eine Verweisung auf das Recht des Anerkennungsstaats als Verweisung auf das Recht des Gerichtsortes (*lex fori*) zu verstehen und
+- 3\. eine Verweisung auf den Wohnort oder den Aufenthalt im Ursprungsstaat als Verweisung auf den Wohnsitz oder den Aufenthalt in der Gebietseinheit zu verstehen, in der die Ehescheidung oder Ehetrennung erwirkt worden ist.
+
+#### Art. 14
+
+Bestehen im Ursprungsstaat für Ehescheidungen oder Ehetrennungen zwei oder mehr Rechtssysteme, die in verschiedenen Gebietseinheiten gelten, so gilt für die Anwendung der Artikel 2 und 3 folgendes:
+
+- 1\. Artikel 2 Nummer[^14-1] 3 ist ohne Rücksicht auf den gewöhnlichen Aufenthalt der Ehegatten anzuwenden, wenn beide Ehegatten Angehörige des Staates waren, in dessen Gebietseinheit die Ehescheidung oder Ehetrennung erwirkt worden ist;
+- 2\. Artikel 2 Nummern 4 und 5 sind anzuwenden, wenn der Antragsteller Angehöriger des Staates war, in dessen Gebietseinheit die Ehescheidung oder Ehetrennung erwirkt worden ist.
+
+[^14-1]: Für die Republik Österreich: «Zahl».
+
+#### Art. 15
+
+Bestehen in einem Vertragsstaat für Ehescheidungen oder Ehetrennungen zwei oder mehr Rechtssysteme, die für verschiedene Personengruppen gelten, so ist eine Verweisung auf das Recht dieses Staates als Verweisung auf das Rechtssystem zu verstehen, das sich aus dem Recht dieses Staates ergibt.
+
+#### Art. 16
+
+Ist in Anwendung dieses Übereinkommens das Recht eines anderen Staates als des Ursprungs- oder Anerkennungsstaats in Betracht zu ziehen, unabhängig davon, ob er Vertragsstaat ist oder nicht, und bestehen in diesem Staat für Ehescheidungen oder Ehetrennungen zwei oder mehr Rechtssysteme mit verschiedener räumlicher oder personeller Geltung, so ist das Rechtssystem anzuwenden, das sich aus dem Recht dieses Staates ergibt.
+
+#### Art. 17
+
+Dieses Übereinkommen hindert einen Vertragsstaat nicht, auf die Anerkennung im Ausland erwirkter Ehescheidungen und Ehetrennungen günstigere Rechtsnormen anzuwenden.
+
+#### Art. 18
+
+Dieses Übereinkommen steht der Anwendung anderer Übereinkünfte nicht entgegen, denen ein oder mehrere Vertragsstaaten als Vertragsparteien angehören oder angehören werden und die Bestimmungen über die durch dieses Übereinkommen geregelten Angelegenheiten enthalten.
+
+Die Vertragsstaaten werden jedoch dafür sorgen, dass auf diesem Rechtsgebiet keine mit den Regelungen dieses Übereinkommens unvereinbaren weiteren Übereinkünfte geschlossen werden, es sei denn aus besonderen Gründen, die auf regionalen oder anderen Bindungen beruhen; ungeachtet der Bestimmungen solcher Übereinkünfte verpflichten sich die Vertragsstaaten, nach diesem Übereinkommen Ehescheidungen und Ehetrennungen anzuerkennen, die in solchen Übereinkünften nicht angehörenden Vertragsstaaten erwirkt worden sind.
+
+#### Art. 19
+
+Jeder Vertragsstaat kann sich spätestens bei der Ratifikation oder dem Beitritt das Recht vorbehalten,
+
+- 1\. die Anerkennung einer Ehescheidung oder Ehetrennung zu versagen, wenn beide Ehegatten im Zeitpunkt der Scheidung oder Trennung ausschliesslich seine Angehörigen waren und ein anderes als das von seinem internationalen Privatrecht bestimmte Recht angewandt worden ist, es sei denn, die Anwendung des anderen Rechts hätte zum selben Ergebnis geführt, wie wenn das nach seinem internationalen Privatrecht massgebliche Recht angewandt worden wäre;
+- 2\. die Anerkennung einer Ehescheidung zu versagen, wenn beide Ehegatten in dem Zeitpunkt, in dem sie erwirkt worden ist, ihren gewöhnlichen Aufenthalt in Staaten hatten, welche die Scheidung nicht vorsahen. Ein Staat, der diesen Vorbehalt anbringt, darf die Anerkennung nicht nach Artikel 7 versagen.
+
+#### Art. 20
+
+Jeder Vertragsstaat, dessen Recht die Ehescheidung nicht vorsieht, kann sich spätestens bei der Ratifikation oder dem Beitritt das Recht vorbehalten, eine Ehescheidung nicht anzuerkennen, wenn einer der Ehegatten in dem Zeitpunkt, in dem sie erwirkt worden ist, Angehöriger eines Staates war, dessen Recht die Ehescheidung nicht vorsah.
+
+Dieser Vorbehalt bleibt nur solange wirksam, wie das Recht des Staates, der ihn angebracht hat, die Ehescheidung nicht vorsieht.
+
+#### Art. 21
+
+Jeder Vertragsstaat, dessen Recht die Ehetrennung nicht vorsieht, kann sich spätestens bei der Ratifikation oder beim Beitritt das Recht vorbehalten, die Anerkennung einer solchen Ehetrennung zu versagen, wenn einer der Ehegatten in dem Zeitpunkt, in dem sie erwirkt worden ist, Angehöriger eines Vertragsstaats war, dessen Recht die Ehetrennung nicht vorsah.
+
+#### Art. 22
+
+Jeder Vertragsstaat kann jederzeit erklären, dass bestimmte Personengruppen, die seine Staatsangehörigkeit besitzen, bei der Anwendung dieses Übereinkommens nicht als seine Angehörigen angesehen werden müssen.
+
+#### Art. 23
+
+Jeder Vertragsstaat, in dem für Ehescheidungen und Ehetrennungen zwei oder mehr Rechtssysteme bestehen, kann bei der Unterzeichnung, der Ratifikation oder dem Beitritt erklären, dass dieses Übereinkommen auf alle seine Rechtssysteme oder nur auf eines oder mehrere von ihnen erstrecken soll, und kann seine Erklärung jederzeit durch eine neue Erklärung ändern.
+
+Die Erklärungen sind dem Ministerium für Auswärtige Angelegenheiten der Niederlande zu notifizieren und haben ausdrücklich anzugeben, auf welche Rechtssysteme das Übereinkommen sich erstreckt.
+
+Jeder Vertragsstaat kann die Anerkennung einer Ehescheidung oder Ehetrennung versagen, wenn in dem Zeitpunkt, in dem die Anerkennung geltend gemacht wird, das Übereinkommen auf das Rechtssystem nicht anzuwenden ist, aufgrund dessen die Scheidung oder Trennung erwirkt worden.
+
+#### Art. 24
+
+Dieses Übereinkommen ist unabhängig von dem Zeitpunkt anzuwenden, in dem die Ehescheidung oder Ehetrennung erwirkt worden ist.
+
+Jeder Vertragsstaat kann sich jedoch spätestens bei der Ratifikation oder dem Beitritt das Recht vorbehalten, das Übereinkommen auf eine Ehescheidung oder Ehetrennung nicht anzuwenden, die vor dem Inkrafttreten des Übereinkommens für diesen Staat erwirkt worden ist.
+
+#### Art. 25
+
+Jeder Staat kann spätestens bei der Ratifikation oder dem Beitritt einen oder mehrere der in den Artikeln 19, 20, 21 und 24 vorgesehenen Vorbehalte anbringen. Weitere Vorbehalte sind nicht zulässig.
+
+Jeder Vertragsstaat kann ferner, wenn er eine Erstreckung des Übereinkommens nach Artikel 29 notifiziert, die Wirkung eines oder mehrerer dieser Vorbehalte für alle oder einzelne von der Erstreckung erfasste Hoheitsgebiete beschränken.
+
+Jeder Vertragsstaat kann einen von ihm angebrachten Vorbehalt jederzeit zurücknehmen. Eine solche Rücknahme wird dem Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert.
+
+Die Wirkung des Vorbehalts endet am sechzigsten Tage nach der in Absatz 3 genannten Notifikation.
+
+#### Art. 26
+
+Dieses Übereinkommen liegt für die bei der Elften Tagung der Haager Konferenz für Internationales Privatrecht vertretenen Staaten zur Unterzeichnung auf.
+
+Es bedarf der Ratifikation; die Ratifikationsurkunden werden beim Ministerium für Auswärtige Angelegenheiten der Niederlande hinterlegt.
+
+#### Art. 27
+
+Dieses Übereinkommen tritt am sechzigsten Tag nach der in Artikel 26 Absatz 2 vorgesehenen Hinterlegung der dritten Ratifikationsurkunde in Kraft.
+
+Das Übereinkommen tritt für jeden Unterzeichnerstaat, der es später ratifiziert, am sechzigsten Tag nach Hinterlegung seiner Ratifikationsurkunde in Kraft.
+
+#### Art. 28
+
+Jeder bei der Elften Tagung der Haager Konferenz für Internationales Privatrecht nicht vertretene Staat, der Mitglied dieser Konferenz, der Vereinten Nationen oder einer ihrer Sonderorganisationen[^28-1] oder Vertragspartei des Statuts des Internationalen Gerichtshofs[^28-2] ist, kann diesem Übereinkommen beitreten, nachdem es gemäss Artikel 27 Absatz 1 in Kraft getreten ist.
+
+Die Beitrittsurkunde wird beim Ministerium für Auswärtige Angelegenheiten der Niederlande hinterlegt.
+
+Das Übereinkommen tritt für den beitretenden Staat am sechzigsten Tag nach Hinterlegung seiner Beitrittsurkunde in Kraft.
+
+Der Beitritt wirkt nur in den Beziehungen zwischen dem beitretenden Staat und den Vertragsstaaten, die erklären, den Beitritt anzunehmen. Eine solche Erklärung wird beim Ministerium für Auswärtige Angelegenheiten der Niederlande hinterlegt; dieses übermittelt jedem Vertragsstaat auf diplomatischem Weg eine beglaubigte Abschrift.
+
+Das Übereinkommen tritt zwischen dem beitretenden Staat und dem Staat, der erklärt hat, den Beitritt anzunehmen, am sechzigsten Tag nach Hinterlegung der Annahmeerklärung in Kraft.
+
+[^28-1]: Für die Republik Österreich: «Spezialorganisationen».
+[^28-2]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+
+#### Art. 29
+
+Jeder Staat kann bei der Unterzeichnung, der Ratifikation oder dem Beitritt erklären, dass sich dieses Übereinkommen auf alle oder auf einzelne Hoheitsgebiete erstreckt, deren internationale Beziehungen er wahrnimmt. Eine solche Erklärung wird wirksam, sobald das Übereinkommen für den betreffenden Staat in Kraft tritt.
+
+Jede spätere Erstreckung dieser Art wird dem Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert.
+
+Die Erstreckung wirkt nur in den Beziehungen zu den Vertragsstaaten, die erklären, die Erstreckung anzunehmen. Eine solche Erklärung wird beim Ministerium für Auswärtige Angelegenheiten der Niederlande hinterlegt; dieses übermittelt jedem Vertragsstaaten auf diplomatischem Weg eine beglaubigte Abschrift.
+
+Die Erstreckung wird jeweils sechzig Tage nach Hinterlegung der Annahmeerklärung wirksam.
+
+#### Art. 30
+
+Dieses Übereinkommen bleibt für die Dauer von fünf Jahren in Kraft, vom Tag seines Inkrafttretens nach Artikel 27 Absatz 1 an gerechnet, und zwar auch für die Staaten, die es später ratifiziert haben oder ihm später beigetreten sind.
+
+Die Geltungsdauer dieses Übereinkommens verlängert sich, ausser im Fall der Kündigung, stillschweigend um jeweils fünf Jahre.
+
+Die Kündigung wird spätestens sechs Monate vor Ablauf der fünf Jahre dem Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert.
+
+Sie kann sich auf bestimmte Hoheitsgebiete beschränken, auf die das Übereinkommen angewandt wird.
+
+Die Kündigung wirkt nur für den Staat, der sie notifiziert hat. Für die anderen Vertragsstaaten bleibt das Übereinkommen in Kraft.
+
+#### Art. 31
+
+Das Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert den in Artikel 26 bezeichneten Staaten sowie den Staaten, die nach Artikel 28 beigetreten sind,
+
+- a) jede Unterzeichnungen und Ratifikation nach Artikel 26;
+- b) den Tag, an dem dieses Übereinkommen nach Artikel 27 Absatz 1 in Kraft tritt;
+- c) jeden Beitritt nach Artikel 28 und den Tag, an dem er wirksam wird;
+- d) jede Erstreckung nach Artikel 29 und den Tag, an dem sie wirksam wird;
+- e) jede Kündigung nach Artikel 30;
+- f) jeden Vorbehalt und jede Rücknahme von Vorbehalten nach den Artikeln 19, 20, 21, 24 und 25;
+- g) jede Erklärung nach den Artikeln 22, 23, 28 und 29.
+
+*Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag, am 1. Juni 1970 in englischer und französischer Sprache[^t-3], wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Regierung der Niederlande hinterlegt und von der jedem der bei der Elften Tagung der Haager Konferenz für Internationales Privatrecht vertretenen Staaten auf diplomatischem Weg eine beglaubigte Abschrift übermittelt wird. (Es folgen die Unterschriften)
+
+[^t-3]: Für die Schweizerische Eidgenossenschaft: «in französischer und englischer Sprache».
+
+Geltungsbereich am 18. Oktober 2013**[^t-4]**
+
+<table>
+<tr><th colspan="3">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
+<tr><td colspan="3">Ägypten</td><td colspan="2">21. April</td><td colspan="2">1980</td><td>20. Juni</td><td colspan="3">1980</td></tr>
+<tr><td colspan="3">Albanien<sup>\*</sup> <sup>a</sup></td><td colspan="2">7. März</td><td colspan="2">2013 B</td><td>12. Oktober</td><td colspan="2">2013</td></tr>
+<tr><td colspan="3">Australien\* <sup>a</sup></td><td colspan="2">24. September</td><td colspan="2">1985 B</td><td>13. April</td><td colspan="3">1986</td></tr>
+<tr><td colspan="3">China</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
+<tr><td colspan="3">Hongkong<sup>b</sup></td><td colspan="2">16. Juni</td><td colspan="2">1997</td><td>1. Juli</td><td colspan="3">1997</td></tr>
+<tr><td colspan="3">Dänemark\*</td><td colspan="2">25. Juni</td><td colspan="2">1975</td><td>24. August</td><td colspan="3">1975</td></tr>
+<tr><td colspan="3">Estland<sup>a</sup></td><td colspan="2">7. November</td><td colspan="2">2002 B</td><td>29. März</td><td colspan="3">2008</td></tr>
+<tr><td colspan="3">Finnland</td><td colspan="2">16. Juni</td><td colspan="2">1977</td><td>15. August</td><td colspan="3">1977</td></tr>
+<tr><td colspan="3">Italien\*</td><td colspan="2">19. Februar</td><td colspan="2">1986</td><td>20. April</td><td colspan="3">1986</td></tr>
+<tr><td colspan="3">Luxemburg\*</td><td colspan="2">13. Februar</td><td colspan="2">1991</td><td>14. April</td><td colspan="3">1991</td></tr>
+<tr><td colspan="3">Moldau\* <sup>a</sup></td><td colspan="2">10. Oktober</td><td colspan="2">2011 B</td><td>9. September</td><td colspan="2">2013</td></tr>
+<tr><td colspan="3">Niederlande\*</td><td colspan="2">23. Juni</td><td colspan="2">1981</td><td>22. August</td><td colspan="3">1981</td></tr>
+<tr><td colspan="3">Aruba<sup>a</sup></td><td colspan="2">28. Mai</td><td colspan="2">1986 B</td><td>29. März</td><td colspan="3">2008</td></tr>
+<tr><td colspan="3">Norwegen</td><td colspan="2">15. August</td><td colspan="2">1978</td><td>14. Oktober</td><td colspan="3">1978</td></tr>
+<tr><td colspan="3">Polen\* <sup>a</sup></td><td colspan="2">25. April</td><td colspan="2">1996 B</td><td>29. März</td><td colspan="3">2008</td></tr>
+<tr><td colspan="3">Portugal</td><td colspan="2">10. Mai</td><td colspan="2">1985</td><td>9. Juli</td><td colspan="3">1985</td></tr>
+<tr><td colspan="3">Schweden</td><td colspan="2">25. Juni</td><td colspan="2">1975</td><td>24. August</td><td colspan="3">1975</td></tr>
+<tr><td colspan="3">Schweiz\*</td><td colspan="2">18. Mai</td><td colspan="2">1976</td><td>17. Juli</td><td colspan="3">1976</td></tr>
+<tr><td colspan="3">Slowakei\*</td><td colspan="2">26. April</td><td colspan="2">1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
+<tr><td colspan="3">Tschechische Republik\*</td><td colspan="2">28. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
+<tr><td colspan="3">Vereinigtes Königreich\*</td><td colspan="2">21. Mai</td><td colspan="2">1974</td><td>24. August</td><td colspan="3">1975</td></tr>
+<tr><td colspan="3">Bermudas\* <sup>a</sup></td><td colspan="2">20. August</td><td colspan="2">1982 B</td><td>11. Februar</td><td colspan="3">1983</td></tr>
+<tr><td colspan="3">Gibraltar\* <sup>a</sup></td><td colspan="2">5. April</td><td colspan="2">1977 B</td><td>4. Juni</td><td colspan="3">1977</td></tr>
+<tr><td colspan="3">Guernsey\* <sup>a</sup></td><td colspan="2">3. März</td><td colspan="2">1978 B</td><td>2. Mai</td><td colspan="3">1978</td></tr>
+<tr><td colspan="3">Insel Man\* <sup>a</sup></td><td colspan="2">3. März</td><td colspan="2">1978 B</td><td>2. Mai</td><td colspan="3">1978</td></tr>
+<tr><td colspan="3">Jersey\* <sup>a</sup></td><td colspan="2">3. März</td><td colspan="2">1978 B</td><td>2. Mai</td><td colspan="3">1978</td></tr>
+<tr><td colspan="3">Zypern\* <sup>a</sup></td><td colspan="2">13. Januar</td><td colspan="2">1983 B</td><td>14. November</td><td colspan="3">1983</td></tr>
+<tr><td>\*</td><td colspan="9">Vorbehalte und Erklärungen.</td></tr>
+<tr><td></td><td colspan="9">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: http://hcch.e-vision.nl/index\_fr.php eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td><sup>a</sup></td><td colspan="10">Der Beitritt unterliegt dem Annahmeverfahren. Das Datum des Inkrafttretens ist jenes zwischen der Schweiz und diesem Vertragsstaat, bzw. Hoheitsgebiet.</td></tr>
+<tr><td><sup>b</sup></td><td colspan="10">Vom 4. Juni 1977 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+</table>
+
+[^t-4]: [AS 2005 999](https://fedlex.data.admin.ch/eli/oc/2005/115), [2011 2229](https://fedlex.data.admin.ch/eli/oc/2011/300), [2013 2711](https://fedlex.data.admin.ch/eli/oc/2013/554)und [3559](https://fedlex.data.admin.ch/eli/oc/2013/670). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+
+Vorbehalte und Erklärungen
+
+Schweiz**[^t-5]**
+
+Die Schweiz macht von der in Artikel 24 Absatz 2 des Übereinkommens vorgesehenen Vorbehaltsmöglichkeit Gebrauch und behält sich das Recht vor, das Übereinkommen nicht auf eine Ehescheidung oder Ehetrennung anzuwenden, die vor dem Inkrafttreten des Übereinkommens für die Schweiz erwirkt worden ist.
+
+[^t-5]: Art. 1 Abs. 1 des BB vom 4. März 1976 ([AS 1976 1544](https://fedlex.data.admin.ch/eli/oc/1976/1544_1544_1544))

@@ -1,0 +1,495 @@
+---
+sr: "0.672.915.61"
+title: "Convenzione del 12 giugno 2006 tra la Confederazione Svizzera e la Repubblica di Armenia per evitare le doppie imposizioni in materia d'imposte sul reddito e sul patrimonio (con Prot.)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/56"
+language: it
+version: 2007-11-07
+adopted: 2006-06-12
+in_force: 2007-11-07
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/56/20071107/it/xml/fedlex-data-admin-ch-eli-cc-2008-56-20071107-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/56/20071107/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione tra la Confederazione Svizzera e la Repubblica di Armenia per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio
+
+RU **2008** 167; FF **2006** 7015
+
+Traduzione*[^t-1]*
+
+Conclusa il 12 giugno 2006 Approvata dall'Assemblea federale il 7 marzo 2007[^t-2] Entrata in vigore mediante scambio di note il 7 novembre 2007
+
+(Stato 7 novembre 2007)
+
+[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-2]: [RU 2008 165](https://fedlex.data.admin.ch/eli/oc/2008/55)
+
+Il Consiglio federale svizzero e il Governo della Repubblica di Armenia,
+
+desiderosi di incrementare e consolidare la collaborazione economica, scientifica e tecnica e a questo scopo di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio nonché di promuovere la collaborazione economica tra i due Paesi,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+**Persone considerate**
+
+La presente Convenzione si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
+
+#### Art. 2
+
+**Imposte considerate**
+
+<sup>1.</sup> La presente Convenzione si applica alle imposte sul reddito e sul patrimonio prelevate per conto di ciascuno degli Stati contraenti, delle sue suddivisioni politiche o dei suoi enti locali, qualunque sia il sistema di prelevamento.
+
+<sup>2.</sup> Sono considerate imposte sul reddito e sul patrimonio le imposte prelevate sul reddito complessivo, sul patrimonio complessivo o su elementi del reddito o del patrimonio, comprese le imposte sugli utili derivanti dall’alienazione di beni mobili o immobili, le imposte sull’ammontare complessivo degli stipendi e le imposte sulle plusvalenze.
+
+<sup>3.</sup> Le imposte attuali cui si applica la Convenzione sono in particolare,
+
+- a)
+
+  in Armenia:
+
+  - (i) l’imposta sull’utile,
+  - (ii) l’imposta sul reddito,
+  - (iii) l’imposta sul patrimonio,
+  - (iv) l’imposta fondiaria,
+  - [tab] (qui di seguito indicate quali «imposta armena»);
+
+- b) in Svizzera:
+- le imposte federali, cantonali e comunali
+  - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi), e
+  - (ii) sul patrimonio (patrimonio complessivo, patrimonio mobiliare e immobiliare, patrimonio industriale e commerciale, capitale e riserve e altri elementi del patrimonio),
+
+- (qui di seguito indicate quali «imposta svizzera»).
+
+<sup>4.</sup> La Convenzione si applica anche alle imposte di natura identica o analoga istituite dopo la firma della Convenzione in aggiunta o in sostituzione delle imposte attuali. Le autorità competenti degli Stati contraenti si comunicano le modifiche importanti apportate alle loro rispettive legislazioni fiscali.
+
+#### Art. 3
+
+**Definizioni generali**
+
+<sup>1.</sup> Ai sensi della presente Convenzione, salvo che il contesto non richieda una diversa interpretazione,
+
+- a) le espressioni «uno Stato contraente» e «l’altro Stato contraente» designano, secondo il contesto, l’Armenia o la Svizzera;
+- b) il termine «Armenia» designa la Repubblica di Armenia;
+- c) il termine «Svizzera» designa la Confederazione Svizzera;
+- d) le espressioni «impresa di uno Stato contraente» e «impresa dell’altro Stato contraente» designano rispettivamente un’impresa esercitata da un residente di uno Stato contraente o un’impresa esercitata da un residente dell’altro Stato contraente;
+- e) il termine «persona» comprende le persone fisiche, le società e tutte le altre associazioni di persone;
+- f) il termine «società» designa qualsiasi persona giuridica o qualsiasi ente che è considerato persona giuridica ai fini dell’imposizione;
+- g) per «traffico internazionale» s’intende qualsiasi attività di trasporto effettuata per mezzo di una nave, di un aeromobile o di un veicolo stradale da parte di un’impresa in uno Stato contraente, ad eccezione del caso in cui la nave, l’aeromobile o il veicolo stradale sia utilizzato esclusivamente tra località situate nell’altro Stato contraente;
+- h)
+
+  l’espressione «autorità competente» designa:
+
+  - (i) in Armenia, il Ministero delle finanze e dell’economia o il suo rappresentante autorizzato, il capo del Servizio fiscale statale o il suo rappresentante autorizzato,
+  - (ii) per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato;
+
+- i)
+
+  il termine «cittadini» designa:
+
+  - (i) tutte le persone fisiche che hanno la cittadinanza di uno Stato contraente,
+  - (ii) tutte le persone giuridiche, le società di persone, le altre associazioni o altri enti giuridici costituiti conformemente alla legislazione in vigore in uno Stato contraente.
+
+<sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, salvo che il contesto non richieda una diversa interpretazione, le espressioni non diversamente definite hanno il significato che ad esse è attribuito nel momento in cui la Convenzione è applicata conformemente alla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, ritenuto che il senso attribuito a queste espressioni dalla legislazione fiscale applicabile in questo Stato prevale sul senso loro attribuito da un’altra legislazione di detto Stato.
+
+#### Art. 4
+
+**Residenza**
+
+<sup>1.</sup> Ai fini della presente Convenzione, l’espressione «residente di uno Stato contraente» designa ogni persona che, in virtù della legislazione di detto Stato, è assoggettata a imposta nello stesso Stato a motivo del suo domicilio, della sua residenza permanente, della sede della sua direzione, del luogo della sua costituzione o di ogni altro criterio di natura analoga e comprende pure questo Stato e le sue suddivisioni politiche e i suoi enti locali.
+
+<sup>2.</sup>
+
+Quando, in base alle disposizioni del paragrafo 1, una persona fisica è considerata residente di entrambi gli Stati contraenti, la sua situazione è determinata nel seguente modo:
+
+- a) detta persona è considerata residente dello Stato contraente nel quale ha un’abitazione permanente; se essa dispone di un’abitazione permanente in ciascuno degli Stati contraenti, è considerata residente soltanto dello Stato contraente nel quale le sue relazioni personali ed economiche sono più strette (centro degli interessi vitali);
+- b) se non si può determinare lo Stato contraente nel quale detta persona ha il centro dei suoi interessi vitali, o se la medesima non ha un’abitazione permanente in alcuno degli Stati contraenti, essa è considerata residente soltanto dello Stato contraente in cui soggiorna abitualmente;
+- c) se detta persona soggiorna abitualmente in entrambi gli Stati contraenti ovvero non soggiorna abitualmente in alcuno di essi, essa è considerata residente soltanto dello Stato contraente del quale ha la cittadinanza;
+- d) se detta persona ha la cittadinanza di entrambi gli Stati contraenti o se non ha la cittadinanza di alcuno dei due Stati, le autorità competenti degli Stati contraenti risolvono la questione di comune accordo.
+
+<sup>3.</sup> Quando, in base alle disposizioni del paragrafo 1, una persona diversa da una persona fisica è considerata residente di entrambi gli Stati contraenti, le autorità competenti degli Stati contraenti regolano la questione di comune accordo.
+
+#### Art. 5
+
+**Stabile organizzazione**
+
+<sup>1.</sup> Ai fini della presente Convenzione, l’espressione «stabile organizzazione» designa una sede fissa di affari in cui un’impresa esercita in tutto o in parte la sua attività.
+
+<sup>2.</sup>
+
+L’espressione «stabile organizzazione» comprende in particolare:
+
+- a) una sede di direzione;
+- b) una succursale;
+- c) un ufficio;
+- d) un’officina;
+- e) un laboratorio;
+- f) una miniera, un pozzo di petrolio o di gas, una cava o un altro luogo di sfruttamento di risorse naturali;
+- g) un deposito in relazione a una persona che mette a disposizione di terzi le relative installazioni.
+
+<sup>3.</sup> Un cantiere di costruzione o una catena di montaggio o un’attività di sorveglianza connessa costituiscono una stabile organizzazione solo quando la loro durata oltrepassa i sei mesi.
+
+<sup>4.</sup>
+
+Nonostante le precedenti disposizioni del presente articolo non si considera che vi sia stabile organizzazione se:
+
+- a) le installazioni sono utilizzate ai soli fini di deposito, di esposizione o di consegna di merci appartenenti all’impresa;
+- b) le merci appartenenti all’impresa sono immagazzinate ai soli fini di deposito, di esposizione o di consegna;
+- c) le merci appartenenti all’impresa sono immagazzinate ai soli fini della trasformazione da parte di un’altra impresa;
+- d) una sede fissa di affari è utilizzata ai soli fini di acquistare merci o di raccogliere informazioni per l’impresa;
+- e) una sede fissa di affari è utilizzata, per l’impresa, ai soli fini di pubblicità, di fornire informazioni, di ricerche scientifiche o di altre attività che abbiano carattere preparatorio o ausiliario;
+- f) un montaggio è effettuato da un’impresa di uno Stato contraente nell’altro Stato contraente in relazione con la fornitura di macchine o impianti prodotti da quest’impresa;
+- g) una sede fissa di affari è utilizzata ai soli fini dell’esercizio cumulativo delle attività menzionate nelle lettere a)–f), a condizione che l’insieme delle attività della sede fissa di affari risultante da questo cumulo mantenga un carattere preparatorio o ausiliario.
+
+<sup>5.</sup> Nonostante le disposizioni dei paragrafi 1 e 2, se una persona – diversa da un agente che goda di uno status indipendente, di cui al paragrafo 6 – agisce per conto di un’impresa e dispone in uno Stato contraente di poteri che esercita abitualmente e che le permettono di concludere contratti in nome dell’impresa, si considera che detta impresa abbia in questo Stato una stabile organizzazione per tutte le attività che questa persona esercita a suo nome, salvo che le attività di questa persona non si limitino a quelle menzionate nel paragrafo 4 e che, se fossero esercitate tramite una sede fissa di affari, non permetterebbero di considerare tale sede come una stabile organizzazione giusta le disposizioni di tale paragrafo.
+
+<sup>6.</sup> Non si considera che un’impresa abbia una stabile organizzazione in uno Stato contraente per il solo fatto che essa vi eserciti la propria attività per mezzo di un mediatore, di un commissionario generale o di ogni altro agente che goda di uno status indipendente, a condizione che dette persone agiscano nell’ambito della loro ordinaria attività. Tuttavia, se l’intermediario esercita le attività esclusivamente o pressoché esclusivamente per conto di questa impresa, egli non sarà considerato un intermediario indipendente ai fini del presente paragrafo.
+
+<sup>7.</sup> Il fatto che una società residente di uno Stato contraente controlli o sia controllata da una società residente dell’altro Stato contraente ovvero svolga la sua attività in quest’altro Stato (sia per mezzo di una stabile organizzazione che in altro modo) non costituisce di per sé motivo sufficiente per far considerare una qualsiasi delle dette società una stabile organizzazione dell’altra.
+
+#### Art. 6
+
+**Redditi immobiliari**
+
+<sup>1.</sup> I redditi che un residente di uno Stato contraente trae da beni immobili (compresi i redditi delle attività agricole e forestali) situati nell’altro Stato contraente sono imponibili in detto altro Stato.
+
+<sup>2.</sup> L’espressione «beni immobili» ha il significato che ad essa è attribuito dal diritto dello Stato contraente in cui i beni stessi sono situati. L’espressione comprende in ogni caso gli accessori, le scorte vive o morte delle aziende agricole e forestali, i diritti ai quali si applicano le disposizioni del diritto privato riguardanti la proprietà fondiaria, l’usufrutto dei beni immobili e i diritti relativi a canoni variabili o fissi per lo sfruttamento o la concessione dello sfruttamento di giacimenti minerari, sorgenti ed altre risorse naturali. Le navi, gli aeromobili e i veicoli stradali non sono considerati beni immobili.
+
+<sup>3.</sup> Le disposizioni del paragrafo 1 si applicano ai redditi derivanti dall’utilizzazione diretta, dalla locazione o dall’affitto nonché da ogni altra forma di utilizzazione di beni immobili.
+
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi derivanti da beni immobili di un’impresa nonché ai redditi dei beni immobili utilizzati per l’esercizio di una professione indipendente.
+
+#### Art. 7
+
+**Utili delle imprese**
+
+<sup>1.</sup> Gli utili di un’impresa di uno Stato contraente sono imponibili soltanto in detto Stato, a meno che l’impresa non eserciti la sua attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata. Se l’impresa svolge in tal modo la sua attività, gli utili dell’impresa sono imponibili nell’altro Stato ma soltanto nella misura in cui detti utili sono attribuibili a detta stabile organizzazione.
+
+<sup>2.</sup> Fatte salve le disposizioni del paragrafo 3, quando un’impresa di uno Stato con-traente svolge la sua attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata, in ciascuno Stato contraente sono attribuiti a detta stabile organizzazione gli utili che essa avrebbe potuto conseguire se fosse stata un’impresa distinta svolgente attività identiche o analoghe in condizioni identiche o analoghe e avesse trattato in piena indipendenza con l’impresa di cui è la stabile organizzazione.
+
+<sup>3.</sup> Nella determinazione degli utili di una stabile organizzazione sono ammesse in deduzione le spese sostenute per gli scopi perseguiti dalla stessa stabile organizzazione, comprese le spese di direzione e le spese generali di amministrazione, sia nello Stato in cui è situata la stabile organizzazione, sia altrove.
+
+<sup>4.</sup> Qualora uno degli Stati contraenti segua la prassi di determinare gli utili da attribuire a una stabile organizzazione in base al riparto degli utili complessivi dell’impresa fra le diverse parti di essa, le disposizioni del paragrafo 2 del presente articolo non impediscono a detto Stato contraente di determinare gli utili imponibili secondo la ripartizione in uso; tuttavia, il metodo di riparto adottato dovrà essere tale che il risultato sia conforme ai principi contenuti nel presente articolo.
+
+<sup>5.</sup> Nessun utile può essere attribuito a una stabile organizzazione per il solo fatto che essa ha acquistato merci per l’impresa.
+
+<sup>6.</sup> Ai fini dell’applicazione dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati annualmente con lo stesso metodo, salvo che non esistano validi e sufficienti motivi per procedere diversamente.
+
+<sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+
+#### Art. 8
+
+**Traffico internazionale**
+
+<sup>1.</sup> Gli utili di un’impresa di uno Stato contraente derivanti dall’esercizio, in traffico internazionale, di navi, aeromobili o veicoli stradali sono imponibili soltanto in detto Stato.
+
+<sup>2.</sup> Le disposizioni del paragrafo 1 si applicano parimenti agli utili derivanti dalla partecipazione a un fondo comune («pool»), a un esercizio in comune o a un organismo internazionale di esercizio.
+
+#### Art. 9
+
+**Imprese associate**
+
+<sup>1.</sup> Quando
+
+e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese, ma che a causa di dette condizioni non lo sono stati, possono essere inclusi negli utili di questa impresa e tassati in conseguenza.
+
+- a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
+- b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente;
+
+<sup>2.</sup> Quando utili in base ai quali un’impresa di uno Stato contraente è stata imposta in questo Stato sono inclusi anche negli utili di un’impresa dell’altro Stato contraente e tassati in conseguenza, e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa dell’altro Stato contraente se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi reciprocamente in vista di raggiungere un accordo sugli adeguamenti da apportare agli utili nei due Stati contraenti.
+
+<sup>3.</sup> Uno Stato contraente non rettificherà gli utili di un’impresa nei casi previsti dal paragrafo 1 dopo lo spirare dei termini previsti dalla sua legislazione nazionale e, in ogni caso, non dopo lo spirare di cinque anni a partire dalla fine dell’anno in cui gli utili oggetto di tale rettifica sarebbero stati conseguiti da un’impresa di questo Stato. Il presente paragrafo non si applica in caso di frode od omissione intenzionale.
+
+#### Art. 10
+
+**Dividendi**
+
+<sup>1.</sup> I dividendi pagati da una società residente di uno Stato contraente a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
+
+<sup>2.</sup> Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione di dette limitazioni.
+
+Le disposizioni del presente paragrafo non riguardano l’imposizione della società per gli utili con i quali sono pagati i dividendi.
+
+Tuttavia, tali dividendi sono anche imponibili nello Stato contraente di cui la società che paga i dividendi è residente e in conformità alla legislazione di detto Stato, ma, se il beneficiario effettivo dei dividendi è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere:
+
+- a) il 5 per cento dell’ammontare lordo dei dividendi se il beneficiario effettivo è una società (diversa da una società di persone) che detiene direttamente almeno il 25 per cento del capitale della società che paga i dividendi e al momento delle scadenza dei dividendi la partecipazione supera i duecento mila (200 000) franchi svizzeri o l’equivalente in un’altra valuta;
+- b) il 15 per cento dell’ammontare lordo dei dividendi, in tutti gli altri casi.
+
+<sup>3.</sup> Ai fini del presente articolo il termine «dividendi» designa i redditi derivanti da azioni o da altre quote di partecipazione agli utili – ad eccezione dei crediti – nonché i redditi di altre quote sociali assoggettati al medesimo regime fiscale dei redditi delle azioni secondo la legislazione dello Stato di cui è residente la società distributrice.
+
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei dividendi, residente di uno Stato contraente, eserciti, nell’altro Stato contraente di cui la società che paga i dividendi è residente, sia un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, e la partecipazione generatrice dei dividendi si ricolleghi effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+
+<sup>5.</sup> Qualora una società residente di uno Stato contraente ricavi utili o redditi dall’altro Stato contraente, detto altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società, salvo che tali dividendi siano pagati a un residente di detto altro Stato o che la partecipazione generatrice dei dividendi si ricolleghi effettivamente a una stabile organizzazione o a una base fissa situata in detto altro Stato, né prelevare alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscano in tutto o in parte utili o redditi realizzati in detto altro Stato.
+
+#### Art. 11
+
+**Interessi**
+
+<sup>1.</sup> Gli interessi provenienti da uno Stato contraente pagati a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
+
+<sup>2.</sup> Tuttavia, tali interessi possono essere tassati anche nello Stato contraente dal quale essi provengono e in conformità alla legislazione di detto Stato, ma, se il beneficiario effettivo degli interessi è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere il 10 per cento dell’ammontare lordo degli interessi. Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione di dette limitazioni.
+
+<sup>3.</sup>
+
+Nonostante il paragrafo 2, gli interessi provenienti da uno Stato contraente e pagati a un residente dell’altro Stato contraente che ne è il beneficiario effettivo, sono imponibili soltanto in detto altro Stato, se gli interessi sono pagati:
+
+- a) in relazione alla vendita a credito di un equipaggiamento industriale, commerciale o scientifico; o
+- b) su un mutuo di qualunque natura concesso da un istituto bancario.
+
+<sup>4.</sup> Ai fini della presente Convenzione il termine «interessi» designa i redditi provenienti da crediti di ogni natura, corredati o no di diritti di pegno o di una clausola di partecipazione agli utili del debitore, e segnatamente i redditi provenienti da prestiti pubblici e obbligazioni di prestiti, compresi i premi e altri frutti relativi a detti titoli. Le penali per pagamento tardivo non sono considerate interessi ai sensi della presente Convenzione.
+
+<sup>5.</sup> Le disposizioni dei paragrafi 1, 2 e 3 non si applicano nel caso in cui il beneficiario degli interessi, residente di uno Stato contraente, eserciti nell’altro Stato contraente dal quale provengono gli interessi, sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, e il credito generatore degli interessi si ricolleghi effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+
+<sup>6.</sup> Gli interessi si considerano provenire da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per la quale è stato contratto il debito sul quale sono pagati gli interessi e questi sono a carico della stabile organizzazione o della base fissa, gli interessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+
+<sup>7.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario effettivo o tra ciascuno di essi e terze persone, l’ammontare degli interessi pagati, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+#### Art. 12
+
+**Canoni**
+
+<sup>1.</sup> I canoni provenienti da uno Stato contraente pagati a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
+
+<sup>2.</sup> Tuttavia, tali canoni possono essere tassati anche nello Stato contraente dal quale essi provengono e in conformità alla legislazione di detto Stato, ma, se il beneficiario effettivo dei canoni è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere il 5 per cento dell’ammontare lordo dei canoni.
+
+<sup>3.</sup> Ai fini del presente articolo il termine «canoni» designa i compensi di qualsiasi natura pagati per l’uso o la concessione in uso di un diritto d’autore su un’opera letteraria, artistica o scientifica, comprese le pellicole cinematografiche e le pellicole o le registrazioni per emissioni radiofoniche e televisive, di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o processi segreti oppure per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.
+
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei canoni, residente di uno Stato contraente, eserciti, nell’altro Stato contraente dal quale provengono i canoni, un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata oppure una professione indipendente per mezzo di una base fissa ivi situata, e i diritti o i beni generatori dei canoni si ricolleghino effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+
+<sup>5.</sup> I canoni si considerano provenienti da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore dei canoni, sia esso un residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per le quali è stato contratto l’obbligo di pagamento dei canoni e tali canoni sono a carico della stabile organizzazione o della base fissa, i canoni stessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+
+<sup>6.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario o tra ciascuno di essi e terze persone, l’ammontare dei canoni pagati, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+#### Art. 13
+
+**Utili di capitale**
+
+<sup>1.</sup> Gli utili che un residente di uno Stato contraente trae dall’alienazione di beni immobili secondo la definizione di cui all’articolo 6 (Redditi immobiliari) e situati nell’altro Stato contraente sono imponibili in quest’ultimo Stato.
+
+<sup>2.</sup> Gli utili derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, ovvero di beni mobili appartenenti a una base fissa di cui dispone un residente di uno Stato contraente nell’altro Stato contraente per l’esercizio di una professione indipendente, compresi gli utili derivanti dall’alienazione di detta stabile organizzazione (da sola o in uno con l’intera impresa) o di detta base fissa, sono imponibili in detto altro Stato.
+
+<sup>3.</sup> Gli utili di un’impresa residente di uno Stato contraente derivanti dall’alienazione di navi, aeromobili o veicoli stradali impiegati nel traffico internazionale e dall’alienazione di beni mobili adibiti al loro esercizio sono imponibili soltanto in questo Stato contraente.
+
+<sup>4.</sup> Gli utili derivanti dall’alienazione di partecipazioni al capitale azionario di un’impresa i cui beni consistono, direttamente o indirettamente, essenzialmente in beni immobili situati in uno Stato contraente sono imponibili in questo Stato contraente.
+
+<sup>5.</sup> Gli utili derivanti dall’alienazione di ogni altro bene diverso da quelli indicati ai paragrafi 1, 2, 3 e 4 sono imponibili soltanto nello Stato contraente di cui l’alienante è residente.
+
+#### Art. 14
+
+**Professioni indipendenti**
+
+<sup>1.</sup> I redditi che un residente di uno Stato contraente trae dall’esercizio di una libera professione o di altre attività di carattere indipendente sono imponibili soltanto in detto Stato, salvo che egli non disponga abitualmente di una base fissa nell’altro Stato contraente per l’esercizio della propria attività. Ove disponga di una tale base fissa, i redditi sono imponibili nell’altro Stato, ma unicamente nella misura in cui essi sono imputabili a detta base fissa.
+
+<sup>2.</sup> L’espressione «libera professione» comprende, in particolare, le attività indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, nonché le attività indipendenti di medici, avvocati, ingegneri, architetti, dentisti e periti contabili.
+
+#### Art. 15
+
+**Lavoro subordinato**
+
+<sup>1.</sup> Fatte salve le disposizioni degli articoli 16 (Compensi e gettoni di presenza), 18 (Pensioni) e 19 (Funzioni pubbliche), le retribuzioni e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve in corrispettivo di un lavoro subordinato sono imponibili soltanto in detto Stato contraente, salvo che l’attività non sia svolta nell’altro Stato contraente. Se l’attività è quivi svolta, le rimunerazioni percepite a tale titolo sono imponibili in questo altro Stato.
+
+<sup>2.</sup>
+
+Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un lavoro subordinato svolto nell’altro Stato contraente sono imponibili soltanto nel primo Stato contraente se:
+
+- a) il beneficiario soggiorna nell’altro Stato per un periodo o periodi che non oltrepassano in totale 183 giorni nel corso dell’anno fiscale considerato; e
+- b) le rimunerazioni sono pagate da, o per conto di, un datore di lavoro che non è residente dell’altro Stato; e
+- c) l’onere delle rimunerazioni non è sostenuto da una stabile organizzazione o da una base fissa che il datore di lavoro ha nell’altro Stato.
+
+<sup>3.</sup> Nonostante le precedenti disposizioni del presente articolo, le rimunerazioni percepite in corrispettivo di un lavoro subordinato svolto a bordo di navi, aeromobili o veicoli stradali impiegati nel traffico internazionale da un’impresa di uno Stato contraente, sono imponibili in questo Stato contraente.
+
+#### Art. 16
+
+**Compensi e gettoni di presenza**
+
+Le partecipazioni agli utili, i gettoni di presenza e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve come membro del consiglio di amministrazione o di sorveglianza di una società residente dell’altro Stato contraente sono imponibili in detto altro Stato contraente.
+
+#### Art. 17
+
+**Artisti e sportivi**
+
+<sup>1.</sup> Nonostante le disposizioni degli articoli 14 (Professioni indipendenti) e 15 (Lavoro subordinato), i redditi che un residente di uno Stato contraente trae dalle sue prestazioni personali esercitate nell’altro Stato contraente in qualità di artista, come artista di teatro, del cinema, della radio o della televisione, o in qualità di musicista nonché di sportivo sono imponibili in detto altro Stato.
+
+<sup>2.</sup> Quando il reddito proveniente da prestazioni personali esercitate da un artista o da uno sportivo in tale qualità è attribuito a una persona diversa dall’artista o dallo sportivo medesimo, detto reddito può essere tassato, nonostante le disposizioni degli articoli 7 (Utili delle imprese), 14 (Professioni indipendenti) e 15 (Lavoro subordinato), nello Stato contraente in cui dette prestazioni sono svolte. Le disposizioni del presente paragrafo non si applicano qualora sia dimostrato che né l’artista o lo sportivo né persone a lui associate partecipino direttamente agli utili di quest’altra persona.
+
+<sup>3.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano ai redditi provenienti da attività esercitate da artisti e sportivi se questi redditi derivano in misura notevole, direttamente o indirettamente, da fondi pubblici dell’altro Stato contraente o di una delle sue suddivisioni politiche o di enti locali.
+
+#### Art. 18
+
+**Pensioni**
+
+Fatte salve le disposizioni del paragrafo 2 dell’articolo 19 (Funzioni pubbliche), le pensioni e le altre rimunerazioni analoghe, pagate a un residente di uno Stato contraente in relazione a un cessato lavoro subordinato, sono imponibili soltanto in detto Stato.
+
+#### Art. 19
+
+**Funzioni pubbliche**
+
+- 1\. a) Gli stipendi, i salari e le rimunerazioni analoghe, diverse dalle pensioni, pagati da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale a una persona fisica, in corrispettivo di servizi resi a tale Stato, suddivisione politica o ente locale, sono imponibili soltanto in detto Stato contraente.
+- b) Tuttavia, tali stipendi, salari e rimunerazioni analoghe sono imponibili soltanto nell’altro Stato contraente qualora i servizi siano resi in detto Stato e la persona fisica sia un residente di detto Stato contraente e
+  - (i) abbia la cittadinanza di detto Stato contraente, o
+  - (ii) non sia divenuta residente di detto Stato al solo scopo di rendervi i servizi.
+
+- 2\. a) Le pensioni corrisposte da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale, direttamente o mediante prelevamento da fondi da essi costituiti, a una persona fisica in corrispettivo di servizi resi a tale Stato, suddivisione politica o ente locale, sono imponibili soltanto in questo Stato contraente.
+- b) Tuttavia, tali pensioni sono imponibili soltanto nell’altro Stato contraente qualora la persona fisica sia residente di questo Stato e ne abbia la cittadinanza.
+
+<sup>3.</sup> Le disposizioni degli articoli 15 (Lavoro subordinato), 16 (Compensi e gettoni di presenza) e 18 (Pensioni) si applicano agli stipendi, ai salari e alle rimunerazioni analoghe e alle pensioni pagate in corrispettivo di servizi resi nell’ambito di un’attività industriale o commerciale esercitata da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale.
+
+#### Art. 20
+
+**Studenti**
+
+<sup>1.</sup> Le somme che uno studente, un praticante o un apprendista, il quale è, o era immediatamente prima di recarsi in uno Stato contraente, residente di uno Stato contraente e che soggiorna nell’altro Stato contraente al solo scopo di compiervi i suoi studi o di attendere alla propria formazione professionale, riceve per sopperire alle spese di mantenimento, di studio o di formazione professionale, non sono imponibili in questo altro Stato contraente, a condizione che tali somme provengano da fonti situate fuori di questo Stato.
+
+<sup>2.</sup> Con riferimento alle borse di studio e alle remunerazioni di un’attività dipendente, cui non si applicano le disposizioni del paragrafo 1, uno studente o un apprendista ai sensi del paragrafo 1 può, per la durata del suo studio o della sua formazione professionale, beneficiare delle stesse esenzioni, degli stessi sgravi o delle stesse riduzioni d’imposta di cui beneficiano i residenti dello Stato in cui soggiorna.
+
+#### Art. 21
+
+**Altri redditi**
+
+<sup>1.</sup> Gli elementi di reddito di un residente di uno Stato contraente, di qualsiasi provenienza, che non sono stati trattati negli articoli precedenti della presente Convenzione sono imponibili soltanto in tale Stato. La presente disposizione non vale per le vincite alle lotterie.
+
+<sup>2.</sup> Le disposizioni del paragrafo 1 non si applicano ai redditi diversi da quelli provenienti da beni immobili ai sensi del paragrafo 2 dell’articolo 6 (Redditi immobiliari), nel caso in cui il beneficiario di tali redditi, residente di uno Stato contraente, eserciti nell’altro Stato contraente sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, cui si ricollega effettivamente il diritto o il bene generatore dei redditi. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+
+#### Art. 22
+
+**Patrimonio**
+
+<sup>1.</sup> Il patrimonio costituito da beni immobili ai sensi dell’articolo 6 (Redditi immobiliari), posseduto da un residente di uno Stato contraente e situato nell’altro Stato contraente è imponibile in detto altro Stato.
+
+<sup>2.</sup> Il patrimonio costituito da beni mobili che fanno parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente possiede nell’altro Stato contraente o da beni mobili appartenenti a una base fissa di cui un residente di uno Stato contraente dispone nell’altro Stato contraente per l’esercizio di una professione indipendente è imponibile in detto altro Stato.
+
+<sup>3.</sup> Il patrimonio costituito da navi, aeromobili e veicoli stradali impiegati nel traffico internazionale da una persona residente di uno Stato contraente, e da beni mobili adibiti al loro esercizio, è imponibile soltanto in detto Stato contraente.
+
+<sup>4.</sup> Ogni altro elemento del patrimonio di un residente di uno Stato contraente è imponibile soltanto in detto Stato.
+
+#### Art. 23
+
+**Eliminazione della doppia imposizione**
+
+<sup>1.</sup>
+
+Per quanto concerne l’Armenia, la doppia imposizione è evitata nel modo seguente:
+
+- a) qualora un residente dell’Armenia tragga redditi o possieda un patrimonio che, secondo le disposizioni della presente Convenzione, sono imponibili in Svizzera, l’Armenia concede,
+  - (i) sull’imposta che preleva sul reddito di detto residente, una deduzione pari all’imposta sul reddito pagata in Svizzera,
+  - (ii) sull’imposta che preleva sul patrimonio di detto residente, una deduzione pari all’imposta sul patrimonio pagata in Svizzera.
+
+- In ambedue i casi, l’ammontare computato non può tuttavia eccedere la frazione dell’imposta sul reddito o sul patrimonio, calcolata prima del computo, corrispondente ai redditi o al patrimonio imponibili in Svizzera.
+- b) Qualora un residente dell’Armenia tragga redditi o possieda un patrimonio che, secondo le disposizioni della presente Convenzione, sono esenti dall’imposta in questi Stati, l’Armenia può nondimeno tener conto di questi redditi o di questo patrimonio esenti dall’imposta per determinare l’imposta afferente al rimanente reddito o al rimanente patrimonio di questo residente.
+
+<sup>2.</sup>
+
+Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo seguente:
+
+- a) Qualora un residente di Svizzera tragga redditi o possieda un patrimonio che sono imponibili nella Repubblica di Armenia, la Svizzera esenta da imposta detti redditi o detto patrimonio, salve le disposizioni della lettera b), ma può, per determinare l’imposta afferente al rimanente reddito o patrimonio di questo residente, applicare l’aliquota corrispondente all’intero reddito o patrimonio in questione, senza tener conto dell’esenzione. Per gli utili secondo l’articolo 13 paragrafo 4 (Utili di capitale) questa esenzione viene applicata unicamente se è comprovata la loro effettiva imposizione in Armenia.
+- b)
+
+  Qualora un residente di Svizzera riceva dividendi, interessi o canoni che secondo le disposizioni degli articoli 10 (Dividendi), 11 (Interessi) o 12 (Canoni) sono imponibili in Armenia, la Svizzera accorda, su domanda del residente, uno sgravio, che può avere le seguenti forme:
+
+  - (i) computo dell’imposta pagata in Armenia, secondo le disposizioni degli articoli 10 (Dividendi), 11 (Interessi) e 12 (Canoni) sull’imposta svizzera sul reddito di suddetto residente; l’ammontare computato non può tuttavia eccedere la frazione dell’imposta svizzera, calcolata prima del computo, che corrisponde al reddito imponibile in Armenia, o
+  - (ii) riduzione forfettaria dell’imposta svizzera, o
+  - (iii) esenzione parziale dall’imposta svizzera dei dividendi, degli interessi o dei canoni di cui si tratta, pari almeno all’imposta prelevata in Armenia sull’ammontare lordo dei dividendi, degli interessi o dei canoni.
+
+- La Svizzera determina il tipo di sgravio applicabile e regola in debito modo la procedura conformemente alle prescrizioni sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni.
+- c) Qualora una società residente di Svizzera riceva dividendi da una società residente dell’Armenia, fruisce, per quanto concerne la riscossione dell’imposta svizzera inerente a detti dividendi, dei medesimi vantaggi di cui beneficerebbe se la società che paga i dividendi fosse residente di Svizzera.
+
+#### Art. 24
+
+**Non discriminazione**
+
+<sup>1.</sup> I cittadini di uno Stato contraente non sono assoggettati nell’altro Stato contraente ad alcuna imposizione né ad alcun obbligo ad essa relativo, diversi o più onerosi di quelli cui sono o potranno essere assoggettati i cittadini di detto altro Stato che si trovino nella stessa situazione, in particolare in relazione alla residenza. La presente disposizione si applica altresì, nonostante le disposizioni dell’articolo 1 (Persone considerate), alle persone che non sono residenti di uno o di entrambi gli Stati contraenti.
+
+<sup>2.</sup> L’imposizione di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente non può essere in questo altro Stato meno favorevole dell’imposizione a carico delle imprese di detto altro Stato che svolgono la medesima attività. La presente disposizione non può essere interpretata nel senso che faccia obbligo a uno Stato contraente di accordare ai residenti dell’altro Stato contraente le deduzioni personali, le esenzioni e le deduzioni d’imposta che esso accorda ai propri residenti in relazione alla loro situazione o ai loro carichi di famiglia.
+
+<sup>3.</sup> Salvo che non siano applicabili le disposizioni dell’articolo 9 (Imprese associate), dell’articolo 11 paragrafo 7 (Interessi) o dell’articolo 12 paragrafo 6 (Canoni), gli interessi, i canoni e altri compensi pagati da un’impresa di uno Stato contraente a un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione degli utili imponibili di tale impresa, come se fossero pagati a un residente del primo Stato contraente. Allo stesso modo, i debiti di un’impresa di uno Stato contraente nei confronti di un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione del patrimonio imponibile di tale impresa, alle stesse condizioni di quelli contratti nei confronti di un residente del primo Stato contraente.
+
+<sup>4.</sup> Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente posseduto o controllato da uno o più residenti dell’altro Stato contraente non sono assoggettate nel primo Stato ad alcuna imposizione o ad alcun obbligo ad essa relativo, diversi o più onerosi di quelli cui sono o potranno essere assoggettate altre imprese analoghe del primo Stato.
+
+<sup>5.</sup> Le disposizioni del presente articolo si applicano, nonostante le disposizioni dell’articolo 2 (Imposte considerate), alle imposte di ogni natura e denominazione.
+
+#### Art. 25
+
+**Procedura amichevole**
+
+<sup>1.</sup> Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati contraenti, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso ricade nell’ambito di applicazione dell’articolo 24 paragrafo 1 (Non discriminazione), a quella dello Stato contraente di cui possiede la cittadinanza. Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+
+<sup>2.</sup> L’autorità competente, se il reclamo le appare fondato e se essa non è in grado di giungere a una soluzione soddisfacente, si adopera per regolare il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla Convenzione.
+
+<sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione. Esse potranno altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
+
+<sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da dette autorità o da loro rappresentanti.
+
+#### Art. 26
+
+**Scambio di informazioni**
+
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni (che le legislazioni fiscali degli Stati contraenti permettono di ottenere nel quadro della normale prassi amministrativa) necessarie per l’applicazione delle disposizioni della presente Convenzione. Le informazioni così scambiate devono essere tenute segrete e potranno essere rivelate soltanto alle persone incaricate dell’accertamento o della riscossione delle imposte considerate dalla presente Convenzione. Non potranno essere scambiate informazioni suscettibili di rivelare segreti commerciali o d’affari, bancari, industriali o professionali oppure metodi commerciali.
+
+<sup>2.</sup> Le disposizioni del presente articolo non potranno in nessun caso essere interpretate nel senso di imporre a uno Stato contraente l’obbligo di adottare misure amministrative in deroga alla regolamentazione o alla prassi amministrativa di uno o dell’altro Stato contraente, ovvero contrarie alla sua sovranità, alla sua sicurezza o all’ordine pubblico oppure di fornire informazioni che non possano essere ottenute in base alla sua legislazione o a quella dello Stato contraente che le chiede.
+
+#### Art. 27
+
+**Membri di missioni diplomatiche e di rappresentanze consolari**
+
+<sup>1.</sup> Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i membri di missioni diplomatiche e di rappresentanze consolari in virtù delle regole generali del diritto internazionale o di accordi particolari.
+
+<sup>2.</sup>
+
+Nonostante le disposizioni dell’articolo 4 (Residenza), ogni persona fisica che è membro di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato contraente situata nell’altro Stato contraente o in uno Stato terzo, è considerata residente dello Stato accreditante ai fini della presente Convenzione, a condizione che:
+
+- a) conformemente al diritto internazionale non sia assoggettata, nello Stato accreditatario, a imposta sui redditi provenienti da fonti esterne a questo Stato o sul patrimonio situato fuori di detto Stato; e
+- b) abbia, nello Stato accreditante, i medesimi obblighi dei residenti di questo Stato quanto all’imposta sul reddito o sul patrimonio complessivi.
+
+<sup>3.</sup> La presente Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato terzo, che soggiornano sul territorio di uno Stato contraente e non sono trattati in materia d’imposta sul reddito o sul patrimonio come residenti dell’uno o dell’altro Stato contraente.
+
+#### Art. 28
+
+**Entrata in vigore**
+
+<sup>1.</sup> I due Stati contraenti si notificheranno vicendevolmente per via diplomatica che sono adempiuti i presupposti necessari all’entrata in vigore della presente Convenzione secondo la sua legislazione. La Convenzione entra in vigore il giorno in cui perviene l’ultima di queste notificazioni.
+
+<sup>2.</sup>
+
+La Convenzione si applica:
+
+- a) alle imposte prelevate alla fonte sui redditi pagati o accreditati il, o dopo il, 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore della Convenzione;
+- b) alle rimanenti imposte per gli anni fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore della Convenzione.
+
+#### Art. 29
+
+**Disdetta**
+
+La presente Convenzione rimarrà in vigore sino alla denuncia da parte di uno degli Stati contraenti. Ciascuno Stato contraente può denunciare la Convenzione per via diplomatica con un preavviso minimo di sei mesi, prima della fine di ciascun anno civile. In tal caso la Convenzione cesserà di essere applicabile:
+
+- a) alle imposte prelevate alla fonte sui redditi pagati o accreditati il, o dopo il, 1° gennaio dell’anno civile successivo a quello nel corso del quale è stata notificata la denuncia;
+- b) alle rimanenti imposte per i periodi fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello nel corso del quale è stata notificata la denuncia.
+
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto in duplice esemplare a Erevan, il 12 giugno 2006, nelle lingue tedesca, armena e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco e armeno prevarrà il testo inglese. Per il Consiglio federale svizzero: Per il Governo della Repubblica di Armenia: Micheline Calmy-Rey Vardan Oskanian
+
+Protocollo
+
+La Confederazione Svizzera e la Repubblica di Armenia
+
+all’atto della firma, il 12 giugno 2006 a Erevan, della Convenzione tra i due Stati per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio, hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione.
+
+\1. Ad art. 7
+
+Con riferimento ai paragrafi 1 e 2 dell’articolo 7 (Utili delle imprese), resta inteso che, qualora un’impresa di uno Stato contraente venda merci o eserciti un’altra attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata, gli utili di detta stabile organizzazione non sono determinati sulla base dell’importo complessivo ricevuto dall’impresa, bensì unicamente sulla base dei proventi complessivi attribuibili all’attività effettiva della stabile organizzazione per queste vendite o per queste operazioni.
+
+Nei casi di contratti di vigilanza, di fornitura, di montaggio o di costruzione di equipaggiamenti o di stabilimenti industriali, commerciali o scientifici, oppure di opere pubbliche, qualora l’impresa abbia una stabile organizzazione, gli utili di questa stabile organizzazione non sono determinati sulla base dell’importo complessivo del contratto, bensì unicamente sulla base della parte del contratto effettivamente eseguita dalla stabile organizzazione nello Stato contraente in cui essa è situata.
+
+Gli utili afferenti alla parte del contratto eseguita dalla sede principale dell’impresa sono imponibili soltanto nello Stato di cui questa impresa è residente.
+
+\2. Ad art. 18 e 19
+
+Resta inteso che il termine «pensioni» di cui agli articoli 18 (Pensioni) e 19 (Funzioni pubbliche) non comprende soltanto pagamenti periodici, ma anche prestazioni forfettarie.
+
+Fatto in duplice esemplare a Erevan, il 12 giugno 2006, nelle lingue tedesca, armena e inglese, tutti i testi facenti ugualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco e armeno prevale il testo inglese.
+
+<table>
+<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo della Repubblica di Armenia:</td></tr>
+<tr><td>Micheline Calmy-Rey</td><td>Vardan Oskanian</td></tr>
+</table>

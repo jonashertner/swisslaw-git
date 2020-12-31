@@ -1,0 +1,930 @@
+---
+sr: "172.010.21"
+title: Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Logistik des Bundes (VILB)
+short: VILB
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
+language: de
+version: 2016-01-01
+adopted: 2008-12-05
+in_force: 2009-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20160101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über das Immobilienmanagement und die Logistik des Bundes
+
+(VILB)
+
+vom 5. Dezember 2008 (Stand am 1. Januar 2016)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 43 Absätze 2 und 3 sowie 47 Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG) und auf Artikel 35*b* des ETH-Gesetzes vom 4. Oktober 1991[^ingress-2],
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+### 1. Abschnitt: Gegenstand, strategische Ziele und Grundsätze****
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup>
+
+Diese Verordnung regelt:
+
+- a.[^1-1] die Aufgaben und Zuständigkeiten innerhalb der Bundesverwaltung nach den Artikeln 7 und 7*a* Absatz 1 Buchstaben a und b der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^1-2] (RVOV) sowie des ETH-Bereichs im Bereich des Immobilienmanagements;
+- b. die Aufgaben und Zuständigkeiten des Bundesamtes für Bauten und Logistik (BBL) im Bereich der Logistik;
+- c. die Verfahren bei Differenzen.
+
+<sup>2</sup> Sie gilt nicht für die Infrastrukturanlagen des Bundes im Zusammenhang mit Nationalstrassen gemäss Artikel 2 der Nationalstrassenverordnung vom 7. November 2007[^1-3]; das Immobilienmanagement der Nationalstrassen richtet sich nach dem Bundesgesetz vom 8. März 1960[^1-4] über die Nationalstrassen.
+
+[^1-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^1-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^1-3]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^1-4]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+
+#### Art. 2
+
+**Strategische Ziele**
+
+<sup>1</sup> Der Bund stellt mit seinem Immobilien- und Logistikmanagement eine angemessene Versorgung mit Immobilien und Logistikgütern sowie die langfristige Kosten-Nutzen-Optimierung in diesen Bereichen sicher. Er strebt dabei eine Erhöhung von Kostentransparenz, Kostenbewusstsein und wirtschaftlichem Verhalten unter besonderer Berücksichtigung der Lebenszykluskosten[^2-1] an.
+
+<sup>2</sup>
+
+Im Bereich des Immobilienmanagements verfolgt er die folgenden strategischen Ziele:
+
+- a. Konzentration der Unterbringung von Organisationseinheiten der Bundesverwaltung in polyvalenten Objekten angemessener Grösse, die, soweit dies wirtschaftlich ist, im Eigentum des Bundes stehen;
+- b. Schaffung und Befolgung nachhaltiger Standards bezüglich Planung, Bau, Einrichtung, Bewirtschaftung, Betrieb und Rückbau; zur Unterstützung dieses Ziels führt die Bundesverwaltung ein Ressourcen- und Umweltmanagement durch.
+
+<sup>3</sup>
+
+Im Bereich der Logistik verfolgt er die folgenden strategischen Ziele:
+
+- a. Standardisierung und Führung von Sortimenten;
+- b. Volumenbündelung im Einkauf und Beschaffungskooperationen mit anderen Organisationen der öffentlichen Hand;
+- c. periodische Überprüfung und Weiterentwicklung der Beschaffungsprozesse und -organisationen;
+- d.[^2-2] Zentralisierung hoheitlich begründeter Datenausgaben auf Medien wie elektronische Medien, Papier, CD usw.;
+- e. Nutzbarmachung und Vertrieb von Bundesdaten aller Art einschliesslich Massenversand.
+
+[^2-1]: Ausdruck gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+#### Art. 3
+
+**Grundsätze**
+
+<sup>1</sup> Die Bau- und Liegenschaftsorgane (BLO) im Bereich des Immobilienmanagements und das BBL im Bereich der Logistik erfüllen ihre Aufgaben nach den Grundsätzen der Zweckmässigkeit, der Wirtschaftlichkeit und der Benutzerorientierung; sie berücksichtigen dabei die kulturellen und ökologischen Belange sowie die Anliegen der Menschen mit Behinderungen.
+
+<sup>2</sup> Sie arbeiten partnerschaftlich zusammen.
+
+### 2. Abschnitt: Vereinbarungen mit Bundesbehörden und anderen Institutionen
+
+#### Art. 4
+
+**Vereinbarungen mit der Bundesversammlung, mit den eidgenössischen Gerichten und der Schweizerischen Gemeinnützigen Gesellschaft**
+
+<sup>1</sup>
+
+Der Bundesrat genehmigt die Vereinbarungen:
+
+- a. mit der Verwaltungsdelegation der Bundesversammlung über die Zusammenarbeit im Bereich des Immobilienmanagements für die Bundesversammlung und die Parlamentsdienste;
+- b.[^4-1] nach Artikel 25*a* des Bundesgerichtsgesetzes vom 17. Juni 2005[^4-2], den Artikeln 18 und 62 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^4-3] und Artikel 27*a* des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^4-4];
+- c. mit der Schweizerischen Gemeinnützigen Gesellschaft (SGG) über die Zusammenarbeit betreffend das Rütli, namentlich im Bereich der Verwaltung, der Nutzung und des Unterhalts.
+
+<sup>2</sup> Das Eidgenössische Finanzdepartement (EFD) wird ermächtigt, die Vereinbarungen auszuhandeln.
+
+<sup>3</sup> Es kann Anpassungen der Vereinbarungen selbstständig vereinbaren, soweit es um administrativ-technische Fragen geht, die keine bedeutenden finanziellen Aufwendungen verursachen.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
+[^4-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^4-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^4-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+
+#### Art. 5
+
+**Vereinbarungen mit anderen Institutionen**[^5-1]
+
+Die BLO können auf vertraglicher Basis und zu kostendeckenden Preisen auch Leistungen im Immobilienmanagement erbringen für:
+
+- a. Einheiten der Bundesverwaltung nach Artikel 7*a* Absatz 1 Buchstaben c und d RVOV[^5-2];
+- b. externe Träger von Verwaltungsaufgaben im Sinne von Artikel 6 Absatz 3 erster Satz RVOV;
+- c. weitere öffentliche Verwaltungen.
+
+[^5-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+## 2. Kapitel: Immobilienmanagement
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 6
+
+**Immobilienportfolios**
+
+<sup>1</sup>
+
+Das BBL-Immobilienportfolio umfasst alle Immobilien des Bundes, die weder zum VBS-Immobilienportfolio noch zum ETH-Immobilienportfolio gehören. Zum BBL-Immobilienportfolio gehören auch die Immobilien, welche bestimmt sind für die Aufgabenerfüllung:
+
+- a. der Bundesversammlung sowie der Parlamentsdienste (Art. 4 Abs. 1 Bst. a);
+- b.[^6-1] der eidgenössischen Gerichte und der Bundesanwaltschaft (Art. 4 Abs. 1 Bst. b);
+- c. des Bundes im Ausland;
+- d. der ausserparlamentarischen Kommissionen nach Artikel 57 Absatz 2 RVOG;
+- e. weiterer Institutionen aufgrund von Vereinbarungen nach den Artikeln 4 und 5.
+
+<sup>2</sup>
+
+Das VBS-Immobilienportfolio umfasst alle durch das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) im Rahmen von Eigentums- oder Besitzverhältnissen genutzten und bewirtschafteten Immobilien, mit Ausnahme:
+
+- a. der Immobilien für die Verwaltung des VBS in der Region Bern;
+- b. der Immobilien des Bundesamtes für Sport.
+
+<sup>3</sup> Das ETH-Immobilienportfolio umfasst alle Immobilien, die für die Aufgabenerfüllung des ETH-Bereichs bestimmt sind.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
+
+#### Art. 7
+
+**Begriffe**
+
+<sup>1</sup> Als Immobilien im Sinne dieser Verordnung gelten alle Grundstücke, Bauten und Anlagen, die entweder im Eigentum oder im Besitz, insbesondere Miete, Pacht oder Leasing, des Bundes stehen.
+
+<sup>2</sup> Das Immobilienmanagement umfasst die Gesamtheit aller Massnahmen zur Deckung des Raumbedarfs der Bundesverwaltung sowie zur Wahrung der Interessen des Bundes als Liegenschaftseigentümer und -besitzer sowie als Bauherr, Liegenschaftsbewirtschafter und -betreiber.
+
+<sup>3</sup> Als BLO werden die organisatorischen Einheiten bezeichnet, welche für das Immobilienmanagement in den in Artikel 6 Absatz 1 genannten Bereichen zuständig sind.
+
+<sup>4</sup> Als Benutzerorganisationen (BO) werden die organisatorischen Einheiten bezeichnet, die eine oder mehrere Immobilien nutzen.
+
+### 2. Abschnitt: Bau- und Liegenschaftsorgane
+
+#### Art. 8
+
+**Organisation innerhalb der Bundesverwaltung**
+
+<sup>1</sup>
+
+Für das Immobilienmanagement sind als BLO verantwortlich:
+
+- a. für Immobilien, die zum BBL-Immobilienportfolio gehören: das BBL;
+- b. für Immobilien, die zum VBS-Immobilienportfolio gehören: die Armasuisse;
+- c. für Immobilien, die zum ETH-Immobilienportfolio gehören: der ETH-Rat.
+
+<sup>2</sup> Für Immobilien mit gemischter Zweckbestimmung bestimmt sich die Verantwortlichkeit nach dem überwiegenden Teil der Zweckbestimmung.
+
+<sup>3</sup> Besteht im Einzelfall Unklarheit über die Verantwortlichkeit und findet sich keine Einigung, so ist die Frage zwischen den beteiligten Departementen zu regeln. Kann keine Lösung gefunden werden, so entscheidet die Vorsteherin oder der Vorsteher des EFD.
+
+<sup>4</sup> Das VBS legt die Aufgaben und Zuständigkeiten der Funktionsträger des VBS-Immobilienportfolios, der ETH-Rat diejenigen des ETH-Immobilienportfolios in Weisungen fest.
+
+<sup>5</sup> Die Weisungen des ETH-Rates beruhen auf dem Funktionendiagramm nach Anhang 1. Anhang 1 geht den Artikeln 9 und 12 dieser Verordnung bei Widersprüchen vor.
+
+<sup>6</sup> Der ETH-Rat wendet bei der finanziellen Führung des Immobilienportfolios des ETH-Bereichs im Eigentum des Bundes die Artikel 28–32, 34–39 sowie 49–52*a* der Finanzhaushaltverordnung vom 5. April 2006[^8-1] an.[^8-2]
+
+[^8-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^8-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
+
+#### Art. 9
+
+**Steuerung des Immobilienmanagements**
+
+<sup>1</sup> Die BLO sind in ihrem Zuständigkeitsbereich verantwortlich für die strategische, die dispositive und die operative Steuerung des Immobilienmanagements.
+
+<sup>1bis</sup> Sie berücksichtigen in allen Phasen des Immobilienmanagements in ausgewogener Weise die drei Nachhaltigkeitsdimensionen Gesellschaft, Wirtschaft und Umwelt. Das EFD erlässt im Sinne von Artikel 27 Weisungen über das nachhaltige Immobilienmanagement. Diese und die entsprechenden Empfehlungen der Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren (KBOB)[^9-1] sind für die Umsetzung des nachhaltigen Immobilienmanagements massgebend.[^9-2]
+
+<sup>2</sup>
+
+Im Bereich der strategischen Steuerung erfüllen die BLO insbesondere folgende Aufgaben:
+
+- a. *Bedürfnisüberprüfung:* Sie überprüfen die angemeldeten Bedürfnisse auf Rechtmässigkeit, Zweckmässigkeit, Standards, Optimierung der betrieblichen Abläufe, Wirtschaftlichkeit und Finanzierbarkeit.
+- b. *Investitionsplanung und -steuerung:* Sie planen und steuern die Verpflichtungs- und die Voranschlagskredite.
+- c. *Immobilien-Portfolio-Management:* Sie definieren Strategien, Gesamtkonzepte, Vorgaben und das Controlling zur Kosten-Nutzen-Optimierung des Immobilien-Portfolios des Bundes.
+- d. *Schaffung von Kostentransparenz:* Sie schaffen Kostentransparenz durch den Ausweis der effektiven Kosten des Bundes als Liegenschaftseigentümer und -besitzer sowie als Bauherr, Liegenschaftsbewirtschafter und -betreiber.
+- e. *Mehrjahresplanung und Zielsetzung:* Im Rahmen einer rollenden Mehrjahresplanung erarbeiten sie strategische Ziele und legen, auf diese abgestimmt, jedes Jahr die operativen Ziele fest.
+- f.[^9-3] …
+
+<sup>3</sup>
+
+Im Bereich der dispositiven Steuerung der Projekte erfüllen die BLO insbesondere folgende Aufgaben:
+
+- a.
+
+  *Statusbericht:* Die BLO erstellen in festgelegtem Rhythmus einen Statusbericht mit folgendem Inhalt:
+
+  - 1\. Soll-Ist-Vergleich zum aktuellen Zeitpunkt,
+  - 2\. Prognose bis zum Projektabschluss,
+  - 3\. Beurteilung der Ursachen von Soll-Ist-Abweichungen sowie Chancen und Risiken,
+  - 4\. Vorschläge für Steuerungsmassnahmen zur Zielerreichung,
+  - 5\. eventuell Antrag auf Projektänderung (Zielabweichung, Zielkorrektur).
+
+- b. *Projektcontrolling:* Das Projektcontrolling umfasst den Einsatz von Controllinginstrumenten zur Steuerung der einzelnen Projekte.
+- c. *Periodisches Reporting**:* Die BLO erstellen in halbjährlichem Rhythmus ein periodisches Reporting mit Kommentar als Kontrolle der Verpflichtungs- und der Voranschlagskredite.
+- d. *Auditing:* Das jeweilige Departement, dem das BLO angehört, kann die Durchführung von Audits in allen Projekten und Prozessen des Immobilienmanagements anordnen. Für das Auditing des ETH-Immobilienportfolios ist das EFD zuständig.
+
+<sup>4</sup>
+
+Im Bereich der operativen Steuerung erfüllen die BLO insbesondere folgende Aufgaben:
+
+- a.[^9-4] *Immobilien-Bereitstellung, Immobilien-Desinvestition und kaufmännisches Gebäudemanagement:* Dieses umfasst insbesondere das Beschaffungsmanagement einschliesslich Beschaffungskooperationen, das Raum- und Flächenmanagement, die Objektbuchhaltung und das Vertragsmanagement. Das BBL und die armasuisse berücksichtigen dabei die Vorgaben zum Beschaffungscontrolling gemäss der Verordnung vom 24. Oktober 2012[^9-5] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung.
+- b. *Technisches* *Gebäudemanagement:* Dieses umfasst insbesondere das Instandhaltungsmanagement, die technische Betriebsführung, das Energiemanagement und das Sicherheitsmanagement.
+- c. *Infrastrukturelles* *Gebäudemanagement**:* Dieses umfasst die Beschaffung, Erbringung, Koordination und Überwachung aller Dienste, die für den täglichen Betrieb des Objektes erforderlich sind.
+- d. *Vorstudien und Projektierung:* Führung der Teilphasen Machbarkeitsstudien, Projektdefinitionen, Auswahlverfahren, Vorprojekte, Bauprojekte, Bewilligungsverfahren und Auflageprojekte. Die Optimierung der Lebenszykluskosten eines Gebäudes ist in allen Projektphasen zu berücksichtigen.
+- e. *Ausschreibung und Realisierung:* Führung der Teilphasen Ausschreibungen, Offertvergleiche, Vergaben, Ausführungsprojekte, Ausführung, Inbetriebnahme und Bauabschluss unter Berücksichtigung der Lebenswegkosten.
+- f. *Ressourcenverbrauch:* Die BLO führen ein Ressourcen- und Umweltmanagement und erstellen ein periodisches Reporting über den Ressourcenverbrauch (Wärme, Strom, Wasser, Abfall) pro Energiebezugsfläche und pro Gebäude des für eine aussagekräftige Auswertung relevanten Gebäudebestandes sowie über die geplanten Massnahmen. Den interessierten BO stellen sie diese Informationen im Rahmen des Programms RUMBA (Ressourcen- und Umweltmanagement der Bundesverwaltung) zur Verfügung.
+
+[^9-1]: www.kbob.ch &gt; Publikationen / Empfehlungen / Musterverträge &gt; Empfehlungen Nachhaltiges Bauen
+[^9-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^9-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^9-4]: Fassung gemäss Art. 39 Abs. 2 der V vom 24. Okt. 2012 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Jan. 2013 ([AS 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)).
+[^9-5]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+
+#### Art. 10
+
+**Bedürfnisse der BO**[^10-1]
+
+Die BLO haben im Rahmen ihrer Aufgaben die Bedürfnisse der BO angemessen zu berücksichtigen. Für das BBL gelten zudem die besonderen Regelungen nach Artikel 21.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+#### Art. 11
+
+**Benennung der Ansprechpartner**
+
+<sup>1</sup> Die BLO bezeichnen gegenüber ihren BO die Ansprechpartner, an die sie sich je nach Geschäftsfall wenden können.
+
+<sup>2</sup> Die Ansprechpartner für das BBL-Immobilienportfolio sind in Anhang 2 festgelegt.
+
+#### Art. 12
+
+**Befugnisse**
+
+<sup>1</sup>
+
+Die BLO können im Rahmen der von den eidgenössischen Räten bewilligten Verpflichtungs- und Voranschlagskredite sowie der Vorgaben des zuständigen Departementes in ihrem Zuständigkeitsbereich alle Geschäfte selbstständig erledigen. Insbesondere haben sie folgende Befugnisse:
+
+- a. Kauf und Verkauf von Immobilien sowie Begründung, Änderung, Ausübung und Aufhebung von Vorkaufs-, Kaufs- und Rückkaufsrechten an Immobilien;
+- b. Begründung, Änderung und Aufhebung von Baurechten und anderen beschränkten dinglichen Rechten;
+- c. Vermietung und Verpachtung von Immobilien oder Teilen davon, sowie Einzug der entsprechenden Zinsen und Nebenkosten;
+- d. Miete und Pacht von Immobilien für die Bundesverwaltung;
+- e. Abschluss von Leasinggeschäften im Rahmen von Artikel 52 der Finanzhaushaltverordnung vom 5. April 2006[^12-1];
+- f. verbindliche Definition von Standards bezüglich Bau, Flächenzuteilung, Inneneinrichtung, Liegenschaftsbewirtschaftung und -betrieb;
+- g. ökonomische Nutzung und angemessene Nutzungsverdichtung des verfügbaren Raums;
+- h. verbindliche Zuteilung von Immobilien und Räumlichkeiten an die BO nach Konsultation der betroffenen Departemente;
+- i. Vergabe von Bau-, Liefer- und Dienstleistungsaufträgen;
+- j. Beauftragung von Dritten.
+
+<sup>2</sup> Die BLO können BO im Rahmen von Vereinbarungen Aufgaben übertragen.
+
+[^12-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+
+#### Art. 13
+
+**Kauf und Verkauf von Liegenschaften**
+
+<sup>1</sup> Beabsichtigt ein BLO, eine Liegenschaft zu kaufen, so fragt es zuerst die anderen BLO an, ob in ihrem Liegenschafts-Portfolio eine geeignete Liegenschaft zur Verfügung steht.
+
+<sup>2</sup>
+
+Beabsichtigt ein BLO, eine Liegenschaft zu verkaufen, so fragt es, unter dem Vorbehalt allfälliger Vorkaufs- oder Rückkaufsrechte, die nachstehend genannten möglichen Käufer in folgender Reihenfolge an:
+
+- a. andere BLO (Eigenbedarf des Bundes);
+- b. Kantone;
+- c. Gemeinden;
+- d. Private.
+
+<sup>3</sup> Der Verkauf an Kantone, Gemeinden oder Private erfolgt grundsätzlich zu Marktpreisen.
+
+<sup>4</sup> Das Bundesamt für Strassen ist bei Kauf und Verkauf von Liegenschaften den BLO gleichgestellt.[^13-1]
+
+[^13-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+#### Art. 14
+
+**Auflage an das BBL**
+
+Das Bundeshaus und der Innenstadt-Perimeter Bern sind der Bundesversammlung, dem Bundesrat und seinen engsten Diensten sowie den Organisationseinheiten mit internationalen Aufgaben vorbehalten.
+
+### 3. Abschnitt: Die BO und ihre Zusammenarbeit mit den BLO
+
+#### Art. 15
+
+<sup>1</sup> Die BO wirken im Rahmen der Vorgaben der BLO bei der Erfüllung von Aufgaben nach dieser Verordnung mit.
+
+<sup>2</sup> Die BO des BBL- und VBS-Immobilienportfolios sind grundsätzlich nicht befugt, die ihnen von den BLO zugewiesenen Räumlichkeiten Dritten zur Verfügung zu stellen. Ausnahmen bedürfen der schriftlichen Regelung zwischen der BO und dem zuständigen BLO.
+
+<sup>3</sup> Sie formulieren und begründen ihre Immobilienbedürfnisse und stellen ihre entsprechenden Anträge gemäss den Weisungen des zuständigen BLO.
+
+<sup>4</sup> Die BO und die BLO beachten gegenseitig ihre Rechte und Pflichten und informieren einander über alle relevanten Angelegenheiten.
+
+### 4. Abschnitt: Die BO des BBL-Immobilienportfolios und ihre Zusammenarbeit mit dem BBL
+
+#### Art. 16
+
+**Funktionen der BO**
+
+<sup>1</sup> Die BO des BBL-Immobilienportfolios und die ihnen vorgesetzten Generalsekretariate (GS) oder andern vorgesetzten Stellen bezeichnen Immobilienverantwortliche als Partner für die Zusammenarbeit mit dem BBL. Sie statten sie mit den notwendigen Kompetenzen und Ressourcen aus.
+
+<sup>2</sup>
+
+Sie besetzen die folgenden ständigen Funktionen:
+
+- a. Verantwortliche oder Verantwortlicher der Ansprechstelle Immobilien auf Stufe GS oder auf der Stufe der Stelle, die der BO vorgesetzt ist;
+- b. Immobilienlogistikerin oder Immobilienlogistiker auf Stufe BO (IL-BO);
+- c. Immobilienlogistikerin oder Immobilienlogistiker an den Standorten der BO (IL-SO).
+
+<sup>3</sup> Im Rahmen eines Bauprojektes besetzen sie die temporäre Funktion der Vertreterin oder des Vertreters der BO, bei grösseren Vorhaben die temporäre Funktion der Projektleiterin oder des Projektleiters BO, in der Bauprojektorganisation.
+
+<sup>4</sup> Die Funktionen nach den Absätzen 2 und 3 haben die Aufgaben nach Anhang 3 zu erfüllen.
+
+<sup>5</sup> Bei Bedarf können die Funktionen nach den Absätzen 2 und 3 in Personalunion besetzt werden.
+
+#### Art. 17
+
+**Anträge der BO**
+
+<sup>1</sup> Die BO formulieren, begründen und beantragen ihre Immobilienbedürfnisse gemäss den Vorgaben des BBL.
+
+<sup>2</sup> Sie müssen in ihren Anträgen den betriebswirtschaftlichen Nachweis ihrer Bedürfnisse erbringen.
+
+<sup>3</sup> Die BO holen zu ihren Anträgen vor der Einreichung beim BBL die Beurteilung und Empfehlung des zuständigen GS beziehungsweise der anderen vorgesetzten Stelle ein; ausgenommen sind Anträge für bauliche Klein- und Unterhaltsmassnahmen.
+
+<sup>4</sup> Das GS beziehungsweise die andere vorgesetzte Stelle prüft, beurteilt und priorisiert die Anträge, gleicht sie mit der Entwicklungsstrategie und der langfristigen Planung des Departements oder ihrer Organisationseinheit ab, gibt die Empfehlung dazu ab und leitet die Anträge mit einer Begründung an das BBL weiter.
+
+#### Art. 18
+
+**Rechte und Pflichten des BBL im Rahmen der Zusammenarbeit**
+
+<sup>1</sup> Das BBL berücksichtigt die bundesinternen Weisungen und die finanziellen Möglichkeiten und achtet auf die wirtschaftliche Unterbringung der BO.
+
+<sup>2</sup>
+
+Es informiert die BO regelmässig über:
+
+- a. die Grundsätze der Portfoliostrategie;
+- b. die Investitionsplanung (Mehrjahresplanung, Investitionsbänder);
+- c. die aktuelle Belegungsstrategie;
+- d. die Weisungen, Normen und Standards bezüglich Bau, Einrichtung, Betrieb und nachhaltigem Bauen;
+- e. die aktuelle Erhaltungsstrategie;
+- f. den Ressourcenverbrauch und die Umweltbelastung.
+
+<sup>3</sup>
+
+Es stellt den BO die für ihre Bedürfnisse notwendigen Planungs- und Steuerungsinstrumente online zur Verfügung, insbesondere:
+
+- a. Antragsformulare;
+- b. Belegungspläne und Flächendaten über die Büro- und Verwaltungsgebäude;
+- c. Weisungen, Normen und Standards bezüglich Bau, Einrichtung, Betrieb und nachhaltigem Bauen;
+- d. Dokumentationen über die Organisation und Arbeitsweise des BBL.
+
+<sup>4</sup> Es führt regelmässig Kundenbefragungen durch.
+
+#### Art. 19
+
+**Rechte und Pflichten der BO im Rahmen der Zusammenarbeit**
+
+<sup>1</sup> Die BO der Bundesverwaltung nach den Artikeln 7 und 7*a* Absatz 1 Buchstaben a und b RVOV[^19-1] müssen die Leistungen umfassend beim BBL beziehen.[^19-2]
+
+<sup>2</sup> Die BO der Bundesverwaltung nach Artikel 7*a* Absatz 1 Buchstaben c und d RVOV sowie externe Träger von Verwaltungsaufgaben im Sinne von Artikel 6 Absatz 3 erster Satz RVOV und weitere öffentliche Verwaltungen können die Leistungen beim BBL aufgrund einer vertraglichen Vereinbarung beziehen.[^19-3]
+
+<sup>3</sup>
+
+Die BO arbeiten mit dem BBL zur Erreichung der Ziele nach Artikel 2 in den folgenden Bereichen zusammen:
+
+- a. Raumbelegung und Nutzungsverdichtung;
+- b. Planung und Optimierung nutzerspezifischer Betriebsabläufe;
+- c. Planung und Optimierung von Gebäudebewirtschaftung und -betrieb;
+- d. Optimierung des Raum- und Flächenbedarfs;
+- e. Nachweise der Wirtschaftlichkeit von Betriebsabläufen.
+
+<sup>4</sup>
+
+Sie informieren das BBL regelmässig über:
+
+- a. ihre kurz- und mittelfristige Planung;
+- b. ihre mittel- und langfristige Strategie;
+- c. die Entwicklung des Flächenbedarfs;
+- d. die erwartete Personalentwicklung nach Voll- und Teilzeitstellen;
+- e. die Standort-Beurteilung und die Eignung der Liegenschaft;
+- f. die Anforderungen an die Raumqualität;
+- g. Anregungen für Anpassungen der Raum-Standards.
+
+<sup>5</sup>
+
+Sie stellen dem BBL jährlich die folgenden Daten für übergeordnete Berichte und für Berichte zum Programm RUMBA zur Verfügung:
+
+- a. Personalbestände nach Voll- und Teilzeitstellen pro Standort;
+- b. Betriebskennzahlen, sofern die Zuständigkeit für den Gebäudebetrieb bei der BO liegt.
+
+[^19-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^19-2]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^19-3]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+
+#### Art. 20
+
+**Markt- und kostenorientiertes Mietermodell**
+
+<sup>1</sup> Im markt- und kostenorientierten Mietermodell für den Leistungsbereich Unterbringung legen das BBL und die GS oder die ihnen entsprechenden Stellen ihre spezifischen Rechte und Pflichten in einem besonderen «Rahmen-Service-Level-Agreement» (Rahmen-SLA) fest; dabei bilden die Rechte und Pflichten nach dieser Verordnung den Rahmen.
+
+<sup>2</sup> Die Abwicklung richtet sich nach den Richtlinien und Weisungen zur Haushalt- und Rechnungsführung Bund der Eidgenössischen Finanzverwaltung[^20-1].
+
+[^20-1]: www.accounting.admin.ch
+
+#### Art. 21
+
+**Besondere Regelungen**
+
+Besondere Regelungen gelten für:
+
+- a. die Bewirtschaftung von Parkplätzen; sie ist in der Verordnung vom 20. Mai 1992[^21-1] über die Zuteilung von Parkplätzen in der Bundesverwaltung geregelt;
+- b. die Nutzung und den Betrieb von Verpflegungseinrichtungen; sie wird in einer Vereinbarung zwischen dem BBL und dem Eidgenössischen Personalamt geregelt;
+- c. die Nutzung und den Betrieb von Dienstwohnungen; für sie gilt Artikel 90 der Bundespersonalverordnung vom 3. Juli 2001[^21-2];
+- d.[^21-3] die Nutzung und den Betrieb von zivilen Bundesbauten; das BBL erlässt dazu Weisungen.
+
+[^21-1]: [SR 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
+[^21-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^21-3]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+### 5. Abschnitt: Besondere Aufgaben des BBL
+
+#### Art. 22
+
+**Logistische Dienstleistungen für Anlässe**[^22-1]
+
+Das BBL erbringt logistische Dienstleistungen, welche der Bundesrat, die Departementsvorsteherinnen und Departementsvorsteher, die Bundeskanzlerin oder der Bundeskanzler sowie weitere Magistratspersonen auf höchster Bundesebene für die Durchführung von besonderen Anlässen wie Neujahrsempfang, Staatsempfänge, Arbeitsvisiten, militärische Ehren, jährlicher Bundesratsausflug und Pressekonferenzen benötigen.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+#### Art. 23
+
+**Kunst-am-Bau-Projekte**
+
+<sup>1</sup>
+
+Das BBL nimmt bei Kunst-am-Bau-Projekten des BBL-Immobilienportfolios die folgenden Aufgaben wahr:
+
+- a. Planung;
+- b. Koordination der Projekte mit den übrigen Bauvorhaben;
+- c. Bewirtschaftung der dafür notwendigen Kredite;
+- d. Organisation der Wettbewerbe;
+- e. Direktaufträge;
+- f. Lösung bautechnischer Fragen;
+- g. Administration.
+
+<sup>2</sup> Es regelt seine Zusammenarbeit mit dem Bundesamt für Kultur und der eidgenössischen Kunstkommission durch Vereinbarung.
+
+#### Art. 24
+
+**FIPOI**
+
+Das BBL stellt Mitglieder in den statutarischen Gremien der FIPOI (Fondation des Immeubles pour les Organisations Internationales) in Genf.
+
+### 6. Abschnitt: Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren und Zuständigkeit des EFD
+
+#### Art. 25
+
+**Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren**
+
+<sup>1</sup>
+
+Die KBOB ist ein Gremium, dem mindestens angehören:
+
+- a. die drei BLO nach dieser Verordnung;
+- b. das Bundesamt für Strassen;
+- c. das Bundesamt für Verkehr.
+
+<sup>2</sup> Die KBOB kann weitere Mitglieder aufnehmen, insbesondere andere Bundesämter sowie Vertreterinnen und Vertreter kantonaler und kommunaler Bau- und Liegenschaftsorgane.
+
+<sup>3</sup>
+
+Sie bildet folgende Organe, in denen ihre Mitglieder vertreten sind:
+
+- a. den Vorstand;
+- b. die ständigen Fachgruppen;
+- c. bei Bedarf Ad-hoc-Arbeitsgruppen mit befristetem Auftrag.
+
+<sup>4</sup> Entscheidungen in den Organen werden mit einfachem Mehr der Stimmenden gefällt.
+
+<sup>5</sup> Der Vorstand hat insbesondere die Aufgabe, die Tätigkeitsschwerpunkte der KBOB festzulegen.
+
+<sup>6</sup> Das BBL präsidiert die KBOB.
+
+<sup>7</sup> Es führt das Sekretariat der KBOB.
+
+#### Art. 26
+
+**Ziele, Aufgaben und Befugnisse der KBOB**
+
+<sup>1</sup> Die KBOB wahrt die Interessen ihrer Mitglieder als Liegenschaftseigentümer und ‑besitzer sowie als Bauherren, Liegenschaftsbewirtschafter und -betreiber.
+
+<sup>2</sup>
+
+Sie verfolgt insbesondere die folgenden Ziele und nimmt die folgenden Aufgaben wahr:
+
+- a. Sie sorgt dafür, dass ihre Mitglieder effizient zusammenarbeiten.
+- b. Sie fördert den Erfahrungsaustausch zwischen den Mitgliedern und den Vertreterinnen und Vertretern anderer Institutionen im Bau- und Liegenschaftsbereich.
+- c. Sie vertritt ihre Mitglieder einheitlich gegenüber anderen öffentlichen Institutionen und der Bauwirtschaft.
+- d. Sie fördert die Effizienz bei der Immobilien-Bereitstellung, dem Bau, der Einrichtung, der Bewirtschaftung und dem Betrieb von Bauten und Anlagen des Bundes.
+- e. Sie berücksichtigt die nachhaltige Entwicklung.
+- f. Sie berücksichtigt kulturelle Belange.
+- g. Sie bietet regelmässig Aus- und Weiterbildungskurse zur Förderung der Zusammenarbeit im Immobilienbereich des Bundes für die im Immobilienmanagement tätigen Mitarbeiterinnen und Mitarbeiter an.
+
+<sup>3</sup>
+
+Sie nimmt insbesondere in den folgenden Bereichen Koordinationsaufgaben wahr:
+
+- a. Beschaffungs- und Vertragswesen;
+- b. Preisänderungsfragen;
+- c. Dienstleistungen von Planerinnen und Planern;
+- d. Normwesen;
+- e. nachhaltiges Bauen.
+
+<sup>4</sup>
+
+Sie kann im Rahmen des Immobilienmanagements:
+
+- a. für ihre Mitglieder gemeinsame Empfehlungen erlassen;
+- b. ihre Mitglieder im Inland vertreten.
+
+<sup>5</sup> Sie kann die Detailorganisation für ihren Zuständigkeitsbereich festlegen.
+
+#### Art. 27
+
+**Zuständigkeit des EFD**
+
+Das EFD erlässt auf Antrag der KBOB im Bereich des Immobilienmanagements Weisungen für die Mitglieder der KBOB, die der Bundesverwaltung angehören, sowie für deren BO.
+
+### 7. Abschnitt: Kreditordnung
+
+#### Art. 28
+
+**Bereitstellen von Krediten**
+
+<sup>1</sup>
+
+Das Departement, dem das BLO angehört, beantragt für alle Investitionsvorhaben seines BLO im Bereich des Immobilienmanagements jährlich einen Gesamtkredit mit folgenden Spezifikationsbereichen:
+
+- a. je einen Verpflichtungskredit für alle Vorhaben, die Ausgaben von mehr als 10 Millionen Franken im Einzelfall erfordern, mit Erläuterungen für jedes einzelne Vorhaben;
+- b. einen zweckmässig gegliederten Rahmenkredit für alle übrigen Bauvorhaben.
+
+<sup>2</sup> Der Gesamtkredit wird in einer separaten Immobilienbotschaft beantragt. Für den ETH-Bereich wird er als Bestandteil der Botschaft zum Voranschlag beantragt.
+
+<sup>3</sup> Das Departement, dem das BLO angehört, beantragt die zur Realisierung geplanter Vorhaben sowie zum Betrieb von Immobilien erforderlichen Voranschlagskredite im jeweiligen Voranschlag.
+
+<sup>4</sup> In den Botschaften nach Absatz 2 werden für Vorhaben nach Absatz 1 Buchstabe a die voraussichtlichen jährlichen Betriebs- und Folgekosten des Gebäudes offengelegt.
+
+<sup>5</sup>
+
+Die BLO können im Rahmen des Immobilienmanagements:
+
+- a. über Projektierungskredite und Kreditfreigaben für einzelne Investitionsvorhaben entscheiden;
+- b. über Betriebskredite und entsprechende Kreditfreigaben entscheiden;
+- c. Verpflichtungs- und Voranschlagskredite verwalten.
+
+#### Art. 29
+
+**Finanzielle Steuerung**
+
+Die BLO erstellen für ihren jeweiligen Zuständigkeitsbereich jährlich rollend eine vierjährige sowie eine längerfristige Investitionsplanung für das Immobilienmanagement.
+
+## 3. Kapitel: Logistik
+
+#### Art. 30
+
+**Geltungsbereich**[^30-1]
+
+<sup>1</sup> Dieses Kapitel gilt für die Bundesverwaltung nach den Artikeln 7 und 7*a* Absatz 1 Buchstaben a und b RVOV[^30-2].
+
+<sup>2</sup>
+
+Die folgenden Leistungsbezüger und Bedarfsstellen, die nicht von Absatz 1 erfasst sind, können vom BBL aufgrund vertraglicher Vereinbarungen zu kostendeckenden Preisen Lieferungen aus dessen Sortimenten sowie Verlagsleistungen beziehen:
+
+- a. die Einheiten der Bundesverwaltung nach Artikel 7*a* Absatz 1 Buchstaben c und d RVOV;
+- b.[^30-3] die eidgenössischen Gerichte und die Bundesanwaltschaft;
+- c. die externen Träger von Verwaltungsaufgaben im Sinne von Artikel 6 Absatz 3 erster Satz RVOV;
+- d. weitere öffentliche Verwaltungen.
+
+[^30-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^30-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^30-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5049](https://fedlex.data.admin.ch/eli/oc/2010/722)).
+
+#### Art. 31
+
+**Aufgaben und Befugnisse des BBL**
+
+<sup>1</sup> Das BBL ist für die Bundesverwaltung nach den Artikeln 7 und 7*a* Absatz 1 Buchstaben a und b RVOV[^31-1] ausschliesslicher Leistungserbringer in allen Phasen des Logistikprozesses.[^31-2]
+
+<sup>2</sup> Es entscheidet über Eigenproduktion oder Beschaffung einschliesslich Beschaffungskooperationen.
+
+<sup>3</sup> Es ist eine zentrale Beschaffungsstelle des Bundes gemäss Artikel 3 der Verordnung vom 22. November 2006[^31-3] über die Organisation des öffentlichen Beschaffungswesens des Bundes.
+
+<sup>4</sup> Es stellt die für das Beschaffungscontrolling notwendigen Instrumente zur Verfügung.[^31-4]
+
+<sup>5</sup> Es ist Fachstelle und Standardisierungsorgan für die Bereiche Büroausrüstung und Raumausstattung sowie für die Publikationen des Bundes.
+
+<sup>6</sup> Es ist die zentrale Beschaffungs- und Vertriebsstelle für Bundespublikationen und Drucksachen; es entscheidet über die dafür einzusetzenden Vertriebskanäle.
+
+<sup>7</sup>
+
+Es führt, bewirtschaftet und vertreibt standardisierte Artikel in den folgenden Sortimenten:
+
+- a. Büroausrüstung (wie Bürobedarf, Bürotechnik);
+- b. Raumausstattung (wie Mobiliar, Hausrat für Botschaften, Hausdienstmaterial);
+- c. Informatik;
+- d. Telekommunikationsmittel.
+
+<sup>8</sup> Es überprüft periodisch die Prozesse und Organisationen des Beschaffungsmarktes für Güter und Dienstleistungen des zivilen Gebrauchs und optimiert sie.
+
+<sup>9</sup> Es ist zuständig für die Aufbereitung und Ausgabe hoheitlicher Bundesdaten (insbesondere schützenswerter, vertraulicher und geheimer Daten).
+
+<sup>10</sup> Es ist zuständig für die Personalisierung und Konfektionierung des Schweizerpasses und weiterer Identitäts- und Legitimationsausweise des Bundes im Auftrag des Bundesamtes für Polizei.
+
+[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-2]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^31-3]: [[AS 2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829), [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff, III 2, **2010** 3175 Anhang 3 Ziff. 3, **2011** 6093 Anhang Ziff. 2. [AS 2012 5935](https://fedlex.data.admin.ch/eli/oc/2012/695)Art. 39 Abs. 1]. Siehe heute: die V vom 24. Okt. 2012 ([SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)).
+[^31-4]: Fassung gemäss Ziff. III 1 der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)).
+
+## 4. Kapitel: Verfahren bei Differenzen
+
+### 1. Abschnitt: Im Allgemeinen
+
+#### Art. 32
+
+<sup>1</sup> Meinungsverschiedenheiten in den Bereichen des Immobilienmanagements und der Logistik sind nach Möglichkeit in gegenseitigem Einvernehmen auszuräumen.
+
+<sup>2</sup> Für den Fall, dass dies nicht möglich ist, sind Eskalationsstufen vorzusehen.
+
+<sup>3</sup> Für den Bereich des Immobilienmanagements legen die BLO das Verfahren und die Eskalationsstufen fest.
+
+### 2. Abschnitt: Im Bereich des BBL-Immobilienportfolios und der Logistik
+
+#### Art. 33
+
+**Im Immobilienmanagement**
+
+<sup>1</sup>
+
+Meinungsverschiedenheiten im Bereich des BBL-Immobilienportfolios sind in gegenseitigem Einvernehmen auszuräumen:
+
+- a. bei Fragen im Zusammenhang mit der strategischen Planung: zwischen der Portfoliomanagerin oder dem Portfoliomanager des BBL und einem Geschäftsleitungsmitglied oder der oder dem IL-BO;
+- b. bei Fragen im Zusammenhang mit einem Immobilienbedürfnis: zwischen der Portfoliomanagerin oder dem Portfoliomanager des BBL und der oder dem IL-BO.
+
+<sup>2</sup> Kommt keine einvernehmliche Lösung zustande, so entscheidet die Leiterin oder der Leiter des Bereichs Bauten des BBL.
+
+#### Art. 34
+
+**Bei Immobilienprojekten (Bauprojekten)**
+
+<sup>1</sup> Meinungsverschiedenheiten bei Immobilienprojekten (Bauprojekten) sind in gegenseitigem Einvernehmen auszuräumen zwischen der Projektleiterin oder dem Projektleiter des BBL (Bauherr) und der Projektleiterin oder dem Projektleiter der BO.
+
+<sup>2</sup> Kommt keine einvernehmliche Lösung zustande, so entscheidet die Portfoliomanagerin oder der Portfoliomanager des BBL.
+
+<sup>3</sup> Sind die Parteien mit diesem Entscheid nicht einverstanden, so suchen die Portfoliomanagerin oder der Portfoliomanager des BBL und die vorgesetzte Stelle der Projektleiterin oder des Projektleiters der BO nach einer einvernehmlichen Lösung.
+
+<sup>4</sup> Kommt keine einvernehmliche Lösung zustande, so entscheidet die Leiterin oder der Leiter des Bereichs Bauten des BBL.
+
+#### Art. 35
+
+**In der kaufmännischen Gebäudebewirtschaftung (Leistungsverrechnung)**
+
+Bei Meinungsverschiedenheiten in der kaufmännischen Gebäudebewirtschaftung (Leistungsverrechnung) kommt das Eskalationsverfahren gemäss den Richtlinien und Weisungen zur Haushalt- und Rechnungsführung Bund der Eidgenössischen Finanzverwaltung[^35-1] zur Anwendung.
+
+[^35-1]: http://intranet.accounting.admin.ch (Intranet Bundesverwaltung)
+
+#### Art. 36
+
+**Im Immobilienbetrieb**
+
+<sup>1</sup> Meinungsverschiedenheiten im Immobilienbetrieb (Unterhalt oder Kleinmassnahmen, Gebäudebetrieb, Reinigung) sind in gegenseitigem Einvernehmen auszuräumen zwischen der oder dem Objektverantwortlichen des BBL und der oder dem IL‑BO beziehungsweise der oder dem IL-SO.
+
+<sup>2</sup> Kommt keine einvernehmliche Lösung zustande, so entscheidet die Leiterin oder der Leiter der Abteilung Objektmanagement des BBL.
+
+<sup>3</sup> Sind die Parteien mit diesem Entscheid nicht einverstanden, so suchen die Leiterin oder der Leiter der Abteilung Objektmanagement des BBL und die vorgesetzte Stelle der oder des IL-BO beziehungsweise der oder des IL-SO nach einer einvernehmlichen Lösung.
+
+<sup>4</sup> Kommt keine einvernehmliche Lösung zustande, so entscheidet die Leiterin oder der Leiter des Bereichs Bauten des BBL.
+
+#### Art. 37
+
+**In der Logistik**
+
+<sup>1</sup>
+
+Für die Bereinigung von Meinungsverschiedenheiten im Bereich der Logistik sind auf erster Stufe aufseiten BBL zuständig:
+
+- a. für die Geschäftsprozesse Büroausrüstung und Publikationen: die Abteilungsleiterin oder der Abteilungsleiter Vertrieb;
+- b. für den Geschäftsprozess Auftragsbeschaffung: die Abteilungsleiterin oder der Abteilungsleiter Beschaffung;
+- c.[^37-1] für den Geschäftsprozess Auftragsproduktion: die Abteilungsleiterin oder der Abteilungsleiter Produktion.
+
+<sup>2</sup> Auf zweiter Stufe ist in allen Fällen die Leiterin oder der Leiter des Bereichs Logistik zuständig.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+
+#### Art. 38
+
+**Vorgehen**
+
+Die beteiligten Parteien umschreiben die Differenz in schriftlicher Form und stellen einen Antrag zu deren Lösung.
+
+#### Art. 39
+
+**Weitere Eskalationsstufen**
+
+<sup>1</sup> Ist die BO beziehungsweise der Leistungsbezüger oder die Bedarfsstelle mit dem Ausgang des Verfahrens nicht einverstanden, so ist die Frage zwischen der Generalsekretärin oder dem Generalsekretär des Departementes, dem die BO, der Leistungsbezüger oder die Bedarfsstelle angehört, und der Direktorin oder dem Direktor des BBL zu regeln.
+
+<sup>2</sup> Kann keine Einigung gefunden werden, so entscheidet die Vorsteherin oder der Vorsteher des EFD.
+
+#### Art. 40
+
+**Vorbehalt abweichender Regelungen**
+
+Vorbehalten bleiben abweichende Vermittlungs- und Schiedsverfahren bei Streitigkeiten, Meinungsverschiedenheiten oder strittigen Ansprüchen in Vereinbarungen gemäss Artikel 4.
+
+## 5. Kapitel: Schlussbestimmungen
+
+#### Art. 41
+
+**Vollzugsbestimmungen**
+
+<sup>1</sup> Die BLO erlassen für ihren jeweiligen Zuständigkeitsbereich die zum Vollzug dieser Verordnung im Bereich des Immobilienmanagements notwendigen Weisungen. Die Artikel 8 und 27 bleiben vorbehalten.
+
+<sup>2</sup> Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleibt die Bundesinformatikverordnung vom 26. September 2003[^41-1].
+
+[^41-1]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29 Abs. 1]. Siehe heute: die Bundesinformatikverordnung vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+
+#### Art. 42
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 14. Dezember 1998[^42-1] über das Immobilienmanagement und die Logistik des Bundes wird aufgehoben.
+
+[^42-1]: [[AS 1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154), [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Anhang Ziff. II 3, [2002 2047](https://fedlex.data.admin.ch/eli/oc/2002/303), [2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)Anhang 2 Ziff. 1 [5047](https://fedlex.data.admin.ch/eli/oc/2003/748)Anhang Ziff. II 1, [2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)Anhang Ziff. II 2, [2005 481](https://fedlex.data.admin.ch/eli/oc/2005/56), [2006 5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 2, [2007 2819](https://fedlex.data.admin.ch/eli/oc/2007/368)[5957](https://fedlex.data.admin.ch/eli/oc/2007/796)Anhang 4 Ziff. II 1]
+
+#### Art. 43
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2009 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 8 Abs. 5)
+
+## Verantwortlichkeiten im Immobilienmanagement des ETH-Bereiches (Funktionendiagramm)
+
+[^t-1]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014, in Kraft seit 1. Jan. 2015 ([AS 2015 1](https://fedlex.data.admin.ch/eli/oc/2015/1)).
+
+Legende:
+
+<table>
+<tr><td>G</td><td>Abschliessende Genehmigung</td><td>M</td><td>Mitwirkung</td><td>A</td><td>Antrag</td></tr>
+<tr><td>E</td><td>Entscheid, resp. Entscheidungsstufe</td><td>i</td><td>Informationsrecht</td><td>K2</td><td>Aufsicht K / Stichprobenkontrollen</td></tr>
+<tr><td>D</td><td>Durchführung</td><td>K</td><td>Kontrolle / IKS</td><td></td><td></td></tr>
+</table>
+
+<table>
+<tr><th>Aufgabe/Aktivität</th><th>Periodizität</th><th>Parlament</th><th>BR</th><th>EFV</th><th>BBL</th><th>WBF</th><th>ETH-Rat</th></tr>
+<tr><td>A. Strategisches Immobilien-Management</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1. Räumliche und finanzielle Gesamtkonzepte als mittel-/langfristige Perspektivplanung der gesamten Unterbringung gem. Art. 7 Abs. 1 und 2 und Investitions- und Folgekosten nach Art. 2 Abs. 1; Planungs- und Prognosehorizont 4 resp. 12 Jahre</td><td>rollend</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>G</td></tr>
+<tr><td>2. Wert- und Funktionserhaltung:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Grundstrategie u.a. mit Differenzierung nach Kern- und Dispositionsbestand</td><td>4 Jahre</td><td></td><td></td><td></td><td>G</td><td>i</td><td>E</td></tr>
+<tr><td>2.2 rollende Massnahmenplanung</td><td>jährlich</td><td></td><td></td><td></td><td>i</td><td>i</td><td>E</td></tr>
+<tr><td>3. Investitionsplanung (4 Jahre) auf Basis räumlicher und finanzieller Gesamtkonzepte</td><td>jährlich</td><td>i</td><td>i</td><td>i</td><td>K</td><td>i</td><td>E</td></tr>
+<tr><td>4. Normen und Standards u.a. der KBOB</td><td>laufend</td><td></td><td></td><td></td><td>i</td><td></td><td>E</td></tr>
+<tr><td>5. Kofinanzierungen mit Drittmitteln: Erarbeitung und Pflege der Rahmenvereinbarung</td><td>4 Jahre</td><td></td><td></td><td>M/E</td><td>M/E</td><td>M/E</td><td>D/E</td></tr>
+<tr><td>B. Voranschlag / Finanzplanung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1. Einholen des Verpflichtungskredits mittels Bauprogramm als Teil der Botschaft zum Voranschlag</td><td>jährlich</td><td>G</td><td>E4</td><td>K</td><td>E2</td><td>E3 Doppelantrag mit EFD</td><td>D/E1/A</td></tr>
+<tr><td>2. Einholen des Investitionskredits (Voranschlag) und des Abschreibungskredits</td><td>jährlich</td><td>G</td><td>E3</td><td>K</td><td>E2</td><td>i</td><td>E1/A</td></tr>
+<tr><td>3. Einholen des Aufwandkredits Unterbringung (Miete)</td><td>jährlich</td><td>G</td><td>E</td><td>K</td><td>M</td><td>A</td><td>M</td></tr>
+<tr><td>4. Kreditverschiebung zwischen Investitionskredit und Finanzierungsbeitrag (+/– 20 % von IK)</td><td>jährlich</td><td></td><td></td><td>i</td><td>E2</td><td>G</td><td>D/E1</td></tr>
+<tr><td>C. Umsetzungsmassnahmen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1. Kauf von Grundstücken:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.1 Kauf &lt; 10 Mio Fr.</td><td>bedarfsweise</td><td></td><td></td><td></td><td>i</td><td></td><td>D/E</td></tr>
+<tr><td>1.2 Kauf &gt; 10 Mio Fr. (Bestandteil Bauprogramm)</td><td>bedarfsweise</td><td>G</td><td>E4</td><td>K</td><td>E2</td><td>E3 Doppelantrag mit EFD</td><td>D/E1</td></tr>
+<tr><td>2. Kofinanzierung: Antrag mit Projektbeschreibung inkl. Vereinbarung mit Drittmittelgeber und Risikobeurteilung</td><td>bedarfsweise</td><td></td><td></td><td>i</td><td>G</td><td>i</td><td>D/E/A</td></tr>
+<tr><td>3. Verkauf (unter Beachtung Art. 13)</td><td>bedarfsweise</td><td></td><td></td><td></td><td>G</td><td></td><td>D/E</td></tr>
+<tr><td>4. Abgabe von Grundstücken im Baurecht:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4.1 Baurechte an Dritte für Nutzungen ohne Bezug zum Leistungsauftrag ETH</td><td>bedarfsweise</td><td></td><td></td><td></td><td>G</td><td></td><td>D/E/A</td></tr>
+<tr><td>4.2 Investorenmodelle für Nutzungen in Ergänzung des Leistungsauftrags, z.B. studentisches Wohnen, Hotel etc. (kein Eigenbedarf ETH, Betrieb und Unterhalt durch Dritte)</td><td>bedarfsweise</td><td></td><td></td><td></td><td>G</td><td></td><td>D/E/A</td></tr>
+<tr><td>4.3 Leasing- und PPP-Geschäfte (Deckung des Eigenbedarfs zur Erfüllung des Leistungsauftrags der ETH, jeweils mit Rückmiete und/oder Amortisation); auch ohne Abgabe von Baurechten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4.3.1 Rückmiete / Operatives Leasing (gemäss Finanzhaushaltgesetz vom 7. Okt. 2005[^annex1-lvlu1-1])</td><td>bedarfsweise</td><td></td><td></td><td>E2</td><td>E2</td><td>i</td><td>D/E1/A</td></tr>
+<tr><td>4.3.2 Finanzierungsleasing (Bestandteil Bauprogramm)</td><td>bedarfsweise</td><td>G</td><td>E4</td><td>K</td><td>E2</td><td>E3</td><td>D/E1/A</td></tr>
+<tr><td>4.4 Abgeltung des damit verbundenen Aufwands und Vereinnahmung des Ertrags</td><td>laufend</td><td></td><td></td><td></td><td></td><td></td><td>D</td></tr>
+<tr><td>5. Mit-/Gesamteigentum</td><td>bedarfsweise</td><td></td><td></td><td>i</td><td>E2</td><td>E2</td><td>D/E1/A</td></tr>
+<tr><td>6. Dienstbarkeiten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>6.1 gewähren (exkl. Baurechte)</td><td>bedarfsweise</td><td></td><td></td><td></td><td></td><td></td><td>D/E</td></tr>
+<tr><td>6.2 erhalten</td><td>bedarfsweise</td><td></td><td></td><td></td><td></td><td></td><td>D/E</td></tr>
+<tr><td>7. Kaufrechte (Vormerkung)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7.1 gewähren</td><td>bedarfsweise</td><td></td><td></td><td></td><td>G</td><td></td><td>D/E/A</td></tr>
+<tr><td>7.2 erhalten</td><td>bedarfsweise</td><td></td><td></td><td></td><td></td><td></td><td>D/E</td></tr>
+<tr><td>8. Miete/Pacht</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.1 Anmiete/Pacht</td><td>bedarfsweise</td><td></td><td></td><td></td><td></td><td></td><td>D/E</td></tr>
+<tr><td>8.2 Vermietung/Verpachtung inkl. damit verbundener Abgeltung des Aufwands und Vereinnahmung des Ertrag</td><td>bedarfsweise</td><td></td><td></td><td></td><td></td><td></td><td>D/E</td></tr>
+<tr><td>D. Werteführung, Finanzbuchhaltung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1. Führen der Verpflichtungskredite und der Investitionskredite im Detail</td><td>laufend</td><td></td><td></td><td></td><td></td><td></td><td>D/K</td></tr>
+<tr><td>2. Liquiditätsplanung für Investitionen in Bundesliegenschaften (Investitionskredit für Projektierung und Ausführung)</td><td>monatlich</td><td></td><td></td><td>i</td><td>i</td><td></td><td>D/K</td></tr>
+<tr><td>3. Mittelauszahlung für Investitionen in Bundesliegenschaften auf Basis der Liquiditätsplanung</td><td>monatlich</td><td></td><td></td><td></td><td>D/K/E</td><td></td><td>A</td></tr>
+<tr><td>4. Führen der Anlagezugänge/-abgänge sowie der Abschreibungen im Detail</td><td>laufend</td><td></td><td></td><td></td><td>K2</td><td></td><td>D/K</td></tr>
+<tr><td>5. Führen der Rückstellungen und Eventualverbindlichkeiten im Detail</td><td>jährlich</td><td></td><td></td><td></td><td>K2</td><td></td><td>D/K</td></tr>
+<tr><td>6. Summarische Wertführung von Investitionsrechnung und Bilanz</td><td>quartalsweise</td><td></td><td></td><td></td><td>D/K</td><td></td><td>i</td></tr>
+<tr><td>7. Weiterbelastung Unterbringung</td><td>quartalsweise</td><td></td><td></td><td></td><td>D</td><td>M</td><td>i</td></tr>
+<tr><td>E. Berichterstattung</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1. Berichterstattung Stufe Gesamtportfolio inkl. Kennzahlen</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
+<tr><td>2. Nachweis der Wert- und Funktionserhaltung Art. 35*b* ETH-Gesetz vom 4. Okt. 1991[^annex1-lvlu1-2]</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
+<tr><td>3. Quartalsreporting Wertveränderung Investitionsrechnung/Bilanz inkl. Eventualverbindlichkeiten/ Rückstellungen</td><td>quartalsweise</td><td></td><td></td><td>i</td><td>K2</td><td></td><td>D/K/E</td></tr>
+<tr><td>4. Stand der Verpflichtungs- und der Investitionskredite (Rechnung)</td><td>halbjährlich</td><td>i</td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
+<tr><td>5. Jahresabschluss: Angaben für Staatsrechnung/Bilanz</td><td>jährlich</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>D/K/E</td></tr>
+<tr><td>6. Baustatistiken für Bundesamt für Statistik</td><td>jährlich</td><td></td><td></td><td></td><td>i</td><td></td><td>D</td></tr>
+</table>
+
+[^annex1-lvlu1-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^annex1-lvlu1-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+Anhang 2
+
+(Art. 11 Abs. 2)
+
+## BBL-Immobilienportfolio: Ansprechpartner, an die sich die BO je nach Geschäftsfall wenden können
+
+Abkürzungen:
+
+- GL = Geschäftsleitungsmitglied
+- PL = Projektleiterin oder Projektleiter
+- IL-BO = Immobilienlogistikerin oder Immobilienlogistiker auf Stufe BO
+- IL-SO = Immobilienlogistikerin oder Immobilienlogistiker an den Standorten der BO
+- OV = Objektverantwortliche oder Objektverantwortlicher
+
+<table>
+<tr><td>Geschäftsfall</td><td>BBL</td><td>BO</td></tr>
+<tr><td>Immobilienmanagement – strategische Planung – Immobilienbedürfnis</td><td>Portfoliomanager/-in Portfoliomanager/-in</td><td>GL (IL-BO) IL-BO</td></tr>
+<tr><td>Immobilienprojekte – Bauprojekte – Anmiete</td><td>PL Bauherr Immobilienmanager/-in</td><td>PL BO PL BO</td></tr>
+<tr><td>Kaufmännisches Gebäudemanagement – Leistungsverrechnung</td><td>Key Account Manager</td><td>IL-BO</td></tr>
+<tr><td>Immobilienbetrieb</td><td></td><td></td></tr>
+<tr><td>– *Hotline*</td><td>*Callcenter*</td><td>*alle* (Raumnutzer)</td></tr>
+<tr><td>– Kleinmassnahmen</td><td>OV</td><td>IL-BO</td></tr>
+<tr><td>– Unterhalt</td><td>OV</td><td>IL-BO oder IL-SO</td></tr>
+<tr><td>– Gebäudebetrieb und Reinigung</td><td>Dienstleistungszentrum</td><td>IL-BO oder IL-SO</td></tr>
+<tr><td>– Ersatzmobiliar</td><td>Vertrieb Logistik</td><td>IL-BO oder IL-SO</td></tr>
+</table>
+
+Anhang 3
+
+(Art. 16 Abs. 4)
+
+## Aufgaben der verschiedenen Funktionen im Immobilienmanagement der BO des BBL-Immobilienportfolios
+
+### 1. Aufgaben der oder des Verantwortlichen der Ansprechstelle Immobilien auf Stufe GS (oder, wo der BO kein GS vorgesetzt ist, der Stelle, die der BO vorgesetzt ist)
+
+- 1\.1. vertritt die Interessen des Departements gegenüber dem BBL;
+- 1\.2. koordiniert die Anträge der Ämter innerhalb des Departements (Raum-, Mobiliar- sowie bauliche Bedürfnisse der Ämter);
+- 1\.3. prüft und gibt die Empfehlung zu den Anträgen der Ämter ab, leitet sie an das BBL weiter und informiert die Ämter über die Empfehlung;
+- 1\.4. informiert die Ämter über die Entwicklungsstrategie und langfristige Planung des Departements sowie über alle für die BO relevanten Entscheide bezüglich Immobilien.
+
+### 2. Aufgaben der Immobilienlogistikerin oder des Immobilienlogistikers auf Stufe BO (IL-BO)
+
+- 2\.1. vertritt die BO gegenüber dem BBL;
+- 2\.2. bewirtschaftet die beim BBL gemieteten oder zur Nutzung zugeteilten Flächen (Arbeitsplätze);
+- 2\.3. ist die zentrale Stelle für alle Raum- und Infrastrukturbedürfnisse des Amtes;
+- 2\.4. koordiniert die BO-Anträge an das BBL (Raum-, Mobiliar- sowie bauliche Bedürfnisse des Amtes);
+- 2\.5. stellt via Ansprechstelle Immobilien auf Stufe GS (oder, wo der BO kein GS vorgesetzt ist, die Stelle, die der BO vorgesetzt ist) Anträge bezüglich Raum-, Mobiliar- sowie baulichen Bedürfnissen des Amtes an das BBL;
+- 2\.6. beantragt bauliche Klein- und Unterhaltsmassnahmen beim BBL direkt;
+- 2\.7. teilt Räume und Arbeitsplätze innerhalb der beim BBL gemieteten Fläche zu und stellt diese bereit;
+- 2\.8. erstellt Layouts (Mobiliar) und plant Massnahmen wie Umzüge oder Infrastruktur-Bestellungen (Ersatzmobiliar, Arbeitsplatz-Informatik und ‑Telefonie, Dienstleistungen BBL);
+- 2\.9. stellt die interne Information über den Immobilienbereich sicher.
+
+### 3. Aufgaben der Immobilienlogistikerin oder des Immobilienlogistikers an den Standorten der BO (IL-SO)
+
+Die Immobilienlogistikerin oder der Immobilienlogistiker an den Standorten der BO (IL-SO) ist fachlich der oder dem IL-BO unterstellt und erfüllt ihre oder seine Aufgaben in Zusammenarbeit und im Einvernehmen mit ihr oder ihm. Sie oder er:
+
+- 3\.1. ist die örtliche Ansprechstelle für alle Raum- und Infrastrukturbedürfnisse;
+- 3\.2. bewirtschaftet die beim BBL gemieteten oder zur Nutzung zugeteilten Flächen (Arbeitsplätze) am Standort;
+- 3\.3. stellt Anträge bezüglich Raum-, Mobiliar- sowie baulichen Bedürfnissen des Standortes an die oder den IL-BO;
+- 3\.4. beantragt bauliche Kleinmassnahmen bei der oder dem IL-BO;
+- 3\.5. beantragt Unterhaltsmassnahmen beim BBL;
+- 3\.6. teilt Räume und Arbeitsplätze innerhalb der beim BBL gemieteten Fläche zu und stellt diese bereit;
+- 3\.7. erstellt Layouts (Mobiliar) und plant Massnahmen wie Umzüge oder Infrastruktur-Bestellungen (Ersatzmobiliar, Arbeitsplatz-Informatik und -Telefonie, Dienstleistungen BBL);
+- 3\.8. stellt die interne Information über den Immobilienbereich am Standort sicher.
+
+### 4.
+
+Aufgaben der Vertreterin oder des Vertreters der BO in Bauprojekten (bei grösseren Vorhaben in der Funktion als Projektleiterin oder Projektleiter BO in der Projektorganisation):
+
+- 4\.1. vertritt die BO in Bauprojekten und nimmt ihre Interessen wahr;
+- 4\.2. ermittelt und koordiniert die Bau- und Einrichtungsbedürfnisse aus betrieblicher Sicht und begründet den Bedarf;
+- 4\.3. lässt die Arbeits-, Material- und Personalabläufe verständlich darstellen (Raumlayouts, Beziehungsschemas);
+- 4\.4. sammelt Grundlagen für Raumprogramme und betriebliche Pflichtenhefte und ist verantwortlich, dass vom Bundessicherheitsdienst die Risikobeurteilung erstellt wird;
+- 4\.5. veranlasst die Erarbeitung von Betriebskonzepten, soweit sie für ein Bauvorhaben nötig sind;
+- 4\.6. vertritt die Interessen der BO bei der Belegungs- und Terminplanung;
+- 4\.7. leitet bei anspruchsvolleren Bauprojekten den Betriebsausschuss;
+- 4\.8. ermittelt den Bedarf an Mobiliar und Einrichtungen;
+- 4\.9. hilft mit bei der Koordination und Organisation von Neumöblierungen, Arbeitsplatz-Einrichtungen und Umzügen;
+- 4\.10. organisiert intern die Übernahme und Inbetriebsetzung des Bauwerks;
+- 4\.11. veranlasst die Abfassung von Mängellisten z.H. des BBL;
+- 4\.12. stellt die interne Information über das Bauvorhaben sicher.

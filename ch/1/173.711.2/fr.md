@@ -1,0 +1,280 @@
+---
+sr: "173.711.2"
+title: "Ordonnance de l'Assemblée fédérale du 13 décembre 2002 concernant les rapports de travail et le traitement des juges du Tribunal administratif fédéral, des juges ordinaires du Tribunal pénal fédéral et des juges ordinaires du Tribunal fédéral des brevets (Ordonnance sur les juges)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/315"
+language: fr
+version: 2019-01-01
+adopted: 2002-12-13
+in_force: 2003-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/315/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-315-20190101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/315/20190101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance de l’Assemblée fédérale concernant les rapports de travail et le traitement des juges du Tribunal administratif fédéral, des juges ordinaires du Tribunal pénal fédéral et des juges ordinaires du Tribunal fédéral des brevets
+
+(Ordonnance sur les juges)[^t-1]
+
+du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2019)
+
+[^t-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’O de l’Ass. féd. du 13 déc. 2013 relative aux indemnités journalières et aux indemnités de déplacement des juges suppléants du TPF, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5379](https://fedlex.data.admin.ch/eli/oc/2013/861); [FF 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/583)[2633](https://fedlex.data.admin.ch/eli/fga/2013/586)).
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 46, al. 3, de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^ingress-1],[^ingress-2] vu l’art. 13, al. 3, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^ingress-3], vu l’art. 17 de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^ingress-4], vu le message du Conseil fédéral du 28 février 2001[^ingress-5], vu le rapport complémentaire de la Commission des affaires juridiques du Conseil des Etats du 23 mai 2002[^ingress-6],[^ingress-7]
+
+arrête:
+
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1461](https://fedlex.data.admin.ch/eli/oc/2012/193); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+[^ingress-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^ingress-4]: [RS 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
+[^ingress-5]: [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)
+[^ingress-6]: [FF 2002 5487](https://fedlex.data.admin.ch/eli/fga/2002/934)
+[^ingress-7]: Mise à jour selon le ch. I de l’O de l’Ass. féd. du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2010 1213](https://fedlex.data.admin.ch/eli/oc/2010/169); [FF 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/297)[1575](https://fedlex.data.admin.ch/eli/fga/2010/299)).
+
+## Section 1 Objet
+
+#### Art. 1
+
+[^1-1]
+
+La présente ordonnance régit les rapports de travail et le traitement des juges du Tribunal administratif fédéral, des juges ordinaires du Tribunal pénal fédéral et des juges ordinaires du Tribunal fédéral des brevets.
+
+[^1-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’O de l’Ass. féd. du 13 déc. 2013 relative aux indemnités journalières et aux indemnités de déplacement des juges suppléants du TPF, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5379](https://fedlex.data.admin.ch/eli/oc/2013/861); [FF 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/583)[2633](https://fedlex.data.admin.ch/eli/fga/2013/586)).
+
+## Section 2 Conclusion et résiliation des rapports de travail
+
+#### Art. 2
+
+**Conclusion des rapports de travail**
+
+<sup>1</sup> Les rapports de travail d’un juge se fondent sur son élection par l’Assemblée fédérale, élection qu’il doit avoir acceptée.
+
+<sup>2</sup> Les détails des rapports de travail (début, taux d’occupation, traitement initial, prévoyance professionnelle) sont en général fixés au préalable par la Commission judiciaire, sous réserve de l’élection par l’Assemblée fédérale.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7315](https://fedlex.data.admin.ch/eli/oc/2017/795); [FF 2017 3301](https://fedlex.data.admin.ch/eli/fga/2017/829)[3691](https://fedlex.data.admin.ch/eli/fga/2017/974)).
+
+#### Art. 3
+
+**Période de fonction**[^3-1]
+
+La période de fonction est régie par l’art. 48 de la loi du 19 mars 2010 sur l’organisation des autorités pénales, par l’art. 9 de la loi du 17 juin 2005 sur le Tribunal administratif fédéral et par l’art. 13 de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets.
+
+[^3-1]: Nouvelle teneur selon le ch. I 1 de l’O de l’Ass. féd. du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1187](https://fedlex.data.admin.ch/eli/oc/2018/180); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+
+#### Art. 4
+
+**Résiliation**
+
+<sup>1</sup> Le juge peut résilier ses rapports de travail pour la fin de chaque mois moyennant un délai de congé de six mois.
+
+<sup>2</sup> La Commission judiciaire peut, dans des cas particuliers, accorder au juge un délai de congé plus court lorsqu’aucun intérêt essentiel ne s’y oppose.
+
+## Section 3 Traitement
+
+#### Art. 5
+
+**Traitement**[^5-1]
+
+<sup>1</sup> Le traitement des juges s’élève au montant maximal de la classe de salaire 33 au sens de l’art. 36 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^5-2].
+
+<sup>2</sup>
+
+Le montant maximal vaut pour les personnes qui:
+
+- a. ont atteint l’âge de 45 ans ou l’atteignent pendant l’année civile en cours, et
+- b. ont exercé pendant au moins 48 mois la fonction de juge au sens de la présente ordonnance, de juge à titre principal auprès d’un tribunal cantonal supérieur ou une fonction dirigeante dans le domaine de la poursuite pénale.
+
+<sup>3</sup> Le montant maximal est réduit de 7,5 pour cent pour les personnes qui ne remplissent pas l’un des deux critères au sens de l’al. 2. Il est réduit de 15 pour cent pour les personnes qui ne remplissent pas les deux critères.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7315](https://fedlex.data.admin.ch/eli/oc/2017/795); [FF 2017 3301](https://fedlex.data.admin.ch/eli/fga/2017/829)[3691](https://fedlex.data.admin.ch/eli/fga/2017/974)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^5-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+#### Art. 6
+
+**Allocations présidentielles**[^6-1]
+
+<sup>1</sup> Le président du Tribunal pénal fédéral, le président du Tribunal administratif fédéral et le président du Tribunal fédéral des brevets reçoivent une allocation présidentielle non assurée de 30 000 francs par an. [^6-2]
+
+<sup>2</sup> Le vice-président du Tribunal pénal fédéral et le vice-président du Tribunal administratif fédéral, ainsi que le vice-président du Tribunal fédéral des brevets, lorsqu’il est juge ordinaire, reçoivent une allocation présidentielle non assurée de 20 000 francs par an. [^6-3]
+
+<sup>3</sup> Les présidents des cours du Tribunal pénal fédéral et les présidents des cours du Tribunal administratif fédéral reçoivent une allocation présidentielle non assurée de 10 000 francs par an.
+
+<sup>4</sup> Les présidents des chambres du Tribunal administratif fédéral et les vice-présidents des cours du Tribunal pénal fédéral reçoivent une allocation présidentielle non assurée de 5000 francs par année.[^6-4]
+
+<sup>5</sup> Le juge qui exerce plusieurs fonctions présidentielles ne reçoit que l’allocation la plus élevée.[^6-5]
+
+[^6-1]: Nouvelle teneur selon l’art. 2 de l’O du 17 juin 2005 sur les postes de juge, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2627](https://fedlex.data.admin.ch/eli/oc/2006/400); [FF 2004 4481](https://fedlex.data.admin.ch/eli/fga/2004/845)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2010 1213](https://fedlex.data.admin.ch/eli/oc/2010/169); [FF 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/297)[1575](https://fedlex.data.admin.ch/eli/fga/2010/299)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2010 1213](https://fedlex.data.admin.ch/eli/oc/2010/169); [FF 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/297)[1575](https://fedlex.data.admin.ch/eli/fga/2010/299)).
+[^6-4]: Introduit par le ch. I de l’O de l’Ass. féd. du 6 oct. 2006 ([RO 2006 4217](https://fedlex.data.admin.ch/eli/oc/2006/635); [FF 2006 2115](https://fedlex.data.admin.ch/eli/fga/2006/211)). Nouvelle teneur selon le ch. I 1 de l’O de l’Ass. féd. du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1187](https://fedlex.data.admin.ch/eli/oc/2018/180); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^6-5]: Introduit par le ch. I de l’O de l’Ass. féd. du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4217](https://fedlex.data.admin.ch/eli/oc/2006/635); [FF 2006 2115](https://fedlex.data.admin.ch/eli/fga/2006/211)).
+
+#### Art. 6a
+
+**Indemnité de fonction[^6a-2]**[^6a-1]
+
+<sup>1</sup> Les membres de la Commission administrative reçoivent une allocation non assurée de 10 000 francs par année.
+
+<sup>2</sup> Tout membre de la Commission administrative qui exerce également une fonction présidentielle ne reçoit que l’allocation la plus élevée.
+
+<sup>3</sup> <sup>3</sup> Les al. 1 et 2 s’appliquent par analogie aux juges ordinaires membres de la direction du Tribunal fédéral des brevets.[^6a-3]
+
+[^6a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4217](https://fedlex.data.admin.ch/eli/oc/2006/635); [FF 2006 2115](https://fedlex.data.admin.ch/eli/fga/2006/211)).
+[^6a-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2010 1213](https://fedlex.data.admin.ch/eli/oc/2010/169); [FF 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/297)[1575](https://fedlex.data.admin.ch/eli/fga/2010/299)).
+[^6a-3]: Introduit par le ch. I de l’O de l’Ass. féd. du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2010 1213](https://fedlex.data.admin.ch/eli/oc/2010/169); [FF 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/297)[1575](https://fedlex.data.admin.ch/eli/fga/2010/299)).
+
+#### Art. 7
+
+**Indemnité de résidence, compensation du renchérissement, allocations**[^7-1]
+
+L’indemnité de résidence, la compensation du renchérissement, l’allocation familiale, les allocations complétant l’allocation familiale, l’allocation pour assistance aux proches parents et le remboursement du coût de l’accueil extrafamilial d’enfants sont alloués selon les dispositions sur les rapports de travail du personnel de l’administration fédérale.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7315](https://fedlex.data.admin.ch/eli/oc/2017/795); [FF 2017 3301](https://fedlex.data.admin.ch/eli/fga/2017/829)[3691](https://fedlex.data.admin.ch/eli/fga/2017/974)).
+
+#### Art. 8
+
+**Traitement des juges à temps partiel**
+
+Le traitement, l’indemnité de résidence et les allocations des juges engagés à temps partiel sont adaptés à leur degré d’occupation.
+
+## Section 4 Prestations sociales
+
+#### Art. 9
+
+<sup>1</sup> Les prestations dues par l’employeur aux juges en cas d’incapacité de travailler pour cause de maladie, d’accident, d’invalidité, de service militaire, de protection civile ou de service civil et de maternité ainsi que les prestations de l’employeur à verser aux survivants en cas de décès d’un juge sont accordées selon les dispositions sur les rapports de travail du personnel de l’administration fédérale.
+
+<sup>2</sup> Les juges sont assurés auprès de la caisse de pensions PUBLICA (caisse de prévoyance de la Confédération) jusqu’à l’âge de 65 ans contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.[^9-1]
+
+<sup>3</sup> Sur demande d’un juge, la prévoyance vieillesse est maintenue au-delà de l’âge de 65 ans et jusqu’à l’âge légal de cessation d’activité. Dans ce cas, le tribunal compétent finance les cotisations d’épargne de l’employeur.[^9-2]
+
+[^9-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1461](https://fedlex.data.admin.ch/eli/oc/2012/193); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+[^9-2]: Introduit par le ch. I de l’O de lֹ’Ass. féd. du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1461](https://fedlex.data.admin.ch/eli/oc/2012/193); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+
+## Section 5 Temps de travail, vacances et congés
+
+#### Art. 10
+
+**Temps de travail**[^10-1]
+
+<sup>1</sup> L’horaire de travail fondé sur la confiance et les compensations correspondantes sont régis par les dispositions sur les rapports de travail du personnel de l’administration fédérale. Les exceptions à l’octroi d’une indemnité en espèces nécessitent l’approbation de la Commission administrative du tribunal ou de la direction du tribunal.
+
+<sup>2</sup> Le taux d’occupation des postes à temps partiel est déterminé en fonction d’un temps complet de 41,5 heures par semaine.[^10-2]
+
+<sup>3</sup> Les jours fériés et leur comptabilisation comme congés payés sont régis par les dispositions sur les rapports de travail du personnel de l’administration fédérale.[^10-3]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1461](https://fedlex.data.admin.ch/eli/oc/2012/193); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7315](https://fedlex.data.admin.ch/eli/oc/2017/795); [FF 2017 3301](https://fedlex.data.admin.ch/eli/fga/2017/829)[3691](https://fedlex.data.admin.ch/eli/fga/2017/974)).
+[^10-3]: Introduit par le ch. I de l’O de l’Ass. féd. du 15 déc. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7315](https://fedlex.data.admin.ch/eli/oc/2017/795); [FF 2017 3301](https://fedlex.data.admin.ch/eli/fga/2017/829)[3691](https://fedlex.data.admin.ch/eli/fga/2017/974)).
+
+#### Art. 11
+
+**Vacances**
+
+<sup>1</sup>
+
+Par année civile, les juges ont droit à des vacances de:
+
+- a. 5 semaines jusqu’à l’année civile au cours de laquelle ils atteignent l’âge de 49 ans;
+- b. 6 semaines à partir de l’année civile où ils atteignent l’âge de 50 ans;
+- c. 7 semaines à partir de l’année civile où ils atteignent l’âge de 60 ans.
+
+<sup>2</sup> En principe les vacances doivent être prises pendant l’année civile au cours de laquelle le droit aux vacances prend naissance. Si cela n’est pas possible, elles doivent être prises l’année suivante.
+
+#### Art. 12
+
+**Congés**
+
+<sup>1</sup> La Commission administrative du tribunal ou la direction du tribunal peut, sur demande, accorder un congé à un juge.[^12-1]
+
+<sup>2</sup> Dans son appréciation de la demande, elle tient compte des dispositions relatives au congé qui s’appliquent au personnel de l’administration fédérale.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1461](https://fedlex.data.admin.ch/eli/oc/2012/193); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+
+## Section 6 Frais
+
+#### Art. 13
+
+<sup>1</sup> Les juges sont indemnisés du surplus de dépenses qui résultent de leur activité professionnelle.
+
+<sup>2</sup>
+
+Les taux fixés par le Département fédéral des finances pour le personnel de la Confédération sont appliqués par analogie pour:
+
+- a. les repas, le logement et les frais de transport;
+- b. les voyages de service à l’étranger;
+- c. la participation à des conférences internationales;
+- d. le déménagement pour des raisons de service;
+- e. les frais de représentation.
+
+## Section 7 Obligations des juges
+
+#### Art. 14
+
+**Domicile**
+
+Les juges doivent être domiciliés en Suisse.
+
+#### Art. 15
+
+**Secret de fonction**
+
+<sup>1</sup> Les juges sont tenus de garder le secret de fonction sur tous les faits dont ils ont eu connaissance dans l’exercice de leur fonction et qui sont, de par leur nature, confidentiels.
+
+<sup>2</sup> La Commission administrative du tribunal ou la direction du tribunal fait office d’autorité supérieure compétente pour libérer du secret de fonction (art. 320, ch. 2, du code pénal[^15-1]).[^15-2]
+
+[^15-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1461](https://fedlex.data.admin.ch/eli/oc/2012/193); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+
+## Section 7*a* Indemnité en cas de dissolution des rapports de travail
+
+[^sec7a-1]
+
+[^sec7a-1]: Introduite par le ch. I 1 de l’O de l’Ass. féd. du 19 juin 2015 concernant l’indemnité versée en cas de dissolution des rapports de travail, en vigueur depuis le 1<sup>er</sup> juil. 2015, applicable pour la 1<sup>ère</sup> fois aux élections à partir de 2015 ([RO 2015 2057](https://fedlex.data.admin.ch/eli/oc/2015/384); [FF 2015 2047](https://fedlex.data.admin.ch/eli/fga/2015/421)[2069](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+
+#### Art. 15a
+
+<sup>1</sup> La Commission administrative ou la direction du tribunal peut octroyer au juge dont les rapports de travail sont dissous une indemnité correspondant à un an de salaire au plus si la situation le justifie. Elle tient notamment compte de l’âge, de la situation professionnelle et personnelle, de la durée d’exercice de la fonction et des circonstances de la dissolution des rapports de travail.
+
+<sup>2</sup> L’octroi d’une indemnité doit être approuvé par la Délégation des finances des Chambres fédérales.
+
+<sup>3</sup>
+
+L’octroi d’une indemnité est exclu lorsque le juge:
+
+- a. quitte ses fonctions parce qu’il a atteint l’âge légal de la retraite;
+- b. est révoqué ou n’est pas réélu pour avoir violé gravement ses devoirs de fonction; ou
+- c. de sa propre initiative, a résilié les rapports de travail ou ne se porte pas candidat à sa réélection.
+
+<sup>4</sup> L’indemnité est allouée sous forme de prestation en capital.
+
+<sup>5</sup>
+
+Le bénéficiaire doit restituer tout ou partie de l’indemnité:
+
+- a s’il renoue des rapports de travail dans un délai d’une année après la dissolution des rapports de travail; et
+- b. si la Commission administrative ou la direction du tribunal l’exige; celle-ci tient compte du montant de l’indemnité, du nombre de mois sans rapports de travail et du montant du nouveau salaire.
+
+## Section 8 Disposition finale
+
+#### Art. 16
+
+La présente ordonnance de l’Assemblée fédérale entre en vigueur en même temps que la loi fédérale du 4 octobre 2002 sur le Tribunal pénal fédéral le 1<sup>er</sup> août 2003.
+
+## Disposition transitoire concernant la modification du 6 octobre 2006
+
+[^u1-1]
+
+[^u1-1]: [RO 2006 4217](https://fedlex.data.admin.ch/eli/oc/2006/635); [FF 2006 2115](https://fedlex.data.admin.ch/eli/fga/2006/211)
+
+L’art. 5, al. 3, dans sa teneur du 6 octobre 2006 ne s’applique par analogie aux juges du Tribunal pénal fédéral qui ont été élus par l’Assemblée fédérale le 1<sup>er</sup> octobre 2003 qu’à compter du début de leur seconde période de fonction.
+
+## Disposition transitoire concernant la modification du 15 décembre 2017
+
+[^u2-1]
+
+[^u2-1]: [RO 2017 7315](https://fedlex.data.admin.ch/eli/oc/2017/795); [FF 2017 3301](https://fedlex.data.admin.ch/eli/fga/2017/829)[3691](https://fedlex.data.admin.ch/eli/fga/2017/974)
+
+Les juges dont le traitement, au moment de l’entrée en vigueur de la présente modification, est supérieur au montant prévu à l’art. 5, continuent à percevoir leur traitement de manière inchangée. La compensation du renchérissement ne leur est pas allouée tant que le traitement dépasse ce montant.

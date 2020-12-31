@@ -1,0 +1,166 @@
+---
+sr: "520.20"
+title: "Ordinanza dell' 11 marzo 2016 sulla requisizione di impianti di protezione e letti per affrontare situazioni d'emergenza nel settore dell'asilo (OReq)"
+short: OReq
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/165"
+language: it
+version: 2019-04-01
+adopted: 2016-03-11
+in_force: 2016-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/165/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2016-165-20190401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/165/20190401/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla requisizione di impianti di protezione e letti per affrontare situazioni d’emergenza nel settore dell’asilo
+
+(OReq)
+
+dell’11 marzo 2016 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 75 capoverso 1 della legge federale 4 ottobre 2002[^ingress-1] sulla protezione della popolazione e sulla protezione civile del (LPPC),
+
+ordina:
+
+[^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina la requisizione di impianti di protezione secondo l’articolo 50 LPPC e di letti in rifugi pubblici secondo l’articolo 46 capoverso 3 LPPC da parte di Confederazione e dei Cantoni per affrontare situazioni d’emergenza nel settore dell’asilo.
+
+#### Art. 2
+
+**Requisizione**
+
+<sup>1</sup>
+
+Sono autorizzati a requisire impianti di protezione e letti dei Cantoni e dei Comuni al fine di disporne gli organi seguenti:
+
+- a. l’Ufficio federale della protezione della popolazione (UFPP) su richiesta della Segreteria di Stato della migrazione (SEM);
+- b. gli uffici cantonali responsabili della protezione civile.
+
+<sup>2</sup> È possibile requisire tutti i tipi di impianti; l’idoneità degli ospedali protetti deve essere verificata nel caso concreto.
+
+#### Art. 3
+
+**Presupposti**
+
+<sup>1</sup>
+
+Gli impianti di protezione e i letti possono essere requisiti se:
+
+- a. sussiste una situazione d’emergenza nel settore dell’asilo;
+- b. non sono disponibili o non possono essere resi disponibili in tempo utile altri alloggi a condizioni accettabili;
+- c. dei militi di protezione civile sono chiamati in servizio per far fronte a una situazione d’emergenza nel settore dell’asilo in virtù dell’articolo 27 capoverso 1 lettera a o al capoverso 2 lettera a LPPC;
+- d. gli impianti di protezione e i letti non sono forzatamente indispensabili alla protezione civile.
+
+<sup>2</sup> Non possono essere requisiti impianti di protezione e letti necessari all’esercito per l’adempimento dei suoi compiti.
+
+#### Art. 4
+
+**Effetti giuridici**
+
+<sup>1</sup> La requisizione è una restrizione di diritto pubblico della proprietà.
+
+<sup>2</sup> Mediante la requisizione di un impianto di protezione o di letti, il diritto di disporre di questi beni passa alla Confederazione o al Cantone interessato.
+
+<sup>3</sup> I diritti e gli obblighi di diritto pubblico, nonché i diritti e gli obblighi derivanti da rapporti giuridici di diritto privato sono sospesi durante la requisizione.
+
+#### Art. 5
+
+**Predisposizione della requisizione**
+
+<sup>1</sup>
+
+La requisizione è predisposta:
+
+- a. dall’UFPP in collaborazione con la SEM e gli uffici cantonali responsabili della protezione civile;
+- b. dagli uffici cantonali responsabili della protezione civile.
+
+<sup>2</sup>
+
+La predisposizione comprende in particolare:
+
+- a. l’accertamento dell’effettivo di impianti di protezione e di letti requisibili; e
+- b. la determinazione degli impianti di protezione e dei letti da requisire.
+
+#### Art. 6
+
+**Consegna e restituzione degli impianti di protezione e dei letti**
+
+<sup>1</sup> L’UFPP o l’ufficio cantonale responsabile della protezione civile stabilisce in una decisione gli impianti di protezione e i letti da requisire.
+
+<sup>2</sup> I proprietari o i possessori degli impianti di protezione e dei letti sono tenuti a consegnare senza indugio gli impianti di protezione e i letti requisiti.
+
+<sup>3</sup> Nel momento in cui gli impianti di protezione o i letti requisiti non sono più necessari, l’UFPP o l’ufficio responsabile della protezione civile del Cantone interessato dispone senza indugio la loro restituzione al proprietario o al possessore.
+
+<sup>4</sup> L’UFPP o l’ufficio responsabile della protezione civile del Cantone interessato registra la consegna e la restituzione in forma scritta. Per gli impianti di protezione è documentato in particolare lo stato e l’equipaggiamento dell’impianto.
+
+#### Art. 7
+
+**Adattamento e completamento dell’infrastruttura**
+
+<sup>1</sup> Se, a causa di un equipaggiamento lacunoso o di una manutenzione carente, occorre adattare l’infrastruttura dell’impianto di protezione, i rispettivi costi sono assunti dal Cantone o dal Comune competente.
+
+<sup>2</sup> Se l’infrastruttura deve essere completata affinché l’impianto di protezione possa essere utilizzato come alloggio, al termine della requisizione la Confederazione o il Cantone interessato definisce, d’intesa con il proprietario, se la Confederazione o il Cantone interessato riceve un indennizzo adeguato per le installazioni supplementari o se queste ultime vengono smantellate a spese della Confederazione o del Cantone interessato.
+
+#### Art. 8
+
+**Esercizio e manutenzione**
+
+<sup>1</sup> I costi per l’esercizio e la manutenzione degli impianti di protezione e per la manutenzione dei letti durante la requisizione sono assunti dalla Confederazione o dal Cantone interessato.
+
+<sup>2</sup> L’UFPP o l’ufficio responsabile della protezione civile del Cantone interessato provvede affinché l’esercizio e la manutenzione dell’infrastruttura degli impianti di protezione siano svolti da personale qualificato.
+
+<sup>3</sup> In materia di prescrizioni di sicurezza valgono le disposizioni previste per le situazioni d’emergenza.
+
+#### Art. 9
+
+**Obblighi dei proprietari e dei possessori**
+
+I proprietari e i possessori di impianti di protezione e letti sono tenuti a rispettare le disposizioni dell’UFPP, degli uffici cantonali responsabili della protezione civile e della SEM; essi devono in particolare:
+
+- a. accettare i lavori di predisposizione necessari e, all’occorrenza, collaborarvi;
+- b. allontanare immediatamente gli oggetti mobili che non fanno parte dell’equipaggiamento tecnico dell’impianto di protezione;
+- c. comunicare all’UFPP o all’ufficio cantonale responsabile della protezione civile le modifiche di natura materiale o giuridica concernenti l’uso degli impianti di protezione e dei letti;
+- d. presenziare alla consegna e alla restituzione, nonché qualora l’UFPP o l’ufficio cantonale responsabile della protezione civile ne faccia richiesta;
+- e. annunciare i danni e i difetti al momento della restituzione.
+
+#### Art. 10
+
+**Ricorso**
+
+I ricorsi contro decisioni dell’UFPP emanate in relazione alla requisizione non hanno effetto sospensivo.
+
+#### Art. 11
+
+**Indennizzo e responsabilità**
+
+<sup>1</sup> I proprietari sono adeguatamente indennizzati dalla Confederazione o dal rispettivo Cantone per l’uso degli impianti di protezione e dei letti.
+
+<sup>2</sup> Essi hanno diritto all’indennizzo delle spese sostenute per la consegna e la ripresa degli impianti di protezione e dei letti.
+
+<sup>3</sup> La Confederazione o il Cantone interessato è responsabile di tutti i danni arrecati all’impianto di protezione o ai letti durante la requisizione, sempreché non siano da ricondurre alla normale usura o non siano coperti da una protezione assicurativa.
+
+#### Art. 12
+
+**Pretese di risarcimento e prescrizione**
+
+<sup>1</sup> In caso di danneggiamento o di perdita totale dell’impianto di protezione o dei letti, l’UFPP o l’ufficio cantonale responsabile della protezione civile decide in merito alle pretese di risarcimento.
+
+<sup>2</sup> Per quanto concerne la prescrizione di pretese di risarcimento secondo il capoverso 1 si applicano le disposizioni di cui all’articolo 65 capoversi 1 e 4 LPPC.
+
+#### Art. 13
+
+**Entrata in vigore e durata di validità**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° aprile 2016 con effetto sino al 31 marzo 2019.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2023.[^13-1]
+
+[^13-1]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 887](https://fedlex.data.admin.ch/eli/oc/2019/154)).

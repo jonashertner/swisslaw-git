@@ -1,0 +1,281 @@
+---
+sr: "641.411.1"
+title: "Ordonnance du 15 juin 2007 sur l'imposition de la bière (OIB)"
+short: OIB
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/386"
+language: fr
+version: 2013-01-01
+adopted: 2007-06-15
+in_force: 2007-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-386-20130101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur l’imposition de la bière
+
+(OIB)
+
+du 15 juin 2007 (Etat le 1<sup>er</sup> janvier 2013)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 43, al. 1, de la loi fédérale du 6 octobre 2006 sur l’imposition de la bière (LIB)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: RS **641.41****1**
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Unité de fabrication**
+
+### (art. 4, let. a, LIB)
+
+<sup>1</sup> Est réputée unité de fabrication la totalité des locaux formant un ensemble architectural dans lesquels se trouvent les installations servant à la fabrication, au traitement, au conditionnement et à l’entreposage de la bière.
+
+<sup>2</sup> Sont assimilées aux unités de fabrication les entreprises dans lesquelles la bière est ouvrée ou transformée de telle façon que sa teneur en moût d’origine ou sa quantité est modifiée.
+
+#### Art. 2
+
+**Débits situés dans l’enceinte d’une unité de fabrication**
+
+### (art. 4, let. a, LIB)
+
+<sup>1</sup> La bière ne peut être livrée à des débits situés dans l’enceinte d’une unité de fabrication que dans des récipients. La livraison directe, notamment par une conduite ou à partir d’une cuve de stockage, est interdite.
+
+<sup>2</sup> Sur demande du fabricant, l’Administration fédérale des douanes (administration des douanes) peut autoriser des exceptions si la quantité de bière imposable peut être déterminée avec certitude.
+
+## Section 2 Tarif de l’impôt
+
+#### Art. 3
+
+**Teneur en moût d’origine des boissons alcooliques mélangées contenant de la bière**
+
+### (art. 10, al. 1, LIB)
+
+Dans les mélanges de bière visés à l’art. 3, let. b, LIB, la part de sucre ajoutée à la bière ou la teneur en sucre de la boisson mélangée avec la bière ne sont pas prises en considération pour la détermination de la teneur en moût d’origine.
+
+#### Art. 4
+
+**Calcul de la quantité de bière imposable**
+
+### (art. 10, al. 1, LIB)
+
+<sup>1</sup> La quantité de bière imposable est calculée d’après le volume des bouteilles récipients-mesures selon l’ordonnance du 5 septembre 2012 sur les déclarations de quantité[^4-1] ou selon la capacité nominale déclarée sur le préemballage. S’il n’est pas possible de procéder ainsi, elle est calculée d’après la capacité de l’emballage.[^4-2]
+
+<sup>2</sup> Sur demande, l’administration des douanes peut autoriser que la quantité de bière imposable soit déterminée d’une autre manière si la perception de l’impôt est garantie.
+
+[^4-1]: [RS 941.281](https://fedlex.data.admin.ch/eli/cc/1998/1614_1614_1614)
+[^4-2]: Nouvelle teneur selon l’art. 39 ch. 1 de l’O du 5 sept. 2012 sur les déclarations de quantité, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
+
+#### Art. 5
+
+**Perte et destruction de bière**
+
+### (art. 10, al. 1, LIB)
+
+<sup>1</sup> S’il se produit une perte de bière non finie ou finie dans l’unité de fabrication, le fabricant doit en informer immédiatement l’administration des douanes.
+
+<sup>2</sup> Si de la bière non finie ou finie doit être détruite dans l’unité de fabrication, le fabricant doit en informer préalablement l’administration des douanes.
+
+#### Art. 6
+
+**Exonération**
+
+### (art. 13, al. 1, LIB)
+
+La bière est réputée non destinée à la consommation lorsqu’elle est utilisée:
+
+- a. à titre d’échantillon dans des analyses techniques;
+- b. à des fins de surveillance fiscale ou de contrôle des denrées alimentaires.
+
+#### Art. 7
+
+**Demande d’exonération en vue d’une utilisation particulière**
+
+### (art. 13, al. 1 et 2, let. b, LIB)
+
+Pour bénéficier de l’exonération en vertu de l’art. 13, al. 1 et 2, let. b, LIB, la personne assujettie à l’impôt doit présenter sa demande à l’administration des douanes avant la naissance de la créance fiscale.
+
+#### Art. 8
+
+**Fabrication pour la consommation personnelle exonérée de l’impôt**
+
+### (art. 13, al. 2, let. a, LIB)
+
+<sup>1</sup> Est réputée bière pour la consommation personnelle la bière fabriquée par un particulier et consommée gratuitement par ce dernier, par les membres de sa famille ou par ses hôtes.
+
+<sup>2</sup> Est assimilée à la fabrication par un particulier la fabrication, par les membres d’une société et avec des installations appartenant à cette dernière, de bière utilisée exclusivement et gratuitement pour leur consommation personnelle.
+
+<sup>3</sup> La quantité de bière utilisée pour la consommation personnelle et exonérée de l’impôt est de 400 litres au maximum par unité de fabrication et par année civile; elle est de 800 litres par année civile pour les unités de fabrication fonctionnant sur la base d’une société.
+
+#### Art. 9
+
+**Réduction de l’impôt pour la bière fabriquée sur le territoire douanier**
+
+### (art. 14, al. 1, 4 et 5, LIB)
+
+<sup>1</sup> Si un fabricant produit de la bière pour la première fois, l’administration des douanes fixe provisoirement l’impôt sur la production annuelle présumée.
+
+<sup>2</sup> Si la fixation provisoire de l’impôt se révèle inexacte au vu de la production annuelle effective, l’administration des douanes fixe définitivement l’impôt l’année suivante.
+
+<sup>3</sup> Pour les mélanges de bière visés à l’art. 3, let. b, LIB, la quantité de bière déterminante est calculée d’après les pourcentages mentionnés dans la recette au moment de la mise à la consommation de la bière.
+
+#### Art. 10
+
+**Réduction de l’impôt pour la bière importée**
+
+### (art. 14, al. 8, LIB)
+
+<sup>1</sup> Lors de l’importation, l’impôt est perçu conformément à l’art. 11, al. 1, LIB. Le taux réduit visé à l’art. 14, al. 8, LIB est appliqué en procédure de remboursement.
+
+<sup>2</sup> Le débiteur de la dette douanière doit demander l’application du taux réduit à la Direction générale des douanes par écrit. La demande se rapporte à la quantité de bière importée au cours de l’année civile précédente. Elle doit être présentée dans un délai de 90 jours à compter de la fin de l’année civile.
+
+<sup>3</sup> La demande de réduction de l’impôt doit être accompagnée d’une attestation officielle de l’autorité de taxation étrangère établissant la quantité de bière fabriquée par l’unité de fabrication indépendante étrangère au cours de l’année civile précédente. L’attestation doit être établie dans une langue officielle ou en anglais.
+
+<sup>4</sup> Le montant à rembourser est calculé sur la base de la différence entre le taux normal et le taux réduit.
+
+#### Art. 11
+
+**Indépendance juridique et économique de l’unité de fabrication**
+
+### (art. 14, al. 1 et 5, LIB)
+
+<sup>1</sup>
+
+Une unité de fabrication est réputée juridiquement indépendante:
+
+- a. si aucune autre unité de fabrication ne détient plus de 49,9 % de ses parts; ou
+- b. si elle constitue sur les plans juridique et organisationnel une filiale indépendante d’une société holding.
+
+<sup>2</sup> Une unité de fabrication est réputée économiquement indépendante si elle peut négocier de façon autonome et exercer toutes les fonctions déterminantes en matière d’exploitation de façon autonome.
+
+<sup>3</sup> Les unités de fabrication interdépendantes dont la production annuelle cumulée est inférieure à 55 000 hectolitres sont considérées comme une seule unité de fabrication pour l’application du taux réduit.
+
+<sup>4</sup> Si l’indépendance ou la dépendance juridique et économique d’une unité de fabrication est modifiée pendant le cours d’une année civile, cette modification ne prend effet sur le plan fiscal qu’au début de l’année civile suivante.
+
+#### Art. 12
+
+**Bière fabriquée sous licence**
+
+### (art. 14, al. 4 et 5, LIB)
+
+La bière est réputée fabriquée sous licence lorsqu’une unité de fabrication fabrique de la bière d’après la recette d’une autre unité de fabrication (donneur de licence) et commercialise celle-ci sous la marque du donneur de licence. La bière fabriquée sous licence peut également être commercialisée par le donneur de licence lui-même.
+
+## Section 3 Perception et remboursement de l’impôt
+
+#### Art. 13
+
+**Déclaration fiscale**
+
+### (art. 17 LIB)
+
+<sup>1</sup> La déclaration fiscale doit être présentée à l’administration des douanes sur formulaire officiel.
+
+<sup>2</sup> Moyennant autorisation de l’administration des douanes, l’utilisation du formulaire officiel n’est pas nécessaire si les indications fournies correspondent au contenu de ce dernier.
+
+<sup>3</sup> L’administration des douanes peut autoriser la déclaration fiscale par voie électronique à la même condition.
+
+#### Art. 14
+
+**Non-perception de l’impôt**
+
+### (art. 18 LIB)
+
+L’administration des douanes peut ne pas percevoir l’impôt si les frais de perception sont manifestement supérieurs au montant de l’impôt.
+
+#### Art. 15
+
+**Remboursement de l’impôt**
+
+### (art. 20 LIB)
+
+Le remboursement de l’impôt grevant la bière exportée ou retirée de la vente doit être revendiqué dans la déclaration fiscale. Si le montant du remboursement est supérieur à la dette fiscale, la différence est créditée en vue d’une imputation ultérieure ou versée sur demande.
+
+#### Art. 16
+
+**Bière retournée**
+
+### (art. 20 LIB)
+
+Si un fabricant retire de la bière imposée de la vente et la reprend dans l’unité de fabrication (bière retournée), l’impôt n’est remboursé que si la bière n’a été ni ouvrée ni transformée en dehors de l’unité de fabrication.
+
+#### Art. 17
+
+**Montant des sûretés**
+
+### (art. 27 LIB)
+
+L’administration des douanes fixe le montant des sûretés; à cet effet, elle tient compte de la quantité présumée de bière mise à la consommation par l’unité de fabrication.
+
+#### Art. 18
+
+**Obligations du fabricant pour faciliter la surveillance fiscale**
+
+### (art. 28 LIB)
+
+<sup>1</sup> Le fabricant doit stocker la bière conditionnée de telle façon que les contrôles de l’administration des douanes soient possibles sans restrictions.
+
+<sup>2</sup> Il doit tenir des relevés relatifs aux mouvements de matières premières à brasser et à leur consommation, à la fabrication de la bière, à l’entreposage, au conditionnement de la bière et à la remise de la bière non finie et finie. L’administration des douanes peut prescrire la forme de ces relevés.
+
+<sup>3</sup> Le fabricant doit déterminer les stocks de matières premières à brasser et de bière non finie et finie disponibles dans l’unité de fabrication à la fin de l’année brassicole ou de l’année civile et les annoncer sur formulaire officiel à l’administration des douanes dans le mois qui suit.
+
+#### Art. 19
+
+**Prélèvement d’échantillons par l’administration des douanes**
+
+### (art. 28, al. 4, LIB)
+
+Dans le cadre de la surveillance fiscale, l’administration des douanes peut prélever gratuitement, en vue d’analyse, des échantillons de boissons qui sont passibles de l’impôt sur la bière ou pourraient l’être, ainsi que de matières utilisées pour la fabrication de ces marchandises.
+
+## Section 4 Statistiques, émoluments et intérêt moratoire
+
+#### Art. 20
+
+**Statistiques**
+
+<sup>1</sup> L’administration des douanes peut utiliser les données relatives aux quantités de bière imposées à des fins statistiques. Elle respecte les exigences de la protection des données.
+
+<sup>2</sup> Elle peut publier les statistiques.
+
+#### Art. 21
+
+**Emoluments**
+
+La perception d’émoluments est régie par l’annexe de l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^21-1].
+
+[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+
+#### Art. 22
+
+**Exceptions à la perception de l’intérêt moratoire**
+
+### (art. 25, al. 4, et 31 LIB)
+
+<sup>1</sup> Le Département fédéral des finances fixe le montant jusqu’à concurrence duquel aucun intérêt moratoire n’est perçu.
+
+<sup>2</sup> Sur demande, l’administration des douanes peut ne pas percevoir l’intérêt moratoire dans les cas où le paiement constituerait une charge économique ou sociale considérable pour le fabricant.
+
+## Section 5 Dispositions finales
+
+#### Art. 23
+
+**Abrogation du droit en vigueur**
+
+Les ordonnances mentionnées ci-après sont abrogées:
+
+- 1\. règlement d’exécution du 27 novembre 1934 de l’arrêté du Conseil fédéral du 4 août 1934 concernant un impôt fédéral sur les boissons[^23-1];
+- 2\. ordonnance du 25 novembre 1998 fixant le taux de l’impôt sur la bière[^23-2].
+
+[^23-1]: [RS **6** 285; [RO 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 27]
+[^23-2]: [[RO 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26), [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
+
+#### Art. 24
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2007.

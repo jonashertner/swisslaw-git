@@ -1,0 +1,210 @@
+---
+sr: "519.2"
+title: "Ordonnance du 22 novembre 2017 sur la mobilisation de l'armée pour des services d'appui et des services actifs (OMob)"
+short: OMob
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/815"
+language: fr
+version: 2018-01-01
+adopted: 2017-11-22
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-815-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la mobilisation de l’armée pour des services d’appui et des services actifs
+
+(OMob)
+
+du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+
+Le Conseil fédéral suisse,
+
+vu les art. 79, al. 1, et 150, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle la mobilisation de militaires pour:
+
+- a. un service d’appui aux autorités civiles au sens de l’art. 67 LAAM, à l’exception du service d’appui en cas de catastrophe en Suisse visé à l’art. 70, al. 1, let. b, LAAM;
+- b. un service d’appui en vue de renforcer l’état de préparation de l’armée, visé à l’art. 68 LAAM;
+- c. un service actif ordonné par le Conseil fédéral, conformément à l’art. 77, al. 3, LAAM.
+
+#### Art. 2
+
+**Genre, moyens et moment de la mise sur pied**
+
+<sup>1</sup> La mise sur pied peut s’effectuer sous la forme d’une convocation personnelle ou publique transmise par des moyens appropriés.
+
+<sup>2</sup> Elle doit être décidée et transmise le plus tôt possible au militaire concerné.
+
+<sup>3</sup> Le commandement des Opérations décide du genre de la mise sur pied et des moyens nécessaires à sa transmission. Le commandement de l’Instruction aide à l’application de cette décision.
+
+#### Art. 3
+
+**Diffusion de la décision de mise sur pied**
+
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication ainsi que les cantons et les communes contribuent à la diffusion de la décision de mise sur pied avec tous les moyens dont ils disposent.
+
+#### Art. 4
+
+**Mesures préventives**
+
+<sup>1</sup> Le Groupement Défense prend des mesures préventives en vue d’une mobilisation.
+
+<sup>2</sup> Il vérifie périodiquement les mesures visées à l’al. 1.
+
+#### Art. 5
+
+**Convocation des Suisses de l’étranger pour le service de défense nationale**
+
+<sup>1</sup> Les Suisses de l’étranger sont convoqués pour le service de défense nationale selon les besoins de l’armée.
+
+<sup>2</sup> Le commandement des Opérations fixe leur lieu d’entrée au service, leur équipement et leur engagement.
+
+<sup>3</sup> Ne sont pas convoqués les Suisses de l’étranger s’ils ont la nationalité de l’Etat où ils résident et si cet Etat empêche l’entrée au service. Les accords interétatiques sont réservés.
+
+#### Art. 6
+
+**Obligations et données relatives à l’entrée au service**
+
+<sup>1</sup> Tout militaire est tenu d’entrer au service conformément à la convocation. Sont réservés les dispenses et congés accordés par l’organe qui convoque.
+
+<sup>2</sup>
+
+Pour les militaires des formations soumises à des obligations de disponibilité permanente, le livret de service indique:
+
+- a. le numéro de la formation dans le cadre d’une mobilisation;
+- b. le lieu d’entrée en service;
+- c. le comportement à adopter lors de l’entrée au service.
+
+#### Art. 7
+
+**Dispense ou mise en congé du service d’appui ou du service actif**
+
+<sup>1</sup> Il n’existe aucun droit à une dispense ou à une mise en congé du service d’appui ou du service actif au sens de l’art. 145 LAAM.
+
+<sup>2</sup>
+
+Le militaire peut, sur demande, être dispensé du service d’appui ou du service actif ou être mis en congé:
+
+- a. s’il doit remplir une tâche importante dans les domaines civils du Réseau national de sécurité (RNS), pour laquelle aucune autre personne qualifiée n’est disponible;
+- b. si les besoins de l’armée le permettent.
+
+<sup>3</sup>
+
+Une dispense n’est accordée que:
+
+- a. si on peut s’attendre à ce qu’une tâche importante doive être accomplie durant tout le service, et
+- b. si une mise en congé pendant certaines parties du service ne suffit pas ou est inopportune.
+
+<sup>4</sup> Une mise en congé n’est accordée que lorsque la marche du service le permet. Au reste, les dispositions du règlement de service de l’armée suisse du 22 juin 1994[^7-1] relatives au congé personnel s’appliquent.
+
+<sup>5</sup> L’octroi d’une dispense ou d’une mise en congé générale à certains groupes de personnes devant accomplir des tâches importantes dans les domaines civils du RNS pour mettre fin à des situations d’urgence ou de pénurie est possible.
+
+[^7-1]: [RS 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
+
+#### Art. 8
+
+**Tâches importantes**
+
+Sont des tâches importantes dans les domaines civils du RNS les activités:
+
+- a. justifiant une exemption du service en vertu de l’art. 18 LAAM;
+- b. des gouvernements des cantons et des communes;
+- c. des organes de conduite civils du RNS, notamment celles des commandants de la protection civile professionnels ou engagés à titre accessoire;
+- d. des administrations et des entreprises qui fournissent des biens de première nécessité à la population civile, à l’armée et à la protection civile;
+- e. des organes judiciaires.
+
+#### Art. 9
+
+**Demande de dispense ou de mise en congé**
+
+<sup>1</sup> L’organe responsable de l’accomplissement des tâches importantes dans les domaines civils du RNS et la personne concernée envoient une demande commune de dispense ou de mise en congé du service d’appui ou du service actif au commandement de l’Instruction.
+
+<sup>2</sup> Le commandement de l’Instruction examine la demande et la transmet pour décision au commandement des Opérations.
+
+<sup>3</sup> La demande de dispense doit être envoyée le plus tôt possible, mais au plus tard sept jours après la convocation au service d’appui ou au service actif. La demande de mise en congé doit être envoyée dès que son motif est connu.
+
+<sup>4</sup> La convocation reste valable tant que la décision relative à la demande de dispense ou de mise en congé n’est pas exécutoire.
+
+#### Art. 10
+
+**Requête en reconsidération de la décision relative à la dispense ou à la mise en congé**
+
+<sup>1</sup> En cas de rejet d’une demande, les requérants dispose d’un délai de sept jours pour déposer une requête en reconsidération.
+
+<sup>2</sup> La décision sur la requête en reconsidération est définitive.
+
+<sup>3</sup> Le commandement des Opérations peut reconsidérer ses décisions si les conditions d’une dispense ou d’une mise en congé ont changé.
+
+#### Art. 11
+
+**Annulation d’une décision de dispense**
+
+Le commandement des Opérations peut annuler la dispense du service d’appui ou du service actif lorsque des circonstances particulières survenant lors de la mise sur pied, notamment le faible nombre de personnes convoquées, justifient cette mesure.
+
+#### Art. 12
+
+**Mobilisation pour le service actif: obligation générale d’exécution et de tolérance des cantons, des communes et des particuliers**
+
+<sup>1</sup> Les cantons et les communes ainsi que les personnes physiques et morales exécutent les tâches qui leur sont confiées en rapport avec la préparation et la concrétisation de la mobilisation pour le service actif, et acceptent leur exécution.
+
+<sup>2</sup>
+
+Ces tâches comprennent notamment:
+
+- a. la diffusion de la mise sur pied;
+- b. l’appui lors d’une réquisition;
+- c. les contrôles des préparatifs en vue d’une mise sur pied.
+
+#### Art. 13
+
+**Mobilisation pour le service actif: obligations spécifiques des cantons**
+
+<sup>1</sup> En cas de mobilisation pour le service actif, les cantons mettent à disposition des militaires convoqués un service d’information dans les six heures qui suivent la décision de la mise sur pied.
+
+<sup>2</sup> Le service d’information renseigne sur l’heure et le lieu d’entrée au service ainsi que sur les moyens de transport disponibles.
+
+#### Art. 14
+
+**Mobilisation pour le service actif: obligations spécifiques des communes**
+
+<sup>1</sup> En cas de mobilisation pour le service actif, les communes placardent au besoin les affiches relatives à la mise sur pied.
+
+<sup>2</sup> En outre, les communes disposant d’un lieu d’entrée au service ou d’un centre logistique de l’armée garantissent leur libre accès en cas de mobilisation pour le service actif. Elles détournent la circulation civile au besoin. Elles assurent le service d’hiver sur les voies d’accès.
+
+<sup>3</sup> En cas de mobilisation pour le service actif, les communes fournissent à l’armée, sur réquisition, les locaux et emplacements nécessaires, appropriés et disponibles avec les installations et appareils indispensables pour abriter la troupe, les animaux de l’armée, les véhicules et le matériel d’accompagnement.
+
+<sup>4</sup> Les obligations visées à l’al. 3 s’appliquent également en cas de mobilisation pour le service d’appui.
+
+#### Art. 15
+
+**Obligations des entreprises de transport titulaires d’une concession**
+
+<sup>1</sup> En cas de mobilisation pour le service actif, les entreprises de transport titulaires d’une concession ont l’obligation de transporter tout militaire en uniforme jusqu’au lieu de son entrée au service, sur présentation d’une convocation personnelle ou du livret de service.
+
+<sup>2</sup> Les frais de transport sont pris en charge par la Confédération.
+
+<sup>3</sup> Pour assurer un contact permanent avec l’armée, les Chemins de fer fédéraux doivent définir un organe de liaison pour eux-mêmes et pour les contacts avec les autres entreprises de transport titulaires d’une concession, et l’annoncer à l’armée.
+
+#### Art. 16
+
+**Modification d’un autre acte**
+
+…[^16-1]
+
+[^16-1]: La mod. peut être consultée au [RO 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815).
+
+#### Art. 17
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.

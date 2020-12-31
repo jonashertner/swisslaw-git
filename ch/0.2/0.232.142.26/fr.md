@@ -1,0 +1,35 @@
+---
+sr: "0.232.142.26"
+title: "Protocole du 29 novembre 2000 sur les effectifs de l'Office européen des brevets à La Haye (Protocole sur les effectifs)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/853"
+language: fr
+version: 2007-12-13
+adopted: 2000-11-29
+in_force: 2007-12-13
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/853/20071213/fr/xml/fedlex-data-admin-ch-eli-cc-2007-853-20071213-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/853/20071213/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Protocole sur les effectifs de l’Office européen des brevets à La Haye
+
+RO **2007** 6617; FF **2005** 3569
+
+Texte original
+
+(Protocole sur les effectifs)
+
+Conclu à Munich le 29 novembre 2000
+
+Approuvé par l’Assemblée fédérale le 16 décembre 2005[^t-1]
+
+Instrument de ratification déposé par la Suisse le 12 juin 2006
+
+Entré en vigueur pour la Suisse le 13 décembre 2007
+
+(Etat le 13 décembre 2007)
+
+[^t-1]: Art. 1 al. 1 de l'AF du 16 déc. 2005 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848))
+
+L’Organisation européenne des brevets garantit que la proportion des emplois de l’Office européen des brevets assignée au département de La Haye, telle que définie dans l’organigramme des emplois et le tableau des effectifs pour l’an 2000, demeure pour l’essentiel inchangée. Toute modification du nombre des emplois assignés au département de La Haye se traduisant par un écart de plus de dix pour cent par rapport à cette proportion, qui se révèle nécessaire pour assurer le bon fonctionnement de l’Office européen des brevets, requiert une décision du Conseil d’administration de l’Organisation, prise sur proposition du Président de l’Office européen des brevets, après consultation des gouvernements de la République fédérale d’Allemagne et du Royaume des Pays-Bas.

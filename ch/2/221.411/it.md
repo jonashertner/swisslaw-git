@@ -1,0 +1,3602 @@
+---
+sr: "221.411"
+title: Ordinanza del 17 ottobre 2007 sul registro di commercio (ORC)
+short: ORC
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
+language: it
+version: 2021-01-01
+adopted: 2007-10-17
+in_force: 2008-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul registro di commercio
+
+(ORC)
+
+del 17 ottobre 2007 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 933 capoverso 2, 943 e 950 capoverso 2 del Codice delle obbligazioni (CO)[^ingress-1]; visto l’articolo 102 lettera *a* della legge del 3 ottobre 2003[^ingress-2] sulla fusione (LFus),[^ingress-3]
+
+ordina:
+
+[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+## Titolo 1: Disposizioni generali
+
+### Capitolo 1:**** Oggetto e definizioni
+
+[^tit1-chap1-1]
+
+[^tit1-chap1-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina:
+
+- a. l’organizzazione della tenuta del registro di commercio;
+- b. la struttura e il contenuto del registro di commercio;
+- c. la comunicazione elettronica con le autorità del registro di commercio;
+- d. la procedura d’iscrizione, modifica e cancellazione di enti giuridici;
+- e. la comunicazione di informazioni e la consultazione del registro di commercio.
+
+#### Art. 2
+
+**Definizioni**
+
+Ai sensi della presente ordinanza s’intende per:
+
+- a. *impresa*: un’attività economica indipendente diretta a conseguire durevolmente un guadagno;
+- b. *domicilio legale*: l’indirizzo presso il quale l’ente giuridico è raggiungibile alla sua sede.
+
+### Capitolo 2: Autorità del registro di commercio
+
+#### Art. 3
+
+**Uffici del registro di commercio**[^3-1]
+
+L’organizzazione degli uffici del registro di commercio spetta ai Cantoni. Questi ultimi garantiscono una tenuta del registro di commercio qualificata e prendono provvedimenti per prevenire i conflitti d’interesse.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 4
+
+[^4-1]
+
+[^4-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 5
+
+**Alta vigilanza della Confederazione**[^5-1]
+
+<sup>1</sup> Il Dipartimento federale di giustizia e polizia (DFGP) esercita l’alta vigilanza sulla tenuta del registro di commercio.
+
+<sup>2</sup>
+
+L’Ufficio federale del registro di commercio (UFRC) integrato nell’Ufficio federale di giustizia è autorizzato in particolare a eseguire autonomamente le seguenti pratiche:
+
+- a. emanare direttive in materia di registro di commercio e di diritto delle ditte commerciali all’indirizzo delle autorità cantonali del registro di commercio, nonché sulle banche dati centrali;
+- b. verificare la conformità legale e approvare le iscrizioni cantonali nel registro giornaliero;
+- c. svolgere le ispezioni;
+- d. interporre ricorsi in materia di registro di commercio al Tribunale federale contro decisioni del Tribunale amministrativo federale e dei tribunali cantonali.
+
+<sup>3</sup> Le autorità del registro di commercio comunicano le loro decisioni all’UFRC. Sono eccettuate le decisioni concernenti unicamente gli emolumenti.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 5a
+
+**Informazione e rapporto**[^5a-1]
+
+<sup>1</sup> Gli uffici cantonali del registro di commercio presentano all’UFRC un rapporto annuale sulla loro attività.
+
+<sup>2</sup> L’UFRC stila un rapporto sui risultati delle ispezioni destinato all’ufficio cantonale del registro di commercio e al responsabile dell’unità amministrativa di cui fa parte tale ufficio. L’UFRC controlla successivamente le misure correttive raccomandate nel quadro delle ispezioni.
+
+[^5a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Capitolo 3: Struttura e contenuto del registro di commercio
+
+#### Art. 6
+
+**Struttura del registro di commercio**
+
+<sup>1</sup> Il registro di commercio si compone del registro giornaliero, del registro principale, delle notificazioni e dei documenti giustificativi.
+
+<sup>2</sup> Il registro giornaliero è l’elenco elettronico di tutte le iscrizioni in ordine progressivo.
+
+<sup>3</sup> Il registro principale è il riassunto in forma elettronica di tutte le iscrizioni giuridicamente valide nel registro giornaliero classificate per ente giuridico.
+
+#### Art. 7
+
+**Contenuto del registro di commercio**
+
+Il registro giornaliero e il registro principale contengono le iscrizioni concernenti:
+
+- a. gli enti giuridici;
+- b. le procure non commerciali (art. 458 cpv. 3 CO);
+- c. il capo di indivisioni (art. 341 cpv. 3 CC).
+
+#### Art. 8
+
+**Registro giornaliero**
+
+<sup>1</sup> Tutti i fatti da iscrivere nel registro di commercio sono inseriti nel registro giornaliero.
+
+<sup>2</sup> L’ufficio del registro di commercio procede alle iscrizioni fondandosi sulla notificazione e sui documenti giustificativi oppure su una sentenza o su una decisione, oppure effettua le iscrizioni d’ufficio.
+
+<sup>3</sup>
+
+Il registro giornaliero contiene:
+
+- a. le iscrizioni;
+- b. il numero e la data dell’iscrizione;
+- c. la sigla d’identificazione della persona che ha provveduto all’iscrizione o l’ha ordinata e l’indicazione dell’ufficio del registro di commercio;
+- d. gli emolumenti per l’iscrizione;
+- e. l’elenco dei documenti giustificativi su cui si fonda l’iscrizione.
+
+<sup>4</sup> Le iscrizioni nel registro giornaliero sono numerate in ordine progressivo. La numerazione ricomincia da capo per ogni anno civile. Numeri già assegnati di iscrizioni che non hanno acquisito validità giuridica non possono essere riutilizzati nel corso del medesimo anno civile.
+
+<sup>5</sup> Le iscrizioni nel registro giornaliero non possono essere modificate a posteriori e devono essere conservate a tempo indeterminato.
+
+#### Art. 9
+
+**Registro principale**
+
+<sup>1</sup> Le iscrizioni nel registro giornaliero sono riportate nel registro principale dopo l’approvazione da parte dell’UFRC. Sono riportate al più tardi il giorno della pubblicazione nel Foglio ufficiale svizzero di commercio.[^9-1]
+
+<sup>2</sup>
+
+Il registro principale contiene per ogni ente giuridico le indicazioni seguenti:
+
+- a. tutte le iscrizioni contenute nel registro giornaliero conformemente all’articolo 8 capoverso 3 lettere a e b;
+- b. la data della prima iscrizione dell’ente giuridico nel registro di commercio;
+- c. il numero dell’iscrizione nel registro giornaliero;
+- d.[^9-2] il numero di comunicazione nonché la data e il numero della pubblicazione di questa iscrizione nel Foglio ufficiale svizzero di commercio;
+- e. il rinvio a un’eventuale iscrizione precedente su una scheda o nell’indice alfabetico delle ditte;
+- f. la data della cancellazione nel registro di commercio.
+
+<sup>3</sup> La cancellazione di un ente giuridico deve essere evidenziata in modo chiaro nel registro principale.
+
+<sup>4</sup> Le iscrizioni nel registro principale non possono più essere modificate a posteriori e continuano a sussistere a tempo indeterminato. Sono fatte salve le correzioni di natura puramente tipografica che non modificano il contenuto materiale. Le rispettive correzioni sono verbalizzate.
+
+<sup>5</sup> Il registro principale deve essere riproducibile in ogni momento elettronicamente o su carta.
+
+[^9-1]: Nuovo testo giusta l’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^9-2]: Nuovo testo giusta il n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
+
+### Capitolo 4: Pubblicità del registro di commercio
+
+#### Art. 10
+
+**Deroghe**[^10-1]
+
+Non soggiacciono alla pubblicità del registro di commercio secondo l’articolo 936 CO:
+
+- a. il numero di assicurato AVS;
+- b. la corrispondenza relativa a un’iscrizione;
+- c. le copie dei documenti d’identità;
+- d. le copie dei documenti di cui all’articolo 62.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 11
+
+**Consultazione ed estratti**
+
+<sup>1</sup>
+
+Su domanda, gli uffici del registro di commercio autorizzano la consultazione del registro principale, della notificazione e dei documenti giustificativi e rilasciano:
+
+- a. estratti autenticati delle iscrizioni concernenti un ente giuridico che figura nel registro principale;
+- b. copie delle notificazioni e dei documenti giustificativi.
+
+<sup>2</sup> Un estratto può essere rilasciato prima della pubblicazione dell’iscrizione nel Foglio ufficiale svizzero di commercio soltanto se tale iscrizione è già stata approvata dall’UFRC.
+
+<sup>3</sup> ...[^11-1]
+
+<sup>4</sup> ...[^11-2]
+
+<sup>5</sup> L’UFRC provvede mediante una direttiva a una struttura e una presentazione unitarie degli estratti. Permette ai Cantoni l’uso degli stemmi e dei simboli cantonali. Può emanare prescrizioni riguardanti la sicurezza degli estratti.
+
+<sup>6</sup> L’ufficio del registro di commercio attesta su domanda che un determinato ente giuridico non è iscritto nel registro.
+
+<sup>7</sup> All’allestimento degli estratti, delle copie di notificazioni e di documenti giustificativi e delle attestazioni in forma elettronica nonché all’allestimento delle copie cartacee di documenti elettronici si applica l’ordinanza dell’8 dicembre 2017[^11-3] sulla realizzazione di atti pubblici e autenticazioni in forma elettronica (OAPuE).[^11-4]
+
+[^11-1]: Abrogato dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, con effetto dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^11-2]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^11-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^11-4]: Introdotto dall’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+
+#### Art. 12
+
+**Offerta elettronica**[^12-1]
+
+Gli statuti, gli atti di fondazione, gli altri documenti giustificativi e le notificazioni, resi gratuitamente accessibili in Internet non devono essere legalizzati dall’ufficio del registro di commercio.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Capitolo 5:**** Autenticazioni da parte dell’ufficio del registro di commercio
+
+[^tit1-chap5-1]
+
+[^tit1-chap5-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 12a
+
+[^12a-1]
+
+<sup>1</sup> L’ufficio del registro di commercio è autorizzato ad allestire copie cartacee autenticate o copie elettroniche autenticate secondo l’OAPuE[^12a-2] di notificazioni, documenti giustificativi e altri documenti nonché di firme in forma cartacea o elettronica.
+
+<sup>2</sup>
+
+L’ufficio del registro di commercio indica sulla copia cartacea autenticata:
+
+- a. che si tratta di una copia conforme al documento originale; e
+- b. che il documento originale era cartaceo.
+
+<sup>3</sup> All’allestimento di autenticazioni elettroniche e all’allestimento di copie cartacee autenticate di documenti elettronici si applica l’OAPuE.
+
+[^12a-1]: Nuovo testo giusta l’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^12a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+
+### Capitolo 6:**** Comunicazione elettronica
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 12b
+
+**Ammissibilità degli atti scritti elettronici e diritto applicabile**
+
+Se non disposto diversamente dalla presente ordinanza, alla comunicazione elettronica per il registro di commercio si applicano le disposizioni degli articoli 130 capoverso 2 e 143 capoverso 2 del Codice di procedura civile[^12b-1] (CPC) e dell’ordinanza del 18 giugno 2010[^12b-2] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure d’esecuzione e fallimento.
+
+[^12b-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^12b-2]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+
+#### Art. 12c
+
+**Trasmissione**
+
+<sup>1</sup>
+
+Gli atti scritti elettronici possono essere fatti pervenire agli uffici del registro di commercio mediate piattaforme di trasmissione come previsto dagli articoli 2 e 4 dell’ordinanza del 18 giugno 2010[^12c-1] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure di esecuzione e fallimento oppure mediante le pagine Internet della Confederazione o dei Cantoni, se queste ultime:
+
+- a. garantiscono la riservatezza (criptaggio) dei dati; e
+- b.[^12c-2] rilasciano una ricevuta munita di sigillo elettronico regolamentato e di una marca temporale elettronica ai sensi dell’articolo 2 lettere d e i FiEle[^12c-3]*.*
+
+<sup>2</sup> L’UFRC può disciplinare lo svolgimento e l’automazione della comunicazione elettronica, segnatamente in riferimento a moduli, formato e struttura dei dati, processi operativi e procedure di trasmissione alternative.
+
+[^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^12c-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+#### Art. 12d
+
+[^12d-1]
+
+[^12d-1]: Abrogato dall’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, con effetto dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+
+#### Art. 12e
+
+**Estratti elettronici**
+
+Le disposizioni di questo capitolo si applicano per analogia alla consegna di estratti elettronici autenticati dal registro giornaliero o dal registro principale.
+
+### Capitolo 7:**** Banche dati centrali
+
+[^tit1-chap7-1]
+
+[^tit1-chap7-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021, l’art. 14*a* è entrato in vigore il 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 13
+
+**Ricerche su ditte e nomi**
+
+<sup>1</sup> Su domanda, l’UFRC svolge ricerche scritte su ditte e nomi di enti giuridici nella banca dati centrale degli enti giuridici di cui all’articolo 928*b* CO.
+
+<sup>2</sup> Mette a disposizione la piattaforma Internet Regix per la registrazione completamente elettronica dei mandati di ricerca.
+
+#### Art. 14
+
+**Indice centrale delle ditte (Zefix)**
+
+<sup>1</sup> I dati degli enti giuridici accessibili gratuitamente in Internet secondo l’articolo 928*b* capoverso 2 CO possono essere consultati mediante la piattaforma Internet Zefix o un’interfaccia tecnica. Questi dati non esplicano effetti giuridici.
+
+<sup>2</sup> L’UFRC mette a disposizione del pubblico per utilizzo gratuito i dati degli enti giuridici attivi necessari alla loro identificazione contenuti nella banca dati centrale degli enti giuridici.
+
+<sup>3</sup>
+
+Il DFGP determina:
+
+- a. i dati che devono figurare nella banca dati centrale degli enti giuridici;
+- b. i dati della banca dati centrale degli enti giuridici che sono pubblici;
+- c. il contenuto delle raccolte di dati che sono resi accessibili;
+- d. le condizioni e le modalità di accesso alle raccolte di dati.
+
+#### Art. 14a
+
+**Banca dati centrale delle persone**
+
+<sup>1</sup> L’UFRC è responsabile della concessione dei diritti di registrazione e di trattamento dei dati nella banca dati centrale delle persone e della protezione e la sicurezza dei dati di questa banca dati.
+
+<sup>2</sup> Gli uffici del registro di commercio sono responsabili in particolare della registrazione e del trattamento tecnicamente qualificati e corretti dei dati e provvedono all’allineamento dei dati del registro cantonale con quelli di altri registri pubblici.
+
+## Titolo 2: Procedura d’iscrizione
+
+### Capitolo 1: Notificazione e documenti giustificativi
+
+### Sezione 1: Notificazione****
+
+[^tit2-chap1-sec1-1]
+
+[^tit2-chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 15
+
+[^15-1]
+
+[^15-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 16
+
+**Contenuto, forma e lingua**
+
+<sup>1</sup> La notificazione identifica chiaramente l’ente giuridico e indica i fatti da iscrivere o rinvia ai documenti giustificativi menzionati singolarmente.
+
+<sup>2</sup> La notificazione può essere presentata in forma scritta o elettronica.
+
+<sup>3</sup> Le notificazioni elettroniche devono essere conformi alle disposizioni degli articoli 12*b* e 12*c*.[^16-1]
+
+<sup>4</sup> Le notificazioni devono essere allestite in una lingua ufficiale del Cantone nel quale è effettuata l’iscrizione.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 17
+
+**Persone che notificano l’iscrizione**[^17-1]
+
+<sup>1</sup>
+
+Laddove la legislazione non disponga altrimenti, la notificazione è effettuata:
+
+- a. da una o più persone autorizzate a rappresentare l’ente giuridico interessato conformemente al loro diritto di firma;
+- b. da terzi con procura;
+- c. dal proprietario in caso di procura non commerciale;
+- d. dal capo dell’indivisione.
+
+<sup>2</sup>
+
+Le seguenti iscrizioni possono inoltre essere notificate dalle persone interessate:
+
+- a. la cancellazione dei membri degli organi o dei poteri di rappresentanza (art. 933 cpv. 2 CO);
+- b. la modifica dei dati personali secondo l’articolo 119;
+- c. la cancellazione del domicilio legale secondo l’articolo 117 capoverso 3.
+
+<sup>3</sup> La procura conferita a terzi secondo il capoverso 1 lettera b, deve essere firmata da uno o più membri dell’organo superiore di direzione o di amministrazione autorizzato a rappresentare l’ente giuridico interessato conformemente al diritto di firma. Va allegata alla notificazione.
+
+<sup>4</sup> Qualora gli eredi siano tenuti a notificare un’iscrizione, gli esecutori testamentari o i liquidatori dell’eredità possono procedere alla notificazione in loro vece.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 18
+
+**Firma**[^18-1]
+
+<sup>1</sup> Laddove la legislazione non disponga altrimenti, la notificazione deve essere firmata dalle persone di cui all’articolo 17.
+
+<sup>2</sup> La notificazione effettuata su carta deve essere firmata presso l’ufficio del registro di commercio o prodotta con le firme autenticate. Un’autenticazione non è richiesta in caso di firme di terzi con procura e se le firme sono già state prodotte in precedenza in forma autenticata per il medesimo ente giuridico. Se vi sono motivi fondati per dubitare dell’autenticità della firma, l’ufficio del registro di commercio può chiedere una nuova autenticazione.
+
+<sup>3</sup> Se firmano la notificazione presso l’ufficio del registro di commercio, le persone che notificano l’iscrizione devono attestare la loro identità mediante passaporto, carta d’identità o carta di soggiorno svizzera validi.
+
+<sup>4</sup> Le notificazioni elettroniche devono essere munite di una firma elettronica qualificata con marca temporale elettronica qualificata ai sensi dell’articolo 2 lettere e e j FiEle[^18-2]. Fatto salvo l’articolo 21, non devono essere depositate le firme autografe delle persone che sottoscrivono la notificazione.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^18-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+#### Art. 19
+
+**Iscrizione fondata su una sentenza o una decisione**
+
+<sup>1</sup> Il tribunale o l’autorità che ordina l’iscrizione di fatti nel registro di commercio trasmette all’ufficio del registro di commercio la pertinente sentenza o decisione. La sentenza o la decisione può essere trasmessa soltanto dopo che è diventata esecutiva. È fatto salvo l’articolo 176 capoverso 1 della legge federale dell’11 aprile 1889[^19-1] sulla esecuzione e sul fallimento (LEF).
+
+<sup>2</sup> L’ufficio del registro di commercio procede senza indugio all’iscrizione.
+
+<sup>3</sup> Se il dispositivo della sentenza o della decisione contiene disposizioni poco chiare o incomplete riguardanti i fatti da iscrivere, l’ufficio del registro di commercio chiede all’autorità competente di fornire chiarimenti scritti.
+
+<sup>4</sup> È fatta salva l’approvazione dell’iscrizione da parte dell’UFRC.
+
+[^19-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### Sezione 2: Documenti giustificativi****
+
+[^tit2-chap1-sec2-1]
+
+[^tit2-chap1-sec2-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 20
+
+**Contenuto, forma e lingua**[^20-1]
+
+<sup>1</sup> I documenti giustificativi sono prodotti in forma originale o in forma di copia autenticata cartacea o elettronica.
+
+<sup>2</sup> I documenti giustificativi devono essere firmati in modo conforme alla legge. I documenti giustificativi in forma elettronica devono recare una firma elettronica qualificata corredata di una marca temporale elettronica qualificata ai sensi dell’articolo 2 lettera e j FiEle[^20-2].
+
+<sup>3</sup> Atti pubblici in forma elettronica e autenticazioni elettroniche nonché copie cartacee di documenti elettronici devono essere conformi ai requisiti dell’OAPuE[^20-3].
+
+<sup>4</sup> Se i documenti giustificativi sono prodotti in una lingua che non è la lingua ufficiale del Cantone, l’ufficio del registro di commercio può esigere una traduzione purché sia necessario per l’esame o la consultazione da parte di terzi. Se necessario può designare il traduttore. In questo caso la traduzione funge anche da documento giustificativo.
+
+[^20-1]: Nuovo testo giusta l’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^20-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^20-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+
+#### Art. 21
+
+**Firme**
+
+<sup>1</sup>
+
+Una persona autorizzata a firmare che è notificata per l’iscrizione nel registro di commercio deve depositare la propria firma autografa presso l’ufficio del registro di commercio secondo una delle modalità seguenti:
+
+- a. firmando presso l’ufficio del registro di commercio;
+- b.
+
+  consegnando la propria firma autografa come documento giustificativo all’ufficio del registro di commercio:
+
+  - 1\. su carta, autenticata da un pubblico ufficiale,
+  - 2\. digitalizzata e autenticata da un pubblico ufficiale, o
+  - 3\. digitalizzata e attestata dalla persona stessa.[^21-1]
+
+<sup>2</sup> Se firma presso l’ufficio del registro di commercio, deve comprovare la sua identità mediante passaporto, carta d’identità o carta di soggiorno svizzera validi. L’ufficio del registro di commercio legalizza la firma.[^21-2]
+
+<sup>3</sup> Per attestare essa stessa la firma digitalizzata, la persona autorizzata a firmare vi appone una dichiarazione in cui riconosce la firma come sua e una firma elettronica qualificata con marca temporale elettronica qualificata ai sensi dell’articolo 2 lettere e e j FiEle[^21-3].[^21-4]
+
+[^21-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^21-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21-4]: Nuovo testo giusta l’all. n. II 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+
+#### Art. 22
+
+**Statuto e atto di fondazione**
+
+<sup>1</sup>
+
+Nel registro di commercio è iscritta come data dello statuto il giorno in cui:
+
+- a. i promotori hanno accettato lo statuto; o
+- b. l’organo competente della società ha deciso l’ultima modifica dello statuto.
+
+<sup>2</sup>
+
+Nel registro di commercio è iscritta come data dell’atto di fondazione il giorno in cui:
+
+- a. l’atto pubblico attestante la costituzione della fondazione è stato allestito;
+- b. la disposizione a causa di morte è stata allestita; o
+- c. l’atto di fondazione è stato modificato da un tribunale o un’autorità.
+
+<sup>3</sup> Qualora lo statuto o l’atto di fondazione fossero modificati o adeguati, occorre produrre all’ufficio del registro di commercio una nuova versione completa dello statuto o dell’atto di fondazione.
+
+<sup>4</sup> Gli statuti di società anonime, società in accomandita, società a garanzia limitata, società di investimento a capitale fisso e società di investimento a capitale variabile come pure l’atto di fondazione devono essere legalizzati da un pubblico ufficiale. Gli statuti delle società cooperative e delle associazioni devono essere firmati da un amministratore o da un membro della direzione.
+
+#### Art. 23
+
+**Verbali concernenti le deliberazioni**
+
+<sup>1</sup> Se i fatti da iscrivere si fondano su deliberazioni o elezioni di organi di una persona giuridica e le deliberazioni non necessitano dell’atto pubblico, il verbale o l’estratto del verbale concernente la deliberazione o una deliberazione per circolazione è prodotto come documento giustificativo.
+
+<sup>2</sup> I verbali o gli estratti dei verbali recano la firma del segretario e del presidente dell’organo che ha deliberato, mentre le deliberazioni per circolazione la firma di tutte le persone appartenenti all’organo.
+
+<sup>3</sup> Non è necessario produrre un verbale o un estratto del verbale dell’organo superiore di direzione o di amministrazione se la notificazione all’ufficio del registro di commercio è firmata da tutti i membri di tale organo. Non è neppure necessario produrre un verbale o un estratto del verbale dell’assemblea dei soci delle società a garanzia limitata se la notificazione all’ufficio del registro di commercio è firmata da tutti i soci iscritti nel registro di commercio.
+
+#### Art. 24
+
+**Esistenza di enti giuridici**
+
+<sup>1</sup> Se un fatto da iscrivere si riferisce a un ente giuridico iscritto nel registro di commercio svizzero, non è necessario documentarne l’esistenza. L’ufficio del registro di commercio, competente per l’iscrizione di tale fatto, verifica l’esistenza dell’ente giuridico consultando la banca dati cantonale del registro di commercio.[^24-1]
+
+<sup>2</sup> L’esistenza di un ente giuridico che non è iscritto nel registro di commercio svizzero è documentata mediante un estratto attuale autenticato del registro di commercio estero o mediante un documento equivalente.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 24a
+
+**Identificazione di persone fisiche**[^24a-1]
+
+<sup>1</sup> L’identità delle persone fisiche iscritte nel registro di commercio deve essere verificata mediante passaporto, carta di identità o carta di soggiorno svizzera validi oppure mediante una copia di uno di questi documenti. Ai fini della raccolta dei dati necessari a identificare la persona indicati nell’articolo 24*b*, l’ufficio del registro di commercio può allestire una copia del documento presentato.
+
+<sup>2</sup> L’identità di una persona fisica può essere provata anche mediante un atto pubblico o un’autentica di firma, se riportano i dati indicati all’articolo 24*b*.
+
+<sup>3</sup> Eventuali copie dei documenti di identità sono archiviate con la corrispondenza. Possono essere distrutte non appena l’iscrizione della persona fisica nel registro giornaliero è giuridicamente efficace.
+
+[^24a-1]: Introdotto dal n. 1 dell’all. all’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 24b
+
+**Dati per l’identificazione**[^24b-1]
+
+<sup>1</sup>
+
+Sulla base del documento di identità e ai fini dell’identificazione delle persone fisiche vengono iscritti nel registro di commercio i seguenti dati:
+
+- a. il cognome;
+- b. se del caso, il cognome prima del matrimonio;
+- c. tutti i nomi nell’ordine corretto;
+- d. la data di nascita;
+- e. il sesso;
+- f. il Comune politico del luogo d’origine o, per i cittadini stranieri, la cittadinanza;
+- g. il tipo, il numero e lo Stato di emissione del documento di identità.
+
+<sup>2</sup>
+
+Nel registro di commercio sono inoltre iscritti i seguenti dati:
+
+- a. eventuali nomi usuali, vezzeggiativi, nomi d’arte, cognomi d’affinità, nomi ricevuti in seno a un ordine religioso o cognomi dell’unione domestica registrata;
+- b. il Comune politico del luogo di domicilio o, in caso di domicilio all’estero, la località e lo Stato;
+- c. se del caso, il numero personale già assegnato e non significante della banca dati centrale delle persone.[^24b-2]
+
+<sup>3</sup> La pubblicità di questi dati è retta dall’articolo 119 capoverso 1.
+
+[^24b-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^24b-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 25
+
+**Atti pubblici e legalizzazioni allestite all’estero**
+
+<sup>1</sup> Gli atti pubblici e le legalizzazioni allestite all’estero devono essere corredati di una dichiarazione della competente autorità del luogo ove furono allestiti, dalla quale risulti che essi sono stati allestiti dall’ufficiale pubblico competente. Inoltre devono essere prodotte, salvo che i trattati non dispongano diversamente, le legalizzazioni del Governo estero e delle competenti rappresentanze diplomatiche o consolari della Svizzera.
+
+<sup>2</sup> Se occorre allestire un atto pubblico ai sensi del diritto svizzero e produrlo come documento giustificativo all’ufficio del registro di commercio, quest’ultimo può esigere la prova che la procedura di certificazione estera equivale alla procedura di certificazione pubblica applicata in Svizzera. A tal proposito esso può chiedere una perizia e nominare il perito.
+
+### Capitolo 2: Principi concernenti l’iscrizione
+
+#### Art. 26
+
+**Termine**[^26-1]
+
+Se per l’iscrizione nel registro di commercio è previsto un termine, quest’ultimo è reputato osservato se la notificazione e i documenti giustificativi richiesti sono conformi ai requisiti legali e:
+
+- a. sono consegnati all’ufficio del registro di commercio o, all’indirizzo di questo, alla Posta Svizzera entro l’ultimo giorno del termine previsto; o
+- b. è stato confermato al mittente che la notificazione elettronica e i documenti giustificativi in forma elettronica necessari sono stati ricevuti entro l’ultimo giorno del termine previsto.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 27
+
+**Rettificazione**[^27-1]
+
+L’ufficio del registro di commercio rettifica, su domanda o d’ufficio, i propri errori di redazione e di trascrizione. La rettificazione deve essere designata come tale e figurare nel registro giornaliero.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 28
+
+**Complemento**[^28-1]
+
+Su domanda o d’ufficio, l’ufficio del registro di commercio iscrive a posteriori i fatti notificati e documentati che non ha iscritto per errore. Il complemento deve essere designato come tale e figurare nel registro giornaliero.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 29
+
+**Lingua**
+
+L’iscrizione nel registro di commercio è effettuata nella lingua della notificazione secondo l’articolo 16 capoverso 4. Se la notificazione è fatta in romancio, l’iscrizione è effettuata anche in tedesco o italiano.
+
+#### Art. 29a
+
+**Set di caratteri**[^29a-1]
+
+Le iscrizioni nel registro di commercio sono effettuate con il set di caratteri ISO 8859-15[^29a-2].
+
+[^29a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^29a-2]: ISO/IEC 8859-15, 1999, tecnologia dell’informazione – insiemi di caratteri codificati ad otto bit byte singolo - parte 15: latino-9. La norma può essere consultata e ottenuta presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere consultata sul sito Internet dell’Organizzazione internazionale per la normalizzazione (www.iso.org).
+
+#### Art. 30
+
+**Iscrizione su richiesta di ulteriori fatti**
+
+<sup>1</sup>
+
+Fatti la cui iscrizione non è prevista dalla legge o dall’ordinanza possono essere iscritti nel registro di commercio su domanda se:
+
+- a. l’iscrizione è compatibile con lo scopo del registro di commercio; e
+- b. un importante interesse pubblico giustifica la pubblicazione.
+
+<sup>2</sup> Le prescrizioni sulla notificazione e i documenti giustificativi si applicano per analogia.
+
+### Capitolo 3: Verifica, approvazione e pubblicazione delle iscrizioni
+
+#### Art. 31
+
+**Trasmissione all’UFRC**
+
+Gli uffici cantonali del registro di commercio trasmettono elettronicamente le loro iscrizioni all’UFRC il giorno feriale in cui sono state iscritte nel registro giornaliero.
+
+#### Art. 32
+
+**Verifica e approvazione da parte dell’UFRC**
+
+<sup>1</sup> L’UFRC verifica e approva le iscrizioni sempreché siano soddisfatte le condizioni secondo la legge e l’ordinanza. Comunica in forma elettronica la sua approvazione all’ufficio cantonale del registro di commercio.
+
+<sup>2</sup> La notificazione e i documenti giustificativi sono consultati soltanto eccezionalmente se vi è un motivo particolare di procedere in tal senso.
+
+<sup>3</sup> L’obbligo di verifica da parte dell’UFRC corrisponde a quello dell’ufficio del registro di commercio.
+
+<sup>4</sup> L’UFRC trasmette elettronicamente al Foglio ufficiale svizzero di commercio le iscrizioni approvate.
+
+#### Art. 33
+
+**Diniego dell’approvazione**
+
+<sup>1</sup> Se nega l’approvazione, l’UFRC comunica la sua decisione all’ufficio cantonale del registro di commercio motivandola sommariamente. Questa comunicazione rappresenta una decisione incidentale non impugnabile autonomamente.
+
+<sup>2</sup> Se il diniego dell’approvazione si fonda su lacune alle quali l’ufficio cantonale del registro di commercio non può porre rimedio, quest’ultimo invia la decisione negativa alle persone che hanno presentato la notificazione. Dà loro la possibilità di indirizzare all’UFRC il loro parere scritto.
+
+<sup>3</sup> Se approva a posteriori l’iscrizione, l’UFRC ne informa l’ufficio cantonale del registro di commercio. Quest’ultimo gli ritrasmette elettronicamente l’iscrizione.
+
+<sup>4</sup> Se nega definitivamente l’approvazione dell’iscrizione, l’UFRC emana una decisione impugnabile.
+
+#### Art. 34
+
+**Informazione sull’approvazione**[^34-1]
+
+L’ufficio cantonale del registro di commercio informa su richiesta le persone che hanno presentato una notificazione non appena l’iscrizione è approvata dall’UFRC. Precisa che l’iscrizione acquisisce validità soltanto con la pubblicazione elettronica nel Foglio ufficiale svizzero di commercio.
+
+[^34-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 35
+
+**Pubblicazione**[^35-1]
+
+<sup>1</sup> Le iscrizioni sono pubblicate in forma elettronica nel Foglio ufficiale svizzero di commercio.
+
+<sup>2</sup> L’UFRC assegna a ogni iscrizione un numero di comunicazione e stabilisce la data di pubblicazione.
+
+[^35-1]: Nuovo testo giusta il n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
+
+## Titolo 3: Disposizioni speciali in materia di iscrizioni
+
+### Capitolo 1: Ditta individuale
+
+#### Art. 36
+
+[^36-1]
+
+[^36-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 37
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una ditta individuale occorre fornire i documenti giustificativi soltanto se:
+
+- a. i fatti da iscrivere non risultano dalla notificazione;
+- b. è necessario in virtù di altre disposizioni.
+
+<sup>2</sup> Se è già stato attribuito all’impresa individuale, il numero d’identificazione delle imprese deve essere indicato nella notificazione.[^37-1]
+
+[^37-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 38
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio delle ditte individuali contiene le indicazioni seguenti:
+
+- a. la ditta e il numero d’identificazione delle imprese[^38-1];
+- b. la sede e il domicilio legale;
+- c. la forma giuridica;
+- d. lo scopo;
+- e. il titolare della ditta individuale;
+- f. le persone autorizzate a rappresentare.
+
+[^38-1]: Nuova espr. giusta l’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 39
+
+**Cancellazione**
+
+<sup>1</sup> Se cessa l’attività aziendale o la trasferisce a un’altra persona o a un altro ente giuridico, il titolare di una ditta individuale deve notificare la cancellazione della ditta individuale.
+
+<sup>2</sup> Se il titolare di una ditta individuale è deceduto, uno degli eredi deve notificare, per l’iscrizione, la cancellazione.[^39-1]
+
+<sup>3</sup> Oltre alla cancellazione, nel registro di commercio deve essere iscritto anche il motivo della cancellazione.
+
+<sup>4</sup> Se nei casi di cui ai capoversi 1 e 2 l’attività aziendale prosegue e le condizioni di cui all’articolo 931 capoverso 1 CO sono soddisfatte, il nuovo titolare è obbligato a notificare l’impresa. A quest’ultima è assegnato un nuovo numero di identificazione delle imprese.[^39-2]
+
+[^39-1]: Nuovo testo giusta l’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^39-2]: Introdotto dall’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)). Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Capitolo 2: Società in nome collettivo o in accomandita
+
+#### Art. 40
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una società in nome collettivo o in accomandita occorre fornire i documenti giustificativi soltanto se:
+
+- a. i fatti da iscrivere non risultano dalla notificazione;
+- b. è necessario in virtù di altre disposizioni.
+
+<sup>2</sup> Se è già stato attribuito alla società in nome collettivo o in accomandita, il numero di identificazione delle imprese deve essere indicato nella notificazione.[^40-1]
+
+[^40-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 41
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio delle società in nome collettivo contiene le indicazioni seguenti:
+
+- a. la ditta e il numero d’identificazione delle imprese;
+- b. la sede e il domicilio legale;
+- c. la forma giuridica;
+- d. la data d’inizio della società;
+- e. lo scopo;
+- f. i soci;
+- g. le persone autorizzate a rappresentare.
+
+<sup>2</sup>
+
+L’iscrizione nel registro di commercio delle società in accomandita contiene le indicazioni seguenti:
+
+- a. la ditta e il numero d’identificazione delle imprese;
+- b. la sede e il domicilio legale;
+- c. la forma giuridica;
+- d. la data d’inizio della società;
+- e. lo scopo;
+- f. i soci illimitatamente responsabili (accomandatari);
+- g. i soci limitatamente responsabili (accomandanti) con l’indicazione dell’importo del rispettivo capitale accomandato;
+- h. se il capitale accomandato è fornito totalmente o in parte in natura, il suo oggetto e valore;
+- i. le persone autorizzate a rappresentare.
+
+<sup>3</sup> Per le società in nome collettivo o in accomandita che non gestiscono un’attività in forma commerciale, la data d’inizio della società coincide con la data dell’iscrizione nel registro giornaliero.
+
+#### Art. 42
+
+**Scioglimento e cancellazione**
+
+<sup>1</sup> Se una società in nome collettivo o in accomandita è sciolta in vista della sua liquidazione, i soci notificano lo scioglimento per l’iscrizione nel registro di commercio (art. 574 cpv. 2 CO).
+
+<sup>2</sup> Con la notificazione dello scioglimento non occorre fornire ulteriori documenti giustificativi. È fatto salvo il deposito delle firme dei liquidatori che non sono soci.
+
+<sup>3</sup>
+
+In caso di scioglimento della società l’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che la società è stata sciolta;
+- b.[^42-1] la ditta con la menzione «in liquidazione» o «in liq.»;
+- c. i liquidatori.
+
+<sup>4</sup> Terminata la liquidazione, i liquidatori sono tenuti a notificare la cancellazione della società (art. 589 CO).
+
+<sup>5</sup> Oltre alla cancellazione, nel registro di commercio deve essere iscritto anche il motivo della cancellazione.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Capitolo 3: Società anonima
+
+### Sezione 1: Costituzione
+
+#### Art. 43
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione della costituzione di una società anonima occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto costitutivo autentico;
+- b. lo statuto;
+- c. una prova che i membri del consiglio d’amministrazione hanno accettato la loro elezione;
+- d. se del caso, una prova che l’ufficio di revisione previsto dalla legge ha accettato la sua elezione;
+- e. il verbale della seduta costitutiva del consiglio d’amministrazione con l’elezione del presidente e l’attribuzione del diritto di firma;
+- f. in caso di conferimenti in denaro, un’attestazione in cui figuri presso quale banca sono stati depositati i conferimenti, sempreché la banca non sia menzionata nell’atto pubblico;
+- g. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla società un domicilio legale nel luogo di sede di quest’ultima;
+- h.[^43-1] ...
+- i.[^43-2] in caso di azioni al portatore: la prova che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della legge federale del 3 ottobre 2008[^43-3] sui titoli contabili (LTCo).
+
+<sup>2</sup> Per le indicazioni già contenute nell’atto costitutivo, non occorre fornire alcun documento giustificativo supplementare.
+
+<sup>3</sup>
+
+In caso di conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, occorre fornire i documenti giustificativi supplementari seguenti:
+
+- a. i contratti dei conferimenti in natura con gli allegati necessari;
+- b. per quanto già disponibili, i contratti di assunzione di beni con gli allegati necessari;
+- c. la relazione sulla costituzione firmata da tutti i promotori;
+- d. l’attestazione di verifica senza riserve di un’impresa di revisione sotto sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato.
+
+[^43-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^43-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^43-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 44
+
+**Atto costitutivo**
+
+L’atto costitutivo autentico contiene le indicazioni seguenti:
+
+- a. i dati personali dei promotori nonché, se del caso, dei loro rappresentanti;
+- b. la dichiarazione dei promotori di costituire una società anonima;
+- c. la conferma dei promotori che lo statuto è stato stabilito;
+- d. la dichiarazione di ogni promotore circa il numero di azioni da lui sottoscritte, del loro valore nominale, della specie, della categoria e del prezzo di emissione, con l’impegno incondizionato di effettuare un conferimento corrispondente al prezzo di emissione;
+- e. il fatto che i membri del consiglio d’amministrazione sono stati eletti nonché i loro dati personali;
+- f. il fatto che l’ufficio di revisione è stato eletto o che la società rinuncia a una revisione;
+- g.
+
+  la constatazione dei promotori che:
+
+  - 1\. tutte le azioni sono state validamente sottoscritte,
+  - 2\. i conferimenti promessi corrispondono al prezzo totale di emissione,
+  - 3\. la prestazione dei conferimenti è conforme alle esigenze legali e statutarie,
+  - 4\.[^44-1] non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi;
+
+- h. la menzione di tutti i documenti giustificativi e l’attestazione del pubblico ufficiale che tali documenti sono stati esibiti a lui stesso e ai promotori;
+- i. le firme dei promotori.
+
+[^44-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 45
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio delle società anonime contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società anonima;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data dello statuto;
+- f. se limitata, la durata della società;
+- g. lo scopo;
+- h. l’entità del capitale azionario e dei conferimenti effettuati nonché il numero, il valore nominale e la specie delle azioni;
+- i. se del caso, le azioni con diritto di voto privilegiato;
+- j. se è emesso un capitale di partecipazione, la sua entità e i conferimenti effettuati nonché il numero, il valore nominale e la specie dei buoni di partecipazione;
+- k. nel caso di azioni o di buoni di partecipazione privilegiati, i diritti di preferenza ad essi inerenti;
+- l. nel caso di una limitazione della trasmissibilità delle azioni o dei buoni di partecipazione, un rinvio allo statuto per i dettagli;
+- m. se sono emessi buoni di godimento, il loro numero e i diritti ad essi inerenti;
+- n. i membri del consiglio di amministrazione;
+- o. le persone autorizzate a rappresentare;
+- p. se la società non effettua una revisione ordinaria o una revisione limitata, un rinvio a tale fatto nonché la data della dichiarazione di rinuncia del consiglio d’amministrazione conformemente all’articolo 62 capoverso 2;
+- q. se la società effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione;
+- r. l’organo di pubblicazione legale e, se del caso, gli altri organi di pubblicazione;
+- s. la forma delle comunicazioni del consiglio d’amministrazione agli azionisti prevista dallo statuto;
+- t.[^45-1] in caso di azioni al portatore: il fatto che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^45-2].
+
+<sup>2</sup>
+
+Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, occorre iscrivere anche i fatti seguenti:
+
+- a. il conferimento in natura con l’indicazione della data del contratto, dell’oggetto del contratto e delle azioni emesse a tale scopo;
+- b. l’assunzione di beni fissa o prevista con l’indicazione della data, dell’oggetto del contratto e della controprestazione della società;
+- c. la compensazione di crediti, con l’indicazione del credito e della sua entità nonché delle azioni emesse a tale scopo;
+- d. il contenuto e il valore dei vantaggi speciali conformemente all’ulteriore precisazione contenuta nello statuto.
+
+<sup>3</sup> Qualora un azionista conferisca una quota in natura il cui valore computabile supera il prezzo di emissione delle azioni sottoscritte e per la quale la società, oltre alle azioni emesse, concede una controprestazione, nel registro di commercio si deve iscrivere un’assunzione di beni che corrisponde all’entità di tale controprestazione (conferimento in natura combinato con un’assunzione di beni).
+
+[^45-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^45-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+### Sezione 2: Aumento ordinario del capitale azionario
+
+#### Art. 46
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup> Un aumento ordinario del capitale azionario è notificato per l’iscrizione all’ufficio del registro di commercio entro tre mesi dalla deliberazione dell’assemblea generale. Le notificazioni presentate dopo questo termine sono respinte.
+
+<sup>2</sup>
+
+Con la notificazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico sulla deliberazione dell’assemblea generale;
+- b. l’atto pubblico sulle constatazioni del consiglio d’amministrazione e sulla modifica dello statuto;
+- c. lo statuto modificato;
+- d. il rapporto d’aumento firmato da un membro del consiglio d’amministrazione;
+- e. in caso di conferimenti in denaro, un’attestazione da cui risulti in quale istituto bancario sono stati depositati i conferimenti, sempreché la banca non sia menzionata nell’atto pubblico;
+- f. se del caso, il prospetto;
+- g.[^46-1] ...
+- h.[^46-2] nel caso in cui vengono emesse azioni al portatore e la società non aveva ancora azioni al portatore: la prova che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^46-3].
+
+<sup>3</sup>
+
+Se vi sono conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali o se l’aumento di capitale è effettuato mediante capitale proprio, occorre fornire anche i documenti giustificativi seguenti:[^46-4]
+
+- a. i contratti dei conferimenti in natura con gli allegati necessari;
+- b. per quanto già disponibili, i contratti di assunzione di beni con gli allegati necessari;
+- c. l’attestazione di verifica senza riserve da parte di un’impresa di revisione sotto sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato;
+- d.[^46-5] in caso di una liberazione mediante conversione di capitale proprio liberamente disponibile, la relazione di revisione di un revisore abilitato.
+
+<sup>4</sup> Se i diritti d’opzione sono limitati o soppressi, occorre fornire un’attestazione di verifica senza riserve da parte di un’impresa di revisione sotto sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato.
+
+[^46-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^46-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^46-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^46-4]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^46-5]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 47
+
+**Atti pubblici**
+
+<sup>1</sup>
+
+L’atto pubblico concernente la deliberazione dell’assemblea generale contiene le indicazioni seguenti:
+
+- a. l’ammontare nominale o, se del caso, l’ammontare nominale massimo dell’aumento del capitale azionario nonché l’ammontare dei conferimenti da effettuare;
+- b. il numero o, se del caso, il numero massimo nonché il valore nominale e la specie delle azioni che sono emesse;
+- c. il prezzo di emissione o, se del caso, l’autorizzazione del consiglio d’amministrazione di determinarlo;
+- d. il momento a partire dal quale le nuove azioni danno diritto a un dividendo;
+- e. la natura dei conferimenti;
+- f. nel caso di conferimenti in natura, il loro oggetto e la stima, il nome del conferente e le azioni che gli sono attribuite;
+- g. nel caso di assunzioni di beni, il loro oggetto, il nome dell’alienante e la controprestazione della società;
+- h. nel caso di vantaggi speciali, il loro contenuto e valore nonché il nome dei beneficiari;
+- i. se del caso, le azioni con diritto di voto privilegiato;
+- j. nel caso di azioni privilegiate, i diritti di preferenza ad esse inerenti;
+- k. se del caso, la limitazione della trasferibilità delle azioni;
+- l. l’utilizzazione di diritti d’opzione non esercitati o soppressi e se del caso, la limitazione o la soppressione del diritto d’opzione.
+
+<sup>2</sup>
+
+L’atto pubblico sulle constatazioni del consiglio d’amministrazione e sulla modifica dello statuto accerta che:
+
+- a. tutte le azioni sono state validamente sottoscritte;
+- b. i conferimenti promessi corrispondono al prezzo totale di emissione;
+- c. la prestazione dei conferimenti è stata effettuata conformemente alle esigenze legali, statutarie e alla deliberazione dell’assemblea generale;
+- d. i documenti giustificativi sono stati esibiti al pubblico ufficiale e al consiglio d’amministrazione. Tali documenti devono essere menzionati singolarmente;
+- e.[^47-1] non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+
+[^47-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 48
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio di un aumento ordinario del capitale contiene le indicazioni seguenti:
+
+- a. la qualifica di aumento ordinario del capitale;
+- b. la data della modifica dello statuto;
+- c. l’ammontare del capitale azionario dopo l’aumento;
+- d. l’ammontare dei conferimenti effettuati dopo l’aumento;
+- e. il numero, il valore nominale e la specie delle azioni dopo l’aumento;
+- f. se del caso, le azioni con diritto di voto privilegiato;
+- g. nel caso di azioni privilegiate, i diritti di preferenza ad esse inerenti;
+- h. se del caso, la limitazione della trasferibilità dell’azione;
+- i. se l’aumento è effettuato mediante conversione di capitale proprio liberamente disponibile, un rinvio a tale fatto;
+- j.[^48-1] nel caso in cui vengono emesse azioni al portatore e la società non aveva ancora azioni al portatore: il fatto che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^48-2].
+
+<sup>2</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoversi 2 e 3.
+
+[^48-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^48-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+### Sezione 3: Aumento del capitale autorizzato
+
+#### Art. 49
+
+**Decisione di autorizzazione dell’assemblea generale**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della deliberazione dell’assemblea generale concernente un aumento del capitale autorizzato occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico sulla deliberazione dell’assemblea generale concernente l’autorizzazione rilasciata dal consiglio d’amministrazione;
+- b. lo statuto modificato.
+
+<sup>2</sup>
+
+Lo statuto contiene le indicazioni seguenti (art. 650 cpv. 2, 651 cpv. 2 e 3 CO):
+
+- a. l’ammontare nominale del capitale autorizzato e l’ammontare dei conferimenti da effettuare;
+- b. il numero, il valore nominale e la specie delle azioni;
+- c. se del caso, le azioni con diritto di voto privilegiato;
+- d. nel caso di azioni privilegiate, i diritti di preferenza ad esse inerenti;
+- e. se del caso, le limitazioni della trasferibilità delle azioni;
+- f. nel caso di vantaggi speciali, il loro contenuto e valore nonché il nome dei beneficiari;
+- g. l’utilizzazione dei diritti d’opzione non esercitati o soppressi e, se del caso, la limitazione o la soppressione del diritto d’opzione.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene:
+
+- a. l’indicazione del capitale autorizzato con un rinvio allo statuto per i dettagli;
+- b. la data della deliberazione dell’assemblea generale in merito alla modifica dello statuto.
+
+#### Art. 50
+
+**Deliberazione d’aumento e constatazioni del consiglio d’amministrazione**
+
+<sup>1</sup> Con la notificazione per l’iscrizione della deliberazione del consiglio d’amministrazione concernente un aumento del capitale azionario occorre fornire all’ufficio del registro di commercio i documenti giustificativi di cui all’articolo 46; in luogo dell’atto pubblico concernente la deliberazione dell’assemblea generale, occorre fornire la deliberazione del consiglio d’amministrazione sull’aumento del capitale azionario.
+
+<sup>2</sup>
+
+La deliberazione d’aumento del capitale del consiglio d’amministrazione deve corrispondere alla deliberazione dell’assemblea generale e contenere le indicazioni seguenti:
+
+- a. l’ammontare nominale dell’aumento del capitale azionario;
+- b. il numero delle nuove azioni;
+- c. il prezzo di emissione;
+- d. la specie dei conferimenti;
+- e. nel caso di conferimenti in natura, il loro oggetto e la stima, il nome del conferente e le azioni che gli sono attribuite;
+- f. nel caso di beni da assumere, il loro oggetto, il nome dell’alienante e la controprestazione della società;
+- g. nel caso di una compensazione, l’indicazione dell’importo del credito compensato nonché delle azioni emesse a tale scopo;
+- h. l’adeguamento dell’ammontare nominale del capitale autorizzato o lo stralcio della disposizione statutaria relativa all’aumento di capitale autorizzato.
+
+<sup>3</sup> L’atto pubblico concernente le modifiche statutarie e le constatazioni del consiglio d’amministrazione contiene le indicazioni di cui all’articolo 47 capoverso 2.
+
+<sup>4</sup> Se l’aumento del capitale è notificato all’ufficio del registro di commercio dopo lo scadere dell’autorizzazione del consiglio d’amministrazione, non è più possibile iscrivere l’aumento di capitale.
+
+<sup>5</sup> Al contenuto dell’iscrizione si applica per analogia l’articolo 48.
+
+<sup>6</sup> Se per la durata di validità dell’autorizzazione del consiglio d’amministrazione il capitale azionario non subisce alcun aumento pari all’ammontare nominale, la società notifica per l’iscrizione all’ufficio del registro di commercio lo stralcio della disposizione statutaria relativa all’aumento del capitale autorizzato.
+
+### Sezione 4: Aumento condizionale del capitale
+
+#### Art. 51
+
+**Decisione di concessione dell’assemblea generale**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della deliberazione dell’assemblea generale concernente un aumento condizionale di capitale occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente la decisione di concessione dell’assemblea generale;
+- b. lo statuto modificato;
+- c.[^51-1] nel caso in cui vengono emesse azioni al portatore e la società non aveva ancora azioni al portatore: la dichiarazione delle persone notificanti l’iscrizione che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^51-2].
+
+<sup>2</sup>
+
+Lo statuto contiene le indicazioni seguenti (art. 653*b* CO):
+
+- a. l’ammontare nominale del capitale condizionale;
+- b. il numero, il valore nominale e la specie delle azioni;
+- c. il numero massimo di azioni che possono essere emesse nel quadro dell’esercizio dei diritti di conversione o d’opzione;
+- d. se del caso, le azioni con diritto di voto privilegiato;
+- e. nel caso di azioni privilegiate, i diritti di preferenza ad esse inerenti;
+- f. se del caso, le limitazioni della trasferibilità delle azioni;
+- g. la cerchia delle persone che beneficiano di un diritto di conversione o d’opzione;
+- h. la soppressione o la limitazione dei diritti d’opzione degli azionisti.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. l’indicazione del capitale condizionale con un rinvio allo statuto per i dettagli;
+- b. la data della deliberazione dell’assemblea generale concernente la modifica dello statuto.
+
+[^51-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^51-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 52
+
+**Constatazioni e modifica statutaria del consiglio d’amministrazione**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione delle deliberazioni del consiglio d’amministrazione concernenti le constatazioni sull’esercizio dei diritti di conversione e d’opzione nonché la modifica dello statuto, occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente le deliberazioni del consiglio d’amministrazione;
+- b. lo statuto modificato;
+- c. l’attestazione di verifica di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato;
+- d.[^52-1] nel caso in cui vengono emesse azioni al portatore e la società non aveva ancora azioni al portatore: la prova che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^52-2].
+
+<sup>2</sup>
+
+L’atto pubblico concernente le deliberazioni del consiglio d’amministrazione corrisponde alla deliberazione dell’assemblea generale e contiene le indicazioni seguenti:
+
+- a.
+
+  le constatazioni del consiglio d’amministrazione concernenti:
+
+  - 1\. il numero, il valore nominale e la specie delle nuove azioni emesse,
+  - 2\. se del caso, le azioni con diritto di voto privilegiato,
+  - 3\. nel caso di azioni privilegiate, i diritti di preferenza ad esse inerenti,
+  - 4\. se del caso, la limitazione della trasferibilità delle azioni,
+  - 5\. l’ammontare del capitale azionario al termine dell’esercizio annuale o al momento della verifica;
+
+- b.
+
+  le deliberazioni del consiglio d’amministrazione concernenti la modifica dello statuto circa:
+
+  - 1\. l’ammontare del capitale azionario e la sua liberazione,
+  - 2\. l’ammontare ridotto del capitale condizionale;
+
+- c. la constatazione del pubblico ufficiale che l’attestazione di verifica contiene le indicazioni richieste (art. 653*g* CO).
+
+<sup>3</sup> Al contenuto dell’iscrizione si applica per analogia l’articolo 48.
+
+[^52-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^52-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 53
+
+**Abrogazione della disposizione statutaria sull’aumento condizionale del capitale**
+
+<sup>1</sup> Se i diritti di conversione o d’opzione sono estinti, la società notifica all’ufficio del registro di commercio la modifica dello statuto per l’iscrizione.
+
+<sup>2</sup>
+
+Con la notificazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente la deliberazione del consiglio d’amministrazione sull’abrogazione della disposizione statutaria;
+- b. la relazione di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato;
+- c. lo statuto modificato.
+
+<sup>3</sup>
+
+L’atto pubblico contiene le indicazioni seguenti:
+
+- a. la deliberazione del consiglio d’amministrazione concernente l’abrogazione della disposizione statutaria sull’aumento condizionale di capitale;
+- b. la constatazione del pubblico ufficiale che la relazione di revisione contiene le indicazioni richieste.
+
+<sup>4</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. la data della modifica dello statuto;
+- b. un’indicazione che la disposizione sull’aumento condizionale di capitale è stata abrogata a seguito dell’esercizio o dell’estinzione dei diritti di conversione o d’opzione.
+
+### Sezione 5: Conferimenti ulteriori
+
+#### Art. 54
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di conferimenti ulteriori di capitale azionario occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente le deliberazioni del consiglio d’amministrazione sulla modifica dello statuto e sulle sue constatazioni;
+- b. lo statuto modificato;
+- c. nel caso di conferimenti in denaro, un’attestazione che indichi presso quale banca sono depositati i conferimenti, sempreché la banca non sia menzionata nell’atto pubblico;
+- d.
+
+  nel caso di una liberazione mediante conversione di capitale proprio liberamente disponibile:
+
+  - 1\. il conto annuale approvato o il bilancio intermedio,
+  - 2\. la relazione di un revisore abilitato,
+  - 3\. la deliberazione dell’assemblea generale documentata da un atto pubblico secondo cui le riserve libere sono messe a disposizione del consiglio d’amministrazione per la liberazione successiva,
+  - 4\. un rapporto del consiglio d’amministrazione firmato da un membro dello stesso,
+  - 5\. un’attestazione di verifica senza riserve da parte di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato;
+
+- e.
+
+  in caso di conferimenti in natura, assunzione di beni o compensazione:
+
+  - 1\. un rapporto del consiglio d’amministrazione firmato da un membro dello stesso,
+  - 2\. un’attestazione di verifica senza riserve da parte di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato,
+  - 3\. se del caso, i contratti dei conferimenti in natura con gli allegati richiesti e i contratti di assunzione di beni con gli allegati richiesti;
+
+- f.[^54-1] ...
+
+<sup>2</sup>
+
+L’atto pubblico concernente i conferimenti ulteriori contiene le indicazioni seguenti:
+
+- a. la constatazione che i conferimenti ulteriori sono stati effettuati conformemente alle esigenze legali e statutarie o alla deliberazione del consiglio d’amministrazione;
+- b. se del caso, la deliberazione del consiglio d’amministrazione concernente l’inserimento delle disposizioni necessarie in materia di conferimenti in natura e di assunzioni di beni nello statuto;
+- c. la deliberazione del consiglio d’amministrazione sulla modifica dello statuto concernente l’entità dei conferimenti effettuati;
+- d. la menzione di tutti i documenti giustificativi e l’attestazione del pubblico ufficiale che tali documenti sono stati esibiti a lui stesso e al consiglio d’amministrazione;
+- e.[^54-2] la constatazione che non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. la data della modifica dello statuto;
+- b. il nuovo ammontare dei conferimenti effettuati.
+
+<sup>4</sup> In caso di conferimenti in natura, assunzioni di beni o compensazioni di crediti, si applicano per analogia gli articoli 43 capoverso 3 e 45 capoversi 2 e 3. Se i conferimenti ulteriori di capitale sono effettuati mediante la conversione di capitale proprio liberamente disponibile, occorre menzionare tale fatto.
+
+[^54-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^54-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Sezione 6: Riduzione del capitale azionario
+
+#### Art. 55
+
+**Riduzione ordinaria del capitale**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una riduzione del capitale azionario occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a.
+
+  l’atto pubblico concernente la deliberazione dell’assemblea generale circa:
+
+  - 1\. la constatazione dell’esito della relazione di revisione,
+  - 2\. le modalità secondo cui è effettuata la riduzione del capitale azionario,
+  - 3\. la modifica dello statuto;
+
+- b.
+
+  l’atto pubblico concernente il rispetto delle norme legali circa (art. 734 CO):
+
+  - 1\. la diffida ai creditori,
+  - 2\. il termine di produzione dei crediti,
+  - 3\. il soddisfacimento o la garanzia dei crediti;
+
+- c. la relazione di revisione di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato;
+- d. lo statuto modificato.
+
+<sup>2</sup> La relazione di revisione attesta che i crediti dei creditori rimangono interamente coperti nonostante la riduzione del capitale azionario.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. la qualifica di riduzione del capitale azionario;
+- b. la data della modifica dello statuto;
+- c. la menzione se la riduzione del capitale azionario è effettuata mediante una riduzione del valore nominale delle azioni o mediante un annullamento delle azioni;
+- d. l’ammontare della riduzione del capitale azionario;
+- e. l’impiego dell’ammontare della riduzione;
+- f. l’ammontare del capitale azionario dopo la sua riduzione;
+- g. l’ammontare dei conferimenti effettuati dopo la riduzione del capitale azionario;
+- h. il numero, il valore nominale e la specie delle azioni dopo la riduzione del capitale azionario.
+
+<sup>4</sup> Se la società ha riscattato e annullato azioni proprie, si applica la procedura di riduzione del capitale. La riduzione del capitale azionario e il numero delle azioni deve essere iscritta nel registro di commercio anche quando una somma corrispondente sia stata inserita nel passivo del bilancio.
+
+#### Art. 56
+
+**Riduzione del capitale azionario per eliminare un’eccedenza passiva accertata nel bilancio**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una riduzione del capitale azionario per eliminare un’eccedenza passiva accertata nel bilancio, occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a.
+
+  l’atto pubblico concernente la deliberazione dell’assemblea generale circa:
+
+  - 1\. la constatazione dell’esito della relazione di revisione,
+  - 2\. le modalità secondo cui è effettuata la riduzione del capitale azionario,
+  - 3\. la modifica dello statuto;
+
+- b. lo statuto modificato;
+- c. la relazione di revisione di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato.
+
+<sup>2</sup>
+
+La relazione di revisione attesta che:
+
+- a. i crediti dei creditori rimangono interamente coperti nonostante la riduzione del capitale azionario;
+- b. l’ammontare della riduzione del capitale azionario non supera quello dell’eccedenza passiva accertata nel bilancio e risultante da perdite (art. 735 CO).
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che il capitale azionario è stato ridotto per eliminare un’eccedenza passiva accertata nel bilancio;
+- b. la data della modifica dello statuto;
+- c. la menzione se la riduzione del capitale azionario è effettuata mediante una riduzione del valore nominale delle azioni o mediante un annullamento delle azioni;
+- d. l’ammontare della riduzione del capitale azionario;
+- e. l’ammontare del capitale azionario dopo la sua riduzione;
+- f. l’ammontare dei conferimenti effettuati dopo la riduzione del capitale azionario;
+- g. il numero, il valore nominale e la specie delle azioni dopo la riduzione del capitale azionario.
+
+#### Art. 57
+
+**Riduzione e aumento simultanei del capitale pari o superiore all’ammontare anteriore**
+
+<sup>1</sup>
+
+Se con la riduzione del capitale azionario è deciso simultaneamente un aumento del capitale pari o superiore all’ammontare anteriore, con la notificazione per l’iscrizione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente la deliberazione dell’assemblea generale;
+- b. i documenti giustificativi necessari per un aumento ordinario del capitale azionario;
+- c. lo statuto in caso di modifica.
+
+<sup>2</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che il capitale azionario è stato ridotto e simultaneamente riaumentato;
+- b. l’ammontare della riduzione del capitale azionario;
+- c. la menzione se la riduzione del capitale azionario è effettuata mediante una riduzione del valore nominale delle azioni o mediante un annullamento delle azioni;
+- d. il nuovo ammontare del capitale azionario se è superiore all’ammontare anteriore;
+- e. il numero, il valore nominale e la specie delle azioni dopo l’aumento del capitale azionario;
+- f. il nuovo ammontare dei conferimenti effettuati;
+- g. se del caso, le azioni con diritto di voto privilegiato;
+- h. nel caso di azioni privilegiate, i diritti di preferenza ad esse inerenti;
+- i. se del caso, la limitazione della trasferibilità delle azioni;
+- j. la nuova data dello statuto in caso di modifica.
+
+<sup>3</sup> Se il capitale azionario è ridotto a zero e nuovamente aumentato in vista di un risanamento, nel registro di commercio è iscritto l’annullamento delle azioni emesse precedentemente.
+
+<sup>4</sup> Se, al momento dell’aumento del capitale, vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applicano per analogia gli articoli 43 capoverso 3 e 45 capoversi 2 e 3. Se l’aumento del capitale è effettuato mediante la conversione di capitale proprio liberamente disponibile, si applicano gli articoli 46 capoverso 3 lettera d e 48 capoverso 1 lettera i.
+
+#### Art. 58
+
+**Riduzione e aumento simultanei del capitale a un ammontare inferiore all’ammontare precedente**
+
+Se con la riduzione del capitale azionario è deciso simultaneamente un aumento del capitale a un ammontare inferiore all’ammontare del capitale azionario precedente, la riduzione è retta dagli articoli 55 e 56. L’articolo 57 si applica a titolo complementare.
+
+#### Art. 59
+
+**Riduzione dei conferimenti effettuati**
+
+Le disposizioni della presente ordinanza riguardanti la riduzione del capitale azionario si applicano per analogia alla riduzione dei conferimenti effettuati sul capitale azionario.
+
+### Sezione 7: Capitale di partecipazione
+
+#### Art. 60
+
+Le disposizioni della presente ordinanza riguardanti il capitale azionario si applicano per analogia all’aumento e alla riduzione del capitale di partecipazione nonché ai conferimenti ulteriori sul capitale di partecipazione.
+
+### Sezione 8: Disposizioni speciali riguardanti la revisione e l’ufficio di revisione
+
+#### Art. 61
+
+**Iscrizione dell’ufficio di revisione**
+
+<sup>1</sup> Un ufficio di revisione è iscritto nel registro di commercio soltanto se effettua una revisione ordinaria o una revisione limitata.
+
+<sup>2</sup> L’ufficio del registro di commercio verifica consultando il registro dell’Autorità federale di sorveglianza dei revisori se l’ufficio di revisione è abilitato.
+
+<sup>3</sup> Un ufficio di revisione non può essere iscritto se vi sono circostanze che fanno presumere un rapporto di dipendenza.
+
+#### Art. 62
+
+**Rinuncia a una revisione limitata**
+
+<sup>1</sup>
+
+Le società anonime che non eseguono la revisione ordinaria o limitata forniscono all’ufficio del registro di commercio, insieme alla notificazione per l’iscrizione della rinuncia, una dichiarazione dalla quale risulta che:
+
+- a. la società non adempie le condizioni per essere soggetta alla revisione ordinaria;
+- b. la società non vanta più di 10 posti a tempo pieno in media all’anno;
+- c. tutti gli azionisti hanno rinunciato a una revisione limitata.
+
+<sup>2</sup> Tale dichiarazione è firmata da almeno un membro del consiglio d’amministrazione. Una copia dei documenti determinanti aggiornati come i conti economici, i bilanci, i rapporti annuali, le dichiarazioni di rinuncia degli azionisti o il verbale dell’assemblea generale sono allegati alla dichiarazione. Tali documenti non soggiacciono alla pubblicità del registro di commercio conformemente agli articoli 10–12 e sono archiviati separatamente.
+
+<sup>3</sup> La dichiarazione può essere consegnata già al momento della costituzione.
+
+<sup>4</sup> L’ufficio del registro di commercio può esigere il rinnovo della dichiarazione.
+
+<sup>5</sup> Se del caso, il consiglio d’amministrazione adegua lo statuto e notifica la cancellazione o l’iscrizione dell’ufficio di revisione all’ufficio del registro di commercio.
+
+### Sezione 9: Scioglimento e cancellazione
+
+#### Art. 63
+
+**Scioglimento**
+
+<sup>1</sup> Se l’assemblea generale delibera lo scioglimento della società anonima in vista della sua liquidazione, lo scioglimento è notificato al registro di commercio per l’iscrizione.
+
+<sup>2</sup>
+
+Con la notificazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente la decisione di scioglimento dell’assemblea generale e, se del caso, la designazione dei liquidatori e il loro diritto di firma;
+- b. una prova che i liquidatori hanno accettato la loro elezione.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che la società viene sciolta;
+- b. la data della deliberazione dell’assemblea generale;
+- c.[^63-1] la ditta con la menzione «in liquidazione» o «in liq.»;
+- d. i liquidatori;
+- e. se del caso, le modifiche riguardanti le autorizzazioni a firmare iscritte;
+- f. se del caso, l’indirizzo della liquidazione;
+- g. se del caso, l’indicazione che le limitazioni statutarie di trasferibilità delle azioni o dei buoni di partecipazione sono soppresse e la relativa iscrizione nel registro di commercio è cancellata.
+
+<sup>4</sup> Sono fatte salve le disposizioni concernenti le iscrizioni d’ufficio.
+
+[^63-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 64
+
+**Revoca dello scioglimento**
+
+<sup>1</sup> Se l’assemblea generale revoca la sua decisione di scioglimento, la revoca dello scioglimento è notificata al registro di commercio per l’iscrizione.
+
+<sup>2</sup>
+
+Con la notificazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente la deliberazione dell’assemblea generale;
+- b. la prova dei liquidatori che non si è ancora proceduto alla ripartizione del patrimonio;
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che lo scioglimento viene revocato;
+- b. la data della deliberazione dell’assemblea generale;
+- c. la ditta senza la menzione «in liquidazione»;
+- d. le modifiche necessarie riguardanti le persone iscritte;
+- e. nel caso di una limitazione della trasferibilità delle azioni o dei buoni di partecipazione, un rinvio allo statuto per i dettagli.
+
+#### Art. 65
+
+**Cancellazione**
+
+<sup>1</sup> Con la notificazione per l’iscrizione della cancellazione della società, i liquidatori forniscono la prova che le diffide ai creditori sono state pubblicate nel Foglio ufficiale svizzero di commercio in conformità della legge.
+
+<sup>2</sup> Se è notificata la cancellazione di una società anonima dal registro di commercio, l’ufficio del registro di commercio la comunica alle autorità fiscali federali e cantonali. È possibile procedere alla cancellazione soltanto dopo che queste autorità vi hanno dato il loro consenso.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che la società viene cancellata;
+- b. il motivo della cancellazione.
+
+### Capitolo 4: Società in accomandita per azioni
+
+#### Art. 66
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una società in accomandita per azioni occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto costitutivo autentico;
+- b. lo statuto;
+- c. il verbale della seduta costitutiva dell’amministrazione con l’elezione del presidente e, se del caso, l’attribuzione del diritto di firma a terzi;
+- d. una prova che i membri dell’ufficio di vigilanza hanno accettato la loro elezione;
+- e. in caso di conferimenti in denaro, un’attestazione in cui figuri presso quale banca sono stati depositati i conferimenti, sempreché la banca non sia menzionata nell’atto pubblico;
+- f. nel caso di cui all’articolo 117 capoverso 3, una dichiarazione del domiciliatario secondo la quale egli concede alla società un domicilio legale nel luogo di sede di quest’ultima;
+- g.[^66-1] ...
+- h.[^66-2] in caso di azioni al portatore: la prova che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^66-3].
+
+<sup>2</sup> Le indicazioni che già figurano nell’atto costitutivo non necessitano di altri documenti giustificativi.
+
+<sup>3</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 43 capoverso 3.
+
+[^66-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^66-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^66-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 67
+
+**Atto costitutivo**
+
+L’atto costitutivo autentico contiene le indicazioni seguenti:
+
+- a. i dati personali dei promotori e, se del caso, dei loro rappresentanti;
+- b. la dichiarazione dei promotori di costituire una società in accomandita per azioni;
+- c. la determinazione dello statuto e la menzione dei membri dell’amministrazione nello statuto;
+- d. la dichiarazione dei promotori limitatamente responsabili circa la sottoscrizione delle azioni con l’indicazione del numero, del loro valore nominale, della specie, della categoria e del prezzo di emissione delle azioni e l’impegno incondizionato di effettuare un conferimento corrispondente al prezzo di emissione;
+- e.
+
+  la constatazione dei promotori che:
+
+  - 1\. tutte le azioni sono state validamente sottoscritte,
+  - 2\. i conferimenti promessi corrispondono al prezzo totale di emissione,
+  - 3\. i conferimenti sono conformi alle esigenze legali e statutarie,
+  - 4\.[^67-1] non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+
+- f. l’elezione dei membri dell’ufficio di vigilanza;
+- g. la menzione di tutti i documenti giustificativi e l’attestazione del pubblico ufficiale che tali documenti sono stati esibiti a lui stesso e ai promotori;
+- h. la firma dei promotori.
+
+[^67-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 68
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio di una società in accomandita per azioni contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società in accomandita;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data dello statuto;
+- f. se limitata, la durata della società;
+- g. lo scopo;
+- h. l’ammontare del capitale azionario, l’ammontare dei conferimenti effettuati nonché il numero, il valore nominale e la specie delle azioni;
+- i. se del caso, le azioni con diritto di voto privilegiato;
+- j. se la società dispone di un capitale di partecipazione, il suo ammontare, l’ammontare dei conferimenti effettuati nonché il numero, il valore nominale e la specie dei buoni di partecipazione;
+- k. nel caso di azioni privilegiate o di buoni di partecipazione privilegiati, i diritti di preferenza ad esse inerenti;
+- l. in caso di una limitazione della trasmissibilità delle azioni o dei buoni di partecipazione, un rinvio allo statuto per i dettagli;
+- m. se sono stati emessi buoni di godimento, il loro numero e i diritti ad essi inerenti;
+- n. i membri dell’amministrazione indicando la loro qualità di soci illimitatamente responsabili;
+- o. le persone autorizzate a rappresentare;
+- p. i membri dell’ufficio di vigilanza;
+- q. se la società non effettua una revisione ordinaria o una revisione limitata, un rinvio a tale fatto nonché la data della dichiarazione dell’amministrazione conformemente all’articolo 62 capoverso 2;
+- r. se la società effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione;
+- s. l’organo di pubblicazione legale e, se del caso, gli altri organi di pubblicazione;
+- t. la forma delle comunicazioni dell’amministrazione ai soci prevista dallo statuto;
+- u.[^68-1] in caso di azioni al portatore: il fatto che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^68-2].
+
+<sup>2</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoversi 2 e 3.
+
+[^68-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^68-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 69
+
+**Modifiche nella composizione dell’amministrazione**
+
+<sup>1</sup>
+
+Se dovessero esserci modifiche nella composizione dell’amministrazione, con la notificazione occorre fornire i documenti giustificativi seguenti:
+
+- a. un atto pubblico sulla deliberazione dell’assemblea generale che modifica lo statuto;
+- b. lo statuto modificato;
+- c. se del caso, l’approvazione di tutti i soci sinora illimitatamente responsabili.
+
+<sup>2</sup>
+
+Se a un amministratore sono revocati i diritti di gestione e di rappresentanza, l’iscrizione nel registro di commercio contiene:
+
+- a. la data della revoca;
+- b. la persona interessata;
+- c. il fatto che, in seguito a tale revoca, la responsabilità illimitata della persona interessata per gli obblighi della società nati posteriormente decade;
+- d. se lo statuto è stato modificato, la sua nuova data;
+- e.[^69-1] la ditta modificata, in quanto debba essere adeguata.
+
+[^69-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 70
+
+**Applicazione delle disposizioni concernenti la società anonima**
+
+Ove dalla legge e dall’ordinanza non risulti diversamente, si applicano le prescrizioni della presente ordinanza concernenti la società anonima.
+
+### Capitolo 5: Società a garanzia limitata
+
+### Sezione 1: Costituzione
+
+#### Art. 71
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione della costituzione di una società a garanzia limitata occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto costitutivo autentico;
+- b. lo statuto;
+- c. se la funzione dei gerenti si fonda su un’elezione, la prova che le persone interessate hanno accettato la loro elezione;
+- d. se del caso, una prova che l’ufficio di revisione prescritto dalla legge ha accettato la sua elezione;
+- e. se del caso, la deliberazione dei promotori o, nella misura in cui lo statuto lo preveda, la deliberazione dei gerenti che regola la presidenza della gestione;
+- f. se del caso, la deliberazione dei promotori o, sempreché lo statuto lo preveda, la deliberazione dei gerenti concernente la designazione delle altre persone autorizzate a rappresentare la società;
+- g. in caso di conferimenti in denaro, un’attestazione in cui figuri presso quale banca sono stati depositati i conferimenti, a meno che la banca non sia menzionata nell’atto pubblico;
+- h. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla società un domicilio legale nel luogo di sede di quest’ultima;
+- i.[^71-1] ...
+
+<sup>2</sup> Le indicazioni che già figurano nell’atto costitutivo non necessitano di altri documenti giustificativi.
+
+<sup>3</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 43 capoverso 3.
+
+[^71-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 72
+
+**Atto costitutivo**
+
+L’atto costitutivo autentico contiene le indicazioni seguenti:
+
+- a. i dati personali dei promotori e, se del caso, dei loro rappresentanti;
+- b. la dichiarazione dei promotori di costituire una società a garanzia limitata;
+- c. la conferma dei promotori che lo statuto è stato stabilito;
+- d. la dichiarazione di ogni promotore circa il numero di quote sociali da lui sottoscritte con l’indicazione del numero, del valore nominale, della categoria e del prezzo di emissione;
+- e.
+
+  la constatazione dei promotori che:
+
+  - 1\. tutte le quote sociali sono state validamente sottoscritte,
+  - 2\. i conferimenti corrispondono al prezzo totale di emissione,
+  - 3\. la prestazione dei conferimenti è conforme alle esigenze legali e se del caso alle esigenze statutarie,
+  - 4\. essi accettano l’obbligo statutario di effettuare versamenti suppletivi o di fornire prestazioni accessorie,
+  - 5\.[^72-1] non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi;
+
+- f. se i gerenti sono stati eletti, un rinvio a tale fatto e i pertinenti dati personali;
+- g. il fatto che l’ufficio di revisione è stato eletto o che la società rinuncia a una revisione;
+- h. la menzione di tutti i documenti giustificativi nonché l’attestazione del pubblico ufficiale che tali documenti sono stati esibiti a lui stesso e ai promotori;
+- i. le firme dei promotori.
+
+[^72-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 73
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio di una società a garanzia limitata contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società a garanzia limitata;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data dello statuto;
+- f. se limitata, la durata della società;
+- g. lo scopo;
+- h. l’ammontare del capitale sociale;
+- i. i soci, indicando il numero e il valore nominale delle loro quote sociali;
+- j. in caso di obblighi di effettuare versamenti suppletivi, un rinvio allo statuto per i dettagli;
+- k. in caso di obblighi statutari di fornire prestazioni accessorie inclusi i diritti preferenziali, di prelazione e di compera, un rinvio allo statuto per i dettagli;
+- l. se del caso, le quote sociali con diritto di voto;
+- m. nel caso di quote sociali privilegiate, i diritti di preferenza ad esse inerenti;
+- n. se la regolamentazione delle esigenze in materia di approvazione per il trasferimento di quote sociali deroga a quanto previsto dalla legge, un rinvio allo statuto per i dettagli;
+- o. se sono emessi buoni di godimento, il loro numero e i diritti ad essi inerenti;
+- p. i gerenti;
+- q. le persone autorizzate a rappresentare;
+- r. se la società non effettua una revisione ordinaria o una revisione limitata, un rinvio a tale fatto nonché la data della dichiarazione dei gerenti conformemente all’articolo 62 capoverso 2;
+- s. se la società effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione;
+- t. l’organo di pubblicazione legale e, se del caso, gli altri organi di pubblicazione;
+- u. la forma delle comunicazioni dei gerenti ai soci prevista dallo statuto.
+
+<sup>2</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoversi 2 e 3.
+
+### Sezione 2: Aumento del capitale sociale
+
+#### Art. 74
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup> L’aumento del capitale sociale è notificato per l’iscrizione all’ufficio del registro di commercio entro tre mesi dalla deliberazione dell’assemblea dei soci. Le notificazioni presentate dopo questo termine sono respinte.
+
+<sup>2</sup>
+
+Con la notificazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico sulla deliberazione dell’assemblea dei soci;
+- b. l’atto pubblico sulle constatazioni dei gerenti e sulla modifica dello statuto;
+- c. lo statuto modificato;
+- d.[^74-1] la relazione sull’aumento del capitale firmata da un gerente;
+- e. in caso di conferimenti in denaro, un’attestazione in cui figuri presso quale banca sono stati depositati i conferimenti, sempreché la banca non sia menzionata nell’atto pubblico;
+- f.[^74-2] ...
+
+<sup>3</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali o se l’aumento del capitale sociale è liberato dal capitale proprio, si applica per analogia l’articolo 46 capoverso 3.
+
+<sup>4</sup> Se i diritti d’opzione sono limitati o soppressi, si applica per analogia l’articolo 46 capoverso 4.
+
+[^74-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^74-2]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 75
+
+**Atti pubblici**
+
+<sup>1</sup>
+
+L’atto pubblico concernente la deliberazione dell’assemblea dei soci contiene le indicazioni seguenti:
+
+- a. il valore nominale o, se del caso, l’ammontare nominale massimo dell’aumento del capitale sociale;
+- b. il numero o, se del caso, il numero massimo nonché il valore nominale delle nuove quote sociali che devono essere emesse;
+- c. il prezzo di emissione o l’autorizzazione dei gerenti di fissarlo;
+- d. il momento a partire dal quale vi è il diritto a un dividendo;
+- e. la specie dei conferimenti;
+- f. nel caso di conferimenti in natura, il loro oggetto e la stima, il nome del conferente nonché le quote sociali che gli spettano;
+- g. nel caso di assunzioni di beni, il loro oggetto, il nome dell’alienante o la controprestazione della società;
+- h. nel caso di vantaggi speciali, il loro contenuto e valore nonché il nome dei beneficiari;
+- i. se del caso, le quote sociali con diritto di voto;
+- j. nel caso di quote sociali privilegiate, i diritti di preferenza ad esse inerenti;
+- k. una regolamentazione delle esigenze in materia di approvazione per il trasferimento di quote sociali derogante dalla legge;
+- l. l’obbligo di effettuare versamenti suppletivi o di fornire prestazioni accessorie compresi i diritti statutari preferenziali, di prelazione e di compera legati alle nuove quote sociali che devono essere emesse;
+- m. l’utilizzazione di diritti d’opzione non esercitati o soppressi e, se del caso, la limitazione o la soppressione del diritto d’opzione.
+
+<sup>2</sup>
+
+L’atto pubblico concernente le constatazioni dei gerenti e la modifica dello statuto constata che:
+
+- a. tutte le quote sociali sono state validamente sottoscritte;
+- b. i conferimenti corrispondono al prezzo totale di emissione;
+- c. i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge, dallo statuto e dalla deliberazione dell’assemblea dei soci;
+- d.[^75-1] laddove non siano già soci, i sottoscrittori accettano eventuali obblighi statutari di effettuare versamenti suppletivi o di fornire prestazioni accessorie, il divieto di concorrenza, i diritti preferenziali, di prelazione e di compera nonché le pene convenzionali;
+- e. i documenti giustificativi sono stati esibiti al pubblico ufficiale e ai gerenti. I documenti giustificativi devono essere menzionati singolarmente;
+- f.[^75-2] non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+
+[^75-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^75-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 76
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio di un aumento del capitale sociale contiene le indicazioni seguenti:
+
+- a. la data della modifica dello statuto;
+- b. l’ammontare del capitale sociale dopo l’aumento;
+- c. il numero e il valore nominale delle quote sociali dopo l’aumento del capitale;
+- d. le modifiche nella composizione dei soci;
+- e. se del caso, le quote sociali con diritto di voto;
+- f. nel caso di quote sociali privilegiate, i diritti di preferenza ad esse inerenti;
+- g. in caso di obblighi di effettuare versamenti suppletivi, un rinvio allo statuto per i dettagli;
+- h. in caso di obblighi statutari di fornire prestazioni accessorie compresi i diritti statutari preferenziali, di prelazione e di compera, un rinvio allo statuto per i dettagli;
+- i. in caso di una regolamentazione delle esigenze in materia di approvazione per il trasferimento di quote sociali derogante dalla legge, un rinvio allo statuto per i dettagli;
+- j. se l’aumento è stato effettuato mediante conversione di capitale proprio liberamente disponibile, un rinvio a tale fatto.
+
+<sup>2</sup> Se vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoversi 2 e 3.
+
+### Sezione 3: Riduzione del capitale sociale
+
+#### Art. 77
+
+**Riduzione ordinaria del capitale sociale**
+
+Alla riduzione del capitale sociale si applica per analogia l’articolo 55, per quanto la presente sezione non disponga altrimenti.
+
+#### Art. 78
+
+**Riduzione del capitale sociale per eliminare un’eccedenza passiva accertata nel bilancio**
+
+<sup>1</sup>
+
+Se mediante la riduzione del capitale sociale è eliminata un’eccedenza passiva accertata nel bilancio, con la notificazione per l’iscrizione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a.
+
+  l’atto pubblico concernente la deliberazione dell’assemblea dei soci circa:
+
+  - 1\. la constatazione dell’esito della relazione di revisione,
+  - 2\. le modalità secondo cui è effettuata una riduzione del capitale,
+  - 3\. la modifica dello statuto;
+
+- b. lo statuto modificato;
+- c. la relazione di revisione di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato.
+
+<sup>2</sup>
+
+La relazione di revisione attesta che:
+
+- a. i crediti dei creditori rimangono interamente coperti nonostante la riduzione di capitale;
+- b. l’ammontare della riduzione di capitale sociale non supera l’eccedenza passiva accertata nel bilancio risultante da perdite;
+- c. i soci hanno effettuato tutti i versamenti suppletivi previsti dallo statuto.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che la riduzione del capitale sociale è stata effettuata per eliminare un’eccedenza passiva accertata nel bilancio;
+- b. la data della modifica dello statuto;
+- c. la menzione se la riduzione del capitale è effettuata mediante una riduzione del valore nominale delle quote sociali o mediante un annullamento delle quote sociali;
+- d. l’ammontare della riduzione del capitale sociale;
+- e. l’ammontare del capitale sociale dopo la riduzione del capitale;
+- f. il numero e il valore nominale delle quote sociali dopo la riduzione del capitale sociale;
+- g. le modifiche nella composizione dei soci.
+
+#### Art. 79
+
+**Riduzione e aumento simultanei del capitale sociale pari o superiore all’ammontare anteriore**
+
+<sup>1</sup>
+
+Se con la riduzione del capitale sociale è deciso simultaneamente un aumento del capitale sociale pari o superiore all’ammontare anteriore, occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto pubblico concernente la deliberazione dell’assemblea dei soci;
+- b. i documenti giustificativi necessari per un aumento del capitale;
+- c. lo statuto in caso di modifica.
+
+<sup>2</sup> Se lo statuto prevede versamenti suppletivi, la relazione di revisione deve attestare che i soci hanno effettuato tutti i versamenti.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto della riduzione e dell’aumento simultanei del capitale sociale;
+- b. l’ammontare della riduzione del capitale sociale;
+- c. la menzione se la riduzione del capitale è effettuata mediante una riduzione del valore nominale o mediante un annullamento delle quote sociali;
+- d. il nuovo ammontare del capitale sociale se è superiore all’ammontare anteriore;
+- e. il numero e il valore nominale delle quote sociali dopo l’aumento del capitale sociale;
+- f. le modifiche nella composizione dei soci;
+- g. se del caso, le quote sociali con diritto di voto;
+- h. nel caso di quote sociali privilegiate, i diritti di preferenza ad esse inerenti;
+- i. in caso di obblighi di effettuare versamenti suppletivi, un rinvio allo statuto per i dettagli;
+- j. in caso di obblighi statutari di fornire prestazioni accessorie compresi i diritti statutari preferenziali, di prelazione e di compera, un rinvio allo statuto per i dettagli;
+- k. in caso di regolamentazione delle esigenze in materia di approvazione per il trasferimento di quote sociali derogante dalla legge, un rinvio allo statuto per i dettagli;
+- l. in caso di modifica, la nuova data dello statuto.
+
+<sup>4</sup> Se il capitale sociale è ridotto a zero e nuovamente aumentato in vista di un risanamento, nel registro di commercio sono iscritti l’annullamento delle quote sociali emesse precedentemente ed eventuali modifiche nella composizione dei soci.
+
+<sup>5</sup> Se al momento dell’aumento del capitale vi sono conferimenti in natura, assunzioni di beni, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoversi 2 e 3. Se è nuovamente aumentato il capitale sociale mediante conversione di capitale proprio liberamente disponibile, si applicano gli articoli 74 capoverso 3 e 76 capoverso 1 lettera j.
+
+#### Art. 80
+
+**Riduzione e aumento simultanei del capitale sociale a un ammontare inferiore all’ammontare precedente**
+
+Se con la riduzione del capitale sociale è deciso simultaneamente un aumento a un ammontare inferiore all’ammontare precedente del capitale sociale, la riduzione è retta dagli articoli 77 e 78. L’articolo 79 si applica a titolo complementare.
+
+#### Art. 81
+
+**Riduzione o soppressione dell’obbligo di effettuare versamenti suppletivi**
+
+Per la riduzione o la soppressione di un obbligo statutario di effettuare versamenti suppletivi si applica per analogia l’articolo 77.
+
+### Sezione 4: Trasferimento di quote sociali
+
+#### Art. 82
+
+<sup>1</sup> La società notifica per l’iscrizione all’ufficio del registro di commercio tutti i trasferimenti di quote sociali, indipendentemente dal fatto che i trasferimenti avvengano su base contrattuale o siano previsti dalla legge.
+
+<sup>2</sup>
+
+All’ufficio del registro di commercio occorre fornire:
+
+- a. un documento giustificativo concernente la cessione della quota sociale al nuovo socio;
+- b. se lo statuto non rinuncia all’approvazione da parte dell’assemblea dei soci, un documento giustificativo concernente il consenso per la cessione della quota sociale.
+
+<sup>3</sup> L’acquirente può essere iscritto nel registro di commercio soltanto se il trasferimento all’acquirente della quota sociale del socio iscritto è documentato senza lacune.
+
+### Sezione 5: Revisione, ufficio di revisione, scioglimento e cancellazione
+
+#### Art. 83
+
+Le disposizioni relative alla società anonima si applicano per analogia alla revisione, all’ufficio di revisione, allo scioglimento, alla revoca dello scioglimento e alla cancellazione della società a garanzia limitata.
+
+### Capitolo 6: Società cooperativa
+
+#### Art. 84
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione della costituzione di una società cooperativa occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. il verbale dell’assemblea costitutiva;
+- b. lo statuto firmato da un amministratore;
+- c. una prova che gli amministratori hanno accettato la loro elezione;
+- d. se del caso, una prova che l’ufficio di revisione previsto dalla legge ha accettato la sua elezione;
+- e. in caso di designazione di persone autorizzate a rappresentare, la pertinente deliberazione dell’assemblea costitutiva o dell’amministrazione;
+- f. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla società un domicilio legale nel luogo di sede di quest’ultima;
+- g.[^84-1] ...
+- h. se lo statuto prevede una responsabilità personale o un obbligo di effettuare versamenti suppletivi, l’elenco dei soci firmato da un amministratore.
+
+<sup>2</sup> Le indicazioni che già figurano nel verbale dell’assemblea costitutiva non necessitano di altri documenti giustificativi.
+
+<sup>3</sup>
+
+Se vi sono conferimenti in natura o assunzioni di beni, occorre fornire i documenti giustificativi supplementari seguenti:
+
+- a. i contratti dei conferimenti in natura con gli allegati necessari;
+- b. i contratti di assunzione di beni con gli allegati necessari;
+- c. la relazione sulla costituzione firmata da tutti i promotori.
+
+[^84-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 85
+
+**Verbale dell’assemblea costitutiva**
+
+Il verbale dell’assemblea costitutiva contiene le indicazioni seguenti:
+
+- a. i dati personali dei promotori e dei loro rappresentanti;
+- b. la dichiarazione dei promotori di costituire una società cooperativa;
+- c. la conferma dei promotori che lo statuto è stato stabilito;
+- d. se del caso, il fatto che la relazione scritta dei promotori concernente i conferimenti in natura o le assunzioni di beni è stata portata a conoscenza dell’assemblea e da questa deliberata;
+- e. l’elezione degli amministratori nonché i loro dati personali;
+- f. il fatto che l’ufficio di revisione è stato eletto o che la società rinuncia a una revisione;
+- g. le firme dei promotori;
+- h.[^85-1] la constatazione dei promotori che non vi sono altri conferimenti in natura, assunzioni di beni, previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+
+[^85-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 86
+
+[^86-1]
+
+[^86-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 87
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio di società cooperative contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società cooperativa;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data dello statuto;
+- f. se limitata, la durata della società;
+- g. lo scopo;
+- h. il valore nominale di eventuali certificati di quota;
+- i. nel caso di obblighi di fornire contributi o prestazioni dei soci, un rinvio allo statuto per i dettagli;
+- j. nel caso di una responsabilità personale o di un obbligo di effettuare versamenti suppletivi dei soci, un rinvio allo statuto per i dettagli;
+- k. gli amministratori;
+- l. le persone autorizzate a rappresentare;
+- m. se la società non effettua una revisione ordinaria o una revisione limitata, un rinvio a tale fatto nonché l’indicazione della data della dichiarazione di rinuncia dell’amministrazione conformemente all’articolo 62 capoverso 2;
+- n. se la società effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione;
+- o. l’organo di pubblicazione legale e, se del caso, gli altri organi di pubblicazione;
+- p. la forma delle comunicazioni dell’amministrazione ai soci prevista dallo statuto.
+
+<sup>2</sup> Se al momento della costituzione vi sono conferimenti in natura o assunzioni di beni, si applica per analogia l’articolo 45 capoverso 2 lettere a e b e capoverso 3.
+
+#### Art. 88
+
+**Elenco dei soci**
+
+<sup>1</sup> Con la comunicazione dell’ammissione o dell’uscita di un socio conformemente all’articolo 877 capoverso 1 CO, l’amministrazione fornisce, possibilmente in forma elettronica, un elenco aggiornato dei soci firmato da un amministratore.
+
+<sup>2</sup> Non si procede ad alcuna iscrizione nel registro di commercio; le comunicazioni e l’elenco possono tuttavia essere consultati.
+
+<sup>3</sup> È fatta salva la comunicazione da parte dei soci e dei loro eredi conformemente all’articolo 877 capoverso 2 CO.
+
+#### Art. 89
+
+**Revisione, ufficio di revisione, scioglimento e cancellazione**
+
+Le disposizioni relative alla società anonima si applicano per analogia alla revisione, all’ufficio di revisione, allo scioglimento, alla revoca dello scioglimento e alla cancellazione della società cooperativa.
+
+### Capitolo 7: Associazione
+
+#### Art. 90
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di un’associazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a.
+
+  un verbale dell’assemblea sociale circa:
+
+  - 1\. l’approvazione dello statuto,
+  - 2\. l’elezione dei membri della direzione,
+  - 3\. l’elezione dell’ufficio di revisione in quanto l’associazione sottostia all’obbligo di revisione;
+
+- b. lo statuto firmato da un membro della direzione;
+- c. la dichiarazione dei membri della direzione e, se del caso, dell’ufficio di revisione che accettano l’elezione;
+- d. in caso di designazione di persone autorizzate a rappresentare, la pertinente deliberazione dell’assemblea sociale o della direzione;
+- e. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede all’associazione un domicilio legale nel luogo di sede di quest’ultima;
+- f. se lo statuto prevede una responsabilità personale o un obbligo di effettuare versamenti suppletivi dei soci, l’elenco di questi ultimi.
+
+<sup>2</sup> Le indicazioni che già figurano nel verbale dell’assemblea sociale non necessitano di altri documenti giustificativi.
+
+<sup>3</sup> Se è già stato attribuito all’associazione, il numero d’identificazione delle imprese deve essere indicato nella notificazione.[^90-1]
+
+[^90-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 91
+
+**Condizioni speciali per l’iscrizione**
+
+Un ente giuridico non può essere iscritto nel registro di commercio come associazione se simultaneamente persegue un fine economico ed esercita un’impresa in forma commerciale.
+
+#### Art. 92
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio delle associazioni contiene le indicazioni seguenti:
+
+- a. il nome e il numero d’identificazione delle imprese;
+- b. la sede e il domicilio legale;
+- c. la forma giuridica;
+- d. se documentata, la data della costituzione;
+- e. la data dello statuto;
+- f. se limitata, la durata dell’associazione;
+- g. lo scopo;
+- h. i fondi, come i contributi, i ricavi del patrimonio sociale o dell’attività dell’associazione e le donazioni;
+- i. nel caso di una responsabilità personale o di un obbligo di effettuare versamenti suppletivi dei membri dell’associazione, un rinvio allo statuto per i dettagli;
+- j.[^92-1] ...
+- k. i membri della direzione;
+- l. le persone autorizzate a rappresentare;
+- m. se l’associazione effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione.
+
+[^92-1]: Abrogata dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, con effetto dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 93
+
+**Scioglimento e cancellazione**
+
+Le disposizioni relative alla società anonima si applicano per analogia allo scioglimento, alla revoca dello scioglimento e alla cancellazione dell’associazione.
+
+### Capitolo 8: Fondazione
+
+#### Art. 94
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della costituzione di una fondazione occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. l’atto di fondazione o un estratto autenticato della disposizione a causa di morte;
+- b. una prova concernente la designazione dei membri dell’organo superiore della fondazione e delle persone autorizzate a rappresentare;
+- c.[^94-1] eventualmente,il verbale dell’organo superiore della fondazione relativo alla designazione dell’ufficio di revisione o la decisione dell’autorità di vigilanza secondo cui la fondazione è esonerata dall’obbligo di designare un ufficio di revisione;
+- d. la dichiarazione dei membri dell’organo superiore della fondazione e, se del caso, dell’ufficio di revisione che accettano l’elezione;
+- e. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla fondazione un domicilio legale nel luogo di sede di quest’ultima;
+- f.[^94-2] se la fondazione è dedita alla previdenza professionale, la decisione dell’autorità di vigilanza relativa all’assunzione della vigilanza.
+
+<sup>2</sup> Le indicazioni che già figurano nell’atto di fondazione o nella disposizione a causa di morte non necessitano di altri documenti giustificativi.
+
+[^94-1]: Nuovo testo giusta l’all. 2 n. II 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^94-2]: Introdotta dall’art. 24 dell’O del 10 e 22 giu. 2011 concernente la vigilanza nella previdenza professionale, in vigore dal 1° gen. 2012 ([RU 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
+
+#### Art. 95
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio delle fondazioni contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una fondazione;
+- b. il nome e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e.[^95-1]
+
+  una delle date seguenti:
+
+  - 1\. la data dell’atto di fondazione,
+  - 2\. la data della disposizione a causa di morte,
+
+- 3\. in caso di fondazioni ecclesiastiche per le quali non è più possibile provare la costituzione: la data della costituzione della fondazione dichiarata nel verbale o nell’estratto del verbale ai sensi dell’articolo 181*a*;
+- f. lo scopo;
+- g. in caso di una riserva di modifica dello scopo a favore del fondatore, un rinvio allo statuto per i dettagli;
+- h.[^95-2] ...
+- i. i membri dell’organo superiore della fondazione;
+- j. le persone autorizzate a rappresentare;
+- k.[^95-3] se la fondazione soggiace a una vigilanza, l’autorità di vigilanza non appena ha assunto la sua attività;
+- l.[^95-4] se la fondazione non effettua una revisione ordinaria o una revisione limitata, l’indicazione di tale fatto nonché la data di un’eventuale decisione di esonero dell’autorità di vigilanza;
+- m. se la fondazione effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione;
+- n.[^95-5] se la fondazione è dedita alla previdenza professionale, l’autorità di vigilanza di cui all’articolo 61 della legge federale del 25 giugno 1982[^95-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
+- o.[^95-7] se si tratta di una fondazione ecclesiastica o di una fondazione di famiglia, l’indicazione di tale fatto.
+
+<sup>2</sup> ...[^95-8]
+
+[^95-1]: Nuovo testo giusta l’all. 2 n. II 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^95-2]: Abrogata dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, con effetto dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^95-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-4]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-5]: Introdotta dall’art. 24 dell’O del 10 e 22 giu. 2011 concernente la vigilanza nella previdenza professionale, in vigore dal 1° gen. 2012 ([RU 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
+[^95-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^95-7]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-8]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 96
+
+**Scambio di informazioni tra l’ufficio del registro di commercio e l’autorità di vigilanza**
+
+<sup>1</sup> L’ufficio del registro di commercio comunica la costituzione della fondazione all’autorità di vigilanza che, secondo le circostanze, appare competente. Le invia una copia dell’atto di fondazione o della disposizione a causa di morte nonché un estratto del registro di commercio.
+
+<sup>2</sup> L’autorità di vigilanza notifica all’ufficio del registro di commercio per l’iscrizione l’assunzione della vigilanza o trasmette senza indugio la comunicazione riguardante la costituzione della fondazione all’autorità competente.
+
+#### Art. 97
+
+**Modifiche, soppressione e cancellazione**
+
+<sup>1</sup>
+
+Se una decisione di un’autorità concerne un fatto che deve essere iscritto nel registro di commercio, tale autorità notifica la modifica all’ufficio del registro di commercio e fornisce i documenti giustificativi necessari. Tale è in particolare il caso per:
+
+- a. l’esonero della fondazione dall’obbligo di designare un ufficio di revisione;
+- b. la revoca dell’esonero di cui alla lettera a;
+- c. la modifica dello scopo e dell’organizzazione della fondazione;
+- d. le decisioni conformemente alla LFus;
+- e. la soppressione della fondazione in vista della liquidazione;
+- f. la constatazione della conclusione della liquidazione.
+
+<sup>2</sup> Le disposizioni concernenti lo scioglimento e la cancellazione della società anonima si applicano per analogia alla soppressione e alla cancellazione della fondazione per quanto l’autorità competente abbia ordinato una liquidazione.
+
+### Capitolo 9: Società in accomandita per investimenti collettivi di capitale
+
+#### Art. 98
+
+**Notificazione e documenti giustificativi**
+
+Con la notificazione per l’iscrizione di una società in accomandita per investimenti collettivi di capitale occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. il contratto di società;
+- b. se del caso, una prova che l’ufficio di revisione previsto dalla legge ha accettato la sua elezione.
+
+#### Art. 99
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio delle società in accomandita per investimenti collettivi di capitale contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società in accomandita per investimenti collettivi di capitale;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data del contratto di società;
+- f. la durata della società;
+- g. lo scopo;
+- h. l’importo del capitale accomandato totale;
+- i. se l’importo del capitale accomandato è fornito interamente o parzialmente sotto forma di un conferimento in natura, il suo oggetto e valore;
+- j. la ditta, la sede e il numero d’identificazione delle imprese dei soci illimitatamente responsabili e le persone fisiche che agiscono in loro nome;
+- k. le persone autorizzate a rappresentare;
+- l.[^99-1] il fatto che l’audit è effettuato conformemente alle disposizioni della LICol[^99-2];
+- m.[^99-3] la società di audit abilitata.
+
+[^99-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^99-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-3]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 100
+
+**Scioglimento e cancellazione**
+
+Allo scioglimento e alla cancellazione si applica per analogia l’articolo 42.
+
+### Capitolo 10: Società di investimento a capitale fisso (SICAF)
+
+#### Art. 101
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio delle società di investimento a capitale fisso contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società di investimento a capitale fisso;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data dello statuto;
+- f. se limitata, la durata della società;
+- g. lo scopo;
+- h. l’entità del capitale azionario con un rinvio al fatto che i conferimenti sono stati interamente effettuati;
+- i. il numero, il valore nominale e la specie delle azioni;
+- j. nel caso di una limitazione della trasmissibilità delle azioni, un rinvio allo statuto per i dettagli;
+- k. i membri del consiglio di amministrazione;
+- l. le persone autorizzate a rappresentare;
+- m.[^101-1] il fatto che l’audit è effettuato conformemente alle disposizioni della LICol;
+- n. [^101-2] la società di audit abilitata;
+- o. l’organo di pubblicazione legale e gli altri organi di pubblicazione;
+- p. la forma delle comunicazioni del consiglio d’amministrazione agli azionisti prevista dallo statuto.
+
+<sup>2</sup> Per il rimanente si applicano per analogia le disposizioni relative alla società anonima.
+
+[^101-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^101-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+### Capitolo 11: Società di investimento a capitale variabile (SICAV)
+
+#### Art. 102
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una società di investimento a capitale variabile occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:[^102-1]
+
+- a. l’atto costitutivo autentico;
+- b. lo statuto;
+- c. una prova che i membri del consiglio d’amministrazione hanno accettato la loro elezione;
+- d.[^102-2] una prova che la società di audit prevista dalla legge ha accettato la sua elezione;
+- e. il verbale della seduta costitutiva del consiglio d’amministrazione con l’elezione del presidente e l’attribuzione del diritto di firma;
+- f. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla società di investimento un domicilio legale nel luogo di sede di quest’ultima;
+- g.[^102-3] in caso di azioni al portatore: la prova che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^102-4].
+
+<sup>2</sup> Le indicazioni che già figurano nell’atto costitutivo non necessitano di altri documenti giustificativi.
+
+[^102-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^102-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^102-3]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^102-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 103
+
+**Atto costitutivo**
+
+L’atto pubblico concernente l’atto costitutivo contiene le indicazioni seguenti:
+
+- a. i dati personali dei promotori e dei loro rappresentanti;
+- b. la dichiarazione dei promotori di costituire una società di investimento a capitale variabile;
+- c. la conferma dei promotori che lo statuto è stato stabilito;
+- d. il fatto che i membri del consiglio d’amministrazione sono stati eletti e i loro dati personali;
+- e.[^103-1] il fatto che la società di audit è stata eletta e i suoi dati personali;
+- f. la menzione di tutti i documenti giustificativi e l’attestazione del pubblico ufficiale che tali documenti sono stati esibiti a lui stesso e ai promotori;
+- g. le firme dei promotori.
+
+[^103-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 104
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio delle società di investimento a capitale variabile contiene le indicazioni seguenti:
+
+- a. il fatto che si tratta della costituzione di una nuova società di investimento a capitale variabile;
+- b. la ditta e il numero d’identificazione delle imprese;
+- c. la sede e il domicilio legale;
+- d. la forma giuridica;
+- e. la data dello statuto;
+- f. se limitata, la durata della società;
+- g. lo scopo;
+- h. la specie delle azioni;
+- i. in caso di una limitazione della trasmissibilità delle azioni, segnatamente se la cerchia degli investitori è limitata a investitori qualificati, un rinvio allo statuto per i dettagli;
+- j. nel caso di diverse categorie di azioni, i diritti ad esse inerenti con un rinvio allo statuto per i dettagli;
+- k. i membri del consiglio di amministrazione;
+- l. le persone autorizzate a rappresentare;
+- m.[^104-1] il fatto che l’audit è effettuato conformemente alle disposizioni della LICol;
+- n.[^104-2] la società di audit abilitata;
+- o. l’organo di pubblicazione legale e gli altri organi di pubblicazione;
+- p. la forma delle comunicazioni del consiglio d’amministrazione agli azionisti prevista dallo statuto;
+- q.[^104-3] in caso di azioni al portatore: il fatto che la società ha titoli di partecipazione quotati in borsa oppure che tutte le azioni al portatore rivestono la forma di titoli contabili ai sensi della LTCo[^104-4].
+
+[^104-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^104-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^104-3]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^104-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+
+#### Art. 105
+
+**Scioglimento e cancellazione**
+
+Per lo scioglimento e la cancellazione si applicano per analogia gli articoli 63 e 65.
+
+### Capitolo 12: Istituto di diritto pubblico
+
+#### Art. 106
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di un istituto di diritto pubblico occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. il rinvio alle basi legali determinanti e alle decisioni di diritto pubblico dell’organo competente per la costituzione;
+- b. se del caso, lo statuto;
+- c. le decisioni, i verbali o gli estratti dei verbali relativi alla nomina dei membri dell’organo superiore di direzione o di amministrazione e delle persone autorizzate a rappresentare nonché, se del caso, alla designazione dell’ufficio di revisione;
+- d. le dichiarazioni dei membri dell’organo superiore di direzione o di amministrazione e, se del caso, dell’ufficio di revisione che accettano la loro elezione;
+- e. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede all’istituto di diritto pubblico un domicilio legale nel luogo di sede di quest’ultimo.
+
+<sup>2</sup> Le indicazioni che già figurano in altri documenti non necessitano di ulteriori documenti giustificativi.
+
+<sup>3</sup> Se è già stato attribuito all’istituto di diritto pubblico, il numero d’identificazione delle imprese deve essere indicato nella notificazione.[^106-1]
+
+[^106-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 107
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio degli istituti di diritto pubblico contiene le indicazioni seguenti:
+
+- a. la denominazione e il numero d’identificazione delle imprese;
+- b. la sede e il domicilio legale;
+- c. la forma giuridica;
+- d. le basi legali di diritto pubblico applicabili in materia nonché la data delle decisioni di diritto pubblico dell’organo competente per la costituzione;
+- e. se nota, la data della costituzione dell’istituto di diritto pubblico;
+- f. se vi è lo statuto, la sua data;
+- g. lo scopo;
+- h. nel caso di un capitale di dotazione, la sua entità;
+- i. in caso di responsabilità speciali, un rinvio ai documenti giustificativi per i dettagli, alle basi legali o alle decisioni dell’organo competente per la costituzione;
+- j. l’organizzazione;
+- k.. i membri dell’organo superiore di direzione o di amministrazione;
+- l. le persone autorizzate a rappresentare;
+- m. se del caso, l’ufficio di revisione.
+
+#### Art. 108
+
+**Diritto applicabile**
+
+Per il rimanente, agli istituti di diritto pubblico si applicano per analogia le prescrizioni della presente ordinanza sulle forme giuridiche del diritto privato.
+
+### Capitolo 13: Succursale
+
+### Sezione 1: Succursale di un ente giuridico con sede in Svizzera
+
+#### Art. 109
+
+**Notificazione e documenti**
+
+Con la notificazione per l’iscrizione di una succursale di un ente giuridico con sede in Svizzera occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. il verbale o l’estratto del verbale relativo alla designazione delle persone autorizzate a rappresentare soltanto la succursale;
+- b. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla succursale un domicilio legale nel luogo di sede di quest’ultima.
+
+#### Art. 110
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio della succursale contiene le indicazioni seguenti:
+
+- a. la ditta o il nome, il numero d’identificazione delle imprese, la forma giuridica e la sede dello stabilimento principale;
+- b. la ditta o il nome, il numero d’identificazione delle imprese, la sede e il domicilio legale della succursale;
+- c. il fatto che si tratta di una succursale;
+- d. lo scopo della succursale in quanto sia formulato in modo più restrittivo di quello dello stabilimento principale;
+- e. le persone autorizzate a rappresentare la succursale, sempreché il loro diritto di firma non risulti dall’iscrizione dello stabilimento principale.
+
+<sup>2</sup>
+
+L’iscrizione nel registro di commercio dello stabilimento principale contiene le indicazioni seguenti:
+
+- a. il numero d’identificazione delle imprese della succursale;
+- b. la sede della succursale.
+
+#### Art. 111
+
+**Coordinamento delle iscrizioni dello stabilimento principale e della succursale**
+
+<sup>1</sup> L’ufficio cantonale del registro di commercio presso la sede della succursale informa l’ufficio del registro di commercio presso la sede dello stabilimento principale in merito alla nuova iscrizione, al trasferimento di sede o alla cancellazione della succursale. L’ufficio del registro di commercio presso la sede dello stabilimento principale procede d’ufficio alle iscrizioni necessarie.
+
+<sup>2</sup> L’ufficio del registro di commercio presso la sede dello stabilimento principale informa l’ufficio del registro di commercio presso la sede della succursale in merito alle modifiche che richiedono un adeguamento dell’iscrizione della succursale, segnatamente se riguardano la forma giuridica, la ditta o il nome, la sede, lo scioglimento o la cancellazione. L’ufficio del registro di commercio presso la sede della succursale procede d’ufficio alle iscrizioni necessarie.
+
+#### Art. 112
+
+**Fusione, scissione, trasformazione e trasferimento di patrimonio**
+
+<sup>1</sup> In caso di fusione, scissione, trasformazione o trasferimento di patrimonio, le iscrizioni di succursali sono mantenute fintantoché non sia notificata la loro cancellazione.
+
+<sup>2</sup> Se una fusione, una scissione, una trasformazione o un trasferimento di patrimonio comporta modifiche di cui occorre tenere conto nell’iscrizione delle succursali, tali fatti devono essere notificati all’ufficio del registro di commercio. In caso di fusione o di scissione la notificazione compete all’ente giuridico assuntore.
+
+### Sezione 2: Succursale di un ente giuridico con sede all’estero
+
+#### Art. 113
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una succursale di un ente giuridico con sede all’estero occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. un estratto autenticato aggiornato del registro di commercio presso la sede dello stabilimento principale o, qualora l’estratto non contenga le indicazioni necessarie o non esista un’istituzione corrispondente al registro di commercio, una prova ufficiale attestante che lo stabilimento principale ha esistenza legale secondo le disposizioni del diritto straniero applicabile;
+- b. in caso di persone giuridiche, una copia autenticata dello statuto vigente o del documento equivalente dello stabilimento principale;
+- c. il verbale o l’estratto del verbale dell’organo dello stabilimento principale che ha deliberato la costituzione della succursale;
+- d. il verbale o l’estratto del verbale relativo alla designazione delle persone autorizzate a rappresentare la succursale;
+- e. nel caso di cui all’articolo 117 capoverso 3, la dichiarazione del domiciliatario secondo la quale egli concede alla succursale un domicilio legale nel luogo di sede di quest’ultima.
+
+<sup>2</sup> Il capoverso 1 lettere a e b non si applica se in Svizzera esiste già una succursale del medesimo ente giuridico iscritta nel registro di commercio.
+
+#### Art. 114
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio di succursali di enti giuridici con sede all’estero contiene le indicazioni seguenti:
+
+- a. la ditta o il nome, la forma giuridica e la sede dello stabilimento principale nonché, se del caso, un rinvio alla sua registrazione e al numero d’identificazione delle imprese di quest’ultimo;
+- b. l’entità e la moneta di un eventuale capitale dello stabilimento principale nonché informazioni sui conferimenti effettuati;
+- c. la ditta o il nome, il numero d’identificazione delle imprese, la sede e il domicilio legale della succursale;
+- d. il fatto che si tratta di una succursale;
+- e. lo scopo della succursale;
+- f. le persone autorizzate a rappresentare la succursale.
+
+<sup>2</sup> Alla formulazione dello scopo della succursale si applica l’articolo 118 capoverso 1.
+
+#### Art. 115
+
+**Cancellazione**
+
+<sup>1</sup> Se l’esercizio della succursale è cessato, occorre notificare la cancellazione della succursale per l’iscrizione.
+
+<sup>2</sup> Se al registro di commercio è notificata per l’iscrizione la cancellazione della succursale di un ente giuridico con sede all’estero, l’ufficio del registro di commercio comunica tale fatto alle autorità fiscali federali e cantonali. È possibile procedere alla cancellazione soltanto dopo che queste autorità hanno dato il loro consenso.
+
+<sup>3</sup> L’iscrizione nel registro di commercio contiene la cancellazione e il motivo della stessa.
+
+## Titolo 4: Disposizioni concernenti l’iscrizione applicabili a tutte le forme giuridiche
+
+### Capitolo 1: Numero d’identificazione delle imprese, forma giuridica, sede, scopo, dati personali e riferimento alle iscrizioni precedenti****
+
+[^tit4-chap1-1]
+
+[^tit4-chap1-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+
+#### Art. 116
+
+**Numero d’identificazione delle imprese**
+
+<sup>1</sup> Se l’ente giuridico non ne dispone ancora, il numero d’identificazione delle imprese gli è assegnato al più tardi al momento dell’iscrizione nel registro giornaliero.[^116-1]
+
+<sup>2</sup> Il numero d’identificazione delle imprese permette di identificare un ente giuridico in modo permanente. Tale numero è immutabile.
+
+<sup>3</sup>
+
+Il numero di identificazione delle imprese di un ente giuridico cancellato non può essere riassegnato. Il numero d’identificazione delle imprese viene riassegnato, quando:[^116-2]
+
+- a.[^116-3] un ente giuridico cancellato è nuovamente iscritto nel registro di commercio su ordine del tribunale;
+- b. una ditta individuale cancellata è nuovamente notificata per l’iscrizione nel registro di commercio su richiesta del titolare;
+- c.[^116-4] un’impresa individuale cancellata è iscritta d’ufficio nel registro di commercio nell’ambito di una procedura.[^116-5]
+
+<sup>4</sup> In caso di fusione mediante incorporazione, l’ente giuridico assuntore conserva il proprio numero d’identificazione delle imprese. In caso di fusione mediante combinazione, all’ente giuridico sorto dalla fusione è assegnato un nuovo numero d’identificazione delle imprese.
+
+<sup>5</sup> Se da una scissione nasce un nuovo ente giuridico, gli è assegnato un nuovo numero d’identificazione delle imprese. Gli altri enti giuridici che partecipano alla scissione conservano i rispettivi numeri di identificazione.
+
+<sup>6</sup> Se una società in nome collettivo o in accomandita continua l’attività come ditta individuale conformemente all’articolo 579 CO, il numero d’identificazione delle imprese rimane invariato.
+
+[^116-1]: Nuovo testo giusta l’all. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^116-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^116-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^116-4]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^116-5]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 116a
+
+**Indicazione della forma giuridica nella ditta**[^116a-1]
+
+<sup>1</sup> La forma giuridica nella ditta di una società commerciale o di una società cooperativa (art. 950 CO) dev’essere indicata con la pertinente designazione o con la sua abbreviazione in una lingua nazionale della Confederazione.
+
+<sup>2</sup> Le designazioni e le abbreviazioni sono elencate nell’allegato 2.
+
+[^116a-1]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+
+#### Art. 117
+
+**Sede, domicilio legale e altri indirizzi**[^117-1]
+
+<sup>1</sup> Come sede è iscritto il nome del Comune politico.
+
+<sup>2</sup> Come domicilio legale è iscritto l’indirizzo del luogo presso il quale l’ente giuridico è raggiungibile alla sua sede, con le indicazioni seguenti: via, numero civico, codice di avviamento postale e luogo. Può trattarsi dell’indirizzo dell’ente giuridico oppure di quello di un terzo (indirizzo c/o).
+
+<sup>3</sup> Se un ente giuridico dispone di un indirizzo c/o come domicilio legale, alla notificazione per l’iscrizione deve essere allegata una dichiarazione del domiciliatario come documento giustificativo.
+
+<sup>4</sup> Se le circostanze lasciano presumere che l’indirizzo notificato quale domicilio legale sia un indirizzo c/o senza essere dichiarato tale, l’ufficio del registro di commercio chiede all’ente giuridico di presentare la dichiarazione secondo il capoverso 3 oppure documenti giustificativi per un proprio indirizzo, in particolare un contratto di locazione o un estratto del registro fondiario.
+
+<sup>5</sup> Oltre all’indicazione della sede e del domicilio legale, ogni ente giuridico ha la facoltà di far iscrivere nel registro di commercio della sua sede altri indirizzi situati in Svizzera, in particolare un indirizzo di liquidazione o una casella postale.
+
+[^117-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 118
+
+**Scopo**
+
+<sup>1</sup> Lo scopo deve essere definito in modo tale da permettere a terzi di identificare chiaramente il campo d’attività dell’ente giuridico.
+
+<sup>2</sup> Per l’iscrizione l’ufficio del registro di commercio riprende inalterata la formulazione dello scopo dell’ente giuridico dallo statuto o dall’atto di fondazione.[^118-1]
+
+[^118-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 119
+
+**Dati personali**[^119-1]
+
+<sup>1</sup>
+
+Le iscrizioni riguardanti le persone fisiche contengono le indicazioni seguenti:
+
+- a. il cognome;
+- b. almeno un nome scritto per esteso;
+- c. su richiesta, nomi usuali, vezzeggiativi, nomi d’arte, cognomi d’affinità, nomi ricevuti in seno a un ordine religioso o cognomi dell’unione domestica registrata;
+- d. il Comune politico del luogo d’origine o, per i cittadini stranieri, la cittadinanza;
+- e. il Comune politico del domicilio o, in caso di domicilio all’estero, la località e lo Stato;
+- f. i titoli accademici svizzeri o quelli esteri equivalenti, se documentati;
+- g. la funzione che la persona riveste in seno all’ente giuridico;
+- h. il tipo di diritto di firma o l’indicazione che la persona non è autorizzata a firmare;
+- i. il numero personale non significante della banca dati centrale delle persone.
+
+<sup>2</sup> La grafia del cognome, del cognome prima del matrimonio e dei nomi rispetta quella che figura sul documento di identità usato per la rilevazione dei dati personali (art. 24*b*)
+
+<sup>3</sup>
+
+L’iscrizione di un ente giuridico in qualità di titolare di una funzione presso un altro ente giuridico deve contenere le indicazioni seguenti:
+
+- a.
+
+  se il titolare della funzione è iscritto nel registro di commercio:
+
+  - 1\. la ditta, il nome o la designazione nella versione iscritta nel registro di commercio,
+  - 2\. il numero d’identificazione delle imprese,
+  - 3\. la sede,
+  - 4\. la funzione;
+
+- b.
+
+  se il titolare della funzione non è iscritto nel registro di commercio:
+
+  - 1\. il nome o la designazione,
+  - 2\. se del caso, il numero d’identificazione delle imprese,
+  - 3\. l’indicazione che l’ente giuridico non è iscritto nel registro di commercio,
+  - 4\. la sede,
+  - 5\. la funzione.
+
+<sup>4</sup> Se una comunione giuridica è iscritta in qualità di titolare di una funzione presso un altro ente giuridico, l’iscrizione deve indicare le persone di cui è composta.
+
+[^119-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 120
+
+**Organi superiori di direzione o di amministrazione**
+
+Le ditte individuali, le società commerciali, le persone giuridiche, nonché gli istituti di diritto pubblico non possono essere iscritti nel registro di commercio come membri dell’organo superiore di direzione o di amministrazione o come persone autorizzate a firmare. Sono fatti salvi l’articolo 98 LICol[^120-1] nonché l’iscrizione di liquidatori, revisori, amministratori di fallimenti o commissari.
+
+[^120-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+
+#### Art. 121
+
+**Ufficio di revisione**
+
+Ove debba essere iscritto un ufficio di revisione, si tralascia di iscrivere se si tratta di un’impresa di revisione sotto sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato.
+
+#### Art. 122
+
+**Riferimento all’iscrizione precedente**[^122-1]
+
+Ogni iscrizione nel registro giornaliero contiene un riferimento alla pubblicazione nel Foglio ufficiale svizzero di commercio dell’ultima iscrizione concernente l’ente giuridico interessato. È necessario menzionare:
+
+- a.[^122-2] la data e il numero dell’edizione;
+- b. il numero di comunicazione della pubblicazione elettronica.
+
+[^122-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^122-2]: Nuovo testo giusta il n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
+
+### Capitolo 2: Trasferimento della sede
+
+### Sezione 1: In Svizzera
+
+#### Art. 123
+
+**Iscrizione presso la nuova sede**
+
+<sup>1</sup> Se un ente giuridico trasferisce la sua sede in un altro distretto del registro, deve procedere alla notificazione per l’iscrizione nel registro di commercio presso la nuova sede.
+
+<sup>2</sup>
+
+Con la notificazione per l’iscrizione del trasferimento della sede occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a.[^123-1] ...
+- b. se è necessario modificare lo statuto, la deliberazione concernente la modifica nonché una copia autenticata del nuovo statuto;
+- c. le firme autenticate delle persone che notificano l’iscrizione.
+
+<sup>3</sup> La decisione in merito all’iscrizione del trasferimento di sede compete all’ufficio del registro di commercio presso la nuova sede. Informa l’ufficio del registro di commercio presso la sede precedente in merito all’iscrizione da operare e gli ingiunge di procedere alla cancellazione dell’iscrizione precedente.[^123-2]
+
+<sup>4</sup> L’ufficio del registro di commercio presso la sede precedente trasmette all’ufficio del registro di commercio presso la nuova sede tutti i dati elettronici disponibili nel registro principale in previsione dell’iscrizione del trasferimento della sede. Tali dati sono ripresi nel registro principale senza ulteriori verifiche, ma non sono iscritti nel registro giornaliero né pubblicati nel Foglio ufficiale svizzero di commercio.[^123-3]
+
+<sup>5</sup>
+
+L’iscrizione nel registro di commercio presso la nuova sede contiene le indicazioni seguenti:
+
+- a. la ditta o il nome e il numero d’identificazione delle imprese;
+- b. il trasferimento della sede con la menzione del luogo della sede precedente e della nuova sede;
+- c. il domicilio legale della nuova sede;
+- d. la data del nuovo statuto, se è stato modificato.
+
+<sup>6</sup> Se presso la nuova sede le iscrizioni sono effettuate in una lingua diversa da quella della sede precedente, tutti i fatti che devono essere pubblicati sono iscritti nella nuova lingua.
+
+[^123-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^123-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^123-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 124
+
+**Iscrizione presso la sede precedente**
+
+<sup>1</sup> Il trasferimento della sede e la cancellazione della sede precedente sono iscritti nel registro giornaliero il medesimo giorno. Gli uffici del registro di commercio coordinano i tempi dell’iscrizione.
+
+<sup>2</sup> La cancellazione presso la sede precedente è iscritta senza procedere a ulteriori verifiche.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio presso la sede precedente contiene le indicazioni seguenti:
+
+- a. il fatto che in seguito al trasferimento della sede l’ente giuridico è stato iscritto nel registro di commercio presso la nuova sede con la menzione del luogo della nuova sede;
+- b. la nuova ditta o il nuovo nome, se vi è stata una modifica;
+- c. il fatto che l’ente giuridico è cancellato d’ufficio dal registro di commercio presso la sede precedente.
+
+#### Art. 125
+
+**Trasmissione dei documenti giustificativi**
+
+<sup>1</sup> L’ufficio del registro di commercio presso la sede precedente trasmette all’ufficio del registro di commercio presso la nuova sede tutti i documenti giustificativi relativi alle iscrizioni effettuate presso la sede precedente.
+
+<sup>2</sup> Se la trasmissione è effettuata elettronicamente, la riservatezza deve essere garantita.[^125-1]
+
+[^125-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Sezione 2: Trasferimento in Svizzera della sede di un ente giuridico estero
+
+#### Art. 126
+
+<sup>1</sup> Se un ente giuridico estero si sottopone al diritto svizzero conformemente alle prescrizioni della legge federale del 18 dicembre 1987[^126-1] sul diritto internazionale privato (LDIP) mediante un trasferimento della sede, per l’iscrizione nel registro di commercio si applicano le disposizioni sull’iscrizione di un nuovo ente giuridico.
+
+<sup>2</sup>
+
+Oltre ai documenti giustificativi necessari per l’iscrizione di un nuovo ente giuridico, le persone che notificano l’iscrizione devono fornire all’ufficio del registro di commercio anche i documenti giustificativi speciali seguenti:
+
+- a. una prova dell’esistenza legale dell’ente giuridico all’estero;
+- b.[^126-2] una prova dell’ammissibilità del trasferimento di sede transfrontaliero secondo il diritto estero o l’autorizzazione del Dipartimento federale di giustizia e polizia conformemente al capoverso 4;
+- c. una prova che l’adattamento a una forma societaria del diritto svizzero è possibile;
+- d. una prova che l’ente giuridico ha trasferito il centro della sua attività in Svizzera;
+- e. nel caso di una società di capitali, la relazione di un perito revisore abilitato comprovante che il capitale sociale è coperto secondo il diritto svizzero.
+
+<sup>3</sup>
+
+Oltre alle indicazioni necessarie per una nuova iscrizione, l’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. la data della decisione con la quale l’ente giuridico si sottopone al diritto svizzero conformemente alle norme della LDIP;
+- b. la ditta o il nome, la forma giuridica e la sede prima che l’ente giuridico trasferisse la sua sede in Svizzera;
+- c. l’autorità estera competente per la registrazione prima che l’ente giuridico trasferisse la sua sede in Svizzera.
+
+<sup>4</sup> Se il Dipartimento federale di giustizia e polizia rilascia un’autorizzazione conformemente all’articolo 161 capoverso 2 LDIP, la pertinente decisione deve essere inoltrata all’ufficio del registro di commercio come documento giustificativo.
+
+[^126-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^126-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+### Sezione 3: Trasferimento all’estero della sede di un ente giuridico svizzero
+
+#### Art. 127
+
+<sup>1</sup>
+
+Se un ente giuridico svizzero trasferisce la sua sede all’estero conformemente alle prescrizioni della LDIP[^127-1], oltre ai documenti giustificativi necessari per la cancellazione dell’ente giuridico, le persone che notificano l’iscrizione devono fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. una prova che l’ente giuridico continua a sussistere all’estero;
+- b. la relazione di un perito revisore abilitato attestante che i creditori hanno ottenuto garanzie, sono stati soddisfatti conformemente all’articolo 46 LFus o acconsentono alla cancellazione;
+- c.[^127-2] la decisione dell’organo competente con la quale l’ente giuridico si sottopone al diritto estero conformemente alle norme della LDIP;
+- d.[^127-3] se del caso, l’autorizzazione secondo la legge federale del 16 dicembre 1983[^127-4] sull’acquisto di fondi da parte di persone all’estero.
+
+<sup>2</sup> Se è notificato il trasferimento della sede di un ente giuridico svizzero all’estero, l’ufficio del registro di commercio lo comunica alle autorità fiscali federali e cantonali. È possibile procedere alla cancellazione soltanto dopo che queste autorità hanno dato il loro consenso.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene:
+
+- a. la data della decisione dell’organo competente con la quale l’ente giuridico si sottopone al diritto estero conformemente alle norme della LDIP;
+- b. la ditta o il nome, la forma giuridica e la sede dopo il trasferimento all’estero;
+- c. l’autorità estera competente per la registrazione dopo il trasferimento della sede all’estero;
+- d. la data della relazione di revisione attestante che sono state prese le disposizioni necessarie a tutela dei creditori;
+- e. il fatto che la società è cancellata.
+
+[^127-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^127-2]: Introdotta dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^127-3]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^127-4]: [RS 211.412.41](https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148)
+
+### Capitolo 3: Ristrutturazioni
+
+### Sezione 1: Momento della notificazione e dell’iscrizione
+
+#### Art. 128
+
+**Momento della notificazione**
+
+Gli enti giuridici possono notificare fusioni, scissioni e trasferimenti di patrimonio per l’iscrizione nel registro di commercio soltanto dopo aver ottenuto le approvazioni delle altre autorità previste dalla legge. Questo si applica in particolare nel caso di ristrutturazioni che adempiono i requisiti di una concentrazione il cui annuncio è obbligatorio ai sensi dell’articolo 9 della legge del 6 ottobre 1995[^128-1] sui cartelli o che necessitano di un’autorizzazione da parte dell’autorità di vigilanza conformemente agli articoli 3 e 5 della legge federale del 17 dicembre 2004[^128-2] sulla sorveglianza delle imprese di assicurazione.
+
+[^128-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^128-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+
+#### Art. 129
+
+**Momento dell’iscrizione**
+
+<sup>1</sup> Per tutti gli enti giuridici partecipanti, le ristrutturazioni sono iscritte nel registro giornaliero alla stessa data.
+
+<sup>2</sup> Se gli enti giuridici non appartengono tutti allo stesso distretto del registro, i diversi uffici del registro di commercio coordinano i tempi dell’iscrizione.
+
+<sup>3</sup> Tale disposizione si applica anche per l’iscrizione di un conferimento in natura o un’assunzione di beni operata mediante trasferimento di patrimonio.
+
+### Sezione 2: Fusione di enti giuridici
+
+#### Art. 130
+
+**Notificazione e ufficio del registro di commercio competente**
+
+<sup>1</sup> Ognuno degli enti giuridici partecipanti alla fusione deve notificare per l’iscrizione i fatti che lo riguardano all’ufficio del registro di commercio (art. 21 cpv. 1 LFus) in una delle lingue ufficiali dell’ufficio del registro di commercio interessato.
+
+<sup>2</sup> Se gli enti giuridici partecipanti alla fusione non appartengono tutti al medesimo distretto del registro, la decisione in merito all’iscrizione della fusione compete all’ufficio del registro di commercio presso la sede dell’ente giuridico assuntore. Tale ufficio informa gli uffici del registro di commercio della sede degli enti giuridici trasferenti in merito all’iscrizione da operare e ingiunge loro di procedere alla cancellazione dell’iscrizione precedente senza ulteriori verifiche.[^130-1]
+
+<sup>3</sup> Tutti i documenti giustificativi e i dati elettronici riguardanti le iscrizioni degli enti giuridici trasferenti devono essere trasmessi all’ufficio del registro di commercio presso la sede dell’ente giuridico assuntore dopo la loro cancellazione e conservati con gli atti riguardanti l’ente giuridico assuntore.
+
+[^130-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 131
+
+**Documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della fusione, gli enti giuridici partecipanti devono fornire i documenti giustificativi seguenti:
+
+- a. il contratto di fusione (art. 12 e 13 LFus);
+- b. i bilanci di fusione degli enti giuridici trasferenti e, se del caso, i bilanci intermedi (art. 11 LFus);
+- c. le decisioni di fusione degli enti giuridici partecipanti, se necessario documentate da un atto pubblico (art. 18 e 20 LFus);
+- d. le relazioni di revisione degli enti giuridici partecipanti (art. 15 LFus);
+- e. in caso di fusione mediante incorporazione (art. 9 e 21 cpv. 2 LFus), se necessario, i documenti giustificativi relativi all’aumento di capitale;
+- f. in caso di fusione di un ente giuridico in liquidazione, l’attestazione di cui all’articolo 5 capoverso 2 LFus, firmata da almeno un membro dell’organo superiore di direzione o di amministrazione;
+- g. in caso di fusione di enti giuridici con perdita di capitale o eccedenza di debiti, l’attestazione di cui all’articolo 6 capoverso 2 LFus;
+- h. in caso di fusione mediante combinazione (art. 10 LFus), i documenti giustificativi relativi alla costituzione di un nuovo ente giuridico.
+
+<sup>2</sup> In caso di fusioni di piccole e medie imprese, gli enti giuridici partecipanti alla fusione possono produrre, in luogo del documento giustificativo di cui al capoverso 1 lettera d, una dichiarazione firmata almeno da un membro dell’organo superiore di direzione o di amministrazione la quale prova che tutti i soci hanno rinunciato alla stesura del rapporto di fusione o alla verifica e che l’ente giuridico adempie i requisiti di cui all’articolo 2 lettera e LFus. La dichiarazione deve fare riferimento a documenti determinanti quali conti economici, bilanci, rapporti annuali, dichiarazioni di rinuncia o il verbale dell’assemblea generale.
+
+<sup>3</sup> In caso di fusioni agevolate di società di capitali (art. 23 LFus), le società partecipanti alla fusione devono produrre, in luogo dei documenti giustificativi di cui al capoverso 1 lettere c e d, gli estratti dei verbali degli organi superiori di direzione o di amministrazione relativi all’approvazione del contratto di fusione, sempreché detto contratto non rechi la firma di tutti i membri di tali organi. Devono inoltre provare che le società adempiono le condizioni di cui all’articolo 23 LFus, se ciò non risulta da altri documenti giustificativi.
+
+#### Art. 132
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio dell’ente giuridico assuntore contiene le indicazioni seguenti:
+
+- a. la ditta o il nome, la sede e il numero d’identificazione delle imprese degli enti giuridici partecipanti alla fusione;
+- b. la data del contratto di fusione e del bilancio di fusione e, se del caso, del bilancio intermedio;
+- c. il valore complessivo degli attivi e dei passivi trasferiti;
+- d. se del caso, le quote sociali e i diritti societari, come pure l’eventuale conguaglio riconosciuti ai soci della società trasferente (art. 7 LFus);
+- e. se del caso, l’indennità (art. 8 LFus);
+- f. se del caso, l’aumento del capitale derivante dalla fusione;
+- g. la menzione dell’attestazione di un perito revisore abilitato in caso di perdita di capitale o di eccedenza di debiti (art. 6 cpv. 2 LFus);
+- h. in caso di fusione mediante combinazione, i dati necessari all’iscrizione del nuovo ente giuridico.
+
+<sup>2</sup>
+
+L’iscrizione nel registro di commercio dell’ente giuridico trasferente contiene le indicazioni seguenti:
+
+- a. la ditta o il nome, la sede e il numero d’identificazione delle imprese degli enti giuridici partecipanti alla fusione;
+- b. il fatto che l’ente giuridico è cancellato a seguito di fusione (art. 21 cpv. 3 LFus).
+
+### Sezione 3: Scissione di società di capitali e società cooperative
+
+#### Art. 133
+
+**Notificazione e ufficio del registro di commercio competente**
+
+<sup>1</sup> Ognuna delle società partecipanti alla scissione deve chiedere l’iscrizione dei fatti che la riguardano all’ufficio del registro di commercio (art. 51 cpv. 1 LFus) in una delle lingue ufficiali del registro di commercio interessato.
+
+<sup>2</sup> Se le società partecipanti alla scissione non appartengono tutte al medesimo distretto del registro, la decisione in merito all’iscrizione della scissione compete all’ufficio del registro di commercio presso la sede della società trasferente. Tale ufficio informa gli uffici del registro di commercio della sede degli enti giuridici assuntori in merito all’iscrizione da operare e ingiunge loro di procedere alla cancellazione dell’iscrizione precedente senza ulteriori verifiche.[^133-1]
+
+[^133-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 134
+
+**Documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della scissione, le società partecipanti devono fornire i documenti giustificativi seguenti:
+
+- a. il contratto di scissione (art. 36 cpv. 1 e 37 LFus) o il progetto di scissione (art. 36 cpv. 2 e 37 LFus);
+- b. le decisioni di scissione delle società partecipanti, documentate da atto pubblico (art. 43 e 44 LFus);
+- c. le relazioni di revisione delle società partecipanti (art. 40 LFus);
+- d. se del caso, i documenti giustificativi relativi alla riduzione di capitale della società trasferente (art. 32 in combinato disposto con l’art. 51 cpv. 2 LFus);
+- e. se del caso, i documenti giustificativi relativi all’aumento di capitale della società assuntrice (art. 33 LFus);
+- f. i documenti giustificativi relativi alla costituzione della nuova società assuntrice (art. 34 LFus);
+- g. sempreché ciò non risulti da altri documenti giustificativi, la prova che sono state osservate le disposizioni concernenti la protezione dei creditori di cui all’articolo 45 LFus.
+
+<sup>2</sup> In caso di scissioni di piccole e medie imprese, le società partecipanti alla scissione possono produrre, in luogo del documento giustificativo di cui al capoverso 1 lettera c, una dichiarazione firmata almeno da un membro dell’organo superiore di direzione o di amministrazione la quale prova che tutti i soci hanno rinunciato alla stesura del rapporto di scissione o alla verifica e che la società adempie i requisiti di cui all’articolo 2 lettera e LFus. La dichiarazione deve fare riferimento a documenti determinanti quali conti economici, bilanci, rapporti annuali, dichiarazioni di rinuncia o il verbale dell’assemblea generale.
+
+#### Art. 135
+
+**Contenuto dell’iscrizione**
+
+<sup>1</sup>
+
+L’iscrizione nel registro di commercio delle società assuntrici contiene le indicazioni seguenti:
+
+- a. la ditta, la sede nonché il numero d’identificazione delle imprese delle società partecipanti alla scissione;
+- b. la data del contratto o del progetto di scissione;
+- c. il valore complessivo degli attivi e dei passivi trasferiti secondo l’inventario;
+- d. le quote sociali o i diritti societari, come pure l’eventuale conguaglio riconosciuti ai soci della società trasferente (art. 37 lett. c LFus);
+- e. se del caso, l’aumento di capitale derivante dalla scissione;
+- f. se del caso, i dati necessari all’iscrizione della nuova società.
+
+<sup>2</sup>
+
+Nel caso di una divisione, l’iscrizione nel registro di commercio della società trasferente contiene le indicazioni seguenti:
+
+- a. la ditta, la sede e il numero d’identificazione delle imprese di tutte le società partecipanti alla scissione;
+- b. il fatto che la società è cancellata a seguito di divisione (art. 51 cpv. 3 LFus).
+
+<sup>3</sup>
+
+Nel caso di una separazione, l’iscrizione nel registro di commercio della società trasferente contiene le indicazioni seguenti:
+
+- a. la ditta, la sede nonché il numero d’identificazione delle imprese di tutte le società partecipanti alla separazione;
+- b. se del caso, la riduzione del capitale derivante dalla separazione.
+
+### Sezione 4: Trasformazione di società
+
+#### Art. 136
+
+**Notificazione e documenti giustificativi**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della trasformazione (art. 66 LFus) occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. il progetto di trasformazione (art. 59 e 60 LFus);
+- b. il bilancio di trasformazione e, se del caso, il bilancio intermedio (art. 58 LFus);
+- c. la decisione di trasformazione documentata da atto pubblico (art. 64 e 65 LFus);
+- d. la relazione di revisione (art. 62 LFus);
+- e. se le circostanze lo richiedono, i documenti giustificativi relativi alla costituzione della nuova forma giuridica (art. 57 LFus).
+
+<sup>2</sup> In caso di trasformazione di piccole e medie imprese, l’organo superiore di direzione o di amministrazione può produrre, in luogo del documento giustificativo di cui al capoverso 1 lettera d, una dichiarazione firmata da almeno uno dei suoi membri la quale prova che tutti i soci hanno rinunciato alla stesura del rapporto di trasformazione o alla verifica e che la società adempie le condizioni di cui all’articolo 2 lettera e LFus. La dichiarazione deve fare riferimento a documenti determinanti quali conti economici, bilanci, rapporti annuali, dichiarazioni di rinuncia o il verbale dell’assemblea generale.
+
+#### Art. 137
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio di una trasformazione contiene le indicazioni seguenti:
+
+- a. la ditta o il nome nonché la forma giuridica prima e dopo la trasformazione;
+- b. in caso di una persona giuridica, la data del nuovo statuto;
+- c. la data del progetto di trasformazione, del bilancio di trasformazione e, se del caso, del bilancio intermedio;
+- d. il valore complessivo degli attivi e dei passivi;
+- e. le quote sociali e i diritti societari riconosciuti ai soci;
+- f. gli altri dati necessari per la nuova forma giuridica.
+
+### Sezione 5: Trasferimento di patrimonio
+
+#### Art. 138
+
+**Notificazione e documenti giustificativi**
+
+Con la notificazione per l’iscrizione del trasferimento di patrimonio, l’ente giuridico trasferente deve fornire i documenti giustificativi seguenti:
+
+- a. il contratto di trasferimento (art. 71 LFus);
+- b. gli estratti dei verbali degli organi superiori di direzione o di amministrazione degli enti giuridici partecipanti relativi alla conclusione del contratto di trasferimento (art. 70 cpv. 1 LFus), sempreché il contratto di trasferimento di patrimonio non rechi la firma di tutti i membri di tali organi.
+
+#### Art. 139
+
+**Contenuto dell’iscrizione**
+
+L’iscrizione nel registro di commercio dell’ente giuridico trasferente contiene le indicazioni seguenti:
+
+- a. la ditta o il nome, la sede nonché il numero d’identificazione delle imprese degli enti giuridici partecipanti al trasferimento di patrimonio;
+- b. la data del contratto di trasferimento;
+- c. il valore complessivo degli attivi e passivi trasferiti secondo l’inventario;
+- d. l’eventuale controprestazione.
+
+### Sezione 6: Fusione e trasferimento di patrimonio di fondazioni
+
+#### Art. 140
+
+**Fusione**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della fusione (art. 83 cpv. 3 LFus), l’autorità di vigilanza della fondazione trasferente deve fornire all’ufficio del registro di commercio presso la sede della fondazione assuntrice i documenti giustificativi seguenti:
+
+- a. la decisione di approvazione della fusione (art. 83 cpv. 3 LFus);
+- b. il contratto di fusione, se necessario, documentato da atto pubblico (art. 79 LFus);
+- c. i bilanci di fusione delle fondazioni trasferenti e, se del caso, i bilanci intermedi (art. 80 LFus);
+- d. la relazione di revisione (art. 81 LFus);
+- e. in caso di fusione mediante combinazione, i documenti giustificativi relativi alla costituzione di una fondazione.
+
+<sup>2</sup> In caso di fusione di fondazioni di famiglia e di fondazioni ecclesiastiche, in luogo della decisione dell’autorità di vigilanza, la fondazione assuntrice deve produrre le decisioni di fusione degli organi superiori delle fondazioni partecipanti (art. 84 cpv. 1 LFus).
+
+<sup>3</sup> L’articolo 132 si applica per analogia al contenuto dell’iscrizione della fusione. L’iscrizione menziona inoltre la data della decisione dell’autorità di vigilanza che approva la fusione.
+
+#### Art. 141
+
+**Trasferimento di patrimonio**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione del trasferimento di patrimonio (art. 87 cpv. 3 LFus), l’autorità di vigilanza della fondazione trasferente deve fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. la decisione d’approvazione del trasferimento di patrimonio;
+- b. il contratto di trasferimento.
+
+<sup>2</sup> In caso di trasferimento del patrimonio di fondazioni di famiglia e di fondazioni ecclesiastiche, in luogo della decisione dell’autorità di vigilanza, la fondazione trasferente deve produrre gli estratti dei verbali degli organi superiori di direzione o di amministrazione degli enti giuridici partecipanti relativi alla conclusione del contratto di trasferimento.
+
+<sup>3</sup> L’articolo 139 si applica per analogia al contenuto dell’iscrizione del trasferimento di patrimonio. L’iscrizione menziona inoltre la data della decisione dell’autorità di vigilanza che approva il trasferimento di patrimonio.
+
+### Sezione 7: Fusione, trasformazione e trasferimento di patrimonio di istituti di previdenza
+
+#### Art. 142
+
+**Fusione**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione della fusione (art. 95 cpv. 4 LFus), l’autorità di vigilanza della fondazione trasferente deve fornire all’ufficio del registro di commercio presso la sede dell’istituto di previdenza assuntore i documenti giustificativi seguenti:
+
+- a. il contratto di fusione (art. 90 LFus);
+- b. i bilanci di fusione degli istituti di previdenza trasferenti e, se del caso, i bilanci intermedi (art. 89 LFus);
+- c. le relazioni di revisione degli istituti di previdenza partecipanti (art. 92 LFus);
+- d. le decisioni di fusione degli istituti di previdenza partecipanti (art. 94 LFus);
+- e. la decisione di approvazione della fusione dell’autorità di vigilanza (art. 95 cpv. 3 LFus);
+- f. in caso di una fusione mediante combinazione, i documenti giustificativi relativi alla costituzione del nuovo ente giuridico.
+
+<sup>2</sup> L’articolo 132 si applica per analogia al contenuto dell’iscrizione della fusione. L’iscrizione menziona inoltre la data della decisione dell’autorità di vigilanza che approva la fusione.
+
+#### Art. 143
+
+**Trasformazione**
+
+<sup>1</sup> Con la notificazione per l’iscrizione della trasformazione (art. 97 cpv. 3 LFus), l’autorità di vigilanza deve fornire all’ufficio del registro di commercio i documenti giustificativi di cui all’articolo 136 nonché la decisione d’approvazione della trasformazione.
+
+<sup>2</sup> L’articolo 137 si applica per analogia al contenuto dell’iscrizione. L’iscrizione menziona inoltre la data della decisione dell’autorità di vigilanza.
+
+#### Art. 144
+
+**Trasferimento di patrimonio**
+
+<sup>1</sup> L’articolo 138 si applica per analogia alla notificazione e ai documenti giustificativi in caso di trasferimento di patrimonio.
+
+<sup>2</sup> L’articolo 139 si applica per analogia al contenuto dell’iscrizione del trasferimento di patrimonio.
+
+### Sezione 8: Fusione, trasformazione e trasferimento di patrimonio di istituti di diritto pubblico
+
+#### Art. 145
+
+<sup>1</sup> Le disposizioni della presente ordinanza si applicano per analogia alla fusione di enti giuridici di diritto privato con istituti di diritto pubblico, alla trasformazione di tali istituti in enti giuridici di diritto privato e a qualsiasi trasferimento di patrimonio a cui partecipa un istituto di diritto pubblico.
+
+<sup>2</sup>
+
+Con la notificazione per l’iscrizione della fusione, della trasformazione e del trasferimento di patrimonio, l’istituto di diritto pubblico deve fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. i documenti giustificativi prescritti per la fusione, la trasformazione o il trasferimento di patrimonio, in quanto essi siano richiesti in virtù di un’applicazione per analogia alla legge sulla fusione (art. 100 cpv. 1 LFus);
+- b. l’inventario (art. 100 cpv. 2 LFus);
+- c. la decisione o le altre basi legali di diritto pubblico su cui poggia la fusione, la trasformazione o il trasferimento di patrimonio (art. 100 cpv. 3 LFus).
+
+<sup>3</sup> L’iscrizione nel registro di commercio deve contenere un riferimento all’inventario nonché alla decisione o alle altre basi legali.
+
+### Sezione 9: Ristrutturazione transfrontaliera
+
+#### Art. 146
+
+**Fusione**
+
+<sup>1</sup>
+
+Con la notificazione per l’iscrizione di una fusione con una società svizzera (art. 163*a* LDIP[^146-1]), oltre ai documenti giustificativi di cui all’articolo 131, occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. una prova dell’esistenza legale all’estero dell’ente giuridico trasferente;
+- b.[^146-2] una prova dell’ammissibilità della fusione transfrontaliera secondo il diritto estero;
+- c. la prova che le entità giuridiche partecipanti alla fusione sono compatibili.
+
+<sup>2</sup>
+
+Con la notificazione per l’iscrizione della cancellazione dell’ente giuridico trasferente in caso di una fusione con una società estera (art. 163*b* LDIP), oltre ai documenti giustificativi di cui all’articolo 131, occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
+
+- a. la prova dell’esistenza legale dell’ente giuridico assuntore all’estero;
+- b.[^146-3] una prova dell’ammissibilità della fusione transfrontaliera secondo il diritto estero;
+- c. il rapporto, la prova e l’attestazione di cui all’articolo 164 LDIP;
+- d.[^146-4] l’approvazione delle autorità fiscali federali e cantonali della cancellazione dell’ente giuridico dal registro di commercio.
+
+<sup>3</sup> Il contenuto dell’iscrizione è regolato dall’articolo 132. L’iscrizione menziona inoltre che si tratta di una fusione transfrontaliera secondo la LDIP.
+
+[^146-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^146-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^146-3]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^146-4]: Introdotta dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 147
+
+**Scissione e trasferimento di patrimonio**
+
+Gli articoli 133–135, 138, 139 e 146 si applicano per analogia alla scissione e al trasferimento di patrimonio transfrontalieri.
+
+### Sezione 10: Trasferibilità in caso di scissione e trasferimento di patrimonio
+
+#### Art. 148
+
+In caso di scissioni e trasferimento di patrimonio l’ufficio del registro di commercio rifiuta di procedere all’iscrizione, in particolare se è manifesto che i beni interessati non sono liberamente trasferibili.
+
+### Capitolo 4: Iscrizione di poteri di rappresentanza speciali e di deliberazioni dell’assemblea degli obbligazionisti di prestiti in obbligazioni
+
+#### Art. 149
+
+**Procura non commerciale**
+
+<sup>1</sup> Se è nominato un procuratore per imprese non soggette a iscrizione, il mandante notifica al registro di commercio la procura per l’iscrizione.
+
+<sup>2</sup>
+
+L’iscrizione contiene:
+
+- a. i dati personali del mandante;
+- b. i dati personali del procuratore;
+- c. il tipo di autorizzazione a firmare;
+- d.[^149-1] il numero d’identificazione delle imprese attribuito alla procura non commerciale.
+
+<sup>3</sup>
+
+Il mandante deve notificare per l’iscrizione nel registro di commercio anche le modifiche e le cancellazioni. L’iscrizione della procura non commerciale è cancellata d’ufficio quando:
+
+- a. il mandante è dichiarato in fallimento;
+- b. il mandante è deceduto ed è passato un anno dalla sua morte senza che gli eredi abbiano potuto essere diffidati a chiedere la cancellazione; o
+- c. il procuratore è deceduto e il mandante non può essere diffidato a chiedere la cancellazione.
+
+<sup>4</sup> In caso di fallimento del mandante la cancellazione è fatta appena l’ufficio del registro di commercio ha notizia della dichiarazione di fallimento.
+
+[^149-1]: Introdotta dall’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+
+#### Art. 150
+
+**Capo dell’indivisione**
+
+<sup>1</sup> Il capo dell’indivisione deve procedere alla notificazione per l’iscrizione nel registro di commercio.
+
+<sup>2</sup>
+
+Una copia autenticata del contratto d’indivisione deve essere fornita come documento giustificativo. Tale contratto contiene le indicazioni circa:
+
+- a. la composizione dell’indivisione;
+- b. il capo dell’indivisione;
+- c. l’esclusione degli altri partecipanti all’indivisione dalla facoltà di rappresentanza.
+
+<sup>3</sup>
+
+L’iscrizione contiene:
+
+- a. la denominazione dell’indivisione;
+- b. la data della sua costituzione;
+- c. l’indirizzo dell’indivisione;
+- d. i dati personali del capo dell’indivisione;
+- e.[^150-1] il numero d’identificazione delle imprese attribuito all’indivisione.
+
+<sup>4</sup> La notificazione della cancellazione spetta al capo dell’indivisione.
+
+[^150-1]: Introdotta dall’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+
+#### Art. 151
+
+**Deliberazioni dell’assemblea degli obbligazionisti di prestiti in obbligazioni**
+
+<sup>1</sup> I documenti riguardanti le deliberazioni dell’assemblea degli obbligazionisti di prestiti in obbligazioni sono forniti all’ufficio del registro di commercio per la conservazione.
+
+<sup>2</sup> Il deposito di tali documenti è iscritto nel registro di commercio sotto i debitori.
+
+## Titolo 5: Iscrizioni d’ufficio
+
+### Capitolo 1: Iscrizione lacunosa o inesatta
+
+#### Art. 152
+
+**Contenuto dellediffide dell’ufficio del registro di commercio**[^152-1]
+
+<sup>1</sup> Nei casi di cui agli articoli 934 capoverso 2, 934*a* capoverso 2, 938 capoverso 1 e 939 capoverso 1 CO, l’ufficio del registro di commercio ingiunge all’ente giuridico di procedere alla notificazione necessaria o di comprovare che l’iscrizione, la modifica o la cancellazione non è necessaria. Impartisce all’ente giuridico un termine a tal fine.
+
+<sup>2</sup> La diffida menziona le prescrizioni determinanti e le conseguenze giuridiche nel caso in cui non le sia dato seguito.
+
+[^152-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 152a
+
+**Notificazioni delle diffide dell’ufficio del registro di commercio**[^152a-1]
+
+<sup>1</sup>
+
+Le diffide dell’ufficio del registro di commercio sono notificate:
+
+- a. mediante invio postale raccomandato o in altro modo contro ricevuta al domicilio legale dell’ente giuridico; o
+- b. secondo le disposizioni sulla comunicazione elettronica.
+
+<sup>2</sup> La notificazione è considerata avvenuta quando è presa in consegna al domicilio legale dell’ente giuridico. L’invio postale raccomandato che non è stato ritirato è considerato avvenuto il settimo giorno dal tentativo di consegna infruttuoso, sempreché l’ente giuridico dovesse aspettarsi un invio.
+
+<sup>3</sup>
+
+La notificazione è fatta mediante pubblicazione nel Foglio ufficiale svizzero di commercio se:
+
+- a. il domicilio legale iscritto dell’ente giuridico non corrisponde più ai fatti e non può essere individuato con ricerche ragionevolmente esigibili; o
+- b. una notificazione non è possibile o comporterebbe un onere straordinario.
+
+<sup>4</sup> La notificazione è considerata avvenuta il giorno della pubblicazione.
+
+[^152a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 153
+
+**Decisione**[^153-1]
+
+<sup>1</sup>
+
+Se l’ente giuridico non dà seguito alla diffida entro il termine previsto, l’ufficio del registro di commercio emana una decisione circa:
+
+- a. l’iscrizione, la modifica di fatti iscritti o la cancellazione;
+- b. il contenuto dell’iscrizione nel registro di commercio;
+- c. gli emolumenti;
+- d. se del caso, l’ammenda di cui all’articolo 940 CO.
+
+<sup>2</sup> L’iscrizione deve menzionare la base legale e indicare espressamente che è avvenuta d’ufficio.
+
+<sup>3</sup> L’ufficio del registro di commercio non emana alcuna decisione se trasmette il caso al tribunale o all’autorità di vigilanza (art. 934 e 939 CO).
+
+[^153-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 153a a 153c
+
+[^153a153c-1]
+
+[^153a153c-1]: Introdotti dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Abrogati dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 154 a 156
+
+[^154156-1]
+
+[^154156-1]: Abrogati dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 157
+
+**Determinazione delle imprese soggette all’obbligo di iscrizione e delle modifiche di fatti iscritti**[^157-1]
+
+<sup>1</sup>
+
+Gli uffici del registro di commercio ricercano periodicamente:
+
+- a. gli enti giuridici soggetti all’obbligo di iscrizione non iscritti;
+- b. le iscrizioni che non corrispondono più ai fatti.
+
+<sup>2</sup> A tal fine possono chiedere ai tribunali e alle autorità della Confederazione, dei Cantoni, dei distretti e dei Comuni di comunicare loro gratuitamente e per scritto informazioni concernenti imprese soggette a iscrizione e fatti che potrebbero motivare un obbligo di iscrizione, di modifica o di cancellazione. Detti tribunali e autorità devono inoltre collaborare all’accertamento dell’identità delle persone fisiche conformemente agli articoli 24*a* e 24*b.*
+
+<sup>3</sup> Gli uffici del registro di commercio invitano almeno ogni tre anni le autorità dei Comuni o dei distretti a comunicare loro le nuove imprese sorte o le modifiche di fatti iscritti. A tal fine trasmettono un elenco delle iscrizioni concernenti la loro circoscrizione.
+
+<sup>4</sup> Chiedono agli enti giuridici se i fatti iscritti la cui ultima modifica risale a più di dieci anni sono ancora attuali.
+
+[^157-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+### Capitolo 2: Fallimento, moratoria concordataria e concordato con abbandono dell’attivo
+
+#### Art. 158
+
+**Comunicazione e iscrizione del fallimento**
+
+<sup>1</sup>
+
+In relazione alla procedura fallimentare il tribunale o l’autorità comunica all’ufficio del registro di commercio:
+
+- a. la dichiarazione di fallimento;
+- b. le decisioni che accordano un effetto sospensivo al ricorso;
+- c. le misure provvisionali;
+- d. l’annullamento o la conferma della dichiarazione di fallimento da parte dell’autorità di ricorso;
+- e. la revoca del fallimento;
+- f. la nomina di un’amministrazione speciale del fallimento;
+- g. la sospensione per mancanza di attivo;
+- h. la riapertura della procedura fallimentare;
+- i. la chiusura della procedura fallimentare.[^158-1]
+
+<sup>2</sup> Dopo aver ricevuto la comunicazione del giudice o dell’autorità, l’ufficio del registro di commercio procede senza indugio alla relativa iscrizione nel registro di commercio.
+
+<sup>3</sup> Se una fondazione è soppressa a seguito di fallimento, è possibile procedere alla sua cancellazione soltanto dopo che l’autorità di vigilanza ha confermato di non avere più interesse alcuno al mantenimento dell’iscrizione.
+
+[^158-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 159
+
+**Contenuto dell’iscrizione del fallimento**[^159-1]
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a.
+
+  se è dichiarato il fallimento di un ente giuridico o è confermata la dichiarazione di fallimento:
+
+  - 1\. il fatto che il fallimento è stato dichiarato e da quale tribunale o autorità,
+  - 2\. la data e il momento della dichiarazione di fallimento,
+  - 3\. in caso di società di persone e di persone giuridiche, la ditta o il nome con l’aggiunta della menzione «in liquidazione» o «in liq.»;
+
+- b.
+
+  se a un rimedio giuridico è accordato l’effetto sospensivo, la dichiarazione di fallimento è annullata o il fallimento è revocato:
+
+  - 1\. il fatto che al ricorso è stato accordato l’effetto sospensivo, che la dichiarazione di fallimento è stata annullata o che il fallimento è stato revocato,
+  - 2\. la data della decisione,
+  - 3\. in caso di società di persone e di persone giuridiche, la ditta o il nome senza l’aggiunta della menzione «in liquidazione» o «in liq.»;
+
+- c. se è nominata un’amministrazione speciale del fallimento,
+  - 1\. il fatto che è stata nominata un’amministrazione speciale del fallimento,
+  - 2\. la data della decisione,
+  - 3\. i dati personali dell’amministrazione speciale del fallimento;
+
+- d.
+
+  se la procedura fallimentare è sospesa per mancanza di attivo:
+
+  - 1\. il fatto che il fallimento è stato sospeso per mancanza di attivo,
+  - 2\. la data della decisione di sospensione;
+
+- e.
+
+  se la procedura fallimentare è riaperta:
+
+  - 1\. il fatto che la procedura fallimentare è stata riaperta,
+  - 2\. la data della decisione di riapertura,
+  - 3\. in caso di società di persone e di società giuridiche, la ditta o il nome con l’aggiunta della menzione «in liquidazione» o «in liq.»;
+
+- f.
+
+  se la procedura fallimentare è chiusa:
+
+  - 1\. il fatto che la procedura fallimentare è stata chiusa,
+  - 2\. la data della decisione di chiusura.
+
+[^159-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 159a
+
+**Cancellazione d’ufficio in caso di fallimento**[^159a-1]
+
+<sup>1</sup>
+
+Un ente giuridico è cancellato d’ufficio se:
+
+- a. in caso di sospensione della procedura fallimentare per mancanza di attivo, non è stata fatta alcuna opposizione motivata entro due anni dalla pubblicazione dell’iscrizione conformemente all’articolo 159 lettera d o, nel caso di un’impresa individuale, è cessato l’esercizio dell’azienda;
+- b. la procedura fallimentare è chiusa da una decisione emanata dal tribunale; sono fatte salve le disposizioni contrarie del tribunale.
+
+<sup>2</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. il fatto che, in caso di sospensione della procedura fallimentare per mancanza di attivo, entro il termine fissato non è stata fatta alcuna opposizione motivata contro la cancellazione o che, nel caso di un’impresa individuale, è cessato l’esercizio dell’azienda;
+- b. il fatto che l’impresa individuale è stata cancellata o, se del caso, il fatto che non è stata cancellata perché prosegue l’attività aziendale.
+
+[^159a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 160
+
+**Moratoria**
+
+<sup>1</sup> Il tribunale comunica all’ufficio del registro di commercio la concessione della moratoria definitiva o provvisoria e trasmette il dispositivo della sua decisione, sempreché l’articolo 293*c* capoverso 2 LEF[^160-1] non preveda la rinuncia alla comunicazione.[^160-2]
+
+<sup>2</sup> Dopo la ricezione della comunicazione del tribunale, l’ufficio del registro di commercio procede senza indugio all’iscrizione.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. la data della concessione e la durata della moratoria;
+- b. i dati personali del commissario;
+- c. se il giudice del concordato ha ordinato che determinati atti possono essere compiuti validamente soltanto con il concorso del commissario o ha autorizzato il commissario a proseguire l’attività aziendale in luogo del debitore, un rinvio a tale fatto.
+
+<sup>4</sup> Se la moratoria è sospesa, tale fatto deve essere iscritto nel registro di commercio.[^160-3]
+
+[^160-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^160-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^160-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 161
+
+**Concordato con abbandono dell’attivo**
+
+<sup>1</sup>
+
+Il tribunale comunica all’ufficio del registro di commercio l’omologazione di un concordato con abbandono dell’attivo (art. 308 LEF[^161-1]) e trasmette i documenti giustificativi seguenti:
+
+- a. una copia del concordato;
+- b. il dispositivo della sentenza.
+
+<sup>2</sup> Dopo la ricezione della comunicazione del tribunale, l’ufficio del registro di commercio procede senza indugio all’iscrizione.
+
+<sup>3</sup>
+
+L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
+
+- a. la data dell’omologazione del concordato;
+- b. la ditta o il nome con l’aggiunta della menzione «in liquidazione concordataria»;
+- c. il liquidatore;
+- d. la cancellazione dei diritti di firma delle persone iscritte nel registro di commercio e autorizzate a rappresentare l’ente giuridico.
+
+<sup>4</sup> Terminata la liquidazione, il liquidatore notifica la cancellazione dell’ente giuridico.
+
+<sup>5</sup> L’iscrizione nel registro di commercio menziona la cancellazione e il motivo della cancellazione.
+
+[^161-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+## Titolo 6:**** Reiscrizione di enti giuridici cancellati
+
+[^tit6-1]
+
+[^tit6-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 162 e 163
+
+*Abrogati*
+
+#### Art. 164
+
+**Reiscrizione**
+
+In caso di reiscrizione di un ente giuridico cancellato (art. 935 CO) è ripristinata l’iscrizione dell’ente giuridico al momento della cancellazione. Sono fatte salve le disposizioni contrarie del tribunale.
+
+#### Art. 165
+
+*Abrogato*
+
+## Titolo 7: Conservazione e consegna di atti e qualità dei dati****
+
+[^tit7-1]
+
+[^tit7-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 166
+
+**Conservazione delle notificazioni, dei documenti giustificativi e della corrispondenza**
+
+<sup>1</sup> Le notificazioni e i documenti giustificativi sono conservati per una durata di 30 anni dopo l’iscrizione nel registro giornaliero. Lo statuto degli enti giuridici e gli atti di fondazione devono sempre corrispondere alla situazione attuale.
+
+<sup>2</sup> Se un ente giuridico è cancellato dal registro di commercio, le notificazioni, i documenti giustificativi e gli eventuali elenchi dei soci possono essere distrutti 10 anni dopo la cancellazione.
+
+<sup>3</sup> Le notificazioni e i documenti giustificativi recano la data e il numero dell’iscrizione nel registro giornaliero.
+
+<sup>4</sup> La corrispondenza in relazione con le iscrizioni è conservata per 10 anni.
+
+<sup>5</sup> Se la legge o l’ordinanza prescrive il deposito presso l’ufficio del registro di commercio di documenti che non sono considerati documenti giustificativi, occorre munirli del numero d’identificazione delle imprese del relativo ente giuridico e conservarli insieme con i documenti giustificativi di quest’ultimo.
+
+<sup>6</sup> Notificazioni, documenti giustificativi o altri documenti in forma cartacea possono essere digitalizzati dall’ufficio del registro di commercio ai fini dell’archiviazione e autenticati conformemente all’OAPuE[^166-1] e in particolare al suo articolo 13. I documenti cartacei rilegati possono essere sciolti ai fini della digitalizzazione. Gli originali cartacei possono essere distrutti, a condizione che il diritto cantonale non lo escluda.[^166-2]
+
+<sup>7</sup> Notificazioni, documenti giustificativi o altri documenti in forma elettronica non possono essere cancellati. Devono essere conservati dall’ufficio del registro di commercio in modo da impedire che i dati possano essere modificati.[^166-3]
+
+[^166-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^166-2]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nuovo testo giusta l’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^166-3]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+#### Art. 167
+
+**Consegna di atti in forma cartacea**
+
+<sup>1</sup>
+
+La consegna degli originali in forma cartacea di atti degli uffici cantonali del registro di commercio può essere richiesta per scritto dalle autorità seguenti:[^167-1]
+
+- a. il tribunale;
+- b. il giudice dell’istruzione;
+- c. il ministero pubblico;
+- d. l’autorità cantonale di vigilanza;
+- e. l’UFRC;
+- f. l’autorità federale di vigilanza sulle banche e sui mercati finanziari;
+- g.[^167-2] l’Autorità federale di sorveglianza dei revisori.
+
+<sup>2</sup> L’autorità conferma la ricezione degli atti. Gli originali sono restituiti al più tardi al termine della procedura per la quale sono stati utilizzati.
+
+<sup>3</sup> Se gli atti non sono archiviati in forma elettronica, è conservata in luogo dell’originale una copia autenticata dell’atto consegnato unitamente alla ricevuta.
+
+<sup>4</sup> I servizi autorizzati possono chiedere copie autenticate in luogo della consegna di originali.
+
+[^167-1]: Nuovo testo giusta l’all. n. 2 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^167-2]: Introdotta dall’all. n. 2 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+
+#### Art. 168
+
+**Consegna di atti in forma elettronica**
+
+Gli atti in forma elettronica sono forniti soltanto come copie autenticate.
+
+#### Art. 169
+
+**Qualità dei dati**[^169-1]
+
+<sup>1</sup>
+
+I sistemi elettronici per il registro giornaliero e il registro principale nonché per le banche dati centrali rispettano le esigenze seguenti:
+
+- a. i dati registrati sono preservati in modo tale da garantirne inalterata la qualità e l’integrità;
+- b. il formato dei dati è indipendente da un produttore di determinati sistemi elettronici;
+- c. i dati sono salvati conformemente alle norme riconosciute e allo stato attuale della tecnica;
+- d. è disponibile la documentazione relativa al programma e al formato.
+
+<sup>2</sup>
+
+Al fine di garantire l’operatività e la sicurezza dei loro sistemi elettronici i Cantoni e la Confederazione adempiono i compiti seguenti:
+
+- a. lo scambio dei dati tra i diversi sistemi;
+- b. la salvaguardia periodica dei dati su un supporto di dati decentralizzato;
+- c. la manutenzione dei dati e dei sistemi elettronici;
+- d. il disciplinamento dei diritti d’accesso ai dati e ai sistemi elettronici;
+- e. la salvaguardia dei dati e dei sistemi elettronici contro gli abusi;
+- f. i provvedimenti da prendere in caso di problemi tecnici dei sistemi elettronici.
+
+<sup>3</sup> L’UFRC può disciplinare in una direttiva la procedura dello scambio dei dati nonché la forma, il contenuto e la struttura dei dati trasmessi. Può inoltre stabilire la forma, il contenuto e la struttura dei dati resi disponibili a terzi.
+
+[^169-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+
+## Titolo 8: Disposizioni finali
+
+### Capitolo 1: Ufficio di revisione
+
+#### Art. 170
+
+Allo scopo di attuare le nuove disposizioni in materia di ufficio di revisione, l’UFRC può:
+
+- a. richiedere i dati degli uffici cantonali del registro di commercio;
+- b. collaborare e scambiare i dati con l’Autorità federale di sorveglianza dei revisori;
+- c. emanare direttive e prevedere segnatamente per gli uffici del registro di commercio l’obbligo di notificare determinati fatti all’Autorità federale di sorveglianza dei revisori.
+
+### Capitolo 2: Direttive, circolari e comunicazioni
+
+#### Art. 171
+
+Tutte le direttive, circolari e comunicazioni del Dipartimento federale di giustizia e polizia e dell’UFRC emanate in base all’ordinanza del 7 giugno 1937[^171-1] sul registro di commercio sono abrogate, eccettuate:
+
+- [tab] a. e b.[^171-2] ...
+- c. la direttiva dell’UFRC del 13 gennaio 1998 all’indirizzo degli uffici cantonali del registro di commercio sull’acquisto di fondi da parte di persone all’estero;
+- d. la comunicazione dell’UFRC del 15 agosto 2001 all’indirizzo delle autorità cantonali del registro di commercio concernente i conferimenti in natura e le assunzioni di beni;
+- e. la direttiva dell’UFRC all’indirizzo degli uffici cantonali del registro di commercio concernente l’iscrizione dei servizi pubblici di controllo delle finanze del 12 ottobre 2007.
+
+[^171-1]: [RU **53** 577]
+[^171-2]: Abrogate dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, con effetto dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+### Capitolo 3: Abrogazione e modifica del diritto vigente
+
+#### Art. 172
+
+L’abrogazione e la modifica del diritto vigente sono disciplinate nell’allegato 1.
+
+### Capitolo 4: Disposizioni transitorie
+
+#### Art. 173
+
+**Diritto applicabile**
+
+<sup>1</sup> I fatti notificati per l’iscrizione all’ufficio del registro di commercio dopo l’entrata in vigore della presente ordinanza soggiacciono al nuovo diritto.
+
+<sup>2</sup> I fatti notificati per l’iscrizione all’ufficio del registro di commercio prima dell’entrata in vigore della presente ordinanza soggiacciono al diritto previgente.
+
+<sup>3</sup> I fatti notificati per l’iscrizione all’ufficio del registro di commercio in applicazione del nuovo diritto prima dell’entrata in vigore della presente ordinanza, sono iscritti nel registro di commercio soltanto dopo l’entrata in vigore del nuovo diritto.
+
+#### Art. 174
+
+**Rinuncia a una revisione limitata**
+
+La rinuncia a una revisione limitata conformemente all’articolo 62 della presente ordinanza può essere iscritta nel registro di commercio soltanto se un membro del consiglio d’amministrazione conferma per scritto che l’ufficio di revisione ha controllato il conto annuale dell’ultimo esercizio prima dell’entrata in vigore del nuovo diritto (art. 7 delle disp. trans. della mod. del 16 dic. 2005[^174-1] del Codice delle obbligazioni, diritto della società a garanzia limitata e adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali).
+
+[^174-1]: [RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
+
+#### Art. 175
+
+**Notificazione e documenti giustificativi in forma elettronica**
+
+Gli uffici del registro di commercio devono essere in grado di accettare le notificazioni e i documenti giustificativi in forma elettronica al più tardi cinque anni dopo l’entrata in vigore della presente ordinanza.
+
+#### Art. 175a
+
+[^175a-1]
+
+Al più tardi dal 1° gennaio 2013, gli uffici del registro di commercio devono iscrivere i dati necessari all’identificazione delle persone fisiche secondo l’articolo 24*b*.
+
+[^175a-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+
+#### Art. 176
+
+**Diritto delle ditte commerciali**
+
+Se, fondandosi sull’articolo 2 capoverso 4 delle disposizioni transitorie della modifica del Codice delle obbligazioni del 16 dicembre 2005[^176-1] (diritto della società a garanzia limitata nonché adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), l’ufficio cantonale del registro di commercio completa d’ufficio la ditta di una società anonima o di una società cooperativa senza che l’ente giuridico abbia adeguato lo statuto, siffatto ufficio cantonale del registro di commercio respinge ogni ulteriore notificazione per l’iscrizione di una modifica statutaria fintantoché lo statuto non è stato adeguato per quanto concerne la ditta.
+
+[^176-1]: [RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
+
+#### Art. 177
+
+**Nomi commerciali e insegne**
+
+I nomi commerciali e le insegne iscritti nel registro di commercio sono cancellati d’ufficio entro due anni dopo l’entrata in vigore della presente ordinanza. L’approvazione dell’UFRC e la pubblicazione nel Foglio ufficiale svizzero di commercio non sono necessarie. Le indicazioni già esistenti nella formulazione dello scopo riguardanti le insegne rimangono iscritte inalterate.
+
+#### Art. 178
+
+**Indice alfabetico delle ditte secondo il diritto previgente**
+
+È concesso il diritto di consultare l’indice alfabetico delle ditte conformemente all’articolo 14 dell’ordinanza sul registro di commercio nel testo del 6 maggio 1970[^178-1].
+
+[^178-1]: [RU 1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733)
+
+#### Art. 179
+
+**Documenti concernenti i revisori particolarmente qualificati**
+
+La menzione, iscritta nel registro di commercio, dei documenti che attestano i requisiti professionali dei revisori particolarmente qualificati ai sensi dell’articolo 86*a* capoverso 2 dell’ordinanza sul registro di commercio nella versione del 9 giugno 1992[^179-1], è cancellata d’ufficio dal registro principale un anno dopo l’entrata in vigore della presente ordinanza. L’approvazione dell’UFRC e la pubblicazione nel Foglio ufficiale svizzero di commercio non sono necessarie. I documenti sono conservati fino al 1° gennaio 2018.
+
+[^179-1]: [RU 1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213)
+
+#### Art. 180
+
+**Procedure relative alle iscrizioni d’ufficio**
+
+Le procedure relative alle iscrizioni d’ufficio, avviate prima dell’entrata in vigore della presente ordinanza, sono rette dal diritto previgente.
+
+#### Art. 181
+
+**Rimedi giuridici del diritto cantonale**
+
+I Cantoni adeguano i propri rimedi giuridici contro le decisioni dell’ufficio del registro di commercio alle disposizioni dell’articolo 165 entro due anni dall’entrata in vigore della presente ordinanza.
+
+#### Art. 181a
+
+**Disposizioni transitorie della modifica dell’11 novembre 2015relative all’art. 52 cpv. 2 CC nella versione del 12 dicembre 2014**[^181a-1]
+
+<sup>1</sup> Le fondazioni ecclesiastiche che al momento dell’entrata in vigore della modifica del 12 dicembre 2014[^181a-2] del Codice civile[^181a-3] (art. 52 cpv. 2) non sono iscritte nel registro di commercio vengono iscritte anche se non è disponibile né un atto di fondazione né un estratto autenticato della disposizione a causa di morte.
+
+<sup>2</sup>
+
+In tal caso l’organo superiore della fondazione deve constatare l’esistenza della fondazione ecclesiastica in un verbale o nell’estratto di un verbale. Il verbale o l’estratto del verbale deve contenere:
+
+- a. il nome della fondazione;
+- b. la sede e il domicilio legale della fondazione;
+- c. la data di costituzione della fondazione risultante dagli atti oppure, qualora la data non risultasse dagli atti, la data presunta di costituzione della fondazione;
+- d. lo scopo della fondazione;
+- e. il rimando ai documenti sui quali si fondano le indicazioni di cui alle lettere c–d;
+- f. gli organi della fondazione e il tipo di amministrazione;
+- g. i membri dell’organo superiore della fondazione;
+- h. le persone autorizzate ad agire quali rappresentanti.
+
+[^181a-1]: Introdotto dall’all. 2 n. II 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^181a-2]: [RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289)
+[^181a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### Capitolo 5: Entrata in vigore
+
+#### Art. 182
+
+La presente ordinanza entra in vigore il 1° gennaio 2008.
+
+Allegato 1*[^t-1]*
+
+(art. 172)
+
+## Abrogazione e modifica del diritto vigente
+
+[^t-1]: Originario all.
+
+I.
+
+L’ordinanza del 7 giugno 1937[^annex1-lvlu1-1] sul registro di commercio è abrogata.
+
+II.
+
+Le ordinanze qui di seguito sono modificate come segue:
+
+…[^annex1-lvlu1-2]
+
+[^annex1-lvlu1-1]: [[RU 53 593](https://fedlex.data.admin.ch/eli/oc/53/577_573_593), [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733), [1971 1844](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844), [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558), [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380), [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 36, [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230), [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)all. n. 4 [2669](https://fedlex.data.admin.ch/eli/oc/2004/321)[4937](https://fedlex.data.admin.ch/eli/oc/2004/746)all. n. II 1,[2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 22 [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)all. 3 n. II 1]
+[^annex1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2007 4851](https://fedlex.data.admin.ch/eli/oc/2007/686).
+
+Allegato 2*[^t-2]*
+
+(art. 116*a*)
+
+## Lista delle abbreviazioni delle forme giuridiche ammesse
+
+[^t-2]: Introdotto dal n. II dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+
+Deutsch
+
+Aktiengesellschaft AG
+
+Genossenschaft Gen
+
+Gesellschaft mit beschränkter Haftung GmbH
+
+Kollektivgesellschaft KlG
+
+Kommanditgesellschaft KmG
+
+Kommanditaktiengesellschaft KmAG
+
+Français
+
+Société anonyme SA
+
+Société coopérative SCoop
+
+Société à responsabilité limitée Sàrl
+
+Société en nom collectif SNC
+
+Société en commandite SCm
+
+Société en commandite par actions SCmA
+
+Italiano
+
+Società anonima SA
+
+Società cooperativa SCoop
+
+Società a garanzia limitata Sagl
+
+Società in nome collettivo SNC
+
+Società in accomandita SAc
+
+Società in accomandita per azioni SAcA
+
+Rumantsch
+
+Societad anonima SA
+
+Societad cooperativa SCoop
+
+Societad cun responsabladad limitada Scrl
+
+Societad collettiva SCl
+
+Societad commanditara SCm
+
+Societad acziunara en commandita SACm

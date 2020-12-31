@@ -1,0 +1,1906 @@
+---
+sr: "784.101.1"
+title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
+short: OTS
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
+language: en
+version: 2021-01-01
+adopted: 2007-03-09
+in_force: 2007-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/en"
+---
+
+> Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
+
+# Ordinance on Telecommunications Services
+
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+
+(OTS)
+
+of 9 March 2007 (Status as of 1 January 2021)
+
+The Swiss Federal Council,
+
+based on the Telecommunications Act of 30 April 1997[^ingress-1] (TCA),[^ingress-2]
+
+ordains:
+
+[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Chapter 1 Definitions
+
+#### Art. 1
+
+In this Ordinance:
+
+- a. *user* means any person who uses the services of a provider of telecommunications services;
+- b. *customer* means any person who has concluded a contract with a telecommunications service provider pertaining to the use of those services;
+- c.[^1-1] ...
+- d.[^1-2] *access price:* price for access to the services and facilities of dominant providers in accordance with Article 11 paragraph 1 TCA.
+
+[^1-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^1-2]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+## Chapter 2 General Provisions on Telecommunications Services
+
+#### Art. 2
+
+**Scope of the telecommunications service**
+
+shall not be deemed to provide a telecommunications service.
+
+Any person transmitting data:
+
+- a. within a building;
+- b. on a real property, on two adjacent or opposite real properties, separated by a road, path, railway line or watercourse;
+- a. within an enterprise, between the parent company and subsidiaries or within a group;
+- b. within statutory bodies and between them;
+- e.[^2-1] when transmitting information free of change within groups with no central organisation
+
+[^2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 3
+
+**Registration**[^3-1]
+
+<sup>1</sup> Telecommunications service providers shall submit the information required for registration to the Federal Office of Communications (OFCOM) and notify OFCOM of any changes to this information without delay.
+
+<sup>2</sup> Registered providers which intend to permit registered or not yet registered providers to use resources as specified in Article 4 paragraph 1 TCA must notify OFCOM of this.
+
+[^3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 4
+
+**Postal address in Switzerland**[^4-1]
+
+<sup>1</sup> Registered telecommunications service providers must provide a correspondence address in Switzerland to which communications, writs and official decisions in particular may be delivered with legal force, at the same time stating their standard business identification number in accordance with the Federal Act of 18 June 2010[^4-2] on the Business Identification Number.
+
+<sup>2</sup> OFCOM shall publish the postal address. It may make the address available through an online search process.
+
+[^4-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+
+#### Art. 5
+
+**Provision of data in terms of administrative assistance**[^5-1]
+
+The Post and Telecommunications Surveillance Service shall provide OFCOM free of charge with the address data of telecommunications service providers known to it that may be of importance to the enforcement and evaluation of the telecommunications legislation.
+
+[^5-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 6
+
+**Right to connect telecommunications terminal equipment**
+
+<sup>1</sup> The telecommunications service provider may not refuse to connect telecommunications terminal equipment to the corresponding interfaces for technical reasons if this telecommunications terminal equipment meets the requirements of Article 7 of the Ordinance of 25 November 2015[^6-1] on Telecommunications Installations[^6-2] (TIO).
+
+<sup>2</sup> OFCOM may grant a telecommunications service provider approval to refuse or cease connection of telecommunications terminal equipment that corresponds to the requirements of Article 7 TIO or to cease the service for this equipment if there is a risk that the equipment will cause radio interference or that it will have a damaging effect on the network or network operation. OFCOM may also take other appropriate measures.
+
+<sup>3</sup> In an emergency, a provider may immediately disconnect telecommunications equipment from the network if the protection of the network so requires and if the user can be offered an alternative immediately and free of charge. The provider shall immediately inform OFCOM.
+
+[^6-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^6-2]: Title in accordance with Art. 43 para. 1 let. a of the O of 25 Nov. 2015 on Telecommunications Installations, in force since 13 June 2016 ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
+
+#### Art. 7
+
+**Interfaces for telecommunications networks and services**[^7-1]
+
+<sup>1</sup> Telecommunications service providers must publish the technical specifications of the interfaces required for physical access to telecommunications networks.
+
+<sup>2</sup> They must on request inform OFCOM, customers and manufacturers of telecommunications installations and software for using telecommunications services of the types of interfaces they provide for the access service to the internet and for services, provided using the resources specified in Article 4 paragraph 1 TCA. They must provide the information free of charge within a reasonable time.
+
+<sup>3</sup> The information specified in paragraphs 1 and 2 must be sufficiently detailed so that the manufacture and use of telecommunications terminal equipment for the use of all services provided by the provider concerned using the corresponding interface is possible.
+
+<sup>4</sup> Providers must on request inform customers free of charge of the identification features and access data required for access to telecommunications networks and for using services in accordance with paragraphs 1 and 2.
+
+<sup>5</sup> OFCOM shall issue the required administrative and technical regulations
+
+[^7-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 8
+
+**Use of the frequency spectrum**[^8-1]
+
+The Ordinance of 18 November 2020[^8-2] on Using the Radio Frequency Spectrum applies to providers that use the frequency spectrum to provide their services.
+
+[^8-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+#### Art. 9
+
+**Apprenticeships in vocational education and training[^9-1]**
+
+<sup>1</sup> Telecommunications service providers with registered office or permanently established in Switzerland must at the latest 18 months after entering the market offer at least three per cent of positions in the telecommunications industry in Switzerland as apprenticeships for vocational education and training. Part-time positions shall be counted according to the full-time equivalent positions that they represent.[^9-2]
+
+<sup>2</sup> Providers may also fulfil this requirement in cooperation with third parties within the telecommunication industry.
+
+[^9-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^9-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10
+
+**Price transparency**
+
+<sup>1</sup> If, in the case of calls between customers of different providers of mobile telecommunications services, higher prices are charged than for calls to the same provider’s customers, then the caller shall be informed of this when the connection is established, free of charge, without advertising and in simple terms. This also applies to calls between different customer groups of the same provider. Providers must make it possible for their customers to forgo the indication free of charge.
+
+<sup>1bis</sup> If customers are charged higher prices for calls to numbers in company-wide telecommunications networks than for calls to numbers with geographical codes, customers shall be informed of this when the connection is established, free of charge, without advertising and in simple terms. Providers must make it possible for their customers to forgo the indication free of charge.[^10-1]
+
+<sup>2</sup> In the case of offerings of telecommunications services with limited free or discounted elements, the provider must make it possible for customers to inform themselves of the consumed or remaining elements free of charge.
+
+<sup>3</sup> Paragraphs 1–2 do not apply to calls to value-added services, international connections and the use of foreign mobile communications networks (international roaming).[^10-2]
+
+[^10-1]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 July 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^10-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10a
+
+**International roaming: Obligations to provide information**[^10a-1]
+
+<sup>1</sup> On conclusion of the contract, mobile radio operators shall inform their customers in writing and in a manner which is easy to understand, how and where the latter may obtain the currently applicable tariffs as well as the tariff options for price reductions.
+
+<sup>2</sup>
+
+When switching to a foreign mobile communications networks, they shall inform their customers immediately, free of charge and in a manner which is easy to understand, of the maximum costs of the following international roaming services which may be incurred:
+
+- a. calls to Switzerland;
+- b. incoming calls;
+- c. local calls;
+- d. sending of SMS;
+- e. data transmission including sending of MMS.
+
+<sup>3</sup> They shall enable their customers to deactivate and reactivate the information when switching to a foreign mobile communications networks simply and free of charge. They must inform their customers of this option on conclusion of the contract and at least once a year thereafter.
+
+<sup>4</sup> When selling an terminal device that cannot display the information on switching to a foreign mobile communications network for technical reasons, they shall, in addition to the information in accordance with paragraph 1, draw the attention of customers to subscriptions and options for price reductions for the terminal device in question.
+
+[^10a-1]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Paras. 2 and 3 come into force on 1 July 2010.
+
+#### Art. 10b–10d
+
+[^10b10d-1]
+
+[^10b10d-1]: Come into force on 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10e
+
+**Measuring the quality of internet access services and providing information to the public**[^10e-1]
+
+<sup>1</sup>
+
+Telecommunications service providers must:
+
+- a. themselves measure the quality of the fixed-network and mobile internet access services that they offer, provided they have access to the required measuring equipment;
+- b. enable their customers to measure the quality of their own fixed-network or mobile internet access service, provided the customers have access to the required measuring equipment;
+- c. compile the results and inform their customers and the public about the quality of the internet access services.
+
+<sup>2</sup> ...[^10e-2]
+
+<sup>3</sup> The information on quality must allow comparisons to be made between the offers of the various providers. They must also be published in the form of geographical maps.
+
+<sup>4</sup> In relation to fixed-network internet access, the obligation to measure and publish applies to all providers with at least 300 000 customers. In relation to mobile internet access, it applies to all providers with at least 300 000 customers and a mobile communications licence.
+
+<sup>5</sup> OFCOM shall issue provisions in the technical and administrative regulations on how the providers must measure the quality variables and publish the results.
+
+<sup>6</sup> The information on quality in accordance with this Article must be published on a freely accessible website. OFCOM may provide that the publications must appear on the same website.
+
+[^10e-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: Comes into force on 1 Sept. 2021 and 1 Jan. 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10f
+
+**Open internet**[^10f-1]
+
+<sup>1</sup> In accordance with Article 12*e* paragraph 2 letter a TCA, each provider of internet access may transmit information by different methods if this is required in order to comply with a statutory requirement or a legally binding court decision.
+
+<sup>2</sup> The customer's request to the provider in accordance with Article 12e paragraph 2 letter c TCA may not be made the standard subject of an offer which the customer accepts via the general terms and conditions or via the standard offer.
+
+[^10f-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 11
+
+**Minimum data in a directory entry**[^11-1]
+
+<sup>1</sup>
+
+The entry for a customer in directories of telecommunications services consists of at least:
+
+- a. the addressing resources by means of which the customer of the telecommunications service concerned can be contacted;
+- b. the first name and surname or the company name;
+- c. the customer’s address in full;
+- d. where applicable, the indication that they do not wish to receive advertising messages from persons with whom they have no commercial relationship and that data relating to them may not be forwarded for purposes of direct advertising (Art. 88 para. 1);
+- e. the price indication in accordance with Article 11*a*<sup>bis</sup> and 13*a* of the Ordinance of 11 December 1978[^11-2] on Price Indication (PIO) insofar as the entry relates to an addressing resource of a value-added service subject to a charge
+
+<sup>2</sup> A customer may apply for several entries in accordance with paragraph 1 with the same addressing element, provided that all persons affected by the entries have given their consent to this.
+
+<sup>3</sup> If the entry only serves to provide a communication establishment service, the entry shall be limited to data mentioned in paragraph 1 letters a–c.
+
+<sup>4</sup> If a customer agrees to be contacted via a communication establishment service, his or her telecommunications service provider must expressly inform him or her that the data mentioned in paragraph 1 letters a–c will on request be passed on to every provider of such a service.
+
+- [tab] <sup>5</sup> OFCOM shall define the data field designations and the other additional data required for formatting and publishing directories.
+
+[^11-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^11-2]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+
+## Chapter 3 Universal Service
+
+### Section 1 Universal Service Licence
+
+#### Art. 12
+
+**Granting the universal service licence**
+
+<sup>1</sup> Universal service licences shall in all cases be put out to tender as a competition based on criteria.
+
+<sup>2</sup> A bidder for a universal service licence must additionally submit in its concept the business plan for the entire term of the licence, indicating the assumed prices and the envisaged investments.
+
+<sup>3</sup> The universal service licence shall be granted to the bidder who meets the decision-making criteria and who does not request financial compensation. When several bidders meet the criteria and do not request financial compensation, the licence is granted to the bidder who best satisfies the criteria employed for qualitative evaluation.
+
+<sup>4</sup> When all the bidders who meet the criteria request financial compensation, the one whose bid offers the best ratio between the result of the qualitative evaluation and the required compensation shall receive the licence.
+
+<sup>5</sup>
+
+The Federal Communications Commission (ComCom) shall call on one or more telecommunications service providers to assure the universal service when:
+
+- a. it is apparent from the outset that the invitation to tender cannot take place under competitive conditions;
+- b. the invitation to tender has not produced any candidates;
+- c. the invitation to tender did not take place under competitive conditions, in particular when only one bid was submitted;
+- d. at the end of the tender no bidder meets the criteria.
+
+<sup>6</sup> The licensee designated on the basis of paragraph 5 may request financial compensation.
+
+<sup>7</sup> The new universal service licence shall be granted six months at the latest before the expiry of the licence in force.
+
+#### Art. 13
+
+**Financial compensation**
+
+<sup>1</sup> The financial compensation serves exclusively to finance the uncovered costs of the universal service.
+
+<sup>2</sup> The uncovered costs are equivalent to the net total costs of the universal service. The net total costs are equivalent to the difference between the costs to the company providing the universal service and the costs it would incur if it did not have to provide the universal service.
+
+#### Art. 14
+
+**Calculation of net total costs**
+
+<sup>1</sup>
+
+The net costs of the universal service are equivalent to the expenses incurred by an efficient provider in ensuring the universal service. The net costs, which are listed in itemised form for each service, are calculated using the following principles:
+
+- a. the calculation is performed on a current basis;
+- b. the network costs are assessed using book values;
+- c. the capital yield on investments is that typical of the sector, and must be weighted with the risk associated with the provision of the universal service;
+- d. the depreciation method takes the lifetime of the investments into account; this must correspond to their economic lifetime;
+- e. direct and indirect revenues must be subtracted from the costs.
+
+<sup>2</sup> The net total costs of the universal service are equivalent to the sum of the net costs assessed separately for the individual services following deduction of intangible advantages.
+
+<sup>3</sup> The data used for the calculation must be supported, i.e. it must be transparent and must derive from dependable sources. For this purpose, the professional recommendations on the presentation of accounts (FER), the internationally recognised accounting standards (IAS) or comparable internationally recognised accounting guidelines must be applied.
+
+### Section 2 Obligations of the Universal Service Licensee
+
+#### Art. 15
+
+**Services of the universal service**
+
+<sup>1</sup>
+
+The universal service comprises the following services:
+
+- a. a public telephony service that permits the conduct of national and international telephone conversations in real time with one number[^15-1];
+- b. a public telephony service that permits the conduct of national and international telephone conversations in real time with three numbers;
+- c. an entry in the directory for the public telephony service for persons using a service mentioned in letters a or b; households are entitled to two entries;
+- d.[^15-2] an internet access service with a guaranteed transmission rate of 10/1 Mbit/s;
+- e.
+
+  the following services for the hearing impaired:
+
+  - 1\. provision of a transcription service for the hearing impaired including emergency calls and an SMS relay service, both of which are available round the clock,
+  - 2\. provision of an operator service by video telephony that is available from Monday to Friday from 8am to 9pm, and on Saturday, Sunday and on public holidays recognized by federal law from 10am to 5pm;
+
+- f.[^15-3] directory and operator service for the visually impaired and people with limited mobility: access to directory data of the customers of all providers of services forming part of the public telephony service in Switzerland via a speech-based information service in the three official languages and provision of an operator service around the clock; provided the universal service licensee offers a communication establishment service this operator service also enables a connection to customers who are not entered in a directory in accordance with Article 11 paragraph 4 but who consent to be contacted as part of a communication establishment service.[^15-4]
+
+<sup>2</sup> The universal service licensee is obliged to provide these services for the full term of the licence.
+
+<sup>3</sup> OFCOM shall fix the specifications applicable to the services of the universal service. These specifications shall be based on harmonised international standards.
+
+[^15-1]: Term in accordance with No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)). This amendment has been made throughout the text.
+[^15-2]: Amended by No I of the O of 30 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3487](https://fedlex.data.admin.ch/eli/oc/2019/636)).
+[^15-3]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^15-4]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 16
+
+**Connection**[^16-1]
+
+<sup>1</sup> The services mentioned in Article 15 paragraph 1 shall be provided by means of a connection up to the network termination point within the customer’s residence or business premises.
+
+<sup>2</sup>
+
+If the connection does not permit the provision of the service mentioned Article 15 paragraph 1 letter d for technical or economic reasons, the universal service licensee may in exceptional cases:
+
+- a. reduce the scope of the service; or
+- b. forego providing the service if an alternative offer is available on the market on comparable terms.
+
+<sup>3</sup>
+
+The universal service licensee must notify OFCOM each year of exceptional cases in terms of paragraph 2, providing the following details in particular:
+
+- a. annual number of instances in which the scope of the service was reduced or the service was not provided;
+- b the reasons why the scope of the service was reduced or the service was not provided;
+- c. the place where the scope of the service was reduced or the service was not provided;
+- d. the extent of the reduction in the scope of the service.
+
+<sup>4</sup> OFCOM may publish the details in paragraph 3 in anonymised form.
+
+- [tab] <sup>5</sup> It shall designate the specifications for the network termination point that must be complied with. These shall be based on internationally harmonised standards.
+
+[^16-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 17
+
+**Building entry point**
+
+<sup>1</sup> The universal service licensee must provide the telecommunications installations required for providing services of the universal service up to the building entry point. It is not obliged to provide the house installation.
+
+<sup>2</sup> If it introduces a new technology that requires adaptation of the building installation, it shall bear the costs of this adaptation.
+
+<sup>3</sup> On the occasion of the initial provision of these telecommunications installations, the proprietor may determine the location of the building entry point.
+
+<sup>4</sup> In the case of existing telecommunications installations, the licensee is not permitted to demand that the building entry point be moved.
+
+<sup>5</sup> OFCOM may issue technical regulations governing the building entry point.
+
+#### Art. 18
+
+**Connections outside the residential area**[^18-1]
+
+<sup>1</sup> If a customer requests that a different technology from that offered by the universal service licensee be used in a location served by the telecommunications network that is outside the residential area, then the customer must pay the portion of the costs that exceeds the cost of installing a connection in accordance with Article 16.
+
+<sup>2</sup> When the installation of a connection in accordance with Article 16 in locations not served by the telecommunications network outside the residential area costs more than 20,000 francs, the customer may be required to pay the portion of the costs that exceeds 20,000 francs.
+
+<sup>3</sup> If the installation of a connection outside the residential area costs more than 20,000 francs, the universal service licensee may stipulate a minimum contractual term. This term may not exceed that of the universal service licence.
+
+<sup>4</sup> Where the customer pays a share of the costs, the scope of the service may not be reduced in accordance with Article 16 paragraph 2 letter a.
+
+[^18-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 19 and 20
+
+[^1920-1]
+
+[^1920-1]: Repealed by No I of the O of 2 Dec. 2016, with effect from 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 21
+
+**Quality of the universal service**
+
+<sup>1</sup>
+
+The universal service licensee shall assess the quality of the universal service offered according to the following criteria, and submit a report thereon each year to OFCOM:
+
+- a.
+
+  concerning connections:
+
+  - 1\. time taken to install a connection,
+  - 2\. number of fault notifications per connection and per year,
+  - 3\. repair time;
+
+- b.
+
+  concerning the public telephony service:
+
+  - 1\. availability of the service,
+  - 2\. connection set-up time,
+  - 3\. voice transmission quality,
+  - 4\. unsuccessful call ratio for connection set-up as a result of network congestion or network fault,
+  - 5\. billing accuracy;
+
+- c.
+
+  concerning the internet access service:
+
+  - 1\. availability of the service,
+  - 2\. data transmission quality;
+
+- d. response times for services for persons with disabilities.[^21-1]
+
+<sup>2</sup> OFCOM shall regulate the technical details and set the target performance values for the quality criteria. In this context it shall be guided by advances in quality and take technical developments into account.
+
+<sup>3</sup> The universal service licensee must guarantee OFCOM access to its installations so that the latter can check whether the target performance values for the quality criteria are being met.[^21-2]
+
+<sup>4</sup> OFCOM may appoint an independent expert to determine whether the target performance values for the quality criteria are being met. The findings of such an investigation may be published.[^21-3]
+
+[^21-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^21-2]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^21-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 22
+
+**Maximum prices**[^22-1]
+
+<sup>1</sup>
+
+The following maximum prices apply (excluding value-added tax):
+
+- a. public telephony service with one number (Art. 15 para. 1 let. a) with either one or two entries in the directory (Art. 15 para. 1 let. c), including connection (Art. 16): 23.45 francs per month;
+- b. internet access service (Art. 15 para. 1 let. d), including connection (Art. 16): 45 francs per month;
+- c. public telephony service with one number (Art. 15 para. 1 let. a) with either one or two entries in the directory (Art. 15 para. 1 let. c) and internet access service (Art. 15 para. 1 let. d), including connection (Art. 16): 55 francs per month;
+- d. public telephony service with three numbers (Art. 15 para. 1 let. b): in addition to the amount under letter a or c: 16.55 francs per month;
+- e. offering services in accordance with letters a–d: a non-recurring fee of 40 francs on conclusion of the contract and on changing between the services offered at the customer’s request;
+- f. national connections as part of public telephony service (Art. 15 para. 1 let. a and b) to fixed-network connections charged according to the number of seconds and rounded up to the next 10 cents: 7.5 cents per minute;
+- g. use of the transcription service (Art. 15 para. 1 let. e no 1), charged according to the number of seconds and rounded up to the next 10 cents: 3.4 cents per minute.
+
+<sup>2</sup> The maximum prices also apply to services that are provided via connections in accordance with Article 18.
+
+<sup>3</sup> The universal service licensee shall report to OFCOM all changes to its tariffs no less than 30 days before they are due to take effect.
+
+[^22-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 23
+
+**Unpaid bills and security deposits**
+
+<sup>1</sup> If subscribers do not pay the bills for services of the universal service provided in the context of the universal service licence on time, the universal service licensee is obliged to send them a reminder containing a reference to the measures that can be expected.
+
+<sup>2</sup> If the bill is disputed with grounds or if it does not apply to services of the universal service provided in the context of the universal service licence, the universal service licensee is not entitled to block connections or to terminate the contract prior to settlement of the dispute.
+
+<sup>3</sup> If the ability of subscribers to pay is in doubt, the universal service licensee may demand security deposits subject to the interest rate applicable to savings accounts. The amount of these security deposits may not exceed the sum required to cover the licence holder’s expected risk.
+
+### Section 3 Financing the Universal Service
+
+#### Art. 24
+
+**Setting the financial compensation**
+
+<sup>1</sup> The net total costs are calculated on the basis of the principles contained in Article 14.
+
+<sup>2</sup> The provisional costs must be submitted to OFCOM by 31 July of the year prior to that for which the budget has been prepared. If the universal service licence is put out to tender, the anticipated costs for the first two years of the licence shall be set out directly in the universal service licensee’s application.[^24-1]
+
+<sup>3</sup> The actual costs must be submitted to OFCOM two months following the end of the year at the latest. The universal service licensee must provide OFCOM with all data necessary for monitoring the actual costs.[^24-2]
+
+<sup>4</sup> ComCom shall establish the amount of the financial compensation on the basis of the actual costs. The differences between the provisional and actual costs must be conclusively substantiated in order to be the object of a claim for compensation.
+
+<sup>5</sup> The licensee shall advance the annual financial compensation. Interest is charged on the advance at a rate which applies for federal obligations with the same or a comparable term at the time of the compensation.
+
+<sup>6</sup> OFCOM may demand an audit of the bookkeeping data and cost calculations.[^24-3]
+
+<sup>7</sup> If the licensee does not submit the required information within twelve months of the year-end, any claim to a contribution lapses.
+
+[^24-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^24-2]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^24-3]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 25
+
+**Fees for the financing of the universal service**
+
+<sup>1</sup> The decisive factor in calculating the fee for a registered provider of telecommunications services is its turnover in the telecommunications services offered in the country minus the costs of the telecommunications services which it has purchased wholesale from third-party providers and the costs of telecommunications services billed to third parties.[^25-1]
+
+<sup>2</sup> Telecommunications service providers shall provide OFCOM with information on the previous year’s turnover by 30 April at the latest, and for the first time in 2009.
+
+<sup>3</sup> If a provider does not submit the data necessary for calculation of the fees, OFCOM shall make its calculation on the basis of the total turnover subject to value-added tax.
+
+<sup>4</sup> OFCOM may provide for an external monitoring system to test the accuracy of the data provided by telecommunications service providers.
+
+<sup>5</sup> If a defaulting provider does not pay the amounts it owes within one year of the period set in the reminder, these are carried forward to the net total costs of the period following this appraisal. The transfer does not cancel the payment obligation. Amounts which are subsequently paid are transferred to the facility which the financing mechanism manages and deducted from the net total costs for the period following receipt of the payment.
+
+<sup>6</sup> Providers with a definitive annual turnover (para. 1) of less than five million francs are exempt from the fee.
+
+<sup>7</sup> OFCOM shall issue administrative regulations for determining turnover and the information necessary for apportioning costs.
+
+[^25-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 26
+
+**Administration of the financing mechanism**
+
+<sup>1</sup> OFCOM shall administer the financing mechanism. It may issue technical and administrative regulations for this purpose.
+
+<sup>2</sup> It shall periodically publish a report on the financing of the universal service.
+
+<sup>3</sup> The costs for administration of the financing mechanism are covered by the fees for financing the universal service.
+
+## Chapter 4**** Obligations Deriving from the Provision of Specific Services
+
+[^chap4-1]
+
+[^chap4-1]: Previously before Art. 27.
+
+#### Art. 26a
+
+**Transmission of numbers**[^26a-1]
+
+<sup>1</sup> Providers of the public telephony service which generate connections must ensure that at least one number in conformity with the Swiss E.164 numbering plan is transmitted as the telephone number of the calling line.
+
+<sup>2</sup> They must transmit the number that is allocated to the customer for the service within the framework of which the connection is established. The other telecommunications service providers involved in the connection shall not modify transmitted numbers.
+
+<sup>3</sup> Providers of the public telephony service may enable their customers to transmit other numbers when the connection is established, provided they can demonstrate a right of use. If providers are aware that customers are transmitting numbers for which they do not have a right of use, they must take appropriate measures to prevent the transmission of these numbers.
+
+<sup>3bis</sup> If customers provide prima facie evidence that unauthorised third parties are using their numbers, the providers of a public telephony service may with the consent of the customers concerned block calls that transmit the relevant numbers. The foregoing does not apply to calls that are actually made from the connections of the customers concerned.[^26a-2]
+
+<sup>4</sup> Transmitted numbers must be provided with an identifier which indicates whether they are based on information from the calling customer or on information from the provider generating the connection, and whether the latter has verified the customer’s number information.
+
+<sup>5</sup> No numbers from the ranges 0900, 0901 or 0906 shall be transmitted as numbers of calling lines.
+
+[^26a-1]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^26a-2]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 27
+
+**Access to the emergency call services**[^27-1]
+
+<sup>1</sup> Access to the emergency call services under Article 28 of the Ordinance of 6 October 1997[^27-2] on Addressing Resources in the Telecommunications Sector (TSRO) must be guaranteed from every telephone connection and must be free of charge. A flat-rate charge of 20 cents per call may be imposed for telephone assistance for adults.
+
+<sup>2</sup> Providers of services of the universal service by satellite mobile telephony to which the International Telecommunication Union has allocated addressing resources need only guarantee free-of-charge access to the European emergency number 112.
+
+[^27-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^27-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+
+#### Art. 28
+
+**Routing of emergency calls**[^28-1]
+
+Providers of the public telephony service must assure the routing of emergency calls to the emergency services specified in Article 28 TSRO[^28-2].
+
+[^28-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^28-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+
+#### Art. 29
+
+**Location of emergency calls**[^29-1]
+
+<sup>1</sup> As far as the chosen technology permits, on-line caller location must be guaranteed for calls to the emergency services specified in Article 28 TSRO[^29-2]. This must also be guaranteed for customers who have chosen not to be entered in a public directory.
+
+<sup>2</sup> Device-specific location functions may be activated during an emergency call even without the express consent of the customer. Insofar as the selected technology permits, they must be deactivated again after the emergency call has ended.
+
+<sup>3</sup> On request, OFCOM may designate other numbers exclusively for emergency services of the police, fire brigade, ambulance and rescue services for which caller location must be possible. OFCOM shall publish a list of these numbers.
+
+[^29-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+
+#### Art. 29a
+
+[^29a-1]
+
+[^29a-1]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 29b
+
+**Location of emergency calls: Operating a caller location service**[^29b-1]
+
+<sup>1</sup> The universal service licensee, in co-operation with the other public telephony service providers and for the benefit of the alarm centres, shall operate a caller location service. This service must also be accessible for alarm centres that are not connected to the universal service licensee.
+
+<sup>2</sup> The co-operation between the universal service licensee and the other public telephony service providers and the use of the caller location service by the alarm centres is based on the cost-oriented principles indicated in Article 54.
+
+<sup>3</sup> The providers of the public telephony service shall bear the investment and operating costs for providing caller location.
+
+<sup>4</sup> ...[^29b-2]
+
+<sup>5</sup> The alarm centres shall bear only the costs of using the caller location service.
+
+[^29b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-2]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 30
+
+**Special provisions concerning emergency calls**[^30-1]
+
+<sup>1</sup> If, in the case of voice transmission over internet protocol, correct routing and caller identification of emergency calls is not technically possible for every location, they must be guaranteed only for calls from the main location cited in the subscription contract.
+
+<sup>2</sup> Public telephony service providers must ensure that customers are informed of this limitation and have explicitly confirmed that they are aware of it. They shall inform the customers that whenever possible a means of communication should be used with which correct routing and caller identification of emergency calls is technically possible.
+
+<sup>2</sup> If the chosen technology so permits, in extraordinary situations emergency calls must not be interrupted by priority treatment of civil telecommunications traffic by customers who have important duties to perform in such situations.
+
+<sup>3</sup> Emergency calls must not be interrupted by prioritised telecommunications services for security communication (Art. 90 para. 2).
+
+[^30-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 31
+
+**Modalities of directory data provision**[^31-1]
+
+<sup>1</sup> Public telephony service providers are obliged to provide those entitled in accordance with Article 21 paragraph 2 TCA both online access to the minimum data from directory entries pertaining to their customers and the transmission of data en bloc, with the option of at least daily updates.
+
+<sup>2</sup> The providers that have the access to the directory data under Article 11 paragraphs 1 and 2 may modify the directory data if a customer so requests and they notify the public telephony service provider concerned of the modifications.
+
+<sup>3</sup> The providers that have access to the directory data under Article 11 paragraph 3 may process this data only in order to provide a service for establishing communication. They may not publish the data, use them for advertising purposes or disclose them to third parties.
+
+[^31-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 32
+
+**Interoperability**
+
+<sup>1</sup>
+
+Public telephony service providers must guarantee the communication capability of this service (Art. 21*a* para. 1 TCA). They must guarantee interconnection directly or indirectly. It shall comply with the provisions concerning:[^32-1]
+
+- a. transparency of the basic offering (Art. 53 paras. 1, 2 and 4);
+- b. publication of the technical and commercial conditions in respect of the providers requesting interconnection (Art. 61);
+- c.[^32-2] interfaces (Art. 55).
+
+<sup>2</sup> The procedure in the event of disputes concerning interoperability is based, *mutatis mutandis*, on Articles 70–74.
+
+<sup>3</sup> ComCom shall decide on the conditions of interconnection according to the principles which are customary in the market and in the sector.
+
+[^32-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^32-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 33
+
+**Services for the hearing or visually impaired or persons with limited mobility**
+
+<sup>1</sup> The services for the hearing or visually impaired and persons with limited mobility must be free of charge, regardless of whether they are provided by providers of services of the universal service themselves or via access to third-party services.
+
+<sup>2</sup> The connection charges charged to the hearing or visually impaired and persons with limited mobility within the framework of these services shall not be discriminatory in comparison with the standard tariffs.
+
+## Chapter 4*a* Number Portability****
+
+[^chap4a-1]
+
+[^chap4a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34
+
+**Applicability**[^34-1]
+
+Articles 34*a*–34*e* apply to the portability of numbers in the E.164 numbering plan[^34-2], with the exception of pager services.
+
+[^34-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^34-2]: Recommendation of the ITU-T. This recommendation may be obtained from the International Telecommunication Union, Place des Nations, 1211 Geneva.
+
+#### Art. 34a
+
+**Number portability between telecommunications service providers**[^34a-1]
+
+<sup>1</sup> Telecommunications service providers must offer their customers the possibility of keeping their numbers if they change provider within the same category of telecommunications services.
+
+<sup>2</sup>
+
+The categories are:
+
+- a. the public fixed network telephony service;
+- b. the public mobile network telephony service;
+- c. the non-geographical services of the same type as the services of the toll-free numbers of the 0800 type.
+
+<sup>3</sup> Customers extension number ranges may only be transferred in their entirety. Adjustments such as the reduction or division of transferred extension number ranges must be agreed between the current and the original provider.
+
+<sup>4</sup> OFCOM shall issue the required technical and administrative regulations.
+
+[^34a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34b
+
+**Costs**[^34b-1]
+
+<sup>1</sup> Telecommunications service providers that are required to guarantee number portability shall bear the costs of doing so.
+
+<sup>2</sup> They may request the new provider to make financial contributions to cover the administrative costs directly associated with the transfer of the numbers. The rules on cost-based pricing in accordance with Articles 54–54*c* apply in an analogous manner.
+
+<sup>3</sup> The providers shall regulate the coverage of costs that are associated with directing connections to the transferred numbers in their interconnection agreements.
+
+[^34b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34c
+
+**Change in the location of the connection**[^34c-1]
+
+Telecommunications service providers may offer their customers the option of keeping their number in the event of a change in the location of the connection.
+
+[^34c-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34d
+
+**Guaranteeing transmission**[^34d-1]
+
+Telecommunications service providers that offer number portability must guarantee the transmission of the number in accordance with Article 26a paragraph 2.
+
+[^34d-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34e
+
+**Access to information**[^34e-1]
+
+Telecommunications service providers that are required to guarantee number portability must give other providers access to the information that ensures correct connection direction to the ported numbers.
+
+[^34e-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Chapter 4*b***** Free Choice of Provider for National and International Connections
+
+[^chap4b-1]
+
+[^chap4b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 34f
+
+<sup>1</sup> Public telephony service providers may offer their customers the option of using the service of another provider for national and international connections. This may be both predetermined or, by entering the short number assigned for this purpose, done for each individual call.
+
+<sup>2</sup> Any person who enters an invalid short number must be notified of this immediately.
+
+<sup>3</sup> OFCOM shall issue the required technical and administrative regulations.
+
+## Chapter 5 Value-Added Services
+
+#### Art. 35
+
+**Scope of application[^35-2]**[^35-1]
+
+<sup>1</sup> In this Chapter, only Articles 39*a* and 39*b* paragraph 2 apply to value-added services which are provided via E.164 numbering plan addressing resources of the type 0800 (free numbers), 00800 (international free numbers) and 084x (shared-cost numbers).[^35-3]
+
+<sup>2</sup> Only Articles 36 paragraphs 4 and 5, 38 paragraph 4, 40 paragraphs 3–5 and 41 paragraphs 1 letter c and 2 in this Chapter apply to value-added services which are offered neither via E.164 numbering plan addressing resources or via SMS or MMS.
+
+[^35-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^35-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-3]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 36
+
+**Identifiability of value-added services**
+
+<sup>1</sup> Value-added services must be clearly identifiable to users.
+
+<sup>2</sup> For the provision of value-added services via addressing resources of the E.164 numbering plan, only individually allocated numbers in accordance with Articles 24*b*–24*i* TSRO[^36-1] and short numbers in accordance with Articles 29–32 and 54 TSRO shall be used.[^36-2]
+
+<sup>3</sup> For the provision of value-added services via SMS or MMS, only short numbers in accordance with Articles 15*a*–15*f* TSRO shall be used.
+
+<sup>3bis</sup> Holders of numbers under paragraphs 2 and 3 are also deemed to be providers of value-added services even if they do not offer the services themselves.[^36-3]
+
+<sup>4</sup> Value-added services which are offered neither via addressing resources of the E.164 numbering plan nor via SMS or MMS must be clearly and explicitly declared as value-added services.
+
+<sup>5</sup> Value-added services with erotic or pornographic content must belong to a separate category clearly identifiable for customers.
+
+[^36-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^36-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^36-3]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 37
+
+**Obligation regarding headquarters or permanent establishment**[^37-1]
+
+Providers of value-added services must have a headquarters or a permanent establishment in Switzerland.
+
+[^37-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 38
+
+**Charging for value-added services**
+
+<sup>1</sup>
+
+Provided the possibility of disputing their bill exists, customers may require their provider to communicate to them the following data in individual cases, free of charge, or with each bill, under a separate heading, if this data is used for billing purposes:
+
+- a. if available, the addressing resource via which the value-added service is provided;
+- b. the date and time of the provision of the value-added service;
+- c. where applicable the duration of the connection;
+- d. the fee charged for the value-added service.
+
+<sup>2</sup> In the case of connections with prepayment for services, the provider of telecommunications services, on request, communicates the data mentioned in paragraph 1. Verbal communication must be free of charge. A written communication may be made subject to only a small charge.
+
+<sup>3</sup> A clear indication must be given on the bill as to how the identity and address of the value-added service provider may be determined.
+
+<sup>4</sup> If a customer disputes a bill for value-added services, the provider of telecommunications services may not block the connection or cancel the contract before the dispute is resolved. This applies even if the value-added service is not provided via a telecommunications service but is merely offered via the latter. However, the provider of telecommunications services may block access to value-added services.
+
+#### Art. 39
+
+**Price ceilings for value-added services in general[^39-1]**
+
+<sup>1</sup> In the case of value-added services, basic or fixed charges shall not exceed 100 francs.
+
+<sup>2</sup> In the case of value-added services, the price per minute shall never exceed 10 francs.
+
+<sup>3</sup> In the case of value-added services which are based on registration by the customer and which may activate a multiplicity of individual items of information, neither the charge per individual item of information nor the sum of the charges for the individual items of information transferred by the provider within one minute shall exceed 5 francs.
+
+<sup>4</sup> In the case of value-added services, the sum of all charges (basic charge, fixed charges and time-dependent charges) per connection or per registration shall not exceed 400 francs.
+
+[^39-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 39a
+
+**Maximum prices for value-added services of type 084x, 0800 and 00800[^39a-2]**[^39a-1]
+
+<sup>1</sup> For connections to numbers of type 084x, telecommunications service providers may only charge their customers a time-dependent price of a maximum of 7.5 cents per minute (excluding value added tax). Calls are charged on a per second basis. The final amount may be rounded up to the nearest 10 cents.[^39a-3]
+
+<sup>2</sup> Telecommunications service providers may not charge their customers for connections to numbers of type 0800 and 00800.
+
+[^39a-1]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 July 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^39a-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39a-3]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 39b
+
+**Price transparency in the case of value-added services**[^39b-1]
+
+<sup>1</sup> For connections to numbers of type 090x and to short numbers under Articles 29–32 and 54 TSRO[^39b-2], telecommunications service providers may only charge their customers the price agreed between the holder of the number and the provider operating the number for a call to the number and which is disclosed in accordance with Articles 11*a* and 13*a* PIO[^39b-3]. The final amount may be rounded up to the nearest 10 cents. For connections to numbers of type 090x, time-dependent charges must be billed on a per second basis.
+
+<sup>2</sup> No surcharges may be added to prices regulated in paragraph 1 and Article 39*a* for connections to numbers of type 0800, 00800, 084x, 0878, 090x and short numbers under Articles 29–32 and 54 TSRO.
+
+[^39b-1]: Inserted by No I of the O of 5 Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+
+#### Art. 40
+
+**Blocking access to value-added services**
+
+<sup>1</sup> Telecommunications service providers shall enable their customers to bar outgoing calls to all type 090x numbers or only to the type 0906 numbers reserved for erotic or pornographic content.[^40-1]
+
+<sup>2</sup> Telecommunications service providers who offer access to short numbers for SMS and MMS services (Art. 15*a*-15*f* TSRO[^40-2]) shall enable their customers to block access to all SMS and MMS services or only to services with erotic or pornographic content. Reception of the corresponding SMS and MMS services must also be blocked.[^40-3]
+
+<sup>3</sup> Telecommunications service providers shall enable their customers to block outgoing connections to all value-added services in accordance with Article 35 paragraph 2 or only to those with erotic or pornographic content.
+
+<sup>4</sup> Customers must be able to activate and deactivate call blockings at any time, simply and free of charge. This does not apply to customers in accordance with Article 38 paragraph 4 third sentence and in accordance with Article 41.
+
+<sup>5</sup> Telecommunications service providers in accordance with paragraphs 1, 2 and 3 shall inform their customers of these call blocking options on conclusion of the contract and thereafter at least once a year.
+
+[^40-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^40-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 41
+
+**Protection of minors**[^41-1]
+
+<sup>1</sup>
+
+Telecommunications service providers shall bar access to the following services to customers or users under 16 years of age provided their age is known to the provider:
+
+- a. value-added services with erotic or pornographic content (0906 numbers);
+- b. SMS and MMS services with erotic or pornographic content provided via short numbers;
+- c. value-added services with erotic or pornographic content which are offered neither via E.164 numbering plan addressing resources nor via SMS or MMS.
+
+<sup>2</sup>
+
+To determine whether it is appropriate to bar access, providers of mobile telecommunications services shall:
+
+- a. record the age of the principal user, if he or she is less than 16 years of age, at the time of conclusion of the contract and the sale of new telecommunications terminal equipment;
+- b. demand, in case of doubt, the production of a valid passport or identity card or another travel document recognised for entry into Switzerland.
+
+[^41-1]: Amended by No I of the O of 9 Dec. 2011, in force since 1 March 2012 ([AS 2012 367](https://fedlex.data.admin.ch/eli/oc/2012/25)).
+
+## Chapter 6 Dispute Resolution Service
+
+#### Art. 42
+
+**Establishment**
+
+<sup>1</sup> OFCOM shall establish a dispute resolution service or commission a third party (the Agent) to establish one within 15 months of the entry into force of these provisions.
+
+<sup>2</sup>
+
+It may transfer the task of dispute resolution if the Agent:
+
+- a. guarantees to comply with the applicable legislation;
+- b. proves that it is able to finance the dispute resolution activity in the long term;
+- c. undertakes to perform its duty independently, objectively, transparently and efficiently, and in particular ensures that the persons entrusted with the resolution of disputes are in possession of the necessary professional qualifications;
+- d. guarantees the transparency of its activity to OFCOM and the public and in particular undertakes to publish an annual report on its activities.
+
+<sup>3</sup> OFCOM appoints the Agent for a limited term. It may carry out a public invitation to tender which is not subject to Articles 32 ff. of the Ordinance of 11 December 1995[^42-1] on Public Procurement.
+
+<sup>4</sup> The transfer takes place in the form of a contract under administrative law.
+
+<sup>5</sup> OFCOM approves the appointment of the natural person responsible for the dispute resolution service.
+
+[^42-1]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+
+#### Art. 43
+
+**Mission**
+
+<sup>1</sup> The dispute resolution service is responsible for disputes in civil law between customers and their providers of telecommunications or value-added services.
+
+<sup>2</sup> It shall fulfil its dispute resolution mission independently, objectively, transparently and efficiently. It is not subject to any general or particular instruction regarding the resolution of disputes.
+
+#### Art. 44
+
+**Procedural Rules**
+
+<sup>1</sup> The dispute resolution service shall issue procedural rules.
+
+<sup>2</sup> The Agent shall submit its procedural rules and its rules on charges and amendments thereto to OFCOM for approval.
+
+#### Art. 45
+
+**Principles of the procedure**
+
+<sup>1</sup> The dispute resolution service must be fair, expeditious and affordable for customers.
+
+<sup>2</sup>
+
+An application for resolution of a dispute is permitted only if:
+
+- a. the party making the application has previously tried to reach an agreement with the other party to the dispute;
+- b. it is submitted under the conditions laid down in the procedural rules of the dispute resolution service;
+- c. it is not obviously abusive;
+- d. no court or arbitration court is dealing with the matter.
+
+<sup>3</sup> The dispute resolution procedure is carried out in one of the Confederation’s official languages, at the choice of the customer.
+
+<sup>4</sup> The dispute resolution service may take all necessary measures to resolve the dispute that it is called upon to deal with. It shall make an appropriate proposal to resolve the dispute when the parties cannot agree on a solution by negotiation. It shall produce a report on the conduct of the resolution procedure, which is issued to the parties on request.
+
+<sup>5</sup> The dispute resolution procedure ends with the withdrawal of the application, agreement between the parties, the resolution proposal or the rejection of the application as clearly abusive.
+
+#### Art. 46
+
+**Relationship to other procedures**
+
+<sup>1</sup> The submission of an application for resolution of a dispute does not prevent a civil action.
+
+<sup>2</sup> The dispute resolution service shall terminate the procedure as soon as a court or arbitration court begins dealing with the matter.
+
+#### Art. 47
+
+**Providers’ obligations**
+
+<sup>1</sup> Any provider of telecommunications or value-added services that is involved in a dispute resolution application must take part in the dispute resolution procedure. It shall comply with the dispute resolution service’s requests for information.
+
+<sup>2</sup> Providers of telecommunications or value-added services shall on request provide the dispute resolution service with the telecommunications traffic data necessary for resolution of the dispute and the other personal data of their customers provided they hold such data.
+
+<sup>3</sup> Providers of telecommunications services shall inform their customers of the existence of the dispute resolution service on every bill. For customers with a connection with prepayment for services, they shall do this each time the user account is charged. Each time information is provided it shall be pointed out that the dispute resolution service is also competent for disputes in the area of value-added services.[^47-1]
+
+[^47-1]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 48
+
+**Data protection**
+
+<sup>1</sup> The dispute resolution service may process the personal data of parties to the dispute if this is necessary to fulfil its mission and to receive the payment for which the parties are responsible. It may conserve this data for a maximum of five years after the conclusion of a dispute resolution procedure.[^48-1]
+
+<sup>2</sup> Persons performing a task for the dispute resolution service are bound by official secrecy in accordance with Article 320 of the Criminal Code[^48-2].[^48-3]
+
+<sup>3</sup> The dispute resolution service may request OFCOM to provide it with personal information that is necessary for the resolution of disputes. In particular, it may request information concerning administrative or criminal prosecutions and penalties against a provider of telecommunications or value-added services.
+
+<sup>4</sup> The dispute resolution service may publish its resolution proposals in full or in part on the internet, without referring to the identity of the parties. It shall publish a summary of its most important proposals.
+
+<sup>4bis</sup> It may publish statistics on the number of cases broken down according to providers of telecommunications and value-added services.[^48-4]
+
+<sup>5</sup> It must communicate free of charge the personal data which it has available at the time of cessation of its dispute resolution activity to a new appointee or to OFCOM.[^48-5]
+
+[^48-1]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^48-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^48-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^48-5]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 49
+
+**Finance**
+
+<sup>1</sup> The Federal Department for the Environment, Transport, Energy and Communications (DETEC) or the Agent shall set the fees for the procedure and the other sources of revenue to finance the dispute resolution service.[^49-1]
+
+<sup>2</sup> The procedural fee demanded of customers must be low, except in the case of dispute resolution procedures that are clearly initiated in an abuse of the process.
+
+<sup>3</sup> Providers of telecommunications or value-added services shall pay a fee for each procedure in which they are involved or should be involved. The dispute resolution service may waive a fee in the case of dispute resolution procedures that a customer has clearly initiated in an abuse of the process.
+
+<sup>4</sup> The dispute resolution service may impose the procedural fees on the parties by way of an administrative decision.
+
+[^49-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 50
+
+**Surveillance in the case of transfer**
+
+<sup>1</sup> OFCOM shall exercise surveillance to ensure that the Agent complies with the applicable law in this area, in particular this chapter and the contract concluded under administrative law.
+
+<sup>2</sup> If there are indications that the Agent is not fulfilling its obligations, OFCOM shall conduct an examination. The Agent must provide all useful information. If it is established on the basis of the examination that the Agent is not fulfilling or is no longer fulfilling its obligations, it shall bear the costs of the examination.
+
+<sup>3</sup>
+
+If OFCOM establishes that the Agent is not fulfilling its obligations, it may:
+
+- a. instruct it to remedy the deficiency or take measures to prevent recurrence of the violation; the Agent shall inform OFCOM of the measures taken;
+- b. require it to pay to the Confederation the revenue it has acquired by violating the law;
+- c. add conditions to the contract under administrative law;
+- d. restrict, suspend or cancel the contract under administrative law without compensation.
+
+<sup>4</sup> OFCOM shall cancel the contract without compensation if the Agent has ceased its activity or is bankrupt.
+
+<sup>5</sup> It may cancel the contract without compensation if the actual or legal conditions have changed and the cancellation is necessary to safeguard predominant public interests.
+
+## Chapter 7 Access to the Facilities and Services of Dominant Providers
+
+### Section 1 General Provisions
+
+#### Art. 51
+
+**Rights**[^51-1]
+
+All telecommunications service providers are entitled to have access to the facilities and services of the provider with a dominant position in the market (the «dominant provider»).
+
+[^51-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 52
+
+**Non-discrimination**
+
+<sup>1</sup> The dominant provider shall allow other providers access to the facilities, services and the corresponding information without discrimination.
+
+<sup>2</sup> Other providers must not be treated less favourably than business units, subsidiaries or other partners of the dominant provider.[^52-1]
+
+<sup>2bis</sup> The difference between the access prices offered by the dominant provider and its end customer prices must allow a comparable, efficient provider to achieve cost-covering revenues.[^52-2]
+
+<sup>3</sup> The dominant provider may provide only the technical reserves that are necessary for current operation, maintenance and replacement of its own installations. On request it must allow other providers to inspect its installations and where applicable justify in writing why the capacities are not sufficient.
+
+<sup>4</sup> It shall process the orders of other providers immediately in the order in which they are received. It may reject an order if there are well-founded doubts that it corresponds to the actual requirements of the other provider.[^52-3]
+
+[^52-1]: Amended by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-2]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^52-3]: Amended by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 53
+
+**Transparency**
+
+<sup>1</sup> The dominant provider shall publish an updated reference offer for access to its facilities and services at least once a year. It shall present the derivation of the individual prices in a summarised and comprehensible form.
+
+<sup>2</sup> It must give notice of changes in the reference offer at least three months in advance.
+
+<sup>3</sup> It provides other providers with up-to-date online information as required for the individual forms of access and their co-location and enables online standardised ordering, processing, operation and cancellation of the individual access and co-location services.
+
+<sup>4</sup> If the dominant provider makes technical or operational changes to the access and co-location services after the order that are disadvantageous to the other provider, it shall give adequate notice of these. If the changes involve substantial costs to the provider concerned, the period of notice shall be at least 24 months. Changes may be made at any time with the agreement of the other provider.
+
+<sup>5</sup> The dominant provider regularly publishes statistics on the access and co-location services it provides, with the relevant details of demand, actual availability and delivery periods. If services are comparable, it compares the details relating to its own customers with those for other providers.
+
+#### Art. 54
+
+**Cost-oriented pricing: Principle**[^54-1]
+
+<sup>1</sup> The access prices may as a maximum be the costs causally linked to granting access to services and facilities in accordance with Article 11 paragraph 1 TCA (the relevant costs).
+
+<sup>2</sup>
+
+Unless otherwise provided, the calculation is based on the costs incurred by an efficient provider on a forward-looking basis and are governed by the following rules:
+
+- a. The costs correspond to the replacement costs of modern equivalent assets (MEAs).
+- b. Account shall be taken of the long-term additional costs of the network components used and the long-term additional costs incurred solely due to access services (the long run incremental costs, LRIC).
+- c.[^54-2] The relevant pro rata joint costs shall be added, as well as a constant mark-up for common costs.
+- d. A return, at the rate customary in the sector, on the capital used for investments is also added.
+
+<sup>3</sup> Access services must be charged and billed separately from other services.
+
+[^54-1]: Amended by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^54-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 54a
+
+**Cost-oriented pricing: Valuation of cable ducts**[^54a-1]
+
+<sup>1</sup> The costs of the cable ducts are determined based on the costs incurred by the dominant provider for maintaining and modifying the cable ducts.
+
+<sup>2</sup> The depreciation costs correspond to the average of the investments in the cable duct infrastructure that have been made and that are planned over an appropriate number of years (the infrastructure maintenance and modification ratio). They are expressed for one calendar year.
+
+<sup>3</sup> The dominant provider's capital cost rate is used to calculate the imputed interest on the capital invested.
+
+<sup>4</sup>
+
+The invested capital is the average capital employed; this is calculated according to the following rules:
+
+- a. In the first calculation year, the average capital employed is calculated by, reducing half of replacement investment made by an efficient provider in the cable duct infrastructure by the infrastructure maintenance and modification ratio and increasing it by the investments made by the dominant provider in the previous year.
+- b. In the following years, the average capital employed is calculated by indexing the previous year value using a averaged production cost index for the categories of utility line and surfacing construction work in a ratio of 7:3; this value is then reduced by the infrastructure maintenance and modification ratio and increased by the investments made by the dominant provider in the previous year.
+
+[^54a-1]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 54b
+
+**Cost-oriented pricing: lower price limit**[^54b-1]
+
+<sup>1</sup> A lower price limit applies to the access prices calculated in accordance with Articles 54 and 54*a*.
+
+<sup>2</sup> The lower price limit corresponds to the costs to an efficient provider comprising the short-term additional costs of network components used, the short-term additional costs incurred solely due to access services, and the joint and common costs (short run incremental costs plus, SRIC+).
+
+[^54b-1]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 54c
+
+**Cost-oriented pricing: price-related discrimination**[^54c-1]
+
+If the application of Articles 54–54*b* fails to generate cost-covering revenues in accordance with Article 52 paragraph 2<sup>bis</sup>, the relevant access prices shall be calculated by reducing the turnovers that the dominant provider achieves with the end customer services provided on the basis of the form of access concerned by the downstream costs of providing these services and thereafter breaking the results down into a single unit (retail minus).
+
+[^54c-1]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 55
+
+**Interfaces**[^55-1]
+
+<sup>1</sup> OFCOM shall publish a list of recommended interfaces for access and their technical specifications. Internationally harmonised interfaces shall be given priority.
+
+<sup>2</sup>
+
+Other providers may demand from the dominant provider the interfaces recommended by OFCOM or the interfaces that the dominant provider uses for its own services. In addition, they may demand interfaces from the dominant provider if these:
+
+- a. correspond to international harmonisation;
+- b. can be implemented technically; and
+- c. represent a substantial economic advantage for the planned introduction of services.
+
+[^55-1]: Amended by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 56
+
+**Principles of co-location**
+
+<sup>1</sup> At all sites necessary for access, the dominant provider shall offer other providers the possibility of using the site and putting in and operating installations there, in a non-discriminatory manner.
+
+<sup>2</sup>
+
+When it does so, it allows other providers in particular:
+
+- a. to access the site under the same conditions, particularly with regard to access routes, access times and accompaniment, as the dominant provider;
+- b. to connect different forms of access in the co-location premises;
+- c. to connect their installations at the site with their networks via the same types of feed as is possible for the dominant provider, and in all cases via radio relay;
+- d. to connect their installations at the site to those of third-party providers;
+- e. to acquire access services for third-party providers.
+
+<sup>3</sup> The offering shall consist at least of use of the site without constructional separation.
+
+<sup>4</sup> Other providers shall immediately release co-location areas that have not been used for at least three months in the event of a shortage of space.
+
+#### Art. 57
+
+**Co-location in the case of a shortage of space**
+
+<sup>1</sup> If the co-location area is not sufficient given optimal use of the available space, the dominant provider shall provide additional space at its location.
+
+<sup>2</sup> If, as a result, co-location cannot be assured for the other provider under conditions which are reasonable for the dominant provider, the latter shall operate the other provider’s installations under the same technical and operational conditions as it operates its own installations, or it shall tolerate the other provider putting in and operating installations in premises adjacent to the site or nearby, and enable it to connect these installations to the dominant provider’s network.
+
+<sup>3</sup> The other provider shall decide which of the variants in accordance with paragraph 2 is chosen, within the framework of technical feasibility.
+
+### Section 2 Special Provisions
+
+#### Art. 58
+
+**Fully unbundled access to the local loop**
+
+<sup>1</sup>
+
+In its reference offer, the dominant provider shall publish the technical and commercial conditions for fully unbundled access to the local loop, in particular:
+
+- a. the modalities for the use of the unbundled local loop or a partial section, in each case without upstream connection of transmission or switching technology;
+- b. the specifications of the relevant interfaces;
+- c. the specifications of the physical access to distributors;
+- d. the specifications of network compatibility.
+
+<sup>2</sup> It shall constantly examine internationally standardised technologies that correspond to the state of the art for network compatibility. It shall provide the available spectrum in the copper-based access network in a technology-neutral and non-discriminatory manner, taking account of interference-free operation.
+
+<sup>3</sup>
+
+If the calculation of the replacement costs of modern equivalent assets under Article 54 paragraph 2 letter a relates to new technology no longer based on the twisted metallic pair, then in calculating the price, the difference in value between the modern equivalent assets and the assets based on the twisted metallic pair must be taken into account. In doing so, the following applies:
+
+- a. The difference in value between the assets is derived from the difference in the revenues that can be achieved in the end customer market, taking account of the difference in the variable downstream costs.
+- b. The different potential revenues and the variable downstream costs relate to the services and bundles of services that are provided by the different assets.
+- c. A quotient must be obtained from the various values, the numerator of which is the value of the assets based on the twisted metallic pair and the denominator of which is the value of the modern equivalent assets (quotient method).
+- d. The replacement costs are calculated by multiplying the quotient by the replacement costs of the modern equivalent assets.[^58-1]
+
+<sup>4</sup> In the case of access to a partial section, the dominant provider may keep free the reserve space in its installations with distribution equipment which it needs to meet its expected customers’ demand in the near future for services provided via the distribution installation. On request, it shall disclose the expected demand and the reserve space and provide justification for these.[^58-2]
+
+[^58-1]: Amended by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^58-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 59 and 60
+
+[^5960-1]
+
+[^5960-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 61
+
+**Interconnection**
+
+<sup>1</sup>
+
+In its reference offer, the dominant provider shall publish the technical and commercial conditions for interconnection services, in particular:
+
+- a. the description of all standard interconnection points and the access conditions, both for the case in which the other provider wishes to establish the joining connection itself and for the case in which it wishes to leave this to the dominant provider;
+- b. the specifications of the interconnection interfaces used and the signalling protocols.
+
+<sup>2</sup>
+
+The dominant provider of the public telephony service shall provide at least the following interconnection services:
+
+- a. originating, terminating and transit of connections;
+- a. identification of the calling line, identification of the connected line, and suppression of this information;
+- c. access to the value-added services 08xx and 09xx;
+- d. the physical connection between the telecommunication installations of different providers as required for the connection of services.
+
+<sup>3</sup> In addition to minute and call-based access prices, the dominant provider shall offer capacity-based access prices (capacity based charges) based on the maximum bandwidth used by the interconnection partner.[^61-1]
+
+<sup>4</sup>
+
+If the calculation of the replacement costs of modern equivalent assets in accordance with Article 54 paragraph 2 letter a is based on new technology that is significantly different from the previously used technology, the following applies:
+
+- a. When the price is calculated for the first time, the costs in accordance with Article 54 paragraph 2 shall be based two thirds on the last-used previous assets and one third on the new assets.
+- b. In the following year, the costs in accordance with Article 54 paragraph 2 shall be based one third on the last-used previous assets and two thirds on the new assets.
+- c. In the following years, the costs in accordance with Article 54 paragraph 2 shall be based in their entirety on the new assets.[^61-2]
+
+[^61-1]: Amended by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+[^61-2]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 62
+
+**Leased lines**
+
+<sup>1</sup>
+
+In its reference offer, the dominant provider shall publish the technical and commercial conditions for leased lines, in particular:
+
+- a. the technical specifications of leased lines;
+- b. the technical specifications for access and termination points;
+- c. the specifications of the interfaces.
+
+<sup>2</sup>
+
+If the calculation of the replacement costs of modern equivalent assets in accordance with Article 54 paragraph 2 letter a is based on new technology that is significantly different from the previously used technology, the following applies:
+
+- a. When the price is calculated for the first time, the costs in accordance with Article 54 paragraph 2 shall be based two thirds on the last-used previous assets and one third on the new assets.
+- b. In the following year, the costs in accordance with Article 54 paragraph 2 shall be based one third on the last-used previous assets and two thirds on the new assets.
+- c. In the following years, the costs in accordance with Article 54 paragraph 2 shall be based in their entirety on the new assets.[^62-1]
+
+[^62-1]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
+
+#### Art. 63
+
+**Access to cable ducts**
+
+<sup>1</sup>
+
+In its reference offer, the dominant provider shall publish the technical and commercial conditions for access to cable ducts, in particular:
+
+- a. the modalities for access to cable ducts and for laying, maintaining and removing cables;
+- b. the technical specifications of the transmission systems used.
+
+<sup>2</sup>
+
+The dominant provider’s online system shall provide other providers with the following information, in particular:
+
+- a. the route of cable ducts which link specific geographical points;
+- b. if known, the capacities used and those still available;
+- c. the location of access chambers.
+
+### Section 3 Access Agreements and Procedure
+
+#### Art. 63a
+
+**Scope of application**[^63a-1]
+
+Articles 64-68 only apply to access agreements with a dominant provider.
+
+[^63a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 64
+
+**Access agreements**
+
+Access agreements must be set down in writing and include at least the following main points:
+
+- a. general commercial conditions;
+- b. description of the access services;
+- c. technical characteristics of these services;
+- d. conditions for commissioning, operating and decommissioning access.
+
+#### Art. 65
+
+**Confidentiality of the information**
+
+<sup>1</sup> Information concerning the access negotiations is confidential. It may not be provided to other business units, subsidiaries, partners or third parties.
+
+<sup>2</sup> Information concerning customers which a provider obtains in connection with the processing of an access relationship may be used only within the framework of the access and for billing purposes.
+
+<sup>3</sup>
+
+An exception is the use of information to the effect that a customer has freely chosen a provider for national and international connections, has cancelled such a choice or has ported the telephone number to another provider, if:
+
+- a. this information is similarly available to all the providers concerned;
+- b. this information is used only by the surrendering or accepting provider; and
+- c. the customer has consented to the use of this information.
+
+<sup>4</sup> Confidentiality in accordance with paragraphs 1 and 2 does not apply in respect of ComCom and OFCOM.
+
+#### Art. 66
+
+**Notification of the initiation of negotiations**
+
+<sup>1</sup> A provider wishing to conclude an access arrangement may notify OFCOM in writing of the opening or resumption of negotiations, for purposes of proof.
+
+<sup>2</sup> In the case of changes to the agreement, the assumption that the negotiations began with the making of the corresponding offer applies.
+
+#### Art. 67
+
+**Obligation to notify**
+
+<sup>1</sup> Access agreements shall be delivered to OFCOM within 2 weeks from the signing thereof. The same rule shall apply if the agreement is amended or terminated.
+
+<sup>2</sup> Any clause containing commercial secrets may be concealed for an inspection by third parties provided that it is summarised elsewhere. If the summary is incomplete, OFCOM may demand additional information.
+
+#### Art. 68
+
+**Right to consult**
+
+If requested, OFCOM shall allow consultation of access agreements and decisions.
+
+#### Art. 69
+
+[^69-1]
+
+[^69-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 70
+
+**Application for a decision concerning access**
+
+<sup>1</sup>
+
+An application for a decision concerning access must include:
+
+- a. the requests;
+- b. the main facts;
+- c.[^70-1] the form provided by OFCOM, if the application is justified by the dominant position of the opponent of the application and the latter disputes the dominant position;
+- d.[^70-2] ...
+
+<sup>2</sup> ...[^70-3]
+
+<sup>3</sup> OFCOM shall conduct the examination. If it deems the application to be incomplete or unclear, it shall allow the applicant a brief period to make an improvement. It shall inform the applicant that it will make a proposal to ComCom not to assess the application if the deficiency is not rectified within this period.
+
+[^70-1]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-2]: Repealed by No I of the O of 4 Nov. 2009, with effect from 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^70-3]: Repealed by No I of the O of 4 Nov. 2009, with effect from 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+
+#### Art. 71
+
+**Provisional measures**
+
+After having received the application, ComCom may decree provisional measures on its own initiative or at the request of one of the parties, in order to ensure access during the proceedings.
+
+#### Art. 72
+
+**Competition Commission**
+
+When the Competition Commission is consulted, it shall give an opinion within four weeks.
+
+#### Art. 73
+
+**Conciliation proceedings**
+
+Within the framework of its examination, OFCOM may institute conciliation proceedings.
+
+#### Art. 74
+
+**Access decision**
+
+<sup>1</sup> On conclusion of the examination, OFCOM shall make a proposal to ComCom for a decision.
+
+<sup>2</sup> ComCom decides on the access conditions according to the principles which are customary in the market and in the sector.
+
+<sup>3</sup> If the dominant provider cannot provide evidence of compliance with cost-orientation, ComCom decides on the basis of comparable values in the market and in the sector. It may also decide prices on the basis of its own pricing and costing models or other appropriate methods, in particular if no suitable comparable values are available.
+
+## Chapter 8 Use of Land in Public Use, Other Connections and Joint Use
+
+[^chap8-1]
+
+[^chap8-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 75
+
+**Co-ordination with other building projects**
+
+<sup>1</sup> Owners of land in public use may make permission to use that land subject to the condition that the telecommunications service provider must co-ordinate its building project with another, provided that the project can be completed within three months and that such temporary co-ordination does not excessively impede the intended use of the land in question.
+
+<sup>2</sup> Owners may require the provider to obtain information from other enterprises concerning the projects they are planning on a plot of land in public use. They shall advise the provider of the enterprises from which it must request such information. The provider may also request such information from other enterprises. The latter are obliged to reply within four weeks.
+
+#### Art. 76
+
+**Relocation of lines and public pay telephones**
+
+<sup>1</sup> The owner of land in public use shall notify the telecommunications service provider in writing of any relocation of lines or public pay telephones, stating the reasons. The latter shall express its position on the type and manner of the relocation, the costs and the bearing of the costs. If no agreement is reached on the type and manner of the relocation, the owner shall order the relocation, taking account of the information from the provider.
+
+<sup>2</sup>
+
+The costs of the relocation are generally borne by the provider. Owners of land in public use must, however, contribute appropriately, provided:
+
+- a. the current position of the line or public pay telephone corresponds to their explicit request;
+- b. there is joint use of the line for their own purposes;
+- c. the relocation of the line or public pay telephone is requested within one year of its installation;
+- d. the costs of other reasonable measures would be lower than those of relocation.
+
+<sup>3</sup> If the relocation takes place for the benefit of third parties, these are to be involved in the procedure. They shall contribute appropriately to the relocation costs.
+
+#### Art. 77
+
+**Land owned by railway undertakings**
+
+<sup>1</sup> Article 35 TCA applies by analogy to lines which cross land owned by railway undertakings by the most direct possible route.
+
+<sup>2</sup> The telecommunications service provider shall be liable for costs caused to the railway undertaking by the construction or maintenance of the lines.
+
+#### Art. 78
+
+**Utilisation of roads**
+
+<sup>1</sup> The owners of roads, with the exception of access roads, shall determine where telecommunications service providers lay their lines within the perimeter of the road.
+
+<sup>2</sup> Provided this is reasonable for providers, owners in accordance with paragraph 1 may request that their free infrastructures be used, for appropriate compensation. The compensation shall not be more than the provider’s estimated costs for laying its own lines.
+
+<sup>3</sup> Differing agreements between the parties involved concerning the use of land are reserved.
+
+<sup>4</sup> Article 76 paragraph 2 letter a is not applicable to roads, with the exception of access roads.
+
+#### Art. 78a
+
+**Joint use of existing installations in the property’s connection lines**[^78a-1]
+
+The obligation of property owners under Article 35*a* paragraph 1 TCA to tolerate additional cable connections and under Article 35*b* paragraph 1 TCA to grant access to the building entry point and to tolerate the joint use of existing installations within the building also includes:
+
+- a. if there is sufficient capacity available: tolerating the joint use of the existing cable ducts that serve the property’s connection lines;
+- b. if there is insufficient capacity available: tolerating the installation of additional installations that serve the property’s connection lines.
+
+[^78a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 78b
+
+**Joint use of existing installations in the building**[^78b-1]
+
+The obligation of property owners and telecommunications service providers under Article 35*b* paragraph 1 TCA to tolerate the joint use of existing installations within the building also includes tolerating:
+
+- a. the joint use of the power connections;
+- b. the installation of systems so that another provider that is jointly using the property’s installations can provide its telecommunications services.
+
+[^78b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 78c
+
+**Common rules for the joint use of existing installations the property’s connection lines and the building’s systems**[^78c-1]
+
+<sup>1</sup> If a telecommunications service provider wishes to jointly use existing installations in the property’s connection lines or the building’s systems in order to provide its own telecommunications services, it must notify the property owner and the existing providers.
+
+<sup>2</sup> If a property owner does not have access to the required information about the existing installations in the property’s connection lines or the building’s systems, the provider that has installed property’s connection lines or the building’s systems must make this information available on request.
+
+<sup>3</sup> Providers who have financed a cable duct system or a system within the building may demand that a co-using provider make a one-off pro rata payment for each residential or commercial unit for the transfer for long-term use in accordance with their average acquisition costs.
+
+<sup>4</sup> Providers that are granted access to a cable duct system or a system within the building shall bear the cost of the work required to install the new equipment.
+
+<sup>5</sup> If a property owner or a provider incurs verifiable additional costs as a result of access or joint use, it may demand that the co-using provider reimburse the costs it has incurred.
+
+<sup>6</sup> The procedure in the case of disputes relating to access to the building entry point and the joint use of installations within the building is governed by analogy by Articles 70–74.
+
+[^78c-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 79
+
+**Joint use of installations under Article 36 paragraph 2 TCA**[^79-1]
+
+Appropriate compensation for the joint use of installations of other providers in accordance with Article 36 paragraph 2 TCA shall be the corresponding proportion of the total costs.
+
+[^79-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Chapter 9 Telecommunications Confidentiality and Data Protection and Protecting Children and Other Minors****
+
+[^chap9-1]
+
+[^chap9-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 80
+
+**Processing traffic data**[^80-1]
+
+<sup>1</sup>
+
+Telecommunications service providers may process customers’ traffic data without their consent, in so far and for as long as this is necessary:
+
+- a. in order to provide telecommunications services;
+- b. in order to obtain payment for the services provided;
+- c. to fulfil statutory obligations;
+- d. for its own purposes not related to specific persons.
+
+<sup>2</sup> They may only process traffic data for other purposes with the consent of the customers concerned or if the data is anonymised.
+
+[^80-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 81
+
+**Communication of data used for billing[^81-1]**
+
+<sup>1</sup> During the period in which they may dispute an invoice, customers may ask their telecommunications service provider to supply them with all the information used for billing. Where numbers of the calling connections are provided for this purpose, the last four digits of the numbers are not supplied.[^81-2]
+
+<sup>2</sup> Data concerning calls to the telephone helpline for children and other minors in terms of Article 28 letter f TSRO[^81-3] may not be communicated.[^81-4]
+
+<sup>3</sup> In the case of connections with prepayment for services, the data must be communicated on request within one month of charging of the fee.
+
+<sup>4</sup> If customers dispute the bill for a value-added service or do not pay it on time, the telecommunications service provider may communicate to the value-added services provider concerned the available personal data of these customers that is necessary to enforce the claim.
+
+[^81-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-2]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^81-3]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^81-4]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 82
+
+**Communication of data to identify nuisance calls and unfair mass advertising**
+
+<sup>1</sup>
+
+Where a customer credibly shows in writing that he is the victim of nuisance calls or has received unfair mass advertising, the telecommunications service provider must supply him with the following information provided it is available to it:
+
+- a. date, time and duration of the calls or date and time of the message;
+- b. addressing resources, names and addresses of the customers whose connections were used for the calls or from which the unfair mass advertising was sent.
+
+<sup>2</sup> If the data cannot be provided retrospectively and a continuation of the nuisance calls or unfair mass advertising is probable, the provider must assemble the necessary data and communicate the data that may be requested to customers.
+
+<sup>3</sup> If nuisance calls are made or unfair mass advertising is sent from connections of customers of another telecommunications service provider, the latter must communicate the data to the telecommunications service provider of the customers making the request. Only providers involved in the transfer are required to disclose to the provider for the customers making the request the identity of the provider from which they received the nuisance calls or the unfair mass advertising.[^82-1]
+
+[^82-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 83
+
+**Unfair mass advertising**
+
+<sup>1</sup> Telecommunications service providers must protect their customers from receiving unfair mass advertising, as far as the state of the art permits.
+
+<sup>2</sup> They may suppress unfair mass advertising.
+
+<sup>3</sup> If a provider is aware that one of its customers is sending or forwarding unfair mass advertising via its telecommunication network, it must immediately bar the sending of these messages and prevent the establishment of the corresponding connections. It may disconnect customers which send or forward unfair mass advertising from the telecommunication network.
+
+<sup>4</sup> Each provider must operate a notification service for unfair mass advertising which originates from its telecommunication network or which is forwarded via its telecommunication network.
+
+<sup>5</sup> OFCOM may issue technical and administrative regulations concerning the protection of customers from receiving unfair mass advertising.
+
+<sup>6</sup> In the case of violations of Article 3 letter o of the Unfair Competition Act of 19 December 1986[^83-1] or corresponding foreign regulations, the competent federal office may obtain the information and request documents from providers as required in order to exercise its right to file an action and to provide administrative assistance in accordance with the above-mentioned Act.
+
+[^83-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+
+#### Art. 84
+
+**Calling line identification**
+
+<sup>1</sup> When technically feasible with justifiable outlay, telecommunications service providers must offer their customers a simple and free-of-charge facility for concealing – for individual calls or permanently – the indication of their number that appears on the called person’s equipment.
+
+<sup>2</sup> They must expressly draw their customers’ attention to this facility when the subscription contract is concluded.
+
+<sup>3</sup> They must in all cases guarantee identification of the calling line for connections for which location must be guaranteed in accordance with Article 29 paragraph 1 and Article 90 paragraph 4 and for calls to the transcription service for the hearing impaired in accordance with Article 15 paragraph 1 letter e. Other than in the case of calls to their own fault service, no other customer shall be provided with an indication of the number of a caller who has requested suppression of the calling line identification.[^84-1]
+
+[^84-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 85
+
+**Called line identification**
+
+<sup>1</sup> When technically feasible with justifiable outlay, telecommunications service providers shall offer their customers a facility for concealing the indication of their number on the equipment of the caller.
+
+<sup>2</sup> They must expressly draw their customers’ attention to this facility when the subscription contract is concluded.
+
+#### Art. 86
+
+**Automatic call forwarding**
+
+When technically feasible with justifiable outlay, telecommunications service providers must, without charge, offer their customers a facility for stopping automatic call forwarding by a third party to their equipment.
+
+#### Art. 87
+
+**Security of telecommunications services**
+
+<sup>1</sup> Telecommunications service providers shall inform their customers of the risks involved in using their services with regard to interception and intervention by unauthorised third parties.
+
+<sup>2</sup> They must offer or indicate appropriate means of eliminating those risks.
+
+#### Art. 88
+
+**Directories**
+
+<sup>1</sup> Customers appearing in a directory shall have the right to indicate clearly therein that they do not wish to receive advertising communications from persons with whom they have no commercial relationship and that their particulars may not be communicated for direct canvassing.[^88-1]
+
+<sup>2</sup> and <sup>3</sup> ...[^88-2]
+
+<sup>4</sup> Suppliers of online directories shall adopt the appropriate technical and organisational measures to prevent the contents of an entry or part of the directory from being changed or deleted by unauthorised persons.
+
+[^88-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^88-2]: Repealed by No I of the O of 5 Nov. 2014, with effect from 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+
+#### Art. 89
+
+**Data protection legislation**
+
+Provided this Ordinance does not contain any special regulations, the Federal Act of 19 June 1992[^89-1] on Data Protection applies.
+
+[^89-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 89a
+
+**Information on protecting children and other minors**[^89a-1]
+
+Internet access providers shall inform their customers about the options for protecting children and other minors on the internet. They shall provide individual support to their customers for using specific protection options.
+
+[^89a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 89b
+
+**Prohibited pornography**[^89b-1]
+
+<sup>1</sup> Internet access providers shall ensure that they can receive communications from the Federal Office of Police referred to in Article 46*a* paragraph 3 first sentence TCA. They shall introduce the required measures immediately in their systems in response to the notifications.
+
+<sup>2</sup> They shall ensure that they can be contacted in writing by third parties as referred to in Article 46*a* paragraph 3 second sentence TCA. They shall report any suspected cases to the Federal Office of Police immediately.
+
+[^89b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Chapter 10 Vital National Interests
+
+### Section 1 Security Communication****
+
+[^chap10-sec1-1]
+
+[^chap10-sec1-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 90
+
+**Services**[^90-1]
+
+<sup>1</sup>
+
+Telecommunications service providers may enlisted to support the bodies referred to in Article 47 paragraph 1 TCA in order to provide the following telecommunications services:
+
+- a. voice and data transmission services via fixed and mobile communications networks;
+- b. services to alert the population and facilitate the related incident communication.
+
+<sup>2</sup> They must be able to provide these services throughout Switzerland and if necessary to prioritise them in relation to other civil telecommunications traffic. The data integrity, the bandwidth and the availability the services must be guaranteed to the required extent.
+
+<sup>3</sup> The bodies entitled to do so may only demand services and functionalities that meet the normal international standards and for which there is harmonised radio regulation in relation to frequency usage.
+
+<sup>4</sup> The providers must make premises and installations available with a view to and in special and exceptional situations and tolerate exercises.
+
+<sup>5</sup> On request by the bodies entitled to do so in accordance with Article 91, OFCOM shall determine the numbers for which caller location is to be guaranteed. For these numbers, the bodies receive access to the service referred to in Article 29*b*.
+
+[^90-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 91
+
+[^91-1]
+
+[^91-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 92
+
+**Providers**
+
+<sup>1</sup> In principle, the bodies referred to in Article 47 paragraph 1 TCA shall order on a contractual basis the services that they require from the telecommunications service provider of their choice.[^92-1]
+
+<sup>2</sup> If there is no bid made in response to an invitation to tender, the bodies may ask OFCOM, subject to submission of the tender documentation, to require a provider to provide the necessary services.[^92-2]
+
+<sup>3</sup> The Federal Council may require telecommunications service providers whose installations or services are of importance in extraordinary circumstances to prepare for such situations.
+
+[^92-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 93
+
+**Compensation**[^93-1]
+
+<sup>1</sup> Compensation for telecommunications service providers for their services shall be contractually regulated with the bodies referred to in Article 47 paragraph 1 TCA. In principle, the customary market prices shall be considered for the required services.
+
+<sup>2</sup> If the required services must be provided specifically to meet the needs of the bodies referred to in Article 47 paragraph 1 TCA, compensation shall be based on the cost price. Shared costs associated with providing commercial services shall be broken down in a non-discriminatory manner within the meaning of Article 52 and shall only be allocated proportionally to the cost price.
+
+<sup>3</sup> Contributions from public funds shall be deducted from the costs of the services provided by the providers in accordance with their purpose.
+
+<sup>4</sup> When a provider in accordance with Article 92 paragraph 2 is obliged to provide the required services, OFCOM shall determine the compensation in accordance with the factors mentioned in paragraphs 1–3.
+
+[^93-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Section 2 Restriction of Telecommunications
+
+#### Art. 94
+
+**Measures**[^94-1]
+
+<sup>1</sup> Provided the chosen technology allows, DETEC may in exceptional situations order that civil telecommunications be restricted for the benefit of the bodies referred to in Article 47 paragraph 1 TCA.
+
+<sup>2</sup> The National Emergency Operations Centre may order the restriction of civil telecommunications for the benefit of the bodies referred to in Article 47 paragraph 1 TCA for a maximum of 36 hours. It shall notify OFCOM immediately.
+
+<sup>3</sup> Telecommunications service providers are authorised to partially restrict telecommunications for the benefit of the bodies referred to in Article 47 paragraph 1 TCA for no more than 36 hours if they find that their networks are overloaded. They shall notify OFCOM immediately.
+
+[^94-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 95
+
+**Preparatory measures**[^95-1]
+
+<sup>1</sup> Federal Commission for Telematics in the field of Rescue and Security, together with telecommunications service providers, shall prepare the measures in accordance with Article 94 paragraphs 1 and 2.
+
+<sup>2</sup> The Confederation shall bear the costs of the preparatory measures, unless the restrictions in accordance with Article 94 prove to be commercially beneficial to providers.
+
+[^95-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Section 3 Security****
+
+[^chap10-sec3-1]
+
+[^chap10-sec3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 96
+
+<sup>1</sup> Telecommunications service providers must immediately inform OFCOM of faults in the operation of their networks that affect a significant number of customers.
+
+<sup>2</sup> OFCOM may issue the technical and administrative security regulations and declare internationally harmonised standards concerning security and availability of telecommunications infrastructures and services to be binding.[^96-1]
+
+[^96-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Chapter 11 Official Telecommunications Statistics
+
+#### Art. 97
+
+**OFCOM’s powers**
+
+<sup>1</sup> OFCOM shall produce the official telecommunications statistics, in particular in order to perform the evaluation of the telecommunications legislation, to take the necessary regulatory decisions and to ensure the implementation of the universal service.
+
+<sup>2</sup> It shall ensure the collection and processing of the data as well as all statistical work within the framework of paragraph 1.
+
+<sup>3</sup> Pursuant to the Ordinance of 30 June 1993[^97-1] on the Conduct of Statistical Surveys by the Confederation, it shall co-ordinate its statistical work with the Federal Statistical Office and co-operate with that office.
+
+[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+
+#### Art. 98
+
+**Data collected by OFCOM**
+
+<sup>1</sup> OFCOM shall collect the data required for production of the official telecommunications statistics from the telecommunications service providers. It may also incorporate the data obtained through the implementation of telecommunications legislation or by other authorities implementing federal legislation.
+
+<sup>2</sup>
+
+By means of an annual questionnaire, it shall collect data on the networks and services of the providers, in particular with regard to:
+
+- a. the companies themselves (in particular name or company name, address and other contact information, area of activity);
+- b. the network characteristics (in particular the type, technical characteristics, number and type of connections, coverage in relation to population and area, number of orders completed with regard to carrier pre-selection);
+- c. the various types of service provided on their networks, their characteristics and the use thereof (in particular price, number of customers, turnover per service, duration and number of connections, volume of connections per service, number of resellers, services in favour of third parties provided via non-geographical service numbers, type and extent of the infrastructure leased to third parties).
+
+<sup>3</sup>
+
+It shall collect data by means of an annual questionnaire on the financial status of the providers, in particular with regard to:
+
+- a. the companies themselves (in particular name or company name, address and other contact information, area of activity);
+- b. the operating revenue per type of service;
+- c. the operating costs, in particular the purchase of products, purchase of services (services provided by other operators per type of network and other services), personnel costs and depreciation;
+- d. the results, in particular the operating profit, non-operating profit, pre-tax profit and net profit;
+- e. capital expenditure, in particular on fixed assets, such as investment in operating equipment for telecommunications services per type of network and investment in intangible assets and financial assets;
+- f. number of employees.
+
+<sup>4</sup> Data may be collected by other means, in particular by means of one-time distributed questionnaires.
+
+#### Art. 99
+
+**Obligations of the telecommunications service providers**
+
+<sup>1</sup> The telecommunications service providers shall provide OFCOM with the information necessary to produce the official telecommunications statistics free of charge.
+
+<sup>2</sup> They must in particular complete OFCOM’s questionnaires in full, truthfully and in good time.
+
+#### Art. 100
+
+**Use of the data**
+
+The personal data collected for statistical purposes may be made available to public or private services and statistical services of international organisations that require such data to carry out statistical work, provided:
+
+- a. it is rendered anonymous, if the purpose of the processing so permits;
+- b. the recipient undertakes not to forward the data to third parties and to destroy it or return it to OFCOM on completion of the work;
+- c. the persons concerned cannot be identified because of the form selected by the recipient for the publication of the results;
+- d. everything indicates that the recipient will comply with statistical secrecy and will comply with federal law on data protection; and
+- e. no overriding public or private interests preclude this.
+
+#### Art. 101
+
+**OFCOM’s data protection measures**
+
+OFCOM shall take the technical and organisational measures to protect the collected data from misuse. In particular it shall entrust the statistical work to an independent organisational unit which does not exercise any administrative or supervisory function.
+
+#### Art. 102
+
+**Official secrecy**
+
+The persons entrusted with carrying out statistical work are subject to professional confidentiality with regard to the data on natural or legal persons that they have acquired in the exercise of their activity.
+
+#### Art. 103
+
+**Dissemination of the statistical results**
+
+<sup>1</sup> OFCOM shall publish the statistical results which are of public interest or shall make them accessible by means of a request procedure. It may provide the non-published data or data not made available via a request procedure on demand and for a fee, provided no public or private interests preclude this.
+
+<sup>2</sup> The results must be in a form which does not permit any conclusions to be drawn about the situation of a natural or legal person, unless the processed data has been made accessible to the public by the person concerned or they have given their consent.
+
+<sup>3</sup> The use or reproduction of statistical results is permitted subject to acknowledgement of the source. OFCOM may provide for exceptions.
+
+## Chapter 12 Participation in the Activities of the International Telecommunication Union
+
+#### Art. 104
+
+<sup>1</sup> Providers of international telecommunications services or providers whose services might cause damaging interference shall have the status of “Recognised Operating Agencies” as defined in Article 19 of the International Telecommunication Union Convention of 22 December 1992[^104-1] (ITU Convention).
+
+<sup>2</sup> The Secretary-General of the International Telecommunication Union (ITU) may recognise as “Sector Members” (Article 19, ITU Convention) other telecommunications service providers and other organisations or institutions with a registered office or commercial activities in Switzerland if they guarantee that they fulfil the ITU’s requirements.[^104-2]
+
+[^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^104-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+## Chapter 13 Final Provisions
+
+### Section 1 Implementation
+
+#### Art. 105
+
+<sup>1</sup> OFCOM shall issue the technical and administrative regulations.
+
+<sup>2</sup> It is authorised to conclude international agreements on technical or administrative matters pertaining to this Ordinance.
+
+### Section 2 Repeal and Amendment of Existing Legislation
+
+#### Art. 106
+
+**Repeal of current legislation**
+
+The Ordinance on Telecommunications Services of 31 October 2001[^106-1] is repealed.
+
+[^106-1]: [[AS 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421), [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27)[271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117)[4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70)[3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
+
+#### Art. 106a
+
+**Repeal of a further enactment**[^106a-1]
+
+The DETEC Ordinance of 15 December 1997[^106a-2] on Telecommunications Services outside Residential Areas is repealed.
+
+[^106a-1]: Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+[^106a-2]: [[AS 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483), [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665), [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84), [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
+
+#### Art. 107
+
+**Amendment of current legislation**
+
+...[^107-1]
+
+[^107-1]: The amendments may be consulted under [AS 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166).
+
+### Section 3 Transitional Provisions
+
+#### Art. 108
+
+[^108-1]
+
+[^108-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 108a
+
+**Transitional provision to the Amendment of 2 December 2016**[^108a-1]
+
+If requested by the customers, the universal service licensee must by 31 December 2021 provide analogue and ISDN interfaces (ISDN: Integrated Services Digital Network) at the network termination point. It may not impose any charge for doing so.
+
+[^108a-1]: Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
+
+#### Art. 108b
+
+**Transitional provision to the Amendment of 18 November 2020**[^108b-1]
+
+Providers of value-added services that do not have a registered office or a permanent settlement in Switzerland on the date that this Ordinance comes into force must designate a registered office or a permanent settlement in Switzerland within six months.
+
+[^108b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Section 4 Commencement
+
+#### Art. 109
+
+<sup>1</sup> This Ordinance comes into force on 1 April 2007, with the exception of the provisions cited in paragraphs 2 and 3.
+
+<sup>2</sup> Articles 15, 16, 17 paragraph 2, 21 paragraph 1 and 22 paragraphs 1 and 2 come into force on 1 January 2008.
+
+<sup>3</sup> Article 9 comes into force on 1 October 2008.

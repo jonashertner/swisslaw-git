@@ -1,0 +1,728 @@
+---
+sr: "453.2"
+title: "Ordonnance du 20 avril 2016 sur le contrôle de l'origine licite des produits de la pêche maritime importés"
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
+language: fr
+version: 2018-11-01
+adopted: 2016-04-20
+in_force: 2017-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20181101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20181101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20181101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le contrôle de l’origine licite des produits de la pêche maritime importés
+
+du 20 avril 2016 (Etat le 1<sup>er</sup> novembre 2018)
+
+Le Conseil fédéral suisse,
+
+vu les art. 7, al. 2, let. a, 9, al. 1, 12, al. 5, 13, al. 3, 20, al. 4, 21 et 26, al. 5, de la loi fédérale du 16 mars 2012 sur la circulation des espèces de faune et de flore protégées (LCITES)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**But**
+
+La présente ordonnance a pour but d’assurer que seuls des produits de la pêche d’origine licite soient importés.
+
+#### Art. 2
+
+**Champ d’application**
+
+<sup>1</sup> La présente ordonnance s’applique uniquement aux produits de la pêche maritime.
+
+<sup>2</sup>
+
+Elle ne s’applique pas:
+
+- a. aux produits de l’aquaculture issus du frai ou de larves;
+- b. aux produits de la pêche qui ne sont pas destinés à être utilisés comme denrées alimentaires.
+
+#### Art. 3
+
+**Définitions**
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *Etat du pavillon:* l’Etat qui a immatriculé un navire de pêche battant pavillon de ce pays;
+- b. *lot:* les produits de la pêche expédiés simultanément ou sous le couvert d’un document de transport unique à un importateur;
+- c.
+
+  *personnes responsables:*
+
+  - 1\. les personnes visées à l’art. 26 de la loi du 18 mars 2005 sur les douanes (LD)[^3-1],
+  - 2\. les personnes qui importent ou qui font importer des produits de la pêche;
+
+- d. *DVCE**:* le document vétérinaire commun d’entrée au sens de l’art. 1 du règlement (CE) n<sup>o</sup> 282/2004[^3-2] et de l’annexe III du règlement (CE) n<sup>o</sup> 136/2004[^3-3];
+- e. *certificat sanitaire*: le document qui atteste la provenance d’un lot et le respect des exigences de police des épizooties, de protection des animaux et d’hygiène alimentaire;
+- f. *poste d’inspection frontalier:* installation où est effectué le contrôle vétérinaire de frontière.
+
+[^3-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^3-2]: Règlement (CE) n<sup>o</sup> 282/2004 de la Commission du 18 février 2004 relatif à l’établissement d’un document pour la déclaration et le contrôle vétérinaire des animaux en provenance des Etats tiers et introduits dans la Communauté, JO L 49 du 19.2.2004, p. 11; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 585/2004, JO L 91 du 30.3.2004, p. 17.
+[^3-3]: Règlement (CE) n<sup>o</sup> 136/2004 de la Commission du 22 janvier 2004 fixant les procédures des contrôles vétérinaires aux postes d’inspection frontaliers de la Communauté lors de l’importation des produits en provenance de pays tiers, JO L 21 du 28.1.2004, p. 11; modifié en dernier lieu par le règlement d’exécution (UE) n<sup>o</sup> 494/2014, JO L 139 du 14.5.2014, p. 11.
+
+## Section 2 Conditions d’importation
+
+#### Art. 4
+
+**Principe**
+
+<sup>1</sup>
+
+Les produits de la pêche visés à l’annexe 1 peuvent être importés à titre professionnel:
+
+- a. s’ils sont d’origine licite;
+- b. s’ils sont accompagnés des documents requis.
+
+<sup>2</sup> Les produits de la pêche qui ne proviennent pas de l’un des Etats du pavillon mentionnés à l’annexe 2 doivent être en outre accompagnés d’un certificat de capture. L’importation de ces produits est soumise à la procédure de notification préalable prévue à la section 3.
+
+#### Art. 5
+
+**Origine licite**
+
+<sup>1</sup> Les produits de la pêche sont d’origine licite lorsqu’ils ne proviennent pas de la pêche illicite, non déclarée ou non réglementée.
+
+<sup>2</sup>
+
+Ils ne proviennent pas de la pêche illicite, non déclarée ou non réglementée lorsqu’ils sont issus des captures:
+
+- a.
+
+  effectuées par des navires de pêche:
+
+  - 1\. dûment immatriculés par l’Etat du pavillon,
+  - 2\. clairement identifiables,
+  - 3\. non soumis à des mesures d’interdiction émises par un Etat particulier, des communautés d’Etats ou des organisations de pêche régionales,
+  - 4\. disposant des autorisations de pêche requises pour la capture des espèces de poissons concernées, et
+  - 5\. exerçant leur activité de pêche dans le respect des règles fixées par l’Etat concerné et par l’organisation de pêche régionale compétente;
+
+- b. déclarées lors du débarquement conformément aux dispositions de l’Etat concerné ou de l’organisation de pêche régionale compétente, et
+- c. ne dépassant pas les limites des quotas de pêche applicables à l’espèce de poisson concernée.
+
+#### Art. 6
+
+**Certificat de capture**
+
+<sup>1</sup> Le certificat de capture atteste que les poissons des espèces et quantités indiquées ont été capturés licitement par un navire autorisé à pratiquer la pêche durant une période déterminée et sur un territoire de pêche défini ou un type de pêche particulier.
+
+<sup>2</sup> Le certificat doit être validé par l’Etat du pavillon du navire de pêche qui a capturé le poisson dont sont issus les produits de la pêche.
+
+<sup>3</sup> Le certificat de capture doit contenir les données du modèle figurant à l’annexe 3.
+
+#### Art. 7
+
+**Documents d’accompagnement**
+
+<sup>1</sup>
+
+Par documents d’accompagnement, on entend, pour chaque lot, les documents suivants:
+
+- a. la facture;
+- b. le document de transport ou tout autre document qui atteste le transport;
+- c. s’agissant des produits de la pêche transformés: la déclaration établie par l’usine de transformation;
+- d. s’agissant des lots en provenance d’un pays hors Union européenne (UE): le certificat sanitaire établi par l’autorité compétente ou le DVCE.
+
+<sup>2</sup> La déclaration établie par l’usine de transformation doit contenir les données du modèle figurant à l’annexe 4.
+
+#### Art. 8
+
+**Interdiction d’importer**
+
+Il est interdit d’importer des produits de la pêche visés à l’annexe 5 en provenance des Etats du pavillon qui y sont inscrits.
+
+## Section 3 Procédure de notification préalable prévue pour les lots ne provenant pas des Etats du pavillon inscrits à l’annexe 2
+
+#### Art. 9
+
+**Notification préalable du lot**
+
+<sup>1</sup> L’arrivée d’un lot de produits de la pêche ne provenant pas des Etats du pavillon inscrits à l’annexe 2 doit être notifiée préalablement, au plus tard trois jours ouvrés avant la date d’importation prévue, à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).
+
+<sup>2</sup> L’OSAV peut accorder un délai plus court si cela se justifie.
+
+<sup>3</sup>
+
+Pour la notification préalable, la personne responsable doit enregistrer dans le système d’information visé à l’art. 21 LCITES (système d’information) les documents numérisés suivants:
+
+- a. le certificat de capture;
+- b. les documents d’accompagnement visés à l’art. 7, al. 1, s’ils sont disponibles au moment de la notification préalable.
+
+<sup>4</sup> La personne responsable doit en outre saisir dans le système d’information les données visées à l’art. 20, al. 1, let. a à f.
+
+#### Art. 10
+
+**Mainlevée du lot**
+
+<sup>1</sup> L’OSAV vérifie les données indiquées lors de la notification préalable.
+
+<sup>2</sup> Il accorde la mainlevée du lot si les données figurant sur les certificats de capture numérisés sont complètes et correctes, et si elles concordent avec celles figurant sur les documents d’accompagnement numérisés.
+
+<sup>3</sup> Si les données figurant sur les documents numérisés comportent des lacunes mineures, l’OSAV accorde un délai supplémentaire de sept jours ouvrés pour les combler. Il accorde la mainlevée du lot dès que les lacunes ont été comblées.
+
+<sup>4</sup> L’OSAV attribue à chaque lot pour lequel la mainlevée a été accordée un numéro qui l’atteste.
+
+<sup>5</sup> Le numéro de mainlevée permet à la personne responsable de déclarer le lot à la douane.
+
+## Section 4 Obligations des personnes responsables
+
+#### Art. 11
+
+**Registre de contrôle des importations et obligation de conserver les documents**
+
+<sup>1</sup> Les personnes responsables doivent tenir un registre de contrôle des importations de produits de la pêche.
+
+<sup>2</sup> Elles doivent conserver les documents d’accompagnement et, le cas échéant, les certificats de capture durant trois ans à compter de l’importation des lots.
+
+#### Art. 12
+
+**Obligation de renseigner**
+
+<sup>1</sup> Sur demande, les personnes responsables doivent fournir aux organes de contrôle compétents des renseignements sur l’identité et l’origine des lots.
+
+<sup>2</sup> Sur demande, elles doivent présenter aux organes de contrôle les lots, les documents d’accompagnement, le cas échéant, les certificats de capture, et la comptabilité des marchandises, à des fins de vérification.
+
+<sup>3</sup> Sur demande des organes de contrôle, elles doivent pouvoir apporter la preuve que les produits de la pêche sont d’origine licite.
+
+## Section 5 Contrôles, mesures et dispositions pénales
+
+#### Art. 13
+
+**Organes de contrôle**
+
+L’OSAV et l’Administration fédérale des douanes (AFD) sont compétents pour l’exécution de la présente ordonnance en tant qu’organes de contrôle.
+
+#### Art. 14
+
+**Contrôles**
+
+<sup>1</sup> Les organes de contrôle peuvent vérifier les documents d’accompagnement et les certificats de capture afférents aux lots, et effectuer des contrôles physiques aux postes d’inspection frontaliers, aux bureaux de douane, aux lieux d’entreposage et au siège de l’importateur.
+
+<sup>2</sup> Ils effectuent des contrôles par sondage ou en cas de soupçon d’infraction aux conditions d’importation.
+
+#### Art. 15
+
+**Contestations**
+
+Les organes de contrôle contestent les lots qui ne proviennent pas des Etats du pavillon mentionnés à l’annexe 2 et ne remplissent pas les conditions d’importation. Ils contestent notamment les lots:
+
+- a. qui n’ont pas fait l’objet d’une notification préalable réglementaire;
+- b. qui sont dépourvus des documents requis ou accompagnés de documents lacunaires à l’expiration d’un délai supplémentaire;
+- c. qui, en dépit de la présentation des documents requis, éveillent un soupçon fondé sur l’origine réglementaire des produits de la pêche ou sur l’authenticité des certificats de capture.
+
+#### Art. 16
+
+**Mesures**
+
+<sup>1</sup> L’AFD retient au bureau de douane ou au poste d’inspection frontalier les lots dépourvus du numéro de mainlevée ou qui ne semblent pas remplir les conditions d’importation. Elle informe l’OSAV, qui décide de la suite à donner.
+
+<sup>2</sup> L’OSAV refuse la mainlevée des lots contestés.
+
+#### Art. 17
+
+**Dispositions pénales**
+
+Les infractions aux art. 4, 8, 11 et 12 sont punies conformément à l’art. 26, al. 1, let. b, LCITES.
+
+## Section 6 Emoluments et débours
+
+#### Art. 18
+
+<sup>1</sup> La perception des émoluments et des débours est régie par l’ordonnance du 30 octobre 1985 sur les émoluments de l’OSAV[^18-1].
+
+<sup>2</sup> L’OSAV facture à la personne responsable un émolument de 60 francs pour le contrôle des lots préalablement notifiés.
+
+[^18-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+
+## Section 7 Traitement des données
+
+#### Art. 19
+
+**Echange d’informations entre les organes de contrôle**
+
+L’OSAV et l’AFD échangent toutes les informations nécessaires à l’accomplissement de leurs tâches.
+
+#### Art. 20
+
+**Données du système d’information**
+
+<sup>1</sup>
+
+Les données suivantes concernant les lots soumis à la procédure de notification préalable sont saisies dans le système d’information:
+
+- a. les données relatives à l’établissement de destination;
+- b. le nom et l’adresse de l’importateur et de la personne qui déclare le lot à la douane en vue du dédouanement;
+- c. les données concernant le lot, à savoir la quantité exprimée en kilogrammes, les espèces de poissons et les zones de pêche par certificat de capture et les numéros des certificats de capture;
+- d. l’Etat du pavillon qui a établi les certificats de capture;
+- e. les certificats de capture numérisés;
+- f. les documents d’accompagnement numérisés;
+- g. le numéro de mainlevée;
+- h. les résultats des contrôles;
+- i. les données relatives aux enquêtes sur les faits et à l’ouverture de procédures pénales;
+- j. les données relatives au refus de la mainlevée du lot.
+
+<sup>2</sup>
+
+Pour tous les autres lots, les données suivantes sont saisies dans le système d’information:
+
+- a. les résultats des contrôles;
+- b. les données relatives aux enquêtes sur les faits et à l’ouverture de procédures pénales.
+
+#### Art. 21
+
+**Saisie des données**
+
+<sup>1</sup> Les personnes responsables saisissent les données visées à l’art. 20, al. 1, let. a à f, dans le système d’information.
+
+<sup>2</sup> Les données visées à l’art. 20, al. 1, let. a à c, qui sont déjà saisies dans le système d’information vétérinaire TRACES conformément à la décision 2004/292/CE[^21-1], sont automatiquement reprises dans le système d’information.
+
+<sup>3</sup> Si les personnes responsables n’ont pas accès au système d’information pour des raisons techniques, ce sont les collaborateurs de l’OSAV qui saisissent les données visées à l’art. 20, al. 1, let. a à f, dans le système d’information.
+
+<sup>4</sup> Les collaborateurs de l’OSAV saisissent les données visées à l’art. 20, al. 1, let. g à j, et 2, dans le système d’information.
+
+[^21-1]: Décision 2004/292/CE de la Commission du 30 mars 2004 relative à la mise en application du système TRACES et modifiant la décision 92/486/CEE, JO L 94 du 31.3.2004, p. 63; modifiée en dernier lieu par la décision 2005/515/CE, JO L 187 du 19.7.2005, p. 29.
+
+#### Art. 22
+
+**Droits d’accès**
+
+<sup>1</sup> Les collaborateurs de l’OSAV chargés de l’exécution de la présente ordonnance ont accès en ligne aux données du système d’information.
+
+<sup>2</sup> Ils sont autorisés à modifier les données.
+
+<sup>3</sup> Les personnes responsables peuvent saisir dans le système d’information les données visées à l’art. 20, al. 1, let. a à f, relatives à leurs lots.
+
+#### Art. 23
+
+**Communication de données à des autorités étrangères**
+
+S’il existe des doutes sur l’origine licite d’un lot et pour autant que les conditions de l’art. 18 LCITES soient respectées, les documents d’accompagnement numérisés et, le cas échéant, les certificats de capture numérisés peuvent être communiqués, afin d’éclaircir les faits, aux autorités étrangères et aux organisations internationales suivantes:
+
+- a. les autorités nationales de la pêche;
+- b. les organes douaniers nationaux;
+- c. les autorités de l’UE et des Etats membres de l’UE qui sont chargées de la surveillance de la pêche et de la mise en œuvre des mesures contre la pêche illicite, non déclarée ou non réglementée;
+- d. les organisations régionales de la pêche;
+- e. les organisations internationales de l’alimentation et de la pêche;
+- f. les organes policiers nationaux et internationaux.
+
+#### Art. 24
+
+**Sécurité informatique**
+
+Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^24-1].
+
+[^24-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+#### Art. 25
+
+**Archivage et suppression des données**
+
+<sup>1</sup> L’archivage des données est régi par les dispositions de la loi du 26 juin 1998 sur l’archivage[^25-1].
+
+<sup>2</sup> Les données sont supprimées au plus tard après dix ans.
+
+[^25-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+## Section 8 Actualisation des annexes
+
+#### Art. 26
+
+**Actualisation des annexes 1 à 4 par le DFI**
+
+<sup>1</sup> Le Département fédéral de l’intérieur (DFI) peut actualiser les annexes 1, 3 et 4 selon l’évolution internationale ou technique.
+
+<sup>2</sup> Il peut actualiser l’annexe 2 après avoir entendu le Département fédéral de l’économie, de la formation et de la recherche et le Département fédéral des affaires étrangères; l’actualisation est régie par l’art. 27.
+
+#### Art. 27
+
+**Inscription et radiation des Etats du pavillon à l’annexe 2 par le DFI**
+
+<sup>1</sup> Le DFI peut inscrire des Etats du pavillon à l’annexe 2 s’ils en font la demande. La demande doit être rédigée et motivée dans l’une des langues officielles suisses ou en anglais.
+
+<sup>2</sup>
+
+Un Etat du pavillon est inscrit à l’annexe 2 aux conditions suivantes:
+
+- a.
+
+  l’Etat du pavillon:
+
+  - 1\. dispose d’une législation visant à prévenir la pêche illicite, non déclarée et non réglementée,
+  - 2\. dispose d’une autorité responsable de la surveillance des dispositions légales,
+  - 3\. dispose des instruments d’exécution nécessaires à la mise en œuvre des dispositions légales,
+  - 4\. effectue le nombre de contrôles nécessaires pour vérifier le respect des dispositions légales,
+  - 5\. est membre des organisations de pêche régionales compétentes dans les zones de pêche,
+  - 6\. a ratifié des accords internationaux visant une pêche durable, et
+
+- b. il n’existe pas d’éléments fondés donnant à penser que l’Etat tolère, favorise ou promeut la pêche illicite, non déclarée ou non réglementée.
+
+<sup>3</sup> Pour ses investigations, le DFI prend en compte les informations des autorités étrangères et des organisations internationales mentionnées à l’art. 23, et les résultats des procédures de contrôle appliquées à l’importation des produits de la pêche.
+
+<sup>4</sup> Les Etats du pavillon dont il est prévu de refuser la demande d’inscription à l’annexe 2 ou de rayer l’inscription à l’annexe 2 sont consultés au préalable.
+
+#### Art. 28
+
+**Inscription des Etats du pavillon et des produits de la pêche à l’annexe 5**
+
+<sup>1</sup> Un Etat du pavillon est inscrit à l’annexe 5 s’il existe des éléments fondés donnant à penser que cet Etat tolère, favorise ou promeut la pêche illicite, non déclarée ou non réglementée.
+
+<sup>2</sup> Lors des investigations, il est notamment tenu compte des informations des autorités étrangères et des organisations internationales visées à l’art. 23 et des résultats des procédures de contrôle appliquées à l’importation des produits de la pêche.
+
+E<sup>3</sup> Si l’Etat concerné tolère, favorise ou promeut dans une mesure considérable la pêche illicite, non déclarée ou non réglementée, l’ensemble des produits de la pêche provenant de cet Etat est inscrit à l’annexe 5; autrement, seuls les produits de la pêche des espèces pour lesquelles la licéité des captures n’est pas garantie y sont inscrits.
+
+<sup>4</sup> Les Etats du pavillon qu’il est prévu d’inscrire à l’annexe 5 sont préalablement consultés par le DFI.
+
+## Section 9 Entrée en vigueur
+
+#### Art. 29
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2017.
+
+Annexe 1*[^t-1]*
+
+(art. 4, al. 1, et 26, al. 1)
+
+## Produits de la pêche soumis à la présente ordonnance
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 535](https://fedlex.data.admin.ch/eli/oc/2017/94)).
+
+<table>
+<tr><th colspan="2">Numéro du tarif</th><th></th></tr>
+<tr><td>0301</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 9100</td></tr>
+<tr><td></td><td colspan="2">ex 9200</td></tr>
+<tr><td></td><td colspan="2">ex 9400</td></tr>
+<tr><td></td><td colspan="2">ex 9500</td></tr>
+<tr><td></td><td colspan="2">ex 9980</td></tr>
+<tr><td>0302</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 1100</td></tr>
+<tr><td></td><td colspan="2">ex 1300</td></tr>
+<tr><td></td><td colspan="2">ex 1400</td></tr>
+<tr><td></td><td colspan="2">ex 1900</td></tr>
+<tr><td></td><td colspan="2">ex 2100</td></tr>
+<tr><td></td><td colspan="2">ex 2200</td></tr>
+<tr><td></td><td colspan="2">ex 2300</td></tr>
+<tr><td></td><td colspan="2">ex 2400</td></tr>
+<tr><td></td><td colspan="2">ex 2900</td></tr>
+<tr><td></td><td colspan="2">ex 3100</td></tr>
+<tr><td></td><td colspan="2">ex 3200</td></tr>
+<tr><td></td><td colspan="2">ex 3300</td></tr>
+<tr><td></td><td colspan="2">ex 3400</td></tr>
+<tr><td></td><td colspan="2">ex 3500</td></tr>
+<tr><td></td><td colspan="2">ex 3600</td></tr>
+<tr><td></td><td colspan="2">ex 3900</td></tr>
+<tr><td></td><td colspan="2">ex 4100</td></tr>
+<tr><td></td><td colspan="2">ex 4200</td></tr>
+<tr><td></td><td colspan="2">ex 4300</td></tr>
+<tr><td></td><td colspan="2">ex 4400</td></tr>
+<tr><td></td><td colspan="2">ex 4500</td></tr>
+<tr><td></td><td colspan="2">ex 4600</td></tr>
+<tr><td></td><td colspan="2">ex 4700</td></tr>
+<tr><td></td><td colspan="2">ex 4900</td></tr>
+<tr><td></td><td colspan="2">ex 5100</td></tr>
+<tr><td></td><td colspan="2">ex 5200</td></tr>
+<tr><td></td><td colspan="2">ex 5300</td></tr>
+<tr><td></td><td colspan="2">ex 5400</td></tr>
+<tr><td></td><td colspan="2">ex 5500</td></tr>
+<tr><td></td><td colspan="2">ex 5600</td></tr>
+<tr><td></td><td colspan="2">ex 5900</td></tr>
+<tr><td></td><td colspan="2">ex 7400</td></tr>
+<tr><td></td><td colspan="2">ex 7900</td></tr>
+<tr><td></td><td colspan="2">ex 8100</td></tr>
+<tr><td></td><td colspan="2">ex 8200</td></tr>
+<tr><td></td><td colspan="2">ex 8300</td></tr>
+<tr><td></td><td colspan="2">ex 8400</td></tr>
+<tr><td></td><td colspan="2">ex 8500</td></tr>
+<tr><td></td><td colspan="2">ex 8980</td></tr>
+<tr><td></td><td colspan="2">ex 9200</td></tr>
+<tr><td></td><td colspan="2">ex 9900</td></tr>
+<tr><td>0303</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 1100</td></tr>
+<tr><td></td><td colspan="2">ex 1200</td></tr>
+<tr><td></td><td colspan="2">ex 1300</td></tr>
+<tr><td></td><td colspan="2">ex 1400</td></tr>
+<tr><td></td><td colspan="2">ex 1900</td></tr>
+<tr><td></td><td colspan="2">ex 2600</td></tr>
+<tr><td></td><td colspan="2">ex 2900</td></tr>
+<tr><td></td><td colspan="2">ex 3100</td></tr>
+<tr><td></td><td colspan="2">ex 3200</td></tr>
+<tr><td></td><td colspan="2">ex 3300</td></tr>
+<tr><td></td><td colspan="2">ex 3400</td></tr>
+<tr><td></td><td colspan="2">ex 3900</td></tr>
+<tr><td></td><td colspan="2">ex 4100</td></tr>
+<tr><td></td><td colspan="2">ex 4200</td></tr>
+<tr><td></td><td colspan="2">ex 4300</td></tr>
+<tr><td></td><td colspan="2">ex 4400</td></tr>
+<tr><td></td><td colspan="2">ex 4500</td></tr>
+<tr><td></td><td colspan="2">ex 4600</td></tr>
+<tr><td></td><td colspan="2">ex 4900</td></tr>
+<tr><td></td><td colspan="2">ex 5100</td></tr>
+<tr><td></td><td colspan="2">ex 5300</td></tr>
+<tr><td></td><td colspan="2">ex 5400</td></tr>
+<tr><td></td><td colspan="2">ex 5500</td></tr>
+<tr><td></td><td colspan="2">ex 5600</td></tr>
+<tr><td></td><td colspan="2">ex 5700</td></tr>
+<tr><td></td><td colspan="2">ex 5900</td></tr>
+<tr><td></td><td colspan="2">ex 6300</td></tr>
+<tr><td></td><td colspan="2">ex 6400</td></tr>
+<tr><td></td><td colspan="2">ex 6500</td></tr>
+<tr><td></td><td colspan="2">ex 6600</td></tr>
+<tr><td></td><td colspan="2">ex 6700</td></tr>
+<tr><td></td><td colspan="2">ex 6800</td></tr>
+<tr><td></td><td colspan="2">ex 6900</td></tr>
+<tr><td></td><td colspan="2">ex 8100</td></tr>
+<tr><td></td><td colspan="2">ex 8200</td></tr>
+<tr><td></td><td colspan="2">ex 8300</td></tr>
+<tr><td></td><td colspan="2">ex 8400</td></tr>
+<tr><td></td><td colspan="2">ex 8980</td></tr>
+<tr><td></td><td colspan="2">ex 9200</td></tr>
+<tr><td></td><td colspan="2">ex 9900</td></tr>
+<tr><td>0304</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 3900</td></tr>
+<tr><td></td><td colspan="2">ex 4100</td></tr>
+<tr><td></td><td colspan="2">ex 4200</td></tr>
+<tr><td></td><td colspan="2">ex 4300</td></tr>
+<tr><td></td><td colspan="2">ex 4400</td></tr>
+<tr><td></td><td colspan="2">ex 4500</td></tr>
+<tr><td></td><td colspan="2">ex 4600</td></tr>
+<tr><td></td><td colspan="2">ex 4700</td></tr>
+<tr><td></td><td colspan="2">ex 4800</td></tr>
+<tr><td></td><td colspan="2">ex 4980</td></tr>
+<tr><td></td><td colspan="2">ex 5210</td></tr>
+<tr><td></td><td colspan="2">ex 5290</td></tr>
+<tr><td></td><td colspan="2">ex 5300</td></tr>
+<tr><td></td><td colspan="2">ex 5400</td></tr>
+<tr><td></td><td colspan="2">ex 5500</td></tr>
+<tr><td></td><td colspan="2">ex 5600</td></tr>
+<tr><td></td><td colspan="2">ex 5700</td></tr>
+<tr><td></td><td colspan="2">ex 5980</td></tr>
+<tr><td></td><td colspan="2">ex 6900</td></tr>
+<tr><td></td><td colspan="2">ex 7100</td></tr>
+<tr><td></td><td colspan="2">ex 7200</td></tr>
+<tr><td></td><td colspan="2">ex 7300</td></tr>
+<tr><td></td><td colspan="2">ex 7400</td></tr>
+<tr><td></td><td colspan="2">ex 7500</td></tr>
+<tr><td></td><td colspan="2">ex 7900</td></tr>
+<tr><td></td><td colspan="2">ex 8100</td></tr>
+<tr><td></td><td colspan="2">ex 8200</td></tr>
+<tr><td></td><td colspan="2">ex 8300</td></tr>
+<tr><td></td><td colspan="2">ex 8400</td></tr>
+<tr><td></td><td colspan="2">ex 8500</td></tr>
+<tr><td></td><td colspan="2">ex 8600</td></tr>
+<tr><td></td><td colspan="2">ex 8700</td></tr>
+<tr><td></td><td colspan="2">ex 8800</td></tr>
+<tr><td></td><td colspan="2">ex 8980</td></tr>
+<tr><td></td><td colspan="2">ex 9100</td></tr>
+<tr><td></td><td colspan="2">ex 9200</td></tr>
+<tr><td></td><td colspan="2">ex 9300</td></tr>
+<tr><td></td><td colspan="2">ex 9400</td></tr>
+<tr><td></td><td colspan="2">ex 9500</td></tr>
+<tr><td></td><td colspan="2">ex 9600</td></tr>
+<tr><td></td><td colspan="2">ex 9700</td></tr>
+<tr><td></td><td colspan="2">ex 9910</td></tr>
+<tr><td></td><td colspan="2">ex 9970</td></tr>
+<tr><td>0305</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 3200</td></tr>
+<tr><td></td><td colspan="2">ex 3990</td></tr>
+<tr><td></td><td colspan="2">ex 4100</td></tr>
+<tr><td></td><td colspan="2">ex 4200</td></tr>
+<tr><td></td><td colspan="2">ex 4300</td></tr>
+<tr><td></td><td colspan="2">ex 4990</td></tr>
+<tr><td></td><td colspan="2">ex 5100</td></tr>
+<tr><td></td><td colspan="2">ex 5300</td></tr>
+<tr><td></td><td colspan="2">ex 5400</td></tr>
+<tr><td></td><td colspan="2">ex 5980</td></tr>
+<tr><td></td><td colspan="2">ex 6100</td></tr>
+<tr><td></td><td colspan="2">ex 6200</td></tr>
+<tr><td></td><td colspan="2">ex 6300</td></tr>
+<tr><td></td><td colspan="2">ex 6990</td></tr>
+<tr><td></td><td colspan="2">ex 7100</td></tr>
+<tr><td></td><td colspan="2">ex 7900</td></tr>
+<tr><td>0306</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 1100</td></tr>
+<tr><td></td><td colspan="2">ex 1200</td></tr>
+<tr><td></td><td colspan="2">ex 1400</td></tr>
+<tr><td></td><td colspan="2">ex 1500</td></tr>
+<tr><td></td><td colspan="2">ex 1600</td></tr>
+<tr><td></td><td colspan="2">ex 1700</td></tr>
+<tr><td></td><td colspan="2">ex 3100</td></tr>
+<tr><td></td><td colspan="2">ex 3200</td></tr>
+<tr><td></td><td colspan="2">ex 3300</td></tr>
+<tr><td></td><td colspan="2">ex 3400</td></tr>
+<tr><td></td><td colspan="2">ex 3500</td></tr>
+<tr><td></td><td colspan="2">ex 3600</td></tr>
+<tr><td></td><td colspan="2">ex 9100</td></tr>
+<tr><td></td><td colspan="2">ex 9200</td></tr>
+<tr><td></td><td colspan="2">ex 9300</td></tr>
+<tr><td></td><td colspan="2">ex 9400</td></tr>
+<tr><td></td><td colspan="2">ex 9500</td></tr>
+<tr><td>0307</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 4200 (seulement les espèces du genre *Illex* et *Sepia pharaonis*)</td></tr>
+<tr><td></td><td colspan="2">ex 4300 (seulement les espèces du genre *Illex* et *Sepia pharaonis*)</td></tr>
+<tr><td></td><td colspan="2">ex 4900 (seulement les espèces du genre *Illex* et *Sepia pharaonis*)</td></tr>
+<tr><td></td><td colspan="2">ex 5100</td></tr>
+<tr><td></td><td colspan="2">ex 5200</td></tr>
+<tr><td></td><td colspan="2">ex 5900</td></tr>
+<tr><td></td><td colspan="2">ex 7100</td></tr>
+<tr><td></td><td colspan="2">ex 7200</td></tr>
+<tr><td></td><td colspan="2">ex 7900</td></tr>
+<tr><td></td><td colspan="2">ex 8200</td></tr>
+<tr><td></td><td colspan="2">ex 8400</td></tr>
+<tr><td></td><td colspan="2">ex 8800</td></tr>
+<tr><td>1604</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 1100</td></tr>
+<tr><td></td><td colspan="2">ex 1210</td></tr>
+<tr><td></td><td colspan="2">ex 1290</td></tr>
+<tr><td></td><td colspan="2">ex 1310</td></tr>
+<tr><td></td><td colspan="2">ex 1320</td></tr>
+<tr><td></td><td colspan="2">ex 1390</td></tr>
+<tr><td></td><td colspan="2">ex 1410</td></tr>
+<tr><td></td><td colspan="2">ex 1490</td></tr>
+<tr><td></td><td colspan="2">ex 1510</td></tr>
+<tr><td></td><td colspan="2">ex 1590</td></tr>
+<tr><td></td><td colspan="2">ex 1610</td></tr>
+<tr><td></td><td colspan="2">ex 1690</td></tr>
+<tr><td></td><td colspan="2">ex 1700</td></tr>
+<tr><td></td><td colspan="2">ex 1800</td></tr>
+<tr><td></td><td colspan="2">ex 1910</td></tr>
+<tr><td></td><td colspan="2">ex 1991</td></tr>
+<tr><td></td><td colspan="2">ex 1999</td></tr>
+<tr><td></td><td colspan="2">ex 2010</td></tr>
+<tr><td></td><td colspan="2">ex 2090</td></tr>
+<tr><td>1605</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">ex 1000</td></tr>
+<tr><td></td><td colspan="2">ex 2100</td></tr>
+<tr><td></td><td colspan="2">ex 2900</td></tr>
+<tr><td></td><td colspan="2">ex 3000</td></tr>
+<tr><td></td><td colspan="2">ex 5200</td></tr>
+<tr><td></td><td colspan="2">ex 5400</td></tr>
+<tr><td></td><td colspan="2">ex 5500</td></tr>
+<tr><td></td><td colspan="2">ex 5600</td></tr>
+</table>
+
+Annexe 2*[^t-2]*
+
+(art. 4, al. 2, 9, al. 1, 15, 26, al. 2, et 27)
+
+## Etats du pavillon en provenance desquels des produits de pêche peuvent être importés sans le certificat de capture et sans la procédure de notification préalable
+
+[^t-2]: Mise à jour selon le ch. I de l’O du DFI du 4 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3369](https://fedlex.data.admin.ch/eli/oc/2018/546)).
+
+<table>
+<tr><th>Etat du pavillon</th><th>Code ISO</th></tr>
+<tr><td>Allemagne</td><td>DE</td></tr>
+<tr><td>Australie</td><td>AU</td></tr>
+<tr><td>Autriche</td><td>AT</td></tr>
+<tr><td>Belgique</td><td>BE</td></tr>
+<tr><td>Bulgarie</td><td>BG</td></tr>
+<tr><td>Canada</td><td>CA</td></tr>
+<tr><td>Chypre</td><td>CY</td></tr>
+<tr><td>Croatie</td><td>HR</td></tr>
+<tr><td>Danemark</td><td>DK</td></tr>
+<tr><td>Espagne</td><td>ES</td></tr>
+<tr><td>Estonie</td><td>EE</td></tr>
+<tr><td>Etats-Unis</td><td>US</td></tr>
+<tr><td>Finlande</td><td>FI</td></tr>
+<tr><td>France</td><td>FR</td></tr>
+<tr><td>Grèce</td><td>GR</td></tr>
+<tr><td>Hongrie</td><td>HU</td></tr>
+<tr><td>Irlande</td><td>IE</td></tr>
+<tr><td>Islande</td><td>IS</td></tr>
+<tr><td>Italie</td><td>IT</td></tr>
+<tr><td>Japon</td><td>JP</td></tr>
+<tr><td>Lettonie</td><td>LV</td></tr>
+<tr><td>Lituanie</td><td>LT</td></tr>
+<tr><td>Luxembourg</td><td>LU</td></tr>
+<tr><td>Malte</td><td>MT</td></tr>
+<tr><td>Norvège</td><td>NO</td></tr>
+<tr><td>Nouvelle-Zélande</td><td>NZ</td></tr>
+<tr><td>Pays-Bas</td><td>NL</td></tr>
+<tr><td>Pologne</td><td>PL</td></tr>
+<tr><td>Portugal</td><td>PT</td></tr>
+<tr><td>République tchèque</td><td>CZ</td></tr>
+<tr><td>Roumanie</td><td>RO</td></tr>
+<tr><td>Royaume-Uni</td><td>GB</td></tr>
+<tr><td>Slovaquie</td><td>SK</td></tr>
+<tr><td>Slovénie</td><td>SI</td></tr>
+<tr><td>Suède</td><td>SE</td></tr>
+</table>
+
+Annexe 3
+
+(art. 6, al. 3, et 26, al. 1)
+
+## Certificat de capture (modèle)
+
+<table>
+<tr><td colspan="7">N° du document</td><td colspan="7">Autorité validant le certificat</td></tr>
+<tr><td>**1.**</td><td colspan="4">Nom</td><td colspan="2">Adresse</td><td colspan="3">Téléphone</td><td colspan="4">Fax</td></tr>
+<tr><td>**2.**</td><td colspan="4">Nom du navire de pêche</td><td colspan="2">Pavillon, port d’attache et numéro d’immatriculation</td><td colspan="3">Indicatif d’appel radio</td><td colspan="4">Numéros Lloyd’s/OMI (le cas échéant)</td></tr>
+<tr><td colspan="5">Numéro de la licence de pêche date limite de validité</td><td colspan="2">Numéro Inmarsat</td><td colspan="3">Fax, téléphone</td><td colspan="4">Adresse électronique (le cas échéant)</td></tr>
+<tr><td>**3.**</td><td colspan="4">Description du produit</td><td colspan="2">Type de transformation autorisée à bord</td><td>**4.**</td><td colspan="6">Mesures de conservation et de gestion applicables</td></tr>
+<tr><td colspan="2">Espèce</td><td colspan="2">Code CN des produits</td><td colspan="2">Zones et dates de capture</td><td colspan="3">Poids vif estimé (kg)</td><td colspan="3">Poids débarqué estimé (kg)</td><td colspan="2">Ev. poids débarqué vérifié (kg)</td></tr>
+<tr><td>**5.**</td><td colspan="5">Nom du capitaine du navire de pêche</td><td colspan="3">Signature</td><td colspan="5">Cachet</td></tr>
+<tr><td>**6.**</td><td colspan="5">Déclaration de transbordement en mer</td><td colspan="3">Signature et date</td><td colspan="4">Date/zone/position de transbordement</td><td>Poids estimé (kg)</td></tr>
+<tr><td colspan="3">Capitaine du navire receveur</td><td colspan="3">Signature</td><td colspan="3">Nom du navire</td><td colspan="2">Indicatif d’appel radio</td><td colspan="3">Numéros Lloyd’s/OMI (le cas échéant)</td></tr>
+</table>
+
+<table>
+<tr><td>**7.**</td><td colspan="23">Autorisation de transbordement dans une zone portuaire</td></tr>
+<tr><td colspan="2">Nom</td><td>Autorité</td><td colspan="4">Signature</td><td colspan="2">Adresse</td><td colspan="3">Téléphone</td><td colspan="5">Port de débarquement</td><td colspan="5">Date de débarquement</td><td colspan="2">Cachet ou tampon</td></tr>
+<tr><td>**8.**</td><td colspan="7">Nom et adresse de l’exportateur</td><td colspan="8">Signature</td><td colspan="5">Date</td><td colspan="3">Cachet</td></tr>
+<tr><td>**9.**</td><td colspan="23">Validation par l’autorité de l’Etat du pavillon</td></tr>
+<tr><td colspan="5">Nom/titre</td><td colspan="6">Signature</td><td colspan="7">Date</td><td colspan="6">Cachet ou tampon</td></tr>
+<tr><td>**10.**</td><td colspan="23">Informations sur le transport, *voir annexe*</td></tr>
+<tr><td>**11.**</td><td colspan="23">Déclaration de l’importateur</td></tr>
+<tr><td colspan="4">Nom et adresse de l’importateur</td><td colspan="6">Signature</td><td colspan="5">Date</td><td colspan="5">Cachet</td><td colspan="4">Code CN des produits</td></tr>
+<tr><td colspan="6">Documents visés à l’art. 14, par. 1 et 2, du règlement (CE) n<sup>o</sup> 1005/2008</td><td colspan="4">Références</td><td colspan="3"></td><td colspan="4"></td><td colspan="6"></td><td></td></tr>
+<tr><td>**12.**</td><td colspan="5">Contrôle à l’importation: autorité</td><td colspan="4">Lieu</td><td colspan="4">Importation autorisée (\*)</td><td colspan="5">Importation suspendue (\*)</td><td colspan="5">Vérification demandée – date</td></tr>
+<tr><td colspan="6">Déclaration en douane (le cas échéant)</td><td colspan="5">Numéro</td><td colspan="8">Date</td><td colspan="5">Lieu</td></tr>
+</table>
+
+Annexe 4
+
+(art. 7, al. 2, et 26, al. 1)
+
+## Déclaration établie par l’usine de transformation (modèle)
+
+Je confirme, par la présente, que les produits de la pêche transformés ci-après: …
+
+(description des produits et code de la nomenclature combinée) sont issus de captures pratiquées dans les limites fixées dans les certificats de capture suivants:
+
+<table>
+<tr><th>N° du certificat de capture</th><th>Nom du navire de pêche et pavillon</th><th>Date de validation</th><th>Description de la capture</th><th>Poids débarqué (kg)</th><th>Capture transformée (kg)</th><th>Produits de la pêche transformés (kg)</th></tr>
+</table>
+
+Nom et adresse de l’usine de transformation:
+
+Nom et adresse de l’exportateur (s’ils diffèrent de ceux de l’usine de transformation):
+
+Numéro d’autorisation de l’usine de transformation:
+
+Numéro et date d’établissement du certificat sanitaire:
+
+<table>
+<tr><td>Personne responsable de l’usine de transformation</td><td>Signature</td><td>Date</td><td>Lieu</td></tr>
+</table>
+
+Attestation de l’autorité compétente
+
+<table>
+<tr><td>Personne compétente</td><td>Signature et cachet</td><td>Date</td><td>Lieu</td></tr>
+</table>
+
+Annexe 5
+
+(art. 8 et 28)
+
+## Etats du pavillon en provenance desquels certaines importations sont interdites et produits de la pêche concernés
+
+<table>
+<tr><td>Etat du pavillon</td><td>Code ISO</td><td>Espèces de poissons concernées par l’interdiction d’importation</td><td>Numéros du tarif concernés par l’interdiction d’importation</td><td>Statut de la transformation</td><td>Remarques</td></tr>
+</table>

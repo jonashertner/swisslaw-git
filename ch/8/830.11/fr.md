@@ -1,0 +1,760 @@
+---
+sr: "830.11"
+title: Ordonnance du 11 septembre 2002 sur la partie générale du droit des assurances sociales (OPGA)
+short: OPGA
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
+language: fr
+version: 2021-01-01
+adopted: 2002-09-11
+in_force: 2003-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la partie générale du droit des assurances sociales
+
+(OPGA)
+
+du 11 septembre 2002 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+## Chapitre 1 Dispositions sur les prestations
+
+### Section 1 Garantie de l’utilisation conforme au but
+
+#### Art. 1
+
+<sup>1</sup> Lorsque, pour assurer une utilisation conforme à leur but, au sens de l’art. 20 LPGA ou des dispositions des lois spéciales, les prestations en espèces ne sont pas versées à l’ayant droit et que ce dernier est sous une curatelle de portée générale au sens de l’art. 398 du code civil (CC)[^1-1], les prestations en espèces sont versées au curateur ou à une personne ou une autorité désignée par celui-ci.[^1-2]
+
+<sup>1bis</sup> Lorsque l’ayant droit est sous curatelle au sens des art. 393 à 397 CC, les prestations en espèces ne peuvent être versées au curateur ou à une personne ou une autorité désignée par celui-ci que si le pouvoir de gestion de ces prestations par le curateur repose sur un titre juridique valable ou si le versement des prestations en ses mains est ordonné par l’autorité de protection de l’adulte compétente.[^1-3]
+
+<sup>2</sup>
+
+Le tiers ou l’autorité qui assume une obligation d’entretien envers l’ayant droit ou qui l’assiste en permanence et à qui sont versées des prestations en espèces pour qu’elles soient utilisées conformément à leur but au sens de l’art. 20 LPGA ou des dispositions des lois spéciales, est tenu:
+
+- a. d’affecter ces prestations en espèces exclusivement à l’entretien de l’ayant droit ou des personnes à sa charge;
+- b. de faire rapport à l’assureur, à sa demande, sur l’emploi de ces prestations en espèces.
+
+[^1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+[^1-3]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+
+### Section 2 Restitution de prestations indûment touchées
+
+### (art. 25 LPGA)
+
+#### Art. 2
+
+**Personnes soumises à l’obligation de restituer**
+
+<sup>1</sup>
+
+Sont soumis à l’obligation de restituer:
+
+- a. le bénéficiaire des prestations allouées indûment ou ses héritiers;
+- b.[^2-1] les tiers ou les autorités à qui ont été versées des prestations en espèces pour qu’elles soient utilisées conformément à leur but, au sens de l’art. 20 LPGA ou des dispositions des lois spéciales, à l’exception du curateur;
+- c.[^2-2] les tiers ou les autorités à qui ont été versées après coup des prestations indues, à l’exception du curateur.
+
+<sup>2</sup> Les prestations allouées indûment pour un enfant mineur qui n’ont pas été versées à cet enfant et qui ne sont pas restituables en vertu de l’al. 1, let. b ou c, doivent être restituées par les personnes qui disposaient de l’autorité parentale au moment de leur versement.
+
+<sup>3</sup> Le droit de l’assureur à la restitution est fixé en proportion des prestations touchées indûment qui peuvent être compensées par des versements effectués ultérieurement par d’autres assureurs sociaux conformément aux réglementations des assurances sociales particulières.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+
+#### Art. 3
+
+**Décision en restitution**
+
+<sup>1</sup> L’étendue de l’obligation de restituer est fixée par une décision.
+
+<sup>2</sup> L’assureur indique la possibilité d’une remise dans la décision en restitution.
+
+<sup>3</sup> L’assureur décide dans sa décision de renoncer à la restitution lorsqu’il est manifeste que les conditions d’une remise sont réunies.
+
+#### Art. 4
+
+**Remise**
+
+<sup>1</sup> La restitution entière ou partielle des prestations allouées indûment, mais reçues de bonne foi, ne peut être exigée si l’intéressé se trouve dans une situation difficile.
+
+<sup>2</sup> Est déterminant, pour apprécier s’il y a une situation difficile, le moment où la décision de restitution est exécutoire.
+
+<sup>3</sup> Les autorités auxquelles les prestations ont été versées en vertu de l’art. 20 LPGA ou des dispositions des lois spéciales ne peuvent invoquer le fait qu’elles seraient mises dans une situation difficile.
+
+<sup>4</sup> La demande de remise doit être présentée par écrit. Elle doit être motivée, accompagnée des pièces nécessaires et déposée au plus tard 30 jours à compter de l’entrée en force de la décision de restitution.
+
+<sup>5</sup> La remise fait l’objet d’une décision.
+
+#### Art. 5
+
+**Situation difficile**[^5-1]
+
+<sup>1</sup> Il y a situation difficile, au sens de l’art. 25, al. 1, LPGA, lorsque les dépenses reconnues par la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^5-2] et les dépenses supplémentaires au sens de l’al. 4 sont supérieures aux revenus déterminants selon la LPC.
+
+<sup>2</sup>
+
+Sont pris en considération pour effectuer le calcul des dépenses reconnues prescrit à l’al. 1:
+
+- a. pour les personnes vivant à domicile: comme loyer, le montant maximal respectif au sens de l’art. 10, al. 1, let. b, LPC;
+- b. pour les personnes vivant dans un home ou dans un hôpital: un montant de 4800 francs par an pour les dépenses personnelles;
+- c. pour toutes les personnes, comme montant forfaitaire pour l’assurance obligatoire des soins: la prime la plus élevée pour la catégorie de personnes en cause, conformément à la version en vigueur de l’ordonnance du DFI relative aux primes moyennes cantonales et régionales de l’assurance obligatoire des soins pour le calcul des prestations complémentaires[^5-3].
+
+<sup>3</sup> L’imputation de la fortune des personnes vivant dans un home ou dans un hôpital s’élève à un quinzième; pour les bénéficiaires de rente de vieillesse vivant dans un home ou dans un hôpital, elle équivaut à un dixième. Pour un invalide partiel, seul le revenu effectivement réalisé est pris en considération. Une éventuelle limite cantonale pour les frais de home n’est pas prise en considération.
+
+<sup>4</sup>
+
+Sont prises en considération les dépenses supplémentaires suivantes:
+
+- a. 8000 francs pour les personnes seules;
+- b. 12 000 francs pour les couples;
+- c. 4000 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI.
+
+[^5-1]: Nouvelle teneur selon le ch. I 15 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^5-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^5-3]: [RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)
+
+### Section 3 Intérêts moratoires sur les prestations
+
+### (art. 26, al. 2, LPGA)
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Abrogé par le ch. II 1 de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+
+#### Art. 7
+
+**Taux de l’intérêt et calcul**
+
+<sup>1</sup> Le taux de l’intérêt moratoire est de 5 % par an.
+
+<sup>2</sup> L’intérêt moratoire est calculé par mois sur les prestations dont le droit est échu jusqu’à la fin du mois précédent. Il est dû dès le premier jour du mois durant lequel le droit à l’intérêt moratoire a pris naissance et jusqu’à la fin du mois durant lequel l’ordre de paiement est donné.
+
+<sup>3</sup> Si un intérêt moratoire n’est dû, au sens de l’art. 6, que sur une partie de la prestation, il sera calculé au moment du paiement sur la prestation entière et sera versé en proportion de la part de prestation sur laquelle les intérêts sont dus par rapport à l’intégralité de la prestation.
+
+## Chapitre 2 Dispositions générales de la procédure
+
+### Section 1**** Exigences à l’endroit des spécialistes qui réalisent une observation
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Introduite par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+### (art. 43*a*, al. 9, let. c, LPGA)
+
+#### Art. 7a
+
+**Autorisation obligatoire**
+
+Quiconque souhaite effectuer des observations pour un assureur doit en avoir l’autorisation de l’Office fédéral des assurances sociales (OFAS).
+
+#### Art. 7b
+
+**Conditions d’octroi de l’autorisation**
+
+<sup>1</sup>
+
+L’autorisation est accordée si:
+
+- a. l’extrait du casier judiciaire destiné à des particuliers au sens de l’art. 371 du code pénal[^7b-1] du requérant est exempt de toute infraction faisant apparaître un lien avec l’activité soumise à autorisation;
+- b. le requérant déclare qu’il n’existe contre lui aucune procédure pénale pendante ni aucune procédure civile pendante ou close au cours des dix dernières années pour atteinte à la personnalité au sens des art. 28 à 28*b* du code civil (CC)[^7b-2] faisant apparaître un lien avec l’activité soumise à autorisation et susceptible de porter atteinte à la garantie du bon déroulement de cette activité et à sa bonne réputation;
+- c. il n’existe pas d’actes de défaut de bien contre le requérant;
+- d. le requérant a acquis les connaissances juridiques indispensables à l’exécution d’une observation conforme au droit dans le cadre d’une formation initiale ou continue appropriée;
+- e. le requérant a accompli avec succès une formation policière initiale ou continue en surveillance ou une formation initiale ou continue équivalente en surveillance au cours des dix dernières années, et que
+- f. le requérant a effectué au moins douze surveillances de personnes au cours des cinq dernières années.
+
+<sup>2</sup> Elle n’est accordée qu’à des personnes physiques.
+
+[^7b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 7c
+
+**Demande**
+
+L’autorisation doit être demandée par écrit à l’OFAS. La demande est accompagnée:
+
+- a. d’un *curriculum vitæ* portant sur l’activité professionnelle du requérant;
+- b. de la déclaration visée à l’art. 7*b*, al. 1, let. b, et des pièces attestant le respect des autres conditions visées à l’art. 7*b*.
+
+#### Art. 7d
+
+**Durée de validité et effet de l’autorisation**
+
+<sup>1</sup> L’autorisation est valable cinq ans.
+
+<sup>2</sup> Elle ne doit pas être mentionnée dans l’appellation professionnelle et ne confère pas un titre professionnel protégé. Elle ne doit pas être utilisée à des fins publicitaires.
+
+#### Art. 7e
+
+**Communication de modifications importantes et retrait de l’autorisation**
+
+<sup>1</sup>
+
+Le titulaire d’une autorisation est tenu d’informer sans délai l’OFAS:
+
+- a. de toute modification importante relative aux faits déterminants pour l’octroi de l’autorisation;
+- b. qu’il fait l’objet d’une procédure pénale ou d’une procédure civile pour atteinte à la personnalité au sens des art. 28 à 28*b* CC[^7e-1] faisant apparaître un lien avec l’activité soumise à autorisation et susceptible de porter atteinte à la garantie du bon déroulement de cette activité et à sa bonne réputation.
+
+<sup>2</sup>
+
+L’autorisation est retirée si:
+
+- a. une des conditions visées à l’art. 7*b* n’est plus remplie;
+- b. l’obligation d’informer visée à l’al. 1 est enfreinte, ou que
+- c. des faits sont ensuite établis sur la base desquels elle aurait dû être refusée, notamment du fait que la déclaration visée à l’art. 7*b*, al. 1, let. b, était mensongère.
+
+<sup>3</sup>
+
+Elle peut être retirée si le titulaire:
+
+- a. enfreint l’interdiction de publicité visée à l’art. 7*d*, al. 2, ou qu’il
+- b. effectue une observation non conforme au droit.
+
+[^7e-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 7f
+
+**Émoluments pour l’examen d’une demande d’autorisation**
+
+<sup>1</sup> L’OFAS perçoit un émolument de 700 francs pour l’examen d’une demande d’autorisation.
+
+<sup>2</sup> Pour le reste, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^7f-1] sont applicables.
+
+[^7f-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 7g
+
+**Répertoire des titulaires d’une autorisation**
+
+L’OFAS tient une liste des titulaires d’une autorisation.
+
+### Section 2**** Exécution de l’observation
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Introduite par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+### (art. 43*a* et 43*b* LPGA)
+
+#### Art. 7h
+
+**Lieu de l’observation**
+
+<sup>1</sup> Est considéré comme un lieu accessible au public tout espace public ou privé dont il est généralement toléré que la collectivité y ait accès.
+
+<sup>2</sup>
+
+N’est pas considéré comme librement visible depuis un lieu accessible au public tout lieu relevant de la sphère privée de la personne à observer, en particulier:
+
+- a. l’intérieur d’un logement, y compris les pièces visibles de l’extérieur par une fenêtre;
+- b. les places, cours et jardins clos appartenant directement à une maison, qui ne sont ordinairement pas visibles de l’extérieur.
+
+#### Art. 7i
+
+**Moyens de l’observation**
+
+<sup>1</sup> L’utilisation d’instruments permettant des enregistrements visuels qui améliorent considérablement les capacités de perception humaine, tels que des lunettes de vision nocturne, est interdite.
+
+<sup>2</sup> L’utilisation d’instruments permettant des enregistrements sonores qui améliorent les capacités de perception humaine, tels que micros directionnels, puces ou amplificateurs de son, est interdite. Il est interdit d’exploiter l’enregistrement de propos non publics; si ces enregistrements sont contenus dans des enregistrements vidéo, ils sont néanmoins exploitables sans les enregistrements sonores.
+
+<sup>3</sup> Pour déterminer la localisation, seuls peuvent être utilisés les instruments qui servent à cette fin conformément à leur usage, comme les appareils de localisation par satellite. L’utilisation d’aéronefs est interdite.
+
+### Section 3 Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts
+
+### (art. 43*a*, al. 9, let. a, 46 et 47 LPGA)
+
+[^chap2-sec3-1]
+
+#### Art. 8
+
+**Gestion des documents**[^8-1]
+
+<sup>1</sup> Les dossiers sont gérés systématiquement et dans l’ordre chronologique.
+
+<sup>2</sup> Un bordereau complet fournissant des informations claires et sans équivoque sur le contenu des différents documents est tenu pour chaque dossier.
+
+[^chap2-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+[^8-1]: Introduit par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+#### Art. 8a
+
+**Conservation des dossiers**[^8a-1]
+
+<sup>1</sup> Les dossiers sont conservés de manière sûre et appropriée, et de sorte qu’ils ne puissent subir aucun dommage.
+
+<sup>2</sup> Ils sont protégés par des mesures architecturales, techniques et organisationnelles appropriées contre les accès non autorisés, les modifications non enregistrées et le risque de perte.
+
+[^8a-1]: Introduit par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+#### Art. 8b
+
+**Forme de la consultation du dossier[^8b-2]**[^8b-1]
+
+<sup>1</sup> L’assureur peut subordonner la consultation du dossier à une demande écrite.
+
+<sup>2</sup> La consultation du dossier a lieu en principe au siège de l’assureur ou de ses organes d’exécution. Sur demande du requérant, l’assureur peut lui fournir les copies des pièces du dossier. Sont réservés les art. 47, al. 2, LPGA et 8, al. 5, de la loi fédérale du 19 juin 1992 sur la protection des données[^8b-3].
+
+<sup>3</sup>
+
+L’assureur doit remettre pour consultation les pièces du dossier ou des copies de celles-ci:
+
+- a. aux autorités;
+- b. aux autres assureurs, ainsi qu’aux personnes habilitées à représenter les parties devant les tribunaux au sens de l’art. 2 de la loi du 23 juin 2000 sur la libre circulation des avocats[^8b-4].
+
+[^8b-1]: Anciennement art. 8.
+[^8b-2]: Nouvelle teneur selon le ch. II du R du 19 sept. 2014 sur l’assurance-invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+[^8b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8b-4]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+
+#### Art. 8c
+
+**Consultation du matériel recueilli lors d’une observation**[^8c-1]
+
+<sup>1</sup> Si l’assureur informe l’assuré de vive voix dans ses locaux de l’observation qui a été réalisée, il présente à celui-ci l’intégralité du matériel recueilli et lui indique qu’il peut en demander la copie.
+
+<sup>2</sup> Si l’assureur informe l’assuré de l’observation par écrit, il lui offre la possibilité de consulter l’intégralité du matériel recueilli dans ses locaux. Il lui indique qu’il peut en demander la copie.
+
+[^8c-1]: Introduit par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+#### Art. 9
+
+**Frais de consultation du dossier[^9-1]**
+
+<sup>1</sup> La consultation du dossier est en principe gratuite.
+
+<sup>2</sup> Un émolument calculé conformément à l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^9-2] peut être perçu si la consultation du dossier occasionne un volume de travail particulièrement important. Est réservé l’art. 2 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^9-3].
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+[^9-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^9-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+#### Art. 9a
+
+**Destruction des dossiers**[^9a-1]
+
+<sup>1</sup> Les dossiers sans intérêt archivistique sont détruits passé le délai de conservation, à moins que la loi n’en dispose autrement.
+
+<sup>2</sup> La destruction des dossiers est effectuée de manière contrôlée et dans le respect de la confidentialité de toutes les informations qu’ils contiennent.
+
+<sup>3</sup> Le processus de destruction fait l’objet d’un procès-verbal.
+
+<sup>4</sup> Les dossiers qui, immédiatement après l’observation, n’ont pas pu servir de preuve justifiant une modification des prestations sont détruits dans les trois mois qui suivent l’entrée en force de la décision (art. 43*a*, al. 8, LPGA). La destruction est confirmée par écrit à la personne ayant fait l’objet de l’observation.
+
+[^9a-1]: Introduit par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+#### Art. 9b
+
+**Notification des jugements et arrêts**[^9b-1]
+
+Les organes d’exécution remettent à l’expert au sens de l’art. 44 LPGA qui a établi une expertise médicale une copie des jugements et arrêts des tribunaux cantonaux des assurances, du Tribunal administratif fédéral et du Tribunal fédéral pour lesquels son expertise a servi de moyen de preuve.
+
+[^9b-1]: Anciennement art. 9*a*. Introduit par le ch. II du R du 19 sept. 2014 sur l’assurance-invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
+
+### Section 4 Procédure d’opposition
+
+### (art. 52 LPGA)
+
+[^chap2-sec4-1]
+
+#### Art. 10
+
+**Principe**
+
+<sup>1</sup> L’opposition doit contenir des conclusions et être motivée.
+
+<sup>2</sup>
+
+Doit être formée par écrit l’opposition contre une décision:
+
+- a. sujette à opposition, conformément à l’art. 52 LPGA, et qui a pour objet une prestation ou la restitution d’une prestation fondées sur la loi fédérale du 25 juin 1982 sur l’assurance-chômage[^10-1];
+- b. prise par un organe d’exécution en matière de sécurité au travail au sens des art. 47 à 51 de l’ordonnance du 19 décembre 1983 sur la prévention des accidents[^10-2].
+
+<sup>3</sup> Dans les autres cas, l’opposition peut être formée au choix par écrit ou par oral, lors d’un entretien personnel.
+
+<sup>4</sup> L’opposition écrite doit être signée par l’opposant ou par son représentant légal. En cas d’opposition orale, l’assureur consigne l’opposition dans un procès-verbal signé par l’opposant ou son représentant légal.
+
+<sup>5</sup> Si l’opposition ne satisfait pas aux exigences de l’al. 1 ou si elle n’est pas signée, l’assureur impartit un délai convenable pour réparer le vice, avec l’avertissement qu’à défaut, l’opposition ne sera pas recevable.
+
+[^chap2-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+[^10-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^10-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+
+#### Art. 11
+
+**Effet suspensif**
+
+<sup>1</sup>
+
+L’opposition a un effet suspensif, sauf:
+
+- a. si un recours contre la décision prise sur opposition n’a pas d’effet suspensif de par la loi;
+- b. si l’assureur a retiré l’effet suspensif dans sa décision;
+- c. si la décision a une conséquence juridique qui n’est pas sujette à suspension.
+
+<sup>2</sup> L’assureur peut, sur requête ou d’office, retirer l’effet suspensif ou rétablir l’effet suspensif retiré dans la décision. Une telle requête doit être traitée sans délai.
+
+#### Art. 12
+
+**Décision sur opposition**
+
+<sup>1</sup> L’assureur n’est pas lié par les conclusions de l’opposant. Il peut modifier la décision à l’avantage ou au détriment de l’opposant.
+
+<sup>2</sup> Si l’assureur envisage de modifier la décision au détriment de l’opposant, il donne à ce dernier l’occasion de retirer son opposition.
+
+### Section 5**** Frais d’assistance gratuite d’un conseil juridique
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introduite par le ch. II de l’O du 21 fév. 2007, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1075](https://fedlex.data.admin.ch/eli/oc/2007/184)).
+
+### (art. 37, al. 4, LPGA)
+
+[^chap2-sec5-2]
+
+#### Art. 12a
+
+Les art. 8 à 13 du règlement du 11 décembre 2006 concernant les frais, dépens et indemnités fixés par le Tribunal administratif fédéral[^12a-1] sont applicables par analogie aux frais d’avocat d’une partie au bénéfice de l’assistance gratuite d’un conseil juridique.
+
+[^chap2-sec5-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+[^12a-1]: [[RO 2006 5305](https://fedlex.data.admin.ch/eli/oc/2006/800). [RO 2008 2209](https://fedlex.data.admin.ch/eli/oc/2008/321)art. 22]. Voir actuellement le R du 21 fév. 2008 ([RS 173.320.2](https://fedlex.data.admin.ch/eli/cc/2008/321)).
+
+## Chapitre 3 Subrogation
+
+### (art. 72 LPGA)
+
+#### Art. 13
+
+**Principe**
+
+Les assureurs qui disposent du droit de recours au sens des art. 72 à 75 LPGA peuvent conclure entre eux et avec d’autres intéressés des conventions destinées à simplifier le règlement des cas de recours.
+
+#### Art. 14
+
+**Exercice du recours de l’AVS/AI**
+
+<sup>1</sup> L’OFAS fait valoir les droits de recours de l’assurance-vieillesse et survivants et de l’assurance-invalidité, en collaboration avec les caisses de compensation et les offices AI. Il passe à cet effet les conventions nécessaires avec les caisses de compensation et les offices AI.[^14-1]
+
+<sup>2</sup> Lorsqu’elles exercent leur propre droit de recours, la Caisse nationale suisse d’assurance en cas d’accidents ou l’assurance militaire font également valoir le recours de l’assurance-vieillesse et survivants et celui de l’assurance-invalidité. L’OFAS passe à cet effet des conventions avec elles.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+
+#### Art. 15
+
+**Exercice du recours de l’assurance-chômage**
+
+Les organes d’exécution de l’assurance-chômage compétents en vertu de la loi fédérale du 25 juin 1982 sur l’assurance-chômage[^15-1] exercent les prétentions récursoires de l’assurance-chômage. Celles-ci peuvent également être exercées par le Secrétariat d’État à l’économie.
+
+[^15-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 16
+
+**Rapports entre plusieurs assureurs sociaux**[^16-1]
+
+Lorsque plusieurs assureurs sociaux participent au recours, ils doivent procéder entre eux à la répartition des montants récupérés proportionnellement aux prestations concordantes déjà versées ou dues par chacun d’eux.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+
+#### Art. 17
+
+**Recours contre un responsable qui n’est pas assuré en responsabilité civile**
+
+Les assureurs participant au recours désignent parmi eux celui qui les représentera pour traiter avec le responsable. S’ils ne parviennent pas à se mettre d’accord, la représentation sera exercée dans l’ordre suivant:
+
+- a. par l’assurance-accidents;
+- b. par l’assurance militaire;
+- c. par l’assurance-maladie;
+- d. par l’AVS/AI.
+
+## Chapitre 3*a***** Exécution de conventions internationales en matière de sécurité sociale
+
+[^chap3a-1]
+
+[^chap3a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+
+### Section 1 Désignation des compétences
+
+#### Art. 17a
+
+**Autorités compétentes en matière internationale**
+
+<sup>1</sup>
+
+Les autorités compétentes au sens de l’art. 75*a* LPGA sont:
+
+- a. pour toutes les prestations de sécurité sociale, à l’exception des prestations de chômage: l’OFAS;
+- b. pour les prestations de chômage: l’organe de compensation de l’assurance-chômage visé à l’art. 83 de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^17a-1].
+
+<sup>2</sup> Elles peuvent conclure des accords lorsque le règlement (CE) n<sup>o</sup> 883/2004[^17a-2] le prévoit, notamment en vertu des art. 16, par. 1, 35, par. 3, 41, par. 2, 65, par. 8, et 84, par. 4.
+
+<sup>3</sup> Elles représentent la Suisse auprès de la commission administrative pour la coordination des systèmes de sécurité sociale au sens de l’art. 72, auprès de la commission technique pour le traitement de l’information au sens de l’art. 73 et auprès de la commission des comptes au sens de l’art. 74 du règlement (CE) n<sup>o</sup> 883/2004.
+
+[^17a-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^17a-2]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, dans la version qui lie la Suisse en vertu de l’annexe II de l’Accord du 21 juin 1999 sur la libre circulation des personnes entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) (une version consolidée, non contraignante, de ce règlement figure sous [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)) ainsi que dans la version qui lie la Suisse en vertu de l’appendice 2 de l’annexe K de de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621))
+
+#### Art. 17b
+
+**Organismes de liaison**
+
+Les organismes de liaison au sens de l’art. 75*a* LPGA sont:
+
+- a. pour les prestations de maladie et de maternité: l’institution commune au sens l’art. 18 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^17b-1], dans la mesure où elle n’est pas déjà l’organisme de liaison en vertu de l’art. 19 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^17b-2];
+- b.
+
+  pour les prestations d’invalidité:
+
+  - 1\. dans le domaine de l’assurance-invalidité: l’office AI pour les assurés résidant à l’étranger au sens de l’art. 56 de la loi du 19 juin 1959 sur l’assurance-invalidité (LAI)[^17b-3],
+  - 2\. dans le domaine de la prévoyance professionnelle: le fonds de garantie au sens de l’art. 54, al. 2, let. a, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité (LPP)[^17b-4];
+
+- c.
+
+  pour les prestations de vieillesse et de décès:
+
+  - 1\. dans le domaine de l’assurance-vieillesse et survivants: la Caisse suisse de compensation au sens de l’art. 113 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^17b-5],
+  - 2\. dans le domaine de la prévoyance professionnelle: le fonds de garantie;
+
+- d. pour les prestations d’accidents professionnels et de maladie professionnelle: la Caisse nationale suisse d’assurance en cas d’accidents (CNA) au sens de l’art. 61 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^17b-6];
+- e. pour les prestations de chômage: l’organe de compensation de l’assurance-chômage au sens de l’art. 83 LACI[^17b-7];
+- f. pour les prestations familiales: l’OFAS;
+- g. pour la détermination de la législation applicable: l’OFAS.
+
+[^17b-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^17b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^17b-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^17b-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^17b-5]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^17b-6]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^17b-7]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 17c
+
+**Institutions compétentes**
+
+Les institutions compétentes au sens de l’art. 75*a* LPGA sont:
+
+- a. pour les prestations de maladie et de maternité, excepté l’allocation de maternité: l’assureur au sens de la LAMal[^17c-1];
+- b.
+
+  pour les prestations d’invalidité:
+
+  - 1\.
+
+    dans le domaine de l’assurance-invalidité:
+
+    - – en cas de domicile en Suisse: l’office AI du canton de domicile
+    - – en cas de domicile à l’étranger: l’office AI pour les assurés résidant à l’étranger
+
+  - 2\. dans le domaine de la prévoyance professionnelle: l’institution de prévoyance ou l’institution de libre passage;
+
+- c.
+
+  pour les prestations de vieillesse et de décès:
+
+  - 1\.
+
+    dans le domaine de l’assurance-vieillesse et survivants:
+
+    - – en cas de domicile en Suisse: la caisse de compensation AVS
+    - – en cas de domicile à l’étranger: la Caisse suisse de compensation
+
+  - 2\. dans le domaine de la prévoyance professionnelle: l’institution de prévoyance ou l’institution de libre passage;
+
+- d.
+
+  pour les prestations de l’allocation de maternité:
+
+  - 1\. en cas de domicile en Suisse: la caisse de compensation AVS,
+  - 2\. en cas de domicile à l’étranger: la Caisse suisse de compensation;
+
+- e.
+
+  pour les prestations d’accidents professionnels et de maladie professionnelle:
+
+  - 1\. s’agissant des salariés: l’assureur-accidents auquel l’employeur est affilié,
+  - 2\. s’agissant des indépendants: l’assureur-accidents auprès duquel la personne concernée est assurée;
+
+- f. pour les prestations de chômage: la caisse de chômage choisie par le chômeur ainsi que l’office régional de placement compétent au sens de l’art. 85*b* LACI[^17c-2];
+- g.
+
+  pour les allocations familiales:
+
+  - 1\. au sens de la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^17c-3]: les caisses de compensation pour allocations familiales visées à l’art. 14 LAFam,
+  - 2\. au sens de la loi du 20 juin 1952 sur les allocations familiales dans l’agriculture (LFA)[^17c-4]: la caisse de compensation AVS;
+
+- h. pour le recouvrement de créances étrangères en Suisse: la Centrale de compensation (CdC) au sens de l’art. 71 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^17c-5];
+- i. pour la détermination de la législation applicable: la caisse de compensation AVS.
+
+[^17c-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^17c-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^17c-3]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^17c-4]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^17c-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 17d
+
+**Institutions d’entraide**
+
+<sup>1</sup>
+
+Les institutions d’entraide au sens des actes juridiques de l’UE, dans la version qui lie la Suisse en vertu de l’annexe II, section A, ch. 1 à 4, de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^17d-1], sont:
+
+- a. pour les prestations de maladie et de maternité: l’institution commune au sens de l’art. 18 LAMal[^17d-2], dans la mesure où elle n’est pas déjà institution d’entraide en vertu de l’art. 19 OAMal[^17d-3];
+- b. pour les prestations d’accidents professionnels et de maladie professionnelle; la CNA.
+
+<sup>2</sup> Elles assument également les tâches visées à l’al. 1 dans le cadre d’autres conventions internationales en matière de sécurité sociale.
+
+[^17d-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^17d-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^17d-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 17e
+
+**Services de la Confédération responsables de l’infrastructure servant à l’échange électronique de données avec l’étranger**
+
+Sont responsables de la mise sur pied et de l’exploitation de l’infrastructure destinée à l’échange électronique de données avec l’étranger au sens de l’art. 75*b* LPGA:
+
+- a. dans le domaine de la maladie et des accidents: l’Office fédéral de la santé publique;
+- b. pour les rentes AVS et AI: la CdC;
+- c. pour l’assurance-chômage: l’organe de compensation de l’assurance-chômage;
+- d. pour les autres domaines: l’OFAS.
+
+### Section 2 Émoluments
+
+#### Art. 17f
+
+**Principe**
+
+Les émoluments annuels se composent à la fois d’une part des coûts de base au sens de l’art. 17*g* et d’une part des coûts d’utilisation au sens des art. 17*h* et 17*i*.
+
+#### Art. 17g
+
+**Coûts de base**
+
+<sup>1</sup>
+
+Les coûts de base comprennent:
+
+- a. les coûts générés par l’exploitation du point d’accès électronique, et
+- b. les coûts générés par l’administration, la maintenance et le support opérationnel du point d’accès électronique ainsi que par la mise à disposition d’applications adéquates.
+
+<sup>2</sup>
+
+Pour chacun des secteurs d’assurances sociales suivants, la part aux coûts de base est déterminée en fonction du nombre d’institutions compétentes et d’institutions d’entraide qui sont responsables de la mise en œuvre de l’assurance sociale internationale dans le secteur considéré:
+
+- a. assurance-maladie;
+- b. assurance-accidents;
+- c. prestations familiales;
+- d. assurance-chômage;
+- e. assurance de rentes dans le domaine des 1<sup>er</sup> et 2<sup>e</sup> piliers;
+- f. assujettissement à l’assurance.
+
+<sup>3</sup> Pour les institutions d’un secteur d’assurances sociales qui sont raccordées au point d’accès électronique au moyen d’une application standard, la part de chaque institution dans ce secteur d’assurance aux coûts de base est calculée en fonction du nombre de comptes d’utilisateur dont elle dispose.
+
+<sup>4</sup> Pour les institutions d’un secteur d’assurances sociales qui sont raccordées au point d’accès électronique par interface avec une application métier, la part aux coûts de base de toutes les institutions dans ce secteur d’assurances sociales est facturée au service responsable de cette application.
+
+<sup>5</sup> Pour les institutions d’un secteur d’assurances sociales qui utilisent aussi bien une application métier que l’application standard pour se raccorder au point d’accès, les coûts de base sont répartis au sein de ce secteur en fonction du nombre d’institutions.
+
+#### Art. 17h
+
+**Coûts d’utilisation en cas de raccordement au point d’accès électronique au moyen d’une application standard**
+
+<sup>1</sup>
+
+Pour les institutions qui sont raccordées au point d’accès électronique au moyen d’une application standard, les coûts d’utilisation se calculent sur la base:
+
+- a. des coûts d’exploitation de l’application standard;
+- b. des coûts de maintenance et du support opérationnel de l’application standard;
+- c. des coûts de mise à disposition d’applications adéquates;
+- d. des coûts des autres composants techniques.
+
+<sup>2</sup> La part de chaque institution aux coûts d’utilisation se calcule sur la base du nombre de ses comptes d’utilisateur.
+
+<sup>3</sup> Lorsqu’une partie seulement des institutions utilisent des composants techniques, les services de la Confédération visés à l’art. 17*e* peuvent leur imputer intégralement les coûts correspondants.
+
+#### Art. 17i
+
+**Coûts d’utilisation en cas de raccordement au point d’accès électronique par interface avec une application métier**
+
+<sup>1</sup>
+
+Pour les institutions qui sont raccordées au point d’accès électronique par interface avec une application métier, les coûts d’utilisation se calculent sur la base:
+
+- a. des coûts d’exploitation de l’interface;
+- b. des coûts de maintenance et de support opérationnel de l’interface;
+- c. des coûts de mise à disposition d’applications adéquates;
+- d. des coûts des autres composants techniques.
+
+<sup>2</sup> Les coûts d’utilisation de l’interface sont à la charge des services responsables de l’application métier.
+
+#### Art. 17j
+
+**Plafond des émoluments**
+
+<sup>1</sup> Pour les institutions raccordées au point d’accès électronique par une application standard, les émoluments dus pour chaque compte d’utilisateur s’élèvent au maximum à 8000 francs.
+
+<sup>2</sup> Pour les institutions raccordées au point d’accès électronique par interface, les émoluments dus par le service responsable de l’application métier s’élèvent au maximum à 100 000 francs.
+
+#### Art. 17k
+
+**Modalités**
+
+<sup>1</sup> Le calcul des coûts de base et des coûts d’utilisation par les services de la Confédération visés à l’art. 17*e* se fonde sur les coûts facturés à l’OFAS par l’exploitant de l’infrastructure et sur les frais d’administration occasionnés à l’OFAS par la gestion centralisée des applications.
+
+<sup>2</sup> Le jour de référence pour le relevé du nombre d’institutions compétentes pour la mise en œuvre de l’assurance sociale internationale et pour le relevé du nombre de leurs comptes d’utilisateur est le 31 décembre de l’année précédente.
+
+<sup>3</sup> Les services de la Confédération visés à l’art. 17*e* facturent aux institutions les émoluments dus sur une base annuelle.
+
+## Chapitre 4 Autres dispositions
+
+#### Art. 18
+
+**Volume de travail particulier requis dans le cadre de l’assistance administrative**[^18-1]
+
+### (art. 32 LPGA)
+
+<sup>1</sup>
+
+L’assistance administrative fait l’objet d’une indemnisation si:
+
+- a. sur demande de l’assureur, des données sont fournies sous une forme qui occasionne un volume de travail particulier, et que
+- b. la législation d’une assurance sociale le prévoit expressément.
+
+<sup>2</sup> Dans les cas visés à l’art. 32, al. 3, LPGA, l’organisme auquel il est demandé de communiquer des données peut prélever un émolument si la communication des données entraîne un volume de travail particulier ou que les demandes revêtent un caractère systématique.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+
+#### Art. 18a
+
+**Applicabilité de l’ordonnance générale sur les émoluments**[^18a-1]
+
+Sauf règles particulières de la présente ordonnance, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments [^18a-2] s’appliquent.
+
+[^18a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
+[^18a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 18b
+
+**Dispositions transitoires relatives à la modification du 7 juin 2019**[^18b-1]
+
+<sup>1</sup> Lorsque les conditions en matière de formation initiale ou continue visées à l’art. 7*b*, al. 1, let. e, ne sont pas remplies, une autorisation peut être accordée pendant les six mois qui suivent l’entrée en vigueur de la modification du 7 juin 2019 pour une période de deux ans, à condition que le requérant remplisse toutes les autres conditions d’autorisation et qu’il ait effectué au moins 20 surveillances pour des assureurs sociaux pendant les sept ans précédant l’entrée en vigueur de la modification du 7 juin 2019.
+
+<sup>2</sup> Les assureurs gèrent les dossiers conformément à l’art. 8, al. 2, au plus tard trois ans après l’entrée en vigueur de la modification du 7 juin 2019.
+
+[^18b-1]: Anciennement art. 18*a*. Introduit par le ch. I de l’O du 7 juin 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2833](https://fedlex.data.admin.ch/eli/oc/2019/520)).
+
+#### Art. 19
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2003.

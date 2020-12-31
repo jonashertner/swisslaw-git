@@ -1,0 +1,420 @@
+---
+sr: "414.132.2"
+title: Ordinanza del 30 giugno 2015 sulla verifica degli studi che portano al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla verifica degli studi al PFL)
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
+language: it
+version: 2019-09-15
+adopted: 2015-06-30
+in_force: 2016-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20190915/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20190915-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla verifica degli studi che portano al bachelor e al master presso il Politecnico federale di Losanna
+
+(Ordinanza sulla verifica degli studi al PFL)
+
+del 30 giugno 2015 (Stato 15 settembre 2019) (Stato 15 settembre 2019)
+
+La Direzione del Politecnico federale di Losanna (Direzione del PFL),
+
+visto l’articolo 3 capoverso 1 lettera b dell’ordinanza del 13 novembre 2003[^ingress-1] sui Politecnici federali di Zurigo e Losanna,
+
+ordina:
+
+[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+
+## Capitolo 1: Disposizioni generali
+
+### Sezione 1: Oggetto e campo di applicazione
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza definisce le regole di base per la verifica degli studi presso il PFL.
+
+#### Art. 2
+
+**Campo di applicazione**
+
+<sup>1</sup> La presente ordinanza si applica alla formazione che porta al bachelor e al master del PFL.
+
+<sup>2</sup>
+
+Se la direzione del PFL non ha emanato disposizioni specifiche, gli articoli 8, 10, 12, 14, 15 e 18*–*20 si applicano anche:
+
+- a. agli esami di ammissione;
+- b. agli esami del Corso di matematica speciale (CMS);
+- c. agli esami del corso di recupero;
+- d. agli esami di dottorato;
+- e. agli esami dei programmi dottorali;
+- f. agli esami della formazione continua e della formazione approfondita.
+
+### Sezione 2: Definizioni generali
+
+#### Art. 3
+
+**Disciplina**
+
+<sup>1</sup> Una disciplina è una materia d’insegnamento oggetto di una o più prove.
+
+<sup>2</sup> Una disciplina detta di semestre è una disciplina le cui prove si svolgono durante il periodo dei corsi.
+
+<sup>3</sup> Una disciplina detta di sessione è una disciplina le cui prove si svolgono in sessioni d’esame. Può comportare delle prove durante il periodo dei corsi.
+
+<sup>4</sup> Una disciplina di semestre può consistere in uno stage.
+
+#### Art. 4
+
+**Crediti e coefficienti**
+
+A ogni disciplina è associato un numero di crediti ECTS (European Credit Transfer and Accumulation System) (crediti) o, per il ciclo propedeutico, un coefficiente che ne indica la ponderazione nella formazione.
+
+### Sezione 3: Disposizioni comuni per gli studi di bachelor e master
+
+#### Art. 5
+
+**Piani di studio e regolamenti di applicazione**
+
+Per ogni ciclo e campo di studio sono emanati piani di studio e regolamenti di applicazione. Essi definiscono in particolare:
+
+- a. le discipline di semestre e le discipline di sessione;
+- b. il semestre o la sessione in cui si possono presentare tali discipline;
+- c. la forma (scritta o orale) della prova da sostenere durante la sessione;
+- d. la composizione dei blocchi e dei gruppi di discipline;
+- e. i coefficienti o i crediti previsti per ciascuna disciplina;
+- f. il numero di crediti o il coefficiente che bisogna acquisire in ciascun blocco e gruppo;
+- g. le condizioni applicabili ai prerequisiti (art. 25);
+- h. le condizioni particolari per il superamento degli esami;
+- i. gli studi di approfondimento, di specializzazione o interdisciplinari;
+- j. gli eventuali regimi transitori applicabili in caso di modifica dei piani di studio e dei regolamenti di applicazione.
+
+#### Art. 6
+
+**Blocchi e gruppi di discipline**
+
+<sup>1</sup> Le discipline sono riunite in blocchi o in gruppi. Ogni disciplina può far parte di un solo blocco o gruppo. Un blocco può essere costituito da una sola disciplina.
+
+<sup>2</sup>
+
+Un blocco è considerato superato se:
+
+- a. la somma dei crediti acquisiti nelle singole discipline è pari o superiore al numero richiesto; o
+- b.[^6-1] la somma dei crediti per le discipline presentate raggiunge il numero richiesto e la media del blocco (art. 8 cpv. 5) è pari o superiore a 4,00; in questo caso sono acquisiti tutti i crediti nelle discipline presentate.
+
+<sup>3</sup> Un gruppo è considerato superato se sono stati acquisiti i crediti previsti per le discipline che lo compongono; non è ammessa la compensazione tra i voti delle discipline del gruppo.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+
+#### Art. 7
+
+**Schede dei corsi**
+
+Le schede dei corsi pubblicate indicano, in particolare, per ogni disciplina:
+
+- a. gli obiettivi formativi;
+- b. una breve descrizione della materia;
+- c. le prove che compongono il voto finale, con la ponderazione e la forma;
+- d. gli eventuali prerequisiti (art. 25);
+- e. la lingua d’insegnamento.
+
+#### Art. 8
+
+**Determinazione del voto**
+
+<sup>1</sup> Una prova è valutata con una scala da 1,00 a 6,00. Le prestazioni insufficienti sono valutate con un voto inferiore al 4,00. Le prove degli studenti che non si presentano all’esame, non rispondono a nessuna domanda o non consegnano entro il tempo assegnato sono valutate con il voto 0.
+
+<sup>2</sup> Il voto finale della disciplina si compone dei voti delle prove previste. I voti sono arrotondati al quarto di punto. Se il voto finale è inferiore a 1,00, la disciplina è considerata non superata e valutata con NA («non acquis»). La valutazione NA vale come tentativo d’esame.
+
+<sup>3</sup> Il regolamento di applicazione può prevedere per le discipline una valutazione espressa con le lettere R («réussi», superato) o E («échec», non superato).
+
+<sup>4</sup> Se la disciplina viene ripetuta, vale il voto del secondo tentativo.
+
+<sup>5</sup> Le medie sono calcolate ponderando il voto finale espresso numericamente di ogni disciplina con il relativo coefficiente o numero di crediti. Sono arrotondate al centesimo. Le valutazioni NA ed E non consentono di ottenere una media, salvo nei casi di cui all’articolo 6 capoverso 2 lettera b e capoverso 3.
+
+#### Art. 9
+
+**Organizzazione delle sessioni e delle prove e iscrizione alle discipline**
+
+<sup>1</sup> Sono organizzate due sessioni d’esame per ogni anno accademico. Le sessioni hanno luogo tra i semestri.
+
+<sup>2</sup> Agli studenti sono comunicati i termini di iscrizione alle discipline, i termini di ritiro, gli orari e le date delle prove nonché ulteriori modalità.
+
+<sup>3</sup> Alla scadenza dei termini, le iscrizioni alle discipline e il ritiro sono definitivi.
+
+<sup>4</sup> Per gli studenti che devono ripetere una disciplina, a quest’ultima si applicano le disposizioni in vigore al momento della ripetizione, a meno che la scuola non abbia disposto altrimenti.
+
+#### Art. 10
+
+**Impedimento**
+
+<sup>1</sup> In caso di impedimento a sostenere la prova, gli studenti devono informarne la scuola non appena l’impedimento si presenta.
+
+<sup>2</sup> Gli studenti forniscono alla scuola i certificati necessari entro tre giorni dall’impedimento. Per certificati necessari si intendono in particolare un certificato medico o un’attestazione dell’obbligo legale di prestare servizio.
+
+<sup>3</sup> Addurre un impedimento dopo essersi presentati alla prova non costituisce motivo sufficiente per l’annullamento del voto.
+
+#### Art. 11
+
+**Lingua delle prove**
+
+<sup>1</sup> Le prove sono svolte di norma nella lingua d’insegnamento della disciplina.
+
+<sup>2</sup> Gli studenti hanno il diritto di rispondere in francese a una prova in inglese. Dietro domanda scritta degli studenti, gli insegnanti possono permettere loro di rispondere in inglese se la prova è in francese.
+
+#### Art. 12
+
+**Studenti disabili**
+
+<sup>1</sup> Se un candidato disabile ne fa richiesta all’inizio dell’anno accademico, la scuola definisce uno svolgimento della prova adeguato al tipo di disabilità e decide in merito all’impiego di mezzi ausiliari o all’assistenza personale necessaria.
+
+<sup>2</sup> Gli obiettivi della prova devono essere garantiti.
+
+#### Art. 13
+
+**Compiti degli insegnanti**
+
+<sup>1</sup>
+
+Gli insegnanti svolgono in particolare i seguenti compiti:
+
+- a. fornire le informazioni necessarie sulle materie d’insegnamento per la pubblicazione nella scheda dei corsi;
+- b. informare gli studenti, se necessario, sul contenuto delle materie e sullo svolgimento delle prove;
+- c. procedere alle prove;
+- d. prendere, durante ogni prova orale, appunti che dovranno essere prodotti se la conferenza d’esame o le autorità di ricorso ne fanno richiesta;
+- e. assegnare i voti delle prove e il voto finale della disciplina;
+- f. conservare per i sei mesi successivi alla fine del ciclo interessato (cap. 2*–*4) le prove scritte e gli appunti presi durante le prove orali; in caso di ricorso questo termine è prolungato fino alla conclusione della procedura.
+
+<sup>2</sup> Qualora gli insegnanti fossero impossibilitati a svolgere i loro compiti, il direttore di sezione designa dei sostituti.
+
+#### Art. 14
+
+**Osservatori**
+
+<sup>1</sup> Un osservatore designato dal direttore di sezione assiste alle prove orali di una sessione d’esame per vigilare sul loro corretto svolgimento.
+
+<sup>2</sup> Prende appunti, per ogni candidato, sullo svolgimento delle prove e li conserva conformemente all’articolo 13 capoverso 1 lettera f.
+
+#### Art. 15
+
+**Accesso alle prove d’esame**
+
+Gli studenti possono consultare le proprie prove entro sei mesi dalla comunicazione dei risultati.
+
+#### Art. 16
+
+**Commissioni di valutazione**
+
+Per le discipline di semestre possono essere istituite commissioni di valutazione. Possono far parte delle commissioni di valutazione, oltre all’insegnante e a un esperto, gli assistenti e gli incaricati di corsi coinvolti nell’insegnamento, nonché altri professori.
+
+#### Art. 17
+
+**Conferenza d’esame**
+
+<sup>1</sup> La conferenza d’esame si riunisce alla fine di ogni sessione. Ne fanno parte il vicepresidente per l’educazione, che la presiede, il direttore di sezione e il responsabile del servizio accademico. I membri della conferenza d’esame possono farsi sostituire dai loro supplenti.[^17-1]
+
+<sup>2</sup> La conferenza d’esame si pronuncia sui casi particolari in base alle disposizioni legali.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+
+#### Art. 18
+
+**Frode**
+
+<sup>1</sup> Per frode si intende qualsiasi espediente volto a ottenere per se stessi o per altri una valutazione non meritata.
+
+<sup>2</sup> In caso di frode, di concorso in frode o di tentativo di frode si applica il regolamento disciplinare del 15 dicembre 2008[^18-1] concernente gli studenti del Politecnico federale di Losanna.
+
+[^18-1]: [RS 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
+
+#### Art. 19
+
+**Notifica dei risultati e comunicazioni**
+
+<sup>1</sup> Agli studenti è notificata la decisione relativa al superamento o al non superamento del ciclo di studi.
+
+<sup>2</sup> Nella decisione sono menzionati i voti ottenuti e i crediti acquisiti.
+
+<sup>3</sup> La notifica della decisione e le comunicazioni sono effettuate per via elettronica o postale.
+
+#### Art. 20
+
+**Domanda di riesame e ricorso amministrativo**
+
+<sup>1</sup> Le decisioni possono essere oggetto di una domanda di riesame da presentare alla scuola entro dieci giorni dalla notifica. Si applica l’articolo 63 capoversi 1, 3 e 4 della legge federale del 20 dicembre 1968[^20-1] sulla procedura amministrativa.
+
+<sup>2</sup> Contro le decisioni può inoltre essere interposto ricorso amministrativo presso la Commissione di ricorso dei PF entro 30 giorni dalla notifica.
+
+[^20-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## Capitolo 2: Esami del ciclo propedeutico
+
+#### Art. 21
+
+**Condizioni per il superamento**
+
+<sup>1</sup> Gli studenti che al termine del primo semestre del ciclo propedeutico e della relativa sessione d’esame hanno ottenuto una media ponderata (art. 8 cpv. 5) almeno pari a 3,50 per il primo blocco ai sensi del regolamento di applicazione sono ammessi al secondo semestre del ciclo.
+
+<sup>2</sup>
+
+Superano il ciclo propedeutico gli studenti che, conformemente al piano di studio e al regolamento di applicazione:
+
+- a. hanno presentato tutte le discipline; e
+- b. hanno ottenuto una media pari o superiore a 4,00 in ciascun blocco e, se necessario, i coefficienti richiesti per un gruppo.
+
+#### Art. 22
+
+**Non superamento ed esclusione dagli studi**
+
+<sup>1</sup>
+
+È considerato non superamento a livello di ciclo propedeutico:
+
+- a. il mancato raggiungimento di una media ponderata di almeno 3,50 per il primo blocco al termine del primo semestre e della relativa sessione d’esame;
+- b. il mancato raggiungimento di una media ponderata di almeno 4,00 per ciascun blocco o il mancato raggiungimento del numero di coefficienti richiesto per un gruppo al termine del ciclo propedeutico; o
+- c. il fatto di non aver presentato tutte le discipline del ciclo propedeutico, fatto salvo l’articolo 23 capoverso 4.
+
+<sup>2</sup> Gli studenti che seguono il ciclo propedeutico per la prima volta e si vengono a trovare nella situazione di cui all’articolo 1 lettera a, al secondo semestre seguono il corso di recupero del PFL.
+
+<sup>3</sup> È considerato non superamento del ciclo propedeutico del PFL il mancato superamento, in un’altra scuola, degli esami di livello analogo a quello del ciclo propedeutico, se la maggioranza delle discipline è considerata analoga dal PFL.
+
+<sup>4</sup> Un secondo tentativo non riuscito di superare il ciclo propedeutico o l’inosservanza del periodo massimo di due anni previsto per il superamento del ciclo comportano l’esclusione definitiva dagli studi.
+
+<sup>5</sup> Il mancato raggiungimento di una media ponderata di almeno 4,00 al termine del corso di recupero o l’inosservanza dell’obbligo di frequenza comportano l’esclusione definitiva da tutte le formazioni bachelor del PFL.
+
+#### Art. 23
+
+**Ripetizione**
+
+<sup>1</sup> Gli studenti che vengono a trovarsi per la prima volta nella situazione di cui all’articolo 22 capoverso 1 lettere b e c o che hanno raggiunto una media di almeno 4,00 al corso di recupero sono ammessi una seconda volta al primo semestre del ciclo propedeutico dell’anno accademico successivo.
+
+<sup>1bis</sup> In deroga all’articolo 22 capoverso 4 della presente ordinanza e all’articolo 7 capoverso 3 dell’ordinanza del 14 giugno 2004[^23-1] sulla formazione al PFL, gli studenti che, dopo aver superato il corso di recupero, non superano il ciclo propedeutico al termine del secondo semestre, possono ripetere il secondo semestre l’anno successivo.[^23-2]
+
+<sup>2</sup> Le discipline di un blocco o di un gruppo superati (art. 21 cpv. 2 lett. b) sono acquisite e non possono essere ripetute.
+
+<sup>3</sup> La ripetizione delle altre discipline non superate è obbligatoria. La ripetizione delle discipline superate è facoltativa, salvo per gli studenti che si sono venuti a trovare nella situazione di cui all’articolo 22 capoverso 1 lettera a, per i quali è obbligatoria al primo semestre. Il regolamento di applicazione può tuttavia prevedere che determinate discipline di semestre superate non possano essere ripetute.[^23-3]
+
+<sup>4</sup> In caso di assenza giustificata ai sensi dell’articolo 10, la scuola valuta se sia ragionevole esigere che gli studenti completino il ciclo propedeutico nella sessione ordinaria corrispondente dell’anno successivo o se si debba considerare l’assenza come non superamento.
+
+[^23-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^23-2]: Introdotto dal n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 1° giu. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^23-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+
+## Capitolo 3: Esami del ciclo bachelor e del ciclo master
+
+#### Art. 24
+
+**Crediti**
+
+I crediti sono assegnati se il voto conseguito nella disciplina o se la media conseguita nel blocco di discipline a cui appartiene è pari o superiore a 4,00.
+
+#### Art. 25
+
+**Prerequisiti**
+
+Il regolamento di applicazione o la scheda dei corsi definisce le discipline di cui gli studenti devono aver acquisito i crediti per seguire altre discipline.
+
+#### Art. 26
+
+**Condizioni per il superamento**
+
+<sup>1</sup> I crediti richiesti per il ciclo bachelor e per il ciclo master devono essere acquisiti in conformità alla presente ordinanza, all’ordinanza del 14 giugno 2004[^26-1] sulla formazione al PFL e al regolamento di applicazione.
+
+<sup>2</sup> Nel ciclo bachelor devono essere acquisiti almeno 60 crediti nell’arco di due anni.
+
+[^26-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+
+#### Art. 27
+
+**Ripetizione**
+
+<sup>1</sup> Se in un blocco o in un gruppo non è acquisito il numero di crediti richiesti, le discipline in cui il voto è inferiore a 4,00 possono essere ripetute una volta; la ripetizione deve avvenire nella sessione ordinaria dell’anno successivo.
+
+<sup>2</sup> Gli studenti che non superano per due volte una disciplina opzionale possono presentarne una nuova conformemente al piano di studio.
+
+#### Art. 28
+
+**Esclusione definitiva dagli studi**
+
+Gli studenti che non acquisiscono i credit richiesti conformemente alla presente ordinanza e al regolamento di applicazione entro il periodo massimo fissato dall’ordinanza del 14 giugno 2004[^28-1] sulla formazione al PFL sono esclusi definitivamente dagli studi.
+
+[^28-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+
+#### Art. 29
+
+**Ammissione con riserva al ciclo successivo**
+
+<sup>1</sup>
+
+Possono essere ammessi con riserva al ciclo master successivo gli studenti:
+
+- a. ai quali non mancano più di dieci dei crediti richiesti dal piano di studio dell’ultimo anno del ciclo bachelor del PFL; e
+- b. che non sono stati esclusi definitivamente dagli studi.
+
+<sup>2</sup> Gli studenti ammessi con riserva al ciclo master successivo devono acquisire i crediti mancanti per il ciclo bachelor entro un anno dall’ammissione con riserva per non essere esclusi dagli studi del ciclo master.
+
+<sup>3</sup>
+
+Possono essere ammessi con riserva al progetto di master gli studenti:
+
+- a. ai quali non mancano più di otto dei crediti richiesti per il ciclo master, compresi gli studi di cui all’articolo 5 lettera i;
+- b. che non sono stati esclusi definitivamente dagli studi.
+
+## Capitolo 4: Progetto di master
+
+#### Art. 30
+
+**Svolgimento**
+
+<sup>1</sup> Il tema del progetto di master è fissato o approvato dal professore o dal collaboratore scientifico con funzioni direttive («maître d’enseignement et de recherche») che ne assume la direzione.
+
+<sup>2</sup> Su richiesta, il direttore di sezione può affidare la direzione del progetto di master a un professore, a un collaboratore scientifico con funzioni direttive di un’altra sezione o a un collaboratore scientifico.
+
+<sup>3</sup> L’esame del progetto di master consiste nella valutazione della presentazione finale seguita da un’interrogazione orale condotta dall’insegnante che ha diretto il progetto e da un esperto esterno al PFL designato dall’insegnante, in accordo con il direttore di sezione. Soltanto l’insegnante può invitare altre persone all’interrogazione orale; queste non partecipano alla valutazione.
+
+<sup>4</sup> Se ritiene insufficiente il progetto dal punto di vista redazionale, l’insegnante può esigere dallo studente che lo rielabori entro due settimane dall’interrogazione orale.
+
+#### Art. 31
+
+**Condizioni per il superamento**
+
+<sup>1</sup> Il progetto di master è considerato superato se il voto assegnato è pari o superiore a 4,00.
+
+<sup>2</sup> Se il regolamento di applicazione prevede uno stage associato al progetto di master, lo stage deve essere stato svolto precedentemente con esito positivo.
+
+#### Art. 32
+
+**Ripetizione**
+
+<sup>1</sup> In caso di non superamento può essere presentato un nuovo progetto di master entro la durata massima prevista dall’ordinanza del 14 giugno 2004[^32-1] sulla formazione al PFL.
+
+<sup>2</sup> Un secondo non superamento comporta l’esclusione definitiva.
+
+[^32-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+
+## Capitolo 5: Disposizioni finali
+
+#### Art. 33
+
+**Abrogazione**
+
+L’ordinanza del 14 giugno 2004[^33-1] sulla verifica degli studi al PFL è abrogata.
+
+[^33-1]: [[RU 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652), **2006** 4124, [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)]
+
+#### Art. 34
+
+**Disposizione transitoria**
+
+Il capitolo 2 dell’ordinanza del 14 giugno 2004[^34-1] sulla verifica degli studi al PFL si applica fino al 31 agosto 2017 agli studenti che ripetono il ciclo propedeutico nel corso dell’anno accademico 2016–2017.
+
+[^34-1]: [RU 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652), **2006** 4124, [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)
+
+#### Art. 35
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° settembre 2016.

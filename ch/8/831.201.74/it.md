@@ -1,0 +1,222 @@
+---
+sr: "831.201.74"
+title: "Ordinanza dell'UFAS del 17 ottobre 2018 concernente il progetto pilota «Intervento precoce intensivo per i bambini affetti da autismo infantile»"
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/615"
+language: it
+version: 2019-01-01
+adopted: 2018-10-17
+in_force: 2019-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-615-20190101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20190101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’UFAS concernente il progetto pilota «Intervento precoce intensivo per i bambini affetti da autismo infantile»
+
+del 17 ottobre 2018 (Stato 1° gennaio 2019)
+
+L’Ufficio federale delle assicurazioni sociali (UFAS),
+
+visto l’articolo 98 capoverso 1 lettera a dell’ordinanza del 17 gennaio 1961[^ingress-1] sull’assicurazione per l’invalidità (OAI),
+
+ordina:
+
+[^ingress-1]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina:
+
+- a. le condizioni per la partecipazione dei bambini al progetto pilota «Intervento precoce intensivo per i bambini affetti da autismo infantile» e le condizioni per lo svolgimento dell’intervento precoce intensivo da parte dei fornitori di prestazioni nel quadro del progetto pilota;
+- b. il rimborso da parte dell’assicurazione invalidità (AI) delle prestazioni fornite nel quadro del progetto pilota.
+
+#### Art. 2
+
+**Scopo del progetto pilota**
+
+Con il progetto pilota si intendono sviluppare i modelli seguenti:
+
+- a. un modello per programmi d’intervento precoce intensivo uniformi (modello di programma);
+- b. un modello per la prova dell’efficacia dell’intervento precoce intensivo a lungo termine (modello di risultato);
+- c. un modello per il finanziamento dei costi dell’intervento precoce intensivo (modello di finanziamento).
+
+## Sezione 2: Partecipazione dei bambini affetti da autismo infantile
+
+#### Art. 3
+
+**Condizioni per la partecipazione dei bambini affetti da autismo infantile**
+
+<sup>1</sup>
+
+Sono ammessi a partecipare al progetto pilota i bambini assicurati secondo la legge federale del 19 giugno 1959[^3-1] sull’assicurazione per l’invalidità (LAI):
+
+- a. per i quali un medico specialista in neuropediatria o psichiatria e psicoterapia dell’infanzia e dell’adolescenza ha emesso una diagnosi di autismo infantile secondo il codice F84.0 della classificazione ICD-10, versione 2016[^3-2], senza comorbidità per le quali sia controindicato un intervento precoce intensivo; e
+- b. che all’inizio del trattamento hanno un’età compresa tra due e quattro anni.
+
+<sup>2</sup>
+
+I detentori dell’autorità parentale devono:
+
+- a. confermare di essere stati informati del fatto che durante la partecipazione al progetto pilota non sono assunti altri provvedimenti sanitari dell’AI in relazione con l’autismo, fatta eccezione per i medicamenti;
+- b. impegnarsi a collaborare attivamente e gratuitamente al trattamento e a fornire informazioni, in particolare in merito a eventuali altri trattamenti che potrebbero avere un influsso sull’intervento precoce; e
+- c. dare il loro consenso alla valutazione dei dati del bambino nel quadro del progetto pilota.
+
+<sup>3</sup> La partecipazione al progetto pilota ha luogo su richiesta dei detentori dell’autorità parentale.
+
+[^3-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^3-2]: La Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, decima revisione, German Modification, versione 2016 (ICD-10-GM, Version 2016) può essere consultata sul sito www.bfs.admin.ch &gt; Trovare statistiche &gt; Salute &gt; Basi statistiche e rilevazioni &gt; Nomenclature &gt; Classificazioni e codifica mediche &gt; Strumenti di codifica medica &gt; ICD-10-GM.
+
+#### Art. 4
+
+**Inizio, durata e fine della partecipazione**
+
+<sup>1</sup> La partecipazione al progetto pilota inizia al più presto nel momento in cui l’ufficio AI accorda l’intervento precoce intensivo.
+
+<sup>2</sup> Un bambino può partecipare al progetto pilota durante due anni al massimo. In casi motivati, la durata della partecipazione può essere prorogata di un anno, ma al massimo fino all’inizio della scuola elementare.
+
+<sup>3</sup> La partecipazione al progetto pilota termina al più tardi con la conclusione del medesimo.
+
+<sup>4</sup> Se i detentori dell’autorità parentale violano gli obblighi di cui all’articolo 3 capoverso 2 lettere a–c, l’ufficio AI revoca mediante decisione il diritto alla partecipazione.
+
+<sup>5</sup> La partecipazione al progetto pilota può essere interrotta in qualsiasi momento alla fine di un mese. I detentori dell’autorità parentale devono comunicare per scritto l’interruzione al competente ufficio AI e al fornitore di prestazioni interessato.
+
+#### Art. 5
+
+**Richiesta di partecipazione**
+
+<sup>1</sup> La richiesta per la partecipazione di un bambino al progetto pilota deve essere inoltrata per scritto dai detentori dell’autorità parentale al competente ufficio AI.
+
+<sup>2</sup> Una richiesta di proroga della durata di partecipazione deve essere motivata da un medico specialista in neuropediatria o psichiatria e psicoterapia dell’infanzia e dell’adolescenza.
+
+#### Art. 6
+
+**Concessione dell’intervento precoce intensivo senza decisione**
+
+<sup>1</sup> Se le condizioni di cui all’articolo 3 sono adempiute e la richiesta è pienamente accolta, l’ufficio AI può accordare l’intervento precoce intensivo senza la notificazione di un preavviso o di una decisione (art. 58 LAI).
+
+<sup>2</sup> Lo stesso vale per la proroga della durata dell’intervento precoce intensivo.
+
+## Sezione 3: Partecipazione dei fornitori di prestazioni
+
+#### Art. 7
+
+**Condizioni per la partecipazione dei fornitori di prestazioni**
+
+<sup>1</sup> L’intervento precoce intensivo può essere svolto solo da fornitori di prestazioni riconosciuti dall’UFAS.
+
+<sup>2</sup> Il fornitore di prestazioni inoltra all’UFAS una richiesta di riconoscimento.
+
+<sup>3</sup>
+
+Il riconoscimento è accordato se il fornitore di prestazioni offre un metodo d’intervento precoce intensivo che:
+
+- a. è scientificamente riconosciuto;
+- b. prevede un approccio basato sulla terapia comportamentale o sullo sviluppo oppure una combinazione di questi due approcci;
+- c. comprende gli ambiti della cognizione, della comunicazione e del linguaggio, dell’interazione sociale e dello sviluppo emotivo;
+- d. ha un’intensità di almeno 20 ore alla settimana, che può tuttavia essere inferiore in caso di proroga secondo l’articolo 4 capoverso 2;
+- e. coinvolge i detentori dell’autorità parentale; e
+- f. è applicato da un gruppo interdisciplinare.
+
+<sup>4</sup>
+
+Il fornitore di prestazioni deve inoltre adempiere le condizioni seguenti:
+
+- a. fare capo a un’istituzione di diritto pubblico;
+- b. essere diretto da un medico specialista in neuropediatria o psichiatria e psicoterapia dell’infanzia e dell’adolescenza oppure prevedere che un medico con una specializzazione in tali discipline segua i provvedimenti sanitari svolti dal fornitore di prestazioni;
+- c. avere un finanziamento garantito per l’intera durata del progetto pilota;
+- d. disporre di un sistema di gestione della qualità;
+- e. avere un organico composto almeno al 30 per cento da personale medico e al 30 per cento da personale pedagogico-terapeutico;
+- f. provvedere affinché i posti per il personale medico e quelli per il personale pedagogico-terapeutico siano occupati da persone in formazione in misura non superiore al 30 per cento degli equivalenti a tempo pieno.
+
+<sup>5</sup> Per la determinazione dell’intensità della terapia, sono computate al massimo due ore al giorno di terapia fornite dai detentori dell’autorità parentale.
+
+#### Art. 8
+
+**Convenzione tra i fornitori di prestazioni e l’UFAS**
+
+<sup>1</sup> I fornitori di prestazioni riconosciuti concludono con l’UFAS una convenzione sullo svolgimento dell’intervento precoce intensivo.
+
+<sup>2</sup> La convenzione stabilisce in particolare che i fornitori di prestazioni sono tenuti a collaborare allo sviluppo di un modello di programma, di un modello di risultato e di un modello di finanziamento e a fornire informazioni agli uffici AI ordinanti e all’UFAS per l’intera durata del progetto pilota.
+
+#### Art. 9
+
+**Fine della partecipazione**
+
+<sup>1</sup> La partecipazione al progetto pilota termina al più tardi con la conclusione del medesimo.
+
+<sup>2</sup> Se un fornitore di prestazioni non adempie più una delle condizioni di cui all’articolo 7 capoversi 3 e 4 oppure viola la convenzione con l’UFAS, quest’ultimo disdice la convenzione con un preavviso di tre mesi. È fatto salvo il capoverso 4.
+
+<sup>3</sup> La partecipazione al progetto può essere interrotta in qualsiasi momento con un preavviso di sei mesi. L’interruzione va comunicata per scritto all’UFAS con la relativa motivazione.
+
+<sup>4</sup> L’UFAS può disdire la convenzione con un fornitore di prestazioni in qualsiasi momento, con un preavviso di sei mesi, se lo sviluppo dei modelli di cui all’articolo 2 non è più realistico.
+
+## Sezione 4: Rimborso delle prestazioni
+
+#### Art. 10
+
+**Condizioni per i fornitori di prestazioni**
+
+I fornitori di prestazioni riconosciuti dall’UFAS secondo l’articolo 7 che hanno concluso una convenzione secondo l’articolo 8 hanno diritto al rimborso delle loro prestazioni.
+
+#### Art. 11
+
+**Importo forfettario per singolo caso**
+
+<sup>1</sup>
+
+L’AI versa un importo forfettario per singolo caso di 45 000 franchi, per l’intera durata dell’intervento precoce intensivo, per:
+
+- a. gli elementi del trattamento medico;
+- b. le istruzioni del fornitore di prestazioni ai detentori dell’autorità parentale (coeducazione).
+
+<sup>2</sup>
+
+L’importo forfettario per singolo caso è versato come segue:
+
+- a. per i trattamenti d’intervento precoce intensivo di breve durata e stazionari: 50 per cento all’inizio del trattamento e 50 per cento dopo la conclusione del trattamento;
+- b. per i trattamenti d’intervento precoce intensivo di lunga durata e ambulatoriali: 25 per cento all’inizio del trattamento, 25 per cento dopo sei mesi, 25 per cento dopo un anno e 25 per cento dopo la conclusione del trattamento.
+
+<sup>3</sup> In caso di interruzione dell’intervento precoce intensivo, le quote del rimborso successive all’interruzione non sono versate.
+
+<sup>4</sup> In caso di sospensione dell’intervento precoce intensivo, i versamenti sono sospesi. Con la ripresa del trattamento riprende anche il diritto al versamento.
+
+#### Art. 12
+
+**Rimborso in caso di proroga della partecipazione**
+
+In caso di proroga della partecipazione sono rimborsati al massimo 1000 franchi al mese.
+
+#### Art. 13
+
+**Prestazioni escluse dal rimborso**
+
+Le ore di terapia fornite dai detentori dell’autorità parentale non sono rimborsate dall’AI.
+
+#### Art. 14
+
+**Prestazioni accessorie**
+
+<sup>1</sup> L’AI rimborsa ai detentori dell’autorità parentale le spese di viaggio se il fornitore di prestazioni non mette a disposizione un servizio di trasporto collettivo, nonché le spese per vitto e alloggio fuori casa. Si applica l’articolo 90 capoversi 2–5 OAI.
+
+<sup>3</sup> L’AI rimborsa ai fornitori di prestazioni le spese per la redazione dei rapporti richiesti e per il rilevamento di ulteriori dati per il modello di risultato in base alla struttura tariffale TARMED per le prestazioni mediche e in base alle tariffe delle pertinenti convenzioni tariffali per le prestazioni fornite da ergoterapisti, fisioterapisti e psicoterapeuti.
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 15
+
+**Disposizioni transitorie**
+
+<sup>1</sup> I bambini che all’entrata in vigore della presente ordinanza erano già in cura presso un centro per l’autismo con cui l’UFAS ha concluso in precedenza una convenzione sullo svolgimento dell’intervento precoce intensivo possono continuare il trattamento nel quadro del progetto pilota se i detentori dell’autorità parentale presentano una richiesta in tal senso. Non si applica l’articolo 3 capoverso 1 lettera b.
+
+<sup>2</sup> I bambini che all’entrata in vigore della presente ordinanza erano già in cura presso un centro per l’autismo che in quel momento non ha ancora concluso una convenzione con l’UFAS possono partecipare al progetto pilota se il centro viene riconosciuto dall’UFAS e conclude una convenzione con esso. Il trattamento può proseguire nell’ambito del progetto pilota se i detentori dell’autorità parentale presentano una richiesta in tal senso. Non si applica l’articolo 3 capoverso 1 lettera b. L’importo forfettario per singolo caso è versato proporzionalmente per la durata restante del trattamento.
+
+#### Art. 16
+
+**Entrata in vigore e durata di validità**
+
+La presente ordinanza entra in vigore il 1° gennaio 2019 con effetto sino al 31 dicembre 2022.

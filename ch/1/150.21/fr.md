@@ -1,0 +1,138 @@
+---
+sr: "150.21"
+title: Ordonnance du 2 novembre 2016 concernant la loi fédérale relative à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/733"
+language: fr
+version: 2017-01-01
+adopted: 2016-11-02
+in_force: 2017-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/733/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-733-20170101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/733/20170101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la loi fédérale relative à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées
+
+du 2 novembre 2016 (Etat le 1<sup>er</sup> janvier 2017)
+
+Le Conseil fédéral suisse,
+
+vu les art. 4, al. 3, et 9, al. 3, de la loi fédérale du 18 décembre 2015 relative à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées (loi),[^ingress-1]
+
+arrête:
+
+[^ingress-1]: [RS 150.2](https://fedlex.data.admin.ch/eli/cc/2016/732)
+
+## Section 1 Réseau
+
+#### Art. 1
+
+**Services de coordination**
+
+<sup>1</sup> L’Office fédéral de la police (fedpol) est le service fédéral de coordination au sens de l’art. 4, al. 2, de la loi.
+
+<sup>2</sup> Les cantons indiquent au service fédéral de coordination le service cantonal chargé de la coordination et l’informent de tout changement à cet égard.
+
+#### Art. 2
+
+**Communication**
+
+<sup>1</sup> La communication entre le service fédéral de coordination et les services cantonaux de coordination ainsi que les services fédéraux compétents pour l’exécution des privations de liberté s’effectue de manière sécurisée.
+
+<sup>2</sup> Le Département fédéral de justice et police fixe les exigences techniques auxquelles doit satisfaire cette communication.
+
+#### Art. 3
+
+**Contenu de la demande d’information**
+
+La demande d’information doit contenir les renseignements suivants:
+
+- a. les nom et prénom, la date de naissance, la nationalité, l’adresse et le numéro de téléphone de l’auteur de la demande;
+- b. les nom et prénom, la date de naissance, la nationalité ainsi que, si ces données sont connues, l’état civil et l’adresse;
+- c. des précisions sur le lien qui unit l’auteur de la demande et la personne recherchée;
+- d. des précisions sur le dernier contact entre l’auteur de la demande et la personne recherchée;
+- e. les motifs pour lesquels l’auteur de la demande soupçonne une disparition forcée.
+
+#### Art. 4
+
+**Délais de traitement**
+
+<sup>1</sup> Le service fédéral de coordination lance la recherche au sein du réseau immédiatement après avoir reçu une demande d’information complète.
+
+<sup>2</sup> Il fixe un délai de réponse pour chaque recherche lancée au sein du réseau, conformément à l’art. 6, al. 2 et 3, de la loi.
+
+<sup>3</sup> Le délai imparti est de 6 jours ouvrés. Si la demande est particulièrement urgente en raison des circonstances, le délai peut être réduit de manière appropriée. Si la recherche s’avère particulièrement complexe, le délai peut être prolongé.
+
+#### Art. 5
+
+**Contenu des clarifications**
+
+<sup>1</sup> Les services cantonaux de coordination et les services fédéraux compétents déterminent dans le délai imparti si la personne recherchée est privée de liberté. La recherche se limite aux institutions dans lesquelles la privation de liberté s’effectue en milieu fermé.
+
+<sup>2</sup> Outre les renseignements précisés à l’art. 6, al. 3, de la loi, des informations sont communiquées au service fédéral de coordination sur la manière de prendre contact avec la personne recherchée pour obtenir son consentement.
+
+<sup>3</sup> Si le but de l’instruction interdit de communiquer des informations, en vertu de l’art. 214, al. 2, du code de procédure pénale[^5-1], le service cantonal de coordination ou le service fédéral compétent en informe immédiatement le service fédéral de coordination.
+
+[^5-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 6
+
+**Consentement de la personne recherchée**
+
+<sup>1</sup> Le consentement de la personne recherchée, requis conformément à l’art. 7, al. 2, de la loi, doit être délivré par écrit ou sous toute autre forme permettant d’en établir la preuve.
+
+## Section 2 Traitement des données par le service fédéral de coordination
+
+#### Art. 7
+
+**Système de gestion des affaires et des dossiers**
+
+Le service fédéral de coordination traite les données dans le système de gestion des affaires et des dossiers de fedpol. Les données sont enregistrées séparément de toute autre donnée.
+
+#### Art. 8
+
+**Données traitées**
+
+Les données suivantes sont enregistrées:
+
+- a. les nom et prénom, la date de naissance, la nationalité et l’état civil de la personne privée de liberté;
+- b. la date, l’heure et l’endroit où la personne a été privée de liberté et l’autorité qui a procédé à la privation de liberté;
+- c. l’autorité ayant décidé la privation de liberté et les motifs de la privation de liberté;
+- d. l’autorité contrôlant la privation de liberté;
+- e. le lieu de privation de liberté, la date et l’heure de l’admission dans le lieu de privation de liberté et l’autorité responsable du lieu de privation de liberté;
+- f. les éléments relatifs à l’état de santé de la personne privée de liberté;
+- g. la date et l’heure de la libération ou du transfert vers un autre lieu de détention, la destination et l’autorité chargée du transfert;
+- h. en cas de décès pendant la privation de liberté, les circonstances et les causes du décès ainsi que la destination des restes de la personne décédée;
+- i. les informations pour entrer en contact avec la personne recherchée;
+- j. les nom et prénom, la date de naissance et la nationalité de l’auteur de la demande;
+- k. l’adresse de l’auteur de la demande;
+- l. des précisions sur le lien qui unit l’auteur de la demande et la personne recherchée;
+- m. des précisions sur le dernier contact entre l’auteur de la demande et la personne recherchée;
+- n. des informations sur les motifs pour lesquels l’auteur de la demande soupçonne une disparition forcée;
+- o. les dossiers et la correspondance relatifs à la demande d’informations.
+
+#### Art. 9
+
+**Droits d’accès**
+
+Les collaborateurs de l’Office fédéral de la police chargés de gérer le service fédéral de coordination peuvent saisir, modifier ou détruire des données, pour autant que l’accomplissement des tâches que leur assigne la loi le requière.
+
+#### Art. 10
+
+**Durée de conservation et archivage**
+
+<sup>1</sup> Les données contenues dans le système de gestion des affaires et des dossiers sont détruites 20 ans après la première saisie.
+
+<sup>2</sup> L’archivage des données est régi par l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^10-1] et par les dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^10-2].
+
+[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+## Section 3 Disposition finale
+
+#### Art. 11
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017.

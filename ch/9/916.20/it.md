@@ -1,0 +1,2182 @@
+---
+sr: "916.20"
+title: "Ordinanza del 31 ottobre 2018 sulla protezione dei vegetali da organismi nocivi particolarmente pericolosi (Ordinanza sulla salute dei vegetali, OSalV)"
+short: OSalV
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/682"
+language: it
+version: 2020-08-01
+adopted: 2018-10-31
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/fedlex-data-admin-ch-eli-cc-2018-682-20200801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20200801/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla protezione dei vegetali da organismi nocivi particolarmente pericolosi
+
+(Ordinanza sulla salute dei vegetali, OSalV)
+
+del 31 ottobre 2018 (Stato 1° agosto 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 148*a* capoverso 3, 149 capoverso 2, 152, 153, 168, 177 e 180 capoverso 3 della legge del 29 aprile 1998[^ingress-1] sull’agricoltura; visti gli articoli 26 capoversi 1 e 2, 46 capoverso 4 e 49 capoverso 3 della legge forestale del 4 ottobre 1991[^ingress-2]; visto l’articolo 29*f* capoverso 2 lettera c della legge del 7 ottobre 1983[^ingress-3] sulla protezione dell’ambiente; e visto l’articolo 19 capoverso 2 lettera c della legge del 21 marzo 2003[^ingress-4] sull’ingegneria genetica; in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio; in esecuzione della Convenzione internazionale del 6 dicembre 1951[^ingress-6] per la protezione dei vegetali; in esecuzione dell’allegato 4 dell’Accordo del 21 giugno 1999[^ingress-7] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli,
+
+ordina:
+
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-4]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: [RS 0.916.20](https://fedlex.data.admin.ch/eli/cc/1997/1515_1515_1515)
+[^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo e oggetto**
+
+<sup>1</sup> La presente ordinanza ha lo scopo di evitare danni economici, sociali ed ecologici che possono essere causati dall’introduzione e dalla diffusione di organismi da quarantena e di altri organismi nocivi particolarmente pericolosi, segnatamente dall’importazione e dalla messa in commercio di merci che possono essere portatrici di tali organismi nocivi.
+
+<sup>2</sup> Per evitare danni è necessario attuare misure di prevenzione e di lotta.
+
+<sup>3</sup> La presente ordinanza stabilisce in particolare quali misure di prevenzione e di lotta adottare per evitare l’introduzione e la diffusione di organismi da quarantena e di altri organismi nocivi particolarmente pericolosi.
+
+#### Art. 2
+
+**Definizioni**
+
+Ai sensi della presente ordinanza s’intendono per:
+
+- a. *organismi nocivi:* specie, ceppi o biotipi di vegetali, animali o agenti patogeni che possono nuocere ai vegetali o ai prodotti vegetali;
+- b. *organismi nocivi particolarmente pericolosi:* organismi nocivi che in caso di introduzione e diffusione possono causare ingenti danni economici, sociali o ecologici;
+- c. *merci:* vegetali, prodotti vegetali e qualsiasi materiale che possono essere portatori di organismi nocivi particolarmente pericolosi o fungere da mezzo per la loro diffusione, inclusa la terra e il terreno di coltura;
+- d.
+
+  *vegetali:* piante vive e le parti vive di piante indicate qui appresso:
+
+  - 1\. frutti in senso botanico,
+  - 2\. ortaggi,
+  - 3\. tuberi, bulbi-tuberi, bulbi, rizomi, radici, portinnesti e stoloni,
+  - 4\. parti aeree, fusti e stoloni epigei,
+  - 5\. fiori recisi,
+  - 6\. rami, con o senza foglie o aghi,
+  - 7\. alberi tagliati, con foglie o aghi,
+  - 8\. foglie, fogliame,
+  - 9\. colture di tessuti vegetali,
+  - 10\. polline vivo e spore,
+  - 11\. gemme, nesti, talee, marze e innesti,
+  - 12\. sementi in senso botanico, destinate alla semina;
+
+- e.
+
+  *prodotti vegetali:* prodotti di origine vegetale non trasformati o che hanno subito un trattamento semplice, purché non si tratti di vegetali; salvo disposizioni contrarie, il legno è considerato prodotto vegetale soltanto se adempie almeno uno dei criteri seguenti:
+
+  - 1\. conserva in tutto o in parte la sua superficie rotonda naturale, con o senza corteccia,
+  - 2\. non ha conservato la superficie rotonda naturale poiché è stato segato, tagliato o spaccato,
+  - 3\. è in forma di piccole placche, particelle, segatura, residui, trucioli o cascami e non è stato trasformato mediante l’utilizzo di colla, calore o pressione o una combinazione di tali elementi per produrre pellet, mattonelle, compensato o pannelli di particelle,
+  - 4\. è utilizzato, o è destinato a essere utilizzato, come materiale da imballaggio, a prescindere dal fatto che sia effettivamente impiegato per il trasporto di merci;
+
+- f. *piantagione:* ogni operazione di messa a dimora o di innesto di vegetali per assicurarne la successiva crescita, riproduzione o moltiplicazione;
+- g. *vegetali destinati alla piantagione:* vegetali piantati, che saranno piantati o ripiantati;
+- h. *focolaio d’infestazione:* singoli vegetali infestati da organismi nocivi particolarmente pericolosi e i loro immediati dintorni al di fuori della zona infestata, inclusi i vegetali sospettati di essere infestati;
+- i. *zona cuscinetto:* zona indenne da infestazione circostante il focolaio d’infestazione;
+- j. *messa in commercio:* trasferimento o cessione a titolo oneroso o gratuito di merci;
+- k. *Stati terzi:* tutti gli Stati al di fuori della Svizzera, del Principato del Liechtenstein e degli Stati membri dell’Unione europea (UE); le isole Canarie, Ceuta, Melilla e i dipartimenti e i territori francesi d’oltremare sono considerati Stati terzi;
+- l. *utilizzo:* ogni attività in relazione a organismi nocivi particolarmente pericolosi e merci, in particolare l’importazione, la messa in commercio, la detenzione, la moltiplicazione e la diffusione;
+- m. *importazione:* introduzione di merci nel territorio svizzero, incluse le enclavi doganali svizzere (art. 3 cpv. 3 della legge del 18 marzo 2005[^2-1] sulle dogane) e il Principato del Liechtenstein;
+- n. *transito:* trasporto di merci non sdoganate attraverso la Svizzera;
+- o. *lotto:* l’unità più piccola utilizzabile nel commercio o altrimenti sul rispettivo livello di commercializzazione di merci che, in base alla loro omogeneità dal profilo della composizione, dell’origine e di altri elementi rilevanti, è identificabile;
+- p. *partita:* insieme di lotti;
+- q. *invio:* insieme di partite, trasferite con lo stesso mezzo di trasporto, provenienti dallo stesso fornitore e luogo di provenienza e destinate allo stesso destinatario;
+- r. *passaporto fitosanitario:* documento ufficiale per il commercio di merci all’interno della Svizzera e con l’UE che comprova che le merci adempiono le prescrizioni fitosanitarie;
+- s. *certificato fitosanitario:* documento ufficiale per il commercio di merci con Stati terzi che comprova che la merce adempie le prescrizioni fitosanitarie del Paese di destinazione;
+- t. *vettore:* organismo vivente che trasmette organismi nocivi particolarmente pericolosi da un vegetale infetto a un altro.
+
+[^2-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 3
+
+**Emanazione di disposizioni da parte di uffici federali**
+
+Ove la presente ordinanza delega l’emanazione di disposizioni all’ufficio federale competente, la competenza è demandata a:
+
+- a. Ufficio federale dell’ambiente (UFAM), per le misure in virtù della legge forestale del 4 ottobre 1991;
+- b. Ufficio federale dell’agricoltura (UFAG), per le misure in virtù della legge del 29 aprile 1998 sull’agricoltura.
+
+## Capitolo 2: Definizione di organismi da quarantena, organismi da quarantena potenziali e organismi regolamentati non da quarantena****
+
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 4
+
+**Organismi da quarantena**
+
+<sup>1</sup>
+
+Un organismo da quarantena è un organismo nocivo particolarmente pericoloso:
+
+- a.[^4-1] che non è presente in Svizzera o non è ampiamente diffuso;
+- b. che adempie i criteri riportati nell’allegato 1 numero 1; e
+- c. contro il quale sono disponibili misure realizzabili ed efficaci atte a evitarne l’introduzione e la diffusione nonché a ridurre i danni che causa.
+
+<sup>2</sup>
+
+Sono sottoposti a trattamento prioritario gli organismi da quarantena:
+
+- a. che adempiono anche i criteri riportati nell’allegato 1 numero 2; e
+- b. contro i quali la lotta è più urgente.
+
+<sup>3</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) stabiliscono di comune accordo gli organismi da quarantena e segnalano quelli da sottoporre a trattamento prioritario.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 5
+
+**Organismi da quarantena potenziali**
+
+<sup>1</sup> Un organismo da quarantena potenziale è un organismo nocivo particolarmente pericoloso per il quale occorre verificare se adempie i criteri riportati nell’allegato 1 numero 1.
+
+<sup>2</sup> L’ufficio federale competente stabilisce gli organismi da quarantena potenziali.
+
+#### Art. 5a
+
+**Organismi regolamentati non da quarantena**[^5a-1]
+
+Un organismo regolamentato non da quarantena è un organismo nocivo particolarmente pericoloso:
+
+- a. che è diffuso in Svizzera o nell’UE;
+- b. che si trasmette principalmente da vegetali specifici destinati alla piantagione;
+- c. la cui presenza sui vegetali specifici destinati alla piantagione comporta conseguenze economiche inaccettabili relativamente all’utilizzo previsto di tali vegetali;
+- d. per il quale sono disponibili misure realizzabili ed efficaci atte a evitarne la comparsa sui vegetali specifici destinati alla piantagione; e
+- e. che adempie i criteri di cui all’allegato 1 numero 3.
+
+[^5a-1]: Introdotto dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+## Capitolo 3: Divieto di utilizzo di organismi da quarantena
+
+#### Art. 6
+
+**Principio**
+
+<sup>1</sup> Al di fuori di sistemi chiusi, l’utilizzo di organismi da quarantena in qualsiasi forma o stadio di sviluppo è vietato.
+
+<sup>2</sup> Per l’utilizzo di organismi da quarantena e organismi da quarantena potenziali in sistemi chiusi si applica l’ordinanza del 9 maggio 2012[^6-1] sull’impiego confinato.
+
+[^6-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+
+#### Art. 7
+
+**Autorizzazioni per l’utilizzo di organismi da quarantena al di fuori di sistemi chiusi**
+
+<sup>1</sup>
+
+Su richiesta, l’ufficio federale competente può autorizzare l’utilizzo di organismi da quarantena al di fuori di sistemi chiusi, se è possibile escluderne la diffusione, per i seguenti scopi:
+
+- a. ricerca;
+- b. diagnosi;
+- c. scelta varietale e programmi di selezione;
+- d. formazione.
+
+<sup>2</sup>
+
+L’autorizzazione disciplina in particolare:
+
+- a. il quantitativo di organismi che è permesso utilizzare;
+- b. la durata dell’autorizzazione;
+- c. il luogo e le condizioni in cui gli organismi vanno tenuti;
+- d. le competenze scientifiche e tecniche di cui deve disporre il personale addetto;
+- e. l’obbligo di allegare l’autorizzazione all’invio in caso di importazione e spostamento;
+- f. le condizioni per ridurre al minimo il rischio di insediamento e diffusione dell’organismo.
+
+## Capitolo 4: Misure contro l’introduzione e la diffusione di organismi da quarantena
+
+### Sezione 1: Obbligo di notifica
+
+#### Art. 8
+
+<sup>1</sup> Chi sospetta o constata la presenza di organismi da quarantena ne dà notifica senza indugio al servizio cantonale competente.
+
+<sup>2</sup> Se il sospetto d’infestazione o la presenza riguarda un’azienda omologata ai sensi dell’articolo 76 o 89 (azienda omologata), il sospetto o la presenza va notificata al Servizio fitosanitario federale (SFF).
+
+<sup>3</sup> Se il servizio cantonale competente rileva la presenza di organismi da quarantena ne dà notifica senza indugio all’ufficio federale competente.
+
+<sup>4</sup> In una zona infestata l’ufficio federale competente può revocare l’obbligo di notifica per l’organismo da quarantena in questione. Per le aziende omologate l’obbligo di notifica non può essere revocato.
+
+### Sezione 2: Misure di prevenzione
+
+#### Art. 9
+
+**Misure di prevenzione a carico delle aziende**
+
+Se un’azienda che utilizza merci a scopo commerciale sospetta o constata la presenza di organismi da quarantena, prende senza indugio misure di prevenzione per impedirne l’insediamento e la diffusione.
+
+#### Art. 10
+
+**Misure di prevenzione a carico del servizio cantonale competente**
+
+<sup>1</sup> Se al servizio cantonale competente è notificata la sospettata presenza o la presenza di un organismo da quarantena, esso prende senza indugio le misure necessarie per verificare se l’organismo da quarantena è effettivamente presente.
+
+<sup>2</sup> La verifica avviene sulla base di una diagnosi di un laboratorio designato dal SFF.
+
+<sup>3</sup> Finché la diagnosi non è disponibile, il servizio cantonale competente prende misure adeguate ai sensi dell’articolo 13 capoverso 1 lettere a–d.
+
+<sup>4</sup> Se il sospetto riguarda un’azienda omologata, le misure di cui ai capoversi 1 e 3 sono di competenza del SFF.
+
+### Sezione 3: Informazione delle aziende interessate e del pubblico
+
+#### Art. 11
+
+**Informazione delle aziende**
+
+<sup>1</sup> Se la presenza di un organismo da quarantena è stata confermata da un laboratorio designato dal SFF, il servizio cantonale competente informa le aziende le cui merci potrebbero essere parimenti infestate dall’organismo.
+
+<sup>2</sup> Se l’infestazione riguarda più Cantoni, il SFF coordina l’informazione delle aziende attraverso i servizi cantonali competenti.
+
+<sup>3</sup> Se l’infestazione riguarda un’azienda omologata, l’informazione di cui al capoverso 1 è di competenza del SFF.
+
+#### Art. 12
+
+**Informazione del pubblico**
+
+Se la presenza di un organismo da quarantena prioritario è stata confermata da un laboratorio designato dal SFF, l’ufficio federale competente, d’intesa con il servizio cantonale competente, informa il pubblico riguardo alle misure già prese e ancora da prendere.
+
+### Sezione 4: Misure di eradicazione
+
+#### Art. 13
+
+**Eradicazione di organismi da quarantena**
+
+<sup>1</sup>
+
+Se è constatata la presenza di un organismo da quarantena, l’ufficio federale competente stabilisce quali misure di eradicazione sono adeguate. Tra queste misure rientrano, in particolare:
+
+- a. la messa in quarantena di colture e merci infestate;
+- b. la messa in quarantena di colture e merci infestate o per le quali si può presumere che siano infestate; se la verifica esclude l’infestazione esse vengono tolte dalla quarantena;
+- c. il sequestro delle merci infestate o per le quali si può presumere che siano infestate, nonché del materiale con cui sono entrate in contatto;
+- d. la valorizzazione delle merci infestate o per le quali si può presumere che siano infestate in modo da escludere la diffusione di organismi da quarantena;
+- e. il divieto di coltivazione o di piantagione di piante ospiti in una particella infestata da un organismo da quarantena o dal suo vettore finché non vi sarà più alcun rischio di infestazione;
+- f. il divieto di coltivazione o di piantagione di vegetali molto sensibili a un organismo da quarantena;
+- g. l’eliminazione di vegetali di cui alla lettera f nei dintorni di colture sensibili;
+- h. le misure contro i vettori volte a impedire la diffusione dell’organismo da quarantena in questione;
+- i. la distruzione delle merci infestate o per le quali si può presumere che siano infestate.
+
+<sup>2</sup> Il servizio cantonale competente prende senza indugio le misure stabilite dall’ufficio federale competente.
+
+<sup>3</sup>
+
+Esso indaga senza indugio, all’occorrenza congiuntamente al SFF, sull’origine della presenza dell’organismo da quarantena e, in particolare, verifica se:
+
+- a. tale presenza potrebbe essere correlata alla messa in commercio o allo spostamento di merci; e
+- b. è possibile che l’organismo da quarantena si sia diffuso ad altre merci.
+
+<sup>4</sup> Se l’infestazione riguarda un’azienda omologata, le misure di cui al capoverso 1 e le verifiche di cui al capoverso 3 sono di competenza del SFF.
+
+<sup>5</sup> Dopo aver sentito i servizi cantonali interessati, l’ufficio federale competente può emanare direttive per assicurare l’applicazione uniforme e adeguata delle misure di lotta contro gli organismi da quarantena.
+
+#### Art. 14
+
+**Definizione di un piano d’azione per organismi da quarantena prioritari**
+
+Se è constatata la presenza di un organismo da quarantena da trattare in via prioritaria, il servizio cantonale competente definisce un calendario per l’attuazione delle misure di eradicazione o di contenimento stabilite.
+
+#### Art. 15
+
+**Delimitazione di aree**
+
+<sup>1</sup> Il servizio cantonale competente, d’intesa con l’ufficio federale competente, delimita senza indugio l’area in cui vanno eseguite le misure di eradicazione di cui all’articolo 13. Tale area comprende il focolaio d’infestazione e una zona cuscinetto.
+
+<sup>2</sup> L’estensione della zona cuscinetto è stabilita sulla base del rischio di diffusione dell’organismo tramite vie di diffusione naturali o a causa delle attività umane.
+
+<sup>3</sup>
+
+Il servizio cantonale competente, d’intesa con l’ufficio federale competente, rinuncia a delimitare un’area se:
+
+- a. è stato possibile eliminare o ridurre sufficientemente il rischio di diffusione dell’organismo mediante ostacoli naturali o artificiali; e
+- b. da un rilevamento è emerso che l’organismo non si è insediato.
+
+<sup>4</sup> Se l’area delimitata confina con uno Stato limitrofo, l’ufficio federale competente lo informa al riguardo.
+
+### Sezione 5: Misure di contenimento
+
+#### Art. 16
+
+**Zone infestate**
+
+<sup>1</sup> Se in un’area un organismo da quarantena è talmente diffuso da non poter più essere eradicato, l’ufficio federale competente, dopo aver sentito i servizi competenti dei Cantoni interessati, può delimitare tale area come zona infestata.
+
+<sup>2</sup> Nelle zone infestate non vengono più ordinate misure di eradicazione di cui all’articolo 13 contro l’organismo da quarantena in questione.
+
+<sup>3</sup> In caso di rischio particolarmente elevato di diffusione dell’organismo da quarantena in questione al di fuori della zona infestata, l’ufficio federale competente può ordinare misure contro il pericolo di diffusione.
+
+<sup>4</sup> L’ufficio federale competente pubblica la delimitazione di una zona infestata nel Foglio ufficiale svizzero di commercio o in un altro modo adeguato.
+
+#### Art. 17
+
+**Oggetti protetti**
+
+<sup>1</sup> In una zona infestata, il servizio cantonale competente può delimitare come oggetti protetti popolamenti pregiati di piante ospiti dell’organismo da quarantena in questione, compresi i loro dintorni entro un determinato raggio.
+
+<sup>2</sup> Stabilisce il piano per gli oggetti protetti congiuntamente all’ufficio federale competente.
+
+<sup>3</sup>
+
+In relazione agli oggetti protetti sono attuate le seguenti misure:
+
+- a. misure di eradicazione adeguate secondo l’articolo 13;
+- b. sorveglianza della situazione fitosanitaria secondo l’articolo 18;
+- c. rilevamento della presenza dell’organismo da quarantena in questione secondo l’articolo 19.
+
+### Sezione 6: Sorveglianza del territorio e piani d’emergenza
+
+#### Art. 18
+
+**Sorveglianza della situazione fitosanitaria**
+
+<sup>1</sup>
+
+I servizi cantonali competenti attuano a cadenza annuale una sorveglianza della situazione fitosanitaria:
+
+- a. su tutto il territorio svizzero: relativamente alla presenza di organismi da quarantena da trattare in via prioritaria; e
+- b. nelle zone protette (art. 24): relativamente alla presenza di organismi nocivi particolarmente pericolosi diffusi in altre zone della Svizzera ma non ancora riscontrati nelle zone protette (organismi da quarantena rilevanti per le zone protette).
+
+<sup>2</sup> La sorveglianza della situazione fitosanitaria deve avvenire in funzione del rischio.
+
+<sup>3</sup> Il DEFR e il DATEC possono emanare disposizioni di sorveglianza specifiche.
+
+<sup>4</sup> Possono organizzare campagne di sorveglianza in collaborazione con i Cantoni al fine di verificare la situazione fitosanitaria relativa a determinati organismi da quarantena e organismi da quarantena potenziali.
+
+#### Art. 19
+
+**Rilevamento della presenza di organismi da quarantena in aree delimitate**
+
+<sup>1</sup> I servizi cantonali competenti effettuano, almeno a cadenza annuale e al momento opportuno, un rilevamento della presenza dell’organismo da quarantena in questione in ogni area delimitata ai sensi dell’articolo 15.
+
+<sup>2</sup>
+
+Se constatano che nella zona cuscinetto di un’area delimitata è presente l’organismo in questione:
+
+- a. ne danno notifica senza indugio all’ufficio federale competente; e
+- b. adeguano l’area delimitata.
+
+<sup>3</sup> Se constatano che per un periodo sufficientemente lungo l’organismo in questione non è più presente in un’area delimitata ai sensi dell’articolo 15, possono revocare l’area delimitata d’intesa con l’ufficio federale competente.
+
+<sup>4</sup> Il DEFR e il DATEC possono stabilire dettagli ed eccezioni concernenti il rilevamento.
+
+#### Art. 20
+
+**Piani d’emergenza**
+
+<sup>1</sup> L’ufficio federale competente provvede affinché siano disponibili piani d’emergenza per gli organismi da quarantena, in particolare per gli organismi da quarantena prioritari.
+
+<sup>2</sup> Allestisce i piani d’emergenza dopo aver sentito i servizi cantonali competenti.
+
+#### Art. 21
+
+**Esercitazioni di simulazione**
+
+<sup>1</sup> Con la collaborazione degli attori interessati, l’ufficio federale competente esegue esercitazioni per simulare l’attuazione dei piani d’emergenza.
+
+<sup>2</sup> Le esercitazioni di simulazione possono essere eseguite congiuntamente con Stati membri dell’UE.
+
+### Sezione 7: Misure in caso di peggioramento della situazione fitosanitaria all’estero
+
+#### Art. 22
+
+Se in seguito al peggioramento della situazione fitosanitaria in uno Stato a causa di un determinato organismo da quarantena aumenta il rischio fitosanitario per una parte della Svizzera o per tutta la Svizzera, l’ufficio federale competente può stabilire mediante ordinanza in particolare le seguenti misure:
+
+- a. vietare l’importazione e il transito di merci;
+- b. stabilire determinati requisiti per le merci e per il loro utilizzo ed esigere, all’atto della loro importazione, le pertinenti attestazioni dell’autorità competente del Paese esportatore o di un servizio accreditato;
+- c. ordinare misure di sorveglianza e di lotta supplementari contro gli organismi da quarantena tenendo conto dei principi di gestione dei rischi fitosanitari di cui all’allegato 2.
+
+### Sezione 8: Misure contro organismi da quarantena potenziali
+
+#### Art. 23
+
+Se è constatata la presenza di un organismo da quarantena potenziale, l’ufficio federale competente può, fino al definitivo accertamento dell’eventuale danno causato da tale organismo, stabilire mediante ordinanza le seguenti misure per tale organismo e per le merci che possono esserne portatrici:
+
+- a. divieto di utilizzo secondo l’articolo 6;
+- b. divieto di importazione e di transito delle merci;
+- c. autorizzazioni secondo gli articoli 7, 37 e 42;
+- d. obbligo di notifica secondo l’articolo 8;
+- e. misure di prevenzione secondo gli articoli 9 e 10;
+- f. misure d’informazione secondo l’articolo 11;
+- g. misure di eradicazione secondo l’articolo 13;
+- h. delimitazione di aree e zone infestate secondo gli articoli 15 e 16;
+- i. sorveglianza, rilevamenti e piani d’emergenza secondo gli articoli 18–20.
+
+### Sezione 9: Zone protette
+
+#### Art. 24
+
+**Delimitazione di zone protette**
+
+<sup>1</sup>
+
+Se in un’area non è stato ancora riscontrato un organismo nocivo particolarmente pericoloso diffuso in altre aree della Svizzera (organismo da quarantena rilevante per le zone protette), il DEFR e il DATEC, dopo aver sentito i Cantoni interessati, possono delimitare tale area come zona protetta relativamente a tale organismo, qualora questo:
+
+- a. non sia stato presente nell’area interessata almeno nei tre anni precedenti la delimitazione della zona protetta; e
+- b. adempia i criteri per l’area interessata di cui all’allegato 1 numero 1, eccetto quello concernente la presenza (n. 1.2).
+
+<sup>2</sup> Il DEFR e il DATEC designano le zone protette delimitate nonché gli organismi in questione in un’ordinanza.
+
+#### Art. 25
+
+**Delimitazione di aree all’interno di una zona protetta**
+
+Se in una zona protetta è constatata la presenza dell’organismo in questione, il servizio cantonale competente delimita senza indugio, tuttavia al più tardi entro tre mesi dalla constatazione della presenza, un’area ai sensi dell’articolo 15 e prende le misure di eradicazione di cui all’articolo 13.
+
+#### Art. 26
+
+**Adeguamento e revoca di zone protette**
+
+<sup>1</sup> Se è riscontrata una variazione per quanto concerne la diffusione dell’organismo in questione, il DEFR e il DATEC, dopo aver sentito il Cantone interessato, adeguano la zona protetta.
+
+<sup>2</sup>
+
+Dopo aver sentito il Cantone interessato, revocano una zona protetta se:
+
+- a. il servizio cantonale competente non sorveglia la situazione fitosanitaria nella zona protetta conformemente alle istruzioni dell’ufficio federale competente;
+- b.
+
+  è constatata la presenza dell’organismo nocivo in questione in tale zona e se dalla conferma di tale presenza da parte di un laboratorio designato dal SFF:
+
+  - 1\. entro tre mesi dalla constatazione dell’infestazione non è stata delimitata un’area ai sensi dell’articolo 15, o
+  - 2\. entro due anni dalla constatazione dell’infestazione l’organismo nocivo in questione non è stato eradicato.
+
+<sup>3</sup> Su richiesta, l’ufficio federale competente può prorogare la scadenza di cui al capoverso 2 lettera b numero 2 se le caratteristiche biologiche dell’organismo nocivo in questione lo richiedono.
+
+#### Art. 27
+
+**Divieto d’utilizzo dell’organismo in questione nelle zone protette**
+
+<sup>1</sup> Nelle zone protette l’utilizzo dell’organismo in questione, in qualsiasi forma e stadio di sviluppo, è vietato al di fuori di sistemi chiusi.
+
+<sup>2</sup> Su richiesta, l’ufficio federale competente può autorizzare eccezioni ai sensi dell’articolo 7, se la diffusione dell’organismo in questione può essere esclusa.
+
+#### Art. 28
+
+**Obblighi nelle zone protette**
+
+Nelle zone protette gli obblighi di cui agli articoli 8–11 si applicano anche per quanto concerne gli organismi in questione.
+
+## Capitolo 5:**** Misure contro organismi regolamentati non da quarantena
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 29
+
+**Utilizzo commerciale di vegetali destinati alla piantagione**
+
+<sup>1</sup> I vegetali specifici destinati alla piantagione non possono essere importati a scopo commerciale o messi in commercio se sono infestati da organismi regolamentati non da quarantena.
+
+<sup>2</sup> Il DEFR e il DATEC stabiliscono i vegetali specifici destinati alla piantagione secondo il capoverso 1 e gli organismi regolamentati non da quarantena.
+
+<sup>3</sup> Per singoli organismi regolamentati non da quarantena il DEFR e il DATEC possono stabilire un valore soglia. I vegetali specifici destinati alla piantagione che presentano un’infestazione inferiore al valore soglia possono essere importati e messi in commercio.
+
+<sup>4</sup>
+
+I vegetali specifici destinati alla piantagione infestati da un organismo regolamentato non da quarantena possono essere utilizzati per i seguenti scopi:
+
+- a. ricerca;
+- b. scelta varietale e programmi di selezione;
+- c. esposizioni;
+- d. formazione.
+
+<sup>5</sup> Il DEFR e il DATEC possono stabilire misure per evitare la presenza di organismi regolamentati non da quarantena sui vegetali in questione.
+
+#### Art. 29a
+
+**Misure contro organismi regolamentati non da quarantena che minacciano la foresta**
+
+<sup>1</sup>
+
+Se vi è un pericolo considerevole che la foresta non possa più svolgere le sue funzioni secondo l’articolo 1 capoverso 1 lettera c della legge forestale del 4 ottobre 1991 a causa di un organismo regolamentato non da quarantena che il DEFR e il DATEC hanno stabilito secondo l’articolo 29 capoverso 2 relativamente al materiale di moltiplicazione forestale, per lottare contro tale organismo regolamentato non da quarantena il servizio cantonale competente può prendere o ordinare in particolare le seguenti misure:
+
+- a. rimozione e distruzione adeguata delle merci infestate;
+- b. interventi che contribuiscono a conservare o a ripristinare la continuità e la qualità del popolamento;
+- c. misure di sensibilizzazione.
+- [tab] <sup>2</sup> Le misure non possono pregiudicare l’importazione e la messa in commercio di merci.
+
+#### Art. 29b
+
+**Misure contro organismi regolamentati non da quarantena che mettono in pericolo l’agricoltura e l’ortoflorovivaismo esercitato a titolo professionale**
+
+<sup>1</sup> Se vi è il pericolo che un organismo regolamentato non da quarantena arrechi danni considerevoli all’agricoltura o all’ortoflorovivaismo esercitato a titolo professionale, il DEFR e il DATEC possono autorizzare i Cantoni a prendere o ordinare misure per lottare contro tale l’organismo regolamentato non da quarantena.
+
+<sup>2</sup> Il DEFR e il DATEC stabiliscono quali misure il servizio cantonale competente può prendere o ordinare contro quali organismi regolamentati non da quarantena.
+
+## Capitolo 6: Importazione, transito, esportazione, spostamento e messa in commercio di merci
+
+### Sezione 1: Importazione di merci da Stati terzi
+
+#### Art. 30
+
+**Merci di cui è vietata l’importazione**
+
+Il DEFR e il DATEC stabiliscono le merci di cui è vietata l’importazione da Stati terzi.
+
+#### Art. 31
+
+**Divieto di importazione preventivo**
+
+<sup>1</sup> L’ufficio federale competente può vietare a titolo preventivo l’importazione di merci da determinati Stati terzi, la cui importazione non è vietata ai sensi dell’articolo 30 e che comportano un rischio fitosanitario elevato, finché sarà stato verificato il rischio.
+
+<sup>2</sup> Per stabilire se una merce comporta un rischio fitosanitario elevato tiene conto dei criteri di cui all’allegato 3.
+
+#### Art. 32
+
+**Eccezioni al divieto di importazione**
+
+L’ufficio federale competente può esentare temporaneamente una merce dal divieto di importazione se è esclusa la diffusione di organismi nocivi particolarmente pericolosi e se:
+
+- a. vi sono serie difficoltà nell’approvvigionamento della merce; o
+- b. la merce è stata temporaneamente esentata dal divieto di importazione nell’UE.
+
+#### Art. 33
+
+**Merci la cui importazione è consentita a determinate condizioni**
+
+<sup>1</sup> Il DEFR e il DATEC stabiliscono le merci la cui importazione da Stati terzi è consentita a condizione che siano scortate da un certificato fitosanitario di importazione (art. 65–70).
+
+<sup>2</sup> Il DEFR e il DATEC stabiliscono le condizioni specifiche delle merci.
+
+<sup>3</sup>
+
+Se le merci sono state suddivise in partite, immagazzinate o dotate di un nuovo imballaggio in uno Stato terzo, devono essere scortate da:
+
+- a. un certificato fitosanitario di riesportazione (art. 66 cpv. 2); e
+- b. un certificato fitosanitario del Paese di origine o una sua copia certificata conforme.
+
+<sup>4</sup>
+
+Il certificato fitosanitario non è necessario per:
+
+- a.[^33-1] l’importazione di merci per le quali è prescritto un marchio secondo l’articolo 35 o un’attestazione secondo l’articolo 75*a*;
+- b. il transito di merci.
+
+<sup>5</sup>
+
+Il DEFR e il DATEC possono stabilire che il certificato fitosanitario non è necessario per piccole quantità di determinate merci:
+
+- a. importate nel bagaglio personale dei viaggiatori; e
+- b. non utilizzate per scopi professionali o commerciali.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 34
+
+**Misure equivalenti**
+
+Se le misure di uno Stato terzo comportano lo stesso livello di protezione fitosanitaria dell’adempimento delle condizioni stabilite nell’articolo 33 capoverso 2, l’ufficio federale competente può convenire con questo Stato terzo che le sue misure sono da considerarsi equivalenti se lo Stato terzo, nell’ambito della sua attività di controllo, garantisce che le condizioni equivalenti sono adempiute.
+
+#### Art. 35
+
+**Materiale da imballaggio in legno la cui importazione è consentita a determinate condizioni**
+
+<sup>1</sup>
+
+A prescindere dal fatto che sia effettivamente impiegato per il trasporto di oggetti, il materiale da imballaggio in legno proveniente da Stati terzi può essere importato soltanto se:
+
+- a. è stato sottoposto almeno a uno dei trattamenti indicati nell’allegato 1 della norma internazionale del 29 giugno 2018[^35-1] per le misure fitosanitarie numero 15 (ISPM15) dell’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) e adempie le esigenze ivi stabilite; e
+- b. su di esso è apposto il marchio di cui all’allegato 2 dell’ISPM15.
+
+<sup>2</sup> Il capoverso 1 non si applica al materiale da imballaggio in legno per cui vigono le eccezioni previste dall’ISPM15.
+
+<sup>3</sup> Per l’importazione di materiale da imballaggio in legno da Stati terzi che non hanno attuato l’ISPM15, il SFF può riconoscere uno specifico certificato fitosanitario invece del marchio ai sensi del capoverso 1 lettera b.
+
+[^35-1]: L’ISPM15 «Réglementation des matériaux d’emballage en bois utilisés dans le commerce international» può essere consultata gratuitamente sul sito Internet: [www.ippc.int](http://www.ippc.int) &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards (ISPMs).
+
+#### Art. 36
+
+**Misure di prevenzione**
+
+<sup>1</sup>
+
+Per l’importazione di merci da Stati terzi l’ufficio federale competente può stabilire misure di prevenzione se:
+
+- a. tali merci comportano verosimilmente nuovi rischi fitosanitari che non sono coperti in modo sufficiente dalle misure vigenti;
+- b. per il commercio di tali merci vi sono insufficienti esperienze rilevanti dal profilo sanitario; o
+- c. non è ancora stata effettuata una valutazione dei nuovi rischi fitosanitari che tali merci comportano.
+
+<sup>2</sup>
+
+Le misure di prevenzione di cui al capoverso 1 possono prevedere in particolare:
+
+- a. la conservazione delle merci in questione in una stazione di quarantena o in una struttura di confinamento (art. 53) prima dell’esportazione dal Paese di origine;
+- b. controlli sistematici e campionatura intensiva prima o durante l’importazione delle merci in questione nonché analisi dei campioni;
+- c. il divieto di importazione.
+
+<sup>3</sup> Per stabilire se una merce comporta verosimilmente un nuovo rischio fitosanitario l’ufficio federale competente tiene conto dei criteri di cui all’allegato 4.
+
+#### Art. 37
+
+**Autorizzazione eccezionale**
+
+<sup>1</sup>
+
+Se può essere esclusa la diffusione di organismi da quarantena, il SFF può, su richiesta, autorizzare l’importazione di merci secondo gli articoli 30 e 31 e di merci che non adempiono le condizioni di cui all’articolo 33, per i seguenti scopi:[^37-1]
+
+- a. ricerca;
+- b. diagnosi;
+- c. scelta varietale e programmi di selezione;
+- d.[^37-2] conservazione di risorse fitogenetiche per l’agricoltura e l’alimentazione direttamente minacciate;
+- e. formazione.
+
+<sup>2</sup>
+
+L’autorizzazione disciplina in particolare:
+
+- a. la quantità di merci che può essere importata;
+- b. la durata dell’autorizzazione;
+- c. il luogo e le condizioni in cui le merci vanno conservate;
+- d. la stazione di quarantena o la struttura di confinamento (art. 53) in cui le merci vanno conservate;
+- e. le competenze scientifiche e tecniche di cui deve disporre il personale addetto;
+- f. l’obbligo di allegare l’autorizzazione alle merci in caso di importazione e spostamento;
+- g.[^37-3] le condizioni per ridurre al minimo il rischio di insediamento e diffusione di organismi da quarantena.
+
+[^37-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^37-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^37-3]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 38
+
+**Informazione dei viaggiatori e dei clienti dei servizi postali e del commercio via Internet**
+
+<sup>1</sup>
+
+Il SFF mette a disposizione di aeroporti internazionali, imprese di trasporto che operano a livello internazionale, servizi postali e imprese che offrono le loro merci tramite mezzi di comunicazione a distanza, materiale che per quanto concerne merci provenienti da Stati terzi contiene informazioni:
+
+- a. sul divieto di importazione ai sensi degli articoli 30 e 31;
+- b. sulle condizioni specifiche della merce per l’importazione ai sensi dell’articolo 33 capoverso 2;
+- c. sulle eccezioni per l’importazione di piccole quantità di merci da parte di viaggiatori (art. 33 cpv. 5);
+- d. sulle misure di prevenzione ai sensi dell’articolo 36.
+
+<sup>2</sup> Gli aeroporti internazionali, le imprese di trasporto che operano a livello internazionale, i servizi postali e le imprese che offrono le loro merci tramite mezzi di comunicazione a distanza devono mettere a disposizione le informazioni, in particolare in sedi adeguate e sui propri siti Internet.
+
+<sup>3</sup> Il DEFR e il DATEC possono stabilire le modalità di presentazione e di utilizzo di manifesti e opuscoli.
+
+### Sezione 2: Importazione di merci dall’UE
+
+#### Art. 38a
+
+**Merci per la cui importazione si applicano condizioni specifiche delle merci**[^38a-1]
+
+Il DEFR e il DATEC stabiliscono quali merci possono essere importate dall’UE soltanto se adempiono condizioni specifiche delle merci e quali sono queste condizioni.
+
+[^38a-1]: Introdotto dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 39
+
+**Merci per la cui importazione è necessario un passaporto fitosanitario[^39-1]**
+
+<sup>1</sup> I vegetali destinati alla piantagione provenienti dall’UE, eccetto le sementi, possono essere importati soltanto con un passaporto fitosanitario.
+
+<sup>2</sup> Il DEFR e il DATEC stabiliscono quali sementi e ulteriori merci possono essere importate soltanto con un passaporto fitosanitario.
+
+<sup>3</sup>
+
+Non è necessario un passaporto fitosanitario per l’importazione di merci dall’UE:
+
+- a. importate nel bagaglio personale dei viaggiatori;
+- b. non utilizzate per scopi professionali o commerciali.
+
+[^39-1]: Introdotta dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 39a
+
+**Autorizzazione eccezionale**[^39a-1]
+
+<sup>1</sup> Se può essere esclusa la diffusione di organismi da quarantena, il SFF può, su richiesta, autorizzare l’importazione di merci che non adempiono le condizioni secondo l’articolo 38*a* per gli scopi di cui all’articolo 37 capoverso 1.
+
+<sup>2</sup>
+
+L’autorizzazione disciplina in particolare:
+
+- a. la quantità di merci che può essere importata;
+- b. la durata dell’autorizzazione;
+- c. il luogo e le condizioni in cui le merci vanno conservate;
+- d. l’obbligo di allegare l’autorizzazione alle merci in caso di importazione e spostamento:
+- e. le condizioni per ridurre al minimo il rischio di un insediamento e di diffusione di organismi da quarantena.
+
+[^39a-1]: Introdotto dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+### Sezione 3: Spostamento di merci in zone protette
+
+#### Art. 40
+
+**Principio**
+
+<sup>1</sup>
+
+Il DEFR e il DATEC stabiliscono, per ogni zona protetta:
+
+- a. le merci che non possono essere spostate nella zona protetta e che non possono essere messe in commercio nella zona protetta;
+- a<sup>bis</sup>.[^40-1] le merci che possono essere spostate nella zona protetta o messe in commercio nella zona protetta soltanto se adempiono condizioni specifiche delle merci e le condizioni da adempiere;
+- b. le merci che possono essere spostate nella zona protetta o messe in commercio nella zona protetta soltanto se scortate da un passaporto fitosanitario per le zone protette e le condizioni che devono adempiere affinché per tali merci possa essere rilasciato un simile passaporto fitosanitario.
+
+<sup>2</sup> Possono prevedere che una merce non debba essere scortata da un passaporto fitosanitario per le zone protette se essa è ceduta a consumatori finali non professionisti nella zona protetta.
+
+[^40-1]: Introdotta dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 41
+
+**Divieto di spostare merci da un’area delimitata di una zona protetta**
+
+<sup>1</sup> Le merci secondo l’articolo 40 capoverso 1 originarie di un’area delimitata ai sensi dell’articolo 25 che si trova all’interno di una zona protetta non possono essere spostate al di fuori dell’area delimitata.[^41-1]
+
+<sup>2</sup> È escluso dal divieto di cui al capoverso 1 lo spostamento di una merce dalla zona protetta se la merce è scortata da un passaporto fitosanitario ai sensi dell’articolo 75 capoverso 2 lettera a e se è imballata e trasportata in modo da escludere qualsiasi rischio di diffusione dell’organismo in questione durante il trasporto attraverso la zona protetta.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 42
+
+**Autorizzazione eccezionale**
+
+<sup>1</sup> Se può essere esclusa la diffusione di organismi da quarantena, il SFF può, su richiesta, autorizzare lo spostamento di una merce ai sensi dell’articolo 40 capoverso 1 lettera a in una zona protetta per gli scopi di cui all’articolo 37 capoverso 1.[^42-1]
+
+<sup>2</sup>
+
+L’autorizzazione disciplina in particolare:
+
+- a. la quantità di merci che può essere spostata nella zona protetta;
+- b. la durata dell’autorizzazione;
+- c. il luogo e le condizioni in cui le merci vanno conservate;
+- d. la stazione di quarantena o la struttura di confinamento (art. 53) in cui le merci vanno conservate;
+- e. le competenze scientifiche e tecniche di cui deve disporre il personale addetto;
+- f. l’obbligo di allegare l’autorizzazione alla merce in caso di importazione e spostamento;
+- g.[^42-2] le condizioni per ridurre al minimo il rischio di insediamento e diffusione di organismi da quarantena.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^42-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 42a
+
+**Informazione dei viaggiatori e dei clienti dei servizi postali e del commercio via Internet**[^42a-1]
+
+<sup>1</sup> Il SFF mette a disposizione di aeroporti internazionali, imprese di trasporto che operano a livello internazionale, servizi postali e imprese che offrono le loro merci tramite mezzi di comunicazione a distanza, materiale che contiene informazioni sulle merci che non possono o che possono soltanto a determinate condizioni essere spostate in una zona protetta o messe in commercio in una zona protetta.
+
+<sup>2</sup> In aggiunta si applica l’articolo 38 capoversi 2 e 3.
+
+[^42a-1]: Introdotto dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+### Sezione 4: Controllo all’importazione
+
+#### Art. 43
+
+**Principio**
+
+<sup>1</sup> Le merci che devono essere scortate da un certificato fitosanitario sono sottoposte a un controllo fitosanitario da parte del SFF prima dell’importazione.
+
+<sup>2</sup> A tal fine le persone soggette all’obbligo di dichiarazione secondo l’articolo 26 della legge del 18 marzo 2005[^43-1] sulle dogane prima di dichiarare le merci per l’imposizione doganale le notificano al SFF.
+
+<sup>3</sup> Le merci possono essere dichiarate per l’imposizione doganale e importate soltanto dopo che il SFF ha dato il via libera all’importazione.
+
+<sup>4</sup> La Posta e gli altri servizi di corrieri sono esclusi dall’obbligo di notifica di cui al capoverso 2. Prima di dichiarare le merci per l’imposizione doganale essi le consegnano al SFF presso un servizio preposto al controllo della salute dei vegetali abilitato.
+
+[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 44
+
+**Notifica delle merci al SFF**
+
+La notifica al SFF avviene in forma elettronica compilando la parte I del documento sanitario comune di entrata (DSCE) ai sensi dell’articolo 56 del regolamento (UE) 2017/625[^44-1].
+
+[^44-1]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, GU L 95 del 7.4.2017, pag. 1.
+
+#### Art. 45
+
+**Dichiarazione delle merci per l’imposizione doganale**
+
+Nella dichiarazione doganale vanno indicati il numero del DSCE rilasciato e l’importo degli emolumenti stabiliti dal SFF per il controllo fitosanitario.
+
+#### Art. 46
+
+**Deroga all’obbligo di notifica e di controllo**
+
+<sup>1</sup> Non sono necessari un controllo e un via libera da parte del SFF per le merci che nel punto di entrata nel territorio dell’UE sono state controllate e liberate dall’organizzazione nazionale della protezione dei vegetali o sotto la sua vigilanza e che sono scortate da una prova dell’avvenuto controllo.
+
+<sup>2</sup>
+
+Per prova dell’avvenuto controllo s’intende:
+
+- a. un documento fitosanitario di circolazione, debitamente compilato, secondo l’articolo 1 paragrafo 3 lettera c della direttiva 2004/103/CE[^46-1];
+- b. un DSCE.
+
+[^46-1]: Direttiva 2004/103/CE della Commissione, del 7 ottobre 2004, concernente i controlli di identità e fitosanitari su vegetali, prodotti vegetali e altre voci elencati nell’allegato V, parte B, della direttiva 2000/29/CE del Consiglio, che possono essere svolti in un luogo diverso dal punto di entrata nella Comunità o in un luogo vicino e che specifica le condizioni relative a tali controlli, GU L 313 del 12.10.2004, pag. 16.
+
+#### Art. 47
+
+**Notifica delle merci provenienti da Stati terzi importate per via aerea**
+
+<sup>1</sup> Le merci provenienti da Stati terzi importate in Svizzera per via aerea sono notificate al SFF ai punti di entrata dell’aeroporto di Zurigo o dell’aeroporto di Ginevra. L’UFAG stabilisce gli orari nei quali le merci vengono controllate.
+
+<sup>2</sup> D’intesa con l’Amministrazione federale delle dogane, il SFF può eseguire i controlli in un altro luogo idoneo.
+
+#### Art. 48
+
+**Controllo fitosanitario e via libera per le merci provenienti dall’UE**
+
+Se la situazione fitosanitaria nel Paese di origine lo esige, l’ufficio federale competente stabilisce che per l’importazione di merci dall’UE sono necessari un controllo fitosanitario e il via libera da parte del SFF.
+
+#### Art. 49
+
+**Esecuzione del controllo**
+
+<sup>1</sup>
+
+Il SFF esegue i seguenti controlli:
+
+- a. controllo dei documenti;
+- b. controllo dell’identità;
+- c. controllo visivo.
+
+<sup>2</sup> Durante il controllo, lo scarico e il ricarico delle merci, l’apertura e la richiusura dei colli nonché le altre operazioni necessarie per le analisi spettano alla persona responsabile delle merci.
+
+<sup>3</sup> Nel caso di merci per le quali non sono necessari un controllo e un via libera, il SFF può controllare per campionatura se le merci adempiono le condizioni per l’importazione.
+
+<sup>4</sup> Il controllo può essere esteso all’imballaggio della merce e al mezzo di trasporto utilizzato.
+
+<sup>5</sup>
+
+Se le condizioni per l’importazione sono adempiute, il SFF lo attesta:
+
+- a. completando la parte II del DSCE; o
+- b. apponendo un «visto» sul certificato fitosanitario.
+
+<sup>6</sup> Il DEFR e il DATEC stabiliscono le modalità della notifica e del controllo.
+
+<sup>7</sup> L’ufficio federale competente può prevedere per determinati invii di tralasciare completamente o in parte i controlli, se in base all’esperienza acquisita con importazioni precedenti di merci della stessa origine, si può presumere che non siano infestati da organismi nocivi particolarmente pericolosi. A tal fine possono essere considerate anche le esperienze acquisite dall’UE nelle importazioni da Stati terzi.[^49-1]
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 50
+
+**Prelievo e analisi di campioni**
+
+<sup>1</sup> Il SFF può prelevare campioni per analizzare se sono presenti organismi nocivi particolarmente pericolosi. Può analizzare direttamente i campioni o farli analizzare.
+
+<sup>2</sup> Se l’analisi si protrae più a lungo e si teme una diffusione di organismi nocivi particolarmente pericolosi, la persona responsabile della merce la immagazzina in un luogo adeguato finché sarà noto l’esito dell’analisi. Le spese per il trasporto e l’immagazzinamento sono fatturate.
+
+#### Art. 51
+
+**Misure in caso di inosservanza delle condizioni o di sospettata infestazione**
+
+<sup>1</sup>
+
+Se le condizioni per l’importazione di una merce non sono adempiute o se vi è il sospetto che la merce sia infestata da un organismo nocivo particolarmente pericoloso, il SFF può respingere la merce od ordinare segnatamente le seguenti misure:
+
+- a. rimozione della merce dall’invio;
+- b. distruzione della merce;
+- c. messa in quarantena della merce;
+- d. disinfezione della merce.
+
+<sup>2</sup> Se respinge la merce od ordina una misura di cui al capoverso 1 lettera a o b, il SFF invalida il certificato fitosanitario.
+
+#### Art. 52
+
+**Liberazione di merci da stazioni di quarantena e da strutture di confinamento**
+
+<sup>1</sup>
+
+Il SFF libera le merci immagazzinate in una stazione di quarantena o in una struttura di confinamento se constata che sono indenni da:
+
+- a. organismi da quarantena e organismi da quarantena potenziali; o
+- b. eventuali organismi nocivi per i quali sono state delimitate zone protette.
+
+<sup>2</sup> Può autorizzare il trasporto di merci infestate da un organismo da quarantena o da un organismo da quarantena potenziale da una stazione di quarantena o da una struttura di confinamento a un’altra siffatta stazione o struttura.
+
+<sup>3</sup> Il DEFR e il DATEC possono stabilire ulteriori prescrizioni per la liberazione di merci da stazioni di quarantena e strutture di confinamento.
+
+#### Art. 53
+
+**Stazioni di quarantena e strutture di confinamento**
+
+<sup>1</sup> Il DEFR e il DATEC stabiliscono le esigenze relative alle stazioni di quarantena e alle strutture di confinamento, nonché alla loro gestione e vigilanza.
+
+<sup>2</sup> Le stazioni di quarantena e le strutture di confinamento devono essere riconosciute dal SFF.
+
+<sup>3</sup> Il SFF può riconoscere temporaneamente anche un’area aziendale come struttura di confinamento.
+
+#### Art. 54
+
+**Merci senza proprietario**
+
+Il SFF ritira le merci senza proprietario e le valorizza o le distrugge.
+
+### Sezione 5: Controllo del transito
+
+#### Art. 55
+
+**Controllo nel transito di merci provenienti da Stati terzi con luogo di destinazione nell’UE**
+
+<sup>1</sup> Le merci che giungono in Svizzera per via aerea da uno Stato terzo e successivamente sono trasportate non per via aerea fino al luogo di destinazione nell’UE, prima del transito, sono sottoposte a un controllo fitosanitario da parte del SFF, purché la Svizzera non abbia convenuto altrimenti con il Paese di destinazione.
+
+<sup>2</sup> A tal fine l’azienda di servizi che garantisce le relazioni tra le compagnie aeree e le imprese di spedizione notifica le merci al SFF. Essa trasmette al SFF i documenti necessari per il controllo, in particolare manifesti di carico degli aeromobili, lettere di vettura aerea e documenti di accompagnamento fitosanitari in formato cartaceo o elettronico.
+
+<sup>3</sup> Le merci possono essere fatte transitare soltanto dopo che il SFF ha dato il via libera.
+
+<sup>4</sup> Il SFF può imporre oneri volti a escludere la diffusione di organismi nocivi particolarmente pericolosi se nel transito di merci non è possibile escludere la propagazione di siffatti organismi.
+
+<sup>5</sup> Il SFF vieta il transito se non è possibile escludere la diffusione di organismi nocivi particolarmente pericolosi.
+
+#### Art. 56
+
+**Controllo nel transito di merci provenienti da Stati terzi con luogo di destinazione in Stati terzi**
+
+<sup>1</sup>
+
+Le merci che giungono in Svizzera per via aerea da uno Stato terzo e successivamente sono trasportate non per via aerea fino al luogo di destinazione in uno Stato terzo possono essere trasbordate in Svizzera senza controllo fitosanitario e trasportate ulteriormente se:
+
+- a. sono scortate da una dichiarazione firmata dall’azienda che ne è responsabile che indica che le merci sono in transito; e
+- b. sono imballate e trasportate in modo da escludere qualsiasi rischio di diffusione di organismi nocivi particolarmente pericolosi durante il transito.
+
+<sup>2</sup> Il SFF vieta il transito di merci che non adempiono le condizioni di cui al capoverso 1 o se vi sono motivi validi per ritenere che non adempiranno le condizioni di cui al capoverso 1.
+
+### Sezione 6: Esportazione e riesportazione di merci in Stati terzi
+
+#### Art. 57
+
+**Esportazione di merci in Stati terzi**
+
+<sup>1</sup> Su richiesta, il SFF rilascia un certificato fitosanitario di esportazione per le merci esportate in uno Stato terzo, il quale, per l’importazione esige un certificato fitosanitario.
+
+<sup>2</sup>
+
+Il richiedente:
+
+- a. informa il SFF in merito alle esigenze fitosanitarie nel Paese di destinazione; e
+- b. per la merce che non è di sua produzione, fornisce al SFF prove che consentano di stabilirne la provenienza.
+
+<sup>3</sup> Il SFF rilascia il certificato fitosanitario di esportazione se la merce adempie le esigenze fitosanitarie nel Paese di destinazione.
+
+<sup>4</sup> Può eseguire ispezioni nel luogo di produzione e negli immediati dintorni o prelevare campioni e analizzare la merce in questione.
+
+#### Art. 58
+
+**Riesportazione di merci in Stati terzi**
+
+<sup>1</sup> Su richiesta, il SFF rilascia un certificato fitosanitario di riesportazione per le merci provenienti da uno Stato terzo, che in Svizzera sono state immagazzinate, suddivise in partite o dotate di un nuovo imballaggio e che sono destinate a essere nuovamente esportate in uno Stato terzo, il quale, per l’importazione esige un certificato fitosanitario.
+
+<sup>2</sup>
+
+Il richiedente:
+
+- a. informa il SFF in merito alle esigenze fitosanitarie nel Paese di destinazione;
+- b. produce il certificato fitosanitario del Paese di origine o una sua copia certificata conforme; e
+- c.
+
+  dimostra che:
+
+  - 1\. dopo la sua importazione in Svizzera, la merce non è stata coltivata, moltiplicata o trasformata allo scopo di modificarne le caratteristiche,
+  - 2\. durante l’immagazzinamento in Svizzera, la merce non è stata esposta al rischio di infestazione o contaminazione da un organismo che nel Paese di destinazione è considerato un organismo da quarantena o un organismo regolamentato non da quarantena, e
+  - 3\. l’identità della merce interessata è stata mantenuta.
+
+<sup>3</sup> Il SFF rilascia il certificato fitosanitario di riesportazione se la merce adempie le esigenze fitosanitarie nel Paese di destinazione.
+
+#### Art. 59
+
+**Esportazione di merci attraverso uno Stato membro dell’UE in uno Stato terzo**
+
+<sup>1</sup> Su richiesta, il SFF rilascia un certificato fitosanitario di pre-esportazione per le merci coltivate, prodotte, immagazzinate o trasformate in Svizzera che sono destinate a essere esportate attraverso uno Stato membro dell’UE in uno Stato terzo, il quale per l’importazione esige un certificato fitosanitario.
+
+<sup>2</sup>
+
+In tal modo il SFF può in particolare certificare:
+
+- a. che la merce è indenne da determinati organismi nocivi o che l’infestazione da organismi nocivi è inferiore a una determinata soglia;
+- b. l’origine della merce: il campo, l’unità di produzione, il luogo di produzione o il territorio;
+- c. lo stato fitosanitario del campo, dell’unità di produzione, del luogo di produzione, del territorio di origine o del Paese di origine della merce;
+- d. i risultati delle ispezioni, della campionatura e delle analisi effettuate sulla merce;
+- e. i provvedimenti per la protezione della salute dei vegetali applicati nella produzione e nella trasformazione della merce.
+
+<sup>3</sup> Il SFF può ispezionare il luogo di produzione e gli immediati dintorni o prelevare campioni e analizzare la merce.
+
+<sup>4</sup> Il certificato di pre-esportazione deve scortare la merce durante il trasporto, a meno che venga trasmesso allo Stato membro dell’UE interessato per via elettronica.
+
+<sup>5</sup> Il DEFR e il DATEC possono stabilire la procedura per il rilascio del certificato di pre-esportazione.
+
+### Sezione 7: Messa in commercio di merci
+
+#### Art. 59a
+
+**Merci per la cui messa in commercio si applicano condizioni specifiche delle merci**[^59a-1]
+
+Il DEFR e il DATEC stabiliscono le merci che possono essere messe in commercio soltanto se adempiono condizioni specifiche delle merci e le condizioni adempiere*.*
+
+[^59a-1]: Introdotto dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 60
+
+**Merci che necessitano di un passaporto fitosanitario per la messa in commercio**
+
+<sup>1</sup> I vegetali destinati alla piantagione, eccetto le sementi, possono essere messi in commercio soltanto con un passaporto fitosanitario.
+
+<sup>2</sup> Il DEFR e il DATEC stabiliscono per quali sementi e altre merci è necessario un passaporto fitosanitario.
+
+<sup>3</sup>
+
+Il passaporto fitosanitario non è necessario:
+
+- a. per la messa in commercio di materiale da imballaggio in legno per il quale è prescritto un marchio secondo l’articolo 35 capoverso 1 lettera b;
+- b. per la messa in commercio di merci destinate direttamente a consumatori finali che utilizzano le merci per scopi non professionali o commerciali; un passaporto fitosanitario è invece necessario se le merci sono state ordinate tramite mezzi di comunicazione a distanza.[^60-1]
+
+[^60-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 61
+
+**Passaporto fitosanitario per merci provenienti da Stati terzi**[^61-1]
+
+Il SFF rilascia il passaporto fitosanitario per la messa in commercio di merci con obbligo di passaporto fitosanitario importate da uno Stato terzo o che essendo in transito vanno controllate secondo l’articolo 55 se ha constatato che le condizioni per il passaporto fitosanitario sono adempiute.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 62
+
+**Autorizzazione eccezionale**[^62-1]
+
+<sup>1</sup> Se può essere esclusa la diffusione di organismi da quarantena il SFF può, su richiesta, autorizzare la messa in commercio di merci che non adempiono le condizioni secondo l’articolo 59*a* per gli scopi secondo l’articolo 37 capoverso 1.
+
+<sup>2</sup>
+
+L’autorizzazione disciplina in particolare:
+
+- a. la quantità di merci che può essere messa in commercio;
+- b. la durata dell’autorizzazione;
+- c. il luogo e le condizioni in cui le merci vanno conservate;
+- d. l’obbligo di allegare l’autorizzazione alla merce in caso di messa in commercio e di spostamento;
+- e. le condizioni per ridurre al minimo il rischio di insediamento e di diffusione di organismi da quarantena.
+
+[^62-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 63
+
+**Acquisto di merci**
+
+Le persone che acquistano merci con obbligo del passaporto fitosanitario per l’utilizzo professionale devono verificare, prima dell’acquisto, se le merci sono scortate da un passaporto fitosanitario conforme alle prescrizioni.
+
+### Sezione 8: Aziende con obbligo di notifica
+
+#### Art. 64
+
+<sup>1</sup> Devono notificarsi presso il SFF le aziende che importano, mettono in commercio o esportano merci per le quali è necessario un certificato fitosanitario o un passaporto fitosanitario.[^64-1]
+
+<sup>2</sup> Devono notificarsi anche le imprese di trasporto che operano a livello internazionale, i servizi postali e le imprese che offrono le loro merci tramite mezzi di comunicazione a distanza.
+
+<sup>3</sup>
+
+Sono esentate dall’obbligo di notifica le aziende:
+
+- a. che cedono esclusivamente sementi, ad eccezione di quelle che rientrano nell’ambito di applicazione dell’articolo 33, in piccole quantità direttamente a consumatori finali che non sono attivi professionalmente nella produzione di vegetali;
+- b. che cedono esclusivamente merci in piccole quantità direttamente e non tramite mezzi di comunicazione a distanza a consumatori finali che non utilizzano le merci per scopi professionali o commerciali; oppure
+- c. con obbligo di omologazione.[^64-2]
+
+<sup>4</sup>
+
+Se la produzione di vegetali o un’altra attività con materiale vegetale comporta un rischio fitosanitario, l’ufficio federale competente può prevedere l’obbligo di notifica per:
+
+- a. le aziende ai sensi del capoverso 3 lettera a;
+- b. le aziende che trasportano merci;
+- c. le aziende che trasportano oggetti di qualsiasi tipo utilizzando materiale da imballaggio in legno.
+
+<sup>5</sup> Il SFF tiene un elenco delle aziende notificate.
+
+<sup>6</sup> Un’azienda con obbligo di notifica deve comunicare al SFF tutte le modifiche rispetto alle informazioni fornite all’atto della notifica entro 30 giorni dalla modifica.
+
+[^64-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^64-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+## Capitolo 7: Certificato fitosanitario e passaporto fitosanitario
+
+### Sezione 1: Certificato fitosanitario di importazione
+
+#### Art. 65
+
+**Principio**
+
+Il certificato fitosanitario di importazione attesta che la merce importata:
+
+- a. è indenne da organismi da quarantena e organismi da quarantena potenziali;
+- b. adempie le disposizioni concernenti la presenza di organismi nocivi particolarmente pericolosi sui vegetali destinati alla piantagione (art. 29);
+- c. adempie le condizioni di cui all’articolo 33 capoverso 2, 34 o 40 capoverso 1; e
+- d. è stata assoggettata, se necessario, alle misure disposte dall’Ufficio federale competente in virtù degli articoli 22, 23 e 36 capoverso 1.
+
+#### Art. 66
+
+**Modelli di certificati fitosanitari di importazione e di riesportazione**
+
+<sup>1</sup> Il certificato fitosanitario di importazione deve essere conforme al modello di cui all’allegato 5 numero 1.
+
+<sup>2</sup> Se una merce è importata in Svizzera con un certificato fitosanitario di riesportazione, il certificato fitosanitario deve essere conforme al modello di cui all’allegato 5 numero 2.
+
+#### Art. 67
+
+**Rubrica «Dichiarazione supplementare»**
+
+<sup>1</sup> Nella rubrica «Dichiarazione supplementare», deve essere indicato quale condizione è adempiuta nel caso in cui l’articolo 22, 23, 29 capoverso 5, 33 capoverso 2, 36 capoverso 1 o 40 capoverso 1 preveda più opzioni. Questa indicazione deve contenere il testo integrale della pertinente condizione.
+
+<sup>2</sup> Per le merci importate da uno Stato terzo, le cui misure sono state riconosciute equivalenti dall’ufficio federale competente (art. 34), nella rubrica «Dichiarazione supplementare» deve essere confermato che le merci sono state assoggettate a tali misure.
+
+#### Art. 68
+
+**Lingua**
+
+<sup>1</sup> Il certificato fitosanitario deve essere redatto in tedesco, francese, italiano o inglese.
+
+<sup>2</sup> Se il certificato fitosanitario non è presentato in una delle lingue di cui al capoverso 1, il SFF può esigere una traduzione in una di queste lingue, certificata conforme dall’autorità fitosanitaria competente.
+
+#### Art. 69
+
+**Data del rilascio**
+
+Il certificato fitosanitario può essere rilasciato non più di 14 giorni prima del giorno in cui la merce lascia il Paese d’esportazione.
+
+#### Art. 70
+
+**Riconoscimento di certificati fitosanitari**
+
+<sup>1</sup>
+
+Se la merce è importata da uno Stato terzo che è parte contraente della Convenzione internazionale del 6 dicembre 1951 per la protezione dei vegetali, il SFF riconosce soltanto i certificati fitosanitari rilasciati:
+
+- a. dall’organizzazione nazionale della protezione dei vegetali dello Stato terzo; o
+- b. sotto la vigilanza dello Stato terzo, da una persona qualificata e incaricata dall’organizzazione nazionale della protezione dei vegetali.
+
+<sup>2</sup> Se la merce è importata da uno Stato terzo che non è parte contraente della Convenzione internazionale per la protezione dei vegetali, il SFF riconosce soltanto i certificati fitosanitari rilasciati da autorità competenti a tal fine in virtù delle disposizioni nazionali dello Stato terzo in questione e notificate al SFF.
+
+### Sezione 2: Certificato fitosanitario di esportazione
+
+#### Art. 71
+
+**Principio**
+
+Il certificato fitosanitario di esportazione attesta che la merce da esportare adempie le disposizioni fitosanitarie del Paese di destinazione.
+
+#### Art. 72
+
+**Modello di certificato fitosanitario di esportazione**
+
+<sup>1</sup> In caso di esportazione secondo l’articolo 57, il certificato fitosanitario deve essere conforme al modello di cui all’allegato 6 numero 1.
+
+<sup>2</sup> In caso di esportazione secondo l’articolo 58, il certificato fitosanitario deve essere conforme al modello di cui all’allegato 6 numero 2.
+
+### Sezione 3: Certificato di pre-esportazione
+
+#### Art. 73
+
+In caso di esportazione secondo l’articolo 59, il certificato di pre-esportazione deve essere conforme al modello di cui all’allegato 6 numero 3.
+
+### Sezione 4: Certificati fitosanitari e certificati di pre-esportazione elettronici
+
+#### Art. 74
+
+<sup>1</sup> I certificati fitosanitari elettronici e i certificati di pre-esportazione elettronici sono riconosciuti soltanto se sono forniti tramite il sistema di gestione delle informazioni designato dal SFF o nell’ambito di uno scambio elettronico con tale sistema.
+
+<sup>2</sup> Il SFF fornisce certificati fitosanitari di esportazione elettronici e certificati di pre-esportazione elettronici unicamente mediante il sistema di gestione delle informazioni da esso designato.
+
+<sup>3</sup> Il DEFR e il DATEC possono stabilire condizioni tecniche per i certificati fitosanitari elettronici e i certificati di pre-esportazione elettronici nonché per il sistema di gestione delle informazioni.
+
+### Sezione 5: Passaporto fitosanitario
+
+#### Art. 75
+
+<sup>1</sup> Il passaporto fitosanitario deve avere la forma di un’etichetta.
+
+<sup>2</sup>
+
+Deve contenere:
+
+- a. gli elementi di cui all’allegato 7 numero 1 se si tratta di un passaporto fitosanitario per l’importazione di merci dall’UE o per la messa in commercio di merci; o
+- b. gli elementi di cui all’allegato 7 numero 2 se si tratta di un passaporto fitosanitario per lo spostamento di merci in zone protette o per la messa in commercio di merci in zone protette.
+
+<sup>3</sup>
+
+Per i vegetali destinati alla piantagione messi in commercio come materiale certificato in virtù dell’articolo 10 dell’ordinanza del 7 dicembre 1998[^75-1] sul materiale di moltiplicazione, il passaporto fitosanitario deve contenere:
+
+- a. gli elementi di cui all’allegato 7 numero 3 se si tratta di un passaporto fitosanitario per l’importazione di merci dall’UE o per la messa in commercio di merci; o
+- b. gli elementi di cui all’allegato 7 numero 4 se si tratta di un passaporto fitosanitario per lo spostamento di merci in zone protette o per la messa in commercio di merci in zone protette.
+
+<sup>4</sup>
+
+Il passaporto fitosanitario deve essere redatto in modo che:
+
+- a. sia chiaramente leggibile e le informazioni ivi riportate siano inalterabili e permanenti;
+- b. sia distinguibile da tutte le altre informazioni o etichette apposte sulla merce.
+
+<sup>5</sup> Il DEFR e il DATEC stabiliscono i requisiti formali del passaporto fitosanitario.
+
+<sup>6</sup>
+
+Il codice di tracciabilità di cui all’allegato 7 numero 1.1.5 non è richiesto per i vegetali destinati alla piantagione se:
+
+- a.[^75-2] sono preparati per consumatori finali che non utilizzano le merci per scopi professionali o commerciali e sono pronti per la vendita; e
+- b. non presentano rischi di diffusione di organismi da quarantena o di organismi da quarantena potenziali.
+
+<sup>7</sup> Il DEFR e il DATEC stabiliscono per quali tipi e specie di vegetali non si applica l’eccezione di cui al capoverso 6.
+
+[^75-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^75-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+### Sezione 6:**** Altri attestati ufficiali per l’attuazione di misure
+
+[^chap7-sec6-1]
+
+[^chap7-sec6-1]: Introdotta dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 75a
+
+<sup>1</sup> Il DEFR e il DATEC possono prevedere per determinate merci, ad eccezione del materiale da imballaggio in legno, l’obbligo di confermare l’adozione di determinate misure volte a impedire l’introduzione e la diffusione di organismi da quarantena in particolare nell’importazione, nella messa in commercio e nell’abbandono di un’area delimitata secondo l’articolo 15.
+
+<sup>2</sup> Stabiliscono quali misure devono essere attuate per quali merci.
+
+<sup>3</sup> Inoltre stabiliscono le prescrizioni formali per gli attestati.
+
+<sup>4</sup> Possono altresì disciplinare l’omologazione di aziende per il rilascio di attestati.
+
+## Capitolo 8: Aziende che rilasciano passaporti fitosanitari****
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+### Sezione 1: Omologazione delle aziende
+
+#### Art. 76
+
+**Aziende con obbligo di omologazione**
+
+Le aziende che mettono in commercio merci, che in virtù dell’articolo 60 possono essere messe in commercio soltanto con un passaporto fitosanitario, e che per tali merci rilasciano passaporti fitosanitari necessitano di un’omologazione da parte del SFF.
+
+#### Art. 77
+
+**Procedura di omologazione**
+
+<sup>1</sup> L’omologazione va richiesta al SFF mediante l’apposito modulo di domanda.
+
+<sup>2</sup> Il SFF attribuisce all’azienda un numero di omologazione.
+
+<sup>3</sup>
+
+Il SFF concede un’omologazione per il rilascio di passaporti fitosanitari per le famiglie, i generi o le specie vegetali e per le categorie di oggetti menzionati nella domanda se l’azienda:
+
+- a. è in grado di effettuare le analisi di cui all’articolo 84 concernenti gli organismi nocivi particolarmente pericolosi che potrebbero infestare le sue merci;
+- b. dispone delle conoscenze necessarie per identificare i segni della presenza di organismi nocivi particolarmente pericolosi e i relativi sintomi;
+- c. conosce le misure da prendere per impedire la comparsa e la diffusione di organismi nocivi particolarmente pericolosi; e
+- d. dispone di sistemi e procedure che le consentono di assicurare la tracciabilità delle merci.
+
+#### Art. 78
+
+**Controllo dell’omologazione**
+
+<sup>1</sup> Il SFF controlla annualmente se l’azienda adempie ancora le condizioni di omologazione per il rilascio di passaporti fitosanitari.
+
+<sup>2</sup>
+
+Può ridurre la frequenza dei controlli se:
+
+- a. esiste un piano di gestione dei rischi riconosciuto; o
+- b. ritiene che il rischio fitosanitario presentato dall’azienda sia basso.
+
+<sup>3</sup> Può aumentare la frequenza dei controlli se ritiene che il rischio fitosanitario presentato dall’azienda sia elevato.
+
+<sup>4</sup> I controlli sono effettuati mediante ispezioni, campionatura e test.
+
+<sup>5</sup>
+
+Il SFF revoca l’omologazione o vincola il suo mantenimento a oneri se l’azienda:
+
+- a. non adempie più le condizioni relative all’omologazione per il rilascio di passaporti fitosanitari;
+- b. non adempie più i suoi obblighi (art. 80–82); o
+- c. non prende le misure ordinate dal SFF.
+
+#### Art. 79
+
+**Riconoscimento di piani di gestione dei rischi**
+
+<sup>1</sup> Le aziende omologate possono elaborare piani di gestione dei rischi per la loro azienda.
+
+<sup>2</sup>
+
+Il SFF riconosce un piano di gestione dei rischi se quest’ultimo prevede misure atte ad adempiere gli obblighi di cui agli articoli 80 e 84 e contiene:
+
+- a. indicazioni concernenti l’obbligo di tenere un registro secondo l’articolo 81;
+- b. una descrizione dei processi di produzione e della messa in commercio delle merci;
+- c. i risultati dell’analisi dei punti critici secondo l’articolo 80 capoverso 1 e dell’analisi delle misure che sono già state prese e che saranno prese per ridurre il rischio fitosanitario connesso a tali punti;
+- d. una descrizione delle misure che vengono prese in caso di sospettata infestazione o di constatazione della presenza di organismi da quarantena o, se del caso, di determinati organismi nocivi per i quali sono state delimitate zone protette;
+- e. registrazioni dei casi di sospettata infestazione e di presenze secondo la lettera d e delle misure prese;
+- f. un elenco dei compiti e delle competenze del personale in relazione all’obbligo di notifica (art. 8), alle analisi prima del rilascio di passaporti fitosanitari e al rilascio e all’apposizione dei passaporti fitosanitari (art. 85–87);
+- g. indicazioni sulla formazione del personale in relazione alle lettere a–f.
+
+### Sezione 2: Obblighi delle aziende omologate
+
+#### Art. 80
+
+**Obblighi generali**
+
+<sup>1</sup> Le aziende omologate per il rilascio di passaporti fitosanitari rilevano quali punti critici all’interno dei loro processi aziendali rappresentano un rischio fitosanitario. Devono sorvegliare tali punti.
+
+<sup>2</sup> Devono tenere un registro sul rilevamento e sulla sorveglianza dei punti di cui al capoverso 1 e conservarlo per almeno tre anni.
+
+<sup>3</sup>
+
+Hanno inoltre i seguenti obblighi:
+
+- a. garantire che il personale disponga di conoscenze fitosanitarie, in particolare per l’esecuzione delle analisi di cui all’articolo 84;
+- b. notificare al SFF entro 30 giorni ogni modifica delle informazioni fornite all’atto dell’omologazione, in particolare se intendono importare, produrre o mettere in commercio nuove categorie di merci;
+- c. controllare regolarmente lo stato di salute delle loro merci;
+- d. verificare che le merci da loro acquistate siano scortate da un passaporto fitosanitario conforme alle prescrizioni.
+
+<sup>4</sup> Le aziende che producono e mettono in commercio merci secondo l’articolo 60 e per tali merci rilasciano un passaporto fitosanitario, notificano annualmente al SFF le particelle e le unità di produzione nonché le merci ivi prodotte.
+
+#### Art. 81
+
+**Obblighi di tenere un registro**
+
+<sup>1</sup> Le aziende omologate devono tenere un registro degli acquisti, della produzione, delle vendite e delle rivendite di ogni lotto.
+
+<sup>2</sup>
+
+Nell’ottica della tracciabilità delle merci devono registrare le seguenti informazioni concernenti i lotti ricevuti o messi in commercio:[^81-1]
+
+- a. indicazioni concernenti l’azienda che ha fornito il lotto, qualora non abbia prodotto essa stessa tutte le merci del lotto in questione;
+- b. indicazioni concernenti l’azienda cui il lotto in questione è stato fornito; e
+- c.[^81-2] gli elementi di cui all’allegato 7 sui passaporti fitosanitari da essi sostituiti e rilasciati.
+
+<sup>3</sup> Le registrazioni devono essere conservate per almeno tre anni e, su richiesta, messe a disposizione del SFF.
+
+<sup>4</sup> Il DEFR e il DATEC possono emanare ulteriori prescrizioni sulla tenuta del registro e stabilire eccezioni alla durata di conservazione delle registrazioni.
+
+[^81-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^81-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 82
+
+**Ricostruibilità degli spostamenti di merci**
+
+<sup>1</sup> Le aziende omologate devono disporre di sistemi o procedure per la tracciabilità delle merci che consentono loro di ricostruire lo spostamento di merci all’interno dell’area aziendale o tra le loro unità aziendali.
+
+<sup>2</sup> Su richiesta, mettono a disposizione del SFF le informazioni sugli spostamenti.
+
+### Sezione 3: Rilascio di passaporti fitosanitari
+
+#### Art. 83
+
+**Principio**
+
+<sup>1</sup>
+
+I passaporti fitosanitari possono essere rilasciati soltanto per le merci che:
+
+- a. sono indenni da organismi da quarantena o da organismi da quarantena potenziali;
+- b. adempiono le disposizioni di cui all’articolo 29;
+- c.[^83-1] sono state prodotte in Svizzera o nell’UE e adempiono determinate condizioni specifiche delle merci secondo l’articolo 59*a*;
+- d. adempiono le condizioni disposte in virtù dell’articolo 33 capoverso 2, se sono state importate da uno Stato terzo; e
+- e. sono state assoggettate, se necessario, alle misure disposte in virtù degli articoli 13 capoversi 1 e 5, 22, 23 e 36 capoverso 1.
+
+<sup>2</sup> ...[^83-2]
+
+<sup>3</sup>
+
+I passaporti fitosanitari per zone protette possono essere rilasciati soltanto per le merci che:
+
+- a. adempiono le condizioni di cui al capoverso 1;
+- b. sono indenni dall’organismo per il quale è stata delimitata la zona protetta in questione;
+- c. adempiono le condizioni disposte in virtù dell’articolo 40 capoverso 1 lettera b.
+
+<sup>4</sup> I passaporti fitosanitari sono rilasciati da un’azienda omologata a tal fine o dal SFF.
+
+[^83-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^83-2]: Abrogato dal n. I dell’O del 19 giu. 2020, con effetto dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+#### Art. 84
+
+**Analisi della merce precedente il rilascio di un passaporto fitosanitario**
+
+<sup>1</sup> Le aziende omologate analizzano la merce per cui deve essere rilasciato un passaporto fitosanitario in un periodo opportuno e tenendo conto del rischio fitosanitario.
+
+<sup>2</sup> Possono analizzare le merci una per una oppure sulla base di campioni rappresentativi.
+
+<sup>3</sup> L’analisi consiste almeno in un’ispezione visiva e riguarda anche il materiale da imballaggio delle merci.
+
+<sup>4</sup> I risultati dell’analisi devono essere registrati e conservati per almeno tre anni.
+
+<sup>5</sup> Il DEFR e il DATEC possono emanare prescrizioni riguardanti le ispezioni visive, la campionatura e i test nonché la frequenza e il calendario delle analisi.
+
+#### Art. 85
+
+**Apposizione del passaporto fitosanitario**
+
+Le aziende omologate appongono i passaporti fitosanitari da esse rilasciati in maniera ben visibile e permanente sulla singola merce o sul lotto prima della sua messa in commercio.
+
+#### Art. 86
+
+**Apposizione del passaporto fitosanitario con etichetta ufficiale per la certificazione**
+
+Nel caso dei vegetali destinati alla piantagione messi in commercio come materiale certificato conformemente all’articolo 10 dell’ordinanza del 7 dicembre 1998[^86-1] sul materiale di moltiplicazione, le aziende omologate allegano il passaporto fitosanitario, ben riconoscibile, all’etichetta ufficiale per la certificazione conformemente all’articolo 17 dell’ordinanza sul materiale di moltiplicazione.
+
+[^86-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+
+#### Art. 87
+
+**Rilascio di passaporti fitosanitari in caso di divisione di lotti**
+
+<sup>1</sup> Se un lotto è diviso in diversi lotti più piccoli, l’azienda omologata rilascia un nuovo passaporto fitosanitario per ognuno di essi.
+
+<sup>2</sup> Può rilasciare i nuovi passaporti fitosanitari soltanto se l’identità e la tracciabilità del lotto sono garantite e se la merce continua ad adempiere le condizioni per il rilascio del passaporto fitosanitario.
+
+#### Art. 88
+
+**Rimozione del passaporto fitosanitario**
+
+<sup>1</sup> Il destinatario di una merce deve rimuovere il passaporto fitosanitario se constata che la merce ricevuta non adempie una delle condizioni del passaporto fitosanitario.
+
+<sup>2</sup> Deve notificare la non conformità al SFF e all’azienda che ha rilasciato il passaporto fitosanitario.
+
+<sup>3</sup> Se il destinatario è un’azienda omologata, deve conservare per almeno tre anni il passaporto fitosanitario rimosso o gli elementi di cui all’allegato 7 sul passaporto fitosanitario nonché la motivazione della rimozione.
+
+## Capitolo 9: Aziende che trattano o marcano legno nonché materiale da imballaggio e altri oggetti in legno
+
+### Sezione 1: Omologazione delle aziende
+
+#### Art. 89
+
+**Aziende con obbligo di omologazione**
+
+Le aziende che trattano o marcano legno, materiale da imballaggio e altri oggetti in legno necessitano di un’omologazione da parte del SFF.
+
+#### Art. 90
+
+**Procedura di omologazione**
+
+<sup>1</sup> L’omologazione va richiesta al SFF mediante l’apposito modulo di domanda.
+
+<sup>2</sup> Il SFF attribuisce all’azienda un numero di omologazione.
+
+<sup>3</sup>
+
+Il SFF concede un’omologazione per il trattamento o la marcatura di legno nonché materiale da imballaggio e altri oggetti in legno se l’azienda:
+
+- a. dispone delle conoscenze necessarie per procedere al trattamento o alla marcatura; e
+- b. dispone di impianti e installazioni adeguati per procedere al trattamento o alla marcatura.
+
+#### Art. 91
+
+**Controllo dell’omologazione**
+
+<sup>1</sup> Il SFF controlla annualmente se l’azienda adempie ancora le condizioni di omologazione per il trattamento o la marcatura di legno, materiale da imballaggio e altri oggetti in legno.
+
+<sup>2</sup> Può ridurre la frequenza dei controlli se ritiene che il rischio fitosanitario presentato dall’azienda sia basso.
+
+<sup>3</sup> Può aumentare la frequenza dei controlli se ritiene che il rischio fitosanitario presentato dall’azienda sia elevato.
+
+<sup>4</sup> I controlli sono effettuati mediante ispezioni, campionatura e test.
+
+<sup>5</sup>
+
+Il SFF revoca l’omologazione o vincola il suo mantenimento a oneri se l’azienda:
+
+- a. non adempie più le condizioni relative all’omologazione per il trattamento o la marcatura di legno;
+- b. non adempie più i suoi obblighi (art. 95); oppure
+- c. non prende le misure ordinate dal SFF.
+
+### Sezione 2: Trattamento e marcatura di legno, materiale da imballaggio e altri oggetti in legno
+
+#### Art. 92
+
+**Principio**
+
+<sup>1</sup>
+
+Le aziende omologate per il trattamento o la marcatura di legno, materiale da imballaggio e altri oggetti in legno possono trattare o marcare soltanto:
+
+- a. materiale da imballaggio in legno prodotto in Svizzera ed esportato in uno Stato terzo, salvo che si applichi un’eccezione secondo l’ISPM15;
+- b. legno, materiale da imballaggio e altri oggetti in legno messi in commercio in Svizzera o nell’UE, se l’articolo 22, 23, 36 o 40 prescrive il trattamento o la marcatura.
+
+<sup>2</sup> Il marchio può essere apposto soltanto se il legno, il materiale da imballaggio o gli altri oggetti in legno sono stati sottoposti almeno a uno dei trattamenti di cui all’allegato 1 ISPM15.
+
+<sup>3</sup> Il marchio è apposto conformemente all’allegato 2 ISPM15.
+
+#### Art. 93
+
+**Riparazione di materiale da imballaggio in legno**
+
+<sup>1</sup> Le aziende omologate possono riparare soltanto materiale da imballaggio in legno provvisto di un marchio secondo l’articolo 92.
+
+<sup>2</sup> Per la riparazione può essere utilizzato soltanto materiale trattato secondo l’ISPM15.
+
+<sup>3</sup> Il materiale utilizzato per la riparazione deve essere marcato.
+
+<sup>4</sup> Il capoverso 1 non si applica se un’azienda rimuove in modo permanente, con qualsiasi mezzo, dal materiale da imballaggio in legno i marchi apposti precedentemente.
+
+<sup>5</sup> Il DEFR e il DATEC possono stabilire condizioni relative al materiale, al trattamento e alla marcatura in caso di riparazioni. Tengono conto delle norme internazionali e in particolare dell’ISPM15.
+
+#### Art. 94
+
+**Trattamento del legno acquistato**
+
+Un’azienda omologata che acquista legno per fabbricare materiale da imballaggio in legno deve:
+
+- a. trattare personalmente il legno acquistato conformemente all’allegato 1 ISPM15; o
+- b. acquistarlo da un’azienda omologata che ha trattato il legno.
+
+#### Art. 95
+
+**Obblighi delle aziende omologate**
+
+<sup>1</sup>
+
+Le aziende omologate hanno i seguenti obblighi:
+
+- a. designare una persona responsabile dell’osservanza delle esigenze dell’ISPM15;
+- b. tenere un registro degli acquisti, della produzione e delle vendite di materiale da imballaggio in legno;
+- c. conservare per almeno due anni i rispettivi bollettini di consegna e le fatture;
+- d. notificare al SFF, entro 30 giorni, tutte le modifiche delle informazioni fornite all’atto dell’omologazione.
+
+<sup>2</sup>
+
+Le aziende omologate per il trattamento devono inoltre:
+
+- a. conservare per almeno due anni i verbali di trattamento;
+- b. mettere a disposizione del SFF, per i controlli, la documentazione tecnica sugli impianti per il trattamento secondo l’allegato 1 ISPM15.
+
+## Capitolo 10: Finanziamento
+
+### Sezione 1: Disposizioni applicabili all’agricoltura e all’ortoflorovivaismo esercitato a titolo professionale
+
+#### Art. 96
+
+**Indennità per danni causati da misure della Confederazione**
+
+<sup>1</sup> La Confederazione versa, su richiesta in casi di rigore, un’indennità per danni causati all’agricoltura o all’ortoflorovivaismo esercitato a titolo professionale da misure prese dal SFF in virtù degli articoli 10, 13, 22, 23, 25 e 29 capoverso 5. Il DEFR stabilisce i criteri per il calcolo dell’indennità.
+
+<sup>2</sup> Non vengono versate indennità se il richiedente non si è attenuto alle disposizioni della presente ordinanza; sono fatte salve le prescrizioni della legge federale del 14 marzo 1958[^96-1] sulla responsabilità.
+
+<sup>3</sup> Le domande d’indennità, debitamente motivate, sono presentate all’UFAG immediatamente dopo la constatazione del danno, ma al più tardi un anno dopo l’esecuzione della misura che lo ha causato.
+
+[^96-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 97
+
+**Indennità ai Cantoni**
+
+<sup>1</sup> La Confederazione, su richiesta, rimborsa ai Cantoni il 50 per cento delle spese riconosciute occasionate loro dalle misure di cui agli articoli 10, 11, 13–15, 17–19, 22 lettera c, 23, 25 e 29 capoverso 5.
+
+<sup>2</sup>
+
+Rimborsa il 75 per cento delle spese riconosciute se:
+
+- a. in un Cantone, un organismo da quarantena, un organismo da quarantena potenziale o un organismo nocivo per il quale è stata delimitata una zona protetta compare per la prima volta;
+- b. il pericolo di diffusione è particolarmente elevato; e
+- c. la probabilità di eradicazione è ancora alta nelle situazioni in questione.
+
+<sup>3</sup> Può ridurre i contributi se le misure di lotta e di sorveglianza relative a organismi nocivi particolarmente pericolosi prese dai Cantoni non sono adeguate o se le misure di lotta e di sorveglianza e ordinate dal SFF non sono state attuate o lo sono state solo in parte.
+
+<sup>4</sup> Il DEFR stabilisce la procedura per la presentazione della domanda e quali spese sono riconosciute dalla Confederazione.
+
+### Sezione 2: Disposizioni applicabili alle foreste
+
+#### Art. 98
+
+La promozione di misure di protezione della foresta è retta dagli articoli 40–40*b* dell’ordinanza del 30 novembre 1992[^98-1] sulle foreste.
+
+[^98-1]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+
+## Capitolo 11: Competenza ed esecuzione
+
+#### Art. 99
+
+**Competenze del DEFR e del DATEC**
+
+<sup>1</sup> Il DEFR è competente per gli organismi nocivi particolarmente pericolosi che rappresentano una minaccia prevalentemente per le piante agricole coltivate e l’ortoflorovivaismo esercitato a titolo professionale.
+
+<sup>2</sup> Il DATEC è competente per gli organismi nocivi particolarmente pericolosi che rappresentano una minaccia prevalentemente per gli alberi e gli arbusti forestali.
+
+<sup>3</sup> Il DEFR e il DATEC coordinano le loro attività per l’esecuzione della presente ordinanza.
+
+#### Art. 100
+
+**Competenze dell’UFAG e dell’UFAM**
+
+<sup>1</sup> L’UFAG è competente per l’esecuzione della presente ordinanza e delle prescrizioni emanate in virtù di essa, purché interessino organismi nocivi particolarmente pericolosi che rappresentano una minaccia prevalentemente per le piante agricole coltivate e l’ortoflorovivaismo esercitato a titolo professionale.
+
+<sup>2</sup> L’UFAM è competente per l’esecuzione della presente ordinanza e delle prescrizioni emanate in virtù di essa, purché interessino organismi nocivi particolarmente pericolosi che rappresentano una minaccia prevalentemente per gli alberi e gli arbusti forestali.
+
+<sup>3</sup> Se l’esecuzione riguarda entrambi i settori di competenza menzionati nei capoversi 1 e 2, l’UFAG decide con il consenso dell’UFAM.
+
+<sup>4</sup> L’UFAG assicura il coordinamento e i contatti nel settore della salute dei vegetali a livello internazionale.
+
+<sup>5</sup> L’UFAG e l’UFAM collaborano per assicurare un’esecuzione uniforme e coerente della presente ordinanza.
+
+#### Art. 101
+
+**Compiti dell’UFAG e dell’UFAM**
+
+L’UFAG e l’UFAM svolgono i compiti seguenti:
+
+- a. determinare quali misure prendere contro la presenza e la diffusione di organismi nocivi particolarmente pericolosi e sorvegliarne l’esecuzione;
+- b. registrare le aziende e rilasciare le omologazioni;
+- c. eseguire le misure fitosanitarie necessarie nella produzione di sementi e di tuberi-seme dopo aver sentito i servizi responsabili dell’esecuzione delle disposizioni concernenti la messa in commercio di sementi e tuberi-seme e le organizzazioni professionali interessate;
+- d. informare i Cantoni e le organizzazioni professionali in merito alla presenza di organismi nocivi particolarmente pericolosi, mettere a disposizione il relativo materiale informativo e formare gli esperti;
+- e. esercitare l’alta vigilanza sulle attività dei servizi cantonali e dei servizi incaricati nell’ambito della presente ordinanza.
+
+#### Art. 102
+
+**Servizio fitosanitario federale**
+
+<sup>1</sup> L’UFAG e l’UFAM designano congiuntamente il SFF. Esso si compone di collaboratori dell’UFAG e dell’UFAM.
+
+<sup>2</sup>
+
+Essi stabiliscono:
+
+- a. il regolamento interno del SFF;
+- b. i compiti che delegano al SFF, se non sono stabiliti nella presente ordinanza.
+
+#### Art. 103
+
+**Istituto federale di ricerca per la foresta, la neve e il paesaggio**
+
+L’Istituto federale di ricerca per la foresta, la neve e il paesaggio è competente per gli aspetti tecnico-scientifici della salute dei vegetali nel settore forestale.
+
+#### Art. 104
+
+**Servizi cantonali**
+
+<sup>1</sup> I servizi cantonali sono competenti per l’adozione delle misure di prevenzione e di lotta stabilite nella presente ordinanza contro gli organismi nocivi particolarmente pericolosi all’interno del Paese, se tali misure non competono al SFF. Coordinano la loro attività con gli altri Cantoni interessati.
+
+<sup>2</sup>
+
+Essi hanno inoltre i seguenti compiti:
+
+- a. informare gli uffici federali competenti in merito alle notifiche ricevute in virtù dell’articolo 8 nonché ai risultati della sorveglianza di cui all’articolo 18 e dei rilevamenti di cui agli articoli 17 e 19;
+- b. collaborare all’esecuzione delle misure volte a rilevare la situazione fitosanitaria concernente un determinato organismo nocivo particolarmente pericoloso;
+- c. collaborare all’esecuzione delle misure di cui agli articoli 22 e 23;
+- d. provvedere affinché siano rese note le caratteristiche distintive degli organismi nocivi particolarmente pericolosi che vanno notificati;
+- e. informare regolarmente i produttori e gli altri ambienti interessati in merito alla presenza e agli effetti concreti di organismi nocivi particolarmente pericolosi;
+- f. fornire informazioni, svolgere dimostrazioni e organizzare corsi affinché le misure di prevenzione e di lotta che entrano in considerazione siano eseguite tempestivamente e correttamente; a tale scopo vanno seguite le istruzioni dell’ufficio federale competente.
+
+<sup>3</sup> I Cantoni sono responsabili del disciplinamento degli organismi nocivi che rappresentano una minaccia per le piante agricole coltivate o l’ortoflorovivaismo esercitato a titolo professionale e degli organismi nocivi non o non più particolarmente pericolosi conformemente alla presente ordinanza, a condizione che non siano disciplinati secondo altre disposizioni del diritto federale.
+
+#### Art. 105
+
+**Rilevamenti e misure di controllo**
+
+<sup>1</sup> Gli organi preposti alle misure per la salute dei vegetali sono autorizzati a ordinare i rilevamenti e le misure di controllo necessari per l’esecuzione della presente ordinanza, sempre che essa non disponga altrimenti.
+
+<sup>2</sup> A tale scopo, i suddetti organi o i loro incaricati sono autorizzati a richiedere le informazioni necessarie. Hanno accesso alle colture, alle aziende, ai fondi, ai locali amministrativi e ai magazzini e possono, se necessario, consultare i registri e la corrispondenza.
+
+<sup>3</sup>
+
+I suddetti organi o i loro incaricati sono inoltre autorizzati a verificare se le misure e le istruzioni concernenti la salute dei vegetali sono osservate dalle aziende e dalle persone che:
+
+- a. in qualsiasi modo hanno a che fare con organismi nocivi particolarmente pericolosi;
+- b. utilizzano a titolo professionale merci che possono essere infestate da organismi nocivi particolarmente pericolosi.
+
+#### Art. 106
+
+**Altri organi**
+
+<sup>1</sup>
+
+Gli uffici federali competenti possono delegare all’Amministrazione federale delle dogane, ai servizi cantonali competenti e alle seguenti organizzazioni di controllo indipendenti i compiti di seguito:
+
+- a. all’Amministrazione federale delle dogane, di comune accordo: i controlli all’importazione di cui agli articoli 49 e 50;
+- b. ai servizi cantonali competenti: il rilascio dei certificati fitosanitari di cui agli articoli 57–59;
+- c. alle organizzazioni di controllo indipendenti conformemente all’articolo 180 della legge del 29 aprile 1998 sull’agricoltura o agli articoli 32 e 50*a* della legge forestale del 4 ottobre 1991: i controlli delle aziende secondo gli articoli 78 e 91 nonché controlli specifici all’importazione.
+
+<sup>2</sup> Le organizzazioni di controllo possono riscuotere tasse per coprire le spese della loro attività di controllo.
+
+<sup>3</sup> Gli organi di polizia competenti in virtù del diritto cantonale, nonché il personale delle dogane, della posta, delle ferrovie, delle compagnie di navigazione e degli aeroporti coadiuvano gli organi preposti alle misure per la salute dei vegetali nell’adempimento dei loro compiti.
+
+## Capitolo 12: Procedura di opposizione
+
+#### Art. 107
+
+Contro le decisioni emanate in base agli articoli 10 capoverso 4, 13 capoverso 4, 51, 55 capoversi 4 e 5 o 56 capoverso 2 può essere fatta opposizione entro il termine di dieci giorni presso l’ufficio federale competente.
+
+## Capitolo 13: Disposizioni finali
+
+#### Art. 108
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del 27 ottobre 2010[^108-1] sulla protezione dei vegetali è abrogata.
+
+[^108-1]: [[RU 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)all. 3 n. 17, [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760), [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676), [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767), [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)all. 3 n. 13 [3215](https://fedlex.data.admin.ch/eli/oc/2016/539)all. n. II 4, [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679), [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)]
+
+#### Art. 109
+
+**Modifica di altri atti normativi**
+
+La modifica di altri atti normativi è disciplinata nell’allegato 8.
+
+#### Art. 110
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le omologazioni di aziende rilasciate prima dell’entrata in vigore della presente ordinanza restano valide al massimo fino al 31 dicembre 2022.
+
+<sup>2</sup> Le aziende che in virtù del nuovo diritto devono notificarsi al SFF o necessitano di un’omologazione devono presentare i documenti per la notifica o la domanda di omologazione all’autorità competente entro il 31 marzo 2020.
+
+<sup>3</sup> Le merci messe in commercio con un passaporto fitosanitario prima del 1° gennaio 2020 possono continuare a essere commercializzate scortate da tale passaporto fino al 31 dicembre 2022.
+
+<sup>4</sup> Per *Ambrosia artemisiifolia L.* le disposizioni concernenti le piante infestanti particolarmente pericolose secondo il diritto anteriore si applicano fino al 31 dicembre 2023.
+
+#### Art. 111
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2020.
+
+Allegato 1
+
+(art. 4, 5, 24 e 29)
+
+## Criteri di identificazione di organismi da quarantena, organismi da quarantena da trattare in via prioritaria e organismi regolamentati non da quarantena
+
+### 1. Organismi da quarantena
+
+Il DEFR e il DATEC classificano un organismo nocivo particolarmente pericoloso come organismo da quarantena o come organismo da quarantena rilevante per le zone protette se questi soddisfa i seguenti criteri inerenti all’identità, alla presenza, alle capacità e al potenziale di danno.
+
+- 1\.1 *Identità*
+- 1\.1.1 La sua identità tassonomica è chiaramente definita o se è dimostrato che produce sintomi coerenti ed è trasmissibile.
+- 1\.1.2 La sua identità tassonomica è definita a livello della specie, oppure a un livello tassonomico superiore o inferiore, se il livello tassonomico superiore o inferiore è adeguato dal profilo scientifico per quanto riguarda la virulenza, la gamma di organismi ospiti o le relazioni con i vettori.
+- 1\.2 *Presenza*
+- 1\.2.1 La sua presenza non è nota in Svizzera o nell’UE.
+- 1\.2.2 La sua presenza è nota soltanto in una parte limitata della Svizzera o dell’UE.
+- 1\.2.3 La sua presenza è nota in Svizzera o nell’UE soltanto in casi rari, irregolari, isolati e sporadici.
+- Se sono adempiuti i presupposti di cui al numero 1.2.2 o 1.2.3, l’organismo nocivo è considerato non ampiamente diffuso.
+- 1\.3 *Capacità di introdursi nel territorio in questione*
+- Un organismo nocivo è considerato capace di introdursi nel territorio in questione se riesce a introdurvisi per via naturale oppure se sono adempiuti tutti i criteri seguenti.
+- 1\.3.1 È associato a merci trasportate nel territorio in questione, al territorio di origine di tali merci o al territorio di provenienza da cui sono trasportate nel territorio in questione.
+- 1\.3.2 Sopravvive durante il trasporto o l’immagazzinamento.
+- 1\.3.3 Potrebbe essere trasferito a un ospite adatto sotto forma di merce nel territorio in questione.
+- 1\.4 *Capacità di insediarsi nel territorio in questione*
+- Un organismo nocivo è considerato capace di insediarsi nel territorio in questione se adempie i criteri seguenti.
+- 1\.4.1 Nel territorio in questione esistono ospiti dell’organismo nocivo e, se del caso, vettori di trasmissione dell’organismo nocivo.
+- 1\.4.2 I fattori ambientali decisivi sono favorevoli all’organismo nocivo in questione e, se del caso, al suo vettore, gli consentono di sopravvivere in fasi di stress climatico e di completare il suo ciclo vitale.
+- 1\.4.3 Le pratiche colturali e le misure di lotta applicate nel territorio in questione sono favorevoli all’organismo nocivo.
+- 1\.4.4 I metodi di sopravvivenza applicati dall’organismo nocivo, la sua strategia riproduttiva, la sua adattabilità genetica e la dimensione della sua popolazione minima vitale ne favoriscono l’insediamento.
+- 1\.5 *Capacità di diffondersi nel territorio in questione*
+- Un organismo nocivo è considerato capace di diffondersi nel territorio in questione se adempie almeno uno dei criteri seguenti.
+- 1\.5.1 Le condizioni ambientali nel territorio in questione favoriscono la diffusione naturale dell’organismo nocivo.
+- 1\.5.2 Gli ostacoli alla diffusione naturale dell’organismo nocivo sono insufficienti.
+- 1\.5.3 Lo spostamento dell’organismo nocivo su merci e mezzi di trasporto nel territorio in questione è possibile.
+- 1\.5.4 Nel territorio in questione esistono ospiti e, se del caso, vettori dell’organismo nocivo.
+- 1\.5.5 Le pratiche colturali e le misure di lotta applicate nel territorio in questione sono favorevoli all’organismo nocivo.
+- 1\.5.6 Nel territorio in questione non esistono nemici naturali e antagonisti dell’organismo nocivo oppure non sono sufficientemente in grado di contrastarlo.
+- 1\.6 *Potenziale di causare ingenti danni economici, sociali o ecologici*
+- L’introduzione dell’organismo nocivo nel territorio in questione, il suo insediamento e la sua diffusione nel territorio in questione oppure, se già presente ma non ampiamente diffuso, nella parte di territorio in cui è assente, ha il potenziale di causare i seguenti danni economici, sociali o ecologici inaccettabili sul territorio in questione oppure sulla parte di territorio in cui non è ampiamente diffuso, per quanto riguarda almeno uno degli aspetti seguenti.
+- 1\.6.1 Perdite quantitative e qualitative del raccolto.
+- 1\.6.2 Costi delle misure di lotta.
+- 1\.6.3 Costi di reimpianto o dovuti alla necessità di vegetali sostitutivi.
+- 1\.6.4 Effetti sulle pratiche di produzione esistenti.
+- 1\.6.5 Effetti sugli alberi lungo le strade, in parchi nonché sulle superfici naturali e impiantate.
+- 1\.6.6 Effetti sui vegetali autoctoni, sulla biodiversità e sui servizi ecosistemici.
+- 1\.6.7 Effetti sull’insediamento, sulla diffusione e sull’impatto di altri organismi nocivi riconducibili, ad esempio, alla capacità dell’organismo nocivo in questione di agire da vettore per altri organismi nocivi.
+- 1\.6.8 Effetti sui costi di produzione o sulle esigenze in termini di mezzi di produzione, compresi i costi della lotta e quelli di eradicazione e di contenimento.
+- 1\.6.9 Effetti sui profitti dei produttori a causa di variazioni della qualità, dei costi di produzione, delle rese o dei livelli di prezzo.
+- 1\.6.10 Effetti sulla domanda interna ed estera di un determinato prodotto vegetale a causa di variazioni della qualità.
+- 1\.6.11 Effetti sul mercato nazionale e sui mercati di esportazione nonché sui prezzi pagati, compresi gli effetti sull’accesso ai mercati di esportazione e la probabilità che i partner commerciali ordinino restrizioni fitosanitarie.
+- 1\.6.12 Risorse necessarie per attività supplementari di ricerca e consulenza.
+- 1\.6.13 Effetti sull’ambiente e altri effetti indesiderati delle misure di lotta contro l’organismo nocivo.
+- 1\.6.14 Effetti sulle zone protette.
+- 1\.6.15 Variazioni dei processi ecologici nonché della struttura e della stabilità degli ecosistemi, compresi ulteriori effetti relativamente a specie vegetali, erosione, livello della falda, pericoli d’incendio e ciclo delle sostanze nutritive.
+- 1\.6.16 Costi del ripristino ambientale e delle misure di prevenzione.
+- 1\.6.17 Effetti sulla sicurezza alimentare e sulla sicurezza delle derrate alimentari.
+- 1\.6.18 Effetti sull’occupazione.
+- 1\.6.19 Effetti sulla qualità delle acque, sulle attività ricreative, sul turismo, sul patrimonio paesaggistico, sui pascoli, sulla caccia e sulla pesca.
+
+### 2. Organismi da quarantena da trattare in via prioritaria
+
+Il DEFR e il DATEC classificano un organismo nocivo particolarmente pericoloso come organismo da quarantena con danni economici, sociali ed ecologici più gravi per il territorio della Svizzera o dell’UE (organismo da quarantena prioritario), se la sua introduzione, il suo insediamento e la sua diffusione hanno un impatto sotto almeno uno degli aspetti seguenti.
+
+- 2\.1 *Danni economici*
+- L’organismo nocivo ha il potenziale di causare ingenti perdite legate agli effetti diretti e indiretti di cui al numero 1.6 per i vegetali aventi un valore economico estremamente grande sul territorio della Svizzera o dell’UE. I vegetali ai sensi del presente numero possono essere alberi giovani.
+- 2\.2 *Danni sociali*
+- L’organismo nocivo ha il potenziale di causare almeno uno dei danni seguenti:
+- 2\.2.1 significativa diminuzione dell’occupazione nel settore agricolo, ortoflorovivaistico o silvicolo o in settori connessi, compresi il turismo e le attività ricreative;
+- 2\.2.2 rischi considerevoli per la sicurezza alimentare e la sicurezza delle derrate alimentari;
+- 2\.2.3 scomparsa o danneggiamento a lungo termine su vasta scala di importanti specie di alberi autoctone o coltivate nel territorio della Svizzera o dell’UE o di specie di alberi di grande importanza sul piano paesaggistico e del patrimonio culturale o storico della Svizzera o dell’UE.
+- 2\.3 *Danni ecologici*
+- L’organismo nocivo ha il potenziale di causare almeno uno dei danni seguenti:
+- 2\.3.1 effetti negativi considerevoli sulla biodiversità e sui servizi ecosistemici.
+- 2\.3.2 aumenti considerevoli e a lungo termine dell’impiego di prodotti fitosanitari sui vegetali in questione;
+- 2\.3.3 scomparsa o danneggiamento a lungo termine su vasta scala di importanti specie di alberi autoctone o coltivate nel territorio della Svizzera o dell’UE o di specie di alberi di grande importanza sul piano paesaggistico e del patrimonio culturale o storico della Svizzera o dell’UE.
+
+### 3. Organismi regolamentati non da quarantena
+
+Il DEFR e il DATEC classificano un organismo nocivo particolarmente pericoloso come organismo regolamentato non da quarantena se adempie uno dei seguenti criteri inerenti all’identità, alla diffusione e al potenziale di danno.
+
+- 3\.1 *Identità*
+- L’organismo nocivo adempie il criterio di cui al numero 1.1.
+- 3\.2 *Diffusione*
+- Sulla base degli aspetti seguenti il DEFR e il DATEC constatano che l’organismo nocivo si diffonde prevalentemente attraverso specifici vegetali destinati alla piantagione e in misura minore per via naturale o attraverso lo spostamento di prodotti vegetali o altre merci.
+- 3\.2.1 Numero dei cicli vitali dell’organismo nocivo sugli ospiti in questione.
+- 3\.2.2 Biologia, epidemiologia e capacità di sopravvivenza dell’organismo nocivo.
+- 3\.2.3 Possibili vie naturali, antropiche o di altro tipo per la trasmissione dell’organismo nocivo all’ospite in questione ed efficienza delle vie di trasmissione, compresi i meccanismi di diffusione e il tasso di diffusione.
+- 3\.2.4 Successiva infestazione secondaria e successiva trasmissione dell’organismo nocivo dall’ospite in questione ad altri vegetali e viceversa.
+- 3\.2.5 Fattori climatici.
+- 3\.2.6 Pratiche colturali prima e dopo il raccolto.
+- 3\.2.7 Tipi di terreno.
+- 3\.2.8 Predisposizione dell’ospite in questione e fasi di sviluppo rilevanti delle piante ospiti.
+- 3\.2.9 Presenza di vettori dell’organismo nocivo.
+- 3\.2.10 Presenza di nemici naturali e di antagonisti dell’organismo nocivo.
+- 3\.2.11 Presenza di altri ospiti sensibili all’organismo nocivo.
+- 3\.2.12 Prevalenza dell’organismo nocivo nel territorio della Svizzera o dell’UE.
+- 3\.2.13 Impiego previsto dei vegetali.
+- 3\.3 *Potenziale di causare danni economici e sociali*
+- L’infestazione dei vegetali destinati alla piantagione di cui al numero 3.2 da parte dell’organismo nocivo ha il potenziale di causare danni economici inaccettabili per l’impiego previsto di tali vegetali sotto almeno uno degli aspetti seguenti.
+- 3\.3.1 Perdite quantitative e qualitative del raccolto.
+- 3\.3.2 Costi delle misure di lotta.
+- 3\.3.3 Costi aggiuntivi di raccolto e cernita.
+- 3\.3.4 Costi di reimpianto.
+- 3\.3.5 Perdite dovute alla necessità di vegetali sostitutivi.
+- 3\.3.6 Effetti sulle pratiche di produzione esistenti.
+- 3\.3.7 Effetti su altre piante ospiti nel luogo di produzione.
+- 3\.3.8 Effetti sull’insediamento, sulla diffusione e sull’impatto di altri organismi nocivi riconducibili, ad esempio, alla capacità dell’organismo nocivo in questione di agire da vettore per altri organismi nocivi.
+- 3\.3.9 Effetti sui costi di produzione o sulle esigenze in termini di mezzi di produzione, compresi i costi della lotta e quelli di eradicazione e di contenimento.
+- 3\.3.10 Effetti sui profitti dei produttori a causa di variazioni della qualità, dei costi di produzione, delle rese o dei livelli di prezzo.
+- 3\.3.11 Effetti sulla domanda interna ed estera di un prodotto vegetale a causa di variazioni della qualità.
+- 3\.3.12 Effetti sul mercato nazionale e sui mercati di esportazione e sui prezzi pagati, compresi gli effetti sull’accesso ai mercati d’esportazione e la probabilità che i partner commerciali ordinino restrizioni fitosanitarie.
+- 3\.3.13 Effetti sull’occupazione.
+
+Allegato 2
+
+(art. 22)
+
+## Gestione dei rischi per gli organismi da quarantena
+
+La gestione dei rischi in relazione agli organismi da quarantena deve comprendere almeno una delle seguenti misure.
+
+- 1\. *Misure di prevenzione e di eliminazione dell’infestazione*
+- 1\.1 Restrizioni per quanto riguarda l’identità, la specie, l’origine, l’ascendenza, la provenienza e la cronologia della produzione delle piante coltivate.
+- 1\.2 Restrizioni per quanto riguarda la coltivazione, il raccolto e l’uso dei vegetali. Le presenti misure possono comprendere esigenze riguardanti test su specie e varietà vegetali per verificarne la resistenza all’organismo da quarantena in questione e l’iscrizione di specie e varietà vegetali per le quali è stata riscontrata una resistenza all’organismo da quarantena nel rispettivo elenco.
+- 1\.3 Restrizioni per quanto riguarda l’uso di prodotti vegetali, aree aziendali, superfici, acqua, terra, substrati di coltivazione, impianti, macchinari, attrezzature e altri oggetti.
+- 1\.4 Sorveglianze, ispezioni visive, campionatura e test di laboratorio concernenti vegetali, prodotti vegetali, aree aziendali, superfici, acque, terra, substrati di coltivazione, impianti, macchinari, attrezzature e altri oggetti per rilevare l’eventuale presenza di organismi da quarantena.
+- 1\.5 Sorveglianza della perdita o dell’alterazione della resistenza di specie o varietà vegetali resistenti connessa con un cambiamento della composizione dell’organismo da quarantena o del suo biotipo, patotipo, razza o gruppo di virulenza.
+- 1\.6 Trattamento fisico, chimico e biologico di vegetali, prodotti vegetali, aziende, superfici, acqua, terra, substrati di coltivazione, impianti, macchinari, attrezzature e altri oggetti infestati o potenzialmente infestati da organismi da quarantena.
+- Le presenti misure possono comprendere esigenze riguardanti:
+- 1\.6.1 la registrazione, l’omologazione e la sorveglianza ufficiale delle aziende che applicano il trattamento in questione;
+- 1\.6.2 il rilascio di un certificato fitosanitario, di un passaporto fitosanitario, di un’etichetta o di un altro attestato ufficiale per le merci trattate e l’apposizione del marchio successiva al trattamento.
+- 1\.7 Distruzione di merci infestate o potenzialmente infestate da organismi da quarantena oppure distruzione a scopo di prevenzione.
+- 1\.8 Oneri riguardanti l’informazione, il rilevamento di dati, la comunicazione e la stesura di rapporti.
+- 1\.9 Registrazione e omologazione delle aziende in questione.
+- 2\. *Misure riguardanti gli invii di merci*
+- 2\.1 Restrizioni per quanto riguarda l’identità, la specie, l’origine, l’ascendenza, la provenienza, il metodo di produzione, la cronologia della produzione e la tracciabilità delle merci.
+- 2\.2 Restrizioni per quanto riguarda l’importazione, la messa in commercio, l’uso, la manipolazione, la trasformazione, l’imballaggio, l’immagazzinamento, la distribuzione e il luogo di destinazione delle merci.
+- 2\.3 Sorveglianza, ispezioni visive, campionatura e test di laboratorio concernenti vegetali, prodotti vegetali e altri oggetti per rilevare l’eventuale presenza di organismi da quarantena, anche attraverso procedure di quarantena e ispezioni prima dell’esportazione in Stati terzi.
+- 2\.4 Trattamento fisico, chimico e biologico e, se necessario, distruzione delle merci infestate o potenzialmente infestate da organismi da quarantena.
+- 2\.5 Oneri riguardanti l’informazione, il rilevamento di dati, la comunicazione e la stesura di rapporti.
+- 2\.6 Registrazione e omologazione delle aziende in questione.
+- Per gli scopi di cui ai numeri 2.1–2.4, le presenti misure possono comprendere esigenze riguardanti:
+- 2\.7 il rilascio di un certificato fitosanitario, di un passaporto fitosanitario, di un’etichetta o di un altro attestato ufficiale, compresa l’apposizione del marchio, per attestare la conformità ai numeri 2.1–2.4;
+- 2\.8 la registrazione, l’omologazione e la sorveglianza ufficiale delle aziende che applicano il trattamento di cui al numero 2.4.
+- 3\. *Misure riguardanti le vie di diffusione degli organismi da quarantena, non correlate a invii di merci*
+- 3\.1 Restrizioni per quanto riguarda l’importazione e la messa in commercio di organismi da quarantena come merci.
+- 3\.2 Sorveglianza, ispezioni visive e test di laboratorio e, se necessario, distruzione degli organismi da quarantena come merci.
+- 3\.3 Restrizioni per quanto riguarda i vegetali, i prodotti vegetali e altri oggetti trasportati dai viaggiatori.
+- 3\.4 Sorveglianza, ispezioni visive, campionatura, test di laboratorio e, se necessario, trattamento o distruzione di vegetali, prodotti vegetali e altri oggetti trasportati dai viaggiatori.
+- 3\.5 Restrizioni per quanto riguarda i veicoli, gli imballaggi e altri oggetti utilizzati nel trasporto di merci.
+- 3\.6 Sorveglianza, ispezioni visive, campionatura, test di laboratorio e, se necessario, trattamento di veicoli, trattamento o distruzione di imballaggi e altri oggetti utilizzati nel trasporto di merci.
+- 3\.7 Oneri riguardanti il rilevamento di dati, la comunicazione e la stesura di rapporti.
+- 3\.8 Registrazione e omologazione delle aziende in questione.
+
+Allegato 3
+
+(art. 31)
+
+## Criteri di valutazione di merci ad alto rischio fitosanitario
+
+L’ufficio federale competente prende in considerazione i seguenti criteri per la valutazione di merci ad alto rischio fitosanitario.
+
+- 1\. *Per quanto riguarda i vegetali destinati alla piantagione, eccetto le sementi*
+- 1\.1 Sono importati solitamente sotto forma di arbusto o albero o sono presenti in Svizzera o nel territorio dell’UE sotto tale forma o sono affini a tali vegetali dal punto di vista tassonomico.
+- 1\.2 Sono raccolti nell’ambiente selvatico o coltivati a partire da vegetali raccolti nell’ambiente selvatico.
+- 1\.3 Sono coltivati all’aperto o a partire da vegetali coltivati all’aperto negli Stati terzi o in determinati territori degli Stati terzi.
+- 1\.4 È risaputo che ospitano organismi nocivi comunemente ospitati dei quali è noto il notevole impatto su specie vegetali aventi grande importanza economica, sociale o ecologica per la Svizzera o per il territorio dell’UE.
+- 1\.5 È risaputo che ospitano comunemente organismi nocivi senza mostrarne i segni o i sintomi, oppure che hanno un periodo di latenza prima che si manifestino tali segni o sintomi, il che rende quindi quasi impossibile rilevare la presenza degli organismi nocivi durante le ispezioni all’importazione.
+- 1\.6 Sono vegetali perenni comunemente commercializzati come vegetali vecchi.
+- 2\. *Per quanto riguarda altre merci*
+- 2\.1 È risaputo che ospitano e rappresentano un’importante via di trasmissione per organismi nocivi comunemente ospitati dei quali è noto il notevole impatto su specie vegetali aventi una grande importanza economica, sociale o ecologica per la Svizzera o per il territorio dell’UE.
+- 2\.2 È risaputo che ospitano comunemente e rappresentano un’importante via di trasmissione per organismi nocivi senza mostrarne i sintomi, oppure che hanno un periodo di latenza prima della manifestazione di tali sintomi, il che rende quindi quasi impossibile rilevare la presenza degli organismi nocivi durante le ispezioni all’importazione.
+
+Allegato 4
+
+(art. 36)
+
+## Criteri di identificazione di merci che possono verosimilmente comportare nuovi rischi fitosanitari
+
+Si considera che le merci provenienti da Stati terzi possono verosimilmente comportare nuovi rischi fitosanitari se adempiono almeno tre delle condizioni seguenti, tra le quali almeno una di quelle elencate nel numero 1.1, 1.2 o 1.3.
+
+- 1\. *Caratteristiche della merce*
+- 1\.1 La merce appartiene a, o è prodotta a partire da un genere o una famiglia di cui è risaputo che ospita organismi nocivi classificati come organismi da quarantena in Svizzera, nell’UE o in uno Stato terzo.
+- 1\.2 La merce appartiene a, o è prodotta a partire da un genere o una famiglia di cui è risaputo che ospita organismi nocivi comunemente ospitati dei quali è noto il notevole impatto su specie vegetali coltivate in Svizzera o nel territorio dell’UE e aventi grande importanza economica, sociale o ecologica per la Svizzera o per il territorio dell’UE.
+- 1\.3 La merce appartiene a, o è prodotta a partire da un genere o una famiglia di cui è risaputo che ospita organismi nocivi senza mostrarne i segni o i sintomi, oppure che hanno un periodo di latenza prima che si manifestino tali segni o sintomi di almeno tre mesi, il che rende quindi quasi impossibile rilevare la presenza degli organismi nocivi sulle merci in questione durante i controlli ufficiali all’importazione in Svizzera o nel territorio dell’UE, senza ricorrere alla campionatura e ai test o all’applicazione delle procedure di quarantena.
+- 1\.4 La merce è coltivata all’aperto o a partire da vegetali coltivati all’aperto nello Stato terzo di origine.
+- 1\.5 La merce non è spedita in contenitori o imballaggi chiusi oppure, se lo è, non è possibile aprire gli invii, a causa delle loro dimensioni, in locali chiusi a fini del controllo ufficiale all’importazione in Svizzera o nel territorio dell’UE.
+- 2\. *Origine della merce*
+- 2\.1 La merce è originaria o proviene da uno Stato terzo che è oggetto di ripetute notifiche di contestazioni di organismi nocivi particolarmente pericolosi non regolamentati come organismi da quarantena secondo l’articolo 4 capoverso 3.
+- 2\.2 La merce è originaria o proviene da uno Stato terzo che non è parte contraente della Convenzione internazionale del 6 dicembre 1951 per la protezione dei vegetali.
+
+Allegato 5
+
+(art. 66)
+
+## Certificati fitosanitari di importazione e riesportazione
+
+### 1. Modello di certificato fitosanitario di importazione
+
+N.
+
+Servizio fitosanitario di
+
+Al: Servizio fitosanitario di
+
+I. Descrizione dell’invio
+
+Nome e indirizzo dell’esportatore:
+
+Nome e indirizzo del destinatario dichiarato:
+
+Numero e descrizione dei colli:
+
+Segni particolari:
+
+Luogo di origine:
+
+Mezzo(i) di trasporto dichiarato(i):
+
+Punto di entrata dichiarato:
+
+Tipologia di prodotto e quantitativo dichiarato:
+
+Nome botanico dei vegetali:
+
+Si certifica che i vegetali, i prodotti vegetali o gli altri oggetti regolamentati descritti nel presente certificato sono stati sottoposti a ispezione e/o test conformemente alle pertinenti procedure ufficiali e sono considerati indenni da organismi da quarantena specificati dalla Parte contraente importatrice, e sono conformi alle disposizioni fitosanitarie in vigore nella Parte contraente importatrice, comprese quelle relative agli organismi regolamentati non da quarantena.
+
+Sono considerati praticamente indenni da altri organismi nocivi (\*).
+
+II. Dichiarazione supplementare
+
+[Inserire il testo qui]
+
+III. Trattamento di disinfestazione e/o disinfezione
+
+Data Trattamento Prodotto (principio attivo)
+
+Durata e temperatura
+
+Concentrazione
+
+Informazioni supplementari
+
+Luogo del rilascio
+
+(Timbro ufficiale) Nome dell’organo di controllo
+
+Data
+
+(Firma)
+
+Il presente certificato non comporta alcuna responsabilità finanziaria per il ……………… (nome del Servizio fitosanitario), i suoi funzionari o rappresentanti (\*).
+
+[\* Clausola facoltativa]
+
+### 2. Modello di certificato fitosanitario di riesportazione
+
+N
+
+Servizio fitosanitario di (Parte contraente di riesportazione)
+
+Al: Servizio fitosanitario di (Parte(i) contraente(i) di importazione)
+
+I. Descrizione dell’invio
+
+Nome e indirizzo dell’esportatore:
+
+Nome e indirizzo del destinatario dichiarato:
+
+Numero e descrizione dei colli:
+
+Segni particolari:
+
+Luogo di origine:
+
+Mezzo(i) di trasporto dichiarato(i):
+
+Punto di entrata dichiarato:
+
+Tipologia di prodotto e quantitativo dichiarato:
+
+Nome botanico dei vegetali:
+
+Si certifica che i vegetali, i prodotti vegetali o gli altri oggetti regolamentati descritti nel presente certificato sono stati importati da ……………… (Parte contraente di origine) in ……………… (Parte contraente di riesportazione) sulla scorta del certificato fitosanitario n. ………………
+
+- – di cui (\*) l’originale ◻ la copia certificata conforme ◻ è allegato(a) al presente certificato
+- – che (\*) sono imballati ◻ reimballati in ◻ contenitori originali ◻ nuovi ◻ e
+- – che (\*) sulla base del certificato fitosanitario originale ◻ e di ulteriori verifiche ◻ sono considerati conformi alle disposizioni fitosanitarie in vigore nella Parte contraente di importazione e
+- – che durante l’immagazzinamento in ……………… (Parte contraente di riesportazione) non sono stati esposti al rischio di infestazione o di infezione.
+
+II. Dichiarazione supplementare
+
+[Inserire il testo qui]
+
+III. Trattamento di disinfestazione e/o disinfezione
+
+Data Trattamento Prodotto (principio attivo)
+
+Durata e temperatura
+
+Concentrazione
+
+Informazioni supplementari
+
+Luogo del rilascio
+
+(Timbro ufficiale) Nome dell’organo di controllo
+
+Data
+
+(Firma)
+
+Il presente certificato non comporta alcuna responsabilità finanziaria per il ……………… (nome del Servizio fitosanitario), i suoi funzionari o rappresentanti (\*\*).
+
+[\* Contrassegnare le caselle □ opportune; \*\* clausola facoltativa]
+
+Allegato 6*[^t-1]*
+
+(art. 72 e 73)
+
+## Certificati fitosanitari di esportazione e riesportazione nonché certificato di pre-esportazione
+
+[^t-1]: Aggiornato dal n. II dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+
+### 1. Modello di certificato fitosanitario di esportazione
+
+(conformemente alla Conv. internazionale del 6 dic. 1951 per la protezione dei vegetali)
+
+<table>
+<tr><td colspan="2">1 Nome e indirizzo dell’esportatore</td><td colspan="3">2 **Certificato fitosanitario** **n.**</td></tr>
+<tr><td colspan="2">3 Nome e indirizzo del destinatario dichiarato</td><td colspan="3">4 **Servizio fitosanitario** **di** al(ai) Servizio(i) fitosanitario(i) di</td></tr>
+<tr><td colspan="2"></td><td colspan="3">5 Luogo di origine</td></tr>
+<tr><td colspan="2">6 Mezzo(i) di trasporto dichiarato(i)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">7 Punto di entrata dichiarato</td><td colspan="3"></td></tr>
+<tr><td colspan="4">8 Segni particolari; numero e descrizione dei colli; nome del prodotto, nome botanico dei vegetali</td><td>9 Quantitativo dichiarato</td></tr>
+<tr><td colspan="5">10 Si certifica che i vegetali, i prodotti vegetali o gli altri oggetti regolamentati descritti nel presente certificato: – sono stati sottoposti a ispezione e/o test conformemente alle pertinenti procedure ufficiali e – sono considerati indenni da organismi da quarantena specificati dalla Parte contraente importatrice, e sono conformi alle disposizioni fitosanitarie in vigore nella Parte contraente importatrice, comprese quelle relative agli organismi regolamentati non da quarantena. I vegetali, i prodotti vegetali o gli altri oggetti regolamentati sono considerati praticamente indenni da altri organismi nocivi.</td></tr>
+<tr><td colspan="5">11 Dichiarazione supplementare</td></tr>
+<tr><td colspan="3">**TRATTAMENTO DI DISINFESTAZIONE E/O DISINFEZIONE**</td><td colspan="2">18 Luogo del rilascio</td></tr>
+<tr><td>12 Data</td><td colspan="2">13 Trattamento</td><td colspan="2"></td></tr>
+<tr><td colspan="3">14 Sostanza chimica (principio attivo)</td><td colspan="2">Data Nome dell’organo di controllo</td></tr>
+<tr><td>15 Durata e temperatura</td><td colspan="2">16 Concentrazione</td><td colspan="2"></td></tr>
+<tr><td colspan="3">17 Informazioni supplementari</td><td colspan="2">(Firma) (Timbro ufficiale)</td></tr>
+</table>
+
+Il presente certificato non comporta alcuna responsabilità finanziaria per il Servizio fitosanitario federale e per gli organi annessi.
+
+### 2. Modello di certificato fitosanitario di riesportazione
+
+(conformemente alla Convenzione internazionale del 6 dicembre 1951 per la protezione dei vegetali)
+
+<table>
+<tr><td colspan="2">1 Nome e indirizzo dell’esportatore</td><td colspan="3">2 **Certificato fitosanitario di riesportazione** **n.**</td></tr>
+<tr><td colspan="2">3 Nome e indirizzo del destinatario dichiarato</td><td colspan="3">4 **Servizio fitosanitario di** al(ai) Servizio(i) fitosanitario(i) di</td></tr>
+<tr><td colspan="2"></td><td colspan="3">5 Luogo di origine</td></tr>
+<tr><td colspan="2">6 Mezzo(i) di trasporto dichiarato(i)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">7 Punto di entrata dichiarato</td><td colspan="3"></td></tr>
+<tr><td colspan="4">8 Segni particolari; numero e descrizione dei colli; nome del prodotto, nome botanico dei vegetali</td><td>9 Quantitativo dichiarato</td></tr>
+<tr><td colspan="5">10 Si certifica che i vegetali, i prodotti vegetali o gli altri oggetti regolamentati descritti nel presente certificato sono stati importati da ……………… (Parte contraente di origine) in ……………… (Parte contraente di riesportazione) sulla scorta del certificato fitosanitario n. ………………, – di cui (\*) l’originale ◻ la copia certificata conforme ◻ è allegato(a) al presente certificato – che (\*) sono imballati ◻ reimballati in ◻ contenitori originali ◻ nuovi ◻ e – che (\*) sulla base del certificato fitosanitario originale ◻ e di ulteriori controlli ◻ sono considerati conformi alle disposizioni fitosanitarie in vigore nella Parte contraente di importazione e – che durante l’immagazzinamento in ……………… (Parte contraente di riesportazione) non sono stati esposti al rischio di infestazione o di infezione. (\*) Contrassegnare la casella/le caselle opportuna/e</td></tr>
+<tr><td colspan="5">11 Dichiarazione supplementare</td></tr>
+<tr><td colspan="3">**TRATTAMENTO DI DISINFESTAZIONE E/O DISINFEZIONE**</td><td colspan="2">18 Luogo del rilascio</td></tr>
+<tr><td>12 Data</td><td colspan="2">13 Trattamento</td><td colspan="2"></td></tr>
+<tr><td colspan="3">14 Sostanza chimica (principio attivo)</td><td colspan="2">Data Nome dell’organo di controllo</td></tr>
+<tr><td>15 Durata e temperatura</td><td colspan="2">16 Concentrazione</td><td colspan="2"></td></tr>
+<tr><td colspan="3">17 Informazioni supplementari</td><td colspan="2">(Firma) (Timbro ufficiale)</td></tr>
+</table>
+
+Il presente certificato non comporta alcuna responsabilità finanziaria per il Servizio fitosanitario federale e per gli organi annessi.
+
+### 3. Modello di certificato di pre-esportazione
+
+<table>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/image/image1.png)1 **Certificato di pre-esportazione** **N. CH / Numero interno di riferimento individuale** Il presente documento è rilasciato dall’autorità competente svizzera in conformità dell’ordinanza sulla salute dei vegetali (RS 916.20) su richiesta di un’azienda, al fine di comunicare alle autorità competenti degli Stati membri dell’UE l’avvenuta applicazione di determinate procedure fitosanitarie.</td></tr>
+<tr><td colspan="3">2 Nome del Paese di origine e nome dell’autorità competente che rilascia la dichiarazione (e, se richiesto, logo dell’autorità competente del Paese di origine)</td></tr>
+<tr><td colspan="3">3 Azienda</td></tr>
+<tr><td colspan="2">4 Descrizione dell’invio</td><td>5 Quantitativo dichiarato</td></tr>
+<tr><td colspan="3">6 L’invio descritto sopra [Contrassegnare le caselle delle opzioni (A–G) e compilare il campo «Specifiche degli organismi nocivi»] ◻ adempie le esigenze specifiche dell’ordinanza del DEFR e del DATEC del 14 novembre 2019 concernente l’ordinanza sulla salute dei vegetali (OSalV-DEFR-DATEC; RS 916.201) ◻ è stato esaminato secondo un’adeguata procedura ufficiale: [se necessario indicare la procedura], ed è risultato indenne da (A) ◻ è stato testato secondo un’adeguata procedura ufficiale: [se necessario indicare la procedura], ed è risultato indenne da (B) ◻ proviene da un campo ufficialmente riconosciuto come indenne da (C) ◻ proviene da un’unità di produzione ufficialmente riconosciuta come indenne da (D) ◻ proviene da un luogo di produzione ufficialmente riconosciuto come indenne da (E) ◻ proviene da un’area ufficialmente riconosciuta come indenne da (F) ◻ proviene da un Paese ufficialmente riconosciuto come indenne da (G) Specifiche degli organismi nocivi e identificazione del campo/dell’unità di produzione/dell’area (se del caso, con riferimento alle caselle A–G di cui sopra):</td></tr>
+<tr><td colspan="3">7 Altre informazioni ufficiali [p.es. relative alle prescrizioni fitosanitarie per l’importazione, al trattamento dell’invio ecc.]</td></tr>
+<tr><td>8 Luogo del rilascio Coordinate (telefono/e-mail/fax): Data:</td><td colspan="2">9 Nome e firma del funzionario autorizzato (Firma) (Timbro ufficiale)</td></tr>
+</table>
+
+Il presente certificato non comporta alcuna responsabilità finanziaria per il Servizio fitosanitario federale e per gli organi annessi.
+
+Allegato 7
+
+(art. 75, 81 e 88)
+
+## Passaporti fitosanitari
+
+### 1. Passaporto fitosanitario per l’importazione dall’UE e per la messa in commercio
+
+- 1\.1 Il passaporto fitosanitario deve contenere i seguenti elementi:
+- 1\.1.1 la dicitura «Passaporto fitosanitario» nell’angolo superiore destro, in una delle lingue ufficiali della Svizzera o dell’UE e in inglese, se differente, separate da una barra obliqua;
+- 1\.1.2 lo stemma della Svizzera o la bandiera dell’UE nell’angolo superiore sinistro, a colori o in bianco e nero;
+- 1\.1.3 la lettera «A», seguita dal nome botanico della specie o del taxon in questione (in caso di vegetali e prodotti vegetali) oppure, se del caso, il nome dell’oggetto in questione e, facoltativamente, il nome della varietà;
+- 1\.1.4 la lettera «B», seguita da «CH», o dal codice di due lettere[^annex7-lvlu1-lvl1-1] dello Stato membro dell’UE, da un trattino e dal numero di omologazione dell’azienda che rilascia – o per cui l’autorità competente rilascia – il passaporto fitosanitario;
+- 1\.1.5 la lettera «C», seguita dal codice di tracciabilità della merce in questione;
+- 1\.1.6 la lettera «D», se del caso seguita da:
+- 1\.1.6.1 il nome o il codice di due lettere dello Stato terzo di origine, oppure
+- 1\.1.6.2 il codice di due lettere del Paese di origine membro dell’UE o della Svizzera.
+- 1\.2 Il codice di tracciabilità di cui al numero 1.1.5 può essere integrato da un riferimento a un codice a barre, ologramma, chip o altro supporto di dati di tracciabilità, presente sul lotto.
+
+[^annex7-lvlu1-lvl1-1]: ISO 3166-1:2006, «Codici per la rappresentazione dei nomi dei Paesi e delle loro suddivisioni» – Parte 1: Codici dei Paesi. Organizzazione internazionale per la normazione ISO, Ginevra.
+
+### 2. Passaporto fitosanitario per le zone protette
+
+- 2\.1 Il passaporto fitosanitario per lo spostamento in zone protette e per la messa in commercio in zone protette deve contenere i seguenti elementi:
+- 2\.1.1 la dicitura «Passaporto fitosanitario – ZP» nell’angolo superiore destro, in una delle lingue ufficiali della Svizzera o dell’UE e in inglese, se differente, separate da una barra obliqua;
+- 2\.1.2 immediatamente sotto tale dicitura, le denominazioni scientifiche o i codici dei rispettivi organismi da quarantena rilevanti per le zone protette;
+- 2\.1.3 lo stemma della Svizzera o la bandiera dell’UE nell’angolo superiore sinistro, a colori o in bianco e nero;
+- 2\.1.4 la lettera «A», seguita dal nome botanico della specie o del taxon in questione (in caso di vegetali e prodotti vegetali) oppure, se del caso, il nome dell’oggetto in questione e, facoltativamente, il nome della varietà;
+- 2\.1.5 la lettera «B», seguita da «CH», o dal codice di due lettere dello Stato membro dell’UE, da un trattino e dal numero di omologazione dell’azienda che rilascia – o per cui l’autorità competente rilascia – il passaporto fitosanitario;
+- 2\.1.6 la lettera «C», seguita dal codice di tracciabilità della merce in questione;
+- 2\.1.7 la lettera «D», se del caso seguita da:
+- 2\.1.7.1 il nome o il codice di due lettere dello Stato terzo di origine, oppure
+- 2\.1.7.2 il codice di due lettere del Paese di origine membro dell’UE o della Svizzera e, in caso di sostituzione del passaporto fitosanitario, il numero di omologazione dell’azienda che aveva rilasciato – o per cui l’autorità competente aveva rilasciato – il passaporto fitosanitario originario.
+- 2\.2 Il codice di tracciabilità di cui al numero 2.1.6 può essere integrato da un riferimento a un codice a barre, ologramma, chip o altro supporto di dati di tracciabilità, presente sul lotto.
+
+### 3. Passaporto fitosanitario combinato con un’etichetta di certificazione
+
+- 3\.1 Il passaporto fitosanitario per l’importazione dall’UE e per la messa in commercio combinato, in un’etichetta unica, con l’etichetta ufficiale per la certificazione secondo l’articolo 17 dell’ordinanza del 7 dicembre 1998[^annex7-lvlu1-lvl3-1] sul materiale di moltiplicazione, deve essere posizionato nell’etichetta unica immediatamente sopra l’etichetta ufficiale per la certificazione, avere la sua stessa larghezza e contenere i seguenti elementi:
+- 3\.1.1 la dicitura «Passaporto fitosanitario» nell’angolo superiore destro dell’etichetta unica, in una delle lingue ufficiali della Svizzera o dell’UE e in inglese, se differente, separate da una barra obliqua;
+- 3\.1.2 lo stemma della Svizzera o la bandiera dell’UE nell’angolo superiore sinistro dell’etichetta unica, a colori o in bianco e nero.
+- 3\.2 Il numero 1.2 si applica per analogia.
+
+[^annex7-lvlu1-lvl3-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+
+### 4. Passaporto fitosanitario per le zone protette combinato con un’etichetta di certificazione
+
+- 4\.1 Il passaporto fitosanitario per lo spostamento in zone protette e per la messa in commercio in tali zone, combinato, in un’etichetta unica, con l’etichetta ufficiale per la certificazione secondo l’articolo 17 dell’ordinanza del 7 dicembre 1998 sul materiale di moltiplicazione, deve essere posizionato nell’etichetta unica immediatamente sopra l’etichetta ufficiale per la certificazione, avere la sua stessa larghezza e contenere i seguenti elementi:
+- 4\.1.1 la dicitura «Passaporto fitosanitario – ZP» nell’angolo superiore destro dell’etichetta unica, in una delle lingue ufficiali della Svizzera o dell’UE e in inglese, se differente, separate da una barra obliqua;
+- 4\.1.2 immediatamente sotto tale dicitura, le denominazioni scientifiche o i codici dei rispettivi organismi da quarantena rilevanti per le zone protette;
+- 4\.1.3 lo stemma della Svizzera o la bandiera dell’UE nell’angolo superiore sinistro dell’etichetta unica, a colori o in bianco e nero.
+- 4\.2 Il numero 2.2 si applica per analogia.
+
+Allegato 8
+
+(art. 109)
+
+## Modifica di altri atti normativi
+
+Le ordinanze qui appresso sono modificate come segue:
+
+…[^annex8-lvlu1-1]
+
+[^annex8-lvlu1-1]: Le mod. possono essere consultate alla [RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682).

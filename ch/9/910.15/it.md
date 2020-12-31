@@ -1,0 +1,249 @@
+---
+sr: "910.15"
+title: Ordinanza del 31 ottobre 2018 sul coordinamento dei controlli delle aziende agricole (OCoC)
+short: OCoC
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
+language: it
+version: 2020-07-01
+adopted: 2018-10-31
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2018-673-20200701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20200701/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul coordinamento dei controlli delle aziende agricole
+
+(OCoC)
+
+del 31 ottobre 2018 (Stato 1° luglio 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 177 e 181 capoverso 1<sup>bis</sup> della legge del 29 aprile 1998[^ingress-1] sull’agricoltura,
+
+ordina:
+
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza disciplina i requisiti generali per i controlli delle aziende che vanno registrate secondo l’articolo 3 dell’ordinanza del 23 novembre 2005[^1-1] concernente la produzione primaria.
+
+<sup>2</sup>
+
+Si applica ai controlli previsti dalle ordinanze seguenti:
+
+- a. ordinanza del 28 ottobre 1998[^1-2] sulla protezione delle acque;
+- b. ordinanza del 23 ottobre 2013[^1-3] sui pagamenti diretti (OPD);
+- c. ordinanza del 23 ottobre 2013[^1-4] sui contributi per singole colture;
+- d. ordinanza del 31 ottobre 2012[^1-5] sull’allevamento di animali.
+
+<sup>3</sup> Il capoverso 2 non si applica al controllo della tenuta stagna degli impianti di deposito per il concime aziendale e il digestato liquido.
+
+<sup>4</sup> La presente ordinanza è rivolta ai Cantoni e agli organi che eseguono i controlli secondo le ordinanze di cui al capoverso 2.
+
+[^1-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^1-2]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-4]: [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
+[^1-5]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+
+#### Art. 2
+
+**Controlli di base**
+
+<sup>1</sup> I controlli di base consentono di verificare se i requisiti delle ordinanze di cui all’articolo 1 capoverso 2 sono rispettati in tutta l’azienda.
+
+<sup>2</sup> Le istruzioni per i controlli di base degli effettivi di animali, dei dati sulle superfici, delle superfici con contributi per singole colture o con un contributo per la produzione estensiva e delle superfici per la promozione della biodiversità sono disciplinate nell’allegato 1.
+
+<sup>3</sup> I controlli di base possono essere svolti con diversi metodi di controllo, a condizione che le ordinanze di cui all’articolo 1 capoverso 2 non dispongano diversamente.
+
+#### Art. 3
+
+**Frequenza minima e coordinamento dei controlli di base**
+
+<sup>1</sup> I requisiti delle ordinanze di cui all’articolo 1 capoverso 2 lettere b–d devono essere controllati almeno ogni otto anni.
+
+<sup>2</sup> I requisiti delle ordinanze di cui all’articolo 1 capoverso 2 lettera a devono essere controllati nelle aziende gestite tutto l’anno almeno ogni quattro anni e nelle aziende d’estivazione almeno ogni otto.
+
+<sup>3</sup> La data di un controllo di base va fissata stagionalmente in modo che gli ambiti scelti possano essere controllati efficacemente.
+
+<sup>4</sup> Un’azienda gestita tutto l’anno deve essere sottoposta a un controllo in loco almeno due volte ogni otto anni.
+
+<sup>5</sup> In ciascun Cantone almeno il 40 per cento dei controlli di base relativi ai contributi per il benessere degli animali va svolto senza preavviso.
+
+<sup>6</sup>
+
+I Cantoni provvedono al coordinamento dei controlli di base in modo che, di regola, un’azienda sia controllata non più di una volta per anno civile. Sono possibili eccezioni al coordinamento per:
+
+- a. controlli di base che non richiedono la presenza del gestore;
+- b. controlli di base relativi a contributi per la biodiversità del livello qualitativo II e per l’interconnessione.
+
+#### Art. 4
+
+**Controlli in funzione del rischio**
+
+<sup>1</sup>
+
+Oltre ai controlli di base sono svolti controlli in funzione del rischio. Questi sono determinati segnatamente sulla base dei seguenti criteri:
+
+- a. lacune constatate in occasione di controlli precedenti;
+- b. sospetto fondato di inosservanza delle prescrizioni;
+- c. cambiamenti sostanziali in azienda;
+- d. ambiti a maggiore rischio di lacune stabiliti annualmente.
+
+<sup>2</sup> I controlli in funzione del rischio possono essere svolti con diversi metodi di controllo a condizione che le ordinanze di cui all’articolo 1 capoverso 2 non dispongano diversamente.
+
+#### Art. 5
+
+**Frequenza minima dei controlli in funzione del rischio**
+
+<sup>1</sup> Le aziende gestite tutto l’anno con lacune in un controllo di base o in un controllo in funzione del rischio devono essere sottoposte a un ulteriore controllo in funzione del rischio nell’anno civile in corso o in quello successivo al controllo.
+
+<sup>2</sup> Le aziende d’estivazione con lacune in un controllo di base o in un controllo in funzione del rischio devono essere sottoposte a un ulteriore controllo entro i tre anni civili successivi al controllo. In caso di avanzamento del bosco o abbandono e a condizione che sia presente un adeguato piano di risanamento si applica un termine di cinque anni civili.
+
+<sup>3</sup> Ogni anno deve essere svolto un controllo in loco in almeno il 5 per cento delle aziende gestite tutto l’anno, delle aziende d’estivazione e delle aziende con pascoli comunitari secondo i criteri di cui all’articolo 4 capoverso 1 lettere b–d.
+
+<sup>4</sup>
+
+In caso di prima notifica per un determinato tipo di pagamenti diretti o di reiscrizione dopo un’interruzione, va svolto un controllo in funzione del rischio nel primo anno di contribuzione. Per i seguenti tipi di pagamenti diretti si applicano deroghe:
+
+- a. contributo per la produzione di latte e carne basata sulla superficie inerbita: primo controllo in funzione del rischio nel secondo anno di contribuzione successivo alla prima notifica o reiscrizione;
+- b. contributo per la biodiversità del livello qualitativo I, senza le strisce fiorite per impollinatori e altri organismi utili e senza i maggesi da rotazione: primo controllo in funzione del rischio entro i primi due anni di contribuzione;
+- c. contributo per l’interconnessione: primo controllo in funzione del rischio entro i primi otto anni di contribuzione.
+
+<sup>5</sup> Non deve essere svolto un nuovo controllo secondo il capoverso 1 nelle aziende gestite tutto l’anno, nelle aziende d’estivazione e nelle aziende con pascoli comunitari nei confronti delle quali è stata applicata una riduzione dei pagamenti diretti o dei contributi per singole colture pari o inferiore a 200 franchi.
+
+<sup>6</sup> In ciascun Cantone almeno il 40 per cento di tutti i controlli in funzione del rischio relativi ai contributi per il benessere degli animali va svolto senza preavviso.
+
+<sup>7</sup> I capoversi 1–6 non si applicano ai controlli secondo la legislazione sulla protezione delle acque.
+
+#### Art. 6
+
+**Norma per le piccole aziende**
+
+Le disposizioni degli articoli 2–5 non si applicano alle aziende gestite tutto l’anno con meno di 0,2 unità standard di manodopera. I Cantoni stabiliscono la frequenza dei controlli da effettuare in tali aziende.
+
+#### Art. 7
+
+**Organi di controllo**
+
+<sup>1</sup> Se un organo di diritto pubblico diverso dalla competente autorità cantonale d’esecuzione o un organo di diritto privato svolge i controlli, la collaborazione con la competente autorità cantonale d’esecuzione va disciplinata in un contratto scritto. L’autorità cantonale d’esecuzione deve vigilare sull’osservanza delle disposizioni contrattuali e garantire che le prescrizioni federali sullo svolgimento dei controlli siano rispettate.
+
+<sup>2</sup>
+
+Conformemente all’ordinanza del 17 giugno 1996[^7-1] sull’accreditamento e sulla designazione, gli organi di diritto privato devono essere accreditati secondo la norma «SN EN ISO/IEC 17020 Criteri generali per il funzionamento dei vari tipi di organismi che effettuano attività di ispezione»[^7-2]. Ciò non vale per il controllo relativo ai dati sulle superfici, ai contributi per singole colture e ai seguenti tipi di pagamenti diretti:
+
+- a. contributo per la produzione estensiva di cereali, girasoli, leguminose, lupini e colza;
+- b. contributi per la biodiversità del livello qualitativo II e per l’interconnessione;
+- c. contributo per la qualità del paesaggio;
+- d. contributi per l’efficienza delle risorse.
+
+<sup>3</sup> Inoltre sono determinanti eventuali altre disposizioni sull’accreditamento nelle basi giuridiche rilevanti per il rispettivo ambito.
+
+<sup>4</sup> Una persona addetta al controllo che constata una palese violazione di una disposi-zione di un’ordinanza di cui all’articolo 1 capoverso 2 della presente ordinanza o di cui all’articolo 10 capoverso 1 dell’ordinanza del 27 maggio 2020[^7-3] sul piano di controllo nazionale della filiera agroalimentare e degli oggetti d’uso (OPCNP), la deve segnalare alle competenti autorità d’esecuzione, anche se non aveva il compito di controllare l’osservanza di tale disposizione.[^7-4]
+
+[^7-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^7-3]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-4]: Nuovo testo giusta l’all. 4 n. 4 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 8
+
+**Compiti dei Cantoni e degli organi di coordinamento dei controlli**
+
+<sup>1</sup>
+
+Ogni Cantone designa un organo di coordinamento dei controlli che coordina i controlli di base secondo le seguenti ordinanze:
+
+- a. ordinanze di cui all’articolo 1 capoverso 2;
+- b.[^8-1] ordinanze di cui all’articolo 10 capoverso 1 OPCNP[^8-2].
+
+<sup>2</sup> Le autorità d’esecuzione delle ordinanze secondo il capoverso 1 informano l’organo di coordinamento dei controlli sui controlli in funzione del rischio da loro previsti secondo lʼarticolo 4 della presente ordinanza e sui controlli supplementari da loro previsti secondo l’articolo 8 OPCNP.[^8-3]
+
+<sup>3</sup>
+
+Il Cantone o l’organo di coordinamento dei controlli comunica a ogni organo di controllo prima dell’inizio di un periodo di controllo:
+
+- a. quali ambiti presso quali aziende deve controllare;
+- b. se deve svolgere i controlli con preavviso o senza preavviso; e
+- c. quando deve svolgere i controlli.
+
+<sup>4</sup> L’organo di coordinamento dei controlli tiene un elenco delle autorità d’esecuzione e dei loro ambiti di competenza.
+
+[^8-1]: Nuovo testo giusta l’all. 4 n. 4 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^8-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^8-3]: Nuovo testo giusta l’all. 4 n. 4 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 9
+
+**Compiti della Confederazione**
+
+<sup>1</sup> L’Ufficio federale dell’agricoltura (UFAG) sorveglia l’esecuzione della presente ordinanza in collaborazione con l’Ufficio federale dell’ambiente (UFAM) e l’Unità federale per la filiera alimentare.
+
+<sup>2</sup>
+
+Previa consultazione dei Cantoni e degli organi di controllo, nei propri ambiti di competenza, l’UFAG e l’UFAM possono:
+
+- a. allestire elenchi che stabiliscono i punti da verificare nei controlli di base e in quelli in funzione del rischio nonché i criteri per la valutazione di tali punti;
+- b. emanare direttive concernenti lo svolgimento dei controlli di base e di quelli in funzione del rischio.
+
+#### Art. 10
+
+**Abrogazione e modifica di altri atti normativi**
+
+<sup>1</sup> L’ordinanza del 23 ottobre 2013[^10-1] sul coordinamento dei controlli delle aziende agricole è abrogata.
+
+<sup>2</sup> La modifica di altri atti normativi è disciplinata nell’allegato 2.
+
+[^10-1]: [[[RU 2013 3867](http://intranet.admin.ch/ch/d/as/2013/3867.pdf)](https://fedlex.data.admin.ch/eli/oc/2013/712), [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753), [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)n. III, [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)all. 3 n. 4]
+
+#### Art. 11
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2020.
+
+Allegato 1
+
+(art. 2 cpv. 2)
+
+## Istruzioni per i controlli di base degli effettivi di animali, dei dati sulle superfici, delle superfici con contributi per singole colture o con un contributo per la produzione estensiva e delle superfici per la promozione della biodiversità
+
+### 1. Controlli di base degli effettivi di animali
+
+- 1\.1 *Effettivi di animali della specie bovina e bufali, animali della specie equina e bisonti:*le eventuali differenze tra gli effettivi presenti in loco e quelli secondo l’attuale lista degli animali della banca dati sul traffico di animali vanno chiarite e documentate.
+- 1\.2 *Altri effettivi di animali (senza animali della specie bovina e bufali, animali della specie equina e bisonti):* le eventuali differenze tra gli effettivi presenti in loco e quelli dichiarati nella domanda vanno chiarite e documentate in caso di dubbio.
+
+### 2. Controlli di base dei dati sulle superfici nonché delle superfici con contributi per singole colture o con un contributo per la produzione estensiva
+
+- 2\.1 *Dati sulle superfici:* le colture dichiarate vanno verificate in loco.
+- 2\.2 *Superfici con contributi per singole colture:* le colture dichiarate e il rispetto dell’obbligo relativo al raccolto vanno verificati in loco.
+- 2\.3 *Superfici con un contributo per la produzione estensiva:* le colture dichiarate e il rispetto dell’obbligo relativo al raccolto nonché il rispetto delle altre condizioni e degli oneri di gestione vanno verificati in loco.
+
+### 3. Controlli di base delle superfici per la promozione della biodiversità (SPB)
+
+- 3\.1 *SPB* *con contributo del livello qualitativo* *I:* il rispetto delle condizioni e degli oneri di gestione va verificato in loco. La verifica avviene su un campione di superfici e alberi selezionato per ogni tipo di SPB ai sensi dell’articolo 55 OPD[^annex1-lvlu1-lvl3-1].
+- 3\.2 *SPB* *con contributo del livello qualitativo* *II:* sulle paludi, sui prati e sui pascoli secchi nonché sui siti di riproduzione di anfibi che sono biotopi d’importanza nazionale secondo l’articolo 18*a* della legge federale del 1° luglio 1966[^annex1-lvlu1-lvl3-2] sulla protezione della natura e del paesaggio e che sono notificati come superfici per la promozione della biodiversità del livello qualitativo II, non devono essere svolti controlli di base delle esigenze poste al livello qualitativo II. Va verificato in loco un campione di superfici e alberi notificati (particelle) tenendo assolutamente conto di ogni tipo di SPB secondo l’articolo 55 OPD e di tutte le superfici seminate per la prima volta negli anni precedenti.
+- 3\.3 *SPB con contributo per l’interconnessione:* il rispetto delle condizioni e degli oneri di gestione va verificato in loco. La verifica avviene su un campione di superfici per ogni misura notificata.
+
+[^annex1-lvlu1-lvl3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvlu1-lvl3-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+Allegato 2
+
+(art. 10 cpv. 2)
+
+## Modifica di altri atti normativi
+
+Gli atti normativi qui appresso sono modificati come segue:
+
+### ...****
+
+[^annex2-lvlu1-lvlu1-1]
+
+[^annex2-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673).

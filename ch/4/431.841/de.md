@@ -1,0 +1,400 @@
+---
+sr: "431.841"
+title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister (VGWR)
+short: VGWR
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
+language: de
+version: 2017-07-01
+adopted: 2017-06-09
+in_force: 2017-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20170701/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20170701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über das eidgenössische Gebäude- und Wohnungsregister
+
+(VGWR)
+
+vom 9. Juni 2017 (Stand am 1. Juli 2017)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 10 Absatz 3<sup>bis</sup> des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-1] (BStatG),
+
+verordnet:
+
+[^ingress-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck des eidgenössischen Gebäude- und Wohnungsregisters**
+
+<sup>1</sup> Das Bundesamt für Statistik (BFS) führt das eidgenössische Gebäude- und Wohnungsregister (GWR) als Referenzinformationssystem für Zwecke der Statistik, Forschung und Planung.
+
+<sup>2</sup> Das GWR dient zudem der Erfüllung weiterer gesetzlicher Aufgaben.
+
+#### Art. 2
+
+**Begriffe**
+
+In dieser Verordnung bedeuten:
+
+- a. *Bauprojekt:* Objekt, für das ein Baubewilligungsgesuch nach Artikel 22 des Bundesgesetzes vom 22. Juni 1979[^2-1] über die Raumplanung (RPG) erforderlich ist;
+- b. *Gebäude:* auf Dauer angelegter, mit einem Dach versehener, mit dem Boden fest verbundener Bau, der Personen aufnehmen kann und Wohnzwecken oder Zwecken der Arbeit, der Ausbildung, der Kultur, des Sports oder jeglicher anderer menschlicher Tätigkeit dient; ein Doppel-, Gruppen- und Reihenhaus zählt ebenfalls als ein Gebäude,, wenn es einen eigenen Zugang von aussen hat und wenn zwischen den Gebäuden eine senkrechte vom Erdgeschoss bis zum Dach reichende tragende Trennmauer besteht;
+- c. *Wohnung:* Gesamtheit von Räumen nach Artikel 2 Absatz 1 des Zweitwohnungsgesetzes vom 20. März 2015[^2-2] (ZWG);
+- d. *Gebäudeeingang:* Zugang von aussen in ein Gebäude; der Eingang ist durch eine Gebäudeadresse identifiziert;
+- e. *Gebäudeadresse:* Adressierungsangaben nach Artikel 26*b* der Verordnung vom 21. Mai 2008[^2-3] über die geografischen Namen (GeoNV) und Koordinaten des Gebäudeeingangs.
+
+[^2-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-2]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+[^2-3]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+
+## 2. Abschnitt: Organisation, Führung und Inhalt des GWR
+
+#### Art. 3
+
+**Aufgaben des BFS**
+
+<sup>1</sup> Das BFS führt, aktualisiert und veröffentlicht regelmässig einen Merkmalskatalog des GWR, der die Merkmalsausprägungen, Nomenklaturen und Kodierungen enthält. Bei der Ausarbeitung des Katalogs arbeitet es mit den Stellen der Gemeinden, der Kantone und des Bundes, die das GWR benützen, zusammen.
+
+<sup>2</sup> Es definiert nach Anhörung der Kantone die Mindestanforderungen an die Qualität der Daten.
+
+<sup>3</sup> Es definiert die Merkmalsausprägungen, Nomenklaturen und Kodierungen für die Identifikatoren und Merkmale, die im GWR geführt werden.
+
+<sup>4</sup> Es erstellt zusammen mit dem Bundesamt für Raumentwicklung und dem Bundesamt für Landestopografie eine Weisung für die Definition von Gebäuden nach Artikel 2 Buchstabe b, um eine standardisierte Verwaltung der im GWR geführten Daten sicherzustellen.
+
+#### Art. 4
+
+**Zusammenarbeit des BFS mit anderen Stellen**
+
+Das BFS arbeitet mit folgenden Stellen zusammen:
+
+- a. den Statistikstellen von Bund, Kantonen und Gemeinden;
+- b. den kantonalen und kommunalen Bauämtern;
+- c. den Vermessungsfachstellen von Bund, Kantonen und Gemeinden;
+- d. den kantonalen Koordinationsstellen;
+- e. den kantonalen oder kommunalen registerführenden Stellen von anerkannten Registern.
+
+#### Art. 5
+
+**Aufgaben der Kantone**
+
+<sup>1</sup> Jeder Kanton bestimmt eine Stelle, die für die Koordination der Tätigkeiten in Zusammenhang mit dem GWR zuständig ist, und teilt dem BFS die für die Nachführung der Daten zuständigen Stellen mit.
+
+<sup>2</sup> Die kantonale Koordinationsstelle stellt in Absprache mit dem BFS sicher, dass die Daten des GWR regelmässig aktualisiert werden.
+
+#### Art. 6
+
+**Anerkannte kantonale und kommunale Register**
+
+<sup>1</sup>
+
+Das BFS kann die Qualitätssicherung und die Betreuung der für die Nachführung der Daten zuständigen Stellen an die Kantone oder grosse Städte delegieren, wenn diese ein Register führen, das die folgenden Bedingungen erfüllt (anerkannte Register):
+
+- a. Eine kantonale oder kommunale gesetzliche Grundlage begründet das Register, regelt seine Funktionsweise und bestimmt die registerführende Stelle.
+- b. Das Register erfüllt die Mindestanforderungen an die Qualität der Daten nach Artikel 3 Absatz 2.
+- c. Es umfasst mindestens 25 000 Gebäude und 100 000 Wohnungen oder enthält die vollständigen Daten eines Kantons.
+
+<sup>2</sup> Sind diese Bedingungen erfüllt, so arbeitet das BFS mit der registerführenden Stelle eine Vereinbarung aus und gewährt dieser eine jährliche finanzielle Entschädigung. Diese setzt sich zusammen aus einem Grundbetrag von maximal 5000 Franken pro Register und einem nach der Anzahl der Gebäude und Wohnungen berechneten Betrag von 15 Rappen pro Gebäude mit Wohnnutzung, 5 Rappen pro Gebäude ohne Wohnnutzung und 1 Rappen pro Wohnung. Als Mindestbeitrag wird die im Jahr 2016 ausbezahlte Summe gewährt.
+
+#### Art. 7
+
+**Im GWR geführte Objekte**
+
+<sup>1</sup>
+
+Im GWR werden folgende Objekte geführt:
+
+- a. Bauprojekte spätestens beim Erteilen der Baubewilligung;
+- b. alle Gebäude sowie ihre Eingänge (einschliesslich der Adressen) und bei Gebäuden mit Wohnnutzungdie dazugehörigen Wohnungen;
+- c. weitere gebaute Objekte und weitere Arten von Bauprojekten.
+
+<sup>2</sup> Geplante Gebäude sowie ihre Eingänge und ihre Wohnungen müssen spätestens beim Erteilen der Baubewilligung geführt werden.
+
+<sup>3</sup> Das BFS definiert im Merkmalskatalog, in welchen Fällen Objekte nach Absatz 1 von der Führung im GWR ausgenommen sind.
+
+<sup>4</sup> Militärische Objekte, Bauten und Einrichtungen, die der Anlagenschutzverordnung vom 2. Mai 1990[^7-1] unterstehen, werden im GWR nicht erfasst.
+
+[^7-1]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+
+#### Art. 8
+
+**Im GWR geführte Informationen**
+
+<sup>1</sup>
+
+Im GWR werden zu jedem Bauprojekt folgende Informationen geführt:
+
+- a. Bauprojektidentifikator des BFS (EPROID);
+- b. politische Gemeinde;
+- c. Referenz zu den Grundstücken;
+- d. Beschreibung des Bauprojekts;
+- e. Bauherrschaft;
+- f. Art der Arbeiten;
+- g. Projektkosten;
+- h. Projektstatus (Stand Bauverfahren);
+- i. Typ der Ausnahmebewilligung;
+- j. Anzahl Gebäude des Bauprojekts;
+- k. Anzahl Wohnungen des Bauprojekts.
+
+<sup>2</sup>
+
+Im GWR werden zu jedem Gebäude folgende Informationen geführt:
+
+- a. Gebäudeidentifikator des BFS (EGID);
+- b. Gebäudenummer des Kantons oder der Gemeinde;
+- c. Gebäudeeingangsidentifikator des BFS (EDID);
+- d. politische Gemeinde;
+- e. Referenz zu den Grundstücken;
+- f. Adressierungsangaben nach Artikel 26*a* und 26*b* GeoNV[^8-1];
+- g. Gebäudekategorie;
+- h. Gebäudestatus (projektiert, erstellt, abgebrochen);
+- i. Baudatum oder -periode und Abbruchdatum oder -periode des Gebäudes;
+- j. Gebäudedimensionen (Flächen, Volumen);
+- k. Gebäudestruktur (Anzahl Stockwerke);
+- l. gebäudetechnische Hauptinstallationen (Heizsystem, Schutzraum);
+- m. Zugehörigkeit zu statistischen Zonen, Quartieren und weiteren infrakommunalen Gebietseinheiten.
+
+<sup>3</sup>
+
+Im GWR werden zu jeder Wohnung folgende Informationen geführt:
+
+- a. Wohnungsidentifikator des BFS (EWID);
+- b. Wohnungsnummer des Kantons oder der Gemeinde;
+- c. Referenz zu den Grundstücken bei Wohnungen im Stockwerkeigentum;
+- d. Lokalisierung der Wohnung im Gebäude;
+- e. Baudatum oder -periode und Abbruchdatum oder -periode der Wohnung;
+- f. Wohnungsstatus (projektiert, erstellt, abgebrochen);
+- g. Wohnungsdimensionen (Fläche);
+- h. Wohnungsstruktur (Anzahl Zimmer, Kocheinrichtung, mehrstöckig);
+- i. Nutzungsart der Wohnung;
+- j. Nutzungseinschränkung der Wohnung (im Sinne des ZWG).
+
+<sup>4</sup> Eine Information nach den Absätzen 1–3 kann in ein oder mehrere Merkmale unterteilt werden.
+
+<sup>5</sup> Das BFS kann im Merkmalskatalog bestimmte Merkmale für fakultativ erklären.
+
+<sup>6</sup> Es kann für die Führung des GWR oder die statistische Auswertung weitere Merkmale oder Hilfsangaben ins GWR aufnehmen. Diese Informationen sind für Dritte nicht zugänglich.
+
+[^8-1]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+
+#### Art. 9
+
+**Datenquellen**
+
+<sup>1</sup> Quellen sind in erster Linie die Verwaltungsdaten des Bundes, der Kantone und der Gemeinden, welche die in Artikel 8 Absätze 1–3 aufgeführten Informationen liefern können.
+
+<sup>2</sup>
+
+Für die Nachführung der im GWR geführten Informationen können insbesondere folgende Datenquellen verwendet werden:
+
+- a. Baubewilligungs- und Bauabnahmedossiers der Kantone und Gemeinden;
+- b. Grunddatensatz der amtlichen Vermessung;
+- c. Grunddatensatz der kantonalen Grundbücher;
+- d. Gebäude- und Wohnungs-Referenzdaten für die Bestimmung des Steuerwertes;
+- e. Verwaltungsregister der kantonalen Gebäudeversicherungen;
+- f. Datensammlungen der Post, der Fernmeldedienste, der Elektrizitäts- und Gasversorger und der Betreiber von Wärmeverbünden;
+- g. Meldungen der Bauherrschaft, von Architektinnen und Architekten, von Eigentümerinnen und Eigentümern sowie von Immobilienverwaltungen;
+- h. Daten anderer statistischer Erhebungen, sofern deren Verwendung im GWR im Anhang zur Statistikerhebungsverordnung vom 30. Juni 1993[^9-1] ausdrücklich erwähnt ist;
+- i. Daten, die anlässlich kantonaler und kommunaler Feuerungskontrollen erhoben werden;
+- j. Daten, die für die Ausstellung kantonaler Gebäudeenergieausweise (GEAK) erhoben werden.
+
+<sup>3</sup> Daten aus Registern des Bundes, der Kantone und der Gemeinden sind dem BFS oder der registerführenden Stelle eines anerkannten Registers für die Nachführung des GWR unentgeltlich zur Verfügung zu stellen.
+
+<sup>4</sup> Natürliche und juristische Personen und Institutionen, die mit öffentlich-rechtlichen Aufgaben betraut sind, sind verpflichtet, die Informationen nach Artikel 8 zu liefern.
+
+[^9-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+
+#### Art. 10
+
+**Nachführung der Register**
+
+<sup>1</sup> Die zuständigen kommunalen oder kantonalen Stellen führen alle Informationen zu Bauprojekten, Gebäuden und Wohnungen nach Artikel 8 laufend im GWR oder in einem anerkannten Register nach. Die Nachführung muss spätestens auf Ende jedes Quartals innerhalb einer Frist von 30 Tagen formell abgeschlossen werden.
+
+<sup>2</sup> Die registerführenden Stellen von anerkannten Registern übermitteln dem BFS mindestens einmal im Monat die Daten zu den Gebäuden und den Wohnungen. Die Übermittlung und der Import der Daten erfolgen, so weit wie möglich, standardisiert und automatisiert.
+
+#### Art. 11
+
+**Unterstützung der Gemeinden**
+
+<sup>1</sup> Das BFS stellt in Zusammenarbeit mit den kantonalen Koordinationsstellen die Unterstützung der kommunalen Stellen sicher, die für die Nachführung des Registers zuständig und nicht einem anerkannten Register angeschlossen sind.
+
+<sup>2</sup> Die registerführende Stelle eines anerkannten Registers unterstützt die für die Nachführung des Registers zuständigen kommunalen Stellen, die ihre Informationen im betreffenden anerkannten Register nachführen, in ihrer Aufgabe und definiert, in welcher Form die erforderlichen Informationen in das anerkannte Register übertragen werden müssen.
+
+#### Art. 12
+
+**Überprüfung und Berichtigung der Daten**
+
+<sup>1</sup> Das BFS prüft die Qualität der für das GWR bestimmten Daten bei der elektronischen Datenübernahme aus den anerkannten Registern oder aus jeglichen weiteren Quellen.
+
+<sup>2</sup> Es stellt eine automatisierte Überprüfung zur Verfügung, um sicherzustellen, dass die von den anerkannten Registern gelieferten Daten die erforderlichen Qualitätsanforderungen nach Artikel 3 Absatz 2 erfüllen.
+
+<sup>3</sup> Es führt zudem regelmässig eine Qualitätsprüfung der Daten des GWR durch und übermittelt der für die Nachführung der Daten zuständigen Stelle oder der registerführenden Stelle eines anerkannten Registers die aufgedeckten Abweichungen und Fehler zur Überarbeitung.
+
+<sup>4</sup> Sind die erfassten Daten unvollständig oder falsch oder weisen sie Abweichungen auf, so ordnet das BFS deren Korrektur an. Es setzt dazu eine Frist an.
+
+#### Art. 13
+
+**Schnittstellen für die elektronische Verwaltung der Daten**
+
+<sup>1</sup> Das BFS stellt den für die Nachführung der Daten des GWR zuständigen Stellen eine Informatikanwendung für die Speicherung und die Verwaltung der Daten zur Verfügung.
+
+<sup>2</sup> Es legt die Schnittstellen für den Datenaustausch zwischen dem GWR und den anerkannten Registern sowie den Gemeinden, die nicht einem anerkannten Register angeschlossen sind, fest. Vor Änderungen konsultiert es die registerführenden Stellen von anerkannten Registern. Es räumt für die Umsetzung angemessene Fristen ein.
+
+## 3. Abschnitt: Verwendung und Bekanntgabe der Daten
+
+#### Art. 14
+
+**Verwendung der Daten zu statistischen Zwecken durch das BFS**
+
+<sup>1</sup> Das GWR dient dem BFS als Grundlage für statistische Erhebungen.
+
+<sup>2</sup>
+
+Insbesondere kann das BFS auf der Grundlage des GWR:
+
+- a. statistische Auswertungen vornehmen;
+- b. Stichproben für statistische Erhebungen in allen Statistikbereichen ziehen.
+
+#### Art. 15
+
+**Verwendung und Zugänglichkeit der Daten für Zwecke der Statistik, der Forschung und der Planung sowie zur Erfüllung gesetzlicher Aufgaben**
+
+<sup>1</sup>
+
+Das BFS ermöglicht einen Online-Zugriff auf die Daten des GWR für die Durchführung von statistischen Arbeiten, zu Forschungs- und zu Planungszwecken sowie zur Erfüllung gesetzlicher Aufgaben:
+
+- a. den Statistikstellen und Forschungszentren des Bundes, der Kantone und der Gemeinden;
+- b. weiteren Amtsstellen, öffentlich-rechtlichen Anstalten und von einer Amtsstelle beauftragten Dritten.
+
+<sup>2</sup> Der Zugriff auf die Daten erfordert die Einreichung eines formellen und begründeten Gesuchs an das BFS.
+
+<sup>3</sup> Er ist beschränkt auf die Daten, die das jeweilige Gebiet der Stellen nach Absatz 1 betreffen und die für die Erfüllung der gesetzlichen Aufgabe notwendig sind.
+
+<sup>4</sup> Das BFS kann individuell bearbeitete Daten der Berechtigungsstufen A und B nach Anhang 1 auf Gesuch hin übermitteln.
+
+<sup>5</sup> Die Daten der Berechtigungsstufe B nach Anhang 1 müssen nach Abschluss der gesetzlichen Aufgabe vernichtet werden.
+
+<sup>6</sup> Stellen, die über einen Zugriff nach Absatz 1 verfügen, können die Daten Dritten bekannt geben, wenn die jeweilige kantonale Gesetzgebung dies vorsieht und Dritte die Daten entweder für die Durchführung von statistischen Arbeiten, zu Forschungs- und zu Planungszwecken oder zur Erfüllung einer gesetzlichen Aufgabe benötigen. Die Datenbearbeitung durch Dritte hat nach den Bestimmungen dieser Verordnung zu erfolgen.
+
+#### Art. 16
+
+**Publikation der Daten des GWR**
+
+Das BFS veröffentlicht die Daten des GWR der Stufe A nach Anhang 1 im Internet.
+
+#### Art. 17
+
+**Gebühren**
+
+<sup>1</sup> Die Nutzung der im Internet zur Verfügung gestellten Daten ist kostenlos.
+
+<sup>2</sup> Der Zugriff auf die Daten des GWR ist für Stellen, die über einen Zugriff nach Artikel 15 Absatz 1 verfügen, kostenlos.
+
+<sup>3</sup> Der Bezug von individuell aufbereiteten Daten des GWR ist gebührenpflichtig.
+
+<sup>4</sup> Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003[^17-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
+
+[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/eli/cc/2003/326)
+
+## 4. Abschnitt: Datensicherheit
+
+#### Art. 18
+
+Für die Datensicherheit gelten die Bestimmungen der Verordnung vom 14. Juni 1993[^18-1] zum Bundesgesetz über den Datenschutz und der Bundesinformatikverordnung vom 9. Dezember 2011[^18-2].
+
+[^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+## 5. Abschnitt: Schlussbestimmungen
+
+#### Art. 19
+
+**Aufhebung und Änderung anderer Erlasse**
+
+Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
+
+#### Art. 20
+
+**Übergangsbestimmungen**
+
+Noch nicht im GWR geführte Gebäude ohne Wohnnutzung müssen bis spätestens 31. Dezember 2020 im GWR erfasst werden. Das BFS erarbeitet zusammen mit den Kantonen und den Vermessungsfachstellen Verfahren für die Übernahme dieser Daten.
+
+#### Art. 21
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Juli 2017 in Kraft.
+
+Anhang 1
+
+(Art. 15 und 16)
+
+## Zugriff auf die Daten des eidgenössischen Gebäude- und Wohnungsregisters
+
+<table>
+<tr><th>Berechtigungsstufen Stufe A – öffentlich zugängliche Daten Stufe B – mit Einschränkung zugängliche Daten Stufe C – nicht zugängliche Daten</th><th>Stufe A / B / C</th></tr>
+<tr><td>Gebäudeinformationen</td><td></td></tr>
+<tr><td>Gebäudeidentifikator des BFS (EGID)</td><td>A</td></tr>
+<tr><td>Gebäudenummer des Kantons oder der Gemeinde</td><td>A</td></tr>
+<tr><td>Politische Gemeinde</td><td>A</td></tr>
+<tr><td>Referenz zu den Grundstücken</td><td>A</td></tr>
+<tr><td>Adressierungsangaben nach Artikel 26*a* und 26*b* GeoNV[^annex1-lvlu1-1]</td><td>A</td></tr>
+<tr><td>Gebäudekategorie</td><td>A</td></tr>
+<tr><td>Gebäudestatus (projektiert, erstellt, abgebrochen)</td><td>A</td></tr>
+<tr><td>Baudatum oder -periode und Abbruchdatum oder -periode des Gebäudes</td><td>A</td></tr>
+<tr><td>Gebäudedimensionen (Flächen, Volumen)</td><td>A</td></tr>
+<tr><td>Gebäudestruktur (Anzahl Stockwerke)</td><td>A</td></tr>
+<tr><td>Gebäudetechnische Installationen (Heizsystem, Schutzraum)</td><td>B</td></tr>
+<tr><td>Zugehörigkeit zu statistischen Zonen, Quartieren und weiteren infrakommunalen Gebietseinheiten</td><td>B</td></tr>
+<tr><td>Ansprechperson für das Gebäude</td><td>C</td></tr>
+<tr><td>Wohnungsinformationen</td><td></td></tr>
+<tr><td>Wohnungsidentifikator des BFS (EWID)</td><td>A</td></tr>
+<tr><td>Wohnungsnummer des Kantons oder der Gemeinde</td><td>A</td></tr>
+<tr><td>Referenz zu den Grundstücken bei Wohnungen im Stockwerkeigentum</td><td>B</td></tr>
+<tr><td>Lokalisierung der Wohnung im Gebäude</td><td>A</td></tr>
+<tr><td>Baudatum oder -periode und Abbruchdatum oder -periode der Wohnung</td><td>B</td></tr>
+<tr><td>Wohnungsstatus (projektiert, erstellt, abgebrochen)</td><td>A</td></tr>
+<tr><td>Wohnungsdimensionen (Fläche)</td><td>B</td></tr>
+<tr><td>Wohnungsstruktur (Anzahl Zimmer, Kocheinrichtung, mehrstöckig)</td><td>B</td></tr>
+<tr><td>Nutzungsart der Wohnung</td><td>B</td></tr>
+<tr><td>Nutzungseinschränkung der Wohnung (im Sinne von ZWG[^annex1-lvlu1-2])</td><td>B</td></tr>
+<tr><td>Bauprojektinformationen</td><td></td></tr>
+<tr><td>Bauprojektidentifikator des BFS (EPROID)</td><td>B</td></tr>
+<tr><td>Politische Gemeinde</td><td>B</td></tr>
+<tr><td>Referenz zu den Grundstücken</td><td>B</td></tr>
+<tr><td>Beschreibung des Bauprojekts</td><td>B</td></tr>
+<tr><td>Bauherrschaft</td><td>C</td></tr>
+<tr><td>Art der Arbeiten</td><td>B</td></tr>
+<tr><td>Projektkosten</td><td>B</td></tr>
+<tr><td>Projektstatus (Stand Bauverfahren)</td><td>B</td></tr>
+<tr><td>Typ der Ausnahmebewilligung</td><td>B</td></tr>
+<tr><td>Anzahl Gebäude des Bauprojekts</td><td>B</td></tr>
+<tr><td>Anzahl Wohnungen des Bauprojekts</td><td>B</td></tr>
+</table>
+
+[^annex1-lvlu1-1]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^annex1-lvlu1-2]: [SR 702](https://fedlex.data.admin.ch/eli/cc/2015/886)
+
+Anhang 2
+
+(Art. 19)
+
+## Aufhebung und Änderung anderer Erlasse
+
+I
+
+Die Verordnung vom 31. Mai 2000[^annex2-lvlu1-1] über das eidgenössische Gebäude- und Wohnungsregister wird aufgehoben.
+
+II
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+…[^annex2-lvlu1-2]
+
+[^annex2-lvlu1-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
+[^annex2-lvlu1-2]: Die Änderungen können unter [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)konsultiert werden.

@@ -1,0 +1,100 @@
+---
+sr: "0.142.114.361"
+title: Freundschaftsvertrag vom 25. April 1934 zwischen der Schweizerischen Eidgenossenschaft und dem Kaiserreich Persien (mit Schlussprotokoll)
+eli: "https://fedlex.data.admin.ch/eli/cc/51/410_422_506"
+language: de
+version: 1935-06-01
+adopted: 1934-04-25
+in_force: 1935-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/410_422_506/19350601/de/xml/fedlex-data-admin-ch-eli-cc-51-410_422_506-19350601-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/410_422_506/19350601/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Freundschaftsvertrag zwischen der Schweizerischen Eidgenossenschaft und dem Kaiserreich Persien
+
+BS **11** 660; BBl **1934** III 157
+
+Übersetzung
+
+Abgeschlossen am 25. April 1934 Von der Bundesversammlung genehmigt am 8. November 1934[^t-1] Ratifikationsurkunden ausgetauscht am 1. Juni 1935 In Kraft getreten am 1. Juni 1935
+
+(Stand am 1. Juni 1935)
+
+[^t-1]: AS **51** 408
+
+Der Schweizerische Bundesrat und Seine Kaiserliche Majestät der Schah von Persien,
+
+vom Wunsche beseelt, die überlieferten freundschaftlichen Beziehungen zwischen den beiden Staaten enger zu gestalten, haben beschlossen, einen Freundschaftsvertrag abzuschliessen, und haben zu diesem Zwecke zu ihren Bevollmächtigten ernannt:
+
+(Es folgen die Namen der Bevollmächtigten)
+
+die, nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten,
+
+über folgende Bestimmungen übereingekommen sind:
+
+#### Art. 1
+
+Unverletzbarer Friede und aufrichtige, immerwährende Freundschaft werden zwischen der Schweiz und dem Kaiserreich Persien sowie zwischen den Angehörigen der beiden Staaten bestehen.
+
+#### Art. 2
+
+[^2-1]
+
+Es besteht zwischen den hohen vertragschliessenden Teilen Einverständnis darüber, dass ihre diplomatischen und konsularischen Beziehungen gemäss den Grundsätzen und der Übung des allgemeinen Völkerrechts fortzusetzen sind. Sie kommen überein, dass die diplomatischen und konsularischen Vertreter eines jeden von ihnen im Gebiete des andern die Behandlung erfahren sollen, die durch die Grundsätze und die Übung des allgemeinen Völkerrechts festgelegt ist und die, unter der Bedingung der Gegenseitigkeit, nicht weniger günstig sein darf als die den diplomatischen und konsularischen Vertretern des am meisten begünstigten Landes gewährte Behandlung.
+
+[^2-1]: Siehe auch das Wiener Übereink. vom 18. April 1961 über diplomatische Beziehungen ([SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)) und das Wiener Übereink. vom 24. April 1963 über konsularische Beziehungen ([SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)).
+
+#### Art. 3
+
+Es besteht zwischen den hohen vertragschliessenden Teilen Einverständnis darüber, dass ihre Beziehungen hinsichtlich der Konsulate, des Handels und der Zölle sowie die Bedingungen der Niederlassung und des Aufenthaltes der Staatsangehörigem des einen Teils auf dem Gebiete des andern durch ein Niederlassungsabkommen[^3-1], ein Handels- und Zollabkommen[^3-2] sowie ein Konsularabkommen gemäss den Grundsätzen und der Übung des allgemeinen Völkerrechts und auf der Grundlage vollkommener Gleichheit und Gegenseitigkeit geregelt werden sollen.
+
+[^3-1]: [SR 0.142.114.362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/285)
+[^3-2]: Siehe heute den Briefwechsel vom 1. Febr. 1964 über die wirtschaftlichen Beziehungen mit Iran ([SR 0.946.294.362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4241)).
+
+#### Art. 4
+
+Die hohen vertragschliessenden Teile kommen überein, alle Streitigkeiten über die Anwendung oder die Auslegung der Bestimmungen aller abgeschlossenen oder künftigen Verträge und Abkommen, einschliesslich des gegenwärtigen Vertrages, die zwischen ihnen entstehen sollen und die nicht binnen angemessener Frist auf dem gewöhnlichen diplomatischen Wege gütlich geregelt werden können, einem Schiedsverfahren zu unterwerfen.
+
+Diese Bestimmung findet gegebenenfalls auch Anwendung auf die Vorfrage, ob sich die Streitigkeit auf die Auslegung oder Anwendung der erwähnten Verträge und Abkommen bezieht.
+
+Die Entscheidung des Schiedsgerichts ist für die Parteien verbindlich.
+
+Das Schiedsgericht wird auf Begehren eines der vertragschliessenden Teile für jeden Streitfall in folgender Weise gebildet: Innert Frist von drei Monaten nach Einreichung des Antrages bezeichnet jeder der beiden hohen vertragschliessenden Teile einen Schiedsrichter, den er unter seinen eigenen Staatsangehörigen oder unter den Angehörigen eines dritten Staates auswählen kann.
+
+Hat nach Ablauf der erwähnten Frist von drei Monaten der beklagte Staat noch keinen Schiedsrichter bezeichnet, so soll die Wahl eines solchen auf Begehren des klagenden Staates durch den Präsidenten des Ständigen Internationalen Gerichtshof[^4-1] unter den Angehörigen des beklagten Staates vorgenommen werden.
+
+Innert einer Frist von zwei Monaten sollen sich die Parteien über den Wortlaut der Schiedsordnung einigen, die den Streitfall dem Schiedsgericht unterbreiten, dessen Zuständigkeit festsetzt, die strittigen Punkte aufzählt und das Verfahren für die Herbeiführung einer Lösung regelt. Wenn die Frist von zwei Monaten abgelaufen ist, ohne dass die beiden Parteien sich über die Schiedsordnung einigen konnten, so wird die Festsetzung dem vom klagenden Staat angerufenen Schiedsgericht überlassen.
+
+Sofern sich die beiden Schiedsrichter innert Frist von zwei Monaten seit dem Zeitpunkt, wo dem Schiedsgericht diese Aufgabe anvertraut wurde, nicht über eine Schiedsordnung einigen können, oder wenn sie innert einer angemessenen Frist, die übrigens im Reglement über das Verfahren festgesetzt werden soll, den Streitfall nicht beilegen können, so wählen die beiden hohen vertragschliessenden Teile einen Angehörigen eines dritten Staates als Obmann. Können sich die beiden Parteien über die Wahl des Obmanns innert einer Frist von zwei Monaten seit dem Zeitpunkt, in dem der Antrag zur Wahl eines Obmanns gestellt wurde, nicht einigen, so ersuchen sie gemeinsam oder, wenn dieses gemeinsame Gesuch nicht innerhalb einer neuen Frist von zwei Monaten gestellt wird, so ersucht die Partei, die zuerst das Begehren stellt, den Präsidenten des Ständigen Internationalen Gerichtshofs[^4-2], den Obmann unter den Angehörigen irgendeines dritten Staates auszuwählen. Durch Vereinbarung der Parteien kann ihm ein Verzeichnis der Staaten unterbreitet werden, auf die sich die Auswahl beschränken soll. Die Parteien behalten sich vor, sich im voraus für eine bestimmte Zeitdauer über die Bezeichnung des Obmanns zu verständigen.
+
+Ist die Wahl eines Obmanns notwendig geworden und haben sich die beiden vertragschliessenden Teile über die Regelung des nach der Wahl zu befolgenden Verfahrens nicht einigen können, so tritt der Obmann mit den beiden ersten Schiedsrichtern zusammen; das auf diese Weise gebildete Gericht bestimmt sein Verfahren selbst und legt den Streitfall bei.
+
+Alle Entscheide des Schiedsgerichts werden durch Mehrheitsbeschluss getroffen.
+
+Die hohen vertragschliessenden Teile kommen überein, getreu ihren Verpflichtungen als Mitglieder des Völkerbundes auch alle andern Streitigkeiten als diejenigen, die sich auf die Anwendung oder Auslegung von Verträgen oder Abkommen beziehen und die auf dem gewöhnlichen diplomatischen Wege nicht in befriedigender Weise beigelegt werden, nur auf dem Wege friedlicher Erledigung zu regeln. Sie werden in jedem einzelnen Fall durch eine besondere Schiedsordnung das ihnen am besten scheinende Verfahren festsetzen.
+
+Die hohen vertragschliessenden Teile stellen ausserdem fest, dass dieser Artikel der Anwendung der Bestimmungen des von ihnen unterzeichneten Protokolls vom 16. Dezember 1920 über die obligatorische Zuständigkeit des Ständigen Internationalen Gerichtshofes[^4-3] nicht entgegen steht.
+
+[^4-1]: Der Ständige Internationale Gerichtshof wurde aufgelöst durch Beschluss der Völkerbundesversammlung vom 18. April 1946 (BBl **1946** II 1227) und ersetzt durch den Internationalen Gerichtshof ([SR 0.193.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/808)).
+[^4-2]: Siehe die Fussn. zu Abs. 5.
+[^4-3]: Heute: des Internationalen Gerichtshofes (Art. 37 des Statuts des Internationalen Gerichtshofes – [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
+
+#### Art. 5
+
+Der Vertrag soll ratifiziert und die Ratifikationsurkunden sollen sobald als möglich in Bern ausgetauscht werden. Er wird mit dem Austausch der Ratifikationsurkunden in Kraft treten.
+
+*Zu Urkund dessen* haben die beiderseitigen Bevollmächtigten den gegenwärtigen Vertrag unterzeichnet und ihre Siegel beigesetzt. Geschehen in doppelter Ausfertigung zu Bern, am fünfundzwanzigsten April neunzehnhundertvierunddreissig. Motta A. H. Foroughi
+
+Schlussprotokoll
+
+Im Augenblick der Unterzeichnung des am heutigen Tage zwischen der Schweizerischen Eidgenossenschaft und dem Kaiserreich Persien abgeschlossenen Freundschaftsvertrages haben die unterzeichneten Bevollmächtigten nachstehende Erklärung abgegeben, die einen integrierenden Bestandteil des Vertrages bildet:
+
+Die beiden hohen vertragschliessenden Teile behalten sich das Recht vor, die Bestimmungen von Artikel 4 des gegenwärtigen Freundschaftsvertrages nach Ablauf einer Frist von zehn Jahren nach Inkrafttreten des Vertrages einer erneuten Prüfung zu unterziehen und sogar zu kündigen.
+
+Bern, den 25. April 1934.
+
+<table>
+<tr><td>Motta</td><td>A. H. Foroughi</td></tr>
+</table>

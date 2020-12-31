@@ -1,0 +1,1228 @@
+---
+sr: "611.0"
+title: Legge federale del 7 ottobre 2005 sulle finanze della Confederazione (LFC)
+short: LFC
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
+language: it
+version: 2016-01-01
+adopted: 2005-10-07
+in_force: 2006-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2006-227-20160101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20160101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sulle finanze della Confederazione
+
+(LFC)
+
+del 7 ottobre 2005 (Stato 1° gennaio 2016)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 126 e 173 capoverso 2 della Costituzione federale (Cost.)[^ingress-1]; visto il messaggio del Consiglio federale del 24 novembre 2004[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto e scopi**
+
+<sup>1</sup> La presente legge disciplina il consuntivo, la gestione globale delle finanze, la gestione finanziaria a livello amministrativo e la presentazione dei conti della Confederazione.
+
+<sup>2</sup>
+
+La presente legge ha lo scopo di:
+
+- a.
+
+  consentire all’Assemblea federale e al Consiglio federale:
+
+  - 1\. di esercitare efficacemente le proprie competenze finanziarie costituzionali,
+  - 2\.[^1-1] di disporre degli strumenti e delle basi decisionali necessari per una gestione delle finanze federali orientata agli obiettivi e ai risultati;
+
+- b. sostenere la gestione amministrativa secondo i principi dell’economia aziendale e favorire l’impiego economico ed efficace dei fondi pubblici.
+
+[^1-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 2
+
+**Campo di applicazione**
+
+La presente legge si applica:
+
+- a. all’Assemblea federale, compresi i Servizi del Parlamento;
+- b. ai tribunali della Confederazione e alle commissioni di arbitrato e di ricorso;
+- b<sup>bis</sup>.[^2-1] al Ministero pubblico della Confederazione e all’autorità di vigilanza sul Ministero pubblico della Confederazione;
+- c. al Consiglio federale;
+- d. ai dipartimenti, alle loro segreterie generali e alla Cancelleria federale;
+- e. ai gruppi e agli uffici;
+- f. alle unità amministrative dell’Amministrazione federale decentralizzata che non tengono una contabilità propria.
+
+[^2-1]: Introdotta dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 3
+
+**Definizioni**
+
+<sup>1</sup>
+
+Le *uscite* sono pagamenti a terzi che:
+
+- a. riducono il patrimonio (uscite correnti);
+- b. creano valori patrimoniali direttamente destinati a scopi amministrativi (uscite per investimenti).
+
+<sup>2</sup>
+
+Le *entrate* sono pagamenti di terzi che:
+
+- a. aumentano il patrimonio (entrate correnti);
+- b. avvengono a titolo di compenso per l’alienazione di beni amministrativi (entrate per investimenti).
+
+<sup>3</sup> Si considera *spesa* tutta la diminuzione di valore nell’arco di un determinato periodo di tempo.
+
+<sup>4</sup> Si considera *ricavo* tutto l’aumento di valore nell’arco di un determinato periodo di tempo.
+
+<sup>5</sup> I *beni* *amministrativi* comprendono i valori patrimoniali che servono direttamente all’adempimento dei compiti pubblici.
+
+<sup>6</sup> I *beni* *patrimoniali* comprendono tutti i valori patrimoniali rimanenti.
+
+<sup>7</sup> Nei *gruppi di prestazioni* sono riunite le prestazioni di un’unità amministrativa con le quali si intendono raggiungere obiettivi simili.[^3-1]
+
+[^3-1]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+## Capitolo 2: Consuntivo
+
+#### Art. 4
+
+**Competenza**
+
+Il Consiglio federale sottopone ogni anno il consuntivo all’Assemblea federale per approvazione.
+
+#### Art. 5
+
+**Contenuto**
+
+Il consuntivo della Confederazione comprende:
+
+- a.
+
+  il conto della Confederazione, composto da:
+
+  - 1\. il commento finanziario,
+  - 2\. il conto annuale della Confederazione,
+  - 3\. i conti delle istituzioni e delle unità amministrative menzionate nell’articolo 2;
+
+- b. i conti annuali di unità amministrative dell’Amministrazione federale decentralizzata e dei fondi della Confederazione che tengono una contabilità propria, nel caso in cui l’Assemblea federale sia tenuta ad approvarla (conti speciali).
+
+#### Art. 6
+
+**Conto annuale della Confederazione**[^6-1]
+
+Il conto annuale della Confederazione comprende:
+
+- a. il conto di finanziamento;
+- b. il conto economico;
+- c. il conto degli investimenti;
+- d. il conto dei flussi di tesoreria;
+- e. il bilancio;
+- f. la documentazione del capitale proprio;
+- g. l’allegato.
+
+[^6-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 7
+
+**Conto di finanziamento**[^7-1]
+
+<sup>1</sup> Il conto di finanziamento documenta il risultato dei finanziamenti in funzione delle uscite e delle entrate.
+
+<sup>2</sup> Indica il risultato ordinario e il risultato straordinario.
+
+[^7-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 8
+
+**Conto economico**
+
+<sup>1</sup> Il conto economico documenta le spese e i ricavi di un periodo contabile; indica il risultato operativo, il risultato finanziario e il risultato da partecipazioni rilevanti.[^8-1]
+
+<sup>2</sup> Il conto economico è articolato in tipi di spese e di ricavi.
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 8a
+
+**Conto degli investimenti**[^8a-1]
+
+<sup>1</sup> Il conto degli investimenti documenta le uscite e le entrate per investimenti.
+
+<sup>2</sup> Indica il risultato ordinario e il risultato straordinario.
+
+[^8a-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 8b
+
+**Conto dei flussi di tesoreria**[^8b-1]
+
+<sup>1</sup> Il conto dei flussi di tesoreria documenta la variazione delle liquidità e degli investimenti di denaro a breve termine.
+
+<sup>2</sup> Indica i flussi di tesoreria derivanti dall’attività operativa, dagli investimenti e dai finanziamenti.
+
+[^8b-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 9
+
+**Bilancio**
+
+<sup>1</sup> Il bilancio documenta i valori patrimoniali (attivi) nonché gli impegni e il capitale proprio (passivi).
+
+<sup>2</sup> I valori patrimoniali sono articolati in beni patrimoniali e beni amministrativi.
+
+<sup>3</sup> Gli impegni sono articolati in capitale di terzi a breve e a lunga scadenza e in fondi a destinazione vincolata.
+
+#### Art. 9a
+
+**Documentazione del capitale proprio**[^9a-1]
+
+<sup>1</sup> La documentazione del capitale proprio indica le ripercussioni delle operazioni finanziarie contabilizzate sulle diverse componenti del capitale proprio.
+
+<sup>2</sup> Le spese e i ricavi accreditati o addebitati direttamente al capitale proprio devono essere documentati separatamente.
+
+[^9a-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 10
+
+**Allegato**
+
+L’allegato al conto annuale della Confederazione:
+
+- a. menziona la normativa tecnica da applicare alla presentazione dei conti e motiva le deroghe;
+- b. riassume i principi della presentazione dei conti, compresi i principi essenziali dell’iscrizione a bilancio e della valutazione;
+- c. illustra in forma concisa i dettagli essenziali relativi alle altre parti del conto annuale;
+- d. contiene ulteriori indicazioni importanti per valutare la situazione inerente al patrimonio e ai ricavi, gli impegni e i rischi finanziari;
+- e.[^10-1] *...*
+- f. menziona i metodi e i tassi di ammortamento;
+- g.[^10-2] *...*
+
+[^10-1]: Abrogata dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), con effetto dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^10-2]: Abrogata dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), con effetto dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 11
+
+**Conto delle istituzioni e delle unità amministrative**
+
+<sup>1</sup>
+
+Il conto delle istituzioni e delle unità amministrative (art. 5 lett. a n. 3) costituisce la base per:
+
+- a. lo stanziamento dei crediti e la stima dei ricavi e delle entrate;
+- b. la giustificazione dell’impiego dei fondi.
+
+<sup>2</sup>
+
+Il conto di un’istituzione o di un’unità amministrativa comprende:
+
+- a. il conto economico;
+- b. il conto degli investimenti;
+- c.[^11-1] il rendiconto sui gruppi di prestazioni.
+
+<sup>3</sup>
+
+Il conto economico si compone:
+
+- a. delle rubriche di spesa;
+- b. delle rubriche di ricavo.
+
+<sup>4</sup>
+
+Il conto degli investimenti si compone:
+
+- a. degli investimenti in beni e servizi, mutui, partecipazioni e contributi per investimenti;
+- b. delle entrate provenienti dall’alienazione di beni e servizi e dai rimborsi delle uscite per investimenti.
+
+<sup>5</sup>
+
+Il rendiconto sui gruppi di prestazioni comprende:
+
+- a. obiettivi, parametri e informazioni contestuali;
+- b. le rubriche di spesa e le rubriche di ricavo;
+- c. le uscite per investimenti e le entrate per investimenti.[^11-2]
+
+<sup>6</sup>
+
+Indica segnatamente:
+
+- a. il numero di collaboratori espresso in equivalenti a tempo pieno;
+- b. le spese per beni e servizi informatici;
+- c. le spese per consulenze esterne.[^11-3]
+
+[^11-1]: Introdotta dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^11-2]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^11-3]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+## Capitolo 3: Gestione globale delle finanze federali
+
+### Sezione 1: Principi
+
+#### Art. 12
+
+<sup>1</sup> L’Assemblea federale e il Consiglio federale mantengono a lungo termine l’equilibrio tra uscite ed entrate; in tal ambito s’improntano all’articolo 126 della Costituzione federale (freno all’indebitamento).
+
+<sup>2</sup> Nel gestire le finanze federali tengono conto sia dell’ottica di finanziamento sia dell’ottica dei risultati.
+
+<sup>3</sup> Per quanto possibile, provvedono affinché le decisioni di finanziamento siano in sintonia con quelle di merito.
+
+<sup>4</sup> Il Consiglio federale e l’Amministrazione gestiscono le finanze federali secondo i principi della legalità, dell’urgenza e della parsimonia. Provvedono a impiegare i fondi in modo efficace ed economico.
+
+### Sezione 2: Freno all’indebitamento
+
+#### Art. 13
+
+**Importo massimo delle uscite totali**
+
+<sup>1</sup> L’importo massimo delle uscite totali da stanziare nel preventivo ai sensi dell’articolo 126 capoverso 2 della Costituzione federale equivale al prodotto delle entrate stimate e del fattore congiunturale.
+
+<sup>2</sup> Nel determinare le entrate stimate non sono prese in considerazione le entrate straordinarie. Sono considerate tali in particolare le entrate straordinarie da investimenti e le entrate straordinarie da regalie e concessioni.
+
+<sup>3</sup> Il fattore congiunturale equivale al quoziente del prodotto interno lordo a prezzi costanti stimato secondo la tendenza a lungo termine epurata da valori esterni e del prodotto interno lordo a prezzi costanti stimato per l’anno di preventivo.
+
+#### Art. 14
+
+**Considerazione dell’importo massimo**
+
+Il Consiglio federale e l’Assemblea federale prendono in considerazione l’importo massimo per l’esame di tutti i progetti aventi ripercussioni finanziarie.
+
+#### Art. 15
+
+**Aumento dell’importo massimo**
+
+<sup>1</sup>
+
+L’Assemblea federale può, al momento dell’adozione del preventivo o dei crediti aggiuntivi, aumentare l’importo massimo di cui all’articolo 126 capoverso 2 della Costituzione federale in caso di:
+
+- a. eventi eccezionali che sfuggono al controllo della Confederazione;
+- b. adeguamenti del modello contabile;
+- c. concentrazione di pagamenti dovuta al sistema contabile.
+
+<sup>2</sup> Un aumento è possibile, tuttavia, soltanto se il fabbisogno finanziario supplementare ammonta almeno allo 0,5 per cento dell’importo massimo.
+
+#### Art. 16
+
+**Conto di compensazione**
+
+<sup>1</sup> Dopo l’approvazione del consuntivo, l’importo massimo fissato per le uscite totali dell’anno precedente è rettificato sulla base delle entrate ordinarie effettivamente conseguite.[^16-1]
+
+<sup>2</sup> Se le uscite totali iscritte nel consuntivo sono superiori o inferiori all’importo massimo rettificato, la differenza è addebitata o accreditata a un conto di compensazione distinto dal consuntivo.
+
+[^16-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17
+
+**Disavanzi del conto di compensazione**
+
+<sup>1</sup> I disavanzi del conto di compensazione devono essere compensati sull’arco di più anni per il tramite della riduzione dell’importo massimo di cui agli articoli 13 o 15.
+
+<sup>2</sup> Se il disavanzo supera il 6 per cento delle uscite totali dell’esercizio annuale precedente, la compensazione deve essere eseguita entro i tre esercizi annuali successivi.
+
+#### Art. 17a
+
+**Conto di ammortamento**[^17a-1]
+
+<sup>1</sup> Le entrate o le uscite straordinarie iscritte nel consuntivo sono accreditate o addebitate a un conto di ammortamento distinto dal consuntivo.
+
+<sup>2</sup>
+
+Nel conto di ammortamento non vengono tuttavia allibrate:
+
+- a. le entrate straordinarie a destinazione vincolata;
+- b. le uscite straordinarie coperte da entrate secondo la lettera a.
+
+[^17a-1]: Introdotto dal n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17b
+
+**Disavanzi del conto di ammortamento**[^17b-1]
+
+<sup>1</sup> I disavanzi del conto di ammortamento dell’esercizio annuale precedente devono essere compensati sull’arco dei sei esercizi annuali successivi per il tramite della riduzione dell’importo massimo di cui agli articoli 13 o 15.
+
+<sup>2</sup> Se il disavanzo del conto di ammortamento supera di oltre lo 0,5 per cento l’importo massimo di cui all’articolo 126 capoverso 2 della Costituzione federale, il termine previsto dal capoverso 1 decorre nuovamente.
+
+<sup>3</sup> In casi particolari, l’Assemblea federale può prolungare i termini previsti dai capoversi 1 e 2.
+
+<sup>4</sup> L’obbligo di equilibrare il conto di ammortamento è differito fintantoché non sia eliminato il disavanzo del conto di compensazione di cui all’articolo 17.
+
+<sup>5</sup> L’Assemblea federale determina ogni anno l’ammontare delle riduzioni in occasione dell’adozione del preventivo.
+
+[^17b-1]: Introdotto dal n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17c
+
+**Risparmi a titolo precauzionale**[^17c-1]
+
+<sup>1</sup> Al fine di compensare disavanzi prevedibili del conto di ammortamento, l’Assemblea federale può, al momento dell’adozione del preventivo, ridurre l’importo massimo di cui agli articoli 13 o 15.
+
+<sup>2</sup> La riduzione presuppone che il conto di compensazione di cui all’articolo 16 sia almeno in pareggio.
+
+[^17c-1]: Introdotto dal n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17d
+
+**Accrediti al conto di ammortamento**[^17d-1]
+
+Le riduzioni di cui agli articoli 17*b* capoverso 1 o 17*c* sono accreditate al conto di ammortamento, purché l’accredito non gravi il conto di compensazione.
+
+[^17d-1]: Introdotto dal n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 18
+
+**Misure di risparmio**
+
+<sup>1</sup>
+
+Il Consiglio federale realizza le riduzioni di cui agli articoli 17, 17*b* capoverso 1 o 17*c* come segue:[^18-1]
+
+- a. decreta risparmi supplementari nel proprio ambito di competenza;
+- b. propone all’Assemblea federale le modifiche di legge necessarie per conseguire risparmi supplementari; in tal ambito tiene conto del diritto di partecipazione dei Cantoni.
+
+<sup>2</sup> Nell’elaborazione e nell’esecuzione del preventivo il Consiglio federale fa uso delle possibilità di risparmio esistenti. A tal fine può bloccare i crediti a preventivo e d’impegno già stanziati. Sono fatte salve le pretese legali e le prestazioni assegnate con decisioni passate in giudicato.
+
+<sup>3</sup> Se il disavanzo del conto di compensazione supera la percentuale di cui all’articolo 17 capoverso 2, l’Assemblea federale decide in merito alle proposte del Consiglio federale secondo il capoverso 1 lettera b durante la stessa sessione, dichiara urgenti le sue leggi in materia e le mette immediatamente in vigore (art. 165 Cost.); essa è vincolata dall’importo del risparmio fissato dal Consiglio federale.
+
+[^18-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+### Sezione 3: Pianificazione finanziaria e limite di spesa
+
+#### Art. 19
+
+**Pianificazione finanziaria**
+
+<sup>1</sup>
+
+Il Consiglio federale allestisce una pianificazione finanziaria pluriennale; essa si riferisce ai tre anni successivi a quello del preventivo. La pianificazione finanziaria documenta:
+
+- a. il fabbisogno di finanziamento prospettato nel periodo di pianificazione;
+- b. la copertura del fabbisogno di finanziamento prospettato;
+- c. le spese e i ricavi presumibili;
+- d.[^19-1] i gruppi di prestazioni e i relativi obiettivi di prestazione e di efficacia.
+
+<sup>2</sup> Se propone all’Assemblea federale crediti per progetti non previsti nella pianificazione finanziaria, il Consiglio federale espone nel contempo le modalità di finanziamento dell’onere supplementare.
+
+<sup>3</sup> Il Consiglio federale coordina quanto possibile la pianificazione finanziaria della Confederazione con quella dei Cantoni.
+
+<sup>4</sup> Il contenuto e l’articolazione della pianificazione finanziaria sono retti dagli articoli 143 capoverso 2 e 146 capoverso 4 della legge del 13 dicembre 2002[^19-2] sul Parlamento.[^19-3]
+
+[^19-1]: Introdotta dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^19-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^19-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 20
+
+**Limite di spesa**
+
+<sup>1</sup> Per limite di spesa s’intende l’importo massimo dei crediti a preventivo stabilito dall’Assemblea federale per determinate spese durante un periodo pluriennale.
+
+<sup>2</sup> Un limite di spesa può essere stabilito in particolare se i crediti sono assegnati e pagati lo stesso anno, se esiste un margine d’apprezzamento e se simultaneamente risulta opportuno orientare le spese a lungo termine.
+
+<sup>3</sup> Il limite di spesa non costituisce uno stanziamento di crediti.
+
+### Sezione 4: Crediti d’impegno
+
+#### Art. 21
+
+**Definizione e campo di applicazione**
+
+<sup>1</sup> Un credito d’impegno dev’essere chiesto di norma qualora debbano essere contratti impegni finanziari la cui durata supera l’anno di preventivo.
+
+<sup>2</sup> Il credito d’impegno determina l’ammontare entro cui il Consiglio federale può contrarre impegni finanziari per uno scopo determinato.
+
+<sup>3</sup> Il credito d’impegno è limitato nel tempo soltanto se lo prevede il decreto di stanziamento.
+
+<sup>4</sup>
+
+I crediti d’impegno sono segnatamente necessari per:
+
+- a. progetti di costruzione e acquisti di immobili;
+- b. locazioni immobiliari a lungo termine di notevole portata finanziaria;
+- c. programmi di sviluppo e di acquisto;
+- d. assegnazione di sussidi pagabili soltanto in esercizi futuri;
+- e. assunzione di fideiussioni e di altre garanzie.
+
+<sup>5</sup> Il fabbisogno di mezzi finanziari per gli impegni va iscritto di volta in volta nel preventivo come spesa o uscita per investimenti.
+
+#### Art. 22
+
+**Calcolo**
+
+<sup>1</sup> I crediti d’impegno sono calcolati sul fondamento di stime condotte diligentemente e secondo le regole tecniche.
+
+<sup>2</sup> Il Consiglio federale risponde della valutazione circa il fabbisogno finanziario. L’unità amministrativa incaricata di approntare la domanda di credito deve indicare nella medesima gli elementi di calcolo e i fattori d’incertezza; occorrendo, deve espressamente prevedere e indicare le opportune riserve.
+
+<sup>3</sup> Ove sia necessario per chiarire la portata e le ripercussioni finanziarie di progetti complessi, l’unità amministrativa deve domandare previamente un credito di studio.
+
+#### Art. 23
+
+**Stanziamento**
+
+<sup>1</sup> L’Assemblea federale determina con ordinanza in quali casi le domande di crediti d’impegno devono esserle sottoposte con messaggio speciale.
+
+<sup>2</sup> Il Consiglio federale può sottoporre all’Assemblea federale con messaggio speciale domande di credito politicamente importanti.
+
+<sup>3</sup> Per il rimanente, i crediti sono stanziati con decreti sul preventivo e le relative aggiunte.
+
+#### Art. 24
+
+**Ripartizione**
+
+Se un credito d’impegno è destinato a uno scopo definito genericamente o a parecchi progetti, il Consiglio federale ne stabilisce la ripartizione, in quanto essa non risulti dall’atto di stanziamento.
+
+#### Art. 25
+
+**Controllo**
+
+L’unità amministrativa tiene un registro di controllo dell’utilizzazione del credito d’impegno da cui si devono poter evincere gli impegni assunti e quelli che dovranno ancora essere contratti affinché il progetto possa essere compiutamente attuato.
+
+#### Art. 26
+
+**Rendiconto**
+
+<sup>1</sup> Il Consiglio federale rende conto dello stato dei crediti d’impegno assieme al consuntivo.
+
+<sup>2</sup> Se il progetto è stato attuato, la parte inutilizzata del credito d’impegno decade.
+
+#### Art. 27
+
+**Crediti aggiuntivi**
+
+<sup>1</sup> Se, prima o durante l’attuazione di un progetto, risulta che il credito d’impegno già stanziato è insufficiente, il Consiglio federale deve domandare senza indugio un credito aggiuntivo.
+
+<sup>2</sup> Per i maggiori costi dovuti al rincaro o alle variazioni monetarie, esso può chiedere il credito aggiuntivo dopo l’esecuzione del progetto.
+
+<sup>3</sup> I pagamenti non devono in nessun caso superare il credito d’impegno stanziato.
+
+#### Art. 28
+
+**Urgenza**[^28-1]
+
+<sup>1</sup> Per i progetti la cui esecuzione non ammette rinvii, il Consiglio federale può autorizzare l’avvio o il proseguimento dei lavori prima dello stanziamento del credito d’impegno. Domanda previamente il consenso della Delegazione delle finanze delle Camere federali (Delegazione delle finanze).
+
+<sup>2</sup> Gli impegni urgenti che il Consiglio federale ha assunto sono poi sottoposti per approvazione all’Assemblea federale.
+
+<sup>3</sup> Se l’impegno urgente supera i 500 milioni di franchi e se, per la sua successiva approvazione, è chiesta la convocazione dell’Assemblea federale in sessione straordinaria entro una settimana dal consenso della Delegazione delle finanze, questa sessione si svolge nella terza settimana successiva al deposito della domanda di convocazione.
+
+[^28-1]: Nuovo testo giusta il n. I 3 della LF del 17 dic. 2010 concernente la salvaguardia della democrazia, dello Stato di diritto e della capacità di agire in situazioni straordinarie, in vigore dal 1° mag. 2011 ([RU 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1393](https://fedlex.data.admin.ch/eli/fga/2010/271)[2473](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+
+### Sezione 5: Preventivo e aggiunte
+
+#### Art. 29
+
+**Competenza**
+
+<sup>1</sup> L’Assemblea federale adotta il preventivo annuale secondo il disegno sottopostole dal Consiglio federale entro la fine di agosto.
+
+<sup>2</sup>
+
+Può stabilire per singoli gruppi di prestazioni:
+
+- a. obiettivi, parametri e valori di riferimento;
+- b. valori finanziari di pianificazione.[^29-1]
+
+<sup>3</sup>
+
+I valori finanziari di pianificazione concernono:
+
+- a. le spese e i ricavi;
+- b. le uscite per investimenti e le entrate per investimenti.[^29-2]
+
+[^29-1]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^29-2]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 30
+
+**Contenuto**
+
+<sup>1</sup> Il preventivo segue, per contenuto e articolazione, il consuntivo della Confederazione, ma non comprende alcun conto dei flussi di tesoreria né alcun bilancio né alcuna documentazione del capitale proprio.[^30-1]
+
+<sup>2</sup>
+
+Il preventivo contiene:
+
+- a. l’autorizzazione delle spese e delle uscite per investimenti (crediti a preventivo);
+- b. la stima dei ricavi e delle entrate da investimenti;
+- c. le uscite totali autorizzate e le entrate totali stimate.
+
+<sup>3</sup>
+
+I dati di cui al capoverso 2 lettere a e b sono articolati secondo:
+
+- a. unità amministrative;
+- b. scopo dell’impiego e provenienza dei fondi.[^30-2]
+
+<sup>4</sup> Nel messaggio sul preventivo il Consiglio federale indica le singole voci di bilancio che ha introdotto, soppresso, disgiunto o riunito rispetto all’esercizio precedente.
+
+[^30-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^30-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 30a
+
+**Preventivi globali**[^30a-1]
+
+<sup>1</sup> Le unità amministrative sono gestite nel proprio settore amministrativo mediante preventivi globali.
+
+<sup>2</sup>
+
+Di massima, i preventivi globali comprendono:
+
+- a. le spese di funzionamento e le uscite per investimenti;
+- b. i ricavi di funzionamento e le entrate per investimenti.
+
+<sup>3</sup> Le unità amministrative con investimenti considerevoli documentano le uscite ed entrate per investimenti in preventivi globali speciali.
+
+<sup>4</sup>
+
+Un’unità amministrativa può superare le spese e le uscite per investimenti approvate nei preventivi globali se:
+
+- a. riesce a coprire il sorpasso entro l’anno contabile mediante ricavi supplementari non preventivati e derivanti da prestazioni fornite; o
+- b. scioglie le riserve costituite secondo l’articolo 32*a*.
+
+<sup>5</sup> Per finanziare importanti misure a carattere individuale e progetti possono essere stanziati crediti fuori dei preventivi globali.
+
+[^30a-1]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 31
+
+**Principi**
+
+<sup>1</sup> L’allestimento e l’esecuzione del preventivo avvengono secondo i principi dell’espressione al lordo, dell’integralità, dell’annualità e della specificazione.
+
+<sup>2</sup> Per il rimanente si applicano per analogia i principi di cui all’articolo 47.
+
+#### Art. 32
+
+**Calcolo dei crediti**
+
+<sup>1</sup> I crediti sono stabiliti sul fondamento di una stima diligente del fabbisogno presumibile.
+
+<sup>2</sup> I crediti riguardanti spese presumibili o uscite presumibili per investimenti per le quali manchi ancora il fondamento legale sono comunque iscritti a preventivo; rimangono però bloccati fino all’entrata in vigore del fondamento legale.
+
+<sup>3</sup> Per i provvedimenti che durano oltre un anno, nella motivazione della domanda di credito dev’essere menzionato l’ammontare della spesa totale presunta o dell’investimento globale.
+
+#### Art. 32a
+
+**Riserve**[^32a-1]
+
+<sup>1</sup>
+
+Le unità amministrative possono costituire riserve se:
+
+- a. in seguito a ritardi dovuti a un progetto, non utilizzano o utilizzano solo parzialmente i loro preventivi globali o i crediti stanziati secondo l’articolo 30*a* capoverso 5;
+- b.
+
+  raggiungono sostanzialmente gli obiettivi di prestazione e:
+
+  - 1\. realizzano un maggiore ricavo netto grazie alla fornitura di prestazioni supplementari non preventivate, o
+  - 2\. rimangono al di sotto della spesa preventivata o delle uscite per investimenti preventivate grazie a una fornitura di prestazioni economica.
+
+<sup>2</sup> In merito alla costituzione di riserve l’Assemblea federale decide insieme con il consuntivo.
+
+[^32a-1]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 33
+
+**Aggiunte ordinarie**
+
+<sup>1</sup> Se il preventivo non prevede crediti per una spesa o per un’uscita per investimenti oppure non ne contiene in misura sufficiente, occorre chiedere un credito aggiuntivo.
+
+<sup>2</sup> Il Consiglio federale sottopone periodicamente all’Assemblea federale le domande di crediti aggiuntivi.
+
+<sup>3</sup>
+
+Non sono necessari crediti aggiuntivi per:
+
+- a. partecipazioni non preventivate di terzi a determinate entrate;
+- b. conferimenti a fondi mediante entrate a destinazione vincolata;
+- c.[^33-1] ammortamenti non preventivati, rettificazioni di valore e accantonamenti.
+
+[^33-1]: Nuovo testo giusta il n. I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+#### Art. 34
+
+**Aggiunte urgenti**[^34-1]
+
+<sup>1</sup> Il Consiglio federale può decidere spese o uscite per investimenti non coperte o insufficientemente coperte da crediti ma indifferibili, anche prima che l’Assemblea federale abbia stanziato il credito aggiuntivo. Domanda previamente il consenso della Delegazione delle finanze.
+
+<sup>2</sup> Con la successiva aggiunta al preventivo oppure, se ciò non sia più possibile, con il consuntivo come sorpassi di credito, il Consiglio federale sottopone all’Assemblea federale le spese e uscite urgenti decise con il consenso della Delegazione delle finanze.
+
+<sup>3</sup>
+
+Il Consiglio federale può sottoporre all’Assemblea federale per successiva approvazione le spese e le uscite per investimenti urgenti, senza previo consenso della Delegazione delle finanze, se:
+
+- a. un sorpasso di credito è necessario;
+- b. l’importo nel singolo caso non supera i 5 milioni di franchi.
+
+<sup>4</sup> Se la spesa o l’uscita per investimenti è superiore a 500 milioni di franchi e se, per la sua successiva approvazione, è chiesta la convocazione dell’Assemblea federale in sessione straordinaria entro una settimana dal consenso della Delegazione delle finanze, questa sessione si svolge nella terza settimana successiva al deposito della domanda di convocazione.
+
+[^34-1]: Nuovo testo giusta il n. I 3 della LF del 17 dic. 2010 concernente la salvaguardia della democrazia, dello Stato di diritto e della capacità di agire in situazioni straordinarie, in vigore dal 1° mag. 2011 ([RU 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1393](https://fedlex.data.admin.ch/eli/fga/2010/271)[2473](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+
+#### Art. 35
+
+**Sorpassi di credito**[^35-1]
+
+Sono sottoposti all’Assemblea federale per approvazione a posteriori insieme con il consuntivo:
+
+- a. il sorpasso di preventivi globali secondo l’articolo 30*a* capoverso 4;
+- b.
+
+  le seguenti spese, sempre che non siano già state preventivate:
+
+  - 1\. delimitazioni contabili passive,
+  - 2\. oneri dovuti a differenze tra valute estere o a circolazione monetaria ridotta,
+  - 3\. contributi alle assicurazioni sociali, se per legge sono legati all’evoluzione delle entrate derivanti dall’imposta sul valore aggiunto,
+  - 4\. conferimenti dal bilancio generale della Confederazione al Fondo per il finanziamento dell’infrastruttura ferroviaria;
+
+- c. le aggiunte urgenti che non possono essere presentate con la successiva aggiunta al preventivo (art. 34 cpv. 2).
+
+[^35-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 36
+
+**Riporti di credito**
+
+<sup>1</sup> Se si verificano ritardi nella realizzazione di progetti di investimento, misure a carattere individuale e progetti, il Consiglio federale può riportare all’anno successivo i crediti a preventivo e i crediti aggiuntivi già stanziati dall’Assemblea federale che non sono stati completamente utilizzati.
+
+<sup>2</sup> Sui riporti di credito il Consiglio federale riferisce all’Assemblea federale nei messaggi concernenti le domande di crediti aggiuntivi o, se ciò non fosse possibile, insieme con il consuntivo.
+
+#### Art. 37
+
+**Limitazione delle aggiunte**
+
+Per quanto possibile, l’importo totale delle aggiunte al preventivo non deve superare l’importo totale delle parti dei crediti a preventivo che non saranno probabilmente utilizzate.
+
+### Sezione 6:**** Blocco e liberazione di crediti
+
+[^chap3-sec6-1]
+
+[^chap3-sec6-1]: Introdotta dal n. I della LF del 5 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2008 321](https://fedlex.data.admin.ch/eli/oc/2008/81); [FF 2007 295](https://fedlex.data.admin.ch/eli/fga/2007/48)).
+
+#### Art. 37a
+
+**Blocco di crediti**
+
+Nel decreto federale concernente il preventivo, l’Assemblea federale può bloccare parzialmente:
+
+- a. crediti d’impegno;
+- b. limiti di spesa;
+- c. crediti a preventivo, nella misura in cui comportino spese.
+
+#### Art. 37b
+
+**Liberazione di crediti**
+
+<sup>1</sup>
+
+Il Consiglio federale è autorizzato a sopprimere parzialmente o totalmente un blocco di crediti deciso dall’Assemblea federale, qualora:
+
+- a. una grave recessione lo esiga; o
+- b. debbano essere effettuati pagamenti in forza di un obbligo legale o di una promessa vincolante.
+
+<sup>2</sup> La liberazione di crediti a causa di una grave recessione sottostà all’approvazione dell’Assemblea federale. Circa le altre liberazioni di crediti il Consiglio federale riferisce all’Assemblea federale nei messaggi sulle domande di crediti aggiuntivi o nell’ambito del consuntivo.
+
+## Capitolo 4: Gestione finanziaria a livello amministrativo****
+
+[^chap4-1]
+
+[^chap4-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 38
+
+**Principi di contabilità**
+
+La contabilità è retta dai principi dell’integralità, dell’esattezza, della tempestività e della verificabilità.
+
+#### Art. 39
+
+**Controllo interno**
+
+<sup>1</sup>
+
+Il Consiglio federale adotta le misure necessarie per:
+
+- a. proteggere il patrimonio della Confederazione;
+- b. assicurare l’impiego appropriato dei fondi secondo i principi dell’articolo 12 capoverso 4;
+- c. evitare o scoprire errori e irregolarità nella tenuta dei conti;
+- d. garantire il rispetto delle prescrizioni in materia di presentazione dei conti e l’affidabilità del rendiconto.
+
+<sup>2</sup> A tal fine il Consiglio federale tiene conto della situazione di rischio e del rapporto costi/utilità.
+
+#### Art. 40
+
+**Trasparenza dei costi**
+
+<sup>1</sup> Le unità amministrative tengono una contabilità analitica in funzione delle loro esigenze.
+
+<sup>2</sup> La contabilità analitica coadiuva le unità amministrative nella gestione aziendale e fornisce le basi per elaborare e valutare il preventivo e la presentazione dei conti. Essa assicura la trasparenza dei costi nell’interesse di un’attività amministrativa improntata all’economicità.
+
+<sup>3</sup> La contabilità analitica è retta dalle norme di riferimento definite nelle disposizioni esecutive.
+
+<sup>4</sup> Le rimunerazioni tra le unità amministrative della Confederazione sono ammesse qualora siano indispensabili per calcolare le spese e i ricavi o per adempiere i compiti in modo economico.
+
+#### Art. 41
+
+**Prestazioni commerciali; principio[^41-1]**
+
+Le unità amministrative possono fornire a terzi prestazioni commerciali soltanto per quanto siano autorizzate a farlo a norma di legge.
+
+[^41-1]: Nuovo testo giusta il n. I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+#### Art. 41a
+
+**Prestazioni commerciali; autorizzazioni**[^41a-1]
+
+<sup>1</sup>
+
+In virtù della presente legge le unità amministrative seguenti possono fornire prestazioni commerciali a terzi:
+
+- a. la Centrale viaggi della Confederazione;
+- b. il Centro servizi informatici del Dipartimento federale di giustizia e polizia;
+- c. l’Ufficio federale delle costruzioni e della logistica;
+- d. l’Ufficio federale dell’informatica e della telecomunicazione.
+
+<sup>2</sup>
+
+Le unità amministrative autorizzate possono fornire prestazioni commerciali se queste:
+
+- a. sono strettamente correlate ai compiti principali;
+- b. non pregiudicano l’adempimento dei compiti principali; e
+- c. non richiedono considerevoli risorse materiali o di personale supplementari.
+
+<sup>3</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il Dipartimento competente può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
+
+[^41a-1]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+#### Art. 42 a 46
+
+[^4246-1]
+
+[^4246-1]: Abrogati dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+## Capitolo 5: Presentazione dei conti
+
+### Sezione 1: Principi e norme di riferimento
+
+#### Art. 47
+
+**Principi**
+
+<sup>1</sup> La presentazione dei conti ha lo scopo di esporre la situazione reale inerente al patrimonio, alle finanze e ai ricavi.
+
+<sup>2</sup> La presentazione dei conti è retta dai principi dell’essenzialità, della comprensibilità, della continuità e dell’espressione al lordo.
+
+#### Art. 48
+
+**Norme di riferimento**
+
+<sup>1</sup> La presentazione dei conti è retta da norme generalmente riconosciute.
+
+<sup>2</sup> Il Consiglio federale disciplina i particolari. Consulta previamente le Commissioni delle finanze.
+
+<sup>3</sup> Qualsiasi deroga alle norme dev’essere motivata nell’allegato del conto annuale della Confederazione.
+
+<sup>4</sup> Il Consiglio federale si adopera affinché nella Confederazione, nei Cantoni e nei Comuni siano applicate norme armonizzate di presentazione dei conti. A tal fine può concedere contributi.[^48-1]
+
+[^48-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+### Sezione 2: Iscrizione a bilancio e valutazione
+
+#### Art. 49
+
+**Principi per l’iscrizione a bilancio**
+
+<sup>1</sup>
+
+Gli elementi patrimoniali sono iscritti a bilancio come attivi se:
+
+- a. produrranno un’utilità economica o servono all’adempimento immediato di compiti pubblici; e
+- b. il loro valore può esser determinato in modo affidabile.
+
+<sup>2</sup> Gli impegni esistenti sono iscritti a bilancio come passivi se il loro adempimento comporterà verosimilmente un deflusso di fondi.
+
+<sup>3</sup> Gli accantonamenti sono costituiti per impegni esistenti a proposito dei quali vige incertezza circa il momento dell’adempimento o l’ammontare del futuro deflusso di fondi.
+
+<sup>4</sup> Se richiesto da norme generalmente riconosciute, le garanzie finanziarie e le fideiussioni sono iscritte a bilancio come passivi.[^49-1]
+
+[^49-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 50
+
+**Principi di valutazione**[^50-1]
+
+<sup>1</sup> I beni patrimoniali sono iscritti a bilancio al valore di mercato o al costo ammortizzato.
+
+<sup>2</sup>
+
+I beni amministrativi sono iscritti a bilancio:
+
+- a. al valore di acquisto, dedotti gli ammortamenti e le rettificazioni di valore, oppure al valore di mercato;
+- b.
+
+  in caso di partecipazioni:
+
+  - 1\. se rilevanti, proporzionalmente alla quota detenuta dalla Confederazione nel capitale proprio dell’impresa interessata,
+  - 2\. le rimanenti, al valore di mercato oppure, se tale valore non può essere determinato, al valore di acquisto.
+
+<sup>3</sup> Gli impegni finanziari sono iscritti a bilancio al valore di mercato o al costo ammortizzato.
+
+<sup>4</sup> Si applica il principio della valutazione singola.
+
+[^50-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 51
+
+**Ammortamenti e rettificazioni dei valori**
+
+<sup>1</sup>
+
+I valori di bilancio per gli investimenti materiali sono così ammortizzati:
+
+- a. valori di bilancio pianificati: per tenere conto delle diminuzioni di valore dovute all’utilizzazione ordinaria;
+- b. valori di bilancio non pianificati: per tenere conto di altre diminuzioni di valore.
+
+<sup>2</sup> Se diminuisce il valore di averi e partecipazioni, si rettificano i valori di bilancio. Le rettificazioni dei valori non influiscono sulle pretese della Confederazione nei confronti di terzi.
+
+<sup>3</sup> Gli ammortamenti e le rettificazioni di valore non pianificati si effettuano non appena la diminuzione di valore sia prevedibile.
+
+### Sezione 3: Generi di finanziamento particolari
+
+#### Art. 52
+
+**Fondi speciali**
+
+<sup>1</sup> I fondi speciali sono patrimoni devoluti da terzi alla Confederazione con determinati oneri o provenienti da crediti a preventivo in virtù di disposizioni di legge.
+
+<sup>2</sup> Il Consiglio federale ne regola l’amministrazione tenendo conto di tali oneri o disposizioni di legge.
+
+<sup>3</sup> Le spese e i ricavi sono contabilizzati su conti di bilancio, al di fuori del conto economico.
+
+<sup>4</sup> La presentazione dei conti dei fondi disciplinati da una legge speciale, compresi i fondi con conti speciali ai sensi dell’articolo 5 lettera b, è retta dalle disposizioni della presente legge.[^52-1]
+
+[^52-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 53
+
+**Finanziamenti speciali**
+
+<sup>1</sup> Vi è finanziamento speciale quando talune entrate sono vincolate all’adempimento di un compito determinato. La costituzione di un finanziamento speciale richiede una base legale.
+
+<sup>2</sup> Le uscite che non servono per l’acquisto di valori patrimoniali possono essere iscritte a bilancio come attivi soltanto se devono essere coperte mediante entrate a destinazione vincolata.
+
+#### Art. 54
+
+[^54-1]
+
+[^54-1]: Abrogato dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+### Sezione 4: Consuntivo consolidato
+
+#### Art. 55
+
+<sup>1</sup>
+
+Ai fini della deliberazione sul consuntivo si raggruppano sul piano contabile, secondo il principio del consolidamento integrale:
+
+- a. le istituzioni e le unità amministrative rientranti nel conto della Confederazione (art. 5 lett. a n. 3);
+- b. le unità amministrative e i fondi della Confederazione che presentano un conto speciale nel quadro del consuntivo (art. 5 lett. b);
+- c. le unità amministrative dell’Amministrazione federale decentralizzata che tengono una contabilità propria.
+
+<sup>2</sup>
+
+Il Consiglio federale può, mediante ordinanza:
+
+- a. escludere dal consolidamento integrale le unità amministrative dell’Amministrazione federale decentralizzata che tengono una contabilità propria oppure prescrivere loro l’applicazione dei principi della presentazione dei conti;
+- b.[^55-1] includere nel consolidamento integrale ulteriori organizzazioni strettamente interconnesse con le finanze federali.
+
+<sup>3</sup> Il consuntivo consolidato fornisce una visione globale della situazione inerente al patrimonio, alle finanze e ai ricavi, rettificata quanto alle interrelazioni interne. Le partecipazioni rilevanti possono essere incluse nel consolidamento proporzionalmente al loro capitale proprio.[^55-2]
+
+[^55-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^55-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).).
+
+## Capitolo 6: Compiti e attribuzioni dell’Amministrazione federale
+
+#### Art. 56
+
+**Dipartimenti e Cancelleria federale**
+
+<sup>1</sup> I dipartimenti e la Cancelleria federale perseguono, unitamente al Consiglio federale e all’Assemblea federale, gli obiettivi superiori in materia di politica finanziaria e di bilancio.
+
+<sup>2</sup>
+
+In particolare, i dipartimenti e la Cancelleria federale:
+
+- a. pianificano, gestiscono e coordinano il sistema finanziario nel proprio ambito;
+- b. provvedono a una visione globale delle finanze delle unità amministrative loro attribuite e promuovono la qualità del sistema contabile nell’ambito di loro competenza;
+- c. emanano, se necessario, istruzioni complementari per l’attuazione delle prescrizioni del Consiglio federale, del Dipartimento federale delle finanze (DFF) e dell’Amministrazione federale delle finanze (AFF);
+- d. coadiuvano il DFF nella preparazione del preventivo e delle relative aggiunte, del consuntivo e del piano finanziario.
+
+#### Art. 57
+
+**Unità amministrative**
+
+<sup>1</sup> Le unità amministrative sono responsabili dell’impiego accurato, economico e parsimonioso dei crediti e valori patrimoniali loro affidati.
+
+<sup>2</sup> Le unità amministrative possono contrarre impegni ed effettuare pagamenti soltanto nel quadro dei crediti stanziati. I crediti possono essere utilizzati unicamente per lo scopo assegnato e per bisogni indispensabili.
+
+<sup>3</sup> L’unità amministrativa che gestisce crediti destinati ai bisogni di più unità amministrative accerta la fondatezza delle loro domande di credito. Per il rimanente, le unità amministrative richiedenti sono responsabili della valutazione dei bisogni.
+
+<sup>4</sup> Di massima un progetto è finanziato da una sola unità amministrativa. Il Consiglio federale può prevedere eccezioni.
+
+#### Art. 58
+
+**Dipartimento federale delle finanze**
+
+<sup>1</sup> Il DFF gestisce le finanze della Confederazione e provvede ad assicurarne una visione globale.
+
+<sup>2</sup> Il DFF prepara, per il Consiglio federale, il preventivo e le relative aggiunte, il consuntivo e il piano finanziario; esso verifica le domande di credito e la stima dei ricavi.
+
+<sup>3</sup> Il DFF esamina, per il Consiglio federale, ogni progetto avente implicazioni finanziarie, per determinare se sia conforme ai principi dell’economicità e dell’efficacia e se il suo costo sia sopportabile.
+
+<sup>4</sup> Il DFF verifica periodicamente se le spese ricorrenti e le uscite per investimenti sono necessarie e appropriate.
+
+#### Art. 59
+
+**Amministrazione federale delle finanze**
+
+<sup>1</sup> Fatte salve disposizioni particolari, l’AFF è responsabile dell’organizzazione uniforme della contabilità, del traffico dei pagamenti e della gestione delle disponibilità finanziarie nell’Amministrazione federale.
+
+<sup>2</sup>
+
+L’AFF è autorizzata a:
+
+- a.
+
+  rappresentare la Confederazione per l’esazione di pretese pecuniarie contestate o la reiezione di pretese pecuniarie infondate:
+
+  - 1\. davanti ai tribunali civili e arbitrali,
+  - 2\. nella proposizione di azioni civili nel processo penale,
+  - 3\. nell’ambito del diritto in materia di esecuzione e fallimento;
+
+- b. rinunciare all’esazione di pretese pecuniarie contestate ove appaia che sarà infruttuosa o che il dispendio amministrativo e la spesa risulteranno sproporzionati rispetto all’ammontare litigioso;
+- c. chiedere alle autorità competenti, comprese le autorità fiscali federali, cantonali e comunali, informazioni circa la situazione inerente al reddito e al patrimonio dei debitori in mora ai fini dell’attuazione di pretese di diritto pubblico.[^59-1]
+
+<sup>3</sup>
+
+Se non vi è alcuna prospettiva di un esito più vantaggioso per la Confederazione, a prescindere da disposizioni previste da leggi speciali, l’AFF può:
+
+- a. approvare concordati;
+- b. cedere ai debitori attestati di carenza di beni e di insufficienza del pegno al di sotto del valore nominale.[^59-2]
+
+[^59-1]: Nuovo testo giusta il n. I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^59-2]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+#### Art. 60
+
+**Tesoreria centrale e raccolta di fondi**
+
+<sup>1</sup> L’AFF gestisce la tesoreria centrale delle istituzioni e unità amministrative soggette alla presente legge e provvede alla solvibilità permanente.[^60-1]
+
+<sup>2</sup> Per garantire la solvibilità, l’AFF può raccogliere fondi sul mercato monetario e su quello finanziario.
+
+<sup>3</sup> Il piano finanziario, il preventivo e il consuntivo includono un prospetto, rispettivamente un rendiconto annuale concernente la tesoreria e la raccolta di fondi.
+
+[^60-1]: Nuovo testo giusta il n. II 8 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+
+#### Art. 60a
+
+**Cassa di risparmio del personale federale**[^60a-1]
+
+<sup>1</sup> Nel quadro della Tesoreria federale l’AFF gestisce la Cassa di risparmio del personale federale (CRPF) al fine di raccogliere fondi per la Confederazione e promuovere l’attività di risparmio. L’AFF può affidare a terzi la gestione della CRPF.
+
+<sup>2</sup>
+
+I conti sono gestiti per conto di:
+
+- a. impiegati dell’Amministrazione federale;
+- b. persone vicine alla Confederazione, segnatamente persone elette o nominate dall’Assemblea federale, dai tribunali federali, dal Consiglio federale o dall’Amministrazione federale;
+- c. altre persone, se la gestione dei conti è nell’interesse della Confederazione, segnatamente per evitare conflitti di interesse.
+
+<sup>3</sup> Il Consiglio federale designa la cerchia delle persone aventi diritto a un conto secondo il capoverso 2. Può prevedere deroghe a tale diritto se, per l’assenza di un legame duraturo con l’organizzazione lavorativa della Confederazione, al rapporto di lavoro manca la vicinanza alla Confederazione o se le spese per la gestione del conto sono sproporzionate.
+
+<sup>4</sup> La Confederazione risponde degli impegni della CRPF e ne assume i costi, sempre che non siano coperti dai clienti.
+
+[^60a-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 60b
+
+**Relazione di conto**[^60b-1]
+
+<sup>1</sup> Sempre che la presente legge o il diritto d’esecuzione non disponga altrimenti, le relazioni di conto della CRPF sono rette dal diritto privato. Le controversie tra la CRPF e i suoi clienti sono giudicate dai tribunali civili.
+
+<sup>2</sup> Oltre ai propri averi, i clienti possono depositare anche averi di parenti prossimi.
+
+<sup>3</sup>
+
+La CRPF può sciogliere la relazione di conto in particolare se:
+
+- a. il mantenimento della relazione di conto viola disposizioni del diritto nazionale o internazionale oppure se il rispetto di tali disposizioni comporta un onere sproporzionato;
+- b. per la CRPF stessa o per la Confederazione vi è il rischio di danni sul piano legale e della reputazione.
+
+<sup>4</sup> Se il cliente non adempie gli obblighi nei suoi confronti, la CRPF può mantenere un conto senza più rimunerarlo e rifiutare la fornitura di altre prestazioni di servizi.
+
+<sup>5</sup> Per le sue prestazioni di servizi la CRPF può chiedere di essere indennizzata a prezzi che consentano di coprire i costi.
+
+[^60b-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 60c
+
+**Trattamento dei dati**[^60c-1]
+
+<sup>1</sup>
+
+La CRPF tratta in forma cartacea e in un sistema d’informazione i dati dei suoi clienti, compresi i dati personali degni di particolare protezione e i profili della personalità, di cui ha bisogno per adempiere i propri compiti, in particolare per:
+
+- a. gestire i conti;
+- b. eseguire il traffico dei pagamenti; e
+- c. fornire consulenza sull’offerta di prestazioni.
+
+<sup>2</sup> Gli impiegati della CRPF e i terzi incaricati della gestione tecnica, dell’esecuzione del traffico dei pagamenti e della rilevazione dei dati hanno accesso al sistema d’informazione, per quanto sia necessario per l’adempimento dei loro compiti.
+
+<sup>3</sup> Per l’adempimento dei propri compiti, gli impiegati della CRPF possono trasmettere dati personali, compresi dati personali degni di particolare protezione e profili della personalità, ai propri superiori diretti, anche se questi ultimi non sono impiegati della CRPF.
+
+<sup>4</sup> Al fine di verificare il diritto a un conto e di adempiere gli obblighi secondo la legge del 10 ottobre 1997[^60c-2] sul riciclaggio di denaro, la CRPF scambia regolarmente dati personali con l’Ufficio federale del personale, con altri datori di lavoro dei clienti e con PUBLICA. Lo scambio di dati è reciproco.
+
+<sup>5</sup> La CRPF è responsabile della protezione dei dati e della sicurezza del sistema d’informazione.
+
+<sup>6</sup>
+
+Il Consiglio federale:
+
+- a. definisce i dati personali che possono essere trattati;
+- b. stabilisce i termini di conservazione e disciplina la distruzione dei dati allo scadere del termine.
+
+[^60c-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^60c-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 61
+
+**Aggregazione alla tesoreria centrale**
+
+<sup>1</sup> Fatte salve disposizioni derogatorie contenute in altre leggi federali, l’AFF può aggregare alla tesoreria centrale, per l’amministrazione delle loro liquidità, le unità amministrative dell’Amministrazione federale decentralizzata che tengono una contabilità propria.
+
+<sup>2</sup> L’AFF e l’unità amministrativa aggregata definiscono di comune intesa i particolari dell’aggregazione.
+
+#### Art. 62
+
+**Investimento di capitali disponibili**
+
+<sup>1</sup> L’AFF investe i capitali che superano i bisogni di tesoreria in modo tale che ne sia garantita la sicurezza e un ricavo conforme al mercato. Tali capitali devono essere inclusi nei beni patrimoniali.
+
+<sup>2</sup> L’acquisto di fondi o di diritti di partecipazione a imprese con fine lucrativo non è permesso a scopo d’investimento.
+
+<sup>3</sup> I capitali di fondi speciali, costituiti in virtù di un atto normativo, possono essere investiti conformemente alle disposizioni in materia di previdenza professionale.
+
+## Capitolo 7: Disposizioni finali
+
+#### Art. 63
+
+**Esecuzione**
+
+<sup>1</sup> Il Consiglio federale emana le disposizioni esecutive.
+
+<sup>2</sup>
+
+Il Consiglio federale determina in particolare:
+
+- a. il piano contabile generale;
+- b. i principi contabili;
+- c. i metodi e i tassi d’ammortamento;
+- d. le sottocategorie dei crediti a preventivo e d’impegno.
+
+#### Art. 63a
+
+**Valutazione del nuovo modello di gestione della Confederazione**[^63a-1]
+
+Il Consiglio federale presenta all’Assemblea federale, al più tardi sei anni dopo l’entrata in vigore della modifica del 26 settembre 2014, un rapporto di valutazione sull’attuazione e l’efficacia del nuovo modello di gestione della Confederazione.
+
+[^63a-1]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 64
+
+**Diritto previgente: abrogazione**
+
+La legge del 6 ottobre 1989[^64-1] sulle finanze della Confederazione è abrogata.
+
+[^64-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3 [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114)[4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
+
+#### Art. 65
+
+**Modifica del diritto vigente**
+
+Le leggi federali qui appresso sono modificate come segue:
+
+…[^65-1]
+
+[^65-1]: Le mod. possono essere consultate alla [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)
+
+#### Art. 66
+
+**Disposizioni transitorie della modifica del 20 marzo 2009**[^66-1]
+
+<sup>1</sup> Al momento dell’entrata in vigore della presente modifica, il saldo del conto di compensazione di cui all’articolo 16 capoverso 2 si riduce di un miliardo di franchi.
+
+<sup>2</sup> L’articolo 17*a* si applica a tutte le entrate e uscite straordinarie dell’esercizio annuale in corso al momento dell’entrata in vigore della presente modifica.
+
+[^66-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 66a
+
+**Disposizioni transitorie della modifica del 26 settembre 2014**[^66a-1]
+
+<sup>1</sup>
+
+Il diritto anteriore resta applicabile:
+
+- a. all’esecuzione dell’ultimo preventivo adottato prima dell’entrata in vigore della presente modifica;
+- b. alla preparazione, alla presentazione e all’approvazione del relativo consuntivo.
+
+<sup>2</sup>
+
+Per le unità amministrative gestite mediante mandati di prestazione e preventivo globale secondo l’articolo 44 della legge del 21 marzo 1997[^66a-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA), il Consiglio federale proroga fino all’entrata in vigore della presente modifica i mandati di prestazione che scadono alla fine del 2015. All’atto della proroga il Consiglio federale può:
+
+- a. adeguare i mandati di prestazione alle mutate condizioni;
+- b. rinunciare alla consultazione delle commissioni parlamentari competenti prevista nell’articolo 44 capoverso 3 LOGA.
+
+[^66a-1]: Introdotto dal n. I della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^66a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 66b
+
+**Disposizioni transitorie della modifica del 19 giugno 2015**[^66b-1]
+
+<sup>1</sup>
+
+Il diritto anteriore rimane applicabile:
+
+- a. all’esecuzione dell’ultimo preventivo deciso prima dell’entrata in vigore della modifica del 19 giugno 2015;
+- b. all’allestimento, alla presentazione e all’approvazione del rispettivo consuntivo.
+
+<sup>2</sup> Con il consuntivo per il 2016 l’Assemblea federale corregge il saldo del conto di compensazione di cui all’articolo 16 capoverso 2 deducendone la differenza cumulata tra il 2007 e il 2016 rispetto a una contabilizzazione secondo la conformità temporale di aggi e disaggi su prestiti della Confederazione.
+
+[^66b-1]: Introdotto dal n. I della LF del 19 giu. 2015 (Ottimizzazione del Nuovo modello contabile), in vigore dal 1° gen. 2016 ([RU 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [FF 2014 8061](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 67
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà a referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° maggio 2006[^67-1] Art. 55: 1° gennaio 2009[^67-2] Art. 41: 1° gennaio 2011[^67-3]
+
+[^67-1]: DCF del 5 apr. 2006.
+[^67-2]: O del 5 dic. 2008 ([RU 2008 6453](https://fedlex.data.admin.ch/eli/oc/2008/875)).
+[^67-3]: O del 13 ott. 2010 ([RU 2010 5011](https://fedlex.data.admin.ch/eli/oc/2010/709)).

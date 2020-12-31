@@ -1,0 +1,869 @@
+---
+sr: "817.022.14"
+title: Ordonnance du DFI du 16 décembre 2016 sur les compléments alimentaires (OCAl)
+short: OCAl
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/155"
+language: fr
+version: 2020-07-01
+adopted: 2016-12-16
+in_force: 2017-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/155/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-155-20200701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/155/20200701/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DFI sur les compléments alimentaires
+
+(OCAl)
+
+du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+
+Le Département fédéral de l’intérieur (DFI),
+
+vu les art. 10, al. 4, let. a, 12, al. 3, 14, al. 1, 25, al. 2, 26, al. 3, et 36, al. 3 et 4, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+
+#### Art. 1
+
+**Compléments alimentaires**
+
+Les compléments alimentaires sont des denrées alimentaires dont le but est de compléter le régime alimentaire normal. Ils constituent une source concentrée de vitamines, de sels minéraux ou d’autres substances ayant un effet nutritionnel ou physiologique seuls ou combinés, commercialisés sous forme de doses.
+
+#### Art. 2
+
+**Exigences**
+
+<sup>1</sup> Les compléments alimentaires ne peuvent être commercialisés que sous une forme préemballée, sauf s’ils sont remis au consommateur pour la consommation directe.
+
+<sup>2</sup> Ils doivent être proposés sous forme de doses telles que des gélules, des pastilles, des comprimés, des pilules ou d’autres formes similaires, ainsi que des sachets de poudre, des ampoules de liquide, des flacons munis d’un compte-gouttes ou d’autres formes analogues de préparations liquides ou en poudre destinées à être prises en unités mesurées de faible quantité.
+
+<sup>3</sup>
+
+Ils peuvent contenir:
+
+- a. les vitamines et les sels minéraux répertoriés à l’annexe 1, partie A, aux conditions qui y figurent;
+- b. d’autres substances, dans le respect des restrictions figurant à l’annexe 1, partie B;
+- c.
+
+  les substances qui remplissent l’une des conditions suivantes:
+
+  - 1\. elles sont autorisées en vertu de l’ordonnance du DFI du 16 décembre 2016 sur les nouvelles sortes de denrées alimentaires[^2-1] et peuvent être utilisées dans les compléments alimentaires,
+  - 2\. elles ont été autorisées par l’OSAV comme nouvelles sortes de denrées alimentaires;
+
+- d. d’autres denrées alimentaires; les let. a à c sont réservées.
+
+<sup>4</sup> Les substances répertoriées à l’annexe 4 de l’ordonnance du DFI du 16 décembre 2016 sur l’adjonction de vitamines, de sels minéraux et de certaines autres substances aux denrées alimentaires (OASM)[^2-2] sont interdites.
+
+<sup>5</sup> Les quantités maximales de vitamines, sels minéraux et autres substances définies à l’annexe 1 ne doivent pas être dépassées par dose journalière recommandée.
+
+<sup>6</sup> Les complexes nutritifs admis des vitamines, sels minéraux et autres substances sont réglés à l’annexe 2.
+
+<sup>7</sup> Les exigences applicables aux cultures de bactéries vivantes sont définies à l’annexe 3.
+
+<sup>8</sup> Sont admis dans les compléments alimentaires à base de sels minéraux basiques les sels basiques (bicarbonate, carbonate et citrate) de magnésium, de potassium et de calcium.
+
+[^2-1]: [RS 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^2-2]: [RS 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+
+#### Art. 3
+
+**Étiquetage**
+
+<sup>1</sup> La dénomination spécifique d’un complément alimentaire est « complément alimentaire », complétée par le nom des catégories des vitamines, des sels minéraux ou des autres substances caractérisant le produit ou par une mention relative à la nature des vitamines, des sels minéraux ou des autres substances.
+
+<sup>2</sup> La teneur en vitamines, en sels minéraux ou en autres substances et leur pourcentage par rapport à l’apport de référence visé à l’annexe 10, partie A, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^3-1] doivent être exprimés sous forme numérique par dose journalière recommandée. Le pourcentage peut aussi être exprimé sous forme graphique.
+
+<sup>3</sup> L’étiquetage doit mentionner la teneur en vitamines, sels minéraux et autres substances au moment de la remise au consommateur. Les valeurs indiquées doivent se fonder sur les valeurs moyennes visées à l’art. 26, al. 4, OIDAl.
+
+<sup>4</sup>
+
+En cas de mention relative à une vitamine, à un sel minéral ou à une autre substance, doivent être compris par dose journalière recommandée:
+
+- a. pour les vitamines et les sels minéraux: au moins 15 % de l’apport de référence fixé à l’annexe 10, partie A, OIDAl;
+- b. pour les autres substances: au moins 15 % de la quantité maximale prévue à l’annexe 1.
+
+<sup>5</sup>
+
+En cas de mention relative à des cultures de bactéries vivantes ou à de la lactase, doivent être compris par dose journalière recommandée:
+
+- a. pour les cultures de bactéries vivantes: au moins 10<sup>8</sup> UFC[^3-2];
+- b. pour la lactase: 4500 unités FCC[^3-3].
+- [tab] <sup>6</sup> L’adjonction de cultures de bactéries vivantes doit figurer dans la liste des ingrédients et dans la dénomination spécifique sous l’une des formes suivantes:
+- a. sous la nomenclature scientifique spécifique conforme aux prescriptions de l’*International Committee on Systematics of Prokaryotes*[^3-4];
+- b. avec la mention « avec des ferments lactiques ».
+
+<sup>7</sup>
+
+Les indications visées à l’art. 3, al. 1, let. a à i, k, m et o à q, OIDAl doivent être complétées par les informations suivantes:
+
+- a. la dose journalière recommandée exprimée en portions du produit;
+- b. un avertissement que la dose journalière recommandée ne doit pas être dépassée;
+- c. une mention précisant que les compléments alimentaires ne doivent pas être utilisés comme substituts d’une alimentation variée;
+- d. une mention indiquant que les produits doivent être tenus hors de la portée des jeunes enfants;
+- e. les avertissements ou la mention concernant le groupe cible spécifique ou les conditions d’utilisation figurant à l’annexe 1.
+
+[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-2]: UFC = unités formant colonie
+[^3-3]: FCC = *Food Chemicals Codex*
+[^3-4]: ICSP; www.the-icsp.org
+
+#### Art. 4
+
+**Mentions interdites**
+
+L’étiquetage, la présentation et la publicité des compléments alimentaires ne peuvent porter aucune mention affirmant ou suggérant qu’un régime alimentaire équilibré et varié ne constitue pas une source suffisante de nutriments en général.
+
+#### Art. 5
+
+**Critères de pureté**
+
+<sup>1</sup> Pour les substances énumérées à l’annexe 2, les critères de pureté spécifiques pour les additifs, définis dans l’annexe du règlement (UE) n° 231/2012[^5-1], sont applicables.
+
+<sup>2</sup> Pour les substances énumérées à l’annexe 2 pour lesquelles les critères de pureté n’ont pas été définis, les critères de pureté généralement reconnus, recommandés par des organismes internationaux comme la FAO et l’OMS et les pharmacopées européennes, sont applicables.
+
+[^5-1]: Règlement (UE) n° 231/2012 de la Commission du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil, JO L 83 du 22.3.2012, p. 1 ; modifié en dernier lieu par le règlement (UE) n° 2015/1739, JO L 253 du 30.09.2015, p. 3
+
+#### Art. 6
+
+**Actualisation des annexes**
+
+<sup>1</sup> L’OSAV adapte les annexes selon l’évolution des connaissances scientifiques et techniques et des législations des principaux partenaires commerciaux de la Suisse.
+
+<sup>2</sup> Il peut édicter des dispositions transitoires.
+
+#### Art. 6a
+
+**Disposition transitoire de la modification du 12 mars 2018**[^6a-1]
+
+Les denrées alimentaires non conformes à la modification du 12 mars 2018 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 30 avril 2019 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^6a-1]: Introduit par le ch. I de l’O de l’OSAV du 12 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)).
+
+#### Art. 6b
+
+**Disposition transitoire de la modification du 27 mai 2020**[^6b-1]
+
+Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2022 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^6b-1]: Introduit par le ch. I de l’O de l’OSAV du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+
+#### Art. 7
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
+
+Annexe 1*[^t-1]*
+
+(art. 2, al. 3, let. a et b, et 5, 3, al. 4, let. b, et 7, let. e)
+
+## Vitamines, sels minéraux et autres substances: quantités maximales admises pour les adultes
+
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OSAV du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+
+### Partie A: vitamines et sels minéraux admis
+
+<table>
+<tr><th>Vitamines et sels minéraux</th><th>Quantités maximales admises pour les adultes par dose journalière recommandée</th><th>Avertissements *(italique)*, conditions d’utilisation</th></tr>
+<tr><td>**1 Vitamines**</td><td></td><td></td></tr>
+<tr><td>Biotine</td><td>aucune</td><td></td></tr>
+<tr><td>Acide folique</td><td>750 µg</td><td></td></tr>
+<tr><td>Niacine</td><td>600 mg; dont 10 mg sous forme d’acide nicotinique et d’hexanicotinate d’inositol (total)</td><td></td></tr>
+<tr><td>Acide pantothénique</td><td>aucune</td><td></td></tr>
+<tr><td>Riboflavine (vitamine B2)</td><td>aucune</td><td></td></tr>
+<tr><td>Thiamine (vitamine B1)</td><td>aucune</td><td></td></tr>
+<tr><td>Vitamine A</td><td>1360 μg[^annex1-lvlu1-partA-1] (correspond à 8,2 mg de bêta-carotène)</td><td>Uniquement sous forme de bêta-carotène*.*</td></tr>
+<tr><td>Vitamine B<sub>6</sub></td><td>15 mg</td><td></td></tr>
+<tr><td>Vitamine B<sub>12</sub></td><td>aucune</td><td></td></tr>
+<tr><td>Vitamine C</td><td>750 mg</td><td></td></tr>
+<tr><td>Vitamine D</td><td>70 µg</td><td></td></tr>
+<tr><td>Vitamine E</td><td>205 mg</td><td></td></tr>
+<tr><td>Vitamine K</td><td>225 µg</td><td>À partir d’une dose journalière de 25 µg*: il est conseillé aux personnes sous traitement anticoagulant de consulter leur médecin avant de consommer des préparations à base de vitamine K.*</td></tr>
+<tr><td>**2 Sels minéraux**</td><td></td><td></td></tr>
+<tr><td>Bore</td><td>1 mg</td><td></td></tr>
+<tr><td>Calcium</td><td>750 mg</td><td></td></tr>
+<tr><td>Chlore</td><td>uniquement comme ion d’accompagnement</td><td></td></tr>
+<tr><td>Chrome</td><td>188 µg</td><td></td></tr>
+<tr><td>Fer</td><td>21 mg</td><td></td></tr>
+<tr><td>Iode</td><td>200 µg</td><td></td></tr>
+<tr><td>Potassium</td><td>2250 mg</td><td></td></tr>
+<tr><td>Cuivre</td><td>1,6 mg</td><td></td></tr>
+<tr><td>Magnésium</td><td>375 mg</td><td>Â partir d’une dose journalière de &gt;250 mg: *les préparations à base de magnésium peuvent avoir des effets laxatifs.*</td></tr>
+<tr><td>Manganèse</td><td>3 mg</td><td></td></tr>
+<tr><td>Molybdène</td><td>300 µg</td><td></td></tr>
+<tr><td>Phosphate</td><td>uniquement comme ion d’accompagnement</td><td></td></tr>
+<tr><td>Sélénium</td><td>165 µg</td><td></td></tr>
+<tr><td>Silicium</td><td>aucune</td><td></td></tr>
+<tr><td>Zinc</td><td>5,3 mg</td><td></td></tr>
+</table>
+
+[^annex1-lvlu1-partA-1]: Équivalents rétinol, facteur de conversion: bêta-carotène = 6 × équivalents rétinol
+
+### Partie B: autres substances avec restrictions d’utilisation
+
+<table>
+<tr><th>Autres substances</th><th colspan="2">Quantités maximales admises pour les adultes par dose journalière recommandée</th><th>Avertissements *(italique)*, mention concernant le groupe cible spécifique, conditions d’utilisation</th></tr>
+<tr><td>**1 Acides aminés**</td><td colspan="2"></td><td></td></tr>
+<tr><td>L-arginine</td><td colspan="2">2500 mg</td><td></td></tr>
+<tr><td>L-citrulline</td><td colspan="2">1000 mg</td><td></td></tr>
+<tr><td>L-glutamine</td><td colspan="2">10 g</td><td></td></tr>
+<tr><td>Glycine</td><td colspan="2">5 g</td><td></td></tr>
+<tr><td>L-histidine</td><td colspan="2">600 mg</td><td></td></tr>
+<tr><td>L-isoleucine</td><td colspan="2">1200 mg</td><td></td></tr>
+<tr><td>L-leucine</td><td colspan="2">2400 mg</td><td></td></tr>
+<tr><td>L-lysine</td><td colspan="2">1800 mg</td><td></td></tr>
+<tr><td>L-méthionine + L-cystéine (total)</td><td colspan="2">900 mg</td><td></td></tr>
+<tr><td>L-ornithine</td><td colspan="2">2000 mg</td><td></td></tr>
+<tr><td>L-phénylalanine + L-tyrosine (total)</td><td colspan="2">1500 mg</td><td></td></tr>
+<tr><td>L-thréonine</td><td colspan="2">900 mg</td><td></td></tr>
+<tr><td>L-tryptophane</td><td colspan="2">240 mg</td><td></td></tr>
+<tr><td>L-valine</td><td colspan="2">1600 mg</td><td></td></tr>
+<tr><td colspan="2">**2 Autres substances, acides aminés non compris**</td><td></td><td></td></tr>
+<tr><td>Acide alpha-linolénique (n-3)</td><td colspan="2">2000 mg</td><td></td></tr>
+<tr><td>Bêta-alanine</td><td colspan="2">3,2 g</td><td>*Ne pas consommer pendant plus de 8 à 10 semaines.* – La substance n’est remise que sous forme de comprimés, formulés comme comprimés à libération prolongée à l’aide de produits adéquats (additifs). – La prise doit être répartie en deux doses par jour au moins, de préférence lors d’un repas.</td></tr>
+<tr><td>Bétaïne</td><td colspan="2">1500 mg</td><td></td></tr>
+<tr><td>Caroténoïde lutéine</td><td colspan="2">20 mg</td><td></td></tr>
+<tr><td>Caroténoïde zéaxanthine</td><td colspan="2">2 mg</td><td></td></tr>
+<tr><td>Choline</td><td colspan="2">550 mg</td><td></td></tr>
+<tr><td>Sulfate de chondroïtine</td><td colspan="2">500 mg</td><td>*Ne convient pas aux femmes enceintes ou qui allaitent, aux enfants, aux adolescents et aux personnes sous traitement anticoagulant.*</td></tr>
+<tr><td>Coenzyme NADH</td><td colspan="2">20 mg</td><td></td></tr>
+<tr><td>Coenzyme Q<sub>10</sub></td><td colspan="2">200 mg</td><td></td></tr>
+<tr><td>Caféine</td><td colspan="2">200 mg; ou 3 mg/kg de poids corporel</td><td></td></tr>
+<tr><td>Acide docosahexaénoïque (DHA)</td><td colspan="2">1000 mg</td><td>À partir d’une dose journalière de &gt;450 mg: *ne convient pas aux femmes enceintes ou qui allaitent.*</td></tr>
+<tr><td></td><td colspan="2">450 mg</td><td>Pour les femmes enceintes ou qui allaitent.</td></tr>
+<tr><td>Acide eicosapentaénoïque (EPA) + acide docosahexaénoïque (DHA) (total) (longue chaîne n-3)</td><td colspan="2">5000 mg</td><td>*Ne convient pas aux femmes enceintes ou qui allaitent.*</td></tr>
+<tr><td></td><td colspan="2">450 mg</td><td>Pour les femmes enceintes ou qui allaitent.</td></tr>
+<tr><td>Glucosamine</td><td colspan="2">750 mg</td><td></td></tr>
+<tr><td>Hespéridine</td><td colspan="2">430 mg</td><td>*Il est conseillé aux personnes qui prennent des médicaments de consulter leur médecin avant de consommer ces produits.*</td></tr>
+<tr><td>Inositol</td><td colspan="2">1000 mg</td><td></td></tr>
+<tr><td>Isoflavones</td><td colspan="2">50 mg (rapporté à l’aglycone)</td><td></td></tr>
+<tr><td>Catéchines, épigallocatéchine gallate (EGCG)</td><td colspan="2">90 mg (calculé comme EGCG)</td><td>*Ne pas prendre à jeun, en cas de régime hypocalorique strict ou en même temps que d**’**autres produits à base de thé vert.*</td></tr>
+<tr><td>Acide linoléique conjugué (ALC)</td><td colspan="2">3 g</td><td>*Ne convient pas aux personnes diabétiques, aux adolescents et aux femmes enceintes ou qui allaitent.*</td></tr>
+<tr><td>Créatine</td><td colspan="2">3 g</td><td></td></tr>
+<tr><td>L-carnitine</td><td colspan="2">2000 mg</td><td></td></tr>
+<tr><td>Lactase</td><td colspan="2">aucune</td><td>Le groupe cible doit être informé que des différences existent en matière de tolérance au lactose et que les personnes concernées devraient prendre conseil auprès d’un spécialiste concernant la fonction assumée par la substance dans leur alimentation.</td></tr>
+<tr><td>Lactulose</td><td colspan="2">10 g</td><td></td></tr>
+<tr><td>Cultures de bactéries vivantes</td><td colspan="2">aucune</td><td></td></tr>
+<tr><td>Acide linoléique (n-6)</td><td colspan="2">10 g</td><td></td></tr>
+<tr><td>Méthylsulfonylméthane (MSM)</td><td colspan="2">1000 mg</td><td></td></tr>
+<tr><td>Oligomères proanthocyanidines (OPC)</td><td colspan="2">150 mg</td><td>*Un produit avec OPC ne remplace pas une alimentation à base de fruits et de légumes frais.*</td></tr>
+<tr><td>Taurine</td><td colspan="2">1000 mg</td><td></td></tr>
+<tr><td>Concentré de tomates hydrosoluble (WSTC I)</td><td colspan="2">3 g</td><td></td></tr>
+<tr><td>Concentré de tomates hydrosoluble (WSTC II)</td><td colspan="2">150 mg</td><td></td></tr>
+</table>
+
+Annexe 2*[^t-2]*
+
+(art. 2, al. 6, et 5, al. 1 et 2)
+
+## Complexes nutritifs admis de vitamines, sels minéraux et autres substances
+
+[^t-2]: Mise à jour par le ch. II des O de l’OSAV du 12 mars 2018 ([RO 2018 1335](https://fedlex.data.admin.ch/eli/oc/2018/215)) et le ch. II al. 2 du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2309](https://fedlex.data.admin.ch/eli/oc/2020/448)).
+
+### 1. Vitamines
+
+### Acide pantothénique
+
+D-pantothénate de calcium
+
+D-pantothénate de sodium
+
+Dexpantothénol
+
+Pantéthine
+
+### Biotine
+
+D-biotine
+
+### Folates
+
+Acide ptéroylglutamique
+
+L-méthylfolate de calcium
+
+(6S)-acide 5-méthyltétrahydrofolique, sel de glucosamine
+
+### Niacine
+
+Acide nicotinique
+
+Nicotinamide
+
+Hexanicotinate d’inositol ou hexaniacinate d’inositol
+
+### Riboflavine
+
+Riboflavine
+
+Riboflavine-5’-phosphate de sodium
+
+### Thiamine
+
+Chlorhydrate de thiamine
+
+Mononitrate de thiamine
+
+Chlorure de thiamine monophosphate
+
+Chlorure de thiamine pyrophosphate
+
+### Vitamine A
+
+Bêta-carotène
+
+### Vitamine B6
+
+Chlorhydrate de pyridoxine
+
+Pyridoxine-5’-phosphate
+
+Pyridoxal 5’-phosphate
+
+### Vitamine B12
+
+Cyanocobalamine
+
+Hydroxocobalamine
+
+5’-desoxyadenosylcobalamine
+
+Méthylcobalamine
+
+### Vitamine C
+
+Acide L-ascorbique
+
+L-ascorbate de sodium
+
+L-ascorbate de calcium (la teneur en thréonate doit être inférieure ou égale à 2 %)
+
+L-ascorbate de potassium
+
+L-ascorbyl 6-palmitate
+
+L-ascorbate de magnésium
+
+L-ascorbate de zinc
+
+### Vitamine D
+
+Vitamine D3 ou cholécalciférol
+
+Vitamine D2 ou ergocalciférol
+
+### Vitamine E
+
+D-alpha-tocophérol
+
+DL-alpha-tocophérol
+
+Acétate de D-alpha-tocophérol
+
+Acétate de DL-alpha-tocophérol
+
+Succinate acide de D-alpha-tocophérol
+
+Mélanges de tocophérols[^annex2-lvlu1-lvl1-lvlu12-1]
+
+Tocotriénol-tocophérol[^annex2-lvlu1-lvl1-lvlu12-2]
+
+[^annex2-lvlu1-lvl1-lvlu12-1]: Alpha-tocophérol &lt; 20 %, bêta-tocophérol &lt; 10 %, gamma-tocophérol 50–70 % et delta-tocophérol 10–30 %
+[^annex2-lvlu1-lvl1-lvlu12-2]: Niveaux typiques de certains tocophérols et tocotriénols : - 115 mg/g d'alpha-tocophérol (101 mg/g minimum) ; - 5 mg/g de bêta-tocophérol (&lt; 1 mg/g minimum) ; - 45 mg/g de gamma-tocophérol (25 mg/g minimum) ; - 12 mg/g de delta-tocophérol (3 mg/g minimum) ; - 67 mg/g d'alpha-tocotriénol (30 mg/g minimum) ; - &lt; 1 mg/g de bêta-tocotriénol (&lt; 1 mg/g minimum) ; - 82 mg/g de gamma-tocotriénol (45 mg/g minimum) ; - 5 mg/g de delta-tocotriénol (1 mg/g minimum).
+
+### Vitamine K
+
+Phylloquinone ou phytoménadione
+
+Ménaquinone[^annex2-lvlu1-lvl1-lvlu13-1]
+
+[^annex2-lvlu1-lvl1-lvlu13-1]: La ménaquinone se présente principalement sous la forme de ménaquinone-7 et, dans une moindre mesure, de ménaquinone-6.
+
+### 2. Sels minéraux
+
+### Calcium
+
+Acétate de calcium
+
+L-ascorbate de calcium
+
+Bisglycinate de calcium
+
+Carbonate de calcium
+
+Chlorure de calcium
+
+Malate de citrate de calcium
+
+Sels calciques de l’acide citrique
+
+Gluconate de calcium
+
+Glycérophosphate de calcium
+
+Lactate de calcium
+
+Pyruvate de calcium
+
+Sels calciques de l’acide orthophosphorique
+
+Succinate de calcium
+
+Hydroxyde de calcium
+
+L-lysinate de calcium
+
+Malate de calcium
+
+Oxyde de calcium
+
+L-pidolate de calcium
+
+L-thréonate de calcium
+
+Sulfate de calcium
+
+Oligosaccharides phosphorylés de calcium
+
+Algues rouges calcaires ou maërl[^annex2-lvlu1-lvl2-lvlu1-1]
+
+[^annex2-lvlu1-lvl2-lvlu1-1]: Algues calcifiées des genres *Lithothamnium corallioides* et *Phymatolithon calcareum* ou mélanges de ces genres
+
+### Mélanges calcium-magnésium
+
+Poudre de dolomite
+
+Poudre de corail fossile ou Scleractinia
+
+### Chrome
+
+Chlorure de chrome (III)
+
+Levure enrichie en chrome[^annex2-lvlu1-lvl2-lvlu3-1]
+
+Lactate de chrome (III) trihydraté
+
+Nitrate de chrome
+
+Picolinate de chrome
+
+Sulfate de chrome (III)
+
+[^annex2-lvlu1-lvl2-lvlu3-1]: Levures enrichies en chrome produites par culture de *Saccharomyces cerevisiae* en présence de chlorure de chrome (III) comme source de chrome et dont la teneur en chrome, sous la forme déshydratée telle que commercialisée, est de 230 à 300 mg/kg. Les teneurs en chrome (VI) ne doivent pas excéder 0,2 % de la teneur totale en chrome.
+
+### Cuivre
+
+Carbonate de cuivre
+
+Citrate de cuivre
+
+Gluconate de cuivre
+
+Sulfate de cuivre
+
+L-aspartate de cuivre
+
+Bisglycinate de cuivre
+
+Complexe cuivre-lysine
+
+Oxyde de cuivre (II)
+
+### Fer
+
+Carbonate ferreux
+
+Citrate ferreux
+
+Citrate d’ammonium ferrique
+
+Gluconate ferreux
+
+Fumarate ferreux
+
+Diphosphate sodique ferrique
+
+Lactate ferreux
+
+Sulfate ferreux
+
+Diphosphate ferrique ou pyrophosphate ferrique
+
+Saccharate ferrique
+
+Fer élémentaire (somme du fer carbonylique, du fer électrolytique et du fer réduit à l’hydrogène)
+
+Bisglycinate ferreux
+
+L-pidolate ferreux
+
+Phosphate ferreux (II)
+
+Phosphate d’ammonium ferreux (II)
+
+Sel de sodium de l’édétate de fer (III)
+
+Taurate de fer (II)
+
+### Iode
+
+Iodure de sodium
+
+Iodate de sodium
+
+Iodure de potassium
+
+Iodate de potassium
+
+### Magnésium
+
+Acétate de magnésium
+
+L-ascorbate de magnésium
+
+Bisglycinate de magnésium
+
+Carbonate de magnésium
+
+Chlorure de magnésium
+
+Sels de magnésium de l’acide citrique
+
+Gluconate de magnésium
+
+Glycérophosphate de magnésium
+
+Sels de magnésium de l’acide orthophosphorique
+
+Lactate de magnésium
+
+L-lysinate de magnésium
+
+Hydroxyde de magnésium
+
+Malate de magnésium
+
+Oxyde de magnésium
+
+L-pidolate de magnésium
+
+Citrate de potassium-magnésium
+
+Pyruvate de magnésium
+
+Succinate de magnésium
+
+Sulfate de magnésium
+
+Taurate de magnésium
+
+Acétyl-taurinate de magnésium
+
+### Manganèse
+
+Ascorbate de manganèse
+
+L-aspartate de manganèse
+
+Bisglycinate de manganèse
+
+Carbonate de manganèse
+
+Chlorure de manganèse
+
+Citrate de manganèse
+
+Gluconate de manganèse
+
+Glycérophosphate de manganèse
+
+Pidolate de manganèse
+
+Sulfate de manganèse
+
+### Molybdène (VI)
+
+Molybdate d’ammoniaque
+
+Molybdate de potassium
+
+Molybdate de sodium
+
+### Bore
+
+Acide borique
+
+Borate de sodium
+
+### Potassium
+
+Sulfate de potassium
+
+Bicarbonate de potassium
+
+Carbonate de potassium
+
+Chlorure de potassium
+
+Citrate de potassium
+
+Gluconate de potassium
+
+Glycérophosphate de potassium
+
+Lactate de potassium
+
+Hydroxyde de potassium
+
+L-pidolate de potassium
+
+Malate de potassium
+
+Sels potassiques de l’acide orthophosphorique
+
+### Sélénium
+
+L-sélénométhionine
+
+Levure enrichie en sélénium[^annex2-lvlu1-lvl2-lvlu12-1]
+
+Acide sélénieux
+
+Sélénate de sodium
+
+Hydrogénosélénite de sodium
+
+Sélénite de sodium
+
+[^annex2-lvlu1-lvl2-lvlu12-1]: Levures enrichies en sélénium produites par culture en présence de sélénite de sodium comme source de sélénium et dont la teneur en sélénium, sous la forme déshydratée telle que commercialisée, est de 2,5 mg/g au plus. L’espèce prédominante de sélénium organique présente dans la levure est la sélénométhionine, qui constitue entre 60 et 85 % de la totalité du sélénium extrait dans le produit. La teneur en autres composés contenant du sélénium organique, notamment la sélénocystéine, ne peut dépasser 10 % du total du sélénium extrait. Les teneurs en sélénium inorganique n’excèdent normalement pas 1 % du total du sélénium extrait.
+
+### Silicium
+
+Acide orthosilicique stabilisé par de la choline
+
+Dioxyde de silicium
+
+Acide silicique (sous forme de gel)
+
+Silicium organique (monométhylsilanetriol)
+
+### Zinc
+
+Acétate de zinc
+
+L-ascorbate de zinc
+
+L-aspartate de zinc
+
+Bisglycinate de zinc
+
+Chlorure de zinc
+
+Citrate de zinc
+
+Gluconate de zinc
+
+Lactate de zinc
+
+L-lysinate de zinc
+
+Malate de zinc
+
+Sulfate de zinc mono-L-méthionine
+
+Oxyde de zinc
+
+Carbonate de zinc
+
+L-pidolate de zinc
+
+Picolinate de zinc
+
+Sulfate de zinc
+
+### 3. Autres substances
+
+### 3.1 Acides aminés
+
+Remarque: pour les acides aminés admis, les sels de sodium, de potassium, de calcium et de magnésium et leurs chlorhydrates peuvent également être utilisés.
+
+L-arginine
+
+L-citrulline, L-malate de citrulline
+
+L-cystéine
+
+L-glutamine
+
+Glycine
+
+L-histidine
+
+L-isoleucine
+
+L-leucine
+
+L-lysine
+
+L-méthionine
+
+L-ornithine
+
+L-phénylalanine
+
+L-thréonine
+
+L-tryptophane
+
+L-tyrosine
+
+L-valine
+
+### 3.2 Autres substances, acides aminés non compris
+
+### Acides gras oméga-3
+
+d’huiles végétales, d’huiles de poisson et d’huiles d’algue
+
+### Acide linoléique conjugué (ALC)
+
+Acide linoléique conjugué (ALC) extrait d’huile de carthame
+
+### Acide linoléique extrait d’huiles comestibles
+
+### Bêta-alanine
+
+Bêta-alanine, n<sup>o</sup> CAS 107-95-9, degré de pureté 98–101 %; métaux lourds 10 ppm; Pb ≤ 3 ppm; As ≤ 1 ppm; Hg ≤ 0,1 ppm; Cd ≤ 1 ppm
+
+### Bétaïne
+
+Chlorhydrate de betaïne
+
+### Caféine
+
+Caféine
+
+### Catéchines, épigallocatéchine gallate (EGCG)
+
+Catéchines, épigallocatéchine gallate (EGCG) du thé vert
+
+### Choline
+
+Choline
+
+Chlorure de choline
+
+Citrate de choline
+
+Tartrates de choline
+
+### Coenzyme NADH
+
+NADH
+
+Disodium NADH
+
+### Coenzyme Q10
+
+Ubiquinone
+
+Ubiquinol
+
+### Concentrés de tomates hydrosolubles WSTC I et II
+
+Concentrés de tomates hydrosolubles WSTC I et II selon EFSA Journal 2010; 8(7): 1689
+
+### Créatine
+
+Monohydrate de créatine
+
+Pyruvate de créatine
+
+### DHA et ses esters d’huile de poisson ou d’huile d’algue
+
+### EPA et ses esters d’huile de poisson ou d’huile d’algue
+
+### Glucosamine
+
+Chlorure de glucosamine
+
+Sulfate de glucosamine
+
+### Hespéridine
+
+Hespéridine tirée d’oranges non mûres
+
+### Inositol
+
+Inositol
+
+### Isoflavones
+
+Isoflavones (extraits de soja ou de trèfle des prés)
+
+### L-carnitine
+
+L-carnitine
+
+L-chlorhydrate de carnitine
+
+L-carnitine-L-tartrate
+
+### Lactase
+
+Lactase FCC[^annex2-lvlu1-lvl3-lvl32-lvlu20-1]
+
+[^annex2-lvlu1-lvl3-lvl32-lvlu20-1]: FCC = *Food Chemicals Codex*
+
+### Lactulose
+
+Lactulose
+
+### Lutéine
+
+Lutéine et ses esters de tagète
+
+### Méthylsulfonylméthane (MSM)
+
+Méthylsulfonylméthane (MSM)
+
+### Oligomères proanthocyanidines (OPC)
+
+Oligomères proanthocyanidines (OPC) de raisin ou d’écorce de pin
+
+### Sulfate de chondroïtine
+
+Sulfate de chondroïtine
+
+### Taurine
+
+Taurine
+
+### Zéaxanthine
+
+Zéaxanthine (extrait de tagète)
+
+Annexe 3
+
+(art. 2, al. 7)
+
+## Exigences applicables aux cultures de bactéries vivantes en vue de leur utilisation dans les compléments alimentaires
+
+- 1 Les cultures de bactéries vivantes utilisées dans les compléments alimentaires doivent être propres à la consommation humaine et ne présenter aucun danger pour la santé.
+- 2 Des cellules vivantes provenant de souches d’une ou de plusieurs espèces bactériennes (*species*) peuvent être utilisées.
+- 3
+
+  Elles doivent remplir les critères suivants:
+
+  - 3\.1 Elles doivent être, de préférence, d’origine humaine et ne pas présenter de propriétés pathogènes pour l’être humain, ni de résistances aux antibiotiques.
+  - 3\.2 Elles doivent figurer dans une collection de souches reconnue internationalement.
+  - 3\.3
+
+    L’espèce et la souche doivent être caractérisées par des méthodes de biologie moléculaire. En d’autres termes:
+
+    - a. *espèce:* hybridation ADN-ADN ou analyse des séquences géniques ARNr 16S;
+    - b. *souche:* méthode de biologie moléculaire reconnue internationalement telle que les techniques de l’empreinte digitale (PFGE ou RAPD).

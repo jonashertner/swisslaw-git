@@ -1,0 +1,333 @@
+---
+sr: "946.231.149.82"
+title: Verordnung vom 30. März 2011 über Massnahmen gegenüber Libyen
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
+language: de
+version: 2020-10-28
+adopted: 2011-03-30
+in_force: 2011-03-31
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20201028/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20201028-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20201028/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über Massnahmen gegenüber Libyen
+
+vom 30. März 2011 (Stand am 28. Oktober 2020)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG),
+
+verordnet:
+
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+
+## 1. Abschnitt: Zwangsmassnahmen
+
+#### Art. 1
+
+**Verbot der Lieferung und Beschaffung von Rüstungsgütern und Gütern zur internen Repression**
+
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Zubehör und Ersatzteilen dafür, nach Libyen oder zur Verwendung in Libyen sind verboten.
+
+<sup>2</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern nach Anhang 1, die zur internen Repression benützt werden können, nach Libyen oder zur Verwendung in Libyen sind verboten.
+
+<sup>3</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten, technischer Beratung und Bereitstellung bewaffneter Söldner, und die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Herstellung oder der Verwendung von Gütern nach den Absätzen 1 und 2 sowie mit militärischen Aktivitäten in Libyen sind verboten.
+
+<sup>4</sup> Die Beschaffung, die Einfuhr, die Durchfuhr, die Beförderung und die Vermittlung von Rüstungsgütern und Gütern nach Anhang 1 aus Libyen sind verboten.
+
+<sup>5</sup>
+
+Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und, soweit anwendbar, in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates Ausnahmen von den Verboten der Absätze 1–4 bewilligen für:
+
+- a. nicht letales militärisches Gerät, das ausschliesslich für humanitäre Zwecke oder Schutzzwecke bestimmt ist;
+- b. sonstige Rüstungsgüter und damit zusammenhängende Unterstützung, einschliesslich Personal;
+- c. Jagd- und Sportwaffen sowie Munition, Zubehör und Ersatzteile dafür.
+
+<sup>6</sup> Die vorübergehende Ausfuhr von Schutzkleidung, einschliesslich kugelsicherer Westen und Helme, zur persönlichen Verwendung durch das Personal der Vereinten Nationen, der Europäischen Union oder des Bundes, durch Medienvertreter sowie durch humanitäres Personal ist von den Verboten der Absätze 1–3 ausgenommen.
+
+#### Art. 2
+
+**Sperrung von Geldern und wirtschaftlichen Ressourcen**[^2-1]
+
+<sup>1</sup>
+
+Gesperrt sind Gelder und wirtschaftliche Ressourcen im Eigentum oder unter der Kontrolle:
+
+- a. der natürlichen Personen nach Anhang 2 Teil A und Anhang 3 Teil A;
+- b. der Unternehmen und Organisationen nach Anhang 2 Teil B, sofern die Gelder und wirtschaftlichen Ressourcen vor dem 17. September 2011 gesperrt worden sind;
+- c. der Unternehmen und Organisationen nach Anhang 3 Teil B.
+
+<sup>2</sup> Es ist verboten, den natürlichen Personen, Unternehmen und Organisationen nach Absatz 1 Buchstaben a und c Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
+
+<sup>3</sup>
+
+In Ausnahmefällen kann das SECO nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD) sowie, soweit anwendbar, nach Meldung an das zuständige Komitee des UNO-Sicherheitsrates und in Übereinstimmung mit den Beschlüssen dieses Komitees, Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:
+
+- a. Vermeidung von Härtefällen;
+- b. Erfüllung bestehender Verträge;
+- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
+- d. Deckung humanitärer Bedürfnisse;
+- e. Finanzierung von Massnahmen zur Unterstützung des wirtschaftlichen Wiederaufbaus; oder
+- f Wahrung schweizerischer Interessen.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+
+#### Art. 3
+
+**Begriffsbestimmungen**
+
+In dieser Verordnung bedeuten:
+
+- a.[^3-1] *Gelder:* finanzielle Vermögenswerte, einschliesslich Bargeld, Schecks, Geldforderungen, Wechsel, Geldanweisungen oder anderer Zahlungsmittel, Guthaben, Schulden und Schuldenverpflichtungen, Wertpapieren und Schuldtiteln, Wertpapierzertifikaten, Obligationen, Schuldscheinen, Optionsscheinen, Pfandbriefen, Derivaten; Zinserträge, Dividenden oder andere Einkünfte oder Wertzuwächse aus Vermögenswerten; Kredite, Rechte auf Verrechnung, Bürgschaften, Vertragserfüllungsgarantien oder andere finanzielle Zusagen; Akkreditive, Konnossemente, Sicherungsübereignungen, Dokumente zur Verbriefung von Anteilen an Fondsvermögen oder anderen Finanzressourcen und jedes andere Finanzierungsinstrument für Exporte;
+- b. *Sperrung von Geldern:* die Verhinderung jeder Handlung, welche die Verwaltung oder die Nutzung der Gelder ermöglicht, mit Ausnahme von normalen Verwaltungshandlungen von Finanzinstituten;
+- c. *wirtschaftliche Ressourcen:* Vermögenswerte jeder Art, unabhängig davon, ob sie materiell oder immateriell, beweglich oder unbeweglich sind, insbesondere Immobilien und Luxusgüter, mit Ausnahme von Geldern nach Buchstabe a;
+- d. *Sperrung wirtschaftlicher Ressourcen:* die Verhinderung der Verwendung von wirtschaftlichen Ressourcen zum Erwerb von Geldern, Waren oder Dienstleistungen, einschliesslich des Verkaufs, des Vermietens oder des Verpfändens solcher Ressourcen.
+
+[^3-1]: Die Berichtigung vom 25. Aug. 2020 betrifft nur den französischen und italienischen Text ([AS 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+
+#### Art. 4
+
+**Ein- und Durchreiseverbot**
+
+<sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in den Anhängen 4 und 5 aufgeführten natürlichen Personen verboten.
+
+<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^4-1] kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates Ausnahmen für natürliche Personen nach Anhang 4 gewähren.
+
+<sup>3</sup>
+
+Das SEM kann für natürliche Personen nach Anhang 5 Ausnahmen gewähren:
+
+- a. aus erwiesenen humanitären Gründen;
+- b. zwecks Teilnahme an internationalen Konferenzen oder an einem politischen Dialog betreffend Libyen; oder
+- c. zur Wahrung schweizerischer Interessen.
+
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+
+#### Art. 5
+
+[^5-1]
+
+[^5-1]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2011, mit Wirkung seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+
+#### Art. 6
+
+**Verbot der Erfüllung bestimmter Forderungen**
+
+Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen und Organisationen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung durch Massnahmen nach dieser Verordnung oder nach der Verordnung vom 21. Februar 2011[^6-1] über Massnahmen gegen gewisse Personen aus Libyen direkt oder indirekt verhindert oder beeinträchtigt wurde:
+
+- a. der Regierung Libyens;
+- b. natürlicher Personen, Unternehmen und Organisationen in Libyen;
+- c. natürlicher Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten von unter den Buchstaben a und b erwähnten Personen, Unternehmen und Organisationen handeln.
+
+[^6-1]: [[AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131)[961](https://fedlex.data.admin.ch/eli/oc/2011/144)[1195](https://fedlex.data.admin.ch/eli/oc/2011/173)]
+
+## 2. Abschnitt: Vollzug und Strafbestimmungen
+
+#### Art. 7
+
+**Kontrolle und Vollzug**
+
+<sup>1</sup> Das SECO überwacht den Vollzug der Zwangsmassnahmen nach den Artikeln 1, 2 und 6.
+
+<sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
+
+<sup>3</sup> ...[^7-1]
+
+<sup>4</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+
+<sup>5</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^7-1]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2011, mit Wirkung seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+
+#### Art. 8
+
+**Meldepflichten**
+
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+
+<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+
+#### Art. 9
+
+**Strafbestimmungen**
+
+<sup>1</sup> Wer gegen Artikel 1, 2, 4 oder 6 verstösst, wird nach Artikel 9 EmbG bestraft.[^9-1]
+
+<sup>2</sup> Wer gegen Artikel 8 verstösst, wird nach Artikel 10 EmbG bestraft.
+
+<sup>3</sup> Verstösse nach den Artikeln 9 und 10 EmbG werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+
+## 3. Abschnitt: Automatische Übernahme von Listen, Veröffentlichung und Schlussbestimmungen****
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I 13 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+#### Art. 9a
+
+**Automatische Übernahme von Listen der natürlichen Personen, Unternehmen und Organisationen, die Gegenstand von Sanktionen sind**[^9a-1]
+
+Die Listen, die der Sicherheitsrat der Vereinten Nationen bzw. das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat (Anhänge 2 und 4), werden automatisch übernommen.
+
+[^9a-1]: Eingefügt durch Ziff. I 16 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Fassung gemäss Ziff. I 13 der V vom 4. März 2016, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+#### Art. 9b
+
+**Veröffentlichung**[^9b-1]
+
+Die Einträge nach den Anhängen 2–5 werden weder in der Amtlichen Sammlung des Bundesrechts (AS) noch in der Systematischen Sammlung des Bundesrechts (SR) veröffentlicht.
+
+[^9b-1]: Eingefügt durch Ziff. I 13 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+#### Art. 10
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 21. Februar 2011[^10-1] über Massnahmen gegen gewisse Personen aus Libyen wird aufgehoben.
+
+[^10-1]: [[AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131)[961](https://fedlex.data.admin.ch/eli/oc/2011/144)[1195](https://fedlex.data.admin.ch/eli/oc/2011/173)]
+
+#### Art. 11
+
+**Übergangsbestimmung**
+
+Wer in Befolgung von Artikel 4 der Verordnung vom 21. Februar 2011[^11-1] über Massnahmen gegen gewisse Personen aus Libyen der Direktion für Völkerrecht des EDA eine Meldung erstattet hat, muss dem SECO dieselben Gelder oder wirtschaftlichen Ressourcen nicht nach Artikel 8 dieser Verordnung melden.
+
+[^11-1]: [AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131)
+
+#### Art. 12
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 31. März 2011 in Kraft.
+
+Anhang 1
+
+(Art. 1 Abs. 2 und 4)
+
+## Güter, die zur internen Repression verwendet werden können
+
+- 1 Bomben und Granaten, die nicht von Anhang 1 der Kriegsmaterialverordnung vom 25. Februar 1998[^annex1-lvlu1-1] (KMV) und nicht von Anhang 3 der Güterkontrollverordnung vom 3. Juni 2016[^annex1-lvlu1-2] (GKV)[^annex1-lvlu1-3] erfasst werden.
+- 2
+
+  Fahrzeuge, ausgenommen für die Brandbekämpfung besonders konstruierte Fahrzeuge, wie folgt:
+
+  - 2\.1 mit einem Wasserwerfer ausgerüstete Fahrzeuge, besonders konstruiert oder geändert für die Bekämpfung von Ausschreitungen und Unruhen;
+  - 2\.2 Fahrzeuge, besonders konstruiert oder geändert für die Abgabe von Stromstössen zur Abwehr von Angreifern;
+  - 2\.3 Fahrzeuge, besonders konstruiert oder geändert für die Beseitigung von Barrikaden;
+  - 2\.4 Fahrzeuge, besonders konstruiert für den Transport oder die Überstellung von Strafgefangenen und/oder inhaftierten Personen;
+  - 2\.5 Fahrzeuge und Anhänger, besonders konstruiert für die Errichtung mobiler Absperrungen;
+  - 2\.6 Bestandteile der in den Ziffern 2.1–2.5 aufgeführten Fahrzeuge, besonders konstruiert für die Bekämpfung von Ausschreitungen und Unruhen.
+
+- 3
+
+  Explosivstoffe und dazugehörige Ausrüstung, die nicht von Anhang 1 KMV und nicht von Anhang 3 GKV erfasst werden, wie folgt:
+
+  - 3\.1 Geräte und Ausrüstung, besonders konstruiert zum Auslösen von Explosionen durch elektrische oder nicht elektrische Mittel, einschliesslich Zündvorrichtungen, Sprengkapseln, Zündern, Zündverstärkern, Sprengschnüren, sowie besonders konstruierte Bestandteile hierfür. Ausgenommen sind Geräte und Ausrüstung, die in industriellen Produkten zur Anwendung kommen, zum Beispiel Anzünder für Airbags.
+  - 3\.2 Andere Explosivstoffe und dazugehörige Stoffe, wie folgt:
+  - a. Amatol;
+  - b. Nitrocellulose (mit mehr als 12,5 % Stickstoff)
+  - c. Nitroglykol;
+  - d. Pentaerythrittetranitrat (PETN);
+  - e. Pikrylchlorid;
+  - f. 2,4,6-Trinitrotoluol (TNT).
+
+- 4 Schutzausrüstung, die weder von Nummer ML 13 Anhang 3 GKV erfasst noch besonders konstruiert ist für den Sport oder als Arbeitsschutz,
+
+  wie folgt:
+
+  - 4\.1 Körperpanzer mit ballistischem Schutz und/oder Stichschutz;
+  - 4\.2 Helme mit ballistischem Schutz und/oder Splitterschutz, Schutzhelme, Schutzschilde und ballistische Schutzschilde.
+
+- 5 Andere Simulatoren als die von Nummer ML 14 Anhang 3 GKV erfassten für das Training im Gebrauch von Feuerwaffen und besonders entwickelte Software hierfür.
+- 6 Andere Nachtsicht- und Wärmebildausrüstung sowie Bildverstärkerröhren als die von den Anhängen 3 und 5 GKV erfassten.
+- 7 Bandstacheldraht.
+- 8 Militärmesser, Kampfmesser und Bajonette mit einer Klingenlänge von mehr als 10 cm, die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden.
+- 9
+
+  Güter, die für die Hinrichtung von Menschen konstruiert sind, wie folgt:
+
+  - 9\.1 Galgen und Fallbeile;
+  - 9\.2 elektrische Stühle;
+  - 9\.3 hermetisch verschliessbare Kammern, zum Beispiel hergestellt aus Stahl oder Glas, konstruiert zur Hinrichtung von Menschen durch Verabreichung von tödlichen Gasen oder Substanzen;
+  - 9\.4 automatische Injektionssysteme, konstruiert zur Hinrichtung von Menschen durch Verabreichung einer letalen chemischen Substanz.
+
+- 10 Elektroschock-Gürtel, konstruiert, um durch Abgabe von Elektroschocks mit einer Leerlaufspannung von mehr als 10 000 Volt auf Menschen Zwang auszuüben.
+- 11
+
+  Güter, konstruiert zur Fesselung von Menschen, wie folgt:
+
+  - 11\.1 Zwangsstühle und Fesselungsbretter. Nicht erfasst sind Stühle, die für behinderte Personen konstruiert sind;
+  - 11\.2 Fusseisen, Mehrpersonen-Fesseln, Fesseln und Einzelschellen oder Fesselarmbänder. Nicht erfasst sind Handschellen, deren Gesamtlänge einschliesslich Kette, gemessen im geschlossenen Zustand vom Aussenrand einer Schelle zum Aussenrand der anderen Schelle, zwischen 150 und 280 mm beträgt und die nicht verändert wurden, um körperliche Schmerzen oder Leiden zu verursachen.
+  - 11\.3 Daumenschellen und Daumenschrauben, einschliesslich gezackter Daumenschellen.
+
+- 12 Tragbare Elektroschockgeräte, einschliesslich Elektroschock-Schlagstöcken, Elektroschock-Schilden, Elektroschockern (Paralysern) und Elektroschock-Pfeilwaffen, die eine Leerlaufspannung von mehr als 10 000 Volt haben und die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden. Nicht erfasst sind einzelne Elektroschockgeräte, wenn diese zum persönlichen Schutz mitgeführt werden.
+- 13 Substanzen zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz sowie dazugehörige tragbare Ausbringungsausrüstung,
+
+  wie folgt:
+
+  - 13\.1 tragbare Geräte zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz durch Verabreichung oder Verbreitung einer handlungsunfähig machenden chemischen Substanz, die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden.Nicht erfasst sind einzelne tragbare Geräte mit oder ohne chemische Substanz, wenn diese zum persönlichen Schutz mitgeführt werden.
+  - 13\.2 Pelargonsäurevanillylamid (Nonivamid, PAVA) (CAS-Nr. 2444-46-4);
+  - 13\.3 Oleoresin Capsicum (OC) (CAS-Nr. 8023-77-6).
+
+- 14 Ausrüstung, besonders konstruiert für die Herstellung der in dieser Liste aufgeführten Güter.
+- 15 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
+
+[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
+
+Anhang 2*[^t-1]*
+
+(Art. 2 Abs. 1 Bst. a und b sowie Art. 9*a* und 9*b*)
+
+## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+
+[^t-1]: Fassung gemäss Ziff. I 13 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+**Anmerkung**
+
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.*[^annex2-lvlu1-1]*
+
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex2-lvlu1-2]*
+
+[^annex2-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
+[^annex2-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+
+Anhang 3*[^t-2]*
+
+(Art. 2 Abs. 1)
+
+## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+
+[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[957](https://fedlex.data.admin.ch/eli/oc/2013/198)[2073](https://fedlex.data.admin.ch/eli/oc/2013/432), [2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107), [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)[2971](https://fedlex.data.admin.ch/eli/oc/2015/563), [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80), [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287), [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471), [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489), [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)[3969](https://fedlex.data.admin.ch/eli/oc/2020/736)[4155](https://fedlex.data.admin.ch/eli/oc/2020/760)[4519](https://fedlex.data.admin.ch/eli/oc/2020/796)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+
+Anhang 4*[^t-3]*
+
+(Art. 4 Abs. 1 und 2 sowie Art. 9*a* und 9*b*)
+
+## Natürliche Personen, gegen die sich das Ein- und Durchreiseverbot richtet
+
+[^t-3]: Fassung gemäss Ziff. I 13 der V vom 4. März 2016, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+
+**Anmerkung**
+
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen.*[^annex4-lvlu1-1]*
+
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex4-lvlu1-2]*
+
+[^annex4-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
+[^annex4-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+
+Anhang 5*[^t-4]*
+
+(Art. 4)
+
+## Natürliche Personen, gegen die sich das Ein- und Durchreiseverbot richtet
+
+[^t-4]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[2073](https://fedlex.data.admin.ch/eli/oc/2013/432), [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)[2971](https://fedlex.data.admin.ch/eli/oc/2015/563), [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80), [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287), [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471), [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489), [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)[3969](https://fedlex.data.admin.ch/eli/oc/2020/736)[4155](https://fedlex.data.admin.ch/eli/oc/2020/760)[4519](https://fedlex.data.admin.ch/eli/oc/2020/796)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.

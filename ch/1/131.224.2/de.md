@@ -1,0 +1,1196 @@
+---
+sr: "131.224.2"
+title: "Verfassung für den Eidgenössischen Stand Appenzell I. Rh., vom 24. November 1872"
+eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
+language: de
+version: 2019-03-22
+adopted: 1872-11-24
+in_force: 1873-04-27
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/de/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20190322-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verfassung für den Eidgenössischen Stand Appenzell I. Rh.
+
+vom 24. Wintermonat 1872 (Stand am 22. März 2019)[^t-1]
+
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+
+## I. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+<sup>1</sup> Die Verfassung ist diejenige eines Volksstaates und Bundesgliedes der schweizerischen Eidgenossenschaft. Die Staatsgewalt ruht wesentlich im Volke und wird von demselben an der Landsgemeinde ausgeübt.
+
+<sup>2</sup> Das Volk gibt sich seine Verfassung, entscheidet über Annahme oder Verwerfung der Gesetze und nimmt die der Landsgemeinde zustehenden Wahlen vor.
+
+<sup>3</sup> Der Grosse Rat regelt das Erforderliche durch Verordnung.[^1-1]
+
+[^1-1]: Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+#### Art. 2
+
+<sup>1</sup> Durch die Verfassung ist grundsätzlich volle Freiheit anerkannt, und es sind folgende Rechte von selbst gewährleistet: die Gleichheit der Bürger und Gleichberechtigten vor dem Gesetze und die persönliche Freiheit; ferner nach Massgabe der allgemeinen Rechtsbestimmungen die freie Meinungsäusserung durch Wort und Schrift, sowie das Vereins- und Versammlungsrecht; auch ist die Unverletzlichkeit des Hausrechtes ausgesprochen.
+
+<sup>2</sup> Die Freiheit des Handels, des Verkehrs und der Gewerbe ist nach Inhalt der einschlagenden Bestimmungen gesichert.
+
+<sup>3</sup> Das Lotteriemonopol steht, soweit es nicht von Bundesrechts wegen eingeschränkt ist, dem Kanton zu.[^2-1]
+
+[^2-1]: Angenommen an der Landsgemeinde vom 30. April 2000, in Kraft seit 30. April 2000. Gewährleistungsbeschluss vom 20. März 2001 ([BBl 2001 1374](https://fedlex.data.admin.ch/eli/fga/2001/285)Art. 1 Ziff. 5, [2000 5255](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
+
+#### Art. 3
+
+[^3-1]
+
+Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körperschaften öffentlichen Rechts anerkannt. Sie regeln ihre inneren Angelegenheiten selbständig.
+
+[^3-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 4
+
+<sup>1</sup> Das Eigentum jeder Art, gehöre es Privaten, Gesellschaften, vom Staate anerkannten Korporationen und Stiftungen oder Gemeinden, ist unverletzlich.
+
+<sup>2</sup> Für Zwecke, die im Interesse des Kantons oder einer Landesgegend liegen, kann gegen volle Entschädigung die Abtretung oder die Belastung von Eigentum verlangt werden. Die Enteignung ist jedoch nur zulässig, sofern und soweit sie zur Erreichung des Zweckes erforderlich und eine gütliche Einigung nicht oder nur unter unverhältnismässigem Kostenaufwand möglich ist.[^4-1]
+
+<sup>3</sup> Nähere Bestimmungen trifft die Gesetzgebung.[^4-2]
+
+<sup>4</sup> …[^4-3]
+
+[^4-1]: Angenommen an der Landsgemeinde vom 24. April 1960, in Kraft seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__)4).
+[^4-2]: Angenommen an der Landsgemeinde vom 24. April 1960, in Kraft seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__)4).
+[^4-3]: Aufgehoben an der Landsgemeinde vom 24. April 1960, mit Wirkung seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__)4).
+
+#### Art. 5
+
+<sup>1</sup> Der Staat gewährleistet die Sicherheit des korporativen geistlichen Vermögens und dessen stiftungsgemässe Besorgung und Verwendung.
+
+<sup>2</sup> Die Verwaltung des den Klöstern zustehenden Vermögens steht nach bisheriger Weise unter Schutz des Staates.[^5-1]
+
+<sup>3</sup> …[^5-2]
+
+[^5-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^5-2]: Aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 6
+
+[^6-1]
+
+<sup>1</sup> Niemand darf seinem verfassungsmässigen Richter entzogen werden.
+
+<sup>2</sup> Es ist den Parteien unbenommen, in beidseitigem Einverständnis für den Entscheid von Rechtsstreitigkeiten Schiedsgerichte anzurufen.
+
+[^6-1]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
+
+#### Art. 7
+
+[^7-1]
+
+Alle Kantonseinwohner sowie Genossenschaften und Ortskreise haben das Recht, an die Orts- und Kantonsbehörden ihre Wünsche und Verlangen zu stellen.
+
+[^7-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
+
+#### Art. 7<sup>bis</sup>
+
+[^7bis-1]
+
+<sup>1</sup> Jeder Stimmberechtigte kann durch Einreichung einer Initiative nach Massgabe der folgenden Bestimmungen die Abänderung der Verfassung sowie den Erlass, die Abänderung oder die Aufhebung von Gesetzen beantragen.
+
+<sup>2</sup> Die Initiative kann als allgemeine Anregung oder, wenn dadurch nicht die Totalrevision der Verfassung verlangt wird, als ausgearbeiteter Entwurf eingebracht werden. Sie darf sich nur auf ein bestimmtes Sachgebiet beziehen. Genügt sie dieser Anforderung nicht, so sind die einzelnen in ihr enthaltenen Sachgebiete getrennt zu behandeln.
+
+<sup>3</sup> Mit der Initiative darf nichts verlangt werden, was dem Bundesrecht oder, soweit sie nicht deren Abänderung zum Gegenstand hat, der Kantonsverfassung widerspricht.
+
+<sup>4</sup> Erfolgt die Initiative in der Form der allgemeinen Anregung und ist der Grosse Rat mit derselben einverstanden, so arbeitet er einen entsprechenden Entwurf aus und unterbreitet diesen der Landsgemeinde zur Annahme oder Verwerfung. Lehnt der Grosse Rat die allgemeine Anregung ab, so legt er diese samt einem allfälligen Gegenvorschlag der Landsgemeinde vor. Stimmt die Landsgemeinde der Initiative oder dem Gegenvorschlag zu, so arbeitet der Grosse Rat einen Entwurf im Sinne des Landsgemeindebeschlusses aus und unterbreitet diesen der Landsgemeinde zur Annahme oder Verwerfung.
+
+<sup>5</sup> Die Initiative in der Form des ausgearbeiteten Entwurfes ist der Landsgemeinde zu unterbreiten. Der Grosse Rat kann ihr einen Gegenvorschlag gegenüberstellen, der gleichzeitig mit der Initiative zur Abstimmung zu bringen ist.
+
+<sup>6</sup> Initiativen sind bis 31. Mai schriftlich dem Grossen Rat zur Prüfung und Begutachtung einzureichen.[^7bis-2] Sie sind der nächsten ordentlichen Landsgemeinde vorzulegen; Entwürfe, die der Grosse Rat aufgrund einer Vorabstimmung im Sinne von Absatz 4 auszuarbeiten hat, sind der auf die Vorabstimmung folgenden ordentlichen Landsgemeinde zu unterbreiten. Diese Fristen kann der Grosse Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder höchstens um zwei Jahre verlängern, wenn es besondere Umstände erfordern, wie die Ausarbeitung neuer Gesetze oder grösserer Revisionen von Verfassung oder Gesetzen oder grösserer Gegenvorschläge.
+
+<sup>7</sup> Das weitere Verfahren für die Ausübung des Initiativrechtes kann durch Erlass des Grossen Rates geregelt werden.
+
+[^7bis-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
+[^7bis-2]: Angenommen an der Landsgemeinde vom 29. April 2018, in Kraft seit 1. Mai 2018. Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 6, [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
+
+#### Art. 7<sup>ter</sup>
+
+[^7ter-1]
+
+<sup>1</sup> Freie Beschlüsse des Grossen Rates über einmalige Ausgaben von wenigstens 1 000 000 Franken oder während mindestens 4 Jahren wiederkehrende Leistungen von wenigstens 250 000 Franken unterstehen dem obligatorischen Referendum.[^7ter-2]
+
+<sup>2</sup> 200 stimmberechtigte Kantonseinwohner können über einen freien Grossratsbeschluss den Entscheid der Landsgemeinde verlangen, wenn der Beschluss zulasten des Staates für den gleichen Gegenstand eine einmalige neue Ausgabe von wenigstens 500 000 Franken oder eine während mindestens 4 Jahren wiederkehrende Leistung von wenigstens 125 000 bewirkt. Ausgaben für die Besoldung des Staatspersonals sind dem fakultativen Referendum entzogen.[^7ter-3]
+
+<sup>3</sup> Ein referendumsfähiger Beschluss erwächst in Rechtskraft, wenn nicht innert 30 Tagen seit dessen amtlicher Publikation ein rechtsgültiges Begehren auf Herbeiführung eines Entscheids der Landsgemeinde zuhanden der Standeskommission eingereicht worden ist.
+
+<sup>4</sup> Ausgabenbeschlüsse des Grossen Rates unterstehen dem Referendum nicht, wenn der Vollzug keinen Aufschub erträgt. Über die Dringlichkeit entscheidet der Grosse Rat in geheimer Abstimmung. Der Beschluss bedarf einer Mehrheit von zwei Dritteln der Anwesenden.
+
+<sup>5</sup> Das weitere Verfahren betreffend die Ausübung des fakultativen Referendums wird durch Erlass des Grossen Rates geregelt.
+
+<sup>6</sup> …[^7ter-4]
+
+[^7ter-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
+[^7ter-2]: Angenommen an der Landsgemeinde vom 27. April 2014, in Kraft seit 27. April 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 7, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7ter-3]: Angenommen an der Landsgemeinde vom 27. April 2014, in Kraft seit 27. April 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 7, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7ter-4]: Aufgehoben an der Landsgemeinde vom 30. April 1995, mit Wirkung seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
+
+#### Art. 8
+
+Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach Inhalt der Bundesbestimmungen wehrpflichtig.
+
+#### Art. 9
+
+[^9-1]
+
+Änderungen des Steuersystems kommen einzig der Landsgemeinde zu.
+
+[^9-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 10
+
+<sup>1</sup> …[^10-1]
+
+<sup>2</sup> Der Staat hält eingehende Aufsicht über die Behörden in ihrer Tätigkeit und Haushaltung in den verschiedenen Zweigen des Gemeindelebens.[^10-2]
+
+<sup>3</sup> Demselben steht daher in Fällen, wo das Wohl der einzelnen Landesteile oder des Landes es erfordert, das Recht zu, in die Gemeindeangelegenheiten einzugreifen.
+
+<sup>4</sup> Namentlich steht ihm auch das Recht zu, die Verteilung der Güter der Nutzungsgenossenschaften unter die einzelnen Nutzungsteilhaber zu verhindern.
+
+[^10-1]: Aufgehoben an der Landsgemeinde vom 30. April 1995, mit Wirkung seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
+[^10-2]: Angenommen an der Landsgemeinde vom 30. April 1995, in Kraft seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
+
+#### Art. 11
+
+<sup>1</sup> Die Verwaltung des Staatshaushaltes ist insoweit öffentlich, dass die Amtsrechnungen je nach Jahresschluss bekannt gemacht werden müssen.
+
+<sup>2</sup> … [^11-1]
+
+<sup>3</sup> Alle Gesetze und Verordnungen, sowie auch amtliche Beschlussesnahmen, welche von allgemeinem Interesse sind, werden in angemessener Weise veröffentlicht.
+
+<sup>4</sup> …[^11-2]
+
+[^11-1]: Aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 4, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+[^11-2]: Aufgehoben an der Landsgemeinde vom 24. April 1994, mit Wirkung seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 12
+
+<sup>1</sup> Das öffentliche Unterrichtswesen ist nach Massgabe eingehender Bestimmungen Sache des Staates.[^12-1]
+
+<sup>2</sup> Der öffentliche obligatorische Volksschulunterricht ist unentgeltlich. Die entsprechenden Kosten haben die Schulgemeinden unter angemessener Beihilfe des Staates zu tragen, welcher die Vervollkommnung des Volksschulwesens im Auge hat.[^12-2]
+
+[^12-1]: Angenommen an der Landsgemeinde vom 25. April 2004, in Kraft seit 25. April 2004. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^12-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 13
+
+[^13-1]
+
+Über den Erwerb des Landrechtes entscheidet der Grosse Rat.
+
+[^13-1]: Angenommen an der Landsgemeinde vom 25. April 1993, in Kraft seit 25. April 1993. Gewährleistungsbeschluss vom 9. Juni 1994 ([BBl 1994 III 319](https://fedlex.data.admin.ch/eli/fga/1994/3_319__)Art. 1 Ziff. 2; [1993 IV 465](https://fedlex.data.admin.ch/eli/fga/1993/4_465__)).
+
+#### Art. 14
+
+Das Niederlassungswesen wird im Sinne der Bundesbestimmungen behandelt.
+
+## II. Abschnitt: Landeseinteilung
+
+#### Art. 15
+
+<sup>1</sup> Der eidgenössische Stand Appenzell Innerrhoden teilt sich in sechs Bezirke:
+
+<table>
+<tr><td>Appenzell,</td><td>Schlatt-Haslen,</td></tr>
+<tr><td>Schwende,</td><td>Gonten,</td></tr>
+<tr><td>Rüte,</td><td>Oberegg.</td></tr>
+</table>
+
+<sup>2</sup> Appenzell ist der Hauptort des Kantons und als solcher Sitz der Kantonsbehörden.
+
+## III. Abschnitt: Öffentliche Rechte und Pflichten des Einzelnen
+
+#### Art. 16
+
+[^16-1]
+
+<sup>1</sup> An Landsgemeinden und an Gemeindeversammlungen sind alle im Kanton wohnhaften Schweizerbürgerinnen und Schweizerbürger stimmberechtigt, sofern sie das 18. Altersjahr vollendet haben und im Stimmregister eingetragen sind.
+
+<sup>1bis</sup> Die Kirchgemeinden können das Stimm- und Wahlrecht für ausländische Gemeindemitglieder mit Niederlassungsbewilligung einführen.[^16-2]
+
+<sup>2</sup> Vom Stimmrecht ist ausgeschlossen, wer wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht oder durch eine vorsorgebeauftragte Person vertreten wird.[^16-3]
+
+<sup>3</sup> In Gemeindeangelegenheiten üben die Stimmberechtigten ihre Rechte am politischen Wohnsitz aus.
+
+[^16-1]: Angenommen an der Landsgemeinde vom 26. April 1992, in Kraft seit 26. April 1992. Gewährleistungsbeschluss vom 14. Dez. 1993 ([BBl 1993 IV 599](https://fedlex.data.admin.ch/eli/fga/1993/4_599__)Art. 1 Ziff. 8 II 180).
+[^16-2]: Angenommen an der Landsgemeinde vom 30. April 2017, in Kraft seit 30. April 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 3 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
+[^16-3]: Angenommen an der Landsgemeinde vom 26. April 2015, in Kraft seit 26. April 2015. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. b, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+
+#### Art. 17
+
+Jeder Stimmberechtigte ist nicht bloss berechtigt, sondern auch verpflichtet, an allen Landsgemeinden und verfassungsmässigen öffentlichen Versammlungen teilzunehmen.
+
+#### Art. 18
+
+<sup>1</sup> Jeder Stimmberechtigte ist pflichtig, bis zum erfüllten 65. Altersjahr eine Wahl in die Standeskommission oder das Kantonsgericht, sowie Ämter, welche ihm durch den Grossen Rat, die Standeskommission, die Bezirks-, Kirchen- oder Schulgemeinde, ferner durch ein Gericht, den Bezirks-, Kirchen- oder Schulrat übertragen werden, anzunehmen.[^18-1]
+
+<sup>2</sup> Von dieser Pflicht ist schon vor der Erfüllung des 65. Altersjahres befreit, wer während zusammen mindestens acht Jahren Mitglied einer in Absatz 1 genannten Behörde war. Auch ist niemand verpflichtet, eine dieser Beamtungen während mehr als vier Jahren zu übernehmen.[^18-2]
+
+<sup>3</sup> Der Grosse Rat ist Rekursbehörde.[^18-3]
+
+[^18-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^18-2]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^18-3]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+## IV. Abschnitt: Gesetzgebende Behörde
+
+#### Art. 19
+
+<sup>1</sup> Die oberste Behörde des Landes ist die Landsgemeinde.
+
+<sup>2</sup> Sie versammelt sich regelmässig je am letzten Sonntag im April, ausserordentlicherweise auf Beschluss des Grossen Rates hin.
+
+<sup>3</sup> Fällt Ostern auf den letzten Sonntag im April, findet die Landsgemeinde am ersten Sonntag im Mai statt.[^19-1]
+
+[^19-1]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+
+#### Art. 20
+
+<sup>1</sup> Die Landsgemeinde ist die gesetzgebende Behörde und oberste Wahlbehörde.
+
+<sup>2</sup>
+
+Sie wählt alljährlich:
+
+- [tab]
+
+  1.[^20-1] Die *Standeskommission*, bestehend aus sieben Mitgliedern:
+
+  - – dem regierenden Landammann, der als solcher nach zweijähriger Amtsdauer auf das folgende Jahr nicht wieder wählbar ist,
+  - – dem stillstehenden Landammann,
+  - – sowie Statthalter, Säckelmeister, Landeshauptmann, Bauherr und Landesfähndrich;
+
+- 2\. das *Kantonsgericht,* bestehend aus einem Präsidenten und zwölf Mitgliedern, wobei jeder Bezirk mit einem Mitglied vertreten sein muss;
+- 3\. …[^20-2]
+
+[^20-1]: Angenommen an der Landsgemeinde vom 30. April 1995, in Kraft seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
+[^20-2]: Aufgehoben an der Landsgemeinde vom 24. April 1994, mit Wirkung seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 20<sup>bis</sup>
+
+[^20bis-1]
+
+Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nationalrates den Vertreter des Kantons im schweizerischen Ständerat.
+
+[^20bis-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 21
+
+Über die Landsgemeinde gelten im weitern noch folgende Bestimmungen:
+
+- 1\.[^21-1] sie nimmt einen Bericht über die kantonalen Amtsverwaltungen entgegen;
+- 2\.[^21-2] ausserordentlich einberufene Landsgemeinden können nur über *den* oder *die* Gegenstände, wegen deren die Einberufung geschehen ist, abstimmen.
+
+[^21-1]: Ursprünglich Ziff. 2. Die ursprüngliche Ziff. 1 wurde aufgehoben an der Landsgemeinde vom 25. April 1993, mit Wirkung seit 25. April 1993. Gewährleistungsbeschluss vom 9. Juni 1994 ([BBl 1994 III 319](https://fedlex.data.admin.ch/eli/fga/1994/3_319__)Art. 1 Ziff. 2; [1993 IV 465](https://fedlex.data.admin.ch/eli/fga/1993/4_465__)).
+[^21-2]: Ursprünglich Ziff. 3.
+
+## V. Abschnitt: Verwaltende Behörden
+
+### 1. Kantonsbehörden
+
+### a. Grosser Rat
+
+#### Art. 22
+
+[^22-1]
+
+<sup>1</sup> Der Grosse Rat hat 50 Sitze.
+
+<sup>2</sup> Jedem der sechs Bezirke werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 26 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das Los.
+
+<sup>3</sup> Grundlage für die Zuweisung bildet die Bevölkerungszahl gemäss kantonaler Einwohnerkontrolle am letzten Tag des Vorjahres zum Erneuerungswahljahr.
+
+<sup>4</sup> Die Standeskommission weist den Bezirken die Sitze zu. Über Anstände entscheidet der Grosse Rat endgültig.
+
+[^22-1]: Angenommen an der Landsgemeinde vom 1. Mai 2011, in Kraft seit 1. Mai 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+
+#### Art. 23
+
+[^23-1]
+
+<sup>1</sup> Der Grosse Rat versammelt sich ordentlicherweise fünfmal im Jahr.
+
+<sup>2</sup> Er versammelt sich ausserordentlicherweise, wenn der Präsident des Grossen Rates oder die Standeskommission dies für notwendig erachten oder wenn zehn Mitglieder des Grossen Rates dies verlangen.
+
+<sup>3</sup> Sitzungsort ist Appenzell. Der Rat kann einen anderen Sitzungsort fallweise beschliessen.
+
+[^23-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 24
+
+[^24-1]
+
+<sup>1</sup> Die Einberufung zur ersten Sitzung einer neuen Amtsdauer erfolgt durch die Standeskommission. Bis zur Wahl der Präsidenten des Grossen Rates leitet das älteste Mitglied desselben die Verhandlungen.
+
+<sup>2</sup> Die Sitzungen des Grossen Rates sind in der Regel öffentlich. Geheime Sitzungen finden statt bei der Behandlung von Begnadigungsgesuchen und in besonderen Fällen auf Beschluss des Rates.
+
+<sup>3</sup> Der Grosse Rat erlässt auf dem Verordnungsweg ein Geschäftsreglement.
+
+[^24-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 25
+
+[^25-1]
+
+Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rates beratende Stimme und Antragsrecht.
+
+[^25-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 26
+
+[^26-1]
+
+<sup>1</sup> Der Grosse Rat bestimmt die Geschäftsordnung der Landsgemeinde.
+
+<sup>2</sup> Er legt derselben Verfassungs- und Gesetzesentwürfe vor, ferner prüft er die Anträge, welche von der Standeskommission, von andern Behörden oder einzelnen Stimmfähigen, sei es zur Erledigung durch den Rat oder zur Vorlage an die Landsgemeinde, vorgebracht werden.
+
+<sup>3</sup> Landsgemeindevorlagen sind dem Grossen Rat spätestens auf die drittletzte ordentliche Session vor der Landsgemeinde zu unterbreiten. Für dringliche oder einfache Vorlagen kann der Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder eine Ausnahme beschliessen.
+
+[^26-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 27
+
+[^27-1]
+
+<sup>1</sup> Der Grosse Rat erlässt Verordnungen und Reglemente zum Vollzug der Gesetzgebung des Kantons, in untergeordneten Fällen auch des Bundes.
+
+<sup>2</sup> Er legt die Grenzen der Bezirke und Gemeinden fest.[^27-2]
+
+<sup>3</sup> Er beschliesst über den Beitritt zu Konkordaten, entscheidet über deren Abänderung und deren Kündigung und kann den Vollzug regeln.[^27-3]
+
+<sup>4</sup> Er entscheidet, ob namens des Kantons das Referendum (Art. 141 Abs. 1 BV[^27-4]) oder die Initiative (Art. 160 Abs. 1 BV) ergriffen werden soll.[^27-5]
+
+[^27-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^27-2]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^27-3]: Ursprünglich Abs. 2. Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^27-4]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^27-5]: Ursprünglich Abs. 3. Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 28
+
+[^28-1]
+
+<sup>1</sup> Der Grosse Rat entscheidet über Gesuche um Begnadigung in den vom Gesetz vorgesehenen Fällen.
+
+<sup>2</sup> Er erteilt das Landrecht.
+
+[^28-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 29
+
+[^29-1]
+
+<sup>1</sup> Der Grosse Rat überwacht den Geschäftsgang aller Behörden. Er kann die Rechte und Pflichten der kantonalen Behörden und Angestellten regeln sowie die kantonale Verwaltungsorganisation festlegen, einschliesslich des Gebührenwesens. Er regelt für die kantonale Versicherungskasse das Erforderliche.[^29-2]
+
+<sup>2</sup> Er nimmt die durch die Standeskommission und das Kantonsgericht einzulegenden sowie die übrigen in der Gesetzgebung vorgesehenen Jahresberichte in Empfang.
+
+<sup>3</sup> Er entscheidet über das Mass der Steueranlagen.
+
+<sup>4</sup> Er setzt den Voranschlag über Einnahmen und Ausgaben sämtlicher kantonaler Verwaltungen und Gerichte auf je ein Verwaltungsjahr fest.[^29-3]
+
+<sup>5</sup> Er prüft und genehmigt alljährlich die Staatsrechnung.[^29-4]
+
+[^29-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^29-2]: Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^29-3]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^29-4]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 29<sup>bis</sup>
+
+[^29bis-1]
+
+<sup>1</sup>
+
+Der Grosse Rat wählt auf einjährige Dauer:
+
+- a. den Präsidenten, den Vizepräsidenten und drei Stimmenzähler;
+- b. seine Kommissionen.
+
+<sup>2</sup> Er wählt den Präsidenten der Bezirksgerichte und erlässt für diesen eine Anstellungsordnung.
+
+<sup>3</sup> Weitere Wahlen nimmt er vor, soweit er nach Gesetz oder Verordnung zuständig ist.
+
+[^29bis-1]: Angenommen an der Landsgemeinde vom 24. April 2005, in Kraft seit 24. April 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 3 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+
+### b. Standeskommission
+
+#### Art. 30
+
+<sup>1</sup> Die Standeskommission besteht aus den in Artikel 20 Ziffer 1 bezeichneten und durch die Landsgemeinde gewählten Mitgliedern, die weder dem Grossen Rat noch einem Bezirksrat noch einem Gericht oder einer Ortsbehörde angehören dürfen.[^30-1]
+
+<sup>2</sup> Sie verteilt die Regierungsgeschäfte unter ihre Mitglieder.
+
+<sup>3</sup> Sie vollzieht die Gesetze und Beschlüsse der Landsgemeinde sowie die Verordnungen und Beschlüsse des Grossen Rates.[^30-2]
+
+<sup>4</sup> Sie besorgt den diplomatischen Verkehr.
+
+<sup>5</sup> Sie erledigt alle Geschäfte, die einer Regierung als solcher zufallen und nicht ausdrücklich einer andern verfassungsmässigen Behörde zugewiesen sind.
+
+<sup>6</sup> Sie erlässt die nötigen Bestimmungen über das Niederlassungs- und Aufenthaltswesen.
+
+<sup>7</sup> Sie überwacht insbesondere das Kirchenwesen sowie die Verwaltung der genossenschaftlichen Nutzungsgüter.[^30-3]
+
+<sup>8</sup> Sie sorgt für beförderliche Erledigung der nach Massgabe der Gesetzgebung an sie gerichteten Beschwerden bezüglich die Rechtspflege und die Tätigkeit der Ortsbehörden.[^30-4]
+
+<sup>9</sup> Sie schliesst Programmvereinbarungen mit dem Bund ab. Übersteigen die mit einer Programmvereinbarung einzugehenden finanziellen Verpflichtungen die Beträge von Artikel 7<sup>ter</sup> der Kantonsverfassung oder macht der Abschluss einer Vereinbarung Verfassungs-, Gesetzes- oder Verordnungsänderungen notwendig, ist diese dem Grossen Rat bzw. der Landsgemeinde vorzulegen. Der Grosse Rat ist in diesen Fällen in die Verhandlungen miteinzubeziehen.[^30-5]
+
+<sup>10</sup>
+
+In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:
+
+- – zwei Personen, die miteinander verheiratet, in eingetragener Partnerschaft leben oder eine faktische Lebensgemeinschaft führen. Die Auflösung der Ehe bzw. der eingetragenen Partnerschaft hebt den Ausschliessungsgrund nicht auf;
+- – verwandt in gerader Linie oder bis zum zweiten Grade in der Seitenlinie;
+- – verschwägert in gerader Linie.[^30-6]
+
+<sup>11</sup> In wichtigeren Fällen können die regierenden oder sämtliche Hauptleute der Bezirke beigezogen werden.[^30-7]
+
+[^30-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^30-2]: Angenommen an der Landsgemeinde vom 25. April 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^30-3]: Ursprünglich Abs. 8. Angenommen an der Landsgemeinde vom 30. April 1995, in Kraft seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301). Der ursprüngliche Abs. 7 wurde aufgehoben durch Art. 209 Ziff. 1 des Einführungsgesetzes vom 30. April 1911 zum ZGB.
+[^30-4]: Ursprünglich Abs. 9. Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
+[^30-5]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^30-6]: Angenommen an der Landsgemeinde vom 30. April 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 4 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^30-7]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
+
+#### Art. 31
+
+<sup>1</sup> Sie versammelt sich, so oft es der regierende Landammann oder drei Mitglieder der Behörde als nötig erachten.
+
+<sup>2</sup> Zur gültigen Beschlussfassung ist die Anwesenheit von vier Mitgliedern erforderlich.[^31-1]
+
+[^31-1]: Angenommen an der Landsgemeinde vom 30. April 1995, in Kraft seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
+
+### c. Der Landammann
+
+#### Art. 32
+
+<sup>1</sup> Der regierende Landammann führt das Präsidium der Landsgemeinde und der Standeskommission.[^32-1]
+
+<sup>2</sup> Er unterzeichnet die von diesen Behörden ausgehenden Akten und bewahrt das Standessiegel auf.
+
+<sup>3</sup> Die Ratskanzlei ist seinen Anordnungen unmittelbar untergeben; er wacht über die Ausführung der von der Standeskommission gefassten Beschlüsse.[^32-2]
+
+<sup>4</sup> In Verhinderungsfällen wird er durch den stillstehenden Landammann vertreten.
+
+[^32-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^32-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+### 2. Bezirksbehörden
+
+### a. Bezirksgemeinde
+
+[^secV-lvl2-lvla-1]
+
+[^secV-lvl2-lvla-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 33
+
+[^33-1]
+
+<sup>1</sup> Die Bezirksgemeinde besteht aus allen im Bezirk wohnhaften, nach Artikel 16 stimmberechtigten Kantons- und Schweizerbürgern.[^33-2]
+
+<sup>2</sup> Sie findet alljährlich eine Woche nach der ordentlichen Landsgemeinde statt.[^33-3]
+
+<sup>3</sup> Sie wählt den regierenden und den stillstehenden Hauptmann, die übrigen Mitglieder des Bezirksrates sowie ein Mitglied des Bezirksgerichts.[^33-4]
+
+<sup>4</sup> Sie nimmt in den Jahren der Gesamterneuerungswahlen des Nationalrates die Wahl der dem Bezirk zustehenden Mitglieder des Grossen Rates gemäss Artikel 22 vor.
+
+<sup>5</sup> In Bezirken mit Urnenabstimmung finden die vorstehenden Wahlen spätestens am dritten Sonntag im Mai statt.
+
+<sup>6</sup> Ausscheidende Mitglieder des Grossen Rates sind sobald als möglich zu ersetzen. Das neu gewählte Mitglied tritt in die Amtsdauer des ausscheidenden Mitgliedes ein.
+
+<sup>7</sup> Die Bezirke können für die Wahl der Bezirksräte, der Mitglieder des Bezirksgerichts und der Vermittler sowie deren Stellvertreter eine höchstens vierjährige Amtsdauer beschliessen.[^33-5]
+
+<sup>8</sup> …[^33-6]
+
+[^33-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^33-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^33-3]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-4]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-5]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-6]: Angenommen an der Landsgemeinde vom 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)). Aufgehoben an der Landsgemeinde vom 29. April 2012, mit Wirkung seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+
+#### Art. 34
+
+Sie fasst alle wichtigeren Beschlussesnahmen, die nach Massgabe dieser Verfassung im Interesse des Gemeindewesens liegen.
+
+#### Art. 35
+
+Bei etwaigen in verschiedenen Wahlkreisen vorgekommenen Wahlen von Verwandten, die nach Artikel 30 von gleichzeitiger Wahlfähigkeit ausgeschlossen sind, hat der im Range folgende Kreis eine Neuwahl zu treffen.
+
+### b. Hauptleute und Räte
+
+#### Art. 36
+
+[^36-1]
+
+<sup>1</sup> Der Bezirksrat muss mindestens fünf Mitglieder zählen.
+
+<sup>2</sup> Die Bezirksgemeinde kann die weiteren Zuständigkeiten im Rahmen eines Reglements festlegen.[^36-2]
+
+[^36-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^36-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 37
+
+[^37-1]
+
+Hauptleute und Räte sorgen für die Ausführung der hoheitlichen Verfügungen, die Vollstreckung der durch die Bezirksgemeinde ergangenen Beschlüsse sowie die Vorberatung der von der Behörde selbst oder von einzelnen an die Bezirksgemeinde zu bringenden Vorlagen.
+
+[^37-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+## VI. Abschnitt: Richterliche Behörden
+
+[^secVI-1]
+
+[^secVI-1]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
+
+#### Art. 38
+
+In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksversammlung wählt für eine Amtsdauer von zwei Jahren einen Vermittler und einen Stellvertreter. Nicht wählbar sind die Mitglieder der Standeskommission, der Gerichte, sowie berufsmässige Parteivertreter. Das Nähere über Organisation, Geschäftsführung und Funktion des Vermittlers als Organ der Rechtspflege wird durch die Gesetzgebung bestimmt.
+
+#### Art. 39
+
+[^39-1]
+
+<sup>1</sup> Das Bezirksgericht ist das Gericht erster Instanz in den seiner Beurteilung unterstellten Straf- und Zivilsachen nach Massgabe der Gesetzgebung.
+
+<sup>2</sup> Die Bildung von besonderen Abteilungen zur Erledigung der Geschäfte wird durch die Gesetzgebung geordnet.
+
+[^39-1]: Angenommen an der Landsgemeinde vom 24. April 2005, in Kraft seit 24. April 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 3 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+
+#### Art. 40
+
+[^40-1]
+
+<sup>1</sup> Das Kantonsgericht ist als Zivil- und Strafgericht Berufungsinstanz gegen Erkenntnisse der Bezirksgerichte.
+
+<sup>2</sup> Das Kantonsgericht ist als Verwaltungsgericht Beschwerdeinstanz gegen Verfügungen von Verwaltungsbehörden des Kantons auf dem Gebiete des Staats-, Verwaltungs- und Sozialversicherungsrechts.
+
+<sup>3</sup> Die Organisation des Kantonsgerichts wird durch das Gesetz bestimmt.
+
+[^40-1]: Angenommen an der Landsgemeinde vom 26. April 1998, in Kraft seit 26. April 1998. Gewährleistungsbeschluss vom 20. März 2001 ([BBl 2001 1374](https://fedlex.data.admin.ch/eli/fga/2001/285)Art. 1 Ziff. 5, [2000 5255](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
+
+#### Art. 41 und 42
+
+[^4142-1]
+
+[^4142-1]: Aufgehoben an der Landsgemeinde vom 26. April 1998, mit Wirkung seit 26. April 1998. Gewährleistungsbeschluss vom 20. März 2001 ([BBl 2001 1374](https://fedlex.data.admin.ch/eli/fga/2001/285)Art. 1 Ziff. 5, [2000 5255](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
+
+#### Art. 43
+
+<sup>1</sup> Die Verhandlungen der Gerichte und die Urteilseröffnung sind öffentlich, soweit die Gesetzgebung nichts anderes bestimmt.[^43-1]
+
+<sup>2</sup> Die Beschlussfähigkeit der Gerichte wird durch die Gesetzgebung geregelt.
+
+<sup>3</sup> Die Protokollführung und der Kanzleidienst bei den Gerichten werden durch die Gesetzgebung geregelt.
+
+[^43-1]: Angenommen an der Landsgemeinde vom 27. April 1986, in Kraft seit 27. April 1986. Gewährleistungsbeschluss vom 18. Juni 1987 ([BBl 1987 II 964](https://fedlex.data.admin.ch/eli/fga/1987/2_964__)Art. 1 Ziff. 3, I 1).
+
+#### Art. 44
+
+<sup>1</sup> Die Mitglieder der Gerichte dürfen nicht gleichzeitig mehr als einer ordentlichen Gerichtsbehörde im Kanton angehören.
+
+<sup>2</sup> Die Mitglieder der Standeskommission, des Grossen Rates sowie die Bezirksräte können den Gerichten nicht angehören.[^44-1]
+
+[^44-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+
+#### Art. 45
+
+<sup>1</sup> Die gesamte Organisation der bürgerlichen, der Straf- und Verwaltungsrechtspflege und das Verfahren wird im Übrigen im Rahmen der Verfassung durch die Gesetzgebung geregelt. Diese kann auch ergänzende Bestimmungen aufstellen, soweit diese mit der Verfassung nicht in Widerspruch stehen.
+
+<sup>2</sup> Die Beurteilung von Zivil- und Strafrechtsfällen (Übertretungen) kann durch die Gesetzgebung auch nicht richterlichen Behörden oder Amtsstellen übertragen werden.
+
+## VII. Abschnitt: Ortsbehörden, Kirchen- und Schulwesen
+
+#### Art. 46
+
+<sup>1</sup> Die Kirch- und Schulgemeinden bestehen aus den nach Artikel 16 Stimmfähigen.[^46-1]
+
+<sup>2</sup> Sie versammeln sich ordentlicherweise einmal im Jahr; ausserordentlicherweise auf Einberufung ihrer Kirchen- und Schulräte hin.[^46-2]
+
+<sup>3</sup> Sie wählen die Kirchen- und Schulräte.[^46-3]
+
+<sup>4</sup> Die Kirchen- und Schulräte bestehen aus fünf bis neun Mitgliedern.[^46-4]
+
+<sup>5</sup> Die Kirchgemeinden nehmen einen Jahresbericht über die Rechnungsführung ihrer Verwaltungen entgegen. Sie bestimmen ohne Angriff der Fonds über die Deckung der Ausgaben, welche aus den Einnahmen nicht bestritten werden können, ebenso über die Vornahme von wichtigeren Bauten.[^46-5]
+
+<sup>6</sup> Durch Konkordat mit einem anderen Kanton kann bestimmt werden, dass die Einwohner der beiden Kantone, welche sich zur römisch-katholischen bzw. zur evangelisch-reformierten Konfession bekennen, von Kirchgemeinden im anderen Kanton als vollberechtigte und in allen Rechten und Pflichten stehende Kirchgenossen anerkannt werden.[^46-6]
+
+[^46-1]: Angenommen an der Landsgemeinde vom 29. April 1979, in Kraft seit 29. April 1979. Gewährleistungsbeschluss vom 13. Dez. 1979 ([BBl 1979 III 1153](https://fedlex.data.admin.ch/eli/fga/1979/3_1153__)Art. 1 Ziff. 2 854).
+[^46-2]: Angenommen an der Landsgemeinde vom 29. April 1979, in Kraft seit 29. April 1979. Gewährleistungsbeschluss vom 13. Dez. 1979 ([BBl 1979 III 1153](https://fedlex.data.admin.ch/eli/fga/1979/3_1153__)Art. 1 Ziff. 2 854).
+[^46-3]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^46-4]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^46-5]: Ursprünglich Abs. 2.
+[^46-6]: Ursprünglich Abs. 3. Angenommen an der Landsgemeinde vom 27. April 2008, in Kraft seit 27. April 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 2 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+
+#### Art. 47
+
+Den Kirchen- und Schulräten steht die Leitung der ihnen anheim gestellten Verwaltungen zu, besonders die gedeihliche Förderung der in diesen liegenden Zwecke.[^47-1]
+
+[^47-1]: Ursprünglich Abs. 1. Der Inhalt des ursprünglichen Abs. 2 wurde aufgehoben an der Landsgemeinde vom 25. April 2004, mit Wirkung seit 25. April 2004. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+## VIII. Abschnitt: Abänderung der Verfassung
+
+#### Art. 48
+
+[^48-1]
+
+<sup>1</sup> Die Verfassung kann jederzeit ganz oder teilweise abgeändert werden.
+
+<sup>2</sup> Der Grosse Rat kann von sich aus der Landsgemeinde Entwürfe für Teilrevisionen vorlegen. Bei solchen ist über die einzelnen Sachgebiete, die nicht miteinander zusammenhängen, getrennt abzustimmen.
+
+<sup>3</sup> Für Initiativen auf Teilrevision gelten die Bestimmungen von Artikel 7<sup>bis</sup> sinngemäss.
+
+<sup>4</sup> Wird eine Totalrevision vom Grossen Rat oder auf dem Initiativwege beantragt, so hat die Landsgemeinde zunächst zu entscheiden, ob eine solche vorzunehmen sei oder nicht. Beschliesst die Landsgemeinde die Totalrevision, so arbeitet der Grosse Rat eine neue Verfassung aus und unterbreitet sie spätestens der dritten auf die Vorabstimmung folgenden ordentlichen Landsgemeinde. Diese Frist kam an der zweiten auf die Vorabstimmung folgenden ordentlichen Landsgemeinde angemessen verlängert werden.
+
+<sup>5</sup> Total- und Teilrevisionen der Verfassung sind vom Grossen Rat in zwei Lesungen zu behandeln.
+
+[^48-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
+
+## Übergangsbestimmungen
+
+#### Art. 1
+
+<sup>1</sup> Vorliegende Verfassung tritt an der ordentlichen Landsgemeinde 1873, sonntags, den 27. April, in Kraft.
+
+<sup>2</sup> Alle kantonalen Gesetze, Verordnungen und weiteren Erlasse mit rechtssetzendem allgemeinverbindlichem Inhalt sind in die Gesetzessammlungen aufzunehmen. Sie gelten als aufgehoben, sofern sie am 1. Juli 1992 nicht darin enthalten waren.[^u1-1-1]
+
+…[^u1-1-2]
+
+[^u1-1-1]: Ursprünglich Abs. 3. Angenommen an der Landsgemeinde vom 25. April 1993, in Kraft seit 25. April 1993. Gewährleistungsbeschluss vom 9. Juni 1994 ([BBl 1994 III 319](https://fedlex.data.admin.ch/eli/fga/1994/3_319__)Art. 1 Ziff. 2; [1993 IV 465](https://fedlex.data.admin.ch/eli/fga/1993/4_465__)). Der ursprüngliche Abs. 2 wurde aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^u1-1-2]: Der ursprüngliche Abs. 4 wurde aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+
+#### Art. 2
+
+[^u1-2-1]
+
+[^u1-2-1]: Angenommen an der Landsgemeinde vom 1. Mai 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)). Nach Vollzug aufgehoben durch Beschluss der Standeskommission vom 12. Mai 2015.
+
+#### Art. 3
+
+[^u1-3-1]
+
+[^u1-3-1]: Angenommen an der Landsgemeinde vom 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)). Nach Vollzug aufgehoben durch Beschluss der Standeskommission vom 18. Aug. 2014.
+
+## Sachregister
+
+Die Zahlen verweisen auf die Artikel und Artikelteile der Verfassung
+
+**Abstimmung** s. Volksabstimmung
+
+Alter
+
+Amt
+
+**Aufsicht** (Oberaufsicht, Überwachung)
+
+Ausgaben
+
+Beamte
+
+**Begnadigung** Kompetenz des Grossen Rates 28<sup>1</sup>
+
+Behörden
+
+Bericht
+
+Beschlüsse
+
+Bezirke
+
+**Budget** s. Voranschlag
+
+Bund
+
+Bürger
+
+**Datum**
+
+**Eigentum** Garantie 4
+
+**Enteignung** 4
+
+Entschädigung
+
+**Expropriation** 4
+
+**Finanzreferendum** fakultatives 7<sup>ter</sup>
+
+**Gebührenwesen** 29<sup>1</sup>
+
+Gemeinden
+
+Gerichte
+
+Gesetze
+
+Gewaltenteilungsprinzip
+
+**Gewerbefreiheit** 2
+
+**Gleichheit** vor dem Gesetze 2
+
+Grenzbeschriebe 27<sup>2</sup>
+
+Grosser Rat
+
+**Handels**- und Gewerbefreiheit 2
+
+**Hauptleute** und Räte 37
+
+**Hauptort** des Kantons 15
+
+**Hausrecht** 2
+
+Initiative
+
+**Jahresbericht** s. Berichte
+
+Kanton
+
+Kirchen 3
+
+**Konfession** 46<sup>6</sup>
+
+**Konkordate** 27<sup>2</sup>, 46<sup>6</sup>
+
+**Körperschaften** 3
+
+Korporationen
+
+**Landammann,** regierender und stillstehender
+
+**Landeshauptmann**, Landesfähnrich Wahl 20<sup>2</sup>
+
+**Landrecht** (Kantonsbürgerrecht) 13
+
+Landsgemeinde
+
+Lotteriemonopol 2<sup>3</sup>
+
+**Meinungsäusserung** freie 2
+
+Militär
+
+Niederlassung
+
+Nutzungsgenossenschaften
+
+Öffentlichkeit
+
+**Partnerschaft**, eingetragene 30<sup>9</sup>
+
+**persönliche** Freiheit 2
+
+**Petitionsrecht** 7
+
+**Pflichten**
+
+**politische** Rechte s. Rechte
+
+**Pressefreiheit** 2
+
+**Programmvereinbarungen**, Abschluss 30<sup>9</sup>
+
+**Proportionalwahl** des Grossen Rates 22, 33
+
+Ratskanzlei
+
+Rechte
+
+**Rechtspflege** s. auch Gerichte
+
+Referendum
+
+Revision
+
+Richter
+
+**Schiedsgerichte** 6
+
+**Schulwesen** (Unterrichtswesen)
+
+**Schweizer** Bürger s. Bürger
+
+Staat
+
+**Ständerat** Wahl 20<sup>bis</sup>
+
+Standeskommission
+
+**Statthalter** Wahl 20<sup>2</sup>
+
+Steuern
+
+Stimmrecht
+
+**Strafwesen** s. Rechtspflege
+
+**Unterrichtswesen** s. Schulwesen
+
+Unvereinbarkeit
+
+**Vereins**- und Versammlungsrecht 2
+
+Verfassung
+
+**Verhältniswahl** des Grossen Rates 22, 33
+
+**Vermittleramt** 38
+
+**Veröffentlichung** der Gesetze und Verordnungen 11
+
+Verordnungen
+
+Versammlungsrecht 2
+
+Verwaltung
+
+Verwandtschaft
+
+Volk
+
+Vollziehung
+
+**Voranschlag** (Budget)
+
+**Vorschlagsrecht** s. Initiative
+
+Wählbarkeit
+
+Wahlen
+
+**Wehrpflicht** allgemeine 8
+
+**Zwangsabtretung** 4
+
+- – als Voraussetzung zur Stimmberechtigung 16
+- – obere Altersgrenze für Amtszwang 18
+
+- – Amtsdauer
+  - – Standeskommission 20<sup>2</sup>, 30
+  - – Grosser Rat 24<sup>1</sup>, 29<sup>bis</sup>
+  - – Bezirksbehörden 33
+
+- – Verwandtschaft zwischen Mitgliedern der Standeskommission, der Gerichte 30, 35
+- – Amtsrechnungen 11<sup>1</sup>
+- – Amtszwang 18
+- – Unvereinbarkeiten 38, 44
+
+- – des Grossen Rates
+  - – Behörden 29
+
+- – der Standeskommission
+  - – Kirchenwesen 30
+  - – Genossenschaftliche Nutzungsgüter 30
+
+- – des Landammanns, Ausführung der Beschlüsse 32
+- – des Staates
+  - – Behörden 10
+
+- – Finanzreferendum, fakultatives 7<sup>ter</sup>
+- – Kompetenz des Grossen Rates 29
+
+- – Wahl 20
+
+- – Staatsaufsicht 10
+- – Verwandtschaft zwischen Mitgliedern derselben Behörde 30
+- – Unvereinbarkeit 38, 44
+- – Staatsbehörden
+  - – Landsgemeinde (gesetzgebende Behörde) 19–21
+  - – Grosser Rat 22–29<sup>bis</sup>
+  - – Standeskommission 30, 31
+  - – Landammann 32
+
+- – Bezirksbehörden
+  - – Bezirksgemeinde 33–35
+  - – Bezirksgerichte 39
+  - – Hauptleute und Räte 37
+  - – Vermittler 38
+
+- – Gerichtsbehörden 38–45
+- – Ortsbehörden 46, 47
+
+- – der Standeskommission
+  - – Prüfung durch den Grossen Rat 29<sup>2</sup>
+  - – Entgegennahme durch die Landsgemeinde 21 <sup>1</sup>
+
+- – der Kirchgemeinden 46
+
+- – des Grossen Rates s. Gesetze
+- – der Standeskommission, Vollziehung 32
+- – Beschlussfähigkeit
+  - – der Standeskommission 31
+  - – der Gerichte 43
+
+- – Einteilung des Kantons 15
+- – Bezirksbehörden s. Behörden
+- – Bezirksgemeinde
+  - – Datum der 33<sup>2</sup>
+  - – Begriff 33
+  - – als Wahlbehörde 33, 35
+  - – Obliegenheiten 33–35
+
+- – Bezirksgericht 39
+  - – Präsident 29<sup>bis</sup>
+  - – Wahl 33<sup>3</sup>
+
+- – Bezirksrat 36
+
+- – Bundesglied der schweizerischen Eidgenossenschaft 1
+
+- – Gleichheit vor dem Gesetz 2
+- – Stimmberechtigung 16
+- – Bürgerpflicht 17
+- – Wählbarkeit. Amtszwang 18
+- – Niederlassung
+  - – Allgemeines 14
+  - – als Voraussetzung zur Stimmberechtigung 16
+  - – Kompetenz der Standeskommission 30
+
+- – Schweizer Bürger
+  - – Stimmberechtigung 16
+  - – Erwerb des Kantonsbürgerrechtes (Landrecht) 13
+
+- – der Landsgemeinde 19<sup>3</sup>
+- – der Bezirksgemeinde 33<sup>2</sup>
+
+- – bei Zwangsabtretungen 4
+
+- – Staatsaufsicht 10
+- – Kirchgemeinden
+  - – Stimmberechtigung 16, 46
+  - – Allgemeines 46, 47
+
+- – Schulgemeinden
+  - – Allgemeines 46, 47
+  - – Stimmberechtigung 46
+  - – Unterhalt der Volksschule 12
+
+- – Urnenabstimmung 33
+
+- – Allgemeines 38–45
+- – Gerichtsbehörden s. Behörden
+- – Bezirksgericht 39
+  - – Präsident 29<sup>bis</sup>
+  - – Wahl 33<sup>3</sup>
+
+- – Kantonsgericht
+  - – Allgemeines 40
+  - – als Berufungsinstanz gegen bezirksgerichtliche Entscheide 40
+  - – als Verwaltungsgericht 40
+  - – Wahl 20<sup>2</sup>
+  - – Wählbarkeit. Amtszwang 18
+
+- – Vermittleramt 38
+- – Verwandtschaft zwischen Mitgliedern derselben Gerichtsbehörde 30, 35
+- – Schiedsgericht 6
+
+- – Gleichheit vor dem Gesetz 2
+- – Gesetzesinitiative 7<sup>bis</sup>, 26
+- – Kompetenz des Volkes 1
+- – gesetzgebende Behörde 20
+- – Vollziehung 30
+- – Veröffentlichung 11
+- – Gesetzessammlung UeB 1<sup>2</sup>
+
+- – Trennung von Standeskommission, grossem Rat, Bezirksrat und Gerichten 30<sup>1</sup>, 44<sup>2</sup>
+
+- – Allgemeines 22–29<sup>bis</sup>
+- – Kompetenz bei Gesetzesinitiativen, fakultatives Referendum 7<sup>bis</sup>, 7<sup>ter</sup>
+- – Öffentlichkeit der Sitzungen 24<sup>2</sup>
+- – Erteilung des Landrechts 13
+- – als Rekursbehörde 18
+- – Einberufung der Landsgemeinde 19
+- – Präsidium 29<sup>bis</sup>
+- – Wahl 22, 33
+- – Übergangsbestimmungen
+
+- – Volksinitiative
+  - – Verfassungsrevision 48
+  - – Gesetzesinitiative 7<sup>bis</sup>
+
+- – des Kantons 27<sup>3</sup>
+- – des Grossen Rates
+  - – Verfassungsrevision und Gesetzesinitiative 26
+  - – Einberufung der Landsgemeinde 19
+
+- – der Standeskommission
+  - – Einberufung des Grossen Rates 23<sup>2</sup>, 24<sup>1</sup>
+
+- – des Landammanns
+  - – zur Versammlung der Standeskommission 31
+
+- – Einteilung in Bezirke 15
+- – kantonale Versicherungskasse 29<sup>1</sup>
+- – Kantonshauptort 15
+- – Kantonsbürger s. Bürger
+- – Kantonsgericht s. Gerichte
+- – Referendum und Initiative des Kantons 27<sup>3</sup>
+- – Verwaltungsorganisation 29<sup>1</sup>
+
+- – Aufsicht der Standeskommission 30
+- – Kirchenwesen 46
+- – Kirchgemeinden s. Gemeinden
+- – Klöster, Staatsschutz 5
+
+- – Korporationsvermögen 4<sup>1</sup>,5
+
+- – Wahl 20<sup>2</sup>
+- – Obliegenheiten und Befugnisse 32
+- – Einberufung der Standeskommission 31
+
+- – Allgemeines 19–21
+- – Anträge an die Landsgemeinde 7
+- – Ausübung der Staatsgewalt 1
+- – Datum der 19<sup>3</sup>
+- – Geschäftsordnung 26
+- – Kompetenz
+  - – bei Initiativen 7<sup>bis</sup>, 7<sup>ter</sup>
+  - – im Steuerwesen 9
+  - – zur Verfassungsrevision 48
+
+- – Präsidium 32
+- – Stimmfähigkeit 16
+- – Teilnahmepflicht 17
+
+- – Wehrpflicht, allgemeine 8
+
+- – Allgemeines 14
+- – als Voraussetzung zur Stimmberechtigung 16
+- – Kompetenz der Standeskommission 30
+
+- – Allgemeines 10
+- – Überwachung durch die Standeskommission 30
+
+- – der Grossratssitzungen 24<sup>2</sup>
+- – der Gerichtsverhandlungen 43
+- – der Verwaltung des Staatshaushaltes 11
+
+- – Amtszwang 18
+- – Teilnahme an der der Landsgemeinde 17
+
+- – Aufsicht durch den Landammann 32<sup>3</sup>
+
+- – politische
+  - – Stimmrecht 16
+  - – Vorschlagsrecht s. Initiative
+  - – Wahlen an der Landsgemeinde 20, 20<sup>bis</sup>
+  - – Wahl des Grossen Rates 22, 33
+
+- – verfassungsmässige
+  - – Rechtsgleichheit 2
+  - – persönliche Freiheit 2
+  - – Meinungsäusserung, freie 2
+  - – Vereins- und Versammlungsrecht 2
+  - – Hausrecht 2
+  - – Handels- und Gewerbefreiheit 2
+  - – Eigentum, Garantie 4
+  - – Petitionsrecht 7
+  - – Recht auf verfassungsmässigen Richter 6
+
+- – Allgemeines 38–45
+- – Schiedsgerichte 6
+- – Beschwerden, Kompetenz der Standeskommission 30
+
+- – des Kantons 27<sup>3</sup>
+- – Referendum = Volksabstimmung in der Landsgemeinde
+  - – obligatorisches 1, 7<sup>bis</sup>, 7<sup>ter</sup>
+  - – fakultatives 7<sup>ter</sup>
+
+- – Referendumsbegehren
+  - – Anträge an die Landsgemeinde 7
+
+- – Finanzreferendum 7<sup>ter</sup>
+
+- – der Kantonsverfassung (Partialrevision, Totalrevision) 48
+- – der Gesetze, Anträge an die Landsgemeinde 7<sup>bis</sup>
+
+- – Allgemeines s. Gerichte
+- – verfassungsmässiger Richter 6
+
+- – Allgemeines 12.
+- – Schulgemeinden s. Gemeinden
+
+- – Staatsgewalt, Ausübung 1
+- – Staatsrechnung
+  - – Entgegennahme durch den Grossen Rat 29<sup>5</sup>
+  - – Veröffentlichung 11
+
+- – Staatsschutz
+  - – Korporationsvermögen 4<sup>1</sup>
+
+- – Staatsaufsicht s. Aufsicht
+- – Staatshaushalt 11
+- – Staatsausgaben s. Ausgaben
+
+- – Allgemeines 30, 31
+- – Amtszwang 18
+- – Antragsrecht im Grossen Rat 25
+- – Aufstellung des Jahresberichtes 29<sup>2</sup>
+- – Einberufung des Grossen Rates 23<sup>2</sup>, 24<sup>1</sup>
+- – Präsidium 32
+- – Unvereinbarkeiten 38, 44
+- – Wahl 20<sup>2</sup>
+
+- – Kompetenz der Landsgemeinde 9
+- – Kompetenz des Grossen Rates 29<sup>3</sup>
+
+- – Allgemeines 16
+- – Ausschluss von d. Stimmberechtigung 16
+
+- – Standeskommission und Vermittler 38
+- – Standeskommission, Grosser Rat, Bezirksrat und richterliche Behörden 30<sup>1</sup>, 44
+
+- – Volksabstimmung 1
+- – Verfassungsrevision 7<sup>bis</sup>, 48
+
+- – Erlass durch den Grossen Rat 27<sup>1</sup>
+- – Veröffentlichung 11
+- – Vollziehung 30
+
+- – Verwaltungsbeamte s. Beamte
+- – Verwaltungsgericht 40<sup>2</sup>
+- – Verwaltungsorganisation 29<sup>1</sup>
+
+- – zwischen Mitgliedern der Standeskommission, der Gerichtsbehörden 30
+- – Neuwahlen 35
+
+- – Allgemeines 1
+- – Gesamtheit, Rechte 1
+- – Volksabstimmung
+  - – in der Landsgemeinde 16, 20
+  - – in der Bezirksgemeinde 33–35
+
+- – Volksbegehren s. Initiative
+- – Volkswahlen s. Wahlen
+
+- – vollziehende Behörde 30
+- – der Gesetze und Beschlüsse 30
+- – durch Hauptleute und Räte 37<sup>3</sup>
+
+- – Festsetzung durch den Grossen Rat 29<sup>4</sup>
+
+- – Allgemeines, Amtszwang 18
+- – Unwählbarkeit von Verwandten 30
+
+- – Volkswahlen
+  - – an der Landsgemeinde 1, 20, 20<sup>bis</sup>
+  - – an der Bezirksgemeinde 33, 35, 38
+  - – Grosser Rat 22, 33
+  - – Ständerat 20<sup>bis</sup>
+
+- – Wahlen durch den Grossen Rat
+  - – Allgemeines 29<sup>bis</sup>
+
+- – Wahlen durch die Kirch- und Schulgemeinden 46
+- – Übergangsbestimmungen

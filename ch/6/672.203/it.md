@@ -1,0 +1,101 @@
+---
+sr: "672.203"
+title: Ordinanza del 22 dicembre 2004 concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
+language: it
+version: 2007-01-01
+adopted: 2004-12-22
+in_force: 2005-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2005-6-20070101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20070101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere
+
+del 22 dicembre 2004 (Stato 1° gennaio 2007)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 1 e 2 capoverso 1 lettera a del decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione delle convenzioni concluse dalla Svizzera per evitare la doppia imposizione (convenzioni di doppia imposizione) e di altri trattati internazionali aventi parimenti per oggetto l’imposizione dei dividendi (altri trattati internazionali),
+
+ordina:
+
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza disciplina la procedura di dichiarazione per il tramite della quale è effettuato alla fonte lo sgravio fiscale dei dividendi da partecipazioni determinanti previsto dalle convenzioni di doppia imposizione e da altri trattati internazionali.
+
+<sup>2</sup> Essa si applica alle società svizzere che devono riscuotere l’imposta alla fonte sui dividendi conformemente alla legge federale del 13 ottobre 1965[^1-1] su l’imposta preventiva e nelle quali detiene una partecipazione determinante una società di capitali residente di uno Stato con il quale la Svizzera ha concluso una convenzione di doppia imposizione o un altro trattato internazionale (società straniera).
+
+[^1-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+#### Art. 2
+
+**Partecipazione determinante**
+
+<sup>1</sup> Una società straniera detiene una partecipazione determinante in una società svizzera se dispone almeno di una partecipazione che, conformemente alla pertinente convenzione di doppia imposizione o a un altro trattato internazionale, dà diritto a uno sgravio supplementare o totale dell’imposta preventiva.
+
+<sup>2</sup> La società straniera deve detenere direttamente almeno il 20 per cento del capitale della società svizzera se la pertinente convenzione di doppia imposizione o il trattato internazionale non contiene alcuna disposizione concernente lo sgravio supplementare o totale in caso di partecipazione determinante.
+
+#### Art. 3
+
+**Autorizzazione della procedura di dichiarazione**
+
+<sup>1</sup> L’Amministrazione federale delle contribuzioni (AFC) può autorizzare la società svizzera che ne fa richiesta a effettuare direttamente lo sgravio dell’imposta preventiva sui dividendi previsto dalla pertinente convenzione di doppia imposizione o da un altro trattato internazionale in caso di partecipazione determinante.
+
+<sup>2</sup> La richiesta è presentata per il tramite del modulo ufficiale prima della scadenza dei dividendi.
+
+<sup>3</sup> L’AFC verifica se la società straniera ha diritto allo sgravio conformemente alla pertinente convenzione di doppia imposizione o a un altro trattato internazionale.
+
+<sup>4</sup> L’autorizzazione è comunicata per scritto ed è valida tre anni.
+
+<sup>5</sup> La società svizzera può esigere una decisione dell’AFC se la richiesta è respinta integralmente o parzialmente.
+
+#### Art. 4
+
+**Caducità delle condizioni di autorizzazione**
+
+La società svizzera che versa i dividendi deve informare tempestivamente l’AFC se le condizioni che autorizzano la procedura di dichiarazione non sono più adempite.
+
+#### Art. 5
+
+**Dichiarazione all’AFC**
+
+<sup>1</sup> Se dispone di un’autorizzazione, la società svizzera che versa i dividendi ne dichiara spontaneamente il pagamento all’AFC, entro un termine di 30 giorni, per il tramite del modulo 108. Tale modulo va inoltrato all’AFC unitamente al modulo ufficiale di riscossione.
+
+<sup>2</sup> Il capoverso 1 è parimenti applicabile se l’autorizzazione non è ancora stata concessa o se la richiesta non ha potuto essere presentata tempestivamente per motivi importanti. In quest’ultimo caso, il modulo 108 va inoltrato unitamente alla richiesta. L’imposta preventiva e un eventuale interesse di mora sono riscossi posticipatamente se dall’esame ai sensi dell’articolo 3 capoverso 3 risulta che vi è stato abuso della procedura di dichiarazione. L’AFC emana una decisione se la riscossione posticipata dell’imposta preventiva è contestata.
+
+#### Art. 6
+
+**Rimedi giuridici**[^6-1]
+
+<sup>1</sup> I ricorsi contro le decisioni dell’AFC sono retti dalle disposizioni generali concernenti l’organizzazione giudiziaria.
+
+<sup>2</sup> Anche l’AFC ha facoltà di ricorrere davanti al Tribunale federale.
+
+[^6-1]: Nuovo testo giusta il n. II 50 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 7
+
+**Scambio di informazioni**
+
+L’AFC può trasmettere un duplicato dei moduli 108 alle autorità fiscali straniere competenti.
+
+#### Art. 8
+
+**Reciprocità**
+
+<sup>1</sup> L’AFC decide in quale misura la procedura di dichiarazione si applica unicamente agli Stati che garantiscono la reciprocità.
+
+<sup>2</sup> Gli Stati ai quali la procedura di dichiarazione non si applica sono enumerati in un allegato alla presente ordinanza. L’AFC aggiorna se del caso tale elenco.
+
+#### Art. 9
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2005.

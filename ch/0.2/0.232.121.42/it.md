@@ -1,0 +1,903 @@
+---
+sr: "0.232.121.42"
+title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
+language: it
+version: 2019-01-01
+adopted: 2003-09-30
+in_force: 2004-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20190101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20190101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Regolamento d’esecuzione comune all’Atto del 1999 e all’Atto del 1960 relativi all’Accordo dell’Aja
+
+RU **2006** 1375[^t-1]
+
+Traduzione
+
+Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
+
+(Stato 1° gennaio 2019)
+
+[^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
+
+## Capitolo 1: Disposizioni generali
+
+### **Regola 1**Definizioni
+
+[^chap1-lvlu1-1]
+
+[^chap1-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+\1) [*Abbreviazioni*] Ai fini del presente regolamento d’esecuzione,[^chap1-lvlu1-2]
+
+- i) con «Atto del 1999», va inteso l’Atto relativo all’Accordo dell’Aja conchiuso a Ginevra il 2 luglio 1999[^chap1-lvlu1-3];
+- ii) con «Atto del 1960», va inteso l’Atto relativo all’Accordo dell’Aja conchiuso all’Aja il 28 novembre 1960[^chap1-lvlu1-4];
+- iii) un termine utilizzato nel presente regolamento d’esecuzione definito all’articolo 1 dell’Atto del 1999 ha lo stesso senso che in tale Atto;
+- iv) per «istruzioni amministrative» s’intendono le istruzioni amministrative di cui alla regola 34;
+- v) per «comunicazione» s’intende qualsiasi domanda internazionale o qualsiasi richiesta, dichiarazione, invito, notifica o informazione relativi o allegati a una domanda internazionale o a una registrazione internazionale che siano indirizzati all’Ufficio di una parte contraente, all’Ufficio internazionale, al depositario o al titolare con qualsiasi mezzo autorizzato dal presente regolamento d’esecuzione o dalle istruzioni amministrative;
+- vi)[^chap1-lvlu1-5] per «modulo ufficiale» s’intende un modulo allestito dall’Ufficio internazionale o un’interfaccia elettronica messa a disposizione dall’Ufficio internazionale sul sito Internet dell’Organizzazione, o qualsiasi modulo o interfaccia elettronica che abbia il medesimo contenuto e si presenti nel medesimo modo;
+- vii) per «classificazione internazionale» s’intende la classificazione stabilita in virtù dell’Accordo di Locarno istitutivo di una classificazione internazionale per i disegni o modelli industriali;
+- viii) per «emolumento prescritto» s’intende l’emolumento applicabile secondo il tariffario;
+- ix) per «bollettino» s’intende il bollettino periodico nel quale l’Ufficio internazionale effettua le pubblicazioni previste dall’Atto del 1999, dall’Atto del 1960 o dal presente regolamento d’esecuzione, indipendentemente dal supporto utilizzato;
+- x) per «parte contraente designata in virtù dell’Atto del 1999» s’intende una parte contraente designata nei confronti della quale è applicabile l’Atto del 1999, sia perché si tratta dell’unico Atto comune vincolante per la parte contraente designata e per la parte contraente del depositario, sia in applicazione dell’articolo 31.1), prima frase, dell’Atto del 1999;
+- xi) per «parte contraente designata in virtù dell’Atto del 1960» s’intende una parte contraente designata nei confronti della quale è applicabile l’Atto del 1960, sia perché si tratta dell’unico Atto comune vincolante per la parte contraente designata e per lo Stato d’origine di cui all’articolo 2 dell’Atto del 1960, sia in applicazione dell’articolo 31.1), seconda frase, dell’Atto del 1999;
+- xii) per «domanda internazionale retta esclusivamente dall’Atto del 1999» s’intende una domanda internazionale nei confronti della quale tutte le parti contraenti designate sono parti contraenti designate in virtù dell’Atto del 1999;
+- xiii) per «domanda internazionale retta esclusivamente dall’Atto del 1960» s’intende una domanda internazionale nei confronti della quale tutte le parti contraenti designate sono parti contraenti designate in virtù dell’Atto del 1960;
+- xiv)
+
+  per «domanda internazionale retta al contempo dall’Atto del 1999 e dall’Atto del 1960» s’intende una domanda internazionale nei confronti della quale:
+
+  - – almeno una parte contraente è stata designata in virtù dell’Atto del 1999,
+  - – almeno una parte contraente è stata designata in virtù dell’Atto del 1960.
+
+\2) [*Corrispondenza tra alcuni termini utilizzati nell’atto del 1999 e nell’Atto del 1960*] Ai fini del presente regolamento d’esecuzione:
+
+- i) il termine «domanda internazionale» o «registrazione internazionale» è usato in un’accezione includente, all’occorrenza, un riferimento al termine «deposito internazionale» di cui nell’Atto del 1960;
+- ii) i termini «depositario» e «titolare» sono usati in un’accezione includente, all’occorrenza un riferimento ai termini «depositario» e «titolare» di cui nell’Atto del 1960[^chap1-lvlu1-6];
+- iii) il termine «parte contraente» è usato in un’accezione includente, all’occorrenza un riferimento a uno Stato contraente dell’Atto del 1960;
+- iv) il termine «parte contraente il cui Ufficio è un Ufficio che procede a un esame» è usato in un’accezione includente, all’occorrenza un riferimento al termine «Stato che procede a un esame della novità» conformemente all’articolo 2 dell’Atto del 1960;
+- v) il termine «tassa di designazione individuale» è usato in un’accezione includente, all’occorrenza un riferimento alla tassa di cui all’articolo 15.1)2)b) dell’Atto del 1960.
+
+[^chap1-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap1-lvlu1-3]: [RS 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
+[^chap1-lvlu1-4]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
+[^chap1-lvlu1-5]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap1-lvlu1-6]: Questa disp. è giustificata dal fatto che nella versione in *inglese* dei testi la terminologia utilizzata per quanto riguarda i concetti in questione è diversa nell’Atto del 1999 da un lato e negli atti del 1960 e del 1934 dall’altro (rispettivamente «applicant» e «holder», e «depositor» e «owner»).
+
+### **Regola 2**Comunicazioni con l’Ufficio internazionale
+
+Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secondo le modalità specificate nelle istruzioni amministrative.
+
+### **Regola 3**Rappresentanza presso l’Ufficio internazionale
+
+\1) [*Rappresentante; numero di rappresentanti*]
+
+- a) Il depositario o il titolare può costituire un rappresentante presso l’Ufficio internazionale.
+- b) Per una data domanda internazionale o per una data registrazione internazionale può essere costituito un solo rappresentante. Se nell’atto di costituzione figurano più rappresentanti, è considerato e iscritto come tale soltanto il rappresentante che figura per primo.
+- c) Se all’Ufficio internazionale è stato indicato come rappresentante un gabinetto o un ufficio d’avvocati o di consulenti in brevetti o in marchi, esso è considerato come un unico rappresentante.
+
+\2) [*Costituzione di rappresentante*]
+
+- a) La costituzione di rappresentante può essere fatta nella domanda internazionale. L’indicazione del nome del rappresentante nella domanda internazionale al momento del deposito vale quale costituzione di rappresentante da parte del depositario.
+- b) La costituzione di rappresentante può essere fatta anche in una comunicazione separata che può riferirsi a una o più domande internazionali specificate o a una o più registrazioni internazionali specificate del medesimo depositario o titolare. Tale comunicazione deve essere firmata dal depositario o dal titolare.
+- c) Se considera che la costituzione di rappresentante è irregolare, l’Ufficio internazionale lo notifica al depositario o al titolare e al rappresentante presunto.[^chap1-lvlu3-1]
+
+\3) [*Iscrizione e notifica della costituzione di rappresentante; data alla quale ha effetto la costituzione di rappresentante*]
+
+- a) Se constata che la costituzione di un rappresentante adempie le condizioni applicabili, l’Ufficio internazionale iscrive nel registro internazionale il fatto che il depositario o il titolare ha un rappresentante nonché il nome e l’indirizzo del rappresentante. In tal caso, la data a partire dalla quale la costituzione di rappresentante ha effetto è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale o la comunicazione separata nella quale è costituito il rappresentante.
+- b) L’Ufficio internazionale notifica l’iscrizione di cui alla lettera a) sia al depositario o al titolare che al rappresentante.
+
+\4) [*Effetti della costituzione di rappresentante*]
+
+- a) La firma di un rappresentante iscritto giusta il capoverso 3) a) sostituisce la firma del depositario o del titolare.
+- b) Salvo nei casi in cui il presente regolamento d’esecuzione esige esplicitamente che una comunicazione sia inviata sia al depositario o al titolare che al rappresentante, l’Ufficio internazionale invia al rappresentante iscritto giusto il capoverso 3) a) ogni comunicazione che, in assenza del rappresentante, dovrebbe essere inviata al depositario o al titolare; ogni comunicazione così inviata a detto rappresentante ha gli stessi effetti come se fosse stata inviata al depositario o al titolare.
+- c) Ogni comunicazione inviata all’Ufficio internazionale dal rappresentante iscritto giusta il capoverso 3) a) ha gli stessi effetti come se fosse stata inviata dal depositario o dal titolare.[^chap1-lvlu3-2]
+  - [tab] 5) [*Cancellazione dell’iscrizione; data alla quale la cancellazione ha effetto*]
+
+- a) Ogni iscrizione effettuata in virtù del capoverso 3) a) è cancellata se la cancellazione è chiesta mediante una comunicazione firmata dal depositario, dal titolare o dal rappresentante. L’Ufficio internazionale cancella d’ufficio l’iscrizione sia quando è costituito un nuovo rappresentante, sia quando è iscritto un cambiamento di titolare e il nuovo titolare della registrazione internazionale non ha costituito un rappresentante.
+- b) La cancellazione ha effetto a partire dalla data in cui l’Ufficio internazionale riceve la relativa comunicazione.
+- c) L’Ufficio internazionale notifica la cancellazione e la data a partire dalla quale ha effetto al rappresentante la cui iscrizione è stata cancellata e al depositario o al titolare.
+
+[^chap1-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2019 343](https://fedlex.data.admin.ch/eli/oc/2019/55)).
+[^chap1-lvlu3-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2019 343](https://fedlex.data.admin.ch/eli/oc/2019/55)).
+
+### **Regola 4**Calcolo dei termini
+
+\1) [*Termini espressi in anni*] Ogni termine espresso in anni scade, nell’anno susseguente da prendere in considerazione, nel mese che reca lo stesso nome e il giorno che reca lo stesso numero del mese e del giorno dell’evento che fa decorrere il termine; tuttavia se l’evento si produce un 29 febbraio e se, nell’anno da prendere in considerazione, il mese di febbraio conta 28 giorni, il termine scade il 28 febbraio.
+
+\2) [*Termini espressi in mesi*] Ogni termine espresso in mesi scade, nel mese da prendere in considerazione, il giorno che reca lo stesso numero del giorno dell’evento che fa decorrere il termine; tuttavia se, nel mese da prendere in considerazione, non figura la stessa data, il termine scade l’ultimo giorno di detto mese.
+
+\3) [*Termini espressi in giorni*] Ogni termine espresso in giorni inizia a decorrere dal giorno seguente a quello in cui ha avuto luogo l’evento considerato e scade in conseguenza.
+
+\4) [*Scadenza di un termine in un giorno in cui l’Ufficio internazionale o un Ufficio non è aperto al pubblico*] Se un termine scade un giorno in cui l’Ufficio internazionale o l’Ufficio interessato non è aperto al pubblico, in deroga ai capoversi 1)–3), il termine scade il primo giorno seguente in cui l’Ufficio internazionale o l’ufficio interessato è aperto al pubblico.
+
+### **Regola 5**Giustificazione dei ritardi nell’osservanza dei termini
+
+[^chap1-lvlu5-1]
+
+[^chap1-lvlu5-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+
+\1) [*Comunicazioni inviate mediante un servizio postale*] L’inosservanza, ad opera di una parte interessata, del termine per una comunicazione indirizzata all’Ufficio internazionale e spedita mediante un servizio postale è scusata, se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che
+
+- i) la comunicazione è stata spedita almeno cinque giorni prima della scadenza del termine o, se il servizio postale è stato interrotto a causa di guerra, di rivoluzione, di disordini civili, di sciopero, di catastrofe naturale o di altri motivi analoghi in uno qualsiasi dei dieci giorni precedenti la data di scadenza del termine, che la comunicazione è stata spedita al più tardi cinque giorni dopo la ripresa del servizio postale;
+- ii) la spedizione della comunicazione è stata effettuata dal servizio postale con invio raccomandato o che i dati relativi alla spedizione sono stati registrati dal servizio postale al momento della spedizione; e
+- iii) se in certe categorie il corriere non arriva di regola all’Ufficio internazionale entro due giorni dalla spedizione, la comunicazione è stata spedita in una categoria che di regola arriva all’Ufficio internazionale entro due giorni dalla spedizione o è stata spedita per posta aerea.
+
+\2) [*Comunicazioni inviate mediante una ditta di spedizione della corrispondenza*] L’inosservanza, ad opera di una parte interessata, del termine per una comunicazione indirizzata all’Ufficio internazionale e spedita mediante una ditta di spedizione è scusata, se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che
+
+- i) la comunicazione è stata spedita almeno cinque giorni prima della scadenza del termine o, se il funzionamento della ditta di spedizione è stato interrotto a causa di guerra, di rivoluzione, di disordini civili, di catastrofe naturale o di altri motivi analoghi in uno qualsiasi dei dieci giorni precedenti la data di scadenza del termine, che la comunicazione è stata spedita al più tardi cinque giorni dopo la ripresa del funzionamento della ditta di spedizione; e
+- ii) i dati relativi alla spedizione sono stati registrati dalla ditta di spedizione del corriere al momento della spedizione dell’invio.
+
+\3) [*Comunicazioni inviate per via elettronica*] L’inosservanza, ad opera di una parte interessata, del termine per una comunicazione indirizzata all’Ufficio internazionale e inviata per via elettronica è scusata se la parte interessata fornisce la prova, in modo soddisfacente per l’Ufficio internazionale, che il termine non è stato osservato a causa di problemi, dovuti a circostanze straordinarie indipendenti dalla sua volontà, che hanno interessato la località nella quale essa è stabilita o le comunicazioni elettroniche con l’Ufficio internazionale e che la comunicazione è stata inviata al più tardi cinque giorni dopo la ripresa del servizio di comunicazione elettronica.[^chap1-lvlu5-2]
+
+\4) [*Limiti alla giustificazione*] L’inosservanza di un termine è scusata in virtù della presente regola unicamente se la prova di cui ai capoversi 1), 2) o 3) e la comunicazione o, se del caso, una copia di essa pervengono all’Ufficio internazionale al più tardi sei mesi dopo la scadenza del termine.[^chap1-lvlu5-3]
+
+\5) [*Eccezione*] La presente regola non si applica al pagamento della seconda rata dell’emolumento di designazione individuale per il tramite dell’Ufficio internazionale di cui alla regola 12.3)c).[^chap1-lvlu5-4]
+
+[^chap1-lvlu5-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^chap1-lvlu5-3]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+[^chap1-lvlu5-4]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
+
+### **Regola 6**Lingue
+
+[^chap1-lvlu6-1]
+
+[^chap1-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+\1) [*Domanda internazionale*] La domanda internazionale deve essere redatta in francese, in inglese o in spagnolo.
+
+\2) [*Iscrizione e pubblicazione*] L’iscrizione nel registro internazionale e la pubblicazione della registrazione internazionale e di tutti i dati relativi a detta registrazione internazionale nel bollettino, che devono essere l’oggetto nel contempo di un’iscrizione e di una pubblicazione in virtù del presente regolamento d’esecuzione, sono eseguite in francese, in inglese o in spagnolo. L’iscrizione e la pubblicazione della registrazione internazionale comportano l’indicazione della lingua nella quale l’Ufficio internazionale ha ricevuto la domanda internazionale.
+
+3 [*Comunicazioni*] Ogni comunicazione relativa a una domanda internazionale o alla registrazione internazionale che ne è scaturita deve essere redatta:
+
+- i) in francese, in inglese o in spagnolo quando tale comunicazione è indirizzata all’Ufficio internazionale dal depositario o dal titolare oppure da un Ufficio;
+- ii) nella lingua della domanda internazionale quando la comunicazione è indirizzata dall’Ufficio internazionale a un Ufficio, a meno che tale Ufficio abbia notificato all’Ufficio internazionale che tutte le comunicazioni di tale genere devono essere redatte in francese, in inglese o in spagnolo;
+- iii) nella lingua della domanda internazionale quando la comunicazione è indirizzata dall’Ufficio internazionale al depositario o al titolare, a meno che tale depositario o tale titolare abbia indicato che desidera che tutte le comunicazioni di tale genere siano redatte in francese, redatte in inglese o redatte in spagnolo.
+
+\4) [*Traduzione*] Le traduzioni necessarie ai fini delle iscrizioni e delle pubblicazioni eseguite in virtù del capoverso 2) sono effettuate dall’Ufficio internazionale. Il depositario può allegare alla domanda internazionale una proposta di traduzione dei testi contenuti nella domanda internazionale. Se ritiene che la traduzione proposta non è corretta, l’Ufficio internazionale la corregge dopo aver invitato il depositario a formulare, entro il termine di un mese a partire dall’invito, osservazioni sulle correzioni proposte.
+
+## Capitolo 2: Domanda internazionale e registrazione internazionale
+
+### **Regola 7**Condizioni relative alla domanda internazionale
+
+\1) [*Modulo e firma*] La domanda internazionale deve essere presentata sul modulo ufficiale. La domanda internazionale deve essere firmata dal depositario.
+
+\2) [*Emolumenti*] Gli emolumenti prescritti applicabili alla domanda internazionale devono essere pagati conformemente alle regole 27 e 28.
+
+\3) [*Contenuto obbligatorio della domanda internazionale*] La domanda internazionale deve contenere o indicare:
+
+- i) il nome del depositario, indicato conformemente alle istruzioni amministrative;
+- ii) l’indirizzo del depositario, indicato conformemente alle istruzioni amministrative;
+- iii) la o le parti contraenti nei confronti delle quali il depositario adempie le condizioni richieste per essere titolare di una registrazione internazionale;
+- iv) il o i prodotti che costituiscono il disegno o modello industriale o in relazione ai quali il disegno o modello industriale deve essere utilizzato, e precisare se si tratta di uno o più prodotti che costituiscono il disegno o modello industriale oppure di uno o più prodotti in relazione ai quali il disegno o modello industriale deve essere utilizzato; il o i prodotti devono essere preferibilmente indicati con termini che figurano nella lista dei prodotti della classificazione internazionale;
+- v) il numero di disegni e modelli industriali inclusi nella domanda internazionale, che non può essere superiore a 100, e il numero di raffigurazioni o di campioni di disegni o modelli industriali che accompagnano la domanda internazionale conformemente alla regola 9 o 10;
+- vi) le parti contraenti designate;
+- vii) l’importo degli emolumenti pagati e il modo di pagamento oppure istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle istruzioni.
+
+\4) *[Contenuto supplementare obbligatorio della domanda internazionale]*
+
+- a) Nei confronti delle parti contraenti designate giusta l’Atto del 1999 in una domanda internazionale, tale domanda deve contenere, oltre alle indicazioni di cui al capoverso 3)iii), l’indicazione della parte contraente del depositario.
+- b) Se una parte contraente designata giusta l’Atto del 1999 ha notificato al Direttore generale, conformemente all’articolo 5.2)a) dell’Atto del 1999, che il proprio diritto esige uno o più elementi specificati all’articolo 5.2)b) dell’Atto del 1999, la domanda internazionale deve contenere tale o tali elementi, presentati nel modo prescritto dalla regola 11.
+- c) Se è applicabile la regola 8, la domanda internazionale deve contenere, all’occorrenza, le indicazioni di cui ai capoversi 2) e 3) di tale regola ed essere accompagnata da qualsiasi dichiarazione, documento, giuramento o attestazione di cui a tale regola.[^chap2-lvlu1-1]
+
+\5) [*Contenuto facoltativo della domanda internazionale*]
+
+- a) Gli elementi di cui ai punti i) o ii) dell’articolo 5.2) b) dell’Atto del 1999, o all’articolo 8.4) a) dell’Atto del 1960 possono, a scelta del depositario, essere inclusi nella domanda internazionale anche se non sono richiesti da una notifica fatta conformemente all’articolo 5.2) a) dell’Atto del 1999, o all’articolo 8.4) a) dell’Atto del 1960.
+- b) Se il depositario ha un rappresentante, la domanda internazionale deve contenere il nome e l’indirizzo di quest’ultimo, indicati conformemente alle istruzioni amministrative.
+- c) Se il depositario, in virtù dell’articolo 4 della Convenzione di Parigi, intende beneficiare della priorità di un deposito anteriore, la domanda internazionale deve contenere una dichiarazione nella quale è rivendicata la priorità di tale deposito anteriore, accompagnata dall’indicazione del nome dell’Ufficio presso il quale è stato effettuato il deposito nonché della data e, se disponibile, del numero di tale deposito e, nel caso in cui la rivendicazione della priorità non concerna l’insieme dei disegni o modelli industriali oggetto della domanda internazionale, dell’indicazione dei disegni o modelli industriali oggetto dalla rivendicazione.
+- d) Se il depositario intende avvalersi dell’articolo 11 della Convenzione di Parigi, la domanda internazionale deve contenere una dichiarazione in base alla quale il o i prodotti che costituiscono o realizzano il disegno o modello industriale sono stati presentati in occasione di un’esposizione internazionale ufficiale o riconosciuta ufficialmente, e l’indicazione del luogo dell’esposizione e della data alla quale il o i prodotti vi sono stati presentati per la prima volta; nel caso in cui la dichiarazione non concerna l’insieme dei disegni o modelli industriali, la domanda internazionale deve indicare a quali di essi si applica la dichiarazione.
+- e) Se il depositario desidera che la pubblicazione del disegno o modello industriale sia differita, la domanda internazionale deve contenere una richiesta di differimento della pubblicazione.
+- f) La domanda internazionale può anche contenere dichiarazioni, documenti o altre indicazioni pertinenti specificate nelle istruzioni amministrative.
+- g) La domanda internazionale può essere accompagnata da una dichiarazione che indichi le informazioni che, secondo l’avviso del depositario, sono pertinenti per stabilire che il disegno o modello industriale in questione adempie le condizioni della protezione.
+
+\6) [*Esclusione di elementi supplementari*] Se la domanda internazionale contiene indicazioni diverse da quelle che sono richieste o autorizzate dall’Atto del 1999, dall’Atto del 1960, dal presente regolamento d’esecuzione o dalle istruzioni amministrative, l’Ufficio internazionale le esclude d’ufficio. Se la domanda internazionale è accompagnata da documenti diversi da quelli che sono richiesti o autorizzati, l’Ufficio internazionale può eliminarli.[^chap2-lvlu1-2]
+
+\7) [*Tutti i prodotti devono appartenere alla stessa classe*] Tutti i prodotti che costituiscono i disegni o modelli industriali oggetto della domanda internazionale, o in relazione ai quali tali disegni o modelli industriali sono utilizzati, devono appartenere alla stessa classe in base alla classificazione internazionale.
+
+[^chap2-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap2-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+### **Regola 8**Esigenze speciali concernenti il depositario e il creatore
+
+[^chap2-lvlu2-1]
+
+[^chap2-lvlu2-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+
+\1) *[Notifica delle esigenze speciali concernenti il depositario e il creatore]*
+
+- a) i) Se la legislazione di una parte contraente vincolata dall’Atto del 1999 esige che una domanda di protezione di un disegno o modello industriale sia depositata in nome del creatore del disegno o modello industriale, tale parte contraente può notificare il fatto al Direttore generale mediante una dichiarazione.
+  - ii) Se la legislazione di una parte contraente vincolata dall’Atto del 1999 esige un giuramento o un’attestazione del creatore, tale parte contraente può notificare il fatto al Direttore generale mediante una dichiarazione.
+
+- b) La dichiarazione di cui alla lettera a)i) deve precisare la forma e il contenuto obbligatorio di qualsiasi dichiarazione o documento richiesto ai fini del capoverso 2). La dichiarazione di cui alla lettera a)ii) deve precisare la forma e il contenuto obbligatorio del giuramento o dell’attestazione richiesta.
+
+\2) [*Identità del creatore e cessione della domanda internazionale*] Se nella domanda internazionale figura la designazione di una parte contraente che ha presentato la dichiarazione di cui al capoverso 1)a)i):
+
+- i) la domanda internazionale deve contenere anche le indicazioni concernenti l’identità del creatore del disegno o modello industriale, e una dichiarazione, conforme alle esigenze formulate al capoverso 1)b), in base alla quale questi affermi di essere il creatore del disegno o modello industriale; la persona così indicata come il creatore è considerata il depositario ai fini della designazione di tale parte contraente, indipendentemente dalla persona indicata come il depositario in virtù della regola 7.3)i);
+- ii) se la persona indicata come il creatore non è quella indicata come il depositario in virtù della regola 7.3)i), la domanda internazionale deve essere accompagnata da una dichiarazione o da un documento, conforme alle esigenze formulate al capoverso 1)b), che attesti che la domanda internazionale è stata ceduta dalla persona indicata come il creatore alla persona indicata come il depositario. Quest’ultima è iscritta come titolare della registrazione internazionale.
+
+\3) [*Identità del creatore e giuramento o attestazione del creatore*] Se nella domanda internazionale figura la designazione di una parte contraente che ha presentato la dichiarazione di cui al capoverso 1)a)ii), la domanda internazionale deve contenere anche le indicazioni concernenti l’identità del creatore del disegno o modello industriale.
+
+### **Regola 9**Raffigurazioni del disegno o modello industriale
+
+\1) [*Forma e numero delle raffigurazioni del disegno o modello industriale*]
+
+- a) Le raffigurazioni del disegno o modello industriale devono consistere, a scelta del depositario, in fotografie o altre rappresentazioni grafiche del disegno o modello industriale propriamente detto oppure del o dei prodotti che lo costituiscono. Lo stesso prodotto può essere mostrato sotto angolature diverse; le vedute corrispondenti a diverse angolature devono figurare su fotografie o rappresentazioni grafiche separate.
+- b) Ogni raffigurazione deve essere fornita nel determinato numero di esemplari specificato nelle istruzioni amministrative.
+
+\2) [*Condizioni relative alle raffigurazioni*]
+
+- a) Le raffigurazioni devono essere di una qualità sufficiente per far risaltare tutti i particolari del disegno o modello industriale e per permettere la pubblicazione.
+- b) Gli elementi che figurano in una raffigurazione, ma che non sono oggetto di una domanda di protezione possono essere indicati nel modo previsto dalle istruzioni amministrative.
+
+\3) [*Vedute richieste*]
+
+- a) Fatta salva la lettera b), ogni parte contraente vincolata dall’Atto del 1999 che esige determinate vedute del o dei prodotti che costituiscono il disegno o modello industriale o in relazione ai quali il disegno o modello industriale deve essere utilizzato deve notificarlo al Direttore generale mediante una dichiarazione, specificando quali sono le vedute richieste e in quali circostanze.
+- b) Le parti contraenti possono esigere al massimo una veduta, se si tratta di un disegno industriale o di un prodotto bidimensionale, o al massimo sei vedute, se il prodotto è tridimensionale.
+
+\4) [*Rifiuto per motivi relativi alle raffigurazioni del disegno o modello industriale*] Una parte contraente non può rifiutare gli effetti della registrazione internazionale adducendo a motivo che, secondo la sua legislazione, certe condizioni relative alla forma delle raffigurazioni del disegno o modello industriale, che si aggiungono alle condizioni notificate da tale parte contraente conformemente al capoverso 3) a) o che ne differiscono, non sono state adempite. Una parte contraente può tuttavia rifiutare gli effetti della registrazione internazionale adducendo a motivo che le raffigurazioni che figurano nella registrazione internazionale non sono sufficienti per divulgare pienamente il disegno o modello industriale.
+
+### **Regola 10**Campioni del disegno industriale in caso di richiesta di differimento della pubblicazione
+
+\1) [*Numero di campioni*] Se una domanda internazionale retta esclusivamente dall’Atto del 1999 contiene una richiesta di differimento della pubblicazione concernente un disegno industriale (bidimensionale) e invece di essere accompagnata dalle raffigurazioni di cui alla regola 9, è accompagnata da campioni del disegno industriale, il numero di tali campioni deve essere il seguente:
+
+- i) uno per l’Ufficio internazionale, e
+- ii) uno per ogni Ufficio designato che ha notificato all’Ufficio internazionale, in virtù dell’articolo 10.5) dell’Atto del 1999, di voler ricevere copia delle registrazioni internazionali.
+
+\2) [*Campioni*] Tutti i campioni devono poter essere contenuti in un solo pacco. I campioni possono essere piegati. Le dimensioni e il peso massimi del pacco sono specificati nelle istruzioni amministrative.
+
+### **Regola 11**Identità del creatore, descrizione; rivendicazione
+
+\1) [*Identità del creatore*] Se la domanda internazionale contiene indicazioni relative all’identità del creatore del disegno o modello industriale, il suo nome e indirizzo vanno indicati conformemente alle istruzioni amministrative.
+
+\2) [*Descrizione*] Se la domanda internazionale contiene una descrizione, tale descrizione deve concernere gli elementi che appaiono sulle raffigurazioni del disegno o modello industriale e non deve specificare i dettagli tecnici concernenti il funzionamento del disegno o modello industriale o i suoi possibili utilizzi. Se la descrizione supera 100 parole va pagato un emolumento supplementare previsto nella tariffa.
+
+\3) [*Rivendicazione*] Una dichiarazione giusta l’articolo 5.2) a) dell’Atto del 1999, secondo la quale la legislazione di una parte contraente esige una rivendicazione affinché, in virtù di tale legislazione, sia assegnata una data di deposito a una domanda di protezione di un disegno o modello industriale, deve indicare il tenore esatto della rivendicazione richiesta. Se la domanda internazionale contiene una rivendicazione, il tenore di tale rivendicazione deve essere conforme a quello della dichiarazione in questione.
+
+### **Regola 12**Emolumenti relativi alla domanda internazionale
+
+\1) [*Emolumenti prescritti*]
+
+- a)
+
+  Chi presenta una domanda internazionale deve pagare i seguenti emolumenti:
+
+  - i) un emolumento di base;
+  - ii) un emolumento di designazione standard per ogni parte contraente designata che non ha presentato la dichiarazione prevista dall’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1), il cui livello dipende dalla dichiarazione di cui alla lettera c);
+  - iii) un emolumento di designazione individuale per ogni parte contraente designata che ha presentato la dichiarazione prevista dall’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1);
+  - iv) un emolumento di pubblicazione.
+
+- b)
+
+  Il livello dell’emolumento di designazione standard di cui alla lettera a)ii) è il seguente:
+
+  - i) per le parti contraenti il cui Ufficio non procede a un esame materiale: livello uno;
+  - ii) per le parti contraenti il cui Ufficio procede a un esame materiale che non è un esame della novità: livello due;
+  - iii) per le parti contraenti il cui Ufficio procede a un esame materiale, ivi incluso un esame d’ufficio della novità o un esame della novità in caso di opposizione da parte di terzi: livello tre.
+
+- c) i) Ogni parte contraente abilitata dalla propria legislazione ad applicare i livelli due o tre di cui alla lettera b) può notificare il fatto al Direttore generale mediante una dichiarazione. Nella dichiarazione, una parte contraente può altresì precisare che opta per l’applicazione del livello due, anche se la propria legislazione la abilita ad applicare il livello tre.
+  - ii) Ogni dichiarazione di cui al punto i) ha effetto dopo tre mesi dalla data in cui è pervenuta al Direttore generale o a partire da qualsiasi data posteriore indicatavi. Può altresì essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale; in tal caso, il ritiro ha effetto dopo un mese dalla data in cui la notifica perviene al Direttore generale o a qualsiasi data posteriore indicata nella notifica. In assenza di una tale dichiarazione oppure se la dichiarazione è stata ritirata, il livello uno è considerato applicabile all’emolumento di designazione standard per la parte contraente in questione.[^chap2-lvlu6-1]
+
+\2) [*Momento del pagamento degli emolumenti*] Fatto salvo il capoverso 3), gli emolumenti di cui al capoverso 1) vanno pagati al momento del deposito della domanda internazionale, tranne l’emolumento di pubblicazione che può essere pagato successivamente conformemente alla regola 16.3) a), nel caso in cui la domanda internazionale contiene una richiesta di differimento della pubblicazione.
+
+\3) [*Emolumento di designazione individuale pagabile in due rate*]
+
+- a) La dichiarazione prevista dall’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1) può inoltre precisare che l’emolumento di designazione individuale dovuto per la parte contraente in questione comprenda due rate, di cui la prima va pagata al momento del deposito della domanda internazionale e la seconda a una data fissata conformemente al diritto della parte contraente in questione.
+- b) In caso di applicazione della lettera a), il riferimento del capoverso 1) iii) all’emolumento di designazione individuale va inteso come un riferimento alla prima rata dell’emolumento di designazione individuale.
+- c) La seconda rata dell’emolumento di designazione individuale può essere pagata, a scelta del titolare, sia direttamente all’Ufficio interessato, sia per il tramite dell’Ufficio internazionale. Nel primo caso, l’Ufficio interessato notifica il fatto all’Ufficio internazionale, e l’Ufficio internazionale iscrive la notifica nel registro internazionale. Nel secondo caso, l’Ufficio internazionale iscrive la notifica nel registro internazionale e notifica il fatto all’Ufficio interessato.
+- d) Se la seconda rata dell’emolumento di designazione individuale non è pagata entro il termine applicabile, l’Ufficio interessato notifica il fatto all’Ufficio internazionale e chiede all’Ufficio internazionale di cancellare, nel registro internazionale, l’iscrizione della registrazione internazionale nei confronti della parte contraente interessata. L’Ufficio internazionale dà seguito alla richiesta e notifica il fatto al titolare.
+
+[^chap2-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+
+### **Regola 13**Domanda internazionale depositata per il tramite di un Ufficio
+
+\1) [*Data di ricezione da parte dell’Ufficio e trasmissione all’Ufficio internazionale*] Se una domanda internazionale retta esclusivamente dall’Atto del 1999 è depositata per il tramite dell’Ufficio della parte contraente del depositario, tale Ufficio notifica al depositario la data di ricezione della domanda. Nello stesso tempo in cui trasmette la domanda internazionale all’Ufficio internazionale, l’Ufficio notifica all’Ufficio internazionale la data di ricezione della domanda. L’Ufficio notifica al depositario di aver trasmesso la domanda internazionale all’Ufficio internazionale.
+
+\2) [*Emolumento di trasmissione*] Gli uffici che esigono un emolumento di trasmissione giusta l’articolo 4.2) dell’Atto del 1999 notificano all’Ufficio internazionale l’importo di tale emolumento, che non dovrebbe superare le spese amministrative corrispondenti alla ricevuta e alla trasmissione della domanda internazionale, come pure la data alla quale tale emolumento è esigibile.
+
+\3) [*Data di deposito di una domanda internazionale depositata indirettamente*] Fatta salva la regola 14.2), la data di deposito di una domanda internazionale depositata per il tramite di un Ufficio è:
+
+- i) se la domanda internazionale è retta esclusivamente dall’Atto del 1999, la data in cui tale Ufficio ha ricevuto la domanda internazionale, a condizione che quest’ultima sia ricevuta a sua volta dall’Ufficio internazionale entro il termine di un mese a partire da tale data;
+- ii) in tutti gli altri casi, la data in cui l’Ufficio internazionale riceve la domanda internazionale.
+
+\4) [*Data di deposito se la parte contraente del depositario esige un controllo di sicurezza*] In deroga al capoverso 3), una parte contraente la cui legislazione, alla data in cui diventa parte all’Atto del 1999, esige un controllo di sicurezza può notificare al Direttore generale, mediante una dichiarazione, che il termine di un mese di cui al capoverso precedente è sostituito da un termine di sei mesi.
+
+### **Regola 14**Esame dell’Ufficio internazionale
+
+\1) [*Termine per correggere le irregolarità*] Se, al momento della ricezione, l’Ufficio internazionale constata che la domanda internazionale non soddisfa le condizioni necessarie, invita il depositario a correggere le irregolarità entro un termine di tre mesi a partire dalla data dell’invito da parte dell’Ufficio internazionale.
+
+\2) [*Irregolarità comportanti il rinvio della data di deposito della domanda internazionale*] Se, alla data in cui perviene all’Ufficio internazionale, la domanda internazionale presenta un’irregolarità tale da comportare il rinvio della data di deposito della domanda internazionale, la data di deposito è la data in cui l’Ufficio internazionale riceve la correzione di tale irregolarità. Le irregolarità che sono tali da comportare il rinvio della data di deposito della domanda internazionale sono le seguenti:
+
+- a) la domanda internazionale non è redatta nella lingua prescritta o in una delle lingue prescritte;
+- b)
+
+  nella domanda internazionale non figura uno degli elementi seguenti:
+
+  - i) l’indicazione esplicita o implicita secondo la quale si chiede una registrazione internazionale in virtù dell’Atto del 1999 o dell’Atto del 1960,
+  - ii) indicazioni che permettono di stabilire l’identità del depositario,
+  - iii) indicazioni sufficienti per permettere di prendere contatto con il depositario o con il suo eventuale rappresentante,
+  - iv) una raffigurazione o, conformemente all’articolo 5.1)iii) dell’Atto del 1999, un campione di ciascun disegno o modello industriale oggetto della domanda internazionale,
+  - v) la designazione di almeno una parte contraente.[^chap2-lvlu8-1]
+
+\3) [*Domanda internazionale considerata abbandonata; Rimborso degli emolumenti*] Se un’irregolarità diversa da quelle oggetto dell’articolo 8.2) b) dell’Atto del 1999 non è corretta entro il termine di cui al capoverso 1) la domanda internazionale è considerata ritirata e l’Ufficio internazionale rimborsa gli emolumenti pagati per tale domanda, previa deduzione di un importo corrispondente all’emolumento di base.
+
+[^chap2-lvlu8-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+### **Regola 15**Iscrizione del disegno o modello industriale nel registro internazionale
+
+\1) [*Iscrizione del disegno o modello industriale nel registro* *internazionale*] Se ritiene che la domanda internazionale adempie le condizioni richieste, l’Ufficio internazionale iscrive il disegno o modello industriale nel registro internazionale e invia un certificato al titolare.
+
+\2) [*Contenuto della registrazione*] La registrazione internazionale contiene:
+
+- i) tutti i dati che figurano nella domanda internazionale, ad eccezione delle rivendicazioni di priorità giusta la regola 7.5) c) se la data del deposito anteriore precede di oltre sei mesi la data di deposito della domanda internazionale;
+- ii) tutte le raffigurazioni del disegno o modello industriale;
+- iii) la data della registrazione internazionale;
+- iv) il numero della registrazione internazionale;
+- v) la classe pertinente, determinata dall’Ufficio internazionale, della classificazione internazionale.
+
+### **Regola 16**Differimento della pubblicazione
+
+\1) [*Periodo massimo di differimento*]
+
+- a) Il periodo prescritto per il differimento della pubblicazione nei confronti di una domanda internazionale retta esclusivamente dall’Atto del 1999 è di 30 mesi a partire dalla data di deposito o, se è rivendicata una priorità, a partire dalla data di priorità della domanda in questione.
+- b) Il periodo massimo per il differimento della pubblicazione nei confronti di una domanda internazionale retta esclusivamente dall’Atto del 1960, o al contempo dall’Atto del 1999 e dall’Atto del 1960 è di 12 mesi a decorrere dalla data di deposito o se è rivendicata una priorità, a partire dalla data di priorità della domanda in questione.
+
+\2) [*Termine per ritirare una designazione se il differimento non è possibile secondo la legislazione applicabile*] Il termine di cui all’articolo 11.3) i) dell’Atto del 1999 per permettere al depositario di ritirare la designazione di una parte contraente che nella sua legislazione non contempla il differimento della pubblicazione è di un mese a partire dalla data della notifica inviata dall’Ufficio internazionale.
+
+\3) [*Termine per pagare l’emolumento di pubblicazione*]
+
+- a) L’emolumento di pubblicazione di cui alla regola 12.1)a)iv) deve essere pagato al più tardi tre settimane prima della scadenza del periodo di differimento applicabile giusta l’articolo 11.2) dell’Atto del 1999 o giusta l’articolo 6.4)a) dell’Atto del 1960, o al più tardi tre settimane prima che il periodo di differimento sia considerato scaduto conformemente all’articolo 11.4)a) dell’Atto del 1999 o all’articolo 6.4)b) dell’Atto del 1960.
+- b) Tre mesi prima della scadenza del periodo di differimento di cui alla lettera a), l’Ufficio internazionale invia al titolare della registrazione internazionale un avviso ufficioso nel quale è menzionata la data entro la quale deve essere pagato l’emolumento di pubblicazione di cui alla lettera a).[^chap2-lvlu10-1]
+
+\4) [*Termina per la consegna delle raffigurazioni e registrazione delle raffigura**zioni*]
+
+- a) Se invece delle raffigurazioni sono stati consegnati dei campioni in virtù della regola 10, tali raffigurazioni devono essere consegnate al più tardi tre mesi prima della scadenza del termine per pagare l’emolumento di pubblicazione di cui al capoverso 3.a).
+- b) L’Ufficio internazionale registra tutte le raffigurazioni consegnate giusta il capoverso a) nel registro internazionale, sempreché siano soddisfatte le condizioni di cui alla regola 9.1) e 2).[^chap2-lvlu10-2]
+
+\5) [*Esigenze non adempite*] Se non sono adempite le esigenze dei capoversi 3) e 4) la registrazione internazionale è cancellata e non è pubblicata.[^chap2-lvlu10-3]
+
+[^chap2-lvlu10-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap2-lvlu10-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap2-lvlu10-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+
+### **Regola 17**Pubblicazione della registrazione internazionale
+
+\1) [*Data della pubblicazione*] La registrazione internazionale è pubblicata:
+
+- i) se il depositario lo chiede, subito dopo la registrazione;
+- ii) se è stato chiesto il differimento della pubblicazione e la richiesta è stata accettata, subito dopo la data in cui è scaduto il periodo di differimento o in cui tale periodo è considerato scaduto;
+- iii) in tutti gli altri casi, sei mesi dopo la data della registrazione internazionale o appena possibile dopo tale data.
+
+\2) [*Contenuto della pubblicazione*] La pubblicazione della registrazione internazionale nel bollettino deve contenere:
+
+- i) i dati iscritti nel registro internazionale;
+- ii) la o le raffigurazioni del disegno o modello industriale;
+- iii) se la pubblicazione è stata differita, l’indicazione della data in cui scade il periodo di differimento o in cui tale periodo è considerato scaduto.
+
+## Capitolo 3: Rifiuto e invalidazione
+
+### **Regola 18**Notifica del rifiuto
+
+\1) [*Termine per notificare un rifiuto*]
+
+- a) Il termine per la notifica di un rifiuto degli effetti di una registrazione internazionale conformemente all’articolo 12.2) dell’Atto del 1999 o all’articolo 8.1) dell’Atto del 1960 è di sei mesi a partire dalla data in cui l’Ufficio internazionale invia una copia della pubblicazione della registrazione internazionale giusta la regola 26.3).
+- b) In deroga alla lettera a), ogni parte contraente il cui Ufficio è un Ufficio che procede all’esame o il cui diritto contempla la possibilità dell’opposizione alla concessione della protezione può notificare al Direttore generale mediante una dichiarazione che, se è designata in virtù dell’Atto del 1999, il termine di sei mesi ivi indicato è sostituito da un termine di 12 mesi.
+- c)
+
+  Nella dichiarazione di cui alla lettera b) può inoltre essere indicato che la registrazione internazionale produce gli effetti menzionati all’articolo 14.2) a) dell’Atto del 1999 al più tardi:
+
+  - i) ad un momento, precisato nella dichiarazione, che può essere posteriore alla data di detto articolo, ma non di più di sei mesi; oppure
+  - ii) al momento in cui la protezione è concessa conformemente al diritto della parte contraente, se, entro il termine applicabile in virtù della lettera a) o b), la comunicazione di una decisione relativa alla concessione della protezione è stata involontariamente omessa; in tal caso, l’Ufficio della parte contraente interessata notifica il fatto all’Ufficio internazionale e comunica senza indugio la decisione al titolare della registrazione internazionale in questione.
+
+\2) [*Notifica del rifiuto*]
+
+- a) La notifica di qualsiasi rifiuto deve concernere un’unica registrazione internazionale e deve essere datata e firmata dall’Ufficio che la effettua.
+- b)
+
+  La notifica deve contenere o indicare:
+
+  - i) l’Ufficio che effettua la notifica;
+  - ii) il numero della registrazione internazionale;
+  - iii) tutti i motivi sui quali si fonda il rifiuto, compresi i rinvii alle corrispondenti disposizioni essenziali della legge;
+  - iv) se i motivi sui quali si fonda il rifiuto si richiamano alla somiglianza con un disegno o modello industriale oggetto di una domanda o di una precedente registrazione nazionale, regionale o internazionale, la data e il numero di deposito, la data di priorità (se del caso), la data e il numero della registrazione (se sono disponibili), una copia di una raffigurazione del disegno o modello industriale anteriore (se tale raffigurazione è accessibile al pubblico) e il nome e l’indirizzo del proprietario di tale disegno o modello industriale, conformemente alle modalità definite nelle istruzioni amministrative;
+  - v) se il rifiuto non concerne tutti i disegni o modelli industriali oggetto della registrazione internazionale, l’indicazione di quelli interessati dal rifiuto o di quelli non interessati;
+  - vi) il fatto che il rifiuto sia o no suscettibile di riesame o di ricorso e, in caso affermativo, il termine, ragionevole tenuto conto delle circostanze, per presentare la richiesta di riesame del rifiuto o il ricorso contro il rifiuto così come l’autorità competente a evadere la richiesta di riesame o il ricorso, con indicazione, all’occorrenza, dell’obbligo di presentare la richiesta di riesame o il ricorso per il tramite di un rappresentante residente sul territorio della parte contraente il cui Ufficio ha pronunciato il rifiuto; e
+  - vii) la data in cui il rifiuto è stato pronunciato.
+
+\3) [*Notifica della divisione di una registrazione internazionale*] Se, in seguito a una notifica di rifiuto giusta l’articolo 13.2) dell’Atto del 1999, una registrazione internazionale è divisa presso l’Ufficio di una parte contraente designata per ovviare a un motivo di rifiuto indicato nella notifica in questione, tale Ufficio notifica, conformemente alle istruzioni amministrative, all’Ufficio internazionale i dati relativi alla divisione.
+
+\4) [*Notifica del ritiro di un rifiuto*]
+
+- a) La notifica di qualsiasi ritiro di un rifiuto deve concernere un’unica registrazione internazionale e deve essere datata e firmata dall’Ufficio che la effettua.
+- b)
+
+  La notifica deve contenere o indicare:
+
+  - i) l’Ufficio che effettua la notifica;
+  - ii) il numero della registrazione internazionale;
+  - iii) se il ritiro non concerne tutti i disegni o modelli industriali oggetto della registrazione internazionale, l’indicazione di quelli interessati dal ritiro o di quelli non interessati;
+  - iv) la data in cui la registrazione internazionale produce gli stessi effetti della concessione della protezione in virtù della legislazione applicabile; e
+  - v) la data in cui il rifiuto è stato ritirato.
+
+- c) Se la registrazione internazionale è stata modificata nell’ambito di una procedura presso l’Ufficio, la notifica deve contenere o indicare tutte le modifiche.[^chap3-lvlu1-1]
+
+\5) [*Iscrizione*] L’Ufficio internazionale iscrive nel registro internazionale ogni notifica ai sensi dei capoversi 1) c) ii), 2) o 4) pervenutagli, indicando, nel caso di una notifica di rifiuto, la data in cui tale notifica di rifiuto è stata spedita all’Ufficio internazionale.
+
+\6) [*Trasmissione di copie delle notifiche*] L’Ufficio internazionale trasmette al titolare una copia delle notifiche ricevute ai sensi dei capoversi 1) c) ii), 2) o 4).
+
+[^chap3-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+
+### **Regola 18**<sup>bis</sup> Dichiarazione di concessione della protezione
+
+[^chap3-lvlu2-1]
+
+[^chap3-lvlu2-1]: Introdotta dalla Dec. dell’Assemblea dell’Aja del 30 set. 2008, in vigore dal 1° gen. 2009 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)).
+
+\1) [*Dichiarazione di concessione della protezione qualora non sia stata comunicata alcuna notifica di rifiuto*]
+
+- a) Un Ufficio che non ha comunicato una notifica di rifiuto può, entro il termine applicabile in virtù della regola 18.1)a) o b), inviare all’Ufficio internazionale una dichiarazione secondo cui la protezione dei disegni o modelli industriali o, a seconda del caso, di alcuni disegni o modelli industriali oggetto della registrazione internazionale è accordata nella parte contraente interessata, essendo inteso che, qualora si applichi la regola 12.3), la concessione della protezione è subordinata al pagamento della seconda parte della tassa di designazione individuale.
+- b)
+
+  La dichiarazione deve indicare:
+
+  - i) l’Ufficio che effettua la dichiarazione;
+  - ii) il numero della registrazione internazionale;
+  - iii) se la dichiarazione non concerne tutti i disegni o modelli industriali oggetto della registrazione internazionale, quelli che concerne;
+  - iv) la data in cui la registrazione internazionale produce o produrrà gli stessi effetti della concessione della protezione in virtù della legislazione applicabile; e
+  - v) la data della dichiarazione.
+
+- c) Se la registrazione internazionale è stata modificata nell’ambito di una procedura presso l’Ufficio, la dichiarazione deve contenere o indicare tutte le modifiche.
+- d) In deroga alla lettera a), se si applica la regola 18.1)c)i) o ii), secondo il caso, o se la protezione è concessa ai disegni o modelli industriali a seguito di modifiche apportate nell’ambito di una procedura presso l’Ufficio, quest’ultimo è tenuto a trasmettere la dichiarazione di cui alla lettera a) all’Ufficio internazionale.
+- e) Il termine applicabile di cui alla lettera a) deve essere concesso in conformità con la regola 18.1)c)i) o ii), secondo il caso, per produrre gli stessi effetti della concessione della protezione in virtù della legislazione applicabile, per quanto concerne la designazione della parte contrante che ha fatto una dichiarazione in virtù di una delle regole summenzionate.[^chap3-lvlu2-2]
+
+\2) [*Dichiarazione di concessione della protezione in seguito a un rifiuto*]
+
+- a) Un Ufficio che ha comunicato una notifica di rifiuto e ha deciso di ritirare, parzialmente o totalmente, tale rifiuto può, in luogo di una notifica di ritiro di rifiuto conformemente alla regola 18.4)a), inviare all’Ufficio internazionale una dichiarazione secondo cui la protezione dei disegni e modelli industriali, o di taluni dei disegni o modelli industriali, oggetto della registrazione internazionale è accordata nella parte contraente interessata, essendo inteso che, qualora si applichi la regola 12.3), la concessione della protezione è subordinata al pagamento della seconda parte della tassa di designazione individuale.
+- b)
+
+  La dichiarazione deve indicare:
+
+  - i) l’Ufficio che effettua la notifica;
+  - ii) il numero della registrazione internazionale;
+  - iii) se la dichiarazione non concerne tutti i disegni o modelli industriali oggetto della registrazione internazionale, quelli che concerne o non concerne;
+  - iv) la data in cui la registrazione internazionale produce gli stessi effetti della concessione della protezione in virtù della legislazione applicabile; e
+  - v) la data della dichiarazione.
+
+- c) Se la registrazione internazionale è stata modificata nell’ambito di una procedura presso l’Ufficio, la dichiarazione deve contenere o indicare tutte le modifiche.[^chap3-lvlu2-3]
+
+\3) [*Iscrizione**, informazione del titolare e trasmissione di copie*] L’Ufficio internazionale iscrive nel registro internazionale tutte le dichiarazioni ricevute in virtù della presente regola, ne informa il titolare e, qualora la dichiarazione sia stata comunicata, o possa essere riprodotta, sotto forma di documento distinto, trasmette una copia di tale documento al titolare.
+
+[^chap3-lvlu2-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^chap3-lvlu2-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+
+### **Regola 19**Rifiuti irregolari
+
+\1) [*Notifica non considerata come tale*]
+
+- a)
+
+  Una notifica di rifiuto non è considerata tale dall’Ufficio internazionale e non è iscritta nel registro internazionale, se:
+
+  - i) non vi figura il numero della registrazione internazionale corrispondente, tranne se altre indicazioni che figurano nella notifica permettono di identificare la registrazione;
+  - ii) non vi figura il motivo del rifiuto; o
+  - iii) è inviata all’Ufficio internazionale dopo la scadenza del termine applicabile in virtù della regola 18.1).
+
+- b) Se è applicata la lettera a), l’Ufficio internazionale, tranne nei casi in cui non può identificare la registrazione internazionale in questione, trasmette al titolare una copia della notifica, informa nel contempo il titolare e l’Ufficio che ha inviato la notifica di rifiuto che quest’ultima non è considerata tale dall’Ufficio internazionale e non viene quindi iscritta nel registro internazionale, e ne indica i motivi.
+
+\2) [*Notifica irregolare*] Se la notifica di rifiuto
+
+- i) non è firmata in nome dell’Ufficio che ha comunicato il rifiuto o non adempie le condizioni di cui alla regola 2;
+- ii) non adempie, all’occorrenza, le esigenze della regola 18.2) b) iv);
+- iii) non indica, all’occorrenza, né l’autorità competente per evadere la richiesta di riesame o il ricorso né il termine, ragionevole tenuto conto delle circostanze, entro il quale tale richiesta o ricorso deve essere presentato (regola 18.2) b) vi));
+- iv) non indica la data in cui è stato pronunciato il rifiuto (regola 18.2) b) vii)),
+- [tab] l’Ufficio internazionale iscrive ciononostante il rifiuto nel registro internazionale e trasmette al titolare copia della notifica. Se il titolare glielo chiede, l’Ufficio internazionale invita l’Ufficio che ha comunicato il rifiuto a rettificare senza indugio la notifica.
+
+### **Regola 20**Invalidazione in parti contraenti designate
+
+\1) [*Contenuto della notifica d’invalidazione*] Se gli effetti di una registrazione internazionale sono invalidati da una parte contraente designata e se l’invalidazione non può essere oggetto di un riesame o di un ricorso, l’Ufficio della parte contraente la cui autorità competente ha pronunciato l’invalidazione notifica, se ne ha conoscenza, il fatto all’Ufficio internazionale. La notifica deve indicare:
+
+- i) l’autorità che ha pronunciato l’invalidazione;
+- ii) il fatto che l’invalidazione non può essere oggetto di un ricorso;
+- iii) il numero della registrazione internazionale;
+- iv) se l’invalidazione non concerne tutti i disegni o modelli industriali oggetto della registrazione internazionale, quelli interessati dall’invalidazione o quelli non interessati;
+- v) la data in cui l’invalidazione è stata pronunciata e la data a partire dalla quale ha effetto.
+
+\2) [*Iscrizione dell’invalidazione*] L’Ufficio internazionale iscrive l’invalidazione nel registro internazionale, insieme ai dati che figurano nella notifica d’invalidazione.
+
+## Capitolo 4: Modifiche e rettifiche
+
+### **Regola 21**Iscrizione di una modifica
+
+\1) [*Presentazione della domanda*]
+
+- a)
+
+  La domanda d’iscrizione di una modifica deve essere presentata all’Ufficio internazionale sul modulo ufficiale appropriato, se tale domanda concerne:
+
+  - i) un cambiamento del titolare della registrazione internazionale per tutti o per una parte dei disegni o modelli industriali oggetto della registrazione internazionale;
+  - ii) un cambiamento del nome o dell’indirizzo del titolare;
+  - iii) una rinuncia alla registrazione internazionale nei confronti di una, di più o della totalità delle parti contraenti designate;
+  - iv) una limitazione, nei confronti di una, di più o della totalità delle parti contraenti designate, riguardante tutti o una parte dei disegni o modelli industriali oggetto della registrazione internazionale.
+
+- b)
+
+  La domanda deve essere presentata e firmata dal titolare; una domanda d’iscrizione del cambiamento del titolare può tuttavia essere presentata dal nuovo proprietario, a condizione che sia:
+
+  - i) firmata dal titolare; o
+  - ii) firmata dal nuovo proprietario e accompagnata da un’attestazione dell’autorità competente della parte contraente del titolare in base alla quale il nuovo proprietario risulta essere l’avente causa del titolare.
+
+\2) [*Contenuto della domanda*] La domanda d’iscrizione di una modifica deve contenere o indicare, oltre alla modifica richiesta:
+
+- i) il numero della registrazione internazionale in questione;
+- ii) il nome del titolare, tranne se la modifica riguarda il nome e l’indirizzo del rappresentante;
+- iii) in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, del nuovo proprietario della registrazione internazionale;
+- iv) in caso di cambiamento del titolare della registrazione internazionale, la o le parti contraenti nei confronti delle quali il nuovo proprietario adempie le condizioni per essere il titolare di una registrazione internazionale;
+- v) in caso di cambiamento del titolare della registrazione internazionale che non concerne tutti i disegni o modelli industriali e tutte le parti contraenti, i numeri dei disegni o modelli industriali e le parti contraenti designate interessate dal cambiamento del titolare; e
+- vi) l’importo degli emolumenti pagati e il modo di pagamento oppure le istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, nonché l’identità dell’autore del pagamento o delle istruzioni.
+
+\3) [*Domanda irricevibile*] Un cambiamento di titolare di una registrazione internazionale non può essere iscritto nei confronti di una parte contraente designata se tale parte contraente non è vincolata da un Atto a cui la parte contraente, o una delle parti contraenti, indicata giusta il capoverso 2) iv) è vincolata.
+
+\4) [*Domanda irregolare*] Se la domanda d’iscrizione non adempie le condizioni richieste, l’Ufficio internazionale lo notifica al titolare e, se la domanda è stata presentata da una persona che sostiene di essere il nuovo proprietario, a tale persona.
+
+\5) [*Termine per correggere l’irregolarità*] Si può correggere l’irregolarità entro un termine di tre mesi a partire dalla data della notifica dell’Ufficio internazionale. Se entro detto termine l’irregolarità non è corretta, la domanda d’iscrizione è considerata abbandonata e l’Ufficio internazionale notifica il fatto al titolare e, nel caso in cui la domanda sia stata presentata da una persona che sostiene di essere il nuovo proprietario, a tale persona e rimborsa tutti gli emolumenti pagati, previa deduzione di un importo corrispondente alla metà di tali emolumenti.
+
+\6) [*Iscrizione e notifica di una modifica*]
+
+- a) Se la domanda è regolare, l’Ufficio internazionale iscrive senza tardare la modifica nel registro internazionale e ne informa il titolare. Trattandosi dell’iscrizione di un cambiamento del titolare, l’Ufficio internazionale informa sia il nuovo titolare che il titolare precedente.
+- b) La modifica va iscritta alla data in cui la domanda che adempie le condizioni richieste perviene all’Ufficio internazionale. Tuttavia, se la domanda indica che la modifica deve essere iscritta dopo un’altra modifica o dopo il rinnovo della registrazione internazionale, l’Ufficio internazionale acconsente a tale richiesta.
+
+\7) [*Iscrizione di un cambiamento parziale del titolare*] La cessione o qualsiasi altra trasmissione della registrazione internazionale per una parte soltanto dei disegni o modelli industriali o soltanto per alcune parti contraenti designate è iscritta nel registro internazionale sotto il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa; la parte ceduta o trasmessa è cancellata sotto il numero di detta registrazione internazionale ed è oggetto di una registrazione internazionale separata. Tale registrazione internazionale separata porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato da una lettera maiuscola.
+
+\8) [*Iscrizione della fusione di registrazioni internazionali*] Se, in seguito a un cambiamento parziale del titolare, la medesima persona diventa titolare di più registrazioni internazionali, su domanda di tale persona tali registrazioni sono fuse e i capoversi 1)–6) sono applicabili *mutatis mutandi*s. La registrazione internazionale risultante dalla fusione porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato, all’occorrenza, da una lettera maiuscola.
+
+### **Regola 21**<sup>bis</sup> Dichiarazione secondo cui un cambiamento di titolare è senza effetti
+
+[^chap4-lvlu2-1]
+
+[^chap4-lvlu2-1]: Introdotta dalla Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+
+\1) [*Dichiarazione e suoi effetti*] L’Ufficio di una parte contraente designata può dichiarare che un cambiamento di titolare iscritto nel registro internazionale è senza effetti nella parte contraente in questione. Tale dichiarazione comporta che, nei confronti della parte contraente in questione, la registrazione internazionale resta a nome del cedente.
+
+\2) [*Contenuto della dichiarazione*] La dichiarazione di cui al capoverso 1) deve indicare:
+
+- a) i motivi per cui il cambiamento di titolare è senza effetti;
+- b) le relative basi legali;
+- c) se la dichiarazione non riguarda tutti i disegni o modelli industriali oggetto del cambiamento di titolare, quelli che riguarda; e
+- d) se la dichiarazione è o non è soggetta a riesame o ricorso e, in caso affermativo, il termine, ragionevole in considerazione delle circostanze, entro il quale deve essere presentata una richiesta di riesame della dichiarazione o un ricorso contro la stessa, nonché l’autorità competente cui indirizzare la richiesta di riesame o il ricorso, con l’indicazione, secondo il caso, dell’obbligo di presentare la richiesta di riesame o il ricorso tramite un rappresentante con domicilio nel territorio della parte contraente il cui Ufficio ha rilasciato la dichiarazione.
+
+\3) [*Termine per l’invio della dichiarazione*] La dichiarazione di cui al capoverso 1) deve essere inviata all’Ufficio internazionale entro sei mesi dalla data di pubblicazione del cambiamento in questione o prima della scadenza del termine di rifiuto applicabile in virtù dell’articolo 12.2) dell’Atto del 1999 o dell’articolo 8.1) dell’Atto del 1960, essendo valido il termine che scade prima.
+
+\4) [*Iscrizione e notifica della dichiarazione; relativa modifica del registro internazionale*] L’Ufficio internazionale iscrive nel registro internazionale ogni dichiarazione fatta in conformità con il capoverso 3) e modifica il registro internazionale in modo che la parte della registrazione internazionale oggetto della dichiarazione in questione sia iscritta come registrazione internazionale distinta a nome del titolare precedente (cedente). L’Ufficio internazionale notifica il fatto al titolare precedente (cedente) e al nuovo titolare (destinatario).
+
+\5) [*Ritiro di una dichiarazione*] Ogni dichiarazione fatta in conformità con il capoverso 3) può essere ritirata, completamente o parzialmente. Il ritiro della dichiarazione è notificato all’Ufficio internazionale che lo iscrive nel registro internazionale. L’Ufficio internazionale modifica il registro internazionale e lo notifica al titolare precedente (cedente) e al nuovo titolare (destinatario).
+
+### **Regola 22**Rettifiche del registro internazionale
+
+\1) [*Rettifica*] Se, agendo d’ufficio o su richiesta del titolare, ritiene che il registro internazionale contenga un errore relativo a una registrazione internazionale, l’Ufficio internazionale modifica il registro e ne informa il titolare.
+
+\2) [*Rifiuto degli effetti della rettifica*] L’Ufficio di ogni parte contraente designata ha il diritto di dichiarare, mediante una notifica indirizzata all’Ufficio internazionale, che si rifiuta di riconoscere gli effetti della rettifica. Le regole 18 – 19 sono applicabili *mutatis mutandi*s.[^chap4-lvlu3-1]
+
+[^chap4-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 30 set. 2008, in vigore dal 1° gen. 2009 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)).
+
+## Capitolo 5: Rinnovi
+
+### **Regola 23**Avvisi ufficiosi di scadenza
+
+Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internazionale invia al titolare e all’eventuale rappresentante un avviso nel quale è indicata la data di scadenza della registrazione internazionale. Il mancato ricevimento di un tale avviso non scusa l’inosservanza di un termine previsto dalla regola 24.
+
+### **Regola 24**Precisazioni relative al rinnovo
+
+\1) [*Emolumenti*]
+
+- a)
+
+  La registrazione internazionale è rinnovata dietro pagamento dei seguenti emolumenti:
+
+  - i) un emolumento di base;
+  - ii) un emolumento di designazione standard per ogni parte contraente designata in virtù dell’Atto del 1999 che non ha presentato la dichiarazione prevista dall’articolo 7.2) dell’Atto del 1999, e per ogni parte contraente designata in virtù dell’Atto del 1960, per le quali la registrazione internazionale deve essere rinnovata;
+  - iii) un emolumento di designazione individuale per ogni parte contraente designata in virtù dell’Atto del 1999 che ha presentato la dichiarazione prevista dall’articolo 7.2) dell’Atto del 1999 e per la quale la registrazione internazionale deve essere rinnovata.
+
+- b) L’importo degli emolumenti di cui ai punti i) e ii) della lettera a) è stabilito nella tariffa.
+- c) Il pagamento degli emolumenti di cui alla lettera a) deve avvenire al più tardi alla data in cui deve essere effettuato il rinnovo della registrazione internazionale. Tuttavia può anche avvenire entro un termine di sei mesi a partire dalla data in cui deve essere effettuato il rinnovo della registrazione internazionale, a condizione che venga contemporaneamente pagato l’emolumento supplementare indicato nella tariffa.
+- d) Ogni pagamento a scopo di rinnovo, che perviene all’Ufficio internazionale più di tre mesi prima della data in cui deve essere effettuato il rinnovo della registrazione internazionale, è considerato come se fosse avvenuto tre mesi prima di tale data.
+
+\2) [*Precisazioni supplementari*]
+
+- a)
+
+  Se il titolare non desidera rinnovare la registrazione internazionale:
+
+  - i) nei confronti di una parte contraente designata; o
+  - ii) nei confronti di uno qualsiasi dei disegni o modelli industriali oggetto della registrazione internazionale, il pagamento degli emolumenti dovuti deve essere accompagnato da una dichiarazione che indica la parte contraente o i numeri dei disegni o modelli industriali per i quali la registrazione internazionale non deve essere rinnovata.
+
+- b) Se il titolare desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata nonostante il fatto che la durata massima della protezione dei disegni o modelli industriali in tale parte contraente sia scaduta, il pagamento degli emolumenti dovuti, compreso l’emolumento di designazione standard o l’emolumento di designazione individuale, a seconda del caso, per tale parte contraente, deve essere accompagnato da una dichiarazione in base alla quale il rinnovo della registrazione internazionale va iscritto nel registro internazionale nei confronti di tale parte contraente.
+- c) Se il titolare desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata nonostante il fatto che per tale parte contraente è iscritto nel registro internazionale un rifiuto concernente l’insieme dei disegni o modelli industriali in questione, il pagamento degli emolumenti dovuti, compreso l’emolumento di designazione standard o l’emolumento di designazione individuale, a seconda del caso, per tale parte contraente, deve essere accompagnato da una dichiarazione che specifica che il rinnovo della registrazione internazionale va iscritto nel registro internazionale nei confronti di tale parte contraente.
+- d) La registrazione internazionale non può essere rinnovata nei confronti di una parte contraente designata nei confronti della quale è stata iscritta un’invalidazione per tutti i disegni o modelli industriali in virtù della regola 20 o una rinuncia in virtù della regola 21. La registrazione internazionale non può essere rinnovata nei confronti di una parte contraente designata per i disegni o modelli industriali per i quali, in tale parte contraente, è stata iscritta un’invalidazione in virtù della regola 20 o una limitazione in virtù della regola 21.
+
+\3) [*Pagamento insufficiente*]
+
+- a) Se l’importo degli emolumenti pagati è inferiore a quello dovuto per il rinnovo, l’Ufficio internazionale notifica senza indugio il fatto sia al titolare che all’eventuale rappresentante. La notifica precisa la differenza dovuta.
+- b) Se, alla scadenza del termine di sei mesi di cui al capoverso 1) c), l’importo degli emolumenti pagato è inferiore a quello dovuto per il rinnovo, l’Ufficio internazionale non iscrive il rinnovo, rimborsa l’importo ricevuto e notifica il fatto al titolare e all’eventuale rappresentante.
+
+### **Regola 25**Iscrizione del rinnovo; certificato
+
+\1) [*Iscrizione e data a partire dalla quale il rinnovo ha effetto*] Il rinnovo è iscritto nel registro internazionale e porta la data in cui deve essere effettuato anche se gli emolumenti dovuti sono pagati entro il termine ulteriore previsto dalla regola 24.1) c).
+
+\2) [*Certificato*] L’Ufficio internazionale invia al titolare un certificato di rinnovo.
+
+## Capitolo 6: Pubblicazione
+
+[^chap6-1]
+
+[^chap6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+
+### **Regola 26**Pubblicazione
+
+[^chap6-lvlu1-1]
+
+[^chap6-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+
+\1) *Informazioni concernenti le registrazioni internazionali*] L’Ufficio internazionale pubblica nel bollettino i dati pertinenti relativi:
+
+- i) alle registrazioni internazionali, conformemente alla regola 17;
+- ii) ai rifiuti, indicando se il riesame o il ricorso è possibile, ma senza pubblicare i motivi del rifiuto, e alle altre comunicazioni iscritte in virtù delle regole 18.5) e 18<sup>bis</sup>.3);
+- iii) alle invalidazioni iscritte in virtù della regola 20.2);
+- iv) ai cambiamenti del titolare e alle fusioni, alla modifica del nome o dell’indirizzo del titolare, alle rinunce e alle limitazioni iscritti in virtù della regola 21;
+- v) alle rettifiche effettuate in virtù della regola 22;
+- vi) ai rinnovi iscritti in virtù della regola 25.1);
+- vii) alle registrazioni internazionali che non sono state rinnovate;
+- viii) alle cancellazioni iscritte in virtù della regola 12.3)d);
+- ix) alle dichiarazioni secondo cui un cambiamento di titolare è senza effetti e al ritiro di tali dichiarazioni iscritte in virtù della regola 21<sup>bis</sup>.[^chap6-lvlu1-2]
+
+\2) [*Informazioni concernenti le dichiarazioni; altre informazioni*] L’Ufficio internazionale pubblica sul sito Internet dell’Organizzazione ogni dichiarazione fatta da una parte contraente in virtù dell’Atto del 1999, dell’Atto del 1960 o del presente regolamento d’esecuzione nonché l’elenco dei giorni dell’anno civile in corso e di quello successivo, in cui è previsto che l’Ufficio internazionale non sarà aperto al pubblico.[^chap6-lvlu1-3]
+
+\3) [*Modalità di pubblicazione del Bollettino*] Il Bollettino è pubblicato sul sito Internet dell’Organizzazione. La pubblicazione di ogni numero del Bollettino sostituisce l’invio del Bollettino di cui agli articoli 10.3)b) e 16.4) dell’Atto del 1999 e all’articolo 6.3)b) dell’Atto del 1960, e ai fini dell’articolo 8.2) dell’Atto del 1960, si ritiene che il Bollettino perviene ad ognuno degli Uffici interessati il giorno della sua pubblicazione sul sito Internet dell’Organizzazione.[^chap6-lvlu1-4]
+
+[^chap6-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap6-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+
+## Capitolo 7: Emolumenti
+
+### **Regola 27**Importo e pagamento degli emolumenti
+
+\1) [*Importo degli emolumenti*] L’importo degli emolumenti dovuti in virtù dell’Atto del 1999, dell’Atto del 1960 e del presente regolamento d’esecuzione, salvo quello dell’emolumento di designazione individuale ai sensi della regola 12.1)a)iii), è indicato nella tariffa che figura in allegato al presente regolamento d’esecuzione del quale è parte integrante.[^chap7-lvlu1-1]
+
+\2) [*Pagamento*]
+
+- a) Fatte salve la lettera b) e la regola 12.3) c), gli emolumenti sono pagati direttamente all’Ufficio internazionale.
+- b) Se la domanda internazionale è depositata per il tramite dell’Ufficio della parte contraente del depositario, gli emolumenti relativi a tale domanda possono essere pagati per il tramite dell’Ufficio in questione se quest’ultimo accetta di riscuoterli e di trasmetterli e se il depositario o il titolare lo desidera. Gli Uffici che accettano di riscuotere e trasmettere tali emolumenti devono notificare il fatto al Direttore generale.
+
+\3) [*Modalità di pagamento*] Gli emolumenti sono pagati all’Ufficio internazionale conformemente alle modalità definite nelle istruzioni amministrative.
+
+\4) [*Indicazioni che accompagnano il pagamento*] Al momento del pagamento di un emolumento all’Ufficio internazionale, occorre indicare:
+
+- i) prima della registrazione internazionale, il nome del depositario, il disegno o modello industriale in questione e l’oggetto del pagamento;
+- ii) dopo la registrazione internazionale, il nome del titolare, il numero della registrazione internazionale in questione e l’oggetto del pagamento.
+
+\5) [*Data del pagamento*]
+
+- a) Fatte salve la regola 24.1) d) e la lettera b), un emolumento è considerato pagato all’Ufficio internazionale il giorno in cui l’Ufficio internazionale riceve l’importo dovuto.
+- b) Se l’importo dovuto è disponibile su un conto aperto presso l’Ufficio internazionale e l’Ufficio ha ricevuto dal titolare del conto le istruzioni per operare il prelievo, l’emolumento è considerato pagato all’Ufficio internazionale il giorno in cui l’Ufficio internazionale riceve la domanda internazionale, la domanda d’iscrizione di una modifica o la richiesta di rinnovo di una registrazione internazionale.
+
+\6) [*Modifica dell’importo degli emolumenti*]
+
+- a) Se la domanda internazionale è depositata per il tramite dell’Ufficio della parte contraente del depositario e l’importo degli emolumenti dovuti per il deposito della domanda internazionale è modificato fra la data di ricezione della domanda internazionale da parte di tale Ufficio e la data di ricezione della domanda internazionale da parte dell’Ufficio internazionale, l’importo applicabile è quello che era in vigore alla prima delle due date.
+- b) Se l’importo degli emolumenti dovuti per il rinnovo di una registrazione internazionale è modificato fra la data del pagamento e la data in cui va effettuato il rinnovo, l’importo applicabile è quello che era in vigore alla data del pagamento o alla data considerata come la data del pagamento conformemente alla regola 24.1) d). Se il pagamento avviene dopo la data in cui doveva essere effettuato il rinnovo, l’importo applicabile è quello che era in vigore alla data del rinnovo.
+- c) Se è modificato l’importo di un emolumento diverso da quelli di cui alle lettere a) e b), l’importo applicabile è quello che era in vigore al momento in cui il pagamento dell’emolumento è pervenuto all’Ufficio internazionale.
+
+[^chap7-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+### **Regola 28**Valuta di pagamento
+
+\1) [*Obbligo di utilizzare la valuta svizzera*] Tutti i pagamenti all’Ufficio internazionale in applicazione del presente regolamento d’esecuzione devono essere effettuati in valuta svizzera anche quando, il pagamento essendo effettuato per il tramite di un Ufficio, tale Ufficio le abbia riscosse in un’altra valuta.
+
+\2) [*Determinazione dell’importo degli emolumenti di designazione individuale in valuta svizzera*][^chap7-lvlu2-1]
+
+- a) Se una parte contraente presenta, in virtù dell’articolo 7.2) dell’Atto del 1999 o in virtù della regola 36.1), una dichiarazione secondo la quale intende riscuotere un emolumento di designazione individuale, tale parte contraente indica all’Ufficio internazionale l’importo di tale emolumento espresso nella valuta utilizzata dal suo Ufficio.
+- b) Se, nella dichiarazione di cui alla lettera a), l’emolumento è indicato in una valuta diversa da quella svizzera, il Direttore generale, previa consultazione dell’Ufficio della parte contraente in questione, determina l’importo dell’emolumento in valuta svizzera sulla base del tasso di cambio ufficiale delle Nazioni Unite.
+- c)[^chap7-lvlu2-2] Se, durante più di tre mesi consecutivi, il tasso di cambio ufficiale delle Nazioni Unite fra la valuta svizzera e la valuta nella quale è stato indicato da una parte contraente l’importo di un emolumento di designazione individuale è superiore o inferiore di almeno il 5 per cento rispetto all’ultimo tasso di cambio applicato per la determinazione dell’importo dell’emolumento in valuta svizzera, l’Ufficio della parte contraente in questione può chiedere al Direttore generale di determinare un nuovo importo dell’emolumento in valuta svizzera sulla base del tasso di cambio ufficiale delle Nazioni Unite applicabile il giorno precedente a quello in cui è stata presentata tale richiesta. Il Direttore generale prende i provvedimenti necessari. Il nuovo importo è applicabile a partire dalla data stabilita dal Direttore generale, essendo inteso che tale data si situa al più presto un mese e al più tardi due mesi dopo la data della pubblicazione di tale importo sul sito Internet dell’Organizzazione.
+- d)[^chap7-lvlu2-3] Se, durante più di tre mesi consecutivi, il tasso di cambio ufficiale delle Nazioni Unite fra la valuta svizzera e la valuta nella quale è stato indicato da una parte contraente l’importo di un emolumento di designazione individuale è inferiore di almeno il 10 per cento rispetto all’ultimo tasso di cambio applicato per la determinazione dell’importo dell’emolumento in valuta svizzera, il Direttore generale determina un nuovo importo dell’emolumento in valuta svizzera sulla base del tasso di cambio ufficiale delle Nazioni Unite applicabile. Il nuovo importo è applicabile a partire dalla data stabilita dal Direttore generale, essendo inteso che tale data si situa al più presto un mese e al più tardi due mesi dopo la data della pubblicazione di tale importo sul sito Internet dell’Organizzazione.
+
+[^chap7-lvlu2-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap7-lvlu2-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap7-lvlu2-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+
+### **Regola 29**Accredito dell’importo degli emolumenti alle parti contraenti
+
+Ogni emolumento di designazione standard o di designazione individuale pagato all’Ufficio internazionale in favore di una parte contraente è accreditato sul conto di tale parte contraente presso l’Ufficio internazionale nel corso del mese che segue quello dell’iscrizione della registrazione internazionale o del rinnovo per il quale tale emolumento è stato pagato o, per quanto concerne la seconda rata dell’emolumento di designazione individuale, dal momento in cui quest’ultima perviene all’Ufficio internazionale.
+
+## Capitolo 8: ...
+
+### **Regole 30** e **31**
+
+[^chap8-lvlu1-1]
+
+[^chap8-lvlu1-1]: Soppresse dalla Dec. dell’Assemblea dell’Aja del 1° ott. 2009, con effetto dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+## Capitolo 9: Disposizioni varie
+
+### **Regola 32**Estratti, copie e informazioni concernenti le registrazioni internazionali pubblicate
+
+\1) [*Modalità*] Dietro pagamento di una tassa il cui importo è definito nella tariffa, chiunque può ottenere dall’Ufficio internazionale, per qualsiasi registrazione pubblicata:
+
+- i) un estratto del registro internazionale;
+- ii) una copia autenticata delle iscrizioni fatte al registro internazionale o degli atti della registrazione internazionale;
+- iii) una copia non autenticata delle iscrizioni fatte nel registro internazionale o degli atti della registrazione internazionale;
+- iv) informazioni scritte sul contenuto del registro internazionale o sugli atti della registrazione internazionale;
+- v) una fotografia di un campione.
+
+\2) [*Esenzione dall’autentificazione, dalla legalizzazione o da altri attestati di autenticità*] Se un documento di cui al capoverso 1) i) e ii) porta il sigillo dell’Ufficio internazionale ed è firmato dal Direttore generale o da persona agente in sua vece, nessuna autorità di una parte contraente può chiedere che una persona od autorità qualsiasi debba autentificare, legalizzare o certificare in altro modo questo documento, sigillo o firma. Il presente capoverso è applicabile *mutatis mutandis* al certificato di registrazione internazionale di cui alla regola 15.1).
+
+### **Regola 33**Modifica di certe regole
+
+\1) [*Esigenza dell’unanimità*] La modifica delle seguenti disposizioni del presente regolamento d’esecuzione esige l’unanimità delle parti contraenti vincolate dall’Atto del 1999:
+
+- i) la regola 13.4);
+- ii) la regola 18.1).
+
+\2) [*Esigenza della maggioranza di quattro quinti*] La modifica delle seguenti disposizioni del presente regolamento d’esecuzione e del capoverso 3) della presente regola esige la maggioranza di quattro quinti delle parti contraenti vincolate dall’Atto del 1999:
+
+- i) la regola 7.7);
+- ii) la regola 9.3) b);
+- iii) la regola 16.1) a);
+- iv) la regola 17.1) iii).
+
+\3) [*Procedura*] Ogni proposta di modifica di una disposizione giusta il capoverso 1) o 2) è inviata a tutte le parti contraenti almeno due mesi prima dell’apertura della sessione dell’Assemblea convocata per esprimersi sulla proposta in questione.
+
+### **Regola 34**Istruzioni amministrative
+
+\1) [*Istruzioni amministrative e materie trattate*]
+
+- a) Il Direttore generale elabora istruzioni amministrative. Il Direttore generale può modificarle. Il Direttore generale consulta gli Uffici delle parti contraenti in merito alle istruzioni amministrative o alle modifiche proposte.
+- b) Le istruzioni amministrative trattano questioni per le quali il presente regolamento d’esecuzione rinvia esplicitamente a tali istruzioni e particolari relativi all’applicazione del presente regolamento d’esecuzione.
+
+\2) [*Controllo dell’Assemblea*] L’Assemblea può invitare il Direttore generale a modificare qualsiasi disposizione delle istruzioni amministrative, e il Direttore generale agisce in conseguenza.
+
+\3) [*Pubblicazione ed entrata in vigore*]
+
+- a) Le istruzioni amministrative e ogni modifica di cui sono oggetto vengono pubblicate sul sito Internet dell’Organizzazione.
+- b) Ciascuna pubblicazione precisa la data in cui entrano in vigore le disposizioni pubblicate. Le date possono essere differenti per disposizioni diverse, fermo restando che nessuna disposizione può entrare in vigore prima della sua pubblicazione sul sito Internet dell’Organizzazione.[^chap9-lvlu3-1]
+
+\4) [*Divergenza fra le istruzioni amministrative e l’Atto del 1999, l’Atto del 1960 o il presente regolamento d’esecuzione*] In caso di divergenza fra una disposizione delle istruzioni amministrative, da un canto, e una disposizione dell’Atto del 1999, dell’Atto del 1960 o del presente regolamento d’esecuzione, dall’altro, quest’ultima prevale.[^chap9-lvlu3-2]
+
+[^chap9-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap9-lvlu3-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+### **Regola 35**Dichiarazioni delle parti contraenti all’Atto del 1999
+
+\1) [*Presentazione e data a partire dalla quale hanno effetto le dichiarazioni*] L’articolo 30.1) e 2) dell’Atto del 1999 è applicabile *mutatis mutandis* a ogni dichiarazione presentata in virtù delle regole 8.1), 9.3) a), 13.4) o 18.1) b) e al suo effetto.
+
+\2) [*Ritiro delle dichiarazioni*] Ogni dichiarazione giusta il capoverso 1) può essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale. Il ritiro ha effetto a partire dalla data in cui il Direttore generale riceve la notifica o a qualsiasi data posteriore indicata nella notifica. Nel caso di una dichiarazione presentata in virtù della regola 18.1) b), il ritiro non ha alcun influsso sulle registrazioni internazionali la cui data è anteriore a quella dell’effetto del ritiro.
+
+### **Regola 36**Dichiarazioni delle parti contraenti all’Atto del 1960
+
+\1) [*Tassa di designazione individuale*] Ai fini dell’articolo 15.1) 2°b) dell’Atto del 1960, ogni parte contraente all’Atto del 1960 il cui Ufficio è un Ufficio che procede all’esame può notificare al Direttore generale, mediante una dichiarazione, che per qualsiasi domanda internazionale in cui è designata in virtù dell’Atto del 1969, la tassa di designazione prescritta giusta la regola 12.1) a) ii) è sostituita da una tassa di designazione individuale il cui importo è indicato nella dichiarazione e può essere modificato nelle dichiarazioni successive. Tale importo non può eccedere l’importo equivalente a quello che l’Ufficio della parte contraente in questione avrebbe il diritto di ricevere dal depositante per una protezione attribuita, per una durata equivalente, allo stesso numero di disegni e modelli industriali, l’importo in questione essendo diminuito dell’importo del risparmio risultante dalla procedura internazionale.
+
+\2) [*Durata massima della protezione*] Ogni parte contraente all’Atto del 1960 notifica al Direttore generale, mediante una dichiarazione, la durata massima di protezione prevista nella propria legislazione.
+
+\3) [*Momento in cui possono essere fatte le dichiarazioni*] Ogni dichiarazione giusta i capoversi 1) e 2) può essere fatta
+
+- i) al momento del deposito di uno strumento giusta l’articolo 26.2) dell’Atto del 1960, caso in cui entra in vigore il giorno in cui lo Stato che ha fatto la dichiarazione diventa vincolato dal presente Atto, o
+- ii) dopo il deposito di uno strumento giusta l’articolo 26.2) dell’Atto del 1960, caso in cui entra in vigore un mese dopo il giorno del suo ricevimento da parte del Direttore generale o in una data successiva indicatavi, ma è applicabile unicamente alle registrazioni internazionali la cui data è identica o successiva alla data in cui è entrata in vigore.
+
+### **Regola 37**Disposizioni transitorie
+
+[^chap9-lvlu6-1]
+
+[^chap9-lvlu6-1]: Introdotta dalla Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+
+\1) [*Disposizione transitoria relativa all’Atto del 1934*]
+
+- a)
+
+  Ai fini della presente disposizione:
+
+  - i) per «Atto del 1934» s’intende l’Atto relativo all’Accordo dell’Aja conchiuso il 2 giugno 1934[^chap9-lvlu6-2] a Londra;
+  - ii) per «parte contraente designata in virtù dell’Atto del 1934» s’intende una parte contraente iscritta in quanto tale nel registro internazionale;
+  - iii) il termine «domanda internazionale» o «registrazione internazionale» è usato in un’accezione includente, all’occorrenza, un riferimento al termine «deposito internazionale» di cui nell’Atto del 1934.
+
+- b) Il Regolamento d’esecuzione comune all’Atto del 1999, all’Atto del 1960 e all’Atto del 1934 relativi all’Accordo dell’Aja come era applicabile prima del 1° gennaio 2010 rimane applicabile nei confronti di una domanda internazionale depositata prima di tale data e ancora in istanza a tale data, e nei confronti di qualsiasi parte contraente designata in virtù dell’Atto del 1934 in una registrazione internazionale risultante da una domanda internazionale depositata prima di tale data.
+
+\2) [*Disposizione transitoria relativa alle lingue*] La regola 6 come era applicabile prima del 1° aprile 2010 rimane applicabile nei confronti di una domanda internazionale depositata prima di tale data e della registrazione internazionale che ne risulta.
+
+[^chap9-lvlu6-2]: [CS **11** 1005; RU **1975** 1599. [RU 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
+
+Tariffe[^t-2]
+
+(in vigore il 1° gen. 2015)
+
+## I. Domande internazionali
+
+[^t-2]: Aggiornato dalle Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)) e del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+
+<table>
+<tr><th></th><th>Franchi svizzeri</th></tr>
+<tr><td>1. Tassa di base[^annexu1-lvlI-1]\*</td><td></td></tr>
+<tr><td>1.1 Per un disegno o modello</td><td>397.–</td></tr>
+<tr><td>1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>19.–</td></tr>
+<tr><td>2. Tassa di pubblicazione[^annexu1-lvlI-2]\*</td><td></td></tr>
+<tr><td>2.1 Per ogni raffigurazione da pubblicare</td><td>17.–</td></tr>
+<tr><td>2.2 Per ogni pagina supplementare sulla quale sono presentate una o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
+<tr><td>3. Tassa supplementare se la descrizione supera le 100 parole (per parola)<sup>\*</sup></td><td>2.–</td></tr>
+<tr><td>4. Tassa di designazione standard[^annexu1-lvlI-3]\*\*</td><td></td></tr>
+<tr><td>4.1 Quando si applica il livello uno:</td><td></td></tr>
+<tr><td>4.1.1 Per un disegno o modello</td><td>42.–</td></tr>
+<tr><td>4.1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>2.–</td></tr>
+<tr><td>4.2 Quando si applica il livello due:</td><td></td></tr>
+<tr><td>4.2.1 Per un disegno o modello</td><td>60.–</td></tr>
+<tr><td>4.2.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>20.–</td></tr>
+<tr><td>4.3 Quando si applica il livello tre:</td><td></td></tr>
+<tr><td>4.3.1 Per un disegno o modello</td><td>90.–</td></tr>
+<tr><td>4.3.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>50.–</td></tr>
+<tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-4]\*\*\*</td><td></td></tr>
+</table>
+
+[^annexu1-lvlI-1]: <sup>\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione ed a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
+[^annexu1-lvlI-2]: 
+[^annexu1-lvlI-3]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % del’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale per il livello tre.
+[^annexu1-lvlI-4]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1) del regolamento d’esecuzione comune sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, la tassa individuale da pagare per la loro designazione è ridotta al 10 % dell’importo normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino)».
+
+## II …
+
+6 …
+
+## III. Rinnovo di una registrazione internazionale risultante da una domanda internazionale retta esclusivamente o parzialmente dall’Atto del 1960 o dall’Atto del 1999
+
+<table>
+<tr><td></td><td>Franchi svizzeri</td></tr>
+<tr><td>7. Tassa di base</td><td></td></tr>
+<tr><td>7.1 Per un disegno o modello</td><td>200.–</td></tr>
+<tr><td>7.2 Per ogni disegno o modello supplementare compreso nella stessa registrazione internazionale</td><td>17.–</td></tr>
+<tr><td>8. Tassa di designazione standard</td><td></td></tr>
+<tr><td>8.1 Per un disegno o modello</td><td>21.–</td></tr>
+<tr><td>8.2 Per ogni disegno o modello supplementare compreso nella stessa registrazione internazionale</td><td>1.–</td></tr>
+<tr><td>9. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)</td><td></td></tr>
+<tr><td>10. Supplemento (periodo di grazia)</td><td>[^annexu1-lvlIII-1]\*\*\*\*</td></tr>
+</table>
+
+[^annexu1-lvlIII-1]: <sup>\*\*\*\*</sup> 50 % della tassa di rinnovo di base.
+
+## IV …
+
+\11. e 12. …
+
+## V. Iscrizioni diverse
+
+<table>
+<tr><th></th><th>Franchi svizzeri</th></tr>
+<tr><td>13. Cambiamento di titolare</td><td>144.–</td></tr>
+<tr><td>14. Cambiamento di nome o di indirizzo del titolare</td><td></td></tr>
+<tr><td>14.1 Per una registrazione internazionale</td><td>144.–</td></tr>
+<tr><td>14.2 Per ogni registrazione internazionale supplementare dello stesso titolare compresa nella stessa domanda di iscrizione</td><td>72.–</td></tr>
+<tr><td>15. Rinuncia</td><td>144.–</td></tr>
+<tr><td>16. Limitazione</td><td>144.–</td></tr>
+</table>
+
+## VI. Informazioni relative alle registrazioni internazionali pubblicate
+
+<table>
+<tr><th></th><th>Franchi svizzeri</th></tr>
+<tr><td>17. Fornitura di un estratto del registro internazionale relativo a una registrazione internazionale pubblicata</td><td>144.–</td></tr>
+<tr><td>18. Fornitura di copie, non autenticate, del registro internazionale o di atti di una registrazione internazionale pubblicata</td><td></td></tr>
+<tr><td>18.1 Fino a cinque pagine</td><td>26.–</td></tr>
+<tr><td>18.2 Per ogni pagina supplementare se le copie sono richieste contemporaneamente e riguardano la stessa registrazione internazionale pubblicata</td><td>2.–</td></tr>
+<tr><td>19. Fornitura di copie autenticate del registro internazionale o di atti di una registrazione internazionale pubblicata</td><td></td></tr>
+<tr><td>19.1 Fino a cinque pagine</td><td>46.–</td></tr>
+<tr><td>19.2 Per ogni pagina supplementare se le copie sono richieste contemporaneamente e riguardano la stessa registrazione internazionale pubblicata</td><td>2.–</td></tr>
+<tr><td>20. Fornitura di una fotografia o di un campione</td><td>57.–</td></tr>
+<tr><td>21. Fornitura per scritto di un’informazione sul contenuto del registro internazionale o degli atti di una registrazione internazionale pubblicata</td><td></td></tr>
+<tr><td>21.1 Per una registrazione internazionale</td><td>82.–</td></tr>
+<tr><td>21.2 Per ogni registrazione internazionale supplementare relativa al titolare, se la stessa informazione è richiesta contemporaneamente</td><td>10.–</td></tr>
+<tr><td>22. Ricerca nella lista dei titolari di registrazioni internazionali pubblicate</td><td></td></tr>
+<tr><td>22.1 Per ricerca basata sul nome di una persona fisica o giuridica specifica</td><td>82.–</td></tr>
+<tr><td>22.2 Per ogni registrazione internazionale supplementare trovata</td><td>10.–</td></tr>
+<tr><td>23. Supplemento per la comunicazione di estratti, copie, informazioni o rapporti di ricerca tramite telecopiatrice (per pagina)</td><td>4.–</td></tr>
+</table>
+
+## VII. Servizi forniti dall’Ufficio internazionale
+
+- 24\. L’Ufficio internazionale è autorizzato a percepire una tassa, di cui lui stesso fissa l’importo, per i servizi che non sono contemplati nel presente tariffario.

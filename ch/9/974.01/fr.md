@@ -1,0 +1,456 @@
+---
+sr: "974.01"
+title: "Ordonnance du 12 décembre 1977 concernant la coopération au développement et l'aide humanitaire internationales"
+eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
+language: fr
+version: 2020-01-01
+adopted: 1977-12-12
+in_force: 1978-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la coopération au développement et l’aide humanitaire internationales
+
+du 12 décembre 1977 (Etat le 1<sup>er</sup> janvier 2020)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 15 de la loi fédérale du 19 mars 1976[^ingress-1] sur la coopération au développement et l’aide humanitaire internationales (loi),
+
+arrête:
+
+[^ingress-1]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Offices fédéraux**
+
+<sup>1</sup>
+
+Les offices fédéraux suivants sont chargés de l’exécution de la loi:[^1-1]
+
+- a.[^1-2] la Direction du développement et de la coopération (DDC) du Département fédéral des affaires étrangères (DFAE);
+- b. le Secrétariat d’État à l’économie (SECO)[^1-3] du Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^1-4].
+
+<sup>2</sup> Le Conseil fédéral ou le département compétent peut charger d’autres offices et services fédéraux d’exécuter des mesures de coopération au développement et d’aide humanitaire.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 1998, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 873](https://fedlex.data.admin.ch/eli/oc/1998/873_873_873)).
+[^1-3]: Nouvelle dénomination selon l’art. 21 ch. 23 de l’O du 17 nov. 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Il a été tenu compte de cette mod. dans tout le présent texte.
+[^1-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 2
+
+**Compétence, degrés de collaboration**
+
+<sup>1</sup>
+
+La compétence des offices fédéraux s’étend notamment à:
+
+- a. la préparation des affaires du Conseil fédéral et du Parlement;
+- b. la gestion des crédits de programme;
+- c. la préparation et la négociation de mesures particulières, réalisées de manière autonome ou avec des partenaires et des intermédiaires;
+- d. les relations avec des partenaires ou intermédiaires;
+- e. l’exécution et l’évaluation des mesures particulières.
+
+<sup>2</sup> Lorsqu’un Office a le droit de se prononcer, l’office fédéral compétent n’est pas lié par l’opinion de cet autre office.[^2-1]
+
+<sup>3</sup> Lorsque l’office fédéral compétent agit d’entente avec un autre, il ne peut prendre de décision sans l’accord de celui-ci.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+
+#### Art. 3
+
+**Modalités**
+
+<sup>1</sup>
+
+Sont en particulier considérées comme mesures bilatérales:
+
+- a. des mesures de la Confédération, exécutées directement ou en régie;
+- b. des mesures exécutées en faveur de pays partenaires par la Confédération, avec la collaboration d’autres États;
+- c. des contributions et d’autres prestations à des intermédiaires, tels qu’institutions privées ou publiques, ainsi que cantons et communes;
+- d. des contributions et d’autres prestations à des organisations internationales pour des mesures exécutées dans un pays ou une région déterminé.
+
+<sup>2</sup> Sont considérées comme mesures multilatérales des contributions et d’autres prestations à des organisations internationales, notamment pour la réalisation de leur programme général.
+
+<sup>3</sup> Sont considérées comme autonomes les mesures exécutées unilatéralement par la Confédération en faveur d’un ou de plusieurs pays ou – dans le cadre de tâches particulières – en vue de promouvoir la coopération au développement et l’aide humanitaire en général.
+
+## Section 2 Coopération au développement
+
+#### Art. 4
+
+**Conception globale**
+
+La DDC[^4-1] et le SECO, ainsi que l’Administration fédérale des finances élaborent en commun la conception globale de la contribution suisse à la coopération internationale au développement. La coordination incombe à la DDC.
+
+[^4-1]: Nouvelle abréviation selon le ch. I de l’O du 28 janv. 1998, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 873](https://fedlex.data.admin.ch/eli/oc/1998/873_873_873)). Il a été tenu compte de cette mod. dans tout le présent texte.
+
+#### Art. 5
+
+**Participation à l’élaboration de la politique internationale de développement**
+
+<sup>1</sup> Le DFAE et le DEFR préparent en commun la position de la Suisse lors de conférences internationales ainsi qu’au sein d’organisations et d’organismes internationaux où sont traités des problèmes généraux ou, simultanément, diverses formes de coopération au développement. D’autres départements participent, s’il le faut, à ce travail préparatoire. La coordination incombe à l’office fédéral compétent à raison de la conférence, de l’organisation ou de l’organisme.
+
+<sup>2</sup> Cet office fédéral représente la Suisse à la conférence ou au sein de l’organisation ou de l’organisme; d’autres offices et services fédéraux participent, s’il le faut, aux négociations.
+
+#### Art. 6
+
+**Coopération technique**
+
+<sup>1</sup> La DDC est compétente pour la coopération technique; le SECO a le droit de se prononcer.
+
+<sup>2</sup> Il est aussi possible d’attribuer des bourses de formation en Suisse pour des ressortissants de pays en développement selon l’arrêté fédéral s’appliquant à l’octroi de bourses à des étudiants étrangers en Suisse; dans ce cas, le Département fédéral de l’intérieur et la Commission fédérale des bourses, au sein de laquelle la DDC est représentée, sont compétents.
+
+#### Art. 7
+
+**Aide financière bilatérale**
+
+<sup>1</sup> La DDC est compétente pour l’aide financière bilatérale; elle agit d’entente avec le SECO.
+
+<sup>2</sup> Lorsque l’aide financière bilatérale revêt la forme de crédits mixtes ou de mesures similaires, le SECO est compétent; il agit d’entente avec la DDC.
+
+<sup>3</sup> La DDC et le SECO déterminent en commun, pour toutes les mesures d’aide financière bilatérale, les pays bénéficiaires, les montants qui leur sont attribués et les conditions d’exécution de ces mesures.
+
+<sup>4</sup> La DDC et le SECO mènent en commun les négociations sur des mesures d’aide financière bilatérale selon le 1<sup>er</sup> alinéa, lorsque ces négociations sont en relation avec d’autres portant sur des accords économiques, ou que l’importance économique qu’elles présentent pour la Suisse l’exige.
+
+<sup>5</sup> Le Conseil fédéral peut, dans des cas particuliers, modifier cette répartition des compétences.
+
+#### Art. 8
+
+**Aide financière multilatérale**
+
+<sup>1</sup> L’aide financière multilatérale est une tâche commune de la DDC et du SECO.
+
+<sup>2</sup> La DDC et le SECO déterminent en commun, pour toutes les mesures d’aide financière multilatérale, les institutions bénéficiaires, les montants qui leur sont attribués et les conditions d’exécution de ces mesures. Ils fixent en commun la position de la Suisse au sein des organes directeurs des institutions internationales et régionales de financement du développement.
+
+<sup>3</sup> La DDC coordonne l’ensemble de l’aide financière multilatérale, notamment la préparation des affaires du Conseil fédéral et du Parlement. Elle gère les crédits de programme.
+
+<sup>4</sup> Le Conseil fédéral détermine lequel des deux offices fédéraux assure la coordination pour chacune des institutions internationales ou régionales de financement du développement et joue envers elle le rôle d’office compétent.
+
+#### Art. 9
+
+**Mesures de politique commerciale**
+
+Le SECO est compétent pour les mesures de politique commerciale dans le domaine de la coopération internationale au développement; la DDC a le droit de se prononcer.
+
+#### Art. 10
+
+**Mesures en vue d’encourager l’engagement de ressources du secteur privé**
+
+Le SECO est compétent pour les mesures en vue d’encourager l’engagement de ressources du secteur privé dans le domaine de la coopération internationale au développement; la DDC a le droit de se prononcer.
+
+#### Art. 11
+
+**Nouvelles formes et formes conjuguées de coopération**
+
+Selon leur caractère, les nouvelles formes et les formes conjuguées de coopération sont de la compétence de la DDC ou du SECO, ou d’autres offices ou services fédéraux.
+
+## Section 3 Aide humanitaire
+
+#### Art. 12
+
+**Conception globale**[^12-1]
+
+La DDC et l’Administration fédérale des finances élaborent en commun la conception globale de la contribution suisse à l’aide humanitaire internationale. La coordination incombe à la DDC.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+
+#### Art. 13
+
+**Participation à l’élaboration de l’aide humanitaire internationale**
+
+<sup>1</sup> Le DFAE prépare la position de la Suisse lors de conférences internationales ainsi qu’au sein d’organisations et d’organismes internationaux qui s’occupent d’aide humanitaire. D’autres départements participent, s’il le faut, à ces travaux préparatoires. La coordination incombe à l’office fédéral compétent à raison de la conférence, de l’organisation ou de l’organisme.
+
+<sup>2</sup> Cet office fédéral représente la Suisse à la conférence ou au sein de l’organisation ou de l’organisme; d’autres offices et services fédéraux participent, s’il le faut, aux négociations.
+
+#### Art. 14
+
+**Mesures**
+
+<sup>1</sup> La DDC est compétente pour les mesures d’aide humanitaire.[^14-1]
+
+<sup>2</sup> La DDC dispose, pour l’aide humanitaire opérationnelle, du corps suisse pour l’aide en cas de catastrophe à l’étranger (ASC). Le délégué pour les missions de secours à l’étranger dirige le corps.[^14-2]
+
+<sup>3</sup> Les attributions conférées par l’arrêté du Conseil fédéral du 26 janvier 1972[^14-3] concernant l’exécution de l’arrangement international sur les céréales de 1971 (convention relative à l’aide alimentaire) sont réservées.
+
+<sup>4</sup> La DDC et l’Office fédéral de l’agriculture[^14-4] du DEFR exécutent les mesures selon l’arrêté fédéral s’appliquant à la livraison de produits laitiers au titre de l’aide alimentaire.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^14-3]: [[RO 1972 243](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243), [1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)art. 14. [RO 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)art. 6 al. 1]. Actuellement «par l’O du 21 déc. 1988 concernant l’application de la convention de 1986 relative à l’aide alimentaire de l’accord international sur le blé» ([RS 916.111.311.2](https://fedlex.data.admin.ch/eli/cc/1989/72_72_72)).
+[^14-4]: Nouvelle dénomination selon l’art. 1<sup>er</sup> de l’ACF du 23 avril 1980 concernant l’adaptation des dispositions du droit fédéral aux nouvelles dénominations des départements et des offices (non publié). Il a été tenu compte de cette mod. dans tout le texte.
+
+## Section 4 Compétence financière, contrôle de l’emploi des moyens financiers
+
+#### Art. 15
+
+**Compétence financière dans le domaine de la coopération au développement**
+
+<sup>1</sup> Le Conseil fédéral décide des mesures dont le coût prévisible dépasse 20 millions de francs.[^15-1]
+
+<sup>2</sup> La compétence financière des départements et des offices fédéraux est établie à l’annexe 1.
+
+[^15-1]: Nouvelle teneur selon le ch. I 13 de l’O du 26 juin 1996 sur l’attribution de nouvelles compétences de décision dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
+
+#### Art. 16
+
+**Compétence financière dans le domaine de l’aide humanitaire**
+
+<sup>1</sup> Le Conseil fédéral décide des mesures dont le coût prévisible dépasse 20 millions de francs.[^16-1]
+
+<sup>2</sup> La compétence financière des départements et de la DDC est établie à l’annexe 2.[^16-2]
+
+[^16-1]: Nouvelle teneur selon le ch. I 13 de l’O du 26 juin 1996 sur l’attribution de nouvelles compétences de décision dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+
+#### Art. 17
+
+**Dépassement de crédit**[^17-1]
+
+Lorsque le coût de l’exécution de mesures décidées ne dépasse pas de plus d’un quart le crédit ouvert, les dépenses supplémentaires peuvent être décidées par les départements ou les offices fédéraux compétents dans les limites de leur compétence financière.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+
+#### Art. 18
+
+**Modifications**[^18-1]
+
+Les offices fédéraux compétents peuvent, s’il le faut, modifier une mesure, lorsqu’il n’en résulte pas un dépassement des coûts prévus.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+
+#### Art. 19
+
+**Forme des décisions**
+
+Les mesures, les dépassements de coût et les modifications font l’objet de décisions écrites dûment motivées.
+
+#### Art. 20
+
+**Contrôle de l’emploi des moyens financiers**
+
+<sup>1</sup> Les offices fédéraux compétents contrôlent l’utilisation des moyens financiers qu’ils mettent à la disposition de partenaires ou d’intermédiaires.
+
+<sup>2</sup> S’il le faut, ces offices fédéraux arrêtent, avec la collaboration du Contrôle fédéral des finances, des prescriptions spéciales touchant la justification de l’emploi des moyens financiers.
+
+## Section 5 Mise en œuvre
+
+#### Art. 21
+
+**Conclusion d’accords**[^21-1]
+
+<sup>1</sup> Lorsque la nature des mesures le permet, leur exécution requiert la conclusion d’accords avec les partenaires ou les intermédiaires.
+
+<sup>2</sup> Les offices fédéraux compétents peuvent conclure des accords internationaux de portée mineure et des accords de droit privé ou public, sous réserve de l’ouverture des crédits nécessaires. Les accords internationaux qui ne sont pas de portée mineure peuvent être conclus par le département compétent s’ils portent sur des projets ou des programmes spécifiques, sous réserve de l’ouverture des crédits nécessaires.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2015, en vigueur depuis le 15 juin 2015 ([RO 2015 1683](https://fedlex.data.admin.ch/eli/oc/2015/333)).
+
+#### Art. 22
+
+**Personnel**
+
+Pour l’exécution de mesures de coopération au développement et d’aide humanitaire, les services fédéraux compétents peuvent engager des collaborateurs qualifiés en concluant des contrats de droit privé. Ceux-ci reçoivent, en vue de leur affectation, une formation personnelle, le cas échéant professionnelle.
+
+#### Art. 23
+
+**Acquisition de matériel**
+
+L’ordonnance du 8 décembre 1975[^23-1] sur les achats s’applique à l’acquisition de matériel. Il y a lieu de prendre en considération les conditions existant dans le pays partenaire et les effets généraux des achats sur le développement.
+
+[^23-1]: [[RO 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373), [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/_504_), [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206), [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)art.71 let. b]. Voir actuellement l’O du 11 déc. 1995 sur les marchés publics ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+
+## Section 6 Organes particuliers
+
+#### Art. 24
+
+**Comité interdépartemental pour le développement et la coopération internationaux (CIDCI)[^24-1]**
+
+<sup>1</sup> Le Comité interdépartemental pour le développement et la coopération internationaux (CIDCI) se compose de représentants de la DDC, du SECO et de l’Administration fédérale des finances. Des représentants d’autres services fédéraux, notamment de la Direction politique du DFAE, de l’Office fédéral de la culture et de l’Office fédéral de la santé publique du Département fédéral de l’intérieur, du Secrétariat d’État à la formation, à la recherche et à l’innovation[^24-2] et de l’Office fédéral de l’agriculture du DEFR, de l’Office fédéral de l’environnement des forêts et du paysage du Département fédéral de l’environnement, des transports, de l’énergie et de la communication et du Secrétariat général du Département fédéral de justice et police peuvent participer aux réunions du CIDCI quand des sujets touchant leur compétence sont abordés.[^24-3]
+
+<sup>2</sup>
+
+Il incombe en particulier au CIDCI:
+
+- a. de préparer des décisions du Conseil fédéral concernant la conception de la contribution suisse à la coopération internationale au développement;
+- b. de préparer des décisions du Conseil fédéral concernant des mesures et des aspects particuliers de la coopération internationale au développement, qui revêtent une grande importance;
+- c. de prendre, en cas de doute, des décisions relatives à l’exécution de la présente ordonnance; les questions importantes sont soumises au Conseil fédéral;
+- d. de délibérer du plan financier concernant «l’aide publique au développement» de la Suisse.
+
+<sup>3</sup> La DDC assume la présidence, coordonne les travaux et assure le secrétariat. Chacun des services représentés au sein du CIDCI peut demander la convocation d’une séance.
+
+[^24-1]: Nouvelle dénomination selon le ch. I de l’O du 28 janv. 1998, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 873](https://fedlex.data.admin.ch/eli/oc/1998/873_873_873)). Il a été tenu compte de cette mod. dans tout le présent texte.
+[^24-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 1998, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1998 873](https://fedlex.data.admin.ch/eli/oc/1998/873_873_873)).
+
+#### Art. 25
+
+**Commission consultative pour le développement et la coopération internationaux[^25-1]**
+
+<sup>1</sup> La Commission consultative de la coopération internationale (Commission consultative) se compose de 15 membres au maximum. Ses membres ne peuvent faire partie de l’administration fédérale.[^25-2]
+
+<sup>2</sup>
+
+La Commission consultative:
+
+- a. conseille le Conseil fédéral pour les questions de coopération internationale, au développement, d’aide humanitaire et de coopération avec les États d’Europe orientale;
+- b. examine notamment les buts, les priorités et la conception globale des mesures de la coopération;
+- c. peut soumettre ses propres propositions.[^25-3]
+
+<sup>3</sup> Les séances communes avec la Commission consultative de politique commercial sont dirigées par les présidents des deux commissions. Les séances sont convoquées, selon les besoins, sur l’initiative des deux présidents ou à la demande de l’une des deux commissions.
+
+<sup>4</sup> La DDC assure le secrétariat de la Commission consultative et des séances communes.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 1998, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1998 873](https://fedlex.data.admin.ch/eli/oc/1998/873_873_873)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4723](https://fedlex.data.admin.ch/eli/oc/2019/766)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 1998, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 873](https://fedlex.data.admin.ch/eli/oc/1998/873_873_873)).
+
+#### Art. 26
+
+[^26-1]
+
+[^26-1]: Abrogé par le ch. II 14 de l’O du 12 sept. 2007 (Réorganisation des commissions extraparlementaires), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)).
+
+## Section 7 Tâches particulières
+
+#### Art. 27
+
+**Information et relations en Suisse**
+
+<sup>1</sup> Les offices fédéraux compétents informent l’opinion publique sur la coopération au développement et l’aide humanitaire internationales en général et sur la contribution suisse.[^27-1]
+
+<sup>2</sup> Ils entretiennent des relations avec les cantons, les communes, les universités ainsi qu’avec les organisations suisses et les milieux privés, dans la mesure où ces rapports servent à promouvoir la coopération au développement et l’aide humanitaire.
+
+<sup>3</sup> La DDC coordonne l’établissement et la publication des statistiques sur «l’aide publique au développement» de la Suisse.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+
+#### Art. 28
+
+**Conférence de la coopération au développement**
+
+<sup>1</sup> La DDC et le SECO organisent chaque année une conférence de la coopération au développement. Ils invitent à y participer des personnes appartenant aux milieux qui s’intéressent à la coopération internationale au développement.
+
+<sup>2</sup> La conférence permet l’échange de vues et d’expériences relatives à des problèmes actuels ayant trait à la coopération au développement; elle doit promouvoir la compréhension du public pour la politique de développement.
+
+<sup>3</sup> Des institutions et des personnes extérieures à l’administration fédérale peuvent être associées à la préparation et à la réalisation de la conférence.
+
+#### Art. 29
+
+**Recherche et enseignement**
+
+<sup>1</sup> La DDC encourage la recherche scientifique et soutient la formation universitaire et, plus généralement, l’enseignement dans les domaines de la coopération au développement et de l’aide humanitaire. Le SECO a le droit de se prononcer lorsqu’il s’agit de coopération au développement.
+
+<sup>2</sup> Le SECO peut confier des mandats de recherche dans le cadre de sa compétence.
+
+## Section 8 ...
+
+#### Art. 30
+
+[^30-1]
+
+[^30-1]: Abrogé par le ch. II 111 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+## Section 8*a***** Société appuyant la Confédération dans la coopération économique avec les pays en développement et les pays en transition
+
+[^sec8a-1]
+
+[^sec8a-1]: Introduite par le ch. I de l’O du 5 mars 2010, en vigueur depuis le 1<sup>er</sup> avril 2010 ([RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)).
+
+#### Art. 30a
+
+**But et tâches**
+
+<sup>1</sup> La Confédération crée une société anonyme de droit privé dans le but d’encourager l’engagement de ressources du secteur privé, notamment les investissements dans les pays en développement.
+
+<sup>2</sup> Elle détient au moins deux tiers des droits de vote et du capital de la société.
+
+#### Art. 30b
+
+**Exercice des droits des actionnaires**
+
+<sup>1</sup> Le Conseil fédéral exerce ses droits d’actionnaire.
+
+<sup>2</sup> Le DEFR prépare les affaires relevant de la politique de propriétaire et les coordonne avec les services spécialisés de la Confédération.
+
+#### Art. 30c
+
+**Objectifs stratégiques**
+
+<sup>1</sup> Le Conseil fédéral définit les objectifs stratégiques tous les quatre ans. Il s’appuie, pour ce faire, sur les principes reconnus en matière de coopération au développement et sur les principes de subsidiarité et de durabilité.
+
+<sup>2</sup> Le conseil d’administration de la société remet chaque année au Conseil fédéral un rapport sur la réalisation des objectifs et met à sa disposition les informations nécessaires pour vérifier la réalisation des objectifs.[^30c-1]
+
+[^30c-1]: Voir aussi les disp. trans. mod. du 5 mars 2010 à la fin du texte.
+
+#### Art. 30d
+
+**Financement**
+
+La société se finance par ses propres activités.
+
+## Section 9 Dispositions finales
+
+#### Art. 31
+
+**Abrogation du droit en vigueur**
+
+La présente ordonnance abroge en particulier l’ordonnance du 13 septembre 1972[^31-1] concernant la coopération technique avec les pays en voie de développement.
+
+[^31-1]: [[RO 1972 2480](https://fedlex.data.admin.ch/eli/oc/1972/2427_2480_2257)]
+
+#### Art. 32
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1978.
+
+### Dispositions transitoires de la modification du 5 mars 2010****
+
+[^sec9-lvlu3-1]
+
+[^sec9-lvlu3-1]: [RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)
+
+<sup>1</sup> Le DEFR:
+
+- a. prépare les bases contractuelles requises pour la participation de la Confédération à la société et soumet sa proposition au Conseil fédéral; il veille à ce que les obligations de la société (art. 30*c*, al. 2) soient fixées par contrat;
+- b. prépare le transfert du portefeuille du SECO à la société et soumet sa proposition au Conseil fédéral;
+- c. soumet au Conseil fédéral les autres affaires relevant de la politique de propriétaire (choix et mandats des représentants de la Confédération au sein du conseil d’administration, et de l’organe de révision externe);
+- d. prend toutes les autres dispositions nécessaires à la mise en œuvre des let. a et b.
+
+<sup>2</sup> L’opération visée à la let. b requiert la consultation de l’Administration fédérale des finances.
+
+Annexe 1*[^t-1]*
+
+## (art. 15)
+
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> avril 2012 ([RO 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155))
+
+## Compétence financière dans le domaine de la coopération au développement
+
+<table>
+<tr><td>Montant des engagements</td><td>Compétence financière pour des mesures de coopération technique (Art. 6)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles la DDC est compétente (Art. 7, al. 1)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles le SECO est compétent (Art. 7, al. 2)</td><td>Compétence financière pour des mesures d’aide financière multilatérale, pour lesquelles la DDC assure la coordination (Art. 8, al. 4)</td><td>Compétence financière pour des mesures d’aide financière multilatérale, pour lesquelles le SECO assure la coordination (Art. 8, al. 4)</td><td>Compétence financière pour des mesures de politique commerciale et des mesures en vue d’encourager l’engagement de ressources du secteur privé (Art. 9 et 10)</td></tr>
+<tr><td>plus de 20 millions de francs</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td></tr>
+<tr><td>plus de 10 millions à 20 millions de francs</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral des finances</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral de l’économie, de la formation et de la recherche et du Département fédéral des finances</td><td>Département fédéral de l’économie,de la formation et de la recherche, avec l’accord du Département fédéral des affaires étrangères et du Département fédéral des finances</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral de l’économie, de la formation et de la recherche et du Département fédéral des finances</td><td>Département fédéral de l’économie,de la formation et de la recherche, avec l’accord du Département fédéral des affaires étrangères et du Département fédéral des finances</td><td>Département fédéral de l’économie, de la formation et de la recherche, avec l’accord du Département fédéral des finances</td></tr>
+<tr><td>jusqu’à 10 millions de francs</td><td>DDC</td><td>DDC</td><td>SECO</td><td>DDC, avec l’accord du SECO</td><td>SECO, avec l’accord de la DDC</td><td>SECO</td></tr>
+</table>
+
+Annexe 2*[^t-2]*
+
+(art. 16)
+
+## Compétence financière dans le domaine de l’aide humanitaire
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> avril 2012 ([RO 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155))
+
+<table>
+<tr><td>Montant des engagements</td><td>Compétence financière pour des mesures d’aide humanitaire (y compris les mesures d’aide en cas de catastrophe à l’étranger)</td></tr>
+<tr><td>plus de 20 millions de francs</td><td>Conseil fédéral</td></tr>
+<tr><td>plus de 10 millions à 20 millions de francs</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral des finances</td></tr>
+<tr><td>jusqu’à 10 millions de francs</td><td>DDC</td></tr>
+</table>

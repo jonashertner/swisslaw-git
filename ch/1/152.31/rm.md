@@ -1,0 +1,416 @@
+---
+sr: "152.31"
+title: "Ordinaziun dals 24 da matg 2006 davart il princip da la transparenza da l'administraziun (Ordinaziun da transparenza, OTrans)"
+short: OTrans
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
+language: rm
+version: 2014-09-01
+adopted: 2006-05-24
+in_force: 2006-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20140901/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20140901-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/rm"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Ordinaziun davart il princip da la transparenza da l’administraziun
+
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+
+(Ordinaziun da transparenza, OTrans)
+
+dals 24 da matg 2006 (versiun dal 1. da settember 2014)
+
+Il Cussegl federal svizzer,
+
+sa basond sin ils artitgels 2 alinea 3, 10 alineas 2 e 4, 17 alinea 3 e 21 da la Lescha federala dals 17 da december 2004[^ingress-1] davart il princip da la transparenza da l’administraziun (Lescha da transparenza, LTrans),
+
+ordinescha:
+
+[^ingress-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+## 1. secziun Noziuns
+
+### (art. 5 al. 3 LTrans)
+
+#### Art. 1
+
+- [tab] <sup>1</sup> In document duvrà per intents commerzials è mintga infurmaziun che vegn furnida d’ina autoritad cunter pajament, inclusiv las infurmaziuns che servan directamain a l’elavuraziun d’in product.
+
+<sup>2</sup>
+
+In document è considerà sco terminà, cur che:
+
+- a. el è vegnì suttascrit da l’autoritad che l’ha fatg; u
+- b. el è vegnì surdà definitivamain a l’adressat tras la persuna che l’ha fatg, particularmain per prender enconuschientscha u posiziun ubain sco basa da decisiun.
+- [tab] <sup>3</sup> In document destinà al diever persunal è mintga infurmaziun che serva ad intents da servetsch, duvrada exclusivamain da ses autur u d’in circul restrenschì da persunas sco med auxiliar, sco notizias u sco copias da lavur da documents.
+
+## 2. secziun Dretg d’access als documents uffizials
+
+#### Art. 2
+
+**Princip da l’egualitad d’access per mintga persuna**
+
+### (art. 6 al. 1 LTrans)
+
+Sche l’access ad in document uffizial vegn concedì ad ina persuna, sto el er vegnir concedì en la medema dimensiun a mintga ulteriur petent.
+
+#### Art. 3
+
+**Assistenza al petent**
+
+### (art. 6 al. 1 e 3 LTrans)
+
+<sup>1</sup> L’autoritad infurmescha il petent davart ils documents uffizials disponibels e l’assista en ses intent, particularmain sch’i sa tracta d’in petent cun impediments.
+
+<sup>2</sup> Sch’ils documents uffizials èn disponibels en l’internet u sch’els èn publitgads en in organ da la Confederaziun, po l’autoritad sa restrenscher a communitgar al petent las referenzas necessarias per als chattar.
+
+<sup>3</sup> L’autoritad n’è betg obligada da translatar ils documents uffizials che pon vegnir consultads tenor la Lescha da transparenza.
+
+#### Art. 4
+
+**Consultaziun al lieu**
+
+### (art. 6 al. 2 LTrans)
+
+<sup>1</sup> La consultaziun ha lieu tar l’autoritad ch’è cumpetenta per elavurar la dumonda d’access als documents uffizials respectivs.
+
+<sup>2</sup> L’autoritad po sa restrenscher a conceder al petent la consultaziun d’ina copia dal document uffizial.
+
+<sup>3</sup> L’identitad dal petent po vegnir verifitgada a sia entrada en ils edifizis da l’autoritad, applitgond il dretg da domicil da la Confederaziun tenor l’artitgel 62*f* da la Lescha federala dals 21 da mars 1997[^4-1] davart l’organisaziun da la Regenza e da l’administraziun.
+
+[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 5
+
+**Consegna d’ina copia**
+
+### (art. 6 al. 2 LTrans)
+
+<sup>1</sup> Sin dumonda dal petent al consegna l’autoritad ina copia d’in document uffizial, a cundiziun ch’il document na vegnia betg donnegià cun al fotocopiar.
+
+<sup>2</sup> Sch’il document è protegì dal dretg d’autur, sto l’autoritad render attent il petent a las restricziuns d’utilisaziun respectivas.
+
+#### Art. 6
+
+**Ponderaziun dals interess tranter la protecziun da la sfera privata da terzas persunas e l’interess public a l’access**
+
+### (art. 7 al. 2 LTrans)
+
+<sup>1</sup> Sche interess publics areguard la transparenza s’opponan al dretg da protecziun da la sfera privata d’ina terza persuna cun valitar ina dumonda d’access, po l’autoritad cumpetenta excepziunalmain conceder l’access suenter avair ponderà ils interess.
+
+<sup>2</sup>
+
+L’interess public a la transparenza po predominar particularmain, sche:
+
+- a. la publicaziun serva ad in basegn particular d’infurmaziun da vart da la publicitad, en spezial pervia d’eveniments impurtants;
+- b. la publicaziun serva a proteger interess publics specifics, en spezial l’urden public e la segirezza u la sanadad publica; u
+- c. la persuna, da la quala la sfera privata pudess vegnir donnegiada tras la publicaziun, ha ina relaziun da dretg u da fatg cun in’autoritad ch’è suttamessa a la Lescha da transparenza e da la quala ella obtegna avantatgs impurtants.
+
+## 3. secziun Dumonda d’access als documents uffizials e cumpetenzas
+
+#### Art. 7
+
+**Cuntegn da la dumonda**
+
+### (art. 10 LTrans)
+
+<sup>1</sup> La dumonda d’access als documents uffizials n’è betg suttamessa a pretensiuns formalas e na sto betg vegnir motivada.
+
+<sup>2</sup>
+
+La dumonda sto cuntegnair indicaziuns suffizientas che permettan a l’autoritad d’identifitgar il document uffizial pretendì. Sch’i po vegnir pretendì, sto il petent inditgar particularmain:
+
+- a. las datas generalmain accessiblas, che permettan d’identifitgar cleramain in document, sco la data da cumpilaziun, il titel, la referenza;
+- b. ina perioda precisa;
+- c. l’autoritad che ha fatg il document; u
+- d. il sectur spezialisà respectiv.
+
+<sup>3</sup> L’autoritad po envidar il petent da precisar sia dumonda.
+
+<sup>4</sup> Sch’il petent na fa betg entaifer 10 dis las indicaziuns ch’èn necessarias per identifitgar il document, vegn sia dumonda considerada sco retratga. L’autoritad renviescha il petent a quest fatg.
+
+#### Art. 8
+
+**Dumondas d’access als documents uffizials da las represchentanzas svizras a l’exteriur**
+
+### (art. 10 al. 2 LTrans)
+
+<sup>1</sup> Las represchentanzas svizras a l’exteriur e las missiuns svizras tar las Communitads europeicas e tar las organisaziuns internaziunalas transmettan las dumondas d’access che sa refereschan a documents uffizials ch’ellas han fatg u ch’ellas han retschavì sco adressatas principalas al Departament federal d’affars exteriurs (Departament) per realisar l’ulteriura procedura d’access.
+
+<sup>2</sup> Il Departament regla las cumpetenzas, ils termins dal tractament e las modalitads da la consultaziun.
+
+#### Art. 9
+
+**Basegns spezials dals meds da massa**
+
+### (art. 10 al. 4 lit. a LTrans)
+
+Cun tractar las dumondas che vegnan fatgas dals collavuraturs dals meds da massa resguarda l’autoritad, sche pussaivel, l’urgenza temporala da l’infurmaziun.
+
+#### Art. 10
+
+**Dumondas che dovran spezialmain blera lavur per vegnir tractadas**
+
+### (art. 10 al. 4 lit. c LTrans)
+
+<sup>1</sup> Ina dumonda dovra spezialmain blera lavur per vegnir tractada, sche l’autoritad n’è betg abla da la tractar cun las resursas, da las qualas ella dispona senza cumprometter considerablamain l’adempliment d’autras incumbensas.
+
+<sup>2</sup> Las dumondas che dovran spezialmain blera lavur per vegnir tractadas vegnan tractadas durant in termin adequat.
+
+#### Art. 11
+
+**Autoritad responsabla per prender posiziun**
+
+### (art. 12 LTrans)
+
+<sup>1</sup> Sch’in document è vegnì elavurà cuminaivlamain da pliras autoritads, vegn la posiziun relaschada da l’autoritad responsabla.
+
+<sup>2</sup> Sche la dumonda d’access resguarda plirs documents che concernan la medema fatschenta e ch’èn vegnids fatgs u retschavids da diversas autoritads suttamessas a la Lescha da transparenza, vegn la posiziun relaschada da l’autoritad responsabla.
+
+<sup>3</sup> Sche la responsabladad n’è betg vegnida designada ad in’autoritad, fixeschan las autoritads participadas tranter ellas l’autoritad ch’è responsabla per prender posiziun. Quella prenda posiziun en enclegientscha cun las ulteriuras autoritads participadas.
+
+<sup>4</sup> Sch’in document è vegnì elavurà sin dumonda d’ina autra autoritad, sto quella consultar l’autoritad petenta avant che prender posiziun.
+
+<sup>5</sup> Sche la dumonda d’access concerna documents uffizials classifitgads, sa drizzan la cumpetenza e la procedura tenor las directivas davart la protecziun da las infurmaziuns e davart la classificaziun. Il post cumpetent examinescha, sch’il document uffizial po vegnir declassifitgà.
+
+## 4. secziun Mediaziun e recumandaziun
+
+#### Art. 12
+
+**Mediaziun**
+
+### (art. 13 LTrans)
+
+<sup>1</sup> L’incumbensà federal per la protecziun da datas e per la transparenza (l’incumbensà) sclerescha, sche l’autoritad ha agì legalmain ed adequatamain cun tractar la dumonda d’access.
+
+<sup>2</sup> L’incumbensà taidla las persunas participadas a la procedura da mediaziun ed emprova da cuntanscher in cumpromiss. Sche necessari suttametta el propostas. La procedura po vegnir fatga a bucca u en scrit.
+
+<sup>3</sup> L’incumbensà constatescha il resultat da la procedura da mediaziun ed al communitgescha en scrit a las persunas participadas.
+
+#### Art. 12a
+
+**Dumondas da mediaziun, da las qualas il tractament chaschuna spezialmain blera lavur**[^12a-1]
+
+### (art. 10 al. 4 lit. c, 13 e 14 LTrans)
+
+<sup>1</sup>
+
+Ina dumonda da mediaziun, che chaschuna spezialmain blera lavur cun la tractar tras l’incumbensà, cunzunt sch’ella:
+
+- a. reguarda documents spezialmain numerus u spezialmain cumplexs;
+- b. tschenta dumondas giuridicas, tecnicas u politicas spezialmain difficilas.
+
+<sup>2</sup> Sch’ina dumonda da mediaziun che chaschuna spezialmain blera lavur cun la tractar tras l’incumbensà, po quel prolungar adequatamain il termin per terminar la procedura da mediaziun u per relaschar ina recumandaziun.
+
+[^12a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+
+#### Art. 12b
+
+**Obligaziun da collavurar a la procedura da mediaziun**[^12b-1]
+
+### (art. 13 e 20 LTrans)
+
+<sup>1</sup>
+
+Uschespert ch’ina dumonda da mediaziun è vegnida inoltrada, infurmescha l’incumbensà l’autoritad e la dat in termin per:
+
+- a. cumplettar, sche necessari, la motivaziun da sia posiziun;
+- b. al trametter ils documents necessaris;
+- c. al communitgar il num da la persuna che la represchenta en la procedura da mediaziun.
+
+<sup>2</sup>
+
+Las partidas èn obligadas:
+
+- a. da gidar ad observar il termin, entaifer il qual la procedura da mediaziun sto avair lieu;
+- b. da cooperar per tschertgar ina cunvegna;
+- c. da sa participar a la mediaziun; l’autoritad sa participescha a la mediaziun tras la persuna ch’ella ha autorisà da la represchentar.
+
+<sup>3</sup> Sch’il petent na sa participescha betg a la mediaziun, vegn la dumonda da mediaziun considerada sco retratga e liquidada.
+
+<sup>4</sup> Sche las partidas refuseschan da gidar a tschertgar ina cunvegna u sch’ellas retardeschan abusivamain la procedura da mediaziun, po l’incumbensà constatar che la mediaziun n’ha betg gì success.
+
+[^12b-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+
+#### Art. 13
+
+**Recumandaziun**
+
+### (art. 14 LTrans)
+
+<sup>1</sup> En la recumandaziun menziunescha l’incumbensà particularmain il dretg da las persunas participadas a la procedura da mediaziun da pretender che l’autoritad cumpetenta relaschia ina disposiziun tenor l’artitgel 15 LTrans e las communitgescha tge termin che las stat a disposiziun.
+
+<sup>2</sup> La recumandaziun na dastga betg cuntegnair infurmaziuns che pudessan donnegiar in dals interess protegids tenor l’artitgel 7 alinea 1 LTrans.
+
+<sup>3</sup> L’incumbensà publitgescha las recumandaziuns e prenda las mesiras adequatas per garantir la protecziun da las datas da persunas da las persunas participadas a la procedura da mediaziun.
+
+<sup>4</sup> Sche la protecziun da las datas da persunas n’è betg pussaivla, renunzia l’incumbensà da publitgar la recumandaziun.
+
+#### Art. 13a
+
+**Infurmaziun da l’incumbensà tras l’autoritad**[^13a-1]
+
+### (art. 15 e 16 LTrans)
+
+Las unitads administrativas da l’Administraziun federala centrala transmettan a l’incumbensà ina copia da lur disposiziun ed eventualas decisiuns da las instanzas da recurs.
+
+[^13a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+
+## 5. secziun Taxas
+
+#### Art. 14
+
+**Princip**
+
+I vegnan applitgadas las disposiziuns da l’Ordinaziun generala da taxas dals 8 da settember 2004[^14-1] cun resalva da las regulaziuns spezialas da l’ordinaziun qua avant maun.
+
+[^14-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 15
+
+**Relasch u reducziun da las taxas**
+
+### (art. 17 al. 2 e 3 LTrans)
+
+<sup>1</sup> L’autoritad renunzia d’incassar taxas, sch’ils custs per incassar las taxas surpassan l’import da las taxas sco talas. Taxas da main che 100 francs na vegnan betg facturadas.
+
+<sup>2</sup> Ils custs che resultan exclusivamain dals basegns spezials da las persunas cun impediments na vegnan betg resguardads per fixar las taxas.
+
+<sup>3</sup> L’autoritad po renunziar d’incassar taxas u po reducir las taxas, sch’ella refusa l’access u al conceda mo parzialmain.
+
+<sup>4</sup> Sche l’autoritad incassescha ina taxa per ina dumonda d’access fatga da collavuraturs dals meds da massa, reducescha ella questa taxa per almain 50 pertschient. Ella po desister da la reducziun, sche la dumonda d’access dovra spezialmain blera lavur per vegnir tractada.[^15-1]
+
+[^15-1]: Integrà tras la cifra I da l’O dals 25 da zercl. 2014, en vigur dapi il 1. da sett. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+
+#### Art. 16
+
+**Tariffa da taxas ed infurmaziun davart ils custs previs**
+
+### (art. 17 al. 3 LTrans)
+
+<sup>1</sup> La tariffa da taxas è fixada en l’agiunta 1.
+
+<sup>2</sup> Sch’ils custs previs surpassan 100 francs, infurmescha l’autoritad il petent davart l’import previs da la taxa. Sch’il petent na conferma betg entaifer 10 dis la dumonda d’access, vegn quella considerada sco retratga. L’autoritad renviescha il petent a quest fatg.
+
+## 6. secziun Gestiun e publicaziun dals documents uffizials sco er infurmaziuns davart ils documents uffizials
+
+#### Art. 17
+
+**Gestiun dals documents uffizials**
+
+### (art. 21 lit. a LTrans)
+
+La gestiun dals documents uffizials, particularmain lur registraziun, sa drizza tenor l’artitgel 22 da l’ordinaziun dals 25 da november 1998[^17-1] davart l’organisaziun da la Regenza e da l’administraziun sco er tenor las disposiziuns ch’il Departament cumpetent ha relaschà applitgond la legislaziun davart l’archivaziun.
+
+[^17-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 18
+
+**Infurmaziun davart ils documents uffizials**
+
+### (art. 21 lit. b LTrans)
+
+Resalvà disposiziuns legalas cuntrarias, infurmeschan las autoritads davart ils documents uffizials sco suonda:
+
+- a. ellas publitgeschan en l’internet las infurmaziuns davart ils champs d’incumbensa e davart las fatschentas impurtantas che pertutgan lur sfera da cumpetenza;
+- b. ellas mettan a disposiziun ulteriuras infurmaziuns adattadas che pon facilitar la tschertga da documents, sche quai na chaschuna betg custs sproporziunads.
+
+#### Art. 19
+
+**Publicaziun dals documents uffizials**
+
+### (art. 21 lit. c LTrans)
+
+L’autoritad cumpetenta publitgescha uschè svelt sco pussaivel ils documents uffizials impurtants, sche:
+
+- a. quai na chaschuna betg custs sproporziunads; e
+- b. la publicaziun en l’internet na s’oppona betg a disposiziuns legalas.
+
+## 7. secziun Cussegliader per la transparenza
+
+#### Art. 20
+
+La Chanzlia federala ed ils Departaments designeschan almain in Cussegliader per la transparenza. Il Cussegliader ha las suandantas incumbensas:
+
+- a. cussegliar las unitads administrativas e las persunas u las organisaziuns ordaifer l’administraziun federala ch’èn suttamessas a la Lescha da transparenza;
+- b. promover l’infurmaziun e la scolaziun dals collavuraturs;
+- c. collavurar per applitgar la Lescha da transparenza da l’administraziun.
+
+## 8. secziun Evaluaziun
+
+### (art. 19 LTrans)
+
+#### Art. 21
+
+Mintga autoritad communitgescha annualmain a l’incumbensà:
+
+- a. il dumber da las dumondas d’access inoltradas durant l’onn;
+- b. il dumber da las dumondas d’access acceptadas e refusadas dal tuttafatg u parzialmain;
+- c. l’import total da las taxas che vegnan incassadas tenor la Lescha da transparenza.
+
+## 9. secziun Disposiziuns finalas
+
+#### Art. 22
+
+**Midada dal dretg vertent**
+
+La midada dal dretg vertent vegn reglada en l’agiunta 2.
+
+#### Art. 22a
+
+**Disposiziun transitorica tar la midada dals 20 d’avrigl 2011**[^22a-1]
+
+Per dumondas da mediaziun ch’èn vegnidas inoltradas avant l’entrada en vigur da la midada dals 20 d’avrigl 2011 vala il dretg vertent.
+
+[^22a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+
+#### Art. 23
+
+**Entrada en vigur**
+
+Questa ordinaziun entra en vigur il 1. da fanadur 2006.
+
+Agiunta 1
+
+(art. 16)
+
+## Tariffa da taxas en francs
+
+### 1. Reproducziuns
+
+<table>
+<tr><td></td><td>francs</td></tr>
+<tr><td>Fotocopia en il format A4 u A3</td><td></td></tr>
+<tr><td>– d’in fegl singul normal fin A3, per pagina</td><td>–.20</td></tr>
+<tr><td>– da formats spezials, da fegls liads u da nauscha qualitad, per pagina</td><td>2.–</td></tr>
+<tr><td>Copia electronica (sch’ils documents n’èn betg gia avant maun en furma electronica) transmessa online</td><td></td></tr>
+<tr><td>– d’in fegl singul fin A3, per pagina</td><td>–.20</td></tr>
+<tr><td>– da formats spezials, da fegls liads u da nauscha qualitad, per pagina</td><td>2.–</td></tr>
+<tr><td>Copia electronica arcunada sin in purtader da datas legibel d’ina maschina, ultra dal pretsch per pagina</td><td></td></tr>
+<tr><td>– per disketta</td><td>5.–</td></tr>
+<tr><td>– per CD-ROM u DVD</td><td>35.–</td></tr>
+<tr><td>Bindel u video registrà da l’autoritad</td><td></td></tr>
+<tr><td>– per cassetta</td><td>35.–</td></tr>
+<tr><td>Reproducziuns da fotografias, films da 16 u da 35 mm copiads sin video sco er ulteriuras copias che ston vegnir fatgas da firmas partenarias externas</td><td>tenor offerta</td></tr>
+</table>
+
+### 2. Examinaziun e preparaziun dals documents uffizials per conceder l’access
+
+<table>
+<tr><td></td><td>francs</td></tr>
+<tr><td>Temp da lavur per l’examinaziun e per la preparaziun dals documents uffizials</td><td></td></tr>
+<tr><td>– per ura</td><td>100.–</td></tr>
+</table>
+
+Agiunta 2
+
+(art. 22)
+
+## Midada dal dretg vertent
+
+Las ordinaziuns qua sutvart vegnan midadas sco suonda:
+
+…[^annex2-lvlu1-1]
+
+[^annex2-lvlu1-1]: Las midadas pon vegnir consultadas sut [AS 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356).

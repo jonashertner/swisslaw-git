@@ -1,0 +1,367 @@
+---
+sr: "930.111"
+title: Verordnung vom 19. Mai 2010 über die Produktesicherheit (PrSV)
+short: PrSV
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
+language: de
+version: 2018-04-21
+adopted: 2010-05-19
+in_force: 2010-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20180421/de/xml/fedlex-data-admin-ch-eli-cc-2010-348-20180421-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Produktesicherheit
+
+(PrSV)
+
+vom 19. Mai 2010 (Stand am 21. April 2018)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf den Artikel 4 Absatz 1, die Artikel 7, 9 und 14 Absatz 1 des Bundesgesetzes vom 12. Juni 2009[^ingress-1] über die Produktesicherheit (PrSG), in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-2] über die technischen Handelshemmnisse (THG),
+
+verordnet:
+
+[^ingress-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## 1. Abschnitt: Gegenstand
+
+#### Art. 1
+
+Diese Verordnung enthält:
+
+- a. allgemeine Vorschriften über den Vollzug des PrSG;
+- b. Vorschriften über das Inverkehrbringen, die für Produkte subsidiär gelten, soweit nicht entsprechende Vorschriften nach Artikel 4 PrSG oder nach gleichartigen Gesetzesvorschriften über die Produktesicherheit festgelegt worden sind;
+- c.[^1-1] …
+- d.
+
+  Vorschriften über die Marktüberwachung betreffend die folgenden Produkte:
+
+  - 1\. Maschinen,
+  - 2\. Aufzüge,
+  - 3\. Gasgeräte,
+  - 4\. Druckgeräte und einfache Druckbehälter,
+  - 5\. Persönliche Schutzausrüstungen,
+  - 6\. übrige Produkte, soweit diese nicht unter den Geltungsbereich anderer bundesrechtlicher Regelungen fallen.
+
+[^1-1]: Aufgehoben durch Art. 7 der Gasgeräteverordnung 25. Okt. 2017, mit Wirkung seit 21. April 2018 ([AS 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
+
+## 2. Abschnitt: Allgemeine Vorschriften über den Vollzug des PrSG
+
+#### Art. 2
+
+**Grundsatz**
+
+Soweit ein Vollzugsorgan einen anderen Bundeserlass über die Produktesicherheit vollzieht, vollzieht es in diesem Zuständigkeitsbereich auch das PrSG und seine Ausführungsbestimmungen.
+
+#### Art. 3
+
+**Koordination des Vollzugs**
+
+<sup>1</sup> Das Staatssekretariat für Wirtschaft (SECO) koordiniert in Absprache mit den Vollzugsorganen den Vollzug des PrSG. Es berücksichtigt dabei die nationalen Vorschriften und die internationalen Vereinbarungen im Bereich der Produktesicherheit und des freien Warenverkehrs.
+
+<sup>2</sup> Es kann sich an nationalen und internationalen Informations- und Vollzugssystemen beteiligen. Es kann dazu die Vollzugsorgane und andere Bundesbehörden zur Mitwirkung beiziehen.
+
+<sup>3</sup> Die Vollzugsorgane können für den nationalen und den internationalen Austausch von Daten nach Artikel 13 Absatz 1 PrSG andern Behörden Daten durch ein Abrufverfahren zugänglich machen.
+
+#### Art. 4
+
+**Melde- und Informationsstelle Produktesicherheit**
+
+<sup>1</sup> Das SECO und das Büro für Konsumentenfragen (BFK) betreiben gemeinsam eine Melde- und Informationsstelle Produktesicherheit. Sie ziehen dazu die mit dem Vollzug des PrSG betrauten Organe bei.
+
+<sup>2</sup> Die Vollzugsorgane bringen Meldungen nach Artikel 8 Absatz 5 PrSG sowie Allgemeinverfügungen nach Artikel 10 Absatz 5 PrSG der Melde- und Informationsstelle unverzüglich zur Kenntnis.
+
+#### Art. 5
+
+**Kontrolle und Verwaltungsmassnahmen**
+
+<sup>1</sup> Die zuständigen Aufsichtsorgane des Bundes erlassen nach Massgabe von Artikel 10 Absatz 5 PrSG Verwaltungsmassnahmen in Form einer Allgemeinverfügung.
+
+<sup>2</sup> Die Verfügung wird, über die Veröffentlichung nach dem Verwaltungsverfahren hinaus, nach Eintritt der Rechtskraft im Bundesblatt veröffentlicht.
+
+## 3. Abschnitt: Subsidiär geltende Vorschriften über das Inverkehrbringen
+
+#### Art. 6
+
+**Geltungsbereich**
+
+Die Vorschriften dieses Abschnitts gelten für alle Produkte, soweit nicht entsprechende Vorschriften nach Artikel 4 PrSG oder nach gleichartigen Gesetzesvorschriften über die Produktesicherheit festgelegt worden sind.
+
+#### Art. 7
+
+**Ausnahmen für Ausstellungen und Vorführungen**
+
+Produkte, welche die Voraussetzungen für das Inverkehrbringen nicht erfüllen, dürfen ausgestellt oder vorgeführt werden, wenn:
+
+- a. ein Schild deutlich darauf hinweist, dass die Erfüllung der gesetzlichen Anforderungen nicht nachgewiesen ist und die Produkte deshalb nicht in Verkehr gebracht werden dürfen; und
+- b. die erforderlichen Massnahmen getroffen sind, um die Sicherheit und die Gesundheit von Personen zu gewährleisten.
+
+#### Art. 8
+
+**Sprache der Anleitungen**
+
+<sup>1</sup> Die Betriebs-, Bedienungs- und Wartungsanleitungen sowie die Informationsbroschüren müssen in der schweizerischen Amtssprache des Landesteiles abgefasst sein, in dem das Produkt voraussichtlich verwendet wird.
+
+<sup>2</sup> Die in den genannten Anleitungen enthaltenen Warn- und Sicherheitshinweise in Textform müssen in allen schweizerischen Amtssprachen abgefasst sein. Anstelle der Textform dürfen auch Symbole verwendet werden, wenn damit eine genügende Information sichergestellt ist.
+
+<sup>3</sup> Werden die Installation und die Instandhaltung eines Produkts ausschliesslich von Fachpersonal des Herstellers oder seines in der Schweiz niedergelassenen Vertreters ausgeführt, so kann die Anleitung zu diesen Arbeiten in der Sprache abgefasst sein, die das betreffende Fachpersonal versteht. Die erforderlichen Auskünfte sind den Vollzugsorganen in einer schweizerischen Amtssprache oder in Englisch zu erteilen.
+
+#### Art. 9
+
+**Konformitätserklärung**
+
+<sup>1</sup>
+
+Die Konformitätserklärung bescheinigt, dass:
+
+- a. ein Produkt die grundlegenden Sicherheits- und Gesundheitsanforderungen erfüllt; und
+- b. die Konformitätsbewertung korrekt durchgeführt worden ist.
+
+<sup>2</sup> Die Konformitätserklärung wird vom Hersteller oder von seinem in der Schweiz niedergelassenen Vertreter ausgestellt.
+
+<sup>3</sup> Fällt das Produkt unter mehrere Regelungen, die eine Konformitätsbewertung verlangen, so kann eine einzige Konformitätserklärung ausgestellt werden.
+
+#### Art. 10
+
+**Technische Unterlagen und Konformitätserklärung**
+
+<sup>1</sup> Wer Produkte in Verkehr bringt, muss zum Nachweis der Erfüllung der Anforderungen nach den Artikeln 3–5 PrSG alle erforderlichen technischen Unterlagen sowie die Konformitätserklärung beibringen können. Diese Pflicht gilt ab dem Inverkehrbringen des Produkts während der angegebenen oder vernünftigerweise vorhersehbaren Gebrauchsdauer, jedoch mindestens während 10 Jahren ab der Herstellung. Bei Serienanfertigungen beginnt die Frist mit der Herstellung des letzten Exemplars zu laufen.
+
+<sup>2</sup> Technische Unterlagen, Konformitätserklärungen und die zu ihrer Beurteilung erforderlichen Auskünfte sind den Vollzugsorganen in einer schweizerischen Amtssprache oder in Englisch vorzulegen beziehungsweise zu erteilen.
+
+#### Art. 11
+
+**Amtssprachen**
+
+Die schweizerischen Amtssprachen im Sinne der Artikel 8–10 sind Deutsch, Französisch und Italienisch.
+
+## 4. Abschnitt: …
+
+#### Art. 12–18
+
+[^1218-1]
+
+[^1218-1]: Aufgehoben durch Art. 7 der Gasgeräteverordnung 25. Okt. 2017, mit Wirkung seit 21. April 2018 ([AS 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
+
+## 5. Abschnitt: Marktüberwachung
+
+#### Art. 19
+
+**Geltungsbereich**
+
+Die Vorschriften dieses Abschnitts gelten für:
+
+- a. Maschinen im Sinne der Maschinenverordnung vom 2. April 2008[^19-1];
+- b. Aufzüge im Sinne der Aufzugsverordnung vom 23. Juni 1999[^19-2];
+- c. Gasgeräte im Sinne der Gasgeräteverordnung vom 25. Oktober 2017[^19-3];
+- d. Druckgeräte im Sinne der Druckgeräteverordnung vom 20. November 2002[^19-4];
+- e. einfache Druckbehälter im Sinne der Druckbehälterverordnung vom 20. November 2002[^19-5];
+- f. persönliche Schutzausrüstungen (PSA) im Sinne der PSA-Verordnung vom 25. Oktober 2017[^19-6];
+- g. übrige Produkte, soweit diese nicht unter den Geltungsbereich der Vor-schriften nach den Buchstaben a–f oder anderer bundesrechtlicher Regelungen fallen.
+
+[^19-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^19-2]: [[AS 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 6, [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 2, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 7, [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)Ziff. III. [AS 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)Art. 9]. Siehe heute: die V vom 25. Nov. 2015 über die Sicherheit von Aufzügen ([SR 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
+[^19-3]: [SR 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 21. April 2018 angepasst.
+[^19-4]: [[AS 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 6. [AS 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)Art. 7 Abs. 1]. Siehe heute: die Druckgeräteverordnung vom 25. Nov. 2015 ([SR 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
+[^19-5]: [[AS 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 6. [AS 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)Art. 7]. Siehe heute: die Druckbehälterverordnung vom 25. Nov. 2015 ([SR 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
+[^19-6]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 21. April 2018 angepasst.
+
+#### Art. 20
+
+**Kontrollorgane**
+
+<sup>1</sup>
+
+Die Kontrolle über die Einhaltung der Vorschriften über das Inverkehrbringen obliegt:
+
+- a. der Schweizerischen Unfallversicherungsanstalt (Suva);
+- b. der Schweizerischen Beratungsstelle für Unfallverhütung (bfu);
+- c. den vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF)[^20-1] bezeichneten Fachorganisationen.
+
+<sup>2</sup> Das WBF regelt die Zuständigkeit der Kontrollorgane und vereinbart mit ihnen Umfang und Finanzierung der Kontrolltätigkeiten.
+
+[^20-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+
+#### Art. 21
+
+**Mitwirkung anderer Behörden und Organisationen**
+
+<sup>1</sup> Die Vollzugsorgane des Arbeitsgesetzes vom 13. März 1964[^21-1] achten im Rahmen ihrer Tätigkeit darauf, dass die Arbeitgeber Produkte einsetzen, welche die Sicherheitsvorschriften erfüllen.
+
+<sup>2</sup> Sie melden dem SECO und den Kontrollorganen jene Produkte, bei denen ein Mangel erkannt oder vermutet wird.
+
+<sup>3</sup> Das WBF kann andere Behörden und Organisationen zur Mitwirkung heranziehen und mit ihnen entsprechende Vereinbarungen abschliessen.
+
+<sup>4</sup> Die Kontrollorgane können von der Eidgenössischen Zollverwaltung für eine beschränkte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
+
+[^21-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+
+#### Art. 22
+
+**Aufgaben und Befugnisse der Kontrollorgane**
+
+<sup>1</sup> Die Kontrollorgane führen stichprobenweise Kontrollen über die Einhaltung der Sicherheitsvorschriften für Produkte durch. Sie verfolgen begründete Hinweise, wonach Produkte den Vorschriften nicht entsprechen.
+
+<sup>2</sup>
+
+Die Kontrolle nach Absatz 1 umfasst:
+
+- a.
+
+  die formelle Überprüfung, ob:
+
+  - 1\. die Konformitätserklärung, sofern erforderlich, vorliegt und den gesetzlichen Vorschriften entspricht, und
+  - 2\. die erforderlichen technischen Unterlagen vollständig sind;
+
+- b. sofern erforderlich eine Sicht- und Funktionskontrolle;
+- c. sofern erforderlich eine Nachkontrolle des beanstandeten Produktes.
+
+<sup>3</sup>
+
+Im Rahmen der Kontrolle sind die Kontrollorgane insbesondere befugt:
+
+- a. vom Inverkehrbringer die für den Nachweis der Konformität des Produktes erforderlichen Unterlagen und Informationen zu verlangen;
+- b. Muster zu erheben;
+- c. Prüfungen anzuordnen;
+- d. während der üblichen Arbeitszeit die Geschäftsräume zu betreten.
+
+<sup>4</sup>
+
+Die Kontrollorgane können eine technische Überprüfung des Produktes anordnen, wenn Zweifel bestehen, ob dieses:
+
+- a. mit den eingereichten Unterlagen übereinstimmt; oder
+- b. trotz eingereichter korrekter Unterlagen den geltenden Vorschriften entspricht.
+
+<sup>5</sup>
+
+Sie ordnen die erforderlichen Massnahmen nach Artikel 10 Absätze 3 und 4 PrSG an, wenn:
+
+- a. der Inverkehrbringer die verlangten Unterlagen nach Absatz 3 innerhalb der von den Kontrollorganen festgesetzten Frist nicht oder nicht vollständig beibringt; oder
+- b. das Produkt den Vorschriften des PrSG und dieser Verordnung nicht entspricht.
+
+<sup>6</sup> Vor der Anordnung der Massnahmen geben sie dem Inverkehrbringer Gelegenheit zur Stellungnahme.
+
+#### Art. 23
+
+**Verfahren der Kontrollorgane**
+
+Das Bundesgesetz vom 20. Dezember 1968[^23-1] über das Verwaltungsverfahren ist auch für Kontrollorgane, die nicht dem öffentlichen Recht unterstehen, anwendbar.
+
+[^23-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 24
+
+**Koordination und Information der Kontrollorgane**
+
+<sup>1</sup> Die Kontrollorgane informieren sich gegenseitig sowie das SECO.
+
+<sup>2</sup> Sie melden dem SECO die Produkte, die den Sicherheitsvorschriften nicht genügen, und die entsprechenden Massnahmen.
+
+<sup>3</sup> Erlassen sie eine Verfügung, so stellen sie ein Doppel der Verfügung dem SECO zu.
+
+#### Art. 25
+
+**Aufsichtsbehörde**
+
+<sup>1</sup> Die Aufsicht über den Vollzug der Vorschriften nach diesem Abschnitt ist Sache des SECO.
+
+<sup>2</sup> Das SECO sorgt für die Koordination der Tätigkeit der Kontrollorgane.
+
+<sup>3</sup> Es kann Weisungen zur Marktüberwachung erlassen.
+
+#### Art. 26
+
+**Finanzierung des Vollzugs**
+
+Das WBF regelt die Finanzierung des Vollzugs der Marktüberwachung.
+
+#### Art. 27
+
+**Gebühren**
+
+Die Behörden erheben Gebühren für:
+
+- a. Kontrollen, wenn sich herausstellt, dass das Produkt nicht den Vorschriften entspricht;
+- b. Verfügungen über die Edition von Konformitätserklärungen und technischen Unterlagen;
+- c. andere Verfügungen und Massnahmen nach Artikel 10 PrSG, die der Inverkehrbringer veranlasst.
+
+#### Art. 28
+
+**Gebührenbemessung nach Zeitaufwand**
+
+<sup>1</sup>
+
+Die folgenden Gebühren werden nach dem Zeitaufwand bemessen:
+
+- a. die Gebühren nach Artikel 27;
+- b. die Gebühren für die Bezeichnung und die Kontrollen von Konformitätsbewertungsstellen nach den Artikeln 24–33 AkkBV[^28-1], die sich auf Produkte nach diesem Abschnitt beziehen;
+
+<sup>2</sup> Der Stundenansatz beträgt 200 Franken.
+
+<sup>3</sup> Für Kontrollen, die dringlich oder ausserhalb der normalen Arbeitszeit durchgeführt werden, können Zuschläge bis zu 50 Prozent der ordentlichen Gebühr erhoben werden.
+
+[^28-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 29
+
+**Anwendbarkeit der Allgemeinen Gebührenverordnung**
+
+<sup>1</sup> Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^29-1] (AllgGebV).
+
+<sup>2</sup> Für die Kontrollen und die Verfügungen der Kontrollorgane nach Artikel 20 gelten die Artikel 2 und 6–14 AllgGebV sinngemäss.
+
+[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+## 6. Abschnitt: Schlussbestimmungen
+
+#### Art. 30
+
+**Aufhebung und Änderung bisherigen Rechts**
+
+Die Aufhebung und die Änderung bisherigen Rechts sind in Anhang 4 geregelt.
+
+#### Art. 31
+
+**Übergangsbestimmungen**
+
+Produkte, welche die Anforderungen nach bisherigem Recht, jedoch nicht die Anforderungen nach neuem Recht erfüllen, dürfen noch bis zum 31. Dezember 2011 in Verkehr gebracht werden.
+
+#### Art. 32
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Juli 2010 in Kraft.
+
+Anhänge 1–3*[^t-1]*
+
+[^t-1]: Aufgehoben durch Art. 7 der Gasgeräteverordnung 25. Okt. 2017, mit Wirkung seit 21. April 2018 ([AS 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
+
+Anhang 4
+
+(Art. 30)
+
+## Aufhebung und Änderung bisherigen Rechts
+
+I
+
+Folgende Erlasse werden aufgehoben:
+
+- 1\. Verordnung vom 12. Juni 1995[^annex4-lvlu1-1] über die Sicherheit von technischen Einrichtungen und Geräten;
+- 2\. Verordnung des EVD vom 12. Juni 1995[^annex4-lvlu1-2] über die Verfahren der Konformitätsbewertung von Gasgeräten und persönlichen Schutzausrüstungen;
+- 3\. Verordnung des EVD vom 16. Juni 2006[^annex4-lvlu1-3] über die Gebühren für technische Einrichtungen und Geräte.
+
+II
+
+Die nachstehenden Verordnungen werden wie folgt geändert:
+
+…[^annex4-lvlu1-4]
+
+[^annex4-lvlu1-1]: [[AS 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770),[1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 8, 22 Abs. 1 Ziff. 5, [2002 853](https://fedlex.data.admin.ch/eli/oc/2002/150), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 1]
+[^annex4-lvlu1-2]: [[AS 1995 2783](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783), [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)]
+[^annex4-lvlu1-3]: [[AS 2006 2681](https://fedlex.data.admin.ch/eli/oc/2006/411)]
+[^annex4-lvlu1-4]: Die Änd. können unter [AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)konsultiert werden.

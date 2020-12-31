@@ -1,0 +1,136 @@
+---
+sr: "0.831.109.454.212"
+title: Verwaltungsvereinbarung vom 25. Februar 1974 über die Durchführung der Zusatzvereinbarung vom 4. Juli 1969 zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über Soziale Sicherheit sowie die Ergänzung und Änderung der Verwaltungsvereinbarung vom 18. Dezember 1963
+eli: "https://fedlex.data.admin.ch/eli/cc/1975/1463_1463_1463"
+language: de
+version: 1973-07-01
+adopted: 1974-02-25
+in_force: 1973-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1463_1463_1463/19730701/de/xml/fedlex-data-admin-ch-eli-cc-1975-1463_1463_1463-19730701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1463_1463_1463/19730701/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verwaltungsvereinbarung über die Durchführung der Zusatzvereinbarung vom 4. Juli 1969 sowie die Ergänzung und Änderung der Verwaltungsvereinbarung vom 18. Dezember 1963
+
+AS **1975** 1463
+
+Übersetzung*[^t-1]*
+
+Abgeschlossen am 25. Februar 1974
+
+[^t-1]: Der französische und italienische Originaltext findet sich unter der gleichen Nummer in den entsprechenden Ausgaben dieser Sammlung.
+
+In Anwendung von Artikel 18 Absatz 2 Buchstaben a und b des am 14. Dezember 1962[^ingress-1] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik abgeschlossenen Abkommens über Soziale Sicherheit haben die zuständigen Behörden, vertreten durch
+
+- – schweizerischerseits: Cristoforo Motta, bevollmächtigter Minister, Delegierter des Bundesrates für Sozialversicherungsabkommen;
+- – italienischerseits: Gino Bertoldi, Minister für Arbeit und soziale Vorsorge,
+
+die nachstehenden Bestimmungen über die Durchführung der Zusatzvereinbarung vom 4. Juli 1969[^ingress-2] zum genannten Abkommen und die Änderung der Verwaltungsvereinbarung vom 18. Dezember 1963[^ingress-3] vereinbart:
+
+[^ingress-1]: [SR 0.831.109.454.2](https://fedlex.data.admin.ch/eli/cc/1964/727_730_739)
+[^ingress-2]: [SR 0.831.109.454.21](https://fedlex.data.admin.ch/eli/cc/1973/1185_1185_1185)
+[^ingress-3]: [SR 0.831.109.454.23](https://fedlex.data.admin.ch/eli/cc/1964/747_748_760)
+
+## Erstes Kapitel Bestimmungen über die Durchführung der Zusatzvereinbarung vom 4. Juli 1969
+
+#### Art. 1
+
+<sup>1</sup> Italienische Staatsangehörige, die in Anwendung von Artikel 1 Absätze 1 und 2 der Zusatzvereinbarung die Überweisung der Beiträge verlangen, haben ihr Gesuch bei der zuständigen Provinzialstelle des INPS[^1-1] einzureichen und zu diesem Zweck das besondere Formular für Überweisungsgesuche zu benutzen.
+
+<sup>2</sup> Die Schweizerische Ausgleichskasse entscheidet über das Gesuch und stellt ihre Verfügung dem Gesuchsteller zu; eine Durchschrift sendet sie an die zuständige Provinzialstelle des INPS und nimmt gegebenenfalls die beantragte Überweisung vor.
+
+<sup>3</sup> Artikel 8 der Verwaltungsvereinbarung vom 18. Dezember 1963 gilt entsprechend.
+
+<sup>4</sup> Gleichzeitig mit der Überweisung der Beiträge an die Generaldirektion des INPS übermittelt die Schweizerische Ausgleichskasse dieser in zweifacher Ausfertigung ein Verzeichnis der Versicherten, zu deren Gunsten die Beiträge überwiesen worden sind.
+
+[^1-1]: Istituto Nazionale della Previdenza Sociale
+
+#### Art. 2
+
+Italienische Staatsangehörige, die nach Artikel 2 der Zusatzvereinbarung die Überweisung der Arbeitgeberbeiträge verlangen können, reichen ihr Gesuch bei der zuständigen Provinzialstelle des INPS ein. Artikel 1 Absätze 2 bis 4 dieser Verwaltungsvereinbarung gilt entsprechend.
+
+#### Art. 3
+
+<sup>1</sup> In den Fällen von Artikel 3 Absatz 1 der Zusatzvereinbarung gelten die Artikel 5 bis 8 der Verwaltungsvereinbarung vom 18. Dezember 1963 entsprechend.
+
+<sup>2</sup> In den Fällen von Artikel 3 Absatz 2 der Zusatzvereinbarung gelten die Artikel 22 bis 25 der Verwaltungsvereinbarung vom 18. Dezember 1963 entsprechend.
+
+#### Art. 4
+
+<sup>1</sup> Die Mutter eines Kindes, das an einem Geburtsgebrechen leidet, bezieht das Antragsformular für die Gewährung der in Artikel 4 der Zusatzvereinbarung vorgesehenen Leistungen bei der Invalidenversicherungskommission ihres Wohnsitzkantons.
+
+<sup>2</sup> Die schweizerischen Invalidenversicherungskommissionen setzen sich unmittelbar mit den italienischen Ärzten und Spitälern in Verbindung, um die Art der angewandten Behandlung zu erfahren; in Italien gewährte Krankenpflegeleistungen werden bis zur Höhe der schweizerischen Tarife erstattet.
+
+#### Art. 5
+
+<sup>1</sup> Für die Anwendung von Artikel 5 der Zusatzvereinbarung teilt die Schweizerische Ausgleichskasse der zuständigen Provinzialstelle des INPS auf deren Ersuchen die in der schweizerischen Versicherung zurückgelegten Versicherungszeiten sowie die drei letzten im Zeitpunkt des Gesuches im individuellen Konto eingetragenen Jahreseinkommen aus unselbständiger Erwerbstätigkeit mit. Zu diesem Zweck stellt die Provinzialstelle der Schweizerischen Ausgleichskasse ein Formular zur Verfügung, auf dem Name und Geburtsdatum des Antragstellers, seine schweizerische Versichertennummer sowie Name und Adresse seines Arbeitgebers (oder seiner Arbeitgeber) in der Schweiz enthalten sind.
+
+<sup>2</sup> Die Schweizerische Ausgleichskasse gibt in der Folge der zuständigen Provinzialstelle des INPS auf Ersuchen die Einkommen aus unselbständiger Erwerbstätigkeit bekannt, die allenfalls nach der in Absatz 1 erwähnten Mitteilung noch auf dem individuellen Konto des Antragstellers eingetragen worden sind.
+
+## Zweites Kapitel Bestimmungen über die Änderung der Verwaltungsvereinbarung vom 18. Dezember 1963
+
+#### Art. 6
+
+I
+
+Artikel 5 Absatz 4 der Verwaltungsvereinbarung vom 18. Dezember 1963 wird wie folgt geändert:
+
+…[^6-1]
+
+II
+
+Artikel 6 der Verwaltungsvereinbarung vom 18. Dezember 1963 wird durch folgende Bestimmung ersetzt:
+
+…[^6-2]
+
+III
+
+Artikel 39 der Verwaltungsvereinbarung vom 18. Dezember 1963 wird wie folgt geändert:
+
+<sup>1</sup> Absatz 2 wird durch folgende Bestimmung ersetzt:
+
+…[^6-3]
+
+<sup>2</sup> Absatz 4 wird aufgehoben.
+
+IV
+
+Artikel 50 Absatz 2 der Verwaltungsvereinbarung vom 18. Dezember 1963 wird durch folgende Bestimmung ersetzt:
+
+…[^6-4]
+
+V
+
+Artikel 53 der Verwaltungsvereinbarung vom 18. Dezember 1963 wird aufgehoben.
+
+[^6-1]: Text eingefügt in der genannten Vereinb.
+[^6-2]: Text eingefügt in der genannten Vereinb.
+[^6-3]: Text eingefügt in der genannten Vereinb.
+[^6-4]: Text eingefügt in der genannten Vereinb.
+
+## Drittes Kapitel Bestimmungen über die Ergänzung der Verwaltungsvereinbarung vom 18. Dezember 1963
+
+#### Art. 7
+
+Die Verwaltungsvereinbarung vom 18. Dezember 1963 wird durch folgende Bestimmungen ergänzt:
+
+### Art. 51<sup>bis</sup>–51<sup>quater</sup>
+
+….[^7-subdivu2-1]
+
+[^7-subdivu2-1]: Text eingefügt in der genannten Vereinb.
+
+#### Art. 8
+
+Diese Vereinbarung tritt gleichzeitig mit der Zusatzvereinbarung vom 4. Juli 1969 zu dem am 14. Dezember 1962 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik abgeschlossenen Abkommen über Soziale Sicherheit in Kraft[^8-1]. Sie gilt während der gleichen Dauer wie diese Zusatzvereinbarung.
+
+Geschehen zu Bern und Rom am 25. Februar 1974 in zweifacher Ausfertigung, in französischer und italienischer Sprache, wobei jeder Wortlaut gleichermassen authentisch ist.
+
+<table>
+<tr><td>Für das Bundesamt für Sozialversicherung:</td><td>Für das Ministerium für Arbeit und soziale Vorsorge:</td></tr>
+<tr><td>C. Motta</td><td>G. Bertoldi</td></tr>
+</table>
+
+[^8-1]: 1. Juli 1973.

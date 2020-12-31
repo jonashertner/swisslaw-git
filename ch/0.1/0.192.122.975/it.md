@@ -1,0 +1,58 @@
+---
+sr: "0.192.122.975"
+title: "Scambio di lettere del 23 luglio/11 agosto 1971 tra il Dipartimento politico federale e la Banca asiatica per lo sviluppo, concernente l'ufficio della Banca di Zurigo e il personale che esso occupa"
+eli: "https://fedlex.data.admin.ch/eli/cc/1971/1360_1355_1355"
+language: it
+version: 1971-08-11
+adopted: 1971-08-11
+in_force: 1971-08-11
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1360_1355_1355/19710811/it/xml/fedlex-data-admin-ch-eli-cc-1971-1360_1355_1355-19710811-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1360_1355_1355/19710811/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Scambio di lettere del 23 luglio/11 agosto 1971 tra il Dipartimento politico federale e la Banca asiatica per lo sviluppo, concernente l’ufficio della Banca in Zurigo e il personale che esso occupa
+
+RU **1971** 1355
+
+Entrato in vigore l’11 agosto 1971
+
+(Stato 11 agosto 1971)
+
+*Traduzione*[^ingress-1]
+
+<table>
+<tr><td>Dipartimento politico federale</td><td>Berna, 23 luglio 1971 Signor Takeshi Watanabe Presidente della Banca asiatica per lo sviluppo Makati/Rizal Filippine</td></tr>
+</table>
+
+Apertura a Zurigo di un ufficio della Banca asiatica per lo sviluppo
+
+Signor Presidente,
+
+Abbiamo l’onore di informarla che il Consiglio federale svizzero ha preso nota dell’intenzione della Banca asiatica per lo sviluppo di spostare la sede del suo consigliere finanziario e di aprire, a tale scopo, un ufficio in Zurigo. Il Consiglio federale è lieto di profittare di quest’occasione per consolidare i rapporti di collaborazione tra la Svizzera e la Banca. Mediante la lettera del 16 ottobre 1970, esso ha già dato il suo accordo di principio per l’istituzione di detto ufficio.
+
+Desiderosi di disciplinare in modo soddisfacente i rapporti tra la Banca e la Svizzera, riguardo all’ufficio suddetto e al personale della Banca ivi occupato, vi proponiamo di concludere la seguente convenzione:
+
+- 1\. L’ufficio della Banca istituito in Zurigo e il personale assegnato a detto ufficio verranno trattati conformemente alle disposizioni dell’accordo di fondazione della Banca asiatica per lo sviluppo[^ingress-2] (qui di seguito: «accordo»), cui la Svizzera ha aderito il 31 dicembre 1967. L’ufficio summenzionato non è sottoposto alla legge federale dell’8 novembre 1934[^ingress-3] su le banche e le casse di risparmio.
+- 2\. I funzionari della Banca assegnati all’ufficio di Zurigo fruiranno, in virtù di un accordo di reciprocità tra la Banca e la Svizzera, dei privilegi e delle immunità necessarie all’esercizio delle loro funzioni, conformemente alla loro posizione amministrativa nella Banca e alla loro qualità di cittadino svizzero o non svizzero. Il Dipartimento politico federale consegnerà a detti funzionari una carta di legittimazione attestante i privilegi e le immunità abitualmente conferiti al titolare. I privilegi e le immunità avranno una portata almeno uguale a quelli indicati nell’accordo e la loro applicazione sarà conforme alla prassi osservata dalla Svizzera riguardo alle altre organizzazioni internazionali che non fanno parte delle Nazioni Unite.
+- 3\. L’ufficio di Zurigo ed il suo personale saranno esonerati da qualsiasi imposta federale, cantonale e comunale e da ogni altra tassa, conformemente all’art. 56 dell’accordo. La procedura d’applicazione di questo ordinamento è indicata nell’allegato alla presente lettera.
+- 4\. L’importazione ed il trattamento doganale delle merci, destinate all’ufficio di Zurigo e ai suoi funzionari che non siano cittadini svizzeri, avvengono in virtù del regolamento doganale del Consiglio federale applicabile alle organizzazioni internazionali.
+- 5\. L’applicazione delle leggi svizzere sulla sicurezza sociale verrà disciplinata, a tempo debito e di comune intesa, in base alla prassi osservata dalla Svizzera rispetto ad altre organizzazioni internazionali.
+- 6\. Qualsiasi circostanza concernente l’ufficio di Zurigo, che non sia disciplinata nell’accordo o nella presente convenzione, verrà trattata conformemente alla procedura applicata alle organizzazioni internazionali con sede in Svizzera che non partecipano alle Nazioni Unite, tenuto conto di adeguate deroghe connesse con l’attività del suddetto ufficio.
+- 7\. I privilegi e le immunità accordati all’ufficio e ai suoi funzionari, indicati nell’accordo e nella presente convenzione, sono istituiti unicamente per assicurare, in qualsiasi circostanza, il libero esercizio delle attività della Banca e la completa indipendenza dei suoi funzionari. La Banca e il Consiglio federale coopereranno in qualsiasi circostanza riguardante l’ufficio di Zurigo; la prima adotterà inoltre adeguati provvedimenti per evitare gli abusi che potrebbero aver origine dallo statuto speciale accordato ad essa ed ai suoi funzionari, conformemente alla prassi osservata riguardo ad altre organizzazioni internazionali con sede in Svizzera.
+- 8\. Ogni vertenza riguardo all’applicazione o all’interpretazione delle presenti disposizioni, che non possa essere composta mediante negoziati diretti tra le parti, verrà sottoposta ad un tribunale arbitrale trimembre. Ciascuna parte designa un membro ed i membri così designati cooptano il presidente. Se due membri non possono mettersi d’accordo sulla cooptazione, il presidente verrà nominato, a richiesta dell’una o dell’altra parte, dal presidente della Corte internazionale di giustizia. Il tribunale stabilisce la propria procedura e le sue competenze. Le questioni concernenti esclusivamente l’art. 60 dell’accordo verranno sottoposte dal tribunale al Consiglio dei governatori della Banca, conformemente alla procedura stabilita nell’art. 60.
+- 9\. La presente convenzione può essere modificata in qualsiasi momento, con il reciproco assenso delle parti.
+- 10\. La presente convenzione può essere disdetta in qualsiasi momento da una parte, mediante un preavviso scritto di sei mesi.
+
+Le saremmo grati se ci confermasse l’approvazione della Banca riguardo alla presente convenzione, compilata in doppio esemplare nelle lingue tedesca e inglese, i due testi facenti parimente fede.
+
+Profittiamo di questa occasione per rinnovarle, signor Presidente, l’espressione della nostra alta considerazione.
+
+<table>
+<tr><td></td><td>Dipartimento politico federale Divisione delle organizzazioni internazionali: Keller</td></tr>
+</table>
+
+[^ingress-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^ingress-2]: [RS 0.972.2](https://fedlex.data.admin.ch/eli/cc/1971/860_861_861)
+[^ingress-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)

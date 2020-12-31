@@ -1,0 +1,5125 @@
+---
+sr: "455.1"
+title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
+short: OPAn
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
+language: it
+version: 2020-07-14
+adopted: 2008-04-23
+in_force: 2008-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20200714/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20200714-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla protezione degli animali
+
+(OPAn)
+
+del 23 aprile 2008 (Stato 14 luglio 2020)
+
+Il Consiglio federale svizzero,
+
+visto la legge federale del 16 dicembre 2005[^ingress-1] sulla protezione degli animali (LPAn); visto l’articolo 19 capoverso 1 della legge del 21 marzo 2003[^ingress-2] sull’ingegneria genetica,[^ingress-3]
+
+ordina:
+
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina il trattamento, la detenzione, l’utilizzazione e gli interventi su animali vertebrati, cefalopodi (*Cephalopoda*) e decapodi (*Reptantia*).
+
+#### Art. 2
+
+**Definizioni**
+
+<sup>1</sup>
+
+A seconda dello stato di addomesticamento si distinguono le seguenti categorie animali:
+
+- a. *animali domestici**:* gli animali addomesticati delle specie equina, bovina, suina, ovina e caprina, escluse le specie esotiche; yak e bufali addomesticati; lama e alpaca; conigli domestici, cani e gatti domestici, piccioni e volatili domestici quali polli, tacchini, faraone, oche e anatre;
+- b. *animali selvatici**:* gli animali vertebrati, esclusi gli animali domestici, i cefalopodi e i decapodi.
+
+<sup>2</sup>
+
+A seconda del tipo di utilizzo si distinguono le seguenti categorie animali:
+
+- a. *animali da reddito:* animali di specie che sono detenute o destinate a essere detenute per la produzione diretta o indiretta di derrate alimentari o per una prestazione di altro genere;
+- b. *animali da compagnia**:* gli animali tenuti o destinati a essere tenuti presso l’alloggio domestico per l’interesse che suscitano o per compagnia;
+- c. *animali da laboratorio**:* gli animali utilizzati o destinati a essere utilizzati in esperimenti.
+
+<sup>3</sup>
+
+Ai sensi della presente ordinanza, si intendono per:
+
+- a. *a titolo professionale:* commercio e detenzione, accudimento e allevamento di animali con l’intenzione di ricavarne un reddito o un profitto per sé o per terzi o di coprire i costi propri o di terzi; la controprestazione non deve essere corrisposta necessariamente in denaro;
+- b. *cambiamento di destinazione d’uso:* realizzazione di un sistema di detenzione in edifici esistenti, realizzazione di un sistema di detenzione per capi di un’altra specie animale o di un’altra categoria della stessa specie oppure realizzazione di un nuovo sistema di detenzione per animali della stessa categoria;
+- c. *uscita**:* movimento libero all’aperto durante il quale l’animale stesso può decidere autonomamente il tipo di passo, la direzione e la velocità dei suoi spostamenti, senza essere trattenuto da pastoie, redini, guinzagli, finimenti, capestri, catene o simili;
+- d. *box**:* recinto all’interno di un locale;
+- e. *parco**:* area delimitata in cui sono detenuti gli animali, incluse aree d’uscita, gabbie, voliere, terrari, acquari, bacini di allevamento e stagni da pesca;
+- f. *area d’uscita**:* pascolo o parco adatto all’uscita quotidiana degli animali in qualsiasi condizione atmosferica;
+- g. *ricovero**:* installazioni coperte quali ripari, stalle o capannine, in cui gli animali sono detenuti o in cui possono ritirarsi per proteggersi dalle condizioni meteorologiche;
+- h. *canile**:* recinto all’aperto con un rifugio o uno spazio sempre accessibile collocato all’interno di un edificio;
+- i. *allevamento**:* l’accoppiamento mirato di animali in vista di un obiettivo d’allevamento, la riproduzione senza obiettivi d’allevamento e la produzione di animali mediante metodi di riproduzione artificiale;
+- j. *obiettivo d’allevamento**:* sviluppo, mediante selezione, di determinate caratteristiche interne ed esterne di un animale;
+- k. *animali con mutazioni patologiche**:* animale che, in seguito a una mutazione genetica, presenta dolori, sofferenze, lesioni, ansietà o ha subito un intervento invasivo nel suo aspetto fisico o nelle sue capacità. La mutazione che compromette il benessere dell’animale può svilupparsi spontaneamente, essere indotta fisicamente o chimicamente o essere causata da mutazioni genetiche;
+- l. *linea o ceppo con mutazioni patologiche**:* linee o ceppi di allevamento che comprendono animali con mutazioni patologiche o il cui allevamento comporta un’eccessiva strumentalizzazione degli animali;
+- m. *centro di detenzione di animali da laboratorio**:* centro che detiene, alleva o commercia animali da laboratorio;
+- n. *macellazione**:* l’uccisione di animali allo scopo di ottenere prodotti alimentari;
+- o.
+
+  *utilizzazione:*
+
+  - 1\. *di un equide*[^2-1]: il lavoro da sellato, la conduzione a mano o per la cavezza nonché il movimento mediante la giostra meccanica,
+  - 2\. *di un cane*: l’impiego per scopi diversi da quelli previsti per gli animali da compagnia,
+  - 3\. *di altri animali*: l’impiego a titolo professionale di un prodotto o di una caratteristica comportamentale dell’animale;
+
+- p.[^2-2] *equidi*: gli animali addomesticati della specie equina, ovvero cavalli, pony asini, muli e bardotti;
+- q.[^2-3] *...*
+- r. *bovini:* gli animali addomesticati della specie bovina, inclusi yak e bufali;
+- s. *pensione o rifugio per animali**:* centro di detenzione che prende a pensione o accoglie e accudisce animali a cui il proprietario ha rinunciato o che sono stati abbandonati;
+- t.[^2-4] *sistema d’informazione elettronico per la gestione degli esperimenti sugli animali**:* sistema d’informazione secondo l’ordinanza del 1° settembre 2010[^2-5] concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali;
+- u.[^2-6] *USAV:* Ufficio federale della sicurezza alimentare e di veterinaria.
+- v.[^2-7] *animali geneticamente modificati*: animali il cui materiale genetico nelle cellule germinali è stato modificato con tecniche di modificazione genetica secondo l’allegato 1 dell’ordinanza del 9 maggio 2012[^2-8] sull’impiego confinato in un modo non riscontrabile in condizioni naturali in seguito a incrocio o ricombinazione naturale;
+- w.[^2-9] *decapodi*: crostacei del sottordine *Pleocyemata*, eccettuati gli ordini parziali *Stenopodidea* e *Caridea*.
+
+<sup>4</sup> I termini *regione d’estivazione, regione di montagna* e *unità standard di manodopera* sono da intendersi ai sensi della legislazione sull’agricoltura.
+
+<sup>5</sup> Le costruzioni nuove o quelle che hanno subito un cambiamento di destinazione d’uso e gli edifici che sono stati ricostruiti o ampliati sono considerati, ai sensi della presente ordinanza, *di nuova realizzazione*.
+
+[^2-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-3]: Abrogata dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^2-5]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^2-6]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^2-7]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-8]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-9]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+## Capitolo 2: Detenzione e trattamento degli animali
+
+### Sezione 1: Disposizioni generali
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 3
+
+**Principi[^3-1]**
+
+<sup>1</sup> Gli animali devono essere tenuti e trattati in modo che non siano turbati nelle loro funzioni corporee o nel comportamento e che la loro facoltà di adattamento non sia messa alla prova in modo eccessivo.[^3-2]
+
+<sup>2</sup> I ricoveri e i parchi devono essere provvisti di luoghi adeguati in cui gli animali possano alimentarsi, abbeverarsi, urinare e defecare, di luoghi coperti in cui possano riposarsi e ritirarsi, di materiali che permettano loro di soddisfare le esigenze comportamentali tipiche della specie, di dispositivi per la cura del corpo e di ambienti climatizzati.
+
+<sup>3</sup> L’alimentazione e la cura sono adeguati se, alla luce delle esperienze acquisite e delle conoscenze fisiologiche, etologiche e igieniche, rispondono alle esigenze degli animali.
+
+<sup>4</sup> Gli animali non possono essere tenuti costantemente legati.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 4
+
+**Alimentazione**
+
+<sup>1</sup> Gli animali devono ricevere regolarmente e in quantità sufficienti alimenti adeguati e acqua. Se sono tenuti in gruppo, il detentore di animali deve provvedere affinché ogni animale riceva alimenti e acqua a sufficienza.
+
+<sup>2</sup> Gli animali devono poter soddisfare le esigenze comportamentali, legate all’assunzione di cibo, tipiche della specie.
+
+<sup>3</sup>
+
+Gli animali vivi possono essere dati in pasto soltanto ad animali selvatici. La condizione è che questi ultimi abbiano un comportamento normale di cattura e di uccisione e che:
+
+- a. non possa essere assicurata l’alimentazione con animali morti o altri alimenti;
+- b. sia prevista una reintroduzione nell’ambiente naturale; oppure
+- c. l’animale selvatico e la sua preda siano tenuti in un parco comune sistemato in modo adeguato anche per la preda.
+
+#### Art. 5
+
+**Cura**
+
+<sup>1</sup> Il detentore di animali deve controllare, con una frequenza variabile a seconda delle necessità, il benessere degli animali e lo stato delle attrezzature. Deve eliminare prontamente i difetti delle attrezzature che pregiudicano il benessere degli animali o prendere provvedimenti volti ad assicurare la protezione degli stessi.
+
+<sup>2</sup> La cura è intesa a prevenire malattie e ferimenti. Il detentore di animali è responsabile del fatto che gli animali malati o feriti siano portati in un ricovero, siano curati e trattati senza indugio tenendo conto del loro stato oppure siano abbattuti. Le attrezzature necessarie a tal fine devono essere disponibili in tempo utile. Durante lo svolgimento di trattamenti veterinari o simili, gli animali devono poter essere legati o immobilizzati in modo sicuro.
+
+<sup>3</sup> Le abitudini legate alla cura del corpo tipiche della specie non devono essere limitate inutilmente dalle condizioni di detenzione. Se ciò accade, esse devono essere sostituite da cure adeguate.
+
+<sup>4</sup> Zoccoli, unghioni e artigli devono essere curati e tagliati periodicamente e a regola d’arte. L’eventuale ferratura degli zoccoli deve essere effettuata a regola d’arte.
+
+#### Art. 6
+
+**Protezione dalle condizioni meteorologiche**
+
+Il detentore di animali deve provvedere a fornire la necessaria protezione agli animali che non possono adattarsi alle condizioni meteorologiche.
+
+#### Art. 7
+
+**Ricoveri, parchi, suolo**
+
+<sup>1</sup>
+
+I ricoveri e i parchi devono essere costruiti e allestiti in modo tale che:
+
+- a. il rischio di ferimento degli animali sia minimo;
+- b. la salute degli animali non sia compromessa; e
+- c. gli animali non possano fuggire.
+
+<sup>2</sup> I ricoveri e i parchi devono essere costruiti e allestiti in modo e con dimensioni tali da consentire agli animali di seguire il comportamento tipico della loro specie.
+
+<sup>3</sup> I suoli devono essere configurati in modo tale da non compromettere la salute degli animali.
+
+#### Art. 8
+
+**Poste, box, dispositivi d’attacco**
+
+<sup>1</sup> Le poste, i box e i dispositivi d’attacco devono essere concepiti in modo che gli animali non si feriscano e possano tenersi eretti, coricarsi, riposarsi e alzarsi nel modo tipico della loro specie.
+
+<sup>2</sup> Le corde, le catene, i collari e i dispositivi analoghi devono essere controllati regolarmente e adeguati alla taglia degli animali.
+
+#### Art. 9
+
+**Stabulazione in gruppo**
+
+<sup>1</sup> Per stabulazione in gruppo si intende la detenzione di diversi animali di una o più specie in un ricovero o in un parco in cui ogni animale possa muoversi liberamente.
+
+<sup>2</sup>
+
+In caso di stabulazione in gruppo il detentore di animali deve:
+
+- a. tener conto del comportamento delle singole specie e di quello del gruppo;
+- b. se necessario, prevedere per gli animali la possibilità di evitarsi e di ritirarsi; e
+- c. per gli animali che vivono temporaneamente da soli e per gli animali incompatibili, predisporre ricoveri separati o parchi d’isolamento.
+
+#### Art. 10
+
+**Requisiti minimi**
+
+<sup>1</sup> I ricoveri e i parchi devono soddisfare i requisiti di cui agli allegati 1–3.
+
+<sup>2</sup> Se nei sistemi di stabulazione vengono effettuati lavori di manutenzione che non si limitano alla sostituzione dei singoli elementi dell’impianto di stabulazione, occorre verificare se il locale è suddivisibile in modo tale che per le poste, i box di riposo, i settori di riposo, le corsie, le poste di foraggiamento e le aree di foraggiamento siano rispettate le dimensioni minime di cui all’allegato 1 per le stalle di nuova realizzazione.
+
+<sup>3</sup> L’autorità cantonale può autorizzare deroghe ai requisiti minimi nei casi menzionati al capoverso 2. Essa considera a tal fine l’onere risultante per il detentore di animali e il benessere degli animali.
+
+#### Art. 11
+
+**Clima nei locali**
+
+<sup>1</sup> Il clima nei locali e nei parchi interni deve essere adeguato agli animali.
+
+<sup>2</sup> Nei locali chiusi con aerazione artificiale l’afflusso di aria fresca deve essere assicurato anche in caso di guasto all’impianto.
+
+#### Art. 12
+
+**Rumore**
+
+<sup>1</sup> Gli animali non possono essere esposti a rumori eccessivi per un lungo periodo.
+
+<sup>2</sup> Un rumore è considerato eccessivo se provoca nell’animale un comportamento aggressivo, di fuga, di scansamento oppure se ne provoca l’irrigidimento e l’animale non si può sottrarre alla fonte del rumore.[^12-1]
+
+[^12-1]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+
+#### Art. 13
+
+**Specie sociali**
+
+Gli animali delle specie sociali devono avere adeguati contatti con i conspecifici.
+
+#### Art. 14
+
+**Deroghe a disposizioni**[^14-1]
+
+Sono ammesse deroghe alle disposizioni sulla detenzione e sul trattamento degli animali se necessarie per motivi medici o per assicurare il rispetto di norme di polizia sanitaria.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+### Sezione 2: Deroghe all’obbligo di anestesia di cui all’articolo 16 LPAn
+
+#### Art. 15
+
+<sup>1</sup> L’anestesia non è richiesta per gli interventi se, secondo il giudizio del veterinario, si rivela inopportuna o impraticabile per motivi medici.
+
+<sup>2</sup>
+
+Le persone esperte possono eseguire i seguenti interventi senza anestesia:
+
+- a. l’accorciamento della coda agli agnelli fino al settimo giorno di vita; il moncone della coda deve coprire l’ano e la vulva;
+- b. l’asportazione della falange supplementare ai cuccioli di età non superiore ai quattro giorni;
+- c. la spuntatura del becco ai volatili domestici;
+- d. l’accorciamento degli arti e degli speroni dei pulcini maschi destinati all’allevamento di polli da ingrasso e di galline ovaiole;
+- e. la marchiatura degli animali, tranne il tatuaggio di cani e gatti e la marchiatura dei pesci;
+- f. la levigatura della punta dei denti dei lattonzoli.
+
+<sup>3</sup> Sono considerate esperte le persone che hanno potuto acquisire le conoscenze necessarie e l’esperienza pratica sotto la guida e la supervisione di uno specialista e che effettuano regolarmente tali interventi.
+
+### Sezione 3: Pratiche vietate
+
+#### Art. 16
+
+**Pratiche vietate su tutte le specie animali**
+
+<sup>1</sup> È vietato maltrattare gli animali, trascurarli o sottoporli a un sovraffaticamento inutile.
+
+<sup>2</sup>
+
+In particolare è vietato:
+
+- a. uccidere gli animali in modo crudele;
+- b. percuotere gli animali sugli occhi o sugli organi genitali e rompere o schiacciare la coda;
+- c. uccidere gli animali con dolo, segnatamente sparare ad animali addomesticati o tenuti in cattività;
+- d. organizzare lotte tra animali o con animali nel corso delle quali essi vengono torturati o uccisi;
+- e. utilizzare gli animali per esposizioni, pubblicità, riprese cinematografiche o scopi analoghi, se ciò comporta loro evidenti dolori, sofferenze o lesioni;
+- f. abbandonare un animale con l’intenzione di liberarsene;
+- g. somministrare sostanze e prodotti per influenzare il rendimento o per modificare l’aspetto esteriore qualora ciò comprometta la salute o il benessere dell’animale;
+- h.[^16-1] partecipare a concorsi e a manifestazioni sportive con animali in cui si utilizzano sostanze o prodotti vietati secondo le liste di riferimento delle associazioni sportive o secondo la lista definita dall’USAV in una pertinente ordinanza;
+- i. effettuare od omettere l’esecuzione di pratiche in vista di esposizioni se ciò procura all’animale dolori o lesioni o compromette in altro modo il suo benessere;
+- j. effettuare pratiche a sfondo sessuale con gli animali;
+- k. spedire gli animali per pacco;
+- l. esportare temporaneamente animali per l’attuazione di pratiche vietate e reimportarli;
+- m.[^16-2] utilizzare sistemi di recinzione che emettono scariche elettriche tramite un ricevitore applicato sul corpo dell’animale.
+
+<sup>3</sup> L’autorità cantonale può obbligare gli organizzatori di concorsi e di competizioni sportive a eseguire controlli antidoping sugli animali o chiedere alla federazione sportiva nazionale l’esecuzione di tali controlli. I costi sono a carico degli organizzatori.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^16-2]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 17
+
+**Pratiche vietate sui bovini**
+
+Sui bovini sono inoltre vietate le pratiche seguenti:
+
+- a. accorciare la coda;
+- b. la privazione di acqua durante la messa in asciutta;
+- c. l’utilizzo di anelli elastici e di sostanze corrosive per l’asportazione delle corna o della radice delle corna;
+- d. la modifica della posizione delle corna mediante pesi che esercitano una trazione sulle stesse;
+- e.[^17-1] interventi invasivi sulla lingua, sul frenulo linguale, al setto nasale o sul muso per evitare disturbi comportamentali quali la suzione reciproca o l’arrotolamento della lingua;
+- f.[^17-2] la marchiatura a freddo e a caldo;
+- g[^17-3] la somministrazione di sostanze o prodotti che modificano il temperamento naturale o il comportamento dell’animale;
+- h.[^17-4] interventi meccanici, fisici o elettrici sulla mammella e lunghi intervalli tra una mungitura e l’altra che modificano la forma naturale della mammella o che causano uno stato di riempimento innaturale;
+- i.[^17-5] l’introduzione di corpi estranei per presentazioni;
+- j.[^17-6] l’applicazione di una fasciatura stretta ai garretti e l’aspirazione della linfa nella regione dei garretti per presentazioni;
+- k.[^17-7] la somministrazione di sostanze o prodotti nel rumine mediante sonda per presentazioni;
+- k<sup>bis</sup>.[^17-8] l’impiego di dispositivi a scarica elettrica per calmare temporaneamente l’animale;
+- l.[^17-9] l’utilizzo dell’anello nasale per legare i tori;
+- m.[^17-10] interventi sul pene dei tori utilizzati per rilevare i calori;
+- n.[^17-11] la decornazione di bufali e yak.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-5]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-6]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-7]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-8]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^17-9]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-10]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-11]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 18
+
+**Pratiche vietate sui suini**
+
+Sui suini sono inoltre vietate le pratiche seguenti:
+
+- a. l’accorciamento della coda;
+- b. la resezione dei denti nei lattonzoli;
+- c. l’applicazione di anelli nasali, graffe o fili metallici nel grugno.
+
+#### Art. 19
+
+**Pratiche vietate sugli ovini e sui caprini**
+
+Sugli ovini e sui caprini sono inoltre vietate le pratiche seguenti:
+
+- a. l’utilizzo di anelli elastici e di sostanze corrosive per l’asportazione delle corna o della base delle corna;
+- b. interventi sul pene dei montoni o caproni utilizzati per rilevare i calori.
+
+#### Art. 20
+
+**Pratiche vietate sui volatili domestici**
+
+Sui volatili domestici sono inoltre vietate le pratiche seguenti:
+
+- a. il taglio del becco;
+- b. il taglio delle appendici della testa e delle ali;
+- c. l’utilizzo di occhiali e di lenti a contatto nonché l’applicazione di dispositivi che impediscono la chiusura del becco;
+- d. la privazione dell’acqua per provocare la muta;
+- e. l’ingozzamento;
+- f. la spiumatura degli animali vivi;
+- g.[^20-1] la triturazione di feti vivi negli incubatoi e di pulcini vivi.
+
+[^20-1]: Introdotta dal n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+
+#### Art. 21
+
+**Pratiche vietate sugli equidi[^21-1]**
+
+Sugli equidi è inoltre vietato:
+
+- a. accorciare il fusto della coda;
+- b. modificare la posizione naturale dello zoccolo, impiegare ferrature dannose e fissare pesi alla regione degli zoccoli;
+- c. incitare o punire gli equidi con dispositivi a scarica elettrica quali speroni, frustini o altri apparecchi elettrici di conduzione;
+- d. impiegarli nelle competizioni equestri se sono stati tagliati o anestetizzati i nervi delle zampe o se la pelle degli arti è stata sensibilizzata o se è stato applicato un apparecchio che provoca dolore agli arti;
+- e. eliminare i peli tattili;
+- f. legare la lingua;
+- g.[^21-2] sbarrarli;
+- h.[^21-3] usare metodi che provocano un’iperflessione del collo o del dorso (*rollkur*).
+
+[^21-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^21-2]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^21-3]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 22
+
+**Pratiche vietate sui cani e obbligo di notifica in caso di deroghe al divieto di accorciamento[^22-1]**
+
+<sup>1</sup>
+
+Sui cani è inoltre vietato:
+
+- a. recidere la coda o le orecchie e praticare interventi chirurgici per ottenere orecchie cadenti;
+- b. importare cani con orecchie o coda recise;
+- b<sup>bis</sup>.[^22-2] importare o fare transitare cuccioli di età inferiore ai 56 giorni, se non sono accompagnati dalla rispettiva madre o da una nutrice;
+- c.[^22-3] sopprimere gli organi vocali;
+- d.[^22-4] utilizzare animali vivi per addestrare o esaminare cani, ad eccezione dell’addestramento e dell’esame di cani da caccia secondo l’articolo 75 capoverso 1 e dell’addestramento di cani da protezione del bestiame e di cani da conduzione del bestiame;
+- e. offrire, vendere, regalare o esporre cani con orecchie o coda recise se l’intervento è stato eseguito violando le disposizioni svizzere sulla protezione degli animali.
+
+<sup>2</sup> I cani con le orecchie o la coda recise possono essere introdotti temporaneamente in Svizzera se sono al seguito di detentori stranieri che si spostano per vacanze o brevi soggiorni oppure se sono importati a titolo di trasloco di masserizie. Questi cani non possono essere offerti, venduti, regalati o presentati in esposizioni.[^22-5]
+
+<sup>3</sup>
+
+I detentori di cani devono notificare al servizio specializzato cantonale le seguenti caratteristiche dei cani:
+
+- a. orecchie o coda recise nei cani importati a titolo di trasloco di masserizie;
+- b. orecchie o coda recise per motivi medici;
+- c. coda corta congenita.[^22-6]
+
+<sup>4</sup> Il servizio specializzato cantonale inserisce le caratteristiche nella banca dati di cui all’articolo 30 capoverso 2 della legge del 1° luglio 1966[^22-7] sulle epizoozie (LFE).[^22-8]
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-2]: Introdotta dall’all. 6 n. II 1 dell’O del 28 nov. 2014 concernente l’importazione, il transito e l’esportazione di animali da compagnia, in vigore dal 29 dic. 2014 ([RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
+[^22-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^22-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^22-5]: Nuovo testo del per. giusta giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^22-6]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^22-8]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 23
+
+**Pratiche vietate sui pesci e sui decapodi**
+
+<sup>1</sup>
+
+Per quanto riguarda i pesci e i decapodi è inoltre vietato:
+
+- a. pescare con la lenza con l’intenzione di rimettere i pesci in acqua;
+- b. l’impiego di pesci da esca vivi;
+- c. l’impiego di lenze con ardiglione;
+- d. il trasporto di pesci vivi su ghiaccio o in acqua ghiacciata;
+- e. l’utilizzo di mezzi ausiliari che ledono le parti molli dei decapodi;
+- f.[^23-1] il trasporto di decapodi vivi direttamente su ghiaccio o in acqua ghiacciata;
+- g.[^23-2] la detenzione fuori dall’acqua di decapodi che vivono in acqua.
+
+<sup>2</sup> Le deroghe ai divieti di ricorrere a pesci da esca vivi, di utilizzare lenze con ardiglione e di trasportare pesci vivi su ghiaccio o in acqua ghiacciata sono disciplinate negli articoli 3 e 5*b* dell’ordinanza del 24 novembre 1993[^23-3] concernente la legge federale sulla pesca.
+
+[^23-1]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^23-2]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^23-3]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+
+#### Art. 24
+
+**Altre pratiche vietate**
+
+È inoltre vietato:
+
+- a. amputare l’ultima falange delle zampe anteriori dei gatti domestici e di altri felini (*Felidae*);
+- b. eseguire interventi chirurgici per facilitare la detenzione di animali da compagnia, come la resezione dei denti, il taglio delle ali, l’asportazione delle ghiandole; sono eccettuati gli interventi per prevenire la riproduzione e l’asportazione della falange supplementare dei cani;
+- c. tenere pappagalli sul trespolo e canarini canterini in gabbie da richiamo;
+- d. utilizzare rivestimenti in carta vetrata nei posatoi per uccelli,
+- e.[^24-1] tagliare il becco ai ratiti e applicare dispositivi che impediscono la chiusura del becco, nonché raccogliere piume da ratiti vivi;
+- f.[^24-2] realizzare e gestire parchi accessibili al pubblico con conigli, piccoli roditori e pulcini in occasione di manifestazioni.
+
+[^24-1]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^24-2]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 4: Allevamento di animali
+
+#### Art. 25
+
+**Principi**
+
+<sup>1</sup> L’allevamento deve mirare all’ottenimento di animali sani, privi di proprietà o caratteristiche lesive della loro dignità.[^25-1]
+
+<sup>2</sup> Gli obiettivi di allevamento che determinano limitazioni agli organi o alle funzioni sensoriali oppure differenze rispetto al comportamento tipico della specie sono ammessi soltanto se possono essere compensati senza che il benessere dell’animale sia compromesso a livello di cura, detenzione o alimentazione, senza praticare interventi e senza eseguire cure mediche regolari.
+
+<sup>3</sup>
+
+Sono vietati:
+
+- a.[^25-2] l’allevamento di animali che potrebbe privare questi ultimi a livello ereditario di parti del corpo o di organi tipici della specie o comportare malformazioni che causerebbero loro dolori, sofferenze o lesioni;
+- b. l’allevamento di animali che presentano un comportamento diverso da quello tipico della specie e che potrebbe rendere difficile o addirittura impossibile la vita con i conspecifici.
+
+<sup>4</sup> Il detentore di animali deve adottare i provvedimenti del caso per evitare che gli animali si riproducano in modo incontrollato.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^25-2]: La correzione del 23 set. 2014 concerne solo il testo francese ([RU 2014 3039](https://fedlex.data.admin.ch/eli/oc/2014/512)). Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+
+#### Art. 26
+
+**Metodi di riproduzione**
+
+<sup>1</sup> I metodi di riproduzione non possono essere utilizzati per colmare carenze nella capacità di riproduzione naturale di una popolazione.
+
+<sup>2</sup> Il capoverso 1 non si applica all’allevamento di pesci da ripopolamento e di pesci commestibili.[^26-1]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 27
+
+**Utilizzo di metodi di riproduzione artificiale**
+
+<sup>1</sup> Chiunque utilizza metodi di riproduzione artificiale deve essere titolare di un diploma di veterinario o dell’attestato di capacità dell’USAV[^27-1] quale tecnico di inseminazione di cui all’articolo 51 capoverso 1 lettera c dell’ordinanza del 27 giugno 1995[^27-2] sulle epizoozie (OFE).
+
+<sup>2</sup> Chiunque pratica l’inseminazione esclusivamente nel proprio effettivo deve essere titolare dell’attestato di capacità di tecnico di inseminazione operante nella propria azienda secondo l’articolo 51 capoverso 1 lettera a OFE.
+
+<sup>3</sup> Nell’allevamento di pesci commestibili e di pesci da ripopolamento le persone che utilizzano metodi di riproduzione artificiale devono avere conseguito una formazione di cui all’articolo 196.
+
+[^27-1]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^27-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+
+#### Art. 28
+
+**Allevamento di cani e gatti**
+
+<sup>1</sup> L’incrocio di cani e gatti domestici con i loro equivalenti selvatici è vietato.
+
+<sup>2</sup> Nell’allevamento di cani la selezione deve tenere conto dello scopo di utilizzo e mirare all’ottenimento di cani con un carattere equilibrato, una buona sociabilità e modesta aggressività nei confronti di persone e animali.
+
+<sup>3</sup> Un cane che presenta un comportamento oltremodo aggressivo o un’ansietà superiore alla norma deve essere escluso dall’allevamento.
+
+#### Art. 29
+
+**Disposizioni in materia di allevamento**
+
+L’USAV può emanare disposizioni di carattere tecnico sull’allevamento di determinate specie, razze, ceppi o linee d’allevamento con caratteristiche particolari.
+
+#### Art. 30
+
+**Controllo degli effettivi nell’allevamento professionale di animali da compagnia, cani da lavoro e animali selvatici**
+
+<sup>1</sup> Chiunque alleva a titolo professionale animali da compagnia, cani da lavoro o animali selvatici deve tenere un registro di controllo degli effettivi.
+
+<sup>2</sup>
+
+Nel registro occorre indicare:
+
+- a. per cani, gatti e pappagalli di grossa taglia: nome, identificazione e data di nascita di tutti gli animali da allevamento e della loro progenie; diminuzione dell’effettivo ed eventuale indicazione della causa;
+- b. per le altre specie animali: numero e provenienza degli animali da allevamento, data di nascita e, se conosciuto, numero degli animali giovani; diminuzione dell’effettivo ed eventuale indicazione della causa.
+
+### Sezione 5: Trattamento degli animali in occasione di manifestazioni
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 30a
+
+**Obblighi delle persone coinvolte**
+
+<sup>1</sup> Le manifestazioni devono essere pianificate e svolte in modo tale che gli animali coinvolti non siano esposti a rischi che superano quelli derivanti dalla natura della manifestazione e che siano evitati dolori, sofferenze, lesioni o un sovraffaticamento.
+
+<sup>2</sup>
+
+Gli organizzatori devono in particolare provvedere affinché:
+
+- a. sia previsto un elenco aggiornato nel quale figurano per ciascun partecipante l’indirizzo, le specie animali, il numero e, se prevista, l’identificazione degli animali;
+- b. lo svolgimento della manifestazione permetta agli animali fasi adeguate di riposo e recupero; e
+- c. gli animali messi alla prova in modo eccessivo dalla situazione vengano adeguatamente ricoverati e assistiti in modo opportuno.
+
+<sup>3</sup> Se gli animali vengono accuditi dagli organizzatori, questi ultimi devono designare un numero sufficientemente elevato di persone in grado di provvedere all’accudimento e un responsabile. Il responsabile deve essere una persona esperta e sempre raggiungibile durante la manifestazione.
+
+<sup>4</sup>
+
+I partecipanti devono in particolare provvedere affinché:
+
+- a. partecipino alla manifestazione soltanto animali sani e il loro benessere sia garantito;
+- b. non partecipino alla manifestazione animali allevati in base a obiettivi di allevamento non ammessi (art. 25 cpv. 2); e
+- c. gli animali giovani ancora in lattazione vengano esposti soltanto con la madre.
+
+<sup>5</sup> Se gli organizzatori apprendono che il partecipante non adempie gli obblighi di cui al capoverso 4 devono adottare i provvedimenti necessari.
+
+<sup>6</sup> L’elenco di cui al capoverso 2 lettera a deve essere presentato, su richiesta, all’autorità competente.
+
+#### Art. 30b
+
+**Superamento delle dimensioni minime per un breve periodo**
+
+<sup>1</sup> Alle manifestazioni è possibile tenere gli animali in ricoveri e in parchi che derogano lievemente alle dimensioni minime di cui agli allegati 1 e 2 per una durata massima di quattro giorni. Se giornalmente gli animali vengono tenuti in movimento o allenati in modo sufficiente è possibile tenerli in tali ricoveri e parchi per una durata massima di otto giorni.
+
+<sup>2</sup> I requisiti per gli impianti e l’illuminazione dei ricoveri e dei parchi devono comunque essere rispettate e il clima deve essere adeguato agli animali.
+
+## Capitolo 3: Animali domestici
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 31
+
+**Requisiti per i detentori di animali domestici**
+
+<sup>1</sup> Chiunque accudisce oltre 10 unità di bestiame grosso da reddito deve aver conseguito una formazione in agricoltura di cui all’articolo 194.
+
+<sup>2</sup> La condizione di cui al capoverso 1 non si applica ai detentori di animali delle regioni di montagna che necessitano di meno di 0,5 unità standard di manodopera. Essi devono soddisfare i requisiti di cui al capoverso 4.
+
+<sup>3</sup> Se la persona che accudisce gli animali in un’azienda d’estivazione non possiede la formazione di cui al capoverso 1, il gestore dell’azienda d’estivazione è responsabile del fatto che il personale addetto all’accudimento degli animali sia sorvegliato da una persona in possesso di una formazione di cui al capoverso 1.
+
+<sup>4</sup>
+
+Nelle detenzioni di piccole dimensioni, ovvero con al massimo 10 unità di bestiame grosso, la persona responsabile della detenzione e dell’accudimento deve possedere un attestato di competenza di cui all’articolo 198 per la detenzione di:[^31-1]
+
+- a. oltre 3 suini oppure oltre 10 ovini o caprini, senza contare i cuccioli dipendenti dalla madre;
+- b. oltre 5 equidi[^31-2], senza contare i puledri non svezzati;
+- c. bovini, alpaca o lama;
+- d. conigli, se si producono oltre 500 animali all’anno;
+- e. volatili domestici, se sono detenute oltre 150 galline ovaiole o si producono almeno 200 pollastre o 500 polli da ingrasso all’anno.
+
+<sup>5</sup> Chiunque detiene a titolo professionale più di 11 equidi deve aver conseguito una formazione di cui all’articolo 197.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^31-2]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 32
+
+**Decornazione e castrazione da parte dei detentori di animali**
+
+<sup>1</sup> I detentori di animali possono effettuare la decornazione e la castrazione rispettivamente solo nelle prime tre e nelle prime due settimane di vita degli animali maschi ed esclusivamente nel proprio effettivo.
+
+<sup>2</sup> I detentori di animali devono possedere un attestato di competenza riconosciuto dall’Ufficio federale dell’agricoltura e dall’USAV e possono effettuare gli interventi solo sotto la guida e la supervisione del veterinario dell’effettivo. Se essi sono in grado di eseguire autonomamente questi interventi in anestesia, il veterinario dell’effettivo comunica all’autorità cantonale competente il loro nominativo per la verifica delle competenze pratiche. Dal momento di questa comunicazione, i detentori di animali possono eseguire autonomamente tali interventi.
+
+#### Art. 33
+
+**Illuminazione**
+
+<sup>1</sup> Gli animali domestici non possono essere tenuti costantemente al buio.
+
+<sup>2</sup> I locali in cui gli animali soggiornano in prevalenza devono essere illuminati con luce naturale.
+
+<sup>3</sup> L’intensità luminosa deve essere di giorno di almeno 15 lux, eccetto nei settori in cui gli animali si riposano o si ritirano e nei nidi, purché gli animali abbiano costantemente a disposizione un altro luogo sufficientemente illuminato; l’intensità luminosa per i volatili domestici è disciplinata dall’articolo 67.
+
+<sup>4</sup> Se l’intensità luminosa nei locali esistenti il 1° settembre 2008 non può essere ottenuta con la luce naturale del giorno mediante investimenti sostenibili o lavori ragionevoli di posa di finestre o di superfici che permettano l’infiltrazione di luce, occorre utilizzare altre fonti di luce artificiale.
+
+<sup>5</sup> La fase di luce non può essere estesa artificialmente a più di 16 ore al giorno, eccetto nei primi tre giorni di vita dei pulcini, in cui può essere prolungata fino a 24 ore. In caso di impiego di programmi di illuminazione, la fase di luce per l’allevamento di galline ovaiole può essere abbreviata.
+
+<sup>6</sup> Sono vietati i programmi di illuminazione che prevedono più di una fase di oscurità nell’arco di 24 ore.
+
+#### Art. 34
+
+**Pavimenti**
+
+<sup>1</sup> I pavimenti fissi devono essere antisdrucciolevoli e sufficientemente puliti. Nel settore di riposo devono essere sufficientemente asciutti e soddisfare il fabbisogno di calore degli animali.
+
+<sup>2</sup> I pavimenti perforati devono essere adeguati alla taglia e al peso degli animali. Devono essere piani e gli elementi che li compongono devono essere inamovibili.
+
+#### Art. 35
+
+**Dispositivi per dirigere il comportamento degli animali nella stalla e nell’area d’uscita[^35-1]**
+
+<sup>1</sup> I dispositivi taglienti, acuminanti o a scarica elettrica per dirigere il comportamento degli animali nella stalla sono vietati. Le deroghe sono disciplinate nei capoversi di cui sotto.
+
+<sup>2</sup> Per i bovini sono ammesse a titolo provvisorio recinzioni elettriche fisse nella stabulazione libera per consentire lo svolgimento dei lavori di stalla.
+
+<sup>3</sup> Per i bovini non possono essere installate nuove poste munite di gioghi elettrici.[^35-2]
+
+<sup>4</sup>
+
+Per l’impiego di gioghi elettrici vigono le disposizioni seguenti:
+
+- a. sono consentiti soltanto i gioghi elettrici regolabili secondo l’altezza dei singoli animali;
+- b.[^35-3] possono essere impiegati soltanto per le vacche e per i bovini femmina di età superiore a 18 mesi;
+- c. possono essere utilizzati soltanto trasformatori adatti per i gioghi elettrici e autorizzati secondo l’articolo 7 capoverso 2 LPAn;
+- d. le poste devono essere lunghe almeno 175 cm;
+- e. la distanza tra il garrese e il giogo elettrico non può essere inferiore a 5 cm;
+- f. i trasformatori possono essere accesi al massimo due giorni a settimana;
+- g. nei giorni che precedono il parto e fino a una settimana dopo lo stesso il giogo elettrico deve essere spostato fino alla posizione superiore.
+
+<sup>5</sup> Le aree d’uscita possono essere delimitate da recinti elettrici se sono sufficientemente grandi e concepite in modo da permettere agli animali di tenersi a una distanza adeguata dal recinto e di evitarsi.[^35-4]
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^35-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^35-4]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 36
+
+**Detenzione permanente all’aperto**
+
+<sup>1</sup> Gli animali domestici non possono essere esposti a lungo e senza protezione a condizioni meteorologiche estreme. Se in tali condizioni non vengono messi in stalla, gli animali devono disporre di una protezione adeguata, naturale o artificiale, che offra un riparo a tutti gli animali nello stesso tempo e li protegga dall’umidità, dal vento o da una forte insolazione. Deve inoltre essere disponibile un settore di riposo sufficientemente asciutto.
+
+<sup>2</sup> Se nella regione d’estivazione non esiste una protezione adeguata in caso di condizioni meteorologiche estreme, occorre garantire mediante appositi provvedimenti che il bisogno di riposo e di protezione degli animali sia soddisfatto.
+
+<sup>3</sup> La quantità di foraggio del pascolo deve essere adeguata alle dimensioni del gruppo. In caso contrario, occorre mettere a disposizione altro foraggio appropriato.
+
+### Sezione 2: Bovini
+
+#### Art. 37
+
+**Foraggiamento**
+
+<sup>1</sup> I vitelli tenuti in stalle o in capannine devono avere sempre accesso all’acqua.
+
+<sup>2</sup> Gli altri bovini devono avere accesso all’acqua almeno due volte al giorno. Qualora questo non fosse possibile nella regione d’estivazione, occorre garantire mediante appositi provvedimenti che il fabbisogno di acqua degli animali sia coperto.
+
+<sup>3</sup> I vitelli devono essere foraggiati con alimenti sufficientemente ricchi di ferro.
+
+<sup>4</sup> I vitelli di età superiore a due settimane devono avere a libera disposizione fieno, mais o altro foraggio adeguato che garantisca l’apporto di fibre grezze. La paglia da sola non costituisce una forma di foraggio adeguato.
+
+<sup>5</sup> È vietato mettere la museruola ai vitelli.
+
+#### Art. 38
+
+**Detenzione di vitelli**
+
+<sup>1</sup> I vitelli di età inferiore a quattro mesi non possono essere tenuti legati.
+
+<sup>2</sup> I vitelli possono essere legati o immobilizzati in altro modo per un breve periodo.
+
+<sup>3</sup> I vitelli di età compresa fra due settimane e quattro mesi devono essere tenuti in gruppo, sempre che l’azienda conti più di un vitello. Sono eccettuati i vitelli tenuti da soli in capannine con accesso permanente a un parco all’aperto.
+
+<sup>4</sup> I vitelli tenuti da soli devono avere un contatto visivo con i conspecifici.
+
+#### Art. 39
+
+**Settore di riposo**
+
+<sup>1</sup> Il settore di riposo per vitelli fino a quattro mesi, vacche, manze in gestazione avanzata, tori riproduttori, bufali e yak deve essere provvisto di una lettiera sufficiente e adeguata.
+
+<sup>2</sup> Per gli altri bovini occorre mettere a disposizione un settore di riposo provvisto di una lettiera sufficiente e adeguata o di un materiale soffice e plastico.
+
+<sup>3</sup> I bovini da ingrasso di età superiore a cinque mesi non possono essere tenuti esclusivamente in box ad area unica con lettiera profonda. La detenzione deve garantire l’usura degli zoccoli.[^39-1]
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 40
+
+**Stabulazione fissa**
+
+<sup>1</sup> I bovini tenuti legati devono potersi muovere regolarmente all’aperto, almeno per 60 giorni nel periodo di foraggiamento verde e per 30 giorni nel periodo di foraggiamento invernale. Possono essere privati dell’uscita all’aperto per al massimo due settimane. L’uscita deve essere annotata in un apposito registro.
+
+<sup>2</sup> L’USAV può prevedere deroghe per l’uscita dei tori riproduttori.
+
+<sup>3</sup> I vitelli le cui madri o nutrici sono tenute legate possono stare nella stalla in contatto con esse solo per breve tempo durante l’abbeverata.
+
+<sup>4</sup> Per i bufali non possono essere installate nuove poste.
+
+<sup>5</sup> Gli yak non possono essere tenuti legati.
+
+#### Art. 41
+
+**Stabulazione libera**
+
+<sup>1</sup> Nelle stalle a stabulazione libera per bovini le corsie devono essere concepite in modo tale che gli animali possano evitarsi.
+
+<sup>2</sup> Nelle stalle a stabulazione libera con box di riposo il numero degli animali non deve superare quello dei box disponibili. I box di riposo devono essere provvisti di un bordo rialzato.
+
+<sup>3</sup> Gli animali partorienti devono essere ricoverati in un compartimento speciale sufficientemente ampio in cui possano muoversi liberamente. Sono eccettuati i parti che avvengono al pascolo e i casi particolari di parto inaspettato.
+
+<sup>4</sup> Per l’ingestione degli alimenti di base, ogni animale deve disporre di una posta di foraggiamento sufficientemente ampia, salvo in caso di forme di alimentazione ad libitum.
+
+#### Art. 42
+
+**Possibilità di raffrescamento per bufali e yak**
+
+In caso di caldo intenso i bufali e gli yak devono avere la possibilità di rinfrescarsi.
+
+#### Art. 43
+
+**Detenzione di yak**
+
+<sup>1</sup> Gli yak devono essere tenuti in gruppo.
+
+<sup>2</sup> Gli yak devono avere sempre accesso a un pascolo o a un parchetto all’aperto.
+
+<sup>3</sup> Per le femmine adulte e le femmine primipare in gestazione avanzata valgono le misure minime previste per le vacche con un’altezza al garrese di 125 ± 5 cm di cui all’allegato 1 tabella 1.
+
+### Sezione 3: Suini
+
+#### Art. 44
+
+**Esigenze comportamentali**
+
+I suini devono avere la possibilità di soddisfare le loro esigenze comportamentali in qualsiasi momento con paglia, foraggio grezzo o altro materiale equivalente.
+
+#### Art. 45
+
+**Foraggiamento**
+
+<sup>1</sup> I suini devono avere sempre accesso all’acqua, eccetto se sono tenuti all’aperto e abbeverati più volte al giorno.
+
+<sup>2</sup> Se sono tenuti in gruppo deve esserci un abbeveratoio ogni 12 animali in caso di foraggiamento secco oppure un abbeveratoio ogni 24 animali in caso di foraggiamento liquido.
+
+<sup>3</sup> Le scrofe riproduttrici, i suini da rimonta e i verri alimentati in modo razionato devono ricevere, oltre agli alimenti concentrati, sufficiente foraggio con un’elevata percentuale di fibre grezze.
+
+#### Art. 46
+
+**Protezione dal caldo**
+
+Nei porcili di nuova realizzazione i suini di almeno 25 kg tenuti in gruppo e i verri devono avere la possibilità di rinfrescarsi in caso di caldo intenso.
+
+#### Art. 47
+
+**Pavimenti e superfici di riposo**
+
+<sup>1</sup> I suini tenuti in gruppo e i verri riproduttori devono disporre di un settore di riposo costituito da varie superfici piuttosto ampie; solo una minima parte della superficie può essere perforata per agevolare il deflusso dei liquidi.
+
+<sup>2</sup> Le gabbie per scrofe possono essere provviste di pavimento perforato soltanto per metà della superficie nel centro di monta e soltanto nella misura di un terzo della superficie nei box di foraggiamento e di riposo.
+
+#### Art. 48
+
+**Detenzione**
+
+<sup>1</sup> I suini devono essere tenuti in gruppo. Sono eccettuati le scrofe in lattazione o nel periodo di monta e i verri che hanno raggiunto la maturità sessuale.
+
+<sup>2</sup> I suini non possono essere tenuti legati.
+
+<sup>3</sup> I verri riproduttori e i suini da ingrasso non possono essere tenuti in gabbie.
+
+<sup>4</sup> Le gabbie per scrofe possono essere utilizzate soltanto durante il periodo di monta e per un massimo di dieci giorni.
+
+#### Art. 49
+
+**Stabulazione in gruppo**
+
+<sup>1</sup> I suini tenuti in gruppo possono essere legati nelle poste di foraggiamento o nelle gabbie soltanto al momento del pasto.
+
+<sup>2</sup> In caso di alimentazione razionata e utilizzo di sistemi di distribuzione automatica degli alimenti occorre garantire che durante il foraggiamento i suini non possano essere allontanati dal trogolo.
+
+<sup>3</sup> Nei box di foraggiamento e di riposo le corsie devono essere abbastanza ampie affinché gli animali possano girarsi liberamente ed evitarsi.
+
+#### Art. 50
+
+**Box parto**
+
+<sup>1</sup> I box parto devono essere concepiti in modo che la scrofa possa girarsi liberamente. In caso di aggressività verso i lattonzoli o di problemi agli arti la scrofa può essere immobilizzata durante il parto.
+
+<sup>2</sup> Alcuni giorni prima del parto il box deve essere provvisto a sufficienza di paglia lunga o di altro materiale adeguato alla costruzione del nido e, durante l’allattamento, di una lettiera sufficiente.
+
+<sup>3</sup> Il microclima del settore di riposo dei lattonzoli deve essere adeguato alle loro esigenze di calore.
+
+#### Art. 51
+
+**Gabbie per suinetti**
+
+I suinetti svezzati non possono essere tenuti in gabbie a più piani. La parte superiore delle gabbie deve essere aperta.
+
+### Sezione 4: Ovini
+
+#### Art. 52
+
+**Detenzione**
+
+<sup>1</sup> Gli ovini non possono essere tenuti legati.
+
+<sup>2</sup> Gli ovini possono essere legati o immobilizzati in altro modo per un breve periodo.
+
+<sup>3</sup> Gli ovini devono disporre di un settore di riposo provvisto di una lettiera sufficiente e adeguata.
+
+<sup>4</sup> Gli ovini tenuti da soli devono avere un contatto visivo con i conspecifici.
+
+#### Art. 53
+
+**Foraggiamento**
+
+<sup>1</sup> Gli ovini devono avere accesso all’acqua almeno due volte al giorno. Qualora questo non fosse possibile nella regione d’estivazione, occorre garantire mediante appositi provvedimenti che il fabbisogno di acqua degli animali sia coperto.
+
+<sup>2</sup> Gli agnelli di età superiore a due settimane devono avere a libera disposizione fieno o altro foraggio grezzo adeguato. La paglia non può essere utilizzata come unica forma di foraggio grezzo.
+
+#### Art. 54
+
+**Tosatura**
+
+<sup>1</sup> Gli ovini da lana devono essere tosati almeno una volta all’anno.
+
+<sup>2</sup> Gli animali appena tosati devono essere protetti da condizioni meteorologiche estreme.
+
+### Sezione 5: Caprini
+
+#### Art. 55
+
+**Detenzione**
+
+<sup>1</sup> I caprini tenuti legati devono potersi muovere regolarmente all’aperto, almeno per 120 giorni nel periodo di foraggiamento verde e per 50 giorni nel periodo di foraggiamento invernale. Possono essere privati dell’uscita all’aperto per al massimo due settimane. L’uscita deve essere annotata in un apposito registro. Il tempo in cui i caprini sono tenuti legati al pascolo non vale come uscita.
+
+<sup>2</sup> Non possono più essere installate nuove poste per i caprini. Sono fatte salve le poste nelle stalle che vengono utilizzate solo stagionalmente nella regione d’estivazione.
+
+<sup>3</sup> I caprini devono disporre di un settore di riposo provvisto di una lettiera sufficiente e adeguata. Le nicchie di riposo sopraelevate possono essere prive di lettiera.
+
+<sup>4</sup> I caprini tenuti da soli devono avere un contatto visivo con i conspecifici.
+
+<sup>5</sup> I capretti di età inferiore a quattro mesi devono essere tenuti in gruppo, sempre che l’azienda conti più di un capretto.
+
+#### Art. 56
+
+**Foraggiamento**
+
+<sup>1</sup> I caprini devono avere accesso all’acqua almeno due volte al giorno. Qualora questo non fosse possibile nella regione d’estivazione, occorre garantire mediante appositi provvedimenti che il fabbisogno di acqua degli animali sia coperto.
+
+<sup>2</sup> I capretti di età superiore a due settimane devono avere a libera disposizione fieno o altro foraggio grezzo adeguato. La paglia non può essere utilizzata come unica forma di foraggio grezzo.
+
+### Sezione 6: Lama e alpaca
+
+#### Art. 57
+
+**Detenzione**
+
+<sup>1</sup> I lama e gli alpaca devono essere tenuti in gruppo. Sono eccettuati i maschi che hanno raggiunto la maturità sessuale. I capi tenuti da soli devono avere un contatto visivo con i conspecifici.[^57-1]
+
+<sup>2</sup> I lama e gli alpaca non possono essere tenuti legati.
+
+<sup>3</sup> I lama e gli alpaca devono disporre di un settore di riposo provvisto di una lettiera sufficiente e adeguata o isolato sufficientemente dal freddo in altro modo.
+
+<sup>4</sup> I lama e gli alpaca devono avere quotidianamente accesso per diverse ore a un parco all’aperto. Quest’ultimo deve essere provvisto di luoghi dove gli animali possono strofinarsi o rotolarsi.
+
+<sup>5</sup> Il suolo dei parchi la cui superficie non supera le dimensioni minime di cui all’allegato 1 tabella 6 deve essere provvisto di un rivestimento solido.
+
+<sup>6</sup> L’uso del filo spinato nei recinti dei parchi è vietato.
+
+[^57-1]: La correzione del 9 apr. 2015 concerne soltanto il testo francese ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+
+#### Art. 58
+
+**Foraggiamento**
+
+<sup>1</sup> I lama e gli alpaca devono avere sempre accesso all’acqua.
+
+<sup>2</sup> I lama e gli alpaca devono avere sempre accesso a foraggio grezzo o a un pascolo.
+
+### Sezione 7: Equidi
+
+#### Art. 59
+
+**Detenzione**
+
+<sup>1</sup> Gli equidi non possono essere tenuti legati. Durante il foraggiamento, la cura, il trasporto, il riposo notturno durante le passeggiate, in occasione di manifestazioni o in situazioni analoghe non si applica tale divieto e gli equidi possono essere legati per breve tempo. Gli equidi appena stabulati in un’azienda o utilizzati a scopi militari possono essere tenuti legati per al massimo tre settimane.
+
+<sup>2</sup> I settori di riposo nei ricoveri devono essere provvisti di una lettiera sufficiente, adeguata, pulita e asciutta.
+
+<sup>3</sup> Gli equidi devono avere un contatto visivo, acustico e olfattivo con un altro equide. L’autorità cantonale può rilasciare, in casi motivati, un permesso di deroga a tempo determinato per la detenzione individuale di equidi vecchi.
+
+<sup>4</sup> Dopo lo svezzamento da parte della madre gli equidi devono essere tenuti in gruppo fino al raggiungimento dei 30 mesi di età o fino all’inizio della loro utilizzazione regolare.[^59-1]
+
+<sup>5</sup> Gli equidi tenuti in gruppo devono potersi evitare o ritirare; non è necessario prevedere la possibilità di evitarsi e di ritirarsi per i puledri svezzati e gli animali giovani fino all’inizio della loro utilizzazione regolare, tuttavia al massimo fino al raggiungimento dei 30 mesi di età. Nelle scuderie non possono esserci vicoli ciechi.[^59-2]
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^59-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 60
+
+**Foraggiamento e cura**
+
+<sup>1</sup> Per soddisfare le esigenze comportamentali tipiche della specie, occorre mettere a disposizione degli equidi sufficiente foraggio grezzo, ad esempio paglia da foraggio, eccetto durante il pascolo.
+
+<sup>2</sup> Gli zoccoli devono essere curati in modo tale che l’equide possa assumere una posizione anatomicamente corretta, che non sia ostacolato nei suoi movimenti e in modo tale da prevenire malattie degli zoccoli.
+
+#### Art. 61
+
+**Movimento**
+
+<sup>1</sup> Agli equidi occorre concedere ogni giorno sufficiente movimento. Il movimento comprende l’utilizzazione e l’uscita.
+
+<sup>2</sup> L’area d’uscita deve presentare le dimensioni minime di cui nell’allegato 1 tabella 7 cifra 3. Se possibile occorre mettere è disposizione le superfici di cui nell’allegato 1 tabella 7 cifra 4.
+
+<sup>3</sup> In caso di estreme condizioni meteorologiche o del terreno, in via eccezionale è possibile far uscire gli equidi su una superficie coperta.
+
+<sup>4</sup> Agli equidi che non sono utilizzati devono essere concesse ogni giorno almeno due ore di uscita.[^61-1]
+
+<sup>5</sup> Gli equidi utilizzati devono uscire almeno due giorni a settimana, ogni volta per almeno due ore.
+
+<sup>6</sup>
+
+Nelle situazioni seguenti si può rinunciare all’uscita per al massimo quattro settimane purché in questo periodo gli equidi siano utilizzati ogni giorno:
+
+- a. in caso di equidi appena stabulati in un’azienda;
+- b. in caso di estreme condizioni meteorologiche o del terreno tra il 1° novembre e il 30 aprile;
+- c. durante l’utilizzo a scopi militari;
+- d. durante spettacoli equestri, competizioni sportive o esposizioni.
+
+<sup>7</sup> L’uscita deve essere annotata in un apposito registro.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 62
+
+[^62-1]
+
+[^62-1]: Abrogato dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 63
+
+**Divieto dell’uso di filo spinato**[^63-1]
+
+<sup>1</sup> L’uso del filo spinato nei recinti dei parchi è vietato.
+
+<sup>2</sup> L’autorità cantonale può rilasciare un permesso di deroga a tempo determinato per l’uso di filo spinato se i pascoli sono vasti e dispongono di un’ulteriore delimitazione.
+
+[^63-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+### Sezione 8: Conigli domestici
+
+#### Art. 64
+
+**Esigenze comportamentali e detenzione in gruppo degli animali giovani**
+
+<sup>1</sup> I conigli devono ricevere quotidianamente foraggio grezzo quale fieno o paglia e disporre in permanenza di oggetti da rodere.
+
+<sup>2</sup> Gli animali giovani non possono essere tenuti individualmente nelle prime otto settimane di vita.
+
+#### Art. 65
+
+**Parchi**
+
+<sup>1</sup>
+
+I parchi devono:
+
+- a.[^65-1] avere una superficie di base di cui nell’allegato 1 tabella 8 cifra 1 oppure, se la superficie di base è inferiore a tali misure, presentare una superficie sopraelevata di almeno 20 cm, sulla quale gli animali possono sdraiarsi con il corpo totalmente disteso;
+- b. avere un settore sufficientemente alto da permettere agli animali di stare seduti in posizione eretta.
+
+<sup>2</sup> I parchi devono disporre di una zona oscurata in cui gli animali possano ritirarsi.
+
+<sup>3</sup> I parchi senza lettiera sono ammessi soltanto se i locali sono climatizzati.
+
+<sup>4</sup> I parchi per le coniglie in gestazione avanzata devono disporre di spazi per la preparazione del nido. Gli animali devono poterli imbottire con paglia o altro materiale adatto. Le coniglie devono potersi allontanare dai loro piccoli in un altro compartimento oppure su una superficie sopraelevata.
+
+[^65-1]: Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+
+### Sezione 9: Volatili e piccioni domestici
+
+#### Art. 66
+
+**Attrezzature**
+
+<sup>1</sup> I volatili e i piccioni domestici devono disporre di attrezzature sufficienti per il foraggiamento e l’abbeverata.
+
+<sup>2</sup> A partire dalla terza settimana di vita, i volatili domestici devono disporre durante tutta la fase luminosa di una superficie ricoperta di lettiera adeguata di dimensioni pari ad almeno il 20 per cento della superficie calpestabile all’interno del pollaio. La lettiera deve essere collocata sul pavimento.
+
+<sup>3</sup>
+
+Occorre inoltre prevedere:
+
+- a. per le ovaiole di tutte le specie di volatili domestici e per i piccioni domestici: nidi appropriati;
+- b. per il pollame domestico: nidi individuali o collettivi appropriati e protetti, provvisti di lettiera o di un rivestimento molle, come prati sintetici o tappeti di gomma; per i nidi individuali sono ammessi anche i contenitori di materiale sintetico;
+- c. per gli animali d’allevamento, le ovaiole e il pollame domestico riproduttore nonché per le faraone e i piccioni domestici: posatoi a diverse altezze adeguati all’età e al comportamento degli animali;
+- d. per le anatre e le oche: un luogo in cui possano nuotare;
+- e.[^66-1] per i piccioni domestici: la possibilità di bagnarsi con acqua fresca almeno una volta a settimana.
+
+<sup>4</sup> Le attrezzature devono essere facilmente accessibili agli animali.
+
+[^66-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 67
+
+**Illuminazione**
+
+<sup>1</sup> Nei locali per volatili domestici l’intensità luminosa durante il giorno non può essere inferiore a 5 lux, eccetto nei settori di riposo e di ritiro e nei nidi per la deposizione delle uova.
+
+<sup>2</sup> Durante la fase di oscurità, nelle detenzioni di animali da ingrasso o di riproduttori di pollame da ingrasso può essere utilizzata un’illuminazione di orientamento con un’intensità luminosa inferiore a 1 lux.
+
+<sup>3</sup> In presenza di cannibalismo l’intensità luminosa può essere provvisoriamente ridotta al di sotto di 5 lux e si può rinunciare alla luce naturale. La riduzione dell’intensità luminosa e la rinuncia alla luce naturale devono essere comunicate prontamente all’autorità cantonale.
+
+### Sezione 10: Cani domestici
+
+#### Art. 68
+
+[^68-1]
+
+[^68-1]: Abrogato dal n. I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
+
+#### Art. 69
+
+**Impiego dei cani**
+
+<sup>1</sup>
+
+A seconda dello scopo di utilizzo si distingue tra:
+
+- a. cani da lavoro;
+- b. cani da compagnia;
+- c. cani da laboratorio.
+
+<sup>2</sup>
+
+Sono considerati cani da lavoro:
+
+- a. cani di servizio;
+- b. cani guida per non vedenti;
+- c. cani per disabili;
+- d. cani da soccorso;
+- e. cani da protezione del bestiame;
+- f. cani da conduzione del bestiame;
+- g. cani da caccia.
+
+<sup>3</sup> I cani di servizio sono i cani impiegati o destinati ad essere impiegati nell’esercito, nel corpo delle guardie di confine o nella polizia.
+
+#### Art. 70
+
+**Contatti sociali**
+
+<sup>1</sup> I cani devono avere quotidianamente sufficienti contatti con le persone e, nel limite del possibile, con altri cani.
+
+<sup>2</sup> Se sono tenuti in box o canili per oltre tre mesi, i cani devono avere un contatto visivo, acustico e olfattivo con un altro cane che si trova in un parco limitrofo. Sono eccettuati i cani che durante il giorno hanno contatto per almeno cinque ore al di fuori del parco con persone o altri cani.[^70-1]
+
+<sup>3</sup> Nel caso di cani da lavoro, tali contatti devono essere adeguati in funzione dello scopo di utilizzo degli animali.
+
+<sup>4</sup> I cuccioli possono essere separati dalla madre o dalla nutrice dall’età di 56 giorni.
+
+<sup>5</sup> Le madri o le nutrici devono potersi allontanare dai loro cuccioli.
+
+[^70-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 71
+
+**Movimento**
+
+<sup>1</sup> I cani devono essere portati fuori giornalmente e in funzione delle loro esigenze. Per quanto possibile, devono potersi muovere senza guinzaglio.
+
+<sup>2</sup> Se non possono essere portati fuori, devono avere ogni giorno la possibilità di muoversi liberamente all’aperto. Il tempo in cui i cani restano nel canile o sono legati alla catena mobile non vale come uscita.[^71-1]
+
+<sup>3</sup> I cani tenuti legati devono potersi muovere liberamente per almeno cinque ore al giorno. Nel resto del tempo devono potersi muovere in un’area di almeno 20 m<sup>2</sup> attorno alla catena mobile. L’impiego del collare a strozzo è vietato.[^71-2]
+
+[^71-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^71-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 72
+
+**Ricovero, pavimenti**
+
+<sup>1</sup> I cani tenuti all’aperto devono disporre di un ricovero e di un settore di riposo adeguati. Sono eccettuati i cani da protezione del bestiame durante la loro attività di sorveglianza.
+
+<sup>2</sup> I cani devono disporre di un giaciglio adeguato.
+
+<sup>3</sup> I cani non possono essere tenuti su pavimenti perforati.
+
+<sup>4</sup> In caso di detenzione in box o in canili, i parchi devono soddisfare i requisiti di cui all’allegato 1 tabella 10.[^72-1]
+
+<sup>4bis</sup> Nei box e nei canili ogni cane deve avere una superficie di riposo sopraelevata e la possibilità di ritirarsi. In casi motivati, in particolare se l’animale è malato o anziano, si può rinunciare a tale possibilità.[^72-2]
+
+<sup>5</sup> I canili o i box adiacenti devono essere muniti di schermi appropriati.
+
+[^72-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^72-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 73
+
+**Trattamento dei cani**
+
+<sup>1</sup> L’allevamento, l’educazione e il trattamento dei cani devono garantire la socializzazione nei confronti dei loro conspecifici e degli esseri umani, nonché l’adattamento all’ambiente. Per i cani da lavoro la socializzazione deve essere adeguata in funzione dello scopo di utilizzo.
+
+<sup>2</sup>
+
+I provvedimenti per correggere il comportamento dei cani devono essere adeguati alla situazione. È proibito:
+
+- a. punire i cani con spari;
+- b.
+
+  utilizzare:
+
+  - 1\. collari a strozzo senza arresto,
+  - 2\. collari con aculei interni,
+  - 3\. altri strumenti ausiliari di conduzione muniti di elementi sporgenti verso l’interno;
+
+- c. trattare i cani con eccessivo rigore, ad esempio colpirli con oggetti duri.[^73-1]
+
+<sup>3</sup> Per il traino possono essere utilizzati soltanto cani idonei al riguardo. Non sono idonei, in particolare, gli animali malati, quelli in gestazione avanzata o in lattazione. I cani devono essere bardati adeguatamente.
+
+[^73-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 74
+
+**Addestramento per i servizi di difesa**[^74-1]
+
+<sup>1</sup>
+
+L’addestramento come cani per i servizi di difesa è consentito per:
+
+- a. i cani di servizio;
+- b. i cani destinati alle competizioni sportive dei servizi di difesa;
+- c. i cani impiegati da imprese di sicurezza private autorizzate secondo il diritto cantonale o previsti per un tale impiego.
+
+<sup>2</sup>
+
+La persona responsabile dell’addestramento dei cani per i servizi di difesa deve poter dimostrare in qualsiasi momento che:
+
+- a. i cani sono identificati e registrati correttamente;
+- b. sono ammessi all’addestramento per i servizi di difesa soltanto i cani con un adeguato addestramento di base; e
+- c. i conduttori cinofili godono di un’ottima reputazione.
+
+<sup>3</sup> Nell’addestramento dei cani per i servizi di difesa possono essere utilizzati, in casi motivati, bastoni morbidi.
+
+<sup>4</sup> L’addestramento dei cani sportivi per i servizi di difesa può essere svolto soltanto da organizzazioni riconosciute dall’USAV. L’addestramento deve avvenire sotto la supervisione e in presenza di personale ausiliario istruito. Il regolamento per l’addestramento e l’esame deve essere approvato dall’USAV.
+
+<sup>5</sup> Il detentore del cane deve notificare l’inizio dell’addestramento dei cani per i servizi di difesa all’autorità competente secondo l’articolo 16 capoverso 1 OFE[^74-2].[^74-3]
+
+<sup>6</sup> L’autorità competente inserisce l’inizio dell’addestramento dei cani per i servizi di difesa nella banca dati secondo l’articolo 30 capoverso 2 LFE[^74-4].[^74-5]
+
+[^74-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^74-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^74-3]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^74-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^74-5]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 75
+
+**Addestramento dei cani da caccia**[^75-1]
+
+<sup>1</sup>
+
+L’impiego di animali selvatici vivi è ammesso per l’addestramento e l’esame dei cani da caccia:
+
+- a. in una tana artificiale per l’impiego nella caccia in tana;
+- b. in un recinto per la caccia al cinghiale;
+- c. nella funzione di riporto.
+
+<sup>2</sup> Il contatto diretto tra cane da caccia e animale selvatico è vietato, tranne se è indispensabile per il raggiungimento dell’obiettivo dell’addestramento o dell’esame. L’animale selvatico deve potersi ritirare in qualsiasi momento in un riparo.
+
+<sup>3</sup> Gli impianti per l’addestramento e l’esame dei cani da caccia con l’impiego di animali selvatici vivi devono essere autorizzati dall’autorità cantonale.
+
+<sup>4</sup>
+
+Una tana artificiale è autorizzata se:
+
+- a. i canali orizzontali e il fondo sono scoperchiabili in qualsiasi punto;
+- b. i movimenti della volpe e del cane possono essere sorvegliati grazie ad appositi dispositivi; e
+- c. il sistema delle serrande è concepito in modo che possa essere escluso un contatto diretto tra cane e volpe.
+
+<sup>5</sup>
+
+Un recinto per la caccia al cinghiale è autorizzato se:
+
+- a. è sufficientemente grande e concepito in modo da permettere ai cinghiali di ritirarsi in un riparo naturale e, se necessario, di essere tenuti isolati;
+- b. i cinghiali sono impiegati soltanto in gruppo; e
+- c. i cani da caccia sono addestrati ed esaminati singolarmente.
+
+<sup>6</sup> Qualsiasi manifestazione nella quale i cani da caccia sono addestrati o esaminati con l’impiego di animali selvatici vivi deve essere notificata all’autorità cantonale. Quest’ultima provvede alla sorveglianza della manifestazione. L’autorità cantonale può limitare il numero degli impianti e delle manifestazioni.
+
+[^75-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 76
+
+**Mezzi ausiliari e apparecchi**
+
+<sup>1</sup> Non possono essere utilizzati mezzi ausiliari che infliggono all’animale ferite o forti dolori oppure che lo irritano notevolmente o gli incutono paura.
+
+<sup>2</sup> È vietato l’impiego di dispositivi a scarica elettrica e di dispositivi che emettono segnali acustici molto sgradevoli per il cane o che agiscono con sostanze chimiche.[^76-1]
+
+<sup>3</sup> Su richiesta, l’autorità cantonale può autorizzare le persone che hanno le capacità richieste a utilizzare eccezionalmente, a scopi terapeutici, dispositivi a scarica elettrica o dispositivi che emettono segnali acustici molto sgradevoli per il cane. Essa verifica che la persona abbia le capacità richieste. Dopo aver consultato i Cantoni, il Dipartimento federale dell’interno (DFI) stabilisce il contenuto e la forma della formazione e dell’esame.[^76-2]
+
+<sup>4</sup>
+
+Chiunque impiega apparecchi soggetti ad autorizzazione deve documentarlo e presentare all’autorità cantonale, al termine di ogni anno civile, un elenco di tutti gli impieghi degli apparecchi. Vanno menzionati:
+
+- a. la data di ogni impiego;
+- b. il motivo dell’impiego;
+- c. il mandante;
+- d.[^76-3] la segnalazione e l’identificazione del cane;
+- e. il risultato dell’impiego dell’apparecchio.
+
+<sup>5</sup> I mezzi ausiliari che vengono collocati sui denti del cane per evitare che morda devono rispettare la conformazione anatomica e permettergli una respirazione agevole.
+
+<sup>6</sup> L’impiego di mezzi per impedire agli animali di emettere versi ed esprimere dolore è vietato.[^76-4]
+
+[^76-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
+[^76-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^76-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^76-4]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 76a
+
+**Offerta di cani**[^76a-1]
+
+<sup>1</sup>
+
+Chiunque offre pubblicamente cani deve fornire per iscritto le informazioni seguenti:
+
+- a. il nome, il cognome e l’indirizzo dell’offerente;
+- b. il Paese di provenienza del cane;
+- c. il Paese di allevamento.
+
+<sup>2</sup> I gestori delle piattaforme Internet e gli editori dei quotidiani provvedono alla completezza dei dati.
+
+[^76a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 77
+
+**Responsabilità dei detentori o degli addestratori di cani**[^77-1]
+
+Chiunque detiene o addestra un cane deve adottare provvedimenti affinché esso non costituisca un pericolo per le persone e gli animali. La responsabilità per i cani da protezione del bestiame di cui all’articolo 10<sup>quater</sup> dell’ordinanza del 29 febbraio 1988[^77-2] sulla caccia è valutata tenendo conto del loro impiego a scopo di difesa contro animali estranei.
+
+[^77-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^77-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+
+#### Art. 78
+
+**Notifica di incidenti**
+
+<sup>1</sup>
+
+I veterinari, i medici, i responsabili di pensioni o rifugi per animali, gli addestratori di cani e le autorità doganali sono tenuti a notificare all’autorità cantonale competente i casi in cui un cane:
+
+- a. ha ferito gravemente una persona o un animale; oppure
+- b. ha mostrato un comportamento oltremodo aggressivo.
+
+<sup>2</sup> I Cantoni possono estendere l’obbligo di notifica ad altre cerchie di persone.
+
+#### Art. 79
+
+**Verifica e misure**
+
+<sup>1</sup> Una volta ricevuta la notifica, il servizio cantonale competente procede alla verifica dei fatti. A tal fine può avvalersi di esperti.
+
+<sup>2</sup> ...[^79-1]
+
+<sup>3</sup> Se dalla verifica dei fatti emerge un disturbo comportamentale del cane, in particolare un comportamento oltremodo aggressivo, il servizio cantonale competente dispone le misure necessarie.[^79-2]
+
+<sup>4</sup> Il servizio cantonale competente inserisce le notifiche e le misure ordinate nel sistema dʼinformazione per i dati del servizio veterinario pubblico raccolti nell’ambito dellʼesecuzione (ASAN) di cui allʼordinanza del 6 giugno 2014[^79-3] concernente i sistemi dʼinformazione per il servizio veterinario pubblico.[^79-4]
+
+[^79-1]: Abrogato dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^79-2]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^79-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^79-4]: Introdotto dall’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+
+### Sezione 11: Gatti
+
+#### Art. 80
+
+[^80-1]
+
+<sup>1</sup> I gatti tenuti da soli devono avere un contatto quotidiano con le persone o un contatto visivo con i conspecifici.
+
+<sup>2</sup> I parchi devono essere conformi ai requisiti di cui all’allegato 1 tabella 11.
+
+<sup>3</sup> I gatti possono essere tenuti in gabbie di detenzione individuale di cui all’allegato 1 tabella 11 numero 2 per al massimo tre settimane.
+
+<sup>4</sup> I gatti tenuti in tali gabbie devono potersi muovere al di fuori della gabbia almeno cinque giorni a settimana. Devono almeno disporre di un’unità di detenzione di cui all’allegato 1 tabella 11 numero 1.
+
+<sup>5</sup> I gatti maschi non possono essere tenuti in gabbie di cui al capoverso 3 nell’intervallo tra un accoppiamento e l’altro.
+
+[^80-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 12: Autorizzazione di sistemi e impianti di stabulazione
+
+#### Art. 81
+
+**Obbligo di autorizzazione**
+
+<sup>1</sup> Per i sistemi e gli impianti di stabulazione fabbricati in serie destinati a bovini, ovini, caprini, suini, conigli e volatili domestici è necessaria un’autorizzazione secondo l’articolo 7 capoverso 2 LPAn.
+
+<sup>2</sup>
+
+Soggiacciono all’obbligo di autorizzazione gli impianti di stabulazione seguenti:
+
+- a. le attrezzature di foraggiamento e abbeverata;
+- b. i rivestimenti dei pavimenti e i graticolati per le deiezioni;
+- c. le recinzioni e i dispositivi atti a dirigere gli animali;
+- d. i dispositivi d’attacco;
+- e. i nidi;
+- f. i posatoi per i volatili domestici;
+- g. gli altri impianti con i quali gli animali sono spesso in contatto.
+
+<sup>3</sup> I sistemi di stabulazione devono essere autorizzati nel loro insieme, anche se i singoli componenti sono già stati approvati.
+
+<sup>4</sup> Sono autorizzati i sistemi e gli impianti di stabulazione testati e approvati all’estero che soddisfano i requisiti della legislazione svizzera in materia di protezione degli animali.
+
+#### Art. 82
+
+**Procedura di rilascio dell’autorizzazione**
+
+<sup>1</sup> Il fabbricante, l’importatore o il venditore presenta domanda all’USAV allegando i documenti necessari per la valutazione.
+
+<sup>2</sup> L’eventuale verifica funzionale è eseguita dall’USAV o da un altro ufficio apposito. Il richiedente è tenuto a partecipare ai costi. L’USAV gli presenta un preventivo delle spese e può richiedere il pagamento di un acconto.
+
+<sup>3</sup> Il richiedente deve mettere a disposizione a titolo gratuito i sistemi e gli impianti di stabulazione destinati alla verifica.
+
+<sup>4</sup> L’USAV rilascia l’autorizzazione. Può limitarne la durata e vincolarla a condizioni e oneri.
+
+<sup>5</sup> L’autorizzazione può prevedere deroghe ai requisiti minimi di cui nell’allegato 1, purché i sistemi e gli impianti di stabulazione siano conformi a una detenzione adeguata dell’animale.
+
+<sup>6</sup> L’autorizzazione può essere revocata se la detenzione non risulta più rispettosa degli animali in seguito all’acquisizione di nuove conoscenze oppure se nella pratica emergono gravi carenze.
+
+#### Art. 83
+
+**Commissione per gli impianti di stabulazione**
+
+<sup>1</sup> Il Consiglio federale nomina una Commissione consultiva. Essa è composta di 15 membri al massimo e consta segnatamente di rappresentanti della Confederazione e dei Cantoni, come pure di scienziati e di specialisti in questioni concernenti la protezione e la detenzione degli animali nonché la costruzione di stalle.[^83-1]
+
+<sup>2</sup> Il Consiglio federale ne designa il presidente. Per il resto la Commissione si costituisce da sé e redige il suo regolamento interno. L’USAV ne gestisce la segreteria.[^83-2]
+
+<sup>3</sup> L’USAV può far capo alla Commissione per tutte le questioni relative all’autorizzazione di sistemi e di impianti di stabulazione. La Commissione si pronuncia sulle domande e sui risultati delle verifiche funzionali che l’USAV le sottopone.
+
+[^83-1]: Nuovo testo giusta il n. I 6.4 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^83-2]: Nuovo testo giusta il n. I 6.4 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+
+#### Art. 84
+
+**Comunicazione e pubblicazione**
+
+<sup>1</sup> Il fabbricante, l’importatore o il venditore deve comunicare per scritto al detentore di animali le condizioni e gli oneri connessi all’autorizzazione al più tardi all’atto di accettazione dell’ordine.
+
+<sup>2</sup> L’USAV tiene un elenco delle domande ancora in sospeso e delle autorizzazioni rilasciate nonché delle condizioni e degli oneri ad esse connessi.
+
+<sup>3</sup> L’USAV può pubblicare i risultati di studi scientifici condotti nell’ambito della procedura di autorizzazione.
+
+## Capitolo 4: Animali selvatici
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 85
+
+**Requisiti per le persone che detengono o accudiscono animali selvatici**
+
+<sup>1</sup> Nelle detenzioni di animali selvatici soggette ad autorizzazione gli animali devono essere accuditi sotto la responsabilità di un guardiano di animali.
+
+<sup>2</sup> Nelle detenzioni di animali selvatici in cui esiste solo un gruppo di animali con esigenze di detenzione simili è sufficiente che la persona responsabile dell’accudimento abbia conseguito una formazione di cui all’articolo 197.
+
+<sup>3</sup>
+
+Nelle detenzioni private di animali selvatici in cui gli animali sono accuditi esclusivamente dal titolare dell’autorizzazione è sufficiente un attestato di competenza se si tratta di animali delle specie seguenti:
+
+- a. furetti, nasue, procioni, wallaby di Bennet, wallaby Parma e animali degli ordini dei chirotteri, insettivori, tenrecidi, tupaidi e roditori, qualora siano soggetti all’obbligo di autorizzazione;
+- b. tutti gli uccelli soggetti ad autorizzazione, eccetto struzioniformi, pinguini, gruiformi, e tutti i rapaci;
+- c. tutti i rettili soggetti ad autorizzazione, eccetto le testuggini giganti, le tartarughe marine e i coccodrilli;
+- d. i pesci, qualora siano soggetti ad autorizzazione.
+
+#### Art. 86
+
+**Ibridi**
+
+Sono equiparati agli animali selvatici:
+
+- a. la progenie ottenuta dall’incrocio fra animali selvatici e animali domestici e dal loro reincrocio per ottenere la forma selvatica;
+- b. la progenie ottenuta dall’incrocio con animali di cui alla lettera a;
+- c. la progenie di prima generazione ottenuta dall’incrocio tra discendenti di cui alla lettera a e animali domestici.
+
+#### Art. 87
+
+**Divieto di offrire cibo agli animali**
+
+Nelle detenzioni di animali selvatici accessibili al pubblico, ai visitatori deve essere vietato offrire cibo agli animali in modo incontrollato.
+
+#### Art. 88
+
+**Cattura di animali selvatici e immissione in un nuovo parco**
+
+<sup>1</sup> Le sostanze di ausilio alla cattura di animali selvatici devono essere utilizzate rispettando le istruzioni del veterinario.
+
+<sup>2</sup> L’impiego di sostanze narcotiche senza l’indicazione del veterinario è consentito, fatte salve le disposizioni legislative sugli agenti terapeutici, su pesci non destinati al consumo immediato per ottenere prodotti della riproduzione, per la marchiatura o altra identificazione nonché per lo stordimento e l’uccisione di pesci da acquario. I pesci devono rimanere in osservazione fino alla cessazione degli effetti di tali sostanze.
+
+<sup>3</sup> Per gli animali che potrebbero manifestare comportamenti di fuga quando vengono immessi in un nuovo parco, la delimitazione di quest’ultimo deve essere ben riconoscibile dall’animale. A un gruppo esistente possono essere aggregati altri animali soltanto se sono stati previamente abituati al nuovo ambiente e in seguito tenuti in osservazione.
+
+### Sezione 2: Detenzione privata e professionale di animali selvatici
+
+#### Art. 89
+
+**Detenzione privata di animali selvatici**
+
+La detenzione da parte di privati degli animali selvatici seguenti è soggetta ad autorizzazione:
+
+- a.[^89-1] mammiferi, eccettuati i piccoli roditori e gli insettivori indigeni;
+- b. tutti i marsupiali;
+- c.[^89-2] ornitorinchi, echidna istrici, armadilli, formichieri, istrici, bradipi, pangolini;
+- d. becco a scarpa, kiwi, struzioniformi, pinguini, pellicani, cormorani, aninghe, trampolieri, fenicotteri, gru, limicoli; pappagalli di grossa taglia (ara e cacatua); tutti i rapaci, serpentario, caprimulgiformi, sterne; colibrì, trogoni, bucerotidi, nettarinie, paradiseidi; fetonti, strolaghe, podicipedidi, alcidi, sule, fregate; otarde grandi; apodidi;
+- e. pesci che, in libertà, raggiungono una lunghezza superiore a 1 metro, eccettuate le specie indigene menzionate nella legislazione sulla pesca; squali e razze;
+- f.[^89-3] tartarughe marine (*Cheloniidae*, *Dermochelyidae*), testuggini giganti delle Galapagos e delle Seychelles (*Chelonoidis nigra*, *Dipsochelys* spp.), testuggini dagli speroni (*Geochelone* [*Centrochelys*] *sulcata*), tartarughe alligatore (*Chelydridae*), tartarughe collo di serpente (*Chelidae*), tartarughe Pelomedusidae (*Pelomedusidae*), tartarughe dal guscio molle di grossa taglia (*Amyda cartilaginea*, *Aspideretes nigricans*, *Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*), podocnemididi di grossa taglia (*Podocnemis expansa*), geoemididi asiatiche di grossa taglia (*Batagur borneensis*, *Orlitia borneensis*); tutti i coccodrilli (*Crocodylia*); tuatara (*Sphenodon* spp.); iguane terrestri delle Galapagos (*Conolophus* spp.), iguane marine (*Amblyrhynchus cristatus*); iguane, tegu e varani che in età adulta raggiungono una lunghezza totale di oltre un metro, *Varanus mitchelli*, *Varanus semiremex*; elodermi (*Heloderma*); tutti i camaleonti (*Chamaeleonidae*); idrosauri (*Hydrosaurus* spp.); draghi volanti (*Draco* spp.), diavoli spinosi (*Moloch horridus*); serpenti giganti che in età adulta raggiungono una lunghezza totale di oltre tre metri, eccettuato il *Boa constrictor*;
+- g. rana golia, salamandre giganti;
+- h.[^89-4] serpenti dotati di un apparato velenifero e in grado di usare il veleno (serpenti velenosi), eccettuati i serpenti velenosi non pericolosi definiti dall’USAV in un’ordinanza.
+
+[^89-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^89-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^89-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^89-4]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 90
+
+**Detenzione professionale di animali selvatici**
+
+<sup>1</sup> Le detenzioni professionali di animali selvatici sottostanno all’obbligo di autorizzazione.
+
+<sup>2</sup>
+
+Per detenzioni professionali di animali selvatici si intendono:
+
+- a. i giardini zoologici, i circhi, i parchi safari, i parchi di animali selvatici, i piccoli zoo, i delfinari, le voliere, gli acquari e i terrari d’esposizione, le esposizioni permanenti di animali e impianti analoghi che possono essere visitati a pagamento o gratuitamente, ma che sono gestiti in connessione con esercizi a scopo lucrativo quali ristoranti, negozi o infrastrutture per il tempo libero;
+- b. le aziende in cui gli animali selvatici sono tenuti a titolo professionale per trattamenti medici, per la produzione di uova, carne, pellicce o per scopi analoghi;
+- c. le aziende in cui gli animali selvatici sono allevati per la caccia o la pesca.
+
+<sup>3</sup>
+
+Non sono considerate detenzioni professionali di animali selvatici:
+
+- a.[^90-1] i vivai per pesci commestibili di acqua dolce utilizzati nella ristorazione;
+- b. gli acquari privati utilizzati per scopi ornamentali, anche se gestiti in connessione con esercizi a scopo lucrativo;
+- c. le detenzioni di quaglie della specie *Coturnix japonica*, se sono tenuti al massimo 50 animali adulti.[^90-2]
+
+[^90-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^90-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 91
+
+**Ricorso a specialisti**
+
+Nelle detenzioni professionali di animali selvatici accessibili al pubblico:
+
+- a. un veterinario specializzato in malattie degli animali selvatici sorveglia regolarmente gli animali e prende provvedimenti profilattici;
+- b. uno specialista con conoscenza della biologia dei giardini zoologici consiglia la direzione dell’azienda in merito alla detenzione degli animali, alla loro cura, alla pianificazione degli effettivi nonché alla costruzione e alla concezione dei parchi prima dell’acquisto di nuove specie animali.
+
+#### Art. 92
+
+**Autorizzazione con perizia**[^92-1]
+
+<sup>1</sup>
+
+Per le specie animali seguenti, l’autorità cantonale può rilasciare l’autorizzazione soltanto se la perizia di uno specialista indipendente e riconosciuto comprova che i parchi e le attrezzature previste consentono una detenzione adeguata degli animali:
+
+- a. tutti i cetacei *(Cetacea)*, sireni, lontre, otarie, foche e trichechi;
+- b. tutti i primati, eccettuati gli uistitì;
+- c. speoto, crisocione, licaone, protele, ienidi; tutti gli orsi, eccettuati i procioni, cercoletti, bassarischi e i nasua; lontra gigante, taira, ghiottone e moffetta; felini di grossa taglia quali pantera nebulosa, giaguaro, leopardo, irbis, puma, leone, tigre, ghepardo; oritteropo; tutti gli elefanti; tutti gli equidi selvatici; tapiri; tutti i rinoceronti, tutti i cinghiali, eccettuata la specie *Sus scrofa*; ippopotamo pigmeo, ippopotamo; tragulidi; okapi, giraffe; tutti i bovidi, eccettuati i camosci *(Rupicapra rupicapra)*, lo stambecco delle Alpi *(Capra ibex)*, il muflone, l’ammotrago, gli altri ovini e caprini selvatici;
+- d. tutti i marsupiali, eccettuati i canguri di piccola taglia, ratti canguri, uallabie e tilogale;
+- e. ornitorinco, echidna istrice; armadilli; formichieri; bradipi, ateruri, istrici;
+- f. becco a scarpa, kiwi; tutti i pinguini; strolaghe, podicipedidi; procellariformi; fetonti, sule, fregate; serpentario, otarde grandi; sterne, eccettuati la sterna inca e i nidiaci delle specie indigene; alcidi; apodidi, eccettuati i nidiaci delle specie indigene;
+- g. tutti gli squali e le razze;
+- h.[^92-2] tartarughe marine (*Cheloniidae, Dermochelyidae*), testuggini giganti delle Galapagos e delle Seychelles (*Chelonoidis nigra*, *Dipsochelys* spp.), testuggini dagli speroni (*Geochelone [Centrochelys] sulcata*); tutti i coccodrilli (*Crocodylia*); tuatara (*Sphenodon* spp.); iguane terrestri delle Galapagos (*Conolophus* spp.), iguane marine (*Amblyrhynchus cristatus*), iguane cornute (*Cyclura* spp.); camaleonti, eccettuato il *Chamaeleo calyptratus*; draghi volanti (*Draco* spp.), diavoli spinosi (*Moloch horridus*); serpenti marini (*Hydrophiinae*);
+- i. rana golia; salamandre giganti.
+
+<sup>2</sup> Il richiedente e l’autorità cantonale competente designano di comune accordo lo specialista. Per l’autorizzazione di parchi di cui all’articolo 95 capoverso 2 non è necessaria la perizia.
+
+[^92-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^92-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 93
+
+**Registro di controllo dell’effettivo degli animali**
+
+<sup>1</sup> Le detenzioni di animali selvatici, nonché le detenzioni e gli allevamenti di animali da preda devono tenere un registro di controllo dell’effettivo degli animali se sono soggette ad autorizzazione.[^93-1]
+
+<sup>2</sup>
+
+Tranne nel caso delle aziende di piscicoltura, il registro di controllo dell’effettivo degli animali contiene, a seconda della specie, dati riguardanti:
+
+- a. l’aumento dell’effettivo (data; nascita o provenienza; numero);
+- b.[^93-2] la diminuzione dell’effettivo (data; nome e indirizzo dell’acquirente o decesso; causa del decesso, se conosciuta; modalità di uccisione; numero).
+
+<sup>3</sup> Il registro di controllo dell’effettivo delle aziende di acquacoltura deve essere tenuto secondo l’articolo 22 capoversi 1 e 2 OFE[^93-3].[^93-4]
+
+[^93-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^93-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^93-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^93-4]: Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+
+### Sezione 3: Autorizzazioni
+
+#### Art. 94
+
+**Procedura di autorizzazione**
+
+<sup>1</sup> Per la domanda è necessario utilizzare il modello di formulario dell’USAV di cui all’articolo 209*a* capoverso 2.[^94-1]
+
+<sup>2</sup> La domanda di autorizzazione deve essere presentata all’autorità del Cantone in cui è prevista la detenzione di animali.
+
+<sup>3</sup> Per i circhi e le esposizioni itineranti è competente il Cantone in cui si trovano la sede invernale o gli impianti stabili per gli animali. Se essi sono situati all’estero, l’autorizzazione è rilasciata dal Cantone in cui il circo o l’esposizione itinerante soggiorna per la prima volta, se necessario tenendo conto del permesso d’importazione dell’USAV.
+
+[^94-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 95
+
+**Condizioni per il rilascio dell’autorizzazione**
+
+<sup>1</sup>
+
+L’autorizzazione può essere rilasciata soltanto se:
+
+- a. i locali, i parchi e gli impianti rispondono alle esigenze della specie e del numero degli animali, sono conformi allo scopo dell’azienda e non consentono la fuga degli animali;
+- b.[^95-1] nelle aziende di cui all’articolo 90 capoverso 2 lettera b, il numero di animali per unità di superficie è adeguato all’offerta di alimenti e all’utilizzo del suolo;
+- c. se necessario, gli animali sono protetti, grazie a provvedimenti edili o di altra natura, da condizioni meteorologiche avverse, da disturbi dovuti ai visitatori, dal rumore eccessivo e dai gas di scarico;
+- d.[^95-2] il personale soddisfa i requisiti di cui all’articolo 85;
+- e. la sorveglianza veterinaria regolare può essere comprovata; sono eccettuate le esposizioni itineranti di breve durata, le piccole detenzioni private e l’allevamento di pesci da ripopolamento;
+- f. per le esposizioni e le manifestazioni temporanee, esiste la prova che, dopo l’esposizione, gli animali possono essere collocati in un altro luogo adeguato.
+
+<sup>2</sup>
+
+È possibile derogare lievemente ai requisiti minimi di cui all’allegato 2:
+
+- a. durante una tournée: nei parchi in cui si trovano animali che con frequenza e regolarità sono addestrati nel maneggio, allenati o presentati in pubblico, nel caso in cui le dimensioni limitate di alcuni luoghi non consentano di soddisfare tali requisiti;
+- b. nei parchi in cui gli animali sono tenuti solo per un breve periodo.[^95-3]
+
+[^95-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
+[^95-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^95-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 96
+
+**Autorizzazione**
+
+<sup>1</sup>
+
+La durata massima dell’autorizzazione è di:
+
+- a. due anni per le detenzioni private;
+- b. dieci anni per le detenzioni professionali.
+
+<sup>2</sup> L’autorizzazione può essere vincolata a condizioni e oneri.
+
+### Sezione 4: Pesci e decapodi
+
+#### Art. 97
+
+**Requisiti per le persone che si occupano di pesci e decapodi**[^97-1]
+
+<sup>1</sup> Chiunque esercita la pesca professionale deve aver conseguito una formazione di cui all’articolo 196.
+
+<sup>2</sup> Chiunque alleva o detiene a titolo professionale pesci commestibili, pesci da ripopolamento o decapodi deve aver conseguito una formazione di cui all’articolo 197.
+
+<sup>3</sup> Chiunque cattura, marchia, detiene, alleva o uccide a titolo non professionale pesci commestibili, pesci da ripopolamento o decapodi deve fornire un attestato di competenza secondo l’articolo 5*a* dell’ordinanza del 24 novembre 1993[^97-2] concernente la legge federale sulla pesca o secondo l’articolo 198 della presente ordinanza. È consentito catturare e uccidere pesci senza tale attestato soltanto se, per la pesca nelle acque pubbliche nel Cantone in questione, non è richiesta alcuna licenza o è richiesta soltanto una licenza di durata non superiore a un mese.
+
+[^97-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^97-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+
+#### Art. 98
+
+**Detenzione**
+
+<sup>1</sup> I parchi in cui sono tenuti o immessi temporaneamente pesci o decapodi, compresi quelli utilizzati per la pesca professionale, e i recipienti per il trasporto devono avere una qualità dell’acqua adeguata alle esigenze della specie in questione.
+
+<sup>2</sup> Per le specie di pesci di cui all’allegato 2 tabella 7, in caso di detenzione e allevamento professionale, la qualità dell’acqua deve soddisfare i requisiti minimi prescritti.
+
+<sup>3</sup> In caso di detenzione temporanea di pesci catturati occorre cambiare regolarmente l’acqua affinché la sua qualità corrisponda a quella delle acque di provenienza.
+
+<sup>4</sup> I pesci non possono essere esposti a scosse eccessive per un lungo periodo.
+
+#### Art. 99
+
+**Trattamento**
+
+<sup>1</sup> La manipolazione dei pesci e dei decapodi deve limitarsi al minimo indispensabile per non sottoporli a inutile stress.
+
+<sup>2</sup> La cernita dei pesci commestibili, dei pesci da ripopolamento e dei decapodi, nonché l’ottenimento di prodotti della riproduzione devono essere effettuati da persone che dispongono delle necessarie conoscenze e mediante attrezzature e metodi appropriati.
+
+<sup>3</sup> Durante la cernita, i pesci e i decapodi devono restare in ambiente acquatico o quanto meno essere sufficientemente umidi.
+
+#### Art. 100
+
+**Cattura**
+
+<sup>1</sup> La cattura dei pesci e dei decapodi deve essere effettuata risparmiando loro ogni sofferenza evitabile. I metodi e gli strumenti di cattura non devono causare inutili lesioni agli animali.
+
+<sup>2</sup> I pesci destinati al consumo devono essere uccisi immediatamente. Gli articoli 3 e 5*b* dell’ordinanza del 24 novembre 1993[^100-1] concernente la legge federale sulla pesca disciplinano le deroghe.
+
+<sup>3</sup> Chiunque gestisce impianti in cui sono immessi pesci che hanno raggiunto la lunghezza di cattura richiesta per la pesca con la lenza deve fornire assistenza ai pescatori e informarli sulle pertinenti disposizioni in materia di protezione degli animali.
+
+<sup>4</sup> I pesci che hanno raggiunto la lunghezza di cattura richiesta e sono immessi in acque ferme all’unico scopo di essere ricatturati possono essere pescati soltanto dopo un termine di attesa di almeno un giorno.
+
+[^100-1]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+
+## Capitolo 5: Trattamento professionale degli animali
+
+### Sezione 1: Accudimento, cura, allevamento e detenzione degli animali
+
+[^chap5-sec1-1]
+
+[^chap5-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 101
+
+**Obbligo di autorizzazione**
+
+Necessita di un’autorizzazione cantonale chiunque:[^101-1]
+
+- a. gestisce una pensione o un rifugio per animali con più di cinque posti;
+- b. offre a titolo professionale servizi di accudimento per più di cinque animali;
+- c.
+
+  cede a terzi più del seguente numero di animali all’anno:
+
+  - 1\. venti cani o tre figliate di cuccioli di cani,
+  - 2\. venti gatti o cinque figliate di cuccioli di gatti,
+  - 3\. 100 conigli, conigli nani o porcellini d’India,
+  - 4\. 300 topi, ratti, criceti o gerbilli,
+  - 5\. 1000 pesci ornamentali,
+  - 6\. 100 rettili,
+  - 7\. i discendenti di oltre venticinque coppie di uccelli di dimensioni pari al massimo a quelle di un pappagallo calopsitta, di oltre dieci coppie di uccelli di dimensioni maggiori di quelle dei pappagalli calopsitta oppure di oltre cinque coppie di ara o di cacatua;
+
+- d.[^101-2] ...
+- e. effettua a titolo professionale la cura degli unghioni dei bovini o degli zoccoli degli equidi senza aver conseguito una formazione di cui all’articolo 192 capoverso 1 lettera a.
+
+[^101-1]: La correzione del 9 apr. 2015 concerne soltanto il testo francese ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+[^101-2]: Abrogata dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 101a
+
+**Condizioni per il rilascio dell’autorizzazione**[^101a-1]
+
+L’autorizzazione può essere rilasciata solo se:
+
+- a. i locali, i parchi e gli impianti sono adeguati alle specie e al numero degli animali, sono conformi allo scopo dell’attività e non consentono la fuga degli animali;
+- b. l’attività è organizzata in maniera confacente e documentata adeguatamente;
+- c. il personale soddisfa i requisiti di cui all’articolo 102.
+
+[^101a-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 101b
+
+**Domanda e autorizzazione**
+
+<sup>1</sup> Per la domanda è necessario utilizzare il modello di formulario dell’USAV di cui all’articolo 209*a* capoverso 2 e capoverso 3.[^101b-1]
+
+<sup>2</sup> La durata massima dell’autorizzazione è di dieci anni.
+
+<sup>3</sup>
+
+L’autorizzazione può essere vincolata a condizioni e oneri per quanto riguarda:
+
+- a. il numero degli animali e il volume dell’attività;
+- b. la detenzione, l’alimentazione, la cura, la sorveglianza e il trasporto degli animali;
+- c. il trattamento degli animali;
+- d.[^101b-2] i requisiti e le responsabilità del personale;
+- e. il registro di controllo dell’effettivo degli animali e la documentazione dell’attività.
+
+[^101b-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101b-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 101c
+
+**Autorizzazione per la cura a titolo professionale degli unghioni o degli zoccoli**[^101c-1]
+
+<sup>1</sup> L’autorizzazione per la cura a titolo professionale degli unghioni dei bovini o degli zoccoli degli equidi è valida per tutta la Svizzera.
+
+<sup>2</sup> La domanda deve essere presentata all’autorità del Cantone di domicilio del richiedente.
+
+[^101c-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 102
+
+**Requisiti in materia di personale per l’accudimento, la cura, l’allevamento e la detenzione degli animali**
+
+<sup>1</sup> Nelle pensioni o nei rifugi per animali e nelle altre forme di accudimento professionale gli animali devono essere accuditi sotto la responsabilità di un guardiano di animali.[^102-1]
+
+<sup>2</sup>
+
+Nei seguenti casi è sufficiente che la persona responsabile dell’accudimento abbia conseguito una formazione di cui all’articolo 197:
+
+- a. nelle pensioni o nei rifugi con al massimo 19 posti;
+- b.[^102-2] nelle altre forme di accudimento professionale di al massimo 19 animali;
+- [tab] c. e d.[^102-3]
+
+<sup>3</sup> Nelle pensioni o nei rifugi con al massimo 5 posti o nelle altre forme di accudimento professionale di al massimo 5 animali è sufficiente che la persona responsabile dell’accudimento abbia conseguito la formazione richiesta per la detenzione delle specie animali di cui si occupa.
+
+<sup>4</sup> Chi cede animali secondo l’articolo 101 lettera c deve aver conseguito una formazione di cui all’articolo 197.[^102-4]
+
+<sup>5</sup> Chi effettua a titolo professionale la cura degli unghioni dei bovini o degli zoccoli degli equidi deve aver conseguito una formazione di cui all’articolo 192 capoverso 1 lettera a o b.
+
+[^102-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-2]: La correzione del 6 feb. 2018 concerne soltanto il testo francese ([RU 2018 547](https://fedlex.data.admin.ch/eli/oc/2018/68)).
+[^102-3]: Abrogate dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-4]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 2: Commerico e pubblicità con animali
+
+#### Art. 103
+
+**Requisiti per il personale che accudisce animali nel settore commerciale e pubblicitario**
+
+Per il commercio o la pubblicità con animali, la persona responsabile dell’accudimento deve:[^103-1]
+
+- a. nelle aziende che esercitano il commercio di animali a titolo professionale: essere un guardiano di animali;
+- b.[^103-2] nel commercio specializzato di animali: essere un guardiano di animali o aver conseguito l’attestato federale di capacità secondo l’articolo 38 della legge federale del 13 dicembre 2002[^103-3] sulla formazione professionale (LFPr) in impiegato del commercio al dettaglio con indirizzo Commercio specializzato di animali, integrato da una formazione di cui all’articolo 197;
+- c.[^103-4] nelle aziende che esercitano il commercio di bestiame secondo l’articolo 20 capoverso 2 LFE[^103-5]: essere titolare della patente di commerciante del bestiame;
+- d.[^103-6] per le manifestazioni commerciali e per la pubblicità: essere titolare di un attestato di competenza;
+- e.[^103-7] nelle aziende che commerciano esclusivamente pesci commestibili, pesci da esca, pesci da ripopolamento o decapodi: aver conseguito una formazione di cui all’articolo 197.
+
+[^103-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^103-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^103-4]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^103-6]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-7]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 104
+
+**Obbligo di autorizzazione**
+
+<sup>1</sup> Le richieste di autorizzazione per il commercio o la pubblicità con animali devono essere presentate all’autorità cantonale sul modello di formulario dell’USAV.
+
+<sup>2</sup> Per il commercio di bestiame, la patente di commerciante di bestiame vale come autorizzazione (art. 34 OFE[^104-1]).[^104-2]
+
+<sup>3</sup> Per le borse di settore, i mercatini e le esposizioni in cui si commercia con gli animali è necessaria un’autorizzazione secondo l’articolo 13 LPAn. Essa deve essere richiesta dall’organizzatore.
+
+<sup>4</sup> L’autorità cantonale decide se è necessario presentare ulteriore documentazione.
+
+[^104-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^104-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 105
+
+**Condizioni per il rilascio dell’autorizzazione**
+
+<sup>1</sup>
+
+L’autorizzazione secondo l’articolo 13 LPAn può essere rilasciata solo se:
+
+- a. i locali, i parchi e gli impianti sono adeguati alle specie e al numero degli animali nonché allo scopo;
+- b. sono soddisfatti i requisiti concernenti il personale addetto alla cura degli animali;
+- c. la persona responsabile del commercio ha il domicilio o la sede sociale in Svizzera;
+- d.[^105-1] nel caso della pubblicità, è garantito che non provoca dolori o lesioni agli animali e non è lesiva in altro modo della loro dignità e che le condizioni di trasporto sono rispettate.
+
+<sup>2</sup> Le persone responsabili dell’accudimento degli animali devono aver conseguito una formazione di cui all’articolo 103.
+
+[^105-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 106
+
+**Autorizzazione**
+
+<sup>1</sup> L’autorizzazione è rilasciata alla persona responsabile del commercio o della pubblicità.
+
+<sup>2</sup> Essa è rilasciata per la durata prevista dell’attività, tuttavia al massimo per dieci anni.
+
+<sup>3</sup>
+
+L’autorizzazione può essere vincolata a condizioni e oneri per quanto riguarda:
+
+- a. le specie, il numero degli animali e il volume del commercio;
+- b. la detenzione, l’alimentazione, la cura, la sorveglianza, la protezione e l’uccisione degli animali, il modo di trattarli nonché le manipolazioni su di essi;
+- c. l’ulteriore impiego degli animali dopo la scadenza dell’autorizzazione;
+- d. i requisiti del personale addetto alla cura degli animali e le sue responsabilità;
+- e. il registro di controllo dell’effettivo degli animali.
+
+<sup>4</sup>
+
+L’autorizzazione può prevedere deroghe per quanto concerne:
+
+- a. i requisiti riguardanti la detenzione;
+- b. i requisiti per il personale addetto alla cura degli animali.
+
+<sup>5</sup> Per le borse di settore, i mercatini e le esposizioni in cui si commerciano animali, la persona responsabile deve tenere un elenco nel quale figurino l’indirizzo, le specie animali e il numero di animali di ogni espositore. L’elenco deve essere esibito, su richiesta, all’autorità.
+
+#### Art. 107
+
+**Notifica di mutamenti importanti**
+
+Mutamenti importanti concernenti il numero o la specie degli animali, il tipo di impiego, i locali, i parchi e gli impianti o i requisiti riguardanti il personale addetto alla cura degli animali devono essere notificati preventivamente all’autorità cantonale. Quest’ultima decide sulla necessità di una nuova autorizzazione.
+
+#### Art. 108
+
+**Registro di controllo dell’effettivo degli animali**[^108-1]
+
+Le aziende che commerciano animali devono tenere un registro di controllo per tutte le specie di animali selvatici di cui agli articoli 89 e 92 capoverso 1 nonché per conigli, cani e gatti domestici; a seconda delle specie deve contenere dati relativi all’aumento e alla diminuzione dell’effettivo. È necessario indicare la data, il numero, la causa dell’aumento dell’effettivo, la provenienza e la causa della diminuzione dell’effettivo.
+
+[^108-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 109
+
+**Autorizzazione di detenzione per il cessionario**[^109-1]
+
+Gli animali per la cui detenzione è necessaria un’autorizzazione possono essere ceduti ad altre persone solo se queste sono titolari di un’autorizzazione corrispondente.
+
+[^109-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 110
+
+**Limite d’età per il cessionario**
+
+Gli animali non possono essere venduti a persone di età inferiore a 16 anni senza l’esplicito consenso dei detentori dell’autorità parentale.
+
+#### Art. 111
+
+**Obbligo d’informazione**[^111-1]
+
+<sup>1</sup> Chiunque vende a titolo professionale animali da compagnia o animali selvatici è tenuto a dare per scritto informazioni sulle esigenze dell’animale, sull’accudimento e sulla detenzione adeguata per la specie animale, nonché sulle basi giuridiche corrispondenti. Non è necessario dare informazioni alle persone titolari di un’autorizzazione di cui all’articolo 13 LPAn oppure all’articolo 89 o 90 della presente ordinanza.
+
+<sup>2</sup> Chiunque vende a titolo professionale parchi per animali da compagnia o animali selvatici è tenuto a dare per scritto informazioni sulla detenzione adeguata per la specie animale nonché sulle basi giuridiche corrispondenti.[^111-2]
+
+[^111-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^111-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+## Capitolo 6: Sperimentazione animale, animali geneticamente modificati e animali con mutazioni patologiche
+
+### Sezione 1: Campo d’applicazione, deroghe consentite
+
+#### Art. 112
+
+**Campo d’applicazione**
+
+Le disposizioni del presente capitolo si applicano:
+
+- a. ai vertebrati;
+- b. ai decapodi e ai cefalopodi;
+- c. ai mammiferi, agli uccelli e ai rettili a partire dall’ultimo terzo dello stadio di sviluppo che precede la nascita o la schiusa delle uova;
+- d. agli stadi larvali di pesci e anfibi che si nutrono autonomamente.
+
+#### Art. 113
+
+**Deroghe alle disposizioni della presente ordinanza**
+
+Per gli esperimenti sugli animali sono ammesse deroghe alle disposizioni della presente ordinanza in materia di detenzione di animali, trattamento, allevamento, requisiti di spazio, trasporto, provenienza e marchiatura qualora esse siano necessarie per il raggiungimento dell’obiettivo sperimentale e siano state autorizzate. Esse devono essere motivate in ogni singolo caso e la loro durata dev’essere limitata il più possibile.
+
+### Sezione 2: Detenzione, allevamento e commercio di animali da laboratorio
+
+#### Art. 114
+
+**Direzione del centro di detenzione di animali da laboratorio**
+
+<sup>1</sup> Per ogni centro di detenzione di animali da laboratorio deve essere designato un direttore. Dev’essere garantita la sua supplenza.
+
+<sup>2</sup>
+
+Il direttore:
+
+- a. decide sull’assegnazione del personale, sull’infrastruttura e su altre risorse;
+- b. è responsabile della protezione degli animali nella detenzione, nell’allevamento e nel commercio di animali;
+- c. è responsabile della distribuzione del lavoro, dell’istruzione dei guardiani di animali e del restante personale, del controllo dei lavori, dell’organizzazione della sorveglianza specializzata e dell’accudimento degli animali da laboratorio nonché dei lavori di documentazione necessari;
+- d. è responsabile delle notifiche di cui agli articoli 126 e 145 capoverso 1;
+- e. garantisce che le lacune riscontrate nel centro di detenzione siano segnalate immediatamente al responsabile d’esperimento.
+
+#### Art. 115
+
+**Requisiti per i direttori dei centri di detenzione di animali da laboratorio**
+
+<sup>1</sup>
+
+Il direttore del centro di detenzione di animali da laboratorio deve aver conseguito una formazione di cui all’articolo 197 in scienza degli animali da laboratorio. Sono eccettuati:
+
+- a. le persone con una formazione di responsabile d’esperimento;
+- b.[^115-1] nei centri di detenzione di animali da laboratorio senza linee o ceppi con mutazioni patologiche e senza altri animali che necessitano di un accudimento e di una cura particolari: i guardiani di animali e le persone che dimostrano di possedere le conoscenze e le capacità richieste per accudire gli animali in modo adeguato.
+
+<sup>2</sup> L’autorità cantonale ordina una formazione supplementare se le dimensioni del centro di detenzione, la specie animale, il modello animale o altre ragioni presuppongono conoscenze e capacità particolari.[^115-2]
+
+[^115-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^115-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 116
+
+**Requisiti per il personale che accudisce gli animali da laboratorio**
+
+<sup>1</sup> Nei centri di detenzione di animali da laboratorio la persona che accudisce gli animali deve essere un guardiano di animali.
+
+<sup>2</sup> Il numero dei guardiani di animali deve consentire di regolamentare le supplenze, in particolare per la sorveglianza di animali geneticamente modificati secondo l’articolo 3 lettera d dell’ordinanza del 9 maggio 2012[^116-1] sull’impiego confinato, di animali con mutazioni patologiche e per i lavori di documentazione prescritti.[^116-2]
+
+[^116-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^116-2]: Nuovo testo giusta l’all. 5 n. 2 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+
+#### Art. 117
+
+**Requisiti per i locali e i parchi**
+
+<sup>1</sup> I locali e i parchi in cui sono tenuti animali da laboratorio devono essere illuminati dalla luce naturale oppure da sorgenti luminose artificiali di spettro equivalente. L’intensità dell’illuminazione nella zona in cui si trovano gli animali, le fasi di luce e di oscurità nonché il cambiamento d’illuminazione devono essere adeguati alle esigenze degli animali. Nel caso di sorgenti luminose artificiali non deve essere percepibile alcun tremolio fastidioso.
+
+<sup>2</sup> La temperatura, l’umidità dell’aria, l’aerazione e la qualità dell’acqua devono essere adeguabili alle esigenze degli animali.
+
+<sup>3</sup> I locali e i parchi devono soddisfare i requisiti di cui all’allegato 3 e devono consentire di verificare lo stato generale di tutti gli animali senza arrecare loro notevole disturbo. Per le specie animali non elencate nell’allegato 3 sono applicabili i requisiti minimi di cui agli allegati 1 e 2.[^117-1]
+
+<sup>4</sup>
+
+I centri di detenzione di animali da laboratorio devono avere o poter utilizzare sufficienti locali e impianti affinché:
+
+- a. gli animali malati e gli animali con uno stato igienico incerto possano essere isolati;
+- b. la conservazione di foraggio e di altri materiali quali i prodotti di pulizia e disinfezione nonché la loro eliminazione possano essere separati in modo appropriato dal centro di detenzione degli animali.
+
+[^117-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 118
+
+**Provenienza degli animali da laboratorio**
+
+<sup>1</sup> Gli animali destinati alla sperimentazione devono provenire da un centro autorizzato di detenzione di animali da laboratorio o da un’analoga infrastruttura situata all’estero.
+
+<sup>2</sup> Gli animali domestici possono essere utilizzati nella sperimentazione anche se non provengono da centri autorizzati di detenzione di animali da laboratorio o da analoghe infrastrutture situate all’estero. Sono eccettuati i cani, i gatti e i conigli.
+
+<sup>3</sup> Gli animali selvatici possono essere catturati per essere utilizzati nella sperimentazione solo se appartengono a una specie difficile da allevare in numero sufficiente.
+
+<sup>4</sup> I primati possono essere utilizzati nella sperimentazione animale solo se provenienti da un allevamento.
+
+#### Art. 119
+
+**Trattamento degli animali da laboratorio**
+
+<sup>1</sup> Gli animali da laboratorio devono essere sufficientemente abituati, prima dell’inizio di un esperimento, alle condizioni locali di detenzione e al contatto con l’uomo, in particolare alle manipolazioni necessarie nell’esperimento.
+
+<sup>2</sup> Gli animali da laboratorio delle specie sociali devono essere tenuti in gruppo con conspecifici. La detenzione individuale di animali incompatibili è consentita in casi eccezionali per una durata limitata.
+
+<sup>3</sup> Specie animali diverse possono essere tenute nello stesso locale solo se ciò non compromette il loro benessere.
+
+<sup>4</sup> Nell’occuparsi degli animali da laboratorio si devono evitare rumori eccessivi o improvvisi.
+
+#### Art. 120
+
+**Marchiatura di animali da laboratorio**
+
+<sup>1</sup> Per la marchiatura degli animali da laboratorio deve essere utilizzato il metodo meno traumatico per l’animale.
+
+<sup>2</sup> I primati, i gatti e i cani destinati alla sperimentazione devono essere marchiati in modo indelebile, generalmente prima dello svezzamento.
+
+#### Art. 121
+
+**Sorveglianza della salute**
+
+Nei centri di detenzione di animali da laboratorio si devono sorvegliare la salute, il benessere e lo stato igienico degli animali.
+
+#### Art. 122
+
+**Autorizzazione per i centri di detenzione**
+
+<sup>1</sup> Chiunque detiene, alleva o commercia animali da laboratorio necessita di un’autorizzazione cantonale.
+
+<sup>2</sup> Per la domanda è necessario utilizzare il modello di formulario dell’USAV di cui all’articolo 209*a* capoverso 2.[^122-1]
+
+<sup>3</sup>
+
+I centri di detenzione di animali da laboratorio sono autorizzati se sono adempiuti i requisiti concernenti:
+
+- a. la detenzione e il trattamento degli animali, i locali e i parchi, la provenienza e la marchiatura;
+- b. la sorveglianza della salute;
+- c. il personale;
+- d. la tenuta di un adeguato registro di controllo dell’effettivo degli animali;
+
+<sup>4</sup> L’autorizzazione è rilasciata nominalmente al direttore del centro di detenzione di animali da laboratorio. La sua validità è limitata a dieci anni al massimo.
+
+<sup>5</sup>
+
+L’autorizzazione può essere vincolata a condizioni e oneri riguardanti:
+
+- a. le specie, il numero degli animali e il volume del commercio;
+- b. la detenzione, l’alimentazione, la cura e la sorveglianza degli animali;
+- c. la provenienza degli animali e la sorveglianza del loro stato di salute;
+- d. i requisiti e le responsabilità del personale;
+- e. il registro di controllo dell’effettivo degli animali;
+- f. gli animali geneticamente modificati e le linee o i ceppi con mutazioni patologiche.
+
+<sup>6</sup> Non necessitano dell’autorizzazione i centri esistenti di detenzione di animali domestici, di animali selvatici e di animali da compagnia in cui sono tenuti saltuariamente o temporaneamente animali utilizzati a fini sperimentali.
+
+[^122-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 3: Detenzione, allevamento e commercio di animali geneticamente modificati e di animali con mutazioni patologiche
+
+#### Art. 123
+
+**Animali geneticamente modificati**[^123-1]
+
+<sup>1</sup> I discendenti di linee o ceppi con animali geneticamente modificati sono considerati animali geneticamente modificati, salvo se è dimostrato che non presentano la modificazione genetica del genitore.
+
+<sup>2</sup> Gli animali il cui materiale genetico nelle cellule germinali è stato modificato con tecniche di ricombinazione degli acidi nucleici sono soggetti alle stesse disposizioni previste per gli animali geneticamente modificati, anche se non sono state inserite sequenze di acidi nucleici ottenute al di fuori della cellula.
+
+[^123-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 124
+
+**Rilevamento dell’aggravio**
+
+<sup>1</sup> Lo stato di salute degli animali geneticamente modificati e degli animali con mutazioni patologiche deve essere verificato con regolarità e con una frequenza tale da poter registrare tempestivamente eventuali aggravi secondo l’articolo 3 LPAn o disturbi del loro stato generale e valutarli in modo adeguato (rilevamento dell’aggravio). Il rilevamento dell’aggravio deve essere documentato e figurare nel registro di controllo dell’effettivo.
+
+<sup>2</sup> L’USAV definisce i requisiti per il rilevamento dell’aggravio di animali geneticamente modificati e di animali con mutazioni patologiche. Il rilevamento dell’aggravio deve essere differenziato secondo la specie animale, l’età degli animali, le conoscenze relative alla linea o al ceppo e la portata dell’utilizzo previsto.
+
+<sup>3</sup> In caso di cessione a terzi di animali geneticamente modificati o di animali con mutazioni patologiche deve essere consegnato un riassunto della documentazione concernente il rilevamento dell’aggravio.
+
+<sup>4</sup> Qualora nell’acquisto di animali geneticamente modificati o di animali con mutazioni patologiche si riscontrino lacune nel rilevamento dell’aggravio, esse vanno colmate immediatamente.
+
+#### Art. 125
+
+**Misure che riducono l’aggravio**
+
+<sup>1</sup> Mediante l’adeguamento delle condizioni di detenzione, delle cure e di altre misure opportune quali la riduzione della durata di vita, la limitazione del benessere degli animali con mutazioni patologiche deve essere contenuta il più possibile.
+
+<sup>2</sup> Per quanto riguarda le linee o i ceppi con mutazioni patologiche, il numero degli animali allevati o detenuti deve essere giustificato dal numero di animali necessari per gli esperimenti autorizzati. Gli animali in sovrannumero devono essere abbattuti se il loro benessere risulta limitato.
+
+#### Art. 126
+
+**Obbligo di notifica di linee e ceppi con mutazioni patologiche**
+
+<sup>1</sup> Se dal rilevamento dell’aggravio risulta che una linea o un ceppo ha dato origine ad animali con mutazioni patologiche, il fatto deve essere notificato all’autorità cantonale.
+
+<sup>2</sup>
+
+La notifica deve riportare informazioni sugli aspetti seguenti:
+
+- a. caratterizzazione della linea o del ceppo;
+- b. documentazione di rilevamento dell’aggravio;
+- c. possibili misure di riduzione dell’aggravio;
+- d. utilità della linea o del ceppo per fini di ricerca, terapeutici o diagnostici sull’uomo o sull’animale.
+
+#### Art. 127
+
+**Decisione sull’ammissibilità di linee e ceppi con mutazioni patologiche**
+
+<sup>1</sup> Per valutare se l’aggravio di una linea o di un ceppo sia ammissibile occorre ponderarne la gravità rispetto alla sua utilità secondo l’articolo 137. In particolare bisogna considerare se gli animali, oltre alle limitazioni del proprio benessere legate alla mutazione genetica, subiranno successivamente anche ulteriori limitazioni riconducibili all’esperimento.
+
+<sup>2</sup> L’autorità trasmette la notifica di linee o ceppi con mutazioni patologiche alla commissione cantonale per gli esperimenti sugli animali e, in base a una proposta della commissione, decide se e in qual misura la linea o il ceppo possono essere mantenuti.
+
+<sup>3</sup> La decisione è rilasciata nominalmente al direttore del centro di detenzione di animali da laboratorio e può essere vincolata a condizioni e oneri.
+
+<sup>4</sup> Le condizioni e gli oneri disposti devono essere integrati nella documentazione relativa all’aggravio.
+
+### Sezione 4: Esecuzione di esperimenti
+
+#### Art. 128
+
+**Requisiti relativi a istituti e laboratori**
+
+<sup>1</sup>
+
+Gli istituti e i laboratori di sperimentazione animale devono disporre di sufficienti locali, impianti e apparecchi affinché gli esperimenti possano essere eseguiti in modo appropriato secondo le conoscenze tecniche e scientifiche più recenti. L’adeguatezza delle infrastrutture deve essere dimostrata in particolare per:
+
+- a. la detenzione degli animali;
+- b. l’esecuzione di anestesie e di interventi chirurgici;
+- c. il prelievo di campioni e la loro analisi;
+- d. l’accudimento, la cura e la sorveglianza particolare degli animali dopo interventi che compromettono il loro benessere;
+- e. l’esecuzione contemporanea di più esperimenti.
+
+<sup>2</sup> Se gli animali non sono tenuti nell’istituto o nel laboratorio, il centro di detenzione deve trovarsi nelle vicinanze.
+
+#### Art. 129
+
+**Designazione delle persone responsabili**[^129-1]
+
+<sup>1</sup> In ciascun istituto o laboratorio deve essere designato un incaricato della protezione degli animali; deve essere garantita la supplenza.
+
+<sup>2</sup> In ciascun istituto o laboratorio deve essere designato un capounità per gli esperimenti sugli animali.
+
+<sup>3</sup> Per ogni esperimento sugli animali deve essere designato un responsabile d’esperimento; deve essere garantita la supplenza. Se vengono designati più responsabili d’esperimento, la loro sfera di competenze deve essere definita in modo inequivocabile.
+
+[^129-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 129a
+
+**Competenze dell’incaricato della protezione degli animali**[^129a-1]
+
+L’incaricato della protezione degli animali garantisce che:
+
+- a. le domande di autorizzazione per gli esperimenti sugli animali siano complete;
+- b. nelle domande di autorizzazione siano in particolare esplicitati sufficientemente i dati per la valutazione dell’indispensabilità secondo l’articolo 137.
+
+[^129a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 129b
+
+**Requisiti per l’incaricato della protezione degli animali**[^129b-1]
+
+<sup>1</sup> L’incaricato della protezione degli animali deve aver conseguito un titolo universitario che fornisca conoscenze di base in anatomia, fisiologia, zoologia, etologia, genetica e biologia molecolare nonché igiene e biostatistica e aver seguito una formazione concernente la direzione di esperimenti su animali di cui all’articolo 197.
+
+<sup>2</sup> I presupposti per essere ammessi alla formazione di cui all’articolo 197 sono il conseguimento della formazione come «persona che esegue esperimenti» nonché un’esperienza lavorativa triennale nel campo della sperimentazione animale.
+
+[^129b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 130
+
+**Competenze del capounità**
+
+Il capounità è responsabile:
+
+- a. dell’assegnazione del personale, dell’infrastruttura e delle altre risorse per i vari esperimenti sugli animali;
+- b. del rispetto delle prescrizioni della legislazione sulla protezione degli animali e delle condizioni e degli oneri legati all’autorizzazione;
+- c. delle notifiche di cui all’articolo 145 capoverso 2;
+- d. di promuovere la formazione e il perfezionamento del personale che si occupa di esperimenti sugli animali.
+
+#### Art. 131
+
+**Competenze del responsabile d’esperimento**
+
+Il responsabile d’esperimento:
+
+- a. si assume la responsabilità, dal punto di vista scientifico e della protezione degli animali, per la pianificazione e una corretta esecuzione dell’esperimento;
+- b. è responsabile dell’assegnazione del lavoro, dell’istruzione delle persone che eseguono esperimenti, del controllo dei lavori, dell’organizzazione dell’assistenza adeguata agli animali da laboratorio, della loro sorveglianza e dello svolgimento dei necessari lavori di documentazione;
+- c. stabilisce chi si assume la responsabilità del centro di detenzione per tutta la durata dell’esperimento e ne disciplina i particolari in una convenzione stipulata con il direttore del centro di detenzione.
+
+#### Art. 132
+
+**Requisiti per il responsabile d’esperimento**
+
+<sup>1</sup> Il responsabile d’esperimento deve soddisfare i requisiti di cui all’articolo 129*b*.[^132-1]
+
+<sup>2</sup> Per dirigere esperimenti su animali di specie poco utilizzate o con metodi sperimentali non standardizzati è necessario fornire un’attestazione di ulteriori conoscenze specifiche.
+
+[^132-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 133
+
+**Competenze della persona che esegue esperimenti**
+
+<sup>1</sup> La persona che esegue esperimenti effettua sugli animali gli interventi e le misure ad essa demandati nell’ambito dell’esperimento.
+
+<sup>2</sup>
+
+Essa:
+
+- a. si assume la responsabilità del benessere degli animali durante l’esecuzione di detti interventi e misure;
+- b. conosce il contenuto dell’autorizzazione per eseguire esperimenti sugli animali.
+
+#### Art. 134
+
+**Requisiti per le persone che eseguono esperimenti**
+
+<sup>1</sup> Le persone che eseguono esperimenti devono aver conseguito una formazione di cui all’articolo 197 nell’esecuzione di esperimenti. [^134-1]
+
+<sup>2</sup> Per eseguire esperimenti su animali di specie poco utilizzate o con metodi sperimentali non standardizzati è necessario fornire attestazione di ulteriori conoscenze specifiche.
+
+<sup>3</sup> Il numero delle persone che eseguono esperimenti è dettato dal numero e dall’onere degli interventi e delle misure necessarie e deve consentire di regolamentare le supplenze, in particolare per la sorveglianza di animali in esperimento e per i lavori di documentazione prescritti.
+
+[^134-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 135
+
+**Esecuzione degli esperimenti**
+
+<sup>1</sup> Prima dell’inizio dell’esperimento occorre definire gli eventi o i sintomi al verificarsi dei quali l’animale deve essere escluso dall’esperimento ed eventualmente abbattuto (criteri d’interruzione).
+
+<sup>2</sup> Gli animali devono essere abituati accuratamente alle condizioni sperimentali. Se un animale è intimorito dall’esperimento, occorre prendere provvedimenti adeguati per ridurre al minimo l’ansia e lo stress corrispondenti.
+
+<sup>3</sup> Negli esperimenti possono essere utilizzati unicamente gli animali il cui stato di salute sia stato sufficientemente esaminato in modo da escludere ulteriori limitazioni al benessere degli animali estranee all’obiettivo dell’esperimento.
+
+<sup>4</sup> Il benessere degli animali deve essere verificato e valutato durante l’esperimento con una frequenza tale da registrare tempestivamente dolori, sofferenze, lesioni e ansietà nonché disturbi del loro stato generale. Se tali sintomi si verificano, gli animali devono essere curati e trattati conformemente allo stato più recente delle conoscenze; non appena l’obiettivo dell’esperimento lo consente o i criteri d’interruzione sono soddisfatti, gli animali devono essere esclusi dalla sperimentazione ed eventualmente abbattuti.
+
+<sup>5</sup> Gli interventi o altre misure che provocano all’animale dolori non lievi possono essere eseguiti, sempre che l’obiettivo dell’esperimento lo consenta, soltanto in anestesia locale o generale e con una sufficiente terapia analgesica successiva.
+
+<sup>6</sup> Gli interventi o le misure difficili da eseguire a livello tecnico possono essere effettuati soltanto da persone appositamente istruite.
+
+<sup>7</sup> Se dopo un intervento o una misura i dolori, le sofferenze, le lesioni o l’ansietà perdurano, l’animale deve essere abbattuto al più tardi quando i criteri d’interruzione sono soddisfatti.
+
+<sup>8</sup> Se un esperimento ha causato a un animale dolori, sofferenze, lesioni o ansietà di grado elevato oppure di grado medio ma per una durata media o lunga, occorre assicurare mediante misure adeguate che lo stesso animale non venga più utilizzato per tali esperimenti.
+
+<sup>9</sup> Nei locali di detenzione non possono essere uccisi animali e non possono essere eseguiti interventi o misure che provochino dolori, sofferenze, lesioni o ansietà. L’USAV può stabilire deroghe per le misure o gli interventi che non compromettono il benessere degli animali che si trovano nello stesso locale, in particolare la marchiatura, le somministrazioni e i prelievi di campioni.[^135-1]
+
+[^135-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 136
+
+**Esperimenti che compromettono il benessere degli animali**
+
+<sup>1</sup>
+
+Sono considerati esperimenti che compromettono il benessere degli animali ai sensi del l’articolo 17 LPAn gli esperimenti nel cui ambito:
+
+- a. è compromesso il benessere degli animali;
+- b. sono eseguiti interventi chirurgici sugli animali;
+- c. sono prodotti gravi effetti fisici sugli animali;
+- d. sono somministrate o applicate all’animale sostanze o miscele di sostanze di cui non si conosce l’effetto sugli animali o per le quali non si può escludere un effetto dannoso;
+- e. sono prodotti effetti patologici sugli animali;
+- f. gli animali sono immunizzati o infettati con microrganismi o parassiti oppure è loro somministrato materiale cellulare;
+- g. gli animali sono sottoposti a un’anestesia generale;
+- h. gli animali sono limitati nella libertà di movimento o sono tenuti in isolamento ripetutamente o per lunghi periodi;
+- i. gli animali non sono tenuti conformemente alle prescrizioni di detenzione e di trattamento;
+- j. si lavora su animali di linee o ceppi il cui benessere è stato compromesso;
+- k. si impiegano animali di linee o ceppi nel cui allevamento una quota superiore all’80 per cento risulta essere senza le caratteristiche desiderate oppure il cui allevamento è possibile soltanto mediante fecondazione *in vitro*.
+
+<sup>2</sup> Per valutare l’opportunità di eseguire un esperimento, l’USAV fissa dei livelli di sofferenza differenziati a seconda della gravità.
+
+#### Art. 137
+
+**Criteri per la valutazione dell’indispensabilità di esperimenti che compromettono il benessere degli animali**
+
+<sup>1</sup>
+
+Il richiedente deve dimostrare che l’obiettivo dell’esperimento:
+
+- a. è connesso con il mantenimento o la protezione della vita e con la salute dell’uomo e dell’animale;
+- b. promette l’ottenimento di nuove conoscenze su processi vitali fondamentali; oppure
+- c. serve a proteggere l’ambiente naturale.
+
+<sup>2</sup> Il richiedente deve inoltre dimostrare che l’obiettivo dell’esperimento non può essere conseguito attraverso metodi non implicanti la sperimentazione animale e idonei secondo le conoscenze più recenti.
+
+<sup>3</sup> Tenuto conto dello stato più recente delle conoscenze, il metodo deve essere idoneo per conseguire l’obiettivo dell’esperimento.
+
+<sup>4</sup>
+
+Un esperimento sugli animali e le sue singole parti devono essere pianificati in modo tale che:
+
+- a. venga impiegato il minor numero possibile di animali e si persegua la riduzione al minimo della loro sofferenza;
+- b. si applichino i procedimenti più opportuni per valutare i risultati dell’esperimento e procedure statistiche corrispondenti allo stato più recente delle conoscenze; e
+- c. le singole parti siano scaglionate in modo mirato.
+
+#### Art. 138
+
+**Obiettivi inammissibili per esperimenti che compromettono il benessere degli animali**
+
+<sup>1</sup>
+
+Sono inammissibili gli esperimenti che compromettono il benessere degli animali:
+
+- a. ai fini dell’omologazione di sostanze e prodotti in un altro Stato, se i requisiti di omologazione non sono conformi alle regolamentazioni internazionali o, rispetto a quelle applicabili in Svizzera, richiedono un numero considerevolmente superiore di esperimenti o di animali per un esperimento o richiedono esperimenti che implicano un aggravio considerevolmente maggiore per gli animali;
+- b. ai fini del controllo di prodotti, se le conoscenze auspicate possono essere ottenute analizzando i dati sui loro elementi o il potenziale di rischio è sufficientemente noto;
+- c. ai fini dell’insegnamento nelle scuole universitarie e della formazione di specialisti, se esiste un’altra possibilità per spiegare in modo comprensibile fenomeni vitali o per fornire nozioni necessarie all’esercizio della professione o all’esecuzione di esperimenti sugli animali;
+- d. a scopi militari.
+
+<sup>2</sup> La produzione di animali geneticamente modificati è ammessa soltanto per gli scopi di cui all’articolo 9 della legge del 21 marzo 2003[^138-1] sull’ingegneria genetica.[^138-2]
+
+[^138-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^138-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+### Sezione 5: Autorizzazione di esperimenti sugli animali
+
+#### Art. 139
+
+**Procedura di autorizzazione**
+
+<sup>1</sup> La domanda di autorizzazione deve essere presentata mediante il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali. In casi motivati l’autorità cantonale può ammettere domande in forma cartacea sul modello di formulario dell’USAV.
+
+<sup>1bis</sup>
+
+Per ogni esperimento sugli animali la domanda deve contenere:
+
+- a. il titolo e l’oggetto dell’esperimento;
+- b. il settore in cui è svolto;
+- c. lo scopo dell’esperimento secondo la classificazione riconosciuta sul piano internazionale;
+- d. il numero previsto di animali impiegati per ogni specie; e
+- e. il grado di aggravio previsto.[^139-1]
+
+<sup>2</sup> Se un esperimento concerne più Cantoni in seguito allo spostamento del luogo in cui sono custoditi gli animali durante l’esperimento o in caso di ricerche sul campo, la domanda deve essere presentata all’autorità del Cantone in cui si svolge la parte preponderante dell’esperimento. Quest’ultima informa tutte le altre autorità cantonali coinvolte e tiene conto della loro valutazione.
+
+<sup>3</sup> L’autorità cantonale esamina la domanda e decide innanzitutto se si tratta di un esperimento che compromette il benessere degli animali.
+
+<sup>4</sup> L’autorità cantonale trasmette le domande di esperimenti che compromettono il benessere degli animali alla commissione cantonale per gli esperimenti sugli animali e decide sulla scorta della proposta della commissione. Se non accoglie la proposta, motiva la sua decisione nei confronti della commissione.
+
+[^139-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 140
+
+**Condizioni per il rilascio dell’autorizzazione per esperimenti sugli animali**
+
+<sup>1</sup>
+
+Un esperimento che compromette il benessere degli animali è autorizzato se:
+
+- a. con l’esperimento non si supera la misura indispensabile;
+- b. dalla ponderazione degli interessi di cui all’articolo 19 capoverso 4 LPAn risulta che l’esperimento è ammissibile;
+- c. non è perseguito un obiettivo inammissibile;
+- d. sono fissati criteri di interruzione appropriati;
+- e. nell’utilizzare animali con mutazioni patologiche sono rispettati i requisiti relativi all’allevamento e alla produzione;
+- f. i requisiti riguardanti la detenzione e il trattamento degli animali, i locali e i parchi, la provenienza e la marchiatura sono soddisfatti;
+- g. i requisiti posti agli istituti e ai laboratori per praticare la sperimentazione sono soddisfatti;
+- h. i requisiti inerenti al personale sono soddisfatti;
+- i. sono disciplinate le responsabilità per la detenzione degli animali prima, durante e dopo l’esperimento.
+
+<sup>2</sup> Per gli esperimenti che non compromettono il benessere degli animali, le condizioni di autorizzazione sono costituite dalle lettere e–i.
+
+#### Art. 141
+
+**Contenuto dell’autorizzazione per esperimenti sugli animali**
+
+<sup>1</sup> L’autorizzazione è rilasciata nominalmente al capounità.
+
+<sup>2</sup> L’autorizzazione è valida per esperimenti o serie di esperimenti eseguiti allo scopo di trovare risposte a domande precise oppure con finalità ben determinate. La sua validità è limitata a tre anni al massimo.
+
+<sup>3</sup>
+
+Le necessarie deroghe alle seguenti disposizioni devono essere indicate nell’autorizzazione:
+
+- a. i requisiti riguardanti la detenzione e il trattamento degli animali, i locali e i parchi, la provenienza e la marchiatura;
+- b. i requisiti di istituti e laboratori per praticare la sperimentazione;
+- c. il ricovero degli animali in un centro autorizzato di detenzione di animali da laboratorio;
+- d. i requisiti riguardanti il personale.
+
+<sup>4</sup>
+
+L’autorizzazione può essere vincolata a condizioni e oneri riguardanti:
+
+- a. la specie, la linea o il ceppo e il numero degli animali;
+- b. la provenienza e lo stato di salute degli animali;
+- c. la detenzione, l’alimentazione, la cura, la sorveglianza e il trattamento degli animali;
+- d. la metodologia, in particolare per contenere dolori, sofferenze, lesioni o ansietà nonché altre limitazioni del benessere del singolo animale;
+- e. l’esecuzione di un esperimento preliminare;
+- f. il riutilizzo degli animali dopo l’esperimento;
+- g. i requisiti e le responsabilità del personale;
+- h. il verbale dell’esecuzione dell’esperimento.
+
+#### Art. 142
+
+**Autorizzazione semplificata per la produzione di animali geneticamente modificati con metodi riconosciuti**
+
+<sup>1</sup>
+
+Le autorizzazioni per la produzione di animali geneticamente modificati mediante metodi riconosciuti sono rilasciate se:
+
+- a. si adottano soltanto metodi di modificazione genetica riconosciuti;
+- b.[^142-1] non si perseguono obiettivi inammissibili e si rispetta la dignità dell’animale;
+- c. sono rispettate le disposizioni sull’esecuzione degli esperimenti;
+- d. sono rispettati i requisiti posti agli istituti e ai laboratori di sperimentazione animale;
+- e.[^142-2] l’incaricato della protezione degli animali, il direttore del centro di detenzione di animali da laboratorio, il responsabile d’esperimento e le persone che eseguono l’esperimento soddisfano i requisiti previsti; e
+- f. si redige un verbale secondo l’articolo 144.
+
+<sup>2</sup> La validità dell’autorizzazione è limitata a quella del centro di detenzione di animali da laboratorio.
+
+<sup>3</sup> Gli articoli 136, 137, 139 e 140 non trovano applicazione. La procedura di autorizzazione è retta dall’articolo 122.
+
+<sup>4</sup> L’USAV stabilisce, dopo aver consultato le cerchie interessate, quali metodi di modificazione genetica sono riconosciuti.
+
+[^142-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^142-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 6: Documentazione e statistica
+
+#### Art. 143
+
+**Registro di controllo dell’effettivo degli animali**
+
+<sup>1</sup>
+
+I centri di detenzione di animali da laboratorio tengono un registro di controllo dell’effettivo degli animali che deve riportare, per ogni specie, le indicazioni seguenti:
+
+- a. l’aumento dell’effettivo (data; nascita o provenienza; numero degli animali);
+- b. la diminuzione dell’effettivo (data, acquirente o decesso, causa del decesso se conosciuta, numero degli animali);
+- c. l’eventuale marchiatura.
+
+<sup>2</sup> Gli animali geneticamente modificati e gli animali con mutazioni patologiche devono essere iscritti nel registro di controllo dell’effettivo separatamente, secondo il ceppo o la linea.
+
+<sup>3</sup> I verbali devono essere allestiti in modo ben comprensibile ed essere tenuti a disposizione delle autorità esecutive. Devono essere conservati per tre anni.[^143-1]
+
+[^143-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 144
+
+**Verbale dell’esperimento**
+
+<sup>1</sup>
+
+Durante l’esecuzione di un esperimento sugli animali occorre annotare per scritto per ogni animale o gruppo di animali:
+
+- a. inizio dell’esperimento (data), specie, numero, sesso, provenienza e identificazione degli animali, nonché designazione del gruppo di animali sottoposti a esperimento;
+- b. aspetti legati all’esperimento, quali interventi e misure eseguiti sugli animali (date, specie);
+- c. aspetti legati alla protezione degli animali quali la frequenza di sorveglianza degli animali e la registrazione sistematica dei sintomi clinici, l’anestesia, l’analgesia e l’interruzione anticipata dell’esperimento (date, specie);
+- d. livello di sofferenza cui l’animale è stato esposto;
+- e. eventi indesiderati;
+- f. analisi degli esperimenti e utilizzabilità dei risultati;
+- g. conclusione dell’esperimento (data).
+
+<sup>2</sup>
+
+I verbali devono:
+
+- a. riportare l’iscrizione sulle gabbie o il numero di marchiatura degli animali;
+- b. essere tenuti a disposizione delle autorità esecutive in qualsiasi momento;
+- c. essere conservati per tre anni dopo la scadenza dell’autorizzazione.
+
+#### Art. 145
+
+**Notifiche**
+
+<sup>1</sup>
+
+Il direttore del centro di detenzione di animali da laboratorio deve notificare all’autorità cantonale mediante il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali:
+
+- a. le linee o i ceppi con mutazioni patologiche secondo l’articolo 126 entro due settimane dalla constatazione dell’aggravio;
+- b. il numero complessivo degli animali allevati o prodotti nell’anno civile, per ogni specie animale e per le linee o i ceppi geneticamente modificati o con mutazioni patologiche, entro la fine di febbraio dell’anno successivo.
+
+<sup>2</sup>
+
+Per ogni esperimento il capounità deve notificare all’autorità cantonale mediante sistema d’informazione elettronico per la gestione degli esperimenti sugli animali:
+
+- a.[^145-1] la conclusione di un esperimento o di una serie di esperimenti, i dati sull’attività sperimentale durante l’anno in corso, i dati definitivi sul numero di animali per specie e sul grado di aggravio, la conferma della correttezza dei dati di cui all’articolo 139 capoverso 1<sup>bis</sup> lettere a–c: entro due mesi dalla conclusione dell’esperimento o della serie di esperimenti, al più tardi però due mesi dopo la scadenza dell’autorizzazione;
+- b. le indicazioni sull’attività sperimentale nell’anno civile trascorso, entro la fine di febbraio per gli esperimenti pluriennali.
+
+<sup>3</sup> In casi motivati l’autorità cantonale può ammettere notifiche in forma cartacea sul modello di formulario dell’USAV.
+
+<sup>4</sup>
+
+I Cantoni trasmettono all’USAV, mediante il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali:
+
+- a.
+
+  di volta in volta:
+
+  - 1\. le autorizzazioni per i centri di detenzione di animali da laboratorio di cui all’articolo 122 e le autorizzazioni semplificate per la produzione di animali geneticamente modificati con metodi riconosciuti secondo l’articolo 142 e i documenti relativi alla domanda,
+  - 2\. le decisioni di cui all’articolo 127 capoverso 3, le autorizzazioni per esperimenti sugli animali secondo l’articolo 141 e tutti i documenti relativi alla notifica e alla domanda, nonché la proposta della commissione cantonale per gli esperimenti sugli animali secondo l’articolo 127 capoverso 2 o l’articolo 139 capoverso 4,
+  - 3\. le notifiche di cui al capoverso 2 lettera a,
+  - 4\. altre decisioni relative a esperimenti sugli animali e a centri di detenzione di animali da laboratorio;
+
+- b. entro la fine di aprile di ogni anno: le notifiche di cui ai capoversi 1 lettera b e 2 lettera b.[^145-2]
+
+<sup>5</sup> Dopo aver sentito le autorità cantonali, l’USAV può stabilire quali indicazioni possono essere trasmesse in forma diversa da quella elettronica.
+
+[^145-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014, il cpv. 2 lett. a e il cpv. 4 lett. a n. 3 entrano in vigore il 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 145a
+
+**Informazione del pubblico**[^145a-1]
+
+A conclusione di un esperimento sugli animali, l’USAV pubblica i dati di cui all’articolo 139 capoverso 1<sup>bis</sup> lettere a–c e i dati definitivi sul numero di animali impiegati per ogni specie e sul grado di aggravio.
+
+[^145a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 146
+
+**Registro delle decisioni relative a linee e ceppi con mutazioni patologiche**
+
+L’USAV tiene, all’attenzione delle autorità di autorizzazione, un registro delle decisioni relative alle linee e ai ceppi con mutazioni patologiche, comprese le condizioni e gli oneri disposti.
+
+#### Art. 147
+
+**Statistica**
+
+<sup>1</sup> L’USAV tiene la statistica di cui all’articolo 36 LPAn. Essa deve contenere le indicazioni necessarie per poter valutare l’applicazione della legislazione sulla protezione degli animali a livello di sperimentazione animale, animali da laboratorio e animali geneticamente modificati.
+
+<sup>2</sup> Nel redigere e pubblicare la statistica l’USAV tiene conto di normative e raccomandazioni internazionali.
+
+<sup>3</sup> In collaborazione con la Commissione federale per gli esperimenti sugli animali, l’USAV pubblica regolarmente un rapporto che informa sugli sviluppi degli sforzi profusi per migliorare la protezione degli animali a livello di sperimentazione animale, animali da laboratorio e animali geneticamente modificati.
+
+### Sezione 7: Commissioni per gli esperimenti sugli animali
+
+#### Art. 148
+
+**Commissione federale per gli esperimenti sugli animali**
+
+<sup>1</sup> La Commissione federale per gli esperimenti sugli animali conta al massimo 9 membri. Essa si compone di almeno un rappresentante dei Cantoni e di specialisti in materia di sperimentazione animale, detenzione di animali da laboratorio e protezione degli animali.
+
+<sup>2</sup> Il Consiglio federale nomina i membri della Commissione e designa il presidente. Per il resto la Commissione si costituisce da sé e redige il suo regolamento interno. L’USAV ne gestisce la segreteria.
+
+<sup>3</sup> L’USAV può ricorrere alla Commissione per tutte le questioni legate alla sperimentazione animale, anche in relazione all’esame delle decisioni cantonali secondo l’articolo 25 LPAn.
+
+<sup>4</sup> La Commissione collabora all’occorrenza con la Commissione federale d’etica per la biotecnologia nel settore non umano e almeno una volta all’anno scambia con essa le conoscenze acquisite sugli animali geneticamente modificati.
+
+<sup>5</sup> I costi dei servizi forniti dalla Commissione ai Cantoni sono fatturati secondo le tariffe della Confederazione.
+
+#### Art. 149
+
+**Commissioni cantonali per gli esperimenti sugli animali**
+
+<sup>1</sup> I membri delle commissioni cantonali per gli esperimenti sugli animali non possono essere collaboratori delle autorità cantonali di autorizzazione. Queste ultime possono gestire la segreteria della commissione.
+
+<sup>2</sup> Dopo la loro nomina, i membri delle commissioni cantonali per gli esperimenti sugli animali devono frequentare un corso d’introduzione di una giornata organizzato dall’USAV.
+
+<sup>3</sup> I membri devono dimostrare di aver seguito, sull’arco di quattro anni, quattro giorni di formazione continua su temi della formazione teorica secondo gli articoli 132 o 134.[^149-1]
+
+[^149-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+## Capitolo 7: Trasporto di animali
+
+### Sezione 1: Formazione e responsabilità per il trasporto di animali
+
+#### Art. 150
+
+**Formazione e formazione continua del personale impiegato nel commercio e nel trasporto di bestiame**[^150-1]
+
+<sup>1</sup> Nelle imprese di commercio e di trasporto di bestiame, gli autisti, il personale che accudisce gli animali e uno dei responsabili del servizio di trasporto, quale un agente di trasporto o un membro della direzione, devono aver conseguito una formazione di cui all’articolo 197. La formazione deve essere specifica per le mansioni svolte.
+
+<sup>2</sup> Chiunque trasporta animali a titolo professionale deve provvedere alla formazione e alla formazione continua dei collaboratori.
+
+[^150-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 151
+
+**Responsabilità dei detentori di animali**
+
+<sup>1</sup>
+
+Il detentore responsabile dell’azienda da cui l’animale è trasportato deve:
+
+- a. procurarsi anticipatamente i documenti necessari per il trasporto e la consegna affinché possano svolgersi rapidamente;
+- b. annotare per scritto eventuali lesioni o malattie degli animali.
+
+<sup>2</sup> Il capoverso 1 si applica per analogia ai responsabili di un mercato.
+
+#### Art. 152
+
+**Responsabilità degli autisti**
+
+<sup>1</sup>
+
+L’autista deve:
+
+- a. accertarsi che siano disponibili i documenti necessari;
+- b. dopo aver caricato gli animali, effettuare il trasporto con riguardo e senza inutili ritardi;
+- c. annotare per scritto le lesioni subite dagli animali durante il trasporto;
+- d. comunicare immediatamente al destinatario l’arrivo degli animali;
+- e.[^152-1] al momento della consegna degli animali a unghia fessa e degli animali trasportati al macello, annotare per scritto il tempo di percorrenza e la durata del trasporto.
+
+<sup>2</sup> L’autista è responsabile, dal ritiro alla consegna, del ricovero e dell’accudimento degli animali.
+
+[^152-1]: Introdotta dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 152a
+
+**Durata autorizzata del trasporto**[^152a-1]
+
+<sup>1</sup> La durata autorizzata del trasporto, compreso il tempo di percorrenza, è di otto ore.
+
+<sup>2</sup>
+
+Il calcolo del tempo di percorrenza e della durata del trasporto inizia da capo dopo una sosta se:
+
+- a. la sosta dura oltre due ore;
+- b. durante la sosta gli animali dispongono delle dimensioni minime di detenzione indicate nell’allegato 1, hanno accesso all’acqua e, se necessario, al latte e vengono foraggiati negli intervalli di tempo consoni alla specie; e
+- c. le condizioni climatiche sono adeguate alle esigenze degli animali.
+
+[^152a-1]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+
+#### Art. 153
+
+**Responsabilità dei destinatari**
+
+<sup>1</sup> Il destinatario, insieme con l’autista, deve scaricare senza indugio gli animali al loro arrivo e, se necessario, in considerazione dei disagi subiti, dare loro ricovero, abbeverarli, alimentarli e curarli. Ciò vale anche per i soggiorni temporanei nei mercati, nelle esposizioni e nelle fiere di bestiame.
+
+<sup>2</sup> Gli animali selvatici devono essere riambientati con riguardo.
+
+#### Art. 154
+
+**Designazione di una persona responsabile**
+
+<sup>1</sup> Per ogni trasporto professionale deve essere designata una persona che si assuma la responsabilità del benessere degli animali durante il trasporto.
+
+<sup>2</sup> La persona responsabile deve poter fornire in ogni momento agli organi di esecuzione informazioni sull’organizzazione e sullo svolgimento del trasporto.
+
+### Sezione 2: Trattamento degli animali
+
+#### Art. 155
+
+**Selezione degli animali**
+
+<sup>1</sup> Gli animali possono essere trasportati soltanto se è presumibile che sopporteranno il trasporto senza danni.
+
+<sup>2</sup> Gli animali in gestazione avanzata, gli animali che hanno figliato da poco, gli animali ancora dipendenti dai genitori e gli animali indeboliti possono essere trasportati solamente con speciali provvedimenti precauzionali. Gli animali feriti o malati possono essere trasportati soltanto per le cure o per la macellazione al posto più vicino e con le dovute precauzioni.
+
+#### Art. 156
+
+**Preparazione degli animali**
+
+<sup>1</sup> Gli animali devono essere adeguatamente preparati al trasporto e, se necessario, foraggiati e abbeverati prima del viaggio.
+
+<sup>2</sup> Nel caso di pesci commestibili e ornamentali occorre sincerarsi prima del viaggio che il tubo gastroenterico sia il più possibile vuoto.
+
+#### Art. 157
+
+**Personale incaricato di accudire gli animali durante il trasporto**
+
+<sup>1</sup> Gli animali possono essere guidati, condotti, caricati o scaricati soltanto da persone esperte o sufficientemente istruite. Queste ultime devono trattare gli animali con riguardo.[^157-1]
+
+<sup>2</sup> Durante il trasporto, gli animali devono essere accompagnati da personale esperto o sufficientemente istruito che, se necessario, li abbeveri e li foraggi. Il personale controlla regolarmente gli animali e provvede affinché si riposino debitamente.[^157-2]
+
+<sup>3</sup> La presenza del personale non è necessaria se è garantito che, all’occorrenza, durante tutto il trasporto o durante le soste intermedie gli animali hanno a disposizione acqua e alimenti e vengono curati.
+
+<sup>4</sup> Il bestiame lattifero in lattazione deve essere munto due volte al giorno.
+
+[^157-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^157-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 158
+
+**Separazione degli animali**
+
+<sup>1</sup> Se necessario, gli animali devono essere trasportati in scompartimenti o contenitori separati secondo la specie, l’età e il sesso.
+
+<sup>2</sup> Gli animali incompatibili vanno tenuti separati.
+
+#### Art. 159
+
+**Carico e scarico degli animali**
+
+<sup>1</sup> I solipedi e gli ungulati, se non trasportati in contenitori, devono essere caricati e scaricati mediante rampe antisdrucciolevoli se la distanza tra il suolo e lo spigolo superiore del ponte di carico è uguale o superiore a 25 cm. Se la distanza è inferiore a 25 cm, non devono essere utilizzate rampe se gli animali possono entrare e uscire rivolti in avanti.[^159-1]
+
+<sup>1bis</sup> Le rampe non devono essere troppo ripide né presentare fessure ampie a tal punto che gli animali potrebbero ferirsi.[^159-2]
+
+<sup>1ter</sup> Le rampe devono essere provviste di assi trasversali se l’inclinazione supera 10 gradi e di protezioni laterali adeguate alla taglia e al peso degli animali, tranne se questi ultimi vengono condotti a mano, sono abituati al trasporto e l’altezza del ponte di carico non supera i 50 cm.[^159-3]
+
+<sup>2</sup> Al momento del carico, l’interno del mezzo di trasporto deve essere ben illuminato senza tuttavia abbagliare gli animali.
+
+<sup>3</sup> Il capoverso 2 non si applica al carico e allo scarico di volatili e conigli.
+
+[^159-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^159-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^159-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 160
+
+**Trattamento di determinate specie animali**
+
+<sup>1</sup> Gli equidi devono essere legati durante il trasporto; sono eccettuati gli animali giovani fino all’inizio della loro utilizzazione regolare, tuttavia al massimo fino al raggiungimento dei 30 mesi di età. È vietato legarli a cavezze di corda, a cavezze annodate oppure alle briglie. [^160-1]
+
+<sup>2</sup> È vietato servirsi delle corna, dell’anello nasale o di corde per legare i bovini.
+
+<sup>3</sup> I bovini trasportati legati e il cui peso supera 500 kg non possono essere collocati di traverso se la larghezza del veicolo è inferiore a 2,5 metri.
+
+<sup>4</sup>
+
+I tori di età superiore a 18 mesi devono portare un anello nasale. Si può rinunciare all’anello nasale se, prima dello spostamento o della macellazione:
+
+- a. i tori sono tenuti prevalentemente in una mandria all’aperto o in gruppo a stabulazione libera; e
+- b. sono state prese le precauzioni necessarie per garantire un trasporto sicuro nonché un carico e uno scarico sicuri.
+
+<sup>5</sup> La selvaggina d’allevamento non può essere trasportata viva al macello[^160-2] se non è stata preventivamente abituata al trasporto.
+
+<sup>6</sup> I decapodi devono essere mantenuti sufficientemente umidi.
+
+<sup>7</sup> Le rane vive non possono essere trasportate ammassate l’una sull’altra. Se l’ammasso degli animali non può essere evitato durante il trasporto, occorre far uscire immediatamente gli animali dai contenitori usati per il trasporto una volta giunti al luogo di destinazione e trasferirli in un ambiente adatto.[^160-3]
+
+<sup>8</sup> Per il trasporto di animali nel corso di un esperimento o di animali con mutazioni patologiche occorre prendere i provvedimenti necessari per ridurre al minimo la limitazione del loro benessere. I tempi di trasporto devono essere brevi.
+
+<sup>9</sup> Per il trasporto di animali da laboratorio con un determinato stato igienico occorre prendere le precauzioni necessarie per impedire l’introduzione e la fuoriuscita di microrganismi.
+
+[^160-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^160-2]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^160-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 161
+
+**Guida**
+
+<sup>1</sup> La guida deve essere rispettosa degli animali.
+
+<sup>2</sup> All’atto della composizione dei treni, i carri ferroviari devono essere spostati il meno possibile e senza urti.
+
+#### Art. 162
+
+**Deroghe al tempo massimo di percorrenza**[^162-1]
+
+<sup>1</sup> Il tempo massimo di percorrenza di cui all’articolo 15 capoverso 1 LPAn non si applica ai pulcini, a condizione che giungano nel luogo di destinazione entro 48 ore dalla schiusa delle uova.
+
+<sup>2</sup> Nei trasporti internazionali il tempo massimo di percorrenza può essere superato.
+
+[^162-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+
+### Sezione 3: Mezzi e contenitori di trasporto
+
+#### Art. 163
+
+**Pulizia e disinfezione**
+
+I piani di carico e i contenitori devono essere puliti dopo il trasporto e disinfettati su disposizione degli organi di controllo ufficiali.
+
+#### Art. 164
+
+**Lettiera**
+
+Fatta eccezione per il trasporto professionale di volatili e conigli in contenitori standard, il pavimento del mezzo di trasporto e il fondo dei contenitori devono essere coperti con una lettiera o un materiale equivalente che assorba l’urina e le feci e sia appropriato per il riposo.
+
+#### Art. 165
+
+**Mezzi di trasporto**
+
+<sup>1</sup>
+
+I mezzi di trasporto devono soddisfare i requisiti seguenti:
+
+- a. le parti con le quali gli animali entrano in contratto devono essere costruite con un materiale innocuo per la salute e concepite in modo che il pericolo di ferimento sia esiguo;
+- b. le porte, le finestre e i finestrini devono poter essere fissati in modo sicuro durante il trasporto;
+- c. mediante pavimenti antisdrucciolevoli, pareti divisorie, tramezzi e dispositivi di sostegno si deve evitare il rischio che gli animali scivolino o i contenitori si spostino. Le rampe che i responsabili portano con sé devono soddisfare i requisiti di cui all’articolo 159 capoverso 1;
+- d. i dispositivi d’attacco devono essere abbastanza resistenti da non spezzarsi durante il trasporto in seguito a normale sollecitazione. Devono essere sufficientemente lunghi affinché gli animali possano stare in posizione eretta naturale;
+- e. i mezzi di trasporto devono essere dotati di una fonte di illuminazione fissa o portatile di potenza sufficiente per controllare gli animali;
+- f. gli animali devono disporre di uno spazio sufficiente. Per gli animali da reddito devono essere soddisfatti i requisiti di spazio minimo di cui all’allegato 4. Se gli animali dispongono di più del doppio della superficie minima di cui all’allegato 4, è necessario inserire pareti divisorie. Occorre tenere conto delle esigenze delle singole specie, delle condizioni climatiche e segnatamente dello stato di tosatura;
+- g. i mezzi di trasporto devono essere provvisti di aperture adeguatamente collocate che garantiscano un sufficiente afflusso di aria fresca. I mezzi di trasporto in cui i suini sono trasportati su tre piani devono essere muniti di ventilazione. Occorre assicurare la protezione da condizioni meteorologiche avverse e dai gas di scarico del mezzo di trasporto;
+- h.[^165-1] sulle aperture posteriori dei veicoli e dei rimorchi utilizzati per il trasporto di bovini, suini, ovini e caprini deve essere collocata una griglia;
+- i. sui veicoli utilizzati per il trasporto professionale di animali da reddito di cui all’allegato 4, esclusi i volatili, deve essere indicata in modo chiaramente visibile dall’esterno la superficie di carico disponibile in m<sup>2</sup>, eventualmente per piano. Nel veicolo deve essere presente anche una copia dell’allegato 4;
+- j. sui veicoli utilizzati per il trasporto professionale di animali deve essere applicata in modo ben visibile, nella parte anteriore e in quella posteriore, la scritta «Animali vivi» o un’indicazione analoga.
+
+<sup>2</sup> I mezzi di trasporto possono servire come luoghi di ricovero durante le soste superiori a quattro ore soltanto se gli animali dispongono delle dimensioni minime di detenzione indicate nell’allegato 1, se hanno accesso all’acqua e, se necessario, al latte e se vengono foraggiati negli intervalli di tempo consoni alla specie. Inoltre le condizioni climatiche devono essere adeguate alle esigenze degli animali.[^165-2]
+
+<sup>3</sup> Per l’utilizzo occasionale di mezzi di trasporto come ricovero temporaneo, l’USAV può prevedere deroghe alle dimensioni minime indicate nell’allegato 1, in particolare per impieghi di servizio, manifestazioni sportive, spettacoli ed esposizioni.[^165-3]
+
+[^165-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^165-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^165-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 166
+
+**Merci trasportate insieme agli animali**
+
+<sup>1</sup> Le merci trasportate insieme agli animali devono essere caricate in modo tale da non arrecare lesioni, dolori o sofferenze agli animali.
+
+<sup>2</sup> Le merci che arrecano danno agli animali non possono essere trasportate con essi.
+
+#### Art. 167
+
+**Contenitori di trasporto**
+
+<sup>1</sup>
+
+I contenitori di trasporto devono essere:
+
+- a. costruiti con materiale innocuo per la salute e concepiti in modo che il pericolo di ferimento sia esiguo;
+- b. sufficientemente robusti da sopportare le normali sollecitazioni del trasporto senza gravi danni e da non poter essere distrutti dagli animali;
+- c. costruiti in modo che gli animali non possano fuggire;
+- d. sufficientemente spaziosi affinché gli animali trasportati possano assumere la postura normale;
+- e. provvisti di sufficienti aperture d’aerazione sistemate in modo che, anche se i contenitori sono collocati fittamente l’uno accanto all’altro, sia assicurato un sufficiente afflusso di aria fresca; nei contenitori chiusi contenenti animali eterotermi deve essere disposta una riserva d’aria o d’ossigeno; se necessario, occorre prevedere un isolamento termico;
+- f. costruiti in modo che gli animali possano essere osservati e, se necessario, accuditi; i contenitori per trasporti di lunga durata devono essere muniti di attrezzature per il foraggiamento e l’abbeverata che possano essere utilizzate senza che gli animali riescano a fuggire.
+
+<sup>2</sup> I contenitori di trasporto in cui si trovano gli animali devono stare in posizione eretta. Non possono essere urtati, lanciati o rovesciati.
+
+<sup>3</sup>
+
+I contenitori di spedizione devono recare il simbolo di un animale oppure la scritta «Animali vivi». Su due fianchi opposti un segno deve indicare la parte superiore o inferiore. Sono eccettuati:
+
+- a. i contenitori il cui interno è visibile da ogni lato;
+- b. i contenitori trasportati senza trasbordo, in numero rilevante come spedizione unica, da veicoli appositamente contrassegnati.
+
+<sup>4</sup> I contenitori impilabili devono essere costruiti in modo che rimangano stabilmente sovrapposti, che le aperture d’aerazione non vengano ostruite durante l’impilaggio e che le escrezioni non possano raggiungere i contenitori sottostanti.
+
+#### Art. 168
+
+**Deroghe**
+
+Nei trasporti aerei sono ammesse deroghe alle prescrizioni di trasporto qualora siano necessarie a causa di condizioni particolari e a condizione che gli animali non soffrano né subiscano lesioni.
+
+### Sezione 4: Trasporti internazionali di animali
+
+#### Art. 169
+
+**Controllo delle partite di animali**
+
+<sup>1</sup> Nei posti d’ispezione deve essere data priorità alle partite di animali.
+
+<sup>2</sup> Le partite di animali possono essere trattenute soltanto se è assolutamente necessario per ragioni di protezione degli animali o per effettuare controlli di polizia sanitaria o di conservazione delle specie.
+
+<sup>3</sup> I posti d’ispezione in cui si espletano le formalità di importazione e transito vanno informati quanto prima dell’arrivo degli animali.
+
+#### Art. 170
+
+**Autorizzazione**
+
+<sup>1</sup> Le imprese che trasportano animali da e verso l’estero a titolo professionale devono essere titolari di un’autorizzazione rilasciata dal Cantone.
+
+<sup>2</sup> L’autorizzazione è rilasciata soltanto se l’impresa dimostra di soddisfare i requisiti relativi all’attrezzatura tecnica dei mezzi di trasporto e alla formazione dei collaboratori.
+
+<sup>3</sup> L’autorizzazione è rilasciata al massimo per cinque anni.
+
+<sup>4</sup> Le imprese con sede commerciale in un Paese membro dell’Unione europea devono presentare, su richiesta, un’autorizzazione rilasciata dall’autorità competente di detto Paese.
+
+<sup>5</sup> Ogni partita di animali deve essere accompagnata da una copia dell’autorizzazione.
+
+#### Art. 171
+
+**Notifica di violazioni**
+
+L’USAV comunica allo Stato in cui è registrata l’impresa i dettagli sulle violazioni accertate se esso è parte contraente della Convenzione europea del 6 novembre 2003[^171-1] sulla protezione degli animali nel trasporto internazionale.
+
+[^171-1]: [RS 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+
+#### Art. 172
+
+**Piano di trasporto e libretto di bordo**
+
+<sup>1</sup> Per il trasporto professionale di bovini, equidi, ovini, caprini e suini da e verso l’estero occorre redigere un piano di trasporto secondo le indicazioni dell’USAV qualora il trasporto, dal carico allo scarico, duri più di otto ore.
+
+<sup>2</sup> La persona responsabile del benessere degli animali annota nel libretto di bordo l’ora e il luogo in cui gli animali sono stati foraggiati e abbeverati e hanno potuto riposarsi. Il documento va presentato all’autorità competente che ne faccia richiesta.
+
+#### Art. 173
+
+**Attrezzature particolari**
+
+I veicoli devono essere muniti di attrezzature adeguate per il carico e lo scarico degli animali.
+
+#### Art. 174
+
+**Precauzioni particolari per i trasporti internazionali**
+
+<sup>1</sup> Le mammifere gravide non devono essere trasportate prima della data prevista del parto per un periodo corrispondente ad almeno il 10 per cento della durata della gestazione e per almeno una settimana dopo il parto.
+
+<sup>2</sup> I mammiferi molto giovani non possono essere trasportati prima della cicatrizzazione completa dell’ombelico.
+
+<sup>3</sup> Prima di essere caricati per un trasporto internazionale, gli animali devono essere esaminati da un veterinario ufficiale che ne verifichi l’idoneità al trasporto. Fanno eccezione gli equidi muniti di passaporto equide trasportati all’estero per un breve periodo.
+
+<sup>4</sup> Il capoverso 1 non si applica al trasporto di animali verso aziende d’estivazione situate nei Paesi esteri limitrofi.
+
+#### Art. 175
+
+**Transito di animali**[^175-1]
+
+Il transito di bovini, ovini, caprini, suini, cavalli da macello e pollame da macello in Svizzera è limitato al traffico ferroviario o aereo.
+
+[^175-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1071](https://fedlex.data.admin.ch/eli/oc/2011/158)).
+
+#### Art. 176
+
+**Trasporto aereo**
+
+Per il trasporto di animali per via aerea occorre tenere conto delle disposizioni tecniche riconosciute, in particolare di quelle contenute nella normativa IATA[^176-1].
+
+[^176-1]: Possono essere richieste informazioni al servizio veterinario di confine presso gli aeroporti di Ginevra e Zurigo oppure all’UFV.
+
+## Capitolo 8: Abbattimento e macellazione di animali
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 177
+
+**Requisiti per il personale addetto all’abbattimento e alla macellazione**
+
+<sup>1</sup> Gli animali vertebrati e i decapodi possono essere uccisi soltanto da persone esperte.[^177-1]
+
+<sup>1bis</sup> Sono considerate esperte le persone che hanno potuto acquisire le conoscenze necessarie e l’esperienza pratica nell’uccisione di animali sotto la guida e la supervisione di uno specialista e che uccidono regolarmente animali.[^177-2]
+
+<sup>2</sup>
+
+Il personale del macello deve aver conseguito una formazione di cui all’articolo 197. La formazione deve essere specifica per le mansioni svolte, ovvero:
+
+- a. lo scarico, la conduzione, la stabulazione e l’accudimento degli animali nei macelli[^177-3];
+- b. lo stordimento e il dissanguamento degli animali nei macelli.
+
+<sup>3</sup> Per le persone con un attestato federale di capacità secondo l’articolo 38 LFPr[^177-4] come macellaia/macellaio o macellaia-salumiere/macellaio-salumiere con l’indirizzo di specializzazione «Produzione» non è richiesta la formazione di cui al capoverso 2.
+
+<sup>4</sup> Per le persone con una formazione agricola di cui all’articolo 194 non è richiesta la formazione di cui al capoverso 2 lettera a.
+
+[^177-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^177-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^177-3]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^177-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+#### Art. 177a
+
+[^177a-1]
+
+[^177a-1]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogato dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 178
+
+**Obbligo di stordimento**[^178-1]
+
+Gli animali vertebrati e i decapodi possono essere uccisi soltanto dopo essere stati storditi. Se non è possibile praticare lo stordimento, occorre provvedere a tutte le misure necessarie per ridurre al minimo dolori, sofferenze e ansietà.
+
+[^178-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 178a
+
+**Deroghe all’obbligo di stordimento**[^178a-1]
+
+<sup>1</sup>
+
+L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
+
+- a. durante la caccia;
+- b. nell’ambito di misure consentite di lotta contro i parassiti;
+- c. se il metodo di uccisione usato fa cadere l’animale, immediatamente e senza dolori o sofferenze, in uno stato di insensibilità e di incoscienza.
+
+<sup>2</sup> L’uccisione delle rane senza stordimento è inoltre ammessa se gli animali, al momento della macellazione, sono decapitati in stato di refrigerazione e se la testa viene distrutta immediatamente.
+
+<sup>3</sup> ...[^178a-2]
+
+[^178a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^178a-2]: Abrogato dal n. I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+
+#### Art. 179
+
+**Uccisione corretta**[^179-1]
+
+<sup>1</sup> La persona che esegue l’uccisione deve adottare le precauzioni necessarie per garantire un trattamento rispettoso dell’animale e uno svolgimento senza ritardi dell’uccisione. Deve sorvegliare l’operazione di uccisione fino al sopraggiungere della morte.
+
+<sup>2</sup> Il metodo di uccisione scelto deve portare con certezza alla morte dell’animale.
+
+<sup>3</sup> Dopo aver consultato le autorità cantonali, l’USAV può stabilire i metodi di uccisione ammessi per determinate specie animali o per particolari scopi.
+
+[^179-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 179a
+
+**Metodi di stordimento ammessi**[^179a-1]
+
+<sup>1</sup> Sono ammesse le seguenti procedure di stordimento:
+
+<table>
+<tr><td>a. per equidi:</td><td>– proiettile captivo o proiettile libero nel cervello;</td></tr>
+<tr><td>b. per bovini:</td><td>– proiettile captivo o proiettile libero nel cervello, – pistola pneumatica per la quale è garantito che l’aria compressa non penetra nella scatola cranica, – elettronarcosi;</td></tr>
+<tr><td>c. per suini:</td><td>– proiettile captivo o proiettile libero nel cervello, – elettronarcosi, – esposizione al biossido di carbonio;</td></tr>
+<tr><td>d. per ovini e caprini:</td><td>– proiettile captivo o proiettile libero nel cervello, – elettronarcosi;</td></tr>
+<tr><td>e. per conigli:</td><td>– proiettile captivo o proiettile libero nel cervello, – stordimento per commozione cerebrale, – elettronarcosi;</td></tr>
+<tr><td>f. per pollame:</td><td>– elettronarcosi, – forte colpo rintuzzato sulla testa, – proiettile captivo, [tab] – [^179a-2] appropriata miscela di gas; durante questo processo i pulcini vivi non possono essere ammassati l’uno sull’altro;</td></tr>
+<tr><td>g. per ratiti:</td><td>– proiettile captivo nel cervello, – elettronarcosi;</td></tr>
+<tr><td>h. per selvaggina d’allevamento biungulata:</td><td>– proiettile captivo o proiettile libero nel cervello;</td></tr>
+<tr><td>i. per pesci:</td><td>– forte colpo rintuzzato sulla testa, – dislocazione del collo, – elettronarcosi, – distruzione meccanica del cervello;</td></tr>
+<tr><td>j. per decapodi:</td><td>– elettronarcosi, – distruzione meccanica del cervello.</td></tr>
+</table>
+
+<sup>2</sup> Dopo aver consultato le autorità cantonali, l’USAV può ammettere altri metodi di stordimento.
+
+[^179a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179a-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+
+#### Art. 179b
+
+**Stordimento**[^179b-1]
+
+<sup>1</sup> Gli animali devono essere storditi in modo che cadano il più rapidamente possibile e senza dolori o sofferenze in uno stato di insensibilità e di incoscienza che si protrae fino alla morte.
+
+<sup>2</sup> Se è impiegato un apparecchio di stordimento meccanico o elettrico, gli animali devono essere posizionati in modo tale che l’apparecchio possa essere applicato e utilizzato senza difficoltà, con precisione e per la durata necessaria.
+
+<sup>3</sup> Le attrezzature per immobilizzare gli animali non devono arrecare loro dolori o lesioni evitabili e devono garantire che gli animali destinati alla macellazione, eccettuato il pollame, siano storditi in piedi o in posizione eretta.[^179b-2]
+
+<sup>4</sup> Tranne in caso di macellazione rituale, il pollame deve essere stordito prima del dissanguamento.
+
+[^179b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179b-2]: La correzione del 27 nov. 2018 concerne soltanto il testo francese ([RU 2018 4283](https://fedlex.data.admin.ch/eli/oc/2018/685)).
+
+#### Art. 179c
+
+**Apparecchi e impianti di stordimento**[^179c-1]
+
+<sup>1</sup> Gli apparecchi e gli impianti di stordimento devono essere controllati per verificarne il funzionamento tutti i giorni lavorativi, almeno una volta all’inizio del lavoro e, se necessario, puliti più volte al giorno. Gli apparecchi di ricambio devono essere tenuti pronti per l’impiego.
+
+<sup>2</sup> Durante l’attività, il funzionamento degli apparecchi e degli impianti di stordimento deve essere controllato verificando l’efficacia dello stordimento in modo da individuare ed eliminare immediatamente i difetti tecnici che causano errori.
+
+<sup>3</sup> La manutenzione degli apparecchi e degli impianti di stordimento, il controllo del loro funzionamento e l’eliminazione dei difetti devono essere documentati.
+
+[^179c-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 179d
+
+**Dissanguamento**[^179d-1]
+
+<sup>1</sup> Il dissanguamento deve essere effettuato sezionando o incidendo i vasi sanguigni principali nella regione del collo. Deve avvenire il più rapidamente possibile dopo lo stordimento e finché l’animale è incosciente.
+
+<sup>2</sup> Fino al sopraggiungere della morte per dissanguamento, gli animali soggetti all’obbligo di stordimento di cui all’articolo 21 LPAn devono trovarsi in uno stato di incoscienza e di insensibilità.
+
+<sup>3</sup> Se il dissanguamento di animali storditi è ritardato, lo stordimento di altri animali va immediatamente sospeso.
+
+<sup>4</sup> Dopo il taglio effettuato per dissanguare l’animale, non possono essere eseguite altre operazioni di macellazione se non dopo la morte dell’animale.
+
+<sup>5</sup> Dopo lo stordimento i pesci possono essere eviscerati anziché dissanguati.
+
+[^179d-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 2: Responsabilità al momento della macellazione e trattamento degli animali nei macelli
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Originario prima dell’art. 180. Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 179e
+
+**Responsabilità nel macello**[^179e-1]
+
+<sup>1</sup>
+
+Il gestore del macello è responsabile del rispetto della legislazione sulla protezione degli animali. In particolare emana istruzioni di lavoro per:
+
+- a. il trattamento degli animali nelle stalle di sosta;
+- b. lo stordimento degli animali;
+- c. il dissanguamento degli animali;
+- d. l’istruzione del personale del macello.
+
+<sup>2</sup> Su richiesta, mette a disposizione degli organi esecutivi le istruzioni di lavoro.
+
+<sup>3</sup> Nei macelli in cui annualmente sono macellati oltre 1500 unità di macellazione di bovini, ovini, caprini, suini o equidi oppure oltre 150 000 capi di pollame o di conigli deve essere designato un incaricato della protezione degli animali.
+
+<sup>4</sup>
+
+L’incaricato della protezione degli animali è autorizzato a emanare istruzioni. Controlla il rispetto della legislazione sulla protezione degli animali ed è in particolare responsabile di:
+
+- a. presentare al gestore del macello un rapporto sulle questioni inerenti alla protezione degli animali;
+- b. istruire il personale del macello affinché adotti provvedimenti per garantire un trattamento rispettoso degli animali;
+- c. annotare i provvedimenti adottati nel macello per migliorare la protezione degli animali.
+
+[^179e-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 180
+
+**Consegna**
+
+<sup>1</sup> Se l’ispezione sanitaria *ante mortem* viene effettuata nel macello, il veterinario ufficiale controlla alla consegna lo stato di cura e di salute degli animali. Devono essere controllati anche la densità di occupazione dei veicoli di trasporto e le loro attrezzature.
+
+<sup>2</sup> Nelle aziende in cui in genere il veterinario ufficiale non è presente al momento della consegna degli animali, l’ispezione e il controllo sono effettuati da una persona incaricata dal macello[^180-1].
+
+<sup>3</sup> Le persone incaricate dell’ispezione e del controllo notificano all’autorità cantonale le violazioni alla legislazione sulla protezione degli animali.
+
+<sup>4</sup> Se dopo il loro arrivo nel macello gli animali non possono essere scaricati immediatamente, in caso di temperature elevate o di tempo afoso i veicoli devono essere sufficientemente arieggiati.
+
+<sup>5</sup> Gli animali incapaci di camminare devono essere storditi e dissanguati in loco.
+
+[^180-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 181
+
+**Ricovero**
+
+<sup>1</sup> In caso di temperature elevate o di tempo afoso occorre provvedere a rinfrescare gli animali nel macello.
+
+<sup>2</sup> Gli animali che non vengono macellati subito dopo il loro arrivo devono essere ricoverati su una superficie sufficientemente ampia, protetti da condizioni meteorologiche estreme e abbeverati.
+
+<sup>3</sup> I mezzi di trasporto possono essere utilizzati per il ricovero temporaneo degli animali secondo il capoverso 2. Il clima interno dev’essere adeguato alle esigenze degli animali.
+
+<sup>4</sup> Gli animali che vengono macellati soltanto diverse ore dopo il loro arrivo vanno ricoverati secondo i requisiti minimi di detenzione di cui all’allegato 1 e protetti da condizioni meteorologiche estreme nonché abbeverati regolarmente ed eventualmente foraggiati.
+
+<sup>5</sup> Gli animali incompatibili per specie, sesso, età o provenienza devono essere tenuti separati.
+
+<sup>6</sup> Gli animali in lattazione devono essere macellati il giorno della consegna, altrimenti devono essere munti almeno due volte al giorno.
+
+<sup>7</sup> Se gli animali destinati alla macellazione vengono tenuti durante la notte nel macello, il loro benessere e lo stato di salute devono essere controllati la sera e la mattina da una persona designata dal macello.
+
+<sup>8</sup> Gli equidi devono essere macellati subito dopo la consegna se non esistono infrastrutture adeguate per un ricovero rispettoso.
+
+#### Art. 182
+
+**Conduzione degli animali**
+
+<sup>1</sup> Gli animali vanno condotti con riguardo tenendo conto del comportamento tipico della specie. Possono essere impiegati mezzi ausiliari di conduzione soltanto se l’animale condotto può allontanarsi per evitare l’azione dello strumento.
+
+<sup>2</sup> L’impiego di dispositivi elettrici di conduzione va limitato allo stretto necessario.
+
+<sup>3</sup> Le corsie devono permettere di condurre gli animali con riguardo.
+
+<sup>4</sup> Gli impianti di trasporto devono essere organizzati e gestiti in modo da evitare dolori e ferite agli animali.
+
+#### Art. 183 a 187
+
+[^183187-1]
+
+[^183187-1]: Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 3: Coordinamento dei compiti di controllo nei macelli
+
+[^chap8-sec3-1][^chap8-sec3-2]
+
+[^chap8-sec3-1]: Originaria Sez. 4.
+[^chap8-sec3-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 188
+
+<sup>1</sup> I Cantoni disciplinano i compiti e le competenze dei veterinari ufficiali in materia di esecuzione della legislazione sulla protezione degli animali nei macelli.
+
+<sup>2</sup> Le ispezioni e i controlli devono essere effettuati in coordinazione con il controllo degli animali da macello e il controllo delle carni secondo l’ordinanza del 23 novembre 2005[^188-1] concernente la macellazione e il controllo delle carni.
+
+<sup>3</sup> Per la sorveglianza ufficiale dell’esecuzione della legislazione sulla protezione degli animali nell’ambito della macellazione non sono riscossi emolumenti.
+
+[^188-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)**)**.
+
+## Capitolo 9: Formazione e formazione continua in materia di detenzione di animali
+
+[^chap9-1]
+
+[^chap9-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 189
+
+**Scopo della formazione e della formazione continua**[^189-1]
+
+<sup>1</sup> La formazione e la formazione continua dispensano le conoscenze necessarie a garantire una detenzione adeguata degli animali nonché un trattamento responsabile e rispettoso degli stessi.
+
+<sup>2</sup> La formazione e la formazione continua sono trasmesse in modo specifico tenendo conto delle specie o categorie animali con esigenze simili a livello di detenzione o trattamento.
+
+[^189-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 190
+
+**Obbligo di formazione continua**[^190-1]
+
+<sup>1</sup>
+
+Devono seguire corsi di formazione continua per almeno quattro giorni sull’arco di quattro anni:
+
+- a. i guardiani di animali;
+- b. gli incaricati della protezione degli animali, i responsabili d’esperimento e le persone che eseguono gli esperimenti, nonché i direttori dei centri di detenzione di animali da laboratorio;
+- c. le persone che offrono corsi di formazione per detentori di animali riconosciuti dall’USAV;
+- d.[^190-2] gli impiegati del commercio al dettaglio nel commercio specializzato di animali con una formazione di cui all’articolo 197.
+
+<sup>2</sup>
+
+Devono seguire un corso di formazione continua per almeno un giorno sull’arco di tre anni:
+
+- a. gli autisti delle imprese di commercio e di trasporto di bestiame, il personale che accudisce gli animali e uno dei responsabili del servizio di trasporto, quale un agente di trasporto o un membro della direzione;
+- b. il personale del macello che si occupa degli animali vivi;
+- c. le persone che effettuano a titolo professionale la cura degli unghioni dei bovini o degli zoccoli degli equidi.
+
+<sup>3</sup> Il DFI disciplina gli obiettivi di apprendimento, la forma, il contenuto e la durata della formazione continua.
+
+[^190-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^190-2]: Correzione del 20 mar. 2018 ([RU 2018 1171](https://fedlex.data.admin.ch/eli/oc/2018/173)).
+
+#### Art. 191
+
+**Formazione e formazione continua ordinate dall’autorità cantonale[^191-1]**
+
+<sup>1</sup> Qualora vengano rilevate carenze a livello di alimentazione, accudimento o cura degli animali o altre violazioni alla legislazione sulla protezione degli animali, l’autorità cantonale può obbligare i detentori di animali, il personale o le aziende che accudiscono gli animali a seguire corsi di formazione o formazione continua.[^191-2]
+
+<sup>2</sup> L’autorità cantonale può obbligare i detentori di cani a frequentare corsi di educazione canina oppure verificare le conoscenze acquisite se ha accertato delle carenze nel modo di trattare il cane.
+
+<sup>3</sup> I costi relativi alla formazione o alla formazione continua supplementare sono a carico delle aziende o dei detentori di animali.[^191-3]
+
+[^191-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^191-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^191-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 2: Tipi di formazione e indirizzi professionali
+
+#### Art. 192
+
+**Tipi di formazione**
+
+<sup>1</sup>
+
+Ai sensi della presente ordinanza si intendono per formazioni riconosciute:
+
+- a.[^192-1] una formazione specialistica professionale o universitaria;
+- b. una formazione specialistica riconosciuta dall’USAV, non legata a una professione;
+- c. un corso riconosciuto dall’USAV che trasmetta conoscenze o competenze specialistiche;
+
+<sup>2</sup> È considerata specialistica una formazione che fornisce le conoscenze necessarie per accudire gli animali, illustrando a tal fine le loro esigenze, il loro comportamento e il modo di trattarli.
+
+[^192-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 193
+
+**Attestato di formazione**
+
+<sup>1</sup>
+
+Sono considerati attestati di formazione:
+
+- a. per una formazione di cui all’articolo 192 capoverso 1 lettera a: diploma professionale o universitario;
+- b. per una formazione di cui all’articolo 192 capoverso 1 lettera b: conferma di conseguimento della formazione;
+- c. per una formazione di cui all’articolo 192 capoverso 1 lettera c: attestato di competenza.
+
+<sup>2</sup> La formazione specialistica professionale o universitaria esonera dal conseguimento di una formazione specialistica non legata a una professione; quest’ultima esonera dal conseguimento dell’attestato di competenza.[^193-1]
+
+<sup>3</sup> All’attestato di competenza di cui al capoverso 1 lettera c è equiparata la conferma ufficiale di un’esperienza almeno triennale con la specie animale in questione.
+
+<sup>4</sup> L’USAV può prescrivere un formulario per l’attestazione della formazione richiesta.
+
+[^193-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 194
+
+**Professioni agricole**[^194-1]
+
+<sup>1</sup>
+
+Ai sensi della presente ordinanza si intende per formazione agricola:
+
+- a. una formazione professionale di base nel campo professionale «agricoltura e professioni agricole» con un certificato federale di formazione pratica di cui all’articolo 37 LFPr[^194-2] o un attestato federale di capacità di cui all’articolo 38 LFPr;
+- b. una formazione professionale superiore nelle professioni di cui alla lettera a;
+- c. una formazione presso una scuola universitaria professionale o un’università nelle professioni di cui alla lettera a;
+- d. una formazione equivalente per una professione specifica nel settore agricolo.
+- [tab] <sup>2</sup> Alla formazione professionale di base di cui al capoverso 1 lettera a è equiparata qualsiasi altra formazione professionale di base con un certificato federale di formazione pratica o un attestato federale di capacità, integrati da:
+- a. un corso di formazione in ambito agricolo concluso, disciplinato in modo unitario dai Cantoni in collaborazione con l’organizzazione del mondo del lavoro determinante; o
+- b. un’attività pratica comprovata di gestore, cogestore o impiegato in un’azienda agricola per almeno tre anni.
+
+[^194-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^194-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+#### Art. 195
+
+**Guardiani di animali**
+
+Ai sensi della presente ordinanza si intendono per guardiani di animali le persone titolari di:
+
+- a. un attestato federale di capacità di cui all’articolo 38 LFPr[^195-1];
+- b. un certificato di capacità secondo l’ordinanza del DFI del 22 agosto 1986[^195-2] concernente l’ottenimento del certificato di capacità di guardiano d’animali;
+- c. un certificato di capacità rilasciato dall’USAV prima del 1998[^195-3].
+
+[^195-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^195-2]: [[RU 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [RU 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)art. 70]. Vedi ora l’O del 5 set. 2008 concernente le formazioni per la detenzione e il trattamento degli animali ([RS 455.109.1](https://fedlex.data.admin.ch/eli/cc/2008/609)).
+[^195-3]: Art. 75 cpv. 2 dell’O del 27 mag. 1981 sulla protezione degli animali ([RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
+
+#### Art. 196
+
+**Professioni legate alla pesca**
+
+Rientrano nelle professioni legate alla pesca le formazioni seguenti:
+
+- a.[^196-1] la formazione di pescatrice o pescatore professionista con attestato professionale federale di cui all’articolo 42 LFPr[^196-2];
+- b.[^196-3] la formazione di guardapesca con attestato professionale federale di cui all’articolo 42 LFPr;
+- c. una formazione equivalente confermata dall’ufficio cantonale competente o un’esperienza pratica di almeno tre anni.
+
+[^196-1]: Correzione del 4 set. 2018 ([RU 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
+[^196-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^196-3]: Correzione del 4 set. 2018 ([RU 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
+
+#### Art. 197
+
+**Formazione specialistica non legata a una professione**
+
+<sup>1</sup> La formazione di cui all’articolo 192 capoverso 1 lettera b fornisce le conoscenze tecniche e le competenze pratiche necessarie per la detenzione adeguata degli animali, l’utilizzo, l’allevamento responsabile e il trattamento rispettoso degli stessi.
+
+<sup>2</sup> La formazione comprende una parte teorica e una parte pratica. La parte pratica deve comprendere un numero sufficiente di esercitazioni.
+
+<sup>3</sup> Il DFI disciplina gli obiettivi di apprendimento, la forma, il contenuto e la durata della formazione teorica e pratica.
+
+#### Art. 198
+
+**Formazione con attestato di competenza**
+
+<sup>1</sup> La formazione di cui all’articolo 192 capoverso 1 lettera c fornisce conoscenze di base o competenze pratiche necessarie per la detenzione adeguata e il trattamento rispettoso degli animali.
+
+<sup>2</sup> Essa può essere conseguita con un corso o un periodo di pratica.
+
+<sup>3</sup> Il DFI disciplina gli obiettivi di apprendimento, la forma, il contenuto e la durata della formazione.
+
+### Sezione 3: Riconoscimento e organizzazione delle formazioni e delle formazioni continue
+
+[^chap9-sec3-1]
+
+[^chap9-sec3-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 199
+
+**Riconoscimento da parte dell’USAV e dell’autorità cantonale**
+
+<sup>1</sup> L’USAV riconosce le formazioni di cui all’articolo 197 e i corsi di cui all’articolo 198 capoverso 2. Pubblica la lista delle formazioni riconosciute.[^199-1]
+
+<sup>2</sup> Esso può affidare a organizzazioni esterne lo svolgimento o il controllo di qualità dei corsi di formazione e perfezionamento. Il capitolato d’oneri e i criteri di qualità devono essere riportati nel mandato di prestazioni.
+
+<sup>3</sup> In casi specifici l’autorità cantonale può riconoscere una formazione diversa da quella richiesta se la persona in questione dimostra di possedere conoscenze e capacità equivalenti o di aver esercitato una professione con requisiti analoghi. Se necessario, può obbligare queste persone ad assolvere una formazione complementare.
+
+<sup>4</sup> L’autorità cantonale riconosce la formazione continua nell’ambito della sperimentazione animale. [^199-2]
+
+[^199-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^199-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 200
+
+**Criteri e procedura di riconoscimento**
+
+<sup>1</sup> La domanda di riconoscimento di una formazione di cui all’articolo 197 o di un corso di cui all’articolo 198 capoverso 2 deve essere presentata all’USAV in forma elettronica corredata della documentazione e del piano di studio.[^200-1]
+
+<sup>2</sup> La documentazione deve contenere dati sugli obiettivi di apprendimento, la forma, il contenuto e la durata della formazione nonché sulla formazione e l’esperienza professionale del personale docente. Per le formazioni di cui all’articolo 197 deve inoltre contenere dati sull’esame.[^200-2]
+
+<sup>3</sup> Il riconoscimento è limitato a cinque anni.
+
+<sup>4</sup> Il riconoscimento può essere revocato dall’USAV se l’esecuzione non è conforme alla presente ordinanza o se differisce considerevolmente dalla documentazione presentata con la domanda di riconoscimento.[^200-3]
+
+<sup>5</sup> Per la domanda di rinnovo del riconoscimento deve essere presentata la documentazione di cui al capoverso 2 e dimostrata la frequentazione della formazione continua di cui all’articolo 190 capoverso 1.[^200-4]
+
+<sup>6</sup> L’USAV può vietare il rilascio degli attestati di formazione di cui all’articolo 193 capoverso 1 lettere b e c alle persone che offrono le formazioni di cui all’articolo 197 o i corsi di cui all’articolo 198 capoverso 2, se l’loro esecuzione è in contraddizione con la legislazione sulla protezione degli animali o se differisce considerevolmente dalla documentazione presentata con la domanda di riconoscimento.[^200-5]
+
+[^200-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^200-4]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-5]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 200a
+
+**Riconoscimento di qualifiche estere**[^200a-1]
+
+<sup>1</sup> L’USAV decide in merito all’equipollenza delle formazioni estere secondo gli articoli 197 e 198.
+
+<sup>2</sup>
+
+Le persone che dispongono di una qualifica professionale estera prima di esercitare un’attività per la quale la presente ordinanza prevede una formazione di cui all’articolo 192 capoverso 1 o un diploma specifico devono far riconoscere il loro diploma:
+
+- a. dalla Segreteria di Stato per la formazione, la ricerca e l’innovazione per un diploma federale secondo la LFPr[^200a-2] o un diploma secondo la legge federale del 30 settembre 2011[^200a-3] sulla promozione e sul coordinamento del settore universitario svizzero;
+- b. dall’autorità competente per altri diplomi[^200a-4].
+
+<sup>3</sup> Per le persone che possono far valere l’allegato III dell’Accordo del 21 giugno 1999[^200a-5] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone oppure l’allegato K della Convenzione del 4 gennaio 1960[^200a-6] istitutiva dell’Associazione europea di libero scambio (AELS) rimangono salve le disposizioni della legge federale del 14 dicembre 2012[^200a-7] sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate.
+
+[^200a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^200a-4]: L’elenco delle autorità competenti è disponibile su: www.sbfi.admin.ch &gt; Formazione &gt; Riconoscimento dei diplomi esteri.
+[^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+
+#### Art. 201
+
+**Organizzazione delle formazioni e delle formazioni continue specialistiche**[^201-1]
+
+<sup>1</sup> Le imprese addette al trasporto professionale di animali organizzano, in collaborazione con le associazioni di categoria, corsi di formazione e formazione continua per il trasporto di animali.
+
+<sup>2</sup> I macelli organizzano, in collaborazione con le associazioni di categoria, corsi di formazione e formazione continua sul trattamento degli animali da macello.
+
+<sup>3</sup> Gli istituti e i laboratori di sperimentazione animale organizzano, in collaborazione con le associazioni di categoria, corsi di formazione e formazione continua sul trattamento degli animali da laboratorio e sull’esecuzione e direzione degli esperimenti.
+
+<sup>4</sup> Il servizio specializzato cantonale garantisce la formazione e la formazione continua degli organi di esecuzione competenti per la circolazione stradale..
+
+[^201-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 202
+
+**Esame**
+
+<sup>1</sup> Le formazioni di cui all’articolo 197 devono concludersi con un esame.[^202-1]
+
+<sup>2</sup> Il DFI emana il regolamento d’esame.
+
+[^202-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 4: Requisiti per i formatori dei detentori di animali
+
+#### Art. 203
+
+**Formatori dei detentori di animali**
+
+<sup>1</sup> Chiunque impartisce ai detentori di animali una formazione di cui all’articolo 192 capoverso 1 lettera b o c sulla detenzione e il trattamento degli animali deve aver conseguito una formazione di cui all’articolo 197 e aver maturato almeno tre anni di esperienza con la specie animale in questione. La formazione deve concludersi con un esame. Il DFI emana il regolamento d’esame.[^203-1]
+
+<sup>2</sup>
+
+L’USAV riconosce i corsi per la formazione dei formatori qualora, oltre a soddisfare i requisiti di cui all’articolo 197, forniscano anche le conoscenze seguenti:
+
+- a. conoscenze di base in didattica e diritto;
+- b. conoscenze di base in formazione degli adulti;
+- c. organizzazione di corsi.
+
+<sup>3</sup> La formazione deve essere conseguita presso un’organizzazione di cui all’articolo 205.
+
+[^203-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 204
+
+**Formatori per gli interventi in anestesia**
+
+Chiunque impartisce ai detentori di animali una formazione secondo l’articolo 32 per eseguire interventi in anestesia deve essere titolare di un diploma in medicina veterinaria.
+
+#### Art. 205
+
+**Requisiti per i centri di formazione**[^205-1]
+
+<sup>1</sup>
+
+Le formazioni di cui all’articolo 203 possono essere offerte da:
+
+- a. un istituto di diritto pubblico;
+- b. un’organizzazione incaricata dal servizio specializzato cantonale;
+- c. un’altra organizzazione che dimostri di avere il personale docente qualificato per impartire tale formazione e un certificato ISO 29990:2010[^205-2] oppure eduQua:2012[^205-3] valido o una certificazione equivalente per istituzioni che si occupano di formazione degli adulti.
+
+<sup>2</sup> La certificazione di cui al capoverso 1 lettera c deve essere stata rilasciata da un organismo di certificazione per i sistemi di gestione accreditato secondo l’ordinanza del 17 giugno 1996[^205-4] sull’accreditamento e sulla designazione.
+
+[^205-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^205-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^205-3]: La norma menzionata può essere consultata e ottenuta presso la segreteria eduQua, Oerlikonerstrasse 38, 8057 Zurigo.
+[^205-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 206
+
+**Requisiti per le aziende in cui si svolgono periodi di pratica**
+
+<sup>1</sup> L’azienda nella quale si svolgono periodi di pratica nell’ambito di una formazione o di un perfezionamento secondo la presente ordinanza deve disporre di un effettivo di animali che corrisponda almeno, a livello di dimensioni e di specie animale, a quello che il praticante intende accudire. La persona responsabile dell’azienda deve disporre della qualifica necessaria per l’accudimento di tale effettivo.[^206-1]
+
+<sup>2</sup> Il praticante deve ricevere istruzioni direttamente dalla persona responsabile dell’accudimento degli animali.
+
+[^206-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+## Capitolo 9*a*: Infrazioni
+
+[^chap9a-1]
+
+[^chap9a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 206a
+
+Secondo l’articolo 28 capoverso 3 LPAn e se non è applicabile l’articolo 26 LPAn è punito chiunque, intenzionalmente o per negligenza:
+
+- a. importa delfini o altri cetacei (*Cetacea*; art. 7 cpv. 3 LPAn);
+- b. viola le prescrizioni sull’addestramento di cani per i servizi di difesa (art. 74);
+- c. viola le prescrizioni sull’addestramento di cani da caccia, di cani da protezione del bestiame e di cani da conduzione del bestiame (art. 75);
+- d. impiega senza autorizzazione, a scopi terapeutici, apparecchi a scarica elettrica o che emettono segnali acustici molto sgradevoli per il cane oppure non rispetta i relativi obblighi di documentazione (art. 76 cpv. 3 e 4);
+- [tab] d<sup>bis</sup>.[^206a-1]non adempie gli obblighi di informazione di cui all’articolo 76*a* capoverso 1;
+- e. viola l’obbligo di notifica di incidenti con cani (art. 78);
+- f. mette in commercio senza autorizzazione sistemi e impianti di stabulazione fabbricati in serie destinati ad animali da reddito (art. 81);
+- g. esercita le attività di cui all’articolo 101 lettere b, c o e senza disporre dell’autorizzazione o senza soddisfare i requisiti in materia di personale di cui all’articolo 102;
+- h. non adempie, in qualità di gestore di un macello, gli obblighi di cui all’articolo 177*a*;
+- i. non soddisfa, in qualità di formatore, i requisiti previsti (art. 203 e 204).
+
+[^206a-1]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+## Capitolo 10: Compiti amministrativi ed esecuzione
+
+### Sezione 1: Compiti dell’USAV
+
+#### Art. 207
+
+**Ricerca**
+
+L’USAV mette a disposizione le basi scientifiche necessarie a elaborare i criteri e le raccomandazioni inerenti alla detenzione adeguata e al trattamento rispettoso degli animali. Esso può affidare tale incarico a specialisti e a istituti esterni.
+
+#### Art. 208
+
+**Sorveglianza, formazione e informazione**
+
+<sup>1</sup> L’USAV provvede a un’esecuzione uniforme della LPAn e della presente ordinanza da parte dei Cantoni.[^208-1]
+
+<sup>2</sup> Mediante l’informazione, l’USAV promuove il trattamento adeguato degli animali e riferisce sugli sviluppi nell’ambito della protezione animale.
+
+[^208-1]: La correzione del 14 lug. 2020 concerne soltanto il testo francese ([RU 2020 2905](https://fedlex.data.admin.ch/eli/oc/2020/538)).
+
+#### Art. 209
+
+**Ordinanze dell’Ufficio federale e sistema informatico centrale**
+
+<sup>1</sup> L’USAV può emanare ordinanze di natura tecnica.
+
+<sup>2</sup> Esso può obbligare le autorità cantonali competenti a inserire le autorizzazioni e i risultati dei controlli ufficiali nel sistema dʼinformazione per i dati del servizio veterinario pubblico raccolti nell’ambito dellʼesecuzione (ASAN) di cui allʼordinanza del 6 giugno 2014[^209-1] concernente i sistemi dʼinformazione per il servizio veterinario pubblico.[^209-2]
+
+<sup>3</sup> e <sup>4</sup> ...[^209-3]
+
+<sup>5</sup> ...[^209-4]
+
+[^209-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^209-2]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^209-3]: Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^209-4]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogato dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 209a
+
+**Modelli di formulario**[^209a-1]
+
+<sup>1</sup> L’USAV redige i modelli per i formulari previsti nella presente ordinanza.
+
+<sup>2</sup>
+
+Il modello di formulario per le domande di autorizzazione per detenzioni di animali, per centri di detenzione di animali da laboratorio, per il commercio e la pubblicità con animali nonché per la cessione di un numero di animali superiore a quello menzionato nell’articolo 101 lettera c contiene i dati seguenti:
+
+- a. la persona responsabile e il suo domicilio o sede sociale;
+- b. l’indirizzo e lo scopo della detenzione di animali;
+- c. le specie animali e il numero di animali; nel caso del commercio: le specie animali e il volume del commercio;
+- d. le dimensioni, il numero e la configurazione delle unità di detenzione;
+- e. le attrezzature e la densità di occupazione dei locali e dei parchi;
+- f. l’effettivo e la formazione del personale che accudisce gli animali;
+- g. per la pubblicità: le circostanze precise e la durata dell’impiego degli animali;
+- h. per i centri di detenzione di animali da laboratorio: la detenzione di linee o ceppi con mutazioni patologiche e di altri animali che necessitano di un accudimento e di una cura particolari.
+
+<sup>3</sup>
+
+Il modello di formulario per le domande di autorizzazione per servizi di accudimento e di cura contiene i dati seguenti:
+
+- a. la persona responsabile e il suo domicilio o sede sociale;
+- b. lo scopo del servizio offerto, il luogo in cui è fornito, il genere di locali e parchi, nonché il genere e la dotazione dei veicoli per il trasporto;
+- c. le specie animali, nonché il genere e il numero dei servizi;
+- d. il numero e la formazione delle persone che forniscono il servizio.
+
+[^209a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 2: Compiti dei Cantoni
+
+#### Art. 210
+
+**Organi esecutivi cantonali**
+
+<sup>1</sup> Il veterinario cantonale dirige il servizio specializzato cantonale.
+
+<sup>2</sup> Il Cantone impiega persone in numero tale da assicurare un’esecuzione efficace. Le esigenze sono disciplinate dall’ordinanza del 16 novembre 2011[^210-1] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.[^210-2]
+
+[^210-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^210-2]: Nuovo testo giusta l’all. 2 n. II 2 dell’O del 16 nov. 2011 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+
+#### Art. 211
+
+**Cauzione**
+
+<sup>1</sup> I Cantoni possono subordinare le autorizzazioni per la detenzione professionale di animali selvatici e per il commercio professionale di animali al pagamento di una cauzione. L’importo è stabilito secondo la specie e il numero degli animali.
+
+<sup>2</sup> Con la cauzione possono essere coperte le spese per i provvedimenti che il Cantone deve prendere secondo l’articolo 24 LPAn.
+
+#### Art. 212
+
+**Diniego e revoca di autorizzazioni**
+
+<sup>1</sup> Le autorizzazioni possono essere negate o revocate se il titolare ha violato ripetutamente le prescrizioni concernenti la protezione degli animali, la protezione delle specie o la polizia sanitaria o se ha disatteso un ordine dell’autorità.
+
+<sup>2</sup> L’autorità concedente revoca un’autorizzazione se i presupposti fondamentali non sono più adempiuti oppure se, nonostante avvertimento, le condizioni e gli oneri non sono rispettati.
+
+<sup>3</sup> Sono fatti salvi i provvedimenti di cui agli articoli 23 e 24 LPAn.
+
+#### Art. 212a
+
+**Divieti di tenere animali**[^212a-1]
+
+<sup>1</sup> L’emanazione di un divieto di tenere animali secondo l’articolo 23 LPAn compete all’autorità del Cantone in cui la persona interessata ha il domicilio oppure in cui sono tenuti o allevati gli animali.
+
+<sup>2</sup> Le autorità cantonali competenti provvedono affinché i divieti di tenere animali secondo lʼarticolo 23 LPAn vengano inseriti in ASAN.[^212a-2]
+
+[^212a-1]: Introdotto dall’art. 26 dell’O del 29 ott. 2008 concernente il Sistema d’informazione per il Servizio veterinario pubblico ([RU 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775)). Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^212a-2]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+
+#### Art. 212b
+
+**Comunicazione di decisioni penali cantonali**[^212b-1]
+
+Le autorità cantonali comunicano all’USAV tutte le decisioni penali e le decisioni di abbandono del procedimento pronunciate in applicazione della legislazione sulla protezione degli animali.
+
+[^212b-1]: Introdotto dal n. I dell’O del 20 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5001](https://fedlex.data.admin.ch/eli/oc/2010/707)).
+
+### Sezione 3: Controlli
+
+#### Art. 213
+
+**Aziende agricole detentrici di animali**[^213-1]
+
+<sup>1</sup> Il servizio specializzato cantonale provvede affinché le detenzioni di bovini, lama, alpaca, equidi, suini, caprini, ovini, conigli e volatili domestici siano controllate.
+
+<sup>2</sup> I controlli si basano sull’ordinanza del 27 maggio 2020[^213-2] sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso.[^213-3]
+
+<sup>3</sup> Il servizio specializzato cantonale redige annualmente, secondo le disposizioni dell’USAV, un rapporto sulla propria attività di controllo e sulle misure disposte.
+
+<sup>4</sup> e <sup>5</sup> ...[^213-4]
+
+[^213-1]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
+[^213-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^213-3]: Nuovo testo giusta l’all. 4 n. 2 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^213-4]: Abrogati dall’all. 4 n. 2 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 214
+
+**Detenzioni di animali selvatici soggette ad autorizzazione**[^214-1]
+
+<sup>1</sup> Il servizio specializzato cantonale controlla, almeno ogni due anni, le detenzioni di animali selvatici soggette ad autorizzazione. Se due controlli consecutivi non hanno dato adito a contestazioni, l’intervallo tra i controlli può essere prolungato fino a quattro anni al massimo.
+
+<sup>2</sup> I controlli nelle detenzioni di animali selvatici soggette ad autorizzazione che servono alla produzione di derrate alimentari sono retti dall’articolo 213.
+
+[^214-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 215
+
+**Aziende che commerciano animali, detenzioni e allevamenti professionali di animali da compagnia, pensioni o rifugi per animali[^215-1]**
+
+<sup>1</sup> L’autorità cantonale controlla le aziende che commerciano animali almeno una volta all’anno. Se due controlli consecutivi non hanno dato adito a contestazioni, l’intervallo tra i controlli può essere prolungato fino a tre anni al massimo. Le borse di settore, i mercatini e le esposizioni in cui si commerciano animali nonché l’impiego di animali nella pubblicità devono essere controllati a campione.[^215-2]
+
+<sup>2</sup> Il servizio specializzato cantonale provvede affinché tutte le detenzioni e gli allevamenti di animali da compagnia nonché le pensioni o i rifugi per animali siano controllati ogni due anni. Se due controlli consecutivi non hanno dato adito a contestazioni, l’intervallo tra i controlli può essere prolungato fino a cinque anni al massimo.
+
+[^215-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^215-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+#### Art. 216
+
+**Centri di detenzione di animali da laboratorio ed esperimenti sugli animali**
+
+<sup>1</sup> Il servizio specializzato cantonale controlla i centri di detenzione di animali da laboratorio almeno una volta all’anno.
+
+<sup>2</sup>
+
+I controlli comprendono segnatamente:
+
+- a. il rispetto delle condizioni e degli oneri legati all’autorizzazione;
+- b. lo stato degli animali e dell’infrastruttura;
+- c. i requisiti riguardanti il personale;
+- d. la tenuta del registro di controllo dell’effettivo degli animali e la documentazione relativa al rilevamento dell’aggravio di animali geneticamente modificati o di linee e ceppi con mutazioni patologiche.
+
+<sup>3</sup> Il servizio specializzato cantonale controlla ogni anno l’esecuzione degli esperimenti sugli animali relativamente ad almeno un quinto delle autorizzazioni in corso. La scelta si basa sul livello di sofferenza degli animali, sul numero degli animali utilizzati, sul livello di complessità tecnica degli esperimenti e sulle carenze constatate in precedenza.
+
+<sup>4</sup>
+
+I controlli comprendono segnatamente:
+
+- a. l’esecuzione corretta degli esperimenti e l’osservanza delle disposizioni di legge;
+- b. il rispetto delle condizioni e degli oneri;
+- c. i verbali relativi all’esecuzione degli esperimenti;
+- d. lo stato dell’infrastruttura in cui si sono svolti gli esperimenti;
+- e. le condizioni inerenti al personale.
+
+#### Art. 217
+
+**Trasporti di animali**
+
+Il servizio specializzato cantonale provvede affinché i trasporti di animali siano controllati per campionatura.
+
+#### Art. 218
+
+**Verifica dell’attività di controllo delegata a privati**
+
+Se ha delegato i controlli a privati, il servizio specializzato cantonale verifica per campionatura la loro attività di controllo.
+
+### Sezione 4: Emolumenti cantonali
+
+#### Art. 219
+
+Il servizio specializzato cantonale può riscuotere i seguenti emolumenti per i servizi elencati qui di seguito:
+
+<table>
+<tr><td></td><td>Fr.</td></tr>
+<tr><td>a. autorizzazioni e decisioni, secondo il tempo impiegato</td><td>da 100.– a 5000.–</td></tr>
+<tr><td>b. controlli che hanno dato luogo a contestazioni</td><td>secondo il tempo impiegato</td></tr>
+<tr><td>c. servizi particolari che hanno causato un dispendio che esula dall’attività consueta del servizio</td><td>secondo il tempo impiegato</td></tr>
+</table>
+
+## Capitolo 11: Disposizioni finali
+
+### Sezione 1: Abrogazione e modifica del diritto vigente
+
+#### Art. 220
+
+L’abrogazione e la modifica del diritto previgente sono disciplinate nell’allegato 6.
+
+### Sezione 2: Disposizioni transitorie e derogatorie
+
+#### Art. 221
+
+**Disposizione transitoria della modifica del 27 giugno 2001[^221-1]**
+
+Per le detenzioni di animali selvatici esistenti il 1° settembre 2001, per i parchi e i bacini esistenti – a eccezione dei parchi per ara, cacatua e iguane di grossa taglia – è previsto un periodo transitorio fino alla fine di agosto 2011 per l’adeguamento alle dimensioni minime qualora i parchi o i bacini siano inferiori al 90 per cento delle dimensioni minime di cui all’allegato 2 (animali selvatici) o non soddisfino i requisiti relativi all’allestimento dei parchi.
+
+[^221-1]: [RU 2001 2063](https://fedlex.data.admin.ch/eli/oc/2001/304)
+
+#### Art. 222
+
+**Disposizioni derogatorie**
+
+<sup>1</sup> Le persone che il 1° settembre 2008 erano registrate come gestori di un’azienda agricola o come detentori di animali di cui all’articolo 31 capoverso 4 non devono recuperare la formazione di cui all’articolo 31 capoversi 1 e 4 per poter detenere animali.
+
+<sup>2</sup> Le persone in grado di dimostrare che il 1° settembre 2008 erano registrate come gestori di un’azienda di detenzione professionale di equidi non devono presentare l’attestato di formazione di cui all’articolo 31 capoverso 5.[^222-1]
+
+<sup>3</sup> I requisiti di formazione di cui all’articolo 132 per i responsabili d’esperimento e di cui all’articolo 134 per le persone che eseguono esperimenti sugli animali non devono essere soddisfatti dalle persone che esercitavano già questa funzione prima del 1° luglio 1999.
+
+<sup>4</sup> ...[^222-2]
+
+[^222-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
+[^222-2]: Abrogato dal n. I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
+
+#### Art. 223
+
+**Disposizioni transitorie per gli esperimenti sugli animali**
+
+<sup>1</sup> Agli esperimenti sugli animali autorizzati prima del 1° settembre 2008 si applica il diritto previgente.
+
+<sup>2</sup> Agli esperimenti sugli animali la cui domanda di autorizzazione è stata presentata prima del 1° luglio 2008 si applica il diritto previgente.
+
+<sup>3</sup> Agli esperimenti sugli animali che l’autorità cantonale ha dichiarato non soggetti all’obbligo di autorizzazione prima del 1° settembre 2008 si applica il diritto previgente fino al 1° settembre 2011.
+
+#### Art. 224
+
+**Disposizione transitoria per la deroga all’obbligo di anestesia per la castrazione di lattonzoli**
+
+Per la castrazione senza anestesia dei lattonzoli fino al quattordicesimo giorno di vita è previsto un termine transitorio fino al 31 dicembre 2009.
+
+#### Art. 225
+
+**Altre disposizioni derogatorie**
+
+Altre disposizioni transitorie figurano nell’allegato 5.
+
+#### Art. 225a
+
+**Disposizioni transitorie della modifica del 23 ottobre 2013**[^225a-1]
+
+<sup>1</sup> Per le persone notificate secondo la versione vigente dell’articolo 101 sono necessarie autorizzazioni secondo il nuovo articolo 101 dal 1° gennaio 2017.
+
+<sup>2</sup>
+
+Entro il 1° gennaio 2017 devono essere soddisfatti i requisiti riguardanti la formazione:
+
+- a. del personale che accudisce animali in forme di accudimento professionale di animali diverse dalle pensioni o dai rifugi: secondo l’articolo 102 capoversi 1 e 2 lettera b;
+- b. per la cessione di animali secondo l’articolo 101 lettera c: secondo l’articolo 102 capoverso 2 lettera d;
+- c. per la cura degli unghioni dei bovini e degli zoccoli degli equidi a titolo professionale: secondo l’articolo 102 capoverso 5.
+
+<sup>3</sup> Le detenzioni autorizzate prima dell’entrata in vigore della presente ordinanza devono soddisfare i requisiti per la detenzione di struzzi africani secondo la tabella 2 dell’allegato 2 dal 1° gennaio 2024.
+
+<sup>4</sup> I compartimenti per il trasporto su ripiani dei veicoli per il trasporto di animali che erano in circolazione il 1° settembre 2010 devono essere conformi, dal 1° settembre 2020, ai requisiti concernenti le altezze minime di cui all’allegato 4.
+
+[^225a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+#### Art. 225b
+
+**Disposizioni transitorie della modifica del 10 gennaio 2018**[^225b-1]
+
+<sup>1</sup> Fino al 28 febbraio 2019 per le detenzioni di piccioni domestici già esistenti al momento dell’entrata in vigore della presente modifica i requisiti di cui all’allegato 1 tabella 9-3 sono retti dal diritto anteriore.
+
+<sup>2</sup> Fino al 28 febbraio 2019 per le detenzioni di pesci a scopi ornamentali già esistenti al momento dell’entrata in vigore della presente modifica i requisiti di cui all’allegato 2 tabella 8 sono retti dal diritto anteriore.
+
+<sup>3</sup> Le persone che offrono formazioni specialistiche non legate a una professione riconosciute prima dell’entrata in vigore della presente modifica e che per la conclusione di tali formazioni non dovevano svolgere esami, dal 1° marzo 2019 devono svolgere gli esami finali. I piani d’esame devono essere presentati all’USAV entro il 31 agosto 2018 secondo la procedura di cui all’articolo 200.
+
+<sup>4</sup> Le formazioni specialistiche non legate a una professione iniziate entro il 28 febbraio 2018 possono essere concluse secondo il diritto anteriore.
+
+[^225b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+### Sezione 3: Entrata in vigore
+
+#### Art. 226
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° settembre 2008.
+
+<sup>2</sup> Gli articoli 23 capoversi 1 lettere b–d e 2, 97 capoverso 2, 100 capoverso 2, 194 capoverso 1 lettera a e gli articoli 3 primo periodo, 5*b* e 5*d* dell’allegato 6 cifra II/4 entrano in vigore il 1° gennaio 2009.
+
+Allegato 1[^t-1]
+
+(art. 10)
+
+## Requisiti minimi per la detenzione di animali domestici
+
+[^t-1]: Aggiornato dal n. II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) e dal n. II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+Osservazioni preliminari
+
+Salvo diversa indicazione, le misure qui indicate delimitano spazi liberi. Esse possono essere ridotte solo per arrotondamento degli angoli o per sistemare poste di foraggiamento o abbeveraggio negli angoli.
+
+Tabella 1
+
+## Bovini
+
+<table>
+<tr><th>Categoria animale</th><th></th><th colspan="2">Vitelli</th><th colspan="2"></th><th></th><th colspan="3">Animali giovani</th><th colspan="2"></th><th></th><th></th><th colspan="3">Vacche e primipare in gestazione avanzata<sup>1</sup> con un’altezza al garrese di</th></tr>
+<tr><th></th><th></th><th>fino a 2 settimane</th><th colspan="2">fino a 3 settimane</th><th colspan="2">da 4 settimane a 4 mesi</th><th>fino a 200 kg</th><th>da 200 a 300 kg</th><th colspan="2">da 300 a 400 kg</th><th colspan="3">oltre 400 kg</th><th>125 ± 5 cm</th><th>135 ± 5 cm</th><th>145 ± 5 cm</th></tr>
+<tr><td>1 Stabulazione a posta fissa<sup>2</sup></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>11 Larghezza posta, per animale</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>70</td><td>80</td><td colspan="2">90</td><td colspan="3">100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td>120<sup>3</sup></td></tr>
+<tr><td>12 Lunghezza posta</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>121 in posta corta<sup>4</sup></td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>120</td><td>130</td><td colspan="2">145</td><td colspan="3">155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td>195<sup>3</sup></td></tr>
+<tr><td>122 in posta media</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td>240<sup>3</sup></td></tr>
+<tr><td>2 Stabulazione in box</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>21 Larghezza</td><td>cm</td><td>85</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>22 Lunghezza</td><td>cm</td><td>130</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>3 Stabulazione libera in gruppo</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>31 Superficie del settore di riposo con lettiera in sistemi senza box di riposo, per animale</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">1,0<sup>6</sup></td><td colspan="2">1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td>2,0<sup>8</sup></td><td colspan="2">2,5<sup>8</sup></td><td colspan="3">3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,5<sup>3</sup></td><td>5,0<sup>3</sup></td></tr>
+<tr><td>32 Box di riposo</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>321 Larghezza box, per animale</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>70</td><td>80</td><td colspan="2">90</td><td colspan="3">100</td><td>110<sup>3</sup></td><td>120<sup>3, 13</sup></td><td>125<sup>3</sup></td></tr>
+<tr><td>322 Lunghezza box contro parete</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>160</td><td>190</td><td colspan="2">210</td><td colspan="3">240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td>260<sup>3</sup></td></tr>
+<tr><td>323 Lunghezza box contrapposti</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>150</td><td>180</td><td colspan="2">200</td><td colspan="3">220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td>235<sup>3</sup></td></tr>
+<tr><td>33 Larghezza della posta di foraggiamento, per animale</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td>78<sup>9</sup></td></tr>
+<tr><td>34 Profondità della posta di foraggiamento inclusa la corsia<sup>10</sup></td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td>330<sup>11</sup></td></tr>
+<tr><td>35 Corsia retrostante una fila di box10</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td>260<sup>12</sup></td></tr>
+</table>
+
+Osservazioni sulla tabella 1 – Bovini
+
+<table>
+<tr><td><sup>1</sup> Sono considerate *in gestazione avanzata* le vacche e le primipare nei due mesi prima del parto.</td></tr>
+<tr><td><sup>2</sup> Nelle stalle già esistenti il 1° settembre 2008 nelle regioni d’estivazione la posta deve essere larga 99 cm e lunga 152 cm in caso di posta corta o 185 cm in caso di posta media. Gli animali non possono essere tenuti in tali poste per più di otto ore al giorno.</td></tr>
+<tr><td><sup>3</sup> Le misure per le lattifere valgono per gli animali con un’altezza al garrese di *120–150 cm**.* Per gli animali di taglia superiore le misure vanno aumentate di conseguenza; per gli animali di taglia inferiore possono essere adeguatamente ridotte. Le misure per gli animali con un’altezza al garrese di *125 cm* *± 5 cm* e *145 cm ± 5 cm* valgono per le stalle di nuova realizzazione e per le stalle che, in virtù dell’allegato 5 cifra 48, hanno diritto a un termine transitorio di cinque anni per l’adeguamento delle poste fisse e dei box di riposo.</td></tr>
+<tr><td><sup>4</sup> In caso di posta corta lo spazio sopra la mangiatoia deve essere a disposizione degli animali in qualunque momento affinché possano sdraiarsi, alzarsi, riposare e alimentarsi. La struttura della mangiatoia deve consentire agli animali di compiere i movimenti tipici della specie e di accedere facilmente al foraggio.</td></tr>
+<tr><td><sup>5</sup> Vale per le stalle esistenti il 1° settembre 2008 con un sistema di stabulazione a posta fissa autorizzato, per le stalle con un sistema di stabulazione a posta fissa di recente installazione nonché per le stalle che, in virtù dell’allegato 5 cifra 48, hanno diritto a un termine transitorio di cinque anni per l’adeguamento delle poste fisse e dei box di riposo. Per le altre stalle la lunghezza minima è di 165 cm.</td></tr>
+<tr><td><sup>6</sup> La superficie del box deve essere di almeno 2,0 m<sup>2</sup>.</td></tr>
+<tr><td><sup>7</sup> Secondo l’età e la taglia dei vitelli. La superficie del box deve essere di almeno 2,4–3,0 m<sup>2</sup>.</td></tr>
+<tr><td><sup>8</sup> La superficie di riposo può essere ridotta del 10 per cento al massimo se gli animali possono accedere in ogni momento anche a un’altra area di pari dimensioni o più ampia.</td></tr>
+<tr><td><sup>9</sup> Vale per le poste di foraggiamento di nuova realizzazione.</td></tr>
+<tr><td><sup>10</sup> Se una stalla esistente viene trasformata in stalla a stabulazione libera le misure possono essere ridotte di 40 cm al massimo, a condizione che le separazioni dei box non raggiungano la delimitazione posteriore, che la corsia non sia senza sbocco e che esistano altri spazi in cui gli animali possono evitarsi.</td></tr>
+<tr><td><sup>11</sup> Vale per le aree di foraggiamento di nuova realizzazione.</td></tr>
+<tr><td><sup>12</sup> Vale per le corsie di nuova realizzazione.</td></tr>
+<tr><td><sup>13</sup> Nelle stalle realizzate prima del 1° settembre 2008 è ammessa una tolleranza di 1 cm per gli archetti pieghevoli non fissati posteriormente.</td></tr>
+</table>
+
+Tabella 2
+
+## Bovini su pavimenti completamente perforati
+
+<table>
+<tr><th>Categoria animale</th><th colspan="5">Animali giovani</th></tr>
+<tr><th></th><th>fino a 200 kg</th><th>200–250 kg</th><th>250–350 kg</th><th>350–450 kg</th><th>oltre 450 kg</th></tr>
+<tr><td>1 Stabulazione libera in gruppo</td><td colspan="5"></td></tr>
+<tr><td>11 Superficie con pavimenti completamente perforati, per animale m<sup>2</sup></td><td>1,8</td><td>2,0</td><td>2,3</td><td>2,5</td><td>3,0</td></tr>
+</table>
+
+Tabella 3
+
+## Suini (eccettuati i minipig)
+
+<table>
+<tr><th>Categoria animale</th><th></th><th colspan="2">Suinetti svezzati</th><th></th><th>Suini<sup>1</sup></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th>Scrofe</th><th>Verri</th></tr>
+<tr><th></th><th></th><th>Fino a 15 kg</th><th colspan="2">15–25 kg</th><th colspan="2">25–60 kg</th><th colspan="2">60–85 kg</th><th colspan="2">85–110 kg</th><th>110–160 kg</th><th></th><th></th></tr>
+<tr><td>1 Trogolo</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>11 Larghezza del trogolo per capo nella stabulazione in gruppo</td><td>cm</td><td>12</td><td colspan="2">18</td><td colspan="2">27</td><td colspan="2">30</td><td colspan="2">33</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
+<tr><td>2 Superficie al suolo</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>21 Gabbie, box di foraggiamento e di riposo</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>65x190<sup>4</sup></td><td>–</td></tr>
+<tr><td>22 Larghezza delle corsie nei sistemi con box di foraggiamento e di riposo</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>180</td><td>–</td></tr>
+<tr><td>23 Stalle di alimentazione con porta</td><td>cm</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>45x160</td><td>–</td></tr>
+<tr><td>3 Superficie di riposo</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>31 Superficie complessiva per capo<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td colspan="2">0,35</td><td colspan="2">0,60</td><td colspan="2">0,75</td><td colspan="2">0,90</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
+<tr><td>32 Superficie di riposo per capo<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td colspan="2">0,25</td><td colspan="2">0,40</td><td colspan="2">0,50</td><td colspan="2">0,60</td><td>0,95</td><td>–</td><td>3</td></tr>
+<tr><td>321 fino a 6 capi</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
+<tr><td>322 7–20 capi</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
+<tr><td>323 oltre 20 capi</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
+<tr><td>4 Box parto esistenti il 1° luglio 1997</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
+<tr><td>5 Box parto installati dopo il 1° luglio 1997</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
+<tr><td>6 Box parto di nuova realizzazione</td><td>m<sup>2</sup></td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
+</table>
+
+Osservazioni sulla tabella 3 – Suini (eccettuati i minipig)
+
+<table>
+<tr><td><sup>1</sup> Queste misure valgono per i suini tenuti in gruppi composti esclusivamente da capi della stessa età.</td></tr>
+<tr><td><sup>2</sup> Per i trogoli esistenti il 1° settembre 2008 sono sufficienti 40 cm.</td></tr>
+<tr><td><sup>3</sup> Se si utilizzano divisori che sporgono nel box, nei trogoli di nuova realizzazione lo spazio libero nel punto più stretto deve essere di almeno 45 cm.</td></tr>
+<tr><td><sup>4</sup> Al massimo un terzo delle gabbie per scrofe può essere ridotto a 60 cm × 180 cm. Se le gabbie nei box parto non sono regolabili in larghezza e in lunghezza, esse devono misurare 65 cm × 190 cm.</td></tr>
+<tr><td><sup>5</sup> In caso di stabulazione con lettiera profonda, la superficie al suolo va aumentata di conseguenza.</td></tr>
+<tr><td><sup>6</sup> Nei sistemi di stabulazione in gruppo esistenti il 1° settembre 2008 sono sufficienti 2 m<sup>2</sup> per capo.</td></tr>
+<tr><td><sup>7</sup> Un lato del box deve misurare almeno 2 m. Per i verri riproduttori aventi un peso di 110–160 kg e tenuti da soli, sono sufficienti 4 m<sup>2</sup>, almeno la metà dei quali deve essere allestita come superficie di riposo.</td></tr>
+<tr><td><sup>8</sup> All’inizio dell’ingrasso la superficie di riposo può essere ridotta mediante pareti amovibili.</td></tr>
+<tr><td><sup>9</sup> Nelle superfici di riposo di nuova realizzazione un lato deve misurare almeno 2 m.</td></tr>
+<tr><td><sup>10</sup> Di cui almeno 1,6 m<sup>2</sup> di pavimento fisso nel settore di riposo della scrofa e dei lattonzoli.</td></tr>
+<tr><td><sup>11</sup> Di cui almeno 2,25 m<sup>2</sup> nel settore di riposo della scrofa e dei lattonzoli. Nei box parto installati dopo il 31 ottobre 2005, nello spazio calpestabile dalla scrofa deve essere presente una superficie di riposo adiacente di almeno 1,2 m<sup>2</sup> con una larghezza minima di 65 cm e una lunghezza minima di 125 cm. La larghezza minima dei box parto deve essere di almeno 150 cm. I box di dimensioni inferiori a 170 cm devono essere privi di installazioni nei 150 cm posteriori del box.</td></tr>
+</table>
+
+Tabella 4
+
+## Ovini
+
+<table>
+<tr><td>Categoria animale</td><td></td><td>Agnelli</td><td>Animali giovani</td><td>Ovini<sup>1</sup></td><td colspan="2">Arieti e pecore<sup>1</sup> senza agnelli</td><td></td><td colspan="2">Pecore<sup>1</sup> con agnelli<sup>2</sup></td></tr>
+<tr><td></td><td></td><td>fino a 20 kg</td><td>20–50 kg</td><td>50–70 kg</td><td>70–90 kg</td><td colspan="2">oltre 90 kg</td><td>70–90 kg</td><td>oltre 90 kg</td></tr>
+<tr><td>1 Stabulazione in box singoli</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>11 Superficie dei box per capo</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>2,0</td><td>2,0</td><td colspan="2">2,5</td><td>2,5</td><td>3,0</td></tr>
+<tr><td>2 Stabulazione libera</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>21 Larghezza della posta di foraggiamento per capo<sup>3</sup></td><td>cm</td><td>20</td><td>30</td><td>35</td><td>40</td><td colspan="2">50</td><td>60</td><td>70</td></tr>
+<tr><td>22 Superficie del box per capo</td><td>m<sup>2</sup></td><td>0,3<sup>4</sup></td><td>0,6</td><td>1,0</td><td>1,2</td><td colspan="2">1,5</td><td>1,5<sup>5</sup></td><td>1,8<sup>5</sup></td></tr>
+</table>
+
+Osservazioni sulla tabella 4 – Ovini
+
+<table>
+<tr><td><sup>1</sup> Per le pecore femmine è determinante il peso in condizione di non gravidanza.</td></tr>
+<tr><td><sup>2</sup> Le misure valgono per le pecore con agnelli fino a 20 kg.</td></tr>
+<tr><td><sup>3</sup> La larghezza delle mangiatoie circolari può essere ridotta del 40 per cento.</td></tr>
+<tr><td><sup>4</sup> La superficie del box deve essere di almeno 1 m<sup>2</sup>.</td></tr>
+<tr><td><sup>5</sup> Vale anche per le pecore con agnelli separate momentaneamente dal gruppo.</td></tr>
+</table>
+
+Tabella 5
+
+## Caprini
+
+<table>
+<tr><th>Categoria animale</th><th colspan="2"></th><th>Capretti</th><th colspan="2">Capre<sup>1</sup> e capre pigmee</th><th></th><th colspan="2">Capre<sup>1</sup> e caproni</th></tr>
+<tr><th></th><th colspan="2"></th><th>fino a 12 kg</th><th>12–22 kg</th><th colspan="2">23–40 kg</th><th>40–70 kg</th><th>oltre 70 kg</th></tr>
+<tr><td colspan="2">1 Stabulazione fissa</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">11 Larghezza posta per capo</td><td>cm</td><td>–</td><td>–</td><td colspan="2">40</td><td>50</td><td>60</td></tr>
+<tr><td colspan="2">12 Lunghezza posta<sup>2</sup></td><td>cm</td><td>–</td><td>–</td><td colspan="2">75</td><td>95</td><td>95</td></tr>
+<tr><td colspan="2">2 Stabulazione in box singoli</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">21 Superficie dei box</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">2,0</td><td>3,0</td><td>3,5</td></tr>
+<tr><td colspan="2">3 Stabulazione libera</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">31 Larghezza della posta di foraggiamento per capo</td><td>cm</td><td>15</td><td>20</td><td colspan="2">30</td><td>35</td><td>40</td></tr>
+<tr><td colspan="2">32 Numero di poste di foraggiamento per capo</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">321 gruppi fino a 15 capi</td><td>n</td><td>1</td><td>1</td><td colspan="2">1,1</td><td>1,25</td><td>1,25</td></tr>
+<tr><td colspan="2">322 gruppi di oltre 15 capi; per ogni animale in più</td><td>n</td><td>1</td><td>1</td><td colspan="2">1</td><td>1</td><td>1</td></tr>
+<tr><td colspan="2">33 Superficie dei box per capo3</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">331 Gruppi fino a 15 capi</td><td>m<sup>2</sup></td><td>0,3<sup>4</sup></td><td>0,5</td><td colspan="2">1,2</td><td>1,7</td><td>2,2</td></tr>
+<tr><td colspan="2">332 Gruppi di oltre 15 capi, per ogni animale in più</td><td>m<sup>2</sup></td><td>0,2</td><td>0,4</td><td colspan="2">1,0</td><td>1,5</td><td>2,0</td></tr>
+</table>
+
+Osservazioni sulla tabella 5 – Caprini
+
+<table>
+<tr><td><sup>1</sup> Per le capre femmine è determinante il peso in condizione di non gravidanza.</td></tr>
+<tr><td><sup>2</sup> Le poste non possono presentare perforazioni nella lunghezza minima prescritta.</td></tr>
+<tr><td><sup>3</sup> Almeno il 75 per cento dello spazio deve essere superficie di riposo. L’80 per cento delle nicchie di riposo sopraelevate può essere calcolato come superficie di riposo.</td></tr>
+<tr><td><sup>4</sup> La superficie del box deve essere di almeno 1 m<sup>2</sup>.</td></tr>
+</table>
+
+Tabella 6
+
+## Lama e alpaca
+
+<table>
+<tr><th>Categoria animale</th><th></th><th colspan="2"></th><th>Animali adulti<sup>1</sup></th><th colspan="2"></th></tr>
+<tr><td colspan="3">1 Superficie del parco</td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">11 Gruppi fino a 6 capi</td><td>m<sup>2</sup></td><td>250</td><td></td></tr>
+<tr><td colspan="3">12 Gruppi di oltre 6 capi, inoltre:</td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">– dal 7° al 12° capo, per ogni capo</td><td>m<sup>2</sup></td><td>30</td><td></td></tr>
+<tr><td colspan="3">– dal 13° capo, per ogni capo</td><td>m<sup>2</sup></td><td>10</td><td></td></tr>
+<tr><td colspan="3">2 Stabulazione in gruppo</td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">21 Superficie del riparo o della stalla per capo</td><td>m<sup>2</sup></td><td>2</td><td></td></tr>
+<tr><td colspan="3">3 Stabulazione individuale</td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">31 Superficie del riparo o della stalla</td><td>m<sup>2</sup></td><td>4</td><td></td></tr>
+</table>
+
+Osservazioni sulla tabella 6 – Lama e alpaca
+
+<table>
+<tr><td>1 Gli animali giovani possono essere tenuti nello stesso parco fino all’età di sei mesi.</td></tr>
+</table>
+
+Tabella 7
+
+## Equidi
+
+<table>
+<tr><th>Categoria animale</th><th></th><th colspan="6">Equide</th></tr>
+<tr><th>Altezza al garrese</th><th></th><th>&lt; 120 cm</th><th>120–134 cm</th><th>134–148 cm</th><th>148–162 cm</th><th>162–175 cm</th><th>&gt; 175 cm</th></tr>
+<tr><td>1 Superficie per equide[^annexu1-lvlu1-1]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Box singoli<sup>1, 2</sup> o di gruppo<sup>1, 3, 4</sup></td><td>m<sup>2</sup></td><td>5,5</td><td>7</td><td>8</td><td>9</td><td>10,5</td><td>12</td></tr>
+<tr><td>12 Valori di tolleranza<sup>5</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>7</td><td>8</td><td>9</td><td>10,5</td></tr>
+<tr><td>13 Superficie di riposo nella stalla di gruppo con diversi spazi<sup>1, 3, 4, 6</sup></td><td>m<sup>2</sup></td><td>4</td><td>4,5</td><td>5,5</td><td>6</td><td>7,5</td><td>8</td></tr>
+<tr><td>2 Altezza dei locali nel settore degli equidi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Altezza minima</td><td>m</td><td>1,8</td><td>1,9</td><td>2,1</td><td>2,3</td><td>2,5</td><td>2,5</td></tr>
+<tr><td>22 Valori di tolleranza<sup>5</sup></td><td>m</td><td>–</td><td>–</td><td>2,0</td><td>2,2</td><td>2,2</td><td>2,2</td></tr>
+<tr><td>3 Area d’uscita per equin<sup>3, 7</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 costantemente accessibile dalla stalla, superficie minma</td><td>m<sup>2</sup></td><td>12</td><td>14</td><td>16</td><td>20</td><td>24</td><td>24</td></tr>
+<tr><td>32 non adiacente alla stalla, superficie minima</td><td>m<sup>2</sup></td><td>18</td><td>21</td><td>24</td><td>30</td><td>36</td><td>36</td></tr>
+<tr><td>4 Superficie raccomandata<sup>8</sup> per equide</td><td>m<sup>2</sup></td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td></tr>
+</table>
+
+Osservazioni sulla tabella 7 – Equidi
+
+<table>
+<tr><td><sup>1</sup> Per le giumente con puledri di almeno due mesi, la superficie deve essere aumentata almeno del 30 per cento. Questo vale anche per i box parto.</td></tr>
+<tr><td><sup>2</sup> La larghezza dei box singoli deve essere almeno 1,5 volte l’altezza al garrese.</td></tr>
+<tr><td><sup>3</sup> In caso di cinque o più equidi molto compatibili fra loro, la superficie globale può essere ridotta al massimo del 20 per cento.</td></tr>
+<tr><td><sup>4</sup> Devono essere predisposte strutture che permettano agli equidi di evitarsi e di ritirarsi; tali strutture non sono necessarie per i puledri svezzati e gli animali giovani fino all’inizio della loro utilizzazione regolare, al massimo fino al raggiungimento dei 30 mesi di età.</td></tr>
+<tr><td><sup>5</sup> Le scuderie esistenti il 1° settembre 2008 che rispettano i valori di tolleranza non devono essere adeguate. Se una scuderia deve essere adeguata per il superamento di un valore di tolleranza, gli altri valori di tolleranza restano validi.</td></tr>
+<tr><td><sup>6</sup> La superficie di riposo e l’area d’uscita devono essere sempre raggiungibili da un corridoio largo o da due corridoi più stretti.</td></tr>
+<tr><td><sup>7</sup> Per i gruppi composti da 2–5 puledri svezzati e animali giovani fino all’inizio della loro utilizzazione regolare, al massimo fino al raggiungimento dei 30 mesi di età, la superficie minima dell’area d’uscita corrisponde a quella prevista per 5 di tali animali.</td></tr>
+<tr><td><sup>8</sup> La superficie delle aree d’uscita non adiacenti alla scuderia allestite in modo da essere utilizzabili con qualsiasi condizione del tempo non può superare gli 800 m<sup>2</sup>, nemmeno se sono detenuti più di 5 equidi. In caso di stabulazione libera in gruppo con un’area d’uscita sempre accessibile è consigliabile aggiungere 75 m<sup>2</sup> per capo a partire dal sesto equide.</td></tr>
+</table>
+
+[^annexu1-lvlu1-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+Tabella 8
+
+## Conigli domestici
+
+<table>
+<tr><td colspan="2">Categoria animale</td><td></td><td colspan="4">Conigli adulti<sup>1, 2</sup></td></tr>
+<tr><td colspan="2"></td><td></td><td>fino a 2,3 kg</td><td>2,3–3,5 kg</td><td>3,5–5,5 kg</td><td>&gt;5,5 kg</td></tr>
+<tr><td>1 Dimensioni minime per parchi senza superfici sopraelevate:</td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Superficie di base<sup>3</sup></td><td colspan="2">cm<sup>2</sup></td><td>3400</td><td>4800</td><td>7200</td><td>9300</td></tr>
+<tr><td>12 Altezza<sup>4</sup></td><td colspan="2">cm</td><td>40</td><td>50</td><td>60</td><td>60</td></tr>
+<tr><td>2 Dimensioni minime per parchi con superfici sopraelevate:</td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Superficie globale<sup>3</sup> (superficie di base e superficie sopraelevata)</td><td colspan="2">cm<sup>2</sup></td><td>2800</td><td>4000</td><td>6000</td><td>7800</td></tr>
+<tr><td>22 di cui superficie minima di base</td><td colspan="2">cm<sup>2</sup></td><td>2000</td><td>2800</td><td>4200</td><td>5400</td></tr>
+<tr><td>23 Altezza<sup>4</sup></td><td colspan="2">cm</td><td>40</td><td>50</td><td>60</td><td>60</td></tr>
+<tr><td>3 Superficie complementare per il compartimento del nido</td><td colspan="2">cm<sup>2</sup></td><td>800</td><td>1000</td><td>1000</td><td>1200</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">Categoria animale</th><th></th><th colspan="5">Animali giovani dallo svezzamento alla maturità sessuale</th><th></th></tr>
+<tr><th colspan="2"></th><th></th><th colspan="2">Animali giovani di adulti fino a 2,3 kg (conigli nani)</th><th></th><th colspan="2">Animali giovani di adulti di oltre 2,3 kg</th><th></th></tr>
+<tr><td>4 Dimensioni minime per parchi senza superfici sopraelevate:</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>41 Superficie di base</td><td colspan="2">cm<sup>2</sup></td><td>3400</td><td colspan="2"></td><td>4800</td><td colspan="2"></td></tr>
+<tr><td>42 Altezza<sup>4</sup></td><td colspan="2">cm</td><td>40</td><td colspan="2"></td><td>50</td><td colspan="2"></td></tr>
+<tr><td>5 Dimensioni minime per parchi con superfici sopraelevate:</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>51 Superficie globale (superficie di base e superficie sopraelevata)</td><td colspan="2">cm<sup>2</sup></td><td>2800</td><td colspan="2"></td><td>4000</td><td colspan="2"></td></tr>
+<tr><td>52 di cui superficie minima di base</td><td colspan="2">cm<sup>2</sup></td><td>2000</td><td colspan="2"></td><td>2800</td><td colspan="2"></td></tr>
+<tr><td>53 Altezza<sup>4</sup></td><td colspan="2">cm</td><td>40</td><td colspan="2"></td><td>50</td><td colspan="2"></td></tr>
+<tr><td>6 Superficie per animale giovane con un peso fino a 1,5 kg<sup>5, 6</sup></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>61 in gruppi fino a 40 animali</td><td colspan="2">cm<sup>2</sup></td><td>1000</td><td colspan="2"></td><td>1000</td><td colspan="2"></td></tr>
+<tr><td>62 in gruppi di oltre 40 animali</td><td colspan="2">cm<sup>2</sup></td><td>800</td><td colspan="2"></td><td>800</td><td colspan="2"></td></tr>
+<tr><td>7 Superficie per animale giovane con un peso superiore a 1,5 kg<sup>5, 6</sup></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>71 in gruppi fino a 40 animali</td><td colspan="2">cm<sup>2</sup></td><td>–</td><td colspan="2"></td><td>1500</td><td colspan="2"></td></tr>
+<tr><td>72 in gruppi di oltre 40 animali</td><td colspan="2">cm<sup>2</sup></td><td>–</td><td colspan="2"></td><td>1200</td><td colspan="2"></td></tr>
+</table>
+
+Osservazioni sulla tabella 8 – Conigli domestici
+
+<table>
+<tr><td><sup>1</sup> Coniglie madri con figliata fino al 35° giorno di vita, maschi, coniglie senza figliata. Sul doppio della superficie minima (box doppio) può essere tenuta una coniglia con la figliata fino al 56° giorno di vita dei piccoli.</td></tr>
+<tr><td><sup>2</sup> Non è necessario adeguare le gabbie costruite prima del 1° dicembre 1991 se hanno più dell’85 per cento della superficie di base di cui alla tabella 8 cifra 11.</td></tr>
+<tr><td><sup>3</sup> Su questa superficie si possono tenere uno o due animali adulti compatibili, senza figliata.</td></tr>
+<tr><td><sup>4</sup> Almeno il 35 per cento della superficie complessiva deve avere quest’altezza.</td></tr>
+<tr><td><sup>5</sup> Nei gruppi con più di cinque animali la zona in cui gli animali possono ritirarsi deve essere accessibile da più lati; nei gruppi con oltre dieci animali essa deve essere suddivisa.</td></tr>
+<tr><td><sup>6</sup> Per gli animali giovani tenuti con la madre dal 36° o dal 57° giorno di vita (cfr. osservazione 1) fino alla maturità sessuale valgono le superfici minime riportate nelle cifre 6 e 7.</td></tr>
+</table>
+
+Tabella 9
+
+## Volatili domestici
+
+<table>
+<tr><th>Tab. 9-1 Pollame domestico</th><th colspan="2">Categoria animale</th><th>Pulcini</th><th>Animali giovani</th><th>Galline ovaiole, animali riproduttori</th><th>Animali da ingrasso</th></tr>
+<tr><th></th><th colspan="2">Settimana di vita</th><th>Fino al termine della 10a</th><th>Dall’11a all’inizio della deposizione delle uova</th><th>Dall’inizio della deposizione delle uova</th><th></th></tr>
+<tr><td colspan="2">1 Impianti di stabulazione</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">11 Attrezzature di foraggiamento e abbeveramento, per animale</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">111 Lunghezza disponibile alla mangiatoia nel foraggiamento manuale</td><td>cm</td><td>3</td><td>10</td><td>16</td><td>–</td></tr>
+<tr><td colspan="2">112 Lunghezza disponibile alla mangiatoia o al nastro nel foraggiamento meccanico</td><td>cm</td><td>3</td><td>6</td><td>8</td><td>2<sup>1</sup></td></tr>
+<tr><td colspan="2">113 Canale della mangiatoia circolare automatica</td><td>cm</td><td>2</td><td>3</td><td>3</td><td>1,5<sup>1</sup></td></tr>
+<tr><td colspan="2">114 Canale di abbeveratoi laterali</td><td>cm</td><td>1</td><td>2</td><td>2,5</td><td>1<sup>1</sup></td></tr>
+<tr><td colspan="2">115 Canale di abbeveratoi circolari</td><td>cm</td><td>1</td><td>1,5</td><td>1,5</td><td>1<sup>1</sup></td></tr>
+<tr><td colspan="2">116 Abbeveratoi a galleggiante, 1 per (n) animali, minimo 2 per ogni unità di detenzione</td><td>n</td><td>15</td><td>15</td><td>15</td><td>15<sup>1</sup></td></tr>
+<tr><td colspan="2">117 Abbeveratoi a coppa con acqua a libera disposizione<sup>2</sup>, 1 per (n) animali</td><td>n</td><td>30</td><td>25</td><td>25</td><td>30</td></tr>
+<tr><td colspan="2">12 Posatoi</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">121 Lunghezza dei posatoi, per animale</td><td>cm</td><td>8</td><td>11</td><td>14</td><td>–</td></tr>
+<tr><td colspan="2">122 Distanza orizzontale fra i posatoi<sup>3</sup></td><td>cm</td><td>25</td><td>25</td><td>30</td><td>–</td></tr>
+<tr><td colspan="2">13 Luogo di deposizione delle uova</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">131 Nidi individuali: 1 nido per (n) animali</td><td>Animali</td><td>–</td><td>–</td><td>5</td><td>–</td></tr>
+<tr><td colspan="2">132 Superficie nei nidi collettivi<sup>4</sup>: 1 m<sup>2</sup> per (n) animali</td><td>Animali</td><td>–</td><td>–</td><td>100</td><td>–</td></tr>
+<tr><td colspan="2">14 Superfici calpestabili<sup>5</sup></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">141 Altezza libera sopra la superficie<sup>6</sup></td><td>cm</td><td>50</td><td>50</td><td>50</td><td>50<sup>1</sup></td></tr>
+<tr><td colspan="2">142 Larghezza minima</td><td>cm</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
+<tr><td colspan="2">143 Pendenza massima del suolo</td><td>%</td><td>12</td><td>12</td><td>12</td><td>0</td></tr>
+</table>
+
+<table>
+<tr><th>**Tab. 9-1** **Pollame domestico**</th><th>Categoria animale</th><th>Pulcini</th><th>Animali giovani</th><th colspan="2">Galline ovaiole, animali riproduttori</th><th></th><th>Animali da ingrasso</th></tr>
+<tr><th></th><th>Settimana di vita</th><th>Fino al termine della 10a</th><th>Dall’11a all’inizio della deposizione delle uova</th><th>Fino a 2 kg</th><th>Oltre 2 kg</th><th colspan="2"></th></tr>
+<tr><td>2 Superficie calpestabile per animale7 in unità di detenzione con</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>21 fino a 150 animali: numero (n) animali/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td>6</td><td colspan="2">–</td></tr>
+<tr><td>22 oltre 150 animali: numero (n) animali/m<sup>2</sup></td><td>n</td><td>15</td><td>Superficie grigliata: 16,4 Superficie con lettiera: 10,3</td><td colspan="2">Superficie grigliata: 12,5 Superficie con lettiera: 3,5</td><td></td><td>–</td></tr>
+<tr><td>3 Superficie calpestabile per animale<sup>7</sup> in unità di detenzione<sup>8</sup> con</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>31 fino a 20 animali: peso totale/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">15</td></tr>
+<tr><td>32 21–40 animali: peso totale/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">20</td></tr>
+<tr><td>33 41–80 animali: peso totale/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">25</td></tr>
+<tr><td>34 oltre 80 animali: peso totale/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">30</td></tr>
+<tr><td>4 Superfici calpestabili per il pollame riproduttore, per animale</td><td>cm<sup>2</sup></td><td>–</td><td>–</td><td>1400</td><td>1400</td><td colspan="2">–</td></tr>
+</table>
+
+Osservazioni sulla tabella 9-1 – Pollame domestico
+
+<table>
+<tr><td><sup>1</sup> Questi valori valgono per gli animali da ingrasso con un peso superiore a 2 kg. Per gli animali più piccoli possono essere adeguatamente ridotti.</td></tr>
+<tr><td><sup>2</sup> In presenza di abbeveratoi a coppa di grandi dimensioni l’USAV può autorizzare un numero maggiore di animali nell’ambito della procedura di autorizzazione degli impianti di stabulazione secondo l’articolo 82 capoverso 5.</td></tr>
+<tr><td><sup>3</sup> Misura dell’asse.</td></tr>
+<tr><td><sup>4</sup> Se i nidi non sono dotati di tende, per ogni nido collettivo vanno previste diverse aperture.</td></tr>
+<tr><td><sup>5</sup> Gli escrementi non devono rimanere sulle superfici calpestabili.</td></tr>
+<tr><td><sup>6</sup> Per le voliere l’USAV può autorizzare altezze inferiori nell’ambito della procedura di autorizzazione degli impianti di stabulazione secondo l’articolo 82 capoverso 5.</td></tr>
+<tr><td><sup>7</sup> L’unità di detenzione minima in caso di sperimentazione animale deve soddisfare almeno i criteri seguenti: Superficie di base 4000 cm<sup>2</sup> per al massimo 2 animali; altezza 80 cm; settore coperto da lettiera: ⅓ della superficie; posatoi sopraelevati.</td></tr>
+<tr><td><sup>8</sup> Se gli animali da ingrasso dispongono di posatoi sopraelevati, l’USAV può adeguare di conseguenza la disposizione relativa alla densità di occupazione.</td></tr>
+</table>
+
+<table>
+<tr><th>**Tab. 9-2** **Tacchini domestici**</th><th>Fino al termine della 6a settimana di vita</th><th>Dalla 7a settimana di vita</th></tr>
+<tr><td>1 Densità di occupazione</td><td>32 kg per m<sup>2</sup></td><td>36,5 kg per m<sup>2</sup></td></tr>
+</table>
+
+<table>
+<tr><th>**Tab. 9-3** **Piccioni domestici**</th><th></th><th>Parco interno<sup>a</sup>),<sup>b</sup>)</th><th></th><th>Parco con parte anteriore aperta<sup>a</sup>),<sup>c</sup>)</th><th>Requisiti particolari</th></tr>
+<tr><th></th><th>Razze</th><th>Superficie minima per animale (m<sup>2</sup>)</th><th>Parco esterno<sup>a</sup>),<sup>d</sup>)</th><th>Superficie minima per animale (m<sup>2</sup>)</th><th></th></tr>
+<tr><td>Piccioni durante la cova e l’allevamento senza possibilità di volare liberamente all’esterno ogni giorno</td><td>Pi<sup>e)</sup> Gr<sup>e)</sup></td><td>0,2 0,25</td><td>obbligatorio obbligatorio</td><td>0,35 0,45</td><td>1) 2) 3) 1) 2) 3)</td></tr>
+<tr><td>Altri piccioni e animali giovani senza possibilità di volare liberamente all’esterno ogni giorno</td><td>Pi<sup>e)</sup> Gr<sup>e)</sup></td><td>0,15 0,2</td><td>obbligatorio obbligatorio</td><td>0,25 0,3</td><td>1) 3) 1) 3)</td></tr>
+<tr><td>Piccioni durante la cova e l’allevamento con possibilità di volare liberamente all’esterno ogni giorno</td><td>Pi<sup>e)</sup> Gr<sup>e)</sup></td><td>0,3 0,375</td><td>– –</td><td>0,35 0,45</td><td>1) 2) 3) 1) 2) 3)</td></tr>
+<tr><td>Altri piccioni e animali giovani con possibilità di volare liberamente all’esterno ogni giorno</td><td>Pi<sup>e)</sup> Gr<sup>e)</sup></td><td>0,2 0,25</td><td>– –</td><td>0,25 0,3</td><td>1) 3) 1) 3)</td></tr>
+</table>
+
+Osservazioni sulla tabella 9-3 – Piccioni domestici
+
+<table>
+<tr><td>a) Questi parchi devono avere un’altezza minima di 1,8 m. b) Il parco interno deve avere una superficie di base di almeno 2 m<sup>2</sup>. È considerata superficie di base la superficie con l’altezza minima richiesta. c) Il parco con parte anteriore aperta è composto da un parco esterno e da un parco interno integrato. La superficie di base del parco con parte anteriore aperta deve essere lunga almeno 3 m e larga almeno 1 m. In almeno un terzo della superficie di base le pareti devono essere chiuse su tre lati. La copertura non deve superare il 50 %. d) Il parco esterno deve essere pari ad almeno il 75 % di quello interno e tuttavia lungo almeno 3 m e largo almeno 1 m. Deve essere accessibile durante il giorno. La copertura non deve superare il 50 %. e) Razze piccole (Pi): misura dell’anello 7–9; razze grandi (Gr): misura dell’anello 10–13.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td>1) Nel parco interno e nel parco interno integrato è necessario un posatoio sopraelevato per ciascun piccione. Sono considerate posatoio in particolare assi per sedersi in scaffali o sui muri, posatoi singoli o celle in scaffali. Nel parco esterno i posatoi sopraelevati possono essere collocati anche a diverse altezze. 2) Per ciascuna coppia da allevamento è necessaria 1 cella con installato un nido, ad esempio una ciotola. 3) La superficie minima delle celle è di 0,2 m<sup>2</sup> per le razze piccole e di 0,3 m<sup>2</sup> per le razze grandi. Le celle con la superficie minima possono essere considerate superficie di base per il calcolo della densità di occupazione ma al massimo per il 100 % della superficie di base prevista senza celle. Tale tipo di celle è considerato posatoio per due piccioni. Le celle con superfici più piccole sono considerate soltanto nido e posatoio.</td></tr>
+</table>
+
+Tabella 10
+
+## Cani domestici
+
+<table>
+<tr><td colspan="2"></td><td colspan="3"></td><td colspan="6">Cani adulti</td></tr>
+<tr><td colspan="3"></td><td colspan="3"></td><td colspan="2">Fino a 20 kg</td><td colspan="2">20–45 kg</td><td>Oltre 45 kg</td></tr>
+<tr><td>1 Box</td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td>11 Altezza</td><td colspan="3">m</td><td colspan="3">2</td><td colspan="2">2</td><td colspan="2">2</td></tr>
+<tr><td>12 Superficie di base fino a 2 cani</td><td colspan="3">m<sup>2</sup></td><td colspan="3">4</td><td colspan="2">8</td><td colspan="2">10</td></tr>
+<tr><td>13 Superficie di base per ogni cane in più</td><td colspan="3">m<sup>2</sup></td><td colspan="3">2</td><td colspan="2">4</td><td colspan="2">5</td></tr>
+<tr><td>2 Canile1</td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td>21 Altezza</td><td colspan="3">m</td><td colspan="3">1,8</td><td colspan="2">1,8</td><td colspan="2">1,8</td></tr>
+<tr><td>22 Superficie di base per 1 cane</td><td colspan="3">m<sup>2</sup></td><td colspan="3">6</td><td colspan="2">8</td><td colspan="2">10</td></tr>
+<tr><td>23 Superficie di base per 2 cani</td><td colspan="3">m<sup>2</sup></td><td colspan="3">10</td><td colspan="2">13</td><td colspan="2">16</td></tr>
+<tr><td>24 Superficie di base per ogni cane in più</td><td colspan="3">m<sup>2</sup></td><td colspan="3">3</td><td colspan="2">4</td><td colspan="2">6</td></tr>
+<tr><td colspan="11">3 Se durante il giorno i cani sono tenuti all’aperto in gruppo, con possibilità di ritirarsi, e se vengono portati in box singoli soltanto per riposare e dormire, le superfici dei box devono avere almeno le dimensioni seguenti:</td></tr>
+<tr><td>31 Superficie di base per 1 cane</td><td colspan="3">m<sup>2</sup></td><td colspan="3">2,2</td><td colspan="2">4,3</td><td colspan="2">5</td></tr>
+</table>
+
+Osservazione sulla tabella 10 – Cani domestici
+
+<table>
+<tr><td>1 Se una cagna deve essere tenuta nel canile con la sua cucciolata, fino allo svezzamento deve avere a disposizione, oltre alla superficie del canile, anche un box sempre accessibile di almeno 2 m<sup>2</sup> se il suo peso è inferiore ai 20 kg, di 4 m<sup>2</sup> se il suo peso è compreso tra 20 e 45 kg, di 5 m<sup>2</sup> se il suo peso è superiore ai 45 kg.</td></tr>
+</table>
+
+Tabella 11
+
+## Gatti domestici
+
+<table>
+<tr><td></td><td></td><td>Gatti adulti</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Requisiti supplementari</td></tr>
+<tr><td>1 Unità di detenzione1</td><td></td><td></td><td></td></tr>
+<tr><td>11 Altezza</td><td>m</td><td>2,0</td><td>Superfici di riposo sopraelevate, possibilità di ritirarsi, adeguate possibilità di arrampicarsi, di limare gli artigli, di soddisfare le loro esigenze comportamentali. Per gruppi fino a 5 animali: un contenitore per escrementi per ogni gatto. Per gruppi da 6 animali e oltre: un contenitore per escrementi ogni 2 gatti se è pulito più volte al giorno oppure se i gatti hanno la possibilità di uscire all’aperto, altrimenti un contenitore per escrementi per ogni gatto.</td></tr>
+<tr><td>12 Superficie di base2 fino a 4 gatti</td><td>m<sup>2</sup></td><td>7,0</td><td></td></tr>
+<tr><td>13 Superficie di base per ogni gatto in più</td><td>m<sup>2</sup></td><td>1,7</td><td></td></tr>
+<tr><td>2 Gabbie per la detenzione individuale per al massimo 3 settimane:</td><td></td><td></td><td></td></tr>
+<tr><td>21 Superficie</td><td>m<sup>2</sup></td><td>1,0 m<sup>2</sup> di superficie calpestabile su tre livelli al massimo, di cui almeno 0,5 m<sup>2</sup> di superficie di base.</td><td></td></tr>
+<tr><td>22 Altezza</td><td>m</td><td>1 m su almeno il 35 % della superficie di base.</td><td></td></tr>
+</table>
+
+Osservazioni sulla tabella 11 – Gatti domestici
+
+<table>
+<tr><td><sup>1</sup> È indicato il numero massimo ammesso di gatti per unità di superficie. Gli animali giovani possono essere tenuti nello stesso spazio fino allo svezzamento. <sup>2</sup> Il rapporto fra lunghezza e larghezza può essere al massimo di 2:1.</td></tr>
+</table>
+
+Allegato 2[^t-2]
+
+(art. 10)
+
+## Requisiti minimi per la detenzione di animali selvatici (con o senza autorizzazione)
+
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Aggiornato dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) e dal n. II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+Osservazioni preliminari
+
+- A. Le superfici e i volumi indicati rappresentano sempre la dimensione minima del parco. I parchi non possono essere di dimensioni inferiori neppure se vi è tenuto un numero di animali (n) inferiore a quello indicato nelle tabelle. I parchi divisori che non rispondono completamente ai requisiti minimi possono essere utilizzati soltanto per la detenzione a breve termine.
+- B. Le tabelle indicano il numero massimo di animali adulti nel parco con le misure minime. Nello stesso parco possono essere tenuti anche gli animali giovani. Per i rettili e gli anfibi, la dimensione minima è definita in funzione dell’esemplare più grande presente nel parco. Il fabbisogno ulteriore di spazio è definito in base alla taglia degli altri animali.
+- C. Se in un unico parco sono tenute più specie che utilizzano lo spazio nello stesso modo, per calcolare le superfici e i volumi occorre tenere conto della specie con le esigenze maggiori di spazio minimo. Le superfici e i volumi per ogni altro animale della stessa specie e per gli animali delle altre specie devono essere aggiunte sulla base di quanto previsto «per ogni animale in più».
+- D. Se in un parco sono tenute più specie che utilizzano lo spazio in modo diverso, nel volume previsto dal presente allegato per la specie che necessita di maggiore spazio possono essere tenute anche le altre specie, senza dover aumentare lo spazio.
+- E. Per le specie che hanno particolari esigenze, ad esempio per quanto concerne l’umidità dell’aria, la temperatura, le caratteristiche del suolo o l’alimentazione, occorre tenere conto di tali esigenze anche se nella tabella non vi è alcuna indicazione in merito.
+- F. Nel caso di specie per le quali è prescritto un parco esterno si può rinunciare a questo requisito a condizione di tenere conto in altro modo delle esigenze della specie interessata, p. es. aprendo finestre o porte e soffitti scorrevoli così da lasciare entrare, in presenza di un’adeguata temperatura, la luce diretta del sole o illuminando il parco con una luce artificiale che presenti uno spettro luminoso simile a quello della luce naturale. In questo caso le dimensioni del parco interno devono corrispondere almeno a quelle di un parco esterno o, se sono prescritti un parco esterno e uno interno, alla superficie complessiva di entrambi. Occorre tenere conto di comportamenti quali l’abitudine di scavare e il letargo in caverne.
+- G. Nei centri autorizzati di detenzione di animali da laboratorio conformemente all’articolo 122 si può rinunciare al parco esterno.
+- H. Nella composizione dei gruppi occorre tenere conto – indipendentemente dall’occupazione consentita in base alle tabelle – della struttura sociale della specie e della compatibilità degli individui.
+- I. I parchi devono essere provvisti – indipendentemente dalle istruzioni fornite in dettaglio nelle tabelle – di settori adatti alle varie funzioni o corrispondenti alle condizioni climatiche adatte alla specie. Occorre tenere in debita considerazione l’utilizzazione ottimale dello spazio per la specie in questione.
+- J. I parchi devono essere illuminati con luce naturale o artificiale non tremolante che presenti uno spettro luminoso adeguato alle esigenze della specie. Gli animali notturni tenuti in parchi esterni devono sempre avere la possibilità di trovare un box per dormire.
+- K. Per tutte le specie, anche quelle non elencate nel presente allegato, occorre che siano soddisfatti tutti i requisiti specifici relativi all’alimentazione, alla struttura sociale, al clima, compreso il microclima, alle caratteristiche del suolo, alla possibilità di nuotare e fare il bagno, di scavare e di ritirarsi e ad altre infrastrutture che offrano agli animali possibilità di isolamento o altri comfort (p. es. superfici da graffiare, fango in cui rotolarsi). I parchi per le specie non elencate devono essere sufficientemente grandi da ospitare le strutture necessarie per soddisfare le esigenze specifiche degli animali. A titolo di valori indicativi, si applicano perizie tecniche basate sulle conoscenze scientifiche.
+- L. Gli alimenti devono essere somministrati in modo da riprodurre il comportamento alimentare tipico della specie (presentazione del cibo in luoghi e tempi diversi, rispetto del modo in cui l'animale si procaccia gli alimenti, li prepara e li assume).
+- M. Nei grandi parchi concepiti in modo da essere simili all’ambiente naturale, il benessere degli animali deve essere verificato controllando con sufficiente frequenza e regolarità il funzionamento degli impianti e delle attrezzature tecniche – comprese le misure di sicurezza volte a impedire la fuga – assicurandosi che gli animali possano soddisfare le loro esigenze alimentari e godere di condizioni di vita adeguate e sorvegliando gli effettivi.
+- N. Indipendentemente dalle istruzioni fornite in dettaglio nelle tabelle, gli animali devono essere alimentati tenendo in debita considerazione le loro esigenze particolari.
+- O. Nella concezione e gestione del parco occorre tenere in considerazione le possibilità di arricchire l’ambiente in cui vivono gli animali (p. es. stimoli quali odori estranei, nuovi oggetti da manipolare).
+- P. Indipendentemente dalle istruzioni fornite in dettaglio nelle tabelle, i parchi devono essere mantenuti e gestiti tenendo in debita considerazione anche le esigenze climatiche e igieniche delle varie specie.
+
+Tabella 1
+
+## Parchi per mammiferi
+
+<table>
+<tr><th colspan="2">Parchi per mammiferi</th><th></th><th colspan="9">Per gruppi fino a n animali</th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="2">Per ogni animale in più<sup>a)</sup></th><th></th><th>Requisiti particolari</th></tr>
+<tr><th colspan="2"></th><th></th><th colspan="2">Numero</th><th colspan="2">Parco esterno<sup>a)</sup></th><th colspan="2"></th><th colspan="6">Parco interno<sup>a)</sup></th><th colspan="3"></th><th>Esterno</th><th colspan="2">Interno</th><th></th></tr>
+<tr><th colspan="2">Specie animali</th><th></th><th colspan="2">(n)</th><th>Superficie<sup>b</sup><sup>)</sup> m<sup>2</sup></th><th colspan="3">Volume m<sup>3</sup></th><th colspan="2">Superficie<sup>b</sup><sup>)</sup> m<sup>2</sup></th><th colspan="7">Volume m<sup>3</sup></th><th>m<sup>2</sup></th><th colspan="2">m<sup>2</sup></th><th></th></tr>
+<tr><td>1 Echidna istrice</td><td colspan="2">c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>1) 6) 11)</td></tr>
+<tr><td>2 Falangero, opossum, tricosuro</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 3) 4)</td></tr>
+<tr><td>3 Didelfidi, specie piccole</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,35</td><td colspan="2">–</td><td colspan="2">0,05</td><td>2) 3) 4)</td></tr>
+<tr><td>4 Topo marsupiale dalla coda crestata</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1</td><td colspan="7">1,8</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 4)</td></tr>
+<tr><td>5 Petauridi di grossa e media taglia</td><td colspan="2">c)e)</td><td>6</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">1</td><td>2) 3) 4)</td></tr>
+<tr><td>6 Petauridi di piccola taglia</td><td colspan="2">c)e)</td><td>6</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 4)</td></tr>
+<tr><td>7 Diavolo di Tasmania</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>1) 3) 4)</td></tr>
+<tr><td>8 Vombato</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>1) 3) 4)</td></tr>
+<tr><td>9 Canguri arboricoli</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">4</td><td colspan="2">4</td><td>2) 5)</td></tr>
+<tr><td>10 Canguri di piccola taglia</td><td colspan="2">c)</td><td>5</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">2</td><td>6) 22)</td></tr>
+<tr><td>11 Ratti canguro</td><td colspan="2">c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>3) 6)</td></tr>
+<tr><td>12 Canguro delle rocce</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">15</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">3</td><td>2) 7) 8)</td></tr>
+<tr><td>13 Uallabie, tilogale</td><td colspan="2">c)</td><td>5</td><td colspan="2">250</td><td colspan="2">–</td><td colspan="2">15</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">3</td><td>7) 8)</td></tr>
+<tr><td>14 Canguri di grossa taglia</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">30</td><td colspan="2">4</td><td>7)</td></tr>
+<tr><td>15 Pteropodi di piccola taglia (p. es. pteropo del Nilo)</td><td colspan="2">c)</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">50</td><td colspan="2">–</td><td colspan="2">1</td><td>9) 10)</td></tr>
+<tr><td>16 Pteropodi di grossa taglia</td><td colspan="2">c)</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="7">90</td><td colspan="2">–</td><td colspan="2">1</td><td>9) 10)</td></tr>
+<tr><td>17 Pipistrelli</td><td colspan="2">c)</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">20</td><td colspan="2">–</td><td colspan="2">0,2</td><td>9) 10) 50)</td></tr>
+<tr><td>18 Tupaidi</td><td colspan="2">c)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6) 34) 36)</td></tr>
+<tr><td>19 Uistitì</td><td colspan="2">c)d)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6) 14) 34) 36)</td></tr>
+<tr><td>20 Microcebi</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1,5</td><td colspan="7">3</td><td colspan="2">–</td><td colspan="2">0,3</td><td>2) 3) 6) 14) 36)</td></tr>
+<tr><td>21 Lori, potto, machi ursino</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1,5</td><td colspan="7">3</td><td colspan="2">–</td><td colspan="2">0,3</td><td>2) 3) 6) 14)</td></tr>
+<tr><td>22 Galogoni di piccola taglia, tarsio, apalemuri, chirogali</td><td colspan="2">c)e) c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6)14) 34) 36)</td></tr>
+<tr><td>23 Callimiconidae, tamarindo di Goeldi</td><td colspan="2">c)d)e)</td><td>5</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6) 14) 34) 36)</td></tr>
+<tr><td>24 Scimmia notturna</td><td colspan="2">c)d)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">1</td><td>2) 3) 6) 14) 34)</td></tr>
+<tr><td>25 Galagone gigante, scimmia saltatrice</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">1</td><td>2) 3) 6) 14) 34)</td></tr>
+<tr><td>26 Saimiri Cercopiteco nano</td><td colspan="2">c)d)e) c)e)</td><td>5</td><td colspan="2">6</td><td colspan="2">15</td><td colspan="2">6</td><td colspan="7">15</td><td colspan="2">1,5</td><td colspan="2">1,5</td><td>2) 6) 14)</td></tr>
+<tr><td>27 Lemuri comuni, saki, uakari, scimmie urlatrici, scimmie cappuccine</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">10</td><td colspan="2">30</td><td colspan="2">10</td><td colspan="7">30</td><td colspan="2">2</td><td colspan="2">2</td><td>2) 6) 14)</td></tr>
+<tr><td>28 Scimmie ragno, macachi Scimmie lanose, cercopitechi, entelli di piccola taglia, lemuri variegati</td><td colspan="2">c)d)e) c)e)</td><td>5</td><td colspan="2">15</td><td colspan="2">45</td><td colspan="2">15</td><td colspan="7">45</td><td colspan="2">3</td><td colspan="2">3</td><td>2) 6) 11) 12) 14) Varis: 3)</td></tr>
+<tr><td>29 Pata, cercocebi, paviani, Entelli di grossa taglia (p. es. guereze), sifaca</td><td colspan="2">c)e) c)e)</td><td>5</td><td colspan="2">25</td><td colspan="2">75</td><td colspan="2">25</td><td colspan="7">75</td><td colspan="2">4</td><td colspan="2">4</td><td>2) 6) 11) 14)</td></tr>
+<tr><td>30 Gibboni</td><td colspan="2">c)e)</td><td>3</td><td colspan="2">25</td><td colspan="2">75</td><td colspan="2">25</td><td colspan="7">75</td><td colspan="2">8</td><td colspan="2">8</td><td>2) 6) 11) 12) 14) 34)</td></tr>
+<tr><td>31 Scimpanzé, orangotanghi</td><td colspan="2">c)e)</td><td>3</td><td colspan="2">35</td><td colspan="2">140</td><td colspan="2">35</td><td colspan="7">140</td><td colspan="2">8</td><td colspan="2">8</td><td>2) 6) 11) 14)</td></tr>
+<tr><td>32 Gorilla</td><td colspan="2">c)e)</td><td>3</td><td colspan="2">50</td><td colspan="2">200</td><td colspan="2">50</td><td colspan="7">200</td><td colspan="2">10</td><td colspan="2">10</td><td>2) 6) 11) 14)</td></tr>
+<tr><td>33 Dasipodidi di piccola e media taglia</td><td colspan="2">c)e)</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">1,5</td><td>1) 3) 51</td></tr>
+<tr><td>34 Tamandua</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">24</td><td colspan="2">–</td><td colspan="2">4</td><td>2) 3) 4) 15) 51)</td></tr>
+<tr><td>35 Formichiere gigante</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">6</td><td>11) 16) 18 )</td></tr>
+<tr><td>36 Bradipi</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">20</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 36)</td></tr>
+<tr><td>37 Ricci, tranne *Erinaceus europaeus*</td><td colspan="2">c)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">2</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">1</td><td>39) 41)</td></tr>
+<tr><td>38 Tenrec, specie di piccola taglia con una lunghezza del corpo inferiore a 10 cm</td><td colspan="2">c)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,25</td><td>2) 39) 41)</td></tr>
+<tr><td>39 Tenrec, specie di grande taglia con una lunghezza del corpo superiore a 10 cm</td><td colspan="2">c)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">2</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">1,0</td><td>2) 39) 41)</td></tr>
+<tr><td>40 Porcellino d’India, *Cavia porcellus*</td><td colspan="2">d)f)g)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,2</td><td>39) 41) 45) 47) 54)</td></tr>
+<tr><td>41 Criceto, *Mesocricetus sp*.</td><td colspan="2">d)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,18</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,05</td><td>2) 40) 41) 42) 44) 45) 48)</td></tr>
+<tr><td>42 Topo, *Mus musculus*</td><td colspan="2">d)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,18</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,05</td><td>2) 39) 41) 42) 44) 45) 47)</td></tr>
+<tr><td>43 Gerbillo della Mongolia</td><td colspan="2">d)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,05</td><td>40) 41) 42) 44) 45) 46) 47)</td></tr>
+<tr><td>44 Ratto, *Rattus norvegicus*</td><td colspan="2">d)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,35</td><td colspan="2">–</td><td colspan="2">0,05</td><td>39) 41) 42) 44) 45) 47)</td></tr>
+<tr><td>45 Degu</td><td colspan="2"></td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,35</td><td colspan="2">–</td><td colspan="2">0,2</td><td>40) 41) 44) 45) 46) 47)</td></tr>
+<tr><td>46 Cincillà</td><td colspan="2">d)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,75</td><td colspan="2">–</td><td colspan="2">0,2</td><td>39) 41) 42) 43) 44) 45) 46) 47)</td></tr>
+<tr><td>47 Tamia</td><td colspan="2"></td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,75</td><td colspan="2">–</td><td colspan="2">0,2</td><td>2) 39) 41) 42) 43) 48) 50)</td></tr>
+<tr><td>48 Scoiattoli terrestri, xerus, citello</td><td colspan="2">c)</td><td>5</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">0,6</td><td colspan="2">–</td><td>45) 50) strato da scavare: 80 cm</td></tr>
+<tr><td>49 Scoiattoli, Callosciurus quinquestriatus</td><td colspan="2">c)</td><td>2</td><td colspan="2">8</td><td colspan="2">20</td><td colspan="2">8</td><td colspan="7">20</td><td colspan="2">2</td><td colspan="2">2</td><td>2) 3) 4) 17) 19)</td></tr>
+<tr><td>50 Scoiattoli giganti, petauristi di grossa taglia</td><td colspan="2">c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">–</td><td colspan="2">3</td><td>2) 3) 15) 17) 19)</td></tr>
+<tr><td>51 Ateruro, trichidi</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">5</td><td colspan="7">10</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 3) 6) 19)</td></tr>
+<tr><td>52 Istrici</td><td colspan="2">c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">3</td><td>1) 3) 6) 17) 19)</td></tr>
+<tr><td>53 Castoro</td><td colspan="2">c)</td><td>5</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>3) 18) 19) 34)</td></tr>
+<tr><td>54 Aguti, paca, roditore, dasiprottidi</td><td colspan="2">c)</td><td>5</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 6) 19) 36)</td></tr>
+<tr><td>55 Viscaccia, lepre saltatrice</td><td colspan="2"></td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>1) 3) 6) 11) 19)</td></tr>
+<tr><td>56 Marmotte</td><td colspan="2">c)</td><td>6</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>1) 49) 50)</td></tr>
+<tr><td>57 Cane della prateria</td><td colspan="2">c)</td><td>10</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">–</td><td>1) 49) 50)</td></tr>
+<tr><td>58 Capibara</td><td colspan="2">c)</td><td>5</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">2,5</td><td>6) 18) 19)</td></tr>
+<tr><td>59 Ondata</td><td colspan="2">c)</td><td>2</td><td colspan="2">4</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">1</td><td colspan="2">–</td><td>1) 3) 18) 19)</td></tr>
+<tr><td>60 Nutria selvatica</td><td colspan="2">c)</td><td>2</td><td colspan="2">10</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">1</td><td colspan="2">–</td><td>3) 18) 19)</td></tr>
+<tr><td>61 Coendu, ursone (*Eretizontidi*)</td><td colspan="2">c)</td><td>2</td><td colspan="2">10</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>2) 8) 19)</td></tr>
+<tr><td>62 Hutia conga, petromidi grandi, zaguti di Cuvier, ottodontidi</td><td colspan="2">c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">5</td><td colspan="7">10</td><td colspan="2">–</td><td colspan="2">1,5</td><td>1) 2) 3) 6) 19)</td></tr>
+<tr><td>63 Marà</td><td colspan="2">c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>1) 3) 6) 19)</td></tr>
+<tr><td>64 Lepri</td><td colspan="2">c)</td><td>2</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>3) 6)</td></tr>
+<tr><td>65 Conigli selvatici, lepri fischianti</td><td colspan="2">c)</td><td>5</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">3</td><td colspan="2">–</td><td>1) 6) 49)</td></tr>
+<tr><td>66 Fennec</td><td colspan="2">c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 11) 36)</td></tr>
+<tr><td>67 Volpi di media taglia (p. es. volpe di Rüppell, volpe polare, volpe delle steppe, volpe kit), otocione, cane viverrino</td><td colspan="2">c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">1</td><td>1) 3) 6) 8) 11)</td></tr>
+<tr><td>68 Speoto</td><td colspan="2">c)e)</td><td>4</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">1</td><td>1) 3) 6) 11) 18) 34)</td></tr>
+<tr><td>69 Volpe rossa, volpe grigia, dusicyon griseus</td><td colspan="2">c)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>1) 3) 6) 11)</td></tr>
+<tr><td>70 Sciacalli, coyote, cuon alpino</td><td colspan="2">c)</td><td>4</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">–</td><td>3) 6) 34) 11)</td></tr>
+<tr><td>71 Crisocione</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2">2 per capo</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">2</td><td>1) 3) 6) 8) 11) 34)</td></tr>
+<tr><td>72 Lupo, licaone</td><td colspan="2">c)</td><td>4</td><td colspan="2">400</td><td colspan="2">–</td><td colspan="2">4 per capo</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>1) 3) 6) 8) 11)</td></tr>
+<tr><td>73 Orso malese</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">4</td><td>1) 2) 11) 14) 18) 21)</td></tr>
+<tr><td>74 Altri orsi grandi, panda gigante</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>1) 2) 11) 14) 18) 21) 22)</td></tr>
+<tr><td>75 Orso polare</td><td colspan="2">c)e)</td><td>1</td><td colspan="2">120</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>2) 4) 14) 18)</td></tr>
+<tr><td>76 Panda minore, procioni</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">16</td><td colspan="2">4</td><td colspan="2">2</td><td>2) 3) procioni: 18)</td></tr>
+<tr><td>77 Potosino, bassarisco</td><td colspan="2">c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 3) 6)</td></tr>
+<tr><td>78 Coati</td><td colspan="2">c)</td><td>2</td><td colspan="2">30</td><td colspan="2">90</td><td colspan="2">20</td><td colspan="7">60</td><td colspan="2">3</td><td colspan="2">3</td><td>2) 3)</td></tr>
+<tr><td>79 Donnola</td><td colspan="2">c)</td><td>2</td><td colspan="2">8</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>3) 4)</td></tr>
+<tr><td>80 Ermellino</td><td colspan="2">c)</td><td>2</td><td colspan="2">12</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>3) 4)</td></tr>
+<tr><td>81 Puzzola, visone selvatico, furetto</td><td colspan="2">c)</td><td>2</td><td colspan="2">15</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">1</td><td colspan="2">–</td><td>3) 4) 18)</td></tr>
+<tr><td>82 Furetto come animale da compagnia con possibilità di uscire dalla gabbia e di muoversi nell’appartamento</td><td colspan="2">c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">2,4</td><td colspan="2">–</td><td colspan="2">0,5</td><td>3) 14) 16) 55)</td></tr>
+<tr><td>83 Martora arboricola</td><td colspan="2">c)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">0</td><td colspan="7">0</td><td colspan="2">–</td><td colspan="2">–</td><td>2) 4) 17) 21)</td></tr>
+<tr><td>84 Taira</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">4</td><td colspan="2">4</td><td>2) 3) 17)</td></tr>
+<tr><td>85 Ghiottone</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">120</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>1) 2) 4) 21)</td></tr>
+<tr><td>86 Moffetta</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">12</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 6) 17) per alcune specie: 18)</td></tr>
+<tr><td>87 Tasso</td><td colspan="2">c)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">4</td><td>1) 3) 4) 17)</td></tr>
+<tr><td>88 Lontra nana</td><td colspan="2">c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">3</td><td colspan="2">2</td><td>6) 15) 18)</td></tr>
+<tr><td>89 Lontra comune, aonyx</td><td colspan="2">c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>4) 6) 15) 18)</td></tr>
+<tr><td>90 Lontra gigante</td><td colspan="2">c)</td><td>2</td><td colspan="2">80</td><td colspan="2">–</td><td colspan="2">24</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">4</td><td>6), 15) 18)</td></tr>
+<tr><td>91 Lontra marina</td><td colspan="2">c)</td><td>2</td><td colspan="2">10</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">3</td><td colspan="2">–</td><td>6) 18)</td></tr>
+<tr><td>92 Mangusta nana</td><td colspan="2">c)</td><td>6</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 15)</td></tr>
+<tr><td>93 Suricato, mangusta striata, mangusta gialla</td><td colspan="2">c)</td><td>6</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 15) 20)</td></tr>
+<tr><td>94 Altre manguste</td><td colspan="2">c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">5</td><td colspan="2">3</td><td>1) 3) 15) 17) 20) icneumone da palude: 18)</td></tr>
+<tr><td>95 Gatto dai piedi neri, gatto bengalese, gatto rugginoso, manul, viverridi arboricoli</td><td colspan="2">c)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">4</td><td colspan="2">3</td><td>2) 4) 6) 11) 15) 17) 21) 23) 52), 53)</td></tr>
+<tr><td>96 Fossa, binturong, zibetto, gatto selvatico, gatto della giungla, jaguarondi</td><td colspan="2">c)</td><td>2</td><td colspan="2">40</td><td colspan="2">120</td><td colspan="2">20</td><td colspan="7">50</td><td colspan="2">5</td><td colspan="2">4</td><td>2) 4) 6) 11) 15) 17) 21) 23) gatto viverrino, gatto dal muso piatto: 18) 52) 53)</td></tr>
+<tr><td>97 Serval, gatti di media taglia, pantera nebulosa, lince</td><td colspan="2">c)</td><td>2</td><td colspan="2">30</td><td colspan="2">75</td><td colspan="2">20</td><td colspan="7">50</td><td colspan="2">10</td><td colspan="2">10</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53)</td></tr>
+<tr><td>98 Giaguaro, leopardo, puma, leopardo delle nevi</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">50</td><td colspan="2">150</td><td colspan="2">25</td><td colspan="7">75</td><td colspan="2">15</td><td colspan="2">12</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53) giaguaro: 18)</td></tr>
+<tr><td>99 Leone, tigre</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">80</td><td colspan="2">240</td><td colspan="2">30</td><td colspan="7">90</td><td colspan="2">20</td><td colspan="2">15</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53) tigre: 18)</td></tr>
+<tr><td>100 Ghepardo</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>2) 4) 6) 11) 15) 21) 52) 53)</td></tr>
+<tr><td>101 Protele</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">12 per capo</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">6</td><td>1) 11) 21)</td></tr>
+<tr><td>102 Iene</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>1) 6) 11) 21) 53)</td></tr>
+<tr><td>103 Oritteropo</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2"></td><td colspan="2">5</td><td>1) 3)</td></tr>
+<tr><td>104 Iracidi</td><td colspan="2">c)</td><td>5</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">3</td><td colspan="2">3</td><td>2) 8) 36)</td></tr>
+<tr><td>105 Elefanti (femmine)</td><td colspan="2">c)e)</td><td>3</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">15 per capo</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>24) 25) 52)</td></tr>
+<tr><td>106 Elefanti (maschi)</td><td colspan="2">c)e)</td><td>1</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">2×30 per capo</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>24) 25) 52) alternanza di parchi</td></tr>
+<tr><td>107 Giumente di zebra di Grévy e di emioni</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">8 per capo</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>8) 25) 26) 52)</td></tr>
+<tr><td>108 Stalloni di zebra di Grévy e di emioni</td><td colspan="2">c)e)</td><td>1</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>8) 25) 26) 52)</td></tr>
+<tr><td>109 Zebra della steppa, asino selvatico</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">8 per capo</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 25) 26) 27)52)</td></tr>
+<tr><td>110 Zebra di montagna, cavallo selvatico</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">1000</td><td colspan="2">–</td><td colspan="2">8 per capo</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>8) 25) 26) 27) 52)</td></tr>
+<tr><td>111 Tapiri</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2">15 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>24) 25) 28)</td></tr>
+<tr><td>[tab] 112 Rinoceronti</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">25 per capo</td><td colspan="7">–</td><td colspan="2">150</td><td colspan="2">–</td><td>4) a eccezione del rinoceronte camuso 11) 24) 25) 29) 38)</td></tr>
+<tr><td>113 Cinghiale nano</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>25) 27) 29)</td></tr>
+<tr><td>114 Altri cinghiali</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>8) 17) 25) 27) 29)</td></tr>
+<tr><td>115 Pecari</td><td colspan="2">c)e)</td><td>4</td><td colspan="2">80</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>25) 29)</td></tr>
+<tr><td>116 Ippopotamo pigmeo</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">10 per capo</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>4) 24) 29)</td></tr>
+<tr><td>117 Ippopotamo</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">250</td><td colspan="2">–</td><td colspan="2">40 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">10</td><td>24)</td></tr>
+<tr><td>118 Guanaco, vigogna</td><td colspan="2">c)</td><td>6</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">2 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>8)</td></tr>
+<tr><td>119 Cammelli, dromedari</td><td colspan="2">c)</td><td>3</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">8 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>8) 27)</td></tr>
+<tr><td>120 Kanchil</td><td colspan="2">c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>6)</td></tr>
+<tr><td>121 Tragulidi</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">12</td><td colspan="2">2</td><td>6) 18)</td></tr>
+<tr><td>122 Cervi di piccola taglia (pudu, idropote o cervo di palude, muntjak)</td><td colspan="2">c)</td><td>4</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">3 per capo</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>6) 8) 30) 52)</td></tr>
+<tr><td>123 Capriolo</td><td colspan="2">c)</td><td>2</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">150</td><td colspan="2">–</td><td>6) 8) 30) 52)</td></tr>
+<tr><td>124 Cervi di media taglia (p. es. sika, daino)</td><td colspan="2">c)</td><td>8</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">4 per capo</td><td colspan="7">–</td><td colspan="2">60</td><td colspan="2">–</td><td>8) 27) 29) a eccezione del daino 30) 31) 52)</td></tr>
+<tr><td>125 Cervi di grossa taglia (barasinga, sambar, cervo delle paludi, renna, cervo di padre David)</td><td colspan="2">c)</td><td>6</td><td colspan="2">800</td><td colspan="2">–</td><td colspan="2">6 per capo</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 18) a eccezione della renna 27) 29) a eccezione della renna 30) 31) 52)</td></tr>
+<tr><td>126 Alce</td><td colspan="2">c)</td><td>3</td><td colspan="2">800</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 18) 28) 31) 32) 52)</td></tr>
+<tr><td>127 Okapi</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">15 per capo</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>4) 26) 52)</td></tr>
+<tr><td>128 Giraffe</td><td colspan="2">c)e)</td><td>4</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">25 per capo</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>33) 52) maschio: 26)</td></tr>
+<tr><td>129 Cefalofi di piccola e media taglia, dik-dik, antilopi nane</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">50</td><td colspan="2">–</td><td colspan="2">3 per capo</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>4) 6) 52)</td></tr>
+<tr><td>130 Raficero campestre, raficero dalle orecchie nere, oreotrago</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">50</td><td colspan="2">–</td><td colspan="2">3 per capo</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>6) 52) oreotrago: 2)</td></tr>
+<tr><td>131 Oribi, beira</td><td colspan="2">c)e)</td><td>4</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">3 per capo</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">–</td><td>6) 52)</td></tr>
+<tr><td>132 Cefalofi giganti</td><td colspan="2">c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">4 per capo</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>4) 6) 52)</td></tr>
+<tr><td>133 Gazzelle incl. antilope saltante, antilope cervicapra, impala</td><td colspan="2">c)e)</td><td>10</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">4 per capo</td><td colspan="7">–</td><td colspan="2">40</td><td colspan="2">–</td><td>6) 8) 27) 52)</td></tr>
+<tr><td>134 Antilope giraffa, dibatag, antilocapra, saiga e altre antilopi di media taglia</td><td colspan="2">c)e)</td><td>6</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">5 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>6) 8) 27) 52)</td></tr>
+<tr><td>135 Antilopi di grossa taglia, buoi muschiati, bisonte europeo, bisonte americano, altri bovini selvatici</td><td colspan="2">c)e)</td><td>5</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">8 per capo</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 11) 25) 27) 31) 32) 52)</td></tr>
+<tr><td>136 Camoscio, goral, capricorno di Sumatra, capra delle nevi, takin</td><td colspan="2">c)e)</td><td>4</td><td colspan="2">400</td><td colspan="2">–</td><td colspan="2">4 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>2) 6) 8) 28)</td></tr>
+<tr><td>137 Mufloni e altri ovini selvatici</td><td colspan="2">c)</td><td>10</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">2 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>2) 8) 52) altri ovini selvatici: 27)</td></tr>
+<tr><td>138 Caprini selvatici, bharal, pecora crinita</td><td colspan="2">c)</td><td>10</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">2 per capo</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>2) 8) 27) 52)</td></tr>
+</table>
+
+Osservazioni sulla tabella 1 – (Mammiferi)
+
+<table>
+<tr><td>a) Se le dimensioni dei parchi sono indicate in termini di superficie di base e volume, l’altezza deve corrispondere ad almeno l’80 % del quoziente (volume/superficie di base), salvo diversa indicazione. Nei requisiti per ogni animale in più, il volume deve essere aumentato proporzionalmente alla superficie di base.</td></tr>
+<tr><td>b) Se nella tabella 3 sono previste dimensioni minime per i bacini, tale superficie deve essere resa disponibile in aggiunta alle dimensioni indicate nella tabella 1.</td></tr>
+<tr><td>c) Per la detenzione privata è necessaria un’autorizzazione secondo l’articolo 89.</td></tr>
+<tr><td>d) Se gli animali sono tenuti in centri autorizzati di detenzione di animali da laboratorio, la detenzione deve soddisfare almeno i requisiti di cui all’allegato 3.</td></tr>
+<tr><td>e) Queste dimensioni minime valgono per le detenzioni esistenti il 1° settembre 2008. Negli impianti di nuova realizzazione occorre definire le dimensioni minime tenendo conto delle nuove conoscenze acquisite.</td></tr>
+<tr><td>f) Le superfici sopraelevate calpestabili dagli animali concorrono nel calcolo della superficie minima richiesta al massimo in misura di un terzo.</td></tr>
+<tr><td>g) Per i porcellini d’India ancora piccoli (&lt; 700 g) la superficie supplementare per ogni animale è di 0,1 m<sup>2</sup> a partire dal terzo animale.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td colspan="2">1) Possibilità di scavare nel suolo.</td></tr>
+<tr><td colspan="2">2) Possibilità di arrampicarsi su rami o rocce, a seconda della specie. Lo spessore dei rami dovrebbe corrispondere agli organi prensili dell’animale.</td></tr>
+<tr><td colspan="2">3) Box per dormire. Essi dovrebbero essere sistemati all’altezza del suolo oppure in un luogo rialzato, a seconda della specie. Per le specie incompatibili a momenti alterni, occorre prevedere un box per ogni animale.</td></tr>
+<tr><td colspan="2">4) Detenzione individuale, in coppia o in gruppi, a seconda della specie, con possibilità di suddividere i parchi. Per un numero più elevato di animali occorrono altri parchi.</td></tr>
+<tr><td colspan="2">5) Per le specie di taglia piuttosto grande che vivono preferibilmente al suolo (dendrolagus dorianus, d. inustus, d. lumholtzi) occorre anche un parco esterno.</td></tr>
+<tr><td colspan="2">6) Schermi, possibilità di evitarsi e ritirarsi.</td></tr>
+<tr><td colspan="2">7) Spazio interno/stalla strutturata con pareti divisorie.</td></tr>
+<tr><td colspan="2">8) Per le specie che sopportano bene l’inverno è sufficiente un riparo naturale o artificiale in cui trovino spazio tutti gli animali; per le specie che non sopportano bene l’inverno occorre prevedere un parco interno o una stalla conformemente alle indicazioni.</td></tr>
+<tr><td colspan="2">9) Possibilità di aggrapparsi al soffitto oppure nel terzo superiore del parco; per gli animali cavernicoli, casse per dormire aperte sul davanti.</td></tr>
+<tr><td colspan="2">10) Diversi posti di foraggiamento che gli animali possono raggiungere anche arrampicandosi.</td></tr>
+<tr><td colspan="2">11) Possibilità di separazione e di isolamento. Per le specie sociali deve esserci contatto visivo.</td></tr>
+<tr><td colspan="2">12) Per la bertuccia, il macaco orsino, il macaco dalla faccia rossa e la gelada non è necessario il parco interno; è sufficiente una capanna isolata. Lo stesso vale per le altre specie tenute all’aperto durante l’estate.</td></tr>
+<tr><td colspan="2">13) Box per dormire suddivisibili per gruppi e per singoli animali.</td></tr>
+<tr><td colspan="2">14) Permettere agli animali di soddisfare le loro esigenze comportamentali mettendo loro a disposizione vari oggetti, p. es. funi per dondolarsi, paglia, recipienti di plastica e nascondendo il cibo in posti sempre diversi. I primati devono essere indotti all’esplorazione attraverso stimoli supplementari nel loro ambiente.</td></tr>
+<tr><td colspan="2">15) A seconda della specie, luoghi sopraelevati ove potersi sdraiare (p. es. tamandua, scoiattoli giganti, felini) oppure luoghi di osservazione (lontre, manguste, ecc.).</td></tr>
+<tr><td colspan="2">16) Possibilità di scavare e di rovistare nel terreno.</td></tr>
+<tr><td colspan="2">17) Parchi interni o esterni. Se per le specie che non sopportano bene l’inverno sono previsti parchi esterni, occorre prevedere anche un locale interno riscaldabile.</td></tr>
+<tr><td colspan="2">18) Possibilità di bagnarsi. Se sono necessari bacini con misure minime definite, si veda la tabella 3.</td></tr>
+<tr><td colspan="2">19) Disponibilità regolare di rami freschi per la cura dei denti e per soddisfare le esigenze comportamentali degli animali.</td></tr>
+<tr><td colspan="2">20) Parco esterno con radiatori termici.</td></tr>
+<tr><td colspan="2">21) Box individuale per ogni animale; superficie al suolo: piccoli predatori 0,5–1 m<sup>2</sup>, ghiottone, lince, serval, felini di media taglia, puma, pantera nebulosa 1,5 m<sup>2</sup>; felini di grossa taglia, ghepardo 2,5 m<sup>2</sup>; orso malese, iene, protele 4 m<sup>2</sup>; orsi di grande taglia, panda gigante 6 m<sup>2</sup>.</td></tr>
+<tr><td colspan="2">22) Se si tratta di suolo lasciato allo stato naturale: 50 m<sup>2</sup> per i canguri di piccola taglia, 1000 m<sup>2</sup> per gli orsi.</td></tr>
+<tr><td colspan="2">23) Locale interno solo per le specie (e sottospecie) che non sopportano bene l’inverno, altrimenti box per dormire per ogni animale adulto secondo il requisito 21.</td></tr>
+<tr><td colspan="2">24) Possibilità di fare il bagno o la doccia tutto l’anno per gli elefanti e i rinoceronti asiatici. Per il tapiro, l’ippopotamo e l’ippopotamo pigmeo occorrono un bacino interno e uno esterno. Per le dimensioni del bacino esterno si veda la tabella 3.</td></tr>
+<tr><td colspan="2">25) Possibilità di strofinarsi, come tronchi d’albero o rocce e bagni di sabbia o fango per la cura della pelle.</td></tr>
+<tr><td colspan="2">26) Box individuali. Per le specie sociali deve esserci contatto visivo tra gli animali nei box individuali. Se gli animali non sopportano bene l’inverno i box devono essere riscaldati.</td></tr>
+<tr><td colspan="2">27) Secondo la specie, prevedere la possibilità di separare i maschi o vie di fuga per le femmine e gli animali giovani.</td></tr>
+<tr><td colspan="2">28) Suolo morbido negli impianti esterni (prato, pezzi di corteccia).</td></tr>
+<tr><td colspan="2">29) Fango, ad eccezione dei daini e delle renne. Per i suini: possibilità di scavare e di rotolarsi nel fango.</td></tr>
+<tr><td colspan="2">30) Alberi contro cui i cervidi possono strofinare le corna, rami.</td></tr>
+<tr><td colspan="2">31) Si considera la superficie solo negli impianti parzialmente fissi. Negli impianti che dispongono solo di suolo naturale le dimensioni devono essere triplicate e i parchi devono poter essere suddivisi.</td></tr>
+<tr><td colspan="2">32) Tronchi d’albero per soddisfare le esigenze comportamentali dei buoi muschiati.</td></tr>
+<tr><td colspan="2">33) Veranda supplementare o parco interno di 80 m<sup>2</sup>.</td></tr>
+<tr><td colspan="2">34) Coppia monogama con prole subadulta accettata.</td></tr>
+<tr><td colspan="2">35) Riparo o stalla; in caso di detenzione in box individuali la superficie deve essere triplicata.</td></tr>
+<tr><td colspan="2">36) Se è disponibile un parco esterno occorre garantire l’accesso permanente al parco interno.</td></tr>
+<tr><td colspan="2">37) Vacche in detenzione comune; è possibile tenerle legate per breve tempo solo per ragioni di sicurezza, per abituarle alla stabulazione fissa, per la cura delle zampe o per trattamenti veterinari.</td></tr>
+<tr><td colspan="2">38) Struttura del suolo morbida ed elastica, con zona paludosa che permetta un accesso permanente all’acqua.</td></tr>
+<tr><td colspan="2">39) Lettiera adeguata.</td></tr>
+<tr><td colspan="2">40) Lettiera adeguata in cui sia possibile scavare: per criceti, 15 cm di profondità; per gerbilli della Mongolia, 25 cm di profondità; per degu, 30 cm di profondità.</td></tr>
+<tr><td colspan="2">41) Una o più possibilità per tutti gli animali di rifugiarsi contemporaneamente. Maggiori possibilità di rifugiarsi per i cincillà.</td></tr>
+<tr><td colspan="2">42) Materiale adatto alla preparazione del nido.</td></tr>
+<tr><td colspan="2">43) Assi per sedersi poste a diverse altezze.</td></tr>
+<tr><td colspan="2">44) Foraggio grezzo come fieno o paglia; miscele di semi per criceti e topi.</td></tr>
+<tr><td colspan="2">45) Oggetti da rosicchiare come legno tenero o rami appena tagliati.</td></tr>
+<tr><td colspan="2">46) Bagni di sabbia.</td></tr>
+<tr><td colspan="2">47) Gli animali devono essere tenuti in gruppi di almeno due esemplari.</td></tr>
+<tr><td colspan="2">48) Un animale può essere tenuto da solo in un parco. Fanno eccezione quelli appartenenti alle specie sociali.</td></tr>
+<tr><td colspan="2">49) Parco esterno in cui gli animali possano scavare delle tane.</td></tr>
+<tr><td colspan="2">50) Per le specie che vanno in letargo devono essere adottate le dovute precauzioni per quanto riguarda il clima.</td></tr>
+<tr><td colspan="2">51) Per delimitare e suddividere i parchi non è possibile utilizzare griglie.</td></tr>
+<tr><td colspan="2">52) Il suolo del parco deve presentare strutture tali da rendere possibile, a seconda della specie, la cura delle zampe ed eventualmente del pelo. Per i felini, la limatura degli artigli deve essere assicurata anche con attrezzature adeguate.</td></tr>
+<tr><td colspan="2">53) Gli alimenti devono essere offerti in modo tale che l’animale debba compiere un certo sforzo per ottenerli.</td></tr>
+<tr><td colspan="2">54) Foraggio grezzo come fieno o paglia e alimenti contenenti vitamina C.</td></tr>
+<tr><td colspan="2">55) Possono essere offerti anche ripiani se la superficie di base minima viene rispettata. L’altezza interna utilizzabile tra il suolo e il primo ripiano deve in tal caso corrispondere almeno alla semplice lunghezza del corpo (senza coda) di un animale adulto.</td></tr>
+</table>
+
+Tabella 2
+
+## Parchi per uccelli
+
+<table>
+<tr><th colspan="2">Parchi per uccelli</th><th></th><th colspan="4">Per gruppi fino a n animali</th><th></th><th></th><th></th><th colspan="2">Per ogni animale in più<sup>a)</sup></th><th></th><th>Locale interno</th><th>Requisiti particolari</th></tr>
+<tr><th colspan="2"></th><th></th><th>Numero</th><th>Parco esterno</th><th colspan="4">Voliere<sup>b)</sup></th><th></th><th>Parco esterno</th><th colspan="2">Voliere<sup>b)</sup></th><th>Per animale<sup>c)</sup></th><th></th></tr>
+<tr><th colspan="2">Specie animali</th><th></th><th>(n)</th><th>Superficie<sup>d)</sup> m<sup>2</sup></th><th>Superficie<sup>d)</sup> m<sup>2</sup></th><th colspan="4">Volume m<sup>3</sup></th><th>Superficie m<sup>2</sup></th><th colspan="2">Superficie m<sup>2</sup></th><th>Superficie m<sup>2</sup></th><th></th></tr>
+<tr><td>1 Struzzo comune</td><td colspan="2">e)</td><td>2 3</td><td>1100 1600</td><td>–</td><td colspan="4">–</td><td>200 f, 800 m</td><td colspan="2">–</td><td>6</td><td>1) 3) 24)</td></tr>
+<tr><td>2 Nandù</td><td colspan="2">e)</td><td>6</td><td>500</td><td>–</td><td colspan="4">–</td><td>50</td><td colspan="2">–</td><td>–</td><td>1) 3) 24)</td></tr>
+<tr><td>3 Casuarii</td><td colspan="2">e)</td><td>2</td><td>300</td><td>–</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td>10</td><td>2) 3) 4) 24) 26)</td></tr>
+<tr><td>4 Emù</td><td colspan="2">e)</td><td>2</td><td>500</td><td>–</td><td colspan="4">–</td><td>100</td><td colspan="2">–</td><td>–</td><td>1) 3) 24) 25) 26)</td></tr>
+<tr><td>5 Pinguini di grossa taglia (a partire dal pigoscelide papua)</td><td colspan="2">e)g)</td><td>12</td><td>100</td><td>45</td><td colspan="4">90</td><td>3</td><td colspan="2">–</td><td>3</td><td>6) 7)</td></tr>
+<tr><td>6 Pinguini di piccola taglia e pigoscelidi di Adelia</td><td colspan="2">e)g)</td><td>12</td><td>60</td><td>45</td><td colspan="4">90</td><td>2</td><td colspan="2">–</td><td>2</td><td>6) 7) 17)</td></tr>
+<tr><td>7 Pellicani</td><td colspan="2">e)</td><td>4</td><td>60</td><td>–</td><td colspan="4">–</td><td>10</td><td colspan="2">–</td><td>3</td><td>7) 8) 12)</td></tr>
+<tr><td>8 Cormorani, aninghe</td><td colspan="2">e)g)</td><td>6</td><td>40</td><td>20</td><td colspan="4">50</td><td>2</td><td colspan="2">3</td><td>–</td><td>7) 9) 10)</td></tr>
+<tr><td>9 Becco a scarpa</td><td colspan="2">e)g)</td><td>2</td><td>100</td><td>–</td><td colspan="4">–</td><td>50</td><td colspan="2">–</td><td>6</td><td>7)</td></tr>
+<tr><td>10 Mitteria del Senegal, mitteria gigante, marabù, airone golia</td><td colspan="2">e)g)</td><td>2</td><td>200</td><td>80</td><td colspan="4">320</td><td>50</td><td colspan="2">20</td><td>5</td><td>7) 12)</td></tr>
+<tr><td>11 Cicogne di media e piccola taglia</td><td colspan="2">e)</td><td>2</td><td>100</td><td>100</td><td colspan="4">500</td><td>10</td><td colspan="2">10</td><td>1</td><td>7) 10) 11)</td></tr>
+<tr><td>12 Aironi di grossa taglia (A. cenerino)</td><td colspan="2">e)</td><td>6</td><td>100</td><td>100</td><td colspan="4">500</td><td>5</td><td colspan="2">3</td><td>1</td><td>7) 10) 11)</td></tr>
+<tr><td>13 Aironi di media taglia (A. guardabuoi)</td><td colspan="2">e)</td><td>6</td><td>–</td><td>40</td><td colspan="4">160</td><td>–</td><td colspan="2">2</td><td>0,5</td><td>7) 10) 11)</td></tr>
+<tr><td>14 Umbretta</td><td colspan="2">e)</td><td>6</td><td>–</td><td>40</td><td colspan="4">160</td><td>–</td><td colspan="2">5</td><td>2</td><td>4) 7) 8) 10) 11)</td></tr>
+<tr><td>15 Ibis, ibis eremita, spatole</td><td colspan="2">e)</td><td>12</td><td>–</td><td>40</td><td colspan="4">160</td><td>–</td><td colspan="2">2</td><td>0,5</td><td>7) 10) 11)</td></tr>
+<tr><td>16 Tarabuso</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">50</td><td>–</td><td colspan="2">2</td><td>2</td><td>4) 7) 8) 10) 11)</td></tr>
+<tr><td>17 Aironi di piccola taglia (tarabusino)</td><td colspan="2">e)</td><td>2</td><td>–</td><td>10</td><td colspan="4">25</td><td>–</td><td colspan="2">–</td><td>–</td><td>4) 7) 9) 10)</td></tr>
+<tr><td>18 Fenicotteri</td><td colspan="2">e)</td><td>20</td><td>250</td><td>–</td><td colspan="4">–</td><td>5</td><td colspan="2">–</td><td>1</td><td>7) 8) 12)</td></tr>
+<tr><td>19 Gruidi di grossa taglia (gru cenerina)</td><td colspan="2">e)</td><td>2</td><td>300</td><td>–</td><td colspan="4">–</td><td>150</td><td colspan="2">–</td><td>6</td><td>11) 12) 14)</td></tr>
+<tr><td>20 Gruidi di piccola taglia (damigella)</td><td colspan="2">e)</td><td>2</td><td>200</td><td>–</td><td colspan="4">–</td><td>100</td><td colspan="2">–</td><td>2</td><td>11) 12) 14)</td></tr>
+<tr><td>21 Aquile e avvoltoi di grossa taglia</td><td colspan="2">e)</td><td>2</td><td>–</td><td>60</td><td colspan="4">240</td><td>–</td><td colspan="2">15</td><td>4</td><td>10) 11) 13) 14) 15)</td></tr>
+<tr><td>22 Aquile di piccola taglia (aquila minore), falco pescatore, astori di grossa taglia, poiane, nibbi, avvoltoi di piccola taglia, rapaci appartenenti al genere Circus</td><td colspan="2">e)</td><td>2</td><td>–</td><td>30</td><td colspan="4">90</td><td>–</td><td colspan="2">10</td><td>2</td><td>10) 11) 13) 14) 15)</td></tr>
+<tr><td>23 Falchi di grossa taglia (falco pellegrino, girifalco)</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">60</td><td>–</td><td colspan="2">4</td><td>2</td><td>4) 10) 11) 13) 14) 15)</td></tr>
+<tr><td>24 Falchi di media taglia (lodolaio), piccoli astori (sparviero)</td><td colspan="2">e)</td><td>2</td><td>–</td><td>15</td><td colspan="4">40</td><td>–</td><td colspan="2">2</td><td>1</td><td>4) 10) 11) 13) 14) 15)</td></tr>
+<tr><td>25 Falchetti</td><td colspan="2">e)</td><td>2</td><td>–</td><td>10</td><td colspan="4">20</td><td>–</td><td colspan="2">0,5</td><td>–</td><td>4) 9) 10) 13) 14) 15)</td></tr>
+<tr><td>26 Civette di grossa taglia (gufo reale)</td><td colspan="2">e)</td><td>2</td><td>–</td><td>30</td><td colspan="4">90</td><td>–</td><td colspan="2">6</td><td>3</td><td>4) 10) 11) 13) 14) 15)</td></tr>
+<tr><td>27 Civette di media taglia (barbagianni)</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">40</td><td>–</td><td colspan="2">3</td><td>2</td><td>4) 10) 11) 13) 14) 15)</td></tr>
+<tr><td>28 Civette di piccola taglia (civetta comune)</td><td colspan="2">e)</td><td>2</td><td>–</td><td>10</td><td colspan="4">20</td><td>–</td><td colspan="2">1</td><td>1</td><td>4) 9) 10) 13) 14) 15)</td></tr>
+<tr><td>29 Quaglie, *Coturnix japonica*</td><td colspan="2">h)</td><td>6</td><td>–</td><td>0,5</td><td colspan="4">0,25</td><td>–</td><td colspan="2">0,045</td><td>–</td><td>19) 22) 23) 27)</td></tr>
+<tr><td>30 Pappagalli di grossa taglia (ara e cacatua)</td><td colspan="2">e)f)</td><td>2</td><td>–</td><td>10</td><td colspan="4">30</td><td>–</td><td colspan="2">1</td><td>–</td><td>5) 14) 16) 18) 19) 20) 22)</td></tr>
+<tr><td>31 Uccelli fino alle dimensioni dei pappagalli cenerini (pappagallini e pappagalli di grande taglia)</td><td colspan="2"></td><td>2</td><td>–</td><td>0,7</td><td colspan="4">0,84</td><td>–</td><td colspan="2">0,1</td><td>–</td><td>14) 18) 19) 20) 21) 22)</td></tr>
+<tr><td>32 Uccelli fino alle dimensioni dei pappagalli calopsitta (pappagallini di media taglia)</td><td colspan="2"></td><td>6</td><td>–</td><td>0,5</td><td colspan="4">0,3</td><td>–</td><td colspan="2">0,05</td><td>–</td><td>14) 18) 19) 20) 21) 22)</td></tr>
+<tr><td>33 Uccelli fino alle dimensioni degli agapornidi (canarini, estrildidi, pappagallini di piccola taglia, agapornidi)</td><td colspan="2"></td><td>4</td><td>–</td><td>0,24</td><td colspan="4">0,12</td><td>–</td><td colspan="2">0,05</td><td>–</td><td>14) 19) 20) 21) 22) psittaciformi: 18)</td></tr>
+<tr><td>34 Limicoli</td><td colspan="2">e)</td><td>8</td><td>–</td><td>20</td><td colspan="4">40</td><td>–</td><td colspan="2">1</td><td>0,5</td><td>7) 11)</td></tr>
+<tr><td>35 Labbi codalunga, gabbiani di grossa taglia</td><td colspan="2">e)</td><td>6</td><td>30</td><td>60</td><td colspan="4">240</td><td>2</td><td colspan="2">2</td><td>–</td><td>7)</td></tr>
+<tr><td>36 Gabbiani di piccola taglia</td><td colspan="2">e)</td><td>10</td><td>–</td><td>60</td><td colspan="4">240</td><td>–</td><td colspan="2">1</td><td>–</td><td>7)a</td></tr>
+<tr><td>37 Caprimulgiformi, succiacapre</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">40</td><td>–</td><td colspan="2">1</td><td>–</td><td>4) 9) 10)</td></tr>
+<tr><td>38 Colibrì, nettarinie</td><td colspan="2">e)</td><td>2</td><td>–</td><td>3</td><td colspan="4">6</td><td>–</td><td colspan="2">1</td><td>–</td><td>4) 10) 14) 16)</td></tr>
+<tr><td>39 Quetzal, trogoni</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">60</td><td>–</td><td colspan="2">4</td><td>–</td><td>10) 14)</td></tr>
+<tr><td>40 Bucerotidi di grossa taglia</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">60</td><td>–</td><td colspan="2">–</td><td>–</td><td>10) 14)</td></tr>
+<tr><td>41 Paradiseidi</td><td colspan="2">e)</td><td>2</td><td>–</td><td>20</td><td colspan="4">60</td><td>–</td><td colspan="2">4</td><td>–</td><td>4) 10) 14)</td></tr>
+</table>
+
+Osservazioni sulla tabella 2 (Uccelli)
+
+<table>
+<tr><td>a) Se nella colonna «Per ogni animale in più» non vi è alcuna indicazione, significa che in linea di massima non si possono tenere più di n animali.</td></tr>
+<tr><td>b) Se le dimensioni dei parchi sono indicate in termini di superficie di base e volume, l’altezza deve corrispondere ad almeno l’80 % del quoziente (volume/superficie di base), salvo diversa indicazione. Nei requisiti per ogni animale in più, il volume deve essere aumentato proporzionalmente alla superficie di base.</td></tr>
+<tr><td>c) Tutti i parchi devono avere una superficie al suolo di almeno 4 m<sup>2</sup>.</td></tr>
+<tr><td>d) Se nella tabella 4 sono previste dimensioni minime per i bacini, tale superficie deve essere resa disponibile in aggiunta alle dimensioni indicate nella tabella 2.</td></tr>
+<tr><td>e) Per la detenzione privata è necessaria un’autorizzazione secondo l’articolo 89.</td></tr>
+<tr><td>f) Ara di grossa taglia: *Anodorhynchus hyacinthinus, Anodorhynchus leari, Ara ambigua, Ara ararauna, Ara caninde, Ara chloroptera, Ara macao, Ara militaris, Ara rubrogenys, Cyanopsitta spixii*. Cacatua di grossa taglia: *Cacatua alba, Cacatua galerita, Cacatua moluccensis, Cacatua ophthalmica, Calyptorhynchus funereus, Calyptorhynchus lathami, Calyptor**hynchus magnificus, Probosciger aterrimus*.</td></tr>
+<tr><td>g) Queste dimensioni minime valgono per le detenzioni esistenti il 1° settembre 2008. Negli impianti di nuova realizzazione occorre definire le dimensioni minime tenendo conto delle nuove conoscenze acquisite.</td></tr>
+<tr><td>h) Alle specie di quaglie diverse dalla *Cortunix japonica* sono applicabili, a seconda delle dimensioni, i requisiti minimi di cui alla cifra 31 o 32.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td>1) Bagni di sabbia.</td></tr>
+<tr><td>2) I parchi devono poter essere collegati fra loro.</td></tr>
+<tr><td>3) Al posto di uno spazio interno è sufficiente un riparo o un’unità di detenzione. Il riparo o l’unità di detenzione deve offrire posto contemporaneamente a tutti gli animali, rimanere asciutto e offrire una superficie di riposo riparata dal vento.</td></tr>
+<tr><td>4) Possibilità di nascondersi adeguate alla specie – canneto, arbusti, cavità negli alberi o buche nel terreno.</td></tr>
+<tr><td>5) Parco interno; parco esterno facoltativo. Se il parco esterno è sempre accessibile, le sue dimensioni possono concorrere nel calcolo del parco interno, quest’ultimo può tuttavia essere sostituito dal parco esterno nella misura di un terzo al massimo.</td></tr>
+<tr><td>6) Detenzione all’interno e all’esterno. Per la detenzione estiva di specie antartiche e subantartiche gli spazi interni devono essere sempre climatizzati. In inverno occorre prevedere un accesso al parco esterno o alle passeggiate («parata dei pinguini»).</td></tr>
+<tr><td>7) Per i bacini si veda la tabella 4. Occorre un bacino adeguato anche per le specie che non figurano nella tabella 4.</td></tr>
+<tr><td>8) Possibilità di fare il bagno anche nel parco interno.</td></tr>
+<tr><td>9) A seconda della specie, trattasi di parchi interni o esterni.</td></tr>
+<tr><td>10) Possibilità di appollaiarsi.</td></tr>
+<tr><td>11) Per le specie che non sopportano bene l’inverno deve essere disponibile un parco interno.</td></tr>
+<tr><td>12) Il parco interno deve essere collegato al parco esterno.</td></tr>
+<tr><td>13) I grifoni diurni e notturni possono essere tenuti con la pastoia soltanto nelle detenzioni inaccessibili al pubblico. I rapaci tenuti in falconiera devono avere con regolarità sufficienti possibilità di volare liberamente.</td></tr>
+<tr><td>14) Possibilità di bagnarsi.</td></tr>
+<tr><td>15) Le voliere devono essere costruite in modo tale che gli uccelli non siano disturbati dal pubblico.</td></tr>
+<tr><td>16) Se due uccelli sono tenuti insieme, il parco deve poter essere suddiviso in caso di bisogno.</td></tr>
+<tr><td>17) Nella stagione fredda, possibilità di tenere i pinguini di piccola taglia in parchi in cui non vi è pericolo di gelo.</td></tr>
+<tr><td>18) Rami naturali in abbondanza affinché gli animali possano rosicchiare e arrampicarsi.</td></tr>
+<tr><td>19) Gli animali devono essere tenuti in gruppi di almeno due esemplari.</td></tr>
+<tr><td>20) I parchi devono essere dotati di diverse strutture con superfici morbide, di vario spessore e orientamento, su cui gli uccelli possano appollaiarsi; un terzo del loro volume deve essere libero da ogni struttura.</td></tr>
+<tr><td>21) Nei parchi con una superficie inferiore a 2 m<sup>2</sup> il rapporto fra lunghezza e larghezza rispetto alla superficie minima non può essere superiore a 2:1.</td></tr>
+<tr><td>22) Gli uccelli devono poter disporre di sabbia adatta.</td></tr>
+<tr><td>23) Per le giovani quaglie della specie *Coturnix Japonica*, superficie per animale: fino a 14 giorni, 100 cm<sup>2</sup>; fino a 41 giorni, 300 cm<sup>2</sup>; nelle prime due settimane di vita i pulcini possono essere tenuti su griglie intere: la griglia deve essere coperta parzialmente con un materiale non scivoloso per i pulcini sul quale può essere sparso il mangime.</td></tr>
+<tr><td>24) A partire dal 3° mese di vita, gli uccelli devono avere durante tutto l’anno, libero accesso a un’uscita o a un’area di pastura.</td></tr>
+<tr><td>25) A partire dal 3° mese di vita, gli uccelli devono avere, all’interno del parco, la possibilità di fare il bagno nell’acqua.</td></tr>
+<tr><td>26) Possibilità di suddividere il parco per potere separare di tanto in tanto il gallo dalle galline. Il settore separato deve comprendere almeno 100 m<sup>2</sup>.</td></tr>
+<tr><td>27) A partire dalla 3a settimana di vita la parte di griglia non deve superare il 50% della superficie del parco che soddisfa l’altezza minima. Almeno la metà della superficie complessiva deve essere cosparsa di un materiale adatto (p. es. pula, segatura). Nel parco devono essere previsti la possibilità di fare un bagno di polvere, sufficienti nascondigli e, per le galline ovaiole, la possibilità di deporre indisturbate le uova in un nido o in un nascondiglio. I nidi devono essere alti almeno 16 cm e avere una superficie di 20 x 20 cm. Devono essere in parte coperti e cosparsi di materiale adatto. Per i gruppi di oltre 10 animali devono essere disponibili per ogni parco almeno 2 dispositivi di alimentazione e di abbeveraggio.</td></tr>
+</table>
+
+Tabella 3
+
+## Bacini per mammiferi
+
+<table>
+<tr><th>Bacini per mammiferi</th><th colspan="3">Per gruppi fino a n animali</th><th></th><th></th><th>Per ogni animale in più<sup>a)</sup></th><th>Requisiti particolari</th></tr>
+<tr><th>Specie animali</th><th>Numero (n)</th><th>Superficie m<sup>2</sup></th><th colspan="3">Profondità m</th><th>Superficie m<sup>2</sup></th><th></th></tr>
+<tr><td>1 Visone selvatico, puzzola</td><td>2</td><td>1</td><td colspan="3">0,2</td><td>–</td><td></td></tr>
+<tr><td>2 Nutria</td><td>2</td><td>2</td><td colspan="3">0,5</td><td>–</td><td></td></tr>
+<tr><td>3 Castoro</td><td>5</td><td>30</td><td colspan="3">0,8</td><td>–</td><td>6)</td></tr>
+<tr><td>4 Capibara</td><td>5</td><td>6</td><td colspan="3">0,5</td><td>1</td><td>7)</td></tr>
+<tr><td>5 Lontra nana</td><td>2</td><td>10</td><td colspan="3">0,5</td><td>2</td><td></td></tr>
+<tr><td>6 Aonyx, lontra comune</td><td>2</td><td>20</td><td colspan="3">0,8</td><td>–</td><td></td></tr>
+<tr><td>7 Lontra marina</td><td>2</td><td>60</td><td colspan="3">2</td><td>25</td><td></td></tr>
+<tr><td>8 Orsi di grande taglia, escluso l’orso malese<sup>b)</sup></td><td>2</td><td>50</td><td colspan="3">1</td><td>2</td><td></td></tr>
+<tr><td>9 Orso polare<sup>b)</sup></td><td>1</td><td>400</td><td colspan="3">2</td><td>20</td><td></td></tr>
+<tr><td>10 Rinoceronte asiatico<sup>b)</sup></td><td>2</td><td>10</td><td colspan="3">1</td><td>5</td><td></td></tr>
+<tr><td>11 Ippopotamo pigmeo<sup>b)</sup></td><td>2</td><td>20</td><td colspan="3">0,8</td><td>–</td><td></td></tr>
+<tr><td>12 Ippopotamo<sup>b)</sup></td><td>2</td><td>30</td><td colspan="3">1,5</td><td>8</td><td></td></tr>
+<tr><td>13 Tapiro<sup>b)</sup></td><td>2</td><td>10</td><td colspan="3">0,8</td><td>–</td><td></td></tr>
+<tr><td>14 Sireni<sup>b)</sup></td><td>2</td><td>80</td><td colspan="3">2</td><td>20</td><td></td></tr>
+<tr><td>15 Foche</td><td>[tab] 5</td><td>[tab] 80</td><td colspan="3">[tab] 2</td><td>[tab] 10</td><td>[tab] 1)</td></tr>
+<tr><td>16 Leoni marini, otarie</td><td>5</td><td>150</td><td colspan="3">3</td><td>15</td><td>1)</td></tr>
+<tr><td>17 Elefanti marini, trichechi<sup>b)</sup></td><td>3</td><td>250</td><td colspan="3">10</td><td>40</td><td>1)</td></tr>
+<tr><td>18 Delfini, marsovini<sup>b)</sup></td><td>5</td><td>800</td><td colspan="3">5</td><td>50</td><td>2) 3) 4)</td></tr>
+<tr><td>19 Platanistidi asiatici<sup>b)</sup></td><td>4</td><td>400</td><td colspan="3">4</td><td>25</td><td>2) 5)</td></tr>
+<tr><td>20 Platanistidi sudamericani<sup>b)</sup></td><td>4</td><td>400</td><td colspan="3">4</td><td>30</td><td>2) 5)</td></tr>
+<tr><td>21 Orca, delfinattero bianco, globicefalo<sup>b)</sup></td><td>2</td><td>2000</td><td colspan="3">10</td><td>150</td><td>2) 4) 5)</td></tr>
+</table>
+
+Osservazioni sulla tabella 3 – (Bacini per mammiferi)
+
+<table>
+<tr><td>a) Il volume deve essere aumentato proporzionalmente alla superficie di base.</td></tr>
+<tr><td>b) Queste dimensioni minime valgono per le detenzioni esistenti il 1° settembre 2008. Negli impianti di nuova realizzazione occorre definire le dimensioni minime tenendo conto delle nuove conoscenze acquisite.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td>1) Le dimensioni indicate sono applicabili unicamente ai bacini. È inoltre richiesta una parte di terreno adeguata. Dimensioni minime per animale: foca, 10 m<sup>2</sup>; leone marino, otaria, elefante marino e tricheco, 15 m<sup>2</sup>.</td></tr>
+<tr><td>2) Rendimento dei filtri: l’impianto deve permettere il ricambio dell’intero volume dell’acqua in quattro ore al massimo.</td></tr>
+<tr><td>3) Compresi un bacino accessorio di 150 m<sup>2</sup> e di 3,5 m di profondità con la possibilità di approvvigionamento indipendente di acqua e un bacino di separazione degli animali.</td></tr>
+<tr><td>4) Acqua salata.</td></tr>
+<tr><td>5) Compresi un bacino accessorio e un bacino per separare gli animali; almeno un bacino di separazione con possibilità di approvvigionamento indipendente di acqua.</td></tr>
+<tr><td>6) Il bacino deve essere dotato di legno che i castori possono rosicchiare. Il legno deve essere rinnovato periodicamente.</td></tr>
+<tr><td>7) Il parco interno deve disporre anche di un bacino.</td></tr>
+</table>
+
+Tabella 4
+
+## Bacini per uccelli
+
+<table>
+<tr><th>Bacini per uccelli</th><th colspan="3">Per gruppi fino a n animali</th><th></th><th></th><th>Per ogni animale in più</th><th>Requisiti particolari</th></tr>
+<tr><th>Specie animali</th><th>Numero (n)</th><th>Superficie m<sup>2</sup></th><th colspan="3">Profondità m</th><th>Superficie m<sup>2</sup></th><th></th></tr>
+<tr><td>1 Pinguini di grossa taglia (a partire dal pigoscelide papua)<sup>a)</sup></td><td>12</td><td>15</td><td colspan="3">2</td><td>1</td><td>1)</td></tr>
+<tr><td>2 Pigoscelide di Adeliaa)</td><td>12</td><td>15</td><td colspan="3">2</td><td>1</td><td>1)</td></tr>
+<tr><td>3 Pinguini di piccola taglia<sup>a)</sup></td><td>12</td><td>15</td><td colspan="3">1</td><td>0,5</td><td>1)</td></tr>
+<tr><td>4 Pellicani</td><td>4</td><td>50</td><td colspan="3">0,75</td><td>5</td><td></td></tr>
+<tr><td>5 Cormorani, aninghe</td><td>6</td><td>40</td><td colspan="3">1,25</td><td>1</td><td></td></tr>
+<tr><td>6 Fenicotteri</td><td>20</td><td>100</td><td colspan="3">–</td><td>0,5</td><td>2)</td></tr>
+<tr><td>7 Limicoli</td><td>8</td><td>6</td><td colspan="3">–</td><td>–</td><td>2)</td></tr>
+<tr><td>8 Gabbiani di grande taglia</td><td>6</td><td>12</td><td colspan="3">–</td><td>–</td><td></td></tr>
+<tr><td>9 Gabbiani di piccola taglia</td><td>12</td><td>6</td><td colspan="3">–</td><td>–</td><td></td></tr>
+</table>
+
+Osservazioni sulla tabella 4 – (Bacini per uccelli)
+
+<table>
+<tr><td>a) Queste dimensioni minime valgono per le detenzioni esistenti il 1° settembre 2008. Negli impianti di nuova realizzazione occorre definire le dimensioni minime tenendo conto delle nuove conoscenze acquisite.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td>1) Bacino con sponda alta e uscita.</td></tr>
+<tr><td>2) Profondità variabile con bassofondo.</td></tr>
+</table>
+
+Tabella 5
+
+## Rettili
+
+Osservazioni preliminari
+
+- A. In considerazione delle differenze, talvolta enormi, fra animali adulti e animali giovani, la dimensione del parco deve basarsi sulla lunghezza del corpo dell’esemplare detenuto. Per lunghezza del corpo si intende, nel caso dei sauri e dei coccodrilli, la lunghezza della testa e del tronco, nel caso delle tartarughe la lunghezza del carapace (lunghezza in linea retta senza tener conto della curvatura) e nel caso dei serpenti la lunghezza complessiva. La dimensione del parco è indicata nella tabella all’unità «lunghezza del corpo» (LC). Se diversi animali di taglia differente sono tenuti in gruppo, l’unità determinante per il calcolo della dimensione del parco secondo la tabella è la lunghezza del corpo dell’animale più grande. Se dal calcolo risulta un valore superiore a 2,2 m si può limitare, per motivi pratici, l’altezza richiesta del parco a 2,2 m. In questo caso la superficie del parco deve essere ingrandita proporzionalmente in modo da rispettare il volume minimo del parco.
+- B. È necessario tener conto delle esigenze particolari di ogni specie animale per quel che riguarda la temperatura (ectotermia), l’umidità dell’aria e la luce. Informazioni dettagliate sono disponibili nella letteratura più recente in materia di terraristica e nelle informazioni tecniche dell’USAV.
+- C. I parchi per i rettili in grado di difendersi (come le tartarughe azzannatrici e le tartarughe alligatore), per i rettili velenosi (come gli elodermi e i serpenti velenosi), i boidi e i sauri di grossa taglia devono essere allestiti e gestiti tenendo in debita considerazione gli aspetti legati alla sicurezza. I parchi devono essere dotati di chiusure di sicurezza (lucchetti, catenacci ecc.). Le detenzioni di animali aperte al pubblico devono essere munite di vetri di sicurezza e di rifugi o strutture in cui rinchiudere gli animali.
+- D. Gli animali possono essere tenuti temporaneamente in parchi più piccoli in caso di quarantena, per il trattamento di una malattia o di un infortunio, per l’adattamento, per la riproduzione e l’allevamento, per il letargo dovuto all’inverno o al freddo nonché per l’estivazione.
+- E. È indicata la profondità dell’acqua nel punto più basso del bacino. Per alcune specie devono inoltre essere disponibili settori meno profondi.
+
+## Rettili
+
+<table>
+<tr><th>Parchi per rettili</th><th colspan="3"></th><th colspan="6">Per gruppi fino a n animali</th><th></th><th></th><th></th><th></th><th colspan="2">Per ogni animale in più</th><th colspan="2"></th><th>Requisiti particolari</th></tr>
+<tr><th></th><th colspan="3"></th><th>Numero</th><th>Terreno</th><th colspan="2">Bacino</th><th></th><th colspan="5">Parco</th><th>Terreno</th><th colspan="2">Bacino</th><th colspan="2"></th></tr>
+<tr><th>Specie animali</th><th colspan="3"></th><th>(n)</th><th>Superficie<sup>b</sup>) LC</th><th>Superficie<sup>b</sup>) LC</th><th colspan="2">Profondità LC</th><th colspan="5">Altezza LC</th><th>Superficie LC</th><th colspan="2">Superficie LC</th><th colspan="2"></th></tr>
+<tr><td colspan="2">Testudinidi *(Testudinidae)*</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">1 Testuggini giganti delle Galapagos e delle Seychelles (*Chelonoidis nigra, Dipsochelys* spp.)</td><td colspan="2">a)</td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td colspan="2">1) 2) 3) 5) 6) 7) 12) 26)</td></tr>
+<tr><td colspan="2">2 Testuggini dagli speroni (*Geochelone* [*Centrochelys*] *sulcata*)</td><td colspan="2">a)</td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td colspan="2">1) 3) 5) 6) 7) 9) 12) 26)</td></tr>
+<tr><td colspan="2">3 Testuggini tropicali e subtropicali (*Astrochelys* spp., *Chelonoidis carbonaria, C. chilensis, C. denticulata, Chersina angulata, Geochelone elegans, G. platynota, Gopherus* spp., *Homopus* spp., *Indotestudo* spp., *Kinixys* spp., *Malacochersus tornieri, Manouria* spp., *Psammobates* spp., *Pyxis* spp., *Stigmochelys pardalis, Testudo kleinmanni*)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td colspan="2">5) 9) 12) determinate specie 1) 3) 7) 26)</td></tr>
+<tr><td colspan="2">4 Testuggini europee (*Testudo graeca, T. hermanni, T. marginata, T. horsfieldii*)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td colspan="2">1) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">Chelidridi *(Chelydridae)*</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">5 Tartaruga alligatore (*Macroclemys temminckii*)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>4×3</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td colspan="2">3) 5) 9) 12) 18) 21)</td></tr>
+<tr><td colspan="2">5a Tartaruga azzannatrice (*Chelydra* spp.)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×3</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td colspan="2">3) 5) 9) 12) 18) determinate specie 4)</td></tr>
+<tr><td colspan="2">Tartarughe dal guscio molle (*Trionychidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">6 Tartarughe dal guscio molle di grossa taglia (*Amyda cartilaginea, Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td colspan="2">3) 5) 7) 9) 18)</td></tr>
+<tr><td colspan="2">7 Tartarughe dal guscio molle di piccola e media taglia (*Amydia* spp. [*esclusa A. cartilaginea*], *Apalone* spp., *Cyclanorbis* spp., *Cycloderma* spp., *Dogaia subplana, Lissemys* spp., *Nilssonia* spp., *Palea steindachneri, Pelodiscus* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td colspan="2">3) 5) 7) 9) 18) determinate specie 4)</td></tr>
+<tr><td colspan="2">Kinosternidi (*Kinosternoidea*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">8 Tartarughe del fango e tartarughe muschiate (*Claudius angustatus, Dermatemys mawii, Kinoster**non* spp., *Staurotypus sarvinii, Sternotherus* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>4×3</td><td colspan="2">1</td><td colspan="5">–</td><td>1×1</td><td colspan="2">2×2</td><td colspan="2">3) 5) 9) determinate specie 4) 26)</td></tr>
+<tr><td colspan="2">Geoemididi (*Geoemydidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">8a Geoemididi asiatiche di grossa taglia (*Batagur borneensis, Orlitia borneensis*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>1×1</td><td colspan="2">3×1</td><td colspan="2">3) 5) 18)</td></tr>
+<tr><td colspan="2">Emididi (*Emydidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">9 Tartarughe ornamentali e dipinte (*Actinemys marmorata, Chrysemys* spp., *Clemmys guttata, Deirochelys* spp., *Emydoidea blandingii, Emys* spp., *Glyptemys* spp., *Graptemys* spp., *Malaclemys terrapin, Pseudemys* spp., *Trachemys* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>1×1</td><td colspan="2">2×2</td><td colspan="2">3) 5) 9) 18) 26) determinate specie 4)</td></tr>
+<tr><td colspan="2">9a Tartaruga scatola (*Terrapene* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td colspan="2">1) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">Pleurodira (Pleurodira)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">10 Pelomedusidi (*Pelomedusidae*) (*Pelomedusa* spp., *Pelusios* spp.)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="5">–</td><td>1×1</td><td colspan="2">1×1</td><td colspan="2">3) 5) 9) 18) 26)</td></tr>
+<tr><td colspan="2">11 Tartarughe collo di serpente (Chelidae) (*Acanthochelys* spp., *Chelodina* spp., *Chelus fimbriata, Elseya* spp., *Elusor macrurus, Emydura* spp., *Hydromedusa* spp., *Mesoclemmys* spp., *Myuchelys* spp., *Phrynops* spp., *Platemys platycephala, Pseudemydura umbrina, Rheodytes leukops, Rhinemys rufipes*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td colspan="2">3) 5) 9) 18) 26)</td></tr>
+<tr><td colspan="2">12 Podocnemidi di grossa taglia (*Podocnemidae*) tartaruga Arrau (*Podocnemis expansa*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td colspan="2">3) 5) 9) 18) 26)</td></tr>
+<tr><td colspan="2">12a Podocnemidi di piccola e media taglia (*Podocnemidae*) (*Erymnochelys madagascariensis, Peltocephalus dumeriliana, Podocnemis* spp. [*esclusa P. expansa*])</td><td colspan="2"></td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td colspan="2">3) 5) 9) 26)</td></tr>
+<tr><td colspan="2">Camaleonidi (*Chamaeleonidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">13 Camaleonti arboricoli (*Bradypodion* spp., *Chamaeleo* spp. *[escluso C. namaquensis], Calumma* spp., *Furcifer* spp., *Kinyongia* spp., *Nadzikambia* spp.)</td><td colspan="2">a)</td><td>1</td><td>5x3</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">secondo la specie 1) 3) 4) 5) 8) 9) 13) 15) 26)</td></tr>
+<tr><td colspan="2">14 Camaleonte terricolo (*Chamaeleo namaquensis*)</td><td colspan="2">a)</td><td>1</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">1) 3) 4) 5) 9) 13) 15) 26)</td></tr>
+<tr><td colspan="2">15 Camaleonti nani terricoli (*Brookesia* spp., *Rhampholeon* spp., *Rieppeleon* spp.)</td><td colspan="2">a)</td><td>1</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) 15)</td></tr>
+<tr><td colspan="2">Iguanidi (*Iguanidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">16 Iguana verde (*Iguana* spp.)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td colspan="2">2) 3) 5) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">17 Iguane terrestri di grossa taglia (adulti &gt; 1 m lunghezza complessiva) (*Conolophus* spp., *Ctenosaura acanthura,* *C. pectinata, C. similis, Cyclura* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 7) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">17a Anolidi (*Anolis* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">Agamidi (*Agamidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">18 Idrosauri (*Hydrosaurus* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>4×2</td><td colspan="2">1</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">19 Fisignati (*Physignatus* spp.)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">1</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">20 Anfiboluri (*Pogona* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26) determinate specie 4) 13)</td></tr>
+<tr><td colspan="2">21 Calotes (*Calotes* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">22 Gonocefalo (*Gonocephalus* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">23 Uromastice (*Uromastyx* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">23a Drago volante (*Draco* spp.)</td><td colspan="2">a)</td><td>2</td><td>20×8</td><td>–</td><td colspan="2">–</td><td colspan="5">20</td><td>8×4</td><td colspan="2"></td><td colspan="2">3) 5) 8) 9) 25) 26)</td></tr>
+<tr><td colspan="2">23b Diavolo spinoso (*Moloch horridus*)</td><td colspan="2">a)</td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2"></td><td colspan="2">3) 5) 9) 25) 26)</td></tr>
+<tr><td colspan="2">Lucertole (*Lacertidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">24 Lucertola degli arbusti, ramarro occidentale e lucertola di Tenerife (*Lacerta* spp., *Gallotia* spp.)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) 26) determinate specie 4) 13)</td></tr>
+<tr><td colspan="2">24a Lucertola muraiola (*Podarcis* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">6</td><td>2×2</td><td colspan="2">–</td><td colspan="2">5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">25 Lucertola vivipara, algiroide (*Zootoca vivipara, Algyroides* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 13) determinate specie 1) 4) 5) 9) 26)</td></tr>
+<tr><td colspan="2">Teiidi (*Teiidae, Tejus*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">26 Dracena della Guyana (*Dracaena* spp., *Crocodilurus* spp.)</td><td colspan="2">a)</td><td>2</td><td>3×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="5">3</td><td>1×1</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 12) 18) 25) 26)</td></tr>
+<tr><td colspan="2">27 Tegu (*Tupinambis* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 7) 9) 12) 26) determinate specie 4)</td></tr>
+<tr><td colspan="2">Scincidi (*Scincidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">28 Tiliqua rugosa e scinco dalla lingua azzurra (*Tiliqua* spp.)</td><td colspan="2"></td><td>2</td><td>7×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 4) 5) 9) 26)</td></tr>
+<tr><td colspan="2">28a Scinchi di piccola e media taglia (*Eumeces* spp., *Mabouya* spp., T*rachylepis* spp.)</td><td colspan="2"></td><td>2</td><td>7×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 7) 9) determinate specie 26)</td></tr>
+<tr><td colspan="2">29 Scinco delle isole Salomone (*Corucia zebrata*)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9)</td></tr>
+<tr><td colspan="2">Gechi (*Gekkota*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">30 Gechi notturni arboricoli (*Diplodactylus* spp. [*determinate specie*], *Hemidactylus* spp., *Oedura* spp., *Tarentola* spp*., Uroplates* spp.)</td><td colspan="2"></td><td>2</td><td>6×2</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) determinate specie 4)</td></tr>
+<tr><td colspan="2">31 Gechi notturni terricoli (*Coleonyx* spp., *Diplodactylus* spp. [d*eterminate specie*], *Eublepharis* spp., *Nephrurus* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) determinate specie 4) 7)</td></tr>
+<tr><td colspan="2">32 Gechi diurni (*Gonatodes* spp., *Lygodactylus* spp., *Phelsuma* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">Cordilidi (*Cordylidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">33 Cordili (*Cordylus* spp., *Hemicordylus* spp., *Pseudocordylus* spp.)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) 26) determinate specie 4) 8) 13)</td></tr>
+<tr><td colspan="2">33a Platisauro (*Platysaurus* spp.)</td><td colspan="2"></td><td>2</td><td>8×2</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×1</td><td colspan="2">–</td><td colspan="2">3) 8) 9) 26) determinate specie 4) 5) 13)</td></tr>
+<tr><td colspan="2">34 Cordilo gigante (*Cordylus giganteus*)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">Elodermi (*Heloderma*)</td><td colspan="2"></td><td></td><td></td><td>–</td><td colspan="2">–</td><td colspan="5"></td><td></td><td colspan="2">–</td><td colspan="2"></td></tr>
+<tr><td colspan="2">35 Eloderma orrido (*Heloderma horridum*)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 4) 5) 7) 9) 12) 26)</td></tr>
+<tr><td colspan="2">35a Mostro di Gila (*Heloderma suspectum*)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 7) 9) 12) 26)</td></tr>
+<tr><td colspan="2">Varani (*Varanidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">36 Varani terricoli di grossa taglia provenienti dalle zone aride[^annexu1-lvlu2-1]</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) 12) 26) determinate specie 4) 6) 7) 8)</td></tr>
+<tr><td colspan="2">37 Varani terricoli di grossa taglia provenienti da zone semiaride e umide (*Varanus bengalensis, V. komodoensis, V. nebulosus*)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td colspan="2">2) 3) 5) 6) determinate specie 7) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">38 Varani arboricoli di grossa taglia provenienti da zone umide[^annexu1-lvlu2-2]</td><td colspan="2">a)</td><td>2</td><td>5×2</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">2) 3) 5) 6) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">39 Varani semiacquatici di grossa taglia[^annexu1-lvlu2-3]</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="5">2</td><td>2×2</td><td colspan="2">1×1</td><td colspan="2">2) 3) 5) 6) 8) 9) 12) 18) 26)</td></tr>
+<tr><td colspan="2">40 Varano acquatico (*Varanus mertensi*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>3×2</td><td colspan="2">0,5</td><td colspan="5">2</td><td>1×1</td><td colspan="2">1×1</td><td colspan="2">2) 3) 5) 8) 9) 12) 18) 26)</td></tr>
+<tr><td colspan="2">41 Varani erbivori di grossa taglia (*Varanus mabitang, V. olivaceus*)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td colspan="2">2) 3) 5) 6) 8) 9) 12) 25) 26)</td></tr>
+<tr><td colspan="3">Pitonidi (*Pythonidae*) e boidi (*Boidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">42 Boidi di grossa taglia[^annexu1-lvlu2-4]</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,75</td><td>0,2×0,2</td><td colspan="2">–</td><td colspan="2">2) 3) 5) 10) 12) determinate specie 4)</td></tr>
+<tr><td colspan="2">43 Anaconda (*Eunectes* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>1×0,5</td><td colspan="2">0,2</td><td colspan="5">0,75</td><td>0,2×0,2</td><td colspan="2">0,1×0,1</td><td colspan="2">2) 3) 5) 12) 17) 18)</td></tr>
+<tr><td colspan="2">43a Pitoni e boa di piccola e media taglia (p. es. *Boa constrictor, Epicrates cenchria, Morelia spilota, Python curtus, P. regius*)</td><td colspan="2"></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,75</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) determinate specie 2) 8)</td></tr>
+<tr><td colspan="2">43b Pitone verde e Corallus (*Morelia viridis, Corallus* spp.)</td><td colspan="2"></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,75</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 8)</td></tr>
+<tr><td colspan="2">Colubridi (*Colubridae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">44 Colubridi natricini dell’Asia (*Rhabdophis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>0,5×0,5</td><td colspan="2">0,2</td><td colspan="5">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td colspan="2">3) 5) 8) 11) 12) determinate specie 4)</td></tr>
+<tr><td colspan="2">45 Balanophis (*Balanophis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 11) 12)</td></tr>
+<tr><td colspan="2">46 Colubridi pericolosi (*Boiga dendrophila, B. blandingii, Dispholidus typus, Thelotornis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) 11) 12) determinate specie 8) 23) 26)</td></tr>
+<tr><td colspan="2">Elapidi (*Elapidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">47 Elapidi terricoli (p. es. *Acanthophis* spp., *Aspidelaps* spp., *Naja* spp., *Pseudechis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 11) 12) 23)</td></tr>
+<tr><td colspan="2">48 Elapidi arboricoli (*Dendroaspis* spp. [*escluso D. polylepis*], *Pseudohaje goldii*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 11) 12) 14) 23)</td></tr>
+<tr><td colspan="2">49 Elapidi di grossa taglia (*Dendroaspis polylepis, Oxyuranus* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 11) 12) 14) 23)</td></tr>
+<tr><td colspan="2">50 Cobra reale (*Ophiophagus hannah*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 9) 11) 12) 14) 23) 25)</td></tr>
+<tr><td colspan="2">51 Cobra d’acqua (*Boulengerina annulata*)</td><td colspan="2">a)</td><td>2</td><td>0,5×0,3</td><td>1×0,5</td><td colspan="2">0,4</td><td colspan="5">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td colspan="2">3) 5) 9) 11) 12) 17) 23)</td></tr>
+<tr><td colspan="2">52 Serpente di mare (*Laticauda* spp.)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>2×1,5</td><td colspan="2">0,7</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td colspan="2">5) 12) 18) 20) 23) determinate specie 21)</td></tr>
+<tr><td colspan="2">53 Serpente di mare dal ventre giallo (*Pelamis* spp.)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>2×1</td><td colspan="2">0,5</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td colspan="2">5) 12) 18) 19) 20) 22) 23)</td></tr>
+<tr><td colspan="2">Viperidi (*Viperidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">54 Vipere terrestri (*Atractaspididae* spp., *Homoroselaps* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">5) 7) 9) 12) 23)</td></tr>
+<tr><td colspan="2">55 Vipere e crotali terricoli, escluse specie sidewinder</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 11) 12) 23) determinate specie 4) 13) 26)</td></tr>
+<tr><td colspan="2">56 Sidewinder e crotali[^annexu1-lvlu2-5]</td><td colspan="2">a)</td><td>2</td><td>1,5×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 11) 12) 23) 24) determinate specie 4)</td></tr>
+<tr><td colspan="2">57 Vipere e crotali arboricoli</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td colspan="2">3) 5) 8) 12) 23) determinate specie 13)</td></tr>
+<tr><td colspan="2">58 Mocassino acquatico (*Agkistrodon piscivorus*)</td><td colspan="2">a)</td><td>2</td><td>0,5×0,5</td><td>0,5×0,5</td><td colspan="2">0,1</td><td colspan="5">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td colspan="2">3) 4) 5) 11) 12) 23)</td></tr>
+<tr><td colspan="2">Coccodrilli (*Crocodylia*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">59 Coccodrilli[^annexu1-lvlu2-6]</td><td colspan="2">a)</td><td>1</td><td>4×2</td><td>4×2</td><td colspan="2">0,5</td><td colspan="5">0,5</td><td>2×2</td><td colspan="2">2×2</td><td colspan="2">2) 3) 5) 6) 12) 18) 26) tutti gli animali giovani e gli animali adulti di determinate specie 11)</td></tr>
+<tr><td colspan="2">Rinocefali (*Rhynchocephalia*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">60 Tuatara (*Sphenodon* spp.)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>2×1</td><td colspan="2">0,4</td><td colspan="5">0,5</td><td>4×3</td><td colspan="2">–</td><td colspan="2">3) 5) 7) 9) 16)</td></tr>
+</table>
+
+Osservazioni sulla tabella 5 – Rettili
+
+<table>
+<tr><td>a) Per la detenzione privata è necessaria un’autorizzazione secondo l’articolo 89.</td></tr>
+<tr><td>b) I dati stabiliscono sia il contenuto della superficie sia il rapporto fra lunghezza e larghezza della superficie minima.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td>1) Possibilità supplementare di uscire all’aperto finché le condizioni meteorologiche lo consentono.</td></tr>
+<tr><td>2) Determinate specie devono poter fare il bagno in un bacino o in una piscina riscaldabili di dimensioni sufficienti; ciò vale anche per i parchi utilizzati per separare gli animali.</td></tr>
+<tr><td>3) La temperatura deve essere adeguata alle esigenze degli animali. Una parte più piccola del parco deve avere all’occorrenza una temperatura più alta e, a seconda della specie, una fonte termica per ogni capo affinché gli animali possano esporsi individualmente all’irraggiamento, salvo in caso siano tenuti all’aperto.</td></tr>
+<tr><td>4) Le condizioni climatiche nel corso dell’anno devono essere regolate in modo da permettere il letargo dovuto all’inverno o al freddo oppure l’estivazione a tutte le fasce d’età.</td></tr>
+<tr><td>5) La struttura sociale deve essere rispettata. In determinate circostanze gli animali devono essere tenuti da soli.</td></tr>
+<tr><td>6) Per tutte le testuggini giganti, le testuggini dagli speroni, le tartarughe dal guscio molle, i varani e i coccodrilli: se ospita più animali, il parco deve poter essere suddiviso oppure devono esserci altri parchi idonei a separare gli animali.</td></tr>
+<tr><td>7) Il suolo deve essere provvisto di un substrato cedevole in modo che gli animali possano scavare e, a seconda della specie, nascondersi.</td></tr>
+<tr><td>8) In tutti i parchi devono esserci, a seconda della specie degli animali, possibilità per arrampicarsi in orizzontale o in verticale, p. es. alberi, rami della stessa grandezza del corpo degli animali oppure pareti di roccia.</td></tr>
+<tr><td>9) Devono esserci possibilità di nascondersi.</td></tr>
+<tr><td>10) Devono esserci superfici di riposo sopraelevate.</td></tr>
+<tr><td>11) Devono esserci possibilità di nascondersi quali cavità negli alberi, buche nel terreno, cassoni, corteccia di sughero o simili che consentano tuttavia di osservare gli animali.</td></tr>
+<tr><td>12) Costruzione solida del parco (terrario).</td></tr>
+<tr><td>13) Durante la notte deve esserci un sensibile raffreddamento.</td></tr>
+<tr><td>14) Devono esserci cassoni con apertura utilizzabili dall’esterno oppure altre modalità di separazione, anche in caso di detenzione individuale.</td></tr>
+<tr><td>15) Il parco deve essere ben aerato; minimo 2 lati devono avere una recinzione in rete.</td></tr>
+<tr><td>16) Deve esserci un impianto di climatizzazione; ciò vale anche per i bacini.</td></tr>
+<tr><td>17) Si può limitare la profondità del bacino a 0,6 m se dal calcolo risulterebbe un valore superiore.</td></tr>
+<tr><td>18) Impianti di filtraggio di dimensioni sufficienti.</td></tr>
+<tr><td>19) L’acquario deve avere gli angoli smussati. L’ideale sono i bacini circolari o con una forma ovale–cilindrica.</td></tr>
+<tr><td>20) L’acquario deve disporre di una copertura volta a impedire la fuga.</td></tr>
+<tr><td>21) A seconda della specie, detenzione in acqua dolce, salmastra o di mare, con un piccolo terreno.</td></tr>
+<tr><td>22) Detenzione in un acquario con acqua di mare, senza terreno.</td></tr>
+<tr><td>23) Se esistono sieri antiveleno per le specie detenute, occorre averne delle scorte oppure fare in modo che siano facilmente reperibili aderendo a un’apposita associazione.</td></tr>
+<tr><td>24) Per determinate specie occorre predisporre punti in cui sia disponibile sabbia sfusa, fine e depolverizzata nella quale gli animali possono nascondersi.</td></tr>
+<tr><td>25) Deve essere dimostrata la capacità di fornire una quantità sufficiente di cibo adeguato alla specie.</td></tr>
+<tr><td>26) Per determinate specie attive di giorno occorre utilizzare lampade chiare (p. es. HQL, HQI o lampade comparabili) per illuminare i luoghi di riscaldamento, tranne nel caso in cui gli animali siano tenuti all’aperto o in parchi con irraggiamento solare diretto. Non è consentito utilizzare esclusivamente il riscaldamento a terra o lampade a raggi infrarossi.</td></tr>
+</table>
+
+[^annexu1-lvlu2-1]: *Varanus albigularis, V. exanthematicus, V. giganteus, V. gouldii, V. griseus, V. nesterovi, V. panoptes, V. rosenbergi, V. spenceri, V. varius, V. yemenensis*.
+[^annexu1-lvlu2-2]: *Varanus caerulivirens, V. cerambonensis, V. doreanus, V. dumerilii, V. finschi, V. indicus, V. jobiensis, V. juxtindicus, V. macraei, V. melinus, V. obor, V. rudicollis, V. salvadorii, V. spinulosus, V. yuwonoi.*
+[^annexu1-lvlu2-3]: *Varanus bangonorum*, *V. cumingi*, *V. dalubhasa*, *V. marmoratus*, *V. niloticus*, *V. nuchalis*, *V. ornatus*, *V. palawanensis*, *V. rasmusseni*, *V.* *salvator*, *V. togianus*.
+[^annexu1-lvlu2-4]: *Epicrates angulifer, Liasis olivaceus, L. oenpelliensis, L. papuanus, Morelia amethistina, M. boeleni, Python molurus, P. natalensis, P. reticulatus, P**.* *sebae.*
+[^annexu1-lvlu2-5]: *Bitis peringueyi, B. schneideri, Cerastes* spp.*, Crotalus cerastes, Eristicophis macmahoni, Pseudocerastes persicus.*
+[^annexu1-lvlu2-6]: *Alligator* spp., *Caiman* spp., *Crocodylus* spp., *Gavialis* spp., *Mecistops* spp., *Melanosuchus* spp., *Osteolaemus* spp., *Paleosuchus* spp., *Tomistoma* spp.
+
+Tabella 6
+
+## Anfibi
+
+Osservazioni preliminari
+
+- A. In considerazione delle differenze, talvolta enormi, fra animali adulti e animali giovani, la dimensione del parco deve basarsi sulla lunghezza del corpo dell’esemplare detenuto. La dimensione del parco si ottiene sommando le superfici stabilite per ogni singolo animale ed è indicata nella tabella all’unità «lunghezza del corpo» (LC). Per lunghezza del corpo si intende, nel caso degli anuri, la lunghezza complessiva, nel caso degli urodeli, la lunghezza della testa e del tronco.
+- B. È necessario tener conto delle esigenze particolari di ogni specie animale per quel che riguarda la temperatura (ectotermia) e l’umidità dell’aria.
+- C. L’alimentazione per le larve degli anfibi deve essere costituita, a seconda della specie, da componenti vegetali o animali.
+- D. L’alimentazione degli anfibi dopo la metamorfosi (giovani e adulti) deve essere costituita soprattutto da animali interi. Devono essere di buona qualità ed eventualmente arricchiti di vitamine e sali minerali. Devono inoltre poter essere ingeriti per intero.
+
+## Anfibi
+
+<table>
+<tr><th>Parchi per anfibi</th><th colspan="2"></th><th colspan="6">Per gruppi fino a n animali<sup>a</sup>)</th><th></th><th></th><th></th><th></th><th colspan="2">Per ogni animale in più</th><th></th><th>Requisiti particolari</th></tr>
+<tr><th></th><th colspan="2"></th><th>Numero</th><th>Terreno</th><th colspan="2">Bacino</th><th></th><th colspan="5">Parco</th><th>Terreno</th><th colspan="2">Bacino</th><th></th></tr>
+<tr><th>Specie animali</th><th colspan="2"></th><th>(n)</th><th>Superficie<sup>d</sup>) LC</th><th>Superficie<sup>d</sup>) LC</th><th colspan="2">Profondità LC</th><th colspan="5">Altezza<sup>b</sup>) LC</th><th>Superficie LC</th><th colspan="2">Superficie LC</th><th></th></tr>
+<tr><td colspan="2">Ilidi (*Hylidae*), iperolidi (*Hyperoliidae*), rane cornute (*Ceratophrydae*) e racoforti (*Rhacophoridae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">1 Rane provenienti da zone a clima temperato (*Hyla arborea, H. cinerea, H. meridionalis, Rhacophorus dennysi*)</td><td></td><td>2</td><td>10×5</td><td>–</td><td colspan="2">–</td><td colspan="5">10</td><td>2×2</td><td colspan="2">–</td><td>1) 3) determinate specie 2) 4) 6) 7)</td></tr>
+<tr><td colspan="2">2 Rane non terricole provenienti da zone climatiche tropicali e subtropicali (*Agalychnis* spp., *Hyperolius* spp., *Dendropsophus* spp., *Trachycephalus* spp., *Polypedates* spp.)</td><td></td><td>2</td><td>10×5</td><td>–</td><td colspan="2">–</td><td colspan="5">10</td><td>2×2</td><td colspan="2">–</td><td>1) 2) 3) determinate specie 5) 7) 9)</td></tr>
+<tr><td colspan="2">2a Rane terricole provenienti da zone climatiche tropicali e subtropicali (p. es. *Ceratophrys* spp., *Hypsiboas* spp.)</td><td></td><td>2</td><td>10×5</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>1) 3) 8) determinate specie 7) 9)</td></tr>
+<tr><td colspan="2">Dendrobatidi (*Dendrobatidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">3 Dendrobatidi terricoli</td><td></td><td>2</td><td>25×15</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>15×2</td><td colspan="2">–</td><td>1) 3) 7) 9)</td></tr>
+<tr><td colspan="2">4 Dendrobatidi arboricoli</td><td></td><td>2</td><td>20×10</td><td>–</td><td colspan="2">–</td><td colspan="5">25</td><td>10×2</td><td colspan="2">–</td><td>1) 2) 3) 4) 9) determinate specie 5) 7)</td></tr>
+<tr><td colspan="2">Pipidi (*Pipidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">5 Xenopus e rospo del Suriname delle acque tropicali (*Pipa* spp., *Xenopus* spp.)</td><td>[tab]</td><td>[tab] 2</td><td>[tab] –</td><td>[tab] 6×4</td><td colspan="2">[tab] 4</td><td colspan="5">[tab] –</td><td>[tab] –</td><td colspan="2">[tab] 2×2</td><td>[tab] 1) 10)</td></tr>
+<tr><td colspan="2">5a Rana nana africana (*Hymenochirus* spp.)</td><td></td><td>2</td><td>–</td><td>12×6</td><td colspan="2">8</td><td colspan="5">–</td><td>–</td><td colspan="2">6×3</td><td>1) 10)</td></tr>
+<tr><td colspan="2">Ranidi (*Ranidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">6 Rane comuni (*Lithobates* spp., *Pelophylax* spp.)</td><td></td><td>2</td><td>6×4</td><td>10×5</td><td colspan="2">2</td><td colspan="5">5</td><td>2×2</td><td colspan="2">2×1</td><td>1) 3) determinate specie 6)</td></tr>
+<tr><td colspan="2">Rospi (*Bufonidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">7 Rospi provenienti da zone a clima temperato (p. es*. Bufo bufo, B. viridis, B. calamita*)</td><td>[tab]</td><td>[tab] 2</td><td>[tab] 6×4</td><td>[tab] –</td><td colspan="2">[tab] –</td><td colspan="5">[tab] 4</td><td>[tab] 2×2</td><td colspan="2">[tab] –</td><td>1) 3) 6) determinate specie 2) 7)</td></tr>
+<tr><td colspan="2">8 Rospi provenienti da zone climatiche tropicali e subtropicali (p. es. *Bufo alvarius, B. guttatus, B. mauretanicus, B. marinus, B. pardalis*)</td><td>[tab]</td><td>[tab] 2</td><td>[tab] 6×4</td><td>[tab] –</td><td colspan="2">[tab] –</td><td colspan="5">[tab] 4</td><td>[tab] 2×2</td><td colspan="2">[tab] –</td><td>1) 3) 7) determinate specie 8)</td></tr>
+<tr><td colspan="2">9 Rospo arboricolo tropicale (*Pedostibes* spp.)</td><td></td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td>1) 2) 3) 4) 7)</td></tr>
+<tr><td colspan="2">Salamandridi (*Salamandridae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">10 Salamandra terrestre (*Salamandra* spp.)</td><td>[tab]</td><td>[tab] 2</td><td>[tab] 10×4</td><td>[tab] –</td><td colspan="2">[tab] –</td><td colspan="5">[tab] 4</td><td>[tab] 2×2</td><td colspan="2">[tab] –</td><td>1) 3) determinate specie 6) 7) 9) 11)</td></tr>
+<tr><td colspan="2">11 Tritoni (*Pachytriton* spp., *Taricha* spp., *Triturus* spp.)</td><td></td><td>2</td><td>8×4</td><td>10×4</td><td colspan="2">4</td><td colspan="5">4</td><td>2×2</td><td colspan="2">3×3</td><td>1) 3) 11) determinate specie 7) 9)</td></tr>
+<tr><td colspan="2">Salamandre giganti e criptobranchidi (*Cryptobranchidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">12 Salamandre giganti e salamandre alligatore (*Andrias* spp., *Cryptobranchus alleganiensis*)</td><td>c)</td><td>1</td><td>–</td><td>3×2</td><td colspan="2">0,5</td><td colspan="5">–</td><td>–</td><td colspan="2">3×2</td><td>3) 10) 12)</td></tr>
+<tr><td colspan="2">Ambistomatidi (*Ambystomatidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">13 Axolotl e altri ambistomatidi neotenici acquatici (*Ambystoma* spp. [*forme neoteniche*])</td><td>[tab]</td><td>[tab] 2</td><td>[tab] –</td><td>[tab] 4×2</td><td colspan="2">[tab] 2</td><td colspan="5">[tab] –</td><td>[tab] –</td><td colspan="2">[tab] 1×1</td><td>[tab] 1) 3) 10) 12)</td></tr>
+<tr><td colspan="2">13a Salamandre maculate e salamandre tigre (*Ambystoma* spp. [*escluse le forme neoteniche*])</td><td></td><td>2</td><td>10×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>1) 3) determinate specie 6) 7) 9) 11)</td></tr>
+<tr><td colspan="2">Sirenidi (*Sirenidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">14 Sirenidi (*Siren* spp., *Pseudobranchus* spp.)</td><td></td><td>2</td><td>–</td><td>4×2</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td>1) 3) 10) 12)</td></tr>
+</table>
+
+Osservazioni sulla tabella 6 – Anfibi
+
+<table>
+<tr><td>a) Gli animali possono essere tenuti temporaneamente in parchi più piccoli in caso di quarantena, per il trattamento di una malattia o di un infortunio, per l’adattamento, per la riproduzione e l’allevamento, nonché per il letargo dovuto all’inverno o al freddo. b) L’indicazione riguarda l’altezza media dei parchi; in certi punti essi possono essere più alti o più bassi. c) Per la detenzione privata è necessaria un’autorizzazione secondo l’articolo 89. d) I dati stabiliscono sia il contenuto della superficie sia il rapporto fra lunghezza e larghezza della superficie minima.</td></tr>
+</table>
+
+Requisiti particolari
+
+<table>
+<tr><td>1) È possibile tenere insieme due animali; la detenzione a coppie non è tuttavia necessaria. Nel caso di specie solitarie è possibile tenere due animali compatibili in un parco di dimensioni minime. 2) Il parco deve offrire agli animali diverse possibilità di arrampicarsi, quali ad esempio piante, rami o pezzi di corteccia. 3) Il parco deve offrire agli animali la possibilità di nascondersi ad esempio attraverso buche, fessure o fogliame. 4) Il parco deve avere piante verdi sulle quali gli animali possono trattenersi. 5) Il parco deve avere bromelie o altre piante verdi con un’analoga struttura imbutiforme. 6) Gli animali devono poter trascorrere il letargo dovuto all’inverno o al freddo in un substrato cedevole dove sia possibile scavare. 7) Devono esserci una ciotola con acqua, un vaso riempito di acqua, piante riempite di acqua (p.es. bromelie) o un corso d’acqua. 8) Il suolo del parco deve essere costituito da un substrato cedevole dove sia possibile scavare, affinché gli animali possano andare in estivazione. 9) Elevata umidità dell’aria. 10) Il bacino per gli animali che vivono prevalentemente in acqua deve avere un’infrastruttura sufficiente e offrire loro possibilità di nascondersi. 11) Clima soggetto a forti variazioni stagionali. Forte calo della temperatura durante la notte. [tab] 12) Filtro o afflusso d’acqua fresca.</td></tr>
+</table>
+
+Tabella 7
+
+## Requisiti minimi per la detenzione e il trasporto di salmonidi e ciprinidi commestibili e da ripopolamento
+
+<table>
+<tr><th colspan="2"></th><th></th><th colspan="3">Detenzione</th><th></th><th colspan="2">Trasporto</th></tr>
+<tr><th colspan="2"></th><th></th><th>Salmonidi<sup>a</sup>)</th><th colspan="3">Ciprinidi<sup>a</sup>)</th><th>Salmonidi<sup>a</sup>)</th><th>Ciprinidi<sup>a</sup>)</th></tr>
+<tr><td>1 Effettivo<sup>b</sup>)</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>2 Effettivo massimo per metro cubo d’acqua</td><td colspan="2">kg</td><td>80<sup>c)</sup></td><td colspan="3">100</td><td>250</td><td>500</td></tr>
+<tr><td>3 Qualità dell’acqua</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>4 Saturazione di ossigeno</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>5 – saturazione massima</td><td colspan="2">per cento</td><td>200</td><td colspan="3">200</td><td>200</td><td>200</td></tr>
+<tr><td>6 – saturazione minima</td><td colspan="2">per cento</td><td>60</td><td colspan="3">60</td><td>60</td><td>60</td></tr>
+<tr><td>7 Ossigeno libero minimo nelle acque che ospitano i pesci</td><td colspan="2">mg/l</td><td>5,0</td><td colspan="3">3,5</td><td>5,0</td><td>3,5</td></tr>
+<tr><td>8 Tenore massimo di ammoniaca</td><td colspan="2">mg/l</td><td>0,01</td><td colspan="3">0,02</td><td>0,02</td><td>0,04</td></tr>
+<tr><td>9 Tenore massimo di nitrito</td><td colspan="2">mg/l</td><td>1,5</td><td colspan="3">1,5</td><td>1,5</td><td>1,5</td></tr>
+<tr><td>10 pH</td><td colspan="2"></td><td>5,5-9,0</td><td colspan="3">5,5-9,0</td><td>5,5-9,0</td><td>5,5-9,0</td></tr>
+<tr><td>11 Temperatura massima</td><td colspan="2">°C</td><td>22</td><td colspan="3">30</td><td>16</td><td>24</td></tr>
+<tr><td>12 Variazione massima di temperatura in caso di trasferimento</td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 – in acqua più fredda</td><td colspan="2">°C</td><td>3</td><td>3</td><td colspan="2"></td><td>3</td><td>3</td></tr>
+<tr><td>14 – in acqua più calda</td><td colspan="2">°C</td><td>5</td><td>5</td><td colspan="2"></td><td>5</td><td>5</td></tr>
+<tr><td>15 Privazione massima di cibo<sup>d</sup>)</td><td colspan="2">giorno–gradi</td><td>100</td><td>280</td><td colspan="2"></td><td>100</td><td>280</td></tr>
+</table>
+
+Osservazioni sulla tabella 7
+
+<table>
+<tr><td>a) Oltre ai requisiti minimi validi per i salmonidi e i ciprinidi occorre tenere conto delle esigenze particolari di ogni specie. b) L’effettivo deve essere determinato in modo da consentire l’osservanza a lungo termine di tutti i parametri relativi alla qualità dell’acqua. c) A condizioni motivate l’effettivo massimo di salmonidi per ciascun bacino può essere aumentato per massimo 14 giorni consecutivi fino a 100 kg/m<sup>3</sup>. d) A condizioni motivate la durata massima della privazione di cibo per i salmonidi può essere prolungata a massimo 200 giorno–gradi.</td></tr>
+</table>
+
+Tabella 8
+
+## Requisiti minimi per la detenzione di pesci a scopi ornamentali
+
+Osservazioni preliminari
+
+- A. Per calcolare i volumi minimi di acquari e stagni, per ogni classe di dimensione si deve moltiplicare la lunghezza attuale del corpo con il numero di litri corrispondente e con il numero di pesci. Il volume minimo in litri risulta dalla somma dei prodotti delle singole classi di dimensione. Per lunghezza del corpo (LC) si intende la distanza tra l’estremità anteriore della testa e l’attaccatura della pinna caudale.
+- B. L’interno di un acquario non deve essere visibile direttamente da ogni lato. L’acquario deve essere allestito in modo adeguato alle esigenze dei pesci. Per i pesci devono esserci per lo meno una protezione visiva e adeguate possibilità di ritirarsi in alcune parti.
+- C. Per gli acquari da interno deve essere rispettato il ritmo giorno/notte.
+- D. La qualità dell’acqua deve essere adeguata alle esigenze dei pesci.
+- E. Ai bacini per la detenzione di carpe koi nei commerci zoologici si applicano le prescrizioni per i ciprinidi della tabella 7 invece di quelle della tabella 8.
+
+## Acquari e stagni
+
+<table>
+<tr><td></td><td>Acquari <sup>a),b)</sup></td><td></td><td>Stagni <sup>a),b)</sup></td><td></td></tr>
+<tr><td>Classe di dimensione</td><td>LC (in cm)</td><td>Numero di litri per cm di pesce</td><td>LC (in cm)</td><td>Numero di litri per cm di pesce</td></tr>
+<tr><td>1</td><td>fino a 5</td><td>0,5</td><td>fino a 10</td><td>2</td></tr>
+<tr><td>2</td><td>fino a 10</td><td>0,75</td><td>fino a 20</td><td>2,5</td></tr>
+<tr><td>3</td><td>fino a 15</td><td>1</td><td>fino a 30</td><td>5</td></tr>
+<tr><td>4</td><td>fino a 20</td><td>1,25</td><td>fino a 40</td><td>7</td></tr>
+<tr><td>5</td><td>fino a 30</td><td>1,75</td><td>fino a 50</td><td>9</td></tr>
+<tr><td>6</td><td>fino a 40</td><td>2,25</td><td>fino a 60</td><td>11</td></tr>
+<tr><td>7</td><td>oltre i 40</td><td>3</td><td>fino a 70</td><td>13</td></tr>
+<tr><td>8</td><td>–</td><td>–</td><td>fino a 80</td><td>16</td></tr>
+<tr><td>9</td><td>–</td><td>–</td><td>fino a 90</td><td>19</td></tr>
+<tr><td>10</td><td>–</td><td>–</td><td>fino a 100</td><td>22</td></tr>
+<tr><td>11</td><td>–</td><td>–</td><td>fino a 120</td><td>25</td></tr>
+<tr><td>12</td><td>–</td><td>–</td><td>fino a 150</td><td>30</td></tr>
+<tr><td>13</td><td>–</td><td>–</td><td>fino a 200</td><td>40</td></tr>
+</table>
+
+Osservazioni sulla tabella 8 – Acquari e stagni
+
+<table>
+<tr><td>a) Oltre ai volumi minimi calcolati occorre tenere conto delle esigenze particolari di ciascuna specie di pesci. b) Oltre ai volumi minimi calcolati occorre tenere conto delle dimensioni minime del bacino seguenti: Lunghezza del bacino: min. 3× la lunghezza del corpo del pesce più grande Larghezza del bacino: min. 2× la lunghezza del corpo del pesce più grande Profondità dell’acqua: min. 1× la lunghezza del corpo del pesce più grande</td></tr>
+</table>
+
+Allegato 3[^t-3]
+
+(art. 10)
+
+## Requisiti minimi per la detenzione di animali da laboratorio
+
+[^t-3]: Aggiornato dal n. II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+
+Osservazioni preliminari
+
+- – Le osservazioni preliminari di cui all’allegato 2 si applicano anche all’allegato 3.
+- – Gli impianti per esperimenti con pesci sono valutati nel singolo caso nell’ambito dell’autorizzazione di cui all’articolo 122. È consentito derogare alle dimensioni minime di cui all’allegato 2 qualora sia necessario per il raggiungimento dell’obiettivo sperimentale e sia stato autorizzato. I requisiti per la detenzione dei pesci sono definiti individualmente per ciascun impianto.
+
+Tabella 1
+
+## Roditori non utilizzati per l’allevamento: topi, ratti, criceti, gerbilli, porcellini d’India
+
+I valori valgono per parchi o locali ventilati. Negli altri casi valgono i valori di cui all’allegato 2.
+
+<table>
+<tr><th colspan="2">Specie, peso</th><th>Superficie minima per ogni unità di detenzione cm<sup>2</sup></th><th>Superficie per animale cm<sup>2</sup></th><th>Altezza cm</th><th>Osservazioni</th></tr>
+<tr><td colspan="2">Topo (*Mus musculus*)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt;20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">20–30 g</td><td>330</td><td>80</td><td>12</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">&gt;30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">Ratto (*Rattus norvegicus*)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt;200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">200–300 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">300–400 g</td><td>800</td><td>350</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">400–600 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">&gt;600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">Criceto (*Mesocricetus sp.; Cricetulus griseus*)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">&gt; 60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td colspan="2">Gerbillo della Mongolia (*Meriones sp.*)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 40 g</td><td>1500</td><td>350</td><td>20</td><td>1) 3) 5) 7)</td></tr>
+<tr><td colspan="2">&gt; 40 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 7)</td></tr>
+<tr><td>Porcellino d’India (*Cavia porcellus*)</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">&lt; 300 g</td><td>3800</td><td>350</td><td>30</td><td>1) 2) 3) 4)</td></tr>
+<tr><td colspan="2">300–700 g</td><td>3800</td><td>700</td><td>30</td><td>1) 2) 3) 4)</td></tr>
+<tr><td colspan="2">&gt; 700 g</td><td>3800</td><td>900</td><td>30</td><td>1) 2) 3) 4)</td></tr>
+</table>
+
+Osservazioni sulla tabella 1 – (Piccoli roditori non utilizzati per l’allevamento)
+
+<table>
+<tr><td>1) Fondo non perforato con lettiera adeguata come p. es. trucioli depolverizzati.</td></tr>
+<tr><td>2) Foraggio grezzo come fieno o paglia.</td></tr>
+<tr><td>3) Oggetti da rosicchiare come cubetti di foraggio compresso o pezzi di legno tenero.</td></tr>
+<tr><td>4) Nascondiglio con almeno due accessi o con una parete longitudinale aperta che consenta a tutti gli animali di ritirarsi nello stesso momento.</td></tr>
+<tr><td>5) Materiale adeguato per la costruzione del nido, p. es. materiali di cellulosa.</td></tr>
+<tr><td>6) Possibilità di arrampicarsi, p.es. coperchio con griglia, supporto verticale.</td></tr>
+<tr><td>7) Lettiera adeguata per scavare una cavità o un tunnel non trasparente di almeno 20 cm di lunghezza che termina con una cavità in cui gli animali possono dormire.</td></tr>
+</table>
+
+Tabella 2
+
+## Roditori utilizzati per l’allevamento: topi, ratti, criceti, gerbilli, porcellini d’India
+
+I valori valgono per parchi o locali ventilati. Negli altri casi valgono i valori di cui all’allegato 2.
+
+<table>
+<tr><th colspan="2">Specie, peso</th><th>Superficie minima per ogni unità di detenzione cm<sup>2</sup></th><th>Altezza cm</th><th>Osservazioni</th></tr>
+<tr><td colspan="2">Topo *(Mus musculus)*</td><td>500</td><td>12</td><td>1) 3) 5) 6) 8) 9)</td></tr>
+<tr><td>Ratto (*Rattus norvegicus*)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">300–400 g</td><td>800</td><td>18</td><td>1) 3) 5) 6) 10)</td></tr>
+<tr><td colspan="2">&gt;400 g</td><td>1500</td><td>20</td><td>1) 3) 5) 6) 10)</td></tr>
+<tr><td colspan="2">Criceto *(Mesocricetus* sp.; *Cricetulus griseus)*</td><td>800</td><td>18</td><td>1) 3) 5) 6) 11)</td></tr>
+<tr><td colspan="2">Gerbillo della Mongolia (*Meriones* sp.)</td><td>1500</td><td>20</td><td>1) 3) 5) 7) 8)</td></tr>
+<tr><td colspan="2">Porcellino d’India (*Cavia porcellus*)</td><td>3800</td><td>30</td><td>1) 2) 3) 4) 8) 12)</td></tr>
+</table>
+
+Osservazioni sulla tabella 2 – (Roditori utilizzati per l’allevamento)
+
+<table>
+<tr><td>1) Fondo non perforato con lettiera adeguata come p. es. trucioli depolverizzati.</td></tr>
+<tr><td>2) Foraggio grezzo come fieno o paglia.</td></tr>
+<tr><td>3) Oggetti da rosicchiare come cubetti di foraggio compresso o pezzi di legno tenero.</td></tr>
+<tr><td>4) Nascondiglio con almeno due accessi o con una parete longitudinale aperta che consenta a tutti gli animali di ritirarsi nello stesso momento.</td></tr>
+<tr><td>5) Materiale adeguato per la costruzione del nido, p. es. materiali di cellulosa.</td></tr>
+<tr><td>6) Possibilità di arrampicarsi, p.es. coperchio con griglia, supporto verticale.</td></tr>
+<tr><td>7) Lettiera adeguata per scavare una cavità o un tunnel non trasparente di almeno 20 cm di lunghezza che termina con una cavità in cui gli animali possono dormire.</td></tr>
+<tr><td>8) Superficie per una coppia monogama o per un maschio con due femmine, compresi i piccoli fino allo svezzamento.</td></tr>
+<tr><td>9) Se i piccoli sono tenuti con la madre oltre l’età normale di svezzamento, la superficie minima è di 800 cm<sup>2</sup>.</td></tr>
+<tr><td>10) Superficie per la madre e i piccoli fino allo svezzamento. Per ogni animale adulto in più: 400 cm<sup>2</sup>.</td></tr>
+<tr><td>11) Superficie per la madre o la coppia monogama, compresi i piccoli fino allo svezzamento.</td></tr>
+<tr><td>12) Per ogni altro animale adulto di un peso inferiore a 700 g, 1000 cm<sup>2</sup> e per ogni ulteriore adulto di oltre 700 g, 1500 cm<sup>2</sup>. Se sono detenuti più di 20 animali, la superficie per ogni madre può essere ridotta a 900 cm<sup>2</sup>.</td></tr>
+</table>
+
+Tabella 3
+
+## Primati (non utilizzati per l’allevamento)
+
+<table>
+<tr><th>Specie</th><th colspan="2">Gruppi fino a n animali</th><th colspan="2"></th><th></th><th colspan="2">Per ogni animale in più</th><th></th><th>Osservazioni</th></tr>
+<tr><th></th><th>Numero (n)</th><th colspan="2">Superficie m<sup>2</sup></th><th colspan="2">Volume m<sup>3</sup></th><th>Superficie m<sup>2</sup></th><th colspan="2">Volume m<sup>3</sup></th><th></th></tr>
+<tr><td>Uistitì</td><td>5</td><td colspan="2">1,5</td><td colspan="2">3</td><td>0,3</td><td colspan="2">0,6</td><td>1) 2) 3) 4) 5)</td></tr>
+<tr><td>Callimiconidae, tamarindo di goeldi</td><td>5</td><td colspan="2">3</td><td colspan="2">6</td><td>0,5</td><td colspan="2">1</td><td>1) 2) 3) 4) 5)</td></tr>
+<tr><td>Scimmia notturna</td><td>5</td><td colspan="2">6</td><td colspan="2">12</td><td>1</td><td colspan="2">2</td><td>1) 2) 3) 4) 5)</td></tr>
+<tr><td>Saimiri</td><td>5</td><td colspan="2">6</td><td colspan="2">15</td><td>1,5</td><td colspan="2">3,75</td><td>1) 2) 3) 5)</td></tr>
+<tr><td>Scimmie ragno, cercopitechi, macachi</td><td>5</td><td colspan="2">15</td><td colspan="2">45</td><td>3</td><td colspan="2">9</td><td>1) 3) 5) 6) 7) 8)</td></tr>
+</table>
+
+Osservazioni sulla tabella 3 – (Primati, non utilizzati per l’allevamento)
+
+<table>
+<tr><td>1) Possibilità di arrampicarsi su rami o rocce, a seconda della specie. Lo spessore dei rami dovrebbe corrispondere agli organi prensili dell’animale.</td></tr>
+<tr><td>2) Box per dormire. Essi devono essere sistemati all’altezza del suolo oppure in un luogo rialzato, a seconda della specie. Per le specie di tanto in tanto incompatibili occorre prevedere un box per ogni animale.</td></tr>
+<tr><td>3) Schermi, possibilità di evitarsi e ritirarsi.</td></tr>
+<tr><td>4) Coppia monogama con prole accettata.</td></tr>
+<tr><td>5) Permettere agli animali di soddisfare le loro esigenze comportamentali mettendo loro a disposizione vari oggetti, p. es. funi per dondolarsi, paglia, recipienti di plastica e nascondendo il cibo in posti sempre diversi. Gli animali devono essere indotti all’esplorazione attraverso stimoli supplementari nel loro ambiente.</td></tr>
+<tr><td>6) Possibilità di separazione e di isolamento.</td></tr>
+<tr><td>7) Nei parchi di 45 m<sup>3</sup> possono essere tenuti 5 animali adulti o 10 animali giovani (al massimo di tre anni di età).</td></tr>
+<tr><td>8) Piccoli gruppi (max. 3 animali) o, in casi motivati, animali incompatibili possono essere tenuti per al massimo un anno in parchi più piccoli con una superficie di almeno 15 m<sup>3</sup> purché ogni giorno, durante il periodo di attività, abbiamo accesso per almeno cinque ore a un parco di almeno 45 m<sup>3</sup>.</td></tr>
+</table>
+
+Tabella 4
+
+## Pipidi (Xenopus laevis)
+
+La temperatura dell’acqua deve essere compresa tra 18 °C e 22 °C.
+
+<table>
+<tr><th></th><th>Lunghezza del corpo</th><th>Superficie minima del bacino per un animale cm<sup>2</sup></th><th>Superficie minima per ogni animale in più cm<sup>2</sup></th><th>Altezza cm</th></tr>
+<tr><th>Xenopus</th><th>&lt; 6 cm</th><th>160</th><th>40</th><th>6</th></tr>
+<tr><th></th><th>6– 9 cm</th><th>300</th><th>75</th><th>8</th></tr>
+<tr><th></th><th>9–12 cm</th><th>600</th><th>150</th><th>10</th></tr>
+<tr><th></th><th>&gt; 12 cm</th><th>920</th><th>230</th><th>12,5</th></tr>
+</table>
+
+Allegato 4[^t-4]
+
+(art. 165 cpv. 1 lett. f)
+
+## Spazio minimo per il trasporto di animali da reddito
+
+[^t-4]: Aggiornato dal n. I dell’O del 25 giu. 2008 ([RU 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) e dal n. II cpv. 1 dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+
+Osservazioni preliminari
+
+Le misure indicano lo spazio minimo medio per animale, non sono ammesse misure inferiori.
+
+A seconda della durata del trasporto, delle condizioni degli animali e delle condizioni climatiche può essere necessario aumentare i valori minimi.
+
+Tabella 1
+
+## Spazio minimo per il trasporto di bovini e suini
+
+<table>
+<tr><td colspan="3">Spazio minimo per il trasporto di bovini</td><td></td><td></td><td></td><td colspan="3">Spazio minimo per il trasporto di suini</td></tr>
+<tr><td>Peso kg</td><td>Superficie per animale m<sup>2</sup></td><td colspan="3">Altezza minima del compartimento cm</td><td></td><td>Peso kg</td><td>Superficie per animale m<sup>2</sup></td><td>Altezza minima del compartimento cm</td></tr>
+<tr><td>40–80 kg</td><td>0,30</td><td colspan="3">Altezza al garrese + 20 cm</td><td></td><td>Fino a 15 kg</td><td>0,09</td><td>75 cm</td></tr>
+<tr><td>80–150 kg</td><td>0,40</td><td colspan="3">Altezza al garrese + 25 cm</td><td></td><td>15–25 kg</td><td>0,12</td><td>75 cm</td></tr>
+<tr><td>150–250 kg</td><td>0,80</td><td colspan="3">Altezza al garrese + 25 cm</td><td></td><td>25–50 kg</td><td>0,18</td><td>75 cm</td></tr>
+<tr><td>250–350 kg</td><td>1,00</td><td colspan="3">Altezza al garrese + 35 cm</td><td></td><td>50–75 kg</td><td>0,30</td><td>90 cm</td></tr>
+<tr><td>350–450 kg</td><td>1,20</td><td colspan="3">Altezza al garrese + 35 cm</td><td></td><td>75–90 kg</td><td>0,35</td><td>100 cm</td></tr>
+<tr><td>450–550 kg</td><td>1,40</td><td colspan="3">Altezza al garrese + 35 cm</td><td></td><td>90–110 kg</td><td>0,43</td><td>100 cm</td></tr>
+<tr><td>550–700 kg</td><td>1,60</td><td colspan="3">Altezza al garrese + 35 cm</td><td></td><td>110–125 kg</td><td>0,51</td><td>100 cm</td></tr>
+<tr><td>Oltre 700 kg</td><td>1,80</td><td colspan="3">Altezza al garrese + 35 cm</td><td></td><td>125–150 kg</td><td>0,56</td><td>110 cm</td></tr>
+<tr><td></td><td></td><td colspan="3"></td><td></td><td>150–200 kg</td><td>0,69</td><td>110 cm</td></tr>
+<tr><td></td><td></td><td colspan="3"></td><td></td><td>Oltre 200 kg</td><td>0,82</td><td>110 cm</td></tr>
+</table>
+
+Tabella 2
+
+## Spazio minimo per il trasporto di ovini, caprini ed equidi
+
+<table>
+<tr><td colspan="5">Spazio minimo per il trasporto di ovini tosati</td><td></td><td colspan="3"></td><td></td><td colspan="4">Spazio minimo per il trasporto di caprini</td></tr>
+<tr><td colspan="2">Peso kg</td><td>Superficie per animale m<sup>2</sup></td><td colspan="6">Altezza minima del compartimento cm</td><td></td><td>Peso kg</td><td colspan="2">Superficie per animale m<sup>2</sup></td><td>Altezza minima del compartimento cm</td></tr>
+<tr><td colspan="2">30–45 kg</td><td>0,25</td><td colspan="6">Altezza al garrese + 25 cm</td><td></td><td>Meno di 35 kg</td><td colspan="2">0,25</td><td>Altezza al garrese + 50 cm</td></tr>
+<tr><td colspan="2">45–60 kg</td><td>0,33</td><td colspan="6">Altezza al garrese + 30 cm</td><td></td><td>35–55 kg</td><td colspan="2">0,33</td><td>Altezza al garrese + 50 cm</td></tr>
+<tr><td colspan="2">Oltre 60 kg</td><td>0,40</td><td colspan="6">Altezza al garrese + 30 cm</td><td></td><td>Oltre 55 kg</td><td colspan="2">0,50</td><td>Altezza al garrese + 50 cm</td></tr>
+<tr><td colspan="5">Spazio minimo per il trasporto di ovini non tosati</td><td></td><td colspan="3"></td><td></td><td colspan="4">Spazio minimo per il trasporto di equidi</td></tr>
+<tr><td>Peso kg</td><td colspan="3">Superficie per animale m<sup>2</sup></td><td colspan="5">Altezza minima del compartimento cm</td><td></td><td></td><td colspan="2">Superficie per animale m<sup>2</sup></td><td>Altezza minima del compartimento cm</td></tr>
+<tr><td>Meno di 30 kg</td><td colspan="3">0,20</td><td colspan="5">Altezza al garrese + 20 cm</td><td></td><td>Puledri</td><td colspan="2">0,85</td><td>Altezza al garrese + 40 cm</td></tr>
+<tr><td>30–45 kg</td><td colspan="3">0,25</td><td colspan="5">Altezza al garrese + 25 cm</td><td></td><td>Equidi leggeri</td><td colspan="2">1,40</td><td>Altezza al garrese + 40 cm</td></tr>
+<tr><td>45–60 kg</td><td colspan="3">0,40</td><td colspan="5">Altezza al garrese + 30 cm</td><td></td><td>Equidi medi</td><td colspan="2">1,60</td><td>Altezza al garrese + 40 cm</td></tr>
+<tr><td>Oltre 60 kg</td><td colspan="3">0,50</td><td colspan="5">Altezza al garrese + 30 cm</td><td></td><td>Equidi pesanti</td><td colspan="2">1,90</td><td>Altezza al garrese + 40 cm</td></tr>
+<tr><td colspan="7">Spazio minimo per il trasporto di pecore in gestazione avanzata e montoni d’allevamento</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">Superficie per animale m<sup>2</sup></td><td colspan="5">Altezza minima del compartimento cm</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">Pecore</td><td colspan="2">0,50</td><td colspan="5">Altezza al garrese + 30 cm</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">Montoni</td><td colspan="2">0,50</td><td colspan="5">Altezza al garrese + 30 cm</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+</table>
+
+Tabella 3
+
+## Spazio minimo per il trasporto di volatili
+
+<table>
+<tr><td colspan="3">Spazio minimo per il trasporto di polli, galline, oche, anatre e tacchini</td><td></td><td></td><td></td><td colspan="3">Spazio minimo per il trasporto di pulcini di un giorno</td></tr>
+<tr><td>Peso kg</td><td>Superficie per ogni kg di peso vivo cm<sup>2</sup>/kg</td><td colspan="3">Altezza minima del compartimento cm</td><td></td><td></td><td>Superficie per animale cm<sup>2</sup></td><td>Altezza minima del compartimento cm</td></tr>
+<tr><td>fino a 3,0 kg</td><td>160</td><td colspan="3">24</td><td></td><td>Pulcini e anatre di un giorno</td><td>21</td><td>10</td></tr>
+<tr><td>fino a 5,0 kg</td><td>115</td><td colspan="3">25</td><td></td><td>Oche e tacchini di un giorno</td><td>35</td><td>10</td></tr>
+<tr><td>fino a 10,0 kg</td><td>105</td><td colspan="3">30</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>fino a 15,0 kg</td><td>105</td><td colspan="3">35</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>oltre 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+Allegato 5[^t-5]
+
+(art. 225)
+
+## Disposizioni transitorie
+
+[^t-5]: Aggiornato dal n. I dell’O del 25 giu. 2008 ([RU 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), dal n. II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) e dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+
+Osservazioni preliminari
+
+Nella colonna C sono indicati i periodi transitori relativi agli articoli elencati qui di seguito. Tali periodi transitori valgono soltanto per il campo d’applicazione menzionato nella colonna D. Durante il periodo transitorio devono essere osservate le condizioni di cui alla colonna E.
+
+### Disposizioni transitorie
+
+<table>
+<tr><th>Cifra</th><th>A</th><th>B</th><th>C</th><th colspan="5">D</th><th>E</th></tr>
+<tr><th></th><th>Articolo</th><th>Contenuto della disposizione per la quale è previsto un periodo transitorio</th><th>Periodo transitorio a partire dalla data dell’entrata in vigore</th><th colspan="5">Campo d’applicazione della disposizione transitoria</th><th>Condizioni durante il periodo transitorio</th></tr>
+<tr><td>1</td><td>Art. 26 cpv. 1</td><td>Divieto di utilizzare metodi di riproduzione per rimediare a una carenza nella naturale capacità di riproduzione</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>2</td><td>Art. 27</td><td>Utilizzo di metodi di riproduzione artificiale da parte di specialisti</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>3</td><td>Art. 31 cpv. 1</td><td>Formazione in agricoltura per chi accudisce oltre 10 unità di bestiame grosso da reddito</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>4</td><td>Art. 31 cpv. 4</td><td>Attestato di competenza per chi detiene o accudisce meno di 10 unità di bestiame grosso, bovini, suini, ovini, caprini, equidi, lama, alpaca, conigli o volatili</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>5</td><td>Art. 31 cpv. 5</td><td>Attestato di competenza per la detenzione professionale di oltre 11 equidi</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>6</td><td>Art. 32 in combinato disposto con l’art. 224</td><td>Castrazione di lattonzoli senza anestesia</td><td>Fino al 31.12.2009</td><td colspan="5"></td><td></td></tr>
+<tr><td>7</td><td>Art. 35 cpv. 3</td><td>Divieto di installare nuove poste con gioghi elettrici</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>8</td><td>Art. 35 cpv. 4 lett. c</td><td>Utilizzo di trasformatori autorizzati</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>9</td><td>Art. 37 cpv. 1</td><td>Accesso all’acqua per i vitelli</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>10</td><td>Art. 37 cpv. 4</td><td>Alimentazione ricca di fibre grezze per i vitelli da ingrasso</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>11</td><td>Art. 39 cpv. 2 in combinato disposto con l’allegato 1, tabella 2</td><td>Settore di riposo per gli altri bovini</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td>La superficie al suolo deve essere di: 1,80 m<sup>2</sup> per ogni animale fino a 200 kg; 2,0 m<sup>2</sup> per ogni animale fino a 300 kg; 2,3 m<sup>2</sup> per ogni animale fino a 400 kg; 2,5 m<sup>2</sup> per ogni animale di oltre 400 kg.</td></tr>
+<tr><td>12</td><td>Art. 39 cpv. 3</td><td>Divieto di tenere i bovini da ingrasso di oltre quattro mesi in box ad area unica con lettiera profonda</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>13</td><td>Art. 40 cpv. 1</td><td>Uscita durante il periodo di foraggiamento invernale</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008 che beneficiano di una deroga</td><td></td></tr>
+<tr><td>14</td><td>Art. 40 cpv. 3</td><td>Separazione dei vitelli in caso di stabulazione fissa delle madri o delle nutrici</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>15</td><td>Art. 41 cpv. 2 secondo periodo</td><td>Bordo rialzato nei box di riposo per i bovini</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>16</td><td>Art. 41 cpv. 3</td><td>Ricovero degli animali partorienti in una zona speciale nelle stalle a stabulazione libera</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>17</td><td>Art. 44</td><td>Esigenze comportamentali dei suini</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>18</td><td>Art. 45 cpv. 1</td><td>Accesso all’acqua per i suini</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>19</td><td>Art. 47 cpv. 1 in combinato disposto con l’allegato 1 tabella 3 cifre 31 e 32</td><td>Superficie globale e superficie di riposo per i suini</td><td>10 anni</td><td colspan="2">Detenzioni di animali esistenti il 1° settembre 2008</td><td colspan="4">Per i box con i pavimenti parzialmente o completamente perforati e per i box con area di defecazione esterna, la superficie globale per ogni animale deve essere di: 0,30 m<sup>2</sup> per i suinetti svezzati fino a 25 kg; 0,45 m<sup>2</sup> per i suinetti di 25–60 kg; 0,65 m<sup>2</sup> per i suini di 60–110 kg; 1,3 m<sup>2</sup> per le scrofe. Nei box di allevamento dei suinetti solo due terzi della superficie possono avere i pavimenti perforati (con fenditure o fori).</td></tr>
+<tr><td>20</td><td>Art. 49 cpv. 2</td><td>Evitare tra i suini il reciproco allontanamento dal trogolo durante il pasto</td><td>15 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>21</td><td>Art. 52 cpv. 1</td><td>Divieto di stabulazione fissa per gli ovini</td><td>10 anni</td><td colspan="4">Detenzioni di animali esistenti il 1° settembre 2008</td><td colspan="2">[tab] 1. Gli ovini tenuti legati devono potersi muovere regolarmente all’aperto, almeno per 60 giorni nel periodo di foraggiamento verde e per 30 giorni nel periodo di foraggiamento invernale. 2. Non possono essere tenuti legati ininterrottamente per oltre due settimane. 3. L’uscita in inverno deve essere concessa entro il 1° settembre 2010</td></tr>
+<tr><td>22</td><td>Art. 55 cpv. 1</td><td>Uscita per i caprini tenuti legati</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td>[tab]</td></tr>
+<tr><td>23</td><td>Art. 55 cpv. 3</td><td>Settore di riposo con lettiera per i caprini</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>24</td><td>Art. 59 cpv. 1</td><td>Divieto di stabulazione fissa per gli equidi</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>25</td><td>Art. 59 cpv. 3</td><td>Contatto sociale per gli equidi</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>26</td><td>Art. 61 cpv. 2 in combinato disposto con l’allegato 1 tabella 7</td><td>Aree d’uscita per gli equidi</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td>[tab]</td></tr>
+<tr><td>27</td><td>Art. 61 cpv. 4</td><td>Uscita per le giumente d’allevamento con puledri, per i cavalli giovani e altri cavalli non utilizzati</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>28</td><td>Art. 61 cpv. 5</td><td>Uscita per gli equidi utilizzati</td><td>5 anni</td><td colspan="2">Detenzioni di animali esistenti il 1° settembre 2008</td><td colspan="4">Su richiesta del detentore di animali, l’autorità cantonale può prorogare il periodo transitorio per le aziende professionali esistenti il 1° luglio 2001 non oltre il 1° settembre 2023 se: 1. l’area d’uscita necessaria non può essere allestita per mancanza di spazio; 2. di norma gli equidi vengono utilizzati ogni giorno; 3. l’azienda conta più di 10 equidi; e 4. sono adempiuti gli altri requisiti previsti dalla presente ordinanza.</td></tr>
+<tr><td>29</td><td>Art. 63</td><td>Divieto dell’uso di filo spinato</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>30</td><td>Art. 66 cpv. 2</td><td>Lettiera sul pavimento del pollaio su almeno il 20 per cento della superficie calpestabile dai volatili domestici</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>31</td><td>Art. 66 cpv. 3 lett. c</td><td>Posatoi sopraelevati per gli animali d’allevamento, le ovaiole e il pollame domestico riproduttore, per le faraone e i piccioni domestici</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>32</td><td>Art. 66 cpv. 3 lett. d ed e</td><td>Possibilità di nuotare per anatre e oche, possibilità di bagnarsi per i piccioni domestici</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>33</td><td>Art. 68 cpv. 1</td><td>Formazione prima dell’acquisto di un cane</td><td>2 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>34</td><td>Art. 68 cpv. 2</td><td>Formazione dopo l’acquisto di un cane</td><td>2 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>35</td><td>Art. 72 cpv. 5</td><td>Schermi nei box e nei canili per i cani</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>36</td><td>Art. 85 cpv. 2</td><td>Formazione specifica per una specie animale in piccole aziende detentrici di animali selvatici</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>37</td><td>Art. 85 cpv. 3</td><td>Formazione in piccole aziende private detentrici di animali selvatici</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>38</td><td>Art. 97</td><td>Formazione per le persone che si occupano di pesci e decapodi</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>39</td><td>Art. 117</td><td>Requisiti per i locali e i parchi in cui sono tenuti animali da laboratorio</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>40</td><td>Art. 119 cpv. 2 e 3</td><td>Detenzione di specie animali diverse nello stesso locale, detenzione in gruppo</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008, eccettuate quelle di primati, cani e gatti</td><td></td></tr>
+<tr><td>41</td><td>Art. 150</td><td>Formazione e aggiornamento del personale impiegato nel commercio e nel trasporto di bestiame</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>42</td><td>Art. 159 cpv. 1 terzo periodo</td><td>Assi trasversali sulle rampe per il trasporto di animali</td><td>2 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>43</td><td>Art. 165 cpv. 1 lett. h</td><td>Griglia sui veicoli di trasporto e i rimorchi</td><td>2 anni</td><td colspan="5">Veicoli e rimorchi esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>44</td><td>Art. 177 cpv. 2–4</td><td>Formazione e aggiornamento del personale del macello</td><td>5 anni</td><td colspan="5"></td><td>Durante il periodo transitorio nelle aziende di grandi dimensioni deve essere formato ogni anno almeno il 20 per cento del personale.</td></tr>
+<tr><td>45</td><td>Art. 203 cpv. 1</td><td>Formazione dei formatori</td><td>2 anni</td><td colspan="5">Formazione per i detentori di cani</td><td></td></tr>
+<tr><td>46</td><td>Art. 203 cpv. 2</td><td>Riconoscimento dei corsi per formatori</td><td>2 anni</td><td colspan="5">Formazione per i detentori di cani</td><td></td></tr>
+<tr><td>47</td><td>Art. 205 lett. c</td><td>Attestazione del controllo esterno di qualità per i centri di formazione</td><td>2 anni</td><td colspan="5">Formazione per i detentori di cani</td><td></td></tr>
+<tr><td>48</td><td>Allegato 1 tabella 1 cifre 1 e 32</td><td>Dimensioni (lunghezza e larghezza) per animali giovani in stabulazione fissa e per vacche in stabulazione fissa o in gruppo</td><td>5 anni</td><td colspan="3">Detenzioni di animali esistenti il 1° settembre 2008 le cui poste o i cui box di riposo non raggiungono le dimensioni seguenti</td><td colspan="3">Per gli animali giovani in posta corta con un peso tra 301 e 400 kg: – larghezza di 90 cm e lunghezza di 145 cm; per gli animali giovani in posta corta di oltre 400 kg: – larghezza di 100 cm e lunghezza di 155 cm; per le vacche con un’altezza al garrese di oltre 130 cm: – in posta corta: larghezza di 110 cm e lunghezza di 165 cm; – in posta media: larghezza di 110 cm e lunghezza di 200 cm; – box di riposo contro parete: larghezza di 120 cm e lunghezza di 240 cm; – box contrapposti: larghezza di 120 cm e lunghezza di 220 cm.</td></tr>
+<tr><td>49</td><td>Allegato 1 tabella 3 cifra 21</td><td>Dimensione delle gabbie per scrofe</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td>Non oltre un terzo delle gabbie può misurare 55 cm x 170 cm.</td></tr>
+<tr><td>50</td><td>Allegato 1 tabella 3 cifra 31 e osservazione 7</td><td>Superficie per i verri e lunghezza del box</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>51</td><td>Allegato 1 tabella 4 cifre 21 e 22</td><td>Larghezza delle poste di foraggiamento e superficie del box per gli ovini</td><td>10 anni</td><td>Detenzioni di animali esistenti il 1° settembre 2008</td><td colspan="5">1. Per i box nelle stabulazioni libere esistenti il 1° settembre 2008 la superficie calpestabile deve essere di: 0,5 m<sup>2</sup> per gli agnelli da ingrasso di 25–50 kg; 0,7 m<sup>2</sup> per gli ovini di un anno di 50–60 kg; 1,0 m<sup>2</sup> per le pecore madri di 60–70 kg senza agnelli; 1,5 m<sup>2</sup> per le pecore madri di 60–70 kg con agnelli; 1,5 m<sup>2</sup> per gli arieti di oltre 70 kg. 2. Per i box nelle stabulazioni libere esistenti il 1° settembre 2008 la larghezza della posta di foraggiamento deve essere di: 20 cm per gli agnelli da ingrasso di 25–50 kg; 30 cm per gli ovini di un anno di 50–60 kg; 40 cm per le pecore madri di 60–70 kg senza agnelli; 60 cm per le pecore madri di 60–70 kg con agnelli; 50 cm per gli arieti di oltre 70 kg. La larghezza delle mangiatoie circolari può essere ridotta del 40 per cento.</td></tr>
+<tr><td>52</td><td>Allegato 1 tabella 5 cifre 21, 32 e 33</td><td>Superficie dei box, superficie della posta e numero di poste di foraggiamento per i caprini</td><td>10 anni</td><td>Detenzioni di animali esistenti il 1° settembre 2008</td><td colspan="5">1. Per i box singoli esistenti il 1° settembre 2008 la superficie di ogni box box deve essere di 2,5 m<sup>2</sup> per le capre di oltre 12 mesi e di 3,0 m<sup>2</sup> per i caproni. 2. Per i box nelle stabulazioni libere esistenti il 1° settembre 2008 la superficie di ogni box deve essere di 0,4 m<sup>2</sup> per i capretti fino a tre mesi, di 0,9 m<sup>2</sup>per le capre fino a 12 mesi, di 1,0 m<sup>2</sup> per le capre di oltre 12 mesi e di 1,5 m<sup>2</sup> per i caproni. Almeno l’80 per cento dello spazio deve essere costituito da superficie di riposo. 3. Per ogni animale deve esserci almeno una posta di foraggiamento.</td></tr>
+<tr><td>53</td><td>Allegato 1 tabella 5 cifra 12 osservazione 2</td><td>Poste perforate</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td>Al massimo il 25 per cento della posta può essere perforato.</td></tr>
+<tr><td>54</td><td>Allegato 1 tabella 7</td><td>Superficie per equidi</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008 se la superficie dei locali presenta dimensioni inferiori al 75 per cento delle dimensioni minime elencate nella tabella</td><td>Possibilità di coricarsi, riposarsi e alzarsi nel modo tipico della specie</td></tr>
+<tr><td>55</td><td>Allegato 1 tabella 7</td><td>Superficie per equidi</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008 se la superficie dei locali presenta dimensioni inferiori alle dimensioni minime elencate nella tabella, ma corrispondono ad almeno il 75 per cento delle stesse</td><td></td></tr>
+<tr><td>56</td><td>Allegato 1 tabella 9-1 cifre 121 e 122</td><td>Posatoi per pulcini e galline giovani</td><td>2 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>57</td><td>Allegato 1 tabella 10 cifre 12 e 13, 23 e 24</td><td>Superfici per la detenzione in gruppo di cani domestici in box e canili</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>58</td><td>Allegato 1 tabella 11 cifre 12 e 13</td><td>Superfici per i gatti domestici</td><td>5 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>59</td><td>Allegato 2</td><td>Recinti per gli animali selvatici</td><td>10 anni</td><td colspan="5">Detenzioni di animali esistenti il 1° settembre 2008 con recinti ai quali si applicano i nuovi requisiti minimi</td><td></td></tr>
+<tr><td>60</td><td>Allegato 3 tabelle 1 e 2</td><td>Requisiti minimi per la detenzione di roditori in centri autorizzati di detenzione di animali da laboratorio</td><td>2 anni</td><td colspan="5">detenzioni di roditori da laboratorio esistenti il 1° settembre 2008</td><td></td></tr>
+<tr><td>61</td><td>Allegato 4 Tabelle 1 e 2</td><td>Altezza minima dei compartimenti per il trasporto di bovini, suini, ovini, caprini ed equidi</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+<tr><td>62</td><td>Allegato 4 Tabella 3</td><td>Spazio minimo per il trasporto di volatili</td><td>5 anni</td><td colspan="5"></td><td></td></tr>
+</table>
+
+Allegato 6
+
+(art. 220)
+
+## Abrogazione e modifica del diritto vigente
+
+I
+
+L’ordinanza del 27 maggio 1981[^annexu1-lvlu1-2] sulla protezione degli animali è abrogata.
+
+II
+
+Le seguenti ordinanze sono modificate come segue:
+
+…[^annexu1-lvlu1-3]
+
+[^annexu1-lvlu1-2]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1]
+[^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416).

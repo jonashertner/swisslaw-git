@@ -1,0 +1,186 @@
+---
+sr: "510.292"
+title: "Ordinanza del 17 ottobre 2012 sulla condotta della guerra elettronica e sull'esplorazione radio (OCGE)"
+short: OCGE
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
+language: it
+version: 2017-09-01
+adopted: 2012-10-17
+in_force: 2012-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2012-638-20170901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla condotta della guerra elettronica e sull’esplorazione radio
+
+(OCGE)
+
+del 17 ottobre 2012 (Stato 1° settembre 2017)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 38 capoverso 3 e 79 capoverso 4 della legge federale del 25 settembre 2015[^ingress-1] sulle attività informative (LAIn); visto l’articolo 99 capoverso 1<sup>bis</sup> della legge militare del 3 febbraio 1995[^ingress-2] (LM); visti gli articoli 26 capoverso 2 e 48 capoverso 1 della legge del 30 aprile 1997[^ingress-3] sulle telecomunicazioni (LTC),[^ingress-4]
+
+ordina:
+
+[^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-4]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+## Sezione 1: Esplorazione radio
+
+#### Art. 1
+
+**Servizio competente**[^1-1]
+
+L’esplorazione radio compete al Centro operazioni elettroniche (COE).
+
+[^1-1]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 2
+
+**Compiti del Centro operazioni elettroniche**
+
+<sup>1</sup> Il COE riceve i mandati di esplorazione radio dai suoi mandanti e li elabora.
+
+<sup>2</sup> Rileva ed elabora le emissioni elettromagnetiche provenienti da sistemi di telecomunicazione all’estero e trasmette i risultati ai mandanti.
+
+<sup>3</sup> Acquista gli impianti tecnici necessari all’adempimento dei propri compiti ed effettua le misurazioni e le prove necessarie.
+
+<sup>4</sup> Può esaminare la fattibilità di nuovi mandati di esplorazione radio.
+
+<sup>5</sup> Può proporre ai mandanti di aggiungere oggetti dell’esplorazione radio supplementari ai mandati in corso.
+
+#### Art. 3
+
+**Mandati di esplorazione radio**
+
+<sup>1</sup>
+
+I servizi seguenti sono autorizzati, nel quadro dei rispettivi compiti legali, ad assegnare mandati di esplorazione radio:
+
+- a. il Servizio delle attività informative della Confederazione (SIC);
+- b. il Servizio informazioni dell’esercito.
+
+<sup>2</sup> Il SIC e il Servizio informazioni dell’esercito possono assegnare mandati di esplorazione radio esclusivamente per acquisire informazioni rilevanti in materia di politica di sicurezza su fatti che si verificano all’estero.
+
+<sup>3</sup>
+
+Le informazioni di cui al capoverso 2 servono:
+
+- a. nell’ambito del terrorismo: all’individuazione di attività, collegamenti e strutture di gruppi e reti terroristici nonché all’individuazione di attività e collegamenti di singoli terroristi;
+- b.[^3-1] nell’ambito della proliferazione: per l’accertamento della proliferazione di armi nucleari, biologiche o chimiche, compresi i loro sistemi vettori nonché tutti i beni e tutte le tecnologie a duplice impiego civile e militare necessari per la fabbricazione di tali armi (proliferazione NBC); per l’accertamento del commercio illegale di sostanze radioattive, materiale bellico e altri beni d’armamento; per l’accertamento di programmi concernenti armi di distruzione di massa, compresi i loro sistemi vettori; per l’accertamento di strutture di acquisizione e tentativi di acquisizione;
+- c. nell’ambito del controspionaggio: all’individuazione di attività e strutture di agenti statali e non statali;
+- d. nell’ambito dei conflitti all’estero con ripercussioni sulla Svizzera: alla valutazione della situazione in materia di sicurezza, della stabilità dei regimi e di fattori strategici d’influenza;
+- e. nell’ambito militare e dell’armamento: all’esplorazione di conflitti militari attuali e possibili nonché di potenziali militari e di sviluppi in materia d’armamento;
+- f. nell’ambito delle zone d’impiego dell’Esercito svizzero: all’esplorazione della situazione attuale in materia di sicurezza e alla valutazione dei possibili sviluppi;
+- f<sup>bis</sup>.[^3-2] negli ambiti dell’accertamento delle cyberminacce e della protezione di infrastrutture critiche: per l’accertamento dell’impiego, della provenienza e delle caratteristiche tecniche dei mezzi di cyberattacco nonché per l’elaborazione di misure di difesa efficaci;
+- g. al mantenimento e all’ulteriore sviluppo delle attività di acquisizione di informazioni dei mandanti autorizzati.
+
+<sup>4</sup> I mandati di esplorazione radio sono concordati per scritto. Vi si definisce il settore d’esplorazione e la forma dei risultati.
+
+[^3-1]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-2]: Introdotta dal n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 4
+
+**Elaborazione dei dati**
+
+<sup>1</sup> Il COE distrugge i risultati acquisiti nel quadro dell’esplorazione radio al più tardi al momento della conclusione del rispettivo mandato di esplorazione radio.
+
+<sup>2</sup> Distrugge le comunicazioni rilevate al più tardi 18 mesi dopo il loro rilevamento.
+
+<sup>3</sup> Distrugge i dati di collegamento rilevati al più tardi 5 anni dopo il loro rilevamento.
+
+<sup>4</sup> Può utilizzare i dati rilevati sulla base di un mandato di esplorazione radio anche per adempiere un altro mandato di esplorazione radio dello stesso mandante.
+
+<sup>5</sup> La notifica delle collezioni di dati, il diritto di informazione e di accesso nonché l’archiviazione sono retti dalle disposizioni legali applicabili al rispettivo mandante.
+
+#### Art. 5
+
+**Dati su persone e fatti in Svizzera**
+
+<sup>1</sup> I dati su persone e fatti in Svizzera riconosciuti come tali, sono distrutti immediatamente dal COE.
+
+<sup>2</sup> Sono fatti salvi i dati secondo l’articolo 38 capoversi 4 lettera b e 5 LAIn.[^5-1]
+
+[^5-1]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 6
+
+**Contatti con servizi specializzati esteri**
+
+I contatti in materia di servizi informazioni tra il COE e servizi specializzati esteri avvengono per il tramite del SIC.
+
+#### Art. 7
+
+**Sicurezza**
+
+<sup>1</sup> I risultati dei mandati di esplorazione radio sono classificati secondo l’ordinanza del 4 luglio 2007[^7-1] sulla protezione delle informazioni della Confederazione.
+
+<sup>2</sup> I servizi interessati assicurano nella propria sfera di responsabilità un’adeguata protezione delle persone, delle informazioni e delle opere.
+
+[^7-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+
+## Sezione 2:...
+
+#### Art. 8 a 11
+
+[^811-1]
+
+[^811-1]: Abrogati dal n. 5 dell’all. all’O del 16 ago. 2017 concernente la vigilanza sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+
+## Sezione 3: Condotta della guerra elettronica dell’esercito
+
+#### Art. 12
+
+<sup>1</sup> La condotta della guerra elettronica secondo l’articolo 99 capoversi 1<sup>bis</sup> e 1<sup>ter</sup> LM nonché il disturbo dello spettro elettromagnetico competono all'esercito.
+
+<sup>2</sup> Il disturbo nello spettro elettromagnetico di frequenze non militari deve essere approvato dal capo del DDPS.
+
+<sup>3</sup> Il capo dell’esercito emana istruzioni sull’istruzione e sull’impiego nell’ambito della condotta della guerra elettronica.
+
+<sup>4</sup> Il COE presta assistenza per l’istruzione e l’impiego nell’ambito della condotta della guerra elettronica.
+
+## Sezione 4: Assistenza tecnica alle autorità civili
+
+#### Art. 13
+
+<sup>1</sup> Il COE può fornire assistenza tecnica alle autorità della Confederazione e dei Cantoni nell’adempimento dei loro compiti.
+
+<sup>2</sup> L’assistenza è fornita secondo le disposizioni legali applicabili al rispettivo mandante e d’intesa con l’Ufficio federale delle comunicazioni.
+
+<sup>3</sup> Il COE può acquistare i mezzi tecnici necessari ed effettuare studi di fattibilità, misurazioni e prove.
+
+<sup>4</sup> Le prestazioni del COE sono indennizzate secondo le disposizioni dell’ordinanza dell’8 novembre 2006[^13-1] sugli emolumenti del DDPS.
+
+[^13-1]: [RS 172.045.103](https://fedlex.data.admin.ch/eli/cc/2006/704)
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 14
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 15 ottobre 2003[^14-1] concernente la guerra elettronica è abrogata.
+
+[^14-1]: [[RU 2003 3971](https://fedlex.data.admin.ch/eli/oc/2003/571), [2006 3719](https://fedlex.data.admin.ch/eli/oc/2006/565), [2007 4309](https://fedlex.data.admin.ch/eli/oc/2007/574), [2008 3217](https://fedlex.data.admin.ch/eli/oc/2008/432), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 19]
+
+#### Art. 15
+
+**Modifica del diritto vigente**
+
+Le ordinanze qui appresso sono modificate come segue:
+
+...**[^15-1]**
+
+[^15-1]: Le mod. possono essere consultate alla [RU 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638).
+
+#### Art. 16
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° novembre 2012.

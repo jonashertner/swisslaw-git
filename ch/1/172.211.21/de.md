@@ -1,0 +1,240 @@
+---
+sr: "172.211.21"
+title: Verordnung vom 18. November 2015 über das Informationssystem VIP-Service (IVIPS-Verordnung)
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
+language: de
+version: 2016-01-01
+adopted: 2015-11-18
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-797-20160101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über das Informationssystem VIP-Service
+
+(IVIPS-Verordnung)
+
+vom 18. November 2015 (Stand am 1. Januar 2016)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung regelt den Betrieb und die Benützung des Informationssystems VIP-Service (IVIPS) des Protokolls des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) im Staatssekretariat des EDA.
+
+#### Art. 2
+
+**Zweck und Funktionalitäten des IVIPS**
+
+<sup>1</sup> Das IVIPS dient dem Protokoll EDA zur Wahrnehmung seiner Aufgaben im Rahmen der Bewilligung des VIP-Services an Flughäfen.
+
+<sup>2</sup>
+
+Dazu schafft es die Möglichkeit, dass:
+
+- a. die für die Schweiz zuständigen ausländischen Vertretungen das VIP-Antragsformular für die Würdenträgerinnen und Würdenträger direkt online ausfüllen;
+- b. die für die Schweiz zuständigen ausländischen Vertretungen die zum Antrag gehörende Verbalnote übermitteln;
+- c. die Anträge elektronisch verarbeitet und an die involvierten Stellen gemäss Artikel 7 Absatz 4 weitergeleitet werden können;
+- d. die Anträge für die Nachvollziehbarkeit archiviert werden können;
+- e. die Anträge mittels eines elektronischen Stempels genehmigt werden können.
+
+#### Art. 3
+
+**Verantwortliche Behörde**
+
+Das Protokoll EDA trägt die Verantwortung für das IVIPS.
+
+## 2. Abschnitt: Daten und Datenbearbeitung
+
+#### Art. 4
+
+**Personen**
+
+Im IVIPS werden Daten bearbeitet von Personen gemäss Anhang und von den entsprechenden für die Schweiz zuständigen ausländischen Vertretungen.
+
+#### Art. 5
+
+**Bearbeitete Daten**
+
+Im IVIPS werden folgende Daten bearbeitet:
+
+- a
+
+  von den Personen gemäss Anhang Ziffern 1–5:
+
+  - 1\. Vor- und Nachname sowie Titel,
+  - 2\. Grund des Besuchs,
+  - 3\. Ankunft-/Abflugdaten, Flughafen und Flugnummern,
+  - 4\. bei offiziellen Besuchen die einladende Stelle oder Person,
+  - 5\. Angaben zur für die Schweiz zuständigen ausländischen Vertretung;
+
+- b.
+
+  von den Personen gemäss Anhang Ziffer 6:
+
+  - 1\. Vor- und Nachname sowie Passnummer,
+  - 2\. Ankunft-/Abflugdaten, Flughafen und Flugnummern,
+  - 3\. Angaben über Bewaffnung (Marke und Kaliber der Schusswaffe sowie Munition),
+  - 4\. Angaben zur für die Schweiz zuständigen ausländischen Vertretung.
+
+#### Art. 6
+
+**Dokumente**
+
+Im IVIPS können alle Dokumente zu elektronisch gespeicherten Geschäften erfasst werden.
+
+#### Art. 7
+
+**Bearbeitungsrechte**
+
+<sup>1</sup> Die Daten werden von den für die Schweiz zuständigen ausländischen Vertretungen erfasst und können von diesen bearbeitet werden, solange der Antrag nicht bewilligt oder abgelehnt ist.
+
+<sup>2</sup> Die Einheit für Informatik des EDA kann alle Daten im IVIPS bearbeiten, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist.
+
+<sup>3</sup> Die zuständigen Mitarbeiterinnen und Mitarbeiter im Protokoll EDA haben das Recht, alle Daten im IVIPS zu bearbeiten.
+
+<sup>4</sup>
+
+Die folgenden Stellen können für die nachstehenden Zwecke alle Daten im IVIPS einsehen (Leserecht):
+
+- a. das Bundesamt für Polizei: für die Gewährleistung der Sicherheit der Personen gemäss Anhang und die Instruktion der Polizeikorps an den Flughäfen;
+- b. die Schweizer Flughäfen: für die Bereitstellung des VIP-Service;
+- c. das Bundesamt für Zivilluftfahrt: für die Erteilung von Lande- und Startbewilligungen (Diplomatic clearances);
+- d. die Abteilungen der Politischen Direktion des EDA: bei offiziellen Besuchen zur Entnahme der Namen der Delegationsmitglieder oder sonstiger relevanter Informationen;
+- e. das Bundesamt für Kommunikation: für die Zuteilung von Funkfrequenzen für Bodyguards;
+- f. das Zollinspektorat Bern: für die Regelung der Zollformalitäten.
+
+<sup>5</sup> Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt.
+
+#### Art. 8
+
+**Erteilung der Zugriffsberechtigung**
+
+<sup>1</sup> Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des IVIPS die individuellen Zugriffsrechte.
+
+<sup>2</sup> Sie oder er überprüft mindestens einmal jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen.
+
+#### Art. 9
+
+**Technischer Betrieb und Systemverwaltung**
+
+<sup>1</sup> Die Einheit für Informatik des EDA ist für den technischen Betrieb des IVIPS verantwortlich.
+
+<sup>2</sup> Die Systemadministratorin oder der Systemadministrator verwaltet das Computersystem, die Datenbank und die Anwendungen des IVIPS.
+
+<sup>3</sup> Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er ist beim Protokoll EDA angestellt.
+
+## 3. Abschnitt: Datenschutz und Informatiksicherheit
+
+#### Art. 10
+
+**Sorgfaltspflichten**
+
+<sup>1</sup> Das Protokoll EDA sorgt dafür, dass die Personendaten im IVIPS vorschriftsgemäss bearbeitet werden.
+
+<sup>2</sup> Es stellt sicher, dass die Personendaten im IVIPS richtig, vollständig und nachgeführt sind.
+
+#### Art. 11
+
+**Datensicherheit**
+
+<sup>1</sup> Die Daten- und Informatiksicherheit richtet sich nach der Verordnung vom 14. Juni 1993[^11-1] zum Bundesgesetz über den Datenschutz, der Bundesinformatikverordnung vom 9. Dezember 2011[^11-2] sowie den Weisungen des Bundesrates vom 1. Juli 2015[^11-3] über die IKT-Sicherheit in der Bundesverwaltung.
+
+<sup>2</sup> Das Protokoll EDA erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
+
+[^11-1]: [SR [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-2]: [SR [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^11-3]: [BBl 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+
+## 4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung von Daten
+
+#### Art. 12
+
+<sup>1</sup> Die im IVIPS enthaltenen Personendaten werden fünf Jahre nach der letzten Bearbeitung vernichtet.
+
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung.
+
+## 5. Abschnitt: Inkrafttreten
+
+#### Art. 13
+
+Diese Verordnung tritt am 1. Januar 2016 in Kraft.
+
+Anhang
+
+(Art. 4 und 5)
+
+## Personen, deren Daten im IVIPS bearbeitet werden
+
+### 1 Private Reise oder Durchreise
+
+- 1\.1 Monarchin oder Monarch
+- 1\.2 Ehegatte oder Ehegattin der Monarchin oder des Monarchen
+- 1\.3 Staatschefin oder Staatschef
+- 1\.4 Ehegatte oder Ehegattin der Staatschefin oder des Staatschefs
+- 1\.5 Generalsekretärin oder Generalsekretär der UNO
+- 1\.6 Mitglied eines Königs- oder Fürstenhauses
+- 1\.7 Regierungschefin oder Regierungschef (nationale Ebene)
+- 1\.8 Präsidentin oder Präsident eines nationalen Parlaments
+- 1\.9 Aussenministerin oder Aussenminister
+
+### 2 Bilateraler Besuch (auf Einladung einer eidgenössischen Behörde)
+
+- 2\.1 Monarchin oder Monarch
+- 2\.2 Staatschefin oder Staatschef
+- 2\.3 Generalsekretärin oder Generalsekretär der UNO
+- 2\.4 Mitglied eines Königs- oder Fürstenhauses
+- 2\.5 Regierungschefin oder Regierungschef (nationale Ebene)
+- 2\.6 Präsidentin oder Präsident eines nationalen Parlaments
+- 2\.7 Vizepräsidentin oder Vizepräsident
+- 2\.8 Vizepremierministerin oder Vizepremierminister (nationale Ebene)
+- 2\.9 Ministerin oder Minister (Mitglied einer nationalen Regierung)
+- 2\.10 Präsidentin oder Präsident der Nationalbank
+- 2\.11 a Präsidentin oder Präsident des Europäischen Parlaments
+- 2\.11 b Präsidentin oder Präsident des Panafrikanischen Parlaments
+- 2\.12 a Präsidentin oder Präsident der Europäischen Kommission, Mitglied der Europäischen Kommission
+- 2\.12 b Präsidentin oder Präsident der Kommission der Afrikanischen Union, Mitglied der Kommission der Afrikanischen Union
+- 2\.13 Vizeministerin oder Vizeminister
+- 2\.14 Staatssekretärin oder Staatssekretär
+- 2\.15 hohe religiöse Würdenträgerin oder hoher religiöser Würdenträger
+- 2\.16 hohe militärische Würdenträgerin oder hoher militärischer Würdenträger
+- 2\.17 hohe Vertreterin oder hoher Vertreter einer Gerichtsbehörde
+- 2\.18 Präsidentin oder Präsident, Generalsekretärin oder Generalsekretär oder Generaldirektorin oder Generaldirektor einer regionalen zwischenstaatlichen Organisation oder einer internationalen Organisation, die von der Schweiz anerkannt wird
+- 2\.19 Generalsekretärin oder Generalsekretär des Europarats
+
+### 3 Teilnahme an einer multilateralen Veranstaltung in der Schweiz
+
+- 3\.1 Monarchin oder Monarch
+- 3\.2 Staatschefin oder Staatschef
+- 3\.3 Generalsekretärin oder Generalsekretär der UNO
+- 3\.4 Mitglied eines Königs- oder Fürstenhauses
+- 3\.5 Regierungschefin oder Regierungschef (nationale Ebene)
+- 3\.6 Vizepremierministerin oder Vizepremierminister (nationale Ebene)
+- 3\.7 Ministerin oder Minister (Mitglied einer nationalen Regierung)
+- 3\.8 a Präsidentin oder Präsident der Europäischen Kommission, Mitglied der Europäischen Kommission
+- 3\.8 b Präsidentin oder Präsident der Kommission der Afrikanischen Union, Mitglied der Kommission der Afrikanischen Union
+- 3\.9 Präsidentin oder Präsident eines nationalen Parlaments
+- 3\.10 hohe religiöse Würdenträgerin oder hoher religiöser Würdenträger
+- 3\.11 hohe militärische Würdenträgerin oder hoher militärischer Würdenträger
+- 3\.12 hohe Vertreterin oder hoher Vertreter einer Gerichtsbehörde
+- 3\.13 Präsidentin oder Präsident, Generalsekretärin oder Generalsekretär oder Generaldirektorin oder Generaldirektor einer regionalen zwischenstaatlichen Organisation oder einer internationalen Organisation, die von der Schweiz anerkannt wird
+
+### 4 Amtsantritt oder Rücktritt von einem Amt in der Schweiz
+
+- 4\.1 Chefin oder Chef einer diplomatischen Mission
+
+### 5 Personen, die Personen gemäss den Ziffern 1–4 begleiten
+
+### 6 Personen, die den Schutz der Personen gemäss den Ziffern 1–5 wahrnehmen

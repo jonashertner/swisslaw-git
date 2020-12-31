@@ -1,0 +1,280 @@
+---
+sr: "172.220.111.91"
+title: "Ordinanza del DDPS del 30 novembre 2017 sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell'uomo e l'aiuto umanitario (OPers-PRA-DDPS)"
+short: OPers-PRA-DDPS
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/794"
+language: it
+version: 2018-01-01
+adopted: 2017-11-30
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-794-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DDPS sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario
+
+(OPers-PRA-DDPS)
+
+del 30 novembre 2017 (Stato 1° gennaio 2018)
+
+Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
+
+visto l’articolo 40 dell’ordinanza del 2 dicembre 2005[^ingress-1] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario (OPers-PRA),
+
+ordina:
+
+[^ingress-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+
+## Sezione 1: Oggetto e campo d’applicazione
+
+#### Art. 1
+
+<sup>1</sup>
+
+La presente ordinanza disciplina, per gli impieghi militari e per la parte militare degli impieghi civili-militari, negli ambiti della promozione della pace, del rafforzamento dei diritti dell’uomo, dell’aiuto umanitario e dell’istruzione di truppe straniere all’estero:
+
+- a. l’esame d’idoneità dei candidati;
+- b. l’istruzione del personale;
+- c. il rapporto di lavoro e le competenze.
+
+<sup>2</sup> Nella misura in cui non preveda o non ammetta espressamente eccezioni, essa si applica imperativamente anche al personale militare che assolve l’istruzione o effettua l’impiego.
+
+<sup>3</sup> Gli articoli 1 capoverso 1 lettere a e b, 2–9, 12, 13 capoverso 2, 14 e 15 si applicano anche ai militari che effettuano l’istruzione o l’impiego come servizio militare computato sul totale obbligatorio dei giorni di servizio d’istruzione o come servizio militare volontario.
+
+## Sezione 2: Esame d’idoneità per la promozione della pace
+
+#### Art. 2
+
+**Esecuzione dell’esame d’idoneità**
+
+<sup>1</sup>
+
+Il Centro di competenza SWISSINT può invitare o, nel caso in cui non sia ancora stato adempiuto il totale obbligatorio di giorni di servizio d’istruzione, chiamare in servizio candidati per:
+
+- a. l’esame d’idoneità di base in un centro di reclutamento;
+- b. l’esame d’idoneità specifico alla funzione nel Centro di competenza SWISSINT.
+
+<sup>2</sup> I comandanti dei centri di reclutamento sono competenti per l’esecuzione dell’esame d’idoneità di base. Il comandante del Centro di competenza SWISSINT è competente per l’esecuzione dell’esame d’idoneità specifico alla funzione.
+
+<sup>3</sup> I membri di formazioni militari di professionisti con impieghi specialistici sono inoltre soggetti alla selezione e all’esame d’idoneità del rispettivo comando.
+
+#### Art. 3
+
+**Oggetto dell’esame d’idoneità**
+
+<sup>1</sup> Con l’esame d’idoneità si intende valutare il profilo dei requisiti dei candidati e accertare l’idoneità di base all’impiego nel servizio di promovimento della pace.
+
+<sup>2</sup>
+
+I candidati sono sottoposti nell’ambito:
+
+- a.
+
+  dell’esame d’idoneità di base a esami, accertamenti e valutazioni riguardanti:
+
+  - 1\. il loro stato di salute,
+  - 2\. le loro attitudini fisiche: resistenza, forza, velocità e capacità di coordinamento,
+  - 3\. le loro attitudini intellettuali e la loro personalità: attitudini intellettuali generali, capacità di risolvere problemi, capacità di concentrazione, attenzione, flessibilità, scrupolosità, autoconsapevolezza e inclinazioni personali,
+  - 4\. la loro psiche: salute psichica, assenza di disturbi ansiosi, autoconsapevolezza, resistenza allo stress, stabilità emotiva e capacità di socializzare,
+  - 5\. la loro competenza sociale: comportamento e sensibilità nella società, nella comunità e nel gruppo,
+  - 6\. il loro potenziale a svolgere funzioni di quadro,
+  - 7\. le loro conoscenze linguistiche;
+
+- b.
+
+  dell’esame d’idoneità specifico alla funzione a esami e valutazioni riguardanti:
+
+  - 1\. la presenza di circostanze personali particolari secondo l’ordinanza del 22 novembre 2017[^3-1] concernente l’obbligo di prestare servizio militare (OOPSM),
+  - 2\. la loro idoneità all’esercizio di determinate funzioni di truppa o di quadro, nella misura in cui non risultino dal profilo dei requisiti generali secondo la lettera a.
+
+[^3-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 4
+
+**Definizione dei profili dei requisiti**
+
+Il Centro di competenza SWISSINT:
+
+- a. definisce i profili dei requisiti in collaborazione con il Comando del reclutamento dell’Aggruppamento Difesa;
+- b. può ordinare in collaborazione con il Comando del reclutamento dell’Aggruppamento Difesa ulteriori esami necessari per l’impiego in una zona di missione specifica.
+
+#### Art. 5
+
+**Luogo e durata dell’esame d’idoneità**
+
+<sup>1</sup> L’esame d’idoneità di base si svolge nei centri di reclutamento regionali e dura un giorno.
+
+<sup>2</sup> L’esame d’idoneità specifico alla funzione si svolge nel Centro di competenza SWISSINT e dura un giorno.
+
+<sup>3</sup> Per il personale aeronavigante e i paracadutisti nonché per gli specialisti delle Forze aeree l’esame d’idoneità medico si svolge presso l’Istituto di medicina aeronautica e dura due giorni al massimo.
+
+#### Art. 6
+
+**Computabilità**
+
+Nella misura in cui il totale obbligatorio di giorni di servizio d’istruzione non è adempiuto, tutti i giorni necessari per l’esame d’idoneità a favore del servizio di promovimento della pace secondo l’OOPSM[^6-1] sono computati sul totale obbligatorio di giorni di servizio d’istruzione.
+
+[^6-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+## Sezione 3: Istruzione del personale
+
+#### Art. 7
+
+**Istruzione specifica all’impiego**
+
+<sup>1</sup>
+
+Dopo l’esame d’idoneità, a seconda della funzione, il personale destinato a impieghi negli ambiti della promozione della pace, del rafforzamento dei diritti dell’uomo, dell’aiuto umanitario e dell’istruzione di truppe straniere all’estero assolve:
+
+- a. un’istruzione specifica all’impiego per membri di contingenti;
+- b. un’istruzione specifica all’impiego per il personale impiegato individualmente.
+
+<sup>2</sup> L’istruzione specifica all’impiego può essere svolta interamente o in parte al di fuori del Centro di competenza SWISSINT.
+
+#### Art. 8
+
+**Computabilità**
+
+Nella misura in cui il totale obbligatorio di giorni di servizio d’istruzione non è ancora adempiuto, l’istruzione specifica all’impiego secondo l’articolo 43 capoverso 1 della legge militare del 3 febbraio 1995[^8-1] (LM) dà diritto al soldo ed è computata sul totale obbligatorio di giorni di servizio d’istruzione.
+
+[^8-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 9
+
+**Servizi d’istruzione secondo l’OOPSM**
+
+Se un servizio d’istruzione secondo l’OOPSM[^9-1] coincide totalmente o in parte con un impiego, l’organo incaricato ordina un differimento del servizio per motivi militari.
+
+[^9-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+## Sezione 4: Rapporto di lavoro e competenze
+
+#### Art. 10
+
+**Rapporto di lavoro**
+
+<sup>1</sup> L’istruzione e l’impiego sono disciplinati in contratti di lavoro separati.
+
+<sup>2</sup> Dall’istruzione assolta non è desumibile alcun diritto a un’assunzione per un impiego.
+
+<sup>3</sup> Eccettuati i militari di professione ai sensi dell’articolo 47 capoverso 1 LM[^10-1], per la durata del rapporto di lavoro il personale è equiparato ai militari a contratto temporaneo ai sensi dell’articolo 47 capoverso 3 LM. Esso non è sottoposto all’ordinanza del DDPS del 9 dicembre 2003[^10-2] concernente il personale militare.
+
+[^10-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^10-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+
+#### Art. 11
+
+**Durata del contratto di lavoro**
+
+<sup>1</sup> Il contratto di lavoro per l’istruzione è limitato alla durata di detta istruzione.
+
+<sup>2</sup> Il contratto di lavoro per l’impiego concreto è limitato alla durata di detto impiego. Se la durata dell’impiego è indeterminata, il contratto di lavoro è limitato a un anno al massimo.
+
+<sup>3</sup> Se l’istruzione o l’impiego sono effettuati in parte come servizio militare computato sul totale obbligatorio dei giorni di servizio d’istruzione, il contratto di lavoro è concluso per il resto del periodo d’istruzione o d’impiego.
+
+<sup>4</sup> Il contratto di lavoro per l’impiego può essere prorogato un’unica volta, di comune intesa. In casi particolari motivati il Comando Operazioni dell’Aggruppamento Difesa può autorizzare un’ulteriore proroga.
+
+<sup>5</sup> Un singolo contratto di lavoro o contratti di lavoro successivi senza interruzioni non possono avere complessivamente una durata superiore a dieci anni.
+
+#### Art. 12
+
+**Grado militare**
+
+<sup>1</sup>
+
+Nell’ambito dell’istruzione e dell’impiego il personale riveste di principio:
+
+- a. il grado che ha rivestito sinora nell’esercito;
+- b. il grado che rivestiva al momento del suo proscioglimento dall’obbligo militare;
+- c. il grado di soldato se non è mai stato militare.
+
+<sup>2</sup>
+
+Sono fatti salvi:
+
+- a. la nomina a ufficiale specialista giusta l’articolo 104 LM[^12-1];
+- b. il conferimento a tempo determinato di un altro grado giusta l’articolo 75 capoverso 2 lettera c OOPSM[^12-2].
+
+[^12-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^12-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 13
+
+**Competenze relative alle decisioni del datore di lavoro e all’assistenza del personale**
+
+<sup>1</sup> Per le decisioni del datore di lavoro sono competenti le autorità secondo l’articolo 2 dell’ordinanza del 3 luglio 2001[^13-1] sul personale federale e i disciplinamenti emanati in virtù della stessa.
+
+<sup>2</sup> Il Comando Operazioni dell’Aggruppamento Difesa secondo l’allegato 1 dell’ordinanza del 25 novembre 1998[^13-2] sull’organizzazione del Governo e dell’Amministrazione è competente per l’assistenza del personale.
+
+[^13-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^13-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 14
+
+**Qualificazione e proposta**
+
+Per la qualificazione e la proposta di personale nell’istruzione e nell’impiego si applicano per analogia gli articoli 73 e 74 OOPSM[^14-1].
+
+[^14-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 15
+
+**Annuncio all’amministrazione competente per la tassa d’esenzione dall’obbligo militare del personale soggetto all’obbligo di prestare servizio militare**
+
+Il Comando Operazioni dell’Aggruppamento Difesa annuncia all’amministrazione competente per la tassa d’esenzione dall’obbligo militare i dati personali del personale soggetto all’obbligo di prestare servizio militare e la durata del suo statuto di personale militare.
+
+#### Art. 16
+
+**Giorni lavorativi e giorni di riposo durante l’impiego**
+
+<sup>1</sup> Se nel contratto di lavoro non è convenuto diversamente, nel luogo d’impiego vige una settimana di sei giorni lavorativi e un giorno di riposo.
+
+<sup>2</sup> In casi straordinari, il comandante o il capo della missione nel luogo d’impiego può derogare in via transitoria a questa regola. Di conseguenza, i giorni lavorativi supplementari prestati devono essere compensati durante l’impiego con tempo libero della medesima durata.
+
+#### Art. 17
+
+**Vacanze**
+
+<sup>1</sup> Se il rapporto di lavoro dura meno di un anno, il diritto alle vacanze di cui all’articolo 24 OPers-PRA è ridotto in maniera proporzionale.
+
+<sup>2</sup> Al personale il cui rapporto di lavoro quale impiegato del DDPS è mantenuto durante l’impiego, il diritto alle vacanze risultante da tale rapporto di lavoro è ridotto in maniera proporzionale alla durata dell’impiego, sempre che durante l’impiego siano prese vacanze sulla base dell’OPers-PRA.
+
+<sup>3</sup> Per calcolare la proporzionalità si considera l’anno di dodici mesi e il mese di 30 giorni.
+
+<sup>4</sup>
+
+Non sono considerati giorni di vacanza:
+
+- a. i giorni di riposo ai sensi dell’articolo 15 capoverso 1;
+- b. i giorni di congedo ai sensi dell’articolo 26 OPers-PRA;
+- c. i giorni del viaggio di andata e di ritorno tra la Svizzera e il luogo d’impiego all’inizio e al termine dell’impiego;
+- d. i giorni del viaggio di andata e di ritorno tra il luogo del congedo e il luogo d’impiego.
+
+#### Art. 18
+
+**Congedo per fare e disfare i bagagli**
+
+Per fare e disfare i bagagli, sia all’inizio che al temine dell’impiego il personale ha diritto a un determinato numero di giorni di congedo. Questi consistono in:
+
+- a. una mezza giornata lavorativa, per impieghi che durano fino a 14 giorni civili;
+- b. un giorno lavorativo, per impieghi che durano da 15 a 30 giorni civili;
+- c. un giorno lavorativo e mezzo, per impieghi che durano da 31 a 120 giorni civili;
+- d. due giorni lavorativi, per impieghi che durano più di 120 giorni civili.
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 19
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del DDPS del 25 agosto 2009[^19-1] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario è abrogata.
+
+[^19-1]: [[RU 2009 4773](https://fedlex.data.admin.ch/eli/oc/2009/565), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)n. I 3]
+
+#### Art. 20
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2018.

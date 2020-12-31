@@ -1,0 +1,466 @@
+---
+sr: "431.01"
+title: Legge del 9 ottobre 1992 sulla statistica federale (LStat)
+short: LStat
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
+language: it
+version: 2016-01-01
+adopted: 1992-10-09
+in_force: 1993-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20160101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20160101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20160101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge sulla statistica federale
+
+(LStat)
+
+del 9 ottobre 1992 (Stato 1° gennaio 2016) (Stato 1° gennaio 2016)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 27<sup>sexies</sup>, 31<sup>quinquies</sup> capoverso 5 e 85 numero 1 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 30 ottobre 1991[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [CS **1** 3; [RU 1973 1051](https://fedlex.data.admin.ch/eli/oc/1973/1053_1053_1051)]. A dette disposizioni corrispondono ora gli art. 64, 65, 100, 164 cpv. 1 g della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: [FF 1992 I 321](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo**
+
+La presente legge ha lo scopo di:
+
+- a. procurare alla Confederazione le basi statistiche necessarie per eseguire i suoi compiti;
+- b. mettere a disposizione dei Cantoni, dei Comuni, degli ambienti scientifici ed economici, delle parti sociali e del pubblico risultati statistici;
+- c. organizzare la statistica federale, affinché i dati necessari vengano rilevati e trattati in modo efficiente e con riguardo per le persone interrogate;
+- d. promuovere la collaborazione nazionale e internazionale nel campo della statistica;
+- e. garantire la protezione dei dati nella statistica federale.
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+<sup>1</sup>
+
+La presente legge si applica a tutti i lavori di statistica:
+
+- a. ordinati dal Consiglio federale;
+- b.[^2-1] eseguiti o fatti eseguire da unità amministrative dell’amministrazione federale escluso il settore dei PF.
+
+<sup>2</sup> Il Consiglio federale stabilisce quali disposizioni della legge sono applicabili ai lavori statistici del settore dei PF, della Posta svizzera e dell’azienda delle telecomunicazioni della Confederazione.[^2-2]
+
+<sup>3</sup>
+
+Il Consiglio federale può dichiarare alcune disposizioni applicabili ad altre corporazioni, istituti o privati, se questi:
+
+- a. sottostanno alla vigilanza della Confederazione;
+- b. ricevono aiuti finanziari o indennizzi federali; o
+- c. esercitano un’attività in base ad una concessione o autorizzazione federale.
+
+<sup>4</sup> Il Consiglio federale rispetta la libertà di ricerca nonché i compiti legali e l’autonomia delle organizzazioni che sottopone alla presente legge conformemente ai capoversi 2 e 3.
+
+[^2-1]: Nuovo testo giusta il n. 4 dell’all. alla LF sulle ferrovie federali svizzere del 20 mar. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
+[^2-2]: Nuovo testo giusta il n. II 6 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+
+#### Art. 3
+
+**Compiti della statistica federale**
+
+<sup>1</sup> La statistica federale, basandosi su criteri scientifici scelti autonomamente, fornisce informazioni rappresentative sulle condizioni e l’evoluzione della popolazione, dell’economia, della società, della formazione, della ricerca e dell’ambiente in Svizzera.[^3-1]
+
+<sup>2</sup>
+
+Essa serve per:
+
+- a. la preparazione, l’esecuzione e la valutazione di compiti federali;
+- b. l’analisi di settori nei quali i compiti della Confederazione e dei Cantoni sono strettamente connessi, ad esempio formazione, scienza e ricerca, cultura, sport, diritto, turismo, finanze pubbliche, utilizzazione del territorio, attività edilizia e abitazioni, trasporti, energia, sanità e assistenza sociale;
+- c. promuovere la realizzazione di progetti di ricerca d’importanza nazionale;
+- d.[^3-2] valutare l’adempimento del mandato costituzionale della parità dei sessi e della parità di trattamento dei disabili;
+- e.[^3-3] valutare la spendibilità occupazionale dei diplomati delle scuole universitarie e le loro attività.
+
+<sup>3</sup> Nell’ambito di questi compiti, la Confederazione collabora con i Cantoni, i Comuni, gli ambienti scientifici ed economici, le parti sociali e le organizzazioni internazionali; per quanto possibile considera i loro bisogni di informazione.
+
+[^3-1]: Nuovo testo giusta il n. II 5 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-2]: Nuovo testo giusta il n. 1 dell’all. alla L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
+[^3-3]: Introdotta dal n. II 5 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+
+#### Art. 4
+
+**Principi per la rilevazione dei dati**
+
+<sup>1</sup> Si rinuncia a rilevazioni particolari per la statistica federale (rilevazioni dirette, indirette o mediante osservazioni e misurazioni) nella misura in cui la Confederazione dispone già dei dati necessari o questi siano stati ottenuti nell’esecuzione del diritto federale da un’organizzazione sottoposta alla presente legge (dati amministrativi della Confederazione).
+
+<sup>2</sup> Se i dati riguardanti terzi, necessari alla statistica federale, sono disponibili presso servizi cantonali o comunali o presso altre persone giuridiche di diritto pubblico, essi devono essere rilevati presso di loro (rilevazione indiretta).
+
+<sup>3</sup> Per rilevazione diretta s’intende la raccolta di nuovi dati alla fonte mediante interrogazione di persone fisiche e giuridiche ai fini esclusivi della presente legge. Il numero e i modi d’interrogazione devono essere limitati allo stretto necessario.
+
+<sup>4</sup> La Confederazione indica, per le rilevazioni eseguite nell’ambito della presente legge, lo scopo e il fondamento giuridico, le categorie dei partecipanti alla rilevazione e i destinatari dei dati.
+
+<sup>5</sup> Le organizzazioni, i servizi o le altre persone giuridiche di diritto pubblico di cui ai capoversi 1 e 2 devono fornire gratuitamente i dati all’Ufficio federale di statistica.[^4-1]
+
+[^4-1]: Introdotto dall’art. 17 n. 2 della LF del 22 giu. 2007 sul censimento, in vigore dal 1° gen. 2008 ([RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+
+## Sezione 2: Competenze e partecipazione
+
+#### Art. 5
+
+**Competenza di ordinare rilevazioni**
+
+<sup>1</sup> Il Consiglio federale ordina le rilevazioni statistiche necessarie. Esso può prevedere forme miste di rilevazioni dirette e indirette.
+
+<sup>2</sup>
+
+Esso può delegare questa competenza ad un dipartimento, ad un gruppo o ad un ufficio:
+
+- a. per rilevazioni nelle quali non vengono raccolti dati personali;
+- b. per rilevazioni senza obbligo di informare riguardanti una piccola cerchia di imprese e aziende di diritto privato o pubblico;
+- c. per rilevazioni uniche presso una piccola cerchia di persone.
+
+<sup>3</sup> Le istituzioni per il promovimento della ricerca e i centri di ricerca della Confederazione sottoposti alla presente legge possono ordinare rilevazioni uniche o limitate nel tempo e senza obbligo di informare.
+
+<sup>4</sup>
+
+Altre istituzioni sottoposte alla presente legge secondo l’articolo 2 capoverso 2 o 3 possono ordinare autonomamente:
+
+- a. rilevazioni nelle quali non vengono raccolti dati personali;
+- b. rilevazioni senza obbligo di informare presso persone fisiche o giuridiche di diritto privato o pubblico, con le quali le istituzioni collaborano per l’esecuzione dei loro compiti;
+- c. rilevazioni con obbligo di informare, se un’altra legge lo prevede.
+
+<sup>5</sup> Le rilevazioni aventi lo scopo di sperimentare metodi non richiedono un’autorizzazione specifica se non implicano alcun obbligo d’informare.
+
+#### Art. 6
+
+**Obblighi delle persone interrogate**
+
+<sup>1</sup> La partecipazione delle persone fisiche alle rilevazioni dirette eseguite nelle economie domestiche private è facoltativa. È fatto salvo l’obbligo d’informare secondo l’articolo 10 della legge del 22 giugno 2007[^6-1] sul censimento.[^6-2]
+
+<sup>1bis</sup> La partecipazione delle persone fisiche o giuridiche come pure delle istituzioni incaricate di compiti di diritto pubblico alle rilevazioni indirette è obbligatoria.[^6-3]
+
+<sup>2</sup> La rilevazione avviene in una forma tale da ridurre quanto possibile l’onere amministrativo per gli obbligati.
+
+<sup>3</sup> Chiunque rilascia volontariamente informazioni per una rilevazione statistica, deve fornirle secondo verità e secondo scienza e coscienza. Il Consiglio federale può prevedere un indennizzo per informazioni volontarie che comportano da parte degli interessati un dispendio eccezionale.
+
+<sup>4</sup> Se la completezza, rappresentatività, comparabilità o attualità della statistica lo esigono assolutamente, nell’ordinare una rilevazione il Consiglio federale può sottoporre le persone fisiche e giuridiche di diritto privato o pubblico e i loro rappresentanti all’obbligo d’informare; è fatto salvo il capoverso 1. Queste persone devono fornire le informazioni secondo verità, tempestivamente, gratuitamente e nella forma prescritta.[^6-4]
+
+[^6-1]: [RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^6-2]: Nuovo testo giusta il n. I della LF del 23 dic. 2011 (Partecipazione alle rilevazioni statistiche federali), in vigore dal 15 lug. 2012 ([RU 2012 3131](https://fedlex.data.admin.ch/eli/oc/2012/358); [FF 2011 3599](https://fedlex.data.admin.ch/eli/fga/2011/617)[3989](https://fedlex.data.admin.ch/eli/fga/2011/669)).
+[^6-3]: Introdotto dal n. I della LF del 23 dic. 2011 (Partecipazione alle rilevazioni statistiche federali), in vigore dal 15 lug. 2012 ([RU 2012 3131](https://fedlex.data.admin.ch/eli/oc/2012/358); [FF 2011 3599](https://fedlex.data.admin.ch/eli/fga/2011/617)[3989](https://fedlex.data.admin.ch/eli/fga/2011/669)).
+[^6-4]: Introdotto dal n. I della LF del 23 dic. 2011 (Partecipazione alle rilevazioni statistiche federali), in vigore dal 15 lug. 2012 ([RU 2012 3131](https://fedlex.data.admin.ch/eli/oc/2012/358); [FF 2011 3599](https://fedlex.data.admin.ch/eli/fga/2011/617)[3989](https://fedlex.data.admin.ch/eli/fga/2011/669)).
+
+#### Art. 7
+
+**Partecipazione dei Cantoni e dei Comuni**
+
+<sup>1</sup> Nell’ordinare una rilevazione, il Consiglio federale stabilisce in che misura Cantoni e Comuni partecipano all’esecuzione.
+
+<sup>2</sup> Esso può ordinare l’assunzione di dati contenuti nelle loro collezioni di dati se la base giuridica di dette collezioni non vieta espressamente la loro utilizzazione a fini statistici. Giusta l’articolo 19 della presente legge e l’articolo 22[^7-1] della legge federale del 19 giugno 1992[^7-2] sulla protezione dei dati, i dati che sottostanno all’obbligo legale del segreto non possono essere comunicati.
+
+<sup>3</sup> I Cantoni e i Comuni sopportano i costi derivanti dalla loro partecipazione a rilevazioni federali. Il diritto cantonale può disciplinare altrimenti la ripartizione dei costi tra i Cantoni e i Comuni.
+
+<sup>4</sup> Il Consiglio federale può accordare un indennizzo per lavori straordinari o prestazioni supplementari fornite senza obbligo.
+
+[^7-1]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 8
+
+**Partecipazione di altri servizi**
+
+Servizi di ricerca e altri organismi competenti, se vi consentono, possono essere chiamati a partecipare all’esecuzione di rilevazioni o ad altri lavori statistici purché sia garantita la protezione dei dati. Può essere versato un indennizzo.
+
+#### Art. 9
+
+**Programma pluriennale**
+
+<sup>1</sup> Nell’ambito di ogni piano di legislatura, il Consiglio federale stabilisce per il periodo corrispondente un programma pluriennale riguardante la statistica federale.
+
+<sup>2</sup>
+
+Il programma pluriennale informa su:
+
+- a. i lavori statistici importanti della statistica federale;
+- b. i costi finanziari e di personale per la Confederazione;
+- c. gli effetti sui partecipanti e sulle persone interrogate;
+- d. la collaborazione internazionale.
+
+## Sezione 3: Organizzazione della statistica federale
+
+#### Art. 10
+
+**Ufficio federale di statistica**
+
+<sup>1</sup> L’Ufficio federale di statistica (Ufficio federale) è il servizio statistico centrale della Confederazione. Esso fornisce prestazioni di natura statistica alle unità amministrative della Confederazione, agli altri utenti della statistica federale e al pubblico.
+
+<sup>2</sup> L’Ufficio federale coordina la statistica federale ed elabora basi omogenee per la comparabilità nazionale e internazionale. Esso prepara, in collaborazione con gli altri servizi statistici e sentito il parere delle cerchie interessate, il programma pluriennale. Di regola, esso esegue le rilevazioni ed elabora presentazioni statistiche globali, a meno che queste siano state affidate dal Consiglio federale ad un altro servizio statistico o ufficio.
+
+<sup>3</sup> Come strumento ausiliario per l’esecuzione di rilevazioni presso imprese e stabilimenti, l’Ufficio federale, in stretta collaborazione con i Cantoni, tiene un Registro delle imprese e degli stabilimenti (RIS). Il Consiglio federale può prevedere che determinate indicazioni possano essere utilizzate nell’interesse pubblico anche per scopi che si riferiscono a persone.
+
+<sup>3bis</sup> L’Ufficio federale tiene, in stretta collaborazione con i Cantoni, un Registro federale degli edifici e delle abitazioni (REA). Hanno accesso al Registro, per scopi di statistica, ricerca e pianificazione nonché per l’esecuzione di compiti legali, la Confederazione, nonché ciascun Cantone e ciascun Comune per i dati riguardanti il proprio territorio. Il Consiglio federale disciplina la tenuta del Registro ed emana disposizioni particolareggiate sulla protezione dei dati. Sempre che non si tratti di informazioni personali, il Consiglio federale può rendere accessibili al pubblico i dati del Registro.[^10-1]
+
+<sup>3ter</sup> L’Ufficio federale, in stretta collaborazione con le scuole universitarie, tiene un Registro svizzero degli studenti come strumento ausiliario per l’allestimento di statistiche. I Cantoni e le scuole universitarie possono utilizzare le informazioni contenute nel registro per effettuare le verifiche necessarie alla gestione finanziaria e amministrativa e alla salvaguardia dei loro interessi giuridici, conformemente alla convenzione universitaria intercantonale del 20 febbraio 1997[^10-2]. Il Consiglio federale determina le indicazioni che vanno comunicate a tal fine e le modalità di trasmissione.[^10-3]
+
+<sup>3quater</sup> L’Ufficio federale tiene un registro di campionamento come strumento ausiliario per le rilevazioni presso le economie domestiche e le persone. I fornitori di servizi pubblici di telefonia sono tenuti a comunicare all’Ufficio federale i dati necessari relativi ai loro clienti, se disponibili. Essi possono essere indennizzati in parte o interamente per le loro spese. I servizi che collaborano alle rilevazioni non possono utilizzare i dati per propri scopi. I dati del registro di campionamento possono essere utilizzati unicamente per le rilevazioni effettuate conformemente alla presente legge.[^10-4]
+
+<sup>3quinquies</sup> Il Consiglio federale disciplina i dettagli.[^10-5]
+
+<sup>4</sup> Le unità amministrative della Confederazione e gli altri organismi, nella misura in cui sottostanno all’articolo 2 capoverso 3 della presente legge, forniscono all’Ufficio federale, per l’adempimento dei suoi compiti, i risultati e le basi della loro attività statistica e, se necessario, dati provenienti dalle loro collezioni e rilevazioni.
+
+<sup>5</sup> Di regola, l’obbligo del segreto e il blocco dei dati possono giustificare il rifiuto di comunicare all’Ufficio federale le informazioni richieste unicamente se una legge federale vieta espressamente di comunicare o utilizzare dati per scopi statistici. Giusta l’articolo 19 della presente legge e l’articolo 22[^10-6] della legge federale del 19 giugno 1992[^10-7] sulla protezione dei dati, l’Ufficio federale non può comunicare questi dati.
+
+[^10-1]: Introdotto dall’art. 10 della LF del 26 giu. 1998 sul censimento federale della popolazione ([RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1009](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Nuovo testo giusta l’art. 24 n. 1 della LF del 20 mar. 2015 sulle abitazioni secondarie, in vigore dal 1° gen 2016 ([RU 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [FF 2014 2065](https://fedlex.data.admin.ch/eli/fga/2014/409)).
+[^10-2]: [RU 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
+[^10-3]: Introdotto dall’art. 25 della LF dell’8 ott. 1999 sull’aiuto alle università, in vigore dal 1° apr. 2000 fino al 31 dic. 2007 ([RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1009](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)).
+[^10-4]: Introdotto dal n. 2 dell’all. alla LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
+[^10-5]: Introdotto dal n. 2 dell’all. alla LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
+[^10-6]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^10-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 11
+
+**Altri produttori di statistiche della Confederazione**
+
+<sup>1</sup> Le altre unità amministrative della Confederazione nonché le organizzazioni sottoposte in parte alla presente legge eseguono le rilevazioni secondo l’articolo 5 capoversi 2–4. In singoli casi, il Consiglio federale può affidare a un’unità amministrativa o, con l’accordo di questa, a una corporazione o a un istituto sottoposti alla legge l’incarico di eseguire altre rilevazioni.
+
+<sup>2</sup> Gli organi di rilevazione federali, che non si occupano esclusivamente di statistica o di ricerca, designano uno o più servizi statistici per i loro lavori statistici.
+
+<sup>3</sup> L’elaborazione statistica di dati amministrativi della Confederazione spetta di norma all’unità amministrativa, alla corporazione o all’istituto che dispone dei dati. Il trattamento può essere affidato all’Ufficio federale col suo accordo o in virtù di un decreto del Consiglio federale.
+
+<sup>4</sup> L’Ufficio federale consiglia gli altri produttori di statistiche della Confederazione e, nel quadro delle disposizioni sulla protezione dei dati, mette a loro disposizione i dati richiesti.
+
+#### Art. 12
+
+**Coordinamento**
+
+<sup>1</sup> L’Ufficio federale dev’essere consultato sulla forma delle rilevazioni, delle presentazioni statistiche globali nonché delle altre fonti di dati della statistica federale.
+
+<sup>2</sup> L’Ufficio federale si adopera per coordinare la statistica federale con le statistiche cantonali e, in particolare, per armonizzare, in vista della loro elaborazione statistica, i programmi delle rilevazioni e i registri e le altre collezioni di dati.
+
+<sup>3</sup> Esso collabora inoltre con i Cantoni, le università e gli organismi di ricerca nei settori della ricerca e della formazione legati alla statistica.
+
+#### Art. 13
+
+**Commissione della statistica federale**
+
+<sup>1</sup> Il Consiglio federale istituisce una Commissione della statistica federale, che gli fornisce consulenza sulle questioni importanti e consiglia ugualmente i produttori di statistiche della Confederazione.
+
+<sup>2</sup> Nella Commissione sono rappresentati i Cantoni, i Comuni, gli ambienti scientifici ed economici, le parti sociali nonché le unità amministrative della Confederazione e le organizzazioni sottoposte alla presente legge.
+
+## Sezione 4: Protezione e sicurezza dei dati
+
+#### Art. 14
+
+**Protezione dei dati e segreto d’ufficio**
+
+<sup>1</sup> Tutti i dati rilevati o comunicati per scopi statistici non possono essere utilizzati per altri fini, salvo che una legge federale ne disponga espressamente un’altra utilizzazione o la persona interessata vi acconsenta per scritto.
+
+<sup>2</sup> Tutte le persone incaricate di lavori statistici sono tenute a mantenere il segreto sui dati concernenti singole persone fisiche o giuridiche, di cui sono venuti a conoscenza nel loro lavoro. Questo obbligo vale anche in particolare per le persone alle quali, nei Cantoni, nei Comuni e negli altri servizi, è stato chiesto di partecipare alle rilevazioni o hanno ottenuto i dati secondo l’articolo 19.
+
+#### Art. 14a
+
+**Collegamenti di dati**[^14a-1]
+
+<sup>1</sup> Per adempiere i suoi compiti statistici, l’Ufficio federale può collegare dati tra loro se questi vengono resi anonimi. Se si tratta di dati che richiedono una particolare protezione o se dal collegamento emergono profili della personalità, i dati collegati vanno eliminati al termine delle elaborazioni statistiche. Il Consiglio federale disciplina i dettagli.
+
+<sup>2</sup> Per adempiere i loro compiti statistici, i servizi statistici cantonali e comunali possono collegare i dati dell’Ufficio federale con altri dati soltanto previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso.
+
+[^14a-1]: Introdotto dal n. 4 dell’all. alla L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+
+#### Art. 15
+
+**Sicurezza e conservazione dei dati**
+
+<sup>1</sup> Tutti i servizi che trattano dati personali provenienti dalla statistica federale o ad essa destinati devono proteggerli contro ogni trattamento non autorizzato mediante i provvedimenti tecnici e organizzativi che si impongono.
+
+<sup>2</sup> Gli organi responsabili di rilevazioni hanno il diritto di conservare gli elenchi di nomi e indirizzi trattati per la preparazione, l’esecuzione e il coordinamento di rilevazioni soltanto finché sono necessari a questi scopi. Sono salve le disposizioni riguardanti i dati del Registro delle imprese e degli stabilimenti.
+
+<sup>3</sup> Il materiale di rilevazione che, oltre i dati richiesti, contiene nomi o numeri d’identificazione delle persone interessate, può essere trattato solo dagli organi responsabili della rilevazione. Esso dev’essere distrutto non appena ultimato il trattamento dei dati.
+
+<sup>4</sup> I dati possono essere conservati e archiviati presso il servizio statistico competente della Confederazione, presso l’Ufficio federale o, previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso, presso il servizio statistico cantonale, purché non contengano nomi o numeri di identificazione delle persone interessate.[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. 4 dell’all. alla L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+
+#### Art. 16
+
+**Applicazione di altre disposizioni sulla protezione dei dati**
+
+<sup>1</sup> Per la protezione dei dati in tutti i lavori statistici valgono, oltre alle disposizioni della presente legge, le disposizioni della legge federale del 19 giugno 1992[^16-1] sulla protezione dei dati concernenti il trattamento per scopi di ricerca, di pianificazione e di statistica.
+
+<sup>2</sup> Il Consiglio federale emana, per la rilevazione dei dati, come pure per il loro trattamento da parte di organi della Confederazione, le disposizioni completive relative alla protezione e alla sicurezza dei dati.
+
+[^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 17
+
+**Protezione dei dati nei Cantoni**
+
+<sup>1</sup> Per il trattamento dei dati tramite organi cantonali valgono gli articoli 14, 15 e 16 capoverso 1 della presente legge e la legislazione cantonale in materia di trattamento di dati per scopi impersonali, per quanto la stessa sia conforme a tali articoli. In mancanza di tali prescrizioni, si applica il diritto federale.
+
+<sup>2</sup> Se i Cantoni o i Comuni partecipano all’esecuzione di una rilevazione, i Cantoni designano un servizio incaricato di provvedere alla protezione dei dati.
+
+## Sezione 5: Pubblicazioni e prestazioni di servizi
+
+#### Art. 18
+
+**Pubblicazioni**
+
+<sup>1</sup> Le basi e i principali risultati statistici sono pubblicati nelle lingue ufficiali in una forma rispondente ai bisogni degli utenti. I risultati non pubblicati devono essere resi accessibili in modo adeguato.
+
+<sup>2</sup> L’Ufficio federale predispone a questo scopo le attrezzature necessarie; esse sono anche a disposizione degli altri produttori di statistiche per la diffusione dei loro risultati.
+
+<sup>3</sup> Fatte salve le pubblicazioni prescritte dalla legge, i risultati che non sono già stati resi accessibili dalla persona interessata devono essere presentati in una forma che escluda qualsiasi riferimento alla condizione di una singola persona fisica o giuridica.
+
+<sup>4</sup> Il Consiglio federale può limitare l’accesso per altri gravi motivi.
+
+#### Art. 19
+
+**Altre prestazioni**
+
+<sup>1</sup> L’Ufficio federale e gli altri produttori di statistiche eseguono elaborazioni statistiche particolari per le unità amministrative della Confederazione e, nella misura del possibile, per terzi.
+
+<sup>2</sup>
+
+I produttori di statistiche della Confederazione possono comunicare dati personali a servizi statistici e di ricerca federali nonché a terzi, per scopi impersonali, quali ricerca, pianificazione o statistica, se:
+
+- a. i dati sono anonimizzati, non appena lo permette lo scopo del trattamento;
+- b. il destinatario comunica a terzi i dati soltanto con l’autorizzazione del produttore di statistiche;
+- c. il destinatario pubblica i risultati del trattamento in una forma che escluda l’identificazione delle persone implicate e
+- d. se il destinatario presenta le condizioni per il rispetto del segreto statistico e delle altre disposizioni relative alla protezione dei dati.
+
+<sup>3</sup> L’Ufficio federale può eseguire lavori di ricerca, di analisi e di consulenza di durata limitata in rapporto con la statistica federale, a condizione che il mandante se ne assuma i costi o fornisca il personale necessario.
+
+#### Art. 20
+
+**Utilizzazione da parte di terzi**
+
+<sup>1</sup> I risultati statistici pubblicati, resi accessibili o trattati a partire da dati della statistica federale possono essere utilizzati o riprodotti senza autorizzazione relativa ai diritti d’autore, purché rechino l’indicazione della fonte.
+
+<sup>2</sup> Il Consiglio federale può prevedere eccezioni se la loro utilizzazione è a scopo di lucro.
+
+#### Art. 21
+
+**Emolumenti**
+
+Il Consiglio federale fissa gli emolumenti per le pubblicazioni, le prestazioni di servizi e le autorizzazioni.
+
+## Sezione 6: Disposizioni penali****
+
+[^sec6-1]
+
+[^sec6-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+
+#### Art. 22
+
+**Violazione dell’obbligo d’informazione**
+
+Chiunque, in occasione di una rilevazione statistica ordinata in base alla presente legge, fornisce intenzionalmente informazioni false o, nonostante diffida, non soddisfa l’obbligo d’informazione o non lo soddisfa correttamente, è punito con la multa.
+
+#### Art. 23
+
+**Violazione del segreto statistico**
+
+Chiunque, intenzionalmente o per negligenza, viola la disposizione di cui all’articolo 14 comunicando dati che devono restare segreti o utilizzandoli per scopi diversi da quelli statistici, è punito con l’arresto o con la multa.
+
+#### Art. 24
+
+**Procedimento penale**
+
+<sup>1</sup> I Cantoni perseguono e giudicano le violazioni dell’obbligo d’informare, se la rilevazione è eseguita da organi cantonali, e le violazioni del segreto statistico commesse da organi cantonali.
+
+<sup>2</sup> Il dipartimento competente persegue e giudica le altre infrazioni secondo le norme di procedura previste dalla legge federale del 22 marzo 1974[^24-1] sul diritto penale amministrativo.
+
+<sup>3</sup> Per il resto sono applicabili le disposizioni generali del Codice penale svizzero[^24-2] e gli articoli 6 e 7 della legge federale del 22 marzo 1974 sul diritto penale amministrativo.
+
+[^24-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^24-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## Sezione 7: Disposizioni finali
+
+#### Art. 25
+
+**Esecuzione**
+
+<sup>1</sup> Il Consiglio federale è incaricato dell’esecuzione ed emana le relative disposizioni.
+
+<sup>2</sup> Nell’ambito delle proprie competenze, esso può stipulare accordi di collaborazione internazionale.
+
+#### Art. 26
+
+[^26-1]
+
+[^26-1]: Abgrogato dal n. II 20 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 27
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° agosto 1993[^27-1]
+
+[^27-1]: DCF del 30 giu. 1993
+
+Allegato
+
+## Abrogazione e modificazione di atti legislativi
+
+### 1. Legge federale del 23 luglio 1870**** concernente l’assumere dati statistici officiali nella Svizzera
+
+[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: [CS **4** 284]
+
+Abrogata
+
+### 2. Ris. fed. del 17 settembre 1875**** sui quadri statistici delle nascite, dei decessi, dei matrimoni, dei divorzi e delle dichiarazioni di nullità di matrimonio nella Svizzera
+
+[^annexu1-lvlu1-lvl2-1]
+
+[^annexu1-lvlu1-lvl2-1]: [CS **4** 287; [RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)]
+
+Abrogata
+
+### 3. Legge federale del 27 giugno 1973**** concernente l’esecuzione di una statistica scolastica
+
+[^annexu1-lvlu1-lvl3-1]
+
+[^annexu1-lvlu1-lvl3-1]: [[RU 1975 1029](https://fedlex.data.admin.ch/eli/oc/1975/1029_1029_1029)]
+
+Abrogata
+
+### 4. Decreto federale del 30 novembre 1964**** concernente il censimento periodico della circolazione stradale
+
+[^annexu1-lvlu1-lvl4-1]
+
+[^annexu1-lvlu1-lvl4-1]: [[RU 1970 1005](https://fedlex.data.admin.ch/eli/oc/1970/1005_1006_1005)]
+
+Abrogato
+
+### 5. DAF del 14 giugno 1954**** concernente l’esecuzione periodica di un censimento della aziende
+
+[^annexu1-lvlu1-lvl5-1]
+
+[^annexu1-lvlu1-lvl5-1]: [[RU 1954 555](https://fedlex.data.admin.ch/eli/oc/1954/652_666_555), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 26]
+
+Abrogato
+
+### 6. DAF del 12 aprile 1933**** che istituisce una statistica federale del turismo
+
+[^annexu1-lvlu1-lvl6-1]
+
+[^annexu1-lvlu1-lvl6-1]: [CS **4** 288; [RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 27]
+
+Abrogato
+
+### 7.–14.
+
+...[^annexu1-lvlu1-lvl7-1]
+
+[^annexu1-lvlu1-lvl7-1]: Le mod. possono essere consultate alla [RU 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080).

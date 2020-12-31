@@ -1,0 +1,2320 @@
+---
+sr: "741.31"
+title: "Ordonnance du 20 novembre 1959 sur l'assurance des véhicules (OAV)"
+short: OAV
+eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
+language: fr
+version: 2019-02-01
+adopted: 1959-11-20
+in_force: 1959-11-20
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20190201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur l’assurance des véhicules
+
+(OAV)[^t-1]
+
+du 20 novembre 1959 (Etat le 1<sup>er</sup> février 2019)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 6 oct. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1981 ([RO 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Selon la même disp., les art. intercalaires bis ont été remplacés par des art. *a* dans tout le texte.
+
+Le Conseil fédéral suisse,
+
+vu les art. 25, 64, 67, al. 3, 70, al. 3, 72, al. 1, 74, al. 3, 76, al. 3 et 5, 76*a*, al. 5, 76*b*, al. 5, 79*a,* al. 2 et 3, 89, al. 1 et 2, 106, al. 1, et 108, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1] (dénommée ci-après «la loi»),[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+
+## Première partie Dispositions générales
+
+#### Art. 1
+
+**Véhicules automobiles[^1-1]**
+
+<sup>1</sup> Les dispositions de la loi et de la présente ordonnance qui concernent la responsabilité civile et l’assurance pour véhicules automobiles sont applicables à tous les véhicules automobiles, sous réserve des art. 34 à 38.[^1-2]
+
+<sup>2</sup> Sont réservées les dispositions particulières de la loi fédérale du 29 mars 1950 sur les entreprises de trolleybus[^1-3].
+
+[^1-1]: Les tit. marginaux sont transformés en tit. médians dans tout le texte selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^1-3]: [RS 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
+
+#### Art. 2
+
+**Remorques de véhicules automobiles**
+
+<sup>1</sup> Lorsqu’un dommage est causé par une remorque dételée, la responsabilité civile prévue à l’art. 69 de la loi incombe au détenteur de la remorque. Si toutefois, en sa qualité de détentrice d’un véhicule automobile, une autre personne faisait usage de la remorque au moment de l’accident ou en avait fait usage immédiatement avant, c’est elle qui assumera la responsabilité civile pour le dommage causé par la remorque.
+
+<sup>2</sup> Lorsque le responsable est détenteur de plusieurs véhicules automobiles pouvant tirer la remorque, qui sont assurés auprès de différents assureurs, la réparation du dommage incombe à l’assureur du véhicule tracteur auquel la remorque avait été attelée au moment de l’accident ou immédiatement avant. S’il n’existe aucun rapport de ce genre entre la remorque et un véhicule tracteur déterminé, les différents assureurs sont solidairement tenus à réparation envers le lésé. La réparation sera supportée par ces assureurs proportionnellement au nombre des véhicules tracteurs assurés auprès de chacun d’eux.
+
+<sup>3</sup> Lorsqu’un dommage est causé par une remorque qui n’est pas destinée à être tirée par un véhicule automobile, l’art. 69 de la loi n’est applicable que si cette remorque était attelée à un tel véhicule au moment de l’accident ou immédiatement avant.
+
+## Deuxième partie Assurance-responsabilité civile des véhicules automobiles
+
+### Chapitre 1 Assurance minimale et dispositions communes****
+
+[^part2-chap1-1]
+
+[^part2-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+
+### I. Attestation d’assurance
+
+#### Art. 3
+
+**Assurance minimale**[^3-1]
+
+<sup>1</sup> L’assurance couvrira les droits des lésés au moins jusqu’à concurrence du montant de 5 millions de francs par événement, pour l’ensemble des dommages corporels et matériels.
+
+<sup>2</sup> Pour les voitures automobiles et les trains routiers transportant des personnes, la couverture minimale prévue par événement est portée à 10 millions de francs si le véhicule est aménagé pour 10 à 50 personnes et à 20 millions de francs s’il l’est pour plus de 50 personnes.
+
+[^3-1]: Introduit par le ch. I de l’O du 15 oct. 1975 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)). Nouvelle teneur selon le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+
+#### Art. 3a
+
+**Exigibilité**[^3a-1]
+
+<sup>1</sup> Les véhicules automobiles, y compris les remorques ou semi-remorques destinées au transport de personnes, ne seront admis à circuler que si l’autorité dispose d’une attestation d’assurance. Font exception à cette règle les véhicules de la Confédération et des cantons.
+
+<sup>2</sup>
+
+Une nouvelle attestation d’assurance sera remise à l’autorité lorsqu’un véhicule est laissé en circulation ou doit être remis en circulation:
+
+- a. après changement du détenteur;
+- b. après transfert du lieu de stationnement dans un autre canton;
+- c. après restitution des plaques de contrôle à l’autorité compétente (art. 68, al. 3, de la loi);
+- d. après que l’assureur a annoncé la suspension ou la cessation de l’assurance (art. 68, al. 2, de la loi);
+- e. après substitution de la plaque par une autre portant un numéro différent.
+
+<sup>3</sup> Dans les cas prévus à l’al. 2, let. a et b, l’assureur ne peut pas opposer au lésé l’absence d’une nouvelle attestation d’assurance tant que le véhicule est au bénéfice de l’ancien permis de circulation.
+
+<sup>4</sup>
+
+Les autorités d’admission annoncent à l’Office fédéral des routes (OFROU), conformément aux prescriptions de l’annexe 1:[^3a-2]
+
+- a. l’admission du véhicule (avis de contrôle);
+- b. le retrait du véhicule de la circulation.
+
+<sup>5</sup> L’OFROU[^3a-3] transmet les données visées à l’al. 4 à l’assureur qui a établi l’attestation d’assurance.
+
+[^3a-1]: Anciennement art. 3. Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+[^3a-3]: Nouvelle expression selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 4
+
+**Contenu et forme**
+
+<sup>1</sup> L’attestation d’assurance contiendra les indications nécessaires au sujet du véhicule, du détenteur et de l’assureur; elle reproduira les conditions du contrat d’assurance qui sont essentielles pour l’application de la présente ordonnance et indiquera le jour à partir duquel court la garantie d’assurance.
+
+<sup>2</sup> Sont considérées comme nulles toutes conditions de l’attestation d’assurance, y compris les restrictions ou les limitations de durée, qui ne sont pas prévues par la présente ordonnance.
+
+<sup>3</sup> Établies par voie électronique, les attestations d’assurance sont transmises par l’assureur au système d’information relatif à l’admission à la circulation. Leur forme et leur mode de transmission sont fixés à l’annexe 1.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. II 7 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+
+#### Art. 5
+
+**Délivrance des attestations**
+
+<sup>1</sup>
+
+Les attestations d’assurance peuvent être établies:
+
+- a. par les entreprises d’assurances qui sont autorisées à pratiquer en Suisse l’assurance-responsabilité civile pour véhicules automobiles en vertu de la législation fédérale concernant la surveillance des entreprises en matière d’assurance;
+- b.[^5-1] par l’administration fédérale et La Poste Suisse pour les véhicules de la Confédération qui ne sont pas assurés auprès d’une compagnie d’assurances.
+
+<sup>2</sup> L’Autorité fédérale de surveillance des marchés financiers[^5-2] communique aux autorités cantonales la liste des entreprises désignées à l’al. 1, let. a, et leur fait connaître les modifications qui interviennent.[^5-3]
+
+<sup>3</sup> Les attestations d’assurance établies pour le début d’un mois en faveur d’un assuré seront transmises de telle manière que l’autorité cantonale puisse permettre la mise en circulation du véhicule les deux derniers jours ouvrables du mois précédent.[^5-4]
+
+<sup>4</sup> Les certificats d’assurance internationaux (cartes vertes) sont délivrés par le Bureau national d’assurance ou, avec son approbation, par les assureurs autorisés à pratiquer en Suisse l’assurance-responsabilité civile pour les véhicules automobiles.[^5-5]
+
+[^5-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^5-5]: Introduit par le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+
+#### Art. 6
+
+**Contrôle et conservation du document**
+
+<sup>1</sup> L’autorité refusera l’attestation d’assurance si les indications qu’elle contient sont incomplètes ou inexactes. Dans le doute, l’autorité se procurera les renseignements nécessaires ou informera l’assureur. Cette règle est applicable par analogie s’il y a des raisons de croire que les faits mentionnés dans l’attestation se sont modifiés ultérieurement.
+
+<sup>2</sup> L’OFROU conserve sous forme électronique les attestations d’assurance pendant leur validité et encore trois ans après leur expiration.[^6-1]
+
+<sup>3</sup> …[^6-2]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^6-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> juil. 1992, avec effet au 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+
+### II. Suspension et cessation de l’assurance
+
+#### Art. 7
+
+**Avis donné par l’assureur**
+
+<sup>1</sup> L’assureur annoncera à l’autorité la suspension ou la cessation de l’assurance au plus tôt le jour où expire la garantie prévue par le contrat d’assurance. Lorsqu’il prend lui-même l’initiative de la suspension ou de la cessation du contrat, l’assureur doit attirer l’attention du preneur d’assurance sur les conséquences de l’avis qu’il s’apprête à envoyer à l’autorité.
+
+<sup>2</sup> A la réception de l’avis donné par l’assureur, l’autorité retirera immédiatement le permis de circulation, conformément à l’art. 16, al. 1, de la loi, et chargera la police de saisir le permis de circulation et les plaques.
+
+<sup>3</sup> Le retrait du permis devient caduc si l’autorité dispose d’une nouvelle attestation d’assurance.[^7-1]
+
+<sup>4</sup> Lorsque l’autorité ne dispose d’aucune attestation d’assurance et que les plaques ne lui sont pas parvenues 30 jours après l’expiration de la garantie prévue par le contrat d’assurance, elles feront l’objet d’une publication dans le système de recherches informatisées de police (RIPOL).[^7-2]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+
+#### Art. 7a
+
+**Faillite d’un assureur**[^7a-1]
+
+<sup>1</sup> Si la faillite est prononcée contre un assureur, l’Autorité fédérale de surveillance des marchés financiers en avisera immédiatement les autorités cantonales d’immatriculation.
+
+<sup>2</sup> L’autorité cantonale invite sans délai les détenteurs de véhicule à lui transmettre une nouvelle attestation d’assurance ou à déposer les plaques de contrôle dans les quatre semaines.[^7a-2]
+
+<sup>3</sup> Lorsqu’à la fin de ce délai, l’autorité ne dispose d’aucune nouvelle attestation d’assurance ou que les plaques de contrôle ne lui sont pas parvenues, elle prononcera immédiatement une décision de retrait du permis de circulation, conformément à l’art. 16, al. 1, de la loi, et chargera la police de saisir le permis de circulation et les plaques, qui feront l’objet d’une publication dans RIPOL.[^7a-3]
+
+[^7a-1]: Introduit par le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^7a-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^7a-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+
+#### Art. 8
+
+**Dépôt du permis de circulation et des plaques**
+
+<sup>1</sup> Le détenteur qui veut suspendre les effets de l’assurance doit déposer les plaques auprès de l’autorité compétente (art. 68, al. 3, LCR). S’il ne remet plus le véhicule en circulation, il doit également déposer le permis de circulation. Dans le cas contraire, l’autorité cantonale peut bloquer les plaques pour la durée requise.[^8-1]
+
+<sup>2</sup> Le permis et les plaques peuvent, en tout temps, être déposés auprès de l’autorité ou lui être envoyés par la poste. Les effets de l’assurance sont suspendus le lendemain du dépôt ou de l’expédition. Les services désignés pour recevoir le dépôt des permis et des plaques en établiront une liste, qui indiquera en outre le jour à partir duquel les effets de l’assurance sont suspendus.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+
+### III. Véhicules de remplacement et autorisation provisoire de circuler****
+
+[^part2-chap1-lvlIII-1]
+
+[^part2-chap1-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+
+#### Art. 9
+
+**Autorisation officielle**
+
+<sup>1</sup> Il n’est permis de transférer les plaques de contrôle d’un véhicule automobile sur un véhicule de remplacement qu’après avoir obtenu, dans chaque cas, une autorisation écrite de l’autorité compétente.
+
+<sup>2</sup> L’autorisation est accordée si un véhicule circulant avec des plaques suisses ne peut être utilisé pour cause de détérioration, de réparation, de revision, de transformation, etc., et que le véhicule de remplacement est en parfait état de fonctionnement.[^9-1]
+
+<sup>3</sup> Pour le contrôle subséquent des véhicules de remplacement, l’art. 33 de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^9-2] est applicable par analogie.[^9-3]
+
+<sup>4</sup>
+
+Seul peut être admis comme véhicule de remplacement:
+
+- a. pour un motocycle, un autre motocycle, et pour un motocycle léger, un autre motocycle léger;
+- b. pour un quadricycle léger à moteur, un autre quadricycle léger à moteur;
+- c. pour un tricycle à moteur, un autre tricycle à moteur ou un quadricycle à moteur;
+- d. pour un quadricycle à moteur, un autre quadricycle à moteur ou un tricycle à moteur;
+- e. pour une voiture automobile légère, une autre voiture automobile légère;
+- f. pour une voiture de tourisme lourde, une autre voiture de tourisme;
+- g.[^9-4] pour une voiture automobile lourde affectée au transport de choses une autre voiture automobile affectée au transport de choses;
+- h. pour un autocar, un autre autocar dont le nombre de places n’exige pas, selon l’art. 3, al. 2, une garantie supérieure d’assurance;
+- i. pour un tracteur industriel, un autre tracteur industriel;
+- k.[^9-5] pour un véhicule automobile agricole et forestier, un autre véhicule automobile agricole et forestier;
+- l. pour une machine de travail lourde ou légère, une autre machine de travail, et pour un chariot de travail, un autre chariot de travail;
+- m. pour une remorque, une autre remorque du même genre ou d’un genre semblable; pour les remorques affectées au transport de personnes, la let. h s’applique par analogie.[^9-6]
+
+<sup>5</sup> Pour de justes motifs, l’autorité peut déroger à l’al. 4 lorsqu’elle dispose d’une attestation d’assurance pour le véhicule de remplacement; une attestation d’assurance n’est toutefois pas nécessaire pour les remorques ne servant pas au transport de personnes.[^9-7]
+
+<sup>6</sup> Dans les cas de rigueur justifiés, l’autorité peut autoriser qu’une voiture de tourisme ou un minibus sans tachygraphe serve de véhicule de remplacement, lorsqu’un véhicule automobile léger ou une voiture de tourisme lourde affecté au transport professionnel de personnes n’est pas utilisable pour cause d’avarie ou de réparation. Dans ce cas, la tenue du livret de travail se fonde sur l’art. 18, al. 4, de l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes[^9-8] ainsi que sur l’art. 15, al. 1, de l’ordonnance du 19 juin 1995 sur les chauffeurs[^9-9].[^9-10]
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’ACF du 5 sept. 1967, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1967 1336](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)[1532](https://fedlex.data.admin.ch/eli/oc/1967/_1532_)).
+[^9-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^9-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^9-6]: Nouvelle teneur selon le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^9-7]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^9-8]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^9-9]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^9-10]: Introduit par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 10
+
+**Procédure, délai**
+
+<sup>1</sup> L’autorisation d’utiliser un véhicule de remplacement n’est délivrée que si le permis de circulation du véhicule à remplacer est remis à l’autorité.
+
+<sup>2</sup> L’autorisation sera limitée à 30 jours au plus.[^10-1]
+
+<sup>3</sup> A l’expiration du délai, l’autorisation sera restituée immédiatement à l’autorité. Si le détenteur ne se conforme pas à cette obligation, l’autorité prendra les mesures qui s’imposent.
+
+<sup>4</sup> …[^10-2]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^10-2]: Introduit par l’art. 152 ch. I de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)). Abrogé par le ch. I de l’O du 11 avr. 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 10a
+
+**Autorisation générale d’utiliser des véhicules de remplacement**[^10a-1]
+
+<sup>1</sup> L’autorité peut délivrer des autorisations générales d’utiliser des véhicules de remplacement à des entreprises qui disposent de leurs propres véhicules de remplacement. Une autorisation générale d’utiliser un véhicule de remplacement doit être délivrée lorsque plusieurs détenteurs individuels disposent d’un véhicule de remplacement commun et appartiennent à une organisation qu’ils utilisent conjointement, par exemple à un centre d’appel de taxis. L’autorisation doit être limitée à une année et peut être chaque fois prolongée d’un an.
+
+<sup>2</sup>
+
+L’autorisation est délivrée:
+
+- a. si le véhicule de remplacement présente toutes les garanties de sécurité, et
+- b. si le dernier contrôle officiel du véhicule de remplacement effectué en cas de délivrance ou de prolongation de l’autorisation n’est pas antérieur au dernier contrôle officiel effectué pour l’immatriculation ordinaire.
+
+<sup>3</sup> Les numéros des plaques de contrôle et la marque du ou des véhicules à remplacer doivent être inscrits dans le permis de circulation pour véhicules de remplacement ou dans une annexe au permis de circulation. Lorsqu’un véhicule de remplacement est attribué à plusieurs détenteurs individuels, il y a lieu d’inscrire l’appellation de l’organisation qu’ils utilisent conjointement, par exemple celle d’un centre d’appel de taxis.
+
+<sup>4</sup> Le permis de circulation pour véhicules de remplacement n’est valable qu’à la condition que le conducteur en soit porteur, en plus du permis de circulation du véhicule remplacé.
+
+[^10a-1]: Introduit par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 10b
+
+**Autorisation provisoire de circuler**[^10b-1]
+
+<sup>1</sup>
+
+Le détenteur peut utiliser, en trafic intérieur, avant d’avoir obtenu le permis de circulation, un véhicule expertisé portant les plaques de contrôle du véhicule lui appartenant appelé à être retiré de la circulation, à condition:
+
+- a. qu’il existe une attestation d’assurance valable, exception faite des remorques qui ne sont pas affectées au transport de personnes ni à celui de marchandises dangereuses;
+- b. que les documents visés à l’art. 74, al. 1, let. a et b, ch. 1, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière (OAC)[^10b-2] et que le permis de circulation du véhicule appelé à être retiré de la circulation aient été remis en main propre ou par la poste à l’autorité d’immatriculation et, qu’en outre, le cas échéant, les documents visés à l’art. 81, al. 3, OAC et aux art. 16, al. 2 ou 15, al. 5, de l’ordonnance du 6 mars 2000 relative à une redevance sur le trafic des poids lourds (ORPL)[^10b-3] y aient été joints; et
+- c. que la déclaration figurant à l’annexe 5 ait été dûment remplie par le détenteur et qu’elle soit conservée dans le véhicule.
+
+<sup>2</sup> L’autorisation est valable 30 jours au maximum à compter du premier jour de validité de l’attestation d’assurance.
+
+<sup>3</sup> Elle est valable pour les véhicules automobiles lourds entre eux, pour les véhicules automobiles légers entre eux et pour les remorques entres elles, si ces véhicules peuvent porter des plaques de contrôle du même genre, ainsi que pour les véhicules automobiles et les remorques utilisés avec des plaques interchangeables. Elle n’est toutefois pas valable pour les véhicules automobiles et les remorques qui sont immatriculés provisoirement ou utilisés avec des permis à court terme.
+
+<sup>4</sup> La date du sceau postal détermine la date du retrait de la circulation et de la mise en circulation.
+
+<sup>5</sup> Lorsque l’attestation d’assurance n’a pas été transmise ou ne l’a pas été dans les temps, l’assurance-responsabilité civile valable pour le véhicule à remplacer s’étend au nouveau véhicule pendant 30 jours au plus à compter de sa mise en service. L’assureur peut se retourner contre le détenteur fautif.[^10b-4]
+
+[^10b-1]: Introduit par le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^10b-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^10b-3]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^10b-4]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+
+### Chapitre 2 Conditions particulières
+
+### I. Risques spéciaux
+
+#### Art. 11
+
+**Catégories de risques**
+
+<sup>1</sup> Une autorisation officielle, qui sera annotée dans le permis de circulation, est nécessaire pour effectuer, au moyen d’un véhicule automobile ou d’une remorque, des transports de marchandises dangereuses, qui nécessitent une garantie d’assurance plus élevée, selon l’art. 12 de la présente ordonnance. L’autorisation n’est délivrée que si le risque spécial est annoté dans l’attestation d’assurance.[^11-1]
+
+<sup>2</sup> Les voitures automobiles comprenant plus de neuf places, siège du conducteur inclus, ne seront admises à circuler que si l’attestation d’assurance mentionne pour le moins autant de places qu’en comprend le véhicule.[^11-2]
+
+<sup>3</sup> L’assureur ne peut opposer au lésé l’absence d’une garantie contractuelle pour les risques spéciaux mentionnés dans le présent article.
+
+[^11-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 25 mars 1998, en vigueur depuis le 1<sup>er</sup> mai 1998 ([RO 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+
+#### Art. 12
+
+**Transports de marchandises dangereuses**
+
+<sup>1</sup> Pour les véhicules automobiles et les trains routiers transportant des marchandises dangereuses, la garantie d’assurance sera d’au moins 15 millions de francs par événement, pour l’ensemble des dommages corporels et matériels.[^12-1] Les dommages corporels seront couverts par priorité. Lorsque des marchandises dangereuses sont transportées uniquement dans une remorque, il convient de contracter, pour cette dernière, une assurance complémentaire.[^12-2]
+
+<sup>2</sup> Sauf disposition contraire du contrat d’assurance, la garantie spéciale prévue à l’al. 1 n’est accordée que si le dommage a été effectivement causé par les propriétés dangereuses des marchandises transportées.
+
+<sup>3</sup> La liste des marchandises dangereuses est établie par le Conseil fédéral.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^12-2]: Nouvelle teneur selon l’art. 29 al. 2 ch. 4 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route (SDR), en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)).
+
+### II. Plaques interchangeables
+
+#### Art. 13
+
+**Conditions générales**
+
+<sup>1</sup> Sur demande, des plaques interchangeables seront délivrées conformément aux dispositions suivantes.
+
+<sup>2</sup> Une plaque interchangeable ou un jeu de plaques interchangeables ne sera attribué qu’aux véhicules ayant le même détenteur et dont le lieu de stationnement se trouve dans le même canton. Des plaques interchangeables seront délivrées pour deux véhicules au plus. Cette restriction ne s’applique pas aux voitures automobiles de travail et aux remorques. Il est interdit d’utiliser, pour un véhicule, plus d’une plaque interchangeable ou plus d’un jeu de telles plaques.[^13-1]
+
+<sup>3</sup> Une plaque interchangeable ou un jeu de plaques interchangeables ne peut être attribué qu’à des véhicules automobiles d’une part, ou à des remorques d’autre part, si ces véhicules peuvent en outre circuler avec des plaques du même genre.[^13-2]
+
+<sup>4</sup> Un permis de circulation distinct doit être délivré pour chaque véhicule auquel sont attribuées des plaques interchangeables.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’ACF du 5 sept. 1967, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1967 1336](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)[1532](https://fedlex.data.admin.ch/eli/oc/1967/_1532_)).
+
+#### Art. 14
+
+**Usage des plaques**
+
+<sup>1</sup> Parmi les véhicules auxquels est attribuée une plaque interchangeable, ou un jeu de telles plaques, seul peut circuler sur la voie publique celui qui est muni de la plaque ou du jeu de plaques.
+
+<sup>2</sup> En cas de contravention à cette disposition, l’autorisation d’employer des plaques interchangeables peut être retirée temporairement ou définitivement au détenteur en faute.
+
+#### Art. 15
+
+**Assurance**
+
+<sup>1</sup> Pour chaque véhicule auquel sera attribuée une plaque interchangeable, ou un jeu de telles plaques, il est nécessaire de présenter une attestation distincte d’assurance, pouvant porter une mention spéciale.
+
+<sup>2</sup> Lorsqu’un véhicule au bénéfice d’une plaque interchangeable ou d’un jeu de telles plaques fait l’objet d’une nouvelle immatriculation et reçoit une plaque portant un autre numéro, une nouvelle attestation d’assurance sera présentée.
+
+<sup>3</sup> L’assureur ne peut opposer aux lésés l’emploi simultané de plusieurs véhicules automobiles auxquels est attribué un jeu de plaques interchangeables; il a toutefois la possibilité, dans les cas de ce genre, de recourir contre le détenteur.
+
+### III. Immatriculation provisoire
+
+#### Art. 16
+
+**Cas d’application**
+
+<sup>1</sup> Seront immatriculés provisoirement les véhicules automobiles dont le lieu de stationnement ne se trouve en Suisse que pour une durée limitée ou qui n’y séjournent plus que pour peu de temps.[^16-1]
+
+<sup>2</sup> Les véhicules non dédouanés, dont le détenteur n’est pas au bénéfice des privilèges et immunités diplomatiques, ne peuvent être immatriculés qu’à titre provisoire et seulement avec l’accord des autorités douanières.
+
+<sup>3</sup> Sont réservées les dispositions concernant les véhicules qui sont admis en circulation internationale sous le couvert de permis étrangers et de plaques étrangères.
+
+[^16-1]: Nouvelle teneur selon l’art. 152 ch. I de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+
+#### Art. 17
+
+**Permis de circulation**
+
+<sup>1</sup> Pour les véhicules automobiles immatriculés provisoirement, il est délivré un permis spécial de circulation. Sa durée de validité sera limitée conformément aux dispositions suivantes, de telle sorte qu’elle expire au plus tard le jour indiqué par l’attestation d’assurance et toujours à la fin d’un mois.
+
+<sup>2</sup> La validité du permis prendra fin au plus tard douze mois après sa délivrance. Toutefois, la validité des permis délivrés en octobre ou en novembre peut s’étendre jusqu’à la fin de l’année suivante. Il est possible de prolonger jusqu’aux termes indiqués ci-dessus les permis qui ont été établis pour une période de plus courte durée.
+
+<sup>3</sup> L’immatriculation provisoire d’un véhicule peut être prolongée par l’autorité compétente si des raisons suffisantes le justifient. Lorsque la durée de validité d’une immatriculation provisoire expire pendant un séjour à l’étranger, les autorités douanières peuvent, en cas de retour au pays, autoriser l’utilisation du véhicule pendant 48 heures au maximum, à la condition que soit conclue une assurance-frontière au sens de l’art. 45[^17-1] de la présente ordonnance.[^17-2]
+
+<sup>4</sup> Pendant la durée de l’immatriculation provisoire, le véhicule est réputé avoir son lieu de stationnement sur le territoire du canton qui était compétent pour délivrer le permis. Toutefois, la compétence de prolonger l’immatriculation provisoire appartient au canton sur le territoire duquel le véhicule serait nouvellement stationné.[^17-3]
+
+<sup>5</sup> Avant de délivrer le permis, l’autorité peut exiger le paiement des émoluments et de l’impôt dû pour toute la durée du permis ou des sûretés équivalentes. Des cautions supplémentaires ne sauraient être demandées.
+
+[^17-1]: Actuellement: art. 44
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^17-3]: Nouvelle teneur selon le ch. II de l’O du 15 avr. 1987, en vigueur depuis le 1<sup>er</sup> mai 1987 ([RO 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
+
+#### Art. 18
+
+**Plaques et vignettes de contrôle**
+
+<sup>1</sup> Pour les véhicules automobiles immatriculés provisoirement, l’autorité délivrera des plaques spéciales, conformes à l’annexe 2, let. A, de la présente ordonnance.[^18-1] La validité des plaques de contrôle échoit en même temps que celle du permis de circulation. Il n’est pas nécessaire de les restituer à l’autorité qui les a délivrées, lorsque la durée de l’immatriculation provisoire, indiquée dans le permis de circulation, est échue; toutefois, elles seront saisies d’office en cas d’usage abusif.
+
+<sup>2</sup> Chaque plaque est munie d’une vignette de contrôle conforme à l’annexe 2, let. B, de la présente ordonnance; la vignette de contrôle indique l’année et le mois à la fin desquels expire la validité de l’immatriculation provisoire.[^18-2]
+
+[^18-1]: Nouvelle teneur selon le ch. II de l’O du 15 avr. 1987, en vigueur depuis le 1<sup>er</sup> mai 1987 ([RO 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, avec effet au 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+
+#### Art. 19
+
+<sup>1</sup> Pour l’immatriculation provisoire, l’autorité doit disposer d’une attestation d’assurance de durée limitée.[^19-1]
+
+<sup>2</sup> Pendant la durée de l’immatriculation provisoire, indiquée dans le permis de circulation, la suspension ou la cessation de l’assurance ne produira effet à l’égard des lésés que si le permis et les plaques ont été déposés auprès de l’autorité ou saisis par elle, mais au plus tôt le lendemain de leur expédition, de leur dépôt ou de leur saisie.
+
+<sup>3</sup> Quant au reste, la garantie d’assurance s’éteindra au plus tôt à l’égard des lésés le quinzième jour après l’échéance de la durée de l’immatriculation provisoire, indiquée dans le permis de circulation.
+
+<sup>4</sup> …[^19-2]
+
+<sup>5</sup> …[^19-3]
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^19-2]: Abrogé par le ch. I de l’O du 29 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^19-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> juil. 1992, avec effet au 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+
+### IV. Permis à court terme
+
+#### Art. 20
+
+**Délivrance**[^20-1]
+
+<sup>1</sup> Sur la demande de personnes domiciliées en Suisse, il est délivré des permis à court terme pour des véhicules automobiles ou des remorques présentant toutes les garanties de sécurité.
+
+<sup>2</sup> Le requérant doit confirmer que le véhicule présente toutes les garanties de sécurité. L’autorité peut contrôler elle-même la sécurité de fonctionnement ou exiger une attestation établie par un atelier de réparation qu’elle a agréé.
+
+<sup>3</sup> L’autorité peut exiger du requérant qu’il présente d’autres documents, tels que le permis de circulation ou le rapport d’expertise. Elle peut exiger le dépôt d’une caution appropriée permettant de garantir les frais occasionnés lorsque les plaques de contrôle ne sont pas restituées dans les délais.
+
+<sup>4</sup> Les permis à court terme sont établis pour une durée de 24, 48, 72 ou 96 heures.
+
+<sup>5</sup> Les plaques de contrôle délivrées avec le permis à court terme doivent être restituées ou envoyées par la poste à l’autorité compétente au plus tard à l’expiration de la validité du permis.
+
+<sup>6</sup> Les détenteurs qui n’observent pas les conditions liées à l’usage du permis à court terme peuvent se voir refuser ultérieurement la délivrance de tels permis.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 20a
+
+**Usage**[^20a-1]
+
+<sup>1</sup> Les véhicules au bénéfice d’un permis à court terme ne peuvent servir qu’à des transports non rémunérés et ne doivent pas être donnés en location; huit personnes au plus outre le conducteur peuvent y prendre place.
+
+<sup>2</sup>
+
+Les permis à court terme ne peuvent être utilisés pour:
+
+- a. le transport de marchandises dangereuses, pour lequel il est exigé une garantie d’assurance plus élevée en vertu de l’art. 12;
+- b. les transports de choses au moyen de véhicules automobiles lourds ou de remorques dont le poids total excède 3500 kg, sauf pour les transports visés à l’art. 24, al. 4, let. a et b, et 5.
+
+[^20a-1]: Introduit par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 21
+
+**Assurance**
+
+<sup>1</sup> Le détenteur qui désire obtenir un permis à court terme doit adhérer au contrat collectif d’assurance-responsabilité civile à conclure par les cantons. L’al. 5 est réservé.
+
+<sup>2</sup> Le détenteur paiera sa quote-part de la prime avant de recevoir le permis. S’il ne restitue pas à temps à l’autorité les plaques de contrôle après l’échéance de leur validité, il est tenu de verser une prime additionnelle pour chaque jour supplémentaire.[^21-1]
+
+<sup>3</sup> Lorsque, après l’échéance de leur validité, les plaques de contrôle n’ont pas été remises à temps à l’autorité, cette dernière les fait saisir par la police.[^21-2]
+
+<sup>4</sup> La garantie d’assurance ainsi que l’obligation de payer des primes prennent fin en tout cas soixante jours après l’échéance de la validité du permis.
+
+<sup>5</sup> Lorsqu’un permis à court terme est délivré pour permettre d’amener un véhicule automobile au contrôle officiel en vue de son immatriculation, ce permis sera établi en fonction de l’attestation d’assurance décernée pour le véhicule.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+### V. Permis de circulation collectifs
+
+#### Art. 22
+
+**Catégories et nature des permis**[^22-1]
+
+<sup>1</sup>
+
+Conjointement avec des plaques professionnelles, il peut être délivré des permis de circulation collectifs pour:[^22-2]
+
+- a. des voitures automobiles;
+- b.[^22-3] des motocycles;
+- c. des motocycles légers;
+- d. des véhicules automobiles agricoles et forestiers[^22-4];
+- e. des véhicules de travail équipés d’un moteur;
+- f. des remorques.
+
+<sup>2</sup>
+
+Outre aux véhicules visés à l’al. 1, il est permis de fixer:[^22-5]
+
+- a.[^22-6] des plaques professionnelles pour voitures automobiles à tous les véhicules automobiles à voies multiples qui ne sont pas des motocycles;
+- b.[^22-7] une plaque professionnelle pour motocycles à tous les véhicules automobiles qui ne sont pas des voitures automobiles;
+- c.[^22-8] une plaque professionnelle pour motocycles légers aux quadricycles légers à moteur et aux cyclomoteurs;
+- d. toutes les plaques professionnelles à des véhicules spéciaux de la catégorie correspondante;
+- e.[^22-9] la plaque professionnelle pour véhicules automobiles agricoles et forestiers à des remorques et trains routiers agricoles et forestiers.[^22-10]
+
+<sup>2bis</sup> Lorsqu’une remorque est attelée à une voiture automobile, il est possible d’utiliser la plaque de contrôle arrière du véhicule tracteur comme plaque de la remorque.[^22-11]
+
+<sup>3</sup> L’utilisation de plaques professionnelles ne lève ni l’obligation de respecter les restrictions relatives à l’usage et à la circulation des véhicules de travail et des véhicules agricoles et forestiers, ni celle d’obtenir l’autorisation exigée pour les véhicules spéciaux.[^22-12]
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’ACF du 5 sept. 1967, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1967 1336](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)[1532](https://fedlex.data.admin.ch/eli/oc/1967/_1532_)).
+[^22-2]: Nouvelle teneur selon l’art. 152 ch. I de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^22-4]: Nouvelle expression selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Il a été tenu compte de cette mod. dans tout le texte.
+[^22-5]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^22-6]: Nouvelle teneur selon le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-7]: Nouvelle teneur selon le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-8]: Nouvelle teneur selon le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-9]: Introduite par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^22-10]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^22-11]: Introduit par le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-12]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+
+#### Art. 23
+
+**Conditions de la délivrance**[^23-1]
+
+<sup>1</sup>
+
+Le permis de circulation collectif ne sera délivré qu’aux entreprises qui satisfont aux conditions énoncées à l’annexe 4 et:
+
+- a. qui disposent des autorisations nécessaires pour le type d’exploitation;
+- b. qui offrent la garantie de l’utilisation irréprochable du permis de circulation collectif; et
+- c. qui ont conclu l’assurance prescrite à l’art. 71, al. 2, de la loi, pour autant qu’il s’agisse d’entreprises de la branche automobile.
+
+<sup>2</sup> L’autorité cantonale peut exceptionnellement déroger aux conditions énoncées à l’annexe 4 en faveur du requérant ou du titulaire si l’évaluation générale de l’entreprise révèle qu’il est possible de délivrer les plaques professionnelles sans risques pour la sécurité routière et pour l’environnement.[^23-2]
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^23-2]: Introduit par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 23a
+
+**Retrait**[^23a-1]
+
+<sup>1</sup> Le permis de circulation collectif sera retiré lorsque les conditions de la délivrance ne sont plus remplies.
+
+<sup>2</sup> La garantie de l’usage irréprochable du permis de circulation collectif n’est plus assurée notamment lorsque le titulaire du permis en a fait ou a toléré un usage abusif, par exemple en négligeant d’exercer la surveillance nécessaire ou en mettant en circulation un véhicule qui ne présente pas toutes les garanties de sécurité. Dans les cas de peu de gravité, le titulaire du permis peut être menacé d’un retrait.[^23a-2]
+
+[^23a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^23a-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 24
+
+**Usage des plaques**[^24-1]
+
+<sup>1</sup> Le permis de circulation collectif donne le droit de fixer les plaques professionnelles qu’il mentionne à des véhicules du genre indiqué dans le permis, contrôlés ou non, en parfait état de fonctionnement et répondant aux prescriptions. Le véhicule ne doit pas répondre en tous points aux prescriptions lors des courses devant permettre de constater un défaut ou de contrôler une réparation.
+
+<sup>2</sup> Le titulaire du permis de circulation collectif est responsable, au même titre qu’un détenteur, du parfait état de fonctionnement du véhicule et de sa conformité aux prescriptions (art. 93, ch. 2, de la loi).
+
+<sup>3</sup>
+
+Il est permis d’utiliser des plaques professionnelles:
+
+- a. pour les courses de dépannage et pour les remorquages;
+- b. pour les courses de transfert ou d’essais, effectuées en rapport avec le commerce de véhicules, avec des réparations ou des transformations exécutées sur le véhicule;
+- c. pour les courses d’essais de véhicules neufs à effectuer par des constructeurs ou des importateurs;
+- d. pour permettre à des experts en automobiles d’examiner des véhicules;
+- e. pour la présentation des véhicules aux contrôles officiels et pour les courses effectuées lors de ces contrôles;
+- f. pour les courses gratuites de tout genre, à condition que neuf personnes au plus, le conducteur y compris, se trouvent dans ou sur le véhicule.
+
+<sup>4</sup>
+
+Les véhicules automobiles lourds munis de plaques professionnelles ne peuvent être utilisés que pour les transports de choses suivants:
+
+- a. les transports de pièces détachées de véhicules en vue d’effectuer, dans l’entreprise elle-même, des réparations ou des transformations d’un véhicule;
+- b. les transports de lest dans les cas mentionnés à l’al. 3, let. b à e;
+- c. les remorquages, dépannages et transferts de véhicules en panne ou endommagés à la suite d’un accident, du lieu de l’accident ou de la panne à l’atelier de réparation le plus proche ou à l’entreprise du détenteur du permis de circulation collectif.
+
+<sup>5</sup> Dans le cas mentionné à l’al. 3, let. a et f, et à l’al. 4, let a et c, les plaques professionnelles ne peuvent être fixées qu’à des véhicules dédouanés et dont l’impôt prélevé conformément à la loi du 21 juin 1996 sur l’imposition des véhicules automobiles[^24-2] a été acquitté. Dans le cas de à l’al. 4, let. a, les plaques professionnelles peuvent être fixées à des véhicules non dédouanés ou non imposés dans la mesure où les pièces transportées sont destinées à des travaux sur le véhicule.[^24-3]
+
+<sup>6</sup> Lorsque des plaques professionnelles sont fixées à des véhicules automobiles ou des remorques affectés au transport de choses et que lesdits véhicules sont chargés, le conducteur doit être porteur, en plus du permis de circulation collectif, d’un document indiquant le poids total autorisé (p. ex. la réception, la garantie du fabricant ou le permis de circulation établi lors d’une immatriculation antérieure) et, en outre, lorsque des plaques professionnelles sont fixées à des trains routiers, d’un certificat relatif à la charge remorquable autorisée.[^24-4] Le transport de marchandises dangereuses requiert une autorisation officielle et l’assurance complémentaire exigée par l’art. 12.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^24-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^24-3]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^24-4]: Nouvelle teneur selon le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+
+#### Art. 25
+
+**Personnes autorisées à faire usage de telles plaques**[^25-1]
+
+<sup>1</sup>
+
+Un véhicule automobile muni de plaques professionnelles ou tirant une remorque munie d’une telle plaque ne peut circuler, sous réserve des al. 2 et 3, qu’à condition qu’une des personnes désignées ci-après conduise le véhicule ou accompagne le conducteur:[^25-2]
+
+- a. l’exploitant ou un des employés de l’entreprise;
+- b. le parent proche de l’exploitant ou du chef de l’entreprise (directeur, gérant, chef d’exploitation ou de vente) s’il vit en ménage commun avec celui-ci.[^25-3]
+
+<sup>2</sup> Lorsque le transfert d’un véhicule est effectué dans l’intérêt de l’entreprise, l’exploitant ou le chef de l’entreprise peut autoriser une autre personne à se servir de plaques professionnelles, à condition toutefois que cette personne conduise le véhicule.[^25-4]
+
+<sup>3</sup> Des acheteurs éventuels peuvent conduire, sans être accompagnés, des véhicules munis de plaques professionnelles, si ces derniers présentent toutes les garanties de sécurité et sont conformes aux prescriptions. Le titulaire du permis de circulation collectif doit tenir un registre de ces courses et le conserver pendant deux ans. Sur demande, il doit autoriser les organes de contrôle à le consulter.[^25-5]
+
+<sup>4</sup> …[^25-6]
+
+[^25-1]: Nouvelle teneur selon l’art. 152 ch. 1 de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^25-5]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^25-6]: Abrogé par le ch. I de l’O du 11 avr. 2001, avec effet au 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+
+#### Art. 26
+
+**Procédure**
+
+<sup>1</sup> Quiconque veut obtenir un permis de circulation collectif pour des véhicules automobiles doit faire transmettre à l’autorité une attestation d’assurance portant une mention spéciale.[^26-1]
+
+<sup>2</sup> L’assurance couvrira, conformément à la loi, les dommages causés par le véhicule qui est muni de la plaque professionnelle délivrée sur le vu de l’attestation d’assurance.[^26-2]
+
+<sup>3</sup> L’usage abusif des plaques, notamment l’usage fait par une personne qui n’avait pas le droit de s’en servir, ne peut être opposé au lésé. Sont toutefois réservées les dispositions relatives à la réparation des dommages causés par des véhicules utilisés sans droit (art. 75 de la loi).
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^26-2]: Nouvelle teneur selon l’art. 152 ch. 1 de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+
+### Chapitre 3 Assurance-responsabilité civile pour les entreprises de la branche automobile et pour les manifestations sportives
+
+### I. Entreprises de la branche automobile
+
+#### Art. 27
+
+**Attestation d’assurance**
+
+<sup>1</sup>
+
+L’assurance prévue à l’art. 71, al. 2, de la loi couvre la responsabilité civile des exploitants d’entreprises de la branche automobile pour leurs propres véhicules automobiles non couverts par l’assurance du détenteur et pour les véhicules qui leur sont remis. Sont tenus de conclure une telle assurance:[^27-1]
+
+- a. les exploitants d’entreprises qui fabriquent ou montent des véhicules automobiles ou des remorques destinées à de tels véhicules, qui les munissent de carrosseries, les transforment ou les réparent;
+- b. les importateurs, marchands et courtiers de véhicules automobiles et de remorques destinées à de tels véhicules;
+- c. les exploitants d’entreprises auxiliaires de la branche automobile, par exemple les tôliers, garnisseurs et peintres sur automobiles;
+- d. les entrepreneurs de démolition d’automobiles.
+
+<sup>2</sup> Seront soumises à l’obligation de s’assurer, en vertu d’une décision de l’autorité cantonale, d’autres entreprises de la branche automobile où se trouvent régulièrement des véhicules qui sont en état de circuler sans être toutefois au bénéfice d’un permis de circulation.
+
+<sup>3</sup> Seront libérés de cette obligation, sur leur demande et après décision de l’autorité cantonale, les exploitants qui fournissent la preuve qu’il n’y a dans leur entreprise que leurs propres véhicules automobiles immatriculés à titre individuel ou des véhicules complètement inutilisables.[^27-2]
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+
+#### Art. 28
+
+**Procédure**
+
+<sup>1</sup> Celui qui veut ouvrir une entreprise soumise à l’obligation d’assurance prévue à l’art. 27, al. 1, doit en informer, avant l’ouverture, l’autorité cantonale compétente.
+
+<sup>2</sup> L’autorité cantonale compétente prendra une décision chaque fois qu’un entrepreneur
+
+- a. omet de l’informer conformément à l’al. 1 ou conteste l’obligation qui lui est faite de s’assurer;
+- b. doit être soumis à l’obligation de s’assurer, conformément à l’art. 27, al. 2;
+- c. demande à être libéré de l’obligation de s’assurer.
+
+<sup>3</sup> Avant que la décision soit prise, l’entrepreneur aura l’occasion de donner son avis. La décision lui sera communiquée par écrit, avec les motifs, et lui indiquera la possibilité de recourir prévue à l’art. 89, al. 3, de la loi.
+
+#### Art. 29
+
+**Attestation d’assurance**[^29-1]
+
+<sup>1</sup> L’entrepreneur soumis à l’obligation de s’assurer remettra à l’autorité compétente une attestation spéciale d’assurance. Cela ne le dispense pas de l’obligation de remettre les attestations d’assurance prescrites en vertu des art. 3, 11, 15, 19 et 26 de la présente ordonnance.
+
+<sup>2</sup> La suspension ou la cessation de l’assurance selon l’art. 71 al. 2, de la loi sera annoncée par l’assureur à l’autorité cantonale et ne produira effet à l’égard des lésés qu’à l’expiration de soixante jours à compter du moment où l’autorité aura reçu cet avis.
+
+<sup>3</sup> Lorsque l’obligation de s’assurer a fait l’objet d’une décision officielle et que celle-ci n’a pas été attaquée par voie de recours, l’entrepreneur qui ne produit pas l’attestation d’assurance requise selon l’art. 71, al. 2, de la loi se verra fixer par l’autorité un délai de trente jours sous menace de la peine prévue à l’art. 292 du code pénal suisse[^29-2]. La même règle est applicable lorsque l’assureur annonce la suspension ou la cessation de l’assurance selon à l’al. 2.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+### II. Courses de vitesse
+
+#### Art. 30
+
+**Cas d’application**
+
+<sup>1</sup>
+
+L’art. 72 de la loi est applicable:
+
+- a. aux courses de vitesse, aux compétitions ainsi qu’aux tentatives de records effectuées sur la voie publique, lorsque la vitesse doit être la plus élevée possible ou atteindre une moyenne supérieure à 50 km/h ou lorsque la durée quotidienne du parcours comporte plus de douze heures pour un conducteur ou plus de quinze pour deux conducteurs qui se relayent;
+- b. aux manifestations de ce genre qui se déroulent sur des routes fermées à la circulation, sur des pistes de courses, des terrains ou des près, lorsque d’autres personnes que les membres de la société organisatrice sont admises en qualité de participants ou de spectateurs.
+
+<sup>2</sup>
+
+Dans des cas particuliers, les cantons peuvent proposer au Conseil fédéral:
+
+- a. de soumettre à l’obligation d’assurance selon l’art. 72 de la loi d’autres manifestations sportives d’automobiles ou de cycles, lorsqu’elles présentent des dangers particuliers;
+- b. d’autoriser des exceptions pour certaines manifestations déterminées ou pour des courses à effectuer sur des pistes spéciales, lorsque la mise en danger de tierces personnes paraît exclue.
+
+#### Art. 31
+
+**Attestation d’assurance**
+
+<sup>1</sup> Celui qui organise une manifestation soumise à l’assurance obligatoire doit remettre à l’autorité de chaque canton intéressé une attestation d’assurance, qui peut être de durée limitée. Lorsqu’il s’agit d’une attestation de durée limitée, l’assureur n’a pas le droit de la révoquer.
+
+<sup>2</sup> Celui qui organise régulièrement des manifestations sur des emplacements aménagés à cet effet doit remettre à l’autorité cantonale compétente une attestation d’assurance de durée illimitée. L’assureur annoncera à l’autorité la suspension ou la cessation de l’assurance. L’art. 29, al. 3, de la présente ordonnance, est applicable par analogie.[^31-1]
+
+[^31-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+
+### III. Cas spéciaux
+
+#### Art. 32
+
+**Machines pour la construction des routes**
+
+<sup>1</sup> Des machines de travail qui se meuvent par leurs propre moyens ne peuvent être employées, sans permis de circulation et sans plaques de contrôle, pour effectuer des travaux sur des routes où la circulation n’est pas complètement arrêtée que si l’entrepreneur prouve qu’en sa qualité de détenteur de toutes les machines en service il est assuré contre les conséquences de sa responsabilité civile conformément à la loi.
+
+<sup>2</sup> L’art. 29 de la présente ordonnance est applicable par analogie.
+
+#### Art. 33
+
+**Véhicules affectés au trafic interne d’une entreprise**
+
+<sup>1</sup> Lorsque les véhicules d’une entreprise doivent emprunter la voie publique pour rejoindre certaines parties de la fabrique ou de l’usine, situées à proximité, l’autorité cantonale compétente peut permettre à l’exploitant d’utiliser sur de courts tronçons des véhicules automobiles dépourvus de permis de circulation et de plaques, à la condition qu’il fournisse la preuve qu’en sa qualité de détenteur de tous ces véhicules il est assuré contre les conséquences de sa responsabilité civile conformément à la loi.
+
+<sup>2</sup> L’art. 29 de la présente ordonnance est applicable par analogie.
+
+## Troisième partie**** Assurance-responsabilité civile des véhicules automobiles de puissance ou de vitesse minimes
+
+[^part3-1]
+
+[^part3-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+### I. Cyclomoteurs
+
+#### Art. 34
+
+**Responsabilité civile**
+
+La responsabilité civile des cyclomotoristes est régie par le code des obligations[^34-1].
+
+[^34-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 35
+
+**Assurance**
+
+<sup>1</sup> La preuve que l’assurance-responsabilité civile prescrite a été conclue (art. 63 LCR) est apportée par une vignette d’assurance.
+
+<sup>2</sup> La vignette est remise lorsque le détenteur fournit la preuve qu’il est assuré en matière de responsabilité civile pendant toute la durée de validité de ladite vignette.
+
+<sup>3</sup> La vignette doit être conforme au modèle figurant à l’annexe 3 et porter les deux derniers chiffres de l’année de remise ainsi qu’un numéro individuel. Elle doit être apposée sur le tiers supérieur de la plaque de contrôle ainsi que dans le champ ad hoc du permis de circulation.
+
+<sup>4</sup> L’assurance conclue pour le cyclomoteur doit couvrir les droits des lésés au moins jusqu’à concurrence du montant de deux millions de francs par événement, pour l’ensemble des dommages corporels et matériels.
+
+#### Art. 36
+
+**Durée de validité et remplacement des vignettes**
+
+<sup>1</sup> La durée de validité des vignettes s’étend du 1<sup>er</sup> janvier de l’année de remise, qui y est imprimée, au 31 mai de l’année suivante.
+
+<sup>2</sup> Les vignettes dont le millésime ou le numéro individuel est illisible et les vignettes égarées doivent être remplacées sur la plaque de contrôle ainsi que dans le permis de circulation. Elles peuvent l’être par des vignettes ayant la même durée de validité.
+
+#### Art. 37
+
+**Acquisition et remise des vignettes**
+
+<sup>1</sup> L’acquisition et la remise des vignettes relèvent de la responsabilité des cantons.
+
+<sup>2</sup> Les cantons peuvent confier la remise des vignettes à des tiers.
+
+<sup>3</sup>
+
+Tous les bureaux de distribution doivent transmettre la carte d’assurance dûment remplie à l’autorité cantonale et lui communiquer:
+
+- a. le numéro de la nouvelle vignette lorsqu’il s’agit d’un cyclomoteur qui a déjà été mis en circulation;
+- b. le numéro de la plaque de contrôle et celui de la vignette lorsqu’il s’agit d’un cyclomoteur mis en circulation pour la première fois.
+
+<sup>4</sup> L’autorité cantonale doit conserver les informations communiquées par les bureaux de distribution conformément à l’al. 3 encore cinq ans après l’expiration de la validité de la vignette.
+
+### II. Voitures à bras, monoaxes, cyclomoteurs légers et fauteuils roulants****
+
+[^part3-lvlII-1]
+
+[^part3-lvlII-1]: La mod. du 15 avr. 2015 ne concerne que les textes allemand et italien ([RO 2015 1319](https://fedlex.data.admin.ch/eli/oc/2015/276)).
+
+#### Art. 38
+
+**Assurance et responsabilité civile**
+
+<sup>1</sup>
+
+Les utilisateurs des véhicules automobiles ci-après ne sont pas soumis à l’obligation de s’assurer prévue à l’art. 63 LCR:
+
+- a. voitures à bras;
+- b. monoaxes qui sont conduits uniquement par une personne à pied et qui ne servent pas à tirer des remorques;
+- c. cyclomoteurs légers;
+- d.[^38-1] fauteuils roulants à propulsion électrique dont la vitesse maximale n’excède pas 10 km/h.
+
+<sup>2</sup> Leur responsabilité civile est régie par le code des obligations[^38-2].
+
+[^38-1]: La mod. du 15 avr. 2015 ne concerne que les textes allemand et italien ([RO 2015 1319](https://fedlex.data.admin.ch/eli/oc/2015/276)).
+[^38-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+## Quatrième partie**** Bureau national d’assurance et Fonds national de garantie****
+
+[^part4-1][^part4-2]
+
+[^part4-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^part4-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+### Chapitre 1 Bureau national d’assurance****
+
+[^part4-chap1-1]
+
+[^part4-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+### I. Véhicules automobiles et remorques étrangers****
+
+[^part4-chap1-lvlI-1]
+
+[^part4-chap1-lvlI-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 39
+
+**Champ d’application[^39-1]**
+
+<sup>1</sup> Les art. 39 à 49 s’appliquent à la réparation des dommages causés sur le territoire suisse par des véhicules automobiles étrangers. L’art. 53*a*, let. b, s’applique aux véhicules automobiles étrangers visés à l’art. 38.[^39-2]
+
+<sup>2</sup> Elles s’appliquent par analogie lorsque le détenteur d’un véhicule automobile étranger ou d’une remorque étrangère répond, selon l’art. 69 de la loi et l’art. 2 de la présente ordonnance, des dommages causés sur le territoire suisse par une remorque ou par un véhicule remorqué.
+
+<sup>3</sup> Les véhicules sont considérés comme étrangers lorsqu’ils circulent sous le couvert d’un permis de circulation étranger et de plaques étrangères.[^39-3]
+
+[^39-1]: Introduit par le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^39-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^39-3]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 40
+
+**Prétentions des lésés**
+
+<sup>1</sup> Dans la mesure où la loi leur reconnaît des prétentions à l’endroit du détenteur responsable, les lésés peuvent demander réparation du dommage au Bureau national d’assurance qui est chargé d’y pourvoir.
+
+<sup>2</sup> Cependant, il est uniquement possible de demander la réparation du dommage dans la même mesure que si l’accident avait été causé par un véhicule suisse. L’art. 42, al. 2, est réservé.
+
+<sup>3</sup>
+
+Une prétention supérieure à la couverture minimale de réparation allouée en Suisse est satisfaite:
+
+- a. lorsque le véhicule ayant causé un dommage provient d’un Etat qui prescrit une couverture légale minimale plus élevée, ou
+- b. lorsque la police d’assurance prévoit une couverture supérieure pour le véhicule ayant causé un dommage et qu’un engagement correspondant de l’étranger existe pour la réparation des dommages.[^40-1]
+
+<sup>4</sup> Les droits du lésé sont soumis aux mêmes règles que l’action directe contre l’assureur au sens de l’art. 65, al. 1, de la loi.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 41
+
+**Obligations de réparer les dommages**[^41-1]
+
+<sup>1</sup> Le Bureau national d’assurance a l’obligation de couvrir les dommages, conformément à l’art. 39. Il délègue cette tâche à une société membre, à un assureur apériteur ou à une entreprise de règlement des sinistres (délégués).
+
+<sup>2</sup> Le Bureau national d’assurance désigne son délégué en tenant compte des conventions internationales de coopération.
+
+<sup>3</sup> La collaboration entre le Bureau national d’assurance et le délégué doit être réglée contractuellement.
+
+<sup>4</sup>
+
+Le Bureau national d’assurance désigne un autre délégué dans les 30 jours lorsque:
+
+- a. une collision d’intérêts se produit entre le délégué désigné en premier et la personne lésée, à moins que l’assureur étranger accepte que le délégué nommé en premier gère le sinistre;
+- b. cela s’avère nécessaire pour un règlement correct du dommage.
+
+<sup>5</sup> Si les lésés qui n’ont pas encore été dédommagés ont leur domicile ou leur lieu de séjour habituel à l’étranger, le Bureau national d’assurance, ou avec son consentement le délégué, peut demander à un assureur étranger ou à un Bureau national d’assurance étranger de gérer le sinistre au nom du Bureau national d’assurance, pour autant que les personnes concernées donnent leur accord.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 42
+
+**Obligations des lésés**
+
+<sup>1</sup>
+
+Lorsqu’un lésé veut obtenir, en vertu de l’art. 74, al. 2, let. a, de la loi, la réparation du dommage, il doit annoncer sans délai le sinistre au Bureau national d’assurance et lui fournir les indications suivantes:[^42-1]
+
+- a. accident (lieu, date, heure, circonstances de l’accident, personnes impliquées, témoins et procès-verbal de l’accident);
+- b. dommages (genre et importance des dégâts);
+- c. véhicule ayant causé le dommage (genre, marque, couleur, plaque de contrôle, Etat d’immatriculation);
+- d. indication relative à l’existence d’un rapport de police.
+
+<sup>2</sup> Si, par sa faute, le lésé enfreint cette obligation, l’excédent de dépenses que subit ainsi le Bureau national d’assurance étranger pourra être déduit des prestations.
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 43
+
+**Obligations du délégué**[^43-1]
+
+<sup>1</sup>
+
+Le délégué doit annoncer au Bureau national d’assurance les sinistres qu’il traite et lui fournir les indications nécessaires, afin que ce dernier puisse:
+
+- a. communiquer au lésé le nom du délégué qui traite le sinistre;
+- b. contrôler que la gestion du sinistre et le décompte soient correctement effectués, conformément aux accords conclus entre les Bureaux nationaux d’assurance;
+- c. établir les statistiques décidées par les Bureaux nationaux d’assurance et celles prévues par les statuts du Bureau national d’assurance.
+
+<sup>2</sup>
+
+Il doit restituer le cas au Bureau national d’assurance si:
+
+- a. une collision d’intérêts se produit entre ses intérêts et ceux de la personne lésée;
+- b. un autre assureur étranger est reconnu compétent après coup, à la place de l’assureur étranger supposé compétent à l’origine, ou
+- c. cela s’avère nécessaire pour régler correctement le sinistre.
+
+<sup>3</sup> Le Bureau national d’assurance retire le règlement d’un cas au délégué selon l’al. 2, si celui-ci ne le restitue pas de lui-même.
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 44
+
+**Assurance-frontière**
+
+<sup>1</sup> Le conducteur d’un véhicule automobile étranger doit conclure, au moment d’entrer en Suisse, une assurance-frontière, si tant est que les conditions fixées à l’art. 45 ne sont pas remplies.
+
+<sup>2</sup> Dans les Etats figurant sur l’attestation de l’assurance-frontière, ladite assurance garantit au détenteur du véhicule qui y est décrit et aux personnes pour lesquelles il est responsable, au moins une protection d’assurance correspondant à la couverture minimale obligatoire dans l’Etat concerné.
+
+<sup>3</sup> Les primes seront fixées par le Bureau national d’assurance. Elles requièrent l’approbation de l’Autorité fédérale de surveillance des marchés financiers.
+
+<sup>4</sup> Les assureurs-frontières sont délivrées par le Bureau national d’assurance ou, avec son accord, par les assureurs autorisés à pratiquer en Suisse l’assurance-responsabilité civile pour les véhicules automobiles.
+
+#### Art. 45
+
+**Attestations d’assurance équivalentes**
+
+<sup>1</sup>
+
+Le conducteur d’un véhicule automobile étranger n’a pas besoin d’une assurance-frontière lorsque la réparation du dommage est garantie en Suisse par un accord conclu entre le Bureau national d’assurance suisse et le Bureau national d’assurance étranger pour tous les véhicules automobiles:
+
+- a. munis des plaques de contrôle réglementaires de l’Etat concerné, ou
+- b. pour lesquels une carte d’assurance internationale valable en Suisse (carte verte) ou une autre attestation d’assurance-frontière, suffisante pour la Suisse, est présentée au bureau de douane d’entrée.
+
+<sup>2</sup> Le Bureau national d’assurance communique à l’OFROU la liste des Etats selon l’al. 1.
+
+#### Art. 46
+
+**Obligations des conducteurs de véhicules étrangers**
+
+<sup>1</sup> Les véhicules automobiles étrangers ne peuvent circuler en Suisse que si la réparation du dommage est garantie conformément aux art. 44 ou 45.
+
+<sup>2</sup> Le conducteur d’un véhicule automobile étranger gardera dans son véhicule la carte internationale d’assurance (carte verte) ou la police d’assurance-frontière; sur demande, il présentera l’un ou l’autre de ces documents aux organes chargés des contrôles, si tant est que la plaque de contrôle ne sert pas d’attestation d’assurance.
+
+#### Art. 47
+
+**Manifestations sportives de véhicules automobiles**[^47-1]
+
+L’autorisation exigée pour une manifestation sportive étrangère d’automobiles qui empruntera le territoire suisse ne peut être accordée par le canton concerné que lorsqu’un assureur autorisé à pratiquer en Suisse l’assurance-responsabilité civile pour les véhicules automobiles apporte au Bureau national suisse d’assurance la preuve d’une couverture suffisante des dommages éventuels.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 48
+
+**Tâches de la police**
+
+<sup>1</sup> Dans les rapports, la police inscrit les indications relatives aux accidents causés par des véhicules automobiles étrangers, indications nécessaires à l’identification de la personne responsable et de son assureur.
+
+<sup>2</sup> Elle établit les rapports sans délai et en envoie une copie au Bureau national d’assurance ou au délégué ainsi que le double ou une copie de la carte verte ou de l’attestation d’assurance-frontière. S’il n’est pas possible d’établir une copie des deux derniers documents mentionnés, leur contenu sera indiqué dans le rapport de police.[^48-1]
+
+<sup>3</sup> Si le conducteur du véhicule automobile étranger n’est pas en mesure de présenter le document exigé (art. 44 et 45), cette circonstance ainsi que les raisons fournies par ledit conducteur doivent figurer au rapport, qui précisera également si une assurance-responsabilité civile existe pour le véhicule et, le cas échéant, auprès de quel assureur.
+
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 49
+
+**Exclusion du séquestre**[^49-1]
+
+Pour garantir le droit à l’indemnisation des dommages causés par un véhicule automobile étranger, la police ou le juge pénal ne peuvent séquestrer le véhicule ou encore confisquer d’autres objets transportés par le responsable étranger que sur proposition du Bureau national d’assurance.
+
+[^49-1]: [RO 1996 1022](https://fedlex.data.admin.ch/eli/oc/1996/_1022_)
+
+### II.**** Organisme d’information
+
+[^part4-chap1-lvlII-1]
+
+[^part4-chap1-lvlII-1]: Introduit par le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 49a
+
+**Système d’information relatif à l’admission à la circulation et registre séparé[^49a-1]**
+
+<sup>1</sup> Pour accomplir ses tâches, l’organisme d’information (art. 79*a* LCR) utilise le système d’information relatif à l’admission à la circulation.[^49a-2]
+
+<sup>2</sup>
+
+Il tient en outre un registre séparé contenant les informations suivantes:
+
+- a. les institutions d’assurance autorisées à exercer l’assurance responsabilité civile automobile en Suisse, ainsi que les représentants chargés du règlement des sinistres (art. 79*b* de la loi) qu’elles ont nommés à l’étranger;
+- b. les services désignés par la Confédération et les cantons pour le règlement des sinistres en vertu de l’art. 73, al. 3, de la loi.
+
+[^49a-1]: Nouvelle teneur selon le ch. II 7 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^49a-2]: Nouvelle teneur selon le ch. II 7 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+
+#### Art. 49b
+
+**Droit d’accès**
+
+Les informations contenues dans le registre mentionné à l’art. 49*a*, al. 2, sont accessibles en ligne par les organismes d’information étrangers, pour identifier les représentants chargés du règlement des sinistres nommés à l’étranger par les institutions d’assurance suisses.
+
+#### Art. 49c
+
+**Conservation des données**
+
+Les informations dans le registre mentionné à l’art. 49*a*, al. 2, doivent rester accessibles en ligne pendant les sept ans qui suivent le retrait de l’agrément de l’institution d’assurance, la dissolution du contrat entre l’assureur et son représentant chargé du règlement des sinistres ou la fin de l’activité du service compétent pour le règlement des sinistres.
+
+#### Art. 49d
+
+**Mise à disposition des informations**
+
+L’organisme d’information fournit aux lésés et aux assurances sociales les informations suivantes concernant le véhicule censé avoir causé l’accident:
+
+- a. le nom et l’adresse de l’assureur en responsabilité civile ainsi que le nom et l’adresse du représentant chargé du règlement des sinistres dans l’Etat de domicile du lésé, lorsque l’assureur n’y a pas son siège;
+- b. le numéro de la police d’assurance et, lorsque celle-ci est échue, la date d’échéance de la couverture d’assurance;
+- c. le nom et l’adresse du détenteur, dans la mesure où le lésé fait valoir un intérêt prépondérant;
+- d. l’adresse du service désigné par la Confédération ou le canton pour le règlement des sinistres, lorsque le véhicule ayant causé le dommage relève de leur responsabilité civile.
+
+<sup>2</sup> Les renseignements concernant les véhicules automobiles immatriculés en Suisse sont donnés à condition que l’accident ne remonte pas à plus de sept ans. Si un véhicule automobile est immatriculé à l’étranger, les renseignements le concernant sont donnés dans la mesure où ils sont accessibles auprès de l’organisme d’information de l’Etat concerné.
+
+<sup>3</sup> Les renseignements sont fournis en application de l’art. 126 OAC[^49d-1].
+
+[^49d-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+
+### Chapitre 2 Fonds national de garantie****
+
+[^part4-chap2-1]
+
+[^part4-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+### I. …****
+
+[^part4-chap2-lvlI-1]
+
+[^part4-chap2-lvlI-1]: Introduit par le ch. I de l’O du 9 déc. 2002 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Abrogé par le ch. I de l’O du 12 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+#### Art. 50
+
+[^50-1]
+
+[^50-1]: Abrogé par le ch. I de l’O du 12 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+#### Art. 51
+
+[^51-1]
+
+[^51-1]: Abrogé par le ch. I de l’O du 9 déc. 2002, avec effet au 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+### II. Véhicules et engins assimilés à des véhicules qui sont inconnus ou non assurés****
+
+[^part4-chap2-lvlII-1]
+
+[^part4-chap2-lvlII-1]: Introduit par le ch. I de l’O du 9 déc. 2002 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+#### Art. 52
+
+**Obligations du lésé; franchise**
+
+<sup>1</sup>
+
+Lorsqu’un lésé veut obtenir, en vertu de l’art. 76, al. 2, let. a, de la loi, la réparation du dommage, il doit:[^52-1]
+
+- a.[^52-2] annoncer sans délai le sinistre au Fonds national de garantie et lui donner toutes les indications permettant d’identifier l’auteur du dommage et les personnes responsables;
+- b. attester qu’un rapport de police a été établi.
+
+<sup>2</sup> Si, par sa faute, il enfreint cette obligation d’annoncer le sinistre, l’indemnité de réparation peut être réduite en conséquence.
+
+<sup>3</sup> Lorsque des véhicules automobiles, des remorques, des cycles ou des engins assimilés à des véhicules sont inconnus et qu’ils causent des dégâts matériels, la franchise s’élève à 1000 francs par personne lésée.[^52-3] Elle tombe si l’auteur du même événement cause des dommages corporels importants.[^52-4]
+
+<sup>4</sup> Lorsque l’auteur du dommage ne dispose pas d’une assurance-responsabilité civile tenue à indemnisation ou que l’absence de celle-ci est contestée, le Fonds national de garantie doit indemniser le lésé de façon anticipée.[^52-5]
+
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^52-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^52-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^52-4]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^52-5]: Introduit par le ch. I de l’O du 9 déc. 2002 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+#### Art. 53
+
+**Obligation de réparer les dommages**[^53-1]
+
+<sup>1</sup> Le Fonds national de garantie a l’obligation de couvrir les dommages, conformément à l’art. 76, al. 2, let. a, de la loi. Il délègue cette tâche à une société membre, à un assureur apériteur ou à une entreprise de règlement des sinistres (délégués).
+
+<sup>2</sup> Le Fonds national de garantie désigne son délégué en tenant compte des conventions internationales de coopération.
+
+<sup>3</sup> La collaboration entre le Fonds national de garantie et le délégué doit être réglée contractuellement.
+
+<sup>4</sup>
+
+Le Fonds national de garantie désigne un autre délégué lorsque:
+
+- a. une collision d’intérêts se produit entre le délégué désigné en premier et la personne lésée;
+- b. cela s’avère nécessaire pour gérer convenablement le sinistre.
+
+<sup>5</sup>
+
+Le délégué doit communiquer au Fonds national de garantie les indications nécessaires afin que celui-ci puisse:
+
+- a. communiquer au lésé le nom du délégué qui traite le sinistre;
+- b. contrôler la bonne gestion et le décompte correct du sinistre.
+
+<sup>6</sup> Le Fonds national de garantie retire le règlement d’un cas au délégué selon l’al. 4, si celui-ci ne le restitue pas de lui-même.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 53a
+
+**Etendue des prestations**[^53a-1]
+
+Le Fonds national de garantie couvre la responsabilité civile pour les dommages causés:
+
+- a. par des véhicules ou des remorques non identifiés ou non assurés, conformément à l’assurance minimale obligatoire;
+- b. par des véhicules visés à l’art. 38 qui sont non identifiés ou non assurés, à hauteur de deux millions de francs par événement, pour l’ensemble des dommages corporels et matériels;
+- c. par des personnes non identifiées, insuffisamment assurées ou non assurées alors qu’elles utilisaient un cycle ou un engin assimilé à un véhicule, à hauteur de deux millions de francs par événement, pour l’ensemble des dommages corporels et matériels.
+
+[^53a-1]: Introduit par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+#### Art. 54
+
+**Lésés étrangers**[^54-1]
+
+<sup>1</sup> Les lésés qui ne sont pas citoyens suisses et qui n’avaient pas leur domicile en Suisse au moment de l’accident ne bénéficient pas de la réparation du dommage prévue à l’art. 76. al. 2, let. a, de la loi ainsi qu’aux art. 50 à 53 de la présente ordonnance.
+
+<sup>2</sup>
+
+Sont réservés:
+
+- a. les accords internationaux dérogeant à ces règles;
+- b. les accords conclus entre le Fonds national de garantie et les Fonds nationaux de garantie reconnus par l’OFROU;
+- c. d’autres cas où la réciprocité a été accordée.
+
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+### III.**** Organisme d’indemnisation
+
+[^part4-chap2-lvlIII-1]
+
+[^part4-chap2-lvlIII-1]: Introduit par le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 54a
+
+<sup>1</sup>
+
+Lorsqu’il reçoit des demandes d’indemnisation (art. 79*d* de la loi), l’organisme d’indemnisation examine si les conditions de traitement du cas sont remplies. Le cas échéant, il informe sans délai les personnes suivantes qu’une demande d’indemnisation lui est parvenue et qu’il y répondra dans un délai de deux mois:
+
+- a. l’institution d’assurance auprès de laquelle le véhicule ayant causé le dommage est assuré;
+- b. le représentant chargé du règlement des sinistres nommé en Suisse par l’assureur étranger auprès duquel est assuré le véhicule ayant causé l’accident, lorsque la police a été établie à l’étranger;
+- c. l’organisme d’indemnisation de l’Etat dans lequel la police d’assurance a été établie;
+- d. la personne qui a causé l’accident, si elle est identifiée;
+- e. le Bureau national d’assurance de l’Etat dans lequel est survenu l’accident, lorsque le véhicule qui a causé l’accident n’a pas son lieu de stationnement habituel dans cet Etat;
+- f.[^54a-1] le service désigné par la Confédération ou le canton compétent pour le règlement des sinistres, lorsque le véhicule ayant causé l’accident relève de leur responsabilité civile;
+- g. l’Autorité fédérale de surveillance des marchés financiers.
+
+<sup>2</sup> L’organisme d’indemnisation règle le sinistre selon le droit applicable lorsque l’institution d’assurance ou son représentant chargé du règlement des sinistres ne fournissent pas, dans les deux mois à compter de la réception de la demande d’indemnisation par l’organisme d’indemnisation, une réponse motivée à cette demande ou une proposition motivée d’indemnisation. Il tient compte des prestations des assurances sociales.
+
+<sup>3</sup> Lorsque l’organisme d’indemnisation d’un autre Etat informe l’organisme d’indemnisation qu’une demande d’indemnisation lui est parvenue concernant une police établie en Suisse, celui-ci en informe l’Autorité fédérale de surveillance des marchés financiers.
+
+[^54a-1]: [RO 2011 4997](https://fedlex.data.admin.ch/eli/oc/2011/725)
+
+### IV.**** Insolvabilité de l’assureur
+
+[^part4-chap2-lvlIV-1]
+
+[^part4-chap2-lvlIV-1]: Introduit par le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 54b
+
+<sup>1</sup> Lorsqu’une institution d’assurance suisse autorisée à exercer l’assu-rance responsabilité civile pour les véhicules automobiles tombe en faillite, le Fonds national de garantie assume la responsabilité des dommages.
+
+<sup>2</sup> L’Autorité fédérale de surveillance des marchés financiers règle les modalités dans les cas particuliers.
+
+<sup>3</sup> Lorsque le Bureau national d’assurance répare un dommage causé à l’étranger par un véhicule automobile ou une remorque assurés auprès d’un assureur suisse, et que cet assureur tombe en faillite, il exerce une action récursoire contre le Fonds national de garantie.
+
+### V.**** Manifestations cyclistes organisées à l’étranger
+
+[^part4-chap2-lvlV-1]
+
+[^part4-chap2-lvlV-1]: Introduit par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+#### Art. 54c
+
+L’autorisation exigée pour une manifestation cycliste organisée à l’étranger et se déroulant en partie sur le territoire suisse ne peut être accordée par le canton concerné que lorsque l’assureur en responsabilité civile compétent apporte la preuve d’une couverture suffisante en cas de dommages.
+
+### Chapitre 3 Dispositions communes au bureau national d’assurance et au Fonds national de garantie****
+
+[^part4-chap3-1]
+
+[^part4-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 55
+
+**Statuts, litiges**[^55-1]
+
+<sup>1</sup> Les statuts du Bureau national d’assurance et du Fonds national de garantie ainsi que leurs modifications requièrent l’approbation de l’OFROU.
+
+<sup>2</sup> L’OFROU tranche en cas de litige entre le Bureau national d’assurance et le Fonds national de garantie ou entre ceux-ci et leurs membres.
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 56
+
+**Relations**
+
+<sup>1</sup> Lorsqu’il n’est pas établi si les réparations des dommages seront finalement couvertes par un assureur étranger, le sinistre sera géré, selon le principe de la probabilité, à la charge du Bureau national d’assurance ou du Fonds national de garantie. En cas de doute, il appartient au Fonds national de garantie de gérer le sinistre. Dans tous les cas, la franchise mentionnée à l’art. 52, al. 3, est bloquée jusqu’au règlement définitif du sinistre.
+
+<sup>2</sup> S’il s’avère finalement qu’aucun assureur étranger n’a l’obligation de couvrir les dommages mis à la charge du Bureau national d’assurance, selon l’al. 1, celui-ci engagera une action récursoire contre le Fonds national de garantie.
+
+<sup>3</sup> Si les dépenses sont couvertes provisoirement par le Fonds national de garantie et qu’il s’avère, ultérieurement, qu’un Bureau national d’assurance étranger est tenu d’assumer la réparation des dommages, le Fonds national de garantie engagera une action récursoire contre le Bureau national d’assurance. Le Bureau national d’assurance remboursera au lésé la franchise retenue, dès que le paiement de la créance sera parvenu de l’étranger.
+
+<sup>4</sup> Le Bureau national d’assurance et le Fonds national de garantie ont l’obligation de se communiquer tous les faits justifiant une action récursoire au sens des al. 2 et 3.
+
+#### Art. 57
+
+[^57-1]
+
+[^57-1]: Abrogé par le ch. I de l’O du 9 déc. 2002, avec effet au 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+
+#### Art. 58
+
+**Contributions des détenteurs de véhicules automobiles**[^58-1]
+
+Le Bureau national d’assurance et le Fonds national de garantie calculent le montant des contributions selon les règles actuarielles. Ils soumettent les contributions et le schéma de calcul à l’approbation de l’Autorité fédérale de surveillance des marchés financiers (FINMA).
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+
+#### Art. 59
+
+**Obligation des entreprises d’assurance**[^59-1]
+
+<sup>1</sup> Les entreprises d’assurance doivent informer les preneurs d’assurance du montant des contributions.
+
+<sup>2</sup>
+
+Elles doivent:
+
+- a. verser les contributions au Bureau national d’assurance et au Fonds national de garantie;
+- b. leur communiquer les informations requises pour vérifier qu’elles s’acquittent correctement de leur obligation de percevoir les contributions.
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+
+#### Art. 59a
+
+**Collaboration des autorités**[^59a-1]
+
+L’OFROU et la FINMA communiquent au Bureau national d’assurance et au Fonds national de garantie les informations requises par ces derniers pour vérifier que les entreprises d’assurance s’acquittent correctement de leur obligation de percevoir les contributions.
+
+[^59a-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+
+#### Art. 59b
+
+[^59b-1]
+
+[^59b-1]: Abrogé par le ch. I de l’O du 26 oct. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+
+#### Art. 59c
+
+**Coordination des prestations**[^59c-1]
+
+Pour la coordination des prestations des assurances sociales avec celles du Bureau national d’assurance ou du Fonds national de garantie, les règles des art. 72 à 75 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales[^59c-2] s’appliquent par analogie.[^59c-3]
+
+[^59c-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^59c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^59c-3]: [RO 2004 1631](https://fedlex.data.admin.ch/eli/oc/2004/199)
+
+## Cinquième partie**** Dispositions pénales
+
+[^part5-1]
+
+[^part5-1]: Anciennement 7<sup>e</sup> partie.
+
+#### Art. 60
+
+<sup>1.</sup> Celui qui ne se sera pas procuré une autorisation exigée par la présente ordonnance,
+
+celui qui n’aura pas restitué à temps à l’autorité les plaques de contrôle correspondant à un permis à court terme ou une autorisation d’utiliser un véhicule de remplacement,
+
+sera puni de l’amende[^60-1].[^60-2]
+
+<sup>2.</sup> Celui qui n’aura pas observé des restrictions, des conditions ou des délais liés, en vertu de la présente ordonnance, à une autorisation ou à un permis spécial de circulation, en particulier
+
+celui qui aura violé la disposition de l’art. 14, al. 1, de la présente ordonnance, qui règle l’usage des véhicules auxquels sont attribuées des plaques interchangeables,
+
+celui qui, sans droit, aura fait usage de plaques professionnelles, n’aura pas été porteur des documents exigés par l’art. 24, al. 6[^60-3] ou aura effectué, avec un véhicule muni de plaques professionnelles, des courses qui ne sont pas autorisées par la présente ordonnance,[^60-4]
+
+sera puni de l’amende.
+
+<sup>3.</sup> …[^60-5]
+
+<sup>4.</sup> Celui qui aura importé en Suisse des plaques étrangères pour véhicules automobiles, dans le dessein d’en faire usage contrairement aux prescriptions en vigueur,
+
+sera puni de l’amende.
+
+Lorsque les autorités douanières supposent que des plaques pourraient servir à un usage abusif, elles peuvent les saisir et les transmettre à l’autorité cantonale compétente, afin qu’elle élucide le cas; celle-ci confisque les plaques définitivement lorsque l’intention de commettre un abus ne fait plus de doute.[^60-6] [^60-7]
+
+<sup>5.</sup> Le détenteur du véhicule ou le titulaire d’un permis collectif de circulation, ainsi que les personnes qui disposent, à leur place, du véhicule ou du permis, encourront les mêmes peines que l’auteur de l’infraction lorsqu’elles en ont eu connaissance ou auraient pu la connaître en prêtant toute l’attention commandée par les circonstances.
+
+<sup>6.</sup> Les dispositions pénales qui précèdent ne sont pas applicables lorsque la contravention est punissable en vertu de la loi.
+
+[^60-1]: Nouvelle expression selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)). Il a été tenu compte de cette mod. dans tout l’art..
+[^60-2]: Nouvelle teneur du par. selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^60-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^60-4]: Nouvelle teneur selon l’art. 152 ch. I de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^60-5]: Abrogé par le ch. I de l’O du 12 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^60-6]: Nouvelle teneur de la phrase selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^60-7]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+
+## Sixième partie**** Dispositions finales****
+
+[^part6-1][^part6-2]
+
+[^part6-1]: Anciennement 8<sup>e</sup> partie.
+[^part6-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+### Chapitre 1 Entrée en vigueur****
+
+[^part6-chap1-1]
+
+[^part6-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+#### Art. 61
+
+[^61-1]
+
+<sup>1</sup> Les art. 58 à 89 (responsabilité civile et assurance) de la loi, ainsi que la présente ordonnance, entrent en vigueur le 1<sup>er</sup> janvier 1960; de même les art. 96, 97 et 99, ch. 4 (dispositions pénales) de la loi précitée.
+
+<sup>2</sup> Les dispositions relatives à la responsabilité civile et à l’assurance contenues dans la loi et dans la présente ordonnance ne sont pas applicables aux dommages survenus avant leur entrée en vigueur.
+
+[^61-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+#### Art. 62 à 71
+
+[^6271-1]
+
+[^6271-1]: Abrogés par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+#### Art. 72
+
+[^72-1]
+
+[^72-1]: Abrogé par le ch. I de l’O du 19 oct. 1983, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1983 1655](https://fedlex.data.admin.ch/eli/oc/1983/1655_1655_1655)).
+
+#### Art. 73 à 76
+
+[^7376-1]
+
+[^7376-1]: Abrogés par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+### Chapitre 2 Exceptions, instructions****
+
+[^part6-chap2-1]
+
+[^part6-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+#### Art. 76a
+
+**…[^76a-2]**[^76a-1]
+
+<sup>1</sup> L’OFROU peut établir des instructions en exécution de la présente ordonnance. Dans des cas particuliers, il peut autoriser des dérogations à des dispositions de la présente ordonnance si la réparation des dommages n’en est pas affectée.
+
+<sup>2</sup> Il prend des décisions d’ordre général, en principe après avoir consulté les cantons et les milieux intéressés.
+
+[^76a-1]: Introduit par le ch. I de l’ACF du 5 sept. 1967 ([RO 1967 1336](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)[1532](https://fedlex.data.admin.ch/eli/oc/1967/_1532_)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^76a-2]: Abrogé par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+#### Art. 76b
+
+[^76b-1]
+
+[^76b-1]: Introduit par le ch. I de l’O du 6 oct. 1980 ([RO 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Abrogé par le ch. I de l’O du 29 nov. 2006, avec effet au 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+
+#### Art. 77
+
+[^77-1]
+
+[^77-1]: Introduit par le ch. I de l’O du 22 nov. 1995 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)). Abrogé par le ch. I de l’O du 29 nov. 2006, avec effet au 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+
+## Dispositions finales de la modification du 15 octobre 1975****
+
+[^u1-1]
+
+[^u1-1]: Abrogées par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+## Disposition finale de la modification du 24 mai 1989****
+
+[^u2-1]
+
+[^u2-1]: Abrogée par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+## Dispositions finales de la modification du 1<sup>er</sup> juillet 1992****
+
+[^u3-1]
+
+[^u3-1]: Abrogées par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+
+## Dispositions finales de la modification du 14 janvier 2004****
+
+[^u4-1]
+
+[^u4-1]: [RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)(en vigueur depuis le 1.11.2004).
+
+<sup>1</sup> Les nouveaux montants minimaux d’assurance sont valables pour tous les sinistres qui se produisent à partir du 1<sup>er</sup> janvier 2005.
+
+<sup>2</sup> L’assureur a le droit d’adapter les primes si la présente modification l’oblige à fournir une prestation supplémentaire.
+
+<sup>3</sup> Les augmentations de primes visées à l’al. 2 doivent être notifiées par écrit à l’assuré 30 jours au plus tard avant leur entrée en vigueur. L’assuré a ensuite le droit de résilier le contrat. L’assureur est tenu de mentionner ce droit de résiliation dans la notification de l’augmentation de la prime. La résiliation est valable si elle parvient à l’assureur au plus tard la veille de l’entrée en vigueur de l’augmentation de la prime.
+
+## Disposition transitoire de la modification du 29 novembre 2006****
+
+[^u5-1]
+
+[^u5-1]: [RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)
+
+Les attestations d’assurance peuvent être établies en version papier jusqu’au 31 décembre 2008.
+
+## Disposition transitoire de la modification du 12 octobre 2011****
+
+[^u6-1]
+
+[^u6-1]: [RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)
+
+<sup>1</sup> En vertu des contrats d’assurance conclus pour l’année 2011 par les cyclistes et les utilisateurs des véhicules visés à l’ancien art. 37, l’assureur reste tenu de couvrir les dommages dans les limites en vigueur jusqu’au 31 mai 2012 si la vignette pour cycles est apposée sur le véhicule.
+
+<sup>2</sup> Les cantons veillent à ce qu’une liste des codes permettant d’identifier les compagnies d’assurance-responsabilité civile soit accessible à tous auprès de la police au moins jusqu’au 31 décembre 2012.
+
+Annexe 1*[^t-2]*
+
+(art. 3*a*, al. 4 et 4, al. 3)
+
+## Attestations d’assurance
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Mise à jour selon le ch. III de l’O du 29 nov. 2006 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)), le ch. II 7 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) et le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+
+### A. Attestations d’assurance pour véhicules automobiles
+
+\1. Les attestations d’assurance comprendront les champs suivants:
+
+- – numéro de l’attestation d’assurance
+- – plaque de contrôle
+- – genre de véhicule
+- – marque de fabrique/type
+- – numéro du châssis
+- – numéro matricule
+- – circonstances particulières
+- – date d’entrée en vigueur
+- – date de l’échéance
+- – motif de la mise en circulation
+- – nom, prénom, date de naissance, pays d’origine et adresse du détenteur
+- – nom, prénom et lieu de domicile du conducteur
+- – lieu de stationnement du véhicule
+- – nom, code et adresse de l’assureur
+- – numéro de référence de l’assurance
+- – genre de plaque
+- – nombre de places.
+
+\2. Les rubriques suivantes de l’attestation d’assurance seront transmises à l’assureur:
+
+- – données de la plaque de contrôle (si l’assureur les connaît)
+- – genre de véhicule
+- – marque de fabrique et type
+- – numéro du châssis (le canton peut y renoncer)
+- – numéro matricule
+- – circonstances particulières
+- – date d’entrée en vigueur
+- – date d’échéance (seulement si l’attestation est de durée limitée)
+- – nom, prénom, date de naissance et adresse du détenteur
+- – nom, prénom et lieu de domicile du conducteur (seulement si le lieu de stationnement et l’adresse du détenteur ne sont pas identiques)
+- – nom, code et adresse de l’assureur
+- – numéro de la police.
+
+\3. Les données suivantes sont retransmises à l’assureur par l’intermédiaire du système d’information relatif à l’admission à la circulation:
+
+- – genre de véhicule
+- – utilisations spéciales
+- – nombre de places
+- – places assises/places debout
+- – vitesse maximale
+- – plaque de contrôle
+- – genre de plaque
+- – couleur de la plaque
+- – code de la compagnie d’assurance
+- – référence/numéro de la police
+- – adresse du détenteur
+- – date de naissance
+- – pays d’origine
+- – adresse du lieu de stationnement
+- – marque/type
+- – numéro matricule
+- – numéro du châssis
+- – date de la mise en circulation
+- – date de l’échéance
+- – motifs de la mutation en cas de mise en circulation
+- – date du retrait de la circulation
+- – motifs de la mutation en cas de retrait de la circulation
+- – date de la transmission
+- – numéro y compris code supplémentaire
+- – couleur du véhicule
+- – poids total
+- – poids à vide
+- – forme de carrosserie
+- – date de la première mise en circulation
+- – cylindrée
+- – charge utile
+- – charge de toit
+- – poids de l’ensemble
+- – kilowatts
+- – puissance en kilowatts.
+
+### B. Attestation d’assurance pour entreprises et manifestations
+
+\1. Les attestations d’assurance auront 21 cm de largeur et 14,8 cm de hauteur (format A5). Le papier sera de couleur grise.
+
+\2. Les attestations d’assurance seront conformes au spécimen suivant:
+
+<table>
+<tr><td colspan="6">Interne Kontrollnummer des Versicherers N<sup>o</sup> de contrôle interne de l’assureur N<sup>o</sup> di controllo interno dell’assicuratore</td><td colspan="10">Versicherungs-Nachweis für Unternehmnungen und Veranstaltungen Attestation d’assurance pour entreprises et manifestations Attestato d’assicurazione per aziende e manifestazioni</td><td>Police No Polizza</td></tr>
+<tr><td>**Art. 27**</td><td>VVV OAV</td><td></td><td>**Art. 32**</td><td colspan="3">VVV OAV</td><td></td><td colspan="3">**Art. 33**</td><td>VVV OAV</td><td colspan="2"></td><td colspan="3">**Versicherungsnehmer – Preneur d’assurance – Stipulante**</td></tr>
+<tr><td colspan="2">Unternehmen des Motorfahrzeug- gewerbes</td><td></td><td colspan="4">Strassenbaumaschinen</td><td></td><td colspan="4">Werkinterner Verkehr auf öffentlichen Strassen</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Entreprise de la branche automobile</td><td></td><td colspan="4">Machines pour la construction des routes</td><td></td><td colspan="4">Véhicules d’usine empruntant la voie publique</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Aziende dell’industria dei veicoli a motore</td><td></td><td colspan="4">Macchine per la costruzione di strade</td><td></td><td colspan="4">Veicoli di fabbrica circolanti su strade pubbliche</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Gültig ab/ Valable dès/ Valido dal:</td><td></td><td colspan="4">Gültig ab/ Valable dès/ Valido dal:</td><td></td><td colspan="4">Gültig ab/ Valable dès/ Valido dal:</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td>**Art. 30**</td><td>VVV OAV</td><td></td><td colspan="9">Rennen – Course de vitesse – Gara di velocità</td><td colspan="2"></td><td colspan="3">Nähere Bezeichnung des Unter- nehmens (Werkes) oder der Veranstaltung Désignation plus précise de l’entreprise (usine) ou de la manifestation Designazione più precisa dell’azienda (officina) o della manifestazione</td></tr>
+<tr><td colspan="2">Deckungssummen: Montants d’assurance: Somme assicurate:</td><td></td><td colspan="4">Ereignis Evénement Sinistro</td><td></td><td>Fr.</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4">Personenschaden Mort ou lésions corporelles Morte o lesioni corporali</td><td></td><td>Fr.</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4">Sachschaden Dommages matériels Danni materiali</td><td></td><td>Fr.</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="5">Gültig ab: Valable dès: Valido dal:</td><td colspan="12">bis jusqu’au al</td></tr>
+<tr><td colspan="12">Die auf Grund obiger Police abgeschlossene Versicherung entspricht den Bestimmungen des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr. L’assurance conlue sur la base de la police indiquée ci-dessus est conforme aux exigences des dispositions de la loi fédérale du 19 décembre 1958 sur la circulation routière. L’assicurazione stipulata in base alla polizza sopra citate è conforme alle disposizioni della legge federale del 19 dicembre 1958 sulla circolazione stradale.</td><td colspan="3">Ort und Datum Lieu et date Luogo e date</td><td colspan="2">Stempel und Unterschrift des Versicherers</td></tr>
+</table>
+
+### C. Avis à l’assureur (art. 3*a*, al. 4, let. a et b)
+
+\1. Les autorités d’admission transmettent les avis de contrôle (art. 3*a*, al. 4, let. a) et les avis de retraits de la circulation (art. 3*a*, al. 4, let. b) par voie électronique à l’OFROU. Celui-ci fait suivre ces documents à l’assureur. Les données qui y figurent sont reproduites de manière uniforme et analogue à celle qui est utilisée pour les attestations d’assurance.
+
+\2. Il y a lieu de communiquer aux assureurs au moins les données suivantes:
+
+- – données de la plaque de contrôle
+- – genre de véhicule
+- – marque de fabrique et type
+- – numéro du châssis
+- – numéro matricule
+- – date de mise en circulation
+- – utilisation spéciale
+- – indications relatives au détenteur (nom, prénom, adresse, date de naissance et pays d’origine)
+- – nom, code et adresse de l’assureur
+- – numéro de la police
+- – date de l’avis à l’assureur
+- [tab]
+
+Doivent en outre figurer sur l’avis de contrôle:
+
+- – la date d’échéance (seulement lorsqu’il s’agit d’attestations d’assurance limitées);
+- – le motif de la mutation (différenciation minimale: nouvel achat/RV après dépôt des plaques de contrôle/RV après départ annoncé par l’assureur).
+
+Doivent en outre figurer sur l’avis de retrait de la circulation:
+
+- – la date du retrait de la circulation;
+- – le motif de la mutation (différenciation minimale: dépôt des plaques de contrôle/autres motifs de retrait de la circulation).
+
+Annexe 2*[^t-3]*
+
+(art. 18)
+
+## Immatriculation provisoire
+
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 15 avr. 1987 ([RO 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)). Mise à jour selon le ch. I des O du 1<sup>er</sup> juil. 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)), du 22 nov. 1995 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)) et le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+
+### A. Plaques de contrôle
+
+\1. Les plaques pour l’immatriculation provisoire des véhicules automobiles sont numérotées indépendamment des autres plaques. Cette numérotation peut être reprise à son début lorsqu’il est exclu que deux voitures automobiles ou motocycles immatriculés provisoirement circulent avec le même numéro valable.
+
+\2. Les plaques pour l’immatriculation provisoire des véhicules automobiles seront faites de tôle mince et seront conformes, en ce qui concerne la couleur, l’exécution et les caractères, aux prescriptions en vigueur pour les autres plaques de contrôle (art. 83 et 85 OAC[^annex2-lvlu1-lvlA-1]). L’OFROU peut autoriser l’utilisation d’autres matériaux.
+
+\3. Les plaques pour l’immatriculation provisoire des véhicules automobiles sont munies, après le numéro de contrôle, d’une bande verticale rouge en relief. Les plaques des véhicules non dédouanés sont en outre munies de la lettre «Z».[^annex2-lvlu1-lvlA-2] Sur la plaque avant pour voitures automobiles et sur la plaque pour motocycles et motocycles légers, la bande rouge a une largeur de 33 mm et une hauteur de 67 mm, sur la plaque arrière des voitures automobiles, une largeur de 36 mm et une hauteur de 75 mm.
+
+\4. L’année précédant l’année d’échéance est estampée sur la bande rouge.
+
+[^annex2-lvlu1-lvlA-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^annex2-lvlu1-lvlA-2]: [RO 1987 1350](https://fedlex.data.admin.ch/eli/oc/1987/1350_1350_)
+
+### B. Vignettes
+
+\1. On collera sur la bande rouge une vignette portant le numéro du mois d’échéance et les deux derniers chiffres de l’année d’échéance.
+
+\2. Cette vignette a 5 cm de hauteur et 3 cm de largeur. L’arrondi des angles mesure 0,2 cm de rayon. La vignette a un fond rouge. Les deux derniers chiffres de l’année d’échéance, en caractères blancs, sont répartis sur la surface de la vignette d’après le modèle figurant ci-après. Quant au numéro du mois d’échéance, il figure au centre de la vignette, en caractères noirs d’une hauteur de 3,3 cm, la largeur des traits étant de 0,45 cm.
+
+\3. Il incombe aux cantons de se procurer les vignettes.
+
+Annexe 3*[^t-4]*
+
+(art. 35, al. 3)
+
+## Vignettes d’assurance pour cyclomoteurs
+
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image3.png)
+
+Annexe 4*[^t-5]*
+
+(art. 23)
+
+## Exigences minimales de l’attribution de permis de circulation collectifs
+
+[^t-5]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Mise à jour selon le ch. II 6 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), l’art. 1 ch. 6 de l’O du 22 juin 1998 ([RO 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)), le ch. I de l’O du 21 janv. 2015 ([RO 2015 463](https://fedlex.data.admin.ch/eli/oc/2015/66)), les ch. I et II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+
+### 1 Constructeur de véhicules
+
+- 1\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – diplôme d’ingénieur EPF ou ETS dans le domaine de la construction de machines ou de la construction d’automobiles, ou
+  - – certificat de capacité de mécatronicien d’automobiles et 5 ans d’activité dans la branche ou dans un atelier de réparation.
+
+- 1\.2 Importance de l’entreprise pour
+- 1\.21 un permis de circulation collectif:
+- construction d’au moins 20 véhicules par année;
+- 1\.22 des permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image4.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules supplémentaires devront être construits annuellement pour chaque permis de circulation collectif.</td></tr>
+</table>
+
+- 1\.3
+
+  Locaux de l’entreprise:
+
+  - – locaux de fabrication et ateliers de construction et de montage réguliers de véhicules,
+  - – place de stationnement pour 5 véhicules au minimum, et
+  - – bureau avec téléphone.
+
+- 1\.4
+
+  Installations de l’entreprise:
+
+  - – parc de machines, installations et outillage pour la construction et le montage de véhicules,
+  - – chargeur de batteries, cric, appareil optique de réglage des phares.
+
+### 2 Importateur de véhicules
+
+- 2\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’activité professionnelle dans la branche ou dans un atelier de réparation.
+
+- 2\.2 Importance de l’entreprise pour
+- 2\.21 un permis de circulation collectif:
+- importation d’au minimum 20 véhicules neufs par année;
+- 2\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image5.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules neufs devront être importés annuellement pour chaque permis de circulation collectif.</td></tr>
+</table>
+
+- 2\.3
+
+  Locaux de l’entreprise:
+
+  - – local de 50 m<sup>2</sup> au minimum pour la préparation et la présentation des véhicules,
+  - – place de stationnement pour 10 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 2\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour la préparation de véhicules,
+  - – élévateur ou fosse, chargeur de batteries, cric, appareil optique de réglage des phares, instrument homologué de mesure des gaz d’échappement.
+
+### 3 Commerce de véhicules
+
+- 3\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’expérience professionnelle dans la branche ou dans un atelier de réparation.
+
+- 3\.2 Importance de l’entreprise pour
+- 3\.21 un permis de circulation collectif:
+- vente par année d’au moins
+  - – 40 voitures automobiles légères
+  - – 10 voitures automobiles lourdes
+  - – 30 motocycles
+  - – 20 véhicules agricoles et forestiers
+  - – 20 véhicules de travail
+  - – 20 remorques
+  - – 20 tricycles à moteur
+  - – 20 quadricycles à moteur, ou
+  - – 20 quadricycles légers à moteur;
+
+- 3\.22
+
+  permis de circulation collectifs supplémentaires:
+
+  - a. pour les voitures automobiles légères: un permis de circulation collectif pour chaque série de 40 voitures automobiles légères vendues par an;
+  - b. pour les autres genres de véhicules:
+
+nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image6.png) , y étant égal au nom- bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, les véhicules supplémentaires suivants devront être vendus annuellement pour chaque permis de circulation collectif:
+
+- – 10 voitures automobiles lourdes
+- – 30 motocycles
+- – 20 véhicules agricoles et forestiers
+- – 20 véhicules de travail
+- – 20 remorques
+- – 20 tricycles à moteur
+- – 20 quadricycles à moteur, ou
+- – 20 quadricycles légers à moteur.
+
+- 3\.3
+
+  Locaux de l’entreprise:
+
+  - – local de 50 m<sup>2</sup> au minimum pour la préparation et la présentation des véhicules,
+  - – place de stationnement pour 10 véhicules supplémentaires, et
+  - – bureau avec téléphone.
+
+- 3\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour la préparation de véhicules,
+  - – élévateur ou fosse, chargeur de batteries, cric, appareil optique de réglage des phares, instrument homologué de mesure des gaz d’échappement.
+
+### 4 Atelier de réparation de voitures automobiles légères et de véhicules assimilés
+
+- 4\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 4\.2 Importance de l’entreprise pour
+- 4\.21 un permis de circulation collectif:
+- travaux de réparation payants qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 4\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image7.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 4\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au moins,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 4\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillages pour la réparation des voitures automobiles légères,
+  - – élévateur ou fosse, chargeur de batteries, poste de soudure, cric, appareil de montage et de démontage des pneus, équilibreuse, appareil de contrôle de la géométrie (plaque de mesure), instrument homologué de mesure des gaz d’échappement, appareil optique de réglage des phares.
+
+### 5 Atelier de réparation de voitures automobiles lourdes
+
+- 5\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 5\.2 Importance de l’entreprise pour
+- 5\.21 un permis de circulation collectif:
+- travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, sur 20 véhicules au minimum par année;
+- 5\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image8.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif. sur 20 véhicules supplémentaires.</td></tr>
+</table>
+
+- 5\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 5\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour la réparation des voitures automobiles lourdes,
+  - – élévateur ou fosse, chargeur de batteries, poste de soudure, cric, appareil de montage et de démontage des pneus, équilibreuse, instrument de mesure des gaz d’échappement approuvé par le DETEC, appareil optique de réglage des phares.
+
+### 6 Atelier de réparation de motocycles et de véhicules assimilés
+
+- 6\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécanicien en motocycles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 6\.2 Importance de l’entreprise pour
+- 6\.21 un permis de circulation collectif:
+- travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, sur 30 véhicules au minimum par année;
+- 6\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image9.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
+</table>
+
+- 6\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour plusieurs véhicules, et
+  - – bureau avec téléphone.
+
+- 6\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour la réparation des motocycles,
+  - – chargeur de batteries, poste de soudure, plate-forme de levage pour motocycles, appareil de montage et de démontage des pneus, appareil d’équilibrage, appareil de réglage des phares.
+
+### 7 Atelier de réparation de véhicules automobiles agricoles et forestiers
+
+- 7\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécanicien en machines agricoles et forestières, mécatronicien d’automobiles ou mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 7\.2 Importance de l’entreprise pour
+- 7\.21 un permis de circulation collectif:
+- travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, sur 30 véhicules au minimum par année;
+- 7\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image10.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
+</table>
+
+- 7\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum et
+  - – bureau avec téléphone.
+
+- 7\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour les réparations de véhicules agricoles et forestiers,
+  - – chargeur de batteries, poste de soudure, instrument de mesure des gaz d’échappement approuvé par le DETEC, appareil de réglage des phares.
+
+### 8 Atelier de réparation de remorques
+
+- 8\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles ou d’une profession technique similaire, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 8\.2 Importance de l’entreprise pour
+- 8\.21 un permis de circulation collectif:
+- travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, sur 30 véhicules au minimum par année;
+- 8\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image11.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
+</table>
+
+- 8\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 8\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour les réparations de remorques,
+  - – poste de soudure, cric.
+
+### 9 Atelier de carrosserie
+
+- 9\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de serrurier sur véhicules, de tôlier en carrosserie, de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 9\.2 Importance de l’entreprise pour
+- 9\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 30 véhicules au minimum par année;
+- 9\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image12.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
+</table>
+
+- 9\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 9\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour atelier de carrosserie,
+  - – poste de soudure, cric, appareil optique de réglage des phares.
+
+### 10 Tôlerie en automobiles
+
+- 10\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de serrurier sur véhicules, de tôlier en carrosserie, de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 10\.2 Importance de l’entreprise pour
+- 10\.21 un permis de circulation collectif:
+- travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 10\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image13.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 10\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 10\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour tôlerie en automobiles,
+  - – appareil redresseur (p. ex. dozzer), presses mobiles, poste de soudure, plaque à dresser, appareil optique de réglage des phares, appareil de contrôle de la géométrie (plaque de mesure), cric.
+
+### 11 Atelier de peinture en automobiles
+
+- 11\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de peintre en automobiles, de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles et au total 5 ans d’activité dans la branche,
+  - ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 11\.2 Importance de l’entreprise pour
+- 11\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 11\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image14.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 11\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 11\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour atelier de peinture en automobile,
+  - – cabine de peinture au pistolet, installation de mélange des couleurs.
+
+### 12 Sellerie pour automobiles
+
+- 12\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de garnisseur en carrosserie, de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 12\.2 Importance de l’entreprise pour
+- 12\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 20 véhicules au minimum par année;
+- 12\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image15.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directe ment liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 20 véhicules supplémentaires.</td></tr>
+</table>
+
+- 12\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 1 véhicule au minimum,
+  - – place de stationnement pour 2 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 12\.4
+
+  Installations de l’entreprise:
+
+  - – installations de sellerie pour voitures et outillage complet de sellier.
+
+### 13 Atelier d’électro-mécanique
+
+- 13\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité d’électricien en automobiles, de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 13\.2 Importance de l’entreprise pour
+- 13\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 13\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image16.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 13\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 13\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage d’électricien en automobiles,
+  - – instrument homologué de mesure des gaz d’échappement, banc d’essai électrique, appareil optique de réglage des phares.
+
+### 14 Atelier de réglage de la géométrie
+
+- 14\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 14\.2 Importance de l’entreprise pour
+- 14\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 14\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image17.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 14\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 14\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour atelier de réglage de la géométrie,
+  - – appareil optique de triangulation, élévateur ou fosse, appareil de contrôle de la géométrie (plaque de mesure).
+
+### 15 Atelier de montage des tachygraphes
+
+- 15\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité d’électricien en automobiles, de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation ou d’électro-mécanique, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 15\.2 Importance de l’entreprise pour
+- 15\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 15\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image18.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 15\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 15\.4 Installations de l’entreprise:
+- Appareils et installations de montage, de contrôle et de réparation des tachygraphes.
+- 15\.5 Autorisation:
+- Autorisation de l’Administration fédérale des douanes comme atelier de montage, de contrôle subséquent et de réparation des tachygraphes.
+
+### 16 Atelier spécialisé en véhicules diesel
+
+- 16\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 16\.2 Importance de l’entreprise pour
+- 16\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année,
+- 16\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image19.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 16\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 16\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage de réparation des pompes diesel,
+  - – banc d’essai pour pompe et gicleur, instrument de mesure des gaz d’échappement approuvé par le DETEC.
+
+### 17 Atelier spécialisé en dispositifs de freinage
+
+- 17\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 17\.2 Importance de l’entreprise pour
+- 17\.21 un permis de circulation collectif:
+- travaux payants, qui nécessitent des courses de transfert ou d’essai, sur 50 véhicules au minimum par année;
+- 17\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image20.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
+</table>
+
+- 17\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum,
+  - – place de stationnement pour 5 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 17\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour les réparations de freins, banc d’essai de freinage.
+
+### 18 Entreprise disposant d’un grand parc de véhicules automobiles
+
+- 18\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche, ou
+  - – 6 ans d’activité professionnelle dans la branche.
+
+- 18\.2 Importance de l’entreprise pour
+- 18\.21 un permis de circulation collectif:
+- parc de véhicules de l’entreprise, comprenant au minimum 30 véhicules;
+- 18\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image21.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, le parc de véhicules de l’entreprise doit comprendre, pour chaque permis de circulation collectif, 30 véhicules supplémentaires.</td></tr>
+</table>
+
+- 18\.3
+
+  Locaux de l’entreprise:
+
+  - – local de réparation pour 2 véhicules au minimum.
+
+- 18\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour les réparations de véhicules,
+  - – élévateur ou fosse, chargeur de batteries, poste de soudure, cric, appareil de montage et de démontage des pneus, équilibreuse, appareil de contrôle de la géométrie (plaque de mesure), instrument homologué de mesure des gaz d’échappement, appareil optique de réglage des phares.
+
+### 19 Entreprise d’essai de véhicules
+
+- 19\.1
+
+  Qualifications et expérience professionnelles du requérant ou d’une autre personne responsable dans l’entreprise:
+
+  - – certificat de capacité de mécatronicien d’automobiles ou de mécanicien en maintenance d’automobiles, et au total 5 ans d’activité dans la branche ou dans un atelier de réparation, ou
+  - – 6 ans d’activité professionnelle dans la branche ou dans un atelier de réparation.
+
+- 19\.2 Importance de l’entreprise pour
+- 19\.21 un permis de circulation collectif:
+- essai d’au moins 20 véhicules par année;
+- 19\.22 permis de circulation collectifs supplémentaires:
+
+<table>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/fr/xml/image/image22.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules supplémentaires devront annuellement faire l’objet d’un essai pour chaque permis de circulation collectif.</td></tr>
+</table>
+
+- 19\.3
+
+  Locaux de l’entreprise:
+
+  - – local d’au moins 50 m<sup>2</sup> pour la préparation des véhicules,
+  - – place de stationnement pour 2 véhicules supplémentaires au minimum, et
+  - – bureau avec téléphone.
+
+- 19\.4
+
+  Installations de l’entreprise:
+
+  - – installations et outillage pour la préparation des véhicules,
+  - – élévateur ou fosse, chargeur de batteries, cric, appareil optique de réglage des phares, instrument homologué de mesure des gaz d’échappement.
+
+### 20 Entreprise qui exerce plusieurs genres d’activités
+
+Un permis de circulation collectif pourra être délivré à l’entreprise qui exerce plusieurs genres d’activités, mais dont l’importance – en fonction du genre d’activité – n’atteint pas la taille minimale requise si la taille globale de l’entreprise équivaut à la taille minimale prescrite pour un seul genre d’activité et que les locaux et les installations satisfont dans l’ensemble aux exigences fixées pour chaque genre d’activité.
+
+Annexe 5*[^t-6]*
+
+(art. 10*b*)
+
+## Autorisation provisoire de circuler en Suisse
+
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008 ([RO 2008 5083](https://fedlex.data.admin.ch/eli/oc/2008/704)). Mise à jour selon le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+
+<table>
+<tr><td>1. **Détenteur/trice**</td><td>[tab]</td></tr>
+</table>
+
+<table>
+<tr><td>[tab] Nom/entreprise:</td><td>[tab]</td></tr>
+<tr><td>[tab] Prénom:</td><td>[tab]</td></tr>
+<tr><td>[tab] Rue/n<sup>o</sup>:</td><td>[tab]</td></tr>
+<tr><td>[tab] NPA/lieu:</td><td>[tab]</td></tr>
+</table>
+
+<table>
+<tr><td>2. **Véhicule à imm****a****triculer**</td><td>[tab]</td></tr>
+</table>
+
+<table>
+<tr><td>[tab] N<sup>o</sup> de la plaque:</td><td>[tab]</td></tr>
+<tr><td>[tab] Marque/type:</td><td>[tab]</td></tr>
+<tr><td>[tab] N<sup>o</sup> du châssis:</td><td>[tab]</td></tr>
+<tr><td>[tab] N<sup>o</sup> matricule:</td><td>[tab]</td></tr>
+</table>
+
+- 3\. Le détenteur/la détentrice confirme avoir demandé une attestation d’assurance à l’assurance-responsabilité civile des véhicules automobiles …, le ….
+- 4\.
+
+  Le détenteur/la détentrice confirme avoir remis les documents ci-après à La Poste ou à l’autorité d’immatriculation, le …:
+
+  - a. permis de circulation du véhicule à immatriculer ou rapport d’expertise (formulaire 13.20 A);
+  - b. permis de circulation du véhicule à retirer de la circulation;
+  - c. formulaire officiel par lequel le détenteur/la détentrice et le bénéficiaire (p. ex. l’entreprise de *leasing*) donnent leur accord écrit ou décision judicaire entrée en force concernant les rapports de propriété, si le code 178 «Changement de détenteur interdit» est inscrit dans le permis de circulation;
+  - d. attestation de conformité (art. 16, al. 2, ORPL)[^annex5-lvlu1-1] ou dispense de l’Administration fédérale des douanes, établie au nom du détenteur/de la détentrice (art. 15, al. 5, ORPL) pour les véhicules soumis à la RPLP[^annex5-lvlu1-2].
+
+<table>
+<tr><td>Date:</td><td></td><td>Signature (détenteur/trice):</td><td></td></tr>
+</table>
+
+*Remarque:* conformément à l’art. 10*b*, al. 1, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules, le formulaire rempli à la vérité doit être conservé dans les véhicules de manière conforme avant l’octroi du permis de circulation. *L’auto**risation provisoire de circ**u**ler* est valable pour des déplacements en Suisse jusqu’à la délivrance du permis de circulation, mais qui peuvent être utilisés 30 jours au plus à compter du premier jour de validité de l’attestation d’assurance. Elle n’est pas valable pour les véhicules automobiles ni pour les remorques qui sont immatriculés provisoirement ou utilisés avec des permis à court terme.
+
+[^annex5-lvlu1-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^annex5-lvlu1-2]: Redevance sur le trafic des poids lourds

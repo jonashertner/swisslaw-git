@@ -1,0 +1,1996 @@
+---
+sr: "832.112.31"
+title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicurazione obbligatoria delle cure medico-sanitarie (Ordinanza sulle prestazioni, OPre)"
+short: OPre
+eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
+language: it
+version: 2021-01-01
+adopted: 1995-09-29
+in_force: 1996-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFI sulle prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie
+
+(Ordinanza sulle prestazioni, OPre)[^t-1]
+
+del 29 settembre 1995 (Stato 1° gennaio 2021)
+
+[^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
+
+Il Dipartimento federale dell’interno (DFI),
+
+visti gli articoli 33, 36 capoverso 1, 54 capoversi 2–4, 59*a*, 62, 65 capoverso 3, 65*b* capoverso 3, 65*f* capoverso 5, 65*g* capoverso 3, 70*a*, 75, 77 capoverso 4 e 104*a* dell’ordinanza del 27 giugno 1995[^ingress-1] sull’assicurazione malattie (OAMal),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^ingress-2]: Nuovo testo giusta il n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+## Titolo 1: Prestazioni
+
+### Capitolo 1: Prestazioni mediche, chiropratiche e farmaceutiche
+
+[^tit1-chap1-1]
+
+[^tit1-chap1-1]: Nuovo testo giusta il n. I dellʼO del DFI del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
+
+### Sezione 1: Rimunerazione obbligatoria
+
+#### Art. 1
+
+[^1-1]
+
+<sup>1</sup>
+
+Lʼallegato 1 indica le prestazioni di cui allʼarticolo 33 lettere a e c OAMal, che sono state esaminate dalla Commissione federale delle prestazioni generali e delle questioni fondamentali e di cui lʼassicurazione obbligatoria delle cure medico-sanitarie (assicurazione):
+
+- a. assume i costi;
+- b. assume i costi solo a determinate condizioni;
+- c. non assume i costi.
+
+<sup>2</sup> Lʼallegato 1 non è pubblicato né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS). Le modifiche e le versioni consolidate dellʼallegato 1 sono pubblicate sul sito Internet dellʼUfficio federale della sanità pubblica (UFSP)[^1-2].
+
+[^1-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^1-2]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazioni mediche
+
+### Sezione 2: Psicoterapia effettuata dal medico
+
+#### Art. 2
+
+**Principio**[^2-1]
+
+<sup>1</sup> L’assicurazione assume i costi della psicoterapia effettuata dal medico secondo i metodi la cui efficacia è dimostrata scientificamente.
+
+<sup>2</sup>
+
+La psicoterapia è una forma di terapia che:
+
+- a. concerne malattie psichiche e psicosomatiche;
+- b. persegue un obiettivo terapeutico definito;
+- c. si basa prevalentemente sulla comunicazione verbale ma non esclude una terapia medicamentosa;
+- d. poggia su una teoria dell’esperienza e del comportamento normali o patologici, nonché su una diagnostica orientata all’eziologia;
+- e. comprende la riflessione sistematica, la costruzione e il mantenimento della relazione terapeutica;
+- f. è caratterizzata dall’alleanza terapeutica e da sedute terapeutiche regolari pianificate in anticipo; e
+- g. può essere praticata quale terapia individuale, di coppia, familiare o di gruppo.
+
+[^2-1]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+#### Art. 3
+
+**Assunzione dei costi**[^3-1]
+
+L’assicurazione assume al massimo i costi di 40 sedute d’accertamento e di terapia. È fatto salvo l’articolo 3*b*.
+
+[^3-1]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+#### Art. 3a
+
+[^3a-1]
+
+[^3a-1]: Introdotto dal n. I dellʼO del DFI del 3 lug. 2006 ([RU 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Abrogato dal n. I dellʼO del DFI del 5 giu. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+#### Art. 3b
+
+**Procedura per l’assunzione dei costi per una terapia che duri più di 40 sedute**[^3b-1]
+
+<sup>1</sup>
+
+Affinché dopo 40 sedute la cura continui ad essere rimunerata, il medico curante deve tempestivamente trasmettere un rapporto al medico di fiducia dell’assicuratore. Il rapporto deve indicare:
+
+- a. il genere di malattia;
+- b. il genere, le modalità, lo svolgimento e i risultati del trattamento precedente;
+- c. una proposta concernente il proseguimento della terapia con l’indicazione dell’obiettivo, dello scopo, delle modalità e della durata prevista.
+
+<sup>2</sup> Il rapporto può contenere soltanto le indicazioni necessarie per stabilire la rimunerazione obbligatoria dell’assicuratore.
+
+<sup>3</sup> Il medico di fiducia esamina la proposta sottopostagli e a sua volta propone se e per quale durata la terapia può continuare a carico dell’assicurazione fino al prossimo rapporto.
+
+<sup>4</sup> Entro 15 giorni dal ricevimento del rapporto, l’assicuratore comunica all’assicurato, con copia al medico curante, se e per quanto tempo saranno ulteriormente rimunerati i costi della psicoterapia.
+
+[^3b-1]: Introdotto dal n. I dellʼO del DFI del 3 lug. 2006 ([RU 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+### Sezione 2*a*: Limitazione dell’assunzione dei costi per determinati interventi elettivi
+
+[^tit1-chap1-sec2a-1]
+
+[^tit1-chap1-sec2a-1]: Introdotto dal n. I dellʼO del DFI del 7 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)).
+
+#### Art. 3c
+
+[^3c-1]
+
+<sup>1</sup> Se un intervento elettivo di cui all’allegato 1*a* numero I viene eseguito in ambito ospedaliero, l’assicurazione assume i costi per l’esecuzione dell’intervento soltanto se un’esecuzione ambulatoriale non è appropriata o non è economica a causa di circostanze particolari.
+
+<sup>2</sup> Un’esecuzione ambulatoriale non è appropriata o non è economica a causa di circostanze particolari se è soddisfatto uno dei criteri di cui all’allegato 1*a* numero II.
+
+<sup>3</sup> In circostanze diverse da quelle secondo i criteri di cui all’allegato 1*a* numero II va precedentemente richiesta la garanzia speciale dell’assicuratore. Quest’ultimo tiene conto della raccomandazione del medico di fiducia.
+
+<sup>4</sup> Lʼallegato 1*a* non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼallegato 1*a* sono pubblicate sul sito Internet dellʼUFSP[^3c-2].[^3c-3]
+
+[^3c-1]: Introdotto dal n. I dellʼO del DFI del 3 lug. 2006 ([RU 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Nuovo testo giusta il n. I dellʼO del DFI del 7 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[2837](https://fedlex.data.admin.ch/eli/oc/2018/432)).
+[^3c-2]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazione mediche &gt; Allegato 1a dell’OPre
+[^3c-3]: Introdotto dal n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+
+#### Art. 3d
+
+[^3d-1]
+
+[^3d-1]: Introdotto dal n. I dellʼO del DFI del 3 lug. 2006 ([RU 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Abrogato dal n. I dellʼO del DFI del 5 giu. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+### Sezione 3: Prestazioni prescritte dai chiropratici
+
+#### Art. 4
+
+L’assicurazione assume i costi delle analisi, dei medicamenti, dei mezzi e degli apparecchi diagnostici e terapici, dei procedimenti di formazione d’immagini come pure delle prestazioni fisioterapiche seguenti, prescritti da chiropratici:[^4-1]
+
+- a.[^4-2] analisi:
+- le analisi sono designate separatamente nell’elenco delle analisi giusta l’articolo 62 capoverso 1 lettera b OAMal;
+- b.[^4-3] medicamenti:
+
+  specialità farmaceutiche dei seguenti gruppi terapeutici dell’elenco delle specialità:[^4-4]
+
+  - 1\. 01.01.10 (Analgesici antipiretici), 01.12 (Miotonolitici: somministrati solo per via orale),
+  - 2\.[^4-5] 04.99 (Gastroenterologica, Varia: solo i medicamenti che servono a inibire la secrezione di acidi gastrici o a proteggere la mucosa gastrica),
+  - 3\. 07.02.10 (Minerali), 07.02.20 (Minerali combinati), 07.02.30 (Vitamine sole), 7.02.40 (Vitamine combinate), 07.02.50 (Altre combinazioni),
+  - 4\.[^4-6] 07.10.10 (Antiinfiammatori soli), 07.10.21 (Antiinfiammatori combinati senza corticosteroidi: solo combinazioni di antiinfiammatori, medicamenti che servono a inibire la secrezione di acidi gastrici o a proteggere la mucosa gastrica), 07.10.40 (Medicamenti per uso topico: solo quelli con sostanze attive antiinfiammatorie),
+  - 5\. 57.10.10 (Medicina complementare: antiinfiammatori soli);
+
+- c.[^4-7]
+
+  mezzi e apparecchi:
+
+  - 1\. i prodotti del gruppo 05. Bendaggi,
+  - 2\. i prodotti del gruppo 09.02.01, apparecchio per l'elettroneurostimolazione transcutanea (TENS),
+  - 3\. i prodotti del gruppo 16. Mezzi per la crioterapia e/o termoterapia,
+  - 4\. i prodotti del gruppo 23. Ortesi,
+  - 5\.[^4-8] i prodotti del gruppo 35. Materiale per medicazione;
+
+- d.[^4-9]
+
+  diagnostica per immagini:
+
+  - 1\. radiografia dello scheletro,
+  - 2\. tomografia computerizzata (TC) della colonna vertebrale e delle estremità,
+  - 3\. risonanza magnetica nucleare (RMN) dello scheletro assiale e delle articolazioni periferiche,
+  - 4\. ecografia diagnostica,
+  - 5\. scintigrafia dello scheletro trifasica;
+
+- e.[^4-10] prestazioni di fisioterapia di cui all’articolo 5.
+
+[^4-1]: Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^4-2]: Nuovo testo giusta il n. I dellʼO del DFI del 17 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
+[^4-3]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^4-4]: Nuovo testo giusta lʼall. 6 n. II 5 dellʼO del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
+[^4-5]: Nuovo testo giusta il n. I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+[^4-6]: Nuovo testo giusta il n. I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+[^4-7]: Nuovo testo giusta il n. I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-8]: Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^4-9]: Introdotta dal n. I dellʼO del DFI del 10 lug. 2000 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nuovo testo giusta il n. I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-10]: Introdotta dal n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+
+### Sezione 4: Prestazioni farmaceutiche
+
+[^tit1-chap1-sec4-1]
+
+[^tit1-chap1-sec4-1]: Introdotta dal n. I dellʼO del DFI del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
+
+#### Art. 4a
+
+<sup>1</sup>
+
+L’assicurazione assume i costi delle seguenti prestazioni dei farmacisti:
+
+- a. consulenza in relazione all’esecuzione di una ricetta medica che comprende almeno un medicamento dell’elenco delle specialità;
+- b. esecuzione di una ricetta medica all’infuori delle ore d’apertura usuali locali, in caso d’urgenza;
+- c. sostituzione di un preparato originale o di un generico prescritti dal medico con un generico meno caro;
+- d. assistenza prescritta dal medico per l’assunzione di un medicamento.
+
+<sup>2</sup> L’assicurazione può assumere, nell’ambito di una convenzione tariffale, i costi di prestazioni più estese atte a contenere i costi, fornite a favore di un gruppo di assicurati.
+
+### Sezione 5: Prestazioni di medicina complementare forniteda un medico
+
+[^tit1-chap1-sec5-1]
+
+[^tit1-chap1-sec5-1]: Introdotta dal n. I dellʼO del DFI del 16 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3689](https://fedlex.data.admin.ch/eli/oc/2017/421)).
+
+#### Art. 4b
+
+L’assicurazione assume i costi delle prestazioni nelle discipline seguenti se sono soddisfatte le condizioni esposte qui di seguito:
+
+- a.[^4b-1] agopuntura, se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° luglio 2015 «Agopuntura e farmacoterapia cinese – MTC (ASA)» dell’Istituto svizzero per la formazione medica (ISFM), riveduto il 23 giugno 2017[^4b-2];
+- b. medicina antroposofica, se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° gennaio 1999 «Medicina antroposofica ampliata (ASMOA)» dell’ISFM, riveduto il 16 giugno 2016[^4b-3];
+- c.[^4b-4] terapia medicamentosa della medicina tradizionale cinese (MTC), se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° luglio 2015 «Agopuntura e farmacoterapia cinese – MTC (ASA)» dell’ISFM, riveduto il 23 giugno 2017[^4b-5];
+- d.[^4b-6] omeopatia unicista (classica), se il medico è titolare di un attestato di perfezionamento rilasciato conformemnte al programma di formazione complementare del 1° gennaio 1999 «Omeopatia (SSMO)» dell’ISFM, riveduto il 14 giugno 2019[^4b-7];
+- e. fitoterapia, se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° luglio 2011 «Fitoterapia (SSFM)» dell’ISFM, riveduto il 5 novembre 2015[^4b-8].
+
+[^4b-1]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^4b-2]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
+[^4b-3]: Il documento può essere consultato allʼindirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (in tedesco e francese).
+[^4b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^4b-5]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
+[^4b-6]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^4b-7]: Il documento può essere consultato al seguente indirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (disponibile in tedesco e francese).
+[^4b-8]: Il documento può essere consultato allʼindirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (in tedesco e francese).
+
+### Capitolo 2: Prestazioni effettuate da persone che dispensano cure previa prescrizione o mandato medico
+
+### Sezione 1: Fisioterapia
+
+#### Art. 5
+
+<sup>1</sup>
+
+Sono assunti i costi delle seguenti prestazioni dei fisioterapisti ai sensi degli articoli 46 e 47 OAMal o delle organizzazioni ai sensi dell’articolo 52*a* OAMal, se effettuate previa prescrizione medica e nell’ambito del trattamento di malattie del sistema muscoloscheletrico o neurologico o di malattie dei sistemi degli organi interni e dei sistemi vascolari, sempreché possano essere trattate con la fisioterapia:[^5-1]
+
+- a. misure di esame e valutazione fisioterapici;
+- b.
+
+  misure terapeutiche, di consulenza e di istruzione:
+
+  - 1\. chinesiterapia attiva e passiva,
+  - 2\. terapia manuale,
+  - 3\. fisioterapia per alleviare la tensione,
+  - 4\. fisioterapia respiratoria (comprese le inalazioni di aerosol),
+  - 5\. terapia medica di allenamento,
+  - 6\. fisioterapia linfologica,
+  - 7\. chinesiterapia in acqua,
+  - 8\. fisioterapia ippoterapica in caso di sclerosi multipla,
+  - 9\. fisioterapia cardio-circolatoria,
+  - 10\. fisioterapia uroginecologica e urologica;
+
+- c.
+
+  misure fisiche:
+
+  - 1\. terapia del caldo e terapia del freddo,
+  - 2\. elettroterapia,
+  - 3\. terapia della luce (ultravioletta, infrarossa, luce rossa),
+  - 4\. ultrasuoni,
+  - 5\. idroterapia,
+  - 6\. massaggio muscolare e massaggio del tessuto connettivo.[^5-2]
+
+<sup>1bis</sup> Le misure terapeutiche di cui all’articolo 5 capoverso 1 numeri 1, 3–5, 7 e 9 possono essere eseguite individualmente o in gruppi.[^5-3]
+
+<sup>1ter</sup> La terapia medica di allenamento inizia con un’introduzione all’allenamento su macchine e si conclude al massimo tre mesi dopo tale introduzione. È preceduta da un trattamento fisioterapico individuale.[^5-4]
+
+<sup>2</sup> L’assicurazione assume al massimo, per ogni prescrizione medica, i costi di nove sedute, fermo restando che il primo trattamento deve avvenire entro cinque settimane dalla prescrizione medica.[^5-5]
+
+<sup>3</sup> Per la rimunerazione di ulteriori sedute è necessaria una nuova prescrizione medica.
+
+<sup>4</sup> Se la fisioterapia dev’essere continuata a carico dell’assicuratore dopo una cura equivalente a 36 sedute, il medico curante deve informarne il medico di fiducia e trasmettergli una proposta debitamente motivata in merito alla continuazione della terapia. Il medico di fiducia la esamina e propone se, in quale misura e per quale durata fino al prossimo rapporto la terapia può essere continuata a carico dell’assicurazione.[^5-6]
+
+<sup>5</sup> Per gli assicurati che fino al compimento dei 20 anni hanno diritto a prestazioni secondo l’articolo 13 della legge federale del 19 giugno 1959[^5-7] su l’assicurazione per l’invalidità, i costi per la continuazione di una fisioterapia già iniziata sono assunti, dopo il compimento dei 20 anni, in virtù del capoverso 4.[^5-8]
+
+[^5-1]: Nuovo testo giusta il n. I dellʼO del DFI del 27 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
+[^5-2]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-3]: Introdotto dal n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-4]: Introdotto dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^5-5]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-6]: Introdotto dal n. I dellʼO del DFI del 9 dic. 2002 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nuovo testo giusta il n. I dellʼO del DFI del 10 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
+[^5-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^5-8]: Introdotto dal n. I dellʼO del DFI del 10 dic. 2008 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+### Sezione 2: Ergoterapia
+
+#### Art. 6
+
+<sup>1</sup>
+
+Le prestazioni effettuate previa prescrizione medica dagli ergoterapisti e dalle organizzazioni di ergoterapia ai sensi degli articoli 46, 48 e 52 OAMal sono assunte purché:
+
+- a. in caso d’affezioni somatiche procurino all’assicurato, migliorandone le funzioni corporee, l’autonomia nel compimento degli atti ordinari della vita oppure
+- b.[^6-1] siano effettuate nell’ambito di una cura psichiatrica.
+
+<sup>2</sup> L’assicurazione assume al massimo, per ogni prescrizione medica, i costi di nove sedute, fermo restando che il primo trattamento deve avvenire entro otto settimane dalla prescrizione medica.[^6-2]
+
+<sup>3</sup> Per la rimunerazione di ulteriori sedute è necessaria una nuova prescrizione medica.
+
+<sup>4</sup> Se l’ergoterapia dev’essere continuata a carico dell’assicuratore dopo una cura equivalente a 36 sedute, il medico curante deve informarne il medico di fiducia e trasmettergli una proposta debitamente motivata in merito alla continuazione della terapia. Il medico di fiducia la esamina e propone se, in quale misura e per quale durata fino al prossimo rapporto la terapia può essere continuata a carico dell’assicurazione.[^6-3]
+
+<sup>5</sup> Per gli assicurati che fino al compimento dei 20 anni hanno diritto a prestazioni secondo l’articolo 13 della legge federale del 19 giugno 1959[^6-4] su l’assicurazione per l’invalidità, i costi per la continuazione di una ergoterapia già iniziata sono assunti, dopo il compimento dei 20 anni, in virtù del capoverso 4.[^6-5]
+
+[^6-1]: Nuovo testo giusta il n. I dellʼO del DFI del 13 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
+[^6-2]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^6-3]: Introdotto dal n. I dellʼO del DFI del 9 dic. 2002 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nuovo testo giusta il n. I dellʼO del DFI del 10 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
+[^6-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^6-5]: Introdotto dal n. I dellʼO del DFI del 10 dic. 2008 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+
+### Sezione 3: Cure dispensate ambulatoriamente o in una casa di cura
+
+[^tit1-chap2-sec3-1]
+
+[^tit1-chap2-sec3-1]: Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+
+#### Art. 7
+
+**Definizione delle cure**
+
+<sup>1</sup>
+
+Sono considerate prestazioni ai sensi dell’articolo 33 lettera b OAMal gli esami, le terapie e le cure effettuati secondo la valutazione dei bisogni di cui al capoverso 2 lettera a e all’articolo 8, previa prescrizione o mandato medico:
+
+- a. da infermieri (art. 49 OAMal);
+- b. da organizzazioni di cure e d’aiuto a domicilio (art. 51 OAMal);
+- c. in case di cura (art. 39 cpv. 3 della LF del 18 mar. 1994[^7-1] sull’assicurazione malattie; LAMal).[^7-2]
+
+<sup>2</sup>
+
+Sono prestazioni ai sensi del capoverso 1:
+
+- a.[^7-3]
+
+  valutazione, consigli e coordinamento:[^7-4]
+
+  - 1\.[^7-5] valutazione dei bisogni del paziente e dell’ambiente in cui vive e piano dei provvedimenti necessari,
+  - 2\. consigli al paziente ed eventualmente agli ausiliari non professionisti per l’effettuazione delle cure, segnatamente per il riconoscimento dei sintomi della malattia, la somministrazione dei medicamenti o l’impiego d’apparecchi medici come pure i controlli necessari,
+  - 3\.[^7-6] coordinamento dei provvedimenti nonché interventi di infermieri specializzati in caso di complicazioni in situazioni di cura complesse e instabili;
+
+- b.
+
+  esami e cure:
+
+  - 1\. controllo dei segni vitali (polso, pressione sanguigna, temperatura, respirazione, peso),
+  - 2\. test semplice dello zucchero nel sangue e nell’urina,
+  - 3\. prelievo di materiale per esame di laboratorio,
+  - 4\. provvedimenti inerenti la terapia respiratoria (quali somministrazione di ossigeno, inalazioni, esercizi respiratori semplici, aspirazione),
+  - 5\. posa di sonde e di cateteri come pure le cure corrispettive,
+  - 6\. cure in caso di emodialisi o di dialisi peritoneale,
+  - 7\.[^7-7] preparazione e somministrazione di medicamenti nonché documentazione delle attività associate,
+  - 8\. somministrazione enterale e parenterale di soluzioni nutritive,
+  - 9\. sorveglianza delle perfusioni e delle trasfusioni come pure d’apparecchi che servono al controllo e al mantenimento delle funzioni vitali o di uso terapeutico,
+  - 10\. lavaggio, pulitura e medicazione di piaghe (compresi decubiti e ulcere) e delle cavità del corpo (comprese cure per pazienti con stoma o tracheostoma) come pure la pedicure per diabetici,
+  - 11\. cure in caso di turbe dell’evacuazione urinaria o intestinale, compresa la ginnastica di riabilitazione in caso d’incontinenza,
+  - 12\. assistenza per bagni medicinali parziali o completi; applicazione d’impacchi, cataplasmi e fango,
+  - 13\.[^7-8] assistenza per l’applicazione di terapie mediche nella prassi quotidiana, quali l’esercizio di strategie d’intervento e le istruzioni comportamentali per i casi di aggressione, paura e psicosi deliranti,
+  - 14\.[^7-9] sostegno alle persone malate psichicamente in situazioni di crisi, volto segnatamente a impedire attacchi acuti pericolosi per loro stesse e per gli altri;
+
+- c.
+
+  cure di base:
+
+  - 1\. cure di base generali per i pazienti dipendenti quali: bendare le gambe, infilare le calze compressive, rifacimento del letto, installazione del paziente, esercizi di mobilizzazione, prevenzione antidecubito, prevenzione e cure delle lesioni cutanee conseguenti a una terapia; aiuto alle cure d’igiene corporale e della bocca, a vestire e svestire il paziente e a nutrirlo,
+  - 2\.[^7-10] provvedimenti volti a sorvegliare e assistere persone malate psichicamente nel quadro delle attività fondamentali quotidiane, quali: l’elaborazione e l’attuazione di un ritmo di vita strutturato adeguato, una pratica mirata alla creazione e all’incoraggiamento di contatti sociali e l’assistenza nell’ambito dell’aiuto all’orientamento e dell’applicazione di misure di sicurezza.
+
+<sup>2</sup>
+
+<sup>bis</sup> Devono essere soddisfatte le seguenti condizioni:
+
+- a. le prestazioni di cui al capoverso 2 lettera a numero 3 devono essere fornite da un infermiere (art. 49 OAMal) che possa attestare un’attività pratica di due anni in collaborazione interdisciplinare e reti di gestione dei pazienti;
+- b. la valutazione se occorra attuare i provvedimenti di cui al capoverso 2 lettere b numeri 13 e 14 e c numero 2 deve essere effettuata da un infermiere (art. 49 OAMal) che possa attestare un’attività pratica di due anni nel ramo della psichiatria.[^7-11]
+
+<sup>2ter</sup> Le prestazioni possono essere fornite ambulatoriamente o in una casa di cura. Possono altresì essere fornite esclusivamente durante il giorno o durante la notte.[^7-12]
+
+<sup>3</sup> Sono considerate prestazioni delle cure acute e transitorie ai sensi dell’articolo 25*a* capoverso 2 LAMal le prestazioni previste al capoverso 2, effettuate da persone e istituti di cui al capoverso 1 lettere a–c secondo la valutazione dei bisogni di cui al capoverso 2 lettera a e all’articolo 8 dopo un soggiorno ospedaliero e previa prescrizione di un medico dell’ospedale.[^7-13]
+
+[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-2]: Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^7-3]: Nuovo testo giusta il n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-4]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-5]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7-6]: Introdotto dal n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-7]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-8]: Introdotto dal n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-9]: Introdotto dal n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-10]: Nuovo testo giusta il n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-11]: Introdotto dal n. I dellʼO del DFI del 20 dic. 2006 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-12]: Introdotto dal n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^7-13]: Introdotto dal n. I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+
+#### Art. 7a
+
+**Contributi**[^7a-1]
+
+<sup>1</sup>
+
+Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 lettere a e b, l’assicurazione versa, per le prestazioni secondo l’articolo 7 capoverso 2, i contributi seguenti:
+
+- a. per le prestazioni di cui all’articolo 7 capoverso 2 lettera a: 76.90 franchi all’ora;
+- b. per le prestazioni di cui all’articolo 7 capoverso 2 lettera b: 63.00 franchi all’ora;
+- c. per le prestazioni di cui all’articolo 7 capoverso 2 lettera c: 52.60 franchi all’ora.[^7a-2]
+
+<sup>2</sup> Il rimborso dei contributi di cui al capoverso 1 è calcolato per unità di tempo di 5 minuti. Il rimborso minimo è di 10 minuti.
+
+<sup>3</sup>
+
+Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 lettera c, l’assicurazione versa, al giorno e per le prestazioni secondo l’articolo 7 capoverso 2, i contributi seguenti:
+
+- a. per bisogni di cure fino a 20 minuti: 9.60 franchi;
+- b. per bisogni di cure da 21 a 40 minuti: 19.20 franchi;
+- c. per bisogni di cure da 41 a 60 minuti: 28.80 franchi;
+- d. per bisogni di cure da 61 a 80 minuti: 38.40 franchi;
+- e. per bisogni di cure da 81 a 100 minuti: 48.00 franchi;
+- f. per bisogni di cure da 101 a 120 minuti: 57.60 franchi;
+- g. per bisogni di cure da 121 a 140 minuti: 67.20 franchi;
+- h. per bisogni di cure da 141 a 160 minuti: 76.80 franchi;
+- i. per bisogni di cure da 161 a 180 minuti: 86.40 franchi;
+- j. per bisogni di cure da 181 a 200 minuti: 96.00 franchi;
+- k. per bisogni di cure da 201 a 220 minuti: 105.60 franchi;
+- l. per bisogni di cure superiori a 220 minuti: 115.20 franchi.[^7a-3]
+
+<sup>4</sup> Nel caso delle strutture diurne o notturne di cui all’articolo 7 capoverso 2<sup>ter</sup>, l’assicurazione versa per ogni giorno o per ogni notte, per le prestazioni secondo l’articolo 7 capoverso 2, i contributi previsti al capoverso 3.
+
+[^7a-1]: Introdotto dal n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+[^7a-2]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7a-3]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+
+#### Art. 7b
+
+**Assunzione dei costi per le prestazioni delle cure acute e transitorie**[^7b-1]
+
+<sup>1</sup> Il Cantone di domicilio e gli assicuratori assumono i costi per le prestazioni delle cure acute e transitorie in funzione della loro quotaparte rispettiva. Il Cantone di domicilio fissa per ogni anno civile, al più tardi nove mesi prima dell’inizio dello stesso, la quotaparte cantonale per gli abitanti del Cantone. La quotaparte cantonale ammonta almeno al 55 per cento.
+
+<sup>2</sup> Il Cantone di domicilio versa la sua quotaparte direttamente al fornitore di prestazioni. Le modalità vengono concordate tra il fornitore di prestazioni e il Cantone di domicilio. L’assicuratore e il Cantone di domicilio possono convenire che il Cantone paghi la sua quotaparte all’assicuratore e che quest’ultimo versi entrambe le quoteparti al fornitore di prestazioni. La fatturazione tra il fornitore di prestazioni e l’assicuratore è disciplinata dall’articolo 42 LAMal[^7b-2].
+
+[^7b-1]: Introdotto dal n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)).
+[^7b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 8
+
+**Prescrizione o mandato medico**[^8-1]
+
+<sup>1</sup> La prescrizione o il mandato medico determina se il paziente necessita di prestazioni secondo l’articolo 7 capoverso 2 o di cure acute e transitorie secondo l’articolo 25a capoverso 2 LAMal[^8-2]. Nella prescrizione o nel mandato il medico può dichiarare necessarie determinate prestazioni secondo l’articolo 7 capoverso 2.
+
+<sup>2</sup>
+
+La durata della prescrizione o del mandato medico non può superare:
+
+- a.[^8-3] nove mesi per le prestazioni di cui all’articolo 7 capoverso 2;
+- b. due settimane per le cure acute e transitorie di cui all’articolo 25*a* capoverso 2 LAMal.
+
+<sup>3</sup> Per le persone che ricevono un assegno per grandi invalidi dell’assicurazione vecchiaia e superstiti, dell’assicurazione invalidità o dell’assicurazione infortuni a causa di una grande invalidità di grado medio o elevato, il mandato medico o la prescrizione medica è di durata illimitata per quanto concerne le prestazioni attinenti alla grande invalidità. L’assicurato deve comunicare all’assicuratore l’esito della revisione dell’assegno per grandi invalidi. Al termine di una siffatta revisione, il mandato medico o la prescrizione medica vanno rinnovati.
+
+<sup>4</sup> Le prescrizioni e i mandati medici di cui al capoverso 2 lettera a possono essere prorogati.
+
+[^8-1]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^8-2]: RS **832****.****10**
+[^8-3]: Correzione del 24 set. 2019 ([RU 2019 3039](https://fedlex.data.admin.ch/eli/oc/2019/554)).
+
+#### Art. 8a
+
+**Valutazione dei bisogni**[^8a-1]
+
+<sup>1</sup> I bisogni delle prestazioni di cui all’articolo 7 capoverso 2, necessarie per attuare la prescrizione o il mandato medico di cui all’articolo 8 (valutazione dei bisogni), sono valutati da un infermiere di cui all’articolo 49 OAMal in collaborazione con il paziente o i suoi familiari. Il risultato della valutazione dei bisogni deve essere trasmesso immediatamente per informazione al medico che ha emesso la prescrizione o il mandato.
+
+<sup>2</sup> Per le prestazioni di cui all’articolo 7 capoverso 2 lettera b, che sono necessarie secondo la valutazione dei bisogni, occorre l’esplicito consenso del medico. Se quest’ultimo non accorda esplicitamente il consenso, occorre effettuare una nuova valutazione dei bisogni. La nuova valutazione dei bisogni avviene con il coinvolgimento del medico qualora quest’ultimo lo ritenga necessario.
+
+<sup>3</sup> La valutazione dei bisogni comprende anche l’analisi dello stato generale del paziente e dell’ambiente in cui vive.
+
+<sup>4</sup> Essa si basa su criteri uniformi. Il risultato è registrato in un formulario uniforme elaborato congiuntamente dai fornitori di prestazioni e dagli assicuratori. Nel formulario deve essere segnatamente indicato il tempo necessario previsto.
+
+<sup>5</sup> Lo strumento utilizzato per la valutazione dei bisogni deve consentire la registrazione di dati sugli indicatori medici della qualità di cui all’articolo 59*a* capoverso 1 lettera f LAMal[^8a-2] per mezzo di dati di routine rilevati durante la valutazione dei bisogni.
+
+<sup>6</sup> L’assicuratore può esigere che gli siano comunicati gli elementi della valutazione dei bisogni concernenti le prestazioni di cui all’articolo 7 capoverso 2.
+
+<sup>7</sup> Dopo una proroga o un rinnovo di un mandato medico o di una prescrizione medica, è necessaria una nuova valutazione dei bisogni.
+
+[^8a-1]: Introdotto dal n. I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)). Vedi anche la disp. fin. mod. 2 lug. 2019 alla fine del presente testo.
+[^8a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 8b
+
+**Valutazione dei bisogni nelle case di cura**[^8b-1]
+
+<sup>1</sup>
+
+La valutazione dei bisogni nelle case di cura deve basarsi su uno strumento che:
+
+- a. distingue tra le prestazioni di cui all’articolo 7 capoverso 2 e le altre prestazioni;
+- b. si basa sulle prestazioni effettivamente fornite, determinate in studi dei tempi; garantisce che la media delle prestazioni effettivamente fornite in tutti i casi esaminati negli studi dei tempi ai quali attribuisce un livello dei bisogni rientri nell’intervallo in minuti di questo livello dei bisogni di cui all’articolo 7*a* capoverso 3;
+- c. comprova, per ogni livello dei bisogni, la varianza delle cure effettivamente dispensate rispetto ai bisogni di cure comprovati, determinata negli studi dei tempi.
+
+<sup>2</sup>
+
+Gli studi dei tempi di cui al capoverso 1 lettera b devono:
+
+- a.
+
+  basarsi su una metodologia uniforme per tutta la Svizzera concordata tra assicuratori, fornitori di prestazioni e Cantoni, che:
+
+  - 1\. sia scientificamente riconosciuta,
+  - 2\. permetta di distinguere le prestazioni di cui all’articolo 7 capoverso 2 da altre prestazioni;
+
+- b. essere stati effettuati in Svizzera;
+- c. essere sufficientemente rappresentativi della totalità dei pazienti delle case di cura ai quali è applicato lo strumento.
+
+[^8b-1]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+
+#### Art. 8c
+
+**Procedura di controllo**[^8c-1]
+
+La procedura di controllo serve a verificare la valutazione dei bisogni e a controllare il valore terapeutico e l’economicità delle prestazioni dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 lettere a e b. Se la valutazione dei bisogni prevede oltre 60 ore di cure per trimestre, il medico di fiducia (art. 57 LAMal[^8c-2]) può verificarla. Se prevede meno di 60 ore per trimestre, il medico di fiducia effettua sistematiche verifiche per campionatura. I fornitori di prestazioni e gli assicuratori possono concordare ulteriori disciplinamenti della procedura di controllo.
+
+[^8c-1]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^8c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 9
+
+**Fatturazione**[^9-1]
+
+<sup>1</sup> Le prestazioni di cui all’articolo 7 capoverso 2 effettuate da infermieri o da organizzazioni di cure e d’aiuto a domicilio devono essere fatturate secondo il tipo di prestazione fornita.
+
+<sup>2</sup> Le prestazioni di cui all’articolo 7 capoverso 2 effettuate nelle case di cura devono essere fatturate secondo il bisogno di cure.
+
+[^9-1]: Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+
+#### Art. 9a
+
+[^9a-1]
+
+[^9a-1]: Introdotto dal n. I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dal n. I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
+
+### Sezione 3*a*: Consulenza nutrizionale
+
+[^tit1-chap2-sec3a-1]
+
+[^tit1-chap2-sec3a-1]: Introdotta dal n. I dellʼO del DFI del 13 dic. 1996, in vigore dal 1° lug. 1997 ([RU 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
+
+#### Art. 9b
+
+[^9b-1]
+
+<sup>1</sup>
+
+I dietisti o le organizzazioni di dietetica ai sensi degli articoli 46, 50*a* e 52*b* OAMal prestano consulenza, previa prescrizione medica o su mandato medico, ai pazienti affetti dalle malattie seguenti:[^9b-2]
+
+- a.[^9b-3] turbe del metabolismo;
+- b.[^9b-4] obesità (indice di massa corporea [IMC] superiore a 30) e malattie conseguenti al sovrappeso e concomitanti;
+- b<sup>bis</sup>.[^9b-5] obesità e sovrappeso nel quadro di una «terapia individuale multiprofessionale ambulatoriale strutturata per bambini e adolescenti affetti da sovrappeso o obesità » di cui all’allegato 1 numero 4;
+- c. malattie cardiovascolari;
+- d. malattie del sistema digestivo;
+- e. malattie dei reni;
+- f. stato di malnutrizione o di denutrizione;
+- g. allergie alimentari o reazioni allergiche dovute all’alimentazione.
+
+<sup>2</sup> Sono assunti al massimo i costi di sei sedute di consulenza nutrizionale prescritta dal medico curante. La prescrizione medica può essere rinnovata se sono necessarie ulteriori consultazioni.
+
+<sup>3</sup> Affinché la cura continui ad essere rimunerata dopo 12 consultazioni, il medico curante deve trasmettere al medico di fiducia una proposta debitamente motivata. Il medico di fiducia propone all’assicuratore se e in quale misura la consulenza nutrizionale può essere continuata a carico dell’assicurazione.
+
+[^9b-1]: Originario art. 9*a*.
+[^9b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
+[^9b-3]: Nuovo testo giusta il n. I dellʼO del DFI del 18 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
+[^9b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^9b-5]: Introdotta dal n. I dellʼO del DFI del 6 dic. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
+
+### Sezione 3*b*: Consulenza ai diabetici
+
+[^tit1-chap2-sec3b-1]
+
+[^tit1-chap2-sec3b-1]: Introdotta dal n. I dellʼO del DFI del 18 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
+
+#### Art. 9c
+
+<sup>1</sup>
+
+L’assicurazione assume i costi della consulenza ai diabetici prestata previa prescrizione medica o mandato medico da:
+
+- a. infermiere e infermieri (art. 49 OAMal) con formazione speciale riconosciuta dall’Associazione svizzera infermiere e infermieri (ASI),
+- b. un centro di consulenza dell’Associazione svizzera per il diabete, autorizzato conformemente all’articolo 51 OAMal, che dispone del personale diplomato con formazione speciale riconosciuta dall’Associazione svizzera infermiere e infermieri (ASI).
+
+<sup>2</sup> La consulenza ai diabetici comprende i consigli e l’istruzione attinenti all’ambito delle cure (*Diabetes mellitus*).
+
+<sup>3</sup> L’assicurazione assume al massimo i costi di dieci sedute per prescrizione medica. Se la consulenza dev’essere continuata a carico dell’assicuratore dopo dieci sedute, il medico curante deve informare il medico di fiducia e trasmettergli une proposta debitamente motivata. Il medico di fiducia la esamina e propone se e in quale misura la consulenza può essere continuata a carico dell’assicurazione.[^9c-1]
+
+<sup>4</sup> I dietisti (art. 50*a* OAMal) che operano in centri di consulenza dell’Associazione svizzera per il diabete possono effettuare le prestazioni di cui all’articolo 9*b* capoverso 1 lettera a e capoversi 2 e 3.
+
+[^9c-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2002, in vigore dal 1° gen. 2003 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)).
+
+### Sezione 4: Logopedia
+
+#### Art. 10
+
+**Principio**[^10-1]
+
+I logopedisti o l’organizzazione della logopedia curano, previa prescrizione medica, i pazienti affetti da turbe del linguaggio, dell’articolazione, della voce, della dizione e della deglutizione conseguenti a:
+
+- a. affezioni neurologiche di origine infettiva, traumatica, postoperatoria, tossica, tumorale, vascolare, ipossica o degenerativa;
+- b. affezioni foniatriche (in particolare malformazione parziale o totale delle labbra, della lingua, del palato, della mascella o della laringe; disturbi della muscolatura orofacciale o della funzione laringea di origine infettiva, traumatica, postoperatoria, tumorale o funzionale).
+
+[^10-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)).
+
+#### Art. 11
+
+**Condizioni**
+
+<sup>1</sup> L’assicurazione assume al massimo, per ogni prescrizione medica, i costi di dodici sedute di terapia logopedica fermo restando che il primo trattamento deve avvenire entro otto settimane dalla prescrizione medica.[^11-1]
+
+<sup>2</sup> Per la rimunerazione di ulteriori sedute è necessaria una nuova prescrizione medica.
+
+<sup>3</sup> Se una terapia logopedica dev’essere continuata a carico dell’assicurazione dopo una cura equivalente a 60 sedute di un’ora comprese in un periodo di un anno, il medico curante deve informare il medico di fiducia e trasmettergli una relativa proposta debitamente motivata. Il medico di fiducia la esamina e propone se e in quale misura la terapia può essere continuata a carico dell’assicurazione.
+
+<sup>4</sup> Il medico curante deve informare il medico di fiducia almeno una volta all’anno in merito al decorso e all’ulteriore indicazione della terapia.
+
+<sup>5</sup> I rapporti trasmessi al medico di fiducia in applicazione dei capoversi 3 e 4 possono contenere unicamente le indicazioni necessarie a stabilire la rimunerazione obbligatoria dell’assicuratore.
+
+[^11-1]: Nuovo testo giusta il n. I dellʼO del DFI del 20 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
+
+### Sezione 5: Neuropsicologia
+
+[^tit1-chap2-sec5-1]
+
+[^tit1-chap2-sec5-1]: Introdotta dal n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° lug. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+
+#### Art. 11a
+
+<sup>1</sup> L’assicurazione assume i costi delle prestazioni diagnostiche effettuate da neuropsicologi previa prescrizione medica secondo l’articolo 50*b* OAMal.
+
+<sup>2</sup> Assume al massimo, per ogni prescrizione medica, i costi di sei sedute. Per anno e paziente sono possibili solo due prescrizioni mediche.
+
+### Capitolo 3: Misure di prevenzione
+
+#### Art. 12
+
+**Principio**[^12-1]
+
+L’assicurazione assume i costi delle misure di medicina preventiva seguenti (art. 26 LAMal[^12-2]):
+
+- a. vaccinazioni profilattiche (art. 12*a*);
+- b. misure di profilassi di malattie (art. 12*b*);
+- c. esami sullo stato di salute generale (art. 12*c*);
+- d. misure per l’individuazione precoce di malattie in determinati gruppi a rischio (art. 12*d*);
+- e. misure per l’individuazione precoce di malattie nella popolazione in generale, incluse le misure destinate a tutte le persone di una determinata classe d’età oppure a tutti gli uomini o donne (art. 12*e*).
+
+[^12-1]: Nuovo testo giusta il n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
+[^12-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 12a
+
+**Vaccinazioni profilattiche**[^12a-1]
+
+L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche alle condizioni elencate:
+
+<table>
+<tr><th>Misura</th><th colspan="2">Condizione</th></tr>
+<tr><td>a. Vaccinazione e richiami contro difterite, tetano, pertosse, poliomielite; vaccinazione contro morbillo, orecchioni, rosolia</td><td colspan="2">Secondo il «Calendario vaccinale svizzero 2020» (Calendario vaccinale 2020)[^12a-2] curato dall’Ufficio federale della sanità pubblica (UFSP) e dalla Commissione federale per le vaccinazioni (CFV).</td></tr>
+<tr><td>b. Vaccinazione contro l’Haemophilus influenzae</td><td colspan="2">Secondo il Calendario vaccinale 2020, per i bambini fino al compimento dei 5 anni.</td></tr>
+<tr><td>c. Vaccinazione contro l’influenza</td><td>1. Vaccinazione annuale per le persone esposte a un elevato rischio di complicazioni secondo il Calendario vaccinale 2020. 2. In caso di minaccia di pandemia d’influenza o nel corso di tale pandemia, per coloro ai quali l’UFSP raccomanda una vaccinazione[^12a-3]. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario.</td></tr>
+<tr><td>d. Vaccinazione contro l’epatite B</td><td colspan="2">Secondo il Calendario vaccinale 2020. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>e. Vaccinazione passiva con Epatite B-Immunglobuline</td><td colspan="2">Per i neonati di madri HBsAg-positive.</td></tr>
+<tr><td>f. Vaccinazione contro gli pneumococchi</td><td colspan="2">Secondo il Calendario vaccinale 2020, per i bambini fino al compimento dei 5 anni.</td></tr>
+<tr><td>g. Vaccinazione contro i meningococchi</td><td colspan="2">Secondo il Calendario vaccinale 2020. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>h. Vaccinazione contro la tubercolosi</td><td colspan="2">Con il vaccino BCG secondo il Calendario vaccinale 2020.</td></tr>
+<tr><td>i Vaccinazione contro l’encefalite da zecca (FSME)</td><td colspan="2">Secondo il Calendario vaccinale 2020. Se effettuata per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>j. Vaccinazione contro la varicella</td><td colspan="2">Secondo il Calendario vaccinale 2020.</td></tr>
+<tr><td>k. Vaccinazione contro i virus del papilloma umano (HPV)</td><td colspan="2">1. Secondo il Calendario vaccinale 2020: a. vaccinazione di base delle ragazze dal compimento dell’11° anno di età al compimento del 15° anno di età; b. vaccinazione delle ragazze e delle donne dal compimento del 15° anno di età al compimento del 27° anno di età; c. vaccinazione complementare dei ragazzi e degli uomini dal compimento dell’11° anno di età al compimento del 27° anno di età. 2. Vaccinazione nel quadro di programmi cantonali di vaccinazione che devono soddisfare i seguenti requisiti minimi: a. l’informazione ai giovani appartenenti ai gruppi target e ai loro genitori (o rappresentanti legali) in merito alla disponibilità della vaccinazione e alle raccomandazioni dell’UFSP e della CFV secondo il numero 1 è garantita; b. la completezza delle vaccinazioni è ricercata; c. le prestazioni e gli obblighi dei responsabili del programma, dei medici che effettuano le vaccinazioni e degli assicuratori-malattie sono definiti; d. il rilevamento di dati, il conteggio, i flussi delle informazioni e delle finanze sono disciplinati. 3. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario. 4. L’assunzione dei costi del vaccino nonavalente è in fase di valutazione fino al 31 dicembre 2022.</td></tr>
+<tr><td>l. Vaccinazione contro l’epatite A</td><td colspan="2">Secondo il Calendario vaccinale 2020. Per le seguenti persone: – per pazienti affetti da una malattia cronica del fegato – per bambini provenienti da Paesi con un’endemicità media o elevata che vivono in Svizzera e che ritornano al loro Paese d’origine per un soggiorno temporaneo – per persone che si iniettano droghe – per uomini che hanno contatti sessuali con altri uomini al di fuori di una relazione stabile. Vaccinazione post-esposizione entro sette giorni dall’esposizione. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>m. Vaccinazione contro la rabbia</td><td colspan="2">Vaccinazione post-esposizione dopo il morso di un animale affetto, o sospettato di essere affetto, dalla rabbia. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>n.[^12a-4] Vaccinazione contro il COVID-19</td><td colspan="2">Durante un’epidemia di COVID-19 per le persone esposte a rischio elevato. Questa prestazione non è soggetta a franchigia. Per la vaccinazione, incluso il vaccino, viene concordato un rimborso forfettario.</td></tr>
+</table>
+
+[^12a-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
+[^12a-2]: Il documento può essere consultato al seguente indirizzo Internet: www.bag.admin.ch/ref
+[^12a-3]: Vedi l’O del 29 apr. 2015 sulle epidemie ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
+[^12a-4]: Introdotta dal n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+
+#### Art. 12b
+
+**Misure di profilassi di malattie**[^12b-1]
+
+L’assicurazione assume i costi delle seguenti misure di profilassi di malattie alle condizioni elencate:
+
+<table>
+<tr><th>Misura</th><th>Condizione</th></tr>
+<tr><td>a. Profilassi alla vitamina K</td><td>Per i neonati (3 dosi).</td></tr>
+<tr><td>b. Profilassi del rachitismo mediante vitamina D</td><td>Durante il primo anno.</td></tr>
+<tr><td>c.[^12b-2] Profilassi post-esposizione ad HIV</td><td>Secondo le raccomandazioni dell’UFSP del 24 novembre 2014 (Bollettino dell’UFSP n. 48, 2014)[^12b-3]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>d[^12b-4] Immunizzazione passiva post-esposizione</td><td>Secondo le raccomandazioni dell’UFSP e della CFV (direttive e raccomandazioni «immunizzazione passiva post-esposizione» dell’ottobre 2004)[^12b-5]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>e.[^12b-6] Mastectomia e/o annessectomia profilattica</td><td>Per le portatrici di mutazioni o delezioni del gene BRCA1 o BRCA2.</td></tr>
+</table>
+
+[^12b-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
+[^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
+[^12b-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12b-4]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 31 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
+[^12b-5]: I documenti possono essere consultati allʼindirizzo [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Assicurazione malattie &gt; Basi giuridiche e dʼesecuzione&gt; Diritto applicabile &gt; Documenti di riferimento.
+[^12b-6]: Introdotta dal n. I dellʼO del DFI del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Nuovo testo giusta il n. I dellʼO del DFI del 12 giu. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
+
+#### Art. 12c
+
+**Esami sullo stato di salute generale**[^12c-1]
+
+L’assicurazione assume i costi dei seguenti esami sullo stato di salute generale:
+
+<table>
+<tr><th>Misura</th><th>Condizione</th></tr>
+<tr><td>a.[^12c-2] Esame dello stato di salute e dello sviluppo del fanciullo in età prescolare</td><td>Secondo le liste di controllo «Esami preventivi» della Società svizzera di pediatria (4<sup>a</sup> edizione, Berna 2011[^12c-3]). L’assunzione dei costi è prevista per al massimo otto esami.</td></tr>
+</table>
+
+[^12c-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
+[^12c-2]: Nuovo testo giusta il n. I dellʼO del DFI del 25 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)).
+[^12c-3]: Le liste possono essere consultate allʼindirizzo: www.bag.admin.ch/ref (solo in versione tedesca o francese).
+
+#### Art. 12d
+
+**Misure per l’individuazione precoce di malattie in determinati gruppi a rischio**[^12d-1]
+
+<sup>1</sup> L’assicurazione assume i costi delle seguenti misure per l’individuazione precoce di malattie in determinati gruppi a rischio alle condizioni elencate:
+
+<table>
+<tr><th>Misura</th><th>Condizione</th></tr>
+<tr><td>a.[^12d-2] Test HIV</td><td>Per i neonati di madri sieropositive. Per le altre persone, secondo la direttiva dell’UFSP del 18 maggio 2015[^12d-3] «Test dell’HIV e consulenza su iniziativa del medico» (non disponibile in italiano).</td></tr>
+<tr><td>b. Colonoscopia</td><td>In caso di cancro del colon in famiglia (ne sono stati affetti almeno 3 parenti di primo grado o uno prima dell’età di 30 anni).</td></tr>
+<tr><td>c. Esame della pelle</td><td>In caso di rischio accresciuto di melanoma in famiglia (melanoma riscontrato in un parente di primo grado).</td></tr>
+<tr><td>d.[^12d-4] Mammografia digitale, RMN mammaria</td><td>[tab] 1.[^12d-5] Per le donne con un rischio familiare di cancro del seno medio o molto elevato o con rischio individuale comparabile. Classificazione del rischio mediante modelli di calcolo del rischio (p. es. IBIS, CanRisk) La condizione per la classificazione nella categoria «rischio molto elevato» è una consulenza genetica secondo la lettera f. Indicazione, frequenza e metodo d’indagine adeguato al rischio e all’età secondo il documento di riferimento dell’UFSP «Protocollo di monitoraggio» (stato al 01/2021)[^12d-6]. Il primo esame deve essere preceduto da un colloquio approfondito con spiegazioni e consulenza, che va documentato. 2. Indicazione, colloquio con spiegazioni e consulenza nonché esecuzione della sorveglianza e ulteriori consulenza ed esame in caso di risultati anomali da parte di un centro di senologia certificato che soddisfi i requisiti secondo i «Criteri di qualità per la certificazione dei centri di senologia» della Lega svizzera contro il cancro e della Società svizzera di senologia, dell’ottobre 2014[^12d-7], secondo le raccomandazioni «The requirements of a specialist Breast Centre» della European Society of Breast Cancer Specialists (EUSOMA)*,* pubblicate il 19 agosto 2013[^12d-8], o secondo i criteri contenuti nell’«Erhebungsbogen Brustkrebszentren» della Deutsche Krebsgesellschaft e della Deutsche Gesellschaft für Senologie del 14 luglio 2016[^12d-9]. A titolo sussidiario gli esami mediante formazione d’immagini possono essere effettuati anche da fornitori di prestazioni che collaborano su base contrattuale con un centro di senologia certificato. Se l’esame deve essere eseguito in un altro centro, va precedentemente richiesta la garanzia speciale dell’assicuratore il quale tiene conto della raccomandazione del medico di fiducia.</td></tr>
+<tr><td>e. Test di contrattura muscolare in vitro in esito alla diagnosi di una predisposizione all’ipertermia maligna</td><td>Per persone che, durante un’anestesia, hanno presentato un episodio sospetto d’ipertermia maligna e per i consanguinei di primo grado di persone per le quali un’ipertermia maligna sotto anestesia è conosciuta ed è documentata una predisposizione all’ipertermia maligna. In un centro riconosciuto dall’European Malignant Hyperthermia Group.</td></tr>
+<tr><td>f.[^12d-10] Consulenza genetica, indicazione per le analisi genetiche e prescrizione delle relative analisi di laboratorio in conformità dell’elenco delle analisi (EA), in caso di sospetta predisposizione a una malattia cancerogena ereditaria</td><td>A pazienti e familiari di primo grado di pazienti affetti da: – una sindrome ereditaria di cancro al seno e dell’ovaia – poliposi del colon/forma attenuata di poliposi del colon – sindrome ereditaria del carcinoma non poliposo del colon (hereditary non polypotic colon cancer HNPCC) – retinoblastoma. Da parte di medici specializzati in medicina genetica o di membri del «Network for Cancer Predisposition Testing and Counseling» del Gruppo svizzero di ricerca clinica sul cancro (SAAK) in grado di dimostrare di aver svolto una collaborazione scientifica con un medico specializzato in medicina genetica.</td></tr>
+<tr><td>g.[^12d-11] Consulenza genetica, indicazione per le analisi genetiche e prescrizione delle relative analisi di laboratorio in conformità con l’elenco delle analisi (EA), in caso di sospetta predisposizione alla por-firia epatica acuta (porfiria intermittente acuta, porfiria variegata o coproporfiria ereditaria)</td><td>I familiari delle persone affette da una malattia sintomatica e comprovata che presentano un rischio quantomeno del 12,5 per cento di ereditare questa malattia genetica. [tab]</td></tr>
+</table>
+
+<sup>2</sup> Se per l’attribuzione a un gruppo a rischio è presupposto un determinato grado di parentela con una o più persone malate, questo grado di parentela deve essere accertato in base a dati anamnestici in senso medico-biologico.[^12d-12]
+
+[^12d-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
+[^12d-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 gen. 2019, in vigore dal 1° mar. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)).
+[^12d-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12d-4]: Nuovo testo giusta il n. I dellʼO del DFI del 17 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
+[^12d-5]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12d-6]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif
+[^12d-7]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12d-8]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12d-9]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12d-10]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^12d-11]: Introdotta dal n. I dellʼO del DFI del 20 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
+[^12d-12]: Introdotto dal n. I dellʼO del DFI del 17 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
+
+#### Art. 12e
+
+**Misure per l’individuazione precoce di malattie nella popolazione in generale**[^12e-1]
+
+L’assicurazione assume i costi delle seguenti misure per l’individuazione precoce di malattie nella popolazione in generale alle condizioni elencate:
+
+<table>
+<tr><th>Misura</th><th>Condizione</th></tr>
+<tr><td>a.[^12e-2] Screening di: fenilchetonuria, galattosemia, deficit in biotinidasi, sindrome adrenogenitale, ipotiroidismo congenito, carenza di acil-CoA deidrogenasi a catena media (MCAD), fibrosi cistica, aciduria glutarica di tipo 1, malattia delle urine a sciroppo d’acero, gravi deficienze immunitarie congenite.</td><td>Per i neonati. Analisi di laboratorio secondo l’Elenco delle analisi (EL).</td></tr>
+<tr><td>b.[^12e-3] Esame ginecologico preventivo, compreso lo striscio</td><td>I primi due esami, compreso lo striscio (in particolare test di Papanicolau per l’individuazione precoce del carcinoma della cervice, citologia in strato sottile per l’individuazione precoce del carcinoma della cervice con metodi ThinPrep oppure Autocyte Prep/SurePath), con frequenza annuale, successivamente ogni tre anni. Questa frequenza è valevole se i risultati sono normali, altrimenti frequenza degli esami secondo la valutazione clinica. Il test per il virus del papilloma umano nello screening della cervice è escluso dall’assunzione dei costi.</td></tr>
+<tr><td>c.[^12e-4] Mammografia di diagnosi precoce</td><td>Dal compimento dei 50 anni, ogni due anni. Nell’ambito di un programma di diagnosi precoce del cancro del seno secondo l’ordinanza del 23 giugno 1999[^12e-5] sulla garanzia della qualità dei programmi di diagnosi precoce del cancro del seno mediante mammografia. Per questa prestazione non è riscossa nessuna franchigia.</td></tr>
+<tr><td>d.[^12e-6] Individuazione precoce del carcinoma del colon</td><td>Persone di età compresa tra i 50 e i 69 anni. Metodi d’esame: – identificazione di sangue occulto nelle feci, ogni due anni, analisi di laboratorio secondo l’elenco delle analisi (EA), colonoscopia in caso di esito positivo oppure – colonoscopia, ogni dieci anni. Se l’esame si svolge nel quadro dei programmi nei Cantoni di Basilea Città, Friburgo, Ginevra, dei Grigioni, del Giura, di Neuchâtel, San Gallo, del Ticino, di Uri, Vaud, del Vallese o nella regione amministrativa del Giura bernese, per la prestazione non è riscossa nessuna franchigia.</td></tr>
+</table>
+
+[^12e-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
+[^12e-2]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)).
+[^12e-3]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12e-4]: Nuovo testo giusta il n. I dellʼO del DFI del 27 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)).
+[^12e-5]: [RS 832.102.4](https://fedlex.data.admin.ch/eli/cc/1999/341)
+[^12e-6]: Introdotta dal n. I dellʼO del DFI del 10 giu. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)). Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+
+### Capitolo 4: Prestazioni specifiche di maternità
+
+#### Art. 13
+
+**Esami di controllo**
+
+In caso di maternità, l’assicurazione assume gli esami di controllo seguenti (art. 29 cpv. 2 lett. a LAMal[^13-1]):
+
+<table>
+<tr><th>Misura</th><th>Condizione</th></tr>
+<tr><td>a. Controlli</td><td></td></tr>
+<tr><td>1. Sette esami in caso di gravidanza normale</td><td>– *Prima consultazione:* anamnesi, esame clinico e vaginale, consigli, esame delle varici e degli edemi alle gambe. Prescrizione di analisi di laboratorio necessarie secondo l’elenco delle analisi (EA). *–* *Ulteriori consultazioni:* controllo dello stato di salute generale, in particolare del peso, della pressione sanguigna, dello stato del fondo, uroscopia e ascoltazione dei toni cardiaci fetali. Prescrizione di analisi di laboratorio necessarie secondo l’elenco delle analisi (EA). Consulenza approfondita sulla gravidanza, segnatamente se insorgono disturbi in relazione ad essa. – Se i controlli sono effettuati esclusivamente da medici, questi ultimi segnalano all’assicurata che un colloquio di consulenza con la levatrice secondo l’articolo 14 è opportuno nel secondo trimestre di gravidanza.</td></tr>
+<tr><td>2. In caso di gravidanza a rischio</td><td>Ripetizione di esami secondo la valutazione clinica</td></tr>
+<tr><td>b. Controllo agli ultrasuoni</td><td></td></tr>
+<tr><td>1. In caso di gravidanza normale: un esame di routine tra la 12<sup>a</sup> e la 14<sup>a</sup> settimana di gravidanza; un esame di routine tra la 20<sup>a</sup> e la 23<sup>a</sup> settimana di gravidanza</td><td>Dopo approfondito colloquio, con spiegazioni e consulenza, che dev’essere documentato. Effettuazione, secondo le «Raccomandazioni relative agli esami con ultrasuoni durante la gravidanza» della Società Svizzera di Ultrasuoni in Medicina (SSUM), Sezione ginecologia e ostetricia, 3<sup>a</sup> edizione (2019)[^13-2]. Solo da parte di medici con titolo di perfezionamento corrispondente al programma di formazione complementare del 28 maggio 1998 «Ultrasuoni in gravidanza (SSUM)», riveduto il 15 marzo 2012[^13-3].</td></tr>
+<tr><td>2. In caso di gravidanza a rischio</td><td>Ripetizione di esami secondo la valutazione clinica. Solo da parte di medici con titolo di perfezionamento corrispondente al programma di formazione complementare del 28 maggio 1998 «Ultrasuoni in gravidanza (SSUM)», riveduto il 15 marzo 2012.</td></tr>
+<tr><td>[tab] b.<sup>bis</sup> Test del primo trimestre</td><td>Esame prenatale volto a valutare il rischio di trisomie 21, 18 e 13: in base alla misurazione della translucenza nucale nell’ecografia (tra la 12esima e la 14esima settimana), alla determinazione della PAPP-A e della ß-hCG libera nel sangue della madre, nonché ad altri fattori materni e fetali. Previa informazione secondo l’articolo 16 e concessione del diritto di autodeterminazione secondo l’articolo 18 della legge federale dell’8 ottobre 2004[^13-4] sugli esami genetici sull’essere umano (LEGU). Prescrizione e misurazione della translucenza nucale solo da parte di medici con titolo di perfezionamento corrispondente al programma di formazione complementare del 28 maggio 1998 «Ultrasuoni in gravidanza (SSUM)», riveduto il 15 marzo 2012. Analisi di laboratorio secondo l’elenco delle analisi (EA).</td></tr>
+<tr><td>[tab] b.<sup>ter</sup> Test prenatale non invasivo (TPNI)</td><td>Per l’identificazione di una trisomia 21, 18 o 13. A partire dalla 12<sup>a</sup> settimana di gravidanza. Per le donne incinte presso le quali sussiste un rischio pari o superiore a 1:1000 che il feto sia affetto da una trisomia 21, 18 o 13. Determinazione del rischio e indicazione in caso di malformazioni visibili con l’ecografia secondo la comunicazione degli esperti n. 52 del 14 marzo 2018[^13-5] della Società svizzera di ginecologia e ostetricia (SSGO), redatta dal Gruppo di lavoro dell’Accademia di medicina feto-materna e della Società svizzera di genetica medica. Nelle gravidanze gemellari i TPNI mediante microarray o polimorfismo a singolo nucleotide (SNP) sono esclusi dall’assunzione dei costi da parte dell’assicurazione. Dopo colloquio approfondito con spiegazioni e consulenza secondo gli articoli 14 e 15 LEGU, nonché previo consenso scritto della donna incinta e concessione del diritto di autodeterminazione secondo l’articolo 18 LEGU. Prescrizione solo da parte di medici specializzati in ginecologia e ostetricia con formazione approfondita in medicina feto-materna (programma di perfezionamento del 15 marzo 2012, riveduto il 16 febbraio 2017[^13-6]), di medici specializzati in medicina genetica e di medici con titolo di perfezionamento corrispondente al programma di formazione complementare del 28 maggio 1998 «Ultrasuoni in gravidanza SSUM», riveduto il 15 marzo 2012. Analisi di laboratorio secondo l’elenco delle analisi (EA). Se per motivi tecnici è stabilito il sesso del feto, questa informazione non può essere comunicata prima del termine di dodici settimane dall’inizio dell’ultima mestruazione.</td></tr>
+<tr><td>c. Esami preparto mediante cardiotocografia</td><td>In caso di gravidanza a rischio.</td></tr>
+<tr><td>d. Amniocentesi, prelievo di villi coriali, cordocentesi</td><td>Dopo approfondito colloquio con spiegazioni e consulenza che dev’essere documentato, nei casi seguenti: – per confermare un esito positivo nel caso di donne incinte presso le quali sussiste un sospetto di grado elevato, in base al test genetico prenatale non invasivo (NIPT), o un rischio pari o superiore a 1:380, in base al test del primo trimestre, che il feto sia affetto da una trisomia 21, 18 o 13; – nelle donne incinte presso le quali, in base all’esito dell’ecografia o all’anamnesi familiare o per un altro motivo, sussiste un rischio pari o superiore a 1:380 che il feto sia affetto da una malattia di origine esclusivamente genetica; – se il feto è in pericolo a causa di una complicazione insorta nella gravidanza, di una malattia della madre o di una malattia di origine non genetica o di un disturbo dello sviluppo del feto. Prescrizione di esami genetici solo da parte di medici specializzati in ginecologia e ostetricia con formazione approfondita in medicina feto-materna (programma di perfezionamento del 15 marzo 2012, riveduto il 16 febbraio 2017), di medici specializzati in medicina genetica e di medici con titolo di perfezionamento corrispondente al programma di formazione complementare del 28 maggio 1998 «Ultrasuoni in gravidanza SSUM», riveduto il 15 marzo 2012. Analisi di laboratorio secondo l’elenco delle analisi (EA).</td></tr>
+<tr><td>e. Controllo post-partum un esame</td><td>Tra la sesta e la decima settimana post-partum: anamnesi intermedia, esame clinico e ginecologico, consulenza compresa.</td></tr>
+<tr><td>[tab] f. Controllo dopo un aborto spontaneo</td><td>Dopo un aborto spontaneo o un’interruzione di gravidanza indicata dal profilo medico a partire dalla 13<sup>a</sup> settimana di gravidanza fino alla 23<sup>a</sup> settimana di gravidanza compresa. Anamnesi intermedia, esame clinico e ginecologico, consulenza; analisi di laboratorio ed ecografia secondo la valutazione clinica. L’ecografia può essere effettuata solo da medici con titolo di perfezionamento corrispondente al programma di formazione complementare del 28 maggio 1998 «Ultrasuoni in gravidanza (SSUM)», riveduto il 15 marzo 2012. [^13-7]</td></tr>
+</table>
+
+[^13-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-2]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
+[^13-3]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
+[^13-4]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^13-5]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
+[^13-6]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif
+[^13-7]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+
+#### Art. 14
+
+**Preparazione al parto**[^14-1]
+
+L’assicurazione assume un contributo di 150 franchi:
+
+- a per un corso di preparazione al parto, eseguito individualmente o in gruppo dalla levatrice o dall’organizzazione delle levatrici; o
+- b. per un colloquio di consulenza con la levatrice o con l’organizzazione delle levatrici in vista del parto, della pianificazione e dell’organizzazione del puerperio a domicilio e della preparazione all’allattamento.
+
+[^14-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+
+#### Art. 15
+
+**Consulenza per l’allattamento**
+
+<sup>1</sup> La consulenza per l’allattamento (art. 29 cpv. 2 lett. c LAMal[^15-1]) è assunta dall’assicurazione se dispensata da una levatrice, un’organizzazione delle levatrici o un infermiere con relativa formazione speciale.[^15-2]
+
+<sup>2</sup> La rimunerazione è limitata a tre sedute.
+
+[^15-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^15-2]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+
+#### Art. 16
+
+**Prestazioni delle levatrici**[^16-1]
+
+<sup>1</sup>
+
+Le levatrici e le organizzazioni delle levatrici possono effettuare a carico dell’assicurazione le prestazioni seguenti:
+
+- a.
+
+  le prestazioni di cui all’articolo 13 lettera a:
+
+  - 1\. in caso di gravidanza normale, la levatrice o l’organizzazione delle levatrici può effettuare sette esami di controllo; deve segnalare all’assicurata che una consultazione medica è indicata nel primo trimestre di gravidanza,
+  - 2\. in caso di gravidanza a rischio, senza patologia manifesta, la levatrice o l’organizzazione delle levatrici collabora con il medico; in caso di gravidanza patologica, effettua le prestazioni previa prescrizione medica;
+
+- a<sup>bis</sup>.[^16-2]
+
+  assistenza nel quadro di visite a domicilio per curare l’assicurata e sorvegliare il suo stato di salute dopo un aborto spontaneo o un’interruzione di gravidanza indicata dal profilo medico a partire dalla 13<sup>a</sup> settimana di gravidanza fino alla 23<sup>a</sup> settimana di gravidanza compresa, come segue:
+
+  - 1\. dopo l’aborto spontaneo o l’interruzione di gravidanza, la levatrice o l’organizzazione delle levatrici possono effettuare al massimo dieci visite a domicilio,
+  - 2\. per visite a domicilio supplementari è necessaria una prescrizione medica.
+
+- b. le prestazioni di cui all’articolo 13 lettere c ed e, come pure agli articoli 14 e 15;
+- c.
+
+  l’assistenza durante il puerperio nel quadro di visite a domicilio per curare madre e bambino e sorvegliare il loro stato di salute, nonché per sostenere, guidare e consigliare la madre nelle cure e nell’alimentazione del bambino come segue:
+
+  - 1\. nei 56 giorni successivi al parto la levatrice o l’organizzazione delle levatrici può effettuare al massimo 16 visite a domicilio dopo un parto prematuro, un parto plurigemellare, alle primipare e dopo un taglio cesareo; in tutti gli altri casi la levatrice può effettuare al massimo dieci visite a domicilio,
+  - 2\. nei primi dieci giorni successivi al parto, oltre alle visite a domicilio menzionate nel numero 1, la levatrice o l’organizzazione delle levatrici può effettuare una seconda visita nello stesso giorno per un massimo di cinque volte,
+  - 3\. il limite massimo di visite a domicilio nei 56 giorni successivi al parto secondo i numeri 1 e 2 può essere superato e visite a domicilio dopo il 56° giorno successivo al parto sono consentite soltanto previa prescrizione medica.
+
+<sup>2</sup> Le levatrici o le organizzazioni delle levatrici possono prescrivere le necessarie analisi di laboratorio per le prestazioni di cui all’articolo 13 lettere a ed e secondo una designazione separata nell’elenco delle analisi.
+
+<sup>3</sup> Nell’ambito degli esami di controllo possono prescrivere controlli agli ultrasuoni secondo l’articolo 13 lettera b.
+
+[^16-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+[^16-2]: Introdotta dal n. I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+
+### Capitolo 5: Cure dentarie
+
+#### Art. 17
+
+**Malattie dell’apparato masticatorio**
+
+L’assicurazione assume i costi delle cure dentarie attinenti alle seguenti malattie gravi e non evitabili dell’apparato masticatorio (art. 31 cpv. 1 lett. a LAMal[^17-1]). La condizione è che l’affezione abbia il carattere di malattia; la cura va assunta dall’assicurazione solo in quanto la malattia la esiga:
+
+- a.
+
+  malattie dentarie:
+
+  - 1\. granuloma dentario interno idiopatico,
+  - 2\. dislocazioni o soprannumero di denti o germi dentari che causano una malattia (ad es. ascesso, ciste);
+
+- b.
+
+  malattie del parodonto (parodontopatie):
+
+  - 1\. parodontite prepuberale,
+  - 2\. parodontite giovanile progressiva,
+  - 3\. effetti secondari irreversibili dovuti a medicamenti;
+
+- c.
+
+  malattie dei mascellari e dei tessuti molli:
+
+  - 1\. tumori benigni dei mascellari, della mucosa e lesioni pseudo-tumorali,
+  - 2\. tumori maligni del viso, dei mascellari e del collo,
+  - 3\. osteopatie dei mascellari,
+  - 4\. cisti (senza legami con elementi dentari),
+  - 5\. osteomieliti dei mascellari;
+
+- d.
+
+  malattie dell’articolazione temporo-mandibolare e dell’apparato motorio:
+
+  - 1\. artrosi dell’articolazione temporo-mandibolare,
+  - 2\. anchilosi,
+  - 3\. lussazione del condilo e del disco articolare;
+
+- e.
+
+  malattie del seno mascellare:
+
+  - 1\. rimozione di denti o frammenti dentali dal seno mascellare,
+  - 2\. fistola oro-antrale;
+
+- f.
+
+  disgrazie che provocano affezioni considerate come malattie, quali:
+
+  - 1\. sindrome dell’apnea del sonno,
+  - 2\. turbe gravi di deglutizione,
+  - 3\. asimmetrie cranio-facciali gravi.
+
+[^17-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 18
+
+**Malattie sistemiche[^18-1]**
+
+<sup>1</sup>
+
+L’assicurazione assume i costi delle cure dentarie attinenti alle malattie gravi sistemiche seguenti o ai loro postumi e necessarie al trattamento dell’affezione: (art. 31 cpv. 1 lett. b LAMal[^18-2]):
+
+- a.[^18-3]
+
+  malattie del sistema sanguigno:
+
+  - 1\. neutropenia, agranulocitosi,
+  - 2\. anemia aplastica grave,
+  - 3\. leucemie,
+  - 4\. sindromi mielodisplastiche (SMD),
+  - 5\. diatesi emorragiche.
+  - 6\. sindrome pre-leucemica,
+  - 7\. granulocitopenia cronica,
+  - 8\. sindrome del «lazy-leucocyte»,
+  - 9\. diatesi emorragiche;
+
+- b.
+
+  malattie del metabolismo:
+
+  - 1\. acromegalia,
+  - 2\. iperparatiroidismo,
+  - 3\. ipoparatiroidismo idiopatico,
+  - 4\. ipofosfatasi (rachitismo genetico dovuto ad una resistenza alla vitamina D);
+
+- c.
+
+  altre malattie:
+
+  - 1\. poliartrite cronica con lesione ai mascellari,
+  - 2\. morbo di Bechterew con lesione ai mascellari,
+  - 3\. artrite psoriatica con lesione ai mascellari,
+  - 4\. sindrome di Papillon-Lefèvre,
+  - 5\. sclerodermia,
+  - 6\. AIDS,
+  - 7\. psicopatie gravi con lesione consecutiva grave della funzione masticatoria;
+
+- d. malattie delle ghiandole salivari;
+- e.[^18-4] ...
+
+<sup>2</sup> L’assicurazione assume i costi di cui al capoverso 1 soltanto previa garanzia speciale dell’assicuratore il quale tiene conto della raccomandazione del medico di fiducia.[^18-5]
+
+[^18-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
+[^18-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^18-3]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
+[^18-4]: Abrogata dal n. I dellʼO del DFI del 9 lug. 1998, con effetto dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
+[^18-5]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Nuovo testo giusta il n. I dellʼO del DFI del 28 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
+
+#### Art. 19
+
+**Cure dentarie[^19-2]**[^19-1]
+
+L’assicurazione assume i costi delle cure dentarie necessarie per conseguire le cure mediche (art. 31 cpv. 1 lett. c LAMal[^19-3]) in caso di:
+
+- a. sostituzione delle valvole cardiache, impianto di protesi vascolari o di shunt del cranio;
+- b. interventi che necessitano di un trattamento immunosoppressore a vita;
+- c. radioterapia o chemioterapia di una patologia maligna;
+- d. endocardite;
+- e.[^19-4] sindrome dell’apnea da sonno.
+
+[^19-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
+[^19-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^19-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^19-4]: Introdotta dal n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+
+#### Art. 19a
+
+**Infermità congenite**[^19a-1]
+
+<sup>1</sup>
+
+L’assicurazione assume i costi delle cure dentarie conseguenti ad infermità congenita di cui al capoverso 2, se:[^19a-2]
+
+- a. le cure sono necessarie dopo il 20° anno di età;
+- b. le cure sono necessarie prima del 20° anno di età per persona soggetta alla LAMal[^19a-3] ma non all’assicurazione federale per l’invalidità (AI).
+
+<sup>2</sup>
+
+Sono infermità congenite ai sensi del capoverso 1:
+
+- 1\. displasia ectodermale;
+- 2\. malattie bullose congenite della pelle (epidermolisi bullosa ereditaria, acrodermatite enteropatica e pemfigo cronico benigno familiare);
+- 3\. condrodistrofia (per es.: acondroplasia, ipocondroplasia, displasia epifisaria multipla);
+- 4\. disostosi congenite;
+- 5\. esostosi cartilagine, per quanto sia necessaria un’operazione;
+- 6\. emiipertrofie ed altre asimmetrie corporee congenite, per quanto sia necessaria un’operazione;
+- 7\. difetti ossei del cranio;
+- 8\. sinostosi del cranio;
+- 9\. malformazioni vertebrali congenite (vertebra fortemente a cuneo, vertebre saldate a blocco tipo Klippel-Feil, aplasia della vertebra, forte displasia della vertebra);
+- 10\. artromiodisplasia congenita (artrogriposi);
+- 11\. distrofia muscolare progressiva e altre miopatie congenite;
+- 12\. miosite ossificante progressiva congenita;
+- 13\. cheilo-gnato-palatoschisi (fessura labiale, mascellare, palatina);
+- 14\. fessure facciali mediane, oblique e trasversali;
+- 15\. fistole congenite del naso e delle labbra;
+- 16\.[^19a-4] proboscide laterale;
+- 17\.[^19a-5] displasie dentarie congenite, per quanto ne siano colpiti in modo grave almeno 12 denti della seconda dentizione dopo la crescita e se è prevedibile trattarli definitivamente mediante una posa di corone;
+- 18\. anodontia congenita totale o anodontia congenita parziale, per assenza di almeno due denti permanenti contigui o di quattro denti permanenti per ogni mascella ad esclusione dei denti del giudizio;
+- 19\. iperodontia congenita, quando il o i denti soprannumerari provocano una deformazione intramascellare o intramandibolare per cui sia necessaria una cura a mezzo di apparecchi;
+- 20\.
+
+  micrognatismo inferiore congenito, se, nel corso del primo anno di vita, provoca delle turbe di deglutizione e di respirazione che rendono necessaria una cura o se:
+
+  - – l’esame craniometrico rivela una discrepanza dei rapporti sagittali della mascella misurata con un angolo ANB di 9° o più (rispettivamente con un angolo di almeno 7° combinato con un angolo mascellobasale di almeno 37°);
+  - – i denti permanenti, ad esclusione dei denti del giudizio, presentano una nonocclusione di almeno tre paia di denti antagonisti nei segmenti laterali per metà di mascella;
+
+- 21\. mordex apertus congenito, se provoca una beanza verticale dopo la crescita degli incisivi permanenti e se l’esame craniometrico rivela un angolo mascello-basale di 40° e più (rispettivamente di almeno 37° combinato con un angolo ANB di 7° e più).
+- Mordex clausus congenito, se provoca una sopraocclusione dopo la crescita degli incisivi permanenti e se l’esame craniometrico rivela un angolo mascello-basale di 12° o meno (rispettivamente di 15° o meno combinato con un angolo ANB di 7° e più);
+- 22\. prognatismo inferiore congenito, quando l’esame craniometrico rivela una divergenza dei rapporti sagittali della mascella misurata con un angolo ANB di almeno –1° e quando almeno due paia di denti antagonisti della seconda dentizione si trovano in posizione d’occlusione incrociata o a martello, o quando esiste una divergenza di +1° e meno combinato con un angolo mascello-basale di 37° e più, o di 15° o meno;
+- 23\. epulis dei neonati;
+- 24\. atresia delle coane (uni o bilaterale);
+- 25\. glossoschisi;
+- 26\. macroglossia e microglossia congenite, per quanto sia necessaria un’operazione della lingua;
+- 27\. cisti e tumori congeniti della lingua;
+- 28\.[^19a-6] affezioni congenite delle ghiandole salivari e dei loro canali escretori (fistole, stenosi, cisti, tumori, ectasie e ipo- o aplasie di tutte le grandi ghiandole salivari importanti);
+- [tab] 28*a*.[^19a-7] ritenzione o anchilosi congenita di denti se sono colpiti diversi molari oppure almeno due premolari o molari contigui della seconda dentizione (esclusi i denti del giudizio); l’assenza di abbozzi (esclusi i denti del giudizio) è equiparata alla ritenzione e all’anchilosi dei denti;
+- 29\. cisti congenite del collo, fistole e fessure cervicali congenite e tumori congeniti (cartilagine di Reichert);
+- 30\. emangioma cavernoso o tuberoso;
+- 31\. linfangioma congenito, se è necessaria un’operazione;
+- 32\. coagulopatie e trombocipatie congenite (emofilie ed altri difetti dei fattori di coagulazione);
+- 33\. istiocitosi (granuloma eosinofilo, morbo di Hand-Schüller-Christian e Letterer-Siwe);
+- 34\. malformazioni del sistema nervoso centrale e del suo rivestimento (encefalocele, ciste aracnoide, mielomeningocele ed idromielia, meningocele, megaloencefalia, porencefalia, diastematomielia);
+- 35\. affezioni eredodegenerative del sistema nervoso (per es.: atassia di Friedreich, leucodistrofie ed affezioni progressive della materia grigia, atrofie muscolari di origine spinale o neurale, disautonomia familiare, analgesia congenita);
+- 36\. epilessia congenita;
+- 37\. paralisi cerebrali congenite (spastiche, atetosiche ed atassiche);
+- 38\. paralisi e paresi congenite;
+- 39\. ptosi congenita della palpebra;
+- 40\. aplasia dei canali lacrimali;
+- 41\. anoftalmia;
+- 42\. tumori congeniti della cavità orbitale;
+- 43\. atresia congenita dell’orecchio, compresa l’anotia e la microtia;
+- 44\. malformazioni congenite dello scheletro del padiglione auricolare;
+- 45\. turbe congenite del metabolismo dei mucopolisaccaridi e delle glicoproteine (p. es.: morbo di Pfaundler-Hurler, morbo di Morquio);
+- 46\. turbe congenite del metabolismo delle ossa (p. es.: ipofosfatasia, displasia diafisaria progressiva di Camurati-Engelmann, osteodistrofia di Jaffé-Lichtenstein, rachitismo resistente alla vitamina D);
+- 47\. turbe congenite della funzione tiroidea (atireosi, ipotireosi, cretinismo);
+- 48\. turbe congenite della funzione ipotalamo-ipofisaria (nanismo ipofisario, diabete insipido, sindrome di Prader-Willi e sindrome di Kallmann);
+- 49\. turbe congenite della funzione delle gonadi (sindrome di Turner, malformazioni delle ovaie, anorchismo, sindrome di Klinefelter);
+- 50\. neurofibromatosi;
+- 51\. angiomatosi encefalo-trigeminea (Sturge-Weber-Krabbe);
+- 52\. distrofie congenite del tessuto connettivo (p. es.: sindrome di Marfan, sindrome di Ehlers-Danlos, cutis laxa congenita, pseudoxanthoma elastico);
+- 53\. teratomi e altri tumori delle cellule germinali (p. es.: disgerminoma, carcinoma embrionale, tumore misto delle cellule germinali, tumore vitellino, coriocarcinoma, gonadoblastoma).
+
+[^19a-1]: Introdotto dal n. I dellʼO del DFI del 13 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
+[^19a-2]: Nuovo testo giusta il n. I dellʼO del DFI del 4 lug. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2697](https://fedlex.data.admin.ch/eli/oc/1997/2697_2697_2697)).
+[^19a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^19a-4]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore retroattivamente dal 1° gen. 1998 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
+[^19a-5]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore retroattivamente dal 1° gen. 1998 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
+[^19a-6]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 2001, in vigore dal 1° gen. 2001 ([RU 2001 2150](https://fedlex.data.admin.ch/eli/oc/2001/315)).
+[^19a-7]: Introdotto dal n. I dellʼO del DFI del 9 lug. 1998 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)). Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 2001, in vigore dal 1° gen. 2001 ([RU 2001 2150](https://fedlex.data.admin.ch/eli/oc/2001/315)).
+
+#### Art. 19b
+
+**Anestesia generale in caso di cure dentarie**[^19b-1]
+
+L’assicurazione assume i costi dell’anestesia generale per l’esecuzione di:
+
+- a. cure dentarie di cui agli articoli 17–19*a*, nel caso in cui non siano possibili senza anestesia generale;
+- b. trattamenti di medicina dentaria non contemplati dagli articoli 17–19*a*, nel caso in cui non siano possibili senza anestesia generale a causa di gravi disabilità mentali o fisiche dell’assicurato.
+
+[^19b-1]: Introdotto dal n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+
+### Capitolo 6: Mezzi e apparecchi diagnostici o terapeutici
+
+#### Art. 20
+
+**Principio**[^20-1]
+
+L’assicurazione assume una determinata rimunerazione dei mezzi e degli apparecchi che servono alla cura o alla diagnosi per sorvegliare il trattamento e le conseguenze di una malattia, consegnati previa prescrizione medica dai centri di consegna secondo l’articolo 55 OAMal e utilizzati dalla persona assicurata da sola o con l’aiuto di una persona non professionista che collabora alla diagnosi e alla cura.
+
+[^20-1]: Nuovo testo giusta il n. I dellʼO del DFI del 28 giu. 2007, in vigore dal 1° ago. 2008 ([RU 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+
+#### Art. 20a
+
+**Elenco dei mezzi e degli apparecchi**[^20a-1]
+
+<sup>1</sup> I mezzi e gli apparecchi sono definiti per metodi e per gruppo nell’allegato 2.
+
+<sup>2</sup> I mezzi e gli apparecchi che sono impiantati nel corpo o utilizzati da fornitori di prestazioni secondo l’articolo 35 capoverso 2 LAMal[^20a-2] nel quadro della loro attività a carico dell’assicurazione obbligatoria delle cure medico-sanitarie non figurano nell’elenco. La loro rimunerazione e quella della corrispettiva diagnosi o cura sono stabilite nelle convenzioni tariffali.
+
+<sup>3</sup> Lʼelenco dei mezzi e degli apparecchi non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼelenco sono pubblicate sul sito Internet dellʼUFSP[^20a-3].[^20a-4]
+
+[^20a-1]: Introdotto dal n. I dellʼO del DFI del 28 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+[^20a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^20a-3]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi analisi (EMAp)
+[^20a-4]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+
+#### Art. 21
+
+**Domanda**[^21-1]
+
+La domanda d’ammissione nell’elenco di nuovi mezzi e apparecchi e della corrispettiva rimunerazione va presentata all’UFSP. L’UFSP esamina la domanda e la sottopone alla Commissione federale delle analisi, dei mezzi e degli apparecchi.
+
+[^21-1]: Nuovo testo giusta il n. I dellʼO del DFI del 28 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+
+#### Art. 22
+
+**Limitazioni**
+
+L’ammissione nell’elenco può essere vincolata a limitazioni. La limitazione può segnatamente concernere la quantità, la durata dell’utilizzo, le indicazioni mediche o l’età degli assicurati.
+
+#### Art. 23
+
+**Requisiti**
+
+Riguardo le categorie dei mezzi e degli apparecchi indicati nell’elenco, possono essere consegnati quelli che la legislazione federale o cantonale permette di veicolare. È applicabile la legislazione del Cantone in cui ha sede il centro di consegna.
+
+#### Art. 24
+
+**Rimunerazione**
+
+<sup>1</sup> I mezzi e gli apparecchi sono rimunerati al massimo fino a un importo pari a quello indicato nell’elenco per la corrispettiva categoria.
+
+<sup>2</sup> Se l’importo fatturato dal centro di consegna supera quello indicato nell’elenco, la differenza è a carico dell’assicurato.
+
+<sup>3</sup> L’ammontare della rimunerazione può corrispondere al prezzo di vendita o di noleggio. I mezzi e gli apparecchi costosi che possono essere riutilizzati da altri pazienti vengono di regola noleggiati.
+
+<sup>4</sup> L’assicurazione assume i costi conformemente all’allegato 2 solo per mezzi e apparecchi pronti ad essere utilizzati. In caso di vendita, può essere prevista nell’elenco una rimunerazione dei costi d’adeguamento e di manutenzione necessari. I costi d’adeguamento e di manutenzione sono compresi nel prezzo di noleggio.
+
+### Capitolo 7: Contributo alle spese di cure balneari, di trasporto e di salvataggio
+
+#### Art. 25
+
+**Contributo alle spese di cure balneari**
+
+L’assicurazione assume, durante al massimo 21 giorni per anno civile, un contributo giornaliero di 10 franchi alle spese di cure balneari prescritte dal medico.
+
+#### Art. 26
+
+**Contributo alle spese di trasporto**
+
+<sup>1</sup> L’assicurazione assume il 50 per cento delle spese per trasporti indicati dal profilo medico al fine della somministrazione di cure da parte di un fornitore di prestazioni idoneo e che il paziente ha il diritto di scegliere, se il suo stato di salute non gli consente di utilizzare un altro mezzo di trasporto pubblico o privato. Il contributo massimo è di 500 franchi per anno civile.
+
+<sup>2</sup> Il trasporto dev’essere effettuato tramite un mezzo corrispondente alle esigenze mediche del caso.
+
+#### Art. 27
+
+**Contributo alle spese di salvataggio**
+
+Per salvataggi in Svizzera, l’assicurazione assume il 50 per cento delle relative spese. Il contributo massimo è di 5000 franchi per anno civile.
+
+### Capitolo 8: Analisi e medicamenti
+
+### Sezione 1: Elenco delle analisi
+
+#### Art. 28
+
+[^28-1]
+
+<sup>1</sup> L’elenco previsto nell’articolo 52 capoverso 1 lettera a numero 1 LAMal[^28-2] è parte integrante della presente ordinanza e ne costituisce l’allegato 3 sotto il titolo Elenco delle analisi (abbreviato «EA»).[^28-3]
+
+<sup>2</sup> Lʼelenco delle analisi non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼelenco sono pubblicate sul sito Internet dellʼUFSP[^28-4].[^28-5]
+
+[^28-1]: Nuovo testo giusta il n. I dellʼO del DFI del 3 lug. 1996, in vigore dal 1° ott. 1996 ([RU 1996 2430](https://fedlex.data.admin.ch/eli/oc/1996/2430_2430_2430)).
+[^28-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^28-3]: Nuovo testo giusta il n. I dellʼO del DFI del 10 lug. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
+[^28-4]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA)
+[^28-5]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+
+### Sezione 2: Elenco dei medicamenti con tariffa
+
+#### Art. 29
+
+[^29-1]
+
+<sup>1</sup> L’elenco previsto nell’articolo 52 capoverso 1 lettera a numero 2 LAMal[^29-2] è parte integrante della presente ordinanza e ne costituisce l’allegato 4 sotto il titolo di Elenco dei medicamenti con tariffa (abbreviato «EMT»).
+
+<sup>2</sup> Lʼelenco dei medicamenti con tariffa non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼelenco sono pubblicate sul sito Internet dellʼUFSP[^29-3].[^29-4]
+
+[^29-1]: Nuovo testo giusta il n. I dellʼO del DFI del 26 feb. 1996, in vigore dal 1° giu. 1996 ([RU 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
+[^29-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^29-3]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Medicamenti &gt; Elenco dei medicamenti con tariffa (EMT)
+[^29-4]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+
+### Sezione 3: Elenco delle specialità
+
+#### Art. 30
+
+**Principio**
+
+<sup>1</sup>
+
+Un medicamento è ammesso nell’elenco delle specialità se:[^30-1]
+
+- a.[^30-2] ne sono dimostrati l’efficacia, il valore terapeutico e l’economicità;
+- b.[^30-3] è stato omologato dall’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+
+<sup>2</sup> ...[^30-4]
+
+[^30-1]: Nuovo testo giusta il n. I dellʼO del DFI del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
+[^30-2]: Nuovo testo giusta il n. I dellʼO del DFI del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
+[^30-3]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2002, in vigore dal 1° lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
+[^30-4]: Abrogato dal n. II 2 dellʼO del DFI del 26 ott. 2001, con effetto dal 1° gen. 2002 ([RU 2001 3397](https://fedlex.data.admin.ch/eli/oc/2001/514)).
+
+#### Art. 30a
+
+**Domanda di ammissione**[^30a-1]
+
+<sup>1</sup>
+
+Una domanda di ammissione nell’elenco delle specialità deve contenere in particolare:
+
+- a.[^30a-2] per le domande di cui all’articolo 31 capoverso 1 lettere a e c, il preavviso di Swissmedic in cui si comunicano la prevista omologazione e i dati concernenti le indicazioni e i dosaggi da omologare nonché, se già disponibili, anche la decisione di omologazione e il relativo attestato di Swissmedic nonché l’informazione specializzata definitiva;
+- [tab] a<sup>bis</sup>.[^30a-3] per le domande di cui all’articolo 31 capoverso 2, la decisione di omologazione e il relativo attestato di Swissmedic nonché l’informazione specializzata definitiva;
+- b. l’informazione specializzata fornita a Swissmedic;
+- [tab] b<sup>bis</sup>.[^30a-4] in caso di preparati originali protetti da un brevetto: i numeri dei brevetti e i certificati protettivi complementari con la data di scadenza;
+- c.[^30a-5] se il medicamento è già omologato all’estero, le informazioni approvate all’estero;
+- d. il riassunto della documentazione clinica inoltrato a Swissmedic;
+- e. gli studi clinici più importanti;
+- f.[^30a-6] i prezzi di fabbrica per la consegna praticati in tutti gli Stati di riferimento secondo l’articolo 34*a*<sup>bis</sup> capoverso 1;
+- g.[^30a-7] ...
+
+<sup>2</sup> Unitamente alla decisione di omologazione e al relativo attestato si devono presentare in seguito l’informazione specializzata definitiva con l’indicazione di eventuali modifiche e il prezzo d’obiettivo definitivo per la Comunità europea.
+
+[^30a-1]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002, in vigore dal 1° lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
+[^30a-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^30a-3]: Introdotta dal n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^30a-4]: Introdotta dal n. I dellʼO del DFI del 26 apr. 2006, in vigore dal 1° mag. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
+[^30a-5]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^30a-6]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^30a-7]: Abrogata dal n. I dellʼO del DFI dellʼ8 mag. 2013, con effetto dal 1° giu. 2013 ([RU 2013 1357](https://fedlex.data.admin.ch/eli/oc/2013/319)).
+
+#### Art. 31
+
+**Procedura di ammissione**[^31-1]
+
+<sup>1</sup>
+
+Previa consultazione della Commissione federale dei medicamenti (CFM), l’UFSP decide in merito alle:
+
+- a.[^31-2] domande di ammissione di preparati originali nell’elenco delle specialità;
+- b. domande di aumento del prezzo secondo l’articolo 67 capoverso 2 OAMal;
+- c. domande e conseguenze delle comunicazioni secondo l’articolo 65*f* OAMal.
+
+<sup>2</sup>
+
+Senza consultare la CFM, l’UFSP decide in merito alle:
+
+- a.[^31-3] domande di ammissione di nuove forme galeniche di medicamenti che figurano già nell’elenco delle specialità, all’interno delle indicazioni esistenti;
+- [tab] a<sup>bis</sup>.[^31-4] domande di ammissione di nuove grandezze d’imballaggio o di nuovi dosaggi di medicamenti che figurano già nell’elenco delle specialità, all’interno delle indicazioni esistenti;
+- b. domande di ammissione dei medicamenti per cui è stata presentata una domanda presso Swissmedic secondo l’articolo 12 della legge del 15 dicembre 2000[^31-5] sugli agenti terapeutici e il cui preparato originale figura già nell’elenco delle specialità;
+- c. domande di ammissione di medicamenti in co-marketing il cui preparato di base figura già nell’elenco delle specialità.
+
+<sup>3</sup> L’UFSP può sottoporre alla CFM per consultazione le domande di ammissione di cui al capoverso 2, qualora il parere della CFM sia di particolare interesse.
+
+<sup>4</sup> La CFM trasmette all’UFSP una raccomandazione in merito alle domande su cui viene consultata.
+
+[^31-1]: Nuovo testo giusta il n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^31-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^31-3]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^31-4]: Introdotta dal n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^31-5]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+#### Art. 31a
+
+**Procedura di ammissione accelerata**[^31a-1]
+
+<sup>1</sup> Se Swissmedic ha approvato lo svolgimento di una procedura di omologazione accelerata secondo l’articolo 7 dell’ordinanza del 21 settembre 2018[^31a-2] sui medicamenti, l’UFSP esegue una procedura di ammissione accelerata.
+
+<sup>2</sup> Nella procedura di ammissione accelerata il titolare dell’omologazione può presentare una domanda fino a 30 giorni prima della seduta della CFM durante la quale tale domanda sarà trattata.
+
+[^31a-1]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Nuovo testo giusta il n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^31a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dellʼart. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+
+#### Art. 31b
+
+**Durata della procedura di ammissione nell’elenco delle specialità**[^31b-1]
+
+Se le condizioni per l’entrata nel merito della domanda secondo l’articolo 69 capoverso 4 OAMal sono soddisfatte prima dell’omologazione definitiva da parte di Swissmedic, l’UFSP decide sull’ammissione nell’elenco delle specialità di norma entro 60 giorni dall’omologazione definitiva.
+
+[^31b-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 32
+
+**Efficacia**[^32-1]
+
+Per la valutazione dell’efficacia, l’UFSP si avvale dei documenti su cui si è fondato Swissmedic per procedere all’omologazione. L’UFSP può esigere ulteriori documenti.
+
+[^32-1]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2002, in vigore dal 1° lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
+
+#### Art. 33
+
+**Valore terapeutico**[^33-1]
+
+<sup>1</sup> Il valore terapeutico di un medicamento in relazione alla sua efficacia e alla sua composizione è valutato dal profilo clinico-farmatologico e galenico, in rapporto agli effetti secondari e al pericolo di abuso.
+
+<sup>2</sup> Per la valutazione del valore terapeutico, l’UFSP si avvale dei documenti su cui si è fondato Swissmedic per procedere all’omologazione. L’UFSP può esigere ulteriori documenti.[^33-2]
+
+[^33-1]: Nuovo testo giusta il n. I dellʼO del DFI del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
+[^33-2]: Nuovo testo giusta il n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 34
+
+[^34-1]
+
+[^34-1]: Abrogato dal n. I dellʼO del DFI del 1° feb. 2017, con effetto dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 34a
+
+**Ammissione di nuove grandezze d’imballaggio o di nuovi dosaggi**[^34a-1]
+
+Per una domanda secondo l’articolo 31 capoverso 2 lettera a<sup>bis</sup> l’economicità è valutata esclusivamente in base a un confronto terapeutico trasversale con le grandezze d’imballaggio o i dosaggi del medicamento che già figurano nell’elenco delle specialità.
+
+[^34a-1]: Introdotto dal n. I dellʼO del DFI del 21 ott. 2015 ([RU 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)). Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 34a<sup>bis</sup>
+
+**Confronto con i prezzi praticati all’estero: Stati di riferimento e oggetto del confronto**[^34abis-1]
+
+<sup>1</sup> L’economicità è valutata in base al confronto con i prezzi praticati in Germania, Danimarca, Gran Bretagna, Paesi Bassi, Francia, Austria, Belgio, Finlandia e Svezia. Il confronto può essere eseguito anche con altri Stati con strutture economiche paragonabili nel settore farmaceutico purché siano pubblicamente accessibili il prezzo di fabbrica per la consegna, il prezzo di costo per le farmacie o il prezzo all’ingrosso.
+
+<sup>2</sup> È preso a paragone il medicamento identico negli Stati di riferimento, indipendentemente dalla denominazione del medicamento nello Stato di riferimento, dal titolare dell’omologazione nello Stato di riferimento, dal rimborso nello Stato di riferimento e dal fatto che il titolare svizzero dell’omologazione possa influenzare il prezzo di fabbrica per la consegna nello Stato di riferimento. Sono considerati medicamenti identici i preparati originali con la stessa sostanza attiva e la stessa forma galenica.
+
+<sup>3</sup> Eventuali indicazioni differenti in Svizzera e negli Stati di riferimento non sono prese in considerazione.
+
+[^34abis-1]: Originario art. 34*a.* Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 34b
+
+**Confronto con i prezzi praticati all’estero: margini dei grossisti e sconto dei fabbricanti**[^34b-1]
+
+<sup>1</sup>
+
+Per il confronto con i prezzi praticati all’estero dal prezzo di costo per le farmacie o dal prezzo all’ingrosso sono dedotti i seguenti margini dei grossisti secondo l’articolo 65*b* capoverso 3 OAMal:
+
+- a. Danimarca: 6,5 per cento del prezzo di costo per le farmacie;
+- b. Gran Bretagna: 12,5 per cento del prezzo all’ingrosso;
+- c. Paesi Bassi: 6,5 per cento del prezzo di costo per le farmacie;
+- d. Finlandia: 3 per cento del prezzo di costo per le farmacie;
+- e. Svezia: 2,7 per cento del prezzo di costo per le farmacie.
+
+<sup>2</sup>
+
+Per il confronto con i prezzi praticati all’estero, dal prezzo di fabbrica per la consegna praticato in Germania sono detratti i seguenti sconti dei fabbricanti secondo l’articolo 65*b* capoverso 4 OAMal:
+
+- a. sui preparati originali, il 7 per cento, dedotta l’imposta sulla cifra d’affari;
+- b. sui generici e sui preparati originali la cui protezione del brevetto è scaduta, il 16 per cento, dedotta l’imposta sulla cifra d’affari.[^34b-2]
+
+<sup>3</sup> Se il titolare dell’omologazione è in grado di dimostrare che il margine effettivo dei grossisti diverge dal margine di cui al capoverso 1 o lo sconto effettivo dei fabbricanti diverge dallo sconto di cui al capoverso 2, si detrae il margine effettivo dei grossisti o lo sconto effettivo dei fabbricanti.
+
+[^34b-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^34b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 34c
+
+**Confronto con i prezzi praticati all’estero: calcolo e comunicazione dei prezzi di fabbrica per la consegna negli Stati di riferimento**[^34c-1]
+
+<sup>1</sup> Il titolare dell’omologazione deve comunicare all’UFSP i prezzi di fabbrica per la consegna praticati negli Stati di riferimento. Allega una conferma del prezzo da parte del titolare dell’omologazione nello Stato di riferimento, da parte di un’autorità o di una federazione. L’UFSP definisce in istruzioni le fonti di informazione determinanti nel caso in cui il prezzo di fabbrica per la consegna, il prezzo di costo per le farmacie o il prezzo all’ingrosso non possano essere stabiliti inequivocabilmente oppure il titolare dell’omologazione si rifiuti di comunicare i prezzi all’UFSP.
+
+<sup>2</sup> I prezzi di fabbrica per la consegna praticati negli Stati di riferimento sono convertiti in franchi svizzeri in base a un tasso di cambio medio calcolato dall’UFSP sull’arco di dodici mesi.
+
+[^34c-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
+#### Art. 34d
+
+**Riesame delle condizioni di ammissione ogni tre anni: suddivisione dei medicamenti[^34d-2]**[^34d-1]
+
+<sup>1</sup> L’UFSP riesamina i prezzi di fabbrica per la consegna dei medicamenti di cui all’articolo 65*d* capoverso 1 OAMal una volta ogni anno civile. Riesamina contemporaneamente i medicamenti che figurano nello stesso gruppo terapeutico (gruppo IT) dell’elenco delle specialità.
+
+<sup>1bis</sup>
+
+I gruppi IT sono suddivisi nelle seguenti unità conformemente all’articolo 65*d* capoverso 1 OAMal:
+
+- a.
+
+  unità A:
+
+  - 1\. gastroenterologici (04),
+  - 2\. metabolismo (07),
+  - 3\. antidoti (15),
+  - 4\. scambiatori di cationi (16),
+  - 5\.[^34d-3] ...
+  - 6\. gastroenterologici medicina complementare (54),
+  - 7\. metabolismo medicina complementare (57).
+
+- b.
+
+  Unità B:
+
+  - 1\. sistema nervoso (01),
+  - 2\. reni e bilancio idrico (05),
+  - 3\. sangue (06),
+  - 4\. dermatologici (10),
+  - 5\. odontostomatologici (13),
+  - 6\. diagnostici (14),
+  - 7\. sistema nervoso medicina complementare (51),
+  - 8\. reni e metabolismo dell’acqua medicina complementare (55),
+  - 9\. sangue medicina complementare (56),
+  - 10\. dermatologici medicina complementare (60).
+
+- c.
+
+  Unità C:
+
+  - 1\. sistema cardiovascolare (02),
+  - 2\. sistema respiratorio (03),
+  - 3\. malattie infettive (08),
+  - 4\. ginecologici (09),
+  - 5\. oftalmologici (11),
+  - 6\. otorinolaringologici (12),
+  - 7\. sistema cardiovascolare medicina complementare (52),
+  - 8\. sistema respiratorio medicina complementare (53),
+  - 9\. malattie infettive medicina complementare (58),
+  - 10\. ginecologici medicina complementare (59),
+  - 11\. oftalmologici medicina complementare (61),
+  - 12\. otorinolaringologici medicina complementare (62).[^34d-4]
+
+<sup>2</sup>
+
+Sono esclusi dal riesame secondo il capoverso 1 i preparati originali che:
+
+- a.[^34d-5] dall’ultimo riesame dell’economicità sono stati sottoposti a un riesame del prezzo in base a un’estensione dell’indicazione oppure a una modificazione o soppressione di una limitazione secondo l’articolo 65*f* capoverso 4 OAMal; l’UFSP procede al riesame di questi preparati originali al più presto nel secondo anno dopo l’ultimo riesame del prezzo;
+- b. il 1° gennaio dell’anno del riesame figurano nell’elenco delle specialità da meno di 13 mesi.
+
+[^34d-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Vedi anche le disp. trans. delle mod. del 29.04.2015 e del 21.10.2015 alla fine del presente testo.
+[^34d-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34d-3]: Abrogata dal n. I dellʼO del DFI del 1° feb. 2017, con effetto dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34d-4]: Introdotto dal n. I dellʼO del DFI del 21 ott. 2015, in vigore dal 15 nov. 2015 ([RU 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)).
+[^34d-5]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 34e
+
+**Riesame delle condizioni di ammissione ogni tre anni: confronto con i prezzi praticati all’estero**[^34e-1]
+
+<sup>1</sup> Il titolare dell’omologazione deve comunicare all’UFSP, entro il 15 febbraio dell’anno del riesame, i prezzi di fabbrica per la consegna in vigore il 1° gennaio dell’anno del riesame in tutti gli Stati di riferimento nonché i dati aggiornati, con indicazione delle informazioni relative al medicamento modificate rispetto al precedente riesame.
+
+<sup>2</sup>
+
+Su richiesta dell’UFSP il titolare dell’omologazione deve presentare all’UFSP i seguenti documenti:
+
+- a. i prezzi di fabbrica per la consegna in vigore il 1° gennaio dell’anno del riesame in tutti gli Stati di riferimento, confermati da una persona con diritto di firma all’estero, da un’autorità o da una federazione;
+- b. al momento del primo riesame, il numero di confezioni del preparato originale venduti dopo l’ammissione nell’elenco delle specialità in Svizzera, indicato singolarmente per tutte le forme di commercio.
+
+<sup>3</sup> Per la determinazione dei prezzi secondo il capoverso 1, il titolare dell’omologazione responsabile della distribuzione del preparato originale deve comunicare all’UFSP, per tutte le forme di commercio della medesima sostanza attiva, la confezione che ha generato la maggiore cifra d’affari nel corso dei precedenti 12 mesi in Svizzera. L’UFSP può esigere le cifre in questione.
+
+<sup>4</sup> ...[^34e-2]
+
+[^34e-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^34e-2]: Abrogato dal n. I dellʼO del DFI del 1° feb. 2017, con effetto dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 34f
+
+**Riesame delle condizioni di ammissione ogni tre anni: confronto terapeutico trasversale**[^34f-1]
+
+<sup>1</sup> Nel confronto terapeutico trasversale secondo l’articolo 65*b* capoverso 2 lettera b OAMal si tiene conto dei preparati originali che al momento del riesame figurano nell’elenco delle specialità e che sono utilizzati per il trattamento della stessa malattia.
+
+<sup>2</sup> Il titolare dell’omologazione deve comunicare all’UFSP, entro il 15 febbraio dell’anno del riesame, il risultato del confronto terapeutico trasversale con i prezzi di fabbrica per la consegna in vigore il 1° gennaio dell’anno del riesame e tutti i dati utilizzati per questo confronto.
+
+<sup>3</sup> L’UFSP tiene in considerazione fino al 1° luglio dell’anno del riesame le modifiche dei dati necessari per il confronto terapeutico trasversale e dei prezzi di fabbrica per la consegna in vigore per i preparati confrontati.
+
+[^34f-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
+#### Art. 34g
+
+**Riesame delle condizioni di ammissione ogni tre anni: riesame dell’economicità dei generici**[^34g-1]
+
+Nel quadro del riesame secondo l’articolo 34*d* capoverso 1, un generico è considerato economico se il suo prezzo di fabbrica per la consegna è inferiore almeno dei seguenti tassi percentuali al prezzo di fabbrica per la consegna del corrispondente preparato originale praticato il 1° dicembre dell’anno del riesame:
+
+- a. 10 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume del mercato svizzero del preparato originale, del relativo medicamento in co-marketing e del generico per ogni forma di commercio non supera in media 4 milioni di franchi all’anno;
+- b. 15 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume del mercato svizzero del preparato originale, del relativo medicamento in co-marketing e del generico per ogni forma di commercio si situa in media tra 4 e 8 milioni di franchi all’anno;
+- c. 25 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume del mercato svizzero del preparato originale, del relativo medicamento in co-marketing e del generico per ogni forma commerciale si situa in media tra 8 e 16 milioni di franchi all’anno;
+- d. 30 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume del mercato svizzero del preparato originale, del relativo medicamento in co-marketing e del generico per ogni forma di commercio si situa in media tra 16 e 25 milioni di franchi all’anno;
+- e. 35 per cento, nella misura in cui nei tre anni precedenti l’anno del riesame il volume del mercato svizzero del preparato originale, del relativo medicamento in co-marketing e del generico con il medesimo principio attivo per ogni forma di commercio supera in media 25 milioni di franchi all’anno.
+
+[^34g-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
+#### Art. 34h
+
+**Riesame delle condizioni di ammissione ogni tre anni: portata e momento della riduzione del prezzo di fabbrica per la consegna**[^34h-1]
+
+<sup>1</sup> Se dal riesame triennale delle condizioni di ammissione risulta una riduzione di prezzo, il tasso di riduzione calcolato è applicato ai prezzi di fabbrica per la consegna di tutte le forme di commercio della medesima sostanza attiva.
+
+<sup>2</sup> L’UFSP riduce il prezzo di fabbrica per la consegna dei medicamenti con effetto dal 1° dicembre dell’anno del riesame.[^34h-2]
+
+[^34h-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^34h-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 35
+
+**Misura straordinaria per contenere l’aumento dei costi**[^35-1]
+
+Aumenti dei prezzi secondo l’articolo 67 capoverso 2 OAMal sono esclusi. In via eccezionale l’UFSP può concedere aumenti dei prezzi se occorre garantire il fabbisogno in cure per la popolazione svizzera e non esistono alternative terapeutiche.
+
+[^35-1]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 al 31 dic. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+
+#### Art. 35a
+
+[^35a-1]
+
+[^35a-1]: Introdotto dal n. I dellʼO del DFI del 27 nov. 2000 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Abrogato dal n. I dellʼO del DFI del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 35b
+
+[^35b-1]
+
+[^35b-1]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Abrogato dal n. I dellʼO del DFI del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 35c
+
+[^35c-1]
+
+[^35c-1]: Introdotto dal n. I dellʼO del DFI del 30 giu. 2010 ([RU 2010 3249](https://fedlex.data.admin.ch/eli/oc/2010/436)). Abrogato dal n. I dellʼO del DFI del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 36
+
+**Riesame dell’economicità durante i primi 15 anni[^36-1]**
+
+<sup>1</sup> L’UFSP riesamina i medicamenti oggetto di una domanda di aumento di prezzo al fine di verificare se soddisfano ancora le condizioni di ammissione di cui all’articolo 67 capoverso 2 OAMal.[^36-2]
+
+<sup>2</sup> Se questo riesame rivela che il prezzo domandato è troppo alto, l’UFSP rifiuta la domanda.
+
+<sup>3</sup> La CFM può proporre all’UFSP di sopprimere in tutto o in parte il premio all’innovazione se le condizioni che ne avevano determinato la concessione non sono più soddisfatte.[^36-3]
+
+[^36-1]: Nuovo testo giusta il n. I dellʼO del DFI del 26 apr. 2006, in vigore dal 1° mag. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
+[^36-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^36-3]: Nuovo testo giusta il n. I dellʼO del DFI dellʼ8 mag. 2013, in vigore dal 1° giu. 2013 ([RU 2013 1357](https://fedlex.data.admin.ch/eli/oc/2013/319)).
+
+#### Art. 37
+
+**Riesame delle condizioni di ammissione alla scadenza del brevetto**[^37-1]
+
+Per il riesame di un preparato originale secondo l’articolo 65*e* OAMal, il titolare dell’omologazione deve comunicare spontaneamente all’UFSP, al più tardi sei mesi prima della scadenza della protezione del brevetto, i prezzi praticati in tutti gli Stati di riferimento e la cifra d’affari realizzata nei tre anni precedenti la scadenza del brevetto secondo l’articolo 65*c* capoversi 2–4 OAMal.
+
+[^37-1]: Nuovo testo giusta il n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 37a
+
+**Estensione dell’indicazione e modificazione della limitazione: documenti da presentare**[^37a-1]
+
+Se il titolare dell’omologazione richiede una modificazione della limitazione o comunica una modifica dell’indicazione di un preparato originale secondo l’articolo 65*f* OAMal, deve presentare all’UFSP per il riesame i documenti di cui all’articolo 30*a*.
+
+[^37a-1]: Introdotto dal n. I dellʼO del DFI del 26 apr. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)). Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 37b
+
+**Limitazione dell’indicazione**[^37b-1]
+
+<sup>1</sup>
+
+Per il riesame di un preparato originale a seguito di una limitazione dell’indicazione secondo l’articolo 65*g* OAMal, il titolare dell’omologazione deve presentare all’UFSP:
+
+- a. la decisione di omologazione;
+- b. l’attestato di omologazione;
+- c. l’informazione specializzata definitiva;
+- d. i documenti contenenti informazioni e dati clinici in base ai quali Swissmedic ha deciso una modifica dell’omologazione.
+
+<sup>2</sup> L’UFSP può informare la CFM in merito alle limitazioni di un’indicazione ed esigere ulteriori documenti dal titolare dell’omologazione.[^37b-2]
+
+[^37b-1]: Introdotto dal n. I dellʼO del DFI del 26 apr. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)). Nuovo testo giusta il n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^37b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 37c
+
+[^37c-1]
+
+[^37c-1]: Introdotto dal n. I dellʼO del DFI del 26 apr. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)). Abrogato dal n. I dellʼO del DFI del 24 set. 2007, con effetto dal 1° ott. 2007 ([RU 2007 4443](https://fedlex.data.admin.ch/eli/oc/2007/618)[4633](https://fedlex.data.admin.ch/eli/oc/2007/648)).
+
+#### Art. 37d
+
+**Portata e momento del riesame**[^37d-1]
+
+<sup>1</sup> I riesami giusta gli articoli 37–37*c* comprendono tutte le grandezze d’imballaggio, i dosaggi e le forme galeniche del preparato originale.
+
+<sup>2</sup> ...[^37d-2]
+
+[^37d-1]: Introdotto dal n. I dellʼO del DFI del 26 apr. 2006, in vigore dal 1° mag. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
+[^37d-2]: Abrogato dal n. I dellʼO del DFI del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+
+#### Art. 37e
+
+**Restituzione delle eccedenze**[^37e-1]
+
+<sup>1</sup>
+
+L’UFSP esamina se sono state conseguite eccedenze ai sensi dell’articolo 67*a* OAMal:
+
+- a. al momento del primo riesame delle condizioni di ammissione secondo gli articoli 34*d*–34*f* e 34*h*;
+- b. al termine di una procedura di ricorso;
+- c. due anni dopo un’estensione dell’indicazione o una modificazione della limitazione, a seguito della quale il prezzo di fabbrica per la consegna è stato ridotto conformemente all’articolo 65*f* capoverso 2 primo periodo OAMal.
+
+<sup>2</sup> Per la determinazione delle eccedenze sono considerate tutte le forme di commercio di un medicamento.
+
+<sup>3</sup>
+
+Per i riesami di cui al capoverso 1 lettere a e b, le eccedenze sono calcolate come segue:
+
+- a. dapprima è rilevata la differenza tra il prezzo di fabbrica per la consegna al momento dell’ammissione o durante la procedura di ricorso e quello dopo la riduzione;
+- b. in seguito, tale differenza è moltiplicata per il numero delle confezioni vendute nel periodo intercorso tra l’ammissione e la riduzione del prezzo oppure durante la procedura di ricorso.
+
+<sup>4</sup>
+
+Per il riesame di cui al capoverso 1 lettera c, le eccedenze sono calcolate in base al numero delle confezioni vendute del medicamento. Se il numero delle confezioni vendute supera l’estensione della quantità prevista dal titolare dell’omologazione secondo l’articolo 65*f* capoverso 2 OAMal primo periodo, le eccedenze corrispondono al 35 per cento del risultato del seguente calcolo:
+
+- a. dapprima è rilevata, per ogni confezione, la differenza tra il numero effettivo di confezioni e quello stimato;
+- b. in seguito, per ogni confezione, tale differenza è moltiplicata per il prezzo di fabbrica per la consegna della confezione, praticato prima della riduzione del prezzo di cui all’articolo 65*f* capoverso 2 primo periodo OAMal;
+- c. infine, gli importi risultanti sono sommati.
+
+<sup>5</sup> Per il calcolo delle eccedenze nell’ambito del riesame di cui al capoverso 1 lettera a sono determinanti i tassi di cambio al momento dell’ammissione del preparato.
+
+<sup>6</sup> Se nutre sospetti fondati sulla correttezza delle indicazioni fornite dal titolare dell’omologazione, l’UFSP può richiedere che l’ufficio di revisione esterno del titolare dell’omologazione confermi tali indicazioni per il medicamento in questione.
+
+<sup>7</sup> Se riduce volontariamente il prezzo di fabbrica per la consegna del suo preparato originale prima del 1° dicembre dell’anno del riesame al prezzo di fabbrica per la consegna determinato secondo l’articolo 65*b* OAMal, il titolare dell’omologazione deve comunicare all’UFSP i prezzi di fabbrica per la consegna degli Stati di riferimento al momento in cui presenta la domanda di riduzione volontaria del prezzo. Se tale riduzione avviene entro i primi 18 mesi successivi all’ammissione del preparato originale nell’elenco delle specialità, il titolare dell’omologazione non è tenuto a restituire le eccedenze secondo l’articolo 67*a* capoverso 1 OAMal.[^37e-2]
+
+<sup>8</sup> L’UFSP stabilisce nella decisione di restituzione l’ammontare delle eccedenze e il termine entro cui queste vanno restituite all’istituzione comune.
+
+[^37e-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
+[^37e-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+#### Art. 38
+
+**Parte propria alla distribuzione**[^38-1]
+
+<sup>1</sup>
+
+Il supplemento attinente al prezzo per medicamenti soggetti a prescrizione medica ammonta al:
+
+- a. 12 per cento, se il prezzo di fabbrica per la consegna non supera 879.99 franchi;
+- b. 7 per cento, se il prezzo di fabbrica per la consegna è compreso tra 880 franchi e 2569.99 franchi;
+- c. 0 per cento, se il prezzo di fabbrica per la consegna è superiore a 2570 franchi.
+
+<sup>2</sup>
+
+Il supplemento per imballaggio per medicamenti soggetti a prescrizione medica ammonta a:
+
+- a. 4 franchi, se il prezzo di fabbrica per la consegna non supera 4.99 franchi;
+- b. 8 franchi, se il prezzo di fabbrica per la consegna è compreso tra 5 franchi e 10.99 franchi;
+- c. 12 franchi, se il prezzo di fabbrica per la consegna è compreso tra 11 franchi e 14.99 franchi;
+- d. 16 franchi, se il prezzo di fabbrica per la consegna è compreso tra 15 franchi e 879.99 franchi;
+- e. 60 franchi, se il prezzo di fabbrica per la consegna è compreso tra 880 franchi e 2569.99 franchi;
+- f. 240 franchi, se il prezzo di fabbrica per la consegna è superiore a 2570 franchi.
+
+<sup>3</sup> Il supplemento attinente al prezzo per medicamenti non soggetti a prescrizione medica ammonta all’80 per cento del prezzo di fabbrica per la consegna.
+
+<sup>4</sup> La parte propria alla distribuzione è fissata in modo uniforme per tutti i fornitori. L’UFSP può tenere conto di condizioni di distribuzione particolari.
+
+[^38-1]: Originario art. 35*a*. Introdotto dal n. I dellʼO del DFI del 27 nov. 2000 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Nuovo testo giusta il n. I dellʼO del DFI del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4251](https://fedlex.data.admin.ch/eli/oc/2009/521)).
+
+### Sezione 4: Aliquota percentuale dei medicamenti
+
+[^tit1-chap8-sec4-1]
+
+[^tit1-chap8-sec4-1]: Introdotta dal n. I dellʼO del DFI del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2006 23](https://fedlex.data.admin.ch/eli/oc/2006/10)).
+
+#### Art. 38a
+
+[^38a-1]
+
+<sup>1</sup> Per i medicamenti il cui prezzo di fabbrica per la consegna supera almeno del 10 per cento la media dei prezzi di fabbrica per la consegna dei prodotti che rientrano nel terzo meno caro di tutti i medicamenti con il medesimo principio attivo figuranti nell’elenco delle specialità, l’aliquota percentuale ammonta al 20 per cento dei costi eccedenti la franchigia.
+
+<sup>2</sup> Per il calcolo della media del terzo meno caro è determinante il prezzo di fabbrica per la consegna della confezione che raggiunge la cifra d’affari più elevata per dosaggio di una forma commerciale di tutti i medicamenti con il medesimo principio attivo figuranti nell’elenco delle specialità. Non sono considerate le confezioni che non generano alcuna cifra d’affari per un periodo di tre mesi consecutivi prima della determinazione della media del terzo meno caro dei medicamenti con il medesimo principio attivo.
+
+<sup>3</sup> La media del terzo meno caro è determinata il 1° dicembre oppure dopo l’ammissione del primo generico nell’elenco delle specialità.
+
+<sup>4</sup> Se il titolare dell’omologazione di un medicamento riduce il prezzo di fabbrica per la consegna sotto la media dei prezzi di fabbrica per la consegna del terzo meno caro di tutti i medicamenti con il medesimo principio attivo tanto da rendere applicabile un’aliquota percentuale del 10 per cento, lo stesso tasso di riduzione deve essere applicato a tutte le confezioni per dosaggio di una forma commerciale.
+
+<sup>5</sup> Se, una volta scaduto il brevetto, il titolare dell’omologazione per un preparato originale o per un medicamento in co-marketing riduce in un’unica volta il prezzo di fabbrica per la consegna di tutte le confezioni adeguandolo al livello di prezzo del generico secondo l’articolo 65*c* capoverso 2 OAMal, per tale medicamento si applica nei primi 24 mesi di questa riduzione di prezzo un’aliquota percentuale pari al 10 per cento dei costi eccedenti la franchigia.
+
+<sup>6</sup> Se, per motivi d’ordine medico, il medico o il chiropratico prescrive esplicitamente un preparato originale o il farmacista rifiuta una sostituzione, il capoverso 1 non è applicabile.
+
+<sup>7</sup> Il medico, il chiropratico o il farmacista informano il paziente dell’esistenza di almeno un generico figurante nell’elenco delle specialità, idoneo a sostituire il preparato originale.
+
+[^38a-1]: Introdotto dal n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+
+## Titolo 2: Condizioni per la fornitura di prestazioni
+
+### Capitolo 1: ...
+
+#### Art. 39
+
+[^39-1]
+
+[^39-1]: Abrogato dal n. I dellʼO del DFI del 2 lug. 2002, con effetto dal 1° lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
+
+### Capitolo 2: Scuole di chiropratica
+
+#### Art. 40
+
+[^40-1]
+
+Le scuole di chiropratica riconosciute ai sensi dell’articolo 44 capoverso 1 lettera a OAMal sono stabilite nell’articolo 1 dell’ordinanza del DFI del 20 agosto 2007[^40-2] concernente i cicli di studio in chiropratica riconosciuti offerti in scuole universitarie estere.
+
+[^40-1]: Nuovo testo giusta lʼart. 2 dellʼO del DFI del 20 ago. 2007 concernente i cicli di studio in chiropratica riconosciuti offerti da scuole universitarie estere, in vigore dal 1° set. 2007 ([RU 2007 4085](https://fedlex.data.admin.ch/eli/oc/2007/542)).
+[^40-2]: [RS 811.115.4](https://fedlex.data.admin.ch/eli/cc/2021/916)
+
+### Capitolo 3: ...
+
+#### Art. 41
+
+[^41-1]
+
+[^41-1]: Abrogato dal n. I dellʼO del DFI del 9 giu. 1999, con effetto dal 1° gen. 2000 ([RU 1999 2517](https://fedlex.data.admin.ch/eli/oc/1999/399)).
+
+### Capitolo 4: Laboratori
+
+#### Art. 42
+
+**Formazione e perfezionamento**
+
+<sup>1</sup> È ritenuto formazione universitaria ai sensi dell’articolo 54 capoversi 2 e 3 lettera a OAMal il conseguimento degli studi universitari in medicina dentaria, medicina veterinaria, chimica, biochimica, biologia o microbiologia.
+
+<sup>2</sup>
+
+È ritenuto formazione superiore ai sensi dell’articolo 54 capoverso 2 OAMal il conseguimento di:
+
+- a. un diploma di «laboratorista medico con formazione professionale superiore», rilasciato da un’istituzione di formazione riconosciuta dalla Croce Rossa svizzera;
+- b. un diploma rilasciato da un’istituzione di formazione riconosciuta dalla Croce Rossa svizzera, recante il titolo «tecnico in analisi biomediche SSS con la formazione superiore»;
+- c. un certificato di equivalenza per capi laboratorio della Croce rossa svizzera;
+- d. un diploma federale quale «esperto in analisi biomediche e gestione di laboratorio» o un diploma riconosciuto equipollente.[^42-1]
+
+<sup>3</sup> È ritenuto titolo di perfezionamento ai sensi dell’articolo 54 capoverso 3 lettera b OAMal quello in medicina di laboratorio nei settori ematologia, chimica clinica, immunologia clinica e microbiologia medica.[^42-2]
+
+<sup>4</sup> ...[^42-3]
+
+[^42-1]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^42-2]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+[^42-3]: Abrogato dal n. I dellʼO del DFI del 4 apr. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1367](https://fedlex.data.admin.ch/eli/oc/2007/227)).
+
+#### Art. 43
+
+**Esigenze supplementari in materia di genetica medica**[^43-1]
+
+<sup>1</sup>
+
+Le analisi del capitolo «Genetica» dell’elenco delle analisi possono essere eseguite solo nei laboratori:
+
+- a. il cui direttore attesta un titolo di perfezionamento in medicina di laboratorio in genetica medica (genetica umana specializzata sulla salute e le malattie) secondo l’articolo 54 capoverso 3 lettera b OAMal;
+- b. i quali, per tali analisi, hanno ottenuto un’autorizzazione secondo l’articolo 8 LEGU[^43-2].
+
+<sup>2</sup>
+
+Singole analisi del capitolo «Genetica» dell’elenco delle analisi possono anche essere eseguite nei laboratori:
+
+- a. il cui direttore attesta un titolo di perfezionamento in medicina di laboratorio secondo l’articolo 54 capoverso 3 lettera b OAMal nei settori ematologia, chimica clinica o immunologia clinica;
+- b. i quali, per tali analisi, hanno ottenuto un’autorizzazione secondo l’articolo 8 LEGU.
+
+[^43-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+[^43-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+## Titolo 3: Disposizioni finali
+
+#### Art. 44
+
+**Abrogazione del diritto previgente**
+
+Sono abrogate:
+
+- a. l’ordinanza 2 del DFI sull’assicurazione contro le malattie del 16 febbraio 1965[^44-1] che stabilisce i contributi degli assicurati alle spese di diagnosi e di trattamento della tubercolosi;
+- b. l’ordinanza 3 del DFI sull’assicurazione contro le malattie del 5 maggio 1965[^44-2] concernente l’esercizio del diritto ai sussidi federali per la cura medica e i medicamenti degli invalidi;
+- c. l’ordinanza 4 del DFI sull’assicurazione contro le malattie del 30 luglio 1965[^44-3] concernente il riconoscimento e la vigilanza dei preventori autorizzati ad accogliere assicurati minorenni;
+- d. l’ordinanza 6 del DFI sull’assicurazione contro le malattie del 10 dicembre 1965[^44-4] concernente gli istituti di chiropratica riconosciuti;
+- e. l’ordinanza 7 del DFI sull’assicurazione contro le malattie del 13 dicembre 1965[^44-5] concernente le terapie scientificamente riconosciute che devono essere prese a carico dalle casse malati riconosciute;
+- f. l’ordinanza 8 del DFI sull’assicurazione contro le malattie del 20 dicembre 1985[^44-6] concernente i trattamenti psicoterapeutici a carico delle casse malati riconosciute;
+- g. l’ordinanza 9 del DFI sull’assicurazione contro le malattie del 18 dicembre 1990[^44-7] concernente determinati provvedimenti diagnostici e terapeutici a carico delle casse malati riconosciute;
+- h. l’ordinanza 10 del DFI sull’assicurazione contro le malattie del 19 novembre 1968[^44-8] concernente l’ammissione di medicamenti nell’elenco delle specialità;
+- i. l’ordinanza del DFI del 28 dicembre 1989[^44-9] concernente i medicamenti obbligatoriamente a carico delle casse malati riconosciute;
+- k. l’ordinanza del DFI del 23 dicembre 1988[^44-10] concernente le analisi obbligatoriamente a carico delle casse malati riconosciute.
+
+[^44-1]: [[RU 1965 131](https://fedlex.data.admin.ch/eli/oc/1965/127_131_131), [1970 949](https://fedlex.data.admin.ch/eli/oc/1970/949_949_949), [1971 1719](https://fedlex.data.admin.ch/eli/oc/1971/1714_1719_1719), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II]
+[^44-2]: [[RU 1965 423](https://fedlex.data.admin.ch/eli/oc/1965/425_429_423), [1968 968](https://fedlex.data.admin.ch/eli/oc/1968/1012_1052_968), [1974 688](https://fedlex.data.admin.ch/eli/oc/1974/688_688_688), [1986 891](https://fedlex.data.admin.ch/eli/oc/1986/891_891_891)]
+[^44-3]: [[RU 1965 612](https://fedlex.data.admin.ch/eli/oc/1965/613_619_612), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II]
+[^44-4]: [[RU 1965 1201](https://fedlex.data.admin.ch/eli/oc/1965/1199_1211_1201), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II, [1988 973](https://fedlex.data.admin.ch/eli/oc/1988/973_973_973)]
+[^44-5]: [[RU 1965 1202](https://fedlex.data.admin.ch/eli/oc/1965/1201_1213_1202), [1968 754](https://fedlex.data.admin.ch/eli/oc/1968/798_838_754), [1971 1258](https://fedlex.data.admin.ch/eli/oc/1971/1262_1258_1258), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)n. II, [1988 2012](https://fedlex.data.admin.ch/eli/oc/1988/2012_2012_2012), [1993 349](https://fedlex.data.admin.ch/eli/oc/1993/349_349_349), [1995 890](https://fedlex.data.admin.ch/eli/oc/1995/890_890_890)]
+[^44-6]: [[RU 1986 87](https://fedlex.data.admin.ch/eli/oc/1986/87_87_87)]
+[^44-7]: [[RU 1991 519](https://fedlex.data.admin.ch/eli/oc/1991/519_519_519), [1994 743](https://fedlex.data.admin.ch/eli/oc/1994/743_743_743)[1078](https://fedlex.data.admin.ch/eli/oc/1994/1078_1078_1078), [1995 891](https://fedlex.data.admin.ch/eli/oc/1995/891_891_891)]
+[^44-8]: [[RU 1968 1463](https://fedlex.data.admin.ch/eli/oc/1968/1496_1543_1463), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)]
+[^44-9]: [[RU 1990 127](https://fedlex.data.admin.ch/eli/oc/1990/127_127_127), [1991 959](https://fedlex.data.admin.ch/eli/oc/1991/959_959_959), [1994 765](https://fedlex.data.admin.ch/eli/oc/1994/765_765_765)]
+[^44-10]: [[RU 1989 374](https://fedlex.data.admin.ch/eli/oc/1989/374_374_374), [1995 750](https://fedlex.data.admin.ch/eli/oc/1995/750_750_750)[3688](https://fedlex.data.admin.ch/eli/oc/1995/3688_3688_3688)]
+
+#### Art. 45
+
+[^45-1]
+
+[^45-1]: Abrogato dal n. I dellʼO del DFI del 27 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
+
+#### Art. 46
+
+**Entrata in vigore[^46-1]**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 1996.
+
+<sup>2</sup> ...[^46-2]
+
+<sup>3</sup> ...[^46-3]
+
+[^46-1]: Nuovo testo giusta il n. I dellʼO del DFI del 26 feb. 1996, in vigore dal 1° giu. 1996 ([RU 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
+[^46-2]: Abrogato dal n. I dellʼO del DFI del 15 gen. 1996, con effetto dal 1° mag. 1996 ([RU 1996 909](https://fedlex.data.admin.ch/eli/oc/1996/909_909_909)).
+[^46-3]: Abrogato dal n. I dellʼO del DFI del 26 feb. 1996, con effetto dal 1° giu. 1996 ([RU 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
+
+## Disposizione finale della modifica del 17 novembre 2003
+
+[^u1-1]
+
+[^u1-1]: [RU 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)
+
+I laboratori il cui direttore attesta un perfezionamento riconosciuto dalla FAMH non comprendente la genetica medica e che, prima dell’entrata in vigore della presente modifica d’ordinanza, hanno già eseguito analisi ai sensi dell’articolo 43 capoverso 2 possono continuare ad eseguirle, a condizione che il direttore disponga di un attestato della FAMH che ne certifichi l’esperienza in genetica medica conformemente al punto 8.4 delle disposizioni transitorie del regolamento e del programma di perfezionamento per specialisti FAMH in analisi di laboratorio medico del 1° marzo 2001 (complemento «diagnostica DNA/RNA»)[^u1-2].
+
+[^u1-2]: Non pubblicato nella RU. Il regolamento può essere consultato presso lʼUfficio federale della sanità pubblica.
+
+## Disposizione finale della modifica del 12 dicembre 2005
+
+[^u2-1]
+
+[^u2-1]: [RU 2006 21](https://fedlex.data.admin.ch/eli/oc/2006/9)
+
+Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previsto all’articolo 38*a* al più tardi entro il 1° aprile 2006.
+
+## Disposizioni finali della modifica del 3 luglio 2006
+
+[^u3-1]
+
+[^u3-1]: [RU 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)
+
+<sup>1</sup> Per il periodo compreso tra il 1<sup>°</sup> luglio e il 30 settembre 2006 l’assunzione dei costi per la tomografia ad emissione di positroni (PET) è effettuata secondo l’allegato 1 numero 9.2 della versione del 9 novembre 2005[^u3-2].[^u3-3]
+
+<sup>2</sup> ...[^u3-4]
+
+[^u3-2]: [RU 2006 23](https://fedlex.data.admin.ch/eli/oc/2006/10)
+[^u3-3]: In vigore dal 1° lug. 2006.
+[^u3-4]: Abrogato dal n. I dellʼO del DFI del 5 dic. 2011, con effetto dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+
+## Disposizioni finali della modifica del 4 aprile 2007
+
+[^u4-1]
+
+[^u4-1]: [RU 2007 1367](https://fedlex.data.admin.ch/eli/oc/2007/227)
+
+<sup>1</sup> I direttori di laboratori che non soddisfano le esigenze di cui all’articolo 42 capoverso 3 e che secondo il diritto anteriore erano autorizzati ad eseguire determinate analisi speciali continuano ad esserlo anche dopo l’entrata in vigore della modifica del 4 aprile 2007.[^u4-2]
+
+<sup>2</sup> Per le domande pendenti al momento dell’entrata in vigore della modifica del 4 aprile 2007 si applica il diritto anteriore.
+
+[^u4-2]: La mod. entra in vigore il 1° apr. 2007.
+
+## Disposizioni finali della modifica del 21 settembre 2007
+
+[^u5-1]
+
+[^u5-1]: [RU 2007 4443](https://fedlex.data.admin.ch/eli/oc/2007/618)
+
+<sup>1</sup> L’UFSP esamina i prezzi di fabbrica per la consegna dei preparati originali ammessi nell’elenco delle specialità tra il 1° gennaio 1993 e il 31 dicembre 2002 e i prezzi dei corrispettivi generici.
+
+<sup>2</sup> L’azienda responsabile della distribuzione di un preparato originale che deve essere riesaminato calcola, in base ai disciplinamenti rilasciati dalle relative autorità o associazioni, i prezzi di fabbrica per la consegna in Germania, Danimarca, Regno Unito e Paesi Bassi degli imballaggi maggiormente venduti in Svizzera. L’azienda provvede a far confermare tali prezzi da una persona con potere di firma rappresentante del fabbricante nel rispettivo Paese. L’azienda responsabile della distribuzione del corrispettivo generico non è tenuta a presentare all’UFSP alcun confronto di prezzi.
+
+<sup>3</sup> L’azienda responsabile della distribuzione di un preparato originale deve comunicare all’UFSP, entro il 30 novembre 2007, i prezzi medi di fabbrica per la consegna vigenti il 1° ottobre 2007. L’UFSP calcola il prezzo medio di fabbrica per la consegna in base ai prezzi vigenti in Germania, Danimarca, Regno Unito e Paesi Bassi e lo converte in franchi svizzeri in base al corso medio del cambio vigente tra i mesi di aprile e settembre 2007.
+
+<sup>5</sup> La riduzione di prezzo secondo il capoverso 4 può avvenire progressivamente. Se la riduzione di prezzo secondo il capoverso 4 è superiore al 30 per cento del valore originario, un primo adeguamento è effettuato il 1° marzo 2008 con una riduzione di prezzo al 70 per cento del valore originario, e il 1° gennaio 2009, con una riduzione fino al prezzo medio di fabbrica per la consegna calcolato secondo il capoverso 3. Se la riduzione di prezzo su domanda calcolata secondo il capoverso 4 lettera b è superiore al 20 per cento del valore originario, l’azienda può chiedere per il 1° marzo 2008 una riduzione di prezzo all’80 per cento del valore originario e per il 1° gennaio 2009 una riduzione fino al livello di prezzo medio necessario secondo il capoverso 4 lettera b.
+
+<sup>6</sup> Se in base all’esame determina un nuovo prezzo per un preparato originale, l’UFSP adegua pure i prezzi dei corrispettivi generici secondo le disposizioni vigenti.
+
+<sup>4</sup> L’UFSP riduce il prezzo di fabbrica per la consegna dei preparati originali con effetto a partire dal 1° marzo 2008 fino al prezzo medio di fabbrica per la consegna calcolato secondo il capoverso 3, se:
+
+- a. il 1° ottobre 2007 il prezzo di fabbrica per la consegna del preparato originale (valore originario) è superiore di più dell’8 per cento al prezzo calcolato secondo il capoverso 3;
+- b. fino al 30 novembre 2007 l’azienda non ha presentato domanda di riduzione del prezzo di fabbrica per la consegna con effetto a partire dal 1° marzo 2008 fino a un importo che superi dell’8 per cento al massimo il prezzo di fabbrica per la consegna calcolato secondo il capoverso 3.
+
+## Disposizioni transitorie della modifica del 30 giugno 2010
+
+[^u6-1]
+
+[^u6-1]: [RU 2010 3249](https://fedlex.data.admin.ch/eli/oc/2010/436)
+
+## Disposizioni transitorie della modifica del 2 febbraio 2011
+
+[^u7-1]
+
+[^u7-1]: [RU 2011 657](https://fedlex.data.admin.ch/eli/oc/2011/105)
+
+<sup>1</sup> In deroga all’articolo 38*a* capoverso 3, la media del terzo meno caro è determinata nel 2011 solo il 1° luglio e nel 2012 il 1° gennaio e il 1° novembre.
+
+<sup>2</sup> Per tutti i preparati originali e i medicamenti in co-marketing il cui prezzo di fabbrica per la consegna è stato ridotto prima del 1° luglio 2009 in un’unica volta al livello di prezzo del generico in vigore allo scadere del brevetto, l’aliquota percentuale secondo l’articolo 38*a* capoverso 1 è determinata il 1° luglio 2011.
+
+## Disposizioni transitorie della modifica del 21 marzo 2012
+
+[^u8-1]
+
+[^u8-1]: Applicabili dal 1° mag. 2012 al 31 dic. 2014 ([RU 2012 1769](https://fedlex.data.admin.ch/eli/oc/2012/247)n. III cpv. 2).
+
+## Disposizioni transitorie della modifica del 29 aprile 2015
+
+[^u9-1]
+
+[^u9-1]: [RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)
+
+<sup>1</sup> Nel 2016 non si svolge alcun riesame delle condizioni di ammissione secondo gli articoli 34*d*–34*h*.[^u9-2]
+
+<sup>2</sup> Le disposizioni della modifica del 29 aprile 2015 si applicano anche alle domande che al momento dell’entrata in vigore di tale modifica sono pendenti presso l’UFSP.
+
+<sup>3</sup> La restituzione delle eccedenze per i medicamenti che sono stati ammessi nell’elenco delle specialità prima dell’entrata in vigore della modifica del 29 aprile 2015 e che fino ad allora non sono stati ancora riesaminati conformemente all’articolo 65*d* è valutata in occasione del successivo riesame triennale delle condizioni di ammissione conformemente all’articolo 35*c* OPre nel suo tenore previgente.
+
+[^u9-2]: Nuovo testo giusta il n. I dellʼO del DFI del 21 mar. 2016, in vigore dal 1° mag. 2016 ([RU 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
+
+## Disposizioni transitorie della modifica del 21 ottobre 2015
+
+[^u10-1]
+
+[^u10-1]: [RU 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)
+
+<sup>1</sup> ...[^u10-2]
+
+<sup>2</sup> Per la restituzione delle eccedenze riguardanti i medicamenti che sono stati ammessi nell’elenco delle specialità anteriormente al 1° giugno 2015, si applica il capoverso 3 delle disposizioni transitorie della modifica del 29 aprile 2015[^u10-3].
+
+[^u10-2]: Abrogato dal n. I dellʼO del DFI del 21 mar. 2016, con effetto dal 1° mag. 2016 ([RU 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
+[^u10-3]: [RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)
+
+## Disposizioni transitorie della modifica del 1° febbraio 2017
+
+[^u11-1]
+
+[^u11-1]: [RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)
+
+<sup>1</sup> Le disposizioni della modifica del 1° febbraio 2017 si applicano anche alle domande che al momento dell’entrata in vigore della presente modifica sono pendenti presso l’UFSP.
+
+<sup>2</sup> Il primo riesame delle condizioni di ammissione ogni tre anni secondo l’articolo 34*d* è effettuato nel 2017 per l’unità A, nel 2018 per l’unità B e nel 2019 per l’unità C.
+
+<sup>3</sup> Nel 2017 il titolare dell’omologazione deve comunicare all’UFSP i risultati del confronto con i prezzi praticati all’estero secondo l’articolo 34*e* capoverso 1 e del confronto terapeutico trasversale secondo l’articolo 34*f* capoverso 2, nonché tutti i dati utilizzati per questi confronti, entro il 31 marzo 2017.
+
+<sup>4</sup> Nel 2017 sono esclusi aumenti del prezzo secondo l’articolo 67 capoverso 2 OAMal. In via eccezionale l’UFSP può autorizzare aumenti del prezzo se deve essere garantito il fabbisogno della popolazione svizzera e non esistono alternative terapeutiche.
+
+## Disposizione transitoria della modifica del 2 luglio 2019
+
+[^u12-1]
+
+[^u12-1]: [RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)
+
+La valutazione dei bisogni nelle case di cura può essere effettuata secondo il diritto anteriore fino al 31 dicembre 2021*.*
+
+Allegato 1[^t-2]
+
+(art. 1)
+
+## Rimunerazione da parte dellʼassicurazione obbligatoria delle cure medico-sanitarie di determinate prestazioni mediche
+
+[^t-2]: Non pubblicato nella RU ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Allegato 1 dell’ordinanza sulle prestazioni (OPre).
+
+Allegato 1a[^t-3]
+
+(art. 3*c* cpv. 4)
+
+## Limitazione dellʼassunzione dei costi per determinati interventi elettivi
+
+[^t-3]: Non pubblicato nella RU ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Lʼall. 1*a* può essere consultato allʼindirizzo: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazione mediche &gt; Allegato 1a dell’OPre
+
+Allegato 2[^t-4]
+
+(art. 20*a*)
+
+## Elenco dei mezzi e degli apparecchi
+
+[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744),[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2 6491 n. II cpv. 2, [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)[7151](https://fedlex.data.admin.ch/eli/oc/2017/773), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[2375](https://fedlex.data.admin.ch/eli/oc/2018/340)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355)[4387](https://fedlex.data.admin.ch/eli/oc/2019/756), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)e [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).
+
+Allegato 3[^t-5]
+
+(art. 28)
+
+## Elenco delle analisi
+
+[^t-5]: Non pubblicato nella RU ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491, [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
+
+Allegato 4[^t-6]
+
+(art. 29)
+
+## Elenco dei medicamenti con tariffa
+
+[^t-6]: Non pubblicato nella RU ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)). Lʼelenco può essere consultato al seguente indirizzo Internet: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).

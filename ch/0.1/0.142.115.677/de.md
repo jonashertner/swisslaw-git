@@ -1,0 +1,84 @@
+---
+sr: "0.142.115.677"
+title: Abkommen vom 25. März 1996 zwischen dem Schweizerischen Bundesrat und der Regierung S.D. dem Fürsten von Monaco über den Austausch von Stagiaires
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/1236_1236_1236"
+language: de
+version: 1996-03-25
+adopted: 1996-03-25
+in_force: 1996-03-25
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1236_1236_1236/19960325/de/xml/fedlex-data-admin-ch-eli-cc-1996-1236_1236_1236-19960325-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1236_1236_1236/19960325/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung S. D. dem Fürsten von Monaco über den Austausch von Stagiaires
+
+AS **2011** 6033
+
+Übersetzung*[^t-1]*
+
+Abgeschlossen am 25. März 1996 In Kraft getreten am 25. März 1996
+
+(Stand am 25. März 1996)
+
+[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+
+Der Schweizerische Bundesrat und die Regierung S. D. dem Fürsten von Monaco,
+
+im Wunsch, die berufliche Weiterbildung von Bürgern ihrer Staaten zu fördern, haben die folgenden Vereinbarungen getroffen:
+
+#### Art. 1
+
+Dieses Abkommen findet Anwendung auf Bürger beider Staaten, die im anderen Land zur beruflichen und sprachlichen Weiterbildung eine befristete Stelle antreten (nachstehend «Stagiaires»). Die Anstellung kann in allen Berufen erfolgen, deren Ausübung für ausländische Staatsangehörige nicht gesetzlich eingeschränkt ist. Falls die Ausübung des Berufs einer besonderen Bewilligung bedarf, ist diese zusätzlich einzuholen.
+
+#### Art. 2
+
+Die Stagiaires dürfen im Rahmen der in folgenden Artikeln festgelegten Bedingungen eine Stelle antreten, ohne dass die Lage auf dem Arbeitsmarkt in der gewählten Branche ein Hindernis für die Erteilung der Bewilligung bildet.
+
+#### Art. 3
+
+Die Stagiaires können beiderlei Geschlechts sein. Sie müssen mindestens 18 Jahre alt sein und in der Regel nicht über 35 Jahre alt sein. Die Stagiairesbewilligung wird in der Regel für ein Jahr erteilt. Sie kann ausnahmsweise um sechs Monate verlängert werden.
+
+#### Art. 4
+
+Die Stagiaires dürfen keine andere Erwerbstätigkeit ausüben oder keine andere Stelle annehmen als die, für welche die Bewilligung erteilt ist. Die zuständige Behörde kann in begründeten Fällen die Genehmigung zum Stellenwechsel erteilen.
+
+#### Art. 5
+
+Die Zahl der in jedem Land zugelassenen Stagiaires darf 20 pro Jahr nicht überschreiten. Zusätzliche Gesuche werden wohlwollend geprüft, falls die Lage auf dem Arbeitsmarkt der betroffenen Branche dies zulässt. Dieses Kontingent gilt für das Kalenderjahr. Es kann aufgrund gemeinsamer Vereinbarung der beiden Vertragsparteien bis spätestens am 1. Dezember für das folgende Kalenderjahr geändert werden.
+
+Falls das vorgesehene Kontingent im Verlaufe eines Kalenderjahres durch die Stagiaires eines der Länder nicht ausgeschöpft wird, rechtfertigt dies nicht die Einschränkung des Kontingents durch das andere Land noch den Übertrag der verbliebenen Einheiten auf das folgende Jahr.
+
+#### Art. 6
+
+Arbeitgeber, die einen Stagiaires beschäftigen wollen, verpflichten sich, ihn nach den gesetzlichen Regelungen, nach den geltenden Gesamtarbeitsverträgen oder bei deren Fehlen nach orts- und beruflichen Ansätzen zu entschädigen.
+
+#### Art. 7
+
+Das Gesuch hat alle notwendigen Angaben zu seiner Prüfung zu enthalten, insbesondere die Angaben über den Betrieb, in dem der Stagiaire angestellt wird. Die Behörde prüft das Gesuch auf seine Übereinstimmung mit den Vereinbarungen dieses Abkommens und übermittelt die angenommenen Gesuche direkt an die Behörde des anderen Landes.
+
+Bürger der beiden Länder, die von den Bestimmungen dieses Abkommens Gebrauch machen wollen, richten ihr Gesuch an die zuständige Behörde ihres Herkunftslandes, d. h.:
+
+- – für die Schweiz an das Bundesamt für Industrie, Gewerbe und Arbeit[^7-1] in Bern;
+- – für das Fürstentum von Monaco an den Service de l’emploi.
+
+[^7-1]: Heute: Staatssekretariat für Migration (SEM) (siehe [AS 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
+
+#### Art. 8
+
+Die im obenerwähnten Artikel genannten zuständigen Behörden der beiden Länder bemühen sich, die Stellensuche von Stagiaires-Kandidaten zu unterstützen. Sie unternehmen alle Anstrengungen, die Gesuche so schnell wie möglich zu behandeln. Die Stagiairesbewilligung wird entsprechend den Bestimmungen des Gastlandes über die Ein- und Ausreise, den Aufenthalt und die Erwerbstätigkeit für Ausländer erteilt. Die zuständigen Behörden bemühen sich, allfällige Schwierigkeiten im Zusammenhang mit der Einreise und dem Aufenthalt der Stagiaires zu klären.
+
+Die erwähnten Behörden erledigen alle Formalitäten im Zusammenhang mit der Stagiairesbewilligung kostenlos. Dagegen sind die mit der Einreise und dem Aufenthalt zusammenhängenden Taxen und Gebühren zu entrichten.
+
+#### Art. 9
+
+Das vorliegende Abkommen tritt am Tage seiner Unterzeichnung für die Dauer eines Jahres in Kraft. Ohne Kündigung durch eine der Vertragsparteien vor dem 1. Juli für das folgende Kalenderjahr wird es anschliessend jährlich stillschweigend verlängert. Im Falle einer Kündigung bleiben die aufgrund dieses Abkommens erteilten Bewilligungen für die ursprünglich genehmigte Dauer gültig.
+
+Geschehen in Bern, in zwei Exemplaren, am 25. März 1996.
+
+<table>
+<tr><td>Für den</td><td>Für die Regierung</td></tr>
+<tr><td>Schweizerischen Bundesrat:</td><td>S. D. des Fürsten von Monaco:</td></tr>
+<tr><td>Jean-Luc Nordmann</td><td>Bernard Fautrier</td></tr>
+</table>

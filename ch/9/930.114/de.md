@@ -1,0 +1,235 @@
+---
+sr: "930.114"
+title: "Verordnung vom 25. November 2015 über die Sicherheit von Druckgeräten (Druckgeräteverordnung, DGV)"
+short: DGV
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/28"
+language: de
+version: 2016-07-19
+adopted: 2015-11-25
+in_force: 2016-07-19
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/28/20160719/de/xml/fedlex-data-admin-ch-eli-cc-2016-28-20160719-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/28/20160719/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Sicherheit von Druckgeräten
+
+(Druckgeräteverordnung, DGV)
+
+vom 25. November 2015 (Stand am 19. Juli 2016)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 4 des Bundesgesetzes vom 12. Juni 2009[^ingress-1] über die Produktesicherheit (PrSG) und auf Artikel 83 Absatz 1 des Bundesgesetzes vom 20. März 1981[^ingress-2] über die Unfallversicherung (UVG), in Ausführung des Elektrizitätsgesetzes vom 24. Juni 1902[^ingress-3] (EleG) und des Bundesgesetzes vom 6. Oktober 1995[^ingress-4] über die technischen Handelshemmnisse (THG),
+
+verordnet:
+
+[^ingress-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^ingress-3]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-4]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+#### Art. 1
+
+**Gegenstand, Geltungsbereich, Begriffe und anwendbares Recht**
+
+<sup>1</sup> Diese Verordnung regelt das Inverkehrbringen und die spätere Bereitstellung auf dem Markt von Druckgeräten und Baugruppen nach der Richtlinie 2014/68/EU[^1-1] (EU-Druckgeräterichtlinie) sowie die Marktüberwachung betreffend diese Produkte.
+
+<sup>2</sup> Der Geltungsbereich richtet sich nach Artikel 1 der EU-Druckgeräterichtlinie.
+
+<sup>3</sup> Es gelten die Begriffe nach Artikel 2 der EU-Druckgeräterichtlinie. Die in Artikel 2 Nummern 24–26 genannten Begriffe sind gemäss der schweizerischen Gesetzgebung über Produktesicherheit und Akkreditierung zu verstehen. Zudem gelten die Ausdrucksentsprechungen nach Anhang Ziffer 1.
+
+<sup>4</sup> Wird in dieser Verordnung auf Bestimmungen der EU-Druckgeräterichtlinie verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach dem Anhang Ziffer 2.
+
+<sup>5</sup> Soweit diese Verordnung keine besonderen Bestimmungen enthält, gelten für Druckgeräte und Baugruppen die Bestimmungen der Verordnung vom 19. Mai 2010[^1-2] über die Produktesicherheit (PrSV).
+
+[^1-1]: Richtlinie 2014/68/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von Druckgeräten auf dem Markt (Neufassung), Fassung gemäss ABl. L 189 vom 27.6.2014, S. 164.
+[^1-2]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+
+#### Art. 2
+
+**Voraussetzungen für das Inverkehrbringen und die Bereitstellung auf dem Markt**
+
+Druckgeräte und Baugruppen dürfen nur in Verkehr gebracht und auf dem Markt bereitgestellt werden, wenn:
+
+- a. sie bei ordnungsgemässer Installation und Wartung und bei bestimmungsgemässer oder vernünftigerweise vorhersehbarer Verwendung die Sicherheit und die Gesundheit von Menschen und die Sicherheit von Haus- und Nutztieren sowie von Gütern nicht gefährden; und
+- b. die zum Zeitpunkt ihres Inverkehrbringens geltenden Anforderungen nach Artikel 4 der EU-Druckgeräterichtlinie[^2-1] und nach den in dieser Bestimmung genannten Anhängen I und II erfüllt sind.
+
+[^2-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+
+#### Art. 3
+
+**Einstufung von Druckgeräten, Konformität, Konformitätsbewertungsstellen und Bezeichnungsbehörden**
+
+<sup>1</sup> Die Einstufung von Druckgeräten richtet sich nach Artikel 13 der EU-Druckgeräterichtlinie[^3-1] sowie dem in dieser Bestimmung genannten Anhang II.
+
+<sup>2</sup> Für die Konformitätsbewertung von Druckgeräten und Baugruppen gelten die Grundsätze und die Verfahren nach den Artikeln 12, 14, 15 und 17 der EU-Druckgeräterichtlinie und nach den in diesen Bestimmungen genannten Anhängen I, III und IV.
+
+<sup>3</sup> Die Pflicht, die CE-Kennzeichnung anzubringen, gilt nicht. Sofern die CE-Kennzeichnung in Übereinstimmung mit den Vorschriften der EU bereits angebracht ist, kann sie belassen werden. Für das Anbringen weiterer Angaben und Kennzeichen gilt Artikel 19 Absätze 4 und 5 der EU-Druckgeräterichtlinie.
+
+<sup>4</sup>
+
+Die Konformitätsbewertungsstellen müssen für den betreffenden Fachbereich:
+
+- a. nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^3-2] (AkkBV) akkreditiert sein;
+- b. von der Schweiz im Rahmen eines internationalen Abkommens anerkannt sein; oder
+- c. durch das Bundesrecht anderweitig ermächtigt sein.
+
+<sup>5</sup> Die Anforderungen an Betreiberprüfstellen sind in den Artikeln 16 und 25 der EU‑Druckgeräterichtlinie geregelt.
+
+<sup>6</sup> Die Voraussetzungen und das Verfahren zur Bezeichnung von Konformitätsbewertungsstellen und zum Entzug der Bezeichnung, die Rechte und Pflichten der bezeichneten Stellen sowie die Anforderungen an die Bezeichnungsbehörden richten sich nach dem 3. Kapitel (Art. 24–34*c*) der AkkBV.
+
+[^3-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^3-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 4
+
+**Bestimmungen über die Wirtschaftsakteure**
+
+<sup>1</sup>
+
+Die Pflichten der folgenden Wirtschaftsakteure richten sich nach den nachstehenden Bestimmungen der EU-Druckgeräterichtlinie[^4-1]:
+
+- a. Hersteller: Artikel 6;
+- b. Bevollmächtigte: Artikel 7;
+- c. Importeure: Artikel 8;
+- d. Händler: Artikel 9.
+
+<sup>2</sup> Die Geltung der Pflichten des Herstellers für die Importeure und Händler richtet sich nach Artikel 10 der EU-Druckgeräterichtlinie.
+
+<sup>3</sup> Die Identifizierung der Wirtschaftsakteure gegenüber den Marktüberwachungsbehörden richtet sich nach Artikel 11 der EU-Druckgeräterichtlinie.
+
+[^4-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+
+#### Art. 5
+
+**Bezeichnung technischer Normen**
+
+Die Bezeichnung technischer Normen richtet sich nach Artikel 6 PrSG. Zuständig ist das Staatssekretariat für Wirtschaft.
+
+#### Art. 6
+
+**Marktüberwachung**
+
+Die Marktüberwachung betreffend Druckgeräte und Baugruppen richtet sich nach den Artikeln 19–29 PrSV[^6-1].
+
+[^6-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+
+#### Art. 7
+
+**Aufhebung und Änderung anderer Erlasse**
+
+<sup>1</sup> Die Druckgeräteverordnung vom 20. November 2002[^7-1] wird aufgehoben.
+
+<sup>2</sup> …[^7-2]
+
+[^7-1]: [[AS 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 6]
+[^7-2]: Die Änderung kann unter [AS 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)konsultiert werden.
+
+#### Art. 8
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Druckgeräte und Baugruppen, die vor dem 19. Juli 2016 nach bisherigem Recht in Verkehr gebracht wurden, dürfen auch nach dem 19. Juli 2016 auf dem Markt bereitgestellt und in Betrieb genommen werden.
+
+<sup>2</sup> Bescheinigungen und Beschlüsse von Konformitätsbewertungsstellen, die nach bisherigem Recht ausgestellt beziehungsweise gefasst wurden, bleiben unter der vorliegenden Verordnung gültig.
+
+#### Art. 9
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 19. Juli 2016 in Kraft.
+
+Anhang
+
+(Art. 1 Abs. 3 und 4)
+
+## Entsprechungen von Ausdrücken und anwendbarem Recht
+
+\1. Für die korrekte Auslegung der Ausdrücke, die in der EU-Druckgeräterichtlinie[^annexu1-lvlu1-1], auf die in dieser Verordnung verwiesen wird, genannt werden, gelten die folgenden Entsprechungen:
+
+- a. Deutsche Ausdrücke
+
+<table>
+<tr><th>EU</th><th>Schweiz</th></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>Drittstaat</td><td>Anderer Staat</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
+<tr><td>EU-Rechtsvorschriften</td><td>Rechtsvorschriften</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td>Notifizierte Stelle</td><td>Konformitätsbewertungsstelle</td></tr>
+<tr><td>Notifizierende Behörde</td><td>Bezeichnungsbehörde</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Gute Ingenieurpraxis</td><td>Stand des Wissens und der Technik</td></tr>
+<tr><td>Stand der Technik</td><td>Stand des Wissens und der Technik</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>EU-Baumusterprüfung</td><td>Baumusterprüfung</td></tr>
+<tr><td>EU-Baumusterprüfbescheinigung</td><td>Baumusterprüfbescheinigung</td></tr>
+<tr><td>EU-Entwurfsprüfbescheinigung</td><td>Entwurfsprüfbescheinigung</td></tr>
+<tr><td>Europäische Werkstoffzulassung</td><td>Werkstoffzulassung</td></tr>
+<tr><td>Gemische</td><td>Zubereitungen</td></tr>
+</table>
+
+- b. Französische Ausdrücke
+
+<table>
+<tr><th>EU</th><th>Schweiz</th></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>État membre</td><td>Suisse</td></tr>
+<tr><td>Pays tiers</td><td>Autre pays</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td>Organisme notifié</td><td>Organisme d’évaluation de la conformité</td></tr>
+<tr><td>Autorité notifiante</td><td>Autorité de désignation</td></tr>
+<tr><td>Règles de l’art</td><td>État des connaissances et de la technique</td></tr>
+<tr><td>État d’avancement de la technique</td><td>État des connaissances et de la technique</td></tr>
+<tr><td>Déclaration UE de conformité</td><td>Déclaration de conformité</td></tr>
+<tr><td>Examen UE de type</td><td>Examen de type</td></tr>
+<tr><td>Attestation d’examen UE de type</td><td>Attestation d’examen de type</td></tr>
+<tr><td>Attestation d’examen UE de la conception</td><td>Attestation d’examen de la conception</td></tr>
+<tr><td>Approbation européenne de matériaux</td><td>Approbation de matériaux</td></tr>
+<tr><td>Mélanges</td><td>Préparations</td></tr>
+</table>
+
+- c. Italienische Ausdrücke
+
+<table>
+<tr><th>EU</th><th>Schweiz</th></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+<tr><td>Stato membro</td><td>Svizzera</td></tr>
+<tr><td>Paese terzo</td><td>Altro paese</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
+<tr><td>Organismo notificato</td><td>Organismo di valutazione della conformità</td></tr>
+<tr><td>Autorità di notifica</td><td>Autorità di designazione</td></tr>
+<tr><td>Corretta prassi costruttiva</td><td>Stato della scienza e della tecnica</td></tr>
+<tr><td>Stato della tecnica</td><td>Stato della scienza e della tecnica</td></tr>
+<tr><td>Dichiarazione di conformità UE</td><td>Dichiarazione di conformità</td></tr>
+<tr><td>Esame UE del tipo</td><td>Esame del tipo</td></tr>
+<tr><td>Certificato di esame UE del tipo</td><td>Certificato di esame del tipo</td></tr>
+<tr><td>Certificato di esame UE del progetto</td><td>Certificato di esame del progetto</td></tr>
+<tr><td>Approvazione europea di materiali</td><td>Approvazione di materiali</td></tr>
+<tr><td>Miscele</td><td>Preparati</td></tr>
+</table>
+
+\2. Wird in dieser Verordnung auf Bestimmungen der EU-Druckgeräterichtlinie verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU‑Rechts das folgende schweizerische Recht:
+
+<table>
+<tr><td>*Richtlinie 2014/29/EU:* Richtlinie 2014/29/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung einfacher Druckbehälter auf dem Markt, ABl. L 96 vom 29.3.2014, S. 45.</td><td>Druckbehälterverordnung vom 25. November 2015 (DBV; SR *930.113*)</td></tr>
+<tr><td>*Richtlinie 75/324/EWG:* Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen, ABl. L 147 vom 9.6.1975, S. 40.</td><td>Die Verordnung, die das Eidgenössische Departement des Innern (EDI) gestützt auf Artikel 45 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005 (SR *817.02*) erlässt.</td></tr>
+<tr><td>*Richtlinie 2007/46/EG:* Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1.</td><td>Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS; SR *741.41*)</td></tr>
+<tr><td>*Richtlinie 2006/42/EG:* Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG, ABl. L 157 vom 9.6.2006, S. 24.</td><td>Maschinenverordnung vom 2. April 2008 (MaschV, SR *819.14*)</td></tr>
+<tr><td>*Richtlinie 2014/33/EU:* Richtlinie 2014/33/EU des E ropäischen Parlaments und des Rates vom 26. Februar 2014 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aufzüge und Sicherheitsbauteile für Aufzüge, ABl. L 96 vom 29.3.2014, S. 251.</td><td>Aufzugsverordnung vom 25. November 2015 (SR *930.112*)</td></tr>
+<tr><td>*Richtlinie 2014/35/EU:* Richtlinie 2014/35/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung elektrischer Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen auf dem Markt, ABl. L 96 vom 29.3.2014, S. 357.</td><td>Verordnung vom 25. November 2015 über elektrische Niederspannungserzeugnisse (NEV, SR *734.26*)</td></tr>
+<tr><td>*Richtlinie 93/42/EWG:* Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1.</td><td>Medizinprodukteverordnung vom 17. Oktober 2001 (MepV, SR *812.213*)</td></tr>
+<tr><td>*Richtlinie 2009/142/EG:* Richtlinie 2009/142/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über Gasverbrauchseinrichtungen, ABl. L 330 vom 16.12.2009, S. 10.</td><td>Verordnung vom 19. Mai 2010 über die Produktesicherheit (PrSV, SR *930.111*)</td></tr>
+<tr><td>*Richtlinie 2014/34/EU:* Richtlinie 2014/34/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten für Geräte und Schutzsysteme zur bestimmungsgemässen Verwendung in explosionsgefährdeten Bereichen, ABl. L 96 vom 29.3.2014, S. 309.</td><td>Verordnung vom 25. November 2015 über Geräte und Schutzsysteme zur Verwendung in explosionsgefährdeten Bereichen (VGSEB, SR *734.6*)</td></tr>
+<tr><td>*Richtlinie 2008/68/EG:* Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13.</td><td>Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR, SR *741.621*) Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen (RSD, SR *742.412*)</td></tr>
+<tr><td>*Richtlinie 2010/35/EU:* Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG, ABl. L 165 vom 30.6.2010, S. 1.</td><td>Gefahrgutumschliessungsverordnung vom 31. Oktober 2012 (GGUV, SR *930.111.4*)</td></tr>
+<tr><td>*Verordnung (EU) Nr. 167/2013:* Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 1.</td><td>Verordnung vom 19. Juni 1995 über technische Anforderungen an landwirtschaftliche Traktoren und deren Anhänger (TAFV 2, SR *741.413*)</td></tr>
+<tr><td>*Verordnung (EU) Nr. 168/2013:* Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 52.</td><td>Verordnung vom 2. September 1998 über technische Anforderungen an Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge (TAFV 3, SR *741.414*)</td></tr>
+<tr><td>Artikel 346 Absatz 1 Buchstabe b des Vertrags über die Arbeitsweise der Europäischen Union</td><td>Die Verordnung, die das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) gestützt auf Artikel 4 Absatz 2 der Organisationsverordnung vom 7. März 2003 für das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (OV‑VBS, SR *172.214.*1) erlässt.</td></tr>
+<tr><td>Artikel 2 Nummern 7 und 8 und Anhang I Teile 2 und 3 der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1.</td><td>Artikel 4 Absatz 1 Buchstabe c des Chemikaliengesetzes vom 15. Dezember 2000 (ChemG, SR *813.1*) sowie die Artikel 2 Absatz 1 Buchstabe a, 6–7 und Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015 (ChemV, SR *813.11*)</td></tr>
+</table>
+
+[^annexu1-lvlu1-1]: Siehe Fussnote zu Art. 1 Abs. 1.

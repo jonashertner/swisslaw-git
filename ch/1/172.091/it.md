@@ -1,0 +1,185 @@
+---
+sr: "172.091"
+title: "Ordinanza dell' 8 dicembre 2006 sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese (OCPPMI)"
+short: OCPPMI
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/18"
+language: it
+version: 2013-01-01
+adopted: 2006-12-08
+in_force: 2007-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/18/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2007-18-20130101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/18/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese
+
+(OCPPMI)
+
+dell’8 dicembre 2006 (Stato 1° gennaio 2013)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 8, 55 e 57 della legge federale del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione,
+
+ordina:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo**
+
+La presente ordinanza ha lo scopo:
+
+- a. di migliorare il coordinamento della politica della Confederazione in favore delle piccole e medie imprese (PMI); e
+- b. di facilitare l’adozione e l’attuazione di misure destinate a ridurre l’onere amministrativo delle imprese.
+
+#### Art. 2
+
+**Informazione**
+
+I Dipartimenti, gli uffici e i servizi dell’Amministrazione federale (unità amministrative) informano i servizi competenti della Segreteria di Stato dell’economia (SECO) quando un progetto o un compito nel loro ambito di competenza possono avere un impatto importante sulle PMI e sull’onere amministrativo delle imprese in generale.
+
+## Sezione 2: Organo di coordinamento della politica della Confederazione in favore delle PMI
+
+#### Art. 3
+
+**Istituzione**
+
+Il Consiglio federale istituisce un Organo di coordinamento della politica della Confederazione in favore delle piccole e medie imprese (OCPMI).
+
+#### Art. 4
+
+**Compiti**
+
+L’OCPMI svolge i compiti seguenti:
+
+- a. coordina in una fase precoce le attività svolte dalla Confederazione in tutti gli ambiti concernenti le PMI;
+- b. sorveglia l’attuazione delle misure adottate dal Consiglio federale per ridurre l’onere amministrativo delle imprese;
+- c. rivolge raccomandazioni alle unità amministrative competenti.
+
+#### Art. 5
+
+**Composizione**
+
+L’OCPMI è composto del direttore o di un membro della direzione:
+
+- a. dell’Ufficio federale di statistica (UST);
+- b. dell’Ufficio federale delle assicurazioni sociali (UFAS);
+- c. dell’Ufficio federale di giustizia (UFG);
+- d. dell’Istituto Federale della Proprietà Intellettuale (IPI);
+- e. dell’Amministrazione federale delle contribuzioni (AFC);
+- f. dell’Amministrazione federale delle dogane (AFD);
+- g. della SECO;
+- h. dell’Ufficio federale dell’agricoltura (UFAG);
+- i. della Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^5-1]; e
+- j. dell’Ufficio federale dell’ambiente (UFAM).
+
+[^5-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
+
+#### Art. 6
+
+**Sedute e presidenza**
+
+<sup>1</sup> L’OCPMI si riunisce almeno due volte l’anno.
+
+<sup>2</sup> È presieduto dal rappresentante della SECO.
+
+<sup>3</sup> A seconda dei temi trattati possono essere chiamati a partecipare alle sedute dell’OCPMI anche rappresentanti di unità amministrative diverse da quelle enumerate nell’articolo 5.
+
+#### Art. 7
+
+**Procedura decisionale**
+
+<sup>1</sup> Le unità amministrative rappresentate nell’OCPMI adottano e attuano di comune accordo e all’unanimità le misure necessarie a una cooperazione e un coordinamento efficaci. Se non giungono a un accordo, sottopongono senza indugio al Consiglio federale i dossier controversi.
+
+<sup>2</sup> Le raccomandazioni non vincolanti rivolte alle unità amministrative sono adottate alla maggioranza dei voti dei membri permanenti dell’OCPMI. È permessa l’astensione dal voto. A parità di voti, il voto del presidente conta doppio.
+
+#### Art. 8
+
+**Segreteria**
+
+<sup>1</sup> La SECO funge da segreteria dell’OCPMI.
+
+<sup>2</sup> La segreteria stabilisce l’ordine del giorno delle sedute sulla base delle consultazioni preliminari e delle proposte formulate dalle unità amministrative rappresentate nell’OCPMI.
+
+## Sezione 3: Forum PMI
+
+#### Art. 9
+
+**Compiti**
+
+Il Forum PMI svolge i compiti seguenti:
+
+- a. si pronuncia nell’ambito delle procedure di consultazione esprimendo il punto di vista delle PMI;
+- b. analizza le regolamentazioni vigenti che causano un considerevole onere amministrativo alle imprese;
+- c. propone alle unità amministrative competenti semplificazioni e regolamentazioni alternative.
+
+#### Art. 10
+
+**Composizione**
+
+<sup>1</sup>
+
+Il Forum PMI si compone di:
+
+- a. un membro della direzione della SECO;
+- b. almeno sette imprenditori attivi in settori diversi dell’economia;
+- c. un rappresentante della Conferenza dei direttori cantonali dell’economia pubblica;
+- d. un rappresentante dei centri di creazione di imprese.
+
+<sup>2</sup> Il Consiglio federale nomina i membri e la presidenza del Forum PMI.[^10-1]
+
+[^10-1]: Nuovo testo giusta il n. I 6.1 dell’O del 9 nov. 2011 (Verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+
+#### Art. 11
+
+**Sedute e copresidenza**
+
+<sup>1</sup> Il Forum PMI si riunisce di regola sei volte l’anno.
+
+<sup>2</sup> È presieduto congiuntamente da un membro della cerchia degli imprenditori e dal membro della direzione della SECO.
+
+<sup>3</sup> A seconda dei temi trattati possono essere chiamati a partecipare alle sedute del Forum PMI anche rappresentanti di altre unità amministrative e di organizzazioni economiche.
+
+#### Art. 12
+
+**Compiti della SECO**
+
+<sup>1</sup> La SECO funge da segreteria del Forum PMI.
+
+<sup>2</sup> La SECO svolge i test di compatibilità PMI e le analisi concernenti le regolamentazioni che il Forum PMI è incaricato di esaminare. Di regola coordina i test di compatibilità PMI con le analisi dell’impatto della regolamentazione.
+
+#### Art. 13
+
+**Informazione delle commissioni parlamentari**
+
+<sup>1</sup> Il Forum PMI trasmette una copia dei suoi pareri alle commissioni parlamentari interessate.
+
+<sup>2</sup> I membri del Forum PMI sono a disposizione delle commissioni parlamentari per presentare i risultati dei loro lavori.
+
+## Sezione 4: Valutazione e rapporto
+
+#### Art. 14
+
+<sup>1</sup> L’OCPMI e il Forum PMI valutano periodicamente le loro attività.
+
+<sup>2</sup> Una volta per legislatura presentano un rapporto al Consiglio federale e al Parlamento.
+
+## Sezione 5: Modifica del diritto vigente
+
+#### Art. 15
+
+…[^15-1]
+
+[^15-1]: La mod. può essere consultata alla [RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18).
+
+## Sezione 6: Entrata in vigore
+
+#### Art. 16
+
+La presente ordinanza entra in vigore il 1° febbraio 2007.

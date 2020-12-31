@@ -1,0 +1,50 @@
+---
+sr: "0.741.531.971.4"
+title: Échange de lettres du 30 avril 1958 entre la Suisse et la Suède sur la reconnaissance réciproque des permis de circulation et de conduire dans le trafic automobile
+eli: "https://fedlex.data.admin.ch/eli/cc/1972/771_779_703"
+language: fr
+version: 1958-06-01
+adopted: 1958-04-30
+in_force: 1958-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/771_779_703/19580601/fr/xml/fedlex-data-admin-ch-eli-cc-1972-771_779_703-19580601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/771_779_703/19580601/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Echange de lettres du 30 avril 1958 entre la Suisse et la Suède sur la reconnaissance réciproque des permis de circulation et de conduire dans le trafic automobile
+
+RO **1972** 779
+
+Entré en vigueur le 1<sup>er</sup> juin 1958
+
+Texte original
+
+<table>
+<tr><td>Département politique fédéral</td><td>Berne, le 30 avril 1958</td></tr>
+<tr><td></td><td>Son Excellence</td></tr>
+<tr><td></td><td>Monsieur Torsten Hammarström</td></tr>
+<tr><td></td><td>Ambassadeur de Suède</td></tr>
+<tr><td></td><td>Berne</td></tr>
+</table>
+
+Monsieur l’Ambassadeur,
+
+J’ai l’honneur d’accuser réception de votre lettre de ce jour ainsi conçue:
+
+- «J’ai l’honneur de porter à la connaissance de Votre Excellence que mon Gouvernement, à l’effet de favoriser le développement de la circulation routière internationale, est désireux de conclure avec le Conseil fédéral suisse un accord dont la teneur est la suivante:
+- Le permis international de conduire n’est pas exigé, pour les véhicules automobiles immatriculés en Suisse ou en Suède et qui circulent temporairement sur le territoire de l’autre pays, si le conducteur présente un permis national délivré en Suisse ou en Suède. Ce permis donne seulement le droit de conduire les véhicules automobiles des catégories pour lesquelles il est valable d’après la législation nationale.
+- Les conducteurs qui possèdent un permis national de conduire délivré dans l’un des deux pays sont aussi autorisés à conduire temporairement sur le territoire de l’autre pays les véhicules immatriculés dans un pays tiers, ainsi que les véhicules immatriculés dans l’autre pays, mais dans ce dernier cas seulement lorsqu’il s’agit du transport non rémunéré de personnes.
+- La reconnaissance des permis nationaux peut être refusée dans les mêmes conditions que celles prévues pour les permis internationaux de conduire.
+- Il est entendu que les véhicules automobiles immatriculés en Suisse ou en Suède peuvent circuler temporairement sur le territoire de l’autre pays si leurs conducteurs sont en possession du permis national de circulation ou d’un certificat national d’immatriculation.
+- Le présent arrangement entrera en vigueur le 1<sup>er</sup> juin 1958 et pourra être dénoncé à tout moment par l’un des deux Gouvernements sous réserve d’un préavis de trois mois.»
+
+J’ai l’honneur de vous confirmer l’accord du Conseil fédéral sur ce qui précède.
+
+La présente lettre, ainsi que celle de Votre Excellence, constituent l’accord intervenu entre nos deux Gouvernements en cette matière.
+
+Veuillez agréer, Monsieur l’Ambassadeur, l’assurance de ma haute considération.
+
+<table>
+<tr><td></td><td>Max Petitpierre</td></tr>
+</table>

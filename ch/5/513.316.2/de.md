@@ -1,0 +1,132 @@
+---
+sr: "513.316.2"
+title: Verordnung des VBS vom 21. November 2018 über die militärische Portofreiheit
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/775"
+language: de
+version: 2019-01-01
+adopted: 2018-11-21
+in_force: 2019-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/775/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-775-20190101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/775/20190101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des VBS über die militärische Portofreiheit
+
+vom 21. November 2018 (Stand am 1. Januar 2019)
+
+Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
+
+gestützt auf Artikel 3 der Verordnung vom 21. November 2018[^ingress-1] über die Feldpost,
+
+verordnet:
+
+[^ingress-1]: [SR 513.316](https://fedlex.data.admin.ch/eli/cc/2018/729)
+
+#### Art. 1
+
+**Zweck**
+
+Diese Verordnung regelt die Art und den Umfang der Leistungen sowie die Anspruchsberechtigung betreffend die militärische Portofreiheit.
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup> Die Portofreiheit ist auf das Gebiet der Schweiz beschränkt.
+
+<sup>2</sup> Die Portofreiheit für Einsätze im Ausland wird im Einzelfall speziell geregelt.
+
+#### Art. 3
+
+**Militärdienstliche Sendungen**
+
+Als militärdienstlich gelten Sendungen:
+
+- a. die von eingeteilten Angehörigen der Armee im oder ausser Dienst im ausschliesslichen Interesse des Dienstes an Kommandostellen sowie an Stellen der Militärverwaltungen gerichtet sind;
+- b. die von den Kommandostellen der Armee in ausschliesslich dienstlichen Angelegenheiten versandt werden.
+
+#### Art. 4
+
+**Persönliche Sendungen**
+
+<sup>1</sup> Als persönlich gelten Sendungen, die persönliche Angelegenheiten der Angehörigen der Armee betreffen und durch die Abwesenheit infolge des Militärdienstes hervorgerufen werden.
+
+<sup>2</sup> Einzelne berufliche Sendungen gelten ebenfalls als persönliche Sendungen.
+
+#### Art. 5
+
+**Anspruchsberechtigte Personen**
+
+Anspruch auf portofreie Sendungen und Leistungen haben folgende Personen und Stellen:
+
+- a. im Dienst stehende und nicht im Dienst stehende Angehörige der Armee;
+- b.
+
+  die Kommandostellen der Armee:
+
+  - 1\. das Kommando der Stäbe und der Einheiten der Armee,
+  - 2\. das Kommando der militärischen Schulen und Kurse;
+
+- c. Angehörige des Rotkreuzdienstes.
+
+#### Art. 6
+
+**Art der Sendungen und Leistungen**
+
+<sup>1</sup>
+
+Die folgenden Sendungen und Leistungen fallen unter die Portofreiheit:
+
+- a. für im Dienst stehende Angehörige der Armee: uneingeschriebene ein- und abgehende persönliche und militärdienstliche Briefpostsendungen und Pakete;
+- b. für nicht im Dienst stehende Angehörige der Armee: uneingeschriebene abgehende militärdienstliche Briefpostsendungen und Pakete;
+- c.
+
+  für Kommandostellen der Armee:
+
+  - 1\. abgehende militärdienstliche Briefpostsendungen einschliesslich Briefe mit Zustellnachweis,
+  - 2\. abgehende militärdienstliche Pakete einschliesslich Zusatzleistungen,
+  - 3\. der Taxnachbezug für ankommende sowie nach- oder zurückgesandte militärdienstliche Sendungen.
+
+<sup>2</sup> Die Angehörigen des Rotkreuzdienstes sind bezüglich der Portofreiheit für Sendungen und Leistungen den Angehörigen der Armee gleichgestellt.
+
+#### Art. 7
+
+**Verbot der Abtretung der Portofreiheit**
+
+Die Kommandostellen der Armee und die Angehörigen der Armee dürfen Unberechtigten nicht die Möglichkeit verschaffen, Sendungen portofrei aufzugeben.
+
+#### Art. 8
+
+**Taxnachbezug**
+
+<sup>1</sup> Bei Nichteinhaltung der Form- und der anderen Vorschriften über die militärische Portofreiheit unterliegen die Sendungen den ordentlichen Taxen und es wird ein Taxnachbezug eingefordert.
+
+<sup>2</sup> Die ungerechtfertigte Inanspruchnahme der militärischen Portofreiheit ist der Leitung der Feldpost zum Taxnachbezug zu melden.
+
+#### Art. 9
+
+**Angehörige der Armee ausserhalb der Truppenverbände**
+
+Angehörige der Armee, die ausserhalb der Truppenverbände Militärdienst leisten, müssen persönliche Sendungen unter Vorlage des Marschbefehls am Postschalter abgeben.
+
+#### Art. 10
+
+**Vollzug**
+
+Die Chefin oder der Chef Feldpost der Armee legt im Einvernehmen mit der Logistikbasis der Armee in einer Weisung die Formvorschriften fest und präzisiert den Leistungsumfang, insbesondere die Gewichtslimiten, der militärischen Portofreiheit.
+
+#### Art. 11
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 26. November 1999[^11-1] über die militärische Portofreiheit wird aufgehoben.
+
+[^11-1]: [[AS 2000 94](https://fedlex.data.admin.ch/eli/oc/2000/23)]
+
+#### Art. 12
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2019 in Kraft.

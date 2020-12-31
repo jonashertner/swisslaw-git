@@ -1,0 +1,95 @@
+---
+sr: "946.201.1"
+title: "Ordinanza dell' 11 settembre 2002 concernente la sorveglianza dell'importazione di determinati beni industriali"
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/477"
+language: it
+version: 2013-01-01
+adopted: 2002-09-11
+in_force: 2002-09-12
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/477/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2002-477-20130101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/477/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la sorveglianza dell’importazione di determinati beni industriali
+
+dell’11 settembre 2002 (Stato 1° gennaio 2013)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 1 della legge del 25 giugno 1982[^ingress-1] sulle misure economiche esterne,
+
+ordina:
+
+[^ingress-1]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+
+#### Art. 1
+
+**Scopo e campo d’applicazione**
+
+L’importazione di determinati beni industriali menzionati nei capitoli 72 e 73 della Tariffa doganale svizzera[^1-1] è soggetta all’obbligo di autorizzazione al fine di sorvegliare l’evoluzione dei flussi commerciali.
+
+[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),All.
+
+#### Art. 2
+
+**Obbligo di autorizzazione**
+
+<sup>1</sup> L’ufficio doganale può sdoganare merci soggette all’obbligo di autorizzazione soltanto se sono accompagnate da un’autorizzazione di importazione e se sono rispettati i limiti di tolleranza di cui all’articolo 5.
+
+<sup>2</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^2-1] determina le merci la cui importazione è soggetta all’obbligo di autorizzazione.
+
+<sup>3</sup> Esso può esentare i piccoli invii dall’obbligo di autorizzazione.
+
+[^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 3
+
+**Procedura di autorizzazione**
+
+<sup>1</sup> Le autorizzazioni di importazione sono rilasciate su richiesta a persone e a imprese rispettivamente con domicilio o sede nel territorio doganale svizzero.
+
+<sup>2</sup> Le autorizzazioni sono rilasciate dal Segretariato di Stato dell’economia (Seco).
+
+<sup>3</sup> Esso rilascia l’autorizzazione per le quantità richieste entro i sette giorni feriali che seguono il deposito della domanda debitamente compilata. L’autorizzazione è gratuita.
+
+<sup>4</sup> L’autorizzazione è valida quattro mesi.
+
+#### Art. 4
+
+**Domanda di importazione**
+
+<sup>1</sup>
+
+Le domande di importazioni devono contenere le seguenti indicazioni:
+
+- a. nome e indirizzo completo del destinatario o del suo rappresentante autorizzato;
+- b. nome e indirizzo completo dell’esportatore;
+- c. Paese di origine della merce;
+- d. Paese di provenienza;
+- e. numero o quantità;
+- f. designazione esatta della merce e voce della tariffa doganale svizzera;
+- g. peso netto;
+- h. valore franco confine della merce non sdoganata;
+- i. data e firma del destinatario della merce o del suo rappresentante autorizzato.
+
+<sup>2</sup> Il DEFR può esigere che i documenti giustificativi quali fatture o conferme dell’ordinazione siano allegati alla domanda di importazione.
+
+#### Art. 5
+
+**Limiti di tolleranza**
+
+Si procede allo sdoganamento anche se il prezzo unitario effettivo della transazione eccede in misura minore del 5 per cento il prezzo indicato nella domanda di importazione o se la quantità totale della merce da importare eccede in misura minore del 5 per cento la quantità indicata nella domanda di importazione.
+
+#### Art. 6
+
+**Esecuzione**
+
+L’Amministrazione federale delle dogane è incaricata dell’esecuzione alla frontiera.
+
+#### Art. 7
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 12 settembre 2002.

@@ -1,0 +1,1251 @@
+---
+sr: "721.80"
+title: "Loi fédérale du 22 décembre 1916 sur l'utilisation des forces hydrauliques (Loi sur les forces hydrauliques, LFH)"
+short: LFH
+eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
+language: fr
+version: 2021-01-01
+adopted: 1916-12-22
+in_force: 1918-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur l’utilisation des forces hydrauliques
+
+(Loi sur les forces hydrauliques**[^t-1]**, LFH**[^t-2]**)
+
+du 22 décembre 1916 (Etat le 1<sup>er</sup> janvier 2021)
+
+[^t-1]: Introduit par le ch. I 1 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267)[1045](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)).
+[^t-2]: Introduite par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu les art. 76 et 81 de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 19 avril 1912[^ingress-3],
+
+décrète:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^ingress-3]: [FF 1912 II 815](https://fedlex.data.admin.ch/eli/fga/1912/2_669_815_), [1916 III 459](https://fedlex.data.admin.ch/eli/fga/1916/3__459_)
+
+## Chapitre I Du droit de disposition
+
+### A. Haute surveillance de la Confédération
+
+#### Art. 1
+
+<sup>1</sup> La Confédération exerce la haute surveillance sur l’utilisation des forces hydrauliques des cours d’eau publics ou privés.
+
+<sup>2</sup> Sont réputés cours d’eau publics, au sens de la présente loi, les lacs, rivières, ruisseaux et canaux sur lesquels un droit de propriété privée n’est pas établi et ceux qui, tout en étant propriété privée, sont assimilés par les cantons aux cours d’eau publics, en ce qui concerne l’utilisation de la force.
+
+### B. Disposition en vertu du droit public
+
+### I. Droits des cantons
+
+### 1. Communauté investie du droit de disposition
+
+#### Art. 2
+
+<sup>1</sup> La législation cantonale détermine la communauté (canton, district, commune ou corporation) à laquelle appartient le droit de disposer de la force des cours d’eau publics.
+
+<sup>2</sup> Les dispositions de droit cantonal autorisant les riverains à utiliser la force des cours d’eau publics demeurent en vigueur, jusqu’à leur abrogation par les cantons.
+
+### 2. Contenu du droit de disposition
+
+### a. En général
+
+#### Art. 3
+
+<sup>1</sup> La communauté qui dispose de la force d’un cours d’eau peut l’utiliser elle-même ou en concéder l’utilisation à des tiers.
+
+<sup>2</sup> Le droit d’utilisation peut être accordé à une communauté sous une autre forme que celle de la concession.
+
+### b. Approbation de l’autorité cantonale
+
+#### Art. 4
+
+<sup>1</sup> Les districts, communes ou corporations qui disposent de la force ne peuvent l’utiliser ou la céder à des tiers sans l’approbation de l’autorité cantonale.
+
+<sup>2</sup> L’approbation est refusée si le projet d’utilisation est contraire à l’intérêt public ou à l’utilisation rationnelle du cours d’eau.
+
+### II. Droits de la Confédération
+
+### 1. En général
+
+#### Art. 5
+
+<sup>1</sup> Le Conseil fédéral édicte les dispositions générales propres à assurer et à développer l’utilisation rationnelle des forces hydrauliques.
+
+<sup>2</sup> Il peut en outre édicter des prescriptions particulières à un cours d’eau ou à une section de cours d’eau déterminée.
+
+<sup>3</sup> L’Office fédéral de l’énergie[^5-1] (office) a le droit d’examiner si les projets d’usines assurent, dans leur plan d’ensemble, l’utilisation rationnelle des forces hydrauliques.[^5-2]
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^5-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 2. Cours d’eau situés sur le territoire de plusieurs cantons
+
+#### Art. 6
+
+<sup>1</sup> S’il s’agit de mettre en valeur une section de cours d’eau située sur le territoire de plusieurs cantons ou, dans une seule et même usine, plusieurs sections situées dans des cantons différents et que les cantons ne puissent s’entendre, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^6-1] (département) statue, après avoir entendu les cantons.[^6-2]
+
+<sup>2</sup> Il tient équitablement compte de la législation des cantons, ainsi que des avantages et des inconvénients qui résultent de l’entreprise pour chacun d’eux.
+
+<sup>3</sup> Si la modification du cours d’eau ou l’occupation des terrains restreint dans une mesure excessive l’établissement de la population d’un canton ou ses moyens d’existence, le département ne doit pas accorder la concession sans le consentement du canton.[^6-3]
+
+[^6-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
+[^6-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^6-3]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 3. Cours d’eau internationaux
+
+#### Art. 7
+
+[^7-1]
+
+<sup>1</sup>
+
+En cas d’utilisation de la force hydraulique de sections de cours d’eau touchant à la frontière nationale, le département est compétent pour:
+
+- a. accorder les droits d’utilisation;
+- b. autoriser la communauté qui dispose de la force d’un tel cours d’eau à l’utiliser elle-même;
+- c. lors de l’octroi du droit d’utilisation, fixer, conformément au droit cantonal, les prestations à fournir et les conditions à remplir;
+- d. statuer sur l’approbation des plans nécessaires à la construction ou à la modification des installations et accorder ainsi les autorisations requises par le droit fédéral;
+- e. ordonner des mesures d’assainissement et des mesures relatives à l’exploitation; le département peut habiliter le canton à ordonner les mesures nécessaires.
+
+<sup>2</sup> Le Conseil fédéral peut conclure des conventions internationales relatives aux objets mentionnés à l’al. 1.
+
+<sup>3</sup> Les autorités compétentes statuent en associant à leur décision les communautés qui disposent de la force de cours d’eau et les cantons.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+
+### 3<sup>bis</sup>. Exploitation de bassins de retenue
+
+#### Art. 7a
+
+[^7a-1]
+
+<sup>1</sup> Pour remplir les obligations de droit international de la Confédération, le département peut, après avoir consulté les cantons et les intéressés, prendre des dispositions en ce qui concerne l’exploitation de bassins de retenue.
+
+<sup>2</sup> Si ces mesures portent atteinte aux droits acquis, l’indemnité prévue à l’art. 43, al. 2, est à la charge de la collectivité publique titulaire du droit de disposer.
+
+[^7a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 4. Exportation d’eau ou d’énergie
+
+#### Art. 8
+
+<sup>1</sup> L’eau ou l’énergie produite par la force hydraulique ne peuvent être dérivées à l’étranger sans l’autorisation du département.[^8-1]
+
+<sup>2</sup> L’autorisation est refusée si l’exportation est contraire à l’intérêt public et s’il est à prévoir que l’eau ou l’énergie trouveront une utilisation convenable en Suisse dans le temps pour lequel l’autorisation est demandée.
+
+<sup>3</sup> L’autorisation est accordée pour une durée déterminée et aux conditions que fixe le département; elle peut être révoquée en tout temps, moyennant indemnité, pour raison d’intérêt public. Si l’indemnité n’est pas fixée par l’acte d’autorisation, elle est déterminée en équité.[^8-2]
+
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^8-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 5. Dérivation d’un canton dans un autre
+
+#### Art. 9
+
+<sup>1</sup> La dérivation d’énergie électrique d’un canton dans un autre ne peut être restreinte que dans la mesure où l’intérêt public du canton exportateur le justifie.
+
+<sup>2</sup> Le département statue en cas de contestation.[^9-1]
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 6. Contrats limitant les zones de distribution
+
+#### Art. 10
+
+<sup>1</sup> Les usiniers qui vendent de l’énergie électrique sont tenus de soumettre au département, à sa demande, les conventions par lesquelles ils s’interdisent la vente d’énergie dans une zone déterminée. Le département peut en ordonner la modification si elles sont contraires à l’intérêt public.[^10-1]
+
+<sup>2</sup> Les dispositions du présent article s’appliquent par analogie aux intermédiaires.
+
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 7. Cours d’eau non utilisés
+
+#### Art. 11
+
+<sup>1</sup> Si, malgré des offres d’utilisation équitables, et sans de justes motifs, le district, la commune ou la corporation refusent, pendant un temps prolongé, d’utiliser eux-mêmes ou de laisser utiliser la force d’un cours d’eau public dont ils disposent, le gouvernement cantonal peut, au nom de l’ayant droit, accorder l’utilisation.
+
+<sup>2</sup> Les parties peuvent recourir dans les trente jours au département.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 8. Forces hydrauliques nécessaires à la Confédération
+
+### a. Droit de la Confédération
+
+#### Art. 12
+
+<sup>1</sup> La Confédération peut requérir la force d’un cours d’eau public pour ses entreprises de transport et de communications.[^12-1]
+
+<sup>1bis</sup> Elle tient compte des besoins et des possibilités de développement des cantons d’où proviennent les eaux, en particulier de leurs intérêts à l’utilisation de la force hydraulique.[^12-2]
+
+<sup>2</sup> Si une section de cours d’eau est déjà utilisée, la Confédération peut acquérir le droit d’utilisation et les installations, soit en expropriant l’usinier, soit en faisant usage du droit de rachat ou de retour.
+
+<sup>3</sup> Si elle n’a pas l’emploi immédiat de la force, elle peut en céder temporairement l’usage à des tiers.
+
+[^12-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 1839](https://fedlex.data.admin.ch/eli/oc/1985/1839_1839_1839); [FF 1984 III 1445](https://fedlex.data.admin.ch/eli/fga/1984/3_1441_1445_1401)).
+[^12-2]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### b. Indemnité à la communauté
+
+#### Art. 13
+
+<sup>1</sup> Si la Confédération requiert d’une communauté une force inutilisée, elle doit la dédommager de la perte de la taxe de concession et de la redevance annuelle.
+
+<sup>2</sup> Si la section est déjà utilisée, la Confédération doit dédommager la communauté de la perte subie, notamment de la perte de la redevance annuelle, et, si les circonstances le justifient, de la perte du droit de rachat ou de retour.
+
+<sup>3</sup> Si le canton percevait, au moment de la cession, l’impôt spécial prévu à l’art. 49, al. 3, il doit également être dédommagé de cette perte.
+
+<sup>4</sup> ...[^13-1]
+
+[^13-1]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+
+### c. Compensation pour perte d’impôts
+
+#### Art. 14
+
+<sup>1</sup> À titre de compensation pour la perte d’impôts cantonaux, communaux et autres, la Confédération paye aux cantons sur le territoire desquels elle requiert des forces hydrauliques une indemnité de 11 francs par an et par kilowatt théorique installé.[^14-1]
+
+<sup>1bis</sup> L’al. 1 est aussi applicable lorsque la Confédération utilise les forces hydrauliques en vertu d’une concession ou d’un autre titre juridique.[^14-2]
+
+<sup>1ter</sup> L’indemnité pour la perte d’impôts ne doit pas dépasser le montant des impôts qui devraient être payés dans le cas d’une utilisation des forces hydrauliques par une société anonyme exploitant une usine de partenaires.[^14-3]
+
+<sup>2</sup> Si les sections de cours d’eau utilisées sont situées sur le territoire de plusieurs cantons, la part de chacun est fixée dans la proportion où il contribue à créer la force.
+
+<sup>3</sup> Il appartient au canton de verser tout ou partie de l’indemnité aux communes, districts ou autres communautés subissant une perte d’impôts.
+
+<sup>4</sup> ...[^14-4]
+
+[^14-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^14-2]: Introduit par le ch. I de la LF du 21 déc. 1967, en vigueur depuis le 1<sup>er</sup> juil. 1968 ([RO 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 1037](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
+[^14-3]: Introduit par le ch. I de la LF du 21 déc. 1967, en vigueur depuis le 1<sup>er</sup> juil. 1968 ([RO 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 1037](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
+[^14-4]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+
+### 9. Régularisation des cours d’eau
+
+### a. Exécution des travaux
+
+#### Art. 15
+
+<sup>1</sup> Dans l’intérêt d’une meilleure utilisation des forces hydrauliques et dans celui de la navigation, la Confédération peut, après avoir entendu les cantons intéressés, décréter la régularisation du niveau et de l’écoulement des lacs, ainsi que la création de bassins d’accumulation. Si l’occupation des terrains restreint dans une mesure excessive l’établissement de la population ou ses moyens d’existence, l’assentiment du canton est nécessaire.
+
+<sup>2</sup> L’Assemblée fédérale statue sur l’exécution de l’ouvrage et sur la répartition des frais entre la Confédération et les cantons.
+
+<sup>3</sup> Si plusieurs cantons sont intéressés, les frais sont répartis proportionnellement à leur intérêt.
+
+<sup>4</sup> Les communes, corporations et particuliers intéressés peuvent être appelés par l’autorité cantonale à participer aux frais de l’ouvrage, en proportion des avantages qu’ils en retirent. ...[^15-1]
+
+[^15-1]: Phrase abrogée par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+
+### b. Règlement de barrage
+
+#### Art. 16
+
+La Confédération a le droit de régler le débit des lacs et des bassins d’accumulation créés avec sa participation.
+
+### C. Disposition en vertu d’un droit privé
+
+### I. Généralités
+
+#### Art. 17
+
+<sup>1</sup> L’utilisation des cours d’eau privés, ou l’utilisation des cours d’eau publics en vertu d’un droit privé des riverains (art. 2, al. 2) est subordonnée à l’autorisation du canton.
+
+<sup>2</sup> L’autorité cantonale veille à ce que les prescriptions fédérales et cantonales sur la police des eaux soient observées et à ce que les droits d’utilisation existants ne soient pas lésés.
+
+<sup>3</sup> Les art. 5, 7*a*, 8 et 11 et le chap. II sont applicables par analogie.[^17-1]
+
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. Imposition des usines
+
+#### Art. 18
+
+Si le canton perçoit un impôt spécial sur l’énergie produite par des usines établies en vertu d’un droit privé, cet impôt ne doit pas grever les usines plus fortement que la redevance prévue à l’art. 49 ne grève les usines concédées.
+
+### III. Expropriation de l’ayant droit
+
+#### Art. 19
+
+[^19-1]
+
+<sup>1</sup> Si une entreprise d’intérêt public a besoin d’une force qui appartient aux riverains en vertu d’un droit privé (art. 17) et qu’elle n’obtienne pas du canton l’expropriation de la force ainsi que des terrains et des droits réels nécessaires, le département peut la lui accorder. L’expropriation est régie dans ce cas par le droit fédéral.
+
+<sup>2</sup> Lorsque la Confédération exproprie elle-même, le droit fédéral et l’art. 12, al. 1<sup>bis</sup>, sont toujours applicables.
+
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### IV. Compensation pour perte d’impôts
+
+#### Art. 20
+
+<sup>1</sup> Lorsque la Confédération acquiert la force d’un cours d’eau public dont l’utilisation appartient aux riverains en vertu d’un droit privé (art. 2, al. 2), elle dédommage le canton de la perte de l’impôt spécial sur l’énergie électrique auquel il avait droit en vertu de sa législation (art. 18).
+
+<sup>2</sup> La Confédération doit verser en outre au canton, à titre de compensation pour la perte d’impôts cantonaux, communaux et autres, une indemnité de 11 francs par an et par kilowatt théorique installé; l’art. 14 est applicable par analogie.[^20-1]
+
+[^20-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+## Chapitre II De l’utilisation des cours d’eau
+
+### A. Droit de surveillance des autorités
+
+### I. Police des eaux
+
+#### Art. 21
+
+<sup>1</sup> Les usines hydrauliques doivent être établies conformément aux prescriptions fédérales et cantonales sur la police des eaux.
+
+<sup>2</sup> Avant le commencement des travaux, les plans des usines sont soumis à une enquête publique avec délai d’opposition convenable.
+
+<sup>3</sup> Sur les cours d’eau corrigés à l’aide de subventions fédérales, l’établissement des usines est subordonné à l’autorisation du département.[^21-1]
+
+[^21-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. Protection des sites
+
+#### Art. 22
+
+<sup>1</sup> La beauté des sites doit être ménagée. Elle doit être conservée intacte si un intérêt public majeur l’exige.
+
+<sup>2</sup> Les usines ne doivent pas déparer ou doivent déparer le moins possible le paysage.
+
+<sup>3</sup> La Confédération alloue aux collectivités concernées des montants compensatoires en vue de combler le manque à gagner résultant d’une restriction considérable de l’utilisation de forces hydrauliques en tant que celui-ci est imputable à la sauvegarde et à la protection de sites d’importance nationale dignes d’être protégés.[^22-1]
+
+<sup>4</sup> ...[^22-2]
+
+<sup>5</sup> Le Conseil fédéral fixe les modalités de l’indemnisation.[^22-3]
+
+[^22-1]: Introduit par l’art. 75 ch. 6 de la LF du 24 janv. 1991 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> nov. 1992 ([RO 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 1081](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
+[^22-2]: Introduit par l’art. 75 ch. 6 de la LF du 24 janv. 1991 sur la protection des eaux ([RO 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 1081](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)). Abrogé par le ch. II 15 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^22-3]: Introduit par l’art. 75 ch. 6 de la LF du 24 janv. 1991 sur la protection des eaux, en vigueur depuis le 1<sup>er</sup> nov. 1992 ([RO 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860); [FF 1987 II 1081](https://fedlex.data.admin.ch/eli/fga/1987/2_1061_1081_905)).
+
+### III. Pêche
+
+#### Art. 23
+
+Les usiniers sont tenus d’établir les installations nécessaires pour la protection du poisson, de les améliorer, si le besoin s’en fait sentir, et de prendre toutes autres mesures à cet effet.
+
+### IV. Protection de la navigation
+
+### 1. Sections de cours d’eau navigables
+
+#### Art. 24
+
+[^24-1]
+
+<sup>1</sup> Est navigable, au sens de la présente loi, le Rhin en aval de Rheinfelden, y compris les principaux sites portuaires de Birsfelden, Birsfelden-Au, Bâle-St. Johann et Bâle-Kleinhüningen.
+
+<sup>2</sup>
+
+La possibilité d’aménager les sections de cours d’eau suivantes pour la navigation, y compris les principaux sites portuaires, est réservée:
+
+- a. pour le Rhin, de son confluent avec l’Aar jusqu’à Rheinfelden;
+- b. pour le Rhône, du lac Léman jusqu’à la frontière nationale.
+
+<sup>3</sup> Pour le reste, les cantons déterminent, conformément à la législation sur la navigation intérieure, dans quelle mesure les eaux sont ouvertes à la navigation et quelles installations ils affectent ou autorisent à cette fin.
+
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 2. Planification en vue de la protection du tracé des voies navigables
+
+#### Art. 25
+
+[^25-1]
+
+Dans la perspective d’aménager, pour la navigation, les cours d’eau cités à l’art. 24, al. 2, la Confédération établit un plan sectoriel selon la loi fédérale du 22 juin 1979 sur l’aménagement du territoire[^25-2]. Les plans directeurs cantonaux en tiennent compte conformément à la loi susmentionnée.
+
+[^25-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^25-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+### 3. Aménagements pour la navigation aux abords des usines hydrauliques
+
+#### Art. 26
+
+[^26-1]
+
+<sup>1</sup> Les usines hydrauliques situées sur les cours d’eau mentionnés à l’art. 24, al. 1 et 2, doivent être conçues de manière à préserver la navigation actuelle et à permettre son extension, ou bien à permettre l’aménagement ultérieur de ces cours d’eau pour la navigation. En particulier, elles doivent réserver l’espace nécessaire à la construction d’installations pour la navigation à grand gabarit.
+
+<sup>2</sup> Le titulaire de droits d’utilisation de la force hydraulique a l’obligation de fournir la quantité d’eau nécessaire à l’exploitation des écluses. Si cette obligation restreint l’utilisation au-delà de ce qui est fixé dans la concession, la restriction doit être compensée par une indemnité. Si les parties ne parviennent pas à s’entendre, la concession doit être limitée par une expropriation proportionnelle à l’obligation du titulaire.
+
+[^26-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 4. Décision d’aménager les voies navigables
+
+#### Art. 27
+
+[^27-1]
+
+<sup>1</sup> L’aménagement des sections de cours d’eau mentionnées à l’art. 24, al. 2, pour la navigation doit faire l’objet d’un arrêté fédéral sujet au référendum facultatif.
+
+<sup>2</sup> Aucun traité international en la matière ne peut être approuvé avant l’entrée en vigueur de l’arrêté fédéral.
+
+[^27-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### V. Flottage
+
+#### Art. 28
+
+<sup>1</sup> Celui qui construit une usine est tenu d’établir et de desservir les installations nécessaires au flottage, si les frais qui en résultent sont proportionnés à l’importance du flottage.
+
+<sup>2</sup> Le propriétaire d’une usine existante ne peut être astreint à construire des installations servant au flottage et à les desservir que moyennant une indemnité équitable. ...[^28-1]
+
+[^28-1]: Phrase abrogée par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+
+### VI. Hydrométrie
+
+### 1. Collecte des données de base
+
+#### Art. 29
+
+[^29-1]
+
+<sup>1</sup> La Confédération et les cantons ont le droit d’effectuer des relevés hydrométriques dans les cours d’eau privés et publics et d’exécuter les travaux nécessaires à cet effet, en particulier d’installer des stations de mesures. Si besoin est, ils peuvent acquérir les droits et les biens-fonds nécessaires par la voie de l’expropriation. Les cantons peuvent exproprier selon le droit fédéral.
+
+<sup>2</sup> Les propriétaires d’aménagements hydro-électriques et d’installations servant à régulariser le niveau et l’écoulement des lacs peuvent être tenus de mesurer les niveaux et les débits dans le périmètre de l’installation. Ils effectuent ces relevés conformément aux directives de la Confédération et lui communiquent les résultats.
+
+<sup>3</sup> La Confédération peut effectuer les relevés prévus à l’al. 2 en accord avec le détenteur de l’installation. S’ils sont nécessaires du fait de l’installation, son détenteur en supporte les coûts; à défaut, les frais sont supportés par la collectivité publique qui les a ordonnés.
+
+<sup>4</sup> Les relevés prévus par la loi fédérale du 24 janvier 1991[^29-2] sur la protection des eaux demeurent réservés.
+
+[^29-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^29-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+
+### 2. Statistiques et recherches
+
+#### Art. 29a
+
+[^29a-1]
+
+<sup>1</sup> La Confédération établit, en collaboration avec les cantons, les statistiques nécessaires à l’exécution de la présente loi. Elle élabore en particulier des tableaux sur l’ensemble des aménagements hydro-électriques existants ainsi que sur l’ensemble des prélèvements et restitutions d’eau.
+
+<sup>2</sup>
+
+Elle effectue des recherches:
+
+- a. pour accomplir ses tâches dans le domaine de l’utilisation des cours d’eau;
+- b. pour encourager l’utilisation rationnelle de la force hydraulique;
+- c. pour encourager la modernisation des installations existantes.
+
+<sup>3</sup> Elle rend les résultats accessibles au public sous une forme appropriée.
+
+[^29a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### VII. Droit d’accès des autorités
+
+#### Art. 30
+
+Les usiniers et les riverains sont tenus d’accorder le libre accès de leurs installations aux fonctionnaires cantonaux et fédéraux qui assurent la police des eaux, de la pêche et de la navigation, ainsi que le service hydrométrique.
+
+### VIII. Registre des droits d’eau
+
+#### Art. 31
+
+<sup>1</sup> Les cantons tiennent un registre des droits d’eau et des installations qui intéressent l’utilisation des forces hydrauliques.
+
+<sup>2</sup> Le département édicte les dispositions nécessaires à l’organisation et à la tenue de ce registre.[^31-1]
+
+[^31-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### B. Rapports des usagers entre eux
+
+### I. Obligations réciproques
+
+### a. En général
+
+#### Art. 32
+
+<sup>1</sup> Les usagers peuvent exiger que, dans la régularisation du niveau et du débit du cours d’eau, ainsi que dans l’exercice des droits d’utilisation, il soit tenu compte, autant que possible, des intérêts de chacun d’eux.
+
+<sup>2</sup> Les détails de l’utilisation des cours d’eau, spécialement la retenue des eaux et l’enlèvement des objets charriés, sont réglés par les cantons dans les limites des droits acquis; toutefois, si les installations intéressées empruntent le territoire de plusieurs cantons ou si les cours d’eau touchent à la frontière nationale, les prescriptions sont édictées par le département.[^32-1]
+
+<sup>3</sup> Si l’autorité n’arrive pas à concilier les intérêts des usagers sans toucher à des droits acquis, elle peut, sur demande, en restreindre l’exercice moyennant une indemnité à payer par les usagers qui sont avantagés de ce chef. La décision de l’autorité cantonale fixant l’indemnité peut être attaquée en dernière instance devant une autorité judiciaire, selon le droit cantonal.[^32-2]
+
+[^32-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^32-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### b. Contribution obligatoire
+
+#### Art. 33
+
+<sup>1</sup> Si des usiniers retirent un profit durable et important d’installations que des tiers ont établies à leurs frais, ils peuvent être astreints par ces tiers à contribuer aux frais de construction et d’entretien, à condition toutefois qu’ils profitent effectivement des avantages obtenus et que la contribution n’excède pas la valeur des bénéfices qu’ils réalisent. Elle peut consister en un capital ou en une redevance périodique.
+
+<sup>2</sup> Les contributions sont fixées par l’autorité cantonale ou, s’il s’agit d’usines intéressant plusieurs cantons, par le département.[^33-1]
+
+<sup>3</sup> L’autorité compétente peut, si les circonstances l’exigent, ordonner en tout temps la constitution d’une société de tous les intéressés.
+
+[^33-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. Formation de sociétés
+
+### 1. Volontaire
+
+### a. Fondation
+
+#### Art. 34
+
+Les usagers peuvent se constituer en société coopérative, pour établir en commun des installations destinées à produire ou à augmenter la force hydraulique.
+
+### b. Admission
+
+#### Art. 35
+
+<sup>1</sup> Tout usager qui justifie de son intérêt a le droit de faire partie de la société coopérative.
+
+<sup>2</sup> Les contestations relatives à l’admission d’un sociétaire, à sa participation aux charges, aux avantages et, le cas échéant, à la revision des statuts, relèvent de l’autorité cantonale ou, si les usines sont situées dans des cantons différents, du département.[^35-1]
+
+<sup>3</sup> Les autres contestations entre sociétaires sont du ressort des tribunaux ordinaires.
+
+[^35-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 2. Obligatoire
+
+### a. Conditions
+
+#### Art. 36
+
+<sup>1</sup> Si plusieurs usagers ont un avantage notable à former une société, l’autorité cantonale peut ordonner la constitution de la société. Ce droit appartient au département si les droits d’utilisation intéressent le territoire de plusieurs cantons et que ceux-ci ne puissent s’entendre.[^36-1]
+
+<sup>2</sup> Cette mesure ne sera prise qu’à la requête de la majorité des intéressés, représentant la majeure partie de la force, et à la condition que les installations communes n’imposent à aucun des participants des charges excédant ses ressources.
+
+<sup>3</sup> Si un droit d’utilisation est accordé après la constitution de la société, l’autorité peut obliger le titulaire à entrer dans la société en payant une contribution équitable.
+
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### b. Statuts
+
+#### Art. 37
+
+<sup>1</sup> Les statuts des sociétés obligatoires doivent être approuvés par l’autorité; ils sont édictés par l’autorité si les sociétaires ne peuvent s’entendre.
+
+<sup>2</sup> Ils doivent régler les conditions d’admission, l’organisation de la société, la participation de ses membres aux charges et aux avantages communs, la revision des statuts et la dissolution de la société.
+
+<sup>3</sup> Toute modification des statuts doit être approuvée par l’autorité.
+
+<sup>4</sup> Si les circonstances changent ou que des raisons d’équité l’exigent, l’autorité peut, après avoir entendu la société, reviser les statuts.
+
+<sup>5</sup> Les contestations concernant l’obligation d’entrer dans la société, la participation aux charges et aux avantages, la revision des statuts et la dissolution de la société sont tranchées par l’autorité administrative; les autres contestations sont du ressort des tribunaux ordinaires.
+
+## Chapitre III Des concessions de droits d’eau
+
+### A. Compétence
+
+#### Art. 38
+
+<sup>1</sup> Les concessions de droits d’eau sont accordées par l’autorité compétente du canton dans le territoire duquel se trouve la section de cours d’eau à utiliser.
+
+<sup>2</sup> Si une section de cours d’eau emprunte le territoire de plusieurs cantons, les droits d’eau sont octroyés par les cantons intéressés. Si ceux-ci ne peuvent s’entendre dans un délai raisonnable, le département octroie la concession. Il statue de même sur les contestations qui s’élèvent entre cantons relativement à l’étendue des droits que la concession leur réserve et à la façon de les exercer en commun.[^38-1]
+
+<sup>3</sup> Enfin, le département octroie les droits d’eau sur les sections touchant à la frontière nationale.[^38-2]
+
+[^38-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^38-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### B. Intérêt public
+
+#### Art. 39
+
+En statuant sur les demandes de concession, l’autorité tient compte de l’intérêt public, de l’utilisation rationnelle du cours d’eau et des intérêts existants.
+
+### C. Concessionnaire
+
+### I. En général
+
+#### Art. 40
+
+<sup>1</sup> La concession est accordée à une personne physique ou morale nominalement désignée ou à une communauté de personnes.
+
+<sup>2</sup> à <sup>4</sup> ...[^40-1]
+
+[^40-1]: Abrogés par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. En cas de compétition
+
+#### Art. 41
+
+En cas de compétition, la préférence est donnée à l’entreprise qui sert le mieux l’intérêt public, et, si les entreprises en compétition le servent dans la même mesure, à celle qui assure la meilleure utilisation du cours d’eau.
+
+### III. Transfert
+
+#### Art. 42
+
+<sup>1</sup> La concession ne peut être transférée sans l’agrément de l’autorité concédante.
+
+<sup>2</sup> L’agrément ne peut être refusé si l’acquéreur satisfait à toutes les exigences de la concession et si le transfert n’est pas contraire à l’intérêt public.
+
+<sup>3</sup> ...[^42-1]
+
+[^42-1]: Abrogé par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### D. Droit du concessionnaire
+
+### I. Nature
+
+#### Art. 43
+
+<sup>1</sup> Par le fait de la concession, le concessionnaire acquiert dans les limites de l’acte de concession le droit d’utiliser le cours d’eau.
+
+<sup>2</sup> Une fois concédé, le droit d’utilisation ne peut être retiré ou restreint sauf pour cause d’utilité publique et moyennant indemnité
+
+<sup>3</sup> ...[^43-1]
+
+[^43-1]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+
+### II. Restriction du fait de travaux publics
+
+#### Art. 44
+
+<sup>1</sup> Si l’utilisation de la force est entravée de façon permanente par des travaux publics modifiant le cours d’eau, le concessionnaire a droit à une indemnité à moins qu’il ne puisse, sans frais excessifs, adapter son usine au cours d’eau modifié. L’autorité qui fait exécuter les travaux fixe l’indemnité en se fondant sur la prétention émise par le concessionnaire.[^44-1]
+
+<sup>2</sup> Si la construction ou l’exploitation d’une usine sont entravées ou interrompues temporairement par des travaux de correction du cours d’eau, ou par d’autres travaux de la police des eaux, le concessionnaire n’a droit à aucune indemnité, à moins que ces travaux ne soient prolongés sans nécessité.
+
+<sup>3</sup> ...[^44-2]
+
+[^44-1]: Nouvelle teneur selon le ch. 29 de l’annexe à la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2 al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^44-2]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991 , avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+
+### III. Rapports avec les tiers
+
+### 1. En général
+
+#### Art. 45
+
+La concession ne porte pas atteinte aux droits privés des tiers ou aux concessions antérieures.
+
+### 2. Expropriation
+
+### a. Octroi du droit d’expropriation
+
+#### Art. 46
+
+<sup>1</sup> Si des motifs d’utilité publique l’exigent, l’autorité concédante doit accorder au concessionnaire le droit d’exproprier les biens-fonds et les droits réels nécessaires à la construction, à la transformation ou à l’agrandissement de son usine, ainsi que les droits d’utilisation qui s’y opposent.
+
+<sup>2</sup> Les contestations relatives à l’exercice du droit d’expropriation sont tranchées par l’autorité concédante, à moins qu’il ne s’agisse d’exproprier un droit d’utilisation qu’elle a concédé elle-même; dans ce cas, les contestations relèvent du département.[^46-1]
+
+<sup>3</sup> Si des immeubles nécessaires à la réalisation des travaux sont situés dans un canton autre que celui qui a octroyé la concession, le droit d’expropriation est accordé par le département.[^46-2]
+
+<sup>4</sup> Si la concession est accordée par le département, celui qui la requiert dispose du droit d’expropriation prévu par la loi fédérale du 20 juin 1930 sur l’expropriation (LEx)[^46-3].[^46-4]
+
+[^46-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^46-2]: Nouvelle teneur selon le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^46-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^46-4]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### b. Droit applicable
+
+#### Art. 47
+
+[^47-1]
+
+La procédure d’expropriation et l’indemnisation sont régies par la LEx[^47-2]; les dispositions contraires fixées dans la présente loi sont réservées.
+
+[^47-1]: Nouvelle teneur selon le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^47-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+### E. Obligations du concessionnaire
+
+### I. En vertu de la concession
+
+### 1. En général
+
+#### Art. 48
+
+<sup>1</sup> L’autorité concédante fixe, conformément au droit cantonal, les prestations et conditions imposées au concessionnaire, telles que taxes, redevance annuelle, livraison d’eau ou d’énergie, durée de la concession, normes des tarifs électriques, participation de la communauté au bénéfice, droit de retour et rachat.
+
+<sup>2</sup> La totalité de ces prestations ne doit pas grever sensiblement l’utilisation de la force.
+
+<sup>3</sup> Si les prestations grèvent d’une façon excessive l’utilisation de la force, le département peut, après avoir entendu le canton, fixer le maximum des charges du concessionnaire en plus de la redevance annuelle et des taxes.[^48-1] Il peut en réserver l’augmentation pour le cas où les circonstances se modifieraient sensiblement en faveur du concessionnaire.
+
+[^48-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 2. Taxes et redevance annuelle
+
+### a. En général
+
+#### Art. 49
+
+[^49-1]
+
+<sup>1</sup> La redevance hydraulique annuelle ne peut excéder 110 francs par kilowatt théorique jusqu’à fin 2024. Sur ce montant, la Confédération peut percevoir au plus 1 franc par kilowatt théorique afin de financer les montants compensatoires alloués aux cantons et aux communes en vertu de l’art. 22, al. 3 à 5.[^49-2]
+
+<sup>1bis</sup> En temps utile, le Conseil fédéral soumet à l’Assemblée fédérale un projet d’acte fixant le taux maximal de la redevance hydraulique applicable à partir du 1<sup>er</sup> janvier 2025.[^49-3]
+
+<sup>2</sup> Les aménagements hydro-électriques faisant l’objet d’une concession et l’énergie qu’ils produisent ne peuvent être grevés d’impôts spéciaux.[^49-4] Toutefois, si la législation cantonale fixe une redevance maximum inférieure au taux admis par les prescriptions fédérales, le canton peut percevoir un impôt spécial, pourvu que les deux taxes réunies n’excèdent pas ce taux.
+
+<sup>3</sup> La taxe de concession, la redevance annuelle et les autres prestations ne seront pas plus élevées pour l’énergie dérivée dans d’autres cantons que pour l’énergie employée dans le canton même.
+
+<sup>4</sup> Les aménagements hydro-électriques dont la puissance n’excède pas 1 mégawatt sont exemptés de la redevance hydraulique annuelle. Pour ceux dont la puissance s’échelonne entre 1 et 2 mégawatts, il convient de prévoir, au plus, une augmentation linéaire allant jusqu’au maximum prévu à l’al. 1.
+
+[^49-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^49-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^49-3]: Introduit par le ch. I 1 de la LF du 18 juin 2010 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267)[1045](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^49-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+
+### b. Réduction durant la période de construction
+
+#### Art. 50
+
+<sup>1</sup> Durant le délai fixé pour la construction, il n’est pas perçu de redevance.
+
+<sup>2</sup> Pendant les six premières années à partir de l’expiration du délai de construction, le concessionnaire peut exiger que la redevance annuelle soit réduite en proportion de la force effectivement utilisée, mais de moitié au plus.
+
+### b<sup>bis</sup>. Réduction en cas d’octroi de contributions d’investissement
+
+#### Art. 50a
+
+[^50a-1]
+
+<sup>1</sup>
+
+Les réductions suivantes s’appliquent aux aménagements hydro-électriques pour lesquels une contribution d’investissement est versée conformément à l’art. 26 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^50a-2]:
+
+- a. aucune redevance hydraulique ne peut être perçue sur la puissance théorique totale d’une nouvelle installation (art. 24, al. 1, let. b, ch. 1, LEne) pendant le délai accordé pour sa construction et pendant les dix ans qui suivent sa mise en service;
+- b. aucune redevance hydraulique ne peut être perçue sur la puissance théorique supplémentaire d’une installation existante qui a été notablement agrandie ou rénovée (art. 24, al. 1, let. b, ch. 2, LEne) pendant les dix ans qui suivent sa mise en service.
+
+<sup>2</sup> Les réductions s’appliquent aussi aux impôts spéciaux mentionnés à l’art. 49, al. 2.
+
+[^50a-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^50a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+
+### c. Calcul de la redevance maximum exigible
+
+[^chap3-lvlE-lvlI-lvl2-lvlc-1]
+
+[^chap3-lvlE-lvlI-lvl2-lvlc-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+
+#### Art. 51
+
+<sup>1</sup> La puissance théorique déterminante pour le calcul de la redevance est la puissance théorique moyenne de l’eau, calculée d’après les hauteurs de chute et les débits utilisables.[^51-1]
+
+<sup>2</sup> La hauteur de chute utilisable est définie par la différence des niveaux d’eau mesurés entre la prise d’eau et le point de déversement dans le cours d’eau public.
+
+<sup>3</sup> Sont considérées comme débits utilisables les quantités d’eau débitées effectivement par le cours d’eau, jusqu’à concurrence du débit maximum que peuvent absorber les installations prévues dans la concession.
+
+<sup>4</sup> Le Conseil fédéral édicte les dispositions de détail nécessaires.
+
+[^51-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+
+### 3. Concessions fédérales
+
+#### Art. 52
+
+[^52-1]
+
+Si la concession est accordée par le département, celui-ci fixe, après avoir entendu les cantons et en tenant compte équitablement de leur législation, les prestations dues à chacun d’eux.
+
+[^52-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 4. émoluments en cas de concessions fédérales
+
+#### Art. 52a
+
+[^52a-1]
+
+La Confédération perçoit des émoluments pour la surveillance exercée sur les aménagements hydro-électriques internationaux et pour la couverture des dépenses administratives.
+
+[^52a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. En vertu de la loi
+
+#### Art. 53
+
+<sup>1</sup> Le concessionnaire est tenu de fournir aux communes l’eau indispensable à leurs services publics si elles ne peuvent s’en procurer ailleurs qu’à des frais excessifs. Toutefois la dérivation d’eau ne doit pas entraver sérieusement l’exploitation de l’usine.
+
+<sup>2</sup> Les exercices de sapeurs-pompiers doivent gêner le moins possible l’exploitation.
+
+### F. Teneur de la concession
+
+### I. Dispositions obligatoires
+
+#### Art. 54
+
+[^54-1]
+
+Toute concession doit indiquer:
+
+- a. la personne du concessionnaire;
+- b. l’étendue du droit d’utilisation concédé, le débit utilisable et le débit de dotation par seconde, ainsi que le mode d’utilisation;
+- c. les débits résiduels par seconde à respecter, ainsi que le lieu et le mode d’enregistrement, s’il y a dérivation et accumulation;
+- d. les autres conditions et charges fixées sur la base d’autres lois fédérales;
+- e. la durée de la concession;
+- f. les prestations économiques imposées au concessionnaire, telles que la redevance hydraulique annuelle, la redevance sur les aménagements de pompage-turbinage, la fourniture d’eau ou d’énergie électrique et toutes les autres prestations qui, en vertu de prescriptions spéciales, résultent de l’utilisation de la force hydraulique;
+- g. la participation du concessionnaire à l’entretien et à la correction du cours d’eau;
+- h. les délais fixés pour le commencement des travaux et la mise en service;
+- i. les éventuels droits de retour et de rachat;
+- k. le sort des installations à la fin de la concession;
+- l. le sort des prestations compensatoires dues à d’autres concessionnaires, à la fin de leur concession.
+
+[^54-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. Dispositions facultatives
+
+#### Art. 55
+
+Outre les dispositions obligatoires, les concessions peuvent contenir d’autres prescriptions, notamment:
+
+- a. sur l’emploi de la force hydraulique;
+- b. sur la justification du capital de construction, ainsi que sur les comptes de construction et d’exploitation;
+- c. sur la participation de la communauté concédante à l’administration et sur sa part aux bénéfices;
+- d. sur les tarifs pour la vente de l’énergie, sur la cession de l’énergie à titre gratuit ou à prix réduit, sur la réduction des prix de vente en raison du rendement financier et sur l’alimentation d’une région en énergie;
+- e.[^55-1] ...
+
+[^55-1]: Abrogée par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### III. Comptabilité
+
+#### Art. 56
+
+<sup>1</sup> Lorsque l’autorité concédante s’est réservé des droits dont l’exercice dépend de la gestion du concessionnaire, notamment le droit de rachat, la participation au bénéfice, la réduction des prix de vente en raison du rendement financier, les principes généraux d’une bonne et sage administration feront règle, à défaut de dispositions particulières de l’acte de concession.
+
+<sup>2</sup> L’autorité concédante a le droit d’examiner la gestion du concessionnaire, si elle établit qu’elle y a un intérêt.
+
+<sup>3</sup> Elle a le même droit à l’égard des tiers, s’il est à présumer qu’ils aident à éluder la concession.
+
+### IV. Concession normale
+
+#### Art. 57
+
+Le Conseil fédéral peut établir, dans les limites de la présente loi, des dispositions types, servant de règle à l’autorité concédante pour l’octroi de concessions ou de certaines catégories de concessions.
+
+### G. Durée de la concession
+
+#### Art. 58
+
+[^58-1]
+
+La durée de la concession est de quatre-vingts ans au plus, à compter de la mise en service de l’aménagement. L’art. 58*a*, al. 2, demeure réservé.
+
+[^58-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### G<sup>bis</sup>. Renouvellement de la concession
+
+#### Art. 58a
+
+[^58a-1]
+
+<sup>1</sup> Le renouvellement peut avoir lieu à l’expiration de la concession ou avant cette date.
+
+<sup>2</sup> La demande de renouvellement de la concession existante doit être présentée au moins quinze ans avant l’échéance de celle-ci. Les autorités compétentes décident, au moins dix ans avant l’expiration, si, en principe, elles sont prêtes à l’accorder.
+
+<sup>3</sup> Les nouvelles prescriptions sur les débits résiduels s’appliquent sans restrictions cinq ans au plus tard après la date fixée pour l’expiration de la concession.
+
+<sup>4</sup> La durée maximale d’une concession renouvelée avant son échéance se compte à partir du jour de l’entrée en vigueur convenue avec le concessionnaire. Cette dernière doit avoir lieu au plus tard 25 ans après la décision d’octroi de la concession.
+
+<sup>5</sup> L’état initial au sens de l’art. 10*b*, al. 2, let. a, de la loi du 7 octobre 1983 sur la protection de l’environnement[^58a-2] à prendre en considération pour définir des mesures de protection, de reconstitution et de remplacement selon la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^58a-3] est l’état existant au moment du dépôt de la demande.[^58a-4]
+
+[^58a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^58a-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^58a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^58a-4]: Introduit par le ch. I de la LF du 20 déc. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2049](https://fedlex.data.admin.ch/eli/oc/2020/400); [FF 2019 5361](https://fedlex.data.admin.ch/eli/fga/2019/1934)[5571](https://fedlex.data.admin.ch/eli/fga/2019/2068)).
+
+### H. Immatriculation au registre foncier
+
+#### Art. 59
+
+Les concessions octroyées pour trente ans au moins peuvent être immatriculées au registre foncier à titre de droits distincts et permanents.
+
+### J. Procédure de concession
+
+### I. Cours d’eau cantonaux
+
+#### Art. 60
+
+<sup>1</sup> La procédure pour l’octroi des concessions cantonales est réglée par les cantons, sous réserve des dispositions suivantes.
+
+<sup>2</sup> Les demandes de concession sont soumises à une enquête publique; un délai convenable est fixé, durant lequel il pourra être fait opposition à l’octroi de la concession, pour atteinte à des intérêts publics ou privés.
+
+<sup>3</sup> La publication ne peut entraîner la perte des droits qui n’auraient pas été déclarés en temps utile.
+
+<sup>3bis</sup> La concession peut être octroyée sans appel d’offres. La procédure d’octroi des concessions doit être transparente et non-discriminatoire.[^60-1]
+
+<sup>3ter</sup> Une procédure simplifiée est prévue pour les projets qui affectent un espace limité, ne concernent qu’un ensemble restreint et clairement défini de personnes et dont les effets sont moindres. Lorsqu’ils renoncent à l’enquête publique visée à l’al. 2, les cantons garantissent que les personnes concernées peuvent néanmoins faire valoir leurs droits.[^60-2]
+
+<sup>4</sup> Le Conseil fédéral peut édicter d’autres dispositions de procédure.
+
+[^60-1]: Introduit par le ch. I 1 de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2711](https://fedlex.data.admin.ch/eli/fga/2011/426)[3659](https://fedlex.data.admin.ch/eli/fga/2011/598)).
+[^60-2]: Introduit par le ch. II 6 de l’annexe à la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+
+### II. Cours d’eau intercantonaux
+
+#### Art. 61
+
+<sup>1</sup> Si la concession intéresse plusieurs cantons, chacun d’eux appliquera sa propre procédure.
+
+<sup>2</sup> En cas de contestation, le département statue.[^61-1]
+
+[^61-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### III. Concessions fédérales
+
+### 1. Compétences
+
+#### Art. 62
+
+[^62-1]
+
+<sup>1</sup> Lorsqu’il octroie la concession, le département statue également sur l’approbation des plans nécessaires à la construction ou à la modification des installations.
+
+<sup>2</sup> La procédure de concession est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^62-2], pour autant que la présente loi n’en dispose pas autrement. Si une expropriation est nécessaire, la loi LEx[^62-3] s’applique au surplus.[^62-4]
+
+<sup>2bis</sup> La concession peut être octroyée sans appel d’offres. La procédure d’octroi des concessions doit être transparente et non-discriminatoire.[^62-5]
+
+<sup>3</sup> La concession couvre toutes les autorisations requises par le droit fédéral.
+
+<sup>4</sup> Aucune autorisation ni aucun plan relevant du droit cantonal ne sont requis. Le droit cantonal est pris en compte dans la mesure où il n’entrave pas de manière disproportionnée l’accomplissement des tâches du concessionnaire.
+
+[^62-1]: Nouvelle teneur selon le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^62-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^62-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62-4]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^62-5]: Introduit par le ch. I 1 de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2711](https://fedlex.data.admin.ch/eli/fga/2011/426)[3659](https://fedlex.data.admin.ch/eli/fga/2011/598)).
+
+### 2. Procédure ordinaire
+
+### a. Ouverture
+
+#### Art. 62a
+
+[^62a-1]
+
+La demande de concession doit être adressée avec les documents requis à l’office. Ce dernier vérifie si le dossier est complet et, au besoin, le fait compléter.
+
+[^62a-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### b. Piquetage
+
+#### Art. 62b
+
+[^62b-1]
+
+<sup>1</sup> Avant la mise à l’enquête de la demande, le requérant doit marquer sur le terrain par un piquetage, et pour les bâtiments par des gabarits, les modifications requises par l’ouvrage projeté.
+
+<sup>2</sup> Les objections émises contre le piquetage ou la pose de gabarits doivent être adressées sans retard à l’office, mais au plus tard à l’expiration du délai de mise à l’enquête.
+
+[^62b-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### c. Consultation, publication et mise à l’enquête
+
+#### Art. 62c
+
+[^62c-1]
+
+<sup>1</sup> L’office transmet la demande aux cantons concernés et les invite à se prononcer dans les trois mois. Si la situation le justifie, il peut exceptionnellement prolonger ce délai.
+
+<sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
+
+<sup>3</sup> ...[^62c-2]
+
+[^62c-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^62c-2]: Abrogé par l’annexe ch. 8 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### d. ...
+
+#### Art. 62d
+
+[^62d-1]
+
+[^62d-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Abrogé par l’annexe ch. 8 de la LF du 19 juin 2020 sur l’expropriation, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### e. Opposition
+
+#### Art. 62e
+
+[^62e-1]
+
+<sup>1</sup> Quiconque a qualité de partie en vertu de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^62e-2] peut faire opposition auprès de l’office pendant le délai de mise à l’enquête.[^62e-3] Toute personne qui n’a pas fait opposition est exclue de la suite de la procédure.
+
+<sup>2</sup> Quiconque a qualité de partie en vertu de la LEx[^62e-4] peut faire valoir toutes les demandes visées à l’art. 33 LEx pendant le délai de mise à l’enquête.[^62e-5]
+
+<sup>3</sup> Les communes font valoir leurs droits par voie d’opposition.
+
+[^62e-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^62e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^62e-3]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^62e-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62e-5]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### f. élimination des divergences au sein de l’administration fédérale
+
+#### Art. 62f
+
+[^62f-1]
+
+La procédure d’élimination des divergences au sein de l’administration fédérale est régie par l’art. 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^62f-2].
+
+[^62f-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^62f-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+### 3. Décision
+
+#### Art. 62g
+
+[^62g-1]
+
+Lorsqu’il octroie la concession, le département statue également sur les oppositions en matière d’expropriation.
+
+[^62g-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### 4. Procédure simplifiée
+
+#### Art. 62h
+
+[^62h-1]
+
+<sup>1</sup>
+
+La procédure simplifiée s’applique:
+
+- a. aux projets qui affectent un espace limité et ne concernent qu’un ensemble restreint et bien défini de personnes;
+- b. aux transformations d’installations intervenant durant la période de validité de la concession qui n’altèrent pas sensiblement l’aspect extérieur du site, n’affectent pas les intérêts dignes de protection de tiers et n’ont que des effets minimes sur l’aménagement du territoire et sur l’environnement;
+- c. aux installations qui seront démontées après trois ans au plus.
+
+<sup>2</sup> La procédure simplifiée s’applique aux plans de détail élaborés sur la base d’un projet déjà approuvé.
+
+<sup>3</sup> L’office peut ordonner le piquetage. La demande n’est ni publiée, ni mise à l’enquête. L’office soumet le projet aux intéressés, qui peuvent faire opposition dans un délai de 30 jours, sauf s’ils ont donné auparavant leur accord par écrit. L’office peut solliciter l’avis des cantons et des communes. Il leur accorde un délai raisonnable pour se prononcer.
+
+<sup>4</sup> Au surplus, la procédure ordinaire d’octroi de la concession est applicable. En cas de doute, cette dernière est appliquée.
+
+[^62h-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### 5. Procédures de conciliation et d’estimation; envoi en possession anticipé
+
+[^chap3-lvlJ-lvlIII-lvl5-1]
+
+[^chap3-lvlJ-lvlIII-lvl5-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 62i
+
+[^62i-1]
+
+<sup>1</sup> Après clôture de la procédure de concession, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^62i-2].[^62i-3]
+
+<sup>2</sup> ...[^62i-4]
+
+<sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’octroi de la concession est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
+
+[^62i-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^62i-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^62i-3]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^62i-4]: Abrogé par l’annexe ch. 8 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 6. Participation des cantons
+
+#### Art. 62k
+
+[^62k-1]
+
+<sup>1</sup> Lorsque la construction d’installations, notamment l’excavation de galeries et de cavernes, produit une quantité considérable de matériaux qui ne peuvent être ni recyclés ni entreposés à proximité de l’installation, les cantons concernés désignent les sites nécessaires à leur élimination.
+
+<sup>2</sup> Si le canton concerné n’a pas délivré d’autorisation ou que celle-ci n’est pas encore entrée en force lorsque le département rend sa décision, ce dernier peut désigner un site pour l’entreposage intermédiaire des matériaux et fixer les charges et conditions nécessaires à son utilisation. En pareil cas, les dispositions de la présente loi relatives à la procédure sont applicables. Le canton désigne les sites nécessaires à l’élimination des matériaux dans un délai de cinq ans.
+
+[^62k-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### K. Fin de la concession
+
+### I. Rachat
+
+#### Art. 63
+
+[^63-1]
+
+<sup>1</sup> La communauté qui dispose de la force d’un cours d’eau peut se réserver un droit de rachat lors de l’octroi de la concession.
+
+<sup>2</sup> Le rachat ne peut être exercé qu’une fois les deux tiers de la durée de la concession écoulés; le délai de notification ne peut être inférieur à cinq ans.
+
+<sup>3</sup> Sauf dispositions contraires de la concession et du droit cantonal réservé par celle-ci, en cas de rachat, les installations décrites à l’art. 67, al. 1, reviennent à la communauté qui dispose de la force, moyennant indemnité pleine et entière.
+
+<sup>4</sup> L’art. 67, al. 4, s’applique par analogie.
+
+[^63-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### II. Extinction
+
+#### Art. 64
+
+La concession s’éteint de plein droit:
+
+- a. par l’expiration de sa durée;
+- b. par la renonciation expresse du concessionnaire.
+
+### III. Caducité
+
+#### Art. 65
+
+L’autorité concédante peut déclarer le concessionnaire déchu de ses droits:
+
+- a. lorsqu’il n’observe pas les délais fixés par la concession, en particulier pour la justification financière, la construction et la mise en service, à moins qu’un refus de prolongation ne soit contraire à l’équité;
+- b. lorsqu’il interrompt l’exploitation pendant deux ans et ne la reprend pas dans un délai convenable;
+- c. lorsque, malgré les avertissements de l’autorité, il contrevient gravement à des devoirs essentiels.
+
+### IV. Conséquences de l’extinction
+
+### 1. En général
+
+#### Art. 66
+
+À moins que la concession n’en dispose autrement, le concessionnaire dont les installations cessent d’être utilisées par suite de l’extinction ou de la caducité de la concession est tenu d’exécuter les travaux nécessaires pour prévenir les dangers résultant de la cessation de l’exploitation.
+
+### 2. Par suite de retour
+
+### a. Cours d’eau cantonaux
+
+#### Art. 67
+
+<sup>1</sup>
+
+Lorsqu’une usine fait retour à la communauté concédante, celle-ci a le droit, à moins que la concession n’en dispose autrement:
+
+- a. de reprendre gratuitement les installations de retenue et de prise d’eau, les canaux d’amenée ou de fuite, les moteurs hydrauliques et les bâtiments qui les abritent, que ces ouvrages soient établis sur le domaine public ou sur le domaine privé, ainsi que le sol servant à l’exploitation de ces installations;
+- b. de reprendre, moyennant une indemnité équitable, les installations servant à la production et au transport de l’énergie.
+
+<sup>2</sup> Le concessionnaire peut exiger que la communauté reprenne les installations servant à la production et au transport d’énergie, si elle est en mesure de les utiliser avantageusement dans le même but.
+
+<sup>3</sup> Le concessionnaire est tenu de maintenir en état d’être exploitées, les installations soumises au droit de retour.
+
+<sup>4</sup> Lorsque l’installation fait retour à la communauté concédante, le concessionnaire est dédommagé des investissements de modernisation et d’agrandissement, pour autant qu’il ait procédé à la modernisation ou à l’agrandissement en accord avec la communauté titulaire du droit de retour. Le dédommagement correspond au plus à la valeur résiduelle de l’investissement, compte tenu des taux d’amortissement usuels dans la branche et des fluctuations monétaires.[^67-1]
+
+<sup>5</sup> La communauté titulaire du droit de retour peut, avec l’assentiment du concessionnaire, apporter la valeur du droit de retour comme participation dans l’entreprise existante. Elle peut l’utiliser de toute autre façon conforme à l’intérêt public.[^67-2]
+
+[^67-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-2]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### b. Cours d’eau intercantonaux
+
+#### Art. 68
+
+<sup>1</sup> Si les sections de cours d’eau utilisées empruntent le territoire de plusieurs cantons, les installations soumises au droit de retour deviennent la copropriété de ces cantons. La part de chaque canton est fixée dans la proportion où il contribue à créer la force.
+
+<sup>2</sup> Si les cantons ne peuvent s’entendre sur l’usage des installations et sur la part de chacun d’eux, le département statue (art. 6).[^68-1]
+
+[^68-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### 3. Par suite d’expiration, de caducité ou de renonciation
+
+#### Art. 69
+
+<sup>1</sup> Si la concession prend fin par suite d’expiration sans faire retour à la communauté, ou par suite de caducité ou de renonciation, les installations établies sur le domaine privé restent la propriété du concessionnaire et les installations établies sur le domaine public deviennent la propriété de la communauté concédante. Demeurent réservées les dispositions contraires de la concession.
+
+<sup>2</sup> Si les installations établies sur le domaine public continuent à être utilisées, la communauté payera une indemnité équitable au concessionnaire.
+
+<sup>3</sup> Si le concessionnaire perd ses droits par suite de déchéance ou de renonciation, la communauté conserve la faculté de reprendre l’usine en vertu des dispositions de la concession sur le rachat ou le retour. Il sera tenu compte de l’exercice anticipé de ces droits.
+
+### V. Travaux de transformation avant l’expiration de la concession
+
+#### Art. 69a
+
+[^69a-1]
+
+Au cours des dix années qui précèdent l’expiration de la concession, le concessionnaire doit, moyennant indemnité pleine et entière, entreprendre tous les travaux de transformation, en particulier de modernisation et d’agrandissement de l’installation, qui sont prescrits par l’autorité qui octroie ou qui approuve la concession, dans la perspective de la transmission de l’aménagement à un autre exploitant.
+
+[^69a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+
+### L. Contestations
+
+### I. Entre usagers
+
+#### Art. 70
+
+Les contestations entre le concessionnaire et d’autres usagers du même cours d’eau relativement à l’étendue de leurs droits sont du ressort des tribunaux.
+
+### II. Entre l’autorité concédante et le concessionnaire
+
+#### Art. 71
+
+[^71-1]
+
+<sup>1</sup> Sauf disposition contraire de la présente loi ou de l’acte de concession, les contestations entre le concessionnaire et l’autorité concédante au sujet des droits et des obligations découlant de la concession relèvent en première instance de l’autorité judiciaire cantonale, en seconde instance du Tribunal fédéral.
+
+<sup>2</sup> Si la concession a été accordée par plusieurs cantons, par le Conseil fédéral ou par le département, ce dernier rend une décision en cas de litige. Cette décision est sujette à recours conformément aux dispositions générales de la procédure fédérale.[^71-2]
+
+[^71-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^71-2]: Nouvelle teneur selon le ch. 67 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## Chapitre IV Dispositions d’exécution et dispositions transitoires
+
+### A. Dispositions d’exécution
+
+### I. En général
+
+#### Art. 72
+
+<sup>1</sup> Le Conseil fédéral est chargé de l’application de la présente loi; il édicte les mesures d’exécution qui sont du ressort de la Confédération.
+
+<sup>2</sup> Il désigne par voie d’ordonnance les dispositions de la présente loi qui ne sont pas applicables aux petites usines hydrauliques.
+
+<sup>3</sup> ...[^72-1]
+
+[^72-1]: Abrogé par le ch. 67 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### II. Commission d’économie des eaux
+
+#### Art. 73
+
+[^73-1]
+
+Le département nomme une commission chargée d’étudier les questions d’ordre général ou particulier relatives à l’économie des eaux et de lui présenter des préavis; les attributions et l’organisation de cette commission sont déterminées par un règlement.
+
+[^73-1]: Nouvelle teneur selon le ch. II 4 de l’annexe à la LF du 22 mars 2002 sur l’adaptation des dip. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+
+### B. Dispositions transitoires
+
+### I. Effet rétroactif
+
+#### Art. 74
+
+<sup>1</sup> Les art. 7*a*, 8, 9, 12 à 16 et le chapitre II sont applicables à tous les droits d’eau existants.[^74-1]
+
+<sup>2</sup> Sont applicables aux droits d’eau constitués antérieurement au 25 octobre 1908, les dispositions du chapitre III concernant: les travaux publics entravant l’exploitation d’une usine (art. 44), le droit d’expropriation (art. 46, 47), la fourniture d’eau pour des services publics (art. 53) et les contestations (art. 70 et 71). Toutefois si, postérieurement à cette date, un supplément de force est concédé au propriétaire d’une ancienne usine, les dispositions de la présente loi sur les prestations périodiques sont applicables à la force supplémentaire.
+
+<sup>3</sup> ...[^74-2]
+
+<sup>3bis</sup> L’art. 49, al. 1 est applicable dans la mesure où il ne porte pas atteinte à des droits acquis.[^74-3]
+
+<sup>4</sup> L’art. 50 n’est pas applicable aux droits d’eau accordés entre le 25 octobre 1908 et l’entrée en vigueur de la présente loi.
+
+<sup>5</sup> ...[^74-4]
+
+[^74-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^74-2]: Abrogé par le ch. I de la LF du 13 déc. 1996 , avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^74-3]: Introduit par le ch. I de la LF du 8 oct. 1976 ([RO 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2140](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^74-4]: Disp. trans. sans objet.
+
+### II. Mesures d’exécution des cantons
+
+#### Art. 75
+
+<sup>1</sup> Dans un délai qui sera fixé par le Conseil fédéral, les cantons édicteront les dispositions d’exécution qui sont de leur ressort et dresseront le registre des droits d’eau pour leur territoire.
+
+<sup>2</sup> Ils pourront édicter ces dispositions par voie d’ordonnance.
+
+<sup>3</sup> Afin de constater les droits d’utilisation existants, les cantons inviteront, par sommation publique, les ayants droit à les produire; les droits non produits pourront être déclarés nuls ou présumés tels.
+
+### III. Dispositions transitoires relatives à la modification du 18 juin 1999
+
+#### Art. 75a
+
+[^75a-1]
+
+Les anciennes règles de procédure s’appliquent:
+
+- a. aux demandes d’approbation des plans en cours d’examen depuis deux ans ou plus;
+- b. aux demandes de permis de construire en cours d’examen;
+- c. aux demandes de permis de construire relatives à des installations pour lesquelles une concession a été accordée en vertu de l’ancien droit si ces demandes sont déposées dans les dix ans qui suivent l’entrée en vigueur de la présente modification;
+- d. aux recours pendants.
+
+[^75a-1]: Introduit par le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 76
+
+Le Conseil fédéral fixe l’époque de l’entrée en vigueur de la présente loi.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1918[^76-1]
+
+[^76-1]: ACF du 20 avril 1917

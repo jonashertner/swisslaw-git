@@ -1,0 +1,48 @@
+---
+sr: "0.946.294.541.1"
+title: "Protocole additionnel du 30 décembre 1933 au traité de commerce conclu entre la Suisse et l'Italie le 27 janvier 1923"
+eli: "https://fedlex.data.admin.ch/eli/cc/50/611_631_691"
+language: fr
+version: 1934-01-26
+adopted: 1933-12-30
+in_force: 1934-01-26
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/611_631_691/19340126/fr/xml/fedlex-data-admin-ch-eli-cc-50-611_631_691-19340126-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/611_631_691/19340126/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Protocole additionnel au traité de commerce conclu entre la Suisse et l’Italie le 27 janvier 1923****
+
+RS **14** 524[^t-1]
+
+Texte original
+
+Conclu le 30 décembre 1933
+
+Instruments de ratification échangés le 8 août 1934
+
+Entré en vigueur le 26 janvier 1934
+
+(Etat le 26 janvier 1934)
+
+[^t-1]: Du présent Prot. add., seule reste en vigueur la disp. concernant le lait condensé reprise ci-dessous. Toutes les autres disp. de ce Prot., étant de caractère tarifaire, ont été abrogées et remplacées par l’avenant du 14 juil. 1950 au traité de commerce entre la Suisse et l’Italie du 27 janv. 1923 [[RO 1950 835](https://fedlex.data.admin.ch/eli/oc/1950/811_835_801), [1951 1293](https://fedlex.data.admin.ch/eli/oc/1951/1285_1293_1327), [1958 234](https://fedlex.data.admin.ch/eli/oc/1958/228_234_240), [RS 0.632.294.541](https://fedlex.data.admin.ch/eli/cc/1959/1958_2022_2044)art. 1] c’est pourquoi on a renoncé à reproduire ici lesdites dispositions.
+
+Le Conseil fédéral suisse et le Gouvernement de Sa Majesté le Roi d’Italie
+
+sont convenues de modifier et de compléter le traité de commerce conclu entre la Suisse et l’Italie le 27 janvier 1923 comme il suit:
+
+## A. Traitement douanier des marchandises suisses en Italie
+
+### 1. Lait condensé
+
+Note ad n<sup>o</sup> 26b2 alpha du tarif italien*[^lvlA-lvl1-1]*
+
+Aussi longtemps que les dispositions concernant l’allégement fiscal relatif à la taxe perçue sur le sucre destiné à la fabrication du lait condensé, prévues actuellement dans les décrets royaux des 25 février 1932, n<sup>o</sup> 182, et 22 septembre 1932, n<sup>o</sup> 1250, resteront en vigueur, la taxe de fabrication réduite, instituée par lesdites dispositions, sera perçue dans les conditions prévues par lesdites décrets sur le lait condensé d’origine suisse dans la mesure du taux perçu sur le lait condensé contenant du sucre en quantité non supérieure à 40 %, même si la quantité de sucre contenue dépasse légèrement 40 % mais sans toutefois excéder 42 %.
+
+Le présent protocole additionnel sera ratifié et les instruments de ratification seront échangés à Rome aussitôt que possible. Il reste toutefois entendu qu’on pourra le mettre en application à titre provisoire par échange de notes. Il restera exécutoire jusqu’à l’échéance du traité italo-suisse, du 27 janvier 1923[^lvlA-lvl1-2] auquel il se rapporte.
+
+[^lvlA-lvl1-1]: Après mod. du tarif italien: n<sup>o</sup> 29b du tarif italien.
+[^lvlA-lvl1-2]: [RS 0.946.294.541](https://fedlex.data.admin.ch/eli/cc/40/105_105_109)
+
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent protocole additionnel. Fait en double exemplaire, à Berne, le 30 décembre mil neuf cent trente-trois. (Suivent les signatures)

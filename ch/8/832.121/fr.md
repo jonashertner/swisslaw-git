@@ -1,0 +1,931 @@
+---
+sr: "832.121"
+title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladie sociale (Ordonnance sur la surveillance de l'assurance-maladie, OSAMal)"
+short: OSAMal
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
+language: fr
+version: 2020-01-01
+adopted: 2015-11-18
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la surveillance de l’assurance-maladie sociale
+
+(Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
+
+du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2020)
+
+Le Conseil fédéral suisse,
+
+vu les art. 2, al. 2, 14, al. 2, 17, al. 4, 20, al. 2 et 4, 22, al. 2, 24, al. 4, 32 et 57 de la loi fédérale du 26 septembre 2014 sur la surveillance de l’assurance-maladie sociale (LSAMal)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+
+## Chapitre 1 Définitions
+
+#### Art. 1
+
+**Autres branches d’assurance**
+
+Sont considérés comme autres branches d’assurance au sens de l’art. 2, al. 2, LSAMal:
+
+- a. une indemnité de décès pour cause de maladie ou d’accident de 6000 francs au plus;
+- b. le maintien de l’assurance obligatoire des soins au sens de l’art. 7*a* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^1-1].
+
+[^1-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 2
+
+**Groupe d’assurance**
+
+Deux entreprises ou plus forment un groupe d’assurance si les conditions suivantes sont remplies:
+
+- a. l’activité qu’elles exercent globalement dans le domaine de l’assurance est prédominante;
+- b. elles forment une unité économique ou sont liées entre elles sur la base de facteurs d’influence ou d’un contrôle.
+
+## Chapitre 2 Autorisation de pratiquer l’assurance-maladie sociale
+
+#### Art. 3
+
+**Demande d’autorisation**
+
+<sup>1</sup> La demande d’autorisation de pratiquer l’assurance-maladie sociale au sens de l’art. 7 LSAMal doit être soumise à l’autorité de surveillance le 30 juin au plus tard de l’année précédant celle où l’assureur entend pratiquer l’assurance-maladie sociale pour la première fois.
+
+<sup>2</sup> Les entreprises d’assurance privées doivent joindre à leur demande la preuve qu’elles disposent d’un agrément pour exercer leur activité d’assurance conformément à la loi du 17 décembre 2004 sur la surveillance des assurances[^3-1].
+
+[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+
+#### Art. 4
+
+**Exemption de l’obligation visée à l’art. 5, let. g, LSAMal**
+
+<sup>1</sup>
+
+Un assureur peut exceptionnellement être exempté de tout ou partie de l’obligation d’offrir aux personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège la possibilité de s’affilier à l’assurance-maladie sociale si les conditions suivantes sont remplies:
+
+- a. il compte moins de 500 000 assurés;
+- b. il ne veut pratiquer l’assurance-maladie sociale dans aucun de ces États ou seulement dans une partie d’entre eux;
+- c. ses effectifs d’assurés dans les États en question sont très peu importants.
+
+<sup>2</sup> Il doit présenter une demande d’exemption à l’autorité de surveillance le 30 juin au plus tard. L’exemption prend effet le 1<sup>er</sup> janvier de l’année suivante.
+
+#### Art. 5
+
+**Début de la validité de l’autorisation**
+
+L’autorisation de pratiquer l’assurance-maladie sociale prend effet au début d’une année civile.
+
+#### Art. 6
+
+**Retrait de l’autorisation en l’absence d’activité d’assurance**
+
+Si un assureur ne compte aucun assuré pendant deux ans, l’activité d’assurance est réputée terminée. L’autorité de surveillance lui retire son autorisation de pratiquer l’assurance-maladie sociale et le libère de la surveillance.
+
+#### Art. 7
+
+**Délais en cas de modification du plan d’exploitation**
+
+<sup>1</sup> Les demandes de modification du champ territorial d’activité, les nouvelles dispositions sur les formes particulières d’assurance dans l’assurance obligatoire des soins et sur l’assurance facultative d’indemnités journalières ainsi que les conditions générales d’assurance doivent être remises à l’autorité de surveillance cinq mois avant le début de leur validité. L’autorité de surveillance peut raccourcir ce délai.
+
+<sup>2</sup> Les contrats ou autres ententes visant à déléguer des tâches importantes telles que le contrôle des prestations, le recouvrement, la gestion comptable et la gestion des polices doivent être remis à l’autorité de surveillance deux mois avant le début de leur validité.
+
+#### Art. 8
+
+**Modifications de la structure juridique, transfert de patrimoine et transfert de l’effectif des assurés**
+
+<sup>1</sup> L’assureur qui entend procéder à une modification au sens de l’art. 9, al. 1, LSAMal, doit le communiquer à l’autorité de surveillance le 30 juin au plus tard. La communication et les documents correspondants doivent être soumis à l’autorité de surveillance le 30 août au plus tard. Les modifications prennent effet le 1<sup>er</sup> janvier.
+
+<sup>2</sup> L’assureur qui entend procéder à une modification au sens de l’art. 9, al. 3, LSAMal, doit le communiquer à l’autorité de surveillance au moins quatre mois avant la date de transfert prévue.
+
+<sup>3</sup>
+
+Lorsque les circonstances le justifient, l’autorité de surveillance peut:
+
+- a. raccourcir le délai prévu à l’art. 9, al. 2, LSAMal et les délais de communication visés aux al. 1 et 2, pour autant qu’un délai plus court soit dans l’intérêt des assurés et que leurs droits soient garantis;
+- b. autoriser que les modifications visées à l’al. 1 prennent effet à une autre date que le 1<sup>er</sup> janvier.
+
+## Chapitre 3 Financement de l’activité d’assurance
+
+### Section 1 Réserves
+
+#### Art. 9
+
+**Réserves initiales**
+
+L’assureur qui demande l’autorisation de pratiquer l’assurance-maladie sociale doit disposer de réserves d’au moins huit millions de francs.
+
+#### Art. 10
+
+**Détermination des réserves**
+
+<sup>1</sup> L’assureur détermine les réserves en calculant la différence entre la valeur des actifs et la valeur des engagements.
+
+<sup>2</sup> Les actifs doivent être évalués à la valeur proche du marché. Pour les actifs, cette valeur est la valeur de marché; si celle-ci n’est pas disponible, elle correspond à la valeur de marché d’un actif comparable ou se détermine au moyen d’une méthode de mathématiques financières reconnue.
+
+<sup>3</sup> La valeur des engagements doit être évaluée le plus exactement possible selon des méthodes actuarielles reconnues.
+
+<sup>4</sup> Les positions du bilan relatives aux assurances au sens de la loi fédérale du 2 avril 1908 sur le contrat d’assurance (LCA)[^10-1] ne sont pas prises en compte lors du calcul de la valeur des actifs et de la valeur des engagements.
+
+<sup>5</sup> Le Département fédéral de l’intérieur (DFI) peut définir comment les actifs et les engagements sont évalués.
+
+[^10-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 11
+
+**Niveau minimal des réserves**
+
+<sup>1</sup> Les réserves doivent atteindre un niveau au moins suffisant pour que la moyenne des réserves possibles à la fin de l’année qui se trouvent en dessous de la valeur-seuil soit nulle. La valeur-seuil est la valeur que les réserves dépasseront au cours d’une année avec une probabilité de 99 %.
+
+<sup>2</sup>
+
+Le DFI fixe un modèle pour le calcul du niveau minimal des réserves. Ce modèle comprend:
+
+- a. la quantification des risques actuariels, des risques de marché et des risques de crédit;
+- b. l’évaluation des scénarios concernant les risques actuariels, les risques de marché et les risques de crédit;
+- c. une procédure d’agrégation, qui regroupe les résultats de la quantification des risques et l’évaluation des scénarios en tenant compte de l’effet de diversification.
+
+<sup>3</sup> Le DFI peut définir comment les contrats de réassurance sont pris en compte dans le modèle.
+
+#### Art. 12
+
+**Fréquence et moment du calcul**
+
+<sup>1</sup> L’assureur calcule les réserves disponibles et le niveau minimal des réserves au début de chaque année civile.
+
+<sup>2</sup> Si sa situation en matière de risques se modifie sensiblement en cours d’année, il détermine approximativement le montant des réserves disponibles et le niveau minimal des réserves à intervalles plus rapprochés et communique les résultats à l’autorité de surveillance.
+
+<sup>3</sup> Il joint à sa demande d’approbation des primes une estimation des réserves disponibles à la fin de l’année en cours et du niveau minimal des réserves pour l’année civile suivante. L’estimation comprend plusieurs hypothèses. Pour chaque hypothèse, l’assureur indique la probabilité de survenance en tenant compte de son risque individuel de modification de l’effectif.
+
+#### Art. 13
+
+**Rapport**
+
+<sup>1</sup> L’assureur établit chaque année un rapport sur le calcul des réserves disponibles et sur le niveau minimal des réserves.
+
+<sup>2</sup> Le rapport doit contenir toutes les informations déterminantes permettant de comprendre le calcul des réserves disponibles, le calcul du niveau minimal des réserves et la situation de l’assureur en matière de risques.
+
+<sup>3</sup> Il est signé par la direction et remis à l’autorité de surveillance. Le DFI fixe la date de la remise du rapport.
+
+### Section 2 Provisions techniques
+
+#### Art. 14
+
+<sup>1</sup> L’assureur constitue ses provisions techniques selon des méthodes actuarielles reconnues. Il les constitue sans tenir compte des droits découlant des contrats de réassurance qu’il a conclus.
+
+<sup>2</sup> Il dissout les provisions techniques devenues inutiles.
+
+<sup>3</sup> Il indique dans son plan d’exploitation les conditions de constitution et de dissolution des provisions techniques. Il documente les hypothèses qui fondent ses choix, en particulier les bases de calcul et les méthodes de constitution des provisions.
+
+<sup>4</sup> Le DFI peut définir les principes pour la constitution et la dissolution des provisions.
+
+### Section 3 Fortune liée
+
+#### Art. 15
+
+**Date de calcul du débit**
+
+<sup>1</sup> L’assureur calcule le débit à la date de clôture des comptes.
+
+<sup>2</sup> Sur demande motivée de l’assureur, l’autorité de surveillance peut autoriser le calcul du débit à une autre date.
+
+<sup>3</sup> Lorsque les circonstances le justifient, elle peut exiger un nouveau calcul ou une estimation du débit.
+
+#### Art. 16
+
+**Obligation de communication**
+
+L’assureur communique à l’autorité de surveillance au plus tard le 31 mars le débit calculé pour la fin de l’exercice annuel, avec l’inventaire des valeurs de couverture.
+
+#### Art. 17
+
+**Couverture**
+
+<sup>1</sup> Le débit doit être couvert en permanence par des actifs.
+
+<sup>2</sup> S’il constate un découvert, l’assureur le signale à l’autorité de surveillance et complète la fortune liée sans retard. Si des circonstances spéciales le justifient, l’autorité de surveillance peut accorder un délai pour compléter la fortune liée.
+
+<sup>3</sup> Les biens affectés à la fortune liée doivent être libres de tout engagement. Les engagements de l’assureur ne peuvent être compensés par des créances appartenant à la fortune liée. L’art. 19, al. 1, let. f, est réservé.
+
+#### Art. 18
+
+**Constitution**
+
+<sup>1</sup> L’assureur constitue la fortune liée en y affectant des biens. Il enregistre et distingue les biens affectés à la fortune liée de façon à pouvoir prouver en tout temps et sans retard quels biens appartiennent à la fortune liée et que le débit de la fortune liée est couvert.
+
+<sup>2</sup> Il choisit les biens appartenant à la fortune liée en premier lieu en fonction de leur sécurité et de la situation financière effective.
+
+<sup>3</sup> Il tend à un rendement conforme au marché en application des principes de diversification adéquats et veille à ce que le besoin prévisible de liquidités soit assuré en tout temps.
+
+<sup>4</sup> L’autorité de surveillance peut, à la demande de l’assureur, autoriser la prise en compte, en tout ou en partie, des créances découlant des contrats de réassurance pour la constitution de la fortune liée, pour autant que le réassureur garantisse ces créances avec sa fortune liée.
+
+<sup>5</sup> Les assureurs qui proposent l’assurance-maladie sociale et des assurances au sens de la LCA[^18-1] doivent distinguer la fortune liée de l’assurance-maladie sociale comme telle.
+
+[^18-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 19
+
+**Placements conformes**
+
+<sup>1</sup>
+
+Les placements suivants sont réputés conformes:
+
+- a. les espèces, les avoirs bancaires, les dépôts à terme et les placements sur le marché monétaire avec une échéance de douze mois au maximum;
+- b. les créances, libellées en montant fixe, autres que celles visées à la let. a, notamment les emprunts obligataires, les obligations à option, les obligations convertibles et les lettres de gage;
+- c. les actions, les bons de participation, les bons de jouissance, les parts de coopératives et les autres participations au capital, pour autant qu’ils soient cotés en bourse ou traités sur un autre marché réglementé ouvert au public et qu’ils puissent être vendus à court terme;
+- d. les placements dans des immeubles d’habitation ou à usage commercial, en propriété ou en copropriété, y compris dans des locaux administratifs pour son propre usage;
+- e.
+
+  les placements collectifs de capitaux au sens des art. 8, 9 et 119, al. 1, de la loi du 23 juin 2006 sur les placements collectifs[^19-1], qui remplissent les conditions suivantes:
+
+  - 1\.[^19-2] être approuvés et autorisés à faire l’objet d’une offre en Suisse par l’Autorité fédérale de surveillance des marchés financiers (FINMA),
+  - 2\. ne contenir que des placements visés aux let. a à d,
+  - 3\. être organisés en matière de directives de placement, de répartition des compétences, de détermination des parts ainsi que de vente et d’achat de ces parts de manière à sauvegarder clairement les intérêts des assureurs participants;
+
+- f.
+
+  les instruments financiers dérivés qui remplissent les conditions suivantes:
+
+  - 1\. servir uniquement à couvrir la fortune,
+  - 2\. ne pas exercer d’effet de levier sur la fortune,
+  - 3\. reposer sur des sous-jacents qui sont conformes au sens des let. a à d, qui font partie intégrante de la fortune et dont la valeur d’affectation tient compte des variations garanties du marché,
+  - 4\. être couverts pour tous les engagements qui en découlent pour l’assureur ou qui peuvent résulter dans le pire des cas de l’exercice du droit lors de la conversion en sous-jacent.
+
+<sup>2</sup> Les autres placements, notamment les placements dans des institutions qui servent à la pratique de l’assurance-maladie sociale (art. 46, al. 1, let. b), sont réputés non conformes.
+
+<sup>3</sup> Si l’assureur ne peut pas démontrer que les placements de la fortune liée couvrent toutes les créances relevant des rapports d’assurance et des contrats de réassurance qu’il a conclus, notamment parce que certains placements ne sont pas conformes, l’autorité de surveillance peut lui fixer un délai pour compléter ou modifier les placements.
+
+[^19-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^19-2]: Nouvelle teneur selon l’annexe 1 ch. II 8 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 20
+
+**Limites**
+
+<sup>1</sup>
+
+Les placements de la fortune liée sont réputés non conformes s’ils dépassent l’une des limites ci-après, à moins qu’ils soient couverts de manière effective par des instruments financiers dérivés au sens de l’art. 19, al. 1, let. f:
+
+- a. tous les placements: 5 % de la fortune liée par débiteur; pour les placements visés à l’art. 19, al. 1, let. a, 20 % de la fortune liée par débiteur lorsque celui‑ci est une banque au sens de la loi du 8 novembre 1934 sur les banques[^20-1];
+- b. placements visés à l’art. 19, al. 1, let. c: 25 % de la fortune liée;
+- c.
+
+  placements visés à l’art. 19, al. 1, let. d: 25 % de la fortune liée et:
+
+  - 1\. 5 % au maximum de la fortune liée à l’étranger,
+  - 2\. 5 % au maximum de la fortune liée par objet, à moins que l’assureur ne s’en serve pour son propre usage;
+
+- d. placements en devises étrangères: 20 % de la fortune liée.
+
+<sup>2</sup> Les créances envers la Confédération, les cantons et les instituts suisses émettant des lettres de gage ne sont pas soumises à la limite fixée à l’al. 1, let. a.
+
+<sup>3</sup> Le DFI peut édicter des directives sur le calcul des limites.
+
+[^20-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 21
+
+**Limites en cas de placements collectifs**
+
+<sup>1</sup> Les placements et les devises étrangères compris dans les placements collectifs de capitaux sont pris en compte dans le calcul des limites de placements. Lorsqu’un placement collectif de capitaux est composé de divers types de placements visés à l’art. 19, al. 1, let. a à d, ou de différentes monnaies, il est réparti proportionnellement entre les catégories de placements ou de monnaies pour autant que les parts soient vérifiables. Si les parts ne sont pas vérifiables, il est entièrement attribué au type de placement soumis à la limite la plus sévère.
+
+<sup>2</sup>
+
+Les placements collectifs de capitaux sont réputés non conformes s’ils dépassent 5 % de la fortune liée par placement, à moins qu’ils remplissent les conditions suivantes:
+
+- a. leur diversification peut être vérifiée de façon appropriée;
+- b. les valeurs de la fortune peuvent être retirées au profit de l’investisseur en cas de faillite du placement collectif ou de sa banque de dépôt.
+
+#### Art. 22
+
+**Conservation des biens**
+
+<sup>1</sup> L’assureur doit confier à un dépositaire ses valeurs mobilières affectées à la fortune liée.
+
+<sup>2</sup> Il communique à l’autorité de surveillance le dépositaire et le lieu de dépôt ainsi que tout changement concernant ces indications.
+
+<sup>3</sup> Le dépositaire tient un inventaire des valeurs et les désigne comme appartenant à la fortune liée.
+
+<sup>4</sup> Le contrat de conservation doit prévoir que le dépositaire répond envers l’assureur de l’exécution des obligations de garde.
+
+<sup>5</sup> Si des raisons importantes le justifient, l’autorité de surveillance peut ordonner en tout temps un changement de dépositaire ou de lieu de dépôt.
+
+#### Art. 23
+
+**Vérification par l’autorité de surveillance**
+
+<sup>1</sup>
+
+L’autorité de surveillance vérifie au moins une fois par an:
+
+- a. si le débit est calculé correctement;
+- b.
+
+  si les biens affectés à la fortune liée:
+
+  - 1\. existent,
+  - 2\. sont affectés et conservés conformément aux prescriptions,
+  - 3\. correspondent au moins au débit de la fortune liée,
+  - 4\. satisfont aux prescriptions de placement du droit de la surveillance.
+
+<sup>2</sup> Elle peut limiter la vérification à des sondages.
+
+<sup>3</sup> Elle peut tenir compte des résultats d’une vérification opérée par les organes internes de l’assureur ou par l’organe de révision externe et de l’inventaire établi par le dépositaire.
+
+#### Art. 24
+
+**Utilisation du produit de la fortune liée**
+
+Le produit de la fortune liée sert en premier lieu à couvrir les créances découlant des rapports d’assurance et des contrats de réassurance garantis en vertu de l’art. 15 LSAMal. Le solde éventuel sert à couvrir les frais d’administration liés à l’octroi de ces créances.
+
+### Section 4 Primes de l’assurance obligatoire des soins
+
+#### Art. 25
+
+**Montant des primes**
+
+<sup>1</sup> Lorsqu’elle vérifie les tarifs de primes, l’autorité de surveillance contrôle que les recettes estimées de l’assureur couvrent ses dépenses estimées pour l’exercice annuel.
+
+<sup>2</sup> Les coûts au sens de l’art. 16, al. 3, LSAMal comprennent tous les coûts de l’assureur dans le canton en question, après déduction d’une quote-part des revenus de ses capitaux.
+
+<sup>3</sup> Les primes des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège doivent couvrir les coûts engendrés par les assurés de l’ensemble de ces États pour l’assureur, après déduction d’une quote-part des revenus de ses capitaux. Pour fixer les primes applicables aux assurés de ces États, l’assureur prend en compte les différences de coûts entre les États.
+
+<sup>4</sup> Pour déterminer la quote-part visée aux al. 2 et 3, l’assureur ne peut utiliser que les revenus de ses capitaux qui ne dépassent pas la moyenne des revenus des capitaux qu’il a réalisés durant les dix dernières années. La quote-part est fixée en fonction de l’estimation des recettes de primes dans le canton ou l’État concerné.
+
+<sup>5</sup> Les réserves sont excessives au sens de l’art. 16, al. 4, let. d, LSAMal lorsque la couverture du niveau minimal des réserves de l’assureur serait garantie à long terme avec un niveau inférieur de réserves. Pour en juger, l’autorité de surveillance se fonde sur le plan d’exploitation et sur les indications visées à l’art. 12, al. 3.
+
+#### Art. 26
+
+**Réduction volontaire des réserves excessives**
+
+<sup>1</sup> L’assureur peut réduire ses réserves si elles risquent de devenir excessives.
+
+<sup>2</sup> La réduction se déroule sur une ou plusieurs années. L’assureur établit un plan à cet effet. L’autorité de surveillance vérifie chaque année que les conditions pour réduire les réserves sont réunies.
+
+<sup>3</sup> La réduction des réserves s’opère sous la forme d’une compensation octroyée aux assurés. Son montant doit être réparti entre les assurés dans le champ territorial d’activité de l’assureur selon une clé de répartition équitable fixée par l’assureur.
+
+<sup>4</sup> L’assureur porte le montant de la compensation en déduction de la prime approuvée par l’autorité de surveillance et l’indique séparément sur la facture de la prime.
+
+#### Art. 27
+
+**Approbation des tarifs de primes**
+
+<sup>1</sup> L’assureur soumet à l’approbation de l’autorité de surveillance les tarifs de primes de l’assurance obligatoire des soins et leurs modifications au plus tard cinq mois avant leur application.
+
+<sup>2</sup> L’autorité de surveillance fixe dans une directive les documents et les informations qui doivent être joints aux tarifs et selon quels standards ils sont transmis.
+
+<sup>3</sup> Elle impartit un délai aux cantons pour donner leur avis au sens de l’art. 16, al. 6, LSAMal; elle tient compte à cet égard des délais prévus à l’art. 7, al. 2, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^27-1].
+
+<sup>4</sup> Elle approuve les tarifs de primes pour une année civile. Si, sur la base des documents qui lui ont été remis, elle doute de la conformité des primes avec les exigences de l’art. 16 LSAMal, elle peut approuver un tarif de primes pour une durée inférieure. L’assureur communique cette durée aux assurés en même temps que la nouvelle prime.
+
+[^27-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 28
+
+**Publication des primes**
+
+Si l’assureur publie le tarif de primes approuvé, il doit publier les primes de toutes les formes d’assurance qu’il pratique.
+
+### Section 5 Primes de l’assurance individuelle facultative d’indemnités journalières
+
+#### Art. 29
+
+Les art. 25, 26, 27, al. 1, 2 et 4, et 28 s’appliquent par analogie aux primes de l’assurance individuelle facultative d’indemnités journalières.
+
+### Section 6 Compensation des primes encaissées en trop
+
+#### Art. 30
+
+**Coûts cumulés**
+
+Les coûts cumulés d’un assureur correspondent à l’ensemble de ses coûts sur une année.
+
+#### Art. 31
+
+**Évaluation de la situation économique de l’assureur**
+
+L’assureur se trouve dans une situation économique qui permet une compensation des primes encaissées en trop si, après l’avoir effectuée, il dispose de réserves supérieures à 150 % du niveau minimal visé à l’art. 11, al. 1.
+
+#### Art. 32
+
+**Procédure**
+
+<sup>1</sup> L’autorité de surveillance fixe dans une directive les documents et les informations que l’assureur doit joindre à la demande d’approbation au sens de l’art. 17 LSAMal.
+
+<sup>2</sup> Elle communique sa décision aux cantons concernés.
+
+#### Art. 33
+
+**Modalités du remboursement**
+
+<sup>1</sup> Le montant de la compensation approuvé par l’autorité de surveillance doit être réparti entre les assurés selon une clé de répartition équitable fixée par l’assureur.
+
+<sup>2</sup> L’assureur communique aux assurés le montant de la ristourne au sens de l’art. 18 LSAMal.
+
+<sup>3</sup> Il porte le montant de la ristourne en déduction des primes dues et le fait figurer séparément sur la facture. Il peut également le verser séparément aux assurés.
+
+<sup>4</sup> Il peut le compenser avec des primes ou des participations aux coûts qui lui sont dues.
+
+### Section 7 Frais d’administration
+
+#### Art. 34
+
+**Répartition des frais d’administration**
+
+Les frais d’administration afférents à l’assurance-maladie sont répartis entre les assurances suivantes, en fonction de leurs charges réelles:
+
+- a. l’assurance obligatoire des soins;
+- b. l’assurance d’indemnités journalières;
+- c. les assurances complémentaires et les autres branches d’assurance.
+
+#### Art. 35
+
+**Activité d’intermédiaire et dépenses de publicité**
+
+<sup>1</sup> Est une activité d’intermédiaire au sens de l’art. 19 LSAMal toute activité par laquelle une personne met ses compétences ou ses services à la disposition de l’assureur contre rémunération dans le but de faciliter ou de permettre l’affiliation d’assurés.
+
+<sup>2</sup> Font notamment partie des dépenses de publicité toutes les dépenses liées à la prospection d’assurés, quels que soient le canal et le moyen utilisés.
+
+<sup>3</sup> Si les assureurs concluent un accord au sens de l’art. 19, al. 3, LSAMal, ils le communiquent à l’autorité de surveillance.
+
+## Chapitre 4 Gestion d’entreprise et révision
+
+### Section 1 Gestion des risques et système de contrôle interne
+
+#### Art. 36
+
+**Composition de l’organe d’administration**
+
+<sup>1</sup> L’organe d’administration est composé de façon à être en mesure d’assumer les tâches de surveillance et de haute direction de l’assureur de manière irréprochable. Il doit en particulier disposer de connaissances suffisantes en matière d’assurance.
+
+<sup>2</sup> Chaque membre de l’organe d’administration doit disposer des connaissances techniques nécessaires à l’accomplissement de sa tâche.
+
+#### Art. 37
+
+**Composition de l’organe de direction**
+
+<sup>1</sup> L’organe de direction est composé de façon à être en mesure d’assumer ses tâches.
+
+<sup>2</sup> Les membres de l’organe de direction doivent disposer des connaissances nécessaires à la conduite des secteurs qui leur sont subordonnés.
+
+#### Art. 38
+
+**Publication des liens d’intérêts**
+
+Quiconque entre en fonction au sein de l’organe d’administration ou de l’organe de direction doit indiquer les éléments suivants par écrit à l’autorité de surveillance:
+
+- a. les fonctions qu’il occupe au sein d’organes de direction, de surveillance, de conseil ou autres, dans des sociétés, établissements ou fondations suisses ou étrangers, de droit privé ou de droit public;
+- b. les fonctions qu’il exerce au sein de collectivités publiques;
+- c. les fonctions permanentes de direction ou de conseil qu’il exerce pour le compte de groupes d’intérêts suisses ou étrangers.
+
+#### Art. 39
+
+**Prévention des conflits d’intérêts**
+
+L’assureur édicte des directives internes pour prévenir les conflits d’intérêts. Il en remet un exemplaire à l’autorité de surveillance.
+
+#### Art. 40
+
+**Objectif et contenu de la gestion des risques et du système de contrôle interne**
+
+<sup>1</sup>
+
+Par une gestion des risques appropriée à son activité et par des mécanismes internes de contrôle, l’assureur garantit que:
+
+- a. les risques potentiels sont reconnus et évalués à temps; et
+- b. les mesures nécessaires pour empêcher ou couvrir des risques importants et les cumuls de risques sont prises à temps.
+
+<sup>2</sup>
+
+La gestion des risques comporte notamment:
+
+- a. la détermination et l’examen régulier, par les organes de l’assureur, des stratégies et des mesures concernant tous les risques courus;
+- b. une politique de couverture tenant compte des effets de la stratégie de l’assureur et comprenant une dotation en réserves adéquate;
+- c. des procédures adéquates garantissant que la surveillance de tous les risques est intégrée dans l’organisation de l’assureur;
+- d. l’identification, la surveillance, la quantification et le pilotage de tous les risques importants;
+- e. une analyse de l’impact des différents scénarios de risques déterminants et l’élaboration des plans d’urgence correspondants;
+- f. un système de rapports internes pour déterminer, évaluer et contrôler les risques et les concentrations de risques, ainsi que les processus qui leur sont liés.
+
+<sup>3</sup> Les mécanismes de contrôle interne comprennent des fonctions et des processus propres à garantir, dans leur ensemble, le respect des prescriptions légales et des directives internes.
+
+<sup>4</sup> La gestion des risques et les mécanismes de contrôle interne doivent être en adéquation avec la taille de l’assureur, la complexité de ses affaires et de son organisation et les risques qu’il court.
+
+#### Art. 41
+
+**Documentation relative à la gestion des risques et au système de contrôle interne**
+
+<sup>1</sup> L’assureur décrit sa gestion des risques et son système de contrôle interne dans une documentation. Il la tient régulièrement à jour.
+
+<sup>2</sup>
+
+Cette documentation couvre notamment les points suivants:
+
+- a. la description de l’organisation de la gestion des risques et du système de contrôle interne au niveau de l’assureur dans son ensemble et des compétences et responsabilités correspondantes;
+- b. les exigences en matière de gestion des risques et du système de contrôle interne;
+- c. la politique en matière de risques, y compris la tolérance aux risques;
+- d. la procédure d’identification des risques importants et les méthodes, instruments et processus permettant de les mesurer, de les surveiller et de les maîtriser;
+- e. la présentation du système de contrôle interne ainsi que des systèmes de limites en vigueur pour les expositions aux risques;
+- f. les directives internes concernant la gestion des risques, le système de contrôle interne et les processus qui leur sont liés.
+
+#### Art. 42
+
+**Organe de révision interne**
+
+<sup>1</sup> L’organe de révision interne est soumis directement à l’organe d’administration. Ce dernier en désigne le chef. L’organe de révision interne ne reçoit aucune directive de l’organe de direction. Il a libre accès aux informations et aux documents conservés à l’intérieur de l’entreprise dans la mesure où il en a besoin pour accomplir sa tâche.
+
+<sup>2</sup> Si les tâches de l’organe de révision interne sont déléguées à un tiers, l’al. 1 s’applique par analogie à ce dernier. Le système de contrôle interne ne peut pas être délégué à l’organe de révision externe de l’assureur.
+
+### Section 2 Gestion des risques concernant la fortune
+
+#### Art. 43
+
+**Principes de placement**
+
+<sup>1</sup> L’assureur doit placer, gérer et contrôler sa fortune avec soin.
+
+<sup>2</sup> Sont considérés comme fortune tous les biens à l’exception des valeurs des assurances régies par la LCA[^43-1].
+
+<sup>3</sup> L’assureur veille à la sécurité et à la durabilité des placements, garantit la liquidité nécessaire et répartit les risques de manière appropriée entre différentes catégories de placements, différentes régions, différents secteurs économiques et différents débiteurs.
+
+<sup>4</sup> Il définit une stratégie de placement adaptée à sa capacité de risque, la réexamine périodiquement et l’adapte au besoin.
+
+<sup>5</sup> Il s’efforce de réaliser un rendement approprié par rapport aux conditions qu’offrent les marchés monétaire, financier et immobilier.
+
+<sup>6</sup> Il dispose des connaissances relatives à sa stratégie de placement et applique les procédures nécessaires pour pouvoir apprécier en tout temps les risques de ses placements.
+
+<sup>7</sup> Il veille à ce que les placements soient simples à évaluer et que la solvabilité des débiteurs soit bonne et contrôlable.
+
+[^43-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 44
+
+**Exigences en matière de gestion de fortune**
+
+<sup>1</sup> L’assureur ne peut confier le placement et la gestion de sa fortune qu’à des personnes ou à des institutions dont les aptitudes et l’organisation permettent de garantir que les exigences de la LSAMal et de la présente ordonnance seront respectées.
+
+<sup>2</sup> Il fait en sorte que la gestion de sa fortune et son contrôle soient effectués par des personnes différentes.
+
+<sup>3</sup> Il conclut par écrit les éventuels mandats de placement ou de gestion de fortune confiés à des tiers.
+
+<sup>4</sup> Il conserve la fortune en Suisse.
+
+#### Art. 45
+
+**Règlement de placement**
+
+<sup>1</sup> L’assureur édicte un règlement de placement.
+
+<sup>2</sup>
+
+Le règlement de placement doit:
+
+- a. fixer la stratégie, les objectifs, les principes, l’organisation et les processus régissant la gestion de fortune;
+- b. régler le contrôle de la gestion de fortune;
+- c. contenir des prescriptions permettant d’éviter les conflits d’intérêts, notamment des prescriptions sur la licéité de la remise de commissions bancaires et sur la licéité des affaires pour son propre compte;
+- d. régler l’obligation faite aux personnes chargées de placer la fortune de signaler leurs intérêts;
+- e. fixer une solvabilité minimale des débiteurs.
+
+<sup>3</sup> Le règlement de placement et ses modifications doivent être transmis à l’autorité de surveillance pour information.
+
+#### Art. 46
+
+**Pondération du risque de placement**
+
+<sup>1</sup>
+
+Les placements suivants ne sont pas considérés comme risqués:
+
+- a. les placements visés à l’art. 19;
+- b. les placements dans des institutions qui servent à la pratique de l’assurance-maladie sociale.
+
+<sup>2</sup> Tous les autres placements et l’octroi de crédits hypothécaires sont considérés comme risqués.
+
+<sup>3</sup> Les placements visés à l’al. 1, let. b, qui représentent plus de 2 % de la fortune sont considérés comme risqués et doivent être communiqués à l’autorité de surveillance. Le DFI peut définir quels placements sont considérés comme des placements au sens de l’al. 1, let. b.
+
+#### Art. 47
+
+**Gestion des risques concernant les instruments financiers dérivés**
+
+<sup>1</sup> Lors de placements dans des instruments financiers dérivés au sens de l’art. 19, al. 1, let. f, l’assureur tient compte de leur négociabilité et de la solvabilité de la contrepartie.
+
+<sup>2</sup> Il remet chaque année à l’autorité de surveillance un rapport sur les opérations impliquant des instruments financiers dérivés.
+
+#### Art. 48
+
+**Exclusion du prêt de valeurs mobilières et des opérations de mise ou de prise en pension**
+
+<sup>1</sup> Le prêt de valeurs mobilières et les opérations de mise ou de prise en pension ne sont pas autorisés.
+
+<sup>2</sup> Le prêt de valeurs mobilières au sein d’un placement collectif de capitaux au sens de l’art. 19, al. 1, let. e, est autorisé lorsque le droit d’exiger la restitution des valeurs empruntées est garanti de manière effective.
+
+<sup>3</sup> Le DFI peut édicter des dispositions plus détaillées.
+
+### Section 3 Présentation des comptes et révision externe
+
+#### Art. 49
+
+**Principes**
+
+<sup>1</sup> L’assureur tient une comptabilité distincte pour l’assurance-maladie sociale.
+
+<sup>2</sup> L’Office fédéral de la santé publique (OFSP) peut fixer des exigences sur l’établissement des comptes.
+
+#### Art. 50
+
+**Rapport de gestion**
+
+<sup>1</sup> Le rapport de gestion doit être établi conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes dans leur version du 10 décembre 2014[^50-1] (dispositions RPC). Il se compose du rapport annuel et des comptes annuels (bilan, compte de résultats, tableau des flux de trésorerie, état du capital propre et annexe).
+
+<sup>2</sup> L’OFSP peut fixer des exigences particulières supplémentaires. S’il en fixe, l’assureur décide s’il applique les dispositions RPC ou les dispositions RPC complétées par les exigences particulières.
+
+<sup>3</sup> Les données principales par branche d’assurance au sens de l’art. 1*a*, al. 1, LAMal[^50-2] et les chiffres visés à l’art. 28*b* OAMal[^50-3] doivent être mentionnés dans le rapport de gestion.
+
+<sup>4</sup> L’assureur doit publier le rapport de gestion au plus tard le 30 juin de l’année suivant la fin de l’exercice.
+
+[^50-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
+[^50-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^50-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 51
+
+**Comptes annuels relevant du droit de la surveillance**
+
+<sup>1</sup> L’OFSP fixe des exigences particulières pour les comptes annuels relevant du droit de la surveillance.
+
+<sup>2</sup> Les comptes annuels relevant du droit de la surveillance sont établis conformément aux dispositions RPC[^51-1] complétées par les exigences particulières visées à l’al. 1.
+
+<sup>3</sup> L’assureur doit remettre les comptes annuels relevant du droit de la surveillance à l’autorité de surveillance au plus tard le 31 mars de l’année suivant la fin de l’exercice.
+
+[^51-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
+
+#### Art. 52
+
+**Organe de révision externe**
+
+<sup>1</sup> Les dispositions du code des obligations[^52-1] relatives à l’organe de révision des sociétés anonymes s’appliquent lorsque ni la LSAMal, ni la présente ordonnance ou les instructions de l’autorité de surveillance ne contiennent de prescriptions particulières pour les assureurs.
+
+<sup>2</sup> La responsabilité de l’organe de révision externe est régie par le droit de la société anonyme.
+
+<sup>3</sup> L’autorité de surveillance désigne l’organe de révision externe si l’assureur ne l’a pas désigné après sommation.
+
+<sup>4</sup> Lorsqu’un assureur désigne un nouvel organe de révision externe, il en informe l’autorité de surveillance.
+
+[^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 53
+
+**Tâches et compétences de l’organe de révision externe**
+
+<sup>1</sup> L’organe de révision externe contrôle les comptes annuels relevant du droit de la surveillance, les comptes annuels statutaires et la fortune liée selon les principes de la révision ordinaire.
+
+<sup>2</sup> L’autorité de surveillance charge l’organe de révision externe de contrôler chaque année que le système de contrôle interne est efficace et adapté à la taille et à la complexité de l’entreprise.
+
+<sup>3</sup> L’organe de révision externe peut procéder sur place à des révisions intermédiaires, notamment en cas de doute sur la tenue des comptes et sur la gestion.
+
+#### Art. 54
+
+**Rapports de l’organe de révision externe**
+
+<sup>1</sup>
+
+L’organe de révision externe établit chaque année les rapports suivants:
+
+- a. un rapport sur les comptes annuels conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes[^54-1];
+- b. un rapport détaillé adressé à l’organe d’administration, établi conformément aux dispositions du code des obligations[^54-2] et aux exigences de l’autorité de surveillance;
+- c. un rapport sur les comptes annuels relevant du droit de la surveillance, établi conformément aux instructions de l’autorité de surveillance.
+
+<sup>2</sup> Il remet ses rapports à l’autorité de surveillance et à l’organe de révision interne.
+
+[^54-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
+[^54-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+## Chapitre 5 Réassurance
+
+#### Art. 55
+
+**Nombre minimum d’assurés**
+
+Seules les caisses-maladie qui assurent au moins 300 000 personnes peuvent obtenir une autorisation de pratiquer la réassurance au sens de l’art. 28 LSAMal.
+
+#### Art. 56
+
+**Demande d’autorisation**
+
+La demande d’autorisation doit être soumise à l’autorité de surveillance au plus tard le 30 juin de l’année précédant celle où l’assureur entend pratiquer la réassurance pour la première fois.
+
+#### Art. 57
+
+**Début de la validité de l’autorisation**
+
+L’autorisation de pratiquer la réassurance prend effet au début d’une année civile.
+
+#### Art. 58
+
+**Retrait de l’autorisation**
+
+<sup>1</sup> L’autorité de surveillance peut retirer l’autorisation de pratiquer la réassurance à une caisse-maladie si elle assure moins de 300 000 personnes pendant plus d’un an.
+
+<sup>2</sup> Si le réassureur ne peut pas démontrer qu’il a réassuré des assureurs conformément à la LSAMal au cours des deux années précédentes, l’activité de réassurance est réputée terminée. L’autorité de surveillance lui retire son autorisation de pratiquer la réassurance.
+
+#### Art. 59
+
+**Contrats de réassurance**
+
+<sup>1</sup> L’assureur peut uniquement conclure des contrats de réassurance aux mêmes conditions que celles qu’il conviendrait avec un tiers indépendant.
+
+<sup>2</sup> Il peut s’engager à payer des primes de réassurance de 50 % au plus du total des primes dues par ses assurés.
+
+<sup>3</sup> Il doit présenter à l’autorité de surveillance le contrat de réassurance ou ses modifications pour approbation au plus tard un mois avant leur validité. Il y joint les comptes de résultat prévus pour toute la durée du contrat.
+
+<sup>4</sup> Il règle les modalités de résiliation dans les contrats de réassurance. Ceux-ci doivent pouvoir être résiliés pour la fin de chaque année civile. Le délai de résiliation doit être d’au moins six mois.
+
+<sup>5</sup> L’autorité de surveillance peut demander à l’assureur et au réassureur des données pour évaluer si les dispositions de l’al. 1 sont respectées.
+
+#### Art. 60
+
+**Obligations du réassureur**
+
+<sup>1</sup> Le réassureur doit constituer des provisions techniques selon des méthodes actuarielles reconnues.
+
+<sup>2</sup> À la demande de l’autorité de surveillance, il doit mettre à sa disposition les informations actuarielles principales relatives aux contrats de réassurance actuels et passés.
+
+## Chapitre 6 Surveillance
+
+#### Art. 61
+
+**Égalité de traitement des assurés et protection contre les abus**
+
+<sup>1</sup> L’assureur traite tous les assurés de manière égale, sans distinction de l’état de santé ou d’une indication à ce sujet, notamment pour l’admission dans l’assurance, le choix de la forme d’assurance, les communications aux assurés et le délai de remboursement des prestations.
+
+<sup>2</sup>
+
+Constituent des abus au sens de l’art. 34, al. 1, let. e, LSAMal:
+
+- a. le préjudice répété porté à un assuré;
+- b. le préjudice porté à un assuré par une inégalité de traitement importante et juridiquement ou actuariellement injustifiable;
+- c. le préjudice systématique porté à un groupe d’assurés.
+
+#### Art. 62
+
+**Coordination entre autorités de surveillance**
+
+<sup>1</sup>
+
+L’autorité de surveillance et l’Autorité fédérale de surveillance des marchés financiers coordonnent leurs activités de surveillance lorsque la pratique de l’assurance-maladie sociale a ou peut avoir une influence sur une assurance au sens de l’art. 2, al. 2, LSAMal. Ont une telle influence notamment:
+
+- a. des réserves inférieures au minimum prévu à l’art. 11;
+- b. des provisions inférieures au niveau fixé à l’art. 14;
+- c. une violation des dispositions sur la fortune liée;
+- d. le transfert d’un effectif d’assurés au sens des art. 9, al. 3, et 40 LSAMal;
+- e. une modification de la structure juridique de l’assureur, un transfert de patrimoine ou une participation au sens des art. 9 et 10 LSAMal;
+- f. toute infraction pénale ayant ou pouvant avoir une influence sur la pratique d’une assurance au sens de l’art. 2, al. 2, LSAMal;
+- g. une violation des dispositions sur la garantie d’une activité irréprochable, sur la gestion des risques et sur la révision;
+- h. une situation financière compromise;
+- i. des mesures conservatoires au sens de l’art. 38 LSAMal;
+- j. une violation des dispositions du droit de la surveillance.
+
+<sup>2</sup> L’autorité de surveillance et l’Autorité fédérale de surveillance des marchés financiers peuvent également coordonner leurs activités de surveillance en procédant à des échanges réguliers d’informations sur les entités soumises à leur surveillance.
+
+#### Art. 63
+
+**Annonce de faits de grande importance**
+
+Sont de grande importance au sens de l’art. 35, al. 3, LSAMal les faits suivants en particulier:
+
+- a. les conditions visées à l’art. 5 LSAMal ne sont plus remplies;
+- b. les réserves sont en dessous du niveau minimal prévu à l’art. 11 ou les provisions sont inférieures aux besoins au sens de l’art. 14;
+- c. toute infraction susceptible d’avoir une influence considérable sur l’assureur.
+
+#### Art. 64
+
+**Situation financière compromise**
+
+<sup>1</sup> La situation financière d’un assureur est compromise au sens de l’art. 38, al. 3, LSAMal lorsque tout porte à croire que l’assureur ne peut pas respecter les exigences légales pendant plus de deux ans sans prendre de mesures prévues à l’art. 38, al. 2, let. g et h, LSAMal.
+
+<sup>2</sup>
+
+Pour déterminer si la situation financière d’un assureur est compromise, l’autorité de surveillance examine en particulier:
+
+- a. si l’assureur enregistre une perte financière importante;
+- b. si les délais de valorisation des placements ne permettent pas un apport de liquidités suffisant;
+- c. si l’assureur enregistre un afflux massif de nouveaux assurés;
+- d. si la structure de l’effectif des assurés s’est détériorée.
+
+#### Art. 65
+
+**Transfert de l’effectif des assurés**
+
+<sup>1</sup> L’autorité de surveillance peut prendre toutes les mesures nécessaires pour garantir le transfert de l’effectif des assurés d’un assureur à un autre.
+
+<sup>2</sup> Lors du choix de l’assureur appelé à reprendre tout ou partie de l’effectif des assurés d’un autre assureur, l’autorité de surveillance veille à ce que le nouvel assureur puisse supporter la reprise sur les plans financier et institutionnel. Elle n’est pas tenue de prendre en compte la position concurrentielle des assureurs.
+
+#### Art. 66
+
+**Contrôle des transactions entre l’assureur et d’autres entreprises**
+
+Si l’autorité de surveillance vérifie une transaction visée à l’art. 44, al. 1, LSAMal, elle contrôle que celle-ci est conforme aux conditions du marché. Les conditions sont réputées conformes au marché si la transaction aurait été conclue aux mêmes conditions avec un tiers indépendant.
+
+## Chapitre 7 Institution commune
+
+#### Art. 67
+
+**Gestion d’entreprise et organe de révision externe**
+
+Les art. 36 à 39 et 52 à 54 s’appliquent par analogie à l’institution commune.
+
+#### Art. 68
+
+**Montant du fonds d’insolvabilité**
+
+Le conseil de fondation de l’institution commune fixe le montant du fonds d’insolvabilité en fonction des risques que le fonds doit entièrement couvrir. L’autorité de surveillance est invitée à donner son avis avant que la décision ne soit prise.
+
+#### Art. 69
+
+**Placement des ressources du fonds d’insolvabilité**
+
+<sup>1</sup> Le placement des ressources est régi par le règlement de placement édicté par le conseil de fondation de l’institution commune.
+
+<sup>2</sup> Le rendement du capital revient au fonds d’insolvabilité.
+
+<sup>3</sup> Les modifications du règlement de placement doivent être soumises au préalable à l’autorité de surveillance.
+
+## Chapitre 8 Autorité de surveillance
+
+#### Art. 70
+
+**Surveillance de l’institution commune**
+
+<sup>1</sup> L’autorité de surveillance examine la situation financière de l’institution commune et veille à ce qu’elle exécute les tâches qui lui sont confiées dans le respect de la loi.
+
+<sup>2</sup> Les art. 34 et 35, al. 3, LSAMal s’appliquent par analogie à l’institution commune.
+
+#### Art. 71
+
+**Information du public**
+
+L’autorité de surveillance met les informations suivantes à la disposition du public:
+
+- a. une liste des assureurs admis à pratiquer l’assurance-maladie sociale, avec mention de leur forme juridique, de leur siège, de leur champ territorial d’activité, de leur effectif d’assurés et du groupe d’assurance dont ils font partie;
+- b. une liste des réassureurs admis à pratiquer la réassurance dans l’assurance-maladie sociale, avec mention de leur forme juridique, de leur siège et du groupe d’assurance dont ils font partie;
+- c. les tarifs de primes qu’elle a approuvés et la durée pour laquelle elle les a approuvés;
+- d. en cas de primes encaissées en trop, le montant de la compensation qui a été approuvé au sens de l’art. 17 LSAMal.
+
+## Chapitre 9 Dispositions finales
+
+#### Art. 72
+
+**Modification d’autres actes**
+
+La modification d’autres actes est réglée en annexe.
+
+#### Art. 73
+
+**Dispositions transitoires**
+
+<sup>1</sup> L’autorité de surveillance retire à l’assureur qui ne compte aucun assuré pendant les deux années qui suivent l’entrée en vigueur de la présente ordonnance l’autorisation de pratiquer l’assurance-maladie sociale. Elle le libère de la surveillance.
+
+<sup>2</sup> La documentation visée à l’art. 41 est fournie pour la première fois à l’autorité de surveillance au plus tard deux mois avant le délai visé à l’art. 59, al. 1, LSAMal.
+
+<sup>3</sup> Les informations visées à l’art. 38 sont communiquées pour la première fois à l’autorité de surveillance au plus tard deux mois avant le délai visé à l’art. 59, al. 2, LSAMal.
+
+<sup>4</sup> L’assureur veille à ce que ses réserves aient atteint le niveau minimal visé à l’art. 11 un an après l’entrée en vigueur de la présente ordonnance.
+
+<sup>5</sup>
+
+Avant la date visée à l’al. 4, les assureurs dont les réserves n’atteignent pas le niveau minimal doivent respecter les conditions suivantes:
+
+- a. disposer des réserves de sécurité visées à l’art. 78, al. 4, OAMal[^73-1] dans sa version du 26 avril 2006[^73-2];
+- b. disposer d’une réassurance s’ils assurent moins de 50 000 personnes dans l’assurance obligatoire des soins.
+
+<sup>6</sup> L’assureur porte le règlement de placement à la connaissance de l’autorité de surveillance dans les deux ans qui suivent l’entrée en vigueur de la présente ordonnance.
+
+<sup>7</sup> Il place sa fortune conformément aux art. 43 à 48 avant la fin de l’exercice de la deuxième année qui suit l’entrée en vigueur de la présente ordonnance.
+
+<sup>8</sup> Il communique à l’autorité de surveillance les placements visés à l’art. 46, al. 1, let. b, qui existent à l’entrée en vigueur de la présente ordonnance dans les deux ans qui suivent l’entrée en vigueur de la présente ordonnance.
+
+[^73-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^73-2]: [RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
+
+#### Art. 74
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
+
+Annexe
+
+(art. 72)
+
+## Modification d’autres actes
+
+Les ordonnances mentionnées ci-après sont modifiées comme suit:
+
+...[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).

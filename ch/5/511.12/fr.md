@@ -1,0 +1,302 @@
+---
+sr: "511.12"
+title: "Ordonnance du 24 novembre 2004 concernant l'appréciation médicale de l'aptitude au service militaire et de l'aptitude à faire du service militaire (OAMAS)"
+short: OAMAS
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
+language: fr
+version: 2021-01-01
+adopted: 2004-11-24
+in_force: 2005-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-748-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire
+
+(OAMAS)**[^t-1]**
+
+du 24 novembre 2004 (Etat le 1<sup>er</sup> janvier 2021)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+Le Conseil fédéral suisse,
+
+vu les art. 20, al. 3, et 150, al. 1, de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire (LAAM)[^ingress-1],
+
+vu l’art. 34 de la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile[^ingress-2],[^ingress-3]
+
+arrête:
+
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-3]: Nouvelle teneur selon l’annexe 6 ch. II 3 de l’O du 11 nov. 2020 sur la protection civile, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle la procédure applicable à l’appréciation médicale de l’aptitude au service militaire[^1-1] et de l’aptitude à faire du service militaire[^1-2].
+
+[^1-1]: Nouvelle expression selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-2]: Nouvelle expression selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 2
+
+**Aptitude au service militaire et aptitude à faire du service militaire**[^2-1]
+
+<sup>1</sup> Est apte au service militaire la personne qui, du point de vue médical, satisfait physiquement, intellectuellement et psychiquement aux exigences du service militaire et qui, dans l’accomplissement de ce service, ne nuit pas à sa santé ou à celle d’autrui.
+
+<sup>2</sup> Est apte à faire du service militaire la personne apte au service militaire qui, du point de vue médical, est en mesure d’effectuer le service militaire à venir.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+## Section 2 Autorités et compétence
+
+#### Art. 3
+
+[^3-1]
+
+[^3-1]: Abrogé par le ch. I de l’O du 14 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+#### Art. 4
+
+**Commissions de visite sanitaire**
+
+<sup>1</sup> Le médecin en chef de l’armée forme les commissions de visite sanitaire (CVS) qui procèdent à l’appréciation médicale de l’aptitude au service militaire.
+
+<sup>2</sup> Chaque CVS comprend un président et au moins un membre adjoint titulaires d’un diplôme fédéral de médecine et incorporés comme médecins militaires ou engagés par l’armée.
+
+<sup>3</sup> Les CVS disposent d’un secrétariat chargé des travaux administratifs.
+
+#### Art. 5
+
+**Appréciation médicale de l’aptitude à faire service**
+
+<sup>1</sup>
+
+Sont responsables de l’appréciation médicale de l’aptitude à faire service:
+
+- a. durant le service: les médecins responsables de l’assistance à la troupe;
+- b.[^5-1] en dehors du service: les médecins des Affaires sanitaires de la Base logistique de l’armée (BLA) employés à cet effet;
+- c. pour les membres des Forces aériennes ayant des fonctions particulières: l’IMA.
+
+<sup>2</sup> Les médecins chargés de l’assistance à la troupe sont liés par la décision de la CVS.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+## Section 3 Procédure de la commission de visite sanitaire
+
+#### Art. 6
+
+**Moment**[^6-1]
+
+L’aptitude au service militaire des conscrits est soumise à l’appréciation médicale lors du recrutement.
+
+[^6-1]: Nouvelle teneur selon le ch. I 7 de l’O du 3 déc. 2010 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)). Abrogé par le ch. I de l’O du 14 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+#### Art. 6a
+
+**Appréciation après le recrutement**[^6a-1]
+
+<sup>1</sup> La personne soumise à l’appréciation médicale après le recrutement est convoquée à une journée d’examen médical et d’appréciation médicale (EAM).
+
+<sup>2</sup> Le Service médico-militaire (S méd mil) des Affaires sanitaires de la BLA désigne la CVS compétente.
+
+<sup>3</sup>
+
+Jusqu’à l’appréciation médicale, la personne convoquée est dispensée:
+
+- a. d’entrer au service d’instruction;
+- b. d’entrer au service d’appui ou au service actif de l’armée;
+- c. d’accomplir du tir obligatoire hors du service.
+
+<sup>4</sup> Si les certificats médicaux et autres rapports suffisent pour l’appréciation, la CVS compétente peut prendre une décision en l’absence de la personne concernée, d’entente avec cette dernière.
+
+[^6a-1]: Introduit par le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+#### Art. 7
+
+**Demande**[^7-1]
+
+Les personnes et les services visés à l’art. 20, al. 1, LAAM, peuvent déposer une demande d’appréciation médicale par une CVS auprès du S méd mil. La demande doit être motivée, accompagnée des moyens de preuve nécessaire et déposée par écrit.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+#### Art. 8
+
+**Investigations complémentaires**
+
+Les CVS peuvent ordonner des investigations complémentaires si elles ne sont pas en mesure de prendre une décision sur la base de leurs propres examens, du dossier ou des renseignements obtenus.
+
+#### Art. 9
+
+**Décision**
+
+<sup>1</sup> La CVS prend une décision concernant l’aptitude au service militaire conformément aux prescriptions de l’annexe 1; en cas d’égalité des voix, la décision finale revient au président.[^9-1]
+
+<sup>2</sup> Si l’un des membres de la CVS n’est pas d’accord avec la décision qui a été prise, il peut demander l’inscription de ses objections au dossier.
+
+<sup>3</sup> La décision est exposée oralement et notifiée par écrit à la personne examinée, et éventuellement communiquée à la personne ou au service qui a déposé la demande.[^9-2]
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Erratum du 16 janv. 2018 ([RO 2018 85](https://fedlex.data.admin.ch/eli/oc/2018/27)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+
+## Section 4 Protection de la personnalité****
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon l’annexe 36 ch. 4 de l’O du 16 déc. 2009 sur les systèmes d’information de l’armée, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
+
+#### Art. 10
+
+**Protection de la sphère privée**
+
+<sup>1</sup> Lors de l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire service, la sphère privée de la personne qui doit être examinée doit être protégée.
+
+<sup>2</sup> La présence de tiers n’est autorisée qu’avec l’accord de la personne qui doit être examinée.
+
+#### Art. 11
+
+**Secret de service, secret de fonction et secret professionnel**
+
+Toutes les constatations faites durant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire sont soumises au secret de service, au secret de fonction et au secret professionnel.
+
+#### Art. 12
+
+**Traitement des données**[^12-1]
+
+Les Affaires sanitaires de la BLA traitent les données personnelles selon les art. 6 et 7 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^12-2].
+
+[^12-1]: Nouvelle teneur selon le ch. I 7 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^12-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+
+#### Art. 13
+
+[^13-1]
+
+[^13-1]: Abrogé par l’annexe 36 ch. 4 de l’O du 16 déc. 2009 sur les systèmes d’information de l’armée, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
+
+## Section 5 Voies de droit
+
+#### Art. 14
+
+**Recours**[^14-1]
+
+<sup>1</sup> Un recours peut être déposé auprès du S méd mil contre la décision en première instance de la CVS dans un délai de 30 jours après la notification de la décision en question.
+
+<sup>2</sup> Dans la mesure où l’art. 39 LAAM et les art. 14 et 15 de la présente ordonnance n’en disposent pas autrement, les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^14-2] s’appliquent à la procédure de recours.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+[^14-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 15
+
+**Frais**
+
+La procédure de recours est gratuite.
+
+## Section 6 Dispositions finales
+
+#### Art. 16
+
+**Exécution**
+
+<sup>1</sup> Le Département fédéral de la défense, de la protection de la population et des sports exécute la présente ordonnance.
+
+<sup>2</sup> Le médecin en chef de l’armée est autorisé, dans le cadre de ses compétences, à édicter des directives.
+
+#### Art. 17
+
+**Abrogation et modification du droit en vigueur**
+
+<sup>1</sup> L’ordonnance du 9 septembre 1998 concernant l’appréciation médicale de l’aptitude au service et de l’aptitude à faire service[^17-1] est abrogée.
+
+<sup>2</sup> L’ordonnance du 10 avril 2002 sur le recrutement[^17-2] est modifiée conformément à l’annexe 3.
+
+[^17-1]: [[RO 1998 2656](https://fedlex.data.admin.ch/eli/oc/1998/2656_2656_2656)**,** [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)appendice 2 ch. 3]
+[^17-2]: [[RO 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 ch. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)annexe 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)ch. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)ch. II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)annexe 36 ch. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)ch. I 6, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)ch. I 2. [RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)annexe 7 ch. I 1]
+
+#### Art. 18
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2005.
+
+Annexe 1*[^t-2]*
+
+(art. 9, al. 1)
+
+## Décisions des CVS concernant l’aptitude au service militaire
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Erratum du 9 oct. 2018 ([RO 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)).
+
+Les décisions des CVS concernant l’aptitude au service militaire ont la teneur et les effets suivants:
+
+### 1. Conscrits et militaires
+
+- 1\.1 *«**Apte au service militaire**»*
+- La personne examinée peut être instruite et engagée sans réserve dans une fonction conforme au profil d’exigences.
+- 1\.2 *«**Apte au service militaire, inapte au tir**»*
+- La personne examinée peut être instruite et engagée dans une fonction conforme au profil d’exigences, mais elle ne reçoit pas d’arme personnelle ou doit la restituer pour des raisons médicales. La mention «ouïe» signifie qu’elle ne doit pas être engagée dans un domaine générant de fortes nuisances sonores (tirs, explosifs ou machines de chantier).
+- 1\.3 *«Apte au service militaire, interdiction de conduire des véhicules à moteur militaires»*
+- La personne examinée est apte au service militaire, mais elle ne peut pas conduire des véhicules à moteur militaires pour des raisons médicales.
+- 1*.*4 *«Apte au service militaire, avec restrictions»*
+- La personne examinée est apte au service militaire, mais son aptitude à la marche, à porter ou à soulever des charges, est légèrement ou considérablement réduite. Elle ne peut être instruite et engagée que dans des fonctions différenciées prévues à cet effet (selon les profils d’exigences).
+- 1\.5 *«Apte au service militaire, seulement pour le service arrière»*
+- La personne examinée ne peut être incorporée que dans certaines fonctions choisies, conformes au profil d’exigences, qui n’impliquent pas d’engagement de combat. Elle ne reçoit pas d’arme personnelle pour des raisons médicales ou doit la restituer.
+- 1\.6 *«**Inapte au service militaire**»*
+- La personne examinée ne répond pas aux exigences du service militaire pour des raisons médicales.
+
+### 2. Conscrits
+
+- 2\.1 *«**Ajourné au recrutement complémentaire**»*
+- La personne examinée ne répond pas, pour des raisons médicales, aux exigences du service militaire au moment de l’appréciation. Une nouvelle appréciation sera effectuée lors du recrutement complémentaire.
+- 2\.2 *«**Ajourné à une année**»*
+- La personne examinée ne répond pas, pour des raisons médicales, aux exigences du service militaire au moment de l’appréciation. Une nouvelle appréciation sera effectuée lors du recrutement de l’année suivante.
+- 2\.3 *«**Ajourné à deux années**»*
+- La personne examinée ne répond pas, pour des raisons médicales, aux exigences du service militaire au moment de l’appréciation. Une nouvelle appréciation sera effectuée lors du recrutement dans deux ans.
+- 2\.4 La durée totale des ajournements ne doit pas excéder quatre ans.
+
+### 3. Militaires
+
+- 3\.1 *«Apte au service militaire, inapte au service d’avancement»*
+- La personne examinée est apte au service militaire, mais elle ne peut pas être convoquée à un service d’avancement pour des raisons médicales.
+- 3\.2 *«Apte au service militaire, seulement pour l’instruction et le support»*
+- La personne examinée est apte au service militaire, mais elle ne doit être incorporée que dans une formation de l’instruction et du support. L’aptitude à la marche, à porter ou à soulever des charges est légèrement ou fortement diminuée. La personne n’est instruite et engagée que dans certaines fonctions.
+- 3\.3 *«Dispensé jusqu’au …»*
+- Une dispense est autorisée pour une durée de deux ans au plus. Pendant la dispense, la personne examinée est libérée, pour des raisons médicales, du service militaire et des obligations hors du service, à l’exception de l’obligation de s’annoncer et de l’obligation de garder et d’entretenir son équipement personnel. Une fois la dispense échue, elle est de nouveau apte au service militaire.
+- 3\.4 *«Dispensé jusqu’au … avec nouvelle appréciation»*
+- En tant que «dispensée», la personne examinée sera convoquée à nouveau et examinée par la CVS avant l’expiration de la dispense.
+
+### 4. Décision de la CVS spéciale
+
+- *«Apte au service militaire uniquement dans des fonctions particulières, sous réserve, inapte au tir»*
+- En principe, la personne examinée devrait être déclarée inapte au service militaire et au service de protection civile pour des raisons médicales. Si elle est assujettie à la taxe d’exemption et qu’elle a exprimé par écrit sa volonté d’effectuer du service, elle peut être incorporée comme soldat d’exploitation dans une formation de l’instruction et du support (détachement d’exploitation [dét exploit]) par une CVS constituée spécialement à cet effet. Les exigences du service doivent correspondre à l’activité civile ainsi qu’aux aptitudes physiques et intellectuelles de la personne concernée. Le médecin qui préside la CVS peut émettre des réserves contraignantes en vue de l’accomplissement du service. Il convient de vérifier systématiquement les points suivants en tant que contraintes: activités sportives et nécessité de loger chez soi. La personne concernée ne reçoit pas d’arme personnelle ou doit la restituer.
+
+### 5. Décisions combinées
+
+- 5\.1 *Conscrits et militaires*
+- Les décisions *«apte au service militaire, inapte au tir», «apte au service militaire, inapte à la fonction militaire de chauffeur», «apte au service militaire avec restrictions», «apte au service militaire, seulement pour le service arrière»* peuvent être combinées.
+- 5\.2 *Possibilité supplémentaire pour les militaires*
+- La décision *«apte au service militaire, inapte au service d’avancement»* peut être combinée avec les décisions *«apte au service militaire, inapte au tir», «apte au service militaire, inapte à la fonction militaire de chauffeur», «apte au service militaire avec restrictions», «apte au service militaire, seulement pour le service arrière».*
+- La décision *«apte au service militaire, seulement pour l’instruction et le support»* peut être combinée avec les décisions *«apte au service militaire, inapte au tir», «apte au service militaire, inapte à la fonction militaire de chauffeur».*
+- 5\.3 *Décision de la CVS spéciale*
+- La décision *«apte au service militaire uniquement dans des fonctions particulières, sous réserve, inapte au tir»* peut être combinée avec la décision *«apte au service militaire, inapte à la fonction militaire de chauffeur».*
+
+Annexe 2*[^t-3]*
+
+[^t-3]: Abrogée par l’annexe 36 ch. 4 de l’O du 16 déc. 2009 sur les systèmes d’information de l’armée, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
+
+Annexe 3
+
+(art. 17, al. 2)
+
+## Modifications du droit en vigueur
+
+…[^annex3-lvlu1-1]
+
+[^annex3-lvlu1-1]: La mod. peut être consultée au [RO 2004 4955](https://fedlex.data.admin.ch/eli/oc/2004/748).

@@ -1,0 +1,63 @@
+---
+sr: "0.653.215.8"
+title: "Échange de lettres du 8/14 décembre 2016 entre la Suisse et l'Australie concernant l'application anticipée de la Convention sur l'assistance administrative"
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/831"
+language: fr
+version: 2017-01-01
+adopted: 2016-12-14
+in_force: 2017-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/831/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-831-20170101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/831/20170101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Echange de lettres entre la Suisse et l’Australie concernant l’application anticipée de la Convention sur l’assistance administrative
+
+RO **2016** 5279
+
+Entré en vigueur le 1<sup>er</sup> janvier 2017
+
+(Etat le 1<sup>er</sup> janvier 2017)
+
+Traduction*[^ingress-1]*
+
+<table>
+<tr><td>Ueli Maurer Conseiller fédéral Département fédéral des finances Bundesgasse 3 CH-3003 Berne Suisse</td><td>Berne, le 8 décembre 2016 L’honorable Kelly O’Dwyer, députée Ministre de la fiscalité et des services financiers Parliament House Canberra ACT 2600 Australie</td></tr>
+</table>
+
+Madame la Ministre,
+
+J’ai l’honneur de me référer à la déclaration commune signée le 3 mars 2015 et exprimant la volonté de la Suisse et de l’Australie d’introduire, sur une base réciproque, l’échange automatique de renseignements sur les comptes financiers à compter de 2017 (avec une première transmission des données en 2018), en se fondant sur (i) la *norme commune de déclaration de l’OCDE* et les *commentaires* y afférents et sur (ii) la *Convention multilatérale du 25 janvier 1988 concernant l’assistance administr**a**tive mutuelle en matière fiscale*[^ingress-2], modifiée par le *protocole du 27 mai 2010* (désignée ci-après par «convention révisée»).
+
+Cet échange de renseignements sera régi par l’art. 6 de la convention révisée et par l’Accord multilatéral du 29 octobre 2014 entre autorités compétentes en matière d’échange automatique de renseignements relatifs aux comptes financiers[^ingress-3] (*Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information*, désigné ci‑après par «MCAA»). La convention révisée s’applique, en vertu de son art. 28, par. 6, à l’assistance administrative couvrant les périodes d’imposition qui débutent le 1<sup>er</sup> janvier, ou après le 1<sup>er</sup> janvier de l’année qui suit celle durant laquelle la convention révisée entre en vigueur à l’égard d’une partie ou, en l’absence de période d’imposition, à l’assistance administrative portant sur des obligations fiscales qui prennent naissance le 1<sup>er</sup> janvier, ou après le 1<sup>er</sup> janvier de l’année qui suit celle durant laquelle la convention révisée entre en vigueur à l’égard d’une partie.
+
+En vertu de l’art. 28, par. 6, de la convention révisée, deux parties ou plus peuvent convenir que la convention révisée s’applique à l’assistance administrative portant sur des périodes d’imposition ou des obligations fiscales antérieures. J’ai donc l’honneur de proposer, au nom du Conseil fédéral suisse, de convenir pour la Suisse et l’Australie que l’art. 6 de la convention révisée s’applique à l’assistance administrative prévue par le MCAA pour des périodes fiscales débutant le 1<sup>er</sup> juillet 2016 ou après cette date, ou à des obligations fiscales prenant naissance le 1<sup>er</sup> juillet 2016 ou après cette date. À cet égard, il est entendu, sur la base des notifications déposées en vertu de la section 7, par. 1, let. a, MCAA par chaque pays, qu’aucun renseignement concernant des années civiles antérieures à 2017 ne sera échangé.
+
+Si le Gouvernement d’Australie accepte la proposition qui précède, j’ai l’honneur de suggérer en outre que la présente lettre et votre réponse reflétant votre approbation soient considérées comme un accord en la matière entre nos deux gouvernements, qui s’applique à partir du 1<sup>er</sup> janvier 2017.
+
+Veuillez agréer, Madame la Ministre, les assurances de ma très haute considération.
+
+Ueli Maurer Conseiller fédéral
+
+<table>
+<tr><td>L’honorable Kelly O’Dwyer, députée Ministre de la fiscalité et des services financiers Parliament House Canberra ACT 2600 Australie</td><td>Australie, le 14 décembre 2016 Ueli Maurer Conseiller fédéral Département fédéral des finances Bundesgasse 3 CH-3003 Berne Suisse</td></tr>
+</table>
+
+Monsieur le Conseiller fédéral,
+
+J’ai l’honneur de me référer à votre lettre du 8 décembre 2016 concernant l’introduction, sur une base réciproque, de l’échange automatique de renseignements sur les comptes financiers à compter de 2017 (avec une première transmission des données en 2018), en se fondant sur (i) la *norme commune de déclaration de l’OCDE* et les *commentaires* y afférents et sur (ii) la *Convention multilatérale du 25 janvier 1988 co**n**cernant l’assistance admini**s**trative mutuelle en matière fiscale*, modifiée par le *protocole du 27 mai 2010* (désignée ci-après par «convention révisée»).
+
+Cet échange de renseignements sera régi par l’art. 6 de la convention révisée et par l’Accord multilatéral du 29 octobre 2014 entre autorités compétentes en matière d’échange automatique de renseignements relatifs aux comptes financiers (*Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information*, désigné ci‑après par «MCAA»). La convention révisée s’applique, en vertu de son art. 28, par. 6, à l’assistance administrative couvrant les périodes d’imposition qui débutent le 1<sup>er</sup> janvier, ou après le 1<sup>er</sup> janvier de l’année qui suit celle durant laquelle la convention révisée entre en vigueur à l’égard d’une partie ou, en l’absence de période d’imposition, à l’assistance administrative portant sur des obligations fiscales qui prennent naissance le 1<sup>er</sup> janvier, ou après le 1<sup>er</sup> janvier de l’année qui suit celle durant laquelle la convention révisée entre en vigueur à l’égard d’une partie.
+
+En vertu de l’art. 28, par. 6, de la convention révisée, deux parties ou plus peuvent convenir que la convention révisée s’applique à l’assistance administrative portant sur des périodes d’imposition ou des obligations fiscales antérieures. J’ai donc l’honneur d’accepter, au nom du Gouvernement d’Australie, votre proposition visant à convenir pour la Suisse et l’Australie que l’art. 6 de la convention révisée s’applique à l’assistance administrative prévue par le MCAA pour des périodes des périodes fiscales débutant le 1<sup>er</sup> juillet 2016 ou après cette date, ou à des obligations fiscales prenant naissance le 1<sup>er</sup> juillet 2016 ou après cette date. À cet égard, il est entendu, sur la base des notifications déposées en vertu de la section 7, par. 1, let. a, MCAA par chaque pays, qu’aucun renseignement concernant des années civiles antérieures à 2017 ne sera échangé.
+
+Je confirme que votre lettre et la présente réponse constituent un accord en la matière entre nos deux gouvernements, qui s’applique à partir du 1<sup>er</sup> janvier 2017.
+
+Veuillez agréer, Monsieur le Conseiller fédéral, les assurances de ma très haute considération.
+
+Kelly O’Dwyer
+
+[^ingress-1]: Texte original anglais.
+[^ingress-2]: [RS 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
+[^ingress-3]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)

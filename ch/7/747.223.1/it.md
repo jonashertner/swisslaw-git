@@ -1,0 +1,1794 @@
+---
+sr: "747.223.1"
+title: "Ordinanza del 17 marzo 1976 concernente la navigazione sul lago di Costanza (Regolamento della Navigazione sul lago di Costanza, RNC)"
+short: RNC
+eli: "https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338"
+language: it
+version: 2014-01-01
+adopted: 1976-03-17
+in_force: 1976-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20140101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la navigazione sul lago di Costanza
+
+(Regolamento della Navigazione sul lago di Costanza, RNC)**[^t-1]**
+
+del 17 marzo 1976[^t-2] (Stato 1° gennaio 2014)
+
+[^t-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 56 della legge federale del 3 ottobre 1975[^ingress-1] sulla navigazione interna; visto l’articolo 5 della Convenzione del 1° giugno 1973[^ingress-2] per la navigazione sul Lago di Costanza; approvando il Regolamento della Navigazione sul lago di Costanza adottato il 13 gennaio 1976 dalla Commissione internazionale della navigazione,
+
+ordina:*[^ingress-3]*
+
+[^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^ingress-2]: [RS 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
+[^ingress-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+## Parte prima: Norme generali
+
+#### Art. 0.01
+
+**Campo d’applicazione**[^001-1]
+
+La presente ordinanza si applica:
+
+- a. al lago di Costanza, compreso il lago inferiore;
+- b. al vecchio Reno a partire dal ponte tra Rheineck e Gaissau fino allo sbocco nel lago di Costanza;
+- c. al nuovo Reno a partire dal ponte tra Hard e Fussach fino allo sbocco nel lago di Costanza;
+- d. ai tronchi del Reno tra Costanza e il ponte stradale collegante Sciaffusa e Feuerthalen.
+
+[^001-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 0.02
+
+**Definizioni**
+
+Nella presente ordinanza:
+
+- a. il termine *«nave»* designa i battelli della navigazione interna, compresi i canotti e le chiatte da traghetto, altre costruzioni galleggianti destinate allo spostamento, come anche gli apparecchi galleggianti;
+- b. il termine *«nave motorizzata»* designa ogni nave provvista di propri mezzi di propulsione;
+- c. il termine *«convoglio rimorchiato»* designa ogni gruppo composto di una o più navi rimorchiate e di una o più navi rimorchiatrici motorizzate; se sono rimorchiate navi da diporto, l’insieme non è considerato convoglio rimorchiato;
+- d. il termine *«apparecchio galleggiante»* designa le costruzioni galleggianti provviste di attrezzature meccaniche e destinate ad essere adoperate sull’acqua, come le draghe, le bighe, le gru, ecc.;
+- e. il termine *«impianto galleggiante»* designa le istallazioni normalmente non destinate ad essere spostate, come gli stabilimenti balneari, le calate, i pontili d’approdo, le rimesse per battelli, nonché le istallazioni destinate all’abitazione e allo sport;
+- f. il termine *«nave prioritaria»* designa le navi cui l’autorità competente ha attribuito una priorità secondo l’articolo 1.15;
+- g. il termine *«nave passeggeri»* designa le navi destinate al trasporto di passeggeri o adoperate per questi trasporti;
+- h. il termine *«nave mercantile»* designa le navi destinate al trasporto di merci o adoperate per questi trasporti;
+- i. il termine *«nave a vela»* designa le navi che navigano a vela; le navi che navigano a vela e adoperano simultaneamente i loro propri mezzi meccanici di propulsione sono considerate navi motorizzate;
+- j. il termine *«nave a remi»* designa le navi mosse da remi o da altre istallazioni azionate dalla forza umana;
+- k. il termine *«nave da diporto»* designa le navi destinate a scopi sportivi o ricreativi o adoperate a tal fine;
+- l. una nave, una costruzione galleggiante o un impianto galleggiante è *«stazio**nante»* qualora sia direttamente o indirettamente ormeggiato all’ancora o attraccato;
+- m. una nave, una costruzione galleggiante o un impianto galleggiante *«fa rotta»* oppure *«naviga»* quando, direttamente o indirettamente, non è ormeggiato all’ancora, attraccato o in secco;
+- n. il termine *«notte»* designa l’intervallo tra il tramonto e la levata del sole;
+- o. il termine *«giorno»* designa l’intervallo tra la levata e il tramonto del sole;
+- p.[^002-1] la *«direttiva sulle imbarcazioni da diporto»* designa la direttiva 94/25/CE[^002-2];
+- q.[^002-3]
+
+  per *«sostanze che possono inquinare l’acqua»* s’intendono le sostanze e le miscele[^002-4] che:
+
+  - 1\.
+
+    sono classificate come pericolose per l’ambiente secondo l’allegato I parte 4 del Regolamento (CE) n. 1272/2008[^002-5] e devono essere contrassegnate con il pittogramma di pericolo GHS09 (ambiente) e con almeno una delle seguenti denominazioni di pericolo:
+
+    - – H400 altamente tossico per gli organismi acquatici
+    - – H410 molto tossico per gli organismi acquatici con effetti di lunga durata, oppure
+    - – H411 tossico per gli organismi acquatici con effetti di lunga durata,
+
+  - 2\.
+
+    sono classificate come pericolose per l’ambiente secondo la direttiva 67/548/CEE[^002-6] o la direttiva 1999/45/CE[^002-7] e devono essere contrassegnate con il simbolo N, con la denominazione di pericolo «pericoloso per l’ambiente» e con almeno una delle seguenti denominazioni riferite a pericoli particolari, anche in combinazione con la frase R 53 (può provocare a lungo termine effetti negativi per l’ambiente acquatico):
+
+    - – R50 altamente tossico per gli organismi acquatici,
+    - – R51 tossico per gli organismi acquatici;
+
+- r.[^002-8] per *«merci pericolose»* si intendono le sostanze e gli oggetti il cui trasporto secondo l’allegato all’Accordo europeo del 26 maggio 2000[^002-9] sul trasporto internazionale di merci pericolose per via navigabile interna (ADN), nella versione in vigore, e gli allegati A e B all’Accordo europeo del 30 settembre 1957[^002-10] relativo al trasporto internazionale su strada delle merci pericolose (ADR), nella versione in vigore, è vietato o consentito solo alle condizioni stabilite in tali accordi;
+- s.[^002-11] per «chiatta da traghetto» s’intende un veicolo destinato al servizio di traghettamento o impiegato per questo scopo.
+
+[^002-1]: Introdotta dalla Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^002-2]: Direttiva 94/25/CE del Parlamento europeo e del Consiglio, del 16 giugno 1994, sul ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri riguardanti le imbarcazioni da diporto, GU L 164 del 30.6.1994, pag. 15, modificata da ultimo dal regolamento (CE) n. 1137/2008, GU L 311 del 21.11.2008, pag. 1.
+[^002-3]: Introdotta dalla Dec. della Commissione internazionale della navigazione del 23 ott. 2003, approvata dal CF il 24 mar. 2004 ([RU 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^002-4]: In Svizzera corrisponde a «preparati».
+[^002-5]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 618/2012, GU L 179 del 11.07.2012, pag. 3.
+[^002-6]: Direttiva 67/548/CEE del Consiglio, del 27 giugno 1967, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative relative alla classificazione, all’imballaggio e all’etichettatura delle sostanze pericolose, versione secondo GU L 196 del 16.8.1967, pag. 1.
+[^002-7]: Direttiva 1999/45/CE del Parlamento europeo e del Consiglio, del 31 maggio 1999, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri relative alla classificazione, all’imballaggio e all’etichettatura dei preparati pericolosi, GU L 200 del 30.7.1999, pag. 1; modificata da ultimo dal regolamento (CE) n. 1272/2008, GU L 353 del 31.12.2008, pag. 1.
+[^002-8]: Introdotta dalla Dec. della Commissione internazionale della navigazione del 23 ott. 2003, approvata dal CF il 24 mar. 2004 ([RU 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^002-9]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153). L’all. all’ADN non è pubblicato nella RU. Può essere visionato gratuitamente presso l’Ufficio federale dei trasporti, Mühlestrasse 6, 3063 Ittigen o consultato al sito Internet: www.bav.admin.ch &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Accordi internazionali &gt; ADN 2015.
+[^002-10]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). Gli all. dell’ADR non sono pubblicati nella RU. Possono essere visionati gratuitamente presso l’Ufficio federale delle strade, Mühlestrasse 2, 3063 Ittigen o consultati al sito Internet: www.astra.admin.ch &gt; Temi &gt; Traffico pesante e merci pericolose &gt; Merci pericolose &gt; Diritto internazionale &gt; ADR 2015. Copie stampate sono ottenibili presso presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna (www.bundespublikationen.ch).
+[^002-11]: Introdotta dalla Dec. della Commissione internazionale della navigazione del 23 ott. 2003, approvata dal CF il 24 mar. 2004, in vigore dal 1° mag. 2004 ([RU 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)).
+
+## Parte seconda: Norme di circolazione
+
+### Capo I: In genere
+
+#### Art. 1.01
+
+**Conduttori**
+
+<sup>1</sup> Quando naviga, ogni nave deve essere posta sotto l’autorità di una persona idonea a dirigerla. Questa è chiamata qui di seguito «conduttore».
+
+<sup>2</sup> Im pregiudicate le norme concernenti la licenza di condurre, il conduttore di una nave motorizzata deve avere almeno 14 anni.
+
+<sup>3</sup> Quando la nave naviga, il conduttore deve essere a bordo. Egli è responsabile dell’osservanza delle norme della presente ordinanza a bordo della nave. A bordo di apparecchi galleggianti in servizio, il responsabile dell’apparecchio può sostituire il conduttore. Il responsabile dell’apparecchio non deve essere necessariamente titolare di una licenza di condurre.
+
+<sup>4</sup> Le navi rimorchiate o affiancate devono essere poste sotto l’autorità di un conduttore soltanto se il conduttore della nave che provvede alla propulsione del convoglio o dell’insieme l’esige. Nel caso contrario, egli deve simultaneamente assumere gli obblighi del conduttore mancante.
+
+<sup>5</sup> I conduttori delle navi rimorchiate o affiancate devono eseguire gli ordini loro dati dal conduttore dell’insieme. Nondimeno, anche senza tali ordini, essi devono prendere ogni utile provvedimento, richiesto dalle circostanze, per il buon governo delle loro navi.
+
+#### Art. 1.02
+
+**Doveri dell’equipaggio e delle altre persone a bordo**
+
+<sup>1</sup> I membri dell’equipaggio eseguono gli ordini loro dati dal conduttore nell’ambito della sua responsabilità. Essi devono contribuire all’osservanza delle norme della presente ordinanza.
+
+<sup>2</sup> Qualsiasi altra persona a bordo deve conformarsi agli ordini dati dal conduttore nell’interesse della sicurezza della navigazione e dell’ordine a bordo.
+
+#### Art. 1.03
+
+**Dovere generale di diligenza**
+
+<sup>1</sup>
+
+Prescindendo dalle norme della presente ordinanza, i conduttori devono prendere ogni provvedimento cautelato dettato dal dovere generale di diligenza o dalle norme della prassi professionale, segnatamente onde evitare di:
+
+- a. esporre a pericolo o molestare persone;
+- b. causare danni ad altre navi o costruzioni galleggianti, alle rive o a qualsiasi opera situata nell’acqua o sulle sponde;
+- c. intralciare la navigazione e la pesca professionale;
+- d. inquinare l’acqua o alterarne le proprietà.
+
+<sup>2</sup> Le norme del capoverso 1 si applicano pure alle persone incaricate della custodia degli impianti galleggianti.
+
+#### Art. 1.04
+
+**Comportamento in caso di circostanze particolari**
+
+Ove insorga un pericolo imminente, i conduttori devono prendere ogni provvedimento dettato dalle circostanze, anche qualora siano costretti a derogare alle norme della presente ordinanza.
+
+#### Art. 1.05
+
+**Carico e numero dei passeggeri**
+
+<sup>1</sup> Le navi non devono essere caricate oltre a quanto ammissibile. Qualora sono apposte marche di immersione, il pescaggio delle navi non deve superare il limite inferiore di queste marche.
+
+<sup>2</sup> Il carico deve essere disposto in modo da non pregiudicare la sicurezza delle navi e di non disturbare la visibilità necessaria al timoniere.
+
+<sup>3</sup> Il numero di persone ammesse stabilito dall’autorità competente non deve essere superato. Se il numero dei posti lo consente, sulle navi da diporto tre bambini sotto i dodici anni possono contare come due adulti. In nessun caso, una nave può essere caricata in modo tale da pregiudicarne la sicurezza.[^105-1]
+
+[^105-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 1.06
+
+**Documenti**
+
+Qualora sia necessario un permesso per l’esercizio o il governo di una nave, i documenti devono trovarsi a bordo. I documenti devono essere presentati a richiesta degli organi dell’autorità competente.
+
+#### Art. 1.07
+
+**Ostacoli alla navigazione**
+
+Costatato che un ostacolo mette in pericolo la navigazione, il conduttore deve informarne senza indugio il posto di polizia più vicino.
+
+#### Art. 1.08
+
+**Protezione della segnaletica dell’idrovia**
+
+<sup>1</sup> È vietato levare, modificare, danneggiare, rendere inutilizzabili i segnali dell’idrovia o ormeggiarvi.
+
+<sup>2</sup> Se costata che un segnale dell’idrovia è stato levato, modificato, danneggiato o reso inutilizzabile, il conduttore deve avvisarne il posto di polizia più vicino.
+
+#### Art. 1.09
+
+**Inquinamento dell’acqua**
+
+<sup>1</sup> È vietato buttare o immettere da navi o impianti galleggianti, sostanze che possono inquinare o alterare le acque. Se, in seguito a inavvertenza, tali sostanze sono cadute o rischiano di cadere nell’acqua, il conduttore deve avvisarne senza indugio il posto di polizia più vicino salvo che gli sia possibile far sparire il pericolo o l’inquinamento.
+
+<sup>2</sup> Il conduttore o il sorvegliante di un impianto galleggiante deve avvisare senza indugio il posto di polizia più vicino qualora costati la presenza di carburante, lubrificanti o altre materie inquinanti.
+
+#### Art. 1.10
+
+**Protezione contro il rumore, il fumo, il gas di scarico e gli odori**
+
+Le navi in servizio non devono produrre rumore, fumo, gas di scarico o odori più di quanto occorra a una nave in stato di marcia regolare e adoperata secondo le norme.
+
+#### Art. 1.11
+
+**Comportamento in caso di incidenti, assistenza**
+
+<sup>1</sup> In caso di incidente che esponga a pericolo le persone che si trovano a bordo, il conduttore deve far tutto il possibile per salvare dette persone.
+
+<sup>2</sup> Dopo un incidente, ogni persona implicata deve accertarsi delle conseguenze del medesimo, e render possibile l’accertamento della sua identità, di quella della sua nave e della sua parte di responsabilità. È considerata implicata in un incidente qualsiasi persona il cui comportamento può, secondo le circostanze, aver contribuito all’incidente.
+
+<sup>3</sup> Ove costati che persone o navi si trovino in pericolo sull’acqua, il conduttore, nei limiti consentiti dalla sicurezza della propria nave, deve prestare immediata assistenza. Se non può farlo da sé, deve senza indugio chiedere aiuto a terzi.
+
+#### Art. 1.12
+
+**Navi incagliate o affondate**
+
+Se la sicurezza della navigazione è in pericolo, il conduttore di una nave incagliata o affondata deve mostrare i segnali indicati negli articoli 3.08 e 3.11 e prendere immediatamente le misure necessarie per far sparire il pericolo. Se ciò non è possibile, deve avvisarne senza indugio il posto di polizia più vicino.
+
+#### Art. 1.13
+
+**Ordini particolari**
+
+I conduttori e i sorveglianti degli impianti galleggianti devono osservare gli ordini dati dagli organi dell’autorità competente per la sicurezza e la fluidità della navigazione, come anche evitare pericoli e svantaggi che possono derivare da questa.
+
+#### Art. 1.14
+
+**Ordini di carattere temporaneo**
+
+In certi casi particolari, segnatamente in occasione delle manifestazioni di cui all’articolo 11.05, in caso di lavori nell’acqua o sulle rive o in caso di pericolo di piena, l’autorità competente può emanare prescrizioni di carattere temporaneo il fine di garantire la sicurezza e la fluidità della navigazione, come anche di evitare pericoli o svantaggi che possono derivare da questa.
+
+#### Art. 1.15
+
+**Navi prioritarie**
+
+Secondo le norme della presente ordinanza, l’autorità competente, a domanda, riserva la priorità alle navi passeggeri che navigano in corso regolare secondo un orario pubblicato. Qualora la sicurezza e la fluidità della navigazione lo richiedano, essa può, a domanda, riservare tale priorità ad altre navi, eccettuate quelle da diporto.
+
+#### Art. 1.16
+
+**Controllo**
+
+I conduttori e i sorveglianti di impianti galleggianti devono fornire l’assistenza necessaria agli organi dell’autorità competente incaricati di vigilare sull’applicazione delle norme della presente ordinanza.
+
+### Capo II: Contrassegni delle navi
+
+#### Art. 2.01
+
+**Contrassegni**
+
+<sup>1</sup> Le navi in cui alla lettera b debbono portare, indipendentemente dalla loro lunghezza, il nome e l’indirizzo del proprietario o di chi è autorizzato a disporne.[^201-1]
+
+Ogni nave deve essere provvista di un contrassegno, attribuito dall’autorità, da applicare su ciascun bordo in un punto ben visibile. Sono esonerati da questa disposizione:
+
+- a. le navi la cui lunghezza fuori tutto è inferiore a metri 2,50 e sprovviste di un mezzo meccanico di propulsione;
+- b. le tavole a vela, le canoe e le imbarcazioni a remi da corsa non dotate di mezzi meccanici di propulsione.
+
+<sup>2</sup> L’obbligo di cui al capoverso 1 primo periodo è considerato adempiuto qualora la nave porti contrassegni ufficiali attribuitile dall’autorità competente per altre idrovie di una parte contraente dell’Accordo del 1° giugno 1973[^201-2] concernente la navigazione sul lago di Costanza.
+
+[^201-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^201-2]: [RS 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
+
+#### Art. 2.02
+
+**Apposizione dei contrassegni**
+
+I contrassegni di cui all’articolo 2.01 devono essere apposti in modo ben leggibile in caratteri latini e cifre arabe. I caratteri e le cifre devono essere alti almeno 8 centimetri. La loro larghezza e lo spessore dei tratti devono essere proporzionati all’altezza. I caratteri e le cifre devono essere di colore chiaro su fondo scuro oppure di colore scuro su fondo chiaro.
+
+### Capo III: Segnaletica delle navi
+
+#### Art. 3.01
+
+**Fuochi**
+
+<sup>1</sup> I fuochi prescritti nella presente ordinanza devono essere visibili in modo adeguato alla loro funzione e gettare una luce uniforme e continua. I fuochi devono essere disposti in modo che il conduttore del battello non ne sia abbagliato.[^301-1]
+
+<sup>2</sup> A notte buia ed aria tersa, la portata deve essere di circa:
+
+<table>
+<tr><td>Genere del fuoco</td><td>bianco</td><td>rosso o verde</td></tr>
+<tr><td>chiaro</td><td>4 km</td><td>3 km</td></tr>
+<tr><td>ordinario</td><td>2 km</td><td>1,5 km</td></tr>
+</table>
+
+<sup>3</sup>
+
+Nella presente ordinanza:
+
+- a. «fuoco d’albero» (fuoco di prua) designa una luce bianca e chiara che dev’essere visibile su un arco orizzontale di 225°, e più precisamente di 112°30’ da ciascun lato (vale a dire dal davanti sino a 22°30’ oltre la trasversale di ciascun bordo), e dev’essere visibile soltanto in questo arco;
+- b. «fuochi laterali» designano una luce verde chiaro a tribordo e una rosso chiaro a babordo, ognuna delle quali dev’essere visibile su un arco orizzontale di 112°30’ (vale a dire dal davanti sino a 22°30’ oltre la trasversale di ciascun bordo) ma soltanto in questo arco; questi fuochi devono essere collocati alla stessa altezza e su una stessa perpendicolare all’asse della nave;
+- c. «fuoco di poppa» designa una luce bianca ordinaria o una luce bianca chiara che dev’essere visibile su un arco orizzontale di 135°, e più precisamente posteriormente a 67°30’ da ciascun lato, e dev’essere visibile soltanto in quest’arco;
+- d. «luce bianca circolare» designa una luce bianca ordinaria visibile da ogni parte (360°);
+- e.[^301-2] «lanterna bicolore» designa una lanterna che riunisce i due fuochi laterali e che deve essere collocata nella parte anteriore della nave sull’asse mediano;
+- f.[^301-3] «lanterna tricolore» designa una lanterna che riunisce i due fuochi laterali e il fuoco di poppa e che è collocata sulla cima dell’albero.[^301-4]
+
+[^301-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^301-2]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^301-3]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^301-4]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 3.02
+
+**Bandiere e palloni**
+
+<sup>1</sup> I colori delle bandiere e dei palloni prescritti nella presente ordinanza non devono essere sbiaditi né insudiciati. Le bandiere devono essere rettangolari ed avere almeno 60 centimetri di altezza e di larghezza. Per le navi prioritarie i palloni devono avere un diametro di almeno 50 centimetri, per le navi da pesca professionale un diametro di almeno 30 centimetri.[^302-1]
+
+<sup>2</sup> Le bandiere possono essere sostituite da tavole con le stesse dimensioni e colori. I palloni possono essere sostituiti con dispositivi che, a distanza, presentino la stessa apparenza.
+
+[^302-1]: Nuovo testo del per. giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 3.03
+
+**Fuochi e segnali vietati**
+
+<sup>1</sup> È vietato utilizzare fuochi o segnali diversi da quelli prescritti nella presente ordinanza o di farne uso in circostanze per le quali non sono prescritti o ammessi.
+
+<sup>2</sup> È vietato usare bandiere o palloni che potrebbero nuocere alla visibilità o complicare l’identificazione dei segnali previsti nella presente ordinanza.
+
+#### Art. 3.04
+
+**Fuochi di soccorso**
+
+<sup>1</sup> I fuochi prescritti nella presente ordinanza, qualora non dovessero funzionare, devono essere immediatamente sostituiti con fuochi di soccorso. Tuttavia, un fuoco prescritto chiaro può essere sostituito con uno ordinario. I fuochi con l’intensità corrispondente alle prescrizioni, devono essere ricollocati il più presto possibile.
+
+<sup>2</sup> Qualora, nel caso di navi motorizzate, i fuochi di soccorso non potessero essere messi in servizio immediatamente, la nave deve portare un fuoco ordinario bianco, visibile su tutto l’orizzonte.
+
+#### Art. 3.05
+
+**Lampade e riflettori**
+
+È vietato far uso di lampade e riflettori:
+
+- a. che possano essere confusi con i fuochi e i segnali previsti nella presente ordinanza o nuocere alla loro visibilità;
+- b. che siano abbaglianti e costituiscano pertanto un pericolo o un ostacolo per la navigazione o per la circolazione a terra.
+
+#### Art. 3.06
+
+**Segnaletica in rotta di notte e in presenza di foschia**[^306-1]
+
+<sup>1</sup>
+
+Le navi motorizzate in rotta di notte o in presenza di foschia devono portare:
+
+- a. un fuoco d’albero (fuoco di prua);
+- b. fuochi laterali;
+- c. un fuoco di poppa.
+
+<sup>2</sup> Le navi da pesca professionale e le navi da diporto motorizzate possono portare fuochi ordinari invece dei fuochi chiari, sostituire i fuochi laterali con una lanterna bicolore e riunire in una luce bianca circolare un fuoco d’albero (fuoco di prua) e un fuoco di poppa.
+
+<sup>3</sup> Le navi dotate di motore di potenza non superiore a 4,4 kW, le navi da pesca professionale in operazione di pesca, le navi da diporto e le navi da pesca professionale con ammissione limitata per il tratto tra Stein-am-Rhein (ponte) e Sciaffusa, dotate di motore di potenza non superiore a 30 kW, possono portare solo una luce bianca circolare.
+
+<sup>4</sup> Le navi non motorizzate in rotta di notte e in presenza di devono portare fuochi laterali e un fuoco di poppa oppure una lanterna bicolore e un fuoco di poppa oppure una luce bianca circolare.
+
+<sup>5</sup> Le navi a vela motorizzate o non motorizzate possono riunire il fuoco di poppa e i fuochi laterali in una lanterna tricolore.
+
+[^306-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 3.07
+
+**Segnaletica supplementare per le navi prioritarie in rotta di notte o in presenza di foschia [^307-1]**
+
+Le navi prioritarie devono portare, oltre ai fuochi prescritti nell’articolo 3.06, un fuoco verde chiaro apposto in un luogo appropriato e almeno a un metro sopra al fuoco d’albero (fuoco di prua), di cui all’articolo 3.06 capoverso 1 lettera a.
+
+[^307-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 3.08
+
+**Segnaletica delle navi e degli impianti galleggianti in stazionamento di notte o in presenza di foschia[^308-1]**
+
+<sup>1</sup> Di notte o in presenza di foschia, le navi e gli impianti galleggianti in stazionamento devono portare un fuoco ordinario bianco, visibile da tutti i lati.[^308-2]
+
+<sup>2</sup> Le disposizioni del capoverso 1 non si applicano alle navi e agli impianti galleggianti stazionanti in luoghi autorizzati o ormeggiati direttamente o indirettamente alla riva.
+
+<sup>3</sup> Le navi e gli impianti galleggianti le cui ancore sono gettate in modo da presentare un pericolo per la navigazione, devono portare, oltre al fuoco prescritto nel capoverso 1, almeno un secondo fuoco ordinario bianco, visibile da ogni lato, collocato a un metro circa sotto il primo fuoco. Qualora la sicurezza della navigazione lo esiga, gli ancoraggi devono essere inoltre segnalati con fuochi bianchi.
+
+[^308-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^308-2]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 3.09
+
+**Segnaletica diurna delle navi prioritarie in rotta**[^309-1]
+
+Di giorno, le navi prioritarie devono portare un pallone verde.
+
+[^309-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)). Giusta il n. II si applicherà al più tardi un anno dopo l’entrata in vigore di detta mod.
+
+#### Art. 3.10
+
+**Segnaletica delle navi da pesca**
+
+<sup>1</sup> Le navi da pesca professionale in operazione possono portare un pallone bianco, che dev’essere posto in modo ben visibile sopra lo scafo.[^310-1]
+
+<sup>2</sup> Le navi dalle quali si pesca a traino devono portare una bandiera bianca.
+
+[^310-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 3.11
+
+**Segnaletica diurna delle navi e degli impianti galleggianti il cui ancoraggio può costituire un pericolo per la navigazione**
+
+Le navi e gli impianti galleggianti le cui ancore sono gettate in modo da presentare un pericolo per la navigazione devono portare due bandiere bianche sovrapposte in modo da essere visibili da ogni lato. Qualora la sicurezza della navigazione lo esiga, gli ancoraggi devono essere inoltre segnalati con boe gialle.
+
+#### Art. 3.12
+
+**Fuoco blu a luce intermittente**[^312-1]
+
+Le navi del servizio ufficiale di sicurezza possono mostrare un fuoco blu a luce intermittente quando si trovano in servizio urgente. Con l’autorizzazione delle autorità competenti, anche le navi dei vigili del fuoco, quelle del servizio contro l’inquinamento dagli olii e quelle del servizio pubblico di salvataggio possono mostrare un fuoco blu a luce intermittente quando si trovano in servizio urgente.
+
+[^312-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988 ed entrata in vigore il 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+
+#### Art. 3.13
+
+**Segnale d’immersione**[^313-1]
+
+<sup>1</sup> Per le immersioni effettuate dalla terra ferma, si deve piazzare una bandiera corrispondente alla lettera «A» del regolamento internazionale delle bandiere (bandiera doppia la cui metà in corrispondenza del bastone è bianca mentre l’altra è blu).
+
+<sup>2</sup> Per le immersioni effettuate lontano dalla riva, questa bandiera dev’essere visibile sulla nave o su una boa da ciascuna parte; di notte e in caso di foschia dev’essere illuminata in modo efficace.
+
+[^313-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+### Capo IV: Segnali acustici e radiotelefonia****
+
+[^part2-chapIV-1]
+
+[^part2-chapIV-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 4.01
+
+**In genere**
+
+I segnali acustici previsti nella presente ordinanza (allegato A) devono essere emessi in suoni di altezza costante. Per suono breve si intende un suono della durata di circa un secondo, per suono prolungato un suono della durata di circa quattro secondi. L’intervallo fra due suoni consecutivi deve essere di circa un secondo.
+
+#### Art. 4.02
+
+**Segnali acustici delle navi**
+
+<sup>1</sup>
+
+Riservati altri segnali acustici prescritti nella presente ordinanza, le navi motorizzate devono, qualora la sicurezza della navigazione lo esiga, emettere i segnali acustici menzionati di seguito. Il significato è il seguente:
+
+- a. un suono prolungato: «Attenzione» o «Avanzo in linea retta»
+- b. un suono breve: «Accosto a dritta»
+- c. due suoni brevi: «Accosto a sinistra»
+- d. tre suoni brevi: «Batto a ritroso»
+- e. quattro suoni brevi: «Sono incapace di manovrare».
+
+<sup>2</sup> In caso di bisogno il segnale acustico «Attenzione» deve essere pure dato dalle navi a vela.
+
+<sup>3</sup> In caso di pericolo, qualsiasi altra nave può emettere i segnali acustici previsti nel capoverso 1.
+
+#### Art. 4.03
+
+**Segnali acustici dei porti e imbarcaderi**
+
+In caso di poca visibilità, i porti e gli imbarcaderi possono emettere i segnali acustici seguenti:
+
+- a. due suoni brevi, ripetuti tre volte per minuto, da un avvertitore acustico appropriato o
+- b. tocchi continui di campana.
+
+#### Art. 4.04
+
+**Segnali acustici vietati**
+
+È vietato far uso di segnali acustici diversi da quelli previsti nella presente ordinanza o di far uso dei segnali menzionati, in condizioni diverse da quelle prescritte o ammesse.
+
+#### Art. 4.05
+
+**Radiotelefonia**[^405-1]
+
+<sup>1</sup> Le navi che secondo l’articolo 13.21 devono essere dotate di un impianto di radiotelefonia, devono essere sempre sintonizzate sul canale 16 durante la navigazione.
+
+<sup>2</sup> Tramite gli impianti di radiotelefonia sintonizzati sul canale 16 è consentito trasmettere solo messaggi necessari per garantire la sicurezza della navigazione.
+
+[^405-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+### Capo V: Segnaletica dell’idrovia
+
+#### Art. 5.01
+
+**In genere**
+
+<sup>1</sup> Impregiudicate altre prescrizioni della presente ordinanza, un conduttore deve osservare le indicazioni fornitegli dai segnali collocati sull’idrovia e previsti nel capoverso 2.
+
+<sup>2</sup> L’allegato B della presente ordinanza definisce il genere e il significato dei segnali di divieto, d’obbligo, di restrizione, di raccomandazione e d’indicazione, come anche i segnali suppletivi.
+
+<sup>3</sup> L’autorità competente decide del luogo e del genere di segnali che si devono collocare o togliere.
+
+#### Art. 5.02
+
+**Segnaletica delle entrate dei porti, degli imbarcaderi e degli impianti fissi[^502-1]**
+
+<sup>1</sup> L’entrata dei porti aperti alla navigazione (porti pubblici) è segnalata di notte e in caso di foschia con un fuoco verde sulla gettata destra e con un fuoco rosso sulla gettata sinistra. Inoltre, può essere previsto un fuoco giallo d’avvistamento.
+
+<sup>2</sup> Se situati fuori dei porti, gli imbarcaderi per le navi passeggeri devono portare, di notte e in caso di foschia, un fuoco rosso e, sotto a questo, un fuoco verde durante le ore d’esercizio stabilite dall’autorità competente. Inoltre può essere previsto un fuoco giallo d’avvistamento.
+
+<sup>3</sup> Con l’autorizzazione dell’autorità competente, i porti e gli imbarcaderi diversi da quelli menzionati nei capoversi 1 e 2 possono essere segnalati nello stesso modo.
+
+<sup>4</sup> A notte fonda e con aria tersa, la portata del fuoco d’avvistamento deve essere di circa 1,5 km, quella degli altri fuochi di circa 6 km.
+
+<sup>5</sup> Le luci indicate nei capoversi 1 e 2 possono anche essere lampeggianti o intermittenti. Per quanto riguarda colore o intervallo non devono essere confuse con luci d’avvertimento di tempesta.[^502-2]
+
+[^502-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+[^502-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+### Capo VI: Norme di rotta
+
+#### Art. 6.01
+
+**Norme generali di comportamento**
+
+<sup>1</sup> Il conduttore deve eseguire con sicurezza e tempestivamente ogni manovra necessaria per l’applicazione delle norme di rotta.
+
+<sup>2</sup> Chiunque non sia in grado di condurre con sicurezza una nave in seguito a deficienza fisica o psichica, al consumo di alcol, di droghe o di medicamenti oppure per altre ragioni deve astenersi dal condurre una nave.[^601-1]
+
+<sup>3</sup> Il divieto giusta il capoverso 2 è valido in particolare se è rilevato un tasso alcolemico di almeno 0,40 mg/l nell’aria alveolare espirata oppure se il tasso alcolemico nel sangue è di almeno 0,8 grammi ‰ o se nell’organismo è presente una quantità d’alcool che determina un tale tasso alcolemico nell’aria espirata o nel sangue. Per i conduttori di navi passeggeri e di navi mercantili questo divieto è valido già se è rilevato un tasso alcolemico di 0,05 mg/l nell’aria espirata oppure un tasso alcolemico nel sangue di 0,1 grammi ‰ o se nell’organismo è presente una quantità d’alcool che determina un tale tasso alcolemico nell’aria espirata o nel sangue.[^601-2]
+
+[^601-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^601-2]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+
+#### Art. 6.02
+
+**Velocità**
+
+Il conduttore deve regolare la velocità in modo da poter in ogni momento soddisfare ai propri obblighi in materia di navigazione. Tuttavia, la velocità non deve superare i 40 km/h.
+
+#### Art. 6.03
+
+**Comportamento nei confronti delle navi recanti il fuoco blu a luce intermittente[^603-1]**
+
+Ogni nave deve scostarsi dalla rotta dei battelli recanti la luce intermittente blu prevista all’articolo 3.12. Ove occorra bisogna fermarsi.
+
+[^603-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+
+#### Art. 6.04
+
+**Norme per l’incrocio e il sorpasso**
+
+<sup>1</sup> In caso di incrocio o sorpasso, le navi non devono cambiare né rotta né velocità in modo da creare un pericolo d’urto, se seguono una rotta scevra da tale pericolo.
+
+<sup>2</sup> Se due navi seguono rotte che s’incrociano e che non sia escluso il pericolo d’urto, deve spostarsi la nave che vede l’altra da dritta.
+
+<sup>3</sup> Se due navi seguono rotte direttamente o quasi opposte e non sia escluso il pericolo d’urto, ciascuna di esse deve appoggiare a dritta in modo di passare sinistra su sinistra.
+
+<sup>4</sup> In casi eccezionali, segnatamente durante manovre di accostamento e in deroga alle disposizioni del capoverso 3, il conduttore può chiedere di passare dritta su dritta a condizione di essersi assicurato che la manovra sia possibile senza pericolo. In tal caso, la sua nave emette «due suoni brevi». L’altra nave deve parimente emettere «due suoni brevi» e lasciare lo spazio necessario a dritta.
+
+#### Art. 6.05
+
+**Priorità**
+
+In deroga alle disposizioni dell’articolo 6.04 senza pregiudizio per l’articolo 6.03, in caso di incrocio e di sorpasso:
+
+- a. ogni nave deve scostarsi dalle navi prioritarie e dai convogli rimorchiati;
+- b. ogni nave, eccettuate quelle prioritarie e i convogli rimorchiati, deve scostarsi dalle navi da pesca professionale, recanti il pallone previsto all’articolo 3.10 capoverso 1;
+- c. ogni nave, eccettuate le navi prioritarie, i convogli rimorchiati e le navi da pesca professionale recanti il pallone previsto all’articolo 3.10 capoverso 1, deve scostarsi dalle navi a vela;
+- d. qualsiasi nave motorizzata, eccettuate le navi prioritarie, i convogli rimorchiati e le navi da pesca professionale recanti il pallone previsto all’articolo 3.10 capoverso 1, deve scostarsi dalle navi a remi.
+
+#### Art. 6.06
+
+**Comportamento rispetto alle navi prioritarie, ai convogli rimorchiati, alle navi da pesca professionale e ai sommozzatori**[^606-1]
+
+<sup>1</sup> Rispetto alle navi prioritarie, ai convogli rimorchiati, alle navi da pesca professionale, che devono portare un pallone conformemente all’articolo 3.10 capoverso 1, nonché alle navi, alle boa o ai punti sulla terra ferma segnalati conformemente all’articolo 3.13, le altre navi devono tenere una distanza di almeno 50 m.
+
+<sup>2</sup> In deroga al capoverso 1, rispetto alle navi da pesca professionale che devono portare un pallone conformemente all’articolo 3.10 capoverso 1, le altre navi devono tenere da poppa una distanza di almeno 200 m.
+
+<sup>3</sup> Se le circostanze locali non permettono di rispettare le distanze minime prescritte nei capoversi 1 e 2, dev’essere tenuta una distanza quanto più grande possibile.
+
+[^606-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 6.07
+
+**Comportamento di navi a vela tra esse**
+
+Se due navi a vela s’avvicinano vicendevolmente in modo da non poter escludere un pericolo d’urto, devono, in deroga all’articolo 6.04 capoversi 2 e 3 scostarsi l’una dall’altra come segue:
+
+- a.[^607-1] se le navi ricevono vento da un bordo differente, quella che riceve vento da sinistra deve scostarsi dalla rotta dell’altra (la prua di babordo passa davanti alla prua di tribordo);
+- b. se entrambe le navi ricevono vento dallo stesso bordo, la nave a vento deve scostarsi da quella sottovento; in tal caso, il lato dal quale proviene il vento è quello del lato opposto al lato d’orientamento della grande vela.
+
+[^607-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 6.08
+
+**Comportamento di navi che devono scostarsi da altre navi**
+
+Le navi che devono scostarsi da altre navi devono lasciare a quest’ultime lo spazio necessario per continuare la rotta e per manovrare.
+
+#### Art. 6.09
+
+**Disposizioni speciali per il sorpasso**
+
+<sup>1</sup> Il sorpasso è autorizzato soltanto se il sorpassante si è assicurato che la manovra può aver luogo senza pericolo o senza intralcio per altre navi.
+
+<sup>2</sup> Il sorpassando deve agevolare il sorpasso per quanto necessario e possibile.
+
+#### Art. 6.10
+
+**Entrata nei porti e uscita; debarcaderi**
+
+<sup>1</sup> Le navi possono entrare in un porto o uscirne soltanto se le manovre possono avvenire senza pericolo e senza disturbo per altre navi.
+
+<sup>2</sup> Le navi in uscita da un porto hanno la precedenza su quelle entranti. Esse devono annunciare tempestivamente la loro uscita emettendo un suono prolungato; vi si può rinunciare quando non si deve temere la messa in pericolo di altre navi. Le navi prioritarie, i convogli rimorchiati e le navi che debbono cercare rifugio in caso di emergenza o in presenza di venti impetuosi o di forti ondate godono, impregiudicato l’articolo 6.03, della precedenza rispetto alle altre navi, purché annuncino tempestivamente il loro ingresso mediante l’emissione di tre suoni prolungati. Se più navi aventi lo stesso diritto di precedenza si incontrano, detta precedenza spetta in ogni caso alla nave uscente.[^610-1]
+
+<sup>3</sup> Le navi che non vogliono entrare in un porto non devono tenersi sui luoghi in cui transitano le navi che entrano nel porto o ne escono.
+
+<sup>4</sup> La manovra di navi passeggeri che desiderano accostare un debarcadero o partirne non deve essere disturbata da altre navi. Ogni nave deve tenersi al di fuori delle zone dei debarcaderi che sono regolarmente utilizzati da navi passeggeri.
+
+<sup>5</sup> In deroga ai divieti dei capoversi 3 e 4, le navi da pesca professionale in esercizio possono tenersi nelle zone di cui si tratta se la circolazione lo consente e se non sono disturbate le navi prioritarie.
+
+[^610-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+
+#### Art. 6.11
+
+**Restrizioni alla navigazione**
+
+<sup>1</sup> Le navi motorizzate, ad eccezione di quelle a propulsione elettrica con una potenza non superiore a 2 kW, non debbono navigare a meno di 300 metri dalle rive o dai canneti che si estendono davanti alle stesse (zona costiera), a meno che intendano accostare, partire o stazionare.[^611-1] In siffatto caso, esse devono, se non si tratta di navi aventi precedenza e di convogli rimorchiati, scegliere la rotta la più breve e navigare a una velocità inferiore ai 10 km/h. Se, nei passaggi stretti, le zone costiere si toccano o sovrappongono, le navi di cui nella prima frase possono navigare al centro della via navigabile a velocità inferiore ai 10 km/h; se gli alti fondi non consentono di osservare tali prescrizioni, le navi si terranno alla maggior distanza possibile dalla riva.
+
+<sup>2</sup> Eccettuata la limitazione di velocità, le disposizioni del capoverso 1 non si applicano alle navi da pesca professionale recanti il pallone previsto all’articolo 3.10 capoverso 1.
+
+<sup>3</sup> È vietato navigare nei campi di vegetazione acquatica come canneti, nenufari, giunchi. Se le circostanze locali lo permettono (ad es. entrate dei porti o strettoie), si deve tenere un distanza minima di 25 m; questa distanza non si applica alle navi da pesca professionale.[^611-2]
+
+[^611-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^611-2]: Per. introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 6.12
+
+**Navigazione a mezzo radar**[^612-1]
+
+<sup>1</sup>
+
+Il radar può essere impiegato come mezzo ausiliare di navigazione se:
+
+- a. il conduttore è in possesso di una licenza ufficiale per la navigazione a mezzo radar o di una licenza equivalente rilasciata da uno Stato costiero del lago di Costanza;
+- b. al posto del timoniere si trova una seconda persona sufficientemente esperta nell’impiego di radar nella navigazione; e
+- c. la nave è dotata di un impianto di radiotelefonia secondo l’articolo 13.21.
+
+<sup>2</sup> Se la nave è dotata di un posto di timoniere concepito per la guida con radar da parte di una sola persona, la presenza di una seconda persona secondo il capoverso 1 lettera b non è necessaria.
+
+[^612-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 6.13
+
+**Navigazione in tempo di foschia, vento forte e tempesta[^613-1]**
+
+<sup>1</sup> In tempo di foschia (ad esempio nebbia, nevicate), le navi che non possono emettere i segnali acustici prescritti all’articolo 6.14 non devono partire. Se la visibilità peggiora durante la rotta, tali navi devono raggiungere senza indugio un porto o avvicinarsi alla riva per quanto le circostanze lo consentano.
+
+<sup>2</sup> In caso di foschia, le navi la cui distanza tra la timoneria e la prua è superiore a 15 metri devono impiegare il radar secondo l’articolo 6.12. Le altre navi devono ridurre la loro velocità in funzione della diminuita visibilità; fanno eccezione le navi che stanno navigando a mezzo radar secondo l’articolo 6.12.[^613-2]
+
+<sup>3</sup> ...[^613-3]
+
+<sup>4</sup> Il conduttore deve prendere ogni provvedimento dettato dalle circostanze (art. 1.03 e 1.04) già quando è stato dato l’avviso di vento forte o di tempesta (allegato B, lett. H.1 e H.2).[^613-4]
+
+[^613-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+[^613-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^613-3]: Abrogato dall’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, con effetto dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^613-4]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+
+#### Art. 6.14
+
+**Segnali acustici durante la navigazione in caso di foschia**
+
+<sup>1</sup> In caso di foschia, ogni nave e, qualora fossero raggruppate, quella a bordo in cui si trova il conduttore, deve emettere come segnale di nebbia «un suono prolungato». Le navi che non sono in grado di emettere questo segnale, devono farsi notare in altro modo all’avvicinarsi d’altre navi.
+
+<sup>2</sup> In deroga alle disposizioni del capoverso 1, le navi prioritarie giusta l’articolo 1.15 emettono come segnale di nebbia in caso di foschia «due suoni prolungati».
+
+<sup>3</sup> I segnali acustici di cui ai capoversi 1 e 2 devono essere ripetuti a intervalli di un minuto al massimo.
+
+<sup>4</sup> Le navi che utilizzano il radar come mezzo ausiliare di navigazione possono rinunciare alle emissioni dei segnali acustici prescritti nei capoversi 1 e 2 se il pericolo d’urto con altre navi può essere considerato escluso in seguito alle interpretazioni fornite dal radar.
+
+#### Art. 6.15
+
+**Usi di sci nautici o di apparecchi analoghi**
+
+<sup>1</sup> L’uso di sci nautici o apparecchi analoghi è autorizzato soltanto di giorno e con buona visibilità.
+
+<sup>2</sup> L’uso degli sci nautici e di apparecchi analoghi è vietato nelle zone costiere. L’autorità competente può concedere deroghe per taluni settori (canali per la partenza) e stabilire, in deroga all’articolo 6.11 capoverso 1, la velocità ammissibile in siffatti casi.
+
+<sup>3</sup> Il conduttore della nave trainante deve essere accompagnato da una persona incaricata del servizio di rimorchiaggio e della vigilanza dello sciatore e che sia idonea ad assumere tale funzione.
+
+<sup>4</sup> La nave trainante e lo sciatore nautico devono tenersi a una distanza di almeno 50 metri da qualsiasi altra nave e dai bagnanti. Il cavo di traino non deve essere elastico e non può essere trascinato a vuoto.
+
+<sup>5</sup> È vietato il traino simultaneo di più di due sciatori.
+
+<sup>6</sup> Il traino di oggetti volanti (cervi volanti, paracadute e apparecchi analoghi) è vietato.
+
+<sup>7</sup> È vietato l’uso di *aquascooter*, *jet bike* e simili costruzioni galleggianti.[^615-1]
+
+[^615-1]: Introdotto dall’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 6.16
+
+**Navi in stato d’emergenza**
+
+Se una nave in stato d’emergenza vuol chiedere soccorso deve:
+
+- a. agitare circolarmente una bandiera rossa, o un fuoco o un qualsiasi altro oggetto adeguato;
+- b. lanciare razzi rossi o altri segnali luminosi rossi;
+- c. emettere una serie di suoni prolungati.
+
+### Capo VII: Norme di stazionamento
+
+#### Art. 7.01
+
+**Stazionamento**
+
+<sup>1</sup> Fuori dei porti, degli imbarcaderi e di qualsiasi altra istallazione per la navigazione, le navi e gli altri impianti galleggianti possono stazionare oltre 24 ore soltanto se consentito in modo generale o nel singolo caso dall’autorità competente. Questa disposizione non si applica agli apparecchi galleggianti in esercizio.
+
+<sup>2</sup> Impregiudicate le disposizioni del capoverso 1, le navi e gli impianti galleggianti devono scegliere il luogo di stazionamento in modo da non intralciare la navigazione, segnatamente delle navi prioritarie.[^701-1]
+
+<sup>3</sup> Le navi e gli apparecchi galleggianti in stazionamento devono essere ormeggiati o ancorati in modo sufficientemente sicuro tenuto conto della risacca e dei risucchi causati dalle altre navi. Essi devono poter secondare i dislivelli dell’acqua.
+
+[^701-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+### Capo VIII:**** Sostanze che possono inquinare le acque e merci pericolose
+
+[^part2-chapVIII-1]
+
+[^part2-chapVIII-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 ott. 2003, approvata dal CF il 24 mar. 2004, in vigore dal 1° mag. 2004 ([RU 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)).
+
+#### Art. 8.01
+
+**Divieto generale di trasporto**[^801-1]
+
+Il trasporto di sostanze che possono inquinare le acque e di merci pericolose è vietato.
+
+[^801-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 8.02
+
+**Deroghe concernenti il trasporto di merci pericolose da trattare come sostanze che possono inquinare le acque**[^802-1]
+
+L’articolo 8.01 non si applica al trasporto di sostanze che possono inquinare le acque e di merci pericolose di cui alla sottosezione:
+
+- a. 1.1.3.1 lettera a dell’allegato all’ADN[^802-2] e
+- b. 1.1.3.3 dell’allegato all’ADN.
+
+[^802-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^802-2]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153). L’all. all’ADN non è pubblicato nella RU. Può essere visionato gratuitamente presso l’Ufficio federale dei trasporti, Mühlestrasse 6, 3063 Ittigen o consultato al sito Internet: www.bav.admin.ch &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Accordi internazionali &gt; ADN 2015.
+
+#### Art. 8.03
+
+**Deroghe concernenti il trasporto di merci pericolose da non trattare come sostanze che possono inquinare le acque**[^803-1]
+
+Nella misura in cui si tratta di sostanze che non possono inquinare le acque che sono trasportate con veicoli a motore su chiatte da traghetto autorizzate a trasportare merci pericolose, l’articolo 8.01 non si applica al trasporto di merci pericolose di cui alla sottosezione:
+
+- a. 1.1.3.1 lettere b, c o e dell’allegato A ADR[^803-2],
+- b. 1.1.3.2 lettere a, b, d, e ed f dell’allegato A ADR, e
+- c. 1.1.3.3 dell’allegato A ADR.
+
+[^803-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^803-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). Gli all. dell’ADR non sono pubblicati nella RU. Possono essere visionati gratuitamente presso l’Ufficio federale delle strade, Mühlestrasse 2, 3063 Ittigen o consultati al sito Internet: www.astra.admin.ch &gt; Temi &gt; Traffico pesante e merci pericolose &gt; Merci pericolose &gt; Diritto internazionale &gt; ARD 2015. Copie stampate sono ottenibili presso presso l’UFCL, Vendita di pubblicazioni federali, 3003 Berna (www.bundespublikationen.ch).
+
+### Capo IX: Navigazione delle navi passeggeri
+
+#### Art. 9.01
+
+**Operazioni ai debarcaderi**
+
+<sup>1</sup> L’imbarco e lo sbarco di passeggeri sono autorizzati soltanto ai debarcaderi ammessi a tale scopo dall’autorità competente.
+
+<sup>2</sup> Ai debarcaderi destinati al servizio pubblico, le navi passeggeri giusta l’articolo 1.15 prima frase hanno la precedenza.
+
+<sup>3</sup> Se le manovre svolte al debarcadero sono disciplinate da persone debitamente incaricate, il conduttore deve conformarsi agli ordini di quest’ultime.
+
+#### Art. 9.02
+
+**Imbarco e sbarco**
+
+<sup>1</sup> Il conduttore deve autorizzare i passeggeri a salire a bordo e a scendere soltanto se la nave è sicuramente ormeggiata e garantito che l’entrata e l’uscita del passeggero possano avvenire senza pericolo.
+
+<sup>2</sup> I passeggeri possono utilizzare soltanto le entrate, le uscite, le passerelle, i debarcaderi, gli accessi e le scale destinate all’imbarco e allo sbarco. Nessun passeggero può montare a bordo o scendere senza l’autorizzazione del conduttore o del suo mandatario.
+
+#### Art. 9.03
+
+**Sicurezza e ordine a bordo e nei debarcaderi**
+
+<sup>1</sup> I passeggeri e gli utenti dei debarcaderi debbono comportarsi in modo da non pregiudicare la sicurezza della navigazione, l’ordine a bordo e ai debarcaderi. Senza pregiudicare gli ordini impartiti dai conduttori in virtù dell’articolo 1.02 capoverso 2, i passeggeri devono parimente conformarsi a quelli delle persone responsabili dei debarcaderi. Se vi è da temere che delle persone possano porre in pericolo il servizio della navigazione o incomodare considerevolmente gli altri passeggeri, dev’essere rifiutato il trasporto di tali persone.
+
+<sup>2</sup> Le merci devono essere caricate in modo da non mettere in pericolo o disturbare i passeggeri.
+
+#### Art. 9.04
+
+**Divieto di traino**
+
+Salvo nei casi di forza maggiore, le navi con passeggeri a bordo non devono rimorchiare o farsi rimorchiare né navigare accoppiate.
+
+#### Art. 9.05
+
+**Numero massimo dei passeggeri**
+
+Il numero massimo dei passeggeri deve essere indicato in un luogo ben visibile.
+
+### Capo X: Disposizioni speciali per il Reno
+
+#### Art. 10.01
+
+**Campo d’applicazione**
+
+Le prescrizioni del presente capo s’applicano:
+
+- a. al Vecchio Reno, dal ponte tra Rheineck e Gaissau allo sbocco nel lago di Costanza (fine della palancolata);
+- b.[^1001-1] al settore compreso tra Frauenpfahl nella baia di Costanza ed il debarcadero di Ermatingen;
+- c.[^1001-2] al settore compreso tra la linea debarcadero di Oehningen/debarcadero superiore di Eschenz, a monte della Stiegener Enge, ed il ponte stradale Sciaffusa-Feuerthalen.
+
+[^1001-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^1001-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+
+#### Art. 10.02
+
+**Disposizioni particolari**
+
+<sup>1</sup> Sui settori menzionati all’articolo 10.01, la priorità prevista all’articolo 6.05 lettera a si applica soltanto alle navi passeggeri.
+
+<sup>2</sup> L’articolo 6.05 lettere b a d, come anche l’articolo 6.11 capoversi 1 e 2 non si applicano ai settori menzionati all’articolo 10.01.
+
+<sup>3</sup> L’articolo 6.07 non si applica ai settori menzionati all’articolo 10.01 lettere b e c.
+
+#### Art. 10.03
+
+**Limitazione della velocità**
+
+<sup>1</sup>
+
+La velocità massima misurata rispetto alla riva è:
+
+- a. di 10 km/h sul settore menzionato all’articolo 10.01 lettera a;
+- b. di 10 km/h sul settore menzionato all’articolo 10.01 lettera b;
+- c.[^1003-1] di 10 km/h in navigazione contro corrente e di 20 km/h in navigazione discendente lungo il settore menzionato all’articolo 10.01 lettera c.
+
+<sup>2</sup> In deroga al capoverso 1 lettera b, la velocità massima ammessa per le navi passeggeri è di 10 km/h in salita e di 20 km/h in discesa.[^1003-2]
+
+[^1003-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^1003-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 10.04
+
+**Incrocio e sorpasso**
+
+<sup>1</sup> In caso di incrocio, le navi devono tenere la destra. Se non è possibile possono tenere la sinistra a condizione d’emettere tempestivamente il segnale acustico prescritto.
+
+<sup>2</sup> L’incrocio o il sorpasso è autorizzato soltanto se il canale presenta una larghezza sufficiente affinché la manovra avvenga senza pericolo.
+
+<sup>3</sup> Qualora il canale non presenti una larghezza sufficiente per l’incrocio, la nave ascendente deve aspettare a valle della strettoia sinché sia passata la nave discendente. Se l’incrocio in siffatto passaggio è inevitabile, i conduttori devono prendere tutte le misure possibili affinché ciò avvenga in un luogo e in condizioni presentanti soltanto minimo pericolo.
+
+#### Art. 10.05
+
+**Passaggio sotto i ponti**
+
+<sup>1</sup> L’incrocio e il sorpasso sono vietati in vicinanza immediata dei ponti e sotto quest’ultimi. Se vi è da temere che delle navi abbiano a incrociarsi sotto un ponte, la nave ascendente deve aspettare a valle del ponte il passaggio della nave discendente. Se richiesto dalla sicurezza della navigazione, le navi devono annunciare mediante «un suono prolungato» il loro avvicinarsi a un ponte.
+
+<sup>2</sup> In deroga alle disposizioni del capoverso 1, l’incrocio è autorizzato se in prossimità immediata dei ponti e sotto questi ultimi il canale presenta una larghezza sufficiente al passaggio simultaneo di due navi.
+
+#### Art. 10.06
+
+**Obbligo d’attesa verso le navi passeggeri**
+
+Nei casi di cui agli articoli 10.04 capoverso 3 e 10.05 capoverso 1 seconda frase ogni nave deve aspettare il passaggio di una nave passeggeri prioritaria giusta l’articolo 1.15.
+
+#### Art. 10.07
+
+**Traversata**
+
+<sup>1</sup> Le navi, eccettuate quelle a remi, che attraversano il Reno, devono scostarsi dalle navi discendenti o ascendenti.
+
+<sup>2</sup> Le navi che attraversano il Reno devono tenersi ad almeno 200 metri dalla prua di una nave passeggeri prioritaria giusta l’articolo 1.15 che discende il fiume e almeno a 100 metri dalla prua di una nave che lo risale.
+
+#### Art. 10.08
+
+**Impiego di sci nautici o di attrezzi analoghi**
+
+L’impiego di sci nautici, di attrezzi analoghi e di scivolatori è vietato.
+
+#### Art. 10.09
+
+**Navigazione in tempo di foschia**
+
+Le navi devono arrestarsi se in seguito a diminuzione della visibilità vi è pericolo per la navigazione.
+
+#### Art. 10.10
+
+**Segnaletica notturna degli apparecchi galleggianti, delle navi al lavoro e delle navi incagliate o affondate**
+
+<sup>1</sup>
+
+Gli apparecchi galleggianti e le navi che effettuano lavori nell’acqua come anche le navi incagliate o affondate devono recare:
+
+- a. sul o sui lati in cui il passaggio può essere effettuato senza pericolo un fuoco ordinario rosso e a circa un metro al di sotto un fuoco ordinario bianco;
+- b. sul o sui lati in cui il passaggio non può essere effettuato senza pericolo, un fuoco ordinario rosso collocato alla stessa altezza come il fuoco rosso di cui alla lettera a.
+
+<sup>2</sup> I fuochi di cui al capoverso 1 devono essere collocati a un’altezza tale da essere visibili da tutti i lati. Se la posizione di una nave affondata impedisce il collocamento dei fuochi su quest’ultima, i fuochi devono essere collocati su un canotto o in altro modo adeguato.
+
+#### Art. 10.11
+
+**Segnaletica diurna di apparecchi galleggianti, navi al lavoro e navi incagliate o affondate**
+
+<sup>1</sup>
+
+Gli apparecchi galleggianti e le navi che effettuano lavori nell’acqua come anche le navi incagliate o affondate devono recare:
+
+- a. sul o sui lati in cui il passaggio può essere effettuato senza pericolo, una bandiera di cui la metà superiore è rossa e quella inferiore bianca oppure due bandiere sovrapposte la superiore rossa e l’inferiore bianca;
+- b. sul o sui lati in cui il passaggio non può essere effettuato senza pericolo, una bandiera rossa collocata alla stessa altezza come la bandiera rossa e bianca o la bandiera rossa di cui alla lettera a.
+
+<sup>2</sup> Le bandiere di cui al capoverso 1 devono essere collocate a un’altezza tale da essere visibili da tutti i lati. Se la posizione di una nave affondata impedisce il collocamento delle bandiere su quest’ultima si provvederà a collocarle su un canotto o in altro modo adeguato.
+
+#### Art. 10.12
+
+**Stazionamento vietato**
+
+Lo stazionamento è vietato nelle strettoie, nei canali e in prossimità dei ponti.
+
+### Capo XI: Diversi
+
+#### Art. 11.01
+
+**Posa e segnalazione di attrezzi di pesca**
+
+<sup>1</sup> La posa di reti, di nasse ed altri attrezzi di pesca è autorizzata sulle rotte delle navi prioritarie, giusta l’articolo 1.15 prima frase, in prossimità dell’entrata dei porti e dei debarcaderi delle navi passeggeri come anche nei canali dei settori del Reno soltanto se non è intralciata la navigazione.
+
+<sup>2</sup> La posizione delle reti, delle nasse e di altri attrezzi da pesca che potessero intralciare la navigazione deve essere segnalata mediante boe bianche in numero sufficiente.
+
+#### Art. 11.02
+
+**Pesca al traino**
+
+La pesca al traino fatta da diverse navi facenti rotta di fronte o in fila indiana è vietata.
+
+#### Art. 11.03
+
+**Idroplani**
+
+Le prescrizioni concernenti la circolazione sono applicabili agli idroplani nella misura in cui non si applica il diritto concernente la navigazione aerea.
+
+#### Art. 11.04
+
+**Divieto di fare il bagno, di effettuare immersioni e di tuffarsi da ponti[^1104-2]**[^1104-1]
+
+<sup>1</sup> Sono vietati il bagno e l’immersione fuori dei bagni pubblici a meno di 100 m dalle entrate dei porti utilizzate dalle navi passeggeri e dagli imbarcaderi destinati alla navigazione di linea. Questo divieto vale anche per altre entrate di porti, se si intralcia la navigazione.
+
+<sup>2</sup> È vietata l’immersione in un canale di navigazione segnalato.
+
+<sup>3</sup> Alle persone non autorizzate è vietato avvicinarsi o attaccarsi alle navi.
+
+<sup>4</sup> È vietato tuffarsi da ponti in canali di navigazione quando si stanno avvicinando navi.[^1104-3]
+
+[^1104-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1104-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1104-3]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 11.05
+
+**Approvazione di manifestazioni**[^1105-1]
+
+Le corse di velocità, le feste nautiche e qualsiasi altra manifestazione che può causare concentrazione di navi o intralciare la navigazione devono essere approvate dall’autorità competente. L’approvazione non è concessa se vi è da temere che la manifestazione pregiudichi considerevolmente la navigazione, la sicurezza delle persone, la qualità delle acque, la pesca o l’ambiente e che tali inconvenienti non possano essere evitati o compensati mediante oneri o condizioni.
+
+[^1105-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 11.06
+
+**Approvazione di trasporti speciali**
+
+Lo spostamento di navi non costruite in modo rispondente alle prescrizioni della presente ordinanza e di impianti galleggianti (trasporti speciali) deve essere approvato dall’autorità competente. L’approvazione può essere accordata soltanto se non sono compromesse la sicurezza e la fluidità della navigazione e non vi è motivo di temere pericoli o svantaggi a danno della navigazione.
+
+## Parte terza: Disposizioni d’ammissione
+
+### Capo XII: Autorizzazione per condurre navi
+
+#### Art. 12.01
+
+**Obbligo del permesso**[^1201-1]
+
+Per condurre navi il cui organo di propulsione ha una potenza superiore a 4,4 kW, oppure navi a vela la cui superficie velica è superiore a 12 m<sup>2</sup>, è necessario un permesso.
+
+[^1201-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+
+#### Art. 12.02
+
+**Licenza di condurre**
+
+<sup>1</sup> Le licenze di condurre sono rilasciate per le categorie seguenti:
+
+Categoria A: navi motorizzate non rientranti nelle categorie B e C;
+
+Categoria B: navi passeggeri;
+
+Categoria C: navi mercantili e apparecchi galleggianti muniti di mezzi meccanici di propulsione;
+
+Categoria D: navi a vela.
+
+<sup>2</sup> Per condurre navi a vela dotate di motore di potenza superiore a 4,4 kW, occorre inoltre una licenza della categoria A.[^1202-1]
+
+<sup>3</sup> La licenza di condurre della categoria B o C è parimente valida per le navi della categoria A.
+
+<sup>4</sup> La licenza di condurre può essere rilasciata a determinate condizioni e con taluni oneri. Essa può segnatamente essere limitata a taluni tipi di navi e a taluni settori della via navigabile per ogni categoria.
+
+<sup>5</sup> Per la conduzione di navi di tipo speciale (art. 14.01 cpv. 6 primo periodo) occorre presentare, senza pregiudizio delle disposizioni del capoverso 1, un attestato di idoneità specifico.[^1202-2]
+
+<sup>6</sup> Per condurre una nave passeggeri con un numero massimo consentito di dodici persone è sufficiente la licenza di condurre rispettivamente della categoria A e D. In deroga all’articolo 12.03 capoverso 1 lettera a, il titolare della licenza di condurre deve avere almeno 21 anni.[^1202-3]
+
+[^1202-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^1202-2]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1202-3]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 12.03
+
+**Condizioni generali da cui dipende il conseguimento di una licenza di condurre**
+
+<sup>1</sup>
+
+Il titolare di una licenza di condurre deve:
+
+- a.[^1203-1] aver raggiunto l’età di:
+
+<table>
+<tr><td></td><td>per la licenza della</td><td>categoria A:</td><td>18 anni,</td></tr>
+<tr><td></td><td></td><td>categoria B:</td><td>21 anni,</td></tr>
+<tr><td></td><td></td><td>categoria C:</td><td>21 anni,</td></tr>
+<tr><td></td><td></td><td>categoria D:</td><td>14 anni.</td></tr>
+</table>
+
+- b. essere idoneo a condurre una nave;
+- c. aver superato gli esami prescritti (art. 12.05).
+
+<sup>2</sup> Le condizioni di idoneità richieste a norma del capoverso 1 lettera b sono adempiute se il candidato dispone di un’idoneità mentale e fisica sufficiente e se, in base alla sua condotta precedente, si può presumere che rispetterà le prescrizioni e agirà in modo da evitare danni ad altre persone. In caso di dubbi sulla sua idoneità mentale o fisica, può essere richiesto un certificato medico. I candidati che intendono ottenere una licenza della categoria B sono obbligati a presentare un certificato medico.[^1203-2]
+
+[^1203-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^1203-2]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 12.04
+
+**Tempo di navigazione richiesto per il conseguimento della licenza di condurre delle categorie B e C**
+
+<sup>1</sup>
+
+Il richiedente di una licenza di condurre della categoria B deve avere compiuto:
+
+- a. un periodo di navigazione di nove mesi di cui almeno cinque sul lago di Costanza per le navi di una capacità non superiore a 60 persone;
+- b. un periodo di navigazione di 18 mesi di cui almeno 9 sul lago di Costanza per le navi di una capacità di più di 60 persone.
+
+<sup>2</sup> Il richiedente di una licenza di condurre della categoria C deve aver compiuto un periodo di navigazione pratica di un anno di cui almeno 6 mesi sul lago di Costanza.
+
+<sup>3</sup> Il periodo di navigazione deve essere trascorso a bordo di una nave dello stesso tipo di quello per cui è chiesta la licenza di condurre.
+
+<sup>4</sup> È riconosciuto come periodo di navigazione il tempo durante cui il richiedente si è trovato a bordo di una nave in servizio e ha ricevuto istruzioni concernenti i doveri del conduttore. Il periodo di istruzione teorica può essere computato in quello di navigazione prescritto fino a un massimo di un sesto di quest’ultimo tempo.
+
+#### Art. 12.05
+
+**Esame di conduttore**
+
+<sup>1</sup>
+
+Il richiedente di una licenza di condurre deve provare lo propria attitudine in un esame teorico e pratico. Tale esame concerne segnatamente i punti seguenti:
+
+- a. prescrizioni concernenti la polizia di navigazione;
+- b. comportamento nei singoli casi;
+- c. idoneità a condurre una nave;
+- d. conoscenza della via navigabile per i richiedenti di una licenza delle categorie B e C.
+
+<sup>2</sup> I titolari di un certificato di capacità ufficiale rilasciato da uno Stato costiero del lago di Costanza sono esonerati dall’esame pratico secondo il capoverso 1 lettera c per l’ottenimento della licenza di condurre corrispondente di cui all’articolo 12.02.[^1205-1]
+
+[^1205-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 12.06
+
+**Contenuto della licenza di condurre**
+
+<sup>1</sup>
+
+La licenza di condurre deve recare almeno le indicazioni seguenti:
+
+- a. cognome, nome, fotografia, domicilio, data di nascita, firma del titolare;
+- b. durata di validità;
+- c. categoria;
+- d. condizioni e oneri;
+- e.[^1206-1] autorità rilasciante la licenza, luogo e data dell’allestimento.
+
+<sup>2</sup> Se una licenza di condurre è andata smarrita, l’autorità che l’ha rilasciata può allestire su domanda una copia designata come tale.
+
+[^1206-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 12.07
+
+**Cambiamento di residenza abituale**[^1207-1]
+
+Se il titolare di una licenza di condurre cambia domicilio per recarsi da uno Stato costiero sul lago di Costanza nell’altro Stato costiero, o da uno Stato non costiero in uno Stato costiero diverso da quello che ha rilasciato la licenza di condurre, è tenuto a far rinnovare la sua licenza di condurre presso l’autorità competente secondo la legislazione nazionale.
+
+[^1207-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 12.08
+
+**Revoca e limitazione della licenza di condurre**[^1208-1]
+
+La licenza di condurre può essere revocata o limitata nella misura in cui le condizioni di rilascio previste nell’articolo 12.03 capoverso 1 lettera b non sono più adempiute. Questa disposizione si applica parimenti se il titolare ha navigato sotto notevole influsso di bevande alcooliche o di altre sostanze inebrianti oppure se ha violato gravemente i propri doveri di conduttore.
+
+[^1208-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 12.09
+
+**Riconoscimento di altre licenze di condurre**[^1209-1]
+
+Se il conduttore di una nave di diporto è titolare di un certificato di capacità ufficiale rilasciato da uno Stato costiero del lago di Costanza ma non valevole per questo lago, oppure del Certificato internazionale rilasciato ai sensi della risoluzione ECE n. 40 TRANS/SC.3/147[^1209-2], il certificato di capacità e il Certificato internazionale sono nondimeno riconosciuti come licenza di condurre giusta l’articolo 12.02 per un periodo di 30 giorni in totale nell’arco di un anno civile. I giorni per i quali il riconoscimento è valido devono essere certificati mediante attestazione dell’autorità competente.
+
+[^1209-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+[^1209-2]: Il testo della risoluzione può essere richiesto, ai sensi dell’O del 21 dic. 1994 sugli emolumenti dell’UCFSM ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)), all’UFCL, Vendita di pubblicazioni federali, 3003 Berna.
+
+#### Art. 12.10
+
+**Licenza di condurre per il Reno**
+
+<sup>1</sup> Chiunque desideri navigare sul settore di Reno compreso tra Stein am Rhein (prima boa a valle del ponte stradale all’altezza della casetta chiamata «Hettlerhäuschen») e il ponte stradale Sciaffusa-Feuerthalen deve comprovare di possedere una conoscenza particolareggiata delle condizioni di questo settore. L’esame pratico deve rilevare la capacità di comportarsi correttamente in navigazione su tale settore. Le disposizioni degli articoli 12.01 a 12.08 restano valide; l’articolo 12.09 non è applicabile.
+
+<sup>2</sup> Inoltre, i richiedenti della licenza di condurre delle categorie B o C devono comprovare di aver navigato su tale settore al timone di una nave almeno 20 volte a monte e a valle durante i tre anni precedenti la domanda.
+
+### Capo XIII: Costruzione ed equipaggiamento delle navi
+
+#### Art. 13.01
+
+**Principio**
+
+<sup>1</sup> Le navi devono essere costruite, approvate e mantenute in modo da soddisfare alle disposizioni della presente ordinanza e da garantire la sicurezza della navigazione.
+
+<sup>2</sup> Se vi sono dubbi circa la costruzione e l’equipaggiamento, in occasione di sopralluoghi possono essere richieste le prove necessarie.[^1301-1]
+
+[^1301-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 13.02
+
+**Galleggiabilità**
+
+Tenuto conto delle norme della tecnica di costruzione navale, le navi devono avere una galleggiabilità sufficiente per il loro uso.
+
+#### Art. 13.03
+
+**Stabilità, bordo libero e marchi di immersione**
+
+La stabilità e il bordo libero delle navi devono essere sufficienti per tutte le condizioni di carico corrispondenti al loro uso; le navi passeggeri e mercantili devono recare dei marchi di immersione.
+
+#### Art. 13.04
+
+**Manovrabilità**
+
+Ciascuna nave deve essere dotata di un impianto di governo dal funzionamento sicuro e tale da garantire una buona manovrabilità.
+
+#### Art. 13.05
+
+**Rumore massimo ammissibile in servizio**[^1305-1]
+
+Il livello di pressione acustica delle navi, misurato secondo la norma EN ISO 2922:2000 sulla misurazione del rumore aereo generato da navi per navigazione interna e portuale[^1305-2], non deve superare 72 dB (A). Sono riconosciuti altri procedimenti di misurazione che consentono di misurare il livello di pressione acustica in modo almeno altrettanto preciso, che offrono lo stesso livello di protezione e che raggiungono gli stessi obiettivi. Su richiesta dell’autorità competente occorre esibire la documentazione comprovante l’equivalenza del procedimento adottato.
+
+[^1305-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1305-2]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+#### Art. 13.06
+
+**Avvertitori acustici**
+
+<sup>1</sup> Le navi, eccettuate quelle a remi, devono essere dotate di un avvertitore acustico adeguato, collocato in modo da consentire la libera propagazione del suono.
+
+<sup>2</sup> Gli avvertitori acustici delle navi passeggeri, delle navi mercantili, come anche degli apparecchi galleggianti devono avere un livello di pressione acustica compreso tra i 130 e i 140 dB (A) misurato a circa un metro innanzi al centro della fonte sonora.[^1306-1]
+
+[^1306-1]: Per l’entrata in vigore vedi art. 16.04 cpv. 2 lett. b della presente O.
+
+#### Art. 13.07
+
+**Impianti di pompaggio**
+
+<sup>1</sup> Le navi devono essere dotate di sufficienti impianti e apparecchi di pompaggio
+
+<sup>2</sup> Gli impianti di pompaggio automatici istallati nel fondo della stiva sono vietati.[^1307-1]
+
+[^1307-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 13.08
+
+**Posto del timoniere**
+
+Il posto del timoniere deve essere collocato in modo che il conduttore possa vigilare il canale come anche, nel caso di navi passeggeri, gli impianti necessari per accostare e per partire.
+
+#### Art. 13.09
+
+**Apparecchi radar**
+
+Gli apparecchi radar devono essere del tipo ammesso dall’autorità competente e adeguati alla navigazione sul lago di Costanza.
+
+#### Art. 13.10
+
+**Protezione delle acque**[^1310-1]
+
+<sup>1</sup> Le navi devono essere costruite in modo da non alterare le acque.
+
+<sup>2</sup> Le navi passeggeri, le altre navi come anche gli impianti galleggianti provvisti di impianti per cucinare e di impianti sanitari devono essere dotati dei relativi recipienti necessari per raccogliere le materie fecali, le acque usate e i rifiuti.[^1310-2]
+
+<sup>3</sup> Per il ricupero dell’olio e del carburante deve essere istallato sotto i motori fissi un raccoglitore appropriato. Quest’ultimo non è necessario se sul davanti e sul dietro del motore sono istallati paratie o madieri per impedire lo scolo di olio o di carburante in altre parti della nave.
+
+<sup>4</sup> Gli impianti per raccogliere le materie di cui ai capoversi 2 e 3 devono essere concepiti in modo da consentire l’eliminazione a terra del contenuto.
+
+<sup>5</sup> La parete esterna della nave non deve costituire contemporaneamente un deposito per recipienti contenenti liquidi in grado di inquinare le acque.
+
+<sup>6</sup> La vernice delle parti esteriori delle navi e degli impianti galleggianti deve essere tale da non alterare la qualità dell’acqua.
+
+[^1310-1]: Per l’entrata in vigore vedi art. 16.04 cpv. 2 lett. c della presente O.
+[^1310-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+
+#### Art. 13.11
+
+**Motori a miscela**[^1311-1]
+
+I motori a miscela carburante-olio-lubrificante possono essere usati solo se il carburante non contiene più del 2 per cento di olio (miscela 1:50). ...[^1311-2]
+
+[^1311-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^1311-2]: Per. 2 abrogato dalla Dec. della Commissione internazionale della navigazione del 4 giu. 1991, approvata dal CF il 9 dic. 1991, con effetto dal 1° gen. 1992 ([RU 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83)[82](https://fedlex.data.admin.ch/eli/oc/1992/82_82_82)).
+
+#### Art. 13.11a
+
+**Emissioni di gas di scarico**[^1311a-1]
+
+<sup>1</sup> L’allegato C alla presente ordinanza contiene le prescrizioni sui gas di scarico dei motori di nave.
+
+<sup>2</sup> I veicoli dotati di un motore a ciclo Otto (motori ad accensione comandata) o di un motore Diesel (motore ad accensione automatica) devono essere conformi alle prescrizioni di costruzione dell’allegato C.
+
+<sup>3</sup> Per quanto concerne le quantità di monossido di carbonio (CO), di idrocarburi (HC) e di ossidi d’azoto (NO<sub>x</sub>), le emissioni di gas di scarico dei motori a ciclo Otto o Diesel non devono oltrepassare i valori limite fissati nell’allegato C. Inoltre, la torbidezza dei gas di scarico dei motori Diesel non deve superare i valori limite fissati nell’allegato C.
+
+<sup>4</sup> I veicoli equipaggiati con più motori a ciclo Otto o Diesel, destinati alla propulsione, non devono superare i valori limite relativi alla potenza totale di tutti i motori.
+
+<sup>5</sup> Nella procedura d’ammissione di cui all’articolo 14.01 occorre dimostrare che le prescrizioni dell’allegato C concernenti la costruzione e i valori limite sono rispettate. Questa prova sarà fornita presentando un rapporto di perizia d’omologazione dei gas di scarico, effettuata dalla competente autorità giusta l’allegato C, con riferimento al singolo motore, sotto forma di conferma da parte del titolare della perizia d’omologazione.[^1311a-2] Questo certificato è rilasciato sulla base di un controllo dei gas di scarico conformemente all’allegato C. Le prescrizioni concernenti la costruzione, l’esercizio, i gas di scarico e gli ulteriori controlli, come pure gli apparecchi per le perizie conformi ad altre disposizioni limitanti in modo almeno ugualmente severo le emissioni di gas e di vapori, che garantiscono il medesimo livello di protezione e che ottengono gli stessi risultati, possono pure essere riconosciuti dal Servizio d’omologazione.
+
+<sup>6</sup> Sono riconosciute le perizie d’omologazione conformi alla direttiva 1999/96/CE del Parlamento europeo e del Consiglio del 13 dicembre 1999 sul ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli e che modifica la direttiva 88/77/CEE del Consiglio. Le perizie d’omologazione per motori diesel conformi alla direttiva 2003/44/CE del Parlamento europeo e del Consiglio del 16 giugno 2003 che modifica la direttiva 94/25/CE sul ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri riguardanti le imbarcazioni da diporto, sono riconosciute con riserva delle emissioni di massa assolute (allegato C n. 3.2.2 e 3.3.2). Sono riconosciute altre perizie d’omologazione equivalenti. Se per un motore sono già state effettuate perizie d’omologazione di questo tipo, le disposizioni dei regolamenti su cui si basano tali perizie si applicano per la domanda, la marcatura del motore, il certificato d’omologazione concernente i gas di scarico e per la procedura di verifica della produzione.[^1311a-3]
+
+<sup>7</sup> Nell’ambito del controllo ulteriore, del controllo speciale o del controllo effettuato d’ufficio secondo l’allegato C, i motori a ciclo Otto e quelli Diesel devono essere sottoposti ad un esame esterno. Per i motori a ciclo Otto occorrerà inoltre misurare, mediante apparecchi omologati o tarati, le concentrazioni di monossido di carbonio, d’idrocarburi e di diossido di carbonio contenute nei gas di scarico, come pure il numero di giri del motore. La misura dev’essere effettuata sul veicolo fermo, a motore caldo e a regime minimo. I valori di riferimento iscritti sul certificato d’omologazione concernente i gas di scarico non devono essere oltrepassati nel controllo ulteriore, nel controllo speciale o nel controllo effettuato d’ufficio secondo l’allegato C. Per i motori a ciclo Otto e per quelli Diesel, può essere richiesto il controllo di tutti i sistemi importanti per i gas di scarico. Se importanti componenti dei gas di scarico sono piombate ed esiste una conferma dell’avvenuta esecuzione dei necessari lavori di manutenzione, si può rinunciare al controllo di queste componenti. Il risultato di tale controllo dev’essere comunicato per scritto all’autorità.[^1311a-4]
+
+[^1311a-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 4 giu. 1991, approvata dal CF il 9 dic. 1991, in vigore dal 1° gen. 1992 ([RU 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83)[82](https://fedlex.data.admin.ch/eli/oc/1992/82_82_82)).
+[^1311a-2]: Nuovo testo del per. giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+[^1311a-3]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1311a-4]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 13.11b
+
+**Scambio di motori**[^1311b-1]
+
+<sup>1</sup> I veicoli secondo l’articolo 13.11*a* capoverso 2 possono essere dotati solo di motori (motori di ricambio) che raggiungono almeno i valori limite del grado 1 delle prescrizioni sui gas di scarico.
+
+<sup>2</sup> I veicoli secondo l’articolo 13.11*a* capoverso 2 possono essere dotati solo di motori (motori di ricambio) che raggiungono almeno i valori limite del grado 2 delle prescrizioni sui gas di scarico.
+
+[^1311b-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 28 ott. 1992, approvata dal CF il 12 gen. 1994, in vigore dal 1° feb. 1994, eccettuato il cpv. 2 che entra in vigore il 1° gen. 1996 ([RU 1994 194](https://fedlex.data.admin.ch/eli/oc/1994/194_194_194)[193](https://fedlex.data.admin.ch/eli/oc/1994/193_193_193)).
+
+#### Art. 13.11c
+
+**Manutenzione di motori non sottoposti a perizie d’omologazione per i gas di scarico**[^1311c-1]
+
+I motori a ciclo Otto o diesel che non soddisfano né i requisiti del livello 1 né quelli del livello 2 delle prescrizioni concernenti i gas di scarico a norma dell’allegato C devono essere sottoposti a revisione in occasione dell’ispezione periodica di cui all’articolo 14.04 capoverso 1. La revisione deve essere eseguita nel semestre precedente l’ispezione periodica e ne deve essere inviata conferma scritta all’autorità competente.
+
+[^1311c-1]: Introdotto dall’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 13.11d
+
+**Limitazione delle emissioni di particolato di motori diesel**[^1311d-1]
+
+<sup>1</sup> Le emissioni di particolato di motori diesel con, per ognuno di essi, una potenza superiore a 37 kW devono essere limitate con mezzi adeguati. Questa disposizione non si applica a motori diesel di navi da diporto o di navi passeggeri ammesse per il trasporto di 12 passeggeri al massimo.
+
+<sup>2</sup>
+
+Sono considerati mezzi adeguati a limitare le emissioni di particolato:
+
+- a. un sistema per il quale è stato dimostrato, secondo il programma dell’UN/ECE sulla misurazione delle particelle (PMP)[^1311d-2] nei cicli rilevanti per le navi di cui alla norma EN ISO 8178-4:1996 (Motori a pistone alternativi a combustione interna – misurazione di gas di scarico; Parte 4: Cicli di prova per diverse applicazioni dei motori)[^1311d-3], che può essere rispettato il valore limite del numero di particelle di 1×10<sup>12</sup> kWh<sup>-1</sup> per particelle solide di diametro pari o superiore a 23 nm;
+- b. un sistema di filtri antiparticolato compreso tra quelli indicati nell’elenco dei filtri antiparticolato dell’Istituto austriaco di assicurazione contro gli infortuni (Österreichische Allgemeine Unfallversicherungsanstalt, AUVA), dell’Associazione professionale tedesca dell’edilizia (Berufsgenossenschaft der Bauwirtschaft, BGBau), dell’Ufficio federale svizzero dell’ambiente e dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA)[^1311d-4]; oppure
+- c. filtri equivalenti per quanto concerne le emissioni di particolato.
+
+<sup>3</sup>
+
+I capoversi 1 e 2 si applicano alle navi:
+
+- a. messe in circolazione per la prima volta dopo il 1° gennaio 2015 nel campo d’applicazione della presente ordinanza (art. 0.01), oppure
+- b. messe in circolazione prima del 1° gennaio 2014 nel campo d’applicazione della presente ordinanza (art. 0.01) e dotate dopo il 1° gennaio 2015 di uno o più nuovi motori diesel per la propulsione navale (montaggio di nuovi motori), a condizione che queste misure per limitare le emissioni di particolato siano tecnicamente attuabili ed economicamente sostenibili in caso di montaggio di nuovi motori.
+
+[^1311d-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1311d-2]: Il programma può essere può essere consultato online o richiesto al sito ww.unece.org/unece/search?q=pmp+programm
+[^1311d-3]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1311d-4]: L’elenco dei filtri antiparticolato stilato dall’Ufficio federale dell’ambiente e dall’Istituto nazionale svizzero di assicurazione contro gli infortuni può essere consultato al sito Internet: www.bafu.admin.ch&gt; Temi A-Z &gt; Filtri antiparticolato.
+
+#### Art. 13.12
+
+**Tubi di scarico**
+
+I tubi di scarico dei motori devono essere stagni ai gas e istallati in modo da escludere qualsiasi pericolo d’incendio e qualsiasi altro pregiudizio alla salute; ove occorra, essi devono essere isolati o raffreddati.
+
+#### Art. 13.13
+
+**Recipienti per il carburante**[^1313-1]
+
+<sup>1</sup> I serbatoi del carburante devono essere fabbricati in materiali adeguati e istallati solidamente; ove occorra devono essere previste pareti stagne.
+
+<sup>2</sup> Nei casi di serbatoi fissi, la condotta di riempimento dev’essere collegata al ponte, tranne per i carburanti con un punto infiammabile oltre i 55° Celsius, e la condotta di aerazione all’aria libera. Le condotte di riempitura e di aerazione devono essere raccordate in modo stagno alla chiglia e collocate e costruite in modo che non vi siano fuoriuscite di carburante al momento del riempimento.
+
+<sup>3</sup> La tubazione d’alimentazione deve essere provvista di un dispositivo di chiusura.
+
+[^1313-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 13.14
+
+**Impianti elettrici o a gas liquido**
+
+Gli impianti elettrici o a gas liquido devono soddisfare alle norme della tecnica.
+
+#### Art. 13.15
+
+**Accumulatori**
+
+<sup>1</sup> Gli accumulatori devono essere di costruzione specialmente adeguata alle condizioni di esercizio a bordo.
+
+<sup>2</sup> Gli accumulatori sono disposti in modo da non scostarsi in caso di movimento della nave. Essi devono essere protetti contro i danni meccanici.
+
+#### Art. 13.16
+
+**Impianti di riscaldamento, cucina e frigoriferi**
+
+Gli impianti di riscaldamento, delle cucine e quelli frigoriferi, compresi i loro accessori, devono essere in stato di buon funzionamento.
+
+#### Art. 13.17
+
+**Motori a bordo di navi passeggeri**[^1317-1]
+
+I motori che impiegano carburante con un punto di combustione fino a 55°C non possono essere istallati a bordo di navi passeggeri.
+
+[^1317-1]: Per l’entrata in vigore vedi art. 16.04 cpv. 2 lett. c della presente O.
+
+#### Art. 13.18
+
+**Potenza ammissibile per le navi da diporto**[^1318-1]
+
+La potenza totale dei motori delle navi da diporto deve essere adeguata al loro genere di costruzione.
+
+[^1318-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 13.19
+
+**Equipaggiamento minimo delle navi**[^1319-1]
+
+<sup>1</sup> Le navi devono essere dotate degli apparecchi ottici e acustici necessari per l’emissione dei segnali prescritti nella seconda parte della presente ordinanza.
+
+<sup>2</sup>
+
+Devono essere dotate di estintori o di dispositivi antincendio:
+
+- a. le navi provviste di impianti di riscaldamento o di cucina;
+- b. le navi con motore entrobordo di potenza superiore a 4,4 kW e
+- c. le navi con motore fuoribordo di potenza superiore a 7,4 kW.[^1319-2]
+
+<sup>3</sup> Eccettuate le navi a remi e quelle a vela senza zavorra fissa e con un motore di potenza non superiore a 4,4 kW, ogni nave dev’essere dotata di un dispositivo d’ancoraggio di tenuta sufficiente.[^1319-3]
+
+<sup>4</sup>
+
+Le navi passeggeri e le navi mercantili a motore devono disporre inoltre:
+
+- a. di una bussola;
+- b. di una scatola di pronto soccorso;
+- c. di un megafono o di un impianto d’altoparlanti.
+
+<sup>5</sup> Le disposizioni del capoverso 4 lettera c non si applicano né alle navi passeggeri di capacità inferiore alla dozzina né alle navi mercantili.
+
+<sup>6</sup> Le navi a vela e le navi da diporto a motore che possono essere mosse anche mediante pagaie o remi devono essere dotate di tali mezzi.
+
+<sup>7</sup> Il materiale d’equipaggiamento deve essere sempre utilizzabile e collocato in un luogo appropriato.
+
+[^1319-1]: Per l’entrata in vigore vedi art. 16.04 cpv. 2 lett. a della presente O.
+[^1319-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
+[^1319-3]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+#### Art. 13.20
+
+**Materiale di salvataggio**
+
+<sup>1</sup> Per le navi passeggeri, l’autorità competente stabilisce il tipo e il numero di attrezzi di salvataggio.[^1320-1]
+
+<sup>2</sup> A bordo delle navi passeggeri e mercantili e degli apparecchi galleggianti deve essere disponibile in luogo appropriato e facilmente accessibile almeno una boa di salvataggio. A bordo delle navi che possono ospitare più di cento passeggeri deve esserci una boa di salvataggio in più per ogni gruppo di cento persone.
+
+<sup>3</sup>
+
+Sulle navi seguenti deve essere disponibile un giubbotto di salvataggio con colletto e con spinta idrostatica di almeno 100 N per ciascuna persona a bordo di peso corporeo pari o superiore a 40 chilogrammi:
+
+- a. navi da diporto motorizzate;
+- b. navi da pesca professionale;
+- c. navi a remi che circolano al di fuori della zona costiera (art. 6.11 cpv. 1), eccetto le imbarcazioni a remi da corsa;
+- d. navi a vela.[^1320-2]
+
+<sup>4</sup> Sulle navi di cui al capoverso 3 deve essere disponibile un giubbotto di salvataggio con colletto con un’adeguata spinta idrostatica per ciascuna persona a bordo di peso corporeo inferiore a 40 chilogrammi.[^1320-3]
+
+<sup>5</sup>
+
+Sulle navi di cui al capoverso 3 che non dispongono di un invaso stagno agli spruzzi e alle intemperie sufficientemente grande da adibire al deposito degli attrezzi di salvataggio di cui ai capoversi 3 e 4, le persone che si trovano a bordo devono avere a disposizione o indossare un equipaggiamento di aiuto al galleggiamento conforme alla norma EN ISO 12402-5:2006 (Parte 5: Equipaggiamento di aiuto al galleggiamento (livello 50) – Requisiti di sicurezza)[^1320-4]. Tale disposizione si applica in particolare a:
+
+- a. tavole ad aquilone;
+- b. tavole a vela;
+- c. navi a vela con deriva o multiscafi;
+- d. canoe o caiachi.[^1320-5]
+
+<sup>6</sup> Le navi da diporto con un motore di potenza superiore a 30 kW e le navi a vela con zavorra fissa devono essere dotate, oltre che degli attrezzi di salvataggio di cui ai capoversi 3 e 4, di un apparecchio di lancio di detti attrezzi con una spinta idrostatica di almeno 100 N e una sagola galleggiante di almeno 10 metri di lunghezza.[^1320-6]
+
+[^1320-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+[^1320-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1320-3]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1320-4]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1320-5]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1320-6]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 13.21
+
+**Impianti di radiocomunicazione**[^1321-1]
+
+<sup>1</sup>
+
+Le navi seguenti devono essere dotate di un impianto di radiotelefonia in grado di trasmettere e ricevere sui circuiti nave-nave e nave-terra:
+
+- a. navi passeggeri ammesse al trasporto di oltre 12 passeggeri;
+- b. navi mercantili di lunghezza superiore a 20 metri;
+- c. navi che impiegano il radar come mezzo ausiliario di navigazione (art. 6.12);
+- d. navi impiegate a fine statale o per l’idrologia o l’idrografia;
+- e. navi impiegate a scopo di salvataggio e di soccorso.
+
+<sup>2</sup> I requisiti applicabili agli impianti di radiotelefonia di cui al capoverso 1 e l’impiego delle frequenze sono disciplinati nelle disposizioni nazionali.
+
+[^1321-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+### Capo XIV: Ammissione e ispezione delle navi
+
+#### Art. 14.01
+
+**Ammissione**[^1401-1]
+
+<sup>1</sup> Le navi a motore, le navi mercantili, gli apparecchi galleggianti e le navi a vela dotati di motore o di impianti d’abitazione, di cucina o di impianti sanitari possono essere posti in servizio soltanto se sono stati ammessi dall’autorità competente.
+
+<sup>2</sup> L’ammissione è concessa se la nave, secondo i risultati dell’ispezione ufficiale di cui all’articolo 14.03 capoverso 1, è conforme alle prescrizioni della presente ordinanza.
+
+<sup>3</sup> L’ammissione di una nave che rientra nel campo d’applicazione della direttiva sulle imbarcazioni da diporto è concessa, in deroga al capoverso 2, su presentazione di una dichiarazione di conformità valida a norma dell’allegato XV della direttiva sulle imbarcazioni da diporto e se dall’ispezione di cui all’articolo 14.03 capoverso 3 risulta che per la nave sono rispettate le disposizioni della direttiva. Se la presentazione di una dichiarazione di conformità non è ritenuta adeguata, l’ammissione può essere concessa dopo che è stata eseguita l’ispezione di cui al capoverso 2.
+
+<sup>4</sup> L’ammissione può essere subordinata a condizioni e oneri. Dopo l’ispezione ufficiale è rilasciato un documento (documento di ammissione).
+
+<sup>5</sup> L’ammissione di navi da diporto motorizzate scade dopo tre anni.
+
+<sup>6</sup> L’autorità competente può negare l’ammissione di navi di costruzione speciale come le navi a cuscino d’aria, gli idroscivolanti, le navi ad ali portanti, i sottomarini, ecc. se richiesto dalla sicurezza e dalla fluidità della navigazione o dalla protezione dell’ambiente e della pesca.[^1401-2]
+
+<sup>7</sup>
+
+Non sono ammesse le navi seguenti:
+
+- a. navi che per loro costruzione, il loro modo d’esercizio o la loro sistemazione sono essenzialmente destinate all’abitazione (ad es. navi abitabili);
+- b. navi anfibie; e
+- c. navi motorizzate la cui lunghezza dello scafo, misurata secondo la norma EN ISO 8666:2002[^1401-3], è inferiore a 2,50 metri.[^1401-4]
+
+[^1401-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1401-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1401-3]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1401-4]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+
+#### Art. 14.02
+
+**Contenuto del documento d’ammissione**
+
+<sup>1</sup>
+
+Il documento d’ammissione deve contenere almeno le indicazioni seguenti:
+
+- a. genere e marca della nave;
+- b. segni distintivi e/o nome della nave;
+- c. luogo di stazionamento usuale della nave;
+- d. lunghezza e larghezza fuori tutto;
+- e. numero dei passeggeri ammessi;
+- f.[^1402-1] dislocamento delle navi passeggeri e stazza lorda delle navi mercantili;
+- g.[^1402-2] genere, marca e tipo del motore, numero del motore, potenza e numero d’omologazione dei gas di scarico;
+- h. superficie delle vele;
+- i. equipaggio minimo;
+- j. equipaggiamento prescritto;
+- k. condizioni e oneri;
+- l. validità per le navi da diporto motorizzate;
+- m. nome e domicilio del proprietario o delle persone che possono disporre della nave;
+- n. autorità che ha rilasciato il documento, luogo e data del rilascio, firma della persona responsabile.
+- o.[^1402-3] numero dello scafo (numero HIN), della costruzione o della fabbricazione (se disponibile).
+
+<sup>2</sup> L’articolo 12.06 capoverso 2 è applicabile per analogia.
+
+[^1402-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1402-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+[^1402-3]: Introdotta dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+
+#### Art. 14.03
+
+**Ispezione**
+
+<sup>1</sup> All’atto dell’ispezione è stabilito se la nave è rispondente alle prescrizioni. I particolari dell’ispezione sono stabiliti dall’autorità competente.
+
+<sup>2</sup> L’ispezione può essere soppressa se un organismo riconosciuto ufficialmente attesta che la costruzione e l’equipaggiamento della nave sono rispondenti alle prescrizioni.
+
+<sup>3</sup> Per le navi che rientrano nel campo d’applicazione della direttiva sulle imbarcazioni da diporto (art. 14.01 cpv. 3), l’ispezione si limita a controllare l’ottemperanza alle prescrizioni contenute negli articoli 13.05, 13.10 e 13.11*a*. L’autorità competente può riconoscere le iscrizioni nel manuale del proprietario come prova che le prescrizioni degli articoli 13.05 e 13.10 sono state rispettate.[^1403-1]
+
+[^1403-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)). Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 14.04
+
+**Ispezione periodica, ispezione speciale, ispezione d’ufficio**
+
+<sup>1</sup> Le navi ammesse devono essere sottoposte ogni tre anni a un’ispezione (ispezione periodica). In casi particolari, l’autorità competente può fissare altri intervalli d’ispezione.[^1404-1]
+
+<sup>2</sup> La nave soggiace a un’ispezione speciale se ha subìto modificazioni essenziali o revisioni tali da influire sulla resistenza della chiglia, sulle caratteristiche di costruzione menzionate nei permessi di costruzione o sulla stabilità.
+
+<sup>3</sup> L’autorità competente può esigere un’ispezione d’ufficio se vi è da dubitare che la nave sia rispondente alle prescrizioni.
+
+<sup>4</sup> Se una modificazione essenziale o una revisione ai sensi del capoverso 2 influisce sul rispetto dei requisiti di sicurezza di cui alla direttiva sulle imbarcazioni da diporto o se dall’ispezione d’ufficio a norma del capoverso 3 emergono elementi secondo i quali i requisiti di sicurezza della direttiva sulle imbarcazioni da diporto non sono rispettati, l’autorità può esigere, sempreché ciò sia è ritenuto adeguato, la presentazione di una nuova dichiarazione di conformità a norma dell’allegato XV della direttiva sulle imbarcazioni da diporto.[^1404-2]
+
+[^1404-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1404-2]: Introdotto dall’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 14.05
+
+**Provvedimenti in caso di deficienze**
+
+Se sono accertate deficienze, l’autorità competente può limitare o vietare l’impiego della nave, ritirare il documento d’ammissione o la nave stessa dalla circolazione finché è provato che le deficienze sono state eliminate.
+
+#### Art. 14.06
+
+**Revoca del documento d’ammissione**
+
+L’autorità competente può revocare il documento d’ammissione se la nave non è più rispondente alle prescrizioni. Analogamente avviene se i proprietari o le persone che possono disporre della nave non si conformano, nonostante intimazioni dell’autorità competente, all’invito di presentarsi all’ispezione o a produrre i documenti d’ammissione.
+
+#### Art. 14.07
+
+**Modificazione, rinnovo e restituzione di documenti d’ammissione**
+
+<sup>1</sup> Il proprietario o le persone che possono disporre della nave devono annunciare entro due settimane all’autorità che ha rilasciato il documento d’ammissione qualsiasi fatto che richieda una modificazione di quest’ultimo.
+
+<sup>2</sup> Se il luogo di stazionamento abituale della nave oppure, se la nave non ha un luogo di stazionamento abituale in uno Stato rivierasco del lago di Costanza, quando la residenza abituale del proprietario o delle persone che possono disporre della nave è trasferita nella circoscrizione di un’altra autorità competente, la domanda di rilascio di un nuovo documento deve essere presentata a tale autorità nel termine di due mesi contemporaneamente con il vecchio documento d’ammissione. In tal caso il documento d’ammissione può essere rilasciato senza ispezione della nave. All’occorrenza sarà stabilita la data dell’ispezione periodica successiva.
+
+<sup>3</sup> Se una nave è venduta, il venditore deve annunciare, nel termine di due settimane, l’indirizzo dell’acquirente e il futuro luogo di stazionamento abituale della nave all’autorità che ha rilasciato il documento d’ammissione.
+
+<sup>4</sup> Se una nave è messa fuori servizio per una lunga durata o non naviga più sul lago di Costanza, il proprietario o le persone che possono disporre della nave devono annunciarlo senza indugio all’autorità che ha rilasciato il documento d’ammissione e presentare quest’ultimo.
+
+#### Art. 14.08
+
+**Ammissione alla prova e al trasferimento**[^1408-1]
+
+<sup>1</sup> L’ammissione alla prova e al trasferimento è rilasciata a persone e aziende che fabbricano nella loro azienda, regolarmente e a titolo professionale, navi o motori di navi, li commerciano, li riparano, li trasformano o effettuano lavori simili.
+
+<sup>2</sup> Queste persone devono essere in possesso della necessaria licenza di condurre.
+
+Sono autorizzati a condurre le navi a fini di prova e trasferimento:
+
+- a. i titolari e gli impiegati dell’azienda;
+- b. gli esperti dell’autorità competente per l’ammissione.
+
+<sup>3</sup>
+
+L’ammissione alla prova e al trasferimento può essere usata soltanto:
+
+- a. per tragitti ai fini della riparazione dei guasti e del rimorchio;
+- b. per il trasferimento e la prova di navi in relazione agli esami ufficiali e al commercio di navi nonché a riparazioni, trasformazioni e altri lavori sulle navi.
+
+<sup>4</sup> Il titolare del documento d’ammissione deve tener sufficientemente conto degli elevati rischi connessi con le corse a fini di prova e di trasferimento.
+
+[^1408-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+
+### Capo XV: Equipaggio
+
+#### Art. 15.01
+
+**Equipaggio**
+
+<sup>1</sup> L’equipaggio delle navi deve essere sufficiente e qualificato per garantire la sicurezza delle persone trovantesi a bordo, della navigazione in generale e degli altri utenti dell’idrovia.
+
+<sup>2</sup> L’autorità competente stabilisce l’effettivo minimo dell’equipaggio delle navi passeggeri e mercantili tenendo conto della grandezza, della costruzione, dell’equipaggiamento, dell’utilizzazione e della zona di navigazione della nave. Se l’equipaggio consta di più di una persona uno dei suoi membri deve essere idoneo a sostituire temporaneamente il conduttore. Inoltre, un membro dell’equipaggio deve essere stato formato per il servizio e la manutenzione delle macchine.
+
+## Parte quarta: Disposizioni finali
+
+#### Art. 16.01
+
+**Diritti speciali**
+
+Le navi utilizzate a fine statale o per l’idrologia o l’idrografia come anche le navi di salvataggio sono dispensate dall’applicazione delle prescrizioni dei capitoli V a VII, X, XI e XIII a XV nella misura in cui l’adempimento dei loro compiti lo richiede assolutamente. Le navi della polizia, dell’amministrazione delle dogane, della vigilanza della pesca non sono inoltre tenute, nelle condizioni summenzionate, ad applicare le prescrizioni dell’articolo 3.06 purché non ne risulti pregiudizio per la sicurezza della navigazione.
+
+#### Art. 16.02
+
+**Eccezioni**
+
+<sup>1</sup> L’autorità competente può autorizzare, in singoli casi, deroghe alle prescrizioni degli articoli 3.06, 5.02 capoversi 1, 2, 4 e 5, 6.02, 6.11, 6.15, 9.01, 10.03, 10.08, 11.02, 11.04, 12.03 capoverso 1 lettera a, 12.04, 13.03 ultima parte del periodo, 13.05, 13.06, 13.10, 13.11, 13.11*a*, 13.11*b*, 13.18, 13.19 e 14.08, se non ne risulta pregiudizio alla sicurezza e alla fluidità della navigazione e se non vi sono da temere pericoli o intralci che potrebbero essere causati dalla navigazione.[^1602-1]
+
+<sup>2</sup> Se manifestazioni giusta l’articolo 11.05 come anche prove e controlli di novità tecniche nel campo della navigazione sono autorizzate, l’autorità competente può, secondo le condizioni previste al capoverso 1, autorizzare altre eccezioni a prescrizioni della presente ordinanza.
+
+<sup>3</sup> L’autorità competente può, secondo le condizioni del capoverso 1, autorizzare eccezioni alle prescrizioni dell’articolo 13.17 nei casi di navi a motore fuoribordo, di navi il cui numero ammissibile dei passeggeri non superi le 12 persone e di navi passeggeri dotate di nuove tecnologie di propulsione.[^1602-2]
+
+<sup>4</sup> L’autorità competente può autorizzare eccezioni all’articolo 13.20 se la nave presenta, in ragione della costruzione, una galleggiabilità sufficiente in caso d’avaria.
+
+<sup>5</sup> L’autorità competente può autorizzare, in determinate zone presso la riva, alle condizioni del capoverso 1, l’impiego di natanti da diporto che non soddisfano le prescrizioni del capo XIII, quali le tavole a vela o le tavole ad aquilone.[^1602-3]
+
+<sup>6</sup> L’autorità competente può, alle condizioni di cui al capoverso 1, autorizzare eccezioni al divieto di cui all’articolo 8.01 capoverso 1. Prima che tali eccezioni siano autorizzate occorre stabilire, d’intesa con le autorità competenti degli altri Stati rivieraschi del Lago di Costanza, pari condizioni per il trasporto di sostanze o merci pericolose. Questo vale anche se il trasporto è effettuato sul territorio di un unico Stato rivierasco.[^1602-4]
+
+[^1602-1]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1602-2]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+[^1602-3]: Nuovo testo giusta l’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1602-4]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 ott. 2003, approvata dal CF il 24 mar. 2004v 1° mag. 2004 ([RU 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)).
+
+#### Art. 16.03
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le licenze di condurre rilasciate prima dell’entrata in vigore della presente ordinanza permangono valide.
+
+<sup>2</sup> a <sup>6</sup> ... [^1603-1]
+
+[^1603-1]: Abrogati dall’O della Commissione internazionale della navigazione del 16 giu. 2005, approvata dal CF il 2 dic. 2005, con effetto dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+
+#### Art. 16.03a
+
+**Disposizioni transitorie concernenti la modifica del 23 ottobre 2013.**[^1603a-1]
+
+<sup>1</sup> Per l’ottenimento di una licenza ufficiale per la navigazione a mezzo radar o di una licenza equivalente (art. 6.12 cpv. 1 lett. a) si applica un termine transitorio di due anni dall’entrata in vigore della modifica del 23 ottobre 2013.
+
+<sup>2</sup>
+
+In virtù dell’articolo 61 paragrafo 4 comma 2 del regolamento (CE) n. 1272/2008[^1603a-2], le miscele[^1603a-3] trasportate secondo gli articoli 8.02 e 8.03 e classificate, contrassegnate e imballate in conformità alla direttiva 1999/45/CE[^1603a-4] possono essere:
+
+- a. immesse sul mercato fino al 1° giugno 2015; e
+- <sup>b.</sup> <sup>trasportate fino al 1° giugno 2017.</sup>
+
+<sup>3</sup> Per la sostituzione di attrezzi di salvataggio che non soddisfano i requisiti di cui all’articolo 13.20 nella versione della modifica del 23 ottobre 2013. si applica un termine transitorio di tre anni dall’entrata in vigore della modifica.
+
+<sup>4</sup> Per l’acquisto e la messa in servizio dell’impianto di radiotelefonia di cui all’articolo 13.21 si applica un termine transitorio di un anno dall’entrata in vigore della modifica.
+
+[^1603a-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 18 apr. 2013, approvata dal CF il 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1603a-2]: Cfr. nota a piè pagina relativa all’art. 0.02 lett. q n. 1.
+[^1603a-3]: In Svizzera corrisponde a «preparati».
+[^1603a-4]: Cfr. nota a piè pagina relativa all’art. 0.02 lett. q n. 2.
+
+#### Art. 16.04
+
+**Entrata in vigore**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° aprile 1976.
+
+<sup>2</sup>
+
+In deroga al capoverso 1, entrano in vigore per le navi che il 31 marzo 1976 erano ammesse o dispensate dall’obbligo d’ammissione:
+
+- a. gli articoli 13.11 prima frase e 13.19 il 1° aprile 1977;
+- b. gli articoli 13.05 e 13.06 capoverso 2, il 1° aprile 1978;
+- c. gli articoli 13.10 e 13.17, il 1° aprile 1979;
+- d. l’articolo 13.11 seconda frase, il 1° aprile 1981.
+
+## Disposizione finale della modificazione del 4 giugno 1991****
+
+[^u1-1]
+
+[^u1-1]: [RU 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83)
+
+La presente modificazione si applica ai veicoli muniti di motori di nave che sono ammessi, per la prima volta, dopo il 1° gennaio 1993 in virtù dell’ordinanza per la navigazione sul lago di Costanza.
+
+## Disposizione finale della modificazione del 23 giugno 1995****
+
+[^u2-1]
+
+[^u2-1]: [RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)
+
+I requisiti contenuti nell’articolo 13.20 capoversi 3 e 6 relativi alla spinta idrostatica degli attrezzi di salvataggio si applicano unicamente agli attrezzi di salvataggio su navi ammesse per la prima volta dopo l’entrata in vigore della presente modifica.
+
+Allegato A
+
+## Segnali acustici
+
+### A. Segnali acustici delle navi
+
+<table>
+<tr><td>Segnale acustico</td><td>Significato</td><td>Articolo</td><td></td></tr>
+<tr><td>– un suono breve</td><td>«Accosto a dritta»</td><td>4.02</td><td>(1)</td></tr>
+<tr><td>– – due suoni brevi</td><td>«Accosto a sinistra» «L’incrocio deve avvenire a dritta»</td><td>4.02 6.04 10.04</td><td>(1) (4) (1)</td></tr>
+<tr><td>– – – tre suoni brevi</td><td>«Batto a ritroso»</td><td>4.02</td><td>(1)</td></tr>
+<tr><td>– – – – quattro suoni brevi</td><td>«Sono incapace di manovrare»</td><td>4.02</td><td>(1)</td></tr>
+<tr><td>— un suono prolungato</td><td>«Attenzione» o «Avanzo in linea retta» «Segnale di uscita da un porto» «Segnale di foschia delle navi, eccettuate quelle prioritarie» «Segnale di passaggio di ponti»</td><td>4.02 6.10 6.14 10.05</td><td>(1) (2) (1) (1)</td></tr>
+<tr><td>— — due suoni prolungati</td><td>«Segnale di foschia delle navi prioritarie»</td><td>6.14</td><td>(2)</td></tr>
+<tr><td>— — — tre suoni prolungati</td><td>«Segnale d’entrata in un porto delle navi prioritarie, dei convogli rimorchiati e delle navi in difficoltà»</td><td>6.10</td><td>(2)</td></tr>
+<tr><td>— — — — serie di suoni prolungati</td><td>«Segnale delle navi in pericolo»</td><td>6.16</td><td></td></tr>
+</table>
+
+### B. Segnali acustici degli impianti
+
+<table>
+<tr><td>– – – – – – due suoni brevi tre volte il minuto o rintocchi continui di campana</td><td>«Segnale di foschia dei porti, degli imbarcaderi e degli impianti avvertitori di nebbia»</td><td>4.03</td><td></td></tr>
+</table>
+
+Allegato B*[^t-3]*
+
+## Segnaletica dell’idrovia****
+
+[^annexB-lvlu1-1]
+
+[^t-3]: Aggiornato giusta le Dec. della Commissione internazionale della navigazione del 29 apr. 1988, approvata dal CF il 21 dic. 1988 ([RU 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)), del 23 giu. 1995, approvata dal CF il 29 nov. 1995 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)), del 27 giu. 2001, approvata dal CF il 21 nov. 2001 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)) e del 16 giu. 2005, approvata dal CF il 2 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^annexB-lvlu1-1]: Per legenda dei colori vedi alla fine del presente all.
+
+Generalità
+
+- 1\. Eccettuate le boe gialle secondo la lettera G, i segnali devono avere la forma prevista nell’allegato. La loro lunghezza dal lato più piccolo rispettivamente il loro diametro, dev’essere almeno di 0,80 m.
+- 2\. Il retro di un segnale, se non reca indicazioni, dev’essere colorato in bianco.
+- 3\. Di note, il segnali possono essere illuminati.
+
+### A. Segnali di divieto
+
+<table>
+<tr><td>A.1</td><td colspan="4">Divieto di passaggio o superficie d’acqua sbarrata</td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="2">a. Per ogni nave</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td colspan="4">Due segnali luminosi</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td colspan="4">b. Per le navi motorizzate</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image3.png)</td></tr>
+<tr><td>A.2</td><td colspan="4">Divieto di sorpasso</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image4.png)</td></tr>
+<tr><td>A.3</td><td colspan="4">Divieto di incrociare e sorpassare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image5.png)</td></tr>
+<tr><td>A.4</td><td colspan="4">Divieto di stazionare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image6.png)</td></tr>
+<tr><td>A.5</td><td colspan="4">Divieto d’ancorare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image7.png)</td></tr>
+<tr><td>A.6</td><td colspan="4">Divieto d’ormeggiare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image8.png)</td></tr>
+<tr><td>A.7</td><td colspan="3">Divieto di virare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image9.png)</td></tr>
+<tr><td>A.8</td><td colspan="3">Divieto di cagionare urti d’onda o risucchi</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image10.png)</td></tr>
+<tr><td>A.9</td><td>Divieto di navigare fuori dei limiti indicati</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image12.png)</td></tr>
+<tr><td>A.10</td><td colspan="4">Sci nautico vietato</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image13.png)</td></tr>
+<tr><td>A.11</td><td colspan="4">Divieto di usare le tavole a vela</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image14.png)</td></tr>
+<tr><td>A.12</td><td colspan="4">Divieto per navi a vela</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image15.png)</td></tr>
+</table>
+
+### B. Segnali d’obbligo
+
+<table>
+<tr><td>B.1</td><td>Obbligo di prendere la direzione indicata dalla freccia</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image16.png)</td></tr>
+<tr><td>B.2</td><td>Obbligo di fermarsi in determinate condizioni</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image17.png)</td></tr>
+<tr><td>B.3</td><td>Obbligo di non superare una velocità indicata (in km/h)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image18.png)</td></tr>
+<tr><td>B.4</td><td>Obbligo di emettere un segnale acustico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image19.png)</td></tr>
+<tr><td>B.5</td><td>Obbligo di osservare una prudenza particolare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image20.png)</td></tr>
+</table>
+
+### C. Segnali di limitazione
+
+<table>
+<tr><td>C.1</td><td>Altezza del passaggio limitata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image21.png)</td></tr>
+<tr><td>C.2</td><td>Larghezza del passaggio limitata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image22.png)</td></tr>
+<tr><td>C.3</td><td>L’idrovia si restringe; il numero indicato sul segnale rappresenta, i metri, la distanza dalla riva, cui devono tenersi le navi</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image23.png)</td></tr>
+</table>
+
+### D. Segnali di raccomandazione
+
+<table>
+<tr><td>D.1</td><td colspan="2">Passaggio raccomandato dei ponti a. Nei due sensi</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image24.png)</td></tr>
+<tr><td></td><td colspan="2">b. Solo nel senso dal quale il segnale è visibile</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image25.png) o ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image26.png)</td></tr>
+<tr><td>D.2</td><td>Raccomandazione di tenersi entro lo spazio indicato in «verde»</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image27.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image28.png)</td></tr>
+</table>
+
+### E. Segnali d’indicazione
+
+<table>
+<tr><td>E.1</td><td>Autorizzazione di stazionare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image29.png)</td></tr>
+<tr><td>E.2</td><td>Autorizzazione di ancorare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image30.png)</td></tr>
+<tr><td>E.3</td><td>Fine di un divieto o di un obbligo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image31.png)</td></tr>
+<tr><td>E.4</td><td>Sci nautico autorizzato</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image32.png)</td></tr>
+<tr><td>E.5</td><td>Tavole a vela autorizzate</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image33.png)</td></tr>
+<tr><td>E.6</td><td>Segnalazione del pescaggio minimo di 2 m Quando il livello dell’acqua corrisponde a 2,5 m sulla scala di Costanza, il pescaggio minimo nel luogo segnalato, verso il largo, è di 2 m. Il numero recato sul segnale corrisponde a quello dell’indicazione sistematica delle varie carte per la navigazione sul lago di Costanza.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image34.png)</td></tr>
+<tr><td>E.7</td><td>Segnalazione di bassifondi e ostacoli</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image35.png)</td></tr>
+<tr><td>E.8</td><td colspan="2">Gli ostacoli alla navigazione e gli sbarramenti possono anche essere segnalati con una luce bianca lampeggiante o intermittente.</td></tr>
+</table>
+
+### F. Tavole, targhe e iscrizioni completive
+
+I segnali principali possono essere completati con tavole, targhe o iscrizioni completive, segnatamente nel modo seguente:
+
+- 1\. Targhe indicanti la distanza alla quale va osservata la prescrizione o si trova la particolarità indicata nel segnale principale. Le targhe sono poste sopra il segnale principale.
+
+<table>
+<tr><td>Esempio:</td><td></td></tr>
+<tr><td>Obbligo di non superare 12 km/h a 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image36.png)</td></tr>
+</table>
+
+- 2\. Frecce indicanti il senso del tratto sui s’applica il segnale principale.
+
+<table>
+<tr><td>Esempio:</td><td></td></tr>
+<tr><td>Autorizzazione di stazionare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image37.png)</td></tr>
+</table>
+
+- 3\. Targhe recanti spiegazioni o indicazioni completive. Le targhe sono poste sotto il segnale principale.
+
+<table>
+<tr><td>Esempio:</td><td></td></tr>
+<tr><td>Arresto per la dogana</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image38.png)</td></tr>
+</table>
+
+### G. B Boe gialle; segnalazione dei limiti di superficie cui s’applicano disposizioni particolari
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image39.png)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image40.png)
+
+### H. Segnali d’avvertimento di tempesta
+
+- H.1 Segnale d’avvertimento di vento forte
+- Fuoco arancio intermittente, circa 40 volte il minuto.
+- L’avviso di vento forte segnala la possibilità di forti raffiche di vento, di velocità compresa tra i 25 e i 33 nodi (a partire dal grado 6 della scala Beaufort).
+- H.2 Segnale d’avvertimento di tempesta
+- Fuoco arancio intermittente, circa 90 volte il minuto.
+- L’avviso di tempesta segnala l’arrivo di forti raffiche di vento, di velocità pari o superiore a 34 nodi (a partire dal grado 8 della scala Beaufort).
+
+Allegato C*[^t-4]*
+
+## Prescrizioni concernenti i gas di scarico
+
+[^t-4]: Non pubblicato nella RU ([RU 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83), [1996 984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)[2586](https://fedlex.data.admin.ch/eli/oc/1996/2586_2586_2586), [2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61), [2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)). Estratti possono essere ottenuti presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 (www.bundespublikationen.ch).

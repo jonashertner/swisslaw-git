@@ -1,0 +1,3201 @@
+---
+sr: "814.318.142.1"
+title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
+short: OPair
+eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
+language: fr
+version: 2020-04-01
+adopted: 1985-12-16
+in_force: 1986-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20200401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la protection de l’air
+
+(OPair)
+
+du 16 décembre 1985 (Etat le 1<sup>er</sup> avril 2020)
+
+Le Conseil fédéral suisse,
+
+vu les art. 12, 13, 16 et 39 de la loi du 7 octobre 1983 sur la protection de l’environnement (loi)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**But et champ d’application**
+
+<sup>1</sup> La présente ordonnance a pour but de protéger l’homme, les animaux et les plantes, leurs biotopes et biocénoses, ainsi que le sol, des pollutions atmosphériques nuisibles ou incommodantes.
+
+<sup>2</sup>
+
+Elle régit:
+
+- a. la limitation préventive des émissions dues aux installations qui causent des pollutions atmosphériques, au sens de l’art. 7 de la loi;
+- [tab] a<sup>bis</sup>.[^1-1] l’incinération de déchets en plein air;
+- b. les normes applicables aux combustibles et aux carburants;
+- c. la charge polluante admissible de l’air (valeurs limites d’immission);
+- d. la procédure à suivre lorsque les immissions sont excessives.
+
+[^1-1]: Introduite par le ch. I de l’O du 20 nov. 1991, en vigueur depuis le 1<sup>er</sup> fév. 1992 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+
+#### Art. 2
+
+**Définitions**
+
+<sup>1</sup>
+
+On entend par installations stationnaires:
+
+- a. les bâtiments et autres ouvrages fixes;
+- b. les aménagements de terrain;
+- c. les appareils et machines;
+- d. les installations de ventilation qui collectent les effluents gazeux des véhicules et les rejettent dans l’environnement sous forme d’air évacué.
+
+<sup>2</sup> On entend par véhicules, les véhicules à moteur, les aéronefs, les bateaux et les chemins de fer.
+
+<sup>3</sup> On entend par infrastructures destinées aux transports, les routes, aéroports, voies ferrées et autres installations où les effluents gazeux des véhicules sont rejetés dans l’environnement sans avoir été collectés.
+
+<sup>4</sup>
+
+Par nouvelles installations, on entend aussi les installations transformées, agrandies ou remises en état, lorsque:
+
+- a. ce changement laisse présager des émissions plus fortes ou différentes;
+- b. l’on consent des dépenses supérieures à la moitié de ce qu’aurait coûté une nouvelle installation.
+
+<sup>5</sup>
+
+Sont considérées comme excessives les immissions qui dépassent une ou plusieurs des valeurs limites figurant à l’annexe 7. Si pour un polluant aucune valeur limite n’est fixée, les immissions sont considérées comme excessives lorsque:
+
+- a. elles menacent l’homme, les animaux et les plantes, leurs biocénoses ou leurs biotopes;
+- b. sur la base d’une enquête, il est établi qu’elles incommodent sensiblement une importante partie de la population;
+- c. elles endommagent les constructions;
+- d. elles portent atteinte à la fertilité du sol, à la végétation, ou à la salubrité des eaux.
+
+<sup>6</sup> Par mise dans le commerce, on entend le premier transfert ou la première remise, à titre onéreux ou non, d’un appareil ou d’une machine devant faire l’objet d’une distribution ou d’une utilisation en Suisse. Est assimilée à une mise dans le commerce la première mise en service d’appareils et de machines dans la propre exploitation, lorsqu’aucune mise dans le commerce n’a eu lieu auparavant.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+## Chapitre 2 Émissions
+
+### Section 1 Limitation des émissions dues aux nouvelles installations stationnaires
+
+#### Art. 3
+
+**Limitation préventive des émissions selon les annexes 1 à 4**
+
+<sup>1</sup> Les nouvelles installations stationnaires doivent être équipées et exploitées de manière à ce qu’elles respectent la limitation des émissions fixée à l’annexe 1.
+
+<sup>2</sup>
+
+Des exigences complémentaires ou dérogatoires sont applicables aux installations suivantes:
+
+- a. installations selon l’annexe 2: les exigences fixées par celle-ci;
+- b. installations de combustion: les exigences selon l’annexe 3;
+- c.[^3-1] machines de chantier et leurs systèmes de filtres à particules selon l’art. 19*a*, installations de combustion selon les art. 20 et 20*d* ainsi que machines et appareils équipés d’un moteur à combustion selon l’art. 20*b*: les exigences selon l’annexe 4.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 4
+
+**Limitation préventive des émissions par l’autorité**
+
+<sup>1</sup> Lorsqu’il s’agit d’émissions pour lesquelles la présente ordonnance ne contient aucune limitation ou pour lesquelles une limitation déterminée n’est pas applicable, l’autorité fixe une limitation préventive dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation, et économiquement supportable.
+
+<sup>2</sup>
+
+Sont réalisables sur le plan de la technique et de l’exploitation, les mesures permettant de limiter les émissions qui:
+
+- a. ont fait leurs preuves sur des installations comparables en Suisse ou à l’étranger ou
+- b. ont été appliquées avec succès lors d’essais et que la technique permet de transposer à d’autres installations.
+
+<sup>3</sup> Pour évaluer si la limitation des émissions est économiquement supportable, on se fondera sur une entreprise moyenne, économiquement saine de la branche concernée. Lorsqu’il y a dans une branche donnée des catégories très différentes d’entreprises, l’évaluation se fera à partir d’une entreprise moyenne de la catégorie correspondante.
+
+#### Art. 5
+
+**Limitation plus sévère des émissions par l’autorité**
+
+<sup>1</sup> S’il est à prévoir qu’une installation projetée entraînera des immissions excessives, quand bien même elle respecte la limitation préventive des émissions, l’autorité impose une limitation d’émissions complémentaire ou plus sévère.
+
+<sup>2</sup> La limitation des émissions sera complétée ou rendue plus sévère, de manière à ce qu’il n’y ait pas d’immissions excessives.
+
+#### Art. 6
+
+**Captage et évacuation des émissions[^6-1]**
+
+<sup>1</sup> Les émissions seront captées aussi complètement et aussi près que possible de leur source, et évacuées de telle sorte qu’il n’en résulte pas d’immissions excessives.[^6-2]
+
+<sup>2</sup> Leur rejet s’effectuera en général au-dessus des toits, par une cheminée ou un conduit d’évacuation.
+
+<sup>3</sup> Pour les hautes cheminées, on appliquera l’annexe 6. Si la hauteur H requise ne peut être réalisée ou si le paramètre H<sub>o</sub> dépasse 100 m, l’autorité renforce, en guise de remplacement, les limitations des émissions prévues aux annexes 1 à 3.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 1991, en vigueur depuis le 1<sup>er</sup> fév. 1992 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 1991, en vigueur depuis le 1<sup>er</sup> fév. 1992 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).
+
+### Section 2 Limitation des émissions des installations stationnaires existantes
+
+#### Art. 7
+
+**Limitation préventive des émissions**
+
+Les dispositions sur la limitation préventive des émissions pour les installations stationnaires nouvelles (art. 3, 4 et 6) sont également applicables aux installations stationnaires existantes.
+
+#### Art. 8
+
+**Obligation d’assainir**
+
+<sup>1</sup> L’autorité veille à ce que les installations stationnaires existantes qui ne correspondent pas aux exigences de la présente ordonnance soient assainies.
+
+<sup>2</sup> Elle édicte les décisions nécessaires et fixe le délai d’assainissement au sens de l’art. 10. Au besoin, elle imposera une réduction de l’activité ou l’arrêt de l’installation pour la durée de l’assainissement.[^8-1]
+
+<sup>3</sup> Le détenteur peut être autorisé à renoncer à l’assainissement s’il s’engage à arrêter l’exploitation de l’installation avant l’échéance du délai d’assainissement.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+#### Art. 9
+
+**Limitation plus sévère des émissions**
+
+<sup>1</sup> S’il est établi qu’une installation existante entraîne à elle seule des immissions excessives, quand bien même elle respecte la limitation préventive des émissions, l’autorité impose une limitation d’émissions complémentaire ou plus sévère.
+
+<sup>2</sup> La limitation des émissions sera complétée ou rendue plus sévère jusqu’à ce qu’il n’y ait plus d’immissions excessives.
+
+<sup>3</sup> Pour la limitation des émissions complémentaire ou plus sévère, l’autorité ordonnera des mesures d’assainissement à effectuer dans les délais prévus à l’art. 10, al. 2. Au besoin, elle imposera une réduction de l’activité ou l’arrêt de l’installation pour la durée de l’assainissement.
+
+<sup>4</sup> Si les immissions excessives sont provoquées par plusieurs installations, on procédera conformément aux art. 31 à 34.
+
+#### Art. 10
+
+**Délais d’assainissement**[^10-1]
+
+<sup>1</sup> Le délai ordinaire d’assainissement est de cinq ans.
+
+<sup>2</sup>
+
+Des délais plus courts, mais d’au moins 30 jours, sont fixés lorsque:
+
+- a. l’assainissement peut être exécuté sans investissements importants;
+- b. les émissions sont plus de trois fois supérieures à la valeur fixée pour la limitation préventive des émissions;
+- c. les immissions provoquées par l’installation elle-même sont excessives.
+
+<sup>3</sup>
+
+Des délais plus longs, de dix ans au plus, sont fixés lorsque:
+
+- a. les émissions sont inférieures à une fois et demie la valeur fixée pour la limitation préventive des émissions ou que les dispositions concernant les pertes par les effluents gazeux ne sont pas respectées;
+- b. il n’est pas satisfait à la let. a ou à la let. c de l’al. 2.
+
+<sup>4</sup> Réserve est faite de l’obligation d’assainir dans des délais plus courts au sens de l’art. 32.
+
+[^10-1]: Voir aussi les disp. fin. et trans. mod. 23 juin 2004 et 11 avr. 2018, à la fin du texte.
+
+#### Art. 11
+
+**Allégements**
+
+<sup>1</sup> Sur la base d’une demande, l’autorité accorde des allégements au détenteur d’une installation lorsqu’un assainissement au sens des art. 8 et 10 serait disproportionné, notamment si la technique ou l’exploitation ne le permettent pas ou s’il n’est pas supportable économiquement.
+
+<sup>2</sup> À titre d’allégement, l’autorité pourra accorder en premier lieu des délais plus longs. Si des délais plus longs devaient être insuffisants, l’autorité accordera une limitation des émissions moins sévère.
+
+### Section 3 Contrôle des installations stationnaires
+
+#### Art. 12
+
+**Déclaration des émissions**
+
+<sup>1</sup>
+
+Quiconque exploite ou entend construire une installation qui émet des polluants atmosphériques doit fournir à l’autorité des renseignements sur:
+
+- a. la nature et la quantité des émissions;
+- b. le lieu du rejet, la hauteur à partir du sol à laquelle il apparaît et ses variations dans le temps;
+- c. toute autre caractéristique du rejet, nécessaire pour évaluer les émissions.
+
+<sup>2</sup> La déclaration des émissions peut être établie sur la base de mesures ou du bilan quantitatif des substances utilisées.
+
+#### Art. 13
+
+**Mesures et contrôles des émissions**
+
+<sup>1</sup> L’autorité s’assure que la limitation des émissions est respectée. Elle procède elle-même à des mesures ou à des contrôles des émissions ou les fait exécuter par des tiers.
+
+<sup>2</sup> La première mesure (mesure de réception) ou le premier contrôle devra être effectué si possible dans les trois mois, au plus tard toutefois dans les douze mois qui suivent la mise en service de l’installation nouvelle ou assainie. Les dispositions divergentes de l’annexe 3 sont réservées.[^13-1]
+
+<sup>3</sup>
+
+En règle générale, la mesure ou le contrôle sera renouvelé comme suit, sous réserve des dispositions divergentes des annexes 2, 3 et 4:
+
+- a. tous les quatre ans pour les chaudières alimentées au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1, d’une puissance calorifique maximale de 70 kW et pour les installations de combustion alimentées au gaz d’une puissance calorifique maximale de 1 MW;
+- b. tous les deux ans pour les autres installations de combustion;
+- c.[^13-2] tous les trois ans pour les autres installations.[^13-3]
+
+<sup>4</sup> Pour les installations dont les émissions peuvent être importantes, l’autorité ordonne que ces émissions, ou une autre grandeur d’exploitation permettant de contrôler les émissions, soient mesurées et enregistrées en permanence.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^13-2]: Erratum du 16 avr. 2019, ne concerne que le texte italien ([RO 2019 1225](https://fedlex.data.admin.ch/eli/oc/2019/232)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 13a
+
+**Preuve de l’application des règles de la métrologie**[^13a-1]
+
+<sup>1</sup> Si l’autorité fait exécuter par des tiers les mesures et contrôles des émissions visés à l’art. 13, elle doit contrôler périodiquement que ces tiers connaissent suffisamment les règles de la métrologie.
+
+<sup>2</sup> L’autorité peut renoncer à la vérification périodique visée à l’al. 1 si le tiers ne procède qu’à des mesures et des contrôles pour lesquels sont prévues des méthodes de mesure simplifiées.
+
+[^13a-1]: Introduit par le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 14
+
+**Exécution des mesures**
+
+<sup>1</sup> Les mesures doivent porter sur les phases d’activité importantes pour l’appréciation des émissions. Si nécessaire, l’autorité fixe la méthode et l’étendue des mesures ainsi que les phases d’activité à enregistrer.
+
+<sup>2</sup> Les mesures seront effectuées selon les règles de la métrologie. L’Office fédéral de l’environnement (OFEV) émet des recommandations concernant l’exécution des mesures. Les exigences techniques applicables aux systèmes de mesure et à la stabilité de mesure sont régies par l’ordonnance du 15 février 2006 sur les instruments de mesure[^14-1] et par les dispositions d’exécution édictées par le Département fédéral de justice et police.[^14-2]
+
+<sup>3</sup> Le détenteur de l’installation soumise au contrôle aménagera et rendra accessibles les emplacements pour les mesures, conformément aux instructions de l’autorité.
+
+<sup>4</sup> Les valeurs mesurées et les valeurs calculées, les méthodes utilisées ainsi que les conditions d’exploitation de l’installation pendant les mesures seront consignées dans un rapport.
+
+[^14-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 15
+
+**Appréciation des émissions**
+
+<sup>1</sup> Les valeurs mesurées seront rapportées aux valeurs de référence fixées à l’annexe 1, ch. 23.
+
+<sup>2</sup> Sauf dispositions contraires des annexes 1 à 4, les valeurs calculées au sens de l’al. 1 seront converties en moyennes horaires. Lorsque la situation le justifie, l’autorité peut fixer une autre unité de temps pour calculer les moyennes.
+
+<sup>3</sup> Lors des mesures qui accompagnent le contrôle de réception et lors des mesures ultérieures, la limitation des émissions est considérée comme respectée si aucune des moyennes déterminées au sens de l’al. 2 ne dépasse la valeur limite.
+
+<sup>4</sup>
+
+Dans le cas de mesures permanentes des émissions, les valeurs limites sont considérées comme respectées, si au cours d’une année civile:
+
+- a. aucune moyenne journalière n’est supérieure à la valeur limite;
+- b. 97 % de toutes les moyennes horaires n’excèdent pas 1,2 fois la valeur limite et
+- c. aucune des moyennes horaires ne dépasse le double de la valeur limite.
+
+<sup>5</sup> Pendant le temps de la phase de mise en route et de la phase d’arrêt de l’installation, l’autorité évaluera les émissions en tenant compte des circonstances particulières.
+
+#### Art. 16
+
+**Conduites d’évitement et pannes d’exploitation**
+
+<sup>1</sup> Une conduite d’évitement servant à la protection des installations d’épuration des effluents gazeux ne peut être utilisée qu’avec l’assentiment de l’autorité.
+
+<sup>2</sup> Si l’utilisation d’une conduite d’évitement ou une panne d’exploitation entraîne des émissions importantes, l’autorité décide des mesures à prendre.
+
+### Section 4 Émissions dues aux véhicules et aux infrastructures destinées aux transports
+
+#### Art. 17
+
+**Limitation préventive des émissions dues aux véhicules**
+
+Les émissions des véhicules seront limitées à titre préventif, selon les législations sur la circulation routière, sur la navigation aérienne, sur la navigation et sur les chemins de fer, dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation, et économiquement supportable.
+
+#### Art. 18
+
+**Limitation préventive des émissions dues aux infrastructures destinées aux transports**
+
+Pour les infrastructures destinées aux transports, l’autorité ordonne que l’on prenne, pour limiter les émissions dues au trafic, toutes les mesures que la technique et l’exploitation permettent et qui sont économiquement supportables.
+
+#### Art. 19
+
+**Mesures contre les immissions excessives dues au trafic**
+
+S’il est établi ou à prévoir que des véhicules ou des infrastructures destinées aux transports provoquent des immissions excessives, on procédera conformément aux art. 31 à 34.
+
+### Section 4*a***** Exigences applicables aux machines de chantier et à leurs systèmes de filtres à particules
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Introduite par le ch. I de l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)).
+
+#### Art. 19a
+
+**Exigences**
+
+<sup>1</sup> Les machines et les appareils destinés à être utilisés sur des chantiers, équipés d’un moteur à combustion à allumage par compression d’une puissance supérieure à 18 kW (machines de chantier), doivent satisfaire aux exigences selon l’annexe 4, ch. 3.
+
+<sup>2</sup> Les machines de chantier neuves ne seront mises dans le commerce que si leur conformité aux exigences selon l’annexe 4, ch. 3, est prouvée.
+
+<sup>3</sup> Les machines de chantier ne seront employées que si elles sont équipées d’un système de filtre à particules dont la conformité avec l’annexe 4, ch. 32 et 33 est prouvée.
+
+<sup>4</sup> Lorsque les machines de chantier sont employées à des fins de test ou de présentation, l’autorité peut, sur demande, octroyer des dérogations aux exigences au sens de l’annexe 4, ch. 3. Les dérogations sont octroyées pour 10 jours au plus.[^19a-1]
+
+[^19a-1]: Introduit par le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+#### Art. 19b
+
+**Preuve de conformité**
+
+<sup>1</sup>
+
+La preuve de conformité comprend les documents suivants:
+
+- a. une attestation délivrée par un organisme d’évaluation de conformité selon l’art. 18 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^19b-1] prouvant que le type de machine de chantier ou de système de filtre à particules remplit les exigences selon l’annexe 4, ch. 3 (attestation de conformité);
+- b.
+
+  une déclaration du fabricant ou de l’importateur certifiant que les machines de chantier ou les systèmes de filtres à particules qui seront mis dans le commerce correspondent aux types expertisés (déclaration de conformité), et comportant les indications suivantes:
+
+  - 1\. nom et adresse du fabricant ou de l’importateur,
+  - 2\. type de machine de chantier, de moteur et de système de réduction des particules,
+  - 3\. année de fabrication et numéro de série de la machine de chantier, du moteur et du système de filtre à particules,
+  - 4\. nom et adresse de l’organisme d’évaluation de conformité et numéro de l’attestation de conformité,
+  - 5\. nom et fonction de la personne qui signe la déclaration de conformité pour le fabricant ou l’importateur,
+  - 6\. emplacement exact du marquage de la machine de chantier, et
+
+- c. le marquage au sens de l’annexe 4, ch. 33.
+
+<sup>1bis</sup> Pour les machines de chantier qui remplissent les exigences de l’annexe II du règlement (UE) 2016/1628[^19b-2], la preuve de conformité comprend une réception par type octroyée par un État membre de l’UE pour un type de moteur ou une famille de moteurs, conformément au règlement (UE) 2016/1628.[^19b-3]
+
+<sup>2</sup> Les organismes d’évaluation de conformité remettent à l’OFEV l’attestation de conformité accompagnée des rapports d’évaluation correspondants. L’OFEV publie des listes des types de systèmes de filtres à particules et des types de moteurs conformes.[^19b-4]
+
+<sup>3</sup> Le fabricant ou l’importateur doivent conserver la déclaration de conformité pendant dix ans après la mise dans le commerce de la machine de chantier ou du système de filtre à particules.
+
+[^19b-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^19b-2]: Règlement (UE) 2016/1628 du Parlement européen et du Conseil du 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 252 du 16.9.2016, p. 53; modifié par le règlement délégué (UE) 2017/654 de la Commission du 19 décembre 2016, JO L 102 du 13.4.2017, p. 1, par le règlement délégué (UE) 2017/655 de la Commission du 19 décembre 2016, JO L 102 du 13.4.2017, p. 334 et par le règlement d’exécution (UE) 2017/656 de la Commission du 19 décembre 2016, JO L 102 du 13.4.2017, p. 364.
+[^19b-3]: Introduit par le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^19b-4]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+### Section 5**** Mise dans le commerce d’installations de combustion
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+
+#### Art. 20
+
+**Conditions de mise dans le commerce**[^20-1]
+
+<sup>1</sup>
+
+Les installations de combustion suivantes ne seront mises dans le commerce que si leur conformité aux exigences de l’annexe 4 est prouvée (art. 20*a*):[^20-2]
+
+- a. les brûleurs à air pulsé alimentés à l’huile «extra-légère» ou au gaz, d’une puissance calorifique maximale de 350 kW;
+- b. les chaudières fonctionnant avec des brûleurs à air pulsé selon la let. a, pour autant que le fluide caloporteur soit de l’eau et que sa température ne dépasse pas 110 °C;
+- c. les chaudières selon la let. b, équipées de brûleurs à air pulsé fixes (monoblocs);
+- d.[^20-3] les chaudières pour combustibles gazeux d’une puissance calorifique maximale de 350 kW, pour autant que le fluide caloporteur soit de l’eau et que sa température ne dépasse pas 110 °C;
+- e.[^20-4] ...
+- f. les chauffe-eau à réservoirs en chauffage direct, alimentés au gaz, d’une contenance supérieure à 30 litres et d’une puissance calorifique maximale de 350 kW;
+- g. les chauffe-eau à circulation alimentés au gaz, d’une puissance calorifique de 35 à 350 kW;
+- h.[^20-5] les chaudières pour combustibles solides au sens de l’annexe 5, d’une puissance calorifique maximale de 350 kW, et les brûleurs à granulés destinés aux petites chaudières d’une puissance calorifique maximale de 70 kW.
+
+<sup>2</sup> ...[^20-6]
+
+<sup>3</sup> Les cantons peuvent autoriser l’expérimentation pratique, pendant au maximum deux ans, d’un nombre limité d’installations non encore au bénéfice d’une déclaration de conformité. Les installations qui, à l’échéance de ce délai, n’auront pas de déclaration de conformité dans leur forme existante, seront à nouveau mises hors service.
+
+[^20-1]: Voir aussi les disp. fin. mod. du 23 juin 2004, à la fin du texte.
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-4]: Abrogée par le ch. I de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-5]: Introduite par le ch. I de l’O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)). Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20-6]: Abrogé par le ch. I de l’O du 18 juin 2010, avec effet au 15 juil. 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+#### Art. 20a
+
+**Preuve de conformité**
+
+<sup>1</sup>
+
+La preuve de conformité d’une installation de combustion comprend:[^20a-1]
+
+- a.[^20a-2] un rapport d’essai émanant d’un organisme visé à l’art. 18 LETC[^20a-3] et duquel il ressort que le type d’installation remplit les exigences selon l’annexe 4;
+- b.
+
+  une déclaration du fabricant ou de l’importateur certifiant que l’installation de combustion qui sera mise dans le commerce correspond au type expertisé (déclaration de conformité), et comportant les indications suivantes:
+
+  - 1\. nom et adresse du fabricant ou de l’importateur,
+  - 2\. description de l’installation de combustion,
+  - 3\. dispositions selon l’annexe 4 qui ont été appliquées,
+  - 4\. nom et adresse de l’organisme d’évaluation de conformité et numéro de l’attestation de conformité,
+  - 5\. nom et fonction de la personne qui signe la déclaration de conformité pour le fabricant ou l’importateur;
+
+- c.[^20a-4] un marquage selon l’annexe 4, ch. 23.
+
+<sup>1bis</sup> Pour les appareils visés aux annexes 1.15 et 1.16 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^20a-5], la preuve de conformité peut aussi être apportée conformément aux exigences visées aux art. 5, al. 2, et 7, al. 2, de la présente ordonnance.[^20a-6]
+
+<sup>2</sup> Le fabricant ou l’importateur doivent conserver la déclaration de conformité pendant dix ans après la mise dans le commerce de l’installation.
+
+[^20a-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)).
+[^20a-2]: Nouvelle teneur selon le ch. III 1 de l’O du 22 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)).
+[^20a-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^20a-4]: Introduite par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)).
+[^20a-5]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^20a-6]: Introduit par le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)). Nouvelle teneur selon l’annexe 5 ch. I 3 de l’O du 1<sup>er</sup> nov. 2017 sur les exigences relatives à l’efficacité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)).
+
+### Section 5*a***** Exigences applicables aux machines et appareils équipés d’un moteur à combustion
+
+[^chap2-sec5a-1]
+
+[^chap2-sec5a-1]: Introduite par le ch. I de l’O du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)). Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 20b
+
+**Exigences**
+
+<sup>1</sup> Les machines et les appareils mobiles équipés d’un moteur à combustion qui ne sont pas destinés à la circulation routière (machines et appareils équipés d’un moteur à combustion) doivent satisfaire aux exigences de l’annexe 4, ch. 4.
+
+<sup>2</sup> Les machines et appareils neufs équipés d’un moteur à combustion ne seront mis dans le commerce que si leur conformité aux exigences de l’annexe 4, ch. 4, est prouvée (art. 20*c*).
+
+#### Art. 20c
+
+**Preuve de conformité**
+
+<sup>1</sup>
+
+La preuve de conformité comprend:
+
+- a. une réception par type octroyée par un État membre de l’Union européenne (UE) pour un type de moteur ou une famille de moteurs conformément au règlement (UE) 2016/1628[^20c-1], et
+- b. le marquage du moteur au sens de l’art. 32 du règlement (UE) 2016/1628.
+
+<sup>2</sup> La preuve de conformité peut aussi être une attestation au sens de l’art. 18 LETC[^20c-2], délivrée par un organisme d’évaluation de la conformité, qui confirme que le type de machine ou d’appareil équipé d’un moteur à combustion remplit les exigences de l’annexe 4, ch. 4 (attestation de conformité). Le moteur doit alors porter la marque ou le nom du fabricant et le nom de l’organisme d’évaluation de conformité.
+
+[^20c-1]: Voir note de bas de page ad art. 19b, al. 1<sup>bis</sup>.
+[^20c-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+### Section 5*b***** Mise en service d’installations de combustion
+
+[^chap2-sec5b-1]
+
+[^chap2-sec5b-1]: Introduite par le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 20d
+
+**Conditions de mise en service**
+
+Les chauffages de locaux individuels au sens de l’annexe 5 alimentés aux combustibles solides et fabriqués en série et présentant une puissance calorifique nominale maximale de 50 kW, notamment les chauffages de locaux, les fourneaux, les poêles à accumulation ainsi que les foyers ouverts et les inserts ne peuvent être mis en service que si leur conformité aux exigences de l’annexe 4, ch. 212, est prouvée (art. 20*e*).
+
+#### Art. 20e
+
+**Preuve de conformité**
+
+La preuve de conformité d’un chauffage de locaux individuels fabriqué en série au sens de l’art. 20*d* comprend une déclaration des performances ou une déclaration équivalente du fabricant ou de l’importateur de laquelle il ressort que le type d’installation remplit les exigences de l’annexe 4, ch. 212.
+
+### Section 6 Combustibles
+
+#### Art. 21
+
+**Exigences**
+
+Pour les combustibles, on appliquera les normes de l’annexe 5.
+
+#### Art. 22
+
+**Déclaration**
+
+Quiconque importe ou offre des combustibles à des fins commerciales doit fournir à l’acheteur ou au consommateur une déclaration sur la qualité du produit. À l’importation, il déclarera la qualité également à l’autorité douanière.
+
+#### Art. 23
+
+[^23-1]
+
+[^23-1]: Abrogé par le ch. I de l’O du 4 juil. 2007, avec effet au 1<sup>er</sup> sept. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+
+### Section 7 Carburants
+
+#### Art. 24
+
+**Exigences**
+
+Pour les carburants, on appliquera les normes de l’annexe 5.
+
+#### Art. 25
+
+**Déclaration**
+
+Quiconque importe ou offre des carburants à des fins commerciales doit fournir à l’acheteur ou au consommateur une déclaration sur la qualité du produit. À l’importation, il déclarera la qualité également à l’autorité douanière.
+
+#### Art. 26
+
+**Installations destinées à l’essence sans plomb pour moteurs**
+
+<sup>1</sup> Les installations destinées à l’essence sans plomb pour moteurs, tels les réservoirs d’entrepôt et les conteneurs servant au transport, les véhicules-citernes et les colonnes de distribution, porteront distinctement l’inscription «sans plomb».
+
+<sup>2</sup> Si de l’essence sans plomb doit être entreposée dans une installation ayant contenu de l’essence avec plomb, le détenteur devra préalablement la nettoyer à fond ou veiller, par d’autres mesures, qu’il ne reste pas de résidus excessifs de plomb.
+
+### Section 8**** Incinération de déchets
+
+[^chap2-sec8-1]
+
+[^chap2-sec8-1]: Introduite par le ch. I de l’O du 20 nov. 1991, en vigueur depuis le 1<sup>er</sup> fév. 1992 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)).).
+
+#### Art. 26a
+
+**Incinération en installation**[^26a-1]
+
+L’incinération des déchets ou leur décomposition thermique n’est admise que dans les installations au sens de l’annexe 2, ch. 7, sauf s’il s’agit de l’incinération des déchets désignés à l’annexe 2, ch. 11.
+
+[^26a-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+
+#### Art. 26b
+
+**Incinération hors installation**[^26b-1]
+
+<sup>1</sup> Les déchets naturels provenant des forêts, des champs et des jardins ne peuvent être incinérés hors d’une installation que s’ils sont suffisamment secs pour que leur incinération n’émette pratiquement pas de fumée. [^26b-2]
+
+<sup>2</sup> L’autorité peut, s’il existe un intérêt prépondérant, autoriser, au cas par cas, l’incinération hors installation de déchets naturels provenant des forêts, des champs et des jardins qui ne sont pas assez secs et que les immissions ne sont pas excessives.
+
+<sup>3</sup> Elle peut limiter ou interdire l’incinération hors installation de déchets naturels provenant des forêts, des champs et des jardins en certains endroits ou à certaines périodes, si des immissions excessives sont à craindre.
+
+[^26b-1]: Introduit par le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)).
+[^26b-2]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+## Chapitre 3 Immissions
+
+### Section 1 Détermination et appréciation
+
+#### Art. 27
+
+**Détermination des immissions**
+
+<sup>1</sup> Les cantons surveillent l’état et l’évolution de la pollution de l’air sur leur territoire; ils déterminent notamment l’intensité des immissions.
+
+<sup>2</sup> Ils effectuent en particulier des relevés, des mesures et des calculs de dispersion. L'OFEV leur recommande des méthodes appropriées.
+
+#### Art. 28
+
+**Prévisions sur les immissions**
+
+<sup>1</sup> Avant la construction ou l’assainissement d’une installation stationnaire ou d’une infrastructure destinée aux transports, susceptibles de produire des émissions importantes, l’autorité peut demander au détenteur des prévisions sur les immissions.
+
+<sup>2</sup> Les prévisions indiqueront quelles immissions pourraient se produire, dans quels territoires, dans quelle proportion et à quelle fréquence.
+
+<sup>3</sup> Les prévisions indiqueront la nature et l’intensité des émissions ainsi que les conditions de dispersion et les méthodes de calcul.
+
+#### Art. 29
+
+**Surveillance de certaines installations**
+
+L’autorité peut exiger du détenteur d’une installation dont les émissions sont importantes qu’il surveille à l’aide de mesures les immissions dans le territoire touché.
+
+#### Art. 30
+
+**Appréciation des immissions**
+
+L’autorité apprécie si les immissions mesurées sont excessives (art. 2, al. 5).
+
+### Section 2 Mesures contre les immissions excessives
+
+#### Art. 31
+
+**Élaboration d’un plan des mesures**[^31-1]
+
+L’autorité élabore un plan de mesures au sens de l’art. 44*a* de la loi, s’il est établi ou à prévoir que, en dépit de limitations préventives des émissions, des immissions excessives sont ou seront occasionnées par:
+
+- a. une infrastructure destinée aux transports;
+- b. plusieurs installations stationnaires
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+#### Art. 32
+
+**Contenu du plan de mesures**[^32-1]
+
+<sup>1</sup>
+
+Le plan de mesures indique:
+
+- a. les sources des émissions responsables des immissions excessives;
+- b. l’importance des émissions dégagées par les différentes sources par rapport à la charge polluante totale;
+- c. les mesures propres à réduire les immissions excessives ou à y remédier;
+- d. l’efficacité de chacune de ces mesures;
+- e. les bases légales existantes et celles qui restent à créer pour chacune de ces mesures;
+- f. les délais dans lesquels les mesures doivent être arrêtées et exécutées;
+- g. les autorités compétentes pour l’exécution des mesures.
+
+<sup>2</sup>
+
+Par mesures au sens de l’al. 1, let. c, il faut entendre:
+
+- a. pour les installations stationnaires, des délais d’assainissement plus courts ou une limitation des émissions complémentaire ou plus sévère;
+- b. pour les installations destinées aux transports, des mesures touchant la construction ou l’exploitation de ces infrastructures ou visant à canaliser ou à restreindre le trafic.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+#### Art. 33
+
+**Réalisation du plan de mesures**[^33-1]
+
+<sup>1</sup> Les mesures prévues dans le plan doivent être réalisées en règle générale dans les cinq ans.
+
+<sup>2</sup> L’autorité arrête en priorité les mesures pour les installations qui engendrent plus de 10 pour cent de la charge polluante totale.
+
+<sup>3</sup> Les cantons contrôlent régulièrement l’efficacité des mesures et adaptent les plans en cas de besoin. Ils en informent le public.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+#### Art. 34
+
+**Demandes des cantons**
+
+<sup>1</sup> Si un plan cantonal contient des mesures qui sont de la compétence de la Confédération, le canton soumet le plan au Conseil fédéral et formule les demandes nécessaires.
+
+<sup>2</sup> Lorsque le plan suppose la participation d’un autre canton, l’autorité le soumet au canton concerné et formule les demandes nécessaires. Au besoin, le Conseil fédéral coordonne les plans cantonaux.
+
+## Chapitre 4 Dispositions finales
+
+### Section 1 Exécution
+
+#### Art. 35
+
+**Exécution par les cantons**
+
+Sous réserve de l’art. 36, l’exécution de la présente ordonnance incombe aux cantons.
+
+#### Art. 36
+
+**Exécution par la Confédération**
+
+<sup>1</sup>
+
+La Confédération exécute les prescriptions sur:
+
+- a.[^36-1] la surveillance du marché des machines de chantier, de leurs systèmes de filtres à particules, des installations de combustion, ainsi que des machines et appareils équipés d’un moteur à combustion (art. 37);
+- b.[^36-2] le contrôle des combustibles et des carburants importés et mis dans le commerce (art. 38).[^36-3]
+
+<sup>2</sup> Lorsque les autorités fédérales appliquent d’autres lois fédérales, des accords internationaux ou des décisions internationales qui touchent des objets relevant de la présente ordonnance, elles exécutent également la présente ordonnance. La collaboration de l’OFEV et des cantons est régie par l’art. 41, al. 2 et 4, de la loi; les dispositions légales sur l’obligation de garder le secret sont réservées.[^36-4]
+
+<sup>3</sup>
+
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^36-5] peut édicter des dispositions exécutives et complémentaires, notamment sur:
+
+- a. les méthodes de contrôle, de mesure et de calcul;
+- b. les expertises-type;
+- c. les cheminées.
+
+<sup>4</sup> La Confédération procède à des relevés sur l’état et l’évolution de la pollution atmosphérique dans l’ensemble de la Suisse (art. 39).[^36-6]
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^36-4]: Nouvelle teneur selon le ch. II 13 de l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^36-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^36-6]: Introduit par le ch. I de l’O du 18 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+
+#### Art. 37
+
+**Surveillance du marché des machines de chantier, de leurs systèmes de filtres à particules, des installations de combustion et des machines et appareils équipés d’un moteur à combustion[^37-2]**[^37-1]
+
+<sup>1</sup>
+
+L’OFEV contrôle le respect des prescriptions sur la mise dans le commerce des machines de chantier, de leurs systèmes de filtres à particules, des installations de combustion et des machines et appareils équipés d’un moteur à combustion. Il vérifie en particulier:[^37-3]
+
+- a. si les indications figurant sur la déclaration de conformité sont exactes, ou
+- b.[^37-4] si les moteurs à combustion des machines et appareils qui sont munis d’une marque de réception correspondent au moteur ou à la famille de moteurs au bénéfice d’une réception par type.
+
+<sup>2</sup> Il peut confier cette tâche de contrôle à des corporations de droit public et à des organisations professionnelles de droit privé.
+
+<sup>3</sup> Si les installations contrôlées ne répondent pas aux exigences, l’OFEV arrête les mesures nécessaires. Dans des cas graves, il peut interdire le maintien sur le marché ou la mise dans le commerce ou exiger la mise aux normes des installations commercialisées.
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^37-2]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-3]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-4]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 38
+
+**Combustibles et carburants**
+
+<sup>1</sup> Les autorités douanières prélèvent par sondage des échantillons des combustibles et des carburants importés ou livrés à partir des raffineries indigènes. Elles les soumettent à un laboratoire d’analyses désigné par l’OFEV ou elles les analysent elles-mêmes.[^38-1]
+
+<sup>2</sup> Les autorités douanières ou le laboratoire d’analyse communiquent les résultats de l’analyse à l’OFEV.[^38-2]
+
+<sup>3</sup> L’OFEV contrôle par sondage le respect des prescriptions sur la mise dans le commerce des combustibles et des carburants.[^38-3]
+
+<sup>4</sup> Si l’OFEV constate, après des prélèvements successifs, que le combustible ou le carburant d’un importateur ou d’un marchand ne satisfait pas aux normes de qualité selon l’annexe 5, il en fait part à l’autorité cantonale responsable des poursuites pénales et, le cas échéant, à l’autorité douanière.[^38-4]
+
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+[^38-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+[^38-3]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^38-4]: Introduit par le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+#### Art. 39
+
+**Relevés sur la pollution atmosphérique**
+
+<sup>1</sup> L'OFEV procède à des relevés sur la pollution atmosphérique dans l’ensemble du pays et sur son évolution.
+
+<sup>2</sup> Sur mandat de l’OFEV, le Laboratoire fédéral d’essai des matériaux et de recherches gère le Réseau national d’observation des polluants atmosphériques (NABEL).
+
+#### Art. 39a
+
+**Géoinformation**[^39a-1]
+
+L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^39a-2].
+
+[^39a-1]: Introduit par l’annexe 2 ch. 8 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^39a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+
+### Section 2 Modification et abrogation du droit en vigueur
+
+#### Art. 40
+
+[^40-1]
+
+[^40-1]: Abrogé par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 41
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 10 décembre 1984[^41-1] sur la lutte contre la pollution atmosphérique due aux chauffages est abrogée.
+
+[^41-1]: [[RO 1984 1516](https://fedlex.data.admin.ch/eli/oc/1984/1516_1516_1516)]
+
+### Section 3 Disposition transitoire
+
+#### Art. 42
+
+<sup>1</sup> Les installations exigeant un permis de construire ou une approbation des plans sont réputées nouvelles installations si, au moment de l’entrée en vigueur de la présente ordonnance, le permis de construire ou l’approbation des plans n’a pas encore force de chose jugée.
+
+<sup>2</sup> Dans les deux ans qui suivent l’entrée en vigueur de la présente ordonnance, l’autorité édicte les mesures d’assainissement conformément aux art. 8 et 9, si possible pour l’ensemble des installations à assainir, mais au moins pour les cas les plus urgents.
+
+<sup>3</sup> Pour les immissions excessives existantes, les plans seront établis conformément à l’art. 31 dans les trois ans qui suivent la mise en vigueur de la présente ordonnance.
+
+### Section 3*a***** Durée de validité des dispositions relatives à la mise dans le commerce et à la mise en service d’installations de combustion
+
+[^chap4-sec3a-1]
+
+[^chap4-sec3a-1]: Introduite par le ch. I de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+#### Art. 42a
+
+<sup>1</sup>
+
+Les conditions de mise dans le commerce applicables:
+
+- a. aux installations de combustion visées à l’art. 20, al. 1, let. a à g, valent jusqu’au 25 septembre 2018;
+- b. aux installations de combustion visées à l’art. 20, al. 1, let. h, valent jusqu’au 31 décembre 2019.
+
+<sup>2</sup> Les conditions de mise en service applicables aux installations de combustion visées à l’art. 20*d* valent jusqu’au 31 décembre 2021.
+
+### Section 4 Entrée en vigueur
+
+#### Art. 43
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
+
+## Dispositions transitoires de la modification du 20 novembre 1991****
+
+[^u1-1]
+
+[^u1-1]: [RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Abrogées par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Dispositions transitoires de la modification du 15 décembre 1997****
+
+[^u2-1]
+
+[^u2-1]: [RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Abrogées par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Dispositions transitoires de la modification du 25 août 1999****
+
+[^u3-1]
+
+[^u3-1]: [RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Abrogées par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Dispositions transitoires de la modification du 30 avril 2003****
+
+[^u4-1]
+
+[^u4-1]: [RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)
+
+<sup>1</sup> Les installations exigeant un permis de construire ou une approbation des plans, et pour lesquelles il n’a pas encore été pris de décision juridiquement contraignante au moment de l’entrée en vigueur de la présente modification, doivent répondre aux exigences du nouveau droit.
+
+<sup>2</sup> Par dérogation à l’art. 10, l’autorité accorde un délai d’assainissement de cinq à dix ans pour les installations qui doivent être assainies après le 1<sup>er</sup> juillet 2003, mais qui satisfont déjà aux limitations préventives des émissions au sens des dispositions actuelles de l’ordonnance. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
+
+## Dispositions finales de la modification du 23 juin 2004****
+
+[^u5-1]
+
+[^u5-1]: [RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)
+
+<sup>1</sup> En dérogation à l’art. 10, l’autorité accorde des délais d’assainissement de six à dix ans pour les installations qui doivent être assainies conformément à la modification du 23 juin 2004, mais qui satisfont déjà aux limitations préventives des émissions au sens des anciennes dispositions de l’ordonnance. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
+
+<sup>2</sup> ...[^u5-2]
+
+<sup>3</sup> L’essence pour moteurs et l’huile diesel, qui répondent aux anciennes exigences selon l’annexe 5 de la présente ordonnance[^u5-3], peuvent être mises dans le commerce à partir d’entrepôts agréés, de réserves obligatoires ou d’entrepôts de l’armée jusqu’au 31 décembre 2008.
+
+[^u5-2]: Abrogé par le ch. IV de l’O du 14 oct. 2015, avec effet au 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^u5-3]: [RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)
+
+## Dispositions transitoires de la modification du 4 juillet 2007****
+
+[^u6-1]
+
+[^u6-1]: [RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)
+
+<sup>1</sup> En dérogation à l’art. 10, l’autorité accorde un délai d’assainissement de cinq à dix ans pour les installations qui doivent être assainies aux termes de la modification du 4 juillet 2007, mais qui satisfont aux limitations préventives des émissions d’après les dispositions actuelles de l’ordonnance. Elle accorde un délai d’assainissement de dix ans pour les installations de combustion au bois, sous réserve des dispositions de l’art. 10, al. 2, let. a et c.
+
+<sup>2</sup> Les installations de combustion au sens de l’art. 20, al. 1, let. h, peuvent être mises dans le commerce jusqu’au 31 décembre 2007 sans preuve de conformité.
+
+<sup>3</sup> Les chauffages au bois peuvent être mis dans le commerce jusqu’au 31 décembre 2009 sans preuve de conformité s’ils satisfont aux exigences de l’annexe 4. Ces exigences sont réputées remplies si les chauffages au bois ont obtenu le label de qualité («Qualitätssiegel») pour les chauffages au bois d’Énergie-bois Suisse après le 31 décembre 2003.
+
+## Dispositions transitoires de la modification du 19 septembre 2008****
+
+[^u7-1]
+
+[^u7-1]: [RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)
+
+<sup>2</sup> Les exigences selon l’annexe 4, ch. 3, s’appliquent aux machines de chantier d’une capacité de 18 kW à 37 kW fabriquées à partir de 2010.
+
+<sup>3</sup> Pour les systèmes de filtres à particules figurant sur la Liste des filtres OFEV/Suva au moment de l’entrée en vigueur de la présente modification, les exigences selon l’annexe 4, ch. 32, sont considérées comme remplies.
+
+<sup>4</sup> L’huile de chauffage «extra-légère» qui répond aux anciennes exigences selon l’annexe 5 peut être mise dans le commerce à partir d’entrepôts agréés, de réserves obligatoires ou d’entrepôts de l’armée jusqu’au 31 décembre 2011.
+
+<sup>1</sup> Les exigences selon l’annexe 4, ch. 3, s’appliquent aux machines de chantier d’une puissance supérieure ou égale à 37 kW:
+
+- a. fabriquées entre 2000 et 2008: à partir du 1<sup>er</sup> mai 2010 si elles sont employées sur des chantiers appartenant au niveau de mesure A tel que défini dans la Directive du 1<sup>er</sup> septembre 2002 de l’Office fédéral de l’environnement concernant la protection de l’air sur les chantiers;
+- b. fabriquée avant 2000: à partir du 1<sup>er</sup> mai 2015.
+
+## Dispositions transitoires des modifications du 18 juin 2010****
+
+[^u8-1]
+
+[^u8-1]: [RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Abrogées par le ch. IV de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+## Dispositions transitoires de la modification du 14 octobre 2015****
+
+[^u9-1]
+
+[^u9-1]: [RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)
+
+Par dérogation à l’art. 10, l’autorité accorde un délai d’assainissement de six à dix ans pour les moteurs à combustion stationnaires et les turbines à gaz qui doivent être assainies du fait de la modification du 14 octobre 2015, mais qui satisfont déjà aux limitations préventives des émissions au sens des dispositions actuelles de l’ordonnance. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
+
+## Dispositions transitoires de la modification du 11 avril 2018****
+
+[^u10-1]
+
+[^u10-1]: [RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)
+
+<sup>1</sup> En dérogation à l’art. 10, l’autorité accorde des délais d’assainissement de dix ans pour les installations devant être assainies en vertu de la modification du 11 avril 2018, mais qui satisfont aux limitations préventives des émissions d’après les dispositions actuelles de l’ordonnance; les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
+
+<sup>2</sup> L’huile de chauffage «extra-légère Euro» pourra être utilisée jusqu’au 31 mai 2023 dans les installations ou dans les unités d’exploitation présentant une puissance calorifique inférieure à 5 MW pour ce combustible.
+
+<sup>3</sup> Les valeurs limites d’émission pour les matières solides visées à l’annexe 3, ch. 511, al. 1, et 522, al. 1, applicables aux installations de combustion d’une puissance calorifique maximale de 70 kW sont valables à partir du 1<sup>er</sup> juin 2019.
+
+Annexe 1*[^t-1]*
+
+(art. 3, al. 1)
+
+## Limitation préventive générale des émissions
+
+[^t-1]: Mise à jour selon le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), le ch. II 10 de l’O du 18 mai 2005 sur l’abrogation et la modification du droit en vigueur du fait de la loi sur les produits chimiques ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) et du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+
+### 1 Champ d’application
+
+<sup>1</sup> La présente annexe est applicable à la limitation préventive des émissions provenant d’installations stationnaires.
+
+<sup>2</sup> Réserve est faite des dispositions complémentaires ou dérogatoires s’appliquant:
+
+- a. aux installations spécifiques au sens de l’annexe 2;
+- b. aux installations de combustion au sens de l’annexe 3;
+- c. à l’expertise-type d’installations de combustion selon l’annexe 4.
+
+### 2 Définitions
+
+### 21 Effluents gazeux
+
+Sont qualifiés d’effluents gazeux l’air évacué, les fumées et les autres polluants atmosphériques émis par les installations.
+
+### 22 Émissions
+
+L’intensité des émissions est exprimée sous forme de:
+
+- a. concentration:
+- masse des substances émises par rapport au volume des effluents gazeux (p. ex., en milligrammes par mètre cube [mg/m<sup>3</sup>]);
+- b. débit massique:
+- masse des substances émises par unité de temps (p. ex., en grammes par heure [g/h]);
+- c. facteur d’émission:
+- rapport entre la masse des substances émises et la masse des produits fabriqués ou traités (p. ex., en kilogrammes par tonne [kg/t]);
+- d. taux d’émission:
+- rapport entre la masse émise d’un polluant atmosphérique donné et la masse de ce même polluant contenue dans le combustible et dans les matières introduites dans l’installation (en pour-cent [% masse]);
+- e. indice de suie:
+- degré de noircissement d’un papier filtre provenant des effluents gazeux. L’échelle comparative utilisée pour déterminer l’indice de suie (selon la méthode Bacharach) compte 10 degrés; ceux-ci vont de 0 à 9.
+
+### 23 Grandeur de référence pour la concentration des émissions
+
+<sup>1</sup> Les concentrations définies comme valeurs limites et les teneurs en oxygène définies comme grandeurs de référence se rapportent au volume des effluents gazeux dans des conditions standard (0 °C, 1013 mbar) et après déduction de l’humidité (état sec).
+
+<sup>2</sup> Les concentrations définies comme valeurs limites d’émission se rapportent à une quantité d’effluents gazeux pas plus dilués que ne le nécessitent la technique et l’exploitation.
+
+<sup>3</sup> Si la teneur volumique en oxygène est définie comme grandeur de référence pour une installation figurant aux annexes 2 à 4, les concentrations mesurées doivent être ramenées à cette grandeur.
+
+### 24 Puissance calorifique
+
+Par puissance calorifique, on entend l’énergie calorifique maximale pouvant être fournie à une installation par unité de temps. Elle s’obtient en multipliant la consommation de combustible de l’installation par le pouvoir calorifique inférieur du combustible.
+
+### 3 Dispositions générales
+
+### 31 Limitation des émissions
+
+<sup>1</sup> On appliquera les limitations des émissions suivantes:
+
+- a. pour les poussières: ch. 4;
+- b. pour les substances inorganiques se présentant principalement sous forme de poussières: ch. 5;
+- c. pour les substances inorganiques sous forme de gaz ou de vapeur; ch. 6;
+- d. pour les substances organiques sous forme de gaz, de vapeur ou de particules: ch. 7;
+- e. pour les substances cancérigènes: ch. 8.
+
+<sup>2</sup> Les substances non mentionnées aux ch. 5 à 8 seront attribuées aux classes auxquelles elles s’apparentent quant à leurs effets sur l’environnement. À cet effet, on tiendra compte, en particulier, des potentiels de dégradation et d’accumulation, de la toxicité, des effets des processus de dégradation et de leurs produits secondaires, ainsi que de l’intensité des odeurs.
+
+### 32 Limitation des émissions en fonction de certaines caractéristiques de l’installation
+
+<sup>1</sup> Si l’on est en présence de plusieurs sources d’émissions et que la limitation des émissions dépend de certaines caractéristiques de l’installation (p. ex., capacité ou débit massique), l’autorité décidera quelles sources d’émissions forment ensemble une installation.
+
+<sup>2</sup> D’une manière générale, on désignera comme une seule installation les sources d’émissions qui forment un ensemble du fait de leur disposition sur le terrain et dont les émissions:
+
+- a. contiennent essentiellement les mêmes polluants ou des polluants similaires, ou
+- b. peuvent être réduites grâce aux mêmes moyens techniques.
+
+<sup>3</sup> Les parties d’une installation qui ont pour seule fonction d’en remplacer d’autres en cas de panne n’entrent pas dans les caractéristiques prises en compte.
+
+<sup>4</sup> Les valeurs limites d’émission qui dépendent d’un débit massique donné ne sont valables que:
+
+- a. lorsque ce débit massique est atteint ou dépassé pendant plus de cinq heures par semaine, ou
+- b. lorsque le double de ce débit massique est atteint ou dépassé pendant un plus court laps de temps.
+
+### 4 Poussières
+
+### 41 Valeur limite pour les poussières totales
+
+Si le débit massique est égal ou supérieur à 0,20 kg/h, les émissions sous forme de poussières ne doivent pas dépasser au total 20 mg/m<sup>3</sup>.
+
+### 42 Limitation des émissions pour les substances contenues dans les poussières
+
+Pour la limitation des diverses substances contenues dans les poussières, on appliquera les ch. 5, 7 et 8.
+
+### 43 Mesures relatives aux procédés de traitement, d’entreposage, de transbordement et de transport
+
+<sup>1</sup> Si des exploitations artisanales ou industrielles comportent des phases de travail provoquant de fortes émissions de poussières, par exemple transport par tapis roulant, broyage, tri ou chargement de produits formant de la poussière, il faut récupérer les effluents gazeux et les acheminer vers une installation de dépoussiérage.
+
+<sup>2</sup> Lors de l’entreposage ou du transbordement en plein air de produits formant des poussières, il y a lieu de prendre des mesures empêchant les fortes émissions de poussières.
+
+<sup>3</sup> Lors du transport de produits formant des poussières, on utilisera des équipements empêchant de fortes émissions.
+
+<sup>4</sup> Si la circulation sur les chemins d’une usine entraîne de fortes émissions de poussières, on prendra toutes les dispositions utiles pour éviter la formation de poussières.
+
+### 5 Substances inorganiques essentiellement sous forme de poussières
+
+### 51 Valeurs limites
+
+<sup>1</sup> La concentration des émissions de substances figurant au ch. 52 ne doit pas dépasser les valeurs ci-dessous:
+
+- a. substances de la classe 1
+- pour un débit massique égal ou supérieur à 1 g /h: 0,2 mg/m<sup>3</sup>
+- b. substances de la classe 2
+- pour un débit massique égal ou supérieur à 5 g/h: 1 mg/m<sup>3</sup>
+- c. substances de la classe 3
+- pour un débit massique égal ou supérieur à 25 g/h: 5 mg/m<sup>3</sup>
+
+<sup>2</sup> Les valeurs limites s’appliquent à la masse totale d’une substance émise, y compris la part sous forme de gaz ou de vapeur contenue dans les effluents gazeux.
+
+<sup>3</sup> Si les effluents gazeux contiennent plusieurs substances appartenant à la même classe, la valeur limite s’applique à la totalité de ces substances.
+
+### 52 Tableau des substances inorganiques essentiellement sous forme de poussières
+
+<table>
+<tr><th>Substance</th><th></th><th>Exprimé en</th><th>Classe</th></tr>
+<tr><td>Antimoine <sup>a</sup></td><td>et ses composés</td><td>Sb</td><td>3</td></tr>
+<tr><td>Arsenic <sup>a</sup></td><td>et ses composés, à l’exception de l’hydrogène arsénié</td><td>As</td><td>2</td></tr>
+<tr><td>Chrome <sup>a</sup></td><td>et ses composés</td><td>Cr</td><td>3</td></tr>
+<tr><td>Cobalt <sup>a</sup></td><td>et ses composés</td><td>Co</td><td>2</td></tr>
+<tr><td>Cuivre</td><td>et ses composés</td><td>Cu</td><td>3</td></tr>
+<tr><td>Cyanure <sup>b</sup></td><td></td><td>CN</td><td>3</td></tr>
+<tr><td>Étain</td><td>et ses composés</td><td>Sn</td><td>3</td></tr>
+<tr><td>Fluorure <sup>b</sup></td><td>si sous forme de poussière</td><td>F</td><td>3</td></tr>
+<tr><td>Manganèse</td><td>et ses composés</td><td>Mn</td><td>3</td></tr>
+<tr><td>Mercure</td><td>et ses composés</td><td>Hg</td><td>1</td></tr>
+<tr><td>Nickel <sup>a</sup></td><td>et ses composés</td><td>Ni</td><td>2</td></tr>
+<tr><td>Palladium</td><td>et ses composés</td><td>Pd</td><td>3</td></tr>
+<tr><td>Platine</td><td>et ses composés</td><td>Pt</td><td>3</td></tr>
+<tr><td>Plomb</td><td>et ses composés</td><td>Pb</td><td>3</td></tr>
+<tr><td>Poussière de quartz</td><td>pour autant qu’il s’agisse de poussière cristalline fine</td><td>SiO<sub>2</sub></td><td>3</td></tr>
+<tr><td>Rhodium</td><td>et ses composés</td><td>Rh</td><td>3</td></tr>
+<tr><td>Sélénium</td><td>et ses composés</td><td>Se</td><td>2</td></tr>
+<tr><td>Tellure</td><td>et ses composés</td><td>Te</td><td>2</td></tr>
+<tr><td>Thallium</td><td>et ses composés</td><td>Tl</td><td>1</td></tr>
+<tr><td>Vanadium</td><td>et ses composés</td><td>V</td><td>3</td></tr>
+<tr><td colspan="4"><sup>a</sup> Pour autant qu’il ne soit pas considéré comme un composé cancérigène au sens du ch. 8.</td></tr>
+<tr><td colspan="4"><sup>b</sup> Pour autant qu’il soit facilement soluble.</td></tr>
+</table>
+
+### 6 Substances inorganiques sous forme de gaz ou de vapeur
+
+### 61 Valeurs limites
+
+La concentration des émissions d’une des substances figurant au ch. 62 ne doit pas dépasser les valeurs ci-dessous:
+
+- a. substances de la classe 1
+- pour un débit massique égal ou supérieur à 10 g/h: 1 mg/m<sup>3</sup>
+- b. substances de la classe 2
+- pour un débit massique égal ou supérieur à 50 g/h: 5 mg/m<sup>3</sup>
+- c. substances de la classe 3
+- pour un débit massique égal ou supérieur à 300 g/h: 30 mg/m<sup>3</sup>
+- d. substances de la classe 4
+- pour un débit massique égal ou supérieur à 2500 g/h: 250 mg/m<sup>3</sup>
+
+### 62 Tableau des substances inorganiques sous forme de gaz ou de vapeur
+
+<table>
+<tr><th>Substance</th><th>Classe</th></tr>
+<tr><td>Acide cyanhydrique</td><td>2</td></tr>
+<tr><td>Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>3</td></tr>
+<tr><td>Brome et ses composés sous forme de gaz ou de vapeur, exprimés en acide bromhydrique</td><td>2</td></tr>
+<tr><td>Chlore</td><td>2</td></tr>
+<tr><td>Chlorure de cyanogène</td><td>1</td></tr>
+<tr><td>Composés chlorés inorganiques sous forme de gaz ou de vapeur, à l’exception du chlorure de cyanogène et du phosgène, exprimés en acide chlorhydrique</td><td>3</td></tr>
+<tr><td>Fluor et ses composés, sous forme de gaz ou de vapeur, exprimés en acide fluorhydrique</td><td>2</td></tr>
+<tr><td>Phosgène</td><td>1</td></tr>
+<tr><td>Hydrogène arsénié</td><td>1</td></tr>
+<tr><td>Hydrogène phosphoré</td><td>1</td></tr>
+<tr><td>Hydrogène sulfuré</td><td>2</td></tr>
+<tr><td>Oxydes de soufre (anhydride sulfureux et anhydride sulfurique), exprimés en anhydride sulfureux</td><td>4</td></tr>
+<tr><td>Oxydes d’azote (monoxyde d’azote et dioxyde d’azote), exprimés en dioxyde d’azote</td><td>4</td></tr>
+</table>
+
+### 7 Substances organiques sous forme de gaz, de vapeur ou de particules
+
+### 71 Valeurs limites
+
+<sup>1</sup> La concentration des émissions d’une des substances figurant au ch. 72 ne doit pas dépasser les valeurs ci-dessous:
+
+- a. substances de la classe 1
+- pour un débit massique égal ou supérieur à 0,1 kg/h: 20 mg/m<sup>3</sup>
+- b. substances de la classe 2
+- pour un débit massique égal ou supérieur à 2,0 kg/h: 100 mg/m<sup>3</sup>
+- c. substances de la classe 3
+- pour un débit massique égal ou supérieur à 3,0 kg/h: 150 mg/m<sup>3</sup>
+
+<sup>2</sup> Pour les substances organiques des classes 2 et 3 se présentant sous forme de particules, on appliquera, en dérogation à l’al. 1, les prescriptions relatives à la limitation des poussières au sens du ch. 41.
+
+<sup>3</sup> Si les effluents gazeux contiennent plusieurs substances appartenant à la même classe, la valeur limite s’applique à la totalité de ces substances.
+
+<sup>4</sup> Si les effluents gazeux contiennent des substances appartenant à différentes classes, la totalité des substances avec un débit massique égal ou supérieur à 3 kg/h doit non seulement satisfaire aux exigences des al. 1 et 2, mais encore ne pas dépasser la valeur limite de 150 mg/m<sup>3</sup>.
+
+<sup>5</sup> Les émissions de substances dont on a de bonnes raisons de croire qu’elles peuvent être cancérigènes[^annex1-lvlu1-lvl7-lvl71-1] mais qui ne sont pas mentionnées au ch. 72 comme faisant partie de la classe 1, seront limitées selon l’al. 1, let. a.
+
+<sup>6</sup> Les émissions de substances qui, au sens de l’annexe 1.4 de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^annex1-lvlu1-lvl7-lvl71-2], appauvrissent la couche d’ozone, et qui ne sont pas mentionnées au ch. 72 comme faisant partie de la classe 1, seront limitées selon le l’al. 1, let. a. Les dispositions du ch. 8 sont réservées.
+
+[^annex1-lvlu1-lvl7-lvl71-1]: Par substances dont on a de bonnes raisons de croire qu’elles peuvent être cancérigènes, on entend notamment les substances énumérées à la section III (krebserzeugende Arbeitsstoffe) des catégories 3 à 5 de la liste «MAK- und BAT-Werte-Liste» de la «Deutsche Forschungsgemeinschaft». Commande: Wiley-VCH Verlags GmbH, D‑69469 Weinheim.
+[^annex1-lvlu1-lvl7-lvl71-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+### 72 Tableau des substances organiques sous forme de gaz, de vapeur ou de particules
+
+<table>
+<tr><th>Substance</th><th>Formule chimique</th><th>Classe</th></tr>
+<tr><td>Acétate d’éthyle</td><td>C<sub>4</sub>H<sub>8</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Acétates de butyle</td><td>C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Acétate de méthyle</td><td>C<sub>3</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Acétate de vinyle</td><td>C<sub>4</sub>H<sub>6</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Acétone</td><td>C<sub>3</sub>H<sub>6</sub>O</td><td>3</td></tr>
+<tr><td>Acide acétique</td><td>C<sub>2</sub>H<sub>4</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Acide acrylique</td><td>C<sub>3</sub>H<sub>4</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Acide chloracétique</td><td>C<sub>2</sub>H<sub>3</sub>ClO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Acide formique</td><td>CH<sub>2</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Acide propionique</td><td>C<sub>3</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Acroléine (v. 2-Propénal)</td><td></td><td></td></tr>
+<tr><td>Acrylate d’éthyle</td><td>C<sub>5</sub>H<sub>8</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Acrylate de méthyle</td><td>C<sub>4</sub>H<sub>6</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Alcanes, sauf méthane</td><td></td><td>3</td></tr>
+<tr><td>Alcènes, sauf 1,3-butadiène et éthène</td><td></td><td>3</td></tr>
+<tr><td>Alcool diacétone (v. 4-Hydroxy-4-méthyl-2-pentanone)</td><td></td><td></td></tr>
+<tr><td>Alcool furfurylique</td><td>C<sub>5</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Alcools aliphatiques (v. Alkylalcools)</td><td></td><td></td></tr>
+<tr><td>Alcoyles de plomb</td><td></td><td>1</td></tr>
+<tr><td>Aldéhyde acétique</td><td>C<sub>2</sub>H<sub>4</sub>O</td><td>1</td></tr>
+<tr><td>Aldéhyde butyrique</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>2</td></tr>
+<tr><td>Aldéhyde propionique</td><td>C<sub>3</sub>H<sub>6</sub>O</td><td>2</td></tr>
+<tr><td>Alkylalcools</td><td></td><td>3</td></tr>
+<tr><td>Anhydride maléique</td><td>C<sub>4</sub>H<sub>2</sub>O<sub>3</sub></td><td>1</td></tr>
+<tr><td>Aniline</td><td>C<sub>6</sub>H<sub>7</sub>N</td><td>1</td></tr>
+<tr><td>Benzoate de méthyle</td><td>C<sub>8</sub>H<sub>8</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Biphényle</td><td>C12H10</td><td>1</td></tr>
+<tr><td>Bois (v. poussière de bois)</td><td></td><td></td></tr>
+<tr><td>Bromométhane</td><td>CH<sub>3</sub>Br</td><td>1</td></tr>
+<tr><td>2-Butanone</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>3</td></tr>
+<tr><td>2-Butoxyéthanol</td><td>C<sub>6</sub>H<sub>14</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Butylglycol (v. 2-Butoxyéthanol)</td><td></td><td></td></tr>
+<tr><td>Butyraldéhyde (v. Aldéhyde butyrique)</td><td></td><td></td></tr>
+<tr><td>Chloracétaldéhyde</td><td>C<sub>2</sub>H<sub>3</sub>ClO</td><td>1</td></tr>
+<tr><td>Chloréthane</td><td>C<sub>2</sub>H<sub>5</sub>Cl</td><td>1</td></tr>
+<tr><td>Chlorobenzène</td><td>C<sub>6</sub>H<sub>5</sub>Cl</td><td>2</td></tr>
+<tr><td>CFC, chlorofluorocarbones, totalement halogénés, avec au plus 3 atomes de C</td><td></td><td>1</td></tr>
+<tr><td>Chloroforme (v. Trichlorométhane)</td><td></td><td></td></tr>
+<tr><td>Chlorométhane</td><td>CH<sub>3</sub>Cl</td><td>1</td></tr>
+<tr><td>2-Chloroprène</td><td></td><td></td></tr>
+<tr><td>2-Chloropropane</td><td>C<sub>3</sub>H<sub>7</sub>Cl</td><td>2</td></tr>
+<tr><td>Chlorure d’éthyle (v. Chloréthane)</td><td></td><td></td></tr>
+<tr><td>Chlorure de méthyle (v. Chlorométhane)</td><td></td><td></td></tr>
+<tr><td>Chlorure de méthylène (v. Dichlorométhane)</td><td></td><td></td></tr>
+<tr><td>Crésols</td><td>C<sub>7</sub>H<sub>8</sub>O</td><td>1</td></tr>
+<tr><td>Cumène (v. Isopropylbenzène)</td><td></td><td></td></tr>
+<tr><td>Cyclohexanone</td><td>C<sub>6</sub>H<sub>10</sub>O</td><td>1</td></tr>
+<tr><td>1,1-Dichloréthane</td><td>C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>2</td></tr>
+<tr><td>1,1-Dichloréthène</td><td>C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub></td><td>1</td></tr>
+<tr><td>1,2-Dichloréthène</td><td>C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub></td><td>3</td></tr>
+<tr><td>1,2-Dichlorobenzène</td><td>C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>1</td></tr>
+<tr><td>Dichlorométhane</td><td>CH<sub>2</sub>Cl<sub>2</sub></td><td>1</td></tr>
+<tr><td>Dichlorophénols</td><td>C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>O</td><td>1</td></tr>
+<tr><td>Diéthanolamine (v. 2,2’-Iminodiéthanol)</td><td></td><td></td></tr>
+<tr><td>Diéthylamine</td><td>C<sub>4</sub>H<sub>11</sub>N</td><td>1</td></tr>
+<tr><td>Diéthyléther</td><td>C<sub>4</sub>H<sub>10</sub>O</td><td>3</td></tr>
+<tr><td>Di-(2-éthylhexyl)-phtalate</td><td>C24H38O4</td><td>2</td></tr>
+<tr><td>Diisobutylcétone (v. 2,6-Diméthylheptane-4-one)</td><td></td><td></td></tr>
+<tr><td>Diméthylamine</td><td>C<sub>2</sub>H<sub>7</sub>N</td><td>1</td></tr>
+<tr><td>N,N-Diméthylformamide</td><td>C<sub>3</sub>H<sub>7</sub>NO</td><td>2</td></tr>
+<tr><td>2,6-Diméthylheptane-4-one</td><td>C<sub>9</sub>H<sub>18</sub>O</td><td>2</td></tr>
+<tr><td>Dioctylphtalate (v. Di-(2-Éthylhexyl)-phtalate)</td><td></td><td></td></tr>
+<tr><td>1,4-Dioxane</td><td>C<sub>4</sub>H<sub>8</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Diphényle (v. Biphényle)</td><td></td><td></td></tr>
+<tr><td>Disulfure de carbone</td><td>CS<sub>2</sub></td><td>2</td></tr>
+<tr><td>Ester acétique (v. Acétate d’éthyle)</td><td></td><td></td></tr>
+<tr><td>Ester butylacétique (v. Acétate de butyle)</td><td></td><td></td></tr>
+<tr><td>Ester éthylacétique (v. Acétate d’éthyle)</td><td></td><td></td></tr>
+<tr><td>Ester éthylacrylique (v. Acrylate d’éthyle)</td><td></td><td></td></tr>
+<tr><td>Ester méthylacétique (v. Acétate de méthyle)</td><td></td><td></td></tr>
+<tr><td>Ester méthylacrylique (v. Acrylate de méthyle)</td><td></td><td></td></tr>
+<tr><td>Ester méthylformique (v. Formiate de méthyle)</td><td></td><td></td></tr>
+<tr><td>Ester méthylméthacrylique (v. Méthacrylate de méthyle)</td><td></td><td></td></tr>
+<tr><td>Ester vinylacétique (v. Acétate de vinyle)</td><td></td><td></td></tr>
+<tr><td>Éthanol (v. Alkylalcools)</td><td></td><td></td></tr>
+<tr><td>Ethène</td><td>C<sub>2</sub>H<sub>4</sub></td><td>1</td></tr>
+<tr><td>Éther dibutylique</td><td>C<sub>8</sub>H<sub>18</sub>O</td><td>3</td></tr>
+<tr><td>Éther diéthylique (v. Diéthyléther)</td><td></td><td></td></tr>
+<tr><td>Éther diisopropylique</td><td>C<sub>6</sub>H<sub>14</sub>O</td><td>3</td></tr>
+<tr><td>Éther diméthylique</td><td>C<sub>2</sub>H<sub>6</sub>O</td><td>3</td></tr>
+<tr><td>2-Éthoxyéthanol</td><td>C<sub>4</sub>H<sub>10</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Éthylamine</td><td>C<sub>2</sub>H<sub>7</sub>N</td><td>1</td></tr>
+<tr><td>Éthylbenzène</td><td>C<sub>8</sub>H<sub>10</sub></td><td>1</td></tr>
+<tr><td>Éthylèneglycol</td><td>C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>Éthylèneglycolmonobutyléther (v. 2-Butoxyéthanol)</td><td></td><td></td></tr>
+<tr><td>Éthylèneglycolmonoéthyléther (v. 2-Éthoxyéthanol)</td><td></td><td></td></tr>
+<tr><td>Éthylèneglycolmonométhyléther (v. 2-Méthoxyéthanol)</td><td></td><td></td></tr>
+<tr><td>Éthylglycol (v. 2-Éthoxyéthanol)</td><td></td><td></td></tr>
+<tr><td>Éthylméthylcétone (v. 2-Butanone)</td><td></td><td></td></tr>
+<tr><td>Formaldéhyde</td><td>CH<sub>2</sub>O</td><td>1</td></tr>
+<tr><td>Formiate de méthyle</td><td>C<sub>2</sub>H<sub>4</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Furfural, furfurol, 2-furylméthanol (v. 2-Furaldéhyde)</td><td></td><td></td></tr>
+<tr><td>2-Furaldéhyde</td><td>C<sub>5</sub>H<sub>4</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>Alcool furfurylique</td><td>C<sub>5</sub>H<sub>6</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Glycol (v. Éthylèneglycol)</td><td></td><td></td></tr>
+<tr><td>Halons, fluorocarbones bromés, totalement halogénés, avec au plus 3 atomes de C</td><td></td><td>1</td></tr>
+<tr><td>HBFC, fluorocarbones bromés, partiellement halogénés, avec au plus 3 atomes de C</td><td></td><td>1</td></tr>
+<tr><td>HCFC, chlorofluorocarbones partiellement halogénés, avec au plus 3 atomes de C</td><td></td><td>1</td></tr>
+<tr><td>4-Hydroxy-4-méthyl-2-pentanone</td><td>C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></td><td>3</td></tr>
+<tr><td>2,2’-Iminodiéthanol</td><td>C<sub>4</sub>H<sub>11</sub>NO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Isobutylméthylcétone (v. 4-Méthyl-2-pentanone)</td><td></td><td></td></tr>
+<tr><td>Isopropénylbenzène</td><td>C<sub>9</sub>H<sub>10</sub></td><td>2</td></tr>
+<tr><td>Isopropylbenzène</td><td>C<sub>9</sub>H<sub>12</sub></td><td>2</td></tr>
+<tr><td>Mercaptans (v. Thioalcools)</td><td></td><td></td></tr>
+<tr><td>Méthacrylate de méthyle</td><td>C<sub>5</sub>H<sub>8</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Méthanol (v. Alkylalcools)</td><td></td><td></td></tr>
+<tr><td>2-Méthoxyéthanol</td><td>C<sub>3</sub>H<sub>8</sub>O<sub>2</sub></td><td>2</td></tr>
+<tr><td>Méthylamine</td><td>CH<sub>5</sub>N</td><td>1</td></tr>
+<tr><td>Méthylchloroforme (v. 1,1,1-Trichloréthane)</td><td></td><td></td></tr>
+<tr><td>Méthylcyclohexanone</td><td>C<sub>7</sub>H<sub>12</sub>O</td><td>2</td></tr>
+<tr><td>Méthyléthylcétone (v. 2-Butanone)</td><td></td><td></td></tr>
+<tr><td>Méthylglycol (v. 2-Méthoxyéthanol)</td><td></td><td></td></tr>
+<tr><td>4-Méthyl-2-pentanone</td><td>C<sub>6</sub>H<sub>12</sub>O</td><td>3</td></tr>
+<tr><td>4-Méthyl-m-phénylènediisocyanate</td><td>C<sub>9</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub></td><td>1</td></tr>
+<tr><td>N-Méthyl-pyrrolidone</td><td>C<sub>5</sub>H<sub>9</sub>NO</td><td>3</td></tr>
+<tr><td>Naphtalène</td><td>C<sub>10</sub>H<sub>8</sub></td><td>1</td></tr>
+<tr><td>Nitrobenzène</td><td>C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Nitrocrésols</td><td>C<sub>7</sub>H<sub>7</sub>NO<sub>3</sub></td><td>1</td></tr>
+<tr><td>Nitrophénols</td><td>C<sub>6</sub>H<sub>5</sub>NO<sub>3</sub></td><td>1</td></tr>
+<tr><td>Nitrotoluènes, sauf 2-nitrotoluène</td><td>C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub></td><td>1</td></tr>
+<tr><td>Oléfines (v. Alcènes)</td><td></td><td></td></tr>
+<tr><td>Paraffines (v. Alcanes)</td><td></td><td></td></tr>
+<tr><td>Perchloréthène (v. Tétrachloréthène)</td><td></td><td></td></tr>
+<tr><td>Phénol</td><td>C<sub>6</sub>H<sub>6</sub>O</td><td>1</td></tr>
+<tr><td>Pinène</td><td>C10H16</td><td>3</td></tr>
+<tr><td>Poussière de bois, sous forme respirable (sauf le hêtre et le chêne)</td><td></td><td>1</td></tr>
+<tr><td>2-Propénal</td><td>C<sub>3</sub>H<sub>4</sub>O</td><td>1</td></tr>
+<tr><td>Propionaldéhyde (v. Aldéhyde propionique)</td><td></td><td></td></tr>
+<tr><td>Pyridine</td><td>C<sub>5</sub>H<sub>5</sub>N</td><td>1</td></tr>
+<tr><td>Styrène</td><td>C<sub>8</sub>H<sub>8</sub></td><td>2</td></tr>
+<tr><td>Sulfure de carbone (v. Disulfure de carbone)</td><td></td><td></td></tr>
+<tr><td>1,1,2,2-Tétrachloréthane</td><td>C<sub>2</sub>H<sub>2</sub>Cl<sub>4</sub></td><td>1</td></tr>
+<tr><td>Tétrachloréthène</td><td>C<sub>2</sub>Cl<sub>4</sub></td><td>1</td></tr>
+<tr><td>Tétrachlorocarbone (v. Tétrachlorométhane)</td><td></td><td></td></tr>
+<tr><td>Tétrachlorométhane</td><td>CCl<sub>4</sub></td><td>1</td></tr>
+<tr><td>Tétrahydrofurane</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>1</td></tr>
+<tr><td>Thioalcools</td><td></td><td>1</td></tr>
+<tr><td>Thioéthers</td><td></td><td>1</td></tr>
+<tr><td>Toluène</td><td>C<sub>7</sub>H<sub>8</sub></td><td>2</td></tr>
+<tr><td>Tolylène-2,4,-diisocyanate (v. 4-Méthyl-m-phénylènediisocyanate)</td><td></td><td></td></tr>
+<tr><td>1,1,1-Trichloréthane</td><td>C<sub>2</sub>H<sub>3</sub>Cl<sub>3</sub></td><td>1</td></tr>
+<tr><td>1,1,2-Trichloréthane</td><td>C<sub>2</sub>H<sub>3</sub>Cl<sub>3</sub></td><td>1</td></tr>
+<tr><td>Trichlorométhane</td><td>CHCl<sub>3</sub></td><td>1</td></tr>
+<tr><td>Trichlorophénols</td><td>C<sub>6</sub>H<sub>3</sub>OCl<sub>3</sub></td><td>1</td></tr>
+<tr><td>Triéthylamine</td><td>C<sub>6</sub>H<sub>15</sub>N</td><td>1</td></tr>
+<tr><td>Triméthylbenzènes</td><td>C<sub>9</sub>H<sub>12</sub></td><td>2</td></tr>
+<tr><td>Xylènes</td><td>C<sub>8</sub>H<sub>10</sub></td><td>2</td></tr>
+<tr><td>2,4-Xylénol</td><td>C<sub>8</sub>H<sub>10</sub>O</td><td>2</td></tr>
+<tr><td>Xylénols, sauf 2,4-xylénol</td><td>C<sub>8</sub>H<sub>10</sub>O</td><td>1</td></tr>
+</table>
+
+### 8 Substances cancérigènes
+
+### 81 Définition
+
+Sont réputées cancérigènes les substances répertoriées comme telles (ca) dans la liste des valeurs limites d’exposition au poste de travail[^annex1-lvlu1-lvl8-lvl81-1] de la Caisse nationale suisse d’assurance en cas d’accidents (CNA).
+
+[^annex1-lvlu1-lvl8-lvl81-1]: *Source*: CNA, Case postale, 6002 Lucerne
+
+### 82 Limitation des émissions
+
+<sup>1</sup> Les émissions de substances cancérigènes seront limitées, indépendamment de la charge cancérigène qu’elles engendrent, dans la mesure où le permettent la technique et l’exploitation, et où cela est économiquement supportable.
+
+<sup>2</sup> Les émissions de substances cancérigènes mentionnées au ch. 83 seront limitées de manière que la concentration des émissions ne dépasse pas les valeurs suivantes et qu’elle leur soit si possible inférieure:
+
+- a. substances de la classe 1
+- pour un débit massique égal ou supérieur à 0,5 g/h: 0,1 mg/m<sup>3</sup>
+- b. substances de la classe 2
+- pour un débit massique égal ou supérieur à 5 g/h: 1 mg/m<sup>3</sup>
+- c. substances de la classe 3
+- pour un débit massique égal ou supérieur à 25 g/h: 5 mg/m<sup>3</sup>
+
+<sup>3</sup> Si les effluents gazeux contiennent plusieurs substances appartenant à la même classe, la limitation au sens de l’al. 2 s’applique à la totalité de ces substances.
+
+### 83 Tableau des substances cancérigènes
+
+<table>
+<tr><th>Substance</th><th>Formule chimique</th><th>Classe</th></tr>
+<tr><td>Amiante (chrysotile, crocidolite, amosite, anthophyllite, actinolite, trémolite) en poussière fine</td><td></td><td>1</td></tr>
+<tr><td>Benzène</td><td>C<sub>6</sub>H<sub>6</sub></td><td>3</td></tr>
+<tr><td>Benzo(a)pyrène</td><td>C<sub>20</sub>H<sub>12</sub></td><td>1</td></tr>
+<tr><td>Béryllium et ses composés (sous forme respirable), exprimés en Be</td><td>Be</td><td>1</td></tr>
+<tr><td>Bromométhane</td><td>C<sub>2</sub>H<sub>7</sub>Br</td><td>3</td></tr>
+<tr><td>1,3-Butadiène</td><td>C<sub>4</sub>H<sub>6</sub></td><td>3</td></tr>
+<tr><td>Cadmium et ses composés chlorure de cadmium, oxyde de cadmium, sulfate de cadmium, sulfure de cadmium et autres composés biodisponibles (sous forme respirable) exprimés en Cd</td><td>Cd</td><td>1</td></tr>
+<tr><td>1-Chloro-2,3-époxypropane</td><td>C<sub>3</sub>H<sub>5</sub>ClO</td><td>3</td></tr>
+<tr><td>2-Chloro-1,3-butadiène</td><td>C<sub>4</sub>H<sub>5</sub>Cl</td><td>3</td></tr>
+<tr><td>α-Chlorotoluène</td><td>C<sub>7</sub>H<sub>7</sub>Cl</td><td>3</td></tr>
+<tr><td>α-Chlorotoluènes: mélanges d’α-chlorotoluène, d’α, α-dichlorotoluène, d’α, α, α-trichlorotoluène et de chlorure de benzoyle</td><td></td><td>3</td></tr>
+<tr><td>Chlorure de vinyle</td><td>C<sub>2</sub>H<sub>3</sub>Cl</td><td>3</td></tr>
+<tr><td>Composés de chrome (VI) (sous forme respirable) en tant que chromate de calcium, chromate de chrome (III), chromate de strontium et chromate de zinc, exprimés en Cr</td><td>Cr</td><td>2</td></tr>
+<tr><td>Cobalt (sous forme de poussière ou aérosols respirables de cobalt métallique et sels de cobalt peu solubles), exprimés en Co</td><td>Co</td><td>2</td></tr>
+<tr><td>Dibenzo(a,h)anthracène</td><td>C<sub>22</sub>H<sub>14</sub></td><td>1</td></tr>
+<tr><td>1,2-Dibromoéthane</td><td>C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub></td><td>3</td></tr>
+<tr><td>1,4-Dichlorobenzène</td><td>C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>3</td></tr>
+<tr><td>3,3’-Dichlorobenzidine</td><td>C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>Cl<sub>2</sub></td><td>2</td></tr>
+<tr><td>1,2-Dichloroéthane</td><td>C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub></td><td>3</td></tr>
+<tr><td>Suie de diesel</td><td></td><td>3</td></tr>
+<tr><td>Sulfate diéthyle</td><td>C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>S</td><td>2</td></tr>
+<tr><td>1,2-Époxypropane</td><td>C<sub>3</sub>H<sub>6</sub>O</td><td>3</td></tr>
+<tr><td>Époxyde d’éthylène</td><td>C<sub>2</sub>H<sub>4</sub>O</td><td>3</td></tr>
+<tr><td>Éthylène-imine</td><td>C<sub>2</sub>H<sub>5</sub>N</td><td>2</td></tr>
+<tr><td>Hydrazine</td><td>H<sub>4</sub>N<sub>2</sub></td><td>3</td></tr>
+<tr><td>2-Naphtylamine</td><td>C<sub>10</sub>H<sub>9</sub>N</td><td>1</td></tr>
+<tr><td>Nickel (sous forme de poussières ou aérosols respirables de nickel métallique, sulfure de nickel et de minerais sulfurés, oxyde de nickel et carbonate de nickel, tétracarbonyle de nickel), exprimés en Ni</td><td>Ni</td><td>2</td></tr>
+<tr><td>Nitrile acrylique</td><td>C<sub>3</sub>H<sub>3</sub>N</td><td>3</td></tr>
+<tr><td>2-Nitrotoluène</td><td>C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub></td><td>3</td></tr>
+<tr><td>Poussière de bois, sous forme respirable (hêtre et chêne)</td><td></td><td>3</td></tr>
+<tr><td>Sulfate de diméthyle</td><td>C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S</td><td>2</td></tr>
+<tr><td>o-Toluidine</td><td>C<sub>7</sub>H<sub>9</sub>N</td><td>3</td></tr>
+<tr><td>Trichloréthène</td><td>C<sub>2</sub>HCl<sub>3</sub></td><td>3</td></tr>
+<tr><td>Trioxyde d’antimoine (sous forme respirable) exprimé en Sb</td><td>Sb</td><td>2</td></tr>
+<tr><td>Trioxyde d’arsenic et pentoxyde d’arsenic, acide arsénieux et leurs sels, acide arsénique et leurs sels (sous forme respirable), exprimés en As</td><td>As</td><td>2</td></tr>
+<tr><td>N-Vinyl-2-pyrrolidone</td><td>C<sub>6</sub>H<sub>9</sub>NO</td><td>3</td></tr>
+</table>
+
+Annexe 2*[^t-2]*
+
+(art. 3, al. 2, let. a)
+
+## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
+
+[^t-2]: Mise à jour selon le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+
+### Table des matières
+
+- **1** **Roches et terres**
+- 11 Fours à ciment
+- 12 Installations pour la cuisson d’objets en céramique à base d’argile
+- 13 Installations pour la fabrication du verre
+- 14 Installations d’enrobage d’asphalte
+- **2** **Chimie**
+- 21 Installations pour la production d’acide sulfurique
+- 22 Installations Claus
+- 23 Installations pour la production de chlore
+- 24 Installations pour la production de 1,2-dichloréthane et de chlorure de vinyle
+- 25 ...
+- 26 Fabrication et préparation de produits phytosanitaires
+- 27 Installations pour la fabrication de noir de fumée
+- 28 Installations pour la fabrication de carbone (carbone cuit) ou d’électrographite
+- 29 Installations pour la fabrication d’acide nitrique
+- **3** **Industrie pétrolière**
+- 31 Raffineries
+- 32 Grandes installations d’entreposage
+- 33 Installations pour le transvasement de l’essence
+- **4** **Métaux**
+- 41 Fonderies
+- 42 Cubilots
+- 43 Usines d’aluminium
+- 44 Installations de fusion pour les métaux non ferreux
+- 45 Installations de zingage
+- 46 Installations pour la fabrication d’accumulateurs au plomb
+- 47 Fours pour le traitement thermique
+- 48 Aciéries électriques
+- **5** **Agriculture et denrées alimentaires**
+- 51 Élevage
+- 52 Fumoirs
+- 53 Installations d’équarrissage et installations pour le séchage des matières fécales
+- 54 Séchoirs pour fourrage vert
+- 55 ...
+- 56 Torréfaction du café et du cacao
+- **6** **Revêtements et impression**
+- 61 Installations pour l’application de revêtements et pour l’impression (à base de matières organiques)
+- **7** **Déchets**
+- 71 Installations pour l’incinération des déchets urbains et des déchets spéciaux
+- 72 Installations pour l’incinération de bois usagé, de déchets de papier et d’autres déchets similaires
+- 73 Installations pour l’incinération de lessive de sulfite provenant de la fabrication de cellulose
+- 74 Installations pour l’incinération des déchets biogènes et des produits issus de l’agriculture
+- **8** **Autres installations**
+- 81 Installations dans lesquelles des produits sont directement traités au moyen des effluents gazeux de la combustion
+- 82 Moteurs à combustion stationnaires
+- 83 Turbines à gaz
+- 84 Installations pour la fabrication de panneaux d’aggloméré
+- 85 Nettoyage chimique des vêtements
+- 86 Fours crématoires
+- 87 Installations de traitement de surfaces
+- 88 Chantiers
+
+### 1 Roches et terres
+
+### 11 Fours à ciment et fours à chaux hydraulique
+
+### 111 Combustibles et déchets
+
+<sup>1</sup> Le ch. 81 n’est pas applicable aux fours à ciment.
+
+<sup>2</sup> Les déchets ne peuvent être valorisés dans des fours à ciment que s’ils s’y prêtent selon l’art. 24 de l’ordonnance du 4 décembre 2015 sur les déchets[^annex2-lvlu1-lvl1-lvl11-lvl111-1].
+
+[^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+
+### 111<sup>bis</sup> Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène dans les effluents gazeux de 10 % (% vol).
+
+### 112 Oxydes d’azote
+
+Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable; elles ne dépasseront en aucun cas 500 mg/m<sup>3</sup> et seront si possible inférieures.
+
+### 113 Oxydes de soufre
+
+Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, ne doivent pas dépasser 500 mg/m<sup>3</sup>.
+
+### 114 Composés organiques sous forme de gaz
+
+<sup>1</sup> Les limitations des émissions selon l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>2</sup> Les émissions de composés organiques sous forme de gaz sont exprimées en carbone total et ne doivent pas dépasser 80 mg/m<sup>3</sup>.
+
+### 115 Poussières
+
+Les émissions sous forme de poussières ne doivent pas dépasser 20 mg/m<sup>3</sup>.
+
+### 116 Mercure et cadmium
+
+Les émissions de mercure et de cadmium ainsi que de leurs composés, exprimées en métaux, ne doivent pas dépasser 0,05 mg/m<sup>3</sup> pour chacun d’entre eux.
+
+### 117 Plomb et zinc
+
+Les émissions de plomb et de zinc ainsi que de leurs composés, exprimées en métaux, ne doivent pas dépasser 1 mg/m<sup>3</sup> en tout.
+
+### 118 Dioxines et furanes
+
+Les émissions de polychlorodibenzo-*p*-dioxines (dioxines) et de dibenzofuranes (furanes), exprimées en somme des équivalents de toxicité selon la norme EN 1948‑1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], ne doivent pas dépasser 0,1 ng/m<sup>3</sup>.
+
+[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 119 Surveillance
+
+<sup>1</sup> Il convient de mesurer et de relever en permanence la teneur dans les effluents gazeux:
+
+- a. en oxydes d’azote;
+- b. en oxydes de soufre;
+- c. en composés organiques sous forme de gaz;
+- d. en poussières.
+
+<sup>2</sup> Quiconque utilise des déchets contenant des composés organiques comme matière première pour la fabrication de ciment doit, en plus des exigences de l’al. 1:
+
+- a. mesurer et relever en permanence la teneur en benzène dans les effluents gazeux;
+- b. vérifier annuellement si les valeurs limites d’émissions notamment pour le benzo[a]pyrène et le dibenzo[a,h]anthracène sont respectées.
+
+### 12 Installations pour la cuisson d’objets en céramique à base d’argile
+
+### 121 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène des effluents gazeux de 18 % (% vol).
+
+### 122 Composés du fluor
+
+<sup>1</sup> La limitation des émissions pour les composés du fluor selon l’annexe 1, ch. 5 et 6, n’est pas applicable.
+
+<sup>2</sup> Les émissions de composés du fluor, exprimées en acide fluorhydrique, ne doivent pas dépasser 250 g/h.
+
+### 123 Oxydes d’azote
+
+Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable; lorsque le débit massique est égal ou supérieur à 2000 g/h, elles ne dépasseront en aucun cas 150 mg/m<sup>3</sup>.
+
+### 124 Substances organiques
+
+<sup>1</sup> Les limitations des émissions selon l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz ou de vapeurs sont exprimées en carbone total et ne dépasseront pas 100 mg/m<sup>3</sup>.
+
+### 125 Applicabilité du ch. 81
+
+Le ch. 81 est applicable.
+
+### 13 Installations pour la fabrication du verre
+
+### 131 Champ d’application
+
+Le présent chiffre s’applique aux installations qui produisent plus de 2 tonnes de verre par année.
+
+### 132 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent aux teneurs suivantes en oxygène des effluents gazeux:
+
+- a. fours à bassin, chauffés à la flamme: 8 pour cent (% vol)
+- b. fours à pot, chauffés à la flamme: 13 pour cent (% vol)
+
+### 133 Oxydes d’azote
+
+<sup>1</sup> La limitation des émissions pour les oxydes d’azote selon l’annexe 1, ch. 6, n’est pas applicable.
+
+<sup>2</sup> Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable; elles ne dépasseront en aucun cas les valeurs suivantes:
+
+- a. verre creux: 2,5 kg par tonne de verre produit
+- b. autres verres: 6,5 kg par tonne de verre produit
+
+### 134 ...
+
+### 135 Oxydes de soufre
+
+Les émissions d’oxydes de soufre issues de la matière première, exprimées en anhydride sulfureux, ne dépasseront pas 500 mg/m<sup>3</sup>.
+
+### 136 Applicabilité du ch. 81
+
+Le ch. 81 est applicable.
+
+### 14 Installations d’enrobage d’asphalte
+
+### 141 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène dans les effluents gazeux de 17 % (% vol).
+
+### 142 Exigences relatives à la construction et à l’exploitation
+
+<sup>1</sup> Les effluents gazeux du mélangeur seront récupérés et acheminés vers une installation d’épuration des gaz.
+
+<sup>2</sup> Le procédé de récupération des vapeurs sera appliqué lors du remplissage de la cuve de stockage du bitume.
+
+### 143 Poussières
+
+Les émissions sous forme de poussières ne dépasseront pas 20 mg/m<sup>3</sup>.
+
+### 144 Substances organiques sous forme de gaz
+
+<sup>1</sup> La limitation des émissions fixée à l’annexe 1, ch. 7, n’est pas applicable.
+
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz, exprimées en carbone total, ne dépasseront pas 80 mg/m<sup>3</sup>.
+
+### 145 Oxydes d’azote
+
+Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, ne dépasseront pas 100 mg/m<sup>3</sup>.
+
+### 146 Monoxyde de carbone
+
+Les émissions de monoxyde de carbone ne dépasseront pas 500 mg/m<sup>3</sup>.
+
+### 147 Surveillance
+
+<sup>1</sup> La mesure et le contrôle périodiques au sens de l’art. 13, al. 3, seront renouvelés tous les ans.
+
+<sup>2</sup> Les températures des tambours sécheurs pour matières minérales ou pour agrégats bitumineux seront mesurées et relevées en permanence.
+
+### 2 Chimie
+
+### 21 Installations pour la production d’acide sulfurique
+
+### 211 Champ d’application
+
+Le présent chiffre s’applique aux installations pour la production d’anhydride sulfureux, d’anhydride sulfurique, d’acide sulfurique et d’oléum.
+
+### 212 Anhydride sulfureux
+
+<sup>1</sup> La limitation des émissions pour l’anhydride sulfureux, selon l’annexe 1, ch. 6, n’est pas applicable.
+
+<sup>2</sup> Les émissions d’anhydride sulfureux ne doivent pas dépasser 2,6 kg par tonne d’acide sulfurique à 100 %.
+
+### 213 Anhydride sulfurique
+
+Les émissions d’anhydride sulfurique ne doivent pas dépasser 60 mg/m<sup>3</sup> lorsque les conditions de gaz sont constantes; pour tous les autres cas, cette limite est fixée à 120 mg/m<sup>3</sup>.
+
+### 22 Installations Claus
+
+### 221 Soufre
+
+Le taux d’émission du soufre ne doit pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><td>Pour les installations dont la capacité de production est de</td><td>Valeur limite en pour-cent (% masse)</td></tr>
+<tr><td>moins de 20 t/jour</td><td>3,0</td></tr>
+<tr><td>de 20 à 50 t/jour</td><td>2,0</td></tr>
+<tr><td>plus de 50 t/jour</td><td>0,5</td></tr>
+</table>
+
+### 222 Sulfure d’hydrogène
+
+<sup>1</sup> Les effluents gazeux doivent subir une postcombustion.
+
+<sup>2</sup> Les émissions de sulfure d’hydrogène ne doivent pas dépasser 10 mg/m<sup>3</sup>.
+
+### 23 Installations pour la production de chlore
+
+### 231 Chlore
+
+<sup>1</sup> Les émissions de chlore ne doivent pas dépasser 3 mg/m<sup>3</sup>.
+
+<sup>2</sup> Dans le cas d’installations pour la production de chlore avec liquéfaction complète, les émissions de chlore ne doivent pas dépasser 6 mg/m<sup>3</sup>.
+
+### 232 Mercure
+
+Dans le cas de l’électrolyse à l’alcali et au chlore selon le procédé par amalgame, les émissions de mercure ne doivent pas dépasser une moyenne annuelle de 1 g par tonne de capacité nominale de chlore.
+
+### 24 Installations pour la production de 1,2-dichloréthane et de chlorure de vinyle
+
+<sup>1</sup> Les effluents gazeux doivent subir une épuration.
+
+<sup>2</sup> Les limitations des émissions de 1,2-dichloréthane et de chlorure de vinyle au sens de l’annexe 1 sont valables indépendamment des débits massiques qui y sont fixes.
+
+### 25 ...
+
+### 26 Fabrication et préparation de produits phytosanitaires
+
+<sup>1</sup> Quiconque fabrique ou prépare des produits phytosanitaires doit le notifier au service cantonal de la protection de l’environnement.
+
+<sup>2</sup> L’autorité fixe la limitation préventive des émissions pour les poussières totales conformément à l’art. 4; l’annexe 1, ch. 41, n’est pas applicable.
+
+### 27 Installations pour la fabrication de noir de fumée
+
+Les émissions sous forme de poussières ne doivent pas dépasser au total 20 mg/m<sup>3</sup>.
+
+### 28 Installations pour la fabrication de carbone (carbone cuit) ou d’électrographite
+
+### 281 Substances organiques
+
+<sup>1</sup> Les émissions de substances organiques, exprimées en carbone total, ne doivent pas dépasser la limitation des émissions fixée aux ch. 282 à 284.
+
+<sup>2</sup> La limitation des émissions selon l’annexe 1, ch. 7, n’est pas applicable.
+
+### 282 Mixage et façonnage
+
+Les émissions de substances organiques dans les effluents gazeux émis par des installations de mixage ou de façonnage, dans lesquelles on traite à haute température de la résine, du bitume ou tout autre liant ou fondant volatils, ne doivent pas dépasser 100 mg/m<sup>3</sup>.
+
+### 283 Combustion
+
+<sup>1</sup> Les émissions de substances organiques dans les effluents gazeux des fours à une ou plusieurs chambres et des fours-tunnels, ne doivent pas dépasser 50 mg/m<sup>3</sup>.
+
+<sup>2</sup> Les émissions de substances organiques gazeuses dans les effluents gazeux des fours de cuisson pour la fabrication d’électrodes de graphite, d’électrodes de carbone amorphe et de briques en carbone, ne doivent pas dépasser 200 mg/m<sup>3</sup>.
+
+### 284 Imprégnation
+
+Les émissions de substances organiques dans les effluents gazeux des installations d’imprégnation utilisant des produits à base de bitume, ne doivent pas dépasser 50 mg/m<sup>3</sup>.
+
+### 285 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 29 Installations pour la production d’acide nitrique
+
+### 291 Oxydes d’azote
+
+Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable; elles ne dépasseront en aucun cas 190 mg/m<sup>3</sup>.
+
+### 3 Industrie pétrolière
+
+### 31 Raffineries
+
+### 311 Définition et champ d’application
+
+Le présent chiffre s’applique aux installations pour la distillation ou au raffinage de pétrole et de produits pétroliers ainsi qu’aux installations pour la fabrication d’hydrocarbures.
+
+### 312 Fours de raffinerie
+
+### 312.1 Grandeurs de référence
+
+<sup>1</sup> Les valeurs limites d’émission se rapportent à une teneur en oxygène des effluents gazeux de 3 % (% vol).
+
+<sup>2</sup> La puissance calorifique totale de la raffinerie sert à déterminer les exigences relatives à la limitation des émissions provenant des fours.
+
+### 312.2 Oxydes de soufre
+
+Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, ne dépasseront pas les valeurs limites suivantes:
+
+- a. pour une puissance calorifique inférieure ou égale à 300 MW: 350 mg/m<sup>3</sup>
+- b. pour une puissance calorifique supérieure à 300 MW: 100 mg/m<sup>3</sup>
+
+### 312.3 Oxydes d’azote
+
+Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, ne dépasseront pas 300 mg/m<sup>3</sup>.
+
+### 313 Entreposage
+
+<sup>1</sup> Pour l’entreposage d’huiles brutes et de produits pétroliers qui, à une température de 20 °C, présentent une pression de vapeur supérieure à 13 mbar, il faut recourir à des réservoirs à toit flottant, à des réservoirs à toit fixe avec membrane flottante ou à des réservoirs à toit fixe avec raccordement à la conduite de gaz de la raffinerie, ou prendre des mesures équivalentes. Les réservoirs à toit flottant doivent être pourvus de joints efficaces.
+
+<sup>2</sup> Les réservoirs à toit fixe devront avoir une aération contrôlée et les effluents gazeux seront acheminés vers le système de récupération des gaz ou vers un système de postcombustion:
+
+- a. Lorsque sont entreposés des liquides qui, à la suite du stockage, peuvent émettre des substances de la classe 1 au sens de l’annexe 1, ch. 7, ou des substances au sens de l’annexe 1, ch. 8, et que
+- b. Les émissions à prévoir dépassent les débits massiques indiqués à l’annexe 1.
+
+### 314 Autres sources d’émissions
+
+<sup>1</sup> Les gaz et les vapeurs organiques seront canalisés au moyen d’un système de récupération. Ils seront réutilisés, subiront une épuration, seront incinérés ou encore brûlés dans une torchère. Cette disposition vaut en particulier pour:
+
+- a. les dispositifs de détente et de vidange;
+- b. les installations de production automatisées;
+- c. la régénération de catalyseurs;
+- d. les inspections et les travaux de nettoyage;
+- e. les manoeuvres de mise en route et d’arrêt;
+- f. le transvasement de matières premières, de produits intermédiaires ou finis, qui présentent une pression de vapeur supérieure à 13 mbar à une température de 20 °C.
+
+<sup>2</sup> Les dispositifs de détente utilisés en cas de catastrophe ou d’incendie ne doivent pas être raccordés à un système de récupération des gaz.
+
+### 315 Sulfure d’hydrogène
+
+<sup>1</sup> Les gaz provenant des installations de désulfuration ou d’autres sources seront réintroduits dans le cycle de production, pour autant qu’ils remplissent simultanément les deux conditions suivantes:
+
+- a. teneur volumique en sulfure d’hydrogène: plus de 0,4 %
+- b. débit massique de sulfure d’hydrogène: plus de 2 t/jour
+
+<sup>2</sup> Dans les gaz qui ne sont pas récupérés, les émissions de sulfure d’hydrogène ne doivent pas dépasser 10 mg/m<sup>3</sup>.
+
+### 316 Eau de processus et eau de ballast
+
+<sup>1</sup> On dégazera l’eau de processus ou l’eau de ballast excédentaire avant de l’introduire dans un système ouvert.
+
+<sup>2</sup> Ces gaz seront épurés par lavage ou par incinération.
+
+### 32 Grandes installations d’entreposage
+
+### 321 Définition et champ d’application
+
+Le présent chiffre s’applique aux grandes installations dont la capacité dépasse 500 m<sup>3</sup> par réservoir et qui sont destinées à l’entreposage de produits présentant une pression de vapeur supérieure à 1 mbar, à une température de 20 °C.
+
+### 322 Entreposage
+
+Pour limiter les émissions pendant l’entreposage, on prévoira des réservoirs à toit fixe avec membrane flottante ou des réservoirs à toit flottant munis de joints efficaces, ou encore des mesures équivalentes.
+
+### 33 Installations pour le transvasement de l’essence
+
+<sup>1</sup> Le remplissage de camions-citernes, de wagons-citernes et d’autres conteneurs similaires avec de l’essence pour moteurs ou de l’essence pour avions doit s’effectuer par le bas de la citerne, ou à l’aide de toute autre méthode équivalente permettant de diminuer les émissions de vapeur.
+
+<sup>2</sup> Les limitations des émissions au sens de l’annexe 1, ch. 7 et 8, ne sont pas applicables aux postes de distribution d’essence.
+
+<sup>3</sup> Les postes de distribution d’essence seront équipés et exploités de manière que:
+
+- a. les émissions de gaz ou de vapeurs organiques produites lors de leur approvisionnement soient confinées et refoulées dans les conteneurs de transport (récupération des vapeurs). Le système de récupération des vapeurs et les installations qui lui sont raccordées ne doivent pas présenter d’ouverture à l’air libre pendant le fonctionnement normal;
+- b. pendant le ravitaillement des véhicules équipés d’orifices de remplissage normalisés[^annex2-lvlu1-lvl3-lvl33-1], les émissions de substances organiques ne dépassent pas 10 % du total des substances organiques contenues dans les vapeurs refoulées; cette condition est réputée satisfaite lorsque les résultats des mesures effectuées par un service officiel l’attestent et que le système de récupération des vapeurs est installé et exploité comme il se doit.
+
+<sup>4</sup> Les dispositions de l’al. 3, let. b, ne s’appliquent pas au ravitaillement des véhicules à l’aide de petits appareils de distribution.
+
+[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331 La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 4 Métaux
+
+### 41 Fonderies
+
+### 411 Amines
+
+Les émissions d’amines qui se forment lors de la fabrication des noyaux ne doivent pas dépasser 5 mg/m<sup>3</sup>.
+
+### 412 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 42 Cubilots
+
+### 421 Poussières
+
+Les émissions sous forme de poussières ne doivent pas dépasser au total 20 mg/m<sup>3</sup>.
+
+### 422 Monoxyde de carbone
+
+Les émissions de monoxyde de carbone dans les effluents gazeux des fours à air chaud avec récupérateur auto-alimenté en aval ne doivent pas dépasser 1000 mg/m<sup>3</sup>.
+
+### 423 Applicabilité du ch. 81
+
+Le ch. 81 est applicable.
+
+### 43 Usines d’aluminium
+
+### 431 Composés du fluor
+
+<sup>1</sup> La limitation des émissions de composés du fluor au sens de l’annexe 1, ch. 5 et 6, n’est pas applicable.
+
+<sup>2</sup> Les émissions de composés du fluor, exprimées en fluorure d’hydrogène, ne doivent pas dépasser au total 700 g par tonne d’aluminium produit.
+
+<sup>3</sup> Les émissions de composés du fluor sous forme gazeuse, exprimées en fluorure d’hydrogène, ne doivent pas dépasser 250 g par tonne d’aluminium produit.
+
+### 432 Appréciation des émissions
+
+Pour apprécier si les valeurs limites d’émission sont respectées, on calculera la moyenne des émissions mesurées pendant un mois d’exploitation.
+
+### 44 Installations de fusion pour les métaux non ferreux
+
+### 441 Substances organiques
+
+<sup>1</sup> La limitation des émissions au sens de l’annexe 1, ch. 7, n’est pas applicable.
+
+<sup>2</sup> Les émissions de substances organiques, exprimées en carbone total, ne doivent pas dépasser 50 mg/m<sup>3</sup>.
+
+### 442 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 45 Installations de zingage
+
+### 451 Poussières
+
+Les émissions sous forme de poussières ne doivent pas dépasser au total 10 mg/m<sup>3</sup>.
+
+### 452 Dispositions complémentaires pour les usines de zingage à chaud
+
+<sup>1</sup> Les valeurs limites d’émission se rapportent à une quantité d’air évacué de 3000 m<sup>3</sup> par mètre carré de surface de bain de zinc et par heure.
+
+<sup>2</sup> Les émissions de zinc seront récupérées à 80 % au moins; à cette fin, on installera une enceinte couverte, une hotte, une aspiration latérale, ou on appliquera toute autre mesure équivalente.
+
+<sup>3</sup> Les émissions ne seront mesurées que durant l’immersion dans le bain de zinc. Celle-ci s’étend du moment où la pièce à zinguer entre en contact avec le bain jusqu’au moment où elle le quitte.
+
+### 46 Installations pour la fabrication d’accumulateurs au plomb
+
+### 461 Plomb
+
+<sup>1</sup> Les effluents gazeux des installations doivent être récupérés et acheminés vers un dépoussiéreur.
+
+<sup>2</sup> Les émissions de plomb ne doivent pas dépasser 1 mg/m<sup>3</sup>.
+
+### 462 Vapeurs d’acide sulfurique
+
+<sup>1</sup> Les vapeurs d’acide sulfurique qui se dégagent lors de l’activation des électrodes doivent être récupérées et acheminées vers une installation d’épuration des gaz.
+
+<sup>2</sup> Les émissions d’acide sulfurique, exprimées en H<sub>2</sub>SO<sub>4</sub>, ne doivent pas dépasser 1 mg/m<sup>3</sup>.
+
+### 463 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 47 Fours pour le traitement thermique
+
+### 471 Champ d’application
+
+Le présent chiffre s’applique aux fours pour le traitement thermique d’une puissance calorifique de plus de 100 kW, chauffés aux combustibles gazeux selon l’annexe 5, ch. 4, let. a à c.
+
+### 472 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène des effluents gazeux de 5 % (% vol).
+
+### 473 Oxydes d’azote
+
+Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image1.png)
+
+### 474 Mesures
+
+Les émissions seront mesurées à au moins 80 % de la charge nominale et lorsque la température de service atteint sa valeur maximale.
+
+### 475 Applicabilité du ch. 81
+
+Le ch. 81 est applicable.
+
+### 48 Aciéries électriques
+
+### 481 Champ d’application
+
+Le présent chiffre s’applique aux installations électriques de production d’acier, coulée continue comprise, d’une capacité de fusion supérieure à 2,5 tonnes d’acier par heure.
+
+### 482 Poussières
+
+Les émissions sous forme de poussières ne doivent pas dépasser au total 5 mg/m<sup>3</sup>.
+
+### 483 Dioxines et furanes
+
+Les dibenzo-p-dioxines (dioxines) et les dibenzofuranes (furanes) émis par les fours à arc électrique, exprimés en somme des équivalents de toxicité selon la norme EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], ne dépasseront pas 0,1 ng/m<sup>3</sup>.
+
+[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 5 Agriculture et denrées alimentaires
+
+### 51 Élevage
+
+### 511 Champ d’application
+
+Le présent chiffre s’applique aux installations d’élevage traditionnel et à celles d’élevage intensif.
+
+### 512 Distances minimales
+
+Lors de la construction d’une installation, il y a lieu de respecter les distances minimales jusqu’à la zone habitée, requises par les règles de l’élevage. Sont notamment considérées comme règles de l’élevage les recommandations de la Station fédérale de recherche d’économie d’entreprise et de génie rural[^annex2-lvlu1-lvl5-lvl51-lvl512-1].
+
+[^annex2-lvlu1-lvl5-lvl51-lvl512-1]: *Source*: Station de recherche Agroscope Reckenholz-Tänikon (ART), 8356 Ettenhausen.
+
+### 513 Systèmes d’aération
+
+Les systèmes d’aération doivent répondre aux règles de la technique. Sont notamment considérées comme telles les recommandations de la «Schweizerische Stallklima-Norm»[^annex2-lvlu1-lvl5-lvl51-lvl513-1]. Elles existent uniquement en allemand.
+
+[^annex2-lvlu1-lvl5-lvl51-lvl513-1]: *Source*: Institut für Nutzierwissenschaften, ETH-Zentrum, 8092 Zürich.
+
+### 514 Ammoniac
+
+L’autorité fixe la limitation préventive des émissions conformément à l’art. 4; l’annexe 1, ch. 62, n’est pas applicable. L’OFEV édicte des recommandations à ce sujet.
+
+### 52 Fumoirs
+
+### 521 Champ d’application
+
+Le présent chiffre s’applique aux fumoirs pour la viande, la charcuterie et les poissons.
+
+### 522 Production de la fumée
+
+Le ch. 81 n’est pas applicable.
+
+### 523 Substances organiques
+
+<sup>1</sup> La limitation des émissions au sens de l’annexe 1, ch. 7, n’est pas applicable.
+
+<sup>2</sup> Les émissions de substances organiques sont exprimées en carbone total. Elles ne doivent pas dépasser les valeurs suivantes:
+
+- a. fumage à chaud
+- pour un débit massique de 50 g/h et plus: 50 mg/m<sup>3</sup>
+- b. fumage à froid
+- pour un débit massique de 50 g/h jusqu’à 300 g/h: 120 mg/m<sup>3</sup>
+- c. fumage à froid
+- pour un débit massique supérieur à 300 g/h: 50 mg/m<sup>3</sup>
+
+### 53 Installations d’équarrissage et installations pour le séchage des matières fécales
+
+### 531 Définition et champ d’application
+
+Le présent chiffre s’applique aux:
+
+- a. installations d’équarrissage;
+- b. installations dans lesquelles sont rassemblés et entreposés les dépouilles d’animaux, entières ou débitées, ainsi que les produits d’origine animale pour être ensuite recyclés ou éliminés dans des clos d’équarrissage;
+- c. installations pour la fonte des graisses animales;
+- d. installations pour la fabrication de gélatine, d’hémoglobine et d’aliments pour le bétail;
+- e. installations pour le séchage des matières fécales.
+
+### 532 Exigences relatives à la construction et à l’exploitation
+
+<sup>1</sup> Les installations de production automatisées et les entrepôts, pouvant dégager des odeurs, seront aménagés dans des locaux fermés.
+
+<sup>2</sup> Les effluents gazeux dégageant de mauvaises odeurs seront récupérés et acheminés vers une installation d’épuration des gaz.
+
+<sup>3</sup> Les produits bruts et les produits intermédiaires seront entreposés dans des conteneurs fermés.
+
+### 533 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 54 Séchoirs pour fourrage vert
+
+### 541 Champ d’application
+
+Le présent chiffre s’applique aux installations de séchage d’herbe, de plants de maïs et autres fourrages verts, de marc, de pommes de terre et de cossettes de betteraves.
+
+### 542 Poussières
+
+Les émissions de poussières doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable; elles ne dépasseront en aucun cas 150 mg/m<sup>3</sup>.
+
+### 543 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 55 ...
+
+### 56 Torréfaction du café et du cacao
+
+### 561 Substances organiques
+
+<sup>1</sup> La limitation des émissions au sens de l’annexe 1, ch. 7, n’est pas applicable.
+
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz ou de vapeur sont exprimées en carbone total. Pour les installations d’une capacité de torréfaction supérieure à 100 kg de matière brute par heure, elles ne dépasseront pas les valeurs suivantes:
+
+- a. installations d’une capacité de torréfaction jusqu’à 750 kg/h: 150 mg/m<sup>3</sup>
+- b. installations d’une capacité de torréfaction supérieure à 750 kg/h: 50 mg/m<sup>3</sup>
+
+### 562 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 6 Revêtements et impression
+
+### 61 Installations pour l’application de revêtements et pour l’impression à base de matières organiques
+
+### 611 Champ d’application
+
+<sup>1</sup> Le présent chiffre s’applique aux:
+
+- a. installations pour l’application de revêtements et pour l’impression à l’aide de matières organiques, telles que peintures, vernis ou matières plastiques;
+- b. installations pour l’imprégnation.
+
+<sup>2</sup> Il est valable pour la zone d’application, la zone d’évaporation, les installations de séchage et de cuisson.
+
+### 612 Poussières
+
+Les émissions sous forme de poussières ne devront pas dépasser au total les valeurs suivantes:
+
+- a. peinture au pistolet: 5 mg/m<sup>3</sup>
+- b. vernissage par poudrage: 15 mg/m<sup>3</sup>
+
+### 613 Émissions de solvants
+
+<sup>1</sup> La limitation des émissions au sens de l’annexe 1, ch. 71, ne s’applique pas aux émissions de substances organiques, sous forme de gaz ou de vapeur, appartenant aux classes 2 ou 3 au sens de l’annexe 1, ch. 72.
+
+<sup>2</sup> Ces émissions sont exprimées en carbone total; elles ne dépasseront pas au total 150 mg/m<sup>3</sup> pour un débit massique de 3 kg/h ou plus.
+
+<sup>3</sup> Lors de l’utilisation de peintures dont le solvant, outre l’eau, est exclusivement de l’éthanol jusqu’à 15 % (% masse), les émissions d’éthanol ne dépasseront pas 300 mg/m<sup>3</sup> pour un débit massique de 3 kg/h ou plus.
+
+### 614 Effluents gazeux des installations de séchage et installations de cuisson
+
+<sup>1</sup> Les limitations des émissions au sens de l’annexe 1, ch. 7, ne s’appliquent pas aux installations de séchage ou de cuisson fonctionnant à des températures supérieures à 120 °C.
+
+<sup>2</sup> Pour un débit massique supérieur à 250 g/h, les émissions de substances organiques, sous forme de gaz ou de vapeur, exprimées en carbone total, ne dépasseront pas les valeurs suivantes:
+
+- a. pour les rotatives offset à bobines: 20 mg/m<sup>3</sup>
+- b. pour tous les autres équipements: 50 mg/m<sup>3</sup>
+
+### 615 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 7 Déchets
+
+### 71 Installations pour l’incinération des déchets urbains et des déchets spéciaux
+
+### 711 Champ d’application et définitions
+
+<sup>1</sup> Le présent chiffre s’applique aux installations pour l’incinération ou la décomposition thermique des déchets urbains ou des déchets spéciaux. En sont exclues les installations pour l’incinération de bois usagé, de déchets de papier et d’autres déchets similaires (ch. 72), celles pour l’incinération des lessives de sulfite provenant de la fabrication de cellulose (ch. 73), ainsi que les fours à ciment (ch. 11).
+
+<sup>2</sup> Sont réputés déchets urbains les déchets provenant des ménages ainsi que d’autres déchets de composition similaire, notamment:
+
+- a. les déchets de jardin;
+- b. les déchets du marché;
+- c. les déchets de la voirie;
+- d. les déchets de bureaux, les emballages et les déchets de cuisine de l’hôtellerie;
+- e. les déchets urbains ayant subi un traitement;
+- f. les dépouilles d’animaux et les résidus carnés;
+- g. les boues des stations centrales d’épuration des eaux;
+- h. les déchets gazeux selon l’annexe 5, ch. 41, al. 2;
+- i. les déchets selon l’annexe 5, ch. 31, al. 2, let. b.
+
+<sup>3</sup> Sont réputés déchets spéciaux les déchets désignés comme tels dans la liste des déchets établie en vertu de l’art. 2 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets (OMD)[^annex2-lvlu1-lvl7-lvl71-lvl711-1].
+
+[^annex2-lvlu1-lvl7-lvl71-lvl711-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+
+### 712 Applicabilité de l’annexe 1
+
+<sup>1</sup> Les limitations des émissions au sens de l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>2</sup> Dans les cas où la limitation des émissions au sens de l’annexe 1 est applicable, elle l’est indépendamment des débits massiques qui y sont fixés.
+
+### 713 Grandeur de référence et évaluation des émissions
+
+<sup>1</sup> Les valeurs limites d’émission se rapportent à la teneur en oxygène des effluents gazeux comme il suit:
+
+- a. installations pour l’incinération de déchets liquides: 3 % (% vol);
+- b. installations pour l’incinération de déchets gazeux seuls ou avec des déchets liquides: 3 % (% vol);
+- c. installations pour l’incinération de déchets solides seuls ou avec des déchets liquides ou gazeux: 11 % (% vol).
+
+<sup>2</sup> Pour évaluer les émissions, on calculera la moyenne des valeurs enregistrées pendant une phase de fonctionnement de plusieurs heures.
+
+### 714 Valeurs limites d’émission
+
+<sup>1</sup> Les émissions ne dépasseront pas les valeurs suivantes:
+
+- a. poussières: 10 mg/m3;
+- b. plomb et zinc, ainsi que leurs composés exprimés en métaux, au total: 1 mg/m3;
+- c. mercure et cadmium, ainsi que leurs composés, exprimés en métaux, par substance: 0,05 mg/m3;
+- d. oxydes de soufre, exprimés en anhydride sulfureux: 50 mg/m3;
+- e. oxydes d’azote (monoxyde et dioxyde), exprimés en dioxyde d’azote, pour un débit massique égal ou supérieur à 2,5 kg/h: 80 mg/m3;
+- f. composés chlorés inorganiques sous forme de gaz, exprimés en acide chlorhydrique: 20 mg/m3;
+- g. composés fluorés inorganiques sous forme de gaz, exprimés en acide fluorhydrique: 2 mg/m3;
+- h. ammoniac et composés de l’ammonium, exprimés en ammoniac: 5 mg/m3;
+- i. matières organiques sous forme de gaz, exprimées en carbone total: 20 mg/m3;
+- k. monoxyde de carbone: 50 mg/m3;
+- l. dibenzo-p-dioxines polychlorées (dioxines) et dibenzofuranes (furanes), exprimés en somme des équivalents de toxicité selon la norme EN 1948-1[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: 0,1 ng/m3.
+
+<sup>2</sup> Pour les installations présentant une teneur en oxydes d’azote (monoxyde et dioxyde), exprimés en dioxyde d’azote, de 1000 mg/m<sup>3</sup> ou plus dans le gaz brut, l’autorité peut, en dérogation de l’al. 1, let. h, fixer une valeur limite d’émission moins sévère pour l’ammoniac et les composés de l’ammonium.
+
+[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 715 ...
+
+### 716 Surveillance
+
+<sup>1</sup> On mesurera et on enregistrera en permanence:
+
+- a. la température des effluents gazeux dans la zone de combustion et dans la cheminée;
+- b. la teneur des effluents gazeux en oxygène, à la sortie de la zone de combustion;
+- c. la teneur des effluents gazeux en monoxyde de carbone.
+
+<sup>2</sup> On surveillera en permanence le fonctionnement de l’installation d’épuration des gaz en mesurant un paramètre d’exploitation significatif, tel que la température des effluents gazeux, la baisse de pression ou le débit d’eau du laveur de fumée.
+
+### 717 Entreposage
+
+On entreposera dans des locaux fermés ou des conteneurs, les déchets dégageant de mauvaises odeurs ou qui émettent des vapeurs dangereuses. L’air évacué sera aspiré puis épuré.
+
+### 718 Interdiction d’incinérer des déchets dans de petites installations
+
+<sup>1</sup> Il est interdit d’incinérer des déchets urbains et des déchets spéciaux dans des installations d’une puissance calorifique inférieure à 350 kW.
+
+<sup>2</sup> L’interdiction n’est pas applicable aux déchets spéciaux provenant des hôpitaux qui, de par leur composition, ne peuvent pas être éliminés en tant que déchets urbains.
+
+### 719 Incinération de déchets particulièrement dangereux pour l’environnement
+
+<sup>1</sup> Avant de procéder à l’incinération de déchets dont les émissions peuvent être particulièrement dangereuses pour l’environnement, le détenteur d’une installation fera des essais avec de petites quantités afin d’en connaître les émissions probables. Il communiquera le résultat à l’autorité compétente.
+
+<sup>2</sup> Sont considérées comme particulièrement dangereuses pour l’environnement, les émissions qui sont à la fois hautement toxiques et difficilement dégradables, tels les hydrocarbures aromatiques polyhalogénés.
+
+### 72 Installations pour l’incinération de bois usagé, de déchets de papier et d’autres déchets similaires
+
+### 721 Champ d’application
+
+<sup>1</sup> Le présent chiffre s’applique aux installations pour l’incinération ou pour la décomposition thermique de bois usagé et de déchets des matières suivantes, mélangés ou non à du bois de chauffage au sens de l’annexe 5:
+
+- a. bois usagé selon l’annexe 5, ch. 31, al. 2, let. a;
+- b. papier et carton;
+- c. autres déchets dont l’incinération produit des émissions similaires à celles des déchets mentionnés aux let. a et b.
+
+<sup>2</sup> Lorsque de tels déchets sont incinérés avec des déchets selon le ch. 711, le ch. 71 est applicable.
+
+<sup>3</sup> Le présent chiffre ne s’applique pas aux fours à ciment (ch. 11)
+
+### 722 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène des effluents gazeux de 11 % (% vol).
+
+### 723 Poussières
+
+Les émissions sous forme de poussières ne dépasseront pas les valeurs suivantes:
+
+- a. pour les installations ayant une puissance calorifique inférieure ou égale à 10 MW: 20 mg/m<sup>3</sup>
+- b. pour les installations ayant une puissance calorifique supérieure à 10 MW: 10 mg/m<sup>3</sup>
+
+### 724 Plomb et zinc
+
+Les émissions de plomb et de zinc ne dépasseront pas au total 5 mg/m<sup>3</sup>.
+
+### 725 Substances organiques
+
+<sup>1</sup> Les limitations des émissions selon l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz sont exprimées en carbone total et ne dépasseront pas 50 mg/m<sup>3</sup>.
+
+### 726 Monoxyde de carbone et oxydes d’azote
+
+<sup>1</sup> Les émissions de monoxyde de carbone ne dépasseront pas 250 mg/m<sup>3</sup>.
+
+<sup>1bis</sup> Les émissions de monoxyde de carbone des installations d’une puissance calorifique supérieure à 10 MW ne dépasseront pas 150 mg/m<sup>3</sup>.
+
+<sup>2</sup> Les émissions d’oxydes d’azote des installations ayant une puissance calorifique supérieure à 10 MW, exprimées en dioxyde d’azote, ne dépasseront pas 150 mg/m<sup>3</sup>.
+
+### 727 Régulation de la combustion
+
+L’installation doit fonctionner avec une régulation automatique du système de commande de la combustion.
+
+### 728 Interdiction d’incinérer des déchets dans les petites installations
+
+Il est interdit d’incinérer des déchets au sens du ch. 721 dans des installations d’une puissance calorifique inférieure à 350 kW.
+
+### 73 Installations pour l’incinération de lessives de sulfite provenant de la fabrication de cellulose
+
+### 731 Oxydes de soufre
+
+<sup>1</sup> La limitation des émissions d’oxydes de soufre au sens de l’annexe 1, ch. 6, n’est pas applicable.
+
+<sup>2</sup> Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, ne dépasseront pas 4,0 kg par tonne de lessive.
+
+### 732 Appréciation des émissions
+
+Pour apprécier si les valeurs limites d’émission sont respectées, on calculera la moyenne des émissions mesurées pendant 24 heures d’exploitation.
+
+### 74 Installations pour l’incinération des déchets biogènes et des produits issus de l’agriculture
+
+### 741 Champ d’application
+
+<sup>1</sup> Le présent chiffre s’applique aux installations d’incinération ou de décomposition thermique des déchets biogènes solides et des produits issus de l’agriculture, mélangés ou non à du bois de chauffage au sens de l’annexe 5. Les engrais de ferme et les autres déchets et produits à odeur forte ne doivent être ni incinérés ni décomposés thermiquement dans de telles installations.
+
+<sup>2</sup> Lorsque de tels déchets et produits sont incinérés avec des déchets selon le ch. 711 ou 721, les dispositions des ch. 71 et 72 sont applicables.
+
+<sup>3</sup> Lorsque de tels déchets et produits sont incinérés avec d’autres combustibles au sens de l’annexe 5, la valeur limite du mélange selon l’annexe 3, ch. 82, est applicable.
+
+<sup>4</sup> Les dispositions du présent chiffre ne s’appliquent pas aux fours à ciment (ch. 11).
+
+### 742 Valeurs limites d’émission
+
+Les émissions ne dépasseront pas les valeurs limites suivantes:
+
+<table>
+<tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="3">Puissance calorifique</th></tr>
+<tr><th colspan="4"></th><th></th><th>jusqu’à 1 MW</th><th>de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
+<tr><td>– Grandeur de référence:</td><td colspan="4"></td><td></td><td></td><td></td></tr>
+<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td colspan="4">%vol</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Particules solides au total:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)<sup>1</sup></td><td colspan="4">mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
+<tr><td colspan="8"><sup>1</sup> Pour un débit massique de 2500 g/h ou plus</td></tr>
+</table>
+
+### 743 Interdiction d’incinérer dans de petites installations
+
+Il est interdit d’incinérer des déchets biogènes solides et des produits issus de l’agriculture au sens du ch. 741 dans des installations d’une puissance calorifique inférieure à 70 kW.
+
+### 8 Autres installations
+
+### 81 Installations dans lesquelles des produits sont directement traités au moyen des effluents gazeux de la combustion
+
+<sup>1</sup> Seuls seront utilisés les combustibles au sens de l’annexe 5.
+
+<sup>2</sup> L’annexe 1, ch. 6, n’est pas applicable aux émissions d’oxydes de soufre produites par le combustible lui-même. Si l’on utilise du charbon ou de l’huile de chauffage «moyenne» ou «lourde», les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, doivent être limitées de manière à ne pas dépasser celles qui se produisent lors de l’utilisation d’un combustible d’une teneur en soufre de 1,0 % (% masse) et qui n’ont pas été réduites.
+
+<sup>3</sup> Les émissions d’oxydes de soufre produites par les biens traités sont régies par l’annexe 1, ch. 6.
+
+### 82 Moteurs à combustion stationnaires
+
+### 821 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène des effluents gazeux de 5 % (% vol).
+
+### 822 Combustibles et carburants
+
+Seuls des combustibles et des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, ou des combustibles et des carburants liquides au sens de l’annexe 5, à l’exception des huiles de chauffage «moyenne» et «lourde», peuvent être employés dans les moteurs à combustion stationnaires.
+
+### 823 Particules solides
+
+<sup>1</sup> Les émissions sous forme de poussières ne dépasseront pas 10 mg/m<sup>3</sup>.
+
+<sup>2</sup> Pour les moteurs à combustion des groupes électrogènes de secours, le ch. 827, al. 2, s’applique.
+
+### 824 Monoxyde de carbone, oxydes d’azote et ammoniac
+
+<sup>1</sup> Les émissions des moteurs à combustion stationnaires ne dépasseront pas les valeurs limites suivantes:
+
+<table>
+<tr><th></th><th></th><th colspan="3">Puissance calorifique</th><th></th><th></th></tr>
+<tr><th></th><th></th><th>jusqu’à 100 kW</th><th>sup. à 100 kW</th><th colspan="3">sup. à 1 MW</th></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, si l’installation fonctionne à 80 % par an, au moins, avec des carburants</td><td></td><td>1300</td><td>650</td><td colspan="3">300</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>250</td><td>150</td><td colspan="3">100</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, si l’installation fonctionne à 80 % par an, au moins, avec des carburants</td><td></td><td>400</td><td>250</td><td colspan="3">100</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>400</td><td>250</td><td colspan="3">250</td></tr>
+</table>
+
+<sup>2</sup> Pour les moteurs à combustion stationnaires équipés d’un système de dénitrification, les émissions d’ammoniac et de composés d’ammonium, exprimées en ammoniac, ne dépasseront pas 30 mg/m<sup>3</sup>.
+
+### 825 Bancs d’essai
+
+Pour les bancs d’essai pour les moteurs à combustion, l’autorité fixe la limitation préventive des émissions conformément à l’art. 4; l’annexe 1 et l’annexe 2, ch. 821 à 824, ne sont pas applicables.
+
+### 826 Mesure et contrôle
+
+<sup>1</sup> La mesure et le contrôle périodiques au sens de l’art. 13, al. 3, seront renouvelés tous les deux ans.
+
+<sup>2</sup> Pour les moteurs à combustion des groupes électrogènes de secours, le ch. 827, al. 3, s’applique.
+
+### 827 Groupes électrogènes de secours
+
+<sup>1</sup> Pour les moteurs à combustion des groupes électrogènes de secours qui sont utilisés tout au plus pendant 50 heures par année, l’autorité fixe la limitation préventive des émissions conformément à l’art. 4; l’annexe 1, ch. 6, l’annexe 2, ch. 824, ainsi que l’annexe 6 ne sont pas applicables.
+
+<sup>2</sup> Les émissions sous forme de poussières ne dépasseront pas 50 mg/m<sup>3</sup>.
+
+<sup>3</sup> La mesure et le contrôle périodiques au sens de l’art. 13, al. 3, seront renouvelés tous les six ans.
+
+### 83 Turbines à gaz
+
+### 831 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent à une teneur en oxygène des effluents gazeux de 15 % (% vol).
+
+### 832 Combustibles
+
+Seuls des combustibles et des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, ou des combustibles et des carburants liquides au sens de l’annexe 5, à l’exception des huiles de chauffage «moyenne» et «lourde», peuvent être employés dans les turbines à gaz.
+
+### 833 Indice de suie
+
+Lors de l’utilisation de combustibles et de carburants liquides, les émissions de suie ne doivent pas dépasser l’indice de suie 2 (annexe 1, ch. 22).
+
+### 834 Monoxyde de carbone
+
+Les émissions de monoxyde de carbone ne dépasseront pas les valeurs suivantes:
+
+<table>
+<tr><td></td><td></td><td colspan="2">Puissance calorifique</td><td></td></tr>
+<tr><td></td><td></td><td>jusqu’à 40 MW</td><td colspan="2">sup.à 40 MW</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, ou avec des combustibles ou des carburants liquides</td><td></td><td>100</td><td colspan="2">35</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, lorsque l’installation est exploitée annuellement au moins à 80 % avec ces produits</td><td></td><td>240</td><td colspan="2">35</td></tr>
+</table>
+
+### 835 Oxydes de soufre
+
+Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, ne dépasseront pas 120 mg/m<sup>3</sup> pour un débit massique supérieur ou égal à 2,5 kg/h.
+
+### 836 Oxydes d’azote et ammoniac
+
+<sup>1</sup> Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, ne dépasseront pas les valeurs limites suivantes:
+
+<table>
+<tr><td></td><td></td><td colspan="2">Puissance calorifique</td><td></td></tr>
+<tr><td></td><td></td><td>jusqu’à 40 MW</td><td colspan="2">sup. à 40 MW</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>40</td><td colspan="2">20</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>50</td><td colspan="2">40</td></tr>
+</table>
+
+<sup>2</sup> Pour les turbines à gaz équipées d’un système de dénitrification, les émissions d’ammoniac et de composés d’ammonium, exprimées en ammoniac, ne dépasseront pas 10 mg/m<sup>3</sup>.
+
+### 837 Bancs d’essai et groupes électrogènes de secours
+
+<sup>1</sup> Pour les bancs d’essai pour les turbines à gaz, l’autorité fixe la limitation préventive des émissions conformément à l’art. 4; l’annexe 1 et l’annexe 2, ch. 831 à 836, ne sont pas applicables.
+
+<sup>2</sup> Pour les turbines à gaz de groupes électrogènes de secours qui sont utilisés tout au plus pendant 50 heures par année, l’autorité fixe la limitation préventive des émissions conformément à l’art. 4; l’annexe 1 et l’annexe 2, ch. 833, 834 et 836, ne sont pas applicables.
+
+### 84 Installations pour la fabrication de panneaux d’aggloméré
+
+### 841 Champ d’application
+
+Le présent chiffre s’applique aux installations pour la fabrication à sec de panneaux d’aggloméré.
+
+### 842 Poussières
+
+Les émissions sous forme de poussières ne dépasseront pas les valeurs suivantes:
+
+- a. dans les effluents gazeux des séchoirs à copeaux: 50 mg/m<sup>3</sup>
+- b. dans les effluents gazeux des ponceuses: 10 mg/m<sup>3</sup>
+
+### 843 Substances organiques
+
+<sup>1</sup> Les limitations des émissions au sens de l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz ou de vapeurs, mesurées à une température de 150 °C, sont exprimées en carbone total.
+
+<sup>3</sup> Elles doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable, mais elles ne dépasseront en aucun cas 350 g par tonne de bois utilisé (absolument sec).
+
+### 844 Applicabilité du ch. 81
+
+Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+
+### 85 Nettoyage des textiles
+
+<sup>1</sup> Le présent chiffre s’applique aux machines de nettoyage des textiles fonctionnant au moyen d’hydrocarbures halogénés.
+
+<sup>2</sup> La porte de chargement d’une machine de nettoyage des textiles doit rester verrouillée au moyen d’un dispositif de sécurité automatique jusqu’à ce que la concentration de substances organiques sous forme de gaz ou de vapeur, dans l’air confiné à l’intérieur de la machine, soit inférieure à 2 g/m<sup>3</sup>.
+
+<sup>3</sup> La concentration déterminante pour le verrouillage, au sens de l’al. 1, doit être surveillée en permanence à l’intérieur de la machine, près de la porte, à l’aide d’un appareil de mesure.
+
+<sup>4</sup> Les vêtements nettoyés doivent avoir une température d’au moins 35 °C avant d’être extraits de la machine.
+
+<sup>5</sup> Si l’air vicié émanant de la machine est aspiré, il sera épuré au moyen d’un filtre à charbon actif ou de toute autre méthode équivalente.
+
+<sup>6</sup> L’air ambiant sera aspiré de manière à ce qu’une dépression règne en permanence dans les locaux d’exploitation.
+
+### 86 Fours crématoires
+
+### 861 Matières organiques
+
+<sup>1</sup> Les limitations des émissions au sens de l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz ou de vapeur, exprimées en carbone total, ne dépasseront pas 20 mg/m<sup>3</sup>.
+
+### 862 Monoxyde de carbone
+
+Les émissions de monoxyde de carbone ne dépasseront pas 50 mg/m<sup>3</sup>.
+
+### 87 Installations de traitement de surfaces
+
+<sup>1</sup> Les dispositions du présent chiffre s’appliquent aux installations destinées au traitement des surfaces d’objets et de produits en métal, verre, céramique, matières plastiques, caoutchouc ou autres matières par des substances organiques halogénées dont le point d’ébullition est inférieur à 150° C à une pression de 1013 mbar.
+
+<sup>2</sup> Les installations de traitement de surfaces seront équipées et exploitées comme suit:
+
+- a. les objets et les produits seront traités dans une enceinte fermée, exception faite des ouvertures servant à l’aspiration des effluents gazeux;
+- b. un dispositif de fermeture automatique doit garantir que les objets ou les produits ne peuvent être sortis de l’enceinte avant que la concentration en substances organiques halogénées dans la zone de prélèvement soit égale ou inférieure à 1 g/m<sup>3</sup>;
+- c. les effluents gazeux évacués doivent être éliminés dans un séparateur. Au cours de cette opération, le débit massique des émissions de substances organiques halogénées, au sens de l’annexe 1, ch. 72, ne doit pas dépasser 100 g/h, et le débit massique des émissions de substances organiques halogénées, au sens de l’annexe 1, ch. 83, ne doit pas dépasser 25 g/h. Les limitations des émissions de l’annexe 1, ch. 7 et 8, ne sont pas applicables;
+- d. lorsque des substances organiques halogénées sont introduites dans l’installation ou évacuées de celle-ci, les émissions seront réduites au moyen d’un système de récupération des vapeurs ou par une mesure équivalente.
+
+<sup>3</sup> Lorsque le volume, notamment, des objets et des produits traités ne permet pas de respecter les exigences de l’al. 2, let. a et b, les émissions devront être réduites par des mesures telles que l’encapsulage, l’isolation et l’extraction de l’air sortant de l’installation, la mise en place de sas à air ou d’une aspiration de l’air, dans la mesure où le permettent la technique et l’exploitation, et où cela est économiquement supportable.
+
+### 88 Chantiers
+
+<sup>1</sup> Les émissions des chantiers seront limitées notamment par l’utilisation de procédures d’exploitation appropriées, dans la mesure où le permettent la technique et l’exploitation, et où cela est économiquement supportable. La nature, la dimension et la situation du chantier ainsi que de la durée des travaux doivent être prises en compte. L’OFEV édicte des directives à ce sujet.
+
+<sup>2</sup> Les valeurs limites des émissions au sens de l’annexe 1 ne sont pas applicables aux engins de chantier ni aux chantiers.
+
+Annexe 3*[^t-3]*
+
+(art. 3, al. 2, let. b)
+
+## Limitation complémentaire et dérogatoire des émissions pour les installations de combustion
+
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour selon le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
+
+### 1 Champ d’application
+
+<sup>1</sup> La présente annexe s’applique aux installations de combustion destinées aux usages suivants:
+
+- a. chauffage des locaux;
+- b. production de chaleur industrielle, y compris de chaleur de cuisson pour une utilisation à des fins commerciales;
+- c. production d’eau chaude ou d’eau surchauffée;
+- d. production de vapeur.
+
+<sup>2</sup> Elle ne s’applique pas aux installations de combustion dans lesquelles des produits sont traités directement au moyen des effluents gazeux de la combustion.
+
+### 2 Dispositions générales
+
+### 21 Combustibles
+
+Les installations de combustion mentionnées au ch. 1 seront alimentées uniquement avec des combustibles au sens de l’annexe 5.
+
+### 22 Contrôle des installations de combustion
+
+En dérogation à l’art. 13, al. 3, les installations de combustion suivantes ne doivent pas être mesurées périodiquement:
+
+- a. les installations de combustion fonctionnant moins de 100 heures pendant une année civile;
+- b. les installations de combustion dont la puissance calorifique ne dépasse pas 12 kW et qui servent uniquement à chauffer des locaux individuels;
+- [tab] c. et d ...
+- e. les chauffages de locaux individuels alimentés au charbon;
+- f. les chauffages de locaux individuels alimentés aux combustibles solides, pour autant qu’ils soient alimentés exclusivement au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1.
+
+### 23 Mesure et appréciation des émissions
+
+<sup>1</sup> Les émissions de toute installation de combustion en fonctionnement stationnaire seront mesurées dans les plages de puissance adéquates. En général, ces plages seront au moins les puissances minimale et maximale auxquelles l’installation fonctionne dans les conditions normales d’exploitation.
+
+<sup>2</sup> Dans le cas des installations équipées d’un système de ramonage automatique, tel que le soufflage des suies, ou d’autres procédés de nettoyage, les émissions de poussières seront mesurées et appréciées sur une durée d’une demi-heure. La mesure englobera la phase de nettoyage.
+
+### 3 Prescriptions particulières pour les installations de combustion composées de plusieurs foyers
+
+<sup>1</sup> Si plusieurs installations de combustion forment ensemble une unité d’exploitation, la puissance calorifique (annexe 1, ch. 24) de l’ensemble (puissance calorifique totale) est déterminante pour la limitation des émissions de chacune des installations.
+
+<sup>2</sup> La puissance calorifique totale est la somme des puissances calorifiques de chacune des installations de combustion composant l’unité d’exploitation.
+
+<sup>3</sup> Si plusieurs installations de combustion formant ensemble une unité d’exploitation sont utilisées de façon modulaire pour couvrir des besoins variables en chaleur ou en vapeur, la limitation des émissions est en règle générale déterminée sur la base de la puissance calorifique de chacune des installations.
+
+### 4 Installations de combustion alimentées à l’huile
+
+### 41 Installations de combustion alimentées à l’huile de chauffage «extra-légère»
+
+### 411 Valeurs limites d’émission
+
+<sup>1</sup> Les émissions des installations de combustion alimentées avec de l’huile «extra-légère» ne dépasseront pas les valeurs suivantes:
+
+<table>
+<tr><th>Huile de chauffage «extra-légère»</th><th></th></tr>
+<tr><th>– Grandeur de référence: les valeurs limites appliquées aux polluants gazeux se rapportent à une teneur en oxygène des effluents gazeux de</th><th>3 % vol</th></tr>
+<tr><th>– Indice de suie</th><th>1</th></tr>
+<tr><th>– Monoxyde de carbone (CO)</th><th>80 mg/m<sup>3</sup></th></tr>
+<tr><th>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote</th><th></th></tr>
+<tr><th>a. appareils à rayonnement lumineux et tubes radiants</th><th>200 mg/m<sup>3</sup></th></tr>
+<tr><th>b. installations avec fluide caloporteur d’une température supérieure à 110 °C</th><th>150 mg/m<sup>3</sup></th></tr>
+<tr><th>c. autres installations</th><th>120 mg/m<sup>3</sup></th></tr>
+<tr><th>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
+<tr><th colspan="2">Remarque: <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+</table>
+
+<sup>2</sup> Les émissions d’oxydes de soufre sont limitées par la valeur limite fixée pour la teneur en soufre à l’annexe 5, ch. 11. La limitation des émissions au sens de l’annexe 1, ch. 6, pour les oxydes de soufre n’est pas applicable.
+
+<sup>3</sup> En dérogation à l’al. 1, les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, des installations d’une puissance calorifique supérieure à 300 MW, ne dépasseront pas 100 mg/m<sup>3</sup>.
+
+### 412 Dispositions complémentaires relatives aux émissions d’oxyde d’azote
+
+Lorsqu’il n’est pas possible, sur le plan technique et sur le plan de l’exploitation, ni économiquement supportable, que des installations de combustion dans lesquelles la température du fluide caloporteur est supérieure à 150 °C respectent les valeurs limites d’émission des oxydes d’azote (150 mg/m<sup>3</sup> selon le ch. 411), l’autorité peut fixer des limites moins sévères. Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront cependant pas 250 mg/m<sup>3</sup>.
+
+### 413 ...
+
+### 414 Normes énergétiques
+
+<sup>1</sup> Les pertes par les effluents gazeux ne dépasseront pas les valeurs suivantes:
+
+- a. chaudières et générateurs de vapeur équipés d’un brûleur à air pulsé à une seule allure ou équipés de brûleurs à évaporation d’huile 7 %
+- b. chaudières et générateurs de vapeur équipés d’un brûleur
+
+  à air pulsé à deux allures:
+
+  - 1\. pendant le fonctionnement de la première allure 6 %
+  - 2\. pendant le fonctionnement de la seconde allure 8 %
+
+<sup>1bis</sup> Les pertes par les effluents gazeux des chaudières servant à la production de chaleur ambiante ou d’eau chaude qui sont mises en service à partir du 1<sup>er</sup> janvier 2019 ne dépasseront pas 4 %.
+
+<sup>2</sup> Lorsqu’il n’est pas possible, sur le plan technique et sur le plan de l’exploitation, ni économiquement supportable, que des chaudières et des générateurs de vapeur dont la température du fluide caloporteur excède 110 °C respectent les valeurs indiquées à l’al. 1, l’autorité peut fixer des limites moins sévères.
+
+### 415 Utilisation d’huile de chauffage «extra-légère Euro»
+
+L’huile de chauffage «extra-légère Euro» ne doit pas être utilisée pour les installations ni dans les unités d’exploitation dont la puissance calorifique est inférieure à 5 MW pour ce combustible.
+
+### 42 Installations de combustion alimentées à l’huile de chauffage «moyenne» ou «lourde»
+
+### 421 Valeurs limites d’émission
+
+<sup>1</sup> Les émissions des installations de combustion alimentées à l’huile de chauffage «moyenne» ou «lourde» ne dépasseront pas les valeurs suivantes:
+
+<table>
+<tr><th></th><th></th><th colspan="7">Puissance calorifique</th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>de 5 MW à 50 MW</th><th colspan="4">de 50 MW à 100 MW</th><th>de 100 MW à 300 MW</th><th colspan="4">plus de 300 MW</th></tr>
+<tr><td colspan="4">Huiles de chauffage «moyenne» et «lourde»</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>– Grandeur de référence:</td><td></td><td></td><td colspan="4"></td><td></td><td colspan="4"></td></tr>
+<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>3</td><td colspan="4">3</td><td>3</td><td colspan="4">3</td></tr>
+<tr><td>– Particules solides au total:</td><td></td><td></td><td colspan="4"></td><td></td><td colspan="4"></td></tr>
+<tr><td>pour les huiles de chauffage ayant une teneur en soufre de 1 % au plus (masse):</td><td>mg/m<sup>3</sup></td><td>80</td><td colspan="4">10</td><td>10</td><td colspan="4">10</td></tr>
+<tr><td>pour les autres huiles de chauffage</td><td>mg/m<sup>3</sup></td><td>50</td><td colspan="4">10</td><td>10</td><td colspan="4">10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td colspan="4">170</td><td>170</td><td colspan="4">170</td></tr>
+<tr><td>– Oxydes de soufre (SO<sub>x</sub>), exprimés en anhydride sulfureux (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td colspan="4">350</td><td>200</td><td colspan="4">150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td colspan="4">150</td><td>150</td><td colspan="4">100</td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>30</td><td colspan="4">30</td><td>30</td><td colspan="4">30</td></tr>
+</table>
+
+<sup>2</sup> La valeur limite d’émission pour les oxydes de soufre, fixée à 1700 mg/m<sup>3</sup> , est réputée respectée lorsque la teneur en soufre de l’huile utilisée ne dépasse pas 1 % (% masse).
+
+### 422 Utilisation d’huile de chauffage «moyenne» ou «lourde»
+
+L’huile de chauffage «moyenne» ou «lourde» ne doit pas être utilisée dans les installations ni dans les unités d’exploitation dont la puissance calorifique est inférieure à 5 MW.
+
+### 5 Installations alimentées aux combustibles solides
+
+### 51 Installations de combustion alimentées au charbon
+
+### 511 Valeurs limites d’émission
+
+<sup>1</sup> Les émissions des installations de combustion alimentées au charbon, aux briquettes ou au coke ne dépasseront pas les valeurs suivantes:
+
+<table>
+<tr><th></th><th></th><th colspan="5">Puissance calorifique</th><th colspan="2"></th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>de 70 kW à 500 kW</th><th>de 500 kW à 1 MW</th><th>de 1 MW à 10 MW</th><th colspan="2">de 10 MW à 100 MW</th><th colspan="5">plus de 100 MW</th></tr>
+<tr><td>Charbon, briquettes, coke</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
+<tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td colspan="2">7</td><td colspan="5">6</td></tr>
+<tr><td>– Particules solides au total:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td colspan="2">10</td><td colspan="5">10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td colspan="2">150</td><td colspan="5">150</td></tr>
+<tr><td>– Oxydes de soufre (SO<sub>x</sub>), exprimés en anhydride sulfureux (SO<sub>2</sub>)</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
+<tr><td>– foyers à lit fluidisé</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td colspan="2">350</td><td colspan="5">200</td></tr>
+<tr><td>– autres chauffages utilisant de la houille</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td colspan="2">350</td><td colspan="5">150</td></tr>
+<tr><td>– autres installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td colspan="2">350</td><td colspan="5">150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td colspan="2">200</td><td colspan="5">150</td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td colspan="2">30</td><td colspan="5">30</td></tr>
+<tr><th colspan="13">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+</table>
+
+<sup>2</sup> L’autorité fixe la limitation préventive des émissions pour les substances inorganiques essentiellement sous forme de poussières ainsi que pour les composés du chlore et du fluor conformément à l’art. 4; l’annexe 1, ch. 5, ainsi que la limitation des émissions fixée pour les composés du chlore et du fluor à l’annexe 1, ch. 6, ne sont pas applicables.
+
+<sup>3</sup> En dérogation à l’al. 1, les valeurs limites d’émission de monoxyde de carbone applicables aux fourneaux de chauffage central et aux fourneaux individuels sont de 4000 mg/m<sup>3</sup>.
+
+### 512 Mesure et contrôle
+
+Pour les chauffages de locaux individuels au sens du ch. 22, let. e, et pour les chaudières d’une puissance calorifique maximale de 70 kW alimentées au charbon au sens du ch. 513, les exigences définies au ch. 524 s’appliquent par analogie.
+
+### 513 Utilisation de charbon
+
+Dans les installations de combustion d’une puissance calorifique inférieure à 1 MW, on n’utilisera que du charbon, des briquettes ou du coke dont la teneur en soufre ne dépasse pas 1 % (% masse).
+
+### 52 Installations de combustion alimentées au bois
+
+### 521 Type d’installation et de combustible
+
+<sup>1</sup> Dans les installations de combustion alimentées au bois, on n’utilisera que du bois de chauffage conforme à l’annexe 5, ch. 31, al. 1, qui a le type, la qualité et l’humidité adaptés à ces installations.
+
+<sup>2</sup> En outre, dans les installations de combustion de puissance calorifique inférieure ou égale à 40 kW et alimentées manuellement, ainsi que dans les cheminées, on n’utilisera que du bois en morceaux au sens de l’annexe 5, ch. 31, al. 1, let. a ou d, ch. 1.
+
+<sup>3</sup> De plus, dans les installations de combustion automatiques de puissance calorifique inférieure ou égale à 40 kW, on n’utilisera que du bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1.
+
+### 522 Valeurs limites d’émission
+
+<sup>1</sup> Les émissions des installations de combustion alimentées au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, ne dépasseront pas les valeurs suivantes:
+
+<table>
+<tr><th></th><th></th><th colspan="3">Puissance calorifique</th><th colspan="2"></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>de 70 kW à 500 kW</th><th colspan="2">de 500 kW à 1 MW</th><th colspan="3">de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
+<tr><td>Bois de chauffage</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>13</td><td>13</td><td colspan="2">13</td><td colspan="3">11</td><td>11</td></tr>
+<tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Pour les fourneaux de chauffage central, les fourneaux individuels et les fours utilisés à des fins commerciales:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– Pour les chauffages de locaux individuels et les chaudières à chargement manuel:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><td>– Pour les chaudières et les générateurs de vapeur à chargement automatique:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
+<tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. c ou d, ch. 2</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>– Particules solides au total</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td colspan="2"><sup>2</sup></td><td colspan="3"><sup>2</sup></td><td>150</td></tr>
+<tr><td>– Substances organiques sous forme de gaz, exprimées en carbone total</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>50</td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">30</td><td>30</td></tr>
+<tr><th colspan="10">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Pour les poêles fixes fabriqués in situ selon la norme SN EN 15544 (Poêles en faïence, poêles en maçonnerie fabriqués in situ – dimensionnement)[^annex3-lvlu1-lvl5-lvl52-lvl522-1], quelle que soit leur puissance calorifique, on se référera aux valeurs limites d’émission applicables aux particules solides et au CO jusqu’à 70 kW. <sup>2</sup> Cf. valeur limite pour l’oxyde d’azote, annexe 1, ch. 6. <sup>3</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+</table>
+
+<sup>2</sup> Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux et rapportées à une teneur en oxygène dans les effluents gazeux de 6 %, ne dépasseront pas les valeurs suivantes:
+
+- a. pour les installations d’une puissance calorifique de 50 à 300 MW 200 mg/m<sup>3</sup>
+- b. pour les installations d’une puissance calorifique de plus de 300 MW 150 mg/m<sup>3</sup>
+
+<sup>3</sup> En dérogation aux valeurs définies à l’al. 1, les émissions d’oxydes d’azote, exprimées en dioxyde d’azote et rapportées à une teneur en oxygène dans les effluents gazeux de 6 % ne dépasseront pas les valeurs suivantes:
+
+- a. pour les installations d’une puissance calorifique de 100 à 300 MW 200 mg/m<sup>3</sup>
+- b. pour les installations d’une puissance calorifique de plus de 300 MW 150 mg/m<sup>3</sup>
+
+<sup>4</sup> L’autorité fixe la limitation préventive des émissions pour les composés du chlore et pour les substances organiques sous forme de gaz, de vapeur ou de particules conformément à l’art. 4; la limitation des émissions pour les composés du chlore fixée à l’annexe 1, ch. 6, ainsi que la limitation des émissions pour les substances organiques fixée à l’annexe 1, ch. 7, ne sont pas applicables.
+
+<sup>5</sup> Sont réservées les exigences particulières relatives aux installations de combustion au sens du ch. 523.
+
+[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 523 Exigences spéciales relatives aux chaudières
+
+<sup>1</sup> Les chaudières à chargement manuel d’une puissance calorifique nominale maximale de 500 kW doivent être équipées d’un accumulateur de chaleur d’une capacité minimale de 12 litres par litre de chambre de remplissage. Le volume ne doit pas être inférieur à 55 litres par kilowatt de puissance calorifique nominale.
+
+<sup>2</sup> Les chaudières à chargement automatique d’une puissance calorifique nominale maximale de 500 kW doivent être équipées d’un accumulateur de chaleur d’une capacité minimale de 25 litres par kilowatt de puissance calorifique nominale. Sont exceptées les chaudières pour granulés de bois d’une puissance calorifique maximale de 70 kW.
+
+<sup>3</sup> L’autorité peut fixer des capacités de stockage inférieures à celles qui sont exigées aux al. 1 et 2, si cela est indiqué pour des raisons relevant de la technique ou de l’exploitation.
+
+<sup>4</sup> Si plusieurs installations de combustion visées aux al. 1 et 2 forment ensemble une unité d’exploitation et sont utilisées de façon modulaire pour couvrir des besoins variables en chaleur ou en vapeur, l’autorité peut fixer des capacités inférieures.
+
+### 524 Mesure et contrôle
+
+<sup>1</sup> Les chauffages de locaux individuels fabriqués en série visés au ch. 22, let. f, sont exemptés de la mesure de réception si le fabricant a remis une déclaration des performances ou une déclaration équivalente au sens de l’art. 20*e*.
+
+<sup>2</sup> Les chauffages de locaux individuels fabriqués par un artisan visés au ch. 22, let. f, sont exemptés de la mesure de réception:
+
+- a. s’ils ont été construits selon une méthode de calcul agréée, notamment selon le programme de calcul pour les poêles en faïence de l’association feusuisse, ou
+- b. s’ils sont équipés d’un système de captage des poussières qui correspond à l’état de la technique, notamment aux exigences définies dans la directive VDI 3670[^annex3-lvlu1-lvl5-lvl52-lvl524-1] (Abgasreinigung – Nachgeschaltete Staubminderungseinrichtungen für Kleinfeuerungsanlagen für feste Brennstoffe).
+
+<sup>3</sup> Les poêles historiques dignes de protection d’un volume maximal de 0,4 m<sup>3</sup> et les cuisinières artisanales sont également exemptés de la mesure de réception s’ils ont été construits selon les règles de la technique de combustion ou s’ils sont équipés d’un système de captage des poussières au sens de l’al. 2, let. b.
+
+<sup>4</sup> Pour les chaudières d’une puissance calorifique maximale de 70 kW alimentées au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1, les émissions de particules solides ne doivent pas être mesurées dans le cadre du contrôle périodique des installations de combustion.
+
+<sup>5</sup> L’OFEV recommande des méthodes de mesure et d’évaluation appropriées.
+
+<sup>6</sup> Pour les chauffages de locaux individuels ne faisant pas l’objet de mesures périodiques au sens du ch. 22, let. f, l’autorité vérifie en particulier les résidus d’incinération et l’état de l’installation. Lors du premier contrôle, elle fournit également des informations concernant l’exploitation correcte de l’installation ainsi que l’utilisation et le stockage des combustibles.
+
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 525 Exigences applicables aux systèmes de captage des poussières
+
+Pour les systèmes de captage des poussières destinés aux installations d’une puissance calorifique supérieure à 70 kW, une disponibilité d’au moins 90 % est en principe exigée. La disponibilité est déterminée par rapport à la durée de fonctionnement de l’installation de combustion.
+
+### 6 Installations de combustion alimentées au gaz
+
+### 61 Valeurs limites d’émission
+
+<sup>1</sup> Les émissions des installations de combustion alimentées au gaz ne dépasseront pas les valeurs suivantes:
+
+<table>
+<tr><th>Installations de combustion au gaz</th><th></th></tr>
+<tr><th>– Grandeur de référence: Les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</th><th>3 % vol</th></tr>
+<tr><th>– Monoxyde de carbone (CO)</th><th>100 mg/m<sup>3</sup></th></tr>
+<tr><th>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>):</th><th></th></tr>
+<tr><th>a. appareils à rayonnement lumineux et tubes radiants</th><th>200 mg/m<sup>3</sup></th></tr>
+<tr><th>b. installations avec fluide caloporteur d’une température supérieure à 110 °C</th><th>110 mg/m<sup>3</sup></th></tr>
+<tr><th>c. autres installations</th><th>80 mg/m<sup>3</sup></th></tr>
+<tr><th>– ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
+<tr><th colspan="2">Remarque: <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+</table>
+
+<sup>2</sup> En dérogation à l’al. 1, les émissions des installations d’une puissance calorifique supérieure à 50 MW ne dépasseront pas les valeurs suivantes:
+
+- a. Poussières
+  - 1\. fonctionnement avec des combustibles gazeux au sens de l’annexe 5, ch. 41, al. 1, let. b à e 10 mg/m<sup>3</sup>
+  - 2\. fonctionnement avec des combustibles gazeux au sens de l’annexe 5, ch. 41, al. 1, let. a 5 mg/m<sup>3</sup>
+
+- b. Oxydes de soufre, exprimés en anhydride sulfureux
+  - 1\. fonctionnement avec des combustibles gazeux au sens de l’annexe 5, ch. 41, al. 1, let. a et c à e 35 mg/m<sup>3</sup>
+  - 2\. fonctionnement avec des combustibles gazeux au sens de l’annexe 5, ch. 41, al. 1, let. b 5 mg/m<sup>3</sup>
+
+- c. Oxydes d’azote (monoxyde et dioxyde), exprimés en dioxyde d’azote 100 mg/m<sup>3</sup>
+
+### 62 Dispositions complémentaires relatives aux émissions d’oxydes d’azote
+
+<sup>1</sup> Lorsqu’il n’est pas possible, sur le plan technique et sur le plan de l’exploitation, ni économiquement supportable, que des installations de combustion dans lesquelles la température du fluide caloporteur est supérieure à 150 °C respectent les valeurs limites d’émission des oxydes d’azote (110 mg/m<sup>3</sup> selon le ch. 61), l’autorité peut fixer des limites moins sévères. Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront cependant pas 200 mg/m<sup>3</sup>.
+
+<sup>2</sup> En dérogation au ch. 61, les valeurs limites pour les oxydes d’azote selon l’annexe 3, ch. 411, sont applicables aux installations alimentées au gaz au sens de l’annexe 5, ch. 41, let. b, d et e.
+
+<sup>3</sup> La limitation des émissions pour les oxydes d’azote fixée à l’annexe 1, ch. 6, et à l’annexe 3, ch. 61, ne s’applique pas aux chauffe-eau à circulation ni aux chauffe-eau à réservoir alimentés au gaz; aucune limitation préventive des émissions au sens de l’art. 4 n’est prescrite.
+
+### 63 Normes énergétiques
+
+<sup>1</sup> Les pertes par les effluents gazeux ne dépasseront pas les valeurs suivantes:
+
+- a. chaudières et générateurs de vapeur équipés d’un brûleur à air pulsé à une seule allure ou équipés de brûleurs atmosphériques 7 %
+- b. chaudières et générateurs de vapeur équipés d’un brûleur
+
+  à air pulsé à deux allures:
+
+  - 1\. pendant le fonctionnement de la première allure 6 %
+  - 2\. pendant le fonctionnement de la seconde allure 8 %
+
+<sup>1bis</sup> Les pertes par les effluents gazeux des chaudières servant au chauffage de locaux ou à la production d’eau chaude qui sont mises en service à partir du 1<sup>er</sup> janvier 2019 ne dépasseront pas 4 %.
+
+<sup>2</sup> Lorsqu’il n’est pas possible, sur le plan technique et sur le plan de l’exploitation, ni économiquement supportable, que des chaudières et des générateurs de vapeur dont la température du fluide caloporteur excède 110 °C respectent les valeurs indiquées à l’al. 1, l’autorité peut fixer des limites moins sévères.
+
+### 7 Installations de combustion pour combustibles liquides au sens de l’annexe 5, ch. 13
+
+<sup>1</sup> Les normes énoncées au ch. 41 valent pour les installations de combustion fonctionnant avec des combustibles liquides au sens de l’annexe 5, ch. 13.
+
+<sup>2</sup> Les combustibles au sens de l’annexe 5, ch. 13, ne peuvent être incinérés dans des installations d’une puissance calorifique inférieure à 350 kW que:
+
+- a. s’ils satisfont aux exigences de qualité d’une norme, et
+- b. s’il a été prouvé, au moyen d’un programme de mesure faisant l’objet d’un accompagnement par les autorités, que les exigences pertinentes en matière de combustion sont respectées pour le type d’installation prévu.
+
+### 8 Installations à combustibles multiples et installations de combustion mixtes
+
+### 81 Installations à combustibles multiples
+
+Si une même installation de combustion est alimentée alternativement avec différents combustibles, la limitation des émissions se fera à chaque fois selon les dispositions applicables au combustible utilisé.
+
+### 82 Installations de combustion mixtes
+
+<sup>1</sup> Si une installation de combustion est alimentée simultanément avec plusieurs combustibles différents, les concentrations des émissions ne devront pas dépasser la valeur limite pondérée.
+
+<sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
+
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image4.png)</sub>
+
+Signification:
+
+- G<sub>m</sub> = valeur limite pondérée du mélange de combustibles, rapportée à une teneur en oxygène B<sub>1</sub>
+- G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = valeur limite d’émission des différents combustibles[^annex3-lvlu1-lvl8-lvl82-1]
+- E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = énergie fournie par combustible et par heure
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
+- B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = grandeur de référence (teneur en oxygène à laquelle sont rapportées les valeurs limites d’émission pour le premier, le deuxième et les autres combustibles)
+
+<sup>3</sup> On procédera par analogie à l’al. 2 pour calculer le taux d’émission déterminant du soufre.
+
+[^annex3-lvlu1-lvl8-lvl82-1]: *Remarque*: pour les oxydes de soufre, on utilisera les valeurs limites d’émission suivantes: a. Pour l’huile «extra-légère»: G = 330 mg/m<sup>3</sup>, rapporté à une teneur en oxygène des effluents gazeux de 3 % (% vol); b. Pour le gaz: G = 38 mg/m<sup>3</sup>, rapporté à une teneur en oxygène des effluents gazeux de 3 % (% vol)
+
+Annexe 4*[^t-4]*
+
+(art. 3, al. 2, let. c)
+
+## Exigences relatives aux installations de combustion, aux machines de chantier et à leurs systèmes de filtres à particules ainsi qu’aux machines et appareils équipés d’un moteur à combustion
+
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Mise à jour selon le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. des mod. du 4 juil. 2007 et du 19 sept. 2008, ci-devant.
+
+### 1 Champ d’application
+
+La présente annexe s’applique aux installations de combustion visées aux art. 20, al. 1, et 20*d*, aux machines de chantier et à leurs systèmes de filtres à particules selon l’art. 19*a*, ainsi qu’aux machines et appareils équipés d’un moteur à combustion visés à l’art. 20*b*.
+
+### 2 Normes relatives aux installations de combustion
+
+### 21 Exigences de qualité de l’air
+
+### 211 Chauffages à l’huile et au gaz
+
+Les chauffages à l’huile et au gaz doivent remplir les exigences de qualité de l’air des normes européennes déterminantes et respecter les valeurs limites d’émission indiquées dans le tableau ci-après:
+
+<table>
+<tr><th>Type d’installation</th><th>Norme européenne déterminante[^annex4-lvlu1-lvl2-lvl21-lvl211-1]</th><th>Classes d’émission déterminantes ou valeurs limites d’émission pour les oxydes d’azote (NO<sub>x</sub>) et pour le monoxyde de carbone (CO)</th></tr>
+<tr><td>Brûleur à air pulsé pour huile «extra-légère» (art. 20, al. 1, let. a)</td><td>EN 267</td><td>NO<sub>x</sub> classe 3 CO classe 3</td></tr>
+<tr><td>Brûleur automatique à air pulsé pour combustibles gazeux (art. 20, al. 1, let. a)</td><td>EN 676</td><td>NO<sub>x</sub> classe 3 CO: 100 mg/kWh</td></tr>
+<tr><td>Chaudière équipée de brûleurs à air pulsé pour huile «extra-légère» (art. 20, al. 1, let. b et c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub> classe 3 CO classe 3</td></tr>
+<tr><td>Chaudière équipée de brûleurs à air pulsé pour combustibles gazeux (art. 20, al. 1, let. b et c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub> classe 3 CO: 100 mg/kWh</td></tr>
+<tr><td>Chaudière pour combustibles gazeux (art. 20, al. 1, let. d)</td><td>EN 656, EN 15502</td><td>NO<sub>x</sub> classe 5 CO: 100 mg/kWh</td></tr>
+<tr><td>Chauffe-eau à réservoirs en chauffage direct alimenté au gaz (art. 20, al. 1, let. f)</td><td>EN 89</td><td>NO<sub>x</sub> classe 5</td></tr>
+<tr><td>Chauffe-eau à circulation alimenté au gaz (art. 20, al. 1, let. g)</td><td>EN 26</td><td></td></tr>
+</table>
+
+[^annex4-lvlu1-lvl2-lvl21-lvl211-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 212 Chauffages au charbon et au bois
+
+Les chauffages au bois et au charbon doivent remplir les exigences de qualité de l’air des normes européennes déterminantes et respecter les valeurs limites d’émission indiquées dans le tableau ci-après:
+
+<table>
+<tr><td>Type d’installation</td><td>Norme européenne déterminante[^annex4-lvlu1-lvl2-lvl21-lvl212-1]</td><td></td><td colspan="2">Classes d’émission déterminantes ou valeurs limites d’émission<sup>a</sup> pour le monoxyde de carbone (CO) et pour les particules solides (poussières)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>CO</td><td colspan="2">Poussières</td></tr>
+<tr><td>Chaudière pour chauffage à bûches et au charbon, à chargement manuel</td><td>EN 303-5 ou EN 12809</td><td>mg/m<sup>3</sup></td><td>800</td><td colspan="2">50</td></tr>
+<tr><td>Chaudière pour chauffage à plaquettes de bois et au charbon, à chargement automatique</td><td>EN 303-5 ou EN 12809</td><td>mg/m<sup>3</sup></td><td>400</td><td colspan="2">60</td></tr>
+<tr><td>Chaudière pour chauffage à granulés de bois, à chargement automatique</td><td>EN 303-5 ou EN 12809</td><td>mg/m<sup>3</sup></td><td>300</td><td colspan="2">40</td></tr>
+<tr><td>Fourneau individuel à combustibles solides</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">90</td></tr>
+<tr><td>Fourneau de chauffage central à combustibles solides</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">120</td></tr>
+<tr><td>Insert de cheminée et cheminée ouverte pour combustibles solides</td><td>EN 13229</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
+<tr><td>Chauffage de locaux à combustibles solides</td><td>EN 13240</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
+<tr><td>Chauffage de locaux à granulés de bois</td><td>EN 14785</td><td>mg/m<sup>3</sup></td><td>500</td><td colspan="2">40</td></tr>
+<tr><td>Appareil de chauffage domestique à combustible solide à libération lente de chaleur</td><td>EN 15250</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
+<tr><td>Brûleur à granulés pour petites chaudières</td><td>EN 15270</td><td></td><td>classe 4</td><td colspan="2">classe 4</td></tr>
+<tr><td colspan="6"><sup>a</sup> Teneur en oxygène de référence: – pour la combustion au bois 13 % vol.; – pour la combustion au charbon 7 % vol.</td></tr>
+</table>
+
+[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 22 ...
+
+### 23 Marquage
+
+<sup>1</sup> Le fabricant doit apposer de manière bien visible sur chaque installation de combustion une plaquette d’identité lisible et durable où figurent les indications conformes aux normes européennes déterminantes, dont au moins les informations suivantes:
+
+- a. nom du fabricant ou marque de fabrique de l’installation;
+- b. appellation, désignation du type ou numéro de modèle;
+- c. désignation de la norme européenne déterminante selon laquelle l’appareil a été soumis aux vérifications prévues au ch. 21;
+- d. puissance calorifique, puissance calorifique nominale ou puissance calorifique émise dans la pièce, ou plage de puissance correspondante en W ou kW.
+
+<sup>2</sup> La plaquette d’identité des chauffages à l’huile et au gaz doit en outre indiquer la classe NO<sub>x</sub> de la norme européenne déterminante.
+
+<sup>3</sup> La plaquette d’identité des chauffages au bois et au charbon doit en outre indiquer les valeurs d’émissions de CO et de poussières en mg/m<sup>3</sup> visées au ch. 212, rapportées à une teneur de référence en oxygène dans les effluents gazeux.
+
+### 3 Exigences de qualité de l’air pour les machines de chantier et leurs systèmes de filtres à particules
+
+### 31 Normes relatives aux machines de chantier
+
+<sup>1</sup> Les émissions des machines de chantier doivent satisfaire aux exigences définies pour les engins mobiles non routiers de la directive 97/68/CE[^annex4-lvlu1-lvl3-lvl31-1] pour leur année de fabrication.
+
+<sup>2</sup> Les émissions des machines de chantier ne doivent en outre pas dépasser 1×10<sup>12</sup> 1/kWh particules solides d’un diamètre supérieur à 23 nm dans les gaz d’échappement, valeur déterminée conformément à l’état reconnu de la technique, notamment au programme de mesure des particules de la CEE-ONU[^annex4-lvlu1-lvl3-lvl31-2] et aux cycles d’essais de la directive 97/68/CE.
+
+<sup>2bis</sup> Les exigences des al. 1 et 2 sont réputées respectées si la machine de chantier remplit les exigences de l’annexe II du règlement (UE) 2016/1628[^annex4-lvlu1-lvl3-lvl31-3].
+
+<sup>3</sup> Les exigences selon l’al. 2 sont réputées respectées si la machine de chantier est équipée d’un système de filtre à particules qui répond aux normes selon le ch. 32.
+
+[^annex4-lvlu1-lvl3-lvl31-1]: JO L 059 du 27.2.1998, p. 1, modifiée en dernier lieu par la directive 2012/46/UE, JO L 353 du 6.12.2012, p. 80.
+[^annex4-lvlu1-lvl3-lvl31-2]: Règlement UNECE n<sup>o</sup> 49, du 15 avril 1982, sur les prescriptions uniformes concernant les mesures à prendre pour réduire les émissions de gaz polluants et de particules émises par les moteurs à allumage par compression utilisés pour la propulsion des véhicules et les émissions de gaz polluants émises par les moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié utilisés pour la propulsion des véhicules; modifié en dernier lieu par la série d’amendements 04, complément 8, en vigueur dès le 22 janvier 2015, annexe 4C, Procédure d’essai de mesure du nombre de particules. Commande: www.unece.org. Le règlement peut être consulté gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen.
+[^annex4-lvlu1-lvl3-lvl31-3]: Voir note de bas de page ad art. 19*b*, al. 1<sup>bis</sup>.
+
+### 32 Normes relatives aux systèmes de filtres à particules
+
+<sup>1</sup> Les systèmes de filtres à particules destinés aux machines de chantier doivent:
+
+- a. retenir 97 % des particules solides d’un diamètre de 20 à 300 nm à l’état neuf et après un fonctionnement continu de 1000 h lors d’une utilisation caractéristique;
+- b. retenir 90 % des particules solides pendant le processus de régénération;
+- c. être munis d’une surveillance électronique qui enregistre les pertes de pression risquant de nuire au fonctionnement, qui déclenche l’alarme et qui interrompt l’apport d’additif s’ils sont endommagés;
+- d. ne pas dépasser le coefficient d’opacité de 0,15 m<sup>-1</sup> lorsque le moteur est en accélération libre;
+- e. être fabriqués de manière à ce qu’il soit impossible de les installer dans le sens inverse à la direction d’écoulement;
+- f. être dotés d’instructions de nettoyage et d’entretien;
+- g. fonctionner sans additifs contenant du cuivre ni revêtements catalytiques à base de cuivre dans le système de gaz d’échappement, et
+- h. limiter les émissions secondaires de polluants dans la mesure que permettent l’état de la technique et les conditions de fonctionnement, et pour autant que cela soit économiquement supportable.
+
+<sup>2</sup> Les méthodes de mesure ainsi que les procédures d’essai sont définis conformément à l’état reconnu de la technique, notamment à la norme SN 277206[^annex4-lvlu1-lvl3-lvl32-1] ou au règlement UNECE n<sup>o</sup> 132[^annex4-lvlu1-lvl3-lvl32-2].
+
+[^annex4-lvlu1-lvl3-lvl32-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex4-lvlu1-lvl3-lvl32-2]: Règlement UNECE n<sup>o</sup> 132, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, tracteurs agricoles et forestiers et engins mobiles non routiers à moteurs à allumage par compression; modifié par la série d’amendements 01, en vigueur dès le 22 janvier 2015 (Add. 131 Rév.1). Commande: www. unece.org. Le règlement peut être consulté gratuitement auprès de l’Office fédéral de l’environnement, Worblentalstrasse 68, 3063 Ittigen.
+
+### 33 Marquage
+
+<sup>1</sup> Les fabricants ou les importateurs doivent poser sur chaque machine de chantier et sur chaque système de filtre à particules une plaquette bien visible, résistante et parfaitement lisible, qui doit comporter les indications suivantes:
+
+- a. nom du fabricant ou de l’importateur;
+- b. numéro de série;
+- c. désignation du type;
+- d. nom de l’organisme d’évaluation de conformité, pour autant qu’une évaluation soit prescrite.
+
+<sup>2</sup> La plaquette de la machine de chantier doit contenir en outre les indications suivantes:
+
+- a. année de fabrication de la machine de chantier;
+- b. puissance du moteur en kW;
+- c. désignation du type de système de réduction des particules.
+
+<sup>3</sup> Si une machine de chantier déjà en circulation est équipée ultérieurement d’un système de filtre à particules, l’installateur du système de filtre à particules doit pourvoir la machine de chantier d’une plaquette contenant les indications selon les al. 1 et 2.
+
+<sup>4</sup> Les machines de chantier dont les moteurs figurent sur la liste des familles de moteurs conformes au sens de l’art. 19*b*, al. 2, ne nécessitent pas de plaquette sur le système de filtre à particules.
+
+### 34 Service antipollution et contrôle
+
+<sup>1</sup> Le détenteur ou l’exploitant d’une machine de chantier doit effectuer ou faire effectuer un service antipollution au moins tous les 24 mois. Il doit en conserver les résultats pendant au moins deux ans et les présenter aux autorités sur demande.
+
+<sup>2</sup> Les machines de chantier ne doivent pas être contrôlées périodiquement au sens de l’art. 13, al. 3. L’autorité contrôle les résultats du service antipollution par sondage. S’il y a suspicion d’émissions excessives de particules solides, elle peut ordonner un nouveau service antipollution.
+
+### 4 Exigences de qualité de l’air pour les machines et appareils équipés d’un moteur à combustion
+
+### 41 Exigences relatives aux machines et appareils équipés d’un moteur à combustion
+
+<sup>1</sup> Les moteurs à combustion des machines et appareils doivent remplir les exigences du règlement (UE) 2016/1628[^annex4-lvlu1-lvl4-lvl41-1].
+
+<sup>2</sup> La limitation des émissions fixée à l’annexe 1 n’est pas applicable.
+
+[^annex4-lvlu1-lvl4-lvl41-1]: Voir note de bas de page ad art. 19*b*, al. 1<sup>bis</sup>.
+
+### 42 Service antipollution et contrôle
+
+<sup>1</sup> Le détenteur ou l’exploitant d’une machine ou d’un appareil équipé d’un moteur à combustion doit effectuer ou faire effectuer un service antipollution au moins tous les 24 mois. Il doit en conserver les résultats pendant au moins deux ans et les présenter aux autorités sur demande. L’OFEV édicte des recommandations à ce sujet.
+
+<sup>2</sup> Les machines et appareils équipés d’un moteur à combustion ne doivent pas être contrôlés périodiquement au sens de l’art. 13, al. 3. L’autorité contrôle les résultats du service antipollution par sondage. S’il y a suspicion d’émissions excessives, elle peut ordonner un nouveau service antipollution.
+
+Annexe 5*[^t-5]*
+
+(art. 21 et 24)
+
+## Exigences relatives aux combustibles et aux carburants
+
+[^t-5]: Mise à jour selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), le ch. I de l’O du 25 août 1999 ([RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), le ch. II des O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 19 sept. 2008, ci-devant.
+
+### 1 Huiles de chauffage et autres combustibles liquides
+
+### 11 Définitions
+
+<sup>1</sup> Par huile de chauffage «extra-légère», on entend l’huile de chauffage «extra-légère Euro» et l’huile de chauffage «extra-légère Eco».
+
+<sup>2</sup> L’huile végétale à l’état naturel et l’ester méthylique d’huile végétale satisfaisant aux exigences de la norme SN EN 14214 (Produits pétroliers liquides – esters méthyliques d’acides gras (EMAG) pour moteurs diesel et comme combustible de chauffage – exigences et méthodes d’essai)[^annex5-lvlu1-lvl1-lvl11-1] sont assimilés à l’huile de chauffage «extra-légère Eco».
+
+[^annex5-lvlu1-lvl1-lvl11-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 11<sup>bis</sup> Teneur en soufre de l’huile de chauffage
+
+La teneur en soufre de:
+
+- a. l’huile de chauffage «extra-légère Euro» ne doit pas dépasser 0,1 % (*% m/m*);
+- b. l’huile de chauffage «extra-légère Eco» ne doit pas dépasser 0,005 % (*% m/m*);
+- c. de l’huile de chauffage «moyenne» ou «lourde» ne doit pas dépasser 2,8 % (*% m/m*).
+
+### 12 Normes complémentaires pour les huiles de chauffage
+
+<sup>1</sup> Les huiles de chauffage ne doivent contenir aucun additif qui renferme des composés halogénés ou des composés de métaux lourds (excepté les composés du fer).
+
+<sup>2</sup> L’huile de chauffage «extra-légère» ne doit contenir aucun additif qui renferme des substances telles que des composés du magnésium, lesquels pourraient fausser les résultats du calcul de l’indice de suie lors des contrôles des chauffages alimentés à l’huile.
+
+<sup>3</sup> Il n’est pas permis d’ajouter des huiles usées aux huiles de chauffage.
+
+### 13 Autres combustibles liquides
+
+### 131 Définition
+
+Sont réputés autres combustibles liquides les composés organiques liquides qui brûlent comme l’huile de chauffage «extra-légère» et qui répondent aux exigences du ch. 132.
+
+### 132 Normes
+
+<sup>1</sup> Lors de leur combustion, les autres combustibles liquides ne doivent pas produire d’émissions de substances nocives plus élevées ou autres que celles qui proviennent de l’huile de chauffage «extra-légère».
+
+<sup>2</sup> La teneur des huiles de chauffage en substances nocives ne dépassera pas les valeurs suivantes:
+
+<table>
+<tr><td>Cendre</td><td>50 mg/kg</td></tr>
+<tr><td>Chlore</td><td>50 mg/kg</td></tr>
+<tr><td>Baryum</td><td>5 mg/kg</td></tr>
+<tr><td>Plomb</td><td>5 mg/kg</td></tr>
+<tr><td>Nickel</td><td>5 mg/kg</td></tr>
+<tr><td>Vanadium</td><td>10 mg/kg</td></tr>
+<tr><td>Zinc</td><td>5 mg/kg</td></tr>
+<tr><td>Phosphore</td><td>5 mg/kg</td></tr>
+<tr><td>Hydrocarbures aromatiques polychlorés (p. ex. le PCB)</td><td>1 mg/kg</td></tr>
+</table>
+
+<sup>3</sup> Pour les biocombustibles liquides s’appliquent, en dérogation à l’al. 2, les valeurs suivantes:
+
+<table>
+<tr><td>Cendre</td><td>100 mg/kg</td></tr>
+<tr><td>Phosphore</td><td>20 mg/kg</td></tr>
+</table>
+
+### 133 Applicabilité de l’annexe 2, ch. 71
+
+Les autres combustibles liquides qui ne répondent pas aux exigences du ch. 132 sont réputés déchets spéciaux.
+
+### 2 Charbon, briquettes et coke
+
+La teneur en soufre du charbon, des briquettes et du coke ne doit pas dépasser 3,0 % (% masse).
+
+### 3 Bois de chauffage
+
+### 31 Définitions
+
+<sup>1</sup> Sont réputés bois de chauffage:
+
+- a. le bois à l’état naturel et en morceaux, y compris son écorce, en particulier les bûches, les briquettes, les brindilles et les pives ainsi que les chutes de bois massif inutilisées obtenues exclusivement par transformation mécanique;
+- b. le bois à l’état naturel sous une autre forme qu’en morceaux, en particulier les granulés, le bois déchiqueté, les copeaux, la sciure, la poussière d’une ponceuse et les écorces;
+- c. les résidus de l’industrie du bois et de son artisanat, dans la mesure où le bois est peint, pourvu d’un revêtement, collé ou traité de manière similaire; à l’exclusion du bois imprégné d’un enduit ou recouvert d’un revêtement renfermant des composés organo-halogénés;
+- d.
+
+  le bois usagé non traité sous forme de:
+
+  - 1\. piquets de clôture, rames à haricots et autres objets en bois massif employés pour le jardinage ou l’agriculture,
+  - 2\. palettes à usage unique en bois massif.
+
+- [tab] <sup>2</sup> Ne sont pas réputés bois de chauffage:
+- a. le bois usagé issu de la démolition, de la transformation ou de la rénovation de bâtiments, les résidus de chantier, les vieux meubles, le bois usagé provenant d’emballages, y compris les palettes et les mélanges de bois usagé et de bois de chauffage au sens de l’al. 1, à l’exception des palettes qui satisfont aux exigences de l’al. 1, let. d, ch. 2;
+- b.
+
+  les autres substances en bois, telles que:
+
+  - 1\. le bois usagé ou les déchets de bois qui ont été traités avec des produits de conservation du bois selon un procédé d’imprégnation sous pression ou qui présentent un revêtement renfermant des composés organo-halogénés ou des composés contenant du plomb,
+  - 2\. les déchets de bois usagé ayant été traités intensivement avec des produits de conservation du bois comme le pentachlorophénol,
+  - 3\. les mélanges de tels déchets avec du bois de chauffage au sens de l’al. 1 ou du bois usagé selon la let. a.
+
+### 32 Exigences concernant les granulés et les briquettes de bois
+
+Les granulés et les briquettes de bois, réputés bois à l’état naturel au sens du ch. 31, al. 1, let. a et b, ne peuvent être importés à titre commercial ou mis dans le commerce que si:
+
+- a. les granulés répondent aux exigences de la norme SN EN ISO 17225-2 (Biocombustibles solides – Classes et spécifications des combustibles – Partie 2: Classes de granulés de bois[^annex5-lvlu1-lvl3-lvl32-1]), posées aux classes de propriétés A1 ou A2, ou sont de qualité équivalente;
+- b. les briquettes répondent aux exigences de la norme SN EN 17225-3 (Biocombustibles solides – Classes et spécifications des combustibles – Partie 3: Classes de briquettes de bois[^annex5-lvlu1-lvl3-lvl32-2]), posées aux classes de propriétés A1 ou A2, ou sont de qualité équivalente.
+
+[^annex5-lvlu1-lvl3-lvl32-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex5-lvlu1-lvl3-lvl32-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 4 Combustibles et carburants gazeux
+
+### 41 Définition
+
+<sup>1</sup> Sont réputés combustibles ou carburants gazeux:
+
+- a. le gaz naturel, le gaz de pétrole ou le gaz de ville fourni par les services publics;
+- b. le gaz liquide composé de propane ou de butane, ou d’un mélange des deux;
+- c. l’hydrogène;
+- d. les gaz assimilables au gaz naturel, au gaz de pétrole ou au gaz de ville, tels que les biogaz, les gaz issus de la gazéification de bois de chauffage au sens du ch. 31, al. 1, let. a, b ou d, ch. 1, ou les gaz d’épuration;
+- e. le gaz de décharge, dans la mesure où sa teneur en composés inorganiques et organiques chlorés et fluorés, exprimée en acide chlorhydrique ou fluorhydrique, ne dépasse pas au total 50 mg/m<sup>3</sup>.
+
+<sup>2</sup> Tous les autres gaz sont réputés gaz de déchets; leur combustion doit donc respecter les exigences de l’annexe 2, ch. 71. Cette condition s’applique notamment aux gaz de décharge qui ne répondent pas aux exigences de l’al. 1, let. e.
+
+### 42 Normes
+
+La teneur en soufre des gaz selon le ch. 41, let. a et b, ne dépassera pas 190 mg/kg.
+
+### 5 Essence
+
+<sup>1</sup> L’essence pour moteurs ne peut être importée à des fins commerciales ou mise dans le commerce qu’à condition de répondre aux exigences ci-après:
+
+<table>
+<tr><th>Paramètre</th><th>Unité</th><th>Minimum<sup>a</sup></th><th>Maximum<sup>a</sup></th><th>Essai<sup>b</sup></th></tr>
+<tr><td>Essence pour moteur</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Indice d’octane recherche</td><td></td><td>95,0<sup>c</sup></td><td>–</td><td>EN ISO 5164</td></tr>
+<tr><td>– Indice d’octane moteur</td><td></td><td>85,0<sup>c</sup></td><td>–</td><td>EN ISO 5163</td></tr>
+<tr><td>– Tension de vapeur (DVPE):</td><td></td><td></td><td></td><td>EN 13016-1</td></tr>
+<tr><td>– période estivale</td><td>kPa</td><td>–</td><td>60,0<sup>d</sup></td><td></td></tr>
+<tr><td>– Distillation:</td><td></td><td></td><td></td><td>EN ISO 3405</td></tr>
+<tr><td>– évaporé à 100 °C</td><td>% (*V/V*)</td><td>46,0</td><td>–</td><td></td></tr>
+<tr><td>– évaporé à 150 °C</td><td>% (*V/V*)</td><td>75,0</td><td>–</td><td></td></tr>
+<tr><td>– Analyse des hydrocarbures:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– oléfines</td><td>% (*V/V*)</td><td>–</td><td>18,0</td><td>EN 15553, EN ISO 22854</td></tr>
+<tr><td>– aromatiques</td><td>% (*V/V*)</td><td>–</td><td>35,0</td><td>EN 15553, EN ISO 22854</td></tr>
+<tr><td>– benzène</td><td>% (*V/V*)</td><td>–</td><td>1,00</td><td>EN 12177, EN 238, EN ISO 22854</td></tr>
+<tr><td>– Teneur en oxygène</td><td>% (*m/m*)</td><td>–</td><td>3,7</td><td>EN 1601, EN 13132, EN ISO 22854</td></tr>
+<tr><td>– Composés oxygénés:</td><td></td><td></td><td></td><td>EN 1601, EN 13132, EN ISO 22854</td></tr>
+<tr><td>– méthanol</td><td>% (*V/V*)</td><td>–</td><td>3,0</td><td></td></tr>
+<tr><td>– éthanol</td><td>% (*V/V*)</td><td>–</td><td>10,0</td><td></td></tr>
+<tr><td>– alcool isopropylique</td><td>% (*V/V*)</td><td>–</td><td>12,0</td><td></td></tr>
+<tr><td>– alcool butylique tertiaire</td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
+<tr><td>– alcool iso-butylique</td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
+<tr><td>– éther (5 atomes ou plus de carbone)</td><td>% (*V/V*)</td><td>–</td><td>22,0</td><td></td></tr>
+<tr><td>– autres composés oxygénés<sup>e</sup></td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
+<tr><td>– Teneur en soufre</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 13032, EN ISO 20846, EN ISO 20884</td></tr>
+<tr><td>– Teneur en plomb</td><td>mg/l</td><td>–</td><td>5,0</td><td>EN 237</td></tr>
+<tr><td colspan="5">Remarques: <sup>a</sup> Les résultats des essais doivent être évalués selon la norme EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test».</td></tr>
+<tr><td colspan="5"><sup>b</sup> Normes (communes) déterminantes pour les essais:</td></tr>
+<tr><td colspan="5">– EN: norme du Comité européen de normalisation CEN</td></tr>
+<tr><td colspan="5">– ISO: norme de l’Organisation internationale de normalisation ISO</td></tr>
+<tr><td colspan="5">Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Pour l’essence normale et en dérogation au tableau, l’indice d’octane recherche doit atteindre au minimum 91, l’indice d’octane moteur au minimum 81.</td></tr>
+<tr><td colspan="5"><sup>d</sup> Applicable à l’essence utilisée du 1<sup>er</sup> mai au 30 septembre.</td></tr>
+<tr><td colspan="5"><sup>e</sup> Autres mono-alcools et éthers dont le point final de distillation n’est pas supérieur à 210 °C.</td></tr>
+</table>
+
+<sup>1bis</sup> Si du bioéthanol est ajouté à l’essence pour moteurs, la valeur maximale de 60,0 kPa au sens de l’al. 1 pour la tension de vapeur durant la période estivale peut être dépassée jusqu’au 30 septembre 2025 dans la marge mentionnée ci-après:
+
+<table>
+<tr><td>Teneur en bioéthanol</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
+<tr><td>Dépassement autorisé de la tension de vapeur prescrite<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
+<tr><td colspan="12">Remarque: <sup>a</sup> Les valeurs intermédiaires sont calculées par interpolation linéaire entre les valeurs immédiatement supérieure et immédiatement inférieure à la teneur en bioéthanol.</td></tr>
+</table>
+
+<sup>2</sup> L’essence pour avions ne peut être importée à des fins commerciales ou mise dans le commerce qu’à condition que sa teneur en plomb ne dépasse pas 0,56 g/l et que sa teneur en benzène ne dépasse pas 1 % (% *V/V*). L’essence pour avions mise dans le commerce doit être colorée en bleu.
+
+### 6 Huile diesel
+
+L’huile diesel ne peut être importée à des fins commerciales ou mise dans le commerce qu’à condition de répondre aux exigences suivantes:
+
+<table>
+<tr><th>Paramètre</th><th>Unité</th><th>Minimum<sup>a</sup></th><th>Maximum<sup>a</sup></th><th>Essai<sup>b</sup></th></tr>
+<tr><td>Huile diesel</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Indice de cétane</td><td></td><td>51,0<sup>c</sup></td><td>–</td><td>EN ISO 5165, EN 15195, EN 16144, EN 16715</td></tr>
+<tr><td>– Densité à 15 °C</td><td>kg/m<sup>3</sup></td><td>–</td><td>845,0</td><td>EN ISO 3675, EN ISO 12185</td></tr>
+<tr><td>– Distillation: 95 % (*V/V*) recueillie à</td><td>°C</td><td>–</td><td>360</td><td>EN ISO 3405, EN ISO 3924</td></tr>
+<tr><td>– Hydrocarbures aromatiques polycycliques</td><td>% (*m/m*)</td><td>–</td><td>8,0</td><td>EN 12916</td></tr>
+<tr><td>– Teneur en soufre</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 20846, EN ISO 20884, EN ISO 13032</td></tr>
+<tr><td colspan="5">Remarques: <sup>a</sup> Les résultats des essais doivent être évalués selon la norme EN ISO 4259 «Petroleum products – determination and application of precision data in relation to methods of test».</td></tr>
+<tr><td colspan="5"><sup>b</sup> Normes (communes) déterminantes pour les essais: – EN: norme du Comité européen de normalisation CEN – ISO: norme de l’Organisation internationale de normalisation ISO Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Pour les qualités hivernales et en dérogation au tableau, l’indice de cétane doit satisfaire au moins aux exigences de la norme SN EN 590.</td></tr>
+</table>
+
+Annexe 6*[^t-6]*
+
+(art. 6, al. 3)
+
+## Hauteur minimale des cheminées industrielles
+
+[^t-6]: Mise à jour selon le ch. II de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+
+### 1 Champ d’application
+
+La présente annexe s’applique aux installations pour lesquelles la grandeur Q/S dépasse la valeur de 5, avec:
+
+- Q = débit massique du polluant atmosphérique émis, en grammes par heure;
+- S = paramètre selon le ch. 9.
+
+### 2 Mode de calcul
+
+<sup>1</sup> La hauteur requise des cheminées se calculera selon les ch. 3 à 6.
+
+<sup>2</sup> Si plusieurs polluants atmosphériques sont émis, la hauteur de la cheminée se calculera sur la base de la substance pour laquelle la grandeur Q/S est la plus élevée.
+
+### 3 Paramètre H<sub>o</sub>
+
+### 31 Détermination de H<sub>o</sub> selon le diagramme 1
+
+<sup>1</sup> Le paramètre H<sub>o</sub> tient compte des effets de courte durée des polluants atmosphériques émis par une installation donnée. On le détermine au moyen du diagramme 1.
+
+<sup>2</sup> Les grandeurs Q et F dépendent des conditions d’émission propres à l’installation. Pour calculer H<sub>o</sub>, on retiendra les valeurs à pleine charge et les conditions les plus défavorables pour l’air (conditions d’émission et conditions dues au combustible utilisé).
+
+<sup>3</sup> La grandeur S limite à une certaine valeur (= valeur de S) les immissions maximales de courte durée dues à l’installation. Pour calculer H<sub>o</sub>, on utilisera les valeurs de S selon le ch. 9.
+
+### 32 Détermination de H<sub>o</sub> dans chaque cas
+
+<sup>1</sup> Le paramètre H<sub>o</sub> sera déterminé dans chaque cas selon les normes pour le calcul de la hauteur des cheminées et la dispersion des effluents gazeux lorsque:
+
+- a. les valeurs Q/S ou F ne figurent pas dans le diagramme 1 ou
+- b. la température des effluents gazeux est inférieure à 55 °C.
+
+<sup>2</sup> Lorsque la température des effluents gazeux est inférieure à 55 °C, H<sub>o</sub> doit cependant équivaloir au moins à la valeur correspondant à une température de 55 °C selon le diagramme 1.
+
+### 4 Hauteur minimale en terrain plat sans obstacles
+
+<sup>1</sup> La hauteur minimale des cheminées en terrain plat sans obstacles est égale à:
+
+H<sub>1</sub> = f × H<sub>o</sub>
+
+Le facteur de correction f tient compte des effets de longue durée dus à des vents canalisés.
+
+<sup>2</sup> On attribuera à f des valeurs comprises entre 1,0 et 1,5 selon les critères suivants:
+
+- f = 1,00 pour les endroits où il n’y a pas de direction prédominante des vents;
+- f = 1,25 pour les endroits présentant une situation intermédiaire;
+- f = 1,50 pour les vallées où les vents sont canalisés.
+
+<sup>3</sup> Selon l’emplacement de l’installation, pour le facteur de correction f on peut également prendre des valeurs intermédiaires.
+
+### 5 Surhaussement pour les zones de construction et de végétation
+
+Les obstacles élevés (bâtiments, végétation) se situant à proximité d’une haute cheminée devront être pris en compte par le biais d’un surhaussement I<sub>1</sub>:
+
+I<sub>1</sub> = g × I
+
+avec:
+
+- I = hauteur des obstacles déterminants les plus élevés, situés dans la zone affectée par l’installation. I prendra des valeurs se situant entre 0 (pas d’obstacles) et 30 mètres (p. ex. une forêt)
+- g = facteur de correction dont les valeurs se situent entre 0 et 1, selon le diagramme 2.
+
+### 6 Hauteur de construction des cheminées
+
+La hauteur de construction H des cheminées sera calculée à l’aide de la formule ci-après:
+
+H = H<sub>1</sub> + I<sub>1</sub>
+
+### 7 Normes supplémentaires
+
+Si les circonstances le justifient, l’autorité exigera des cheminées plus élevées, par exemple lorsque:
+
+- a. le bâtiment a une forme particulière;
+- b. l’emplacement présente des conditions météorologiques de dispersion particulièrement désavantageuses;
+- c. la configuration topographique est spéciale, par exemple vallées encaissées, flancs de coteaux ou dépressions du terrain.
+
+### 8 Symboles
+
+- H (m) = hauteur de construction de la cheminée
+- H<sub>0</sub> (m) = paramètre pour le détermination de la hauteur H<sub>1</sub>
+- H<sub>1</sub> (m) = hauteur minimale de la cheminée en terrain plat sans obstacles
+- I (m) = hauteur des obstacles déterminants les plus élevés
+- I<sub>1</sub> (m) = surhaussement pour les zones de construction et de végétation
+- f (–) = facteur de correction pour les effets de longue durée dus aux vents canalisés
+- g (–) = facteur de correction pour les zones de construction et de végétation
+- Q (g/h) = débit massique du polluant atmosphérique émis; les émissions d’oxydes d’azote (monoxyde et dioxyde) sont exprimées en dioxyde d’azote
+- R<sub>n</sub> (m<sup>3</sup>/h) = débit volumique des effluents gazeux dans les conditions standard (0°C, 1013 mbar)
+- t (°C) = température des effluents gazeux à la sortie de la cheminée
+- Δt (°C) = t – 10°C
+- F (m<sup>4</sup>/s<sup>3</sup>) = flux ascensionnel; F = 3,18 × 10<sup>-6</sup> x R<sub>n</sub> × Δt
+- S (µg/m<sup>3</sup>) = valeur S (voir ch. 3 et 9)
+
+### 9 Valeur S
+
+<table>
+<tr><th>Polluant</th><th>S (µg/m<sup>3</sup>)</th></tr>
+<tr><td>Poussières en suspension (PM10)<sup>1</sup></td><td>50</td></tr>
+<tr><td>Acide chlorydrique, exprimé en HCl</td><td>100</td></tr>
+<tr><td>Chlore</td><td>150</td></tr>
+<tr><td>Acide fluorydrique et composés gazeux inorganiques du fluor, exprimés en HF</td><td>1</td></tr>
+<tr><td>Monoxyde de carbone</td><td>8000</td></tr>
+<tr><td>Oxydes de soufre, exprimés en dioxyde de soufre</td><td>100</td></tr>
+<tr><td>Hydrogène sulfuré</td><td>5</td></tr>
+<tr><td>Oxydes d’azote, exprimés en dioxyde d’azote</td><td>100</td></tr>
+<tr><td>Substances selon l’annexe 1, ch. 5:</td><td></td></tr>
+<tr><td>– classe 1</td><td>0,5</td></tr>
+<tr><td>– classe 2</td><td>2</td></tr>
+<tr><td>– classe 3</td><td>5</td></tr>
+<tr><td>Substances selon l’annexe 1, ch. 7:</td><td></td></tr>
+<tr><td>– classe 1</td><td>50</td></tr>
+<tr><td>– classe 2</td><td>200</td></tr>
+<tr><td>– classe 3</td><td>1000</td></tr>
+<tr><td>Substances selon l’annexe 1, ch. 8:</td><td></td></tr>
+<tr><td>– classe 1</td><td>0,1</td></tr>
+<tr><td>– classe 2</td><td>1</td></tr>
+<tr><td>– classe 3</td><td>10</td></tr>
+<tr><td colspan="2"><sup>1</sup> Poussières fines en suspension dont le diamètre aérodynomique est inférieur à 10μm).</td></tr>
+</table>
+
+### Détermination du paramètre H<sub>o</sub> pour les cheminées industrielles
+
+Diagramme 1
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image5.png)
+
+### Détermination du facteur de correction g pour les zones de construction et de végétation
+
+Diagramme 2
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image6.png)
+
+I = hauteur des obstacles déterminants les plus élevés (ch. 5)
+
+H<sub>1</sub> = hauteur minimale de la cheminée en terrain plat sans obstacles (ch. 4)
+
+Annexe 7*[^t-7]*
+
+(art. 2, al. 5)
+
+## Valeurs limites d’immission
+
+[^t-7]: Nouvelle teneur selon le ch II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Mise à jour selon le ch. II de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+
+<table>
+<tr><th>Substance</th><th>Valeur limite d’immission</th><th>Définition statistique</th></tr>
+<tr><td>Anhydride sulfureux (SO<sub>2</sub>)</td><td>30 µg/m<sup>3</sup></td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95 % des moyennes semi-horaires d’une année ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>Moyenne par 24 h; ne doit en aucun cas être dépassée plus d’une fois par année</td></tr>
+<tr><td>Dioxyde d’azote (NO<sub>2</sub>)</td><td>30 µg/m<sup>3</sup></td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95 % des moyennes semi-horaires d’une année ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>80 µg/m<sup>3</sup></td><td>Moyenne par 24 h; ne doit en aucun cas être dépassée plus d’une fois par année</td></tr>
+<tr><td>Monoxyde de carbone (CO)</td><td>8 mg/m<sup>3</sup></td><td>Moyenne par 24 h; ne doit en aucun cas être dépassée plus d’une fois par année</td></tr>
+<tr><td>Ozone (O<sub>3</sub>)</td><td>100 µg/m<sup>3</sup></td><td>98 % des moyennes semi-horaires d’un mois ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>120 µg/m<sup>3</sup></td><td>Moyenne horaire; ne doit en aucun cas être dépassée plus d’une fois par année</td></tr>
+<tr><td>Poussières en suspension (PM10)<sup>a</sup></td><td>20 µg/m<sup>3</sup></td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td></td><td>50 µg/m<sup>3</sup></td><td>Moyenne par 24 h; ne doit en aucun cas être dépassée plus de trois fois par année</td></tr>
+<tr><td>Poussières en suspension (PM2,5)<sup>b</sup></td><td>10 µg/m<sup>3</sup></td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Plomb (Pb) dans les poussières en suspension (PM10)</td><td>500 ng/m<sup>3</sup></td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Cadmium (Cd) dans les poussières en suspension (PM10)</td><td>1,5 ng/m<sup>3</sup></td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Retombées de poussières (total)</td><td>200 mg/(m<sup>2</sup> × d)</td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Plomb (Pb) dans retombées de poussières</td><td>100 µg/(m<sup>2</sup> × d)</td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Cadmium (Cd) dans retombées de poussières</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Zinc (Zn) dans retombées de poussières</td><td>400 µg/(m<sup>2</sup> × d)</td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td>Thallium (Tl) dans retombées de poussières</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
+<tr><td colspan="3">Remarques: mg = milligramme: 1 mg = 0,001 g µg = microgramme: 1 µg =0,001 mg ng = nanogramme: 1 ng = 0,001 µg d = jour «≤» signifie «plus petit ou égal à». <sup>a</sup> Poussières fines en suspension d’un diamètre aérodynamique inférieur à 10 µm. <sup>b</sup> Poussières fines en suspension d’un diamètre aérodynamique inférieur à 2,5 µm.</td></tr>
+</table>
+
+## Table des matières

@@ -1,0 +1,966 @@
+---
+sr: "817.023.11"
+title: "Ordinanza del DFI del 15 agosto 2012 concernente la sicurezza dei giocattoli (Ordinanza sui giocattoli, OSG)"
+short: OSG
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
+language: it
+version: 2019-12-01
+adopted: 2012-08-15
+in_force: 2012-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20191201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFI concernente la sicurezza dei giocattoli
+
+(Ordinanza sui giocattoli, OSG)
+
+del 15 agosto 2012 (Stato 1° dicembre 2019) (Stato 1° dicembre 2019)
+
+Il Dipartimento federale dell’interno (DFI),
+
+visti gli articoli 47 capoverso 5, 66 capoverso 4, 92 e 95 capoverso 3 dell’ordinanza del 16 dicembre 2016[^ingress-1] sulle derrate alimentari e gli oggetti d’uso (ODerr),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza si applica ai giocattoli ai sensi dell’articolo 65 ODerr.[^1-1]
+
+<sup>2</sup> Gli oggetti di cui all’allegato 1 numero I non sono considerati giocattoli.
+
+<sup>3</sup>
+
+La presente ordinanza non si applica:
+
+- a. ai giocattoli di cui all’allegato 1 numero II;
+- b. ai giocattoli usati ai sensi dell’articolo 1 capoverso 4 della legge federale del 12 giugno 2009[^1-2] sulla sicurezza dei prodotti;
+- c. ai giocattoli immessi in commercio in quantità esigue a livello locale nell’ambito di bazar, feste scolastiche e simili.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^1-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 1<sup>bis</sup>
+
+**Definizioni**[^1bis-1]
+
+<sup>1</sup>
+
+Nella presente ordinanza s’intende per:
+
+- a. *fabbricante:* ogni persona fisica o giuridica che fabbrica, progetta oppure fa fabbricare un giocattolo e lo commercializza apponendovi il proprio nome o marchio;
+- b. *rappresentante autorizzato*: ogni persona fisica o giuridica che ha ricevuto da un fabbricante un mandato scritto che lo autorizza ad agire per suo conto in relazione a determinati compiti;
+- c. *importatore*: ogni persona fisica o giuridica che immette in commercio un giocattolo proveniente dall’estero;
+- d. *distributore*: ogni persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall’importatore, che immette in commercio un giocattolo;
+- e. *pericolo*: una fonte potenziale di danno;
+- f. *pericoloso:* qualcosa che rappresenta un pericolo;
+- g. *rischio*: la probabilità di insorgenza di un pericolo fonte di danni e la gravità dei danni.
+
+<sup>2</sup> Per interpretare correttamente le espressioni menzionate nella direttiva 2009/48/CE[^1bis-2] a cui rimanda la presente ordinanza, occorre tenere conto delle equivalenze seguenti:
+
+<table>
+<tr><td></td><td>Espressione nella direttiva 2009/48/CE</td><td>Espressione nella presente ordinanza</td></tr>
+<tr><td>a.</td><td>Espressioni in tedesco:</td><td></td></tr>
+<tr><td></td><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen* *Inverkehrbringen* *Einführer*</td><td>*Inverkehrbringen / in Verkehr bringen* *Erstmaliges Inverkehrbringen / erstmalig in Verkehr bringen* *Importeur*</td></tr>
+<tr><td></td><td>*Gemisch*</td><td>*Zubereitung*</td></tr>
+<tr><td>b.</td><td>Espressioni in francese:</td><td></td></tr>
+<tr><td></td><td>*mise à dispostion sur le marché*</td><td>*mise sur le marché*</td></tr>
+<tr><td></td><td>*mise sur le marché*</td><td>*première mise sur le marché*</td></tr>
+<tr><td></td><td>*mélange*</td><td>*préparation*</td></tr>
+<tr><td>c.</td><td>Espressioni in italiano:</td><td></td></tr>
+<tr><td></td><td>*messa a disposizione sul mercato*</td><td>*immissione in commercio*</td></tr>
+<tr><td></td><td>*immissione sul mercato*</td><td>*prima immissione in commercio*</td></tr>
+<tr><td></td><td>*miscela*</td><td>*preparato*</td></tr>
+</table>
+
+[^1bis-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^1bis-2]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli, GU L 170 del 30.6.2009, pag. 1; modificata da ultimo dalla direttiva 2015/2017/UE, GU L 306 del 24.11.2015, pag. 23.
+
+#### Art. 2
+
+**Importatori o distributori equiparati ai fabbricanti**
+
+Gli importatori o i distributori sono considerati fabbricanti ai sensi della presente ordinanza e sottostanno agli obblighi del fabbricante se:
+
+- a. immettono in commercio un giocattolo per la prima volta sotto il loro nome o il loro marchio; oppure
+- b. modificano un giocattolo già in commercio in modo da poter comprometterne la conformità con i requisiti vigenti.
+
+## Sezione 2: Requisiti di sicurezza posti ai giocattoli
+
+#### Art. 3
+
+<sup>1</sup>
+
+I giocattoli devono adempiere i seguenti requisiti di sicurezza (qui di seguito: requisiti di sicurezza):
+
+- a.[^3-1] i requisiti generali di sicurezza di cui all’articolo 66 capoversi 1–3 ODerr; e
+- b. i requisiti particolari di sicurezza di cui all’allegato 2.
+
+<sup>2</sup> I giocattoli immessi in commercio devono adempiere i requisiti di sicurezza per tutta la durata di impiego prevedibile e normale.
+
+<sup>3</sup> Il fabbricante che immette in commercio un giocattolo per la prima volta si assicura che esso sia stato progettato e fabbricato conformemente ai requisiti di sicurezza.
+
+<sup>4</sup>
+
+Se ha motivo di ritenere che un giocattolo non adempie i requisiti di sicurezza, l’importatore o il distributore non può immettere in commercio tale giocattolo prima che esso adempia i requisiti di sicurezza. Se il giocattolo presenta un rischio[^3-2]:
+
+- a. l’importatore informa il fabbricante e le autorità esecutive;
+- b. il distributore informa il fabbricante o l’importatore e le autorità esecutive.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).Di detta mod. è tenuto conto in tutti gli art. menzionati.
+[^3-2]: Nuova espr. giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+## Sezione 3: Giocattoli nell’ambito di fiere ed esposizioni
+
+#### Art. 4
+
+I giocattoli che non adempiono le disposizioni della presente ordinanza possono essere esposti e utilizzati in occasione di fiere commerciali ed esposizioni, a condizione che un cartellino apposto su di essi indichi chiaramente che essi non adempiono le disposizioni della presente ordinanza e che saranno immessi in commercio solo quando le adempiranno.
+
+## Sezione 4: Etichettatura
+
+#### Art. 5
+
+**Avvertenze e istruzioni per l’uso**
+
+<sup>1</sup> Se necessario per l’uso sicuro dei giocattoli, le avvertenze indicano le opportune restrizioni destinate agli utilizzatori conformemente all’allegato 3 parte A.
+
+<sup>2</sup> I giocattoli delle categorie di cui all’allegato 3 parte B devono recare le avvertenze particolari ivi elencate. Le avvertenze di cui all’allegato 3 parte B numeri 2−10 vanno riportate nella versione ivi figurante.
+
+<sup>3</sup>
+
+Le avvertenze vanno riportate in modo corretto quanto al contenuto, chiaramente visibile, facilmente leggibile e comprensibile:
+
+- a. sul giocattolo stesso, su un’etichetta fissa o sull’imballaggio; e
+- b. se necessario per l’uso, nelle istruzioni per l’uso allegate.
+
+<sup>4</sup> Per i giocattoli piccoli, venduti senza imballaggio, le pertinenti avvertenze sono apposte se possibile sul giocattolo stesso.
+
+<sup>5</sup> Le avvertenze determinanti per la decisione d’acquisto devono essere apposte sull’imballaggio o essere chiaramente riconoscibili in altra forma per i consumatori prima dell’acquisto. Ciò vale anche per l’acquisto a distanza.
+
+<sup>6</sup> Sui giocattoli non possono essere apposte avvertenze di cui all’allegato 3 parte B che sono contrarie a un uso del giocattolo conforme alla sua destinazione tenuto conto delle sue funzioni, dimensioni o caratteristiche.
+
+<sup>7</sup> ...[^5-1]
+
+<sup>8</sup> Prima di immettere in commercio un giocattolo per la prima volta, il fabbricante e l’importatore si assicurano che a esso siano allegate le avvertenze e le istruzioni per l’uso.
+
+<sup>9</sup> Il distributore verifica se al giocattolo sono allegate le avvertenze e le istruzioni per l’uso.
+
+[^5-1]: Abrogato dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 6
+
+**Marchio d’identificazione**
+
+<sup>1</sup> I giocattoli devono essere muniti di un marchio che li identifichi (p. es. numero del tipo, numero di lotto, numero di modello o numero di serie). Qualora ciò risulti impossibile a causa delle dimensioni o della natura del giocattolo, le informazioni necessarie possono essere riportate sull’imballaggio o nella documentazione allegata al giocattolo.
+
+<sup>2</sup> Il fabbricante appone il marchio d’identificazione.
+
+<sup>3</sup> Prima di immettere in commercio un giocattolo per la prima volta, l’importatore si assicura che il giocattolo sia munito del marchio d’identificazione.
+
+<sup>4</sup> Prima di immettere in commercio un giocattolo, il distributore verifica se il giocattolo è munito del marchio d’identificazione.
+
+#### Art. 7
+
+**Indicazione del nome e dell’indirizzo**
+
+<sup>1</sup> Il fabbricante indica il proprio nome e indirizzo o una centrale presso la quale possa essere contattato sul giocattolo stesso o, qualora ciò risulti impossibile, sull’imballaggio o sulla documentazione allegata al giocattolo.
+
+<sup>2</sup> L’importatore indica il proprio nome e indirizzo sul giocattolo stesso o, qualora ciò risulti impossibile, sull’imballaggio o sulla documentazione allegata al giocattolo. Sono fatti salvi gli accordi internazionali che prevedono agevolazioni.
+
+<sup>3</sup> Prima di immettere in commercio un giocattolo per la prima volta, l’importatore si assicura che siano riportati i dati del fabbricante.
+
+<sup>4</sup> Prima di immettere in commercio un giocattolo, il distributore verifica se sono riportati i dati del fabbricante e dell’importatore.
+
+## Sezione 5: Conformità
+
+#### Art. 8
+
+**Presunzione di conformità**
+
+Per i giocattoli conformi alle norme tecniche menzionate nell’allegato 4 si presume che adempiano i requisiti di sicurezza se questi ultimi sono contemplati da tali norme.
+
+#### Art. 9
+
+**Valutazione della sicurezza**
+
+<sup>1</sup> Prima di immettere in commercio un giocattolo per la prima volta, il fabbricante effettua una valutazione della sicurezza.
+
+<sup>2</sup>
+
+La valutazione della sicurezza si compone di:
+
+- a. un’analisi dei pericoli che il giocattolo può presentare legati alle sue caratteristiche chimiche, fisiche, meccaniche ed elettriche, all’infiammabilità, alle proprietà igieniche e alla radioattività;
+- b. una valutazione dell’esposizione potenziale degli utilizzatori e di terzi a tali pericoli.
+
+#### Art. 10
+
+**Documentazione tecnica**
+
+<sup>1</sup> Il fabbricante elabora la documentazione tecnica relativa al giocattolo. La conserva per dieci anni a partire dalla prima immissione in commercio del giocattolo. In caso di produzione in serie, il termine comincia a decorrere dall’immissione in commercio dell’ultimo esemplare.
+
+<sup>2</sup> La documentazione tecnica deve contenere tutti i dati sui mezzi con cui il fabbricante garantisce che il giocattolo adempie i requisiti di sicurezza. In particolare, essa deve contenere la documentazione elencata nell’allegato 5.
+
+<sup>3</sup> Su richiesta dell’autorità esecutiva, entro 30 giorni il fabbricante presenta una traduzione delle parti determinanti della documentazione tecnica in una lingua ufficiale svizzera o in inglese. In presenza di un rischio grave e immediato l’autorità d’esecuzione può stabilire un termine più breve.
+
+<sup>4</sup> Se il fabbricante non adempie i suoi obblighi di cui ai capoversi 2 e 3, l’autorità esecutiva può esigere che faccia effettuare, a proprie spese ed entro un determinato termine, un esame da parte di un organismo di valutazione della conformità volto a dimostrare il rispetto delle norme tecniche e l’adempimento dei requisiti di sicurezza.
+
+<sup>5</sup> Prima di immettere in commercio un giocattolo per la prima volta, l’importatore si assicura che il fabbricante abbia elaborato la documentazione tecnica.
+
+<sup>6</sup> L’importatore deve assicurarsi di poter presentare la documentazione tecnica all’autorità esecutiva, su richiesta di quest’ultima, durante dieci anni dall’immissione in commercio del giocattolo. In caso di produzione in serie, il termine inizia a decorrere con l’immissione in commercio dell’ultimo esemplare.
+
+#### Art. 11
+
+**Procedura di valutazione della conformità**
+
+<sup>1</sup>
+
+Prima di immettere in commercio un giocattolo per la prima volta, deve essere effettuata una delle seguenti procedure di valutazione della conformità volta a dimostrare che il giocattolo adempie i requisiti di sicurezza:
+
+- a. il controllo interno della produzione secondo l’allegato II modulo A della decisione n. 768/2008/CE[^11-1], se sono applicate norme tecniche di cui all’allegato 4 che coprono tutti i requisiti di sicurezza;
+- b.
+
+  l’esame del tipo secondo l’articolo 12 in combinazione con la procedura di valutazione della conformità di cui all’allegato II modulo C della decisione n. 768/2008/CE, se:
+
+  - 1\. non esistono norme tecniche secondo l’allegato 4 concernenti tutti i requisiti di sicurezza per il giocattolo,
+  - 2\. esistono norme tecniche secondo l’allegato 4, ma il fabbricante non le ha applicate o le ha applicate solo in parte,
+  - 3\. le norme tecniche secondo l’allegato 4 sono state pubblicate con una limitazione, o
+  - 4\. il fabbricante ritiene che la natura, la forma, la costruzione o la destinazione del giocattolo richiedano una verifica da parte di terzi.
+
+<sup>2</sup> Il fabbricante esegue la procedura di valutazione della conformità o la fa eseguire da un organismo di valutazione della conformità.
+
+<sup>3</sup> Prima di immettere in commercio un giocattolo per la prima volta, l’importatore si assicura che sia stata eseguita la procedura di valutazione della conformità.
+
+[^11-1]: Decisione n. 768/2008/CE del Parlamento europeo e del Consiglio del 9 lug. 2008 relativa a un quadro comune per la commercializzazione dei prodotti e che abroga la decisione 93/465/CEE del Consiglio; versione secondo GU L 218 del 13.8.2008, pag. 82.
+
+#### Art. 12
+
+**Esame del tipo**
+
+<sup>1</sup> Il fabbricante presenta la richiesta di esame del tipo secondo la procedura di cui all’allegato II modulo B numero 3 della decisione n. 768/2008/CE[^12-1]. La richiesta deve inoltre includere una descrizione del giocattolo e l’indirizzo del luogo di fabbricazione del giocattolo.
+
+<sup>2</sup> L’esame del tipo è effettuato secondo le modalità di cui all’allegato II modulo B numero 2 secondo trattino della decisione n. 768/2008/CE.
+
+<sup>3</sup> L’organismo di valutazione della conformità effettua un esame del tipo. Assieme al fabbricante verifica se necessario, in particolare se la complessità del giocattolo lo esige, la valutazione della sicurezza effettuata conformemente all’articolo 9.
+
+<sup>4</sup> La documentazione tecnica da presentare per l’esame del tipo e la corrispondenza relativa alla procedura di esame del tipo sono redatte in una lingua ufficiale svizzera o in un’altra lingua accettata dall’organismo di valutazione della conformità.
+
+[^12-1]: Cfr. nota all’art. 11 cpv. 1 lett. a.
+
+#### Art. 13
+
+**Certificato di esame del tipo**
+
+<sup>1</sup>
+
+L’organismo di valutazione della conformità rilascia il certificato di esame del tipo conformemente alla procedura di cui all’allegato II modulo B numero 6 della decisione n. 768/2008/CE[^13-1]. Tale certificato deve inoltre includere:
+
+- a.[^13-2] un rimando alla presente ordinanza o alla direttiva 2009/48/CE[^13-3];
+- b. una fotografia a colori e una descrizione del giocattolo, comprese le sue dimensioni; e
+- c. un elenco delle prove effettuate con rimandi ai relativi rapporti.
+
+<sup>2</sup>
+
+Il fabbricante fa rivedere il certificato di esame del tipo:
+
+- a. all’occorrenza, in particolare in caso di modifiche del processo di fabbricazione, delle materie prime o dei componenti del giocattolo;
+- b. in ogni caso almeno ogni cinque anni.
+
+<sup>3</sup> Se il giocattolo non adempie più i requisiti di sicurezza, il certificato di esame del tipo è revocato.
+
+[^13-1]: Cfr. nota all’art. 11 cpv. 1 lett. a.
+[^13-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^13-3]: Cfr. nota a piè di pagina relativa all’art. 1<sup>bis</sup> cpv. 2.
+
+#### Art. 14
+
+**Dichiarazione di conformità**
+
+<sup>1</sup> Se è stato dimostrato mediante la procedura di valutazione della conformità che il giocattolo adempie i requisiti di sicurezza, il fabbricante rilascia una dichiarazione di conformità.
+
+<sup>2</sup> Con il rilascio della dichiarazione di conformità, il fabbricante assume la responsabilità del fatto che il giocattolo adempie le disposizioni della presente ordinanza.
+
+<sup>3</sup> La dichiarazione di conformità deve includere almeno gli elementi menzionati nell’allegato 6 e nei moduli applicabili di cui all’allegato II della decisione n. 768/2008/CE[^14-1].
+
+<sup>4</sup> Essa deve essere redatta in una lingua ufficiale svizzera o in inglese.
+
+<sup>5</sup> Il fabbricante deve tenere aggiornata la dichiarazione di conformità.
+
+<sup>6</sup> Egli deve conservare la dichiarazione di conformità per dieci anni dalla prima immissione in commercio del giocattolo. In caso di produzione in serie, il termine inizia a decorrere dall’immissione in commercio dell’ultimo esemplare.
+
+<sup>7</sup> L’importatore deve tenere una copia della dichiarazione di conformità a disposizione delle autorità esecutive per dieci anni dalla prima immissione in commercio del giocattolo.
+
+[^14-1]: Cfr. nota all’art. 11 cpv. 1 lett. a.
+
+#### Art. 15
+
+**Produzione in serie**
+
+<sup>1</sup> Il fabbricante adotta procedure adeguate per garantire che anche in caso di produzione in serie le disposizioni della presente ordinanza siano sempre rispettate.
+
+<sup>2</sup> Egli prende adeguatamente in considerazione modifiche del disegno o di caratteristiche del giocattolo, nonché modifiche delle norme tecniche a cui rimanda nella dichiarazione di conformità.
+
+#### Art. 16
+
+**Immagazzinamento e trasporto**
+
+L’importatore e il distributore si assicurano che le condizioni d’immagazzinamento e trasporto non compromettano l’adempimento dei requisiti di sicurezza da parte del giocattolo.
+
+## Sezione 6: Organismo di valutazione della conformità
+
+#### Art. 17
+
+<sup>1</sup>
+
+L’organismo di valutazione della conformità dev’essere:
+
+- a. accreditato secondo l’ordinanza del 17 giugno 1996[^17-1] sull’accreditamento e sulla designazione;
+- b. riconosciuto dalla Svizzera nel quadro di convenzioni internazionali; o
+- c. autorizzato in altro modo dal diritto federale.
+
+<sup>2</sup> Chi si richiama a documenti emessi da un organismo che non soddisfa le condizioni di cui al capoverso 1, deve dimostrare che le qualifiche di questo organismo e le procedure da esso applicate soddisfano i requisiti di cui all’articolo 18 capoverso 2 della legge federale del 6 ottobre 1995[^17-2] sugli ostacoli tecnici al commercio.
+
+<sup>3</sup>
+
+Gli organismi di valutazione della conformità si trasmettono a vicenda le seguenti informazioni sui risultati delle valutazioni della conformità di giocattoli:
+
+- a. spontaneamente, informazioni sui risultati negativi;
+- b. su richiesta, informazioni sui risultati positivi.
+
+[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Sezione 7: Rappresentanti autorizzati
+
+#### Art. 18
+
+<sup>1</sup> Il fabbricante può nominare per scritto un rappresentante autorizzato.
+
+<sup>2</sup>
+
+Il rappresentante autorizzato svolge i compiti stabiliti nel mandato del fabbricante. Il mandato comprende almeno i seguenti compiti del rappresentante autorizzato:
+
+- a. egli tiene la dichiarazione di conformità e la documentazione tecnica a disposizione dell’autorità esecutiva per dieci anni dalla prima immissione in commercio del giocattolo. In caso di produzione in serie, il termine inizia a decorrere dall’immissione in commercio dell’ultimo esemplare;
+- b. consegna all’autorità esecutiva, su richiesta, tutte le informazioni e la documentazione necessarie per dimostrare la conformità del giocattolo;
+- c. coopera con l’autorità esecutiva, su richiesta, a qualsiasi azione intrapresa per eliminare i rischi che un giocattolo presenta.
+
+<sup>3</sup>
+
+Il fabbricante rimane in ogni caso responsabile del fatto che:
+
+- a. il giocattolo adempia i requisiti di sicurezza; e
+- b. la documentazione tecnica sia elaborata secondo l’articolo 10.
+
+## Sezione 8: Autocontrollo
+
+#### Art. 19
+
+**Monitoraggio dei prodotti**
+
+<sup>1</sup> Se ha motivo di ritenere che un giocattolo da lui immesso in commercio non è conforme alle disposizioni della presente ordinanza, il fabbricante, l’importatore o il distributore adotta senza indugio le misure necessarie affinché tale giocattolo vi corrisponda, se necessario lo ritira dal mercato o lo richiama.
+
+<sup>2</sup> Il fabbricante, l’importatore o il distributore informa senza indugio la competente autorità esecutiva se il giocattolo presenta dei rischi fornendo dati dettagliati, in particolare relativi alle disposizioni della presente ordinanza che il giocattolo non adempie, e alle misure adottate.
+
+#### Art. 20
+
+**Campioni e prove**
+
+In considerazione dei rischi che un giocattolo presenta, il fabbricante e l’importatore devono, per tutelare la salute e la sicurezza dei consumatori:
+
+- a. prelevare campioni dei giocattoli in commercio e sottoporli a prove;
+- b. tenere un elenco dei reclami, dei giocattoli non conformi e dei richiami di giocattoli; e
+- c. tenere al corrente il distributore su qualsiasi misura di sorveglianza.
+
+#### Art. 21
+
+**Rintracciabilità**
+
+<sup>1</sup> L’importatore e il distributore devono comunicare alle autorità esecutive, su loro richiesta, da chi hanno ricevuto un giocattolo.
+
+<sup>2</sup> Il fabbricante e l’importatore devono comunicare alle autorità esecutive, su loro richiesta, a chi hanno consegnato un giocattolo.
+
+<sup>3</sup> Il fabbricante, l’importatore e il distributore devono poter presentare le informazioni alle autorità esecutive per un periodo di dieci anni. Questo termine comincia a decorrere dalla prima immissione in commercio per il fabbricante e dalla consegna del giocattolo per l’importatore e il distributore.
+
+## Sezione 9: Cooperazione con l’autorità esecutiva
+
+#### Art. 22
+
+Il fabbricante, il rappresentante autorizzato, l’importatore e il distributore:
+
+- a. mettono a disposizione dell’autorità esecutiva, su richiesta, tutte le informazioni e la documentazione in una lingua ufficiale svizzera o in inglese necessarie per dimostrare che il giocattolo è conforme alla presente ordinanza; e
+- b. cooperano, su richiesta, con l’autorità esecutiva a qualsiasi misura adottata per eliminare i rischi che i giocattoli da essi immessi in commercio presentano.
+
+## Sezione 10:**** Aggiornamento degli allegati
+
+[^sec10-1]
+
+[^sec10-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 23
+
+<sup>1</sup>
+
+L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) aggiorna gli allegati della presente ordinanza come segue:
+
+- a. gli allegati 1–3, 5 e 6 conformemente alla direttiva 2009/48/CE[^23-1] nella versione in vigore nell’Unione europea;
+- b. l’allegato 4 conformemente alle norme armonizzate a livello internazionale.
+- [tab] <sup>2</sup> Può definire disposizioni transitorie in relazione all’aggiornamento.
+
+[^23-1]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli, GU L 170 del 30.06.2009, pag. 1.
+
+## Sezione 11: Disposizioni finali
+
+#### Art. 24
+
+**Abrogazione del diritto vigente**
+
+L’ordinanza del 27 marzo 2002[^24-1] sui giocattoli è abrogata.
+
+[^24-1]: [[RU 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173), [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)n. II 4 [6585](https://fedlex.data.admin.ch/eli/oc/2005/815), [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783), [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649), [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449), [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
+
+#### Art. 25
+
+**Disposizioni transitorie**
+
+<sup>1</sup> giocattoli non conformi alla presente ordinanza possono essere consegnati al consumatore secondo il diritto anteriore fino ad esaurimento delle scorte.
+
+<sup>2</sup> I giocattoli che non adempiono i requisiti relativi alle caratteristiche chimiche di cui all’allegato 2 numero 3 possono essere fabbricati, etichettati e importati secondo il diritto anteriore fino al 20 luglio 2013. Essi possono essere consegnati ai consumatori secondo il diritto anteriore fino ad esaurimento delle scorte.
+
+#### Art. 25a
+
+**Disposizioni transitorie della modifica del 25 novembre 2013**[^25a-1]
+
+<sup>1</sup> I giocattoli che non corrispondono alla modifica del 25 novembre 2013 della presente ordinanza possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 31 dicembre 2015.
+
+<sup>2</sup> Essi possono essere consegnati ai consumatori secondo il diritto anteriore fino ad esaurimento delle scorte.
+
+[^25a-1]: Introdotto dal n. I dell’O dell’UFSP del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)).
+
+#### Art. 25b
+
+**Disposizioni transitorie della modifica del 14 settembre 2015**[^25b-1]
+
+<sup>1</sup> I giocattoli che non corrispondono alla modifica del 14 settembre 2015 possono essere importati, fabbricati, caratterizzati e pubblicizzati secondo il diritto anteriore fino al 30 settembre 2016.
+
+<sup>2</sup> Essi possono essere consegnati ai consumatori fino ad esaurimento delle scorte.
+
+[^25b-1]: Introdotto dal n. I dell’O dell’UFSP del 14 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)).
+
+#### Art. 25c
+
+**Disposizioni transitorie della modifica del 16 dicembre 2016**[^25c-1]
+
+I giocattoli che non corrispondono alla modifica del 16 dicembre 2016 della presente ordinanza possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 aprile 2018. Possono essere consegnati ai consumatori fino a esaurimento delle scorte.
+
+[^25c-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 25d
+
+**Disposizioni transitorie della modifica del 12 marzo 2018**[^25d-1]
+
+I giocattoli che non corrispondono alla modifica del 12 marzo 2018 della presente ordinanza possono essere importati e fabbricati secondo il diritto anteriore fino al 30 aprile 2019. Possono essere consegnati ai consumatori fino a esaurimento delle scorte.
+
+[^25d-1]: Introdotto dal n. I dell’O dell’UFSP del 12 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)).
+
+#### Art. 25e
+
+**Disposizione transitoria della modifica del 23 ottobre 2019**[^25e-1]
+
+<sup>1</sup> I giocattoli che non adempiono i requisiti di cui all’allegato 2 numero 3 (numeri 7, 11 lettera a e 12) della modifica del 23 ottobre 2019 possono essere importati, fabbricati, caratterizzati e consegnati ai consumatori secondo il diritto anteriore fino al 31 maggio 2020.
+
+<sup>2</sup> I giocattoli che non adempiono gli altri requisiti della modifica del 23 ottobre 2019 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 novembre 2020. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
+
+[^25e-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+#### Art. 26
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° ottobre 2012.
+
+Allegato 1*[^t-1]*
+
+(art. 1 cpv. 2 e 3 lett. a)
+
+## Elenchi di oggetti a cui non è applicabile la presente ordinanza
+
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+### I Oggetti non considerati giocattoli ai sensi dell’articolo 65 ODerr
+
+- 1\. Decorazioni e addobbi per festività e celebrazioni;
+- 2\.
+
+  prodotti destinati a collezionisti, purché il prodotto o il suo imballaggio rechino un’indicazione chiara e leggibile che si tratta di un prodotto destinato a collezionisti di età superiore a 14 anni. Rientrano in questa categoria:
+
+  - a. modelli in scala fedeli all’originale,
+  - b. kit di montaggio di modelli in scala fedeli all’originale,
+  - c. bambole folcloristiche e decorative e altri articoli analoghi,
+  - d. repliche di giocattoli storici,
+  - e. riproduzioni di armi da fuoco reali;
+
+- 3\. attrezzature sportive (compresi pattini a rotelle, pattini in linea e skateboard) destinati a bambini aventi una massa corporea superiore a 20 kg;
+- 4\. biciclette con un’altezza massima alla sella di oltre 435 mm, misurata in verticale dal suolo alla superficie superiore della sella con la sella in posizione orizzontale e regolata con il tubo reggisella al livello di inserimento minimo;
+- 5\. monopattini e altri mezzi di trasporto progettati per lo sport o destinati a essere utilizzati per spostamenti sulla pubblica via o su percorsi pubblici;
+- 6\. veicoli elettrici destinati a essere utilizzati per spostamenti sulla pubblica via, su percorsi pubblici o su marciapiedi pubblici;
+- 7\. attrezzature nautiche da utilizzare in acque profonde e dispositivi per imparare a nuotare destinati ai bambini, come salvagente a mutandina e ausili per il nuoto;
+- 8\. puzzle di oltre 500 pezzi;
+- 9\. fucili e pistole a gas compresso – eccetto i fucili ad acqua e le pistole ad acqua – e gli archi per il tiro con l’arco di lunghezza superiore a 129 cm;
+- 10\. fuochi d’artificio, comprese le capsule a percussione, non progettate specificamente per i giocattoli;
+- 11\. prodotti e giochi con dardi appuntiti, come i giochi di freccette con punte metalliche;
+- 12\. prodotti educativi funzionali, quali forni, ferri da stiro o altri prodotti funzionali elettrici alimentati con tensione nominale superiore a 24 volt venduti esclusivamente per essere utilizzati a fini didattici sotto la sorveglianza di una persona adulta;
+- 13\. prodotti destinati a essere utilizzati per scopi educativi nelle scuole e in altri contesti pedagogici sotto la sorveglianza di un educatore adulto, come le apparecchiature scientifiche;
+- 14\. apparecchiature elettroniche come PC e console di gioco usate per accedere a software interattivi e le relative periferiche, qualora le apparecchiature elettroniche o le relative periferiche non siano espressamente concepite per i bambini e ad essi destinate e non abbiano un valore ludico intrinseco, come PC, tastiere, joystick o volanti appositamente progettati;
+- 15\. software interattivi destinati al tempo libero e all’intrattenimento, come giochi elettronici per PC e i relativi supporti di memorizzazione (come i CD);
+- 16\. succhietti per neonati;
+- 17\. apparecchi di illuminazione che i bambini possono considerare giocattoli;
+- 18\. trasformatori elettrici per giocattoli;
+- 19\. accessori di moda per bambini che non sono destinati a essere utilizzati per giocare.
+
+### II Giocattoli ai sensi dell’articolo 65 ODerr a cui non è applicabile la presente ordinanza
+
+- 1\. attrezzature per aree da gioco ad uso pubblico;
+- 2\. macchine da gioco automatiche ad uso pubblico;
+- 3\. veicoli-giocattolo con motore a combustione;
+- 4\. macchine a vapore giocattolo;
+- 5\. fionde e catapulte.
+
+Allegato 2*[^t-2]*
+
+(art. 3 cpv. 1 lett. b)
+
+## Requisiti particolari di sicurezza relativi ai giocattoli
+
+[^t-2]: Aggiornato dal n. II cpv. 1 dell’O dell’UFSP del 25 nov. 2013 ([RU 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), dal n. II 3 dell’O del DFI del 5 giu. 2015 ([RU 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), dal n. II cpv. 1 dell’O dell’UFSP del 14 set. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), dai n. I e II cpv. 1 dell’O del DFI del 16 dic. 2016 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), dalla correzione del 30 mag. 2017 ([RU 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), dal n. II dell’O dell’UFSP del 12 mar. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)) e dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+### 1. Proprietà fisico-meccaniche
+
+- 1\. I giocattoli e le loro parti e, nel caso dei giochi fissi, i relativi ancoraggi devono avere la resistenza meccanica e, se del caso, la stabilità necessarie per sopportare – senza rompersi o deformarsi con il rischio di provocare lesioni fisiche – le sollecitazioni cui sono sottoposti durante l’uso.
+- 2\. I bordi, le sporgenze, le corde, i cavi e gli elementi di fissaggio dei giocattoli accessibili devono essere progettati e costruiti in modo da ridurre per quanto possibile i rischi di lesioni dovuti al contatto con essi.
+- 3\. I giocattoli devono essere progettati e costruiti in modo tale che il loro uso non presenti alcun rischio se non il rischio minimo che può essere causato dal movimento delle loro parti.
+- 4\.
+
+  Prevenzione dei rischi di strangolamento e asfissia:
+
+  - a. I giocattoli e le loro parti devono essere progettati e costruiti in modo da escludere il rischio di strangolamento.
+  - b. I giocattoli e le loro parti devono essere progettati e costruiti in modo da escludere il rischio di asfissia per blocco del flusso d’aria a causa di un’ostruzione delle vie aeree all’esterno della bocca e del naso.
+  - c. I giocattoli e le loro parti devono avere dimensioni tali da non comportare alcun rischio di asfissia per ostruzione interna delle vie aeree causata da corpi incastrati nella bocca o nella faringe o all’ingresso delle vie respiratorie inferiori.
+  - d. I giocattoli chiaramente destinati a bambini di età inferiore a 36 mesi, i loro componenti e le eventuali parti staccabili devono avere dimensioni tali da prevenirne l’ingestione o l’inalazione. Questo requisito si applica anche agli altri giocattoli destinati a essere portati alla bocca, ai loro componenti e alle loro parti staccabili.
+  - e. L’imballaggio in cui sono contenuti i giocattoli per la vendita al dettaglio deve essere progettato e costruito in modo da escludere il rischio di strangolamento o di asfissia per ostruzione delle vie aeree all’esterno della bocca e del naso.
+  - f. I giocattoli contenuti in prodotti alimentari o offerti assieme ad essi devono essere imballati separatamente. L’imballaggio deve essere di dimensioni tali da impedirne l’ingestione o l’inalazione.
+  - g. Gli imballaggi dei giocattoli di cui alle lettere e ed f aventi forma sferica, ovoidale o ellissoidale e ogni parte staccabile di tali imballaggi o di imballaggi cilindrici con estremità arrotondate devono essere di dimensioni tali da impedirne l’ingestione o l’inalazione ed escludere il rischio di asfissia per ostruzione interna delle vie aeree causata da corpi incastrati nella bocca o nella faringe o all’ingresso delle vie respiratorie inferiori.
+  - h. Sono vietati i giocattoli che sono solidamente attaccati alla derrata alimentare al momento del consumo, tanto da richiedere la consumazione della derrata alimentare affinché si possa accedere al giocattolo. Le parti di giocattoli che, in altro modo, sono direttamente attaccate a una derrata alimentare devono adempiere i requisiti di cui alle lettere c e d.
+
+- 5\. I giocattoli acquatici devono essere progettati e costruiti in modo da ridurre per quanto possibile, tenuto conto dell’uso raccomandato del giocattolo, il rischio che venga meno la galleggiabilità del giocattolo e il sostegno dato al bambino.
+- 6\. I giocattoli nei quali è possibile entrare e che costituiscono uno spazio chiuso per gli occupanti debbono essere muniti di un’uscita che l’utilizzatore cui il giocattolo è destinato possa aprire facilmente dall’interno.
+- 7\. I giocattoli concepiti come mezzo per muoversi devono, per quanto possibile, possedere un sistema di frenatura adatto al tipo di giocattolo e adeguato all’energia cinetica da essi generata. L’utilizzatore deve poter usare tale sistema facilmente, senza incorrere nel rischio di essere sbalzato dal veicolo e di cadere o nel rischio di provocare lesioni a sé o a terzi. La velocità massima di progetto (velocità di esercizio rappresentativa che può raggiungere un giocattolo in base alla sua costruzione) dei giocattoli cavalcabili elettrici deve essere limitata in modo da ridurre al minimo il rischio di lesioni.
+- 8\. La forma e la composizione dei proiettili nonché l’energia cinetica che questi possono generare all’atto del lancio da un giocattolo avente questa finalità devono essere progettati e costruiti in modo da escludere – tenuto conto della natura del giocattolo – il rischio di lesioni per l’utilizzatore e terzi.
+- 9\.
+
+  I giocattoli devono essere costruiti in modo da garantire che:
+
+  - a. la temperatura minima e massima di ogni superficie accessibile non provochi lesioni in caso di contatto; e
+  - b. i liquidi e i gas contenuti nel giocattolo non raggiungano temperature e pressioni tali che la loro fuoriuscita dal giocattolo – salvo che ciò sia indispensabile al buon funzionamento del giocattolo – possa provocare ustioni, scottature o altre lesioni.
+
+- 10\. I giocattoli destinati a produrre un suono devono essere progettati e costruiti in modo tale che i valori massimi del rumore, impulsivo e prolungato, da essi emesso non danneggi l’udito dei bambini.
+- 11\. Giochi di attività
+  - a.
+
+    I giochi di attività devono essere costruiti in modo da ridurre, per quanto possibile, i seguenti rischi:
+
+    - 1\. parti del corpo schiacciate o intrappolate,
+    - 2\. indumenti intrappolati,
+    - 3\. cadute e urti,
+    - 4\. annegamento.
+
+  - b. Ogni superficie dei giochi di attività accessibile a uno o più bambini che vi giochino sopra deve essere progettata in modo da sopportarne il peso.
+
+### 2. Infiammabilità
+
+- 1\.
+
+  I giocattoli non devono costituire pericolosi oggetti infiammabili nell’ambiente del bambino. Devono essere costituiti da materiali che non comportano rischi di accensione per altri materiali usati nel giocattolo e che soddisfano una o più delle seguenti condizioni:
+
+  - a. non bruciano se direttamente esposti all’azione di una fiamma, a una scintilla o a qualsiasi altra potenziale fonte di incendio;
+  - b. non sono facilmente infiammabili (la fiamma si spegne non appena è rimossa la causa di incendio);
+  - c. qualora prendano fuoco, bruciano lentamente, di modo che il fuoco può propagarsi solo lentamente;
+  - d. indipendentemente dalla composizione chimica del giocattolo, sono progettati in modo da ritardare meccanicamente il processo di combustione.
+
+- 2\. I giocattoli che, per ragioni indispensabili al loro funzionamento, contengono sostanze o preparati rispondenti ai criteri di classificazione di cui al numero 1 dell’appendice B della direttiva 2009/48/CE[^annex2-lvlu1-lvl2-1] non possono contenere sostanze o preparati che possono divenire infiammabili in seguito alla perdita di componenti volatili non infiammabili. Tali sostanze o preparati indispensabili al loro funzionamento possono essere contenute in particolare in materiali e attrezzature per esperimenti chimici, modellistica, modellamento di plastilina o argilla, smaltatura, fotografia o per altre attività analoghe.
+- 3\. I giocattoli diversi dalle capsule a percussione per giocattoli non devono essere esplosivi né contenere elementi o sostanze che possano esplodere in caso di uso conformemente alla loro destinazione o prevedibile in considerazione del comportamento abituale dei bambini.
+- 4\.
+
+  I giocattoli non devono contenere sostanze o preparati che:
+
+  - a. in caso di miscelazione tra loro possano esplodere per reazione chimica o per riscaldamento;
+  - b. possano esplodere se miscelate con sostanze ossidanti; oppure
+  - c. contengano componenti volatili infiammabili a contatto con l’aria e tali da formare preparati di aria infiammabili o esplosive.
+
+[^annex2-lvlu1-lvl2-1]: Cfr. nota all’art. 13 cpv. 1 lett. a.
+
+### 3. Proprietà chimiche
+
+- 1\. I giocattoli non devono presentare il rischio di compromettere la salute umana a causa dell’esposizione alle sostanze o ai preparati chimici di cui sono costituiti o in essi contenuti.
+- 2\. I giocattoli che sono essi stessi sostanze o preparati devono inoltre essere conformi alle disposizioni dell’ordinanza del 5 giugno 2015[^annex2-lvlu1-lvl3-1] sui prodotti chimici (OPChim) relative alla classificazione, all’imballaggio e all’etichettatura, sempre che siano applicabili.
+- 3\. Le sostanze classificate come cancerogene, mutagene o tossiche per la riproduzione (CMR) delle categorie 1A, 1B o 2 conformemente alla versione del regolamento (CE) n. 1272/2008 di cui all’allegato 2 numero 1 OPChim non possono essere utilizzate in nessuna parte dei giocattoli.
+- 4\. Si può derogare al numero 3 nel quadro delle disposizioni dell’allegato II numeri III.4 e III.5 della direttiva 2009/48/CE[^annex2-lvlu1-lvl3-2].
+- 5\. I numeri 3 e 4 non si applicano ai giocattoli e alle loro parti contenenti nichel nell’acciaio inossidabile nonché alle parti con nichel destinate a condurre la corrente elettrica. Ai giocattoli con parti nichelate che vengono direttamente a contatto con la pelle per periodi prolungati si applicano i capoversi 1 e 2 dell’articolo 2 dell’ordinanza del 23 novembre 2005[^annex2-lvlu1-lvl3-3] sugli oggetti che vengono a contatto con il corpo umano.
+- 6\. I numeri 3 e 4 non si applicano ai materiali che rientrano nel campo di applicazione delle disposizioni del regolamento (CE) n. 1935/2004[^annex2-lvlu1-lvl3-4] e sono conformi ai requisiti corrispondenti.
+- 7\.
+
+  Fatta salva l’applicazione dei numeri 3 e 4, per le nitrosammine e le sostanze nitrosabili nei giocattoli destinati ai bambini di età inferiore a 36 mesi o in giocattoli destinati ad essere portati alla bocca si applicano i seguenti valori limite nella prova di migrazione:
+
+  - a. nitrosammine: 0,05 mg/kg
+  - b. sostanze nitrosabili: 1 mg/kg
+
+- 8\. I giocattoli cosmetici, come i cosmetici per le bambole, devono rispettare anche le prescrizioni dell’ordinanza del DFI del 16 dicembre 2016[^annex2-lvlu1-lvl3-5] sui cosmetici (OCos).
+- 9\. Fragranze allergizzanti
+  - a. I giocattoli non devono contenere le seguenti fragranze allergizzanti. La presenza di tracce di queste fragranze è consentita purché tecnicamente inevitabile in base alle norme di «buona fabbricazione» e non superi i 100 mg/kg:
+
+<table>
+<tr><th>Numero</th><th>Fragranze allergizzanti</th><th>Numero CAS[^annex2-lvlu1-lvl3-6]</th></tr>
+<tr><td>(1)</td><td>Olio di radice di enula (Inula helenium)</td><td>97676-35-2</td></tr>
+<tr><td>(2)</td><td>Allil isotiocianato</td><td>57-06-7</td></tr>
+<tr><td>(3)</td><td>Cianuro di benzile</td><td>140-29-4</td></tr>
+<tr><td>(4)</td><td>4-terz-butilfenolo</td><td>98-54-4</td></tr>
+<tr><td>(5)</td><td>Olio di chenopodio</td><td>8006-99-3</td></tr>
+<tr><td>(6)</td><td>Ciclaminalcol</td><td>4756-19-8</td></tr>
+<tr><td>(7)</td><td>Maleato di dietile</td><td>141-05-9</td></tr>
+<tr><td>(8)</td><td>Diidrocumarina</td><td>119-84-6</td></tr>
+<tr><td>(9)</td><td>2,4-diidrossi-3-metil-benzaldeide</td><td>6248-20-0</td></tr>
+<tr><td>(10)</td><td>3,7-dimetil-2-octen-1-olo (6,7-diidrogeraniolo)</td><td>40607-48-5</td></tr>
+<tr><td>(11)</td><td>4,6-dimetil-8-terz-butil-cumarina</td><td>17874-34-9</td></tr>
+<tr><td>(12)</td><td>Citraconato di dimetile</td><td>617-54-9</td></tr>
+<tr><td>(13)</td><td>7,11-dimetil-4,6,10-dodecatrien-3-one</td><td>26651-96-7</td></tr>
+<tr><td>(14)</td><td>6,10-dimetil-3,5,9-undecatrien-2-one</td><td>141-10-6</td></tr>
+<tr><td>(15)</td><td>Difenilammina</td><td>122-39-4</td></tr>
+<tr><td>(16)</td><td>Acrilato di etile</td><td>140-88-5</td></tr>
+<tr><td>(17)</td><td>Foglia di fico (ficus carica), fresca e in preparati</td><td>68916-52-9</td></tr>
+<tr><td>(18)</td><td>Trans-2-eptenale</td><td>18829-55-5</td></tr>
+<tr><td>(19)</td><td>Trans-2-esenale-dietilacetale</td><td>67746-30-9</td></tr>
+<tr><td>(20)</td><td>Trans-2-esenale-dimetilacetale</td><td>18318-83-7</td></tr>
+<tr><td>(21)</td><td>Alcol idroabietilico</td><td>13393-93-6</td></tr>
+<tr><td>(22)</td><td>4-etossifenolo</td><td>622-62-8</td></tr>
+<tr><td>(23)</td><td>6-isopropil-2-decaidronaftalenolo</td><td>34131-99-2</td></tr>
+<tr><td>(24)</td><td>7-metossicumarina</td><td>531-59-9</td></tr>
+<tr><td>(25)</td><td>4-metossifenolo</td><td>150-76-5</td></tr>
+<tr><td>(26)</td><td>4-(p-metossifenil)-3-butene-2-one</td><td>943-88-4</td></tr>
+<tr><td>(27)</td><td>1-(p-metossifenil)-1-penten-3-one</td><td>104-27-8</td></tr>
+<tr><td>(28)</td><td>metil-trans-2-butenoato</td><td>623-43-8</td></tr>
+<tr><td>(29)</td><td>6-metilcumarina</td><td>92-48-8</td></tr>
+<tr><td>(30)</td><td>7-metilcumarina</td><td>2445-83-2</td></tr>
+<tr><td>(31)</td><td>5-metil-2,3-esandione</td><td>13706-86-0</td></tr>
+<tr><td>(32)</td><td>Olio di radice di costo (Saussurea lappa Clarke)</td><td>8023-88-9</td></tr>
+<tr><td>(33)</td><td>7-etossi-4-metilcumarina</td><td>87-05-8</td></tr>
+<tr><td>(34)</td><td>Esaidrocumarina</td><td>700-82-3</td></tr>
+<tr><td>(35)</td><td>Balsamo del Perù grezzo (essudato di Myroxylon pereirae Royle Klotzsch)</td><td>8007-00-9</td></tr>
+<tr><td>(36)</td><td>2-pentilidencicloesanone</td><td>25677-40-1</td></tr>
+<tr><td>(37)</td><td>3,5,10-trimetil-3,5,9-undecatrien-2-one</td><td>1117-41-5</td></tr>
+<tr><td>(38)</td><td>Essenza di verbena (Lippia citriodora Kunth)</td><td>8024-12-2</td></tr>
+<tr><td>(39)</td><td>Muschio di ambretta (4-tert-butil-3-metossi-2,6-dinitrotoluene)</td><td>83-66-9</td></tr>
+<tr><td>(40)</td><td>4-fenil-3-buten-2-one</td><td>122-57-6</td></tr>
+<tr><td>(41)</td><td>amil cinnamal</td><td>122-40-7</td></tr>
+<tr><td>(42)</td><td>Alcol amilcinnamico</td><td>101-85-9</td></tr>
+<tr><td>(43)</td><td>Alcole benzilico</td><td>100-51-6</td></tr>
+<tr><td>(44)</td><td>Salicilato di benzile</td><td>118-58-1</td></tr>
+<tr><td>(45)</td><td>Alcol cinnamico</td><td>104-54-1</td></tr>
+<tr><td>(46)</td><td>Cinnamal</td><td>104-55-2</td></tr>
+<tr><td>(47)</td><td>Citrale</td><td>5392-40-5</td></tr>
+<tr><td>(48)</td><td>Cumarina</td><td>91-64-5</td></tr>
+<tr><td>(49)</td><td>Eugenolo</td><td>97-53-0</td></tr>
+<tr><td>(50)</td><td>Geraniolo</td><td>106-24-1</td></tr>
+<tr><td>(51)</td><td>Idrossicitronellale</td><td>107-75-5</td></tr>
+<tr><td>(52)</td><td>Idrossimetilpentilcicloesencarbossaldeide</td><td>31906-04-4</td></tr>
+<tr><td>(53)</td><td>Isoeugenolo</td><td>97-54-1</td></tr>
+<tr><td>(54)</td><td>Estratti di Evernia prunastri</td><td>90028-68-5</td></tr>
+<tr><td>(55)</td><td>Estratti di Evernia furfuracea</td><td>90028-67-4</td></tr>
+</table>
+
+- b. Le seguenti fragranze allergizzanti devono essere dichiarate sul giocattolo, su un’etichetta fissa o su un foglietto illustrativo se sono aggiunte in concentrazioni superiori a 100 mg/kg del giocattolo o della parte del giocattolo:
+
+<table>
+<tr><th>Numero</th><th>Fragranze allergizzanti</th><th>Numero CAS</th></tr>
+<tr><td>(1)</td><td>Alcol anisilico</td><td>105-13-5</td></tr>
+<tr><td>(2)</td><td>Benzoato di benzile</td><td>120-51-4</td></tr>
+<tr><td>(3)</td><td>Cinnamato di benzile</td><td>103-41-3</td></tr>
+<tr><td>(4)</td><td>Citronellolo</td><td>106-22-9</td></tr>
+<tr><td>(5)</td><td>Farnesolo</td><td>4602-84-0</td></tr>
+<tr><td>(6)</td><td>Esilcinnamaldeide</td><td>101-86-0</td></tr>
+<tr><td>(7)</td><td>Liliale</td><td>80-54-6</td></tr>
+<tr><td>(8)</td><td>d-limonene</td><td>5989-27-5</td></tr>
+<tr><td>(9)</td><td>Linaiolo</td><td>78-70-6</td></tr>
+<tr><td>(10)</td><td>Metileptin carbonato</td><td>111-12-6</td></tr>
+<tr><td>(11)</td><td>3-metil-4-(2,6,6-trimetil-2-cicloesen-1-il)-3-buten-2-one</td><td>127-51-5</td></tr>
+</table>
+
+- 10\. Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi
+  - a.
+
+    Le fragranze di cui al numero 9 lettera a numeri 41−55 e al numero 9 lettera b numeri 1−11 possono essere usate nei giochi olfattivi da tavolo, nei kit cosmetici e nei giochi gustativi, a condizione che:
+
+    - 1\. tali fragranze siano chiaramente indicate sull’imballaggio e l’imballaggio sia munito dell’avvertenza di cui all’allegato 3 parte B numero 10;
+    - 2\. i prodotti che il bambino può realizzare in base alle istruzioni per l’uso siano conformi ai requisiti dell’OCos[^annex2-lvlu1-lvl3-7]; e
+    - 3\. tali fragranze siano conformi alle disposizioni concernenti gli aromi nei prodotti alimentari.
+
+  - b. I giochi olfattivi da tavolo, i kit cosmetici e i giochi gustativi non devono essere usati da bambini di età inferiore ai 36 mesi. Questi giocattoli devono essere muniti dell’avvertenza di cui all’allegato 3 parte B numero 1.
+
+- 11\.
+
+  Valori limite per la prova di migrazione:
+
+  - a. Fatta salva l’applicazione dei numeri 3 e 4, non possono essere superati i seguenti valori limite nella prova di migrazione dei giocattoli e dei loro componenti:
+
+<table>
+<tr><td>Elemento o composto</td><td>mg/kg di materiale per giocattoli secco, fragile, in polvere o flessibile</td><td>mg/kg di materiale per giocattoli liquido o colloso</td><td>mg/kg di materiale rimovibile dal giocattolo mediante raschiatura</td></tr>
+<tr><td>Alluminio</td><td>5625</td><td>1406</td><td>70000</td></tr>
+<tr><td>Antimonio</td><td>45</td><td>11,3</td><td>560</td></tr>
+<tr><td>Arsenico</td><td>3,8</td><td>0,9</td><td>47</td></tr>
+<tr><td>Bario</td><td>1500</td><td>375</td><td>18750</td></tr>
+<tr><td>Boro</td><td>1200</td><td>300</td><td>15000</td></tr>
+<tr><td>Cadmio</td><td>1,3</td><td>0,3</td><td>17</td></tr>
+<tr><td>Cromo<sup>(3+)</sup></td><td>37,5</td><td>9,4</td><td>460</td></tr>
+<tr><td>Cromo<sup>(6+)</sup></td><td>0,02</td><td>0,005</td><td>0,053</td></tr>
+<tr><td>Cobalto</td><td>10,5</td><td>2,6</td><td>130</td></tr>
+<tr><td>Rame</td><td>622,5</td><td>156</td><td>7700</td></tr>
+<tr><td>Piombo</td><td>2,0</td><td>0,5</td><td>23</td></tr>
+<tr><td>Manganese</td><td>1200</td><td>300</td><td>15000</td></tr>
+<tr><td>Mercurio</td><td>7,5</td><td>1,9</td><td>94</td></tr>
+<tr><td>Nichel</td><td>75</td><td>18,8</td><td>930</td></tr>
+<tr><td>Selenio</td><td>37,5</td><td>9,4</td><td>460</td></tr>
+<tr><td>Stronzio</td><td>4500</td><td>1125</td><td>56000</td></tr>
+<tr><td>Stagno</td><td>15000</td><td>3750</td><td>180000</td></tr>
+<tr><td>Stagno organico</td><td>0,9</td><td>0,2</td><td>12</td></tr>
+<tr><td>Zinco</td><td>3750</td><td>938</td><td>46000</td></tr>
+</table>
+
+- b. Questi valori limite non si applicano ai giocattoli e ai loro componenti per i quali – in ragione della loro accessibilità, della loro funzione, del loro volume o della loro massa – è escluso chiaramente qualsiasi pericolo dovuto alle azioni di succhiare, leccare, ingerire o al contatto prolungato con la cute in caso di uso conformemente alla loro destinazione o prevedibile in considerazione del comportamento abituale dei bambini.
+
+- 12\. Fatta salva l’applicazione dei numeri 1–3, i giocattoli non devono contenere più dello 0,1 per cento in massa (valore limite addizionato) dei seguenti esteri dell’acido ftalico: ftalato di bis(2-etilesile) (DEHP[^annex2-lvlu1-lvl3-8]), ftalato di dibutile (DBP[^annex2-lvlu1-lvl3-9]), ftalato di diisobutil (DIBP[^annex2-lvlu1-lvl3-10]) e ftalato di butilbenzile (BBP[^annex2-lvlu1-lvl3-11]). I giocattoli che possono essere messi in bocca dai bambini non devono contenere più dello 0,1 per cento in massa (valore limite addizionato) dei seguenti esteri dell’acido ftalico: ftalato di diisononile (DINP[^annex2-lvlu1-lvl3-12]), ftalato di diisodecile (DIDP[^annex2-lvlu1-lvl3-13]) e ftalato di diottile (DNOP[^annex2-lvlu1-lvl3-14]).
+- 13\. I giocattoli e i loro componenti non devono contenere più di 5 mg/kg di benzolo biodisponibile.
+- 14\. I giocattoli, inclusi i giochi di attività, non possono essere immessi in commercio se uno dei loro componenti di gomma o di materia plastica che – in condizioni d’uso normali o ragionevolmente prevedibili – entra in contatto diretto e prolungato oppure ripetuto e a breve termine con la pelle umana o con la cavità orale contiene oltre 0,5 mg/kg di uno degli idrocarburi policiclici aromatici (IPA) elencati nell’allegato 2.9 numero 2 capoverso 1 lettera d dell’ordinanza del 18 maggio 2005[^annex2-lvlu1-lvl3-15] sulla riduzione dei rischi inerenti ai prodotti chimici.
+- 15\. Per le sostanze chimiche utilizzate nei giocattoli destinati a bambini di età inferiore ai 36 mesi o in altri giocattoli destinati a essere messi in bocca si applicano i seguenti specifici valori limite:
+
+<table>
+<tr><th>Sostanza</th><th>Numero CAS</th><th>Valore limite</th></tr>
+<tr><td>TCEP</td><td>115-96-8</td><td>5 mg/kg (valore limite per il contenuto)</td></tr>
+<tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (valore limite per il contenuto)</td></tr>
+<tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (valore limite per il contenuto)</td></tr>
+<tr><td>Bisfenolo A</td><td>80-05-7</td><td>0,04 mg/l (valore limite di migrazione) secondo le procedure conformi alle norme EN 71-10:2005 e EN 71-11:2005[^annex2-lvlu1-lvl3-16]</td></tr>
+<tr><td>Formammide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (valore limite di emissione) dopo un massimo di 28 giorni dall’inizio della prova di emissione dei materiali per giocattoli in schiuma contenenti oltre 200 mg/kg (valore soglia riferita al contenuto).</td></tr>
+<tr><td>1,2-benzisotiazol-3(2H)-one</td><td>2634-33-5</td><td>5 mg/kg (tenore limite) in materiali a base acquosa per giocattoli, conformemente ai metodi di cui alle norme EN 71-10:2005 e EN 71-11:2005</td></tr>
+<tr><td>Massa di reazione di: 5-cloro-2-metil-4-isotiazolin-3-one (n. CE 247-500-7) e 2‑metil-2H-isotiazol-3- one (n. CE 220-239-6) (3:1)</td><td>55965-84-9</td><td>1 mg/kg (tenore limite) in materiali a base acquosa</td></tr>
+<tr><td>5-cloro-2-metilisotiazolin-3(2H)‑one</td><td>26172-55-4</td><td>0,75 mg/kg (tenore limite) in materiali a base acquosa</td></tr>
+<tr><td>2-metilisotiazolin-3(2H)-one</td><td>2682-20-4</td><td>0,25 mg/kg (tenore limite) in materiali a base acquosa</td></tr>
+<tr><td>Fenolo</td><td>108-95-2</td><td>5 mg/l (limite di migrazione) nei materiali polimerici conformemente ai metodi indicati nelle norme EN 71-10:2005 ed EN 71-11:2005. 10 mg/kg (tenore limite) come conservante conformemente ai metodi indicati nelle norme EN 71-10:2005 ed EN 71-11:2005</td></tr>
+</table>
+
+[^annex2-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex2-lvlu1-lvl3-2]: Cfr. nota all’art. 13 cpv. 1 lett. a.
+[^annex2-lvlu1-lvl3-3]: [RS 817.023.41](https://fedlex.data.admin.ch/eli/cc/2005/811)
+[^annex2-lvlu1-lvl3-4]: Regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio, del 27 ott. 2004, riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le direttive 80/590/CEE e 89/109/CEE. Versione GU L 338 del 13.11.2004, pag. 4.
+[^annex2-lvlu1-lvl3-5]: RS **817.032.31**
+[^annex2-lvlu1-lvl3-6]: Chemical Abstract Service (CAS)
+[^annex2-lvlu1-lvl3-7]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex2-lvlu1-lvl3-8]: N. CAS 117-81-7; n. EINECS (European Inventory of Existing Commercial Chemical Substances) 204-211-0
+[^annex2-lvlu1-lvl3-9]: N. CAS 84-74-2; n. EINECS 201-557-4
+[^annex2-lvlu1-lvl3-10]: N. CAS 84-69-5; n. EINECS 201-553-2
+[^annex2-lvlu1-lvl3-11]: N. CAS 85-68-7; n. EINECS 201-622-7
+[^annex2-lvlu1-lvl3-12]: N. CAS 28553-12-0 e 68515-48-0; n. EINECS 249-079-5 e 271-090-9
+[^annex2-lvlu1-lvl3-13]: N. CAS 26761-40-0 e 68515-49-1; n. EINECS 247-977-1 e 271-091-4
+[^annex2-lvlu1-lvl3-14]: N. CAS 117-84-0; n. EINECS 204-214-7
+[^annex2-lvlu1-lvl3-15]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex2-lvlu1-lvl3-16]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 4. Proprietà elettriche
+
+- 1\. Tensione
+  - a. La tensione di alimentazione nominale dei giocattoli non deve essere superiore a 24 volt in corrente continua (c.c.) o corrente alternata equivalente (c.a.). Nessuna parte accessibile deve superare i 24 volt in c.c. o c.a. equivalente.
+  - b. La tensione interna nominale può superare i 24 volt di c.c. o c.a. equivalente solo se è garantito che la combinazione di tensione e intensità di corrente non possa costituire alcun rischio o provocare shock elettrici dannosi, anche nel caso in cui il giocattolo sia rotto.
+
+- 2\. Le parti dei giocattoli che sono collegate a una sorgente elettrica in grado di provocare uno shock elettrico o che possono venire a contatto con una sorgente elettrica, nonché i cavi o gli altri conduttori che trasmettono l’elettricità al giocattolo devono essere adeguatamente isolati e meccanicamente protetti per prevenire il rischio di shock elettrici.
+- 3\. I giocattoli elettrici devono essere progettati e costruiti in modo da garantire che le temperature massime raggiunte da tutte le superfici direttamente accessibili non siano tali da provocare ustioni.
+- 4\. Nei casi di guasto prevedibili, i giocattoli devono garantire protezione contro i pericoli elettrici derivanti dalle sorgenti elettriche.
+- 5\. I giocattoli elettrici devono garantire un’adeguata protezione contro i pericoli di incendio.
+- 6\. I giocattoli elettrici devono essere progettati e costruiti in modo tale che i campi elettrici, magnetici ed elettromagnetici e le altre radiazioni generate dall’apparecchio siano limitate a quanto necessario per il funzionamento del giocattolo. Durante il funzionamento del giocattolo deve essere rispettato un livello di sicurezza conforme allo stato dell’arte generalmente riconosciuto e alle misure applicabili.
+- 7\. I giocattoli dotati di un sistema di comando elettronico devono essere progettati e fabbricati in modo che il giocattolo funzioni in modo sicuro anche in caso di guasto o malfunzionamento del sistema elettronico, anche dovuto a fattori esterni.
+- 8\. I giocattoli devono essere progettati e costruiti in modo da non comportare pericoli per la salute o rischi di lesioni agli occhi o alla cute derivanti da laser, diodi emettitori di luce (LED) o da qualsiasi altro tipo di radiazione.
+- 9\. I trasformatori dei giocattoli elettrici non devono essere una parte integrante del giocattolo.
+
+### 5. Igiene
+
+- 1\. I giocattoli devono essere progettati e fabbricati in modo da soddisfare i requisiti di igiene e di pulizia, così da evitare rischi di infezione, malattia e contaminazione.
+- 2\. I giocattoli destinati a bambini di età inferiore ai 36 mesi devono essere progettati e fabbricati in modo da permetterne la pulizia. I giocattoli di stoffa devono essere lavabili, salvo che contengano meccanismi che subirebbero danni se lavati per immersione. I giocattoli devono soddisfare i requisiti di sicurezza anche dopo la pulizia conformemente alle istruzioni del fabbricante.
+
+### 6. Radioattività
+
+- 1\. I giocattoli non devono contenere nuclidi o sostanze radioattivi in forme o proporzioni che possono nuocere alla salute del bambino.
+- 2\. Per il resto sono applicabili le disposizioni dell’ordinanza del 22 giugno 1994[^annex2-lvlu1-lvl6-1] sulla radioprotezione.
+
+[^annex2-lvlu1-lvl6-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+Allegato 3*[^t-3]*
+
+(art. 5 cpv. 1, 2 e 6)
+
+## Avvertenze
+
+[^t-3]: Aggiornato dai n. I e II cpv. 1 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+### Osservazione preliminare:
+
+Tutte le avvertenze iniziano con il termine «Avvertenza» o «Avvertenze».
+
+### Parte A Avvertenze generali
+
+Se necessario per l’uso sicuro, le avvertenze devono contenere le opportune restrizioni relative agli utilizzatori, ad esempio:
+
+- – l’età minima o massima dell’utilizzatore;
+- – il peso minimo o massimo dell’utilizzatore;
+- – le abilità dell’utilizzatore;
+- – la precisazione che il giocattolo può essere utilizzato solo sotto la sorveglianza di un adulto.
+
+### Parte B Avvertenze particolari e istruzioni per l’uso per determinate categorie di giocattoli
+
+### 1. Giocattoli non destinati a bambini di età inferiore a 36 mesi
+
+- 1\.1 I giocattoli potenzialmente pericolosi per i bambini di età inferiore a 36 mesi devono recare un’avvertenza quale: «Avvertenza. Non adatto a bambini di età inferiore a 36 mesi.» oppure «Avvertenza. Non adatto a bambini di età inferiore a tre anni.» oppure il seguente pittogramma:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/it/xml/image/image1.png)
+
+- 1\.2 Questa avvertenza deve essere accompagnata da una breve indicazione dei pericoli specifici che impongono tale precauzione. Tale indicazione complementare può anche essere contenuta nelle istruzioni per l’uso.
+- 1\.3 Il presente numero non si applica ai giocattoli che, per funzioni, dimensioni, caratteristiche, proprietà o altri ragioni cogenti, sono manifestamente inadatti a bambini di età inferiore a 36 mesi.
+
+### 2. Giochi di attività
+
+- 2\.1 Un gioco di attività è un gioco destinato all’uso domestico, la cui struttura portante rimane fissa durante l’attività e che è destinato a permettere a un bambino di svolgere una delle seguenti attività: arrampicarsi, saltare, oscillare, scivolare, dondolare, girare, strisciare o gattonare o una combinazione di queste attività.
+- 2\.2 I giochi di attività devono recare la seguente avvertenza:
+- «Avvertenza. Solo per uso domestico.»
+- 2\.3 I giochi di attività fissati a un elemento trasversale e altri giochi di attività devono essere se del caso muniti di istruzioni che richiamino l’attenzione sulla necessità di effettuare un controllo e una manutenzione periodici delle parti fondamentali (mezzi di sospensione, attacchi, ancoraggi, ecc.) e che precisino che l’omissione di detti controlli può comportare rischi di caduta o rischi di ribaltamento del giocattolo. Al giocattolo devono inoltre essere allegate istruzioni per il corretto montaggio. Tali istruzioni devono contenere indicazioni sulle parti che possono presentare pericoli qualora non correttamente montate nonché informazioni circa la superficie idonea per l’installazione del giocattolo.
+
+### 3. Giocattoli funzionali
+
+- 3\.1 Un giocattolo funzionale è un giocattolo che svolge la stessa funzione e viene impiegato nello stesso modo di un prodotto, un apparecchio o un impianto destinato a essere utilizzato da adulti, e che può essere un modello in scala di tale prodotto, apparecchio o impianto.
+- 3\.2 I giocattoli funzionali devono recare la seguente avvertenza:
+- «Avvertenza. Da usare sotto la diretta sorveglianza di un adulto.»
+- 3\.3 Le istruzioni per l’uso dei giocattoli funzionali devono contenere una descrizione delle misure precauzionali da adottare durante l’uso. Esse devono segnalare i pericoli a cui si espone l’utilizzatore in caso di mancato rispetto di tali misure. Questi pericoli devono essere descritti nel dettaglio. In genere si tratta di pericoli propri dell’apparecchio o del prodotto di cui il giocattolo costituisce un modello in scala o un’imitazione. Va altresì indicato che il giocattolo deve essere tenuto fuori dalla portata dei bambini al di sotto di una certa età. Tale età è stabilita dal fabbricante.
+
+### 4. Giocattoli chimici
+
+- 4\.1 Un giocattolo chimico è un giocattolo destinato alla manipolazione diretta di sostanze e preparati chimici e destinato a essere utilizzato da bambini di uno specifico gruppo di età sotto la sorveglianza di un adulto.
+- 4\.2 L’imballaggio dei giocattoli chimici deve recare la seguente avvertenza:
+- «Avvertenza. Non adatto a bambini di età inferiore a … anni[^annex3-lvlu1-partB-lvl4-1]. Da usare sotto la sorveglianza di un adulto.»
+- 4\.3 Le istruzioni per l’uso dei giocattoli contenenti sostanze o preparati pericolosi devono attirare l’attenzione sulla natura pericolosa di tali sostanze o preparati. Esse devono contenere una descrizione delle misure precauzionali che l’utilizzatore deve adottare durante l’uso. Esse devono segnalare i pericoli a cui si espone l’utilizzatore in caso di mancato rispetto di tali misure. Questi pericoli devono essere descritti brevemente. Devono essere indicate le misure di pronto soccorso necessarie in caso di incidenti gravi che possono verificarsi durante l’uso di questo tipo di giocattoli. Va altresì indicato che il giocattolo deve essere tenuto fuori dalla portata dei bambini al di sotto di una certa età. Tale età è stabilita dal fabbricante.
+- 4\.4 Sono fatte salve le disposizioni dell’OPChim[^annex3-lvlu1-partB-lvl4-2] concernenti la classificazione, l’imballaggio e la caratterizzazione delle sostanze e dei preparati.
+- 4\.5 Sono considerati giocattoli chimici in particolare i set di inclusione, i laboratori in miniatura di ceramica, di smaltatura o fotografia e i giocattoli analoghi che durante l’uso danno luogo a reazioni chimiche o ad analoghe trasformazioni della sostanza.
+
+[^annex3-lvlu1-partB-lvl4-1]: L’età è stabilita dal fabbricante.
+[^annex3-lvlu1-partB-lvl4-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+### 5. Pattini, pattini a rotelle, pattini in linea, skateboard, monopattini e biciclette giocattolo destinati ai bambini
+
+- 5\.1 Se sono venduti come giocattoli, i pattini, i pattini a rotelle, i pattini in linea, gli skateboard, i monopattini e le biciclette giocattolo destinate a bambini devono recare la seguente avvertenza:
+- «Avvertenza. Si raccomanda di indossare un dispositivo di protezione. Non usare nel traffico.»
+- 5\.2 Le istruzioni per l’uso devono inoltre ricordare che il giocattolo va usato con prudenza in quanto è richiesta particolare abilità per evitare cadute e collisioni con conseguenti lesioni dell’utilizzatore o di terzi. Vanno fornite indicazioni sui dispositivi di protezione raccomandati (caschi, guanti, ginocchiere, gomitiere, ecc.).
+
+### 6. Giocattoli acquatici
+
+- 6\.1 Un giocattolo acquatico è un giocattolo destinato a essere usato in acque poco profonde e che è in grado di reggere o sostenere il bambino sull’acqua.
+- 6\.2 I giocattoli acquatici devono recare la seguente avvertenza:
+- «Avvertenza. Da utilizzare unicamente in acqua dove il bambino tocca il fondo con i piedi e sotto la sorveglianza di un adulto.»
+
+### 7. Giocattoli contenuti nei prodotti alimentari
+
+- L’imballaggio dei giocattoli contenuti nei prodotti alimentari o offerti assieme ad essi deve recare la seguente avvertenza:
+- «Avvertenza. Contiene giocattolo. Si raccomanda la sorveglianza di un adulto.»
+
+### 8. Imitazioni di maschere e caschi di protezione
+
+- Le imitazioni di maschere e caschi di protezione devono recare la seguente avvertenza:
+- «Avvertenza. Questo giocattolo non fornisce protezione.»
+
+### 9. Giocattoli destinati a essere appesi a una culla, a un lettino o a una carrozzina per mezzo di corde, nastri, elastici o lacci
+
+- 9\.1 I giocattoli destinati a essere appesi a una culla, a un lettino o a una carrozzina per mezzo di corde, nastri, elastici o lacci devono recare la seguente avvertenza:
+- «Avvertenza. Per evitare eventuali lesioni da impigliamento, rimuovere questo giocattolo quando il bambino comincia a tentare di alzarsi sulle mani e sulle ginocchia in posizione di gattonamento.»
+- 9\.2 L’avvertenza deve figurare sia sull’imballaggio sia in modo permanente sul giocattolo.
+
+### 10. Imballaggio delle fragranze nei giochi olfattivi da tavolo, nei kit cosmetici e nei giochi gustativi
+
+- 10\.1 Un gioco olfattivo da tavola è un giocattolo il cui scopo è quello di aiutare il bambino a imparare a riconoscere diversi odori o profumi.
+- 10\.2 Un kit cosmetico è un giocattolo il cui scopo è quello di aiutare il bambino a imparare a creare prodotti come profumi, saponi, creme, shampoo, bagnoschiuma, lucidalabbra, rossetti, altri trucchi, dentifrici e prodotti per la cura dei capelli.
+- 10\.3 Un gioco gustativo è un gioco il cui scopo è quello di permettere al bambino di preparare dolci o piatti che comportano l’uso di ingredienti alimentari, come edulcoranti, liquidi, polveri e aromi.
+- 10\.4 L’imballaggio per le fragranze nei giochi olfattivi da tavolo, nei kit cosmetici e nei giochi gustativi che contengono le fragranze di cui all’allegato 2 numero 3.9 lettera a numeri 41−55 e lettera b deve recare la seguente avvertenza:
+- «Avvertenza. Contiene fragranze potenzialmente allergizzanti.»
+
+Allegato 4*[^t-4]*
+
+(art. 8)
+
+## Norme tecniche per la sicurezza dei giocattoli****
+
+[^annex4-lvlu1-1]
+
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^annex4-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+
+<table>
+<tr><td>Numero</td><td>Titolo</td></tr>
+<tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sicurezza dei giocattoli – Parte 1: Proprietà meccaniche e fisiche</td></tr>
+<tr><td>SN EN 71-2:2011 con corrigendum A1:2014</td><td>Sicurezza dei giocattoli – Parte 2: Infiammabilità</td></tr>
+<tr><td>SN EN 71-3:2013 con corrigendum A3:2018</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
+<tr><td>SN EN 71-4:2013</td><td>Sicurezza dei giocattoli – Parte 4: Set sperimentali per chimica e attività connesse</td></tr>
+<tr><td>SN EN 71-5:2016</td><td>Sicurezza dei giocattoli – Parte 5: Giochi chimici (set), esclusi i set sperimentali per chimica</td></tr>
+<tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sicurezza dei giocattoli – Parte 7: Pitture a dito – Requisiti e metodi di prova</td></tr>
+<tr><td>SN EN 71-8:2018</td><td>Sicurezza dei giocattoli – Parte 8: Altalene, scivoli e giocattoli di attività simili ad uso domestico per interno ed esterno</td></tr>
+<tr><td>SN EN 71-12:2013</td><td>Sicurezza dei giocattoli – Parte 12: Nitrosammine e sostanze nitrosabili</td></tr>
+<tr><td>SN EN 71-13:2014</td><td>Sicurezza dei giocattoli – Parte 13: Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi</td></tr>
+<tr><td>SN EN 71-14:2018</td><td>Sicurezza dei giocattoli – Parte 14: Trampolini per uso domestico</td></tr>
+<tr><td>SN EN 62115:2005 con emendamento A2:2011 e corrigendum AC:2011 con emendamento A11:2012 e corrigendum AC:2013 con emendamento A12:2015</td><td>Giocattoli elettrici – sicurezza</td></tr>
+</table>
+
+Allegato 5
+
+(art. 10 cpv. 2)
+
+## Documentazione tecnica
+
+La documentazione tecnica deve comprendere in particolare quanto segue:
+
+- 1\. una descrizione dettagliata della progettazione e della fabbricazione, compreso un elenco dei componenti e dei materiali utilizzati nel giocattolo, nonché le schede di sicurezza relative alle sostanze chimiche utilizzate (da richiedere al fornitore);
+- 2\. la o le valutazioni di sicurezza effettuate a norma dell’articolo 9;
+- 3\. una descrizione della procedura di valutazione della conformità seguita;
+- 4\. una copia della dichiarazione di conformità;
+- 5\. l’indirizzo dei luoghi di fabbricazione e di immagazzinamento;
+- 6\. copie dei documenti che il fabbricante ha presentato all’organismo di valutazione della conformità, se coinvolto;
+- 7\. relazioni delle prove e una descrizione dei mezzi mediante i quali il fabbricante ha garantito la conformità della produzione alle norme tecniche nel caso in cui il fabbricante si sia avvalso della procedura di controllo interno della produzione di cui all’articolo 11 capoverso 1 lettera a; e
+- 8\. una copia del certificato di esame del tipo, una descrizione dei mezzi mediante i quali il fabbricante ha garantito la conformità della produzione al tipo descritto nel certificato di esame del tipo, nonché una copia dei documenti presentati dal fabbricante all’organismo di valutazione della conformità, nel caso in cui il fabbricante abbia sottoposto il giocattolo alla procedura di esame del tipo e abbia seguito la procedura di dichiarazione di conformità del tipo di cui all’articolo 11 capoverso 1 lettera b.
+
+Allegato 6
+
+(art. 14 cpv. 3)
+
+## Dichiarazione di conformità
+
+La dichiarazione di conformità deve contenere almeno gli elementi indicati nei moduli applicabili di cui all’allegato II della decisione n. 768/2008/CE[^annex6-lvlu1-1] nonché i seguenti elementi:
+
+- 1\. n. … (numero d’identificazione del giocattolo);
+- 2\. nome ed indirizzo del fabbricante o del suo rappresentante autorizzato;
+- 3\. la dichiarazione: «La presente dichiarazione di conformità è rilasciata sotto l’esclusiva responsabilità del fabbricante»;
+- 4\. oggetto della dichiarazione (designazione del giocattolo ai fini della rintracciabilità) con una fotografia a colori su cui il giocattolo sia identificabile in modo sufficientemente chiaro;
+- 5\. la dichiarazione che l’oggetto descritto nel numero 4 è conforme alle disposizioni applicabili;
+- 6\. indicazione delle norme tecniche applicabili utilizzate o della documentazione tecnica con cui è dichiarata la conformità (specifiche in relazione alle quali viene dichiarata la conformità);
+- 7\. se del caso, la dichiarazione: «L’organismo di valutazione della conformità (denominazione, numero)… ha… (descrizione dell’intervento) e rilasciato il seguente certificato: …»;
+- 8\. informazioni supplementari:
+- Firmato per conto e a nome di:
+- (luogo e data di emissione)
+- (nome e cognome, funzione) (firma)
+
+[^annex6-lvlu1-1]: Cfr. nota all’art. 11 cpv. 1 lett. a.

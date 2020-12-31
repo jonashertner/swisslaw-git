@@ -1,0 +1,2595 @@
+---
+sr: "813.12"
+title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgang mit Biozidprodukten (Biozidprodukteverordnung, VBP)"
+short: VBP
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
+language: de
+version: 2020-12-15
+adopted: 2005-05-18
+in_force: 2005-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20201215/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20201215-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20201215/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über das Inverkehrbringen von und den Umgang mit Biozidprodukten
+
+(Biozidprodukteverordnung, VBP)
+
+vom 18. Mai 2005 (Stand am 15. Dezember 2020) (Stand am 15. Dezember 2020)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf das Chemikaliengesetz vom 15. Dezember 2000[^ingress-1] (ChemG), auf die Artikel 29, 29*d* Absatz 4 und 30*b* Absatz 1 und 2 Buchstabe a des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG) und auf Artikel 17 des Gentechnikgesetzes vom 21. März 2003[^ingress-3] (GTG) sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-4] über die technischen Handelshemmnisse,
+
+verordnet:
+
+[^ingress-1]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^ingress-4]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**[^1-1]
+
+Diese Verordnung regelt:
+
+- a.
+
+  das Inverkehrbringen von Biozidprodukten und von behandelten Waren (Art. 2 Abs. 2 Bst. j); dazu regelt sie für Biozidprodukte und für Wirkstoffe zur Verwendung in Biozidprodukten namentlich:
+
+  - 1\. die Zulassungsarten, einschliesslich der Anerkennung von Zulassungen eines Mitgliedstaates der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) und von Unionszulassungen und einschliesslich des Parallelhandels mit Biozidprodukten,
+  - 2\. die Zulassungsverfahren,
+  - 3\. den Schutz und die Verwendung von Daten von Eigentümerinnen aus früheren Gesuchen zugunsten von späteren Gesuchstellerinnen,
+  - 4\. die Einstufung, Verpackung, Kennzeichnung und das Sicherheitsdatenblatt;
+
+- b. besondere Aspekte des Umgangs mit Biozidprodukten und behandelten Waren.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 1a
+
+**Geltungsbereich**[^1a-1]
+
+<sup>1</sup> Diese Verordnung gilt für Biozidprodukte und für behandelte Waren. Biozidproduktefamilien sind Biozidprodukten gleichgestellt, soweit keine abweichende Regelung besteht.
+
+<sup>2</sup> Für Biozidprodukte und behandelte Waren, die pathogene Mikroorganismen sind oder enthalten, sind die Bestimmungen dieser Verordnung über das Inverkehrbringen auch auf die Einfuhr zu nicht beruflichen oder nicht gewerblichen Zwecken anwendbar.
+
+<sup>3</sup>
+
+Diese Verordnung gilt nicht für:
+
+- a. Biozidprodukte und behandelte Waren, die ausschliesslich nach der Heilmittel-, Lebensmittel-, Futtermittel- oder Pflanzenschutzmittelgesetzgebung zu den dafür vorgesehenen Zwecken in Verkehr gebracht werden;
+- b. die Durchfuhr von Biozidprodukten und behandelten Waren unter Zollüberwachung, sofern keine Be- oder Verarbeitung erfolgt;
+- c. den Transport von Biozidprodukten und behandelten Waren auf der Strasse, der Schiene, dem Wasser, in der Luft und in Rohrleitungsanlagen;
+- d. Lebensmittel und Futtermittel, die als Repellentien oder Lockmittel verwendet werden;
+- e. Biozidprodukte, die als Verarbeitungshilfsstoffe im Sinne von Artikel 3 Absatz 2 Buchstabe i der Futtermittel-Verordnung vom 26. Oktober 2011[^1a-2] (FMV) und von Artikel 2 Absatz 1 Ziffer 23 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1a-3] (LGV)[^1a-4] verwendet werden;
+- f. [^1a-5] ...
+
+<sup>4</sup> Für eingeführte Biozidprodukte und behandelte Waren, die ausschliesslich umettikettiert und ansonsten unverändert ausgeführt werden, gelten die Artikel 42 und 45.[^1a-6]
+
+<sup>5</sup> Für Biozidprodukte und behandelte Waren, die ausgeführt werden, gilt zusätzlich die PIC-Verordnung vom 10. November 2004[^1a-7], soweit es sich dabei um gefährliche Stoffe oder Zubereitungen handelt.[^1a-8]
+
+[^1a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^1a-2]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^1a-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1a-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2017 angepasst.
+[^1a-5]: Aufgehoben durch Ziff. III 2 der V vom 22. März 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1a-6]: Eingefügt durch Ziff. III 2 der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1a-7]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^1a-8]: Eingefügt durch Ziff. III 2 der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+
+#### Art. 1b
+
+**Anpassung dieser Verordnung und Vorrang völkerrechtlicher Verträge**[^1b-1]
+
+<sup>1</sup> Das Eidgenössische Departement des Innern (EDI) passt, wo es dazu in dieser Verordnung ermächtigt ist, im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) Bestimmungen dieser Verordnung über die Zulassung und das Inverkehrbringen von Biozidprodukten an den Stand von Wissenschaft und Technik an.
+
+<sup>2</sup> Wo in dieser Verordnung Verfahrensaspekte für die Zulassung oder das Inverkehrbringen von Biozidprodukten nicht festgelegt sind, regelt das EDI, wenn es dazu ermächtigt ist, im Einvernehmen mit dem UVEK und dem WBF die Einzelheiten.
+
+<sup>3</sup> Für Anpassungen nach den Absätzen 1 und 2 berücksichtigt das EDI die von der Europäischen Kommission gestützt auf die Verordnung (EU) Nr. 528/2012[^1b-2] erlassenen delegierten Rechtsakte oder Durchführungsrechtsakte.
+
+<sup>4</sup> Anpassungen technischer Einzelheiten von untergeordneter Bedeutung in dieser Verordnung nimmt das Bundesamt für Gesundheit (BAG), wenn es dazu ermächtigt ist, im Einvernehmen mit dem Bundesamt für Umwelt (BAFU) und dem Staatssekretariat für Wirtschaft (SECO) vor.
+
+<sup>5</sup> Soweit diese Verordnung Sachverhalte regelt, die Gegenstand eines völkerrechtlichen Vertrags sind, richten sich die Zuständigkeiten nicht nach dieser Verordnung, sondern nach dem Vertrag, soweit dieser die Zuständigkeiten regelt.
+
+<sup>6</sup> Die Anmeldestelle veröffentlicht die sich aus dem völkerrechtlichen Vertrag ergebenden Zuständigkeiten auf ihrer Website[^1b-3].[^1b-4]
+
+[^1b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^1b-2]: Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 334/2014, ABl. L 103 vom 5.4.2014, S. 22.
+[^1b-3]: www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung (VBP) &gt; MRA Schweiz-EU
+[^1b-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 2
+
+**Begriffe und anwendbares Recht[^2-2]**[^2-1]
+
+<sup>1</sup>
+
+Im Sinne einer näheren Ausführung gegenüber dem ChemG bedeuten in dieser Verordnung:
+
+- a.
+
+  *Biozidprodukte:*
+
+  - 1\. Stoffe, Zubereitungen oder Gegenstände in der Form, in der sie zur Verwenderin gelangen, und die aus einem oder mehreren Wirkstoffen bestehen, diese enthalten oder erzeugen, die dazu bestimmt sind, auf andere Art als durch blosse physikalische oder mechanische Einwirkung Schadorganismen zu zerstören, abzuschrecken, unschädlich zu machen, Schädigungen durch sie zu verhindern oder sie in anderer Weise zu bekämpfen,
+  - 2\. Stoffe oder Zubereitungen, die aus Stoffen oder Zubereitungen erzeugt werden, die selbst keine Biozidprodukte im Sinne von Ziffer 1 sind, und die zu dem Zweck bestimmt sind, zu dem Biozidprodukte nach Ziffer 1 bestimmt sind;
+
+- b. *Produktart:* eine Kategorie von Biozidprodukten nach Anhang 10;
+- c. *Herstellerin:* jede natürliche oder juristische Person, die Stoffe oder Zubereitungen beruflich oder gewerblich herstellt oder gewinnt.
+
+<sup>2</sup>
+
+Darüber hinaus bedeuten in dieser Verordnung:
+
+- a.
+
+  *bedenklicher Stoff:* ein Stoff, der kein Wirkstoff ist, der aber aufgrund seiner Beschaffenheit unmittelbar oder mit zeitlicher Verzögerung auftretende nachteilige Wirkungen auf Menschen, insbesondere auf gefährdete Gruppen, auf Tiere oder auf die Umwelt haben kann und in einem Biozidprodukt in hinreichender Konzentration enthalten ist oder entsteht, sodass das Biozidprodukt das Risiko einer solchen Wirkung birgt; dabei handelt es sich, unter Vorbehalt anderer Gründe für Bedenken, namentlich um folgende Stoffe:[^2-3]
+
+  - 1\. einen Stoff, der nach Artikel 2 Absatz 2 in Verbindung mit Anhang VI Ziffern 2–5 der Richtlinie 67/548/EWG[^2-4] als gefährlich eingestuft wurde oder die Kriterien für eine solche Einstufung erfüllt und der in dem Biozidprodukt in einer Konzentration vorhanden ist, aufgrund derer das Produkt im Sinne von Artikel 1 Absatz 2 in Verbindung mit den Artikeln 5, 6 und 7 der Richtlinie 1999/45/EG[^2-5] als gefährlich anzusehen ist,
+  - 2\. einen Stoff, der nach Artikel 2 Absatz 2 in Verbindung mit Anhang I Teilen 2–5 der Verordnung (EG) Nr. 1272/2008 (EU-CLP-Verordnung)[^2-6] als gefährlich eingestuft wurde oder der die Kriterien für eine solche Einstufung erfüllt und der in dem Biozidprodukt in einer Konzentration vorhanden ist, aufgrund derer das Produkt als gefährlich im Sinne der genannten Verordnung anzusehen ist,
+  - 3\. einen Stoff, der die folgenden Kriterien erfüllt: persistenter organischer Stoff (POP) nach der Verordnung (EG) Nr. 850/2004[^2-7] oder «persistent», «bioakkumulierbar» und «toxisch» (PBT) oder «sehr persistent» und «sehr bioakkumulierbar» (vPvB) nach Anhang XIII der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^2-8];
+
+- b.
+
+  *Biozidproduktefamilie*: eine Gruppe von Biozidprodukten, die folgende Eigenschaften gemeinsam haben:
+
+  - 1\. ähnliche Verwendungszwecke,
+  - 2\. gleiche Wirkstoffe,
+  - 3\. ähnliche Zusammensetzung mit spezifizierten Abweichungen,
+  - 4\. ähnliches Risikopotenzial,
+  - 5\. ähnliche Wirksamkeit;
+
+- c. *Schadorganismus:* ein Organismus, einschliesslich Krankheitserreger, der für den Menschen oder seine Tätigkeiten, für Produkte, die er verwendet oder herstellt, oder für Tiere oder die Umwelt unerwünscht oder schädlich ist;
+- d. *Mikroorganismen:* mikrobiologische Einheiten, insbesondere Bakterien, Algen, Pilze, Protozoen, Viren und Viroide; ihnen gleichgestellt sind Zellkulturen, Prionen und biologisch aktives genetisches Material;
+- e. *Zugangsbescheinigung:* ein Dokument, das von der zur Nutzung von geschützten Daten berechtigten Person unterzeichnet ist und in dem festgestellt wird, dass diese Daten von der Anmeldestelle und gegebenenfalls von der zuständigen Behörde eines Vertragsstaates zum Zweck der Gewährung einer Zulassung eines Biozidprodukts verwendet werden dürfen;
+- f. *alter Wirkstoff:* ein Stoff, der am 14. Mai 2000 als Wirkstoff eines Biozidprodukts für andere Zwecke als die wissenschaftliche oder die produkt- und verfahrensorientierte Forschung und Entwicklung in Verkehr war;
+- g. *neuer Wirkstoff:* ein Wirkstoff eines Biozidprodukts, der kein alter Wirkstoff ist;
+- h. *zu ersetzender Wirkstoff:* ein Wirkstoff, der die Voraussetzungen gemäss Artikel 10 Absatz 1 der Verordnung (EU) Nr. 528/2012[^2-9] erfüllt;
+- i. *Rückstand:* ein Stoff, der in oder auf Erzeugnissen pflanzlichen oder tierischen Ursprungs, in Wasserressourcen, im Trinkwasser, in oder auf Lebens- und Futtermitteln oder anderweitig in der Umwelt vorhanden ist und dessen Vorhandensein von der Verwendung von Biozidprodukten herrührt, einschliesslich der Metaboliten und der Abbau- oder Reaktionsprodukte eines solchen Stoffs;
+- j.[^2-10] *behandelte Waren:* Stoffe, Zubereitungen oder Gegenstände ohne primäre Biozidfunktion, die mit einem oder mehreren Biozidprodukten behandelt wurden oder denen ein oder mehrere Biozidprodukte absichtlich zugesetzt wurden;
+- k. *nationale Zulassung:* Zulassung der zuständigen Behörde eines Mitgliedstaats der EU oder der EFTA für das Inverkehrbringen eines Biozidprodukts in dessen Hoheitsgebiet;
+- l. *Unionszulassung:* Zulassung der Europäischen Kommission für das Inverkehrbringen eines Biozidprodukts im Gebiet der EU;
+- m.
+
+  *Nanomaterial:* ein natürlicher oder hergestellter Wirkstoff oder nicht wirksamer Stoff, der Partikel in ungebundenem Zustand, als Aggregat oder als Agglomerat enthält und bei dem mindestens 50 Prozent der Partikel in der Anzahlgrössenverteilung ein oder mehrere Aussenmasse im Bereich von 1 Nanometer bis 100 Nanometer haben; Fullerene, Graphenflocken und einwandige Kohlenstoff-Nanoröhren mit einem oder mehreren Aussenmassen unter 1 Nanometer gelten als Nanomaterialien; für die Definition von Nanomaterialien gelten überdies folgende Begriffsbestimmungen:
+
+  - 1\. *Partikel:* ein sehr kleines Teilchen einer Substanz mit definierten physikalischen Grenzen,
+  - 2\. *Agglomerat:* eine Ansammlung schwach gebundener Partikel oder Aggregate, in der die resultierende Oberfläche ähnlich der Summe der Oberflächen der einzelnen Bestandteile ist,
+  - 3\. *Aggregat:* ein Partikel aus fest gebundenen oder verschmolzenen Partikeln;
+
+- n. *technische Äquivalenz:* die Ähnlichkeit in Bezug auf die chemische Zusammensetzung und das Gefahrenprofil zwischen einem Stoff, der entweder aus einer anderen Quelle als der Referenzquelle oder, nach einer Veränderung des Produktionsverfahrens oder des Produktionsortes, aus der Referenzquelle stammt, und dem Stoff aus der Referenzquelle, für den die ursprüngliche Risikobewertung durchgeführt wurde;
+- o. *gefährdete Gruppen:* Personen, die bei der Bewertung akuter und chronischer Gesundheitsauswirkungen von Biozidprodukten besonders zu berücksichtigen sind; dazu zählen schwangere und stillende Frauen, Kinder im Mutterleib, Säuglinge, Kinder, ältere Menschen sowie Arbeitnehmerinnen und Arbeitnehmer und weitere Personen, die über einen längeren Zeitraum einer hohen Exposition gegenüber Biozidprodukten ausgesetzt sind.
+
+<sup>3</sup>
+
+Folgende Begriffe sind im Sinne von Artikel 2 der Chemikalienverordnung vom 18. Mai 2005[^2-11] (ChemV) zu verstehen:
+
+- a. Stoff;
+- b. Gegenstand;
+- c. produkt- und verfahrensorientierte Forschung und Entwicklung;
+- d. wissenschaftliche Forschung und Entwicklung.
+
+<sup>4</sup> Es gelten die Entsprechungen von Ausdrücken zwischen der Verordnung (EU) Nr. 528/2012 und der vorliegenden Verordnung gemäss Anhang 3 Ziffer 1.[^2-12]
+
+<sup>4bis</sup> Wird in dieser Verordnung auf Bestimmungen der Verordnung (EU) Nr. 528/ 2012 verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 3 Ziffer 2.[^2-13]
+
+<sup>5</sup> Im Übrigen werden in dieser Verordnung Begriffe, die in den Gesetzen, die die Grundlage dieser Verordnung bilden, unterschiedlich verwendet werden, im Sinne des ChemG verwendet.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^2-4]: Richtlinie 67/548/EWG des Rates vom 27. Juni 1967 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe, ABl. L 196 vom 16.8.1967, S. 1; zuletzt geändert durch Richtlinie 2013/21/EU, ABl. L 158 vom 10.6.2013, S. 240.
+[^2-5]: Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen, ABl. L 200 vom 30.7.1999, S. 1; zuletzt geändert durch Richtlinie 2013/21/EU, ABl. L 158 vom 10.6.2013, S. 240.
+[^2-6]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 944/2013, ABl. L 261 vom 3.10.2013, S. 5.
+[^2-7]: Verordnung (EG) Nr. 850/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über persistente organische Schadstoffe und zur Änderung der Richtlinie 79/117/EWG, zuletzt geändert durch Verordnung (EU) Nr. 519/2012, ABl. L 159 vom 20.6.2012, S. 1.
+[^2-8]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 474/2014, ABl. L 136 vom 9.5.2014, S. 19.
+[^2-9]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^2-10]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-12]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^2-13]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+## 2. Kapitel: Voraussetzungen für das Inverkehrbringen****
+
+[^chap2-1]
+
+[^chap2-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 3
+
+**Zulassung oder Mitteilung und Kennzeichnung**[^3-1]
+
+<sup>1</sup> Biozidprodukte dürfen nur in Verkehr gebracht oder beruflich oder gewerblich verwendet werden, wenn sie von der Anmeldestelle zugelassen und nach dieser Verordnung gekennzeichnet sind.
+
+<sup>2</sup> Für Biozidprodukte, die zu beruflichen oder gewerblichen Zwecken eingeführt werden, ist die Voraussetzung nach Absatz 1 vor der ersten Abgabe bzw. vor der ersten Verwendung zu erfüllen.
+
+<sup>3</sup>
+
+Die folgenden Biozidprodukte dürfen ohne Zulassung in Verkehr gebracht oder beruflich oder gewerblich verwendet werden, sofern sie der Anmeldestelle nach Artikel 13*c*, 13*d* oder 13*f* mitgeteilt wurden und die Anmeldestelle innert der Fristen nach Artikel 19 Absatz 2 keine Stellungnahme abgegeben hat:
+
+- a. Biozidprodukte, die in einem EU- oder EFTA-Mitgliedstaat nach dem vereinfachten Verfahren nach Artikel 26 der Verordnung (EU) Nr. 528/2012[^3-2] zugelassen sind;
+- b. Biozidprodukte, die einer zugelassenen Biozidproduktefamilie angehören;
+- c. Biozidprodukte, die zu Forschungs- und Entwicklungszwecken freigesetzt werden.
+
+<sup>4</sup> Für den Umgang mit Biozidprodukten nach Absatz 3 Buchstabe c, die Mikroorganismen sind oder enthalten, bleiben die Vorschriften der Einschliessungsverordnung vom 9. Mai 2012[^3-3] (ESV) und der Freisetzungsverordnung vom 10. September 2008[^3-4] (FrSV) vorbehalten.
+
+<sup>5</sup> Für das Inverkehrbringen von Biozidprodukten, deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, bleiben die Bestimmungen der Nagoya-Verordnung vom 11. Dezember 2015[^3-5] vorbehalten.[^3-6]
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^3-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^3-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^3-4]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^3-5]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^3-6]: Eingefügt durch Anhang Ziff. 3 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+
+#### Art. 4
+
+**Nicht zulassungsfähige Biozidprodukte**[^4-1]
+
+<sup>1</sup>
+
+Biozidprodukte folgender Produktarten nach Anhang 10 werden nicht zugelassen:
+
+- a. Produktart 15 (Avizide);
+- b. Produktart 17 (Fischbekämpfungsmittel);
+- c. Produktart 20 (Produkte gegen sonstige Wirbeltiere).
+
+<sup>2</sup> Biozidprodukte nach Absatz 1 können zu Forschungs- und Entwicklungszwecken nach den Artikeln 13*e* und 13*f* verwendet werden.
+
+<sup>3</sup> Sie können zur Bewältigung von Ausnahmesituationen nach Artikel 30 zugelassen werden.
+
+<sup>4</sup> Für die Verwendung oder die Zulassung nach den Absätzen 2 und 3 bleiben die Einschränkungen der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^4-2] (ChemRRV) sowie die Bestimmungen der ESV[^4-3] und der FrSV[^4-4] vorbehalten.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^4-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^4-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^4-4]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 5
+
+**Umfang der Zulassung und gesuchstellende Person**[^5-1]
+
+<sup>1</sup>
+
+Die Zulassung gilt:
+
+- a.[^5-2]
+
+  für ein einziges Biozidprodukt:
+
+  - 1\. in einer bestimmten Zusammensetzung,
+  - 2\. mit einem bestimmten Handelsnamen oder mehreren Handelsnamen,
+  - 3\. für einen bestimmten Verwendungszweck oder mehrere Verwendungszwecke,
+  - 4\. einer bestimmten Herstellerin oder mehrerer Herstellerinnen;
+
+- b. für eine Biozidproduktefamilie.
+
+<sup>2</sup> Die Zulassung wird einer einzigen Person gewährt.[^5-3]
+
+<sup>3</sup> Eine Zulassung kann nur beantragen und innehaben, wer Wohn- oder Geschäftssitz oder eine Zweigniederlassung in der Schweiz hat. Vorbehalten bleiben Bestimmungen in einem völkerrechtlichen Vertrag.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 7
+
+**Zulassungsarten**[^7-1]
+
+<sup>1</sup>
+
+Für Biozidprodukte gibt es folgende Zulassungsarten:
+
+- a.[^7-2]
+
+  die *Zulassung Z**<sub>L</sub>* aufgrund einer umfassenden Beurteilung des Biozidprodukts: für Biozidprodukte, die:
+
+  - 1\. mindestens einen Wirkstoff enthalten, der in der Liste nach Anhang 2 aufgeführt ist, und im Übrigen ausschliesslich Wirkstoffe enthalten, die in der Liste nach Anhang 1 aufgeführt sind, oder
+  - 2\. ausschliesslich Wirkstoffe enthalten, die in Anhang 1 aufgeführt, aber für das vereinfachte Zulassungsverfahren nach Artikel 25 Buchstaben c und d der Verordnung (EU) Nr. 528/2012[^7-3] nicht geeignet sind;
+
+- b.[^7-4] die *Zulassung Z**<sub>nL</sub>* aufgrund einer umfassenden Beurteilung des Biozidprodukts und seiner Wirkstoffe: für Biozidprodukte, die mindestens einen Wirkstoff enthalten, der weder in der Liste nach Anhang 1 noch in der Liste nach Anhang 2 noch in der Liste der notifizierten Wirkstoffe zur Verwendung in Biozidprodukten nach Anhang II der Verordnung (EU) Nr. 1062/2014[^7-5] (Liste der notifizierten Wirkstoffe) aufgeführt ist;
+- c.
+
+  die *Zulassung Z**<sub>N</sub>*: für Biozidprodukte:
+
+  - 1\. die mindestens einen Wirkstoff enthalten, der in der Liste der notifizierten Wirkstoffe aufgeführt ist und über dessen Aufnahme in die Liste nach Anhang 1 oder 2 noch nicht entschieden ist, und
+  - 2\. deren andere Wirkstoffe in einer dieser Listen aufgeführt sind;
+
+- d.
+
+  die *Zulassung Z**<sub>B</sub>* (Bestätigung) aufgrund eines summarischen Verfahrens: für Biozidprodukte:
+
+  - 1\. die mindestens einen Wirkstoff enthalten, der in der Liste der notifizierten Wirkstoffe aufgeführt ist und über dessen Aufnahme in die Liste nach Anhang 1 oder 2 noch nicht entschieden ist,
+  - 2\. deren andere Wirkstoffe in einer dieser Listen aufgeführt sind,
+  - 3\. für die bis am 31. Juli 2006 bei der Anmeldestelle ein Gesuch um Zulassung Z<sub>B</sub> gestellt worden ist, und
+  - 4\. die beim Inkrafttreten der Änderung vom 20. Juni 2014 dieser Verordnung noch in Verkehr sind;
+
+- e.[^7-6] *Ausnahmeregelungen*: für Biozidprodukte zur Bewältigung von Ausnahmesituationen;
+- f. die *vereinfachte Zulassung*: für Biozidprodukte, die nach Artikel 25 der Verordnung (EU) Nr. 528/2012[^7-7] für das vereinfachte Verfahren geeignet sind;
+- g.
+
+  die *Anerkennung*: für Biozidprodukte:
+
+  - 1\.[^7-8] die nach Artikel 33 der Verordnung (EU) Nr. 528/2012 in einem EU- oder EFTA-Mitgliedstaat zugelassen sind, oder
+  - 2\. für die ein Antrag nach Artikel 34 der Verordnung (EU) Nr. 528/2012 eingereicht wurde;
+
+- h. die *Anerkennung einer Unionszulassung*: für Biozidprodukte, für die von der Europäischen Kommission eine Unionszulassung erteilt wurde;
+- i.
+
+  die *Zulassung gleicher Biozidprodukte*: für Biozidprodukte, die:
+
+  - 1\. identisch sind wie bereits zugelassene Biozidprodukte, und
+  - 2\. von der Inhaberin der Zulassung oder von Dritten zu denselben Bedingungen wie die bereits zugelassenen Biozidprodukte in Verkehr gebracht werden;
+
+- j.[^7-9]
+
+  die *Zulassung für den Parallelhandel*: für Biozidprodukte:
+
+  - 1\. die in einem EU- oder EFTA-Mitgliedstaat zugelassen und mit einem Biozidprodukt identisch sind, das in der Schweiz im Sinne der Zulassung Z<sub>L</sub> oder der Anerkennung zugelassen ist, oder
+  - 2\. die in einem EU- oder EFTA-Mitgliedstaat nach den nationalen Bestimmungen in Verkehr gebracht und mit einem Biozidprodukt identisch sind, das in der Schweiz im Sinne der Zulassung Z<sub>N</sub> oder Z<sub>B</sub> zugelassen ist.
+
+<sup>2</sup> Soweit sich aus einer Bestimmung dieser Verordnung nichts anderes ergibt, ist als Zulassung in dieser Verordnung die Gesamtheit der in Absatz 1 aufgeführten Zulassungsarten zu verstehen.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^7-3]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^7-4]: Fassung gemäss Ziff. I der V des BAG vom 23. Mai 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1927](https://fedlex.data.admin.ch/eli/oc/2019/354)).
+[^7-5]: Delegierte Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, ABl. L 294 vom 10.10.2014, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2019/227, ABl. 37 vom 8.2.2019, S. 1.
+[^7-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^7-7]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^7-8]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^7-9]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 8
+
+**Geltungsdauer**[^8-1]
+
+<sup>1</sup> Die Zulassungen nach Artikel 7 sowie das Inverkehrbringen von nicht zulassungspflichtigen Biozidprodukten (Art. 3 Abs. 3) sind befristet. Es gelten folgende Höchstdauern:[^8-2]
+
+<table>
+<tr><td>a. für die Zulassung Z<sub>L</sub>:</td><td>1. 10 Jahre unter Vorbehalt der Ziffern 2–4, [tab] 2.[^8-3] 5 Jahre für Biozidprodukte mit einem zu ersetzenden Wirkstoff, wenn eine vergleichende Bewertung nach Artikel 23 der Verordnung (EU) Nr. 528/2012[^8-4] durchgeführt wurde, 3. 5 Jahre für Biozidprodukte mit Wirkstoffen, die nach Artikel 5 Absatz 2 der Verordnung (EU) Nr. 528/2012 zugelassen sind, 4. 4 Jahre für Biozidprodukte mit einem zu ersetzenden Wirkstoff, wenn keine vergleichende Bewertung nach Artikel 23 der Verordnung (EU) Nr. 528/2012 durchgeführt wurde;</td></tr>
+<tr><td>b. für die Zulassung Z<sub>nL</sub>:</td><td>1. 4 Jahre, oder 2. bis zu folgendem Zeitpunkt, wenn dieser früher ist: – bis 3 Jahre nach Aufnahme des letzten Wirkstoffs des Biozidprodukts in die Liste nach Anhang 1 oder 2 oder – bis die Anmeldestelle, gestützt auf den Entscheid der Europäischen Kommission, den Wirkstoff nicht zu genehmigen oder nicht in Anhang I der Verordnung (EU) Nr. 528/2012 aufzunehmen, die Zulassung widerruft;</td></tr>
+<tr><td>c. für die Zulassungen Z<sub>N</sub> und Z<sub>B</sub>:</td><td>1. 6 Monate nach Aufnahme des letzten Wirkstoffs des Biozidprodukts in die Liste nach Anhang 1 oder 2, 2. 3 Jahre nach Aufnahme des letzten Wirkstoffs des Biozidprodukts in die Liste nach Anhang 1 oder 2, sofern die Inhaberin der Zulassung die Anforderungen nach Artikel 22 Absatz 2 erfüllt, oder 3. bis die Anmeldestelle, gestützt auf den Entscheid der Europäischen Kommission, den Wirkstoff nicht zu genehmigen oder nicht in Anhang I der Verordnung (EU) Nr. 528/2012 aufzunehmen, die Zulassung widerruft;</td></tr>
+<tr><td>d.[^8-5] für Ausnahmeregelungen:[^8-6]</td><td>1. 180 Tage für Ausnahmeregelungen nach Artikel 30 Absatz 1 zuzüglich, wenn eine beantragte Verlängerung gewährt wird, höchstens 550 Tage, 2. 3 Jahre für Ausnahmeregelungen nach Artikel 30*a* Absatz 1, 3. so lange, wie dies für Ausnahmeregelungen nach Artikel 30*b* nötig ist;</td></tr>
+<tr><td>e.[^8-7] für die Anerkennung:</td><td>so lange, wie die Zulassung des Referenzprodukts gilt;</td></tr>
+<tr><td>f. für die Anerkennung einer Unionszulassung:</td><td>so lange, wie die Unionszulassung gilt;</td></tr>
+<tr><td>g. für die Zulassung für den Parallelhandel:</td><td>1. so lange, wie die Zulassung des Referenzprodukts gilt, oder 2. falls die Zulassung des Referenzprodukts auf Antrag der Inhaberin der Zulassung widerrufen wird und die Anforderungen nach Artikel 11 noch erfüllt sind: bis zu dem Tag, an dem die Zulassung für das Referenzprodukt normalerweise abgelaufen wäre;</td></tr>
+<tr><td>h. für das Inverkehrbringen eines Biozidprodukts, das in einem EU- oder EFTA-Mitgliedstaat in einem vereinfachten Verfahren zugelassen ist:</td><td>so lange, wie die Zulassung im EU- oder EFTA-Mitgliedstaat gilt;</td></tr>
+<tr><td>i. für das Inverkehrbringen eines Produkts einer Biozidproduktefamilie:</td><td>so lange, wie die Zulassung der Biozidproduktefamilie gilt;</td></tr>
+<tr><td>j. für die Freisetzung zu Forschungs- und Entwicklungszwecken:</td><td>für die gemeldete Versuchsdauer;</td></tr>
+<tr><td>k.[^8-8] für die vereinfachte Zulassung:</td><td>10 Jahre;</td></tr>
+<tr><td>l.[^8-9] für die Zulassung gleicher Biozidprodukte:</td><td>1. – 10 Jahre für Zulassungen, die auf einer ordentlichen Zulassung Z<sub>L</sub> basieren, – 5 Jahre für Zulassungen, die auf einer Zulassung Z<sub>L</sub> mit einem zu ersetzenden Wirkstoff basieren, oder – 4 Jahre für Zulassungen, die auf einer Zulassung ZL mit einem Wirkstoff basieren, der nach Artikel 5 Absatz 2 der Verordnung (EU) 528/2012 zugelassen ist,</td></tr>
+<tr><td>[tab]</td><td>2. 10 Jahre für Biozidprodukte, deren Zulassung auf einer Anerkennung oder auf einer Anerkennung einer Unionszulassung basiert,</td></tr>
+<tr><td>[tab]</td><td>3. so lange, wie die Zulassungsdauer für das Referenzprodukt gilt, für Biozidprodukte, deren Zulassung auf einer Zulassung Z<sub>N</sub> oder Z<sub>B</sub> basiert.</td></tr>
+</table>
+
+<sup>2–4</sup> ...[^8-10]
+
+<sup>5</sup> Ist die Geltungsdauer der Zulassung abgelaufen, so gilt für das weitere Inverkehrbringen, die Abgabe an Endverbraucherinnen und die berufliche und gewerbliche Verwendung des Biozidprodukts Artikel 26*a*.[^8-11]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^8-4]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^8-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^8-6]: Berichtigung vom 24. Sept. 2019 ([AS 2019 3037](https://fedlex.data.admin.ch/eli/oc/2019/553)).
+[^8-7]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^8-8]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^8-9]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^8-10]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^8-11]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+### 2. Abschnitt: Wirkstoffe
+
+#### Art. 9
+
+**Wirkstofflisten**[^9-1]
+
+<sup>1</sup>
+
+Im Hinblick auf die Zulassung gelten folgende Wirkstofflisten:
+
+- a. Liste der unter Artikel 25 Buchstabe a der Verordnung (EU) Nr. 528/2012[^9-2] fallenden Wirkstoffe (Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe) nach Anhang 1;
+- b. Liste der nach Artikel 9 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 genehmigten Wirkstoffe (Unionsliste genehmigter Wirkstoffe) nach Anhang 2;
+- c. Liste der notifizierten Wirkstoffe zur Verwendung in Biozidprodukten nach der Verordnung (EU) Nr. 1062/2014[^9-3] (Liste der notifizierten Wirkstoffe).
+
+<sup>2</sup> Es gelten die Entsprechungen von Ausdrücken zwischen den EU-Rechtsakten, auf die in der Unionsliste genehmigter Wirkstoffe verwiesen wird, und der vorliegenden Verordnung gemäss Anhang 3 Ziffer 3.
+
+<sup>2bis</sup> Wird in dieser Verordnung auf Bestimmungen von Durchführungsrechtsakten der EU zu den Wirkstoffgenehmigungen verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 3 Ziffer 4.
+
+<sup>3</sup> Wirkstoffe der Unionsliste genehmigter Wirkstoffe, die nach Artikel 10 der Verordnung (EU) Nr. 528/2012 als zu ersetzende Stoffe eingestuft sind, sind in Anhang 2 entsprechend bezeichnet.
+
+<sup>4</sup> Für Wirkstoffe, die Nanomaterialien enthalten, gilt Artikel 4 Absatz 4 der Verordnung (EU) Nr. 528/2012 sinngemäss.
+
+<sup>5</sup> Das EDI erlässt im Einvernehmen mit dem UVEK und dem WBF eine Liste der Wirkstoffe, die im Rahmen einer Zulassung Z<sub>nL</sub> eingesetzt werden dürfen, mit deren Verwendungszwecken.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^9-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^9-3]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. b.
+
+#### Art. 10
+
+**Anpassung der Wirkstofflisten**[^10-1]
+
+Das BAG passt im Einvernehmen mit dem BAFU und dem SECO an:[^10-2]
+
+- a. die Anhänge 1–3;
+- b. den Verweis in Artikel 7 Absatz 1 Buchstabe b auf die Liste der notifizierten Wirkstoffe.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+### 2*a*. Abschnitt: Voraussetzungen für die Zulassungen Z<sub>L</sub> und Z<sub>nL</sub> und besondere Bestimmungen für Biozidproduktefamilien****
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 11
+
+**Allgemeine Voraussetzungen**[^11-1]
+
+<sup>1</sup>
+
+Ein Biozidprodukt wird, unter Vorbehalt von Artikel 11*g*, im Sinne der Zulassung Z<sub>L</sub> oder Z<sub>nL</sub> zugelassen, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a.
+
+  Es ist nach den gemeinsamen Grundsätzen von Anhang VI der Verordnung (EU) Nr. 528/2012[^11-2] nachgewiesen, dass:
+
+  - 1\. das Biozidprodukt hinreichend wirksam ist;
+  - 2\. es keine unannehmbaren Wirkungen auf Zielorganismen hat, indem es beispielsweise eine unannehmbare Resistenz oder Kreuzresistenz bewirkt oder Wirbeltiere unnötigen Leiden oder Schmerzen aussetzt;
+  - 3\. von ihm und seinen Rückständen keine sofortigen oder verzögerten unannehmbaren Wirkungen auf die Gesundheit von Menschen, insbesondere gefährdete Gruppen, oder von Tieren ausgehen, und zwar weder direkt noch indirekt über das Trinkwasser, über Lebens- oder Futtermittel oder über die Luft oder über andere indirekte Effekte; und
+  - 4\.
+
+    von ihm und seinen Rückständen keine unannehmbaren Wirkungen auf die Umwelt ausgehen, und zwar unter besonderer Berücksichtigung folgender Aspekte:
+
+    - – Verbleib und Verteilung des Biozidprodukts in der Umwelt,
+    - – Kontamination von Oberflächengewässern, einschliesslich Ästuar- und Meeresgewässer, Grundwasser und Trinkwasser, Luft und Boden unter Berücksichtigung von Orten in grosser Entfernung vom Verwendungsort durch weiträumige Verbreitung in der Umwelt,
+    - – Auswirkungen des Biozidprodukts auf Nichtzielorganismen,
+    - – Auswirkungen des Biozidprodukts auf die Biodiversität und das Ökosystem.
+
+- b.[^11-3] Die chemische Identität, die Menge und die technische Äquivalenz der im Biozidprodukt enthaltenen Wirkstoffe sowie gegebenenfalls jegliche toxikologisch oder ökotoxikologisch signifikanten und relevanten Verunreinigungen und Stoffe, die keine Wirkstoffe sind, sowie die toxikologisch oder ökologisch signifikanten Rückstände, die sich aus den zuzulassenden Verwendungen ergeben, können durch Analysemethoden nach den Anhängen II und III der Verordnung (EU) Nr. 528/2012 bestimmt werden.
+- c. Die physikalisch-chemischen Eigenschaften gestatten Verwendung, Transport und Lagerung des Biozidprodukts zu annehmbaren Bedingungen.
+- d. Das Risiko für Mensch und Umwelt der im Biozidprodukt eingesetzten Nanomaterialien wurde gesondert bewertet.
+- e.
+
+  Bestehende oder gegebenenfalls neu festzusetzende Höchstkonzentrationen, Höchstwerte für Rückstände oder spezifische Migrationsgrenzwerte in oder auf Lebens- oder Futtermitteln nach den folgenden Bestimmungen werden eingehalten:
+
+  - 1\. Artikel 49 Absätze 3 und 4 Buchstabe c sowie 10 Absatz 4 Buchstabe e LGV[^11-4];
+  - 2\. Artikel 36 Absatz 1 FMV[^11-5].
+
+<sup>2</sup> Biozidprodukte mit Wirkstoffen der Listen nach Anhang 1 oder 2 müssen überdies die Anforderungen erfüllen, die für sie in diesen Listen formuliert sind.
+
+<sup>3</sup> Enthalten Biozidprodukte Wirkstoffe, die weder in der Liste nach Anhang 1 oder 2 noch in der Liste der notifizierten Wirkstoffe aufgeführt sind, müssen die Wirkstoffe die Anforderungen nach den Artikeln 4 und 5 der Verordnung (EU) Nr. 528/2012 erfüllen.
+
+<sup>4</sup> Biozidprodukte, die für die unmittelbare Anwendung auf dem menschlichen Körper bestimmt sind, dürfen nur nicht wirksame Stoffe enthalten, die das EDI für die betreffende Kategorie nach Artikel 54 LGV[^11-6] als zulässig bezeichnet. Vorbehalten bleiben technisch unvermeidbare Kleinmengen, wenn sie die Gesundheit nicht gefährden.
+
+<sup>5</sup> Biozidprodukte, die aus gentechnisch veränderten Mikroorganismen bestehen oder solche enthalten, müssen die Anforderungen der FrSV[^11-7] erfüllen.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^11-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^11-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^11-4]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2017 angepasst.
+[^11-5]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^11-6]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2017 angepasst.
+[^11-7]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 11a
+
+**Begehren um Festlegung von Höchstwerten**[^11a-1]
+
+<sup>1</sup> Im Rahmen eines Gesuchs um Zulassung kann die Gesuchstellerin bei der Anmeldestelle darum ersuchen, dass für die Wirkstoffe, für die in den Erlassen nach Artikel 11 Absatz 1 Buchstabe e keine Höchstwerte, keine Höchstkonzentrationen oder keine spezifischen Migrationsgrenzwerte festgelegt sind, solche festgelegt werden.
+
+<sup>2</sup>
+
+Die Anmeldestelle leitet das Begehren nach Absatz 1 weiter:
+
+- a. für Artikel 11 Absatz 1 Buchstabe e Ziffer 1: an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV);
+- b. für Artikel 11 Absatz 1 Buchstabe e Ziffer 2: an das Bundesamt für Landwirtschaft (BLW).
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 11b
+
+**Bewertungsfaktoren**[^11b-1]
+
+Bei der Prüfung, ob ein Biozidprodukt die Voraussetzungen nach Artikel 11 Absatz 1 Buchstabe a erfüllt, werden die folgenden Faktoren berücksichtigt:
+
+- a. realistische Worst-Case-Bedingungen, unter denen das Biozidprodukt verwendet werden könnte;
+- b. die mögliche Verwendung behandelter Waren, die mit dem Biozidprodukt behandelt wurden oder es enthalten;
+- c. die Auswirkungen der Verwendung und der Beseitigung des Biozidprodukts;
+- d. Kumulationseffekte;
+- e. Synergieeffekte.
+
+[^11b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 11c
+
+**Beschränkung der Zulassung auf bestimmte Verwendungszwecke**[^11c-1]
+
+Die Anmeldestelle lässt ein Biozidprodukt nur für jene Verwendungszwecke zu, für welche die nach Anhang 5 erforderlichen Angaben vorliegen.
+
+[^11c-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 11d
+
+**Biozidprodukte zur Verwendung durch die breite Öffentlichkeit**[^11d-1]
+
+Ein Biozidprodukt wird für das Inverkehrbringen zur Verwendung durch die breite Öffentlichkeit nicht zugelassen, wenn es:
+
+- a.
+
+  Eigenschaften gemäss den Kriterien nach der EU-CLP-Verordnung[^11d-2] aufweist und eine der folgenden Einstufungen aufweist:
+
+  - 1\. akute orale Toxizität der Kategorie 1, 2 oder 3,
+  - 2\. akute dermale Toxizität der Kategorie 1, 2 oder 3,
+  - 3\. akute inhalative Toxizität (Gas und Staub/Nebel) der Kategorie 1, 2 oder 3,
+  - 4\. akute inhalative Toxizität (Dampf) der Kategorie 1 oder 2,
+  - 5\. spezifische Zielorgan-Toxizität der Kategorie 1 bei einmaliger oder wiederholter Exposition,
+  - 6\. karzinogen der Kategorie 1A oder 1B,
+  - 7\. mutagen der Kategorie 1A oder 1B,
+  - 8\. reproduktionstoxisch der Kategorie 1A oder 1B;
+
+- b. aus einem Stoff besteht, einen Stoff enthält oder einen Stoff erzeugt, der Eigenschaften gemäss den Kriterien «PBT» oder «vPvB» nach Anhang XIII der EU-REACH-Verordnung[^11d-3] aufweist;
+- c. endokrinschädigende Eigenschaften gemäss den Kriterien nach der delegierten Verordnung (EU) 2017/2100[^11d-4] festgelegten Kriterienaufweist; oder
+- d. entwicklungsneurotoxische oder -immunotoxische Auswirkungen hat.
+
+[^11d-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^11d-2]: Siehe Fussnote zu Art. 2 Abs. 2 Bst. a Ziff. 2.
+[^11d-3]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2015/830, ABl. L 132 vom 29.5.2015, S. 8.
+[^11d-4]: Delegierte Verordnung (EU) 2017/2100 der Kommission vom 4. September 2017 zur Festlegung wissenschaftlicher Kriterien für die Bestimmung endokrinschädigender Eigenschaften gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, Fassung gmäss ABl. L 301 vom 17.11.2017, S. 1.
+
+#### Art. 11e
+
+**Ausnahmen von den Anforderungen**[^11e-1]
+
+<sup>1</sup> Ein Biozidprodukt, das die in Artikel 11 Absatz 1 Buchstabe a Ziffern 3 und 4 festgelegten Voraussetzungen nicht vollständig erfüllt oder die Eigenschaften nach Artikel 11*d* Buchstabe c aufweist, kann ausnahmsweise zugelassen werden, wenn die Nichtzulassung des Biozidprodukts, verglichen mit dem Risiko für die Gesundheit von Mensch oder Tier oder für die Umwelt, das sich aus der Verwendung des Biozidprodukts unter den in der Zulassung festlegten Voraussetzungen ergibt, unverhältnismässige negative Folgen für die Gesellschaft hätte.
+
+<sup>2</sup> Wird ein nach Absatz 1 zugelassenes Biozidprodukt verwendet, so sind geeignete Risikominderungsmassnahmen zu treffen, um sicherzustellen, dass die Exposition von Menschen und der Umwelt durch dieses Biozidprodukt auf ein Mindestmass beschränkt wird.
+
+[^11e-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 11f
+
+**Besondere Bestimmungen für Biozidproduktefamilien**[^11f-1]
+
+<sup>1</sup> Eine Biozidproduktefamilie muss nach den gemeinsamen Grundsätzen von Anhang VI der Verordnung (EU) Nr. 528/2012[^11f-2] bewertet werden. Dabei sind die Maximalrisiken für die Gesundheit von Mensch und Tier sowie für die Umwelt und das Mindestwirksamkeitsniveau über den gesamten möglichen Produktbereich innerhalb der Biozidproduktefamilie zu berücksichtigen.
+
+<sup>2</sup>
+
+Eine Biozidproduktefamilie wird nur zugelassen, wenn:
+
+- a.
+
+  aus dem Gesuch Folgendes explizit hervorgeht:
+
+  - 1\. die Maximalrisiken für die Gesundheit von Mensch und Tier und für die Umwelt sowie das Mindestwirksamkeitsniveau, auf welchen die Bewertung der Gesuchstellerin basiert, und
+  - 2\. die erlaubten Abweichungen in der Zusammensetzung und Verwendung nach Artikel 2 Absatz 2 Buchstabe b, zusammen mit der jeweiligen Einstufung, den Gefahren- und Sicherheitshinweisen sowie gegebenenfalls entsprechende Risikobegrenzungsmassnahmen; und
+
+- b. sich aus der Bewertung nach Absatz 1 ergibt, dass alle Biozidprodukte innerhalb der Familie die Voraussetzungen nach Artikel 11 erfüllen.
+
+[^11f-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^11f-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+#### Art. 11g
+
+**Vergleichende Bewertung von Biozidprodukten mit einem zu ersetzenden Wirkstoff**[^11g-1]
+
+<sup>1</sup> Bei der Prüfung eines Zulassungsgesuchs für ein Biozidprodukt, das einen zu ersetzenden Wirkstoff enthält, nehmen die Beurteilungsstellen im Rahmen der Bewertung nach Artikel 17 eine vergleichende Bewertung nach Artikel 23 der Verordnung (EU) Nr. 528/2012[^11g-2] vor.
+
+<sup>2</sup>
+
+Die Anmeldestelle untersagt oder beschränkt im Einvernehmen mit den Beurteilungsstellen das Inverkehrbringen oder die berufliche oder gewerbliche Verwendung eines Biozidprodukts, das einen zu ersetzenden Wirkstoff enthält, wenn die vergleichende Bewertung ergibt, dass:
+
+- a. es für die im Gesuch genannten Verwendungszwecke bereits ein zugelassenes Biozidprodukt oder eine nichtchemische Bekämpfungs- oder Präventionsmethode gibt, das oder die für die Gesundheit von Mensch und Tier und für die Umwelt ein deutlich geringeres Gesamtrisiko darstellt, hinreichend wirksam ist und mit keinen anderen wesentlichen wirtschaftlichen oder praktischen Nachteilen verbunden ist; und
+- b. die chemische Vielfalt der Wirkstoffe ausreichend ist, um das Entstehen einer Resistenz beim Schadorganismus zu minimieren.
+
+<sup>3</sup> Abweichend von den Absätzen 1 und 2 kann ein Biozidprodukt in Ausnahmefällen ohne vergleichende Bewertung zugelassen werden, wenn es notwendig ist, zunächst durch die praktische Verwendung dieses Mittels Erfahrungen zu sammeln.
+
+[^11g-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^11g-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+### 2*b*. Abschnitt:**** Voraussetzungen für die vereinfachte Zulassung
+
+[^chap2-sec2b-1]
+
+[^chap2-sec2b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 11h
+
+Ein Biozidprodukt wird nach einem vereinfachten Verfahren zugelassen, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Alle Wirkstoffe in dem Biozidprodukt sind in Anhang 1 aufgeführt und genügen den Beschränkungen gemäss diesem Anhang.
+- b. Das Biozidprodukt enthält keinen bedenklichen Stoff.
+- c. Das Biozidprodukt enthält keine Nanomaterialien.
+- d. Das Biozidprodukt ist hinreichend wirksam.
+- e. Die Handhabung des Biozidprodukts und sein beabsichtigter Verwendungszweck erfordern keine persönliche Schutzausrüstung.
+
+### 3. Abschnitt:**** Voraussetzungen für die Anerkennung, die Zulassung Z<sub>N</sub> und die Zulassung für den Parallelhandel
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 12
+
+**Anerkennung**
+
+<sup>1</sup> Eine Zulassung eines EU- oder EFTA-Mitgliedstaates wird anerkannt, wenn keine Anhaltspunkte dafür vorliegen, dass das Produkt nicht auch in der Schweiz zugelassen werden könnte.
+
+<sup>2</sup>
+
+Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen die mit der Zulassung in einem EU- oder EFTA-Mitgliedstaat auferlegten Bedingungen oder Auflagen aufgrund der Bewertung nach Artikel 17 oder einer vergleichenden Bewertung nach Artikel 11*g* abändern, wenn dies wie folgt begründet werden kann:
+
+- a. mit dem Schutz der Umwelt;
+- b. mit dem Schutz der Gesundheit und des Lebens von Menschen, insbesondere von gefährdeten Gruppen, oder von Tieren oder Pflanzen;
+- c. mit dem Schutz der öffentlichen Ordnung und Sicherheit;
+- d. mit dem Schutz des nationalen Kulturguts von künstlerischem, geschichtlichem oder archäologischem Wert; oder
+- e. mit dem Umstand, dass die Zielorganismen nicht in schädlichen Mengen vorkommen.
+
+<sup>3</sup> Kennzeichnung und Sicherheitsdatenblatt müssen an die Vorschriften nach den Artikeln 38 und 40 angepasst werden.
+
+<sup>4</sup> Zulassungen von Biozidprodukten, die gentechnisch veränderte Mikroorganismen sind oder enthalten, werden nicht anerkannt.
+
+<sup>5</sup> Für die Anerkennung einer Unionszulassung gilt Artikel 14*a*.
+
+#### Art. 13
+
+**Zulassung Z<sub>N</sub>**
+
+<sup>1</sup>
+
+Ein Biozidprodukt wird im Sinne der Zulassung Z<sub>N</sub> zugelassen, wenn die Gesuchstellerin nachweist, dass nach dem neuesten Stand von Wissenschaft und Technik und bei bestimmungsgemässer Verwendung:[^13-1]
+
+- a. von ihm und seinen Rückständen keine unannehmbaren Wirkungen auf Mensch, Tier und Umwelt zu erwarten sind; und
+- b. sofern es sich um ein Holzschutzmittel oder ein Desinfektionsmittel handelt: es hinreichend wirksam ist.
+
+<sup>2</sup> Für das Inverkehrbringen zur Verwendung durch die breite Öffentlichkeit wird es nur zugelassen, wenn es keine der Eigenschaften nach Artikel 11*d* aufweist.[^13-2]
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^13-2]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 13a
+
+**Zulassung für den Parallelhandel**
+
+<sup>1</sup> Für ein Biozidprodukt, das in einem EU- oder EFTA-Mitgliedstaat (Ursprungsstaat) zugelassen ist, erteilt die Anmeldestelle im Einvernehmen mit den Beurteilungsstellen auf entsprechendes Gesuch eine Zulassung für den Parallelhandel, wenn sie feststellt, dass das Biozidprodukt mit einem von ihr bereits zugelassenen Biozidprodukt (Referenzprodukt) identisch ist.
+
+<sup>1bis</sup> Für ein Biozidprodukt, das im Ursprungsstaat mit einem notifizierten Wirkstoff nach den dortigen nationalen Bestimmungen in Verkehr gebracht ist, erteilt die Anmeldestelle auf entsprechendes Gesuch eine Zulassung für den Parallelhandel, wenn die Gesuchstellerin nachweisen kann, dass das Biozidprodukt mit einem Referenzprodukt identisch ist.[^13a-1]
+
+<sup>2</sup>
+
+Ein Biozidprodukt gilt als identisch mit dem Referenzprodukt, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Es wird von demselben Unternehmen, von einem angeschlossenen Unternehmen oder unter Lizenz nach demselben Herstellungsverfahren hergestellt.
+- b. Spezifikation und Gehalt an Wirkstoffen sowie der Formulierungstyp sind identisch.
+- c. Es ist hinsichtlich der vorhandenen nicht wirksamen Stoffe identisch.
+- d. Es ist mit seiner Grösse, dem Material und der Form der Verpackung hinsichtlich potenzieller negativer Auswirkungen auf die Gesundheit von Mensch oder Tier oder auf die Umwelt identisch oder gleichwertig.
+
+<sup>3</sup> Die Zulassung für den Parallelhandel enthält dieselben Bedingungen für das Inverkehrbringen und die Verwendungen wie die Zulassung des Referenzprodukts.[^13a-2]
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^13a-2]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+### 3*a*. Abschnitt:**** Sicherstellungspflichten für Biozidprodukte mit Mikroorganismen
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 13b
+
+Wer Biozidprodukte, die pathogene Mikroorganismen sind oder enthalten, in Verkehr bringen will, muss die Sicherstellungspflichten nach Artikel 14 FrSV[^13b-1] erfüllen.
+
+[^13b-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+### 3*b*. Abschnitt:**** Mitteilungspflichten für vereinfacht zugelassene Biozidprodukte aus der EU oder EFTA und für Biozidproduktefamilien
+
+[^chap2-sec3b-1]
+
+[^chap2-sec3b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 13c
+
+**Vereinfacht zugelassene Biozidprodukte aus der EU oder EFTA**
+
+Wer Biozidprodukte beruflich oder gewerblich importiert, die in einem EU- oder EFTA-Mitgliedstaat nach dem vereinfachten Verfahren nach Artikel 26 der Verordnung (EG) Nr. 528/2012[^13c-1] zugelassen sind, muss der Anmeldestelle mindestens 30 Tage vor dem ersten Inverkehrbringen den Handelsnamen und die Zulassungsnummer mitteilen.
+
+[^13c-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+#### Art. 13d
+
+**Biozidprodukte einer Biozidproduktefamilie**
+
+<sup>1</sup> Die Inhaberin einer Zulassung einer Biozidproduktefamilie muss der Anmeldestelle jedes Produkt der Biozidproduktefamilie mindestens 30 Tage vor dem ersten Inverkehrbringen mitteilen.
+
+<sup>2</sup> Die Mitteilung muss Angaben über die genaue Zusammensetzung, den Handelsnamen, die Zulassungsnummer für die Biozidproduktefamilie und gegebenenfalls einen eindeutigen Rezepturidentifikator (UFI) nach Artikel 14*a* enthalten.[^13d-1]
+
+<sup>3</sup>
+
+Eine Mitteilung ist nicht erforderlich, wenn:
+
+- a. ein bestimmtes Produkt in der Zulassung der Biozidproduktefamilie ausdrücklich genannt ist; oder
+- b. die Abweichung in der Zusammensetzung nur Pigment-, Duft- oder Farbstoffe innerhalb der gemäss der Zulassung erlaubten Abweichungen betrifft, es sei denn, die Abweichung ist mit einer Änderung des Handelsnamens verbunden.
+
+[^13d-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+### 3*c*. Abschnitt:**** Aufzeichnungs- und Mitteilungspflicht für die Forschung und Entwicklung
+
+[^chap2-sec3c-1]
+
+[^chap2-sec3c-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 13e
+
+**Aufzeichnungspflicht für die Forschung und Entwicklung**
+
+<sup>1</sup>
+
+Wer mit Biozidprodukten, die nicht zugelassen sind, oder mit nicht genehmigten Wirkstoffen zur Verwendung in Biozidprodukten zu Forschungs- und Entwicklungszwecken umgeht, muss folgende Aufzeichnungen führen:
+
+- a. Identität der Biozidprodukte oder der Wirkstoffe;
+- b. Angaben zur Kennzeichnung;
+- c. gelieferte Mengen;
+- d. Name und Adresse der Person, welche die Biozidprodukte oder die Wirkstoffe erhalten hat;
+- e. alle verfügbaren Angaben über mögliche Auswirkungen auf Mensch, Tier und Umwelt.
+
+<sup>2</sup> Die Aufzeichnungen sind der Anmeldestelle auf Anfrage zur Verfügung zu stellen.
+
+<sup>3</sup> Die Anmeldestelle kann bei Bedarf weitere Informationen einfordern.
+
+#### Art. 13f
+
+**Mitteilungspflicht für den Umgang bei Freisetzungsversuchen**
+
+<sup>1</sup> Wer mit Biozidprodukten, die nicht zugelassen sind, oder mit nicht genehmigten Wirkstoffen zur Verwendung in Biozidprodukten zu Forschungs- und Entwicklungszwecken so umgeht, dass diese in die Umwelt freigesetzt werden können, hat dies der Anmeldestelle 45 Tage vor dem ersten Umgang mitzuteilen.
+
+<sup>2</sup> Die Mitteilung muss die Aufzeichnungen nach Artikel 13*e* Absatz 1 enthalten.
+
+<sup>3</sup>
+
+Können die vorgesehenen Freisetzungsversuche unannehmbare Auswirkungen auf Menschen, insbesondere auf gefährdete Gruppen, auf Tiere oder auf die Umwelt haben, so kann die Anmeldestelle:
+
+- a.
+
+  die Durchführung des Versuchs mit Auflagen verknüpfen, insbesondere betreffend:
+
+  - 1\. die Dauer von Experimenten oder Tests,
+  - 2\. die zu verwendenden Höchstmengen,
+  - 3\. die Begrenzung des Einsatzgebietes;
+
+- b. den Versuch untersagen.
+
+<sup>4</sup> Sind die zu untersuchenden Biozidprodukte oder Wirkstoffe gentechnisch veränderte oder pathogene Mikroorganismen oder enthalten sie solche, so richtet sich das Verfahren nach der FrSV[^13f-1].
+
+[^13f-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+### 4. Abschnitt:**** Verfahren für Gesuche um Zulassungen
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 14
+
+**Allgemeine Bestimmungen**
+
+<sup>1</sup> Ein Gesuch um Zulassung eines Biozidprodukts muss bei der Anmeldestelle eingereicht werden.
+
+<sup>2</sup>
+
+Der Inhalt des Gesuchs richtet sich nach folgenden Anhängen:
+
+- a. für Gesuche um Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>: nach Anhang 5;
+- b. für Gesuche um vereinfachte Zulassung: nach Anhang 6;
+- c. für Gesuche um Anerkennung: nach Anhang 7;
+- d. für Gesuche um Zulassung Z<sub>N</sub>: nach Anhang 8;
+- e. für Gesuche um Zulassung für den Parallelhandel: nach Anhang 8*a*.
+
+<sup>3</sup> Ein Gesuch um Zulassung eines Biozidprodukts, das aus gentechnisch veränderten Mikroorganismen besteht oder solche enthält, muss zusätzlich die Anforderungen der FrSV[^14-1] erfüllen.
+
+<sup>4</sup>
+
+Gesuch und Unterlagen müssen eingereicht werden:
+
+- a. in dem von der Anmeldestelle vorgegebenen elektronischen Format;
+- b. in einer Amtssprache oder in Englisch; betrifft das Gesuch ein Biozidprodukt, das aus gentechnisch veränderten oder pathogenen Mikroorganismen besteht oder solche enthält, so muss mindestens die Zusammenfassung des Gesuchs in einer Amtssprache abgefasst sein.
+
+<sup>5</sup> Die Anmeldestelle kann auf Antrag einer Beurteilungsstelle Muster oder Entwürfe der Verpackung, der Kennzeichnung oder der Merkblätter verlangen.
+
+[^14-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 14a
+
+**Eindeutiger Rezepturidentifikator**[^14a-1]
+
+<sup>1</sup> Gesuche nach Artikel 14 Absatz 2 Buchstaben a, c, d und e müssen, wenn das Biozidprodukt nach Artikel 38*a* mit einem UFI zu kennzeichnen ist oder bereits über einen UFI verfügt, zusätzlich zu den Angaben nach Artikel 14 den UFI enthalten.
+
+<sup>2</sup> Die Erzeugung des UFI richtet sich nach Artikel 15*a* Absatz 2 ChemV[^14a-2].
+
+<sup>3</sup> Liegt zum Zeitpunkt der Gesuchseinreichung kein UFI vor, so ist dieser der Anmeldestelle spätestens 30 Tage vor dem ersten Inverkehrbringen mitzuteilen.
+
+<sup>4</sup> Bei Gesuchen um Anerkennung einer Zulassung sind die im Zusammenhang mit dem UFI notwendigen Informationen nach Anhang VIII der EU-CLP-Verordnung in dem von der Anmeldestelle vorgegebenen elektronischen Format 30 Tage vor dem ersten Inverkehrbringen bei der Anmeldestelle einzureichen.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^14a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+#### Art. 14a<sup>bis</sup>
+
+**Anerkennung einer Unionszulassung**[^14abis-1]
+
+<sup>1</sup> Für die Anerkennung einer Unionszulassung gelten die gleichen Regeln wie für die Anerkennung einer Zulassung eines EU- oder EFTA-Mitgliedstaates, es sei denn, die Unionszulassungen sind Gegenstand eines völkerrechtlichen Vertrags mit der EU.
+
+<sup>2</sup>
+
+Sind die Unionszulassungen Gegenstand eines völkerrechtlichen Vertrags mit der EU und sind der Anmeldestelle die Daten nach Artikel 14*b* Absatz 3 Buchstabe b zugänglich, so gilt für die Anerkennung einer Unionszulassung Folgendes:
+
+- a. Ein bei der Europäischen Chemikalienagentur (ECHA) eingereichtes Gesuch um Erteilung einer Unionszulassung, um deren Verlängerung, um deren Änderung oder um deren Widerruf gilt als gleichzeitig bei der Anmeldestelle eingereicht.
+- b. Die Anmeldestelle entscheidet im Einvernehmen mit den Beurteilungsstellen innert 30 Tagen nach dem Entscheid der Europäischen Kommission über das Gesuch; dabei stützt sie sich auf den Entscheid der Europäischen Kommission und berücksichtigt die Kriterien nach Artikel 12 Absatz 2.
+
+<sup>3</sup>
+
+Verfügt ein Biozidprodukt über einen UFI, so sind der Anmeldestelle 30 Tage vor dem ersten Inverkehrbringen mitzuteilen:
+
+- a. der UFI;
+- b. die im Zusammenhang mit dem UFI notwendigen Informationen nach Anhang VIII der EU-CLP-Verordnung in dem von der Anmeldestelle vorgegebenen elektronischen Format.[^14abis-2]
+
+[^14abis-1]: Ursprünglich: Art. 14*a.*
+[^14abis-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 14b
+
+**Verzicht auf Daten**
+
+<sup>1</sup> Daten, die aus wissenschaftlicher Sicht nicht erforderlich sind oder die aus technischen Gründen nicht generiert werden können, müssen nicht vorgelegt werden. Der Datenverzicht ist im Gesuch entsprechend zu begründen.
+
+<sup>2</sup> Das EDI regelt, im Einvernehmen mit dem UVEK und dem WBF, wann ein Datenverzicht aufgrund der voraussichtlichen Exposition gerechtfertigt ist; es berücksichtigt dabei die von der Europäischen Kommission gestützt auf Artikel 21 Absatz 3 der Verordnung (EU) Nr. 528/2012[^14b-1] erlassenen delegierten Rechtsakte.
+
+<sup>3</sup>
+
+Die Anmeldestelle bezeichnet die Daten, die nicht vorgelegt werden müssen, weil sie:
+
+- a. die ECHA veröffentlicht hat; oder
+- b. der Anmeldestelle gestützt auf einen völkerrechtlichen Vertrag zugänglich sind.
+
+[^14b-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+#### Art. 15
+
+**Gleiche Biozidprodukte**
+
+<sup>1</sup> Ein Biozidprodukt, das mit einem Biozidprodukt identisch ist, das bereits mit einer Zulassung Z<sub>N</sub>, Z<sub>B</sub>, Z<sub>L</sub> oder einer Anerkennung zugelassen ist oder für das ein entsprechendes Gesuch hängig ist, kann als gleiches Biozidprodukt in einem besonderen Verfahren zugelassen werden.
+
+<sup>2</sup> Das EDI kann, im Einvernehmen mit dem UVEK und dem WBF, die Einzelheiten des Verfahrens nach Absatz 1 regeln; es berücksichtigt dabei den gegebenenfalls von der Europäischen Kommission gestützt auf Artikel 17 Absatz 7 der Verordnung (EU) Nr. 528/2012[^15-1] erlassenen Durchführungsrechtsakt.
+
+<sup>3</sup> Ist die Gesuchstellerin nicht identisch mit der Inhaberin der Zulassung des schon zugelassenen gleichen Biozidprodukts oder mit der Gesuchstellerin eines bereits hängigen Gesuchs, so muss sie im Rahmen des Verfahrens nach Absatz 1 eine Zugangsbescheinigung einreichen.
+
+[^15-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+#### Art. 16
+
+**Kostenvorschuss, Validierung und Weiterleitung**
+
+<sup>1</sup> Die Anmeldestelle stellt der Gesuchstellerin einen Kostenvorschuss in Rechnung.
+
+<sup>2</sup> Nach Eingang des Kostenvorschusses prüft die Anmeldestelle innert Frist (Art. 19 Abs. 1 Bst. a und b), wenn nötig unter Beizug der Beurteilungsstellen, ob das Gesuch vollständig ist (Validierung), ohne die Qualität oder die Eignung der vorgelegten Daten oder Begründungen zu bewerten.
+
+<sup>3</sup> Bei Unvollständigkeit räumt sie der Gesuchstellerin nach deren Anhörung eine angemessene Frist zur Ergänzung ein. Diese beträgt im Regelfall höchstens 90 Tage.
+
+<sup>4</sup> Sie validiert die Ergänzungen, wenn nötig unter Beizug der Beurteilungsstellen, innert Frist (Art. 19 Abs. 1 Bst. c).
+
+<sup>5</sup> Nach der Validierung leitet sie das Gesuch mit den vollständigen Unterlagen an die Beurteilungsstellen weiter*.*
+
+<sup>6</sup> Handelt es sich um ein Biozidprodukt, das aus gentechnisch veränderten Mikroorganismen besteht oder solche enthält, so leitet sie das Zulassungsverfahren unter Berücksichtigung der FrSV[^16-1].
+
+[^16-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 17
+
+**Bewertung**
+
+<sup>1</sup>
+
+Die Beurteilungsstellen bewerten die Unterlagen in ihrem Zuständigkeitsbereich wie folgt:
+
+- a. Unterlagen für Zulassungen Z<sub>L</sub>, Z<sub>nL</sub> und vereinfachte Zulassungen sowie für Anerkennungen: nach den Grundsätzen von Anhang VI der Verordnung (EU) Nr. 528/2012[^17-1];
+- b. Unterlagen für die Beurteilung von Unionszulassungen, die gestützt auf einen völkerrechtlichen Vertrag bei der Anmeldestelle eingereicht werden: nach den Grundsätzen der Artikel 43–46 der Verordnung (EU) Nr. 528/2012 sowie der Durchführungsverordnung (EU) Nr. 354/2013[^17-2]; dies gilt auch für die Beurteilung von Änderungen oder Verlängerungen von Unionszulassungen;
+- c. Unterlagen für die Beurteilung eines Wirkstoffs, die gestützt auf einen völkerrechtlichen Vertrag bei der Anmeldestelle eingereicht werden: nach den Grundsätzen der Kapitel II und III der Verordnung (EU) Nr. 528/2012 sowie des Kapitels II der delegierten Verordnung (EU) Nr. 1062/2014[^17-3];
+- c<sup>bis</sup>.[^17-4] Unterlagen für Zulassungen Z<sub>N</sub>: unter dem Gesichtspunkt, ob der Wirkstoff für die beantragte Verwendung und Produktart geeignet ist; bei erhöhtem Risiko oder in anderen begründeten Fällen wird eine Bewertung nach Buchstabe d durchgeführt;
+- d. andere Unterlagen: nach dem Stand von Wissenschaft und Technik.[^17-5]
+
+<sup>2</sup> ...[^17-6]
+
+<sup>3</sup> Für Biozidprodukte mit zu ersetzenden Wirkstoffen nehmen die Beurteilungsstellen eine vergleichende Bewertung nach Artikel 11*g* vor.
+
+<sup>4</sup> Die Beurteilungsstellen teilen der Anmeldestelle das Ergebnis ihrer Bewertungen mit.
+
+<sup>5</sup> Bei Gesuchen um Zulassung Z<sub>L</sub>, Z<sub>nL</sub> und um vereinfachte Zulassung erstellt die Anmeldestelle unter Beizug der Beurteilungsstellen im Anschluss an die Validierung innert Frist (Art. 19 Abs. 1 Bst. d–j) einen Bewertungsbericht, in dem die Schlussfolgerungen der Bewertungen und die Gründe für die Zulassung oder Nichtzulassung zusammenfasst werden.
+
+<sup>6</sup> Zeigt sich, dass für die Bewertung weitere Angaben erforderlich sind, so fordert die Anmeldestelle die Gesuchstellerin auf, diese Angaben innert einer vorgegebenen Frist zu übermitteln. Die Anmeldestelle kann von der Gesuchstellerin Proben verlangen, wenn dies für die Bewertung erforderlich ist.
+
+<sup>7</sup> Die Anmeldestelle übermittelt der Gesuchstellerin einen Entwurf des Bewertungsberichtes und gibt ihr die Möglichkeit, innert 30 Tagen Stellung zu nehmen.
+
+[^17-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^17-2]: Durchführungsverordnung (EU) Nr. 354/2013 der Kommission vom 18. April 2013 über Änderungen von gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates zugelassenen Biozidprodukten, Fassung gemäss ABl. L 109 vom 19.4.2013, S. 4.
+[^17-3]: Delegierte Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, ABl L 294 vom 10.10.2014, S. 1.
+[^17-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^17-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^17-6]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 18
+
+Aufgehoben
+
+#### Art. 19
+
+**Bearbeitungsfristen**
+
+<sup>1</sup> Die Anmeldestelle entscheidet, unter Vorbehalt des Eingangs des Kostenvorschusses, ohne unnötige Verzögerung, jedoch spätestens innert folgender Fristen über die:
+
+<table>
+<tr><td>a. Validierung eines Gesuchs um Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>:</td><td>30 Tage</td></tr>
+<tr><td>b. Validierung eines Gesuchs um Anerkennung:</td><td>30 Tage</td></tr>
+<tr><td>c. Validierung von Ergänzungen eines Gesuchs um Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>:</td><td>30 Tage</td></tr>
+<tr><td>d. Bewertung eines Gesuchs um Zulassung Z<sub>L</sub>:</td><td>365 Tage</td></tr>
+<tr><td>e. Bewertung eines Gesuchs um Zulassung Z<sub>nL</sub>:</td><td>550 Tage</td></tr>
+<tr><td>f. Bewertung eines Gesuchs um Anerkennung:</td><td>90 Tage</td></tr>
+<tr><td>g. Bewertung eines Gesuchs um Anerkennung nach Artikel 34 der Verordnung (EU) Nr. 528/2012[^19-1] nach Eingang des Entwurfs des Bewertungsberichts des Referenzmitgliedstaates:</td><td>120 Tage</td></tr>
+<tr><td>h. Bewertung eines Gesuchs um vereinfachte Zulassung:</td><td>90 Tage</td></tr>
+<tr><td>i. Bewertung eines Gesuchs um Zulassung für den Parallelhandel:</td><td>60 Tage</td></tr>
+<tr><td>j. Bewertung eines Gesuchs um Zulassung Z<sub>N</sub>:</td><td>60 Tage</td></tr>
+<tr><td>k. Beurteilung, ob für die Verlängerung einer Zulassung Z<sub>L</sub> oder Z<sub>nL</sub> eine umfassende Bewertung nach Artikel 26 Absatz 5 erforderlich ist:</td><td>90 Tage</td></tr>
+<tr><td>l. umfassende Bewertung einer Verlängerung für eine Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>:</td><td>365 Tage</td></tr>
+<tr><td>m. nicht umfassende Bewertung einer Verlängerung für eine Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>:</td><td>180 Tage</td></tr>
+</table>
+
+<sup>2</sup> Für nicht zulassungspflichtige Biozidprodukte nach Artikel 3 Absatz 3 hat die Anmeldestelle, soweit erforderlich, innert folgender Frist eine Stellungnahme abzugeben:
+
+<table>
+<tr><td>a. Biozidprodukte, die in einem EU- oder EFTA-Mitgliedstaat in einem vereinfachten Verfahren zugelassen sind:</td><td>30 Tage</td></tr>
+<tr><td>b. Biozidprodukte einer zugelassenen Biozidproduktefamilie:</td><td>30 Tage</td></tr>
+<tr><td>c. Biozidprodukte, die für Forschungs- und Entwicklungszwecke freigesetzt werden:</td><td>45 Tage</td></tr>
+</table>
+
+<sup>3</sup> Verlangt die Anmeldestelle eine Ergänzung der Unterlagen, so stehen die Fristen bis zur Einreichung der Ergänzung still. Der Stillstand der Fristen beträgt insgesamt höchstens 180 Tage, es sei denn, die Art der angeforderten Ergänzung oder aussergewöhnliche Umstände rechtfertigen einen längeren Stillstand.
+
+<sup>4</sup> Das EDI kann im Einvernehmen mit dem UVEK und dem WBF weitere Bearbeitungsfristen festlegen. Im Übrigen gelten die Bearbeitungsfristen nach der Verordnung vom 25. Mai 2011[^19-2] über Grundsätze und Ordnungsfristen für Bewilligungsverfahren.
+
+[^19-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^19-2]: [SR 172.010.14](https://fedlex.data.admin.ch/eli/cc/2011/376)
+
+#### Art. 20
+
+**Verfügung**
+
+<sup>1</sup> Die Anmeldestelle entscheidet über die Zulassung in Form einer Verfügung.
+
+<sup>2</sup>
+
+Die Verfügung, ausgenommen diejenige für eine Zulassung Z<sub>N</sub>, enthält:
+
+- a. die Bedingungen für das Inverkehrbringen und die Verwendung des Biozidprodukts;
+- b.
+
+  eine Zusammenfassung der Eigenschaften des Biozidprodukts bestehend aus:
+
+  - 1\. dem Handelsnamen des Biozidprodukts,
+  - 2\. dem Namen und der Adresse der Inhaberin der Zulassung,
+  - 3\. dem Datum der Zulassung und dem Datum ihres Ablaufs,
+  - 4\. der Produktart und gegebenenfalls einer genaue Beschreibung der zugelassenen Verwendung,
+  - 5\. den Verwenderkategorien,
+  - 6\. der Nummer der eidgenössischen Zulassung; im Fall einer Biozidproduktefamilie zusammen mit den Kürzeln für jedes einzelne Biozidprodukt der Biozidproduktefamilie,
+  - 7\. den Namen und Adressen der Herstellerinnen des Biozidprodukts und der darin enthaltenen Wirkstoffe einschliesslich der Angabe der Produktionsstätten,
+  - 8\. der Art der Formulierung des Biozidprodukts sowie der qualitativen und der quantitativen Zusammensetzung aus Wirkstoffen und nicht wirksamen Stoffen, deren Kenntnis für eine ordnungsgemässe Verwendung der Biozidprodukte erforderlich ist; im Fall einer Biozidproduktefamilie den Angaben der Mindest- und der Höchstprozentsätze für jeden Wirkstoff und jeden nicht wirksamen Stoff, wobei der Mindestprozentsatz für bestimmte Stoffe 0 Prozent sein kann,
+  - 9\. den Gefahren- und Sicherheitshinweisen,
+  - 10\. den Zielschadorganismen,
+  - 11\. der Dosierung und der Gebrauchsanweisung,
+  - 12\. den Besonderheiten möglicher unerwünschter unmittelbarer oder mittelbarer Nebenwirkungen,
+  - 13\. Anweisungen für erste Hilfe sowie Notfallmassnahmen zum Schutz der Umwelt,
+  - 14\. Hinweisen für die sichere Beseitigung des Produkts und seiner Verpackung,
+  - 15\. Lagerungsbedingungen und Haltbarkeit des Biozidprodukts unter normalen Lagerungsbedingungen,
+  - 16\. gegebenenfalls sonstigen Angaben zum Biozidprodukt;
+
+- c. Angaben über die Höhe der Gebühren.
+
+<sup>3</sup>
+
+Die Verfügung für eine Zulassung Z<sub>N</sub> enthält:
+
+- a. die Bedingungen für das Inverkehrbringen und die Verwendung des Biozidprodukts;
+- b. den Handelsnamen des Biozidprodukts;
+- c. den Namen und die Adresse der Inhaberin der Zulassung;
+- d. das Datum der Zulassung und das Datum ihres Ablaufs;
+- e. die Nummer der eidgenössischen Zulassung;
+- f. die Produktart und gegebenenfalls eine genaue Beschreibung der zugelassenen Verwendung;
+- g. die Verwenderkategorien;
+- h. den Namen und die Adresse der Herstellerin des Biozidprodukts und der darin enthaltenen Wirkstoffe;
+- i. jeden Wirkstoff und dessen Gehalt im Produkt;
+- j. gegebenenfalls weitere Angaben oder Einzelheiten des Sicherheitsdatenblatts;
+- k. Angaben über die Höhe der Gebühren;
+- l. gegebenenfalls weitere Angaben.
+
+#### Art. 21
+
+**Pflicht zur Meldung von unerwarteten Auswirkungen**
+
+Die Inhaberin einer Zulassung muss der Anmeldestelle unaufgefordert und unverzüglich alle neuen Informationen über das Biozidprodukt oder die darin enthaltenen Wirkstoffe melden, die sich auf die Zulassung auswirken können, insbesondere:
+
+- a. neue Erkenntnisse über die schädlichen Auswirkungen jedes Wirkstoffs und des Biozidprodukts auf den Menschen, insbesondere auf gefährdete Gruppen, Tier und Umwelt;
+- b. Resistenzentwicklungen;
+- c. neue Daten und Informationen, aus denen hervorgeht, dass das Biozidprodukt nicht hinreichend wirksam ist.
+
+#### Art. 22
+
+**Aufnahme eines notifizierten Wirkstoffs in die Liste nach Anhang 1 oder 2**[^22-1]
+
+<sup>1</sup> Verabschiedet die Europäische Kommission die Genehmigung eines notifizierten Wirkstoffs oder dessen Aufnahme in Anhang I der Verordnung (EU) Nr. 528/2012[^22-2] und verabschiedet das BAG im Einvernehmen mit dem BAFU und dem SECO die Aufnahme dieses notifizierten Wirkstoffs in die Liste nach Anhang 1 oder 2, so teilt die Anmeldestelle dies der Inhaberin einer Zulassung Z<sub>N</sub> oder Z<sub>B</sub> eines Biozidprodukts mit diesem Wirkstoff unverzüglich mit, wenn es sich dabei um den letzten im Biozidprodukt enthaltenen notifizierten Wirkstoff handelt.
+
+<sup>2</sup>
+
+Die Inhaberin der Zulassung muss der Anmeldestelle bis zum Zeitpunkt der Aufnahme des letzten Wirkstoffs einreichen:
+
+- a.
+
+  ein Gesuch um:
+
+  - 1\. Zulassung Z<sub>L</sub>,
+  - 2\. vereinfachte Zulassung,
+  - 3\. zeitlich parallele Anerkennung nach Artikel 34 der Verordnung (EU) Nr. 528/2012, oder
+  - 4\. Zulassung als gleiches Biozidprodukt, wenn für ein identisches Produkt ein Gesuch um Zulassung Z<sub>L</sub> oder um parallele Anerkennung hängig ist; oder
+
+- b. den Nachweis, dass für das Biozidprodukt um eine der Zulassungen nach Buchstabe a oder um eine Unionszulassung ersucht wird.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^22-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+#### Art. 23
+
+**Überprüfung**
+
+<sup>1</sup> Die Anmeldestelle kann eine Zulassung jederzeit überprüfen.
+
+<sup>2</sup>
+
+Sie nimmt eine Überprüfung vor, wenn:
+
+- a. ihr neue Informationen nach Artikel 21 vorliegen;
+- b. es Anzeichen dafür gibt, dass die Voraussetzungen für die Zulassung nach Artikel 11 oder 11*b* nicht mehr erfüllt sind.
+
+<sup>3</sup> Sie verlangt von sich aus oder auf Antrag einer Beurteilungsstelle von der Inhaberin zusätzliche Informationen, Unterlagen oder Abklärungen, die für die Überprüfung notwendig sind.
+
+#### Art. 24
+
+**Änderung**
+
+<sup>1</sup>
+
+Die Anmeldestelle ändert im Einvernehmen mit den Beurteilungsstellen eine Zulassung, wenn:
+
+- a.[^24-1] die Voraussetzungen für die Zulassung nach Artikel 11 oder 11*b* oder nach dem 3. Abschnitt nicht mehr erfüllt sind;
+- b. eine Zulassung auf der Grundlage falscher oder irreführender Angaben erteilt wurde;
+- c. die Inhaberin nach Erteilung der Zulassung ihren Verpflichtungen, die sich aus dieser Verordnung ergeben, nicht nachgekommen ist.
+
+<sup>2</sup>
+
+Sie ändert eine Zulassung auf begründeten Antrag von deren Inhaberin. Dabei hat sie die Änderungen nach Massgabe der folgenden Verfahren zu behandeln:
+
+- a. verwaltungstechnische Änderung: im Rahmen eines vereinfachten Notifizierungsverfahrens;
+- b. geringfügige Änderung: im Rahmen eines Verfahrens mit verkürztem Bewertungszeitraum;
+- c. wesentliche Änderung: im Rahmen eines Verfahrens mit einem dem Umfang der vorgeschlagenen Änderungen angemessenen Bewertungszeitraum.
+
+<sup>3</sup> Das EDI regelt, im Einvernehmen mit dem UVEK und dem WBF, die Einzelheiten der Verfahren nach Absatz 2; es berücksichtigt dabei den von der Europäischen Kommission gestützt auf Artikel 51 der Verordnung (EU) Nr. 528/2012[^24-2] erlassenen Durchführungsrechtsakt.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^24-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+#### Art. 25
+
+**Widerruf**
+
+<sup>1</sup> Für den Widerruf gelten die Voraussetzungen nach Artikel 24 Absätze 1 und 2 sinngemäss.[^25-1]
+
+<sup>2</sup> ...[^25-2]
+
+<sup>3</sup> Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen die Zulassung für den Parallelhandel widerrufen, wenn die Zulassung des Biozidprodukts im Ursprungsstaat aus Gründen der Sicherheit oder Wirksamkeit widerrufen wird*.*
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^25-2]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 26
+
+**Verlängerung**
+
+<sup>1</sup> Die Inhaberin kann eine Verlängerung der Geltungsdauer der Zulassung beantragen.[^26-1]
+
+<sup>2</sup>
+
+Das Verlängerungsgesuch muss bei der Anmeldestelle eingereicht werden:
+
+- a. 550 Tage vor Ablauf der Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>;
+- b. 2 Monate vor Ablauf der vereinfachten Zulassung;
+- c.[^26-2] 550 Tage vor Ablauf der Anerkennung;
+- d. 1 Monat vor Ablauf der Zulassung für Ausnahmesituationen.
+
+<sup>3</sup>
+
+Für die Verlängerung einer Zulassung Z<sub>L</sub> oder Z<sub>nL</sub> muss das Gesuch Folgendes enthalten:
+
+- a. alle nach Anhang 5 erforderlichen Daten, die seit der Zulassung oder gegebenenfalls seit der letzten Verlängerung von der Gesuchstellerin generiert wurden;
+- b. die Einschätzung der Gesuchstellerin, ob die Schlussfolgerungen der ersten oder gegebenenfalls der vorangehenden Bewertung weiterhin gültig sind, sowie entsprechende Informationen.
+
+<sup>4</sup> Die Anmeldestelle überprüft die bestehende Zulassung. Sie kann von der Gesuchstellerin zur Bewertung der Risiken des Biozidprodukts Proben oder zusätzliche Informationen verlangen.
+
+<sup>5</sup> Bei Zulassungen Z<sub>L</sub> oder Z<sub>nL</sub> entscheidet die Anmeldestelle im Einvernehmen mit den Beurteilungsstellen innert Frist (Art. 19 Abs. 1 Bst. k), ob eine umfassende Bewertung nach Artikel 31 Absatz 5 der Verordnung (EU) Nr. 528/2012[^26-3] erforderlich ist, und erlässt innert Frist (Art. 19 Abs. 1 Bst. l und m) die Verfügung, gegebenenfalls unter Berücksichtigung einer vergleichenden Bewertung nach Artikel 11*g*.
+
+<sup>6</sup> Sie kann bis zum definitiven Entscheid über die Verlängerung die Geltungsdauer einer bestehenden Zulassung erstrecken.
+
+<sup>7</sup> Für Verlängerungen gilt die jeweilige Höchstdauer nach Artikel 8 Absatz 1.
+
+<sup>8</sup> Die Anmeldestelle kann eine Zulassung Z<sub>N</sub> oder Z<sub>B</sub> verlängern, wenn sich die Beurteilung eines Gesuchs nach Artikel 22 Absatz 2 verzögert.[^26-4]
+
+<sup>9</sup> Zulassungen Z<sub>nL</sub> aufgrund einer Beurteilung und Empfehlung eines EU- oder EFTA-Mitgliedstaates können nicht verlängert werden.
+
+<sup>10</sup> Das EDI kann im Einvernehmen mit dem UVEK und dem WBF das Verfahren für die Verlängerung von Anerkennungen regeln; es berücksichtigt dabei Durchführungsakte, die von der Europäischen Kommission gestützt auf Artikel 40 der Verordnung (EU) Nr. 528/2012 erlassen worden sind.[^26-5]
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)). Die Berichtigung vom 22. Okt. 2019 betrifft nur den französischen Text ([AS 2019 3221](https://fedlex.data.admin.ch/eli/oc/2019/592)).
+[^26-3]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^26-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^26-5]: Eingefügt durch Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+### 4*a*. Abschnitt:**** Abverkaufsfristen bei Änderung oder Widerruf der Zulassung oder bei Ablauf der Geltungsdauer
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 26a
+
+<sup>1</sup>
+
+Wird eine Zulassung von der Anmeldestelle widerrufen oder nicht verlängert oder ist die gestützt auf Artikel 8 festgelegte Geltungsdauer einer Zulassung abgelaufen, so räumt die Anmeldestelle, wenn keine unannehmbaren Wirkungen auf Mensch, Tier oder Umwelt zu erwarten sind, die folgenden Abverkaufsfristen ein:
+
+- a. Das Biozidprodukt darf nach Widerruf, Nichtverlängerung oder Ablauf der Zulassung noch während höchstens 360 Tagen in Verkehr gebracht werden.
+- b. Das Biozidprodukt darf während höchstens 360 weiteren Tagen an Endverbraucherinnen abgegeben werden.
+
+<sup>2</sup> Die Anmeldestelle untersagt die berufliche und gewerbliche Verwendung eines Biozidprodukts nach Widerruf, Nichtverlängerung oder Ablauf der Zulassung, wenn unannehmbare Wirkungen auf Mensch, Tier oder Umwelt zu erwarten sind.
+
+<sup>3</sup> Wird eine Zulassung geändert, so kann das Biozidprodukt ab der Änderung der Zulassung noch während der Fristen nach Absatz 1 mit der bisherigen Kennzeichnung in Verkehr gebracht und an Endverbraucherinnen abgegeben werden.
+
+### 5. Abschnitt: Verwendung von Daten früherer Gesuchstellerinnen und Schutzdauer für Daten
+
+#### Art. 27
+
+**Verwendung von Daten anderer Eigentümerinnen**[^27-1]
+
+<sup>1</sup>
+
+Die Anmeldestelle verzichtet auf Daten der Gesuchstellerin und legt diejenigen der Eigentümerin zu Grunde, wenn:
+
+- a. die Gesuchstellerin eine Zugangsbescheinigung der Eigentümerin beibringt; oder
+- b. die Schutzdauer für die Daten abgelaufen ist.
+
+<sup>2</sup> Die Gesuchstellerin gibt der Anmeldestelle bei jeder Übermittlung von Daten an, ob sie über die übermittelten Daten als Eigentümerin oder gestützt auf eine Zugangsbescheinigung verfügt.
+
+<sup>3</sup> Im Fall eines Verfügungsrechts gestützt auf eine Zugangsbescheinigung teilt die Gesuchstellerin der Anmeldestelle zudem den Namen und die Adresse der Eigentümerin mit.
+
+<sup>4</sup> Sie informiert die Anmeldestelle unverzüglich über Änderungen am Eigentum an den Daten.
+
+<sup>5</sup> Wer über eine Zugangsbescheinigung für Daten eines Wirkstoffs verfügt, kann Gesuchstellerinnen für deren Gesuch um Zulassung eines Biozidprodukts mit diesem Wirkstoff gestatten, auf diese Zugangsbescheinigung Bezug zu nehmen.
+
+<sup>6</sup> Die Regelungen des Wettbewerbs- und Immaterialgüterrechts werden durch die Bestimmungen dieses Abschnitts nicht berührt.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 27a
+
+**Zugangsbescheinigung**[^27a-1]
+
+<sup>1</sup>
+
+Eine Zugangsbescheinigung muss mindestens folgende Angaben enthalten:
+
+- a.[^27a-2] die Namen und die Kontaktdaten der Eigentümerin der Daten und der Begünstigten;
+- b. die Bezeichnung des Wirkstoffs oder des Biozidprodukts, für den oder das der Datenzugang gewährt wurde;
+- c. den Zeitpunkt, zu dem die Zugangsbescheinigung wirksam wird;
+- d. die Liste der übermittelten Daten, auf die gestützt auf die Zugangsbescheinigung Bezug genommen werden darf.
+
+<sup>2</sup> Der Widerruf einer Zugangsbescheinigung wirkt sich nicht auf die Gültigkeit der Zulassung aus, die gestützt auf die Zugangsbescheinigung erteilt wurde.
+
+[^27a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^27a-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 28
+
+**Schutzdauer für Daten**[^28-1]
+
+<sup>1</sup>
+
+Für die nach dieser Verordnung der Anmeldestelle übermittelten Daten gelten folgende Schutzdauern:
+
+- a. *für Daten, die zum Zweck der Genehmigung eines alten Wirkstoffs übermi**t**telt wurden:* 10 Jahre nach dem ersten Tag des Monats, der auf den Zeitpunkt der Genehmigung des betreffenden Wirkstoffs für die betreffende Produktart durch die Europäische Kommission nach Artikel 9 der Verordnung (EU) Nr. 528/2012[^28-2] folgt;
+- b. *für Daten, die zum Zweck der Genehmigung eines neuen Wirkstoffs übermi**t**telt wurden:* 15 Jahre nach dem ersten Tag des Monats, der auf den Zeitpunkt der Genehmigung des betreffenden Wirkstoffs für die betreffende Produktart durch die Europäische Kommission nach Artikel 9 der Verordnung (EU) Nr. 528/2012 folgt;
+- c. *für Daten, die zum Zweck der Verlängerung oder Überprüfung der Gene**h**migung eines neuen Wirkstoffs übermittelt wurden*: 5 Jahre nach dem ersten Tag des Monats, der auf den Zeitpunkt der Verlängerung oder Überprüfung der Genehmigung durch die Europäische Kommission nach Artikel 14 Absatz 4 der Verordnung (EU) Nr. 528/2012 folgt;
+- d. *für Daten, die zum Zweck einer Zulassung eines Biozidprodukts, das nur a**l**te Wirkstoffe enthält, übermittelt wurden:* 10 Jahre nach dem ersten Tag des Monats, der nach der Zulassung durch die Anmeldestelle oder durch die nach der Verordnung (EU) Nr. 528/2012 zuständige Behörde folgt;
+- e. *für Daten, die zum Zweck einer Zulassung eines Biozidprodukts, das einen neuen Wirkstoff enthält, übermittelt wurden:* 15 Jahre nach dem ersten Tag des Monats, der nach der Zulassung durch die Anmeldestelle oder durch die nach der Verordnung (EU) Nr. 528/2012 zuständige Behörde folgt;
+- f. *für Daten, die zum Zweck der Verlängerung oder Änderung einer Zulassung eines Biozidprodukts übermittelt wurden:* 5 Jahre nach dem ersten Tag des Monats, der auf den Zeitpunkt der Zulassung durch die Anmeldestelle oder auf den Zeitpunkt der Entscheidung über Verlängerung oder Änderung der Zulassung durch die nach der Verordnung (EU) Nr. 528/2012 zuständige Behörde folgt.
+
+<sup>2</sup> Der Schutzdauer beginnt mit der erstmaligen Übermittlung der Daten.
+
+<sup>3</sup> Sie kann nicht erneuert werden.
+
+<sup>4</sup> Abweichend von Absatz 1 laufen die Schutzdauern für alte Wirkstoffe, die für die jeweilige Produktart nach Anhang II der Verordnung (EU) Nr. 1062/2014[^28-3] aufgeführt sind, einschliesslich der Daten, die keine Versuche an Wirbeltieren beinhalten, und über deren Aufnahme in Anhang I der Richtlinie 98/8/EG[^28-4] bis zum 1. September 2013 aber noch nicht entschieden wurde, spätestens am 31. Dezember 2025 ab.[^28-5]
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^28-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^28-3]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. b.
+[^28-4]: Richtlinie 98/8/EG des Europäischen Parlamentes und des Rates vom 16. Febr. 1998 über das Inverkehrbringen von Biozid-Produkten, ABl. L 123 vom 24.4.1998, S. 1; zuletzt geändert durch Richtlinie 2013/44/EU, ABl. L 204 vom 31.7.2013, S. 49.
+[^28-5]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 29
+
+**Voranfragepflicht zur Vermeidung von Versuchen an Wirbeltieren[^29-2]**[^29-1]
+
+<sup>1</sup> Für die Voranfragepflicht der Gesuchstellerin zur Vermeidung von Versuchen an Wirbeltieren gilt Artikel 31 Absätze 1, 3 und 4 ChemV[^29-3] sinngemäss; wo in der ChemV von der Anmeldung eines Stoffes die Rede ist, ist darunter für diese Verordnung die Zulassung eines Biozidprodukts zu verstehen, und wo in der ChemV von der früheren Anmelderin die Rede ist, ist darunter für diese Verordnung die Eigentümerin der Daten zu verstehen.[^29-4]
+
+<sup>2</sup> Die Gesuchstellerin hat bei der Voranfrage den Nachweis zu erbringen, dass sie beabsichtigt, selbst eine Zulassung zu beantragen.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^29-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^29-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 29a
+
+**Entschädigung für die gemeinsame Nutzung von Daten**[^29a-1]
+
+<sup>1</sup> Die Gesuchstellerin und die Eigentümerin der Daten bemühen sich nach Kräften um eine Einigung über die gemeinsame Nutzung der nach Artikel 31 Absatz 3 Buchstabe a ChemV[^29a-2] zu verwendenden Daten.[^29a-3]
+
+<sup>2</sup> Die Parteien können ein Schiedsgutachten einholen.
+
+<sup>3</sup> Die Anmeldestelle ist an das Gutachten gebunden, es sei denn, die Parteien bringen innert 30 Tagen Einwände im Sinne von Artikel 189 Absatz 3 der Zivilprozessordnung[^29a-4].
+
+<sup>4</sup> Kann zwischen den Parteien keine Einigung erzielt werden, so meldet die Gesuchstellerin dies der Anmeldestelle frühestens einen Monat nach Eingang von deren Mitteilung nach Artikel 31 Absatz 3 Buchstabe b ChemV. Gleichzeitig informiert die Gesuchstellerin die Eigentümerin der Daten über die Mitteilung.[^29a-5]
+
+<sup>5</sup>
+
+Die Anmeldestelle teilt den Parteien frühestens 60 Tage nach Eingang der Mitteilung der Gesuchstellerin mit, dass sie die Daten zugunsten der Gesuchstellerin verwenden wird, wenn diese den Nachweis erbringen kann, dass sie:
+
+- a. sich nach Kräften um eine Einigung bemüht hat; und
+- b. der Eigentümerin einen Anteil der Kosten für die Erarbeitung der Daten entrichtet oder sich durch mit Unterschrift bekräftigte Schuldanerkennung dafür verpflichtet hat.
+
+<sup>6</sup> Auf Antrag der Eigentümerin verfügt die Anmeldestelle die Höhe der angemessenen Entschädigung. Sie berücksichtigt dabei die von der Gesuchstellerin abgegebene Schuldanerkennung oder bereits entrichtete Zahlung.
+
+<sup>7</sup> Bei ihrem Entscheid über die Höhe der Entschädigung stellt die Anmeldestelle sicher, dass bei der gemeinsamen Nutzung der Daten den Grundsätzen der Gerechtigkeit, der Transparenz und der Nichtdiskriminierung Rechnung getragen wird.
+
+[^29a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^29a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^29a-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^29a-4]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^29a-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 29b
+
+**Nutzung von Daten für nachfolgende Gesuche**[^29b-1]
+
+<sup>1</sup>
+
+Ist die Schutzdauer nach Artikel 28 abgelaufen, so kann die Gesuchstellerin bei der Anmeldestelle beantragen, dass die Daten aus einer bestehenden Zulassung zu ihren Gunsten verwendet werden, wenn sie nachweist:
+
+- a. bei Ablauf der Schutzdauer der Daten des verwendeten Wirkstoffs: dass dieser mit demjenigen in einem bereits zugelassenen Biozidprodukt technisch gleichwertig ist, einschliesslich Reinheitsgrad und Art der Verunreinigungen;
+- b.
+
+  bei Ablauf der Schutzdauer der Daten des Biozidprodukts:
+
+  - 1\. dass dieses mit einem bereits zugelassenen identisch ist, oder
+  - 2\. dass die Unterschiede bei der Risikobewertung unerheblich und die Wirkstoffe im Sinne von Buchstabe a technisch gleichwertig sind.
+
+<sup>2</sup> Die Anmeldestelle erlässt eine Allgemeinverfügung und veröffentlicht sie im Bundesblatt. Sie orientiert die Inhaberin der bestehenden Zulassung und, soweit bekannt, die Eigentümerin der Daten des Wirkstoffs oder des Biozidprodukts.
+
+<sup>3</sup>
+
+Die Gesuchstellerin legt der Anmeldestelle je nach Fall folgende Daten vor:
+
+- a. sämtliche Daten, die für die Identifizierung des Biozidprodukts erforderlich sind, einschliesslich der Zusammensetzung;
+- b. die Daten, die erforderlich sind, um den Wirkstoff zu identifizieren und die technische Äquivalenz des Wirkstoffs festzustellen;
+- c. die Daten, die erforderlich sind, um nachzuweisen, dass das Biozidprodukt in Bezug auf das Risiko und in seiner Wirksamkeit mit dem zugelassenen Biozidprodukt vergleichbar ist.
+
+[^29b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+### 6. Abschnitt:**** Ausnahmeregelungen
+
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 30
+
+**Zulassung von Biozidprodukten zur Bekämpfung einer unvorhergesehenen Gefahr**
+
+<sup>1</sup> Zur Bekämpfung einer unvorhergesehenen Gefahr, die mit andern Mitteln nicht eingedämmt werden kann, kann die Anmeldestelle im Einvernehmen mit den Beurteilungsstellen bestimmte Biozidprodukte abweichend von den Bestimmungen der Artikel 4 und 5 sowie des 2.–4. Abschnitts dieses Kapitels für eine beschränkte und kontrollierte Verwendung zulassen. Davon ausgenommen sind Biozidprodukte, die gentechnisch veränderte Mikroorganismen sind oder enthalten.
+
+<sup>2</sup> Biozidprodukte, die nach Absatz 1 zugelassen sind, können abweichend von den Bestimmungen von Artikel 38 Absatz 2 Buchstabe b ausschliesslich in der Amtssprache des Verwendungsgebiets oder in Englisch gekennzeichnet sein.
+
+<sup>3</sup> Für Biozidprodukte, die pathogene Mikroorganismen sind oder enthalten, müssen für die Zulassung nach Absatz 1 zusätzlich die Anforderungen der ESV[^30-1] und der FrSV[^30-2] erfüllt sein.
+
+[^30-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^30-2]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 30a
+
+**Vorläufige Zulassung von Biozidprodukten, die einen noch nicht genehmigten Wirkstoff enthalten**
+
+<sup>1</sup>
+
+Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen ein Biozidprodukt, das einen noch nicht genehmigten Wirkstoff enthält, vorläufig zulassen. Die vorläufige Zulassung wird erteilt, wenn:
+
+- a. die Gesuchstellerin für den noch nicht genehmigten Wirkstoff die Empfehlung eines EU- oder EFTA-Mitgliedstaates für die Genehmigung des Wirkstoffes vorlegt; und
+- b. die Beurteilungsstellen unter Berücksichtigung von Artikel 11*b* zur Überzeugung gelangen, dass das Biozidprodukt die Voraussetzungen nach Artikel 11 Absatz 1 Buchstaben a–c voraussichtlich erfüllt.
+
+<sup>2</sup> Die Anmeldestelle widerruft die vorläufige Zulassung, wenn die Europäische Kommission entscheidet, den Wirkstoff nicht zu genehmigen.
+
+#### Art. 30b
+
+**Zulassung von Biozidprodukten zum Schutz des kulturellen Erbes**
+
+Ist es zum Schutz des kulturellen Erbes unbedingt erforderlich und steht keine geeignete Alternative zur Verfügung, so kann die Anmeldestelle im Einvernehmen mit den Beurteilungsstellen ein Biozidprodukt, das einen nicht genehmigten Wirkstoff enthält, zulassen.
+
+## 3. Kapitel:**** Behandelte Waren
+
+[^chap3-1]
+
+[^chap3-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 31
+
+**Inverkehrbringen**
+
+<sup>1</sup>
+
+Eine behandelte Ware darf nur in Verkehr gebracht werden, wenn alle in den Biozidprodukten enthaltenen Wirkstoffe, mit denen sie behandelt wurde oder die in einer solchen Ware enthalten sind:
+
+- a. in der Liste nach Anhang 2 für die entsprechende Produktart und den entsprechenden Verwendungszweck oder in der Liste nach Anhang 1 aufgeführt und alle dort festgelegten Bedingungen oder Einschränkungen erfüllt sind; oder
+- b. in einem für den entsprechenden Verwendungszweck nach der Zulassung Z<sub>nL</sub> zugelassenen Biozidprodukt eingesetzt sind.
+
+<sup>2</sup> Wirkstoffe eines Biozidprodukts nach Absatz 1 Buchstabe b müssen in der Liste nach Artikel 9 Absatz 5[^31-1] entsprechend aufgeführt sein.
+
+<sup>3</sup> Absatz 1 gilt nicht für behandelte Waren, deren Behandlung allein in der Begasung oder Desinfektion von Anlagen oder Behältern bestand, die zur Beförderung oder Lagerung verwendet wurden, sofern von der Behandlung keine Rückstände zu erwarten sind.
+
+[^31-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. März 2018 angepasst.
+
+#### Art. 31a
+
+**Kennzeichnung**
+
+<sup>1</sup>
+
+Wer für das Inverkehrbringen behandelter Waren verantwortlich ist, muss:
+
+- a. sie nach Artikel 58 Absätze 3, 4 und 6 der Verordnung (EU) Nr. 528/2012[^31a-1] etikettieren; und
+- b. die massgebenden Angaben nach der ChemRRV[^31a-2] in der Gebrauchsanweisung übernehmen.
+
+<sup>2</sup> Die Etikette muss in der oder den Amtssprachen des Ortes, an dem die behandelte Ware in Verkehr gebracht wird, abgefasst sein.
+
+[^31a-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^31a-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+#### Art. 31b
+
+**Zusätzliche Pflichten**
+
+<sup>1</sup> Wer für das Inverkehrbringen behandelter Waren verantwortlich ist, muss den Verbraucherinnen auf Anfrage innert 45 Tagen Informationen über die biozide Behandlung der behandelten Waren abgeben.
+
+<sup>2</sup> Die Sorgfaltspflicht nach Artikel 41 Absätze 1 und 2 gilt sinngemäss.
+
+<sup>3</sup> Die Einschränkungen der ChemRRV[^31b-1] bleiben vorbehalten.
+
+[^31b-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+#### Art. 32
+
+Aufgehoben
+
+## 4. Kapitel:**** Fabrikations- und Geschäftsgeheimnis, Privatsphäre und Sicherheit der betroffenen Person
+
+[^chap4-1]
+
+[^chap4-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 33
+
+**Vertraulichkeit**
+
+<sup>1</sup> Daten, die nach Ansicht der Gesuchstellerin unter das Fabrikations- und Geschäftsgeheimnis fallen oder deren Offenlegung die Privatsphäre oder die Sicherheit der betroffenen Person gefährden und die deshalb vertraulich zu behandeln sind, sind von ihr zu bezeichnen. Sie hat die Bezeichnung umfassend zu begründen.
+
+<sup>2</sup> Die Anmeldestelle entscheidet im Einvernehmen mit den Beurteilungsstellen über die vertrauliche Behandlung der Daten.
+
+<sup>3</sup>
+
+Bei folgenden Daten ist davon auszugehen, dass ihre Offenlegung den Schutz der geschäftlichen Interessen, die Privatsphäre oder die Sicherheit der betroffenen Personen beeinträchtigt:
+
+- a. Einzelheiten der vollständigen Zusammensetzung eines Biozidprodukts;
+- b. die genaue Menge, in welcher der Wirkstoff oder das Biozidprodukt hergestellt oder in Verkehr gebracht wird;
+- c.
+
+  Beziehungen:
+
+  - 1\. zwischen der Herstellerin eines Wirkstoffs und der Gesuchstellerin für die Zulassung eines Biozidprodukts bzw. der Inhaberin, oder
+  - 2\. zwischen der Gesuchstellerin für die Zulassung eines Biozidprodukts bzw. der Inhaberin und den Personen, die für den Vertrieb des Produkts zuständig sind;
+
+- d. Namen und Anschriften der Personen, die an den Versuchen an Wirbeltieren beteiligt sind.
+
+<sup>4</sup> Daten über Biozidprodukte und Wirkstoffe, die von der Anmeldestelle als vertraulich eingestuft werden, werden von den Vollzugsbehörden nach Massgabe der Artikel 73–76 ChemV[^33-1] vertraulich behandelt.[^33-2]
+
+<sup>5</sup> Daten für die Anerkennung einer Zulassung, die ein EU- oder EFTA-Mitgliedstaat oder die ECHA als vertraulich eingestuft hat, werden vertraulich behandelt.
+
+<sup>6</sup> Für den Zugang zu Daten über Biozidprodukte oder Wirkstoffe, die aus gentechnisch veränderten Mikroorganismen bestehen oder solche enthalten oder die aus gentechnisch veränderten Mikroorganismen gewonnen wurden, gilt Artikel 18 GTG.
+
+[^33-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^33-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 34
+
+**Ausschluss der Vertraulichkeit**
+
+<sup>1</sup>
+
+Nach der Zulassung sind folgende Angaben in keinem Fall vertraulich:
+
+- a. Name und Adresse der Gesuchstellerin;
+- b. Name und Adresse der Herstellerin des Biozidprodukts;
+- c. Name und Adresse der Herstellerin der Wirkstoffe;
+- d. Anteil der Wirkstoffe am Biozidprodukt;
+- e. Bezeichnung des Biozidprodukts;
+- f. physikalische und chemische Daten zum Biozidprodukt;
+- g. Zusammenfassung der Ergebnisse der erforderlichen Versuche zum Nachweis der Wirksamkeit des Wirkstoffs oder des Biozidprodukts, der Auswirkungen auf Mensch, Tier und Umwelt und gegebenenfalls der resistenzfördernden Eigenschaften;
+- h. Analysemethoden, die Wirkstoffe nach Artikel 11 Absatz 1 Buchstabe b zuverlässig bestimmen können;
+- i. Verfahren, mit denen der Wirkstoff oder das Biozidprodukt unschädlich gemacht werden kann;
+- j. Methoden und Vorsichtsmassnahmen, die zur Verringerung der Risiken bei der Handhabung, beim Transport und bei der Verwendung sowie bei Feuer oder anderen Gefahren empfohlen werden;
+- k. im Fall eines Verschüttens oder Auslaufens zu treffende Massnahmen und einzuhaltende Verfahren;
+- l. Angaben zur ersten Hilfe und ärztliche Ratschläge im Verletzungsfall;
+- m. Methoden zur Entsorgung des Biozidprodukts und seiner Verpackung;
+- n. im Sicherheitsdatenblatt enthaltene Informationen.
+
+<sup>2</sup> Für die Veröffentlichung von nicht vertraulichen Daten von Biozidprodukten gilt Artikel 73 Absatz 6 ChemV[^34-1].[^34-2]
+
+[^34-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^34-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+## 5. Kapitel: Einstufung, Verpackung, Denaturierung, Kennzeichnung und Sicherheitsdatenblatt
+
+#### Art. 35
+
+**Einstufung**[^35-1]
+
+<sup>1</sup> Für die Einstufung von Biozidprodukten und von Wirkstoffen zur Verwendung in Biozidprodukten gelten die Artikel 6 und 7 ChemV[^35-2] sinngemäss; wo in der ChemV von der Herstellerin die Rede ist, ist darunter für diese Verordnung die Gesuchstellerin zu verstehen.
+
+<sup>2</sup> Gegebenenfalls sind die Angaben der Verfügung nach Artikel 20 zu berücksichtigen.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^35-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+#### Art. 36
+
+**Verpackung**[^36-1]
+
+<sup>1</sup>
+
+Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen sinngemäss nach Artikel 8 ChemV[^36-2] verpackt sein. Dabei entsprechen:[^36-3]
+
+- a. der Herstellerin nach der ChemV, die Inhaberin der Zulassung nach dieser Verordnung;
+- b. den gefährlichen Stoffen und Zubereitungen nach der ChemV, sämtliche Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten nach dieser Verordnung.
+
+<sup>2</sup> Gegebenenfalls sind die Angaben der Verfügung nach Artikel 20 zu berücksichtigen.
+
+<sup>3</sup> Biozidprodukte, die mit Lebensmitteln im Sinne des Lebensmittelgesetzes vom 20. Juni 2014[^36-4] oder mit Futtermitteln im Sinne von Artikel 3 Absatz 1 der Futtermittel-Verordnung vom 26. Mai 1999[^36-5] verwechselt werden können, müssen so verpackt sein, dass die Wahrscheinlichkeit einer Verwechslung auf ein Mindestmass beschränkt ist.[^36-6]
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^36-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2017 angepasst.
+[^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^36-6]: Berichtigung vom 23. Dez. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
+
+#### Art. 37
+
+**Denaturierung**
+
+Biozidprodukte, die mit Lebensmitteln oder Futtermitteln verwechselt werden können und die für jedermann erhältlich sind, müssen Bestandteile enthalten, die vom Verzehr abhalten.
+
+#### Art. 38
+
+**Kennzeichnung**[^38-1]
+
+<sup>1</sup> Die Etikette darf hinsichtlich der Risiken des Biozidprodukts für die Gesundheit von Mensch oder Tier oder für die Umwelt oder hinsichtlich seiner Wirksamkeit nicht irreführend sein. Sie darf keinesfalls Angaben wie «Biozidprodukt mit niedrigem Risikopotenzial», «ungiftig», «unschädlich», «natürlich», «umweltfreundlich», «tierfreundlich» oder ähnliche Hinweise enthalten.
+
+<sup>2</sup>
+
+Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen gekennzeichnet sein:[^38-2]
+
+- a. im Einklang mit der verfügten Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 20 Absatz 2 Buchstabe b; und
+- b.
+
+  sinngemäss nach den Artikeln 10 und 93 Absatz 1 Buchstabe b ChemV[^38-3]; dabei entsprechen:[^38-4]
+
+  - 1\. der Herstellerin nach der ChemV, die Inhaberin der Zulassung nach dieser Verordnung,
+  - 2\. den gefährlichen Stoffen und Zubereitungen nach der ChemV, sämtliche Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten nach dieser Verordnung.
+
+<sup>3</sup>
+
+Zusätzlich zu den Angaben nach Absatz 2 müssen auf der Etikette angegeben werden:[^38-5]
+
+- a. die Bezeichnung jedes Wirkstoffs und seine Konzentration in metrischen Einheiten;
+- b. die Nummer der eidgenössischen Zulassung;
+- c.[^38-6] die Art der Formulierung;
+- d. die Anwendungen, für die das Biozidprodukt zugelassen ist;
+- e.
+
+  die Gebrauchsanweisung; darin sind für jede Anwendung gemäss den Auflagen der Verfügung insbesondere anzugeben:
+
+  - 1\. die Häufigkeit der Anwendung,
+  - 2\. die Dosierung, ausgedrückt in metrischen Einheiten in einer für die Verwenderinnen und Verwender sinnvollen und verständlichen Weise;
+
+- f. Besonderheiten möglicher unerwünschter unmittelbarer oder mittelbarer Nebenwirkungen sowie Anweisungen für erste Hilfe;
+- g. der Hinweis, ob das Produkt Nanomaterialien enthält, sowie der Hinweis auf mögliche sich daraus ergebende spezifische Risiken, und nach jedem Hinweis auf Nanomaterialien das Wort «Nano» in Klammern;
+- h. falls ein Merkblatt beigefügt ist: der Satz «Vor Gebrauch beiliegendes Merkblatt lesen» und gegebenenfalls Warnungen für gefährdete Gruppen;
+- i. Anweisungen für die sichere Entsorgung des Biozidprodukts und seiner Verpackung sowie ein Hinweis auf ein allfälliges Verbot für die Wiederverwendung der Verpackung;
+- j. die Chargennummer oder Bezeichnung der Formulierung;
+- k. das Datum des Verfalls unter normalen Lagerungsbedingungen;
+- l.
+
+  gegebenenfalls die folgenden Angaben:
+
+  - 1\. die Zeit bis zum Eintritt der Biozidwirkung,
+  - 2\. die Sicherheitswartezeit zwischen einzelnen Anwendungen des Biozidprodukts,
+  - 3\.
+
+    die Sicherheitswartezeit zwischen der Anwendung und der nächsten Verwendung des behandelten Produktes oder dem nächsten Zutritt von Menschen oder Tieren zu dem Bereich, wo das Biozidprodukt angewendet wurde, einschliesslich Einzelheiten über:
+
+    - – Mittel und Massnahmen zur Dekontaminierung und die Dauer der erforderlichen Belüftung der behandelten Bereiche
+    - – die angemessene Reinigung der Ausrüstung
+    - – Vorsichtsmassnahmen bei Verwendung und Transport.
+
+<sup>4</sup>
+
+Soweit zutreffend, müssen überdies angegeben werden:
+
+- a. die Verwenderkategorien;
+- b. Informationen über besondere Gefahren für die Umwelt, insbesondere im Hinblick auf den Schutz von Nichtzielorganismen und zur Vermeidung einer Wasserkontamination;
+- c. für Biozidprodukte, die Mikroorganismen sind oder enthalten: die Kennzeichnungserfordernisse im Sinne der Richtlinie 2000/54/EG[^38-7].
+
+<sup>5</sup>
+
+Die Angaben nach den Absätzen 3 Buchstaben c, e, f und i–l und 4 Buchstabe b müssen, wenn das Anbringen auf der Etikette wegen der Grösse oder der Funktion des Biozidprodukts nicht möglich ist, wie folgt angebracht werden:
+
+- a. auf der Verpackung; oder
+- b. auf einem der Verpackung beigefügten Merkblatt.[^38-8]
+
+<sup>6</sup> ...[^38-9]
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^38-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^38-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38-6]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-7]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, ABl. L 262 vom 17.10.2000, S. 21.
+[^38-8]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38-9]: Aufgehoben durch Ziff. I der V vom 5. Juni 2015, mit Wirkung seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 39
+
+**Kennzeichnung für gentechnisch veränderte Mikroorganismen[^39-2]**[^39-1]
+
+<sup>1</sup> Biozidprodukte, die gentechnisch veränderte Mikroorganismen sind oder enthalten, müssen zusätzlich zu den Erfordernissen nach Artikel 38 auf der Etikette entsprechend gekennzeichnet sein.
+
+<sup>2</sup>
+
+Für die Kennzeichnung muss eine der folgenden Bezeichnungen verwendet werden:
+
+- a. «aus gentechnisch verändertem X/produit à partir de X modifié par génie génétique/da X modificato/a con tecnologia genetica»; oder
+- b. «aus genetisch verändertem X/produit à partir de X génétiquement modifié/da X geneticamente modificato/a».
+
+<sup>3</sup> Die Angaben nach Artikel 38 Absatz 4 Buchstabe b sind auf der Etikette anzubringen. Die übrigen Angaben sind, je nach erfüllter Voraussetzung, nach Artikel 38 Absatz 5 Buchstabe a oder b anzubringen.
+
+<sup>4</sup> Biozidprodukte, die unbeabsichtigte Spuren von bewilligten gentechnisch veränderten Mikroorganismen enthalten, deren Anteil weniger als 0,1 Masseprozent beträgt, bedürfen keiner Kennzeichnung.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^39-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 40
+
+**Sicherheitsdatenblatt**[^40-1]
+
+<sup>1</sup> Für Biozidprodukte und für Wirkstoffe zur Verwendung in Biozidprodukten müssen Sicherheitsdatenblätter sinngemäss nach den Artikeln 5 und 18–22 ChemV[^40-2] erstellt, übermittelt und aktualisiert werden; wo in der ChemV von der Herstellerin die Rede ist, ist darunter für diese Verordnung die Inhaberin der Zulassung zu verstehen.[^40-3]
+
+<sup>2</sup> Die Expositionsszenarien nach Artikel 20 Absatz 2 ChemV müssen für Wirkstoffe, die in den Listen nach Artikel 9 Absatz 1 Buchstaben a–c aufgeführt sind, nicht beigefügt werden.
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^40-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^40-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 40a
+
+**Dokumentation und Proben**[^40a-1]
+
+<sup>1</sup> Die Herstellerin eines Biozidprodukts gewährleistet auf Papier oder elektronisch eine geeignete Dokumentation des Herstellungsprozesses in Bezug auf die Qualität und Sicherheit des in Verkehr zu bringenden Biozidprodukts.
+
+<sup>2</sup>
+
+Die Dokumentation umfasst mindestens:
+
+- a. Sicherheitsdatenblätter und Spezifikationen von Wirkstoffen und anderen Inhaltsstoffen, die zur Herstellung des Biozidprodukts verwendet werden;
+- b. Aufzeichnungen der verschiedenen Herstellungsschritte;
+- c. Ergebnisse interner Qualitätskontrollen;
+- d. eine Beschreibung der Herstellungschargen.
+
+<sup>3</sup> Die Herstellerin bewahrt Proben der Herstellungschargen auf.
+
+<sup>4</sup> Die Dokumentation und die Proben müssen nach Artikel 45 Absatz 2 ChemV[^40a-2] aufbewahrt werden.[^40a-3]
+
+<sup>5</sup> Die Sicherheitsdatenblätter müssen nach Artikel 23 ChemV aufbewahrt werden.[^40a-4]
+
+[^40a-1]: Eingefügt durch Ziff. I der V vom 28. Febr. 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)). Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^40a-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^40a-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^40a-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+## 6. Kapitel: Umgang mit Biozidprodukten
+
+#### Art. 41
+
+**Sorgfaltspflicht**
+
+<sup>1</sup> Wer mit einem Biozidprodukt und seinen Abfällen umgeht, muss diese ordnungsgemäss verwenden und dafür sorgen, dass sie Mensch, Tier und Umwelt nicht gefährden können.
+
+<sup>1bis</sup> Eine ordnungsgemässe Verwendung beinhaltet die vernünftige Anwendung einer Kombination physikalischer, biologischer, chemischer und gegebenenfalls sonst gebotener Massnahmen; dabei wird der Einsatz von Biozidprodukten auf das notwendige Mindestmass begrenzt und werden geeignete vorbeugende Massnahmen getroffen.[^41-1]
+
+<sup>2</sup> Die auf der Verpackung und dem Sicherheitsdatenblatt angegebenen Hinweise und die Gebrauchsanweisung müssen berücksichtigt werden.
+
+<sup>3</sup> Das Biozidprodukt darf nur für den vorgesehenen Zweck verwendet werden. Es dürfen nur Geräte eingesetzt werden, die eine fachgerechte und gezielte Verwendung des Biozidprodukts ermöglichen.
+
+<sup>4</sup> ...[^41-2]
+
+[^41-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^41-2]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 41a
+
+[^41a-1]
+
+[^41a-1]: Eingefügt gemäss Beilage Ziff. 1 der V vom 10. Nov. 2010 ([AS 2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750)). Aufgehoben durch Anhang Ziff. 1 der V vom 7. Nov. 2012, mit Wirkung seit 1. Dez. 2012 ([AS 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)).
+
+#### Art. 42
+
+**Aufbewahrung**[^42-1]
+
+Für die Aufbewahrung von Biozidprodukten gelten die Artikel 57 und 62 ChemV[^42-2] sinngemäss.
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^42-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+#### Art. 43
+
+**Abgabe**[^43-1]
+
+<sup>1</sup>
+
+Für die Abgabe von Biozidprodukten gelten:
+
+- a. die Vorgaben der Verfügung nach Artikel 20;
+- b. die Artikel 58, 59 und 63–66 ChemV[^43-2] sinngemäss.
+
+<sup>2</sup> Für Biozidprodukte, die Kriterien nach Artikel 11*d* Buchstabe a erfüllen, gelten die Artikel 64 Absatz 1, 65 Absatz 1 und 66 Absatz 1 Buchstabe a ChemV sinngemäss.[^43-3]
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^43-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^43-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 44
+
+**Rücknahme- und Rückgabepflicht**
+
+<sup>1</sup> Wer Biozidprodukte in Verkehr bringt, muss die von ihm abgegebenen Biozidprodukte, die nicht mehr verwendet werden, von der Verbraucherin zurücknehmen und sachgemäss entsorgen; im Kleinverkauf abgegebene Biozidprodukte müssen unentgeltlich zurückgenommen werden.
+
+<sup>2</sup> Die Rückgabepflicht von Biozidprodukten richtet sich nach Anhang 2.4 Ziffer 5 ChemRRV[^44-1].
+
+[^44-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+#### Art. 45
+
+**Diebstahl, Verlust und irrtümliches Inverkehrbringen**[^45-1]
+
+<sup>1</sup> Für Diebstahl und Verlust von Biozidprodukten nach Artikel 11*d* Buchstabe a, gilt Artikel 67 Absätze 1 und 2 ChemV[^45-2] sinngemäss.
+
+<sup>2</sup> Für irrtümliches Inverkehrbringen von Biozidprodukten gilt Artikel 67 Absätze 3 und 4 ChemV sinngemäss.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^45-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+#### Art. 46
+
+[^46-1]
+
+[^46-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 47
+
+**Verwendungsbeschränkungen**[^47-1]
+
+<sup>1</sup> Für Biozidprodukte, die pathogene Mikroorganismen sind oder enthalten, gelten die Beschränkungen nach Artikel 13 FrSV[^47-2].
+
+<sup>2</sup> Für Biozidprodukte der Produktarten 2, 6, 7, 8, 10, 14 und 21 gelten zusätzlich die Beschränkungen und Pflichten nach Anhang 2.4 ChemRRV[^47-3].[^47-4]
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^47-2]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^47-3]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^47-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 48
+
+**Anwendungsbewilligung**
+
+Die Anwendung bestimmter Biozidprodukte bedarf einer Bewilligung; diese ist in den Artikeln 4–6 ChemRRV[^48-1] geregelt.
+
+[^48-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+#### Art. 49
+
+**Fachbewilligung**[^49-1]
+
+Wer Biozidprodukte nach Artikel 7 Absatz 1 Buchstabe a Ziffern 2–4 und Absatz 2 ChemRRV[^49-2] verwendet, benötigt eine Fachbewilligung nach den Artikeln 7–12 ChemRRV.
+
+[^49-1]: Berichtigung vom 23. Dez. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
+[^49-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+
+#### Art. 50
+
+**Werbung**[^50-1]
+
+<sup>1</sup>
+
+Es dürfen nur Biozidprodukte angepriesen werden, die:
+
+- a. zugelassen sind; oder
+- b. nach Artikel 3 Absatz 3 Buchstabe a oder b in Verkehr gebracht oder verwendet werden.
+
+<sup>2</sup> Für die Werbung gilt Artikel 38 Absatz 1 sinngemäss.
+
+<sup>3</sup>
+
+Die Werbung für jedes Biozidprodukt muss, gut lesbar und von der eigentlichen Werbung deutlich abgehoben, folgende Aussagen enthalten:
+
+- a. «Biozide vorsichtig verwenden»; anstelle von «Biozid» kann die Produktart nach Anhang 10 angegeben werden;
+- b. «Vor Gebrauch stets Etikett und Produktinformationen lesen».
+
+<sup>4</sup> Wer für gefährliche Biozidprodukte wirbt, welche die breite Öffentlichkeit kaufen kann, ohne vorher die Kennzeichnung gesehen zu haben, muss in allgemeinverständlicher und deutlich lesbarer oder hörbarer Form auf die gefährlichen Eigenschaften hinweisen.
+
+<sup>5</sup> Im Übrigen gilt Artikel 60 ChemV[^50-2] und für Warenmuster Artikel 68 ChemV sinngemäss.[^50-3]
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^50-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^50-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+## 7. Kapitel: Vollzug
+
+### 1. Abschnitt: Bund
+
+#### Art. 50a
+
+**Harmonisierung des Vollzugs**[^50a-1]
+
+<sup>1</sup> Beim Vollzug dieser Verordnung orientieren sich die schweizerischen Behörden am jeweils in der EU geltenden Recht, insbesondere an den von der Europäischen Kommission gestützt auf die Verordnung (EU) Nr. 528/2012[^50a-2] erlassenen delegierten Rechtsakten oder Durchführungsrechtsakten sowie an den Technischen Anleitungen der Europäischen Kommission und der ECHA.
+
+<sup>2</sup> Die Anmeldestelle erstellt im Einvernehmen mit den Beurteilungsstellen Richtlinien zur Harmonisierung des Vollzugs. Sie veröffentlicht die Richtlinien auf ihrer Website[^50a-3].[^50a-4]
+
+[^50a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^50a-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^50a-3]: www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung (VBP) &gt; MRA Schweiz-EU
+[^50a-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 51
+
+**Anmeldestelle und Steuerungsausschuss**[^51-1]
+
+Die Anmeldestelle und der dazugehörige Steuerungsausschuss sind in Artikel 77 ChemV[^51-2] geregelt.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^51-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+#### Art. 52
+
+**Beurteilungsstellen**
+
+Beurteilungsstellen für Biozidprodukte sind:
+
+- a. das BAG: für die Belange des Schutzes des Lebens und der Gesundheit des Menschen;
+- b. das BAFU: für die Belange des Umweltschutzes und des mittelbaren Schutzes des Menschen;
+- c. das SECO: für die Belange des Arbeitnehmerschutzes;
+- d.[^52-1] das BLW: für die agronomischen Belange;
+- e.[^52-2] das BLV: für die Belange der Lebensmittelsicherheit und der Tiergesundheit.
+
+[^52-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^52-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 53
+
+**Aufgaben der Anmeldestelle und Zusammenarbeit**
+
+<sup>1</sup>
+
+Die Anmeldestelle hat folgende Aufgaben:
+
+- a. Sie holt die Bewertungen und Stellungnahmen der zuständigen Beurteilungsstellen ein.
+- b. Sie entscheidet im Einvernehmen mit den Beurteilungsstellen.
+- c. Sie analysiert anhand von Stichproben die Zusammensetzung von in Verkehr gebrachten Biozidprodukten.
+- d.[^53-1]
+
+  Sie veröffentlicht in geeigneter Form folgende Listen:
+
+  - 1\. die Liste nach Artikel 95 Absatz 1 der Verordnung (EU) Nr. 528/2012[^53-2],
+  - 2\.
+
+    die Liste der Personen, die folgende Unterlagen vorgelegt haben:
+
+    - – Unterlagen nach Anhang II der Verordnung (EU) Nr. 528/2012 oder nach Anhang IIA, IVA und gegebenenfalls IIIA der Richtlinie 98/8/EG[^53-3] oder
+    - – eine Zugangsbescheinigung für Daten über den Wirkstoff nach Buchstabe d Ziffer 2 erster Strich,
+
+  - 3\.[^53-4] die Liste der Personen, zu deren Gunsten sie Daten nach Artikel 29*a* Absatz 5 verwendet hat.
+
+- e.[^53-5] Sie stellt die elektronischen Formate für das Einreichen von Zulassungsgesuchen und für Mitteilungen zur Verfügung.
+
+<sup>2</sup>
+
+Sie ersucht die kantonalen Vollzugsbehörden, gegebenenfalls auf Antrag der Beurteilungsstellen:
+
+- a. um Durchführung von Kontrollen nach Artikel 58;
+- b. um Erhebung von Stichproben für Analysen nach Absatz 1 Buchstabe c.
+
+<sup>3</sup> Wo in dieser Verordnung Stellungnahmen der Beurteilungsstellen vorgesehen sind, sind deren Anträge für die Anmeldestelle bindend.[^53-6]
+
+[^53-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^53-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^53-3]: Siehe Fussnote zu Art. 28 Abs. 4.
+[^53-4]: Berichtigung vom 23. Dez. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
+[^53-5]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^53-6]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 54
+
+**Auskunftsstelle für Vergiftungen**[^54-1]
+
+Für die Auskunftsstelle für Vergiftungen gilt Artikel 79 ChemV[^54-2].
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^54-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+#### Art. 54a
+
+**Auskunftsstelle für Biozidprodukte**[^54a-1]
+
+<sup>1</sup> Die Anmeldestelle betreibt in Zusammenarbeit mit den Beurteilungsstellen eine Auskunftsstelle für Biozidprodukte.
+
+<sup>2</sup> Die Auskunftstelle berät Gesuchstellerinnen, insbesondere kleine und mittlere Unternehmen, und sonstige interessierte Kreise hinsichtlich ihrer jeweiligen Aufgaben und Verpflichtungen im Rahmen dieser Verordnung.
+
+<sup>3</sup> Sie weist die Gesuchstellerinnen insbesondere auf die Möglichkeit hin, von den Anforderungen an die Daten nach Anhang 5 Ziffer 2.2 Absatz 1 abzuweichen. Sie bietet den Gesuchstellerinnen entsprechende Beratung an.
+
+[^54a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 55
+
+[^55-1]
+
+[^55-1]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 56
+
+**Überwachung der Ein- und Ausfuhr**
+
+<sup>1</sup> Die Zollstellen kontrollieren auf Ersuchen der Anmeldestelle, ob Biozidprodukte oder behandelte Waren den Bestimmungen dieser Verordnung entsprechen.[^56-1]
+
+<sup>2</sup> Die Beurteilungsstellen können die Anmeldestelle auffordern, ein Ersuchen nach Absatz 1 zu stellen.
+
+<sup>3</sup> Bei Verdacht auf eine Widerhandlung sind die Zollstellen berechtigt, Biozidprodukte oder behandelte Waren an der Grenze zurückzuhalten und die übrigen Vollzugsbehörden nach dieser Verordnung beizuziehen. Diese nehmen die weiteren Abklärungen vor und treffen die erforderlichen Massnahmen.[^56-2]
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^56-2]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 57
+
+**Gebühren und Kostenvorschuss**[^57-1]
+
+<sup>1</sup> Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen der Bundesvollzugsbehörden nach dieser Verordnung richten sich nach der Chemikaliengebührenverordnung vom 18. Mai 2005[^57-2].
+
+<sup>2</sup> Die Anerkennung einer Unionszulassung nach Artikel 14*a* Absatz 2 ist nicht gebührenpflichtig.
+
+<sup>3</sup> Für ein Gesuch um Zulassung und für dessen Änderung hat die Gesuchstellerin einen Kostenvorschuss zu entrichten. Dieser wird von der Anmeldestelle gestützt auf die voraussichtliche Höhe der Gebühren festgelegt.
+
+<sup>4</sup> Die Entrichtung des Kostenvorschusses ist Voraussetzung für die Behandlung des Gesuchs durch die Anmeldestelle.
+
+<sup>5</sup> Die Absätze 3 und 4 gelten nicht für Zulassungen Z<sub>B</sub> und Z<sub>N</sub> sowie für Zulassungen gleicher Biozidprodukte, die mit einer Zulassung Z<sub>B</sub> oder Z<sub>N</sub> identisch sind.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^57-2]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+
+### 2. Abschnitt: Kantone
+
+#### Art. 58
+
+**Nachträgliche Kontrollen**
+
+<sup>1</sup> Die kantonalen Vollzugsbehörden kontrollieren in Verkehr gebrachte oder von den Herstellerinnen selber verwendete Biozidprodukte und behandelte Waren.[^58-1]
+
+<sup>2</sup>
+
+Sie überprüfen, ob:
+
+- a. die in Verkehr gebrachten Biozidprodukte über eine Zulassung verfügen;
+- b. für die zu Forschungs- und Entwicklungszwecken verwendeten Biozidprodukte die Bestimmungen nach den Artikeln 13*e* und 13*f* eingehalten werden;
+- c. die Verfügungen nach Artikel 20 eingehalten werden, insbesondere ob die Vorschriften über Verpackung und Kennzeichnung und über die Erstellung von Sicherheitsdatenblättern befolgt werden;
+- d. die Vorschriften über die Übermittlung und Aufbewahrung von Sicherheitsdatenblättern befolgt werden;
+- e. die besonderen Bestimmungen über den Umgang mit Biozidprodukten eingehalten werden;
+- f. die Bestimmungen für behandelte Waren nach den Artikeln 31 und 31*a* eingehalten werden;
+- g. die Bestimmungen für den Parallelhandel nach Artikel 13*a* eingehalten werden.[^58-2]
+
+<sup>3</sup> Sie erheben auf Ersuchen der Anmeldestelle Stichproben.
+
+<sup>4</sup> Im Übrigen haben sie die Befugnisse nach Artikel 42 ChemG.
+
+<sup>5</sup> Geben die kontrollierten Biozidprodukte zu Beanstandungen Anlass, so informiert die kontrollierende Behörde die Anmeldestelle und die nach Artikel 59 für die Verfügung zuständige kantonale Behörde.
+
+[^58-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^58-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 59
+
+**Verfügung der kantonalen Vollzugsbehörde**[^59-1]
+
+Ergibt die Kontrolle, dass Verstösse gegen die in Artikel 58 Absatz 2 genannten Bestimmungen vorliegen, so verfügt die zuständige Behörde des Kantons, in dem die Inhaberin einer Zulassung oder die Herstellerin, die Inverkehrbringerin oder die Verwenderin ihren Wohn- oder Geschäftssitz oder ihre Zweigniederlassung hat, die nötigen Massnahmen.
+
+[^59-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+### 3. Abschnitt: Übertragung von Aufgaben und Befugnissen an Dritte
+
+#### Art. 60
+
+<sup>1</sup> Die zuständigen Bundesstellen können die ihnen durch diese Verordnung zugewiesenen Aufgaben und Befugnisse ganz oder teilweise geeigneten öffentlichrechtlichen Körperschaften oder Privaten übertragen.
+
+<sup>2</sup>
+
+Soweit der Vollzug des Gesundheitsschutzes betroffen ist, ist die Übertragung eingeschränkt auf:
+
+- a. die analytische Überprüfung von Stichproben (Art. 53 Abs. 1 Bst. c);
+- [tab] b.[^60-1] die Prüfung von Gesuchen auf Vollständigkeit nach Artikel 16 Absatz 2 und die Bewertung der Unterlagen nach Artikel 17.
+
+[^60-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+### 4. Abschnitt: Weitergabe von Daten
+
+#### Art. 61
+
+[^61-1]
+
+Für die Weitergabe von Daten von Biozidprodukten gelten die Artikel 74–76 ChemV[^61-2] sinngemäss.
+
+[^61-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^61-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+## 8. Kapitel: Schlussbestimmungen
+
+### 1. Abschnitt: Übergangsbestimmungen zur Änderung vom 20. Juni 2014****
+
+[^chap8-sec1-1]
+
+[^chap8-sec1-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 62
+
+**Hängige Gesuche**[^62-1]
+
+<sup>1</sup> Ein zum Zeitpunkt des Inkrafttretens der Änderung vom 20. Juni 2014 dieser Verordnung hängiges Gesuch um Zulassung Z<sub>L</sub>, Z<sub>nL</sub> oder um Anerkennung eines Biozidprodukts wird von der Anmeldestelle nach bisherigem Recht beurteilt.
+
+<sup>2</sup>
+
+Die Risikobewertung des Wirkstoffs im Biozidprodukt, für welches ein Gesuch um Zulassung hängig ist, erfolgt jedoch:
+
+- a. nach den Artikeln 11–11*f,* wenn der Wirkstoff von der Europäischen Kommission nicht genehmigt und nicht in die Liste nach Anhang 2 aufgenommen wurde;
+- b. nach Artikel 11*g,* wenn der Wirkstoff gestützt auf den Entscheid der Europäischen Kommission zu ersetzen ist.
+
+<sup>3</sup> Ergibt die Risikobewertung des Wirkstoffs nach neuem Recht, dass die mit Inkrafttreten der Änderung vom 20. Juni 2014 dieser Verordnung neu geltenden Bestimmungen problematisch sein könnten, so erhält die Gesuchstellerin Gelegenheit, der Anmeldestelle zusätzliche Informationen einzureichen.
+
+[^62-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+#### Art. 62a und 62b
+
+[^62a62b-1]
+
+[^62a62b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 62c
+
+**Behandelte Waren**[^62c-1]
+
+<sup>1</sup>
+
+Eine behandelte Ware darf nach Inkrafttreten der Änderung vom 20. Juni 2014 dieser Verordnung in Abweichung von Artikel 31 Absatz 1 bis zum Zeitpunkt nach Absatz 2 erstmals in Verkehr gebracht werden, wenn sie eine der folgenden Voraussetzungen erfüllt:[^62c-2]
+
+- a. Sie wurde mit einem oder mehreren Biozidprodukten behandelt oder ihr wurden ein oder mehrere Biozidprodukte absichtlich zugesetzt, die nur Wirkstoffe enthalten, die in der Liste der notifizierten Wirkstoffe enthalten sind.
+- b. Es wurde für die Wirkstoffe, die sie enthält, bis spätestens 1. September 2016 bei der Europäischen Kommission ein Antrag auf Genehmigung für die betreffende Produktart gestellt.
+- c. Sie enthält nur eine Kombination von Wirkstoffen, die in der Liste der notifizierten Wirkstoffe enthalten sind, und von Wirkstoffen, die in der in Anhang 2 für die betreffenden Produktarten und Verwendungszwecke erstellten Liste oder in Anhang 1 enthalten sind.
+
+<sup>2</sup>
+
+Die behandelten Waren nach Absatz 1 dürfen bis zum folgenden Zeitpunkt erstmals in Verkehr gebracht werden:[^62c-3]
+
+- a. bis zu dem Zeitpunkt, zu dem der letzte im Biozidprodukt enthaltene zulassungspflichtige Wirkstoff für die betreffende Produktart und Verwendung von der Europäischen Kommission genehmigt wurde;
+- b. bis 180 Tage nach der Entscheidung der Europäischen Kommission, einen der Wirkstoffe für die betreffende Verwendung nicht zu genehmigen.
+
+<sup>3</sup> Eine behandelte Ware, die mit einem oder mehreren Biozidprodukten behandelt wurde oder der ein oder mehrere Biozidprodukte absichtlich zugesetzt wurden, die einen anderen Wirkstoff als diejenigen enthalten, auf die in Absatz 1 Buchstaben a–c verwiesen wird, darf bis zum 28. Februar 2017 erstmals in Verkehr gebracht werden.[^62c-4]
+
+[^62c-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^62c-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^62c-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+[^62c-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 62d
+
+[^62d-1]
+
+[^62d-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+### 2. Abschnitt: Inkrafttreten****
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+#### Art. 63
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. August 2005 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 7 Abs. 1, 8 Abs. 1, 9 Abs. 1, 10 Abs. 1, 11 Abs. 2 und 3, 11*h* Bst. a, 22, 31 Abs. 1, 62*c* Abs. 1, 62*d* Abs. 3)
+
+## Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe****
+
+[^annex1-lvlu1-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V des BAG vom 21. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 731](https://fedlex.data.admin.ch/eli/oc/2020/135)).
+[^annex1-lvlu1-1]: Der Inhalt der Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe wird in der AS nicht veröffentlicht. Die Liste kann kostenlos eingesehen werden unter www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung &gt; Anhang 1. Sie gilt in der Fassung vom 1. April 2020.
+
+Anhang 2*[^t-2]*
+
+(Art. 7 Abs. 1, 8 Abs. 1, 9 Abs. 1 und 3, 10 Abs. 1, 11 Abs. 2 und 3, 22, 31 Abs. 1, 62 Abs. 2, 62*a* Abs. 4 und 62*c* Abs. 1)
+
+## Unionsliste genehmigter Wirkstoffe****
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 19. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5297](https://fedlex.data.admin.ch/eli/oc/2020/916)).
+[^annex2-lvlu1-1]: Der Inhalt der Unionsliste der genehmigten Wirkstoffe wird in der AS nicht veröffentlicht. Die Unionsliste kann kostenlos eingesehen werden unter www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung &gt; Anhang 2. Sie gilt in der Fassung vom 15. Dezember 2020.
+
+Anhang 3*[^t-3]*
+
+(Art. 2 Abs. 4 und 9 Abs. 2)
+
+## Entsprechungen von Ausdrücken und anwendbares Recht
+
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)), Anhang 6 Ziff. 4 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 2 der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+Für die korrekte Auslegung der Verordnung (EU) Nr. 528/2012[^annex3-lvlu1-1], auf die in dieser Verordnung verwiesen wird, gelten die folgenden Entsprechungen von Ausdrücken, Erlassen und einzelnen Bestimmungen:
+
+### 1 Entsprechungen von Ausdrücken zwischen der Verordnung (EU) Nr. 528/2012 und der vorliegenden Verordnung
+
+[^annex3-lvlu1-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+Die nachstehenden Ausdrücke der Verordnung (EU) Nr. 528/2012 und der vorliegenden Verordnung entsprechen sich wie folgt:
+
+<table>
+<tr><th>Europäische Union</th><th>Schweiz</th></tr>
+<tr><td>a. Deutsche Ausdrücke:</td><td></td></tr>
+<tr><td>Gemisch</td><td>Zubereitung</td></tr>
+<tr><td>Erzeugnis</td><td>Gegenstand</td></tr>
+<tr><td>Bereitstellung auf dem Markt</td><td>Inverkehrbringen nach Artikel 4 Absatz 1 Buchstabe i des Chemikaliengesetzes vom 15. Dezember 2000</td></tr>
+<tr><td>Inverkehrbringen</td><td>erstmaliges Inverkehrbringen</td></tr>
+<tr><td>Mikroorganismus</td><td>Mikroorganismen nach Artikel 2 Absatz 2 Buchstabe d</td></tr>
+<tr><td>Zugangsbescheinigung</td><td>Zugangsbescheinigung nach Artikel 2 Absatz 2 Buchstabe e</td></tr>
+<tr><td>befasste bzw. bewertende zuständige Behörde</td><td>Anmeldestelle bzw. Beurteilungsstellen</td></tr>
+<tr><td>vereinfachtes Zulassungsverfahren</td><td>vereinfachte Zulassung</td></tr>
+<tr><td>b. Französische Ausdrücke:</td><td></td></tr>
+<tr><td>Mélange</td><td>Préparation</td></tr>
+<tr><td>Article</td><td>Objet</td></tr>
+<tr><td>Mise à disposition sur le marché</td><td>Mise sur le marché selon l’art. 4, al. 1, let. i, de la loi du 15 décembre 2000 sur les produits chimiques</td></tr>
+<tr><td>Mise sur le marché</td><td>Première mise sur le marché</td></tr>
+<tr><td>Microorganisme</td><td>Microorganismes selon l’art. 2, al. 2, let. d</td></tr>
+<tr><td>Lettre d’accès</td><td>Lettre d’accès selon l’art. 2, al. 2, let. e</td></tr>
+<tr><td>Autorité compétente réceptrice ou d’évaluation</td><td>Organe de réception des notifications (ON) ou organes d’évaluation</td></tr>
+<tr><td>Procédure d’autorisation simplifiée</td><td>Autorisation simplifiée</td></tr>
+<tr><td>c. Italienische Ausdrücke:</td><td></td></tr>
+<tr><td>Miscela</td><td>Preparato</td></tr>
+<tr><td>Prodotto</td><td>Oggetto</td></tr>
+<tr><td>Messa a disposizione sul mercato</td><td>Immissione sul mercato secondo l’articolo 4 capoverso 1 lettera i della legge del 15 dicembre 2000 sui prodotti chimici</td></tr>
+<tr><td>Immissione sul mercato</td><td>Prima immissione sul mercato</td></tr>
+<tr><td>Microrganismo</td><td>Microrganismo secondo l’articolo 2 capoverso 2 lettera d</td></tr>
+<tr><td>Lettera di accesso</td><td>Lettera di accesso secondo l’articolo 2 capoverso 2 lettera e</td></tr>
+<tr><td>Autorità competente ricevente risp. autorità di valutazione competente</td><td>Organo di notifica risp. servizi di valutazione</td></tr>
+<tr><td>Procedura di autorizzazione semplificata</td><td>Omologazione semplificata</td></tr>
+</table>
+
+### 2 Anwendbares Recht bei Weiterverweisen in der Verordnung (EU) Nr. 528/2012
+
+Wird in dieser Verordnung auf Bestimmungen der Verordnung (EU) Nr. 528/2012 verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das folgende schweizerische Recht:
+
+<table>
+<tr><th>EU-Recht</th><th>Schweizerisches Recht</th></tr>
+<tr><td>Vorschriften für die Beförderung gefährlicher Güter</td><td>Bestimmungen über den Post-, Eisenbahn-, Strassen-, Luft- und Schiffsverkehr und die Rohrleitungen</td></tr>
+<tr><td>Richtlinie 98/24/EG</td><td>Arbeitnehmerschutzgesetzgebung</td></tr>
+<tr><td>Richtlinie 2004/37/EG</td><td>Arbeitnehmerschutzgesetzgebung</td></tr>
+<tr><td>Richtlinie 2008/98/EG</td><td>Abfallverordnung vom 4. Dezember 2015[^annex3-lvlu1-lvl2-1]; Verordnung vom 22. Juni 2005[^annex3-lvlu1-lvl2-2] über den Verkehr mit Abfällen</td></tr>
+<tr><td>Verordnung (EG) Nr. 850/2004</td><td>Anhänge 1.1, 1.9 und 1.16 ChemRRV[^annex3-lvlu1-lvl2-3]</td></tr>
+<tr><td>Verordnung (EG) Nr. 689/2008</td><td>PIC-Verordnung vom 10. November 2004[^annex3-lvlu1-lvl2-4]</td></tr>
+<tr><td>Art. 31 der EU-REACH-Verordnung</td><td>Art. 20 ChemV[^annex3-lvlu1-lvl2-5]</td></tr>
+<tr><td>Art. 59 der EU-REACH-Verordnung</td><td>Anhang 3 ChemV</td></tr>
+<tr><td>Art. 24 der EU-CLP-Verordnung</td><td>Art. 14 ChemV</td></tr>
+<tr><td>Anhang V der Verordnung (EU) Nr. 528/2012</td><td>Anhang 10</td></tr>
+</table>
+
+[^annex3-lvlu1-lvl2-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex3-lvlu1-lvl2-2]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex3-lvlu1-lvl2-3]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex3-lvlu1-lvl2-4]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^annex3-lvlu1-lvl2-5]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+### 3 Entsprechungen von Ausdrücken zwischen den EU-Rechtsakten, auf die in der Unionsliste genehmigter Wirkstoffe verwiesen wird, und der vorliegenden Verordnung
+
+Die nachstehenden Ausdrücke der EU-Rechtsakte, auf die in der Liste nach Anhang 2 (Unionsliste genehmigter Wirkstoffe) verwiesen wird, und der vorliegenden Verordnung entsprechen sich wie folgt:
+
+<table>
+<tr><th>Europäische Union</th><th>Schweiz</th></tr>
+<tr><td>a. Deutsche Ausdrücke:</td><td></td></tr>
+<tr><td>in Mitgliedstaaten zur Verwendung zugelassen</td><td>in der Schweiz zur Verwendung zugelassen</td></tr>
+<tr><td>die Mitgliedstaaten bewerten</td><td>die Beurteilungsstellen (BS) bewerten</td></tr>
+<tr><td>Rückstandshöchstgehalte (RHG)</td><td>Höchstkonzentrationen bzw. Höchstwerte</td></tr>
+<tr><td>Antrag</td><td>Gesuch</td></tr>
+<tr><td>b. Französische Ausdrücke:</td><td></td></tr>
+<tr><td>autorisés à des fins d’utilisation dans les États membres</td><td>autorisés à des fins d’utilisation en Suisse</td></tr>
+<tr><td>les États membres étudient</td><td>les Organes d’évaluation (OE) étudient</td></tr>
+<tr><td>limites maximales de résidus (LMR)</td><td>concentrations maximales ou valeurs maximales</td></tr>
+<tr><td>c. Italienische Ausdrücke:</td><td></td></tr>
+<tr><td>autorizzati per l’impiego negli Stati membri</td><td>autorizzati per l’impiego in Svizzera</td></tr>
+<tr><td>gli Stati membri valutare</td><td>gli Servizi di valutazione (SV) valutare</td></tr>
+<tr><td>livelli massimi di residui (LMR)</td><td>concentrazioni massime o valori massimi</td></tr>
+<tr><td>autorizzazione</td><td>omologazione</td></tr>
+</table>
+
+### 4 Anwendbares Recht bei Weiterverweisen in Durchführungsrechtsakten der EU zu den Wirkstoffgenehmigungen
+
+Wird in dieser Verordnung auf Bestimmungen von Durchführungsrechtsakten der EU zu den Wirkstoffgenehmigungen verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das folgende schweizerische Recht:
+
+<table>
+<tr><th>EU-Recht</th><th>Schweizerisches Recht</th></tr>
+<tr><td>Art. 5 und Anhang VI der Richtlinie 98/8/EG</td><td>Art. 11 und 17 VBP</td></tr>
+<tr><td>Art. 19 und Anhang VI der Verordnung EU Nr. 528/2012</td><td>Art. 11 und 17 VBP</td></tr>
+<tr><td>Verordnungen (EG) Nr. 470/2009 und (EG) Nr. 396/2005</td><td>Verordnung des EDI vom 16. Dezember 2016[^annex3-lvlu1-lvl4-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlicher und tierischer Herkunft, Verordnung des EDI vom 16. Dezember 2016[^annex3-lvlu1-lvl4-2] über Rückstände pharmakologisch wirksamer Stoffe und Futtermittelzusatzstoffe in Lebensmitteln tierischer Herkunft, und FMV[^annex3-lvlu1-lvl4-3]</td></tr>
+<tr><td>Verordnung (EG) Nr. 1935/2004</td><td>Bedarfsgegenständeverordnung vom 16. Dezember 2016[^annex3-lvlu1-lvl4-4]</td></tr>
+</table>
+
+[^annex3-lvlu1-lvl4-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex3-lvlu1-lvl4-2]: [SR 817.022.13](https://fedlex.data.admin.ch/eli/cc/2017/154)
+[^annex3-lvlu1-lvl4-3]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^annex3-lvlu1-lvl4-4]: [SR 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
+
+Anhang 4*[^t-4]*
+
+[^t-4]: Aufgehoben durch Ziff. II Abs. 1 der V vom 28. Febr. 2007, mit Wirkung seit 1. April 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)).
+
+Anhang 5*[^t-5]*
+
+(Art. 14 Abs. 2 Bst. a)
+
+## Gesuch um Zulassung Z<sub>L</sub> oder Z<sub>nL</sub>
+
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+### 1 Unterlagen über das Produkt und über die Wirkstoffe
+
+Mit dem Zulassungsgesuch müssen der Anmeldestelle eingereicht werden:
+
+- a. die Unterlagen über das Biozidprodukt;
+- b. die Unterlagen über jeden Wirkstoff.
+
+### 2 Anforderungen an die Unterlagen
+
+### 2.1 Allgemeine Bestimmungen
+
+<sup>1</sup> Die Unterlagen werden der Anmeldestelle in Form von technischen Unterlagen vorgelegt.
+
+<sup>2</sup> Die Anforderungen der Anhänge der Verordnung (EU) Nr. 528/2012[^annex5-lvlu1-lvl2-lvl21-1] müssen nach dem neuesten Stand der wissenschaftlichen und technischen Entwicklung erfüllt sein.
+
+[^annex5-lvlu1-lvl2-lvl21-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+### 2.2 Quantitative und qualitative Anforderungen
+
+<sup>1</sup> Die technischen Unterlagen müssen die Informationen nach den folgenden Anhängen der Verordnung (EU) Nr. 528/2012 enthalten:
+
+- a. zum Produkt: nach Anhang III; für Abweichungen von den Datenanforderungen und deren Begründung gilt Anhang IV;
+- b. zu den Wirkstoffen: nach Anhang II; für Abweichungen von den Datenanforderungen gilt Anhang IV.
+
+<sup>2</sup> Wo die Anhänge II und III der Verordnung (EU) Nr. 528/2012 für Einstufung und Kennzeichnung auf weiteres EG-Recht verweisen, gelten die Artikel 35 und 38 der vorliegenden Verordnung.
+
+<sup>3</sup> Erfüllt ein Wirkstoff die Ausschlusskriterien nach Artikel 5 Absatz 1 der Verordnung (EU) Nr. 528/2012, so muss nachgewiesen werden, dass die Ausnahmebestimmungen gemäss Artikel 5 Absatz 2 der Verordnung (EU) Nr. 528/2012 anwendbar sind.
+
+<sup>4</sup> Für Biozidprodukte muss eine Zusammenfassung ihrer Eigenschaften nach Artikel 20 Absatz 1 Buchstabe a Ziffer ii der Verordnung (EU) Nr. 528/2012 vorgelegt werden.
+
+<sup>5</sup> Abgesehen von den Unterlagen nach Artikel 17 Absatz 6 kann die Anmeldestelle von der Gesuchstellerin folgende Unterlagen verlangen:
+
+- a. die Zusammenfassung von Behörden der EU oder der EFTA über die Eigenschaften des Biozidprodukts nach Artikel 22 Absatz 2 der Verordnung (EU) Nr. 528/2012 und den Bewertungsbericht mit den Schlussfolgerungen nach Artikel 30 Absatz 3 der Verordnung (EU) Nr. 528/2012 beziehungsweise, für Wirkstoffe, nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 528/2012, soweit sie der Gesuchstellerin zugänglich sind;
+- b. Verpackungsmuster, Entwürfe zur Kennzeichnung und zu Merkblättern sowie ein Etikettenentwurf.
+
+<sup>6</sup> Die Unterlagen müssen eine detaillierte und vollständige Beschreibung der durchgeführten Untersuchungen und der angewandten Methoden oder einen bibliografischen Verweis auf diese Methoden enthalten.
+
+<sup>7</sup> Sie müssen für eine Bewertung der Wirkungen und Eigenschaften nach Artikel 11 ausreichend sein.
+
+### 2.3 Vorgeschriebene Nachweis- und Bestimmungsmethoden
+
+<sup>1</sup> Nachweise und Bestimmungen sind nach Methoden durchzuführen, die in der Verordnung (EG) Nr. 440/2008[^annex5-lvlu1-lvl2-lvl23-1] beschrieben sind.
+
+<sup>2</sup> Falls eine Methode ungeeignet oder nicht beschrieben ist, sollten möglichst international anerkannte Methoden angewendet werden; diese müssen begründet werden.
+
+<sup>3</sup> Nachweise und Bestimmungen sind, soweit zutreffend, durchzuführen:
+
+- a. in Übereinstimmung mit der Richtlinie 2010/63/EU[^annex5-lvlu1-lvl2-lvl23-2]; und
+- b. unter Einhaltung der Grundsätze und Anforderungen der Guten Laborpraxis nach Artikel 43 Absätze 4 und 5 ChemV[^annex5-lvlu1-lvl2-lvl23-3].
+
+<sup>4</sup> Absatz 3 gilt nicht für Nachweise und Bestimmungen, die vor dem 1. März 2000 begonnen worden sind.
+
+[^annex5-lvlu1-lvl2-lvl23-1]: Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäss der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), ABl. L 142 vom 31.5.2008, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 260/2014, ABl. L 81 vom 19.3.2014, S. 1.
+[^annex5-lvlu1-lvl2-lvl23-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, ABl. L 276 vom 20.10.2010, S. 33.
+[^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+### 2.4 Andere Nachweis- und Bestimmungsmethoden
+
+<sup>1</sup> Sind vor Inkrafttreten dieser Verordnung Nachweis- und Bestimmungsergebnisse durch andere als die in Anhang V der Richtlinie 67/548/EWG[^annex5-lvlu1-lvl2-lvl24-1] vorgesehenen Methoden gewonnen worden, so ist von Fall zu Fall zu entscheiden, ob diese Daten für die Zwecke dieser Verordnung ausreichen oder ob neue Nachweise und Bestimmungen nach der Verordnung (EU) Nr. 440/2008 durchgeführt werden müssen.
+
+<sup>2</sup> Versuche an Wirbeltieren sind so weit wie möglich einzuschränken.
+
+[^annex5-lvlu1-lvl2-lvl24-1]: Siehe Fussnote zu Art. 2 Abs. 2 Bst. a Ziff. 1.
+
+### 3 Zugangsbescheinigung und Verweis
+
+Ist die Anmeldestelle bereits im Besitz der vollständigen Unterlagen nach den Ziffern 1 und 2, so kann die Gesuchstellerin:
+
+- a. eine Zugangsbescheinigung einreichen; oder
+- b. falls die Frist zum Schutz der Daten nach Artikel 28 abgelaufen ist: auf die Unterlagen verweisen.
+
+### 4 Bewertung und Schlussfolgerung eines EU- oder EFTA-Mitgliedstaates
+
+Für ein Biozidprodukt mit einem Wirkstoff, der nicht in der Liste nach Anhang 1 oder 2 oder in der Liste der notifizierten Wirkstoffe aufgeführt ist, kann die Gesuchstellerin die Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 22 Absatz 2 der Verordnung (EU) Nr. 528/2012 sowie den Bewertungsbericht mit den Schlussfolgerungen nach Artikel 30 Absatz 3 der Verordnung (EU) Nr. 528/2012, beziehungsweise, für Wirkstoffe, nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 528/2012 einer zuständigen Behörde eines Mitgliedstaates der EU oder der EFTA beifügen.
+
+Anhang 6*[^t-6]*
+
+(Art. 14 Abs. 2 Bst. b)
+
+## Gesuch um vereinfachte Zulassung
+
+[^t-6]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+<sup>1</sup> Mit dem Gesuch um vereinfachte Zulassung muss der Anmeldestelle der Nachweis erbracht werden, dass die Voraussetzungen für das vereinfachte Zulassungsverfahren nach Artikel 11*h* erfüllt sind.
+
+<sup>2</sup> Für das Biozidprodukt müssen die Unterlagen zusätzlich zu den Angaben nach Absatz 1 folgende Angaben enthalten:
+
+- a. Name und Adresse der Gesuchstellerin;
+- b. Name und Adresse der Herstellerin des Biozidprodukts und der Wirkstoffe;
+- c. Handelsname des Biozidprodukts;
+- d. vollständige Zusammensetzung des Biozidprodukts;
+- e. eine Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 20 Absatz 1 Buchstabe a Ziffer ii der Verordnung (EU) Nr. 528/2012[^annex6-lvlu1-1];
+- f. Angaben zur Wirksamkeit;
+- g. begründete Vorschläge für Einstufung und Kennzeichnung sowie Angaben zur Verpackung nach den Artikeln 35, 36 und 38;
+- h. soweit erforderlich Vorschlag für das Sicherheitsdatenblatt nach Artikel 40.
+
+<sup>3</sup> Die Anmeldestelle kann von der Gesuchstellerin zusätzlich folgende Unterlagen verlangen:
+
+- a. Bewertungsberichte von Behörden der EU oder der EFTA zum Produkt und zu den Wirkstoffen, soweit solche vorhanden sind und sie der Gesuchstellerin zugänglich sind;
+- b. Verpackungsmuster, Entwürfe zur Kennzeichnung und zu Merkblättern sowie einen Etikettenentwurf.
+
+[^annex6-lvlu1-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+Anhang 7*[^t-7]*
+
+(Art. 14 Abs. 2 Bst. c und 14*a*)
+
+## Gesuch um Anerkennung einer Zulassung
+
+[^t-7]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+<sup>1</sup> Mit dem Gesuch um Anerkennung einer Zulassung müssen folgende Unterlagen eingereicht werden:
+
+- a.
+
+  für die Anerkennung einer Zulassung eines EU- oder EFTA-Mitgliedstaates:
+
+  - 1\. eine Kopie der Zulassung des EU- oder EFTA-Mitgliedstaates,
+  - 2\. Bewertungsberichte von Behörden der EU oder der EFTA zur Zulassung des Biozidprodukts, wenn sie der Gesuchstellerin zugänglich sind,
+  - 3\. die Zugangsbescheinigung zu den im Biozidprodukt enthaltenen Wirkstoffen;
+
+- b.
+
+  für die Anerkennung einer Unionszulassung:
+
+  - 1\. eine Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 20 Absatz 1 Buchstabe a Ziffer ii der Verordnung (EU) Nr. 528/2012[^annex7-lvlu1-1],
+  - 2\. die Zugangsbescheinigung zu den im Biozidprodukt enthaltenen Wirkstoffen,
+  - 3\. Bewertungsberichte von Behörden der EU oder der EFTA oder die Stellungnahme der ECHA zur Zulassung des Biozidprodukts, wenn sie der Gesuchstellerin zugänglich sind.
+
+<sup>2</sup> Mit dem Gesuch um zeitlich parallele Anerkennung nach Artikel 34 der Verordnung (EU) Nr. 528/2012 müssen folgende Unterlagen eingereicht werden:
+
+- a. der Name des EU- oder EFTA-Mitgliedstaates, der die erste Bewertung vornimmt (Referenzmitgliedstaat);
+- b. eine Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 20 Absatz 1 Buchstabe a Ziffer ii der Verordnung (EU) Nr. 528/2012;
+- c. die Zugangsbescheinigung zu den im Biozidprodukt enthaltenen Wirkstoffen.
+
+<sup>3</sup> Zusätzlich zu den im Absatz 2 geforderten Unterlagen müssen die folgenden Unterlagen jeweils nach ihrem Erhalt unmittelbar eingereicht werden:
+
+- a. der Entwurf des Bewertungsberichts und der Zusammenfassung der Eigenschaften des Biozidprodukts;
+- b. der endgültige Bewertungsbericht und die Zusammenfassung der Eigenschaften des Biozidprodukts.
+
+<sup>4</sup> Die Anmeldestelle kann von der Gesuchstellerin für das Biozidprodukt und die darin enthaltenen Wirkstoffe die Unterlagen nach den Anhängen II, III und IV der Verordnung (EU) Nr. 528/2012 verlangen.
+
+[^annex7-lvlu1-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+
+Anhang 7<sup>bis</sup>*[^t-8]*
+
+[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2009 ([AS 2009 1759](https://fedlex.data.admin.ch/eli/oc/2009/261)). Aufgehoben durch Ziff. II Abs. 3 der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+Anhang 8*[^t-9]*
+
+(Art. 14 Abs. 2 Bst. d)
+
+## Gesuch um Zulassung Z<sub>N</sub>
+
+[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)) und gemäss Berichtigung vom 17. Nov. 2015 ([AS 2015 4481](https://fedlex.data.admin.ch/eli/oc/2015/745)).
+
+### 1 Unterlagen über die Gesuchstellerin, die Herstellerin und das Produkt
+
+### 1.1 Generell
+
+Die Gesuchsunterlagen müssen folgende Angaben enthalten:
+
+- a. Name und Adresse der Gesuchstellerin;
+- b. Name und Adresse der Herstellerin des Biozidprodukts und der Wirkstoffe;
+- c. Handelsname des Biozidprodukts;
+- d. vollständige Zusammensetzung des Biozidprodukts;
+- e. Auflistung der im Biozidprodukt enthaltenen Wirkstoffe;
+- f. Angaben zu physikalisch-chemischen Eigenschaften, zur Toxikologie und zur Öko-Toxikologie;
+- g. Angaben zu bestimmten Wirkstoffen (Ziff. 2);
+- h. Zuordnung des Biozidprodukts zur Produktart und Verwendungsbereich;
+- i. Verwenderkategorien;
+- j. Vorschläge und Begründung für Einstufung und Kennzeichnung sowie Angaben zur Verpackung nach den Artikeln 35, 36 und 38;
+- k. soweit erforderlich Vorschläge für das Sicherheitsdatenblatt nach Artikel 40;
+- l. Angaben zur Entsorgung;
+- m. für Desinfektions- und Holzschutzmittel: den Nachweis, dass das Biozidprodukt für die vorgesehenen Verwendungszwecke hinreichend wirksam ist.
+
+### 1.2 Zusätzliche Anforderungen
+
+<sup>1</sup> Eine Zulassung Z<sub>N</sub> wird nur erteilt, wenn die Personen, von denen die im Biozidprodukt enthaltenen Wirkstoffe bezogen werden, in der Liste gemäss Artikel 95 Absatz 1 der Verordnung (EU) Nr. 528/2012[^annex8-lvlu1-lvl1-lvl12-1] enthalten sind oder wenn folgende Unterlagen eingereicht werden:
+
+- a. eine Kopie des Entscheids der ECHA über die Aufnahme der Personen, von denen die im Biozidprodukt enthaltenen Wirkstoffe bezogen werden, in die obengenannte Liste;
+- b. Unterlagen nach Anhang II der Verordnung (EU) Nr. 528/2012 oder nach Anhang IIA, IVA und gegebenenfalls IIIA der Richtlinie 98/8/EG[^annex8-lvlu1-lvl1-lvl12-2];
+- c. eine Zugangsbescheinigung für Daten über den Wirkstoff nach Buchstabe b; oder
+- d. eine Bezeichnung der Daten, für welche die Schutzdauer nach Artikel 28 abgelaufen ist.
+
+<sup>2</sup> Für Daten über alte Wirkstoffe, die für die jeweilige Produktart nach Anhang II der Verordnung (EU) Nr. 1062/2014[^annex8-lvlu1-lvl1-lvl12-3] aufgeführt sind, einschliesslich der Daten, die keine Versuche an Wirbeltieren beinhalten, gilt Artikel 29*a*.
+
+<sup>3</sup> Die Absätze 1 und 2 gelten nicht für Biozidprodukte, die Wirkstoffe der Kategorien 1–5 und 7 nach Anhang 1 enthalten.
+
+[^annex8-lvlu1-lvl1-lvl12-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
+[^annex8-lvlu1-lvl1-lvl12-2]: Siehe Fussnote zu Art. 28 Abs. 4.
+[^annex8-lvlu1-lvl1-lvl12-3]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. b.
+
+### 2 Weitere Unterlagen
+
+<sup>1</sup> Die Anmeldestelle kann von der Gesuchstellerin folgende weiteren Unterlagen verlangen:
+
+- a. Versuchsberichte, wissenschaftliche Gutachten oder Publikationen oder andere Unterlagen, die ihre Angaben nach Ziffer 1 belegen;
+- b. Angaben nach Anhang II der Verordnung (EG) Nr. 1896/2000[^annex8-lvlu1-lvl2-1];
+- c. in begründeten Fällen Angaben über die Exposition der Allgemeinheit und des Verwenders oder in der Umwelt;
+- d. Verpackungsmuster, Entwürfe zur Kennzeichnung und zu Merkblättern sowie ein Etikettenentwurf.
+
+<sup>2</sup> Die Unterlagen müssen eine detaillierte und vollständige Beschreibung der durchgeführten Untersuchungen und der angewandten Methoden oder einen bibliografischen Verweis auf diese Methoden enthalten.
+
+[^annex8-lvlu1-lvl2-1]: Verordnung (EG) Nr. 1896/2000 der Kommission vom 7. September 2000 über die erste Phase des Programms gemäss Artikel 16 Absatz 2 der Richtlinie 98/8/EG des Europäischen Parlaments und des Rates über Biozid-Produkte, ABl. L 228 vom 8.9.2000, S. 6; zuletzt geändert durch Verordnung (EG) Nr. 2032/2003, ABl. L 307 vom 24.11.2003, S. 1.
+
+### 3 Nachweis- und Bestimmungsmethoden
+
+### 3.1 Vorgeschriebene Nachweis- und Bestimmungsmethoden
+
+<sup>1</sup> Nachweise und Bestimmungen sind grundsätzlich nach den Methoden durchzuführen, die in der Verordnung (EG) Nr. 440/2008[^annex8-lvlu1-lvl3-lvl31-1] beschrieben sind.
+
+<sup>2</sup> Falls eine Methode ungeeignet oder nicht beschrieben ist, sollten möglichst international anerkannte Methoden angewendet werden; diese müssen begründet werden.
+
+<sup>3</sup> Nachweise und Bestimmungen sind, soweit zutreffend, durchzuführen:
+
+- a. in Übereinstimmung mit der Richtlinie 2010/63/EU[^annex8-lvlu1-lvl3-lvl31-2]; und
+- b. unter Einhaltung der Grundsätze und Anforderungen der Guten Laborpraxis nach Artikel 43 Absätze 4 und 5 ChemV[^annex8-lvlu1-lvl3-lvl31-3].
+
+<sup>4</sup> Absatz 3 gilt nicht für Nachweise und Bestimmungen, die vor dem 1. März 2000 begonnen worden sind.
+
+[^annex8-lvlu1-lvl3-lvl31-1]: Siehe Fussnote zu Anhang 5 Ziff. 2.3 Abs. 1.
+[^annex8-lvlu1-lvl3-lvl31-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, ABl. L 276 vom 20.10.2010, S. 33.
+[^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+
+### 3.2 Andere Nachweis- und Bestimmungsmethoden
+
+<sup>1</sup> Sind vor Inkrafttreten dieser Verordnung Nachweis- und Bestimmungsergebnisse durch andere als die in Anhang V der Richtlinie 67/548/EWG[^annex8-lvlu1-lvl3-lvl32-1] vorgesehenen Methoden gewonnen worden, so ist von Fall zu Fall zu entscheiden, ob diese Daten für die Zwecke dieser Verordnung ausreichen oder ob neue Nachweise und Bestimmungen nach der Verordnung (EG) 440/2008 durchgeführt werden müssen.
+
+<sup>2</sup> Versuche an Wirbeltieren sind so weit wie möglich einzuschränken.
+
+[^annex8-lvlu1-lvl3-lvl32-1]: Siehe Fussnote zu Art. 2 Abs. 2 Bst. a Ziff. 1.
+
+Anhang 8a*[^t-10]*
+
+(Art. 14 Abs. 2 Bst. c)
+
+## Gesuch um Zulassung für den Parallelhandel
+
+[^t-10]: Eingefügt durch Ziff. II Abs. 4 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Fassung gemäss Ziff. II Abs. 2 der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+
+### 1 Unterlagen für Gesuche nach Artikel 7 Absatz 1 Buchstabe j Ziffer 1
+
+- 1\.1
+
+  Das Gesuch um Zulassung für den Parallelhandel nach Artikel 7 Absatz 1 Buchstabe j Ziffer 1 muss die folgenden Informationen enthalten:
+
+  - a. Bezeichnung und Zulassungsnummer des Biozidprodukts im Ursprungsstaat;
+  - b. Name und Adresse der zuständigen Behörde des Ursprungsstaats;
+  - c. Name und Adresse der Inhaberin der Zulassung im Ursprungsstaat;
+  - d. Original der Etikette und der Verwendungsvorschriften, mit denen das Biozidprodukt im Ursprungsstaat in Verkehr gebracht wird, wenn die Anmeldestelle dies für die Prüfung für erforderlich hält;
+  - e. Name und Adresse der Gesuchstellerin;
+  - f. vorgesehene Bezeichnung des Biozidprodukts, das in Verkehr gebracht werden soll;
+  - g. Entwurf der Etikette für das Biozidprodukt, das in Verkehr gebracht werden soll;
+  - h. eine Probe des einzuführenden Biozidprodukts, wenn die Anmeldestelle dies für erforderlich hält;
+  - i. Bezeichnung und Zulassungsnummer des Referenzprodukts.
+
+- 1\.2 Die Anmeldestelle kann eine Übersetzung der wesentlichen Teile der in Ziffer 1.1. Buchstabe d genannten Original-Verwendungsvorschriften verlangen.
+
+### 2 Unterlagen für Gesuche nach Artikel 7 Absatz 1 Buchstabe j Ziffer 2
+
+- 2\.1
+
+  Das Gesuch um Zulassung für den Parallelhandel nach Artikel 7 Absatz 1 Buchstabe j Ziffer 2 muss die folgenden Informationen enthalten:
+
+  - a. die Bezeichnung des Biozidprodukts;
+  - b. die Informationen nach Ziffer 1 Buchstaben d–i.
+
+- 2\.2
+
+  Die Anmeldestelle kann von der Gesuchstellerin verlangen:
+
+  - a. eine Übersetzung der wesentlichen Teile der in Ziffer 1.1 Buchstabe d genannten Original-Verwendungsvorschriften; und
+  - b. zusätzliche Unterlagen zum Nachweis dafür, dass das Biozidprodukt mit dem Referenzprodukt identisch ist.
+
+Anhang 9*[^t-11]*
+
+[^t-11]: Aufgehoben durch Ziff. II Abs. 3 der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+
+Anhang 10*[^t-12]*
+
+(Art. 2 Abs. 1 Bst. b, 4 Abs. 1 und 50 Abs. 3 Bst. a sowie Anhänge 6–8)
+
+## Produktarten
+
+[^t-12]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Bereinigt gemäss Ziff. II der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+### Hauptgruppe 1: Desinfektionsmittel
+
+Diese Produktarten umfassen keine Reinigungsmittel, bei denen eine biozide Wirkung nicht beabsichtigt ist; dies gilt auch für Waschflüssigkeiten, Waschpulver und ähnliche Produkte.
+
+- *Produktart 1:* Biozidprodukte für die menschliche Hygiene
+
+Bei den Produkten dieser Produktart handelt es sich um Biozidprodukte, die für die menschliche Hygiene verwendet und hauptsächlich zum Zwecke der Haut- oder Kopfhautdesinfektion auf die menschliche Haut beziehungsweise Kopfhaut aufgetragen werden oder damit in Berührung kommen.
+
+- *Produktart 2:* Desinfektionsmittel und Algenbekämpfungsmittel, die nicht für eine direkte Anwendung bei Menschen und Tieren bestimmt sind
+- a. Produkte zur Desinfektion von Oberflächen, Stoffen, Einrichtungen und Möbeln, die nicht für eine direkte Berührung mit Lebens- oder Futtermitteln verwendet werden. Die Anwendungsbereiche umfassen unter anderem Schwimmbäder, Aquarien, Badewasser und anderes Wasser, Klimaanlagen sowie Wände und Böden sowohl im privaten als auch im öffentlichen und industriellen Bereich und in anderen für eine berufliche Tätigkeit genutzten Bereichen.
+- b. Produkte zur Desinfektion von Luft, nicht für den menschlichen oder tierischen Gebrauch verwendetem Wasser, chemischen Toiletten, Abwasser, Krankenhausabfall und Erdboden.
+- c. Produkte, die als Algenbekämpfungsmittel für Schwimmbäder, Aquarien und anderes Wasser sowie zur Sanierung von Baumaterial verwendet werden.
+- d. Produkte als Zusatz in Textilien, Geweben, Masken, Farben und anderen Gegenständen oder Stoffen, um behandelte Waren mit Desinfektionseigenschaften herzustellen.
+- *Produktart 3:* Biozidprodukte für die Hygiene im Veterinärbereich
+- a. Produkte für die Hygiene im Veterinärbereich wie Desinfektionsmittel, desinfizierende Seifen, Produkte für Körper- und Mundhygiene oder mit antimikrobieller Funktion.
+- b. Produkte zur Desinfektion von Materialien und Oberflächen im Zusammenhang mit der Unterbringung oder Beförderung von Tieren.
+- *Produktart 4:* Biozidprodukte für den Lebens- und Futtermittelbereich
+- a. Produkte zur Desinfektion von Einrichtungen, Behältern, Besteck und Geschirr, Oberflächen und Leitungen, die im Zusammenhang mit der Herstellung, Beförderung, Lagerung oder dem Verzehr von Lebens- oder Futtermitteln oder von Getränken (einschliesslich Trinkwasser) für Menschen und Tiere Verwendung finden;
+- b. Produkte zur Aufnahmen in Materialien, die mit Lebensmitteln in Berührung kommen können.
+- *Produktart 5:* Trinkwasserdesinfektionsmittel
+
+Produkte zur Desinfektion von Trinkwasser für Menschen und Tiere.
+
+### Hauptgruppe 2: Schutzmittel
+
+Sofern nicht anders angegeben, umfassen diese Produktarten nur Produkte zur Verhütung der Entstehung von Mikroben und Algen.
+
+- *Produktart 6:* Schutzmittel für Produkte während der Lagerung
+- a. Produkte zum Schutz von Fertigerzeugnissen (ausser Lebens- und Futtermitteln, kosmetischen Mitteln, Arzneimitteln oder medizinischen Geräten) in Behältern gegen mikrobielle Schädigung zwecks Verlängerung ihrer Haltbarkeit;
+- b. Produkte zum Schutz von Rodentizid- oder Insektizidködern oder von anderen Ködern bei deren Lagerung oder Verwendung.
+- *Produktart 7:* Beschichtungsschutzmittel
+
+Produkte zum Schutz von Beschichtungen oder Überzügen gegen mikrobielle Schädigung oder Algenwachstum zwecks Erhaltung der ursprünglichen Oberflächeneigenschaften von Stoffen oder Gegenständen wie Farben, Kunststoffen, Dichtungs- und Klebkitten, Bindemitteln, Einbänden, Papieren und künstlerischen Werken.
+
+- *Produktart 8:* Holzschutzmittel
+
+Produkte zum Schutz von Holz, ab dem Einschnitt im Sägewerk, oder Holzerzeugnissen gegen Befall durch holzzerstörende oder die Holzqualität beeinträchtigende Organismen, einschliesslich Insekten.
+
+Diese Produktart umfasst sowohl Präventivprodukte als auch Kurativprodukte.
+
+- *Produktart 9:* Schutzmittel für Fasern, Leder, Gummi und polymerisierte Materialien
+- a. Produkte zum Schutz von fasrigen oder polymerisierten Materialien wie Leder, Gummi, Papier und Textilerzeugnissen gegen mikrobielle Schädigung.
+- b. Diese Produktart umfasst Stoffe, die der Ansiedlung von Mikroorganismen auf der Oberfläche von Materialien entgegenwirken und somit die Entwicklung von Gerüchen hemmen oder vermeiden oder Vorteile anderer Art mit sich bringen.
+- *Produktart 10:* Schutzmittel für Baumaterialien
+
+Produkte zum Schutz von Mauerwerk, Verbundwerkstoffen oder anderen Baumaterialien ausser Holz gegen Befall durch Schadmikroorganismen und Algen.
+
+- *Produktart 11:* Schutzmittel für Flüssigkeiten in Kühl- und Verfahrenssystemen
+
+Produkte zum Schutz von Wasser und anderen Flüssigkeiten in Kühl- und Verfahrenssystemen gegen Befall durch Schadorganismen wie z. B. Mikroben, Algen und Muscheln. Diese Produktart umfasst nicht Produkte zur Desinfektion von Trinkwasser oder von Wasser für Schwimmbäder.
+
+- *Produktart 12:* Schleimbekämpfungsmittel
+
+Produkte zur Verhinderung oder Bekämpfung der Schleimbildung auf Materialien, Einrichtungen und Gegenständen, die in industriellen Verfahren Anwendung finden, z. B. auf Holz oder Papiermasse sowie auf porösen Sandschichten bei der Ölförderung.
+
+- *Produktart 13:* Schutzmittel für Bearbeitungs- und Schneideflüssigkeiten
+
+Schutzmittel gegen mikrobielle Schädigung in Flüssigkeiten, die zur Bearbeitung oder zum Schneiden von Metall, Glas oder anderer Materialien verwendet werden.
+
+### Hauptgruppe 3: Schädlingsbekämpfungsmittel
+
+- *Produktart 14:* Rodentizide
+
+Produkte zur Bekämpfung von Mäusen, Ratten und anderen Nagetieren durch andere Mittel als Fernhaltung oder Köderung.
+
+- *Produktart 15:* Avizide
+
+Produkte zur Bekämpfung von Vögeln durch andere Mittel als Fernhaltung oder Köderung.
+
+- *Produktart 16:* Bekämpfungsmittel gegen Mollusken und Würmer und Produkte gegen andere Wirbellose
+
+Produkte, die nicht unter andere Produktarten fallen, zur Bekämpfung von Mollusken, Würmern und Wirbellosen durch andere Mittel als Fernhaltung oder Köderung.
+
+- *Produktart 17:* Fischbekämpfungsmittel
+
+Produkte zur Bekämpfung von Fischen durch andere Mittel als Fernhaltung oder Köderung.
+
+- *Produktart 18:* Insektizide, Akarizide und Produkte gegen andere Arthropoden
+
+Produkte zur Bekämpfung von Arthropoden (z. B. Insekten, Spinnentiere und Schalentiere) durch andere Mittel als Fernhaltung oder Köderung.
+
+- *Produktart 19:* Repellentien und Lockmittel
+
+Produkte zur Fernhaltung oder Köderung von Schadorganismen (wirbellose Tiere wie z. B. Flöhe, Wirbeltiere wie z. B. Vögel, Fische und Nagetiere); hierzu gehören auch Produkte, die entweder unmittelbar oder mittelbar für die menschliche Hygiene oder die Hygiene im Veterinärbereich entweder direkt auf der Haut oder indirekt in der Umgebung von Menschen oder Tieren verwendet werden.
+
+- *Produktart 20:* Produkte gegen sonstige Wirbeltiere
+
+Produkte zur Bekämpfung anderer als der Wirbeltiere, die bereits unter die anderen Produktarten dieser Hauptgruppe fallen, durch andere Mittel als Fernhaltung oder Köderung.
+
+### Hauptgruppe 4: Sonstige Biozidprodukte
+
+- *Produktart 21:* Antifouling-Produkte
+
+Produkte zur Bekämpfung des Wachstums und der Ansiedlung von bewuchsbildenden Organismen (Mikroben und höhere Pflanzen- und Tierarten) an Wasserfahrzeugen, an Ausrüstung für die Aquakultur und an anderen im Wasser eingesetzten Bauten.
+
+- *Produktart 22:* Flüssigkeiten für Einbalsamierung und Taxidermie
+
+Produkte zur Desinfektion und Konservierung von Leichen oder Tierkadavern oder von Teilen davon.

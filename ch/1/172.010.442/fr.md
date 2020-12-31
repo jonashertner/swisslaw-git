@@ -1,0 +1,214 @@
+---
+sr: "172.010.442"
+title: Ordonnance du 22 février 2012 sur le traitement des données personnelles et des données des personnes morales lors de l’utilisation de l’infrastructure électronique de la Confédération (OTUIC)
+short: OTUIC
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/160"
+language: fr
+version: 2021-01-01
+adopted: 2012-02-22
+in_force: 2012-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/160/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-160-20210101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/160/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le traitement des données personnelles liées à l’utilisation de l’infrastructure électronique de la Confédération
+
+du 22 février 2012 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 57*q*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## Section 1 Définitions
+
+#### Art. 1
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *données administrées:* les données personnelles qui sont enregistrées lors de l’utilisation de l’infrastructure électronique de la Confédération et qui sont régulièrement utilisées, analysées ou effacées volontairement;
+- b. *données non administrées:* les données personnelles qui sont enregistrées lors de l’utilisation de l’infrastructure électronique de la Confédération mais qui ne sont pas ou qui ne sont pas régulièrement utilisées, analysées ou effacées volontairement;
+- c. *exploitant du système:* le service chargé de la gestion technique de l’infrastructure électronique de la Confédération.
+
+## Section 2 Droit d’accès, conservation et destruction
+
+#### Art. 2
+
+**Droit d’accès aux données**
+
+<sup>1</sup>
+
+Seuls ont droit d’accéder aux données administrées:
+
+- a. l’exploitant du système;
+- b. les services désignés par les directives de l’organe fédéral concernant la protection des données.
+
+<sup>2</sup> Seul l’organe fédéral qui utilise les appareils sur lesquels les données non administrées sont enregistrées a droit d’accéder à ces données.
+
+#### Art. 3
+
+**Conservation sécurisée des données**[^3-1]
+
+Les données doivent être conservées de manière sécurisée conformément aux dispositions de l’ordonnance du 27 mai 2020 sur les cyberrisques[^3-2].
+
+[^3-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^3-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+
+#### Art. 4
+
+**Durée de conservation et destruction des données administrées**
+
+<sup>1</sup>
+
+Lorsque les finalités de l’analyse l’exigent, les données administrées peuvent être conservées:
+
+- a. pour les données visées à l’art. 57*l*, let. a, LOGA: jusqu’à l’archivage par les Archives fédérales des informations qui sont à leur source, mais deux ans au plus si elles ne sont pas reprises par les Archives fédérales;
+- b. pour les données résultant de l’utilisation de l’infrastructure électronique (art. 57*l*, let. b, LOGA): deux ans au plus;
+- c. pour les données concernant le temps de travail du personnel (art. 57*l*, let. c, LOGA): cinq ans au plus;
+- d. pour les données concernant la présence des personnes dans les locaux de l’organe fédéral ainsi que les entrées et les sorties (art. 57*l*, let. d, LOGA): trois ans au plus.
+
+<sup>2</sup> Elles doivent être détruites au plus tard trois mois après la fin de l’analyse ou après le terme du délai de conservation prévu à l’al. 1.
+
+<sup>3</sup> Dans des cas particuliers, le Conseil fédéral peut décider de prolonger la durée de conservation de certaines catégories de données résultant de l’utilisation de l’infrastructure électronique (al. 1, let. b) pour assurer la sécurité des informations et des prestations.
+
+#### Art. 5
+
+**Durée de conservation et destruction des données non administrées**
+
+<sup>1</sup> La durée de conservation des données non administrées dépend de la capacité de mémoire de l’appareil considéré, à moins qu’il ne soit techniquement possible de les détruire rapidement et automatiquement après leur utilisation.
+
+<sup>2</sup> L’organe fédéral doit détruire les données non administrées de manière irréversible au plus tard lorsque l’appareil sur lequel elles sont enregistrées est cédé ou éliminé.
+
+#### Art. 6
+
+**Service responsable de la conservation et de la destruction**
+
+La responsabilité de la conservation sécurisée des données et de leur destruction dans les délais incombe:
+
+- a. pour les données administrées: à l’exploitant du système et au service désigné par le schéma directeur de l’organe fédéral concernant la protection des données;
+- b. pour les données non administrées: à l’organe fédéral qui utilise l’appareil sur lequel elles sont enregistrées.
+
+#### Art. 7
+
+**Traitement lié à des travaux techniques**
+
+<sup>1</sup> Les personnes chargées de travaux techniques tels que la maintenance et la gestion de l’infrastructure électronique ne peuvent traiter les données que si l’accomplissement de ces travaux l’exige.
+
+<sup>2</sup> La conservation sécurisée des données, leur protection contre les accès illicites et leur confidentialité doivent être préservées.
+
+## Section 3 Conditions régissant les analyses
+
+#### Art. 8
+
+**Analyses ne se rapportant pas aux personnes**
+
+### (art. 57*m* LOGA)
+
+<sup>1</sup> L’exploitant du système et le service désigné par le schéma directeur de l’organe fédéral peuvent, dans les buts prévus par la loi, procéder de leur propre chef à des analyses ne se rapportant pas aux personnes de données administrées.
+
+<sup>2</sup> Ces analyses peuvent être effectuées sans limite de temps ni de contenu.
+
+<sup>3</sup> L’organe fédéral peut, dans les buts prévus par la loi, procéder lui-même ou charger des tiers de procéder à des analyses ne se rapportant pas aux personnes de données non administrées.
+
+#### Art. 9
+
+**Analyses non nominales se rapportant aux personnes**
+
+### (art. 57*n* LOGA)
+
+<sup>1</sup> L’exploitant du système et le service désigné par le schéma directeur de l’organe fédéral concernant la protection des données peuvent, dans les buts prévus par la loi, procéder de leur propre chef aux analyses non nominales se rapportant aux personnes de données administrées. Ces analyses peuvent aussi être ordonnées par l’organe fédéral.
+
+<sup>2</sup> L’organe fédéral peut, dans les buts prévus par la loi, procéder lui-même ou charger des tiers de procéder à des analyses non nominales se rapportant aux personnes de données non administrées.
+
+#### Art. 10
+
+**Mandats d’analyses nominales se rapportant aux personnes en cas d’utilisation abusive ou de soupçon d’utilisation abusive**
+
+### (art. 57*o*, al. 1, let. a, LOGA)
+
+<sup>1</sup> En cas d’utilisation abusive ou de soupçon d’utilisation abusive, l’organe fédéral pour lequel travaille l’utilisateur de l’infrastructure électronique procède lui-même ou charge des tiers de procéder à l’analyse nominale se rapportant à cette personne de données administrées ou non administrées. Il y a abus lorsque l’utilisation de l’infrastructure électronique enfreint les prescriptions de l’organe fédéral ou de la législation par sa nature, son ampleur ou sa fréquence.
+
+<sup>2</sup> Si la personne concernée ne consent pas à l’analyse, le chef de l’organe fédéral doit l’autoriser.
+
+<sup>3</sup> Si l’organe fédéral qui a donné le mandat d’analyse dispose d’un préposé à la protection des données, celui-ci doit recevoir une copie du mandat.
+
+#### Art. 11
+
+**Déroulement des analyses nominales se rapportant aux personnes en cas d’utilisation abusive ou de soupçon d’utilisation abusive**
+
+### (art. 57*o*, al. 1, let. a, LOGA)
+
+<sup>1</sup>
+
+L’organe fédéral chargé de l’analyse nominale se rapportant à une personne vérifie au préalable:
+
+- a. que le soupçon concret d’utilisation abusive est motivé par écrit de manière suffisante ou que l’utilisation abusive est prouvée, et
+- b. que la personne concernée a été informée par écrit de l’existence d’un soupçon concret ou de la preuve d’une utilisation abusive.
+
+<sup>2</sup> Si l’organe fédéral chargé de l’analyse nominale se rapportant à une personne refuse d’y procéder parce qu’il estime que les conditions mentionnées à l’al. 1 ne sont pas remplies, l’organe fédéral qui a donné le mandat peut demander l’avis du Préposé fédéral à la protection des données et à la transparence.
+
+<sup>3</sup> Si l’organe fédéral procède lui-même à une analyse nominale se rapportant à des personnes dans son domaine, il en informe le conseiller à la protection des données de son département.
+
+<sup>4</sup> L’analyse nominale se rapportant à une personne de données non administrées doit avoir lieu dans les délais fixés à l’art. 4, al. 1, si la personne concernée ne consent pas à l’analyse.
+
+#### Art. 12
+
+**Analyses nominales se rapportant aux personnes en vue d’éliminer des perturbations**
+
+### (art. 57*o*, al. 1, let. b, LOGA)
+
+<sup>1</sup> L’exploitant du système et le service désigné par le schéma directeur de l’organe fédéral concernant la protection des données peuvent procéder de leur propre chef à une analyse nominale se rapportant à une personne des données administrées afin de remédier à des perturbations ou de parer à une menace concrète.
+
+<sup>2</sup>
+
+Ils sont uniquement autorisés à procéder à cette analyse si elle est nécessaire pour rechercher la cause de la perturbation ou de la menace ou pour y remédier, en particulier:
+
+- a. si l’utilisation de l’infrastructure électronique est impossible ou fortement restreinte en raison d’un défaut ou d’une panne ou parce que les utilisateurs la sollicitent de manière inhabituelle, ou
+- b. si l’infrastructure électronique ou les données de la Confédération risquent d’être endommagées de manière imminente (diffusion de programmes malveillants).
+
+<sup>3</sup> L’organe fédéral peut, aux mêmes conditions, procéder lui-même ou charger des tiers de procéder à une analyse nominale se rapportant à une personne des données non administrées.
+
+#### Art. 13
+
+**Analyses nominales se rapportant aux personnes concernant les prestations et le temps de travail individuel**
+
+### (art. 57*o*, al. 1, let. c à e, LOGA)
+
+L’organe fédéral peut procéder lui-même ou charger des tiers de procéder à une analyse nominale se rapportant à une personne des données administrées dans les buts suivants:
+
+- a. pour fournir des prestations indispensables;
+- b. pour saisir les prestations effectuées par les prestataires techniques et les facturer;
+- c. pour contrôler le temps de travail d’un utilisateur qui travaille pour lui.
+
+#### Art. 14
+
+**Droit des utilisateurs à une analyse**
+
+Les utilisateurs de l’infrastructure électronique de la Confédération n’ont aucun droit à une analyse de leurs données personnelles au sens de la présente ordonnance.
+
+## Section 4 Résultats des analyses
+
+#### Art. 15
+
+**Information sur les résultats des analyses**
+
+<sup>1</sup> L’exploitant du système présente les résultats de l’analyse à l’organe fédéral qui lui a donné le mandat.
+
+<sup>2</sup> En cas d’analyse nominale se rapportant à une personne pour utilisation abusive ou pour soupçon d’utilisation abusive, l’organe fédéral qui a donné le mandat informe la personne concernée des résultats.
+
+#### Art. 16
+
+**Conservation et destruction des résultats des analyses**
+
+Le service chargé de l’analyse conserve les résultats de manière sécurisée conformément aux directives du Conseil de l’informatique de la Confédération et les détruit au plus tard après une année.
+
+## Section 5 Entrée en vigueur
+
+#### Art. 17
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2012.

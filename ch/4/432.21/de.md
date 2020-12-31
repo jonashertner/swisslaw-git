@@ -1,0 +1,224 @@
+---
+sr: "432.21"
+title: "Bundesgesetz vom 18. Dezember 1992 über die Schweizerische Nationalbibliothek (Nationalbibliotheksgesetz, NBibG)"
+short: NBibG
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
+language: de
+version: 2012-01-01
+adopted: 1992-12-18
+in_force: 1993-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20120101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20120101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die Schweizerische Nationalbibliothek****
+
+(Nationalbibliotheksgesetz, NBibG)[^t-1]
+
+vom 18. Dezember 1992 (Stand am 1. Januar 2012)
+
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 1992[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: [BBl 1992 II 1441](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
+
+## 1. Abschnitt: Gegenstand
+
+#### Art. 1
+
+Dieses Gesetz regelt die Aufgaben und die Organisation der Schweizerischen Nationalbibliothek (Nationalbibliothek).
+
+## 2. Abschnitt: Tätigkeit der Nationalbibliothek
+
+#### Art. 2
+
+**Aufgabe**
+
+<sup>1</sup> Die Nationalbibliothek hat zur Aufgabe, gedruckte oder auf anderen Informationsträgern gespeicherte Informationen, die einen Bezug zur Schweiz haben, zu sammeln, zu erschliessen, zu erhalten und zu vermitteln.
+
+<sup>2</sup> Sie verzeichnet öffentlich zugängliche Datensammlungen, die einen Bezug zur Schweiz aufweisen.
+
+<sup>3</sup> Sie trägt zur Entwicklung des nationalen und internationalen Bibliothekswesens bei.
+
+#### Art. 3
+
+**Sammelauftrag**
+
+<sup>1</sup>
+
+Die Nationalbibliothek sammelt gedruckte oder auf anderen Informationsträgern gespeicherte Informationen, die:
+
+- a. in der Schweiz erscheinen;
+- b. sich auf die Schweiz oder auf Personen mit schweizerischem Bürgerrecht oder Wohnsitz beziehen oder
+- c. von schweizerischen oder mit der Schweiz verbundenen Autoren oder Autorinnen geschaffen oder mitgestaltet wurden.
+
+<sup>2</sup> Die Nationalbibliothek arbeitet bei der Erfüllung ihres Sammelauftrags mit den Verbänden der Verleger oder Verlegerinnen und der Hersteller oder Herstellerinnen zusammen. Sie schliesst mit diesen nach Möglichkeit Vereinbarungen ab, um den Erwerb der Druckwerke und der anderen Informationsträger sicherzustellen.
+
+#### Art. 4
+
+**Umschreibung des Sammelauftrags**
+
+<sup>1</sup> Der Bundesrat umschreibt den Sammelauftrag der Nationalbibliothek im Einzelnen und passt ihn neuen Entwicklungen an.
+
+<sup>2</sup>
+
+Er kann Druckwerke und andere Informationsträger vom Sammelauftrag ausschliessen, soweit sie:
+
+- a. von einer anderen Institution gesammelt und öffentlich zugänglich gemacht werden;
+- b. für die Schweiz von geringer Bedeutung sind;
+- c. nur für einen beschränkten Kreis von Personen oder vorwiegend für private Zwecke bestimmt sind.
+
+#### Art. 5
+
+**Zugang zu den Sammlungen**
+
+Die Nationalbibliothek ermöglicht ihrem Publikum, insbesondere mit den Lesesälen und der Ausleihe, einen benutzerfreundlichen Zugang zu ihren Sammlungen.
+
+#### Art. 6
+
+**Schweizerisches Literaturarchiv**
+
+<sup>1</sup> Die Nationalbibliothek führt das Schweizerische Literaturarchiv.
+
+<sup>2</sup> Das Schweizerische Literaturarchiv hat zur Aufgabe, die Nachlässe und die persönlichen Archive von schweizerischen oder mit der Schweiz verbundenen Personen, deren Werk für die Kultur und das Geistesleben des Landes von Bedeutung ist, zu erwerben, zu sammeln, zu erschliessen und zu vermitteln.
+
+#### Art. 7
+
+**Verzeichnung von Datensammlungen**
+
+Die Nationalbibliothek verzeichnet die öffentlich zugänglichen Datensammlungen, die:
+
+- a. in der Schweiz betrieben werden;
+- b. im Ausland betrieben werden und Daten enthalten, die für die Schweiz von besonderer Bedeutung sind.
+
+#### Art. 8
+
+**Dienstleistungen**
+
+Die Nationalbibliothek erbringt Dienstleistungen im Bereich der Informationsvermittlung. Sie kann Dokumentationsaufträge sowie Forschungsaufträge im Bereich des Bibliothekswesens übernehmen.
+
+#### Art. 8a
+
+**Gewerbliche Leistungen**[^8a-1]
+
+<sup>1</sup>
+
+Die Nationalbibliothek kann Dritten gewerbliche Leistungen erbringen, wenn diese Leistungen:
+
+- a. mit den Hauptaufgaben in einem engen Zusammenhang stehen;
+- b. die Erfüllung der Hauptaufgaben nicht beeinträchtigen; und
+- c. keine bedeutenden zusätzlichen sachlichen und personellen Mittel erfordern.
+
+<sup>2</sup> Gewerbliche Leistungen sind auf der Grundlage einer Kosten- und Leistungsrechnung zu mindestens kostendeckenden Preisen zu erbringen. Das Departement des Innern kann für bestimmte Leistungen Ausnahmen zulassen, wenn dadurch die Privatwirtschaft nicht konkurrenziert wird.
+
+[^8a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+#### Art. 9
+
+**Weitere Tätigkeiten**
+
+Der Bundesrat kann die Nationalbibliothek im Rahmen ihrer Aufgaben mit weiteren Tätigkeiten beauftragen.
+
+#### Art. 10
+
+**Zusammenarbeit und Koordination**
+
+<sup>1</sup> Die Nationalbibliothek arbeitet mit anderen schweizerischen und ausländischen Institutionen, die ähnliche Aufgaben erfüllen, zusammen; sie berücksichtigt dabei insbesondere Institutionen, die im Bereich der Audiovision und anderer neuartiger Informationsträger tätig sind.
+
+<sup>2</sup> Sie strebt eine Arbeitsteilung an.
+
+<sup>3</sup> Sie stellt in enger Zusammenarbeit mit andern grossen öffentlichen Bibliotheken die Koordination sicher, namentlich im Bereich der Bibliotheksautomatisierung.
+
+## 3. Abschnitt: Gebühren
+
+#### Art. 11
+
+<sup>1</sup> Die Nationalbibliothek kann für ihre Leistungen Gebühren erheben.
+
+<sup>2</sup> Der Bundesrat bestimmt Gegenstand und Höhe der Gebühren.
+
+## 4. Abschnitt: Finanzhilfen und Verhältnis zu andern Institutionen
+
+#### Art. 12
+
+**Finanzhilfen**
+
+<sup>1</sup>
+
+Der Bund kann Finanzhilfen ausrichten an öffentliche Institutionen der Kantone und Gemeinden, die mit der Nationalbibliothek zusammenarbeiten und:
+
+- a. …[^12-1]
+- b. bedeutende Bestände an Druckwerken oder anderen Informationsträgern, die unter den Sammelauftrag fallen, besitzen und weitersammeln.
+
+<sup>2</sup> Die Finanzhilfen können mit der Bedingung verbunden werden, dass die mit Hilfe des Bundes erworbenen oder hergestellten gedruckten oder auf anderen Informationsträgern gespeicherten Informationen öffentlich zugänglich gemacht werden.
+
+<sup>3</sup> Finanzhilfen können auch durch einen Leistungsvertrag im Sinne von Artikel 16 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^12-2] gewährt werden.[^12-3]
+
+[^12-1]: Aufgehoben durch Anhang Ziff. II 1 des Kulturförderungsgesetzes vom 11. Dez. 2009, mit Wirkung seit 1. Jan 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^12-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^12-3]: Eingefügt durch Anhang Ziff. II 1 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+
+#### Art. 13
+
+**Angliederung**
+
+<sup>1</sup> Der Bund kann ausnahmsweise Institutionen auf ihr Ersuchen übernehmen und der Nationalbibliothek angliedern, welche bedeutende Sammlungen von Druckwerken oder anderen Informationsträgern besitzen, die unter den Sammelauftrag fallen.
+
+<sup>2</sup> Der Bundesrat entscheidet über die Übernahme.
+
+## 5. Abschnitt: Kommission
+
+#### Art. 14
+
+<sup>1</sup> Der Bundesrat wählt eine Kommission der Schweizerischen Nationalbibliothek mit neun Mitgliedern.
+
+<sup>2</sup>
+
+Die Kommission:
+
+- a. …[^14-1]
+- b. verfolgt die Entwicklung des Bibliothekswesens;
+- c. kann dem Departement des Innern Anträge zu Fragen des Bibliothekswesens stellen;
+- d. nimmt Stellung zu Erlassentwürfen, welche die Tätigkeit der Nationalbibliothek betreffen oder beeinflussen;
+- e. fördert die Zusammenarbeit im Bibliothekswesen.
+
+<sup>3</sup> Sie muss vor wichtigen Entscheidungen in Fragen des Bibliothekswesens angehört werden.
+
+[^14-1]: Aufgehoben durch Ziff. II 21 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+## 6. Abschnitt: Schlussbestimmungen
+
+#### Art. 15
+
+**Vollzug**
+
+<sup>1</sup> Der Bundesrat vollzieht dieses Gesetz. Er erlässt die Ausführungsbestimmungen.
+
+<sup>2</sup> Er kann Vereinbarungen über die internationale Zusammenarbeit im Tätigkeitsbereich der Nationalbibliothek abschliessen.
+
+#### Art. 16
+
+**Aufhebung bisherigen Rechts**
+
+Das Bundesgesetz vom 29. September 1911[^16-1] betreffend die Schweizerische Nationalbibliothek wird aufgehoben.
+
+[^16-1]: [BS **4** 185 195 Art. 3 Abs. 2]
+
+#### Art. 17
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: 1 Juni 1993[^17-1]
+
+[^17-1]: BRB vom 21. Mai 1993

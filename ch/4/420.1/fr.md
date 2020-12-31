@@ -1,0 +1,1093 @@
+---
+sr: "420.1"
+title: "Loi fédérale du 14 décembre 2012 sur l'encouragement de la recherche et de l'innovation (LERI)"
+short: LERI
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
+language: fr
+version: 2020-01-01
+adopted: 2012-12-14
+in_force: 2014-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur l’encouragement de la recherche et de l’innovation
+
+(LERI)
+
+du 14 décembre 2012 (Etat le 1<sup>er</sup> janvier 2020)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 64, al. 1 et 3, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 9 novembre 2011[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2011 8089](https://fedlex.data.admin.ch/eli/fga/2011/1544)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Buts**
+
+Par la présente loi, la Confédération poursuit les buts suivants:
+
+- a. encourager la recherche scientifique;
+- b. encourager l’innovation fondée sur la science;
+- c. soutenir l’exploitation et la mise en valeur des résultats de la recherche;
+- d. veiller à la coordination des organes de recherche;
+- e. assurer l’utilisation rationnelle et efficace des fonds affectés à la recherche scientifique et à l’innovation fondée sur la science.
+
+#### Art. 2
+
+**Définitions**
+
+Dans la présente loi, on entend par:
+
+- a.
+
+  *recherche scientifique (recherche):* la recherche méthodique de connaissances nouvelles; elle englobe notamment:
+
+  - 1\. *la recherche fondamentale:* recherche dont la première finalité est l’acquisition de connaissances,
+  - 2\. *la recherche orientée vers les applications:* recherche dont la première finalité est de contribuer à la solution de problèmes liés à la pratique;
+
+- b. *innovation fondée sur la science (innovation):* le développement de nouveaux produits, procédés, processus et services pour l’économie et la société au moyen de la recherche, en particulier celle orientée vers les applications, et la mise en valeur de ses résultats.
+
+#### Art. 3
+
+**Champ d’application**
+
+La présente loi s’applique aux organes de recherche dans la mesure où ils utilisent des moyens fournis par la Confédération pour leurs activités de recherche et d’innovation.
+
+#### Art. 4
+
+**Organes de recherche**
+
+Les organes de recherche au sens de la présente loi sont:
+
+- a.
+
+  les institutions ci-après chargées d’encourager la recherche:
+
+  - 1\. le Fonds national suisse de la recherche scientifique (FNS),
+  - 2\.
+
+    l’association Académies suisses des sciences, comprenant:
+
+    - – l’Académie suisse des sciences naturelles (SCNAT)
+    - – l’Académie suisse des sciences humaines et sociales (ASSH)
+    - – l’Académie suisse des sciences médicales (ASSM)
+    - – l’Académie suisse des sciences techniques (ASST);
+
+- b.[^4-1] l’Agence suisse pour l’encouragement de l’innovation (Innosuisse) au sens de la loi du 17 juin 2016 sur Innosuisse[^4-2];
+- c.
+
+  les établissements de recherche du domaine des hautes écoles ci-après:
+
+  - 1\. les écoles polytechniques fédérales (EPF) et les établissements de recherche du domaine des EPF,
+  - 2\. les hautes écoles et les autres institutions du domaine des hautes écoles accréditées en vertu de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^4-3] (LEHE),
+  - 3\. les établissements de recherche d’importance nationale soutenus par la Confédération en vertu de la présente loi (art. 15);
+
+- d.
+
+  l’administration fédérale, dans la mesure où elle remplit l’une des conditions suivantes:
+
+  - 1\. elle fait de la recherche dans le cadre de l’exécution de ses tâches (recherche de l’administration),
+  - 2\. elle assume des tâches en matière d’encouragement de la recherche et de l’innovation.
+
+[^4-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^4-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+
+#### Art. 5
+
+**Établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles**
+
+Les établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles sont les institutions de droit privé ou public qui ne sont pas des organes de recherche au sens de l’art. 4, dont le but est de faire de la recherche et qui remplissent les conditions suivantes:
+
+- a. leur activité de recherche ne génère aucun avantage lucratif pour leurs responsables ou leurs propriétaires;
+- b. leur recherche est comparable en niveau et en qualité à celle des établissements de recherche du domaine des hautes écoles.
+
+#### Art. 6
+
+**Principes et tâches**
+
+<sup>1</sup>
+
+Dans la planification des activités financées par la Confédération, les organes de recherche veillent au respect des principes suivants:
+
+- a. la liberté de la recherche, la qualité scientifique de la recherche et de l’innovation et la diversité des opinions et des méthodes scientifiques;
+- b. la liberté de l’enseignement et le lien étroit entre l’enseignement et la recherche;
+- c. l’intégrité scientifique et les bonnes pratiques scientifiques.
+
+<sup>2</sup>
+
+Dans l’accomplissement de leurs tâches, les organes de recherche encouragent:
+
+- a. la relève scientifique;
+- b. l’égalité des chances et l’égalité de fait entre hommes et femmes.
+
+<sup>3</sup>
+
+Dans l’accomplissement de leurs tâches, les organes de recherche tiennent compte en outre des éléments suivants:
+
+- a. le développement durable de la société, de l’économie et de l’environnement;
+- b. les activités des autres organes de recherche et de la Confédération en matière de coopération internationale.
+
+<sup>4</sup> Dans le cadre de l’encouragement de l’innovation, ils veillent en outre à l’apport de celle-ci en matière de compétitivité, de valeur ajoutée et d’emploi en Suisse.
+
+## Chapitre 2 Encouragement
+
+### Section 1 Tâches et compétences de la Confédération
+
+#### Art. 7
+
+**Tâches**
+
+<sup>1</sup>
+
+La Confédération encourage comme suit la recherche et l’innovation conformément à la présente loi et aux lois spéciales:
+
+- a. elle gère les deux EPF et les établissements de recherche du domaine des EPF;
+- b. elle alloue des contributions en vertu de la LEHE[^7-1];
+- c. elle alloue des contributions aux institutions chargées d’encourager la recherche;
+- d. elle alloue des contributions à des établissements de recherche d’importance nationale;
+- e. elle développe la recherche de l’administration, notamment en instituant et en gérant des établissements fédéraux de recherche;
+- f.[^7-2] elle exploite Innosuisse et prend d’autres mesures en matière d’encouragement de l’innovation;
+- g.[^7-3] elle assume des tâches de coopération internationale dans le domaine de la recherche et de l’innovation.
+
+<sup>2</sup> Afin d’asseoir la position de la Suisse en tant que pôle de recherche et d’innovation, la Confédération peut soutenir la création d’un parc suisse d’innovation.
+
+<sup>3</sup> Le Conseil fédéral peut charger les institutions chargées d’encourager la recherche ainsi qu’Innosuisse d’exécuter seules ou conjointement des programmes d’encouragement thématiques.[^7-4]
+
+<sup>4</sup> Il peut confier aux institutions chargées d’encourager la recherche et à Innosuisse des tâches de coopération internationale dont l’exécution requiert leurs compétences spécifiques.[^7-5]
+
+[^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^7-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^7-4]: Nouvelle teneur selon le ch. II de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^7-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 8
+
+**Conventions de prestations**
+
+<sup>1</sup> Le Conseil fédéral peut conclure des conventions de prestations avec des organes de recherche extérieurs à l’administration fédérale et avec d’autres bénéficiaires de contributions au sens de la présente loi.
+
+<sup>2</sup> Il peut déléguer cette compétence au Département fédéral de l’économie, de la formation et de la recherche (DEFR) ou à l’unité administrative compétente.
+
+### Section 2 Tâches, principes d’encouragement et contributions des institutions chargées d’encourager la recherche
+
+#### Art. 9
+
+**Tâches et principes d’encouragement généraux**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche assument des tâches qu’il est judicieux de réaliser dans un cadre d’autonomie scientifique.
+
+<sup>2</sup> Elles encouragent des activités de recherche qui ne visent pas directement des buts commerciaux.
+
+<sup>3</sup> Elles édictent les dispositions nécessaires à l’encouragement de la recherche dans leurs statuts et règlements. Ceux-ci doivent être approuvés par le Conseil fédéral lorsqu’ils règlent des tâches pour lesquelles des moyens de la Confédération sont utilisés. Les institutions chargées d’encourager la recherche peuvent déléguer à des organes subordonnés l’édiction de dispositions d’exécution de portée mineure sur les statuts et règlements soumis à approbation. Ces dispositions sont exemptées de l’approbation du Conseil fédéral.[^9-1]
+
+<sup>4</sup> Les institutions chargées d’encourager la recherche accordent un poids particulier à l’encouragement de la recherche fondamentale.
+
+<sup>5</sup>
+
+Elles encouragent la recherche menée par des établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles aux conditions suivantes:
+
+- a. l’indépendance scientifique des personnes chargées de la recherche est garantie;
+- b. la recherche est utile à la formation et à la formation continue de la relève scientifique;
+- c. les résultats de la recherche sont mis à la disposition de la communauté scientifique.
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 10
+
+**Fonds national suisse de la recherche scientifique**
+
+<sup>1</sup> Le Fonds national suisse de la recherche scientifique (FNS) est l’organe de la Confédération chargé d’encourager la recherche scientifique dans toutes les disciplines représentées dans les établissements de recherche du domaine des hautes écoles.
+
+<sup>2</sup>
+
+Le FNS utilise les contributions qui lui sont allouées par la Confédération notamment dans les buts suivants:
+
+- a. encourager la recherche dans le cadre des instruments qu’il a définis;
+- b. participer aux programmes d’encouragement et aux projets de recherche en réseau de son choix à l’échelle nationale et internationale;
+- c. exécuter sur mandat du Conseil fédéral les programmes d’encouragement à l’échelle nationale définis par ce dernier, notamment les programmes nationaux de recherche et les pôles de recherche nationaux;
+- d. assurer sur mandat du Conseil fédéral la participation de la Suisse à des programmes internationaux définis par ce dernier;
+- e. soutenir des mesures d’exploitation et de mise en valeur de résultats issus des recherches qu’il a soutenues.
+
+<sup>3</sup>
+
+Dans le cadre des tâches et des compétences qui lui sont confiées, le FNS détermine les instruments appropriés et la forme d’encouragement. Il encourage principalement:
+
+- a. les projets de recherche d’excellence;
+- b. une relève scientifique hautement qualifiée;
+- c. les infrastructures de recherche qui servent le développement de domaines scientifiques en Suisse et ne relèvent pas de la compétence des établissements de recherche du domaine des hautes écoles ou de la Confédération;
+- d. la coopération internationale en matière de recherche compte tenu des objectifs et des mesures de la Confédération.
+
+<sup>4</sup> Dans le cadre de ses activités d’encouragement, le FNS alloue des contributions aux établissements de recherche du domaine des hautes écoles et à des établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles afin de compenser les coûts de recherche indirects (*overhead*) qu’ils encourent. Le Conseil fédéral règle les principes de calcul.
+
+<sup>5</sup> Le FNS participe aux procédures qui précèdent les décisions relatives aux programmes nationaux de recherche, aux pôles de recherche nationaux et autres programmes de recherche qui lui sont confiés.
+
+<sup>6</sup> Il peut utiliser une part de la contribution fédérale à la constitution de réserves afin d’assurer la continuité de son encouragement de la recherche. Dans le compte annuel, le total des réserves ne doit pas dépasser 10 % de la contribution fédérale versée pour l’année concernée.
+
+<sup>7</sup> Le Secrétariat d’état à la formation, à la recherche et à l’innovation (SEFRI) conclut périodiquement une convention de prestations avec le FNS, fondée sur les arrêtés financiers de l’Assemblée fédérale. La convention précise également les tâches supplémentaires qui lui sont confiées par le Conseil fédéral.
+
+#### Art. 11
+
+**Académies suisses des sciences**
+
+<sup>1</sup> L’association Académies suisses des sciences est l’organe d’encouragement de la Confédération chargé de renforcer la coopération dans toutes les disciplines scientifiques et entre ces dernières et d’ancrer la science dans la société.
+
+<sup>2</sup>
+
+Elle utilise les contributions fédérales qui lui sont allouées notamment dans les buts suivants:
+
+- a. assurer et encourager la reconnaissance précoce de thèmes importants pour la société dans les domaines de la formation, de la recherche et de l’innovation;
+- b. renforcer l’exercice d’une responsabilité fondée sur l’éthique dans l’acquisition et l’application des connaissances scientifiques;
+- c. contribuer au dialogue entre science et société et promouvoir des études sur les chances et les risques liés aux innovations et aux technologies.
+
+<sup>3</sup> Les académies coordonnent leurs activités d’encouragement dans le cadre de l’association et assurent notamment la coopération avec les établissements de recherche du domaine des hautes écoles.
+
+<sup>4</sup> Elles encouragent la coopération de scientifiques et d’experts dans des sociétés savantes, des commissions et d’autres formes d’organisation appropriées, et utilisent cette coopération dans la réalisation de leurs tâches.
+
+<sup>5</sup> Les académies soutiennent la coopération scientifique internationale en encourageant ou en gérant des structures appropriées, notamment des plateformes nationales de coordination et des secrétariats scientifiques de programmes coordonnés sur le plan international et auxquels la Suisse participe.
+
+<sup>6</sup> Elles peuvent soutenir des bases de données, des systèmes de documentation, des revues scientifiques, des éditions ou des structures analogues qui constituent des infrastructures de recherche utiles au développement de domaines scientifiques en Suisse et qui ne relèvent pas de la compétence du FNS ou des établissements de recherche du domaine des hautes écoles en matière d’encouragement ni ne sont soutenus directement par la Confédération.
+
+<sup>7</sup> Le SEFRI conclut périodiquement une convention de prestations avec l’association Académies suisses des sciences, fondée sur les arrêtés financiers de l’Assemblée fédérale. Il peut y charger l’association et des académies de la réalisation d’évaluations, de la conduite de projets scientifiques, de l’exploitation de structures au sens de l’al. 6 et d’autres tâches spéciales dans le cadre des tâches qui leur incombent en vertu des al. 1 à 4.
+
+#### Art. 12
+
+**Intégrité scientifique et bonnes pratiques scientifiques; sanctions**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche veillent à ce que les recherches qu’elles soutiennent soient menées selon les règles de l’intégrité scientifique et de bonnes pratiques scientifiques.
+
+<sup>2</sup> En cas de soupçon fondé de violation de ces règles, elles peuvent, dans le cadre de leurs procédures d’encouragement et de contrôle, demander des informations aux institutions ou aux personnes suisses ou étrangères concernées et transmettre des informations à de telles institutions ou personnes.
+
+<sup>3</sup>
+
+Les institutions chargées d’encourager la recherche prévoient des sanctions administratives dans leur règlement en cas d’infraction à l’intégrité scientifique et aux bonnes pratiques scientifiques en rapport avec l’acquisition ou l’utilisation de leurs contributions. Elles peuvent prévoir une ou plusieurs des sanctions ci-après:
+
+- a. le blâme écrit;
+- b. l’avertissement écrit;
+- c. la diminution, le gel ou la restitution des contributions;
+- d. l’exclusion temporaire de la procédure de soumission des requêtes.
+
+<sup>4</sup> Les institutions chargées d’encourager la recherche peuvent porter les infractions et les sanctions à la connaissance de l’institution qui emploie la personne concernée.
+
+<sup>5</sup> Les infractions au sens des art. 37 ou 38 de la loi du 5 octobre 1990 sur les subventions[^12-1] commises dans le domaine de l’encouragement de la recherche sont poursuivies par le SEFRI selon les dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^12-2].
+
+[^12-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^12-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 13
+
+**Procédure et voies de recours**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche fixent chacune leur procédure régissant les décisions relatives aux contributions. Cette procédure doit répondre aux exigences des art. 10 et 26 à 38 de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^13-1].
+
+<sup>2</sup> En cas de procédure d’encouragement transfrontière, l’art. 11*b* PA s’applique à la notification de décisions à des requérants à l’étranger.
+
+<sup>3</sup>
+
+Le requérant peut former un recours:
+
+- a. pour violation du droit fédéral, y compris l’excès et l’abus du pouvoir d’appréciation;
+- b. pour constatation inexacte ou incomplète des faits pertinents.
+
+<sup>4</sup> Les noms des rapporteurs et des experts scientifiques ne peuvent être communiqués au recourant qu’avec leur accord.
+
+<sup>5</sup> Au surplus, la procédure de recours est régie par les dispositions générales de la procédure fédérale.
+
+[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+### Section 3 Recherche et encouragement de la recherche de l’administration
+
+#### Art. 14
+
+**Réserve en faveur des lois spéciales**
+
+Les activités de l’administration fédérale en matière de recherche ou d’encouragement de la recherche sont régies par la présente loi; les dispositions de lois spéciales relatives à la recherche de l’administration sont réservées.
+
+#### Art. 15
+
+**Contributions en faveur d’établissements de recherche d’importance nationale**
+
+<sup>1</sup> Le Conseil fédéral peut, dans la limite des crédits ouverts, allouer des contributions à des établissements de recherche d’importance nationale. Il peut lier la contribution fédérale à des conditions, notamment à la réorganisation ou au regroupement d’établissements de recherche.
+
+<sup>2</sup> Le Conseil fédéral peut déléguer la compétence décisionnelle en matière de contributions au DEFR. Les règles de compétence fixées par les lois spéciales sont réservées.
+
+<sup>3</sup>
+
+Les établissements de recherche visés à l’al. 1 peuvent être des établissements juridiquement autonomes des catégories suivantes:
+
+- a. infrastructures de recherche à but non lucratif établies en dehors des hautes écoles ou associées à des hautes écoles, en particulier des services scientifiques auxiliaires dans le domaine de l’information et de la documentation scientifiques et techniques;
+- b. institutions de recherche à but non lucratif établies en dehors des hautes écoles ou associées à des hautes écoles;
+- c. centres de compétences technologiques collaborant avec des hautes écoles et des entreprises sur une base non lucrative.
+
+<sup>4</sup>
+
+Pour bénéficier de contributions, les établissements de recherche doivent remplir les conditions suivantes:
+
+- a. accomplir des tâches d’importance nationale qu’il n’est pas judicieux de faire réaliser par des hautes écoles ou d’autres institutions existantes du domaine des hautes écoles;
+- b. obtenir un soutien significatif de cantons, d’autres collectivités publiques, de hautes écoles ou du secteur privé.
+
+<sup>5</sup>
+
+Le montant de la contribution fédérale représente:
+
+- a. pour les infrastructures de recherche, une part maximale de 50 % des charges globales d’investissement et d’exploitation; la contribution est complémentaire du soutien de cantons, d’autres collectivités publiques, de hautes écoles et du secteur privé;
+- b. pour les institutions de recherche, une part maximale de 50 % du financement de base (charges globales d’investissement et d’exploitation, déduction faite des moyens de recherche obtenus par voie de concours et des mandats); la contribution est au plus égale à la somme des contributions de cantons, d’autres collectivités publiques, de hautes écoles et du secteur privé;
+- c. pour les centres de compétences technologiques, une part maximale de 50 % du financement de base (charges globales d’investissement et d’exploitation, déduction faite des moyens de recherche obtenus par voie de concours); la contribution est au plus égale à la somme des contributions versées par des entreprises dans le cadre de coopérations de recherche et de développement et des contributions de cantons, d’autres collectivités publiques, de hautes écoles et du secteur privé.
+
+<sup>6</sup> Le Conseil fédéral précise les critères de calcul visés à l’al. 5. Pour les centres de compétences technologiques qui développent un nouveau domaine d’activité, il peut prévoir un régime particulier, limité dans le temps, en ce qui concerne le revenu déterminant provenant des moyens de recherche obtenus par voie de concours.
+
+<sup>7</sup> Les autres organes de recherche, la Conférence suisse des hautes écoles ou le Conseil des EPF sont préalablement consultés lorsque les mesures de soutien touchent des tâches qui leur incombent.
+
+#### Art. 16
+
+**Recherche de l’administration**
+
+<sup>1</sup> La recherche de l’administration est celle que l’administration fédérale initie et dont elle a besoin pour obtenir les résultats nécessaires à l’exécution de ses tâches.
+
+<sup>2</sup>
+
+La recherche de l’administration peut comprendre les mesures suivantes:
+
+- a. exploitation d’établissements fédéraux de recherche;
+- b. allocation de contributions à des établissements de recherche du domaine des hautes écoles pour la réalisation de programmes de recherche;
+- c. réalisation de ses propres programmes de recherche, notamment en collaboration avec des établissements de recherche du domaine des hautes écoles, des institutions chargées d’encourager la recherche, Innosuisse[^16-1] et d’autres organismes d’encouragement;
+- d. octroi de mandats de recherche (recherche contractuelle).
+
+<sup>3</sup> Les institutions de la recherche de l’administration qui, sans être des établissements fédéraux de recherche, doivent mener, en complément des mesures visées à l’al. 2, leurs propres projets de recherche pour exécuter leurs tâches de manière judicieuse peuvent également participer à des concours auprès d’Innosuisse ou auprès d’autres organismes d’encouragement nationaux ou internationaux dans le but d’obtenir des fonds ou participer par voie de concours à des programmes de tels organismes.[^16-2]
+
+<sup>4</sup> La recherche de l’administration est soumise aux principes définis à l’art. 6, al. 1, let. a et c, 3 et 4.
+
+<sup>5</sup> Les départements sont compétents en matière de recherche dans leur domaine d’activité respectif.
+
+<sup>6</sup> Dans le cadre des mesures visées à l’al. 2, let. b et c, les unités administratives compétentes allouent des contributions pour compenser les frais indirects de recherche (*overhead*) encourus. Le Conseil fédéral règle les principes de calcul.
+
+<sup>7</sup> Les dispositions sur le financement visées à la section 8 ne s’appliquent pas à la recherche de l’administration.
+
+[^16-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+[^16-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 17
+
+**Établissements fédéraux de recherche**
+
+<sup>1</sup> La Confédération peut, par voie de réglementation dans des lois spéciales, reprendre entièrement ou partiellement des établissements de recherche ou en créer.
+
+<sup>2</sup> Les établissements fédéraux de recherche doivent être supprimés lorsqu’ils ne répondent plus à un besoin ou lorsque leurs tâches peuvent être assumées, à qualité comparable, avec plus d’efficacité par des établissements de recherche du domaine des hautes écoles.
+
+<sup>3</sup> Le Conseil fédéral veille à ce que les établissements fédéraux de recherche soient organisés de manière judicieuse.
+
+<sup>4</sup> Il peut déléguer les compétences décisionnelles visées à l’al. 3 au département compétent. Les règles de compétence fixées par les lois spéciales sont réservées.
+
+<sup>5</sup> Les autres organes de recherche, la Conférence suisse des hautes écoles ou le Conseil des EPF sont préalablement consultés lorsque les mesures visées aux al. 1 et 2 touchent des tâches qui leur incombent.
+
+<sup>6</sup> Les établissements fédéraux de recherche peuvent participer à des concours auprès d’Innosuisse ou auprès d’autres organismes d’encouragement nationaux ou internationaux dans le but d’obtenir des fonds ou participer par voie de concours à des programmes de tels organismes.[^17-1]
+
+[^17-1]: Introduit par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+### Section 4 Encouragement de l’innovation
+
+#### Art. 18
+
+**Tâches de la Confédération**
+
+<sup>1</sup> La Confédération peut encourager des projets d’innovation.
+
+<sup>2</sup>
+
+Elle peut également soutenir:
+
+- a. les mesures visant à promouvoir l’entrepreneuriat fondé sur la science;
+- b. les mesures en faveur de la création et du développement d’entreprises dont les activités sont fondées sur la science;
+- c. la mise en valeur du savoir et le transfert de savoir et de technologie entre les hautes écoles, les entreprises et la société;
+- d.[^18-1] la relève dans le domaine de l’innovation.
+
+<sup>3</sup> La Confédération élabore les bases de l’encouragement de l’innovation.
+
+<sup>4</sup> Elle assure l’évaluation de ses activités en matière d’encouragement.
+
+[^18-1]: Introduite par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 19
+
+**Encouragement de projets d’innovation**
+
+<sup>1</sup> En tant qu’organisme fédéral d’encouragement de l’innovation fondée sur la science au sens de la loi du 17 juin 2016 sur Innosuisse[^19-1], Innosuisse encourage des projets d’innovation en allouant des contributions à des établissements de recherche du domaine des hautes écoles et à des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles.[^19-2]
+
+<sup>2</sup>
+
+Les contributions sont uniquement accordées si les conditions suivantes sont remplies:
+
+- a. le projet est mené conjointement avec un ou plusieurs partenaires privés ou publics chargés de la mise en valeur;
+- b. une mise en valeur efficace des résultats de la recherche en faveur de l’économie et de la société peut être escomptée;
+- c. le projet ne peut vraisemblablement pas être réalisé sans l’encouragement de la Confédération;
+- d.
+
+  les partenaires chargés de la mise en valeur participent pour moitié au financement du projet; le Conseil fédéral peut prévoir des exceptions à cette règle de financement, notamment pour:
+
+  - 1\. les projets dont les chances de succès sont supérieures à la moyenne,
+  - 2\. les projets dont les résultats sont susceptibles d’intéresser un large cercle d’utilisateurs;
+
+- e. le projet contribue à la formation axée sur la pratique de la relève scientifique.
+
+<sup>3</sup> Innosuisse peut encourager des études de faisabilité ainsi que la réalisation de prototypes et de dispositifs pilotes sans qu’il y ait de partenaire chargé de la mise en valeur s’ils sont réalisés par des établissements de recherche du domaine des hautes écoles ou des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et que leur potentiel d’innovation est important.[^19-3]
+
+<sup>4</sup> Innosuisse peut en outre prévoir des instruments permettant de participer aux coûts d’études destinées à évaluer si les projets des entreprises peuvent être mis en œuvre de manière efficace.[^19-4]
+
+<sup>5</sup> Elle encourage tout particulièrement les projets visés aux al. 1 et 3 qui contribuent à l’utilisation durable des ressources.[^19-5]
+
+<sup>6</sup> Les projets encouragés doivent respecter les principes de l’intégrité scientifique et des bonnes pratiques scientifiques. Les sanctions et l’obligation d’informer au sens de l’art. 12, al. 2 à 4, s’appliquent aux infractions.
+
+[^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^19-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 20
+
+**Autres mesures de soutien**
+
+<sup>1</sup>
+
+Innosuisse peut soutenir l’entrepreneuriat fondé sur la science en prenant les mesures suivantes:[^20-1]
+
+- a.[^20-2] sensibilisation et formation des personnes qui souhaitent créer une entreprise ou qui viennent d’en créer une ou qui veulent en reprendre une;
+- b. mise en place d’offres d’information et de conseil.
+
+<sup>2</sup>
+
+Elle peut soutenir la création et le développement d’entreprises dont les activités sont fondées sur la science en prenant les mesures suivantes:[^20-3]
+
+- a. encadrement, conseil et suivi des jeunes entrepreneurs;
+- b. assistance dans la recherche de sources de financement;
+- c. mise en place d’offres d’information et de conseil.
+
+<sup>3</sup> Elle peut soutenir la mise en valeur du savoir et le transfert de savoir et de technologie, notamment en encourageant l’échange d’informations entre les hautes écoles et les entreprises.[^20-4]
+
+[^20-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 21
+
+**Contributions pour l’encadrement, le conseil, le suivi et le conseil en innovation**[^21-1]
+
+<sup>1</sup> En ce qui concerne l’encadrement, le conseil et le suivi au sens de l’art. 20, al. 2, let. a, ainsi que l’encouragement de l’échange d’informations entre les hautes écoles et les entreprises sous la forme du conseil en innovation au sens de l’art. 20, al. 3, seules sont indemnisées les prestations de fournisseurs de prestation qui se sont qualifiés dans une procédure de sélection d’Innosuisse.
+
+<sup>2</sup> Innosuisse tient un registre public des fournisseurs de prestation qualifiés.
+
+<sup>3</sup>
+
+Les contributions sont versées:
+
+- a. aux jeunes entrepreneurs ou à leurs jeunes entreprises, pour financer l’encadrement, le conseil et le suivi (art. 20, al. 2, let. a);
+- b. aux entreprises, pour financer le conseil en innovation (art. 20, al. 3).
+
+<sup>4</sup> Les prestations soutenues par Innosuisse ainsi que le montant maximal disponible à cet effet sont déterminés dans un contrat passé avec les bénéficiaires des contributions visés à l’al. 3. Dans les cas simples, la contribution est accordée par voie de décision.
+
+[^21-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 22
+
+**Encouragement de la relève**[^22-1]
+
+<sup>1</sup> Innosuisse peut encourager la relève hautement qualifiée dans le domaine de l’innovation sous la forme de bourses ou de prêts sans intérêt.
+
+<sup>2</sup>
+
+Les contributions visées à l’al. 1 sont allouées dans le cadre d’un programme d’encouragement personnalisé défini par Innosuisse. Ce programme prévoit un séjour:
+
+- a. dans une entreprise dont les activités sont fondées sur la science dans le but d’acquérir des compétences pratiques, ou
+- b. dans un établissement de recherche au sens des art. 4, let. c, ou 5 dans le but d’approfondir les compétences en recherche appliquée.
+
+<sup>3</sup> Les contributions visées à l’al. 1 sont allouées uniquement si le programme visé à l’al. 2 ne peut pas être réalisé dans le cadre d’un projet d’innovation au sens de l’art. 19 ou comme mesure au sens de l’art. 20.
+
+<sup>4</sup> La durée maximale du séjour visé à l’al. 2 est de 3 ans.
+
+<sup>5</sup> Le montant des bourses, la participation financière des entreprises ainsi que les modalités de remboursement des prêts sans intérêt sont fixés dans l’ordonnance sur les contributions d’Innosuisse.
+
+[^22-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018, al. 5 depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 23
+
+**Compensation des coûts de recherche indirects**[^23-1]
+
+<sup>1</sup> Dans le cadre de ses activités d’encouragement, Innosuisse alloue des contributions aux établissements de recherche du domaine des hautes écoles et aux établissements de recherche à but non lucratif situés en-dehors du domaine des hautes écoles afin de compenser les coûts de recherche indirects (*overhead*).
+
+<sup>2</sup> Le Conseil fédéral arrête les principes du calcul des contributions.
+
+[^23-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 24
+
+**Applicabilité de la loi sur les subventions**[^24-1]
+
+La loi du 5 octobre 1990 sur les subventions[^24-2] est applicable à l’encouragement de l’innovation par Innosuisse.
+
+[^24-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^24-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+#### Art. 25
+
+**Poursuite pénale**
+
+Les infractions au sens de l’art. 37 ou 38 de la loi du 5 octobre 1990 sur les subventions[^25-1] commises dans le domaine de l’encouragement de l’innovation sont sanctionnées par le DEFR conformément aux dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^25-2].
+
+[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### Section 5 Compétence du Conseil fédéral d’édicter des conditions d’encouragement supplémentaires
+
+#### Art. 26
+
+**Respect de l’intégrité scientifique et des bonnes pratiques scientifiques**
+
+<sup>1</sup>
+
+Le Conseil fédéral peut lier l’octroi d’une aide financière aux établissements de recherche du domaine des hautes écoles aux conditions suivantes:
+
+- a. ils prennent des mesures pour assurer la qualité de la recherche soutenue financièrement par la Confédération;
+- b. ils édictent des directives qui obligent les chercheurs de leur institution à respecter les règles d’intégrité scientifique et les bonnes pratiques scientifiques;
+- c. ils peuvent prendre des mesures en cas d’infraction à ces règles et disposent des procédures requises à cet effet.
+
+<sup>2</sup>
+
+Les établissements prennent des mesures en particulier pour les cas suivants:
+
+- a. utilisation des résultats d’une recherche menée par des tiers sans mention de la source;
+- b. utilisation de résultats, de données ou de rapports de recherche inventés, contrefaits ou falsifiés par une présentation volontairement contraire à la réalité;
+- c. autres formes d’infraction grave aux règles d’intégrité scientifique ou aux bonnes pratiques scientifiques.
+
+#### Art. 27
+
+**Mise en valeur des résultats de recherches**
+
+<sup>1</sup> Le Conseil fédéral peut lier l’octroi d’une aide financière à un établissement de recherche du domaine des hautes écoles à la condition qu’il présente, pour ses activités de recherche et d’innovation, une stratégie en vue de la mise en valeur du savoir et du transfert de savoir et de technologie entre les hautes écoles et les entreprises.
+
+<sup>2</sup>
+
+Le Conseil fédéral peut par ailleurs lier l’octroi d’une aide financière à un établissement de recherche du domaine des hautes-écoles à une ou plusieurs des conditions suivantes:
+
+- a. la propriété intellectuelle ou la possession des droits sur les résultats de la recherche financée grâce à cette aide sont transférées à l’établissement qui emploie le bénéficiaire;
+- b. l’établissement prend les mesures propres à encourager la mise en valeur des résultats de la recherche, notamment leur exploitation commerciale, et à garantir aux inventeurs une part équitable des revenus générés;
+- c. le partenaire chargé de la recherche et le partenaire chargé de la mise en valeur présentent une réglementation concernant la propriété intellectuelle et la titularité des droits.
+
+<sup>3</sup> Si un établissement ne prend pas les mesures prévues à l’al. 2, let. b, les inventeurs peuvent exiger d’être réinvestis de la propriété intellectuelle ou de la titularité des droits.
+
+### Section 6 Coopération internationale en matière de recherche et d’innovation
+
+#### Art. 28
+
+**Objectifs, tâches et compétences**
+
+<sup>1</sup> La Confédération encourage la coopération internationale de la Suisse en matière de recherche et d’innovation, aussi bien dans l’intérêt du développement de la Suisse en tant que pôle de recherche et d’innovation et du développement des hautes écoles suisses, que dans l’intérêt de l’économie, de la société et de l’environnement.
+
+<sup>2</sup>
+
+Elle peut, dans le cadre des objectifs supérieurs de la politique internationale de la Suisse en matière de recherche et d’innovation, encourager les activités suivantes:
+
+- a. la participation de la Suisse à la mise en place et à l’exploitation d’installations de recherche internationales et d’infrastructures de recherche coordonnées sur le plan international;
+- b. la participation de la Suisse à des programmes et des projets internationaux d’encouragement de la recherche et de l’innovation;
+- c. la participation de la Suisse à la conception, la planification, la réalisation, la mise en œuvre et l’évaluation d’activités d’encouragement au sein d’organisations et d’organes internationaux;
+- d. les autres formes de coopération bilatérale et multilatérale en matière de recherche et d’innovation.
+
+#### Art. 29
+
+**Contributions et mesures**
+
+<sup>1</sup>
+
+Dans la limite des crédits ouverts, le Conseil fédéral peut allouer les contributions et prendre les mesures suivantes:
+
+- a. contributions à des programmes et des projets de recherche et de technologie qui permettent ou facilitent la participation de la Suisse à des expériences et des projets d’organisations et de programmes internationaux ou l’utilisation par la Suisse d’installations de recherche internationales;
+- b. contributions à des établissements de recherche du domaine des hautes écoles et à des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles afin de permettre ou de faciliter la participation de la Suisse à des expériences ou des projets d’organisations et de programmes internationaux;
+- c. contributions à des établissements de recherche du domaine des hautes écoles au titre de la coopération bilatérale ou multilatérale dans le domaine de la recherche, en dehors de programmes et d’organisations internationaux; le Conseil fédéral peut exiger en contrepartie que les bénéficiaires fournissent des prestations appropriées qui répondent aux intérêts de la politique internationale de la Suisse en matière de recherche et d’innovation;
+- d.[^29-1] contributions à des entreprises suisses pour l’élaboration de propositions de projets en vue de la participation aux programmes-cadres de recherche de l’Union européenne;
+- e.[^29-2] contributions à des entreprises suisses pour encourager leur participation aux programmes-cadres de recherche de l’Union européenne et à des initiatives et programmes cofinancés par ces programmes-cadres, dans la mesure où la participation suppose que les entreprises reçoivent des contributions de l’État;
+- f.[^29-3]
+
+  contributions à des institutions et organisations sans but lucratif pour les activités suivantes, dans la mesure où celles-ci ne sont pas exercées par la Confédération elle-même:
+
+  - 1\. diffusion d’informations relatives aux activités et aux programmes de coopération scientifique internationale en matière de recherche et d’innovation dans les milieux intéressés en Suisse,
+  - 2\. conseil et soutien aux milieux intéressés en Suisse pour l’élaboration et le dépôt des requêtes dans le cadre de programmes et de projets internationaux en matière de recherche et d’innovation;
+
+- g.[^29-4] …
+
+<sup>2</sup> Le Conseil fédéral règle le calcul des contributions et la procédure.
+
+[^29-1]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-2]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-3]: Anciennement let. d. Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-4]: Anciennement let. e. Abrogée par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 30
+
+**Mandats au FNS**
+
+Le Conseil fédéral peut charger le FNS d’accomplir, dans le cadre de ses tâches et de ses compétences techniques, notamment les tâches suivantes:
+
+- a. représentation des intérêts suisses dans des organes internationaux chargés de la conception et de la planification de programmes internationaux d’encouragement auxquels la Suisse participe;
+- b. examen de requêtes dans le cadre de programmes auxquels la Suisse participe;
+- c. mise en œuvre de mesures nationales d’encouragement destinées à soutenir des mesures d’encouragement de la Confédération sur le plan international;
+- d. conclusion de conventions avec des organisations d’encouragement de la recherche d’autres pays dans le cadre des tâches qui lui sont déléguées.
+
+#### Art. 31
+
+**Conclusion d’accords internationaux par le Conseil fédéral**
+
+<sup>1</sup> Le Conseil fédéral peut conclure des accords internationaux concernant la coopération internationale dans le domaine de la recherche et de l’innovation.
+
+<sup>2</sup>
+
+Dans le cadre de ces accords, il peut également régler:
+
+- a. le contrôle des finances et l’audit;
+- b. les contrôles de sécurité relatifs aux personnes;
+- c. la protection et l’attribution de la propriété intellectuelle créée ou nécessaire dans le cadre de la coopération scientifique;
+- d. la participation de la Confédération à des entités juridiques de droit public ou privé;
+- e. l’adhésion à des organisations internationales;
+- f. les activités de contrôle exercées par des représentants d’États tiers et par des organisations internationales auprès d’établissements de recherche du domaine des hautes écoles et d’autres institutions de recherche privées ou publiques concernées en Suisse.
+
+<sup>3</sup> Les organes de recherche concernés, la Conférence suisse des hautes écoles ou le Conseil des EPF sont préalablement consultés lorsqu’un accord au sens de l’al. 1 touche des tâches qui leur incombent.
+
+### Section 7 Parc suisse d’innovation
+
+#### Art. 32
+
+**Soutien de la Confédération: conditions**
+
+<sup>1</sup>
+
+La Confédération peut soutenir la création d’un parc suisse d’innovation si celui-ci satisfait aux conditions suivantes:
+
+- a. il répond à un intérêt national supérieur et contribue à la compétitivité, à la gestion efficace des ressources et au développement durable;
+- b. il est localisé dès le début sur plusieurs sites qui forment un réseau et collaborent avec les hautes écoles, dans le respect de l’équilibre entre les régions;
+- c. il ne peut pas être réalisé dans le cadre de l’encouragement ordinaire au sens de l’art. 7, al. 1;
+- d. il complète judicieusement l’encouragement ordinaire au sens des sections 2 et 4;
+- e. il contribue efficacement à la mise en réseau des activités d’innovation en Suisse sur le plan des institutions et des régions.
+
+<sup>2</sup> L’Assemblée fédérale autorise par voie d’arrêté fédéral simple le soutien de la Confédération en faveur d’un parc suisse d’innovation.
+
+#### Art. 33
+
+**Mesures de soutien et conditions afférentes**
+
+<sup>1</sup>
+
+Le soutien de la Confédération au parc suisse d’innovation peut prendre les formes suivantes:
+
+- a. la vente de bien-fonds appropriés appartenant à la Confédération;
+- b. la cession de bien-fonds appropriés de la Confédération en droit de superficie sans renonciation aux rentes des droits de superficie;
+- c. la cession de bien-fonds appropriés de la Confédération en droit de superficie avec renonciation temporaire aux rentes des droits de superficie;
+- d. l’acquisition de bien-fonds appartenant à des tiers;
+- e. une combinaison des mesures prévues aux let. a à d;
+- f. d’autres mesures nécessaires au succès des parcs d’innovation qui ne peuvent pas être réalisées dans le cadre de l’encouragement ordinaire au sens de l’art. 7, al. 1, notamment des prêts sans intérêts de durée limitée ou d’autres instruments de financement appropriés.
+
+<sup>2</sup>
+
+Le soutien peut être accordé aux conditions suivantes:
+
+- a. à l’adoption de l’arrêté fédéral visé à l’art. 32, al. 2, l’affectation des biens-fonds est entièrement compatible avec les exigences en matière de gestion territoriale et de planification des zones relatives à l’affectation des biens-fonds;
+- b. la mise en place du parc d’innovation est confiée à une institution de droit privé ou public portée par un large partenariat national et comprenant la participation de plusieurs cantons et d’entreprises privées; sa création prend effet au plus tard à l’adoption de l’arrêté fédéral;
+- c.
+
+  l’institution responsable de la mise en place du parc d’innovation apporte notamment les garanties suivantes:
+
+  - 1\. une mise en place orientée sur le long terme et une exploitation assurée du parc d’innovation,
+  - 2\. le respect des dispositions légales s’appliquant aux investisseurs publics et privés en matière de droit des constructions et des soumissions,
+  - 3\. une structure d’organisation et de direction claire adaptée à son statut juridique, qui satisfasse aux principes auxquels sont soumis les établissements publics en matière de présentation des comptes, de contrôle financier et de présentation de rapports à l’intention des entités responsables,
+  - 4\. une réglementation prévoyant la participation du Conseil des EPF, d’institutions du domaines des EPF et d’autres hautes écoles intéressées aux décisions portant sur des objets qui concernent leurs tâches et leurs intérêts.
+
+<sup>3</sup> Le parc suisse d’innovation est érigé sur plusieurs sites. Les institutions responsables des différents sites peuvent prévoir différents partenariats au sens de l’al. 2, let. b. Les conditions visées à l’al. 2, let. c, s’appliquent à chacune de ces institutions. Par ailleurs, les institutions responsables des différents sites doivent garantir une mise en réseau suffisante des sites.
+
+#### Art. 34
+
+**Contrat de droit public**
+
+<sup>1</sup> Le Conseil fédéral conclut un contrat de droit public avec l’institution responsable au sens de l’art. 33, al. 2, let. b, en se fondant sur l’arrêté fédéral visé à l’art. 32, al. 2.
+
+<sup>2</sup>
+
+Ce contrat règle notamment les points suivants:
+
+- a. l’affectation de chaque mesure de soutien de la Confédération;
+- b. le montant et la périodicité des remboursements à la Confédération des revenus dégagés par l’institution;
+- c. les modalités de la restitution du soutien à la Confédération au cas où le but n’est pas atteint.
+
+### Section 8 Financement
+
+#### Art. 35
+
+**Proposition du Conseil fédéral**
+
+<sup>1</sup>
+
+Le Conseil fédéral soumet à l’Assemblée fédérale:
+
+- a. périodiquement, un message relatif à l’encouragement de la formation, de la recherche et de l’innovation (message FRI);
+- b. au besoin, d’autres messages spécifiques relatifs à l’encouragement de la recherche et de l’innovation.
+
+<sup>2</sup> Dans ses messages, le Conseil fédéral propose à l’Assemblée fédérale d’adopter les arrêtés financiers nécessaires.
+
+#### Art. 36
+
+**Ouverture des crédits**
+
+L’Assemblée fédérale adopte les arrêtés fédéraux simples ouvrant les plafonds de dépenses et crédits d’engagements pluriannuels suivants:
+
+- a. le plafond de dépenses des contributions destinées aux institutions chargées d’encourager la recherche;
+- b. le plafond de dépenses des contributions destinées aux établissements de recherche d’importance nationale;
+- c.[^36-1] le plafond de dépenses pour l’encouragement de l’innovation par Innosuisse;
+- d. les crédits d’engagements des contributions destinées à la coopération internationale en matière de recherche et d’innovation.
+
+[^36-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 37
+
+**Libération et versement des contributions**
+
+<sup>1</sup> Les contributions allouées aux institutions chargées d’encourager la recherche sont libérées en fonction des plans d’encouragement présentés annuellement par les institutions et approuvés par les services fédéraux compétents (art. 48).
+
+<sup>2</sup> Les contributions allouées aux établissements de recherche d’importance nationale (art. 15) sont libérées conformément aux décisions et conventions de prestations concernées.
+
+<sup>3</sup> Les contributions fédérales libérées sont versées conformément à l’art. 23 de la loi du 5 octobre 1990 sur les subventions[^37-1].
+
+<sup>4</sup>
+
+Les contributions fédérales allouées dans le cadre de la coopération internationale sont libérées et versées conformément aux actes suivants:
+
+- a. les accords internationaux concernés;
+- b. les décisions et conventions de prestations concernées.
+
+[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+### Section 9 Restitution et remboursement
+
+#### Art. 38
+
+**Restitution en cas de manquement aux obligations**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche exigent la restitution des moyens alloués s’ils ont été versés à tort ou si le bénéficiaire n’a pas rempli ses obligations malgré une sommation.
+
+<sup>2</sup> Le droit à la restitution se prescrit par trois ans à compter du jour où le bailleur de fonds a eu connaissance de ce droit et, dans tous les cas, par dix ans à compter du jour où il a pris naissance.[^38-1]
+
+<sup>2bis</sup> Si le fait qui donne lieu à la prétention résulte d’un acte punissable du bénéficiaire, l’action se prescrit au plus tôt à l’échéance du délai de prescription de l’action pénale. Si la prescription de l’action pénale ne court plus parce qu’un jugement de première instance a été rendu, l’action civile se prescrit au plus tôt par trois ans à compter de la notification du jugement.[^38-2]
+
+<sup>3</sup> Les institutions chargées d’encourager la recherche affectent les moyens restitués aux tâches que la Confédération leur a confiées. Elles rendent compte de cette affectation dans leurs rapports annuels.
+
+[^38-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^38-2]: Introduit par l’annexe ch. 5 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+
+#### Art. 39
+
+**Remboursement en cas de gains et participation au bénéfice**
+
+<sup>1</sup>
+
+Lorsque les résultats de recherches financées en tout ou partie par la Confédération sont exploités commercialement, les institutions chargées d’encourager la recherche peuvent faire valoir les exigences suivantes:
+
+- a. le remboursement des moyens qu’elles ont alloués, dans la mesure des gains réalisés;
+- b. une participation équitable au bénéfice.
+
+<sup>2</sup> Les institutions chargées d’encourager la recherche affectent les moyens remboursés et les participations aux bénéfices aux tâches que la Confédération leur a confiées. Elles rendent compte de cette affectation dans leurs rapports annuels.
+
+## Chapitre 3 Coordination et planification
+
+### Section 1 Coordination autonome
+
+#### Art. 40
+
+<sup>1</sup> Tout organe de recherche est tenu de coordonner les recherches exécutées sous sa responsabilité ou avec son appui.
+
+<sup>2</sup> Les organes de recherche coordonnent leurs activités en échangeant des informations à un stade précoce.
+
+<sup>3</sup> Les institutions chargées d’encourager la recherche, Innosuisse et l’administration fédérale, dans la mesure où elle assume des tâches d’encouragement de la recherche ou de l’innovation, coordonnent leurs activités en concertant leurs mesures d’encouragement et en coopérant dans le cadre de leurs activités d’encouragement. Elles tiennent compte dans leurs efforts de coordination des exigences de l’enseignement, de la recherche exécutée sans l’aide de la Confédération, de la recherche exécutée à l’étranger et de la coordination au sens de la LEHE[^40-1].
+
+[^40-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+
+### Section 2 Coordination par le Conseil fédéral
+
+#### Art. 41
+
+**Principes**
+
+<sup>1</sup> Le Conseil fédéral veille à l’utilisation coordonnée, rationnelle et efficace des fonds fédéraux alloués à la recherche et à l’innovation.
+
+<sup>2</sup> Le Conseil fédéral prend les mesures nécessaires lorsque la coordination autonome ne suffit pas à assurer la coopération entre les organes de recherche. À cet effet, il peut notamment confier certaines tâches de coordination à des commissions existantes ou à des commissions ad hoc qu’il institue.
+
+<sup>3</sup>
+
+Il examine de manière périodique ou ponctuelle:
+
+- a. la coordination des mesures d’encouragement de la recherche et de l’innovation déployées aux niveaux national et international;
+- b. la cohérence entre la coopération internationale en matière de recherche et d’innovation et la politique économique extérieure, la politique de développement et la politique étrangère générale de la Suisse.
+
+<sup>4</sup>
+
+Le Conseil fédéral prend en outre les mesures nécessaires pour assurer la cohérence entre les mesures d’encouragement de la recherche et de l’innovation déployées par la Confédération au niveau international, en particulier en ce qui concerne les infrastructures de recherche particulièrement onéreuses, et les activités suivantes:
+
+- a. la planification du développement dans le domaine des EPF;
+- b. la coordination de la politique des hautes écoles à l’échelle nationale et la répartition des tâches dans des domaines particulièrement onéreux.
+
+<sup>5</sup> Le Conseil fédéral coordonne la planification et l’exécution de projets d’encouragement nationaux dans le domaine de la recherche et de l’innovation qui ne peuvent pas être réalisés dans le cadre des tâches ordinaires d’encouragement des institutions chargées d’encourager la recherche et de Innosuisse en raison de leur dimension organisationnelle et financière.
+
+<sup>6</sup> Le Conseil fédéral veille ce faisant à ce que les organes de recherche, la Conférence suisse des hautes écoles et le Conseil des EPF soient associés à la planification. Les propositions à l’Assemblée fédérale concernant des mesures d’encouragement au sens de l’al. 5 sont élaborées en accord avec la Conférence suisse des hautes écoles, y compris en ce qui concerne les modalités de financement et d’exécution.
+
+#### Art. 42
+
+**Comité interdépartemental de coordination de la recherche de l’administration**
+
+<sup>1</sup> Le Conseil fédéral crée un comité interdépartemental de coordination de la recherche de l’administration.
+
+<sup>2</sup> Il définit la procédure de nomination des membres du comité.
+
+<sup>3</sup>
+
+Le comité assume les tâches suivantes:
+
+- a. il coordonne les travaux d’élaboration des programmes pluriannuels au sens de l’art. 45, al. 3;
+- b. il édicte des directives en matière d’assurance de la qualité dans le domaine de la recherche de l’administration.
+
+<sup>4</sup> Le Conseil fédéral peut déléguer au comité d’autres tâches dans le domaine de la recherche de l’administration.
+
+### Section 3 Planification de la politique de la recherche et de l’innovation
+
+#### Art. 43
+
+**Éléments de planification**
+
+Les éléments de la planification de la politique de la recherche et de l’innovation sont les suivants:
+
+- a. l’examen de l’orientation stratégique de la politique d’encouragement de la Confédération;
+- b. les programmes pluriannuels;
+- c. la planification annuelle.
+
+#### Art. 44
+
+**Examen de l’orientation stratégique de la politique d’encouragement de la Confédération**
+
+<sup>1</sup> Le DEFR mandate des commissions nationales ou internationales d’experts pour examiner périodiquement la politique suisse d’encouragement de la recherche et de l’innovation ou des éléments de celle-ci.
+
+<sup>2</sup> Il demande au Conseil suisse de la science[^44-1] une mise en perspective des résultats de l’expertise.
+
+<sup>3</sup> Il peut charger au cas par cas le Conseil suisse de la science de procéder à des examens au sens de l’al. 1 ou d’assurer leur coordination.
+
+<sup>4</sup> Le Conseil fédéral définit l’orientation stratégique de la politique d’encouragement de la recherche et de l’innovation de la Confédération en se fondant sur les expertises visées à l’al. 1. À cette fin, il consulte préalablement la Conférence suisse des hautes écoles, le Conseil des EPF, le FNS, Innosuisse et, au besoin, d’autres organes de recherche concernés.
+
+<sup>5</sup> Le Conseil fédéral adapte l’orientation de la politique d’encouragement aux circonstances.
+
+<sup>6</sup> Il soumet périodiquement à l’Assemblée fédérale, avec le message FRI, un rapport sur les résultats des expertises au sens de l’al. 1 et sur sa stratégie en matière de politique d’encouragement de la recherche et de l’innovation.
+
+[^44-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 45
+
+**Programmes pluriannuels**
+
+<sup>1</sup> Dans leurs programmes pluriannuels, les organes de recherche fournissent des renseignements sur la politique qu’ils poursuivent en matière de recherche et d’innovation, ainsi que sur les priorités qu’ils se sont fixées à moyen terme.
+
+<sup>2</sup> Les programmes pluriannuels sous-tendent la coordination et la coopération entre les organes de recherche et contiennent les informations nécessaires à l’élaboration des messages FRI et à la planification financière de la Confédération. Ils servent également de base aux conventions de prestations périodiques entre la Confédération et les institutions chargées d’encourager la recherche.
+
+<sup>3</sup> Les programmes pluriannuels de la recherche de l’administration prennent la forme de plans directeurs de recherche plurisectoriels. L’administration fédérale y décrit les points forts thématiques de sa propre recherche. À cet égard, elle tient notamment compte des pôles de recherche des hautes écoles, des programmes d’encouragement conduits par le FNS sur mandat de la Confédération et des activités de Innosuisse.
+
+#### Art. 46
+
+**Obligation d’établir des programmes pluriannuels**
+
+<sup>1</sup>
+
+Les organismes suivants sont tenus d’établir des programmes pluriannuels:
+
+- a. les institutions chargées d’encourager la recherche;
+- b. Innosuisse;
+- c. les établissements de recherche d’importance nationale soutenus en vertu de la présente loi;
+- d. les unités de l’administration fédérale désignées par le Conseil fédéral.
+
+<sup>2</sup> Les hautes écoles qui reçoivent des contributions en vertu du chapitre 8 de la LEHE[^46-1] fournissent les informations nécessaires sur leurs recherches dans le cadre de la procédure prévue par la LEHE.
+
+<sup>3</sup> Les deux EPF et les établissements de recherche du domaine des EPF fournissent les informations nécessaires sur leurs recherches dans le cadre de la procédure prévue par la loi du 4 octobre 1991 sur les EPF[^46-2].
+
+[^46-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^46-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+#### Art. 47
+
+**Procédure**
+
+<sup>1</sup> Le Conseil fédéral détermine les exigences formelles auxquelles doivent répondre les programmes pluriannuels.
+
+<sup>2</sup>
+
+Les programmes pluriannuels sont soumis:
+
+- a. au Conseil fédéral, pour information;
+- b. à la Conférence suisse des hautes écoles, pour avis, lorsqu’ils concernent la recherche des hautes écoles;
+- c. au Conseil des EPF, pour avis, lorsqu’ils concernent le domaine des EPF.
+
+<sup>3</sup> Le Conseil fédéral peut exiger un remaniement des programmes pluriannuels s’ils ne sont pas harmonisés ou si les demandes de crédits dépassent les ressources vraisemblablement disponibles.
+
+<sup>4</sup> Le Conseil fédéral soumet à l’Assemblée fédérale un rapport sur les programmes pluriannuels dans le cadre du message FRI.
+
+#### Art. 48
+
+**Planification annuelle**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche établissent un plan d’encouragement annuel. Elles le soumettent à l’approbation du DEFR.
+
+<sup>2</sup> Le DEFR peut déléguer sa compétence d’approbation à l’unité administrative compétente.
+
+<sup>3</sup> L’administration fédérale indique dans l’exposé des motifs relatif au budget comment elle envisage d’utiliser les crédits pour accomplir ses tâches de recherche.
+
+## Chapitre 4 Obligation d’informer et de faire rapport, assurance de la qualité
+
+#### Art. 49
+
+**Obligation d’informer sur les activités d’encouragement**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche, Innosuisse et l’administration fédérale informent le public de leurs activités d’encouragement sous une forme appropriée.
+
+<sup>2</sup> Elles entretiennent à cette fin des systèmes d’information accessibles au public sur les projets qu’elles soutiennent dans le domaine de la recherche et de l’innovation.
+
+#### Art. 50
+
+**Accès aux résultats de la recherche**
+
+Les institutions chargées d’encourager la recherche, Innosuisse et l’administration fédérale veillent à ce que les résultats de la recherche soient accessibles au public dans le cadre prévu par la loi.
+
+#### Art. 51
+
+**Assurance de la qualité**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche et Innosuisse se dotent d’un système d’assurance de la qualité appropriée concernant les processus de décisions et l’exécution des programmes qu’elles soutiennent.
+
+<sup>2</sup> De plus, elles contrôlent périodiquement l’adéquation des instruments et la forme de l’encouragement dans le cadre des tâches et des compétences qui leur sont confiées.
+
+<sup>3</sup> L’assurance de la qualité dans le domaine de la recherche de l’administration obéit aux directives édictées par le comité interdépartemental de coordination de la recherche de l’administration. Les règles fixées dans les lois spéciales sont réservées.
+
+#### Art. 52
+
+**Rapports**
+
+<sup>1</sup> Les institutions chargées d’encourager la recherche et l’administration fédérale, dans la mesure où elle fait de la recherche ou l’encourage, rendent périodiquement compte de leurs activités et de l’exécution des programmes pluriannuels au Conseil fédéral ou au département compétent.
+
+<sup>2</sup> Le département compétent règle la forme, l’ampleur et l’échéance des rapports, le cas échéant dans le cadre de la convention de prestations passée avec l’institution concernée.
+
+<sup>3</sup> Le Conseil fédéral fait périodiquement rapport à l’Assemblée fédérale dans le cadre du message FRI.
+
+## Chapitre 5 Statistique
+
+#### Art. 53
+
+<sup>1</sup> Le Conseil fédéral ordonne les relevés statistiques que requiert l’exécution de la présente loi.
+
+<sup>2</sup> Il consulte auparavant les organes de recherche concernés, ainsi que la Conférence suisse des hautes écoles lorsque ces relevés concernent des bénéficiaires de contributions au sens de la LEHE[^53-1] ou le Conseil des EPF lorsqu’ils concernent des bénéficiaires de contributions au sens de la loi du 4 octobre 1991 sur les EPF[^53-2].
+
+<sup>3</sup> Le Conseil fédéral assure l’information sur les projets de recherche et d’innovation de l’administration fédérale et du domaine des EPF, dans la mesure où cette activité entre dans le cadre de l’art. 50.
+
+<sup>4</sup> Le SEFRI gère une banque de données sur les projets de recherche de l’administration.
+
+[^53-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^53-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+## Chapitre 6 Conseil suisse de la science
+
+#### Art. 54
+
+**Tâches**
+
+<sup>1</sup> Le Conseil suisse de la science (CSS[^54-1]) est une commission extraparlementaire au sens de l’art. 57*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^54-2]. Il conseille le Conseil fédéral de sa propre initiative ou sur mandat du gouvernement ou du DEFR sur toutes les questions relevant de la politique de la recherche et de l’innovation.
+
+<sup>2</sup>
+
+Sur mandat du gouvernement ou du DEFR, le CSS exerce les tâches suivantes:
+
+- a.
+
+  évaluer notamment:
+
+  - 1\. les mesures d’encouragement de la Confédération,
+  - 2\. les organes de recherche sous l’angle de l’exécution de leurs tâches,
+  - 3\. les instruments d’encouragement des institutions d’encouragement de la recherche et de Innosuisse,
+  - 4\. les mesures de la recherche de l’administration sous l’angle de leur efficacité;
+
+- b. émettre des avis sur des projets ou des problèmes spécifiques relatifs à la politique de la recherche et de l’innovation;
+- c. assister le DEFR dans son examen périodique de la politique suisse de la recherche et de l’innovation;
+- d. conseiller le Conseil fédéral dans la mise en œuvre de la présente loi.
+
+[^54-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+[^54-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 55
+
+**Nomination et organisation**
+
+<sup>1</sup> Le Conseil fédéral nomme les membres du CSS et en désigne le président.
+
+<sup>2</sup> Le CSS se compose de dix à quinze membres. Ces derniers disposent de compétences interdisciplinaires reconnues en matière de science, de formation professionnelle et d’innovation.
+
+<sup>3</sup> Le CSS se donne un règlement d’organisation et de gestion. Ce règlement est soumis à l’approbation du Conseil fédéral.
+
+## Chapitre 7 Dispositions finales
+
+#### Art. 56
+
+**Exécution**
+
+Le Conseil fédéral édicte les dispositions d’exécution.
+
+#### Art. 57
+
+**Abrogation et modification du droit en vigueur**
+
+<sup>1</sup> La loi du 7 octobre 1983 sur l’encouragement de la recherche et de l’innovation[^57-1] est abrogée, sous réserve de l’al. 2.
+
+<sup>2</sup> Les art. 5, let. b, ch. 2 et 3, 6, al. 1, let. b et c, et 24, al. 2, de la loi du 7 octobre 1983 sur la recherche et l’innovation ont effet jusqu’à l’entrée en vigueur de la LEHE[^57-2].
+
+<sup>3</sup> La LEHE est modifiée comme suit:
+
+…[^57-3]
+
+[^57-1]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)ch. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
+[^57-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691); en vigueur depuis le 1<sup>er</sup> janv. 2015
+[^57-3]: La mod. peut être consultée au [RO 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
+
+#### Art. 57a
+
+**Disposition transitoire relative à la modification du 17 juin 2016**[^57a-1]
+
+Les conseillers qui exercent l’une des activités visées à l’art. 20, al. 2, let. a, et 3, au moment de l’entrée en vigueur de la modification du 17 juin 2016, sont réputés qualifiés au sens de l’art. 21 dans le cadre du contrat en cours.
+
+[^57a-1]: Introduit par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+
+#### Art. 58
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+<sup>3</sup> Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2014[^58-1]. Les art. 4, let. c, ch. 2, art. 7, al. 1, let. b, et art. 46, al. 2 entrent en vigueur en même temps que la LEHE (art. 58, al. 3). RS **414.20**; en vigueur depuis le 1<sup>er</sup> janv. 2015 (RO **2014** 4103).
+
+Il met en vigueur les dispositions ci-après en même temps que la LEHE[^58-2]:
+
+- a. art. 4, let. c, ch. 2;
+- b. art. 7, al. 1, let. b;
+- c. art. 46, al. 2.
+- [tab] <sup>4</sup> Les art. 5, let. b, ch. 2 et 3, 6, al. 1, let. b et c, et 24, al. 2, de la loi du 7 octobre 1983 sur la recherche et l’innovation[^58-3] sont abrogés à l’entrée en vigueur de la LEHE.
+
+[^58-1]: ACF du 29 nov. 2013
+[^58-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^58-3]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109)]

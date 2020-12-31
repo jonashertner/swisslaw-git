@@ -1,0 +1,1647 @@
+---
+sr: "172.010.1"
+title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Amministrazione (OLOGA)"
+short: OLOGA
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
+language: it
+version: 2021-01-01
+adopted: 1998-11-25
+in_force: 1999-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sull’organizzazione del Governo e dell’Amministrazione
+
+(OLOGA)
+
+del 25 novembre 1998 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 24, 43, 47, 57*c* capoverso 2 e 57*g* capoverso 1 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 6*a* capoverso 2 della legge del 24 marzo 2000[^ingress-2] sul personale federale (LPers),[^ingress-3]
+
+ordina:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-3]: Nuovo testo giusta il n. I 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+
+## Capitolo 1: Il Consiglio federale
+
+#### Art. 1
+
+**Dibattiti**
+
+### (art. 13, 16 cpv. 1 e 4, 17 LOGA)
+
+<sup>1</sup> Le sedute del Consiglio federale si svolgono di massima una volta la settimana.
+
+<sup>2</sup> Gli affari preponderanti o di rilevanza politica sono discussi e decisi singolarmente. Le questioni di ampia importanza possono essere trattate in sedute speciali.
+
+<sup>3</sup> Se sono incontestati, gli altri affari possono essere evasi globalmente, senza dibattito singolo, o sbrigati in procedura scritta. Sono fatte salve le decisioni presidenziali secondo l’articolo 26 capoverso 4 LOGA.
+
+<sup>4</sup> Se le circostanze lo esigono e non vi è tempo per una seduta, il Consiglio federale può anche dibattere singoli affari secondo il capoverso 2 per scritto o con altri mezzi. Queste decisioni sono parificate a quelle delle sedute. Sono fatte salve le decisioni presidenziali secondo l’articolo 26 capoversi 1 a 3 LOGA.
+
+<sup>5</sup> Le decisioni vengono messe per scritto separatamente per ogni affare.
+
+#### Art. 1a e 1b
+
+[^1a1b-1]
+
+[^1a1b-1]: Introdotti dal n. I dell’O del 30 nov. 2011 ([RU 2011 6089](https://fedlex.data.admin.ch/eli/oc/2011/842)). Abrogati dall’all. n. 1 dell’O del 29 nov. 2013 sull’organizzazione del Consiglio federale, con effetto dal 1° gen. 2014 ([RU 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
+
+#### Art. 2
+
+**Pianificazione degli affari**
+
+### (art. 25 cpv. 2 lett. a, 32 lett. b e 33 LOGA)
+
+<sup>1</sup> La pianificazione degli affari garantisce che il Consiglio federale possa trattare gli affari secondo la loro importanza e urgenza.
+
+<sup>2</sup> Insieme con la Cancelleria federale e i dipartimenti, il presidente della Confederazione stabilisce gli affari più importanti e le priorità per un trimestre o semestre.
+
+#### Art. 3
+
+**Proposte, dibattiti e annotazioni su informazioni**
+
+### (art. 14, 15, 17 LOGA)
+
+<sup>1</sup> Di massima, il Consiglio federale decide in base a proposte scritte e dopo la conclusione della procedura di corapporto (art. 5).
+
+<sup>2</sup> Il diritto di proposta spetta ai membri del Consiglio federale, nonché, per gli affari della Cancelleria federale, al cancelliere.
+
+<sup>3</sup> Le altre autorità o organi abilitati dalla legislazione federale a sottoporre affari o proposte al Consiglio federale devono farlo per il tramite della Cancelleria federale o del dipartimento che ha il più stretto legame con l’affare di cui trattasi.
+
+<sup>4</sup> Il Consiglio federale dibatte in via preliminare segnatamente su questioni di ampia importanza. Se è necessario, prende decisioni interlocutorie, stabilisce i tratti essenziali di una soluzione e impartisce al dipartimento competente o alla Cancelleria federale disposizioni per la trattazione dell’affare.
+
+<sup>5</sup> I dipartimenti o la Cancelleria federale possono trasmettere in ogni momento senza proposta formale al Consiglio federale annotazioni su informazioni concernenti importanti avvenimenti e attività relativi alla loro sfera di competenza.
+
+#### Art. 4
+
+**Consultazione degli uffici**
+
+<sup>1</sup> Nella preparazione di proposte, l’ufficio responsabile invita le unità amministrative cointeressate a esprimere un parere entro un termine adeguato. In casi eccezionali debitamente motivati, si può rinunciare alla consultazione degli uffici o limitarla a una stretta cerchia di destinatari.
+
+<sup>1bis</sup> Per gli affari confidenziali e segreti del Consiglio federale, le unità amministrative preposte all’esame giuridico preliminare devono essere consultate su questioni giuridiche importanti e controverse per quanto possibile prima della seduta del Consiglio federale.[^4-1]
+
+<sup>2</sup> Le divergenze vengono appianate nella misura del possibile nella consultazione degli uffici*;* il dipartimento responsabile riferisce in merito al Consiglio federale.
+
+<sup>3</sup> Sono considerate cointeressate le unità amministrative che hanno un rapporto con l’affare dal profilo materiale o sono competenti per la valutazione di aspetti finanziari, giuridici o formali.
+
+[^4-1]: Introdotto dall’all. n. 1 dell’O del 29 nov. 2013 sull’organizzazione del Consiglio federale, in vigore dal 1° gen. 2014 ([RU 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
+
+#### Art. 5
+
+**Procedura di corapporto**
+
+### (art. 15 e 33 LOGA)
+
+<sup>1</sup> La procedura di corapporto serve alla preparazione della decisione del Consiglio federale. Deve permettergli di concentrare le deliberazioni sugli aspetti essenziali dell’affare.
+
+<sup>1bis</sup> La procedura di corapporto ha inizio il giorno in cui il Dipartimento responsabile firma la proposta.[^5-1]
+
+<sup>2</sup> Il Dipartimento responsabile presenta tempestivamente alla Cancelleria federale la proposta firmata per la procedura di corapporto.[^5-2]
+
+[^5-1]: Introdotto dall’all. 2 n. 1 dell’O del 24 mag. 2006 sulla trasparenza, in vigore dal 1° lug. 2006 ([RU 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)).
+[^5-2]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 24 mag. 2006 sulla trasparenza, in vigore dal 1° lug. 2006 ([RU 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)).
+
+## Capitolo 1*a*:**** Richieste di informazioni dei parlamentari e delle commissioni parlamentari
+
+[^chap1a-1]
+
+[^chap1a-1]: Introdotto dal n. I dell’O del 19 nov. 2003, in vigore dal 1° dic. 2003 ([RU 2003 4117](https://fedlex.data.admin.ch/eli/oc/2003/611)).
+
+#### Art. 5a
+
+<sup>1</sup> Il dipartimento competente decide in merito alle richieste di informazioni presentate da parlamentari e da commissioni parlamentari secondo gli articoli 7 e 150 della legge del 13 dicembre 2002[^5a-1] sul Parlamento (LParl). Se tra il richiedente e il dipartimento competente non vi è unanimità di vedute circa l’estensione dei diritti d’informazione, decide il Consiglio federale.
+
+<sup>2</sup>
+
+Il Consiglio federale decide in ogni caso:
+
+- a. su proposta della Cancelleria federale, quando si tratta di informazioni che servono direttamente alla formazione dell’opinione in seno al Collegio governativo;
+- b. su proposta del dipartimento competente, quando si tratta di informazioni che concernono il settore della protezione dello Stato e dei servizi di informazione strategica.
+
+<sup>3</sup> Le richieste di consultazione delle decisioni del Consiglio federale sono esaminate ed evase dalla Cancelleria federale d’intesa con il dipartimento competente.
+
+[^5a-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+## Capitolo 1*b*:**** Consultazione delle commissioni parlamentari competenti per la politica estera
+
+[^chap1b-1]
+
+[^chap1b-1]: Introdotto dal n. I dell’O del 6 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2641](https://fedlex.data.admin.ch/eli/oc/2016/421)).
+
+#### Art. 5b
+
+<sup>1</sup>
+
+Le commissioni competenti per la politica estera sono consultate in caso di progetti essenziali ai sensi dell’articolo 152 capoversi 3 e 4 LParl[^5b-1] segnatamente quando:
+
+- a. in seguito all’attuazione di raccomandazioni o decisioni di organizzazioni internazionali o di organi multilaterali è necessario emanare o modificare sostanzialmente una legge federale; o
+- b. la rinuncia all’attuazione di tali raccomandazioni o decisioni comporta il rischio di gravi svantaggi economici, di sanzioni, di un isolamento della Svizzera per la sua posizione divergente o di un danno alla sua reputazione politica oppure quando sono prevedibili altri seri svantaggi per la Svizzera.
+
+<sup>2</sup> Una consultazione secondo il capoverso 1 ha luogo sulla base di un progetto di mandato del Consiglio federale. Nel caso di consultazioni urgenti secondo l’articolo 152 capoverso 4 LParl, la consultazione può aver luogo su posizioni provvisorie che la Svizzera intende sostenere nei negoziati.
+
+[^5b-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+## Capitolo 1*c*:**** Rapporto sugli atti normativi e i trattati e risoluzioni internazionali confidenziali o segreti
+
+[^chap1c-1]
+
+[^chap1c-1]: Introdotto dal n. I dell’O del 17 mag. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3275](https://fedlex.data.admin.ch/eli/oc/2017/340)).
+
+#### Art. 5c
+
+<sup>1</sup>
+
+I Dipartimenti comunicano regolarmente alla Cancelleria federale il titolo e l’oggetto dei testi seguenti che rientrano nella loro sfera di competenze e in quella dei loro gruppi o uffici:
+
+- a. gli atti normativi della Confederazione che secondo l’articolo 6 della legge del 18 giugno 2004[^5c-1] sulle pubblicazioni ufficiali (LPubb) non sono pubblicati, nonché la loro modifica o abrogazione;
+- b. i trattati e risoluzioni internazionali confidenziali o segreti, nonché la loro modifica o abrogazione.
+
+<sup>2</sup>
+
+La Cancelleria federale tiene un elenco aggiornato comprendente:
+
+- a. i testi secondo il capoverso 1;
+- b. gli atti normativi secondo l’articolo 6 LPubb e i trattati e risoluzioni internazionali confidenziali o segreti che rientrano nella sfera di competenze del Consiglio federale.
+
+<sup>3</sup> Il Consiglio federale trasmette una volta all’anno alla Delegazione delle Commissioni della gestione l’elenco di cui al capoverso 2.
+
+[^5c-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+
+## Capitolo 2: L’Amministrazione
+
+### Sezione 1:**** Articolazione dell’Amministrazione federale
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+
+#### Art. 6
+
+**Principi**
+
+### (art. 8 cpv. 1 LOGA)
+
+<sup>1</sup> L’Amministrazione federale si compone dell’Amministrazione centrale e dell’Amministrazione decentralizzata.
+
+<sup>2</sup> Le persone e le organizzazioni di diritto pubblico o privato che sono istituite dalla legge e forniscono prevalentemente prestazioni a carattere monopolistico o adempiono compiti di vigilanza sull’economia e sulla sicurezza fanno parte dell’Amministrazione federale decentralizzata.
+
+<sup>3</sup> Gli enti esterni incaricati di compiti amministrativi in virtù dell’articolo 2 capoverso 4 LOGA che forniscono prevalentemente prestazioni sul mercato non fanno parte dell’Amministrazione federale. Ciò vale anche per le organizzazioni e le persone di diritto privato che la Confederazione sostiene con aiuti finanziari o indennità secondo l’articolo 3 della legge del 5 ottobre 1990[^6-1] sui sussidi o in cui detiene una partecipazione minoritaria.
+
+[^6-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+#### Art. 7
+
+**Amministrazione federale centrale**
+
+### (art. 2 cpv. 1 e 2; art. 43 e 44 LOGA)
+
+<sup>1</sup>
+
+Fanno parte dell’Amministrazione federale centrale:
+
+- a. i dipartimenti e la Cancelleria federale;
+- b. le segreterie generali dei dipartimenti, nonché le loro ulteriori suddivisioni;
+- c. i gruppi;
+- d.[^7-1] gli uffici federali nonché le loro ulteriori suddivisioni.
+
+<sup>2</sup> Le unità amministrative di cui al capoverso 1 lettere c e d possono recare anche un’altra denominazione.
+
+<sup>3</sup> Le unità amministrative di cui al capoverso 1 lettere b–d sono subordinate a un dipartimento. Sono vincolate alle istruzioni del dipartimento.
+
+<sup>4</sup> Gli uffici federali possono essere riuniti in gruppi, se la gestione del dipartimento ne può risultare agevolata.
+
+[^7-1]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+
+#### Art. 7a
+
+**Amministrazione federale decentralizzata**
+
+### (art. 2 cpv. 3 LOGA)
+
+<sup>1</sup>
+
+L’Amministrazione federale decentralizzata si compone delle seguenti quattro categorie di unità amministrative:
+
+- a. le commissioni extraparlamentari di cui all’articolo 57*a* LOGA;
+- b. le unità amministrative senza personalità giuridica che la legge ha reso autonome sul piano organizzativo;
+- c. gli enti, gli istituti e le fondazioni di diritto pubblico istituiti dalla legge che sono autonomi sul piano giuridico, sempre che non forniscano prevalentemente prestazioni sul mercato;
+- d. le società anonime in cui la Confederazione detiene la maggioranza del capitale e dei voti, sempre che non forniscano prevalentemente prestazioni sul mercato.
+
+<sup>2</sup> Le unità amministrative di cui al capoverso 1 lettere a e b non sono vincolate a istruzioni per lo svolgimento dei loro compiti, sempre che la legge non disponga altrimenti.
+
+#### Art. 7b
+
+**Attribuzione delle unità amministrative decentralizzate**
+
+Entro i limiti fissati dalla legge, le unità amministrative dell’Amministrazione federale decentralizzata sono attribuite come segue:
+
+- a. alla Cancelleria federale o a un dipartimento; e
+- b. a una delle categorie di cui all’articolo 7*a* capoverso 1.
+
+#### Art. 8
+
+**Elenco delle unità**
+
+<sup>1</sup>
+
+Nell’allegato 1 sono elencate in modo esaustivo con la relativa attribuzione a un dipartimento le unità amministrative:
+
+- a. dell’Amministrazione federale centrale, senza l’ulteriore suddivisione degli uffici federali;
+- b. dell’Amministrazione federale decentralizzata, a eccezione delle commissioni extraparlamentari.
+
+<sup>2</sup> Nell’allegato 2 sono elencate in modo esaustivo con la relativa attribuzione a un dipartimento le commissioni extraparlamentari.
+
+### Sezione 1*a*:**** Commissioni extraparlamentari
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Introdotta dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
+
+#### Art. 8a
+
+**Commissioni consultive e commissioni decisionali**
+
+<sup>1</sup> Secondo le loro funzioni, le commissioni extraparlamentari sono commissioni consultive o commissioni decisionali.
+
+<sup>2</sup> Le commissioni consultive danno pareri e preparano progetti.
+
+<sup>3</sup> Le commissioni decisionali dispongono di un potere decisionale.
+
+#### Art. 8b
+
+**Eleggibilità**
+
+<sup>1</sup> Può divenire membro di una commissione extraparlamentare qualsiasi persona che adempie le condizioni d’impiego nell’Amministrazione federale.
+
+<sup>2</sup> Non sono previsti limiti di età per la nomina.[^8b-1]
+
+[^8b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+
+#### Art. 8c
+
+**Rappresentanza dei sessi**
+
+<sup>1</sup> La rappresentanza dell’uno o dell’altro sesso in una commissione extraparlamentare non può essere inferiore al 30 per cento. Occorre perseguire a lungo termine una rappresentanza paritetica dei due sessi.
+
+<sup>2</sup> Se la proporzione di uomini o di donne è inferiore al 30 per cento, la Cancelleria federale esige dal dipartimento interessato una motivazione scritta.
+
+#### Art. 8c<sup>bis</sup>
+
+**Rappresentanza delle comunità linguistiche**[^8cbis-1]
+
+<sup>1</sup> Nelle commissioni extraparlamentari devono essere rappresentate, per quanto possibile, le comunità linguistiche tedesca, francese e italiana. Occorre adoperarsi affinché vi sia una persona di lingua romancia.
+
+<sup>2</sup> Se una delle comunità linguistiche tedesca, francese o italiana non è rappresentata da almeno una persona, la Cancelleria federale esige dal dipartimento interessato una motivazione scritta.
+
+[^8cbis-1]: Introdotto dall’all. n. II 1 dell’O sulle lingue del 4 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
+
+#### Art. 8d
+
+**Superamento del numero massimo di membri previsto dalla legge**
+
+<sup>1</sup> Il superamento del numero massimo di membri di una commissione extraparlamentare previsto dalla legge è permesso solo eccezionalmente e deve essere motivato.
+
+<sup>2</sup>
+
+Un superamento è giustificato in particolare se:
+
+- a. sono riunite diverse commissioni;
+- b. solo un numero superiore di membri permette una composizione equilibrata;
+- c. l’importanza dell’ambito politico di competenza della commissione esige che sia rappresentato un più ampio ventaglio di interessi.
+
+#### Art. 8e
+
+**Decisione istitutiva**
+
+<sup>1</sup> Le commissioni extraparlamentari sono istituite mediante decisione del Consiglio federale.
+
+<sup>2</sup>
+
+La decisione istitutiva deve in particolare:
+
+- a. motivare la necessità della commissione e definirne in modo dettagliato i compiti;
+- b.[^8e-1] ...
+- c.[^8e-2] citare il numero dei membri e motivare, se del caso, un superamento del numero massimo di membri previsto dalla legge;
+- d.[^8e-3] ...
+- e. disciplinare l’organizzazione della commissione;
+- f. disciplinare il modo in cui la commissione riferisce sulle sue attività e informa il pubblico;
+- g. disciplinare l’obbligo di mantenere il segreto;
+- g<sup>bis</sup>.[^8e-4] stabilire la categoria di indennizzo cui la commissione è attribuita secondo gli articoli 8*n* e 8*p*, nonché secondo l’allegato 2;
+- h. fissare i diritti della Confederazione in materia d’utilizzazione dei documenti e delle procedure eventualmente elaborati dalla commissione e protetti dai diritti d’autore;
+- i. disciplinare, se necessario, i rapporti della commissione con i Cantoni, i partiti e le altre organizzazioni;
+- j.[^8e-5] attribuire la commissione all’autorità competente (dipartimento o Cancelleria federale) e designare il servizio amministrativo che assume il lavoro di segreteria per la commissione;
+- k.[^8e-6] indicare il servizio amministrativo responsabile per il finanziamento della commissione extraparlamentare;
+- l.[^8e-7] disciplinare il diritto d’informazione della commissione nei confronti dell’Amministrazione;
+- m.[^8e-8] contenere, per le commissioni extraparlamentari che svolgono compiti di vigilanza e regolamentazione, il profilo dei requisiti dei relativi membri.
+
+[^8e-1]: Abrogata dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-2]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-3]: Abrogata dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-4]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^8e-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)).
+[^8e-6]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-7]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+[^8e-8]: Introdotta dal n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 8e<sup>bis</sup>
+
+**Nomina dei membri**[^8ebis-1]
+
+Il Consiglio federale nomina i membri. Determina la loro funzione, sempre che questa non risulti da disposizioni speciali sull’organizzazione della commissione interessata.
+
+[^8ebis-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+
+#### Art. 8e<sup>ter</sup>
+
+**Periodo di attesa per i membri di commissioni che svolgono compiti di vigilanza e regolamentazione**[^8eter-1]
+
+<sup>1</sup> Per i membri di commissioni che svolgono compiti di vigilanza e regolamentazione, il Consiglio federale può prevedere nella decisione di nomina un periodo di attesa qualora si presuma che, dopo l’uscita dalla commissione, l’inizio immediato di un’attività presso un datore di lavoro o un mandante del settore sottoposto a vigilanza o regolamentato generi un conflitto di interesse.
+
+<sup>2</sup>
+
+Un conflitto d’interesse può sussistere in particolare se:
+
+- a. questa attività può compromettere la credibilità e la reputazione della commissione o della Confederazione;
+- b. l’influenza di un membro della commissione su singole decisioni o il suo accesso a informazioni possa in qualche modo far pensare che la sua imparzialità non sia più garantita con il passaggio a un datore di lavoro o a un mandante del settore sottoposto a vigilanza o a regolamentazione.
+
+<sup>3</sup> La durata del periodo di attesa va da un minimo di sei mesi a un massimo di 12 mesi.
+
+<sup>4</sup> Per il periodo di attesa può essere fissata un’indennità. A seconda del danno economico atteso nel singolo caso, corrisponde al massimo all’indennità attuale, da cui sono dedotti tutti i proventi, le indennità e le prestazioni previdenziali percepiti durante questo periodo.
+
+<sup>5</sup> Chi riceve un’indennità per il periodo di attesa è tenuto a comunicare al dipartimento competente i proventi, le indennità e le prestazioni previdenziali percepiti durante questo periodo.
+
+<sup>6</sup> Le indennità percepite indebitamente durante il periodo di attesa devono essere restituite.
+
+[^8eter-1]: Introdotto dal n. I 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+
+#### Art. 8f
+
+**Indicazione delle relazioni d’interesse**[^8f-1]
+
+<sup>1</sup>
+
+Ogni membro di una commissione informa su:
+
+- a. le sue attività professionali;
+- b. le sue attività in organi di direzione e di sorveglianza, nonché in organi di consulenza e simili, di enti, istituti e fondazioni svizzeri ed esteri, di diritto pubblico e privato;
+- c. le sue attività di consulenza o perizia per servizi federali;
+- d. le sue attività di direzione o consulenza per gruppi di interesse svizzeri ed esteri;
+- e. la sua partecipazione ad altri organi della Confederazione.
+
+<sup>2</sup> È fatto salvo il segreto professionale ai sensi del Codice penale[^8f-2].
+
+<sup>3</sup> Il membro della commissione annuncia senza indugio ogni modifica delle relazioni d’interesse intervenuta durante il mandato al dipartimento competente. Quest’ultimo aggiorna l’elenco di cui all’articolo 8*k**.*[^8f-3]
+
+<sup>4</sup> Può essere revocato il membro della commissione che in occasione della nomina ha omesso di indicare tutte le sue relazioni d’interesse oppure ha omesso di annunciarne la modifica durante il suo mandato, nonostante la richiesta in tal senso dell’autorità competente.[^8f-4]
+
+[^8f-1]: Vedi anche le disp. trans. della mod. del 26 nov. 2008 alla fine del presente testo.
+[^8f-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8f-3]: Nuovo testo giusta il n. I 8.1 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^8f-4]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+
+#### Art. 8f<sup>bis</sup>
+
+**Utilizzazione delle informazioni interne**[^8fbis-1]
+
+<sup>1</sup> I membri delle commissioni possono utilizzare le informazioni non pubbliche, acquisite nell’ambito della loro attività in seno alla commissione, soltanto nell’ambito di tale attività.
+
+<sup>2</sup> In particolare, non possono utilizzare le informazioni di cui al capoverso 1 per procurare vantaggi a sé o a terzi.
+
+[^8fbis-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+
+#### Art. 8g
+
+**Durata del mandato**
+
+<sup>1</sup> La durata del mandato dei membri delle commissioni extraparlamentari è di quattro anni. Essa coincide con la legislatura del Consiglio nazionale. Il mandato inizia il 1° gennaio e termina il 31 dicembre.[^8g-1]
+
+<sup>2</sup> Il mandato dei membri nominati nel corso della legislatura termina alla fine di quest’ultima.
+
+[^8g-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+
+#### Art. 8h
+
+**Rinnovo integrale**
+
+<sup>1</sup> Per ogni nuovo periodo amministrativo, il Consiglio federale procede al rinnovo integrale delle commissioni extraparlamentari.
+
+<sup>2</sup> La Cancelleria federale coordina il rinnovo integrale delle commissioni. Al riguardo emana le corrispondenti istruzioni e le comunica alle Commissioni della gestione delle Camere federali.
+
+<sup>3</sup> Dopo ogni rinnovo integrale, la Cancelleria federale consegna al Consiglio federale un rapporto per le Camere federali sulla composizione delle commissioni extraparlamentari.
+
+#### Art. 8i
+
+**Limitazione della durata della funzione**
+
+<sup>1</sup> La durata della funzione dei membri delle commissioni extraparlamentari è limitata a 12 anni al massimo; il mandato finisce al termine dell’anno civile corrispondente.
+
+<sup>2</sup> In casi debitamente motivati, il Consiglio federale può prolungare sino a 16 anni al massimo la durata della funzione.
+
+<sup>3</sup> La limitazione della durata della funzione non si applica agli impiegati della Confederazione che sono indispensabili al buon funzionamento delle commissioni extraparlamentari o la cui qualità di membro è prevista d’ufficio da un altro atto normativo.
+
+#### Art. 8i<sup>bi</sup><sup>s</sup>
+
+**Segreterie delle commissioni**[^8ibis-1]
+
+<sup>1</sup> Ogni commissione extraparlamentare dispone di una segreteria, che è gestita da un servizio dell’Amministrazione federale centrale.
+
+<sup>2</sup> Il responsabile e gli altri collaboratori della segreteria sottostanno al diritto in materia di personale federale applicabile all’Amministrazione federale centrale.
+
+<sup>3</sup> Sono fatte salve le disposizioni derogatorie di diritto speciale o contenute nella decisione istitutiva.
+
+[^8ibis-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+
+#### Art. 8i<sup>ter</sup>
+
+**Informazione del pubblico**[^8iter-1]
+
+Le commissioni che sulla base della loro decisione istitutiva comunicano senza consultare l’autorità competente mantengono il necessario riserbo quando informano il pubblico su questioni politiche.
+
+[^8iter-1]: Introdotto dal n. I dell’O del 5 dic. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)).
+
+### Sezione 1*b*:**** Organi di direzione di organizzazioni della Confederazione e rappresentanti della Confederazione in organizzazioni di diritto pubblico o privato****
+
+[^chap2-sec1b-1][^chap2-sec1b-2]
+
+[^chap2-sec1b-1]: Introdotta dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
+[^chap2-sec1b-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 8j
+
+**Poteri del Consiglio federale[^8j-1]**
+
+<sup>1</sup> Il Consiglio federale nomina i membri degli organi di direzione di organizzazioni di diritto pubblico della Confederazione conformemente alle disposizioni organizzative, in particolare i membri del consiglio d’amministrazione o del consiglio d’istituto degli stabilimenti della Confederazione.[^8j-2]
+
+<sup>1bis</sup> Se la nomina incombe a un altro organo oppure se una disposizione organizzativa di diritto pubblico o privato prevede la rappresentanza della Confederazione in un organo di direzione, il Consiglio federale designa o nomina i membri del rispettivo organo di direzione, in particolare i rappresentanti che l’assemblea generale deve eleggere e i rappresentanti che la Confederazione ha il diritto di delegare in organizzazioni di diritto privato in virtù degli articoli 762 e 926 del Codice delle obbligazioni[^8j-3].[^8j-4]
+
+<sup>2</sup> Per ogni organizzazione il Consiglio federale elabora un profilo dei requisiti tecnici e personali che un rappresentante deve soddisfare. Esercita il suo diritto di nomina e di designazione sulla base di tale profilo.
+
+[^8j-1]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8j-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8j-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8j-4]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)
+
+#### Art. 8j<sup>bis</sup>
+
+**Periodo di attesa per i membri di consigli di amministrazione e d’istituto degli stabilimenti della Confederazione che svolgono compiti di vigilanza e regolamentazione**[^8jbis-1]
+
+<sup>1</sup> Per i membri di consigli di amministrazione e d’istituto degli stabilimenti della Confederazione che svolgono compiti di vigilanza e regolamentazione, il Consiglio federale può prevedere nella decisione di nomina un periodo di attesa qualora si presuma che, dopo l’uscita dal consiglio di amministrazione o d’istituto, l’inizio immediato di un’attività presso un datore di lavoro o un mandante del settore sottoposto a vigilanza o a regolamentazione possa generare un conflitto d’interesse.
+
+<sup>2</sup>
+
+Un conflitto d’interesse può sussistere in particolare se:
+
+- a. questa attività può compromettere la credibilità e la reputazione dello stabilimento della Confederazione;
+- b. l’influenza di un membro del consiglio su singole decisioni o il suo accesso a informazioni possa in qualche modo far pensare che la sua indipendenza non sia più garantita con il passaggio a un datore di lavoro o a un mandante del settore sottoposto a vigilanza o a regolamentazione.
+
+<sup>3</sup> L’articolo 8*e*<sup>ter</sup> capoversi 3–6 si applica per analogia.
+
+[^8jbis-1]: Introdotto dal n. I 1 dell’O del 25 nov. 2015 sul periodo di attesa, in vigore dal 1° gen. 2016 ([RU 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+
+### Sezione 1*c*:**** Elenco dei membri delle commissioni extraparlamentari, degli organi di direzione e dei rappresentanti della Confederazione
+
+[^chap2-sec1c-1]
+
+[^chap2-sec1c-1]: Introdotta dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)).
+
+#### Art. 8k
+
+<sup>1</sup> In collaborazione con i dipartimenti, la Cancelleria federale pubblica in forma elettronica un elenco dei membri delle commissioni extraparlamentari, dei membri degli organi di direzione di organizzazioni della Confederazione nonché dei rappresentanti della Confederazione in organizzazioni di diritto pubblico o privato.[^8k-1]
+
+<sup>2</sup>
+
+L’elenco contiene i seguenti dati sulle persone di cui al capoverso 1:
+
+- a. cognome e nome;
+- b. sesso;
+- c. lingua madre;
+- d. anno di nascita;
+- e. titolo;
+- f.[^8k-2] relazioni d’interesse;
+- g.[^8k-3] Cantone secondo l’indirizzo di corrispondenza.
+
+<sup>3</sup> ...[^8k-4]
+
+<sup>4</sup> I dati possono essere consultati in linea dalla nomina a membro sino alle dimissioni della persona interessata.
+
+<sup>5</sup> I dati possono essere archiviati per scopi statistici.
+
+[^8k-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^8k-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8k-3]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8k-4]: Abrogato dal n. I dell’O del 9 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+
+### Sezione 1*d*:**** Indennizzo dei membri delle commissioni extraparlamentari
+
+[^chap2-sec1d-1]
+
+[^chap2-sec1d-1]: Introdotta dal n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)).
+
+#### Art. 8l
+
+**Aventi diritto**[^8l-1]
+
+Ha diritto a un indennizzo conformemente alla presente sezione chi è stato nominato membro o membro supplente di una commissione extraparlamentare ed è attivo in seno a questa commissione.
+
+[^8l-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+
+#### Art. 8m
+
+**Commissioni politico-sociali e commissioni di vigilanza sul mercato**
+
+Per quanto concerne l’indennizzo dei loro membri, le commissioni consultive e le commissioni decisionali sono suddivise in due gruppi:
+
+- a. le commissioni politico-sociali, ossia le commissioni che sostengono l’Assemblea federale, il Consiglio federale e l’Amministrazione federale e trattano principalmente questioni politico-sociali;
+- b. le commissioni di vigilanza sul mercato, ossia le commissioni che vigilano sul funzionamento di un mercato o lo sostengono in modo determinante.
+
+#### Art. 8n
+
+**Categorie di commissioni politico-sociali**
+
+<sup>1</sup>
+
+Per quanto concerne l’indennizzo dei loro membri, le commissioni politico-sociali sono suddivise nelle seguenti categorie in base alle conoscenze richieste ai loro membri e ai compiti da esse svolti:
+
+- a. categoria S3: le commissioni la cui attività richiede elevate conoscenze specialistiche specifiche, segnatamente i cui membri devono essere autorità riconosciute nel settore di competenza della commissione e possedere conoscenze che non possono essere acquisite in tempo breve;
+- b. categoria S2: le commissioni la cui attività richiede elevate conoscenze specialistiche generali e che dispongono di poteri decisionali sovrani;
+- c. categoria S1: le commissioni la cui attività richiede elevate conoscenze specialistiche generali e che hanno compiti consultivi.
+
+<sup>2</sup> L’attribuzione delle commissioni politico-sociali alle categorie di indennizzo è disciplinata nell’allegato 2 numero 1.[^8n-1]
+
+[^8n-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+
+#### Art. 8o
+
+**Indennizzo dei membri delle commissioni politico-sociali**
+
+<sup>1</sup> I membri e i membri supplenti delle commissioni politico-sociali hanno diritto a una diaria per l’attività svolta in seno alla commissione.
+
+<sup>2</sup> Gli importi sono riportati nell’allegato 2 numero 1. Essi si applicano per il vicepresidente e per gli altri membri.[^8o-1]
+
+<sup>3</sup> La diaria del presidente è maggiorata del 25 per cento. In casi eccezionali motivati, l’autorità competente può accordare al presidente al massimo una diaria doppia.
+
+<sup>3bis</sup>
+
+Se la legislazione speciale o la decisione istitutiva della commissione prevede che membri della commissione debbano essere indipendenti da un settore le cui attività rientrano nella sfera di competenza della stessa e se i membri sono in tal modo limitati nell’esercizio della loro attività professionale, l’autorità competente può:
+
+- a. accordare un aumento della diaria del 50 per cento al massimo; se il membro interessato è il presidente, essa tiene conto della diaria maggiorata di cui al capoverso 3; e
+- b. versare al membro, oltre alla diaria, un importo forfetario di 30 000 franchi all’anno al massimo; gli importi forfetari versati devono essere indicati e motivati nel rapporto sul rinnovo integrale delle commissioni extraparlamentari secondo l’articolo 8*h* capoverso 3.[^8o-2]
+
+<sup>4</sup> L’autorità competente può accordare al massimo 16 diarie supplementari all’anno al membro che, al di fuori delle sedute e delle ispezioni, risulta impegnato considerevolmente nello studio di atti o rapporti o nella preparazione di relazioni. Se un mandato stabilito nella legislazione speciale richiede un impegno ancora maggiore, l’autorità competente può autorizzare, secondo il caso, la concessione di più di 16 diarie. Le diarie accordate oltre alle 16 diarie supplementari devono essere indicate e motivate nel rapporto sul rinnovo integrale delle commissioni extraparlamentari secondo l’articolo 8*h* capoverso 3.[^8o-3]
+
+<sup>5</sup> L’autorità competente accorda, per il giorno di viaggio, una mezza diaria al membro di una commissione che deve lasciare il domicilio già la vigilia della seduta oppure che può farvi ritorno soltanto l’indomani.
+
+<sup>6</sup> Nessuno può percepire più di una diaria per lo stesso giorno, anche se ha svolto compiti diversi o da conteggiare separatamente.
+
+<sup>7</sup> Gli importi non sono adattati al rincaro.
+
+[^8o-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^8o-2]: Introdotto dal n. I dell’O del 27 giu. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)). Nuovo testo giusta il n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
+[^8o-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 7](https://fedlex.data.admin.ch/eli/oc/2013/2)[427](https://fedlex.data.admin.ch/eli/oc/2013/81)).
+
+#### Art. 8p
+
+**Categorie di commissioni di vigilanza sul mercato**
+
+<sup>1</sup>
+
+Per quanto concerne l’indennizzo dei loro membri, le commissioni di vigilanza sul mercato sono suddivise nelle seguenti categorie in base alla portata dei loro lavori:
+
+- a. categoria M3: commissioni i cui lavori hanno un influsso sull’intera economia;
+- b. categoria M2/A: commissioni i cui lavori hanno un influsso su un intero settore;
+- c. categoria M2/B: commissioni i cui lavori hanno un influsso su un intero settore e che sostengono il funzionamento di un mercato, ma non si occupano della sua vigilanza;
+- d. categoria M1: commissioni i cui lavori hanno un influsso su una parte di un settore o che esercitano funzioni d’arbitrato.
+
+<sup>2</sup> L’attribuzione delle commissioni di vigilanza sul mercato alle categorie di indennizzo è disciplinata nell’allegato 2 numero 2.[^8p-1]
+
+[^8p-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+
+#### Art. 8q
+
+**Indennizzo dei membri delle commissioni di vigilanza sul mercato**
+
+<sup>1</sup> I membri delle commissioni di vigilanza sul mercato hanno diritto a un’indennità forfetaria per l’attività svolta in seno alla commissione.
+
+<sup>2</sup> Gli importi sono riportati nell’allegato 2 numero 2. Nei limiti di tali importi e delle disposizioni seguenti del presente articolo, il DEFR[^8q-1] può disciplinare in maniera differenziata le indennità per la Commissione per la tecnologia e l’innovazione.[^8q-2]
+
+<sup>3</sup> Gli importi comprendono tutte le spese, eccetto quelle rimborsate.
+
+<sup>4</sup> Gli importi sono calcolati per un posto a tempo pieno, sulla base di 220 giorni lavorativi all’anno. Nel caso di posti a tempo parziale, il grado d’occupazione è riportato nella decisione di nomina se non risulta dalle prescrizioni concernenti l’organizzazione della commissione interessata.[^8q-3]
+
+<sup>5</sup> Gli importi non sono adattati al rincaro.
+
+[^8q-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+[^8q-2]: Nuovo testo giusta il n. IV dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)).
+[^8q-3]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3819](https://fedlex.data.admin.ch/eli/oc/2012/445)).
+
+#### Art. 8r
+
+**Rimborso delle spese**
+
+<sup>1</sup> Il rimborso delle spese sostenute dai membri e dai membri supplenti delle commissioni extraparlamentari è disciplinato dalle corrispondenti disposizioni applicabili al personale federale.
+
+<sup>2</sup> Se la partecipazione ai lavori della commissione comporta un onere considerevole per un suo membro, in quanto è tenuto a organizzare l’assistenza di figli o congiunti bisognosi di cure, questi può chiedere il rimborso delle relative spese all’autorità competente.[^8r-1]
+
+[^8r-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 205](https://fedlex.data.admin.ch/eli/oc/2013/25)).
+
+#### Art. 8s
+
+**Membri di una commissione al servizio della Confederazione**
+
+<sup>1</sup> I membri e i membri supplenti delle commissioni extraparlamentari impiegati presso l’Amministrazione federale centrale o decentralizzata non hanno diritto a un indennizzo.
+
+<sup>2</sup> Eccezioni sono ammesse con l’accordo dell’autorità competente se la qualità di membro della commissione non è in rapporto con l’impiego presso l’Amministrazione federale centrale o decentralizzata.
+
+<sup>3</sup> Le indennità per i viaggi di servizio, i pasti e i pernottamenti sono disciplinate dalle disposizioni applicabili al personale federale.
+
+#### Art. 8t
+
+**Esclusione del doppio indennizzo**
+
+I membri delle commissioni extraparlamentari possono essere indennizzati soltanto in base agli importi applicabili alla loro commissione. Un ulteriore indennizzo per le attività svolte in relazione con il mandato della commissione è escluso.
+
+### Sezione 2: ...
+
+#### Art. 9 a 10c
+
+[^910c-1]
+
+[^910c-1]: Abrogati dall’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+
+## Capitolo 3: Direzione dell’attività del Governo e dell’Amministrazione
+
+### Sezione 1: Principi
+
+#### Art. 11
+
+**Principi dell’attività amministrativa**
+
+### (art. 3 LOGA)
+
+L’Amministrazione federale opera nel quadro del diritto federale e degli obiettivi e priorità fissati dal Consiglio federale. Essa osserva in particolare i seguenti principi:
+
+- a. riconosce tempestivamente il nuovo fabbisogno operativo e ne deduce obiettivi, strategie e provvedimenti;
+- b. ordina le sue attività corrispondentemente all’importanza e all’urgenza;
+- c. fornisce le sue prestazioni tenendo conto delle aspettative dei cittadini, in modo sostenibile, efficace e economico.
+
+#### Art. 12
+
+**Principi della direzione dell’Amministrazione**
+
+### (art. 8, 35, 36 LOGA)
+
+<sup>1</sup>
+
+A tutti i livelli, i responsabili della direzione operano fondandosi sui principi seguenti:
+
+- a. dirigono negoziando gli obiettivi e i risultati da conseguire;
+- b. valutano periodicamente le prestazioni delle unità amministrative e dei collaboratori;
+- c. adeguano tempestivamente le procedure e l’organizzazione ai nuovi bisogni;
+- d. utilizzano il margine di manovra di cui dispongono, esercitano le loro competenze decisionali e permettono ai loro collaboratori di fare altrettanto nel loro campo;
+- e. promuovono una cultura della disponibilità all’apprendimento e al cambiamento;
+- f. garantiscono un’attività imperniata sui risultati e interdisciplinare.
+
+<sup>2</sup> Per il resto, sono applicabili segnatamente la legislazione concernente il personale e il Concetto direttivo del Consiglio federale in materia di politica del personale.
+
+#### Art. 13
+
+**Attribuzione di competenze ai vari livelli dell’Amministrazione federale centrale**
+
+### (art. 47 cpv. 1 LOGA)
+
+<sup>1</sup> La competenza decisionale secondo l’articolo 47 capoverso 1 LOGA è attribuita in funzione dell’importanza dell’affare.
+
+<sup>2</sup> Di massima, l’attribuzione è effettuata all’unità presso cui è concentrata la necessaria competenza politica e materiale*.* L’attribuzione a unità al di sotto del livello dell’ufficio è effettuata soltanto in casi eccezionali, debitamente motivati.
+
+<sup>3</sup> Eccezionalmente, un affare viene sottoposto all’unità superiore per decisione o per ottenere istruzioni se la sua importanza o la sua complessità particolare lo richiede.
+
+### Sezione 2: Collaborazione
+
+#### Art. 14
+
+**Collaborazione tra le unità amministrative**
+
+<sup>1</sup> Le unità amministrative sono tenute a collaborare. Si sostengono e si informano a vicenda.
+
+<sup>2</sup> Coordinano la loro attività e l’armonizzano con la politica globale del Consiglio federale.
+
+<sup>3</sup> Danno ad altre unità amministrative le informazioni necessarie per l’adempimento dei loro compiti legali.
+
+#### Art. 15
+
+**Partecipazione di unità amministrative cointeressate**
+
+<sup>1</sup> Per la preparazione delle loro decisioni le unità amministrative garantiscono la partecipazione di tutte le unità cointeressate.[^15-1]
+
+<sup>2</sup> A tal fine invitano le unità cointeressate a esprimersi per scritto, sempre che un altro atto normativo non preveda una forma diversa di partecipazione.[^15-2]
+
+<sup>2bis</sup> Alla partecipazione nella preparazione di testi che contengono norme di diritto si applicano per analogia le disposizioni sugli affari del Consiglio federale (art. 4).[^15-3]
+
+<sup>3</sup> Se è necessaria l’approvazione, le divergenze vengono appianate dalle unità amministrative interessate. In casi eccezionali, queste ultime possono domandare un appianamento delle divergenze al livello immediatamente superiore.
+
+[^15-1]: Nuovo testo giusta l’art. 53 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2016 ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)).
+[^15-2]: Nuovo testo giusta l’art. 53 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2016 ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)).
+[^15-3]: Introdotto dall’art. 53 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2016 ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)).
+
+#### Art. 15a
+
+**Collaborazione con i Cantoni e altri organi preposti all’esecuzione**[^15a-1]
+
+<sup>1</sup> Se un progetto della Confederazione tocca interessi cantonali o comunali essenziali, il dipartimento competente o la Cancelleria federale coinvolge in modo adeguato gli organi cantonali competenti e, se opportuno, le associazioni mantello nazionali dei Comuni, delle città e delle regioni di montagna.
+
+<sup>2</sup>
+
+Gli interessi essenziali secondo il capoverso 1 sono toccati in particolare se:
+
+- a. il progetto deve essere attuato interamente o in parte da organi cantonali o comunali e l’attuazione richiede l’impiego di considerevoli risorse personali o finanziarie di tali organi;
+- b. gli organi cantonali o comunali devono essere riorganizzati; o
+- c. gli organi cantonali o comunali devono provvedere a modifiche essenziali del diritto.
+
+[^15a-1]: Introdotto dal n. II dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+
+#### Art. 16
+
+**Conferenza dei segretari generali**
+
+### (art. 53 LOGA)
+
+<sup>1</sup> La Conferenza dei segretari generali è l’organo supremo di coordinamento. Contribuisce a un’attività amministrativa previdente, efficace e coerente. Può far capo a terzi o ad altri servizi.
+
+<sup>2</sup> Coopera alla pianificazione, alla preparazione e al disbrigo degli affari del Consiglio federale, nonché all’appianamento delle divergenze.
+
+<sup>3</sup> Il Consiglio federale emana il regolamento interno della Conferenza dei segretari generali.[^16-1]
+
+[^16-1]: Introdotto dall’all. n. 5 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988))
+
+### Sezione 3: Pianificazione e supervisione
+
+#### Art. 17
+
+**Pianificazione**
+
+### (art. 6 cpv. 1, 25 cpv. 2 lett. a, 32 lett. a, 36 cpv. 1, 51, 52 LOGA)
+
+<sup>1</sup> Il Consiglio federale stabilisce le priorità, gli obiettivi e i mezzi delle pianificazioni.
+
+<sup>2</sup>
+
+Le pianificazioni del Consiglio federale constano di:
+
+- a. pianificazioni globali che comprendono tutti gli ambiti della politica della Confederazione; ne fanno parte le linee direttive della politica di governo secondo l’articolo 18 e gli obiettivi annui del Consiglio federale secondo l’articolo 19 come pianificazioni materiali, nonché le pianificazioni finanziarie previste dalla legge federale del 6 ottobre 1989[^17-1] sulle finanze della Confederazione e dalla relativa ordinanza dell’11 giugno 1990[^17-2];
+- b. pianificazioni specifiche relative a singoli ambiti della politica della Confederazione o a settori di questi ambiti;
+- c. se necessario, ulteriori pianificazioni.
+
+<sup>3</sup> Le pianificazioni materiali e le pianificazioni finanziarie vengono armonizzate nella misura del possibile dal punto di vista temporale e materiale. Le singole sfere di competenza sono raggruppate in ambiti politici.
+
+<sup>4</sup> La Cancelleria federale prepara i piani materiali secondo il capoverso 2 lettera a. L’Amministrazione federale delle finanze prepara il preventivo e il piano finanziario. A tal fine, collaborano con i dipartimenti.
+
+<sup>5</sup> Per le unità amministrative subordinate sono vincolanti le pianificazioni del Consiglio federale, rispettivamente dei Dipartimenti.
+
+[^17-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3 [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764)[535](https://fedlex.data.admin.ch/eli/oc/2003/114), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^17-2]: [[RU 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 4, [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 42 [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043), [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)all. n. 5, [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 n. 1, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 2, [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115), [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15. [RU 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)art. 76]. Vedi ora l’O del 5 apr. 2006 sulle finanze della Confederazione ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+
+#### Art. 18
+
+**Linee direttive della politica di Governo**
+
+### (art. 45<sup>bis</sup> LRC)
+
+[^18-1]
+
+<sup>1</sup> Le linee direttive della politica di Governo danno un orientamento politico globale per l’attività governativa nella legislatura.
+
+<sup>2</sup> Fanno un bilancio della legislatura trascorsa.
+
+<sup>3</sup> Stabiliscono gli obiettivi, i risultati perseguiti, nonché i provvedimenti prioritari e designano gli ambiti in cui l’offerta statale di prestazioni deve essere oggetto di un riesame o smantellata.
+
+[^18-1]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831), [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363)[1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753), [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249), [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245)[1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686), [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1, [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570)[688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66 [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679)[1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)[1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1, [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641)[2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360)[2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147), [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1 [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868), [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)[760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1 [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4, [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646)[1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418)[2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8, [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)[2093](https://fedlex.data.admin.ch/eli/oc/2000/317), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1,[2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1, [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3]. Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+#### Art. 19
+
+**Obiettivi annui del Consiglio federale**
+
+### (art. 51 LOGA)
+
+<sup>1</sup> Gli obiettivi annui del Consiglio federale definiscono le linee fondamentali dell’attività governativa per l’anno successivo, determinano gli obiettivi e i provvedimenti e designano gli affari da licenziare a destinazione delle Camere federali.
+
+<sup>2</sup> Gli obiettivi annui costituiscono la base per la pianificazione degli affari del Consiglio federale secondo l’articolo 2, per la supervisione secondo l’articolo 21, per la vigilanza secondo la sezione 5, nonché per la presentazione del rapporto annuo di gestione secondo l’articolo 45 della legge del 23 marzo 1962[^19-1] sui rapporti fra i Consigli (LRC).
+
+[^19-1]: Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+#### Art. 20
+
+**Obiettivi annui dei dipartimenti e della Cancelleria federale**
+
+### (art. 51 LOGA)
+
+<sup>1</sup> I dipartimenti e la Cancelleria federale armonizzano i loro obiettivi annui con le pianificazioni del Consiglio federale e glieli sottopongono per conoscenza.
+
+<sup>2</sup> Riferiscono sulla loro attività nel quadro della presentazione del rapporto annuo di gestione del Consiglio federale in virtù dell’articolo 45 LRC[^20-1].
+
+[^20-1]: Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+#### Art. 21
+
+**Supervisione**
+
+<sup>1</sup> La supervisione (*controlling*) è uno strumento di direzione che consente di incidere continuativamente sui processi di conseguimento degli obiettivi a tutti i livelli.
+
+<sup>2</sup> Nella sua attività di supervisione, il Consiglio federale è assistito dalla Cancelleria federale e dal Dipartimento federale delle finanze. A tal fine, la Cancelleria federale e il Dipartimento federale delle finanze collaborano con i dipartimenti.
+
+<sup>3</sup> I dipartimenti sono competenti per la supervisione nel loro ambito. Armonizzano il loro operato con quello del Consiglio federale.
+
+#### Art. 22
+
+**Documentazione dell’attività amministrativa**[^22-1]
+
+<sup>1</sup> Le unità amministrative documentano le loro attività con una gestione degli affari sistematica.
+
+<sup>2</sup> A tale scopo esse impiegano sistemi di gestione elettronica degli affari secondo l’ordinanza GEVER del 3 aprile 2019[^22-2], sempre che la legislazione non preveda un altro modo di gestire gli affari.
+
+[^22-1]: Nuovo testo giusta l’art. 20 n. 3 dell’O GEVER del 3 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
+[^22-2]: RS **170.010.441**
+
+### Sezione 3*a*:**** Convenzioni sulle prestazioni
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Introdotta dall’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+
+#### Art. 22a
+
+**Gestione mediante convenzioni sulle prestazioni**
+
+### (art. 38*a* LOGA)
+
+<sup>1</sup>
+
+I dipartimenti o i servizi da essi designati concludono con le loro unità amministrative convenzioni sulle prestazioni. Queste indicano perlomeno:
+
+- a. gli obiettivi annui del Consiglio federale e dei dipartimenti secondo gli articoli 19 e 20;
+- b. altri importanti progetti, comprese le tappe e le scadenze;
+- c. gli obiettivi in materia di prestazioni e risultati dei gruppi di prestazioni, di regola corredati da parametri e valori di riferimento.
+- [tab] <sup>2</sup> Non è necessario concludere convenzioni sulle prestazioni con:
+- a. la Cancelleria federale;
+- b. l’Incaricato federale della protezione dei dati e della trasparenza;
+- c. la Commissione federale delle case da gioco;
+- d. il Controllo federale delle finanze;
+- e. il Sorvegliante dei prezzi;
+- f. la Commissione della concorrenza;
+- g. il Servizio d’inchiesta svizzero sugli infortuni;
+- h. la Commissione federale delle poste;
+- i.[^22a-1] la Commissione del trasporto ferroviario;
+- j. la Commissione federale dell’energia elettrica;
+- k. la Commissione federale delle comunicazioni;
+- l. l’Autorità indipendente di ricorso in materia radiotelevisiva.
+
+[^22a-1]: Nuovo testo giusta il n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+
+#### Art. 22b
+
+**Rapporto e gestione**
+
+### (art. 38*a* cpv. 5 LOGA)
+
+<sup>1</sup> I dipartimenti o i servizi da essi designati stabiliscono quando e in quale forma le unità amministrative presentano un rapporto sul conseguimento degli obiettivi e su eventuali misure correttive.
+
+<sup>2</sup> L’Amministrazione federale delle finanze emana istruzioni sulla verifica della struttura e degli obiettivi dei gruppi di prestazioni di cui all’articolo 38*a* capoverso 5 LOGA.
+
+### Sezione 3*b*:**** Deroghe all’obbligo della doppia firma
+
+[^chap3-sec3b-1]
+
+[^chap3-sec3b-1]: Introdotta dal n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
+
+### (art. 49 cpv. 5 LOGA)
+
+#### Art. 22c
+
+Derogano dall’obbligo della doppia firma:
+
+- a. i contratti, le decisioni e altri impegni formali della Confederazione concernenti il settore del personale;
+- b. i trattati internazionali;
+- c.
+
+  i contratti, le decisioni e altri impegni formali dell’Amministrazione federale delle contribuzioni che:
+
+  - 1\. si fondano sulla legge del 12 giugno 2009[^22c-1] sull’IVA, sulla legge federale del 13 ottobre 1965[^22c-2] sull’imposta preventiva o sulla legge federale del 27 giugno 1973[^22c-3] sulle tasse di bollo, e
+  - 2\. in ragione del loro elevato numero non sono firmati singolarmente da un rappresentante dell’autorità (procedura collettiva).
+
+[^22c-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^22c-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^22c-3]: [RS 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+
+### Sezione 4: Informazione e comunicazione
+
+### (art. 10, 10*a*, 11, 34, 40 e 54 LOGA)
+
+[^chap3-sec4-1]
+
+#### Art. 23
+
+<sup>1</sup> La Cancelleria federale è competente, in collaborazione con i dipartimenti, per l’informazione dell’Assemblea federale, dei Cantoni e del pubblico su decisioni, intenzioni e provvedimenti del Consiglio federale. Provvede alla necessaria pianificazione ed elabora i principi per una politica di comunicazione del Consiglio federale.
+
+<sup>2</sup> I dipartimenti e la Cancelleria federale sono responsabili dell’informazione e della comunicazione interna ed esterna relativa ai loro affari. Vi provvedono tenendo conto del contesto globale della politica di comunicazione del Consiglio federale. Regolano i compiti d’informazione delle unità loro subordinate.
+
+<sup>3</sup> La Cancelleria federale è competente per il coordinamento dell’informazione e della comunicazione in collaborazione con la Conferenza dei servizi d’informazione della Confederazione e a questo scopo può emanare istruzioni.
+
+<sup>4</sup> In caso di necessità, il Consiglio federale può centralizzare l’informazione e la comunicazione presso il presidente della Confederazione, presso la Cancelleria federale, presso un dipartimento o presso un altro ente designato. L’ente designato ha corrispondenti competenze di emanare istruzioni.
+
+[^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+
+### Sezione 5: Vigilanza
+
+#### Art. 24
+
+**Vigilanza sull’Amministrazione**
+
+### (art. 8 cpv. 3 e 4, 36 cpv. 3 LOGA)
+
+<sup>1</sup> Mediante la vigilanza, il Consiglio federale, i dipartimenti e la Cancelleria federale garantiscono l’adempimento dei compiti costituzionali e legali.
+
+<sup>2</sup> La vigilanza sull’Amministrazione federale centrale è globale. È retta dai principi di cui negli articoli 11 e 12.
+
+<sup>3</sup> La vigilanza sull’Amministrazione federale decentralizzata, nonché sull’organizzazione e sulle persone conformemente all’articolo 2 capoverso 4 LOGA è disciplinata, quanto all’oggetto, all’estensione e ai principi, dalla legislazione speciale e rispetta il corrispondente grado di autonomia.
+
+#### Art. 25
+
+**Controllo**
+
+### (art. 8 cpv. 3 e 4 LOGA)
+
+<sup>1</sup>
+
+Il controllo, come strumento della vigilanza, serve:
+
+- a. alla chiarificazione approfondita di particolari interrogativi risultanti da avvenimenti attuali o da disfunzioni constatate;
+- b. all’esame periodico di particolari settori.
+
+<sup>2</sup> I controlli sono affidati di massima a speciali servizi indipendenti dalle unità amministrative controllate.
+
+#### Art. 26
+
+**Controllo da parte del Consiglio federale**[^26-1]
+
+### (art. 8 cpv. 3 e 4, 25 cpv. 2 lett. c e d, 32 lett. e LOGA)
+
+Nell’esercizio dei compiti legali di controllo, il Consiglio federale e il presidente della Confederazione sono assistiti dalla Cancelleria federale. Per chiarire questioni interdipartimentali è possibile ricorrere a gruppi di lavoro giusta l’articolo 56 LOGA o a una consulenza esterna ai sensi dell’articolo 57 LOGA.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+
+#### Art. 27
+
+**Controllo dei compiti della Confederazione**[^27-1]
+
+### (art. 5 LOGA)
+
+<sup>1</sup> Le unità amministrative controllano periodicamente e sistematicamente i loro compiti, le loro prestazioni, le loro procedure e la loro organizzazione in funzione delle necessità e della conformità ai principi degli articoli 11 e 12; provvedono affinché vengano prese le corrispondenti misure di adeguamento e di rinuncia.
+
+<sup>2</sup> La Conferenza dei Segretari generali assume un ruolo di coordinamento.
+
+<sup>3</sup> L’Amministrazione federale delle finanze coordina, in collaborazione con la Conferenza dei segretari generali, il controllo di cui al capoverso 1 con il riesame di cui all’articolo 5 della legge del 5 ottobre 1990[^27-2] sui sussidi.[^27-3]
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-3]: Introdotto dall’all. n. 1 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+
+### Sezione 6:**** Inchiesta amministrativa
+
+[^chap3-sec6-1]
+
+[^chap3-sec6-1]: Introdotta dal n. I dell’O del 10 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5251](https://fedlex.data.admin.ch/eli/oc/2004/805)).
+
+#### Art. 27a
+
+**Scopo**
+
+<sup>1</sup> L’inchiesta amministrativa è una procedura speciale del controllo ai sensi degli articoli 25 e 26 volta ad accertare se sussiste un fatto che esige un intervento d’ufficio per salvaguardare l’interesse pubblico.
+
+<sup>2</sup> L’inchiesta amministrativa non è diretta contro una persona determinata. Sono fatti salvi l’inchiesta disciplinare ai sensi dell’articolo 98 dell’ordinanza del 3 luglio 2001[^27a-1] sul personale federale nonché i procedimenti penali.
+
+[^27a-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+#### Art. 27b
+
+**Procedimenti parallelamente in corso**
+
+<sup>1</sup> Un’inchiesta amministrativa non può ostacolare né inchieste penali né inchieste degli organi di vigilanza parlamentari.
+
+<sup>2</sup> Se si può prevedere un conflitto di procedura, l’autorità che ha ordinato l’inchiesta sospende o interrompe l’inchiesta amministrativa.
+
+#### Art. 27c
+
+**Autorità competente a ordinare un’inchiesta amministrativa**
+
+<sup>1</sup> Il capo del Dipartimento o il cancelliere della Confederazione ordina un’inchiesta amministrativa nelle unità amministrative che gli sono subordinate. Può delegare detta competenza alle unità amministrative che gli sono subordinate.
+
+<sup>2</sup> Il Consiglio federale ordina l’inchiesta se un’inchiesta amministrativa interessa più di un Dipartimento o un Dipartimento e la Cancelleria federale.
+
+#### Art. 27d
+
+**Organi d’inchiesta**
+
+<sup>1</sup>
+
+L’inchiesta amministrativa è affidata a persone:
+
+- a. le quali adempiono i requisiti personali, professionali e tecnici necessari per lo svolgimento di siffatto compito;
+- b. le quali non lavorano nell’ambito di attività sotto inchiesta; e
+- c. alle quali non è affidato contemporaneamente un procedimento disciplinare o altro procedimento di diritto del personale nello stesso affare.
+
+<sup>2</sup> L’inchiesta può essere affidata a persone estranee all’Amministrazione federale. Queste agiscono in veste di mandatari dell’autorità che ordina l’inchiesta.
+
+<sup>3</sup> L’organo d’inchiesta può, nei limiti del suo mandato, emanare le necessarie istruzioni ma non decisioni formali.
+
+<sup>4</sup> Le disposizioni concernenti la ricusazione di cui all’articolo 10 della legge federale del 20 dicembre 1968[^27d-1] sulla procedura amministrativa (PA) sono applicabili per analogia.
+
+[^27d-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 27e
+
+**Mandato d’inchiesta**
+
+<sup>1</sup>
+
+L’autorità che ordina l’inchiesta rilascia un mandato d’inchiesta scritto. In esso sono descritti segnatamente:
+
+- a. l’oggetto dell’inchiesta;
+- b. la nomina dell’organo d’inchiesta;
+- c. le competenze dell’organo d’inchiesta;
+- d. l’obbligo di serbare il segreto d’ufficio;
+- e. le indennità spettanti all’organo d’inchiesta;
+- f. l’approntamento degli strumenti ausiliari necessari;
+- g. il coinvolgimento di organi ausiliari;
+- h. la presentazione dei rapporti;
+- i. lo scadenzario.
+
+<sup>2</sup> Al mandato d’inchiesta sono allegati eventuali atti già esistenti.
+
+#### Art. 27f
+
+**Apertura**
+
+<sup>1</sup> L’autorità che ordina l’inchiesta ne notifica l’apertura nonché il motivo che l’ha originata, lo scopo e l’organo d’inchiesta alle unità amministrative interessate.
+
+<sup>2</sup> Essa emana le necessarie istruzioni concernenti i diritti d’ispezione e di accesso degli organi d’inchiesta nonché l’obbligo di informare gli impiegati interessati.
+
+#### Art. 27g
+
+**Esecuzione**
+
+<sup>1</sup> Per accertare i fatti, l’organo d’inchiesta si attiene ai mezzi di prova di cui all’articolo 12 PA[^27g-1]. Nell’ambito dell’inchiesta amministrativa non si procede però all’audizione di testimoni.
+
+<sup>2</sup> Le autorità e gli impiegati della Confederazione coinvolti nell’inchiesta amministrativa sono tenuti a collaborare all’accertamento dei fatti.
+
+<sup>3</sup> Se, nel corso dell’inchiesta amministrativa, emerge che sono necessarie da altri Dipartimenti o dalla Cancelleria federale informazioni soggette a segreto, l’organo d’inchiesta deve ottenere il consenso del capo del Dipartimento interessato o del Cancelliere della Confederazione. Negli altri casi si applica l’articolo 14.
+
+<sup>4</sup> Le autorità e le persone coinvolte nell’inchiesta amministrativa hanno la possibilità di esaminare gli atti che li concernono e di esprimere il loro parere (art. 26–28 PA).
+
+<sup>5</sup> Esse hanno il diritto di essere sentite (art. 29–33 PA).
+
+[^27g-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 27h
+
+**Interrogazioni**
+
+<sup>1</sup> Le persone coinvolte nell’inchiesta amministrativa possono farsi rappresentare o patrocinare.
+
+<sup>2</sup> L’organo d’inchiesta informa le persone le quali devono essere sentite che esse possono rifiutarsi di deporre qualora la deposizione arrecasse loro pregiudizio in vista di un procedimento disciplinare o penale.
+
+<sup>3</sup> L’organo d’inchiesta informa le persone estranee all’Amministrazione federale che devono essere sentite che non sono obbligate a rilasciare informazioni.
+
+#### Art. 27i
+
+**Protezione dei dati personali**
+
+Ogni servizio amministrativo invitato dall’organo d’inchiesta a rendere noti dati personali è tenuto, nella propria sfera di competenza, a garantire l’osservanza delle disposizioni della legge federale del 19 giugno 1992[^27i-1] sulla protezione dei dati.
+
+[^27i-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 27j
+
+**Risultati**
+
+<sup>1</sup> L’organo d’inchiesta fornisce all’autorità che ordina l’inchiesta gli atti d’inchiesta completi e un rapporto.
+
+<sup>2</sup> Nel rapporto, oltre a descrivere lo svolgimento e i risultati dell’inchiesta, formula proposte sul seguito del procedimento.
+
+<sup>3</sup> L’autorità che ordina l’inchiesta informa del risultato le autorità e le persone coinvolte nell’inchiesta amministrativa.
+
+<sup>4</sup> L’autorità che ordina l’inchiesta decide in merito alle conseguenze dell’inchiesta amministrativa.
+
+<sup>5</sup> I risultati di un’inchiesta amministrativa possono essere motivo per l’apertura di altri procedimenti, segnatamente di diritto del personale.
+
+## Capitolo 3*a*:**** Approvazione di atti legislativi dei Cantoni
+
+[^chap3a-1]
+
+[^chap3a-1]: Introdotto dal n. I dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
+
+#### Art. 27k
+
+**Presentazione**
+
+### (art. 61*b* cpv. 1 LOGA)
+
+<sup>1</sup> Le leggi e le ordinanze dei Cantoni che sottostanno all’approvazione della Confederazione devono essere inoltrate alla Cancelleria federale. La Cancelleria federale può esigerne l’inoltro.
+
+<sup>2</sup> Gli atti legislativi devono essere inoltrati non appena l’autorità cantonale competente li ha adottati. Non è necessario aspettare la votazione popolare o la scadenza del termine di referendum.
+
+<sup>3</sup> I Cantoni possono sottoporre al previo esame della Cancelleria federale i progetti di atti legislativi che sottostanno all’approvazione della Confederazione.
+
+#### Art. 27l
+
+**Trasmissione al dipartimento competente**
+
+<sup>1</sup> La Cancelleria federale trasmette l’atto legislativo inoltratole al dipartimento competente in materia.
+
+<sup>2</sup> Se un atto legislativo non rientra nella competenza esclusiva di un solo dipartimento, la Cancelleria federale designa il dipartimento incaricato della direzione dei lavori e informa gli altri dipartimenti interessati.
+
+#### Art. 27m
+
+**Approvazione in casi non controversi**
+
+### (art. 61*b* cpv. 2 LOGA)
+
+Se il caso non è controverso, il dipartimento dà la sua approvazione entro due mesi dall’inoltro e la comunica ai Cantoni e alla Cancelleria federale.
+
+#### Art. 27n
+
+**Approvazione in casi controversi**
+
+### (art. 61*b* cpv. 3 LOGA)
+
+<sup>1</sup> Se giunge alla conclusione che l’atto non è conforme al diritto federale e non può quindi essere approvato o potrebbe esserlo soltanto con riserva, il dipartimento prende una decisione provvisoria entro due mesi dall’inoltro. Trasmette la decisione con una breve motivazione al Cantone fissandogli un termine di risposta.
+
+<sup>2</sup> Se la risposta del Cantone lo persuade che l’atto non è incompatibile con il diritto federale, il dipartimento dà la sua approvazione entro due mesi da quando è giunta la risposta.
+
+<sup>3</sup> In caso contrario il dipartimento sottopone l’oggetto al Consiglio federale entro due mesi, proponendogli di approvare l’atto con riserva o di rifiutare l’approvazione.
+
+## Capitolo 3*b*:**** Trattati intercantonali o dei Cantoni con l’estero
+
+[^chap3b-1]
+
+[^chap3b-1]: Introdotto dal n. I dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
+
+#### Art. 27o
+
+**Informazione nei confronti della Confederazione**
+
+### (art. 61*c* cpv. 1 LOGA)
+
+<sup>1</sup> I Cantoni contraenti o un servizio di coordinamento designato dai medesimi informano la Cancelleria federale sui trattati intercantonali o dei Cantoni con l’estero.
+
+<sup>2</sup>
+
+L’informazione va trasmessa alla Cancelleria federale:
+
+- a. nel caso dei trattati intercantonali, dopo l’adozione del progetto da parte dell’organo intercantonale incaricato di elaborarli o dopo l’accettazione di un trattato da parte di almeno uno dei Cantoni contraenti;
+- b. nel caso dei trattati dei Cantoni con l’estero, prima della loro conclusione.
+
+<sup>3</sup> All’informazione è allegato il testo del trattato.
+
+#### Art. 27p
+
+**Esame preliminare di trattati intercantonali**
+
+I Cantoni possono sottoporre alla Cancelleria federale i trattati intercantonali per l’esame preliminare.
+
+#### Art. 27q
+
+**Informazione nei confronti dei Cantoni terzi**
+
+### (art. 62 cpv. 1 LOGA)
+
+<sup>1</sup> Entro 14 giorni da quando il trattato è stato depositato, la Cancelleria federale informa, mediante una comunicazione nel Foglio federale, i Cantoni che non partecipano all’accordo (Cantoni terzi) su un trattato di cui ha preso atto.
+
+<sup>2</sup> Nella comunicazione essa indica i Cantoni contraenti, il titolo del trattato in questione e il servizio presso cui è possibile procurarsi il testo del trattato o prenderne visione.
+
+<sup>3</sup> Ai trattati dei Cantoni con l’estero conclusi per il tramite della Confederazione si applicano per analogia i capoversi 1 e 2.
+
+#### Art. 27r
+
+**Trasmissione al dipartimento competente**
+
+<sup>1</sup> La Cancelleria federale trasmette il trattato inoltratole al dipartimento competente in materia.
+
+<sup>2</sup> Se il trattato non rientra nella competenza esclusiva di un solo dipartimento, la Cancelleria federale designa il dipartimento incaricato della direzione dei lavori e informa gli altri dipartimenti interessati.
+
+#### Art. 27s
+
+**Comunicazione del risultato dell’esame; obiezione contro i trattati**
+
+### (art. 62 cpv. 2 e 3 LOGA)
+
+<sup>1</sup> Entro due mesi dall’informazione nel Foglio federale secondo l’articolo 27*q*, il dipartimento comunica il risultato dell’esame del trattato ai Cantoni contraenti o al servizio di coordinamento e alla Cancelleria federale.
+
+<sup>2</sup> Se constata che il trattato pregiudica il diritto o gli interessi della Confederazione, il dipartimento solleva obiezione nei confronti dei Cantoni contraenti e, se del caso, del servizio di coordinamento e li invita a prendere posizione.
+
+<sup>3</sup> Il dipartimento comunica tempestivamente ai Cantoni contraenti, al servizio di coordinamento e alla Cancelleria se, in base alla presa di posizione, l’opposizione al diritto o agli interessi della Confederazione permane oppure no.
+
+#### Art. 27t
+
+**Reclamo all’Assemblea federale**
+
+### (art. 62 cpv. 4 LOGA)
+
+Se l’opposizione al diritto o agli interessi della Confederazione permane, il dipartimento chiede al Consiglio federale di sollevare reclamo all’Assemblea federale contro il trattato interessato.
+
+## Capitolo 4: Disposizioni finali
+
+### Sezione 1: Altre disposizioni d’esecuzione
+
+#### Art. 28
+
+**Ordinanze del Consiglio federale sull’organizzazione dei dipartimenti e della Cancelleria federale**
+
+### (art. 31 cpv. 3, 43 e 47 LOGA)
+
+Il Consiglio federale emana un’ordinanza sull’organizzazione di ogni dipartimento e della Cancelleria federale. Vi disciplina in particolare:
+
+- a. gli obiettivi, i principi e le competenze dei dipartimenti, rispettivamente della Cancelleria federale;
+- b. gli obiettivi, i compiti e le competenze dei gruppi e degli uffici;
+- c.[^28-1] l’attribuzione interna ai dipartimenti delle unità amministrative decentralizzate, nonché, nella misura in cui non siano disciplinati in altro modo, i loro obiettivi, compiti e competenze.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+
+#### Art. 29
+
+**Regolamenti interni dei dipartimenti e della Cancelleria federale**
+
+### (art. 37 e 43 cpv. 4 LOGA)
+
+<sup>1</sup>
+
+I dipartimenti e la Cancelleria federale emanano propri regolamenti interni. Vi possono disciplinare in particolare:
+
+- a. i principi di direzione del dipartimento, rispettivamente della Cancelleria federale;
+- b. i principi d’organizzazione del dipartimento, rispettivamente della Cancelleria federale, nella misura in cui non siano disciplinati da altre prescrizioni;
+- c. la procura a firmare;
+- d.[^29-1] il ricorso a consulenti esterni da parte di gruppi e uffici.
+
+<sup>2</sup> Per i compiti interdipartimentali, i dipartimenti competenti, rispettivamente la Cancelleria federale possono emanare un regolamento interno comune.
+
+<sup>3</sup> I regolamenti interni sono accessibili al pubblico; non sono però pubblicati nella Raccolta ufficiale delle leggi federali.
+
+[^29-1]: Introdotta dal n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+
+#### Art. 30
+
+**Istruzioni e documenti ausiliari**
+
+<sup>1</sup> Il Consiglio federale, rispettivamente la Conferenza dei segretari generali, i dipartimenti o la Cancelleria federale provvedono con istruzioni e documenti ausiliari al buon funzionamento dell’Amministrazione.
+
+<sup>2</sup>
+
+Le istruzioni e i documenti ausiliari disciplinano segnatamente:
+
+- a. la preparazione degli affari del Consiglio federale;
+- b.[^30-1] ...
+- c. la struttura di messaggi e rapporti del Consiglio federale alle Camere federali;
+- d. l’elaborazione e l’impostazione di atti legislativi della Confederazione;
+- e. i principi dell’attribuzione delle competenze al livello adeguato;
+- f. la procedura legislativa preliminare, nella misura in cui non sia disciplinata nell’ordinanza del 17 giugno 1991[^30-2] sulla procedura di consultazione;
+- g. l’impiego delle risorse, segnatamente nei settori del personale, delle finanze, dell’informatica e della logistica;
+- h. la composizione e la nomina, i mandati, la procedura degli organi di stato maggiore, di pianificazione e di coordinamento, nonché i loro rapporti con il resto dell’Amministrazione;
+- i. la cura dei rapporti internazionali dell’Amministrazione federale;
+- j. l’attività commerciale accessoria delle unità amministrative;
+- k. l’obbligo di gestione degli atti;
+- l. le abilitazioni del presidente della Confederazione in applicazione dell’articolo 26 capoverso 4 LOGA;
+- m. il coordinamento dell’informazione e della comunicazione.
+
+[^30-1]: Abrogata dal n. I dell’O del 21 ago. 2002, con effetto dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^30-2]: [[RU 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)art. 22. [RU 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)art. 22]. Vedi ora l’O del 17 ago. 2005 sulla consultazione ([RS 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
+
+### Sezione 2: Autorizzazione a compiere atti per conto di uno Stato estero e di tribunali internazionali****
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Nuovo testo giusta l’all. n. 2 dell’O del 19 dic. 2003, in vigore dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
+
+#### Art. 31
+
+<sup>1</sup> Nel loro ambito, i dipartimenti e la Cancelleria federale decidono in merito alle autorizzazioni secondo l’articolo 271 numero 1 del Codice penale[^31-1] a compiere atti per conto di uno Stato estero.
+
+<sup>1bis</sup> L’Ufficio federale di giustizia è competente per accordare le autorizzazioni ai sensi dell’articolo 22 del Decreto federale del 21 dicembre 1995[^31-2] concernente la cooperazione con i tribunali internazionali incaricati del perseguimento penale delle violazioni gravi del diritto internazionale umanitario.[^31-3]
+
+<sup>2</sup> Casi di importanza fondamentale, politica o di altro genere vanno sottoposti al Consiglio federale.
+
+<sup>3</sup> Le decisioni sono comunicate al Ministero pubblico della Confederazione e ai dipartimenti cointeressati.[^31-4]
+
+[^31-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-2]: [RS 351.20](https://fedlex.data.admin.ch/eli/cc/1996/2_2_2). Ora: LF.
+[^31-3]: Introdotto dall’all. n. 2 dell’O del 19 dic. 2003, in vigore dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
+[^31-4]: Nuovo testo giusta l’all. n. 2 dell’O del 19 dic. 2003, in vigore dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
+
+### Sezione 3: ...
+
+#### Art. 32
+
+[^32-1]
+
+[^32-1]: Abrogato dal n. I dell’O del 21 ago. 2002, con effetto dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+
+### Sezione 4: ...
+
+#### Art. 33
+
+[^33-1]
+
+[^33-1]: Abrogato dal n. I dell’O del 16 gen. 2008, con effetto dal 1° feb. 2008 ([RU 2008 191](https://fedlex.data.admin.ch/eli/oc/2008/59)).
+
+### Sezione 5: Diritto previgente: abrogazione
+
+#### Art. 34
+
+Il decreto del Consiglio federale del 7 luglio 1971[^34-1] che dà facoltà ai Dipartimenti e alla Cancelleria federale di accordare l’autorizzazione prevista dall’articolo 271 numero 1 del Codice penale svizzero è abrogato.
+
+[^34-1]: [[RU 1971 1053](https://fedlex.data.admin.ch/eli/oc/1971/1053_1053_1053)]
+
+### Sezione 6: Entrata in vigore
+
+#### Art. 35
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° gennaio 1999.
+
+<sup>2</sup> Gli articoli 26 e 27 entrano in vigore simultaneamente all’ordinanza del 5 maggio 1999[^35-1] sull’organizzazione della Cancelleria federale.
+
+[^35-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 7. [RU 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)art. 11]. In vigore dal 1° giu. 1999.
+
+## Disposizione transitoria relativa alla modifica del 26 novembre 2008****
+
+[^u1-1]
+
+[^u1-1]: [RU 2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)
+
+<sup>1</sup> Fino al rinnovo integrale nel 2011, i dipartimenti continuano a provvedere alle nomine sostitutive dei membri delle commissioni extraparlamentari che hanno istituito prima del 1° gennaio 2009.
+
+<sup>2</sup> Fino al rinnovo integrale nel 2011, l’articolo 8*f* sull’indicazione delle relazioni d’interesse si applica solo ai membri delle commissioni extraparlamentari neocostituite.
+
+## Disposizione transitoria della modifica del 27 novembre 2009****
+
+[^u2-1]
+
+[^u2-1]: [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)
+
+Le indennità dei membri delle commissioni extraparlamentari sono adeguate quanto prima alle disposizioni della modifica del 27 novembre 2009 della presente ordinanza, ma al più tardi per l’inizio del prossimo mandato.
+
+## Disposizioni transitorie della modifica del 30 giugno 2010****
+
+[^u3-1]
+
+[^u3-1]: [RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)
+
+Se l’attribuzione di un’unità amministrativa all’Amministrazione federale decentralizzata conformemente all’allegato 1 ha ripercussioni sullo statuto della cassa pensioni di tale unità, queste hanno effetto soltanto con la modifica delle pertinenti disposizioni organizzative nella legge speciale.
+
+Le commissioni extraparlamentari che non sono integrate nell’allegato 2 in virtù dell’articolo 8 capoverso 2, sono verificate e integrate in tale allegato in occasione del loro prossimo rinnovo integrale, conformemente all’articolo 57*d* LOGA.
+
+Allegato 1*[^t-1]*
+
+(art. 8 cpv. 1)
+
+## Elenco delle unità amministrative dell’Amministrazione federale
+
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aggiornato dal n. I dell’O del 27 ott. 2010 ([RU 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), dall’art. 15 dell’O del 20 apr. 2011 sull’organizzazione del DFAE ([RU 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), dal n. II dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), dall’all. n. 1 dell’O del 23 mar. 2011 sull’organizzazione del SISI ([RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), dal n. I dell’O del 30 nov. 2011 ([RU 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), dall’all. n. 1 dell’O del 9 dic. 2011 sull’informatica nell’Amministrazione federale ([RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), dall’all. n. 2 dell’O del 21 nov. 2012 sull’Istituto federale di metrologia ([RU 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), dal n. I 2 cpv. 1 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), dalla correzione del 28 dic. 2012 ([RU 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), dalla correzione del 15 gen. 2013 ([RU 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), dai n. II delle O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), del 28 nov. 2014 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), del 28 gen. 2015 ([RU 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), dall’all. 2 n. II 1 dell’O del 29 mar. 2017 sulle strutture dell’esercito ([RU 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), dall’all. n. 2 dell’O del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), dall’all. 2 n. II 2 dell’O del 15 set. 2017 sull’alcol ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dall’all. 6 n. II 1 dell’O del 21 set. 2018 sui medicamenti ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), dal n. II dell’O del 7 nov. 2018 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), dal n. I dell’O del 30 nov. 2018 ([RU 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), dal n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)) e dall’all. n. 2 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+
+L’Amministrazione federale consta delle seguenti unità amministrative:
+
+<table>
+<tr><td>A.</td><td colspan="8">Bundeskanzlei (BK) Chancellerie fédérale (ChF) Cancelleria federale (CaF) Chanzlia federala (ChF)</td></tr>
+<tr><td></td><td>**1.**</td><td colspan="7">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td></td><td colspan="2">1.1</td><td colspan="5">Bundeskanzlei (BK) Chancellerie fédérale (ChF) Cancelleria federale (CaF) Chanzlia federala (ChF)</td></tr>
+<tr><td></td><td>**2.**</td><td colspan="7">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td></td><td colspan="2">**2.1**</td><td colspan="5">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="3">2.1.1</td><td colspan="2">Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) Préposé fédéral à la protection des données et à la transparence (PFPDT) Incaricato federale della protezione dei dati e della trasparenza (IFPDT) Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT)</td></tr>
+<tr><td></td><td></td><td colspan="2">**2.2**</td><td colspan="5">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="5">Nessuno</td></tr>
+<tr><td></td><td></td><td colspan="2">**2.3**</td><td colspan="5">**Società anonime con una partecipazione maggioritaria della** **Conf****e****derazione****:**</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="5">Nessuna</td></tr>
+<tr><td>B.</td><td colspan="8">Departemente Départements Dipartimenti Departaments</td></tr>
+<tr><td></td><td colspan="2">I.</td><td colspan="7">Eidgenössisches Departement für auswärtige Angelegenheiten (EDA) Département fédéral des affaires étrangères (DFAE) Dipartimento federale degli affari esteri (DFAE) Departament federal d'affars exteriurs (DFAE)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.1</td><td colspan="4">Generalsekretariat (GS-EDA) Secrétariat général (SG-DFAE) Segreteria generale (SG-DFAE) Secretariat general (SG-DFAE)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.2</td><td colspan="4">Staatssekretariat (STS) Secrétariat d’Etat (SEE) Segreteria di Stato (SES) Secretariat da stadi (SES)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.3</td><td colspan="4">Politische Direktion (PD) Direction politique (DP) Direzione politica (DP) Direcziun politica (DP)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.4</td><td colspan="4">Direktion für Völkerrecht (DV) Direction du droit international public (DDIP) Direzione del diritto internazionale pubblico (DDIP) Direcziun da dretg internaziunal public (DDIP)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.5</td><td colspan="4">Direktion für Entwicklung und Zusammenarbeit (DEZA) Direction du développement et de la coopération (DDC) Direzione dello sviluppo e della cooperazione (DSC) Direcziun da svilup e da cooperaziun (DSC)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.6</td><td colspan="2">Direktion für europäische Angelegenheiten (DEA) Direction des affaires européennes (DAE) Direzione degli affari europei (DAE) Direcziun dals affars europeics (DAE)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.7</td><td colspan="2">Direktion für Ressourcen (DR) Direction des ressources (DR) Direzione delle risorse (DR) Direcziun da resursas (DR)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.8</td><td colspan="2">Konsularische Direktion (KD) Direction consulaire (DC) Direzione consolare (DC) Direcziun consulara (DC)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="3">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Nessuna</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="2">II.</td><td colspan="7">Eidgenössisches Departement des Innern (EDI) Département fédéral de l’intérieur (DFI) Dipartimento federale dell’interno (DFI) Departament federal da l’intern (DFI)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.1</td><td colspan="3">Generalsekretariat (GS-EDI) Secrétariat général (SG-DFI) Segreteria generale (SG-DFI) Secretariat general (SG-DFI)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.2</td><td colspan="3">Eidgenössisches Büro für die Gleichstellung von Frau und Mann (EBG) Bureau fédéral de l’égalité entre femmes et hommes (BFEG) Ufficio federale per l’uguaglianza fra donna e uomo (UFU) Uffizi federal per l’egualitad tranter dunna ed um (UFEG)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.3</td><td colspan="3">Bundesamt für Kultur (BAK) Office fédéral de la culture (OFC) Ufficio federale della cultura (UFC) Uffizi federal da cultura (UFC)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.4</td><td colspan="3">Schweizerisches Bundesarchiv (BAR) Archives fédérales suisses (AFS) Archivio federale svizzero (AFS) Archiv federal svizzer (AFS)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.5</td><td colspan="3">Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) Office fédéral de météorologie et de climatologie (MétéoSuisse) Ufficio federale di meteorologia e climatologia (MeteoSvizzera) Uffizi federal per meteorologia e climatologia (MeteoSvizra)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.6</td><td colspan="3">Bundesamt für Gesundheit (BAG) Office fédéral de la santé publique (OFSP) Ufficio federale della sanità pubblica (UFSP) Uffizi federal da sanadad publica (UFSP)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.7</td><td colspan="3">Bundesamt für Statistik (BFS) Office fédéral de la statistique (OFS) Ufficio federale di statistica (UST) Uffizi federal da statistica (UST)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.8</td><td colspan="3">Bundesamt für Sozialversicherungen (BSV) Office fédéral des assurances sociales (OFAS) Ufficio federale delle assicurazioni sociali (UFAS) Uffizi federal d’assicuranzas socialas (UFAS)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.9</td><td colspan="3">Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Uffizi federal da segirezza alimentara e fatgs veterinars (USAV)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="6">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="5">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Nessuna</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="5">**Enti, istituti e fondazioni autonomi sul piano giur****i****dico:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.1</td><td colspan="3">Schweizerisches Nationalmuseum (SNM) Musée national suisse (MNS) Museo nazionale svizzero (MNS) Museum naziunal svizzer (MNS)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.2</td><td colspan="3">Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.3</td><td colspan="3">Schweizerisches Heilmittelinstitut (Swissmedic) Institut suisse des produits thérapeutiques (Swissmedic) Istituto svizzero per gli agenti terapeutici (Swissmedic) Institut svizzer per products terapeutics (Swissmedic)</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.4</td><td colspan="4">Compenswiss (Ausgleichsfonds AHV/IV/EO) compenswiss (Fonds de compensation AVS/AI/APG) compenswiss (Fondi di compensazione AVS/AI/IPG) Compenswiss ...</td></tr>
+<tr><td></td><td></td><td colspan="3"></td><td colspan="2">**2.3**</td><td colspan="4">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Nessuna</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="3">III.</td><td colspan="7">Eidgenössisches Justiz- und Polizeidepartement (EJPD) Département fédéral de justice et police (DFJP) Dipartimento federale di giustizia e polizia (DFGP) Departament federal da giustia e polizia (DFGP)</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="2">**1.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.1</td><td colspan="3">Generalsekretariat (GS-EJPD) Secrétariat général (SG-DFJP) Segreteria generale (SG-DFGP) Secretariat general (SG-DFGP)</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.2</td><td colspan="3">Bundesamt für Justiz (BJ) Office fédéral de la justice (OFJ) Ufficio federale di giustizia (UFG) Uffizi federal da giustia (UFG)</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.3</td><td colspan="3">Bundesamt für Polizei (fedpol) Office fédéral de la police (fedpol) Ufficio federale di polizia (fedpol) Uffizi federal da polizia (fedpol)</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.4</td><td colspan="3">Staatssekretariat für Migration (SEM) Secrétariat d’Etat aux migrations (SEM) Segreteria di Stato della migrazione (SEM) Secretariat da stadi per migraziun (SEM)</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="2">**2.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4">**2.1**</td><td colspan="2">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.1</td><td>...</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.3</td><td>Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2">**2.2**</td><td colspan="2">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2"></td><td>2.2.1</td><td>Schweizerisches Institut für Rechtsvergleichung (SIR) Institut suisse de droit comparé (ISDC) Istituto svizzero di diritto comparato (ISDC) Institut svizzer da dretg cumparativ (ISDC)</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2"></td><td>2.2.2</td><td>Eidgenössisches Institut für Geistiges Eigentum (IGE) Institut Fédéral de la Propriété Intellectuelle (IPI) Istituto Federale della Proprietà Intellettuale (IPI) Institut Federal da Proprietad Intellectuala (IPI)</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2"></td><td>2.2.3</td><td>Eidgenössische Revisionsaufsichtsbehörde (RAB) Autorité fédérale de surveillance en matière de révision (ASR) Autorità federale di sorveglianza dei revisori (ASR) Autoritad federala da surveglianza en chaussas da revisiun (ASR)</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2"></td><td>2.2.4</td><td>Eidgenössisches Institut für Metrologie METAS Institut fédéral de métrologie METAS Istituto federale di metrologia METAS Institut federal da metrologia METAS</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2">**2.3**</td><td colspan="3">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2"></td><td colspan="3">Nessuna</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="2">IV.</td><td colspan="7">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) Département fédéral de la défense, de la protection de la population et des sports (DDPS) Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) Departament federal da defensiun, protecziun da la populaziun e sport (DDPS)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="7">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.1</td><td colspan="6">Generalsekretariat (GS-VBS) Secrétariat général (SG-DDPS) Segreteria generale (SG-DDPS) Secretariat general (SG-DDPS)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.2</td><td colspan="6">Nachrichtendienst des Bundes (NDB) Service de renseignement de la Confédération (SRC) Servizio delle attività informative della Confederazione (SIC) Servetsch d’infurmaziun da la Confederaziun (SIC)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.3</td><td colspan="6">Oberauditorat (OA) Office de l’auditeur en chef (OAC) Ufficio dell’uditore in capo (UUC) Auditorat superiur (AS)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.4</td><td colspan="6">Gruppe Verteidigung Groupement Défense Aggruppamento Difesa Gruppa da defensiun</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2">1.4.1</td><td colspan="4">Armeestab (A Stab) Etat-major de l’armée (EM A) Stato maggiore dell’esercito (SM Es) Stab da l’armada (StA)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2">1.4.2</td><td colspan="4">Kommando Operationen (Kdo Op) Commandement des Opérations (Cdmt Op) Comando Operazioni (Cdo Op) Commando d’operaziuns (Cdo Op)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2">1.4.3</td><td colspan="4">Logistikbasis der Armee (LBA) Base logistique de l’armée (BLA) Base logistica dell’esercito (BLEs) Basa da logistica da l’armada (BLA)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2">1.4.4</td><td colspan="4">Führungsunterstützungsbasis (FUB) Base d’aide au commandement (BAC) Base d’aiuto alla condotta (BAC) Basa d’agid al commando (BAC)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2">1.4.5</td><td colspan="4">Kommando Ausbildung (Kdo Ausb) Commandement de l’Instruction (Cdmt Instr) Comando Istruzione (Cdo Istr) Commando d’instrucziun (Cdo Instr)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.5</td><td colspan="6">Bundesamt für Rüstung (armasuisse) Office fédéral de l’armement (armasuisse) Ufficio federale dell’armamento (armasuisse) Uffizi federal da l’armament (armasuisse)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.5*a*</td><td colspan="6">Bundesamt für Landestopografie (swisstopo) Office fédéral de topographie (swisstopo) Ufficio federale di topografia (swisstopo) Uffizi federal da topografia (swisstopo)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.6</td><td colspan="6">Bundesamt für Bevölkerungsschutz (BABS) Office fédéral de la protection de la population (OFPP) Ufficio federale della protezione della popolazione (UFPP) Uffizi federal da protecziun da la populaziun (UFPP)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.7</td><td colspan="6">Bundesamt für Sport (BASPO) Office fédéral du sport (OFSPO) Ufficio federale dello sport (UFSPO) Uffizi federal da sport (UFSPO)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="7">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="2">2.1</td><td colspan="5">Unità amministrative senza personalità giuridica autonome sul piano organizzativo:</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td>2.1.1</td><td colspan="2">Unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten Autorité de surveillance indépendante des activités de renseignement Autorità di vigilanza indipendente sulle attività informative.</td></tr>
+</table>
+
+<table>
+<tr><td></td><td>V.</td><td colspan="4">Eidgenössisches Finanzdepartement (EFD) Département fédéral des finances (DFF) Dipartimento federale delle finanze (DFF) Departament federal da finanzas (DFF)</td></tr>
+<tr><td></td><td></td><td>**1.**</td><td colspan="3">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td></td><td></td><td>1.1</td><td colspan="2">Generalsekretariat (GS-EFD) Secrétariat général (SG-DFF) Segreteria generale (SG-DFF) Secretariat general (SG-DFF)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td colspan="2">Staatssekretariat für internationale Finanzfragen (SIF) Secrétariat d’Etat aux questions financières internationales (SFI) Segreteria di Stato per le questioni finanziarie internazionali (SFI) Secretariat da stadi per dumondas finanzialas internaziunalas (SFI)</td></tr>
+<tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Eidgenössische Finanzverwaltung (EFV) Administration fédérale des finances (AFF) Amministrazione federale delle finanze (AFF) Administraziun federala da finanzas (AFF)</td></tr>
+<tr><td></td><td></td><td></td><td>1.4</td><td colspan="2">Eidgenössisches Personalamt (EPA) Office fédéral du personnel (OFPER) Ufficio federale del personale (UFPER) Uffizi federal da persunal (UFPER)</td></tr>
+<tr><td></td><td></td><td></td><td>1.5</td><td colspan="2">Eidgenössische Steuerverwaltung (ESTV) Administration fédérale des contributions (AFC) Amministrazione federale delle contribuzioni (AFC) Administraziun federala da taglia (AFT)</td></tr>
+<tr><td></td><td></td><td></td><td>1.6</td><td colspan="2">Eidgenössische Zollverwaltung (EZV) Administration fédérale des douanes (AFD) Amministrazione federale delle dogane (AFD) Administraziun federala da duana (AFD)</td></tr>
+<tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für Informatik und Telekommunikation (BIT) Office fédéral de l’informatique et de la télécommunication (OFIT) Ufficio federale dell’informatica e della telecomunicazione (UFIT) Uffizi federal d’informatica e da telecommunicaziun (UFIT)</td></tr>
+<tr><td></td><td></td><td></td><td>1.8</td><td colspan="2">Bundesamt für Bauten und Logistik (BBL) Office fédéral des constructions et de la logistique (OFCL) Ufficio federale delle costruzioni e della logistica (UFCL) Uffizi federal per edifizis e logistica (UFEL)</td></tr>
+<tr><td></td><td></td><td>**2.**</td><td colspan="3">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td></td><td></td><td>**2.1**</td><td colspan="2">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
+<tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td colspan="2">Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td colspan="2">Pensionskasse des Bundes PUBLICA Caisse fédérale de pensions PUBLICA Cassa pensioni della Confederazione PUBLICA Cassa federala da pensiun PUBLICA</td></tr>
+<tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">Nessuna</td></tr>
+</table>
+
+<table>
+<tr><td></td><td>VI.</td><td colspan="6">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF) Département fédéral de l’économie, de la formation et de la recherche (DEFR) Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) Departament federal d’economia, furmaziun e retschertga (DEFR)</td></tr>
+<tr><td></td><td></td><td>**1.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td></td><td></td><td>1.1</td><td colspan="4">Generalsekretariat (GS-WBF) Secrétariat général (SG-DEFR) Segreteria generale (SG-DEFR) Secretariat general (SG-DEFR)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td colspan="4">Preisüberwachung (PUE) Surveillance des prix (SPR) Sorveglianza dei prezzi (SPR) Surveglianza dals pretschs (SPR)</td></tr>
+<tr><td></td><td></td><td></td><td>1.3</td><td colspan="4">Staatssekretariat für Wirtschaft (SECO) Secrétariat d’Etat à l’économie (SECO) Segreteria di Stato dell’economia (SECO) Secretariat da stadi per l’economia (SECO)</td></tr>
+<tr><td></td><td></td><td></td><td>1.4</td><td colspan="4">Staatssekretariat für Bildung, Forschung und Innovation (SBFI) Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) Secretariat da stadi per furmaziun, retschertga ed innovaziun (SEFRI)</td></tr>
+<tr><td></td><td></td><td></td><td>1.5</td><td colspan="4">Bundesamt für Landwirtschaft (BLW) Office fédéral de l’agriculture (OFAG) Ufficio federale dell’agricoltura (UFAG) Uffizi federal d’agricultura (UFAG)</td></tr>
+<tr><td></td><td></td><td></td><td>1.6</td><td colspan="4">*Abrogato*</td></tr>
+<tr><td></td><td></td><td></td><td>1.7</td><td colspan="4">Bundesamt für wirtschaftliche Landesversorgung (BWL) Office fédéral pour l’approvisionnement économique du pays (OFAE) Ufficio federale per l’approvvigionamento economico del Paese (UFAE) Uffizi federal per il provediment economic dal pajais (UFPE)</td></tr>
+<tr><td></td><td></td><td></td><td>1.8</td><td colspan="4">Bundesamt für Wohnungswesen (BWO) Office fédéral du logement (OFL) Ufficio federale delle abitazioni (UFAB) Uffizi federal d’abitaziuns (UFAB)</td></tr>
+<tr><td></td><td></td><td></td><td>1.9</td><td colspan="4">Bundesamt für Zivildienst (ZIVI) Office fédéral du service civil (CIVI) Ufficio federale del servizio civile (CIVI) Uffizi federal dal servetsch civil (CIVI)</td></tr>
+<tr><td></td><td></td><td>**2.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">2.1.1</td><td colspan="2">Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) Domaine des écoles polytechniques fédérales (domaine des EPF) Settore dei politecnici federali (settore dei PF) Sectur da las scolas politecnicas federalas (sectur da las PF)</td></tr>
+<tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="4">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.1</td><td colspan="2">Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.2</td><td colspan="2">Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.3</td><td colspan="2">Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.4</td><td colspan="2">Eidgenössisches Hochschulinstitut für Berufsbildung (EHB) Institut fédéral des hautes études en formation professionnelle (IFFP) Istituto universitario federale per la formazione professionale (IUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.8</td><td colspan="2">Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft (WSL) Institut fédéral de recherches sur la forêt, la neige et le paysage (WSL) Istituto federale di ricerca per la foresta, la neve e il paesaggio (WSL) Institut federal per la perscrutaziun da guaud, naiv e cuntrada (WSL)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.9</td><td colspan="2">Eidgenössische Materialprüfungs- und Forschungsanstalt (EMPA) Laboratoire fédéral d’essai des matériaux et de recherche (EMPA) Laboratorio federale di prova dei materiali e di ricerca (EMPA) Institut federal da controlla da material e da perscrutaziun (EMPA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.10</td><td colspan="2">Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz (EAWAG) Institut fédéral pour l’aménagement, l’épuration et la protection des eaux (EAWAG) Istituto federale per l’approvvigionamento, la depurazione e la protezione delle acque (EAWAG) Institut federal per provediment, serenaziun e protecziun da las auas (EAWAG)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.11</td><td colspan="2">Schweizerische Agentur für Innovationsförderung (Innosuisse) Agence suisse pour l’encouragement de l’innovation (Innosuisse) Agenzia svizzera per la promozione dell’innovazione (Innosuisse) Agentura svizra per la promoziun da l’innovaziun (Innosuisse)</td></tr>
+<tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="5">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.3.1</td><td colspan="2">Swiss Investment Funds for Emerging Markets (SIFEM SA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">Swiss Investment Funds for Emerging Markets (SIFEM AG)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">Swiss Investment Funds for Emerging Markets (SIFEM SA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">Swiss Investment Funds for Emerging Markets (SIFEM SA)</td></tr>
+</table>
+
+<table>
+<tr><td></td><td>VII.</td><td colspan="4">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) Departament federal per ambient, traffic, energia e communicaziun (DATEC)</td></tr>
+<tr><td></td><td></td><td>**1.**</td><td colspan="3">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
+<tr><td></td><td></td><td></td><td>1.1</td><td colspan="2">Generalsekretariat (GS-UVEK) Secrétariat général (SG-DETEC) Segreteria generale (SG-DATEC) Secretariat general (SG-DATEC)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td colspan="2">Bundesamt für Verkehr (BAV) Office fédéral des transports (OFT) Ufficio federale dei trasporti (UFT) Uffizi federal da traffic (UFT)</td></tr>
+<tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Bundesamt für Zivilluftfahrt (BAZL) Office fédéral de l’aviation civile (OFAC) Ufficio federale dell’aviazione civile (UFAC) Uffizi federal d’aviatica civila (UFAC)</td></tr>
+<tr><td></td><td></td><td></td><td>1.4</td><td colspan="2">Bundesamt für Energie (BFE) Office fédéral de l’énergie (OFEN) Ufficio federale dell’energia (UFE) Uffizi federal d’energia (UFE)</td></tr>
+<tr><td></td><td></td><td></td><td>1.5</td><td colspan="2">Bundesamt für Strassen (ASTRA) Office fédéral des routes (OFROU) Ufficio federale delle strade (USTRA) Uffizi federal da vias (UVIAS)</td></tr>
+<tr><td></td><td></td><td></td><td>1.6</td><td colspan="2">Bundesamt für Kommunikation (BAKOM) Office fédéral de la communication (OFCOM) Ufficio federale delle comunicazioni (UFCOM) Uffizi federal da communicaziun (UFCOM)</td></tr>
+<tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für Umwelt (BAFU) Office fédéral de l’environnement (OFEV) Ufficio federale dell’ambiente (UFAM) Uffizi federal d’ambient (UFAM)</td></tr>
+<tr><td></td><td></td><td></td><td>1.8</td><td colspan="2">Bundesamt für Raumentwicklung (ARE) Office fédéral du développement territorial (ARE) Ufficio federale dello sviluppo territoriale (ARE) Uffizi federal da svilup dal territori (ARE)</td></tr>
+<tr><td></td><td></td><td>**2.**</td><td colspan="3">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
+<tr><td></td><td></td><td></td><td>**2.1**</td><td colspan="2">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">Nessuna</td></tr>
+<tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Eidgenössisches Nuklearsicherheitsinspektorat (ENSI) Inspection fédérale de la sécurité nucléaire (IFSN) Ispettorato federale della sicurezza nucleare (IFSN) Inspecturat federal per la segirezza nucleara (IFSN)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen Fonds de désaffectation et Fonds de gestion pour les installations nucléaires Fondo di disattivazione e Fondo di smaltimento per gli impianti nucleari Fond da serrada e fond da dismessa per ils implants nuclears</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.3</td><td>Schweizerische Trassenvergabestelle (Trassenvergabestelle) Service suisse d’attribution des sillons (Service d’attribution des sillons) Servizio svizzero di assegnazione delle tracce (Servizio di assegnazione delle tracce) Servetsch svizzer d’attribuziun dals trassés (Servetsch d’attribuziun dals trassés)</td></tr>
+<tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">Nessuna</td></tr>
+</table>
+
+Allegato 2*[^t-2]*
+
+(art. 8 cpv. 2, 8*e* cpv. 2 lett. g<sup>bis</sup>, 8*n* cpv. 2, 8*o* cpv. 2, 8*p* cpv. 2 e 8*q* cpv. 2)
+
+## Commissioni extraparlamentari
+
+[^t-2]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta il n. I 2 cpv. 2 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti) ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Aggiornato dai n. I delle O del 21 nov. 2012 ([RU 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), del 30 nov. 2012 ([RU 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)) e dalla correzione del 5 feb. 2013 ([RU 2013 425](https://fedlex.data.admin.ch/eli/oc/2013/80)), dall’art. 12 dell’O del 1° mag. 2013 concernente l’organizzazione del Punto di contatto nazionale per le Linee guida dell’OCSE destinate alle imprese multinazionali e la sua commissione consultiva ([RU 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), dall’art. 16 n. 1 dell’O del 26 giu. 2013 sulla commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita ([RU 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), dal n. I dell’O del 23 ott. 2013 ([RU 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)), dall’art. 62 cpv. 2 n. 1 dell’O del 29 nov. 2013 sulla promozione della ricerca e dell’innovazione ([RU 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)), dall’all. n. 1 dell’O del 12 nov. 2014 (promozione e coordinamento del settore universitario svizzero) ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), dall’art. 24 cpv. 2 dell’O del 28 nov. 2014 sulle scuole svizzere all’estero ([RU 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), dal n. II dell’O del 5 dic. 2014 ([RU 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)), dal n. I dell’O del 1° lug. 2015 ([RU 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), dal n. II dell’O del 9 dic. 2016 ([RU 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dal n. I dell’O del 21 set. 2018 ([RU 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), dai n. II delle O del 17 ott. 2018 ([RU 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), del 14 dic. 2018 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), dal n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), dall’art. 117 n. 2 dell’O del 27 mag. 2020 sull’esecuzione della legislazione sulle derrate alimentari ([RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)) e dal n. II dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)).
+
+### 1. Commissioni politico-sociali: categoria di indennizzo, importo della diaria e attribuzione ai dipartimenti
+
+### 1.1 Categoria S3, diaria 500 franchi
+
+<table>
+<tr><th>Dipartimento competente</th><th>Commissione extraparlamentare</th></tr>
+<tr><td>DFI</td><td>Commissione d’esame del settore veterinario pubblico Commissione delle professioni mediche Commissione delle professioni psicologiche Commissione federale per gli esami genetici sull’essere umano Commissione federale dei monumenti storici Commissione federale della radioprotezione Commissione federale per gli esperimenti sugli animali Commissione nazionale d’etica in materia di medicina umana Commissione tecnica per i radiofarmaci</td></tr>
+<tr><td>DFGP</td><td>Commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita</td></tr>
+<tr><td>DFF</td><td>Commissione degli esami federali dei saggiatori giurati Commissione federale dei prodotti da costruzione</td></tr>
+<tr><td>DEFR</td><td>Commissione di sorveglianza per il fondo di compensazione dell’assicurazione contro la disoccupazione Consiglio per l’assetto del territorio Consiglio svizzero della scienza (CSS)</td></tr>
+<tr><td>DATEC</td><td>Commissione federale d’etica per la biotecnologia nel settore non umano Commissione federale dei media Commissione federale per la protezione della natura e del paesaggio Commissione federale per la ricerca energetica Commissione federale per la sicurezza biologica Commissione federale per la sicurezza nucleare Commissione federale per la lotta contro il rumore Commissione federale d’igiene dell’aria Piattaforma nazionale «Pericoli naturali»</td></tr>
+<tr><td>DDPS</td><td>Commissione federale di geologia Commissione federale per la protezione NBC Commissione federale per la medicina militare e la medicina in caso di catastrofi Commissione federale della protezione dei beni culturali</td></tr>
+</table>
+
+### 1.2 Categoria S2, diaria 400 franchi
+
+<table>
+<tr><th>Dipartimento competente</th><th>Commissione extraparlamentare</th></tr>
+<tr><td>DFAE</td><td>Commissione delle indennità estere</td></tr>
+<tr><td>DFI</td><td>Commissione federale di coordinamento per la sicurezza sul lavoro Commissione d’esame in chiropratica Commissione d’esame in farmacia Commissione d’esame in medicina umana Commissione d’esame in medicina veterinaria Commissione d’esame in odontoiatria Commissione d’esame per il controllo ufficiale delle derrate alimentari</td></tr>
+<tr><td>DATEC</td><td>Commissione federale del Parco nazionale</td></tr>
+<tr><td>DDPS</td><td>Commissione federale degli ingegneri geometri</td></tr>
+</table>
+
+### 1.3 Categoria S1, diaria 300 franchi
+
+<table>
+<tr><th>Dipartimento competente</th><th>Commissione extraparlamentare</th></tr>
+<tr><td>DFAE</td><td>Commissione consultiva per la cooperazione internazionale Commissione svizzera per l’UNESCO</td></tr>
+<tr><td>DFI</td><td>Commissione di sorveglianza della Collezione Oskar Reinhart Am Römerholz a Winterthur Commissione federale dei medicamenti Commissione federale del design Commissione federale per la nutrizione Commissione federale del cinema Commissione federale della fondazione Gottfried Keller Commissione federale delle prestazioni generali e delle questioni fondamentali Commissione federale delle analisi, dei mezzi e degli apparecchi Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità Commissione federale della previdenza professionale Commissione federale per le questioni femminili Commissione federale per le vaccinazioni Commissione federale per l’infanzia e la gioventù Commissione federale per la preparazione e la risposta alle pandemie Commissione federale per le questioni relative alle infezioni sessualmente trasmissibili Commissione federale contro il razzismo Commissione federale per le questioni familiari Commissione federale delle belle arti Commissione peritale per il fondo per la prevenzione del tabagismo Commissione di esperti per la promozione cinematografica Commissione della Biblioteca nazionale svizzera Commissione della statistica federale Commissione per la diffusione della formazione svizzera all’estero Commissione federale per gli affari riguardanti la Convenzione sulla protezione delle specie Commissione per gli impianti di stabulazione Commissione federale per le questioni relative alle dipendenze e alla prevenzione delle malattie non trasmissibili</td></tr>
+<tr><td>DFF</td><td>Commissione per l’armonizzazione delle imposte dirette della Confederazione, dei Cantoni e dei Comuni Commissione di conciliazione secondo la legge sulla parità dei sessi Organo consultivo per l’imposta sul valore aggiunto</td></tr>
+<tr><td>DFGP</td><td>Commissione federale della migrazione Commissione federale degli esperti del registro di commercio Commissione incaricata di esaminare le domande di sussidio per progetti sperimentali Commissione federale in materia di esecuzione e fallimento Commissione consultiva per le misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981</td></tr>
+<tr><td>DEFR</td><td>Commissione consultiva per l’agricoltura Commissione federale tripartita inerente alle attività dell’OIL Commissione federale del lavoro Commissione federale della formazione professionale Commissione federale del consumo Commissione federale dell’abitazione Commissione federale di accreditamento Commissione federale di maturità professionale Ufficio federale di conciliazione per i conflitti collettivi di lavoro Commissione federale per le questioni spaziali Commissione federale delle borse per studenti stranieri Forum PMI Commissione per la politica economica Commissione degli appalti pubblici Confederazione-Cantoni Consiglio della ricerca agronomica Comitato nazionale svizzero per la FAO Commissione tripartita federale per le misure accompagnatorie alla libera circolazione delle persone Commissione peritale per le questioni relative alle tariffe doganali Commissione federale per la consulenza al Punto di contatto nazionale per le Linee guida dell’OCSE destinate alle imprese multinazionali</td></tr>
+<tr><td>DATEC</td><td>Commissione federale della legge sulla durata del lavoro Commissione peritale per la tassa d’incentivazione sui COV Commissione per la ricerca nel settore stradale</td></tr>
+<tr><td>DDPS</td><td>Commissione federale delle inchieste presso i giovani e le reclute Commissione federale per la telematica in ambito di salvataggio e sicurezza Commissione dell’armamento</td></tr>
+</table>
+
+### 2. Commissioni di vigilanza sul mercato: categoria di indennizzo, importo forfetario e attribuzione ai dipartimenti
+
+<table>
+<tr><th>Dipartimento competente</th><th>Commissione extraparlamentare</th><th>Categoria</th><th>Presidente (100 %) in franchi</th><th>Vicepresidente (100 %) in franchi</th><th>Membro (100 %) in franchi</th></tr>
+<tr><td>DFI</td><td>Commissione di alta vigilanza della previdenza professionale</td><td>M2/A</td><td>250 000</td><td>180 000</td><td>150 000</td></tr>
+<tr><td>DFGP</td><td>Commissione arbitrale federale per la gestione dei diritti d’autore e dei diritti affini</td><td>M1</td><td>200 000</td><td>140 000</td><td>120 000</td></tr>
+<tr><td>DFGP</td><td>Commissione federale delle case da gioco</td><td>M1</td><td>200 000</td><td>140 000</td><td>120 000</td></tr>
+<tr><td>DEFR</td><td>Commissione della concorrenza</td><td>M3</td><td>280 000</td><td>200 000</td><td>180 000</td></tr>
+<tr><td>DATEC</td><td>Commissione federale dell’energia elettrica</td><td>M2/A</td><td>250 000</td><td>180 000</td><td>150 000</td></tr>
+<tr><td>DATEC</td><td>Commissione federale delle comunicazioni</td><td>M2/A</td><td>250 000</td><td>180 000</td><td>150 000</td></tr>
+<tr><td>DATEC</td><td>Commissione federale delle poste</td><td>M2/A</td><td>250 000</td><td>180 000</td><td>150 000</td></tr>
+<tr><td>DATEC</td><td>Commissione del trasporto ferroviario</td><td>M2/A</td><td>250 000</td><td>180 000</td><td>150 000</td></tr>
+<tr><td>DATEC</td><td>Servizio d’inchiesta svizzero sulla sicurezza</td><td>M2/B</td><td>225 000</td><td>160 000</td><td>135 000</td></tr>
+<tr><td>DATEC</td><td>Autorità indipendente di ricorso in materia radiotelevisiva</td><td>M1</td><td>200 000</td><td>140 000</td><td>120 000</td></tr>
+</table>
+
+Allegato 3*[^t-3]*
+
+[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Abrogato dal n. II cpv. 2 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).

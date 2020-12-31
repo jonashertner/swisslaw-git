@@ -1,0 +1,719 @@
+---
+sr: "281.35"
+title: Gebührenverordnung vom 23. September 1996 zum Bundesgesetz über Schuldbetreibung und Konkurs (GebV SchKG)
+short: GebV SchKG
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937"
+language: de
+version: 2019-01-01
+adopted: 1996-09-23
+in_force: 1997-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20190101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20190101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Gebührenverordnung zum Bundesgesetz über Schuldbetreibung und Konkurs
+
+(GebV SchKG)
+
+vom 23. September 1996 (Stand am 1. Januar 2019)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 16 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt die Gebühren und Entschädigungen der Ämter, Behörden und übrigen Organe, die in Anwendung des SchKG oder anderer Erlasse des Bundes im Rahmen einer Zwangsvollstreckung, eines Nachlassverfahrens oder einer Notstundung Verrichtungen vornehmen.
+
+<sup>2</sup> Für Verrichtungen, die in dieser Verordnung nicht besonders tarifiert sind, kann eine Gebühr bis zu 150 Franken erhoben werden. Die Aufsichtsbehörde kann höhere Gebühren festsetzen, wenn die Schwierigkeit der Sache, der Umfang der Bemühungen oder der Zeitaufwand es rechtfertigt.
+
+#### Art. 2
+
+**Aufsicht**
+
+Die Aufsichtsbehörde überwacht die Anwendung der Verordnung; den Betreibungs- und Konkursbeamten, ausseramtlichen Konkursverwaltern, Sachwaltern und Liquidatoren steht das Recht der Weiterziehung zu (Art. 18 und 19 SchKG).
+
+#### Art. 3
+
+**Kostenrechnung**
+
+Auf Verlangen einer Partei wird auf deren Kosten eine detaillierte Kostenrechnung, welche die entsprechenden Bestimmungen dieser Verordnung nennen muss, erstellt; die Gebühr bestimmt sich nach Artikel 9.
+
+#### Art. 4
+
+**Berechnung nach Zeitaufwand**
+
+<sup>1</sup> Ist die Gebühr nach Zeitaufwand zu berechnen, so fällt die für den Gang oder die Reise beanspruchte Zeit ausser Betracht.
+
+<sup>2</sup> Der Bruchteil einer halben Stunde zählt als halbe Stunde.
+
+<sup>3</sup> Die Dauer der Verrichtung ist in der Urkunde anzugeben.
+
+#### Art. 5
+
+**Berechnung nach Seitenzahl**
+
+<sup>1</sup> Ist die Gebühr nach der Anzahl Seiten eines Schriftstückes zu berechnen, so gilt jede beschriebene Seite als ganze Seite.
+
+<sup>2</sup> Seiten, die ausschliesslich Standardtexte wie Gesetzestexte oder Erläuterungen enthalten, werden nicht gezählt.
+
+#### Art. 6
+
+**Berechnung nach Forderungsbetrag**
+
+Ist die Gebühr nach dem Betrag der in Betreibung gesetzten Forderung zu berechnen, so fallen nicht bezifferte Zinsen ausser Betracht.
+
+#### Art. 7
+
+**Zustellung auf Ersuchen eines andern Amtes**
+
+Die Gebühr für die Zustellung auf Ersuchen eines anderen Amtes, einschliesslich Eintragung, beträgt 10 Franken je Zustellung.
+
+#### Art. 8
+
+**Nacht‑, Sonntags- und Feiertagszuschlag**
+
+Die Gebühr wird verdoppelt, wenn die Verrichtung ausserhalb des Amtslokals in der Zeit von 20 Uhr bis 7 Uhr, an Sonntagen oder an staatlich anerkannten Feiertagen (Art. 56 Ziff. 1 SchKG) vorgenommen werden muss.
+
+#### Art. 9
+
+**Schriftstücke**
+
+<sup>1</sup>
+
+Die Gebühr für die Erstellung eines nicht besonders tarifierten Schriftstücks beträgt:
+
+- a. 8 Franken je Seite bis zu einer Anzahl von 20 Ausfertigungen;
+- b. 4 Franken je Seite für jede weitere Ausfertigung.
+
+<sup>2</sup> Schriftstücke im Geldverkehr und Aktenexemplare sind gebührenfrei.
+
+<sup>3</sup> Für Fotokopien aus bestehenden Akten kann das Amt eine Gebühr von 2 Franken je Kopie erheben.
+
+<sup>4</sup> Das Amt kann für das Ausfüllen von Formularen für Begehren eine Gebühr bis zu 5 Franken erheben.
+
+#### Art. 10
+
+**Telefongespräche und Faxnachrichten**[^10-1]
+
+<sup>1</sup> Für ein Telefongespräch kann eine Gebühr von 5 Franken erhoben werden.
+
+<sup>2</sup> Für den Versand eines Schriftstücks per Telefax kann eine Gebühr von 1 Franken erhoben werden. Umfasst das Schriftstück mehr als 5 Seiten, so erhöht sich die Gebühr um 1 Franken für jeweils weitere 5 Seiten.
+
+[^10-1]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+#### Art. 11
+
+**Öffentliche Bekanntmachungen**
+
+Die Gebühr für eine öffentliche Bekanntmachung beträgt bis 40 Franken. Übersteigt der Zeitaufwand eine halbe Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.
+
+#### Art. 12
+
+**Akteneinsicht und Auskunft**
+
+<sup>1</sup> Die Gebühr für die Vorlegung von Akten oder für Auskünfte aus Akten beträgt 9 Franken. Die Vorlegung von Forderungstiteln (Art. 73 SchKG) und Auskünfte darüber sind gebührenfrei.
+
+<sup>2</sup> Übersteigt der Zeitaufwand eine halbe Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.
+
+<sup>3</sup> Für schriftliche Auskünfte wird zusätzlich die Gebühr nach Artikel 9 erhoben.
+
+#### Art. 12a
+
+**Schriftliche Betreibungsregisterauskünfte**[^12a-1]
+
+<sup>1</sup> Die Gebühr für einen schriftlichen Auszug aus dem Betreibungsregister beträgt unabhängig von der Seitenzahl pauschal 17 Franken.
+
+<sup>2</sup> Wird der Registerauszug dem Antragsteller per Post, Fax oder elektronisch zugestellt, so beträgt die Gebühr inklusive Zustellung 18 Franken. Wünscht der Empfänger eine Zustellung per eingeschriebener Post, so beträgt die Gebühr inklusive Zustellung 22 Franken.
+
+<sup>3</sup> Sieht das Bundesrecht vor, dass gegenüber Gerichts- und Verwaltungsbehörden Auskunft zu erteilen ist, so wird für den schriftlichen Auszug aus dem Betreibungsregister von den betreffenden Behörden keine Gebühr erhoben.[^12a-2]
+
+[^12a-1]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^12a-2]: Fassung gemäss Ziff. I der V vom 20. Jan. 2016, in Kraft seit 1. Febr. 2016 ([AS 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
+
+#### Art. 12b
+
+**Gesuch nach Artikel 8*a* Absatz 3 Buchstabe d SchKG**[^12b-1]
+
+<sup>1</sup> Die Gebühr für das Gesuch nach Artikel 8*a* Absatz 3 Buchstabe d SchKG beträgt pauschal 40 Franken. Mit der Bezahlung der Gebühr sind sämtliche nachfolgenden Verfahrensschritte sowie alle Auslagen abgegolten.
+
+<sup>2</sup> Die Gebühr ist in jedem Fall und unabhängig vom Ausgang des Verfahrens durch den Gesuchsteller zu bezahlen.
+
+[^12b-1]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4585](https://fedlex.data.admin.ch/eli/oc/2018/722)).
+
+#### Art. 13
+
+**Auslagen im allgemeinen**
+
+<sup>1</sup> Unter Vorbehalt der Absätze 2 und 3 sind alle Auslagen, wie Verwaltungskosten, Post- und Fernmeldetaxen, Honorare für Sachverständige, Kosten für den Beizug der Polizei sowie Bankspesen zu ersetzen. Die Mehrkosten einer Nachnahme trägt die Partei, welche sie verursacht.
+
+<sup>2</sup> Bei Zustellung durch das Amt gelten als Auslagen nur die dadurch eingesparten Posttaxen.
+
+<sup>3</sup>
+
+Keinen Anspruch auf Ersatz begründen:
+
+- a. Kosten des Materials und der Vervielfältigung gebührenpflichtiger Schriftstücke;
+- b. die allgemeinen Telekommunikationsgebühren;
+- c.[^13-1] Postkontotaxen, unter Vorbehalt von Artikel 19 Absatz 3;
+- d. Die Einschreibegebühr bei Zustellung eines Zahlungsbefehls, einer Pfändungsankündigung oder einer Konkursandrohung durch das Amt;
+- e.[^13-2] die Gebühr für die Nutzung des eSchKG-Verbundes gemäss Artikel 15*a*.
+
+<sup>4</sup> Bedient sich das Amt bei der Zustellung eines Zahlungsbefehls, einer Pfändungsankündigung oder einer Konkursandrohung eines besonderen Zustelldienstes der Schweizerischen Post, so können die die Einschreibegebühr übersteigenden Kosten der sie verursachenden Partei überbunden werden, sofern vorher mindestens ein erfolgloser Zustellungsversuch stattgefunden hat.[^13-3]
+
+[^13-1]: Fassung gemäss Ziff. II 20 der V vom 1. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^13-2]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^13-3]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+#### Art. 14
+
+**Wegentschädigung, Spesenvergütung**
+
+<sup>1</sup> Die Wegentschädigung, einschliesslich Transportkosten, beträgt 2 Franken für jeden Kilometer des Hin- und des Rückweges.
+
+<sup>2</sup> Die Entschädigung für Mahlzeiten, Übernachtungen und Nebenauslagen bestimmt sich nach der Verordnung des EFD vom 6. Dezember 2001[^14-1] zur Bundespersonalverordnung (VBPV).[^14-2]
+
+<sup>3</sup> Die Aufsichtsbehörde kann in besonderen Fällen die Entschädigung angemessen erhöhen, wenn die Entlegenheit des Ortes einen Aufwand an Zeit oder Kosten verursacht, den die in den Absätzen 1 und 2 vorgesehene Entschädigung offensichtlich nicht deckt.
+
+[^14-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^14-2]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+#### Art. 15
+
+**Mehrere Verrichtungen**
+
+<sup>1</sup> Mehrere Verrichtungen sind soweit möglich miteinander zu besorgen; die Wegentschädigung ist auf die verschiedenen Verrichtungen zu gleichen Teilen umzulegen.
+
+<sup>2</sup> Werden an mehreren Orten Verrichtungen besorgt, so ist die Entschädigung nach der Entfernung der Orte verhältnismässig auf die einzelnen Verrichtungen umzulegen.
+
+#### Art. 15a
+
+**Begehren nach dem eSchKG-Verbund**[^15a-1]
+
+<sup>1</sup> Wird ein Betreibungsbegehren oder ein Begehren für einen Auszug aus dem Betreibungsregister nach dem eSchKG-Verbund eingereicht, so erhebt das Bundesamt für Justiz (BJ) vom betroffenen Betreibungsamt folgende Gebühren:
+
+<table>
+<tr><td>Anzahl der Begehren</td><td>Gebühr pro Begehren/Franken</td></tr>
+<tr><td>bis 1 000</td><td>1.—</td></tr>
+<tr><td>über 1 000 bis 5 000</td><td>–.90</td></tr>
+<tr><td>über 5 000 bis 10 000</td><td>–.80</td></tr>
+<tr><td>über 10 000</td><td>–.70</td></tr>
+</table>
+
+<sup>2</sup> Betreibt ein Kanton eine zentrale Applikation für alle Betreibungsämter und können die Gebühren gemäss Absatz 1 in einer Rechnung gestellt werden, so wird für deren Berechnung die Summe aller Begehren aller Betreibungsämter herangezogen.
+
+<sup>3</sup> Für den Beitritt zum eSchKG-Verbund wird eine einmalige Aufnahmegebühr von 500 Franken erhoben.
+
+<sup>4</sup> Ab dem zweiten Kalenderjahr wird von jedem Beteiligten im eSchKG-Verbund eine Gebühr von 200 Franken pro Jahr für die Erneuerung des Zugangs zum Verbund erhoben.
+
+<sup>5</sup> Für die Erhebung dieser Gebühren ist das BJ oder eine von ihm beauftragte Stelle zuständig.
+
+[^15a-1]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Fassung gemäss Ziff. I der V vom 20. Jan. 2016, in Kraft seit 1. Febr. 2016 ([AS 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
+
+## 2. Kapitel: Gebühren des Betreibungsamtes
+
+#### Art. 16
+
+**Zahlungsbefehl**
+
+<sup>1</sup> Die Gebühr für den Erlass, die doppelte Ausfertigung, die Eintragung und die Zustellung des Zahlungsbefehls bemisst sich nach der Forderung und beträgt:
+
+<table>
+<tr><td colspan="3">Forderung/Franken</td><td colspan="3">Gebühr/Franken</td></tr>
+<tr><td></td><td></td><td></td><td>bis</td><td>100</td><td>7.–</td></tr>
+<tr><td>über</td><td>100</td><td></td><td>bis</td><td>500</td><td>20.–</td></tr>
+<tr><td>über</td><td>500</td><td></td><td>bis</td><td>1 000</td><td>40.–</td></tr>
+<tr><td>über</td><td>1 000</td><td></td><td>bis</td><td>10 000</td><td>60.–</td></tr>
+<tr><td>über</td><td>10 000</td><td></td><td>bis</td><td>100 000</td><td>90.–</td></tr>
+<tr><td>über</td><td>100 000</td><td></td><td>bis</td><td>1 000 000</td><td>190.–</td></tr>
+<tr><td>über</td><td>1 000 000</td><td></td><td></td><td></td><td>400.–</td></tr>
+</table>
+
+<sup>2</sup> Die Gebühr für jede weitere doppelte Ausfertigung beträgt die Hälfte der Gebühr nach Absatz 1.
+
+<sup>3</sup> Die Gebühr für jeden Zustellungsversuch beträgt 7 Franken je Zahlungsbefehl.
+
+<sup>4</sup> Die Gebühr für die Eintragung eines vor Ausfertigung des Zahlungsbefehls zurückgezogenen Betreibungsbegehrens beträgt, ohne Rücksicht auf die Höhe der Forderung, 5 Franken.
+
+#### Art. 17
+
+**Feststellung von Miete und Pacht**
+
+Die Gebühr für die Feststellung der Miet- und Pachtverhältnisse bei Grundstücken beträgt 40 Franken je halbe Stunde.
+
+#### Art. 18
+
+**Rechtsvorschlag**
+
+Die mit dem Rechtsvorschlag verbundenen Verrichtungen sind gebührenfrei.
+
+#### Art. 19
+
+**Einzahlung und Überweisung**
+
+<sup>1</sup> Die Gebühr für die Entgegennahme einer Zahlung und deren Überweisung an einen Gläubiger bemisst sich nach der betreffenden Summe und beträgt:
+
+<table>
+<tr><td colspan="4">Summe/Franken</td><td>Gebühr/Franken</td></tr>
+<tr><td>bis</td><td>1000</td><td></td><td colspan="2">5.–</td></tr>
+<tr><td>über</td><td>1000</td><td></td><td colspan="2">5 Promille, jedoch höchstens 500.–</td></tr>
+</table>
+
+<sup>2</sup> Einzahlungen des Amtes auf ein Depot und Abhebungen sind gebührenfrei (Art. 9 SchKG).
+
+<sup>3</sup> Auslagen für die Überweisung von Zahlungen an einen Gläubiger gehen zu seinen Lasten.
+
+#### Art. 20
+
+**Vollzug der Pfändung**
+
+<sup>1</sup> Die Gebühr für den Vollzug einer Pfändung, einschliesslich Abfassung der Pfändungsurkunde, bemisst sich nach der Forderung und beträgt:
+
+<table>
+<tr><td colspan="3">Forderung/Franken</td><td colspan="3">Gebühr/Franken</td></tr>
+<tr><td></td><td></td><td></td><td>bis</td><td>100</td><td>10.–</td></tr>
+<tr><td>über</td><td>100</td><td></td><td>bis</td><td>500</td><td>25.–</td></tr>
+<tr><td>über</td><td>500</td><td></td><td>bis</td><td>1 000</td><td>45.–</td></tr>
+<tr><td>über</td><td>1 000</td><td></td><td>bis</td><td>10 000</td><td>65.–</td></tr>
+<tr><td>über</td><td>10 000</td><td></td><td>bis</td><td>100 000</td><td>90.–</td></tr>
+<tr><td>über</td><td>100 000</td><td></td><td>bis</td><td>1 000 000</td><td>190.–</td></tr>
+<tr><td>über</td><td>1 000 000</td><td></td><td></td><td></td><td>400.–</td></tr>
+</table>
+
+<sup>2</sup> Die Gebühr für eine fruchtlose Pfändung beträgt die Hälfte der Gebühr nach Absatz 1, jedoch mindestens 10 Franken. Für einen erfolglosen Pfändungsversuch beträgt die Gebühr 10 Franken.
+
+<sup>3</sup> Erfordert der Vollzug mehr als eine Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.
+
+<sup>4</sup> Die Gebühr für die Protokollierung des Fortsetzungsbegehrens, das infolge Zahlung, Rückzug des Fortsetzungsbegehrens, Einstellung oder Aufhebung der Betreibung zu keiner Pfändung führt, beträgt 5 Franken.
+
+#### Art. 21
+
+**Arrestvollzug und Aufnahme eines Retentionsverzeichnisses**
+
+Die Gebühr für den Arrestvollzug und für die Aufnahme eines Retentionsverzeichnisses bemisst sich nach Artikel 20.
+
+#### Art. 22
+
+**Ergänzung der Pfändung und Nachpfändung, Pfändungsanschluss und Revision von Einkommenspfändungen**
+
+<sup>1</sup> Die Gebühr für eine Ergänzung der Pfändung (Art. 110 und 111 SchKG) und für eine Nachpfändung von Amtes wegen (Art. 145 SchKG) oder auf Begehren eines Gläubigers bestimmt sich nach Artikel 20.
+
+<sup>2</sup> Die Gebühr für die Vormerkung der Teilnahme eines weiteren Gläubigers an der Pfändung ohne Ergänzung derselben beträgt 6 Franken.
+
+<sup>3</sup> Die Gebühr für die Revision der Einkommenspfändung (Art. 93 SchKG) beträgt die Hälfte der Gebühr nach Artikel 20 Absatz 1.
+
+#### Art. 23
+
+**Pfändung für mehrere Forderungen**
+
+<sup>1</sup> Die gleichzeitige Pfändung für mehrere Forderungen gegen denselben Schuldner gilt als eine Pfändung. Die Gebühr bemisst sich nach dem Gesamtbetrag der Forderungen.
+
+<sup>2</sup> Gebühren und Auslagen sind auf die einzelnen Betreibungen im Verhältnis der Forderungsbeträge zu verteilen.
+
+<sup>3</sup> Verursacht ein Gläubiger zusätzliche Gebühren und Auslagen, so sind diese einzeln nach dem Verursacherprinzip zu verrechnen.
+
+#### Art. 24
+
+**Abschrift der Pfändungsurkunde**
+
+Die Gebühr für die Abschrift der Pfändungsurkunde (Art. 112 SchKG) oder eines Nachtrages dazu (Art. 113 SchKG) bestimmt sich nach Artikel 9 Absatz 1.
+
+#### Art. 25
+
+**Beweismittel für Drittansprüche**
+
+Die Gebühr für die Vorlegung der Beweismittel für einen Drittanspruch im Pfändungs‑, Arrest- oder Retentionsverfahren geht zu Lasten des Gesuchstellers und bestimmt sich nach Artikel 12.
+
+#### Art. 26
+
+**Verwahrung beweglicher Sachen**
+
+<sup>1</sup> Die Gebühr für die Verwahrung von gepfändeten oder arrestierten Wertschriften sowie von Wertschriften, die zur Faustpfandverwertung eingeliefert wurden, beträgt monatlich 0,3 Promille vom Kurswert oder, wenn dieser nicht feststellbar ist, vom Schätzungswert, höchstens jedoch 500 Franken insgesamt je Verwahrung.
+
+<sup>2</sup> Die Gebühr für die Verwahrung von Pfandtiteln, die beim Gläubiger in der Betreibung auf Grundpfandverwertung eingefordert wurden, beträgt monatlich 0,1 Promille vom Nennwert, höchstens jedoch 500 Franken insgesamt je Verwahrung.
+
+<sup>3</sup> Die Gebühr für die Verwahrung einer anderen Wertsache beträgt je Stück 5 Franken monatlich.
+
+<sup>4</sup> Das Amt setzt für die Verwahrung von Gebrauchs- oder Verbrauchsgegenständen, unter Berücksichtigung des Schätzungswertes, eine angemessene Gebühr fest.
+
+#### Art. 27
+
+**Verwaltung von Grundstücken**
+
+<sup>1</sup> Die Gebühr für die Verwaltung von Grundstücken, einschliesslich Abschluss von Miet- oder Pachtverträgen sowie Buch- und Rechnungsführung, beträgt 5 Prozent der während der Dauer der Verwaltung erzielten oder erzielbaren Miet- oder Pachtzinse.
+
+<sup>2</sup> Wird das Grundstück nicht genutzt, so beträgt die jährliche Gebühr 1 Promille des Schätzungswertes des Grundstücks.
+
+<sup>3</sup> Die tatsächlichen Verwaltungskosten (Unkosten, Barauslagen) gelten als Auslagen.
+
+<sup>4</sup> Die Aufsichtsbehörde kann in besonderen Fällen die Gebühr angemessen erhöhen.
+
+#### Art. 28
+
+**Schätzung von Pfändern**
+
+Gebühren und Auslagen für die Schätzung von Faustpfändern und Grundstücken bei Betreibung auf Pfandverwertung, einschliesslich Abfassung der Schätzungsurkunde, bestimmen sich nach Artikel 20.
+
+#### Art. 29
+
+**Lastenverzeichnis und Steigerungsbedingungen**
+
+<sup>1</sup> Die Gebühr für die Aufstellung des Lastenverzeichnisses beträgt 300 Franken für jedes Grundstück.
+
+<sup>2</sup> Die Gebühr für die Festsetzung der Steigerungsbedingungen beträgt 150 Franken für jedes Grundstück.
+
+<sup>3</sup> Sind für bewegliche Sachen besondere Steigerungsbedingungen festzusetzen, so beträgt die Gebühr 100 Franken.
+
+<sup>4</sup> Die Gebühr für die Bereinigung des Lastenverzeichnisses und der Steigerungsbedingungen für weitere Steigerungen beträgt die Hälfte der Gebühren nach den Absätzen 1 und 2.
+
+#### Art. 30
+
+**Versteigerung, Freihandverkauf und Ausverkauf**
+
+<sup>1</sup>
+
+Die Gebühr für die Vorbereitung und Durchführung einer Versteigerung, eines Freihandverkaufs oder eines Ausverkaufs, einschliesslich Abfassung des Protokolls, bemisst sich:
+
+- a. bei der Versteigerung nach dem gesamten Zuschlagspreis;
+- b. beim Freihandverkauf nach dem gesamten Kaufpreis;
+- c. beim Ausverkauf nach dem gesamten Erlös.
+
+<sup>2</sup> Sie beträgt:
+
+<table>
+<tr><td colspan="4">Zuschlagspreis, Kaufpreis oder Erlös/Franken</td><td colspan="2">Gebühr/Franken</td></tr>
+<tr><td></td><td></td><td></td><td>bis</td><td>500</td><td>10.–</td></tr>
+<tr><td>über</td><td>500</td><td></td><td>bis</td><td>1 000</td><td>50.–</td></tr>
+<tr><td>über</td><td>1 000</td><td></td><td>bis</td><td>10 000</td><td>100.–</td></tr>
+<tr><td>über</td><td>10 000</td><td></td><td>bis</td><td>100 000</td><td>200.–</td></tr>
+<tr><td>über</td><td>100 000</td><td></td><td></td><td></td><td>2 Promille</td></tr>
+</table>
+
+<sup>3</sup> Die Gebühr darf auf keinen Fall den erzielten Erlös übersteigen.
+
+<sup>4</sup> Findet sich kein Erwerber, so bemisst sich die Gebühr nach dem Schätzungswert und vermindert sich um die Hälfte, beträgt aber höchstens 1000 Franken.
+
+<sup>5</sup> Dauert die Verwertung länger als eine Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.
+
+<sup>6</sup> Die Kosten für Gehilfen und Lokale gelten als Auslagen.
+
+<sup>7</sup> Die Gebühr für die Eintragung des Verwertungsbegehrens beträgt 5 Franken, wenn die Verwertung infolge Zahlung, Rückzug des Begehrens oder Einstellung der Betreibung nicht durchgeführt wird. Erfolgt der Rückzug oder die Zahlung erst nach der Bekanntmachung, so bemisst sich die Gebühr nach Absatz 4.
+
+#### Art. 31
+
+**Verwertung aus mehreren Betreibungen**
+
+Werden Gegenstände aus verschiedenen Betreibungen gleichzeitig verwertet, so ist die Verwertungsgebühr nach dem Gesamterlös zu berechnen. Dieser Betrag ist auf die einzelnen Betreibungen zu verteilen, und zwar im Verhältnis des Erlöses aus den betreffenden Objekten oder, wenn sich kein Erwerber findet, im Verhältnis zu den Schätzungswerten.
+
+#### Art. 32
+
+**Mitteilungen an das Grundbuchamt**
+
+Die Gebühr für die doppelt auszufertigende Mitteilung einer Handänderung an das Grundbuchamt sowie die Veranlassung der erforderlichen Löschungen und Umschreibungen (Art. 150 Abs. 3 SchKG) beträgt 100 Franken.
+
+#### Art. 33
+
+**Einzug und Überweisung**
+
+Die Gebühr für den Einzug des Verwertungserlöses und der Zahlungen aus Einkommenspfändungen und deren Überweisung an einen Gläubiger bestimmt sich nach Artikel 19; überbundene Beträge gelten nicht als Verwertungserlös.
+
+#### Art. 34
+
+**Erstellung des Kollokations- und Verteilungsplans**
+
+<sup>1</sup>
+
+Die Gebühr für die Erstellung eines Kollokations- und Verteilungsplanes beträgt:
+
+- a. 25 Franken für die erste Seite bei beweglichen Sachen und Forderungen;
+- b. 70 Franken für die erste Seite bei Grundstücken allein oder zusammen mit beweglichen Sachen oder Forderungen;
+- c. 8 Franken für jede weitere Seite.
+
+<sup>2</sup> Die Gebühr für die Abrechnung einer Einkommenspfändung, für die kein Verteilungsplan notwendig ist, beträgt 10 Franken je Betreibung.
+
+#### Art. 35
+
+**Anweisung von Forderungen**
+
+<sup>1</sup> Die Gebühr für die Anweisung von Forderungen des Schuldners an Zahlungs Statt (Art. 131 Abs. 1 SchKG) bestimmt sich sinngemäss nach Artikel 19 Absatz 1.
+
+<sup>2</sup> Die Gebühr für die Anweisung von Forderungen des Schuldners zur Eintreibung (Art. 131 Abs. 2 SchKG) beträgt 20 Franken.
+
+#### Art. 36
+
+**Besondere Art der Abgeltung**
+
+Die Gebühr für die Feststellung, dass eine in bar zu tilgende Forderung auf andere Weise abgegolten wird, beträgt 20 Franken.
+
+#### Art. 37
+
+**Eigentumsvorbehalt**
+
+<sup>1</sup> Die Gebühr für die Verrichtungen bei der Eintragung von Eigentumsvorbehalten nach Verordnung vom 19. Dezember 1910[^37-1] betreffend die Eintragung der Eigentumsvorbehalte geht zu Lasten des Antragstellers und beträgt:
+
+<table>
+<tr><td></td><td colspan="6">Restschuld/Franken</td><td>Gebühr/Franken</td></tr>
+<tr><td>a.</td><td colspan="6">für die Eintragung des Eigentumsvorbehaltes:</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>bis</td><td>1 000</td><td></td><td>25.–</td></tr>
+<tr><td></td><td>über</td><td>1 000</td><td></td><td>bis</td><td>5 000</td><td></td><td>50.–</td></tr>
+<tr><td></td><td>über</td><td>5 000</td><td></td><td>bis</td><td>10 000</td><td></td><td>60.–</td></tr>
+<tr><td></td><td>über</td><td>10 000</td><td></td><td></td><td></td><td></td><td>6 Promille, jedoch höchstens 150.–</td></tr>
+<tr><td>b.</td><td colspan="6">für die Eintragung einer Zession</td><td>10.–</td></tr>
+<tr><td>c.</td><td colspan="6">für die Vorlegung des Registers oder für eine sich darauf stützende Auskunft</td><td>9.–</td></tr>
+<tr><td>d.</td><td colspan="6">für Auszüge, Bescheinigungen und schriftliche Mitteilungen überdies für jede Seite</td><td>8.–</td></tr>
+</table>
+
+<sup>2</sup> Die Löschung einer Eintragung und die Bestätigung von Verrichtungen im Sinne von Absatz 1 Buchstaben a und b auf dem Vertrag sind gebührenfrei.
+
+<sup>3</sup> Im Falle des Verkaufs derselben Sache an mehrere Erwerber mit Wohnsitz im gleichen Registerkreis ist nur eine Gebühr geschuldet.
+
+[^37-1]: [SR 211.413.1](https://fedlex.data.admin.ch/eli/cc/27/215_211_275)
+
+#### Art. 38
+
+**Selbständige Festsetzung des Kompetenzbetrages**
+
+<sup>1</sup> Die Gebühr für die Festsetzung des Kompetenzbetrages ausserhalb der Zwangsvollstreckung geht zu Lasten des Gesuchstellers und beträgt 40 Franken.
+
+<sup>2</sup> Dauert die Verrichtung länger als eine Stunde, so beträgt die Gebühr 40 Franken für jede weitere halbe Stunde.
+
+#### Art. 39
+
+**Konkursandrohung**
+
+Die Gebühr für den Erlass der Konkursandrohung bestimmt sich nach Artikel 16.
+
+#### Art. 40
+
+**Güterverzeichnis**
+
+Die Gebühr für die Erstellung eines Güterverzeichnisses (Art. 162 und 163 SchKG) beträgt 40 Franken je halbe Stunde.
+
+#### Art. 41
+
+**Löschung eines Verlustscheines**
+
+Die Löschung eines Verlustscheines ist gebührenfrei.
+
+#### Art. 42
+
+**Übrige Eintragungen**
+
+Die Gebühr für eine in den Artikeln 16–41 nicht besonders tarifierte Eintragung beträgt 5 Franken.
+
+## 3. Kapitel: Gebühren im Konkursverfahren
+
+#### Art. 43
+
+**Geltungsbereich**
+
+Die Gebühren nach den Artikeln 44–46 gelten sowohl für die amtliche wie für die ausseramtliche Konkursverwaltung.
+
+#### Art. 44
+
+**Feststellung der Konkursmasse**
+
+Die Gebühr beträgt 50 Franken je halbe Stunde für die:
+
+- a. Schliessung und Versiegelung sowie andere sichernde Massnahmen;
+- b. Einvernahme des Konkursiten oder anderer Personen;
+- c. Aufnahme und Bewertung der Aktiven;
+- d. Reinschrift des Inventars;
+- e. Aufstellung eines vorläufigen Gläubigerverzeichnisses.
+
+#### Art. 45
+
+**Gläubigerversammlung**
+
+Die Gebühr für die Ausarbeitung des Berichtes an die Gläubigerversammlung, für deren Leitung und für die Protokollierung bemisst sich nach den durch das Inventar ausgewiesenen Aktiven und beträgt:
+
+<table>
+<tr><td colspan="2">Aktiven/Franken</td><td>Gebühr/Franken</td></tr>
+<tr><td>bis</td><td>500 000</td><td>400.–</td></tr>
+<tr><td>über</td><td>500 000</td><td>1000.–</td></tr>
+</table>
+
+#### Art. 46
+
+**Andere Verrichtungen**
+
+<sup>1</sup>
+
+Die Gebühr beträgt:
+
+- a. 20 Franken für die Einschreibung und Prüfung jeder Konkursforderung, einschliesslich der Abfassung, Reinschrift und Auflegung des Kollokationsplanes;
+- b. 20 Franken für eine Verfügung über einen Eigentumsanspruch;
+- c. je 200 Franken für die Schlussrechnung, den Verteilungsplan und den Schlussbericht an das Konkursgericht; dauert die Verrichtung länger als eine Stunde, so erhöht sich die Gebühr um 50 Franken je weitere halbe Stunde;
+- d. 20 Franken für eine Abtretung von Rechtsansprüchen auf Verlangen eines Gläubigers.
+
+<sup>2</sup>
+
+Im übrigen bestimmen sich die Gebühren sinngemäss nach:
+
+- a. den Artikeln 26 und 27 für die Verwahrung und Verwaltung von Gegenständen des Massevermögens;
+- b. Artikel 19 für den Einzug von Forderungen und für die Begleichung von Masseschulden;
+- c. den Artikeln 29, 30, 32 und 36 für die Verwertung des Massevermögens;
+- d. Artikel 33 für die Verteilung des Erlöses.
+
+<sup>3</sup>
+
+Die Entschädigung je halbe Sitzungsstunde beträgt:
+
+- a. 60 Franken für den Präsidenten des Gläubigerausschusses und den Protokollführer;
+- b. 50 Franken für die übrigen Mitglieder des Gläubigerausschusses und den Konkursverwalter, der nicht als Protokollführer mitwirkt.
+
+<sup>4</sup> Für Verrichtungen ausserhalb von Sitzungen beträgt die Entschädigung für den Präsidenten und die übrigen Mitglieder des Gläubigerausschusses 50 Franken je halbe Stunde.
+
+#### Art. 47
+
+**Anspruchsvolle Verfahren**
+
+<sup>1</sup> Für Verfahren, die besondere Abklärungen des Sachverhaltes oder von Rechtsfragen erfordern, setzt die Aufsichtsbehörde das Entgelt für die amtliche und die ausseramtliche Konkursverwaltung fest; sie berücksichtigt dabei namentlich die Schwierigkeit und die Bedeutung der Sache, den Umfang der Bemühungen sowie den Zeitaufwand.
+
+<sup>2</sup> Ferner kann in solchen Verfahren die Aufsichtsbehörde sowohl bei amtlicher wie bei ausseramtlicher Konkursverwaltung die Entschädigungsansätze für die Mitglieder des Gläubigerausschusses (Art. 46 Abs. 3 und 4) erhöhen.
+
+## 4. Kapitel: Gerichtsgebühren
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 48
+
+**Spruchgebühr**
+
+Sofern diese Verordnung nichts anderes vorsieht, bestimmt sich die Spruchgebühr für einen gerichtlichen Entscheid in betreibungsrechtlichen Summarsachen (Art. 251 der Zivilprozessordnung vom 19. Dez. 2008[^48-1], ZPO) wie folgt nach dem Streitwert:[^48-2]
+
+<table>
+<tr><td colspan="4">Streitwert/Franken</td><td colspan="2">Gebühr/Franken</td></tr>
+<tr><td></td><td></td><td></td><td>bis</td><td>1 000</td><td>40–150</td></tr>
+<tr><td>über</td><td>1 000</td><td></td><td>bis</td><td>10 000</td><td>50–300</td></tr>
+<tr><td>über</td><td>10 000</td><td></td><td>bis</td><td>100 000</td><td>60–500</td></tr>
+<tr><td>über</td><td>100 000</td><td></td><td>bis</td><td>1 000 000</td><td>70–1000</td></tr>
+<tr><td>über</td><td>1 000 000</td><td></td><td></td><td></td><td>120–2000</td></tr>
+</table>
+
+[^48-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^48-2]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+#### Art. 49 und 50
+
+[^4950-1]
+
+[^4950-1]: Aufgehoben durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+### 2. Abschnitt: Betreibungs- und Konkurssachen
+
+#### Art. 51
+
+**Aufhebung des Rechtsstillstandes**
+
+Die Gebühr für einen Entscheid über Aufhebung des Rechtsstillstandes (Art. 57*d* SchKG) beträgt 40–150 Franken.
+
+#### Art. 52
+
+**Konkurseröffnung**
+
+Die Gebühr für den Entscheid über die Konkurseröffnung beträgt:
+
+- a. in nicht streitigen Fällen 40–200 Franken;
+- b. in streitigen Fällen 50–500 Franken.
+
+#### Art. 53
+
+**Andere Verfügungen des Konkursgerichts**
+
+Die Gebühr beträgt 40–200 Franken für:
+
+- a. vorsorgliche Anordnungen;
+- b. die Einstellung des Konkurses;
+- c. die Anordnung des summarischen Verfahrens;
+- d. den Widerruf des Konkurses;
+- e. das Schlussdekret.
+
+### 3. Abschnitt: Nachlassverfahren, Schuldenbereinigung und Notstundung
+
+#### Art. 54
+
+**Nachlassstundung**
+
+Die Gebühr für Entscheide des Nachlassgerichts beträgt 200–2500 Franken; das Nachlassgericht kann sie in besonderen Fällen bis auf 5000 Franken erhöhen.
+
+#### Art. 55
+
+**Honorar der Organe**
+
+<sup>1</sup> Das Nachlassgericht setzt das Honorar des Sachwalters sowie im Falle eines Liquidationsvergleichs das Honorar der Liquidatoren und der Mitglieder des Gläubigerausschusses pauschal fest.
+
+<sup>2</sup> Im Falle eines Nachlassvertrages im Konkurs setzt die Aufsichtsbehörde das Honorar der Konkursverwaltung pauschal fest.
+
+<sup>3</sup> Bei der Festsetzung des Honorars nach den Absätzen 1 und 2 werden namentlich die Schwierigkeit und die Bedeutung der Sache, der Umfang der Bemühungen, der Zeitaufwand sowie die Auslagen berücksichtigt.
+
+#### Art. 56
+
+**Einvernehmliche private Schuldenbereinigung**
+
+<sup>1</sup> Die Gebühr für Bewilligung, Verlängerung oder Widerruf der Stundung beträgt 40–200 Franken.
+
+<sup>2</sup> Für die Festsetzung des Honorars des Sachwalters gilt Artikel 55 sinngemäss.
+
+#### Art. 57
+
+**Notstundung**
+
+Gebühren und Honorare im Notstundungsverfahren bestimmen sich sinngemäss nach den Artikeln 40, 54 und 55.
+
+### 4. Abschnitt: …
+
+#### Art. 58–60
+
+[^5860-1]
+
+[^5860-1]: Aufgehoben durch Anhang 1 Ziff. 3 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+### 5. Abschnitt: Weiterziehung und Beschwerdeverfahren; Parteientschädigung
+
+#### Art. 61
+
+**Gebühren**
+
+<sup>1</sup> Das obere Gericht, an das eine betreibungsrechtliche Summarsache (Art. 251 ZPO[^61-1]) weitergezogen wird, kann für seinen Entscheid eine Gebühr erheben, die höchstens das Anderthalbfache der für die Vorinstanz zulässigen Gebühr beträgt.[^61-2]
+
+<sup>2</sup>
+
+Unentgeltlich sind:
+
+- a. das Beschwerdeverfahren und die Weiterziehung eines Beschwerdeentscheides (Art. 17–19 SchKG);
+- b.[^61-3] im Stundungs‑, Konkurs- und Nachlassverfahren der Banken das Beschwerdeverfahren vor dem Stundungsgericht, dem Konkursgericht und der Nachlassbehörde.
+
+[^61-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^61-2]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^61-3]: Art. 61 Abs. 2 Bst. b ist heute gegenstandslos. Stundungs-, Konkurs- und Nachlassverfahren über Banken sind seit 1. Juli 2004 in den Art. 33–37g des Bankengesetzes ([SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)) geregelt.
+
+#### Art. 62
+
+**Parteientschädigung**
+
+<sup>1</sup> …[^62-1]
+
+<sup>2</sup> Im Beschwerdeverfahren nach den Artikeln 17–19 des SchKG darf keine Parteientschädigung zugesprochen werden.
+
+[^62-1]: Aufgehoben durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+## 5. Kapitel: Schlussbestimmungen
+
+#### Art. 63
+
+<sup>1</sup> Die Gebührenverordnung vom 7. Juli 1971[^63-1] zum Bundesgesetz über Schuldbetreibung und Konkurs wird aufgehoben. Sie findet jedoch Anwendung auf Verrichtungen, die bis 31. Dezember 1996 vorgenommen wurden und für welche später abgerechnet wird.
+
+<sup>2</sup> Diese Verordnung tritt am 1. Januar 1997 in Kraft.
+
+[^63-1]: [[AS 1971 1080](https://fedlex.data.admin.ch/eli/oc/1971/1080_1080_1081), [1977 2164](https://fedlex.data.admin.ch/eli/oc/1977/2164_2164_2164), [1983 784](https://fedlex.data.admin.ch/eli/oc/1983/784_784_784), [1987 757](https://fedlex.data.admin.ch/eli/oc/1987/757_757_757), [1989 2409](https://fedlex.data.admin.ch/eli/oc/1989/2409_2409_2409), [1991 1312](https://fedlex.data.admin.ch/eli/oc/1991/1312_1312_1312), [1994 202](https://fedlex.data.admin.ch/eli/oc/1994/202_202_202)[358](https://fedlex.data.admin.ch/eli/oc/1994/358_358_358)]

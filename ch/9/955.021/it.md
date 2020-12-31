@@ -1,0 +1,436 @@
+---
+sr: "955.021"
+title: "Ordinanza del 12 novembre 2018 della Commissione federale delle case da gioco sugli obblighi di diligenza delle case da gioco relativi alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo (Ordinanza della CFCG sul riciclaggio di denaro, ORD-CFCG)"
+short: ORD-CFCG
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/802"
+language: it
+version: 2019-01-01
+adopted: 2018-11-12
+in_force: 2019-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-802-20190101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza della Commissione federale delle case da gioco sugli obblighi di diligenza delle case da gioco relativi alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo
+
+(Ordinanza della CFCG sul riciclaggio di denaro, ORD-CFCG)
+
+del 12 novembre 2018 (Stato 1° gennaio 2019)
+
+La Commissione federale delle case da gioco (CFCG),
+
+visto l’articolo 17 della legge del 10 ottobre 1997[^ingress-1] sul riciclaggio di denaro (LRD); visto l’articolo 68 capoverso 3 della legge del 29 settembre 2017[^ingress-2] sui giochi in denaro (LGD),
+
+ordina:
+
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-2]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+
+## Capitolo 1: Oggetto e campo d’applicazione
+
+#### Art. 1
+
+<sup>1</sup> La presente ordinanza concretizza gli obblighi di diligenza sanciti nella LRD e nella LGD per le case da gioco titolari di una concessione.
+
+<sup>2</sup> Determina le misure organizzative che le case da gioco devono adottare nel settore dei giochi da casinò terrestri (giochi terrestri) e in quello dei giochi da casinò in linea (giochi in linea).
+
+## Capitolo 2: Obblighi di diligenza
+
+### (art. 3–11*a* LRD)
+
+### Sezione 1: Identificazione e registrazione del giocatore
+
+### (art. 3 LRD)
+
+#### Art. 2
+
+**Identificazione e registrazione del giocatore nel settore dei giochi terrestri**
+
+<sup>1</sup>
+
+Nel settore dei giochi terrestri, la casa da gioco identifica e registra il giocatore che durante la medesima giornata di gioco effettua una o più transazioni per un importo totale pari o superiore a 4000 franchi, in una delle seguenti categorie:
+
+- a. acquisto di gettoni dalla casa da gioco;
+- b. rivendita di gettoni alla casa da gioco;
+- c. pagamenti ottenuti ai giochi in denaro automatici;
+- d. emissione e incasso di assegni;
+- e. cambio di valuta;
+- f. cambio del taglio di banconote.
+
+<sup>2</sup> La transazione che ha fatto scattare l’identificazione è registrata sotto il nome del giocatore.
+
+<sup>3</sup> La casa da gioco può adempiere il suo obbligo d’identificazione, anche identificando e registrando immediatamente tutti i giocatori all’entrata della casa da gioco. In tal caso i capoversi 1 e 2 non si applicano.
+
+<sup>4</sup> La casa da gioco stabilisce nelle sue direttive interne quale metodo d’identificazione intende applicare.
+
+#### Art. 3
+
+**Identificazione e registrazione del giocatore nel settore dei giochi in linea**
+
+Nel settore dei giochi in linea, la casa da gioco identifica e registra il giocatore che sull’arco di 24 ore effettua una o più transazioni per un importo totale pari o superiore a 4000 franchi, in una delle seguenti categorie:
+
+- a. versamento sul suo conto giocatore secondo l’articolo 50 capoverso 1 dell’ordinanza del 7 novembre 2018[^3-1] sui giochi in denaro (OGD); o
+- b. versamento di vincite e averi sul conto di pagamento secondo l’articolo 50 capoverso 2 OGD.
+
+[^3-1]: [RS 935.511](https://fedlex.data.admin.ch/eli/cc/2018/796)
+
+#### Art. 4
+
+**Dati da registrare per l’identificazione**
+
+<sup>1</sup> La casa da gioco registra il cognome, i nomi, la data di nascita e la cittadinanza del giocatore.
+
+<sup>2</sup> Se il giocatore è cittadino di un Paese nel quale la data di nascita non è utilizzata, l’esigenza di questa indicazione decade. Questa eccezione è motivata in una nota allegata agli atti.
+
+#### Art. 5
+
+**Prova dell’identità**
+
+<sup>1</sup>
+
+La prova dell’identità del giocatore può essere fornita mediante:
+
+- a. un documento d’identità ufficiale in caratteri latini e provvisto di fotografia, quale il passaporto, la carta d’identità o la licenza di condurre;
+- b. la copia autenticata ai sensi dell’articolo 6 del documento d’identità di cui alla lettera a;
+- c. la copia del documento d’identità di cui alla lettera a, accompagnata dalla prova che il giocatore ha un conto di pagamento svizzero a suo nome;
+- d. un mezzo d’identificazione elettronico riconosciuto dallo Stato;
+- e. un’identificazione video o in linea; o
+- f. qualsiasi altro mezzo equivalente previamente approvato dalla CFCG.
+
+<sup>2</sup> La casa da gioco allestisce una copia del mezzo di prova presentatole e la conserva in forma cartacea o elettronica.
+
+#### Art. 6
+
+**Autenticazione**
+
+<sup>1</sup>
+
+La copia del documento d’identità di cui all’articolo 5 capoverso 1 lettera a è autenticata da:
+
+- a. un notaio o un ente pubblico normalmente preposto al rilascio di tali attestazioni;
+- b. un avvocato abilitato a esercitare la professione in Svizzera;
+- c. un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 o 3 LRD con domicilio o sede in Svizzera; o
+- d. un intermediario finanziario con sede o domicilio all’estero che esercita un’attività simile a quella di un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 o 3 LRD e che è sottoposto a una vigilanza e a una regolamentazione equivalenti in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+
+<sup>2</sup> È considerata attestazione di autenticità valida anche la copia del documento d’identità presente nella banca dati di un prestatore di servizi di certificazione riconosciuto secondo la legge federale del 18 marzo 2016[^6-1] sulla firma elettronica in combinazione con un’autenticazione elettronica effettuata dal giocatore in questo ambito. La copia del documento d’identità è richiesta nel quadro dell’emissione di un certificato qualificato.
+
+[^6-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+### Sezione 2: Accertamento dell’avente economicamente diritto
+
+### (art. 4 LRD)
+
+#### Art. 7
+
+**Principio**
+
+<sup>1</sup>
+
+La casa da gioco richiede al giocatore una dichiarazione scritta indicante l’identità della persona fisica avente economicamente diritto, se:
+
+- a. sa che il giocatore non è identico all’avente economicamente diritto o se ha dubbi al riguardo;
+- b. il giocatore effettua transazioni che richiedono la sua identificazione secondo l’articolo 3 o che devono essere registrate secondo l’articolo 10;
+- c. il giocatore apporta valori patrimoniali manifestamente superiori alla sua disponibilità finanziaria; o
+- d. la relazione con il giocatore induce la casa da gioco a constatare altri comportamenti insoliti.
+
+<sup>2</sup> La dichiarazione può essere firmata o confermata per via elettronica dal giocatore.
+
+#### Art. 8
+
+**Indicazioni necessarie**
+
+<sup>1</sup> La dichiarazione circa l’avente economicamente diritto contiene le indicazioni seguenti: cognome, nomi, data di nascita, indirizzo di domicilio e cittadinanza.
+
+<sup>2</sup> Se l’avente economicamente diritto è cittadino di un Paese nel quale non si utilizza la data di nascita o l’indirizzo di domicilio, l’esigenza di queste indicazioni decade. Questa eccezione è motivata in una nota allegata agli atti.
+
+### Sezione 3: Sorveglianza delle relazioni d’affari
+
+#### Art. 9
+
+**Principio**
+
+La casa da gioco provvede a una sorveglianza efficace delle sue relazioni d’affari e delle sue transazioni con il giocatore, tenendo conto del canale di distribuzione della propria offerta.
+
+#### Art. 10
+
+**Transazioni da registrare nel settore dei giochi terrestri**
+
+<sup>1</sup>
+
+La casa da gioco registra sotto il nome del giocatore tutte le transazioni effettuate nel settore dei giochi terrestri pari o superiori a 4000 franchi, in una delle categorie seguenti:
+
+- a. rivendita di gettoni alla casa da gioco;
+- b. emissione e incasso di assegni;
+- c. cambio di valuta;
+- d. cambio del taglio di banconote.
+
+<sup>2</sup> Registra sotto il nome del giocatore i pagamenti ottenuti ai giochi in denaro automatici che, in una o più transazioni effettuate la medesima giornata di gioco, raggiungono o superano 15 000 franchi.
+
+<sup>3</sup> Registra sotto il nome del giocatore tutte le transazioni effettuate nel quadro di una relazione d’affari duratura.
+
+<sup>4</sup>
+
+Una relazione d’affari è considerata duratura se la casa da gioco mette a disposizione del giocatore una delle possibilità seguenti:
+
+- a. un deposito di gettoni; o
+- b. un supporto elettronico per crediti di gioco che viene usato per più di una giornata di gioco e che alla fine di una giornata di gioco presenta un credito superiore a 4000 franchi.
+
+<sup>5</sup> Quando registra le transazioni sotto il nome del giocatore o avvia con lui una relazione d’affari duratura, la casa da gioco ne registra l’indirizzo del domicilio.
+
+<sup>6</sup> Se il giocatore è cittadino di un Paese nel quale non si utilizza l’indirizzo di domicilio, l’esigenza di questa indicazione decade. Questa eccezione è motivata in una nota allegata agli atti.
+
+#### Art. 11
+
+**Transazioni da registrare nel settore dei giochi in linea**
+
+La casa da gioco adempie l’obbligo di registrare le transazioni nel settore dei giochi in linea rilevando i dati di cui all’articolo 39 dell’ordinanza del DFGP del 7 novembre 2018[^11-1] sulle case da gioco.
+
+[^11-1]: [RS 935.521.21](https://fedlex.data.admin.ch/eli/cc/2004/674)
+
+### Sezione 4: Obblighi di diligenza particolari
+
+### (art. 6 LRD)
+
+#### Art. 12
+
+**Principio**
+
+La casa da gioco chiarisce senza indugio le circostanze economiche, non appena si verifichi un caso secondo l’articolo 6 capoverso 2 LRD.
+
+#### Art. 13
+
+**Relazioni d’affari che comportano un rischio elevato**
+
+### (art. 6 cpv. 2 lett. c LRD)
+
+<sup>1</sup> La casa da gioco stabilisce i criteri per individuare le relazioni d’affari che comportano un rischio elevato, tenendo conto del canale di distribuzione della propria offerta.
+
+<sup>2</sup>
+
+Entrano in considerazione segnatamente i criteri seguenti:
+
+- a. statuto di persone politicamente esposte secondo l’articolo 2*a* capoversi 1 e 2 LRD;
+- b. domicilio e cittadinanza del giocatore e dell’avente economicamente diritto;
+- c. tipo e luogo dell’attività commerciale del giocatore e dell’avente economicamente diritto;
+- d. importo dei valori patrimoniali apportati dal giocatore;
+- e. importo dei valori patrimoniali vinti o ricambiati;
+- f. Paese di provenienza dei versamenti sul conto giocatore o Paese di destinazione dei trasferimenti sul conto di pagamento.
+
+<sup>3</sup> I criteri di cui al capoverso 2 lettere a, b ed f indicano relazioni d’affari che comportano un rischio elevato in particolare se il Paese interessato figura negli elenchi delle giurisdizioni ad alto rischio e non cooperanti del Gruppo d’azione finanziaria (GAFI)[^13-1] o se è soggetto a sanzioni internazionali ai sensi della legge del 22 marzo 2002[^13-2] sugli embarghi.
+
+[^13-1]: www.fatf-gafi.org &gt; pays &gt; juridictions à hauts risques et juridictions sous surveillance
+[^13-2]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+
+#### Art. 14
+
+**Classificazione delle relazioni d’affari fondata sul rischio**
+
+<sup>1</sup>
+
+La casa da gioco suddivide le sue relazioni d’affari nelle tre categorie seguenti:
+
+- a. relazioni d’affari che rispondono a due o più criteri di cui all’articolo 13 («rischio molto elevato»);
+- b. relazioni d’affari che rispondono a uno dei criteri di cui all’articolo 13 («rischio elevato»);
+- c. relazioni d’affari che non rispondono ad alcun criterio di cui all’articolo 13 («rischio normale»).
+
+<sup>2</sup> La casa da gioco verifica ogni anno la classificazione delle relazioni d’affari.
+
+#### Art. 15
+
+**Transazioni che comportano un rischio elevato**
+
+### (art. 6 cpv. 2 lett. c LRD)
+
+<sup>1</sup> La casa da gioco stabilisce i criteri per individuare le transazioni che comportano un rischio elevato, tenendo conto del canale di distribuzione della propria offerta.
+
+<sup>2</sup>
+
+Entrano in considerazione segnatamente, i criteri seguenti:
+
+- a. importo dei valori patrimoniali apportati dal giocatore;
+- b. importo dei valori patrimoniali vinti dal giocatore o ricambiati;
+- c. divergenze considerevoli quanto a tipo, volume o frequenza delle transazioni rispetto a quelle normalmente effettuate nell’ambito della stessa relazione d’affari;
+- d. divergenze considerevoli quanto a tipo, volume o frequenza delle transazioni rispetto a quelle normalmente effettuate nell’ambito di relazioni d’affari simili.
+
+<sup>3</sup> Una transazione in cui vengono immessi in una sola volta 30 000 o più franchi è considerata in ogni caso una transazione che comporta un rischio elevato.
+
+#### Art. 16
+
+**Contenuto dei chiarimenti**
+
+A seconda del caso la casa da gioco chiarisce:
+
+- a. se il giocatore è l’avente economicamente diritto dei valori patrimoniali cambiati, giocati o depositati;
+- b. se il giocatore è l’avente economicamente diritto dei valori patrimoniali vinti o ricambiati;
+- c. la provenienza dei valori patrimoniali apportati dal giocatore;
+- d. l’origine del patrimonio del giocatore e dell’avente economicamente diritto;
+- e. l’attività professionale o commerciale del giocatore e dell’avente economicamente diritto.
+
+#### Art. 17
+
+**Procedura**
+
+<sup>1</sup>
+
+A seconda del caso i chiarimenti comprendono:
+
+- a. la raccolta di informazioni scritte o orali presso il giocatore o l’avente economicamente diritto;
+- b. ragguagli da persone degne di fiducia;
+- c. la consultazione di altre fonti d’informazione o banche dati.
+
+<sup>2</sup> La casa da gioco verifica la plausibilità dei chiarimenti ottenuti, li documenta ed esamina se sono adempiute le condizioni per una comunicazione ai sensi dell’articolo 9 capoverso 1 LRD.
+
+### Sezione 5 Comunicazioni, mantenimento o interruzione della relazione d’affari
+
+### (art. 9–11*a* LRD)
+
+#### Art. 18
+
+**Comunicazioni**
+
+### (art. 9 LRD; art. 305<sup>ter</sup> cpv.2 CP)
+
+<sup>1</sup> La casa da gioco effettua le comunicazioni secondo l’articolo 9 LRD in una forma conforme alle istruzioni dell’Ufficio di comunicazione in materia di riciclaggio di denaro.
+
+<sup>2</sup> La casa da gioco che, in caso di una relazione d’affari sospetta, ne documenta i motivi non esercita il suo diritto di comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 del Codice penale (CP)[^18-1].
+
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 19
+
+**Obbligo di mantenere la relazione d’affari**
+
+<sup>1</sup>
+
+La casa da gioco non può interrompere una relazione d’affari:
+
+- a. se sono soddisfatte le condizioni relative all’obbligo di comunicazione ai sensi dell’articolo 9 LRD;
+- b. se esercita il suo diritto di comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP.
+
+<sup>2</sup> La casa da gioco non può interrompere una relazione d’affari né autorizzare il ritiro di importanti valori patrimoniali se indizi concreti indicano che un’autorità sta per adottare misure di sicurezza.
+
+#### Art. 20
+
+**Rifiuto o interruzione della relazione d’affari**
+
+<sup>1</sup>
+
+La casa da gioco rifiuta di avviare una relazione d’affari o interrompe una relazione d’affari già avviata se:
+
+- a. non riesce a verificare l’identità del giocatore o identificare l’avente economicamente diritto;
+- b. non riesce a chiarire il contesto economico del giocatore;
+- c. dubita delle indicazioni fornite dal giocatore anche dopo che è stata attuata la procedura di cui all’articolo 5 capoverso 1 LRD;
+- d. sospetta che le siano state fornite intenzionalmente indicazioni false sull’identità del giocatore o sul suo contesto economico oppure sull’avente economicamente diritto.
+
+<sup>2</sup>
+
+La casa da gioco sceglie, a propria discrezione, se mantenere o no una relazione d’affari:
+
+- a.
+
+  se entro 20 giorni lavorativi da una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera a LRD, l’Ufficio di comunicazione in materia di riciclaggio di denaro:
+
+  - 1\. non le fornisce informazioni,
+  - 2\. la informa che la comunicazione non viene trasmessa a un’autorità di perseguimento penale,
+  - 3\. la informa che la comunicazione è trasmessa a un’autorità di perseguimento penale e che a partire da tale trasmissione non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
+
+- b. se dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi dal momento in cui è giunta questa informazione; oppure
+- c. se dopo una comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP, l’Ufficio di comunicazione in materia di riciclaggio di denaro la informa che la sua comunicazione non sarà inoltrata a un’autorità di perseguimento penale.
+
+<sup>3</sup> Se intende interrompere la relazione d’affari, la casa da gioco può autorizzare il prelievo di importanti valori patrimoniali da parte del giocatore unicamente in una forma tale da consentire alle autorità di perseguimento penale di seguirne la traccia.
+
+## Capitolo 3: Provvedimenti organizzativi
+
+### Sezione 1: Obbligo di allestire e conservare documenti
+
+### (art. 7 LRD)
+
+#### Art. 21
+
+<sup>1</sup> La casa da gioco allestisce e organizza la propria documentazione in modo tale da consentire alla CFCG, all’autorità di perseguimento penale o ad altre competenti autorità di formarsi in ogni momento un giudizio attendibile sul rispetto degli obblighi stabiliti negli articoli 3–11*a* LRD e nella presente ordinanza.
+
+<sup>2</sup>
+
+La documentazione comprende segnatamente:
+
+- a. una lista di tutti i giocatori identificati, con i dati di cui agli articoli 2 capoverso 2 e 4;
+- b. una copia del documento che ne comprova l’identità secondo l’articolo 5;
+- c. i documenti relativi alle transazioni registrate conformemente agli articoli 10 e 11;
+- d. nei casi di cui all’articolo 7, la dichiarazione scritta del giocatore relativa all’identità dell’avente economicamente diritto;
+- e. le note e i documenti relativi ai risultati dei chiarimenti di cui agli articoli 12 e 16;
+- f. le note e i documenti relativi alla classificazione di cui all’articolo 14 e ai risultati dell’applicazione dei criteri di cui agli articoli 13 e 15;
+- g. tutti i dati raccolti in relazione all’obbligo di comunicazione di cui all’articolo 9 capoverso 1 LRD.
+
+<sup>3</sup> La documentazione permette alle competenti autorità di ricostruire le transazioni che devono essere registrate e le decisioni prese dalla casa da gioco.
+
+<sup>4</sup> La casa da gioco conserva questa documentazione in Svizzera, in un luogo sicuro e accessibile in qualsiasi momento alle competenti autorità, per un periodo di dieci anni dalla cessazione della relazione d’affari.
+
+<sup>5</sup> La casa da gioco distrugge i dati relativi a una comunicazione ai sensi dell’articolo 9 capoverso 1 LRD o dell’articolo 305<sup>ter</sup> capoverso 2 CP[^21-1], cinque anni dopo la comunicazione all’autorità competente.
+
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+### Sezione 2: Organizzazione interna
+
+### (art. 8 LRD)
+
+#### Art. 22
+
+**Direttive interne**
+
+<sup>1</sup> La casa da gioco redige direttive interne relative alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo. Vi precisa i provvedimenti tesi ad adempiere gli obblighi di diligenza secondo la LRD e la presente ordinanza, tenendo conto del canale di distribuzione della propria offerta. Per ogni provvedimento la casa da gioco indica la procedura, le risorse utilizzate e i mezzi previsti.
+
+<sup>2</sup> Le direttive interne sono adottate dal consiglio d’amministrazione o dall’organo di direzione supremo.
+
+<sup>3</sup> Esse devono essere comunicate in modo adeguato ai collaboratori incaricati della loro applicazione.
+
+<sup>4</sup> La casa da gioco sottopone alla CFCG qualsiasi modifica delle direttive interne. La CFCG può vietare queste modifiche.
+
+#### Art. 23
+
+**Servizio di lotta contro il riciclaggio di denaro**
+
+<sup>1</sup> La casa da gioco designa una o più persone qualificate che fungono da servizio di lotta contro il riciclaggio di denaro.
+
+<sup>2</sup>
+
+Il servizio di lotta contro il riciclaggio di denaro ha i seguenti compiti:
+
+- a. provvede all’applicazione e al rispetto delle direttive interne;
+- b. pianifica e sorveglia la formazione interna relativa alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo;
+- c. ordina i chiarimenti di cui agli articoli 12 e 16 o effettua direttamente tali chiarimenti;
+- d. fornisce consulenza alla direzione per qualsiasi questione relativa alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
+- e. presenta annualmente alla CFCG un rapporto sull’attuazione degli obblighi di diligenza relativi alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo. A tal fine la CFCG gli mette a disposizione un modulo.
+
+#### Art. 24
+
+**Formazione e formazione continua del personale**
+
+La casa da gioco provvede affinché i collaboratori ricevano una formazione di base all’inizio dell’impiego e in seguito una formazione continua a intervalli regolari di due anni al massimo sugli aspetti della lotta contro il riciclaggio di denaro e il finanziamento del terrorismo essenziali per la loro funzione.
+
+#### Art. 25
+
+**Controlli interni**
+
+<sup>1</sup> La casa da gioco designa una o più persone qualificate che sorvegliano il rispetto degli obblighi stabiliti negli articoli 3–11*a* LRD e nella presente ordinanza ed effettuano controlli all’interno della casa da gioco.
+
+<sup>2</sup> Le persone interne incaricate della sorveglianza non possono controllare le relazioni d’affari nell’ambito delle quali sono intervenute personalmente.
+
+## Capitolo 4: Disposizioni finali
+
+#### Art. 26
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza della Commissione federale delle case da gioco del 24 giugno 2015[^26-1] sul riciclaggio di denaro è abrogata.
+
+[^26-1]: [[RU 2015 2313](https://fedlex.data.admin.ch/eli/oc/2015/431)]
+
+#### Art. 27
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore simultaneamente alla LGD[^27-1].
+
+[^27-1]: Entrata in vigore il 1° gennaio 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)).

@@ -1,0 +1,78 @@
+---
+sr: "0.632.293.361.2"
+title: "Liste der Konzessionen, welche die Vereinigten Staaten von Amerika der Schweiz einräumen"
+eli: "https://fedlex.data.admin.ch/eli/cc/1962/1647_1705_1727"
+language: de
+version: 1963-01-01
+adopted: 1961-11-20
+in_force: 1963-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1647_1705_1727/19630101/de/xml/fedlex-data-admin-ch-eli-cc-1962-1647_1705_1727-19630101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1647_1705_1727/19630101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Liste der Konzessionen, welche die Vereinigten Staaten von Amerika der Schweiz einräumen
+
+AS **1962** 1647
+
+*Übersetzung des englischen Originaltextes*
+
+Nur der englische Text dieser Liste ist authentisch
+
+(Stand am 1. Januar 1963)
+
+<table>
+<tr><th colspan="2">USA- Zollposition</th><th></th><th>Warenbezeichnung</th><th></th><th>Zollansatz</th><th></th></tr>
+<tr><th colspan="2"></th><th></th><th></th><th></th><th>este Etappe</th><th>zweite Etappe</th></tr>
+<tr><td>23</td><td colspan="2"></td><td>Chemikalien, Drogen, medizinische und dgl. in Nummer 5 aufgeführte Stoffe, wenn sie in Kapseln, Pillen, Tabletten, Pastillen, Plätzchen, Ampullen, Täfelchen oder ähnlichen Formen eingeführt werden, einschliesslich der für medizinische Zwecke dosierten Pulver:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Ergotamintartrat Salze und Verbindungen der Glukosesäure sowie Kombinationen und Mischungen derselben</td><td></td><td>11 % ad val. 11 % ad val.</td><td>10 % ad. val. 10 % ad val.</td></tr>
+<tr><td>27</td><td colspan="2">(a) (3) (4) (5)</td><td>Erzeugnisse, unter beliebigem Namen bekannt, die einem in dieser Nummer oder in Nummer 1651 genannten Produkt gleichen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Ganz oder teilweise aus einem in dieser Nummer genannten Erzeugnis gewonnen, abgeleitet oder hergestellt: 4-Amino‑2‑Stilbensulfonsäure</td><td></td><td>3.1 c. per lb. + 22½ % ad val.</td><td>2.8 c. per lb. + 20 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>Ortho‑Aceto acetotoluidid, 3‑Aminoacetophenon und 2, 4, 6‑Trimethylanilin (Mesidin)</td><td></td><td>3.25 c. per lb. + 22½ % ad val.</td><td>2.8 c. per lb. + 20 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>Ganz oder teilweise aus einem in den Unterpositionen (1), (2) oder (3) dieser Nummer genannten Erzeugnis gewonnen, abgeleitet oder hergestellt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Erzeugnisse, die hauptsächlich als Hilfsmittel beim Zurichten oder Appretieren von Geweben verwendet werden</td><td></td><td>3.1 c. per lb. + 18 % ad val.</td><td>2.8 c. per lb. + 16 % ad val.</td></tr>
+<tr><td>28</td><td colspan="2">(a)</td><td>Farben, Farbstoffe oder Beizen, auch wasserlöslich, die ganz oder teilweise aus einem in dieser Nummer oder in Nummer 1651 genannten Erzeugnis gewonnen, abgeleitet oder hergestellt sind:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">[^ingress-1]\*)</td><td>Säureschwarz 50, 94, 129; Säureblau 54, 106, 127, 129, 143; Säurebraun 44, 46, 48, 58, 188, 189; Säuregrün 40; Säurerot 130, 145, 174, 211; Säureviolett 31, 48; Säuregelb 2, 75, 116; Basisches Rot 14; Basisches Gelb 13; Direktschwarz 62, 91; Direktblau 86, 92, 106, 160, 172; Direktbraun 103, 115, 116; Direktgrün 5, 29, 31; Direktorange 37; Direktrot 83; Direktgelb 28; Dispersionsblau 30; Optischer Aufheller 18, 24, 32; Beizengrün 47; Beizenrot 17; «Reactive black» 1; «Solvent orange» 11; «Solvent yellow» 25; Küpenrot 44; Wasserlöslich gemachtes Küpenorange 3</td><td></td><td>36 % ad val. aber nicht weniger als 3.1 c. per lb. +20 % ad val.</td><td>32 % ad val. aber nicht weniger als 2.8 c. per lb. +18 % ad val.</td></tr>
+<tr><td>28</td><td colspan="2">(a)</td><td>Medikamente, die ganz oder teilweise aus einem in dieser Nummer oder in Nummer 1651 genannten Erzeugnis gewonnen, abgeleitet oder hergestellt sind:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>2‑Benzyl‑4, 5‑Imidazolinhydrochlorid, Methylphenethylhydantoin, Phenylbenzylaminoäthyl‑Imidazolin‑ Hydrochlorid, alle anderen von Imidazolin oder Hydantoin abgeleiteten medizinischen Produkte</td><td></td><td>3.1 c. per lb. +20 % ad val.</td><td>2.8 c. per lb. +18 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>5‑Chlor‑7‑jod‑8‑Quinolinol; 2 [1‑(p‑Chlor phenyl)‑3‑Dimethyl aminopropylamin] Pyridinmaleat; und Niacinamid</td><td></td><td>3.1 c. per lb. +22½ % ad val.</td><td>2.8 c. per lb. +20 % ad val.</td></tr>
+<tr><td>60</td><td colspan="2"></td><td>Stoffe für die Parfümerie, die nicht mehr als 10% Alkohol enthalten:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Anethol, Zitral, Heliotropin, Jonon, Rhodinol und Terpineol; und alle natürlichen oder synthetischen aromatischen oder wohlriechenden Substanzen; alle diese Produkte, weder zusammengesetzt noch gemischt, und n. b. g.:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Anethol, Zitral, Heliotropin, Jonon, Rhodinol und Terpineol</td><td></td><td>27 % ad val.</td><td>24 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>Linalylazetat</td><td></td><td>40½ % ad val.</td><td>36 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>Andere (mit Ausnahme von Geraniol, Safrol und Hydroxyzitronellal)</td><td></td><td>27 % ad val.</td><td>27 % ad val.</td></tr>
+<tr><td>91</td><td colspan="2"></td><td>Vanadinsäure, Vanadinsäureanhydrid und ihre Salze; chemische Verbindungen, Mischungen und Salze, ganz oder dem Hauptwerte nach aus Vanadium, und n. b. g</td><td></td><td>36 % ad val.</td><td>32 % ad val.</td></tr>
+<tr><td>236</td><td colspan="2"></td><td>Uhrkristalle und Uhrgläser, fertig oder nicht, andere als runde</td><td></td><td>54 % ad val.</td><td>48 % ad val.</td></tr>
+<tr><td>360</td><td colspan="2"></td><td>Wissenschaftliche und Laboratoriumsinstrumente, ‑apparate, ‑geräte und ‑vorrichtungen (einschliesslich mathematische und Vermessungsapparate) sowie Teile davon, ganz oder dem Hauptwerte nach aus Metall und nicht mit Gold, Silber oder Platin plattiert, fertig oder nicht, n. b. g.:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Analysengewichte, Waagen, Laboratoriumswaagen und deren Teile</td><td></td><td>27 % ad val.</td><td>25 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>Laboratoriumsapparate, ‑vorrichtungen oder ‑instrumente, zur Bestimmung der Festigkeit von Gegenständen oder Materialien, auf Druck, Zug, Torsion oder Scherung und deren Teile</td><td></td><td>18 % ad val.</td><td>16 % ad val.</td></tr>
+<tr><td></td><td colspan="2"></td><td>Vermessungsinstrumente und deren Teile</td><td></td><td>31½ % ad val.</td><td>28 % ad val.</td></tr>
+<tr><td>362</td><td colspan="2"></td><td>Feilenrohlinge, Feilen, einhiebige Feilen und Raspeln, von jedem Schnitt oder jeder Art, mit einer Länge:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>von 2½ Zoll oder weniger</td><td></td><td>16 c. per Dutzend</td><td>12 c. per Dutzend</td></tr>
+<tr><td></td><td colspan="2"></td><td>von mehr als 2½ aber nicht mehr als 4½ Zoll</td><td></td><td>22½ c. per Dutzend</td><td>20 c. per Dutzend</td></tr>
+<tr><td></td><td colspan="2"></td><td>von mehr als 4½ aber weniger als 7 Zoll</td><td></td><td>31½ c. per Dutzend</td><td>28 c. per Dutzend</td></tr>
+<tr><td>372</td><td colspan="2"></td><td>Kartonagemaschinen und deren Teile, n. b. g., ganz oder dem Hauptwerte nach aus Metall oder Porzellan</td><td></td><td>11 % ad val.</td><td>10 % ad val.</td></tr>
+<tr><td>372</td><td colspan="2"></td><td>Schiffchen für Stick‑ und Nähmaschinen; deren Teile, n. b. g., ganz oder dem Hauptwerte nach aus Metall oder Porzellan</td><td></td><td>27 % ad val.</td><td>24 % ad val.</td></tr>
+<tr><td>710</td><td colspan="2"></td><td>Käse, in Originallaiben oder nicht:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Käse, mit der dem Schweizer‑ oder Emmentalerkäse eigentümlichen Augenbildung; und Greyerzer Schachtelkäse</td><td></td><td>4.5 c. per lb. aber nicht weniger als 18 % ad val.</td><td>4.5 c. per lb. aber nicht weniger als 16 % ad val.</td></tr>
+<tr><td>775</td><td colspan="2"></td><td>Suppen, Suppe in Wurstform (rolls), Tabletten oder Würfeln, und andere Suppenzubereitungen, bestehend aus Gemüse oder aus Gemüse und Fleisch und/oder Fisch, n. b. g</td><td></td><td>15½ % ad val.</td><td>14 % ad val.</td></tr>
+<tr><td>917</td><td colspan="2"></td><td>Unterkleidung, gewirkt, fertig oder nicht, ganz oder dem Hauptwerte nach aus Baumwolle oder sonstigen Pflanzenfasern, n. b. g. im Werte je lb. von mehr als $ 4</td><td></td><td>18 % ad val.</td><td>17 % ad val.</td></tr>
+<tr><td>1308</td><td colspan="2"></td><td>Gewebe mit festen Rändern, nicht über 12 Zoll breit und Artikel daraus; alle diese Artikel, ganz oder dem Hauptwerte nach aus Kunstseide oder anderen synthetischen Spinnstoffen oder aus Kunstseide oder anderen synthetischen Spinnstoffen und Kautschuk, n. b. g., mit oder ohne Jacquardmuster:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Bänder und Artikel daraus</td><td></td><td>25 c. per lb. +22½ % ad val.</td><td>250c. per lb. +20 % ad val.</td></tr>
+<tr><td>1403</td><td colspan="2"></td><td>Filtermasse oder Filtermaterial, ganz oder teilweise aus Holzmasse, Holzmehl, Baumwolle oder anderen Pflanzenfasern</td><td></td><td>11 % ad val.</td><td>10 % ad val.</td></tr>
+<tr><td>1504</td><td colspan="2">(a)</td><td>Geflechte, Tressen und Borten sowie Sparterieblätter, ganz oder dem Hauptwerte nach aus Stroh, Span, Papier, Gras, Palmblatt, Weide, Schilf, Rotang, echtem Rosshaar, Kubabast oder Manilahanf, und Geflechte und Tressen, ganz oder dem Hauptwerte nach aus Ramie; alle diese Artikel geeignet zur Herstellung oder Verzierung von Hüten, Hauben oder Capelinen und enthaltend einen wesentlichen Teil Kunstseide oder andere synthetische Textilstoffe (aber nicht dem Hauptwerte nach daraus hergestellt), im Werte von mehr als $ 1.75 je lb.</td><td></td><td>11 % ad val.</td><td>10 % ad val.</td></tr>
+<tr><td>1505</td><td colspan="2"></td><td>Hauben, Hüte und Mützen, ganz oder dem Hauptwerte nach aus einem nicht in Nummer 1504 angeführten Geflecht, sofern ein solches Geflecht aus einem wesentlichen Bestandteil von Kunstseide oder einem anderen synthetischen Spinnstoff zusammengesetzt ist, aber nicht ganz oder dem Hauptwerte nach; alle vorstehenden, geformt, genäht oder ausgeputzt, auch gebleicht, farbig, gefärbt oder buntgemacht</td><td></td><td>40½ % ad val.</td><td>36 %ad val.</td></tr>
+<tr><td>1529</td><td colspan="2">(a)</td><td>Geflechte (einschliesslich Geflechte oder Streifen, ganz oder teilweise aus Geflechten gemacht), geeignet zur Herstellung oder Verzierung von Hüten, Hauben oder Capelinen, auf Webstühlen gewoben und im Webeverfahren verziert, oder von Hand oder auf einer Spitzen‑, Strick‑ oder Flechtmaschine hergestellt, ganz oder dem Hauptwerte nach aus Kunstseide oder andern synthetischen Textilstoffen, oder aus Garnen, Fäden oder Gespinsten, andere als solche aus Baumwolle, im Werte von:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>weniger als $ 1.60 je lb</td><td></td><td>90 c. per lb. aber nicht mehr als 81 % ad val.</td><td>80 c. per lb. aber nicht mehr als 72 % ad val</td></tr>
+<tr><td></td><td colspan="2"></td><td>$ 1.60 oder mehr je lb</td><td></td><td>45 c. per lb. aber nicht mehr als 20 % ad val.</td><td>40 c. per lb. aber nicht mehr als 18 % ad val.</td></tr>
+<tr><td>1536</td><td colspan="2"></td><td>Waren, ganz oder dem Hauptwerte nach aus Wachs (ausser Bienenwachs), n. b. g.</td><td></td><td>7½ % ad val.</td><td>6½ % ad val.</td></tr>
+<tr><td>1537</td><td colspan="2">(c)</td><td>Kämme ganz aus Zelluloseverbindungen, n. b. g., im Werte von über $ 4.50 per Gros</td><td></td><td>0.9 c. per Stück +18 % ad val.</td><td>0.8 c. per Stück +16 % ad val.</td></tr>
+<tr><td>1541</td><td colspan="2">(a)</td><td>Musikinstrumente und deren Teile, n. b. g.:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Spieldosen und deren Teile</td><td></td><td>18 % ad val.</td><td>16 % ad val.</td></tr>
+<tr><td>1542</td><td colspan="2"></td><td>Nadeln für Phonographen, Grammophone, Graphophone und ähnliche Artikel</td><td></td><td>7 c. per Tausend + 40½% ad val.</td><td>6 c. per Tausend +36% ad val.</td></tr>
+<tr><td>1551</td><td colspan="2"></td><td>Photoapparate und deren Teile, n. b. g.:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>Kinematographenapparate im Werte von $ 50 oder darüber</td><td></td><td>13½ % ad val.</td><td>12 % ad val.</td></tr>
+</table>
+
+[^ingress-1]: <sup>\*)</sup> Nummern gemäss Internationalem Farbstoff-Index

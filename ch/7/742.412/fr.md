@@ -1,0 +1,233 @@
+---
+sr: "742.412"
+title: Ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles (RSD)
+short: RSD
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
+language: fr
+version: 2021-01-01
+adopted: 2012-10-31
+in_force: 2013-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles
+
+(RSD)
+
+du 31 octobre 2012 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Conseil fédéral suisse,
+
+vu les art. 5, al. 1, 20, al. 3, et 24, al. 1, de la loi du 25 septembre 2015 sur le transport de marchandises[^ingress-1], vu l’art. 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
+
+arrête:
+
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nouvelle teneur selon le ch. II 6 de l’annexe à l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+
+#### Art. 1
+
+**Objet et champ d’application**
+
+<sup>1</sup> La présente ordonnance règle le transport de marchandises dangereuses par chemin de fer et par installation à câbles.
+
+<sup>2</sup>
+
+Elle s’applique:
+
+- a. aux personnes physiques ou morales qui produisent, transportent, emballent, remplissent, expédient, chargent, déchargent ou réceptionnent des marchandises dangereuses;
+- b. aux fabricants et utilisateurs d’emballages, de citernes ou de moyens de transport servant à transporter des marchandises dangereuses;
+- c. aux exploitants de l’infrastructure des chemins de fer et des installations à câbles.
+
+#### Art. 2
+
+**Rapport avec l’ordonnance sur les conseillers à la sécurité**
+
+Les dispositions de l’ordonnance du 15 juin 2001 sur les conseillers à la sécurité[^2-1] s’appliquent en outre aux personnes physiques ou morales qui transportent, emballent, remplissent, expédient, chargent ou déchargent des marchandises dangereuses.
+
+[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+
+#### Art. 3
+
+**Droit international**
+
+<sup>1</sup> Le règlement concernant le transport international ferroviaire des marchandises dangereuses (RID), appendice C à la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires (COTIF)[^3-1] dans la version du protocole modificateur du 3 juin 1999[^3-2] s’applique également au transport de marchandises dangereuses par chemin de fer et par installation à câbles dans le trafic national.
+
+<sup>2</sup> La version applicable du RID est indiquée à l’annexe 1.
+
+[^3-1]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
+[^3-2]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+
+#### Art. 4
+
+**Autorités compétentes**
+
+Est considérée comme autorité compétente au sens du RID:
+
+- a. l’Inspection fédérale de la sécurité nucléaire: pour l’agrément des modèles de colis et pour les autorisations à fournir selon le droit sur les marchandises dangereuses en vue de l’expédition de matières radioactives;
+- b. l’Office fédéral des transports (OFT) ou un organisme désigné par l’OFT: pour tous les autres cas.
+
+#### Art. 5
+
+**Exceptions et dérogations**
+
+<sup>1</sup> Les exceptions et les dérogations au RID et d’autres prescriptions, qui ne s’appliquent qu’au trafic national, sont réglées à l’annexe 2.1 pour les chemins de fer et à l’annexe 2.2 pour les installations à câbles.
+
+<sup>2</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) peut adapter les annexes 2.1 et 2.2 à de nouvelles conditions.
+
+<sup>3</sup> L’OFT peut convenir, avec les autorités compétentes d’autres États parties au RID, de dérogations temporaires conformément à la section 1.5.1 du RID.
+
+<sup>4</sup> Dans des cas particuliers, il peut autoriser des exceptions à la présente ordonnance si le but de cette dernière est sauvegardé.
+
+<sup>5</sup> Si le requérant sollicite une exception ou une dérogation aux prescriptions de classification des marchandises dangereuses selon la partie 2 du RID, il doit joindre un rapport d’experts à sa demande. Ce rapport doit être dressé par des experts qui satisfont aux exigences visées à l’annexe 3 de l’ordonnance du 31 octobre 2012 sur les contenants de marchandises dangereuses[^5-1].
+
+[^5-1]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+
+#### Art. 6
+
+**Modifications du RID**
+
+<sup>1</sup> L’OFT décide si les modifications du RID sont acceptées ou non.
+
+<sup>2</sup> Le DETEC adapte l’annexe 1 aux modifications du RID.
+
+#### Art. 7
+
+**Obligation de renseigner**
+
+Les personnes auxquelles s’applique la présente ordonnance doivent fournir à l’autorité compétente tous les renseignements nécessaires à l’application de ladite ordonnance et lui donner accès à l’entreprise pour qu’elle puisse y procéder aux enquêtes nécessaires.
+
+#### Art. 8
+
+**Infractions aux dispositions sur l’expédition des marchandises**
+
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
+
+- a. expédie ou transporte une marchandise dangereuse que les annexes 2.1 ou 2.2 de la présente ordonnance ou que les parties 2 ou 4 du RID ne permettent pas de transporter;
+- b. expédie une marchandise dangereuse sans s’assurer que ce transport est effectué conformément aux annexes 2.1 ou 2.2 de la présente ordonnance ou conformément aux chap. 7.1 à 7.4 du RID;
+- c. n’assume pas ou assume de manière insuffisante les obligations requises en matière de sécurité et de documentation ainsi que les autres obligations visées aux annexes 2.1 et 2.2 de la présente ordonnance ou aux chap. 1.4, 1.7 ou 5.4 du RID;
+- d. expédie une marchandise dangereuse sans renseigner le transporteur sur l’état, le conditionnement et la classification de la marchandise.
+
+#### Art. 9
+
+**Infractions aux dispositions sur la manutention des marchandises**
+
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
+
+- a. emballe, remplit, charge ou décharge une marchandise dangereuse sans respecter les obligations visées aux chap. 1.4 ou 1.7 du RID; est passible de la même peine la personne responsable de ces opérations qui ne s’est pas assurée que ces obligations ont été respectées;
+- b. charge ou décharge une marchandise dangereuse en négligeant de prendre les mesures de protection appropriées pour le cas où une matière libérée créerait un danger pour l’environnement;
+- c. n’assume pas ou assume de manière insuffisante les obligations d’annoncer conformément à la section 1.8.5 du RID.
+
+#### Art. 10
+
+**Infractions aux dispositions sur le transport des marchandises**
+
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
+
+- a. transporte ou fait transporter des marchandises dangereuses au moyen de citernes ne répondant pas aux exigences particulières de construction et d’équipement visées aux annexes 2.1 ou 2.2 de la présente ordonnance ou à la partie 4, à la partie 6 ou au chap. 1.6 du RID, ou qui utilise des moyens de transport qui n’ont pas été contrôlés conformément aux prescriptions;
+- b. n’assume pas ou assume de manière insuffisante les obligations requises en matière de sécurité, de renseignement et de documentation ainsi que les autres obligations visées aux annexes 2.1 et 2.2 de la présente ordonnance ou aux chap. 1.4, 1.7, 5.4 ou à la section 1.8.5 du RID;
+- c. ne respecte pas les prescriptions sur la signalisation et l’identification des moyens de transport visés aux annexes 2.1 ou 2.2 de la présente ordonnance ou à la partie 5 du RID qui transportent ou ont transporté des marchandises dangereuses.
+
+#### Art. 11
+
+**Exécution**
+
+L’OFT est chargé de l’exécution de la présente ordonnance.
+
+#### Art. 12
+
+**Abrogation et modification du droit en vigueur**
+
+L’abrogation et la modification du droit en vigueur sont réglées à l’annexe 3.
+
+#### Art. 13
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
+
+Annexe 1*[^t-1]*
+
+(art. 3, al. 2)
+
+## Version applicable du RID
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6155](https://fedlex.data.admin.ch/eli/oc/2020/1017)).
+
+Sont applicables les prescriptions de l’édition 2021 du RID[^annex1-lvlu1-1].
+
+[^annex1-lvlu1-1]: Le texte du RID (appendice C à la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) n’est pas publié au RO. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), www.otif.org &gt; Marchandises dangereuses.
+
+Annexe <sup>2</sup>.1*[^t-2]*
+
+(art. 5, al. 1)
+
+## Dérogations à certaines prescriptions du RID pour le transport de marchandises dangereuses par chemin de fer en trafic national
+
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+
+<table>
+<tr><th>Numéros des prescriptions RID</th><th>Prescriptions dérogatoires pour le transport de marchandises dangereuses par chemin de fer en trafic national</th></tr>
+<tr><td>1.1.4.4</td><td>Les véhicules routiers convoyés par ferroutage et leur contenu doivent satisfaire aux exigences de l’appendice 3 de l’ordonnance du 29 novembre 2002 relative au transport des marchandises dangereuses par route (SDR)[^annex21-lvlu1-1].</td></tr>
+<tr><td>2.2.1.2</td><td>Les explosifs qui sont destinés au déclenchement d’avalanches et qui doivent être transportés prêts à l’emploi ne sont pas soumis aux prescriptions du RID lorsque les conditions suivantes sont remplies: – le transport se fait par voie directe de l’entrepôt d’explosifs jusqu’à l’endroit prévu pour leur utilisation; – les explosifs sont emballés, chargés et déchargés par des responsables du minage; – le transport est accompagné par des responsables du minage; – le transport a lieu en dehors de l’horaire publié, dans le cadre d’une course de service; – seul le personnel requis pour effectuer le transport est admis à bord (chemin de fer, installation de transport à câbles) en sus des responsables du minage; – les responsables du minage sont titulaires du permis requis conformément aux art. 51 à 60 de l’ordonnance du 27 novembre 2000 sur les explosifs[^annex21-lvlu1-2].</td></tr>
+<tr><td>4.1.4.1 P200 (9)</td><td>Les récipients destinés à la plongée sous-marine contenant des gaz du code de classification 1A et 1O doivent subir tous les deux ans et demi un examen visuel et tous les cinq ans un examen périodique complet.</td></tr>
+<tr><td>5.3.1.2 5.3.6</td><td>En lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement», des panneaux orange peuvent être utilisés sur les caisses mobiles transportant uniquement des colis. Les panneaux orange doivent être apposés sur les deux côtés latéraux de la caisse mobile et satisfaire aux exigences des ch. 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 et 5.3.2.2.5 du RID. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée.</td></tr>
+<tr><td></td><td>Les plaques-étiquettes adéquates doivent être apposées sur les deux côtés latéraux et à chaque extrémité des caisses mobiles qui transportent: – des colis contenant des matières ou des objets de la classe 1 (excepté ceux de la division 1.4, groupe de compatibilité S), ou – des matières radioactives de la classe 7 dans des emballages ou dans de grands emballages (sauf les colis exemptés).</td></tr>
+<tr><td>5.3.1.3</td><td>Si les panneaux orange apposés sur les caisses mobiles en lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement» ne sont pas visibles de l’extérieur du wagon porteur, des panneaux orange seront apposées en outre sur les deux côtés latéraux du wagon. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée.</td></tr>
+<tr><td>5.3.1.5 5.3.6</td><td>En lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement», des panneaux orange peuvent être utilisés sur les wagons transportant uniquement des colis. Les panneaux orange doivent être apposés sur les deux côtés latéraux du wagon et satisfaire aux exigences des ch. 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 et 5.3.2.2.5 du RID. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée. Les plaques-étiquettes adéquates doivent être apposées sur les deux côtés latéraux des wagons qui transportent: – des colis contenant des matières ou des objets de la classe 1 (excepté ceux de la division 1.4, groupe de compatibilité S), ou – des matières radioactives de la classe 7 dans des emballages ou dans de grands emballages (sauf les colis exemptés).</td></tr>
+<tr><td>5.4.1.1.1</td><td>La procédure suivante est aussi admise pour désigner la marchandise dans le document de transport: À l’exception des matières et objets de la classe 7, on peut utiliser un terme collectif ad hoc, pour autant qu’une liste (p. ex. bulletin de livraison ou document de bord pour transport routier) accompagne le document de transport. Cette liste contient les indications prescrites au ch. 5.4.1.1.1 du RID. Il faut compléter le terme collectif par l’abréviation «RSD» et le renvoi «cf. liste annexée» (p. ex. «produits chimiques RSD, cf. liste annexée»). La croix n’est plus nécessaire dans le document de transport.</td></tr>
+<tr><td>6</td><td>Les conteneurs-citernes cubiques (désignés précédemment comme conteneurs-citernes) homologués selon les prescriptions du ch. 1.2.8.5 de l’annexe X RSD, valables jusqu’au 31 décembre 1987, pour transporter des substances déterminées peuvent être utilisés comme grands récipients pour vrac (GRV) pour acheminer ces substances s’ils correspondent aux prescriptions des ch. 6.5.3, 6.5.4.4, 6.5.4.5 et 6.5.5.1 du RID, à l’exception des prescriptions des ch. 6.5.5.1.5 et 6.5.5.1.6. Conteneurs-citernes de chantiers: Les conteneurs-citernes de chantier sont autorisés pour le transport de carburant diesel (n<sup>o</sup> ONU 1202) s’ils correspondent aux prescriptions relatives à la construction, à l’utilisation et aux épreuves des ch. 1.6, 4.8 et 6.14 de l’appendice 1 de la SDR. La section 7.5.7 du RID s’applique par analogie.</td></tr>
+</table>
+
+[^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+
+Annexe <sup>2.2</sup>*[^t-3]*
+
+(art. 5, al. 1)
+
+## Dérogations à certaines prescriptions du RID pour le transport de marchandises dangereuses par installation à câbles en trafic national
+
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+
+En sus des dérogations énumérées à l’annexe 2.1, les dérogations suivantes s’appliquent au transport de marchandises dangereuses par installations à câbles en trafic national:
+
+<table>
+<tr><th>Numéros des prescriptions RID</th><th>Prescriptions dérogatoires pour le transport de marchandises dangereuses par installation à câbles en trafic national</th></tr>
+<tr><td>1.10.3</td><td>Les prescriptions relatives au plan de sûreté ne sont pas applicables.</td></tr>
+<tr><td>3.3</td><td>La disposition spéciale 640 n’est pas applicable au transport de carburant diesel, gazole et huile de chauffe légère (n<sup>o</sup> ONU 1202).</td></tr>
+<tr><td>3.4.13 a)</td><td>Les prescriptions ne sont pas applicables.</td></tr>
+<tr><td>5.2.1.8</td><td>Les prescriptions sur le marquage de colis renfermant des marchandises dangereuses pour l’environnement satisfaisant aux critères de la sous-section 2.2.9.1.10 du RID ne sont pas applicables.</td></tr>
+<tr><td>5.3.1.3 5.3.1.4 5.3.1.5 5.3.1.6 5.3.2 5.3.3 5.3.4 5.3.5</td><td>Les cabines et les sièges des installations à câbles ne sont pas soumis aux prescriptions relatives à la signalisation. Les prescriptions sur le marquage de conteneurs, de grands conteneurs, de CGEM, de conteneurs-citernes, de citernes mobiles renfermant des marchandises dangereuses pour l’environnement satisfaisant aux critères de la sous-section 2.2.9.1.10 du RID ne sont pas applicables.</td></tr>
+<tr><td>5.4</td><td>Les prescriptions ne sont pas applicables.</td></tr>
+<tr><td>6.5.4.4.1 b)</td><td>Les prescriptions relatives à l’inspection ne sont pas applicables aux GRV ni aux conteneurs-citernes cubiques selon l’annexe 2.1 de la présente ordonnance utilisés pour le transport de carburant diesel, gazole ou huile de chauffe légère (n<sup>o</sup> ONU 1202).</td></tr>
+<tr><td>6.5.4.4.2 b)</td><td>Les GRV et les conteneurs-citernes cubiques selon l’annexe 2.1 de la présente ordonnance utilisés pour le transport de carburant diesel, gazole ou huile de chauffe légère (n<sup>o</sup> ONU 1202) doivent satisfaire à une épreuve d’étanchéité à intervalles ne dépassant pas cinq ans.</td></tr>
+<tr><td>6.8.2</td><td>Les citernes doivent satisfaire soit aux prescriptions du RID soit aux prescriptions de l’Accord du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route (ADR)[^annex22-lvlu1-1].</td></tr>
+<tr><td>6.8.2.4.3</td><td>Les prescriptions du RID et de l’ADR relatives aux contrôles intermédiaires ne sont pas applicables aux citernes utilisées pour le transport de carburant diesel, gazole ou huile de chauffe légère (n<sup>o</sup> ONU 1202).</td></tr>
+<tr><td>7.5.3</td><td>Les prescriptions ne sont pas applicables.</td></tr>
+</table>
+
+[^annex22-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+
+Annexe <sup>3</sup>
+
+(art. 12)
+
+## Abrogation et modification du droit en vigueur
+
+I
+
+L’ordonnance du DETEC du 3 décembre 1996 relative au transport des marchandises dangereuses par chemin de fer et par installation à câbles[^annex3-lvlu1-1] est abrogée.
+
+II
+
+Les ordonnances ci-après sont modifiées comme suit:
+
+…[^annex3-lvlu1-2]
+
+[^annex3-lvlu1-1]: [[RO 1996 3436](https://fedlex.data.admin.ch/eli/oc/1996/3436_3436_3436), [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 19 [5995](https://fedlex.data.admin.ch/eli/oc/2008/828)]
+[^annex3-lvlu1-2]: Les mod. peuvent être consultées au [RO 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785).

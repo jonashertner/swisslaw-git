@@ -1,0 +1,222 @@
+---
+sr: "432.21"
+title: "Legge federale del 18 dicembre 1992 sulla Biblioteca nazionale svizzera (Legge sulla Biblioteca nazionale, LBNS)"
+short: LBNS
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
+language: it
+version: 2012-01-01
+adopted: 1992-12-18
+in_force: 1993-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20120101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20120101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sulla Biblioteca nazionale svizzera
+
+(Legge sulla Biblioteca nazionale, LBNS)
+
+del 18 dicembre 1992 (Stato 1° gennaio 2012) (Stato 1° gennaio 2012)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto il messaggio del Consiglio federale del 19 febbraio 1992[^ingress-1],
+
+decreta:
+
+[^ingress-1]: [FF 1992 II 1205](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+La presente legge disciplina i compiti e l’organizzazione della Biblioteca nazionale svizzera (Biblioteca nazionale).
+
+## Sezione 2: Attività della Biblioteca nazionale
+
+#### Art. 2
+
+**Compito**
+
+<sup>1</sup> La Biblioteca nazionale ha lo scopo di collezionare, inventariare, conservare, rendere accessibili e far conoscere gli stampati o altri supporti d’informazione che hanno un legame con la Svizzera.
+
+<sup>2</sup> Allestisce e aggiorna l’elenco delle banche dati che hanno un legame con la Svizzera e che sono accessibili al pubblico.
+
+<sup>3</sup> Contribuisce allo sviluppo della biblioteconomia a livello nazionale e internazio-nale.
+
+#### Art. 3
+
+**Collezioni**
+
+<sup>1</sup>
+
+La Biblioteca nazionale colleziona gli stampati o gli altri supporti d’informazione che:
+
+- a. sono pubblicati in Svizzera;
+- b. si riferiscono alla Svizzera, ai suoi cittadini o ai suoi abitanti;
+- c. sono creati, in parte o interamente, da autori svizzeri o legati alla Svizzera.
+
+<sup>2</sup> Per svolgere il proprio incarico di collezione, la Biblioteca nazionale collabora con le associazioni di editori e di produttori. Conclude con queste associazioni, a seconda delle possibilità, accordi che garantiscano l’acquisto di tutti gli stampati e altri supporti d’informazione.
+
+#### Art. 4
+
+**Definizione dell’incarico di collezione**
+
+<sup>1</sup> Il Consiglio federale definisce in dettaglio l’incarico di collezione della Biblioteca nazionale e lo adegua ai nuovi sviluppi.
+
+<sup>2</sup>
+
+Può escludere dall’incarico di collezione gli stampati e gli altri supporti d’informazione che:
+
+- a. sono collezionati e resi accessibili al pubblico da parte di un’altra istituzione;
+- b. rivestono importanza trascurabile per la Svizzera;
+- c. si rivolgono a una cerchia ristretta di persone o sono essenzialmente destinati ad usi privati.
+
+#### Art. 5
+
+**Accesso alle collezioni**
+
+La Biblioteca nazionale permette al pubblico un facile accesso alle sue collezioni, segnatamente alle sale di lettura e mediante il prestito.
+
+#### Art. 6
+
+**Archivio letterario svizzero**
+
+<sup>1</sup> La Biblioteca nazionale gestisce l’Archivio letterario svizzero.
+
+<sup>2</sup> L’Archivio letterario svizzero ha lo scopo di acquistare, collezionare, repertoriare e rendere accessibile al pubblico i fondi e gli archivi personali di cittadini svizzeri o di persone legate alla Svizzera e la cui opera è importante per la vita culturale e intellettuale del Paese.
+
+#### Art. 7
+
+**Elenco delle banche dati**
+
+La Biblioteca nazionale elabora e aggiorna l’elenco delle banche dati accessibili al pubblico che:
+
+- a. sono gestite in Svizzera;
+- b. sono gestite all’estero, ma contengono dati che hanno un’importanza particolare per la Svizzera.
+
+#### Art. 8
+
+**Servizi**
+
+La Biblioteca nazionale fornisce prestazioni nell’ambito della diffusione dell’informazione. Può accettare mandati di documentazione o di ricerca in biblioteconomia.
+
+#### Art. 8a
+
+**Prestazioni commerciali**[^8a-1]
+
+<sup>1</sup>
+
+La Biblioteca nazionale può fornire a terzi prestazioni commerciali se queste:
+
+- a. sono strettamente correlate ai compiti principali;
+- b. non pregiudicano l’adempimento dei compiti principali; e
+- c. non richiedono considerevoli risorse materiali o di personale supplementari.
+
+<sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il Dipartimento federale dell’interno può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
+
+[^8a-1]: Introdotto dal n. 2 dell'all. alla LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+#### Art. 9
+
+**Altri compiti**
+
+Il Consiglio federale può incaricare la Biblioteca nazionale di svolgere altre attività nell’ambito dei compiti di cui all’articolo 2.
+
+#### Art. 10
+
+**Collaborazione e coordinamento**
+
+<sup>1</sup> Per svolgere i propri compiti, la Biblioteca nazionale collabora con altre istituzioni, svizzere o estere, che hanno un’attività analoga; in questo ambito, tiene conto particolarmente delle istituzioni attive nel settore dell’audiovisivo e degli altri nuovi supporti d’informazione.
+
+<sup>2</sup> Essa persegue una ripartizione dei compiti.
+
+<sup>3</sup> Garantisce il coordinamento in stretta collaborazione con le grandi biblioteche pubbliche, segnatamente nell’ambito dell’automazione delle biblioteche.
+
+## Sezione 3: Emolumenti
+
+#### Art. 11
+
+<sup>1</sup> La Biblioteca nazionale può riscuotere emolumenti per le proprie prestazioni.
+
+<sup>2</sup> Il Consiglio federale stabilisce le prestazioni soggette ad emolumento ed il relativo ammontare.
+
+## Sezione 4: Aiuti finanziari e rapporti con altre istituzioni
+
+#### Art. 12
+
+**Aiuti finanziari**
+
+<sup>1</sup>
+
+La Confederazione può accordare aiuti finanziari a istituzioni pubbliche dei Cantoni e dei Comuni se collaborano con la Biblioteca nazionale e se:
+
+- a. ...[^12-1]
+- b. possiedono e completano importanti fondi di stampati o di altri supporti d’informazione che rientrano nell’incarico di collezione.
+
+<sup>2</sup> Il versamento degli aiuti finanziari può avere come condizione che gli stampati o gli altri supporti d’informazione acquistati o prodotti con l’aiuto della Confederazione siano resi accessibili al pubblico.
+
+<sup>3</sup> Gli aiuti finanziari possono essere accordati anche mediante un contratto di prestazioni ai sensi dell’articolo 16 capoverso 2 della legge del 5 ottobre 1990[^12-2] sui sussidi.[^12-3]
+
+[^12-1]: Abrogata dal n. II 1 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, con effetto dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^12-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^12-3]: Introdotto dal n. II 1 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+
+#### Art. 13
+
+**Annessione di istituzioni**
+
+<sup>1</sup> La Confederazione può eccezionalmente, su richiesta, rilevare ed annettere alla Biblioteca nazionale le istituzioni che possiedono importanti collezioni di stampati o di altri supporti d’informazione che rientrano nell’incarico di collezione.
+
+<sup>2</sup> Il Consiglio federale decide in merito alla rilevazione.
+
+## Sezione 5: Commissione
+
+#### Art. 14
+
+<sup>1</sup> Il Consiglio federale nomina una commissione della Biblioteca nazionale svizzera (commissione) composta di nove membri.
+
+<sup>2</sup>
+
+La commissione:
+
+- a. …[^14-1]
+- b. segue lo sviluppo della biblioteconomia;
+- c. può fare proposte al Dipartimento federale dell’interno in materia di biblioteconomia;
+- d. dà il suo parere su progetti di atti legislativi che riguardano o potrebbero influire sull’attività della Biblioteca nazionale;
+- e. promuove la collaborazione in materia di biblioteconomia.
+
+<sup>3</sup> La commissione deve essere consultata prima di prendere decisioni importanti in materia di biblioteconomia.
+
+[^14-1]: Abrogata dal n. II 21 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+## Sezione 6: Disposizioni finali
+
+#### Art. 15
+
+**Esecuzione**
+
+<sup>1</sup> Il Consiglio federale esegue la presente legge. Esso emana le disposizioni d’esecuzione.
+
+<sup>2</sup> Può concludere accordi di collaborazione internazionale relativi alle attività della Biblioteca nazionale.
+
+#### Art. 16
+
+**Diritto vigente: abrogazione**
+
+La legge federale del 29 settembre 1911[^16-1] sulla Biblioteca nazionale svizzera è abrogata.
+
+[^16-1]: [CS **4** 187 197 art. 3 cpv. 2]
+
+#### Art. 17
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1°giugno 1993[^17-1]
+
+[^17-1]: DCF del 21 mag. 1993.

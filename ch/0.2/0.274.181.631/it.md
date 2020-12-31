@@ -1,0 +1,106 @@
+---
+sr: "0.274.181.631"
+title: "Accordo del 26 agosto 1968 tra la Confederazione Svizzera e la Repubblica austriaca inteso a completare la convenzione dell'Aia del 1<sup>o</sup> marzo 1954 relativa alla procedura civile (con Elenco)"
+eli: "https://fedlex.data.admin.ch/eli/cc/1969/1245_1261_1263"
+language: it
+version: 2013-01-01
+adopted: 1968-08-26
+in_force: 1969-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/1245_1261_1263/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1969-1245_1261_1263-20130101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/1245_1261_1263/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo tra la Confederazione svizzera e la Repubblica austriaca inteso a completare la convenzione dell’Aia del 1° marzo 1954 relativa alla procedura civile
+
+RU **1969** 1263; FF **1969** I 76
+
+Traduzione
+
+Conchiuso il 26 agosto 1968 Approvato dall’Assemblea federale il 18 giugno 1969[^t-1] Istrumenti di ratificazione scambiati il 2 settembre 1969 Entrato in vigore il 1° novembre 1969
+
+(Stato 1° gennaio 2013)
+
+[^t-1]: [RU 1969 1262](https://fedlex.data.admin.ch/eli/oc/1969/1244_1260_1262)
+
+La Confederazione svizzera e la Repubblica austriaca,
+
+desiderose di agevolare i rapporti d’assistenza giudiziaria in virtù della convenzione dell’Aia del 1° marzo 1954[^ingress-1] relativa alla procedura civile (appresso: «convenzione») hanno convenuto di conchiudere un accordo e, a tale scopo,
+
+hanno nominato i loro plenipotenziari
+
+(Seguono i nomi dei plenipotenziari)
+
+i quali, scambiatisi i pieni poteri e trovatili in buona e debita forma, hanno stabilito quanto segue:
+
+[^ingress-1]: [RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+
+#### Art. 1
+
+<sup>(1)</sup> I tribunali degli Stati contraenti corrispondono direttamente fra loro, per assistersi reciprocamente in materia giudiziaria, negli affari civili e commerciali, segnatamente per trasmettersi notificazioni.
+
+<sup>(2)</sup> Il Dipartimento federale di giustizia e polizia[^1-1] e il Ministero austriaco della giustizia[^1-2] si trasmettono, appena possibile, l’elenco dei tribunali cui devono essere presentate le domande d’assistenza, come anche le successive modificazioni dell’elenco.
+
+<sup>(3)</sup> È ammessa la notificazione diretta per posta, a persone residenti sul territorio dell’altro Stato contraente, purchè essa non sia richiesta in una forma particolare e, segnatamente, ove non sia necessario consegnarla in proprie mani al destinatario.
+
+[^1-1]: Un elenco aggiornato delle autorità svizzere può essere consultato all’indirizzo seguente: [www.elorge.admin.ch](http://www.elorge.admin.ch)
+[^1-2]: Il tribunale austriaco territorialmente competente può essere ricercato in Internet al seguente indirizzo: [https://justizonline.gv.at/](https://justizonline.gv.at/)
+
+#### Art. 2
+
+Salvo il caso disciplinato all’articolo 3 capoverso 2 della convenzione, le traduzioni non possono essere chieste nemmeno qualora la lingua del tribunale richiedente differisca da quella del tribunale richiesto.
+
+#### Art. 3
+
+<sup>(1)</sup> In deroga all’articolo 3 capoverso 1 della convenzione, gli atti da notificare non possono essere richiesti in doppio esemplare.
+
+<sup>(2)</sup> Le comminatorie penali espresse nelle citazioni, notificate sul territorio dell’altro Stato contraente, sono considerate non avvenute. È tuttavia ammessa l’indicazione delle conseguenze procedurali dell’omissione.
+
+#### Art. 4
+
+<sup>(1)</sup> Non è richiesta la legalizzazione delle quietanze di ricezione.
+
+<sup>(2)</sup> È considerata certificata conforme, giusta l’articolo 3 capoverso 3 della convenzione, qualsiasi traduzione la cui esattezza è attestata dal tribunale richiedente o dall’interprete convocato nello Stato richiedente.
+
+#### Art. 5
+
+La rivendicazione dell’esclusiva competenza giudiziaria, da parte dello Stato richiesto, in materia civile o commerciale non costituisce un motivo valido per ricusare l’esecuzione di una notificazione o di una domanda di assistenza.
+
+#### Art. 6
+
+<sup>(1)</sup> Nessun teste o perito, di qualsiasi nazionalità, che sia stato citato a comparire davanti a un tribunale dello Stato richiedente, può essere perseguito, sul territorio di detto Stato, né colpito con gli arresti o altre restrizioni della sua libertà personale, per atti o condanne anteriori alla sua partenza dal territorio dello Stato richiesto.
+
+<sup>(2)</sup> La protezione prevista nel numero precedente cessa, quando il teste o il perito, a compimento degli atti procedurali per lo svolgimento dei quali la sua presenza innanzi al tribunale era stata chiesta, abbandona il territorio dello Stato richiedente oppure continua a risiedervi, ancorché la sua partenza potesse avvenire senza intralci, durante i quindici giorni successivi.
+
+#### Art. 7
+
+<sup>(1)</sup> Il tribunale richiesto comunica al tribunale richiedente la natura e l’ammontare delle spese cagionate. Tali esborsi vanno aggiunti alle spese procedurali nello Stato richiedente.
+
+<sup>(2)</sup> Anche nei casi indicati agli articoli 7 capoverso 2 e 16 capoverso 2 della convenzione, le tasse o le spese di qualsiasi natura non sono rimborsate, eccettuate le indennità pagate ai testi o ai periti qualora eccedano 100 franchi (600 scellini).
+
+#### Art. 8
+
+Sono considerate tribunali, in virtù del presente accordo, le autorità amministrative svizzere, sempreché siano competenti in materia civile e commerciale, e segnatamente gli uffici d’esecuzione e fallimenti, le autorità successorie e tutorie.
+
+#### Art. 9
+
+Con l’entrata in vigore del presente accordo, è abrogata la dichiarazione del 30 dicembre 1899[^9-1] fra la Svizzera e l’Austria per la corrispondenza diretta fra le autorità giudiziarie dei due paesi, nei rapporti d’assistenza giudiziaria in materia civile e commerciale.
+
+[^9-1]: [CS **12** 268; [RU 1971 197](https://fedlex.data.admin.ch/eli/oc/1971/193_197_197); [1974 2004](https://fedlex.data.admin.ch/eli/oc/1974/2004_2004_2004)]
+
+#### Art. 10
+
+<sup>(1)</sup> Il presente accordo è sottoposto alla ratificazione e gli strumenti di ratifica saranno scambiati a Berna il più presto possibile.
+
+<sup>(2)</sup> Il presente accordo entrerà in vigore il sessantesimo giorno dopo lo scambio degli strumenti di ratifica.
+
+#### Art. 11
+
+Ciascuno Stato può disdire il presente accordo mediante notificazione scritta all’altro Stato. La disdetta avrà effetto un anno dopo la data della notificazione.
+
+*In fede di che,* i plenipotenziari hanno firmato il presente accordo e vi hanno apposto i loro sigilli. Fatto a Vienna, il 26 agosto 1968, in due esemplari in lingua tedesca. Per la Confederazione svizzera: Per la Repubblica austriaca: A. Escher K. Waldheim
+
+Elenco delle autorità svizzere che possono corrispondere direttamente con le autorità estere in materia di assistenza giudiziaria[^t-2]
+
+[^t-2]: Un elenco aggiornato delle autorità svizzere può essere consultato all’indirizzo seguente: [www.rhf.admin.ch/it/](https://www.rhf.admin.ch/it/) &gt; Diritto civile &gt; autorità &gt; Elenco delle autorità svizzere

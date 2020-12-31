@@ -1,0 +1,1861 @@
+---
+sr: "910.18"
+title: Verordnung vom 22. September 1997 über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel (Bio-Verordnung)
+eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
+language: de
+version: 2021-01-01
+adopted: 1997-09-22
+in_force: 1998-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel****
+
+(Bio-Verordnung)[^t-1]
+
+vom 22. September 1997 (Stand am 1. Januar 2021)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 14 Absatz 1 Buchstabe a, 15 und 177 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), auf Artikel 13 Absatz 1 Buchstabe d des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-2] und in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-3] über die technischen Handelshemmnisse (THG),[^ingress-4]
+
+verordnet:
+
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**[^1-1]
+
+<sup>1</sup>
+
+Diese Verordnung gilt für die Kennzeichnung folgender Erzeugnisse als biologische Produkte:
+
+- a. nicht verarbeitete pflanzliche und tierische Agrarerzeugnisse sowie Nutztiere;
+- b. verarbeitete, für den menschlichen Verzehr bestimmte pflanzliche und tierische Agrarerzeugnisse, die im Wesentlichen aus Zutaten pflanzlichen und/ oder tierischen Ursprungs bestehen;
+- c.[^1-2] Futtermittel-Ausgangsprodukte[^1-3], Mischfuttermittel und Futtermittel, die nicht unter Buchstabe a fallen und für die Fütterung von Nutztieren verwendet werden.
+
+<sup>2</sup> Sie gilt auch für als Lebensmittel oder Futtermittel verwendete Hefen.[^1-4]
+
+<sup>3</sup> Sie gilt nicht für Insekten im Sinne der Lebensmittelgesetzgebung und für Erzeugnisse der Jagd, der Fischerei und der Aquakultur.[^1-5]
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3731](https://fedlex.data.admin.ch/eli/oc/2002/580)).
+[^1-3]: Ausdruck gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+#### Art. 2
+
+**Kennzeichnung**[^2-1]
+
+<sup>1</sup> Erzeugnisse nach Artikel 1 dürfen als biologische Produkte gekennzeichnet werden, wenn sie nach dieser Verordnung produziert oder eingeführt sowie aufbereitet und vermarktet werden.
+
+<sup>2</sup>
+
+Für die Kennzeichnung als biologisches Erzeugnis dürfen die folgenden Bezeichnungen, deren Übersetzungen in alle Landessprachen, oder davon abgeleitete gebräuchliche Bezeichnungen (wie Bio-, Öko-) verwendet werden:
+
+- a. deutsch: biologisch, ökologisch;
+- b. französisch: biologique;
+- c. italienisch: biologico;
+- d. romanisch: biologic.[^2-2]
+
+<sup>3</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^2-3] kann ein Zeichen festlegen, welches freiwillig für die Kennzeichnung von Erzeugnissen, die den Bestimmungen dieser Verordnung entsprechen, verwendet werden kann. Für Erzeugnisse, die in der Schweiz produziert worden sind, kann es ein eigenes Zeichen festlegen.
+
+<sup>4</sup> Kennzeichnung, Werbung oder Geschäftspapiere für Erzeugnisse, die nicht nach dieser Verordnung produziert worden sind, dürfen nicht den Eindruck erwecken, sie seien biologisch erzeugt worden, es sei denn, die betreffenden Bezeichnungen gelten nicht für die in den Lebensmitteln oder Futtermitteln enthaltenen landwirtschaftlichen Erzeugnisse oder stehen ganz offensichtlich in keinem Zusammenhang mit der Art der Erzeugung.[^2-4]
+
+<sup>5</sup> Die Kennzeichnung darf nur verwendet werden, wenn die Einhaltung der Anforderungen bei der Produktion, der Aufbereitung, der Einfuhr, der Ausfuhr, der Lagerung und der Vermarktung der Erzeugnisse zertifiziert wurde.[^2-5]
+
+<sup>5bis</sup>
+
+Nicht zertifizierungspflichtig sind:
+
+- a. die Aufbereitung von Produkten biologischen Ursprungs am Ort der Verkaufsstelle, sofern im gleichen Betrieb keine vergleichbaren konventionellen Produkte aufbereitet werden und die aufbereiteten Erzeugnisse ausschliesslich in der Verkaufsstelle an den Konsumenten abgegeben werden;
+- b. die Zubereitung von Lebensmitteln und Speisen in Gastro- und Restaurationsbetrieben;
+- c. die Lagerung und Vermarktung von verkaufsfertig verpackten und etikettierten Erzeugnissen, die ausschliesslich für die Schweiz bestimmt sind, falls sie vor der Abgabe an die Konsumenten nicht weiter aufbereitet werden;
+- d. die Aufbereitung von zertifizierten Halbfabrikaten in der Verkaufsstelle, sofern hierzu keine weiteren Zutaten erforderlich sind;
+- e.[^2-6] das Portionieren von offen angebotenen Lebensmitteln vor dem Kunden oder der Kundin;
+- f.[^2-7] die Schlachtung von Tieren in Schlachtanlagen;
+- g.[^2-8] der Inlandhandel mit Tieren der Rindviehgattung.[^2-9]
+
+<sup>6</sup> Marken mit Bezeichnungen nach den Absätzen 2 und 4 dürfen nur verwendet werden, wenn das Erzeugnis nach dieser Verordnung hergestellt wurde.[^2-10]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^2-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^2-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^2-5]: Fassung gemäss Ziff. I der V vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+[^2-6]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^2-7]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^2-9]: Eingefügt durch Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^2-10]: Siehe jedoch Art. 39*g* hiernach.
+
+#### Art. 3
+
+**Grundsätze[^3-1]**
+
+Für die Produktion, die Aufbereitung und die Vermarktung biologischer Erzeugnisse gelten folgende Grundsätze:[^3-2]
+
+- a. Die natürlichen Kreisläufe und Prozesse werden berücksichtigt.
+- b. Der Einsatz chemisch-synthetischer Hilfsstoffe und Zutaten wird vermieden.
+- c.[^3-3]
+
+  Nicht in Lebens- oder Futtermitteln oder als Lebensmittel, Futtermittel, Verarbeitungshilfsstoff, Pflanzenschutzmittel, Düngemittel, Bodenverbesserer, Pflanzenvermehrungsmaterial, Mikroorganismus oder Tier dürfen verwendet werden:
+
+  - 1\. gentechnisch veränderte Organismen;
+  - 2\. Erzeugnisse, die aus gentechnisch veränderten Organismen hergestellt wurden;
+  - 3\. Erzeugnisse, die durch gentechnisch veränderte Organismen hergestellt wurden.
+
+- d. Die Erzeugnisse werden nicht mit ionisierenden Strahlen behandelt, und es werden keine bestrahlten Produkte verwendet.
+- e.[^3-4] Die Zahl der Nutztiere ist an die für das Verwenden der Hofdünger geeignete eigene oder gepachtete landwirtschaftliche Nutzfläche anzupassen.
+- f.[^3-5] Die Nutztiere werden während ihrer gesamten Lebensdauer auf Biobetrieben nach den Anforderungen dieser Verordnung gehalten und mit Futtermitteln, die nach dieser Verordnung erzeugt worden sind, gefüttert.
+- g.[^3-6] Die für die landwirtschaftliche Produktion massgebenden Vorschriften des Tierschutzgesetzes vom 9. März 1978[^3-7], des Gewässerschutzgesetzes vom 24. Januar 1991[^3-8], des Umweltschutzgesetzes vom 7. Oktober 1983[^3-9] und des Bundesgesetzes vom 1. Juli 1966[^3-10] über den Natur- und Heimatschutz werden eingehalten.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^3-3]: Fassung gemäss Anhang Ziff. 1 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^3-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^3-6]: Eingefügt durch Ziff. I der V vom 8. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
+[^3-7]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 1, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618)[4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 3, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 45. [AS 2008 2965](https://fedlex.data.admin.ch/eli/oc/2008/414)Art. 43]. Siehe heute: das BG vom 16. Dez. 2005 ([SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
+[^3-8]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^3-9]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^3-10]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+#### Art. 4
+
+**Begriffe**
+
+In dieser Verordnung bedeuten:
+
+- a.[^4-1] Erzeugnisse: pflanzliche und tierische Agrarerzeugnisse sowie Lebensmittel, die im Wesentlichen aus solchen Erzeugnissen bestehen;
+- b. biologische Produktion: die Produktion nach den Vorschriften von Artikel 3 und dem 2. Kapitel;
+- c.[^4-2] Aufbereitung: Arbeitsgänge zur Haltbarmachung und/oder Verarbeitung landwirtschaftlicher Erzeugnisse einschliesslich der Schlachtung und der Zerlegung tierischer Erzeugnisse sowie Verpackung und/oder Veränderung der Form des Hinweises auf die biologische Landwirtschaft bei der Etikettierung frischer, haltbar gemachter und/oder verarbeiteter Erzeugnisse;
+- d. Vermarktung: das Vorrätighalten zum Verkauf, der Verkauf oder ein anderes Inverkehrbringen und das Ausliefern eines Erzeugnisses;
+- e.[^4-3] Folgeprodukte von gentechnisch veränderten Organismen: Stoffe, die aus oder durch gentechnisch veränderte Organismen erzeugt werden, jedoch keine gentechnisch veränderten Organismen enthalten;
+- f.[^4-4] Kontrolldossier: alle für die Kontrolle und die Zertifizierung eines Unternehmens relevanten Informationen und Dokumente.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 5
+
+**Biobetriebe**[^5-1]
+
+<sup>1</sup>
+
+Als Biobetriebe gelten in dieser Verordnung:
+
+- a. Betriebe nach Artikel 6 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^5-2] (LBV), auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt;
+- b. Sömmerungsbetriebe nach Artikel 9 LBV, auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt;
+- c. Unternehmen, die nicht Betriebe nach Artikel 6 LBV sind, die Erzeugnisse aus Pflanzenbau oder Nutztierhaltung bodengebunden herstellen und auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt.
+
+<sup>2</sup> Biobetrieben gleichgestellt sind Unternehmen, die nicht Betriebe nach Artikel 6 LBV sind, die Erzeugnisse nicht bodengebunden herstellen und auf denen die Produktion nach den Anforderungen dieser Verordnung erfolgt.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^5-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+
+## 2. Kapitel: Anforderungen an die biologische Produktion
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 6
+
+**Gesamtbetrieblichkeit**
+
+Der gesamte Biobetrieb muss biologisch bewirtschaftet werden.
+
+#### Art. 7
+
+**Ausnahmen von der Gesamtbetrieblichkeit**[^7-1]
+
+<sup>1</sup> Innerhalb eines Biobetriebes können Flächen mit Dauerkulturen nicht biologisch bewirtschaftet werden, sofern für diese Flächen der ökologische Leistungsnachweis nach den Artikeln 11–25 der Direktzahlungsverordnung vom 23. Oktober 2013[^7-2] (DZV) erbracht wird.[^7-3]
+
+<sup>2</sup> Innerhalb eines nicht biologisch bewirtschafteten Betriebes können Flächen mit Dauerkulturen biologisch bewirtschaftet werden, sofern für den nicht biologisch bewirtschafteten Betriebsteil der ökologische Leistungsnachweis nach den Artikeln 11–25 DZV erbracht wird.[^7-4]
+
+<sup>3</sup> Flächen mit Dauerkulturen nach den Absätzen 1 und 2 müssen während mindestens fünf Jahren dieselben sein.
+
+<sup>4</sup> Eine Dauerkultur nach einem der Buchstaben a–i von Artikel 22 Absatz 1 der landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^7-5] muss innerhalb eines Betriebes entweder gesamthaft biologisch oder gesamthaft nicht biologisch bewirtschaftet werden.
+
+<sup>5</sup>
+
+Die Zertifizierungsstelle kann auf Gesuch hin eine Produktionsstätte eines nicht-biologisch bewirtschafteten landwirtschaftlichen Betriebes als selbstständigen Biobetrieb anerkennen, wenn die Produktionsstätte:
+
+- a. räumlich als Einheit von Land, Gebäuden und Einrichtungen erkennbar und von anderen Produktionsstätten getrennt ist;
+- b. über ein eigenes Betriebszentrum verfügt;
+- c. ganzjährig biologisch bewirtschaftet wird und eine oder mehrere Personen beschäftigt;
+- d. über ein eigenes Betriebsergebnis verfügt;
+- e. über einen vom übrigen Betrieb auf allen Stufen der Produktion, Aufbereitung, Verarbeitung, Lagerung und Vermarktung unabhängigen, räumlich und zeitlich getrennten Warenfluss verfügt; und
+- f. sicherstellt, dass sich der Warenfluss zwischen ihr und dem nicht biologisch bewirtschafteten Betriebsteil nie kreuzt.[^7-6]
+
+<sup>6</sup> Vor der Anerkennung holt die Zertifizierungsstelle zu Absatz 5 Buchstaben a–d die schriftliche Stellungnahme des Kantons ein, in dessen Gebiet der Betrieb liegt.[^7-7]
+
+<sup>7</sup> Unternehmen nach Artikel 5 Absatz 2 können parallel zur biologischen Produktion auch nicht biologisch produzieren, sofern zwischen den Produktionsbereichen ein getrennter Warenfluss besteht.[^7-8]
+
+<sup>8</sup> Für Forschungszwecke kann das WBF einzelnen Betrieben Ausnahmen vom Erfordernis der Gesamtbetrieblichkeit bewilligen.[^7-9]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^7-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^7-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^7-4]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^7-5]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-6]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-7]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-8]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^7-9]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+### 2. Abschnitt: Umstellung
+
+#### Art. 8
+
+**Normale Umstellung**
+
+<sup>1</sup> Betriebe, die auf die biologische Produktion umgestellt haben, gelten während zwei Jahren als Umstellungsbetriebe. Für Nutzflächen, auch für diejenigen, die neu zum biologisch bewirtschafteten Betrieb hinzukommen, gilt eine Umstellungsdauer von zwei Jahren. Als Umstelldatum gilt jeweils der 1. Januar.[^8-1]
+
+<sup>1bis</sup> Die Zertifizierungsstelle kann für die Pilzzucht, die Produktion von Treibzichorien und die Sprossenproduktion eine kürzere Umstelldauer bewilligen.[^8-2]
+
+<sup>2</sup> Während der Umstellung sind die Bestimmungen dieser Verordnung einzuhalten.
+
+<sup>3</sup> Zu Beginn der Umstellung legen Produzentin oder Produzent und Zertifizierungsstelle gemeinsam alle Massnahmen fest, die zu treffen sind, damit die Bestimmungen dieser Verordnung dauerhaft eingehalten und kontrolliert werden können.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 1998 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+#### Art. 9
+
+**Schrittweise Umstellung**
+
+<sup>1</sup> Ist eine sofortige vollständige Umstellung mit unzumutbar hohen Risiken verbunden, so kann ein Biobetrieb mit Wein‑, Obst‑, Gemüse- oder Zierpflanzenanbau schrittweise auf die biologische Produktion umstellen. Der gesamte Betrieb muss innert fünf Jahren vollständig umgestellt werden; vorbehalten bleiben Betriebe nach Artikel 7 Absatz 1.
+
+<sup>2</sup> Die Zertifizierungsstelle entscheidet über die Zulassung der schrittweisen Umstellung.[^9-1]
+
+<sup>3</sup>
+
+Voraussetzung dazu ist insbesondere:
+
+- a. die Erstellung eines verbindlichen Umstellungsplanes mit einer detaillierten Beschreibung der Umstellungsschritte und einem Zeitplan;
+- b. die Verhinderung jeglicher Abdrift von unerlaubten Hilfsstoffen;
+- c. die eindeutige Abgrenzung der unterschiedlich bewirtschafteten Flächen;
+- d. die getrennte Ernte und Lagerung der unterschiedlich produzierten Erzeugnisse;
+- e.[^9-2] die Erbringung des ökologischen Leistungsnachweises nach den Artikeln 11–25 DZV[^9-3] für die nicht biologisch bewirtschafteten Flächen;
+- f. die jährliche Entnahme einer Stichprobe zur Rückstandsanalyse von den biologisch produzierten Produkten;
+- g.[^9-4] Die Einhaltung der weiteren Anforderungen im Anhang 1.
+
+<sup>4</sup> Ist die sofortige vollständige Umstellung der Nutztierhaltung nicht zumutbar, so kann die Zertifizierungsstelle dem Betrieb gestatten, die Tierhaltung innert drei Jahren schrittweise nach Tierkategorien umzustellen.[^9-5]
+
+<sup>5</sup>
+
+Nicht zulässig ist die Parallelproduktion von:
+
+- a. nicht eindeutig unterscheidbaren Sorten;
+- b. Tieren der gleichen Nutztierkategorie.[^9-6]
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^9-2]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^9-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^9-4]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^9-5]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^9-6]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+### 3. Abschnitt: Pflanzenbau
+
+#### Art. 10
+
+**Fruchtbarkeit und biologische Aktivität des Bodens**
+
+<sup>1</sup>
+
+Fruchtbarkeit und biologische Aktivität des Bodens sind zu erhalten und wenn möglich zu steigern. Zu diesem Zweck sind insbesondere folgende Massnahmen zu treffen:
+
+- a. Der Boden ist so zu bewirtschaften, dass er aufgrund seiner physikalischen, chemischen und biologischen Eigenschaften eine nachhaltige Ertragsfähigkeit aufweist.
+- b. Die biologische Vielfalt ist zu fördern.
+- c. Fruchtfolge, Kulturanteile, Wiesennutzung und Bewirtschaftung sind so zu gestalten, dass keine Fruchtfolgeprobleme, Bodenerosion und keine Abschwemmung und Auswaschung von Nährstoffen und Pflanzenschutzmitteln[^10-1] auftreten.
+- d. Im Ackerbau muss die Bodenbedeckung so hoch sein, dass Bodenerosion sowie Verluste von Nährstoffen und Pflanzenschutzmitteln möglichst gering sind.
+- e. Die Nutzungsintensität im Futterbau muss differenziert und dem Standort angepasst sein.
+
+<sup>2</sup> Hydrokultur ist nicht gestattet.[^10-2]
+
+[^10-1]: Fassung des Ausdrucks gemäss Anhang 2 Ziff. 6 der Pflanzenschutzmittel-Verordnung vom 23. Juni 1999, in Kraft seit 1. Aug. 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^10-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 11
+
+**Pflanzenschutz**
+
+<sup>1</sup>
+
+Schädlinge, Krankheiten und Beikräuter müssen durch eine ganzheitliche Anwendung verschiedener Massnahmen reguliert werden. Zu diesem Zweck sind insbesondere folgende Massnahmen zu treffen:
+
+- a. geeignete Arten- und Sortenwahl;
+- b. geeignete Fruchtfolge;
+- c. mechanische Verfahren;
+- d. thermische Verfahren, wobei das Dämpfen der Erde auf den gedeckten Gemüseanbau und die Setzlingsanzucht beschränkt ist;
+- e. Förderung und Schutz von Nützlingen durch Schaffung günstiger Verhältnisse (z. B. Hecken, Nistplätze, Freisetzung von Nutzorganismen).
+
+<sup>2</sup> Das WBF legt die zulässigen Pflanzenschutzmittel sowie ihre Verwendung fest. Stoffe, die nicht pflanzlichen, tierischen, mikrobiellen oder mineralischen Ursprungs sind und nicht mit ihrer natürlichen Form identisch sind, können nur zugelassen werden, wenn in ihren Verwendungsbedingungen jeglicher Kontakt mit den essbaren Teilen der Pflanze ausgeschlossen wird. Das Bewilligungsverfahren nach der Pflanzenschutzmittel-Verordnung vom 18. Mai 2005[^11-1] bleibt vorbehalten.[^11-2]
+
+<sup>3</sup> Pflanzenschutzmittel dürfen nur verwendet werden, wenn eine unmittelbare Bedrohung für die Kulturen besteht.
+
+<sup>4</sup> Der Einsatz von Wachstumsregulatoren, Welkemitteln und Herbiziden ist nicht erlaubt.
+
+[^11-1]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 11a
+
+**Spritzentest**[^11a-1]
+
+Die Anforderungen an den Spritzentest und Spülwassertank für im Pflanzenschutz eingesetzte zapfwellenangetriebenen oder selbstfahrenden Geräte nach Anhang 1 Ziffer 6.1 DZV[^11a-2] sind einzuhalten. Demeter-Betriebe, die mit ihren Geräten ausschliesslich biologisch-dynamische Präparate ausbringen, sind davon ausgenommen.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^11a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
+#### Art. 12
+
+**Düngung**
+
+<sup>1</sup> Organische Dünger wie Hofdünger und Komposte müssen nach Möglichkeit aus dem eigenen Betrieb stammen.
+
+<sup>2</sup> Das WBF bestimmt die Dünger, die zulässig sind, und legt ihre Verwendung fest. Mineralische Stickstoffdünger dürfen nicht verwendet werden.[^12-1]
+
+<sup>3</sup> Der Düngerbedarf ist aufgrund einer ausgeglichenen Nährstoffbilanz nach Artikel 13 DZV[^12-2] und den Anforderungen nach Anhang 1 Ziffer 2 DZV nachzuweisen.[^12-3]
+
+<sup>4</sup> Die Menge ausgebrachter Nährstoffe pro Hektar (eigene und fremde Hofdünger, zugekaufte Dünger) darf bei besten Bedingungen im Talgebiet höchstens 2,5 Düngergrossvieheinheiten (DGVE) entsprechen. Sie ist nach Bodenbelastbarkeit, Höhenlage und topographischen Verhältnissen abzustufen. Liegen die kantonal festgelegten Grenzwerte gemäss Gewässerschutzgesetzgebung tiefer, so gelten diese.
+
+<sup>5</sup> Für die Aktivierung von Kompost oder Boden können geeignete Mittel auf der Basis von Mikroorganismen oder auf pflanzlicher Basis, wie z. B. biodynamische Präparate, sowie Gesteinsmehle verwendet werden.
+
+<sup>6</sup> Es dürfen nur Hofdüngerlieferungen von und zu Betrieben erfolgen, welche den ökologischen Leistungsnachweis nach der DZV erfüllen.[^12-4]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^12-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^12-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^12-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+
+#### Art. 13
+
+**Saat- und Pflanzgut, vegetatives Vermehrungsmaterial**
+
+<sup>1</sup> Saat- und Pflanzgut und vegetatives Vermehrungsmaterial muss aus Biobetrieben stammen.
+
+<sup>2</sup> Bei Saatgut muss die Mutterpflanze und bei vegetativem Vermehrungsmaterial die Elternpflanze während mindestens einer Generation oder bei ausdauernden Kulturen für die Dauer von zwei Wachstumsperioden nach diesem Kapitel erzeugt worden sein.
+
+<sup>3</sup> Abweichend von Absatz 1 darf in-vitro vermehrtes, nach der Saatgut-Verordnung vom 7. Dezember 1998[^13-1] zertifiziertes Pflanzmaterial verwendet werden.[^13-2]
+
+<sup>3bis</sup> Das WBF legt eine Liste der Arten oder Untergruppen von Arten fest, von welchen in der Schweiz ausreichende Mengen an Saatgut und vegetativem Vermehrungsmaterial aus biologischer Landwirtschaft und eine ausreichende Anzahl von Sorten aus biologischer Landwirtschaft vorhanden sind.[^13-3]
+
+<sup>4</sup> Die Anforderungen der Saatgut-Verordnung bleiben vorbehalten.
+
+[^13-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+[^13-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+
+#### Art. 13a
+
+**Verwendung von nicht biologischem Saatgut und vegetativem Vermehrungsmaterial**[^13a-1]
+
+<sup>1</sup>
+
+Wer nicht biologisches Saatgut oder vegetatives Vermehrungsmaterial verwenden will, muss nachweisen, dass:
+
+- a. kein geeignetes biologisch erzeugtes Saatgut oder vegetatives Vermehrungsmaterial verfügbar ist, welches seine Anforderungen erfüllt; oder
+- b. kein Anbieter in der Lage ist, das Saatgut oder vegetative Vermehrungs-material vor der Aussaat oder Anpflanzung zu liefern, obwohl er es vom Verwender rechtzeitig bestellt hatte.
+
+<sup>2</sup> Als Nachweis nach Absatz 1 gilt ein Ausdruck des vorhandenen Angebotes vom Informationssystem nach Artikel 33*a*.
+
+<sup>3</sup> Wer nicht-biologisches Saatgut oder vegetatives Vermehrungsmaterial verwendet, muss dem Betreiber des Informationssystems gemäss Artikel 33*a* die Menge des eingesetzten Saatgutes oder vegetativen Vermehrungsmaterials und die verwendete Sorte melden.
+
+<sup>4</sup> Für Arten oder Untergruppen von Arten ohne oder mit nur sehr geringer Versorgung an biologisch erzeugtem Saatgut oder vegetativem Vermehrungsmaterial kann nicht biologisches Saatgut oder vegetatives Vermehrungsmaterial ohne Nachweis nach Absatz 2 und ohne Meldung nach Absatz 3 verwendet werden. Der Betreiber des Informationssystems bezeichnet die entsprechenden Sorten und Arten im Informationssystem nach Weisungen des BLW[^13a-2].
+
+<sup>5</sup> Für Arten und Untergruppen von Arten nach Artikel 13 Absatz 3<sup>bis</sup> darf nur dann nicht biologisches Saatgut und vegetatives Vermehrungsmaterial eingesetzt werden, wenn das BLW eine Bewilligung für die Verwendung von nicht biologischem Saatgut und vegetativem Vermehrungsmaterial erteilt. Die Bewilligung wird nur erteilt, falls das Saatgut oder Vermehrungsmaterial zu Forschungszwecken, für Untersuchungen im Rahmen von Feldversuchen kleinen Umfangs oder zur Sortenerhaltung verwendet wird.
+
+<sup>6</sup> Nicht biologisches Saatgut und nicht biologische Saatkartoffeln dürfen nur verwendet werden, wenn sie nicht mit Pflanzenschutzmitteln behandelt worden sind; ausgenommen sind die Behandlung mit Pflanzenschutzmitteln, die für die biologische Produktion zulässig sind, und chemische Behandlungen, die aus Gründen der Pflanzengesundheit für alle Sorten einer bestimmten Art im Anbaugebiet vorgeschrieben wurden.[^13a-3]
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^13a-2]: Ausdruck gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). Die Änd. wurde im ganzen Erlass berücksichtigt.
+[^13a-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 14
+
+**Sammeln von Wildpflanzen**
+
+<sup>1</sup>
+
+Das Sammeln essbarer Wildpflanzen und ihrer Teile, die in der freien Natur, in Wäldern und auf landwirtschaftlichen Flächen natürlicherweise vorkommen, gilt als Erzeugung im Rahmen der biologischen Landwirtschaft, sofern:
+
+- a. diese Flächen in den drei Jahren vor dem Sammeln der Pflanzen nicht mit unzulässigen Mitteln behandelt worden sind; und
+- b. das Sammeln die Stabilität des natürlichen Lebensraums und die Erhaltung der Arten im Sammelgebiet nicht beeinträchtigt.
+
+<sup>2</sup> Das Sammelgebiet muss geographisch abgegrenzt sein.
+
+<sup>3</sup> Die Sammeltätigkeit ist ausführlich zu dokumentieren.
+
+<sup>4</sup> Das Kontrollverfahren für Biobetriebe ist sinngemäss anzuwenden.
+
+### 4. Abschnitt: Nutztierhaltung
+
+#### Art. 15
+
+**Anforderungen an die Tierhaltung**[^15-1]
+
+<sup>1</sup> Tiere der Rindergattung, einschliesslich der Bubalus- und Bisonarten, Tiere der Pferdegattung, Schafe, Ziegen, Tiere der Schweinegattung sowie Geflügel sind nach den Bestimmungen über den regelmässigen Auslauf im Freien nach Artikel 75 DZV[^15-2] und den Anforderungen nach Anhang 6 DZV zu halten. Für die Haltung von Kaninchen gelten die Bestimmungen über die besonders tierfreundlichen Stallhaltungssysteme nach Artikel 74 DZV und die Anforderungen nach Anhang 6 DZV.[^15-3]
+
+<sup>2</sup>
+
+Das WBF kann zusätzliche Vorschriften erlassen für:
+
+- a. Stalleinrichtungen;
+- b. Haltung und Aufzucht;
+- c. Weiden und Laufhöfe.
+
+<sup>3</sup> Es kann Tierhaltungsvorschriften auch für die übrigen Nutztierkategorien erlassen.[^15-4]
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^15-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^15-4]: Fassung gemäss Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+#### Art. 15a
+
+**Anbindehaltung**[^15a-1]
+
+<sup>1</sup> Es ist nicht zulässig, Tiere angebunden zu halten.
+
+<sup>2</sup>
+
+In Absprache mit der Zertifizierungsstelle können jedoch angebunden gehalten werden:
+
+- a. einzelne Tiere für begrenzte Zeit aus Sicherheits- bzw. Tierschutzgründen;
+- b.[^15a-2] Tiere der Rindergattung, sofern die Bestimmungen über den regelmässigen Auslauf im Freien nach Artikel 75 DZV[^15a-3] eingehalten werden.
+
+<sup>3</sup> ...[^15a-4]
+
+[^15a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^15a-2]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^15a-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^15a-4]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 15b
+
+**Sömmerung**[^15b-1]
+
+Werden die Tiere gesömmert, so hat die Sömmerung auf Biobetrieben zu erfolgen. In besonderen Fällen kann die Sömmerung auf Betrieben erfolgen, welche die Anforderungen nach den Artikeln 26–34 DZV[^15b-2] einhalten.
+
+[^15b-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^15b-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
+#### Art. 16
+
+**Fütterungsgrundsätze**[^16-1]
+
+<sup>1</sup> Das Futter muss den ernährungsphysiologischen Bedarf der Tiere in ihren verschiedenen Entwicklungsstadien decken und eher der Qualitätsproduktion als der Maximierung der Erzeugung dienen.
+
+<sup>2</sup> Mastmethoden mit Zwangsfütterung sowie die Haltung von Tieren unter Bedingungen, die zu Anämie führen können, sind nicht zulässig.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+#### Art. 16a
+
+**Futtermittel**[^16a-1]
+
+<sup>1</sup> Das WBF legt fest, welche Futtermittel zulässig sind und wie die Futtermittel zu verwenden sind.
+
+<sup>2</sup> Es kann die Verwendung bestimmter Futtermittelzusatzstoffe und -verarbeitungshilfsstoffe sowie bestimmte Verarbeitungsmethoden verbieten.[^16a-2]
+
+<sup>3</sup>
+
+Es kann in Abweichung vom Grundsatz nach Artikel 3 Buchstabe c Futtermittelzusatzstoffe und -verarbeitungshilfsstoffe, die durch gentechnisch veränderte Organismen hergestellt wurden, zulassen, wenn sie:
+
+- a. nicht durch andere Stoffe ersetzt werden können; und
+- b. nicht anders hergestellt auf dem Markt erhältlich sind.[^16a-3]
+
+<sup>4</sup> Der Zukauf von Futtermitteln zur Ergänzung der betriebseigenen Futtergrundlage ist zulässig. Zukäufe müssen aus biologischem Landbau und wenn möglich aus der gleichen Region stammen. Das WBF kann, zur Angleichung an die entsprechenden Rechtsvorschriften in der EU vorsehen, dass ein begrenzter Anteil an nicht biologischen Futtermitteln zugekauft werden kann.[^16a-4]
+
+<sup>5</sup> Die Beimischung von Futtermitteln aus Umstellungsbetrieben ist im Durchschnitt bis zu maximal 30 Prozent der Ration der einzelnen Nutztierkategorie zulässig, bezogen auf die Trockensubstanz. Stammen diese Futtermittel aus dem eigenen Betrieb, kann dieser Satz 60 Prozent betragen, und, sofern es sich dabei um einen Umstellungsbetrieb handelt, 100 Prozent.[^16a-5]
+
+<sup>6</sup> Bei nachgewiesenen Futtermittelertragsverlusten, insbesondere auf Grund aussergewöhnlicher Witterungsverhältnisse, kann der direkt betroffene Tierhalter nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle für einen begrenzten Zeitraum nicht-biologische Futtermittel einsetzen, sofern der Tierhalter gegenüber der Zertifizierungsstelle glaubhaft darlegen kann, dass nicht genügend biologisches Futter verfügbar ist. Sind ganze Gebiete von Futtermittelertragsverlusten betroffen, kann das BLW die Zustimmung auch gebietsweise erteilen.[^16a-6]
+
+<sup>7</sup> Die Futterkomponenten müssen naturbelassen und die angewendeten Techniken der Futterbereitung möglichst naturnah und energieschonend sein. Futtermittel dürfen keine Spuren von gentechnisch veränderten Organismen oder von Folgeprodukten gentechnisch veränderter Organismen enthalten, die anteilmässig über den futtermittelrechtlich festgelegten Höchstschwellen für unvermeidbare Verunreinigungen liegen.
+
+<sup>8</sup> Tiere in Wanderherden sowie gesömmerte Tiere dürfen vorübergehend auf nicht biologisch bewirtschafteten Flächen weiden. Die dabei aufgenommene Futtermenge darf, bezogen auf die Trockensubstanz, nicht über 10 Prozent der jährlichen Gesamtfuttermenge liegen.[^16a-7]
+
+<sup>9</sup> Der Futtermittelanteil aus nicht biologischem Anbau darf für Pensionspferde 10 Prozent des gesamten Futterverzehrs betragen.[^16a-8]
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16a-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-3]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-4]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-5]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16a-6]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
+[^16a-7]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^16a-8]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 16b
+
+**Spezifische Ernährungsvorschriften**[^16b-1]
+
+<sup>1</sup> Wiederkäuer müssen mindestens 60 Prozent der Futter-Trockensubstanz in Form von frischem, getrocknetem oder siliertem Raufutter erhalten.
+
+<sup>2</sup> Junge Säugetiere müssen auf der Grundlage von unveränderter Milch, vorzugsweise Muttermilch, ernährt werden. Alle Säugetiere sind während eines Mindestzeitraums mit unveränderter Milch zu ernähren. Der Mindestzeitraum bemisst sich nach der Tierart. Er beträgt bei Rindern (einschliesslich Bubalus- und Bison-Arten) und Tieren der Pferdegattung drei Monate, bei Schafen und Ziegen 35 Tage und bei Schweinen 40 Tage.
+
+<sup>3</sup> Bei Geflügel muss das im Maststadium verabreichte Futter zu 65 Prozent aus Getreidekörnern und Körnerleguminosen (deren Produkte und Nebenprodukte) sowie Ölsaaten (deren Produkte und Nebenprodukte) bestehen.
+
+[^16b-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+#### Art. 16c
+
+**Zucht**[^16c-1]
+
+<sup>1</sup> Die Gesundheit und die Leistungsfähigkeit (Lebensleistung) der Nutztiere sowie die Qualität der tierischen Erzeugnisse sind durch die Wahl geeigneter Rassen und Zuchtmethoden zu fördern.
+
+<sup>2</sup> Die Reproduktion der Nutztiere muss auf natürlichen Methoden beruhen.
+
+<sup>3</sup> Die künstliche Besamung ist erlaubt. Nicht zulässig sind andere Formen der künstlichen oder anderweitig beeinflussten Reproduktion (z. B. Embryotransfer). Diese dürfen nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle angewendet werden, wenn dies zur Erhaltung von gefährdeten genetischen Ressourcen nötig ist. Entsprechende Tiere und deren Produkte dürfen nicht mit dem Hinweis auf die biologische Landwirtschaft vermarktet werden.[^16c-2]
+
+<sup>4</sup> Es dürfen keine aus Embryotransfer stammenden Tiere eingestallt werden. Ausgenommen sind Tiere der Rindergattung im Aufzuchtvertrag mit einem nicht biologisch geführten Betrieb. Die Tiere müssen in diesem Fall nach einer vertraglich festgelegten Frist wieder auf den Ursprungsbetrieb zurückkehren. Tiere aus Embryotransfer, welche bereits vor der Umstellung des Betriebes auf dem Betrieb gehalten wurden, können noch bis zu ihrem Abgang nach den Bestimmungen dieser Verordnung gehalten werden.[^16c-3]
+
+[^16c-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16c-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16c-3]: Fassung gemäss Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+#### Art. 16d
+
+**Tiergesundheit**[^16d-1]
+
+<sup>1</sup>
+
+Die Krankheitsvorsorge muss auf folgenden Grundsätzen beruhen:
+
+- a. Wahl geeigneter Rassen oder Linien;
+- b. Anwendung tiergerechter Haltungspraktiken, die den Bedürfnissen der einzelnen Tierarten gerecht werden, sowie eine hohe Widerstandsfähigkeit gegen Krankheiten fördern und Infektionen vorbeugen;
+- c. Verfütterung hochwertiger Futtermittel, regelmässiger Auslauf (Weide, Laufhof, Aussenklimabereich) zur Förderung der natürlichen Immunität der Tiere;
+- d. Gewährleistung einer angemessenen Besatzdichte, um Überbelegung und damit zusammenhängende Tiergesundheitsprobleme zu vermeiden.
+
+<sup>2</sup> Wenn ein Tier erkrankt oder sich verletzt, ist es unverzüglich zu behandeln, wenn nötig in getrennten, geeigneten Räumlichkeiten.
+
+<sup>3</sup>
+
+Für die Verwendung von Tierarzneimitteln in der biologischen Tierhaltung gelten folgende Grundsätze:
+
+- a. Phytotherapeutische Erzeugnisse (z. B. Pflanzenextrakte, ausgenommen Antibiotika, oder Pflanzenessenzen), homöopathische Erzeugnisse (z. B. pflanzliche, tierische und mineralische Stoffe) sowie Spurenelemente und die zu diesem Zweck vom WBF festgelegten Erzeugnisse sind chemisch-synthetischen allopathischen Tierarzneimitteln oder Antibiotika vorzuziehen, sofern sie erfahrungsgemäss eine therapeutische Wirkung auf die betreffende Tierart und die zu behandelnde Krankheit haben.
+- b. Kann mit den Mitteln nach Buchstabe a eine Krankheit oder eine Verletzung erfahrungsgemäss nicht wirksam behandelt werden, ist eine Behandlung zur Vermeidung von Leiden des Tieres jedoch erforderlich, so dürfen in Verantwortung des Tierarztes chemisch-synthetische allopathische Tierarzneimittel oder Antibiotika verabreicht werden.
+- c.[^16d-2] Die Verwendung von Kokzidiostatika und die Verwendung von Hormonen oder ähnlichen Stoffen zur Kontrolle der Fortpflanzung (z.B. Einleitung oder Synchronisierung der Brunst) oder zu anderen Zwecken sind nicht zulässig; die Hormone dürfen jedoch im Falle einer therapeutischen tierärztlichen Behandlung einem einzelnen Tier verabreicht werden.
+- d. Die präventive Verabreichung chemisch-synthetischer allopathischer Tierarzneimittel oder von Antibiotika ist nicht zulässig.
+
+<sup>4</sup> Die Art des Mittels (einschliesslich der pharmakologischen Wirkstoffe) sowie die Einzelheiten der Diagnose, die Art der Verabreichung, die Dauer der Behandlung und die vorgeschriebene Wartezeit müssen eindeutig, schriftlich und unlöschbar im Behandlungsjournal festgehalten werden.
+
+<sup>5</sup> Die behandelten Tiere sind jederzeit eindeutig als solche – im Falle grosser Tiere einzeln, im Falle von Geflügel oder Kleinvieh einzeln oder herdenweise – identifizierbar.
+
+<sup>6</sup> Bei bestehender Gefährdung der Tiergesundheit sind Impfungen und Entwurmungen erlaubt.
+
+<sup>7</sup> ...[^16d-3]
+
+<sup>8</sup> Die Wartezeit zwischen der letzten Verabreichung eines chemisch-synthetischen allopathischen Tierarzneimittels unter normalen Anwendungsbedingungen und der Gewinnung von einem solchen Tier stammenden Lebensmitteln aus biologischer Landwirtschaft muss doppelt so lang sein wie die gesetzlich vorgeschriebene Zeit. Dies gilt nicht für die Verabreichung von Mitteln zur Trockenstellung von Kühen mit Euterproblemen.
+
+<sup>9</sup> Erhält ein Tier oder eine Gruppe von Tieren innerhalb eines Jahres mehr als drei Behandlungen mit chemisch-synthetischen allopathischen Tierarzneimitteln oder Antibiotika oder mehr als eine therapeutische Behandlung, wenn der produktive Lebenszyklus kürzer als ein Jahr ist, so dürfen die betreffenden Tiere oder von diesen Tieren gewonnene Erzeugnisse nicht als dieser Verordnung entsprechend verkauft werden, und die Tiere müssen die Umstellungszeiträume nach Artikel 16*f* Absatz 2 durchlaufen; davon ausgenommen sind Impfungen, Parasiten-Behandlungen, Narkosemittel, Schmerztherapeutika sowie Behandlungen im Rahmen von staatlichen Tierseuchenprogrammen.[^16d-4]
+
+[^16d-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16d-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^16d-3]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)).
+[^16d-4]: Fassung gemäss Ziff. I der V vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+
+#### Art. 16e
+
+**Zootechnische Massnahmen**[^16e-1]
+
+<sup>1</sup> Zootechnische Eingriffe sind auf ein Minimum zu beschränken. Sie müssen durch qualifiziertes Personal im dafür am besten geeigneten Alter der Tiere ausgeführt werden.
+
+<sup>2</sup> Das Beschneiden von Schwänzen und Zähnen sowie von Schnäbeln, Zehen und Flügeln beim Geflügel, das Kapaunisieren, die Enthornung von adulten Tieren sowie die Verwendung von Nasenringen und das Einsetzen von Klammern und Drähten in die Rüsselscheibe bei Schweinen sind nicht zulässig.[^16e-2]
+
+<sup>2bis</sup> In begründeten Fällen zulässig ist die Enthornung von adulten Tieren aus Sicherheitsgründen, sofern sie vom Tierarzt oder der Tierärztin fachgerecht unter Anästhesie und nicht während der Monate Mai, Juni, Juli und August durchgeführt wird.[^16e-3]
+
+<sup>3</sup>
+
+Bei einzelnen Tieren dürfen folgende Eingriffe vorgenommen werden:
+
+- a. das Anbringen von Gummibändern an Schwänzen von Schafen, falls dies zur Verbesserung der Gesundheit, des Wohlbefindens oder der Hygiene der Tiere erforderlich ist;
+- b.[^16e-4] die Enthornung von Jungtieren, mit Ausnahme von Yaks, Wasserbüffeln und Bisons, unter Betäubung, falls dies aus Sicherheitsgründen notwendig ist;
+- c.[^16e-5] die Kastration zur Sicherstellung der Qualität der Erzeugnisse.
+
+[^16e-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16e-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16e-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16e-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^16e-5]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+
+#### Art. 16e<sup>bis</sup>
+
+**Praxisversuche im Bereich der Impfung gegen Ebergeruch**[^16ebis-1]
+
+<sup>1</sup> Das BLW kann für die Zeit bis zum 31. Dezember 2012 befristete Praxisversuche auf Biobetrieben zur Impfung gegen Ebergeruch bewilligen, insbesondere zur Untersuchung von Fragen in den Bereichen Ethologie, Effizienz, Wirtschaftlichkeit und Produktqualität.
+
+<sup>2</sup> Gesuche für Versuche können von einer unabhängigen wissenschaftlichen Institution eingereicht werden, welche die Verantwortung für den Versuch innehat. Im Gesuch sind die Versuchsziele und die Versuchsmethodik darzulegen und die beteiligten Biobetriebe und die betroffene Anzahl Tiere aufzuführen.
+
+<sup>3</sup> Die Vermarktung der geimpften Tiere ist bis zum Endverkäufer lückenlos zu dokumentieren. Die betroffenen Produkte dürfen nicht ausgeführt werden.
+
+<sup>4</sup> Das BLW kann weitere Voraussetzungen und Auflagen für die Praxisversuche festlegen.
+
+[^16ebis-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 16f
+
+**Herkunft der Nutztiere**[^16f-1]
+
+<sup>1</sup> Es dürfen nur Nutztiere gehalten werden, die aus Biobetrieben stammen. Dies gilt nicht für Reit- und Zugpferde, Hobbytiere, sowie Tiere der Rindergattung im Aufzuchtvertrag mit einem nicht biologisch geführten Betrieb. Die Tiere müssen in diesem Fall nach einer vertraglich festgelegten Frist wieder auf den Ursprungsbetrieb zurückkehren.[^16f-2]
+
+<sup>2</sup>
+
+Nutztiere, die nicht aus Biobetrieben stammen, und die nach dem Beginn der Umstellung eingestallt werden, müssen während folgender Zeiträume nach den Regeln dieser Verordnung gehalten werden:
+
+- a. Tiere der Pferde- und der Rindergattung (einschliesslich Bubalus- und Bison-Arten) für die Fleischerzeugung während 12 Monaten und mindestens drei Vierteln ihres Lebens;
+- b. kleine Wiederkäuer und Schweine während mindestens 6 Monaten;
+- c. Milch produzierende Tiere während mindestens 6 Monaten;
+- d. Geflügel für die Fleischerzeugung, das eingestallt wurde, bevor es drei Tage alt war, während mindestens 56 Tagen;
+- e. Geflügel für die Eiererzeugung während mindestens 6 Wochen.
+
+<sup>3</sup> ...[^16f-3]
+
+<sup>4</sup> Sind zur Ergänzung der natürlichen Bestandesvergrösserung oder zur Bestandeserneuerung Tiere aus Biobetrieben nicht in ausreichender Menge verfügbar, so dürfen in Absprache mit der Zertifizierungsstelle nullipare weibliche Jungtiere alljährlich in einem Umfang von bis zu 10 Prozent des Bestands an ausgewachsenen Tieren der Pferde- oder Rindergattung, einschliesslich der Bubalus- und Bison-Arten, oder bis zu 20 Prozent des Bestands an ausgewachsenen Schweinen, Schafen oder Ziegen aus nicht biologischen Betrieben eingestallt werden. Für Biobetriebe mit weniger als 10 Tieren der Rinder- oder der Pferdegattung oder mit weniger als fünf Schweinen, Schafen oder Ziegen ist die Erneuerung auf ein Tier im Jahr beschränkt.
+
+<sup>5</sup>
+
+Ein Betrieb kann nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle Tiere aus nicht biologischen Betrieben im Umfang bis zu 40 Prozent des Bestandes einstallen, sofern Tiere aus Biobetrieben nicht in ausreichender Menge verfügbar sind, bei:
+
+- a. erheblicher Ausweitung der Haltung;
+- b. Rassenumstellung;
+- c. Aufbau eines neuen Zweiges der Tierproduktion;
+- d. Notwendigkeit eines Ersatzkalbes für eine Mutter- oder Ammenkuh;
+- e. Gefahr, dass eine bestimmte Rasse der Landwirtschaft verloren geht.[^16f-4]
+
+<sup>6</sup> Bei hoher Mortalität auf Grund einer Seuche oder einer Katastrophensituation kann der Tierbestand nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle mit Tieren aus nicht biologischen Betrieben erneuert oder wieder aufgebaut werden, sofern Tiere aus Biobetrieben nicht in ausreichender Menge verfügbar sind.[^16f-5]
+
+<sup>7</sup> Männliche Zuchttiere aus nicht biologischen Betrieben können jederzeit zugekauft werden.
+
+<sup>8</sup> Sind Tiere aus Biobetrieben nicht in ausreichender Menge verfügbar, so darf zum Aufbau eines neuen Tierbestandes Geflügel aus nicht biologischen Betrieben zugekauft werden, wenn die Küken spätestens am dritten Lebenstag eingestallt werden.[^16f-6]
+
+[^16f-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^16f-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+[^16f-3]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16f-4]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16f-5]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^16f-6]: Eingefügt durch Ziff. I der V vom 23. Nov. 2005 ([AS 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)). Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+
+#### Art. 16g
+
+**Mindestschlachtalter bei Geflügel**[^16g-1]
+
+<sup>1</sup>
+
+Das Mindestschlachtalter bei Geflügel beträgt:
+
+- a. 81 Tage bei Mastpoulets;
+- b. 49 Tage bei Peking-Enten;
+- c. 70 Tage bei weiblichen Flugenten;
+- d. 84 Tage bei männlichen Flugenten;
+- e. 92 Tage bei Mulard-Enten;
+- f. 94 Tage bei Perlhühnern;
+- g. 140 Tage bei Truten und Gänsen.
+
+<sup>2</sup> Produzenten, die das Mindestschlachtalter nicht einhalten, müssen langsam wachsende Rassen verwenden.
+
+[^16g-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+#### Art. 16h
+
+**Bienenhaltung und Imkereierzeugnisse**[^16h-1]
+
+<sup>1</sup> Das WBF kann für die Bienenhaltung Abweichungen von der Gesamtbetrieblichkeit und der gesamtbetrieblichen Umstellung gestatten.
+
+<sup>2</sup> Es kann weitere Bestimmungen erlassen über die Fütterung von Bienen, den Standort der Bienenstöcke, die Tiergesundheit, die Herkunft der Bienen, Identifikation und Kontrolle, Gewinnung, Verarbeitung und Lagerung von Imkereierzeugnissen.
+
+<sup>3</sup> Es kann für bestimmte Gebiete oder Regionen festlegen, dass die dort erzeugten Erzeugnisse nicht mit dem Hinweis auf die biologische Landwirtschaft vermarktet werden dürfen.
+
+[^16h-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+## 2*a*. Kapitel:**** Anforderungen an die Verarbeitung von Lebensmitteln und Futtermitteln
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 16i
+
+**Spezifische Grundsätze für die Herstellung verarbeiteter biologischer Lebensmittel**
+
+Neben den allgemeinen Grundsätzen nach Artikel 3 gelten für die Herstellung verarbeiteter biologischer Lebensmittel folgende Grundsätze:
+
+- a. Biologische Lebensmittel müssen aus biologischen landwirtschaftlichen Zutaten hergestellt sein, es sei denn, eine Zutat ist auf dem Markt nicht als biologisches Erzeugnis erhältlich.
+- b. Die Verwendung von Lebensmittelzusatzstoffen, von nicht biologischen Zutaten mit überwiegend technischen und sensorischen Funktionen sowie von Mikronährstoffen und Verarbeitungshilfsstoffen muss sich auf ein Minimum und auf Fälle, in denen dies ein wesentliches technologisches Erfordernis darstellt oder besonderen Ernährungszwecken dient, beschränken.
+- c. Stoffe und Herstellungsverfahren, die in Bezug auf die tatsächliche Beschaffenheit des Erzeugnisses irreführend sein könnten, sind nicht gestattet.
+- d. Die Lebensmittel müssen sorgfältig verarbeitet werden, vorzugsweise unter Anwendung biologischer, mechanischer und physikalischer Methoden.
+
+#### Art. 16j
+
+**Vorschriften für die Herstellung verarbeiteter biologischer Lebensmittel**
+
+<sup>1</sup> Die Herstellung verarbeiteter biologischer Lebensmittel muss räumlich oder zeitlich getrennt von derjenigen nicht biologischer Lebensmittel erfolgen.
+
+<sup>2</sup>
+
+Verarbeitete biologische Lebensmittel müssen folgende Anforderungen erfüllen:
+
+- a. Das Erzeugnis muss überwiegend aus Zutaten landwirtschaftlichen Ursprungs hergestellt sein; bei der Bestimmung, ob ein Erzeugnis überwiegend aus Zutaten landwirtschaftlichen Ursprungs hergestellt ist, werden hinzugefügtes Wasser und Kochsalz nicht berücksichtigt; Hefe und Hefeprodukte werden zu den Zutaten landwirtschaftlichen Ursprungs gezählt.
+- b.[^16j-1] Es dürfen nur Zusatzstoffe, Verarbeitungshilfsstoffe, Aromastoffe, Wasser, Salz, Zubereitungen aus Mikroorganismen und Enzymen, Mineralstoffe (einschliesslich Spurenelemente), Vitamine sowie Aminosäuren und andere Mikronährstoffe in Lebensmitteln verwendet werden, wenn sie nach Artikel 16*k* für die Verwendung in der biologischen Produktion zugelassen worden sind.
+- c. Nicht biologische Zutaten landwirtschaftlichen Ursprungs[^16j-2] dürfen nur verwendet werden, wenn sie nach Artikel 16*k* zugelassen worden sind.
+- d. Eine biologische Zutat darf nicht zusammen mit der gleichen nicht biologischen oder im Rahmen der Umstellung erzeugten Zutat verwendet werden.
+- e.[^16j-3] ...
+- f. Das Erzeugnis und seine Zutaten dürfen nicht mit ionisierenden Strahlen behandelt werden.
+
+<sup>3</sup> Es dürfen keine Stoffe verwendet werden und keine Verfahren zur Anwendung kommen, die bei der Verarbeitung und Lagerung biologischer Lebensmittel verloren gegangene Eigenschaften wiederherstellen, das Ergebnis nachlässiger Verarbeitung korrigieren oder anderweitig in Bezug auf die tatsächliche Beschaffenheit dieser Erzeugnisse irreführend sein könnten.
+
+[^16j-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^16j-2]: Ausdruck gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16j-3]: Aufgehoben durch Anhang Ziff. 1 der V vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+
+#### Art. 16k
+
+**Kriterien für die Zulässigkeit von Erzeugnissen und Stoffen nach Artikel 16*j* Absatz 2 Buchstaben b und c für die Verarbeitung**
+
+<sup>1</sup>
+
+Das WBF legt im Einvernehmen mit dem Eidgenössischen Departement des Innern (EDI) fest, welche Erzeugnisse und Stoffe nach Artikel 16*j* Absatz 2 Buchstaben b und c für die Verarbeitung zulässig sind. Es lässt die Erzeugnisse und Stoffe zu, wenn folgende Voraussetzungen erfüllt sind:
+
+- a. Es stehen keine nach dieser Verordnung zulässigen Alternativen zur Verfügung.
+- b. Ohne diese Erzeugnisse und Stoffe kann das Lebensmittel nicht hergestellt oder haltbar gemacht werden oder ohne sie können ernährungsspezifische Vorschriften nicht eingehalten werden.
+
+<sup>2</sup> Die Erzeugnisse und Stoffe nach Artikel 16*j* Absatz 2 Buchstabe b müssen in der Natur vorkommen und dürfen nur mechanischen, physikalischen, biologischen, enzymatischen oder mikrobiologischen Prozessen unterzogen worden sein, es sei denn, die betreffenden Erzeugnisse und Stoffe sind aus solchen Quellen nicht in ausreichender Menge oder Qualität auf dem Markt erhältlich.
+
+<sup>2bis</sup>
+
+Das WBF kann in Abweichung vom Grundsatz nach Artikel 3 Buchstabe c Stoffe nach Artikel 16*j* Absatz 2 Buchstabe b, die durch gentechnisch veränderte Organismen hergestellt wurden, zulassen, wenn sie:
+
+- a. nicht durch andere Stoffe ersetzt werden können; und
+- b. nicht anders hergestellt auf dem Markt erhältlich sind.[^16k-1]
+
+<sup>3</sup>
+
+Solange das WBF nicht über die Zulässigkeit von Erzeugnissen und Stoffen nach Artikel 16*j* Absatz 2 Buchstabe c entschieden hat, kann das BLW ihre Verwendung auf Gesuch hin zeitlich und mengenmässig beschränkt bewilligen, wenn die lebensmittelrechtlichen Vorschriften erfüllt sind und eine Mangelsituation vorliegt. Im Gesuch ist darzulegen:
+
+- a. dass eine Mangelsituation vorliegt;
+- b. dass das Endprodukt nicht anders hergestellt werden kann;
+- c. wie lange die Mangelsituation voraussichtlich dauern wird;
+- d. welche Massnahmen zur Behebung der Mangelsituation getroffen werden sollen.
+
+[^16k-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 16k<sup>bis</sup>
+
+**Spezifische Grundsätze für die Herstellung verarbeiteter biologischer Futtermittel**[^16kbis-1]
+
+Neben den allgemeinen Grundsätzen nach Artikel 3 gelten für die Herstellung verarbeiteter biologischer Futtermittel folgende Grundsätze:
+
+- a. Die Verwendung von Futtermittelzusatzstoffen und -verarbeitungshilfsstoffen muss sich auf ein Minimum und auf Fälle, in denen dies ein wesentliches technologisches oder zootechnisches Erfordernis darstellt oder besonderen Ernährungszwecken dient, beschränken.
+- b. Stoffe und Herstellungsverfahren, die in Bezug auf die tatsächliche Beschaffenheit des Erzeugnisses irreführend sein könnten, sind nicht gestattet.
+- c. Die Futtermittel müssen sorgfältig verarbeitet werden, wenn möglich unter Anwendung biologischer, mechanischer und physikalischer Methoden.
+
+[^16kbis-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 16l
+
+**Vorschriften für die Herstellung verarbeiteter biologischer Futtermittel[^16l-1]**
+
+<sup>1</sup> Die Herstellung verarbeiteter biologischer Futtermittel muss räumlich oder zeitlich getrennt von der Herstellung verarbeiteter nicht biologischer Futtermittel erfolgen.
+
+<sup>2</sup> Ein biologisches Futtermittel-Ausgangsprodukt darf nicht zusammen mit dem gleichen Futtermittel-Ausgangsprodukt aus nicht biologischer Produktion verwendet werden.
+
+<sup>2bis</sup> Futtermittel-Ausgangsprodukte, die bei der Herstellung biologischer Futtermittel eingesetzt oder weiterverarbeitet werden, dürfen nicht unter Einsatz chemisch-synthetischer Lösungsmittel hergestellt worden sein.[^16l-2]
+
+<sup>3</sup> Es dürfen keine Stoffe verwendet werden und keine Verfahren zur Anwendung kommen, die bei der Verarbeitung und Lagerung biologischer Futtermittel verloren gegangene Eigenschaften wiederherstellen, das Ergebnis nachlässiger Verarbeitung korrigieren oder anderweitig in Bezug auf die tatsächliche Beschaffenheit dieser Erzeugnisse irreführend sein könnten.
+
+[^16l-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16l-2]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 16m
+
+**Vorschriften für dieHerstellung von biologischer Hefe**
+
+Für die Herstellung von biologischer Hefe dürfen nur biologisch erzeugte Substrate verwendet werden. Andere Erzeugnisse und Stoffe dürfen nur verwendet werden, wenn sie nach Artikel 16*k* für die Verwendung in der biologischen Verarbeitung zugelassen wurden.
+
+#### Art. 16n
+
+**Vorschriften für die Herstellung von biologischem Wein**[^16n-1]
+
+<sup>1</sup> Das WBF legt fest, welche Verfahren, Prozesse und Behandlungen für die Herstellung von biologischem Wein zugelassen sind.
+
+<sup>2</sup> Das BLW kann für gewisse geografische Gebiete festlegen, dass die Verwendung von Schwefeldioxid bis zu den nach der Lebensmittelgesetzgebung festgelegten Höchstwerten zugelassen ist, falls die aussergewöhnlichen Witterungsbedingungen in einem bestimmten Erntejahr den Gesundheitszustand von biologischen Trauben in diesen Gebieten durch heftigen Bakterien- oder Pilzbefall beeinträchtigen und falls davon ausgegangen werden muss, dass mehr Schwefeldioxid als in den Vorjahren verwendet werden muss, um ein vergleichbares Enderzeugnis zu erhalten.[^16n-2]
+
+[^16n-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16n-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+## 3. Kapitel:**** Kennzeichnung
+
+[^chap3-1]
+
+[^chap3-1]: Titel der Abschnitte 1–5 aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 17
+
+**Nicht zum Verzehr bestimmte Erzeugnisse[^17-1]**
+
+<sup>1</sup>
+
+Erzeugnisse, die nicht zum Verzehr bestimmt sind, dürfen nur dann als biologische Erzeugnisse gekennzeichnet werden, wenn:
+
+- a. sich die Kennzeichnung eindeutig auf die landwirtschaftliche Erzeugung bezieht;
+- b. sie biologisch produziert oder aufbereitet oder nach Artikel 22 eingeführt wurden;
+- c.[^17-2] sie von einem Unternehmen produziert, aufbereitet, eingeführt, gelagert oder vermarktet wurden, das einem Kontrollsystem nach dem 5. Kapitel unterliegt;
+- d.[^17-3] ...
+
+<sup>2</sup> Das WBF kann zusätzliche Vorschriften für Futtermittel, vegetatives Vermehrungsmaterial und Saatgut für den Anbau erlassen.[^17-4]
+
+<sup>3</sup> ...[^17-5]
+
+[^17-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^17-3]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^17-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Fassung gemäss Ziff. I der V vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+[^17-5]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Aufgehoben durch Ziff. I der V vom 26. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 18
+
+**Verarbeitete Lebensmittel**[^18-1]
+
+<sup>1</sup>
+
+In der Sachbezeichnung dürfen die Bezeichnungen nach Artikel 2 Absatz 2 für verarbeitete Lebensmittel verwendet werden, sofern:
+
+- a. das Lebensmittel die Anforderungen nach Artikel 16*j* erfüllt;
+- b. mindestens 95 Gewichtsprozent der Zutaten landwirtschaftlichen Ursprungs biologisch sind.
+
+<sup>2</sup> Im Verzeichnis der Zutaten dürfen die Bezeichnungen nach Artikel 2 Absatz 2 verwendet werden, sofern das Lebensmittel die Anforderungen nach Artikel 16*j* Absätze 1 und 2 Buchstaben a, b und d–f erfüllt.
+
+<sup>3</sup>
+
+Im Verzeichnis der Zutaten und im selben Sichtfeld wie die Sachbezeichnung dürfen die Bezeichnungen nach Artikel 2 Absatz 2 verwendet werden, sofern:
+
+- a. die Hauptzutat ein Erzeugnis der Jagd oder der Fischerei ist;
+- b. alle anderen Zutaten landwirtschaftlichen Ursprungs ausschliesslich biologisch sind;
+- c. das Lebensmittel die Anforderungen nach Artikel 16*j* Absätze 1 und 2 Buchstaben a, b und d–f erfüllt.
+
+<sup>4</sup> Im Verzeichnis der Zutaten ist anzugeben, welche Zutaten biologisch sind.
+
+<sup>5</sup> Wird eine Bezeichnung nach Absätze 2 oder 3 verwendet, so darf der Bezug auf die biologische Produktion nur im Zusammenhang mit den biologischen Zutaten gemacht werden. Im Verzeichnis der Zutaten muss der Gesamtanteil der biologischen Zutaten an den Zutaten landwirtschaftlichen Ursprungs angegeben werden.
+
+<sup>6</sup> Die Bezeichnungen und die Prozentangabe nach Absatz 5 müssen in derselben Farbe und Grösse und im selben Schrifttyp wie die übrigen Angaben im Verzeichnis der Zutaten erscheinen.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 20
+
+**Erzeugnisse aus Umstellungsbetrieben[^20-1]**
+
+<sup>1</sup> Nach Artikel 17 oder 18 Absatz 1 gekennzeichnete Erzeugnisse, die in Umstellungsbetrieben produziert wurden, müssen mit dem Umstellungsvermerk «hergestellt im Rahmen der Umstellung auf den ökologischen Landbau» oder «hergestellt im Rahmen der Umstellung auf die biologische Landwirtschaft» versehen werden.[^20-2]
+
+<sup>2</sup> Erzeugnisse aus Umstellungsbetrieben dürfen erst vier Monate nach dem Umstellungsdatum als biologische Erzeugnisse gekennzeichnet werden.
+
+<sup>3</sup> Solche Erzeugnisse dürfen nicht den Eindruck erwecken, dass sie aus vollständig umgestellten Betrieben stammen.
+
+<sup>4</sup> Der Umstellungsvermerk darf hinsichtlich Farbe, Grösse und Schrifttyp nicht auffallender als die Sachbezeichnung sein. Die Worte «ökologischer Landbau»/«biologische Landwirtschaft» dürfen nicht stärker hervorgehoben sein als die Worte «hergestellt im Rahmen der Umstellung auf»; die Hinweise auf die biologische Landwirtschaft dürfen hinsichtlich Farbe, Grösse und Schrifttyp nicht auffallender sein als der Umstellungsvermerk.
+
+<sup>5</sup> Auf Zutaten landwirtschaftlichen Ursprungs, die in Umstellungsbetrieben produziert wurden, darf in der Kennzeichnung nach Artikel 18 Absätze 2 und 3 mit dem Umstellungsvermerk hingewiesen werden. Sie werden nicht zum Gesamtanteil der biologischen Zutaten nach Artikel 18 Absatz 5 gerechnet.[^20-3]
+
+<sup>6</sup> In der Sachbezeichnung darf ein Bezug auf die biologische Landwirtschaft nur erfolgen, wenn das Erzeugnis nicht mehr als eine Zutat landwirtschaftlichen Ursprungs enthält.[^20-4]
+
+<sup>7</sup> Erzeugnisse aus Betrieben mit schrittweiser Umstellung dürfen nach einer Umstellungszeit der betreffenden Parzelle von zwei Jahren ohne Umstellungsvermerk gekennzeichnet werden, sofern sich sämtliche Betriebszweige in Umstellung befinden.
+
+[^20-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^20-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^20-4]: Fassung gemäss Ziff. I der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+
+#### Art. 21
+
+[^21-1]
+
+[^21-1]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 21a
+
+**Kennzeichnung von Futtermitteln**[^21a-1]
+
+<sup>1</sup>
+
+Auf verarbeiteten Futtermitteln dürfen die Bezeichnungen nach Artikel 2 Absatz 2 verwendet werden, sofern die folgenden Anforderungen erfüllt sind:
+
+- a. Das verarbeitete Futtermittel entspricht den Bestimmungen dieser Verordnung, insbesondere den Artikeln 16*a*, 16*k*<sup>bis</sup> und 16*l* sowie deren Ausführungsbestimmungen.
+- b. Alle im verarbeiteten Futtermittel enthaltenen Bestandteile pflanzlichen oder tierischen Ursprungs bestehen aus biologischen Futtermittel-Ausgangsprodukten.
+- c. Mindestens 95 Prozent der Trockenmasse des Erzeugnisses bestehen aus Futtermittel-Ausgangsprodukten biologischen Ursprungs.
+
+<sup>2</sup> Bei verarbeiteten Futtermitteln, die eine der Anforderungen nach Absatz 1 Buchstabe b oder c nicht erfüllen, darf ausschliesslich der Hinweis «gemäss Bio-Verordnung in der biologischen Landwirtschaft verwendbar» oder «gemäss Bio-Verordnung im ökologischen Landbau verwendbar» verwendet werden.
+
+[^21a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 21b
+
+**Weitere Anforderungen an die Kennzeichnung von Futtermitteln[^21b-2]**[^21b-1]
+
+Die Angaben nach Artikel 21*a* müssen folgende Anforderungen erfüllen:
+
+- a. Sie dürfen durch Farbe, Format oder Schriftstil des Futtermittels nicht stärker hervorgehoben sein als die Beschreibung oder die Bezeichnung des Futtermittels.
+- b. Sie müssen im selben Sichtfeld, bezogen auf die organische Substanz, den prozentualen Anteil an Futtermitteln, die auf biologischen Flächen und Futtermitteln, die auf Umstellungsflächen produziert wurden, angeben.
+- c.[^21b-3] ...
+- d. Sie müssen mit einer Auflistung der Bezeichnungen der Futtermittel-Ausgangsprodukte aus biologischem Landbau oder aus Umstellungsproduktion versehen sein.
+
+[^21b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Juli 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+[^21b-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21b-3]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 21c
+
+**Gemeinsame Kennzeichnungsbestimmungen**[^21c-1]
+
+<sup>1</sup>
+
+Die Codenummer der Zertifizierungsstelle, die für das Unternehmen, das die letzte Erzeugungs- oder Aufbereitungshandlung vorgenommen hat, zuständig ist, muss aufgeführt werden. Die Codenummer muss folgende Anforderungen erfüllen:
+
+- a. Sie muss mit dem Kürzel des Landes nach der internationalen Norm für die aus zwei Buchstaben bestehenden Ländercodes ISO 3166 beginnen.
+- b. Sie muss eine Bezeichnung mit Bezug auf die biologische Produktion enthalten.
+- c. Sie muss eine von der Schweizerischen Akkreditierungsstelle oder, bei Produkten, die durch ausländische Stellen zertifiziert werden, eine von der zuständigen Behörde vergebene Referenznummer enthalten.
+
+<sup>2</sup> Das BLW kann Weisungen zum Format der Codenummer erlassen.[^21c-2]
+
+[^21c-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^21c-2]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+
+## 4. Kapitel: Ausländische Erzeugnisse
+
+#### Art. 22
+
+**Grundsätze**
+
+Eingeführte Erzeugnisse dürfen als biologische Erzeugnisse gekennzeichnet werden, wenn:
+
+- a.[^22-1] sie nach Regeln produziert und aufbereitet worden sind, die jenen der Kapitel 2, 2*a* und 3 gleichwertig sind;
+- b. die Produktion einem Kontrollverfahren unterliegt, welches jenem des 5. Kapitels gleichwertig ist.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+
+#### Art. 23
+
+**Länderliste**
+
+<sup>1</sup> Das BLW erstellt eine Liste der Länder, die garantieren können, dass ihre Erzeugnisse die Bedingungen nach Artikel 22 erfüllen.[^23-1]
+
+<sup>2</sup> Die Liste gibt für jedes Land die zuständige Behörde sowie die anerkannten Zertifizierungsstellen an. Es können zudem die Produkte, die Regionen oder die Unternehmen spezifiziert sein.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+
+#### Art. 23a
+
+**Anerkennung von Zertifizierungsstellen und Kontrollbehörden ausserhalb der Länderliste**[^23a-1]
+
+<sup>1</sup> Zertifizierungsstellen und Kontrollbehörden, die aufgrund des Verfahrens nach Artikel 16 der Verordnung (EG) Nr. 1235/2008[^23a-2] im Verzeichnis nach Artikel 10 derselben Verordnung und im darin genannten Anhang IV in der jeweils in der EU geltenden Fassung aufgenommen sind, sind anerkannt. Sie können bescheinigen, dass die eingeführten Erzeugnisse die Bedingungen nach Artikel 22 Buchstabe a erfüllen.[^23a-3]
+
+<sup>2</sup> Das BLW kann auf Begehren hin weitere Zertifizierungsstellen und Kontrollbehörden, die nicht im Verzeichnis nach Absatz 1 und nicht in der Liste nach Artikel 23 aufgeführt sind, mit einer Aufnahme in eine Liste anerkennen, wenn die Zertifizierungsstellen und Kontrollbehörden nachweisen, dass die betroffenen Erzeugnisse die Bedingungen nach Artikel 22 erfüllen.[^23a-4]
+
+<sup>3</sup> Die Begehren um Aufnahme in die Liste sind beim BLW einzureichen. Die Unterlagen müssen alle Informationen enthalten, die erforderlich sind, um zu prüfen, ob die Zertifizierungsstellen und Kontrollbehörden die Bedingungen nach Artikel 22 erfüllen.[^23a-5]
+
+<sup>4</sup> Das BLW gibt in der Liste für jede Zertifizierungsstelle und Kontrollbehörde nach Absatz 2 die zugehörigen Länder, Codenummern, Erzeugniskategorien und Ausnahmen sowie allenfalls eine Befristung der Gültigkeit an.[^23a-6]
+
+<sup>5</sup>
+
+Die anerkannten Zertifizierungsstellen und Kontrollbehörden sind verpflichtet:
+
+- a. dem BLW auf Verlangen alle zusätzlichen Informationen zu senden, die dieses für erforderlich hält;
+- b. das BLW sofort über Änderungen bezüglich der Organisation, der Tätigkeit, der Verfahren und der Massnahmen zu informieren;
+- c. das BLW bei Unregelmässigkeiten und Verdacht auf Verstösse unverzüglich zu informieren.
+
+<sup>6</sup> Das BLW kann bei den Zertifizierungsstellen und Kontrollbehörden Stichprobenkontrollen durchführen.
+
+<sup>7</sup> Die Zertifizierungsstellen und Kontrollbehörden müssen interessierten Kreisen eine Liste aller von ihnen kontrollierten Unternehmen und zertifizierten Produkte in elektronischer Form zugänglich machen und regelmässig aktualisieren.
+
+<sup>8</sup> Sie müssen dem BLW jeweils bis zum 31. März einen Jahresbericht vorlegen.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^23a-2]: Verordnung (EG) Nr. 1235/2008 der Kommission vom 8. Dez. 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates hinsichtlich der Regelung der Einfuhren von ökologischen/biologischen Erzeugnissen aus Drittländern. ABl. L 334 vom 12.12.2008, S. 25; zuletzt geändert durch Durchführungsverordnung (EU) 2020/786, ABl. L 190 vom 16.6.2020, S. 20.
+[^23a-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-4]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-5]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-6]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+
+#### Art. 24
+
+**Kontrollbescheinigung**[^24-1]
+
+<sup>1</sup> Für Einfuhren ist eine Kontrollbescheinigung im System zur elektronischen Bescheinigung von Einfuhren biologischer Erzeugnisse der EU (Traces) nach der Verordnung (EG) 1235/2008[^24-2] auszustellen. Wird die Sendung vor der Veranlagung in mehrere Partien aufgeteilt, so muss für jede Partie, die sich aus der Aufteilung ergibt, eine Teilkontrollbescheinigung in Traces ausgestellt werden.
+
+<sup>2</sup> Die Schweiz nutzt das Informationssystem Traces der EU.
+
+<sup>3</sup> Das BLW erteilt den Zertifizierungsstellen und Unternehmen in der Schweiz die Zugangsrechte zu Traces. Es stützt sich dabei auf die Prüfung, die die Zertifizierungsstellen in Bezug auf die Identität der bei ihnen unter Vertrag stehenden Unternehmen vorgenommen haben. Es kann die Zugangsrechte zu Traces weiteren Behörden des Bundes und der Kantone erteilen, wenn dies zur Erfüllung ihrer Aufgaben nötig ist.
+
+<sup>4</sup> In Fällen, in denen das Informationssystem Traces nicht funktioniert, können Kontrollbescheinigungen und Teilkontrollbescheinigungen ausgestellt und mit einem Sichtvermerk versehen werden, ohne dass Traces verwendet wird.
+
+<sup>5</sup> Das WBF regelt die Kontrollbescheinigungen und die Teilkontrollbescheinigungen in Traces sowie die Verfahren.[^24-3]
+
+<sup>6</sup> Das BLW kann die Kontrollbescheinigungspflicht für Einfuhren aus Ländern nach Artikel 23 oder für solche, die von Stellen nach Artikel 23*a* Absatz 2 zertifiziert worden sind, erleichtern oder aufheben.[^24-4]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^24-2]: Verordnung (EG) Nr. 1235/2008 der Kommission vom 8. Dezember 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates hinsichtlich der Regelung der Einfuhren von ökologischen/biologischen Erzeugnissen aus Drittländern, ABl. L 334 vom 12.12.2008, S. 25; zuletzt geändert durch Durchführungsverordnung (EU) 2017/1473, ABl. L 210 vom 15.8.2017, S. 4.
+[^24-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^24-4]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+
+#### Art. 24a
+
+[^24a-1]
+
+[^24a-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2002 ([AS 2002 1939](https://fedlex.data.admin.ch/eli/oc/2002/291)). Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+## 5. Kapitel: Kontrollverfahren
+
+### 1. Abschnitt: Pflichten der Unternehmen
+
+#### Art. 24a<sup>bis</sup>
+
+**Allgemeine Pflichten**[^24abis-1]
+
+<sup>1</sup>
+
+Das Unternehmen ist verpflichtet:
+
+- a. alle Arbeitsgänge gemäss den Vorschriften dieser Verordnung durchzuführen;
+- b. im Fall eines Verstosses oder von Unregelmässigkeiten die Durchsetzung der für die biologische Produktion vorgesehenen Massnahmen zu akzeptieren;
+- c. im Fall eines Verstosses oder von Unregelmässigkeiten die Käufer des Erzeugnisses schriftlich zu informieren, um sicherzustellen, dass die Bezüge auf die biologische Produktion von den Erzeugnissen entfernt werden;
+- d. für den Fall, dass das Unternehmen oder dessen Subunternehmen von verschiedenen Zertifizierungsstellen kontrolliert wird, den Informationsaustausch zwischen diesen Stellen zu akzeptieren;
+- e. für den Fall, dass das Unternehmen oder dessen Subunternehmen seine Zertifizierungsstelle wechselt, die Übermittlung ihrer Kontrollakten an die neue Zertifizierungsstelle zu akzeptieren;
+- f. für den Fall, dass sich das Unternehmen oder dessen Subunternehmen aus dem Kontrollsystem zurückzieht, die betreffende zuständige Behörde und die Zertifizierungsstelle unverzüglich darüber zu informieren;
+- g. für den Fall, dass sich das Unternehmen oder dessen Subunternehmen aus dem Kontrollsystem zurückzieht, zu akzeptieren, dass sein Kontrolldossier mindestens fünf Jahre lang aufbewahrt wird;
+- h. die betreffende Zertifizierungsstelle unverzüglich über etwaige Unregelmässigkeiten oder Verstösse zu informieren, die den biologischen Status ihres Erzeugnisses oder von biologischen Erzeugnissen, die sie von anderen Unternehmern oder Subunternehmern bezogen haben, beeinträchtigen.
+
+<sup>2</sup> Das Unternehmen muss schriftlich erklären, dass es die Pflichten nach Absatz 1 einhält. In der Erklärung sind zudem die Beschreibung und die Massnahmen nach Anhang 1 Ziffer 1.1. Absatz 1 festzuhalten.
+
+[^24abis-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 25
+
+**Produzentinnen und Produzenten**
+
+<sup>1</sup>
+
+Die Produzentinnen und Produzenten sind verpflichtet:
+
+- a. eine Buchhaltung zu führen;
+- b.[^25-1] detaillierte Aufzeichnungen über den Pflanzenbau, die Nutztierhaltung und den Futter- und Hilfsstoffeinsatz zu führen;
+- c. auf dem Biobetrieb bzw. in der biologisch bewirtschafteten Einheit bei Betrieben mit Obst- und Weinbau nur Betriebsmittel aufzubewahren, deren Verwendung im Rahmen der biologischen Landwirtschaft zulässig ist;
+- d. der Zertifizierungsstelle zu Inspektionszwecken Zugang zu sämtlichen Wirtschaftsräumen und Parzellen sowie Einsicht in die Betriebsbuchhaltung und den entsprechenden Belegen zu gewähren und ihr zu Inspektionszwecken alle zweckdienlichen Auskünfte zu erteilen.
+
+<sup>2</sup> Im Übrigen gelten die Bestimmungen im Anhang 1.[^25-2]
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+#### Art. 26
+
+**Aufbereitungs-, Ein- und Ausfuhrunternehmen**[^26-1]
+
+<sup>1</sup>
+
+Die Aufbereitungs-, Ein- und Ausfuhrunternehmen sind verpflichtet:
+
+- a. eine Betriebsbuchhaltung zu führen, die von der Zertifizierungsstelle, soweit es für die Kontrolle notwendig ist, eingesehen werden kann;
+- b. Erzeugnisse, die nicht unter diese Verordnung fallen, getrennt zu lagern;
+- c. alle Massnahmen zu treffen, die zur Identifizierung der Warenpartien und zur Vermeidung der Vermischung mit Erzeugnissen, die nicht gemäss dieser Verordnung gewonnen wurden, erforderlich sind;
+- d. die Arbeitsgänge in geschlossener Folge und räumlich oder zeitlich getrennt von gleichartigen Arbeitsgängen für nicht unter diese Verordnung fallende Erzeugnisse durchzuführen;
+- e. der Zertifizierungsstelle zu Inspektionszwecken Zugang zu den Betriebsstätten sowie Einsicht in die Buchführung und in die einschlägigen Belege und Einfuhrbescheinigungen zu gewähren und ihr zu Inspektionszwecken alle zweckdienlichen Auskünfte zu erteilen.
+
+<sup>2</sup> Das Ein- oder Ausfuhrunternehmen muss sich gegenüber der Zertifizierungsstelle über jede ein- oder ausgeführte Sendung ausweisen können.
+
+<sup>3</sup> Im Übrigen gelten die Bestimmungen in Anhang 1.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5823](https://fedlex.data.admin.ch/eli/oc/2008/802)).
+
+#### Art. 27
+
+**Vermarktungsunternehmen und Lagerhalter[^27-1]**
+
+<sup>1</sup>
+
+Die Vermarktungsunternehmen und Lagerhalter sind verpflichtet:[^27-2]
+
+- a.[^27-3] für alle Produkte, die unter diese Verordnung fallen, die entsprechenden Belege eines zertifizierten Produktions-, Aufbereitungs-, Vermarktungs-, Lagerhaltungs- oder Einfuhrunternehmens vorweisen zu können;
+- b. Erzeugnisse, die nicht unter diese Verordnung fallen, getrennt zu lagern;
+- c. alle Massnahmen zu treffen, die zur Identifizierung der Warenpartien und zur Vermeidung der Vermischung mit Erzeugnissen, die nicht gemäss dieser Verordnung gewonnen wurden, erforderlich sind;
+- d.[^27-4] der Zertifizierungsstelle zu Inspektionszwecken Zugang zu den Betriebsstätten sowie Einsicht in die Buchführung und die entsprechenden Belege zu gewähren und ihr zu Inspektionszwecken alle zweckdienlichen Auskünfte zu erteilen.
+
+<sup>2</sup> Im Übrigen gelten die Bestimmungen im Anhang 1.[^27-5]
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^27-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4891](https://fedlex.data.admin.ch/eli/oc/2004/734)).
+[^27-4]: Eingefügt durch Ziff. I der V vom 8. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4831](https://fedlex.data.admin.ch/eli/oc/2006/746)).
+[^27-5]: Fassung gemäss Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+#### Art. 27a
+
+**Besondere Anforderungen an die Kontrolle von tierischen Erzeugnissen**[^27a-1]
+
+<sup>1</sup> Bei der Fleischerzeugung sind auf allen Stufen von Erzeugung, Schlachtung, Zerlegung und sonstigen Aufbereitungen bis hin zum Verkauf an die Konsumentinnen und Konsumenten alle Kontrollen vorzunehmen, die erforderlich sind, um – soweit dies technisch möglich ist – Herkunft und Verbleib der tierischen Erzeugnisse in der Produktions‑, Verarbeitungs- und Aufbereitungskette von der Einheit, in der die Tiere erzeugt werden, bis zur Einheit der endgültigen Verpackung und/oder Kennzeichnung nachzuweisen.
+
+<sup>2</sup> Für andere Erzeugnisse als Fleisch sind die besonderen Massnahmen zur Nachweisführung im Anhang 1 festgelegt.
+
+[^27a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+### 2. Abschnitt: Anforderungen an die Zertifizierungsstellen****
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 28
+
+**Anforderungen und Auflagen**[^28-1]
+
+<sup>1</sup>
+
+Die Zertifizierungsstellen müssen für ihre Tätigkeit gemäss dieser Verordnung auf Gesuch hin vom BLW zugelassen sein. Für die Zulassung müssen die Zertifizierungsstellen:
+
+- a. für ihre Tätigkeit nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^28-2] akkreditiert sein;
+- b. über eine festgelegte Organisation sowie Zertifizierungs- und Überwachungsverfahren verfügen, in denen insbesondere die Kriterien, die den von ihnen kontrollierten Unternehmen zur Auflage gemacht werden, sowie ein geeignetes Massnahmenkonzept bei festgestellten Unregelmässigkeiten festgelegt sind;
+- c. über die Sachkompetenz, Ausrüstung und Infrastruktur verfügen, die zur Wahrnehmung der Kontroll- und Zertifizierungstätigkeit gemäss dieser Verordnung notwendig sind;
+- d. über eine ausreichende Zahl von Mitarbeiterinnen und Mitarbeitern verfügen, die ausreichendes Fachwissen und ausreichende Kenntnisse der den biologischen Status von Erzeugnissen beeinträchtigenden Elemente haben;
+- e. sicherstellen, dass ihre Mitarbeiterinnen und Mitarbeiter über die erforderliche Qualifikation, Ausbildung und Erfahrung im Bereich der biologischen Produktion im Allgemeinen und der Vorschriften dieser Verordnung im Besonderen verfügen;
+- f. im Hinblick auf die Kontroll- und Zertifizierungstätigkeit gemäss dieser Verordnung unabhängig und frei von jeglichem Interessenkonflikt sein.
+
+<sup>2</sup> Sie müssen zudem die Aufgaben nach Anhang 1 und die Pflichten nach den Artikeln 30–30*e* erfüllen.
+
+<sup>3</sup> Die Zertifizierungsstellen müssen dem BLW Zugang zu ihren Räumen und Einrichtungen gewähren und jede Auskunft geben und Unterstützung leisten, die dem BLW zur Erfüllung seiner Aufgaben erforderlich sind. Dies schliesst die Mitwirkung bei der Inspektion des schweizerischen Kontrollsystems oder bei der Überprüfung durch ausländische Behörden (Peer Reviews) mit ein.
+
+<sup>4</sup> Das BLW kann die Zulassung einer Zertifizierungsstelle suspendieren oder entziehen, wenn eine Zertifizierungsstelle die Anforderungen und Auflagen nicht erfüllt. Das BLW informiert die Schweizerische Akkreditierungsstelle (SAS) umgehend über den Entscheid.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^28-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 29
+
+**Ausländische Zertifizierungsstellen**[^29-1]
+
+<sup>1</sup> Das BLW anerkennt nach Rücksprache mit der SAS ausländische Zertifizierungsstellen zur Tätigkeit auf schweizerischem Territorium, wenn diese eine gleichwertige Qualifikation wie die in der Schweiz geforderte nachweisen können.[^29-2]
+
+<sup>2</sup>
+
+Die Zertifizierungsstellen haben insbesondere:
+
+- a.[^29-3] die Anforderungen und Auflagen nach Artikel 28 zu erfüllen;
+- b.[^29-4] ...
+- c. die betreffende schweizerische Gesetzgebung zu kennen.
+
+<sup>3</sup> Mit dem Anerkennungsgesuch ist darzulegen, dass die Anforderungen nach den Absätzen 1 und 2 erfüllt werden.
+
+<sup>4</sup> Vorbehalten bleibt Artikel 18 Absatz 3 THG.
+
+<sup>5</sup>
+
+Das BLW kann die Anerkennung befristen und mit Auflagen verbinden. Insbesondere kann der Stelle zur Auflage gemacht werden:
+
+- a. die Überwachungstätigkeit des BLW über die in der Schweiz ausgeübten Aktivitäten zu dulden und zu unterstützen, insbesondere die Massnahmen nach den Artikeln 32–33*a*;
+- b. dem BLW über die Tätigkeit in der Schweiz nach Artikel 30*d* Absatz 3 detailliert Bericht zu erstatten;
+- c. die bei der Kontrolltätigkeit gewonnenen Daten und Informationen ausschliesslich zu Kontrollzwecken zu verwenden und die schweizerischen Vorschriften über den Datenschutz einzuhalten;
+- d. jede geplante Änderung der für die Anerkennung bedeutsamen Tatsachen vorher mit dem BLW abzustimmen;
+- e. eine angemessene Haftpflichtversicherung abzuschliessen oder ausreichende Rücklagen zu bilden.
+
+<sup>6</sup> Das BLW kann die Anerkennung aufheben, wenn die Anforderungen, Pflichten und Auflagen nicht erfüllt werden.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^29-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^29-4]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+### 3. Abschnitt: Pflichten der Zertifizierungsstellen****
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 30
+
+**Kontrollen**[^30-1]
+
+<sup>1</sup> Die Zertifizierungsstelle führt mindestens einmal, bei schrittweiser Umstellung mindestens zweimal jährlich eine Kontrolle pro Unternehmen durch. Sie überprüft alle der Zertifizierungspflicht unterstehenden Unternehmen darauf, ob sie die Vorschriften dieser Verordnung vollständig einhalten.
+
+<sup>2</sup> Zusätzlich führt die Zertifizierungsstelle stichprobenweise Kontrollen durch. Die Häufigkeit der Stichprobenkontrollen richtet sich nach der Risikobewertung der Unternehmen nach Artikel 30*a*<sup>bis</sup>; sie muss bei mindestens 10 Prozent der nach Absatz 1 der Zertifizierungspflicht unterstehenden Unternehmen durchgeführt werden.
+
+<sup>3</sup> Mindestens 10 Prozent aller nach den Absätzen 1 und 2 durchgeführten Inspektions- und Kontrollbesuche müssen unangekündigt sein.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 30a
+
+**Probenahme**[^30a-1]
+
+<sup>1</sup> Die Zertifizierungsstelle muss Proben entnehmen und diese auf in der biologischen Produktion unzulässige Produktionsmittel oder Produktionsverfahren oder Spuren davon untersuchen, wenn der Verdacht besteht, dass solche Produktionsmittel oder Produktionsverfahren verwendet werden.
+
+<sup>2</sup> Die Zertifizierungsstelle kann auch in jedem anderen Fall Proben entnehmen und untersuchen.
+
+<sup>3</sup> Die Zahl der von der Zertifizierungsstelle jährlich zu entnehmenden und zu untersuchenden Proben muss mindestens 5 Prozent der Zahl der ihrer Kontrolle unterstehenden Unternehmen entsprechen. Die Auswahl der Unternehmen, bei denen Proben zu entnehmen sind, richtet sich nach der allgemeinen Bewertung des Risikos der Nichteinhaltung der Vorschriften für die biologische Produktion. Bei der allgemeinen Bewertung des Risikos werden alle Stadien der Produktion, der Aufbereitung und des Vertriebs berücksichtigt.
+
+[^30a-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 30a<sup>bis</sup>
+
+**Risikobewertung von Unternehmen**[^30abis-1]
+
+Die Zertifizierungsstellen legen dem BLW Unterlagen über ihr Verfahren der Risikobewertung der ihrer Kontrolle unterliegenden Unternehmen vor. Die Risikobewertung berücksichtigt die Resultate früherer Kontrollen, die Menge der betroffenen Produkte und das Risiko der Vermischung biologischer mit nicht biologischer Ware. Die Risikobewertung ist die Grundlage für die Festlegung:
+
+- a. der Intensität der unangekündigten oder angekündigten jährlichen Kontrollen;
+- b. der unter Vertrag stehenden Unternehmen, bei denen zusätzliche Stichprobenkontrollen nach Artikel 30 Absatz 2 durchgeführt werden;
+- c. der nach Artikel 30 Absatz 3 durchgeführten Inspektions- und Kontrollbesuche, die unangekündigt sind;
+- d. der Unternehmen, bei denen unangekündigte Inspektionen und Besuche durchzuführen sind.
+
+[^30abis-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 30a<sup>ter</sup>
+
+**Bescheinigung**[^30ater-1]
+
+<sup>1</sup> Die Zertifizierungsstelle nach Artikel 23*a*, 28 oder 29 oder gegebenenfalls die Kontrollbehörde nach Artikel 23*a* stellt jedem Unternehmen, das ihren Kontrollen unterliegt und in ihrem Tätigkeitsbereich die Anforderungen dieser Verordnung erfüllt, eine entsprechende Bescheinigung aus. Die Bescheinigung muss über die Identität des Unternehmens, die Art oder das Sortiment der Erzeugnisse sowie über die Geltungsdauer der Bescheinigung Aufschluss geben.
+
+<sup>2</sup> Die Bescheinigung kann auch elektronisch ausgestellt werden, sofern ihre Authentizität mittels einer anerkannten fälschungssicheren elektronischen Methode gewährleistet ist.
+
+<sup>3</sup> Die Zertifizierungsstellen sind verpflichtet, ein gemeinsames, aktualisiertes Verzeichnis der gültigen Bescheinigungen zu veröffentlichen. Das BLW kann ihnen vorschreiben, wo die Bescheinigungen veröffentlicht werden müssen.
+
+[^30ater-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 30b
+
+**Kontrollmassnahmen**[^30b-1]
+
+<sup>1</sup>
+
+Die Zertifizierungsstelle trifft geeignete Kontrollmassnahmen, insbesondere bezüglich der Warenflüsse und der Rückstände unzulässiger Hilfsstoffe, falls:
+
+- a. nach Artikel 7 oder 9 nicht auf dem gesamten Betrieb biologisch produziert wird; oder
+- b. nach Artikel 13*a* vegetatives Vermehrungsmaterial aus nicht biologischer Produktion verwendet wird.
+
+<sup>2</sup> Das WBF kann Mindestanforderungen für diese Kontrollmassnahmen erlassen.
+
+[^30b-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+
+#### Art. 30c
+
+**Bericht**[^30c-1]
+
+Über jede Inspektion oder Überwachung wird ein Bericht angefertigt, der von der für das Unternehmen verantwortlichen Person gegenzuzeichnen ist.
+
+[^30c-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+
+#### Art. 30d
+
+**Verzeichnis der kontrollierten Unternehmen**[^30d-1]
+
+<sup>1</sup>
+
+Die Zertifizierungsstellen führen ein aktuelles Verzeichnis der Unternehmen, die ihrer Kontrolle unterstehen. Das Verzeichnis enthält insbesondere folgende Angaben:
+
+- a. Name und Adresse des Unternehmens;
+- b. Art der Tätigkeit und der Erzeugnisse;
+- c. bei Biobetrieben sämtliche Parzellen sowie der Zeitpunkt, an dem auf diesen letztmals unzulässige Mittel angewendet wurden.
+
+<sup>2</sup> Die Zertifizierungsstellen übermitteln dem BLW und den Organen der kantonalen Lebensmittelkontrolle jeweils bis am 31. Januar ein Verzeichnis der Unternehmen, die am 31. Dezember des Vorjahres ihrer Kontrolle unterstanden haben, sowie der für das laufende Jahr neu angemeldeten Unternehmen und legen alljährlich einen zusammenfassenden Bericht vor, namentlich über die Absprachen in Zusammenhang mit den Ausnahmen nach den Artikeln 16*a* Absatz 6, 16*c* Absatz 3, 16*e* Absatz 2 und 16*f* Absätze 5 und 6. Das BLW kann diesbezüglich Weisungen erlassen.
+
+<sup>3</sup> Das WBF kann Vorschriften betreffend die Übermittlung der Daten nach den Absätzen 1 und 2 erlassen.[^30d-2]
+
+[^30d-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+[^30d-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 30e
+
+**Meldepflicht und Informationsaustausch**[^30e-1]
+
+<sup>1</sup> Werden das Unternehmen oder seine Auftragnehmer von verschiedenen Zertifizierungsstellen oder durch von diesen beauftragte Dritte kontrolliert, so tauschen die beteiligten Zertifizierungsstellen untereinander beziehungsweise mit den von ihnen beauftragten Dritten die relevanten Informationen über die von ihnen kontrollierten Arbeitsgänge aus.
+
+<sup>2</sup> Die Zertifizierungsstelle meldet dem BLW und den zuständigen Organen der kantonalen Lebensmittelkontrolle unverzüglich, wenn ein ihr unterstehendes Unternehmen oder dessen Auftragnehmer zu einer anderen Zertifizierungsstelle wechselt.
+
+<sup>3</sup> Die bisherige Zertifizierungsstelle übergibt der neuen Zertifizierungsstelle die relevanten Bestandteile des Kontrolldossiers des betreffenden Unternehmens und die Berichte nach Anhang 1 Ziffer 1.1.4.
+
+<sup>4</sup> Die neue Zertifizierungsstelle stellt sicher, dass das Unternehmen im Bericht der bisherigen Zertifizierungsstelle festgehaltene Nichtkonformitäten behoben hat oder dabei ist, diese zu beheben.
+
+<sup>4bis</sup> Die Zertifizierungsstelle teilt ihre Entscheide nach den Artikeln 7–9 dieser Verordnung dem BLW und der zuständigen kantonalen Vollzugsbehörde mit.[^30e-2]
+
+<sup>5</sup>
+
+In folgenden Fällen informiert die Zertifizierungsstelle unverzüglich das BLW und das zuständigen Organ der kantonalen Lebensmittelkontrolle:
+
+- a. wenn sich ein Unternehmen aus dem Kontrollsystem zurückzieht;
+- b. wenn sie Unregelmässigkeiten oder Verstösse feststellt, durch die der biologische Status von Erzeugnissen beeinträchtigt wird;
+- c. wenn sie bei Erzeugnissen, die der Kontrolle anderer Zertifizierungsstellen unterliegen, Unregelmässigkeiten oder Verstösse feststellt.
+
+<sup>6</sup> Das BLW und das zuständige Organ der kantonalen Lebensmittelkontrolle können bei der Zertifizierungsstelle jede weitere Information über Unregelmässigkeiten oder Verstösse anfordern. Die Zertifizierungsstelle übermittelt diese Informationen unverzüglich.
+
+[^30e-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^30e-2]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+## 6. und 7. Kapitel:**** ...
+
+[^lvlu7-1]
+
+[^lvlu7-1]: Aufgehoben durch Ziff. I der V vom 7. Dez. 1998, mit Wirkung seit 1. Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+
+## 8. Kapitel: Schlussbestimmungen
+
+### 1. Abschnitt: Vollzug
+
+#### Art. 31
+
+**BLW**[^31-1]
+
+<sup>1</sup> Das BLW vollzieht diese Verordnung unter Vorbehalt von Artikel 34. Sind keine Lebensmittel betroffen, so vollzieht das BLW diese Verordnung nach der Landwirtschaftsgesetzgebung.
+
+<sup>2</sup>
+
+Das BLW:
+
+- a. führt eine Liste mit Namen und Adressen der dem Kontrollverfahren unterliegenden Unternehmen;
+- b. führt eine Liste der im Anwendungsbereich dieser Verordnung akkreditierten oder anerkannten Zertifizierungsstellen;
+- c. erfasst die festgestellten Verstösse und die verhängten Sanktionen;
+- d. informiert die betroffenen kantonalen Stellen und die Zertifizierungsstellen über Massnahmen nach Artikel 169 LwG;
+- e. überwacht die Zertifizierungsstellen (Art. 32 und 33).
+
+<sup>3</sup> Es kann Expertinnen und Experten beiziehen.
+
+[^31-1]: Ursprünglich im Kap. 6. Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 32
+
+**Überwachung der Zertifizierungsstellen**[^32-1]
+
+<sup>1</sup>
+
+Die Überwachungstätigkeit des BLW umfasst insbesondere:
+
+- a. die Bewertung der internen Verfahren der Zertifizierungsstellen für die Kontrollen, die Verwaltung und Prüfung von Kontrolldossiers auf Einhaltung der Anforderungen dieser Verordnung;
+- b. die Überprüfung der Vorgehensweise im Falle von Nichtkonformitäten und bei Einsprüchen und Beschwerden.
+
+<sup>2</sup> Das BLW stimmt seine Überwachungstätigkeit auf die Tätigkeit der SAS ab.
+
+<sup>3</sup> Das BLW stellt im Rahmen seiner Überwachungstätigkeit sicher, dass die Anforderungen nach den Artikeln 28 und 29 Absatz 2 erfüllt sind.
+
+<sup>4</sup> ...[^32-2]
+
+<sup>5</sup> Es kann Weisungen an die Zertifizierungsstellen erlassen. Die Weisungen umfassen auch einen Katalog zur Harmonisierung des Vorgehens der Zertifizierungsstellen bei Unregelmässigkeiten.
+
+[^32-1]: Ursprünglich im Kap. 7. Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^32-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+#### Art. 33
+
+**Jährliche Inspektion der Zertifizierungsstellen**[^33-1]
+
+Das BLW führt jährlich eine Inspektion der nach den Artikeln 28 und 29 in der Schweiz zugelassenen Zertifizierungsstellen durch, soweit dies nicht im Rahmen der Akkreditierung gewährleistet ist. Dabei überprüft das BLW insbesondere:
+
+- a. ob das Standardkontrollverfahren der Zertifizierungsstelle nach Artikel 28 Absatz 2 eingehalten wird;
+- b. ob die Zertifizierungsstelle die Anforderungen nach Artikel 28 Absatz 3 erfüllt;
+- c.
+
+  ob die Zertifizierungsstelle über schriftliche Verfahren und Vorlagen für folgende Aufgaben verfügt und diese anwendet:
+
+  - 1\. jährliche Risikobewertung nach Artikel 30*a*<sup>bis</sup> Absatz 1,
+  - 2\. Aufstellung einer risikobasierten Probennahmestrategie, Entnahme und Laboranalyse der Proben,
+  - 3\. Informationsaustausch mit anderen Zertifizierungsstellen oder von diesen beauftragten Dritten und mit den mit Vollzugaufgaben beauftragten Behörden,
+  - 4\. Durchführung von Erst- und Folgekontrollen der ihrer Kontrolle unterliegenden Unternehmen,
+  - 5\. Anwendung und Weiterverfolgung der getroffenen Massnahmen nach Artikel 32 Absatz 5 im Falle von Unregelmässigkeiten oder Verstössen,
+  - 6\. Einhaltung der Vorschriften des Bundesgesetzes vom 19. Juni 1992[^33-2] über den Datenschutz.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 33a
+
+**Informationssystem für biologisches Saatgut und vegetatives Vermehrungsmaterial**[^33a-1]
+
+<sup>1</sup>
+
+Das Forschungsinstitut für biologischen Landbau (FiBL) Frick führt ein Informationssystem «OrganicXseeds» für biologisches Saatgut und vegetatives Vermehrungsmaterial. Dieses Informationssystem:
+
+- a. ermöglicht den Eintrag von biologisch erzeugtem Vermehrungsmaterial; Neueinträge sind vom Anbieter zu beantragen;
+- b. ermöglicht den Nachweis der aktuellen Verfügbarkeit von biologisch erzeugtem Vermehrungsmaterial.
+
+<sup>2</sup> Der Zugang zum Informationssystem und das Herunterladen von Informationen über die aktuelle Verfügbarkeit von biologisch erzeugtem Vermehrungsmaterial sind für den Verwender unentgeltlich.
+
+<sup>3</sup>
+
+Das WBF regelt ausserdem insbesondere:
+
+- a. die Voraussetzungen für die Aufnahme einer Sorte in das Informationssystem;
+- b. den Zugang zu den Daten.
+
+[^33a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 34
+
+**Kantone**[^34-1]
+
+<sup>1</sup> Die Organe der kantonalen Lebensmittelkontrolle vollziehen diese Verordnung gemäss der Lebensmittelgesetzgebung.
+
+<sup>2</sup> Die kantonalen Veterinärdienste kontrollieren die Einhaltung der Bestimmungen dieser Verordnung in Schlachtanlagen im Rahmen der veterinärrechtlichen Kontrollen.
+
+<sup>3</sup> Stellen die Organe der kantonalen Lebensmittelkontrolle oder der kantonalen Veterinärdienste Verstösse fest, so informieren sie das BLW und die Zertifizierungsstellen.
+
+<sup>4</sup> Bei Verstössen gegen die Vorschriften der Tierschutz-, der Gewässerschutz-, der Umweltschutz- und der Natur- und Heimatschutzgesetzgebung informieren die betreffenden Vollzugsorgane die Zertifizierungsstellen und die Organe der kantonalen Lebensmittelkontrolle.
+
+<sup>5</sup> Die Nichteinhaltung von Vorschriften der Gewässerschutz-, der Umweltschutz und der Natur- und Heimatschutzgesetzgebung muss mit einem rechtskräftigen Entscheid festgestellt werden.
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 34a
+
+**Vollzug bei Futtermitteln**[^34a-1]
+
+<sup>1</sup> Der Vollzug der Vorschriften nach dieser Verordnung bei Futtermitteln auf allen Stufen der Produktion, der Verarbeitung und des Vertriebs der Futtermittel obliegt dem BLW im Rahmen der Regelung nach Artikel 70 der Futtermittel-Verordnung vom 26. Oktober 2011[^34a-2].
+
+<sup>2</sup> Stellt das BLW Verstösse bei Futtermitteln fest, so trifft es die erforderlichen Verwaltungsmassnahmen. Es informiert das zuständige Organ der kantonalen Lebensmittelkontrolle und die Zertifizierungsstellen.
+
+[^34a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+[^34a-2]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+
+### 2. Abschnitt: Änderung bisherigen Rechts
+
+#### Art. 35
+
+...[^35-1]
+
+[^35-1]: Die Änderungen können unter [AS 1997 2498](https://fedlex.data.admin.ch/eli/oc/1997/2498_2498_2498)konsultiert werden.
+
+### 3. Abschnitt: Übergangsbestimmungen
+
+#### Art. 36
+
+[^36-1]
+
+[^36-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 36a
+
+[^36a-1]
+
+[^36a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Aufgehoben durch Ziff. I der V vom 26. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 37
+
+[^37-1]
+
+[^37-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 38
+
+**Weinbau[^38-1]**
+
+<sup>1</sup> Bis zum 31. Dezember 2008 können im Weinbau einzelne Parzellen unabhängig vom Rest des Betriebes biologisch bewirtschaftet werden, sofern für den Rest des Betriebes der ökologische Leistungsnachweis nach den Artikeln 11–25 DZV[^38-2] erbracht wird.[^38-3]
+
+<sup>1bis</sup> Betriebe, die gestützt auf die Übergangsbestimmung nach Absatz 1 im Jahr 2008 einzelne Parzellen im Weinbau unabhängig vom Rest des Betriebes biologisch bewirtschafteten, können diese Parzellen unter denselben Voraussetzungen noch bis zum 31. Dezember 2011 biologisch bewirtschaften.[^38-4]
+
+<sup>2</sup> ...[^38-5]
+
+<sup>3</sup> Die Zertifizierungsstelle trifft geeignete Kontrollmassnahmen, insbesondere bezüglich der Warenflüsse und der Rückstände unzulässiger Hilfsstoffe. Das WBF kann Mindestanforderungen für diese Kontrollmassnahmen erlassen.
+
+<sup>4</sup> Die Zertifizierungsstelle meldet die Betriebe nach Absatz 1 unmittelbar nach Aufnahme des Kontrollverfahrens dem BLW.[^38-6]
+
+[^38-1]: Fassung gemäss Ziff. IV 59 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^38-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^38-3]: Fassung gemäss Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^38-4]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6181](https://fedlex.data.admin.ch/eli/oc/2007/822)).
+[^38-5]: Aufgehoben durch Ziff. IV 59 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^38-6]: Eingefügt durch Ziff. I der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
+
+#### Art. 39
+
+**Saatgut und vegetatives Vermehrungsmaterial**[^39-1]
+
+Saatgut und vegetatives Vermehrungsmaterial, das vor dem 1. Januar 2004 in Abweichung von Artikel 13*a* bestellt wurde, darf auch nach diesem Datum noch verwendet werden.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 39a und 39b
+
+[^39a39b-1]
+
+[^39a39b-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Aufgehoben durch Ziff. I der V vom 26. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
+
+#### Art. 39c
+
+**Beachtung allgemein anerkannter Regeln der Tierhaltung**[^39c-1]
+
+Bis zum Erlass von Tierhaltungsvorschriften nach Artikel 15 Absatz 3 sind die entsprechenden allgemein anerkannten Regeln der biologischen Landwirtschaft zu beachten.
+
+[^39c-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+
+#### Art. 39d
+
+**Anbindehaltung**[^39d-1]
+
+<sup>1</sup>
+
+Ziegen dürfen bis zum 31. Dezember 2022 in bereits vor dem 1. Januar 2001 bestehenden Gebäuden angebunden gehalten werden, sofern:[^39d-2]
+
+- a. die Vorschriften über den regelmässigen Auslauf im Freien eingehalten werden; und
+- b. die Tiere auf reichlich mit Einstreu versehenen Flächen gehalten und individuell betreut werden.
+
+<sup>2</sup> ...[^39d-3]
+
+[^39d-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
+[^39d-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4181](https://fedlex.data.admin.ch/eli/oc/2018/674)).
+[^39d-3]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)). Aufgehoben durch Ziff. I der V vom 30. Okt. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3731](https://fedlex.data.admin.ch/eli/oc/2002/580)).
+
+#### Art. 39e
+
+[^39e-1]
+
+[^39e-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Aufgehoben durch Ziff. IV 59 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 39f
+
+[^39f-1]
+
+[^39f-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2005, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)).
+
+#### Art. 39g
+
+[^39g-1]
+
+[^39g-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2000 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)). Aufgehoben durch Ziff. IV 59 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 39h
+
+**Tiere aus Embryotransfer**[^39h-1]
+
+Tiere aus Embryotransfer, welche bereits vor dem 1. Januar 2001 auf dem Betrieb gehalten wurden, können noch bis zu ihrem Abgang nach den Bestimmungen dieser Verordnung gehalten werden.
+
+[^39h-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
+
+#### Art. 39i
+
+[^39i-1]
+
+[^39i-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2005 ([AS 2005 5527](https://fedlex.data.admin.ch/eli/oc/2005/749)). Aufgehoben durch Ziff. I der V vom 26. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)).
+
+#### Art. 39j
+
+**Kennzeichnung**[^39j-1]
+
+Für die Kennzeichnung von Erzeugnissen gelten folgende Übergangsfristen:
+
+- a.[^39j-2] Bis zum 31. Dezember 2012 kann die Codenummer der Zertifizierungsstelle nach bisherigem Recht angegeben werden. Erzeugnisse und Verpackungsmaterial können ab dem 1. Januar 2013 noch bis zu deren Erschöpfung an Konsumentinnen und Konsumenten abgegeben werden.
+- b. Hefe und Hefeprodukte können bis zum 31. Dezember 2013 zu den Zutaten nicht landwirtschaftlichen Ursprungs gerechnet werden.
+
+[^39j-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^39j-2]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)).
+
+#### Art. 39k
+
+**Kennzeichnung von Futtermitteln**[^39k-1]
+
+<sup>1</sup> Futtermittel können bis zum 31. Dezember 2014 nach bisherigem Recht gekennzeichnet werden.
+
+<sup>2</sup> Am 1. Januar 2015 vorhandene Lagerbestände von Futtermitteln, die nach bisherigem Recht gekennzeichnet sind, können noch bis zur Erschöpfung der Bestände verkauft beziehungsweise bis zum Ablauf des Haltbarkeitsdatums verfüttert werden.
+
+[^39k-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+
+#### Art. 39l
+
+**Übergangsbestimmung zur Änderung vom 29. Oktober 2014**[^39l-1]
+
+Wurde vom BLW eine Einzelermächtigung nach Artikel 24 des bisherigen Rechts erteilt, so können die Erzeugnisse noch bis zum Ablauf der Einzelermächtigung als biologische Produkte vermarktet werden. Gesuche um Erteilung einer Einzelermächtigung, die bis zum 31. Dezember 2014 eingereicht wurden, werden nach bisherigem Recht behandelt.
+
+[^39l-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+#### Art. 39m
+
+**Übergangsbestimmungen zur Änderung vom 18. Oktober 2017**[^39m-1]
+
+<sup>1</sup> Bis zum 31. Dezember 2018 können Kontrollbescheinigungen noch nach bisherigem Recht ausgestellt werden.
+
+<sup>2</sup> Die Aufnahme in die Liste der anerkannten Zertifizierungsstellen und Kontrollbehörden nach Artikel 23*a* ersetzt die bisherige Anerkennung mittels Verfügung.
+
+<sup>3</sup> Die schweizerischen Zertifizierungsstellen, die vor dem Inkrafttreten der Änderung vom 18. Oktober 2017 im Rahmen dieser Verordnung bereits tätig waren und nach Artikel 28 Absatz 1 Buchstabe a akkreditiert sind, gelten als zugelassen als Zertifizierungsstelle nach Artikel 28 Absatz 1.
+
+[^39m-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+
+### 4. Abschnitt: Inkrafttreten
+
+#### Art. 40
+
+Diese Verordnung tritt am 1. Januar 1998 in Kraft.
+
+Anhang 1*[^t-2]*
+
+(Art. 9 Abs. 3, 24*a*<sup>bis</sup>, 25 Abs. 2, 26 Abs. 3, 27 Abs. 2, 27*a* Abs. 2 und 28 Abs. 2)
+
+## 1 Allgemeine Bestimmungen zum Kontrollverfahren
+
+[^t-2]: Fassung gemäss Ziff. II der V vom 18. Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Bereinigt gemäss Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5309](https://fedlex.data.admin.ch/eli/oc/2011/767)), Anhang 9 Ziff. 14 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)) und Ziff. II der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+
+### 1.1 Kontrollvorkehrungen des Unternehmens
+
+\1. Bei Aufnahme des Kontrollverfahrens stellt das Unternehmen auf:
+
+- a. eine vollständige Beschreibung des Betriebs oder der Einheit und der Tätigkeit;
+- b. Massnahmen, die zu treffen sind, um die Einhaltung dieser Verordnung zu gewährleisten;
+- c. Vorkehrungen zur Minimierung des Risikos einer Kontamination durch unzulässige Erzeugnisse oder Stoffe und die Reinigungsmassnahmen, die an Lagerplätzen und in der gesamten Produktionskette des Unternehmens durchzuführen sind.
+
+\2. Die Beschreibung und die Massnahmen nach Absatz 1 können Teil eines Qualitätssicherungssystems des Unternehmens sein.
+
+\3. Das Unternehmen aktualisiert die Aufstellung regelmässig.
+
+\4. Die Aufstellung nach Absatz 1 wird von der Zertifizierungsstelle überprüft. Die Zertifizierungsstelle hält in einem Bericht etwaige Mängel und Abweichungen von den Vorschriften zur biologischen Produktion fest. Das Unternehmen zeichnet den Bericht gegen und trifft alle Massnahmen, die notwendig sind für die Behebung der Mängel und die Konformität mit den Vorschriften.
+
+\5. Das Unternehmen teilt der Zertifizierungsstelle mit:
+
+- a. seinen Namen und seine Adresse;
+- b. Lage des Betriebes und der Parzellen (Katasterangaben), auf denen die Arbeitsgänge stattfinden werden;
+- c. Art der Arbeitsgänge und der Erzeugnisse;
+- d. Erklärung, wonach es sich verpflichtet die Arbeitsgänge nach dieser Verordnung durchzuführen;
+- e. im Falle eines landwirtschaftlichen Betriebs: das Datum, an dem der Produzent oder die Produzentin aufgehört hat, nicht für die biologische Produktion zugelassene Mittel auf den betreffenden Parzellen auszubringen.
+
+\6. Das Unternehmen teilt der Zertifizierungsstelle innert nützlicher Frist jede Änderung der Beschreibung oder der Massnahmen und Vorkehrungen mit.
+
+### 1.2 Buchführung
+
+\1. Die Einheit oder der Betrieb ist zur Buchführung verpflichtet. Diese muss die notwendigen Belege enthalten, anhand deren das Unternehmen Folgendes aufzeichnen bzw. die Zertifizierungsstelle Folgendes überprüfen kann:
+
+- a. den Lieferanten und den Verkäufer oder Exporteur der Erzeugnisse;
+- b. die Art und die Mengen der an die Einheit gelieferten biologischen Erzeugnisse und aller zugekauften Materialien sowie deren Verwendung und die Zusammensetzung der Mischfuttermittel;
+- c. die Art und die Mengen der in den Betriebsstätten gelagerten biologischen Erzeugnisse;
+- d. die Art, die Mengen und die Empfänger oder die Käufer, ausgenommen die Endverbraucherinnen und -verbraucher, aller Erzeugnisse, die die Einheit oder die Betriebs- und Lagerplätze der ersten Empfängers verlassen haben;
+- e. im Falle von Unternehmen, die derartige biologische Erzeugnisse weder lagern noch physisch mit ihnen umgehen: die Art und die Mengen gekaufter und verkaufter biologischer Erzeugnisse sowie die Lieferanten oder die Verkäufer oder Exporteure sowie die Käufer oder die Empfänger;
+- f. die Kontrollbescheinigungen nach Artikel 24*a* oder die Bescheinigungen nach Artikel 30 Absatz 1<sup>bis</sup>;
+- g. Angaben über die Zusammensetzung und die Herstellungsweise der verarbeiteten Erzeugnisse und Lebensmittel.
+
+\2. Die Bücher müssen auch die Ergebnisse der Überprüfung bei der Annahme biologischer Erzeugnisse und alle anderen Informationen umfassen, die die Zertifizierungsstelle für eine wirksame Kontrolle benötigt. Die Angaben in den Büchern sind durch entsprechende Belege zu dokumentieren. Aus den Büchern muss das Mengenverhältnis zwischen den eingesetzten Ausgangsstoffen und den erzeugten Produkten hervorgehen.
+
+### 1.3 Produktionsstätten
+
+Betreibt ein Unternehmen mehrere Produktionsstätten, so unterliegen auch die Produktionsstätten für nicht biologische Erzeugnisse, einschliesslich der Lagerplätze für Betriebsmittel, den Kontrollvorschriften dieses Anhangs.
+
+## 2 Pflanzenbau, pflanzliche Erzeugnisse und Sammlung von Wildpflanzen
+
+### 2.1 Kontrollvorkehrungen
+
+\1. Die vollständige Beschreibung nach Ziffer 1.1 Absatz 1 Buchstabe a muss:
+
+- a. Aufschluss geben über die Lagerplätze und Produktionsstätten, die Parzellen oder Sammelgebiete sowie die Betriebsstätten, an denen bestimmte Arbeitsgänge der Verarbeitung oder Verpackung stattfinden; und
+- b. das Datum enthalten, an dem auf den betreffenden Parzellen oder in den betreffenden Sammelgebieten letztmals Mittel ausgebracht wurden, deren Verwendung nicht mit den Vorschriften für die biologische Produktion vereinbar ist.
+
+\2. Die Beschreibung muss auch in Fällen erstellt werden, in denen das Unternehmen seine Tätigkeit auf das Sammeln von Wildpflanzen beschränkt.
+
+\3. Im Falle des Sammelns von Wildpflanzen muss von der Produzentin oder vom Produzent – oder wo relevant auch von Dritten – garantiert werden, dass auf den betroffenen Flächen seit mindestens drei Jahren keine unzulässigen Mittel eingesetzt worden sind.
+
+\4. Das Unternehmen legt der Zertifizierungsstelle jedes Jahr vor dem von dieser Stelle angegebenen Zeitpunkt seine nach Parzellen aufgeschlüsselte Anbauplanung vor.
+
+\5. Bewirtschaftet ein Betrieb nicht alle Betriebsteile nach den Produktionsregeln dieser Verordnung, so werden Parzellen, auf denen keine unter diese Verordnung fallenden Pflanzen angebaut werden, sowie die Lagerplätze für Betriebsmittel (wie Düngemittel, Pflanzenschutzmittel, Saatgut) ebenfalls der Kontrollregelung nach den Ziffern 1–4 dieses Anhangs unterworfen. Auf diesen Parzellen dürfen nur eindeutig unterscheidbare Erzeugnisse angebaut werden.
+
+\6. Wird der Wein- oder der Obstbau schrittweise umgestellt oder im Weinbau nur auf einzelnen Parzellen unabhängig vom Rest des Betriebes biologisch bewirtschaftet oder handelt es sich um für die Agrarforschung zugelassene Flächen, so können ausnahmsweise auf demselben Betrieb dieselben Sorten nach verschiedenen Produktionsregeln angebaut werden, wenn:
+
+- a. geeignete Vorkehrungen getroffen wurden, um sicherzustellen, dass die aus verschiedenen Einheiten stammenden Erzeugnisse stets voneinander getrennt gehalten werden; die Vorkehrungen müssen von der Zertifizierungsstelle genehmigt worden sein;
+- b. durch die Zertifizierungsstelle rechtzeitig eine Ernteschätzung vorgenommen werden kann;
+- c. die Zertifizierungsstelle unmittelbar nach Abschluss der Ernte über das genaue Ernteaufkommen der betreffenden Einheiten und über alle eine Identifizierung des Ernteguts ermöglichenden Merkmale (z.B. Qualität, Farbe, Durchschnittsgewicht usw.) unterrichtet wird.
+
+### 2.2 Buchführung über die pflanzliche Produktion
+
+Über die pflanzliche Produktion muss in Form eines Registers Buch geführt werden. Das Register muss der zuständigen Zertifizierungsstelle am Standort des Betriebs zur Verfügung gehalten werden. Diese Bucheintragungen müssen mindestens folgende Angaben umfassen:
+
+- a. zur Verwendung von Pflanzenschutzmitteln: den Grund und das Datum der Ausbringung, die Art des Mittels sowie die Ausbringungsmethode;
+- b. zum Zukauf von Betriebsmitteln: das Datum, die Art und die Menge des zugekauften Erzeugnisses;
+- c. zur Ernte: Datum, Art und Menge der biologischen Produkte oder der Umstellungsprodukte.
+
+## 3 Tiere und tierische Erzeugnisse
+
+### 3.1 Kontrollvorkehrungen
+
+\1. Bei Aufnahme des speziell für die tierische Produktion geltenden Kontrollverfahrens muss die vollständige Beschreibung der Einheit nach Ziffer 1.1 Absatz 1 Buchstabe a folgende Angaben umfassen:
+
+- a. eine vollständige Beschreibung der Haltungsgebäude, Weiden, Auslaufflächen und Plätze für die Lagerung, Verpackung und Verarbeitung der Tiere, tierischen Erzeugnisse, Rohstoffe und Betriebsmittel;
+- b. eine vollständige Beschreibung der Lagerplätze für die Wirtschaftsdünger tierischer Herkunft.
+
+\2. Die in Ziffer 1.1 Absatz 1 Buchstabe b vorgesehenen Massnahmen müssen Folgendes umfassen:
+
+- a. die Aufzeichnung nach Anhang 1 Ziffer 1 DZV[^annex1-lvl3-lvl31-1];
+- b. in Bezug auf die Ausbringung der Wirtschaftsdünger tierischer Herkunft die Hofdüngerabnahmeverträge mit anderen Betrieben nach Artikel 12 Absätze 4 und 6, die den ökologischen Leistungsnachweis nach der DZV erfüllen;
+- c. einen Bewirtschaftungsplan für die biologische Tierproduktionseinheit.
+
+\3. Die Kontrollanforderungen müssen den Bestimmungen dieses Anhanges sinngemäss entsprechen bei Betrieben, die von einer Nutztierkategorie nur Tiere halten:
+
+- a. deren Haltung keinerlei kommerziellen Charakter aufweist;
+- b. die nicht für Beiträge nach Artikel 62 Absatz 2 DZV bzw. für Kaninchen Artikel 62 Absatz 1 DZV angemeldet sind; und
+- c. deren Erzeugnisse nicht vermarktet werden.
+
+[^annex1-lvl3-lvl31-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
+### 3.2 Tierkennzeichnung
+
+Die Tiere müssen dauerhaft mit einer artgerechten Kennzeichnung versehen sein, einzeln bei grossen Säugetieren und einzeln oder partienweise bei Geflügel und kleinen Säugetieren.
+
+### 3.3 Aufzeichnungen
+
+Nach der TVD-Verordnung vom 26. Oktober 2011[^annex1-lvl3-lvl33-1] führt jeder Tierhalter und jede Tierhalterin ein Verzeichnis der Tiere der Rinder- und Schweinegattung und der Equiden, die auf dem Betrieb gehalten werden. Für die übrigen Tiere wird ein Verzeichnis in Form eines Registers geführt; es muss der Zertifizierungsstelle am Betriebssitz ständig zugänglich gehalten werden. Folgende Aufzeichnungen, die lückenlos Aufschluss über die Bestands- oder Herdenführung geben müssen, gelten für alle Tierarten und müssen zumindest die folgenden Angaben umfassen:
+
+- a. Tierzugänge: Herkunft und Zeitpunkt des Zugangs, Umstellungszeitraum, Kennzeichen, tierärztliche Vorgeschichte;
+- b. Tierabgänge: Alter, Anzahl der Tiere, Gewicht im Fall der Schlachtung, Kennzeichen und Empfänger;
+- c. Einzelheiten über Tierverluste und deren Gründe;
+- d. Futter: Art des Futtermittels, einschliesslich der Futterzusätze, Anteil der verschiedenen Bestandteile der Futterrationen, Auslaufperioden, Zeiten der Wandertierhaltung für den Fall von Beschränkungen;
+- e. Behandlungsjournal nach Artikel 16*d* Absatz 4.
+
+[^annex1-lvl3-lvl33-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+
+## 4 Aufbereitung von pflanzlichen und tierischen Erzeugnissen und von Lebensmitteln
+
+\1. Im Fall von Einheiten, die auf eigene oder fremde Rechnung biologische Erzeugnisse aufbereiten, muss die Beschreibung der Einheit nach Ziffer 1.1 Absatz 1 Buchstabe a Angaben enthalten zu den Anlagen, die für die Annahme, Verarbeitung, Verpackung, Kennzeichnung und Lagerung landwirtschaftlicher Erzeugnisse vor und nach den sie betreffenden Arbeitsgängen verwendet werden, sowie über die Verfahren für den Transport der Erzeugnisse.
+
+\2. Betriebe, die eigene oder betriebsfremde Produkte aufarbeiten, können im Laufe der ordentlichen Betriebskontrolle durch die Zertifizierungsstelle überprüft werden. Sie haben die Kontrollanforderungen sinngemäss einzuhalten. Insbesondere ist die lückenlose Rückverfolgbarkeit der betriebsfremden Produkte zu gewährleisten.
+
+## 5 Kontrollvorschriften für die Einfuhr
+
+### 5.1 Geltungsbereich
+
+Dieses Kapitel betrifft jedes Unternehmen, das als Importeur oder erster Empfänger auf eigene oder fremde Rechnung an der Einfuhr oder Annahme von biologischen Erzeugnissen beteiligt ist.
+
+### 5.2 Kontrollvorkehrungen
+
+\1. Im Fall des Importeurs muss die Beschreibung der Einheit nach Ziffer 1.1 Absatz 1 Buchstabe a Aufschluss geben über den Betrieb des Importeurs und seine Einfuhrtätigkeiten sowie Angaben enthalten zu den Grenzzollstellen und Lagereinrichtungen. Der Importeur muss sich in der Aufstellung nach Ziffer 1.1 Absätze 1 Buchstabe a und 4 verpflichten, dass von ihm verwendete Lagereinrichtungen entweder von der Zertifizierungsstelle oder, wenn diese Lagerplätze in einem anderen Land liegen, von einer von dem betreffenden Land für derartige Kontrollen zugelassenen Kontrollbehörde oder Kontrollstelle kontrolliert wird.
+
+\2. Im Fall des ersten Empfängers sind in der Beschreibung der Einheit nach Ziffer 1.1 Absatz 1 Buchstabe a die Einrichtungen anzugeben, die für die Annahme und Lagerung verwendet werden.
+
+### 5.3 Buchführung
+
+\1. Importeur und erster Empfänger führen separate Bestands- und Finanzbücher, es sei denn, sie sind in ein und derselben Einheit tätig.
+
+\2. Auf Anfrage der Zertifizierungsstelle sind alle Angaben über den Transport vom Ausfuhrbetrieb im Drittland zum ersten Empfänger und von den Betriebsstätten oder Lagerplätzen des ersten Empfängers zu den Empfängern mitzuteilen.
+
+### 5.4 Kontrollbesuche
+
+Die Zertifizierungsstelle prüft die Bücher nach Ziffer 5.3 und die Bescheinigung nach Artikel 30 Absatz 1<sup>bis</sup> oder die Kontrollbescheinigung nach Artikel 24*a*.
+
+## 6 Kontrollvorschriften für Einheiten, die Arbeitsgänge an Dritte vergeben haben
+
+Einheiten, die Arbeitsgänge an Dritte vergeben, tragen die rechtliche und finanzielle Verantwortung für die Einhaltung der Anforderungen an die biologische Produktion und Verarbeitung. Hinsichtlich der Arbeitsgänge, die an Dritte vergeben werden, ausgenommen Erntearbeiten, muss die Beschreibung der Einheit nach Ziffer 1.1 Absatz 1 Buchstabe a Folgendes umfassen:
+
+- a. eine Liste der Auftragnehmer mit einer Beschreibung ihrer Tätigkeiten und Angaben zu den Kontrollstellen oder Kontrollbehörden, denen sie unterstehen;
+- b. eine schriftliche Zustimmung der Auftragnehmer, dass ihr Betrieb dem Kontrollverfahren nach dieser Verordnung unterstellt wird;
+- c. alle konkreten Massnahmen, die die Einheit treffen muss, um sicherzustellen, dass für die vom Unternehmen in den Verkehr gebrachten Erzeugnisse soweit erforderlich die Lieferanten, Verkäufer, Empfänger und Käufer festgestellt werden können.
+
+## 7 Kontrollvorschriften für Futtermittelhersteller
+
+### 7.1 Geltungsbereich
+
+Dieses Kapitel gilt für Einheiten, die auf eigene oder fremde Rechnung Erzeugnisse nach Artikel 1 Absatz 1 Buchstabe c dieser Verordnung aufbereiten. Ausgenommen sind lebensmittelverarbeitende Betriebe, bei denen einzelne Futtermittel-Ausgangsprodukte als Nebenprodukte anfallen sowie Getreidesammelstellen.
+
+### 7.2 Kontrollvorkehrungen
+
+\1. Die Beschreibung der Einheit nach Ziffer 1.1 Absatz 1 Buchstabe a muss Folgendes umfassen:
+
+- a. Angaben über die Einrichtungen für die Annahme, Aufbereitung und Lagerung der für Futtermittel bestimmten Erzeugnisse vor und nach den sie betreffenden Arbeitsgängen;
+- b. Angaben über die Einrichtungen, in denen andere zur Aufbereitung von Futtermitteln verwendete Erzeugnisse gelagert werden;
+- c. Angaben über die Einrichtungen, in denen Reinigungs- und Desinfektionsmittel gelagert werden;
+- d. Beschreibung der Mischfuttermittel, die das Unternehmen herzustellen beabsichtigt, sowie Angabe der Tierart oder der Tierkategorie, für die das Mischfuttermittel bestimmt ist;
+- e. die Bezeichnung der Futtermittel-Ausgangsprodukte, die das Unternehmen aufzubereiten beabsichtigt.
+
+\2. Die Massnahmen, die Unternehmen nach Ziffer 1.1 Absatz 1 Buchstabe b treffen müssen, umfassen insbesondere die folgenden Massnahmen:
+
+- a. Biologische Erzeugnisse und Umstellungsfuttermittel-Ausgangsprodukt oder daraus hergestellte Futtermittel sind von nicht biologischen Futtermitteln physisch getrennt.
+- b.
+
+  Sofern nicht alle Einheiten der Anlagen, die zur Aufbereitung der Mischfuttermittel nach dieser Verordnung verwendet werden, von Anlagen für nicht unter diese Verordnung fallende Mischfuttermittel getrennt sind:
+
+  - 1\. Die Produktionslinie wird vor Beginn der Aufbereitung der unter diese Verordnung fallenden Futtermittel einer geeigneten Reinigung unterzogen, deren Wirksamkeit kontrolliert worden ist.
+  - 2\. Das Unternehmen dokumentiert die entsprechenden Arbeitsgänge.
+
+\3. Die Zertifizierungsstelle bewertet die Risiken, die mit den einzelnen Aufbereitungseinheiten verbunden sind, und erstellt einen Kontrollplan. Dieser Kontrollplan muss eine den potenziellen Risiken angepasste Mindestanzahl Zufallsstichproben vorsehen.
+
+### 7.3 Buchführung
+
+Zur ordnungsgemässen Kontrolle der Arbeitsgänge müssen die Bücher Angaben über Ursprung, Art und Mengen der Futtermittel-Ausgangsprodukte, der Zusatzstoffe, der Verkäufe und der Enderzeugnisse umfassen.
+
+### 7.4 Kontrollbesuche
+
+\1. Der Kontrollbesuch beinhaltet eine vollständige Betriebsinspektion. Darüber hinaus führt die Zertifizierungsstelle auf Basis einer allgemeinen Bewertung der potenziellen Risiken der Nichteinhaltung der Vorschriften für die biologische Produktion zielgerichtete Besuche durch.
+
+\2. Biobetriebe, die eigene oder betriebsfremde Produkte aufarbeiten, können im Laufe der ordentlichen Betriebskontrolle durch die Zertifizierungsstelle überprüft werden. Sie haben die Kontrollanforderungen sinngemäss einzuhalten. Insbesondere ist die lückenlose Rückverfolgbarkeit der betriebsfremden Produkte zu gewährleisten.
+
+## 8 Abholung, Verpackung, Beförderung und Lagerung von Erzeugnissen
+
+### 8.1 Abholung und Beförderung zu Aufbereitungseinheiten
+
+Unternehmen können biologische und nicht biologische Erzeugnisse nur dann im Sammeltransportverfahren gleichzeitig abholen, wenn geeignete Vorkehrungen getroffen wurden, um jedes mögliche Vermischen oder Vertauschen mit nicht biologischen Erzeugnissen zu unterbinden, und wenn die Identifizierung der biologischen Erzeugnisse gewährleistet ist. Das Unternehmen stellt der Zertifizierungsstelle Informationen über die Tage und die Uhrzeiten der Abholung, die Abholrunde sowie das Datum und die Uhrzeit der Annahme der Erzeugnisse zur Verfügung.
+
+### 8.2 Verpackung und Beförderung zu anderen Unternehmen oder Einheiten
+
+\1. Die Unternehmen tragen dafür Sorge, dass biologische Erzeugnisse zu anderen Einheiten, einschliesslich Gross- und Einzelhändlern, nur in geeigneten Verpackungen, Behältnissen oder Transportmitteln befördert werden, die so verschlossen sind, dass der Inhalt ohne Manipulation oder Zerstörung der Plombe oder des Siegels nicht ausgetauscht werden kann, und deren Etikett folgende Angaben enthält:
+
+- a. den Namen und die Adresse des Unternehmens, des Eigentümers oder Verkäufers des Erzeugnisses;
+- b. die Bezeichnung des Erzeugnisses oder im Fall von Mischfuttermitteln ihre Beschreibung einschliesslich des Bezuges auf die biologische Produktion;
+- c. die Codenummer der Zertifizierungsstelle, die für das Unternehmen zuständig ist;
+- d. die Kennzeichnung der Partie oder des Loses, anhand deren die Partie oder das Los den Bucheintragungen zugeordnet werden kann.
+
+Diese Angaben können auch auf einem Begleitpapier vermerkt werden, wenn dieses Dokument eindeutig der Verpackung, dem Behältnis oder dem Transportmittel des Erzeugnisses zugeordnet werden kann. Das Begleitpapier muss Angaben über den Lieferanten und das Transportunternehmen enthalten.
+
+\2. Die Verpackung, die Behältnisse oder die Transportmittel müssen nicht verschlossen werden, wenn:
+
+- a. die Erzeugnisse auf direktem Weg von einem Unternehmen zu einem anderen Unternehmen befördert werden, die beide dem biologischen Kontrollsystem unterliegen;
+- b. die Erzeugnisse von einem Dokument begleitet werden, das die Angaben nach Ziffer 8.2 Absatz 1 enthält;
+- c. sowohl Versender als auch Empfänger über diese Transportvorgänge Buch führen und die Bücher der zuständigen Zertifizierungsstelle zur Verfügung halten.
+
+### 8.3 Beförderung von Futtermitteln
+
+Über die Bestimmungen von Ziffer 8.2 hinaus tragen Unternehmen bei der Beförderung von Futtermitteln zu anderen Produktions- oder Aufbereitungseinheiten oder Lagerplätzen dafür Sorge, dass die folgenden Voraussetzungen erfüllt sind:
+
+- a. Biologisch erzeugte Futtermittel und Umstellungsfuttermittel müssen physisch von nicht biologischen Futtermitteln getrennt werden.
+- b.
+
+  Die Transportmittel und Behältnisse, in denen nicht biologische Erzeugnisse befördert wurden, dürfen zur Beförderung biologischer Erzeugnisse nur verwendet werden, sofern:
+
+  - 1\. vor der Beförderung von biologischen Erzeugnissen angemessene Reinigungsmassnahmen durchgeführt wurden, deren Wirksamkeit kontrolliert wurde; Unternehmen müssen über die Reinigungsvorgänge Buch führen;
+  - 2\. je nach Risikobewertung nach Ziffer 7.2 Absatz 3 alle erforderlichen Vorkehrungen getroffen wurden und das Unternehmen garantiert, dass nicht biologische Erzeugnisse nicht mit einem Bezug auf die biologische Produktion in den Verkehr gebracht werden können;
+  - 3\. das Unternehmen über die Beförderungsvorgänge Buch führt und die Bücher der Zertifizierungsstelle zur Verfügung hält.
+
+- c. Biologische Futtermittel-Fertigerzeugnisse werden physisch oder zeitlich von anderen Fertigerzeugnissen getrennt befördert.
+- d. Bei der Beförderung werden die zu Beginn der Auslieferungsrunde abgehende Erzeugnismenge und alle während der Auslieferungsrunde einzeln ausgelieferten Erzeugnismengen aufgezeichnet.
+
+### 8.4 Annahme von Erzeugnissen
+
+Bei Annahme eines biologischen Erzeugnisses kontrolliert das Unternehmen den Verschluss der Verpackung oder des Behältnisses, soweit dieser vorgeschrieben ist, sowie das Vorhandensein der Angaben nach Ziffer 8.2.
+
+Das Unternehmen führt eine Gegenkontrolle der Angaben auf dem Etikett gemäss Ziffer 8.2. mit den Angaben auf den Begleitpapieren durch. Das Ergebnis dieser Überprüfung wird in den Büchern nach Ziffer 1.2 ausdrücklich vermerkt.
+
+### 8.5 Annahme von Erzeugnissen aus Drittländern
+
+Biologische Erzeugnisse aus Drittländern sind in geeigneten Verpackungen oder Behältnissen einzuführen, die so verschlossen sind, dass ihr Inhalt nicht ausgetauscht werden kann, die mit Angaben zur Identifizierung des Exporteurs sowie anderen Zeichen und Nummern versehen sind, mit denen die Partie oder das Los identifiziert werden kann, und die mit der erforderlichen Bescheinigung für Einfuhren versehen sind.
+
+Bei Annahme eines aus einem Drittland eingeführten biologischen Erzeugnisses kontrolliert der erste Empfänger den Verschluss der Verpackung oder des Behältnisses und die Übereinstimmung der Angaben auf der Bescheinigung mit der Art der Erzeugnisse in der Sendung. Das Ergebnis dieser Überprüfung wird in den Büchern ausdrücklich vermerkt.
+
+### 8.6 Lagerung von Erzeugnissen
+
+\1. Bereiche, in denen Erzeugnisse gelagert werden, sind so zu bewirtschaften, dass die gelagerten Partien oder Lose identifiziert werden können und jede Vermischung mit und jede Verunreinigung durch Erzeugnisse oder Stoffe, die den Vorschriften für die biologische Produktion nicht genügen, vermieden wird. Biologische Erzeugnisse müssen jederzeit eindeutig identifizierbar sein.
+
+\2. Die Lagerung von anderen als den im Rahmen dieser Verordnung zugelassenen Betriebsmitteln in der Produktionseinheit ist verboten. Ausgenommen sind Betriebe, die im Rahmen einer Ausnahmeregelung nach Artikel 7, 9 oder 38 wirtschaften.
+
+\3. Die Lagerung von allopathischen Tierarzneimitteln und Antibiotika in Betrieben ist zulässig, sofern sie von einem Tierarzt oder einer Tierärztin im Rahmen der Behandlung verschrieben wurden.
+
+\4. Soweit Unternehmen sowohl mit nicht biologischen Erzeugnissen als auch biologischen Erzeugnissen umgehen und letztere an Lagerplätzen gelagert werden, die auch zur Aufbewahrung anderer Agrarprodukte oder Lebensmittel dienen, so sind:
+
+- a. die biologischen Erzeugnisse von den anderen Agrarprodukten und Lebensmitteln getrennt aufzubewahren;
+- b. alle erforderlichen Massnahmen zu treffen, um die Identifizierung der Warensendungen sicherzustellen und jedes Vermischen oder Vertauschen mit nicht biologischen Erzeugnissen zu vermeiden;
+- c. vor der Einlagerung biologischer Erzeugnisse geeignete Reinigungsmassnahmen durchzuführen, deren Wirksamkeit kontrolliert wurde; die Unternehmen führen Buch über diese Massnahmen.
+
+Anhang 2*[^t-3]*
+
+[^t-3]: Aufgehoben durch Ziff. II der V vom 7. Dez. 1998, mit Wirkung seit 1. Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).

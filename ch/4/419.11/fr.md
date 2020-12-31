@@ -1,0 +1,224 @@
+---
+sr: "419.11"
+title: Ordonnance du 24 février 2016 sur la formation continue (OFCo)
+short: OFCo
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/133"
+language: fr
+version: 2017-01-01
+adopted: 2016-02-24
+in_force: 2017-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/133/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-133-20170101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/133/20170101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la formation continue
+
+(OFCo)
+
+du 24 février 2016 (État le 1<sup>er</sup> janvier 2017)
+
+Le Conseil fédéral suisse,
+
+vu les art. 12, al. 3, 16, al. 2, et 20 de la loi du 20 juin 2014 sur la formation continue (LFCo)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+
+## Section 1 Aides financières en faveur d’organisations actives dans le domaine de la formation continue
+
+### (art. 12, al. 3, LFCo)
+
+#### Art. 1
+
+**Organisations actives dans le domaine de la formation continue**
+
+<sup>1</sup>
+
+Les organisations actives dans le domaine de la formation continue qui peuvent être soutenues financièrement en vertu de l’art. 12 LFCo doivent remplir, en plus des conditions définies à l’art. 12, al. 2, LFCo, les conditions suivantes:
+
+- a. elles s’occupent de manière prépondérante de questions liées à la formation continue;
+- b. elles fournissent des prestations d’ordre général au profit de la formation continue.
+
+<sup>2</sup> Est réputée organisation active à l’échelle nationale dans le domaine de la formation continue toute organisation active à la fois en Suisse romande, en Suisse alémanique et en Suisse italienne et dont l’activité déploie des effets suprarégionaux, notamment dans plusieurs régions linguistiques.
+
+#### Art. 2
+
+**Prestations soutenues**
+
+<sup>1</sup>
+
+Des aides financières peuvent être octroyées pour les prestations suivantes:
+
+- a. information du public sur des thèmes liés à la formation continue, en particulier mesures de sensibilisation à l’apprentissage tout au long de la vie;
+- b. prestations de coordination qui renforcent le système de la formation continue, notamment dans le cadre de réseaux;
+- c. mesures d’intérêt essentiellement public destinées à l’assurance et au développement de la qualité et au développement de la formation continue.
+
+<sup>2</sup> Le Département fédéral de l’économie, de la formation et de la recherche peut proposer au Conseil fédéral des priorités thématiques pour la période de financement couverte par le message relatif à l’encouragement de la formation, de la recherche et de l’innovation (période FRI).
+
+#### Art. 3
+
+**Calcul et durée des aides financières**
+
+<sup>1</sup> Les aides financières couvrent une partie des coûts pris en compte pour les prestations visées à l’art. 2.
+
+<sup>2</sup>
+
+Sont considérés comme coûts pris en compte:
+
+- a.
+
+  les frais ci-après qui sont directement liés aux prestations mentionnées à l’art. 2:
+
+  - 1\. les frais de personnel et ceux liés aux postes de travail,
+  - 2\. les frais de matériel;
+
+- b. les frais indirects (*overhead*).
+
+<sup>3</sup> Le montant des aides financières est fonction de l’intérêt que la prestation représente pour la Confédération, des prestations propres que l’on peut raisonnablement exiger du demandeur et du crédit disponible.
+
+<sup>4</sup> Les aides financières sont octroyées pour une période FRI.
+
+#### Art. 4
+
+**Demande**
+
+<sup>1</sup>
+
+La demande d’octroi d’une aide financière doit comprendre les éléments suivants:
+
+- a.
+
+  informations sur le demandeur:
+
+  - 1\. preuve de la conformité aux critères visés à l’art. 12, al. 2, LFCo et à l’art. 1 de la présente ordonnance,
+  - 2\. rapport annuel et comptes annuels approuvés;
+
+- b.
+
+  informations sur les prestations à soutenir:
+
+  - 1\. description précise des prestations, avec mention d’objectifs et de mesures clairs, réalistes et mesurables ainsi que du budget nécessaire à cet effet,
+  - 2\. preuve du besoin de la prestation.
+
+<sup>2</sup> Le dossier de la demande doit être déposé au Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) au plus tard le 30 avril de la dernière année d’une période FRI. La demande concerne la période FRI suivante.
+
+<sup>3</sup> Le SEFRI fournit les formulaires destinés au dépôt de la demande[^4-1].
+
+<sup>4</sup> Lorsque le SEFRI constate que plusieurs demandes portent sur des prestations identiques ou similaires, il les renvoie aux expéditeurs en leur demandant de coordonner leurs prestations.
+
+[^4-1]: [www.sbfi.admin.ch/formation](http://www.sbfi.admin.ch/formation)-continue
+
+#### Art. 5
+
+**Décision et convention de prestations**
+
+<sup>1</sup> Le SEFRI décide de l’octroi, des conditions, de la durée et du montant des aides financières ainsi que des modalités de paiement.
+
+<sup>2</sup> Les aides financières sont octroyées sur la base d’une convention de prestations.
+
+#### Art. 6
+
+**Rapports**
+
+<sup>1</sup>
+
+Les bénéficiaires d’aides financières remettent au SEFRI au plus tard le 30 avril de chaque année les pièces suivantes:
+
+- a. rapport annuel et comptes annuels approuvés;
+- b. rapport surla réalisation des objectifs et sur les étapes franchies;
+- c. décompte des prestations fournies.
+
+<sup>2</sup> Le SEFRI fournit les formulaires destinés aux comptes rendus[^6-1].
+
+[^6-1]: [www.sbfi.admin.ch/formation](http://www.sbfi.admin.ch/formation)-continue
+
+#### Art. 7
+
+**Devoir d’information**
+
+<sup>1</sup> Les bénéficiaires d’aides financières ont le devoir d’informer le SEFRI immédiatement de tout changement majeur relatif à leur organisation et de tout élément risquant de compromettre la réalisation des objectifs.
+
+<sup>2</sup> Les propositions relatives à une autre forme de réalisation des prestations convenues doivent être soumises à l’approbation du SEFRI.
+
+## Section 2 Aides financières pour l’acquisition et le maintien de compétences de base chez l’adulte
+
+### (art. 16, al. 2, LFCo)
+
+#### Art. 8
+
+**Objectifs nationaux**
+
+<sup>1</sup> Le SEFRI convient avec les cantons, en association avec les organisations du monde du travail, des objectifs nationaux en matière d’acquisition et de maintien de compétences de base chez l’adulte. Il assure en la matière la coordination avec les autres services fédéraux concernés.
+
+<sup>2</sup> Les objectifs nationaux sont revus tous les quatre ans.
+
+#### Art. 9
+
+**Programmes cantonaux**
+
+<sup>1</sup> Les objectifs nationaux convenus sont mis en œuvre moyennant des programmes d’un ou de plusieurs cantons.
+
+<sup>2</sup> Les programmes cantonaux sont élaborés par un service désigné par le canton. Ce service est également en charge de la coordination avec la Confédération et avec d’autres cantons.
+
+<sup>3</sup> Les programmes cantonaux en matière d’encouragement de l’acquisition et du maintien de compétences de base chez l’adulte sont coordonnés avec les mesures prises sur la base d’autres lois spéciales, notamment avec les programmes d’intégration cantonaux au sens de l’art. 58, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^9-1].
+
+<sup>4</sup> Les cantons décident dans le cadre de leurs programmes de la répartition des aides financières.
+
+[^9-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+#### Art. 10
+
+**Conventions-programmes**
+
+<sup>1</sup> Les programmes cantonaux font l’objet de conventions-programmes (art. 11, al. 1). Celles-ci précisent notamment les objectifs du programme, les aides financières de la Confédération ainsi que les indicateurs servant à mesurer la réalisation des objectifs.
+
+<sup>2</sup> Une convention-programme est conclue pour une période de quatre ans, dans la mesure où une autre durée n’est pas indiquée à des fins de coordination avec d’autres programmes cantonaux.
+
+<sup>3</sup> Les conventions-programmes peuvent être reconduites pour une nouvelle période.
+
+#### Art. 11
+
+**Aides financières aux cantons**
+
+<sup>1</sup> Le SEFRI octroie les aides financières en règle générale sur la base d’une convention-programme au sens de l’art. 20*a* de la loi du 5 octobre 1990 sur les subventions[^11-1].
+
+<sup>2</sup> Pour des raisons d’efficacité, les aides financières peuvent aussi être prévues dans une convention de prestations ou être octroyées par voie de décision.
+
+[^11-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+#### Art. 12
+
+**Répartition des aides financières**
+
+Le SEFRI convient avec les cantons de la clé de répartition des aides financières en faveur des programmes cantonaux.
+
+#### Art. 13
+
+**Montant maximal des aides financières**
+
+Le montant des aides financières de la Confédération équivaut, au plus, aux dépenses des cantons pour un programme cantonal.
+
+#### Art. 14
+
+**Compte rendu et contrôle**
+
+<sup>1</sup> Les cantons rendent compte chaque année au SEFRI de l’utilisation des aides financières.
+
+<sup>2</sup> Le compte rendu porte notamment sur les progrès dans la réalisation des objectifs du programme cantonal, établis sur la base des indicateurs convenus ou des prestations fournies.
+
+## Section 3 Dispositions finales
+
+#### Art. 15
+
+**Disposition transitoire**
+
+Les demandes en vertu de l’art. 4 pour la période FRI 2017 à 2020 peuvent être déposées auprès du SEFRI jusqu’au 31 janvier 2017.
+
+#### Art. 16
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017.

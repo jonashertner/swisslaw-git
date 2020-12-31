@@ -1,0 +1,54 @@
+---
+sr: "0.362.380.056"
+title: "Notenaustausch vom 21. August 2013 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 610/2013 zur Änderung des Schengener Grenzkodex (Verordnung [EG] Nr. 562/2006), des Schengener Durchführungsübereinkommens sowie der Verordnungen (EG) Nr. 1683/95, (EG) Nr. 539/2001, (EG) Nr. 767/2008 und (EG) Nr. 810/2009 (Weiterentwicklung des Schengen-Besitzstands)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/582"
+language: de
+version: 2013-08-21
+adopted: 2013-08-21
+in_force: 2013-08-21
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/582/20130821/de/xml/fedlex-data-admin-ch-eli-cc-2013-582-20130821-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/582/20130821/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Notenaustausch vom 21. August 2013 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 610/2013 zur Änderung des Schengener Grenzkodex (Verordnung [EG] Nr. 562/2006), des Schengener Durchführungsübereinkommens sowie der Verordnungen (EG) Nr. 1683/95, (EG) Nr. 539/2001, (EG) Nr. 767/2008 und (EG) Nr. 810/2009
+
+AS **2013** 2827
+
+(Weiterentwicklung des Schengen-Besitzstands)
+
+In Kraft getreten am 21. August 2013
+
+(Stand am 21. August 2013)
+
+Übersetzung*[^ingress-1]*
+
+<table>
+<tr><td>Mission der Schweiz bei der Europäischen Union</td><td>Brüssel, den 21. August 2013</td></tr>
+<tr><td></td><td>Generalsekretariat des Rates der Europäischen Union Generaldirektion D Justiz und Inneres</td></tr>
+<tr><td></td><td>Brüssel</td></tr>
+</table>
+
+Die Mission der Schweiz bei der Europäischen Union entbietet dem Generalsekretariat des Rates der Europäischen Union ihre Empfehlung und beehrt sich, mit Bezug auf die Notifikation des Rates vom 22. Juli 2013, die erstellt worden ist gestützt auf Artikel 7 Absatz 2 Buchstabe a erster Satz des Abkommens zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands (nachfolgend: Assoziierungsabkommen), das am 26. Oktober 2004[^ingress-2] in Luxemburg unterzeichnet worden ist, den Empfang dieser Notifikation zu bestätigen. Letztere hat folgenden Inhalt:
+
+«In Übereinstimmung mit Artikel 7 Absatz 2 Buchstabe a erster Satz in Verbindung mit Artikel 14 Absatz 1 des Abkommens, welches die Schweiz an den Schengen-Besitzstand assoziiert, wird der Schweiz hiermit die Verabschiedung des folgenden Rechtsakts notifiziert:
+
+- Verordnung des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Änderung der Verordnung (EG) Nr. 562/2006 des Europäischen Parlaments und des Rates über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), des Übereinkommens zur Durchführung des Übereinkommens von Schengen, die Verordnungen (EG) Nr. 1683/95 und (EG) Nr. 539/2001 des Rates sowie die Verordnungen (EG) Nr. 767/2008 und (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates
+- Dokumente des Rates:
+- PE-CONS 3/1/13 REV 1 FRONT 3 COMIX 24 CODEC 79
+- Datum der Annahme: 20. Juni 2013»[^ingress-3]
+
+Gemäss Artikel 7 Absatz 2 Buchstabe a zweiter Satz des Assoziierungsabkommens informiert die Mission der Schweiz bei der Europäischen Union das Generalsekretariat des Rates der Europäischen Union, dass die Schweiz den Inhalt des Rechtsakts, welcher der Notifikation des Rates beigelegt und Teil dieser Antwortnote ist, akzeptiert und in ihre innerstaatliche Rechtsordnung umsetzen wird.
+
+Gemäss Artikel 7 Absatz 3 des Assoziierungsabkommens begründen die Notifikation des Rates vom 22. Juli 2013 und diese Antwortnote Rechte und Pflichten zwischen der Schweiz und der Europäischen Union und bilden somit ein Abkommen zwischen der Schweiz und der Europäischen Union.
+
+Dieses Abkommen tritt am Datum der Antwortnote in Kraft. Gekündigt werden kann das Abkommen unter den Bedingungen, die in den Artikeln 7 und 17 des Assoziierungsabkommens aufgeführt sind.
+
+Eine Kopie dieser Note wird der Europäischen Kommission, Generalsekretariat, SG.A.3, Brüssel, übermittelt.
+
+Die Mission der Schweiz bei der Europäischen Union benützt die Gelegenheit, um das Generalsekretariat des Rates der Europäischen Union ihrer ausgezeichneten Hochachtung zu versichern.
+
+[^ingress-1]: Übersetzung des englischen Originaltextes.
+[^ingress-2]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-3]: Verordnung (EU) Nr. 610/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Änderung der Verordnung (EG) Nr. 562/2006 des Europäischen Parlaments und des Rates über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), des Übereinkommens zur Durchführung des Übereinkommens von Schengen, die Verordnungen (EG) Nr. 1683/95 und (EG) Nr. 539/2001 des Rates sowie die Verordnungen (EG) Nr. 767/2008 und (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 182 vom 29.6.2013, S. 1.

@@ -1,0 +1,464 @@
+---
+sr: "923.0"
+title: Lescha federala dals 21 da zercladur 1991 davart la pestga (LFP)
+short: LFP
+eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
+language: rm
+version: 2017-05-01
+adopted: 1991-06-21
+in_force: 1994-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20170501/rm/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20170501-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/rm"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Lescha federala davart la pestga
+
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+
+(LFP)**[^t-1]**
+
+dals 21 da zercladur 1991 (versiun dal 1. da matg 2017)
+
+[^t-1]: Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+
+L’Assamblea federala da la Confederaziun svizra,
+
+sa basond sin ils art. 78 al. 4 e 79 da la Constituziun federala[^ingress-1],[^ingress-2] suenter avair gì invista da la missiva dal Cussegl federal dals 25 da matg 1988[^ingress-3],
+
+concluda:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^ingress-3]: [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)
+
+## 1. secziun Intent e champ d’applicaziun
+
+#### Art. 1
+
+**Intent**
+
+<sup>1</sup>
+
+Questa lescha ha l’intent da:
+
+- a. mantegnair, meglierar u sche pussaivel restabilir la diversitad natirala da las spezias e l’effectiv dals peschs e dals giombers indigens e da la macrofauna d’aua sco er lur spazis da viver;
+- b. proteger spezias e razzas da peschs e da giombers periclitadas;
+- c. garantir in’utilisaziun duraivla dals effectivs da peschs e da giombers;
+- d. promover la perscrutaziun da la pestga.
+
+<sup>2</sup> Ella stabilescha ils princips, tenor ils quals ils chantuns ston reglar il pigliar peschs e giombers.
+
+#### Art. 2
+
+**Champ d’applicaziun**
+
+<sup>1</sup> Questa lescha vala per las auas publicas e privatas.
+
+<sup>2</sup> Per ils stabiliments per l’allevament da peschs e per las auas artifizialas privatas, en las qualas ils peschs ed ils giombers che vivan en auas avertas na pon betg arrivar sin via natirala, valan sulettamain las disposiziuns davart las spezias, las razzas e las varietads estras (art. 6 e 16 lit. c e d). Per ils stabiliments per l’allevament da peschs valan ultra da quai las disposiziuns davart intervenziuns tecnicas (art. 8–10).
+
+## 2. secziun Protecziun ed utilisaziun dals peschs e dals giombers
+
+#### Art. 3
+
+**Gestiun**
+
+<sup>1</sup> Ils chantuns reglan l’utilisaziun duraivla dals effectivs e procuran che
+
+- a. la diversitad natirala da las spezias da peschs e da giombers vegnia mantegnida;
+- b. ils animals na vegnian betg blessads u donnegiads inutilmain, cura ch’els vegnan pigliads.
+
+<sup>2</sup>
+
+Els decreteschan en spezial disposiziuns concernent:
+
+- a. ils utensils ch’èn permess per la pestga e lur applicaziun;
+- b. ils utensils auxiliars permess;
+- c. la pestga da peschs d’estga;
+- d. la pestga da macrofauna d’aua;
+- e. la repopulaziun da las auas explotadas;
+- f. il dretg da chaminar sin la riva per pestgar.
+
+#### Art. 4
+
+**Disposiziuns da schanetg**
+
+<sup>1</sup>
+
+Il Cussegl federal decretescha disposiziuns davart:
+
+- a. la durada dals temps da schanetg;
+- b. las mesiras minimalas dals peschs e dals giombers che dastgan vegnir pigliads.
+
+<sup>2</sup> El fixescha sut tge premissas ch’ils chantuns pon divergiar da questas disposiziuns.
+
+<sup>3</sup>
+
+Ils chantuns decreteschan disposiziuns davart:
+
+- a. la creaziun da territoris da schanetg là, nua che la protecziun dals effectivs da peschs e da giombers pretenda quai;
+- b. la remessa da peschs e da giombers ch’èn anc abels da viver, sche quels vegnan pigliads durant il temp da schanetg u sch’els n’han betg la mesira minimala.
+
+#### Art. 5
+
+**Spezias e razzas periclitadas**
+
+<sup>1</sup> Il Cussegl federal designescha las spezias e las razzas da peschs e da giombers ch’èn periclitadas.
+
+<sup>2</sup> Ils chantuns prendan las mesiras necessarias per proteger ils spazis da viver da las spezias e da las razzas ch’èn periclitadas. Els pon ordinar ulteriuras mesiras, en spezial scumonds da pestga.
+
+#### Art. 6
+
+**Spezias, razzas e varietads estras**
+
+<sup>1</sup>
+
+Ina permissiun da la Confederaziun è necessaria per:
+
+- a. l’import e l’immissiun da spezias, da razzas e da varietads da peschs e da giombers estras en las auas svizras;
+- b. l’immissiun da spezias, da razzas e da varietads da peschs e da giombers estras al lieu;
+
+<sup>2</sup>
+
+La permissiun vegn concedida, sch’il petent cumprova che:
+
+- a. la fauna e la flora indigena na vegn betg periclitada e
+- b. la fauna na vegn betg midada en moda nungiavischada.
+
+<sup>3</sup> Il Cussegl federal po prevair excepziuns da l’obligaziun da dumandar ina permissiun.
+
+<sup>4</sup> Spezias, razzas e varietads estras al lieu na dastgan betg vegnir consegnadas u duvradas sco peschs d’estga vivs.
+
+## 3. secziun Protecziun dals spazis da viver
+
+#### Art. 7
+
+**Mantegniment, meglierament e restabiliment da spazis da viver**
+
+<sup>1</sup> Ils chantuns procuran che auals, parts da rivas e vegetaziuns d’aua che servan als peschs per fregar e per il svilup dals peschs giuvens vegnan mantegnids.
+
+<sup>2</sup> Sche pussaivel prendan els mesiras per meglierar las cundiziuns da viver dals animals da l’aua sco er per restabilir localmain spazis da viver destruids.
+
+#### Art. 8
+
+**Permissiuns per intervenziuns tecnicas**
+
+<sup>1</sup> Uschenavant che intervenziuns en las auas, en lur reschim u en lur curs sco er intervenziuns en las rivas ed en il fund da las auas pon tangar ils interess da la pestga, dovran ellas ina permissiun da l’autoritad chantunala ch’è cumpetenta per la pestga (permissiun dal dretg da pestga).
+
+<sup>2</sup> …[^8-1]
+
+<sup>3</sup>
+
+Ina permissiun dovri en spezial per:
+
+- a. utilisar las forzas idraulicas;
+- b. regular ils lais;
+- c. construir rempars da flums e d’auals sco er runcar rivas;
+- d. crear auas currentas artifizialas;
+- e. metter conducts en las auas;
+- f. far lavurs da nettegiament cun maschinas en las auas;
+- g. explotar e lavar gera, sablun ed autras substanzas en las auas;
+- h. far prelevaziuns d’aua;
+- i. inducir aua;
+- k. far drenaschas agriculas;
+- l. stabiliments da traffic;
+- m. stabiliments per l’allevament da peschs.
+
+<sup>4</sup> Per prelevaziuns d’aua tenor l’artitgel 29 da la Lescha federala dals 24 da schaner 1991[^8-2] davart la protecziun da las auas na dovri betg ina permissiun tenor questa lescha.
+
+<sup>5</sup> Stabiliments che vegnan engrondids u renovads valan sco stabiliments novs.
+
+[^8-1]: Abolì tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^8-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+
+#### Art. 9
+
+**Mesiras per stabiliments novs**
+
+<sup>1</sup>
+
+Resguardond las relaziuns natiralas ed eventuals auters interess ston las autoritads ch’èn cumpetentas per conceder permissiuns tenor il dretg da pestga prescriver tut las mesiras ch’èn adattadas per:
+
+- a.
+
+  crear cundiziuns da viver favuraivlas per ils animals da l’aua concernent:
+
+  - 1\. las quantitads minimalas da la deflussiun en cas da prelevaziuns d’aua,
+  - 2\. la furma dal profil da deflussiun,
+  - 3\. la structura dal letg e da las scarpas,
+  - 4\. il dumber e la furmaziun dals refugis per ils peschs,
+  - 5\. la profunditad e la temperatura da l’aua,
+  - 6\. la sveltezza dal current;
+
+- b. garantir la libra migraziun dals peschs;
+- c. pussibilitar la reproducziun natirala;
+- d. impedir che peschs e giombers vegnian mazzads u blessads tras construcziuns u maschinas.
+
+<sup>2</sup> Sch’i na pon betg vegnir chattadas – tar las intervenziuns previsas en las auas, en lur reschim u en lur curs sco er tar las intervenziuns en las rivas ed en il fund da las auas – mesiras che pon impedir restricziuns gravantas per ils interess da la pestga en il senn da l’artitgel 1, stoi vegnir decidì considerond ils interess generals.
+
+<sup>3</sup> Mesiras tenor l’alinea 1 ston vegnir previsas gia tar la projectaziun da las intervenziuns tecnicas.
+
+#### Art. 10
+
+**Mesiras per stabiliments existents**
+
+Ils chantuns procuran ch’i vegnian prendidas mesiras tenor l’artitgel 9 alinea 1 tar stabiliments existents, uschenavant che quellas èn economicamain supportablas.
+
+## 4. secziun Procuraziun da las premissas
+
+#### Art. 11
+
+[^11-1]
+
+Ils chantuns mainan ina statistica da pestga tenor ils princips da la Confederaziun.
+
+[^11-1]: Versiun tenor la cifra 12 da l’agiunta da la LF dals 9 d’oct. 1992 davart la statistica federala, en vigur dapi il 1. d’avust 1993 ([AS 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
+
+## 5. secziun Promoziun da la pestga
+
+#### Art. 12
+
+**Agids finanzials**
+
+<sup>1</sup>
+
+La Confederaziun po conceder agids finanzials a:
+
+- a. mesiras per meglierar las cundiziuns da viver dals animals da l’aua sco er per restabilir localmain spazis da viver destruids (art. 7 al. 2);
+- b. lavurs da perscrutaziun davart la diversitad da las spezias e davart l’effectiv dals peschs, dals giombers e da la macrofauna d’aua sco er davart lur spazis da viver;
+- c. l’infurmaziun da la populaziun davart la flora e la fauna en las auas.
+
+<sup>2</sup> Ils agids finanzials da la Confederaziun vegnan calculads tenor l’impurtanza da las mesiras tenor l’alinea 1 literas a–c per la protecziun e l’utilisaziun dals peschs e dals giombers; els importan maximalmain 40 pertschient dals custs.[^12-1]
+
+<sup>3</sup> …[^12-2]
+
+[^12-1]: Versiun tenor la cifra II 32 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^12-2]: Abolì tras la cifra II 32 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 13
+
+**Scolaziun e furmaziun supplementara**
+
+<sup>1</sup> L’Uffizi federal d’ambient sustegna las autoritads cumpetentas ad organisar ils curs necessaris per la scolaziun e per la furmaziun supplementara specifica dals pestgaders professiunals e dals pisciculturs.[^13-1]
+
+<sup>2</sup> El po organisar curs da furmaziun supplementara per ils organs ch’èn incumbensads da survegliar la pestga.
+
+[^13-1]: Versiun tenor la cifra 44 da l’agiunta da la LF dals 20 da zer. 2014 davart il perfecziunament, en vigur dapi il 1. da schan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+
+#### Art. 14
+
+**Supplements per uffants da pestgaders professiunals**
+
+Ils pestgaders professiunals che van a pestga sco activitad principala han il dretg da survegnir supplements per uffants tenor la Lescha federala dals 20 da zercladur 1952[^14-1] davart ils supplements da famiglia en l’agricultura.
+
+[^14-1]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+
+## 6. secziun Responsabladad
+
+#### Art. 15
+
+<sup>1</sup> Las disposiziuns da la legislaziun federala concernent la responsabladad èn applitgablas.
+
+<sup>2</sup> Per calcular il donn sto vegnir resguardada la reducziun da la productivitad da l’aua donnegiada.
+
+<sup>3</sup> Cun l’indemnisaziun ch’il retschavider ha survegnì per restabilir il stadi oriund sto el reparar il donn uschè svelt sco pussaivel.
+
+## 7. secziun Disposiziuns penalas
+
+#### Art. 16
+
+**Delicts**
+
+<sup>1</sup>
+
+Cun in chasti pecuniar fin a 180 taxas per di vegn chastià, tgi che donnegia u periclitescha intenziunadamain l’effectiv da peschs u da giombers, e quai cun:[^16-1]
+
+- a. far nunautorisadamain intervenziuns tecnicas (art. 8);
+- b. betg resguardar cundiziuns u pretensiuns ch’èn colliadas cun ina permissiun (art. 9 al. 1);
+- c. importar u integrar spezias, razzas e varietads da peschs u da giombers estras en Svizra u al lieu senza ina permissiun da l’autoritad (art. 6 al. 1);
+- d. consegnar u duvrar spezias, razzas e varietads estras en Svizra u al lieu sco peschs d’estga vivs (art. 6 al. 4).
+
+<sup>2</sup> Sch’il delinquent agescha per negligientscha, importa la multa fin a 20 000 francs.[^16-2]
+
+[^16-1]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^16-2]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+
+#### Art. 17
+
+**Surpassaments**
+
+<sup>1</sup>
+
+Cun ina multa fin a 20 000 francs vegn chastià, tgi che sapientivamain:[^17-1]
+
+- a. n’observa betg las disposiziuns da schanetg;
+- b. acquista, sa lascha regalar u venda peschs, giombers u macrofauna d’aua, dals quals el sa u sto supponer ch’els èn vegnids acquistads tras in act chastiabel;
+- c.[^17-2] cuntrafa en in’autra moda e maniera a questa lescha, a las prescripziuns dal Cussegl federal che prevesan in chasti per lur violaziun, u ad ina disposiziun singula ch’è vegnida drizzada ad el renviond a la smanatscha da chasti previsa en quest artitgel.
+
+<sup>2</sup> L’emprova e la cumplicitad èn chastiablas.
+
+<sup>3</sup> Il delinquent vegn chastià cun ina multa, sch’el ha agì per negligientscha.
+
+[^17-1]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^17-2]: Versiun tenor la cifra II 4 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+
+#### Art. 18
+
+**Applitgabladad dal dretg penal administrativ**
+
+Ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^18-1] davart il dretg penal administrativ valan confurm al senn per acts chastiabels tenor questa lescha.
+
+[^18-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 19
+
+**Scumond d’ir a pestga**
+
+<sup>1</sup> En cas da delicts da pestga e da surpassaments grevs u repetids po il derschader scumandar al delinquent sco chasti accessoric d’ir a pestga per la durada da fin a 5 onns.
+
+<sup>2</sup> La privaziun administrativa dal dretg d’ir a pestga tras l’autoritad chantunala cumpetenta resta resalvada.
+
+#### Art. 20
+
+**Persecuziun penala**[^20-1]
+
+<sup>1</sup> La persecuziun ed il giudicament da cuntravenziuns èn chaussa dals chantuns.
+
+<sup>2</sup> L’Uffizi federal da segirezza alimentara e fatgs veterinars[^20-2] persequitescha e giuditgescha las cuntravenziuns fatgas a chaschun da l’import. Sch’igl exista a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005[^20-3] u cunter la Lescha davart la taglia sin la plivalur dals 12 da zercladur 2009[^20-4], persequitescha e giuditgescha l’Administraziun federala da duana las cuntravenziuns.
+
+<sup>3</sup> Sch’ina cuntravenziun represchenta a medem temp ina cuntravenziun tenor l’alinea 2, ch’è drizzada cunter la Lescha federala dals 16 da mars 2012[^20-5] davart il traffic cun spezias d’animals e da plantas protegidas, cunter la Lescha federala dals 16 da december 2005[^20-6] davart la protecziun dals animals, cunter la Lescha federala dals 18 da mars 2005 davart la duana ed ils dazis, cunter la Lescha federala dals 12 da zercladur 2009 davart la taglia sin la plivalur, cunter la Lescha federala dals 20 zercladur 2014[^20-7] davart victualias ed objects da diever u cunter la Lescha federala dal 1. da fanadur 1966[^20-8] davart epidemias d’animals, e che sto vegnir persequitada da la medema autoritad federala, vegn applitgà il chasti smanatschà per la cuntravenziun la pli greva; quest chasti po vegnir augmentà adequatamain.[^20-9]
+
+[^20-1]: Versiun tenor la cifra 6 da l’agiunta 1 da la LF dals 16 da mars 2012 davart il traffic cun spezias d’animals e da plantas protegidas, en vigur dapi il 1. d’oct. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^20-2]: La designaziun da l’unitad administrativa è vegnida adattada per il 1. da schan. 2014 applitgond l’art. 16 al. 3 da l’O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^20-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-5]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^20-6]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^20-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^20-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^20-9]: Versiun tenor la cifra II 9 da l’agiunta da la Lescha da victualias dals 20 da zer. 2014, en vigur dapi il 1. da matg 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+
+## 8. secziun Execuziun
+
+#### Art. 21
+
+**Confederaziun**
+
+<sup>1</sup> Il Cussegl federal decretescha las disposiziuns executivas.
+
+<sup>2</sup> El surveglia l’execuziun chantunala da questa lescha.
+
+<sup>3</sup> Las guardias da cunfin federalas ston sustegnair ils organs chantunals ch’èn incumbensads da survegliar la pestga en las auas da cunfin da la Svizra ad ademplir lur incumbensas, uschenavant ch’il servetsch da duana permetta quai.
+
+<sup>4</sup> L’autoritad federala ch’exequescha in’autra lescha federala u in contract internaziunal è cumpetenta – ademplind questa incumbensa – er d’exequir la Lescha federala davart la pestga. Avant che prender ina decisiun lascha ella vegnir a pled ils chantuns pertutgads. L’Uffizi federal d’ambient ed ils ulteriurs servetschs federals coopereschan a l’execuziun tenor ils artitgels 62*a* e 62*b* da la Lescha dals 21 da mars 1997[^21-1] davart l’organisaziun da la regenza e da l’administraziun.[^21-2]
+
+<sup>5</sup> Sche la procedura tenor l’alinea 4 n’è betg adattada per tschertas incumbensas, regla il Cussegl federal l’execuziun tras ils servetschs federals pertutgads.[^21-3]
+
+[^21-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^21-2]: Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Versiun da la terza frasa tenor la cifra 44 da l’agiunta da la LF dals 20 da zer. 2014 davart il perfecziunament, en vigur dapi il 1. da schan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^21-3]: Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+
+#### Art. 22
+
+**Chantuns**
+
+<sup>1</sup> Ils chantuns exequeschan questa lescha, uschenavant che la Confederaziun n’è betg cumpetenta per quai.
+
+<sup>2</sup> Els decreteschan las prescripziuns necessarias.
+
+#### Art. 22a
+
+**Infurmaziun e cussegliaziun**[^22a-1]
+
+<sup>1</sup> La Confederaziun ed ils chantuns procuran per l’infurmaziun e per la cussegliaziun da las autoritads e da la publicitad concernent l’impurtanza ed il stadi da las auas da peschs.
+
+<sup>2</sup> Els recumondan mesiras da protecziun e da mantegniment adattadas.
+
+[^22a-1]: Integrà tras la cifra 3 da l’agiunta da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+
+#### Art. 23
+
+**Surveglianza da la pestga**
+
+<sup>1</sup> Ils chantuns procuran per ina surveglianza efficazia da la pestga sco er per la scolaziun e per la furmaziun supplementara dals organs da surveglianza.
+
+<sup>2</sup> Ils organs da surveglianza ed ils experts che vegnan consultads da quels han da tut temp access a tut ils stabiliments tecnics ed a tut ils bains immobigliars, uschenavant che quai è necessari per ademplir lur incumbensas.
+
+<sup>3</sup> Mintgin è obligà da dar las infurmaziuns ch’èn necessarias per exequir questa lescha.
+
+#### Art. 24
+
+**Auas interchantunalas**
+
+<sup>1</sup> En cas d’auas interchantunalas ston ils chantuns participads reglar la pestga en moda unitara en il rom da questa lescha.
+
+<sup>2</sup> Sch’ils chantuns na pon betg sa cunvegnir, decida il Cussegl federal.
+
+#### Art. 25
+
+**Auas internaziunalas**
+
+Il Cussegl federal è autorisà, suenter avair consultà ils chantuns pertutgads, da far cun auters stadis cunvegnas davart la pestga en las auas da cunfin da la Svizra. Quellas cunvegnas pon cuntegnair disposiziuns che divergeschan da questa lescha.
+
+#### Art. 26
+
+**Approvaziun da prescripziuns chantunalas**
+
+<sup>1</sup>
+
+L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
+
+- a. la gestiun (art. 3);
+- b. las disposiziuns da schanetg (art. 4);
+- c. las spezias e razzas periclitadas (art. 5).
+
+<sup>2</sup> Prescripziuns cun ina durada da fin a 3 mais na dovran betg in’approvaziun.
+
+#### Art. 26a
+
+[^26a-1]
+
+[^26a-1]: Integrà tras la cifra 11 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 129 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 26b
+
+[^26b-1]
+
+[^26b-1]: Art. 26*a* d’enfin ussa. Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Abolì tras la cifra 129 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## 9. secziun Disposiziuns finalas
+
+#### Art. 27
+
+**Aboliziun e midada da leschas federalas**
+
+<sup>1.</sup> La Lescha federala dals 14 da december 1973[^27-1] davart la pestga vegn abolida.
+
+<sup>2.</sup> ed 3. …[^27-2]
+
+[^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 81, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra III, [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 cifra 1]
+[^27-2]: Las midadas pon vegnir consultadas en la [AS 1991 2259](https://fedlex.data.admin.ch/eli/oc/1991/2259_2259_2259).
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Abolì tras la cifra II 51 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 29
+
+**Referendum ed entrada en vigur**
+
+<sup>1</sup> Questa lescha è suttamessa al referendum facultativ.
+
+<sup>2</sup> Ella entra en vigur, cun resalva da l’alinea 3, il 1. da schaner
+
+- a. che suonda il termin da 2 onns suenter ch’il termin da referendum è scadì senza ch’i saja vegnì inoltrà in tal u
+- b. che suonda il termin da 2 onns suenter ch’il pievel ha acceptà la lescha.
+
+<sup>3</sup> L’artitgel 6 entra en vigur suenter ch’il termin da referendum è scadì senza ch’i saja vegnì inoltrà in tal u suenter ch’il pievel ha acceptà la lescha.
+
+Data da l’entrada en vigur: [^29-1] 1. da schaner 1994 Art. 6: 1. d’october 1991
+
+[^29-1]: COCF dal 1. d’oct. 1991

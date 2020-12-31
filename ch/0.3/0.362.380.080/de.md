@@ -1,0 +1,75 @@
+---
+sr: "0.362.380.080"
+title: "Notenaustausch vom 16. Januar 2019 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2018/1806 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen (Weiterentwicklung des Schengen-Besitzstands)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/97"
+language: de
+version: 2019-01-16
+adopted: 2019-01-16
+in_force: 2019-01-16
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/97/20190116/de/xml/fedlex-data-admin-ch-eli-cc-2019-97-20190116-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/97/20190116/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Notenaustausch vom 16. Januar 2019 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2018/1806 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen
+
+AS **2019** 575
+
+(Weiterentwicklung des Schengen-Besitzstands)
+
+In Kraft getreten am 16. Januar 2019
+
+(Stand am 16. Januar 2019)
+
+Übersetzung
+
+<table>
+<tr><td>Mission der Schweiz bei der Europäischen Union</td><td>Brüssel, den 16. Januar 2019 Generalsekretariat des Rates der Europäischen Union Generaldirektion D Justiz und Inneres Brüssel</td></tr>
+</table>
+
+Die Mission der Schweiz bei der Europäischen Union entbietet dem Generalsekretariat des Rates der Europäischen Union ihre Empfehlung und beehrt sich, mit Bezug auf die Notifikation des Rates vom 12. Dezember 2018, die erstellt worden ist gestützt auf Artikel 7 Absatz 2 Buchstabe a erster Satz des Abkommens zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands (nachfolgend: Assoziierungsabkommen), das am 26. Oktober 2004[^ingress-1] in Luxemburg unterzeichnet worden ist, den Empfang dieser Notifikation zu bestätigen. Letztere hat folgenden Inhalt:
+
+«In Übereinstimmung mit Artikel 7 Absatz 2 Buchstabe a erster Satz in Verbindung mit Artikel 14 Absatz 1 des Abkommens, welches die Schweiz an den Schengen-Besitzstand assoziiert, wird der Schweiz hiermit die Verabschiedung des folgenden Rechtsakts notifiziert:
+
+- Verordnung des Europäischen Parlaments und des Rates zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind (kodifizierter Text)
+- Dokument des Rates: PE-CONS 50/18
+- Datum der Annahme: 6. November 2018»[^ingress-2]
+
+Gemäss Artikel 7 Absatz 2 Buchstabe a zweiter Satz des Assoziierungsabkommens informiert die Mission der Schweiz bei der Europäischen Union das Generalsekretariat des Rates der Europäischen Union, dass die Schweiz den Inhalt des Rechtsakts, welcher der Notifikation des Rates beigelegt und Teil dieser Antwortnote ist, akzeptiert und in ihre innerstaatliche Rechtsordnung umsetzen wird.
+
+Gemäss Artikel 7 Absatz 3 des Assoziierungsabkommens begründen die Notifikation des Rates vom 12. Dezember 2018 und diese Antwortnote Rechte und Pflichten zwischen der Schweiz und der Europäischen Union und bilden somit ein Abkommen zwischen der Schweiz und der Europäischen Union.
+
+Dieses Abkommen tritt am Datum dieser Antwortnote in Kraft. Gekündigt werden kann das Abkommen unter den Bedingungen, die in den Artikeln 7 und 17 des Assoziierungsabkommens aufgeführt sind.
+
+Mit Inkrafttreten dieses Abkommens werden folgende Notenaustausche beendigt:
+
+- – Notenaustausch vom 28. März 2008[^ingress-3] zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme der Verordnung (EG) Nr. 851/2005 des Rates vom 2. Juni 2005 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 28. März 2008[^ingress-4] zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme der Verordnung (EG) Nr. 1932/2006 des Rates vom 21. Dezember 2006 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 17. Dezember 2009[^ingress-5] zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme der Verordnung (EG) Nr. 1244/2009 des Rates vom 30. November 2009 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind;
+- – Notenaustausch vom 15. Dezember 2010[^ingress-6] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 1091/2010 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 4. Januar 2011[^ingress-7] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 1211/2010 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 19. Februar 2014[^ingress-8] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 1289/2013 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 24. April 2014[^ingress-9] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 259/2014 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 6. Juni 2014[^ingress-10] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 509/2014 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 28. März 2017[^ingress-11] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2017/372 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 28. März 2017[^ingress-12] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2017/371 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen;
+- – Notenaustausch vom 7. Juni 2017[^ingress-13] zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2017/850 zur Änderung der Verordnung (EG) Nr. 539/2001 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen.
+
+Eine Kopie dieser Note wird der Europäischen Kommission, Generalsekretariat, SG.A.3, Brüssel, übermittelt.
+
+Die Mission der Schweiz bei der Europäischen Union benützt die Gelegenheit, um das Generalsekretariat des Rates der Europäischen Union ihrer ausgezeichneten Hochachtung zu versichern.
+
+[^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-2]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Außengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind (Kodifizierter Text), Fassung gemäss ABl. L 303 vom 28.11.2018, S. 39.
+[^ingress-3]: [[AS 2008 1201](https://fedlex.data.admin.ch/eli/oc/2008/216)]
+[^ingress-4]: [[AS 2008 1207](https://fedlex.data.admin.ch/eli/oc/2008/219)]
+[^ingress-5]: [[AS 2010 479](https://fedlex.data.admin.ch/eli/oc/2010/65)]
+[^ingress-6]: [[AS 2011 337](https://fedlex.data.admin.ch/eli/oc/2011/51)]
+[^ingress-7]: [[AS 2011 525](https://fedlex.data.admin.ch/eli/oc/2011/77)]
+[^ingress-8]: [[AS 2014 585](https://fedlex.data.admin.ch/eli/oc/2014/125)]
+[^ingress-9]: [[AS 2014 991](https://fedlex.data.admin.ch/eli/oc/2014/223)]
+[^ingress-10]: [[AS 2014 1715](https://fedlex.data.admin.ch/eli/oc/2014/328)]
+[^ingress-11]: [[AS 2017 2425](https://fedlex.data.admin.ch/eli/oc/2017/223)]
+[^ingress-12]: [[AS 2017 2427](https://fedlex.data.admin.ch/eli/oc/2017/224)]
+[^ingress-13]: [[AS 2017 3531](https://fedlex.data.admin.ch/eli/oc/2017/387)]

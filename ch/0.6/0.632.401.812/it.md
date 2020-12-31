@@ -1,0 +1,44 @@
+---
+sr: "0.632.401.812"
+title: "Scambio di lettere del 14 luglio 1986 tra la Svizzera e la Commissione delle CE relativo al contingente all'importazione in Spagna per le macchine da cucire"
+eli: "https://fedlex.data.admin.ch/eli/cc/1987/200_200_200"
+language: it
+version: 1987-01-01
+adopted: 1986-07-14
+in_force: 1987-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/200_200_200/19870101/it/xml/fedlex-data-admin-ch-eli-cc-1987-200_200_200-19870101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/200_200_200/19870101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Scambio di lettere del 14 luglio 1986 tra la Svizzera e la Commissione delle CE relativo al contingente all’importazione in Spagna per le macchine da cucire
+
+(Stato 5 novembre 1999)0.632.401.812Nicht löschen bitte "[^t-1] " !!
+
+Approvato dall’Assemblea federale l’8 ottobre 1986[^t-2] Entrato in vigore il 1° gennaio 1987
+
+[^t-1]: [RU 1987 200](https://fedlex.data.admin.ch/eli/oc/1987/200_200_200); [FF 1986 III 1](https://fedlex.data.admin.ch/eli/fga/1986/3_1_1_1)
+[^t-2]: Art. 1 lett. e del DF dell’8 ott. 1986 ([RU 1987 118](https://fedlex.data.admin.ch/eli/oc/1987/118_118_118)).
+
+Testo originale
+
+Bruxelles, 14 luglio 1986
+
+Signor,
+
+Lei mi ha fatto la comunicazione seguente:
+
+- «A seguito dei negoziati per la conclusione di un protocollo addizionale[^ingress-1] all’accordo di libero scambio tra la Confederazione Svizzera e la Comunità economica europea, a seguito dell’adesione del Regno di Spagna e della Repubblica portoghese alla Comunità, Le sarei grato se volesse confermare che il contingente all’importazione in Spagna dei prodotti della sottovoce 84.41 A 1 della tariffa doganale comune verte unicamente sulle macchine da cucire che effettuano soltanto il punto a spola.
+- Inoltre, gradirei che mi confermasse altresì la volontà della Comunità di consultare le autorità svizzere, qualora le esportazioni in Spagna di macchine da cucire provenienti dalla Svizzera, diverse da quelle oggetto del contingente, incontrassero difficoltà.»
+
+Mi pregio confermare l’accordo della Comunità sul contenuto della Sua comunicazione.
+
+Voglia gradire, Signore, i sensi della mia più alta considerazione.
+
+<table>
+<tr><td></td><td>A nome del Consiglio delle Comunità europee:</td></tr>
+<tr><td></td><td>David Hannay G. Giola</td></tr>
+</table>
+
+[^ingress-1]: RS **0.632.401.8**

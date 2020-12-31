@@ -1,0 +1,827 @@
+---
+sr: "810.301"
+title: "Ordonnance du 20 septembre 2013 relative à la recherche sur l'être humain à l'exception des essais cliniques (Ordonnance relative à la recherche sur l'être humain, ORH)"
+short: ORH
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
+language: fr
+version: 2018-04-24
+adopted: 2013-09-20
+in_force: 2014-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20180424/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20180424-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20180424/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance relative à la recherche sur l’être humain à l’exception des essais cliniques
+
+(Ordonnance relative à la recherche sur l’être humain, ORH)
+
+du 20 septembre 2013 (Etat le 24 avril 2018)
+
+Le Conseil fédéral suisse,
+
+vu la loi du 30 septembre 2011 relative à la recherche sur l’être humain (LRH)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle:
+
+- a. les exigences fixées pour la réalisation de projets de recherche sur l’être humain à l’exception des essais cliniques, et
+- b. les procédures d’autorisation et d’annonce pour les projets de recherche au sens de la let. a.
+
+#### Art. 2
+
+**Dispositions applicables**
+
+Les dispositions sur l’intégrité scientifique et la qualité scientifique selon les art. 3 et 4 de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2-1] sont applicables par analogie.
+
+[^2-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+
+#### Art. 3
+
+**Responsabilités de la direction du projet et du promoteur**
+
+<sup>1</sup> La direction du projet est responsable de la réalisation pratique du projet de recherche en Suisse et de la protection des personnes participant au projet de recherche au lieu de réalisation.
+
+<sup>2</sup> Elle est en outre responsable de l’initiative du projet de recherche, notamment du lancement, de la gestion et du financement en Suisse, dans la mesure où aucune autre personne ou institution sise en Suisse n’en assume la responsabilité (promoteur).
+
+#### Art. 4
+
+**Qualifications professionnelles**
+
+<sup>1</sup>
+
+La direction d’un projet de recherche doit:
+
+- a. être habilitée à exercer sous sa propre responsabilité la profession qui lui donne les qualifications spécifiquement requises pour réaliser le projet de recherche concerné;
+- b. justifier de la formation et de l’expérience nécessaires en lien avec la réalisation du projet de recherche concerné;
+- c. disposer des connaissances relatives aux exigences légales applicables à un projet de recherche ou être en mesure de les garantir par le biais d’un expert.
+
+<sup>2</sup> Les autres personnes qui accomplissent le projet de recherche doivent disposer des connaissances et de l’expérience professionnelles nécessaires à l’activité concernée.
+
+#### Art. 5
+
+**Conservation de données personnelles liées à la santé et de matériel biologique**
+
+<sup>1</sup>
+
+Quiconque conserve des données personnelles liées à la santé à des fins de recherche doit garantir leur protection par le biais de mesures opérationnelles et organisationnelles appropriées, notamment:
+
+- a. permettre l’emploi des données personnelles liées à la santé aux seules personnes qui en ont besoin pour accomplir leurs tâches;
+- b. empêcher la publication, la modification, la suppression et la copie des données personnelles liées à la santé sans autorisation ou par inadvertance;
+- c. documenter l’ensemble des processus de traitement déterminants pour garantir la traçabilité.
+
+<sup>2</sup>
+
+Quiconque conserve du matériel biologique à des fins de recherche doit notamment:
+
+- a. respecter les principes au sens de l’al. 1;
+- b. garantir le respect des exigences techniques pour la conservation appropriée du matériel biologique;
+- c. mettre à disposition les ressources nécessaires à la conservation.
+
+## Chapitre 2 Recherche sur des personnes en lien avec des mesures de prélèvement de matériel biologique ou de collecte de données personnelles liées à la santé
+
+### Section 1 Dispositions générales
+
+#### Art. 6
+
+**Projet de recherche**
+
+Est réputé être un projet de recherche en vertu du présent chapitre tout projet pour lequel du matériel biologique est prélevé sur une personne ou des données personnelles liées à sa santé sont collectées dans le but:
+
+- a. de répondre à une problématique scientifique; ou
+- b. de réutiliser le matériel biologique ou les données liées à la santé à des fins de recherche.
+
+#### Art. 7
+
+**Classification**
+
+<sup>1</sup> Un projet de recherche est de catégorie A lorsque les risques et les contraintes inhérents aux mesures prévues de prélèvement de matériel biologique ou de collecte de données personnelles sont minimaux.
+
+<sup>2</sup> Un projet de recherche est de catégorie B lorsque les risques et les contraintes inhérents aux mesures prévues sont plus que minimaux.
+
+<sup>3</sup>
+
+Les risques et les contraintes inhérents au prélèvement de matériel biologique ou à la collecte de données personnelles liées à la santé sont minimaux lorsque les mesures, dans leur intensité et leur qualité, n’ont que des répercussions minimes et temporaires sur la santé de la personne participant au projet, compte tenu de la vulnérabilité de la personne participant au projet et des circonstances concrètes. Peuvent notamment présenter des risques et contraintes minimaux:
+
+- a. les questionnaires et les observations;
+- b. les prélèvements de sang périphérique veineux ou capillaire et biopsies cutanées sur une petite surface;
+- c. le prélèvement ou le recueil de substances corporelles sans mesures invasives (notamment l’échantillon de salive, d’urine ou de selles);
+- d. les frottis;
+- e. les tomographies à résonance magnétique sans produit de contraste, les échographies et les électrogrammes;
+- f. les examens au moyen de dispositifs médicaux pourvus d’une marque de conformité sans produit de contraste ou au moyen de médicaments autorisés susceptibles d’émettre des rayonnements ionisants, dans la mesure où la dose efficace[^7-1] est inférieure à 5 mSv par projet de recherche et par personne examinée.
+
+[^7-1]: Erratum du 24 avr. 2018 ([RO 2018 1653](https://fedlex.data.admin.ch/eli/oc/2018/243)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 8
+
+**Information**
+
+<sup>1</sup>
+
+En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concernée doit recevoir les informations suivantes:
+
+- a. les charges et les obligations qui découlent de la participation au projet de recherche;
+- b. le droit qu’elle a de refuser ou de révoquer son consentement sans avoir à justifier sa décision;
+- c. les conséquences d’une révocation du consentement sur l’utilisation ultérieure du matériel biologique prélevé avant la révocation et des données personnelles collectées avant la révocation;
+- d. le droit qu’elle a de recevoir en tout temps des renseignements sur d’autres questions;
+- e. le droit qu’elle a d’être informée des résultats concernant sa santé ou de renoncer à recevoir ces informations, ou de désigner une personne qui prend cette décision pour elle;
+- f. les dispositions prises pour couvrir d’éventuels dommages liés au projet de recherche, y compris la procédure en cas de dommages;
+- g. les principales sources de financement du projet de recherche;
+- h. d’autres éléments nécessaires pour qu’elle puisse prendre sa décision.
+
+<sup>2</sup> Si une réutilisation du matériel biologique prélevé ou des données personnelles liées à la santé collectées est prévue pour la recherche, les informations figurant aux art. 28 à 32 doivent être fournies à la personne concernée.
+
+<sup>3</sup> L’information peut être effectuée par étapes successives. Elle peut, de plus, être donnée autrement que sous forme de texte.
+
+<sup>4</sup> Il est garanti par le biais de mesures appropriées, que la personne concernée comprend les éléments essentiels de l’information.
+
+#### Art. 9
+
+**Exceptions à la forme écrite**
+
+<sup>1</sup>
+
+L’information et le consentement peuvent avoir lieu et être documentés sous une forme autre que la forme écrite:
+
+- a. lorsqu’il s’agit d’un projet de recherche de catégorie A selon la présente ordonnance qui est réalisé avec des adultes capables de discernement;
+- b. lorsqu’une information et un consentement écrits sont disproportionnés en raison du dispositif du projet; et
+- c. lorsque l’exception à la forme écrite est prévue dans la demande adressée à la commission d’éthique de la recherche (commission d’éthique) compétente.
+
+<sup>2</sup>
+
+Dans le cas d’espèce, l’information et le consentement peuvent avoir lieu sous une forme autre que la forme écrite:
+
+- a. lorsque, pour des raisons corporelles ou cognitives, la personne concernée ne peut pas lire ou écrire; et
+- b. lorsque la direction du projet apporte la preuve de l’information et du consentement, notamment par le biais d’une attestation écrite de témoins ou de l’enregistrement du consentement donné verbalement.
+
+<sup>3</sup>
+
+Dans le cas d’espèce, l’information peut être donnée sous une autre forme que la forme écrite:
+
+- a. lorsque les connaissances linguistiques de la personne concernée sont telles qu’une information par écrit représente une charge disproportionnée; et
+- b. lorsque, pour l’information verbale, un traducteur indépendant et qualifié est consulté et que celui-ci confirme par écrit que l’information a eu lieu.
+
+#### Art. 10
+
+**Conséquences de la révocation**
+
+<sup>1</sup> Si la personne concernée révoque son consentement, le matériel biologique et les données personnelles liées à la santé doivent être anonymisés après avoir été analysés.
+
+<sup>2</sup>
+
+L’anonymisation du matériel biologique ou des données personnelles n’est pas nécessaire:
+
+- a. lorsque la personne concernée y a expressément renoncé au moment de la révocation; ou
+- b. lorsqu’il est évident depuis le début du projet de recherche qu’une anonymisation n’est pas possible et que la personne concernée a consenti à participer au projet après avoir été suffisamment informée de cette circonstance.
+
+<sup>3</sup> Un suivi médical doit être proposé à la personne qui révoque son consentement, dans la mesure où il est nécessaire pour protéger sa santé.
+
+#### Art. 11
+
+**Projets de recherche en situation d’urgence**
+
+Les art. 15 à 17 OClin[^11-1] sont applicables par analogie aux projets de recherche réalisés en situation d’urgence.
+
+[^11-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+
+#### Art. 12
+
+**Exceptions à la responsabilité**
+
+Est libéré de la responsabilité au sens de l’art. 19, al. 1, LRH celui qui prouve que le dommage:
+
+- a. n’a que des effets minimaux sur la santé et est temporaire; et
+- b. ne dépasse pas l’ampleur qui est à prévoir en fonction de l’état de la science.
+
+#### Art. 13
+
+**Garantie**
+
+<sup>1</sup> Sont exclus de l’obligation de garantie au sens de l’art. 20 LRH les projets de recherche de catégorie A.
+
+<sup>2</sup> Les montants de la couverture pour les projets de recherche de catégorie B sont réglés dans l’annexe 1.
+
+<sup>3</sup> La garantie doit couvrir les dommages survenus dans les dix ans à compter de la fin du projet de recherche.
+
+<sup>4</sup> Au surplus, les art. 11, 13, al. 1, et 14 OClin[^13-1] sont applicables par analogie.
+
+[^13-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+
+### Section 2 Procédure d’autorisation
+
+#### Art. 14
+
+**Demande**
+
+<sup>1</sup> La direction du projet fournit les documents de la demande requis au sens de l’annexe 2 à la commission d’éthique compétente pour examen.
+
+<sup>2</sup> La commission d’éthique peut exiger des informations supplémentaires.
+
+<sup>3</sup> Le promoteur peut déposer la demande en lieu et place de la direction du projet. En pareil cas, il assume les obligations de la direction du projet prévues aux art. 17 à 23. Les documents de la demande sont cosignés par la direction du projet.
+
+#### Art. 15
+
+**Domaines de vérification**
+
+La commission d’éthique compétente vérifie:
+
+- a. que la demande est complète;
+- b. la classification dans la catégorie demandée;
+- c.
+
+  le plan de recherche pour ce qui a trait:
+
+  - 1\. à la qualité scientifique, dans la mesure où il s’agit d’un projet de recherche selon l’art. 6, let. a,
+  - 2\. au rapport entre les risques et les contraintes prévisibles d’une part et l’utilité attendue d’autre part (art. 12, al. 2, LRH),
+  - 3\. aux dispositions prises pour minimiser les risques et les contraintes des personnes participant au projet de recherche et aux mesures engagées pour assurer leur protection et le suivi médical (art. 15 LRH), y compris les mesures de protection relatives au traitement des données personnelles,
+  - 4\. à la nécessité d’inclure des personnes, notamment celles qui sont particulièrement vulnérables (art. 11 LRH),
+  - 5\. aux critères de sélection des personnes prévues pour participer au projet de recherche,
+  - 6\. au déroulement prévu de l’information et de l’obtention du consentement, y compris la fixation d’un temps de réflexion approprié,
+  - 7\. à une rémunération équitable des personnes participant au projet de recherche et au respect de l’interdiction de commercialiser (art. 9 LRH), et
+  - 8\. au respect des prescriptions relatives à l’intégrité scientifique;
+
+- d. l’intégralité des documents relatifs au recrutement, à l’information et au consentement ainsi que leur intelligibilité, notamment pour ce qui a trait à l’intégration éventuelle de personnes particulièrement vulnérables;
+- e. pour les projets de recherche de catégorie B, la garantie du droit à l’indemnisation en cas de dommages (art. 20 LRH);
+- f. en outre, pour les examens à l’aide de sources de rayonnement[^15-1], la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose sauf si un avis de l’Office fédéral de la santé publique (OFSP) doit être sollicité en application de l’art. 19, al. 2;
+- g les qualifications professionnelles de la direction du projet et des autres chercheurs;
+- h. le respect des prescriptions sur la conservation du matériel biologique ou des données personnelles liées à la santé selon l’art. 5;
+- i. l’existence d’infrastructures appropriées au lieu de réalisation du projet de recherche;
+- j. le financement du projet de recherche et les accords entre le promoteur, les tiers et l’investigateur relatifs à la répartition des tâches, la rémunération et à la publication;
+- k. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes participant au projet.
+
+[^15-1]: Nouvelle expression selon le ch. 5 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 16
+
+**Procédure et délais**
+
+<sup>1</sup> La commission d’éthique confirme la réception de la demande à la direction du projet dans les sept jours et lui indique les éléments du dossier qui ne sont pas conformes aux exigences formelles.
+
+<sup>2</sup> Elle rend une décision dans les 30 jours à compter de l’attestation de la réception du dossier conforme aux exigences formelles.
+
+<sup>3</sup> Si la commission d’éthique exige des informations supplémentaires au sens de l’art. 14, al. 2, le délai est suspendu jusqu’à la réception de ces documents.
+
+#### Art. 17
+
+**Projets de recherche multicentriques**
+
+<sup>1</sup> La direction du projet dépose la demande pour un projet de recherche multicentrique au sens de l’art. 47, al. 2, LRH auprès de la commission directrice.
+
+<sup>2</sup> La commission directrice confirme la réception de la demande à la direction du projet dans les sept jours en lui indiquant si le dossier est conforme aux exigences formelles.
+
+<sup>3</sup> Sur demande de la commission directrice, la direction du projet fournit les documents requis au sens de l’annexe 2 en nombre suffisant aux commissions d’éthiques compétentes pour les différents lieux de réalisation du projet de recherche (commissions d’éthique concernées). Celles-ci examinent si les exigences locales sont remplies et transmettent leur avis à la commission directrice dans les quinze jours.
+
+<sup>4</sup> La commission directrice rend une décision dans les 45 jours à compter de la confirmation de réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision aux commissions d’éthique concernées.
+
+#### Art. 18
+
+**Modifications**
+
+<sup>1</sup> Les modifications essentielles apportées à un projet de recherche autorisé doivent être autorisées par la commission d’éthique avant leur exécution. Les mesures qui doivent être prises immédiatement pour la protection de la personne participant à l’essai sont exemptées de cette obligation.
+
+<sup>2</sup> La direction du projet fournit à la commission d’éthique les documents requis au sens de l’annexe 2 qui sont concernés par la modification. En même temps, elle l’informe sur les raisons de la modification.
+
+<sup>3</sup>
+
+Sont considérées comme des modifications essentielles:
+
+- a. les modifications qui ont une influence sur la sécurité et la santé des personnes participant au projet de recherche ainsi que sur leurs droits et leurs obligations;
+- b. les modifications du plan de recherche qui ont trait à l’objectif ou à la problématique centrale du projet de recherche, pour autant qu’il s’agisse d’un projet de la catégorie B;
+- c. un changement de lieu de réalisation ou l’ajout d’un lieu de réalisation; ou
+- d. le changement de la direction du projet ou du promoteur.
+
+<sup>4</sup> La commission d’éthique rend une décision sur les modifications essentielles dans les 30 jours. L’art. 16 est applicable par analogie.
+
+<sup>5</sup> L’art. 17 est applicable par analogie à la procédure d’autorisation en cas de modifications essentielles apportées à un projet de recherche multicentrique autorisé.
+
+#### Art. 19
+
+**Procédure applicable aux examens à l’aide de sources de rayonnement**
+
+<sup>1</sup> Pour les examens à l’aide de sources de rayonnement, la direction du projet fournit à la commission d’éthique compétente les documents supplémentaires requis au sens de l’annexe 2, ch. 2. La procédure d’autorisation est régie par les art. 14 à 18, sous réserve des alinéas qui suivent.
+
+<sup>2</sup>
+
+La direction du projet fournit de plus à l’OFSP les documents de la demande requis au sens de l’annexe 2, ch. 3, et il en avise parallèlement la commission d’éthique, lorsque la dose efficace est supérieure à 5 mSv par personne et par an, compte tenu du facteur d’incertitude, et:
+
+- a. qu’un produit radiopharmaceutique non autorisé en Suisse est utilisé;
+- b. qu’un produit radiopharmaceutique autorisé en Suisse est utilisé et qu’il ne s’agit pas d’un examen de routine de médecine nucléaire, ou
+- c. qu’une autre source radioactive[^19-1].
+
+<sup>3</sup> L’OFSP émet un avis à l’intention de la commission d’éthique sur le respect de la législation en matière de radioprotection ainsi que sur l’évaluation de la dose.
+
+<sup>4</sup>
+
+La commission d’éthique accorde l’autorisation, lorsque:
+
+- a. les exigences visées à l’art. 15 sont respectées; et que
+- b. l’OFSP n’oppose pas d’objections au projet de recherche.
+
+<sup>5</sup> En pareil cas, elle rend sa décision dans les 45 jours, à compter de la confirmation de réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
+
+[^19-1]: Nouvelle expression selon le ch. 5 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+
+### Section 3 Annonces et rapport
+
+#### Art. 20
+
+**Annonce des mesures de sécurité et de protection**
+
+La direction du projet annonce à la commission d’éthique dans les sept jours les mesures de sécurité et de protection devant être prises immédiatement pendant la réalisation d’un projet de recherche ainsi que les événements qui ont rendu ces mesures nécessaires.
+
+#### Art. 21
+
+**Evénements graves**
+
+<sup>1</sup> Si des événements graves se produisent sur des personnes participant au projet de recherche au cours de sa réalisation, celui-ci doit être interrompu.
+
+<sup>2</sup>
+
+Est considéré comme un événement grave tout événement préjudiciable dont on ne peut pas exclure qu’il soit imputable au prélèvement de matériel biologique ou à la collecte de données personnelles liées à la santé et qui:
+
+- a. nécessite un traitement stationnaire ou la prolongation de celui-ci alors que cette mesure n’était pas prévue dans le protocole de recherche;
+- b. entraîne un handicap ou une invalidité durable ou grave;
+- c. met la vie en danger ou entraîne un décès.
+
+<sup>3</sup> Si cela est nécessaire pour garantir la sécurité et la santé des personnes participant au projet de recherche, d’autres événements doivent être désignés comme graves par le protocole de recherche ou à la demande de la commission d’éthique compétente.
+
+<sup>4</sup> La direction du projet annonce à la commission d’éthique les événements graves dans les sept jours. Elle établit en outre, à l’intention de cette dernière, un rapport sur le lien entre l’événement grave annoncé et la collecte de données personnelles liées à la santé ou le prélèvement de matériel biologique. En même temps, elle présente des propositions sur la suite à donner.
+
+<sup>5</sup> Si un événement grave se produit au cours d’un examen à l’aide d’une source de rayonnement pour lequel l’OFSP a rendu un avis selon l’art. 19, cet événement doit en outre être annoncé à l’OFSP dans les sept jours.
+
+<sup>6</sup> La commission d’éthique rend sa décision sur la poursuite du projet de recherche dans les 30 jours suivant la réception du rapport.
+
+#### Art. 22
+
+**Annonce de la fin ou de l’arrêt du projet de recherche**
+
+La direction du projet annonce à la commission d’éthique la fin ou l’arrêt du projet de recherche dans les 90 jours.
+
+#### Art. 23
+
+**Contrôle, annonce et rapport sur les examens à l’aide de sources de rayonnement**[^23-1]
+
+<sup>1</sup> Lors d’examens avec des sources de rayonnement, la direction du projet contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^23-2].
+
+<sup>2</sup> Elle annonce un dépassement de la contrainte de dose dans un délai de sept jours ouvrables suivant la constatation de l’événement à la commission d’éthique.
+
+<sup>3</sup> La commission d’éthique peut solliciter l’expertise technique de l’OFSP pour l’appréciation du calcul ou de l’estimation des doses ainsi que la détermination des mesures à prendre.
+
+<sup>4</sup> La direction du projet transmet à l’OFSP dans l’année suivant la fin ou l’arrêt d’un projet de recherche qui comportait des examens avec des sources radioactives un rapport final avec toutes les indications pertinentes sur la radioprotection, en particulier une estimation a posteriori de la dose.
+
+<sup>5</sup> Aucun rapport au sens de l’al. 4 n’est exigé pour les examens de routine de médecine nucléaire avec des produits radiopharmaceutiques autorisés.
+
+<sup>6</sup> Dans le cadre de son avis au sens de l’art. 19 ou sur demande, l’OFSP peut prévoir d’autres exceptions à l’obligation d’établir un rapport visé à l’al. 4.
+
+[^23-1]: Nouvelle teneur selon le ch. 5 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^23-2]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+## Chapitre 3 Réutilisation pour la recherche avec du matériel biologique et des données personnelles liées à la santé
+
+### Section 1 Dispositions générales
+
+#### Art. 24
+
+**Réutilisation**
+
+Toute opération effectuée à des fins de recherche avec du matériel biologique déjà prélevé ou des données déjà collectées est considéré comme une réutilisation de matériel biologique ou de données personnelles liées à la santé, en particulier:
+
+- a. le fait de se procurer, de regrouper ou de collecter du matériel biologique ou des données personnelles liées à la santé;
+- b. l’enregistrement ou le catalogage de matériel biologique ou de données personnelles liées à la santé;
+- c. la conservation ou la saisie dans des biobanques ou des banques de données;
+- d. le fait de rendre accessibles, de mettre à disposition ou de communiquer du matériel biologique ou des données personnelles liées à la santé.
+
+#### Art. 25
+
+**Anonymisation**
+
+<sup>1</sup> Pour anonymiser du matériel biologique et des données personnelles liées à la santé, toutes les informations qui, combinées, permettent de rétablir l’identité de la personne sans efforts disproportionnés doivent être rendues définitivement méconnaissables ou être détruites.
+
+<sup>2</sup> Doivent être rendus méconnaissables ou être détruits, en particulier, le nom, l’adresse, la date de naissance et les numéros d’identification caractéristiques.
+
+#### Art. 26
+
+**Codage**
+
+<sup>1</sup> Le matériel biologique et les données personnelles liées à la santé sont réputés correctement codés au sens de l’art. 32, al. 2, et 33, al. 2, LRH lorsqu’ils sont qualifiés d’anonymisés dans l’optique d’une personne qui n’a pas d’accès au code.
+
+<sup>2</sup> Le code doit être conservé par une personne qui est désignée dans la demande et n’est pas impliquée dans le projet de recherche, séparément du matériel biologique ou des données personnelles et conformément aux principes visés à l’art. 5, al. 1.
+
+#### Art. 27
+
+**Conditions de décodage**
+
+Le matériel biologique codé et les données personnelles liées à la santé codées peuvent uniquement être décodés si:
+
+- a. le décodage est nécessaire pour prévenir un risque immédiat pour la santé de la personne concernée;
+- b. une base légale pour le décodage existe; ou que
+- c. le décodage est nécessaire pour garantir les droits de la personne concernée, notamment le droit de révocation.
+
+### Section 2 Consentement éclairé et information
+
+#### Art. 28
+
+**Consentement éclairé pour la réutilisation de matériel biologique et de données personnelles génétiques pour un projet de recherche sous une forme non codée**
+
+<sup>1</sup>
+
+Les informations suivantes doivent être fournies à la personne concernée par écrit et par oral:
+
+- a. la nature, le but, la durée et le déroulement du projet de recherche;
+- b. le droit qu’elle a en tout temps de refuser de participer au projet de recherche ou de révoquer son consentement sans avoir à justifier sa décision;
+- c. les conséquences qu’une révocation du consentement a concernant le matériel biologique utilisé avant la révocation et les données personnelles utilisées avant la révocation;
+- d. le droit qu’elle a de recevoir en tout temps des renseignements sur des questions se rapportant au projet de recherche;
+- e. le droit qu’elle a d’être informée des résultats concernant sa santé ou de renoncer à recevoir ces informations, ou de désigner une personne qui prend cette décision pour elle;
+- f. les mesures destinées à assurer la protection du matériel biologique et des données personnelles;
+- g. les principales sources de financement du projet de recherche;
+- h. d’autres éléments nécessaires pour qu’elle puisse prendre sa décision.
+
+<sup>2</sup> L’information peut de plus être donnée autrement que sous forme de texte.
+
+<sup>3</sup> Le consentement est donné par écrit.
+
+<sup>4</sup> L’art. 9 s’applique par analogie aux exceptions à la forme écrite.
+
+#### Art. 29
+
+**Consentement éclairé pour la réutilisation de matériel biologique et de données personnelles génétiques à des fins de recherche sous une forme codée**
+
+<sup>1</sup>
+
+Les informations suivantes doivent être fournies à la personne concernée par écrit ou par oral:
+
+- a. la réutilisation envisagée du matériel biologique codé et des données personnelles génétiques codées à des fins de recherche;
+- b. le droit qu’elle a, en tout temps, de refuser de participer au projet de recherche ou de révoquer son consentement sans avoir à justifier sa décision;
+- c. les mesures destinées à assurer la protection du matériel biologique et des données personnelles, en particulier la gestion du code;
+- d. la possibilité de transmettre du matériel biologique et des données personnelles génétiques à des tiers à des fins de recherche.
+
+<sup>2</sup> La personne concernée doit donner son consentement par écrit; l’art. 9 s’applique par analogie aux exceptions.
+
+#### Art. 30
+
+**Information sur l’anonymisation envisagée du matériel biologique et des données personnelles génétiques à des fins de recherche**
+
+Les informations suivantes doivent être fournies à la personne concernée par écrit ou par oral:
+
+- a. l’anonymisation envisagée du matériel biologique et des données personnelles génétiques à des fins de recherche;
+- b. le droit qu’elle a de s’y opposer;
+- c. les conséquences de l’anonymisation sur les résultats concernant sa santé;
+- d. la possibilité de transmettre du matériel biologique et des données à des tiers à des fins de recherche.
+
+#### Art. 31
+
+**Consentement éclairé pour la réutilisation de données personnelles non génétiques liées à la santé à des fins de recherche sous une forme non codée**
+
+<sup>1</sup>
+
+Les informations suivantes doivent être fournies à la personne concernée par écrit ou par oral:
+
+- a. la réutilisation envisagée des données personnelles non génétiques liées à la santé à des fins de recherche;
+- b. le droit qu’elle a, en tout temps, de refuser de participer au projet de recherche ou de révoquer son consentement sans avoir à justifier sa décision;
+- c. le droit qu’elle a d’être informée des résultats concernant sa santé ou de renoncer à recevoir ces informations;
+- d. les mesures destinées à assurer la protection des données personnelles;
+- e. la possibilité de transmettre des données personnelles à des tiers à des fins de recherche.
+
+<sup>2</sup> La personne concernée doit donner son consentement par écrit; l’art. 9 s’applique par analogie aux exceptions.
+
+#### Art. 32
+
+**Information sur la réutilisation envisagée de données personnelles non génétiques liées à la santé à des fins de recherche sous une forme codée**
+
+Les informations suivantes doivent être fournies à la personne concernée par écrit ou par oral:
+
+- a. la réutilisation envisagée des données personnelles non génétiques codées liées à la santé à des fins de recherche;
+- b. le droit qu’elle a de s’y opposer;
+- c. les mesures destinées à assurer la protection des données personnelles, notamment la gestion du code;
+- d. la possibilité de transmettre des données personnelles à des tiers à des fins de recherche.
+
+### Section 3 Procédure d’autorisation et obligations d’annoncer pour les projets de recherche avec du matériel biologique et des données personnelles liées à la santé
+
+#### Art. 33
+
+**Projet de recherche**
+
+Est considéré comme un projet de recherche au sens de la présente section tout projet dans le cadre duquel du matériel biologique prélevé antérieurement ou des données personnelles liées à la santé collectées antérieurement sont réutilisés pour répondre à une problématique scientifique.
+
+#### Art. 34
+
+**Domaines de vérification**
+
+<sup>1</sup>
+
+La commission d’éthique vérifie:
+
+- a. que la demande est complète;
+- b. que les conditions visées aux art. 32 et 33 LRH sont remplies;
+- c. pour les projets de recherche portant sur du matériel biologique codé et des données personnelles codées liées à la santé, l’exactitude et la sécurité du codage;
+- d. le respect des exigences relatives à la conservation du matériel biologique ou des données personnelles liées à la santé;
+- e. les qualifications professionnelles de la direction du projet et des autres personnes prenant part au projet de recherche;
+- f. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes concernées.
+
+<sup>2</sup> Ce faisant, elle tient compte des autorisations déjà délivrées par des commissions d’éthique pour le matériel biologique concerné ou les données personnelles liées à la santé concernées.
+
+#### Art. 35
+
+**Dispositions applicables**
+
+Les dispositions suivantes sont applicables par analogie:
+
+- a. pour le dépôt de la demande, l’art. 14;
+- b. pour la procédure et les délais, l’art. 16;
+- c. pour les projets de recherche multicentriques, l’art. 17.
+
+#### Art. 36
+
+**Obligations d’annoncer**
+
+<sup>1</sup> La direction du projet annonce au préalable à la commission d’éthique un changement de direction du projet.
+
+<sup>2</sup> Elle annonce la fin ou l’arrêt du projet de recherche à la commission d’éthique dans les 90 jours.
+
+### Section 4 Procédure d’autorisation et obligations d’annoncer pour la réutilisation de matériel biologique et de données personnelles liées à la santé à des fins de recherche en cas de défaut de consentement ou d’information au sens de l’art. 34 LRH
+
+#### Art. 37
+
+**Domaines de vérification**
+
+La commission d’éthique vérifie:
+
+- a. que la demande est complète;
+- b. les raisons visées à l’art. 34, let. a et b, LRH;
+- c. l’intérêt prépondérant du but envisagé par le projet de recherche sur celui de la personne concernée à décider de la réutilisation de son matériel biologique et des données personnelles liées à sa santé;
+- d. le cercle des personnes habilitées à transmettre le matériel biologique et les données personnelles;
+- e. le respect des exigences relatives à la conservation du matériel biologique ou des données personnelles liées à la santé et le cercle des personnes autorisées à y accéder;
+- f. les qualifications professionnelles des personnes habilitées à recevoir le matériel biologique et les données personnelles;
+- g. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes concernées.
+
+#### Art. 38
+
+**Dispositions applicables**
+
+Les dispositions suivantes sont applicables par analogie:
+
+- a. pour le dépôt de la demande, l’art. 14;
+- b. pour la procédure et les délais, l’art. 16;
+- c. pour la réutilisation ou la collecte de matériel biologique ou de données personnelles liées à la santé selon un protocole de recherche uniforme, mais dans différents cantons, la procédure selon l’art. 17.
+
+#### Art. 39
+
+**Autorisation**
+
+L’autorisation comporte au moins les indications suivantes:
+
+- a. le but dans lequel le matériel biologique et les données personnelles liées à la santé peuvent être réutilisés;
+- b. la désignation du matériel biologique et des données personnelles liées à la santé qu’englobe l’autorisation;
+- c. le cercle des personnes habilitées à transmettre le matériel biologique et les données personnelles liées à la santé;
+- d. le cercle des personnes habilitées à recevoir le matériel biologique et les données personnelles.
+
+#### Art. 40
+
+**Annonces**
+
+<sup>1</sup> La direction du projet doit annoncer au préalable à la commission d’éthique toute modification des indications mentionnées dans l’autorisation.
+
+<sup>2</sup> Elle annonce la fin ou l’arrêt de la collecte à la commission d’éthique dans les 90 jours.
+
+## Chapitre 4 Recherche sur des personnes décédées
+
+#### Art. 41
+
+**Domaines de vérification**
+
+La commission d’éthique vérifie:
+
+- a. que la demande est complète;
+- b. la qualité scientifique;
+- c. le respect des exigences relatives au consentement (art. 36 LRH);
+- d. pour les projets de recherche sur des personnes décédées placées sous respiration artificielle, la nécessité de les inclure dans le projet de recherche (art. 37, al. 2, LRH) et l’indépendance des personnes ayant participé au constat du décès (art. 37, al. 3, LRH);
+- e. le respect des exigences relatives à la conservation du matériel biologique ou des données personnelles liées à la santé;
+- f. le respect de l’interdiction de commercialiser (art. 9 LRH);
+- g. les qualifications professionnelles de la direction du projet et des autres chercheurs.
+
+#### Art. 42
+
+**Dispositions applicables**
+
+Les dispositions suivantes sont applicables par analogie:
+
+- a. pour le dépôt de la demande, l’art. 14;
+- b. pour la procédure et les délais, l’art. 16;
+- c. pour les projets de recherche multicentriques, la procédure selon l’art. 17.
+
+#### Art. 43
+
+**Annonces**
+
+<sup>1</sup>
+
+La direction du projet doit annoncer au préalable à la commission d’éthique les modifications suivantes apportées au projet de recherche:
+
+- a. le changement de direction du projet;
+- b. pour les projets de recherche sur des personnes décédées placées sous respiration artificielle, toute modification essentielle du plan de recherche.
+
+<sup>2</sup> Elle annonce la fin ou l’arrêt du projet de recherche à la commission d’éthique dans les 90 jours.
+
+## Chapitre 5 Recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés
+
+#### Art. 44
+
+**Consentement éclairé**
+
+<sup>1</sup>
+
+Pour les projets de recherche sur des embryons et des foetus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés, les informations suivantes sont fournies par écrit et par oral à la femme enceinte, respectivement au couple concerné:
+
+- a. l’utilisation de l’embryon ou du fœtus à des fins de recherche;
+- b. le droit qu’ils ont en tout temps de refuser une telle utilisation ou de révoquer leur consentement sans avoir à justifier leur décision;
+- c. les mesures destinées à assurer la protection du matériel biologique et des données personnelles;
+- d. le traitement des embryons ou des fœtus après l’achèvement de la recherche.
+
+<sup>2</sup> L’information peut de plus être donnée autrement que sous forme de texte.
+
+<sup>3</sup> Les personnes concernées doivent donner leur consentement par écrit. Les conséquences d’une révocation sont régies par l’art. 10.
+
+<sup>4</sup> L’art. 9 s’applique par analogie aux exceptions à la forme écrite.
+
+#### Art. 45
+
+**Domaines de vérification**
+
+La commission d’éthique vérifie:
+
+- a. que la demande est complète;
+- b. la qualité scientifique;
+- c. la conformité avec les exigences relatives à l’information et au consentement;
+- d. pour les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse, le respect des conditions visées à l’art. 39, al. 1, 2 et 4 LRH;
+- e. le respect de l’interdiction de commercialiser (art. 9 LRH);
+- f. le respect des exigences relatives à la conservation du matériel biologique ou des données personnelles liées à la santé;
+- g. les qualifications professionnelles de la direction du projet et des autres chercheurs;
+- h. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection de la femme enceinte ou du couple concerné.
+
+#### Art. 46
+
+**Dispositions applicables**
+
+Les dispositions suivantes sont applicables par analogie:
+
+- a. pour le dépôt de la demande, l’art. 14;
+- b. pour la procédure et les délais, l’art. 16;
+- c. pour les projets de recherche multicentriques, la procédure selon l’art. 17;
+- c. pour les obligations en matière d’annonce, l’art. 36.
+
+## Chapitre 6 Dispositions finales
+
+#### Art. 47
+
+**Mise à jour des annexes**
+
+Le Département fédéral de l’intérieur peut mettre à jour les annexes en fonction des développements internationaux ou techniques. Pour les mises à jour qui peuvent constituer des entraves techniques au commerce, il agit en concertation avec le Département fédéral de l’économie, de la formation et de la recherche.
+
+#### Art. 48
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les projets de recherche visés au chapitre 2 qui ont été autorisés avant le 1<sup>er</sup> janvier 2014 sont réputés être des projets de recherche de catégorie B.
+
+<sup>2</sup> L’autorité qui a autorisé un projet de recherche avant le 1<sup>er</sup> janvier 2014 peut classer un projet de recherche dans la catégorie A sur demande. En pareil cas, les obligations en matière de responsabilité, de garantie et d’annonces sont régies par le nouveau droit.
+
+<sup>3</sup> La commission d’éthique rend sa décision selon l’al. 2 en procédure simplifiée selon l’art. 6 de l’ordonnance d’organisation concernant la LRH du 20 septembre 2013[^48-1].
+
+<sup>4</sup>
+
+Les dispositions de la présente ordonnance sont applicables:
+
+- a. à l’examen des modifications essentielles apportées aux projets de recherche visés au chapitre 2;
+- b. aux annonces relatives aux projets de recherche visés aux chapitres 3 à 5.
+
+<sup>5</sup> La commission d’éthique compétente rend une décision sur la demande d’autorisation d’un projet de recherche non assujetti à autorisation selon l’ancien droit au sens de l’art. 67, al. 2, LRH dans les six mois à compter de la confirmation de réception du dossier conforme aux exigences formelles.
+
+[^48-1]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+
+#### Art. 49
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2014.
+
+Annexe 1
+
+(art. 13)
+
+## Montant de couverture
+
+Le montant de couverture pour les projets de recherche sur des personnes relevant de la catégorie B est d’au moins:
+
+- a. 250 000 francs par personne;
+- b. 20 000 francs pour les dommages matériels;
+- c. 3 millions de francs pour l’ensemble du projet de recherche.
+
+Annexe 2
+
+(art. 14, 17, 18 et 19)
+
+## Documents requis pour la procédure auprès de la commission d’éthique compétente
+
+### 1 Documents requis pour les projets de recherche sur des personnes en lien avec le prélèvement de matériel biologique et la collecte de données personnelles liées à la santé
+
+- 1\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
+- 1\.2 plan de recherche;
+- 1\.3 formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment l’annonce ou les textes des annonces;
+- 1\.4 autres documents remis à la personne participant au projet de recherche;
+- 1\.5 indications relatives au mode et au montant de la rémunération des personnes qui participent au projet de recherche;
+- 1\.6 pour les projets de recherche de catégorie B, le certificat d’assurance ou autre attestation de garantie d’éventuels dommages;
+- 1\.7 documentation concernant la sécurité du traitement du matériel biologique et des données personnelles, notamment leur conservation;
+- 1\.8 curriculum vitæ de la direction du projet incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
+- 1\.9 attestation du caractère approprié et de la disponibilité des infrastructures au lieu de réalisation du projet de recherche;
+- 1\.10 accords entre la direction du projet et le promoteur ou des tiers, notamment en ce qui concerne le financement du projet de recherche, la rémunération de la direction du projet et la publication.
+
+### 2 Documents supplémentaires requis pour les projets de recherche comportant des examens à l’aide de sources de rayonnement
+
+- 2\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace de rayonnement, des doses délivrées aux organes et des éventuelles doses tumorales;
+- 2\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex2-lvlu1-lvl2-1].
+
+[^annex2-lvlu1-lvl2-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+
+### 3 Documents supplémentaires requis pour les projets de recherche comportant des examens à l’aide de sources radioactives et nécessitant un avis de l’OFSP selon l’art. 19, al. 2
+
+- 3\.1 Données relatives aux propriétés radiopharmaceutiques, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et la pureté du radionucléide;
+- 3\.2 pour les produits radiopharmaceutiques autorisés, l’information professionnelle;
+- 3\.3 pour les produits radiopharmaceutiques non autorisés, les données sur le procédé de fabrication et le contrôle qualité du produit, le nom des personnes responsables et des informations sur leurs qualifications professionnelles;
+- 3\.4 le nom des personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain et des informations sur leurs qualifications professionnelles;
+- 3\.5 les données selon le formulaire de l’OFSP pour les projets de recherche de produits radiopharmaceutiques ou de substances radiomarquées[^annex2-lvlu1-lvl3-1].
+
+[^annex2-lvlu1-lvl3-1]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, Division de la radioprotection, 3003 Berne, ou consulté sur le site de l’office à l’adresse suivante: www.bag.admin.ch &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
+
+### 4 Documents requis pour les projets de recherche portant sur la réutilisation de matériel biologique et de données personnelles liées à la santé
+
+- 4\.1 Formulaire de base incluant le résumé de la problématique scientifique rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 4\.2 description de la problématique scientifique;
+- 4\.3 documentation de l’origine du matériel biologique et des données personnelles liées à la santé ainsi que du respect des conditions relatives au consentement éclairé et à l’information sur le droit d’opposition au sens des art. 32 et 33 LRH;
+- 4\.4 pour la réutilisation de matériel biologique et de données personnelles liées à la santé sous une forme codée, l’attestation de la sécurité et de l’exactitude de leur codage;
+- 4\.5 documentation concernant la sécurité du traitement du matériel biologique et des données personnelles, notamment leur conservation;
+- 4\.6 curriculum vitæ de la direction du projet incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
+- 4\.7 indications relatives aux infrastructures disponibles au lieu de réalisation du projet de recherche;
+- 4\.8 toutes les autorisations délivrées par des commissions d’éthique en Suisse pour le prélèvement du matériel biologique ou la collecte des données personnelles liées à la santé.
+
+### 5 Documents requis pour la réutilisation de matériel biologique et de données personnelles liées à la santé en cas de défaut de consentement et d’information au sens de l’art. 34 LRH
+
+- 5\.1 Formulaire de base incluant le résumé du projet rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 5\.2 plan d’action;
+- 5\.3 description des buts de recherche envisagés nécessitant la réutilisation du matériel biologique ou des données personnelles liées à la santé, y compris un exposé présentant dans quelle mesure l’intérêt de la recherche prime celui des personnes concernées;
+- 5\.4 désignation du matériel biologique ou des données personnelles liées à la santé qui doivent être réutilisés;
+- 5\.5 désignation du cercle de personnes habilitées à transmettre le matériel biologique ou les données personnelles liées à la santé;
+- 5\.6 désignation des personnes habilitées à recevoir le matériel biologique ou les données personnelles liées à la santé;
+- 5\.7 désignation des personnes responsables d’assurer la protection des données communiquées;
+- 5\.8 désignation du cercle de personnes habilitées à accéder au matériel biologique ou aux données liées à la santé;
+- 5\.9 documentation concernant la sécurité du traitement du matériel biologique et des données personnelles, notamment leur conservation;
+- 5\.10 indications relatives à la durée de conservation;
+- 5\.11 curriculum vitæ de la direction du projet incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
+- 5\.12 indications relatives aux infrastructures disponibles au lieu de réalisation du projet de recherche.
+
+### 6 Documents requis pour les projets de recherche sur des personnes décédées
+
+- 6\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 6\.2 plan de recherche;
+- 6\.3 attestation du respect des exigences relatives au consentement au sens de l’art. 36 LRH;
+- 6\.4 preuve du constat préalable du décès au sens de l’art. 37, al. 1, LRH;
+- 6\.5 pour les projets de recherche sur des personnes décédées placées sous respiration artificielle, la justification de la raison pour laquelle il faut inclure ces personnes dans le projet de recherche, et la preuve de l’indépendance des personnes ayant constaté le décès;
+- 6\.6 documents relatifs à d’éventuelles rémunérations;
+- 6\.7 documentation concernant la sécurité du traitement du matériel biologique et des données personnelles, notamment leur conservation;
+- 6\.8 curriculum vitæ de la direction du projet incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
+- 6\.9 indications relatives aux infrastructures disponibles au lieu de réalisation du projet de recherche;
+- 6\.10 accords entre la direction du projet et des tiers, notamment en ce qui concerne le financement du projet de recherche, la rémunération de la direction du projet et la publication.
+
+### 7 Documents requis pour les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés
+
+- 7\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 7\.2 plan de recherche;
+- 7\.3 documents relatifs au recrutement, notamment les éventuels textes des annonces, ainsi que les formulaires relatifs à l’information et au consentement;
+- 7\.4 description des mesures prévues pour garantir le respect des exigences relatives au consentement au sens des art. 39, al. 1, ou 40, al. 1, LRH;
+- 7\.5 description des mesures prévues pour garantir le respect du constat préalable du décès au sens des art. 39, al. 3, respectivement l’art. 40, al. 2, LRH;
+- 7\.6 pour les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse, l’attestation du respect des conditions visées à l’art. 39, al. 2 et 4, LRH;
+- 7\.7 documents relatifs à d’éventuelles rémunérations;
+- 7\.8 documentation concernant la sécurité du traitement du matériel biologique et des données personnelles, notamment leur conservation;
+- 7\.9 curriculum vitæ de la direction du projet incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
+- 7\.10 indications relatives aux infrastructures disponibles au lieu de réalisation du projet de recherche;
+- 7\.11 accords entre la direction du projet et des tiers, notamment en ce qui concerne le financement du projet de recherche, la rémunération de la direction du projet et la publication.
+
+### 8 Documents à fournir aux commissions d’éthique concernées pour les projets de recherche multicentriques
+
+- 8\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 8\.2 plan de recherche;
+- 8\.3 pour les projets de recherche sur des personnes ou les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés, les formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment l’annonce ou les textes des annonces, utilisés au lieu de réalisation concerné;
+- 8\.4 pour les projets de recherche sur des personnes décédées, l’attestation du respect des exigences relatives au consentement au sens de l’art. 36 LRH, ainsi que la preuve du constat préalable du décès au sens de l’art. 37, al. 1, LRH au lieu de réalisation concerné;
+- 8\.5 curriculum vitæ de la personne responsable du projet de recherche au lieu de réalisation concerné, incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche au lieu de réalisation concerné, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
+- 8\.6 attestation du caractère approprié et de la disponibilité des infrastructures au lieu de réalisation concerné du projet de recherche;
+- 8\.7 accords entre le promoteur et la personne responsable du projet de recherche au lieu de réalisation concerné, notamment en ce qui concerne sa rémunération;
+- 8\.8 pour les projets de recherche sur des personnes relevant de la catégorie B, le certificat d’assurance ou autre attestation de garantie d’éventuels dommages survenus au lieu de réalisation concerné, y compris les accords y relatifs entre le promoteur et la personne responsable au lieu de réalisation.

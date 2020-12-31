@@ -1,0 +1,1758 @@
+---
+sr: "131.233"
+title: "Constitution de la République et Canton de Neuchâtel, du 24 septembre 2000"
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
+language: fr
+version: 2018-09-17
+adopted: 2000-09-24
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20180917/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20180917-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20180917/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Constitution de la République et Canton de Neuchâtel
+
+du 24 septembre 2000 (Etat le 17 septembre 2018)[^t-1]
+
+[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+
+Le peuple du canton de Neuchâtel,
+
+conscient de ses responsabilités à l’égard de la personne humaine, de la communauté, de l’environnement naturel et des générations futures, respectueux de la diversité des cultures et des régions, soucieux d’assurer, autant qu’il dépend de lui, la liberté, la justice, la paix et la prospérité dans un ordre démocratique et d’aménager une collectivité vivante, unie, solidaire et ouverte au monde,
+
+se donne la Constitution qui suit:
+
+## Titre I Dispositions générales
+
+### La République et Canton de Neuchâtel
+
+#### Art. 1
+
+<sup>1</sup> Le canton de Neuchâtel est une république démocratique, laïque, sociale et garante des droits fondamentaux.
+
+<sup>2</sup> Le pouvoir appartient au peuple. Il est exercé par le corps électoral et les autorités dans les formes prévues par la présente Constitution.
+
+<sup>3</sup> Le canton de Neuchâtel est l’un des Etats de la Confédération suisse. Il comprend le territoire qui lui est garanti par la Constitution fédérale.
+
+<sup>4</sup> Le canton est divisé en communes.[^1-1]
+
+[^1-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+### Capitale du canton
+
+#### Art. 2
+
+Le chef-lieu du canton est la ville de Neuchâtel, où le Grand Conseil et le Conseil d’Etat ont leur siège.
+
+### Armoiries du canton
+
+#### Art. 3
+
+Les armoiries du canton sont:
+
+Tiercé en pal de sinople, d’argent et de gueules, une croisette du second au canton senestre du chef.
+
+### Langue officielle
+
+#### Art. 4
+
+<sup>La langue officielle du canton est le français.</sup>
+
+### Tâches de l’Etat et des communes
+
+#### Art. 5
+
+<sup>1</sup>
+
+Dans les limites de leurs compétences et en complément de l’initiative et de la responsabilité des autres collectivités et des particuliers, l’Etat et les communes assument les tâches que la loi leur confie, notamment:
+
+- a. la protection de la liberté des personnes;
+- b. le maintien de la sécurité et de l’ordre publics;
+- c. l’instruction et la formation, scolaire et professionnelle, ainsi que la formation des adultes;
+- d. l’accueil et l’intégration des étrangères et des étrangers, ainsi que la protection des minorités;
+- e. la promotion et la sauvegarde de la santé;
+- f. le développement de l’économie, ainsi que le maintien et la création d’emplois;
+- g. l’équilibre entre les régions, ainsi que la collaboration et la péréquation financière intercommunales;
+- h. la protection sociale;
+- i. la politique du logement;
+- j. la protection et l’assainissement de l’environnement, ainsi que la sauvegarde du paysage et du patrimoine;
+- k. l’aménagement du territoire, l’urbanisme et la police des constructions;
+- l. l’approvisionnement en eau et en énergie, la gestion parcimonieuse des ressources non renouvelables, ainsi que l’encouragement à l’utilisation des ressources renouvelables;
+- m. la politique des transports et des communications, en particulier l’encouragement des transports publics;
+- n. la promotion de la culture et des arts;
+- o. le soutien des sciences et de la recherche;
+- p. l’encouragement des sports;
+- q. la coopération intercantonale et internationale.
+
+<sup>2</sup> Lorsqu’ils accomplissent leurs tâches et en cas de conflit d’intérêts, l’Etat et les communes privilégient les intérêts des générations futures. Ils prêtent une attention particulière aux exigences du développement durable et au maintien de la biodiversité.
+
+### Responsabilité des collectivités publiques
+
+#### Art. 6
+
+<sup>1</sup> L’Etat et les communes répondent des dommages que leurs agents, dans l’exercice de leurs fonctions, causent sans droit à des tiers.
+
+<sup>2</sup> La loi fixe les conditions auxquelles l’Etat et les communes répondent des dommages que leurs agents causent de manière licite.
+
+## Titre II Droits fondamentaux, buts et mandats sociaux
+
+### Chapitre 1 Droits fondamentaux
+
+### Dignité humaine
+
+#### Art. 7
+
+<sup>1</sup> La dignité humaine est respectée et protégée.
+
+<sup>2</sup> La torture, de même que les traitements inhumains ou dégradants, sont interdits.
+
+### Egalité et interdiction des discriminations
+
+#### Art. 8
+
+<sup>1</sup> L’égalité de droit est garantie. Nul ne doit subir de discrimination, notamment du fait de son origine, de son ethnie, de sa couleur, de son sexe, de sa langue, de sa situation sociale, de son mode de vie, de ses convictions religieuses, philosophiques ou politiques ou du fait d’une déficience physique, mentale ou psychique.
+
+<sup>2</sup> La femme et l’homme sont égaux en droit. Ils ont droit notamment à la même formation, à un salaire égal pour un travail de valeur égale, ainsi qu’à un accès égal à la fonction publique.
+
+### Protection de la bonne foi, interdiction de l’arbitraire, non‑rétroactivité des lois
+
+#### Art. 9
+
+<sup>1</sup> Toute personne a le droit d’être protégée dans sa bonne foi et traitée sans arbitraire par les pouvoirs publics.
+
+<sup>2</sup> Sont interdites les lois rétroactives qui entraînent des charges supplémentaires pour les particuliers.
+
+### Liberté personnelle
+
+#### Art. 10
+
+<sup>1</sup> La liberté personnelle est garantie.
+
+<sup>2</sup> Sont en particulier garantis le droit à la vie, le droit à l’intégrité physique, mentale et psychique, ainsi que la liberté de mouvement.
+
+### Droit au respect de la vie privée et familiale, du domicile, de la correspondance et des télécommunications
+
+#### Art. 11
+
+<sup>1</sup> Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et de ses télécommunications.
+
+<sup>2</sup> Elle a le droit d’être protégée contre l’emploi abusif de données qui la concernent. Elle peut consulter ces données et exiger la rectification de celles qui sont inexactes et la destruction de celles qui sont inutiles.
+
+<sup>3</sup> Les autorités ne peuvent traiter des données personnelles que s’il existe une base légale et pour autant que ces données soient nécessaires à l’accomplissement de leurs tâches. Elles s’assurent que ces données sont protégées contre un emploi abusif.
+
+### Droit au mariage, autres formes de vie en commun
+
+#### Art. 12
+
+<sup>1</sup> Le droit au mariage est garanti.
+
+<sup>2</sup> La liberté de choisir une autre forme de vie en commun est reconnue.
+
+### Droit à des conditions minimales d’existence
+
+#### Art. 13
+
+Toute personne dans le besoin a droit à un logis, aux soins médicaux nécessaires et aux moyens indispensables au maintien de sa dignité.
+
+### Droits de l’enfant
+
+#### Art. 14
+
+<sup>1</sup> Tout enfant a le droit d’être protégé et assisté.
+
+<sup>2</sup> Il a droit, dans le cadre de la scolarité publique et obligatoire, à une formation gratuite correspondant à ses aptitudes.
+
+### Liberté d’établissement
+
+#### Art. 15
+
+Le libre choix du domicile et du lieu de séjour est garanti.
+
+### Liberté religieuse
+
+#### Art. 16
+
+<sup>1</sup> Toute personne a le droit de choisir librement sa religion et ses convictions philosophiques et de les professer individuellement ou collectivement.
+
+<sup>2</sup> Toute personne a le droit d’appartenir à une communauté religieuse et d’accomplir un acte ou de suivre un enseignement religieux. Nul ne peut y être contraint.
+
+### Libertés de communication et d’information
+
+#### Art. 17
+
+<sup>1</sup> Toute personne a le droit de former son opinion, de l’exprimer et de la communiquer librement, par la parole, l’écrit, l’image, le geste ou de toute autre manière.
+
+<sup>2</sup> Toute personne a le droit de recevoir des informations, de se les procurer aux sources généralement accessibles et de les diffuser librement.
+
+<sup>3</sup> La censure est interdite.
+
+### Droit à l’information
+
+#### Art. 18
+
+Toute personne a le droit de consulter les documents officiels, dans la mesure où aucun intérêt public ou privé prépondérant ne s’y oppose. La loi règle ce droit à l’information.
+
+### Liberté d’association
+
+#### Art. 19
+
+Toute personne a le droit de créer des associations, d’en faire partie et de participer à leurs activités. Nul ne peut y être contraint.
+
+### Libertés de réunion et de manifestation
+
+#### Art. 20
+
+<sup>1</sup> Toute personne a le droit d’organiser des réunions et des manifestations et d’y prendre part. Nul ne peut y être contraint.
+
+<sup>2</sup> La loi ou un règlement communal peut soumettre à autorisation les réunions et les manifestations organisées sur le domaine public.
+
+### Droit de pétition
+
+#### Art. 21
+
+<sup>1</sup> Toute personne a le droit d’adresser une pétition aux autorités et de récolter des signatures à cet effet.
+
+<sup>2</sup> Les autorités législatives et les autorités exécutives sont tenues d’examiner les pétitions quant au fond et d’y répondre le plus tôt possible.
+
+### Libertés de l’enseignement et de la recherche scientifique
+
+#### Art. 22
+
+La liberté de l’enseignement et la liberté de la recherche scientifique sont garanties.
+
+### Liberté de l’art
+
+#### Art. 23
+
+La liberté de l’expression artistique est garantie.
+
+### Liberté de la langue
+
+#### Art. 24
+
+La liberté de la langue est garantie.
+
+### Propriété
+
+#### Art. 25
+
+<sup>1</sup> La propriété est garantie.
+
+<sup>2</sup> En cas d’expropriation ou de restriction de la propriété équivalant à une expropriation, une pleine indemnité est due.
+
+### Liberté économique
+
+#### Art. 26
+
+<sup>1</sup> La liberté économique est garantie.
+
+<sup>2</sup> Sont en particulier garantis le libre choix de la profession et de l’emploi ainsi que le libre exercice de l’activité économique.
+
+### Liberté syndicale
+
+#### Art. 27
+
+<sup>1</sup> Les travailleuses et les travailleurs, les employeuses et les employeurs, ainsi que leurs organisations, ont le droit de se syndiquer pour défendre leurs intérêts, de créer des associations et d’y adhérer. Ils ne peuvent pas y être contraints.
+
+<sup>2</sup> Les conflits collectifs de travail sont, autant que possible, réglés par la négociation ou la médiation.
+
+<sup>3</sup> Le droit de grève et le droit de mise à pied collective (lock-out) sont garantis s’ils se rapportent aux relations de travail et s’ils sont conformes aux obligations de préserver la paix du travail ou de recourir à une conciliation. La loi peut régler l’exercice de ces droits; elle peut restreindre ou interdire le recours à la grève pour certaines catégories de personnes, notamment dans le secteur public.
+
+### Garanties générales de procédure
+
+#### Art. 28
+
+<sup>1</sup> Toute personne partie à une procédure judiciaire ou administrative a droit à un traitement équitable de sa cause et à une décision rendue dans un délai raisonnable.
+
+<sup>2</sup> Les parties ont, dans toute procédure, le droit d’être entendues, de consulter le dossier et de recevoir une décision motivée.
+
+<sup>3</sup> Les personnes dont les ressources sont insuffisantes ont droit à l’assistance juridique gratuite aux conditions fixées par la loi.
+
+### Garanties de procédure judiciaire
+
+#### Art. 29
+
+Toute personne dont la cause doit être traitée dans une procédure judiciaire a droit à ce que cette cause soit portée devant un tribunal établi par la loi, compétent, indépendant et impartial. Sous réserve d’exceptions réglées par la loi, l’audience et le prononcé du jugement sont publics.
+
+### Garanties en cas de privation de liberté
+
+#### Art. 30
+
+<sup>1</sup> Nul ne peut être privé de sa liberté si ce n’est dans les cas et selon les formes prévus par la loi.
+
+<sup>2</sup> Toute personne privée de liberté doit aussitôt être informée, dans une langue qu’elle comprend, des raisons de cette privation de liberté et des droits qui lui appartiennent.
+
+<sup>3</sup> Toute personne arrêtée par la police doit être présentée à une autorité judiciaire dans le plus court délai. Si celle-ci maintient la détention, la personne détenue a le droit d’être jugée dans un délai raisonnable ou d’être libérée.
+
+<sup>4</sup> Toute personne privée de liberté a le droit de faire contrôler la légalité de cette privation de liberté dans une procédure judiciaire simple et rapide.
+
+<sup>5</sup> Si la privation de liberté s’avère illégale ou injustifiée, l’Etat répare le préjudice subi.
+
+### Garanties pénales
+
+#### Art. 31
+
+<sup>1</sup> Toute personne est présumée innocente tant qu’elle n’a pas été condamnée par un jugement entré en force.
+
+<sup>2</sup> Nul ne peut être condamné pour une action ou une omission qui n’était pas punissable au moment où elle a eu lieu, ni être poursuivi ou puni en raison d’une infraction pour laquelle il a déjà été acquitté ou condamné en vertu d’un jugement entré en force.
+
+<sup>3</sup> Toute personne accusée a le droit d’être informée, dans le plus court délai, de manière détaillée et dans une langue qu’elle comprend, des accusations portées contre elle et des droits qui lui appartiennent.
+
+### Champ d’application des droits fondamentaux
+
+#### Art. 32
+
+<sup>1</sup> Les droits fondamentaux doivent être réalisés dans l’ensemble de l’ordre juridique.
+
+<sup>2</sup> Quiconque assume une tâche publique est tenu de les respecter.
+
+### Restrictions aux droits fondamentaux
+
+#### Art. 33
+
+<sup>1</sup> Les droits fondamentaux ne peuvent être limités que si la restriction se fonde sur une base légale, si elle est justifiée par un intérêt public prépondérant ou par la protection d’un droit fondamental d’autrui et si elle respecte le principe de la proportionnalité.
+
+<sup>2</sup> Toute restriction grave doit être prévue par la loi elle-même. Sont réservés les cas de dangers et de troubles sérieux et directs.
+
+<sup>3</sup> L’essence des droits fondamentaux est intangible.
+
+### Chapitre 2 Buts et mandats sociaux
+
+### Formation, travail, logement, protection sociale, famille
+
+#### Art. 34
+
+<sup>1</sup>
+
+Dans les limites de leurs compétences et en complément de l’initiative et de la responsabilité des autres collectivités et des particuliers, l’Etat et les communes prennent des mesures permettant à toute personne:
+
+- a. de se former et de se perfectionner selon ses aptitudes et ses goûts;
+- b. de subvenir à ses besoins et à ceux de sa famille par un travail approprié et d’être protégée contre les conséquences du chômage;
+- c. de trouver un logement convenable à des conditions raisonnables;
+- d. de bénéficier de l’aide nécessaire lorsqu’elle se trouve dans le besoin notamment pour raison d’âge, de maladie ou de déficience physique, mentale ou psychique.
+
+<sup>2</sup> L’Etat et les communes tiennent compte des intérêts de la famille. Ils veillent en particulier à la création de conditions qui favorisent la maternité et la paternité et qui permettent notamment de concilier la vie familiale et la vie professionnelle.
+
+### Salaire minimum
+
+#### Art. 34a
+
+[^34a-1]
+
+L’Etat institue un salaire minimum cantonal dans tous les domaines d’activité économique, en tenant compte des secteurs économiques ainsi que des salaires fixés dans les conventions collectives, afin que toute personne exerçant une activité salariée puisse disposer d’un salaire lui garantissant des conditions de vie décentes.
+
+[^34a-1]: Accepté en [votation populaire du 27 nov. 2011](http://www.admin.ch/ch/f/pore/va/20111127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 6, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+
+### Réalisation de l’égalité entre les femmes et les hommes
+
+#### Art. 35
+
+L’Etat et les communes prennent les mesures propres à promouvoir l’égalité de fait entre les femmes et les hommes.
+
+### Intégration des personnes handicapées
+
+#### Art. 36
+
+L’Etat et les communes prennent des mesures en vue de compenser les inégalités qui frappent les personnes handicapées et de favoriser leur intégration économique et sociale.
+
+## Titre III Le peuple
+
+### Le corps électoral
+
+#### Art. 37
+
+<sup>1</sup>
+
+Sont électrices ou électeurs en matière cantonale, s’ils sont âgés de dix-huit ans révolus et s’ils ne sont pas interdits pour cause de maladie mentale ou de faiblesse d’esprit:
+
+- a. les Suissesses et les Suisses domiciliés dans le canton;
+- b. les Suissesses et les Suisses de l’étranger qui sont inscrits dans le registre électoral d’une commune du canton en vertu de la législation fédérale;
+- c. les étrangères et les étrangers ainsi que les apatrides qui sont au bénéfice d’une autorisation d’établissement en vertu de la législation fédérale et qui sont domiciliés dans le canton depuis au moins cinq ans.
+
+<sup>2</sup> La loi peut prévoir une procédure qui permette à la personne interdite d’obtenir, en prouvant qu’elle est capable de discernement, sa réintégration dans le corps électoral.
+
+### Election du Grand Conseil et du Conseil d’Etat
+
+#### Art. 38
+
+Les électrices et les électeurs élisent les membres du Grand Conseil et les membres du Conseil d’Etat.
+
+### Election de la députation au Conseil des Etats suisse
+
+#### Art. 39
+
+<sup>1</sup> Les électrices et les électeurs élisent la députation du canton au Conseil des Etats suisse.
+
+<sup>2</sup> La circonscription électorale est le canton. L’élection se fait selon le système de la représentation proportionnelle. Sont éligibles les électrices et les électeurs de nationalité suisse.[^39-1]
+
+<sup>3</sup> L’élection a lieu en même temps que celle de la députation au Conseil national suisse.[^39-2]
+
+<sup>4</sup> La loi règle la procédure électorale.[^39-3]
+
+[^39-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-2]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-3]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+### Initiative populaire
+
+#### Art. 40
+
+<sup>1</sup> L’initiative populaire appartient à 4500 électrices ou électeurs, dont les signatures doivent être réunies dans un délai de six mois.[^40-1]
+
+<sup>2</sup> L’initiative s’adresse au Grand Conseil. Elle peut avoir pour objet l’adoption, la modification ou l’abrogation d’un acte du Grand Conseil qui est lui-même exposé à un référendum populaire facultatif en vertu de l’art. 42, al. 3, let. a à c.
+
+<sup>3</sup> L’initiative revêt la forme d’un projet rédigé ou celle d’une proposition générale. Elle doit respecter le principe de l’unité de la matière.
+
+<sup>4</sup> Sont réservées les dispositions sur la révision de la Constitution.
+
+[^40-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+### Motion populaire
+
+#### Art. 41
+
+Cent électrices ou électeurs peuvent adresser une motion au Grand Conseil. Le Grand Conseil traite la motion populaire comme l’initiative d’un de ses membres.
+
+### Référendum populaire facultatif
+
+#### Art. 42
+
+<sup>1</sup> La faculté de demander le vote populaire appartient à 4500 électrices ou électeurs, dont les signatures doivent être réunies dans un délai de nonante jours à compter de la publication de l’acte attaqué.[^42-1]
+
+<sup>2</sup> La demande de vote populaire doit faire l’objet d’une annonce préalable dans les vingt jours à compter de la publication de l’acte attaqué; la loi règle la procédure d’annonce.[^42-2]
+
+<sup>3</sup>
+
+La demande de vote populaire peut avoir pour objet un acte du Grand Conseil parmi les suivants:
+
+- a. les lois;
+- b. les décrets qui entraînent des dépenses;
+- c. les décrets par lesquels le Grand Conseil adresse une initiative à l’Assemblée fédérale;
+- d. les avis que le Grand Conseil donne à l’autorité fédérale au sujet de l’implantation d’une installation atomique;
+- e. les décrets d’approbation des traités internationaux ou intercantonaux dont le contenu équivaut à l’un des actes mentionnés aux lettres a et b du présent alinéa;
+- f. les décrets d’approbation des concordats conclus avec les Eglises et les autres communautés religieuses reconnues;
+- g.[^42-3] d’autres actes du Grand Conseil, si trente de ses membres en décident ainsi.[^42-4]
+
+<sup>4</sup> Sont toutefois exclus du référendum le budget, les comptes, les élections, l’amnistie, la grâce, les décisions de nature juridictionnelle et les décisions de procédure.[^42-5]
+
+[^42-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^42-2]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^42-3]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^42-4]: Anciennement al. 2.
+[^42-5]: Anciennement al. 3.
+
+### Clause d’urgence
+
+#### Art. 43
+
+<sup>1</sup> Les lois dont l’entrée en vigueur ne souffre aucun retard peuvent être déclarées urgentes par une décision prise à la majorité des deux tiers des membres du Grand Conseil qui prennent part au vote. Ces lois peuvent être mises en vigueur immédiatement. Leur durée d’application doit être limitée.
+
+<sup>2</sup> Si le vote populaire est demandé, la loi devient caduque un an après qu’elle est entrée en vigueur, à moins qu’elle n’ait été, dans l’intervalle, acceptée par le peuple. La loi caduque ne peut pas être renouvelée selon la procédure de l’urgence.
+
+### Référendum populaire obligatoire
+
+#### Art. 44
+
+<sup>1</sup>
+
+Sont soumis de plein droit au vote populaire:
+
+- a. les initiatives populaires que le Grand Conseil désapprouve; il peut alors leur opposer un contre-projet;
+- b. les modifications du territoire cantonal;
+- c. les décrets d’approbation des traités internationaux ou intercantonaux dont le contenu équivaut à une révision de la Constitution.
+
+<sup>2</sup> Sont réservées les dispositions sur la révision de la Constitution.
+
+### Information préalable
+
+#### Art. 45
+
+Avant les votes populaires, les autorités donnent une information suffisante et objective sur les objets qui y sont soumis.
+
+## Titre IV Les autorités
+
+### Chapitre 1 Généralités
+
+### Séparation des pouvoirs
+
+#### Art. 46
+
+<sup>1</sup> Les autorités cantonales sont le Grand Conseil, le Conseil d’Etat et les autorités judiciaires. Elles sont organisées selon le principe de la séparation des pouvoirs.
+
+<sup>2</sup> Dans l’exercice de leur charge, les autorités judiciaires sont indépendantes du Grand Conseil et du Conseil d’Etat.
+
+### Conditions d’éligibilité
+
+#### Art. 47
+
+Sont éligibles comme membres des autorités cantonales les électrices et les électeurs de nationalité suisse. La loi peut étendre l’éligibilité aux étrangères et aux étrangers pour les autorités judiciaires. Elle peut aussi déclarer éligibles au Conseil d’Etat et aux autorités judiciaires des personnes qui sont domiciliées dans un autre canton suisse.
+
+### Cas d’incompatibilité
+
+#### Art. 48
+
+<sup>1</sup> Nul ne peut être membre simultanément du Grand Conseil, du Conseil d’Etat ou d’une autorité judiciaire. Toutefois, les membres non permanents d’une autorité judiciaire peuvent être membres du Grand Conseil.
+
+<sup>2</sup> Les membres du personnel de l’administration cantonale ne peuvent être membres simultanément ni du Conseil d’Etat ni, sous réserve d’exceptions fixées par la loi, d’aucune autorité judiciaire. Ils peuvent être membres du Grand Conseil, à l’exception du personnel d’encadrement, des membres du personnel qui disposent d’un pouvoir décisionnel ou de police, du personnel des autorités judiciaires et des services du Grand Conseil, ainsi que des collaboratrices et des collaborateurs de l’entourage immédiat du Conseil d’Etat et de la chancellerie d’Etat; la loi définit ces catégories.
+
+<sup>3</sup> La loi peut prévoir d’autres cas d’incompatibilité.
+
+### Récusation
+
+#### Art. 49
+
+<sup>1</sup> Les membres des autorités cantonales, de même que le personnel de l’administration cantonale, doivent se récuser lorsque sont traitées des affaires qui les concernent personnellement.
+
+<sup>2</sup> Les cas de récusation dans les procédures judiciaires ou administratives sont au surplus fixés par la loi.
+
+### Immunité
+
+#### Art. 50
+
+<sup>1</sup> Les membres du Grand Conseil et du Conseil d’Etat ne peuvent être poursuivis pour les propos qu’ils tiennent devant le Grand Conseil ou l’un de ses organes.
+
+<sup>2</sup> La loi peut en outre prévoir des dispositions spéciales sur la poursuite pénale des membres du Conseil d’Etat et des tribunaux supérieurs.
+
+### Devoir d’information
+
+#### Art. 51
+
+Les autorités cantonales sont tenues de donner au public des informations suffisantes sur leurs activités.
+
+### Chapitre 2 Le Grand Conseil
+
+### A. Composition
+
+### Nombre de membres et mode d’élection
+
+#### Art. 52
+
+<sup>1</sup> Le pouvoir législatif est attribué à un Grand Conseil de cent membres.[^52-1]
+
+<sup>2</sup> Le Grand Conseil est élu par le peuple selon le système de la représentation proportionnelle. La circonscription électorale est le canton. La loi assure une représentation équitable des différentes régions du canton.[^52-2]
+
+<sup>3</sup> La loi peut organiser une suppléance en vue du remplacement des membres empêchés.
+
+[^52-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^52-2]: 2<sup>e</sup> et 3<sup>e</sup> phrases acceptées en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+### Durée de la législature
+
+#### Art. 53
+
+Le Grand Conseil est élu pour quatre ans et renouvelé intégralement. Ses membres sont rééligibles. La législature prend fin quand le Grand Conseil nouvellement élu est constitué.
+
+### Indépendance des membres
+
+#### Art. 54
+
+Les membres du Grand Conseil délibèrent et votent sans instructions.
+
+### B. Compétences
+
+### Législation
+
+#### Art. 55
+
+Le Grand Conseil adopte les lois.
+
+### Traités
+
+#### Art. 56
+
+<sup>1</sup> Le Grand Conseil approuve les traités internationaux et les traités intercantonaux qui ne relèvent pas de la compétence exclusive du Conseil d’Etat.
+
+<sup>2</sup> Il peut inviter le Conseil d’Etat à engager des négociations en vue de la conclusion d’un traité, ainsi qu’à dénoncer un traité existant.
+
+### Finances
+
+#### Art. 57
+
+<sup>1</sup> Le Grand Conseil arrête le budget et approuve les comptes. Il autorise le recours à l’emprunt et fixe la limite de l’endettement.
+
+<sup>2</sup> Il vote les dépenses et il autorise les acquisitions et les aliénations du domaine public, sauf les cas qui relèvent de la compétence exclusive du Conseil d’Etat.
+
+<sup>3</sup> Doivent être votés à la majorité des trois cinquièmes des membres du Grand Conseil les lois et décrets qui entraînent de nouvelles dépenses importantes pour le canton, une diminution ou une augmentation importante de ses recettes fiscales. La loi définit les notions de dépense nouvelle importante, de diminution et d’augmentation importantes des recettes fiscales.[^57-1]
+
+<sup>3bis</sup> Doivent de même être votés à la majorité de trois cinquièmes des membres du Grand Conseil les lois et décrets qui entraînent des économies importantes pour le canton, lorsqu’ils sont adoptés en vue de respecter les dispositions prévues par la loi en matière de limite à l’endettement. La loi définit la notion d’économies importantes.[^57-2]
+
+<sup>4</sup> La même majorité est requise pour l’adoption de tout budget annuel dérogeant aux dispositions prévues par la loi en matière de limite de l’endettement.[^57-3]
+
+[^57-1]: Accepté en [votation populaire du 5 juin 2005](http://www.admin.ch/ch/f/pore/va/20050605/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^57-2]: Accepté en [votation populaire du 17 juin 2012](http://www.admin.ch/ch/f/pore/va/20120617/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2012. Garantie de l’Ass. féd. du 23 sept. 2013 (FF **2013** 7048 art. 1 ch. 6 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^57-3]: Accepté en [votation populaire du 5 juin 2005](http://www.admin.ch/ch/f/pore/va/20050605/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+
+### Planification
+
+#### Art. 58
+
+Le Grand Conseil exerce les compétences de planification que la loi lui attribue.
+
+### Haute surveillance
+
+#### Art. 59
+
+[^59-1]
+
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l’activité du Conseil d’Etat et de l’administration.
+
+<sup>2</sup> Il exerce également la haute surveillance sur la gestion des autorités judiciaires.
+
+[^59-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+### Elections
+
+#### Art. 60
+
+Le Grand Conseil élit les magistrats de l’ordre judiciaire, sauf les exceptions prévues par la loi.
+
+### Autres compétences
+
+#### Art. 61
+
+<sup>1</sup>
+
+Le Grand Conseil:
+
+- a. exerce les droits de participation que le droit fédéral confère aux cantons;
+- b. donne l’avis du canton prévu par la législation fédérale au sujet de l’implantation d’une installation atomique;
+- c. donne, s’il le veut, son avis lors d’autres consultations fédérales;
+- d. traite les initiatives populaires et statue, en particulier, sur leur validité matérielle;
+- e. approuve les concordats conclus avec les Eglises et les autres communautés religieuses reconnues;
+- f. décrète l’amnistie et accorde la grâce;
+- g. tranche les conflits de compétence qui surgissent entre les autorités cantonales;
+- h. exerce les autres compétences que lui attribuent les lois.
+
+<sup>2</sup> Il assume en outre les tâches qui incombent à l’Etat et qui ne sont pas attribuées à une autre autorité cantonale.
+
+### C. Organisation
+
+### Sessions
+
+#### Art. 62
+
+<sup>1</sup> Le Grand Conseil se réunit de plein droit quatre fois par an. La loi peut prévoir d’autres sessions.
+
+<sup>2</sup> Le Grand Conseil se réunit également à la demande de trente de ses membres ou à l’invitation du Conseil d’État.[^62-1]
+
+[^62-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+### Organes
+
+#### Art. 63
+
+<sup>1</sup> Le Grand Conseil élit chaque année sa présidente ou son président et forme un bureau.
+
+<sup>2</sup> Les membres du Grand Conseil peuvent se constituer en groupes politiques.
+
+<sup>3</sup> Le Grand Conseil crée, parmi ses membres et à proportion de l’effectif des groupes, des commissions, qui ont en particulier pour tâche de préparer ses délibérations.
+
+### Initiative
+
+#### Art. 64
+
+<sup>1</sup> L’initiative appartient à chaque membre du Grand Conseil, ainsi qu’au bureau, aux groupes et aux commissions.
+
+<sup>2</sup> L’initiative appartient également au Conseil d’Etat et à chaque commune.
+
+<sup>3</sup> Sont réservées les dispositions sur l’initiative populaire et sur la motion populaire.
+
+### Publicité des délibérations
+
+#### Art. 65
+
+Les délibérations du Grand Conseil sont publiques. La loi règle les exceptions.
+
+### Chapitre 3 Le Conseil d’Etat
+
+### A. Composition
+
+### Nombre de membres et mode d’élection
+
+#### Art. 66
+
+<sup>1</sup> Le pouvoir gouvernemental et exécutif est attribué à un Conseil d’Etat de cinq membres.
+
+<sup>2</sup> Le Conseil d’Etat est élu par le peuple selon le système du scrutin majoritaire à deux tours. Le panachage est admis. La circonscription électorale est le canton.
+
+### Durée de la charge
+
+#### Art. 67
+
+Le Conseil d’Etat est élu pour quatre ans, en même temps que le Grand Conseil, et renouvelé intégralement. Sont réservées les élections complémentaires pour le cas de vacance pendant la période de quatre ans. Les membres du Conseil d’Etat sont rééligibles.
+
+### B. Compétences
+
+### Gouvernement
+
+#### Art. 68
+
+Le Conseil d’Etat conduit la politique du canton, sous la réserve des compétences du Grand Conseil et du peuple.
+
+### Législation
+
+#### Art. 69
+
+<sup>1</sup> Le Conseil d’Etat prépare, en règle générale, les projets de lois.
+
+<sup>2</sup> Il édicte des ordonnances dans le cadre de la Constitution et des lois.
+
+### Traités
+
+#### Art. 70
+
+<sup>1</sup> Le Conseil d’Etat négocie, conclut et ratifie les traités internationaux et les traités intercantonaux.
+
+<sup>2</sup> L’approbation du Grand Conseil est réservée, à moins qu’une loi ou un traité approuvé par le Grand Conseil n’en dispose autrement.
+
+<sup>3</sup> Le Conseil d’Etat informe en temps utile le Grand Conseil de ses intentions en matière de politique extérieure et notamment des traités qu’il se propose de conclure. La loi prévoit les cas dans lesquels il consulte le Grand Conseil ou l’une de ses commissions.
+
+### Finances
+
+#### Art. 71
+
+<sup>1</sup> Le Conseil d’Etat prépare le projet de budget et présente les comptes.
+
+<sup>2</sup> Il décide des dépenses ainsi que des acquisitions et des aliénations du domaine public dans les limites fixées par la loi.
+
+### Exécution
+
+#### Art. 72
+
+Le Conseil d’Etat veille à la bonne application du droit cantonal ainsi qu’à celle du droit fédéral dans la mesure où elle incombe au canton.
+
+### Surveillance sur les communes
+
+#### Art. 73
+
+Le Conseil d’Etat exerce la surveillance sur les communes.
+
+### Autres compétences
+
+#### Art. 74
+
+Le Conseil d’Etat:
+
+- a. prépare, en règle générale, les délibérations du Grand Conseil;
+- b. représente le canton dans ses relations avec l’extérieur;
+- c. répond aux consultations fédérales, en tenant compte de l’avis du Grand Conseil si celui-ci en a donné un;
+- d. conclut les concordats avec les Eglises et les autres communautés religieuses reconnues, sous réserve de l’approbation du Grand Conseil;
+- e. statue sur les demandes de naturalisation;
+- f. veille à la sécurité et à l’ordre publics et, lorsque ceux-ci sont sérieusement et directement menacés ou troublés, prend, même en l’absence de loi, les mesures qu’il faut pour les rétablir;
+- g. exerce les autres compétences que lui attribuent les lois.
+
+### Pouvoirs exceptionnels en cas de situations extraordinaires
+
+#### Art. 75
+
+<sup>1</sup> En cas de catastrophes ou d’autres situations extraordinaires et si le Grand Conseil ne peut exercer ses compétences, le Conseil d’Etat prend toutes les mesures nécessaires pour protéger la population.
+
+<sup>2</sup> La situation extraordinaire est constatée par le Grand Conseil, s’il peut se réunir.
+
+### C. Organisation
+
+### Autonomie du Conseil d’Etat
+
+#### Art. 76
+
+<sup>1</sup> Le Conseil d’Etat s’organise de manière autonome.
+
+<sup>2</sup> Il élit chaque année sa présidente ou son président.
+
+### Administration cantonale et système départemental
+
+#### Art. 77
+
+<sup>1</sup> Le Conseil d’Etat dirige l’administration cantonale.
+
+<sup>2</sup> L’administration cantonale est divisée en départements. Chaque membre du Conseil d’Etat dirige un ou plusieurs départements.
+
+<sup>3</sup> Le Conseil d’Etat nomme le personnel de l’administration, qui est soumis à ses instructions et à sa surveillance.
+
+### Chancellerie d’Etat
+
+#### Art. 78
+
+La chancellerie d’Etat assiste le Conseil d’Etat dans l’exercice de ses compétences. Elle est dirigée par une chancelière ou un chancelier d’Etat, nommé par le Conseil d’Etat.
+
+### Chapitre 4 Rapports entre le Grand Conseil et le Conseil d’Etat
+
+### Informations
+
+#### Art. 79
+
+<sup>1</sup> Le Grand Conseil et ses commissions ont le droit d’obtenir du Conseil d’Etat et de l’administration toutes les informations dont ils ont besoin pour accomplir leurs tâches, notamment dans l’exercice de la haute surveillance. En cas de contestation, le Grand Conseil tranche après avoir entendu le Conseil d’Etat.
+
+<sup>2</sup> Le droit individuel des membres du Grand Conseil à obtenir des informations est réglé par la loi.
+
+### Programme de législature et plan financier
+
+#### Art. 80
+
+<sup>1</sup> Dans la première année de la législature, le Conseil d’Etat présente au Grand Conseil un programme politique, dans lequel il annonce ce qu’il se propose de faire au cours de cette législature. Il accompagne ce programme d’un plan financier.
+
+<sup>2</sup> Le Grand Conseil prend connaissance du programme et du plan. Il en fait l’objet d’un débat.
+
+### Motion et recommandation
+
+#### Art. 81
+
+<sup>1</sup> Par la motion, le Grand Conseil peut enjoindre au Conseil d’Etat de lui adresser un rapport ou un projet.
+
+<sup>2</sup> Par la recommandation, le Grand Conseil peut inviter le Conseil d’Etat à prendre une mesure qui relève de la compétence législative de celui-ci. La proposition de recommandation doit être signée par dix-sept membres du Grand Conseil.[^81-1]
+
+[^81-1]: Phrase acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+### Participation du Conseil d’Etat aux séances du Grand Conseil et de ses commissions
+
+#### Art. 82
+
+Les membres du Conseil d’Etat peuvent participer aux séances du Grand Conseil et à celles de ses commissions, y prendre la parole et y faire des propositions.
+
+### Chapitre 5 Les autorités judiciaires
+
+### Organisation judiciaire et tribunaux
+
+#### Art. 83
+
+<sup>1</sup> L’organisation judiciaire est réglée par la loi.
+
+<sup>2</sup> Les litiges civils, pénaux et administratifs sont tranchés par des tribunaux.
+
+<sup>3</sup> La loi règle la surveillance sur les autorités judiciaires.[^83-1]
+
+[^83-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+
+### Magistrats de l’ordre judiciaire
+
+#### Art. 84
+
+<sup>1</sup> Les magistrats de l’ordre judiciaire sont élus pour une période de six ans. Ils sont rééligibles.
+
+<sup>2</sup> Dans l’exercice de leur charge, les juges doivent se comporter de manière impartiale.
+
+### Publicité des audiences, motivation des jugements
+
+#### Art. 85
+
+Les audiences des tribunaux sont publiques. Les jugements doivent être motivés par écrit. La loi règle les exceptions.
+
+### Droit applicable
+
+#### Art. 86
+
+Les tribunaux appliquent le droit fédéral et le droit cantonal. Ils n’appliquent pas les dispositions législatives ou réglementaires qui sont contraires à un droit supérieur. Sont réservées les règles du droit fédéral relatives à l’application des lois fédérales.
+
+## Titre V Communes****
+
+[^tit5-1]
+
+[^tit5-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+#### Art. 87 et 88
+
+[^8788-1]
+
+[^8788-1]: Abrogés en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+### Tâches
+
+#### Art. 89
+
+<sup>1</sup> Les communes sont des collectivités publiques territoriales qui veillent au bien-être de leurs habitants.
+
+<sup>2</sup> Elles administrent leurs biens et gèrent les services publics locaux.
+
+<sup>3</sup> Elles assument de surcroît les tâches que la législation cantonale et la législation fédérale leur confient.
+
+### Nombre et territoire
+
+#### Art. 90
+
+<sup>1</sup> La loi fixe le nombre des communes et les énumère.
+
+<sup>2</sup> Le territoire de chaque commune est défini conformément aux actes cadastraux.
+
+### Garantie de l’existence des communes
+
+#### Art. 91
+
+<sup>1</sup> L’existence des communes et leur territoire sont garantis.
+
+<sup>2</sup> L’Etat encourage les fusions de communes.
+
+<sup>3</sup> Toutefois, aucune fusion ni division de communes, non plus qu’aucune cession de territoire d’une commune à une autre, ne peut avoir lieu sans le consentement des communes touchées.
+
+### Collaboration intercommunale
+
+#### Art. 92
+
+<sup>1</sup> L’Etat encourage la collaboration intercommunale, sous forme de syndicats ou d’autres types de regroupements.
+
+<sup>2</sup> La collaboration peut être imposée dans certains domaines, lorsqu’elle est nécessaire à l’accomplissement des tâches des communes.
+
+<sup>3</sup> Dans son fonctionnement, la collaboration intercommunale doit ménager les procédures démocratiques.
+
+### Pouvoir fiscal et péréquation financière intercommunale
+
+#### Art. 93
+
+<sup>1</sup> Le pouvoir fiscal des communes est déterminé par la loi.
+
+<sup>2</sup> La loi institue une péréquation financière qui atténue l’inégalité des capacités financières des communes.
+
+### Garantie de l’autonomie des communes
+
+#### Art. 94
+
+L’autonomie des communes est garantie dans les limites de la législation cantonale.
+
+### Organisation
+
+#### Art. 95
+
+<sup>1</sup> Chaque commune a un Conseil général, qui est l’autorité législative, et un Conseil communal, qui est l’autorité exécutive.
+
+<sup>2</sup> Les deux conseils sont élus pour quatre ans.
+
+<sup>3</sup> Le Conseil général est élu par le peuple de la commune; l’élection se fait selon le système de la représentation proportionnelle, sauf les exceptions réglées par la loi.
+
+<sup>4</sup> Pour le Conseil communal, la commune décide s’il est élu par le peuple ou par le Conseil général et fixe le système électoral.
+
+<sup>5</sup> La loi détermine le corps électoral communal et règle la procédure électorale, de même que ce qui a trait à l’initiative et au référendum populaires.
+
+### Surveillance de l’Etat
+
+#### Art. 96
+
+<sup>1</sup> L’activité des autorités communales est soumise à la surveillance de l’Etat.
+
+<sup>2</sup> La surveillance de l’Etat a pour objet de contrôler que l’activité des autorités communales est conforme au droit. La loi peut, dans certains domaines, étendre la surveillance de l’Etat au contrôle de l’opportunité des actes communaux.
+
+<sup>3</sup> L’Etat peut se substituer aux autorités communales qui, après y avoir été dûment invitées, ne prendraient pas les mesures que la législation leur impose*.*
+
+## Titre VI Etat, Eglises reconnues et autres communautés religieuses
+
+### Principes
+
+#### Art. 97
+
+<sup>1</sup> L’Etat tient compte de la dimension spirituelle de la personne humaine et de sa valeur pour la vie sociale.
+
+<sup>2</sup> L’Etat est séparé des Eglises et des autres communautés religieuses. Il peut toutefois les reconnaître comme institutions d’intérêt public.
+
+<sup>3</sup> L’indépendance des Eglises et des autres communautés religieuses est garantie.
+
+### Eglises reconnues
+
+#### Art. 98
+
+<sup>1</sup> L’Etat reconnaît l’Eglise réformée évangélique, l’Eglise catholique romaine et l’Eglise catholique chrétienne du canton de Neuchâtel comme des institutions d’intérêt public représentant les traditions chrétiennes du pays.
+
+<sup>2</sup> L’Etat perçoit gratuitement la contribution ecclésiastique volontaire que les Eglises reconnues demandent à leurs membres.
+
+<sup>3</sup> Les services que les Eglises reconnues rendent à la collectivité donnent lieu à une participation financière de l’Etat ou des communes.
+
+<sup>4</sup> Les Eglises reconnues sont exemptes d’impôts sur les biens affectés à leurs activités religieuses et aux services qu’elles rendent à la collectivité.
+
+<sup>5</sup> L’Etat peut passer des concordats avec les Eglises reconnues.
+
+### Autres communautés religieuses
+
+#### Art. 99
+
+D’autres communautés religieuses peuvent demander à être reconnues d’intérêt public. La loi fixe les conditions et la procédure de la reconnaissance. Elle en règle également les effets, à moins que ceux-ci ne fassent l’objet d’un concordat.
+
+## Titre VII Révision de la Constitution
+
+### Principes
+
+#### Art. 100
+
+<sup>1</sup> La Constitution peut être révisée en tout temps, totalement ou partiellement.
+
+<sup>2</sup> La révision partielle doit respecter le principe de l’unité de la matière.
+
+### Révision totale
+
+#### Art. 101
+
+<sup>1</sup> La révision totale peut être demandée par le Grand Conseil ou par 10.000 électrices ou électeurs agissant par la voie de l’initiative populaire.
+
+<sup>2</sup>
+
+Lorsque la révision totale est demandée, un vote populaire préalable décidera:
+
+- a. si elle doit avoir lieu;
+- b. dans l’affirmative, si elle sera élaborée par une Assemblée constituante ou par le Grand Conseil.
+
+<sup>3</sup> Si la révision doit être élaborée par une Assemblée constituante, celle-ci est composée conformément à l’art. 52.
+
+### Révision partielle
+
+#### Art. 102
+
+<sup>1</sup> La révision partielle peut être proposée par le Grand Conseil ou demandée par 6000 électrices ou électeurs agissant par la voie de l’initiative populaire.
+
+<sup>2</sup> L’initiative populaire s’adresse au Grand Conseil. Elle revêt la forme d’un projet rédigé ou celle d’une proposition générale.
+
+<sup>3</sup> Lorsque l’initiative revêt la forme d’un projet rédigé, le Grand Conseil la soumet au vote populaire et décide s’il en recommande l’acceptation ou le rejet. Dans ce dernier cas, il peut lui opposer un contre-projet.
+
+<sup>4</sup> Lorsque l’initiative revêt la forme d’une proposition générale, le Grand Conseil décide s’il l’approuve ou s’il la désapprouve. S’il l’approuve, il élabore la révision demandée. S’il la désapprouve, il la soumet à un vote populaire préalable, avec ou sans contre-projet. Si le vote préalable est positif, le Grand Conseil élabore la révision demandée.
+
+### Double délibération
+
+#### Art. 103
+
+Toute révision, totale ou partielle, de la Constitution fait l’objet de deux délibérations suivies chacune d’un vote du Grand Conseil. Le second débat ne peut avoir lieu qu’un mois après le premier.
+
+### Référendum final
+
+#### Art. 104
+
+Dans tous les cas, la nouvelle Constitution ou la partie révisée de la Constitution ne peut entrer en vigueur que si elle a été acceptée, en vote populaire, par la majorité des électrices et des électeurs qui se sont prononcés.
+
+## Titre VIII Dispositions finales
+
+### Abrogations
+
+#### Art. 105
+
+Sont abrogés:
+
+- a. la Constitution de la République et Canton de Neuchâtel, du 21 novembre 1858;
+- b. le décret concernant les couleurs cantonales, du 11 avril 1848;
+- c. le décret constitutionnel concernant l’application de la loi fédérale sur l’utilisation pacifique de l’énergie atomique et la protection contre les radiations, du 29 janvier 1979.
+
+### Adaptations formelles
+
+#### Art. 106
+
+<sup>1</sup> Le Grand Conseil adapte formellement la présente Constitution aux modifications de la Constitution de la République et Canton de Neuchâtel, du 21 novembre 1858, acceptées par le peuple après le 25 avril 2000.
+
+<sup>2</sup> Il adapte formellement à la présente Constitution les modifications constitutionnelles proposées après cette date.
+
+<sup>3</sup> Le décret y relatif n’est pas soumis au référendum.
+
+### Entrée en vigueur
+
+#### Art. 107
+
+<sup>1</sup> La présente Constitution est soumise au vote du peuple.
+
+<sup>2</sup> Le Grand Conseil fixe la date de son entrée en vigueur.[^107-1]
+
+[^107-1]: Elle entre en vigueur le 1<sup>er</sup> janv. 2002 (Décret du Grand Conseil du 19 juin 2001).
+
+## Disposition transitoire concernant la modification du 26 septembre 2010****
+
+[^u1-1]
+
+[^u1-1]: Acceptée en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+L’élection de la députation du canton au Conseil des Etats suisse selon le système de la représentation proportionnelle a lieu en même temps que la prochaine élection au Conseil national suisse.
+
+## Disposition transitoire à la modification du 27 mars 2017****
+
+[^u2-1]
+
+[^u2-1]: Acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+
+Les modifications du 27 mars 2017 s’appliquent pour la première fois à l’élection générale du Grand Conseil de 2021.
+
+## Index des matières
+
+Les chiffres renvoient aux articles et divisions d’articles de la Constitution
+
+Administration
+
+Age
+
+**Amnistie** (grâce) 42<sup>4</sup>, 61<sup>1</sup>
+
+Armoiries 3
+
+Arrestations
+
+Art
+
+Assistance juridique 28<sup>3</sup>
+
+Association
+
+Autonomie
+
+Autorisation
+
+Autorités
+
+Biens communaux
+
+Budget
+
+Buts et mandats sociaux
+
+Canton
+
+Censure
+
+Chancellerie d’Etat 78
+
+Chef-lieu 2
+
+Commissions
+
+Communes
+
+Comptes
+
+Concordats
+
+Confédération
+
+**Conflits**
+
+**Conseil des Etats** 39
+
+Conseil d’Etat
+
+**Conseil national suisse** 39
+
+Constitution
+
+Contre-projet
+
+Corps électoral 37
+
+Correspondance
+
+Culture
+
+Débat
+
+Décrets
+
+Délibération
+
+Départements
+
+Dépenses
+
+**Détention** 30
+
+Domicile
+
+Données personnelles
+
+Droit applicable 86
+
+Droits
+
+Economie importante 57<sup>3bis</sup>
+
+Egalité
+
+Eglise
+
+Elections, nominations
+
+Eligibilité
+
+Emploi
+
+Emprunts
+
+Endettement
+
+Energie
+
+Enfant
+
+Enseignement
+
+Environnement
+
+Etablissement
+
+Etat
+
+Etrangers
+
+Exécution
+
+**Expropriation**
+
+Famille
+
+Finances 57, 71
+
+Formation
+
+Grand Conseil
+
+Grève
+
+Handicapés 36
+
+Immunité 50
+
+Impôts
+
+Incompatibilité 48
+
+Information
+
+Initiative
+
+**Installation atomique** 42<sup>3</sup>, 61
+
+**Interdiction**
+
+Juge
+
+Jugement
+
+**Langue**
+
+**Législature**
+
+Liberté
+
+Logement
+
+Lois
+
+Mariage
+
+Majorité
+
+Minorités
+
+Motion
+
+Motivation
+
+Naturalisation 74
+
+**Opinion**
+
+**Panachage**
+
+**Pénal,** droit
+
+Personnel de l’administration
+
+**Pétition**
+
+Peuple
+
+Plan financier 80
+
+Planification 58
+
+Police
+
+Pouvoir
+
+Privation de liberté 30
+
+Procédure
+
+Profession
+
+Programme de législature 80
+
+Proportionnalité
+
+Propriété
+
+Protection
+
+Publicité
+
+Rapport
+
+Recettes fiscales 57<sup>3</sup>
+
+Recommandation
+
+Récusation 49
+
+Référendum
+
+Religion
+
+Renouvellement
+
+Représentation proportionnelle
+
+Responsabilité
+
+Réunion
+
+Révision
+
+Salaire
+
+Santé
+
+Science et recherche
+
+Sécurité et ordre publics
+
+Séparation des pouvoirs 46
+
+Signatures
+
+Sport
+
+Surveillance
+
+Syndicats
+
+Télécommunications
+
+Territoire
+
+Torture
+
+Traités
+
+Transports
+
+Travail
+
+Tribunaux
+
+Urgence 43
+
+Vote
+
+- – personnel de l’-
+- – – incompatibilités 48<sup>2</sup>
+- – – récusation 49
+- – – nominations 77<sup>3</sup>
+- – garanties de procédure 28
+- – surveillance 59
+- – division en départements 77<sup>2</sup>
+- – informations 79
+
+- – corps électoral 37
+
+- – garanties 30
+
+- – liberté 23
+
+- – liberté 19
+- – syndicale 27<sup>1</sup>
+
+- – du Conseil d’Etat 76<sup>1</sup>
+- – des communes 94
+
+- – réunions et les manifestations 20<sup>2</sup>
+
+- – exercice du pouvoir 1<sup>2</sup>
+- – généralités 46 à 86
+
+- – administration 89<sup>2</sup>
+
+- – exclusion du référendum 42<sup>4</sup>
+- – de l’Etat 57, 71
+
+- – salaire minimum 34*a*
+
+- – principe 1
+- – territoire 1<sup>3</sup>
+- – communes 1<sup>4</sup>
+
+- – interdiction 17<sup>3</sup>
+
+- – du Grand Conseil 63<sup>3</sup>, 64<sup>1</sup>
+- – consultation du Conseil d’Etat 70<sup>3</sup>
+- – droit à l’information 79<sup>1</sup>
+- – participation du Conseil d’Etat 82
+
+- – division du canton 1<sup>4</sup>
+- – tâches 5
+- – responsabilité 6
+- – buts et mandats sociaux 34 à 36
+- – initiative 64
+- – surveillance par le Conseil d’Etat 73
+- – généralités 89 à 96
+- – participation financière aux Eglises 98<sup>3</sup>
+
+- – exclusion du référendum 42<sup>4</sup>
+- – approbation par le Grand Conseil 57<sup>1</sup>
+- – présentation par le Conseil d’Etat 71<sup>1</sup>
+
+- – avec les Eglises reconnues 42<sup>3</sup>, 61<sup>1</sup>, 74, 98<sup>5</sup>
+- – avec d’autres communautés religieuses 99
+- v. aussi Traités
+
+- – canton membre 1<sup>3</sup>
+- – Députation aux Conseil des Etats et Conseil national 39
+
+- – d’intérêts 5<sup>2</sup>
+- – collectifs de travail 27<sup>2</sup>
+- – de compétence 61
+
+- – siège 2
+- – élection 38, 47
+- – information 45
+- – incompatibilités 48
+- – récusation 49
+- – immunité 50
+- – surveillance 59
+- – droit d’initiative 64<sup>2</sup>
+- – composition 66, 67
+- – compétence 68 à 75
+- – organisation 76 à 78
+- – rapports avec le Grand Conseil 79 à 82
+
+- – révision de la constitution cantonale 100 à 104
+- – adaptations formelles 106
+
+- – du Grand Conseil 44, 102
+
+- – droit 11<sup>1</sup>
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – du Grand Conseil
+- – – programme et plan financier 80<sup>2</sup>
+- – – révision de la constitution 103
+- v. aussi Délibérations
+
+- – référendum facultatif 42<sup>3</sup>
+- – référendum obligatoire 44<sup>1</sup>
+
+- – du Grand Conseil 63<sup>3</sup>, 74
+- – publicité 65
+- – double - 103
+
+- – de l’administration cantonale 77
+
+- – compétences du Grand Conseil 57<sup>2</sup>
+- – compétences du Conseil d’Etat 71<sup>2</sup>
+
+- – droit 11
+- – liberté d’établissement 15
+- – condition pour le droit de vote 37
+- – condition d’éligibilité 47
+
+- – protection 11<sup>2</sup>
+- – emploi abusif 11<sup>3</sup>
+
+- – politiques 37 à 45
+- – constitutionnels
+- – – dignité humaine 7
+- – – égalité et interdiction des discriminations 8
+- – – bonne foi, arbitraire, non-rétroactivité des lois 9
+- – – liberté personnelle 10
+- – – vie privée, domicile, correspondance, télécommunications 11
+- – – mariage, vie en commun 12
+- – – conditions minimales d’existence 13
+- – – de l’enfant 14
+- – – liberté d’établissement 15
+- – – liberté religieuse 16
+- – – liberté de communication et d’information 17
+- – – à l’information 18
+- – – liberté d’association 19
+- – – liberté de réunion et de manifestation 20
+- – – de pétition 21
+- – – liberté de l’enseignement et de la recherche scientifique 22
+- – – liberté de l’art 23
+- – – liberté de la langue 24
+- – – propriété 25
+- – – liberté économique 26
+- – – liberté syndicale 27
+- – – garanties générales de procédure 28
+- – – garanties de procédure judiciaire 29
+- – – garanties en cas de privation de liberté 30
+- – – garanties pénales 31
+- – – champ d’application 32
+- – – restrictions 33
+
+- – de droit 8
+- – femme - homme 8<sup>2</sup>, 35
+
+- – liberté religieuse 16
+- – principe 97
+- – églises reconnues 98
+- – autres communautés religieuses 99
+- v. aussi concordats
+
+- – par le peuple
+- – – Grand Conseil 38, 52
+- – – Conseil d’Etat 38, 66
+- – – Conseil des Etats 39
+- – – exclusion du référendum 42<sup>4</sup>
+- – – Conseil général 95
+- – – Conseil communal 95
+- – – assemblée constituante 101<sup>2</sup>
+- – par le Grand Conseil
+- – – ordre judiciaire 60
+- – – président(e) du Grand Conseil 63
+- – par le Conseil d’Etat
+- – – président(e) du Conseil d’Etat 76
+- – – personnel de l’administration 77
+- – – chancelier (ère) 78
+- – par le Conseil général
+- – – conseil communal 95
+
+- – Conseil des Etats 39
+- – autorités cantonales 47
+- – réélection
+- – – Grand Conseil 53
+- – – Conseil d’Etat 67
+- – – ordre judiciaire 84
+
+- – libre choix 26<sup>2</sup>
+- – création 5<sup>1</sup>
+
+- – compétence du Grand Conseil 57
+
+- – limite 57
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – droit 14
+
+- – liberté 22
+- – religieux 16<sup>2</sup>
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – liberté 15
+
+- – souveraineté 1
+- – tâches 5
+- – responsabilité 6
+- – buts et mandats sociaux 34 à 36
+- – séparation des Eglises 97
+- – reconnaissance des Eglises 98
+- – surveillance de l’Etat v. Surveillance
+- – territoire de l’Etat v. Canton
+
+- – accueil et intégration 5
+- – corps électoral 37
+- – éligibilité 47
+- – naturalisation 74
+
+- – pouvoir exécutif 66
+- – application du droit 72
+- – pouvoir exécutif communal 95
+
+- – indemnité 25
+
+- – droit au respect 11<sup>1</sup>
+- – mesures 34<sup>2</sup>
+
+- – tâches de l’Etat 5<sup>1</sup>
+- – égalité 8<sup>2</sup>
+- – droit de l’enfant 14<sup>2</sup>
+- – mesures 34<sup>1</sup>
+
+- – siège 2
+- – élection 38, 47
+- – récusation 49
+- – immunité 50
+- – composition 52 à 54
+- – compétences 55 à 61
+- – organisation 62 à 65
+- – rapports avec le Conseil d’Etat 79 à 82
+- – révision de la constitution 101 à 103
+
+- – droit 27<sup>3</sup>
+
+- – pouvoir fiscal, péréquation financière 5<sup>1</sup>, 93
+- – exonération des Eglises 98
+
+- – liberté 17
+- – droit 18
+- – garanties pénales 31<sup>2</sup>
+- – sur les objets soumis au vote 45
+- – devoir des autorités 51
+- – pour le Grand Conseil 79
+
+- – populaire 40, 61<sup>1</sup>, 101, 102
+- – du Grand Conseil 64
+- – du Conseil d’Etat 64
+- – des communes 64
+
+- – torture 7
+- – discrimination 8
+- – arbitraire, rétroactivité des lois 9
+- – censure 17
+- – grève 27<sup>3</sup>
+
+- – généralités cf. tribunaux
+- – impartialité 84
+
+- – publicité 29, 85
+- – garanties pénales 31
+
+- – officielle 4
+- – liberté 24
+
+- – durée 39, 53, 67, 84, 95
+- – programme 80
+
+- – économique 26<sup>1</sup>
+- v. Droits fondamentaux
+
+- – tâche de l’Etat 5<sup>1</sup>
+- – droit 13
+- – mesures 34<sup>1</sup>
+
+- – non-rétroactivité 9
+- – clause d’urgence 43
+- – législation 55, 69
+
+- – droit 12
+
+- – votation finale de la constitution 104
+- – des deux tiers du Grand Conseil, clause d’urgence 43
+- – des trois cinquièmes du Grand Conseil, nouvelle dépense, modification importantes de recettes fiscales, limite à l’endettement 57
+
+- – protection 5
+
+- – populaire 41
+- – du Grand Conseil 81<sup>1</sup>
+
+- – des jugements des tribunaux 85
+
+- – liberté 17<sup>1</sup>
+
+- – élection au Conseil des Etats 39
+- – élection au Conseil d’Etat 66
+
+- – garanties pénales 31
+- – litiges 83
+
+- – responsabilité 6
+- – incompatibilité 48
+- – récusation 49
+- – surveillance 59
+- – nomination 77<sup>3</sup>
+
+- – droit 21
+
+- – pouvoir 1
+- – généralités 37 à 45
+
+- – des constructions 5<sup>1</sup>
+- – arrestation 30
+- – incompatibilité 48
+
+- – exercice de la souveraineté du peuple 1
+- – séparation des pouvoirs 46
+- – législatif 52, 95
+- – exécutif 66, 95
+- – pouvoirs exceptionnels 75
+- – judiciaire 83 à 86
+- – fiscal 93
+
+- – annonce de vote populaire 42<sup>2</sup>
+- – garanties 28
+- – juridique 29, 30<sup>4</sup>, 37<sup>2</sup>
+- – exclusion du référendum 42<sup>4</sup>
+
+- – libre choix 26<sup>2</sup>
+
+- – principe 33
+
+- – garantie, cas d’expropriation 25
+
+- – des libertés 5<sup>1</sup>
+- – dignité humaine 7
+- – bonne foi 9
+- – des données 11
+- – de l’enfant 14
+- – sociale 5<sup>1</sup>, 34<sup>1</sup>
+- – en cas de situations extraordinaires 75
+
+- – délibérations du Grand Conseil 65
+- – tribunaux 85
+
+- – du Conseil d’Etat 81
+
+- – du Grand Conseil 81<sup>2</sup>
+
+- – populaire obligatoire 44
+- – populaire facultatif 42, 43
+- – final en matière de révision constitutionnelle 104
+
+- – liberté 16
+- – généralités 97 à 99
+
+- – du Grand Conseil 53
+- – du Conseil d’Etat 67
+
+- – Grand Conseil 52
+- – Conseil général 95
+
+- – des collectivités publiques 6
+
+- – liberté 20
+
+- – de la constitution 100 à 104
+
+- – minimum 34*a*
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – tâche de l’Etat 5<sup>1</sup>, 74
+
+- – pétition 21
+- – initiative populaire 40
+- – référendum populaire facultatif 42
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – par le Grand Conseil 59, 79
+- – par le Conseil d’Etat 73, 77
+- – des autorités judiciaires 83
+- – des autorités communales 96
+
+- – liberté syndicale 27<sup>1</sup>
+- – collaboration intercommunale 92<sup>1</sup>
+
+- – droit 11<sup>1</sup>
+
+- – du canton 1
+- – aménagement du - 5<sup>1</sup>
+- – modification du - 44
+- – des communes 89, 90, 91
+
+- – interdiction 7<sup>2</sup>
+
+- – référendum 42, 44
+- – approbation 56
+- – ratification 70
+
+- – tâche de l’Etat 5<sup>1</sup>
+
+- – tâche de l’Etat 5<sup>1</sup>
+- – égalité 8<sup>2</sup>
+- – mesures 34<sup>1</sup>
+- – liberté syndicale 27
+
+- – garanties de procédure 28 à 30
+- – séparation des pouvoirs 46
+- – éligibilité 47
+- – incompatibilité 48
+- – récusation 49
+- – poursuite pénale 50
+- – surveillance par le Grand Conseil 59
+- – élections 60
+- – généralités 83 à 86
+
+- – corps électoral 37
+- – populaire 42, 43, 44, 45, 101, 102, 104
+- – du Grand Conseil 54, 57, 103
+- [tab]

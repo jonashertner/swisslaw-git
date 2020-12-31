@@ -1,0 +1,2811 @@
+---
+sr: "831.40"
+title: "Lescha federala dals 25 da zercladur 1982 davart il provediment professiunal per vegls, survivents ed invaliditad (LPP)"
+short: LPP
+eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
+language: rm
+version: 2021-01-01
+adopted: 1982-06-25
+in_force: 1985-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/rm"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Lescha federala davart il provediment professiunal per vegls, survivents ed invaliditad
+
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+
+(LPP)
+
+dals 25 da zercladur 1982 (versiun dals 1. da schaner 2021)
+
+L’Assamblea federala da la Confederaziun svizra,
+
+sa basond sin l’artitgel 34<sup>quater</sup> da la Constituziun federala[^ingress-1] e sin l’artitgel 11 da las disposiziuns transitoricas da la Constituziun federala,[^ingress-2] suenter avair gì invista d’ina missiva dal Cussegl federal dals 19 da december 1975[^ingress-3],
+
+concluda:
+
+[^ingress-1]: [BS **1** 3; [AS 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. A las disposiziuns numnadas correspundan oz ils art. 111–113 e 196 cifras 10 ed 11 da la Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Versiun tenor la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-3]: [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)
+
+## 1. part Intent e champ d’applicaziun
+
+#### Art. 1
+
+**Intent**[^1-1]
+
+<sup>1</sup> Il provediment professiunal cumpiglia tut las mesiras prendidas sin basa collectiva che permettan a las persunas pli veglias, als survivents ed als invalids da mantegnair – ensemen cun las prestaziuns da l’assicuranza federala per vegls, survivents ed invaliditad (AVS/AI) – en moda adequata il nivel da viver anteriur, sch’i resulta in cas d’assicuranza (vegliadetgna, mort u invaliditad).
+
+<sup>2</sup> Il salari assicurabel en il provediment professiunal u las entradas assicurablas da las persunas cun activitad da gudogn independenta na dastgan betg surpassar las entradas suttamessas a las contribuziuns da la AVS.
+
+<sup>3</sup> Il Cussegl federal precisescha las noziuns da la commensurabladad, da la collectivitad, dal tractament egual e da la planificaziun sco er il princip d’assicuranza. El po fixar ina vegliadetgna minimala per il pensiunament anticipà.
+
+[^1-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 2
+
+**Assicuranza obligatorica dals lavurants e dals dischoccupads**[^2-1]
+
+<sup>1</sup> Lavurants ch’èn pli vegls che 17 onns e che retiran d’in patrun in salari annual da passa 21 510 francs[^2-2] (art. 7), èn suttamess a l’assicuranza obligatorica.
+
+<sup>2</sup> Sch’il lavurant è occupà durant main che 1 onn tar in patrun, vala sco salari annual il salari ch’el survegniss, sch’el fiss occupà durant l’entir onn.
+
+<sup>3</sup> Persunas che retiran diarias da l’assicuranza cunter la dischoccupaziun èn suttamessas a l’assicuranza obligatorica per las ristgas mort ed invaliditad.
+
+<sup>4</sup> Il Cussegl federal regla l’assicuranza obligatorica da las persunas che lavuran en professiuns cun engaschaments che midan savens u en professiuns da durada limitada. El fixescha, tge lavurants che n’èn, per motivs spezials, betg suttamess a l’assicuranza obligatorica.
+
+[^2-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^2-2]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+
+#### Art. 3
+
+**Assicuranza obligatorica da las persunas cun activitad da gudogn independenta**
+
+Sin dumonda da lur federaziuns professiunalas pon gruppas professiunalas da persunas cun activitad da gudogn independenta vegnir suttamessas dal Cussegl federal a l’assicuranza obligatorica en moda generala u per singulas ristgas. Quai sut la premissa che la maioritad da las persunas cun activitad da gudogn independenta appartegnia a la federaziun en las professiuns correspundentas.
+
+#### Art. 4
+
+**Assicuranza facultativa**
+
+<sup>1</sup> Lavurants e persunas cun activitad da gudogn independenta, che n’èn betg suttamess a l’assicuranza obligatorica, pon sa laschar assicurar facultativamain tenor questa lescha.
+
+<sup>2</sup> Las disposiziuns davart l’assicuranza obligatorica, en spezial las limitas d’entrada fixadas en l’artitgel 8, valan tenor il senn per l’assicuranza facultativa.
+
+<sup>3</sup> Las persunas cun activitad da gudogn independenta han ultra da quai la pussaivladad da s’assicurar exclusivamain tar ina instituziun da provediment en il sectur dal provediment pli extendida, en spezial er tar ina instituziun da provediment che n’è betg inscritta en il register dal provediment professiunal. En quest cas n’èn ils alineas 1 e 2 betg applitgabels.[^4-1]
+
+<sup>4</sup> Las contribuziuns ed ils apports che las persunas cun activitad da gudogn independenta pajan a l’instituziun da provediment ston servir permanentamain al provediment professiunal.[^4-2]
+
+[^4-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^4-2]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 5
+
+**Disposiziuns cuminaivlas**
+
+<sup>1</sup> Questa lescha vala mo per persunas ch’èn assicuradas tar l’assicuranza federala per vegls e survivents (AVS).[^5-1]
+
+<sup>2</sup> Ella vala per las instituziuns da provediment registradas en il senn da l’artitgel 48. Ils artitgels 56 alinea 1 literas c e d e 59 alinea 2 sco er las disposiziuns davart la segirezza finanziala (art. 65 al. 1, 2 e 2<sup>bis</sup>, 65*c*, 65*d* al. 1, 2 e 3 lit. a segunda frasa e b, art. 65*e*, 67, 71 e 72*a*–72*g*) valan er per las instituziuns da provediment betg registradas ch’èn suttamessas a la Lescha dals 17 da december 1993[^5-2] davart la libra circulaziun (LFLP).[^5-3]
+
+[^5-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^5-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^5-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 6
+
+**Prescripziuns minimalas**
+
+La segunda part da questa lescha cuntegna prescripziuns minimalas.
+
+## 2. part Assicuranza
+
+### 1. titel Assicuranza obligatorica dals lavurants
+
+### 1. chapitel Premissas da l’assicuranza obligatorica
+
+#### Art. 7
+
+**Salari minimal e vegliadetgna**
+
+<sup>1</sup> Lavurants che retiran d’in patrun in salari annual da passa 21 510 francs[^7-1] èn suttamess a partir dal 1. da schaner suenter la cumplenida dal 17. onn da vegliadetgna a l’assicuranza obligatorica per las ristgas mort ed invaliditad, a partir dal 1. da schaner suenter la cumplenida dal 24. onn da vegliadetgna er per la vegliadetgna.[^7-2]
+
+<sup>2</sup> Quest salari correspunda al salari decisiv tenor la Lescha federala dals 20 da december 1946[^7-3] davart l’assicuranza per vegls e survivents (LAVS). Il Cussegl federal po permetter divergenzas.
+
+[^7-1]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^7-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^7-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 8
+
+**Salari coordinà**
+
+<sup>1</sup> D’assicurar è la part dal salari annual da 25 095 fin e cun 86 040 francs[^8-1]. Questa part vegn numnada salari coordinà.[^8-2]
+
+<sup>2</sup> Sch’il salari coordinà importa main che 3585 francs[^8-3] per onn, sto el vegnir arrundà sin questa summa.[^8-4]
+
+<sup>3</sup> Sch’il salari annual sa reducescha temporarmain pervia da malsogna, accident, dischoccupaziun, maternitad, paternitad u per motivs sumegliants, resta il salari coordinà vertent en vigur almain uschè ditg, sco quai ch’il patrun è obligà da pajar il salari tenor l’artitgel 324*a* dal Dretg d’obligaziuns (DO)[^8-5] u almain per la durada d’in congedi da maternitad tenor l’artitgel 329*f* DO u d’in congedi da paternitad tenor l’artitgel 329*g* DO.[^8-6] La persuna assicurada po dentant pretender ch’il salari coordinà vegnia reducì.[^8-7]
+
+[^8-1]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^8-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^8-3]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^8-4]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^8-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-6]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^8-7]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+
+#### Art. 9
+
+**Adattaziun a la AVS**
+
+Il Cussegl federal po adattar las limitas fixadas en ils artitgels 2, 7, 8 e 46 als augments da la renta simpla minimala da vegliadetgna da la AVS. La limita superiura dal salari coordinà po vegnir adattada resguardond er il svilup general dals salaris.
+
+#### Art. 10
+
+**Cumenzament e fin da l’assicuranza obligatorica**
+
+<sup>1</sup> L’assicuranza obligatorica cumenza il medem mument sco la relaziun da lavur; per persunas che retiran diarias da l’assicuranza cunter la dischoccupaziun cumenza ella il di ch’ellas survegnan per l’emprima giada ina indemnisaziun da dischoccupaziun.[^10-1]
+
+<sup>2</sup>
+
+Cun resalva da l’artitgel 8 alinea 3 finescha l’obligaziun da s’assicurar, sche:
+
+- a. la vegliadetgna ordinaria da renta vegn cuntanschida (art. 13);
+- b. la relaziun da lavur vegn schliada;
+- c. il salari minimal vegn sutpassà;
+- d.[^10-2] il dretg da diarias da l’assicuranza cunter la dischoccupaziun finescha.[^10-3]
+
+<sup>3</sup> Per las ristgas mort ed invaliditad restà il lavurant assicurà tar l’instituziun da provediment vertenta durant 1 mais suenter la schliaziun da la relaziun da provediment.[^10-4] Sch’ina nova relaziun da provediment vegn cumenzada gia avant, è cumpetenta la nova instituziun da provediment.[^10-5]
+
+[^10-1]: Versiun tenor l’art. 117*a* da la LF dals 25 da zer. 1982 davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da fan. 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+[^10-2]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^10-3]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^10-4]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^10-5]: Versiun da la frasa tenor l’art. 117*a* da la LF dals 25 da zer. 1982 davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da fan. 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+
+### 2. chapitel Obligaziun da provediment dal patrun
+
+#### Art. 11
+
+**Affiliaziun ad ina instituziun da provediment**
+
+<sup>1</sup> Il patrun ch’occupa lavurants ch’èn d’assicurar obligatoricamain sto fundar ina instituziun da provediment inscritta en il register dal provediment professiunal u s’affiliar ad ina tala.
+
+<sup>2</sup> Sch’il patrun na dispona betg gia d’ina instituziun da provediment, tscherna el ina tala en enclegientscha cun ses persunal u cun in’eventuala represchentanza dals lavurants.[^11-1]
+
+<sup>3</sup> L’affiliaziun ha lieu cun effect retroactiv.
+
+<sup>3bis</sup> La schliaziun d’ina affiliaziun existenta e la reaffiliaziun ad ina nova instituziun da provediment tras il patrun han lieu en enclegientscha cun il persunal u cun in’eventuala represchentanza dals lavurants. L’instituziun da provediment sto annunziar la schliaziun dal contract d’affiliaziun a l’instituziun auxiliara (art. 60).[^11-2] [^11-3]
+
+<sup>3ter</sup> Sch’i na dat nagina enclegientscha en ils cas tenor ils alineas 2 e 3<sup>bis</sup>, decida in derschader da cumpromiss neutral che vegn designà en cunvegnientscha vicendaivla u – en cas da discordia – da l’autoritad da surveglianza.[^11-4]
+
+<sup>4</sup> La cassa da cumpensaziun da la AVS controllescha, sch’ils patruns, ch’èn suttamess ad ella, èn affiliads ad ina instituziun da provediment registrada.[^11-5]
+
+<sup>5</sup> Ella cumonda als patruns che n’adempleschan betg lur obligaziun tenor l’alinea 1, da s’affiliar entaifer 2 mais ad ina instituziun da provediment registrada.[^11-6]
+
+<sup>6</sup> Sch’il patrun n’ademplescha betg il cumond da la cassa da cumpensaziun da la AVS entaifer il termin fixà, annunzia quella quest patrun a l’instituziun auxiliara (art. 60) per l’affiliaziun retroactiva.[^11-7]
+
+<sup>7</sup> L’instituziun auxiliara e la cassa da cumpensaziun da la AVS mettan a quint al patrun negligent ils custs administrativs ch’el ha chaschunà. Ils custs administrativs nunincassabels vegnan surpigliads dal fond da garanzia (art. 56 al. 1 lit. d e h).[^11-8]
+
+[^11-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-2]: Versiun da la frasa tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^11-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-4]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-5]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-6]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-7]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-8]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 12
+
+**Dretgs da prestaziuns avant l’affiliaziun**
+
+<sup>1</sup> Ils lavurants u lur survivents han il dretg da las prestaziuns legalas, er sch’il patrun n’è betg anc s’affilià ad ina instituziun da provediment. Questas prestaziuns vegnan furnidas da l’instituziun auxiliara.
+
+<sup>2</sup> En quest cas na debitescha il patrun betg mo las contribuziuns correspundentas inclusiv ils tschains da retard a l’instituziun auxiliara, mabain er in supplement sco indemnisaziun dal donn.
+
+### 3. chapitel Prestaziuns d’assicuranza
+
+### 1. secziun Prestaziuns da vegliadetgna
+
+#### Art. 13
+
+**Dretg da prestaziun**[^13-1]
+
+<sup>1</sup>
+
+Il dretg da prestaziuns da vegliadetgna han:
+
+- a. umens che han cumplenì il 65. onn da vegliadetgna;
+- b. dunnas che han cumplenì il 62. onn da vegliadetgna[^13-2].
+
+<sup>2</sup> En divergenza da quai pon las disposiziuns reglamentaras da l’instituziun da provediment prevair ch’il dretg da prestaziuns da vegliadetgna cumenzia cun la fin da l’activitad da gudogn. En quest cas sto vegnir adattada correspundentamain la tariffa da conversiun (art. 14).
+
+[^13-1]: Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
+[^13-2]: Dapi il 1. da schan. 2005: 64. onn da vegliadetgna (art. 62*a* al. 1 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 18 d’avust 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+
+#### Art. 14
+
+**Autezza da la renta da vegliadetgna**[^14-1]
+
+<sup>1</sup> La renta da vegliadetgna vegn calculada en pertschients dal dabun da vegliadetgna (tariffa da conversiun) che la persuna assicurada ha acquistà il mument ch’ella cuntanscha la vegliadetgna da renta.
+
+<sup>2</sup> La tariffa da conversiun minimala importa 6,8 pertschient per la vegliadetgna ordinaria da renta da 65 onns da las dunnas[^14-2] e dals umens.
+
+<sup>3</sup> A partir da l’onn 2011 suttametta il Cussegl federal almain mintga 10 onns in rapport per fixar la tariffa da conversiun dals onns suandants.
+
+[^14-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
+[^14-2]: Dapi il 1. da schan. 2005: vegliadetgna da renta 64 per dunnas (art. 62*a* al. 2 lit. a da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 18 d’avust 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+
+#### Art. 15
+
+**Dabun da vegliadetgna**[^15-1]
+
+<sup>1</sup>
+
+Il dabun da vegliadetgna sa cumpona:
+
+- a. da las bunificaziuns da vegliadetgna inclusiv ils tschains per il temp, durant il qual la persuna assicurada ha appartegnì a l’instituziun da provediment u maximalmain fin ch’ella ha cuntanschì la vegliadetgna ordinaria da renta;
+- b. dals dabuns da vegliadetgna inclusiv ils tschains ch’èn vegnids pajads da las instituziuns precedentas e bunifitgads a la persuna assicurada;
+- c.[^15-2] da las restituziuns da retratgas anticipadas tenor l’artitgel 30*d* alinea 6;
+- d.[^15-3] da las summas ch’èn vegnidas pajadas e bunifitgadas en il rom d’ina cumpensaziun dal provediment professiunal tenor l’artitgel 22*c* alinea 2 LFLP[^15-4];
+- e.[^15-5] da las summas ch’èn vegnidas bunifitgadas en il rom d’in reacquist tenor l’artitgel 22*c* alinea 1 LFLP.
+
+<sup>2</sup> Il Cussegl federal fixescha il tschains minimal. En quest connex resguarda el il svilup da la rendita d’investiziuns usitadas sin il martgà, en spezial da las obligaziuns da la Confederaziun, e supplementarmain da las aczias, dals emprests e da las immobiglias.[^15-6]
+
+<sup>3</sup> Il Cussegl federal controllescha almain mintga 2 onns la tariffa da tschains minimala. Per quest intent consultescha el la Cumissiun federala per il provediment professiunal ed ils partenaris socials.
+
+<sup>4</sup> El regla la fixaziun da la part dal dabun da vegliadetgna cumpareglià cun l’entir dabun da provediment en cas, nua che questa part na po betg pli vegnir eruida.[^15-7]
+
+[^15-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^15-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^15-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^15-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^15-5]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^15-6]: Guardar er las disposiziuns transitoricas da la midada dals 17 da dec. 2010 a la fin da quest text.
+[^15-7]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 16
+
+**Bunificaziuns da vegliadetgna**[^16-1]
+
+Las bunificaziuns da vegliadetgna vegnan calculadas mintga onn en pertschients dal salari coordinà. Valair valan las suandantas tariffas:
+
+<table>
+<tr><th>Onn da vegliadetgna</th><th>Tariffa en pertschients dal salari coordinà</th></tr>
+<tr><td>25–34</td><td>7</td></tr>
+<tr><td>35–44</td><td>10</td></tr>
+<tr><td>45–54</td><td>15</td></tr>
+<tr><td>55–65[^16-2]</td><td>18</td></tr>
+</table>
+
+[^16-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
+[^16-2]: Dapi il 1. da schan. 2005 per dunnas: onn da vegliadetgna 55–64 (art. 62*a* al. 2 lit. b da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 18 d’avust 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+
+#### Art. 17
+
+**Renta per uffants**
+
+<sup>1</sup> Persunas assicuradas che retiran ina renta da vegliadetgna han – sch’ellas murissan – il dretg d’ina renta per uffants en l’autezza da la renta per orfens, e quai per mintga uffant che pudess far valair ina renta per orfens.
+
+<sup>2</sup> Il dretg d’ina renta per uffants ch’exista il mument ch’ina procedura da divorzi vegn iniziada, n’è betg tangà da la cumpensaziun dal provediment professiunal tenor l’artitgel 124*a* dal Cudesch civil svizzer (CCS)[^17-1].[^17-2]
+
+[^17-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^17-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+### 2. secziun Prestaziuns per survivents
+
+#### Art. 18
+
+**Premissas**[^18-1]
+
+In dretg da prestaziuns per survivents exista mo, sch’il defunct:
+
+- a. era assicurà il mument da la mort u il mument da l’entrada da l’incapacitad da lavurar, ch’è stada il motiv da la mort; u
+- b. aveva – al cumenzament d’ina activitad da gudogn – ina incapacitad da lavurar da 20 fin 40 pertschient en consequenza d’ina menda da naschientscha ed era assicurà, cur che l’incapacitad da lavurar, ch’è stada il motiv da la mort, è s’augmentada ad almain 40 pertschient; u
+- c. è daventà invalid sco minoren (art. 8 al. 2 da la Lescha federala dals 6 d’october 2000[^18-2] davart la part generala dal dretg d’assicuranza sociala, LPGA) ed aveva pervia da quai – al cumenzament d’ina activitad da gudogn – ina incapacitad da lavurar da 20 fin 40 pertschient ed era assicurà, cur che l’incapacitad da lavurar, ch’è stada il motiv da la mort, è s’augmentada ad almain 40 pertschient; u
+- d. survegniva il mument da la mort ina renta da vegliadetgna u d’invaliditad da l’instituziun da provediment.
+
+[^18-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^18-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 19
+
+**Conjugal survivent**[^19-1]
+
+<sup>1</sup>
+
+Il conjugal survivent ha il dretg d’ina renta per vaivs, sch’el ademplescha ina da las suandantas premissas il mument da la mort dal conjugal:
+
+- a. el sto procurar per il mantegniment d’almain in uffant; u
+- b. el ha passa 45 onns e la lètg ha durà almain 5 onns.
+
+<sup>2</sup> Sch’il conjugal survivent n’ademplescha naginas da las premissas tenor l’alinea 1, ha el il dretg d’ina indemnisaziun unica en l’autezza da trais rentas annualas.
+
+<sup>3</sup> Il Cussegl federal regla il dretg da persunas divorziadas sin prestaziuns per survivents.
+
+[^19-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 19a
+
+**Partenaris registrads survivents**[^19a-1]
+
+L’artitgel 19 vala tenor il senn per il partenari registrà survivent.
+
+[^19a-1]: Integrà tras la cifra 29 da l’agiunta da la Lescha da partenadi dals 18 da zer. 2004 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)). Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2016 (adopziun), en vigur dapi il 1. da schan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+#### Art. 20
+
+**Orfens**
+
+Ils uffants dal defunct han il dretg da rentas per orfens; uffants confidads mo, sch’il defunct aveva da procurar per lur mantegniment.
+
+#### Art. 20a
+
+**Ulteriurs benefiziaris**[^20a-1]
+
+<sup>1</sup>
+
+Ultra da las persunas che han il dretg sin prestaziuns tenor ils artitgels 19 e 20[^20a-2] po l’instituziun da provediment prevair ils suandants benefiziaris da prestaziuns per survivents en ses reglament:
+
+- a. persunas natiralas ch’èn vegnidas sustegnidas en moda considerabla da la persuna assicurada, u la persuna che ha manà senza interrupziun ina communitad da vita cun la persuna assicurada durant ils ultims 5 onns avant sia mort u che sto procurar per il mantegniment d’in u da plirs uffants cuminaivels;
+- b. en cas da mancanza da benefiziaris tenor la litera a: ils uffants dal defunct che n’adempleschan betg las premissas tenor l’artitgel 20, ils geniturs u ils fragliuns;
+- c.
+
+  en cas da mancanza da benefiziaris tenor las literas a e b: ils ulteriurs ertavels legals, cun exclusiun da la communitad, en la dimensiun:
+
+  - 1\. da las contribuziuns ch’eran vegnidas pajadas da la persuna assicurada, u
+  - 2\. da 50 pertschient dal chapital da provediment.
+
+<sup>2</sup> Nagin dretg da prestaziuns per survivents tenor l’alinea 1 litera a n’exista, sch’il benefiziari retira ina renta per vaivs.
+
+[^20a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^20a-2]: Oz: art. 19, 19*a* e 20.
+
+#### Art. 21
+
+**Autezza da la renta**[^21-1]
+
+<sup>1</sup> Tar la mort d’ina persuna assicurada importa la renta per vaivs 60 pertschient e la renta per orfens 20 pertschient da la renta d’invaliditad entira, da la quala la persuna assicurada avess gì il dretg.
+
+<sup>2</sup> Tar la mort d’ina persuna che ha retratg ina renta da vegliadetgna u d’invaliditad importa la renta per vaivs 60 pertschient e la renta per orfens 20 pertschient da l’ultima renta da vegliadetgna u d’invaliditad pajada.
+
+<sup>3</sup> Parts da rentas ch’èn vegnidas concedidas al conjugal creditur en il rom d’ina cumpensaziun dal provediment professiunal tenor l’artitgel 124*a* CCS[^21-2] n’appartegnan betg a l’ultima renta da vegliadetgna u d’invaliditad pajada a la persuna assicurada tenor l’alinea 2.[^21-3]
+
+<sup>4</sup> Sch’ina renta per uffants n’è betg stada pertutgada d’ina cumpensaziun dal provediment professiunal tenor ils artitgels 124 u 124*a* CCS, vegn la renta per orfens calculada sin las medemas basas sco la renta per uffants.[^21-4]
+
+[^21-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
+[^21-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^21-4]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 22
+
+**Cumenzament e fin dal dretg**
+
+<sup>1</sup> Il dretg d’ina prestaziun per survivents cumenza cun la mort da la persuna assicurada, il pli baud dentant cur ch’il dretg sin il salari entir finescha.
+
+<sup>2</sup> Il dretg da prestaziuns per vaivs scada, sch’il conjugal vaiv marida puspè u sch’el mora.[^22-1]
+
+<sup>3</sup>
+
+Il dretg da prestaziuns per orfens scada, sche l’orfen mora u cur ch’el cumplenescha il 18. onn da vegliadetgna. Quest dretg exista dentant vinavant fin a la cumplenida dal 25. onn da vegliadetgna per uffants:
+
+- a. fin ch’els termineschan la scolaziun;
+- b.[^22-2] fin ch’els cuntanschan l’abilitad da gudogn, uschenavant ch’els han in grad d’invaliditad d’almain 70 pertschient.
+
+<sup>4</sup> Sche la persuna assicurada n’era – al cumenzament dal dretg da prestaziun – betg affiliada a l’instituziun da provediment che ha da pajar las prestaziuns, sto quella instituziun da provediment, a la quala ella è stada affiliada sco ultim, pajar prestaziuns preliminaras. Sche l’instituziun da provediment che ha da pajar las prestaziuns è confermada, po l’instituziun da provediment che ha da pajar prestaziuns preliminaras prender regress sin quella.[^22-3]
+
+[^22-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^22-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^22-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+### 3. secziun Prestaziuns d’invaliditad
+
+#### Art. 23
+
+**Dretg da prestaziun**[^23-1]
+
+Il dretg da prestaziuns d’invaliditad han persunas che:
+
+- a. han in grad d’invaliditad d’almain 40 pertschient en il senn da la AI ed eran assicuradas il mument da l’entrada da l’incapacitad da lavurar, ch’è stada il motiv da l’invaliditad;
+- b. avevan – al cumenzament da l’activitad da gudogn – ina incapacitad da lavurar da 20 fin 40 pertschient en consequenza d’ina menda da naschientscha ed eran assicuradas, cur che l’incapacitad da lavurar, ch’è stada il motiv da l’invaliditad, è s’augmentada ad almain 40 pertschient;
+- c. èn daventadas invalidas sco minorennas (art. 8 al. 2 LPGA[^23-2]) ed avevan pervia da quai – al cumenzament d’ina activitad da gudogn – ina incapacitad da lavurar da 20 fin 40 pertschient ed eran assicuradas, cur che l’incapacitad da lavurar, ch’è stada il motiv da l’invaliditad, è s’augmentada ad almain 40 pertschient.
+
+[^23-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^23-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 24
+
+**Autezza da la renta**[^24-1]
+
+<sup>1</sup>
+
+La persuna assicurada ha il dretg:
+
+- a. d’ina renta d’invaliditad entira, sch’ella ha in grad d’invaliditad d’almain 70 pertschient en il senn da la AI;
+- b. da trais quarts d’ina renta d’invaliditad, sch’ella ha in grad d’invaliditad d’almain 60 pertschient;
+- c. d’ina mesa renta d’invaliditad, sch’ella ha in grad d’invaliditad d’almain 50 pertschient;
+- d. d’in quart d’ina renta d’invaliditad, sch’ella ha in grad d’invaliditad d’almain 40 pertschient.
+
+<sup>2</sup> La renta d’invaliditad vegn calculada tenor la medema tariffa da conversiun sco la renta da vegliadetgna al 65. onn da vegliadetgna[^24-2]. Per las persunas assicuradas da la generaziun transitorica vala la tariffa da conversiun fixada dal Cussegl federal tenor la litera b da las disposiziuns transitoricas da la 1. revisiun da la LPP dals 3 d’october 2003.
+
+<sup>3</sup>
+
+Il dabun da vegliadetgna ch’è decisiv per la calculaziun consista:
+
+- a. dal dabun da vegliadetgna che la persuna assicurada ha acquistà fin al cumenzament dal dretg sin la renta d’invaliditad;
+- b. da la summa da las bunificaziuns da vegliadetgna per ils onns che mancan fin a la vegliadetgna ordinaria da renta, senza tschains.
+
+<sup>4</sup> Questas bunificaziuns da vegliadetgna vegnan calculadas sin basa dal salari coordinà da la persuna assicurada durant ses ultim onn d’assicuranza tar l’instituziun da provediment.
+
+<sup>5</sup> La renta d’invaliditad vegn adattada, sch’ina summa tenor l’artitgel 124 alinea 1 CCS[^24-3] vegn transferida en il rom d’ina cumpensaziun dal provediment professiunal. Il Cussegl federal regla la calculaziun da l’adattaziun.[^24-4]
+
+[^24-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
+[^24-2]: Dapi il 1. da schan. 2005: vegliadetgna da renta 64 per dunnas (art. 62*a* al. 2 lit. c da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 18 d’avust 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^24-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-4]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 25
+
+**Renta per uffants**
+
+<sup>1</sup> Persunas assicuradas che retiran ina renta d’invaliditad han – sch’ellas murissan – il dretg d’ina renta per uffants en l’autezza da la renta per orfens, e quai per mintga uffant che pudess far valair ina renta per orfens. La renta per uffants vegn calculada tenor las medemas reglas sco la renta d’invaliditad.
+
+<sup>2</sup> Il dretg d’ina renta per uffants ch’exista il mument ch’ina procedura da divorzi vegn iniziada, n’è betg tangà da la cumpensaziun dal provediment professiunal tenor ils artitgels 124 e 124*a* CCS[^25-1].[^25-2]
+
+[^25-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^25-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 26
+
+**Cumenzament e fin dal dretg**
+
+<sup>1</sup> Per il cumenzament dal dretg sin prestaziuns d’invaliditad valan tenor il senn las disposiziuns correspundentas da la Lescha federala dals 19 da zercladur 1959[^26-1] davart l’assicuranza d’invaliditad (art. 29 LAI).[^26-2]
+
+<sup>2</sup> En sias disposiziuns reglamentaras po l’instituziun da provediment prevair ch’il dretg vegnia suspendì, uschè ditg che la persuna assicurada survegn il salari entir.
+
+<sup>3</sup> Il dretg scada cun la mort da la persuna che ha il dretg sin prestaziuns u, cun resalva da l’artitgel 26*a*, cun la fin da l’invaliditad.[^26-3] Per persunas assicuradas ch’èn suttamessas a l’assicuranza obligatorica tenor l’artitgel 2 alinea 3 u che cuntinueschan voluntarmain cun lur provediment tenor l’artitgel 47 alinea 2, scada la renta d’invaliditad il pli tard al cumenzament dal dretg sin ina prestaziun da vegliadetgna (art. 13 al. 1).[^26-4]
+
+<sup>4</sup> Sche la persuna assicurada n’è – al cumenzament dal dretg da prestaziun – betg affiliada a l’instituziun da provediment che ha da pajar las prestaziuns, sto quella instituziun da provediment, a la quala ella è stada affiliada sco ultim, pajar prestaziuns preliminaras. Sche l’instituziun da provediment che ha da pajar las prestaziuns è confermada, po l’instituziun da provediment che ha da pajar prestaziuns preliminaras prender regress sin quella.[^26-5]
+
+[^26-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845). Oz: art. 28 al. 1 e 29 al. 1−3 LAI.
+[^26-2]: Versiun tenor la cifra II 3 da la LF dals 9 d’oct. 1986 (2. revisiun da la AI), en vigur dapi il 1. da schan. 1988 ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
+[^26-3]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Guardar er la disposiziun finala da la midada dals 18 da mars 2011 a la fin da quest text.
+[^26-4]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^26-5]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 26a
+
+**Cuntinuaziun provisorica da l’assicuranza e mantegniment dal dretg da prestaziun en cas che la renta da l’assicuranza d’invaliditad vegn reducida u abolida**[^26a-1]
+
+<sup>1</sup> Sche la renta da l’assicuranza d’invaliditad vegn reducida u abolida suenter la sminuziun dal grad d’invaliditad, resta la persuna pertutgada assicurada durant 3 onns sut las medemas cundiziuns tar l’instituziun da provediment che ha da pajar las prestaziuns, premess ch’ella saja sa participada a mesiras da reintegraziun tenor l’artitgel 8*a* LAI[^26a-2] avant la reducziun u l’aboliziun da la renta, u premess che la renta saja vegnida reducida u abolida perquai ch’ella ha recumenzà cun in’activitad da gudogn u perquai ch’il grad d’occupaziun è vegnì augmentà.
+
+<sup>2</sup> La garanzia tras l’assicuranza ed il dretg da prestaziun cuntinueschan, uschè ditg che la persuna assicurada retira ina prestaziun transitorica tenor l’artitgel 32 LAI.
+
+<sup>3</sup> Durant la cuntinuaziun da l’assicuranza e durant il mantegniment dal dretg da prestaziun po l’instituziun da provediment reducir la renta d’invaliditad tut tenor il grad d’invaliditad sminuì da la persuna assicurada, dentant mo tant enavant, sco quai che la reducziun vegn cumpensada tras entradas supplementaras da la persuna assicurada.
+
+[^26a-1]: Integrà tras la cifra 6 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^26a-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 26b
+
+**Suspensiun preventiva dal pajament da la renta**[^26b-1]
+
+A partir dal mument che l’instituziun da provediment survegn enconuschientscha dal fatg che l’uffizi da la AI ha disponì la suspensiun preventiva dal pajament da la renta d’invaliditad sin basa da l’artitgel 52*a* LPGA[^26b-2], suspenda er ella preventivamain il pajament da la renta d’invaliditad.
+
+[^26b-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^26b-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+### 4. chapitel Prestaziun da libra circulaziun e promoziun da la proprietad d’abitaziuns****
+
+[^part2-tit1-chap4-1]
+
+[^part2-tit1-chap4-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 1993 davart la promoziun da la proprietad d’abitaziuns cun meds dal provediment professiunal, en vigur dapi il 1. da schan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+
+### 1. secziun Prestaziun da libra circulaziun****
+
+[^part2-tit1-chap4-sec1-1]
+
+[^part2-tit1-chap4-sec1-1]: Integrà tras la cifra I da la LF dals 17 da dec. 1993 davart la promoziun da la proprietad d’abitaziuns cun meds dal provediment professiunal, en vigur dapi il 1. da schan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+
+#### Art. 27
+
+[^27-1]
+
+Per la prestaziun da libra circulaziun vala la LFLP[^27-2].
+
+[^27-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^27-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+#### Art. 28–30
+
+[^2830-1]
+
+[^2830-1]: Abolì tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+
+### 2. secziun**** Promoziun da la proprietad d’abitaziuns
+
+[^part2-tit1-chap4-sec2-1]
+
+[^part2-tit1-chap4-sec2-1]: Integrà tras la cifra I da la LF dals 17 da dec. 1993 davart la promoziun da la proprietad d’abitaziuns cun meds dal provediment professiunal, en vigur dapi il 1. da schan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+
+#### Art. 30a
+
+**Noziun**
+
+Sco instituziun da provediment en il senn da questa secziun valan tut las instituziuns ch’èn inscrittas en il register dal provediment professiunal u che mantegnan en in’autra furma la protecziun da provediment tenor l’artitgel 1 LFLP[^30a-1].
+
+[^30a-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+#### Art. 30b
+
+**Impegnaziun**
+
+La persuna assicurada po impegnar il dretg sin prestaziuns da provediment u ina contribuziun fin a l’autezza da sia prestaziun da libra circulaziun tenor l’artitgel 331*d* DO[^30b-1] [^30b-2].
+
+[^30b-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30b-2]: Expressiun tenor la cifra I 6 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Questa midada è vegnida resguardada en l’entir decret.
+
+#### Art. 30c
+
+**Retratga anticipada**
+
+<sup>1</sup> Fin a 3 onns avant il cumenzament dal dretg sin prestaziuns da vegliadetgna po la persuna assicurada pretender da sia instituziun da provediment il pajament d’in import per la proprietad d’abitar per ses agen basegn.
+
+<sup>2</sup> Fin al 50. onn da vegliadetgna dastgan persunas assicuradas retrair in import fin a l’autezza da la prestaziun da libra circulaziun. Persunas assicuradas che han surpassà il 50. onn da vegliadetgna dastgan retrair maximalmain la prestaziun da libra circulaziun, da la quala ellas avessan gì il dretg al 50. onn da vegliadetgna, u la mesadad da la prestaziun da libra circulaziun, da la quala ellas han il dretg il mument da la retratga.
+
+<sup>3</sup> La persuna assicurada po applitgar quest import er per acquistar certificats da participaziun d’ina societad per la construcziun d’abitaziuns u participaziuns sumegliantas, sch’ella dovra sezza l’abitaziun che vegn cofinanziada en questa moda.
+
+<sup>4</sup> Tras la retratga vegn reducì a medem temp il dretg sin prestaziuns da provediment tenor ils reglaments da provediment respectivs e tenor las basas tecnicas da l’instituziun da provediment. Per evitar ina diminuziun da la protecziun da provediment pervia d’ina reducziun da las prestaziuns en cas da mort u d’invaliditad, offrescha l’instituziun da provediment in’assicuranza supplementara u intermediescha ina tala.
+
+<sup>5</sup> Sche la persuna assicurada è maridada u viva en partenadi registrà, èn la retratga e mintga ulteriura constituziun d’in dretg da pegn immobigliar permessas mo, sche ses conjugal u ses partenari registrà dat il consentiment en scrit. Sch’i n’è betg pussaivel da survegnir il consentiment u sch’il consentiment vegn refusà, po la persuna assicurada appellar a la dretgira civila.[^30c-1]
+
+<sup>6</sup> Sche la lètg vegn divorziada u sch’il partenadi registrà vegn schlià giudizialmain avant l’entrada d’in cas da provediment, vala la retratga anticipada sco prestaziun da libra circulaziun e vegn partida tenor l’artitgel 123 CCS[^30c-2], tenor ils artitgels 280 e 281 dal Cudesch da procedura civila[^30c-3] e tenor ils artitgels 22–22*b* LFLP[^30c-4].[^30c-5]
+
+<sup>7</sup> Sche la retratga anticipada u l’impegnaziun mettan en dumonda la liquiditad da l’instituziun da provediment, po quella suspender la liquidaziun da las dumondas correspundentas. En ses reglament fixescha ella in urden da prioritads per suspender questas retratgas anticipadas respectivamain questas impegnaziuns. Il Cussegl federal regla ils detagls.
+
+[^30c-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^30c-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^30c-3]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^30c-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^30c-5]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 30d
+
+**Restituziun**
+
+<sup>1</sup>
+
+La persuna assicurada u ses ertavels ston restituir l’import retratg a l’instituziun da provediment, sche:
+
+- a. la proprietad d’abitar vegn alienada;
+- b. i vegnan concedids dretgs sin questa proprietad d’abitar, che correspundan economicamain ad in’alienaziun; u
+- c. i n’è da pajar nagina prestaziun da provediment tar la mort da la persuna assicurada.
+
+<sup>2</sup> La persuna assicurada po dal rest restituir da tut temp l’import retratg, resguardond las cundiziuns da l’alinea 3.
+
+<sup>3</sup>
+
+La restituziun è admissibla fin:
+
+- a.[^30d-1] al cumenzament dal dretg reglamentar sin prestaziuns da vegliadetgna;
+- b. a l’entrada d’in auter cas da provediment; u
+- c. al pajament da la prestaziun da libra circulaziun en daner blut.
+
+<sup>4</sup> Sche la persuna assicurada vul puspè investir entaifer 2 onns il retgav da l’alienaziun da la proprietad d’abitar en la dimensiun da la retratga anticipada per sia proprietad d’abitar, po ella transferir quest import ad ina instituziun da libra circulaziun.
+
+<sup>5</sup> Tar l’alienaziun da la proprietad d’abitar sa restrenscha l’obligaziun da restituziun al retgav. Sco retgav vala il pretsch da vendita, minus ils debits ipotecars e las taxas che vegnan adossadas al vendider tras lescha.
+
+<sup>6</sup> Imports restituids vegnan attribuids al dabun da vegliadetgna tenor l’artitgel 15 ed a l’ulteriur dabun da provediment en la medema relaziun sco tar la retratga anticipada.[^30d-2]
+
+[^30d-1]: Versiun tenor la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^30d-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 30e
+
+**Garanzia da l’intent da provediment**
+
+<sup>1</sup> La persuna assicurada u ses ertavels dastgan alienar la proprietad d’abitar mo cun resalva da l’artitgel 30*d*. Sco alienaziun vala er la concessiun da dretgs che correspundan economicamain ad in’alienaziun. Betg sco alienaziun na vala percunter il transferiment da la proprietad d’abitar ad in benefiziari en il senn dal dretg da provediment. Quel è suttamess a la medema restricziun d’alienaziun sco la persuna assicurada.
+
+<sup>2</sup> La restricziun d’alienaziun tenor l’alinea 1 sto vegnir menziunada en il register funsil. L’instituziun da provediment sto annunziar la menziun a l’uffizi dal register funsil il medem mument sco il pajament da la retratga anticipada respectivamain sco la realisaziun dal pegn dal dabun da provediment.
+
+<sup>3</sup>
+
+La menziun dastga vegnir stizzada:
+
+- a.[^30e-1] al cumenzament dal dretg reglamentar sin prestaziuns da vegliadetgna;
+- b. suenter l’entrada d’in auter cas da provediment;
+- c. tar il pajament da la prestaziun da libra circulaziun en daner blut; u
+- d. sch’i vegn cumprovà che l’import investì en la proprietad d’abitar è vegnì transferì tenor l’artitgel 30*d* a l’instituziun da provediment da la persuna assicurada u ad ina instituziun da libra circulaziun.
+
+<sup>4</sup> Sche la persuna assicurada utilisescha la retratga anticipada per acquistar certificats da participaziun d’ina societad per la construcziun d’abitaziuns u participaziuns sumegliantas, sto ella depositar quests certificats u questas participaziuns per garantir l’intent da provediment.
+
+<sup>5</sup> Avant il pajament da la retratga anticipada respectivamain avant l’impegnaziun dal dabun da provediment sto la persuna assicurada domiciliada a l’exteriur cumprovar ch’ella utilisescha ils meds dal provediment professiunal per sia proprietad d’abitar.
+
+<sup>6</sup> L’obligaziun ed il dretg da restituziun existan fin al cumenzament dal dretg reglamentar sin prestaziuns da vegliadetgna, fin a l’entrada d’in auter cas da provediment u fin al pajament en daner blut.[^30e-2]
+
+[^30e-1]: Versiun tenor la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^30e-2]: Versiun tenor la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+
+#### Art. 30f
+
+**Restricziuns durant ina sutgaranzia**[^30f-1]
+
+<sup>1</sup> En ses reglament po l’instituziun da provediment prevair che l’impegnaziun, la retratga anticipada e la restituziun pon vegnir restrenschidas durant ina perioda da sutgaranzia areguard il temp ed areguard l’import u vegnir refusadas dal tuttafatg.
+
+<sup>2</sup> Il Cussegl federal fixescha las premissas, sut las qualas las restricziuns tenor l’alinea 1 èn admissiblas, e determinescha lur dimensiun.
+
+[^30f-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 30g
+
+**Disposiziuns executivas**[^30g-1]
+
+Il Cussegl federal determinescha:
+
+- a. ils intents d’utilisaziun admissibels e la noziun «proprietad d’abitaziuns per l’agen basegn» (art. 30*c* al. 1);
+- b. las premissas che ston esser ademplidas per acquistar certificats da participaziun d’ina societad per la construcziun d’abitaziuns u participaziuns sumegliantas (art. 30*c* al. 3);
+- c. l’import minimal per la retratga (art. 30*c* al. 1);
+- d. las modalitads da l’impegnaziun, da la retratga anticipada, da la restituziun e da la garanzia da l’intent da provediment (art. 30*b*–30*e*);
+- e. l’obligaziun da las instituziuns da provediment d’infurmar las persunas assicuradas – en cas d’ina impegnaziun u d’ina retratga anticipada – davart las consequenzas per lur prestaziuns da provediment, davart la pussaivladad da far in’assicuranza supplementara per las ristgas mort u invaliditad e davart las consequenzas fiscalas.
+
+[^30g-1]: Oriundamain: art. 30*f*.
+
+### 5. chapitel Generaziun d’entrada
+
+#### Art. 31
+
+**Princip**
+
+A la generaziun d’entrada appartegnan las persunas che han cumplenì il 25. onn da vegliadetgna e n’han betg anc cuntanschì la vegliadetgna da renta il mument da l’entrada en vigur da questa lescha.
+
+#### Art. 32
+
+**Disposiziuns spezialas da las instituziuns da provediment**
+
+<sup>1</sup> En il rom da sias pussaivladads finanzialas sto mintga instituziun da provediment decretar disposiziuns spezialas a favur da la generaziun d’entrada e favurisar en quest connex en spezial las persunas assicuradas pli veglias, cunzunt talas cun pitschnas entradas.
+
+<sup>2</sup> Sche persunas assicuradas han dretgs da prestaziuns sin basa da relaziuns da provediment ch’existan il mument da l’entrada en vigur da questa lescha, pon l’instituziun da provediment tegnair quint da tals.
+
+#### Art. 33
+
+[^33-1]
+
+[^33-1]: Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+### 5*a*. chapitel**** Facilitaziun per lavurants pli vegls da sa participar al martgà da lavur
+
+[^part2-tit1-chap5a-1]
+
+[^part2-tit1-chap5a-1]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (mesiras per facilitar a lavurants pli vegls da sa participar al martgà da lavur), en vigur dapi il 1. da schan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 33a
+
+**Cuntinuaziun da l’assicuranza sin il nivel da l’ultim salari assicurà**
+
+<sup>1</sup> En ses reglament po l’instituziun da provediment prevair la pussaivladad per persunas assicuradas, da las qualas il salari sa reducescha per maximalmain la mesadad suenter il 58. onn da vegliadetgna, da dumandar che lur provediment vegnia cuntinuada sin il nivel da l’ultim salari assicurà.
+
+<sup>2</sup> L’assicuranza sin il nivel da l’ultim salari assicurà po vegnir cuntinuada fin maximalmain a la vegliadetgna reglamentara ordinaria da renta.
+
+<sup>3</sup> Las contribuziuns per la cuntinuaziun da l’assicuranza sin il nivel da l’ultim salari assicurà èn exceptadas da la paritad da las contribuziuns tenor l’artitgel 66 alinea 1 da questa lescha e tenor l’artitgel 331 alinea 3 DO[^33a-1]. Il reglament po prevair contribuziuns dal patrun per questa cuntinuaziun da l’assicuranza mo, sch’il patrun dat ses consentiment.
+
+[^33a-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 33b
+
+**Activitad da gudogn suenter la vegliadetgna ordinaria da renta**
+
+En ses reglament po l’instituziun da provediment prevair la pussaivladad per persunas assicuradas da dumandar che lur provediment vegnia cuntinuada fin a la fin da l’activitad da gudogn, dentant maximalmain fin a la cumplenida dal 70. onn da vegliadetgna.
+
+### 6. chapitel Disposiziuns cuminaivlas per las prestaziuns
+
+#### Art. 34
+
+**Autezza da la prestaziun en cas spezials**
+
+<sup>1</sup>
+
+Il Cussegl federal regla la calculaziun da las prestaziuns en cas spezials, particularmain sche:
+
+- a.[^34-1] l’onn d’assicuranza decisiv tenor l’artitgel 24 alinea 4 n’è betg cumplet u la persuna assicurada n’era betg abla da lavurar cumplainamain durant quest temp;
+- b. la persuna assicurada retira gia ina renta d’invaliditad u ha retratg ina prestaziun d’invaliditad tenor questa lescha a l’entrada d’in auter cas d’assicuranza.
+
+<sup>2</sup> ...[^34-2]
+
+[^34-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^34-2]: Abolì tras la cifra 10 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, cun effect dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+
+#### Art. 34a
+
+**Coordinaziun e prestaziun preliminara**[^34a-1]
+
+<sup>1</sup> L’instituziun da provediment po reducir las prestaziuns per survivents e las prestaziuns d’invaliditad, sche quellas surpassan, ensemen cun autras prestaziun da medem gener ed intent sco er cun autras entradas imputablas, 90 pertschient dal salari che la persuna assicurada ha presumtivamain pers.[^34a-2]
+
+<sup>2</sup> Sche prestaziuns tenor questa lescha concurran cun prestaziuns da medem gener d’autras assicuranzas socialas, vegn applitgà l’artitgel 66 alinea 2 LPGA[^34a-3]. Sch’i vegnan pajadas rentas per conjugals e per orfens en cas da prestaziuns da provediment insuffizientas tenor l’artitgel 54 da la Lescha federala dals 19 da zercladur 1992[^34a-4] davart l’assicuranza militara, na dastgan las prestaziuns da questa lescha betg vegnir reducidas.
+
+<sup>3</sup> Per la prestaziun preliminara valan ils artitgels 70 e 71 LPGA.
+
+<sup>4</sup> La reducziun d’autras prestaziuns il mument che la vegliadetgna ordinaria da renta vegn cuntanschida, sco er la reducziun u la refusa d’autras prestaziuns en cas da culpa na ston betg vegnir cumpensadas.[^34a-5]
+
+<sup>5</sup>
+
+Il Cussegl federal regla:
+
+- a. las prestaziuns e las entradas imputablas sco er il salari pers presumtivamain;
+- b. la calculaziun da la reducziun da las prestaziuns tenor l’alinea 1, sche autras prestaziuns tenor l’alinea 4 vegnan reducidas;
+- c. la coordinaziun cun diarias per persunas malsaunas.[^34a-6]
+
+[^34a-1]: Integrà tras la cifra 10 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^34a-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 25 da sett. 2015 (assicuranza d’accidents e prevenziun d’accidents), en vigur dapi il 1. da schan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^34a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^34a-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^34a-5]: Integrà tras la cifra 2 da l’agiunta da la LF dals 25 da sett. 2015 (assicuranza d’accidents e prevenziun d’accidents), en vigur dapi il 1. da schan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^34a-6]: Integrà tras la cifra 2 da l’agiunta da la LF dals 25 da sett. 2015 (assicuranza d’accidents e prevenziun d’accidents), en vigur dapi il 1. da schan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+
+#### Art. 34b
+
+**Subrogaziun**[^34b-1]
+
+A partir dal mument da l’eveniment entra l’instituziun da provediment en ils dretgs da la persuna assicurada, da ses survivents e d’ulteriurs benefiziaris tenor l’artitgel 20*a* envers ina terza persuna ch’è responsabla per il cas d’assicuranza, fin a l’autezza da las prestaziuns legalas.
+
+[^34b-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 35
+
+**Reducziun da las prestaziuns en cas da greva culpa**
+
+Sche la AVS/AI reducescha, retira u refusa ina prestaziun, perquai che la persuna che ha il dretg sin la prestaziun ha chaschunà la mort u l’invaliditad tras greva culpa u s’oppona ad ina mesira d’integraziun da la AI, po l’instituziun da provediment reducir sias prestaziuns en la medema dimensiun.
+
+#### Art. 35a
+
+**Restituziun da prestaziuns retratgas nungiustifitgadamain**[^35a-1]
+
+<sup>1</sup> Prestaziuns retratgas nungiustifitgadamain ston vegnir restituidas. D’ina restituziun poi vegnir desistì, sch’il retschavider da la prestaziun era da buna fai e sche la restituziun chaschunass ina gronda direzza per el.
+
+<sup>2</sup> Il dretg da restituziun extingua 3 onns suenter che l’instituziun da provediment ha survegnì enconuschientscha da la retratga nungiustifitgada, dentant il pli tard 5 onns suenter il pajament da la singula prestaziun.[^35a-2] Sch’il dretg da restituziun vegn deducì d’in malfatg, per il qual il dretg penal prescriva ina surannaziun pli lunga, è decisiva questa surannaziun.
+
+[^35a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^35a-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+
+#### Art. 36
+
+**Adattaziun al svilup dals pretschs**[^36-1]
+
+<sup>1</sup> Suenter che las rentas per survivents e las rentas d’invaliditad èn vegnidas pajadas durant passa 3 onns, vegnan ellas adattadas al svilup dals pretschs tenor l’ordinaziun dal Cussegl federal fin a la cumplenida da la vegliadetgna ordinaria da renta.
+
+<sup>2</sup> Las rentas per survivents e las rentas d’invaliditad che na ston betg vegnir adattadas al svilup dals pretschs tenor l’alinea 1, sco er las rentas da vegliadetgna vegnan adattadas al svilup dals pretschs tenor las pussaivladads finanzialas da l’instituziun da provediment. L’organ paritetic u l’organ suprem da l’instituziun da provediment decida annualmain, sche ed en tge dimensiun che las rentas vegnan adattadas.
+
+<sup>3</sup> En ses quint annual u en ses rapport annual explitgescha l’instituziun da provediment ils conclus tenor l’alinea 2.
+
+<sup>4</sup> L’artitgel 65*d* alinea 3 è applitgabel per adattaziuns al svilup dals pretschs che l’organ paritetic da l’instituziun da provediment ha concludì tegnend quint da la situaziun finanziala da l’instituziun da provediment.[^36-2]
+
+[^36-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
+[^36-2]: Integrà tras la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 37
+
+**Furma da las prestaziuns**[^37-1]
+
+<sup>1</sup> Las prestaziuns da vegliadetgna, per survivents e d’invaliditad vegnan per regla pajadas sco renta.
+
+<sup>2</sup> La persuna assicurada po pretender ch’in quart da ses dabun da vegliadetgna ch’è decisiv per calcular las prestaziuns da vegliadetgna effectivamain retratgas (art. 13 e 13*a*[^37-2]), vegnia pajada ad ella sco cumpensaziun en chapital.
+
+<sup>3</sup> Empè da la renta po l’instituziun da provediment pajar ina cumpensaziun en chapital, sche la renta da vegliadetgna u d’invaliditad importa main che 10 pertschient, la renta per vaivs main che 6 pertschient u la renta per orfens main che 2 pertschient da la renta minimala da vegliadetgna da la AVS.
+
+<sup>4</sup>
+
+En ses reglament po l’instituziun da provediment prevair che:
+
+- a. las persunas che han il dretg sin prestaziuns possian tscherner ina cumpensaziun en chapital empè d’ina renta da vegliadetgna, per survivents u d’invaliditad;
+- b. las persunas che han il dretg sin prestaziuns stoppian observar in tschert termin per far valair la cumpensaziun en chapital.
+
+<sup>5</sup> ...[^37-3]
+
+[^37-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^37-2]: L’art. 13*a* era previs en la 11. revisiun da la AVS dals 3 d’oct. 2003, ch’è vegnida refusada en la votaziun dal pievel dals 16 da matg 2004 (guardar [BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)).
+[^37-3]: Abolì tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), cun effect dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 37a
+
+**Consentiment en cas d’ina cumpensaziun en chapital**[^37a-1]
+
+<sup>1</sup> Sche la persuna assicurada è maridada u viva en partenadi registrà, è il pajament da la cumpensaziun en chapital tenor l’artitgel 37 alineas 2 e 4 permess mo, sche ses conjugal u ses partenari registrà dat il consentiment en scrit. Sch’i n’è betg pussaivel da survegnir il consentiment u sch’il consentiment vegn refusà, po la persuna assicurada appellar a la dretgira civila.
+
+<sup>2</sup> Uschè ditg che la persuna assicurada na preschenta betg il consentiment tenor l’alinea 1, na debitescha l’instituziun da provediment nagin tschains sin la cumpensaziun en chapital.
+
+[^37a-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 38
+
+**Pajament da las rentas**
+
+Las rentas vegnan per regla pajadas mintga mais. Per il mais ch’il dretg scada vegn la renta pajada cumplainamain.
+
+#### Art. 39
+
+**Cessiun, impegnaziun e scuntrada**
+
+<sup>1</sup> Avant la scadenza na po il dretg da prestaziun ni vegnir impegnà ni vegnir cedì. L’artitgel 30*b* resta resalvà.[^39-1]
+
+<sup>2</sup> Il dretg da prestaziun dastga mo vegnir cumpensà cun pretensiuns ch’il patrun ha cedì a l’instituziun da provediment, sche las pretensiuns sa refereschan a contribuziuns che n’èn betg vegnidas deducidas dal salari.
+
+<sup>3</sup> Acts giuridics che cuntrafan a questas disposiziuns èn nunvalaivels.
+
+[^39-1]: Versiun da la segunda frasa tenor la cifra I da la LF dals 17 da dec. 1993 davart la promoziun da la proprietad d’abitaziuns cun meds dal provediment professiunal, en vigur dapi il 1. da schan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+
+#### Art. 40
+
+[^40-1]
+
+[^40-1]: Abolì tras la cifra I da la LF dals 17 da dec. 1993 davart la promoziun da la proprietad d’abitaziuns cun meds dal provediment professiunal, cun effect dapi il 1. da schan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+
+#### Art. 41
+
+**Surannaziun da dretgs e conservaziun da documents da provediment**[^41-1]
+
+<sup>1</sup> Ils dretgs da prestaziuns na suranneschan betg, sche las persunas assicuradas n’han betg bandunà l’instituziun da provediment, cur ch’il cas d’assicuranza resulta.
+
+<sup>2</sup> Pretensiuns sin contribuziuns e prestaziuns periodicas suranneschan suenter 5 onns, autras pretensiuns suenter 10 onns. Ils artitgels 129–142 DO[^41-2] èn applitgabels.
+
+<sup>3</sup> Dabuns ch’èn deponids sin contos u sin polissas da libra circulaziun tenor l’artitgel 10 da l’Ordinaziun dals 3 d’october 1994[^41-3] davart la libra circulaziun vegnan transferids 10 onns suenter la vegliadetgna ordinaria da renta (art. 13) al fond da garanzia; quel als utilisescha per finanziar l’Uffizi central da la 2. pitga.
+
+<sup>4</sup> Sch’i n’è betg pussaivel d’eruir la data da naschientscha exacta da la persuna assicurada, vegnan ils dabuns da libra circulaziun, per ils quals las instituziuns che als administreschan n’han survegnì durant 10 onns naginas novitads da la persuna assicurada u da ses ertavels, administrads vinavant da questas instituziuns fin l’onn 2010. Suenter vegnan transferids er quests dabuns al fond da garanzia; quel als utilisescha tenor l’alinea 3.
+
+<sup>5</sup> Il fond da garanzia ademplescha pretensiuns sin dabuns ch’èn vegnids transferids ad el tenor ils alineas 3 e 4, uschenavant che lur existenza vegn cumprovada da la persuna assicurada u da ses ertavels.
+
+<sup>6</sup> Pretensiuns che na vegnan betg fatgas valair tenor l’alinea 5, suranneschan cur che la persuna assicurada ha cumplenì u avess cumplenì ses 100. onn da vegliadetgna.
+
+<sup>7</sup> Ils alineas 1–6 èn applitgabels er per obligaziuns che resultan da contracts tranter las instituziuns da provediment e las societads d’assicuranza ch’èn suttamessas a la surveglianza da las assicuranzas.
+
+<sup>8</sup> Il Cussegl federal decretescha disposiziuns davart la conservaziun da documents da provediment en vista al fatg che las persunas assicuradas fan valair lur dretgs.
+
+[^41-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^41-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^41-3]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+
+### 2. titel Assicuranza obligatorica da las persunas cun activitad da gudogn independenta
+
+#### Art. 42
+
+**Assicuranza da vegliadetgna, da mort e d’invaliditad**
+
+Sche las persunas cun activitad da gudogn independenta èn assicuradas obligatoricamain per las ristgas vegliadetgna, mort ed invaliditad, èn applitgablas las disposiziuns davart l’assicuranza obligatorica dals lavurants.
+
+#### Art. 43
+
+**Assicuranza da singulas ristgas**
+
+<sup>1</sup> Sche l’assicuranza obligatorica cumpiglia mo las ristgas mort ed invaliditad, po il Cussegl federal permetter in sistem da prestaziuns che divergescha dal sistem da l’assicuranza obligatorica dals lavurants.
+
+<sup>2</sup> Las disposiziuns davart il fond da garanzia n’èn betg applitgablas.
+
+### 3. titel Assicuranza facultativa
+
+### 1. chapitel Persunas cun activitad da gudogn independenta
+
+#### Art. 44
+
+**Dretg da s’assicurar**
+
+<sup>1</sup> Persunas cun activitad da gudogn independenta pon sa laschar assicurar tar l’instituziun da provediment da lur professiun u da lur lavurants.
+
+<sup>2</sup> Tgi che na po betg sa laschar assicurar tar ina instituziun da provediment, ha il dretg da sa laschar assicurar tar l’instituziun auxiliara.
+
+#### Art. 45
+
+**Resalva**
+
+<sup>1</sup> Per las ristgas mort ed invaliditad dastga vegnir fatga ina resalva per motivs da sanadad durant maximalmain 3 onns.
+
+<sup>2</sup> Questa resalva è inadmissibla, sche la persuna cun activitad da gudogn independenta è stada assicurada obligatoricamain durant almain 6 mais e sch’ella s’assicurescha facultativamain entaifer 1 onn.
+
+### 2. chapitel Lavurants
+
+#### Art. 46
+
+**Activitad da gudogn en servetsch da plirs patruns**
+
+<sup>1</sup> Sch’in lavurant che stat en servetsch da plirs patruns e che ha in salari annual total da passa 21 510 francs[^46-1] n’è betg assicurà obligatoricamain, po el sa laschar assicurar facultativamain tar l’instituziun auxiliara ubain tar l’instituziun da provediment, a la quala in da ses patruns è affilià, premess che las disposiziuns reglamentaras da questa instituziun prevesian quai.[^46-2]
+
+<sup>2</sup> Sch’il lavurant è gia assicurà obligatoricamain tar ina instituziun da provediment, po el far tar quella, uschenavant che sias disposiziuns reglamentaras n’excludan betg quai, u tar l’instituziun auxiliara in’assicuranza supplementara per il salari ch’el survegn dals auters patruns.
+
+<sup>3</sup> Al lavurant che paja directamain contribuziuns ad ina instituziun da provediment debitescha mintga patrun mintgamai la mesadad da las contribuziuns che tutgan al salari ch’el ha pajà. L’autezza da la contribuziun dal patrun resulta d’ina attestaziun da l’instituziun da provediment.
+
+<sup>4</sup> Sin dumonda dal lavurant surpiglia l’instituziun da provediment l’incasso tar ils patruns.
+
+[^46-1]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^46-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 47
+
+**Sortida da l’assicuranza obligatorica**[^47-1]
+
+<sup>1</sup> Sche la persuna assicurada sorta da l’assicuranza obligatorica, po ella cuntinuar cun il provediment u mo cun il provediment da vegliadetgna en la medema dimensiun tar la medema instituziun da provediment, sch’il reglament da tala permetta quai, u tar l’instituziun auxiliara.
+
+<sup>2</sup> La persuna assicurada che sorta da l’assicuranza obligatorica tenor l’artitgel 2 alinea 3 po cuntinuar cun il provediment per las ristgas mort ed invaliditad en la medema dimensiun tar l’instituziun auxiliara.[^47-2]
+
+[^47-1]: Versiun tenor l’art. 117*a* da la LF dals 25 da zer. 1982 davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da fan. 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+[^47-2]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 47a
+
+**Sortida da l’assicuranza obligatorica suenter la cumplenida dal 58. onn da vegliadetgna**[^47a-1]
+
+<sup>1</sup> Ina persuna assicurada che sorta da l’assicuranza obligatorica suenter la cumplenida dal 58. onn da vegliadetgna, perquai che la relaziun da lavur è vegnida schliada dal patrun, po cuntinuar l’assicuranza tenor l’artitgel 47 u pretender che quella vegnia cuntinuada tenor ils alineas 2–7 en la dimensiun vertenta tar sia veglia instituziun da provediment.
+
+<sup>2</sup> La persuna assicurada ha la pussaivladad d’augmentar il provediment da vegliadetgna tras contribuziuns durant la cuntinuaziun da questa relaziun d’assicuranza. La prestaziun da sortida resta en l’instituziun da provediment, er sche il provediment da vegliadetgna na vegn betg augmentada vinavant. Sche la persuna assicurada entra en ina nova instituziun da provediment, sto la veglia instituziun da provediment pajar a la nova instituziun la prestaziun da sortida en la dimensiun che po vegnir duvrada per acquistar las prestaziuns reglamentaras cumplainas.
+
+<sup>3</sup> La persuna assicurada paja contribuziuns per cuvrir las ristgas mort ed invaliditad ed ils custs d’administraziun. Sch’ella augmenta vinavant il provediment da vegliadetgna, paja ella supplementarmain las contribuziuns correspundentas.
+
+<sup>4</sup> L’assicuranza finescha, sche la ristga mort u invaliditad capita u cur che la vegliadetgna ordinaria reglamentara da renta è cuntanschida. En cas d’ina entrada en ina nova instituziun da provediment finescha ella, sch’i vegnan duvrads en la nova instituziun dapli che dus terzs da la prestaziun da sortida per acquistar las prestaziuns reglamentaras cumplainas. L’assicuranza po vegnir disditga da la persuna assicurada da tut temp e da l’instituziun da provediment, sch’i èn avant maun contribuziuns che n’èn anc betg vegnidas pajadas.
+
+<sup>5</sup> Persunas assicuradas che cuntinueschan lur assicuranza tenor quest artitgel han ils medems dretgs sco las persunas ch’èn assicuradas en il medem collectiv sin basa d’ina relaziun da lavur existenta, en spezial en quai che reguarda ils tschains, la tariffa da conversiun sco er ils pajaments supplementars da l’anteriur patrun u da terzas persunas.
+
+<sup>6</sup> Sche la cuntinuaziun da l’assicuranza ha durà dapli che 2 onns, ston las prestaziuns d’assicuranza vegnir retratgas en furma d’ina renta; la prestaziun da sortida na po betg pli vegnir retratga anticipadamain u impegnada per acquistar proprietad d’abitar per l’agen basegn. Resalvadas restan disposiziuns reglamentaras che prevesan il pajament da las prestaziuns mo en furma da chapital.
+
+<sup>7</sup> L’instituziun da provediment po prevair en il reglament che l’assicuranza tenor quest artitgel possia vegnir cuntinuada gia a partir dal 55. onn da vegliadetgna cumplenì. Ella po prevair en il reglament che la persuna assicurada po pretender ch’i vegnia assicurà in salari pli pitschen che quel da fin ussa, e quai per tut il provediment u mo per il provediment da vegliadetgna.
+
+[^47a-1]: Integrà tras la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+
+## 3. part Organisaziun
+
+### 1. titel Instituziuns da provediment
+
+#### Art. 48
+
+**Princips[^48-1]**
+
+<sup>1</sup> Las instituziuns da provediment che vulan sa participar a la realisaziun da l’assicuranza obligatorica ston sa laschar inscriver en il register dal provediment professiunal tar l’autoritad da surveglianza, a la quala ellas èn suttamessas (art. 61).
+
+<sup>2</sup> Instituziuns da provediment registradas ston avair la furma giuridica d’ina fundaziun u esser instituziuns da dretg public cun atgna persunalitad giuridica.[^48-2] Ellas ston furnir prestaziuns tenor las prescripziuns davart l’assicuranza obligatorica e vegnir organisadas, finanziadas ed administradas tenor questa lescha.
+
+<sup>3</sup>
+
+Ina instituziun da provediment vegn stritgada or dal register, sch’ella:
+
+- a. n’ademplescha betg pli las premissas legalas per la registraziun e na fa betg las adattaziuns necessarias entaifer il termin fixà da l’autoritad da surveglianza;
+- b. desista da la registraziun.[^48-3]
+
+<sup>4</sup> Las instituziuns da provediment registradas e las terzas persunas participadas a lur realisaziun dal provediment professiunal han il dretg d’utilisar sistematicamain il numer d’assicuranza da la AVS tenor las disposiziuns da la LAVS[^48-4] per ademplir lur incumbensas legalas.[^48-5]
+
+[^48-1]: Versiun tenor la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^48-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2014 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^48-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^48-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-5]: Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+
+#### Art. 49
+
+**Champ d’atgna cumpetenza**[^49-1]
+
+<sup>1</sup> En il rom da questa lescha èn las instituziuns da provediment libras en quai che reguarda la concepziun da lur prestaziuns, la finanziaziun da talas e lur organisaziun. En il reglament pon ellas prevair che prestaziuns, che surpassan las disposiziuns legalas minimalas, vegnian pajadas mo fin a la cumplenida da la vegliadetgna da renta.
+
+<sup>2</sup>
+
+Sche l’instituziun da provediment conceda dapli che las prestaziuns minimalas, valan per il provediment pli extendida mo las prescripziuns davart:[^49-2]
+
+- 1\.[^49-3] la definiziun ed ils princips dal provediment professiunal sco er dal salari assicurabel u da las entradas assicurablas (art. 1, 33*a* e 33*b*);
+- 2\.[^49-4] ils acquists supplementars per la retratga anticipada da la prestaziun da vegliadetgna (art. 13*a* al. 8);
+- 3\. ils benefiziaris da prestaziuns per survivents (art. 20*a*);
+- 3*a*.[^49-5] l’adattaziun da la renta d’invaliditad suenter la cumpensaziun dal provediment professiunal (art. 24 al. 5);
+- 3*b*.[^49-6] la cuntinuaziun provisorica da l’assicuranza ed il mantegniment dal dretg da prestaziuns en cas che la renta da l’assicuranza d’invaliditad vegn reducida u abolida (art. 26*a*);
+- 4\. la restituziun da prestaziuns retratgas nungiustifitgadamain (art. 35*a*);
+- 5\.[^49-7] l’adattaziun al svilup dals pretschs (art. 36 al. 2–4);
+- 5*a*.[^49-8] il consentiment en cas d’ina cumpensaziun en chapital (art. 37*a*);
+- 6\. la surannaziun da dretgs e la conservaziun da documents da provediment (art. 41);
+- 6*a*.[^49-9] la sortida da l’assicuranza obligatorica suenter la cumplenida dal 58. onn da vegliadetgna (art. 47*a*);
+- 6*b*.[^49-10] l’utilisaziun sistematica dal numer d’assicuranza da la AVS (art. 48 al. 4);
+- 7\.[^49-11] l’administraziun paritetica e las incumbensas da l’organ suprem da l’instituziun da provediment (art. 51 ed art. 51*a*);
+- 8\. la responsabladad (art. 52);
+- 9\.[^49-12] l’admissiun e las incumbensas dals organs da controlla (art. 52*a*–52*e*);
+- 10\.[^49-13] l’integritad e la loialitad da las persunas responsablas, ils acts giuridics cun persunas da confidenza ed ils conflicts d’interess (art. 51*b*, 51*c* e 53*a*);
+- 11\. la liquidaziun parziala u totala (art. 53*b*–53*d*);
+- 12\.[^49-14] la schliaziun da contracts (art. 53*e* e 53*f*);
+- 13\. il fond da garanzia (art. 56 al. 1 lit. c ed al. 2–5, art. 56*a*, 57 e 59);
+- 14\.[^49-15] la surveglianza e la surveglianza suprema (art. 61–62*a* e 64–64*c*);
+- 15\.[^49-16] ...
+- 16\.[^49-17] la segirezza finanziala (art. 65, 65*c*, 65*d* al. 1, 2 e 3 lit. a segunda frasa e b, art. 65*e*, 66 al. 4, 67 e 72*a*–72*g*);
+- 17\. la transparenza (art. 65*a*);
+- 18\. las retenziuns (art. 65*b*);
+- 19\. ils contracts d’assicuranza tranter instituziuns da provediment ed instituziuns d’assicuranza (art. 68 al. 3 e 4);
+- 20\. las participaziuns al surpli che resulta da contracts d’assicuranza (art. 68*a*);
+- 21\. l’administraziun da la facultad (art. 71);
+- 22\. la giurisdicziun (art. 73 e 74);
+- 23\. las disposiziuns penalas (art. 75–79);
+- 24\. la cumpra (art. 79*b*);
+- 25\. il salari assicurabel e las entradas assicurablas (art. 79*c*);
+- 25*a*.[^49-18] l’elavuraziun da datas per attribuir u per verifitgar il numer d’assicuranza da la AVS (art. 85*a* lit. f);
+- 25*b*.[^49-19] la communicaziun da datas per attribuir u per verifitgar il numer d’assicuranza da la AVS (art. 86*a* al. 2 lit. b<sup>bis</sup>);
+- 26\. l’infurmaziun da las persunas assicuradas (art. 86*b*).
+
+[^49-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), al. 2 cifras 7–9, 12–14, 16 (cun excepziun da l’art. 66 al. 4), 17, 19–23 e 26 en vigur dapi il 1. d’avr. 2004, al. 1 e 2 cifras 3–6, 10, 11, 15, 16 (art. 66 al. 4) e 18 en vigur dapi il 1. da schan. 2005, al. 2 cifra 1, 24 e 25 en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^49-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^49-3]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (mesiras per facilitar a lavurants pli vegls da sa participar al martgà da lavur), en vigur dapi il 1. da schan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-4]: La cifra 2 è obsoleta, cunquai che la 11. revisiun da la AVS dals 3 d’oct. 2003 ([BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)) ha fatg naufragi.
+[^49-5]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^49-6]: Oriundamain: cifra 3*a*. Integrà tras la cifra 6 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^49-7]: Versiun tenor la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^49-8]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^49-9]: Integrà tras la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^49-10]: Oriundamain: cifra 6*a*. Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-11]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-12]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-13]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-14]: Versiun tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^49-15]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-16]: Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-17]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^49-18]: Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-19]: Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+
+#### Art. 50
+
+**Disposiziuns reglamentaras**
+
+<sup>1</sup>
+
+Las instituziuns da provediment decreteschan disposiziuns davart:
+
+- a. las prestaziuns;
+- b. l’organisaziun;
+- c. l’administraziun e la finanziaziun;
+- d. la controlla;
+- e. la relaziun tar ils patruns, tar las persunas assicuradas e tar las persunas che han il dretg sin prestaziuns.
+
+<sup>2</sup> Questas disposiziuns pon esser cuntegnidas en il document da fundaziun, en ils statuts u en il reglament. En cas d’instituziuns da dretg public po la corporaziun respectiva da dretg public decretar ubain las disposiziuns davart las prestaziuns ubain las disposiziuns davart la finanziaziun.[^50-1]
+
+<sup>3</sup> Las prescripziuns da questa lescha han la precedenza envers las disposiziuns decretadas da l’instituziun da provediment. Sche l’instituziun da provediment ha dentant pudì supponer da buna fai ch’ina da sias disposiziuns reglamentaras stettia en accordanza cun la lescha, n’è la lescha betg applitgabla retroactivamain.
+
+[^50-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2015 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 51
+
+**Administraziun paritetica**
+
+<sup>1</sup> Ils lavurants ed ils patruns han il dretg da delegar il medem dumber da represchentants en l’organ suprem da l’instituziun da provediment.[^51-1]
+
+<sup>2</sup>
+
+L’instituziun da provediment sto garantir l’execuziun correcta da l’administraziun paritetica. En spezial ston vegnir regladas:
+
+- a. l’elecziun dals represchentants da las persunas assicuradas;
+- b. ina represchentanza adequata da las differentas categorias da lavurants;
+- c. l’administraziun paritetica da la facultad;
+- d. la procedura en cas da paritad da las vuschs.
+
+<sup>3</sup> Las persunas assicuradas elegian lur represchentants directamain u tras delegads. Sche quai n’è betg pussaivel pervia da la structura da l’instituziun da provediment, en spezial en cas da fundaziuns collectivas, po l’autoritad da surveglianza permetter autras furmas da represchentanza. Presidià vegn l’organ paritetic en moda alternanta d’in represchentant dals lavurants e d’in represchentant dals patruns. L’organ paritetic po dentant reglar en autra moda l’attribuziun dal presidi.[^51-2]
+
+<sup>4</sup> Sche la procedura en cas da paritad da las vuschs n’è betg anc reglada, decida in derschader da cumpromiss neutral che vegn tschernì en enclegientscha vicendaivla. Sch’i na dat nagina enclegientscha davart il derschader da cumpromiss, vegn quel designà da l’autoritad da surveglianza.
+
+<sup>5</sup> ...[^51-3]
+
+<sup>6</sup> e <sup>7</sup> ...[^51-4]
+
+[^51-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^51-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^51-3]: Abolì tras la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), cun effect dapi il 1. da schan. 2015 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^51-4]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP) ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 51a
+
+**Incumbensas da l’organ suprem da l’instituziun da provediment**[^51a-1]
+
+<sup>1</sup> L’organ suprem da l’instituziun da provediment è responsabel per la direcziun generala da tala, procura per l’adempliment da las incumbensas legalas, fixescha las finamiras ed ils princips strategics da l’instituziun da provediment sco er ils meds finanzials per ademplir questas finamiras e quests princips. El fixescha l’organisaziun da l’instituziun da provediment, procura per sia stabilitad finanziala e surveglia la gestiun.
+
+<sup>2</sup>
+
+El ademplescha las suandantas incumbensas intransferiblas e nunprivablas:
+
+- a. fixar il sistem da finanziaziun;
+- b. fixar finamiras da prestaziun e plans da provediment sco er ils princips per utilisar ils meds finanzials libers;
+- c. decretar e midar reglaments;
+- d. stabilir ed approvar il quint annual;
+- e. fixar l’autezza da la tariffa da tschains tecnica e da las ulteriuras basas tecnicas;
+- f. fixar l’organisaziun;
+- g. concepir la contabilitad;
+- h. determinar il circul da persunas assicuradas e garantir l’infurmaziun;
+- i. garantir l’emprima scolaziun e la furmaziun supplementara dals represchentants dals lavurants e dals patruns;
+- j. nominar e revocar las persunas ch’èn incumbensadas cun la gestiun;
+- k. eleger e revocar l’expert per il provediment professiunal ed il post da revisiun;
+- l. decider davart la reassicuranza totala u parziala da l’instituziun da provediment e davart l’eventual reassicurader;
+- m. fixar las finamiras ed ils princips da l’administraziun da la facultad sco er la realisaziun e la surveglianza dal process d’investiziun;
+- n. examinar periodicamain la concordanza a media ed a lunga vista tranter l’investiziun da la facultad e las obligaziuns;
+- o. fixar las premissas per la recumpra da prestaziuns;
+- p. en cas d’instituziuns da provediment da corporaziuns da dretg public: fixar la relaziun tar ils patruns affiliads e las premissas per subordinar ulteriurs patruns.
+
+<sup>3</sup> L’organ suprem da l’instituziun da provediment po surdar la preparaziun e l’execuziun da ses conclus u la surveglianza da fatschentas a cumissiuns u a singuls commembers. El procura che ses commembers vegnian infurmads adequatamain.
+
+<sup>4</sup> El fixescha ina indemnisaziun adequata per ses commembers che sa participeschan a sesidas ed a curs da scolaziun.
+
+<sup>5</sup> En cas d’instituziuns da provediment en furma d’associaziuns pon las incumbensas tenor ils alineas 1–4 vegnir ademplidas da l’administraziun, premess che questas incumbensas n’appartegnian betg a las cumpetenzas intransmissiblas da la radunanza generala tenor l’artitgel 879 DO[^51a-2].
+
+<sup>6</sup> Resalvà resta l’artitgel 50 alinea 2 segunda frasa.
+
+[^51a-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012, cun excepziun da l’al. 6, en vigur dapi il 1. da schan. 2015 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^51a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 51b
+
+**Integritad e loialitad da las persunas responsablas**[^51b-1]
+
+<sup>1</sup> Las persunas ch’èn incumbensadas cun la gestiun u cun l’administraziun da l’instituziun da provediment ubain cun l’administraziun da la facultad ston avair ina buna reputaziun e porscher la garanzia per in’activitad irreproschabla.
+
+<sup>2</sup> Ellas èn suttamessas a l’obligaziun da diligenza fiduziara e ston exequir lur activitad en l’interess da las persunas assicuradas da l’instituziun da provediment. Per quest intent procuran ellas ch’i na resultian nagins conflicts d’interess en consequenza da lur relaziuns persunalas e professiunalas.
+
+[^51b-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. d’avust 2011 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 51c
+
+**Acts giuridics cun persunas da confidenza**[^51c-1]
+
+<sup>1</sup> Ils acts giuridics concludids da las instituziuns da provediment ston correspunder a las cundiziuns usitadas sin il martgà.
+
+<sup>2</sup> Acts giuridics da l’instituziun da provediment cun commembers da l’organ suprem, cun patruns affiliads ubain cun persunas natiralas u giuridicas ch’èn incumbensadas cun la gestiun u cun l’administraziun da la facultad sco er acts giuridics da l’instituziun da provediment cun persunas natiralas u giuridicas che stattan datiers da las persunas numnadas qua survart, ston vegnir communitgads al post da revisiun a chaschun da la controlla annuala dal quint annual.
+
+<sup>3</sup> Il post da revisiun controllescha, sch’ils interess da l’instituziun da provediment èn garantids en ils acts giuridics communitgads.
+
+<sup>4</sup> En il rapport annual stoi vegnir inditgà il num e la funcziun dals experts, dals cussegliaders d’investiziun e dals managers d’investiziun ch’èn vegnids consultads da l’instituziun da provediment.
+
+[^51c-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. d’avust 2011 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 52
+
+**Responsabladad**[^52-1]
+
+<sup>1</sup> Tut las persunas ch’èn incumbensadas cun l’administraziun u cun la gestiun da l’instituziun da provediment sco er ils experts per il provediment professiunal èn responsabels per il donn ch’els chaschunan intenziunadamain u per negligientscha.[^52-2]
+
+<sup>2</sup> Il dretg d’indemnisaziun cunter ils organs responsabels tenor las disposiziuns qua survart surannescha entaifer 5 onns suenter il di che la persuna donnegiada ha survegnì enconuschientscha dal donn e da la persuna che sto pajar l’indemnisaziun, en mintga cas dentant suenter 10 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà.[^52-3]
+
+<sup>3</sup> Sch’in organ d’ina instituziun da provediment sto star bun per in donn, sto el infurmar ils ulteriurs organs obligads al regress. Il termin da surannaziun da 5 onns per far valair dretgs da regress tenor quest alinea cumenza il mument ch’ina indemnisaziun vegn pajada.
+
+<sup>4</sup> Per la responsabladad dal post da revisiun vala l’artitgel 755 DO[^52-4] tenor il senn.[^52-5]
+
+[^52-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^52-2]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52-3]: Versiun tenor la cifra 22 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^52-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-5]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 52a
+
+**Controlla**[^52a-1]
+
+<sup>1</sup> Per la controlla designescha l’instituziun da provediment in post da revisiun sco er in expert per il provediment professiunal.
+
+<sup>2</sup> L’organ suprem da l’instituziun da provediment sto trametter il rapport dal post da revisiun a l’autoritad da surveglianza ed a l’expert per il provediment professiunal ed al tegnair a la disposiziun da las persunas assicuradas.
+
+[^52a-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 52b
+
+**Admissiun da posts da revisiun per il provediment professiunal**[^52b-1]
+
+Sco post da revisiun pon lavurar persunas natiralas ed interpresas da revisiun ch’èn admessas tras l’Autoritad federala da surveglianza en chaussas da revisiun sco experts da revisiun tenor la Lescha dals 16 da december 2005[^52b-2] davart la surveglianza da la revisiun.
+
+[^52b-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52b-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+#### Art. 52c
+
+**Incumbensas dal post da revisiun**[^52c-1]
+
+<sup>1</sup>
+
+Il post da revisiun controllescha, sche:
+
+- a. il quint annual ed ils contos da vegliadetgna correspundan a las prescripziuns legalas;
+- b. l’organisaziun, la gestiun sco er l’investiziun da la facultad correspundan a las disposiziuns legalas e reglamentaras;
+- c. las mesiras per garantir la loialitad en l’administraziun da la facultad èn vegnidas prendidas e l’organ suprem controllescha suffizientamain l’observaziun da las obligaziuns da loialitad;
+- d. ils meds finanzials libers u las participaziuns al surpli che resulta da contracts d’assicuranza èn vegnids utilisads tenor las disposiziuns legalas e reglamentaras;
+- e. l’instituziun da provediment ha prendì las mesiras necessarias per restabilir la garanzia cumplaina en cas d’ina sutgaranzia;
+- f. las indicaziuns ed annunzias prescrittas da questa lescha èn vegnidas communitgadas a l’autoritad da surveglianza;
+- g. l’artitgel 51*c* è vegnì observà.
+
+<sup>2</sup> Per mauns da l’organ suprem da l’instituziun da provediment fa il post da revisiun mintga onn in rapport che cuntegna sias constataziuns davart ils puncts da controlla tenor l’alinea 1. Quest rapport conferma l’observaziun da las prescripziuns correspundentas cun u senza restricziuns e cuntegna ina recumandaziun davart l’approvaziun u la refusa dal quint annual; la recumandaziun sto vegnir agiuntada al rapport.
+
+<sup>3</sup> En cas da basegn explitgescha il post da revisiun ils resultats da la controlla per mauns da l’organ suprem da l’instituziun da provediment.
+
+[^52c-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. d’avust 2011 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 52d
+
+**Admissiun d’experts per il provediment professiunal**[^52d-1]
+
+<sup>1</sup> Experts per il provediment professiunal ston vegnir admess tras la Cumissiun da surveglianza suprema.
+
+<sup>2</sup>
+
+Premissas d’admissiun èn:
+
+- a. ina scolaziun ed experientscha professiunala adequata;
+- b. enconuschientschas da las disposiziuns legalas respectivas;
+- c. in buna reputaziun e fidabladad.
+
+<sup>3</sup> La Cumissiun da surveglianza suprema po circumscriver pli detagliadamain las premissas d’admissiun.
+
+[^52d-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 52e
+
+**Incumbensas da l’expert per il provediment professiunal**[^52e-1]
+
+<sup>1</sup>
+
+L’expert per il provediment professiunal controllescha periodicamain, sche:
+
+- a. l’instituziun da provediment porscha la garanzia da pudair ademplir sias obligaziuns;
+- b. las disposiziuns reglamentaras tecnicas d’assicuranza davart las prestaziuns e davart la finanziaziun correspundan a las prescripziuns legalas.
+
+<sup>2</sup>
+
+A l’organ suprem da l’instituziun da provediment suttametta el recumandaziuns en spezial davart:
+
+- a.[^52e-2] la tariffa da tschains tecnica e las ulteriuras basas tecnicas;
+- b. las mesiras che ston vegnir prendidas en cas d’ina sutgaranzia.
+
+<sup>3</sup> Sche l’organ suprem na suonda betg las recumandaziuns da l’expert per il provediment professiunal e sche la segirezza da l’instituziun da provediment para dad esser periclitada qua tras, infurmescha l’expert per il provediment professiunal l’autoritad da surveglianza.
+
+[^52e-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52e-2]: Rectifitgà da la CdR da l’Ass. fed. (art. 58 al. 1 LParl – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+#### Art. 53
+
+[^53-1]
+
+[^53-1]: Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 53a
+
+**Disposiziuns executivas**[^53a-1]
+
+Il Cussegl federal decretescha disposiziuns davart:
+
+- a. l’admissibladad da fatschentas che persunas, ch’èn incumbensadas cun l’administraziun da la facultad, pon manar sin agen quint;
+- b. l’admissibladad d’avantatgs da facultad che persunas obtegnan en connex cun lur activitad per las instituziuns da provediment, e l’obligaziun da declerar quests avantatgs.
+
+[^53a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP) ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. d’avust 2011 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 53b
+
+**Liquidaziun parziala**[^53b-1]
+
+<sup>1</sup>
+
+En lur reglaments fixeschan las instituziuns da provediment las premissas e la procedura da la liquidaziun parziala. I vegn presumà che las premissas per ina liquidaziun parziala sajan ademplidas, sche:
+
+- a. il persunal vegn reducì considerablamain;
+- b. ina interpresa vegn restructurada;
+- c. il contract d’affiliaziun vegn schlià.
+
+<sup>2</sup> Las prescripziuns reglamentaras davart las premissas e davart la procedura da la liquidaziun parziala ston vegnir approvadas da l’autoritad da surveglianza.
+
+[^53b-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 53c
+
+**Liquidaziun totala**[^53c-1]
+
+En cas d’ina schliaziun d’ina instituziun da provediment (liquidaziun totala) decida l’autoritad da surveglianza, sche las premissas e la procedura èn ademplidas, ed approvescha il plan da repartiziun.
+
+[^53c-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 53d
+
+**Procedura en cas d’ina liquidaziun parziala u totala**[^53d-1]
+
+<sup>1</sup> La liquidaziun parziala e totala da l’instituziun da provediment sto respectar il princip dal tractament egual ed ils princips tecnics renconuschids. Il Cussegl federal designescha quests princips.
+
+<sup>2</sup> Per calcular ils meds finanzials libers sto la facultad vegnir resguardada per la valur d’alienaziun.
+
+<sup>3</sup> Las instituziuns da provediment dastgan deducir proporziunalmain ils deficits tecnics d’assicuranza, sche quai na chaschuna betg ina reducziun dal dabun da vegliadetgna (art. 15).[^53d-2]
+
+<sup>4</sup>
+
+En il rom da las disposiziuns legalas e dal reglament fixescha l’organ paritetic designà u l’organ responsabel:
+
+- a. il mument exact da la liquidaziun;
+- b. ils meds finanzials libers e la part da reparter;
+- c. il deficit e l’attribuziun da tal;
+- d. il plan da repartiziun.
+
+<sup>5</sup> L’instituziun da provediment sto infurmar a temp e cumplettamain las persunas assicuradas sco er las persunas pensiunadas davart la liquidaziun parziala u totala. En spezial las sto ella laschar prender invista dals plans da repartiziun.
+
+<sup>6</sup> Las persunas assicuradas e las persunas pensiunadas han il dretg da laschar controllar las premissas, la procedura ed il plan da repartiziun tras l’autoritad da surveglianza e da laschar prender quella ina decisiun en chaussa. In recurs cunter la decisiun da l’autoritad da surveglianza ha mo in effect suspensiv, sch’il president da la partiziun cumpetenta dal Tribunal administrativ federal u sch’il derschader d’instrucziun dispona quai d’uffizi u sin dumonda dal recurrent. Sche l’effect suspensiv na vegn betg concedì, ha la decisiun dal Tribunal administrativ federal mo in effect a favur u a disfavur dal recurrent.[^53d-3]
+
+[^53d-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^53d-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^53d-3]: Versiun tenor la cifra I 14 da l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LTF e da la LTAF), en vigur dapi il 1. da schan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+
+#### Art. 53e
+
+**Schliaziun da contracts**[^53e-1]
+
+<sup>1</sup> Sch’i vegnan schliads contracts tranter las instituziuns d’assicuranza e las instituziuns da provediment ch’èn suttamessas a la LFLP[^53e-2], exista in dretg sin il chapital da garanzia.
+
+<sup>2</sup> Il dretg tenor l’alinea 1 s’augmenta per la participaziun proporziunala als surplis e sa reducescha tras ils custs da recumpra. L’instituziun d’assicuranza sto suttametter a l’instituziun da provediment in rendaquint detaglià e chapaivel.
+
+<sup>3</sup> Sco custs da recumpra valan las deducziuns per la ristga da tschains. Sche la relaziun contractuala ha durà almain 5 onns, na pon ils custs da recumpra betg vegnir deducids. Il dabun da vegliadetgna tenor l’artitgel 15 na dastga betg vegnir reducì, er betg sch’il contract ha durà main che 5 onns.
+
+<sup>4</sup> En cas ch’il patrun schlia il contract d’affiliaziun cun sia instituziun da provediment, ston l’instituziun da provediment veglia e nova sa cunvegnir davart la dumonda, sche las persunas che retiran rentas duain restar tar l’instituziun veglia u midar a la nova, sch’il contract d’affiliaziun na prevesa nagina regulaziun per quest cas. Sch’il contract d’affiliaziun na cuntegna nagina regulaziun u sch’i na dat nagina cunvegna tranter l’instituziun da provediment veglia e nova, restan las persunas che retiran rentas tar l’instituziun da provediment veglia.
+
+<sup>4bis</sup> Sch’il contract d’affiliaziun prevesa che las persunas che retiran rentas bandunian l’instituziun da provediment veglia en cas ch’il contract d’affiliaziun vegn schlià, dastga il patrun schliar quest contract pir, cur ch’ina nova instituziun da provediment ha confermà en scrit ch’ella surpiglia questas persunas sut las medemas cundiziuns.[^53e-3]
+
+<sup>5</sup> En cas che l’instituziun da provediment schlia il contract d’affiliaziun cun il patrun, ston l’instituziun da provediment veglia e nova sa cunvegnir davart la dumonda, sche las persunas che retiran rentas duain restar tar l’instituziun veglia u midar a la nova. Sch’i na dat nagina cunvegna, restan las persunas che retiran rentas tar l’instituziun da provediment veglia.
+
+<sup>6</sup> Sche las persunas che retiran rentas restan tar l’instituziun da provediment veglia, resta il contract d’affiliaziun en vigur concernent las persunas che retiran rentas. Quai vala er per ils cas, nua che l’invaliditad è entrada suenter la schliaziun dal contract d’affiliaziun, premess che l’incapacitad da lavurar, ch’è stada il motiv da l’invaliditad, saja entrada avant la schliaziun dal contract d’affiliaziun.
+
+<sup>7</sup> Il Cussegl federal regla l’appartegnientscha da las persunas che retiran rentas, sch’il contract d’affiliaziun vegn schlià en consequenza da l’insolvenza dal patrun.
+
+<sup>8</sup> Il Cussegl federal regla ils detagls, en spezial las pretensiuns envers la cumprova dals custs ed envers la calculaziun dal chapital da garanzia.
+
+[^53e-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^53e-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^53e-3]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+
+#### Art. 53f
+
+**Dretg legal da disditga**[^53f-1]
+
+<sup>1</sup> L’instituziun da provediment u l’instituziun d’assicuranza sto annunziar en scrit a l’autra part contractanta midadas substanzialas d’in contract d’affiliaziun u d’in contract d’assicuranza almain 6 mais avant che las midadas duain entrar en vigur.
+
+<sup>2</sup> L’autra part contractanta po disdir il contract en scrit, observond in termin da disditga da 30 dis, per il di che las midadas duain entrar en vigur.
+
+<sup>3</sup> Ella po pretender en scrit che l’instituziun da provediment u l’instituziun d’assicuranza mettia a disposiziun las indicaziuns necessarias per dumandar offertas. Sche questas indicaziuns na vegnan betg communitgadas entaifer 30 dis suenter ch’ellas èn vegnidas dumandadas, sa spostan il cumenzament dal termin da disditga da 30 dis ed il di che las midadas substanzialas entran en vigur tut tenor il retard. Sch’i na vegn betg fatg diever dal dretg legal da disditga, entran las midadas substanzialas en vigur il di annunzià.
+
+<sup>4</sup>
+
+Sco midadas substanzialas d’in contract d’affiliaziun u d’in contract d’assicuranza tenor l’alinea 1 valan las suandantas midadas:
+
+- a. in augment d’almain 10 pertschient entaifer 3 onns da quellas contribuziuns che na correspundan betg a las bunificaziuns sin dabuns da las persunas assicuradas;
+- b. ina reducziun da la tariffa da conversiun che chaschuna ina reducziun d’almain 5 pertschient da la prestaziun da vegliadetgna presumtiva per las persunas assicuradas;
+- c. autras mesiras che han almain ils medems effects sco quels tenor las literas a e b;
+- d. l’aboliziun da la reassicuranza cumplaina.
+
+<sup>5</sup> Las midadas tenor l’alinea 4 na valan betg sco substanzialas, sch’ellas resultan d’ina midada da las basas giuridicas.
+
+[^53f-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+
+### 2. titel**** Fundaziuns d’investiziun
+
+[^part3-tit2-1]
+
+[^part3-tit2-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 53g
+
+**Intent e dretg applitgabel**
+
+<sup>1</sup> Per investir e per administrar cuminaivlamain respargns da provediment pon vegnir constituidas fundaziuns tenor ils artitgels 80–89*a* CCS[^53g-1].[^53g-2]
+
+<sup>2</sup> Fundaziuns d’investiziun èn instituziuns che servan al provediment professiunal. Ellas suttastattan a questa lescha. Uschenavant che questa lescha e sias disposiziuns executivas na prevesan nagina regulaziun applitgabla per la fundaziun d’investiziun, èn applitgablas per ella subsidiarmain las disposiziuns generalas dal dretg da fundaziuns.
+
+[^53g-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^53g-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 53h
+
+**Organisaziun**
+
+<sup>1</sup> L’organ suprem da la fundaziun d’investiziun è la radunanza dals investiders.
+
+<sup>2</sup> Il cussegl da fundaziun è l’organ suprem. Cun excepziun da las incumbensas ch’èn colliadas directamain cun la direcziun suprema da la fundaziun d’investiziun po el delegar la gestiun a terzas persunas.
+
+<sup>3</sup> La radunanza dals investiders decretescha disposiziuns davart l’organisaziun, davart l’administraziun e davart la controlla da la fundaziun d’investiziun.
+
+#### Art. 53i
+
+**Facultad**
+
+<sup>1</sup> La facultad totala da la fundaziun d’investiziun cumpiglia la facultad da basa e la facultad d’investiziun. La radunanza dals investiders decretescha disposiziuns davart l’investiziun da questas facultads. Ils statuts pon fixar che questa cumpetenza vegnia exequida dal cussegl da fundaziun.
+
+<sup>2</sup> La facultad d’investiziun vegn furmada dals daners che vegnan appurtads dals investiders cun l’intent da far cuminaivlamain investiziuns da la facultad. Ella furma ina gruppa d’investiziun u è dividida en pliras gruppas d’investiziun. En quai che concerna la contabilitad vegnan las gruppas d’investiziun manadas en moda autonoma ed èn economicamain independentas ina da l’autra.
+
+<sup>3</sup> Ina gruppa d’investiziun consista da dretgs eguals e senza valur nominala d’in u da plirs investiders.
+
+<sup>4</sup>
+
+En cas d’in concurs da la fundaziun d’investiziun vegnan ils bains ed ils dretgs che appartegnan ad ina gruppa d’investiziun excorporads a favur da lur investiders. Il medem vala tenor il senn per il concordat cun cessiun da la facultad. Resalvà resta in dretg da la fundaziun d’investiziun sin:
+
+- a. las indemnisaziuns previsas dal contract;
+- b. la liberaziun d’obligaziuns ch’ella ha surpiglià per ademplir correctamain sias incumbensas per ina gruppa d’investiziun;
+- c. la cumpensaziun da las expensas ch’ella ha fatg per ademplir questas obligaziuns.
+
+<sup>5</sup> La scuntrada è admissibla mo en cas da pretensiuns entaifer la medema gruppa d’investiziun u en cas da pretensiuns entaifer la facultad da basa.
+
+#### Art. 53j
+
+**Responsabladad**
+
+<sup>1</sup> La responsabladad da la fundaziun d’investiziun per obligaziuns d’ina gruppa d’investiziun è limitada a la facultad da questa gruppa d’investiziun.
+
+<sup>2</sup> Mintga gruppa d’investiziun è responsabla mo per las atgnas obligaziuns.
+
+<sup>3</sup> La responsabladad dals investiders è exclusa.
+
+#### Art. 53k
+
+**Disposiziuns executivas**
+
+Il Cussegl federal decretescha disposiziuns davart:
+
+- a. il circul dals investiders;
+- b. l’augment e l’utilisaziun da la facultad da basa;
+- c. la fundaziun, l’organisaziun e l’aboliziun;
+- d. l’investiziun, la contabilitad, il rendaquint e la revisiun;
+- e. ils dretgs dals investiders.
+
+### 3. titel**** Fond da garanzia ed instituziun auxiliara
+
+[^part3-tit3-1]
+
+[^part3-tit3-1]: Oriundamain: segund titel.
+
+### 1. chapitel Subjects giuridics
+
+#### Art. 54
+
+**Constituziun**
+
+<sup>1</sup> Las organisaziuns da tetg dals lavurants e dals patruns installeschan duas fundaziuns che vegnan administradas pariteticamain.
+
+<sup>2</sup>
+
+Il Cussegl federal surdat:
+
+- a. a l’ina da las duas fundaziuns l’incumbensa da manar il fond da garanzia;
+- b. a l’autra fundaziun l’incumbensa da surpigliar las obligaziuns da l’instituziun auxiliara.
+
+<sup>3</sup> Sche l’installaziun d’ina fundaziun tras las organisaziuns da tetg na reussescha betg, decretescha il Cussegl federal sia installaziun.
+
+<sup>4</sup> Las fundaziuns valan sco autoritads en il senn da l’artitgel 1 alinea 2 litera e da la Lescha federala dals 20 da december 1968[^54-1] davart la procedura administrativa.
+
+[^54-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 55
+
+**Cussegls da fundaziun**
+
+<sup>1</sup> Ils cussegls da fundaziun vegnan furmads d’in dumber egual da represchentants dals patruns e dals lavurants. En quest connex sto l’administraziun publica vegnir resguardada commensuradamain. Ils cussegls da fundaziun pon vegnir manads da parsuras neutrals.
+
+<sup>2</sup> Ils commembers dals cussegls da fundaziun vegnan elegids per ina perioda d’uffizi da 4 onns.
+
+<sup>3</sup> Ils cussegls da fundaziun sa constitueschan sezs e decreteschan ils reglaments davart l’organisaziun da la fundaziun. Els surveglian lur gestiun e nomineschan in post da revisiun independent sco organ da controlla.
+
+<sup>4</sup> Mintga cussegl da fundaziun designescha in secretariat che administrescha e represchenta la fundaziun.
+
+### 2. chapitel Fond da garanzia
+
+#### Art. 56
+
+**Incumbensas**[^56-1]
+
+<sup>1</sup>
+
+Il fond da garanzia:
+
+- a. conceda pajaments supplementars a quellas instituziuns da provediment che han ina structura da vegliadetgna disfavuraivla;
+- b.[^56-2] garantescha las prestaziuns legalas dad instituziuns da provediment ch’èn daventadas insolventas u – en cas da dabuns emblidads – dad instituziuns da provediment ch’èn vegnidas liquidadas;
+- c. garantescha las prestaziuns reglamentaras che surpassan las prestaziuns legalas dad instituziuns da provediment ch’èn daventadas insolventas, uschenavant che questas prestaziuns sa basan sin relaziuns da provediment, per las qualas po vegnir applitgada la LFLP[^56-3];
+- d.[^56-4] indemnisescha a l’instituziun auxiliara ils custs che resultan ad ella sin basa da sia activitad tenor ils artitgels 11 alinea 3<sup>bis</sup> e 60 alinea 2 da questa lescha sco er 4 alinea 2 LFLP e che na pon betg vegnir adossads al chaschunader;
+- e. serra – en cas ch’ina liquidaziun parziala u totala vegn fatga entaifer 5 onns dapi l’entrada en vigur da la LFLP – a las instituziuns da provediment ina largia da cuvrida ch’è resultada applitgond questa lescha;
+- f.[^56-5] funghescha sco Uffizi central da la 2. pitga per la coordinaziun, per la transmissiun e per la conservaziun da las indicaziuns tenor ils artitgels 24*a*–24*f* LFLP;
+- g.[^56-6] è il post da colliaziun tar ils stadis commembers da la Communitad europeica[^56-7] u da l’Associaziun europeica da commerzi liber, sche l’artitgel 89*a* vegn applitgà. Il Cussegl federal decretescha las disposiziuns executivas;
+- h.[^56-8] indemnisescha a la cassa da cumpensaziun da la AVS ils custs che resultan ad ella sin basa da sia activitad tenor l’artitgel 11 e che na pon betg vegnir adossads al chaschunader.
+
+<sup>2</sup> La garanzia tenor l’alinea 1 litera c cumpiglia maximalmain las prestaziuns che resultan sin basa d’in salari decisiv tenor la LAVS[^56-9] davart l’assicuranza per vegls e survivents en l’autezza dad ina giada e mez l’import maximal tenor l’artitgel 8 alinea 1 da questa lescha.
+
+<sup>3</sup> Sche plirs patruns, che n’èn economicamain u finanzialmain betg colliads stretgamain in cun l’auter, u pliras federaziuns fan part d’ina instituziun da provediment, ha l’ovra da provediment insolventa da mintga singul patrun u da mintga singula federaziun da princip il medem status giuridic sco las instituziuns da provediment insolventas. L’insolvenza da las ovras da provediment sto vegnir giuditgada separadamain. Il Cussegl federal regla ils detagls.[^56-10]
+
+<sup>4</sup> Il Cussegl federal regla las premissas da prestaziun.
+
+<sup>5</sup> Il fond da garanzia na garantescha naginas prestaziuns, uschenavant che sias prestaziuns vegnan duvradas en moda abusiva.
+
+<sup>6</sup> Il fond da garanzia maina ina contabilitad separada per mintga incumbensa.
+
+[^56-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. da schan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580). Guardar er las disposiziuns transitoricas da questa midada a la fin dal text.
+[^56-2]: Versiun tenor la cifra II 1 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^56-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^56-4]: Versiun tenor la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^56-5]: Integrà tras la cifra II 1 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^56-6]: Integrà tras la cifra I 7 da la LF dals 8 d’oct. 1999 davart la Cunvegna tranter la Confederaziun svizra e la Communitad europeica cun ses stadis commembers davart la libra circulaziun da persunas ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Versiun tenor la cifra I 6 da la LF dals 14 da dec. 2001 concernent las disposiziuns davart la libra circulaziun da persunas en la Cunvegna per midar la Convenziun davart la fundaziun da la AECL, en vigur dapi il 1. da zer. 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^56-7]: Oz: Uniun europeica.
+[^56-8]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-9]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56-10]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 56a
+
+**Regress e dumonda da restituziun**[^56a-1]
+
+<sup>1</sup> Envers persunas ch’èn la culpa che l’instituziun da provediment u l’ovra da provediment è insolventa, po il fond da garanzia entrar en las pretensiuns da l’instituziun da provediment en la dimensiun da las prestaziuns garantidas il mument che las prestaziuns èn vegnidas garantidas.[^56a-2]
+
+<sup>2</sup> Prestaziuns retratgas nungiustifitgadamain ston vegnir restituidas al fond da garanzia.
+
+<sup>3</sup> Il dretg da restituziun tenor l’alinea 2 surannescha 1 onn suenter ch’il fond da garanzia ha survegnì enconuschientscha da la retratga nungiustifitgada da la prestaziun, dentant il pli tard 5 onns suenter il pajament da la prestaziun. Sch’il dretg da restituziun vegn deducì d’in malfatg, per il qual il dretg penal prescriva ina surannaziun pli lunga, è decisiva questa surannaziun.
+
+[^56a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. da schan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
+[^56a-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 57
+
+**Affiliaziun al fond da garanzia**[^57-1]
+
+Las instituziuns da provediment suttamessas a la LFLP[^57-2] èn affiliadas al fond da garanzia.
+
+[^57-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. da schan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
+[^57-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+#### Art. 58
+
+**Subsidis en cas d’ina structura da vegliadetgna disfavuraivla**
+
+<sup>1</sup> Ina instituziun da provediment survegn subsidis en cas d’ina structura da vegliadetgna disfavuraivla (art. 56 al. 1 lit. a), uschenavant che la summa da las bunificaziuns da vegliadetgna surpassan 14 pertschient da la summa dals salaris coordinads correspundents. Ils subsidis vegnan calculads mintga onn sin basa da l’onn chalendar precedent.
+
+<sup>2</sup> Il Cussegl federal po midar questa tariffa, sche la tariffa media da las bunificaziuns da vegliadetgna divergescha en tut la Svizra essenzialmain da 12 pertschient.
+
+<sup>3</sup> Instituziuns da provediment dastgan pretender ils subsidis mo, sche tut il persunal, ch’è suttamess a l’assicuranza obligatorica e ch’è en servetsch dals patruns affiliads, è assicurà tar ellas.
+
+<sup>4</sup> Sche plirs patruns èn affiliads a la medema instituziun da provediment, vegnan ils subsidis per il persunal calculads en moda separada per mintga singul patrun.
+
+<sup>5</sup>
+
+Persunas cun activitad da gudogn independenta vegnan resguardadas per calcular ils subsidis mo, sch’ellas:
+
+- a. s’assicureschan facultativamain entaifer 1 onn suenter che la lescha è entrada en vigur u suenter ch’ellas han cumenzà cun l’activitad da gudogn independenta; u
+- b. èn stadas suttamessas a l’assicuranza obligatorica durant almain 6 mais e s’assicureschan suenter directamain en moda facultativa.
+
+#### Art. 59
+
+**Finanziaziun**[^59-1]
+
+<sup>1</sup> Il fond da garanzia vegn finanzià da las instituziuns da provediment ch’èn affiliadas ad el.
+
+<sup>2</sup> Il Cussegl federal regla ils detagls.
+
+<sup>3</sup> El regla la finanziaziun da las incumbensas che vegnan surpigliadas dal fond da garanzia tenor l’artitgel 56 alinea 1 litera f.[^59-2]
+
+<sup>4</sup> Per surmuntar stretgas da liquiditad per finanziar prestaziuns d’insolvenza tenor l’artitgel 56 alinea 1 literas b, c e d po la Confederaziun conceder al fond da garanzia emprests per cundiziuns dal martgà. La concessiun da quests emprests po vegnir colliada cun cundiziuns.[^59-3]
+
+[^59-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. da fan. 1998 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067), [1998 1573](https://fedlex.data.admin.ch/eli/oc/1998/1573_1573_1573); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
+[^59-2]: Integrà tras la cifra II 1 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^59-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+### 3. chapitel Instituziun auxiliara
+
+#### Art. 60
+
+**Incumbensas[^60-1]**
+
+<sup>1</sup> L’instituziun auxiliara è ina instituziun da provediment.
+
+<sup>2</sup>
+
+Ella è obligada:
+
+- a. d’affiliar d’uffizi patruns che n’adempleschan betg lur obligaziun da s’affiliar ad ina instituziun da provediment;
+- b. d’affiliar patruns, che dumondan quai;
+- c. da recepir persunas sco persunas assicuradas facultativamain;
+- d. da furnir las prestaziuns tenor l’artitgel 12;
+- e.[^60-2] d’affiliar l’assicuranza cunter la dischoccupaziun e da far l’assicuranza obligatorica per las persunas che retiran diarias e ch’èn annunziadas da questa assicuranza;
+- f.[^60-3] da recepir persunas tenor l’artitgel 60*a* che han il dretg d’ina cumpensaziun dal provediment professiunal suenter in divorzi.
+
+<sup>2bis</sup> Per ademplir sias incumbensas tenor l’alinea 2 literas a e b e tenor l’artitgel 12 alinea 2 po l’instituziun auxiliara decretar disposiziuns. Quellas han il medem status giuridic sco sentenzias executablas en il senn da l’artitgel 80 da la Lescha federala dals 11 d’avrigl 1889[^60-4] davart scussiun e concurs.[^60-5]
+
+<sup>3</sup> A l’instituziun auxiliara na dastgan vegnir concedidas naginas favurisaziuns che sfalsifitgeschan la concurrenza.
+
+<sup>4</sup> L’instituziun auxiliara stgaffescha filialas regiunalas.
+
+<sup>5</sup> L’instituziun auxiliara maina contos da libra circulaziun tenor l’artitgel 4 alinea 2 LFLP[^60-6]. Ella maina ina contabilitad separada davart quests contos.[^60-7]
+
+<sup>6</sup> L’instituziun auxiliara n’è betg obligada da surpigliar obligaziuns da rentas currentas.[^60-8]
+
+[^60-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^60-2]: Integrà tras l’art. 117*a* da la LF dals 25 da zer. 1982 davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da fan. 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+[^60-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^60-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^60-5]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^60-6]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^60-7]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^60-8]: Integrà tras la cifra I da la LF dals 20 da dec. 2006 (midada da l'instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+
+#### Art. 60a
+
+**Prestaziun d’extrada u renta per vita duranta transferida pervia d’in divorzi**[^60a-1]
+
+<sup>1</sup> Sch’ina prestaziun d’extrada u ina renta per vita duranta è vegnida attribuida ad ina persuna pervia d’in divorzi e sch’ella na po betg depositar questa prestaziun d’extrada u questa renta per vita duranta en ina instituziun da provediment, po ella laschar transferir quella a l’instituziun auxiliara.
+
+<sup>2</sup> Sin dumonda da la persuna autorisada transfurma l’instituziun auxiliara il dabun augmentà en questa moda inclusiv ils tschains en ina renta. Quella po vegnir retratga il pli baud cur che la vegliadetgna minimala tenor il reglament da l’instituziun auxiliara è cuntanschida. Cas cuntrari è ella debitada cur che la vegliadetgna da renta tenor l’artitgel 13 alinea 1 è cuntanschida. La retratga po vegnir suspendida per maximalmain 5 onns, sche l’activitad da gudogn vegn cuntinuada. I n’exista nagin dretg da prestaziuns per survivents suenter la mort da la persuna autorisada.
+
+<sup>3</sup> L’instituziun auxiliara calculescha la renta sin basa da ses reglament.
+
+<sup>4</sup> L’artitgel 37 alinea 3 vala tenor il senn.
+
+[^60a-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+
+#### Art. 60b
+
+**Investiziun temporara da daners da libra circulaziun tar la Tresoraria federala**[^60b-1]
+
+<sup>1</sup> Sche ses grad da cuvrida importa main che 105 pertschient, dastga l’instituziun auxiliara investir tar l’Administraziun federala da finanzas (AFF) ils daners dals contos da libra circulaziun ch’ella maina, e quai fin ad in import maximal da 10 milliardas francs.
+
+<sup>2</sup> La AFF administrescha ils meds finanzials senza tschains e gratuitamain en il rom da sia tresoraria centrala.
+
+<sup>3</sup> La AFF e l’instituziun auxiliara fixeschan ils detagls en in contract da dretg public.
+
+[^60b-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2020, en vigur dals 26 da sett. 2020 fin ils 25 da sett. 2023 ([AS 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [BBl 2020 6343](https://fedlex.data.admin.ch/eli/fga/2020/1553)).
+
+### 4. titel Surveglianza e surveglianza suprema****
+
+[^part3-tit4-1]
+
+[^part3-tit4-1]: Oriundamain: terz titel. Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+### 1. chapitel Surveglianza****
+
+[^part3-tit4-chap1-1]
+
+[^part3-tit4-chap1-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 61
+
+**Autoritad da surveglianza**[^61-1]
+
+<sup>1</sup> Ils chantuns designeschan l’autoritad ch’è cumpetenta per la surveglianza da las instituziuns da provediment sco er las instituziuns che servan tenor lur intent al provediment professiunal e che han lur sedia en il territori chantunal.[^61-2]
+
+<sup>2</sup> Ils chantuns pon furmar regiuns da surveglianza cuminaivlas e designar per quest intent in’autoritad da surveglianza.
+
+<sup>3</sup> L’autoritad da surveglianza è in institut da dretg public cun atgna persunalitad giuridica. En sia activitad n’è ella suttamessa a naginas directivas.[^61-3]
+
+[^61-1]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^61-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^61-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 62
+
+**Incumbensas**
+
+<sup>1</sup>
+
+L’autoritad da surveglianza controllescha che las instituziuns da provediment, ils posts da revisiun per il provediment professiunal, ils experts per il provediment professiunal sco er las instituziuns che servan tenor lur intent al provediment professiunal observian las prescripziuns legalas e che la facultad da provediment vegnia duvrada tenor l’intent, spezialmain cun:[^62-1]
+
+- a.[^62-2] controllar che las disposiziuns statutaras e reglamentaras da las instituziuns da provediment e da las instituziuns che servan tenor lur intent al provediment professiunal correspundian a las prescripziuns legalas;
+- b.[^62-3] pretender da l’instituziun da provediment sco er da l’instituziun che serva tenor ses intent al provediment professiunal in rapport annual, en spezial davart lur activitad;
+- c. prender invista dals rapports dal post da controlla e da l’expert per il provediment professiunal;
+- d. prender mesiras per eliminar mancanzas;
+- e.[^62-4] giuditgar dispitas concernent il dretg da la persuna assicurada da survegnir infurmaziuns tenor ils artitgels 65*a* ed 86*b* alinea 2; questa procedura è per regla gratuita per las persunas assicuradas.
+
+<sup>2</sup> Tar fundaziuns surpiglia ella er las incumbensas tenor ils artitgels 85–86*b* CCS[^62-5].[^62-6]
+
+<sup>3</sup> Il Cussegl federal po decretar disposiziuns concernent l’approvaziun da fusiuns e da transfurmaziuns da vart da las autoritads da surveglianza sco er concernent l’execuziun da la surveglianza en cas da liquidaziuns e da liquidaziuns parzialas d’instituziuns da provediment.[^62-7]
+
+[^62-1]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^62-2]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^62-3]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^62-4]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^62-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^62-6]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^62-7]: Integrà tras la cifra 10 da l’agiunta da la Lescha da fusiun dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+
+#### Art. 62a
+
+**Meds da surveglianza**[^62a-1]
+
+<sup>1</sup> Tar l’adempliment da sias incumbensas sa basa l’autoritad da surveglianza sin ils rapports dals experts per il provediment professiunal e dals posts da revisiun.
+
+<sup>2</sup>
+
+En cas da basegn po l’autoritad da surveglianza:
+
+- a. pretender da tut temp infurmaziuns u la consegna da documents utils da l’instituziun da provediment, da l’expert per il provediment professiunal u dal post da revisiun;
+- b. dar directivas en il cas singul a l’organ suprem, al post da revisiun u a l’expert per il provediment professiunal;
+- c. ordinar expertisas;
+- d. annullar decisiuns da l’organ suprem d’ina instituziun da provediment;
+- e. ordinar execuziuns d’uffizi;
+- f. admonir, avertir u relaschar l’organ suprem da l’instituziun da provediment u singuls da ses commembers;
+- g. ordinar in’administraziun uffiziala da l’instituziun da provediment u da l’instituziun che serva tenor ses intent al provediment professiunal;
+- h. nominar u relaschar in post da revisiun u in expert per il provediment professiunal;
+- i. chastiar violaziuns da l’urden tenor l’artitgel 79.
+
+<sup>3</sup> Ils custs per mesiras dal dretg da surveglianza van a donn e cust da l’instituziun da provediment u da l’instituziun che serva tenor ses intent al provediment professiunal, che ha chaschunà la mesira. Ils custs per la relaschada tenor l’alinea 2 litera h van a donn e cust dal post da revisiun correspundent e da l’expert per il provediment professiunal.
+
+[^62a-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 63
+
+[^63-1]
+
+[^63-1]: Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 63a
+
+[^63a-1]
+
+[^63a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP) ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abolì tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+### 2. chapitel Surveglianza suprema****
+
+[^part3-tit4-chap2-1]
+
+[^part3-tit4-chap2-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 64
+
+**Cumissiun da surveglianza suprema**[^64-1]
+
+<sup>1</sup> Il Cussegl federal nominescha ina Cumissiun da surveglianza suprema che sa cumpona da set fin nov commembers. El designescha il presidi ed il vicepresidi. Ils commembers ston esser experts independents. Ils partenaris socials ston vegnir resguardads cun mintgamai in represchentant. La perioda d’uffizi importa 4 onns.
+
+<sup>2</sup> La Cumissiun da surveglianza suprema n’è suttamessa en sias decisiuns ni a directivas dal Cussegl federal ni a directivas dal Departament federal da l’intern. En ses reglament po ella delegar cumpetenzas a ses secretariat.
+
+<sup>3</sup> Per il cumportament da la Cumissiun da surveglianza suprema e da ses secretariat stat la Confederaziun buna mo, sche obligaziuns d’uffizi fundamentalas èn vegnidas violadas e sch’ils donns na pon betg vegnir attribuids a violaziuns da l’obligaziun d’ina autoritad u d’ina instituziun survegliada tenor l’artitgel 64*a*.
+
+<sup>4</sup> Dal rest vala la Lescha da responsabladad dals 14 da mars 1958[^64-2].
+
+[^64-1]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012, cun excepziun da l’al. 1 en vigur dapi il 1. d’avust 2011 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^64-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 64a
+
+**Incumbensas**[^64a-1]
+
+<sup>1</sup>
+
+La Cumissiun da surveglianza suprema surveglia las autoritads da surveglianza. Ella ha las suandantas incumbensas:
+
+- a. ella garantescha l’unifurmitad da l’activitad da surveglianza da las autoritads da surveglianza; per quest intent po ella decretar directivas;
+- b. ella controllescha ils rapports annuals da las autoritads da surveglianza; ella po far inspecziuns tar las autoritads da surveglianza;
+- c. sch’ina basa legala è avant maun e suenter avair tadlà ils circuls interessads decretescha ella ils standards ch’èn necessaris per l’activitad da surveglianza;
+- d. ella decida davart l’admissiun e davart la privaziun da l’admissiun d’experts per il provediment professiunal;
+- e. ella maina in register dals experts per il provediment professiunal admess; il register è public e vegn publitgà en l’internet;
+- f. ella po dar directivas als experts per il provediment professiunal ed als posts da revisiun;
+- g. ella decretescha in reglament d’organisaziun e da gestiun; quest reglament sto vegnir approvà dal Cussegl federal.
+
+<sup>2</sup> Ella surveglia ultra da quai il fond da garanzia, l’instituziun auxiliara e las fundaziuns d’investiziun.
+
+<sup>3</sup> Ella suttametta al Cussegl federal annualmain in rapport da gestiun e communitgescha cun il Cussegl federal sur il Departament federal da l’intern.
+
+[^64a-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 64b
+
+**Secretariat**[^64b-1]
+
+<sup>1</sup> La cumissiun ha in secretariat permanent ch’è attribuì administrativamain a l’Uffizi federal d’assicuranzas socialas.
+
+<sup>2</sup> Il secretariat ademplescha las incumbensas, per las qualas el è responsabel tenor il reglament d’organisaziun e da gestiun da la Cumissiun da surveglianza suprema.
+
+[^64b-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 64c
+
+**Custs**[^64c-1]
+
+<sup>1</sup>
+
+Ils custs da la cumissiun e dal secretariat vegnan cuvrids tras:
+
+- a. ina taxa da surveglianza annuala;
+- b. taxas per disposiziuns e per servetschs.
+
+<sup>2</sup>
+
+La taxa da surveglianza annuala vegn calculada:
+
+- a.[^64c-2] tar las autoritads da surveglianza tenor il dumber d’instituziuns da provediment survegliadas sco er tenor il dumber da las persunas assicuradas activas e tenor il dumber da las rentas pajadas ora;
+- b. tar il fond da garanzia, tar l’instituziun auxiliara e tar las fundaziuns d’investiziun tenor la facultad ed eventualmain tenor il dumber da facultads spezialas.
+
+<sup>3</sup> Il Cussegl federal determinescha ils custs da surveglianza imputabels e fixescha la procedura per calcular il cas singul, sco er la tariffa da las taxas.
+
+<sup>4</sup> La taxa debitada tenor l’alinea 2 litera a vegn adossada da las autoritads da surveglianza a las instituziuns da provediment ch’ellas surveglian.[^64c-3]
+
+[^64c-1]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^64c-2]: Versiun tenor la cifra I da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [BBl 2016 6845](https://fedlex.data.admin.ch/eli/fga/2016/1427)[8193](https://fedlex.data.admin.ch/eli/fga/2016/1880)).
+[^64c-3]: Integrà tras la cifra I da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [BBl 2016 6845](https://fedlex.data.admin.ch/eli/fga/2016/1427)[8193](https://fedlex.data.admin.ch/eli/fga/2016/1880)).
+
+## 4. part Finanziaziun da las instituziuns da provediment
+
+### 1. titel Disposiziuns generalas****
+
+[^part4-tit1-1]
+
+[^part4-tit1-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 65
+
+**Princip**
+
+<sup>1</sup> Las instituziuns da provediment ston porscher da tut temp la garanzia da pudair ademplir las obligaziuns surpigliadas.
+
+<sup>2</sup> Ellas reglan il sistem da contribuziun e la finanziaziun uschia, che las prestaziuns pon vegnir furnidas en il rom da questa lescha, sch’ellas ston vegnir furnidas. En quest connex dastgan ellas resguardar mo il dumber avant maun da persunas assicuradas e da persunas pensiunadas (princip da la bilantschaziun en cassa serrada). Resalvads restan ils artitgels 72*a*–72*g*.[^65-1]
+
+<sup>2bis</sup> Tut las obligaziuns d’ina instituziun da provediment ston esser cuvridas tras facultads da provediment (princip da la chapitalisaziun cumpletta). Resalvads restan l’artitgel 65*c* sco er ils artitgels 72*a*–72*g*.[^65-2]
+
+<sup>3</sup> Ellas cumprovan lur custs d’administraziun en il quint da gestiun. Il Cussegl federal decretescha disposiziuns davart ils custs d’administraziun e davart la moda e maniera co ch’els ston vegnir cumprovads.[^65-3]
+
+<sup>4</sup> Il Cussegl federal fixescha ina facultad iniziala e prestaziuns da garanzia per novas constituziuns da fundaziuns collectivas e cuminaivlas ch’èn suttamessas a la LFLP[^65-4], independentamain da lur furma giuridica u administrativa. Betg suttamessas a questa disposiziun n’èn instituziuns da provediment d’associaziuns sco er instituziuns da provediment cun plirs patruns, ch’èn economicamain u finanzialmain colliads stretgamain in cun l’auter.[^65-5]
+
+[^65-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^65-2]: Integrà tras la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^65-3]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^65-5]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+#### Art. 65a
+
+**Transparenza**[^65a-1]
+
+<sup>1</sup> Las instituziuns da provediment ston observar il princip da transparenza tar la regulaziun dal sistem da contribuziun, tar la finanziaziun, tar las investiziuns da chapital e tar il rendaquint.
+
+<sup>2</sup>
+
+Cun la transparenza duai vegnir garantì che:
+
+- a. la situaziun finanziala effectiva da l’instituziun da provediment vegnia mussada;
+- b. la segirezza ch’ils intents da provediment vegnan ademplids possia vegnir cumprovada;
+- c. l’organ paritetic da l’instituziun da provediment possia ademplir sia incumbensa directiva;
+- d. las obligaziuns d’infurmaziun envers las persunas assicuradas possian vegnir ademplidas.
+
+<sup>3</sup> Las instituziuns da provediment ston esser en cas da dar infurmaziuns davart il retgav da chapital, davart l’andament da las ristgas tecnicas d’assicuranza, davart ils custs d’administraziun, davart la calculaziun dal chapital da garanzia, davart la constituziun da reservas sco er davart il grad da cuvrida.
+
+<sup>4</sup> Il Cussegl federal decretescha disposiziuns davart la moda e maniera co che questas infurmaziuns ston vegnir cumprovadas – resguardond la proporziunalitad dals custs – fin sin il stgalim da las ovras da provediment.
+
+<sup>5</sup> Il Cussegl federal decretescha disposiziuns davart la moda e maniera co che la transparenza sto vegnir garantida. Per quest intent decretescha el prescripziuns da rendaquint e fixescha las pretensiuns envers la transparenza dals custs e dal retgav.
+
+[^65a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 65b
+
+**Disposiziuns executivas dal Cussegl federal**[^65b-1]
+
+Il Cussegl federal decretescha prescripziuns minimalas davart la creaziun:
+
+- a. da retenziuns per las ristgas tecnicas d’assicuranza;
+- b. d’autras retenziuns che servan a segirar la finanziaziun;
+- c. da las reservas da fluctuaziun.
+
+[^65b-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 65c
+
+**Sutgaranzia temporara**[^65c-1]
+
+<sup>1</sup>
+
+Ina sutgaranzia temporara ed uschia ina divergenza temporara dal princip che la segirezza tenor l’artitgel 65 alinea 1 stoppia esser garantida da tut temp è admessa, sche:
+
+- a. igl è garantì che las prestaziuns en il rom da questa lescha pon vegnir furnidas, sch’ellas ston vegnir furnidas (art. 65 al. 2); e
+- b. l’instituziun da provediment prenda mesiras per eliminar la sutgaranzia entaifer in temp adequat.
+
+<sup>2</sup> En cas d’ina sutgaranzia sto l’instituziun da provediment infurmar l’autoritad da surveglianza, il patrun, las persunas assicuradas sco er las persunas pensiunadas davart la dimensiun e davart ils motivs da la sutgaranzia sco er davart las mesiras prendidas.
+
+[^65c-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 65d
+
+**Mesiras en cas da sutgaranzia**[^65d-1]
+
+<sup>1</sup> L’instituziun da provediment sto eliminar sezza la sutgaranzia. Il fond da garanzia intervegn pir, sche l’instituziun da provediment è insolventa.
+
+<sup>2</sup> Las mesiras per eliminar ina sutgaranzia ston sa fundar sin ina basa reglamentara e tegnair quint da la situaziun speziala da l’instituziun da provediment, en spezial da las structuras da facultad e d’obligaziuns sco ils plans da provediment e la structura ed il svilup probabel dal dumber da persunas assicuradas e da persunas pensiunadas. Ellas ston esser proporziunalas, correspunder al grad da la sutgaranzia e far part d’in concept general equilibrà. Ultra da quai ston ellas esser adattadas per eliminar la sutgaranzia entaifer in temp adequat.
+
+<sup>3</sup>
+
+Sche autras mesiras na permettan betg da cuntanscher la finamira, po l’instituziun da provediment durant il temp da la sutgaranzia:
+
+- a. incassar da patruns e da lavurants contribuziuns per eliminar ina sutgaranzia. La contribuziun dal patrun sto esser almain uschè gronda sco la summa da las contribuziuns dals lavurants;
+- b. incassar da las persunas pensiunadas ina contribuziun per eliminar ina sutgaranzia. Questa contribuziun vegn deducida da las rentas currentas. La contribuziun dastga vegnir deducida mo da quella part da la renta currenta ch’è resultada d’augments betg prescrits da la lescha u dal reglament, e quai ils ultims 10 onns avant l’introducziun da questa mesira. Ella na dastga betg vegnir deducida da prestaziuns d’assicuranza en cas da vegliadetgna, mort ed invaliditad dal provediment obligatorica. Da prestaziuns d’assicuranza che surpassan las prestaziuns dal provediment obligatorica dastga ella vegnir deducida mo, sch’ina basa reglamentara correspundenta è avant maun. L’autezza da la renta resta garantida en mintga cas il mument ch’il dretg sin ina renta vegn stabilì.
+
+<sup>4</sup> Sche las mesiras tenor l’alinea 3 na bastan betg, po l’instituziun da provediment sutpassar la tariffa da tschains minimala tenor l’artitgel 15 alinea 2 durant il temp da la sutgaranzia, maximalmain però durant 5 onns. Il sutpassament dastga importar maximalmain 0,5 pertschient.
+
+[^65d-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 65e
+
+**Reserva da las contribuziuns dal patrun cun renunzia a l’utilisaziun en cas d’ina sutgaranzia**[^65e-1]
+
+<sup>1</sup> L’instituziun da provediment po prevair en ses reglament ch’il patrun po – en cas d’ina sutgaranzia – far apports en in conto separà «Reserva da las contribuziuns dal patrun cun renunzia a l’utilisaziun (RCP cun renunzia a l’utilisaziun)» ed er transferir meds da la reserva ordinaria da las contribuziuns dal patrun sin quest conto.
+
+<sup>2</sup> Ils apports na dastgan betg surpassar l’import da la sutgaranzia e na vegnan betg tschainsids. Els na dastgan betg vegnir duvrads per prestaziuns ed er betg vegnir impegnads, cedids u reducids en autra moda.
+
+<sup>3</sup>
+
+Il Cussegl federal regla ils detagls, en spezial:
+
+- a. la dissoluziun da la RCP cun renunzia a l’utilisaziun, ses transferiment en la reserva ordinaria da las contribuziuns dal patrun e la scuntrada cun contribuziuns dal patrun che ston vegnir pajadas;
+- b. l’import total pussaivel da las reservas da las contribuziuns dal patrun e ses tractament en cas d’ina liquidaziun totala e parziala.
+
+<sup>4</sup> Il patrun e l’instituziun da provediment pon fixar per contract regulaziuns supplementaras.
+
+[^65e-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 66
+
+**Repartiziun da las contribuziuns**
+
+<sup>1</sup> L’instituziun da provediment fixescha en las disposiziuns reglamentaras l’autezza da las contribuziuns dal patrun e dals lavurants. La contribuziun dal patrun sto esser almain uschè gronda sco las contribuziuns totalas da tut ses lavurants. In import pli grond dal patrun po vegnir fixà mo cun ses consentiment.
+
+<sup>2</sup> Il patrun debitescha a l’instituziun da provediment tut las contribuziuns. Per contribuziuns che na vegnan betg pajadas ad ura po l’instituziun da provediment pretender tschains da retard.
+
+<sup>3</sup> Il patrun deducescha dal salari la part da la contribuziun dal lavurant ch’è fixada en las disposiziuns reglamentaras da l’instituziun da provediment.
+
+<sup>4</sup> El assegna sias atgnas contribuziuns e las contribuziuns dals lavurants a l’instituziun da provediment fin il pli tard a la fin da l’emprim mais suenter l’onn chalendar u suenter l’onn d’assicuranza, per il qual vegnan debitadas las contribuziuns.[^66-1]
+
+[^66-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 67
+
+**Cuvrida da las ristgas**
+
+<sup>1</sup> Las instituziuns da provediment decidan, sch’ellas vulan surpigliar sezzas la cuvrida da las ristgas u sch’ellas vulan surdar tala dal tuttafatg u per part ad ina instituziun d’assicuranza ch’è suttamessa a la surveglianza da las assicuranzas ubain – per las cundiziuns fixadas dal Cussegl federal – ad ina instituziun d’assicuranza da dretg public.
+
+<sup>2</sup> Ellas pon surpigliar sezzas la cuvrida da las ristgas, sch’ellas adempleschan las premissas fixadas dal Cussegl federal.
+
+#### Art. 68
+
+**Contracts d’assicuranza tranter instituziuns da provediment ed instituziuns d’assicuranza**
+
+<sup>1</sup> Instituziuns d’assicuranza che vulan surpigliar la cuvrida da las ristgas d’ina instituziun da provediment registrada tenor questa lescha, ston integrar en lur purschida tariffas che cuvran mo las ristgas per mort ed invaliditad prescrittas da la lescha. Il Cussegl federal regla ils detagls.
+
+<sup>2</sup> ...[^68-1]
+
+<sup>3</sup> Las instituziuns d’assicuranza ston furnir a las instituziuns da provediment las indicaziuns necessarias per che quellas possian garantir la transparenza che vegn pretendida en l’artitgel 65*a*.[^68-2]
+
+<sup>4</sup>
+
+Tar questas indicaziuns tutgan en spezial er:
+
+- a. in rendaquint annual e chapaivel da la participaziun al surpli; dal rendaquint sto resortir en spezial sin tge basas che la participaziun al surpli è vegnida calculada e tenor tge princips ch’ella è vegnida repartida;
+- b. ina glista dals custs d’administraziun; il Cussegl federal decretescha disposiziuns davart la moda e maniera co ch’ils custs d’administraziun ston vegnir cumprovads.[^68-3]
+
+[^68-1]: Abolì tras la cifra II 3 da l’agiunta da la LF dals 17 da dec. 2004 davart la surveglianza da las assicuranzas, cun effect dapi il 1. da schan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^68-2]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^68-3]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 68a
+
+**Participaziuns al surpli che resultan da contracts d’assicuranza**[^68a-1]
+
+<sup>1</sup> Participaziuns al surpli che resultan da contracts d’assicuranza ston, suenter ch’il conclus concernent l’adattaziun da las rentas al svilup dals pretschs tenor l’artitgel 36 alineas 2 e 3 è vegnì prendì, vegnir bunifitgads als dabuns da spargn da las persunas assicuradas.
+
+<sup>2</sup>
+
+Da l’alinea 1 poi vegnir divergià mo:
+
+- a. en cas d’ovras da provediment ch’èn affiliadas a fundaziuns collectivas: sche la cumissiun da provediment da l’ovra da provediment prenda explicitamain in conclus divergent e communitgescha quel a la fundaziun collectiva;
+- b. en cas d’instituziuns da provediment che na vegnan betg manadas en furma d’ina fundaziun collectiva: sche l’organ paritetic prenda explicitamain in conclus divergent e communitgescha quel a l’instituziun d’assicuranza.
+
+[^68a-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 69
+
+[^69-1]
+
+[^69-1]: Abolì tras la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), cun effect dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 70
+
+[^70-1]
+
+[^70-1]: Abolì tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), cun effect dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 71
+
+**Administraziun da la facultad**
+
+<sup>1</sup> Las instituziuns da provediment administreschan lur facultads uschia, che la segirezza ed in retgav suffizient da las investiziuns, ina repartiziun adequata da las ristgas sco er la cuvrida dal basegn previsibel da meds finanzials liquids èn garantids.
+
+<sup>2</sup> L’instituziun da provediment na dastga betg impegnar u engrevgiar ses dretgs che derivan d’in contract d’assicuranza da vita collectiv u d’in contract da reassicuranza.[^71-1]
+
+[^71-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 72
+
+**Finanziaziun da l’instituziun auxiliara**
+
+<sup>1</sup> L’instituziun auxiliara sto vegnir finanziada tenor il princip da la bilantschaziun en cassa serrada, uschenavant ch’ella surpiglia sezza la cuvrida da las ristgas.
+
+<sup>2</sup> Ils custs che resultan tenor l’artitgel 12 a l’instituziun auxiliara vegnan surpigliads dal fond da garanzia tenor l’artitgel 56 alinea 1 litera b.
+
+<sup>3</sup> Ils custs ch’èn resultads a l’instituziun auxiliara per sia activitad tenor l’artitgel 60 alinea 2 da questa lescha sco er tenor l’artitgel 4 alinea 2 LFLP[^72-1], che na pon betg vegnir adossads al chaschunader, vegnan surpigliads dal fond da garanzia.[^72-2]
+
+[^72-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^72-2]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)). Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. da schan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
+
+### 2. titel**** Finanziaziun d’instituziuns da provediment da corporaziuns da dretg public manadas tenor il sistem da la chapitalisaziun parziala
+
+[^part4-tit2-1]
+
+[^part4-tit2-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+
+#### Art. 72a
+
+**Sistem da la chapitalisaziun parziala**
+
+<sup>1</sup>
+
+Instituziuns da provediment da corporaziuns da dretg public che n’adempleschan – il mument che la midada dals 17 da december 2010 entra en vigur – betg las pretensiuns da la chapitalisaziun cumpletta e per las qualas exista ina garanzia statala tenor l’artitgel 72*c* pon – cun l’approvaziun da l’autoritad da surveglianza – divergiar dal princip da la chapitalisaziun cumpletta (sistem da la chapitalisaziun parziala), sch’igl è avant maun in plan da finanziaziun che garantescha a lunga vista lur equiliber finanzial. Il plan da finanziaziun sto garantir en spezial che:
+
+- a. las obligaziuns envers las persunas pensiunadas sajan cuvridas cumplainamain;
+- b.[^72a-1] ils grads da cuvrida da partenza na vegnian betg sutpassads per tut las obligaziuns da l’instituziun da provediment sco er per sias obligaziuns envers las persunas assicuradas activas, e quai fin a la midada al sistem da la chapitalisaziun cumpletta;
+- c.[^72a-2] igl existia ina grad da cuvrida d’almain 80 pertschient per tut las obligaziuns envers persunas pensiunadas sco er envers persunas assicuradas activas;
+- d. augments futurs da las prestaziuns vegnian finanziads a 100 pertschient tenor la procedura da chapitalisaziun.
+
+<sup>2</sup> L’autoritad da surveglianza controllescha il plan da finanziaziun ed approvescha che l’instituziun da provediment vegnia manada vinavant tenor il sistem da la chapitalisaziun parziala. Ella procura ch’il plan da finanziaziun prevesia ch’ils grads da cuvrida existents vegnian observads.
+
+<sup>3</sup> Las instituziuns da provediment pon prevair ina reserva da fluctuaziuns en la repartiziun, sch’ina midada da la structura dal dumber da persunas assicuradas è previsibla.
+
+<sup>4</sup> Il Cussegl federal decretescha prescripziuns davart la calculaziun dals meds finanzials libers. El po fixar ch’i n’existia nagin dretg proporziunal sin la reserva da fluctuaziuns en la repartiziun en cas d’ina liquidaziun parziala.
+
+[^72a-1]: Guardar er las disposiziuns transitoricas da la midada dals 17 da dec. 2010 a la fin da quest text.
+[^72a-2]: Guardar er las disposiziuns transitoricas da la midada dals 17 da dec. 2010 a la fin da quest text.
+
+#### Art. 72b
+
+**Grads da cuvrida da partenza**
+
+<sup>1</sup> Sco grads da cuvrida da partenza valan ils grads da cuvrida il mument che la midada dals 17 da december 2010 entra en vigur.
+
+<sup>2</sup> Tar la calculaziun dals grads da cuvrida da partenza sto il chapital da garanzia ch’è necessari per pajar las rentas che ston vegnir pajadas, vegnir resguardà cumplainamain.
+
+<sup>3</sup> Tar la calculaziun dals grads da cuvrida da partenza dastgan reservas en cas da midadas da la valur e reservas da fluctuaziuns en la repartiziun vegnir deducidas da la facultad da provediment.
+
+#### Art. 72c
+
+**Garanzia statala**
+
+<sup>1</sup>
+
+Ina garanzia statala è avant maun, sche la corporaziun da dretg public garantescha la cuvrida per las suandantas prestaziuns da l’instituziun da provediment, uschenavant che quellas n’èn betg finanziadas cumplainamain pervia dals grads da cuvrida da partenza tenor l’artitgel 72*a* alinea 1 litera b:
+
+- a. prestaziuns da vegliadetgna, da ristga e d’extrada;
+- b. prestaziuns d’extrada envers il dumber da persunas assicuradas che sortan en cas d’ina liquidaziun parziala;
+- c. deficits en chaussas tecnicas d’assicuranza che resultan tar il dumber da persunas assicuradas restantas en consequenza d’ina liquidaziun parziala.
+
+<sup>2</sup> Ina garanzia statala vala er per obligaziuns envers dumbers da persunas assicuradas che s’affilieschan posteriuramain a l’instituziun da provediment.
+
+#### Art. 72d
+
+**Controlla tras l’expert per il provediment professiunal**
+
+L’instituziun da provediment sto laschar controllar periodicamain tras l’expert per il provediment professiunal, sche ses equiliber finanzial è garantì a lunga vista cun il sistem da la chapitalisaziun parziala e sch’il plan da finanziaziun tenor l’artitgel 72*a* alinea 1 vegn observà.
+
+#### Art. 72e
+
+**Grads da cuvrida pli bass ch’ils grads da cuvrida da la partenza**
+
+Sch’in grad da cuvrida da partenza tenor l’artitgel 72*a* alinea 1 litera b vegn sutpassà, sto l’instituziun da provediment prender mesiras tenor ils artitgels 65*c*–65*e*.
+
+#### Art. 72f
+
+**Midada al sistem da la chapitalisaziun cumpletta**
+
+<sup>1</sup> La finanziaziun da las instituziuns da provediment sa drizza tenor ils artitgels 65–72, uschespert che talas adempleschan lur pretensiuns.
+
+<sup>2</sup> La garanzia statala po vegnir abolida da la corporaziun da dretg public, sche l’instituziun da provediment ademplescha las pretensiuns da la chapitalisaziun cumpletta ed ha avunda reservas en cas da midadas da la valur.
+
+#### Art. 72g
+
+**Rapport dal Cussegl federal**
+
+Il Cussegl federal suttametta a l’Assamblea federala mintga 10 onns in rapport davart la situaziun finanziala da las instituziuns da provediment da corporaziuns da dretg public, en spezial davart la relaziun tranter las obligaziuns e la facultad da provediment.
+
+## 5. part Giurisdicziun e disposiziuns penalas
+
+### 1. titel Giurisdicziun
+
+#### Art. 73
+
+**Dispitas e pretensiuns da responsabladad[^73-1]**
+
+<sup>1</sup>
+
+Mintga chantun designescha ina dretgira che decida sco ultima instanza chantunala davart dispitas tranter instituziuns da provediment, patruns e persunas che han il dretg sin prestaziuns. La dretgira decida er davart:
+
+- a. dispitas cun instituziuns che garanteschan il mantegniment dal provediment en il senn da l’artitgel 4 alinea 1 e 26 alinea 1 LFLP[^73-2];
+- b. dispitas che resultan cun instituziuns tras l’applicaziun da l’artitgel 82 alinea 2;
+- c. pretensiuns da responsabladad tenor l’artitgel 52;
+- d. il regress tenor l’artitgel 56*a* alinea 1.[^73-3]
+
+<sup>2</sup> Ils chantuns prevesan ina procedura simpla, svelta e per regla gratuita; il derschader constatescha d’uffizi ils fatgs.
+
+<sup>3</sup> La dretgira cumpetenta è la dretgira al domicil u a la sedia da la persuna accusada en Svizra u il lieu dal manaschi, dal qual la persuna assicurada è vegnida engaschada.
+
+<sup>4</sup> ...[^73-4]
+
+[^73-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^73-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^73-3]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^73-4]: Abolì tras la cifra 109 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 74
+
+**Particularitads da la giurisdicziun**[^74-1]
+
+<sup>1</sup> Cunter las disposiziuns da l’autoritad da surveglianza poi vegnir fatg recurs tar il Tribunal administrativ federal.
+
+<sup>2</sup> La procedura da recurs cunter disposiziuns sa basond sin l’artitgel 62 alinea 1 litera e è gratuita per las persunas assicuradas, nun ch’ellas hajan agì da nunponderadamain u da levsenn.
+
+<sup>3</sup> In recurs cunter ina disposiziun da l’autoritad da surveglianza ha mo in effect suspensiv, sch’il Tribunal administrativ federal decretescha quel sin dumonda d’ina partida.[^74-2]
+
+<sup>4</sup> Cunter decisiuns dal Tribunal administrativ federal en il sectur dal provediment professiunal ha la cumissiun da surveglianza suprema il dretg da far recurs tar il Tribunal federal.[^74-3]
+
+[^74-1]: Versiun tenor la cifra I 14 da l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LTF e da la LTAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^74-2]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^74-3]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+
+### 2. titel Disposiziuns penalas****
+
+[^part5-tit2-1]
+
+[^part5-tit2-1]: Dapi il 1. da schan. 2007 ston ils chastis smanatschads ed ils termins da surannaziun vegnir interpretads resp. quintads applitgond l’art. 333 al. 2–6 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) en la versiun da la LF dals 13 da dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+
+#### Art. 75
+
+**Surpassaments**
+
+<sup>1.</sup> Tgi che violescha l’obligaziun da dar infurmaziuns, dond sapientivamain infurmaziuns faussas ubain refusond da dar infurmaziuns,
+
+tgi che s’oppona ad ina controlla ordinada da l’autoritad cumpetenta u impedescha ina tala en autra moda,
+
+tgi che n’emplenescha betg ils formulars necessaris u als emplenescha en ina moda che na correspunda betg a la vardad,
+
+vegn chastià cun arrest u cun multa fin a 10 000 francs, nun ch’i saja avant maun in delict tenor il Cudesch penal[^75-1] che vegn chastià cun in chasti pli grev.[^75-2]
+
+<sup>2.</sup> Tar cas da pauca impurtanza poi vegnir desistì da far ina procedura.
+
+[^75-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^75-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 76
+
+**Delicts**
+
+Tgi che obtegna – tras indicaziuns faussas u incumplettas u en autra moda – per sasez u per in auter ina prestaziun da l’instituziun da provediment u dal fond da garanzia, da la quala el n’ha nagin dretg,
+
+tgi che sa retira – tras indicaziuns faussas u incumplettas u en autra moda – da l’obligaziun da pajar contribuziuns ad ina instituziun da provediment u al fond da garanzia,
+
+tgi che deducescha sco patrun contribuziuns dal salari d’in lavurant e na dovra las contribuziuns betg per l’intent previs,[^76-1]
+
+tgi che violescha l’obligaziun da discreziun u surdovra, exequind questa lescha, sia posiziun sco organ u funcziunari per dischavantatg da terzas persunas u per ses agen avantatg,
+
+tgi che violescha sco possessur u commember d’in post da controlla u sco expert renconuschì per il provediment professiunal gravantamain las obligaziuns tenor l’artitgel 53,
+
+tgi che fa sin agen quint affars inadmissibels, cuntrafa cunter l’obligaziun da transparenza cun far indicaziuns nunvairas u betg cumplettas u cun agir en autra moda gravantamain cunter ils interess da l’instituziun da provediment,[^76-2]
+
+tgi che na preschenta betg avertamain u tegna per sai avantatgs da facultad u retrocessiuns che stattan en connex cun l’administraziun da facultads da provediment, premess che quels na sajan betg quantifitgads explicitamain en il contract d’administraziun da la facultad sco indemnisaziun,[^76-3]
+
+vegn chastià cun praschun fin a 6 mais u cun ina multa fin a 30 000 francs, nun ch’i saja avant maun in delict u in crim tenor il Cudesch penal[^76-4] che vegn chastià cun in chasti pli grev.[^76-5]
+
+[^76-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^76-2]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^76-3]: Integrà tras la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^76-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^76-5]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 77
+
+**Cuntravenziuns commessas en la gestiun d’ina interpresa**
+
+<sup>1</sup> Sch’ina cuntravenziun vegn commessa cun procurar las fatschentas d’ina persuna giuridica, d’ina societad collectiva u commanditara, d’ina firma singula u d’ina collectivitad senza persunalitad giuridica u uschiglio cun exequir fatschentas u servetschs per in’autra persuna, vegnan las disposiziuns penalas applitgadas sin quellas persunas natiralas che han commess il malfatg.
+
+<sup>2</sup> Il schef da l’interpresa, il patrun, il mandant u il represchentà che tralascha intenziunadamain u per negligientscha, violond in’obligaziun giuridica, d’impedir ina cuntravenziun dal subordinà, dal mandatari u dal represchentant u d’eliminar ils effects da questa cuntravenziun, è suttamess a las disposiziuns penalas che valan per il delinquent che agescha correspundentamain.
+
+<sup>3</sup> Sch’il schef da l’interpresa u il patrun, l’incumbensader u il represchentà è ina persuna giuridica, ina societad collectiva u commanditara, ina firma singula u ina totalitad da persunas senza persunalitad giuridica, vegn l’alinea 2 applitgà sin ils organs culpaivels, sin ils commembers dals organs, sin ils associads directivs, sin las persunas effectivamain directivas u sin ils liquidaturs.
+
+<sup>4</sup> Sch’ina multa da maximalmain 4000 francs vegn en consideraziun e sche l’investigaziun da las persunas chastiablas tenor ils alineas 1–3 pretendess mesiras d’inquisiziun che fissan sproporziunadas en vista al chasti scadì, poi vegnir desistì da persequitar questas persunas, ed empè dad ellas po la persuna giuridica, la societad collectiva u commanditara u la firma singula vegnir sentenziada da pajar la multa.[^77-1]
+
+[^77-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 78
+
+**Persecuziun e giudicament**[^78-1]
+
+La persecuziun ed il giudicament èn chaussa dals chantuns.
+
+[^78-1]: Versiun tenor la cifra II 29 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+
+#### Art. 79
+
+**Cuntravenziuns administrativas**
+
+<sup>1</sup> Tgi che n’ademplescha betg a temp util ad ina disposiziun da l’autoritad da surveglianza cumpetenta, malgrà ch’el è vegnì admonì e rendì attent a la smanatscha da chasti tenor quest artitgel, vegn chastià da l’autoritad da surveglianza cun ina multa disciplinara fin a 4000 francs.[^79-1] En cas da violaziuns da l’urden da pauca impurtanza po vegnir pronunzià in avertiment.
+
+<sup>2</sup> Cunter las disposiziuns da multa poi vegnir fatg recurs tar il Tribunal administrativ federal.[^79-2]
+
+[^79-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^79-2]: Versiun tenor la cifra 109 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## 6. part Dimensiun da las prestaziuns, dretg fiscal e disposiziuns spezialas****
+
+[^part6-1]
+
+[^part6-1]: Versiun tenor la cifra I 10 da la LF dals 19 da mars 1999 davart il program da stabilisaziun 1998, en vigur dapi il 1. da schan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
+
+### 1. titel Dimensiun da las prestaziuns****
+
+[^part6-tit1-1]
+
+[^part6-tit1-1]: Versiun tenor la cifra I 10 da la LF dals 19 da mars 1999 davart il program da stabilisaziun 1998, en vigur dapi il 1. da schan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
+
+#### Art. 79a
+
+**Champ d’applicaziun**[^79a-1]
+
+Las disposiziuns da quest titel valan per tut las relaziuns da provediment, independentamain dal fatg sche l’instituziun da provediment è inscritta en il register dal provediment professiunal u betg.
+
+[^79a-1]: Integrà tras la cifra I 10 da la LF dals 19 da mars 1999 davart il program da stabilisaziun 1998 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4). Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 79b
+
+**Acquist**[^79b-1]
+
+<sup>1</sup> L’instituziun da provediment dastga pussibilitar l’acquist fin maximalmain a l’autezza da las prestaziuns reglamentaras.
+
+<sup>2</sup> Il Cussegl federal regla ils cas da quellas persunas che n’han anc mai appartegnì ad ina instituziun da provediment il mument ch’ellas han fatg valair la pussaivladad da l’acquist.
+
+<sup>3</sup> Sch’i èn vegnids fatgs acquists, na dastgan las prestaziuns che resultan betg vegnir retratgas dal provediment en furma da chapital entaifer ils 3 onns sequents. Sch’i èn vegnidas fatgas retratgas anticipadas per la promoziun da la proprietad d’abitaziuns, dastgan acquists facultativs vegnir fatgs pir, cur che las retratgas anticipadas èn pajadas enavos.
+
+<sup>4</sup> Ils reacquists en cas da divorzi u da schliaziun giudiziala d’in partenadi registrà tenor l’artitgel 22*c* LFLP[^79b-2] èn exceptads da la limitaziun.[^79b-3]
+
+[^79b-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^79b-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386). Oz: art. 22*d* LFLP.
+[^79b-3]: Integrà tras l’art. 37 cifra 3 da la Lescha da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+
+#### Art. 79c
+
+**Salari assicurabel ed entradas assicurablas**[^79c-1]
+
+Il salari dals lavurants ch’è assicurabel tenor il reglament da l’instituziun da provediment u las entradas assicurablas da las persunas cun activitad da gudogn independenta è limità a diesch giadas l’import maximal tenor l’artitgel 8 alinea 1.
+
+[^79c-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+### 2. titel Tractament fiscal dal provediment****
+
+[^part6-tit2-1]
+
+[^part6-tit2-1]: Integrà tras la cifra I 10 da la LF dals 19 da mars 1999 davart il program da stabilisaziun 1998, en vigur dapi il 1. da schan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
+
+#### Art. 80
+
+**Instituziuns da provediment**
+
+<sup>1</sup> Las disposiziuns da quest titel valan er per las instituziuns da provediment che n’èn betg inscrittas en il register dal provediment professiunal.
+
+<sup>2</sup> Las instituziuns da provediment dal dretg public e dal dretg privat che han ina persunalitad giuridica èn, uschenavant che lur entradas e valurs da facultad servan exclusivamain al provediment professiunal, deliberadas da las taglias directas da la Confederaziun, dals chantuns e da las vischnancas e da las taglias sin iertas e sin donaziuns dals chantuns e da las vischnancas.
+
+<sup>3</sup> Immobiglias dastgan vegnir engrevgiadas tras taglias funsilas, en spezial tras taglias sin immobiglias da la valur brutta da l’immobiglia e tras taglias sin midada da proprietad.
+
+<sup>4</sup> Plivalurs da la vendita d’immobiglias dastgan vegnir engrevgiadas ubain tras la taglia sin il gudogn generala ubain tras ina taglia speziala sin il gudogn tras la vendita da bains immobigliars. En cas da fusiuns e da repartiziuns d’instituziuns da provediment na dastgan vegnir incassadas naginas taglias sin il gudogn.
+
+#### Art. 81
+
+**Deducziun da las contribuziuns**
+
+<sup>1</sup> Las contribuziuns dals patruns a l’instituziun da provediment ed ils apports a las reservas da las contribuziuns dal patrun, inclusiv tals tenor l’artitgel 65*e,* valan tar las taglias directas da la Confederaziun, dals chantuns e da las vischnancas sco custs da fatschenta.[^81-1]
+
+<sup>2</sup> Las contribuziuns ch’ils lavurants e las persunas cun activitad da gudogn independenta pajan tenor lescha u tenor disposiziuns reglamentaras ad instituziuns da provediment, èn deduciblas tar las taglias directas da la Confederaziun, dals chantuns e da las vischnancas.
+
+<sup>3</sup> Per il lavurant assicurà ston las contribuziuns che vegnan deducidas dal salari, vegnir inditgadas en l’attest da salari; autras contribuziuns ston vegnir attestadas da las instituziuns da provediment.
+
+[^81-1]: Versiun tenor la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 81a
+
+**Deducziun da la contribuziun da las persunas pensiunadas**[^81a-1]
+
+La contribuziun da las persunas pensiunadas per eliminar ina sutgaranzia tenor l’artitgel 65*d* alinea 3 litera b è deducibla tar las taglias directas da la Confederaziun, dals chantuns e da las vischnancas.
+
+[^81a-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+
+#### Art. 82
+
+**Egualitad d’autras furmas da provediment**
+
+<sup>1</sup> Lavurants e persunas cun activitad da gudogn independenta pon er deducir contribuziuns per ulteriuras furmas da provediment renconuschidas che servan unicamain ed irrevocablamain al provediment professiunal.
+
+<sup>2</sup> Il Cussegl federal fixescha en collavuraziun cun ils chantuns las furmas da provediment renconuschidas ed il dretg da far deducziuns per contribuziuns.
+
+#### Art. 83
+
+**Taxaziun da prestaziuns**
+
+Las prestaziuns d’instituziuns da provediment e da furmas da provediment tenor ils artitgels 80 ed 82 pon vegnir suttamessas cumplainamain a las taglias directas da la Confederaziun, dals chantuns e da las vischnancas sco entradas.
+
+#### Art. 83a
+
+**Tractament fiscal da la promoziun da la proprietad d’abitaziuns**[^83a-1]
+
+<sup>1</sup> La retratga anticipada ed il retgav obtegnì da la realisaziun dal pegn dal dabun da provediment èn suttamess a la taglia sco prestaziun da chapital dal provediment.
+
+<sup>2</sup> En cas ch’ils daners da la retratga anticipada u dal retgav da la realisaziun dal pegn vegnan puspè pajads en, po il pajataglia pretender da survegnir enavos las taglias ch’el ha pajà sin l’import ch’el ha obtegnì tar la retratga anticipada u tar la realisaziun dal pegn. Tals rembursaments na dastgan betg vegnir deducids per eruir las entradas suttamessas a la taglia.
+
+<sup>3</sup> Il dretg da survegnir enavos las taglias pajadas extingua 3 onns suenter ch’ils daners obtegnids da la retratga anticipada u da la realisaziun dal pegn èn puspè vegnids pajads en ad ina instituziun dal provediment professiunal.
+
+<sup>4</sup> Tut las acziuns tenor ils alineas 1–3 ston vegnir communitgadas da l’instituziun da provediment correspundenta a l’Administraziun federala da taglia senza intimaziun da sia vart.
+
+<sup>5</sup> Las disposiziuns da quest artitgel valan per las taglias directas da la Confederaziun, dals chantuns e da las vischnancas.
+
+[^83a-1]: Integrà tras la cifra I da la LF dals 17 da dec. 1993 davart la promoziun da la proprietad d’abitaziuns cun meds dal provediment professiunal, en vigur dapi il 1. da schan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+
+#### Art. 84
+
+**Pretensiuns che derivan dal provediment**
+
+Avant ch’ellas ston vegnir pajadas èn las pretensiuns or d’instituziuns da provediment ed or da furmas da provediment tenor ils artitgels 80 ed 82 deliberadas da las taglias directas da la Confederaziun, dals chantuns e da las vischnancas.
+
+### 3. titel Disposiziuns spezialas****
+
+[^part6-tit3-1]
+
+[^part6-tit3-1]: Oriundamain: segund titel.
+
+#### Art. 85
+
+**Cumissiun federala per il provediment professiunal**
+
+<sup>1</sup> Il Cussegl federal nominescha ina cumissiun federala per il provediment professiunal cun maximalmain 21 commembers. Ella sa cumpona da represchentants da la Confederaziun e dals chantuns sco er, maioritarmain, da represchentants dals patruns, dals lavurants e da las instituziuns da provediment.
+
+<sup>2</sup> La cumissiun dat il parairi al Cussegl federal en quai che pertutga dumondas da la realisaziun e da l’ulteriur svilup dal provediment professiunal.
+
+#### Art. 85a
+
+**Elavuraziun da datas persunalas**[^85a-1]
+
+Ils organs ch’èn incumbensads da realisar, da controllar u da survegliar la realisaziun da questa lescha èn autorisads d’elavurar u da laschar elavurar las datas da persunas, inclusiv las datas spezialmain sensiblas ed ils profils da la persunalitad, ch’els dovran per ademplir las incumbensas confidadas ad els tenor questa lescha, numnadamain per:[^85a-2]
+
+- a. calcular ed incassar las contribuziuns d’assicuranza;
+- b. giuditgar dretgs da prestaziuns sco er calcular, garantir e coordinar talas cun prestaziuns d’autras assicuranzas socialas;
+- c. far valair il dretg da prender regress sin ina terza persuna responsabla;
+- d. exequir la surveglianza davart la realisaziun da questa lescha;
+- e. far statisticas;
+- f.[^85a-3] attribuir il numer d’assicuranza da la AVS u verifitgar tal.
+
+[^85a-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^85a-2]: Versiun tenor la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-3]: Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+
+#### Art. 85b
+
+**Invista da las actas**[^85b-1]
+
+<sup>1</sup>
+
+Sch’ils interess privats predominants restan garantids, han il dretg da prender invista da las actas:
+
+- a. la persuna assicurada, per las datas che concernan ella sezza;
+- b. persunas che han in dretg u in’obligaziun tenor questa lescha, per quellas datas ch’èn necessarias per far valair il dretg u per ademplir l’obligaziun;
+- c. persunas ed instituziuns, a las qualas stat a disposiziun in med legal cunter ina disposiziun decretada sin basa da questa lescha, per las datas ch’èn necessarias per exequir quest dretg;
+- d. autoritads ch’èn cumpetentas per recurs cunter disposiziuns decretadas sin basa da questa lescha, per las datas ch’èn necessarias per ademplir questa incumbensa;
+- e. la persuna responsabla e ses assicurader, per las datas ch’èn necessarias per giuditgar in dretg dal provediment professiunal da prender regress.
+
+<sup>2</sup> Sch’i sa tracta da datas da sanadad che pudessan avair consequenzas negativas per la sanadad da la persuna che ha il dretg da prender invista, en cas ch’ellas vegnan rendidas enconuschentas, poi vegnir pretendì da questa persuna ch’ella designeschia in medi che renda enconuschent questas datas ed ella.
+
+[^85b-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+
+#### Art. 86
+
+**Obligaziun da discreziun**[^86-1]
+
+Persunas ch’èn incumbensadas da realisar sco er da controllar u da survegliar la realisaziun da questa lescha, ston mantegnair discreziun envers terzas persunas.
+
+[^86-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+
+#### Art. 86a
+
+**Communicaziun da las datas**[^86a-1]
+
+<sup>1</sup>
+
+Sche nagins interess privats predominants n’impedeschan quai, dastgan vegnir communitgadas datas en il cas singul e sin ina dumonda en scrit e motivada a:
+
+- a. autoritads d’agid social, sch’ellas èn necessarias per determinar, midar u pretender enavos prestaziuns respectivamain per impedir retratgas betg giustifitgadas;
+- b. dretgiras civilas, sch’ellas èn necessarias per giuditgar ina dispita da dretg da famiglia u d’ierta;
+- c. dretgiras penalas ed autoritads d’inquisiziun penala, sch’ellas èn necessarias per sclerir in crim u in delict;
+- d. uffizis da scussiun, tenor ils artitgels 91, 163 e 222 da la Lescha federala dals 11 d’avrigl 1889[^86a-2] davart scussiun e concurs;
+- e. autoritads da taglia, sch’ellas sa refereschan al pajament da prestaziuns dal provediment professiunal e sch’ellas èn necessarias per applitgar las leschas da taglia;
+- f.[^86a-3] las autoritads per la protecziun d’uffants e da creschids tenor l’artitgel 448 alinea 4 CCS[^86a-4];
+- g.[^86a-5] ...
+
+<sup>2</sup>
+
+Sche nagins interess privats predominants n’impedeschan quai, dastgan vegnir communitgadas datas:
+
+- a. ad auters organs ch’èn incumbensads da realisar sco er da controllar u da survegliar la realisaziun da questa lescha, sch’ellas èn necessarias per ademplir las incumbensas surdadas ad els tras questa lescha;
+- b. ad organs d’ina autra assicuranza sociala, sch’ina obligaziun da render enconuschentas questas datas resulta tras ina lescha federala;
+- b<sup>bis</sup>.[^86a-6] ad organs d’ina autra assicuranza sociala per attribuir u per verifitgar il numer d’assicuranza da la AVS;
+- c. a las autoritads cumpetentas per la taglia a la funtauna, tenor ils artitgels 88 e 100 da la Lescha federala dals 14 da december 1990[^86a-7] davart la taglia federala directa sco er tenor las disposiziuns chantunalas respectivas;
+- d. als organs da la statistica federala, tenor la Lescha da statistica dals 9 d’october 1992[^86a-8];
+- e. a las autoritads d’inquisiziun penala, sche la denunzia u l’impediment d’in crim pretenda quai;
+- f.[^86a-9] a l’uffizi da la AI per la registraziun tempriva tenor l’artitgel 3*b* LAI[^86a-10] u en il rom da la collavuraziun interinstituziunala tenor l’artitgel 68<sup>bis</sup> LAI ed a las instituziuns d’assicuranza privatas tenor l’artitgel 68<sup>bis</sup> alinea 1 litera b LAI;
+- g.[^86a-11] al Servetsch d’infurmaziun da la Confederaziun (SIC) u als organs da segirezza dals chantuns per mauns dal SIC, sch’igl è avant maun ina smanatscha concreta per la segirezza interna u externa tenor l’artitgel 19 alinea 2 da la Lescha federala dals 25 da settember 2015[^86a-12] davart il servetsch d’infurmaziun.
+
+<sup>3</sup> Las datas dastgan er vegnir communitgadas a l’autoritad da taglia responsabla en il rom da la procedura d’annunzia tenor l’artitgel 19 da la Lescha federala dals 13 d’october 1965[^86a-13] davart la taglia anticipada.
+
+<sup>4</sup> Las datas ch’èn d’interess general e che sa refereschan a l’applicaziun da questa lescha, dastgan vegnir publitgadas. L’anonimitad da las persunas assicuradas sto restar garantida.
+
+<sup>5</sup>
+
+En ils ulteriurs cas dastgan datas vegnir communitgadas a terzas persunas sco suonda:
+
+- a. datas che na sa refereschan betg a persunas, sche la communicaziun correspunda ad in interess predominant;
+- b. datas da persunas, sche la persuna pertutgada ha dà ses consentiment en scrit en il cas singul u, sch’i n’è betg pussaivel d’obtegnair il consentiment, sch’i dastga vegnir premess tenor las circumstanzas che lur communicaziun saja en l’interess da la persuna assicurada.
+
+<sup>6</sup> I dastgan vegnir communitgadas mo las datas ch’èn necessarias per l’intent che stat en dumonda.
+
+<sup>7</sup> Il Cussegl federal regla las modalitads da la communicaziun e da l’infurmaziun da la persuna pertutgada.
+
+<sup>8</sup> Per regla vegnan las datas communitgadas en scrit e gratuitamain. Il Cussegl federal po prevair l’incassament d’ina taxa, sch’i ston vegnir fatgas lavurs che dovran spezialmain bler temp.
+
+[^86a-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^86a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^86a-3]: Integrà tras la cifra 27 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg d’uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^86a-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^86a-5]: Integrà tras la cifra 10 da l’agiunta da la LF dals 23 da dec. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abolì tras la cifra II 16 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, cun effect dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-6]: Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^86a-7]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^86a-8]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^86a-9]: Integrà tras la cifra 5 da l’agiunta da la LF dals 6 d’oct. 2006 (5. revisiun da la AI), en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^86a-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^86a-11]: Integrà tras la cifra 10 da l’agiunta da la LF dals 23 da dec. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Versiun tenor la cifra II 16 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, en vigur dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-12]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^86a-13]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+#### Art. 86b
+
+**Infurmaziun da las persunas assicuradas**[^86b-1]
+
+<sup>1</sup>
+
+L’instituziun da provediment sto infurmar annualmain sias persunas assicuradas en furma adattada davart:
+
+- a. ils dretgs da prestaziuns, il salari coordinà, la tariffa da contribuziun ed il dabun da vegliadetgna;
+- b. l’organisaziun e la finanziaziun;
+- c. ils commembers da l’organ paritetic tenor l’artitgel 51.
+
+<sup>2</sup> Sin dumonda sto vegnir consegnà il quint annual ed il rapport annual a las persunas assicuradas. Ultra da quai sto l’instituziun da provediment dar ad ellas sin dumonda infurmaziuns davart il retgav da chapital, davart l’andament da las ristgas tecnicas d’assicuranza, davart ils custs d’administraziun, davart la calculaziun dal chapital da garanzia, davart la constituziun da reservas sco er davart il grad da cuvrida.
+
+<sup>3</sup> Instituziuns collectivas e cuminaivlas ston orientar l’organ paritetic sin dumonda davart contribuziuns che ston anc vegnir pajadas dal patrun. L’instituziun da provediment sto orientar da sai anora l’organ paritetic, sche contribuziuns reglamentaras n’èn betg anc vegnidas transferidas entaifer 3 mais suenter il termin da pajament fixà.
+
+<sup>4</sup> L’artitgel 75 è applitgabel.
+
+[^86b-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), al. 2 en vigur dapi il 1. d’avr. 2004, las ulteriuras disposiziuns dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 87
+
+**Agid uffizial ed administrativ**[^87-1]
+
+Las autoritads administrativas e las autoritads da la giurisdicziun da la Confederaziun, dals chantuns, dals districts, dals circuls e da las vischnancas sco er ils organs da las autras assicuranzas socialas communitgeschan als organs ch’èn incumbensads da realisar questa lescha – sin dumonda en scrit e motivada – en il cas singul gratuitamain quellas datas ch’èn necessarias per:
+
+- a. controllar l’affiliaziun dal patrun;
+- b. fixar, midar u pretender enavos prestaziuns;
+- c. impedir retratgas betg giustifitgadas;
+- d. fixar ed incassar las contribuziuns;
+- e. prender regress sin terzas persunas responsablas.
+
+[^87-1]: Versiun tenor la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+
+#### Art. 88
+
+[^88-1]
+
+[^88-1]: Abolì tras la cifra II 41 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 89
+
+[^89-1]
+
+[^89-1]: Abolì tras la cifra 10 da l’agiunta da la LF dals 9 d’oct. 1992 davart la statistica federala, cun effect dapi il 1. d’avust 1993 ([AS 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
+
+## 7. part**** Coordinaziun internaziunala****
+
+[^part7-1][^part7-2]
+
+[^part7-1]: Integrà tras la cifra I 7 da la LF dals 8 d’oct. 1999 tar la Cunvegna tranter la Confederaziun svizra e la Communitad europeica cun ses stadis commembers davart la libra circulaziun da persunas ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^part7-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+
+#### Art. 89a
+
+**Champ d’applicaziun**[^89a-1]
+
+<sup>1</sup>
+
+Per las persunas, per las qualas valan u valevan las prescripziuns giuridicas da la segirezza sociala da la Svizra ubain d’in u da plirs stadis commembers da l’Uniun europeica e ch’èn burgaisas da la Svizra u d’in stadi commember da l’Uniun europeica, per fugitivs u per persunas senza naziunalitad cun domicil en Svizra u en in stadi commember da l’Uniun europeica sco er per lur confamigliars e per ils survivents da questas persunas pon vegnir applitgads – areguard las prestaziuns en il champ d’applicaziun da questa lescha – ils suandants decrets en la versiun ch’è lianta per la Svizra da l’agiunta II, secziun A da la Cunvegna dals 21 da zercladur 1999[^89a-2] tranter la Confederaziun svizra d’ina vart e l’Uniun europeica e ses stadis commembers da l’autra vart davart la libra circulaziun da persunas (Cunvegna davart la libra circulaziun):
+
+- a. Ordinaziun (CE) nr. 883/2004[^89a-3];
+- b. Ordinaziun (CE) nr. 987/2009[^89a-4];
+- c. Ordinaziun (CEE) nr. 1408/71[^89a-5];
+- d. Ordinaziun (CEE) nr. 574/72[^89a-6].
+
+<sup>2</sup>
+
+Per persunas, per las qualas valan u valevan las prescripziuns giuridicas da la segirezza sociala da la Svizra, da l’Islanda, dal Liechtenstein u da la Norvegia e ch’èn burgaisas da la Svizra, da l’Islanda, dal Liechtenstein u da la Norvegia u vivan sco fugitivs u sco persunas senza naziunalitad en Svizra u en il territori da l’Islanda, dal Liechtenstein u da la Norvegia, sco er per lur confamigliars e per ils survivents da questas persunas pon vegnir applitgads – areguard las prestaziuns en il champ d’applicaziun da questa lescha – ils suandants decrets en la versiun ch’è lianta per la Svizra da l’appendix 2 tar l’agiunta K da la Convenziun dals 4 da schaner 1960[^89a-7] per la fundaziun da l’Associaziun europeica da commerzi liber (Convenziun da la AECL):
+
+- a. Ordinaziun (CE) nr. 883/2004;
+- b. Ordinaziun (CE) nr. 987/2009;
+- c. Ordinaziun (CEE) nr. 1408/71;
+- d. Ordinaziun (CEE) nr. 574/72.
+
+<sup>3</sup> Il Cussegl federal adatta mintgamai ils renviaments als acts giuridics da l’Uniun europeica menziunads en ils alineas 1 e 2, sch’ina adattaziun da l’agiunta II da la Cunvegna davart la libra circulaziun e da l’appendix 2 tar l’agiunta K da la Convenziun da la AECL è vegnida concludida.
+
+<sup>4</sup> Las noziuns «stadis commembers da l’Uniun europeica», «stadis commembers da la Communitad europeica», «stadis da l’Uniun europeica» e «stadis da la Communitad europeica» en la lescha qua avant maun designeschan ils stadis, per ils quals vala la Cunvegna davart la libra circulaziun.
+
+[^89a-1]: Versiun tenor la cifra 4 da l’agiunta dal COF dals 17 da zer. 2016 (extensiun da la Cunvegna davart la libra circulaziun sin la Republica da la Croazia), en vigur dapi il 1. da schan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^89a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^89a-3]: Ordinaziun (CE) nr. 883/2004 dal Parlament europeic e dal Cussegl dals 29 d’avr. 2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
+[^89a-4]: Ordinaziun (CE) nr. 987/2009 dal Parlament europeic e dal Cussegl dals 16 da sett. 2009 concernent la fixaziun da las modalitads per realisar l’O (CE) nr. 883/2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^89a-5]: Ordinaziun (CEE) nr. 1408/71 dal Cussegl dals 14 da zer. 1971 concernent l’applicaziun dals sistems da la segirezza sociala sin ils lavurants, sin las persunas cun activitad da gudogn independenta sco er sin lur famiglias che immigreschan ed emigreschan entaifer la Communitad; mintgamai en la versiun valaivla da la Cunvegna davart la libra circulaziun da persunas ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) resp. da la cunvegna revedida da la AECL.
+[^89a-6]: Ordinaziun (CEE) nr. 574/72 dal Cussegl dals 21 da mars 1972 davart l’execuziun da l’O (CEE) nr. 1408/71 concernent l’applicaziun dals sistems da la segirezza sociala sin ils lavurants, sin las persunas cun activitad da gudogn independenta sco er sin lur famiglias che immigreschan ed emigreschan entaifer la Communitad; mintgamai en la versiun valaivla da la Cunvegna davart la libra circulaziun da persunas ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) resp. da la cunvegna revedida da la AECL.
+[^89a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+#### Art. 89b
+
+**Tractament egual**
+
+<sup>1</sup> Persunas che vivan en Svizra u en il territori d’in stadi commember da la Communitad europeica e per las qualas vala l’artitgel 89*a* alinea 1, han, sche la Cunvegna davart la libra circulaziun[^89b-1] na prevesa betg insatge auter, ils medems dretgs e las medemas obligaziuns sin basa da questa lescha sco burgais svizzers.
+
+<sup>2</sup> Persunas che vivan en Svizra, en l’Islanda, en il Liechtenstein u en la Norvegia e per las qualas vala l’artitgel 89*a* alinea 2, han, sche la Convenziun da la AECL revedida[^89b-2] na prevesa betg insatge auter, ils medems dretgs e las medemas obligaziuns sin basa da questa lescha sco burgais svizzers.
+
+[^89b-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^89b-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+#### Art. 89c
+
+**Scumond da clausulas da domicil**
+
+Il dretg sin prestaziuns en daners ch’exista tenor questa lescha na dastga:
+
+- a. sche la Cunvegna davart la libra circulaziun[^89c-1] na prevesa betg insatge auter, betg vegnir reducì, midà, suspendì, retratg u sequestrà, perquai che la persuna, che ha il dretg sin questas prestaziuns, viva en il territori d’in stadi commember da la Communitad europeica;
+- b. sche la Convenziun da la AECL revedida[^89c-2] na prevesa betg insatge auter, betg vegnir reducì, midà, suspendì, retratg u sequestrà, perquai che la persuna, che ha il dretg sin questas prestaziuns, viva en il territori da l’Islanda, dal Liechtenstein u da la Norvegia.
+
+[^89c-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^89c-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+#### Art. 89d
+
+**Calculaziun da las prestaziuns**
+
+Las prestaziuns cumpigliadas dal champ d’applicaziun da questa lescha vegnan calculadas exclusivamain sin basa da las disposiziuns da tala.
+
+#### Art. 89e
+
+**Applitgabladad da la LPGA**[^89e-1]
+
+Ils artitgels 32 alinea 3 e 75*a*–75*c* LPGA[^89e-2] èn applitgabels per il provediment professiunal.
+
+[^89e-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 21 da zer. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^89e-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+## 8. part**** Disposiziuns finalas
+
+[^part8-1]
+
+[^part8-1]: Oriundamain: settavla part.
+
+### 1. titel Midada da leschas federalas
+
+#### Art. 90
+
+Las midadas dal dretg federal vertent sa chattan en l’agiunta; quella è ina part integrala da questa lescha.
+
+### 2. titel Disposiziuns transitoricas
+
+#### Art. 91
+
+**Garanzia dals dretgs acquistads**
+
+Questa lescha na pertutga betg ils dretgs da las persunas assicuradas, ch’ellas han acquistà avant che la lescha è entrada en vigur.
+
+#### Art. 92–94
+
+[^9294-1]
+
+[^9294-1]: Abolì tras la cifra II 41 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 95
+
+**Ordinaziun transitorica per las bunificaziuns da vegliadetgna**
+
+Durant ils 2 emprims onns suenter l’entrada en vigur da la lescha valan las suandantas tariffas minimalas per calcular las bunificaziuns da vegliadetgna:
+
+<table>
+<tr><th>Onn da vegliadetgna</th><th></th><th>Tariffa en pertschients dal salari coordinà</th></tr>
+<tr><th>umens</th><th>dunnas</th><th></th></tr>
+<tr><td>25**–**34</td><td>25**–**31</td><td>7</td></tr>
+<tr><td>35**–**44</td><td>32**–**41</td><td>10</td></tr>
+<tr><td>45**–**54</td><td>42**–**51</td><td>11</td></tr>
+<tr><td>55**–**65</td><td>52**–**62</td><td>13</td></tr>
+</table>
+
+#### Art. 96
+
+[^96-1]
+
+[^96-1]: Abolì tras la cifra II 41 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 96a
+
+[^96a-1]
+
+[^96a-1]: Integrà tras la cifra I 10 da la LF dals 19 da mars 1999 davart il program da stabilisaziun 1998 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4). Abolì tras la cifra II 41 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+### 3. titel Execuziun ed entrada en vigur
+
+#### Art. 97
+
+**Execuziun**
+
+<sup>1</sup> Il Cussegl federal surveglia l’applicaziun da la lescha e prenda las mesiras per realisar il provediment professiunal.
+
+<sup>1bis</sup> Il Cussegl federal decretescha prescripziuns davart la realisaziun da retschertgas e davart la publicaziun d’infurmaziuns che servan a controllar l’applicaziun sco er ad evaluar l’effect da questa lescha. En quest connex ston vegnir analisads en spezial l’organisaziun e la finanziaziun da las instituziuns da provediment, las prestaziuns e lur retschaviders sco er la contribuziun dal provediment professiunal al mantegniment dal nivel da viver anteriur.[^97-1]
+
+<sup>2</sup> Ils chantuns decreteschan las disposiziuns executivas. ...[^97-2]
+
+<sup>3</sup> Ils chantuns communitgeschan las prescripziuns executivas al Departament federal da l’intern.[^97-3]
+
+[^97-1]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^97-2]: Abolì la frasa tras la cifra II 41 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^97-3]: Versiun tenor la cifra II 411 da la LF dals 15 da dec. 1989 davart l’approvaziun da decrets chantunals tras la Confederaziun, en vigur dapi il 1. da favr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+
+#### Art. 98
+
+**Entrada en vigur**
+
+<sup>1</sup> Questa lescha è suttamessa al referendum facultativ.
+
+<sup>2</sup> Il Cussegl federal fixescha il termin che questa lescha entra en vigur e resguarda en quest connex en spezial las relaziuns socialas ed economicas. Singulas prescripziuns po el metter en vigur avant quest termin.
+
+<sup>3</sup> Las prescripziuns da l’artitgel 81 alineas 2 e 3 e dals artitgels 82 ed 83 ston vegnir messas en vigur entaifer 3 onns suenter l’entrada en vigur da questa lescha.
+
+<sup>4</sup> Data da l’entrada en vigur:[^98-1] 1. da schaner 1985 Art. 54, 55, 61, 63, 64 e 97: 1. da fanadur 1983 Art. 48 e 93: 1. da schaner 1984 Art. 60: 1. da fanadur 1984 Art. 81 al. 2 e 3, 82 ed 83: 1. da schaner 1987
+
+L’artitgel 83 na vegn betg applitgà per rentas e per cumpensaziuns en chapital or d’instituziuns da provediment u da furmas da provediment en il senn dals artitgels 80 ed 82 che:
+
+- a. cumenzan a currer u ston vegnir pajadas avant l’entrada en vigur da l’artitgel 83; u
+- b. cumenzan a currer u ston vegnir pajadas entaifer 15 onns dapi l’entrada en vigur da l’artitgel 83 e sa basan sin ina relaziun da provediment ch’exista gia tar l’entrada en vigur.
+
+[^98-1]: Art. 1 da l’O dals 29 da zer. 1983 ([AS 1983 827](https://fedlex.data.admin.ch/eli/oc/1983/827_827_827)).
+
+## Disposiziuns transitoricas da la midada dals 21 da zercladur 1996****
+
+[^u1-1]
+
+[^u1-1]: [AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067). Abolì tras la cifra II 41 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+## Disposiziuns transitoricas da la midada dals 3 d’october 2003 (1. revisiun da la LPP)****
+
+[^u2-1]
+
+[^u2-1]: [AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)
+
+### a. Rentas currentas da vegliadetgna, per survivents e d’invaliditad
+
+<sup>1</sup> Per rentas da vegliadetgna, per survivents e d’invaliditad che vegnan pajadas il mument da l’entrada en vigur da questa midada da lescha, vala vinavant il dretg vertent per la tariffa da conversiun.
+
+<sup>2</sup> Rentas da vegliadetgna, per survivents e d’invaliditad che curran il mument da l’entrada en vigur da questa midada da lescha, vegnan adattadas tenor l’artitgel 36 al svilup dals pretschs.
+
+<sup>3</sup> L’artitgel 21 alinea 2 vegn er applitgà per rentas per vaivs e per orfens che resultan tar la mort d’ina persuna assicurada, che retira gia ina renta da vegliadetgna u d’invaliditad, il mument che questa midada da lescha entra en vigur.
+
+### b. Tariffa da conversiun minimala
+
+<sup>1</sup> Il Cussegl federal fixescha la tariffa da conversiun minimala per las persunas assicuradas da quellas annadas che cuntanschan la vegliadetgna ordinaria da renta entaifer 10 onns suenter l’entrada en vigur da questa midada da lescha. En quest interval da temp reducescha el la tariffa da conversiun minimala fin a 6,8 pertschient.
+
+<sup>2</sup> Uschè ditg ch’i valan differentas vegliadetgnas da renta ordinarias per dunna ed um, po er la tariffa da conversiun minimala per onn esser differenta.
+
+<sup>3</sup> Il Cussegl federal regla per las rentas d’invaliditad:
+
+- a. la calculaziun da las bunificaziuns da vegliadetgna e dal salari coordinà per ils onns che suondan il termin da l’entrada en vigur da questa midada da lescha;
+- b. la tariffa da conversiun minimala applitgabla.
+
+### c. Bunificaziuns da vegliadetgna
+
+Per calcular las bunificaziuns da vegliadetgna vala la tariffa da 18 pertschient per las suandantas vegliadetgnas da renta da las dunnas[^u2-lvlc-1]:
+
+<table>
+<tr><th>Onns suenter l’entrada en vigur</th><th>vegliadetgna da renta da la dunna</th></tr>
+<tr><td>main che 2</td><td>63</td></tr>
+<tr><td>a partir da 2, ma main che 6</td><td>64</td></tr>
+<tr><td>6 e dapli</td><td>65</td></tr>
+</table>
+
+[^u2-lvlc-1]: Dapi il 1. da schan. 2005 per dunnas: onn da vegliadetgna 55–64 (art. 62*a* al. 2 lit. b da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 18 d’avust 2004 –[AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+
+### d. Largias da cuvrida
+
+A las instituziuns da provediment tenor l’artitgel 1 alinea 2 LFLP[^u2-lvld-1] serra il fond da garanzia – entaifer 5 onns dapi l’entrada en vigur da questa midada da lescha – ina largia da cuvrida ch’è resultada per ellas cun applitgar questa midada da lescha e che na po betg vegnir cuvrida autramain sin basa da la structura finanziala speziala da l’instituziun da provediment.
+
+[^u2-lvld-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+### e. Coordinaziun cun la 11. revisiun da la AVS
+
+Tar l’auzament da la vegliadetgna ordinaria da renta da las dunnas (art. 13), tar la tariffa da conversiun (art. 14 e disposiziun transitorica lit. b) e tar las tariffas per las bunificaziuns da vegliadetgna (art. 16) fa il Cussegl federal adattaziuns ch’èn – pervia da l’entrada en vigur da la 11. revisiun da la AVS – daventadas necessarias per in termin pli tard ch’il 1. da schaner 2003, ed el vegn a far las adattaziuns necessarias, sch’il dretg da las dunnas sin prestaziuns da vegliadetgna cun il 65. onn da vegliadetgna na resulta betg l’onn 2009.
+
+### f. Rentas d’invaliditad
+
+<sup>1</sup> Las rentas d’invaliditad che han cumenzà a currer avant l’entrada en vigur da questa midada da lescha, èn suttamessas al dretg vertent.
+
+<sup>2</sup> Durant 2 onns a partir da l’entrada en vigur da questa midada da lescha suttastattan las rentas d’invaliditad anc al dretg che valeva tenor l’artitgel 24 en la versiun dals 25 da zercladur 1982[^u2-lvlf-1].
+
+<sup>3</sup> Sch’il grad d’invaliditad sa reducescha, en cas ch’ina renta currenta vegn revedida, vegn applitgà per questa renta anc il dretg vertent.
+
+<sup>4</sup> Las rentas d’invaliditad da trais quarts vegnan introducidas pir suenter l’entrada en vigur da la 4. revisiun da la LAI dals 21 da mars 2003[^u2-lvlf-2].
+
+<sup>5</sup> Rentas che resultan 2 onns suenter l’entrada en vigur da questa midada da lescha e che resultan sin basa da l’alinea 4 anc sco rentas entiras, vegnan midadas – cur che la 4. revisiun da la LAI entra en vigur – en rentas da trais quarts, e quai en quella dimensiun, sco ch’ellas daventan rentas da trais quarts er en l’assicuranza d’invaliditad.
+
+[^u2-lvlf-1]: [AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)
+[^u2-lvlf-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+## Disposiziuns transitoricas da la midada dals 11 da december 2009****
+
+[^u3-1]
+
+[^u3-1]: [AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)
+
+Coordinaziun da la vegliadetgna da renta
+
+<sup>1</sup> Sche la 11. revisiun da la AVS[^u3-2] n’entra betg en vigur il pli tard il medem mument sco questa midada da lescha, fa il Cussegl federal las adattaziuns necessarias tar la vegliadetgna da renta sco er tar la retratga anticipada e tar la suspensiun da la prestaziun da vegliadetgna.
+
+<sup>2</sup> Sche la midada dals 19 da december 2008 da la LPP (tariffa da conversiun minimala)[^u3-3] n’entra betg en vigur il pli tard il medem mument sco questa midada da lescha, fa il Cussegl federal las adattaziuns necessarias tar la vegliadetgna da renta.
+
+[^u3-2]: Nova versiun, emprima missiva [BBl 2006 1957](https://fedlex.data.admin.ch/eli/fga/2006/191)
+[^u3-3]: [BBl 2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)
+
+## Disposiziun transitorica da la midada dals 19 da mars 2010 (refurma structurala)****
+
+[^u4-1]
+
+[^u4-1]: [AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)
+
+Las instituziuns da provediment che stattan sut la surveglianza da la Confederaziun il mument che questa midada entra en vigur, dastgan restar sut la surveglianza da la Confederaziun durant maximalmain 3 onns suenter l’entrada en vigur da questa midada.
+
+## Disposiziuns transitoricas da la midada dals 17 da december 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public)****
+
+[^u5-1]
+
+[^u5-1]: [AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)
+
+### a. Disposiziun dals grads da cuvrida da partenza
+
+L’organ suprem da l’instituziun da provediment determinescha entaifer 2 onns suenter l’entrada en vigur da questa midada ils grads da cuvrida da partenza tenor l’artitgel 72*a* alinea 1 litera b.
+
+### b. Furma giuridica da las instituziuns da provediment
+
+Las instituziuns da provediment registradas che han – il mument che questa midada entra en vigur – la furma giuridica d’ina associaziun, dastgan mantegnair questa furma giuridica fin ch’ellas vegnan liquidadas u transfurmadas en ina fundaziun. Sin ellas vegnan applitgadas subsidiarmain las disposiziuns davart l’associaziun tenor ils artitgels 828–926 DO[^u5-lvlb-1].
+
+[^u5-lvlb-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### c. Grad da cuvrida insuffizient
+
+<sup>1</sup> Las instituziuns da provediment da corporaziuns da dretg public che sutpassan il grad da cuvrida minimal tenor l’artitgel 72*a* alinea 1 litera c, suttamettan a l’autoritad da surveglianza mintga 5 onns in plan che mussa co ch’ellas cuntanschan il grad da cuvrida minimal il pli tard entaifer 40 onns a partir da l’entrada en vigur da questa midada.
+
+<sup>2</sup> Sch’il grad da cuvrida sa chatta sut 60 pertschient a partir dal 1. da schaner 2020 e sut 75 pertschient a partir dal 1. da schaner 2030, pajan las corporaziuns da dretg public a lur instituziuns da provediment il tschains tenor l’artitgel 15 alinea 2 sin la differenza.
+
+## Disposiziun finala da la midada dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras)****
+
+[^u6-1]
+
+[^u6-1]: [AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)
+
+Verificaziun da las rentas ch’èn vegnidas concedidas sin basa d’in sindrom senza patogenesa u eziologia clera e senza ina basa organica cumprovabla
+
+Sch’ina renta da l’assicuranza d’invaliditad vegn reducida u abolida en applicaziun da la litera *a* da las disposiziuns finalas da la midada dals 18 da mars 2011 da la LAI[^u6-2], sa reducescha u finescha il dretg da la persuna assicurada sin prestaziuns d’invaliditad dal provediment professiunal en divergenza da l’artitgel 26 alinea 3 da questa lescha per il termin, a partir dal qual la persuna assicurada survegn ina renta reducida da l’assicuranza d’invaliditad u na survegn nagina tala renta pli. Questa disposiziun vala per tut las relaziuns da provediment en il senn da l’artitgel 1 alinea 2 LFLP[^u6-3]. La persuna assicurada ha il dretg sin ina prestaziun d’extrada tenor l’artitgel 2 alinea 1<sup>ter</sup> LFLP il mument che sia renta d’invaliditad vegn abolida u reducida.
+
+[^u6-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^u6-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+## Disposiziun transitorica da la midada dals 22 da mars 2019**** (art. 47*a*)****
+
+[^u7-1][^u7-2]
+
+[^u7-1]: [AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)
+[^u7-2]: [AS 2020 3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [BBl 2020 6563](https://fedlex.data.admin.ch/eli/fga/2020/1669)
+
+Persunas assicuradas che ston sortir da l’assicuranza obligatorica suenter ils 31 da fanadur 2020 sco er suenter la cumplenida dal 58. onn da vegliadetgna, perquai che la relaziun da lavur è vegnida schliada dal patrun, pon dumandar – a partir dal 1. da schaner 2021 – la cuntinuaziun da lur assicuranza tenor l’artitgel 47*a*.
+
+Agiunta
+
+## Midada da decrets federals
+
+...[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Las midadas pon vegnir consultadas en la [AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797).

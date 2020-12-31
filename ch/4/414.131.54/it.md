@@ -1,0 +1,266 @@
+---
+sr: "414.131.54"
+title: "Ordinanza del PF di Zurigo del 14 novembre 2017 sulle limitazioni dell'ammissione al ciclo di studi bachelor in medicina umana del PF di Zurigo (Ordinanza sulle limitazioni dell'ammissione al bachelor in medicina del PF di Zurigo)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
+language: it
+version: 2018-01-01
+adopted: 2017-11-14
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-728-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del PF di Zurigo sulle limitazioni dell’ammissione al ciclo di studi bachelor in medicina umana del PF di Zurigo
+
+(Ordinanza sulle limitazioni dell’ammissione al bachelor in medicina del PF di Zurigo)
+
+del 14 novembre 2017 (Stato 1° gennaio 2018)
+
+La Direzione del PF di Zurigo (Direzione),
+
+visto l’articolo 16*a* capoverso 5 della legge del 4 ottobre 1991[^ingress-1] sui PF; vista la decisione del Consiglio dei PF del 7/8 dicembre 2016[^ingress-2] sulla limitazione dell’ammissione degli studenti al ciclo di studi bachelor in medicina umana del PF di Zurigo,
+
+ordina:
+
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-2]: [FF 2017 132](https://fedlex.data.admin.ch/eli/fga/2017/24)
+
+## Sezione 1: Altro diritto applicabile
+
+#### Art. 1
+
+Salvo disposizioni particolari della presente ordinanza, l’ammissione al ciclo di studi bachelor in medicina umana del PF di Zurigo è disciplinata dall’ordinanza del 30 novembre 2010[^1-1] sull’ammissione al PF di Zurigo.
+
+[^1-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+
+## Sezione 2: Condizioni di ammissione e ostacoli generali all’ammissione
+
+#### Art. 2
+
+**Stranieri ammessi in via di principio**
+
+<sup>1</sup>
+
+I candidati di cittadinanza straniera possono essere ammessi al ciclo di studi bachelor in medicina umana e, di conseguenza, al test attitudinale di cui all’articolo 8 soltanto se appartengono a una delle seguenti categorie:
+
+- a. cittadini del Principato del Liechtenstein;
+- b. stranieri con permesso di domicilio in Svizzera o nel Principato del Liechtenstein;
+- c.
+
+  stranieri domiciliati in Svizzera:
+
+  - 1\. i cui genitori hanno un permesso di domicilio in Svizzera,
+  - 2\. sposati con un cittadino svizzero,
+  - 3\. il cui coniuge ha un permesso di domicilio in Svizzera da almeno cinque anni o possiede un permesso di lavoro svizzero da almeno cinque anni,
+  - 4\. che hanno un permesso di lavoro svizzero da almeno cinque anni,
+  - 5\. i cui genitori hanno un permesso di lavoro svizzero da almeno cinque anni, oppure
+  - 6\. che sono titolari di uno degli attestati di studi preuniversitari di cui all’articolo 23 capoverso 1 lettere a–b<sup>bis</sup> dell’ordinanza del 30 novembre 2010[^2-1] sull’ammissione al PF di Zurigo;
+
+- d. cittadini di uno Stato membro dell’Unione europea, dell’Islanda o della Norvegia che hanno un permesso di dimora UE/AELS in Svizzera con la menzione «attività lucrativa» e che possono attestare di aver esercitato per almeno un anno un’attività in una professione medica di cui all’articolo 2 della legge del 23 giugno 2006[^2-2] sulle professioni mediche;
+- e. i figli, a prescindere dalla loro nazionalità, di cittadini di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Liechtenstein che hanno un permesso di dimora in Svizzera in qualità di familiari di un cittadino UE/AELS;
+- f. i figli di persone con statuto diplomatico in Svizzera;
+- g. i rifugiati riconosciuti dalla Svizzera.
+
+<sup>2</sup> Gli stranieri di cui al capoverso 1 lettere a–f devono possedere i documenti che attestano il loro statuto di soggiorno o la loro cittadinanza, su cui si basa il loro diritto di ammissione agli studi di medicina, entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^2-3].
+
+<sup>3</sup>
+
+Chi intende essere ammesso come rifugiato riconosciuto secondo il capoverso 1 lettera g:
+
+- a. deve aver presentato domanda d’asilo in Svizzera entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^2-4]; e
+- b. se ha ottenuto un posto di studio al PF di Zurigo, deve essere stato riconosciuto come rifugiato al più tardi il venerdì della seconda settimana del primo semestre[^2-5].
+
+[^2-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^2-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^2-3]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+[^2-4]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+[^2-5]: La seconda settimana del primo semestre è la 39<sup>a</sup> settimana civile.
+
+#### Art. 3
+
+**Attestati di studi preuniversitari richiesti**
+
+Possono iscriversi agli studi di medicina e, di conseguenza, al test attitudinale di cui all’articolo 8 soltanto i candidati che possiedono uno dei seguenti attestati di studi preuniversitari:
+
+- a. un attestato svizzero di studi preuniversitari di cui all’articolo 23 capoverso 1 lettere a–d e f dell’ordinanza del 30 novembre 2010[^3-1] sull’ammissione al PF di Zurigo;
+- b. un attestato estero di formazione liceale che dà diritto all’ammissione senza esame ai cicli di studio bachelor del PF di Zurigo secondo gli articoli 24 e 25 dell’ordinanza sull’ammissione al PF di Zurigo, eventualmente in combinazione con l’attestato di superamento dell’esame ridotto del PF di Zurigo secondo l’articolo 28 di tale ordinanza.
+
+[^3-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+
+#### Art. 4
+
+**Ostacolo all’ammissione: esame di ammissione**
+
+Non sono ammesse al ciclo di studi bachelor in medicina umana le persone per le quali l’ammissione ai cicli di studio bachelor del PF di Zurigo è subordinata:
+
+- a. al superamento dell’esame completo di cui all’articolo 29 dell’ordinanza del 30 novembre 2010[^4-1] sull’ammissione al PF di Zurigo; oppure
+- b. al superamento dell’esame ridotto, se l’esame non è stato superato entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^4-2].
+
+[^4-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^4-2]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+
+#### Art. 5
+
+**Ostacolo all’ammissione: esclusione dagli studi**
+
+Non sono ammesse al ciclo di studi bachelor in medicina umana le persone che al PF di Zurigo o presso un’altra scuola universitaria sono state escluse definitivamente da un ciclo di studi in medicina umana, odontoiatria o chiropratica.
+
+## Sezione 3: Iscrizione e test attitudinale
+
+#### Art. 6
+
+**Iscrizione**
+
+<sup>1</sup> Chi intende iscriversi al ciclo di studi bachelor in medicina umana deve presentare la sua domanda all’organo competente della Conferenza svizzera dei rettori delle scuole universitarie entro il termine e nella forma[^6-1] prestabiliti da tale Conferenza.
+
+<sup>2</sup> Le domande d’iscrizione che non sono presentate entro il termine e nella forma prestabiliti non sono prese in considerazione.
+
+[^6-1]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+
+#### Art. 7
+
+**Presentazione degli attestati di studi preuniversitari**
+
+<sup>1</sup> Gli attestati svizzeri di studi preuniversitari devono essere presentati al più tardi il venerdì della seconda settimana del primo semestre[^7-1].
+
+<sup>2</sup> Gli attestati esteri di studi preuniversitari devono essere presentati – eventualmente insieme all’attestato di superamento dell’esame di ammissione ridotto al PF di Zurigo – entro l’ultimo giorno del termine d’iscrizione agli studi in medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^7-2].
+
+<sup>3</sup> L’attestato di conoscenza della lingua tedesca, se disponibile, deve essere presentato entro il venerdì che precede l’inizio del primo semestre[^7-3].
+
+[^7-1]: La seconda settimana del primo semestre è la 39<sup>a</sup> settimana civile.
+[^7-2]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+[^7-3]: Si tratta del venerdì prima della 37<sup>a</sup> settimana civile.
+
+#### Art. 8
+
+**Obbligo di partecipare al test attitudinale**
+
+Chi si è iscritto al ciclo di studi bachelor in medicina umana deve sostenere un test attitudinale per appurare la sua idoneità a seguire tali studi.
+
+#### Art. 9
+
+**Organizzazione e svolgimento del test attitudinale**
+
+L’organizzazione e lo svolgimento del test attitudinale sono retti dalla procedura stabilita dalla Conferenza svizzera dei rettori delle scuole universitarie[^9-1].
+
+[^9-1]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+
+#### Art. 10
+
+**Tassa per il test attitudinale**
+
+<sup>1</sup> Per il test attitudinale è riscossa una tassa conformemente all’ordinanza del 31 maggio 1995[^10-1] sulle tasse nel settore dei PF.
+
+<sup>2</sup> Chi non paga la tassa entro il termine stabilito non è ammesso al test attitudinale. In questo caso la domanda d’iscrizione è considerata revocata.
+
+[^10-1]: [RS 414.131.7](https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853)
+
+#### Art. 11
+
+**Comportamento sleale o disturbo durante l’esame**
+
+<sup>1</sup> Le sanzioni in caso di comportamento sleale durante l’esame o di disturbo del suo corretto svolgimento si basano sulle disposizioni pertinenti della Conferenza svizzera dei rettori delle scuole universitarie. Queste disposizioni sono comunicate per scritto ai candidati e rammentate a voce in occasione del test attitudinale.
+
+<sup>2</sup> I candidati che non accettano una sanzione e che hanno indicato il PF di Zurigo come luogo di studio di prima scelta possono chiedere ai servizi accademici del PF di Zurigo che sia emessa una decisione impugnabile.
+
+## Sezione 4: Assegnazione dei posti di studio e iscrizione
+
+#### Art. 12
+
+**Assegnazione dei posti e dei luoghi di studio**
+
+I posti e i luoghi di studio vengono assegnati secondo la procedura stabilita dalla Conferenza svizzera dei rettori delle scuole universitarie. Le informazioni sulla procedura sono comunicate ai candidati per scritto.
+
+#### Art. 13
+
+**Decisione di ammissione e di assegnazione**
+
+<sup>1</sup>
+
+Il rettore del PF di Zurigo comunica ai candidati:
+
+- a. che hanno indicato il PF di Zurigo come luogo di studio di prima scelta: la decisione di ammissione o non ammissione nonché la decisione di assegnazione al PF di Zurigo o di trasferimento a un’altra università;
+- b. che hanno indicato un’altra università come luogo di studio di prima scelta e a cui, a seguito di un trasferimento, è stato assegnato un posto di studio al PF di Zurigo: la decisione di assegnazione al PF di Zurigo.
+
+<sup>2</sup> Le decisioni sono notificate con decisione amministrativa.
+
+#### Art. 14
+
+**Accettazione del posto di studio e assegnazione di posti di studio divenuti liberi**
+
+<sup>1</sup> Le persone a cui è stato assegnato un posto di studio al PF di Zurigo e che intendono accettarlo devono presentare ai servizi accademici del PF di Zurigo una domanda d’iscrizione separata al ciclo di studi bachelor in medicina umana entro il termine e nella forma prestabiliti.
+
+<sup>2</sup> I servizi accademici stabiliscono il termine e la forma per la presentazione della domanda d’iscrizione nonché la procedura successiva. Le informazioni sono comunicate ai candidati per scritto.
+
+<sup>3</sup> L’assegnazione è valida solamente per gli studi di bachelor che iniziano lo stesso anno. Se l’iscrizione non è presentata entro il termine o nella forma prestabiliti, la decisione di assegnazione è considerata nulla. Il diritto a un posto di studio decade.
+
+<sup>4</sup> I posti di studio liberatisi secondo il capoverso 3 sono assegnati a candidati che hanno partecipato alla medesima tornata d’esame e che non hanno ancora ottenuto un posto di studio. L’assegnazione è retta dalla procedura stabilita dalla Conferenza svizzera dei rettori delle scuole universitarie. Le informazioni sulla procedura sono comunicate ai candidati per scritto.
+
+#### Art. 15
+
+**Ripetizione del test attitudinale e riutilizzazione dei risultati dell’anno precedente**
+
+<sup>1</sup> I candidati che non ottengono un posto di studio a causa dei risultati del test attitudinale possono reiscriversi agli studi di medicina e ripetere il test attitudinale. Contano unicamente i risultati dell’ultimo test.
+
+<sup>2</sup> Chi si reiscrive agli studi di medicina entro un anno dal sostenimento del test attitudinale può rinunciare a sostenerlo di nuovo. In questo caso i risultati del test dell’anno precedente sono convertiti in un valore calcolato in base alla scala applicata al test dell’anno corrente. Fa stato il valore calcolato in questo modo.
+
+<sup>3</sup> Alle persone che hanno perso il diritto a un posto di studio ai sensi dell’articolo 14 capoverso 3 si applicano per analogia i capoversi 1 e 2.
+
+## Sezione 5: Riammissione, passaggio a un altro ciclo di studi e cambiamento della scuola universitaria
+
+#### Art. 16
+
+**Riammissione al ciclo di studi bachelor in medicina umana**
+
+La riammissione al ciclo di studi bachelor in medicina umana al PF di Zurigo è possibile solamente se:
+
+- a. è stato superato l’esame di base nell’ambito del ciclo di studi bachelor in medicina umana;
+- b. è disponibile un posto di studio;
+- c. non è stata pronunciata un’esclusione dagli studi secondo l’articolo 5; e
+- d. sono soddisfatte le altre disposizioni pertinenti dell’ordinanza del 30 novembre 2010[^16-1] sull’ammissione al PF di Zurigo.
+
+[^16-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+
+#### Art. 17
+
+**Passaggio a un altro ciclo di studi**
+
+<sup>1</sup> Chi intende passare da un ciclo di studi del PF di Zurigo al ciclo di studi bachelor in medicina umana deve seguire l’intera procedura di ammissione conformemente alla presente ordinanza. Gli articoli 2–5 sono parimenti applicabili.
+
+<sup>2</sup> Il passaggio dal ciclo di studi bachelor in medicina umana a un altro ciclo di studi del PF di Zurigo è retto dalle disposizioni pertinenti dell’ordinanza del 30 novembre 2010[^17-1] sull’ammissione al PF di Zurigo.
+
+[^17-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+
+#### Art. 18
+
+**Cambiamento di scuola universitaria**
+
+Chi intende passare da un’altra scuola universitaria al ciclo di studi bachelor in medicina umana del PF di Zurigo deve seguire l’intera procedura di ammissione disciplinata dalla presente ordinanza. Gli articoli 2–5 sono parimenti applicabili.
+
+## Sezione 6: Ammissione al ciclo di studi master in medicina umana
+
+#### Art. 19
+
+<sup>1</sup> Ai titolari di un diploma bachelor in medicina del PF di Zurigo è garantita l’assegnazione di un posto di studio per un ciclo di studi master in medicina umana presso un’università con la quale il PF di Zurigo ha stipulato un accordo di rilevamento[^19-1]. Non sussiste alcun diritto a un posto di studio presso un’università determinata.
+
+<sup>2</sup> Le modalità relative alla domanda di ammissione a un ciclo di studi master in medicina umana e la procedura di assegnazione sono disciplinate nel regolamento del ciclo di studi bachelor in medicina umana.
+
+[^19-1]: Un elenco delle università con le quali il PF di Zurigo ha stipulato un accordo di rilevamento è pubblicato sul sito: www.hest.ethz.ch &gt; Studium &gt; Humanmedizin &gt; Master.
+
+## Sezione 7: Disposizioni finali
+
+#### Art. 20
+
+**Abrogazione di un altro atto normativo**
+
+La Zulassungsbeschränkungsverordnung Medizin ETH Zürich del 1° novembre 2016[^20-1] è abrogata.
+
+[^20-1]: Non è pubblicata nella RU.
+
+#### Art. 21
+
+**Entrata in vigore e durata di validità**
+
+La presente ordinanza entra in vigore il 1° gennaio 2018 con effetto sino al 31 gennaio 2024.

@@ -1,0 +1,232 @@
+---
+sr: "742.412"
+title: Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen (RSD)
+short: RSD
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
+language: de
+version: 2021-01-01
+adopted: 2012-10-31
+in_force: 2013-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen
+
+(RSD)
+
+vom 31. Oktober 2012 (Stand am 1. Januar 2021)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 5 Absatz 1, 20 Absatz 3 und 24 Absatz 1 des Gütertransportgesetzes vom 25. September 2015[^ingress-1] sowie auf Artikel 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
+
+verordnet:
+
+[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Fassung gemäss Anhang Ziff. II 6 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+
+#### Art. 1
+
+**Gegenstand und Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen.
+
+<sup>2</sup>
+
+Sie gilt für:
+
+- a. natürliche und juristische Personen, die gefährliche Güter herstellen, befördern, verpacken, einfüllen, versenden, laden, entladen oder empfangen;
+- b. Hersteller und Benützer von Verpackungen, Tanks oder Transportmitteln zur Beförderung gefährlicher Güter;
+- c. Betreiber von Eisenbahn- und Seilbahninfrastrukturen.
+
+#### Art. 2
+
+**Verhältnis zur Gefahrgutbeauftragtenverordnung**
+
+Für natürliche und juristische Personen, die gefährliche Güter befördern, verpacken, einfüllen, versenden, laden oder entladen, gelten zusätzlich die Bestimmungen der Gefahrgutbeauftragtenverordnung vom 15. Juni 2001[^2-1].
+
+[^2-1]: [SR 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+
+#### Art. 3
+
+**Internationales Recht**
+
+<sup>1</sup> Für die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen gilt die Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID), Anhang C zum Übereinkommen vom 9. Mai 1980[^3-1] über den internationalen Eisenbahnverkehr (COTIF) in der Fassung des Änderungsprotokolls vom 3. Juni 1999[^3-2] auch im nationalen Verkehr.
+
+<sup>2</sup> Die gültige Fassung des RID ist in Anhang 1 festgehalten.
+
+[^3-1]: [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
+[^3-2]: [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+
+#### Art. 4
+
+**Zuständige Behörden**
+
+Als zuständige Behörde im Sinne des RID gilt:
+
+- a. das Eidgenössische Nuklearsicherheitsinspektorat: für die Genehmigung von Versandstückmustern sowie für gefahrgutrechtliche Genehmigungen für den Versand radioaktiver Stoffe;
+- b. das Bundesamt für Verkehr (BAV) oder eine vom BAV bestimmte Stelle: für alle übrigen Fälle.
+
+#### Art. 5
+
+**Ausnahmen und Abweichungen**
+
+<sup>1</sup> Ausnahmen und Abweichungen vom RID und weitere Vorschriften, die nur für den nationalen Verkehr gelten, sind für Eisenbahnen in Anhang 2.1 und für Seilbahnen in Anhang 2.2 geregelt.
+
+<sup>2</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann die Anhänge 2.1 und 2.2 neuen Verhältnissen anpassen.
+
+<sup>3</sup> Das BAV kann mit zuständigen Behörden anderer RID-Vertragsstaaten zeitweilige Abweichungen nach Abschnitt 1.5.1 RID vereinbaren.
+
+<sup>4</sup> Es kann in Einzelfällen Ausnahmen von dieser Verordnung gestatten, wenn deren Zweck gewahrt bleibt.
+
+<sup>5</sup> Ersucht der Gesuchsteller um eine Ausnahme oder Abweichung von Vorschriften zur Klassifizierung von Gefahrgütern nach Teil 2 RID, so muss er zusammen mit dem Gesuch einen Sachverständigenprüfbericht einreichen. Dieser muss von Sachverständigen erstellt werden, die die Anforderungen nach Anhang 3 der Gefahrgutumschliessungsverordnung vom 31. Oktober 2012[^5-1] erfüllen.
+
+[^5-1]: [SR 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+
+#### Art. 6
+
+**Änderungen des RID**
+
+<sup>1</sup> Bei Änderungen des RID entscheidet das BAV, ob diesen Änderungen zugestimmt wird oder nicht.
+
+<sup>2</sup> Das UVEK passt den Anhang 1 an die Änderungen des RID an.
+
+#### Art. 7
+
+**Auskunftspflicht**
+
+Die unter den Geltungsbereich dieser Verordnung fallenden Personen müssen der zuständigen Behörde alle notwendigen Auskünfte zum Vollzug dieser Verordnung erteilen sowie Zutritt zum Betrieb für die notwendigen Untersuchungen ermöglichen.
+
+#### Art. 8
+
+**Verletzung der Bestimmungen über den Versand der Güter**
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
+
+- a. ein gefährliches Gut, das nach Anhang 2.1 oder 2.2 dieser Verordnung beziehungsweise nach Teil 2 oder 4 RID nicht befördert werden darf, versendet oder selbst befördert;
+- b. ein gefährliches Gut versendet, ohne sich zu vergewissern, dass der Transport nach Anhang 2.1 oder 2.2 dieser Verordnung beziehungsweise nach den Kapiteln 7.1–7.4 RID durchgeführt wird;
+- c. die geforderten Sicherheits- und Dokumentationspflichten sowie die übrigen Pflichten nach Anhang 2.1 oder 2.2 dieser Verordnung beziehungsweise nach Kapitel 1.4, 1.7 oder 5.4 RID nicht oder nur mangelhaft wahrnimmt;
+- d. ein gefährliches Gut versendet , ohne den Beförderer über den Zustand, die Beschaffenheit und die Klassierung des Gutes zu orientieren.
+
+#### Art. 9
+
+**Verletzung der Bestimmungen über die Handhabung der Güter**
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
+
+- a. ein gefährliches Gut verpackt, einfüllt, lädt oder entlädt, ohne die Pflichten nach Kapitel 1.4 oder 1.7 RID zu beachten; der gleichen Strafe unterliegt die für diese Verrichtungen verantwortliche Person, wenn sie sich nicht vergewissert hat, dass diesen Pflichten nachgekommen worden ist;
+- b. es als beladende oder entladende Person unterlässt, die zweckmässigen Schutzmassnahmen für den Fall zu treffen, dass ein freigesetzter Stoff die Umwelt gefährdet;
+- c. die Meldepflichten nach Abschnitt 1.8.5 RID nicht oder nur mangelhaft wahrnimmt.
+
+#### Art. 10
+
+**Verletzung der Bestimmungen über die Beförderung der Güter**
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
+
+- a. gefährliche Güter in Tanks befördert oder befördern lässt, die den besonderen Erfordernissen über den Bau und die Ausrüstung nach Anhang 2.1 oder 2.2 dieser Verordnung beziehungsweise nach Teil 4, Teil 6 oder Kapitel 1.6 RID nicht entsprechen, oder Beförderungsmittel benützt, die nicht ordnungsgemäss geprüft sind;
+- b. die geforderten Sicherheits-, Melde- und Dokumentationspflichten sowie die übrigen Pflichten nach Anhang 2.1 und 2.2 dieser Verordnung beziehungsweise nach Kapitel 1.4, 1.7 oder 5.4 oder Abschnitt 1.8.5 RID nicht oder nur mangelhaft wahrnimmt;
+- c. die Bestimmungen über die Kennzeichnung und Identifikation von Beförderungsmitteln nach Anhang 2.1 oder 2.2 dieser Verordnung beziehungsweise nach Teil 5 RID, in denen gefährliche Güter befördert werden oder wurden, missachtet.
+
+#### Art. 11
+
+**Vollzug**
+
+Das BAV vollzieht diese Verordnung.
+
+#### Art. 12
+
+**Aufhebung und Änderung bisherigen Rechts**
+
+Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 3 geregelt.
+
+#### Art. 13
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2013 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 3 Abs. 2)
+
+## Gültige Fassung des RID
+
+[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6155](https://fedlex.data.admin.ch/eli/oc/2020/1017)).
+
+Es gelten die Vorschriften des RID[^annex1-lvlu1-1] der Ausgabe 2021.
+
+[^annex1-lvlu1-1]: Der Text des RID (Anhang C zum Übereinkommen vom 9. Mai 1980 über den internationalen Eisenbahnverkehr; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS nicht veröffentlicht. Der Text kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter www.otif.org &gt; Gefährliche Güter abgerufen werden.
+
+Anhang <sup>2</sup>.1*[^t-2]*
+
+(Art. 5 Abs. 1)
+
+## Abweichungen von einzelnen Vorschriften des RID für die Beförderung gefährlicher Güter mit Eisenbahnen im nationalen Verkehr
+
+[^t-2]: Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+
+<table>
+<tr><th>Nummern der RID‑Vorschriften</th><th>Abweichende Vorschriften für die Beförderung gefährlicher Güter mit Eisenbahnen im nationalen Verkehr</th></tr>
+<tr><td>1.1.4.4</td><td>Die zur Beförderung im Huckepackverkehr aufgegebenen Strassenfahrzeuge sowie deren Inhalt müssen zusätzlich den Anforderungen des Anhangs 3 der Verordnung vom 29. November 2002[^annex21-lvlu1-1] über die Beförderung gefährlicher Güter auf der Strasse (SDR) entsprechen.</td></tr>
+<tr><td>2.2.1.2</td><td>Sprengmittel, die für den Einsatz in Lawinenhängen vorgesehen sind und fertig konfektioniert befördert werden müssen, unterliegen den RID-Vorschriften nicht, wenn folgende Bedingungen erfüllt sind: – Die Beförderung erfolgt auf direktem Weg vom Sprengmittellager zum vorgesehenen Einsatzort. – Die Sprengmittel werden durch Sprengverantwortliche verpackt, verladen und entladen. – Die Beförderung wird durch Sprengverantwortliche begleitet. – Die Beförderung erfolgt ausserhalb des publizierten Fahrplans im Rahmen einer Dienstfahrt. – Ausser den Sprengverantwortlichen befindet sich nur das für die Durchführung der Beförderung notwendige Personal im Beförderungsmittel (Bahn, Seilbahn). – Die Sprengverantwortlichen verfügen über den notwendigen Ausweis nach den Artikeln 51–60 der Sprengstoffverordnung vom 27. November 2000[^annex21-lvlu1-2].</td></tr>
+<tr><td>4.1.4.1 P200 (9)</td><td>Zu Tauchzwecken verwendete Gefässe für Gase der Klassifizierungscode 1A und 1O müssen alle zweieinhalb Jahre einer Sichtprüfung und alle fünf Jahre einer vollständigen wiederkehrenden Prüfung unterzogen werden.</td></tr>
+<tr><td>5.3.1.2 5.3.6</td><td>An Wechselaufbauten (Wechselbehältern), in denen nur Versandstücke befördert werden, dürfen anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe orangefarbene Tafeln verwendet werden. Die orangefarbenen Tafeln sind an den beiden Längsseiten des Wechselbehälters anzubringen und müssen die Anforderungen nach RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 und 5.3.2.2.5 erfüllen. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig. An Wechselbehältern, in denen: – Versandstücke mit Stoffen oder Gegenständen der Klasse 1 (ausgenommen Unterklasse 1.4 Verträglichkeitsgruppe S) oder – radioaktive Stoffe der Klasse 7 in Verpackungen oder Grossverpackungen (ausgenommen freigestellte Versandstücke) befördert werden, sind an den beiden Längsseiten des Wechselbehälters und an jedem Ende die entsprechenden Grosszettel anzubringen.</td></tr>
+<tr><td>5.3.1.3</td><td>Wenn an Wechselbehältern orangefarbene Tafeln anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe angebracht werden und diese ausserhalb des Tragwagens nicht sichtbar sind, müssen orangefarbene Tafeln auch an den beiden Längsseiten des Wagens angebracht werden. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig.</td></tr>
+<tr><td>5.3.1.5 5.3.6</td><td>An Wagen, in denen nur Versandstücke befördert werden, dürfen anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe orangefarbene Tafeln verwendet werden. Die orangefarbenen Tafeln sind an den beiden Längsseiten der Wagen anzubringen und müssen die Anforderungen nach RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 und 5.3.2.2.5 erfüllen. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig. An Wagen, in denen: – Versandstücke mit Stoffen oder Gegenständen der Klasse 1 (ausgenommen Unterklasse 1.4 Verträglichkeitsgruppe S) oder – radioaktive Stoffe der Klasse 7 in Verpackungen oder Grossverpackungen (ausgenommen freigestellte Versandstücke) befördert werden, sind an den beiden Längsseiten des Wagens die entsprechenden Grosszettel anzubringen.</td></tr>
+<tr><td>5.4.1.1.1</td><td>Für die Bezeichnung des Gutes im Beförderungspapier darf auch wie folgt vorgegangen werden: Mit Ausnahme von Stoffen und Gegenständen der Klasse 7 darf eine entsprechende Sammelbezeichnung verwendet werden, sofern dem Beförderungspapier eine Liste (z. B. Lieferschein oder Beförderungspapier für Strassentransport) beigeheftet ist, welche die in RID 5.4.1.1.1 vorgeschriebenen Angaben enthält. Die Sammelbezeichnung ist mit der Abkürzung «RSD» und dem Hinweis «siehe beil. Liste» zu ergänzen (z. B. «Chemikalien RSD, siehe beil. Liste»). Das Anbringen eines Kreuzes im Beförderungspapier entfällt.</td></tr>
+<tr><td>6</td><td>Kubische Tankcontainer KTC (früher als Tankcontainer bezeichnet), die nach den bis 31. Dezember 1987 geltenden Vorschriften von Absatz 1.2.8.5 des Anhangs X RSD für die Beförderung bestimmter Stoffe zugelassen wurden, dürfen als Grosspackmittel (IBC) für die Beförderung dieser Stoffe weiter verwendet werden, sofern sie den folgenden Vorschriften des RID entsprechen: 6.5.3, 6.5.4.4, 6.5.4.5 und 6.5.5.1 mit Ausnahme von 6.5.5.1.5 und 6.5.5.1.6. Baustellentanks: Baustellentanks sind für die Beförderung von Dieselkraftstoff (UN 1202) zugelassen, sofern sie den Vorschriften der Kapitel 1.6, 4.8 und 6.14 des Anhangs 1 SDR über Bau, Verwendung und Prüfung entsprechen. Abschnitt 7.5.7 RID ist sinngemäss anzuwenden.</td></tr>
+</table>
+
+[^annex21-lvlu1-1]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^annex21-lvlu1-2]: [SR 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+
+Anhang <sup>2.2</sup>*[^t-3]*
+
+(Art. 5 Abs. 1)
+
+## Abweichungen von einzelnen Vorschriften des RID für die Beförderung gefährlicher Güter mit Seilbahnen im nationalen Verkehr
+
+[^t-3]: Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+
+Zusätzlich zu den in Anhang 2.1 aufgelisteten Abweichungen gelten für die Beförderung gefährlicher Güter mit Seilbahnen im nationalen Verkehr folgende Abweichungen:
+
+<table>
+<tr><th>Nummern der RID‑Vorschriften</th><th>Abweichende Vorschriften für die Beförderung gefährlicher Güter mit Seilbahnen im nationalen Verkehr</th></tr>
+<tr><td>1.10.3</td><td>Die Vorschriften betreffend den Sicherungsplan sind nicht anwendbar.</td></tr>
+<tr><td>3.3</td><td>Die Sondervorschrift 640 ist für die Beförderung von Dieselkraftstoff, Gasöl und Heizöl, leicht (UN 1202), nicht anwendbar.</td></tr>
+<tr><td>3.4.13 a)</td><td>Die Vorschriften sind nicht anwendbar.</td></tr>
+<tr><td>5.2.1.8</td><td>Die Vorschriften zur Kennzeichnung von Versandstücken mit dem Kennzeichen für umweltgefährdende Stoffe, die den Kriterien des Absatzes 2.2.9.1.10 RID entsprechen, sind nicht anwendbar.</td></tr>
+<tr><td>5.3.1.3 5.3.1.4 5.3.1.5 5.3.1.6 5.3.2 5.3.3 5.3.4 5.3.5</td><td>Kabinen und Sessel von Seilbahnen unterliegen nicht den Vorschriften zur Kennzeichnung. Die Vorschriften zur Kennzeichnung von Containern, Grosscontainern, MEGC, Tankcontainer, ortsbeweglichen Tanks mit dem Kennzeichen für umweltgefährdende Stoffe, die den Kriterien des Absatzes 2.2.9.1.10 RID entsprechen, sind nicht anwendbar.</td></tr>
+<tr><td>5.4</td><td>Die Vorschriften sind nicht anwendbar.</td></tr>
+<tr><td>6.5.4.4.1 b)</td><td>Die Vorschriften betreffend die Inspektion sind nicht anwendbar für IBC sowie KTC nach Anhang 2.1 dieser Verordnung zur Beförderung von Dieselkraftstoff, Gasöl und Heizöl, leicht (UN 1202).</td></tr>
+<tr><td>6.5.4.4.2 b)</td><td>IBC sowie KTC nach Anhang 2.1 dieser Verordnung zur Beförderung von Dieselkraftstoff, Gasöl und Heizöl, leicht (UN 1202), müssen in Abständen von höchstens fünf Jahren einer geeigneten Dichtheitsprüfung unterzogen werden.</td></tr>
+<tr><td>6.8.2</td><td>Tanks müssen entweder den Vorschriften des RID oder den Vorschriften des Übereinkommens vom 30. September 1957[^annex22-lvlu1-1] über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR) entsprechen.</td></tr>
+<tr><td>6.8.2.4.3</td><td>Die Vorschriften des RID und des ADR betreffend die Zwischenprüfungen sind nicht anwendbar für Tanks zur Beförderung von Dieselkraftstoff, Gasöl und Heizöl, leicht (UN 1202).</td></tr>
+<tr><td>7.5.3</td><td>Die Vorschriften sind nicht anwendbar.</td></tr>
+</table>
+
+[^annex22-lvlu1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+
+Anhang <sup>3</sup>
+
+(Art. 12)
+
+## Aufhebung und Änderung bisherigen Rechts
+
+I
+
+Die Verordnung des UVEK vom 3. Dezember 1996[^annex3-lvlu1-1] über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen wird aufgehoben.
+
+II
+
+Die nachstehenden Verordnungen werden wie folgt geändert:
+
+...[^annex3-lvlu1-2]
+
+[^annex3-lvlu1-1]: [[AS 1996 3436](https://fedlex.data.admin.ch/eli/oc/1996/3436_3436_3436), [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 19 [5995](https://fedlex.data.admin.ch/eli/oc/2008/828)]
+[^annex3-lvlu1-2]: Die Änderungen können unter [AS 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)konsultiert werden.

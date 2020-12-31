@@ -1,0 +1,478 @@
+---
+sr: "916.443.106"
+title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importation, de transit et d'exportation d'animaux et de produits animaux avec les pays tiers (OITE-PT-DFI)"
+short: OITE-PT-DFI
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
+language: fr
+version: 2021-01-01
+adopted: 2015-11-18
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DFI réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers
+
+(OITE-PT-DFI)
+
+du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Département fédéral de l’intérieur (DFI),
+
+vu les art. 5, al. 2 et 3, 8, al. 3, 13, al. 1, 15, al. 1, 20, al. 2, 21, al. 3, 30, al. 2, 38, al. 2, 39, 85, al. 1, let. a, et 96, al. 2, de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+
+#### Art. 1
+
+**Conditions d’importation et de transit harmonisées**
+
+### (art. 2, al. 1, 5, al. 1 et 2, 38, al. 1, et 2, OITE-PT)
+
+Les actes législatifs de l’Union européenne (UE) fixant les conditions d’importation et de transit harmonisées sont mentionnés à l’annexe 1.
+
+#### Art. 2
+
+**Garanties sanitaires additionnelles**
+
+### (art. 5, al. 3, OITE-PT)
+
+<sup>1</sup>
+
+En cas d’importation, les garanties sanitaires additionnelles suivantes doivent être fournies:
+
+- a. animaux de l’espèce bovine: une garantie que les animaux sont indemnes de rhinotrachéite bovine infectieuse et de vulvovaginite pustuleuse infectieuse (IBR/IPV);
+- b. animaux de l’espèce porcine: une garantie que les animaux sont indemnes de maladie d’Aujeszky;
+- c. galliformes, ansériformes et struthioniformes: une garantie que les animaux n’ont pas été vaccinés contre la maladie de Newcastle;
+- d.
+
+  œufs à couver des animaux visés à la let. c: une garantie que ces œufs proviennent de troupeaux dont les animaux:
+
+  - 1\. n’ont pas été vaccinés,
+  - 2\. ont été vaccinés au moyen d’un vaccin inactivé, ou
+  - 3\. ont été vaccinés au moins 30 jours avant la ponte, si la vaccination a été effectuée avec un vaccin vivant.
+
+<sup>2</sup> Les garanties sanitaires visées à l’al. 1, let. a et b, ne sont reconnues que si les conditions fixées à l’annexe 2 sont remplies.
+
+#### Art. 3
+
+**Produits d’origine animale qui présentent un risque élevé sur le plan de la police des épizooties ou de l’hygiène des denrées alimentaires**
+
+### (art. 8, al. 1, let. a, et 3, OITE-PT)
+
+Les produits d’origine animale qui présentent un risque élevé sur le plan de la police des épizooties ou de l’hygiène des denrées alimentaires visés à l’art. 8, al. 1, let. a, OITE-PT sont mentionnés à l’annexe 3.
+
+#### Art. 4
+
+**Réserve relative à l’usage de la viande bovine en provenance des États qui n’interdisent pas l’utilisation de substances à action hormonale comme stimulateurs de performance**
+
+### (art. 9, al. 2, let. b et 30, al. 2, OITE-PT)
+
+Cette réserve, qui doit figurer dans les documents de vente et de livraison de la viande visée à l’art. 9 OITE-PT, a le libellé suivant:
+
+«Viande bovine provenant d’un État n’interdisant pas l’usage d’hormones comme stimulateurs de performance, à utiliser sur le territoire douanier suisse. L’exportation est interdite. Les charges fixées aux art. 9 et 30 de l’ordonnance réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers doivent être respectées.»
+
+#### Art. 5
+
+**Produits animaux emportés dans le trafic voyageurs**
+
+### (art. 13 et 39, let. a, OITE-PT)
+
+Les conditions d’importation et de transit fixées par la législation sur les épizooties applicables aux produits d’origine animale emportés dans le trafic voyageurs pour l’usage personnel sont mentionnées à l’annexe 4.
+
+#### Art. 6
+
+**Obligation de présenter les lots au contrôle vétérinaire de frontière**[^6-1]
+
+### (art. 15 et 39, let. b, OITE-PT)
+
+Les rubriques du tarif des douanes et les produits composés devant faire l’objet d’un contrôle vétérinaire à la frontière lors de l’importation ou du transit sont définis aux art. 4 et 6 ainsi qu’aux annexes I et II de la décision 2007/275/CE[^6-2].
+
+[^6-1]: Nouvelle teneur par le ch. I de l’O du DFI du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1669](https://fedlex.data.admin.ch/eli/oc/2017/172)).
+[^6-2]: Décision 2007/275/CE de la Commission du 17 avril 2007 relative aux listes des animaux et des produits devant faire l’objet de contrôles aux postes d’inspection frontaliers conformément aux directives du Conseil 91/496/CEE et 97/78/CE, JO L 116 du 4.5.2007, p. 9; modifiée en dernier lieu par la décision d’exécution 2016/1196/UE, JO L 197 du 22.7.2016, p. 10.
+
+#### Art. 7
+
+**Étiquetage de l’emballage extérieur des produits animaux**
+
+### (art. 20 et 39, let. d, OITE-PT)
+
+Les actes législatifs de l’UE fixant les exigences relatives à l’étiquetage de l’emballage extérieur des produits animaux sont mentionnés à l’annexe 5.
+
+#### Art. 8
+
+**Certificats sanitaires**
+
+### (art. 21 et 39, let. d, OITE-PT)
+
+Les exigences formelles auxquelles doivent satisfaire les certificats sanitaires sont fixées à l’annexe 6.
+
+#### Art. 9
+
+**Stations de quarantaine**
+
+### (art. 85, al. 1, let. a, OITE-PT)
+
+Les exigences auxquelles doivent satisfaire les stations de quarantaine sont fixées à l’annexe 7.
+
+#### Art. 10
+
+**Postes d’inspection frontaliers**
+
+### (art. 96, al. 2, OITE-PT)
+
+Les exigences auxquelles doivent satisfaire les locaux, les équipements et les installations des postes d’inspection frontaliers agréés sont définies à l’annexe 8.
+
+#### Art. 11
+
+**Mise à jour des annexes**
+
+L’OSAV met à jour les annexes 2, 3, 4 et 7 en fonction de l’évolution internationale ou de l’évolution de la technique.
+
+#### Art. 12
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux[^12-1] est abrogée.
+
+[^12-1]: [[RO 2007 2717](https://fedlex.data.admin.ch/eli/oc/2007/359), [2008 4443](https://fedlex.data.admin.ch/eli/oc/2008/615)[5273](https://fedlex.data.admin.ch/eli/oc/2008/743), [2009 1619](https://fedlex.data.admin.ch/eli/oc/2009/236), [2010 5097](https://fedlex.data.admin.ch/eli/oc/2010/737), [2012 461](https://fedlex.data.admin.ch/eli/oc/2012/62)[807](https://fedlex.data.admin.ch/eli/oc/2012/124)[1607](https://fedlex.data.admin.ch/eli/oc/2012/233)[3469](https://fedlex.data.admin.ch/eli/oc/2012/391)[6439](https://fedlex.data.admin.ch/eli/oc/2012/767)[6883](https://fedlex.data.admin.ch/eli/oc/2012/831), [2013 801](https://fedlex.data.admin.ch/eli/oc/2013/162)[1061](https://fedlex.data.admin.ch/eli/oc/2013/233)[1263](https://fedlex.data.admin.ch/eli/oc/2013/283)[2129](https://fedlex.data.admin.ch/eli/oc/2013/453)[2343](https://fedlex.data.admin.ch/eli/oc/2013/493)[2697](https://fedlex.data.admin.ch/eli/oc/2013/549)[3265](https://fedlex.data.admin.ch/eli/oc/2013/625)[4089](https://fedlex.data.admin.ch/eli/oc/2013/749)[4139](https://fedlex.data.admin.ch/eli/oc/2013/762)ch. I 2, [2014 391](https://fedlex.data.admin.ch/eli/oc/2014/58)[705](https://fedlex.data.admin.ch/eli/oc/2014/149)[1265](https://fedlex.data.admin.ch/eli/oc/2014/271)[2469](https://fedlex.data.admin.ch/eli/oc/2014/433)[3017](https://fedlex.data.admin.ch/eli/oc/2014/509)[3139](https://fedlex.data.admin.ch/eli/oc/2014/531)[3191](https://fedlex.data.admin.ch/eli/oc/2014/541)[4517](https://fedlex.data.admin.ch/eli/oc/2014/754), [2015 561](https://fedlex.data.admin.ch/eli/oc/2015/86)[565](https://fedlex.data.admin.ch/eli/oc/2015/87)[633](https://fedlex.data.admin.ch/eli/oc/2015/100)[725](https://fedlex.data.admin.ch/eli/oc/2015/124)[931](https://fedlex.data.admin.ch/eli/oc/2015/167)[1141](https://fedlex.data.admin.ch/eli/oc/2015/230)[1211](https://fedlex.data.admin.ch/eli/oc/2015/241)[2405](https://fedlex.data.admin.ch/eli/oc/2015/449)[2707](https://fedlex.data.admin.ch/eli/oc/2015/508)[2911](https://fedlex.data.admin.ch/eli/oc/2015/546)[4193](https://fedlex.data.admin.ch/eli/oc/2015/701)[4989](https://fedlex.data.admin.ch/eli/oc/2015/817)]
+
+#### Art. 13
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
+
+Annexe 1*[^t-1]*
+
+(art. 1)
+
+## Actes législatifs de l’UE relatifs aux conditions d’importation et de transit harmonisées
+
+[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 31 oct. 2016 ([RO 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 juin 2017 ([RO 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), du 29 déc. 2017 ([RO 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 25 juil. 2019 ([RO 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), du 22 août 2019 ([RO 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), du 12 nov. 2019 ([RO 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)),du 23 déc. 2019 ([RO 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) et le ch. I des O de l’OSAV du 26 nov. 2020 ([RO 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)) et du 30 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)).
+
+<table>
+<tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et de l’acte modificateur</th></tr>
+<tr><td>1. Directive 88/407/CEE</td><td>Directive 88/407/CEE du Conseil du 14 juin 1988 fixant les exigences de police sanitaire applicables aux échanges intracommunautaires et aux importations de sperme surgelé d’animaux de l’espèce bovine JO L 194 du 22.7.1988, p. 10 ; modifiée en dernier lieu par la décision d’exécution 2011/629/UE, JO L 247 du 24.9.2011, p. 22</td></tr>
+<tr><td>2. Directive 89/556/CEE</td><td>Directive 89/556/CEE du Conseil du 25 septembre 1989 fixant les conditions de police sanitaire régissant les échanges intra-communautaires et les importations en provenance des pays tiers d’embryons d’animaux domestiques de l’espèce bovine, JO L 302 du 19.10.1989, p. 1 ; modifiée en dernier lieu par la directive 2008/73/CE, JO L 219 du 14.8.2008, p. 40</td></tr>
+<tr><td>3. Directive 90/429/CEE</td><td>Directive 90/429/CEE du Conseil du 26 juin 1990 fixant les exigences de police sanitaire applicables aux échanges intracommunautaires et aux importations de sperme d’animaux de l’espèce porcine, JO L 224 du 18.8.1990, p. 62 ; modifiée en dernier lieu par le règlement d’exécution (UE) 176/2012, JO L 61 du 2.3.2012, p. 1</td></tr>
+<tr><td>4. ...</td><td></td></tr>
+<tr><td>5. Directive 92/65/CEE</td><td>Directive 92/65/CEE du Conseil du 13 juillet 1992 définissant les conditions de police sanitaire régissant les échanges et les importations dans la Communauté d’animaux, de spermes, d’ovules et d’embryons non soumis, en ce qui concerne les conditions de police sanitaire, aux réglementations communautaires spécifiques visées à l’annexe A section I de la directive 90/425/CEE, JO L 268 du 14.9.1992, p. 54; modifiée en dernier lieu par la décision d’exécution (UE) 2019/1206, JO L 190 du 16.7.2019, p. 11</td></tr>
+<tr><td>6. Directive 92/118/CEE</td><td>Directive 92/118/CEE du Conseil du 17 décembre 1992 définissant les conditions de police sanitaire ainsi que les conditions sanitaires régissant les échanges et les importations dans la Communauté de produits non soumis, en ce qui concerne lesdites conditions, aux réglementations communautaires spécifiques visées à l’annexe A chapitre Ier de la directive 89/662/CEE et, en ce qui concerne les pathogènes, de la directive 90/425/CEE, JO L 62 du 15.3.1993, p. 49; modifiée en dernier lieu par la directive 2004/41/CE, JO L 195 du 2.6.2004, p. 12</td></tr>
+<tr><td>[tab] 7. à 9. ...</td><td></td></tr>
+<tr><td>10. Directive 96/22/CE</td><td>Directive 96/22/CE du Conseil, du 29 avril 1996, concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE, JO L 125 du 23.5.1996, p. 3; modifiée en dernier lieu par la directive 2008/97/CE, JO L 318 du 28.11.2008, p. 9</td></tr>
+<tr><td>11. ...</td><td></td></tr>
+<tr><td>12. Décision 2000/572/CE</td><td>Décision 2000/572/CE de la Commission du 8 septembre 2000 définissant les conditions de police sanitaire, les conditions sanitaires et la certification vétérinaire pour les importations de viande hachée et de préparations de viandes en provenance de pays tiers et abrogeant la décision 97/29/CE, JO L 240 du 23.9.2000, p. 19; modifiée en dernier lieu par la décision d’exécution (UE) 2017/622, JO L 89 du 1.4.2017, p. 11</td></tr>
+<tr><td>13. Règlement (CE) n<sup>o</sup> 999/2001</td><td>Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant des règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles, JO L 147 du 31.5.2001, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1593, JO L 360 du 30.10.2020, p. 13</td></tr>
+<tr><td>14. Règlement (CE) n<sup>o</sup> 178/2002</td><td>Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires, JO L 31 du 1.2.2002, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1243, JO L 198 du 25.7.2019, p. 241</td></tr>
+<tr><td>15. Décision 2002/805/CE</td><td>Décision 2002/805/CE de la Commission du 15 octobre 2002 relative à certaines mesures de protection à l’égard de certains produits d’origine animale destinés à l’alimentation animale et importés d’Ukraine, version du JO L 278 du 16.10.2002, p. 24</td></tr>
+<tr><td>16. Directive 2002/99/CE</td><td>Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine, JO L 18 du 23.1.2003, p. 11 ; modifiée en dernier lieu par la décision d’exécution 2013/417/UE, JO L 206 du 2.8.2013, p. 13</td></tr>
+<tr><td>17. Décision 2002/994/CE</td><td>Décision 2002/994/CE de la Commission du 20 décembre 2002 relative à certaines mesures de protection à l’égard des produits d’origine animale importés de Chine, JO L 348 du 21.12.2002, p. 154; modifiée en dernier lieu par la décision d’exécution (UE) 2015/1068, JO L 174 du 3.7.2015, p. 30</td></tr>
+<tr><td>18. ...</td><td></td></tr>
+<tr><td>19. Décision 2003/459/CE</td><td>Décision 2003/459/CE de la Commission du 20 juin 2003 concernant certaines mesures de protection contre le virus de la variole du singe, version du JO L 154 du 21.6.2003, p. 112</td></tr>
+<tr><td>20. Décision 2003/779/CE</td><td>Décision 2003/779/CE de la Commission du 31 octobre 2003 établissant les conditions sanitaires et la certification vétérinaire requises à l’importation de boyaux d’animaux en provenance de pays tiers, JO L 285 du 1.11.2003, p. 38; modifiée en dernier lieu par la décision 2004/414/CE, JO L 151 du 30.4.2004, p. 65</td></tr>
+<tr><td>21. ...</td><td></td></tr>
+<tr><td>22. Règlement (CE) n<sup>o</sup> 2160/2003</td><td>Règlement (CE) n<sup>o</sup> 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire, JO L 325 du 12.12.2003, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013, JO L 158 du 10.6.2013, p. 1</td></tr>
+<tr><td>23. Décision 2003/845/CE</td><td>Décision 2003/845/CE de la Commission du 5 décembre 2003 instituant des mesures de protection contre la fièvre catarrhale au regard des importations de certains animaux ainsi que de leur sperme, leurs embryons et leurs ovules, provenant d’Albanie, de l’ancienne République yougoslave de Macédoine et de la Serbie-et-Monténégro, version du JO L 321 du 6.12.2003, p. 61</td></tr>
+<tr><td>24. ...</td><td></td></tr>
+<tr><td>25. Règlement (CE) n<sup>o</sup> 136/2004</td><td>Règlement (CE) n<sup>o</sup> 136/2004 de la Commission du 22 janvier 2004 fixant les procédures des contrôles vétérinaires aux postes d’inspection frontaliers de la Communauté lors de l’importation des produits en provenance de pays tiers, JO L 21 du 28.1.2004, p. 11; modifié en dernier lieu par le règlement d’exécution (UE) n<sup>o</sup> 494/2014, JO L 139 du 14.5.2014, p. 11</td></tr>
+<tr><td>26. Décision 2004/225/CE</td><td>Décision 2004/225/CE de la Commission du 2 mars 2004 relative à des mesures de protection à l’égard de certains animaux vivants et produits animaux originaires ou en provenance d’Albanie, version du JO L 68 du 6.3.2004, p. 34</td></tr>
+<tr><td>27. Directive 2004/68/CE</td><td>Directive 2004/68/CE du Conseil du 26 avril 2004 établissant les règles de police sanitaire relatives à l’importation et au transit, dans la Communauté, de certains ongulés vivants, modifiant les directives 90/426/CEE et 92/65/CEE et abrogeant la directive 72/462/CEE; JO L 139 du 30.4.2004, p. 321; modifiée en dernier lieu par la décision d’exécution 2012/253/UE, JO L 125 du 12.5.2012, p. 51</td></tr>
+<tr><td>28. Règlement (CE) n<sup>o</sup> 852/2004</td><td>Règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires, JO L 139 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 219/2009, JO L 87 du 31.3.2009, p. 109</td></tr>
+<tr><td>29. Règlement (CE) n<sup>o</sup> 853/2004</td><td>Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 2019/1243, JO L 198 du 25.7.2019, p. 241</td></tr>
+<tr><td>30. ...</td><td></td></tr>
+<tr><td>30*a*. Règlement (CE) n<sup>o</sup> 1/2005</td><td>Règlement (CE) n<sup>o</sup> 1/2005 du Conseil du 22 décembre 2004 relatif à la protection des animaux pendant le transport et les opérations annexes et modifiant les directives 64/432/CEE et 93/119/CE et le règlement (CE) n<sup>o</sup> 1255/97, JO L 3 du 5.1.2005, p. 1; modifié par le règlement (UE) 2017/625, JO L 95 du 7.4.2017, p. 1</td></tr>
+<tr><td>31. ...</td><td></td></tr>
+<tr><td>32. Décision 2005/290/CE</td><td>Décision 2005/290/CE de la Commission du 4 avril 2005 établissant des certificats simplifiés pour l’importation de sperme de l’espèce bovine et de viandes fraîches de l’espèce porcine en provenance du Canada et modifiant la décision 2004/639/CE, JO L 93 du 12.4.2005; p. 34; modifié en dernier lieu par la décision d’exécution 2011/630/UE, JO L 247 du 24.9.2011, p. 32</td></tr>
+<tr><td>33. Règlement (CE) n<sup>o</sup> 2073/2005</td><td>Règlement (CE) n<sup>o</sup> 2073/2005 de la Commission du 15 novembre 2005 concernant les critères microbiologiques applicables aux denrées alimentaires, JO L 338 du 22.12.2005, p. 1; modifié en dernier lieu par le règlement (UE) 2020/205, JO L 43 du 17.2.2020, p. 63</td></tr>
+<tr><td>34. Règlement (CE) n<sup>o</sup> 2074/2005</td><td>Règlement (CE) n<sup>o</sup> 2074/2005 de la Commission du 5 décembre 2005 établissant les mesures d’application relatives à certains produits régis par le règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil et à l’organisation des contrôles officiels prévus par les règlements (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil et (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil, portant dérogation au règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil et modifiant les règlements (CE) n<sup>o</sup> 853/2004 et (CE) n<sup>o</sup> 854/2004, JO L 338 du 22.12.2005, p. 27; modifié en dernier lieu par le règlement d’exécution (UE) 2019/1139, JO L 180 du 4.7.2019, p. 12</td></tr>
+<tr><td>35. Décision 2006/168/CE</td><td>Décision 2006/168/CE de la Commission du 4 janvier 2006 établissant les conditions de police sanitaire et la certification vétérinaire relatives à l’importation dans la Communauté d’embryons de bovin et abrogeant la décision 2005/217/CE, JO L 57 du 28.2.2006, p. 19; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2216, JO L 438 du 28.12.2020, p. 57</td></tr>
+<tr><td>36. Décision 2006/27/CE</td><td>Décision 2006/27/CE de la Commission du 16 janvier 2006 relative aux conditions spéciales régissant les viandes et produits à base de viande d’équidés importés du Mexique et destinés à la consommation humaine, version du JO L 19 du 24.1.2006, p. 30</td></tr>
+<tr><td>37. Décision 2006/146/CE</td><td>Décision 2006/146/CE de la Commission du 21 février 2006 relative à certaines mesures de protection concernant certains chiens, chats et roussettes provenant de Malaisie (péninsule) et d’Australie, version du JO L 55 du 25.2.2006, p. 44</td></tr>
+<tr><td>38. Décision 2006/199/CE</td><td>Décision 2006/199/CE de la Commission du 22 février 2006 fixant les conditions particulières pour l’importation des produits de la pêche originaires des États-Unis d’Amérique, version du JO L 71 du 10.3.2006, p. 17</td></tr>
+<tr><td>39. Directive 2006/88/CE</td><td>Directive 2006/88/CE du Conseil du 24 octobre 2006 relative aux conditions de police sanitaire applicables aux animaux et aux produits d’aquaculture, et relative à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies JO L 328 du 24.11.2006, p. 14; modifiée en dernier lieu par la directive d’exécution 2014/22/UE, JO L 44 du 14.2.2014, p. 45</td></tr>
+<tr><td>40. ...</td><td></td></tr>
+<tr><td>41. Décision 2007/25/CE</td><td>Décision 2007/25/CE de la Commission du 22 décembre 2006 relative à certaines mesures de protection en relation avec l’influenza aviaire hautement pathogène et l’introduction dans la Communauté d’oiseaux de compagnie accompagnant leur propriétaire, JO L 8 du 13.1.2007, p. 29; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2107, JO L 425 du 16.12.2020, p. 103</td></tr>
+<tr><td>42. Décision 2007/82/CE</td><td>Décision 2007/82/CE de la Commission du 2 février 2007 relative à des mesures d’urgence aux fins de la suspension des importations de produits de la pêche destinés à la consommation humaine en provenance de la République de Guinée, version du JO L 28 du 3.2.2007, p. 25</td></tr>
+<tr><td>43. Décision 2007/453/CE</td><td>Décision 2007/453/CE de la Commission du 29 juin 2007 déterminant le statut au regard de l’ESB des États membres ou des pays tiers, ou de leurs régions, en fonction de leur risque d’ESB, JO L 172 du 30.6.2007, p. 84; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2212, JO L 438 du 28.12.2020, p. 44</td></tr>
+<tr><td>44. Décision 2007/642/CE</td><td>Décision 2007/642/CE de la Commission du 4 octobre 2007 relative à des mesures d’urgence applicables aux produits de la pêche importés d’Albanie, version du JO L 260 du 5.10.2007, p. 21</td></tr>
+<tr><td>45. Décision 2007/777/CE</td><td>Décision 2007/777/CE de la Commission du 29 novembre 2007 établissant les conditions sanitaires et de police sanitaire ainsi que les modèles de certificats pour l’importation de certains produits à base de viande et d’estomacs, vessies et boyaux traités destinés à la consommation humaine en provenance de pays tiers, et abrogeant la décision 2005/432/CE, JO L 312 du 30.11.2007, p. 49; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2213, JO L 438 du 28.12.2020, p. 48</td></tr>
+<tr><td>46. Décision 2008/636/CE</td><td>Décision 2008/636/CE de la Commission du 22 juillet 2008 établissant la liste des pays tiers en provenance desquels les États membres autorisent les importations d’ovules et d’embryons de l’espèce porcine, version du JO L 206 du 2.8.2008, p. 32</td></tr>
+<tr><td>47. ...</td><td></td></tr>
+<tr><td>48. Décision 2008/698/CE</td><td>Décision 2008/698/CE de la Commission du 8 août 2008 concernant l’admission temporaire et les importations dans la Communauté de chevaux enregistrés en provenance d’Afrique du Sud, version du JO L 235 du 2.9.2008, p. 16</td></tr>
+<tr><td>49. Règlement (CE) n<sup>o</sup> 798/2008</td><td>Règlement (CE) no 798/2008 de la Commission du 8 août 2008 établissant une liste des pays tiers, territoires, zones ou compartiments en provenance desquels les volailles et les produits de volailles peuvent être importés dans la Communauté et transiter par celle-ci ainsi que les règles en matière de certification vétérinaire, JO L 226 du 23.8.2008, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2205, JO L 438 du 28.12.2020, p. 11</td></tr>
+<tr><td>50. ...</td><td></td></tr>
+<tr><td>51. Décision 2008/946/CE</td><td>Décision 2008/946/CE de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les exigences liées à la mise en quarantaine d’animaux d’aquaculture, JO L 337 du 16.12.2008, p. 94</td></tr>
+<tr><td>52. Règlement (CE) n<sup>o</sup> 1251/2008</td><td>Règlement (CE) n<sup>o</sup> 1251/2008 de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les conditions et les exigences de certification applicables à la mise sur le marché et à l’importation dans la Communauté d’animaux d’aquaculture et de produits issus de ces animaux et établissant une liste des espèces vectrices, JO L 337 du 16.12.2008, p. 41; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2202, JO L 438 du 28.12.2020, p. 1</td></tr>
+<tr><td>53. Règlement (CE) n<sup>o</sup> 1252/2008</td><td>Règlement n<sup>o</sup> 1252/2008 de la Commission du 12 décembre 2008 dérogeant au règlement (CE) n<sup>o</sup> 1251/2008 et suspendant les importations dans la Communauté de lots de certains animaux d’aquaculture en provenance de Malaisie, version du JO L 337 du 16.12.2008, p. 76</td></tr>
+<tr><td>54. Règlement (CE) n<sup>o</sup> 119/2009</td><td>Règlement (CE) n<sup>o</sup> 119/2009 de la Commission du 9 février 2009 établissant une liste de pays tiers, ou de parties de pays tiers, pour l’importation dans la Communauté ou le transit par celle-ci de viandes de léporidés sauvages, de certains mammifères terrestres sauvages et de lapins d’élevage, ainsi que les exigences applicables à la certification vétérinaire, JO L 39 du 10.2.2009, p. 12; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2206, JO L 438 du 28.12.2020, p. 15</td></tr>
+<tr><td>55. Règlement (CE) n<sup>o</sup> 1069/2009</td><td>Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (règlement relatif aux sous-produits animaux) JO L 300 du 14.11.2009, p. 1 ; modifié en dernier lieu par le règlement (UE) 2019/1009, JO L 170 du 25.6.2019, p. 1</td></tr>
+<tr><td>56. Directive 2009/156/CE</td><td>Directive 2009/156/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les mouvements d’équidés et les importations d’équidés en provenance des pays tiers, JO L 192 du 23.7.2010, p. 1; modifiée en dernier lieu par la décision d’exécution (UE) 2016/1840, JO L 280 du 18.10.2016, p. 33</td></tr>
+<tr><td>57. Directive 2009/158/CE</td><td>Directive 2009/158/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance des pays tiers de volailles et d’œufs à couver, JO L 343 du 22.12.2009, p. 74; modifiée en dernier lieu par la décision d’exécution 2011/879/UE, JO L 343 du 23.12.2011, p. 105</td></tr>
+<tr><td>58. ...</td><td></td></tr>
+<tr><td>59. Règlement (CE) n<sup>o</sup> 206/2010</td><td>Règlement (UE) n<sup>o</sup> 206/2010 de la Commission du 12 mars 2010 établissant des listes des pays tiers, territoires ou parties de pays tiers ou territoires en provenance desquels l’introduction dans l’Union européenne de certains animaux et viandes fraîches est autorisée, et définissant les exigences applicables en matière de certification vétérinaire, JO L 73 du 20.3.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2204, JO L 438 du 28.12.2020, p. 7</td></tr>
+<tr><td>60. Règlement (UE) n<sup>o</sup> 605/2010</td><td>Règlement (UE) n<sup>o</sup> 605/2010 de la Commission du 2 juillet 2010 arrêtant les conditions sanitaires et de police sanitaire ainsi que les exigences en matière de certification vétérinaire pour l’introduction dans l’Union européenne de lait cru et de produits laitiers destinés à la consommation humaine, JO L 175 du 10.7.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2207, JO L 438 du 28.12.2020, p. 18</td></tr>
+<tr><td>61. Décision 2010/381/UE</td><td>Décision 2010/381/UE de la Commission du 8 juillet 2010 relative à des mesures d’urgence applicables aux lots de produits de l’aquaculture importés d’Inde et destinés à la consommation humaine, JO L 174 du 9.7.2010, p. 51; modifiée en dernier lieu par la décision d’exécution (UE) 2016/1774, JO L 271 du 6.10.2016, p. 7</td></tr>
+<tr><td>62. ...</td><td></td></tr>
+<tr><td>63. Décision 2010/472/UE</td><td>Décision 2010/472/UE de la Commission du 26 août 2010 relative aux importations dans l’Union de sperme, d’ovules et d’embryons d’ovins et de caprins, JO L 228 du 31.8.2010, p. 74; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2217, JO L 438 du 28.12.2020, p. 60</td></tr>
+<tr><td>64. Règlement (UE) n<sup>o</sup> 142/2011</td><td>Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1720, JO L 386 du 18.11.2020, p. 6</td></tr>
+<tr><td>65. Décision 2011/163/UE</td><td>Décision 2011/163/UE de la Commission du 16 mars 2011 relative à l’approbation des plans soumis par les pays tiers conformément à l’art. 29 de la directive 96/23/CE du Conseil, JO L 70 du 17.3.2011, p. 40; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2218, JO L 438 du 28.12.2020, p. 63</td></tr>
+<tr><td>66. Décision d’exécution 2011/630/UE</td><td>Décision d’exécution 2011/630/UE de la Commission du 20 septembre 2011 relative aux importations dans l’Union de sperme d’animaux domestiques de l’espèce bovine, JO L 247 du 24.9.2011, p. 32; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2215, JO L 438 du 28.12.2020, p. 54</td></tr>
+<tr><td>67. Règlement (UE) n<sup>o</sup> 28/2012</td><td>Règlement (UE) n<sup>o</sup> 28/2012 de la Commission du 11 janvier 2012 fixant les exigences de certification applicables à certains produits composés importés dans l’Union ou transitant par celle-ci, et modifiant la décision 2007/275/CE et le règlement (CE) n<sup>o</sup> 1162/2009, JO L 12 du 14.1.2012, p. 1; modifié en dernier lieu par le règlement Délégué (UE) 2019/2124, JO L 321 du 12.12.2019, p. 73</td></tr>
+<tr><td>68. Décision d’exécution 2012/137/UE</td><td>Décision d’exécution 2012/137/UE de la Commission du 1er mars 2012 relative à l’importation dans l’Union de sperme d’animaux domestiques de l’espèce porcine, JO L 64 du 3.3.2012, p. 29; modifiée par la décision d’exécution (UE) 2020/2214, JO L 438 du 28.12.2020, p. 51</td></tr>
+<tr><td>69. Règlement d’exécution (UE) n<sup>o</sup> 139/2013</td><td>Règlement d’exécution (UE) n<sup>o</sup> 139/2013 de la Commission du 7 janvier 2013 fixant les conditions de police sanitaire applicables aux importations de certains oiseaux dans l’Union et les conditions de quarantaine qui leur sont applicables, JO L 47 du 20.2.2013, p. 1</td></tr>
+<tr><td>70. Règlement d’exécution (UE) n<sup>o</sup> 577/2013</td><td>Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil, JO L 178 du 28.6.2013, p. 109; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2016, JO L 415 du 10.12.2020, p. 39</td></tr>
+<tr><td>71. Règlement d’exécution (UE) n<sup>o</sup> 743/2013</td><td>Règlement d’exécution (UE) n<sup>o</sup> 743/2013 de la Commission du 31 juillet 2013 concernant des mesures de protection sur les importations de mollusques bivalves de Turquie destinés à la consommation humaine, JO L 205 du 1.8.2013, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2017/2369, JO L 337 du 19.12.2017, p. 26</td></tr>
+<tr><td>72. Décision d’exécution 2013/503/UE</td><td>Décision d’exécution 2013/503/UE de la Commission du 11 octobre 2013 reconnaissant certaines parties de l’Union indemnes de la varroase des abeilles et fixant les garanties complémentaires obligatoires dans le cadre des échanges à l’intérieur de l’Union et des importations pour la protection du statut officiellement indemne de varroase, JO L 273 du 15.10.2013, p. 38; modifiée en dernier lieu par la décision d’exécution (UE) 2019/1895, JO L 291 du 12.11.2019, p. 54</td></tr>
+<tr><td>[tab] 73. à 77. ...</td><td></td></tr>
+<tr><td>78. Règlement d’exécution (UE) n<sup>o</sup> 2015/262</td><td>Règlement d’exécution (UE) 2015/262 de la Commission du 17 février 2015 établissant des règles conformément aux directives du Conseil 90/427/CEE et 2009/156/CE en ce qui concerne les méthodes d’identification des équidés (règlement sur le passeport équin), version du JO L 59 du 3.3.2015, p. 1</td></tr>
+<tr><td>79. Décision d’éxecution (UE) 2015/1901</td><td>Décision d’exécution (UE) 2015/1901 de la Commission du 20 octobre 2015 établissant les règles de certification et un modèle de certificat sanitaire pour l’importation dans l’Union de lots d’animaux vivants et de produits animaux en provenance de Nouvelle-Zélande et abrogeant la décision 2003/56/CE, version du JO L 277 du 22.10.2015, p. 32</td></tr>
+<tr><td>80. ...</td><td></td></tr>
+<tr><td>81. Règlement d’exécution (UE) 2016/6</td><td>Règlement d’exécution (UE) 2016/6 de la Commission du 5 janvier 2016 imposant des conditions particulières à l’importation de denrées alimentaires et d’aliments pour animaux originaires ou en provenance du Japon à la suite de l’accident survenu à la centrale nucléaire de Fukushima, et abrogeant le règlement d’exécution (UE) n<sup>o</sup> 322/2014, JO L 3 du 6.1.2016, p. 5; modifié en dernier lieu par le règlement d’exécution (UE) 2019/1787 JO L 272 du 25.10.2019, p. 140</td></tr>
+<tr><td>82. Règlement d’exécution (UE) 2016/759</td><td>Règlement d’exécution (UE) 2016/759 de la Commission du 28 avril 2016 établissant les listes des pays tiers, parties de pays tiers et territoires en provenance desquels les États membres doivent autoriser l’introduction dans l’Union de certains produits d’origine animale destinés à la consommation humaine, fixant les exigences en matière de certification, modifiant le règlement (CE) n<sup>o</sup> 2074/2005 et abrogeant la décision 2003/812/CE, JO L 126 du 14.5.2016, p. 13; modifié en dernier lieu par le règlement (UE) 2019/2124, JO L 321 du 12.12.2019, p. 73</td></tr>
+<tr><td>82*a*. Décision d’exécution (UE) 2016/1918</td><td>Décision d’exécution (UE) 2016/1918 de la Commission du 28 octobre 2016 relative à certaines mesures de sauvegarde concernant la maladie du dépérissement chronique, JO L 296 du 1.11.2016, p. 21; modifiée par la décision d’exécution (UE) 2017/2181, JO L 307 du 23.11.2017, p. 58</td></tr>
+<tr><td>83. Règlement (UE) 2017/185</td><td>Règlement (UE) 2017/185 de la Commission du 2 février 2017 portant dispositions d’application transitoires pour certaines dispositions des règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 853/2004 et (CE) n<sup>o</sup> 854/2004, version du JO L 29 du 3.2.2017, p. 21</td></tr>
+<tr><td>84. ...</td><td></td></tr>
+<tr><td>85. ...</td><td></td></tr>
+<tr><td>86. Décision d’exécution (UE) 2018/320</td><td>Décision d’exécution (UE) 2018/320 de la Commission du 28 février 2018 relative à certaines mesures de protection zoosanitaire applicables aux échanges et à l’introduction de salamandres dans l’Union en ce qui concerne le champignon Batrachochytrium salamandrivorans, JO L 62 du 5.3.2018, p. 18; modifiée par la décision d’exécution (UE) 2019/1998, JO L 310 du 2.12.2019, p. 35</td></tr>
+<tr><td>87. ...</td><td></td></tr>
+<tr><td>88. Règlement d’exécution (UE) 2018/659</td><td>Règlement d’exécution (UE) 2018/659 de la Commission du 12 avril 2018 relatif aux conditions d’entrée dans l’Union d’équidés vivants et de sperme, d’ovules et d’embryons d’équidés, JO L 110 du 30.4.2018, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2203, JO L 438 du 28.12.2020, p. 4</td></tr>
+<tr><td>89. Décision d’exécution (UE) 2019/294</td><td>Décision d’exécution (UE) 2019/294 de la Commission du 18 février 2019 établissant la liste des territoires et pays tiers en provenance desquels les importations dans l’Union de chiens, de chats et de furets sont autorisées ainsi que le modèle de certificat sanitaire pour ces importations, version du JO L 48 du 20.2.2019, p. 41</td></tr>
+<tr><td>90. Règlement (UE) 2019/759</td><td>Règlement (UE) 2019/759 de la Commission du 13 mai 2019 portant dispositions d’application transitoires relatives aux conditions sanitaires d’importation des denrées alimentaires contenant à la fois des produits d’origine végétale et des produits transformés d’origine animale (produits composés), version du JO L 125 du 14.5.2019, p. 11</td></tr>
+<tr><td>91. Décision d’exécution (UE) 2019/1351</td><td>Décision d’exécution (UE) 2019/1351 de la Commission du 19 août 2019 fixant des conditions particulières pour les importations dans l’Union et le transit par celle-ci de produits à base de viande ainsi que d’estomacs, de vessies et de boyaux traités obtenus à partir d’animaux de l’espèce porcine provenant de la République de Serbie à la suite de l’apparition de la peste porcine africaine dans ce pays, et modifiant la décision d’exécution 2013/426/UE, version du JO L 216I du 20.8.2019, p. 1</td></tr>
+<tr><td>92. Règlement délégué (UE) 2019/625</td><td>Règlement délégué (UE) 2019/625 de la Commission du 4 mars 2019 complétant le règlement (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les exigences applicables à l’entrée dans l’Union d’envois de certains animaux et biens destinés à la consommation humaine, version du JO L 131 du 17.5.2019, p. 18</td></tr>
+<tr><td>93. Règlement d’exécution (UE) 2019/626</td><td>Règlement d’exécution (UE) 2019/626 de la Commission du 5 mars 2019 concernant les listes des pays tiers ou régions de pays tiers en provenance desquels l’entrée dans l’Union européenne de certains animaux et biens destinés à la consommation humaine est autorisée, modifiant le règlement d’exécution (UE) 2016/759 en ce qui concerne ces listes, JO L 131 du 17.5.2019, p. 31; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2209, JO L 438 du 28.12.2020, p. 24</td></tr>
+<tr><td>94. Règlement d’exécution (UE) 2019/628</td><td>Règlement d’exécution (UE) 2019/628 de la Commission du 8 avril 2019 concernant les modèles de certificats officiels relatifs à certains animaux et biens et modifiant le règlement (CE) n° 2074/2005 et le règlement d’exécution (UE) 2016/759 en ce qui concerne ces modèles de certificats, version du JO L 131 du 17.5.2019, p. 101</td></tr>
+<tr><td>95. Règlement d’exécution (UE) 2020/1641</td><td>Règlement d’exécution (UE) 2020/1641 de la Commission du 5 novembre 2020 relatif aux importations de mollusques bivalves, échinodermes, tuniciers et gastéropodes marins vivants, réfrigérés, congelés ou transformés destinés à la consommation humaine en provenance des États-Unis d’Amérique, version du JO L 370 du 6.11.2020, p. 4</td></tr>
+<tr><td>96. Règlement d’exécution (UE) 2020/2208</td><td>Règlement d’exécution (UE) 2020/2208 de la Commission du 22 décembre 2020 prenant en considération le Royaume-Uni en tant que pays tiers autorisé à importer des lots de foin et de paille dans l’Union, version du JO L 438 du 28.12.2020, p. 21.</td></tr>
+</table>
+
+Annexe 2*[^t-2]*
+
+(art. 2, al. 2)
+
+## Conditions d’acceptation des garanties sanitaires additionnelles
+
+[^t-2]: Mise à jour par le ch. I de l’O de l’OSAV du 11 juil. 2016 ([RO 2016 2557](https://fedlex.data.admin.ch/eli/oc/2016/403)) et du 13 oct. 2016, en vigueur depuis le 15 oct. 2016 ([RO 2016 3441](https://fedlex.data.admin.ch/eli/oc/2016/580)).
+
+### 1 Garanties sanitaires additionnelles pour les animaux de l’espèce bovine
+
+Les garanties sanitaires additionnelles définies à l’art. 2, al. 1, let. a, ne sont acceptées que si les conditions fixées aux art. 2 et 3 de la décision 2004/558/CE[^annex2-lvlu1-lvl1-1] sont remplies.
+
+[^annex2-lvlu1-lvl1-1]: Décision 2004/558/CE de la Commission du 15 juillet 2004 mettant en œuvre la directive 64/432/CEE du Conseil en ce qui concerne des garanties additionnelles pour les échanges intracommunautaires de bovins en rapport avec la rhinotrachéite infectieuse bovine et l’approbation des programmes d’éradication présentés par certains États membres, JO L 249 du 23.7.2004, p. 20; modifiée en dernier lieu par la décision d’exécution (UE) n<sup>o</sup> 2016/1101, JO L 182 du 7.7.2016, p. 51.
+
+### 2 Garanties sanitaires additionnelles pour les animaux de l’espèce porcine
+
+Les garanties sanitaires additionnelles définies à l’art. 2, al. 1, let. b, ne sont acceptées que si les conditions fixées à l’art. 1 de la décision 2008/185/CE[^annex2-lvlu1-lvl2-1] sont remplies.
+
+[^annex2-lvlu1-lvl2-1]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie, JO L 59 du 4.3.2008, p. 19; modifiée en dernier lieu par la décision d’exécution (UE) n<sup>o</sup> 2016/1782, JO L 272 du 7.10.2016, p. 90.
+
+Annexe 3*[^t-3]*
+
+(art. 3)
+
+## Produits d’origine animale qui présentent un risque élevé sur le plan de la police des épizooties ou de l’hygiène des denrées alimentaires
+
+[^t-3]: Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)).
+
+Les produits d’origine animale qui présentent un risque élevé sur le plan de la police des épizooties ou de l’hygiène des denrées alimentaires visés à l’art. 8, al. 1, let. a, OITE-PT sont des produits qui doivent être munis d’un des documents d’accompagnement suivants:
+
+- 1\. Certificat sanitaire pour les aliments crus pour animaux familiers destinés à la vente directe ou pour les sous-produits animaux devant servir à l’alimentation des animaux à fourrure, destinés à être expédiés vers l’UE ou à transiter par celle-ci conformément à l’annexe XV, chap. 3, let. D, du règlement (UE) n<sup>o</sup> 142/2011[^annex3-lvlu1-1].
+- 2\. Certificat sanitaire pour les sous-produits animaux devant servir à la fabrication d’aliments pour animaux familiers et destinés à être expédiés vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 3, let. F, du règlement (UE) n<sup>o</sup> 142/2011.
+- 2*a*. Certificat sanitaire pour les produits sanguins non traités, à l’exclusion des produits sanguins d’équidés, devant servir à la fabrication de produits dérivés à utiliser en dehors de la chaîne alimentaire des animaux d’élevage, et destinés à être expédiés vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 4, let. C, du règlement (UE) n° 142/2011 ; les produits sanguins auxquels les charges prévues à la note 4 du certificat ne s’appliquent pas ne sont toutefois pas considérés comme des produits d’origine animale qui présentent un risque élevé sur le plan de la police des épizooties ou de l’hygiène des denrées alimentaires.
+- 3\. Certificat sanitaire pour les sous-produits animaux à utiliser en dehors de la chaîne alimentaire animale ou comme échantillons commerciaux, destinés à être expédiés vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 8, du règlement (UE) n<sup>o</sup> 142/2011.
+- 4\. Certificat sanitaire pour les graisses fondues non destinées à la consommation humaine, à utiliser en dehors de la chaîne alimentaire animale et destinées à être expédiées vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 10, let. B, du règlement (UE) n<sup>o</sup> 142/2011.
+- 5\. Certificat sanitaire pour les dérivés lipidiques non destinés à la consommation humaine, à utiliser en dehors de la chaîne alimentaire animale et destinés à être expédiés vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 14, let. A, du règlement (UE) n<sup>o</sup> 142/2011.
+- 6\. Certificat sanitaire pour les dérivés lipidiques non destinés à la consommation humaine, à utiliser comme aliments pour animaux ou en dehors de la chaîne alimentaire animale et destinés à être expédiés vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 14, let. B, du règlement (UE) n<sup>o</sup> 142/2011.
+- 7\. Modèle de déclaration pour l’importateur d’os et de produits à base d’os (à l’exclusion de la farine d’os), de cornes et de produits à base de corne (à l’exclusion de la farine de corne), d’onglons et de produits à base d’onglons (à l’exclusion de la farine d’onglon) non destinés à servir de matières premières pour aliments des animaux, d’engrais organiques ou d’amendements et destinés à être expédiés vers l’UE, conformément à l’annexe XV, chap. 16, du règlement (UE) n<sup>o</sup> 142/2011.
+- 8\. Certificat sanitaire pour les cornes et produits à base de corne (à l’exclusion de la farine de corne) ainsi que les onglons et produits à base d’onglons (à l’exclusion de la farine d’onglon) devant servir à la production d’engrais organiques ou d’amendements et destinés à être expédiés vers l’UE ou à transiter par celle-ci, conformément à l’annexe XV, chap. 18, du règlement (UE) n<sup>o</sup> 142/2011.
+- 9\. Certificat sanitaire pour la gélatine non destinée à la consommation humaine, à usage photographique, et destinée à être expédiée dans l’UE, conformément à l’annexe XV, chap. 19, du règlement (UE) n° 142/2011.
+
+[^annex3-lvlu1-1]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/797, JO L 194 du 18.6.2020, p. 1.
+
+Annexe 4*[^t-4]*
+
+(art. 5)
+
+## Produits animaux emportés dans le trafic voyageurs
+
+[^t-4]: Nouvelle teneur selon le ch. I al. 2 de l’O de l’OSAV du 13 juil. 2020, en vigueur depuis le 15 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)).
+
+I. Il est interdit d’importer ou de transiter:
+
+- a. des sous-produits animaux de même que des semences, ovules et embryons animaux destinés à la reproduction, soumis au contrôle vétérinaire de frontière conformément à l’art. 6, à l’exception des denrées alimentaires spéciales requises pour des raisons médicales pour animaux visées au ch. III, ch. 1, et
+- b. les denrées alimentaires suivantes, à l’exception de celles mentionnées au ch. II ou visées au ch. III, ch. 4:
+
+<table>
+<tr><th>Position tarifaire</th><th>Nom</th><th>Champ d’application</th></tr>
+<tr><td>1. ex-chap. 2</td><td>Viandes et abats comestibles</td><td>Tous, sauf les cuisses de grenouilles</td></tr>
+<tr><td>2. 0401–0406</td><td>Lait et produits de la laiterie</td><td>Tous</td></tr>
+<tr><td>3. 0504</td><td>Boyaux, vessies et estomacs d’animaux, sauf de poissons</td><td>Tous</td></tr>
+<tr><td>4. 1501</td><td>Graisses de porc (y compris le saindoux) et graisses de volailles</td><td>Tous</td></tr>
+<tr><td>5. 1502</td><td>Graisses des animaux des espèces bovine, ovine ou caprine</td><td>Tous</td></tr>
+<tr><td>6. 1503</td><td>Stéarine solaire, huile de saindoux, oléo-stéarine, oléo-margarine et huile de suif</td><td>Tous</td></tr>
+<tr><td>7. 1506</td><td>Autres graisses et huiles animales et leurs fractions</td><td>Tous</td></tr>
+<tr><td>8. 1601</td><td>Saucisses, saucissons et produits similaires, de viande, d’abats ou de sang; préparations alimentaires à base de ces produits</td><td>Tous</td></tr>
+<tr><td>9. 1602</td><td>Autres préparations et conserves de viande, d’abats ou de sang</td><td>Tous</td></tr>
+<tr><td>10. 1702.1100 1702.1900</td><td>Lactose et sirop de lactose</td><td>Tous</td></tr>
+<tr><td>11. ex-1901</td><td>Extraits de malt et préparations alimentaires de farines, gruaux, semoules, amidons, fécules ou extraits de malt</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>12. ex-1902</td><td>Pâtes alimentaires, telles que spaghetti, macaroni, nouilles, lasagnes, gnocchi, ravioli ou cannelloni; couscous</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>13. ex-1905.90</td><td>Pains et autres produits de boulangerie ordinaire, produits de la pâtisserie, de la biscuiterie et autres produits de boulangerie; hosties, cachets vides des types utilisés pour médicaments, pains à cacheter, pâtes séchées de farine, d’ami-don ou de fécule en feuilles et produits similaires</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>14. ex-2004, ex‑2005</td><td>Légumes préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>15. ex-2103</td><td>Préparations pour sauces et sauces préparées; condiments et assaisonnements, composés</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>16. ex-2104</td><td>Préparations pour soupes, potages ou bouillons; soupes, potages ou bouillons préparés; préparations alimentaires composites homogénéisées</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>17. ex-2105</td><td>Glaces de consommation</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+<tr><td>18. ex-2106</td><td>Préparations alimentaires non dénommées ni comprises ailleurs</td><td>Uniquement les préparations contenant de la viande, des produits à base de viande, du lait ou des produits laitiers</td></tr>
+</table>
+
+II. Peuvent être importés en Suisse ou peuvent transiter par celle-ci sans restrictions:
+
+- a. les extraits et concentrés de viande;
+- b. les bouillons de viande et les soupes conditionnés pour la vente au consommateur final;
+- c.
+
+  les denrées alimentaires suivantes, à condition qu’elles ne contiennent pas de viande ni de produits à base de viande:
+
+  - 1\. pâtes alimentaires,
+  - 2\. produits de la boulangerie, de la pâtisserie, de la biscuiterie et autres produits similaires,
+  - 3\. chocolat,
+  - 4\. confiseries, y compris les sucreries,
+  - 5\. olives farcies de poisson,
+  - 6\. compléments alimentaires emballés pour les consommateurs finaux qui ne contiennent aucun produit d’origine animale non transformé;
+
+- d.
+
+  autres denrées alimentaires composées, à condition qu’elles:
+
+  - – ne contiennent ni viande, ni produits à base de viande, ni lait, ni produits laitiers;
+  - – comportent une part d’ovoproduits ou de produits à base de poisson inférieure à 50 %.
+
+III. Les produits animaux suivants ne peuvent être importés en Suisse ou transiter par celle-ci que dans les quantités mentionnées ci-après:
+
+<table>
+<tr><td>Produits</td><td>Provenance</td><td>Conditions</td></tr>
+<tr><td>1. Lait en poudre pour nourrissons, aliments pour nourrissons et denrées alimentaires spéciales requises pour des raisons médicales pour l’homme ou l’animal, à condition: – que les produits se conservent à température ambiante; – qu’il s’agisse de produits conditionnés de marque déposée destinés à la vente directe au consommateur final, et – que le conditionnement soit intact, à moins que le produit ne soit en cours d’utilisation. [tab]</td><td>Îles Féroé, Groenland</td><td>au maximum 10 kg par personne ou par animal pris avec soi</td></tr>
+<tr><td>[tab]</td><td>autres pays tiers</td><td>au maximum 2 kg par personne ou par animal pris avec soi</td></tr>
+<tr><td>2. Poissons frais éviscérés et produits à base de poisson.</td><td>Îles Féroé, Groenland</td><td>sans limitation de poids</td></tr>
+<tr><td>[tab]</td><td>tous les pays tiers</td><td>au maximum 20 kg par personne ou un poisson entier éviscéré sans limitation de poids par personne</td></tr>
+<tr><td>3. Denrées alimentaires non mentionnées sous les ch. I, II ou III, ch. 1 et 2, telles qu’œufs, miel, cuisses de grenouilles gélatine, escargots terrestres (morts), insectes (morts) ou collagène.</td><td>Îles Féroé, Groenland</td><td>au maximum 10 kg par personne</td></tr>
+<tr><td>[tab]</td><td>autres pays tiers</td><td>au maximum 2 kg par personne</td></tr>
+<tr><td>4. Denrées alimentaires mentionnées sous le ch. I, let. b, et sous-produits animaux destinés à l’alimentation des animaux de compagnie.</td><td>Îles Féroé, Groenland</td><td>au maximum 10 kg par personne</td></tr>
+</table>
+
+Annexe 5
+
+(art. 7)
+
+## Actes législatifs de l’UE relatifs à l’étiquetage de l’emballage extérieur des lots
+
+<table>
+<tr><th>Texte législatif de l’UE</th><th>Dispositions pertinentes</th></tr>
+<tr><th>Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 1137/2014, JO L 307 du 28.10.2014, p. 28.</th><th>Annexe II</th></tr>
+</table>
+
+Annexe 6
+
+(art. 8)
+
+## Exigences formelles auxquelles doivent satisfaire les certificats sanitaires
+
+- 1 Le représentant de l’autorité du pays exportateur ou de l’entreprise qui délivre le certificat sanitaire doit le signer et le munir du cachet officiel. Cette exigence vaut pour chaque page du certificat, si celui-ci en comporte plus d’une. Le cachet et la signature doivent être d’une couleur différente de celle des autres données figurant sur le certificat. On y ajoutera le nom et le titre de fonction du signataire en caractères lisibles et en capitales.
+- 2 Le contenu et l’aspect du certificat sanitaire doivent correspondre au modèle fixé pour l’animal, le produit animal et l’État en question. Le certificat doit être rempli entièrement et ne peut être établi que pour un seul établissement de destination.
+- 3 Les certificats doivent être rédigés en allemand, en français, en italien ou en anglais et, s’il s’agit d’un lot en transit à destination des États membres de l’UE, de l’Islande ou de la Norvège, dans la langue officielle du pays de destination; sinon ils doivent être accompagnés d’une traduction légalisée dans la langue pertinente.
+- 4
+
+  Les certificats doivent être constitués:
+
+  - a. d’une feuille de papier unique;
+  - b. de deux ou plusieurs pages faisant partie d’une feuille de papier unique qui ne doit pas être divisée, ou
+  - c. d’une séquence de pages numérotées de manière à indiquer qu’il s’agit d’une page spécifique d’une séquence finie (par ex.: «page 2 sur 4»).
+
+- 5 Les certificats doivent porter un numéro d’identification unique. Lorsque le certificat se compose d’une séquence de pages, chaque page doit indiquer ce numéro.
+- 6 Les éventuelles modifications doivent être effectuées au moyen de ratures dûment signées et cachetées par la personne chargée de la certification.
+- 7 Le certificat doit être délivré avant que le lot auquel il se réfère ne quitte le service de contrôle de l’autorité compétente du pays expéditeur.
+
+Annexe 7
+
+(art. 9)
+
+## Exigences auxquelles doivent satisfaire les stations de quarantaine
+
+- 1
+
+  La station de quarantaine doit:
+
+  - a. être placée sous le contrôle permanent et sous la responsabilité du vétérinaire officiel, et
+  - b. être située dans un lieu suffisamment éloigné d’unités d’élevage comportant des animaux réceptifs aux épizooties concernées.
+
+- 2
+
+  Elle doit disposer:
+
+  - a. d’installations faciles à nettoyer et à désinfecter, permettant le chargement et le déchargement des différents moyens de transport, le contrôle, l’approvisionnement et les soins des animaux et ayant une superficie, un éclairage, une aération et une aire d’approvisionnement en rapport avec le nombre d’animaux à héberger;
+  - b. de locaux suffisamment vastes pour héberger les animaux, y compris des vestiaires, douches et toilettes, à la disposition du personnel chargé des tâches de contrôle;
+  - c. d’un local et d’un équipement appropriés pour le prélèvement et le traitement des échantillons et pour les contrôles de routine;
+  - d. des installations et des équipements requis pour héberger, alimenter, abreuver, soigner et, le cas échéant, abattre ou tuer les animaux;
+  - e. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES, et
+  - f. d’appareils et d’équipements de nettoyage et de désinfection.
+
+Annexe 8
+
+(art. 10)
+
+## Exigences auxquelles doivent satisfaire les locaux, les équipements et les installations des postes d’inspection frontaliers agréés
+
+### 1 Postes d’inspection frontaliers agréés pour le contrôle des animaux
+
+-
+
+  Les postes d’inspection frontaliers doivent disposer:
+
+  - a. d’une file d’accès réservée au transport d’animaux vivants;
+  - b. d’installations faciles à nettoyer et à désinfecter, permettant le chargement et le déchargement des différents moyens de transport, le contrôle, l’approvisionnement et les soins des animaux et ayant une superficie, un éclairage, une aération et une aire d’approvisionnement adaptés au nombre d’animaux à contrôler;
+  - c. de locaux suffisamment vastes pour héberger, contrôler et séquestrer des animaux, ainsi que de vestiaires, douches et toilettes à la disposition du personnel chargé des tâches de contrôle;
+  - d. d’un local et d’un équipement appropriés pour le prélèvement et le traitement des échantillons et pour les contrôles de routine;
+  - e. des services d’un laboratoire spécialisé qui soit en mesure d’effectuer des analyses spéciales sur les échantillons prélevés au poste d’inspection en question;
+  - f. des services d’une entreprise qui, située à proximité immédiate, dispose des installations et équipements requis pour héberger, alimenter, abreuver, soigner et, le cas échéant, abattre les animaux;
+  - g. d’installations appropriées permettant, au cas où ces postes sont utilisés comme points d’arrêt ou de transbordement des animaux en cours de transport, de les décharger, de les abreuver et les alimenter, le cas échéant de les héberger convenablement et de leur donner des soins ou, si nécessaire, de procéder à leur mise à mort sur place d’une manière leur évitant toute souffrance inutile;
+  - h. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES, et
+  - i. d’appareils et d’équipements de nettoyage et de désinfection.
+
+### 2 Postes d’inspection frontaliers agréés pour le contrôle des produits animaux
+
+- 2\.1 Les postes d’inspection frontaliers doivent être construits de manière à fournir un niveau d’hygiène adéquat et à éviter toute contamination croisée.
+- 2\.2
+
+  Les locaux où les produits sont déchargés, examinés ou entreposés doivent être suffisamment vastes et comporter les éléments suivants:
+
+  - a. des surfaces murales à finition lisse et lavable qui, tout comme les sols, sont faciles à nettoyer et à désinfecter, et un système d’écoulement des eaux adapté;
+  - b. un plafond facile à nettoyer;
+  - c. un éclairage naturel ou artificiel suffisant, et
+  - d. un système approprié d’approvisionnement en eau froide et en eau chaude dans tous les locaux d’inspection.
+
+- 2\.3 Les divers postes d’inspection frontaliers agréés d’un même bureau de douane doivent se situer à une distance utile les uns des autres.
+- 2\.4 Les postes d’inspection frontaliers agréés pour manipuler des produits réfrigérés, congelés ou à température ambiante doivent être capables de stocker simultanément des volumes adéquats de produits pour chaque catégorie de température. Le vétérinaire de frontière doit pouvoir disposer en tout temps du volume d’entreposage dont il a besoin.
+- 2\.5 Pour les produits sous contrôle d’une température définie, destinés à l’alimentation humaine, la jonction entre le moyen de transport et les zones de déchargement doit être protégée ou isolée de l’environnement extérieur.
+- 2\.6
+
+  Les postes d’inspection frontaliers doivent disposer:
+
+  - a. d’un bureau muni de tous les moyens de communication requis, y compris un téléphone, un télécopieur, un terminal TRACES et une photocopieuse, de tous les documents nécessaires pour effectuer les contrôles et des ouvrages de référence, d’un local d’archivage d’un volume suffisant pour conserver tous les documents contrôlés;
+  - b. des locaux comprenant des vestiaires, des toilettes et des lavabos pour le personnel du poste d’inspection frontalier, lesquels ne peuvent être partagés qu’avec les autres personnes qui participent aux contrôles officiels;
+  - c. d’une zone fermée ou couverte destinée au déchargement des moyens de transport;
+  - d. d’un local d’inspection dans lequel les produits peuvent être examinés et des échantillons prélevés pour des tests ultérieurs; le lieu de prélèvement des échantillons peut se situer dans le local de contrôle;
+  - e. des locaux ou des zones d’entreposage adaptés pour permettre de conserver à la fois à des températures de réfrigération ou de congélation ou à la température ambiante, sous le contrôle du vétérinaire officiel, les lots séquestrés dans l’attente des résultats des analyses de laboratoire ou d’autres examens;
+  - f. de locaux et d’équipements appropriés pour le prélèvement et le traitement des échantillons et pour les contrôles de routine;
+  - g. des services d’un laboratoire qui soit en mesure d’analyser les échantillons prélevés au poste d’inspection;
+  - h. de locaux et d’installations frigorifiques permettant le stockage des échantillons prélevés sur les lots pour analyse et des produits dont la libération n’a pas été autorisée par le vétérinaire de frontière responsable du poste d’inspection frontalier;
+  - i. de locaux de réfrigération et d’installations où sont conservés séparément les denrées alimentaires et les autres produits animaux et qui permettent de les maintenir séparément à la température requise pour chaque catégorie de produits;
+  - j. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES;
+  - k. des services d’une entreprise apte à procéder aux traitements prévus par l’ordonnance du 25 mai 2011 sur l’élimination des sous-produits animaux[^annex8-lvlu1-lvl2-1];
+  - l. d’un équipement et de produits de nettoyage et de désinfection rangés dans un lieu approprié et adaptés aux besoins du poste, ou d’un système éprouvé de nettoyage et de désinfection par une entreprise externe; l’efficacité des travaux de nettoyage et de désinfection doit être prouvée et documentée, et
+  - m. d’installations pour l’entreposage temporaire des échantillons sous contrôle de la température dans l’attente de leur envoi au laboratoire, ainsi que de conteneurs adaptés au transport de ces échantillons.
+
+[^annex8-lvlu1-lvl2-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)

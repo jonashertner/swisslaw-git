@@ -1,0 +1,1789 @@
+---
+sr: "0.740.72"
+title: Accordo del 21 giugno 1999 fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia (con allegati e atto finale)
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
+language: it
+version: 2020-12-11
+adopted: 1999-06-21
+in_force: 2002-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20201211/it/xml/fedlex-data-admin-ch-eli-cc-2002-257-20201211-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20201211/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo fra la Confederazione Svizzera e la Comunità europea**** sul trasporto di merci e di passeggeri su strada e per ferrovia
+
+RU **2002** 1649; FF **1999** 5092[^t-1]
+
+Testo originale
+
+Concluso il 21 giugno 1999
+
+Approvato dall’Assemblea federale l’8 ottobre 1999[^t-2]
+
+Ratificato con strumenti depositati il 16 ottobre 2000
+
+Entrato in vigore il 1° giugno 2002
+
+(Stato 11 dicembre 2020)
+
+[^t-1]: Attualmente: Unione europea.
+[^t-2]: Art. 1 cpv. 1 lett. f del DC dell’8 ott. 1999 ([RU 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
+
+La Confederazione Svizzera,
+
+in appresso denominata «la Svizzera»,
+
+la Comunità europea,
+
+in appresso denominata «la Comunità»,
+
+entrambe denominate in appresso «le parti contraenti»,
+
+consapevoli del reciproco interesse delle parti contraenti nel promuovere la cooperazione e gli scambi, in particolare attraverso la reciproca concessione dell’accesso ai rispettivi mercati dei trasporti, come previsto dall’articolo 13 dell’Accordo del 2 maggio 1992[^ingress-1] fra la Comunità economica europea e la Confederazione Svizzera sul trasporto di merci su strada e per ferrovia, in appresso denominato «l’Accordo del 1992»;
+
+desiderose di sviluppare una politica dei trasporti coordinata allo scopo di incoraggiare l’uso di mezzi di trasporto di merci e passeggeri più rispettosi dell’ambiente, nell’ottica di unire la tutela dell’ambiente all’efficacia dei sistemi di trasporto, segnatamente nella regione alpina;
+
+desiderose di garantire una concorrenza leale fra i diversi modi di trasporto, considerando che essi devono coprire i costi cui danno origine;
+
+consapevoli della necessità di garantire la coerenza fra la politica svizzera dei trasporti ed i principi generali della politica comunitaria dei trasporti, in particolare nel contesto dell’attuazione di un quadro legislativo e regolamentare coordinato,
+
+convengono quanto segue:
+
+[^ingress-1]: [[RU 1993 1198](https://fedlex.data.admin.ch/eli/oc/1993/1198_1198_1198)]
+
+## Titolo I: Disposizioni generali
+
+#### Art. 1
+
+**Principi e obiettivi generali**
+
+<sup>1.</sup> Il presente Accordo fra la Comunità e la Svizzera è inteso, da un lato, a liberalizzare l’accesso delle parti contraenti ai rispettivi mercati del trasporto stradale e ferroviario di merci e passeggeri, allo scopo di garantire uno scorrimento più agevole del traffico sull’itinerario tecnicamente, geograficamente ed economicamente più adatto per tutti i modi di trasporto contemplati dall’Accordo, e, dall’altro, è volto a determinare le modalità di una politica coordinata dei trasporti.
+
+<sup>2.</sup> Le disposizioni dell’Accordo e la loro applicazione si basano sul principio della reciprocità e della libera scelta del modo di trasporto.
+
+<sup>3.</sup> Le parti contraenti si impegnano a non adottare misure discriminatorie nell’ambito dell’applicazione del presente Accordo.
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+<sup>1.</sup> Il presente Accordo si applica ai trasporti bilaterali su strada di merci e passeggeri fra le parti contraenti, al transito attraverso il loro territorio fatto salvo l’Accordo del 1992 e fatto salvo l’articolo 7, paragrafo 3, e alle operazioni di trasporto su strada di merci e passeggeri a carattere triangolare e al gran cabotaggio per la Svizzera.
+
+<sup>2.</sup> Il presente Accordo si applica al trasporto ferroviario internazionale di merci e passeggeri, nonché al trasporto combinato internazionale. Esso non si applica alle imprese ferroviarie la cui attività è limitata all’esercizio dei soli servizi di trasporto urbani, extraurbani o regionali.
+
+<sup>3.</sup> Il presente Accordo si applica alle operazioni di trasporto effettuate da imprese di trasporto su strada o da imprese ferroviarie con sede in una delle parti contraenti.
+
+#### Art. 3
+
+**Definizioni**
+
+<sup>1.</sup> Trasporti stradali
+
+Ai fini del presente Accordo si intende per:
+
+- – *professione di trasportatore di merci su strada:* l’attività di un’impresa che esegue, mediante un veicolo a motore oppure mediante complessi di veicoli, il trasporto di merci per conto terzi;
+- – *professione di trasportatore di passeggeri su strada:* l’attività di un’impresa che esegue, per conto terzi, trasporti internazionali di passeggeri a mezzo autobus;
+- *–* *impresa:* qualsiasi persona fisica o giuridica con o senza scopo di lucro, od associazione o gruppo di persone senza personalità giuridica con o senza scopo di lucro, nonché qualsiasi organismo che rivesta funzioni di autorità pubblica, il quale abbia personalità giuridica o dipenda da un’autorità avente personalità giuridica;
+- – *veicolo:* veicolo a motore immatricolato nel territorio di una parte contraente, o complesso di veicoli adibito esclusivamente al trasporto merci di cui almeno la motrice sia immatricolata nel territorio di una parte contraente, od ogni autoveicolo atto, secondo il tipo di costruzione e l’attrezzatura, a trasportare più di nove persone, conducente compreso, e destinato a tal fine;
+- – *trasporto internazionale*: spostamento di un veicolo il cui punto di partenza si trovi nel territorio di una parte contraente e la cui destinazione sia situata nel territorio dell’altra parte contraente o in un paese terzo e viceversa, nonché lo spostamento del veicolo a vuoto relativo al percorso sopra citato; qualora il punto di partenza o di destinazione dello spostamento sia situato in un paese terzo, il trasporto deve essere effettuato da un veicolo immatricolato nel territorio della parte contraente in cui si trova il punto di partenza o di destinazione dello spostamento;
+- – *transito*: il trasporto di merci o di passeggeri effettuato senza operazioni di carico o scarico e lo spostamento del veicolo a vuoto attraverso il territorio di una parte contraente;
+- – *gran cabotaggio per la Svizzera*: qualsiasi trasporto di merci per conto terzi effettuato con partenza da uno Stato membro della Comunità verso un altro Stato membro con un veicolo immatricolato in Svizzera, sia che detto veicolo – nel corso dello stesso viaggio e secondo l’itinerario abituale – transiti o meno dalla Svizzera;
+- *–* *traffico triangolare con paesi terzi*: qualsiasi trasporto di merci o passeggeri effettuato con partenza dal territorio di una parte contraente verso un paese terzo e viceversa, con un veicolo immatricolato nel territorio dell’altra parte contraente, sia che detto veicolo – nel corso dello stesso viaggio e secondo l’itinerario abituale – transiti o meno dal paese in cui è immatricolato;
+- – *autorizzazione*: autorizzazione, licenza o concessione richiesta secondo la legislazione della parte contraente.
+
+<sup>2.</sup> Trasporti ferroviari
+
+Ai fini del presente Accordo si intende per:
+
+- – *impresa ferroviaria*: qualsiasi impresa, privata o pubblica, la cui attività principale sia la prestazione di servizi di trasporto di merci e/o passeggeri per ferrovia e che garantisca obbligatoriamente la trazione. Per la trazione si può usare materiale non di proprietà dell’impresa ferroviaria interessata, e si può far ricorso a personale ad essa non appartenente;
+- – *raggruppamento internazionale*: qualsiasi associazione comprendente almeno due imprese ferroviarie stabilite in Stati membri diversi della Comunità, o di cui una abbia sede in Svizzera, che abbia lo scopo di fornire servizi di trasporto internazionale fra la Comunità e la Svizzera;
+- – *gestore dell’infrastruttura*: qualsiasi ente pubblico o impresa incaricati in particolare della creazione e della manutenzione dell’infrastruttura ferroviaria e della gestione dei sistemi di controllo e di sicurezza;
+- – *licenza*: un’autorizzazione rilasciata dall’autorità competente di una parte contraente ad un’impresa cui è riconosciuta la qualità di impresa ferroviaria. Tale qualità può essere limitata alla prestazione di determinati tipi di servizi di trasporto;
+- – *autorità responsabile della licenza*: gli organismi incaricati da ciascuna parte contraente di rilasciare le licenze;
+- – *tracciato*: capacità d’infrastruttura necessaria per far viaggiare un convoglio ferroviario tra due località in un determinato momento;
+- – *ripartizione*: l’assegnazione delle capacità di infrastruttura ferroviaria da parte di un organismo a ciò preposto;
+- – *organismo di ripartizione*: l’autorità e/o il gestore dell’infrastruttura incaricati da una delle parti contraenti di ripartire le capacità di infrastruttura;
+- – *servizi urbani ed extraurbani*: i servizi di trasporto che soddisfano le esigenze di un centro urbano o di un agglomerato, nonché le esigenze in materia di trasporto fra detto centro o agglomerato e le sue zone periferiche;
+- – *servizi regionali*: i servizi di trasporto destinati a soddisfare le esigenze di trasporto di una regione;
+- – *trasporto combinato*: il trasporto di merci effettuato da veicoli stradali o da unità di carico viaggianti per ferrovia per una parte del tragitto e su strada per i percorsi iniziali e/o terminali.
+- – *prezzi ferroviari competitivi*: i prezzi ferroviari sono considerati competitivi quando i prezzi ferroviari medi in Svizzera non sono più elevati dei costi stradali, quali definiti all’allegato 9, per un analogo tragitto.
+
+#### Art. 4
+
+**Riserva dell’Accordo del 1992**
+
+Fatte salve le deroghe introdotte dal presente Accordo, i diritti e gli obblighi delle parti contraenti derivanti dall’Accordo del 1992 non sono modificati dalle disposizioni del presente Accordo.
+
+## Titolo II: Trasporti stradali internazionali
+
+### A. Disposizioni comuni
+
+#### Art. 5
+
+**Accesso alla professione**
+
+<sup>1.</sup>
+
+Le imprese che intendono esercitare l’attività di trasportatore su strada devono soddisfare i tre requisiti seguenti:
+
+- a. onorabilità;
+- b. adeguata capacità finanziaria;
+- c. competenza professionale.
+
+<sup>2.</sup> Le relative disposizioni applicabili figurano nella sezione 1 dell’allegato 1.
+
+#### Art. 6
+
+**Norme sociali**
+
+Le disposizioni applicabili in materia sociale figurano nella sezione 2 dell’allegato 1.
+
+#### Art. 7
+
+**Norme tecniche**
+
+<sup>1.</sup> Fatti salvi i paragrafi 2 e 3, la Svizzera adotta, entro un termine di sei mesi dalla firma del presente Accordo, regimi equivalenti alla legislazione comunitaria relativa ai requisiti tecnici che disciplinano il trasporto stradale, alla quale fa riferimento nella sezione 3 dell’allegato 1.
+
+<sup>2.</sup> La Svizzera dispone di un periodo transitorio di 2 anni a decorrere dall’entrata in vigore del presente Accordo, per rendere la sua legislazione in materia di controllo tecnico dei veicoli equivalente al diritto comunitario.
+
+<sup>3.</sup> Con decorrenza dal 1º gennaio 2001, il limite del peso massimo autorizzato a pieno carico per i veicoli articolati e gli autotreni applicato dalla Svizzera è di 34 tonnellate per tutti i tipi di traffico.
+
+Con decorrenza dal 1º gennaio 2005, la Svizzera rende la sua legislazione relativa al peso massimo autorizzato nel traffico internazionale per detti veicoli equivalente a quella in vigore nella Comunità al momento della firma dell’Accordo.
+
+<sup>4.</sup> L’introduzione delle tariffe di uso della rete stradale definite all’articolo 40 si effettua parallelamente al progressivo aumento del limite di peso previsto al paragrafo 3.
+
+<sup>5.</sup> Ciascuna parte contraente si impegna a non applicare ai veicoli omologati nel territorio dell’altra parte contraente condizioni più restrittive di quelle in vigore nel proprio territorio.
+
+#### Art. 8
+
+**Regime transitorio per il peso dei veicoli**
+
+<sup>1.</sup> In vista della progressiva instaurazione del regime definitivo di cui all’articolo 7, paragrafo 3, secondo comma, i trasporti di merci per mezzo di un veicolo il cui peso effettivo a pieno carico superi 28 t (prima del 31.12.2000) o 34 t (fra l’1.1.2001 e il 31.12.2004) ma non superi 40 t, effettuati con partenza dalla Comunità per una destinazione situata oltre la zona svizzera vicina alla frontiera, quale definita all’allegato 6 (e viceversa), o eseguiti transitando attraverso la Svizzera, sono soggetti a contingente tramite pagamento di una tariffa per l’uso dell’infrastruttura, secondo le modalità previste ai paragrafi 2, 3 e 4. Questo contingente può anche essere usato da veicoli immatricolati in Svizzera per operazioni di trasporto all’interno del territorio svizzero.
+
+<sup>2.</sup> La Comunità riceve un contingente di 250 000 autorizzazioni per il 2000. La Svizzera riceve un contingente di 250 000 autorizzazioni per il 2000. Nel caso in cui l’Accordo non entri in vigore il 1º gennaio 2000, il numero di autorizzazioni previste per il 2000 sarà ridotto proporzionalmente.
+
+<sup>3.</sup> La Comunità riceve un contingente di 300 000 autorizzazioni sia per il 2001 che per il 2002. La Svizzera riceve un contingente di 300 000 autorizzazioni sia per il 2001 che per il 2002.
+
+<sup>4.</sup> La Comunità riceve un contingente di 400 000 autorizzazioni sia per il 2003 che per il 2004. La Svizzera riceve un contingente di 400 000 autorizzazioni sia per il 2003 che per il 2004.
+
+<sup>5.</sup> L’uso delle autorizzazioni previste ai paragrafi 2, 3, e 4 è soggetto, per ogni operatore svizzero o comunitario, al versamento di una tariffa per l’uso dell’infrastruttura svizzera, calcolata e riscossa secondo le modalità riprese nell’allegato 2.
+
+<sup>6.</sup> A decorrere dal 1º gennaio 2005 i veicoli conformi alle norme tecniche di cui all’articolo 7, paragrafo 3, secondo comma, sono esentati, conformemente all’articolo 32, da ogni regime di contingenti o autorizzazioni.
+
+### B. Trasporti internazionali di merci su strada
+
+#### Art. 9
+
+**Trasporti di merci fra i territori delle parti contraenti**
+
+<sup>1.</sup> I trasporti internazionali di merci su strada eseguiti per conto terzi e i viaggi dei veicoli a vuoto fra i territori delle parti contraenti sono effettuati dietro rilascio della licenza comunitaria per i trasportatori comunitari istituita dal regolamento (CEE) n. 881/92[^9-1], il cui modello figura all’allegato 3, e dietro rilascio, per i trasportatori svizzeri, di un’autorizzazione svizzera analoga.
+
+<sup>2.</sup> Le licenze così rilasciate sostituiscono, per i trasporti che rientrano nel campo d’applicazione del presente Accordo, le autorizzazioni bilaterali scambiate fra gli Stati membri della Comunità e la Svizzera, necessarie fino all’entrata in vigore del presente Accordo.
+
+<sup>3.</sup> I trasporti menzionati nell’allegato 4 sono esonerati da ogni regime di licenza e da ogni autorizzazione di trasporto.
+
+<sup>4.</sup> Le procedure in materia di rilascio, uso, rinnovo e ritiro delle licenze e le procedure relative all’assistenza reciproca sono disciplinate dalle disposizioni del regolamento (CEE) n. 881/92 per i trasportatori comunitari e da equivalenti disposizioni svizzere.
+
+[^9-1]: Nel testo attuale, modificato dal regolamento CEE n. 484/2002 (vedi art. 3 della Dec. n. 2/2004 del Comitato dei trasporti terrestri Comunità/Svizzera del 22 giu. 2004 – [RU 2004 3679](https://fedlex.data.admin.ch/eli/oc/2004/508)).
+
+#### Art. 10
+
+**Trasporti di merci in transito attraverso il territorio delle parti contraenti**
+
+<sup>1.</sup> I trasporti internazionali di merci su strada effettuati per conto terzi e i viaggi a vuoto effettuati in transito attraverso il territorio delle parti contraenti sono liberalizzati. Detti trasporti sono eseguiti dietro rilascio delle licenze di cui all’articolo 9.
+
+<sup>2.</sup> Sono applicabili i paragrafi 2, 3 e 4 dell’articolo 9.
+
+#### Art. 11
+
+**Transito attraverso l’Austria**
+
+Un sistema di ecopunti equivalente a quello previsto dall’articolo 11 del Protocollo n. 9 dell’Atto di adesione dell’Austria all’Unione europea è applicato per il transito degli operatori svizzeri attraverso il territorio dell’Austria, entro i limiti di validità di detto protocollo. Il metodo di calcolo, le regole dettagliate e le procedure di gestione e di controllo degli ecopunti sono definiti con un Accordo amministrativo stabilito d’intesa comune dalle parti contraenti al momento della conclusione del presente Accordo e sono conformi, mutatis mutandis, alle disposizioni del Protocollo n. 9 sopra citato.
+
+#### Art. 12
+
+**Gran cabotaggio per la Svizzera**
+
+<sup>1.</sup>
+
+A decorrere dal 2001, il gran cabotaggio per la Svizzera è ammesso alle seguenti condizioni:
+
+- – i trasporti di questo tipo sono effettuati dietro rilascio della licenza svizzera di cui all’articolo 9, paragrafo 1;
+- – essi sono limitati ad una operazione di trasporto, sulla via del ritorno, successiva ad un trasporto di merci fra la Svizzera e uno Stato membro della Comunità.
+
+<sup>2.</sup> Fino a tale data, tuttavia, possono essere esercitati i diritti esistenti, derivanti dagli accordi bilaterali in vigore. Tali diritti sono elencati nell’allegato 5 del presente Accordo.
+
+<sup>3.</sup> A decorrere dal 2005 il gran cabotaggio per la Svizzera è totalmente libero. I trasporti sono effettuati dietro rilascio della licenza svizzera di cui all’articolo 9, paragrafo 1.
+
+#### Art. 13
+
+**Traffico triangolare con paesi terzi**
+
+<sup>1.</sup> Il regime che disciplina il traffico triangolare con i paesi terzi sarà stabilito di comune accordo dopo la conclusione dell’Accordo necessario, da un lato, fra la Comunità ed il paese terzo interessato e, dall’altro, fra la Svizzera e lo stesso paese terzo. Tale regime è volto a garantire la reciprocità di trattamento fra gli operatori comunitari e svizzeri relativamente a tale tipo di trasporti.
+
+<sup>2.</sup> In attesa della conclusione di accordi fra la Comunità ed i paesi terzi interessati, il presente Accordo non modifica le disposizioni relative ai trasporti triangolari contenute negli accordi bilaterali conclusi fra gli Stati membri della Comunità e la Svizzera riguardo al trasporto con i paesi terzi. Un elenco di tali diritti è riportato nell’allegato 5 del presente Accordo.
+
+<sup>3.</sup> Per tener conto della definizione del regime di cui al paragrafo 1, la Svizzera conclude accordi bilaterali con detti paesi terzi o li adatta nella misura necessaria.
+
+#### Art. 14
+
+**Trasporto fra due punti situati nel territorio di uno Stato membro della Comunità o fra due punti situati nel territorio della Svizzera**
+
+I trasporti fra due punti situati nel territorio di uno Stato membro della Comunità ed effettuati da un veicolo immatricolato in Svizzera e i trasporti fra due punti situati nel territorio della Svizzera ed effettuati da un veicolo immatricolato in uno Stato membro della Comunità non sono autorizzati dal presente Accordo.
+
+#### Art. 15
+
+**Divieto di circolare la notte e la domenica ed esenzioni dal limite di peso**
+
+<sup>1.</sup> Il divieto di circolare la notte in territorio svizzero si applica soltanto alla fascia oraria compresa fra le ore 22 e le ore 5.
+
+<sup>2.</sup> Le esenzioni dal limite di peso e le esenzioni dal divieto di circolare la notte e la domenica figurano nell’allegato 6.
+
+<sup>3.</sup> Le esenzioni dal divieto di circolare la notte sono concesse in via non discriminatoria e possono essere ritirate presso un unico sportello. Esse sono concesse pagando un importo destinato a coprire i costi amministrativi.
+
+#### Art. 16
+
+**Abolizione di alcune esenzioni dal limite di peso**
+
+Le disposizioni dell’allegato 6, II, punti 3 e 4 dell’Accordo del 1992 non saranno più applicabili a decorrere dall’entrata in vigore del presente Accordo.
+
+### C. Trasporti internazionali di passeggeri a mezzo autobus
+
+#### Art. 17
+
+**Condizioni applicabili ai trasportatori**
+
+<sup>1.</sup>
+
+Ogni trasportatore per conto terzi è ammesso ad effettuare i servizi di trasporto definiti nell’articolo 1 dell’allegato 7 senza discriminazioni riguardo alla nazionalità o al luogo di stabilimento, purché:
+
+- – sia abilitato, nello Stato membro della Comunità in cui è stabilito o in Svizzera, ad effettuare trasporti a mezzo autobus, con servizi regolari, compresi i servizi regolari specializzati, o con servizi occasionali;
+- – soddisfi le regolamentazioni in materia di sicurezza stradale per quanto concerne le norme applicabili ai conducenti e ai veicoli.
+
+<sup>2.</sup>
+
+Ogni trasportatore che esercita l’attività per conto proprio è ammesso ad effettuare i servizi di trasporto di cui all’articolo 1, punto 3, dell’allegato 7 senza discriminazioni riguardo alla nazionalità o al luogo di stabilimento, purché:
+
+- – sia abilitato, nello Stato membro della Comunità in cui è stabilito od in Svizzera, ad effettuare trasporti a mezzo autobus in base alle condizioni d’accesso al mercato fissate dalla legislazione nazionale;
+- – soddisfi le regolamentazioni in materia di sicurezza stradale per quanto concerne le norme applicabili ai conducenti e ai veicoli.
+
+<sup>3.</sup> Per effettuare trasporti internazionali di passeggeri a mezzo autobus, i trasportatori che soddisfano ai requisiti di cui al paragrafo 1 devono essere in possesso di una licenza comunitaria nel caso di trasportatori comunitari, o di un’analoga licenza svizzera nel caso di trasportatori svizzeri.
+
+Il modello, le procedure in materia di rilascio, uso, e rinnovo delle licenze sono disciplinati dal regolamento (CEE) n. 684/92, modificato dal regolamento (CE) n. 11/98 per i trasportatori comunitari e da disposizioni equivalenti per i trasportatori svizzeri.
+
+#### Art. 18
+
+**Accesso al mercato**
+
+<sup>1.</sup> I servizi occasionali definiti all’articolo 1, punto 2.1 dell’allegato 7 sono esentati da qualsiasi autorizzazione.
+
+<sup>2.</sup> I servizi regolari specializzati, definiti all’articolo 1, punto 1.2 dell’allegato 7 sono esentati da qualsiasi autorizzazione purché siano regolati, nel territorio della Comunità, da un contratto stipulato fra l’organizzatore ed il trasportatore.
+
+<sup>3.</sup> Sono altresì esentati da qualsiasi autorizzazione gli spostamenti dei veicoli a vuoto relativi ai servizi di trasporto di cui ai paragrafi 1 e 2.
+
+<sup>4.</sup> I servizi regolari sono soggetti ad autorizzazione conformemente agli articoli 2 e seguenti dell’allegato 7.
+
+<sup>5.</sup> I servizi regolari specializzati non regolati da un contratto stipulato fra l’organizzatore ed il trasportatore sono soggetti ad autorizzazione nel territorio della Comunità conformemente agli articoli 2 e seguenti dell’allegato 7.
+
+In Svizzera tali servizi sono esentati da qualsiasi autorizzazione.
+
+<sup>6.</sup> I trasporti su strada effettuati per conto proprio, di cui all’articolo 1, punto 3 dell’allegato 7, sono esentati da autorizzazione e sono soggetti, nel territorio della Comunità, ad un regime di attestazione.
+
+#### Art. 19
+
+**Traffico triangolare con paesi terzi**
+
+<sup>1.</sup> Il regime che disciplina il traffico triangolare con paesi terzi sarà determinato di comune accordo dopo la conclusione dell’Accordo necessario, da un lato, fra la Comunità ed il paese terzo interessato e, dall’altro, fra la Svizzera e detto paese terzo. Tale regime è destinato a garantire la reciprocità di trattamento fra gli operatori comunitari e svizzeri relativamente a tale tipo di trasporti.
+
+<sup>2.</sup> In attesa della conclusione di accordi fra la Comunità e i paesi terzi interessati, il presente Accordo non modifica le disposizioni del paragrafo 1 in materia di trasporto che figurano negli accordi bilaterali stipulati fra gli Stati membri della Comunità e la Svizzera relativamente al trasporto con i paesi terzi. Un elenco di tali diritti è riportato nell’allegato 8 del presente Accordo.
+
+<sup>3.</sup> Per tenere conto della definizione del regime di cui al paragrafo 1, la Svizzera conclude accordi bilaterali con detti paesi terzi o li adegua nella misura necessaria.
+
+#### Art. 20
+
+**Trasporto fra due punti situati nel territorio di una stessa parte contraente**
+
+<sup>1.</sup> Le operazioni di trasporto fra due punti situati nel territorio di una stessa parte contraente, effettuati da trasportatori stabiliti nel territorio dell’altra parte contraente, non sono autorizzati dal presente Accordo.
+
+<sup>2.</sup> Tuttavia possono continuare ad essere esercitati i diritti esistenti che derivano dai vigenti accordi bilaterali conclusi fra gli Stati membri della Comunità e la Svizzera, purché non vi sia alcuna discriminazione fra trasportatori comunitari, né distorsione della concorrenza. Un elenco di tali diritti è riportato nell’allegato 8 del presente Accordo.
+
+#### Art. 21
+
+**Procedure**
+
+Le procedure in materia di rilascio, uso, rinnovo e scadenza delle autorizzazioni e le procedure relative alla reciproca assistenza sono disciplinate dalle disposizioni dell’allegato 7 del presente Accordo.
+
+#### Art. 22
+
+**Disposizione transitoria**
+
+Le autorizzazioni per i servizi di trasporto esistenti alla data di entrata in vigore del presente Accordo restano valide fino alla loro scadenza, sempreché i servizi in questione continuino ad essere soggetti ad autorizzazione.
+
+## Titolo III: Trasporti ferroviari internazionali
+
+#### Art. 23
+
+**Autonomia gestionale**
+
+Le parti contraenti si impegnano a:
+
+- – garantire l’autonomia gestionale delle imprese ferroviarie, dotandole in particolare di indipendenza giuridica e permettendo loro di adattare le proprie attività al mercato e di gestirle sotto la responsabilità dei loro organi direttivi;
+- – separare la gestione dell’infrastruttura ferroviaria dall’esercizio dei servizi di trasporto delle imprese ferroviarie, perlomeno a livello contabile. L’aiuto concesso ad una di queste due attività non può essere trasferito all’altra.
+
+#### Art. 24
+
+**Diritti di accesso all’infrastruttura ferroviaria e diritti di transito**
+
+<sup>1.</sup> Le imprese ferroviarie e i raggruppamenti internazionali godono dei diritti di accesso e/o di transito definiti dalla legislazione comunitaria di cui all’allegato 1, sezione 4.
+
+<sup>2.</sup> Le imprese ferroviarie stabilite nel territorio di una parte contraente godono del diritto di accesso all’infrastruttura ferroviaria nel territorio dell’altra parte contraente per l’esercizio di servizi di trasporto combinati internazionali.
+
+<sup>3.</sup> Le imprese ferroviarie e i raggruppamenti internazionali che fanno uso del diritto di accesso e/o di transito concludono con i gestori dell’infrastruttura ferroviaria utilizzata gli accordi amministrativi, tecnici e finanziari necessari per disciplinare gli aspetti di controllo e di sicurezza del traffico inerenti ai servizi di trasporto internazionale di cui ai paragrafi 1 e 2.
+
+#### Art. 25
+
+**Licenze ferroviarie**
+
+<sup>1.</sup> La concessione di una licenza conforme al tipo di servizio ferroviario da prestare è un presupposto indispensabile per ogni domanda di accesso all’infrastruttura ferroviaria o per ogni domanda di transito, e, di conseguenza, per il diritto di esercitare servizi di trasporto. Detta licenza non dà diritto, di per sé, all’accesso all’infrastruttura ferroviaria.
+
+<sup>2.</sup> Un’impresa ferroviaria ha diritto di richiedere una licenza in Svizzera o nello Stato membro della Comunità in cui è stabilita. Le parti contraenti non rilasciano licenze né prorogano la loro validità nei casi in cui non siano riuniti i requisiti fissati dal presente Accordo.
+
+<sup>3.</sup> Le licenze sono rilasciate dall’autorità responsabile e appositamente designata, alle imprese esistenti ed ad imprese nuove, sotto la responsabilità delle parti contraenti.
+
+<sup>4.</sup> Le licenze sono riconosciute nella Comunità o in Svizzera su base di reciprocità.
+
+<sup>5.</sup> Esse sono soggette a requisiti fissati dalle parti contraenti in materia di onorabilità, capacità finanziaria e competenza professionale, nonché di copertura della responsabilità civile, per tutto il periodo di validità. Le disposizioni applicabili in materia figurano nella sezione 4 dell’allegato 1.
+
+<sup>6.</sup> Le licenze restano valide fintantoché l’impresa ferroviaria adempie gli obblighi previsti dalle disposizioni legali sopra citate. Tuttavia, l’autorità responsabile può prescrivere che esse siano riesaminate a intervalli regolari.
+
+<sup>7.</sup> Le procedure di verifica, modifica, sospensione o ritiro di una licenza sono disciplinate dalle disposizioni legali sopra citate.
+
+#### Art. 26
+
+**Attribuzione del certificato di sicurezza**
+
+<sup>1.</sup> Le parti contraenti prevedono l’obbligo per le imprese ferroviarie di presentare anche un certificato di sicurezza che stabilisca le norme ad esse imposte in materia di sicurezza, per garantire un servizio sicuro sui percorsi considerati.
+
+<sup>2.</sup> L’impresa ferroviaria può richiedere il certificato di sicurezza presso un organo designato dalla parte contraente in cui si trova l’infrastruttura usata.
+
+<sup>3.</sup> Per ottenere il certificato di sicurezza, l’impresa ferroviaria deve rispettare le prescrizioni della legislazione svizzera per la parte di percorso situata in Svizzera, e della legislazione in vigore nella Comunità per la parte di percorso situata nel territorio della Comunità.
+
+#### Art. 27
+
+**Attribuzione di tracciati**
+
+<sup>1.</sup>
+
+Ciascuna parte contraente designa il responsabile della ripartizione delle capacità, sia che si tratti di un’autorità specifica, sia che si tratti del gestore dell’infrastruttura. L’organismo di ripartizione che deve essere a conoscenza di tutti i tracciati disponibili, provvede affinché:
+
+- – la capacità di infrastruttura ferroviaria sia ripartita su base equa e non discriminatoria;
+- – fatte salve le disposizioni di cui ai paragrafi 3 e 4 del presente articolo, la procedura di ripartizione permetta un uso efficace e ottimale dell’infrastruttura ferroviaria.
+
+<sup>2.</sup> L’impresa ferroviaria o il raggruppamento internazionale che richiede l’attribuzione di uno o più tracciati ferroviari si rivolge all’organismo (o agli organismi) di ripartizione della parte contraente sul cui territorio si trova la località di partenza del servizio di trasporto. L’organismo di ripartizione, cui è stata presentata la domanda di assegnazione di capacità di infrastruttura ferroviaria, informa immediatamente gli altri organismi corrispondenti interessati. Questi ultimi adottano una decisione al più tardi entro un mese dalla data di ricevimento delle informazioni necessarie; ciascun organismo di ripartizione può respingere una domanda. L’organismo di ripartizione cui è stata presentata la domanda decide in merito ad essa, di concerto con gli altri organismi corrispondenti interessati, al più tardi entro due mesi dalla data di presentazione di tutte le informazioni necessarie. Le procedure per il trattamento di una domanda di capacità di infrastruttura sono disciplinate dalle disposizioni figuranti nella sezione 4 dell’allegato 1.
+
+<sup>3.</sup>
+
+La Comunità e la Svizzera possono adottare le misure necessarie a garantire che in sede di ripartizione delle capacità di infrastruttura ferroviaria sia data priorità ai seguenti servizi ferroviari:
+
+- a) servizi prestati nell’interesse del pubblico;
+- b) servizi prestati totalmente o parzialmente su un’infrastruttura costruita a tal fine o sistemata per tali servizi (ad es. linee per l’alta velocità o linee specializzate per il trasporto di merci).
+
+<sup>4.</sup> La Comunità e la Svizzera possono incaricare l’organismo di ripartizione di concedere diritti speciali, nella ripartizione delle capacità di infrastruttura, su base non discriminatoria, alle imprese ferroviarie che forniscono determinati servizi o li forniscono in determinate regioni, se tali diritti sono indispensabili per garantire un buon livello di servizio pubblico o un uso efficace delle capacità di infrastruttura, o per consentire il finanziamento di nuove infrastrutture.
+
+<sup>5.</sup> Le parti contraenti possono prevedere la possibilità che le domande di accesso all’infrastruttura siano accompagnate dal deposito di una cauzione, ovvero che sia costituita una garanzia analoga.
+
+<sup>6.</sup> La Comunità e la Svizzera adottano e pubblicano le procedure di ripartizione delle capacità di infrastruttura ferroviaria, informandone inoltre il Comitato misto istituito dall’articolo 51 del presente Accordo.
+
+#### Art. 28
+
+**Conti e tariffe di uso**
+
+<sup>1.</sup> I conti del gestore di un’infrastruttura devono presentare, per un periodo ragionevole, un equilibrio fra il gettito ottenuto con la riscossione di tali tariffe e con eventuali contributi statali da un lato, e i costi dell’infrastruttura dall’altro.
+
+<sup>2.</sup> Il gestore dell’infrastruttura applica tariffe di uso dell’infrastruttura ferroviaria di cui garantisce la gestione, che sono versate dalle imprese ferroviarie o dai raggruppamenti internazionali che usano l’infrastruttura stessa.
+
+<sup>3.</sup> Le tariffe di uso dell’infrastruttura sono fissate secondo la natura del servizio, il tempo di servizio, la situazione del mercato, nonché il tipo e l’usura dell’infrastruttura.
+
+<sup>4.</sup> Le tariffe sono pagate direttamente al gestore/ai gestori dell’infrastruttura.
+
+<sup>5.</sup> Ciascuna parte contraente stabilisce le modalità di fissazione delle tariffe di uso previa consultazione del gestore dell’infrastruttura. Le tariffe per servizi di natura equivalente su un medesimo mercato sono applicate in modo non discriminatorio.
+
+<sup>6.</sup> Il gestore dell’infrastruttura comunica in tempo utile alle imprese ferroviarie o ai raggruppamenti internazionali che usano le sue infrastrutture per effettuare i servizi di cui all’articolo 24 ogni modifica rilevante della qualità o capacità dell’infrastruttura in questione.
+
+#### Art. 29
+
+**Ricorso**
+
+<sup>1.</sup> La Comunità e la Svizzera adottano tutte le misure necessarie a garantire che le decisioni prese in materia di ripartizione delle capacità di infrastruttura o di riscossione delle tariffe possano essere oggetto di ricorso dinanzi ad un organo indipendente. Tale organo si pronuncia entro un termine di due mesi dalla comunicazione di tutte le informazioni necessarie.
+
+<sup>2.</sup> Le parti contraenti adottano tutte le misure necessarie a garantire che le decisioni prese conformemente al paragrafo 1 e all’articolo 25, paragrafo 3 siano soggette a controllo giurisdizionale.
+
+## Titolo IV: Politica coordinata dei trasporti
+
+### A. Disposizioni generali
+
+#### Art. 30
+
+**Obiettivi**
+
+<sup>1.</sup> Le parti contraenti convengono di sviluppare, nella misura necessaria, una politica coordinata dei trasporti di merci e passeggeri. Tale politica è intesa ad associare l’efficienza dei sistemi di trasporto alla tutela dell’ambiente, garantendo così una mobilità sostenibile.
+
+<sup>2.</sup> Le parti contraenti si adoperano per instaurare un’ampia comparabilità delle condizioni di trasporto – aspetti fiscali compresi – nei rispettivi territori, allo scopo, in particolare, di evitare una deviazione del traffico nelle regioni alpine, o di ottenere in tale zona una migliore distribuzione del traffico.
+
+#### Art. 31
+
+**Misure**
+
+<sup>1.</sup> Per realizzare tale obiettivo le parti contraenti adottano misure volte a garantire una concorrenza leale fra i diversi modi di trasporto e all’interno di essi, e ad agevolare l’uso di mezzi di trasporto merci e passeggeri maggiormente rispettosi dell’ambiente.
+
+<sup>2.</sup>
+
+Come complemento alle disposizioni dei titoli II e III, tali misure comprendono:
+
+- – lo sviluppo di infrastrutture ferroviarie attraverso le Alpi e la messa a disposizione di servizi di trasporto ferroviari e combinati competitivi in termini di prezzi e di qualità;
+- – l’adozione di sistemi di tariffe di uso per i trasporti stradali;
+- – disposizioni di accompagnamento.
+
+<sup>3.</sup> Le misure adottate dalle parti contraenti nell’ambito del presente Accordo sono applicate progressivamente e, se possibile, in maniera coordinata.
+
+#### Art. 32
+
+**Principi**
+
+Fatto salvo il disposto dell’articolo 47, le misure di cui all’articolo 31 devono essere conformi ai seguenti principi:
+
+- – divieto di discriminazione, diretta o indiretta, in base alla nazionalità del trasportatore, al luogo di immatricolazione del veicolo o all’origine e/o alla destinazione del trasporto;
+- – libera scelta del modo di trasporto;
+- – rinuncia all’introduzione di restrizioni quantitative unilaterali;
+- – territorialità;
+- – proporzionalità della tassazione rispetto ai costi legati al trasporto, inclusi i criteri relativi al tipo di veicolo;
+- – trasparenza;
+- – comparabilità delle condizioni d’uso fra tratti transalpini;
+- – assenza di distorsioni nei flussi di traffico nelle regioni alpine;
+- – reciprocità.
+
+### B. Trasporto ferroviario e trasporto combinato
+
+#### Art. 33
+
+**Obiettivi**
+
+<sup>1.</sup> Le parti contraenti si prefiggono di predisporre un’offerta ferroviaria e di trasporto combinato sufficiente in termini di capacità e competitiva, dal punto di vista economico e della qualità del servizio, con il trasporto stradale nella regione alpina, rispettando al tempo stesso i principi elencati nell’articolo 32 e garantendo il libero gioco delle forze di mercato, in particolare nell’ambito dell’apertura dell’accesso alle infrastrutture ferroviarie di cui al titolo III, così come l’autonomia delle imprese ferroviarie.
+
+<sup>2.</sup>
+
+A tal fine le parti contraenti:
+
+- – adottano, nei limiti delle rispettive competenze, misure relative alle infrastrutture ed al servizio, sia in Svizzera che nel territorio comunitario, in modo da garantire la redditività a lungo termine, la coerenza e l’integrazione dell’offerta svizzera in un sistema ferroviario su lunga distanza;
+- – si impegnano altresì a sviluppare l’interconnessione e l’interoperabilità fra le rispettive reti ferroviarie e di trasporto combinato. Le parti contraenti garantiscono a tale scopo la necessaria collaborazione con le organizzazioni internazionali e le istituzioni interessate e incaricano il Comitato misto di seguire questi aspetti.
+
+<sup>3.</sup> Le parti contraenti si impegnano ad attuare le disposizioni necessarie per promuovere, parallelamente all’introduzione della fiscalità stradale di cui all’articolo 40, l’offerta agli utenti di un servizio di trasporto ferroviario e di trasporto combinato che, in termini di capacità, prezzo e qualità, consenta di garantire un’equa ripartizione del traffico sui vari tratti transalpini.
+
+#### Art. 34
+
+**Capacità dell’offerta ferroviaria**
+
+<sup>1.</sup> Le parti contraenti confermano i rispettivi impegni enunciati negli articoli 5 e 6 dell’Accordo del 1992, che prevede, per la Svizzera, la costruzione della Nuova ferrovia transalpina (NFTA), e per la Comunità l’aumento della capacità delle vie d’accesso alla NFTA da nord e da sud. Esse convengono che tali nuove infrastrutture ferroviarie saranno realizzate secondo la sagoma C dell’UIC.
+
+<sup>2.</sup> Per la Comunità, le misure relative all’infrastruttura di cui al paragrafo 1 si inseriscono fra quelle adottate nell’ambito, e alle condizioni, della decisione 1692/96/CE del Parlamento europeo e del Consiglio, sugli orientamenti comunitari per lo sviluppo della rete transeuropea dei trasporti, comprendenti gli assi di trasporto ferroviario e di trasporto combinato attraverso le Alpi, in particolare le vie d’accesso alle infrastrutture ferroviarie svizzere, nonché le strutture per il trasporto combinato.
+
+<sup>3.</sup> Le parti contraenti lavorano di concerto allo scopo di permettere alle rispettive autorità competenti di pianificare e realizzare in modo coordinato le misure riguardanti l’infrastruttura ferroviaria e di trasporto combinato, necessarie per adempiere agli impegni enunciati ai paragrafi 1 e 2, e di armonizzare il calendario dei lavori in funzione delle capacità richieste. Esse perseguiranno al contempo l’obiettivo di far fruttare gli investimenti effettuati ed adotteranno ogni misura utile in sede di Comitato misto.
+
+<sup>4.</sup> Il Comitato misto può istituire un sottocomitato incaricato di vigilare sul coordinamento dei progetti di infrastruttura nella regione alpina. Il sottocomitato si compone di rappresentanti della Svizzera, della Comunità e degli Stati membri della Comunità situati nella regione alpina.
+
+#### Art. 35
+
+**Parametri economici**
+
+<sup>1.</sup> Le parti contraenti adottano tutte le misure necessarie al raggiungimento dell’obiettivo di cui all’articolo 33. A questo scopo esse provvedono affinché il trasporto ferroviario di merci e il trasporto combinato attraverso la Svizzera restino, incluso il trasporto combinato accompagnato, competitivi, a comparabile livello di prezzi e qualità di servizio, con il trasporto stradale sullo stesso itinerario, rispettando al tempo stesso la garanzia d’autonomia delle imprese ferroviarie.
+
+<sup>2.</sup> Per predisporre un’adeguata offerta ferroviaria e di trasporto combinato, le parti contraenti possono sostenere finanziariamente gli investimenti in infrastruttura ferroviaria, attrezzature fisse o mobili necessarie per il trasbordo fra modi di trasporto terrestri, materiali specificamente adattati al trasporto combinato e usati a tale scopo e, nei limiti consentiti dalle rispettive legislazioni, i costi d’esercizio dei servizi di trasporto combinato in transito attraverso il territorio svizzero, purché tali provvedimenti contribuiscano ad aumentare il livello di qualità e di competitività in termini di prezzi dell’offerta ferroviaria e di trasporto combinato e non creino distorsioni sproporzionate della concorrenza fra gli operatori. La fissazione dei prezzi per il tragitto ferroviario resta attribuita alle autorità o agli organismi competenti.
+
+<sup>3.</sup> Le parti contraenti possono altresì stipulare contratti di servizio pubblico con le imprese ferroviarie per garantire sufficienti servizi di trasporto ferroviario, tenuto conto in particolare dei fattori sociali e ambientali.
+
+<sup>4.</sup> Le parti contraenti, nei limiti delle rispettive competenze, si adoperano affinché l’effetto sul mercato di eventuali aiuti pubblici concessi da una delle parti non sia contrastato dal comportamento dell’altra, o di un organismo avente sede sul suo territorio o nel territorio dell’altra parte contraente.
+
+<sup>5.</sup> Il Comitato misto vigila affinché le parti contraenti applichino le disposizioni del presente articolo.
+
+#### Art. 36
+
+**Parametri di qualità**
+
+<sup>1.</sup> Le parti contraenti convengono di adottare tutte le misure necessarie per il raggiungimento dell’obiettivo di cui all’articolo 33. A tal fine esse si impegnano a promuovere il trasporto combinato.
+
+<sup>2.</sup> Nella fase di regime transitorio di cui all’articolo 8 la Svizzera si impegna altresì, conformemente alle disposizioni del titolo II dell’accordo del 1992, a predisporre un’offerta di trasporto combinato accompagnato («strada viaggiante») che sia competitiva, in termini di qualità e prezzi, col trasporto su strada.
+
+<sup>3.</sup> Un elenco di parametri ferroviari figura nell’allegato 9. Tali parametri sono presi in considerazione per il ricorso all’articolo 46.
+
+Le parti contraenti adottano tutte le misure necessarie per promuovere il trasporto combinato. Esse vigilano in particolare che siano applicate le disposizioni seguenti:
+
+- – rispetto delle norme tecniche e sociali per il trasporto su strada, in particolare i tempi di guida e di riposo, i limiti di velocità, le prescrizioni in materia di pesi e dimensioni massimi;
+- – riduzione dei controlli alle frontiere per i trasporti ferroviari e trasferimento di tali controlli al luogo di imbarco o di sbarco, conformemente alla Convenzione, del 20 maggio 1987[^36-1] tra la Comunità economica europea e la Svizzera nonché tra i paesi dell’AELS, relativa ad un regime comune di transito;
+- – agevolazione dell’organizzazione della catena di trasporto combinato attraverso la semplificazione delle condizioni regolamentari ed amministrative che disciplinano ciascuna parte contraente;
+- – motivazione degli operatori del settore del trasporto combinato e delle imprese ferroviarie a migliorare la qualità del servizio.
+
+<sup>4.</sup> Nell’ambito delle proprie competenze, le parti contraenti si impegnano ad adottare misure adeguate per permettere la rapida costituzione di corridoi di trasporto merci per ferrovia e si scambiano regolarmente informazioni su qualsiasi misura intendano adottare in materia.
+
+<sup>5.</sup> Il Comitato misto redige ogni due anni una relazione sull’attuazione delle misure di cui al presente articolo.
+
+[^36-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+
+### C. Sistemi di tariffazione dei trasporti stradali
+
+#### Art. 37
+
+**Obiettivi**
+
+Conformemente agli obiettivi del titolo III dell’Accordo del 1992, le parti contraenti, nell’ambito delle loro competenze e secondo le loro rispettive procedure, si prefiggono di introdurre progressivamente una tariffazione basata sull’imputazione ai veicoli circolanti su strada e agli altri modi di trasporto, dei costi cui danno origine.
+
+#### Art. 38
+
+**Principi**
+
+<sup>1.</sup> I sistemi di tariffazione si basano sui principi enunciati nell’articolo 32, in particolare la non discriminazione, la proporzionalità e la trasparenza.
+
+<sup>2.</sup> La tariffazione è costituita da tasse sui veicoli, imposte sul carburante e tariffe di uso della rete stradale.
+
+<sup>3.</sup> Per il raggiungimento degli obiettivi menzionati nell’articolo 37 sono scelte di preferenza misure che non provocano deviazioni di traffico rispetto all’itinerario tecnicamente, economicamente e geograficamente più idoneo fra il punto di partenza e il punto di destinazione finale del trasporto.
+
+<sup>4.</sup> Le misure sono applicate in modo da non ostacolare la libera circolazione dei beni o dei servizi fra le parti contraenti, in particolare per quanto riguarda la gestione e la riscossione dei pedaggi o delle tariffe di uso della rete, l’assenza di controlli e di verifiche sistematiche alle frontiere fra le parti contraenti, e l’assenza di formalità eccessive. Per evitare difficoltà sotto tali aspetti, la Svizzera si adopera per applicare la regolamentazione comunitaria vigente in materia.
+
+<sup>5.</sup> Le disposizioni del presente capitolo si applicano ai veicoli aventi un peso massimo autorizzato figurante sulla carta di circolazione pari o superiore a 12 tonnellate. Il presente Accordo non impedisce tuttavia alle parti contraenti di adottare, sul proprio territorio, misure riguardanti veicoli aventi un peso massimo autorizzato inferiore a 12 tonnellate.
+
+<sup>6.</sup> Le parti contraenti non concedono, direttamente o indirettamente, aiuti di Stato alle imprese, in particolare quelle di trasporto, destinati a compensare l’impatto che ha su tali imprese l’imputazione dei costi alle operazioni di trasporto tramite le tariffe di uso previste dal presente Accordo.
+
+#### Art. 39
+
+**Interoperabilità degli strumenti**
+
+Per garantire un livello adeguato di interoperabilità dei sistemi elettronici di riscossione delle tariffe di uso della rete stradale, le parti contraenti si consultano in sede di Comitato misto.
+
+#### Art. 40
+
+**Misure svizzere**
+
+<sup>1.</sup> Per realizzare gli obiettivi definiti all’articolo 37, e in vista dell’aumento del limite di peso fissato all’articolo 7, paragrafo 3, la Svizzera introduce un sistema di tariffazione sui veicoli non discriminatorio in due fasi, che cominciano rispettivamente il 1° gennaio 2001 e il 1º gennaio 2005. Questo sistema di tariffazione si basa in modo particolare sui principi di cui all’articolo 38, paragrafo 1, nonché sulle modalità definite all’allegato 10.
+
+<sup>2.</sup> Le tariffe sono differenziate in base a 3 categorie di norme sulle emissioni (EURO). Nel sistema di tariffazione applicabile a decorrere dal 1° gennaio 2005, la differenza di tariffe fra una categoria e l’altra deve essere quanto più ampia possibile, ma non deve superare il 15 per cento della media ponderata delle tariffe menzionata al paragrafo 4.
+
+- 3\. a. Nel sistema di tariffazione applicabile a decorrere dal 1º gennaio 2001, gli importi massimi non possono superare, per un veicolo il cui peso effettivo a pieno carico non sia superiore a 34 tonnellate e per un tragitto di 300 km attraverso la catena alpina, rispettivamente 205 CHF per i veicoli non conformi alle norme EURO, 172 CHF per i veicoli conformi alla norma EURO I, e 145 CHF per i veicoli conformi alla norma EURO II.
+- b. In deroga al paragrafo 3 a, la Comunità riceve nel periodo dal 1° gennaio 2001 al 31 dicembre 2004, un contingente annuo valido per 220 000 viaggi (sola andata) di veicoli a vuoto o caricati con prodotti leggeri, a condizione che il peso totale effettivo a pieno carico del veicolo non superi 28 tonnellate, effettuati in transito attraverso la parte svizzera della catena alpina, dietro pagamento di una tariffa di uso dell’infrastruttura di importo pari a 50 CHF nel 2001, 60 CHF nel 2002, 70 CHF nel 2003 e 80 CHF nel 2004. La Svizzera riceve anche un contingente alle medesime condizioni. Le procedure normali di controllo saranno applicabili.
+
+<sup>4.</sup> Nel sistema di tariffazione applicabile a decorrere dal 1º gennaio 2005, la media ponderata delle tariffe non supera 325 CHF per un veicolo avente un peso effettivo a pieno carico non superiore a 40 tonnellate e che percorre un tragitto di 300 km attraverso la catena alpina. La tariffa per la categoria più inquinante non supera 380 CHF.
+
+<sup>5.</sup> Una parte delle tariffe di cui ai paragrafi 3 e 4 può essere costituita da pedaggi per l’uso delle infrastrutture speciali alpine. Tale parte non può rappresentare più del 15 per cento delle tariffe menzionate ai paragrafi 3 e 4.
+
+<sup>6.</sup> Le ponderazioni di cui al paragrafo 4 sono determinate in funzione del numero di veicoli per ogni categoria di norme EURO circolanti in Svizzera. Il numero di veicoli di ogni categoria è stabilito in base a rilevamenti che verranno esaminati dal Comitato misto. Il Comitato misto determina la ponderazione in base ad esami biennali, per tenere conto dell’evoluzione della struttura del parco veicoli in circolazione in Svizzera e dell’evoluzione delle norme EURO. Il primo esame avrà luogo entro il 1° luglio 2004.
+
+#### Art. 41
+
+**Misure comunitarie**
+
+La Comunità continua a sviluppare sistemi di tariffe applicabili sul suo territorio, correlati ai costi cui dà origine l’uso dell’infrastruttura. Tali sistemi sono fondati sul principio «l’utente paga»*.*
+
+#### Art. 42
+
+**Riesame del livello delle tariffe**
+
+<sup>1.</sup> A decorrere dal 1º gennaio 2007, ogni due anni i livelli massimi delle tariffe stabilite dall’articolo 40, paragrafo 4, sono adeguati per tenere conto del tasso di inflazione in Svizzera nei due anni precedenti. A tal fine, al più tardi il 30 settembre dell’anno precedente l’adeguamento, la Svizzera comunica al Comitato misto i dati statistici necessari per motivare l’adeguamento previsto. Nei 30 giorni successivi a questa comunicazione, il Comitato misto si riunisce, su richiesta della Comunità, per consultarsi sull’adeguamento previsto.
+
+Qualora fra la data della firma del presente Accordo e il 31 dicembre 2004 il tasso medio di inflazione in Svizzera sia superiore al 2 per cento annuo, i livelli massimi delle tariffe stabilite dall’articolo 40, paragrafo 4, saranno adeguati per tenere conto esclusivamente dell’inflazione che supera il tasso medio del 2 per cento annuo. Si applica la procedura di cui al comma precedente.
+
+<sup>2.</sup>
+
+A decorrere dal 1º gennaio 2007 il Comitato misto può, su richiesta di una delle parti contraenti, riesaminare i livelli massimi delle tariffe stabilite dall’articolo 40, paragrafo 4, in vista dell’adozione, di comune accordo, di una decisione per adeguarle. Tale esame viene effettuato in funzione dei seguenti criteri:
+
+- – il livello e la struttura delle tariffe delle due parti contraenti, ed in particolare quelle relative a tratti transalpini comparabili;
+- – la distribuzione del traffico fra tratti transalpini comparabili;
+- – l’evoluzione della ripartizione modale del traffico nella regione alpina;
+- – lo sviluppo dell’infrastruttura ferroviaria attraverso l’arco alpino.
+
+### D. Misure d’accompagnamento
+
+#### Art. 43
+
+**Agevolazione dei controlli alle frontiere**
+
+<sup>1.</sup> Le parti contraenti si impegnano a snellire e a semplificare le formalità che gravano sul trasporto, in particolare in campo doganale.
+
+<sup>2.</sup> L’Accordo del 21 novembre 1990[^43-1] tra la Comunità economica europea e la Confederazione Svizzera riguardante l’agevolazione dei controlli e delle formalità nei trasporti di merci, la Convenzione del 20 maggio 1987[^43-2] relativa ad un regime comune di transito e, per il trasporto ferroviario, l’Accordo fra imprese ferroviarie relativo all’ispezione tecnica per la cessione di carri merci nel trasporto internazionale, servono come base per le misure adottate dalle parti contraenti in applicazione del paragrafo 1.
+
+[^43-1]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
+[^43-2]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+
+#### Art. 44
+
+**Norme ecologiche per veicoli commerciali**
+
+<sup>1.</sup> Per una migliore tutela dell’ambiente, e fermi restando gli obblighi derivanti dall’articolo 7, le parti contraenti si prefiggono in particolare l’obiettivo di introdurre norme ecologiche che garantiscano un livello di protezione elevato, per ridurre i gas di scarico, le emissioni di particolato ed il rumore prodotto dai veicoli commerciali pesanti.
+
+<sup>2.</sup> Nel corso dell’elaborazione di queste norme le parti contraenti si consultano a scadenze regolari.
+
+<sup>3.</sup> La categoria di emissioni (EURO) dei veicoli pesanti (quale definita nella legislazione comunitaria), se non è menzionata nella carta di circolazione del veicolo, è verificata a partire dalla data della prima messa in circolazione figurante su detta carta oppure, ove del caso, sulla base di un documento aggiuntivo speciale, redatto dalle autorità competenti dello Stato di rilascio.
+
+#### Art. 45
+
+**Osservatorio del traffico**
+
+<sup>1.</sup> Un Osservatorio permanente di rilevamento del traffico stradale, ferroviario e combinato nella regione alpina è istituito dall’entrata in vigore del presente Accordo. L’Osservatorio trasmette annualmente una relazione sull’andamento del traffico al Comitato misto di cui all’articolo 51 del presente Accordo. Il Comitato misto può anche chiedere all’Osservatorio di preparare una relazione speciale, in particolare nei casi di applicazione delle disposizioni degli articoli 46 e 47 del presente Accordo.
+
+<sup>2.</sup> I lavori dell’Osservatorio sono finanziati dalle parti contraenti. Il criterio di ripartizione dei finanziamenti è determinato dal Comitato misto.
+
+<sup>3.</sup> Le parti contraenti determinano le modalità amministrative di funzionamento dell’Osservatorio con una decisione del Comitato misto che sarà presa in occasione della prima riunione del Comitato stesso.
+
+### E. Misure correttive
+
+#### Art. 46
+
+**Misure unilaterali di salvaguardia**
+
+<sup>1.</sup> Qualora, dopo il 1º gennaio 2005, malgrado prezzi ferroviari competitivi e malgrado la corretta applicazione delle misure previste all’articolo 36 relative ai parametri di qualità, si rilevino difficoltà nello smaltimento del traffico stradale transalpino in Svizzera e qualora, per un periodo di 10 settimane, il tasso medio di uso delle capacità relative all’offerta ferroviaria sul territorio svizzero (trasporto combinato accompagnato e non) sia inferiore al 66 per cento, la Svizzera, in deroga alle modalità di cui all’articolo 40, paragrafi 4 e 5, può aumentare di non oltre il 12,5 per cento le tariffe di uso di cui all’articolo 40, paragrafo 4. Il prodotto di tale aumento è integralmente destinato al trasporto ferroviario e combinato allo scopo di rafforzarne la competitività rispetto al trasporto su strada.
+
+<sup>2.</sup> In circostanze identiche a quelle di cui al paragrafo 1, che si verifichino sul suo territorio, la Comunità può ricorrere, in condizioni comparabili, a misure analoghe per porre rimedio alla situazione.
+
+In casi specifici il Comitato misto può decidere di comune accordo deroghe alle limitazioni di cui sopra.
+
+- 3\. a. La portata e la durata della misura di salvaguardia di cui ai paragrafi precedenti sono limitate a quanto strettamente indispensabile per rimediare alla situazione. La durata è al massimo di sei mesi ma può essere prorogata una volta per sei mesi. Il Comitato misto può decidere di comune accordo ulteriori proroghe.
+- b.
+
+  Se una parte contraente si è già avvalsa in precedenza delle misure di cui ai paragrafi 1 e 2, la loro applicazione da parte di questa parte contraente è in tal caso soggetta alle condizioni seguenti:
+
+  - – se il periodo di applicazione delle misure precedenti non ha superato sei mesi, l’applicazione di nuove misure è autorizzata soltanto al termine di un periodo di dodici mesi a decorrere dalla fine dell’applicazione precedente;
+  - – se il periodo di applicazione ha superato sei mesi, l’applicazione di nuove misure è autorizzata soltanto al termine di un periodo di diciotto mesi a decorrere dalla fine dell’applicazione precedente;
+  - – in nessun caso possono esservi due periodi di applicazione di misure di salvaguardia durante un periodo di cinque anni, calcolato a decorrere dall’inizio del primo periodo di applicazione delle misure di salvaguardia.
+
+<sup>4.</sup> Prima di ricorrere alle misure di cui ai paragrafi precedenti, la parte contraente interessata informa della propria intenzione il Comitato misto, che si riunisce per esaminare la questione. In assenza di una decisione contraria del Comitato misto, la parte contraente interessata può adottare la misura prevista dopo un termine di 30 giorni dalla data di notifica della misura al Comitato misto.
+
+#### Art. 47
+
+**Misure di salvaguardia consensuali**
+
+<sup>1.</sup> In caso di gravi distorsioni nei flussi di traffico attraverso l’arco alpino, che arrecano pregiudizio agli obiettivi definiti all’articolo 30 del presente Accordo, il Comitato misto si riunisce, su richiesta di una delle parti contraenti, per stabilire le misure atte a rimediare a tale situazione. La parte contraente richiedente ne informa immediatamente l’Osservatorio del traffico, che entro 14 giorni redige una relazione sulla situazione e sulle eventuali misure da adottare.
+
+<sup>2.</sup> Il Comitato misto si riunisce entro 15 giorni dalla richiesta e procede ad un esame della situazione, tenendo nel debito conto la relazione dell’Osservatorio del traffico. Il Comitato misto decide le eventuali misure da prendere entro un termine di 60 giorni a decorrere dalla prima riunione sulla questione. Tali termini possono essere prorogati di comune accordo.
+
+<sup>3.</sup> Le misure di salvaguardia hanno campo di applicazione e durata limitati a quanto è strettamente indispensabile per rimediare alla situazione. Devono essere scelte prioritariamente le misure che meno perturbano il funzionamento del presente Accordo.
+
+#### Art. 48
+
+**Misure in caso di crisi**
+
+Qualora il traffico attraverso l’arco alpino sia gravemente perturbato per cause di forza maggiore, per esempio a seguito di una catastrofe naturale, le parti si concerteranno per prendere, ciascuna per il suo territorio, tutte le disposizioni atte a permettere lo scorrimento del traffico. Sarà data priorità ai trasporti sensibili, per esempio alle derrate deperibili.
+
+## Titolo V: Disposizioni generali e finali
+
+#### Art. 49
+
+**Applicazione dell’Accordo**
+
+<sup>1.</sup> Le parti contraenti adottano tutte le misure di carattere generale o particolare atte a garantire l’adempimento degli obblighi del presente Accordo.
+
+<sup>2.</sup> Esse si astengono dall’adottare qualsiasi misura che possa compromettere il conseguimento degli obiettivi del presente Accordo.
+
+<sup>3.</sup> Le disposizioni del presente Accordo relative ai limiti di peso massimo autorizzato per i veicoli articolati e gli autotreni e per la tariffazione dei trasporti saranno applicate secondo una procedura in due fasi, dal 1° gennaio 2001 al 31 dicembre 2004 e a decorrere dal 1° gennaio 2005.
+
+#### Art. 50
+
+**Misure di riequilibro**
+
+Qualora una parte contraente constati che l’altra parte contraente non rispetta gli obblighi stabiliti dal presente Accordo, o che essa non applica una decisione del Comitato misto, la parte contraente lesa, previa consultazione in sede di Comitato misto, può adottare le misure atte a mantenere l’equilibrio del presente Accordo. Le parti contraenti forniscono al Comitato misto tutti gli elementi utili per esaminare a fondo la situazione.
+
+#### Art. 51
+
+**Comitato misto**
+
+<sup>1.</sup> Viene istituito un Comitato misto denominato «Comitato dei trasporti terrestri Comunità/Svizzera», composto da rappresentanti delle parti contraenti, responsabile della gestione e della corretta applicazione del presente Accordo. A tal fine esso formula raccomandazioni e adotta decisioni nei casi previsti dall’Accordo stesso. Tali decisioni sono eseguite dalle parti secondo le rispettive norme. Il Comitato misto si pronuncia di comune accordo.
+
+<sup>2.</sup> Il Comitato misto garantisce in particolare la verifica e l’applicazione delle disposizioni del presente Accordo, e segnatamente quelle dell’articolo 27, paragrafo 6, e degli articoli 33, 34, 35, 36, 39, 40, 42, 45, 46, 47 e 54. Esso applica altresì le clausole di adeguamento e di revisione di cui agli articoli 52 e 55.
+
+<sup>3.</sup> Per una corretta esecuzione del presente Accordo le parti contraenti procedono regolarmente a scambi di informazioni e, su richiesta di una di esse, si consultano in sede di Comitato misto. Le parti si comunicano a vicenda i dati forniti dalle autorità incaricate di applicare il presente Accordo ed in particolare di rilasciare le autorizzazioni e di procedere ai controlli. Tali autorità scambiano direttamente la propria corrispondenza.
+
+<sup>4.</sup> Il Comitato misto adotta, mediante decisione, il proprio regolamento interno, che contiene, fra le altre disposizioni, le modalità per indire le riunioni, designare la presidenza e definirne il mandato.
+
+<sup>5.</sup> Il Comitato misto si riunisce in funzione delle esigenze, e almeno una volta all’anno. Ciascuna parte contraente può chiedere che venga indetta una riunione.
+
+<sup>6.</sup> Il Comitato misto può decidere di costituire gruppi di lavoro o di esperti per assisterlo nello svolgimento dei propri compiti.
+
+<sup>7.</sup> Il Comitato svolge altresì le funzioni precedentemente esercitate dal Comitato misto denominato «Comitato dei trasporti terrestri Comunità/Svizzera», istituito dall’articolo 18 dell’Accordo del 1992.
+
+#### Art. 52
+
+**Evoluzione del diritto**
+
+<sup>1.</sup> Il presente Accordo non pregiudica il diritto di ciascuna parte contraente di modificare autonomamente, fatto salvo il rispetto del principio di non discriminazione e fatte salve le disposizioni del presente Accordo, la sua legislazione interna nei settori contemplati dal presente Accordo.
+
+<sup>2.</sup> Quando una parte contraente elabora una nuova legislazione in uno dei settori contemplati dal presente Accordo, essa richiede in via informale il parere di esperti dell’altra parte. Durante il periodo che precede l’adozione formale della nuova legislazione, le parti contraenti si scambiano informazioni e si consultano nella misura necessaria. Uno scambio di opinioni preliminare ha luogo in sede di Comitato misto su richiesta di una delle parti contraenti, in particolare sulle conseguenze che una tale modifica comporta per il funzionamento dell’Accordo.
+
+<sup>3.</sup> Una volta adottata la legislazione modificata, e comunque entro otto giorni dalla sua pubblicazione nella Gazzetta ufficiale delle Comunità europee o nella Raccolta ufficiale delle leggi federali, la parte contraente interessata notifica all’altra parte contraente il testo delle nuove disposizioni. Su richiesta di una delle parti contraenti, si procede ad uno scambio di opinioni in sede di Comitato misto relativamente alle conseguenze dell’emendamento sul funzionamento dell’Accordo, al più tardi entro un termine di due mesi dalla data della richiesta.
+
+<sup>4.</sup>
+
+Il Comitato misto:
+
+- – adotta una decisione relativa alla revisione degli allegati 1, 3, 4, e 7 o propone una revisione delle disposizioni del presente Accordo per integrarvi, per quanto necessario su base di reciprocità, le modifiche apportate alla legislazione in questione, oppure
+- – adotta una decisione in base alla quale le modifiche della legislazione in questione sono ritenute conformi al presente Accordo, oppure
+- – decide qualsiasi altra misura intesa a preservare il corretto funzionamento del presente Accordo.
+
+<sup>5.</sup> Il Comitato misto decide in merito alle modalità di adeguamento del presente Accordo alle pertinenti disposizioni dei futuri accordi fra la Comunità e la Svizzera da un lato, e i paesi terzi dall’altro, di cui agli articoli 13 e 19.
+
+<sup>6.</sup> Per raggiungere gli obiettivi fissati dal presente Accordo, le parti contraenti adottano, in base al calendario stabilito all’articolo 49, tutte le misure necessarie affinché i diritti e gli obblighi equivalenti a quelli contenuti negli atti giuridici della Comunità e che figurano nell’allegato 1 trovino applicazione nelle loro relazioni.
+
+#### Art. 53
+
+**Riservatezza**
+
+I rappresentanti, gli esperti e gli altri agenti delle parti contraenti sono tenuti, anche dopo la cessazione delle loro funzioni, a non divulgare le informazioni ottenute nell’ambito del presente Accordo, che per la loro natura sono coperte dal segreto professionale.
+
+#### Art. 54
+
+**Composizione delle controversie**
+
+Ciascuna parte può sottoporre al Comitato misto una controversia relativa all’interpretazione o all’applicazione del presente Accordo. Il Comitato cercherà di risolvere la vertenza. Sono forniti al Comitato misto tutti gli elementi d’informazione utili che permettano un esame approfondito della situazione per trovare una soluzione accettabile. A tale scopo il Comitato misto esamina tutte le possibilità che consentano di mantenere il corretto funzionamento del presente Accordo.
+
+#### Art. 55
+
+**Revisione dell’Accordo**
+
+<sup>1.</sup> Se una parte contraente desidera una revisione delle disposizioni del presente Accordo, essa ne informa il Comitato misto. Fatti salvi i paragrafi 2 e 3, la modifica del presente Accordo entrerà in vigore dopo l’espletamento delle rispettive procedure interne.
+
+<sup>2.</sup> Gli allegati 1, 3, 4 e 7 possono essere modificati, con decisione del Comitato misto conformemente all’articolo 51, paragrafo 1, per tenere conto dell’evoluzione della legislazione comunitaria in materia.
+
+<sup>3.</sup> Gli allegati 5, 6, 8, e 9 possono essere modificati con decisione del Comitato misto conformemente all’articolo 51, paragrafo 1.
+
+#### Art. 56
+
+**Allegati**
+
+Gli allegati 1-10 sono parte integrante del presente Accordo.
+
+#### Art. 57
+
+**Campo d’applicazione territoriale**
+
+Il presente Accordo si applica, da un lato, ai territori in cui si applica il trattato che istituisce la Comunità europea e alle condizioni previste da tale trattato e, dall’altro, al territorio della Svizzera.
+
+#### Art. 58
+
+**Clausole finali**
+
+<sup>1.</sup>
+
+Il presente Accordo sarà ratificato o approvato dalle parti conformemente alle rispettive procedure. Esso entrerà in vigore il primo giorno del secondo mese successivo all’ultima notifica del deposito degli strumenti di ratifica o di approvazione dei sette accordi seguenti:
+
+- – Accordo sul trasporto di merci e passeggeri su strada e per ferrovia;
+- – Accordo sulla libera circolazione delle persone[^58-1];
+- – Accordo sul trasporto aereo[^58-2];
+- – Accordo sul commercio di prodotti agricoli[^58-3];
+- – Accordo sul riconoscimento reciproco in materia di valutazione della conformità[^58-4];
+- – Accordo su alcuni aspetti degli appalti pubblici[^58-5];
+- – Accordo sulla cooperazione scientifica e tecnologica[^58-6].
+
+<sup>2.</sup> Il presente Accordo è concluso per un periodo iniziale di sette anni ed è rinnovato a tempo indeterminato tranne se la Comunità o la Svizzera notificano all’altra parte contraente la propria intenzione contraria, prima della scadenza del periodo iniziale. In caso di notifica, si applicano le disposizioni del paragrafo 4.
+
+<sup>3.</sup> La Comunità o la Svizzera possono denunciare il presente Accordo notificando tale decisione all’altra parte contraente. In caso di notifica si applicano le disposizioni del paragrafo 4.
+
+<sup>4.</sup> I sette accordi menzionati al paragrafo 1 cessano di essere applicabili sei mesi dopo il ricevimento della notifica dell’intenzione di non rinnovare l’Accordo di cui al paragrafo 2 o alla denuncia di cui al paragrafo 3.
+
+Fatto a Lussemburgo, addì ventun giugno millenovecentonovantanove, in duplice copia in lingua danese, finlandese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese e tedesca, ciascun testo facente ugualmente fede.
+
+<table>
+<tr><td>Per la Confederazione svizzera: Pascal Couchepin Joseph Deiss</td><td>Per l’Unione europea: Joschka Fischer Hans van den Broek</td></tr>
+</table>
+
+[^58-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^58-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^58-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^58-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^58-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^58-6]: [RS 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
+
+## Elenco degli allegati
+
+*Allegato 1* articolo 5, paragrafo 2; articolo 6; articolo 7, paragrafo 1; articolo 24, paragrafo 1; articolo 25, paragrafo 5 e articolo 27, paragrafo 2:
+
+Disposizioni applicabili
+
+*Allegato 2* articolo 8, paragrafo 5:
+
+Modalità di applicazione delle tariffe di cui all’articolo 8
+
+*Allegato 3* articolo 9, paragrafo 1:
+
+Modello di licenza per il trasporto internazionale di merci su strada
+
+*Allegato 4* articolo 9, paragrafo 3:
+
+Elenco dei trasporti esonerati da ogni regime di licenza o autorizzazione
+
+*Allegato 5* articoli 12 e 13:
+
+Elenco dei diritti esistenti, derivanti dagli accordi bilaterali in vigore
+
+*Allegato 6* articolo 15, paragrafo 2:
+
+Esenzioni dal limite di peso e dal divieto di circolare la notte e la domenica
+
+*Allegato 7* articoli 17, 18 e 21:
+
+Servizi di trasporto internazionale di viaggiatori e procedure relative alle autorizzazioni
+
+*Allegato 8* articoli 19 e 20:
+
+Elenco dei diritti esistenti, derivanti dagli accordi bilaterali in vigore
+
+*Allegato 9* articolo 36:
+
+Parametri di qualità dei servizi di trasporto ferroviario e combinato
+
+*Allegato 10* articolo 40, paragrafo 1:
+
+Modalità di applicazione delle tariffe di cui all’articolo 40.
+
+Allegato 1*[^t-3]*
+
+## Disposizioni applicabili
+
+[^t-3]: Nuovo testo giusta l’art. 1 della Dec. n. 2/2020 del Comitato dei trasporti terrestri Comunità/Svizzera dell’11 dic. 2020 relativa alle misure transitorie per la salvaguardia della fluidità del traffico ferroviario tra la Svizzera e l’Unione europea, in vigore per la Svizzera dall’11 dic. 2020 ([RU 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+
+Conformemente all’articolo 52, paragrafo 6, del presente Accordo la Svizzera applica disposizioni legali equivalenti alle disposizioni menzionate di seguito:
+
+**Disposizioni pertinenti del diritto dell’Unione europea**
+
+### Sezione 1: Accesso alla professione
+
+Direttiva 2006/1/CE del Parlamento europeo e del Consiglio, del 18 gennaio 2006, relativa all’utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada (versione codificata) (GU L 33 del 4.2.2006, pag. 82).
+
+Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l’attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio (GU L 300 del 14.11.2009, pag. 51), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio, del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+
+Regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale del trasporto di merci su strada (GU L 300 del 14.11.2009, pag. 72), modificato da ultimo dal regolamento (UE) n. 517/2013, del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+
+Ai fini del presente Accordo:
+
+- a) l’Unione europea e la Confederazione Svizzera esentano i cittadini della Confederazione Svizzera, degli Stati membri dell’Unione europea e degli Stati membri dello Spazio economico europeo dall’obbligo di essere muniti dell’attestato di conducente;
+- b) la Confederazione Svizzera potrà esentare i cittadini di altri Stati, diversi da quelli menzionati alla lettera a), dall’obbligo di essere muniti dell’attestato di conducente solo previa consultazione e con accordo dell’Unione europea;
+- c) le disposizioni del capo III del regolamento (CE) n. 1072/2009 (relative al cabotaggio) non si applicano.
+
+Regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale dei servizi di trasporto effettuati con autobus e che modifica il regolamento (CE) n. 561/2006 (GU L 300 del 14.11.2009, pag. 88), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio, del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+
+Ai fini del presente Accordo, le disposizioni del capo V del regolamento (CE) n. 1073/2009 (relative al cabotaggio) non si applicano.
+
+Decisione 2009/992/UE della Commissione, del 17 dicembre 2009, sui requisiti minimi relativi ai dati da inserire nel registro elettronico nazionale delle imprese di trasporto su strada (GU L 339 del 22.12.2009, pag. 36).
+
+Regolamento (UE) n. 1213/2010 della Commissione, del 16 dicembre 2010, che stabilisce norme comuni sull’interconnessione dei registri elettronici nazionali delle imprese di trasporto su strada (GU L 335 del 18.12.2010, pag. 21).
+
+Regolamento (UE) n. 361/2014 della Commissione, del 9 aprile 2014, recante modalità di esecuzione del regolamento (CE) n. 1073/2009 con riguardo ai documenti per il trasporto internazionale di passeggeri mediante autobus e che abroga il regolamento (CE) n. 2121/98 della Commissione (GU L 107 del 10.4.2014, pag. 39).
+
+Regolamento (UE) 2016/403 della Commissione, del 18 marzo 2016, che integra il regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio per quanto riguarda la classificazione di infrazioni gravi alle norme dell’Unione che possono portare alla perdita dell’onorabilità del trasportatore su strada e che modifica l’allegato III della direttiva 2006/22/CE del Parlamento europeo e del Consiglio (GU L 74 del 19.3.2016, pag. 8).
+
+### Sezione 2: Norme sociali
+
+Direttiva 2002/15/CE del Parlamento europeo e del Consiglio, dell’11 marzo 2002, concernente l’organizzazione dell’orario di lavoro delle persone che effettuano operazioni mobili di autotrasporto (GU L 80 del 23.3.2002, pag. 35).
+
+Direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 luglio 2003, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) n. 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio (GU L 226 del 10.9.2003, pag. 4).
+
+Regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006, relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada e che modifica i regolamenti del Consiglio (CEE) n. 3821/85 e (CE) n. 2135/98 e abroga il regolamento (CEE) n. 3820/85 del Consiglio (GU L 102 dell’11.4.2006, pag. 1), modificato da ultimo dal regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 (GU L 60 del 28.2.2014, pag. 1).
+
+Direttiva 2006/22/CE del Parlamento europeo e del Consiglio, del 15 marzo 2006, sulle norme minime per l’applicazione dei regolamenti (CEE) n. 3820/85 e (CEE) n. 3821/85 del Consiglio relativi a disposizioni in materia sociale nel settore dei trasporti su strada e che abroga la direttiva 88/599/CEE del Consiglio (GU L 102 dell’11.4.2006, pag. 35), modificata da ultimo dal regolamento (UE) 2016/403 della Commissione del 18 marzo 2016 (GU L 74 del 19.3.2016, pag. 8).
+
+Regolamento (UE) n. 581/2010 della Commissione, del 1° luglio 2010, sui periodi massimi per il trasferimento dei dati pertinenti dalle unità elettroniche di bordo e dalle carte del conducente (GU L 168 del 2.7.2010, pag. 16).
+
+Regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio, del 4 febbraio 2014, relativo ai tachigrafi nel settore dei trasporti su strada, che abroga il regolamento (CEE) n. 3821/85 del Consiglio relativo all’apparecchio di controllo nel settore dei trasporti su strada e modifica il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada (GU L 60 del 28.2.2014, pag. 1).
+
+Regolamento di esecuzione (UE) 2016/68 della Commissione, del 21 gennaio 2016, relativo alle procedure comuni e alle specifiche necessarie per interconnettere i registri elettronici delle carte del conducente (GU L 15 del 22.1.2016, pag. 51), modificato dal regolamento di esecuzione (UE) 2017/1503 della Commissione, del 25 agosto 2017 (GU L 221 del 26.8.2017, pag. 10).
+
+Regolamento di esecuzione (UE) 2016/799 della Commissione, del 18 marzo 2016, che applica il regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio recante le prescrizioni per la costruzione, il collaudo, il montaggio, il funzionamento e la riparazione dei tachigrafi e dei loro componenti (GU L 139 del 26.5.2016, pag. 1), modificato dal regolamento di esecuzione (UE) 2018/502 della Commissione, del 28 febbraio 2018 (GU L 85 del 28.3.2018, pag. 1).
+
+Regolamento di esecuzione (UE) 2017/548 della Commissione, del 23 marzo 2017, che stabilisce un modulo standard per la giustificazione scritta relativa alla rimozione o alla rottura del sigillo del tachigrafo (GU L 79 del 24.3.2017, pag. 1).
+
+Decisione di esecuzione (UE) 2017/1013 della Commissione, del 30 marzo 2017, che stabilisce il formulario tipo per le relazioni di cui all’articolo 17 del regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio (GU L 153 del 16.6.2017, pag. 28).
+
+### Sezione 3: Norme tecniche
+
+Veicoli a motore
+
+Direttiva 70/157/CEE del Consiglio, del 6 febbraio 1970, concernente il ravvicinamento delle legislazioni degli Stati membri relative al livello sonoro ammissibile e al dispositivo di scappamento dei veicoli a motore (GU L 42 del 23.2.1970, pag. 16), modificata da ultimo dalla direttiva 2007/34/CE della Commissione, del 14 giugno 2007 (GU L 155 del 15.6.2007, pag. 49).
+
+Direttiva 88/77/CEE del Consiglio, del 3 dicembre 1987, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli (GU L 36 del 9.2.1988, pag. 33), modificata da ultimo dalla direttiva 2001/27/CE della Commissione, del 10 aprile 2001 (GU L 107 del 18.4.2001, pag. 10).
+
+Direttiva 91/671/CEE del Consiglio, del 16 dicembre 1991, per il ravvicinamento delle legislazioni degli Stati membri relative all’uso obbligatorio delle cinture di sicurezza sugli autoveicoli di peso inferiore a 3,5 tonnellate (GU L 373 del 31.12.1991, pag. 26), modificata da ultimo dalla direttiva di esecuzione 2014/37/UE della Commissione, del 27 febbraio 2014 (GU L 59 del 28.2.2014, pag. 32).
+
+Direttiva 92/6/CEE del Consiglio, del 10 febbraio 1992, concernente il montaggio e l’impiego di limitatori di velocità per talune categorie di autoveicoli nella Comunità (GU L 57 del 2.3.1992, pag. 27), modificata dalla direttiva 2002/85/CE del Parlamento europeo e del Consiglio, del 5 novembre 2002 (GU L 327 del 4.12.2002, pag. 8).
+
+Direttiva 96/53/CE del Consiglio, del 25 luglio 1996, che stabilisce, per taluni veicoli stradali che circolano nella Comunità, le dimensioni massime autorizzate nel traffico nazionale e internazionale e i pesi massimi autorizzati nel traffico internazionale (GU L 235 del 17.9.1996, pag. 59), modificata da ultimo dalla direttiva 2002/7/CE del Parlamento europeo e del Consiglio, del 18 febbraio 2002 (GU L 67 del 9.3.2002, pag. 47).
+
+Regolamento (CE) n. 2411/98 del Consiglio, del 3 novembre 1998, relativo al riconoscimento intracomunitario del segno distintivo dello Stato membro di immatricolazione dei veicoli a motore e dei loro rimorchi (GU L 299 del 10.11.1998, pag. 1).
+
+Direttiva 2000/30/CE del Parlamento europeo e del Consiglio, del 6 giugno 2000, relativa ai controlli tecnici su strada dei veicoli commerciali circolanti nella Comunità (GU L 203 del 10.8.2000, pag. 1), modificata da ultimo dalla direttiva 2010/47/UE della Commissione, del 5 luglio 2010 (GU L 173 dell’8.7.2010, pag. 33).
+
+Direttiva 2005/55/CE del Parlamento europeo e del Consiglio, del 28 settembre 2005, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli (GU L 275 del 20.10.2005, pag. 1), modificata da ultimo dalla direttiva 2008/74/CE della Commissione, del 18 luglio 2008 (GU L 192 del 19.7.2008, pag. 51).
+
+Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE (GU L 188 del 18.7.2009, pag. 1), modificato da ultimo dal regolamento (UE) n. 133/2014 della Commissione, del 31 gennaio 2014 (GU L 47 del 18.2.2014, pag. 1).
+
+Regolamento (CE) n. 661/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, sui requisiti dell’omologazione per la sicurezza generale dei veicoli a motore, dei loro rimorchi e sistemi, componenti ed entità tecniche ad essi destinati (GU L 200 del 31.7.2009, pag. 1), modificato da ultimo dal regolamento (UE) 2016/1004 della Commissione, del 22 giugno 2016 (GU L 165 del 23.6.2016, pag. 1).
+
+Regolamento (UE) n. 582/2011 della Commissione, del 25 maggio 2011, recante attuazione e modifica del regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio per quanto riguarda le emissioni dei veicoli pesanti (Euro VI) e recante modifica degli allegati I e III della direttiva 2007/46/CE del Parlamento europeo e del Consiglio (GU L 167 del 25.6.2011, pag. 1), modificato da ultimo dal regolamento (UE) n. 627/2014 della Commissione, del 12 giugno 2014 (GU L 174 del 13.6.2014, pag. 28).
+
+Direttiva 2014/45/UE del Parlamento europeo e del Consiglio, del 3 aprile 2014, relativa ai controlli tecnici periodici dei veicoli a motore e dei loro rimorchi e recante abrogazione della direttiva 2009/40/CE (GU L 127 del 29.4.2014, pag. 51).
+
+Regolamento (UE) n. 540/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, relativo al livello sonoro dei veicoli a motore e i dispositivi silenziatori di sostituzione, che modifica la direttiva 2007/46/CE e che abroga la direttiva 70/157/CEE (GU L 158 del 27.5.2014, pag. 131), modificato dal regolamento delegato (UE) 2017/1576 della Commissione, del 26 giugno 2017 (GU L 239 del 19.9.2017, pag. 3).
+
+Trasporto di merci pericolose
+
+Direttiva 95/50/CE del Consiglio, del 6 ottobre 1995, sull’adozione di procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (GU L 249 del 17.10.1995, pag. 35), modificata da ultimo dalla direttiva 2008/54/CE del Parlamento europeo e del Consiglio, del 17 giugno 2008 (GU L 162 del 21.6.2008, pag. 11).
+
+Direttiva 2008/68/CE del Parlamento europeo e del Consiglio, del 24 settembre 2008, relativa al trasporto interno di merci pericolose (GU L 260 del 30.9.2008, pag. 13), modificata da ultimo dalla direttiva (UE) 2018/1846 della Commissione, del 23 novembre 2018 (GU L 299 del 26.11.2018, pag. 58).
+
+Ai fini del presente Accordo, in Svizzera si applicano le seguenti deroghe alla direttiva 2008/68/CE:
+
+\1. Trasporto su strada
+
+Deroghe per la Svizzera a norma dell’articolo 6, paragrafo 2, lettera a), della direttiva 2008/68/CE:
+
+RO-a-CH-1
+
+Oggetto: trasporti di combustibile diesel e gasolio per riscaldamento (numero ONU 1202) in contenitori cisterna.
+
+Riferimento all’allegato I capo I.1 di detta direttiva: 1.1.3.6 e 6.8
+
+Contenuto dell’allegato della direttiva: esenzioni relative alle quantità trasportate per unità di trasporto, prescrizioni relative alla costruzione di cisterne.
+
+Contenuto della legislazione nazionale: i contenitori cisterna non costruiti conformemente alle disposizioni del punto 6.8 ma secondo la legislazione nazionale, di capacità pari o inferiore a 1210 litri e utilizzati per il trasporto di gasolio per riscaldamento o combustibile diesel con numero ONU 1202, possono beneficiare delle esenzioni stabilite al punto 1.1.3.6 dell’ADR.
+
+Riferimento iniziale alla legislazione nazionale: appendice 1 punto 1.1.3.6.3 lettera b) e punto 6.14 dell’ordinanza del 29 novembre 2002 concernente il trasporto di merci pericolose su strada (SDR; RS *741.621*).
+
+Data di scadenza: 1° gennaio 2023.
+
+RO-a-CH-2
+
+Oggetto: esenzione dall’obbligo di detenere un documento di trasporto per determinate quantità di merci pericolose come specificato al punto 1.1.3.6.
+
+Riferimento all’allegato I, capo I.1 di detta direttiva: punti 1.1.3.6 e 5.4.1.
+
+Contenuto dell’allegato della direttiva: obbligo di essere muniti di un documento di trasporto.
+
+Contenuto della legislazione nazionale: il trasporto di container vuoti e non puliti appartenenti alla categoria di trasporto 4 e di bombole per gas, piene o vuote, per gli apparecchi di respirazione utilizzate dai servizi di emergenza e come attrezzature subacquee, in quantità non superiori ai limiti stabiliti al punto 1.1.3.6, non è soggetto all’obbligo di essere muniti di un documento di trasporto di cui al punto 5.4.1.
+
+Riferimento iniziale alla legislazione nazionale: appendice 1 punto 1.1.3.6.3 lettera c) dell’ordinanza del 29 novembre 2002 concernente il trasporto di merci pericolose su strada (SDR; RS *741.621*).
+
+Data di scadenza: 1° gennaio 2023.
+
+RO-a-CH-3
+
+Oggetto: trasporti di cisterne vuote non pulite da parte delle imprese di revisione degli impianti di deposito di liquidi nocivi alle acque.
+
+Riferimento all’allegato I, capo I.1 di detta direttiva: punti 6.5, 6.8, 8.2 e 9.
+
+Contenuto dell’allegato della direttiva: costruzione, equipaggiamento e ispezione delle cisterne e dei veicoli; formazione del conducente.
+
+Contenuto della legislazione nazionale: veicoli e cisterne/container vuoti non puliti utilizzati dalle imprese di revisione degli impianti di deposito di liquidi nocivi alle acque, utilizzati per contenere liquidi mentre le cisterne fisse sono sottoposte a interventi di revisione, non sono soggetti agli obblighi di costruzione, equipaggiamento e ispezione né agli obblighi in materia di etichettatura e marcatura con pannello arancione previsti dall’ADR. Sono soggetti a disposizioni speciali in materia di etichettatura e identificazione e non è obbligatorio che il conducente abbia seguito la formazione di cui al punto 8.2.
+
+Riferimento iniziale alla legislazione nazionale: appendice 1, punto 1.1.3.6.3.10 dell’ordinanza del 29 novembre 2002 concernente il trasporto di merci pericolose su strada (SDR; RS *741.621*).
+
+Data di scadenza: 1° gennaio 2023.
+
+Deroghe per la Svizzera a norma dell’articolo 6, paragrafo 2, lettera b), punto i), della direttiva 2008/68/CE:
+
+RO-bi-CH-1
+
+Oggetto: trasporto di rifiuti domestici contenenti merci pericolose a impianti per lo smaltimento dei rifiuti.
+
+Riferimento all’allegato I, capo I.1. di detta direttiva: punti 2, 4.1.10, 5.2 e 5.4.
+
+Contenuto dell’allegato della direttiva: classificazione, imballaggio combinato, marcatura ed etichettatura, documentazione.
+
+Contenuto della legislazione nazionale: le norme contengono disposizioni relative alla classificazione semplificata di rifiuti domestici contenenti merci pericolose (rifiuti domestici), svolta da un esperto riconosciuto dall’autorità competente, all’uso di recipienti per la raccolta adeguati e alla formazione del conducente. I rifiuti domestici che non possono essere classificati dall’esperto possono essere trasportati presso un centro di trattamento in piccole quantità identificate per imballaggio e per unità di trasporto.
+
+Riferimento iniziale alla legislazione nazionale: appendice 1 punto 1.1.3.7 del 29 novembre 2002 dell’ordinanza concernente il trasporto di merci pericolose su strada (SDR; RS *741.621*).
+
+Osservazioni: queste norme si applicano solo al trasporto di rifiuti domestici contenenti merci pericolose tra i siti pubblici per il trattamento e gli impianti per lo smaltimento dei rifiuti.
+
+Data di scadenza: 1° gennaio 2023.
+
+RO-bi-CH-2
+
+Oggetto: trasporto per la restituzione di fuochi d’artificio.
+
+Riferimento all’allegato I, capo I.1 di detta direttiva: punti 2.1.2 e 5.4
+
+Contenuto dell’allegato della direttiva: classificazione e documentazione.
+
+Contenuto della legislazione nazionale: allo scopo di facilitare il trasporto per la restituzione di fuochi d’artificio con numeri ONU 0335, 0336 e 0337 dai dettaglianti ai fornitori, sono previste esenzioni relative all’indicazione della massa netta e della classificazione del prodotto sul documento di trasporto.
+
+Riferimento iniziale alla legislazione nazionale: appendice 1 punto 1.1.3.8 dell’ordinanza del 29 novembre 2002 concernente il trasporto di merci pericolose su strada (SDR; RS *741.621*).
+
+Osservazioni: il controllo dettagliato del contenuto esatto di ogni elemento invenduto in ogni confezione è praticamente impossibile per i prodotti destinati alla vendita al dettaglio.
+
+Data di scadenza: 1° gennaio 2023.
+
+RO-bi-CH-3
+
+Oggetto: certificato di formazione ADR per i viaggi compiuti al fine di trasportare veicoli guasti, i viaggi relativi a riparazioni, i viaggi effettuati per esaminare veicoli cisterna/cisterne e i viaggi compiuti su veicoli cisterna da esperti responsabili dell’esame del veicolo in questione.
+
+Riferimento all’allegato I, capo I.1 di detta direttiva: punto 8.2.1.
+
+Contenuto dell’allegato della direttiva: i conducenti dei veicoli devono seguire appositi corsi di formazione.
+
+Contenuto della legislazione nazionale: i corsi e i certificati di formazione ADR non sono richiesti nel caso di viaggi compiuti per trasportare veicoli guasti o per eseguire prove relative alle riparazioni, viaggi effettuati su veicoli cisterna per esaminare il veicolo o la sua cisterna e viaggi compiuti da esperti responsabili dell’esame del veicolo cisterna.
+
+Riferimento iniziale alla legislazione nazionale: istruzioni del 30 settembre 2008 del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) sul trasporto su strada di merci pericolose.
+
+Osservazioni: in alcuni casi i veicoli guasti o sottoposti a riparazioni e i veicoli cisterna che vengono preparati per un’ispezione tecnica o sottoposti a controlli durante tale ispezione contengono ancora merci pericolose.
+
+Continuano ad applicarsi le disposizioni di cui ai punti 1.3 e 8.2.3.
+
+Data di scadenza: 1° gennaio 2023.
+
+\2. Trasporto per ferrovia
+
+Deroghe per la Svizzera a norma dell’articolo 6, paragrafo 2, lettera a), della direttiva 2008/68/CE:
+
+RA-a-CH-1
+
+Oggetto: trasporti di combustibile diesel e gasolio per riscaldamento con numero ONU 1202 in contenitori cisterna.
+
+Riferimento all’allegato II, capo II.1 di detta direttiva: punto 6.8.
+
+Contenuto dell’allegato della direttiva: prescrizioni relative alla costruzione di cisterne.
+
+Contenuto della legislazione nazionale: sono autorizzati i contenitori cisterna non costruiti conformemente alle disposizioni del punto 6.8 ma secondo la legislazione nazionale, di capacità pari o inferiore a 1210 litri e utilizzati per il trasporto di gasolio per riscaldamento o combustibile diesel con numero ONU 1202.
+
+Riferimento iniziale alla legislazione nazionale: allegato all’ordinanza del DATEC del 3 dicembre 1996 relativa al trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune (RSD, RS *742.401.6*) e appendice 1 punto 6.14 dell’ordinanza del 29 novembre 2002 concernente il trasporto di merci pericolose su strada (SDR, RS *741.621*).
+
+Data di scadenza: 1° gennaio 2023.
+
+RA-a-CH-2
+
+Oggetto: documento di trasporto.
+
+Riferimento all’allegato I capo II.1. di detta direttiva: punto 5.4.1.1.1.
+
+Contenuto dell’allegato della direttiva: informazioni generali richieste nel documento di trasporto.
+
+Contenuto della legislazione nazionale: si può usare un termine collettivo nel documento di trasporto se un elenco contenente le informazioni obbligatorie come stabilito sopra accompagna detto documento di trasporto.
+
+Riferimento iniziale alla legislazione nazionale: allegato dell’ordinanza del DATEC del 3 dicembre 1996 relativa al trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune (RSD, RS *742.401.6*).
+
+Data di scadenza: 1° gennaio 2023.
+
+Direttiva 2010/35/UE del Parlamento europeo e del Consiglio, del 16 giugno 2010, in materia di attrezzature a pressione trasportabili e che abroga le direttive del Consiglio 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE e 1999/36/CE (GU L 165 del 30.6.2010, pag. 1).
+
+### Sezione 4: Diritti di accesso e di transito ferroviario
+
+Direttiva 91/440/CEE del Consiglio, del 29 luglio 1991, relativa allo sviluppo delle ferrovie comunitarie (GU L 237 del 24.8.1991, pag. 25).
+
+Direttiva 95/18/CE del Consiglio, del 19 giugno 1995, relativa alle licenze delle imprese ferroviarie (GU L 143 del 27.6.1995, pag. 70).
+
+Direttiva 95/19/CE del Consiglio, del 19 giugno 1995, riguardante la ripartizione delle capacità di infrastruttura ferroviaria e la riscossione dei diritti per l’utilizzo dell’infrastruttura (GU L 143 del 27.6.1995, pag. 75).
+
+Direttiva 2004/49/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa alla sicurezza delle ferrovie comunitarie e recante modifica della direttiva 95/18/CE del Consiglio relativa alle licenze delle imprese ferroviarie e della direttiva 2001/14/CE relativa alla ripartizione della capacità di infrastruttura ferroviaria, all’imposizione dei diritti per l’utilizzo dell’infrastruttura ferroviaria e alla certificazione di sicurezza (direttiva sulla sicurezza delle ferrovie) (GU L 164 del 30.4.2004, pag. 44), modificata da ultimo dalla direttiva 2014/88/UE della Commissione, del 9 luglio 2014 (GU L 201 del 10.7.2014, pag. 9).
+
+Direttiva 2007/59/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2007, relativa alla certificazione dei macchinisti addetti alla guida di locomotori e treni sul sistema ferroviario della Comunità (GU L 315 del 3.12.2007, pag. 51), modificata da ultimo dalla direttiva (UE) 2016/882 della Commissione, del 1° giugno 2016 (GU L 146 del 3.6.2016, pag. 22)[^annex1-lvlu1-sec4-1].
+
+Regolamento (CE) n. 653/2007 della Commissione, del 13 giugno 2007, sull’uso di un formato europeo comune per i certificati di sicurezza e i relativi modelli di domanda conformemente all’articolo 10 della direttiva 2004/49/CE del Parlamento europeo e del Consiglio e sulla validità dei certificati di sicurezza rilasciati nell’ambito della direttiva 2001/14/CE del Parlamento europeo e del Consiglio (GU L 153 del 14.6.2007, pag. 9), modificato dal regolamento (UE) n. 445/2011 della Commissione, del 10 maggio 2011 (GU L 122 dell’11.5.2011, pag. 22).
+
+Decisione 2007/756/CE della Commissione, del 9 novembre 2007, che adotta una specifica comune per il registro di immatricolazione nazionale di cui all’articolo 14, paragrafi 4 e 5, delle direttive 96/48/CE e 2001/16/CE (GU L 305 del 23.11.2007, pag. 30), modificata dalla decisione 2011/107/UE della Commissione, del 10 febbraio 2011 (GU L 43 del 17.2.2011, pag. 33).
+
+Direttiva 2008/57/CE del Parlamento europeo e del Consiglio, del 17 giugno 2008, relativa all’interoperabilità del sistema ferroviario comunitario (rifusione) (GU L 191 del 18.7.2008, pag. 1), modificata da ultimo dalla direttiva 2014/38/UE della Commissione, del 10 marzo 2014 (GU L 70 dell’11.3.2014, pag. 20).
+
+Decisione 2009/965/CE della Commissione, del 30 novembre 2009, riguardante il documento di riferimento di cui all’articolo 27 paragrafo 4 della direttiva 2008/57/CE del Parlamento europeo e del Consiglio relativa all’interoperabilità del sistema ferroviario comunitario (GU L 341 del 22.12.2009, pag. 1), modificata dalla decisione di esecuzione (UE) 2015/2299 della Commissione, del 17 novembre 2015 (GU L 324 del 10.12.2015, pag. 15).
+
+Regolamento (UE) n. 36/2010 della Commissione, del 3 dicembre 2009, relativo ai modelli comunitari di licenza di conduzione treni, certificato complementare, copia autenticata del certificato complementare e i moduli di domanda di licenza di conduzione treni, a norma della direttiva 2007/59/CE del Parlamento europeo e del Consiglio (GU L 13 del 19.1.2010, pag. 1).
+
+Decisione 2010/713/UE della Commissione, del 9 novembre 2010, concernente i moduli per le procedure di valutazione della conformità, dell’idoneità all’impiego e della verifica CE da utilizzare per le specifiche tecniche di interoperabilità adottate nell’ambito della direttiva 2008/57/CE del Parlamento europeo e del Consiglio (GU L 319 del 4.12.2010, pag. 1).
+
+Regolamento (UE) n. 1158/2010 della Commissione, del 9 dicembre 2010, relativo a un metodo di sicurezza comune per valutare la conformità ai requisiti di ottenimento di certificati di sicurezza della rete ferroviaria (GU L 326 del 10.12.2010, pag. 11).
+
+Regolamento (UE) n. 1169/2010 della Commissione, del 10 dicembre 2010, concernente un metodo di sicurezza comune per la valutazione della conformità ai requisiti per ottenere un’autorizzazione di sicurezza per l’infrastruttura ferroviaria (GU L 327 dell’11.12.2010, pag. 13).
+
+Regolamento (UE) n. 201/2011 della Commissione, del 1° marzo 2011, relativo al modello di dichiarazione di conformità a un tipo autorizzato di veicolo ferroviario (GU L 57 del 2.3.2011, pag. 8).
+
+Regolamento (UE) n. 445/2011 della Commissione, del 10 maggio 2011, relativo ad un sistema di certificazione dei soggetti responsabili della manutenzione di carri merci e che modifica il regolamento (CE) n. 653/2007 (GU L 122 dell’11.5.2011, pag. 22).
+
+Regolamento (UE) n. 454/2011 della Commissione, del 5 maggio 2011, relativo alle specifiche tecniche di interoperabilità per il sottosistema «applicazioni telematiche per i passeggeri» del sistema ferroviario transeuropeo (GU L 123 del 12.5.2011, pag. 11), modificato da ultimo dal regolamento di esecuzione (UE) 2019/775 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 103).
+
+Decisione di esecuzione 2011/665/UE della Commissione, del 4 ottobre 2011, relativa al registro europeo dei tipi di veicoli ferroviari autorizzati (GU L 264 dell’8.10.2011, pag. 32), modificata dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
+
+Decisione 2011/765/UE della Commissione, del 22 novembre 2011, relativa ai criteri per il riconoscimento dei centri di formazione coinvolti nella formazione dei macchinisti addetti alla guida di locomotori e treni, nonché ai criteri per il riconoscimento degli esaminatori dei macchinisti e ai criteri per l’organizzazione degli esami a norma della direttiva 2007/59/CE del Parlamento europeo e del Consiglio (GU L 314 del 29.11.2011, pag. 36).
+
+Regolamento (UE) n. 1078/2012 della Commissione, del 16 novembre 2012, relativo a un metodo di sicurezza comune per il monitoraggio che devono applicare le imprese ferroviarie, i gestori dell’infrastruttura che hanno ottenuto un certificato di sicurezza o un’autorizzazione di sicurezza e i soggetti responsabili della manutenzione (GU L 320 del 17.11.2012, pag. 8).
+
+Regolamento (UE) n. 321/2013 della Commissione, del 13 marzo 2013, relativo alla specifica tecnica di interoperabilità per il sottosistema «materiale rotabile – carri merci» del sistema ferroviario nell’Unione europea e che abroga la decisione 2006/861/CE della Commissione (GU L 104 del 12.4.2013, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
+
+Regolamento di esecuzione (UE) n. 402/2013 della Commissione, del 30 aprile 2013, relativo al metodo comune di sicurezza per la determinazione e valutazione dei rischi e che abroga il regolamento (CE) n. 352/2009 (GU L 121 del 3.5.2013, pag. 8), modificato dal regolamento di esecuzione (UE) 2015/1136 della Commissione, del 13 luglio 2015 (GU L 185 del 14.7.2015, pag. 6).
+
+Regolamento (UE) n. 1299/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per il sottosistema «infrastruttura» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 1*),* modificato dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
+
+Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta (GU L 356 del 12.12.2014, pag. 1), modificato dal regolamento di esecuzione (UE) 2019/772 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 1); in Svizzera si applica la seguente disposizione nazionale di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+
+- – CH-TSI PRM-001 (versione 2.0, novembre 2020): Accesso autonomo ai veicoli (norma potenzialmente incompatibile con il regolamento (UE) n. 1300/2014; da verificare entro il 30 giugno 2021).
+
+Regolamento (UE) n. 1301/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per il sottosistema «energia» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 179), modificato da ultimo dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
+
+Regolamento (UE) n. 1302/2014 della Commissione, del 18 novembre 2014, relativo a una specifica tecnica di interoperabilità per il sottosistema «materiale rotabile – Locomotive e materiale rotabile per il trasporto di passeggeri» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 228), modificato da ultimo dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108); in Svizzera si applicano le seguenti disposizioni nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+
+- – CH-TSI LOC&PAS-001 (versione 1.0, giugno 2015): Larghezza dell’archetto del pantografo;
+- – CH-TSI LOC&PAS-002 (versione 1.0, luglio 2016): Tracciato degli scambi stretto / prove per la circolazione sugli scambi (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-003 (versione 1.0, luglio 2016): Raggi di curvatura stretti r &lt; 250 m (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-004 (versione 1.0, luglio 2016): Sforzo di spostamento del binario (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS 005 (versione 1.0, luglio 2016): Difetto di sopraelevazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-006 (versione 1.0, luglio 2016): Approvazione di veicoli con tecnica d’inclinazione secondo la categoria N (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-007 (versione 1.0, giugno 2015): Ungibordini (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-009 (versione 1.0, giugno 2015): Emissioni dei gas di scarico dei veicoli termici (norma potenzialmente incompatibile con il regolamento (UE) 2016/1628, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-011 (versione 1.0, luglio 2016): Limitazione della potenza di trazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-012 (versione 1.0, luglio 2016): Ammettenza;
+- – CH-TSI LOC&PAS 013 (versione 1.0, luglio 2016): Interazione pantografo/linea di contatto;
+- – CH-TSI LOC&PAS-014 (versione 1.0, luglio 2016): Compatibilità con dispositivi d’annuncio di binario libero (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-017 (versione 1.0, luglio 2016): Sagoma - in generale (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-019 (versione 2.0, giugno 2019): Il «non leading input signal» (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-020 (versione 2.0, giugno 2019): Segnale «sleeping input» in comando multiplo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-022 (versione 2.1, novembre 2020): Richiamo della frenatura imposta (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-025 (versione 2.0, giugno 2019): Azionamento impedito per la separazione dell’equipaggiamento ETCS di bordo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-026 (versione 2.0, giugno 2019): Divieto di SIGNUM/ ZUB su veicoli con ERTMS/ETCS Baseline 3;
+- – CH-TSI LOC&PAS-027 (versione 2.0, giugno 2019): Radiotelecomando manuale nel servizio di manovra (regime d’esercizio «Shunting») (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-028 (versione 1.0, luglio 2016): Sagoma, zona delle porte (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-030 (versione 1.0, luglio 2016): Impiego di sistemi di frenatura che non generano forze di aderenza (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-031 (versione 2.1, novembre 2020): Disinserimento sicuro della trazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-035 (versione 2.1, novembre 2020): Sufficienti prestazioni di frenatura in caso di frenatura imposta (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-036 (versione 2.0, giugno 2019): Veicoli con banco di guida per entrambe le direzioni di marcia (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021);
+- – CH-TSI LOC&PAS-037 (versione 1.0, giugno 2019): ETCS Service Brake (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 30 giugno 2021).
+
+Regolamento (UE) n. 1303/2014 della Commissione, del 18 novembre 2014, relativo alla specifica tecnica di interoperabilità concernente la «sicurezza nelle gallerie ferroviarie» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 394), modificato da ultimo dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
+
+Regolamento (UE) n. 1304/2014 della Commissione, del 26 novembre 2014, relativo alla specifica tecnica di interoperabilità per il sottosistema «materiale rotabile – rumore», che modifica la decisione 2008/232/CE e abroga la decisione 2011/229/UE (GU L 356 del 12.12.2014, pag. 421).
+
+Regolamento (UE) n. 1305/2014 della Commissione, dell’11 dicembre 2014, relativo alla specifica tecnica di interoperabilità per il sottosistema «applicazioni telematiche per il trasporto merci» del sistema ferroviario dell’Unione europea e che abroga il regolamento (CE) n. 62/2006 (GU L 356 del 12.12.2014, pag. 438), modificato da ultimo dal regolamento di esecuzione (UE) 2019/778 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 356).
+
+Regolamento di esecuzione (UE) 2015/171 della Commissione, del 4 febbraio 2015, su taluni aspetti della procedura per il rilascio di licenze alle imprese ferroviarie (GU L 29 del 5.2.2015, pag. 3).
+
+Regolamento di esecuzione (UE) 2015/909 della Commissione, del 12 giugno 2015, relativo alle modalità di calcolo dei costi direttamente legati alla prestazione del servizio ferroviario (GU L 148 del 13.6.2015, pag. 17).
+
+Direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, relativa all’interoperabilità del sistema ferroviario dell’Unione europea (GU L 138 del 26.5.2016, pag. 44); in Svizzera si applicano soltanto le seguenti disposizioni: articoli 7 (paragrafi da 1 a 3), da 8 a 10, 12, 15, 17, 21 (senza paragrafo 7), da 22 a 25, da 27 a 42, 44, 45 e 49, nonché gli allegati II, III e IV.
+
+Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (GU L 138 del 26.5.2016, pag. 102); in Svizzera si applicano soltanto le seguenti disposizioni: articoli 9, 10 (senza paragrafo 7), 13, 14 e 17, nonché l’allegato III.
+
+Regolamento (UE) 2016/919 della Commissione, del 27 maggio 2016, relativo alla specifica tecnica di interoperabilità per i sottosistemi «controllo-comando e segnalamento» del sistema ferroviario nell’Unione europea (GU L 158 del 15.6.2016, pag. 1), modificato dal regolamento di esecuzione (UE) 2019/776 della Commissione, del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108); in Svizzera si applicano le seguenti norme nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+
+- – CH-TSI CCS-003 (versione 2.0, giugno 2019): Attivazione / disattivazione della trasmissione del pacchetto 44 al sistema SIGNUM/ZUB;
+- – CH-TSI CCS-005 (versione 2.0, giugno 2019): Attestazione Quality of Service per la radiocomunicazione di dati GSM-R (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-006 (versione 2.1, novembre 2020): Perdita «non leading permitted» nel regime d’esercizio «Non Leading» (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-007 (versione 3.0, novembre 2020): Norme concernenti le curve di frenatura per ERTMS/ETCS Baseline 2;
+- – CH-TSI CCS-008 (versione 3.0, novembre 2020): Implementazione minima di Change Request (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-011 (versione 2.0, giugno 2019): Funzionalità degli Euroloop;
+- – CH-TSI CCS-015 (versione 2.0, giugno 2019): Controllo contemporaneo di due canali dati GSM-R;
+- – CH-TSI CCS-016 (versione 3.0, novembre 2020): Impiego di una progettazione specifica del paese (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-018 (versione 2.0, giugno 2019): Divieto del Level STM/NTC per SIGNUM/ZUB;
+- – CH-TSI CCS-019 (versione 3.0, novembre 2020): Ripresa e visualizzazione automatica di dati treno (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-022 (versione 2.0, giugno 2019): Circolazione a ritroso nel regime d’esercizio «Unfitted»;
+- – CH-TSI CCS-023 (versione 2.0, giugno 2019): Visualizzazione di messaggi di testo;
+- – CH-TSI CCS-024 (versione 2.0, giugno 2019): Dati del treno: NC\_TRAIN, M\_AXLELOAD, V\_MAXTRAIN;
+- – CH-TSI CCS-026 (versione 2.1, novembre 2020): Online Monitoring dell’equipaggiamento della tratta sul veicolo (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-032 (versione 2.1, novembre 2020): Immissione unica del numero di treno per l’equipaggiamento ETCS di bordo e la GSM-RCabRadio (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-033 (versione 1.1, novembre 2020): Funzionalità GSM-R Voice (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-034 (versione 1.0, giugno 2019): Regime d’esercizio «Non Leading»;
+- – CH-TSI CCS-035 (versione 1.0, giugno 2019): Testi da visualizzare sulla DMI (norma potenzialmente incompatibile con il regolamento (UE) 2016/ 919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-036 (versione 2.0, novembre 2020): Immunità alle interferenze GSM-R (norma potenzialmente incompatibile con il regolamento (UE) 2016/ 919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-037 (versione 1.1, novembre 2020): SIL2 DMI (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-TSI CCS-038 (versione 1.1, novembre 2020): Rivelazione in caso di notevole ampliamento dell’intervallo di confidenza dell’odometria (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-CSM-RA-001 (versione 1.0, giugno 2019): Programma di attestazione della sicurezza per l’ottenimento di un’omologazione ETCS in Svizzera (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-CSM-RA-002 (versione 1.0, giugno 2019): Requisiti in caso di velocità superiori a 200 km/h (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021);
+- – CH-CSM-RA-003 (versione 1.0, giugno 2019): Qualità dei dati treno (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 30 giugno 2021).
+
+Regolamento di esecuzione (UE) 2018/545 della Commissione, del 4 aprile 2018, che stabilisce modalità pratiche per la procedura di autorizzazione dei veicoli ferroviari e la procedura di autorizzazione dei tipi di veicoli ferroviari a norma della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L 90 del 6.4.2018, pag. 66).
+
+Regolamento delegato (UE) 2018/761 della Commissione, del 16 febbraio 2018, che istituisce metodi comuni di sicurezza per la supervisione da parte delle autorità nazionali preposte alla sicurezza in seguito al rilascio di un certificato di sicurezza unico o di un’autorizzazione di sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 1077/2012 della Commissione (GU L 129 del 25.5.2018, pag. 16).
+
+Regolamento delegato (UE) 2018/762 della Commissione, dell’8 marzo 2018, che stabilisce metodi comuni di sicurezza relativi ai requisiti del sistema di gestione della sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga i regolamenti della Commissione (UE) n. 1158/2010 e (UE) n. 1169/2010 (GU L 129 del 25.5.2018, pag. 26).
+
+Regolamento di esecuzione (UE) 2018/763 della Commissione, del 9 aprile 2018, che stabilisce le modalità pratiche per il rilascio dei certificati di sicurezza unici alle imprese ferroviarie a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 653/2007 della Commissione (GU L 129 del 25.5.2018, pag. 49).
+
+Regolamento di esecuzione (UE) 2019/250 della Commissione, del 12 febbraio 2019, relativo ai modelli di dichiarazioni e di certificati «CE» per i sottosistemi e i componenti di interoperabilità ferroviari, relativo al modello di dichiarazione di conformità a un tipo di veicolo ferroviario autorizzato e alle procedure «CE» di verifica dei sottosistemi conformemente alla direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 201/2011 (GU L 42 del 13.2.2019, pag. 9).
+
+Regolamento di esecuzione (UE) 2019/773 della Commissione, del 16 maggio 2019, relativo alla specifica tecnica di interoperabilità per il sottosistema «Esercizio e gestione del traffico» del sistema ferroviario nell’Unione europea e che abroga la decisione 2012/757/UE (GU L 139 I del 27.5.2019, pag. 5)*;* in Svizzera si applicano le seguenti norme nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+
+- – CH-TSI OPE-006 (versione 1.0, luglio 2020): Processi legati all’esercizio ferroviario: concetti di comunicazione;
+- – CH-TSI OPE-007 (versione 1.0, luglio 2020): Processi legati all’esercizio ferroviario, senza basi nella STI OPE;
+- – CH-TSI OPE-008 (versione 1.0, luglio 2020): Norme che interessano soltanto GI o soltanto ITF.
+
+Regolamento di esecuzione (UE) 2019/777 della Commissione, del 16 maggio 2019, relativo alle specifiche comuni per il registro dell’infrastruttura ferroviaria e che abroga la decisione di esecuzione 2014/880/UE (GU L 139 I del 27.5.2019, pag. 312).
+
+Raccomandazione (UE) 2019/780 della Commissione, del 16 maggio 2019, sulle modalità pratiche per il rilascio delle autorizzazioni di sicurezza ai gestori delle infrastrutture (GU L 139 I del 27.5.2019, pag. 390).
+
+[^annex1-lvlu1-sec4-1]: Ai fini della direttiva 2007/59/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2007, la licenza di macchinista e il certificato complementare rilasciati in conformità all’articolo 4, paragrafo 1, lettere a e b, di questa direttiva sono riconosciuti sulla base della reciprocità. Conformemente all’articolo 22, paragrafo 1, della direttiva 2007/59/CE, le autorità competenti della Confederazione Svizzera e degli Stati membri dell’Unione europea tengono un registro delle licenze e forniscono, su richiesta motivata, informazioni sullo status delle suddette licenze. Sempre su richiesta motivata, queste informazioni sono messe a disposizione anche dei datori di lavoro dei macchinisti (art. 2 e 3 della decisione n. 2/2016 del Comitato misto, del 10 giugno 2016; [RU 2016 2373](https://fedlex.data.admin.ch/eli/oc/2016/386)).
+
+### Sezione 5: Altri settori
+
+Direttiva 92/82/CEE del Consiglio, del 19 ottobre 1992, relativa al ravvicinamento delle aliquote di accisa sugli oli minerali (GU L 316 del 31.10.1992, pag. 19).
+
+Direttiva 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea (GU L 167 del 30.4.2004, pag. 39).
+
+Direttiva 2008/96/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008, sulla gestione della sicurezza delle infrastrutture stradali (GU L 319 del 29.11.2008, pag. 59).
+
+Allegato 2
+
+## Modalità di applicazione delle tariffe di cui all’articolo 8
+
+\1. Le tariffe svizzere per i veicoli muniti dell’autorizzazione di cui all’articolo 8, paragrafo 2 e il cui peso totale effettivo a pieno carico supera 28 tonnellate è di:
+
+- – 180 CHF per uno spostamento in transito attraverso il territorio della Svizzera;
+- – 70 CHF per uno spostamento bilaterale, andata e ritorno, da o verso il territorio della Svizzera.
+
+\2. La tariffa svizzera massima per i veicoli muniti dell’autorizzazione di cui all’articolo 8, paragrafo 3 e il cui peso totale effettivo a pieno carico supera 34 tonnellate ma non supera 40 tonnellate e che percorrono una distanza di 300 km attraverso la catena alpina, sarà di 252 CHF per un veicolo che non soddisfa le norme EURO, 211 CHF per un veicolo che soddisfa la norma EURO I e 178 CHF per un veicolo che rispetta almeno la norma EURO II. Le tariffe sono applicate secondo le modalità di cui all’articolo 40.
+
+\3. La tariffa svizzera massima per i veicoli muniti dell’autorizzazione di cui all’articolo 8, paragrafo 4 e il cui peso totale effettivo a pieno carico supera 34 tonnellate ma non supera 40 tonnellate e che percorrono una distanza di 300 km attraverso la catena alpina, sarà di 300 CHF per un veicolo che non soddisfa le norme EURO, 240 CHF per un veicolo che soddisfa la norma EURO I e 210 CHF per un veicolo che rispetta almeno la norma EURO II. La tariffa è applicata secondo le modalità di cui all’articolo 40.
+
+Allegato 3*[^t-4]*
+
+## Comunità europea
+
+[^t-4]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2015 del Comitato dei trasporti terrestri Comunità/Svizzera del 16 dic. 2015, in vigore per la Svizzera dal 1° gen. 2016 ([RU 2016 433](https://fedlex.data.admin.ch/eli/oc/2016/71)).
+
+(a)
+
+(Carta di cellulosa di colore azzurro Pantone 290 o di un colore il più simile possibile a quest’ultimo - formato DIN A4, 100 g/m<sup>2</sup> o superiore)
+
+(Prima pagina della licenza)
+
+(Testo redatto nella/nelle o in una delle lingue ufficiali dello Stato membro che rilascia la licenza)
+
+<table>
+<tr><td>Sigla distintiva dello Stato membro che rilascia la licenza[^annex3-lvlu1-1]</td><td>Denominazione dell’autorità o dell’organismo competente</td></tr>
+</table>
+
+**Licenza n. … o copia certificata conforme n. …**
+
+per il trasporto internazionale di merci su strada per conto terzi
+
+La presente licenza autorizza[^annex3-lvlu1-2]
+
+a effettuare, su tutte le relazioni di traffico, per i tragitti effettuati sul territorio della Comunità, trasporti internazionali di merci su strada per conto terzi secondo la definizione del regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale del trasporto di merci su strada, conformemente alle disposizioni generali della presente licenza.
+
+<table>
+<tr><td colspan="2">Osservazioni particolari: ............................................................................................................ ……………………………………........................................................................................... ……………………………………...........................................................................................</td></tr>
+<tr><td>La presente licenza è valida dal .......................................................................</td><td>al ……………………………………….......</td></tr>
+<tr><td>Rilasciata a: …………........................................................</td><td>il ………...……………....................................</td></tr>
+<tr><td colspan="2">………………………………………………………………………..[^annex3-lvlu1-3]</td></tr>
+</table>
+
+(b)
+
+(Seconda pagina della licenza)
+
+(Testo redatto nella, nelle o in una delle lingue ufficiali dello Stato membro che rilascia la licenza)
+
+**Disposizioni generali**
+
+La presente licenza è rilasciata a norma del regolamento (CE) n. 1072/2009.
+
+Essa permette al titolare di effettuare, su tutte le relazioni di traffico, per i tragitti effettuati sul territorio della Comunità e, se del caso, alle condizioni che essa stabilisce, trasporti internazionali di merci su strada per conto terzi:
+
+- – il cui punto di partenza ed il cui punto di arrivo si trovano in due Stati membri diversi, con o senza transito attraverso uno o più Stati membri o paesi terzi;
+- – in partenza da uno Stato membro e a destinazione di un paese terzo o viceversa, con o senza transito attraverso uno o più Stati membri o paesi terzi;
+- – tra paesi terzi con transito sul territorio di uno o più Stati membri,
+
+nonché gli spostamenti a vuoto in relazione con tali trasporti.
+
+Nel caso di un trasporto in partenza da uno Stato membro e a destinazione di un paese terzo e viceversa, la presente autorizzazione è valida sul territorio della Comunità. Essa è valida nello Stato membro di carico e scarico solo una volta concluso l’accordo necessario tra la Comunità e il paese terzo in questione ai sensi del regolamento (CE) n. 1072/2009.
+
+La presente licenza è personale e non è cedibile a terzi.
+
+L’autorità competente dello Stato membro che l’ha rilasciata può ritirarla qualora il trasportatore:
+
+- – abbia omesso di osservare tutte le condizioni cui è soggetto l’uso della licenza;
+- – abbia fornito informazioni inesatte circa i dati richiesti per il rilascio o il rinnovo della licenza.
+
+L’originale della licenza deve essere conservato dall’impresa di trasporto.
+
+Una copia certificata conforme della licenza deve trovarsi a bordo del veicolo[^annex3-lvlu1-4]. Nel caso di un veicolo combinato, essa deve accompagnare il veicolo a motore e si riferisce al veicolo combinato anche nel caso in cui il rimorchio o il semirimorchio non siano immatricolati o ammessi alla circolazione a nome del titolare della licenza stessa o siano immatricolati o ammessi alla circolazione in un altro Stato.
+
+La licenza deve essere esibita ogniqualvolta gli agenti preposti al controllo ne facciano richiesta.
+
+Il titolare è tenuto a rispettare sul territorio di ogni Stato membro le disposizioni legislative, regolamentari e amministrative in vigore in tale Stato, in particolare quelle in materia di trasporto e di circolazione.
+
+[^annex3-lvlu1-1]: Sigla distintiva dello Stato: (A) Austria, (B) Belgio, (BG) Bulgaria, (CY) Cipro, (CZ) Repubblica Ceca, (D) Germania, (DK) Danimarca, (E) Spagna, (EST) Estonia, (GR) Grecia, (F) Francia, (FIN) Finlandia, (HR) Croazia, (I) Italia, (IRL) Irlanda, (H) Ungheria, (L) Lussemburgo, (LT) Lituania, (LV) Lettonia, (MT) Malta, (NL) Paesi Bassi, (P) Portogallo, (PL) Polonia, (RO) Romania, (S) Svezia, (SLO) Slovenia, (SK) Slovacchia, (UK) Regno Unito.
+[^annex3-lvlu1-2]: Nome o ragione sociale e indirizzo completo del trasportatore.
+[^annex3-lvlu1-3]: Firma e timbro dell’autorità o organismo competente che rilascia la licenza.
+[^annex3-lvlu1-4]: Per «veicolo» s’intende un veicolo a motore immatricolato in uno Stato membro o un veicolo combinato di cui almeno il veicolo a motore sia immatricolato in uno Stato membro, adibiti esclusivamente al trasporto merci.
+
+Allegato 4*[^t-5]*
+
+## Trasporti e spostamenti a vuoto in relazione con tali trasporti esonerati da ogni regime di licenza o autorizzazione di trasporto
+
+[^t-5]: Nuovo testo giusta l’art. 1 n. 3 della Dec. n. 1/2015 del Comitato dei trasporti terrestri Comunità/Svizzera del 16 dic. 2015, in vigore per la Svizzera dal 1° gen. 2016 ([RU 2016 433](https://fedlex.data.admin.ch/eli/oc/2016/71)).
+
+\1. I trasporti postali effettuati nell’ambito di un regime di servizio universale.
+
+\2. I trasporti di veicoli danneggiati o da riparare.
+
+\3. I trasporti di merci con autoveicoli la cui massa a carico autorizzata, compresa quella dei rimorchi, non superi 3,5 tonnellate.
+
+\4. I trasporti di merci con autoveicoli sempreché sussistano le condizioni seguenti:
+
+- a) le merci trasportate appartengono all’impresa o sono state da essa vendute, acquistate, date o prese in affitto, prodotte, estratte, trasformate o riparate;
+- b) il trasporto serve a far affluire le merci all’impresa, a spedirle dall’impresa stessa, oppure a spostarle all’interno dell’impresa o, per esigenze aziendali, all’esterno dell’impresa stessa;
+- c) gli autoveicoli adibiti a tale trasporto sono guidati da personale impiegato dall’impresa o messo a disposizione da quest’ultima conformemente a un obbligo contrattuale;
+- d) i veicoli che trasportano le merci appartengono all’impresa o sono stati da questa acquistati a credito o noleggiati, a condizione che in quest’ultimo caso essi soddisfino le condizioni previste dalla direttiva 2006/1/CE[^annex4-lvlu1-1];
+- Questa disposizione non si applica in caso di uso di un veicolo di sostituzione durante un guasto di breve durata del veicolo usato normalmente;
+- e) il trasporto deve costituire soltanto un’attività accessoria nell’ambito di tutte le attività dell’impresa.
+
+\5. I trasporti di medicinali, apparecchi e attrezzature mediche, nonché di altri articoli necessari in caso di soccorsi urgenti, soprattutto in caso di calamità naturali.
+
+[^annex4-lvlu1-1]: Direttiva 2006/1/CE del Parlamento europeo e del Consiglio, del 18 gennaio 2006, relativa all’utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada (versione codificata) (GU L 33 del 4.2.2006, pag. 82).
+
+Allegato 5
+
+## Elenco delle disposizioni contenute negli accordi bilaterali stradali firmati dalla Svizzera con gli Stati membri della Comunità e relativi al trasporto di merci nel traffico triangolare
+
+<table>
+<tr><th>Paese:</th><th colspan="2">Accordo firmato il:</th><th colspan="2">Entrato in vigore il:</th><th>Condizioni:</th></tr>
+<tr><td>Germania</td><td colspan="2">17.12.1953[^annex5-lvlu1-1]</td><td colspan="2">1.2.1954</td><td>*Articolo 7* Secondo il diritto nazionale: traffico triangolare propriamente detto autorizzato; traffico triangolare impropriamente detto vietato.</td></tr>
+<tr><td>Austria</td><td colspan="2">22.10.1958[^annex5-lvlu1-2]</td><td colspan="2">4.4.1959</td><td>*Articolo 8* Gli imprenditori che hanno il diritto di effettuare trasporti di merci sono autorizzati a trasportare, su veicoli immatricolati in uno degli Stati contraenti: a. merci a destinazione o in provenienza da uno degli Stati Traffico triangolare propriamente detto autorizzato. Traffico triangolare impropriamente detto vietato.</td></tr>
+<tr><td>Belgio</td><td colspan="2">25.2.1975[^annex5-lvlu1-3]</td><td colspan="2">24.7.1975</td><td>*Articolo 4, paragrafo 1, lettera b* Traffico triangolare propriamente detto autorizzato. Traffico triangolare impropriamente detto vietato.</td></tr>
+<tr><td>Danimarca</td><td colspan="2">27.8.1981[^annex5-lvlu1-4]</td><td colspan="2">25.3.1982</td><td>*Articolo 4, paragrafo 2* I trasporti in provenienza da un paese terzo a destinazione dell’altra parte contraente, o in partenza dall’altra parte contraente e a destinazione di un paese terzo sono soggetti ad autorizzazione rilasciata caso per caso dall’altra parte contraente.</td></tr>
+<tr><td>Spagna</td><td colspan="2">23.1.1963[^annex5-lvlu1-5]</td><td colspan="2">21.8.1963</td><td>*Protocollo del 29 ottobre 1971:* Traffico triangolare propriamente detto autorizzato. Traffico triangolare impropriamente detto vietato.</td></tr>
+<tr><td>Finlandia</td><td colspan="2">16.1.1980[^annex5-lvlu1-6]</td><td colspan="2">28.5.1981</td><td>*Articolo 6, paragrafo 2* *+ verbale* della riunione della Commissione mista elvetico-finlandese del 23 e 24 maggio 1989 punto 2.2.: traffico triangolare propriamente detto e impropriamente detto consentito previa autorizzazione.</td></tr>
+<tr><td>Francia</td><td colspan="2">20.11.1951[^annex5-lvlu1-7]</td><td colspan="2">1.4.1952</td><td>Secondo il diritto nazionale. *Trasportatori svizzeri*: traffico triangolare propriamente e impropriamente detto vietato in Francia. *Trasportatori francesi*: traffico triangolare propriamente e impropriamente detto autorizzato in Svizzera.</td></tr>
+<tr><td>Grecia</td><td colspan="2">8.8.1970[^annex5-lvlu1-8]</td><td colspan="2">6.9.1971</td><td>*Articolo 3 + verbale* della riunione della Commissione mista greco-svizzera, svoltasi dall’11 al 13 dicembre 1972 = Traffico triangolare propriamente e impropriamente detto consentito (con autorizzazioni speciali contingentate).</td></tr>
+<tr><td>Italia</td><td colspan="2">––</td><td colspan="2">––</td><td>Verbale della riunione della Commissione mista italo-svizzera del 14 giugno 1993. *Trasportatori svizzeri*: autorizzazioni contingentate per il traffico triangolare propriamente detto. Il traffico triangolare impropriamente detto è vietato. *Trasportatori italiani*: traffico triangolare propriamente detto consentito, senza necessità di autorizzazione. Autorizzazioni contingentate per il traffico triangolare impropriamente detto.</td></tr>
+<tr><td>Irlanda</td><td colspan="2">––</td><td colspan="2">––</td><td>Secondo il diritto nazionale. *Trasportatori svizzeri*: traffico triangolare propriamente e impropriamente detto vietato, salvo autorizzazione rilasciata dalle autorità irlandesi. *Trasportatori irlandesi*: traffico triangolare propriamente e impropriamente detto consentito nel traffico con la Svizzera.</td></tr>
+<tr><td>Lussemburgo</td><td colspan="2">17.5.1972[^annex5-lvlu1-9]</td><td colspan="2">1.6.1972</td><td>L’Accordo si applica esclusivamente al trasporto di viaggiatori. Non sono stati presi accordi sul trasporto di merci. Traffico triangolare consentito secondo il diritto nazionale. (Applicazione del principio della reciprocità). Traffico triangolare, propriamente ed impropriamente detto, consentito.</td></tr>
+<tr><td>Paesi Bassi</td><td colspan="2">20.5.1952[^annex5-lvlu1-10]</td><td colspan="2">15.6.1952</td><td>L’Accordo si applica esclusivamente al trasporto di viaggiatori. Non sono stati presi accordi sul trasporto di merci. Traffico triangolare consentito secondo il diritto nazionale. (Applicazione del principio della reciprocità). Traffico triangolare, propriamente ed impropriamente detto, consentito.</td></tr>
+<tr><td>Portogallo</td><td colspan="2">28.6.1973[^annex5-lvlu1-11]</td><td colspan="2">1.1.1974</td><td>Traffico triangolare propriamente ed impropriamente detto liberalizzato in virtù della decisione presa nella riunione della Commissione mista elvetico-portoghese del 6 giugno 1996.</td></tr>
+<tr><td>Regno Unito</td><td colspan="2">20.12.1974[^annex5-lvlu1-12]</td><td colspan="2">21.11.1975</td><td>*Articolo 3, lettera b* Traffico triangolare propriamente detto autorizzato. Traffico triangolare impropriamente detto vietato.</td></tr>
+<tr><td>Svezia</td><td colspan="2">12.12.1973[^annex5-lvlu1-13]</td><td colspan="2">22.4.1974</td><td>*Articolo 4, paragrafi 1 e 2* Traffico triangolare consentito con autorizzazioni speciali contingentate.</td></tr>
+<tr><td colspan="6">Traffico triangolare propriamente detto = quando il veicolo transita, secondo l’itinerario normale, nel paese in cui è immatricolato. Per esempio, un veicolo svizzero che effettua un trasporto dalla Germania all’Italia passando per la Svizzera. [tab] Traffico triangolare impropriamente detto = quando il veicolo non transita nel paese in cui è immatricolato. Per esempio un veicolo svizzero che effettua un trasporto dalla Germania all’Italia passando per l’Austria.</td></tr>
+</table>
+
+[^annex5-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
+[^annex5-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
+[^annex5-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
+[^annex5-lvlu1-4]: [RS 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
+[^annex5-lvlu1-5]: [RS 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
+[^annex5-lvlu1-6]: [RS 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
+[^annex5-lvlu1-7]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
+[^annex5-lvlu1-8]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
+[^annex5-lvlu1-9]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
+[^annex5-lvlu1-10]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
+[^annex5-lvlu1-11]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
+[^annex5-lvlu1-12]: [RS 0.741.619.367](https://fedlex.data.admin.ch/eli/cc/2020/1064)
+[^annex5-lvlu1-13]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+
+Allegato 6
+
+## Esenzioni dal limite di peso e dal divieto di circolare la notte e la domenica
+
+### I. Esenzione dal limite di peso per il periodo che scade il 31 dicembre 2004
+
+Per viaggi che hanno origine all’estero a destinazione della zona svizzera vicina alla frontiera[^annex6-lvlu1-lvlI-1] (e viceversa), sono autorizzate eccezioni, senza versamento di corrispettivi in denaro, per merci di qualunque tipo fino ad un peso totale di 40 t e, per il trasporto di contenitori ISO di 40 piedi in traffico combinato, fino a 44 t. Alcuni uffici doganali applicano pesi inferiori in funzione delle caratteristiche della rete stradale.
+
+[^annex6-lvlu1-lvlI-1]: La zona vicina alla frontiera è definita nell’all. 4 del verbale della 5<sup>a</sup> riunione del Comitato misto istituito nel quadro dell’Acc. del 1992, svoltasi a Bruxelles il 2 apr. 1998. In linea di massima, si tratta di una zona di un raggio di 10 km misurato a partire dall’ufficio doganale.
+
+### II. Altre esenzioni dal limite di peso
+
+Per viaggi che hanno origine all’estero e destinati ad una località situata oltre la zona svizzera vicina alla frontiera[^annex6-lvlu1-lvlII-1] (e viceversa) e per il transito attraverso la Svizzera può essere autorizzato un peso totale superiore al peso massimo autorizzato in Svizzera nel caso di trasporti non contemplati dall’articolo 8.
+
+- a) per il trasporto di merci indivisibili quando, nonostante l’uso di un veicolo appropriato, le prescrizioni non possono essere rispettate;
+- b) per il trasferimento o l’uso di veicoli speciali, in particolare veicoli da lavoro che, tenuto conto dell’uso cui sono destinati, non possono rispettare le prescrizioni in materia di pesi;
+- c) per i trasporti di veicoli danneggiati o da riparare, in caso di urgenza;
+- d) per i trasporti di prodotti destinati al rifornimento degli aerei (*catering*);
+- e) per i percorsi stradali iniziali e finali di un trasporto combinato, di norma entro un raggio di 30 km dal terminale.
+
+[^annex6-lvlu1-lvlII-1]: La zona vicina alla frontiera è definita nell’all. 4 del verbale della 5<sup>a</sup> riunione del Comitato misto istituito nel quadro dell’Acc. del 1992, svoltasi a Bruxelles il 2 apr. 1998. In linea di massima, si tratta di una zona di un raggio di 10 km misurato a partire dall’ufficio doganale.
+
+### III. Esenzione dal divieto di circolare la notte e la domenica
+
+Sono previste le eccezioni seguenti al divieto di circolare la notte e la domenica:
+
+- a)
+
+  *senza autorizzazione speciale*:
+
+  - – i viaggi effettuati per prestare i primi soccorsi in caso di catastrofi;
+  - – i viaggi effettuati per prestare i primi soccorsi in caso di incidenti in servizio, in particolare nelle imprese di trasporti pubblici e nei trasporti aerei;
+
+- b) *con autorizzazione speciale*:
+-
+
+  Per il trasporto di merci che, per la loro stessa natura, giustificano viaggi di notte e, per motivi fondati, di domenica, vale a dire:
+
+  - – prodotti agricoli deperibili (ad esempio bacche, ortofrutticoli, piante, compresi i fiori recisi, o succhi di frutta appena spremuti), durante tutto l’anno civile;
+  - – suini e pollame destinati alla macellazione;
+  - – latte fresco e prodotti lattiero-caseari deperibili;
+  - – materiale da circo, strumenti musicali di orchestre, accessori di teatro, ecc.;
+  - – quotidiani con articoli redazionali e invii postali spediti nel quadro del mandato legale di prestazione di servizi.
+
+Per agevolare le procedure di autorizzazione, possono essere rilasciate autorizzazioni valide per un periodo massimo di dodici mesi per un numero indeterminato di viaggi, a condizione che questi siano della stessa natura.
+
+Allegato 7*[^t-6]*
+
+## Trasporti internazionali di viaggiatori in autobus
+
+[^t-6]: Nuovo testo giusta l’art. 1 n. 1 della Dec. n. 1/2015 del Comitato dei trasporti terrestri Comunità/Svizzera del 16 dic. 2015, in vigore per la Svizzera dal 1° gen. 2016 ([RU 2016 433](https://fedlex.data.admin.ch/eli/oc/2016/71)).
+
+#### Art. 1
+
+**Definizioni**
+
+Ai fini del presente Accordo si applicano le definizioni seguenti:
+
+- 1\. *Servizi regolari*
+- 1\.1 Per servizi regolari si intendono i servizi che effettuano il trasporto di viaggiatori con una frequenza e su un itinerario determinati e dove i viaggiatori possono salire a bordo e scendere a fermate prestabilite. I servizi regolari sono accessibili a tutti, fatto salvo, se del caso, l’obbligo di prenotare.
+- Un eventuale adeguamento delle condizioni di esercizio del servizio non ne modifica il carattere regolare.
+- 1\.2 Chiunque sia l’organizzatore dei trasporti, sono considerati altresì servizi regolari quelli che effettuano il trasporto di determinate categorie di viaggiatori, a esclusione di altri viaggiatori, purché tali servizi siano effettuati alle condizioni indicate al punto 1.1. Tali servizi sono denominati «servizi regolari specializzati».
+-
+
+  I servizi regolari specializzati comprendono in particolare:
+
+  - a) il trasporto di lavoratori dal domicilio al luogo di lavoro;
+  - b) il trasporto di scolari e studenti dal domicilio all’istituto scolastico.
+
+- L’adeguamento dell’organizzazione del trasporto alle diverse necessità degli utenti non modifica il carattere regolare dei servizi specializzati.
+- 1\.3 L’organizzazione di servizi paralleli o temporanei, che servono la medesima clientela dei servizi regolari esistenti, la mancata effettuazione di talune fermate o l’effettuazione di fermate supplementari da parte di servizi regolari esistenti sono soggette alle medesime norme che disciplinano questi ultimi.
+- 2\. *Servizi occasionali*
+- 2\.1 Per servizi occasionali si intendono i servizi che non rispondono alla definizione di servizi regolari, compresi i servizi regolari specializzati, e che sono segnatamente caratterizzati dal fatto che trasportano gruppi costituiti su iniziativa di un committente o del trasportatore medesimo.
+- L’organizzazione di servizi paralleli o temporanei, paragonabili ai servizi regolari esistenti e che servono la medesima clientela di questi ultimi, è soggetta ad autorizzazione secondo la procedura di cui alla sezione I.
+- 2\.2 I servizi di cui al presente punto 2 non perdono il carattere di servizio occasionale per il fatto di essere effettuati con una certa frequenza.
+- 2\.3 I servizi occasionali possono essere offerti da un gruppo di trasportatori che agiscono per conto del medesimo committente.
+- I nomi dei trasportatori, nonché, se del caso, i punti in cui si effettuano le coincidenze durante il percorso, sono comunicati alle autorità competenti degli Stati membri dell’Unione europea interessati e della Svizzera, secondo modalità da definirsi ad opera del Comitato misto.
+- 3\. *Trasporto per conto proprio*
+-
+
+  Per trasporti per conto proprio si intendono i trasporti effettuati da una persona fisica o giuridica, senza scopo di lucro e a fini non commerciali, quando:
+
+  - – l’attività di trasporto costituisce per tale persona fisica o giuridica soltanto un’attività accessoria;
+  - – i veicoli usati sono di proprietà di tale persona fisica o giuridica ovvero sono stati da essa acquistati a rate o hanno formato oggetto di un contratto di leasing a lungo termine e sono guidati da un dipendente di tale persona fisica o giuridica o da tale persona medesima, o ancora da personale impiegato dall’impresa o messo a disposizione da quest’ultima conformemente a un obbligo contrattuale.
+
+### Sezione I: Servizi regolari soggetti ad autorizzazione
+
+#### Art. 2
+
+**Natura dell’autorizzazione**
+
+<sup>1.</sup> L’autorizzazione è redatta a nome del trasportatore; non può essere ceduta da questi a terzi. Tuttavia, il trasportatore che ha ricevuto l’autorizzazione può, con il consenso delle autorità di cui all’articolo 3, paragrafo 1 del presente allegato, far svolgere il servizio da un subappaltatore. In tal caso il nome di quest’ultimo e la sua funzione di subappaltatore sono indicati nell’autorizzazione. Il subappaltatore deve soddisfare le condizioni indicate all’articolo 17 dell’Accordo.
+
+Nel caso di un consorzio di imprese per l’esercizio di un servizio regolare, l’autorizzazione è redatta a nome di tutte le imprese. Essa è rilasciata all’impresa che gestisce il consorzio, con copia alle altre imprese. L’autorizzazione indica i nomi di tutti gli esercenti.
+
+<sup>2.</sup> La validità massima dell’autorizzazione è di cinque anni.
+
+<sup>3.</sup>
+
+L’autorizzazione definisce quanto segue:
+
+- a) il tipo di servizio;
+- b) l’itinerario su cui si effettua il servizio, in particolare il punto di partenza e il punto di arrivo;
+- c) il periodo di validità dell’autorizzazione;
+- d) le fermate e gli orari.
+
+<sup>4.</sup> L’autorizzazione deve essere conforme al modello fissato dal regolamento (UE) n. 361/2014[^annex7-lvlu1-secI-2-1].
+
+<sup>5.</sup> L’autorizzazione abilita il suo titolare o i suoi titolari ad effettuare servizi regolari sul territorio delle Parti contraenti.
+
+<sup>6.</sup> L’impresa che gestisce un servizio regolare può utilizzare veicoli di rinforzo per far fronte a situazioni temporanee e eccezionali.
+
+In tal caso, il trasportatore deve provvedere affinché i documenti seguenti si trovino a bordo del veicolo:
+
+- – una copia dell’autorizzazione del servizio regolare;
+- – una copia del contratto stipulato tra l’impresa che gestisce il servizio regolare e l’impresa che mette a disposizione i veicoli di rinforzo o un documento equivalente;
+- – una copia certificata conforme della licenza comunitaria per i trasportatori dell’Unione europea o di un’analoga licenza svizzera per i trasportatori svizzeri, rilasciata all’impresa che fornisce i veicoli supplementari per il servizio.
+
+[^annex7-lvlu1-secI-2-1]: Regolamento (UE) n. 361/2014 della Commissione, del 9 aprile 2014, recante modalità di esecuzione del regolamento (CE) n. 1073/2009 con riguardo ai documenti per il trasporto internazionale di passeggeri mediante autobus e che abroga il regolamento (CE) n. 2121/98 della Commissione (GU L 107 del 10.4.2014, pag. 39).
+
+#### Art. 3
+
+**Presentazione delle domande di autorizzazione**
+
+<sup>1.</sup> La presentazione delle domande di autorizzazione da parte degli operatori dell’Unione europea è effettuata conformemente alle disposizioni dell’articolo 7 del regolamento (CE) n. 1073/2009[^annex7-lvlu1-secI-3-1] e la presentazione delle domande di autorizzazione da parte degli operatori svizzeri conformemente alle disposizioni del capitolo 3 dell’ordinanza del 4 novembre 2009[^annex7-lvlu1-secI-3-2] sul trasporto di viaggiatori (OTV). Per i servizi esonerati da autorizzazione in Svizzera ma soggetti ad autorizzazione nell’Unione europea, la presentazione delle domande di autorizzazione da parte degli operatori svizzeri sarà effettuata presso le autorità competenti svizzere se il punto di partenza di questi servizi è situato in Svizzera.
+
+<sup>2.</sup> Le domande devono essere conformi al modello fissato dal regolamento (UE) n. 361/2014.
+
+<sup>3.</sup> A sostegno della domanda di autorizzazione, il richiedente fornisce tutte le informazioni complementari che ritiene utili o che gli sono chieste dalle autorità competenti per l’autorizzazione, in particolare uno schema di guida che consenta di controllare l’osservanza della normativa relativa ai tempi di guida e ai periodi di riposo, nonché una copia della licenza comunitaria per il trasporto internazionale di viaggiatori su strada per conto terzi per i trasportatori dell’Unione europea o di un’analoga licenza svizzera per i trasportatori svizzeri, rilasciata all’impresa che gestisce il servizio regolare.
+
+[^annex7-lvlu1-secI-3-1]: Regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale dei servizi di trasporto effettuati con autobus e che modifica il regolamento (CE) n. 561/2006 (GU L 300 del 14.11.2009, pag. 88), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+[^annex7-lvlu1-secI-3-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+
+#### Art. 4
+
+**Procedura di autorizzazione**
+
+<sup>1.</sup> L’autorizzazione è rilasciata con l’accordo delle autorità competenti delle Parti contraenti nel cui territorio vengono presi a bordo o fatti scendere i viaggiatori. L’autorità di rilascio inoltra a queste ultime – nonché alle autorità competenti degli Stati membri dell’Unione europea il cui territorio è attraversato senza che siano presi a bordo o deposti viaggiatori – una copia della domanda e di ogni altra documentazione utile, insieme con la propria valutazione.
+
+<sup>2.</sup> Le autorità competenti della Svizzera e degli Stati membri dell’Unione europea cui è stato chiesto l’accordo notificano entro due mesi la loro decisione alle autorità di rilascio. Tale termine decorre dalla data di ricevimento della richiesta di accordo che figura nell’avviso di ricevimento. La mancata risposta entro tale termine da parte delle autorità consultate vale come risposta positiva e l’autorità di rilascio concede l’autorizzazione. La decisione notificata dalle autorità competenti degli Stati membri cui è stato chiesto l’accordo, se negativa, è opportunamente motivata.
+
+<sup>3.</sup> Fatti salvi i paragrafi 7 e 8, l’autorità di rilascio prende una decisione entro quattro mesi dalla data di presentazione della domanda da parte del trasportatore.
+
+<sup>4.</sup>
+
+L’autorizzazione è rilasciata a meno che:
+
+- a) il richiedente non sia in grado di effettuare il servizio oggetto della domanda con il materiale di cui dispone direttamente;
+- b) il richiedente non abbia rispettato in passato le normative nazionali o internazionali in materia di trasporti su strada, in particolare le condizioni e i requisiti relativi alle autorizzazioni per servizi di trasporto internazionale di viaggiatori, o abbia commesso gravi infrazioni delle regolamentazioni in materia di trasporti stradali, in particolare per quanto riguarda le norme applicabili ai veicoli e le ore di guida e di riposo dei conducenti;
+- c) in caso di domanda di rinnovo dell’autorizzazione, le condizioni di quest’ultima non siano state rispettate;
+- d) l’autorità competente di una Parte contraente decida, in base ad analisi dettagliata, che il servizio interessato comprometterebbe gravemente, sulle tratte dirette interessate, l’esistenza di un servizio comparabile coperto da uno o più contratti di servizio pubblico conformi al diritto in vigore della Parte contraente. In questo caso, l’autorità competente definisce criteri non discriminatori che permettano di determinare se il servizio oggetto della domanda comprometterebbe gravemente l’esistenza del servizio comparabile summenzionato e li comunica al Comitato misto su richiesta di quest’ultimo;
+- e) l’autorità competente di una Parte contraente decida, in base ad analisi dettagliata, che lo scopo principale del servizio non è trasportare passeggeri tra fermate ubicate nei territori delle Parti contraenti.
+- Qualora un servizio internazionale di autobus esistente comprometta gravemente, sulle tratte dirette interessate, l’esistenza di un servizio comparabile coperto da uno o più contratti di servizio pubblico conformi al diritto della Parte contraente in seguito a circostanze eccezionali impossibili da prevedere al momento del rilascio dell’autorizzazione, l’autorità competente di una Parte contraente può, con l’accordo del Comitato misto, sospendere o ritirare l’autorizzazione ad esercitare un servizio internazionale di autobus dopo un preavviso di sei mesi al trasportatore.
+- Il fatto che un trasportatore offra prezzi inferiori a quelli offerti da altri trasportatori stradali, oppure che il collegamento in questione sia già effettuato da altri trasportatori stradali, non può costituire di per sé una giustificazione per respingere la domanda.
+
+<sup>5.</sup> L’autorità di rilascio può respingere le domande esclusivamente per motivi compatibili con il presente Accordo.
+
+<sup>6.</sup> Se la procedura per la formazione dell’accordo di cui al paragrafo 1 non ha esito positivo, si può adire il Comitato misto.
+
+<sup>7.</sup> Il Comitato misto adotta quanto prima una decisione, che entra in vigore entro trenta giorni dalla sua notifica alla Svizzera e agli Stati membri dell’Unione europea interessati.
+
+<sup>8.</sup> Dopo aver espletato la procedura prevista nel presente articolo, l’autorità di rilascio ne informa tutte le autorità di cui al paragrafo 1, inviando loro, se del caso, una copia dell’autorizzazione.
+
+#### Art. 5
+
+**Rilascio e rinnovo dell’autorizzazione**
+
+<sup>1.</sup> Al termine della procedura di cui all’articolo 4 del presente allegato, l’autorità di rilascio concede l’autorizzazione o ne respinge formalmente la domanda.
+
+<sup>2.</sup> Il rigetto di una domanda deve essere motivato. Le parti contraenti garantiscono ai trasportatori la possibilità di far valere i propri interessi in caso di rigetto della loro domanda.
+
+<sup>3.</sup> L’articolo 4 del presente allegato si applica, mutatis mutandis, alle domande di rinnovo di un’autorizzazione o di modifica delle condizioni poste all’esecuzione dei servizi soggetti ad autorizzazione.
+
+In caso di una modifica scarsamente rilevante delle condizioni di esercizio, segnatamente un adeguamento delle frequenze, delle tariffe e degli orari, è sufficiente che l’autorità di rilascio comunichi l’informazione relativa alla modifica alle autorità competenti dell’altra Parte contraente.
+
+#### Art. 6
+
+**Scadenza dell’autorizzazione**
+
+La procedura da seguire in materia di scadenza di un’autorizzazione è conforme alle disposizioni dell’articolo 10 del regolamento (CE) n. 1073/2009 e all’articolo 46 OTV.
+
+#### Art. 7
+
+**Obblighi dei trasportatori**
+
+<sup>1.</sup> Salvo in caso di forza maggiore, l’impresa che gestisce un servizio regolare è tenuta ad adottare, sino alla scadenza dell’autorizzazione, tutte le misure necessarie per garantire un servizio di trasporto che risponda alle norme di continuità, regolarità e capacità, nonché alle altre condizioni fissate dall’autorità competente in conformità dell’articolo 2, paragrafo 3 del presente allegato.
+
+<sup>2.</sup> Il trasportatore è tenuto a pubblicare l’itinerario su cui si effettua il servizio, le fermate, gli orari, le tariffe e le altre condizioni di esercizio, in modo da garantire a tutti gli utenti facile accesso a tali informazioni.
+
+<sup>3.</sup> La Svizzera e gli Stati membri dell’Unione europea interessati hanno la facoltà di apportare, di comune accordo e d’intesa con il titolare dell’autorizzazione, modifiche alle condizioni di esercizio di un servizio regolare.
+
+### Sezione II: Servizi occasionali e altri servizi non soggetti ad autorizzazione
+
+#### Art. 8
+
+**Documento di controllo**
+
+<sup>1.</sup> Per i servizi di cui all’articolo 18, paragrafo 1 dell’Accordo è necessario un documento di controllo (foglio di viaggio).
+
+<sup>2.</sup> I trasportatori che effettuano servizi occasionali devono compilare il foglio di viaggio prima di ciascun viaggio.
+
+<sup>3.</sup> I libretti di fogli di viaggio sono rilasciati dalle autorità competenti della Svizzera e dello Stato membro dell’Unione europea in cui è stabilito il trasportatore, o da organismi da esse designati.
+
+<sup>4.</sup> Il modello del documento di controllo e le modalità di uso sono determinati dal regolamento (UE) n. 361/2014.
+
+<sup>5.</sup> Nel caso dei servizi di cui all’articolo 18, paragrafo 2 dell’Accordo, il contratto, o una copia certificata conforme di esso, funge da documento di controllo.
+
+#### Art. 9
+
+**Attestazione**
+
+L’attestazione di cui all’articolo 18, paragrafo 6 dell’Accordo è rilasciata dall’autorità competente della Svizzera o dello Stato membro dell’Unione europea in cui è immatricolato il veicolo.
+
+Essa è conforme al modello fissato dal regolamento (UE) n. 361/2014.
+
+### Sezione III: Controlli e sanzioni
+
+#### Art. 10
+
+**Titoli di trasporto**
+
+<sup>1.</sup>
+
+I trasportatori che effettuano un servizio regolare, ad esclusione dei servizi regolari specializzati, forniscono un titolo di trasporto individuale o collettivo sul quale figurano:
+
+- – i punti di partenza e di arrivo nonché, se del caso, il ritorno;
+- – la durata di validità del titolo di trasporto;
+- – la tariffa del trasporto.
+
+<sup>2.</sup> Il titolo di trasporto di cui al paragrafo 1 deve essere esibito ogniqualvolta gli agenti preposti al controllo ne facciano richiesta.
+
+#### Art. 11
+
+**Controlli su strada e presso le imprese**
+
+<sup>1.</sup> Nel caso di un trasporto per conto terzi devono trovarsi a bordo del veicolo ed essere esibiti agli agenti preposti al controllo che ne facciano richiesta, la copia certificata conforme della licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri, nonché, a seconda della natura del servizio, l’autorizzazione (o una copia conforme di essa) o il foglio di viaggio.
+
+Nel caso di un trasporto per conto proprio, deve trovarsi a bordo del veicolo ed essere esibita agli agenti preposti al controllo che ne facciano richiesta, l’attestazione (o una copia conforme di essa).
+
+<sup>2.</sup> I trasportatori che effettuano trasporti internazionali di viaggiatori con autobus autorizzano i controlli intesi a garantire che i servizi siano effettuati correttamente, in particolare per quanto riguarda i tempi di guida e i periodi di riposo.
+
+#### Art. 12
+
+**Assistenza reciproca e sanzioni**
+
+<sup>1.</sup> Le autorità competenti delle Parti contraenti si prestano reciproca assistenza ai fini dell’applicazione e del controllo sull’applicazione stessa delle disposizioni previste dal presente allegato. Esse procedono a scambi d’informazioni tramite i punti di contatto nazionali istituiti conformemente all’articolo 18 del regolamento (CE) n. 1071/2009[^annex7-lvlu1-secIII-12-1].
+
+<sup>2.</sup>
+
+Le autorità competenti della Parte contraente sul territorio della quale è stabilito il trasportatore ritirano la licenza comunitaria per i trasportatori dell’Unione europea o l’analoga licenza svizzera per i trasportatori svizzeri se il titolare:
+
+- a) non soddisfa più alle condizioni di cui all’articolo 17, paragrafo 1 dell’Accordo; oppure
+- b) ha fornito informazioni inesatte sui dati necessari per ottenere il rilascio della licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri.
+
+<sup>3.</sup> L’autorità di rilascio ritira l’autorizzazione se il titolare non soddisfa più alle condizioni che ne hanno determinato il rilascio in base al presente Accordo e in particolare in seguito a richiesta in tal senso avanzata dalle autorità competenti della Parte contraente sul territorio della quale è stabilito il trasportatore. Esse ne informano immediatamente le autorità competenti dell’altra Parte contraente.
+
+<sup>4.</sup> In caso di infrazione grave della normative in materia di trasporti e sicurezza stradale, in particolare per quanto riguarda le norme applicabili ai veicoli, ai periodi di guida e di riposo dei conducenti e all’organizzazione senza autorizzazione dei servizi paralleli o temporanei di cui all’articolo 1, punto 2.1, le autorità competenti della Parte contraente sul cui territorio è stabilito il trasportatore che ha commesso l’infrazione possono procedere in particolare al ritiro della licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri, oppure al ritiro temporaneo e/o parziale delle copie conformi della licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri.
+
+Tali sanzioni sono stabilite in funzione della gravità dell’infrazione commessa dal titolare della licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri, e del numero totale delle copie conformi di cui egli dispone per il suo traffico internazionale.
+
+Le autorità competenti della Parte contraente di stabilimento comunicano alle autorità competenti della Parte contraente sul cui territorio le infrazioni sono state accertate, quanto prima e comunque entro sei settimane dalla decisione definitiva al riguardo, se è stata applicata una delle sanzioni summenzionate. Qualora non sia stata applicata una di queste sanzioni, le autorità competenti della Parte contraente di stabilimento ne indicano i motivi.
+
+<sup>5.</sup> Le autorità competenti della Parte contraente ospitante possono esigere che le autorità competenti della Parte contraente di stabilimento impongano sanzioni amministrative, conformemente al paragrafo 4.
+
+Quando le autorità competenti di una Parte contraente vengono a conoscenza di un’infrazione grave del presente allegato o della legislazione in materia di trasporti su strada imputabile a un trasportatore non residente, la Parte contraente nel cui territorio è stata accertata l’infrazione comunica alle autorità competenti della Parte contraente sul cui territorio è stabilito il trasportatore, quanto prima e comunque entro sei settimane dalla decisione definitiva al riguardo, le seguenti informazioni:
+
+- a) una descrizione dell’infrazione e la data e l’ora in cui è stata commessa;
+- b) la categoria, il tipo e la gravità dell’infrazione; e
+- c) le sanzioni irrogate e le sanzioni eseguite.
+
+<sup>6.</sup> Le Parti contraenti provvedono affinché i trasportatori abbiano il diritto di ricorrere contro qualsiasi sanzione amministrativa ad essi irrogata secondo il presente articolo.
+
+[^annex7-lvlu1-secIII-12-1]: Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l’attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio (GU L 300 del 14.11.2009, pag. 51), modificata da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+
+#### Art. 13
+
+**Iscrizione nei registri elettronici nazionali**
+
+Le Parti contraenti provvedono affinché le infrazioni gravi della legislazione in materia di trasporti su strada imputabili a trasportatori stabiliti nel loro territorio che hanno dato luogo a una sanzione da parte delle autorità competenti di uno Stato membro dell’Unione europea o della Svizzera, così come il ritiro temporaneo o permanente della licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri o della copia certificata conforme della licenza comunitaria o dell’analoga licenza svizzera siano iscritti nel registro elettronico nazionale delle imprese di trasporto su strada. Le iscrizioni nel registro che riguardano il ritiro temporaneo o permanente di una licenza comunitaria per i trasportatori dell’Unione europea o dell’analoga licenza svizzera per i trasportatori svizzeri sono conservate nella banca dati per almeno due anni a decorrere dalla scadenza del periodo di ritiro in caso di ritiro temporaneo, o dalla data di ritiro in caso di ritiro permanente.
+
+Allegato 8
+
+## Elenco delle disposizioni contenute negli accordi stradali bilaterali conclusi dalla Svizzera con i diversi Stati membri della Comunità e relative al rilascio di autorizzazioni al trasporto di viaggiatori nel traffico triangolare
+
+<table>
+<tr><th>Paese:</th><th>Accordo firmato il:</th><th>Entrato in vigore il:</th><th>Condizioni:</th></tr>
+<tr><td>Germania</td><td>17.12.1953[^annex8-lvlu1-1]</td><td>1.2.1954</td><td>Articoli 4 e 5 – secondo il diritto nazionale – rispetto della reciprocità</td></tr>
+<tr><td>Austria</td><td>22.10.1958[^annex8-lvlu1-2]</td><td>4.4.1959</td><td>Articolo 6 – secondo il diritto nazionale – rispetto della reciprocità</td></tr>
+<tr><td>Belgio</td><td>25.2.1975[^annex8-lvlu1-3]</td><td>24.7.1975</td><td>Articolo 3 – secondo il diritto nazionale</td></tr>
+<tr><td>Danimarca</td><td>27.8.1981[^annex8-lvlu1-4]</td><td>25.3.1982</td><td>Articoli 3 e 5 – secondo il diritto nazionale</td></tr>
+<tr><td>Spagna</td><td>23.1.1963[^annex8-lvlu1-5]</td><td>21.8.1963</td><td>Articoli 2 e 3 – autorizzazione esplicita dell’altra parte contraente – di comune accordo (reciprocità)</td></tr>
+<tr><td>Finlandia</td><td>16.1.1980[^annex8-lvlu1-6]</td><td>28.5.1981</td><td>Articolo 3 – secondo il diritto nazionale</td></tr>
+<tr><td>Francia</td><td>20.11.1951[^annex8-lvlu1-7]</td><td>1.4.1952</td><td>Capitolo II – di comune accordo – rispetto della reciprocità</td></tr>
+<tr><td>Grecia</td><td>8.8.1970[^annex8-lvlu1-8]</td><td>6.9.1971</td><td>Articolo 2 – di comune accordo (reciprocità)</td></tr>
+<tr><td>Italia</td><td>–</td><td>–</td><td>Secondo il diritto nazionale (non esistono accordi bilaterali)</td></tr>
+<tr><td>Irlanda</td><td>–</td><td>–</td><td>Secondo il diritto nazionale (non esistono accordi bilaterali)</td></tr>
+<tr><td>Lussemburgo</td><td>17.5.1972[^annex8-lvlu1-9]</td><td>1.6.1972</td><td>Articolo 3 – secondo il diritto nazionale</td></tr>
+<tr><td>Paesi Bassi</td><td>20.5.1952[^annex8-lvlu1-10]</td><td>15.6.1952</td><td>Paragrafo 2, punto 2 – secondo il diritto nazionale</td></tr>
+<tr><td>Portogallo</td><td>28.6.1973[^annex8-lvlu1-11]</td><td>1.1.1974</td><td>Protocollo dell’Accordo, punti 5 e 6 – intesa reciproca – reciprocità</td></tr>
+<tr><td>Regno Unito</td><td>20.12.1974[^annex8-lvlu1-12]</td><td>21.11.1975</td><td>Secondo il diritto nazionale (l’accordo concerne esclusivamente il trasporto di merci)</td></tr>
+<tr><td>Svezia</td><td>12.12.1973[^annex8-lvlu1-13]</td><td>22.4.1974</td><td>Articolo 3 – secondo il diritto nazionale</td></tr>
+</table>
+
+[^annex8-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
+[^annex8-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
+[^annex8-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
+[^annex8-lvlu1-4]: [RS 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
+[^annex8-lvlu1-5]: [RS 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
+[^annex8-lvlu1-6]: [RS 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
+[^annex8-lvlu1-7]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
+[^annex8-lvlu1-8]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
+[^annex8-lvlu1-9]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
+[^annex8-lvlu1-10]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
+[^annex8-lvlu1-11]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
+[^annex8-lvlu1-12]: [RS 0.741.619.367](https://fedlex.data.admin.ch/eli/cc/2020/1064)
+[^annex8-lvlu1-13]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+
+Allegato 9
+
+## Parametri di qualità dei servizi di trasporto ferroviario e combinato
+
+Qualora la Svizzera intenda ricorrere alle misure di salvaguardia di cui all’articolo 46 dell’Accordo, devono essere soddisfatte le seguenti condizioni:
+
+\1. Il prezzo medio del trasporto ferroviario o combinato attraverso la Svizzera non è superiore al costo per un veicolo di 40 tonnellate di peso massimo autorizzato su un percorso di 300 km attraverso la catena delle Alpi. Il prezzo medio per il trasporto combinato accompagnato («strada viaggiante»), in particolare, non è superiore ai costi di quello stradale (tariffe stradali e costi variabili).
+
+\2. La Svizzera ha preso provvedimenti atti a migliorare la competitività del trasporto combinato e del trasporto ferroviario di merci attraverso il suo territorio.
+
+\3. I parametri utilizzati per valutare la competitività del trasporto ferroviario di merci e del trasporto combinato comprendono almeno:
+
+- – l’adeguamento degli orari e della velocità alle esigenze degli utenti;
+- – il livello di responsabilità e di garanzia sul servizio;
+- – il rispetto degli impegni di qualità del servizio e il risarcimento agli utenti in caso di mancato rispetto di questi impegni da parte degli operatori svizzeri;
+- – le condizioni di prenotazione.
+
+Allegato 10
+
+## Modalità di applicazione delle tariffe previste all’articolo 40
+
+Fatte salve le disposizioni dell’articolo 40, paragrafi 3b e 5, le tariffe previste all’articolo 40 sono applicate secondo le modalità seguenti:
+
+- (a) per i trasporti su un itinerario in Svizzera la cui distanza è inferiore o superiore a 300 km, esse sono modificate in maniera proporzionale per tener conto del rapporto di distanza effettivamente percorsa in Svizzera;
+- (b) esse sono proporzionali alla categoria per peso del veicolo.
+
+## Atto finale
+
+*I plenipotenziari della Confederazione Svizzera,*
+
+e
+
+*della* *Comunità europea,*
+
+riuniti addì 21 giugno millenovecentonovantanove a Lussemburgo per la firma dell’accordo tra la Comunità europea e la Confederazione svizzera sul trasporto di merci e di passeggeri su strada e per ferrovia, hanno adottato i testi delle dichiarazioni comuni elencate in appresso e acclusi al presente Atto finale:
+
+Dichiarazione comune relativa all’articolo 38, paragrafo 6,
+
+Dichiarazione comune in merito a futuri negoziati supplementari,
+
+Hanno altresì preso atto delle dichiarazioni seguenti, accluse al presente Atto finale:
+
+Dichiarazione relativa alla partecipazione della Svizzera ai comitati,
+
+Dichiarazione della Svizzera relativa all’utilizzazione dei contingenti (40 T),
+
+Dichiarazione della CE relativa all’utilizzazione dei contingenti (40 T),
+
+Dichiarazione della Svizzera relativa all’articolo 40, paragrafo 4,
+
+Dichiarazione della Svizzera relativa alla semplificazione delle procedure doganali (art. 43, par. 1).
+
+Fatto a Lussemburgo, addì ventun giugno millenovecentonovantanove.
+
+<table>
+<tr><td>Per la Confederazione svizzera: Pascal Couchepin Joseph Deiss</td><td>Per l’Unione europea: Joschka Fischer Hans van den Broek</td></tr>
+</table>
+
+## Dichiarazione comune relativa all’articolo 38, paragrafo 6
+
+Le Parti contraenti dichiarano che le disposizioni dell’articolo 38, paragrafo 6 non pregiudicano l’applicazione, nel quadro del sistema federale svizzero, degli strumenti attinenti alla perequazione finanziaria federale.
+
+## Dichiarazione comune in merito a futuri negoziati supplementari
+
+La Comunità europea e la Confederazione Svizzera dichiarano che intendono avviare negoziati per la conclusione di accordi nei settori di comune interesse quali l’aggiornamento del protocollo n. 2[^annex10-lvlu4-1] dell’Accordo di libero scambio del 1972 e la partecipazione svizzera a determinati programmi comunitari per la formazione, la gioventù, i media, le statistiche e l’ambiente. I negoziati dovranno essere preparati rapidamente una volta conclusi i negoziati bilaterali attualmente in corso.
+
+[^annex10-lvlu4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+
+## Dichiarazione relativa alla partecipazione della Svizzera ai comitati
+
+Il Consiglio accetta che i rappresentanti della Svizzera partecipino in veste di osservatori, per i punti che li riguardano, alle riunioni dei seguenti comitati e gruppi di esperti:
+
+- – Comitati dei programmi per la ricerca, compreso il Comitato per la ricerca scientifica e tecnica (CREST);
+- – Commissione amministrativa per la sicurezza sociale dei lavoratori migranti;
+- – Gruppo di coordinamento sul reciproco riconoscimento dei diplomi di istruzione superiore;
+- – Comitati consultivi per le rotte aeree e per l’applicazione delle norme di concorrenza nel settore dei trasporti aerei.
+
+I rappresentanti della Svizzera non presenziano alle votazioni dei comitati.
+
+Per quanto riguarda gli altri comitati che si occupano dei settori contemplati dai presenti Accordi, per i quali la Svizzera ha ripreso l’«acquis comunitario» o lo applica per equivalenza, la Commissione consulterà gli esperti della Svizzera in conformità dell’articolo 100 dell’Accordo SEE[^annex10-lvlu5-1].
+
+[^annex10-lvlu5-1]: [FF 1992 IV 481](https://fedlex.data.admin.ch/eli/fga/1992/4___481)
+
+## Dichiarazione della Svizzera relativa all’utilizzazione dei contingenti (40 t)
+
+La Svizzera dichiara che, per i trasporti di importazione, di esportazione e di transito, sarà utilizzato al massimo il 50 per cento dei contingenti fissati all’articolo 8 dell’Accordo per i veicoli svizzeri il cui peso totale effettivo a pieno carico non superi 40 tonnellate.
+
+## Dichiarazione della CE relativa all’utilizzazione dei contingenti (40 t)
+
+La Comunità dichiara che, secondo le sue stime attuali, per le operazioni di trasporto bilaterale dovrebbe essere utilizzato il 50 per cento circa dei suoi contingenti fissati a norma dell’articolo 8.
+
+## Dichiarazione della Svizzera relativa all’articolo 40, paragrafo 4
+
+Per quanto riguarda l’applicazione dei diritti di cui all’articolo 40, paragrafo 4, dell’Accordo, la Svizzera dichiara che fisserà i diritti effettivi applicabili fino all’apertura del primo tunnel di base oppure il 1° gennaio 2008, a seconda di quale data sia precedente, ad un livello inferiore all’importo massimo consentito ai sensi di questa disposizione. In base all’attuale pianificazione, la Svizzera intende fissare il livello nel 2005, nel 2006 e nel 2007 a 292.50 CHF in media e a 350 CHF al massimo.
+
+## Dichiarazione della Svizzera relativa alla semplificazione delle procedure doganali (art. 43, par. 1)
+
+Per facilitare le operazioni di sdoganamento ai punti di frontiera tra l’Unione e la Svizzera, la Svizzera ha accettato le seguenti misure, che saranno approvate su base prioritaria nel corso del 1999 nell’ambito del Comitato misto istituito a norma dell’Accordo del 1992:
+
+- – garantire, in collaborazione con gli uffici doganali dei paesi confinanti, che l’orario di apertura degli uffici nei principali punti di attraversamento della frontiera sia sufficientemente lungo per permettere ai veicoli pesanti di iniziare il viaggio attraverso la Svizzera non appena cessa il divieto notturno oppure di proseguire il viaggio fino a quando inizi il divieto. A tal fine può essere applicato, se necessario, un onere extra che rispecchi i costi supplementari. Tale onere, tuttavia, non deve superare 8 CHF;
+- – realizzare, entro il 1º gennaio 2000, e mantenere in seguito, in collaborazione con le autorità doganali dei paesi confinanti, i tempi di sdoganamento per i veicoli pesanti di 30 minuti per ogni punto di attraversamento tra la Svizzera e l’Unione (misurati dall’entrata nel primo ufficio doganale fino allo sdoganamento presso il secondo).

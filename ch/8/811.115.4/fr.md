@@ -1,0 +1,77 @@
+---
+sr: "811.115.4"
+title: "Ordonnance du DFI du 20 août 2007 sur les filières d'études de chiropratique reconnues offertes par des hautes écoles universitaires étrangères"
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/542"
+language: fr
+version: 2007-09-01
+adopted: 2007-08-20
+in_force: 2007-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/542/20070901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-542-20070901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/542/20070901/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DFI sur les filières d’études de chiropratique reconnues offertes par des hautes écoles universitaires étrangères
+
+du 20 août 2007 (Etat le 1<sup>er</sup> septembre 2007)
+
+Le Département fédéral de l’intérieur (DFI),
+
+vu l’art. 33, al. 1, de la loi fédérale du 23 juin 2006 sur les professions médicales universitaires (LPMéd)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+#### Art. 1
+
+**Filières d’études de chiropratiqueétrangères reconnues**
+
+Les filières d’études de chiropratique des hautes écoles universitaires étrangères suivantes sont reconnues:
+
+- a.
+
+  au Canada:
+
+  - 1\. Canadian Memorial Chiropractic College, 6100 Leslie Street, Toronto, Ontario, M2H 3J1, Canada,
+  - 2\. Département de chiropratique, Université du Québec à Trois-Rivières, 3351, boulevard des Forges, CP 500, Trois-Rivières, Québec G9A 5H7, Canada;
+
+- b.
+
+  aux Etats-Unis:
+
+  - 1\. Cleveland Chiropractic College 6401, Rockhill Road, Kansas City, Missouri 64131, USA,
+  - 2\. Logan College of Chiropractic, 1851 Schoettler Road, Box 1065, Chesterfield, Missouri 63006, USA,
+  - 3\. Los Angeles College of Chiropractic, Southern California University of Health Science, 16200 East Amber Valley Drive, Box 1166, Whittier, California 90609, USA,
+  - 4\. National College of Chiropractic, National University of Health Sciences, 200 East Roosevelt Road, Lombard, Illinois 60148, USA,
+  - 5\. New York Chiropractic College, 2360 State Route 89, Box 800, Seneca Falls, New York 13148-0800, USA,
+  - 6\. Northwestern College of Chiropractic, Health Science University, 2501 West 84th Street, Bloomington, Minnesota 55431, USA,
+  - 7\. Palmer College of Chiropractic, 1000 Brady Street, Davenport, Iowa 52803, USA,
+  - 8\. Palmer College of Chiropractic West, 90 E. Tasman Drive, San Jose, California 95134, USA,
+  - 9\. Texas Chiropractic College, 5912 Spencer Highway, Pasadena, Texas 77505-1699, USA,
+  - 10\. Western States Chiropractic College, 2900 N. E. 132nd Avenue, Portland, Oregon 97230, USA;
+
+- c.
+
+  au Royaume-Uni:
+
+  - 1\. Anglo-European College of Chiropractic, 13–15 Parkwood Road, Bournemouth, Dorset BH5 2DF, England, United Kingdom,
+  - 2\. Welsh Institute of Chiropractic, University of Glamorgan, School of Applied Sciences, Pontypridd, Mid Glamorgan CF37 1DL, Wales, United Kingdom;
+
+- d. en France: Institut Franco-Européen de Chiropratique, 24, Bd. Paul Vaillant-Couturier, 94200 Ivry-Sur-Seine, France;
+- e. au Danemark: Institut for Idræt og Biomekanik, Syddansk Universitet Odense, University of Southern Denmark, Campusvej 55, 5230 Odense M, Denmark.
+
+#### Art. 2
+
+**Modification du droit en vigueur**
+
+...[^2-1]
+
+[^2-1]: La mod. peut être consultée au [RO 2007 4085](https://fedlex.data.admin.ch/eli/oc/2007/542).
+
+#### Art. 3
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2007.

@@ -1,0 +1,715 @@
+---
+sr: "822.112"
+title: Ordinanza 2 del 10 maggio 2000 concernente la legge sul lavoro (OLL 2) (Disposizioni speciali per determinate categorie di aziende e di lavoratori)
+short: OLL 2
+eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
+language: it
+version: 2019-04-01
+adopted: 2000-05-10
+in_force: 2000-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20190401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza 2 concernente la legge sul lavoro
+
+(OLL 2)
+
+(Disposizioni speciali per determinate categorie di aziende e di lavoratori)
+
+del 10 maggio 2000 (Stato 1° aprile 2019)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 27 della legge del 13 marzo 1964[^ingress-1] sul lavoro (legge),
+
+ordina:
+
+[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+
+## Sezione 1: Oggetto e definizioni
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza definisce le possibili deroghe alle prescrizioni legali in materia di durata del lavoro e del riposo in caso di condizioni particolari giusta l’articolo 27 capoverso 1 della legge e designa le categorie di aziende o i gruppi di lavoratori ai quali si applicano tali deroghe. Essa designa per ogni categoria di aziende o gruppo di lavoratori l’entità delle deroghe.
+
+#### Art. 2
+
+**Piccole aziende artigianali**
+
+<sup>1</sup> Sono considerate piccole aziende artigianali (art. 27 cpv. 1<sup>bis</sup> della legge) le aziende nelle quali, oltre al datore di lavoro, sono occupate non più di quattro persone indipendentemente dal loro grado d’occupazione.
+
+<sup>2</sup>
+
+Vi è necessità (art. 27 cpv. 1<sup>bis</sup> della legge) se:
+
+- a. un’azienda appartiene a una delle categorie di aziende elencate nella sezione 3 della presente ordinanza; o
+- b. le condizioni di cui all’articolo 28 dell’ordinanza 1 del 10 maggio 2000[^2-1] concernente la legge sul lavoro sono adempiute.
+
+[^2-1]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+
+## Sezione 2: Disposizioni speciali
+
+#### Art. 3
+
+**Applicazione**
+
+Le disposizioni della presente sezione sono applicabili alle categorie di aziende e ai lavoratori conformemente alle disposizioni della sezione 3.
+
+#### Art. 4
+
+**Esenzione dall’obbligo d’autorizzazione per il lavoro notturno e il lavoro domenicale nonché per il lavoro continuo**
+
+<sup>1</sup> Il datore di lavoro può, senza autorizzazione ufficiale, occupare integralmente o parzialmente lavoratori durante la notte.
+
+<sup>2</sup> Il datore di lavoro può, senza autorizzazione ufficiale, occupare integralmente o parzialmente lavoratori la domenica.
+
+<sup>3</sup> Il datore di lavoro può, senza autorizzazione ufficiale, occupare lavoratori nel lavoro continuo.
+
+#### Art. 5
+
+**Prolungamento della durata del lavoro giornaliero per il lavoro diurno e il lavoro serale**
+
+La durata del lavoro diurno e serale del singolo lavoratore può essere estesa fino a un massimo di 17 ore, incluse le pause e lo straordinario, purché sia garantito, nella media di una settimana civile, un riposo giornaliero di almeno 12 ore consecutive. Il riposo giornaliero fra due periodi d’impiego è di almeno otto ore consecutive.
+
+#### Art. 6
+
+**Prolungamento della durata massima della settimana lavorativa**
+
+La durata massima della settimana lavorativa può essere prolungata, per singole settimane, di quattro ore al più purché essa sia osservata in media per tre settimane consecutive e la settimana di cinque giorni sia rispettata nella media dell’anno civile.
+
+#### Art. 7
+
+**Prolungamento della settimana lavorativa**[^7-1]
+
+<sup>1</sup>
+
+I singoli lavoratori possono essere occupati sino a 11 giorni consecutivi se:
+
+- a. immediatamente dopo sono accordati loro almeno tre giorni di congedo consecutivi; e
+- b. la settimana di cinque giorni è rispettata nella media dell’anno civile.
+
+<sup>2</sup>
+
+I singoli lavoratori possono essere occupati sette giorni consecutivi se:
+
+- a. la durata del lavoro giornaliero compresa nel lavoro diurno o serale non supera nove ore;
+- b. la durata massima della settimana lavorativa è rispettata nella media di due settimane; e
+- c. immediatamente dopo il settimo giorno sono accordate almeno 83 ore di congedo consecutive: queste 83 ore comprendono il riposo giornaliero, il riposo compensativo per il lavoro domenicale e la semigiornata libera settimanale.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 8
+
+**Lavoro straordinario effettuato la domenica**
+
+<sup>1</sup> Il lavoro straordinario ai sensi dell’articolo 12 capoverso 1 della legge può essere effettuato la domenica. Il lavoro straordinario effettuato la domenica è compensato con un congedo di uguale durata nel corso delle 14 settimane successive.
+
+<sup>2</sup> Il lavoro straordinario ai sensi dell’articolo 12 capoverso 1 della legge può essere effettuato la domenica. Il lavoro straordinario effettuato la domenica è compensato con un congedo di uguale durata nel corso delle 26 settimane successive.[^8-1]
+
+[^8-1]: Introdotto dal n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 8a
+
+**Servizio di picchetto**[^8a-1]
+
+<sup>1</sup> Nell’ambito di un servizio di picchetto, il tempo che trascorre dalla convocazione del lavoratore al suo arrivo sul luogo di lavoro (tempo d’intervento) deve durare in linea di massima almeno 30 minuti.
+
+<sup>2</sup> Se, per motivi impellenti, questo lasso di tempo è inferiore a 30 minuti, il lavoratore ha diritto a una compensazione di tempo equivalente al 10 per cento del periodo inattivo del servizio di picchetto. Per periodo inattivo si intende il tempo dedicato a un servizio di picchetto al di fuori degli interventi e del tempo necessario per recarsi sul luogo di lavoro e ritornare. La durata effettiva dell’intervento e la durata del tragitto sono interamente considerati tempo di lavoro e si aggiungono alla compensazione.
+
+<sup>3</sup> Se, a causa del tempo d’intervento ridotto, il servizio di picchetto dev’essere effettuato nell’azienda, tutto il tempo di servizio è considerato tempo di lavoro.
+
+<sup>4</sup> Nei casi di cui ai capoversi 2 e 3 il lavoratore può essere di picchetto per al massimo sette giorni nello spazio di quattro settimane.
+
+[^8a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 8b
+
+**Pianificazione e ripartizione del picchetto**[^8b-1]
+
+<sup>1</sup> Il singolo lavoratore può essere di picchetto o effettuare interventi di picchetto per al massimo sette giorni nello spazio di quattro settimane. Non è obbligatorio accordare il periodo di due settimane esente da servizi di picchetto di cui all’articolo 14 capoverso 2 dell’ordinanza 1 del 10 maggio 2000[^8b-2] concernente la legge sul lavoro.
+
+<sup>2</sup>
+
+I lavoratori possono essere di picchetto o effettuare interventi di picchetto per al massimo dieci giorni nello spazio di quattro settimane, purché:
+
+- a. si tratti di un’azienda situata in una regione periferica o di un’azienda specializzata in cui non sia disponibile personale a sufficienza per un servizio di picchetto di cui al capoverso 1; e
+- b. il numero dei servizi di picchetto con intervento effettivo non superi i sette al mese nella media dell’anno civile.
+
+<sup>3</sup> Nelle notti di picchetto il riposo giornaliero può essere ridotto a nove ore, a condizione che nella media di due settimane sia di 12 ore.
+
+[^8b-1]: Introdotto dal n. I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
+[^8b-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+
+#### Art. 9
+
+**Riduzione della durata del riposo giornaliero**
+
+Il riposo giornaliero di lavoratori adulti può essere ridotto fino a nove ore, a condizione che nella media di due settimane sia di 12 ore.
+
+#### Art. 10
+
+**Durata del lavoro notturno**
+
+<sup>1</sup> In caso di lavoro notturno, la durata del lavoro giornaliero per singolo lavoratore adulto non può superare nove ore e deve essere compresa in uno spazio di 12 ore, pause incluse. Al lavoratore va garantito un riposo giornaliero di 12 ore e un riposo settimanale di 48 ore consecutive.
+
+<sup>2</sup>
+
+Il lavoro notturno può essere compreso in uno spazio di 12 ore se è seguito da un periodo di riposo di almeno 12 ore, se è disponibile un luogo per coricarsi e se:
+
+- a. la durata del lavoro è di dieci ore al massimo ed è costituita in gran parte da tempo di presenza; o
+- b. il lavoro effettivo dura otto ore al massimo; in tal caso le 12 ore sono interamente considerate tempo di lavoro.[^10-1]
+
+<sup>3</sup> In caso di lavoro notturno che inizia dopo le 04.00 o finisce prima delle 01.00, la durata del lavoro giornaliero è compresa in uno spazio di 17 ore al massimo. Se il lavoro giornaliero inizia prima delle 05.00 o termina dopo le 24.00, la durata minima del riposo giornaliero è di almeno 12 ore nella media di una settimana civile. In questo caso, la durata del riposo giornaliero fra due periodi di lavoro è di almeno otto ore.
+
+<sup>4</sup> In caso di lavoro notturno, la durata del lavoro giornaliero può ammontare al massimo a 11 ore in uno spazio di 13 ore a condizione che non superi nove ore nella media di una settimana civile.
+
+<sup>5</sup> Il lavoro notturno non alternato a un lavoro diurno può essere svolto per un massimo di sei notti su sette notti consecutive, purché la settimana di cinque giorni sia garantita nella media dell’anno civile.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 11
+
+**Spostamento del periodo della domenica**
+
+Il periodo della domenica giusta l’articolo 18 capoverso 1 della legge può essere anticipato o differito di tre ore al massimo.
+
+#### Art. 12
+
+**Numero di domeniche libere**
+
+<sup>1</sup> Il lavoratore beneficia di almeno 26 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nel corso di un trimestre civile deve essere tuttavia garantita almeno una domenica libera.
+
+<sup>1bis</sup> Il lavoratore beneficia di almeno 18 domeniche libere per anno civile, sempre che almeno 12 volte nel corso dell’anno civile sia stato accordato un riposo settimanale minimo di 59 ore consecutive. Queste 59 ore comprendono il riposo giornaliero, il sabato e la domenica interi. Le domeniche libere possono essere ripartite in modo irregolare nel corso dell’anno.[^12-1]
+
+<sup>2</sup> Il lavoratore beneficia di almeno 12 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nelle settimane senza domenica libera deve essere tuttavia accordato immediatamente dopo il riposo giornaliero un riposo settimanale di 36 ore consecutive.
+
+<sup>2bis</sup> Il lavoratore beneficia di almeno 12 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nelle settimane senza domenica libera è accordato un riposo settimanale di 47 ore consecutive oppure di due volte 35 ore consecutive.[^12-2]
+
+<sup>3</sup> Se il lavoratore beneficia della settimana di cinque giorni nella media dell’anno civile, il numero delle domeniche libere può essere ridotto a quattro. Esse possono essere ripartite in modo irregolare nel corso dell’anno.
+
+[^12-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
+[^12-2]: Introdotto dal n. I dell’O del 17 ago. 2016, in vigore dal 1° set. 2016 ([RU 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)).
+
+#### Art. 13
+
+**Riposo compensativo per il lavoro effettuato nei giorni festivi**
+
+Il riposo compensativo per il lavoro effettuato nei giorni festivi può essere accordato in blocco per un anno civile.
+
+#### Art. 14
+
+**Semigiornata libera settimanale**
+
+<sup>1</sup> La semigiornata libera settimanale può essere accordata in forma cumulata per un periodo di otto settimane al massimo.
+
+<sup>2</sup> La semigiornata libera settimanale può essere accordata in forma cumulata per un periodo di 12 settimane al massimo nelle aziende soggette a forti fluttuazioni stagionali.
+
+<sup>3</sup> La semigiornata libera settimanale può essere ridotta da otto a sei ore consecutive. Essa deve essere accordata il mattino fino alle 12.00 o il pomeriggio al più tardi a partire dalle 14.30 fino al più tardi alle 20.30. La perdita di ore di riposo dovuta alla riduzione deve essere accordata in blocco entro sei mesi.[^14-1]
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+
+## Sezione 3: Categorie di lavoratori e di aziende assoggettate
+
+#### Art. 15
+
+**Istituti ospedalieri e cliniche**
+
+<sup>1</sup> Agli istituti ospedalieri e alle cliniche e ai lavoratori in essi occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 5, 7 capoverso 2, 8 capoverso 2, 8*a*, 9, 10 capoverso 2 e 12 capoverso 2.[^15-1]
+
+<sup>2</sup> Gli istituti ospedalieri e le cliniche sono aziende dirette da un medico per malati, puerpere e lattanti, infortunati e convalescenti.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 16
+
+**Case e internati**
+
+<sup>1</sup> Alle case e agli internati e ai lavoratori in essi occupati per assistere gli ospiti si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 2, 8 capoverso 1, 9, 10 capoverso 2, 12 capoverso 2 e 14 capoverso 1.[^16-1]
+
+<sup>2</sup> Sono considerati case e internati gli ospizi per bambini, le case di educazione, le case per apprendisti, le case di formazione e di preparazione professionale, le case per anziani, le case di cura, i cronicari, i ricoveri e gli asili per bisognosi.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 17
+
+**Aziende per le cure a domicilio**
+
+<sup>1</sup> Alle aziende per le cure a domicilio (Spitex) e alle persone in esse occupate per svolgere i compiti di cura e assistenza si applica l’articolo 4 per tutta la notte e tutta la domenica.
+
+<sup>2</sup> Sono considerate aziende per le cure a domicilio le aziende che offrono servizi extraospedalieri di cura e assistenza alle persone che ne hanno bisogno.
+
+#### Art. 18
+
+**Studi medici e dentistici**[^18-1]
+
+Agli studi medici e dentistici e alle persone in essi occupate si applica l’articolo 4 per tutta la notte e tutta la domenica, sempreché si tratti di garantire il servizio di pronto soccorso.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
+
+#### Art. 19
+
+**Farmacie**
+
+Alle farmacie e alle persone in esse occupate per la preparazione e la vendita di medicinali si applica l’articolo 4 per tutta la notte e tutta la domenica, sempreché si tratti di garantire il servizio delle urgenze.
+
+#### Art. 19a
+
+**Laboratori medici**[^19a-1]
+
+Ai laboratori medici e ai lavoratori in essi occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 5, 8 capoverso 2, 9, 10 capoverso 2 lettera a e 12 capoverso 2.
+
+[^19a-1]: Introdotto dal n. I dell’O del 18 mag. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 20
+
+**Aziende di pompe funebri**
+
+<sup>1</sup> Alle aziende di pompe funebri e ai lavoratori in esse occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica e l’articolo 8 capoverso 1, sempreché il lavoro notturno e domenicale sia necessario per attività improrogabili.[^20-1]
+
+<sup>2</sup> Sono considerate aziende di pompe funebri le aziende che si occupano delle formalità e delle operazioni necessarie in caso di decesso.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 21
+
+**Studi veterinari e cliniche per animali**[^21-1]
+
+Agli studi veterinari e alle cliniche per animali e ai lavoratori in essi occupati si applicano le seguenti disposizioni, sempreché si tratti di garantire il servizio di pronto soccorso o di curare animali malati, bisognosi di cure o vittime di incidenti:
+
+- a. l’articolo 4 per tutta la notte e tutta la domenica nonché l’articolo 8*b* capoversi 1 e 3;
+- b. agli studi veterinari con al massimo quattro veterinari assunti si applica inoltre l’articolo 8*b* capoverso 2.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
+
+#### Art. 22
+
+**Giardini e parchi zoologici nonché rifugi per animali**[^22-1]
+
+Ai giardini e parchi zoologici, ai rifugi per animali e ai lavoratori in essi occupati per sorvegliare e curare gli animali, nonché per la manutenzione degli impianti e il servizio alla cassa, si applicano l’articolo 4 capoverso 1 per tutta la notte per le attività di sorveglianza e il capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1 e 12 capoverso 2.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 23
+
+**Alberghi, ristoranti e caffè**
+
+<sup>1</sup> Agli alberghi, ristoranti e caffè e ai lavoratori in essi occupati per il servizio alla clientela si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 2, 8 capoverso 1, 11, 12 capoverso 3, 13 e 14 capoversi 2 e 3.[^23-1]
+
+<sup>2</sup> Ai lavoratori con responsabilità di educazione o di assistenza ai sensi dell’articolo 36 della legge è applicabile l’articolo 12 capoverso 2 invece dell’articolo 12 capoverso 3.
+
+<sup>3</sup> Sono considerati alberghi, ristoranti e caffè le aziende che alloggiano persone a pagamento o che servono pasti o bevande sul posto. Le aziende che consegnano pasti pronti al consumo sono equiparate ad alberghi, ristoranti e caffè.[^23-2]
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2525](https://fedlex.data.admin.ch/eli/oc/2005/433)).
+
+#### Art. 24
+
+**Case da gioco**
+
+<sup>1</sup> Alle case da gioco e ai lavoratori in esse occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 12 capoverso 2, 13 e 14 capoversi 2 e 3.[^24-1]
+
+<sup>2</sup> Sono considerate case da gioco le aziende titolari di una concessione d’esercizio in conformità alla legge federale del 18 dicembre 1998[^24-2] sulle case da gioco.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^24-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)n. I 15. [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+
+#### Art. 25
+
+**Aziende delle regioni turistiche e centri commerciali rispondenti ai bisogni del turismo internazionale[^25-1]**
+
+<sup>1</sup> Alle aziende delle regioni turistiche, rispondenti ai bisogni specifici dei turisti, e alle persone in esse occupate per il servizio alla clientela si applicano durante la stagione l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1, 12 capoverso 1 e 14 capoverso 1.[^25-2]
+
+<sup>2</sup> Sono considerate aziende delle regioni turistiche le aziende situate in località che offrono cure, sport, escursioni e soggiorni di riposo per le quali il turismo svolge un ruolo essenziale e soggiace a forti fluttuazioni stagionali*.*[^25-3]
+
+<sup>3</sup> Ai centri commerciali rispondenti ai bisogni del turismo internazionale si applicano durante tutto l’anno l’articolo 4 capoverso 2 per tutta la domenica e l’articolo 12 capoverso 1.[^25-4]
+
+<sup>4</sup>
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) stabilisce, su richiesta dei Cantoni, i centri commerciali secondo il capoverso 3. A tal riguardo devono essere adempiute le seguenti condizioni:
+
+- a. l’offerta di merci nel centro commerciale è destinata al turismo internazionale e comprende, nella maggior parte dei negozi che si trovano nel centro commerciale, principalmente articoli di lusso, in particolare nei settori dell’abbigliamento e delle calzature, degli accessori, degli orologi e dei gioielli nonché dei profumi;
+- b. la cifra d’affari globale del centro commerciale e la cifra d’affari della maggior parte dei negozi che si trovano nel centro commerciale sono realizzate essenzialmente grazie alla clientela internazionale;
+- c.
+
+  il centro commerciale si trova:
+
+  - 1\. in una regione turistica secondo il capoverso 2, o
+  - 2\. a una distanza di 15 chilometri al massimo dal confine svizzero e nelle immediate vicinanze di un raccordo autostradale o di una stazione;
+
+- d. i lavoratori ricevono per il lavoro domenicale compensazioni che superano quanto previsto dalle disposizioni di legge.[^25-5]
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^25-3]: Nuovo testo giusta il n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-4]: Introdotto dal n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-5]: Introdotto dal n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+
+#### Art. 26
+
+**Chioschi, aziende al servizio dei viaggiatori e negozi delle stazioni di servizio[^26-1]**
+
+<sup>1</sup> Ai chioschi situati lungo le strade e nelle piazze pubbliche si applicano gli articoli 4 capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1, 12 capoverso 1 e 14 capoverso 1.[^26-2]
+
+<sup>2</sup> Ai chioschi e alle aziende al servizio dei viaggiatori e alle persone in essi occupate per il servizio dei viaggiatori si applicano l’articolo 4 capoverso 1 per la notte fino alle 01.00 e il capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1, 12 capoverso 2 e 14 capoverso 1.[^26-3]
+
+<sup>2bis</sup> Ai negozi delle stazioni di servizio situati nelle aree di servizio autostradali e lungo le strade principali con traffico intenso di viaggiatori, la cui offerta di merci e servizi risponde principalmente ai bisogni dei viaggiatori, e ai lavoratori in essi occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 8 capoverso 1, 12 capoverso 2 e 14 capoverso 1.[^26-4]
+
+<sup>3</sup> Sono considerati chioschi i piccoli punti vendita e gli spacci la cui offerta consiste soprattutto in pubblicazioni della stampa scritta, dolciumi, tabacchi, souvenir e cibi da consumare sul posto o in viaggio.
+
+<sup>4</sup> Sono considerate aziende al servizio dei viaggiatori i punti vendita e le aziende che offrono servizi nelle stazioni, negli aeroporti, in altre grandi stazioni dei trasporti pubblici e nelle località di confine, i cui prodotti o servizi offerti rispondono principalmente ai bisogni dei viaggiatori.[^26-5]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
+[^26-2]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^26-3]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^26-4]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
+[^26-5]: Nuovo testo giusta il n. I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
+
+#### Art. 26a
+
+**Aziende nelle stazioni e negli aeroporti**[^26a-1]
+
+<sup>1</sup> Alle aziende nelle stazioni e negli aeroporti ai sensi dell’articolo 27 capoverso 1<sup>ter</sup> della legge e alle persone in esse occupate per il servizio alla clientela si applicano l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1, 12 capoverso 2 e 14 capoverso 1.
+
+<sup>2</sup>
+
+Il DEFR stabilisce le stazioni e gli aeroporti secondo il capoverso 1. A tal riguardo si applica quanto segue:[^26a-2]
+
+- a. le stazioni devono realizzare con il traffico viaggiatori una cifra d’affari annua di almeno 20 milioni di franchi oppure rivestire una notevole importanza sul piano regionale;
+- b. gli aeroporti devono avere un traffico di linea.
+
+<sup>3</sup>
+
+Prima di stabilire le stazioni e gli aeroporti, il DEFR[^26a-3] consulta:
+
+- a. per le stazioni la cui cifra d’affari annua realizzata con il traffico viaggiatori ammonta ad almeno 20 milioni di franchi: l’impresa ferroviaria;
+- b. per le stazioni con una notevole importanza sul piano regionale: l’impresa ferroviaria e il Cantone interessato;
+- c. per gli aeroporti: il gestore dell’aeroporto.
+
+[^26a-1]: Introdotto dal n. I dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 963](https://fedlex.data.admin.ch/eli/oc/2006/174)).
+[^26a-2]: Nuovo testo giusta il n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^26a-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)), con effetto dal 1° gen. 2013.
+
+#### Art. 27
+
+**Panetterie, pasticcerie e confetterie**
+
+<sup>1</sup> Alle panetterie, pasticcerie e confetterie e ai lavoratori in esse occupati per la produzione di articoli di panetteria, pasticceria e confetteria si applicano l’articolo 4 per tutta la notte durante due giorni alla settimana, per gli altri giorni a partire dalle 01.00 e per tutta la domenica, nonché gli articoli 10 capoversi 4 e 5, 11, 12 capoverso 2 e 13.[^27-1]
+
+<sup>2</sup> Ai negozi delle panetterie, pasticcerie e confetterie e al personale di vendita in essi occupato si applicano l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 12 capoverso 2 e 13.
+
+<sup>3</sup> Sono considerate panetterie, pasticcerie e confetterie le aziende che producono articoli di panetteria, pasticceria e confetteria nonché i relativi negozi, purché vendano prevalentemente gli articoli di propria produzione.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 27a
+
+**Aziende di trasformazione della carne**[^27a-1]
+
+<sup>1</sup> Alle aziende di trasformazione della carne e ai lavoratori in esse occupati per la trasformazione della carne nonché per il suo imballaggio e il suo immagazzinamento si applicano l’articolo 4 per la notte a partire dalle 02.00 durante due giorni alla settimana, per gli altri giorni a partire dalle 04.00 e per la domenica a partire dalle 17.00, nonché gli articoli 12 capoverso 1, 13 e 14 capoverso 1.
+
+<sup>2</sup> Per aziende di trasformazione della carne si intendono aziende che si occupano principalmente di produzione, trasformazione, valorizzazione della carne e della preparazione di prodotti a base di carne.
+
+[^27a-1]: Introdotto dal n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 28
+
+**Aziende di trasformazione del latte**
+
+<sup>1</sup> Alle aziende di trasformazione del latte e ai lavoratori in esse occupati per la presa in consegna e il trattamento del latte si applica l’articolo 4 per la notte a partire dalle 02.00 e per tutta la domenica, sempreché il lavoro notturno e il lavoro domenicale siano necessari per evitare il deperimento del latte.
+
+<sup>2</sup> Sono considerate aziende di trasformazione del latte le aziende che prendono in consegna il latte ai fini dell’immagazzinamento e della lavorazione.
+
+#### Art. 29
+
+**Negozi di fiori**
+
+Ai negozi di fiori del commercio al dettaglio e ai lavoratori in essi occupati si applica l’articolo 4 capoverso 2 per tutta la domenica.
+
+#### Art. 30
+
+**Redazioni di giornali e di riviste nonché agenzie d’informazioni e agenzie fotografiche**
+
+<sup>1</sup> Alle redazioni di giornali e di riviste nonché alle agenzie d’informazioni e agenzie fotografiche e ai lavoratori in esse occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 8 capoverso 1, 11, 12 capoverso 1 e 13, sempreché il lavoro notturno e domenicale siano necessari per garantire l’attualità.[^30-1]
+
+<sup>2</sup> Ai lavoratori occupati nell’ambito della redazione sportiva, è applicabile l’articolo 12 capoverso 2 invece dell’articolo 12 capoverso 1.
+
+<sup>3</sup> Sono considerate redazioni di giornali e riviste nonché agenzie d’informazioni e agenzie fotografiche le aziende che ricevono, trattano, trasmettono o diffondono informazioni o materiale visivo.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 30a
+
+**Fornitori di servizi postali**[^30a-1]
+
+<sup>1</sup> Ai fornitori di servizi postali e ai lavoratori in essi occupati per il trattamento degli invii postali si applicano l’articolo 4 per tutta la notte e per tutta la domenica nonché l’articolo 13. Ciò vale unicamente se in media nel corso dell’anno civile gli invii postali corrispondenti a un’offerta del servizio universale ai sensi dell’articolo 29 dell’ordinanza del 29 agosto 2012[^30a-2] sulle poste rappresentano la parte principale degli invii trattati di notte e la domenica.
+
+<sup>2</sup> Il capoverso 1 non è applicabile ai lavoratori impiegati agli sportelli o che forniscono informazioni alla clientela.
+
+<sup>3</sup> Per fornitori di servizi postali si intendono le aziende che propongono ai clienti a titolo professionale l’accettazione, la raccolta, lo smistamento, il trasporto e la distribuzione di invii postali e che si assumono la responsabilità nei confronti dei clienti senza tuttavia dover fornire personalmente la totalità di questi servizi
+
+[^30a-1]: Introdotto dal n. I dell’O del 6 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 977](https://fedlex.data.admin.ch/eli/oc/2015/179)).
+[^30a-2]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+
+#### Art. 31
+
+**Aziende di radiodiffusione e di televisione**
+
+<sup>1</sup> Alle aziende di radiodiffusione e di televisione e alle persone in esse occupate per preparare, produrre, registrare e diffondere le trasmissioni si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 5, 6, 7 capoverso 1, 8 capoverso 1, 9, 10 capoverso 3, 11, 12 capoverso 1 e 13.[^31-1]
+
+<sup>2</sup> Gli articoli 6, 7 capoverso 1 e 8 capoverso 1 sono applicabili soltanto ai lavoratori occupati in produzioni di lunga durata senza interruzione.[^31-2]
+
+<sup>3</sup> Ai lavoratori impiegati per la preparazione, la produzione, la registrazione e la diffusione di manifestazioni sportive è applicabile l’articolo 12 capoverso 2 invece dell’articolo 12 capoverso 1.
+
+<sup>4</sup> Sono considerate aziende di radiodiffusione e di televisione le aziende che preparano, producono, registrano e diffondono trasmissioni radiofoniche o televisive.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^31-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 32
+
+**Aziende di telecomunicazione**
+
+<sup>1</sup> Alle aziende di telecomunicazione e alle persone in esse occupate si applica l’articolo 4 per tutta la notte e tutta la domenica, sempreché il lavoro notturno e domenicale siano necessari per il funzionamento dei servizi di telecomunicazione offerti.
+
+<sup>2</sup> Sono considerate aziende di telecomunicazione le aziende che gestiscono impianti atti a fornire servizi di telecomunicazione.[^32-1]
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+
+#### Art. 32a
+
+**Personale con compiti legati alle tecnologie dell’informazione e della comunicazione**[^32a-1]
+
+Al personale con compiti legati alle tecnologie dell’informazione e della comunicazione si applica l’articolo 4 per tutta la notte e tutta la domenica, sempreché il lavoro notturno e il lavoro domenicale siano necessari per le seguenti operazioni su una struttura informatica o di rete la cui interruzione durante le ore di servizio comprometterebbe la continuità dell’esercizio:
+
+- a. eliminare perturbazioni a una struttura informatica o di rete;
+- b. garantire la manutenzione di una struttura informatica o di rete che nessuna pianificazione o misura organizzativa consente di svolgere di giorno e durante i giorni feriali.
+
+[^32a-1]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+
+#### Art. 33
+
+**Centrali telefoniche**
+
+<sup>1</sup> Alle centrali telefoniche e ai lavoratori in esse occupati si applica l’articolo 4 per tutta la notte e tutta la domenica nonché per il lavoro continuo.
+
+<sup>2</sup> Il capoverso 1 non è applicabile ai lavoratori che, al di fuori della prestazione di servizi esclusivamente telefonici, forniscono servizi commerciali come il telemarketing e la vendita di merci e prestazioni.
+
+<sup>3</sup> Sono considerate centrali telefoniche le aziende che forniscono telefonicamente informazioni, ricevono e trasmettono chiamate e ordini mediante una centrale.
+
+#### Art. 34
+
+**Banche, commercio di valori mobiliari, infrastrutture del mercato finanziario e loro società fondate in comune**[^34-1]
+
+Ai lavoratori occupati nelle banche, nel commercio di valori mobiliari, nelle infrastrutture del mercato finanziario e nelle loro società fondate in comune si applica l’articolo 4 per tutta la notte e per i giorni festivi legali che cadono in un giorno lavorativo, sempreché il lavoro notturno e festivo siano necessari per garantire senza interruzione il funzionamento dei sistemi del traffico dei pagamenti, del commercio di valori mobiliari e degli svolgimenti delle transazioni internazionali.
+
+[^34-1]: Nuovo testo giusta il n. 10 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+#### Art. 35
+
+**Teatri permanenti**[^35-1]
+
+<sup>1</sup> Ai teatri permanenti e alle persone in essi impiegate per la creazione artistica di spettacoli si applicano l’articolo 4 per la notte fino alle 01.00 e per tutta la domenica, nonché gli articoli 11, 12 capoversi 1 o 2, 13, 14 capoverso 2 e, per la preparazione delle prime, l’articolo 7 capoverso 1.
+
+<sup>2</sup> Alle persone impiegate per le attività necessarie agli spettacoli nonché per il servizio e l’assistenza agli spettatori si applicano l’articolo 4 per la notte fino alle 01.00 e per tutta la domenica, nonché gli articoli 10 capoverso 3, 12 capoversi 1 o 2, 13, 14 capoverso 2 e, per la preparazione delle prime, l’articolo 7 capoverso 1.
+
+<sup>3</sup> Alle persone impiegate per la creazione tecnico-artistica di spettacoli si applicano l’articolo 4 per la notte fino alle 01.00 e per tutta la domenica, nonché gli articoli 5, 9, 12 capoversi 1 o 2, 13, 14 capoverso 2 e, per la preparazione delle prime, l’articolo 7 capoverso 1. Il riposo giornaliero non può essere ridotto prima o dopo un prolungamento del lavoro diurno e serale di cui all’articolo 5.
+
+<sup>4</sup> Alle persone di cui ai capoversi 1, 2 e 3 impiegate in tournée o in rappresentazioni fuori sede si applica l’articolo 4 capoverso 1 per la notte fino alle 03.00.
+
+<sup>5</sup> Sono considerate teatri permanenti le aziende che organizzano spettacoli di teatro, d’opera, d’operetta, di balletto e commedie musicali.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 36
+
+**Musicisti professionisti**
+
+Alle persone occupate nell’esecuzione di opere musicali si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 12 capoverso 2 e 13.
+
+#### Art. 37
+
+**Sale da cinema**
+
+Alle sale da cinema che proiettano pellicole cinematografiche a titolo professionale e ai lavoratori in esse occupati si applicano l’articolo 4, per la notte fino alle 02.00 e per tutta la domenica, nonché l’articolo 12 capoverso 2.
+
+#### Art. 38
+
+**Circhi**
+
+<sup>1</sup> Ai circhi e ai lavoratori in essi occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 8 capoverso 1, 9, 10 capoverso 3, 12 capoverso 2, 13 e 14 capoverso 1.[^38-1]
+
+<sup>2</sup> Gli articoli 4 capoverso 1 e 10 capoverso 3 sono applicabili soltanto qualora il lavoro notturno sia necessario per montare e smontare le tende, per curare gli animali e per effettuare gli spostamenti.
+
+<sup>3</sup> Sono considerate circhi le aziende che, dietro remunerazione, intrattengono il pubblico con un programma artistico e che in genere si spostano continuamente per presentare i loro spettacoli.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 39
+
+**Aziende dello spettacolo viaggiante**
+
+<sup>1</sup> Alle aziende dello spettacolo viaggiante e ai lavoratori in esse occupati si applicano l’articolo 4 capoverso 2, per tutta la domenica, nonché gli articoli 12 capoverso 2 e 13.
+
+<sup>2</sup> Sono considerate aziende dello spettacolo viaggiante le aziende che, in occasione di kermesse, di mercati o di manifestazioni analoghe offrono, dietro remunerazione, spettacoli al pubblico o mettono a sua disposizione giochi o altre installazioni di divertimento.
+
+#### Art. 40
+
+**Impianti sportivi e per il tempo libero**
+
+<sup>1</sup> Ai lavoratori occupati nella manutenzione di impianti sportivi e per il tempo libero e nel servizio, nell’assistenza e nell’istruzione della clientela si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 8 capoverso 1, 10 capoverso 3, 12 capoverso 2 e 14 capoverso 1.[^40-1]
+
+<sup>2</sup> Gli articoli 4 capoverso 1 e 10 capoverso 3 sono applicabili soltanto qualora il lavoro notturno sia necessario per la manutenzione degli impianti.
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 41
+
+**Impianti di risalita**
+
+<sup>1</sup> Agli impianti di risalita e ai lavoratori in essi occupati per l’esercizio e la manutenzione si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 8 capoverso 1, 12 capoverso 2, 13 e 14 capoverso 1.[^41-1]
+
+<sup>2</sup> L’articolo 4 capoverso 1 è applicabile soltanto qualora il lavoro notturno sia necessario per la manutenzione degli impianti.
+
+<sup>3</sup> Sono considerate impianti di risalita le aziende che non sono titolari di una concessione federale e che gestiscono impianti per il trasporto di persone.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 42
+
+**Campeggi**[^42-1]
+
+Ai campeggi e ai lavoratori in essi occupati per l’esercizio e la manutenzione degli impianti nonché per il servizio e l’assistenza alla clientela si applicano l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1, 9, 12 capoverso 2, 13 e 14 capoverso 1.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 43
+
+**Aziende per conferenze, congressi e fiere**
+
+<sup>1</sup> Alle aziende per conferenze e congressi e ai lavoratori in esse occupati per il servizio e l’assistenza ai visitatori e per la manutenzione si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 12 capoverso 1 e 13.
+
+<sup>2</sup> Alle aziende per fiere e ai lavoratori in esse occupati per il montaggio e lo smontaggio, per il servizio agli stand e alle casse nonché per la manutenzione si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 1, 12 capoverso 1 e 13.[^43-1]
+
+<sup>3</sup> L’articolo 4 capoverso 1 è applicabile soltanto qualora il lavoro notturno sia necessario per il montaggio e lo smontaggio delle installazioni e degli stand nonché per la manutenzione.
+
+<sup>4</sup> Sono considerate aziende per conferenze e congressi le aziende che organizzano manifestazioni d’informazione politica, culturale o scientifica.
+
+<sup>5</sup> Sono considerate aziende per fiere le aziende che organizzano manifestazioni per espositori che presentano e vendono i loro prodotti.
+
+[^43-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+
+#### Art. 43a
+
+**Aziende che forniscono servizi destinati a manifestazioni**[^43a-1]
+
+<sup>1</sup> Alle aziende che forniscono servizi destinati a manifestazioni e ai lavoratori in esse occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 1, 10 capoverso 4, 11, 12 capoverso 1 e 13, purché il lavoro notturno e domenicale sia necessario per il montaggio e lo smontaggio dell’allestimento e delle installazioni delle manifestazioni e per la loro preparazione e la loro manutenzione.
+
+<sup>2</sup> L’articolo 7 capoverso 1 è applicabile soltanto ai lavoratori occupati in manifestazioni di lunga durata senza interruzione. Non è possibile avvalersi contemporanea-mente dell’articolo 7 capoverso 1 e dell’articolo 10 capoverso 4.
+
+<sup>3</sup> Le aziende che forniscono servizi destinati a manifestazioni sono aziende che forniscono prestazioni per l’organizzazione e lo svolgimento di manifestazioni quali tournée, festival, concerti, commedie musicali, eventi di marketing, riunioni, eventi di gala o manifestazioni sportive.
+
+[^43a-1]: Introdotto dal n. I dell’O del 20 ago. 2014, in vigore dal 15 set. 2014 ([RU 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)).
+
+#### Art. 44
+
+**Musei e aziende d’esposizione**
+
+<sup>1</sup> Ai musei e alle aziende d’esposizione e alle persone in esse occupate per il servizio alla cassa, agli stand di vendita e al guardaroba, per le visite guidate, la sorveglianza e la manutenzione tecnica si applicano l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 12 capoverso 2 e 13.
+
+<sup>2</sup> Sono considerati musei e aziende d’esposizione le aziende che organizzano esposizioni culturali.
+
+#### Art. 45
+
+**Personale di sorveglianza e di guardia**[^45-1]
+
+Ai lavoratori incaricati di compiti di sorveglianza e di guardia si applicano l’articolo 4 per tutta la notte, tutta la domenica e per il lavoro continuo, nonché gli articoli 6, 8 capoverso 1, 9, 10 capoversi 4 e 5, 12 capoverso 2 e 13.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+
+#### Art. 46
+
+**Aziende del settore automobilistico**
+
+Alle aziende del settore automobilistico e ai lavoratori in esse occupati si applica l’articolo 4 per tutta la notte e tutta la domenica, sempreché siano occupati nell’approvvigionamento dei veicoli con carburante e offrano servizio di assistenza in caso di panne, servizio di rimorchio e di riparazione.
+
+#### Art. 47
+
+**Personale a terra della navigazione aerea**
+
+<sup>1</sup> Al personale a terra della navigazione aerea si applicano l’articolo 4, per tutta la notte, tutta la domenica e per il lavoro continuo, nonché gli articoli 5, 10 capoverso 3, 12 capoverso 1<sup>bis</sup> e 13.[^47-1]
+
+<sup>2</sup> Gli articoli 5 e 10 capoverso 3 si applicano soltanto per evitare o eliminare perturbazioni nei servizi di volo.
+
+<sup>3</sup> Per personale a terra della navigazione aerea si intendono i lavoratori che forniscono prestazioni volte a garantire il buon funzionamento dei servizi di volo.
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
+
+#### Art. 48
+
+**Aziende di costruzione e di manutenzione di impianti ferroviari**[^48-1]
+
+Alle aziende di costruzione e di manutenzione di impianti ferroviari e ai lavoratori in esse occupati nei lavori di manutenzione e di rinnovamento di impianti ferroviari si applica l’articolo 4 per tutta la notte e tutta la domenica, nonché l’articolo 12 capoverso 1, sempreché il lavoro notturno e domenicale, segnatamente agli impianti delle linee ferroviarie e di approvvigionamento in energia elettrica nonché ai dispositivi per il comando e la sicurezza della circolazione ferroviaria, sia necessario per garantire il buon funzionamento dei servizi ferroviari.
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+
+#### Art. 49
+
+**Aziende d’approvvigionamento in energia e acqua**
+
+Alle aziende che garantiscono l’approvvigionamento in elettricità, gas, calore e acqua e ai lavoratori in esse occupati nella produzione e per assicurare la distribuzione si applica l’articolo 4 per tutta la notte, tutta la domenica e per il lavoro continuo.
+
+#### Art. 50
+
+**Aziende di depurazione delle acque di scarico e di smaltimento dei rifiuti domestici**
+
+Alle aziende di depurazione delle acque di scarico e di smaltimento dei rifiuti domestici e ai lavoratori in esse occupati per l’esercizio e la manutenzione degli impianti si applica l’articolo 4 per tutta la notte, tutta la domenica e per il lavoro continuo.
+
+#### Art. 51
+
+**Aziende di pulizia**
+
+<sup>1</sup>
+
+Ai lavoratori delle aziende di pulizia che sono impiegati esclusivamente o prevalentemente in un’azienda assoggettata alla presente ordinanza si applicano le vigenti disposizioni speciali concernenti la categoria interessata, purché:
+
+- a. l’azienda che li impiega si avvalga effettivamente delle corrispondenti disposizioni speciali; e
+- b. l’intervento del personale di pulizia di notte o la domenica sia necessario per il buon funzionamento dell’impresa che lo impiega.
+
+<sup>2</sup> Sono considerate aziende di pulizia le aziende che svolgono lavori di pulizia e di sgombero.
+
+#### Art. 52
+
+**Aziende per la trasformazione di prodotti agricoli**[^52-1]
+
+<sup>1</sup> Alle aziende per la trasformazione di prodotti agricoli e ai lavoratori in esse occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 5, 8 capoverso 1, 9, 10 capoverso 1, 11, 12 capoverso 2<sup>bis</sup>, 13 e 14 capoverso 2, purché una trasformazione immediata sia necessaria per evitare un notevole deterioramento della qualità dei prodotti.
+
+<sup>2</sup> Sono considerate aziende per la trasformazione di prodotti agricoli le aziende che preparano, immagazzinano, trasformano, tengono in conto deposito o distribuiscono prodotti vegetali come frutta, verdura, patate, funghi commestibili o fiori recisi.
+
+[^52-1]: Nuovo testo giusta il n I dell’O del 17 ago. 2016, in vigore dal 1° set. 2016 ([RU 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)).
+
+## Sezione 4: Disposizioni finali
+
+#### Art. 53
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza 2 del 14 gennaio 1966[^53-1] per l’esecuzione della legge sul lavoro nell’industria, nell’artigianato e nel commercio (Disposizioni speciali per determinate categorie di aziende o di lavoratori) è abrogata.
+
+[^53-1]: [[RU 1966 119](https://fedlex.data.admin.ch/eli/oc/1966/119_119_119)]
+
+#### Art. 54
+
+[^54-1]
+
+[^54-1]: Abrogato dal n. IV 38 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 55
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° agosto 2000.

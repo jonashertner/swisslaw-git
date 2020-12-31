@@ -1,0 +1,1070 @@
+---
+sr: "412.10"
+title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legge sulla formazione professionale, LFPr)"
+short: LFPr
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
+language: it
+version: 2019-01-01
+adopted: 2002-12-13
+in_force: 2004-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20190101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sulla formazione professionale
+
+(Legge sulla formazione professionale, LFPr)
+
+del 13 dicembre 2002 (Stato 1° gennaio 2019) (Stato 1° gennaio 2019)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 63 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 6 settembre 2000[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Principio**
+
+<sup>1</sup> La formazione professionale è compito comune di Confederazione, Cantoni e organizzazioni del mondo del lavoro (parti sociali, associazioni professionali, altre organizzazioni competenti e altri operatori della formazione professionale). Essi si adoperano per garantire un’offerta sufficiente nel settore della formazione professionale, segnatamente nei settori d’avvenire.
+
+<sup>2</sup> I provvedimenti della Confederazione mirano a promuovere nella misura del possibile le iniziative dei Cantoni e delle organizzazioni del mondo del lavoro con incentivi finanziari e altri mezzi.
+
+<sup>3</sup>
+
+Per conseguire gli scopi della presente legge:
+
+- a. la Confederazione, i Cantoni e le organizzazioni del mondo del lavoro collaborano;
+- b. i Cantoni collaborano anche fra loro, al pari delle organizzazioni del mondo del lavoro.
+
+#### Art. 2
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup>
+
+Per tutti i settori della formazione professionale, escluse le scuole universitarie, la presente legge disciplina:
+
+- a. la formazione professionale di base, compresa la maturità professionale;
+- b. la formazione professionale superiore;
+- c. la formazione professionale continua;
+- d. le procedure di qualificazione, gli attestati, i certificati e i titoli;
+- e. la formazione dei responsabili della formazione professionale;
+- f. le competenze e i principi in materia di orientamento professionale, negli studi e nella carriera;
+- g. la partecipazione della Confederazione alle spese della formazione professionale.
+
+<sup>2</sup> La presente legge non si applica alle formazioni disciplinate in altre leggi federali.
+
+<sup>3</sup> Per ripartire in modo più razionale i compiti fra la Confederazione e i Cantoni, il Consiglio federale può, d’intesa con i Cantoni, escludere dal campo d’applicazione singoli settori della formazione professionale.
+
+#### Art. 3
+
+**Obiettivi**
+
+La presente legge promuove e sviluppa:
+
+- a. un sistema di formazione professionale che consenta all’individuo uno sviluppo personale e professionale e l’integrazione nella società, in particolare nel mondo del lavoro, rendendolo capace e disposto a essere professionalmente flessibile e a mantenersi nel mondo del lavoro;
+- b. un sistema di formazione professionale che favorisca la competitività delle aziende;
+- c.[^3-1] le pari opportunità di formazione sul piano sociale e regionale, la parità effettiva fra uomo e donna, l’eliminazione di svantaggi nei confronti dei disabili, nonché le pari opportunità e l’integrazione degli stranieri;
+- d. la permeabilità fra cicli e tipi di formazione nell’ambito della formazione professionale e fra quest’ultima e gli altri settori di formazione;
+- e. la trasparenza del sistema della formazione professionale.
+
+[^3-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+
+#### Art. 4
+
+**Sviluppo della formazione professionale**
+
+<sup>1</sup> Per sviluppare la formazione professionale la Confederazione promuove studi, progetti pilota, la ricerca nel settore della formazione professionale e la realizzazione di strutture solide nei nuovi settori della formazione professionale.
+
+<sup>2</sup> Se necessario per conseguire gli obiettivi della formazione professionale, la Confederazione può agire in proprio in questi settori.
+
+<sup>3</sup> Nel caso di progetti pilota, il Consiglio federale può, se necessario e d’intesa con i Cantoni e le organizzazioni interessate del mondo del lavoro, derogare temporaneamente alle disposizioni della presente legge.
+
+<sup>4</sup> La qualità e l’indipendenza della ricerca in formazione professionale devono essere garantite da istituzioni di ricerca qualificate.
+
+#### Art. 5
+
+**Informazione, documentazione e materiale didattico**
+
+La Confederazione promuove:
+
+- a. l’informazione e la documentazione, purché abbiano valenza nazionale o interessino tutta una regione linguistica;
+- b. l’allestimento di materiale didattico per le minoranze linguistiche.
+
+#### Art. 6
+
+**Comprensione e scambio fra le comunità linguistiche**
+
+<sup>1</sup> Nel settore della formazione professionale la Confederazione può promuovere provvedimenti per migliorare la comprensione e lo scambio fra le comunità linguistiche.
+
+<sup>2</sup>
+
+Essa può promuovere in particolare:
+
+- a. il plurilinguismo individuale, provvedendo in particolare alla diversità delle lingue di insegnamento come pure alla formazione a livello linguistico dei docenti;
+- b. gli scambi sostenuti dai Cantoni, dalle organizzazioni del mondo del lavoro e dalle imprese, di docenti e di allievi tra regioni linguistiche.
+
+#### Art. 7
+
+**Regioni e gruppi sfavoriti**
+
+La Confederazione può promuovere provvedimenti nel settore della formazione professionale a favore di regioni e gruppi sfavoriti.
+
+#### Art. 8
+
+**Sviluppo della qualità**
+
+<sup>1</sup> Gli operatori della formazione professionale assicurano lo sviluppo della qualità.
+
+<sup>2</sup> La Confederazione promuove lo sviluppo della qualità, stabilisce standard di qualità e ne sorveglia il rispetto.
+
+#### Art. 9
+
+**Promozione della permeabilità**
+
+<sup>1</sup> Le prescrizioni relative alla formazione professionale assicurano la migliore permeabilità possibile sia nell’ambito della formazione professionale sia fra quest’ultima e gli altri settori del sistema educativo.
+
+<sup>2</sup> Le esperienze professionali o extraprofessionali e la formazione specialistica o generale acquisite al di fuori degli usuali cicli di formazione sono adeguatamente riconosciute.
+
+#### Art. 10
+
+**Diritti di partecipazione delle persone in formazione**
+
+Gli operatori della formazione professionale pratica e della formazione scolastica concedono alle persone in formazione un adeguato diritto di essere consultate.
+
+#### Art. 11
+
+**Operatori privati**
+
+<sup>1</sup> Gli operatori privati sul mercato della formazione professionale non devono subire distorsioni ingiustificate della concorrenza a causa di misure prese in applicazione della presente legge.
+
+<sup>2</sup> Gli operatori del settore pubblico che agiscono in concorrenza con operatori non sussidiati del settore privato devono applicare prezzi di mercato alle loro offerte di formazione professionale continua.
+
+## Capitolo 2: Formazione professionale di base
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 12
+
+**Preparazione alla formazione professionale di base**
+
+I Cantoni adottano provvedimenti per preparare alla formazione professionale di base le persone che denotano lacune nella loro formazione alla fine della scuola dell’obbligo.
+
+#### Art. 13
+
+**Squilibri sul mercato della formazione professionale di base**
+
+Il Consiglio federale può adottare, nel limite dei mezzi disponibili, provvedimenti temporanei per rimediare agli squilibri esistenti o incombenti sul mercato della formazione professionale di base.
+
+#### Art. 14
+
+**Contratto di tirocinio**
+
+<sup>1</sup> Le persone in formazione e gli operatori della formazione professionale pratica stipulano un contratto di tirocinio. Esso è retto dalle disposizioni del Codice delle obbligazioni[^14-1] sul contratto di tirocinio (art. 344 a 346*a*), sempreché la presente legge non disponga altrimenti.
+
+<sup>2</sup> Inizialmente, il contratto di tirocinio è concluso per l’intera durata della formazione professionale di base. Può essere stipulato per ciascuna delle parti della formazione se quest’ultima si svolge successivamente in diverse aziende.
+
+<sup>3</sup> Il contratto di tirocinio deve essere approvato dalle competenti autorità cantonali. Per tale approvazione non può essere riscossa alcuna tassa.
+
+<sup>4</sup> Se il contratto di tirocinio è disdetto, l’operatore della formazione deve informarne immediatamente l’autorità cantonale e, se del caso, la scuola professionale di base.
+
+<sup>5</sup> Se l’azienda cessa l’attività o se non garantisce più la formazione professionale di base conformemente alle disposizioni legislative, le autorità cantonali provvedono per quanto possibile affinché la formazione di base iniziata possa essere portata regolarmente a termine.
+
+<sup>6</sup> Le disposizioni della presente legge sono applicabili al rapporto di tirocinio anche se le parti omettono di concludere un contratto o se il contratto non è sottoposto all’approvazione o vi è sottoposto tardivamente.
+
+[^14-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Sezione 2: Struttura
+
+#### Art. 15
+
+**Oggetto**
+
+<sup>1</sup> La formazione professionale di base serve alla trasmissione e all’acquisizione delle capacità, delle conoscenze e della perizia (di seguito qualifiche) necessarie all’esercizio di un’attività in una professione o in un campo professionale o d’attività (di seguito attività professionale).
+
+<sup>2</sup>
+
+Essa comprende in particolare la trasmissione e acquisizione:
+
+- a. delle qualifiche professionali specifiche che consentano di esercitare in modo competente e sicuro un’attività professionale;
+- a. della cultura generale di base che consenta di accedere al mondo del lavoro, di affermarvisi e di integrarsi nella società;
+- b. delle conoscenze e delle competenze economiche, ecologiche, sociali e culturali che consentano di contribuire a uno sviluppo sostenibile;
+- d. dell’attitudine e della disponibilità ad apprendere vita natural durante e a valutare e decidere autonomamente.
+
+<sup>3</sup> La formazione professionale di base fa seguito alla scuola dell’obbligo o a una qualifica equivalente. Il Consiglio federale stabilisce i criteri secondo i quali fissare l’età minima per il suo inizio.
+
+<sup>4</sup> Le ordinanze in materia di formazione stabiliscono le modalità dell’insegnamento obbligatorio in una seconda lingua.
+
+<sup>5</sup> L’insegnamento dell’educazione fisica è disciplinato dalla legge del 17 giugno 2011[^15-1] sulla promozione dello sport.[^15-2]
+
+[^15-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^15-2]: Nuovo testo giusta dall’art. 34 n. 3 della L del 17 giu. 2011 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+
+#### Art. 16
+
+**Contenuti, luoghi di insegnamento, responsabilità**
+
+<sup>1</sup>
+
+La formazione professionale di base comprende:
+
+- a. una formazione professionale pratica;
+- b. una formazione scolastica in cultura generale e in conoscenze professionali;
+- c. complementi alla formazione professionale pratica e alla formazione scolastica, ove lo esiga l’apprendimento dell’attività professionale.
+
+<sup>2</sup>
+
+La formazione professionale di base si svolge di regola nei seguenti luoghi di formazione:
+
+- a. nell’azienda di tirocinio, in una rete di aziende di tirocinio, in scuole d’arti e mestieri, in scuole medie di commercio o in altre istituzioni riconosciute a tale scopo, per quanto concerne la formazione professionale pratica;
+- b. in una scuola professionale di base per quanto concerne la formazione in cultura generale e in conoscenze professionali;
+- c. in corsi interaziendali e in altri luoghi di insegnamento paragonabili per quanto concerne i complementi alla formazione professionale pratica e alla formazione scolastica.
+
+<sup>3</sup> Le varie parti della formazione di cui al capoverso 1, la loro struttura organizzativa e la loro ripartizione temporale sono stabilite nella corrispondente ordinanza sulla formazione professionale in funzione delle esigenze dell’attività professionale.
+
+<sup>4</sup> La responsabilità nei confronti della persona in formazione è stabilita in funzione del contratto di tirocinio. In assenza di un contratto di tirocinio, è stabilita di regola in funzione del luogo di formazione.
+
+<sup>5</sup> Per raggiungere gli obiettivi della formazione professionale di base, gli operatori della formazione professionale pratica e della formazione scolastica nonché della formazione interaziendale collaborano tra di loro.
+
+#### Art. 17
+
+**Tipi di formazione e durata**
+
+<sup>1</sup> La formazione professionale di base dura da due a quattro anni.
+
+<sup>2</sup> La formazione professionale di base su due anni termina di massima con un esame e porta al conseguimento del certificato federale di formazione pratica. È strutturata in modo tale che le offerte tengano particolarmente conto delle necessità individuali delle persone in formazione.
+
+<sup>3</sup> La formazione professionale di base su tre o quattro anni termina di massima con un esame di fine tirocinio e porta al conseguimento dell’attestato federale di capacità.
+
+<sup>4</sup> L’attestato federale di capacità, unitamente a una formazione generale approfondita, porta alla maturità professionale.
+
+<sup>5</sup> La formazione professionale di base può essere acquisita anche mediante una formazione professionale non formalizzata; questa termina con una procedura di qualificazione.
+
+#### Art. 18
+
+**Considerazione di bisogni individuali**
+
+<sup>1</sup> Per persone particolarmente capaci o con una formazione preliminare nonché per persone con difficoltà di apprendimento o con un handicap, la durata della formazione professionale di base può essere adeguatamente abbreviata o prolungata.
+
+<sup>2</sup> Il Consiglio federale emana disposizioni particolari sul sostegno individuale speciale delle persone con difficoltà d’apprendimento nella formazione professionale di base su due anni.
+
+<sup>3</sup> La Confederazione può promuovere il sostegno individuale speciale.
+
+#### Art. 19
+
+**Ordinanze in materia di formazione**
+
+<sup>1</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^19-1] emana ordinanze in materia di formazione professionale di base. Le emana su richiesta delle organizzazioni del mondo del lavoro oppure, se necessario, di propria iniziativa.
+
+<sup>2</sup>
+
+Le ordinanze in materia di formazione disciplinano in particolare:
+
+- a. il contenuto e la durata della formazione di base;
+- b. gli obiettivi e le esigenze della formazione professionale pratica;
+- c. gli obiettivi e le esigenze della formazione scolastica;
+- d. l’ampiezza dei contenuti e le parti assunte dai luoghi di formazione;
+- e. le procedure di qualificazione, gli attestati, i certificati e i titoli.
+
+<sup>3</sup> Le procedure di qualificazione delle formazioni non formalizzate si improntano alle corrispondenti ordinanze in materia di formazione.
+
+<sup>4</sup> ...[^19-2]
+
+[^19-1]: Nuova espr. giusta il n. I 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19-2]: Introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Abrogato dal n. 4 dell’all. alla LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+### Sezione 3: Operatori
+
+#### Art. 20
+
+**Operatori della formazione professionale pratica**
+
+<sup>1</sup> Gli operatori della formazione professionale pratica si adoperano affinché le persone in formazione ottengano i massimi risultati d’apprendimento possibili e lo verificano periodicamente.
+
+<sup>2</sup> Necessitano di un’autorizzazione cantonale per formare apprendisti; in merito il Cantone non può prelevare alcuna tassa.
+
+#### Art. 21
+
+**Scuola professionale di base**
+
+<sup>1</sup> La scuola professionale di base dispensa la formazione scolastica. Questa contempla un insegnamento di conoscenze professionali e cultura generale.
+
+<sup>2</sup>
+
+La scuola professionale di base ha un mandato di formazione proprio; essa:
+
+- a. promuove lo sviluppo della personalità e delle competenze sociali delle persone in formazione dispensando loro le basi teoriche per l’esercizio della professione e una cultura generale;
+- b. tiene conto delle differenti doti e, mediante offerte speciali, delle esigenze di persone particolarmente capaci e di persone con difficoltà di apprendimento;
+- c. promuove la parità effettiva fra donna e uomo nonché l’eliminazione di svantaggi nei confronti dei disabili mediante offerte e tipi di formazione adeguati.
+
+<sup>3</sup> La frequentazione della scuola professionale di base è obbligatoria.
+
+<sup>4</sup> La scuola professionale di base può anche proporre offerte nell’ambito della formazione professionale superiore e della formazione professionale continua.
+
+<sup>5</sup> In collaborazione con le organizzazioni del mondo del lavoro e con le aziende, la scuola professionale di base può partecipare ai corsi interaziendali e ad altri corsi di formazione equivalenti organizzati fuori sede.
+
+<sup>6</sup> Essa può assumere compiti di coordinamento per promuovere la collaborazione degli attori della formazione professionale.
+
+#### Art. 22
+
+**Offerta di scuole professionali di base**
+
+<sup>1</sup> I Cantoni nei quali si svolge la formazione professionale pratica provvedono a un’offerta di scuole professionali di base adeguata alle necessità.
+
+<sup>2</sup> L’insegnamento obbligatorio è gratuito.
+
+<sup>3</sup> La persona che nell’azienda di tirocinio e nella scuola professionale di base soddisfa i presupposti può frequentare corsi facoltativi senza deduzione salariale. La frequenza di questi corsi è decisa d’intesa con l’azienda. In caso di disaccordo decide il Cantone.
+
+<sup>4</sup> Se una persona in formazione ha bisogno di corsi di ricupero per portare debitamente a termine la scuola professionale di base, quest’ultima può, d’intesa con l’azienda e con la persona in formazione, ordinarne la frequentazione. In caso di disaccordo decide il Cantone. La frequentazione dei corsi non comporta alcuna deduzione salariale.
+
+<sup>5</sup> Su proposta delle associazioni professionali, la SEFRI autorizza[^22-1] lo svolgimento di corsi specializzati intercantonali se consentono un migliore raggiungimento dell’obiettivo di formazione, di influenzare favorevolmente la disponibilità delle aziende di tirocinio, non generano costi eccessivi e non provocano gravi pregiudizi ai partecipanti.
+
+[^22-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+#### Art. 23
+
+**Corsi interaziendali e corsi di formazione equivalenti organizzati fuori sede**
+
+<sup>1</sup> I corsi interaziendali e i corsi di formazione equivalenti organizzati fuori sede servono a trasmettere e ad acquisire le competenze di base. Completano la formazione professionale pratica e la formazione scolastica, se la futura attività professionale lo esige.
+
+<sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro, i Cantoni provvedono affinché l’offerta di corsi interaziendali e di corsi di formazione equivalenti organizzati fuori sede sia sufficiente.
+
+<sup>3</sup> La frequentazione dei corsi è obbligatoria. Su domanda dell’operatore della formazione professionale pratica, i Cantoni possono esentare le persone in formazione dalla frequentazione dei corsi se i contenuti della formazione sono dispensati in un centro di formazione aziendale o in una scuola d’arti e mestieri.
+
+<sup>4</sup> Coloro che tengono corsi interaziendali o propongono offerte equivalenti possono esigere dalle aziende di tirocinio o dalle istituzioni di formazione un’adeguata partecipazione alle spese. Per evitare distorsioni della concorrenza, le organizzazioni del mondo del lavoro che tengono tali corsi o offerte possono esigere dalle aziende non affiliate una maggiore partecipazione alle spese.
+
+<sup>5</sup> Il Consiglio federale stabilisce le condizioni e l’ampiezza della partecipazione alle spese.
+
+### Sezione 4: Vigilanza
+
+#### Art. 24
+
+<sup>1</sup> I Cantoni provvedono alla vigilanza sulla formazione professionale di base.
+
+<sup>2</sup> La vigilanza contempla la consulenza e il sostegno alle parti che hanno stipulato il contratto di tirocinio e il coordinamento fra i partecipanti alla formazione professionale di base.
+
+<sup>3</sup>
+
+Sono inoltre oggetto di vigilanza in particolare:
+
+- a. la qualità della formazione professionale pratica, compresa quella impartita nei corsi interaziendali e nei corsi di formazione equivalenti organizzati fuori sede;
+- b. la qualità della formazione scolastica;
+- c. gli esami e altre procedure di qualificazione;
+- d. il rispetto delle disposizioni legali nel contratto di tirocinio;
+- e. il rispetto del contratto di tirocinio da parte dei contraenti.
+
+<sup>4</sup>
+
+Su proposta comune degli operatori della formazione professionale e delle persone in formazione, il Cantone decide:
+
+- a. l’equivalenza delle formazioni professionali non formalizzate secondo l’articolo 17 capoverso 5;
+- b. i casi secondo l’articolo 18 capoverso 1.
+
+<sup>5</sup>
+
+Nel quadro della vigilanza da essi esercitata, i Cantoni possono in particolare:
+
+- a. farsi restituire interamente o parzialmente i contributi trasmessi in virtù dell’articolo 52 capoverso 2 secondo periodo;
+- b. annullare un contratto di tirocinio.
+
+### Sezione 5: Maturità professionale federale
+
+#### Art. 25
+
+<sup>1</sup> La maturità professionale federale pone le premesse per studiare in una scuola universitaria professionale.
+
+<sup>2</sup> La formazione generale approfondita di cui all’articolo 17 capoverso 4 può anche essere acquisita dopo l’ottenimento dell’attestato federale di capacità.
+
+<sup>3</sup> I Cantoni provvedono affinché l’offerta nell’ambito dell’insegnamento per l’ottenimento della maturità professionale soddisfi la domanda.
+
+<sup>4</sup> L’insegnamento per l’ottenimento della maturità professionale dispensato nelle scuole pubbliche è gratuito. La Confederazione e i Cantoni possono sostenere gli operatori privati.
+
+<sup>5</sup> Il Consiglio federale disciplina la maturità.
+
+## Capitolo 3: Formazione professionale superiore
+
+#### Art. 26
+
+**Oggetto**
+
+<sup>1</sup> La formazione professionale superiore serve a conferire e ad acquisire, a tale livello, le qualifiche necessarie all’esercizio di un’attività professionale più complessa o implicante elevate responsabilità.
+
+<sup>2</sup> Presuppone il conseguimento di un attestato federale di capacità, una formazione scolastica superiore di cultura generale o una qualifica equivalente.
+
+#### Art. 27
+
+**Modalità della formazione professionale superiore**
+
+La formazione professionale superiore viene acquisita mediante:
+
+- a. un esame federale di professione o un esame professionale federale superiore;
+- b. una formazione riconosciuta dalla Confederazione presso una scuola specializzata superiore.
+
+#### Art. 28
+
+**Esami federali di professione ed esami professionali federali superiori**
+
+<sup>1</sup> Gli esami federali di professione e gli esami professionali federali superiori presuppongono un’esperienza professionale e conoscenze specifiche nel settore interessato.
+
+<sup>2</sup> Le organizzazioni competenti del mondo del lavoro disciplinano le condizioni di ammissione, il programma d’insegnamento, le procedure di qualificazione, i certificati e i titoli. In tal senso tengono conto dei successivi cicli di formazione. Le prescrizioni devono essere approvate dalla SEFRI. Sono pubblicate nel Foglio federale mediante rimando secondo l’articolo 13 capoversi 1 lettera g e 3 della legge del 18 giugno 2004[^28-1] sulle pubblicazioni ufficiali.[^28-2]
+
+<sup>3</sup> Il Consiglio federale disciplina i presupposti e la procedura d’approvazione.
+
+<sup>4</sup> I Cantoni possono proporre corsi preparatori.
+
+[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^28-2]: Per. introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2005 ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+
+#### Art. 29
+
+**Scuole specializzate superiori**
+
+<sup>1</sup> L’ammissione a una formazione riconosciuta dalla Confederazione e dispensata da una scuola specializzata superiore presuppone un’esperienza professionale nel settore interessato, sempreché tale esperienza non sia integrata nel ciclo di formazione.
+
+<sup>2</sup> Inclusi i periodi di pratica, la formazione a tempo pieno dura almeno due anni; quella acquisita parallelamente all’esercizio di un’attività professionale, almeno tre.
+
+<sup>3</sup> In collaborazione con le organizzazioni competenti, il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^29-1] stabilisce le esigenze minime per il riconoscimento federale dei cicli di formazione e della formazione postdiploma[^29-2] dispensati da scuole specializzate superiori. Esse riguardano le condizioni d’ammissione, il programma d’insegnamento, le procedure di qualificazione, i certificati e i titoli.
+
+<sup>4</sup> I Cantoni stessi possono proporre cicli di formazione.
+
+<sup>5</sup> Esercitano la vigilanza sulle scuole specializzate superiori, sempreché esse propongano cicli di formazione riconosciuti dalla Confederazione.
+
+[^29-1]: Nuova espr. giusta il n. I 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^29-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+## Capitolo 4: Formazione professionale continua
+
+#### Art. 30
+
+**Oggetto**
+
+Mediante un apprendimento organizzato, la formazione professionale continua serve a:
+
+- a. rinnovare, approfondire e ampliare le qualifiche professionali oppure ad acquisirne di nuove;
+- b. favorire la flessibilità professionale.
+
+#### Art. 31
+
+**Offerta di corsi di formazione professionale continua**
+
+I Cantoni provvedono affinché l’offerta di corsi di formazione professionale continua sia conforme alle necessità.
+
+#### Art. 32
+
+**Provvedimenti della Confederazione**
+
+<sup>1</sup> La Confederazione promuove la formazione professionale continua.
+
+<sup>2</sup>
+
+Promuove in particolare l’offerta volta a:
+
+- a. permettere la permanenza nella vita attiva delle persone interessate da ristrutturazioni in ambito professionale;
+- b. favorire il reinserimento di persone che hanno ridotto o cessato temporaneamente l’attività professionale.
+
+<sup>3</sup> Sostiene inoltre provvedimenti che promuovono il coordinamento, la trasparenza e la qualità dell’offerta di formazione continua.
+
+<sup>4</sup> Le offerte di formazione professionale continua promosse dalla Confederazione devono essere coordinate con i provvedimenti inerenti al mercato del lavoro conformemente alla legge del 25 giugno 1982[^32-1] sull’assicurazione contro la disoccupazione.
+
+[^32-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+## Capitolo 5: Procedure di qualificazione, attestati, certificati e titoli
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 33
+
+**Esami e altre procedure di qualificazione**
+
+Le qualifiche professionali sono provate mediante un esame complessivo, un insieme di esami parziali o altre procedure di qualificazione riconosciute dalla SEFRI.
+
+#### Art. 34
+
+**Esigenze relative alle procedure di qualificazione**
+
+<sup>1</sup> Il Consiglio federale disciplina le esigenze relative alle procedure di qualificazione. Garantisce la qualità e la comparabilità delle procedure di qualificazione. I criteri di valutazione utilizzati nelle procedure di qualificazione devono essere oggettivi e trasparenti e garantire pari opportunità.
+
+<sup>2</sup> L’ammissione alle procedure di qualificazione non è vincolata alla frequentazione di cicli di formazione determinati. La SEFRI disciplina le condizioni di ammissione.
+
+#### Art. 35
+
+**Promozione di altre procedure di qualificazione**
+
+La Confederazione può sostenere organizzazioni che sviluppano oppure offrono altre procedure di qualificazione.
+
+#### Art. 36
+
+**Protezione dei titoli**
+
+Unicamente i titolari di un diploma di formazione professionale di base e di formazione professionale superiore sono autorizzati a utilizzare i titoli sanciti dalle corrispondenti prescrizioni.
+
+### Sezione 2: Formazione professionale di base
+
+#### Art. 37
+
+**Certificato federale di formazione pratica**
+
+<sup>1</sup> Riceve il certificato federale di formazione pratica chi ha terminato la formazione di base su due anni superando il relativo esame o ha seguito con successo una procedura di qualificazione equivalente.
+
+<sup>2</sup> Il certificato federale di formazione pratica è rilasciato dall’autorità cantonale.
+
+#### Art. 38
+
+**Attestato federale di capacità**
+
+<sup>1</sup> Riceve l’attestato federale di capacità chi ha superato l’esame finale di tirocinio o ha seguito con successo una procedura di qualificazione equivalente.
+
+<sup>2</sup> L’attestato federale di capacità è rilasciato dall’autorità cantonale.
+
+#### Art. 39
+
+**Attestato federale di maturità professionale**
+
+<sup>1</sup> Riceve l’attestato federale di maturità professionale chi è titolare dell’attestato federale di capacità e ha superato l’esame di maturità professionale riconosciuto dalla Confederazione o ha seguito con successo una procedura di qualificazione equivalente.
+
+<sup>2</sup> ...[^39-1]
+
+<sup>3</sup> I Cantoni provvedono allo svolgimento degli esami di maturità professionale e rilasciano gli attestati. A titolo complementare anche la Confederazione può organizzare tali esami.
+
+[^39-1]: Abrogato dal n. II 2 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+
+#### Art. 40
+
+**Esecuzione delle procedure di qualificazione**
+
+<sup>1</sup> I Cantoni provvedono all’esecuzione delle procedure di qualificazione.
+
+<sup>2</sup> La SEFRI può incaricare le organizzazioni del mondo del lavoro che ne fanno domanda di effettuare le procedure di qualificazione per determinate regioni del Paese oppure per tutta la Svizzera.
+
+#### Art. 41
+
+**Tasse**
+
+<sup>1</sup> Per gli esami in vista dell’ottenimento dell’attestato federale di capacità, del certificato federale di formazione pratica e dell’attestato federale di maturità professionale ai candidati e agli operatori della formazione professionale pratica non può essere imposta alcuna tassa.
+
+<sup>2</sup> Una tassa può essere imposta ai candidati che, senza un valido motivo, non si presentano all’esame o si ritirano da quest’ultimo, nonché per la ripetizione dell’esame.
+
+### Sezione 3: Formazione professionale superiore
+
+#### Art. 42
+
+**Esame federale di professione ed esame professionale federale superiore**
+
+<sup>1</sup> L’esame federale di professione e l’esame professionale federale superiore sono retti dalle relative prescrizioni (art. 28 cpv. 2).
+
+<sup>2</sup> La Confederazione provvede alla vigilanza sugli esami.
+
+#### Art. 43
+
+**Attestato professionale e diploma; iscrizione nel registro**
+
+<sup>1</sup> Chi ha superato l’esame federale di professione riceve un attestato professionale. Chi ha superato l’esame professionale federale superiore riceve un diploma.
+
+<sup>2</sup> L’attestato professionale e il diploma sono rilasciati dalla SEFRI.
+
+<sup>3</sup> La SEFRI tiene un registro pubblico con i nomi dei titolari degli attestati professionali e dei diplomi.
+
+#### Art. 44
+
+**Scuole specializzate superiori**
+
+<sup>1</sup> Chi ha superato l’esame o ha seguito con successo una procedura di qualificazione equivalente di una scuola specializzata superiore riceve un diploma rilasciato dalla scuola.
+
+<sup>2</sup> La procedura d’esame e la procedura di qualificazione equivalente devono soddisfare le esigenze minime di cui all’articolo 29 capoverso 3.
+
+## Capitolo 6: Formazione dei responsabili della formazione professionale
+
+#### Art. 45
+
+**Requisiti richiesti ai formatori**
+
+<sup>1</sup> È formatore chi dispensa la formazione professionale pratica nel quadro della formazione professionale di base.
+
+<sup>2</sup> I formatori dispongono di una formazione specifica qualificata e di capacità pedagogiche, metodologiche e didattiche adeguate.
+
+<sup>3</sup> Il Consiglio federale stabilisce i requisiti minimi di formazione dei formatori.
+
+<sup>4</sup> I Cantoni provvedono alla formazione dei formatori.
+
+#### Art. 46
+
+**Requisiti richiesti ai docenti**
+
+<sup>1</sup> I docenti attivi nella formazione professionale di base, nella formazione professionale superiore e nella formazione professionale continua dispongono di una formazione specifica qualificata, pedagogica, metodologica e didattica.
+
+<sup>2</sup> Il Consiglio federale stabilisce i requisiti minimi di formazione dei docenti.
+
+#### Art. 47
+
+**Altri responsabili della formazione professionale**
+
+La Confederazione può proporre corsi di formazione agli altri responsabili della formazione professionale, quali i periti d’esame e altre persone attive nella formazione professionale.
+
+#### Art. 48
+
+**Promozione della pedagogia per la formazione professionale; Istituto universitario federale per la formazione professionale (Istituto)[^48-1]**
+
+<sup>1</sup> La Confederazione promuove la pedagogia per la formazione professionale.
+
+<sup>2</sup>
+
+A tale scopo gestisce un Istituto di formazione superiore incaricato:
+
+- a. della formazione e della formazione continua dei responsabili della formazione professionale, in particolare dei docenti qualora i Cantoni non ne abbiano la competenza;
+- b. della ricerca, di studi, di progetti pilota e della fornitura di servizi nel settore della formazione professionale e della formazione professionale continua.
+
+<sup>3</sup> Il Consiglio federale può affidare all’Istituto altri compiti di interesse nazionale.
+
+<sup>4</sup> Esso disciplina l’organizzazione dell’Istituto. Mediante un’adeguata suddivisione tiene conto delle esigenze dei Cantoni e delle regioni linguistiche.
+
+<sup>5</sup> I conti, il preventivo e la pianificazione finanziaria dell’Istituto sottostanno alla legge federale del 6 ottobre 1989[^48-2] sulle finanze della Confederazione. In casi particolari il Consiglio federale può prevedere deroghe, sempreché i compiti dell’Istituto lo giustifichino.
+
+<sup>6</sup> Un emolumento può essere riscosso per offerte di formazione e prestazioni di servizi dell’Istituto. Il Consiglio federale emana le disposizioni d’esecuzione.
+
+<sup>7</sup> Per sostituire o completare l’Istituto, il Consiglio federale può creare unitamente ai Cantoni altri istituti corrispondenti o riconoscere quelli esistenti.
+
+<sup>8</sup> L’Istituto collabora con istituzioni di formazione adeguate.
+
+[^48-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^48-2]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327),[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+
+#### Art. 48a
+
+**Prestazioni commerciali**[^48a-1]
+
+<sup>1</sup>
+
+L’Istituto può fornire a terzi prestazioni commerciali se queste:
+
+- a. sono strettamente correlate ai compiti principali;
+- b. non pregiudicano l’adempimento dei compiti principali; e
+- c. non richiedono considerevoli risorse materiali o di personale supplementari.
+
+<sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il DEFR può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
+
+[^48a-1]: Introdotto dal n. 1 dell’all. della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+## Capitolo 7: Orientamento professionale, negli studi e nella carriera
+
+#### Art. 49
+
+**Principio**
+
+<sup>1</sup> L’orientamento professionale, negli studi e nella carriera ha lo scopo di sostenere i giovani e gli adulti nella scelta di un indirizzo professionale o di studio oppure nella pianificazione della carriera professionale.
+
+<sup>2</sup> Esso consiste in un servizio di informazione e in un servizio di orientamento personalizzato.
+
+#### Art. 50
+
+**Qualifiche dei consulenti**
+
+<sup>1</sup> I consulenti in orientamento professionale, studi e carriera devono aver seguito una formazione specifica riconosciuta dalla Confederazione.
+
+<sup>2</sup> Il Consiglio federale stabilisce le esigenze minime per il riconoscimento dei cicli di formazione.
+
+#### Art. 51
+
+**Compiti dei Cantoni**
+
+<sup>1</sup> I Cantoni provvedono a offrire un ampio servizio d’orientamento professionale, negli studi e nella carriera. L’offerta di base è in genere gratuita.
+
+<sup>2</sup> Essi provvedono a coordinare l’orientamento professionale, negli studi e nella carriera con le misure del mercato del lavoro conformemente alla legge del 25 giugno 1982[^51-1] sull’assicurazione contro la disoccupazione.
+
+[^51-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+## Capitolo 8: Partecipazione della Confederazione alle spese per la formazione professionale; fondi per la formazione professionale
+
+### Sezione 1: Partecipazione della Confederazione alle spese per la formazione professionale
+
+#### Art. 52
+
+**Principio**
+
+<sup>1</sup> Nei limiti dei crediti concessi, la Confederazione partecipa adeguatamente alle spese per la formazione professionale conformemente alla presente legge.
+
+<sup>2</sup> Per finanziare i compiti di cui all’articolo 53, versa ai Cantoni soprattutto contributi forfettari differenziati a seconda dei tipi di formazione di cui all’articolo 17 capoversi 1 a 3. I Cantoni trasferiscono questi importi a terzi in proporzione ai compiti affidati loro.
+
+<sup>3</sup>
+
+La Confederazione versa il resto della sua partecipazione a:
+
+- a. Cantoni e terzi per finanziare progetti di sviluppo della formazione professionale e di sviluppo della qualità (art. 54);
+- b. Cantoni e terzi per prestazioni speciali di interesse pubblico (art. 55);
+- c. terzi per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori nonché per cicli di formazione nelle scuole specializzate superiori (art. 56):
+- d.[^52-1] persone che hanno seguito i corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori (art. 56*a*).
+
+[^52-1]: Introdotta dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 53
+
+**Contributi forfettari ai Cantoni**
+
+<sup>1</sup> I contributi forfettari versati ai Cantoni sono calcolati principalmente in base al numero di persone che seguono una formazione professionale di base. Tengono inoltre adeguatamente conto dell’ampiezza e del genere della formazione di base, nonché dell’offerta di formazione professionale superiore. Il Consiglio federale può considerare altri criteri.[^53-1]
+
+<sup>2</sup>
+
+I contributi forfettari sono versati per i compiti seguenti:
+
+- a.
+
+  l’offerta di:
+
+  - 1\. sostegno individuale speciale delle persone in formazione professionale di base su due anni (art. 18 cpv. 3),
+  - 2\. provvedimenti per preparare alla formazione professionale di base (art. 12 cpv. 1),
+  - 3\. scuole professionali di base (art. 21),
+  - 4\. corsi interaziendali e corsi di formazione equivalenti organizzati fuori sede (art. 23 cpv. 1),
+  - 5\. formazione generale approfondita in preparazione alla maturità professionale federale (art. 25),
+  - 6\. corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori (art. 28),
+  - 7\. cicli di formazione in scuole specializzate superiori (art. 29),
+  - 8\. formazione professionale continua (art. 30 a 32),
+  - 9\. corsi di formazione per formatori (art. 45),
+  - 10\. qualifica dei consulenti in orientamento professionale, negli studi e nella carriera (art. 50).
+
+- b. lo svolgimento di esami e altre procedure di qualificazione (art. 40 cpv. 1), fatto salvo l’articolo 52 capoverso 3 lettera c.
+
+[^53-1]: Nuovo testo giusta il n. II 4 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 54
+
+**Contributi per progetti di sviluppo della formazione professionale e della qualità**
+
+I contributi per progetti di sviluppo della formazione professionale conformemente all’articolo 4 capoverso 1 e i contributi per progetti di sviluppo della qualità conformemente all’articolo 8 capoverso 2 sono limitati nel tempo.
+
+#### Art. 55
+
+**Contributi per prestazioni particolari di interesse pubblico**
+
+<sup>1</sup>
+
+Per prestazioni particolari di interesse pubblico s’intendono segnatamente:
+
+- a. i provvedimenti volti all’attuazione di una parità effettiva tra uomo e donna e i provvedimenti di promozione della formazione e della formazione professionale continua dei disabili (art. 3 lett. c);
+- b. l’informazione e la documentazione (art. 5 lett. a);
+- c. l’allestimento di materiale didattico per minoranze linguistiche (art. 5 lett. b);
+- d. provvedimenti per migliorare la comprensione e gli scambi fra le comunità linguistiche (art. 6);
+- e. provvedimenti a favore di regioni e gruppi sfavoriti (art. 7);
+- f. provvedimenti per integrare nella formazione professionale i giovani con difficoltà scolastiche, sociali o linguistiche (art. 7);
+- g. provvedimenti per promuovere la permanenza nella vita attiva e il reinserimento professionale (art. 32 cpv. 2);
+- h. provvedimenti per promuovere il coordinamento, la trasparenza e la qualità dell’offerta di formazione continua (art. 32 cpv. 3);
+- i. promozione di altre procedure di qualificazione (art. 35);
+- j. provvedimenti volti a garantire e ampliare l’offerta di posti di tirocinio (art. 1 cpv. 1).
+
+<sup>2</sup> I contributi a favore di prestazioni d’interesse pubblico sono concessi unicamente per prestazioni a lungo termine che non potrebbero essere fornite senza incentivi speciali.
+
+<sup>3</sup> Il Consiglio federale può prevedere altre prestazioni d’interesse pubblico per le quali possono essere concessi contributi.
+
+<sup>4</sup> Stabilisce i criteri per la concessione dei contributi.
+
+#### Art. 56
+
+**Contributi per esami federali di professione ed esami professionali federali**
+
+La Confederazione può concedere contributi per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori, nonché per i cicli di formazione nelle scuole specializzate superiori offerti da organizzazioni del mondo del lavoro.
+
+#### Art. 56a
+
+**Contributi alle persone che hanno seguito i corsi di preparazione**[^56a-1]
+
+<sup>1</sup> La Confederazione può versare contributi alle persone che hanno seguito i corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori (art. 28).
+
+<sup>2</sup> I contributi coprono al massimo il 50 per cento dei costi computabili dei corsi.
+
+<sup>3</sup> Il Consiglio federale stabilisce le condizioni per il diritto ai contributi, il tasso di contribuzione e i costi computabili dei corsi.
+
+<sup>4</sup> Alle persone che frequentano corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori la Confederazione può accordare contributi parziali su domanda. Il Consiglio federale disciplina i dettagli.
+
+[^56a-1]: Introdotto dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+#### Art. 56b
+
+**Sistema d’informazione**[^56b-1]
+
+<sup>1</sup> La SEFRI gestisce un sistema d’informazione per controllare il versamento dei contributi di cui all’articolo 56*a* nonché per elaborare e valutare le relative statistiche.
+
+<sup>2</sup>
+
+Nel sistema d’informazione la SEFRI tratta i dati seguenti:
+
+- a. informazioni per l’identificazione dei beneficiari dei contribuiti di cui all’articolo 56*a* capoversi 1 e 4;
+- b. informazioni per l’identificazione delle persone che hanno sostenuto gli esami federali di professione e gli esami professionali federali superiori di cui all’articolo 28;
+- c. numero di assicurato delle persone di cui alle lettere a e b secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^56b-2] sull’assicurazione per la vecchiaia e per i superstiti;
+- d. informazioni sui contribuiti ricevuti secondo l’articolo 56*a* capoversi 1 e 4;
+- e. informazioni sui corsi di preparazione seguiti;
+- f. informazioni sugli esami federali di professione e sugli esami professionali federali superiori sostenuti.
+
+<sup>3</sup> Il Consiglio federale emana disposizioni sull’organizzazione e sulla gestione del sistema d’informazione, nonché su sicurezza, durata di conservazione e cancellazione dei dati.
+
+<sup>4</sup> Può affidare a terzi la gestione del sistema d’informazione e il trattamento dei dati.
+
+[^56b-1]: Introdotto dal n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^56b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 57
+
+**Condizioni e oneri**
+
+<sup>1</sup>
+
+I contributi di cui agli articoli 53 a 56 sono assegnati unicamente se il progetto da sussidiare:
+
+- a. risponde a una necessità;
+- b. risponde organizzativamente allo scopo;
+- c. include sufficienti provvedimenti che assicurino lo sviluppo della qualità.
+
+<sup>2</sup> Il Consiglio federale può prevedere altri oneri e altre condizioni. Disciplina il calcolo dei contributi.
+
+#### Art. 58
+
+**Riduzione e rifiuto dei contributi**
+
+La Confederazione riduce i contributi già assegnati o rifiuta nuovi contributi qualora il beneficiario trascuri o leda in modo grave i propri compiti e obblighi previsti nella presente legge.
+
+#### Art. 59
+
+**Finanziamento e partecipazione della Confederazione**[^59-1]
+
+<sup>1</sup>
+
+Mediante decreto federale semplice, l’Assemblea federale approva di volta in volta per un periodo pluriennale di sovvenzionamento:
+
+- a.
+
+  il limite di spesa per:
+
+  - 1\. i contributi forfettari ai Cantoni secondo l’articolo 53,
+  - 2\. i contributi di cui all’articolo 56 per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori nonché per i cicli di formazione nelle scuole specializzate superiori,
+  - 3\. i contributi di cui all’articolo 56*a* alle persone che hanno seguito i corsi di preparazione;
+
+- b.
+
+  il credito d’impegno per:
+
+  - 1\. i contributi di cui all’articolo 54 per progetti di sviluppo della formazione professionale e di sviluppo della qualità,
+  - 2\. i contributi di cui all’articolo 55 per prestazioni particolari di interesse pubblico.
+
+<sup>2</sup> Un quarto delle spese dell’ente pubblico per la formazione professionale conformemente alla presente legge rappresenta il valore indicativo per la partecipazione alle spese da parte della Confederazione. La Confederazione versa un importo pari al massimo al 10 per cento di questa partecipazione come contributo per progetti e prestazioni secondo gli articoli 54 e 55.
+
+[^59-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+
+### Sezione 2: Fondo per la formazione professionale
+
+#### Art. 60
+
+<sup>1</sup> Per promuovere la formazione professionale, le organizzazioni del mondo del lavoro competenti in materia di formazione, di formazione continua e di esami, possono istituire e alimentare propri fondi a favore della formazione professionale.
+
+<sup>2</sup> Le organizzazioni delineano l’obiettivo di promozione del loro fondo a favore della formazione professionale. Esse devono segnatamente sostenere le aziende del loro ramo nella formazione specifica al settore professionale.[^60-1]
+
+<sup>3</sup> Su richiesta dell’organizzazione competente, il Consiglio federale può dichiarare obbligatoria la partecipazione a un fondo a favore della formazione professionale per le tutte le aziende del ramo e obbligare queste ultime a versare contributi di formazione. Le disposizioni della legge federale del 28 settembre 1956[^60-2] concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro si applicano per analogia.
+
+<sup>4</sup>
+
+Il Consiglio federale può procedere in questo senso a condizione che:
+
+- a. almeno il 30 per cento delle imprese che totalizzano almeno 30 per cento dei dipendenti e delle persone in formazione del ramo partecipino già finanziariamente al fondo;
+- b. l’organizzazione disponga della propria istituzione di formazione;
+- c. i contributi siano prelevati unicamente per le professioni specifiche al ramo;
+- d. i contributi siano utilizzati per provvedimenti di formazione professionale proficui a tutte le aziende.
+
+<sup>5</sup> Il genere e l’importo dei contributi di formazione sono determinati in funzione dell’importo dei contributi versati dai membri dell’organizzazione corrispondente per coprire le spese della formazione professionale. Il Consiglio federale ne determina l’importo massimo; può differenziare il contributo massimo in funzione dei rami interessati.
+
+<sup>6</sup> Le aziende che partecipano già alla formazione professionale per il tramite di contributi versati a un’associazione, che alimentano un fondo a favore della formazione professionale o che possono fornire la prova della fornitura di adeguate prestazioni di formazione o di formazione continua, non possono essere obbligate a effettuare ulteriori versamenti a un fondo a favore della formazione professionale dichiarato di obbligatorietà generale.
+
+<sup>7</sup> La SEFRI esercita la vigilanza sui fondi dichiarati di obbligatorietà generale. L’ordinanza disciplina i dettagli della presentazione dei conti e della revisione.
+
+[^60-1]: Nuovo testo del per. giusta il n. 13 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+
+## Capitolo 9: Rimedi giuridici, disposizioni penali, esecuzione
+
+### Sezione 1: Rimedi giuridici
+
+#### Art. 61
+
+<sup>1</sup>
+
+Le autorità di ricorso sono:
+
+- a. l’autorità cantonale designata dal Cantone, per le decisioni di autorità cantonali e di operatori con mandato cantonale;
+- b.[^61-1] la SEFRI, per altre decisioni di organizzazioni estranee all’amministrazione federale;
+- c. e d. [^61-2] ...
+
+<sup>2</sup> Per il rimanente, la procedura è retta dalle disposizioni generali sulla procedura amministrativa federale.
+
+[^61-1]: Nuovo testo giusta il n. 35 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^61-2]: Abrogate dal n. 35 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### Sezione 2: Disposizioni penali
+
+#### Art. 62
+
+**Violazioni e omissioni**
+
+<sup>1</sup>
+
+È punito con la multa chi forma persone:
+
+- a. senza l’autorizzazione di cui all’articolo 20 capoverso 2;
+- b. senza aver concluso un contratto di tirocinio (art. 14).
+
+<sup>2</sup> Nei casi di colpa lieve, invece della multa può essere pronunciata un’ammonizione.
+
+#### Art. 63
+
+**Abuso di titoli**
+
+<sup>1</sup>
+
+È punito con la multa chi:
+
+- a. si attribuisce un titolo protetto senza aver superato i corrispondenti esami o senza aver seguito con successo una procedura di qualificazione equivalente;
+- b. utilizza un titolo atto a suscitare l’impressione che egli abbia superato l’esame corrispondente o seguito con successo una procedura di qualificazione equivalente.
+
+<sup>2</sup> Sono fatte salve le disposizioni penali della legge federale del 19 dicembre 1986[^63-1] contro la concorrenza sleale.
+
+[^63-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+
+#### Art. 64
+
+**Procedimento penale**
+
+Il procedimento penale spetta ai Cantoni.
+
+### Sezione 3: Esecuzione
+
+#### Art. 65
+
+**Confederazione**
+
+<sup>1</sup> Il Consiglio federale emana le disposizioni di esecuzione, sempreché la legge non disciplini altrimenti tale competenza.
+
+<sup>2</sup> Può delegare al DEFR o alla SEFRI la competenza di emanare prescrizioni.
+
+<sup>3</sup>
+
+I Cantoni e le organizzazioni interessate sono sentiti prima di emanare:
+
+- a. le disposizioni d’esecuzione;
+- b. le ordinanze in materia di formazione.
+
+<sup>4</sup> La Confederazione esercita l’alta vigilanza sull’esecuzione della presente legge da parte dei Cantoni.
+
+#### Art. 66
+
+**Cantoni**
+
+Per quanto non sia assegnata alla Confederazione, l’esecuzione spetta ai Cantoni.
+
+#### Art. 67
+
+**Delega di compiti a terzi**
+
+La Confederazione e i Cantoni possono affidare a organizzazioni del mondo del lavoro compiti d’esecuzione. Queste organizzazioni possono riscuotere emolumenti per le loro decisioni e per i servizi da loro prestati.[^67-1]
+
+[^67-1]: Per. introdotto dal n. II della LF del 17 dic. 2004, in vigore dal 5 ott. 2005 ([RU 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [FF 2004 113](https://fedlex.data.admin.ch/eli/fga/2004/49)).
+
+#### Art. 68
+
+**Riconoscimento di diplomi e certificati esteri; cooperazione e mobilità internazionali**
+
+<sup>1</sup> Il Consiglio federale disciplina il riconoscimento dei diplomi e dei certificati esteri di formazione professionale che rientrano nel campo di applicazione della presente legge.
+
+<sup>2</sup> Per promuovere la cooperazione e la mobilità internazionali nella formazione professionale, il Consiglio federale può concludere di moto proprio accordi internazionali.
+
+#### Art. 69
+
+**Commissione federale della formazione professionale**
+
+<sup>1</sup> Il Consiglio federale nomina una Commissione federale della formazione professionale.
+
+<sup>2</sup> La Commissione è composta di al massimo 15 rappresentanti della Confederazione, dei Cantoni, delle organizzazioni del mondo del lavoro e delle cerchie scientifiche. I Cantoni possono proporre tre membri.
+
+<sup>3</sup> La Commissione è presieduta dal segretario di Stato della SEFRI[^69-1].
+
+<sup>4</sup> La SEFRI gestisce la segreteria.
+
+[^69-1]: Nuova espr. giusta il n. I 7 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
+
+#### Art. 70
+
+**Compiti della Commissione federale della formazione professionale**
+
+<sup>1</sup>
+
+La Commissione federale della formazione professionale svolge i seguenti compiti:
+
+- a. fornisce consulenza alle autorità federali su questioni generali in materia di formazione professionale, su questioni relative allo sviluppo e al coordinamento nonché alla loro armonizzazione con la politica generale in materia di formazione;
+- b. valuta i progetti di sviluppo della formazione professionale secondo l’articolo 54, le richieste di sussidi per prestazioni particolari di interesse pubblico secondo l’articolo 55 e le richieste di sostegno nel settore della formazione professionale secondo l’articolo 56 nonché la ricerca, gli studi, i progetti pilota e la prestazione di servizi nel settore della formazione professionale e della formazione professionale continua secondo l’articolo 48 capoverso 2 lettera b.
+
+<sup>2</sup> La Commissione può, di propria iniziativa, presentare proposte e sottopone alle autorità che concedono i sussidi raccomandazioni relative ai progetti da valutare.
+
+#### Art. 71
+
+**Commissione federale di maturità professionale**
+
+Il Consiglio federale istituisce una Commissione federale di maturità professionale.[^71-1] La Commissione è organo consultivo per le questioni inerenti alla maturità professionale, in particolare per quelle relative al riconoscimento delle procedure di qualificazione.
+
+[^71-1]: Nuovo testo giusta il n. I 6.2 dell’O del 9 nov. 2011 (Verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+
+## Capitolo 10: Disposizioni finali
+
+#### Art. 72
+
+**Abrogazione e modifica del diritto vigente**
+
+L’abrogazione e la modifica del diritto vigente sono disciplinate nell’allegato.
+
+#### Art. 73
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le vigenti ordinanze cantonali e federali in materia di formazione professionale devono essere sostituite o adeguate entro cinque anni dall’entrata in vigore della presente legge.
+
+<sup>2</sup> I titoli protetti acquisiti conformemente al diritto previgente continuano ad essere tutelati.
+
+<sup>3</sup> Il passaggio ai contributi forfettari ai sensi dell’articolo 53 capoverso 2 avviene in modo progressivo entro quattro anni.
+
+<sup>4</sup> La partecipazione alle spese della Confederazione è adeguata progressivamente alla quota stabilita nell’articolo 59 capoverso 2 entro quattro anni.
+
+#### Art. 74
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° gennaio 2004[^74-1]
+
+[^74-1]: DCF del 19 nov. 2003
+
+Allegato
+
+(art. 72)
+
+## Abrogazione e modifica del diritto vigente
+
+I
+
+Le seguenti leggi sono abrogate:
+
+- 1\. legge federale del 19 aprile 1978[^annexu1-lvlu1-1] sulla formazione professionale;
+- 2\. legge federale del 19 giugno 1992[^annexu1-lvlu1-2] sugli aiuti finanziari alle scuole superiori di lavoro sociale.
+
+II
+
+Gli atti legislativi seguenti sono modificati come segue:
+
+...[^annexu1-lvlu1-3]
+
+[^annexu1-lvlu1-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 all. n. 1, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2, [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)I 2, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)n. II 2]
+[^annexu1-lvlu1-2]: [[RU 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
+[^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).

@@ -1,0 +1,325 @@
+---
+sr: "832.105"
+title: "Ordinanza del 14 febbraio 2007 sulla tessera d'assicurato per l'assicurazione obbligatoria delle cure medico-sanitarie (OTeA)"
+short: OTeA
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
+language: it
+version: 2009-01-01
+adopted: 2007-02-14
+in_force: 2007-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20090101/it/xml/fedlex-data-admin-ch-eli-cc-2007-101-20090101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla tessera d’assicurato per l’assicurazione obbligatoria delle cure medico-sanitarie
+
+(OTeA)**[^t-1]**
+
+del 14 febbraio 2007 (Stato 1° gennaio 2009)
+
+[^t-1]: [RU 2007 1069](https://fedlex.data.admin.ch/eli/oc/2007/181)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 42*a* della legge federale del 18 marzo 1994[^ingress-1] sull’assicurazione malattie (LAMal),
+
+ordina:
+
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+## Sezione 1: Principio
+
+#### Art. 1
+
+<sup>1</sup> Gli assicuratori rilasciano una tessera d’assicurato a tutte le persone tenute ad assicurarsi conformemente all’ordinanza del 27 giugno 1995[^1-1] sull’assicurazione malattie (OAMal).
+
+<sup>2</sup> La tessera d’assicurato non è rilasciata alle persone tenute ad assicurarsi secondo l’articolo 1 capoverso 2 lettere d ed e OAMal che possono fruire di prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie sul territorio svizzero unicamente per mezzo dell’assistenza reciproca internazionale in materia di prestazioni.
+
+[^1-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+## Sezione 2: Requisiti tecnici
+
+#### Art. 2
+
+<sup>1</sup>
+
+La tessera d’assicurato contiene un microprocessore che consenta le operazioni seguenti:
+
+- a. trattamento di dati personali;
+- b. verifica del diritto di accesso ai dati;
+- c. protezione dei dati per mezzo di un codice personale segreto (codice PIN);
+- d. altre operazioni per prove pilota cantonali.
+- [tab] <sup>2</sup> Le tessere emesse dagli assicuratori devono essere compatibili fra loro.
+
+## Sezione 3: Dati per la fatturazione
+
+#### Art. 3
+
+**Dati stampati**
+
+<sup>1</sup>
+
+L’assicuratore indica i dati seguenti sulla tessera d’assicurato:
+
+- a. cognome e nome dell’assicurato;
+- b. numero di assicurato dell’assicurazione vecchiaia e superstiti (AVS);
+- c. data di nascita dell’assicurato;
+- d. sesso dell’assicurato;
+- e. nome e numero d’identificazione dell’assicuratore (numero UFSP);
+- f. numero d’identificazione della tessera d’assicurato;
+- g. data di scadenza della tessera d’assicurato.
+
+<sup>2</sup> I dati della tessera europea d’assicurazione malattia possono parimenti figurare sul retro della tessera d’assicurato. In tal caso il numero d’identificazione della tessera d’assicurato deve essere identico al numero d’identificazione della tessera europea d’assicurazione malattia.
+
+<sup>3</sup> Il Dipartimento federale dell’interno stabilisce i requisiti in materia di veste grafica.
+
+#### Art. 4
+
+**Dati elettronici**
+
+<sup>1</sup> L’assicuratore memorizza i dati di cui all’articolo 3 capoverso 1, sotto forma elettronica, sulla tessera d’assicurato.
+
+<sup>2</sup>
+
+L’assicuratore può inoltre memorizzare sulla tessera d’assicurato, sotto forma elettronica, le indicazioni seguenti:
+
+- a. indirizzo dell’assicurato;
+- b. indirizzo di fatturazione dell’assicuratore;
+- c. forme particolari d’assicurazione ai sensi dell’articolo 62 LAMal;
+- d. eventuale sospensione della copertura di infortuni conformemente all’articolo 8 LAMal;
+- e. indicazioni sulle assicurazioni complementari, previo consenso dell’assicurato;
+- f. dati della tessera europea d’assicurazione malattia.
+- [tab] <sup>3</sup> L’assicuratore non può influenzare la decisione dell’assicurato di memorizzare o meno le indicazioni sulle assicurazioni complementari secondo il capoverso 2 lettera e concedendogli vantaggi né penalizzandolo.
+
+#### Art. 5
+
+**Numero d’assicurato AVS[^5-1]**
+
+<sup>1</sup> Prima di rilasciare la tessera d’assicurato, l’assicuratore verifica il numero di assicurato AVS presso il servizio competente e, se del caso, ne dispone l’attribuzione.
+
+<sup>2</sup> L’assicuratore prende le misure di garanzia di cui all’articolo 50*g* della legge federale del 20 dicembre 1946[^5-2] sull’assicurazione vecchiaia e superstiti al fine di proteggere il numero d’assicurato.
+
+<sup>3</sup> I fornitori di prestazioni annunciano all’Ufficio centrale di compensazione dell’AVS l’utilizzazione sistematica del numero d’assicurato conformemente all’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^5-3] sull’assicurazione per la vecchiaia e i superstiti. Possono designare un servizio incaricato di adempiere questo compito sotto forma di annuncio collettivo.[^5-4]
+
+[^5-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^5-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-4]: Introdotto dal n. 2 dell’all. all’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+
+## Sezione 4: Dati ai sensi dell’articolo 42*a* capoverso 4 LAMal
+
+#### Art. 6
+
+**Estensione dei dati**
+
+<sup>1</sup>
+
+Le persone indicate nell’allegato possono, per migliorare l’efficacia, la sicurezza e la qualità del trattamento medico, memorizzare sotto forma elettronica i dati seguenti sulla tessera d’assicurato, previo consenso dell’assicurato:
+
+- a. dati relativi al gruppo sanguigno e a trasfusioni;
+- b. dati relativi all’immunizzazione;
+- c. dati relativi a trapianti;
+- d. allergie;
+- e. malattie e conseguenze di infortuni;
+- f. iscrizioni supplementari in casi motivati sotto il profilo medico;
+- g. medicazioni;
+- h. uno o più indirizzi di contatto per casi di emergenza;
+- i. menzione dell’esistenza di dichiarazioni di volontà.
+
+<sup>2</sup> Le persone indicate nell’allegato aggiungono il loro numero EAN (European Article Numbering) nonché la data di memorizzazione ai dati di cui al capoverso 1 lettere a–g.
+
+<sup>3</sup> Le persone indicate nell’allegato non sono obbligate a memorizzare i dati di cui al capoverso 1.
+
+<sup>4</sup> L’assicuratore non può influenzare la decisione dell’assicurato di memorizzare o meno i dati di cui al capoverso 1 concedendogli vantaggi né penalizzandolo
+
+#### Art. 7
+
+**Accesso ai dati di cui all’articolo 6**
+
+<sup>1</sup> Le persone indicate nell’allegato possono accedere ai dati di cui all’articolo 6. La portata del trattamento dei dati è disciplinata nell’allegato.
+
+<sup>2</sup> Per l’accesso è necessario il certificato elettronico di fornitore di prestazioni.
+
+<sup>3</sup> Le persone indicate nell’allegato sono autorizzate a trattare i dati di cui all’articolo 6 unicamente con il consenso dell’assicurato.
+
+<sup>4</sup> L’assicurato può proteggere i dati di cui all’articolo 6 capoverso 1 lettere a–g per mezzo di un codice PIN.
+
+<sup>5</sup> Nel caso in cui sia necessario per una cura d’emergenza e se l’assicurato non può dare il suo consenso, le persone indicate nell’allegato possono accedere ai dati di cui all’articolo 6 senza tale consenso.
+
+#### Art. 8
+
+**Certificato elettronico di fornitore di prestazioni**
+
+<sup>1</sup> Il certificato elettronico di fornitore di prestazioni deve consentire l’autenticazione dell’identità della persona autorizzata ad accedere ai dati.
+
+<sup>2</sup> Per l’emissione del certificato elettronico di fornitore di prestazioni sono competenti i fornitori di prestazioni autorizzati ad esercitare attività a carico dell’assicurazione obbligatoria delle cure medico-sanitarie. Essi possono parimenti delegare tale compito a terzi.
+
+<sup>3</sup> I fornitori di prestazioni garantiscono che il certificato elettronico di fornitore di prestazioni sia rilasciato soltanto alle persone indicate nell’allegato che dispongono di una formazione riconosciuta conformemente alle disposizioni federali e cantonali.
+
+## Sezione 5: Diritti e obblighi
+
+#### Art. 9
+
+**Diritti dell’assicurato**
+
+<sup>1</sup> L’assicurato ha il diritto di essere informato in merito ai dati memorizzati nella tessera d’assicurato e ha il diritto di farli rettificare se necessario. Può in ogni momento far cancellare i dati facoltativi. Può far valere tali diritti presso l’assicuratore, per i dati di cui agli articoli 3 e 4, rispettivamente presso le persone indicate nell’allegato, per i dati di cui all’articolo 6.
+
+<sup>2</sup> L’assicurato può opporsi alla divulgazione dei dati di cui all’articolo 6 senza indicarne i motivi.
+
+#### Art. 10
+
+**Obblighi dell’assicurato**
+
+<sup>1</sup> Quando fruisce di una prestazione l’assicurato presenta la sua tessera d’assicurato al fornitore di prestazioni.
+
+<sup>2</sup> Se l’assicurato non presenta la tessera d’assicurato e occasiona in tal modo costi supplementari al momento del rimborso delle prestazioni, l’assicuratore può prelevare una tassa adeguata.
+
+<sup>3</sup> Al termine del rapporto d’assicurazione e alla scadenza della tessera d’assicurato, l’assicurato, su richiesta, restituisce la sua tessera all’assicuratore.
+
+#### Art. 11
+
+**Diritti dell’assicuratore**
+
+<sup>1</sup> La tessera d’assicurato rimane di proprietà dell’assicuratore che l’ha rilasciata.
+
+<sup>2</sup> L’assicuratore può limitare la durata di validità della tessera d’assicurato.
+
+#### Art. 12
+
+**Obblighi dell’assicuratore**
+
+<sup>1</sup>
+
+Alla consegna della tessera d’assicurato, l’assicuratore informa per scritto l’assicurato, in modo dettagliato e comprensibile, in merito ai suoi diritti e obblighi. Fornisce segnatamente informazioni in merito:
+
+- a. all’obbligo di utilizzare la carta al momento della fruizione di prestazioni;
+- b. ai diritti di cui all’articolo 9;
+- c. alle persone autorizzate a consultare i dati memorizzati nella tessera d’assicurato e agli scopi per cui tali dati possono essere trattati;
+- d. alla possibilità di far cancellare i dati di cui all’articolo 6 prima della restituzione della carta all’assicuratore.
+
+#### Art. 13
+
+**Obblighi delle persone indicate nell’allegato**
+
+Le persone indicate nell’allegato che memorizzano dati personali di cui all’articolo 6 sulla tessera d’assicurato sono obbligate a informare l’assicurato dei suoi diritti. Forniscono segnatamente informazioni in merito:
+
+- a. ai diritti di cui all’articolo 9;
+- b. alle persone autorizzate a trattare i dati e per quali scopi;
+- c. alla possibilità di proteggere i dati mediante un codice PIN nonché sui vantaggi e sugli svantaggi di una simile protezione;
+- d. alla possibilità di far cancellare i dati di cui all’articolo 6 prima della restituzione della carta all’assicuratore.
+
+## Sezione 6: Fatturazione
+
+#### Art. 14
+
+**Dati per la fatturazione**
+
+Il fornitore di prestazioni riprende i dati necessari per la fatturazione dalla tessera d’assicurato. Può consultare i dati anche per mezzo di una procedura di consultazione on line.
+
+#### Art. 15
+
+**Consultazione on line**
+
+<sup>1</sup>
+
+L’assicuratore ha l’obbligo di proporre una procedura di consultazione on line. Deve mettere le informazioni seguenti a disposizione del fornitore di prestazioni:
+
+- a. indicazione dell’esistenza di un rapporto d’assicurazione;
+- b. validità della tessera d’assicurato;
+- c. dati di cui all’articolo 3 capoverso 1.
+
+<sup>2</sup> Per la consultazione on line, l’assicuratore può inoltre mettere a disposizione del fornitore di prestazioni le informazioni di cui all’articolo 4 capoverso 2.
+
+<sup>3</sup> La consultazione on line può avvenire soltanto con il consenso dell’assicurato.
+
+<sup>4</sup> L’assicuratore istituisce la procedura di consultazione on line in modo che la consultazione sia possibile unicamente per mezzo del numero d’identificazione della tessera d’assicurato.
+
+<sup>5</sup> L’assicuratore e il fornitore di prestazioni garantiscono la sicurezza della trasmissione dei dati mediante misure tecniche adeguate.
+
+## Sezione 7: Prove pilota cantonali
+
+#### Art. 16
+
+<sup>1</sup> L’uso della tessera d’assicurato che eccede gli scopi di cui all’articolo 42*a* capoverso 2 LAMal e le possibilità di cui all’articolo 42*a* capoverso 4 LAMal è ammesso nell’ambito di prove pilota cantonali nel settore della sanità, sempre che il diritto cantonale lo preveda. Il funzionamento della carta conformemente all’articolo 42*a* capoversi 1–3 LAMal deve essere garantito.
+
+<sup>2</sup>
+
+Il diritto cantonale deve:
+
+- a. determinare il quadro e lo scopo della prova;
+- b. determinare la durata della prova;
+- c. designare l’organo cantonale competente;
+- d. garantire la facoltatività della partecipazione alla prova degli assicurati e dei fornitori di prestazioni;
+- e. determinare i dati personali trattati nel quadro della prova;
+- f. disciplinare i diritti d’accesso ai dati personali.
+
+<sup>3</sup> La prova pilota deve essere accompagnata da una valutazione da parte del Cantone. Il Cantone presenta all’Ufficio federale della sanità pubblica un rapporto in merito alla prova pilota.
+
+## Sezione 8: Standard tecnici
+
+#### Art. 17
+
+Il Dipartimento federale dell’interno determina, con il concorso delle cerchie interessate, gli standard tecnici per la tessera d’assicurato e per la consultazione on line. Per la determinazione di tali standard tecnici deve essere presa in considerazione la normazione internazionale.
+
+## Sezione 9: Disposizioni finali
+
+#### Art. 18
+
+**Modifica del diritto vigente**
+
+…[^18-1]
+
+[^18-1]: La mod. può essere consultata alla [RU 2007 497](https://fedlex.data.admin.ch/eli/oc/2007/101).
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogato dal n. I dell’O del 26 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6145](https://fedlex.data.admin.ch/eli/oc/2008/844)).
+
+#### Art. 19a
+
+**Disposizioni transitorie della modifica del 26 novembre 2008**[^19a-1]
+
+<sup>1</sup> Gli assicuratori rilasciano la tessera d’assicurato entro il 1° gennaio 2010.
+
+<sup>2</sup> Essi sono tenuti a istituire la consultazione on line di cui all’articolo 15 entro il 1° gennaio 2010.
+
+<sup>3</sup> Gli assicuratori e i fornitori di prestazioni garantiscono la sicurezza della trasmissione dei dati secondo l’articolo 15 capoverso 5 dal 1° gennaio 2010.
+
+[^19a-1]: Introdotto dal n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6145](https://fedlex.data.admin.ch/eli/oc/2008/844)).
+
+#### Art. 20
+
+**Entrata in vigore**
+
+<sup>1</sup> Fatti salvi i capoversi 2 e 3, la presente ordinanza entra in vigore il 1° marzo 2007.
+
+<sup>2</sup> L’articolo 5 entra in vigore contemporaneamente alla modifica del 23 giugno 2006[^20-1] della legge federale sull’assicurazione per la vecchiaia e per i superstiti (Nuovo numero d’assicurato dell’AVS).
+
+<sup>3</sup> L’articolo 18 entra in vigore il 1° gennaio 2010.[^20-2]
+
+[^20-1]: [RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)
+[^20-2]: Nuovo testo giusta il n. I dell’O del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6145](https://fedlex.data.admin.ch/eli/oc/2008/844)).
+
+Allegato
+
+(art. 7)
+
+## Accesso ai dati di cui all’articolo 6
+
+<table>
+<tr><th></th><th>Dati relativi al gruppo sanguigno e a trasfusioni (art. 6 cpv. 1 lett. a)</th><th>Dati relativi all’immunizzazione (art. 6 cpv. 1 lett. b)</th><th>Dati relativi a trapianti (art. 6 cpv. 1 lett. c)</th><th>Allergie (art. 6 cpv. 1 lett. d)</th><th>Malattie e conseguenze di infortuni (art. 6 cpv. 1 lett. e)</th><th>Iscrizioni sup- plementari in casi motivati sotto il profilo medico (art. 6 cpv. 1 lett. f)</th><th>Medicazioni (art. 6 cpv. 1 lett. g)</th><th>Indirizzi di contatto per casi di emergenza (art. 6 cpv. 1 lett. h)</th><th>Menzione dell’esistenza di dichiarazioni di volontà (art. 6 cpv. 1 lett. i)</th></tr>
+<tr><td>Medici</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Farmacisti</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Dentisti</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Chiropratici</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Levatrici</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Fisioterapisti</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Ergoterapisti</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Infermieri</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Logopedisti</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+<tr><td>Dietisti</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura</td><td>Lettura Scrittura Cancellazione</td><td>Lettura Scrittura Cancellazione</td></tr>
+</table>

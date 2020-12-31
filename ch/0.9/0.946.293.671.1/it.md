@@ -1,0 +1,179 @@
+---
+sr: "0.946.293.671.1"
+title: "Accordo aggiuntivo dell' 11 febbraio 2019 tra la Confederazione Svizzera, il Regno Unito di Gran Bretagna e Irlanda del Nord e il Principato del Liechtenstein che estende a quest'ultimo alcune disposizioni dell'Accordo commerciale tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord (con allegato)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/1072"
+language: it
+version: 2021-01-01
+adopted: 2019-02-11
+in_force: 2021-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1072/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1072-20210101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1072/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo aggiuntivo tra la Confederazione Svizzera, il Regno Unito di Gran Bretagna e Irlanda del Nord e il Principato del Liechtenstein che estende a quest’ultimo alcune disposizioni dell’Accordo commerciale tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord
+
+RS **2020** 6667; FF **2020** 1845
+
+*Traduzione*
+
+Concluso l’11 febbraio 2019
+
+Approvato dall’Assemblea federale il 19 giugno 2020[^t-1]
+
+Entrato in vigore mediante scambio di note il 1° gennaio 2021
+
+(Stato 1° gennaio 2021)
+
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 19 giu. 2020 ([RU 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070)).
+
+La Confederazione Svizzera («Svizzera»), il Regno Unito di Gran Bretagna e Irlanda del Nord («Regno Unito») e il Principato del Liechtenstein («Liechtenstein»),
+
+considerando che:
+
+- (1) il Liechtenstein costituisce un’unione doganale con la Svizzera a norma del Trattato di unione doganale del 29 marzo 1923[^ingress-1] conchiuso tra la Confederazione Svizzera e il Principato del Liechtenstein («Trattato di unione doganale»);
+- (2) il Trattato di unione doganale non conferisce validità per il Liechtenstein a tutte le disposizioni dell’Accordo tra la Confederazione Svizzera e la Comunità economica europea, concluso il 22 luglio 1972[^ingress-2] («Accordo di libero scambio»), e dell’Accordo tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli, concluso il 21 giugno 1999[^ingress-3] («Accordo agricolo»);
+- (3) il Protocollo n. 3[^ingress-4] dell’Accordo di libero scambio dispone che i prodotti del Liechtenstein debbano essere considerati prodotti originari della Svizzera; l’articolo 4 dell’Accordo agricolo dispone che le norme di origine applicabili conformemente agli allegati 1, 2 e 3 sono quelle fissate nel Protocollo n. 3 dell’Accordo di libero scambio;
+- (4) le disposizioni dell’Accordo di libero scambio e dell’Accordo agricolo in vigore immediatamente prima del momento in cui queste cessano di essere applicabili al Regno Unito continuano ad applicarsi tra la Svizzera e il Regno Unito, fatte salve le disposizioni dell’Accordo commerciale tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord («Accordo commerciale tra la Svizzera e il Regno Unito»)[^ingress-5];
+- (5) tutte le disposizioni dell’Accordo di libero scambio e dell’Accordo agricolo, come incorporate ed emendate nell’Accordo commerciale tra la Svizzera e il Regno Unito, sono applicabili anche al Liechtenstein,
+
+hanno convenuto quanto segue:
+
+[^ingress-1]: [RS [0.631.112.514](http://www.admin.ch/ch/f/rs/c0_631_112_514.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
+[^ingress-2]: [RS [0.632.401](http://www.admin.ch/ch/f/rs/c0_632_401.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^ingress-3]: [RS [0.916.026.81](http://www.admin.ch/ch/f/rs/c0_632_401.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^ingress-4]: [RS 0.632.401.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2427)
+[^ingress-5]: [RS 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
+
+#### Art. 1
+
+<sup>1.</sup> Le disposizioni dell’Accordo di libero scambio e dell’Accordo agricolo, come incorporate ed emendate nell’Accordo commerciale tra la Svizzera e il Regno Unito («Accordo di libero scambio incorporato» e «Accordo agricolo incorporato»), si applicano al Liechtenstein, fatte salve le disposizioni dell’Accordo commerciale tra la Svizzera e il Regno Unito[^1-1].
+
+<sup>2.</sup> Gli adeguamenti riguardanti il Liechtenstein degli allegati all’Accordo agricolo incorporato figurano nell’allegato al presente Accordo aggiuntivo, che ne costituisce parte integrante.
+
+[^1-1]: A scanso di equivoci, il Protocollo aggiuntivo relativo all’assistenza amministrativa reciproca in materia doganale è parte integrante dell’Accordo di libero scambio.
+
+#### Art. 2
+
+<sup>1.</sup> Per ogni applicazione e sviluppo delle disposizioni dell’Accordo di libero scambio incorporato e dell’Accordo agricolo incorporato, gli interessi del Liechtenstein sono rappresentati da un delegato del Liechtenstein in seno alla delegazione svizzera presso i comitati misti istituiti nell’ambito dell’Accordo di libero scambio incorporato e dell’Accordo agricolo incorporato e i rispettivi gruppi di lavoro.
+
+<sup>2.</sup> A norma delle disposizioni degli articoli 6 e 11 dell’Accordo agricolo incorporato, il Comitato misto per l’agricoltura può emendare *mutatis mutandis* l’allegato al presente Accordo aggiuntivo. Tali emendamenti sono soggetti all’approvazione del delegato del Liechtenstein.
+
+#### Art. 3
+
+<sup>1.</sup> Il presente Accordo aggiuntivo è approvato dalle Parti conformemente alle rispettive procedure nazionali.
+
+<sup>2.</sup> Il presente Accordo aggiuntivo entra in vigore contestualmente all’Accordo commerciale tra la Svizzera e il Regno Unito.
+
+<sup>3.</sup> Sino all’entrata in vigore del presente Accordo aggiuntivo, le Parti applicano provvisoriamente tale Accordo, conformemente alle rispettive condizioni e procedure interne, per tutta la durata dell’applicazione provvisoria dell’Accordo commerciale tra la Svizzera e il Regno Unito. Ciascuna Parte può porre fine all’applicazione provvisoria del presente Accordo mediante notifica scritta alle altre Parti. La denuncia interviene il primo giorno del secondo mese che segue la notifica.
+
+<sup>4.</sup>
+
+Il presente Accordo aggiuntivo:
+
+- (a) può essere denunciato mediante notifica scritta alle altre Parti e cessa di essere in vigore dodici mesi dopo la ricezione della notifica;
+- (b)
+
+  a meno che le Parti non abbiano convenuto altrimenti, cessa di essere applicabile alla scadenza:
+
+  - (i) del Trattato di unione doganale,
+  - (ii) dell’Accordo commerciale tra la Svizzera e il Regno Unito, o
+  - (iii) sia dell’Accordo di libero scambio incorporato sia dell’Accordo agricolo incorporato.
+
+<sup>5.</sup> Se la Svizzera o il Regno Unito sospendono l’Accordo agricolo incorporato o una parte di esso, le disposizioni pertinenti di cui nell’allegato al presente Accordo aggiuntivo sono sospese contestualmente, a meno che le Parti non abbiano convenuto altrimenti.
+
+<sup>6.</sup> Se l’Accordo agricolo incorporato cessa di essere applicabile alla Svizzera e al Regno Unito, l’allegato al presente Accordo aggiuntivo cessa di applicarsi contestualmente, a meno che le Parti non abbiano convenuto altrimenti.
+
+Fatto a Berna l’11 febbraio 2019 in tre esemplari, in lingua inglese e tedesca, entrambi i testi facenti ugualmente fede. In caso di divergenze tra i testi originali, prevale il testo inglese.
+
+<table>
+<tr><td>Per la Confederazione Svizzera: Guy Parmelin</td><td>Per il Regno Unito di Gran Bretagna e Irlanda del Nord: Liam Fox Per il Principato del Liechtenstein: Aurelia Frick</td></tr>
+</table>
+
+Allegato
+
+## Principio
+
+Le leggi, gli obblighi, le disposizioni giuridiche, gli elenchi, i nomi e i termini previsti per la Svizzera nell’Accordo agricolo si applicano anche al Liechtenstein, fatti salvi gli emendamenti e le aggiunte seguenti.
+
+Se alle autorità cantonali svizzere vengono assegnati doveri, responsabilità e poteri, essi spettano anche ai competenti enti governativi del Liechtenstein. Per le questioni gestite dalle autorità agricole cantonali è competente l’Ufficio dell’ambiente, divisione Agricoltura (*«Amt für Umwelt, Abteilung Landwirtschaft»*), Dr. Grass-Strasse 10, FL-9490 Vaduz[^annexu1-lvlu1-1]; per le questioni gestite dalle autorità veterinarie e alimentari cantonali è competente l’Ufficio per le ispezioni alimentari e le questioni veterinarie (OFV) (*«Amt für Lebensmittelkontrolle und Veterinärwesen»*), Postplatz 2, FL-9494 Schaan.
+
+Sono inoltre competenti per il Liechtenstein organizzazioni private a cui sono stati assegnati compiti specifici (p. es. organismi di ispezione e certificazione), se non altrimenti stabilito qui di seguito.
+
+### Emendamenti/aggiunte relativi agli allegati 4–12 all’Accordo agricolo incorporato
+
+[^annexu1-lvlu1-1]: Dal 1° agosto 2026: Ufficio per le foreste, la natura e l’agricoltura («Amt für Wald, Natur und Landwirtschaft»), Landstrasse 190, FL-9495 Triesen.
+
+**Allegato 7, Commercio dei prodotti vitivinicoli**
+
+Denominazioni protette per prodotti vitivinicoli originari del Liechtenstein (ai sensi dell’all. 7 art. 5)
+
+Indicazioni geografiche
+
+### Vini di qualità
+
+- – Balzers
+- – Bendern
+- – Eschen
+- – Eschnerberg
+- – Gamprin
+- – Mauren
+- – Ruggell
+- – Schaan
+- – Schellenberg
+- – Triesen
+- – Vaduz
+
+### Vini da tavola con indicazione geografica
+
+- – Liechtensteiner Oberländer Landwein
+- – Liechtensteiner Unterländer Landwein
+
+### Menzioni tradizionali
+
+- – Ablass
+- – Appellation d’origine contrôlée
+- – Auslese Liechtenstein
+- – Beerenauslese
+- – Beerle
+- – Beerli
+- – Beerliwein
+- – Eiswein
+- – Federweiss[^annexu1-lvlu1-lvlu1-modu1-subdivu4-1]
+- – Grand Cru Liechtenstein
+- – Kretzer
+- – Landwein
+- – Sélection Liechtenstein
+- – Strohwein
+- – Süssdruck
+- – Trockenbeerenauslese
+- – Weissherbst
+
+[^annexu1-lvlu1-lvlu1-modu1-subdivu4-1]: Fatto salvo l’uso della menzione tradizionale tedesca «Federweißer» per i mosti di uve parzialmente fermentati destinati al consumo umano diretto, conformemente al par. 34*c* del regolamento tedesco sui vini e degli art. 12 par. 1 lett. b e 14 par. 1 del regolamento (CE) n. 753/2002 della Commissione, modificato.
+
+**Allegato 8, Riconoscimento reciproco e protezione delle denominazioni nel settore delle bevande spiritose e delle bevande aromatizzate a base di vino**
+
+Denominazioni protette per acquaviti originarie del Liechtenstein (ai sensi dell’all. 8 art. 4)
+
+### Acquavite di vinaccia
+
+- – Balzner Marc
+- – Benderer Marc
+- – Eschner Marc
+- – Eschnerberger Marc
+- – Gampriner Marc
+- – Maurer Marc
+- – Ruggeller Marc
+- – Schaaner Marc
+- – Schellenberger Marc
+- – Triesner Marc
+- – Vaduzer Marc
+
+**Allegato 12, Protezione delle denominazioni d’origine e delle indicazioni geografiche dei prodotti agricoli e alimentari**
+
+La zona geografica delle seguenti indicazioni geografiche svizzere protette a norma dell’allegato 12 appendice 1 comprende anche il territorio del Liechtenstein:
+
+- – Rheintaler Ribel/Türggen Ribel (DOP)
+- – St. Galler Bratwurst/St. Galler Kalbsbratwurst (IGP)
+- – Werdenberger Sauerkäse/Liechtensteiner Sauerkäse/Bloderkäse (DOP)

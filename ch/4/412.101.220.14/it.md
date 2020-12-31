@@ -1,0 +1,578 @@
+---
+sr: "412.101.220.14"
+title: Ordinanza della SEFRI del 21 agosto 2020 sulla formazione professionale di base Operatrice socioassistenziale / Operatore socioassistenziale con attestato federale di capacità (AFC)
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
+language: it
+version: 2021-01-01
+adopted: 2020-08-21
+in_force: 2021-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza della SEFRI sulla formazione professionale di base Operatrice socioassistenziale / Operatore socioassistenziale con attestato federale di capacità (AFC)
+
+del 21 agosto 2020 (Stato 1° gennaio 2021)
+
+<table>
+<tr><td>94308</td><td>Operatrice socioassistenziale AFC/ Operatore socioassistenziale AFC</td></tr>
+<tr><td></td><td>Fachfrau Betreuung EFZ/Fachmann Betreuung EFZ</td></tr>
+<tr><td></td><td>Assistante socio-éducative CFC/assistant socio-éducatif CFC</td></tr>
+<tr><td>94309</td><td colspan="2">Indirizzo professionale infanzia</td></tr>
+<tr><td>94310</td><td colspan="2">Indirizzo professionale persone con disabilità</td></tr>
+<tr><td>94311</td><td colspan="2">Indirizzo professionale persone anziane</td></tr>
+<tr><td>94312</td><td>Formazione generale</td></tr>
+</table>
+
+La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
+
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+
+ordina:
+
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+
+## Sezione 1: Oggetto, indirizzi professionali e durata
+
+#### Art. 1
+
+**Profilo e indirizzi professionali**
+
+<sup>1</sup>
+
+Gli operatori socioassistenziali di livello AFC svolgono in particolare le attività seguenti e si contraddistinguono per le conoscenze, capacità e attitudini sotto indicate:
+
+- a. nel quotidiano, accompagnano e offrono assistenza a bambini, persone disabili e anziani singoli o in gruppi;
+- b. stabiliscono con professionalità relazioni con le persone assistite;
+- c. tengono conto dei bisogni e degli interessi delle persone assistite e stimolano la loro autonomia e partecipazione;
+- d. sostengono la formazione e lo sviluppo delle persone assistite, ne conservano e ne promuovono la qualità di vita;
+- e. agiscono con professionalità in specifiche situazioni di accompagnamento;
+- f. nel quadro delle competenze acquisite forniscono le prestazioni autonomamente o insieme all’équipe.
+
+<sup>2</sup>
+
+La formazione di operatore socioassistenziale di livello AFC prevede gli indirizzi professionali seguenti:
+
+- a. infanzia;
+- b. persone con disabilità;
+- c. persone anziane;
+- d. formazione generale.
+
+<sup>3</sup> L’indirizzo professionale è riportato nel contratto di tirocinio prima dell’inizio della formazione professionale di base.
+
+#### Art. 2
+
+**Durata e inizio**
+
+<sup>1</sup> La formazione professionale di base dura tre anni.
+
+<sup>2</sup> L’inizio della formazione professionale di base segue il calendario della relativa scuola professionale.
+
+## Sezione 2: Obiettivi ed esigenze
+
+#### Art. 3
+
+**Principi**
+
+<sup>1</sup> Gli obiettivi e le esigenze della formazione professionale di base sono espressi sotto forma di competenze operative raggruppate nei relativi campi.
+
+<sup>2</sup> Le competenze operative comprendono competenze professionali, metodologiche, sociali e personali.
+
+<sup>3</sup> Tutti i luoghi di formazione collaborano allo sviluppo delle competenze operative. Essi coordinano i contenuti della formazione e delle procedure di qualificazione.
+
+#### Art. 4
+
+**Competenze operative**
+
+<sup>1</sup>
+
+La formazione prevede, nei campi di competenze operative sotto indicati, le competenze operative seguenti:
+
+- a.
+
+  competenze trasversali:
+
+  - 1\. agire secondo il proprio ruolo professionale,
+  - 2\. riflettere sul proprio lavoro,
+  - 3\. stabilire e gestire relazioni professionali,
+  - 4\. comunicare in modo adeguato alla situazione e all’interlocutore,
+  - 5\. contribuire al superamento di conflitti;
+
+- b.
+
+  accompagnamento quotidiano:
+
+  - 1\. pianificare i propri lavori,
+  - 2\. stabilire e gestire in modo strutturato la giornata delle persone assistite,
+  - 3\. tutelare la sfera privata e consentire momenti di privacy,
+  - 4\. stabilire e gestire l’ambiente quotidiano,
+  - 5\. svolgere attività di economia domestica,
+  - 6\. preparare e accompagnare situazioni legate ai pasti,
+  - 7\. creare un ambiente che incentiva il movimento,
+  - 8\. aiutare nell’igiene e nella cura del corpo,
+  - 9\. agire in modo adeguato in situazioni di infortunio, malattia ed emergenza;
+
+- c.
+
+  sostegno all’autonomia e alla partecipazione:
+
+  - 1\. permettere e accompagnare la partecipazione alla vita sociale e culturale,
+  - 2\. accompagnare le persone assistite durante i processi decisionali,
+  - 3\. favorire contatti e relazioni sociali;
+
+- d.
+
+  lavoro in un’organizzazione e in un’équipe:
+
+  - 1\. collaborare all’interno dell’équipe,
+  - 2\. collaborare a livello interprofessionale con altri operatori specializzati,
+  - 3\. collaborare con famigliari e altre persone di riferimento,
+  - 4\. collaborare al processo di gestione della qualità,
+  - 5\. svolgere lavori amministrativi generali;
+
+- e.
+
+  comportamento in specifiche situazioni di accompagnamento:
+
+  - 1\. accompagnare i bambini e le loro famiglie durante la fase di ambientamento,
+  - 2\. accompagnare e gestire i trasferimenti facendo riferimento ai bambini e al gruppo,
+  - 3\. stabilire la relazione con neonati e bambini piccoli e curarne l’igiene del corpo,
+  - 4\. assistere e sostenere i bambini in situazioni di gruppo,
+  - 5\. accompagnare le persone con disabilità nelle fasi iniziali e di commiato,
+  - 6\. accompagnare le persone con disabilità in situazioni complesse,
+  - 7\. svolgere specifiche prestazioni di cura per persone con disabilità,
+  - 8\. accompagnare le persone anziane con disabilità,
+  - 9\. aiutare le persone anziane ad ambientarsi e a familiarizzare con i nuovi ritmi giornalieri,
+  - 10\. accompagnare le persone anziane in situazioni complesse,
+  - 11\. attuare specifiche misure di cura per persone anziane,
+  - 12\. accompagnare le persone anziane in fin di vita e i loro famigliari nel processo del congedo e del lutto,
+  - 13\. accompagnare le persone assistite nelle fasi iniziali,
+  - 14\. accompagnare le persone assistite nelle situazioni complesse,
+  - 15\. svolgere prestazioni di cura specifiche per le persone assistite,
+  - 16\. accompagnare le persone assistite nel processo del congedo e del lutto;
+
+- f.
+
+  sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita:
+
+  - 1\. partecipare al rilevamento e alla documentazione dei processi di formazione e di sviluppo,
+  - 2\. partecipare alla pianificazione delle offerte che favoriscono la formazione e lo sviluppo,
+  - 3\. proporre e attuare offerte riferite a gruppi e a bambini,
+  - 4\. partecipare all’analisi e alla valutazione delle offerte formative e di sviluppo,
+  - 5\. aiutare le persone con disabilità a esprimere le proprie richieste ed esigenze su come organizzare la propria vita,
+  - 6\. partecipare alla pianificazione delle offerte e attività per persone con disabilità,
+  - 7\. aiutare le persone con disabilità a sfruttare offerte e svolgere attività,
+  - 8\. partecipare alla valutazione delle offerte e attività per persone con disabilità,
+  - 9\. partecipare all’identificazione delle esigenzei e degli interessi e riconoscere i contesti in cui le persone anziane hanno bisogno di assistenza,
+  - 10\. partecipare alla pianificazione delle offerte e attività di assistenza per persone anziane,
+  - 11\. aiutare le persone anziane a sfruttare offerte e svolgere attività,
+  - 12\. partecipare alla valutazione delle offerte per persone anziane,
+  - 13\. partecipare all’identificazione delle esigenze e riconoscere i contesti in cui le persone assistite hanno bisogno di assistenza,
+  - 14\. partecipare alla pianificazione delle offerte e attività per le persone assistite,
+  - 15\. aiutare le persone assistite a sfruttare offerte e svolgere attività,
+  - 16\. partecipare alla valutazione delle offerte e attività per le persone assistite.
+
+<sup>2</sup> Lo sviluppo delle competenze operative è obbligatorio per tutte le persone in formazione nei campi di competenze operative a–d. Lo sviluppo delle competenze operative nei campi di competenze operative e–f è vincolante come segue a seconda dell’indirizzo professionale:
+
+<table>
+<tr><td></td><td>Indirizzo infanzia</td><td>Indirizzo persone con disabilità</td><td>Indirizzo persone anziane</td><td>Formazione generale</td></tr>
+<tr><td>Campi di competenze operative</td><td colspan="4">Competenze operative</td></tr>
+<tr><td>Comportamento in specifiche situazioni di accompagnamento:</td><td>e1 – e4</td><td>e5 – e8</td><td>e9 – e12</td><td>e13 – e16</td></tr>
+<tr><td>Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita:</td><td>f1 – f4</td><td>f5 – f8</td><td>f9 – f12</td><td>f13 – f16</td></tr>
+</table>
+
+## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
+
+#### Art. 5
+
+<sup>1</sup> All’inizio e durante la formazione gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente, in particolare quelle relative alla comunicazione dei pericoli (simboli di pericolo e di obbligo, pittogrammi).
+
+<sup>2</sup> Dette prescrizioni e raccomandazioni sono fornite in tutti i luoghi di formazione e considerate nelle procedure di qualificazione.
+
+<sup>3</sup> Tutti i luoghi di formazione trasmettono alle persone in formazione conoscenze in materia di sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
+
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+
+<sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
+
+#### Art. 6
+
+**Formazione professionale pratica in azienda e in luoghi di formazione equivalenti**
+
+<sup>1</sup> La formazione professionale pratica in azienda comprende in media 3,5 giornate alla settimana per tutta la durata della formazione professionale di base.
+
+<sup>2</sup>
+
+Nel quadro della formazione di base organizzata dalla scuola la formazione professionale pratica è impartita sotto forma di parti pratiche integrate o di periodi di pratica in azienda. La formazione professionale pratica dura complessivamente da un minimo di 65 a un massimo di 90 settimane ed è ripartita sull’intera durata della formazione professionale di base come segue:
+
+- a. 1° anno: 10–20 settimane;
+- b. 2° anno: 20–30 settimane;
+- c. 3° anno: 25–40 settimane.
+
+<sup>3</sup> Per la formazione generale la formazione professionale pratica si svolge in aziende di tutti e tre gli indirizzi professionali.
+
+#### Art. 7
+
+**Scuola professionale**
+
+<sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 1600 lezioni. Dette lezioni sono suddivise secondo la tabella seguente:
+
+<table>
+<tr><td>Insegnamento</td><td>1° anno</td><td>2°anno</td><td>3° anno</td><td>Totale</td></tr>
+<tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Competenze trasversali</td><td>60</td><td>120</td><td>60</td><td>240</td></tr>
+<tr><td>– Accompagnamento quotidiano</td><td>200</td><td>40</td><td></td><td>240</td></tr>
+<tr><td>– Sostegno all’autonomia e alla partecipazione</td><td>40</td><td>60</td><td>20</td><td>120</td></tr>
+<tr><td>– Lavoro in un’organizzazione e in un’équipe</td><td>40</td><td>40</td><td></td><td>80</td></tr>
+<tr><td>– Comportamento in specifiche situazioni di accompagnamento; sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita</td><td>100</td><td>180</td><td>80</td><td>360</td></tr>
+<tr><td>Totale conoscenze professionali</td><td>440</td><td>440</td><td>160</td><td>**1040**</td></tr>
+<tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
+<tr><td>c. Educazione fisica</td><td>80</td><td>80</td><td>40</td><td>200</td></tr>
+<tr><td>Totale delle lezioni</td><td>640</td><td>640</td><td>320</td><td>**1600**</td></tr>
+</table>
+
+<sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
+
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+<sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
+
+<sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
+
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 8
+
+**Corsi interaziendali**
+
+<sup>1</sup> I corsi interaziendali comprendono per tutti gli indirizzi 20 giornate di otto ore.
+
+<sup>2</sup> Le giornate e i contenuti sono ripartiti su 8 corsi come segue:
+
+<table>
+<tr><th></th><th></th><th></th><th></th><th>Indirizzo infanzia</th><th>Indirizzo persone con disabilità</th><th>Indirizzo persone anziane</th><th>Formazione generale</th></tr>
+<tr><td>Anno</td><td>Corso</td><td>Campi di competenze operative</td><td>Durata</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>1</td><td>Utilizzo di competenze trasversali Accompagnamento quotidiano</td><td></td><td>4</td><td>4</td><td>4</td><td>4</td></tr>
+<tr><td></td><td>2</td><td>Comportamento in specifiche situazioni di accompagnamento Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita</td><td></td><td>5</td><td>5</td><td></td><td></td></tr>
+<tr><td></td><td>3</td><td>Comportamento in specifiche situazioni di accompagnamento</td><td></td><td></td><td></td><td>5</td><td>5</td></tr>
+<tr><td>2</td><td>4</td><td>Competenze trasversali</td><td></td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td></td><td>5</td><td>Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita</td><td></td><td>5</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>6</td><td>Comportamento in specifiche situazioni di accompagnamento Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita</td><td></td><td></td><td>5</td><td>5</td><td>5</td></tr>
+<tr><td>3</td><td>7</td><td>Competenze trasversali</td><td></td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>3</td><td>8</td><td>Comportamento in specifiche situazioni di accompagnamento</td><td></td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>**Totale** **giorni**</td><td></td><td></td><td></td><td>**20**</td><td>**20**</td><td>**20**</td><td>**20**</td></tr>
+</table>
+
+<sup>3</sup> I corsi 1, 4 e 7 non sono sprecificati in base agli indirizzi professionali.
+
+<sup>4</sup> Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
+
+## Sezione 5: Piano di formazione
+
+#### Art. 9
+
+<sup>1</sup> All’entrata in vigore della presente ordinanza è disponibile un piano di formazione[^9-1] della competente organizzazione del mondo del lavoro.
+
+<sup>2</sup>
+
+Il piano di formazione:
+
+- a.
+
+  contiene il profilo di qualificazione, che comprende:
+
+  - 1\. il profilo professionale,
+  - 2\. la tabella delle competenze operative e dei relativi campi,
+  - 3\. il livello richiesto per la professione;
+
+- b. precisa i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente;
+- c. determina quali competenze operative sono trasmesse e apprese in ciascun luogo di formazione.
+- [tab] <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
+
+[^9-1]: Il piano del 21 agosto 2020 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
+
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
+
+#### Art. 10
+
+**Requisiti professionali richiesti ai formatori**
+
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
+
+- a. attestato federale di capacità di operatore socioassistenziale AFC e almeno due anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’operatore socioassistenziale AFC e almeno due anni di esperienza professionale nel campo d’insegnamento;
+- c. titolo della formazione professionale superiore in ambito pertinente;
+- d. diploma di scuola universitaria in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
+
+#### Art. 11
+
+**Numero massimo di persone in formazione in azienda**
+
+<sup>1</sup> Nelle aziende che impiegano un formatore almeno al 60 per cento o due formatori ciascuno almeno al 50 per cento può svolgere il tirocinio una persona in formazione.
+
+<sup>2</sup> Per ogni altro specialista impiegato almeno al 60 per cento o per ogni due specialisti che insieme raggiungono almeno il 100 per cento può svolgere il tirocinio una persona in formazione in più.
+
+<sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità o di una qualifica equivalente nel campo della persona in formazione.
+
+<sup>4</sup> Nelle aziende che possono impiegare soltanto una persona in formazione una seconda persona può iniziare il tirocinio quando la prima inizia l’ultimo anno della formazione professionale di base.
+
+<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+
+<sup>6</sup> Se i formatori o gli specialisti lavorano a tempo parziale l’azienda pianifica i loro orari lavorativi affinché, durante la pratica professionale, la persona in formazione possa essere seguita da una di queste due figure professionali.
+
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione, riflessione personale scritta e documentazione delle prestazioni
+
+#### Art. 12
+
+**Documentazione dell’apprendimento**
+
+<sup>1</sup> Nel corso della formazione professionale pratica la persona in formazione tiene una documentazione dell’apprendimento in cui annota regolarmente i principali lavori eseguiti in relazione alle competenze operative da acquisire.
+
+<sup>2</sup> Almeno una volta al semestre il formatore controlla e firma la documentazione dell’apprendimento e la discute con la persona in formazione.
+
+#### Art. 13
+
+**Rapporto di formazione**
+
+<sup>1</sup> Alla fine di ogni semestre, il formatore rileva in un rapporto il livello raggiunto dalla persona in formazione. A tal fine si basa sulle prestazioni nella formazione professionale pratica e sui resoconti delle prestazioni nella scuola professionale e nei corsi interaziendali. Discute il rapporto con la persona in formazione.
+
+<sup>2</sup> Se necessario, il formatore e la persona in formazione concordano misure per il raggiungimento degli obiettivi di formazione e fissano apposite scadenze. Le decisioni prese e le misure concordate sono annotate per iscritto.
+
+<sup>3</sup> Dopo la scadenza prefissata il formatore verifica l’efficacia delle misure concordate e ne riporta l’esito nel successivo rapporto di formazione.
+
+<sup>4</sup> Se nonostante le misure concordate gli obiettivi non sono raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
+
+#### Art. 14
+
+**Documentazione delle prestazioni nella scuola professionale**
+
+La scuola professionale documenta le prestazioni della persona in formazione nei campi di competenze operative in cui è svolto l’insegnamento e nella cultura generale e le consegna una pagella alla fine di ogni semestre.
+
+## Sezione 8: Procedure di qualificazione
+
+#### Art. 15
+
+**Ammissione**
+
+È ammesso alle procedure di qualificazione chi ha concluso la formazione professionale di base:
+
+- a. secondo le disposizioni della presente ordinanza;
+- b. in un istituto di formazione riconosciuto dal Cantone; o
+- c.
+
+  al di fuori di un ciclo di formazione regolamentato, se:
+
+  - 1\. ha maturato l’esperienza professionale di cui all’articolo 32 OFPr,
+  - 2\. ha svolto almeno due anni di tale esperienza nel campo dell’operatore socioassistenziale AFC, e
+  - 3\. rende verosimile il possesso dei requisiti per la rispettiva procedura di qualificazione.
+
+#### Art. 16
+
+**Oggetto**
+
+Nelle procedure di qualificazione occorre dimostrare di aver acquisito le competenze operative di cui all’articolo 4.
+
+#### Art. 17
+
+**Durata e svolgimento della procedura di qualificazione con esame finale**
+
+<sup>1</sup>
+
+Nella procedura di qualificazione con esame finale sono esaminate, nel modo sotto indicato, le competenze operative nei campi di qualificazione seguenti:
+
+- a.
+
+  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di quattro ore; vale quanto segue:
+
+  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
+  - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
+  - 3\. è ammessa la consultazione della documentazione dell’apprendimento e della documentazione dei corsi interaziendali,
+  - 4\. il campo di qualificazione comprende tutti i campi di competenze operative e il colloquio professionale della durata di 30 minuti con le seguenti ponderazioni:
+
+<table>
+<tr><td>Voce</td><td>Contenuto</td><td>Ponderazione</td></tr>
+<tr><td>1</td><td>Campi di competenze operative</td><td>70 %</td></tr>
+<tr><td>2</td><td>Colloquio professionale</td><td>30 %</td></tr>
+</table>
+
+- b.
+
+  «conoscenze professionali», della durata di tre ore; vale quanto segue:
+
+  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
+  - 2\. il campo di qualificazione è valutato con un esame scritto e comprende i campi di competenze operative sottoelencati, con la durata e le ponderazioni seguenti:
+
+<table>
+<tr><th>Voce</th><th>Campi di competenze operative</th><th colspan="2">Durata</th><th>Ponderazione</th></tr>
+<tr><td>1</td><td>Competenze trasversali Accompagnamento quotidiano Sostegno all’autonomia e alla partecipazione Lavoro in un’organizzazione e in un’équipe</td><td>120 min.</td><td></td><td>70 %</td></tr>
+<tr><td>2</td><td>Comportamento in specifiche situazioni di accompagnamento Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita</td><td>60 min.</td><td></td><td>30 %</td></tr>
+</table>
+
+- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+<sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 18
+
+**Superamento della procedura di qualificazione, calcolo e ponderazione delle note**
+
+<sup>1</sup>
+
+La procedura di qualificazione con esame finale è superata se:
+
+- a. per il campo di qualificazione «lavoro pratico» è attribuito almeno il 4; e
+- b. la nota complessiva raggiunge almeno il 4.
+
+<sup>2</sup>
+
+La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata relativa all’insegnamento delle conoscenze professionali; vale la seguente ponderazione:
+
+- a. lavoro pratico: 40 per cento;
+- b. conoscenze professionali: 20 per cento;
+- c. cultura generale: 20 per cento;
+- d. nota relativa all’insegnamento delle conoscenze professionali: 20 per cento.
+
+<sup>3</sup> Per nota relativa all’insegnamento delle conoscenze professionali si intende la media arrotondata al punto o al mezzo punto della somma delle sei note delle pagelle semestrali.
+
+#### Art. 19
+
+**Ripetizioni**
+
+<sup>1</sup> La ripetizione della procedura di qualificazione è disciplinata dall’articolo 33 OFPr.
+
+<sup>2</sup> Qualora si debba ripetere un campo di qualificazione, esso va ripetuto interamente.
+
+<sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente l’insegnamento delle conoscenze professionali, resta valida la nota conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento delle conoscenze professionali, per il calcolo della nota relativa all’insegnamento delle conoscenze professionali fanno stato soltanto le nuove note.
+
+#### Art. 20
+
+**Qualifiche acquisite al di fuori di un ciclo di formazione regolamentato (caso particolare)**
+
+<sup>1</sup> Per i candidati che hanno acquisito le competenze operative necessarie al di fuori di un ciclo di formazione regolamentato e che hanno sostenuto l’esame finale secondo la presente ordinanza viene meno la nota relativa all’insegnamento delle conoscenze professionali.
+
+<sup>2</sup>
+
+In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico: 50 per cento;
+- b. conoscenze professionali: 30 per cento;
+- c. cultura generale: 20 per cento.
+
+## Sezione 9: Attestazioni e titolo
+
+#### Art. 21
+
+<sup>1</sup> Chi ha superato la procedura di qualificazione consegue l’attestato federale di capacità (AFC).
+
+<sup>2</sup> L’attestato federale di capacità conferisce il diritto di avvalersi del titolo legalmente protetto di «operatrice socioassistenziale AFC»/«operatore socioassistenziale AFC».
+
+<sup>3</sup>
+
+Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:
+
+- a. la nota complessiva;
+- b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 20 capoverso 1, la nota relativa all’insegnamento delle conoscenze professionali;
+- c. l’indirizzo professionale.
+
+## Sezione 10: Sviluppo della qualità e organizzazione
+
+#### Art. 22
+
+**Commissione svizzera per lo sviluppo professionale e la qualità della formazione degli operatori socioassistenziali AFC**
+
+<sup>1</sup>
+
+La Commissione svizzera per lo sviluppo professionale e la qualità della formazione degli operatori socioassistenziali AFC è composta da:
+
+- a. almeno cinque rappresentanti dell’organizzazione mantello svizzera del mondo del lavoro in ambito sociale SAVOIRSOCIAL;
+- b. almeno una rappresentante dei docenti di materie professionali;
+- c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
+
+<sup>2</sup> Per la composizione della Commissione vale inoltre quanto segue:
+
+a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+
+b. le regioni linguistiche devono essere adeguatamente rappresentate;
+
+c. gli indirizzi professionali devono essere rappresentati.
+
+<sup>3</sup> La Commissione si autocostituisce.
+
+<sup>4</sup>
+
+Essa svolge in particolare i compiti seguenti:
+
+- a. verifica almeno ogni cinque anni la presente ordinanza e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici; nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. se osserva sviluppi che richiedono una modifica della presente ordinanza, chiede all’organizzazione del mondo del lavoro competente di proporre alla SEFRI la corrispondente modifica;
+- c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta all’organizzazione del mondo del lavoro competente una proposta di adeguamento del piano di formazione;
+- d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
+
+#### Art. 23
+
+**Organizzazione e responsabili dei corsi interaziendali**
+
+<sup>1</sup> Sono responsabili dei corsi interaziendali le organizzazioni del mondo del lavoro cantonali e regionali in campo sociale e sociosanitario.
+
+<sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
+
+<sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
+
+<sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
+
+## Sezione 11: Disposizioni finali
+
+#### Art. 24
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza della SEFRI del 16 giugno 2005[^24-1] sulla formazione professionale di base per operatori socioassistenziali con attestato federale di capacità (AFC) è abrogata.
+
+[^24-1]: [[RU 2005 2913](https://fedlex.data.admin.ch/eli/oc/2005/476), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 7 e II 7]
+
+#### Art. 25
+
+**Disposizioni transitorie e prima applicazione di singole disposizioni**
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di operatore socioassistenziale AFC prima dell’entrata in vigore della presente ordinanza la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2025.
+
+<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per operatore socioassistenziale AFC entro il 31 dicembre 2025 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+
+<sup>3</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 16–21) si applicano dal 1° gennaio 2024.
+
+#### Art. 26
+
+**Titoli equivalenti**
+
+c. Le formazioni cantonali riconosciute dalla CDPE, dalla CDOS e dalla SKV iniziate nel 2005.
+
+Sono equivalenti all’attestato federale di capacità di cui all’articolo 21:
+
+- a. i titoli di operatore socioassistenziale e assistente geriatrico conseguiti tra il 1° gennaio 1991 e il 31 dicembre 2010;
+- b.
+
+  i seguenti titoli, conseguiti tra il 1° gennaio 1991 e il 31 dicembre 2010:
+
+  - 1\.
+
+    i certificati cantonali di capacità e i certificati di capacità rilasciati dalla Conferenza dei direttori cantonali delle opere sociali (CDOS) o dalla Conferenza svizzera dei direttori della pubblica educazione (CDPE) per:
+
+    - – assistenza agli handicappati
+    - – assistenza agli anziani
+    - – operatore socioassistenziale,
+
+  - 2\. i certificati cantonali di capacità e i certificati riconosciuti dall’associazione *Schweizerischer Krippe**n**verband* *(SKV)* per educatori della prima infanzia (formazione triennale),
+  - 3\. i certificati riconosciuti dall’associazione *Verband für anthroposophische Heilpädagogik und Sozialth**e**rapie in der Schweiz (VaHS*) per l’assistenza agli handicappati (formazione triennale);
+
+#### Art. 27
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2021.

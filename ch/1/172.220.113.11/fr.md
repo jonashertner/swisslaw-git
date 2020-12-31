@@ -1,0 +1,351 @@
+---
+sr: "172.220.113.11"
+title: "Ordonnance du 16 septembre 2014 sur le personnel scientifique de l'École polytechnique fédérale de Zurich"
+eli: "https://fedlex.data.admin.ch/eli/cc/2014/656"
+language: fr
+version: 2018-01-01
+adopted: 2014-09-16
+in_force: 2015-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/656/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-656-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/656/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le personnel scientifique de l’Ecole polytechnique fédérale de Zurich
+
+du 16 septembre 2014 (Etat le 1<sup>er</sup> janvier 2018)
+
+La Direction de l’Ecole polytechnique fédérale de Zurich,
+
+vu l’art. 3, al. 1, de l’ordonnance du 15 mars 2001 sur le personnel du domaine des EPF (OPers-EPF)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup>
+
+La présente ordonnance régit les rapports de service du personnel scientifique de l’Ecole polytechnique fédérale de Zurich (EPF de Zurich). Celui-ci comprend:
+
+- a. les assistants et premiers assistants;
+- b. les collaborateurs scientifiques engagés pour une durée déterminée;
+- c. les collaborateurs scientifiques engagés pour une durée indéterminée.
+
+<sup>2</sup> Ne relèvent pas de la présente ordonnance les collaborateurs possédant une qualification académique auxquels incombent essentiellement des tâches liées à l’infrastructure.
+
+<sup>3</sup> Demeurent réservées les conditions d’engagement prévues par l’OPers-EPF.
+
+#### Art. 2
+
+**Classement des fonctions**
+
+<sup>1</sup> Le classement des fonctions est effectué conformément à l’annexe 1 de la présente ordonnance. Elle se fonde sur la grille des fonctions EPF figurant à l’annexe 1 de l’OPers-EPF.
+
+<sup>2</sup> Toute demande de changement de fonction ou d’échelon de fonction doit être adressée au domaine d’infrastructure du personnel par le service de l’échelon hiérarchique supérieur.
+
+#### Art. 3
+
+**Subordination hiérarchique**
+
+<sup>1</sup> Le personnel scientifique est subordonné à un responsable de budget au sens de l’art. 13 du règlement des finances de l’EPF de Zurich du 28 septembre 2005[^3-1].
+
+<sup>2</sup> Lorsque le personnel scientifique est rattaché à un institut, à un département ou à une autre unité de l’EPF de Zurich, le directeur de l’unité en question est réputé supérieur hiérarchique.
+
+[^3-1]: RSETHZ 245
+
+#### Art. 4
+
+**Plan de carrière et formation continue**
+
+<sup>1</sup> Le supérieur hiérarchique direct mène avec les assistants supérieurs I et II et les collaborateurs scientifiques I et II engagés pour une durée déterminée supérieure à quatre ans un entretien sur le plan de carrière au cours de la quatrième année de leur engagement.
+
+<sup>2</sup> Les assistants, assistants supérieurs et collaborateurs scientifiques peuvent assister gratuitement aux cours dispensés dans les deux EPF dans le cadre des études de bachelor et de master.
+
+<sup>3</sup> Le personnel scientifique peut suivre des cours de formation continue universitaire en accord avec son supérieur hiérarchique.
+
+## Section 2 Assistants et premiers assistants
+
+#### Art. 5
+
+**Positions**
+
+<sup>1</sup> L’engagement en tant qu’assistant ou premier assistant sert à la poursuite de la carrière académique ou au développement professionnel.
+
+<sup>2</sup>
+
+On distingue les positions suivantes:
+
+- a. assistant;
+- b. premier assistant I;
+- c. premier assistant II.
+
+#### Art. 6
+
+**Conditions d’engagement**
+
+<sup>1</sup> Peuvent être engagées en qualité d’assistants ou de premiers assistants les personnes titulaires d’un diplôme universitaire reconnu par l’EPF de Zurich.
+
+<sup>2</sup>
+
+Sont engagés en qualité d’assistants:
+
+- a. les candidats au doctorat au sens de l’ordonnance du 1<sup>er</sup> juillet 2008 sur le doctorat de l’EPF de Zurich[^6-1];
+- b. les postdoctorants.
+
+<sup>3</sup> Sont engagés en qualité de premiers assistants I les titulaires d’un diplôme universitaire qui possèdent un doctorat et au minimum deux ans d’expérience professionnelle.
+
+<sup>4</sup> Sont engagés en qualité de premiers assistants II les titulaires d’un diplôme universitaire qui possèdent un doctorat et au minimum cinq ans d’expérience professionnelle.
+
+[^6-1]: [RS 414.133.1](https://fedlex.data.admin.ch/eli/cc/2021/805)
+
+#### Art. 7
+
+**Taux d’occupation des assistants**
+
+<sup>1</sup> Le taux d’occupation des candidats au doctorat est de 100 %.
+
+<sup>2</sup> Un engagement à temps partiel n’est possible que dans des cas motivés, notamment pour charge de famille ou activité auprès d’un autre employeur.
+
+#### Art. 8
+
+**Salaire**
+
+<sup>1</sup>
+
+Le salaire est déterminé comme suit:
+
+- a. candidats au doctorat: montants fixes selon l’annexe 2;
+- b. postdoctorants: montants fixes selon l’annexe 3;
+- c. premiers assistants I et II: salaire initial individuel, compte tenu de l’expé-rience utile au sens de l’art. 26 OPers-EPF avec adaptation annuelle basée sur l’appréciation des prestations.
+
+<sup>2</sup> Les montants au sens de l’al. 1, let. a et b, sont déterminés par la direction de l’école.
+
+<sup>3</sup> Les charges d’enseignement des candidats au doctorat dépassant le volume minimal habituel du département sont rémunérées par un montant supérieur.
+
+#### Art. 9
+
+**Durée de l’engagement**
+
+### (art. 17*b*, al. 2, let. b, de la loi du 4 oct. 1991 sur les EPF)
+
+[^9-1]
+
+<sup>1</sup> Les assistants et premiers assistants sont engagés pour une période de six ans au maximum.
+
+<sup>2</sup> En cas de passage de la fonction d’assistant à celle de premier assistant, les années d’assistanat ne sont pas prises en compte.
+
+[^9-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+#### Art. 10
+
+**Tâches**
+
+<sup>1</sup> Les candidats au doctorat consacrent au moins 70 % de leur temps de travail à leur propre thèse et au projet de recherche sur lequel elle se fonde ainsi qu’à leurs études de doctorat. Ils assument en outre des tâches d’enseignement et des prestations de services d’intérêt général. Les départements règlent l’ampleur de ces tâches. Demeurent réservés les accords spéciaux avec les bailleurs de fonds tiers.
+
+<sup>2</sup> Les postdoctorants mènent leurs propres travaux de recherche et participent à des projets de recherche. Ils assument en outre des tâches importantes dans le domaine relevant de la responsabilité de leur supérieur hiérarchique en matière d’enseignement, de recherche et de prestations de services.
+
+<sup>3</sup> Les premiers assistants I et II assument des tâches de direction dans le domaine relevant de la responsabilité de leur supérieur en matière de préparation, d’organisation et de réalisation de projets de recherche ainsi que dans l’enseignement. Ils assument en outre des tâches administratives ou liées à l’infrastructure.
+
+## Section 3 Collaborateurs scientifiques engagés pour une durée déterminée
+
+#### Art. 11
+
+**Positions**
+
+<sup>1</sup> L’engagement en tant que collaborateur scientifique pour une durée déterminée sert à la poursuite de la carrière de gestionnaire de projet.
+
+<sup>2</sup>
+
+On distingue les positions suivantes:
+
+- a. assistant scientifique I;
+- b. assistant scientifique II;
+- c. collaborateur scientifique I;
+- d. collaborateur scientifique II.
+
+#### Art. 12
+
+**Conditions d’engagement**
+
+<sup>1</sup> Peuvent être engagés en qualité de collaborateurs scientifiques pour une durée déterminée les titulaires d’un diplôme universitaire reconnu par l’EPF de Zurich.
+
+<sup>2</sup> Sont engagés en qualité d’assistants scientifiques I les titulaires d’un diplôme universitaire sans expérience professionnelle et qui ne visent pas le doctorat.
+
+<sup>3</sup>
+
+Peuvent être engagés en qualité d’assistants scientifiques II:
+
+- a. les titulaires d’un diplôme universitaire qui possèdent un doctorat;
+- b. les titulaires d’un diplôme universitaire sans doctorat qui justifient d’au moins trois ans d’expérience professionnelle et de connaissances spécialisées correspondant au doctorat.
+
+<sup>4</sup> Peuvent être engagés en qualité de collaborateurs scientifiques I les titulaires d’un diplôme universitaire au sens de l’al. 3 qui possèdent en plus au moins deux ans d’expérience professionnelle.
+
+<sup>5</sup> Peuvent être engagés en qualité de collaborateurs scientifiques II les titulaires d’un diplôme universitaire au sens de l’al. 3 qui possèdent en plus au moins cinq ans d’expérience professionnelle.
+
+#### Art. 13
+
+**Salaire**
+
+Le salaire est déterminé comme suit:
+
+- a. assistants scientifiques I et II: montants fixes selon l’annexe 3;
+- b. collaborateurs scientifiques I et II: salaire individuel compte tenu de l’expérience utile selon l’art. 27 OPers-EPF avec adaptation annuelle basée sur l’appréciation des prestations.
+
+#### Art. 14
+
+**Durée de l’engagement**
+
+### (art. 17*b*, al. 2, de la loi du 4 oct. 1991 sur les EPF)
+
+[^14-1]
+
+La durée maximale de l’engagement à durée déterminée est de six ans pour les collaborateurs scientifiques assumant une fonction similaire à celle des assistants ou premiers assistants, et de neuf ans pour les collaborateurs scientifiques engagés dans des projets d’enseignement et de recherche.
+
+[^14-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+
+#### Art. 15
+
+**Tâches**
+
+Les collaborateurs scientifiques engagés pour une durée déterminée assument des tâches d’enseignement et de recherche et des prestations de services d’intérêt général.
+
+## Section 4 Collaborateurs scientifiques engagés pour une durée indéterminée
+
+#### Art. 16
+
+**Positions**
+
+<sup>1</sup> L’engagement en tant que collaborateur scientifique pour une durée indéterminée sert à la poursuite de la carrière académique.
+
+<sup>2</sup>
+
+On distingue les positions suivantes:
+
+- a. collaborateur scientifique supérieur I;
+- b. collaborateur scientifique supérieur II;
+- c. senior scientist I;
+- d. senior scientist II.
+
+#### Art. 17
+
+**Conditions d’engagement**
+
+<sup>1</sup> Peuvent être engagés pour une durée indéterminée les scientifiques justifiant d’une qualification académique reconnue qui permet d’exercer des tâches d’enseignement et de recherche et des prestations de services.
+
+<sup>2</sup> Pendant la durée des rapports de service, seule la direction de l’école peut décider, sur proposition de la direction du département concerné, de transformer l’engagement à durée déterminée en engagement à durée indéterminée.
+
+<sup>3</sup>
+
+Peuvent être classées dans la position de senior scientist II les personnes qui possèdent les qualifications énumérées à l’al. 1 et qui:
+
+- a. sont reconnues au niveau international et, conformément aux critères internationaux, entrent en ligne de compte pour une chaire, et
+- b. sont professeurs titulaires de l’EPF de Zurich.
+
+<sup>4</sup> Le classement dans la position de senior scientist II relève de la compétence de la direction de l’école sur proposition de la direction du département concerné.
+
+#### Art. 18
+
+**Salaire**
+
+Les art. 26 à 28 OPers-EPF s’appliquent à la détermination et à la progression du salaire.
+
+#### Art. 19
+
+**Tâches**
+
+<sup>1</sup> Les collaborateurs scientifiques supérieurs collaborent à l’enseignement, aux travaux de recherche et à l’accompagnement des étudiants et assurent un appui administratif ou technique.
+
+<sup>2</sup> Les senior scientists I et II dirigent un domaine d’enseignement ou de recherche ou un groupe de recherche.
+
+## Section 5 Dispositions finales
+
+#### Art. 20
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 12 décembre 2005 sur le personnel scientifique de l’Ecole polytechnique fédérale de Zurich[^20-1] est abrogée.
+
+[^20-1]: [[RO 2006 3375](https://fedlex.data.admin.ch/eli/oc/2006/535), [2008 4297](https://fedlex.data.admin.ch/eli/oc/2008/607), [2014 161](https://fedlex.data.admin.ch/eli/oc/2014/22)]
+
+#### Art. 21
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2015.
+
+Annexe 1
+
+(art. 2, al. 1)
+
+## Désignation des fonctions
+
+### 1 Engagement à durée déterminée
+
+<table>
+<tr><td>Fonction académique</td><td>Fonction dans un projet</td><td>Code</td><td>Echelon de fonction</td></tr>
+<tr><td>Candidat au doctorat</td><td>Assistant scientifique I</td><td>1011</td><td>06</td></tr>
+<tr><td>Postdoctorant</td><td>Assistant scientifique II</td><td>1022</td><td>08</td></tr>
+<tr><td>Premier assistant I</td><td>Collaborateur scientifique I</td><td>1023</td><td>09</td></tr>
+<tr><td>Premier assistant II</td><td>Collaborateur scientifique II</td><td>1024</td><td>10</td></tr>
+</table>
+
+### 2 Engagement à durée indéterminée
+
+<table>
+<tr><td>Fonction</td><td>Code</td><td>Echelon de fonction</td></tr>
+<tr><td>Collaborateur scientifique supérieur I</td><td>1031</td><td>10</td></tr>
+<tr><td>Collaborateur scientifique supérieur II</td><td>1032</td><td>11</td></tr>
+<tr><td>Senior scientist I</td><td>1033</td><td>12</td></tr>
+<tr><td>Senior scientist II</td><td>1034</td><td>13</td></tr>
+</table>
+
+Annexe 2
+
+(art. 8, al. 1, let. a)
+
+## Salaires des candidats au doctorat
+
+**Salaires**
+
+<table>
+<tr><td>Année</td><td>Niveau</td><td>Salaire (en francs)</td></tr>
+<tr><td>1<sup>re</sup> année</td><td>Standard</td><td>47 040</td></tr>
+<tr><td></td><td>2</td><td>52 855</td></tr>
+<tr><td></td><td>3</td><td>58 670</td></tr>
+<tr><td></td><td>4</td><td>64 485</td></tr>
+<tr><td></td><td>5</td><td>70 300</td></tr>
+<tr><td>2<sup>e</sup> année</td><td>Standard</td><td>48 540</td></tr>
+<tr><td></td><td>2</td><td>55 230</td></tr>
+<tr><td></td><td>3</td><td>61 920</td></tr>
+<tr><td></td><td>4</td><td>68 610</td></tr>
+<tr><td></td><td>5</td><td>75 300</td></tr>
+<tr><td>3<sup>e</sup> année</td><td>Standard</td><td>50 040</td></tr>
+<tr><td></td><td>2</td><td>57 610</td></tr>
+<tr><td></td><td>3</td><td>65 180</td></tr>
+<tr><td></td><td>4</td><td>72 750</td></tr>
+<tr><td></td><td>5</td><td>80 320</td></tr>
+</table>
+
+Annexe 3*[^t-1]*
+
+(art. 8, al. 1, let. b, et 13, let. a)
+
+## Salaires des assistants scientifiques I et II et des postdoctorants
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPF de Zurich du 14 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2018 1273](https://fedlex.data.admin.ch/eli/oc/2018/210)).
+
+**Salaires**
+
+<table>
+<tr><td></td><td>1<sup>re</sup> année (en francs)</td><td>2<sup>e</sup> année (en francs)</td><td>3<sup>e</sup> année (en francs)</td></tr>
+<tr><td>Assistant scientifique I</td><td>70 300</td><td>75 300</td><td>80 320</td></tr>
+<tr><td>Assistant scientifique II</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
+<tr><td>Postdoctorant</td><td>86 800</td><td>91 150</td><td>95 600</td></tr>
+</table>

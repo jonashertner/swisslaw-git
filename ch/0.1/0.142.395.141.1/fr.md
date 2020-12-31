@@ -1,0 +1,150 @@
+---
+sr: "0.142.395.141.1"
+title: "Accord du 7 décembre 2012 entre la Confédération suisse et la Principauté de Liechtenstein sur les modalités pratiques relatives à l'application facilitée du règlement Dublin"
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/13"
+language: fr
+version: 2013-01-06
+adopted: 2012-12-07
+in_force: 2013-01-06
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/13/20130106/fr/xml/fedlex-data-admin-ch-eli-cc-2013-13-20130106-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/13/20130106/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre la Confédération suisse et la Principauté de Liechtenstein sur les modalités pratiques relatives à l’application facilitée du règlement Dublin
+
+RO **2013** 59
+
+Traduction*[^t-1]*
+
+Conclu le 7 décembre 2012
+
+Entré en vigueur le 6 janvier 2013
+
+(Etat le 6 janvier 2013)
+
+[^t-1]: Texte original allemand.
+
+La Confédération suisse et la Principauté de Liechtenstein
+
+(ci-après «Parties contractantes»)
+
+vu l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’Etat responsable de l’examen d’une demande d’asile introduite dans un Etat membre ou en Suisse[^ingress-1] (ci-après «AAD»), par lequel la Suisse est associée au système Dublin et en vertu duquel notamment elle applique le règlement (CE) n° 343/2003 du Conseil du 18 février 2003 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande d’asile présentée dans l’un des Etats membres par un ressortissant d’un pays tiers (ci-après «règlement Dublin») dans sa version acceptée et mise en œuvre par la Suisse conformément aux art. 1 et 4 AAD;
+
+vu le protocole du 28 février 2008 entre la Principauté de Liechtenstein, la Communauté européenne et la Confédération suisse sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’Etat responsable de l’examen d’une demande d’asile présentée dans un Etat membre ou en Suisse[^ingress-2] (ci-après «protocole à l’AAD»), par lequel la Principauté de Liechtenstein est associée au système Dublin et en vertu duquel notamment elle applique le règlement Dublin dans sa version acceptée et mise en œuvre par la Principauté de Liechtenstein conformément aux art. 2 et 5 du protocole à l’AAD;
+
+vu l’art. 23 du règlement Dublin;
+
+les Parties contractantes sont convenues de ce qui suit:
+
+[^ingress-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^ingress-2]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195); LR 0.152.391.001
+
+#### Art. 1
+
+<sup>(1)</sup> Le présent Accord règle les modalités pratiques relatives à l’application facilitée du règlement Dublin.
+
+<sup>(2)</sup> Le présent Accord est appliqué en conformité avec le règlement Dublin et le règlement (CE) n° 1560/2003 de la Commission du 2 septembre 2003 portant modalités d’application du règlement (CE) n° 343/2003 du Conseil établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande d’asile présentée dans l’un des Etats membres par un ressortissant d’un pays tiers (ci-après «règlement d’application») dans leurs versions acceptées et mises en œuvre par la Suisse conformément aux art. 1 et 4 AAD et par la Principauté de Liechtenstein conformément aux art. 2 et 5 du protocole à l’AAD.
+
+<sup>(3)</sup> Les Parties contractantes utilisent les termes employés dans le règlement Dublin et le règlement d’application conformément aux définitions qui y figurent.
+
+#### Art. 2
+
+<sup>(1)</sup> Office fédéral des migrations[^2-1] Dublin Office
+
+Quellenweg 6
+
+CH-3003 Berne-Wabern
+
+Office des étrangers et des passeports
+
+Städtle 38
+
+Case postale 684
+
+9490 Vaduz
+
+Sont compétentes pour appliquer le présent Accord les autorités suivantes (ci-après «autorités compétentes»):
+
+- a) *au Département fédéral de justice et police*:
+
+- b) *aux Affaires intérieures:*
+
+<sup>(2)</sup> A la signature du présent Accord, les Parties contractantes s’échangent les informations relatives aux services chargés d’appliquer le présent Accord au sein des autorités compétentes. De plus, les autorités compétentes se tiennent mutuellement informées, sans tarder et par écrit, de tout changement concernant lesdits services.
+
+[^2-1]: Actuellement: Secrétariat d’Etat aux migrations (SEM), Domaine direction Asile, Division Dublin, Quellenweg 6, CH-3003 Berne-Wabern (voir [RO 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
+
+#### Art. 3
+
+<sup>(1)</sup> Les autorités compétentes répondent, dans les plus brefs délais, aux demandes de prise et de reprise en charge, ainsi qu’aux demandes d’informations visées à l’art. 21 du règlement Dublin. En règle générale, une réponse est rendue dans un délai de dix jours.
+
+<sup>(2)</sup> Demeurent réservées les dispositions visées à l’art. 17, al. 2, du règlement Dublin concernant la réponse urgente, à rendre dans un délai d’une semaine.
+
+<sup>(3)</sup> Demeurent également réservées les dispositions concernant l’absence de réponse valant acceptation tacite de la requête, au sens des art. 18, al. 7, ou 20, al. 1, let. c, du règlement Dublin.
+
+#### Art. 4
+
+<sup>(1)</sup> Les Parties contractantes se chargent des transferts par voie terrestre de ressortissants d’Etats tiers exécutés dans le cadre de la procédure visée par le règlement Dublin et le règlement d’application. Les autorités compétentes conviennent, au cas par cas, des modalités de remise ou de reprise des personnes à transférer en tenant compte des besoins des deux parties.
+
+<sup>(2)</sup> Les transferts par voie terrestre de la Principauté de Liechtenstein en Suisse ont lieu au poste de police de Buchs/SG ou de Mels/SG.
+
+Ceux effectués par voie terrestre de Suisse en Principauté de Liechtenstein ont lieu au poste de police de Vaduz/FL.
+
+<sup>(3)</sup> Dans certains cas et d’un commun accord entre les autorités compétentes, les transferts peuvent également avoir lieu à d’autres points de passage frontaliers. Une remise ne peut, en principe, avoir lieu qu’à un point de passage équipé de manière à garantir une remise ou une reprise sûre.
+
+<sup>(4)</sup> En principe, les transferts par voie terrestre sont effectués après concertation mutuelle concernant le délai.
+
+<sup>(5)</sup> Si l’autorité requise reconnaît sa compétence pour traiter un cas, les autorités compétentes des Parties contractantes s’accordent de suite sur les dates et les lieux de transfert possibles.
+
+<sup>(6)</sup> L’autorité compétente pour le transfert communique la date, l’heure et le lieu du transfert au moins trois jours ouvrables avant la date prévue.
+
+<sup>(7)</sup> Le transfert est exécuté par les autorités compétentes conformément au droit national interne.
+
+<sup>(8)</sup> Si les conditions de transfert visées aux al. 4, 5 et 6 ne sont pas respectées, les autorités compétentes de la partie requise peuvent refuser la prise en charge. Le cas échéant, une date de remplacement est fixée d’un commun accord pour le transfert.
+
+<sup>(9)</sup> Sont également applicables, en l’absence de réponse valant acceptation tacite de la requête au sens des art. 18, al. 7, ou 20, al. 1, let. c, du règlement Dublin, les al. 4 à 8 du présent article.
+
+#### Art. 5
+
+<sup>(1)</sup> Les collaborateurs des autorités compétentes pour effectuer le transfert sont habilités à faire transiter sous escorte policière, sur le territoire de l’autre partie contractante, des personnes se trouvant en garde à vue. Cette remarque vaut aussi pour le transit de personnes à transférer jusqu’à un aéroport international situé sur le territoire de l’autre partie contractante ou jusqu’au lieu du transfert se trouvant à la frontière d’un Etat voisin. L’autorité compétente, de même que les cantons concernés ou les circonscriptions de l’autre partie contractante, doivent être informés en temps voulu du transit envisagé, ainsi que de l’itinéraire emprunté et du moyen de transport choisi et disposer des données personnelles de la personne concernée.
+
+<sup>(2)</sup> Le transit doit suivre le chemin le plus court et ne doit pas être ponctué d’arrêts inutiles. En cas de transit par les transports publics, l’entreprise de transport doit être préalablement informée.
+
+<sup>(3)</sup> Les collaborateurs des autorités compétentes pour effectuer le transfert ne sont pas autorisés à effectuer, sur le territoire de l’autre partie contractante, des actes officiels dépassant le cadre du transit, sauf si ceux-ci sont nécessaires. Dans ce cas, il importe de prendre toutes les mesures de sécurité qui s’imposent afin d’empêcher une fuite de la personne transférée, la mise en danger de tiers ou d’objets ou encore une perturbation de la circulation. A cette fin, le recours à des moyens de contrainte, comme la mise de menottes, est au besoin admis. L’application de mesures de contrainte est régie par le droit national de la partie contractante sur le territoire de laquelle le transit a lieu.
+
+<sup>(4)</sup> Les personnes inaptes à être transportées ou n’ayant pas le droit de l’être conformément aux dispositions correspondantes ne sont pas concernées par ce type de transit.
+
+<sup>(5)</sup> Si une personne en cours de transfert s’enfuit, les collaborateurs accompagnants des autorités compétentes pour effectuer le transfert sont tenus de la poursuivre sur-le-champ et d’informer immédiatement le premier collaborateur atteignable des autorités de la partie contractante compétente chargées de la sécurité. Ils sont autorisés à poursuivre le fugitif uniquement aux alentours du chemin prévu pour le transit; la poursuite prend fin au plus tard lorsque les autorités de la partie contractante compétente chargées de la sécurité prennent la suite et demandent expressément aux collaborateurs accompagnants d’y mettre un terme.
+
+<sup>(6)</sup> Les personnes en transit n’ont besoin ni de document de voyage ni de visa.
+
+#### Art. 6
+
+En vertu de l’art. 15 du règlement d’application, les autorités compétentes communiquent au moyen du système DubliNet. En cas de difficultés techniques, d’autres systèmes de communication, en priorité la télécopie, peuvent être utilisés afin de garantir la rapidité de traitement des requêtes. Les Parties contractantes s’assurent que toutes les données sont efficacement protégées contre un accès non autorisé, une modification abusive ou toute publication illégale. Les Parties contractantes remédient sans délai aux difficultés techniques rencontrées et se préviennent par écrit de tout dysfonctionnement du système DubliNet.
+
+#### Art. 7
+
+Chaque Partie contractante, agissant par l’entremise de ses autorités compétentes, peut demander la convocation d’une réunion d’experts afin d’éclaircir toute question pratique liée à l’application du présent Accord, de même que du règlement Dublin et du règlement d’application. La date, l’heure et le lieu de la réunion sont fixés d’un commun accord entre les autorités compétentes.
+
+#### Art. 8
+
+<sup>(1)</sup> Le présent Accord entre en vigueur trente jours après sa signature.
+
+<sup>(2)</sup> Les modifications convenues au sujet du présent Accord entrent en vigueur sitôt que chacune des Parties contractantes a notifié à l’autre la fin de sa procédure d’approbation interne.
+
+<sup>(3)</sup> En cas de modification de l’AAD ou du protocole à l’AAD suite à une révision du règlement Dublin et/ou du règlement d’application, les Parties contractantes modifient le présent Accord en conséquence et le font entrer en vigueur conformément à l’al. 2.
+
+<sup>(4)</sup> Le présent Accord est conclu pour une durée indéterminée. Il peut en tout temps être dénoncé par écrit par chacune des deux Parties contractantes. Le cas échéant, il prend fin le premier jour du troisième mois suivant la réception de l’avis de dénonciation.
+
+<sup>(5)</sup> Le présent Accord s’éteint si l’AAD prend fin ou s’il est dénoncé conformément aux art. 4, al. 7, 7, al. 3 ou 16.
+
+Il s’éteint également si le protocole à l’AAD prend fin ou s’il est dénoncé conformément aux art. 5, al. 7, 11 ou 3 en relation avec l’art. 7, al. 3, AAD.
+
+<sup>(6)</sup> Conformément à l’art. 23, al. 2, du règlement Dublin, les autorités compétentes informent ensemble la Commission européenne après la signature et avant l’entrée en vigueur du présent Accord.
+
+Signé à Berne, le 7 décembre 2012.
+
+<table>
+<tr><td>Pour la Confédération suisse: Mario Gattiker</td><td>Pour la Principauté de Liechtenstein: Hans Peter Walch</td></tr>
+</table>

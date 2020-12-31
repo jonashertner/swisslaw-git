@@ -1,0 +1,106 @@
+---
+sr: "916.145.211"
+title: "Ordinanza dell'UFAG del 1° febbraio 2019 concernente il controllo dei mosti d'uva, dei succhi d'uva e dei vini destinati all'esportazione"
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/115"
+language: it
+version: 2019-03-01
+adopted: 2019-02-01
+in_force: 2019-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/115/20190301/it/xml/fedlex-data-admin-ch-eli-cc-2019-115-20190301-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/115/20190301/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’UFAG concernente il controllo dei mosti d’uva, dei succhi d’uva e dei vini destinati all’esportazione
+
+del 1° febbraio 2019 (Stato 1° marzo 2019)
+
+L’Ufficio federale dell’agricoltura (UFAG),
+
+visto l’articolo 42 capoverso 2 dell’ordinanza del 14 novembre 2007[^ingress-1] sul vino,
+
+ordina:
+
+[^ingress-1]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
+
+#### Art. 1
+
+**Attestato di controllo della qualità per l’esportazione**
+
+Se per l’esportazione di mosti d’uva, succhi d’uva e vini il Paese di destinazione esige un attestato di controllo della qualità, questo viene rilasciato conformemente alle disposizioni della presente ordinanza.
+
+#### Art. 2
+
+**Controllo della qualità**
+
+<sup>1</sup>
+
+L’analisi standard per il controllo della qualità verte sulle seguenti caratteristiche:
+
+- a.
+
+  per il mosto d’uva e il succo d’uva:
+
+  - 1\. densità,
+  - 2\. estratto secco totale,
+  - 3\. acidità totale,
+  - 4\. acidità volatile,
+  - 5\. acidità citrica,
+  - 6\. anidride solforosa totale;
+
+- b.
+
+  per il vino e il mosto d’uva parzialmente fermentato:
+
+  - 1\. titolo alcolometrico volumico totale,
+  - 2\. titolo alcolometrico volumico effettivo,
+  - 3\. estratto secco totale,
+  - 4\. acidità totale,
+  - 5\. acidità volatile,
+  - 6\. acidità citrica,
+  - 7\. anidride solforosa totale.
+
+<sup>2</sup> A seconda delle esigenze del Paese di destinazione, possono essere effettuate analisi supplementari ai fini del controllo della qualità.
+
+#### Art. 3
+
+**Domande di attestato per il controllo della qualità**
+
+<sup>1</sup> Le domande di attestato per il controllo della qualità devono essere inoltrate all’UFAG utilizzando il modulo previsto a tale scopo.
+
+<sup>2</sup> Se il Paese di destinazione esige documenti particolari, questi ultimi devono essere allegati alla domanda.
+
+<sup>3</sup> I richiedenti sono tenuti, se si può ragionevolmente esigere da essi, a compilare personalmente i documenti per l’esportazione e ad allegarli alla domanda.
+
+<sup>4</sup> Al laboratorio dei vini per l’esportazione della Stazione di ricerca per l’agricoltura e la filiera agroalimentare (Agroscope) devono essere inviate, contemporaneamente alla domanda, due bottiglie originali contenenti almeno 5 dl del prodotto destinato all’esportazione oppure, se il prodotto non è ancora stato imbottigliato, due campioni di 5 dl ciascuno.
+
+#### Art. 4
+
+**Controllo e rapporto d’analisi**
+
+<sup>1</sup> I rapporti d’analisi redatti da Agroscope sono validi dodici mesi.
+
+<sup>2</sup> Per i vini esteri riesportati verso l’Unione europea (UE) i rapporti d’analisi effettuati da organismi terzi iscritti nell’elenco dell’UE degli organismi o dei servizi designati dai Paesi d’origine secondo il Regolamento delegato (UE) 2018/273[^4-1] sono riconosciuti da Agroscope fino a dodici mesi dopo la redazione.
+
+[^4-1]: Regolamento delegato (UE) 2018/273 della Commissione dell’11 dicembre 2017, GU L 58 del 28.2.2018, pag. 1.
+
+#### Art. 5
+
+**Numero di riferimento**
+
+Se il Paese di destinazione richiede un numero di riferimento sui documenti, occorre indicare il numero del registro del Controllo svizzero del commercio dei vini.
+
+#### Art. 6
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza dell’UFAG del 7 dicembre 1998[^6-1] concernente il controllo dei mosti d’uva, dei succhi d’uva e dei vini destinati all’esportazione è abrogata.
+
+[^6-1]: [[RU 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89), [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213)]
+
+#### Art. 7
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° marzo 2019.

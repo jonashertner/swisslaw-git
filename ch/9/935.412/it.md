@@ -1,0 +1,194 @@
+---
+sr: "935.412"
+title: Ordinanza del 12 agosto 2015 sul sistema di trattamento dei dati concernenti le prestazioni di sicurezza private (ODPSP)
+short: ODPSP
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
+language: it
+version: 2015-09-01
+adopted: 2015-08-12
+in_force: 2015-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20150901/it/xml/fedlex-data-admin-ch-eli-cc-2015-530-20150901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20150901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul sistema di trattamento dei dati concernenti le prestazioni di sicurezza private
+
+(ODPSP)
+
+del 12 agosto 2015 (Stato 1° settembre 2015)
+
+Il Consiglio federale Svizzero,
+
+visto l’articolo 57*h* capoverso 3 della legge federale del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 38 della legge federale del 27 settembre 2013[^ingress-2] sulle prestazioni di sicurezza private fornite all’estero (LPSP),
+
+ordina:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina la gestione e l’utilizzo del sistema automatizzato di trattamento dei dati concernenti le prestazioni di sicurezza private (sistema di trattamento dei dati) della Direzione politica (DP) del Dipartimento federale degli affari esteri (DFAE).
+
+#### Art. 2
+
+**Scopo del sistema di trattamento dei dati**
+
+Il sistema di trattamento dei dati consente alla DP di svolgere i seguenti compiti di cui agli articoli 10, 12–14 e 16 LPSP:
+
+- a. trattamento delle notificazioni pervenute;
+- b. svolgimento della procedura di esame;
+- c. elaborazione di statistiche e rapporti.
+
+#### Art. 3
+
+**Autorità responsabile**
+
+La DP è responsabile del sistema di trattamento dei dati.
+
+## Sezione 2: Dati e trattamento dei dati
+
+#### Art. 4
+
+**Dati trattati e diritti di trattamento**
+
+<sup>1</sup>
+
+Nel sistema di trattamento dei dati sono trattati i dati concernenti:
+
+- a. le imprese soggette all’obbligo di notificazione: dati di cui all’allegato 1 sull’identità e le attività previste;
+- b. il personale e i membri della direzione o dell’organo di vigilanza dell’impresa soggetta all’obbligo di notificazione: dati di cui all’allegato 2;
+- c. il mandante e il destinatario delle prestazioni di sicurezza private secondo l’articolo 5 dell’ordinanza del 24 giugno 2015[^4-1] sulle prestazioni di sicurezza private fornite all’estero: dati di cui all’allegato 3.
+
+<sup>2</sup> I collaboratori competenti della DP registrano i dati nel sistema di trattamento dei dati; possono trattare i dati in qualsiasi momento.
+
+<sup>3</sup> L’unità Informatica DFAE può trattare tutti i dati nel sistema di trattamento dei dati in quanto sia necessario per l’adempimento dei suoi compiti.
+
+[^4-1]: [RS 935.411](https://fedlex.data.admin.ch/eli/cc/2015/451)
+
+#### Art. 5
+
+**Concessione dei diritti di accesso**
+
+<sup>1</sup> Il responsabile delle applicazioni concede agli utenti del sistema di trattamento dei dati i diritti di accesso individuali.
+
+<sup>2</sup> Verifica almeno una volta all’anno se le condizioni per la concessione dei diritti di accesso continuano a essere adempiute.
+
+#### Art. 6
+
+**Documenti**
+
+Nel sistema di trattamento dei dati possono essere immessi tutti i documenti relativi alle pratiche registrate elettronicamente.
+
+#### Art. 7
+
+**Gestione tecnica e amministrazione del sistema**
+
+<sup>1</sup> L’unità Informatica DFAE è responsabile della gestione tecnica del sistema di trattamento dei dati.
+
+<sup>2</sup> L’amministratore di sistema amministra il sistema operativo del computer, la banca dati e le applicazioni del sistema di trattamento dei dati.
+
+<sup>3</sup> Il responsabile delle applicazioni rappresenta l’interfaccia tra l’amministratore di sistema e gli utenti. È impiegato presso la DP.
+
+## Sezione 3: Protezione dei dati e sicurezza informatica
+
+#### Art. 8
+
+**Obblighi di diligenza**
+
+<sup>1</sup> La DP provvede affinché il trattamento dei dati personali nel sistema di trattamento dei dati sia conforme alle prescrizioni.
+
+<sup>2</sup> Garantisce inoltre che i dati personali presenti nel sistema di trattamento dei dati siano esatti, completi e aggiornati.
+
+#### Art. 9
+
+**Sicurezza dei dati**
+
+<sup>1</sup> La sicurezza dei dati e la sicurezza informatica sono rette dall’ordinanza del 14 giugno 1993[^9-1] relativa alla legge federale sulla protezione dei dati, dall’ordinanza del 9 dicembre 2011[^9-2] sull’informatica nell’Amministrazione federale e dalle istruzioni del Consiglio federale del 14 agosto 2013[^9-3] sulla sicurezza TIC nell’Amministrazione federale.
+
+<sup>2</sup> La DP emana un regolamento sul trattamento dei dati. Il regolamento disciplina le misure organizzative e tecniche volte ad assicurare la sicurezza dei dati e il controllo del trattamento dei dati.
+
+[^9-1]: [RS [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-2]: [RS [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^9-3]: [FF 2013 5771](https://fedlex.data.admin.ch/eli/fga/2013/1224)
+
+#### Art. 10
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi al sistema di trattamento dei dati e le modifiche sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati per un anno.
+
+## Sezione 4: Conservazione, archiviazione e cancellazione dei dati
+
+#### Art. 11
+
+<sup>1</sup> I dati personali contenuti nel sistema di trattamento dei dati sono cancellati dopo 15 anni dall’ultimo trattamento.
+
+<sup>2</sup> Sono fatte salve le disposizioni della legislazione in materia di archiviazione.
+
+## Sezione 5: Entrata in vigore
+
+#### Art. 12
+
+La presente ordinanza entra in vigore il 1° settembre 2015.
+
+Allegato 1
+
+(art. 4 cpv. 1 lett. a)
+
+## Dati concernenti l’impresa
+
+- 1\. Ditta
+- 2\. Sede
+- 3\. Forma giuridica
+- 4\. Estratto del registro di commercio
+- 5\. Scopo
+- 6\. Settori di attività
+- 7\. Luogo di impiego all’estero
+- 8\. Principali categorie di clienti
+- 9\. Prova dell’adesione al codice di condotta
+- 10\. Misure di formazione e di perfezionamento del personale
+- 11\. Dati sul sistema di controllo interno
+- 12\. Tipo e volume della prestazione di cui all’articolo 4 lettere a e b LPSP
+- 13\. Dati sulle armi e gli altri mezzi impiegati per la fornitura della prestazione di sicurezza
+- 14\. Ampiezza e durata dell’impiego
+- 15\. Numero di persone impiegate
+- 16\. Rischi connessi all’impiego
+- 17\. Altri dati importanti concernenti l’attività dell’impresa
+
+Allegato 2
+
+(art. 4 cpv. 1 lett. b)
+
+## Dati concernenti il personale e i membri della direzione o dell’organo di vigilanza
+
+- 1\. Cognome
+- 2\. Nome
+- 3\. Data di nascita
+- 4\. Residenza (incluso certificato di residenza)
+- 5\. Nazionalità
+- 6\. Dati sulla reputazione
+- 7\. Dati sull’autorizzazione all’esportazione, al porto e all’uso di armi, accessori per armi e munizioni
+- 8\. Dati sulla formazione professionale e il perfezionamento
+- 9\. Funzione all’interno dell’impresa: membro della direzione, membro dell’organo di vigilanza, funzione direttiva, funzione che prevede il permesso di porto d’armi
+- 10\. Dati connessi a procedimenti amministrativi o penali e sanzioni secondo l’articolo 20 LPSP: fatti contestati, dati sul tipo di procedimento, denominazione delle autorità interessate, copia della sentenza e di tutte le altre informazioni connesse alla sentenza
+
+Allegato 3
+
+(art. 4 cpv. 1 lett. c)
+
+## Dati concernenti il mandante e il destinatario delle prestazioni di sicurezza private
+
+- 1\. Cognome o denominazione: persone fisiche o giuridiche, organizzazioni internazionali, Governi, gruppi ecc.
+- 2\. Nel caso di persone fisiche: data di nascita
+- 3\. Luogo in cui si intende svolgere l’attività
+- 4\. Dati relativi al posto occupato: funzione, ruolo, rango, posizione ecc.
+- 5\. Altri dati utili per l’identificazione

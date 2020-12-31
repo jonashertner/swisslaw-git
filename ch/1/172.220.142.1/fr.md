@@ -1,0 +1,2517 @@
+---
+sr: "172.220.142.1"
+title: Règlement de prévoyance du 3 décembre 2007 de la Caisse de prévoyance du domaine des EPF pour le personnel du domaine des EPF (RP-EPF 1)
+short: RP-EPF 1
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/191"
+language: fr
+version: 2021-01-01
+adopted: 2007-12-03
+in_force: 2012-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-191-20210101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Règlement de prévoyance de la Caisse de prévoyance du domaine des EPF pour le personnel du domaine des EPF
+
+(RP-EPF 1)
+
+du 3 décembre 2007 (Etat le 1<sup>er</sup> janvier 2021)
+
+L’organe paritaire de la caisse de prévoyance du domaine des EPF (OP EPF),
+
+vu l’art. 32*c*, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Le présent règlement fait partie intégrante du contrat d’affiliation du 19 octobre 2007 de la caisse de prévoyance du domaine des EPF[^1-1].
+
+<sup>2</sup> Dans le cadre de la caisse de prévoyance du domaine des EPF, il régit l’assurance contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.
+
+[^1-1]: [FF 2008 5458](https://fedlex.data.admin.ch/eli/fga/2008/1055)
+
+#### Art. 2
+
+**Champ d’application**[^2-1]
+
+<sup>1</sup> Le présent règlement s’applique à la Caisse de prévoyance du domaine des EPF (employeur Conseil des EPF, ETHZ, EPFL, PSI, WSL, EMPA, EAWAG) ainsi qu’aux collaborateurs du domaine, conformément à l’art. 1, al. 1, de l’ordonnance sur le personnel du domaine des EPF (OPers-EPF), aux bénéficiaires de rente de cette catégorie de personnel et aux personnes dont l’assurance est maintenue selon l’art. 18*d*.[^2-2]
+
+<sup>2</sup> Il s’applique également aux personnes auxquelles PUBLICA verse des prestations suite à un divorce.
+
+[^2-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^2-2]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 3
+
+**Plans de prévoyance**
+
+<sup>1</sup>
+
+La Caisse de prévoyance du domaine des EPF compte trois plans de prévoyance qui sont attribués selon l’échelon fonctionnel respectivement le contrat de travail aux personnes concernées:
+
+- a. Plan standard: pour l’assurance des personnes jusqu’à l’échelon fonctionnel 9 y compris et des personnes rémunérées par un salaire forfaitaire;
+- b. Plan pour cadres 1: pour l’assurance des personnes des échelons fonctionnels 10 à 12 y compris;
+- c. Plan pour cadres 2: pour l’assurance des personnes des échelons fonctionnels 13 et plus.
+
+<sup>2</sup> En plus de ces plans de prévoyance, la personne assurée peut choisir entre deux plans de prévoyance complémentaires (art. 25) pour lesquels elle versera des cotisations d’épargne plus élevées.
+
+#### Art. 4
+
+**Objectif de prévoyance**
+
+Les modèles de calcul présentés dans le présent règlement sont fondés sur une retraite à l’âge de 65 ans.
+
+#### Art. 5
+
+**Abréviations**
+
+Les abréviations utilisées dans le présent règlement figurent en annexe 8.
+
+#### Art. 6
+
+**Partenariat enregistré**
+
+Selon la LPart, le partenariat enregistré est assimilé au mariage. Les effets de la dissolution judiciaire du partenariat enregistré sont assimilés à ceux du divorce.
+
+#### Art. 7
+
+**Cession et mise en gage**
+
+Les droits découlant du présent règlement ne peuvent ni être cédés, ni mis en gage, ni saisis avant leur exigibilité. Demeurent réservées les dispositions du chap. 10 relatives à l’encouragement à la propriété du logement*.*
+
+#### Art. 8
+
+**Intérêt, intérêt moratoire**
+
+Sauf dérogations prévues par le présent règlement, les taux d’intérêt applicables sont fixés chaque année par la commission de la caisse. Les taux d’intérêt figurent à l’annexe 1.
+
+#### Art. 9
+
+**Frais administratifs, taxes de l’autorité de surveillance et cotisations au fonds de garantie LPP**
+
+Le financement des frais administratifs, des taxes de l’autorité de surveillance et des cotisations au fonds de garantie LPP fait l’objet d’une convention séparée conclue entre l’employeur et PUBLICA dans le cadre du contrat d’affiliation.
+
+#### Art. 10
+
+**Obligation des personnes assurées, des bénéficiaires de rente et des survivants d’annoncer et de renseigner**
+
+<sup>1</sup> Les personnes salariées en instance d’admission, de même que les personnes assurées, les bénéficiaires de rente et leurs survivants sont tenus de donner à PUBLICA tous les renseignements complets et véridiques sur les faits essentiels ayant trait à leurs relations avec PUBLICA et de fournir toutes les pièces justificatives requises.[^10-1]
+
+<sup>2</sup>
+
+Les personnes assurées et bénéficiaires de rente ayant droit à des prestations de PUBLICA ou leurs survivants doivent notamment annoncer sans délai et par écrit:
+
+- a. leur mariage ou leur remariage, l’inscription d’un partenariat au sens de la LPart ou l’établissement d’une union libre, s’il existe un droit à une rente de viduité ou à une rente de partenaire;
+- b. l’achèvement de la formation ou le recouvrement de la capacité de gain de l’enfant âgé de plus de 18 ans pour lequel il existe un droit à une rente d’enfant ou à une rente d’orphelin;
+- c. le décès de la personne assurée ou du bénéficiaire de rente.
+
+<sup>3</sup> Les personnes assurées et bénéficiaires de rente ayant droit à des prestations d’invalidité de PUBLICA doivent, outre les prestations et revenus à prendre en compte selon l’art. 77, al. 1, déclarer par écrit, sans délai ni sommation particulière, toute modification de ces prestations et revenus ainsi que tout changement du taux d’invalidité et du montant de la rente.[^10-2]
+
+<sup>4</sup> Les prétentions envers d’autres assurances ou les droits en matière de responsabilité civile doivent être déclarés par écrit à PUBLICA, sans délai ni sommation particulière.
+
+[^10-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF des 21 mars et 16 oct. 2019, approuvée par le CF le 6 déc. 2019 et en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4735](https://fedlex.data.admin.ch/eli/oc/2019/771)). Erratum du 28 janv. 2020 ([RO 2020 351](https://fedlex.data.admin.ch/eli/oc/2020/57)).
+[^10-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 11
+
+**Conséquence de l’inobservation de l’obligation d’annoncer et de renseigner**
+
+<sup>1</sup> Les personnes salariées en instance d’admission, les personnes assurées et les bénéficiaires de rente ainsi que leurs survivants répondent des frais pour le travail supplémentaire causé à PUBLICA par suite de réticence ou de transmission d’informations erronées ou tardives de données. Les modalités sont définies par le règlement relatif aux émoluments.
+
+<sup>2</sup> Sont considérés comme infraction à l’obligation d’annoncer et de renseigner, la transmission tardive de renseignements ou de la communication et le refus de déclarer ou de communiquer.
+
+<sup>3</sup> Si une personne assurée qui a déposé une demande d’octroi de prestations de PUBLICA enfreint l’obligation lui incombant de renseigner ou de déclarer, PUBLICA suspend les démarches relatives au droit aux prestations et statue sur le cas seulement après réception des informations requises.
+
+<sup>4</sup> Si une personne assurée ou bénéficiaire de rente qui a droit à des prestations de PUBLICA enfreint l’obligation lui incombant de renseigner ou de déclarer, PUBLICA suspend le paiement des prestations jusqu’à la réception des informations requises.
+
+<sup>5</sup> Les prestations ne seront versées que lorsque la personne ayant droit aura fourni tous les documents nécessaires pour l’évaluation du droit aux prestations. En cas de transmission tardive des documents, les prestations seront versées sans intérêts.
+
+#### Art. 12
+
+**Obligation de PUBLICA, certificat de prévoyance[^12-1]**
+
+<sup>1</sup> Lors de son admission à PUBLICA, la personne assurée reçoit un certificat de prévoyance sur lequel figurent toutes les données déterminantes concernant sa propre prévoyance professionnelle. Les personnes assurées reçoivent un certificat de prévoyance au moins une fois par année.[^12-2]
+
+<sup>2</sup> Au moins une fois par année, PUBLICA informe de manière adéquate les personnes assurées sur son organisation, son financement et la composition de l’organe paritaire.
+
+[^12-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+[^12-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+
+#### Art. 13
+
+**Obligation de l’employeur**
+
+<sup>1</sup> L’employeur communique dans les délais à PUBLICA le nom des personnes salariées devant être assurées et toutes les données indispensables à la gestion de la prévoyance professionnelle, en particulier le salaire annuel déterminant, le taux d’occupation, l’état civil, la date de mariage ainsi que les informations pertinentes concernant les enfants pour lesquels il existe un droit aux prestations visées aux art. 41, 47 et 58. L’employeur répond de l’exactitude et de l’intégralité des informations transmises.
+
+<sup>2</sup> En cas de retard dans l’annonce d’une modification, les rapports d’assurance de la personne assurée seront rectifiés en fonction de la date effective du changement de ces rapports.
+
+## Chapitre 2 Personnes assurées
+
+#### Art. 14
+
+**Conditions d’admission dans l’assurance**
+
+Les personnes salariées sont obligatoirement assurées contre les risques décès et invalidité à partir du 1<sup>er</sup> janvier qui suit l’âge de 17 ans révolus. Le 1<sup>er</sup> janvier suivant l’âge de 21 ans révolus, elles sont également assurées contre le risque vieillesse.
+
+#### Art. 15 et 16
+
+[^1516-1]
+
+[^1516-1]: Abrogés par le ch. I de la D de l’OP EPF des 21 mars et 16 oct. 2019, approuvée par le CF le 6 déc. 2019 et avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4735](https://fedlex.data.admin.ch/eli/oc/2019/771)).
+
+#### Art. 17
+
+**Personnes non soumises à l’assurance**
+
+Ne sont pas admises dans l’assurance de PUBLICA, les personnes salariées:
+
+- a. engagées pour une durée limitée ne dépassant pas trois mois; en cas de prolongation du contrat de travail, l’obligation d’assurance prend naissance au moment où il est convenu de prolonger le contrat;
+- b qui exercent une activité accessoire pour le compte d’un employeur affilié à la caisse de prévoyance du domaine des EPF et sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal ou exercent une activité lucrative indépendante à titre principal;
+- c. qui sont invalides au sens de la LAI, à raison de 70 % au moins;
+- c<sup>bis</sup>.[^17-1] qui, au sens de l’art. 26*a* LPP, restent assurées à titre provisoire auprès de l’institution de prévoyance tenue de leur verser des prestations;
+- d. dont le salaire annuel est inférieur au salaire minimum selon art. 7 LPP;
+- e. qui ont 65 ans révolus, ou
+- f. qui n’exercent pas leur activité lucrative en Suisse ou ne l’exerceront probablement pas en permanence et qui disposent à l’étranger d’une couverture d’assurance suffisante, pour autant qu’elles en fassent la demande.
+
+[^17-1]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 18
+
+**Cessation de l’assurance**
+
+<sup>1</sup>
+
+L’assurance prend fin:
+
+- a.[^18-1] avec la résiliation des rapports de travail, pour autant qu’à cette date la personne assurée ne soit pas mise au bénéfice de prestations de vieillesse ou d’invalidité et que l’assurance ne soit pas maintenue selon l’art. 18*d*;
+- b.[^18-2] lorsque la personne assurée a atteint l’âge de 65 ans, sous réserve de l’art. 18*b*.
+- c.[^18-3] …
+
+<sup>2</sup> La personne concernée reste toutefois assurée à PUBLICA contre les risques de décès et d’invalidité pendant un mois après la résiliation des rapports de travail. Les prestations correspondent aux prestations assurées à la fin des rapports de travail. Si une nouvelle relation de prévoyance prend naissance avant la fin de ce délai, la nouvelle institution de prévoyance est compétente.
+
+[^18-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^18-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^18-3]: Abrogée par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 18a
+
+**Maintien de la prévoyance en cas de congé non payé**[^18a-1]
+
+Pendant un congé non payé ou partiellement payé, la personne assurée peut, compte tenu de l’art. 29 et des dispositions relatives au droit du travail, maintenir totalement ou partiellement la couverture d’assurance qu’elle avait jusqu’alors.
+
+[^18a-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 (RO **2****012** 2091).
+
+#### Art. 18b
+
+**Maintien de la prévoyance vieillesse après l’âge de 65 ans**[^18b-1]
+
+Si les rapports de travail se poursuivent après l’âge de 65 ans, la prévoyance vieillesse de la personne assurée est maintenue jusqu’à la cessation des rapports de travail, mais au plus tard jusqu’à l’âge de 70 ans. La personne assurée peut, si elle le demande, renoncer au maintien de sa prévoyance vieillesse.
+
+[^18b-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 18c
+
+**Maintien de la prévoyance en cas de réduction du salaire annuel déterminant**[^18c-1]
+
+<sup>1</sup> Si le salaire annuel déterminant d’une personne assurée ayant atteint l’âge de 58 ans diminue de la moitié au plus, celle-ci peut demander le maintien total ou partiel de sa prévoyance au niveau du dernier gain assuré.
+
+<sup>2</sup> L’assurance est maintenue au niveau du dernier gain assuré au plus tard jusqu’à la fin des rapports de travail. Dans tous les cas, elle cesse au plus tard lorsque la personne assurée atteint l’âge de 65 ans.
+
+[^18c-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 18d
+
+**Maintien de l’assurance après la dissolution des rapports de travail par l’employeur ou d’un commun accord**[^18d-1]
+
+<sup>1</sup> Si les rapports de travail d’une personne assurée sont résiliés par l’employeur ou d’un commun accord, mais à l’initiative de l’employeur, après qu’elle a atteint l’âge de 58 ans mais avant qu’elle ait 65 ans, l’assurance est maintenue en vertu de l’art. 47*a*, al. 2 à 6, LPP à la demande de la personne assurée. La demande de maintien de l’assurance doit parvenir à PUBLICA par écrit dans les trois mois qui suivent la dissolution des rapports de travail.
+
+<sup>2</sup> La personne assurée répond des frais administratifs selon le règlement relatif aux émoluments et de la prime de risque pour l’assurance des risques de décès et d’invalidité. Si elle maintient aussi sa prévoyance vieillesse, elle répond par ailleurs des cotisations d’épargne de l’employeur, en plus de ses propres cotisations d’épargne; elle peut verser des cotisations d’épargne volontaires. Le gain assuré au moment de la dissolution des rapports de travail est déterminant pour le calcul des cotisations d’épargne et de la prime de risque. L’assurance peut être maintenue par la personne assurée à hauteur de la moitié ou de la totalité du gain assuré. Durant le maintien de l’assurance, l’avoir de vieillesse et les cotisations d’épargne volontaires sont rémunérés.
+
+<sup>3</sup> Le maintien de l’assurance prend fin à la survenance des risques de décès ou d’invalidité ou lorsque la personne assurée atteint l’âge de 65 ans. En cas d’invalidité partielle, le gain assuré est réduit en proportion du droit à la rente d’invalidité.
+
+<sup>4</sup> Si la personne assurée entre dans une nouvelle institution de prévoyance avant l’âge de 65 ans, la prestation de sortie est transférée au moins dans la mesure qui peut être utilisée pour le rachat des prestations réglementaires complètes de la nouvelle institution de prévoyance.
+
+<sup>5</sup> Si, après ce transfert, un tiers au moins de la prestation de sortie demeure chez PUBLICA, l’assurance est maintenue. Le gain assuré est réduit en proportion de la prestation de sortie transférée.
+
+<sup>6</sup>
+
+Si, après ce transfert, moins d’un tiers de la prestation de sortie demeure chez PUBLICA, l’assurance prend fin. La partie restante de la prestation de sortie est:
+
+- a. versée sous forme de prestation de vieillesse à la personne assurée si cette dernière a atteint l’âge de 60 ans;
+- b. transférée à une institution de libre passage si la personne assurée n’a pas encore atteint l’âge de 60 ans.
+
+<sup>7</sup>
+
+Si l’assurance prend fin en raison de sa résiliation par la personne assurée ou de sa résiliation par PUBLICA en cas de non-paiement des cotisations, la prestation de sortie est:
+
+- a. versée sous forme de prestation de vieillesse à la personne assurée si cette dernière a atteint l’âge de 60 ans;
+- b. transférée à une institution de libre passage si la personne assurée n’a pas encore atteint l’âge de 60 ans.
+
+[^18d-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+## Chapitre 3 Bases de calcul
+
+#### Art. 19
+
+**Salaire annuel déterminant**
+
+<sup>1</sup> L’employeur détermine et communique à PUBLICA le salaire annuel déterminant pour l’assurance des personnes assurées.
+
+<sup>2</sup> Les critères décisifs pour le calcul du salaire annuel déterminant sont définis par l’employeur pour chaque catégorie de personnes assurées, sur la base de principes unifiés tenant compte des dispositions de la LPP et de ses dispositions d’exécution.
+
+<sup>3</sup> Le salaire annuel déterminant ne doit pas dépasser le revenu soumis à la cotisation de l’AVS de la personne assurée. Les art. 18*a* et 18*c* sont réservés.[^19-1]
+
+<sup>4</sup> L’employeur peut définir à l’avance le salaire annuel déterminant en se basant sur le dernier salaire annuel connu. Il doit tenir compte des modifications convenues pour l’année en cours. En cas de fortes variations du taux d’occupation ou du montant du revenu, le salaire annuel déterminant est fixé de manière forfaitaire sur la base du salaire moyen du groupe professionnel concerné.
+
+<sup>5</sup> Lorsque le salaire subit des variations importantes, le salaire annuel déterminant pour l’obligation de cotiser est celui qui figure sur l’attestation des salaires soumis à l’AVS. L’employeur est redevable envers PUBLICA d’acomptes de cotisations à verser jusqu’à réception du décompte définitif.
+
+<sup>6</sup> Si une personne assurée est employée depuis moins d’une année, est réputé salaire annuel déterminant le salaire qu’elle aurait obtenu si elle avait travaillé toute l’année.
+
+[^19-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 20
+
+**Gain assuré**
+
+<sup>1</sup> Le gain assuré correspond au salaire annuel déterminant, déduction faite du montant de coordination.
+
+<sup>2</sup> Le montant de coordination correspond à 30 % du salaire annuel déterminant mais au plus au montant-limite inférieur conformément à l’art. 8, al. 1, LPP.
+
+<sup>3</sup> En cas d’invalidité partielle d’une personne assurée, l’art. 21 s’applique par analogie au calcul du gain assuré.[^20-1]
+
+<sup>4</sup> Le gain assuré maximum maintenu est déterminé sur la base du gain assuré qui était valable immédiatement avant une réduction.[^20-2]
+
+[^20-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^20-2]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 21
+
+**Activité à temps partiel**[^21-1]
+
+Le salaire annuel déterminant des personnes assurées exerçant une activité à temps partiel correspond au salaire qu’elles obtiendraient à un taux d’occupation de 100 %. Le gain assuré correspond au salaire annuel déterminant, déduction faite du montant de coordination, converti au taux d’occupation déterminant pour l’assurance.
+
+[^21-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 22
+
+**Revenus non assurables**
+
+Les revenus provenant d’employeurs qui ne font pas partie du domaine des EPF ou provenant d’une activité indépendante ne peuvent être assurés auprès de PUBLICA.
+
+## Chapitre 4 Cotisations d’épargne, prime de risque, prestations de sortie apportées et rachat
+
+#### Art. 23
+
+**Cotisations d’épargne et prime de risque**
+
+Le gain assuré est déterminant pour le calcul des cotisations d’épargne et de la prime de risque.
+
+#### Art. 24
+
+**Cotisations d’épargne**
+
+<sup>1</sup> Les cotisations d’épargne sont perçues dès le 1<sup>er</sup> janvier de l’année suivant le 21<sup>e</sup> anniversaire de la personne salariée et sont échelonnées selon l’âge. La somme des cotisations d’épargne selon l’al. 2 forme les bonifications de vieillesse de chaque personne assurée.
+
+<sup>2</sup>
+
+Les différents plans de prévoyance fixent les cotisations d’épargne suivantes:
+
+- a. plan standard pour les personnes salariées jusqu’à l’échelon de fonction 9 compris et pour les personnes rémunérées par un forfait:
+
+<table>
+<tr><th>Classe d’âge (Classe de cotisation)</th><th>Cotisation d’épargne de la personne salariée (%)</th><th>Cotisation d’épargne de l’employeur (%)</th><th>Total des bonifications de vieillesse (%)</th></tr>
+<tr><td>22–34</td><td>4,80</td><td>8,45</td><td>13,25</td></tr>
+<tr><td>35–44</td><td>6,05</td><td>10,70</td><td>16,75</td></tr>
+<tr><td>45–54</td><td>9,45</td><td>16,75</td><td>26,20</td></tr>
+<tr><td>55–70</td><td>12,15</td><td>21,60</td><td>33,75</td></tr>
+</table>
+
+- b. plan pour cadres 1 pour les personnes salariées des échelons de fonction 10 à 12 compris:
+
+<table>
+<tr><th>Classe d’âge (Classe de cotisation)</th><th>Cotisation d’épargne de la personne salariée (%)</th><th>Cotisation d’épargne de l’employeur (%)</th><th>Total des bonifications de vieillesse (%)</th></tr>
+<tr><td>22–34</td><td>4,80</td><td>8,45</td><td>13,25</td></tr>
+<tr><td>35–44</td><td>6,05</td><td>10,70</td><td>16,75</td></tr>
+<tr><td>45–54</td><td>10,50</td><td>18,60</td><td>29,10</td></tr>
+<tr><td>55–70</td><td>13,15</td><td>23,45</td><td>36,60</td></tr>
+</table>
+
+- c. plan pour cadres 2 pour les personnes salariées des échelons de fonction 13 et plus:
+
+<table>
+<tr><th>Classe d’âge (Classe de cotisation)</th><th>Cotisation d’épargne de la personne salariée (%)</th><th>Cotisation d’épargne de l’employeur (%)</th><th>Total des bonifications de vieillesse (%)</th></tr>
+<tr><td>22–34</td><td>5,80</td><td>10,30</td><td>16,10</td></tr>
+<tr><td>35–44</td><td>7,05</td><td>12,50</td><td>19,55</td></tr>
+<tr><td>45–54</td><td>11,50</td><td>20,50</td><td>32,00</td></tr>
+<tr><td>55–70</td><td>14,25</td><td>25,30</td><td>39,55 .[^24-1]</td></tr>
+</table>
+
+<sup>3</sup> L’âge pour la définition des cotisations d’épargne et ainsi des bonifications de vieillesse correspond à la différence entre l’année du calendrier civil en cours et l’année de naissance de la personne assurée.
+
+<sup>4</sup> Le changement de classe de cotisation selon l’al. 1 a lieu le 1<sup>er</sup> janvier de l’année qui suit l’anniversaire correspondant à la limite de la classe d’âge.
+
+[^24-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 25
+
+**Plans de prévoyance complémentaires**
+
+<sup>1</sup> En plus des cotisations d’épargne visées à l’art. 24, la personne assurée peut s’acquitter de cotisations d’épargne volontaires en optant pour le plan de prévoyance complémentaire 1 ou 2.
+
+<sup>2</sup> Les personnes assurées selon le plan standard peuvent opter pour l’un des plans de prévoyance complémentaires ci-dessous:
+
+<table>
+<tr><th>Classe d’âge (Classe de cotisation)</th><th>Plan de prévoyance compl.1 Cotisation d’épargne volontaire (%)</th><th>Plan de prévoyance compl.2 Cotisation d’épargne volontaire (%)</th></tr>
+<tr><td>22–44</td><td>2,00</td><td>4,00</td></tr>
+<tr><td>45–70</td><td>3,00</td><td>6,00 .[^25-1]</td></tr>
+</table>
+
+<sup>2bis</sup> Les personnes assurées selon le plan pour cadres 1 peuvent opter pour l’un des plans de prévoyance complémentaires ci-dessous:
+
+<table>
+<tr><th>Classe d’âge (Classe de cotisation)</th><th>Plan de prévoyance compl. 1 Cotisation d’épargne volontaire (%)</th><th>Plan de prévoyance compl. 2 Cotisation d’épargne volontaire (%)</th></tr>
+<tr><td>22–44</td><td>2,00</td><td>4,00</td></tr>
+<tr><td>45–70</td><td>3,00</td><td>5,00 .[^25-2]</td></tr>
+</table>
+
+<sup>3</sup> Les personnes assurées selon le plan pour cadres 2 peuvent opter pour l’un des plans de prévoyance complémentaires ci-dessous:
+
+<table>
+<tr><th>Classe d’âge (Classe de cotisation)</th><th>Plan de prévoyance compl. 1 Cotisation d’épargne volontaire (%)</th><th>Plan de prévoyance compl. 2 Cotisation d’épargne volontaire (%)</th></tr>
+<tr><td>22–44</td><td>2,00</td><td>1,50</td></tr>
+<tr><td>45–70</td><td>2,00</td><td>3,50 .[^25-3]</td></tr>
+</table>
+
+<sup>4</sup> L’employeur communique à PUBLICA si la personne assurée a opté pour un plan de prévoyance complémentaire en précisant lequel, si elle change de plan ou y renonce complètement. La mutation prend effet le premier jour du mois qui suit l’annonce.[^25-4]
+
+<sup>5</sup> …[^25-5]
+
+<sup>6</sup> Le gain assuré de la personne assurée sert de base pour la définition de la cotisation d’épargne volontaire.
+
+<sup>7</sup> Les cotisations d’épargne volontaires ne sont pas créditées sur l’avoir de vieillesse mais sur un compte épargne séparé (compte PC). Le compte PC est réduit proportionnellement suite à des retraits dans le cadre de l’encouragement à la propriété du logement (art. 92) ou à des transferts en cas de divorce (art. 99, al. 2, 1<sup>re</sup> phrase). Les règles de l’art. 36 concernant la gestion de l’avoir de vieillesse sont applicables pour la gestion du compte PC. Le taux d’intérêt applicable aux cotisations d’épargne volontaires comme au compte PC est fixé à l’annexe 1.[^25-6]
+
+[^25-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^25-2]: Introduit par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^25-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^25-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+[^25-5]: Abrogé par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+[^25-6]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 26
+
+**Prime de risque**
+
+<sup>1</sup> Une prime de risque calculée en pour cent du salaire assuré est perçue pour l’assurance des risques décès et invalidité. Le taux de la prime de risque est identique pour toutes les classes d’âge.
+
+<sup>2</sup> La prime de risque est payée par la personne assurée et par l’employeur. La part de la personne assurée s’élève à 0,55 % du gain assuré, indépendamment du plan dans lequel elle est assurée. Le montant de la prime de risque à la charge de l’employeur s’élève à 0,55 % au moins.[^26-1]
+
+<sup>3</sup> Le paiement de la prime de risque en cas de maintien de l’assurance selon l’art. 18*d* est réservé.[^26-2]
+
+[^26-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^26-2]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 27
+
+**Paiement des cotisations d’épargne et de la prime de risque**
+
+<sup>1</sup> L’employeur répond du paiement de l’ensemble des cotisations d’épargne et de la prime de risque. Les cotisations et la prime sont versées chaque mois à PUBLICA.
+
+<sup>2</sup> La cotisation d’épargne (art. 24 et 25) et la prime de risque (art. 26) de la personne assurée sont déduites du salaire mensuel. La cotisation d’épargne selon l’art. 24 et la prime de risque selon l’art. 26 dont doit s’acquitter la personne assurée ainsi que la cotisation d’épargne payée par l’employeur figurent dans le tableau en annexe 2.
+
+<sup>2bis</sup> En cas de maintien de l’assurance selon l’art. 18*d*, la personne assurée répond du paiement des cotisations d’épargne et de la prime de risque dans leur totalité. Celles-ci lui sont facturées tous les mois.[^27-1]
+
+<sup>3</sup> L’obligation de payer les cotisations et la prime débute avec l’admission dans l’assurance.
+
+<sup>4</sup>
+
+Elle prend fin:
+
+- a. au décès de la personne assurée;
+- b. en cas d’invalidité conformément à l’art. 53;
+- c. à la cessation des rapports de travail;
+- c<sup>bis</sup>.[^27-2] à la cessation du maintien de l’assurance selon l’art. 18*d*;
+- d. mais au plus tard lorsque la personne assurée atteint l’âge de 65 ans pour la prime de risque et au plus tard lorsque la personne assurée a atteint l’âge de 70 ans pour les cotisations d’épargne (art. 24 et 25).
+
+<sup>5</sup> L’art. 28 est réservé.
+
+[^27-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^27-2]: Introduite par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **202****2** 74).
+
+#### Art. 28
+
+**Obligation de payer les cotisations et la prime en cas d’admission ou de sortie en cours de mois, de congé non payé, de maintien de la prévoyance lors d’une réduction du salaire annuel déterminant et de décès[^28-1]**
+
+<sup>1</sup> Lorsqu’une personne assurée est admise dans l’assurance avant le 15 du mois, la cotisation est due pour le mois entier. Si l’admission a lieu le 15 du mois ou après, la cotisation est due à partir du 1<sup>er</sup> du mois suivant.
+
+<sup>2</sup> Lorsque la sortie (dernier jour des rapports de travail) d’une personne assurée est effective avant le 15 du mois, aucune cotisation n’est due pour le mois en cours. Si la sortie a lieu le 15 du mois ou après, la cotisation est due pour le mois entier.
+
+<sup>3</sup> La règle énoncée aux al. 1 et 2 est applicable par analogie en cas de congé non payé (art. 29) ou de maintien de la prévoyance lors d’une réduction du salaire annuel déterminant (art. 29*a*).[^28-2]
+
+<sup>4</sup> En cas de décès de la personne assurée, la cotisation est due pour le mois entier.
+
+[^28-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^28-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 29
+
+**Congé non payé**
+
+<sup>1</sup> En cas de congé non payé ou partiellement payé, l’assurance continue à courir sans modification pendant un mois.
+
+<sup>2</sup> La personne assurée peut maintenir l’assurance à partir du 2<sup>e</sup> mois en s’acquittant elle-même des cotisations d’épargne et de la prime de risque l’employeur, en plus de ses propres cotisations d’épargne et de sa propre prime de risque. Si elle maintient l’assurance uniquement pour les risques décès et invalidité, l’avoir de vieillesse disponible et le compte PC sont rémunérés d’un intérêt jusqu’à la fin de la période de congé (voir annexe 1).
+
+#### Art. 29a
+
+**Cotisations d’épargne et prime de risque en cas de maintien de la prévoyance lors d’une réduction du salaire annuel déterminant**[^29a-1]
+
+<sup>1</sup> Si, lors d’une réduction du salaire annuel déterminant, la personne assurée maintient sa prévoyance selon l’art. 18*c*, elle doit verser, outre ses propres cotisations d’épargne et la prime de risque, les cotisations d’épargne et la prime de risque de l’employeur (art. 24 et 26) pour maintenir l’assurance au niveau du dernier gain assuré.
+
+<sup>2</sup> Une éventuelle participation financière de l’employeur au maintien de la prévoyance est régie par les dispositions relatives au droit du travail.
+
+[^29a-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 30
+
+**Prestations de sortie apportées**
+
+Les prestations de sortie d’autres institutions de prévoyance et les avoirs auprès des institutions de libre passage doivent être transférés à PUBLICA lors de l’admission de la personne assurée. Ils sont intégralement crédités à l’avoir de vieillesse de la personne assurée.
+
+#### Art. 31
+
+[^31-1]
+
+[^31-1]: Abrogé par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 32
+
+**Rachat – dispositions générales[^32-1]**
+
+<sup>1</sup> Le rachat des prestations réglementaires est autorisé sous réserve de l’al. 4. Il ne doit pas dépasser les limites fixées par la LPP (voir annexe 3). L’âge et le gain assuré au moment du rachat sont, sous réserve de l’art. 32*b*, al. 2, déterminants. Pour les personnes dont le salaire annuel déterminant est fixé conformément à l’art. 19, al. 4, le montant déterminant est le gain assuré mensuel moyen des 12 derniers mois multiplié par 12.[^32-2]
+
+<sup>2</sup> *…*[^32-3]
+
+<sup>3</sup> Les bénéficiaires de prestations de vieillesse ne peuvent racheter des prestations réglementaires que pour la part de celles-ci qui dépasse le niveau de prévoyance qui existait avant la survenance du cas de prévoyance vieillesse.[^32-4]
+
+<sup>4</sup> Les rachats effectués après la survenance d’une incapacité de travail dont la cause est à l’origine de l’invalidité sont restitués (art. 57, al. 3).
+
+<sup>5</sup> Les rachats ne sont possibles qu’à la condition d’avoir intégralement remboursé les prélèvements anticipés perçus dans le cadre de l’encouragement à la propriété du logement.[^32-5]
+
+[^32-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^32-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^32-3]: Abrogé par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^32-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^32-5]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **202****2** 74).
+
+#### Art. 32a
+
+**Rachat par versement unique jusqu’à l’âge de 65 ans**[^32a-1]
+
+Durant la période de 90 jours suivant son admission dans l’assurance, la personne assurée peut, dans les limites fixées à l’art. 32, librement décider du montant du premier rachat. Passé ce délai, le montant minimum d’un rachat est de 5000 francs. Si la somme de rachat résiduelle possible est inférieure à 5000 francs, la totalité de la somme doit être acquittée en une seule fois.
+
+[^32a-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 32b
+
+**Rachat par versement unique après l’âge de 65 ans**[^32b-1]
+
+<sup>1</sup>
+
+Un rachat après l’âge de 65 ans est possible, dans les limites fixées à l’art. 32, si la personne assurée:
+
+- a. n’a pas effectué, à l’âge de 65 ans, le rachat complet des prestations réglementaires, et
+- b. a maintenu sa prévoyance vieillesse après l’âge de 65 ans, conformément à l’art. 18*b.*
+
+<sup>2</sup>
+
+Sont déterminants pour le calcul de la somme de rachat:
+
+- a. le gain assuré à l’âge de 65 ans;
+- b. le facteur (en pour-cent du gain assuré) correspondant à l’âge de 65 ans selon l’annexe 3, et
+- c. l’avoir de vieillesse disponible au moment du rachat.
+
+[^32b-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 32c
+
+[^32c-1]
+
+[^32c-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogé par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 33
+
+**Augmentation de la rente de vieillesse en cas de retraite avant l’âge de 65 ans révolus**
+
+<sup>1</sup> Dès le moment où elle a annoncé son intention de prendre sa retraite avant l’âge de 65 ans, la personne assurée peut, par un rachat, augmenter sa rente de vieillesse jusqu’à concurrence du montant de sa rente invalidité assurée. Pour ce calcul de la rente vieillesse un éventuel compte PC n’est pas pris en compte. Si la personne assurée communique ce rachat moins de trois mois avant son départ à la retraite, elle se verra facturer les frais administratifs conformément au règlement relatif aux émoluments.
+
+<sup>2</sup> Cette augmentation de la rente de vieillesse ne peut avoir lieu que par un versement direct unique.
+
+<sup>3</sup> Toute somme destinée à financer l’augmentation de la rente de vieillesse créditée sur le compte de PUBLICA après le départ à la retraite de la personne assurée sera remboursée.
+
+## Chapitre 5 Mesures d’assainissement
+
+#### Art. 34
+
+**Mesures applicables en cas de découvert**
+
+<sup>1</sup> Si les vérifications actuarielles font état d’un découvert au sens de la LPP, l’organe paritaire est tenu de mettre en œuvre des mesures d’assainissement conformes aux prescriptions légales.
+
+<sup>2</sup> Si d’autres mesures ne permettent pas d’atteindre cet objectif, l’organe paritaire peut, pendant une durée limitée, percevoir une contribution d’assainissement de l’employeur, des personnes assurées et, dans le cadre de l’art. 65*d*, al. 3, let. b, de la LPP, des bénéficiaires de rente. La contribution de l’employeur doit être au moins aussi élevée que la somme des contributions des personnes assurées.
+
+<sup>3</sup> Une contribution d’assainissement ne peut être perçue qu’avec le consentement de l’employeur et que dans la mesure où elles servent au financement des prestations surobligatoires.
+
+<sup>4</sup> La contribution d’assainissement n’est pas prise en compte dans le calcul de la prestation de sortie, des prestations de vieillesse, des prestations d’invalidité et des prestations en cas de décès.
+
+<sup>5</sup>
+
+Si une contribution d’assainissement est perçue, l’organe paritaire de la caisse de prévoyance du domaine des EPF informe les personnes assurées et les bénéficiaires de rente sur:
+
+- a. le taux ou le montant;
+- b. la durée prévue;
+- c. la répartition entre l’employeur et les personnes assurées;
+- d. le mode de paiement.
+
+<sup>6</sup> Si la perception de contributions d’assainissement se révèle insuffisante, le taux d’intérêt minimal peut, tant que dure le découvert, mais au plus durant 5 ans, être réduit de 0,5 % au maximum par rapport au taux minimal LPP applicable à la rémunération de l’avoir de vieillesse.
+
+<sup>7</sup> En cas de découvert, l’employeur peut verser des contributions sur un compte séparé de réserves de cotisations d’employeur, incluant une déclaration de renonciation à leur utilisation ou transférer sur ce compte des avoirs provenant des réserves ordinaires de cotisations d’employeur.
+
+<sup>8</sup> En cas de découvert, la caisse de prévoyance peut émettre des restrictions, voire des oppositions, dans la durée et leur montant, pour le paiement de versements anticipés si ceux-ci servent au remboursement de prêts hypothécaires. La restriction ou l’opposition n’est possible que durant la période de découvert. L’organe paritaire doit informer la personne assurée touchée par une restriction ou une opposition, de la durée et de l’ampleur des mesures.
+
+#### Art. 35
+
+**Paiement des contributions d’assainissement**
+
+<sup>1</sup> L’employeur répond du paiement des contributions, de l’employeur et des personnes assurées, à verser à titre d’assainissement.
+
+<sup>2</sup>
+
+La perception des contributions d’assainissement est:
+
+- a. déduite mensuellement du salaire des personnes assurées;
+- b. déduite mensuellement des rentes des bénéficiaires de rente.
+
+<sup>3</sup> En cas de maintien de l’assurance selon l’art. 18*d*, la personne assurée répond de sa contribution d’assainissement. Celle-ci lui est facturée.[^35-1]
+
+[^35-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+## Chapitre 6 Prestations
+
+### Section 1 Prestations de vieillesse
+
+#### Art. 36
+
+**Avoir de vieillesse**
+
+<sup>1</sup> Un avoir de vieillesse individuel est constitué pour chaque personne assurée.
+
+<sup>2</sup>
+
+L’avoir de vieillesse se compose des éléments suivants:
+
+- a. les bonifications de vieillesse au sens de l’art. 24;
+- b. les prestations de sortie apportées au sens de l’art. 30;
+- c.[^36-1] des montants crédités suite à un divorce, selon l’art. 99, al. 1;
+- d.[^36-2] les rachats au sens des art. 32*a* et 32*b*;
+- d<sup>bis</sup>.[^36-3] …
+- d<sup>ter</sup>.[^36-4] des rachats après divorce, selon l’art. 99, al. 2, 3<sup>e</sup> phrase;
+- e. les remboursements de prélèvements anticipés perçus dans le cadre de l’encouragement à la propriété du logement ou le versement des revenus acquis suite à la réalisation du gage grevant l’avoir de prévoyance;
+- f. les éventuelles bonifications supplémentaires;
+- g. les éventuels rachats payés par l’employeur;
+- h. les intérêts selon annexe 1.
+
+<sup>3</sup>
+
+Sont déduits de l’avoir de vieillesse:
+
+- a. les versements anticipés octroyés dans le cadre de l’encouragement à la propriété du logement ou les revenus acquis suite à la réalisation du gage grevant l’avoir de prévoyance (art. 91);
+- b.[^36-5] la part de prestation de sortie transférée suite à un divorceen faveur du conjoint créancier (art. 99, al. 2, 1<sup>re</sup> phrase);
+- c.[^36-6] …
+
+<sup>4</sup> Les bonifications de vieillesse sont créditées sans intérêt à l’avoir de vieillesse durant l’année en cours.
+
+<sup>5</sup> Les intérêts selon l’annexe 1, calculés sur la base de l’état de l’avoir de vieillesse à la fin de l’année précédente, sont portés, à la fin de l’année civile en cours, au crédit de l’avoir de vieillesse.
+
+<sup>6</sup> Les intérêts sur les prestations de sortie apportées et les rachats sont crédités *pro rata temporis* pour l’année correspondante (annexe 1). Sur les versements selon l’al. 3 un intérêt et calculé au *pro rata temporis* pour l’année en cours; et l’avoir de vieillesse est réduit proportionnellement.
+
+<sup>7</sup> Lors de la survenance d’un cas de prévoyance ou si la personne assurée quitte la caisse de prévoyance pendant l’année en cours, les intérêts pour l’année en cours selon l’annexe 1 sont calculés *pro rata temporis* sur la base de l’avoir de vieillesse accumulé à la fin de l’année précédente.
+
+<sup>8</sup> À la fin de chaque année, l’organe paritaire fixe le taux d’intérêt applicable l’année suivante pour la rémunération de l’avoir de vieillesse en se fondant sur le résultat provisoire de l’exercice, et sur l’état de la fortune et des revenus de la caisse de prévoyance du domaine des EPF.
+
+[^36-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^36-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^36-3]: Introduite par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogée par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^36-4]: Introduite par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^36-5]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^36-6]: Introduite par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogée par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 37
+
+**Naissance et extinction du droit aux prestations de vieillesse**
+
+<sup>1</sup> Le droit aux prestations de vieillesse prend naissance au plus tôt le 1<sup>er</sup> du mois suivant le 60<sup>e</sup> anniversaire de la personne assurée avec la fin des rapports de travail et au plus tard le 1<sup>er</sup> du mois suivant son 70<sup>e</sup> anniversaire.
+
+<sup>2</sup> Il s’éteint à la fin du mois au cours duquel décède une personne bénéficiant d’une rente.
+
+<sup>3</sup> Si, à la fin des rapports de travail, une personne assurée a droit à une rente de vieillesse et n’a pas encore atteint l’âge de 70 ans, elle peut, en lieu et place de la rente de vieillesse, exiger le transfert de sa prestation de sortie à l’institution de prévoyance de son nouvel employeur. Si elle n’a pas encore atteint l’âge de 65 ans et qu’elle s’est annoncée à l’assurance-chômage ou qu’elle s’établit à son compte, elle peut demander, en lieu et place de la rente de vieillesse, le transfert de sa prestation de sortie à une institution de libre passage (art. 84).[^37-1]
+
+<sup>4</sup> La personne assurée doit demander par écrit à PUBLICA le transfert de sa prestation de sortie au plus tard 30 jours avant la fin des rapports de travail. Si la demande parvient à PUBLICA moins de 30 jours avant la fin des rapports de travail ou après la fin des rapports de travail, les frais administratifs prévus par le règlement relatif aux émoluments peuvent être facturés à la personne assurée.
+
+[^37-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 38
+
+**Retraite partielle**
+
+<sup>1</sup> Si une personne assurée âgée de plus de 60 ans réduit son taux d’occupation, elle a droit à une rente partielle de vieillesse correspondant à la réduction du taux d’occupation. Le taux de retraite partielle correspond à la réduction du taux d’occupation.
+
+<sup>2</sup> Après avoir atteint l’âge de 60 ans, la personne assurée peut solliciter une ou plusieurs fois une prestation partielle de vieillesse.[^38-1]
+
+<sup>3</sup> En cas de retraite partielle, l’avoir de vieillesse et un éventuel avoir sur un compte PC (art. 25) sont convertis proportionnellement en prestation partielle de vieillesse selon l’art. 39. Les parts résiduelles de l’avoir de vieillesse et de l’avoir sur le compte PC continuent à être gérées. Le gain assuré résiduel se calcule conformément aux dispositions en vigueur pour les activités à temps partiel (art. 21).[^38-2]
+
+<sup>4</sup> Si, à la fin des rapports de travail, une personne assurée a droit à une rente de vieillesse partielle et n’a pas encore atteint l’âge de 70 ans, l’art. 37, al. 3 et 4, est applicable par analogie. Est réservé le maintien de la prévoyance selon l’art. 18*c*.[^38-3]
+
+[^38-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^38-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^38-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 39
+
+**Rente de vieillesse**
+
+<sup>1</sup> Sous réserve de l’art. 40, la prestation de vieillesse est versée sous forme de rente.
+
+<sup>2</sup> Le montant de la rente de vieillesse annuelle correspond à la somme de l’avoir de vieillesse selon l’art. 36, disponible au moment de la retraite, et d’un éventuel avoir issu du compte PC (art. 25) multipliée par le taux de conversion déterminant, selon l’annexe 4, fixé en fonction de l’âge au moment de la retraite; en cas de divorce, l’art. 99, al. 4 et 5, est réservé.[^39-1]
+
+<sup>3</sup> Le taux de conversion est calculé au mois près.
+
+[^39-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 40
+
+**Retrait sous forme de capital**
+
+<sup>1</sup> Au moment de la retraite, la personne assurée peut prélever sous la forme d’une prestation unique en capital jusqu’à 100 % de la somme constituée par l’avoir de vieillesse visé à l’art. 36, et un éventuel avoir issu du compte PC (art. 25). Si l’annonce du prélèvement en capital parvient moins de trois mois avant la retraite, les frais administratifs prescrits par le règlement relatif aux émoluments sont facturés à la personne assurée. Le versement de la prestation en capital est effectué après le recouvrement de la contribution aux frais administratifs.[^40-1]
+
+<sup>2</sup> …[^40-2]
+
+<sup>2bis</sup> Si les rapports de travail d’une personne assurée pouvant prélever une prestation en capital sont, sans qu’il y ait faute de celle-ci, résiliés par l’employeur, cette personne peut, jusqu’à la retraite, annoncer un retrait en capital ou modifier une seule fois l’annonce déjà effectuée. L’al. 1 s’applique par analogie au paiement des frais administratifs.[^40-3]
+
+<sup>3</sup> Pour les personnes assurées mariées, le retrait sous forme de prestation en capital nécessite le consentement écrit et authentifié du conjoint. Au lieu de faire authentifier sa signature, le conjoint a la possibilité de se rendre personnellement à PUBLICA pour signer la déclaration de consentement sur présentation d’une pièce d’identité officielle.
+
+<sup>4</sup> La rente de vieillesse et les autres prestations assurées qui en découlent, à l’exception de la rente transitoire, sont réduites en fonction du capital prélevé.
+
+<sup>5</sup> Les prestations résultant d’un rachat (art. 32, 32*a*, 32*b* et 33) ne peuvent être versées sous forme de capital avant l’échéance d’un délai de trois ans. Les rachats effectués en cas de divorce en vertu de l’art. 22*d* LFLP ne sont pas soumis à limitation.[^40-4]
+
+<sup>6</sup> Le retrait sous forme de capital est exclu si le maintien de l’assurance selon l’art. 18*d* a duré plus de deux ans.[^40-5]
+
+[^40-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^40-2]: Abrogé par par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^40-3]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+[^40-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^40-5]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 41
+
+**Droit à la rente pour enfant de bénéficiaire d’une rente de vieillesse**
+
+<sup>1</sup> Les bénéficiaires d’une rente de vieillesse ont droit à une rente d’enfant pour tout enfant qui, à leur décès, aurait droit à une rente d’orphelin.
+
+<sup>2</sup> Pour les enfants encore en formation et âgés de plus de 18 ans, une attestation de formation doit être fournie spontanément chaque année. En l’absence de cette attestation, le paiement de la rente pour enfant de bénéficiaire d’une rente de vieillesse est suspendu.
+
+#### Art. 42
+
+**Montant de la rente pour enfant de bénéficiaire d’une rente de vieillesse**[^42-1]
+
+La rente pour enfant de bénéficiaire d’une rente de vieillesse s’élève à un sixième de la rente de vieillesse en cours; en cas de divorce, l’art. 99, al. 6, 1<sup>re</sup> phrase, est réservé.
+
+[^42-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+### Section 2 Prestations pour survivants
+
+#### Art. 43
+
+**Principes**
+
+<sup>1</sup>
+
+Un droit à des prestations pour survivants existe:
+
+- a. si la personne défunte était assurée à PUBLICA au moment du décès ou au début de l’incapacité de travail dont la cause est à l’origine du décès (art. 18, let. a, LPP);
+- b. si, à la suite d’une infirmité congénitale, la personne défunte était atteinte d’une incapacité de travail comprise entre 20 % et 40 % au début de l’activité lucrative et était assurée lorsque l’incapacité de travail dont la cause est à l’origine du décès s’est aggravée pour atteindre 40 % au moins (art. 18, let. b, LPP);
+- c. si la personne défunte étant devenue invalide avant sa majorité (art. 8, al. 2, LPGA) était atteinte d’une incapacité de travail comprise entre 20 % et 40 % au début de l’activité lucrative et était assurée lorsque l’incapacité de travail dont la cause est à l’origine du décès s’est aggravée pour atteindre 40 % au moins (art. 18, let. c, LPP), ou
+- d. si la personne défunte recevait, au moment de son décès, une rente de vieillesse ou d’invalidité de PUBLICA (art. 18, let. d, LPP).
+
+<sup>2</sup>
+
+Un éventuel avoir de prévoyance encore disponible issu du compte PC (art. 25) est toujours versé sous la forme d’une prestation en capital aux personnes ci-après dans l’ordre suivant:
+
+- a. au conjoint survivant;
+- b. aux enfants ayant droit à une rente d’orphelin;
+- c. aux personnes à l’entretien desquelles le défunt subvenait de façon substantielle, ou à la personne qui avait formé avec lui une communauté de vie ininterrompue d’au moins cinq ans avant le décès ou qui doit subvenir à l’entretien d’un ou de plusieurs enfants communs;
+- d. aux enfants n’ayant pas droit à une rente d’orphelin;
+- e. aux parents;
+- f. aux frères et sœurs;
+- g. aux héritiers légaux, à l’exclusion de la collectivité publique.
+
+<sup>3</sup> La prestation en capital est répartie en parts égales entre tous les ayants droit appartenant au même groupe de bénéficiaires.
+
+#### Art. 44
+
+**Droit à la rente de viduité**
+
+<sup>1</sup>
+
+Lors du décès d’une personne assurée ou bénéficiaire d’une rente de vieillesse ou d’invalidité, le conjoint survivant a droit à une rente de viduité si:
+
+- a. il doit subvenir à l’entretien d’un enfant au moins;
+- b. il a atteint l’âge de 40 ans révolus et le mariage avec le défunt a duré au moins deux ans, ou
+- c. il perçoit une rente entière de l’AI ou acquiert le droit à une telle rente dans les deux ans qui suivent le décès du conjoint.
+
+<sup>2</sup>
+
+Le conjoint survivant qui ne remplit aucune des conditions fixées a droit:
+
+- a. au décès de la personne assurée, à une indemnité unique équivalant à trois rentes annuelles de viduité, mais au moins au capital-décès conformément à l’art. 50;
+- b. au décès de la personne bénéficiaire de rente, à une indemnité unique équivalant à trois rentes annuelles de viduité.[^44-1]
+
+<sup>2bis</sup> Si, dans un cas visé à l’al. 2, un droit à la rente de viduité prend naissance après le versement de l’indemnité unique, cette dernière est déduite de la rente de viduité.[^44-2]
+
+<sup>3</sup> Le droit à la rente de viduité prend naissance au décès de la personne assurée mais au plus tôt le lendemain du jour où cesse le droit de la personne assurée défunte au revenu découlant de son activité ou de sa rente de vieillesse ou d’invalidité.
+
+<sup>4</sup> Le droit à la rente s’éteint en cas de remariage ou de décès.
+
+<sup>5</sup>
+
+Concernant le droit à la rente selon l’al. 1, le conjoint divorcé est assimilé au veuf ou à la veuve à la condition:
+
+- a. que son mariage ait duré dix ans au moins, et
+- b.[^44-3] qu’une rente lui ait été octroyée suite au divorce, en vertu de l’art. 124*e*, al. 1, ou 126, al. 1, CC.
+
+<sup>5bis</sup> Le droit du conjoint divorcé selon l’al. 5 existe aussi longtemps que la rente qui lui a été octroyée suite au divorce doit être versée.[^44-4]
+
+<sup>6</sup> Le montant de la rente de viduité pour le conjoint divorcé se fonde sur l’art. 46, al. 3.
+
+<sup>7</sup> Le conjoint divorcé n’a pas droit à l’indemnité unique au sens de l’al. 2.
+
+[^44-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^44-2]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^44-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^44-4]: Introduit par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 45
+
+**Droit à la rente de partenaire**
+
+<sup>1</sup>
+
+En cas de décès de la personne assurée ou bénéficiaire d’une rente de vieillesse ou d’invalidité, le partenaire survivant a droit à une rente de partenaire s’il ne touche pas de rente de viduité ou s’il ne perçoit pas déjà une rente de partenaire d’une institution de prévoyance du 2<sup>e</sup> pilier pour un autre cas de prévoyance et:
+
+- a. a atteint l’âge de 40 ans révolus et a formé une communauté de vie ininterrompue avec la personne assurée au moins pendant les cinq dernières années précédant le décès, ou
+- b. doit subvenir à l’entretien d’un ou de plusieurs enfants communs qui, selon le présent règlement, ont droit à une rente d’orphelin.
+
+<sup>2</sup> Le droit à la rente de partenaire n’existe que si l’union libre a été annoncée à PUBLICA sous la forme d’un contrat de partenariat. L’original du contrat de partenariat, signé par les deux partenaires, doit être déposé de leur vivant à PUBLICA.
+
+<sup>3</sup> L’union libre au sens de la présente disposition est une communauté de vie, comparable au mariage, entre deux personnes de sexe différent ou de même sexe non mariées qui n’ont aucun lien de parenté et dont le partenariat n’est pas enregistré au sens de la loi sur le partenariat. Est aussi considérée comme union libre une communauté de vie entre personnes ayant des liens de parenté, pour autant qu’il n’existe aucun empêchement au mariage.
+
+<sup>4</sup> Le droit à la rente de partenaire prend naissance au décès de la personne assurée, mais au plus tôt le lendemain du jour où cesse le droit de la personne assurée défunte au revenu découlant de son activité ou de sa rente de vieillesse ou d’invalidité. Le droit aux prestations doit être annoncé à PUBLICA au plus tard six mois après le décès de la personne assurée.
+
+<sup>5</sup> La durée de l’union libre s’additionne à la durée du mariage subséquent au sens des dispositions de l’art. 44, al. 1, let. b, sur le droit à une rente de viduité, pour autant que PUBLICA dispose du contrat de partenariat original, signé par les deux partenaires et que ce contrat lui ait été remis du vivant des deux partenaires.
+
+<sup>6</sup>
+
+Le contrôle du droit aux prestations n’est effectué qu’après l’annonce du décès de la personne assurée. Sur demande de PUBLICA, le partenaire survivant est tenu de fournir toutes les informations nécessaires, notamment:
+
+- a. l’attestation de la commune du lieu de résidence confirmant l’existence d’un domicile commun durant les cinq années précédant le décès de la personne assurée ou la preuve que les partenaires faisaient ménage commun durant les cinq années précédant le décès de la personne assurée;
+- b. la confirmation de l’état civil des deux partenaires;
+- c. les informations relatives aux enfants communs;
+- d. d’autres documents tels que jugement de divorce ou décisions de rente.
+
+<sup>7</sup>
+
+Le droit à la rente s’éteint:
+
+- a. en cas de mariage ou de conclusion d’un partenariat au sens du présent article ou lors du décès du partenaire survivant;
+- b. si le partenaire survivant a droit à une rente de viduité suite au décès de son conjoint divorcé.
+
+<sup>8</sup> Si des doutes surgissent lors de la vérification des conditions de droit, en particulier si plusieurs personnes font valoir des droits conformément à l’art. 49 (capital décès), PUBLICA doit surseoir à l’octroi de ses prestations jusqu’à éclaircissement complet des conditions de droit. Aucun intérêt n’est dû sur les prestations différées.
+
+#### Art. 46
+
+**Montant de la rente de viduité et de la rente de partenaire**
+
+<sup>1</sup>
+
+Le montant annuel de la rente de viduité de même que celui de la rente de partenaire est de:
+
+- a. lors du décès d’une personne assurée âgée de moins de 65 ans: deux tiers de la rente d’invalidité assurée;
+- b. lors du décès d’une personne au bénéfice d’une rente de vieillesse ou d’invalidité: deux tiers de la rente de vieillesse en cours ou de la rente d’invalidité assurée;
+- c. lors du décès d’une personne assurée âgée de plus de 65 ans: deux tiers de la rente de vieillesse acquise par la personne assurée au moment de son décès et calculée sur la base de l’avoir de vieillesse conformément à l’art. 36.
+
+<sup>2</sup> Si la personne assurée était âgée de plus de 15 ans de plus que le conjoint survivant ou le partenaire survivant, si la durée du mariage ou du partenariat était inférieure à 5 ans et si la personne survivante ne doit pas subvenir à l’entretien d’un ou de plusieurs enfants, la rente est réduite de 2 % de son montant total pour chaque année entière ou entamée dépassant la différence de 15 ans entre l’ayant droit survivant et la personne assurée.
+
+<sup>3</sup> La rente de viduité visée à l’art. 44, al. 5, correspond au montant de la rente de viduité fixée par la LPP (prestation minimale LPP).
+
+<sup>4</sup> Si, ajoutée aux prestations de survivants de l’AVS, elle dépasse le montant des prétentions découlant du jugement de divorce, elle est réduite du montant excédentaire. Les rentes de survivants de l’AVS ne sont prises en compte dans le calcul que dans la mesure où elles dépassent un droit propre à une rente d’invalidité de l’AI ou à une rente de vieillesse de l’AVS.[^46-1]
+
+[^46-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 47
+
+**Droit à la rente d’orphelin**
+
+<sup>1</sup> Au décès d’une personne assurée ou d’une personne bénéficiant d’une rente de vieillesse ou d’invalidité, ses enfants ont droit à une rente d’orphelin.
+
+<sup>2</sup> Le droit à la rente d’orphelin prend naissance le lendemain du jour où cesse le droit de la personne assurée défunte au salaire ou à la jouissance du salaire ou encore son droit à la rente de vieillesse ou d’invalidité.
+
+<sup>3</sup>
+
+Le droit à une rente d’orphelin s’éteint au décès de l’orphelin ou dès que celui-ci atteint l’âge de 18 ans. Il subsiste, jusqu’à l’âge de 25 ans au plus, dans les cas suivants:
+
+- a. tant que l’orphelin fait un apprentissage ou des études;
+- b. lors du décès d’une personne au bénéfice d’une rente de vieillesse ou d’invalidité: un sixième de la rente de vieillesse en cours ou de la rente d’invalidité assurée; en cas de divorce, l’art. 99, al. 6, 2<sup>e</sup> phrase, est réservé;
+
+<sup>4</sup> Pour les enfants encore en formation et âgés de plus de 18 ans révolus, une attestation de formation doit être fournie spontanément chaque année. En l’absence de cette attestation le paiement de la rente d’orphelin est suspendu.
+
+<sup>5</sup> Ont également droit à une rente d’orphelin, les enfants confiés en garde et les enfants du conjoint à l’entretien desquels la personne assurée a subvenu.
+
+#### Art. 48
+
+**Montant de la rente d’orphelin**
+
+<sup>1</sup>
+
+Le montant de la rente d’orphelin est de:
+
+- a. lors du décès d’une personne assurée âgée de moins de 65 ans: un sixième de la rente d’invalidité assurée;
+- b.[^48-1] lors du décès d’une personne au bénéfice d’une rente de vieillesse ou d’invalidité: un sixième de la rente de vieillesse en cours ou de la rente d’invalidité assurée;
+- c. lors du décès d’une personne assurée ayant atteint 65 ans révolus: un sixième de la rente de vieillesse acquise par la personne assurée au moment du décès et calculée sur la base de l’avoir de vieillesse conformément à l’art. 36.
+
+<sup>2</sup> Les orphelins de père et de mère perçoivent la double rente d’orphelin.
+
+[^48-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 49
+
+**Droit au capital-décès**
+
+<sup>1</sup>
+
+En cas de décès d’une personne assurée pour laquelle il ne découle aucun droit à une rente en vertu des art. 44 et 45, PUBLICA verse un capital-décès. Y ont droit, indépendamment du droit successoral et dans l’ordre ci-dessous:
+
+- a. les personnes physiques qui étaient soutenues de manière substantielle par la personne assurée;
+- b.[^49-1] la personne qui a formé avec la personne assurée une communauté de vie ininterrompue d’au moins cinq ans immédiatement avant le décès ou qui doit subvenir à l’entretien d’un ou de plusieurs enfants communs, pour autant que soient réunies les conditions du droit aux prestations prévues à l’art. 45, al. 2 et 3;
+- c. les enfants de la personne assurée;
+- d. les parents.
+
+<sup>2</sup> N’ont pas droit à des prestations, les personnes qui, selon l’al. 1 let. a et b, perçoivent une rente de viduité ou une rente de partenaire d’une autre institution de prévoyance.
+
+<sup>3</sup> Le capital-décès est réparti en parts égales entre tous les ayants droit appartenant au même groupe de bénéficiaires.
+
+<sup>4</sup> Si personne ne fait valoir un droit à des prestations dans l’espace d’une année après le décès de la personne assurée, le capital-décès revient à PUBLICA.
+
+[^49-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 50
+
+**Montant du capital-décès**
+
+Le montant du capital-décès versé aux ayants droit visés à l’art. 49, al. 1, est égal à la moitié de l’avoir de vieillesse au moment du décès de la personne assurée, mais au moins au montant de deux rentes annuelles de viduité selon l’art. 46, al. 1, moins la valeur actuelle d’une éventuelle rente d’orphelin (art. 47 s).
+
+### Section 3 Prestations d’invalidité
+
+#### Art. 51
+
+**Invalidité**
+
+<sup>1</sup> …[^51-1]
+
+<sup>2</sup>
+
+À droit à des prestations d’invalidité la personne assurée qui:
+
+- a. est invalide à raison de 40 % au moins au sens de l’AI et qui était assurée à PUBLICA lorsqu’est survenue l’incapacité de travail dont la cause est à l’origine de l’invalidité (art. 23, let. a, LPP);
+- b. à la suite d’une infirmité congénitale, était atteinte d’une incapacité de travail comprise entre 20 % et 40 % au début de l’activité lucrative et qui était assurée lorsque l’incapacité de travail dont la cause est à l’origine de l’invalidité s’est aggravée pour atteindre 40 % au moins (art. 23, let. b, LPP), ou
+- c. étant devenue invalide avant sa majorité (art. 8, al. 2, LPGA), était de ce fait atteinte d’une incapacité de travail comprise entre 20 % et 40 % au début de l’activité lucrative et qui était assurée lorsque l’incapacité de travail dont la cause est à l’origine de l’invalidité s’est aggravée pour atteindre 40 % au moins (art. 23, let. c, LPP).
+
+<sup>3</sup> Est réputée incapacité de travail toute perte, totale ou partielle, de l’aptitude de l’assuré à accomplir dans sa profession ou son domaine d’activité le travail qui peut raisonnablement être exigé de lui, si cette perte résulte d’une atteinte à sa santé physique, mentale ou psychique. En cas d’incapacité de travail de longue durée, l’activité qui peut être exigée de lui peut aussi relever d’une autre profession ou d’un autre domaine d’activité (art. 6 LPGA).
+
+<sup>4</sup> En cas de retraite avant l’âge de 65 ans, le droit à la rente d’invalidité n’est reconnu que lorsque l’incapacité de travail qui est à l’origine de l’invalidité est survenue avant la retraite.
+
+[^51-1]: Abrogé par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 52
+
+**Début du droit et du paiement des prestations**[^52-1]
+
+<sup>1</sup> Les dispositions de la LAI s’appliquent par analogie au début du droit aux prestations d’invalidité (art. 26, al. 1, LPP).
+
+<sup>2</sup> Le paiement de prestations d’invalidité suppose une décision définitive de l’AI. Il commence après l’extinction du droit de la personne invalide au salaire versé par l’employeur.
+
+[^52-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 52a
+
+**Fin du droit**[^52a-1]
+
+Le droit de la personne bénéficiaire d’une rente à des prestations d’invalidité s’éteint:
+
+- a. au décès de celle-ci ou
+- b. dans la mesure du recouvrement de la capacité de gain, sous réserve de l’art. 52*b*, al. 1 et 2.
+
+[^52a-1]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 52b
+
+**Droit en cas de réduction ou de suppression de la rente AI**[^52b-1]
+
+<sup>1</sup> Si la rente AI est réduite ou supprimée du fait de l’abaissement du taux d’invalidité, la personne bénéficiaire d’une rente reste assurée avec les mêmes droits durant trois ans, pour autant qu’elle ait, avant la réduction ou la suppression de sa rente AI, participé à des mesures de nouvelle réadaptation, ou que sa rente AI ait été réduite ou supprimée du fait de la reprise d’une activité lucrative ou d’une augmentation de son taux d’activité (art. 26*a*, al. 1, LPP).
+
+<sup>2</sup> L’assurance et le droit aux prestations sont maintenus aussi longtemps que la personne bénéficiaire d’une rente perçoit une prestation transitoire fondée sur l’art. 32 LAI, et ce même si le délai de trois ans visé à l’al. 1 a expiré (art. 26*a*, al. 2, LPP).
+
+<sup>3</sup> Pendant la période de maintien de l’assurance et du droit aux prestations, la rente d’invalidité est réduite jusqu’à concurrence du montant des prestations d’invalidité correspondant au taux d’invalidité réduit, pour autant que la réduction des prestations soit compensée par un revenu supplémentaire réalisé par la personne bénéficiaire d’une rente (art. 26*a*, al. 3, LPP).
+
+<sup>4</sup> Si une rente AI est réduite ou supprimée suite à une procédure de réexamen selon la let. a des dispositions finales de la modification du 18 mars 2011 de la LAI, le droit aux prestations d’invalidité est réduit ou prend fin au moment où le versement de la rente AI est réduit ou supprimé.
+
+[^52b-1]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 53
+
+**Libération de l’obligation du paiement des cotisations d’épargne et de la prime de risque**[^53-1]
+
+Tant que dure le droit aux prestations d’invalidité, la personne invalide et l’employeur sont libérés, dans une mesure correspondant au droit à la rente, du paiement des cotisations d’épargne selon l’art. 24 et de la prime de risque selon l’art. 26. La libération du paiement des cotisations d’épargne s’entend au sens de l’art. 54.
+
+[^53-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 54
+
+**Avoir de vieillesse d’une personne invalide**
+
+<sup>1</sup> L’avoir de vieillesse de la personne invalide est réparti proportionnellement au droit à la rente en une part active et une part passive.
+
+<sup>2</sup> La part passive de l’avoir de vieillesse de la personne assurée est, en vue d’une réinsertion, augmentée des bonifications annuelles de vieillesse auxquelles elle aurait eu droit si elle n’était pas devenue invalide; le gain assuré au moment de la survenance de l’incapacité de travail invalidante est déterminant. D’éventuelles compensations du renchérissement octroyées jusqu’au début du droit à la rente d’invalidité sont prises en compte.
+
+<sup>3</sup> En cas de réinsertion, la prestation de sortie correspond à la part de l’avoir de vieillesse constitué conformément à l’al. 2 qui redevient active suite à l’extinction du droit à la rente d’invalidité; en cas de divorce, l’art. 99, al. 3, 1<sup>re</sup> phrase, est réservé.[^54-1]
+
+[^54-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 55
+
+**Destination de l’avoir du compte PC (art. 25) en cas d’invalidité**
+
+<sup>1</sup>
+
+En cas d’invalidité partielle, l’ayant droit peut:
+
+- a. destiner l’avoir accumulé sur le compte PC (art. 25) à une augmentation ultérieure de la rente de vieillesse (art. 39, al. 2), ou
+- b. prélever l’avoir accumulé sur le compte PC (art. 25) sous la forme d’une indemnité unique en capital en fonction du droit à la rente partielle.
+
+<sup>2</sup> En cas d’invalidité complète, l’avoir accumulé est versé sous la forme d’une indemnité unique en capital.
+
+<sup>3</sup> En cas de décès, l’avoir accumulé est versé conformément à l’art. 43, al. 2.
+
+#### Art. 56
+
+**Ampleur du droit à la rente d’invalidité**
+
+La personne invalide a droit:
+
+- a. à un quart de rente pour un taux d’invalidité au sens de la LAI de 40 % au moins;
+- b. à une demi-rente pour un taux d’invalidité au sens de la LAI de 50 % au moins;
+- c. à trois quarts de rente pour un taux d’invalidité au sens de la LAI de 60 % au moins;
+- d. à une rente complète pour un taux d’invalidité au sens de la LAI de 70 % au moins.
+
+#### Art. 57
+
+**Calcul de la rente d’invalidité**
+
+<sup>1</sup>
+
+La rente entière d’invalidité est calculée sur la base du taux de conversion applicable à l’âge ordinaire de la retraite AVS (annexe 4). Sous réserve, en cas de divorce, de l’art. 99, al. 3, l’avoir de vieillesse qui sert de base pour ce calcul se compose de:[^57-1]
+
+- a. l’avoir de vieillesse selon l’art. 36 que la personne assurée a accumulé jusqu’à la naissance du droit à la prestation d’invalidité, et
+- b.[^57-2] la somme des bonifications de vieillesse selon l’art. 24, s’étalant depuis la naissance du droit à la prestation d’invalidité jusqu’à ce que la personne atteigne 65 ans révolus; le gain assuré au moment de la survenance de l’incapacité de travail qui est à l’origine de l’invalidité est déterminant pour le montant des bonifications de vieillesse. Il n’est pas tenu compte des éventuelles compensations du renchérissement octroyées jusqu’à la naissance du droit à la rente d’invalidité;
+- c. l’intérêt de 2 % à partir de 53 ans sur les cotisations selon les let. a et b pour la période entre le début du droit à la rente d’invalidité et la fin de l’année civile, au cours de laquelle la personne assurée a eu 64 ans.
+
+<sup>2</sup> L’âge pour la fixation du taux d’intérêt dans le calcul de projection selon l’al. 1 let. c correspond à la différence entre l’année du calendrier civil en cours et l’année de naissance de la personne assurée. L’art. 36, al. 4 et 5, est applicable.
+
+<sup>3</sup> Les rachats ou les avoirs provenant de comptes ou polices de libre passage existants qui sont respectivement payés ou transférés après la survenance de l’incapacité de travail qui est à l’origine de l’invalidité ne sont pas pris en compte dans le calcul de l’avoir de vieillesse selon l’al. 1. Ces rachats et versements sont restitués.[^57-3]
+
+<sup>4</sup> Si le droit à la rente d’invalidité prend naissance lors d’un congé non payé ou partiellement payé, le dernier gain assuré acquis avant le début du congé est déterminant pour le calcul de la rente d’invalidité.
+
+<sup>5</sup> Le gain assuré et l’avoir de vieillesse accumulé au moment du décès ou au début de l’incapacité de travail dont la cause est à l’origine du décès sont déterminants pour le calcul de la rente de survivants visée à l’art. 46, al. 1, let. a et à l’art. 48, al. 1, let. a.
+
+[^57-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^57-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+[^57-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+
+#### Art. 58
+
+**Droit à la rente pour enfant de bénéficiaire d’une rente d’invalidité**
+
+<sup>1</sup> Le bénéficiaire d’une rente d’invalidité a droit à une rente d’enfant pour chaque enfant qui, si lui-même venait à décéder, aurait droit à une rente d’orphelin.
+
+<sup>2</sup> Pour les enfants âgés de plus de 18 ans et encore en formation, une attestation de formation doit être fournie spontanément chaque année. En l’absence de cette attestation, le paiement de la rente pour enfant de bénéficiaire de rente d’invalidité est suspendu.
+
+#### Art. 59
+
+**Montant de la rente pour enfant de bénéficiaire d’une rente d’invalidité**
+
+Le montant de la rente pour enfant de bénéficiaire d’une rente d’invalidité est d’un sixième de la rente d’invalidité; en cas de divorce, l’art. 99, al. 6, 1<sup>re</sup> phrase, est réservé.[^59-1]
+
+[^59-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+## Chapitre 7 Rente transitoire, invalidité professionnelle et plan social
+
+### Section 1 Rente transitoire
+
+#### Art. 60
+
+**Droit**
+
+<sup>1</sup> Les bénéficiaires d’une rente de vieillesse peuvent faire valoir un droit à une rente transitoire à la date de leur retraite et jusqu’à l’âge ordinaire de la retraite AVS.
+
+<sup>2</sup> Au plus tard 3 mois avant la perception de la rente de vieillesse, la personne assurée doit communiquer à PUBLICA si elle souhaite l’octroi d’une rente transitoire pleine ou d’une demi-rente ou si elle y renonce.
+
+<sup>3</sup> L’employeur et la personne assurée doivent rembourser à PUBLICA, au plus tard à la naissance du droit à la rente, leur participation respective, définie par le droit du travail, pour le financement de la rente transitoire sollicitée.
+
+<sup>4</sup>
+
+La personne assurée communique à PUBLICA, au plus tard trois mois avant de percevoir la rente transitoire, sa décision quant au mode de financement de sa part, celui-ci devant s’effectuer selon l’un des principes de calcul suivant:[^60-1]
+
+- a. par une réduction applicable immédiatement et à vie de la rente de vieillesse à laquelle elle a droit selon l’art. 39 (annexe 5, tabl. 1), ou
+- b. par une réduction applicable dès qu’elle aura atteint l’âge AVS et à vie de la rente de vieillesse et des prestations qui y sont liées auxquelles elle a droit en vertu de l’art. 39 (annexe 6, ch. I, tabl.), ou
+- c. par un rachat de la réduction (annexe 5, tabl. 2).
+
+<sup>4bis</sup> Si la personne assurée communique à PUBLICA sa décision relative au financement moins de trois mois avant la perception de la rente transitoire, les frais administratifs prévus par le règlement relatif aux émoluments lui sont facturés.[^60-2]
+
+<sup>5</sup> Si la personne bénéficiant de la rente de vieillesse avait opté pour le financement selon l’al. 4 let. b et décède avant d’atteindre l’âge AVS, les prestations pour survivants seront réduites selon un taux actuariel (annexe 6, ch. II).
+
+<sup>6</sup> La personne qui perçoit sa rente de vieillesse sous forme de capital ne peut solliciter le versement d’une rente transitoire qu’après avoir procédé au rachat de la réduction selon l’al. 4, let. c.
+
+[^60-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+[^60-2]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 61
+
+**Montant de la rente transitoire**
+
+<sup>1</sup> La rente transitoire correspond soit à la rente maximale entière de l’AVS soit à la demi-rente AVS, pondérée en fonction du taux d’occupation moyen de la personne assurée.
+
+<sup>2</sup> L’employeur communique à PUBLICA le taux d’occupation moyen de la personne assurée 3 mois avant le départ à la retraite de celle-ci.
+
+### Section 2 Prestation pour invalidité professionnelle
+
+#### Art. 62
+
+**Droit**
+
+<sup>1</sup>
+
+Ont droit à une prestation pour invalidité professionnelle les personnes assurées:
+
+- a. qui ont atteint l’âge de 50 ans révolus;
+- b. pour lesquelles une décision exécutoire a été rendue par l’AI stipulant qu’elles n’ont pas droit à des prestations de l’AI ou n’ont droit qu’à une rente AI partielle, et
+- c. pour lesquelles les mesures de réinsertion n’ont donné aucun résultat, pour autant que la faute ne puisse pas leur en être imputée.
+
+<sup>2</sup> Il y a invalidité professionnelle entière lorsque, pour des raisons de santé, une personne assurée n’est plus capable d’exercer son activité actuelle ou une autre pouvant lui être raisonnablement proposée et que l’AI lui a refusé un droit à une rente AI.
+
+<sup>3</sup>
+
+Une invalidité professionnelle partielle est déclarée lorsque, pour des raisons de santé, une personne assurée:
+
+- a. n’est plus capable d’exercer son activité actuelle ou une autre pouvant lui être raisonnablement proposée et que l’AI lui octroie un droit à une rente AI partielle, ou
+- b. ne peut exercer que partiellement son activité actuelle ou une autre pouvant lui être raisonnablement proposée et que l’AI lui a refusé l’octroi d’une rente AI, ou lui octroie une rente partielle dont le taux est inférieur au taux d’invalidité professionnelle au sens de l’art. 63, al. 6.
+
+<sup>4</sup> L’existence d’une invalidité professionnelle est constatée par le service médical conformément à l’art. 47 OPers-EPF à la demande de l’employeur.
+
+<sup>5</sup> Le service médical se prononce sur la date de survenance d’une invalidité professionnelle complète ou partielle. Sa décision est déterminante pour la naissance du droit aux prestations découlant d’une invalidité professionnelle.
+
+<sup>6</sup> Le droit à la rente d’invalidité professionnelle s’éteint au décès de la personne assurée et, en tous les cas, dans la mesure où celle-ci a droit à une rente de l’AI ou si, après examen, le service médical constate que l’invalidité professionnelle ne subsiste plus.
+
+<sup>7</sup> Le droit à la rente de substitution AI s’éteint au décès de la personne bénéficiaire d’une rente mais en tous les cas dans la mesure où celle-ci a droit à une rente de l’AI ou de l’AVS, ou dans la mesure où, après examen, le service médical constate que invalidité professionnelle n’existe plus. Si l’AI verse des rentes rétroactives, les rentes de substitution AI payées en trop (art. 63, al. 1, let. b) doivent être remboursées à PUBLICA.
+
+<sup>8</sup> La personne bénéficiaire d’une rente d’invalidité professionnelle a droit à une rente d’enfant pour chaque enfant qui, si elle-même venait à décéder, aurait droit à une rente d’orphelin (art. 47). Le droit à la rente d’enfant prend naissance en même temps que le droit à la rente d’invalidité professionnelle. Il s’éteint avec l’extinction du droit à la rente d’invalidité professionnelle ou si les conditions visées à l’art. 47, al. 3 ne sont plus satisfaites. L’art. 47, al. 4, est également applicable pour les rentes pour enfant de personnes en invalidité professionnelle.
+
+<sup>9</sup> Les art. 53 et 54 sont applicables par analogie au droit à la libération du paiement des cotisations et de la prime en fonction du taux d’invalidité professionnelle (art. 63, al. 6) et à la constitution de l’avoir de vieillesse de la personne invalide.
+
+<sup>10</sup> L’employeur verse à PUBLICA la réserve mathématique nécessaire au financement des prestations en cas d’invalidité professionnelle.
+
+#### Art. 63
+
+**Nature et montant des prestations d’invalidité professionnelle**
+
+<sup>1</sup>
+
+Les prestations d’invalidité professionnelles se composent de:
+
+- a. une rente d’invalidité professionnelle;
+- b. une rente de substitution AI.
+
+<sup>2</sup> La rente annuelle d’invalidité professionnelle entière est égale à la rente annuelle d’invalidité entière au sens de l’art 56.
+
+<sup>3</sup> La rente annuelle de substitution AI correspond à la rente maximale AVS entière, pondérée en fonction du taux d’occupation moyen. L’employeur communique le taux d’occupation moyen à PUBLICA.
+
+<sup>4</sup> Le montant de la rente entière pour enfant de personne en invalidité professionnelle correspond à un sixième du montant de la rente entière d’invalidité professionnelle; en cas de divorce, l’art. 99, al. 6, 1<sup>re</sup> phrase, est réservé.[^63-1]
+
+<sup>5</sup> Le droit aux prestations d’invalidité professionnelle est fixé en fonction du taux d’invalidité professionnelle.
+
+<sup>6</sup> Le taux d’invalidité professionnelle correspond à la différence en pour cent entre le gain assuré avant et le gain après la survenance du trouble de santé et après la mise en œuvre de toutes les mesures médicales ou professionnelles en vue d’une réinsertion de la personne assurée. Une éventuelle rente partielle octroyée par l’AI est prise en compte.
+
+[^63-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+### Section 3 Prestations selon plan social
+
+#### Art. 64
+
+Si l’employeur résilie le contrat de travail d’une personne assurée âgée de plus de 58 ans, sans qu’il y ait faute de cette dernière, la personne assurée a droit à une rente de vieillesse à vie et à une rente transitoire financée par l’employeur conformément à l’art. 61. Le montant de la rente de vieillesse est calculé selon l’art. 63, al. 2. L’art. 62, al. 10, est applicable par analogie au financement de la rente de vieillesse et de la rente transitoire.
+
+## Chapitre 8 Dispositions communes relatives aux prestations
+
+#### Art. 65
+
+**Limitation du droit aux prestations**
+
+<sup>1</sup> Nul ne peut faire valoir un droit à des prestations allant au-delà de celles prévues par le présent règlement. Il n’existe en particulier aucun droit sur les fonds non liés de la caisse de prévoyance du domaine des EPF ou de PUBLICA. Les dispositions relatives à la liquidation partielle sont réservées.
+
+<sup>2</sup> Si une partie des destinataires quitte la caisse de prévoyance du domaine des EPF (art. 32*f* LPers), la procédure et les droits des personnes assurées et des bénéficiaires de rente se fondent sur les dispositions légales et le règlement de liquidation partielle.
+
+#### Art. 66
+
+**Octroi des prestations sous forme de capital**
+
+<sup>1</sup>
+
+En lieu et place d’une rente, PUBLICA alloue systématiquement une indemnité en capital calculée selon ses principes actuariels si:
+
+- a. la rente de vieillesse est inférieure à 10 % ou si la rente d’enfant est inférieure à 2 % de la rente minimale de vieillesse en vertu de l’art. 34 LAVS;
+- b. la rente de viduité, ou la rente de partenaire est inférieure à 6 % ou si la rente d’orphelin est inférieure à 2 % de la rente minimale de vieillesse en vertu de l’art. 34 LAVS;
+- c. si la rente d’invalidité ou la rente d’invalidité professionnelle est inférieure à 10 % ou si la rente pour enfant de bénéficiaire d’une rente d’invalidité est inférieure à 2 % de la rente minimale de vieillesse en vertu de l’art. 34 LAVS.
+
+<sup>2</sup> Le paiement sous forme de capital annule toute autre prétention de la personne assurée ou de ses survivants envers PUBLICA, spécialement à d’éventuelles adaptations à l’évolution des prix, imposées par la loi ou volontaires et aux rentes pour enfant de bénéficiaires de rente de vieillesse ou d’invalidité.
+
+#### Art. 67
+
+**Prestations par rapport aux prestations légales**
+
+Si les prestations calculées conformément au présent règlement sont inférieures à celles dont la personne bénéficiant de l’assurance obligatoire aurait droit selon la LPP, ce sont les prestations selon la LPP qui sont octroyées.
+
+#### Art. 68
+
+**Prestations après la sortie de PUBLICA**
+
+<sup>1</sup> Si PUBLICA reste compétente pour un cas de prévoyance après que la personne concernée est sortie de la caisse de prévoyance, les prestations sont régies par les dispositions réglementaires qui étaient en vigueur à la naissance du droit aux prestations.
+
+<sup>2</sup> En cas de modification des conditions d’octroi de prestations après que celles-ci ont été accordées une première fois, le droit aux prestations est réexaminé sur la base des dispositions en vigueur au moment du nouvel examen.
+
+#### Art. 69
+
+**Obligation de PUBLICA de verser la prestation préalable**
+
+Si PUBLICA, en tant que dernière institution de prévoyance de la personne assurée, est tenue de verser la prestation préalable parce que l’institution devant fournir les prestations n’est pas encore connue (art. 26, al. 4, LPP), le droit est limité à l’octroi de la prestation minimale selon la LPP. S’il s’avère ultérieurement que PUBLICA n’est pas redevable de la prestation, la prestation avancée, intérêts y compris, doit être remboursée par l’institution tenue de verser la prestation.
+
+#### Art. 70
+
+**Paiement des prestations**
+
+<sup>1</sup> Les prestations de PUBLICA sont créditées au compte bancaire ou postal désigné par l’ayant droit. Les virements sont effectués sur un seul compte. Si des frais découlent du versement de la prestation sur un compte à l’étranger, ils peuvent être mis à la charge de la personne assurée. Le virement est toujours effectué en francs suisses.
+
+<sup>2</sup> Les prestations récurrentes de PUBLICA sont payées dans les 10 premiers jours de chaque mois.
+
+<sup>3</sup> Les prestations sous forme de capital sont versées dans les 30 jours suivant la naissance du droit à la prestation.
+
+<sup>4</sup> Une prestation mensuelle complète est versée pour le mois au cours duquel le droit à la prestation prend naissance ou s’éteint.
+
+#### Art. 71
+
+**Rectification des prestations**
+
+<sup>1</sup> S’il apparaît subséquemment qu’une erreur a été commise dans le calcul d’une prestation, PUBLICA corrigera l’erreur.
+
+<sup>2</sup> Si PUBLICA a versé des rentes trop basses, elle effectue sans délai le paiement complémentaire dû suite à la rectification, sans intérêts. Si PUBLICA est mise en demeure, elle paie des intérêts moratoires selon l’annexe 1.[^71-1]
+
+[^71-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 72
+
+**Remboursement de prestations indûment perçues**
+
+<sup>1</sup> Quiconque accepte une prestation indûment versée par PUBLICA doit la rembourser, intérêts y compris (annexe 1).
+
+<sup>2</sup> PUBLICA peut décider de renoncer partiellement ou totalement au remboursement des prestations en présence de cas de rigueur ou pour des raisons d’économie administrative. La Commission de la caisse définit les modalités dans un règlement sur les cas de rigueur.
+
+#### Art. 73
+
+**Prescription**
+
+<sup>1</sup> La prescription des droits aux prestations est réglée conformément à l’art. 41 LPP.
+
+<sup>2</sup> La prescription du droit de demander la restitution de prestations est réglée conformément à l’art. 35*a* LPP.
+
+#### Art. 74
+
+**Certificat de vie**
+
+<sup>1</sup> PUBLICA peut faire dépendre le paiement de la rente de la présentation d’un certificat de vie.
+
+<sup>2</sup> Les ayants droit domiciliés à l’étranger reçoivent chaque année un formulaire correspondant. Si celui-ci n’est pas dûment rempli et renvoyé à PUBLICA dans les délais impartis, le paiement de la rente sera suspendu sans autre avertissement.
+
+#### Art. 75
+
+**Adaptation des rentes à l’évolution des prix**
+
+Les rentes de vieillesse, de survivants et d’invalidité sont adaptées à l’évolution des prix dans la mesure des possibilités financières de la Caisse de prévoyance du domaine des EPF. L’organe paritaire décide chaque année si et dans quelle mesure les rentes doivent être adaptées. La décision est commentée dans le rapport annuel.
+
+#### Art. 76
+
+**Réduction, suppression, refus de prestations de risque**
+
+<sup>1</sup> Si l’AVS/AI réduit, retire ou refuse ses prestations parce que le décès ou l’invalidité de l’ayant droit a été provoqué par une faute grave ou parce que l’ayant droit s’oppose à une mesure de réinsertion de l’AI, PUBLICA peut réduire ses prestations dans la même proportion.
+
+<sup>2</sup> En présence de cas de rigueur, PUBLICA peut renoncer, entièrement ou partiellement, à la réduction des prestations. La Commission de la caisse définit les modalités dans un règlement sur les cas de rigueur.
+
+#### Art. 77
+
+**Surindemnisation**[^77-1]
+
+<sup>1</sup> Le calcul de surindemnisation est soumis aux art. 34*a* LPP et 24, 24*a* et 25 OPP 2. En dérogation à l’art. 34*a*, al. 1, LPP, les prestations de survivants, d’invalidité et d’invalidité professionnelle de PUBLICA, ajoutées aux autres prestations ayant la même nature et le même but et aux autres revenus à prendre en compte, ne doivent pas dépasser 100% du gain annuel dont on peut présumer que l’intéressé est privé.
+
+<sup>2</sup> Les prestations pour survivants versées par PUBLICA et les revenus supplémentaires des survivants à prendre en compte au sens de l’art. 24 OPP 2 sont pris en considération intégralement. Les indemnités uniques en capital sont converties en rentes de valeur actuarielle équivalente. La réduction est appliquée aux différentes rentes de manière proportionnelle.
+
+<sup>3</sup> La part des prestations qui n’est pas versée pour cause de surindemnisation revient à la caisse de prévoyance du domaine des EPF.
+
+<sup>4</sup> En présence de cas de rigueur, PUBLICA peut renoncer totalement ou partiellement à la réduction des prestations. La Commission de la caisse définit les modalités dans un règlement sur les cas de rigueur.
+
+[^77-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>e</sup><sup>r</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 78
+
+**Droit de recours contre un tiers responsable**
+
+Dès la survenance de l’événement dommageable, PUBLICA est subrogée, jusqu’à concurrence des prestations réglementaires, aux droits de la personne assurée, de ses survivants et des autres bénéficiaires visés à l’art. 49 contre tout tiers responsable du cas d’assurance.
+
+#### Art. 79
+
+**Prestations volontaires pour cas de rigueur**
+
+<sup>1</sup> En présence de cas de rigueur particuliers et sur demande motivée, la Commission de la caisse peut allouer aux personnes assurées et aux bénéficiaires de rente, des prestations qui ne sont pas prévues par le présent règlement mais qui sont conformes aux fins de prévoyance de PUBLICA.
+
+<sup>2</sup> Les modalités concernant la détermination du cas de rigueur, le montant et la durée des prestations sont régis par le règlement sur les cas de rigueur arrêté par la Commission de la caisse.
+
+## Chapitre 9 Prestations de sortie
+
+#### Art. 80
+
+**Droit en cas de résiliation du contrat de travail avant le 1<sup>er</sup> janvier suivant le 21<sup>e</sup> anniversaire de la personne assurée**
+
+Si les rapports de travail cessent avant le 1er janvier de l’année suivant le 21e anniversaire de la personne assurée, aucune prestation de sortie n’est due, à moins qu’une prestation de sortie n’ait été versée lors de son admission à PUBLICA. Dans ce cas, la personne assurée a droit à la prestation de sortie versée y compris les intérêts (annexe 1).
+
+#### Art. 81
+
+**Droit en cas de résiliation complète du contrat de travail avant l’âge de 60 ans**
+
+<sup>1</sup> La personne assurée dont les rapports de travail cessent complètement avant qu’elle atteigne l’âge de 60 ans révolus a droit à une prestation de sortie pour autant qu’aucun cas de prévoyance ne soit survenu.
+
+<sup>2</sup> Pour les personnes assurées en invalidité partielle le droit à la prestation de sortie est limité à la part active de l’assurance.
+
+#### Art. 81a
+
+**Droit à la fin de l’assurance selon l’art. 18*d**[^81a-1]*
+
+Si l’assurance prend fin sans qu’un cas de prévoyance ne soit survenu, le droit à la prestation de sortie est régi par l’art. 18*d*, al. 6 et 7.
+
+[^81a-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 82
+
+**Maintien de la prévoyance sous une autre forme**
+
+<sup>1</sup> Si, la personne assurée conclut un nouveau rapport de travail avant l’âge de 60 ans, sa prestation de sortie est versée à l’institution de prévoyance de son nouvel employeur.
+
+<sup>2</sup> Dès que PUBLICA a pris connaissance de la sortie d’une personne assurée, elle l’invite à communiquer toutes les informations utiles au transfert de la prestation de sortie.
+
+<sup>3</sup> Si la personne assurée n’a pas conclu de nouveau rapport de travail, PUBLICA l’informe des possibilités de maintien de la prévoyance et sollicite les renseignements utiles. La personne assurée est tenue de communiquer à PUBLICA sous quelle forme admissible elle entend maintenir la couverture de la prévoyance (police de libre passage ou compte de libre passage). La prestation de sortie peut être transférée à deux institutions de libre passage au maximum.
+
+<sup>4</sup> À défaut de communication de la personne assurée, PUBLICA verse la prestation de sortie à l’institution supplétive, au plus tôt passé un délai de six mois et au plus tard après deux ans.
+
+<sup>5</sup> La rémunération de la prestation de sortie est régie par l’art. 2, al. 3 et 4, LFLP (annexe 1).
+
+<sup>6</sup> Si une personne assurée réduit son taux d’occupation et aucun cas de prévoyance ne survient, la totalité de l’avoir de vieillesse accumulé jusqu’à la date de la réduction reste à PUBLICA. Toutefois, si la personne assurée conclut un nouveau rapport de travail, elle peut dans les trois mois suivant la réduction du taux d’activité, solliciter par écrit le transfert de l’avoir de vieillesse correspondant à cette réduction à l’institution de prévoyance du nouvel employeur.
+
+#### Art. 83
+
+**Paiement en espèces**
+
+<sup>1</sup>
+
+La personne assurée peut exiger le paiement en espèces de la prestation de sortie:
+
+- a. lorsqu’elle quitte définitivement la Suisse et ne s’établit pas dans la Principauté du Liechtenstein; l’al. 4 est réservé;
+- b.[^83-1] lorsqu’elle s’établit à son compte en Suisse et n’est plus soumise à la prévoyance professionnelle obligatoire, ou
+- c. lorsque le montant de la prestation de sortie est inférieur au montant annuel des cotisations qu’elle a versées.
+
+<sup>2</sup>
+
+La personne assurée doit fournir les justificatifs autorisant le paiement en espèces. Elle est en particulier tenue de produire:
+
+- a. une attestation du Contrôle des habitants en cas de départ définitif de la Suisse;
+- b. une attestation de la Caisse de compensation AVS en cas d’exercice d’une activité indépendante.
+
+<sup>3</sup> En cas de doute, PUBLICA peut demander d’autres documents.
+
+<sup>4</sup> Si la personne assurée transfère son domicile dans l’un des pays membres de l’Union européenne, en Islande ou en Norvège et si elle est soumise à l’assurance obligatoire pour les risques vieillesse, décès et invalidité dans l’un de ces pays, elle ne peut pas exiger le paiement en espèces de l’avoir de vieillesse, au sens de l’art. 15 LPP, acquis jusqu’à sa sortie de PUBLICA.
+
+<sup>5</sup> …[^83-2]
+
+<sup>6</sup> Pour les personnes assurées mariées, le paiement en espèces de la prestation de sortie requiert le consentement écrit et authentifié du conjoint. Au lieu de faire authentifier sa signature, le conjoint a la possibilité de se rendre personnellement à PUBLICA, muni d’une pièce d’identité officielle, pour signer la déclaration de consentement.
+
+<sup>7</sup> Si, au cours des trois dernières années précédant le versement en espèces, la personne assurée a effectué un rachat pour améliorer sa couverture d’assurance, les éventuelles restrictions légales sur le paiement sont réservées.
+
+[^83-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^83-2]: Abrogé par par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 84
+
+**Droit lors de la cessation totale ou partielle des rapports de travail après l’âge de 60 ans[^84-1]**
+
+<sup>1</sup>
+
+Si les rapports de travail d’une personne assurée âgée de plus de 60 ans révolus et de moins de 65 ans révolus cessent complètement ou partiellement pour une raison autre que le décès ou l’invalidité (art. 37, al. 3 et art. 38, al. 4), elle peut opter pour:
+
+- a. le transfert de la prestation de sortie à l’institution de prévoyance de son nouvel employeur, ou
+- a<sup>bis</sup>.[^84-2] le transfert de la prestation de sortie à une institution de libre passage, si elle s’est annoncée à l’assurance-chômage ou s’établit à son compte, ou
+- b. la perception des prestations de vieillesse.
+
+<sup>2</sup> Les personnes assurées qui ont atteint l’âge de 65 ans ne peuvent demander le transfert de la prestation de sortie selon l’al. 1, let. a, que si selon le règlement de l’institution de prévoyance de leur nouvel employeur, elles sont admises dans l’assurance et maintiennent leur prévoyance conformément à l’art. 33*b* LPP.[^84-3]
+
+[^84-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^84-2]: Introduite par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^84-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 84a
+
+**Droit en cas de réduction du salaire annuel déterminant après l’âge de 60 ans**[^84a-1]
+
+Si après l’âge de 60 ans, le salaire annuel déterminant d’une personne assurée diminue pour une raison autre que l’invalidité, celle-ci peut, en plus des possibilités énoncées à l’art. 84, choisir entre:
+
+- a. conserver auprès de PUBLICA l’avoir de vieillesse accumulé jusqu’à cette date;
+- b. maintenir sa prévoyance selon l’art. 18*c*.
+
+[^84a-1]: Introduit par l’annexe à la D de l’OP EPF du 25 nov. 2013, approuvée par le Conseil des EPF le 26 sept. 2013 et par le CF le 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3407](https://fedlex.data.admin.ch/eli/oc/2014/594)).
+
+#### Art. 85
+
+**Calcul**
+
+<sup>1</sup> La prestation de sortie est calculée selon l’art. 15 LFLP (droit de la personne assurée en primauté des cotisations). Elle correspond à la somme des avoirs de vieillesse acquis selon l’art. 36 au moment de la cessation des rapports de travail et d’un éventuel avoir sur le compte PC (art. 25). Dans tous les cas, la personne assurée a droit au minimum à la prestation de sortie au sens de l’art. 17 LFLP ou à la prestation de vieillesse conformément à l’art. 15 LPP si celle-ci dépasse le montant de prestation de sortie selon l’art. 17 LFLP.
+
+<sup>2</sup>
+
+Le montant minimum au sens de l’art. 17 LFLP, déduction faite des versements anticipés pour l’acquisition de la propriété du logement, des revenus provenant de la réalisation du gage grevant l’avoir de prévoyance et des transferts suite au divorce, se compose de la somme des:
+
+- a. prestations de sortie apportées par la personne assurée et rachats effectués, y compris les intérêts;
+- b.[^85-1] cotisations d’épargne (art. 24 et 25) versées par la personne assurée pendant la période de cotisation, intérêts y compris, majorées de 4 % par année d’âge suivant la 20<sup>e</sup> année, jusqu’à 100 % au maximum; l’al. 5 est réservé;
+- c. éventuels rachats effectués par l’employeur au sens de l’art. 87, intérêts y compris.
+
+<sup>2bis</sup> …[^85-2]
+
+<sup>3</sup> Le taux d’intérêt pour la rémunération selon l’al. 2 se fonde sur la LFLP. Pendant une période de découvert, il peut être ramené au niveau du taux appliqué aux avoirs de vieillesse.[^85-3]
+
+<sup>4</sup> Les éventuelles contributions servant à résorber un découvert (art. 34) ne sont pas prises en compte dans la prestation de sortie (art. 17, al. 2, let. f, LFLP).[^85-4]
+
+<sup>5</sup> La majoration prévue à l’al. 2, let. b, ne s’applique pas aux cotisations d’épargne que la personne assurée a versées en lieu et place de l’employeur lors d’un congé non payé selon l’art. 18*a*, en cas de maintien de la prévoyance selon l’art. 18*c* ou en cas de maintien de l’assurance selon l’art. 18*d*.[^85-5]
+
+[^85-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+[^85-2]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)). Abrogé par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^85-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^85-4]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^85-5]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)). Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 86
+
+**Rectification des prestations de sortie**
+
+Si PUBLICA a versé une prestation de sortie insuffisante, l’intérêt sur la prestation payée a posteriori correspond au taux prévu par l’art. 7 OLP (annexe 1).
+
+#### Art. 87
+
+**Participation de l’employeur au rachat**
+
+<sup>1</sup> Si l’employeur a participé au rachat d’une personne assurée, le montant versé est déduit de la prestation de sortie.
+
+<sup>2</sup> Chaque année de cotisation s’écoulant après le versement de la participation de l’employeur a pour effet de diminuer cette déduction à raison d’un dixième du montant versé par l’employeur. La part non utilisée est versée au compte de réserve de cotisation de l’employeur.
+
+#### Art. 88
+
+**Informations en cas de libre passage**
+
+En cas de libre passage, PUBLICA adresse à la personne assurée ainsi qu’à la nouvelle institution de prévoyance, à l’institution de libre passage ou à la Fondation institution supplétive, les informations ci-après:[^88-1]
+
+- a. le montant de l’avoir de vieillesse visé à l’art. 36;
+- b. le montant minimum visé à l’art. 85, al. 2 (art. 17, LFLP);
+- c. le montant de l’avoir de vieillesse visé à l’art. 15, LPP;
+- d.[^88-2] les informations relatives aux versements anticipés obtenus dans le cadre de l’encouragement à la propriété du logement visés aux art. 91 à 97;
+- e. les informations relatives à la mise en gage de prestations de prévoyance au sens des art. 91 et 94;
+- f.[^88-3] le cas échéant, le montant de l’avoir de vieillesse accumulé à l’âge de 50 ans révolus;
+- g. le cas échéant, le montant de l’avoir de vieillesse accumulé à la date du mariage respectivement le montant accumulé au 1<sup>er</sup> janvier 1995;
+- h.[^88-4] les informations relatives aux montants qui ont été transférés suite à un divorce, selon l’art. 99, al. 1.
+
+[^88-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^88-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^88-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^88-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 89
+
+**Maintien de la prévoyance dans des cas particuliers**
+
+Si la personne assurée passe de la caisse de prévoyance du domaine des EPF à une autre caisse de prévoyance de PUBLICA, PUBLICA établit dans tous les cas un décompte comme pour un cas de libre passage.
+
+#### Art. 90
+
+**Restitution à PUBLICA de la prestation de sortie; compensation**
+
+<sup>1</sup> Si PUBLICA doit verser des prestations de survivants ou d’invalidité après le transfert de la prestation de sortie à la nouvelle institution de prévoyance ou à une institution de libre passage, la prestation de sortie, intérêts y compris, doit être remboursée à PUBLICA à concurrence du montant nécessaire au paiement des prestations de survivants ou d’invalidité.
+
+<sup>2</sup> Si la prestation de sortie a été versée à une personne invalide ou à ses survivants, le montant des prestations d’invalidité ou de survivants est fixé en fonction du montant de la prestation de sortie restituée.
+
+## Chapitre 10 Encouragement à la propriété du logement
+
+#### Art. 91
+
+**Versement anticipé et mise en gage**
+
+<sup>1</sup> Avant la naissance du droit aux prestations, la personne assurée peut demander à PUBLICA un versement anticipé de ses prestations ou la mise en gage de son droit aux prestations, jusqu’à hauteur de sa prestation de sortie, pour le financement de la propriété du logement pour ses propres besoins au sens des art. 1 à 4 OEPL.
+
+<sup>1bis</sup> Si le maintien de l’assurance selon l’art. 18*d* a duré plus de deux ans, il n’existe pas de droit au versement anticipé ou à la mise en gage.[^91-1]
+
+<sup>2</sup> PUBLICA peut percevoir des frais administratifs pour les montants accordés à titre de versement anticipé et de mise en gage dans le cadre de l’encouragement à la propriété du logement. Ces frais sont définis dans le règlement relatif aux émoluments. Sur demande préalable, la personne assurée sera informée de leur montant.
+
+[^91-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+#### Art. 92
+
+**Versement anticipé**
+
+<sup>1</sup> Les demandes de versement anticipé dans le but de financer un logement pour ses propres besoins sont traitées chronologiquement en fonction de la date de réception.
+
+<sup>2</sup> Le montant minimum du versement anticipé est de 20 000 francs. Ce montant minimum ne s’applique pas à l’acquisition de parts sociales de coopératives d’habitation ou d’autres formes similaires de participation.
+
+<sup>3</sup> Un versement anticipé peut être sollicité tous les cinq ans, le dernier au plus tard à l’âge de 62 ans. Si avant son admission à PUBLICA, la personne assurée a sollicité un versement anticipé auprès d’une autre institution de prévoyance, les années écoulées doivent être prises en compte dans ce délai.[^92-1]
+
+<sup>4</sup> Jusqu’à l’âge de 50 ans, la personne assurée peut solliciter une somme pouvant atteindre au plus le montant de la prestation de sortie.
+
+<sup>5</sup>
+
+Au-delà de 50 ans, la personne assurée peut percevoir au maximum le plus élevé des montants ci-après:
+
+- a. le montant de la prestation de sortie dont elle disposait à l’âge de 50 ans révolus, augmenté des remboursements effectués successivement et diminué des versements anticipés ou du produit des gages réalisés pour la propriété du logement après l’âge de 50 ans révolus;
+- b. la moitié de la différence entre la prestation de sortie accumulée à la date du versement anticipé et la prestation de libre passage déjà investie à cette date pour la propriété du logement.
+
+<sup>6</sup> Pour les personnes assurées mariées, le versement anticipé nécessite le consentement écrit du conjoint. PUBLICA peut exiger l’authentification de la signature. Au lieu de faire authentifier sa signature, le conjoint a la possibilité de se rendre personnellement à PUBLICA pour signer la déclaration de consentement sur présentation d’une pièce d’identité officielle.
+
+<sup>7</sup> Au demeurant, les dispositions légales relatives à la loi fédérale sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle s’appliquent.
+
+[^92-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 93
+
+**Remboursement**
+
+<sup>1</sup>
+
+Le montant perçu de manière anticipée doit être remboursé si:
+
+- a. le logement en propriété est vendu;
+- b. des droits équivalant économiquement à une aliénation sont concédés sur le logement en propriété, ou
+- c. aucune prestation de prévoyance n’est exigible en cas de décès de la personne assurée.
+
+<sup>2</sup>
+
+Le montant perçu de manière anticipée peut être remboursé:
+
+- a.[^93-1] jusqu’à l’âge de 65 ans;
+- b. jusqu’à la survenance d’un autre cas de prévoyance, ou
+- c.[^93-2] jusqu’au paiement en espèces de la prestation de sortie.
+
+<sup>3</sup> Si la personne assurée rembourse le versement anticipé, le montant correspondant est crédité, à la date de valeur du remboursement, à l’avoir de vieillesse au sens de l’art. 36, al. 2, let. e. Le montant minimal d’un remboursement est de 10 000 francs. Si le solde du versement anticipé à rembourser est inférieur à cette somme, le remboursement doit être effectué en une seule fois.[^93-3]
+
+[^93-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^93-2]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^93-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 94
+
+**Mise en gage**
+
+<sup>1</sup> La mise en gage doit être annoncée par écrit à PUBLICA.
+
+<sup>2</sup> Le montant maximum pouvant être mis en gage correspond au montant maximum qui peut faire l’objet d’un versement anticipé.
+
+<sup>3</sup>
+
+Le consentement écrit du créancier gagiste est nécessaire pour affecter le montant mis en gage:
+
+- a. au paiement en espèces de la prestation de sortie;
+- b. au paiement de la prestation de prévoyance;
+- c. au transfert, à la suite d’un divorce, d’une partie de la prestation de sortie à l’institution de prévoyance du conjoint de la personne assurée.
+
+<sup>4</sup> Si le créancier gagiste refuse de donner son consentement, PUBLICA doit mettre le montant en sûreté.
+
+<sup>5</sup> Si la personne assurée change d’institution de prévoyance, PUBLICA doit indiquer au créancier gagiste à qui la prestation de sortie est transférée et à concurrence de quel montant.
+
+<sup>6</sup> Au demeurant, les dispositions légales relatives à la loi fédérale sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle s’appliquent.
+
+#### Art. 95
+
+**Documents à fournir**
+
+Si une personne assurée souhaite faire usage du versement anticipé ou de la mise en gage, elle doit remettre à PUBLICA les documents contractuels relatifs à l’acquisition ou la construction du logement ou l’amortissement des prêts hypothécaires, le règlement, voire le contrat de location ou de prêt en cas d’acquisition de parts à des coopératives d’habitation et les actes correspondants pour des participations similaires.
+
+#### Art. 96
+
+**Paiement**
+
+<sup>1</sup> PUBLICA paie le montant du versement anticipé au plus tard six mois après que la personne assurée a fait valoir son droit au paiement.
+
+<sup>2</sup> PUBLICA paie le montant du versement anticipé sur production des pièces justificatives requises et avec l’accord de la personne assurée, directement au vendeur, à l’entrepreneur, au prêteur ou aux ayants droit en vertu de l’art. 1, al. 1, let. b OEPL.
+
+<sup>3</sup> L’al. 2 s’applique par analogie en cas de paiement à effectuer en raison de la réalisation du gage grevant l’avoir de vieillesse.
+
+<sup>4</sup> Si le paiement du montant n’est pas possible ou ne peut pas être exigé dans le délai de six mois en raison de problèmes de liquidité, PUBLICA établit un ordre de priorité qu’elle communique à l’autorité de surveillance.
+
+#### Art. 97
+
+**Incidences sur la prévoyance[^97-1]**
+
+<sup>1</sup> En cas de versement anticipé ou de réalisation du gage, l’éventuel avoir issu du compte PC et, si nécessaire, l’avoir de vieillesse sont diminués du montant correspondant et les prestations assurées sont réduites dans la même mesure. L’avoir de vieillesse selon la LPP est réduit dans la même proportion que le montant total de l’éventuel avoir issu du compte PC et de l’avoir de vieillesse.[^97-2]
+
+<sup>2</sup> Afin d’éviter une lacune de prévoyance par une réduction des prestations en cas de décès ou d’invalidité, PUBLICA informe la personne assurée des possibilités de conclusion d’une assurance risque auprès d’une compagnie d’assurance privée.
+
+<sup>3</sup> Si la personne assurée rembourse le versement anticipé ou le versement résultant de la réalisation du gage, le montant remboursé est crédité, à la date de valeur du remboursement, à hauteur du montant de la réduction opérée selon l’al. 1. L’avoir de vieillesse selon la LPP est augmenté dans la proportion correspondant à la réduction opérée selon l’al. 1.[^97-3]
+
+[^97-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^97-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+[^97-3]: Introduit par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2****017** 3291).
+
+## Chapitre 11 Divorce
+
+#### Art. 98
+
+**Partage de la prévoyance professionnelle**[^98-1]
+
+Les dispositions pertinentes du CC, du CPC, de la LPP, de la LFLP et leurs dispositions d’exécution sont applicables au partage de la prévoyance professionnelle en cas de divorce.
+
+[^98-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 99
+
+**Incidences sur la prévoyance**[^99-1]
+
+<sup>1</sup> À la suite du divorce, la part de prestation de sortie transférée en faveur de la personne assurée ou la part de rente qui lui est transférée sous forme de rente viagère ou de capital est créditée à l’avoir de vieillesse selon la LPP et à l’avoir de vieillesse selon le présent règlement dans la même proportion que le montant ayant été prélevé sur la prévoyance du conjoint débiteur.
+
+<sup>2</sup> La part de prestation de sortie transférée suite au divorce au détriment de la personne assurée est déduite de l’éventuel avoir issu du compte PC et, si nécessaire, de l’avoir de vieillesse. L’avoir de vieillesse selon la LPP est réduit dans la même proportion que le montant total de l’éventuel avoir issu du compte PC et de l’avoir de vieillesse. La personne assurée a la possibilité de procéder au rachat de la prestation de sortie transférée; en cas de rachat, l’avoir de vieillesse selon la LPP est augmenté dans la proportion correspondant à la réduction qui a été opérée. L’art. 32, al. 4, est applicable.[^99-2]
+
+<sup>3</sup> Le transfert, suite au divorce, d’une part de prestation de sortie d’une personne assurée invalide en faveur du conjoint créancier entraîne une réduction de la prestation de sortie. Cette dernière est calculée selon l’art. 54, al. 3. La réduction de la rente d’invalidité de la personne débitrice est calculée selon l’art. 19, al. 2 et 3, OPP 2. Le présent alinéa s’applique par analogie aux personnes atteintes d’une invalidité professionnelle.
+
+<sup>4</sup> Le transfert, suite au divorce, d’une part de rente sous forme de rente viagère ou de capital en faveur du conjoint créancier entraîne une réduction des prestations versées par PUBLICA à la personne débitrice. La part de rente transférée n’entre pas dans la rente de vieillesse en cours ou est déduite de la rente d’invalidité assurée au sens de l’art. 46, al. 1, let. b, ou l’art. 48, al. 1, let. b. Elle ne donne à la personne créancière aucun droit à d’autres prestations de PUBLICA. Avant le premier transfert annuel de la rente à l’institution de prévoyance ou de libre passage de la personne créancière, cette dernière peut convenir avec PUBLICA que la part de rente soit transférée sous forme de capital.
+
+<sup>5</sup> Si le cas de prévoyance vieillesse survient pendant la procédure de divorce, PUBLICA réduit les prestations selon l’art. 19*g* OLP.
+
+<sup>6</sup> Le droit à une rente pour enfant de bénéficiaire d’une rente de vieillesse, d’une rente d’invalidité ou d’une rente d’invalidité professionnelle existant au moment de l’introduction de la procédure de divorce n’est pas touché par le partage de la prévoyance professionnelle. Si la rente pour enfant n’a pas été touchée, la rente d’orphelin est calculée sur les mêmes bases que la rente pour enfant.
+
+[^99-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^99-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+## Chapitre 12 Voies de droit
+
+#### Art. 100
+
+<sup>1</sup> Il appartient aux tribunaux désignés par les cantons, en vertu de l’art. 73 de la LPP, de statuer sur les litiges entre PUBLICA, l’employeur et les ayants droit. Ces autorités sont également compétentes pour les contestations visées à l’art. 73, al. 1, let. a à d, LPP.
+
+<sup>2</sup> Le for est au siège ou au domicile suisse du défendeur ou au lieu de l’entreprise dans laquelle la personne assurée a été engagée.
+
+<sup>3</sup> Les décisions des tribunaux cantonaux peuvent être déférées au Tribunal fédéral par la voie du recours (art. 86, al. 1, let. d, LTF).
+
+## Chapitre 13 Dispositions finales
+
+### Section 1 Dispositions transitoires
+
+#### Art. 101
+
+[^101-1]
+
+[^101-1]: Abrogé par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 102
+
+**Prestations d’assurance soumises à l’ancien droit**
+
+<sup>1</sup> Toutes les rentes, tous les suppléments fixes, ainsi que les rentes transitoires et les rentes de substitution AI, ayant pris naissance sous l’ancien droit sont transférés à hauteur du même montant.[^102-1]
+
+<sup>2</sup> La réduction de la rente de vieillesse suite à la perception d’une rente transitoire soumise à l’ancien droit est calculée sur la base de l’ancien droit (annexe 7).
+
+<sup>3</sup> Les rentes octroyées en cas de résiliation administrative des rapports de service au sens de l’art. 32 des statuts de la CFA et de l’art. 43 des statuts de la CFP sont converties en rentes de vieillesse de même montant à l’âge ordinaire de l’AVS.[^102-2]
+
+<sup>4</sup>
+
+Pour les rentes nées sous l’ancien droit et transférées selon l’al. 1, le présent règlement est applicable:
+
+- a. à l’adaptation des rentes à l’évolution des prix (art. 75);
+- b. aux rentes de survivants nées après l’entrée en vigueur du présent règlement, mais se rapportant à des prestations soumises à l’ancien droit (art. 43 à 48);
+- c. à la fin du droit aux rentes de survivants (art. 44, al. 4, 45, al. 7 et 47, al. 3 et 4);
+- d. à la perception d’éventuelles cotisations d’assainissement (art. 34 et 35);
+- e.
+
+  au calcul de surindemnisation (art. 77):
+
+  - 1\. au décès de la personne bénéficiaire d’une rente;
+  - 2\. lorsque la personne bénéficiaire d’une rente atteint l’âge ordinaire de l’AVS, ou
+  - 3\. lors d’un nouveau calcul du droit aux prestations de l’AM ou de l’AA ou d’une autre assurance sociale.[^102-3]
+
+[^102-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^102-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^102-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 103
+
+**Supplément fixe, rente transitoire et rente de substitution AI selon l’ancien droit**
+
+<sup>1</sup>
+
+Le droit au supplément fixe et à la rente transitoire ayant pris naissance sous l’ancien droit s’éteint:
+
+- a. au décès, mais au plus tard lorsque la personne bénéficiaire d’une rente atteint l’âge ordinaire de l’AVS;
+- b. lorsque le conjoint ou la conjointe de la personne bénéficiaire d’une rente décède, mais au plus tard lorsqu’il ou elle atteint l’âge ordinaire de l’AVS ou en cas de divorce, pour autant que la personne bénéficiaire d’une rente perçoive un supplément au sens de l’art. 29, al. 1, let. b, ch. 3, des statuts de la CFA ou de l’art. 40, al. 1, let. b, ch. 3, des statuts de la CFP, ou
+- c. lorsqu’un droit à une rente AI est octroyé pour la première fois, ou lorsque le droit à une rente AI est modifié, ou encore lorsque le service médical constate que le degré d’invalidité professionnelle a diminué ou augmenté, avec effet après l’entrée en vigueur du présent règlement.
+
+<sup>2</sup> Si le droit au supplément fixe s’éteint selon l’al. 1, let. c, la personne bénéficiaire d’une rente d’invalidité ayant pris naissance avant le 1<sup>er</sup> juin 2003 a droit à une rente de substitution AI, calculée selon le présent règlement, en fonction du taux d’invalidité professionnelle encore existant. Il en va de même lorsque la personne n’avait pas droit à un supplément fixe et que le droit à une rente AI est diminué pour la première fois, avec effet après l’entrée en vigueur du présent règlement.[^103-1]
+
+<sup>3</sup> En cas de diminution du degré d’invalidité professionnelle suite à une décision de l’AI ou du service médical avec effet après l’entrée en vigueur du présent règlement, le montant de la rente de substitution AI née sous l’ancien droit est réduit proportionnellement à la réduction du degré d’invalidité professionnelle.[^103-2]
+
+<sup>4</sup> Le droit à la rente de substitution AI ayant pris naissance sous l’ancien droit s’éteint au décès, mais au plus tard lorsque la personne bénéficiaire d’une rente atteint l’âge ordinaire de l’AVS.
+
+[^103-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+[^103-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+
+#### Art. 104
+
+**Rentes d’invalidité transférées**
+
+<sup>1</sup> Les rentes d’invalidité ayant pris naissance avant le 1<sup>er</sup> juin 2003, ainsi que les rentes d’invalidité professionnelle PUBLICA ayant pris naissance avant l’entrée en vigueur du présent règlement, sont transférées à hauteur du même montant en tant que rentes d’invalidité professionnelle.
+
+<sup>2</sup> Les rentes d’invalidité PUBLICA ayant pris naissance avant l’entrée en vigueur du présent règlement sont transférées à hauteur du même montant en tant que rentes d’invalidité.
+
+<sup>3</sup> Pour les rentes d’invalidité ou d’invalidité professionnelle selon les al. 1 et 2, le présent règlement est applicable aux conditions (art. 62 et 51) et à l’étendue du droit à la rente (art. 62 et 56). Il est également applicable au début (art. 62 et 52) et au calcul (art. 63 et 57) du droit aux prestations résultant d’une augmentation du degré d’invalidité ou d’invalidité professionnelle, lorsque cette augmentation prend effet après l’entrée en vigueur du présent règlement.[^104-1]
+
+<sup>4</sup> Pour les rentes d’invalidité ou d’invalidité professionnelle selon les al. 1 et 2, le présent règlement est applicable à la fin du droit à la rente (art. 62, al. 6, et art. 52*a*).[^104-2]
+
+<sup>5</sup> En cas de diminution du droit à une rente d’invalidité ou d’invalidité professionnelle selon les al. 1 et 2 suite à une décision de l’AI ou du service médical avec effet après l’entrée en vigueur du présent règlement, le montant de la rente est réduit proportionnellement à la réduction du droit. Lorsque l’AI octroie une rente pour la première fois ou modifie le droit à cette rente pour la première fois avec effet après l’entrée en vigueur du présent règlement, le montant de la rente d’invalidité ayant pris naissance avant le 1<sup>er</sup> juin 2003 reste inchangé.
+
+[^104-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
+[^104-2]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
+
+#### Art. 105
+
+**Réinsertion de bénéficiaires d’une rente d’invalidité transférée**[^105-1]
+
+En cas de réinsertion avec effet après l’entrée en vigueur du présent règlement d’une personne bénéficiaire d’une rente d’invalidité ayant pris naissance avant le 1<sup>er</sup> juin 2003 ou d’une rente d’invalidité professionnelle PUBLICA ou d’une rente d’invalidité PUBLICA ayant pris naissance avant le 1<sup>er</sup> juillet 2008 (art. 104, al. 1 ou 2), une prestation de sortie est calculée selon l’art. 46 OCFP 1, ou selon l’art. 27, al. 3, OCFP 2, au jour précédant l’entrée en vigueur du présent règlement. Ce montant est pris en compte dans l’avoir de vieillesse accumulé dès l’entrée en vigueur du présent règlement, conformément à l’art. 54, al. 2, pour le calcul de la prestation de sortie (art. 54, al. 3).
+
+[^105-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 106
+
+[^106-1]
+
+[^106-1]: Abrogé par le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+
+#### Art. 107
+
+**Garantie selon l’art. 25 de la Loi relative à PUBLICA**
+
+<sup>1</sup> La garantie implique qu’à la naissance du droit à la rente, les cotisations d’épargne réglementaires de l’employeur et de la personne assurée aient été payées intégralement et proportionnellement au taux d’occupation le jour précédant l’entrée en vigueur du présent règlement.
+
+<sup>2</sup> …[^107-1]
+
+<sup>3</sup> Les rachats, les remboursements de prélèvements anticipés pour l’encouragement à la propriété du logement ou les apports suite à un divorce qui ont été effectués après l’entrée en vigueur du présent règlement n’ont aucun effet sur le droit à la garantie.
+
+<sup>4</sup> Les prélèvements anticipés pour l’encouragement à la propriété du logement, les revenus provenant de la réalisation du gage grevant l’avoir de prévoyance et les versements suite à un divorce, qui interviennent après l’entrée en vigueur du présent règlement, causent une réduction actuarielle du droit à la garantie.
+
+<sup>5</sup> Si l’avoir de vieillesse de la personne assurée est réduit pour des raisons relevant de l’al. 4 et si, avant le départ à la retraite, la personne assurée rembourse ou rachète intégralement les montants concernés, celle-ci retrouve le droit originel à la garantie. Autrement, le droit à la garantie subit une réduction actuarielle de la garantie originelle dans la mesure du remboursement ou du rachat non effectué.
+
+[^107-1]: Abrogé par le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
+
+#### Art. 107a
+
+**Dispositions transitoires relatives aux modifications des 31 mars et 10 mai 2011**[^107a-1]
+
+<sup>1</sup> La réduction à vie dès l’âge AVS, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1er juillet 2008 et l’entrée en vigueur des modifications des 31 mars et 10 mai 2011 est régie par analogie par l’art. 102, al. 2.
+
+<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur des modifications des 31 mars et 10 mai 2011, en cas de décès avant l’âge AVS de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2008 et l’entrée en vigueur de ces modifications est régie par analogie par l’art. 102, al. 4, let. b.
+
+[^107a-1]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
+
+#### Art. 107b
+
+**Dispositions transitoires relatives à la modification du 25 novembre 2013**[^107b-1]
+
+<sup>1</sup> La réduction à vie dès l’âge AVS, consécutive à la rente transitoire perçue, des rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de la modification du 25 novembre 2013 est régie par analogie par l’art. 102, al. 2.
+
+<sup>2</sup> La réduction des prestations pour survivants nées après l’entrée en vigueur de la modification du 25 novembre 2013, en cas de décès avant l’âge AVS de la personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> juillet 2012 et l’entrée en vigueur de cette modification, est régie par analogie par l’art. 102, al. 4, let. b.
+
+[^107b-1]: Introduit par l’annexe à la D de l’OP EPF du 25 nov. 2013, approuvée par le Conseil des EPF le 26 sept. 2013 et par le CF le 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3407](https://fedlex.data.admin.ch/eli/oc/2014/594)).
+
+#### Art. 107c
+
+**Dispositions transitoires relatives à la modification du 1<sup>er</sup> décembre 2016**
+
+<sup>1</sup> Le conjoint divorcé qui, avant l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2016, a bénéficié, suite au divorce, d’une rente ou d’une indemnité en capital en lieu et place d’une rente viagère, a droit aux prestations de survivants selon l’ancien droit.
+
+<sup>2</sup> À la suite d’un divorce, la part de prestation de sortie transférée en faveur de la personne assurée après l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2016 ou la part de rente qui lui est transférée sous forme de rente viagère ou de capital n’ont pas d’influence sur le droit à la garantie selon l’art. 107.
+
+<sup>3</sup> Les parts de prestations de sortie transférées, suite à un divorce, en faveur du conjoint créancier après l’entrée en vigueur de la modification du 1<sup>er</sup> décembre 2016, entraînent une réduction actuarielle du droit à la garantie selon l’art. 107.
+
+<sup>4</sup> Pour les rentes ayant pris naissance avant le 1er juillet 2008 et transférées à hauteur du même montant selon l’art. 102, al. 1, l’art. 99, al. 3 à 5, s’applique à la réduction de la prestation de sortie et des prestations suite à un divorce. La réduction de ces rentes est calculée à l’aide des bases techniques en vigueur à la date où le jugement de divorce a acquis force de chose jugée.[^107c-1]
+
+[^107c-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art.107d
+
+**Disposition transitoire relative à la modification du 30 novembre 2017: adaptation des paramètres techniques au 1<sup>er</sup> janvier 2019 – garantie nominale des acquis pour la rente de vieillesse**[^107d-1]
+
+<sup>1</sup> Les personnes assurées âgées d’au moins 60 ans au 31 décembre 2018 ont droit, au moment de leur départ à la retraite, à une rente de vieillesse correspondant au minimum à la rente de vieillesse à laquelle elles auraient pu prétendre si leur départ à la retraite était intervenu au 31 décembre 2018, sans adaptation des paramètres techniques.
+
+<sup>2</sup> Si l’avoir de vieillesse ou l’éventuel avoir issu du compte PC est réduit à compter du 1<sup>er</sup> janvier 2019, du fait notamment de la perception de prestations de vieillesse sous forme d’indemnité unique en capital, d’un départ à la retraite partiel, de la perception de prestations d’invalidité partielle ou d’invalidité professionnelle partielle, de versements anticipés, de versements résultant de la réalisation du gage, d’un divorce ou d’une dissolution judiciaire du partenariat enregistré, la garantie selon l’al. 1 devient caduque. La garantie est également caduque en cas de sortie de la caisse de prévoyance à compter du 1<sup>er</sup> janvier 2019.
+
+[^107d-1]: Introduit par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art.107e
+
+**Disposition transitoire relative à la modification du 30 novembre 2017: adaptation des paramètres techniques au 1<sup>er</sup> janvier 2019 – revalorisation de la rente de vieillesse, d’invalidité ou de survivants**[^107e-1]
+
+<sup>1</sup> Afin d’atténuer les conséquences de l’entrée en vigueur au 1<sup>er</sup> janvier 2019 des nouvelles bases techniques, les avoirs de vieillesse et éventuels avoirs issus de comptes PC des personnes assurées de manière ininterrompue du 1<sup>er</sup> janvier 2018 au 31 décembre 2018 au sein de la caisse de prévoyance du domaine des EPF et âgées d’au moins 60 ans au 31 décembre 2018 sont revalorisés conformément aux al. 2 à 5.
+
+<sup>2</sup> La revalorisation n’est effectuée qu’à la date du départ à la retraite et seulement dans les mêmes proportions que celles dans lesquelles la rente de vieillesse est perçue.
+
+<sup>3</sup>
+
+Sont déterminants pour la revalorisation:
+
+- a. l’avoir de vieillesse et l’éventuel avoir issu du compte PC disponibles au 31 décembre 2018 dans la caisse de prévoyance du domaine des EPF, déduction faite de toute opération réalisée à compter du 1<sup>er</sup> janvier 2016 qu’il s’agisse de rachats, de rachats pour cause de divorce ou de dissolution judiciaire du partenariat enregistré, ou de remboursements des versements anticipés et des versements résultant de la réalisation du gage effectués dans le cadre de l’encouragement à la propriété du logement, et
+- b. l’âge de la personne assurée au 31 décembre 2018.
+
+<sup>4</sup> Le tableau suivant sert de base pour la revalorisation (interpolation mensuelle):
+
+<table>
+<tr><th>Age au 31 décembre 2018</th><th colspan="2">Revalorisation en %</th></tr>
+<tr><th></th><th>Hommes</th><th>Femmes</th></tr>
+<tr><td>70</td><td>10,07 %</td><td>10,07 %</td></tr>
+<tr><td>69</td><td>10,24 %</td><td>10,24 %</td></tr>
+<tr><td>68</td><td>10,39 %</td><td>10,39 %</td></tr>
+<tr><td>67</td><td>10,74 %</td><td>10,74 %</td></tr>
+<tr><td>66</td><td>11,07 %</td><td>11,07 %</td></tr>
+<tr><td>65</td><td>11,00 %</td><td>11,00 %</td></tr>
+<tr><td>64</td><td>11,00 %</td><td>11,00 %</td></tr>
+<tr><td>63</td><td>10,41 %</td><td>11,00 %</td></tr>
+<tr><td>62</td><td>9,63 %</td><td>10,41 %</td></tr>
+<tr><td>61</td><td>8,64 %</td><td>9,63 %</td></tr>
+<tr><td>60</td><td>7,07 %</td><td>8,06 %</td></tr>
+</table>
+
+<sup>5</sup> Si, après le 31 décembre 2018, l’avoir de vieillesse ou l’éventuel avoir issu du compte PC sont réduits suite à la perception de prestations de vieillesse sous forme d’indemnité unique en capital, à des versements anticipés ou à des versements résultant de la réalisation du gage effectués dans le cadre de l’encouragement à la propriété du logement, à des versements pour cause de divorce ou de dissolution judiciaire du partenariat enregistré ou si l’éventuel avoir issu du compte PC est versé sous forme d’indemnité unique en capital en vertu de l’art. 55, al. 1, let. b, la revalorisation est réduite en proportion.
+
+<sup>6</sup> Si le droit à une rente d’invalidité ou d’invalidité professionnelle prend naissance après le 31 décembre 2018, la revalorisation selon les al. 1 et 3 à 5 porte sur la partie de l’avoir de vieillesse disponible au 31 décembre 2018 qui est déterminante pour le calcul de la rente d’invalidité ou d’invalidité professionnelle. L’éventuel avoir issu du compte PC disponible au 31 décembre 2018 ne peut faire l’objet d’une revalorisation selon les al. 1 et 3 à 5 que s’il avait été immobilisé en vue d’une amélioration future de la rente de vieillesse au sens de l’art. 55, al. 1, let. a.
+
+<sup>7</sup> Si une personne assurée décède après le 31 décembre 2018, la revalorisation selon les al. 1 et 3 à 5 porte sur l’avoir de vieillesse disponible au 31 décembre 2018 pour le calcul de la rente de survivants. Si la rente de viduité ou la rente de partenaire est perçue entièrement ou partiellement sous forme d’indemnité unique en capital, la revalorisation est réduite en proportion.
+
+[^107e-1]: Introduit par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 107f
+
+**Disposition transitoire relative à la modification du 30 novembre 2017**[^107f-1]
+
+<sup>1</sup> La réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, aux rentes de vieillesse ayant pris naissance entre le 1<sup>er</sup> janvier 2015 et l’entrée en vigueur de la modification du 30 novembre 2017 est régie par analogie par l’art. 102, al. 2.
+
+<sup>2</sup> En cas de décès avant l’âge AVS d’une personne bénéficiaire d’une rente de vieillesse ayant pris naissance entre le 1<sup>er</sup> janvier 2015 et l’entrée en vigueur de la modification du 30 novembre 2017, la réduction des rentes de survivants nées après l’entrée en vigueur de cette modification est régie par analogie par l’art. 102, al. 4, let. b.
+
+[^107f-1]: Introduit par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+#### Art. 107g
+
+**Disposition transitoire relative à la modification du 16 octobre 2019**[^107g-1]
+
+Les réserves médicales existantes deviendront caduques à l’entrée en vigueur de la modification du 16 octobre 2019.
+
+[^107g-1]: Introduit par le ch. I de la D de l’OP EPF des 21 mars et 16 oct. 2019, approuvée par le CF le 6 déc. 2019 et en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4735](https://fedlex.data.admin.ch/eli/oc/2019/771)).
+
+#### Art. 107h
+
+**Disposition transitoire relative à la modification du 20 novembre 2020**[^107h-1]
+
+Les personnes assurées qui ont atteint l’âge de 62 ans avant le 1<sup>er</sup> décembre 2020 mais n’ont pas encore remboursé les versements anticipés pour l’encouragement à la propriété du logement avant le 1<sup>er</sup> janvier 2021:
+
+- a. ne peuvent plus rembourser ces versements anticipés; les obligations visées à l’art. 93, al. 1, ne s’appliquent plus;
+- b. peuvent effectuer des rachats pour autant que leur montant, additionné à celui des versements anticipés, n’excède pas les prestations maximales établies par le présent règlement.
+
+[^107h-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+
+### Section 2 Entrée en vigueur
+
+#### Art. 108
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur en même temps que le contrat d’affiliation.
+
+<sup>2</sup> Des modifications du règlement de prévoyance entraînent une modification du contrat d’affiliation. Pour être valables, elles nécessitent l’approbation des partenaires du contrat d’affiliation et de l’organe paritaire ainsi que la ratification par le Conseil fédéral.
+
+Annexe 1*[^t-1]*
+
+(art. 8)
+
+## Intérêts
+
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+<table>
+<tr><th></th><th></th><th>Stand 2017[^annex1-lvlu1-1]</th></tr>
+<tr><td>Art. 24 et 36</td><td>Rémunération des bonifications de vieillesse et des avoirs de vieillesse</td><td>1,00 %</td></tr>
+<tr><td>Art. 25</td><td>Rémunération des cotisations d’épargne volontaires (compte PC)</td><td>1,00 %</td></tr>
+<tr><td>Art. 29</td><td>Rémunération de l’avoir de vieillesse en cas de congé non payé</td><td>1,00 %</td></tr>
+<tr><td>Art. 71</td><td>Intérêt moratoire en cas de paiement complémentaire de prestations</td><td>2,00 %</td></tr>
+<tr><td>Art. 72</td><td>Intérêt en cas remboursement,</td><td>1,00 %</td></tr>
+<tr><td></td><td>Intérêt moratoire en cas de remboursement</td><td>2,00 %</td></tr>
+<tr><td>Art. 80</td><td>Rémunération des prestations de sortie apportées en cas de résiliation des rapports de travail avant le 1<sup>er</sup> janvier qui suit le 21<sup>e</sup> anniversaire</td><td>1,00 %</td></tr>
+<tr><td>Art. 82 et 85</td><td>Rémunération de la prestation de sortie</td><td>1,00 %, +1,00 % en cas de retard de paiement</td></tr>
+<tr><td>Art. 85</td><td>Rémunération selon art. 17 LFLP</td><td>1,00 % (sous réserve de l’art. 85, al. 3)</td></tr>
+<tr><td>Art. 86</td><td>Paiement complémentaire des prestations de sortie</td><td>2,00 %</td></tr>
+<tr><td>Art. 90</td><td>Intérêt en cas de restitution de la prestation de sortie</td><td>1,00 %</td></tr>
+</table>
+
+Le taux minimum LPP pour l’année 2017 est 1,00 %.
+
+*2*
+
+[^annex1-lvlu1-1]: Les taux d’intérêts actuels peuvent être consultés sur le site Internet de PUBLICA.
+
+Annexe 1a*[^t-2]*
+
+[^t-2]: Introduite par le ch. II, al. 3, des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogée par le ch. II al. 1 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 (RO **20****18** 2465).
+
+Annexe 2*[^t-3]*
+
+(art. 27, al. 2)
+
+## Cotisations d’épargne (art. 24) et primes de risque (art. 26) Quote-part de la personne assurée
+
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+- a. Plan standard pour les personnes salariées jusqu’à l’échelon de fonction 9 compris et pour les personnes rémunérées par un forfait:
+
+<table>
+<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art. 26) de la personne salariée (%)**</th><th>**Tota****l**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
+<tr><td>22–34</td><td>4,80</td><td>0,55</td><td>5,35</td><td>8,45</td><td>**(au moins 0,55)**</td></tr>
+<tr><td>35–44</td><td>6,05</td><td>0,55</td><td>6,60</td><td>10,70</td><td></td></tr>
+<tr><td>45–54</td><td>9,45</td><td>0,55</td><td>10,00</td><td>16,75</td><td></td></tr>
+<tr><td>55–70</td><td>12,15</td><td>0,55</td><td>12,70</td><td>21,60</td><td></td></tr>
+</table>
+
+- b. Plan pour cadres 1 pour les personnes salariées des échelons de fonction 10 à 12 compris:
+
+<table>
+<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’é****pargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
+<tr><td>22–34</td><td>4,80</td><td>0,55</td><td>5,35</td><td>8,45</td><td>**(au moins 0,55%)**</td></tr>
+<tr><td>35–44</td><td>6,05</td><td>0,55</td><td>6,60</td><td>10,70</td><td></td></tr>
+<tr><td>45–54</td><td>10,50</td><td>0,55</td><td>11,05</td><td>18,60</td><td></td></tr>
+<tr><td>55–70</td><td>13,15</td><td>0,55</td><td>13,70</td><td>23,45</td><td></td></tr>
+</table>
+
+- c. Plan pour cadres 2 pour les personnes salariées des échelons de fonction 13 et plus:
+
+<table>
+<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d****’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
+<tr><td>22–34</td><td>5,80</td><td>0,55</td><td>6,35</td><td>10,30</td><td>**(au moins 0,55%)**</td></tr>
+<tr><td>35–44</td><td>7,05</td><td>0,55</td><td>7,60</td><td>12,50</td><td></td></tr>
+<tr><td>45–54</td><td>11,50</td><td>0,55</td><td>12,05</td><td>20,50</td><td></td></tr>
+<tr><td>55–70</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
+</table>
+
+Annexe 3*[^t-4]*
+
+(art. 32)
+
+## Tableau relatif au rachat
+
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+<table>
+<tr><th colspan="2">Standard (sans PC)</th><th></th><th colspan="2">Standard (PC 1)</th><th></th><th colspan="2">Standard (PC 2)</th><th></th><th colspan="2">Cadres 1(sans PC)</th><th></th><th colspan="2">Cadres 1 (PC 1)</th><th></th><th colspan="2">Cadres 1 (PC 2)</th><th></th><th colspan="2">Cadres 2(sans PC)</th><th></th><th colspan="2">Cadres 2 (PC 1)</th><th></th><th colspan="2">Cadres 2 (PC 2)</th><th></th></tr>
+<tr><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % Ga)</th></tr>
+<tr><td>22</td><td colspan="2">13,25 %</td><td>22</td><td colspan="2">15,25 %</td><td>22</td><td colspan="2">17,25 %</td><td>22</td><td colspan="2">13,25 %</td><td>22</td><td colspan="2">15,25 %</td><td>22</td><td colspan="2">17,25 %</td><td>22</td><td colspan="2">16,10 %</td><td>22</td><td colspan="2">18,10 %</td><td>22</td><td colspan="2">17,60 %</td></tr>
+<tr><td>23</td><td colspan="2">26,50 %</td><td>23</td><td colspan="2">30,50 %</td><td>23</td><td colspan="2">34,50 %</td><td>23</td><td colspan="2">26,50 %</td><td>23</td><td colspan="2">30,50 %</td><td>23</td><td colspan="2">34,50 %</td><td>23</td><td colspan="2">32,20 %</td><td>23</td><td colspan="2">36,20 %</td><td>23</td><td colspan="2">35,20 %</td></tr>
+<tr><td>24</td><td colspan="2">39,75 %</td><td>24</td><td colspan="2">45,75 %</td><td>24</td><td colspan="2">51,75 %</td><td>24</td><td colspan="2">39,75 %</td><td>24</td><td colspan="2">45,75 %</td><td>24</td><td colspan="2">51,75 %</td><td>24</td><td colspan="2">48,30 %</td><td>24</td><td colspan="2">54,30 %</td><td>24</td><td colspan="2">52,80 %</td></tr>
+<tr><td>25</td><td colspan="2">53,00 %</td><td>25</td><td colspan="2">61,00 %</td><td>25</td><td colspan="2">69,00 %</td><td>25</td><td colspan="2">53,00 %</td><td>25</td><td colspan="2">61,00 %</td><td>25</td><td colspan="2">69,00 %</td><td>25</td><td colspan="2">64,40 %</td><td>25</td><td colspan="2">72,40 %</td><td>25</td><td colspan="2">70,40 %</td></tr>
+<tr><td>26</td><td colspan="2">66,25 %</td><td>26</td><td colspan="2">76,25 %</td><td>26</td><td colspan="2">86,25 %</td><td>26</td><td colspan="2">66,25 %</td><td>26</td><td colspan="2">76,25 %</td><td>26</td><td colspan="2">86,25 %</td><td>26</td><td colspan="2">80,50 %</td><td>26</td><td colspan="2">90,50 %</td><td>26</td><td colspan="2">88,00 %</td></tr>
+<tr><td>27</td><td colspan="2">79,50 %</td><td>27</td><td colspan="2">91,50 %</td><td>27</td><td colspan="2">103,50 %</td><td>27</td><td colspan="2">79,50 %</td><td>27</td><td colspan="2">91,50 %</td><td>27</td><td colspan="2">103,50 %</td><td>27</td><td colspan="2">96,60 %</td><td>27</td><td colspan="2">108,60 %</td><td>27</td><td colspan="2">105,60 %</td></tr>
+<tr><td>28</td><td colspan="2">92,75 %</td><td>28</td><td colspan="2">106,75 %</td><td>28</td><td colspan="2">120,75 %</td><td>28</td><td colspan="2">92,75 %</td><td>28</td><td colspan="2">106,75 %</td><td>28</td><td colspan="2">120,75 %</td><td>28</td><td colspan="2">112,70 %</td><td>28</td><td colspan="2">126,70 %</td><td>28</td><td colspan="2">123,20 %</td></tr>
+<tr><td>29</td><td colspan="2">106,00 %</td><td>29</td><td colspan="2">122,00 %</td><td>29</td><td colspan="2">138,00 %</td><td>29</td><td colspan="2">106,00 %</td><td>29</td><td colspan="2">122,00 %</td><td>29</td><td colspan="2">138,00 %</td><td>29</td><td colspan="2">128,80 %</td><td>29</td><td colspan="2">144,80 %</td><td>29</td><td colspan="2">140,80 %</td></tr>
+<tr><td>30</td><td colspan="2">119,25 %</td><td>30</td><td colspan="2">137,25 %</td><td>30</td><td colspan="2">155,25 %</td><td>30</td><td colspan="2">119,25 %</td><td>30</td><td colspan="2">137,25 %</td><td>30</td><td colspan="2">155,25 %</td><td>30</td><td colspan="2">144,90 %</td><td>30</td><td colspan="2">162,90 %</td><td>30</td><td colspan="2">158,40 %</td></tr>
+<tr><td>31</td><td colspan="2">132,50 %</td><td>31</td><td colspan="2">152,50 %</td><td>31</td><td colspan="2">172,50 %</td><td>31</td><td colspan="2">132,50 %</td><td>31</td><td colspan="2">152,50 %</td><td>31</td><td colspan="2">172,50 %</td><td>31</td><td colspan="2">161,00 %</td><td>31</td><td colspan="2">181,00 %</td><td>31</td><td colspan="2">176,00 %</td></tr>
+<tr><td>32</td><td colspan="2">145,75 %</td><td>32</td><td colspan="2">167,75 %</td><td>32</td><td colspan="2">189,75 %</td><td>32</td><td colspan="2">145,75 %</td><td>32</td><td colspan="2">167,75 %</td><td>32</td><td colspan="2">189,75 %</td><td>32</td><td colspan="2">177,10 %</td><td>32</td><td colspan="2">199,10 %</td><td>32</td><td colspan="2">193,60 %</td></tr>
+<tr><td>33</td><td colspan="2">159,00 %</td><td>33</td><td colspan="2">183,00 %</td><td>33</td><td colspan="2">207,00 %</td><td>33</td><td colspan="2">159,00 %</td><td>33</td><td colspan="2">183,00 %</td><td>33</td><td colspan="2">207,00 %</td><td>33</td><td colspan="2">193,20 %</td><td>33</td><td colspan="2">217,20 %</td><td>33</td><td colspan="2">211,20 %</td></tr>
+<tr><td>34</td><td colspan="2">172,25 %</td><td>34</td><td colspan="2">198,25 %</td><td>34</td><td colspan="2">224,25 %</td><td>34</td><td colspan="2">172,25 %</td><td>34</td><td colspan="2">198,25 %</td><td>34</td><td colspan="2">224,25 %</td><td>34</td><td colspan="2">209,30 %</td><td>34</td><td colspan="2">235,30 %</td><td>34</td><td colspan="2">228,80 %</td></tr>
+<tr><td>35</td><td colspan="2">189,00 %</td><td>35</td><td colspan="2">217,00 %</td><td>35</td><td colspan="2">245,00 %</td><td>35</td><td colspan="2">189,00 %</td><td>35</td><td colspan="2">217,00 %</td><td>35</td><td colspan="2">245,00 %</td><td>35</td><td colspan="2">228,85 %</td><td>35</td><td colspan="2">256,85 %</td><td>35</td><td colspan="2">249,85 %</td></tr>
+<tr><td>36</td><td colspan="2">205,75 %</td><td>36</td><td colspan="2">235,75 %</td><td>36</td><td colspan="2">265,75 %</td><td>36</td><td colspan="2">205,75 %</td><td>36</td><td colspan="2">235,75 %</td><td>36</td><td colspan="2">265,75 %</td><td>36</td><td colspan="2">248,40 %</td><td>36</td><td colspan="2">278,40 %</td><td>36</td><td colspan="2">270,90 %</td></tr>
+<tr><td>37</td><td colspan="2">222,50 %</td><td>37</td><td colspan="2">254,50 %</td><td>37</td><td colspan="2">286,50 %</td><td>37</td><td colspan="2">222,50 %</td><td>37</td><td colspan="2">254,50 %</td><td>37</td><td colspan="2">286,50 %</td><td>37</td><td colspan="2">267,95 %</td><td>37</td><td colspan="2">299,95 %</td><td>37</td><td colspan="2">291,95 %</td></tr>
+<tr><td>38</td><td colspan="2">239,25 %</td><td>38</td><td colspan="2">273,25 %</td><td>38</td><td colspan="2">307,25 %</td><td>38</td><td colspan="2">239,25 %</td><td>38</td><td colspan="2">273,25 %</td><td>38</td><td colspan="2">307,25 %</td><td>38</td><td colspan="2">287,50 %</td><td>38</td><td colspan="2">321,50 %</td><td>38</td><td colspan="2">313,00 %</td></tr>
+<tr><td>39</td><td colspan="2">256,00 %</td><td>39</td><td colspan="2">292,00 %</td><td>39</td><td colspan="2">328,00 %</td><td>39</td><td colspan="2">256,00 %</td><td>39</td><td colspan="2">292,00 %</td><td>39</td><td colspan="2">328,00 %</td><td>39</td><td colspan="2">307,05 %</td><td>39</td><td colspan="2">343,05 %</td><td>39</td><td colspan="2">334,05 %</td></tr>
+<tr><td>40</td><td colspan="2">272,75 %</td><td>40</td><td colspan="2">310,75 %</td><td>40</td><td colspan="2">348,75 %</td><td>40</td><td colspan="2">272,75 %</td><td>40</td><td colspan="2">310,75 %</td><td>40</td><td colspan="2">348,75 %</td><td>40</td><td colspan="2">326,60 %</td><td>40</td><td colspan="2">364,60 %</td><td>40</td><td colspan="2">355,10 %</td></tr>
+<tr><td>41</td><td colspan="2">289,50 %</td><td>41</td><td colspan="2">329,50 %</td><td>41</td><td colspan="2">369,50 %</td><td>41</td><td colspan="2">289,50 %</td><td>41</td><td colspan="2">329,50 %</td><td>41</td><td colspan="2">369,50 %</td><td>41</td><td colspan="2">346,15 %</td><td>41</td><td colspan="2">386,15 %</td><td>41</td><td colspan="2">376,15 %</td></tr>
+<tr><td>42</td><td colspan="2">306,25 %</td><td>42</td><td colspan="2">348,25 %</td><td>42</td><td colspan="2">390,25 %</td><td>42</td><td colspan="2">306,25 %</td><td>42</td><td colspan="2">348,25 %</td><td>42</td><td colspan="2">390,25 %</td><td>42</td><td colspan="2">365,70 %</td><td>42</td><td colspan="2">407,70 %</td><td>42</td><td colspan="2">397,20 %</td></tr>
+<tr><td>43</td><td colspan="2">323,00 %</td><td>43</td><td colspan="2">367,00 %</td><td>43</td><td colspan="2">411,00 %</td><td>43</td><td colspan="2">323,00 %</td><td>43</td><td colspan="2">367,00 %</td><td>43</td><td colspan="2">411,00 %</td><td>43</td><td colspan="2">385,25 %</td><td>43</td><td colspan="2">429,25 %</td><td>43</td><td colspan="2">418,25 %</td></tr>
+<tr><td>44</td><td colspan="2">339,75 %</td><td>44</td><td colspan="2">385,75 %</td><td>44</td><td colspan="2">431,75 %</td><td>44</td><td colspan="2">339,75 %</td><td>44</td><td colspan="2">385,75 %</td><td>44</td><td colspan="2">431,75 %</td><td>44</td><td colspan="2">404,80 %</td><td>44</td><td colspan="2">450,80 %</td><td>44</td><td colspan="2">439,30 %</td></tr>
+<tr><td>45</td><td colspan="2">365,95 %</td><td>45</td><td colspan="2">414,95 %</td><td>45</td><td colspan="2">463,95 %</td><td>45</td><td colspan="2">368,85 %</td><td>45</td><td colspan="2">417,85 %</td><td>45</td><td colspan="2">465,85 %</td><td>45</td><td colspan="2">436,80 %</td><td>45</td><td colspan="2">484,80 %</td><td>45</td><td colspan="2">474,80 %</td></tr>
+<tr><td>46</td><td colspan="2">392,15 %</td><td>46</td><td colspan="2">444,15 %</td><td>46</td><td colspan="2">496,15 %</td><td>46</td><td colspan="2">397,95 %</td><td>46</td><td colspan="2">449,95 %</td><td>46</td><td colspan="2">499,95 %</td><td>46</td><td colspan="2">468,80 %</td><td>46</td><td colspan="2">518,80 %</td><td>46</td><td colspan="2">510,30 %</td></tr>
+<tr><td>47</td><td colspan="2">418,35 %</td><td>47</td><td colspan="2">473,35 %</td><td>47</td><td colspan="2">528,35 %</td><td>47</td><td colspan="2">427,05 %</td><td>47</td><td colspan="2">482,05 %</td><td>47</td><td colspan="2">534,05 %</td><td>47</td><td colspan="2">500,80 %</td><td>47</td><td colspan="2">552,80 %</td><td>47</td><td colspan="2">545,80 %</td></tr>
+<tr><td>48</td><td colspan="2">444,55 %</td><td>48</td><td colspan="2">502,55 %</td><td>48</td><td colspan="2">560,55 %</td><td>48</td><td colspan="2">456,15 %</td><td>48</td><td colspan="2">514,15 %</td><td>48</td><td colspan="2">568,15 %</td><td>48</td><td colspan="2">532,80 %</td><td>48</td><td colspan="2">586,80 %</td><td>48</td><td colspan="2">581,30 %</td></tr>
+<tr><td>49</td><td colspan="2">470,75 %</td><td>49</td><td colspan="2">531,75 %</td><td>49</td><td colspan="2">592,75 %</td><td>49</td><td colspan="2">485,25 %</td><td>49</td><td colspan="2">546,25 %</td><td>49</td><td colspan="2">602,25 %</td><td>49</td><td colspan="2">564,80 %</td><td>49</td><td colspan="2">620,80 %</td><td>49</td><td colspan="2">616,80 %</td></tr>
+<tr><td>50</td><td colspan="2">496,95 %</td><td>50</td><td colspan="2">560,95 %</td><td>50</td><td colspan="2">624,95 %</td><td>50</td><td colspan="2">514,35 %</td><td>50</td><td colspan="2">578,35 %</td><td>50</td><td colspan="2">636,35 %</td><td>50</td><td colspan="2">596,80 %</td><td>50</td><td colspan="2">654,80 %</td><td>50</td><td colspan="2">652,30 %</td></tr>
+<tr><td>51</td><td colspan="2">523,15 %</td><td>51</td><td colspan="2">590,15 %</td><td>51</td><td colspan="2">657,15 %</td><td>51</td><td colspan="2">543,45 %</td><td>51</td><td colspan="2">610,45 %</td><td>51</td><td colspan="2">670,45 %</td><td>51</td><td colspan="2">628,80 %</td><td>51</td><td colspan="2">688,80 %</td><td>51</td><td colspan="2">687,80 %</td></tr>
+<tr><td>52</td><td colspan="2">549,35 %</td><td>52</td><td colspan="2">619,35 %</td><td>52</td><td colspan="2">689,35 %</td><td>52</td><td colspan="2">572,55 %</td><td>52</td><td colspan="2">642,55 %</td><td>52</td><td colspan="2">704,55 %</td><td>52</td><td colspan="2">660,80 %</td><td>52</td><td colspan="2">722,80 %</td><td>52</td><td colspan="2">723,30 %</td></tr>
+<tr><td>53</td><td colspan="2">586,54 %</td><td>53</td><td colspan="2">660,94 %</td><td>53</td><td colspan="2">735,34 %</td><td>53</td><td colspan="2">613,10 %</td><td>53</td><td colspan="2">687,50 %</td><td>53</td><td colspan="2">752,74 %</td><td>53</td><td colspan="2">706,02 %</td><td>53</td><td colspan="2">771,26 %</td><td>53</td><td colspan="2">773,27 %</td></tr>
+<tr><td>54</td><td colspan="2">624,47 %</td><td>54</td><td colspan="2">703,36 %</td><td>54</td><td colspan="2">782,24 %</td><td>54</td><td colspan="2">654,46 %</td><td>54</td><td colspan="2">733,35 %</td><td>54</td><td colspan="2">801,90 %</td><td>54</td><td colspan="2">752,14 %</td><td>54</td><td colspan="2">820,68 %</td><td>54</td><td colspan="2">824,23 %</td></tr>
+<tr><td>55</td><td colspan="2">670,71 %</td><td>55</td><td colspan="2">754,17 %</td><td>55</td><td colspan="2">837,64 %</td><td>55</td><td colspan="2">704,15 %</td><td>55</td><td colspan="2">787,62 %</td><td>55</td><td colspan="2">859,53 %</td><td>55</td><td colspan="2">806,73 %</td><td>55</td><td colspan="2">878,64 %</td><td>55</td><td colspan="2">883,77 %</td></tr>
+<tr><td>56</td><td colspan="2">717,87 %</td><td>56</td><td colspan="2">806,01 %</td><td>56</td><td colspan="2">894,14 %</td><td>56</td><td colspan="2">754,84 %</td><td>56</td><td colspan="2">842,97 %</td><td>56</td><td colspan="2">918,32 %</td><td>56</td><td colspan="2">862,41 %</td><td>56</td><td colspan="2">937,77 %</td><td>56</td><td colspan="2">944,49 %</td></tr>
+<tr><td>57</td><td colspan="2">765,98 %</td><td>57</td><td colspan="2">858,88 %</td><td>57</td><td colspan="2">951,77 %</td><td>57</td><td colspan="2">806,53 %</td><td>57</td><td colspan="2">899,43 %</td><td>57</td><td colspan="2">978,29 %</td><td>57</td><td colspan="2">919,21 %</td><td>57</td><td colspan="2">998,07 %</td><td>57</td><td colspan="2">1006,43 %</td></tr>
+<tr><td>58</td><td colspan="2">815,05 %</td><td>58</td><td colspan="2">912,80 %</td><td>58</td><td colspan="2">1010,56 %</td><td>58</td><td colspan="2">859,26 %</td><td>58</td><td colspan="2">957,02 %</td><td>58</td><td colspan="2">1039,46 %</td><td>58</td><td colspan="2">977,15 %</td><td>58</td><td colspan="2">1059,58 %</td><td>58</td><td colspan="2">1069,61 %</td></tr>
+<tr><td>59</td><td colspan="2">865,10 %</td><td>59</td><td colspan="2">967,81 %</td><td>59</td><td colspan="2">1070,52 %</td><td>59</td><td colspan="2">913,05 %</td><td>59</td><td colspan="2">1015,76 %</td><td>59</td><td colspan="2">1101,85 %</td><td>59</td><td colspan="2">1036,24 %</td><td>59</td><td colspan="2">1122,33 %</td><td>59</td><td colspan="2">1134,05 %</td></tr>
+<tr><td>60</td><td colspan="2">916,15 %</td><td>60</td><td colspan="2">1023,92 %</td><td>60</td><td colspan="2">1131,68 %</td><td>60</td><td colspan="2">967,91 %</td><td>60</td><td colspan="2">1075,67 %</td><td>60</td><td colspan="2">1165,48 %</td><td>60</td><td colspan="2">1096,51 %</td><td>60</td><td colspan="2">1186,32 %</td><td>60</td><td colspan="2">1199,78 %</td></tr>
+<tr><td>61</td><td colspan="2">968,22 %</td><td>61</td><td colspan="2">1081,14 %</td><td>61</td><td colspan="2">1194,06 %</td><td>61</td><td colspan="2">1023,87 %</td><td>61</td><td colspan="2">1136,79 %</td><td>61</td><td colspan="2">1230,39 %</td><td>61</td><td colspan="2">1157,99 %</td><td>61</td><td colspan="2">1251,60 %</td><td>61</td><td colspan="2">1266,83 %</td></tr>
+<tr><td>62</td><td colspan="2">1021,34 %</td><td>62</td><td colspan="2">1139,52 %</td><td>62</td><td colspan="2">1257,70 %</td><td>62</td><td colspan="2">1080,94 %</td><td>62</td><td colspan="2">1199,12 %</td><td>62</td><td colspan="2">1296,60 %</td><td>62</td><td colspan="2">1220,70 %</td><td>62</td><td colspan="2">1318,18 %</td><td>62</td><td colspan="2">1335,22 %</td></tr>
+<tr><td>63</td><td colspan="2">1075,52 %</td><td>63</td><td colspan="2">1199,06 %</td><td>63</td><td colspan="2">1322,60 %</td><td>63</td><td colspan="2">1139,16 %</td><td>63</td><td colspan="2">1262,71 %</td><td>63</td><td colspan="2">1364,13 %</td><td>63</td><td colspan="2">1284,67 %</td><td>63</td><td colspan="2">1386,09 %</td><td>63</td><td colspan="2">1404,97 %</td></tr>
+<tr><td>64</td><td colspan="2">1130,78 %</td><td>64</td><td colspan="2">1259,79 %</td><td>64</td><td colspan="2">1388,80 %</td><td>64</td><td colspan="2">1198,55 %</td><td>64</td><td colspan="2">1327,56 %</td><td>64</td><td colspan="2">1433,01 %</td><td>64</td><td colspan="2">1349,91 %</td><td>64</td><td colspan="2">1455,37 %</td><td>64</td><td colspan="2">1476,12 %</td></tr>
+<tr><td>65</td><td colspan="2">1187,14 %</td><td>65</td><td colspan="2">1321,73 %</td><td>65</td><td colspan="2">1456,33 %</td><td>65</td><td colspan="2">1259,12 %</td><td>65</td><td colspan="2">1393,71 %</td><td>65</td><td colspan="2">1503,28 %</td><td>65</td><td colspan="2">1416,46 %</td><td>65</td><td colspan="2">1526,02 %</td><td>65</td><td colspan="2">1548,69 %</td></tr>
+</table>
+
+Exemple:
+
+Homme, né le 15 mai 1980, gain assuré(Ga) = 50 000 francs, assuré dans le plan standard, sans compte PC:
+
+- 1\. Date de calcul: 1<sup>er</sup> janvier 2019 Avoir de vieillesse acquis 20 000 francs 🡪 âge LPP – 1 = 38 🡪 taux = 239,25 % 🡪 rachat max. = 239,25 % × 50 000 – 20 000 = 99 625 francs
+
+Annexe 4*[^t-5]*
+
+(art. 39, 46 et 57)
+
+## Taux de conversion
+
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+<table>
+<tr><th>Age</th><th>Taux de conversion</th></tr>
+<tr><td>60</td><td>4,47 %</td></tr>
+<tr><td>61</td><td>4,58 %</td></tr>
+<tr><td>62</td><td>4,70 %</td></tr>
+<tr><td>63 Hommes 63 Femmes</td><td>4,83 % 4,90 %</td></tr>
+<tr><td>64 Hommes 64 Femmes</td><td>4,96 % 5,09 %</td></tr>
+<tr><td>65</td><td>5,09 %</td></tr>
+<tr><td>66</td><td>5,24 %</td></tr>
+<tr><td>67</td><td>5,40 %</td></tr>
+<tr><td>68</td><td>5,58 %</td></tr>
+<tr><td>69</td><td>5,76 %</td></tr>
+<tr><td>70</td><td>5,96 %</td></tr>
+</table>
+
+Annexe 5*[^t-6]*
+
+(art. 60, al. 4, let. a et c)
+
+## Rente transitoire
+
+[^t-6]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+**Réduction de la rente de vieillesse mensuelle en cas de perception d’une rente transitoire (RT) et de rachat de la réduction – réduction immédiate et à vie**
+
+Tableau 1:
+
+**Réduction immédiate et à vie de la rente de vieilles****se**
+
+**(art. 60, al. 4, let. a)**
+
+a) âge AVS 65
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**208****,50**</td><td>205,50</td><td>202,50</td><td>199,55</td><td>196,55</td><td>193,55</td></tr>
+<tr><td></td><td>**61**</td><td>**172,60**</td><td>169,40</td><td>166,20</td><td>163,00</td><td>159,80</td><td>156,60</td></tr>
+<tr><td></td><td>**62**</td><td>**134,15**</td><td>130,70</td><td>127,25</td><td>123,80</td><td>120,35</td><td>116,90</td></tr>
+<tr><td></td><td>**63**</td><td>**92,80**</td><td>89,10</td><td>85,35</td><td>81,65</td><td>77,95</td><td>74,20</td></tr>
+<tr><td></td><td>**64**</td><td>**48,20**</td><td>44,20</td><td>40,15</td><td>36,15</td><td>32,15</td><td>28,10</td></tr>
+<tr><td></td><td>**65**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**6**</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>190,55</td><td>187,55</td><td>184,55</td><td>181,60</td><td>178,60</td><td>175,60</td></tr>
+<tr><td></td><td>**61**</td><td>153,40</td><td>150,15</td><td>146,95</td><td>143,75</td><td>140,55</td><td>137,35</td></tr>
+<tr><td></td><td>**62**</td><td>113,50</td><td>110,05</td><td>106,60</td><td>103,15</td><td>99,70</td><td>96,25</td></tr>
+<tr><td></td><td>**63**</td><td>70,50</td><td>66,80</td><td>63,05</td><td>59,35</td><td>55,65</td><td>51,90</td></tr>
+<tr><td></td><td>**64**</td><td>24,10</td><td>20,10</td><td>16,05</td><td>12,05</td><td>8,05</td><td>4,00</td></tr>
+<tr><td></td><td>**65**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+b) âge AVS 64
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**179,20**</td><td>175,90</td><td>172,60</td><td>169,25</td><td>165,95</td><td>162,65</td></tr>
+<tr><td></td><td>**61**</td><td>**139,45**</td><td>135,90</td><td>132,30</td><td>128,75</td><td>125,15</td><td>121,60</td></tr>
+<tr><td></td><td>**62**</td><td>**96,55**</td><td>92,70</td><td>88,85</td><td>84,95</td><td>81,10</td><td>77,25</td></tr>
+<tr><td></td><td>**63**</td><td>**50,20**</td><td>46,00</td><td>41,85</td><td>37,65</td><td>33,45</td><td>29,30</td></tr>
+<tr><td></td><td>**64**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>159,35</td><td>156,00</td><td>152,70</td><td>149,40</td><td>146,10</td><td>142,75</td></tr>
+<tr><td></td><td>**61**</td><td>118,00</td><td>114,45</td><td>110,85</td><td>107,30</td><td>103,70</td><td>100,15</td></tr>
+<tr><td></td><td>**62**</td><td>73,40</td><td>69,50</td><td>65,65</td><td>61,80</td><td>57,95</td><td>54,05</td></tr>
+<tr><td></td><td>**63**</td><td>25,10</td><td>20,90</td><td>16,75</td><td>12,55</td><td>8,35</td><td>4,20</td></tr>
+<tr><td></td><td>**64**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+**Explication**:
+
+\1. Les montants figurant dans les tableaux correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire la finance elle-même en totalité.
+
+\2. Si, selon les dispositions de l’ordonnance sur le personnel du domaine des EPF (RS *172.220.113*) relatives au droit du travail, une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux doivent être pondérés en fonction du pourcentage financé par la personne assurée.
+
+**Exemple 1:**
+
+La rente transitoire s’élève à 27 840 francs par an (2320 francs par mois). Elle est versée dès l’âge de 60 ans et jusqu’à l’âge de 65 ans. L’employeur finance 50 % des coûts totaux.
+
+Calcul:
+
+Montant selon les tableaux 1a ou b × participation de la personne salariée × (RT mensuelle/1000) = réduction mensuelle à vie de la rente de vieillesse.
+
+- a. âge AVS 65: 208,50 × 0,5 × 2,32 = **241,85 francs**
+- b. âge AVS 64: 179,20 × 0,5 × 2,32 = **207,85 francs**
+
+Tableau 2:
+
+**Rachat de la réduction de la rente de vieillesse mensuelle en cas de réduction immédiate et à vie de la rente (art. 60, al. 4, let. c)**
+
+<table>
+<tr><th colspan="3">Valeur actuelle pour le rachat de la réduction de la rente</th></tr>
+<tr><td>Age</td><td>Hommes</td><td>Femmes</td></tr>
+<tr><td>60</td><td>22,579</td><td>21,346</td></tr>
+<tr><td>61</td><td>22,067</td><td>20,807</td></tr>
+<tr><td>62</td><td>21,550</td><td>20,261</td></tr>
+<tr><td>63</td><td>21,026</td><td>19,707</td></tr>
+<tr><td>64</td><td>20,497</td><td>19,147</td></tr>
+<tr><td>65</td><td>19,960</td><td>18,581</td></tr>
+</table>
+
+**Exemple** **2:**
+
+La personne assurée prend sa retraite à 60 ans et touche une rente transitoire.
+
+L’employeur participe au financement de cette rente à raison de 50 %.
+
+La personne assurée souhaite éviter la réduction à vie de la rente de vieillesse et la rachète par un versement unique.
+
+Calcul:
+
+(facteur selon le tableau 2 × réduction mensuelle [selon ex. 1] × 12) = participation de la personne salariée = montant du versement unique:
+
+- a. âge AVS 65: 22,579 × 241,85 × 12 = **65 528,75 francs**
+- b. âge AVS 64: 21,346 × 207,85 × 12 = **53 241,20 francs**
+
+Annexe 6*[^t-7]*
+
+(art. 60, al. 4, let. b, et 5)
+
+## Rente transitoire
+
+[^t-7]: Nouvelle teneur selon le ch. II al. 2 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+**Réduction de la rente de vieilless****e mensuelle en cas de perception d’une rente transitoire (RT) et de rachat de la réduction – réduction à vie dès l’âge AVS**
+
+I. **Réduction à vie dès l’âge AVS**
+
+(art. 60, al. 4, let. b)
+
+Tableau:
+
+a) âge AVS 65
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**267,65**</td><td>262,95</td><td>258,30</td><td>253,60</td><td>248,90</td><td>244,20</td></tr>
+<tr><td></td><td>**61**</td><td>**211,40**</td><td>206,85</td><td>202,25</td><td>197,70</td><td>193,10</td><td>188,55</td></tr>
+<tr><td></td><td>**62**</td><td>**156,55**</td><td>152,10</td><td>147,65</td><td>143,15</td><td>138,70</td><td>134,25</td></tr>
+<tr><td></td><td>**63**</td><td>**103,00**</td><td>98,65</td><td>94,30</td><td>89,95</td><td>85,60</td><td>81,25</td></tr>
+<tr><td></td><td>**64**</td><td>**50,85**</td><td>46,60</td><td>42,40</td><td>38,15</td><td>33,90</td><td>29,65</td></tr>
+<tr><td></td><td>**65**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>239,55</td><td>234,85</td><td>230,15</td><td>225,45</td><td>220,80</td><td>216,10</td></tr>
+<tr><td></td><td>**61**</td><td>184,00</td><td>179,40</td><td>174,85</td><td>170,25</td><td>165,70</td><td>161,10</td></tr>
+<tr><td></td><td>**62**</td><td>129,80</td><td>125,30</td><td>120,85</td><td>116,40</td><td>111,95</td><td>107,45</td></tr>
+<tr><td></td><td>**63**</td><td>76,95</td><td>72,60</td><td>68,25</td><td>63,90</td><td>59,55</td><td>55,20</td></tr>
+<tr><td></td><td>**64**</td><td>25,45</td><td>21,20</td><td>16,95</td><td>12,70</td><td>8,50</td><td>4,25</td></tr>
+<tr><td></td><td>**65**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+b) âge AVS 64
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><th>Age au début de la perception de la rente</th><th>60</th><th>**219,20**</th><th>214,50</th><th>209,75</th><th>205,05</th><th>200,30</th><th>195,60</th></tr>
+<tr><th></th><th>**61**</th><th>**162,50**</th><th>157,90</th><th>153,25</th><th>148,65</th><th>144,00</th><th>139,40</th></tr>
+<tr><th></th><th>**62**</th><th>**107,05**</th><th>102,55</th><th>98,05</th><th>93,50</th><th>89,00</th><th>84,50</th></tr>
+<tr><th></th><th>**63**</th><th>**52,90**</th><th>48,50</th><th>44,10</th><th>39,70</th><th>35,25</th><th>30,85</th></tr>
+<tr><th></th><th>**64**</th><th>**0,00**</th><th>0,00</th><th>0,00</th><th>0,00</th><th>0,00</th><th>0,00</th></tr>
+</table>
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>190,85</td><td>186,15</td><td>181,40</td><td>176,70</td><td>171,95</td><td>167,25</td></tr>
+<tr><td></td><td>**61**</td><td>134,80</td><td>130,15</td><td>125,55</td><td>120,90</td><td>116,30</td><td>111,65</td></tr>
+<tr><td></td><td>**62**</td><td>80,00</td><td>75,45</td><td>70,95</td><td>66,45</td><td>61,95</td><td>57,40</td></tr>
+<tr><td></td><td>**63**</td><td>26,45</td><td>22,05</td><td>17,65</td><td>13,25</td><td>8,80</td><td>4,40</td></tr>
+<tr><td></td><td>**64**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+**Explication:**
+
+\1. Les montants figurant dans les tableaux correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire la finance elle-même en totalité.
+
+\2. Si, selon les dispositions de l’ordonnance sur le personnel du domaine des EPF (RS *172.220.113*) relatives au droit du travail, une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux doivent être pondérés en fonction du pourcentage financé par la personne assurée.
+
+Exemple:
+
+La rente transitoire s’élève à 27 840 francs par an (2320 francs par mois). Elle est versée dès l’âge de 60 ans. L’employeur finance 50 % des coûts.
+
+Calcul:
+
+Montant selon les tableaux a ou b × participation de la personne salariée × (RT mensuelle/1000) = réduction mensuelle à vie de la rente de vieillesse.
+
+- a. âge AVS 65: 267,65 × 0,5 × 2,32 = **310,45 francs**
+- b. âge AVS 64: 219,20 × 0,5 × 2,32 = **254,25 francs**
+
+**II. Réduction des rentes pour survivants (art. 60, al. 5)**
+
+<table>
+<tr><th></th><th colspan="2">Diminution annuelle de la réduction différée (pour la différence entre l’âge ordinaire de l’AVS et l’âge au moment du décès)</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>a. âge AVS 65</td><td>b. âge AVS 64</td></tr>
+<tr><td>60</td><td>4,42 %</td><td>4,56 %</td></tr>
+<tr><td>61</td><td>4,59 %</td><td>4,73 %</td></tr>
+<tr><td>62</td><td>4,77 %</td><td>4,90 %</td></tr>
+<tr><td>63</td><td>4,95 %</td><td>5,10 %</td></tr>
+<tr><td>64</td><td>5,21 %</td><td>0,0 %</td></tr>
+<tr><td>65</td><td>0,0 %</td><td></td></tr>
+</table>
+
+**Exemple de calcul:**
+
+Un homme prend sa retraite à 60 ans et a droit à une rente de vieillesse de 6000 francs par mois. Il perçoit une rente transitoire de 2320 francs par mois. Il décède à l’âge de 63 ans.
+
+A. Calcul/réduction de la rente de viduité ou de la rente de partenaire:
+
+La diminution de la réduction différée s’élève à 2 × 4,42 % = 8,84 %. La réduction établie initialement à 310,45 francs est diminuée de 27,45 francs et s’élève ainsi à 283,00 francs; la rente de vieillesse réduite se monte donc désormais à 5717,00 francs. La rente pour survivants est égale aux deux tiers de la rente de vieillesse réduite, soit à 3811,35 francs, et ce à vie.
+
+B. Calcul/réduction de la rente d’orphelin:
+
+La rente d’orphelin se monte à un sixième de la rente de vieillesse réduite, soit 952,85 francs.
+
+Annexe 7*[^t-8]*
+
+(art. 102, al. 2, 107*a*, al. 1, 107*b*, al. 1, et 107*f*, al. 1)
+
+## Rente transitoire
+
+[^t-8]: Nouvelle teneur selon l’annexe à la D de l’OP EPF du 25 nov. 2013, approuvée par le Conseil des EPF le 26 sept. 2013 et par le CF le 8 oct. 2014, ([RO 2014 3407](https://fedlex.data.admin.ch/eli/oc/2014/594)). Mise à jour selon le ch. II al. 3 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
+
+I. …
+
+II. Réduction à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012, suite à la rente transitoire perçue (art. 107*a*, al. 1)
+
+Tableau 1:
+
+a) âge AVS 65
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>**368.20**</td><td>361.50</td><td>354.80</td><td>348.15</td><td>341.45</td><td>334.75</td></tr>
+<tr><td></td><td>**61**</td><td>**287.90**</td><td>281.50</td><td>275.05</td><td>268.65</td><td>262.20</td><td>255.80</td></tr>
+<tr><td></td><td>**62**</td><td>**210.85**</td><td>204.70</td><td>198.60</td><td>192.45</td><td>186.35</td><td>180.20</td></tr>
+<tr><td></td><td>**63**</td><td>**137.30**</td><td>131.45</td><td>125.60</td><td>119.75</td><td>113.85</td><td>108.00</td></tr>
+<tr><td></td><td>**64**</td><td>**67.00**</td><td>61.40</td><td>55.85</td><td>50.25</td><td>44.65</td><td>39.10</td></tr>
+<tr><td></td><td>**65**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>328.05</td><td>321.35</td><td>314.65</td><td>308.00</td><td>301.30</td><td>294.60</td></tr>
+<tr><td></td><td>**61**</td><td>249.40</td><td>242.95</td><td>236.55</td><td>230.10</td><td>223.70</td><td>217.25</td></tr>
+<tr><td></td><td>**62**</td><td>174.10</td><td>167.95</td><td>161.80</td><td>155.70</td><td>149.55</td><td>143.45</td></tr>
+<tr><td></td><td>**63**</td><td>102.15</td><td>96.30</td><td>90.45</td><td>84.60</td><td>78.70</td><td>72.85</td></tr>
+<tr><td></td><td>**64**</td><td>33.50</td><td>27.90</td><td>22.35</td><td>16.75</td><td>11.15</td><td>5.60</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+b) âge AVS 64
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>**280.30**</td><td>274.05</td><td>267.85</td><td>261.60</td><td>255.35</td><td>249.15</td></tr>
+<tr><td></td><td>**61**</td><td>**205.50**</td><td>199.55</td><td>193.55</td><td>187.60</td><td>181.60</td><td>175.65</td></tr>
+<tr><td></td><td>**62**</td><td>**133.85**</td><td>128.15</td><td>122.45</td><td>116.75</td><td>111.05</td><td>105.35</td></tr>
+<tr><td></td><td>**63**</td><td>**65.40**</td><td>59.95</td><td>54.50</td><td>49.05</td><td>43.60</td><td>38.15</td></tr>
+<tr><td></td><td>**64**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>242.90</td><td>236.65</td><td>230.45</td><td>224.20</td><td>217.95</td><td>211.75</td></tr>
+<tr><td></td><td>**61**</td><td>169.70</td><td>163.70</td><td>157.75</td><td>151.75</td><td>145.80</td><td>139.80</td></tr>
+<tr><td></td><td>**62**</td><td>99.65</td><td>93.90</td><td>88.20</td><td>82.50</td><td>76.80</td><td>71.10</td></tr>
+<tr><td></td><td>**63**</td><td>32.70</td><td>27.25</td><td>21.80</td><td>16.35</td><td>10.90</td><td>5.45</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+**Explication:**
+
+\1. Les montants figurant dans les tableaux correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire finance elle-même la totalité de la rente transitoire.
+
+\2. Si, selon les dispositions de l’Ordonnance sur le personnel du domaine des EPF (RS *172.220.113*), une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux doivent être pondérés en fonction de la participation de la personne assurée.
+
+Exemple:
+
+La rente transitoire s’élève à 26 520 francs par an (2210 francs par mois). Elle est versée dès l’âge de 60 ans. L’employeur finance 50 % de son coût.
+
+Mode de calcul:
+
+Montant selon tableau 1 ou 2 × part. salarié × (RT mensuelle/1000) = réduction mensuelle à vie de la rente:
+
+- a. âge AVS 65: 368.20 × 0,5 × 2,21 = **406 fr. 85**
+- b. âge AVS 64: 280.30 × 0,5 × 2,21 = **309 fr. 75**
+
+III. Réduction à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014, suite à la rente transitoire perçue (art. 107*b*, al. 1)
+
+Tableaux:
+
+a) âge AVS 65
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>**338.25**</td><td>332.15</td><td>326.05</td><td>319.95</td><td>313.85</td><td>307.75</td></tr>
+<tr><td></td><td>**61**</td><td>**265.10**</td><td>259.25</td><td>253.40</td><td>247.50</td><td>241.65</td><td>235.80</td></tr>
+<tr><td></td><td>**62**</td><td>**194.75**</td><td>189.10</td><td>183.50</td><td>177.85</td><td>172.20</td><td>166.60</td></tr>
+<tr><td></td><td>**63**</td><td>**127.15**</td><td>121.75</td><td>116.35</td><td>110.95</td><td>105.50</td><td>100.10</td></tr>
+<tr><td></td><td>**64**</td><td>**62.25**</td><td>57.05</td><td>51.90</td><td>46.70</td><td>41.50</td><td>36.30</td></tr>
+<tr><td></td><td>**65**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>301.70</td><td>295.60</td><td>289.50</td><td>283.40</td><td>277.30</td><td>271.20</td></tr>
+<tr><td></td><td>**61**</td><td>229.95</td><td>224.05</td><td>218.20</td><td>212.35</td><td>206.50</td><td>200.60</td></tr>
+<tr><td></td><td>**62**</td><td>160.95</td><td>155.30</td><td>149.70</td><td>144.05</td><td>138.40</td><td>132.80</td></tr>
+<tr><td></td><td>**63**</td><td>94.70</td><td>89.30</td><td>83.90</td><td>78.50</td><td>73.05</td><td>67.65</td></tr>
+<tr><td></td><td>**64**</td><td>31.15</td><td>25.95</td><td>20.75</td><td>15.55</td><td>10.40</td><td>5.20</td></tr>
+<tr><td></td><td>**65**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+b) âge AVS 64
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>**271.95**</td><td>265.95</td><td>259.95</td><td>254.00</td><td>248.00</td><td>242.00</td></tr>
+<tr><td></td><td>**61**</td><td>**200.05**</td><td>194.30</td><td>188.50</td><td>182.75</td><td>176.95</td><td>171.20</td></tr>
+<tr><td></td><td>**62**</td><td>**130.80**</td><td>125.25</td><td>119.70</td><td>114.15</td><td>108.60</td><td>103.05</td></tr>
+<tr><td></td><td>**63**</td><td>**64.15**</td><td>58.80</td><td>53.45</td><td>48.10</td><td>42.75</td><td>37.40</td></tr>
+<tr><td></td><td>**64**</td><td>**0.00**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+<table>
+<tr><td></td><td colspan="7">Mois</td></tr>
+<tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>Age à l’entrée en jouissance</td><td>60</td><td>236.00</td><td>230.00</td><td>224.00</td><td>218.05</td><td>212.05</td><td>206.05</td></tr>
+<tr><td></td><td>**61**</td><td>165.45</td><td>159.65</td><td>153.90</td><td>148.10</td><td>142.35</td><td>136.55</td></tr>
+<tr><td></td><td>**62**</td><td>97.50</td><td>91.90</td><td>86.35</td><td>80.80</td><td>75.25</td><td>69.70</td></tr>
+<tr><td></td><td>**63**</td><td>32.10</td><td>26.75</td><td>21.40</td><td>16.05</td><td>10.70</td><td>5.35</td></tr>
+<tr><td></td><td>**64**</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+</table>
+
+Explication:
+
+\1. Les montants figurant dans les tableaux correspondent à la réduction de la rente par millier de francs de rente transitoire perçue, si la personne bénéficiaire d’une rente transitoire finance elle-même la totalité de la rente transitoire.
+
+\2. Si, selon les dispositions de l’Ordonnance sur le personnel du domaine des EPF (RS *172.220.113*), une participation de l’employeur au financement est prévue, les montants figurant dans les tableaux doivent être pondérés en fonction de la participation de la personne assurée.
+
+Exemple:
+
+La rente transitoire s’élève à 27 840 francs par an (2320 francs par mois). Elle est versée dès l’âge de 60 ans. L’employeur finance 50 % de son coût.
+
+Mode de calcul:
+
+Montant selon tableau a ou b × part. salarié × (RT mensuelle/1000) = réduction mensuelle à vie de la rente:
+
+- a. âge AVS 65: 338.25 × 0.5 × 2.32 = **392 fr. 35**
+- b. âge AVS 64: 271.95 × 0.5 × 2.32 = **315 fr. 45**
+
+**IV. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1****<sup>er</sup>** **janvier 2015 et le 31 décembre** **2018 (art. 107*****f*****, al. 1)**
+
+a) âge AVS 65
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**304,70**</td><td>299,30</td><td>293,85</td><td>288,45</td><td>283,05</td><td>277,60</td></tr>
+<tr><td></td><td>**61**</td><td>**239,70**</td><td>234,45</td><td>229,20</td><td>223,95</td><td>218,70</td><td>213,45</td></tr>
+<tr><td></td><td>**62**</td><td>**176,75**</td><td>171,70</td><td>166,60</td><td>161,55</td><td>156,45</td><td>151,40</td></tr>
+<tr><td></td><td>**63**</td><td>**115,85**</td><td>110,95</td><td>106,05</td><td>101,15</td><td>96,20</td><td>91,30</td></tr>
+<tr><td></td><td>**64**</td><td>**56,95**</td><td>52,20</td><td>47,45</td><td>42,70</td><td>37,95</td><td>33,20</td></tr>
+<tr><td></td><td>**65**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>272,20</td><td>266,80</td><td>261,35</td><td>255,95</td><td>250,55</td><td>245,10</td></tr>
+<tr><td></td><td>**61**</td><td>208,25</td><td>203,00</td><td>197,75</td><td>192,50</td><td>187,25</td><td>182,00</td></tr>
+<tr><td></td><td>**62**</td><td>146,30</td><td>141,25</td><td>136,15</td><td>131,10</td><td>126,00</td><td>120,95</td></tr>
+<tr><td></td><td>**63**</td><td>86,40</td><td>81,50</td><td>76,60</td><td>71,70</td><td>66,75</td><td>61,85</td></tr>
+<tr><td></td><td>**64**</td><td>28,50</td><td>23,75</td><td>19,00</td><td>14,25</td><td>9,50</td><td>4,75</td></tr>
+<tr><td></td><td>**65**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+b) âge AVS 64
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**246,95**</td><td>241,55</td><td>236,20</td><td>230,80</td><td>225,40</td><td>220,05</td></tr>
+<tr><td></td><td>**61**</td><td>**182,35**</td><td>177,15</td><td>171,90</td><td>166,70</td><td>161,45</td><td>156,25</td></tr>
+<tr><td></td><td>**62**</td><td>**119,65**</td><td>114,60</td><td>109,55</td><td>104,45</td><td>99,40</td><td>94,35</td></tr>
+<tr><td></td><td>**63**</td><td>**58,90**</td><td>54,00</td><td>49,10</td><td>44,20</td><td>39,25</td><td>34,35</td></tr>
+<tr><td></td><td>**64**</td><td>**0,00**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+<table>
+<tr><th></th><th colspan="7">Mois</th></tr>
+<tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
+<tr><td>Age au début de la perception de la rente</td><td>60</td><td>214,65</td><td>209,25</td><td>203,90</td><td>198,50</td><td>193,10</td><td>187,75</td></tr>
+<tr><td></td><td>**61**</td><td>151,00</td><td>145,80</td><td>140,55</td><td>135,35</td><td>130,10</td><td>124,90</td></tr>
+<tr><td></td><td>**62**</td><td>89,30</td><td>84,20</td><td>79,15</td><td>74,10</td><td>69,05</td><td>63,95</td></tr>
+<tr><td></td><td>**63**</td><td>29,45</td><td>24,55</td><td>19,65</td><td>14,75</td><td>9,80</td><td>4,90</td></tr>
+<tr><td></td><td>**64**</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+</table>
+
+**Explication:**
+
+Les montants figurant dans les tableaux correspondent à la réduction de la rente par millier de francs de rente transitoire perçue selon l’ancien droit pour le financement de la moitié de la rente transitoire par la personne bénéficiaire de la rente.
+
+**Exemple:**
+
+La rente transitoire s’élève à 26 520 francs par an (2210 francs par mois). Elle est versée dès l’âge de 60 ans.
+
+La réduction mensuelle de la rente de vieillesse s’élève à:
+
+- a. âge AVS 65 (tableau a): 434,05 francs
+- b. âge AVS 64 (tableau b): 329,95 francs
+
+Calcul:
+
+Facteur selon les tableaux a et b × (RT mensuelle/1000) = réduction mensuelle à vie de la rente de vieillesse.
+
+- a. 196,40 × 2,21 = **434,05 francs**
+- b. 149,30 × 2,21 = **329,95 francs**
+
+Annexe 8*[^t-9]*
+
+(art. 5)
+
+## Glossaire et liste des abréviations
+
+[^t-9]: Mise à jour par le ch. II, al. 1, des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)) et le ch. II al. 2 de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2****017** 3291).
+
+AA Assurance-accidents
+
+AI Assurance-invalidité
+
+AM Assurance militaire
+
+AVS Assurance-vieillesse et survivants
+
+- CC Code civil suisse du 10 décembre 1907, RS *210*
+
+Compte PC Compte Plan complémentaire (art. 25)
+
+- CPC Code de procédure civile du 19 décembre 2008, RS *272*
+
+LAI Loi fédérale du 19 juin 1959 sur l’assurance-invalidité, RS *831.20*
+
+LAVS Loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants, RS *831.10*
+
+LFLP Loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité (loi sur le libre passage), RS *831.42*
+
+LPart Loi fédérale du 18 juin 2004 sur le partenariat enregistré entre personnes du même sexe (loi sur le partenariat), RS *211.231*
+
+LPers Loi du 24 mars 2000 sur le personnel de la Confédération, RS *172.220.1*
+
+LPGA Loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales, RS *830.1*
+
+LPP Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité, RS *831.40*
+
+OPP 2 Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, RS *831.441.1*
+
+LPUBLICA Loi fédérale du 20 décembre 2006 régissant la Caisse fédérale de pensions (loi relative à PUBLICA), RS *172.222.1* (RO *2007* 2239)
+
+LTF Loi fédérale du 17 juin 2005 sur le Tribunal fédéral, RS *173.110*
+
+OCFP 1 Ordonnance du 25 avril 2001 relative à l’assurance dans le plan de base de la Caisse fédérale de pensions, RO *2001* 2327
+
+OEPL Ordonnance du 3 octobre 1994 sur l’encouragement à la propriété du logement au moyen de la prévoyance profession- nelle, RS *831.411*
+
+OLP Ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité (Ordonnance sur le libre passage), RS *831.425*
+
+OPers-EPF Ordonnance du Conseil des EPF du 15 mars 2001 sur le personnel du domaine des écoles polytechniques fédérales, RS *172.220.113*
+
+Personne assurée Personne assurée active; autrement dit, personne pour laquelle le cas de prévoyance âge, décès ou invalidité n’est pas encore survenu
+
+Réinsertion réduction complète ou partielle du taux d’invalidité et ainsi du droit à une rente d’invalidité avant l’âge de 65 ans révolus en fonction du taux de reprise de l’activité lucrative. (art. 54)
+
+Rente Rente annuelle
+
+RT Rente transitoire
+
+Statuts de la CFP Ordonnance du 24 août 1994 régissant la Caisse fédérale de pensions, RO *1995* 533
+
+Valeur actuelle Capital indispensable pour l’octroi d’une rente d’orphelin et calculé au moment du décès de la personne assurée (art. 49)

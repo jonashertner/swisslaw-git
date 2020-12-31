@@ -1,0 +1,767 @@
+---
+sr: "314.11"
+title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
+short: OAO
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
+language: fr
+version: 2021-01-01
+adopted: 2019-01-16
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les amendes d’ordre
+
+(OAO)
+
+du 16 janvier 2019 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Conseil fédéral suisse,
+
+vu les art. 5, al. 1, et 15 de la loi du 18 mars 2016 sur les amendes d’ordre (LAO)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+
+#### Art. 1
+
+**Listes des amendes**
+
+Les contraventions punies dans la procédure de l’amende d’ordre et les montants des amendes sont mentionnées aux annexes 1 et 2 (listes des amendes) comme suit:
+
+- a. contraventions au sens de la loi du 19 décembre 1958 sur la circulation routière[^1-1]: annexe 1;
+- b. contraventions au sens des autres lois: annexe 2.
+
+[^1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 2
+
+**Concours d’infractions dans les domaines de la circulation routière et de la navigation intérieure**
+
+<sup>1</sup> Lorsqu’un prévenu commet une infraction aux prescriptions de la circulation routière réprimée par plusieurs amendes d’ordre, celles-ci sont cumulées pour constituer une amende globale, sauf si ladite personne
+
+- a. commet, lors du stationnement ou de l’arrêt de son véhicule automobile à un endroit où l’arrêt est interdit, une autre contravention touchant les véhicules à l’arrêt selon l’annexe 1, ch. 2;
+- b. est responsable des faits, tant en qualité de détenteur que de conducteur du véhicule selon l’annexe 1, ch. 4 et 5;
+- c. enfreint deux ou plusieurs règles générales de la circulation, signaux ou marques routières visant le même effet protecteur.
+
+<sup>2</sup> Lorsqu’un prévenu commet une infraction aux prescriptions de la navigation intérieure réprimée par plusieurs amendes d’ordre, celles-ci sont cumulées pour constituer une amende globale, sauf si ladite personne enfreint deux ou plusieurs règles générales de la navigation, signaux ou balises visant le même effet protecteur.
+
+#### Art. 3
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 4 mars 1996 sur les amendes d’ordre[^3-1] est abrogée.
+
+[^3-1]: [[RO 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078), [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)ch. II 1, [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)ch. III [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 2, [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498), [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192), [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287)[3210 4212](https://fedlex.data.admin.ch/eli/oc/3210/4212)art. 29 al. 2 ch. 1, [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470), [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580), [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260), [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694), [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712), [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258), [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824), [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273)[2449](https://fedlex.data.admin.ch/eli/oc/2015/459), [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
+
+#### Art. 4
+
+**Modification d’autres actes**
+
+La modification d’autres actes est réglée dans l’annexe 3.
+
+#### Art. 5
+
+**Disposition transitoire**
+
+Il est permis d’épuiser le stock de quittances et de formules concernant le délai de réflexion subsistant au moment de l’entrée en vigueur de la présente ordonnance.
+
+#### Art. 6
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
+
+Annexe 1*[^t-1]*
+
+(art. 1, let. a)
+
+## Liste des amendes 1
+
+[^t-1]: Mise à jour par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
+
+### Contraventions à la loi du 19 décembre 1958 sur la circulation routière (LCR)****
+
+[^annex1-lvlu1-lvlu1-1]
+
+[^annex1-lvlu1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>1. Conducteurs; dispositions administratives</td><td></td></tr>
+<tr><td>100. Ne pas être porteur</td><td></td></tr>
+<tr><td>1. du permis de conduire (art. 10, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>2. du permis d’élève conducteur (art. 10, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>3. du permis de circulation (art. 10, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>4. de l’autorisation pour transports spéciaux (art. 10, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>5. de la fiche d’entretien du système antipollution (art. 59*c*, al. 1, OCR[^annex1-lvlu1-lvlu1-2])</td><td>20</td></tr>
+<tr><td>6. de l’autorisation spéciale relative à une prescription indiquée par des signaux (art. 10, al. 4, LCR et art. 17, al. 1, OSR[^annex1-lvlu1-lvlu1-3])</td><td>20</td></tr>
+<tr><td>7. de la carte de qualification de conducteur (art. 10, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>101. Ne pas être porteur</td><td></td></tr>
+<tr><td>1.a. du disque d’enregistrement de la veille (art. 14*c*, al. 1 et 3, OTR 1[^annex1-lvlu1-lvlu1-4])</td><td>140</td></tr>
+<tr><td>1.b. de l’impression papier de la veille (art. 14*c*, al. 3, OTR 1)</td><td>140</td></tr>
+<tr><td>1.c. des autres disques d’enregistrement qu’il faut emporter (art. 14*c*, al. 1 et 3, OTR 1); à forfait pour chaque période de 7 jours entamée</td><td>60</td></tr>
+<tr><td>1.d. des autres impressions papier qu’il faut emporter (art. 14*c*, al. 3, OTR 1); à forfait pour chaque période de 7 jours entamée</td><td>60</td></tr>
+<tr><td>1.e. de la carte de conducteur (art. 14*c*, al. 2 et 3, OTR 1)</td><td>140</td></tr>
+<tr><td>2.a. de disques d’enregistrement de remplacement ou de jeux de disques hebdomadaires neufs (art. 14*a*, al. 5, OTR 1 et art. 16, al. 1, OTR 2[^annex1-lvlu1-lvlu1-5])</td><td>40</td></tr>
+<tr><td>2.b. de papier d’impression de remplacement (art. 14*b*, al. 7, OTR 1)</td><td>40</td></tr>
+<tr><td>3. du disque d’enregistrement de la veille (art. 16, al. 1, OTR 2)</td><td>40</td></tr>
+<tr><td>4. du livret de travail (art. 17, al. 1, OTR 2)</td><td>40</td></tr>
+<tr><td>5. des rapports journaliers de la semaine en cours à l’usage de l’entreprise ou d’un double de ces rapports (art. 19, al. 2, OTR 2); à forfait</td><td>40</td></tr>
+<tr><td>6. de la décision de dispense de l’obligation de remplir le livret de travail (art. 19, al. 2 et 4, OTR 2)</td><td>40</td></tr>
+<tr><td>7. de cartes de contrôle pour conducteurs de taxis (art. 25, al. 4, OTR 2)</td><td>40</td></tr>
+<tr><td>102. Omettre de saisir les données nécessaires</td><td></td></tr>
+<tr><td>1. dans la feuille hebdomadaire (art. 17, al. 2, OTR 2)</td><td>40</td></tr>
+<tr><td>2. dans la feuille quotidienne (art. 17, al. 2, OTR 2)</td><td>40</td></tr>
+<tr><td>3. dans la carte de contrôle pour conducteurs de taxis (art. 25, al. 4, OTR 2)</td><td>40</td></tr>
+<tr><td>4. dans le tachygraphe numérique (art. 14*b*, al. 1, OTR 1)</td><td>40</td></tr>
+<tr><td>103. 1. Omettre d’apporter des inscriptions sur le disque d’enregistrement du tachygraphe (art. 14*a*, al. 1, OTR 1 et art. 16, al. 3 et 4, OTR 2)</td><td>40</td></tr>
+<tr><td>2. Omettre d’apporter des inscriptions sur l’impression papier (art. 14*b*, al. 5, OTR 1)</td><td>40</td></tr>
+<tr><td>3. Apporter des inscriptions incomplètes sur le disque d’enregistrement du tachygraphe (art. 14*a*, al. 1, OTR 1 et art. 16, al. 3 et 4, OTR 2)</td><td>40</td></tr>
+<tr><td>4. Apporter des inscriptions incomplètes sur l’impression papier (art. 14*b*, al. 5, OTR 1)</td><td>40</td></tr>
+<tr><td>5. Apporter des inscriptions mensongères sur le disque d’enregistrement du tachygraphe (art. 14*a*, al. 1, OTR 1 et art. 16, al. 3 et 4, OTR 2)</td><td>40</td></tr>
+<tr><td>6. Apporter des inscriptions mensongères sur l’impression papier (art. 14*b*, al. 5, OTR 1)</td><td>40</td></tr>
+<tr><td>7. Utiliser un disque d’enregistrement de tachygraphe non homologué (art. 14*a*, al. 5, OTR 1 et art. 16, al. 1, OTR 2)</td><td>40</td></tr>
+<tr><td>8. Utiliser un disque d’enregistrement non approprié au tachygraphe (art. 14*a*, al. 5, OTR 1 et art. 16, al. 1, OTR 2)</td><td>40</td></tr>
+<tr><td>9. Utiliser du papier d’impression non approprié (art. 14*b*, al. 7, OTR 1)</td><td>40</td></tr>
+<tr><td>104. Ne pas être porteur, en ayant conscience de transporter des marchandises dangereuses,</td><td></td></tr>
+<tr><td>1. du certificat de formation (art. 21, let. c, SDR[^annex1-lvlu1-lvlu1-6])</td><td>20</td></tr>
+<tr><td>2. du document de transport (art. 21, let. c, SDR)</td><td>140</td></tr>
+<tr><td>3. des consignes écrites (aide-mémoire en cas d’accident) (art. 21, let. c, SDR)</td><td>40</td></tr>
+<tr><td>105. Omettre d’enlever ou de couvrir les panneaux de signalisation orange lors d’un transport sans marchandises dangereuses (art. 21, let. d, SDR)</td><td>60</td></tr>
+<tr><td>106. 1. Omettre d’annoncer ou annoncer avec retard toute circonstance qui exige la modification ou le remplacement d’un permis ou d’une autorisation (art. 15, al. 4 et 26, al. 1, OAC[^annex1-lvlu1-lvlu1-7])</td><td>20</td></tr>
+<tr><td>2. Omettre d’annoncer ou annoncer avec retard un changement de domicile au nouveau lieu de résidence en Suisse (art. 26, al. 2, OAC)</td><td>20</td></tr>
+<tr><td>3. Omettre d’annoncer des changements sur les cartes de tachygraphe (art. 13*a*, al. 3, OTR 1)</td><td>20</td></tr>
+<tr><td>4. Omettre d’annoncer l’endommagement, le dysfonctionnement, la perte ou le vol d’une carte de tachygraphe (art. 13*a*, al. 5, OTR 1)</td><td>20</td></tr>
+<tr><td>5. Omettre de restituer la carte de conducteur (art. 13*b*, al. 6, OTR 1)</td><td>20</td></tr>
+<tr><td>6. Omettre de restituer la carte d’atelier (art. 13*c*, al. 5, OTR 1)</td><td>20</td></tr>
+<tr><td>2. Conducteurs de véhicules automobiles; règles de circulation applicables aux véhicules en stationnement</td><td></td></tr>
+<tr><td>200. Dépasser la durée du stationnement autorisée (art. 48, al. 3, OSR)</td><td></td></tr>
+<tr><td>a. de deux heures au plus</td><td>40</td></tr>
+<tr><td>b. de plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. de plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>201. ...</td><td></td></tr>
+<tr><td>202. Ne pas placer ou placer de manière peu visible</td><td></td></tr>
+<tr><td>1. le disque de stationnement sur le véhicule (art. 48*a*, al. 4, OSR)</td><td>40</td></tr>
+<tr><td>2. le ticket de stationnement sur le véhicule (art. 48*b*, al. 2, OSR)</td><td>40</td></tr>
+<tr><td>3. la carte de stationnement pour personnes handicapées sur le véhicule (art. 20*a*, al. 4, OCR et art. 65, al. 5, OSR)</td><td>40</td></tr>
+<tr><td>203. 1. Indiquer une heure d’arrivée fausse sur le disque de stationnement (art. 48*a*, al. 3, OSR)</td><td>40</td></tr>
+<tr><td>2. Changer l’heure d’arrivée sans quitter la place (art. 48*a*, al. 3, OSR)</td><td>40</td></tr>
+<tr><td>3. Ne pas enclencher le parcomètre (art. 48*b*, al. 1, OSR)</td><td>40</td></tr>
+<tr><td>4. Payer une nouvelle taxe avant la fin du temps autorisé, lorsque c’est interdit (art. 48*b,* al. 1, OSR)</td><td>40</td></tr>
+<tr><td>5. Payer une nouvelle taxe lorsque la durée du stationnement est écoulée (art. 48*b*, al. 1, OSR)</td><td>40</td></tr>
+<tr><td>204. S’arrêter à un endroit dépourvu de visibilité, notamment aux abords d’un tournant ou du sommet d’une côte (art. 18, al. 2, let. a, OCR)</td><td>80</td></tr>
+<tr><td>205. S’arrêter à un endroit resserré (art. 18, al. 2, let. b, OCR)</td><td>80</td></tr>
+<tr><td>206. S’arrêter à côté d’un obstacle se trouvant sur la chaussée (art. 18, al. 2, let. b, OCR)</td><td>80</td></tr>
+<tr><td>207. 1. Stationner sur un tronçon servant à la présélection (art. 18, al. 2, let. c, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur un tronçon servant à la présélection (art. 18, al. 2, let. c, OCR)</td><td>80</td></tr>
+<tr><td>208. 1. Stationner à côté d’une ligne de sécurité lorsqu’il ne reste pas un passage de 3 m de largeur au moins (art. 18, al. 2, let. c, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter à côté d’une ligne de sécurité lorsqu’il ne reste pas un passage de 3 m de largeur au moins (art. 18, al. 2, let. c, OCR)</td><td>80</td></tr>
+<tr><td>209. 1. Stationner à côté d’une ligne longitudinale continue lorsqu’il ne reste pas un passage de 3 m de largeur au moins (art. 18, al. 2, let. c, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter à côté d’une ligne longitudinale continue lorsqu’il ne reste pas un passage de 3 m de largeur au moins (art. 18, al. 2, let. c, OCR)</td><td>80</td></tr>
+<tr><td>210. 1. Stationner à côté d’une ligne double lorsqu’il ne reste pas un passage de 3 m de largeur au moins (art. 18, al. 2, let. c, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter à côté d’une ligne double lorsqu’il ne reste pas un passage de 3 m de largeur au moins (art. 18, al. 2, let. c, OCR)</td><td>80</td></tr>
+<tr><td>211. 1. Stationner à une intersection (art. 18, al. 2, let. d, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter à une intersection (art. 18, al. 2, let. d, OCR)</td><td>80</td></tr>
+<tr><td>212. 1. Stationner avant une intersection à moins de 5 m de la chaussée transversale (art. 18, al. 2, let. d, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter avant une intersection à moins de 5 m de la chaussée transversale (art. 18, al. 2, let. d, OCR)</td><td>80</td></tr>
+<tr><td>213. 1. Stationner après une intersection à moins de 5 m de la chaussée transversale (art. 18, al. 2, let. d et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter après une intersection à moins de 5 m de la chaussée transversale (art. 18, al. 2, let. d, OCR)</td><td>80</td></tr>
+<tr><td>214. 1. Stationner sur un passage pour piétons (art. 18, al. 2, let. e, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur un passage pour piétons (art. 18, al. 2, let. e, OCR)</td><td>80</td></tr>
+<tr><td>215. 1. Stationner dans le prolongement d’un passage pour piétons (art. 18, al. 2, let. e, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter dans le prolongement d’un passage pour piétons (art. 18, al. 2, let. e, OCR)</td><td>80</td></tr>
+<tr><td>216. 1. S’arrêter sur un passage à niveau (art. 18, al. 2, let. f, OCR)</td><td>80</td></tr>
+<tr><td>2. S’arrêter dans un passage sous voies (art. 18, al. 2, let. f, OCR)</td><td>80</td></tr>
+<tr><td>217. 1. Stationner à moins de 10 m avant un panneau indiquant un arrêt des transports publics (art. 18, al. 3, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. Gêner les transports publics en s’arrêtant à moins de 10 m avant un panneau indiquant un arrêt des transports publics pour laisser monter ou descendre des passagers (art. 18, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>3. S’arrêter pour charger ou décharger des marchandises, à moins de 10 m avant un panneau indiquant un arrêt des transports publics (art. 18, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>218. 1. Stationner à moins de 10 m après un panneau indiquant un arrêt des transports publics (art. 18, al. 3 et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. Gêner les transports publics en s’arrêtant à moins de 10 m après un panneau indiquant un arrêt des transports publics pour laisser monter ou descendre des passagers (art. 18, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>3. S’arrêter pour charger ou décharger des marchandises, à moins de 10 m après un panneau indiquant un arrêt des transports publics (art. 18, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>219. ...</td><td></td></tr>
+<tr><td>220. 1. Stationner devant un local du service du feu ou un dépôt d’engins d’extinction (art. 18, al. 3, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter devant un local du service du feu ou un dépôt d’engins d’extinction, pour charger ou décharger des marchandises (art. 18, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>3. Gêner le service du feu en s’arrêtant devant un local du service du feu ou un dépôt d’engins d’extinction, pour laisser monter ou descendre des passagers (art. 18, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>221. Gêner la circulation en s’arrêtant en double file à côté de véhicules stationnés le long de la route, pour charger ou décharger des marchandises (art. 18, al. 4, OCR)</td><td>80</td></tr>
+<tr><td>222. 1. Stationner sur une bande cyclable (art. 19, al. 2, let. d, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une bande cyclable en gênant la circulation des cyclistes (art. 40, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>223. Stationner sur la chaussée contiguë à une bande cyclable (art. 19, al. 2, let. d, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>224. 1. Stationner sur une voie de tram (art. 19, al. 2, let. a, et art. 25, al. 5, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une voie de tram (art. 25, al. 5, OCR)</td><td>80</td></tr>
+<tr><td>225. 1. Stationner à moins de 1,5 m du rail de tram le plus proche (art. 19, al. 2, let. a, et art. 25, al. 5, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter à moins de 1,5 m du rail de tram le plus proche (art. 25, al. 5, OCR)</td><td>80</td></tr>
+<tr><td>226. 1. Stationner sur la bande d’arrêt d’urgence d’une autoroute (art. 36, al. 3, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur la bande d’arrêt d’urgence d’une autoroute, si ce n’est pour un arrêt de nécessité (art. 36, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>227. 1. Stationner sur la bande d’arrêt d’urgence d’une semi-autoroute (art. 36, al. 3, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur la bande d’arrêt d’urgence d’une semi-autoroute, si ce n’est pour un arrêt de nécessité (art. 36, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>228. 1. Stationner sur le trottoir, à moins que des signaux ou des marques ne l’autorisent expressément, s’il ne reste pas un passage d’au moins 1,5 m pour les piétons (art. 41, al. 1<sup>bis</sup>, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur le trottoir, s’il ne reste pas un passage d’au moins 1,5 m pour les piétons (art. 41, al. 1<sup>bis</sup>, OCR)</td><td>80</td></tr>
+<tr><td>229. 1. Stationner sur une bande longitudinale pour piétons, en gênant la circulation des piétons (art. 41, al. 3, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une bande longitudinale pour piétons, en gênant la circulation des piétons (art. 41, al. 3, OCR)</td><td>80</td></tr>
+<tr><td>230. 1. Stationner à un endroit où une interdiction de s’arrêter est signalée (2.49; art. 30 ORS et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter à un endroit où une interdiction de s’arrêter est signalée (2.49; art. 30 OSR)</td><td>80</td></tr>
+<tr><td>231. 1. Stationner sur une voie réservée aux bus (art. 34, al. 1, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une voie réservée aux bus (art. 34, al. 1, OSR)</td><td>80</td></tr>
+<tr><td>232. 1. Stationner sur une «Place d’évitement» (art. 47, al. 4, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une «Place d’évitement» (art. 47, al. 4, OSR)</td><td>80</td></tr>
+<tr><td>233. 1. Stationner sur une «Place d’arrêt pour véhicules en panne» (art. 47, al. 5, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une «Place d’arrêt pour véhicules en panne» (art. 47, al. 5, OSR)</td><td>80</td></tr>
+<tr><td>234. 1. Stationner avant un passage pour piétons, sur la ligne interdisant l’arrêt (art. 77, al. 2, OSR et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter avant un passage pour piétons sur la ligne interdisant l’arrêt (art. 77, al. 2, OSR)</td><td>80</td></tr>
+<tr><td>235. 1. Stationner sur la chaussée avant un passage pour piétons, lorsqu’il n’y a pas de ligne interdisant l’arrêt, à moins de 5 m dudit passage (art. 18, al. 2, let. e, et 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur la chaussée avant un passage pour piétons lorsqu’il n’y a pas de ligne interdisant l’arrêt, à moins de 5 m dudit passage (art. 18, al. 2, let. e, OCR)</td><td>80</td></tr>
+<tr><td>236. 1. Stationner sur le trottoir avant un passage pour piétons, à côté de la ligne interdisant l’arrêt (art. 77, al. 2, OSR et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur le trottoir avant un passage pour piétons, à côté de la ligne interdisant l’arrêt (art. 77, al. 2, OSR)</td><td>80</td></tr>
+<tr><td>237. 1. Stationner sur le trottoir avant un passage pour piétons, lorsqu’il n’y a pas de ligne interdisant l’arrêt, à moins de 5 m avant le passage (art. 18, al. 2, let. e, et 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur le trottoir avant un passage pour piétons, lorsqu’il n’y a pas de ligne interdisant l’arrêt, à moins de 5 m avant le passage (art. 18, al. 2, let. e, OCR)</td><td>80</td></tr>
+<tr><td>238. 1. Stationner sur une surface interdite au trafic (art. 78 OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une surface interdite au trafic (art. 78 OSR)</td><td>80</td></tr>
+<tr><td>239. 1. Stationner sur une ligne en zigzag (art. 79, al. 3, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. Gêner les transports publics en s’arrêtant sur une ligne en zigzag pour laisser monter ou descendre des passagers (art. 79, al. 3, OSR)</td><td>80</td></tr>
+<tr><td>3. S’arrêter sur une ligne en zigzag pour charger ou décharger des marchandises (art. 79, al. 3, OSR)</td><td>80</td></tr>
+<tr><td>240. 1. Stationner un véhicule non autorisé sur une case de stationnement réservée aux personnes handicapées (art. 65, al. 5, et 79, al. 4, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. Utiliser sans autorisation la «Carte de stationnement pour personnes handicapées» (art. 20*a* OCR)</td><td>120</td></tr>
+<tr><td>241. 1. Stationner sur une ligne interdisant l’arrêt (art. 79, al. 6, OSR et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une ligne interdisant l’arrêt (art. 79, al. 6, OSR)</td><td>80</td></tr>
+<tr><td>242. Stationner sur une route principale hors des localités (art. 19, al. 2, let. b, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>243. Stationner sur une route principale dans une localité, lorsque deux voitures automobiles n’auraient plus assez de place pour croiser (art. 19, al. 2, let. c, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>244. ...</td><td></td></tr>
+<tr><td>245. Stationner à moins de 20 m d’un passage à niveau (art. 19, al. 2, let. e, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>246. Stationner sur un pont (art. 19, al. 2, let. f, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>247. Stationner devant l’accès à un bâtiment d’autrui (art. 19, al. 2, let. g, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>248. Stationner devant l’accès à un terrain d’autrui (art. 19, al. 2, let. g, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>249. Stationner sur le trottoir, à moins que des signaux ou des marques ne l’autorisent expressément, s’il reste un passage d’au moins 1,5 m pour les piétons (art. 41, al. 1<sup>bis</sup>, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>250. Stationner à un endroit où une interdiction de parquer est signalée (2.50; art. 30, al. 1, OSR)</td><td></td></tr>
+<tr><td>a jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>251. Stationner dans une zone de rencontre, à un endroit non désigné à cet effet (art. 22*b*, al. 3, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>252. Stationner hors des cases de stationnement (art. 79, al. 6, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>253. Stationner un véhicule sur une case de stationnement si celle-ci, par ses dimensions, n’est pas destinée à cette catégorie de véhicules (art. 79, al. 6, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>254. Stationner un véhicule sur une case de stationnement si celle-ci, compte tenu de la signalisation et du marquage, n’est pas destinée à cette catégorie de véhicules ou à ce groupe d’usagers (art. 48, al. 4, 65, al. 13, et 79, al. 6, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>255. Stationner sur une ligne interdisant le parcage (art. 79*a*, al. 1, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>256. Stationner sur une case interdite au parcage (art. 79*a*, al. 1, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
+<tr><td>257. 1. Stationner sur une piste cyclable avec un véhicule non autorisé à l’emprunter, en gênant la circulation (2.60; art. 37, al. 2 et 43, al. 2, LCR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur une piste cyclable avec un véhicule non autorisé à l’emprunter, en gênant la circulation (2.60; art. 37, al. 2, et 43, al. 2, LCR)</td><td>80</td></tr>
+<tr><td>258. 1. Stationner sur un chemin pour piétons avec un véhicule non autorisé à l’emprunter, en gênant la circulation (2.61; art. 37, al. 2, LCR et art. 33, al. 2, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. S’arrêter sur un chemin pour piétons avec un véhicule non autorisé à l’emprunter, en gênant la circulation (2.61; art. 37, al. 2, LCR et art. 33, al. 2, OSR)</td><td>80</td></tr>
+<tr><td>259 Stationner dans une zone piétonne, à un endroit non désigné à cet effet (art. 22*c,* al. 2, OSR)</td><td></td></tr>
+<tr><td>a. jusqu’à 2 heures</td><td>40</td></tr>
+<tr><td>b. pendant plus de 2 heures, mais pas plus de 4 heures</td><td>60</td></tr>
+<tr><td>c. pendant plus de 4 heures, mais pas plus de 10 heures</td><td>100</td></tr>
+<tr><td>3. Conducteurs de véhicules automobiles; règles de circulation applicables aux véhicules en mouvement</td><td></td></tr>
+<tr><td>300. 1. Dépasser le poids maximal autorisé, après déduction de la marge d’erreur fixée par l’Office fédéral des routes (OFROU) pour les appareils et les mesures (art. 9, al. 1, et 30, al. 2, LCR, art. 67, al. 1 et 3, OCR)</td><td></td></tr>
+<tr><td>a. de au plus 100 kg</td><td>100</td></tr>
+<tr><td>b. pour les véhicules et les ensembles de véhicules dont le poids total ou le poids de l’ensemble n’excède pas 3500 kg, de plus de 100 kg, mais de 5 % au maximum</td><td>200</td></tr>
+<tr><td>c. pour les véhicules et les ensembles de véhicules dont le poids total ou le poids de l’ensemble excède 3500 kg, de plus de 100 kg, jusqu’à 5 %, mais de pas plus de 1000 kg</td><td>250</td></tr>
+<tr><td>2. Dépasser la charge maximale autorisée par essieu, après déduction de la marge d’erreur fixée par l’OFROU pour les appareils et les mesures, lorsque le poids autorisé du véhicule ou de l’ensemble de véhicules n’est pas respecté (art. 9, al. 2, et 30, al. 2, LCR, art. 67, al. 2 et 3, OCR)</td><td></td></tr>
+<tr><td>a. de au plus 100 kg</td><td>100</td></tr>
+<tr><td>b. pour les véhicules dont le poids total excède 3500 kg, de plus de 100 kg, mais de 2 % au maximum</td><td>250</td></tr>
+<tr><td>3. Dépasser la charge maximale autorisée par essieu, après déduction de la marge d’erreur fixée par l’OFROU pour les appareils et les mesures, lorsque le poids autorisé du véhicule et de l’ensemble de véhicules est respecté (art. 9, al. 2, et 30, al. 2, LCR, art. 67, al. 2 et 3, OCR)</td><td></td></tr>
+<tr><td>a. de plus de 2 %, mais de 5 % au maximum</td><td>40</td></tr>
+<tr><td>b. de plus de 5 %</td><td>100</td></tr>
+<tr><td>301. Circuler sur le trottoir avec un motocycle (art. 43, al. 2, LCR)</td><td>100</td></tr>
+<tr><td>302. Motocyclistes ne restant pas à leur place dans une file de véhicules lorsque la circulation est arrêtée (art. 47, al. 2, LCR)</td><td>60</td></tr>
+<tr><td>303. 1. Dépasser, à l’intérieur d’une localité, la vitesse maximale signalée, définie à titre général ou pour certains genres de véhicules, après déduction de la marge d’erreur inhérente aux appareils et aux mesures fixée par l’OFROU (art. 27, al. 1, LCR; art. 4*a*, al. 1 et 5, OCR; art. 22, al. 1, 22*a*, 22*b*, al. 2, et 22*c*, al. 1, OSR)</td><td></td></tr>
+<tr><td>a. de 1 à 5 km/h</td><td>40</td></tr>
+<tr><td>b. de 6 à 10 km/h</td><td>120</td></tr>
+<tr><td>c. de 11 à 15 km/h</td><td>250</td></tr>
+<tr><td>2. Dépasser, hors des localités ou sur une semi-autoroute, la vitesse maximale signalée, définie à titre général ou pour certains genres de véhicules, après déduction de la marge d’erreur inhérente aux appareils et aux mesures fixée par l’OFROU (art. 27, al. 1, LCR; art. 4*a*, al. 1, et art. 5, OCR; art. 22, al. 1, OSR)</td><td></td></tr>
+<tr><td>a. de 1 à 5 km/h</td><td>40</td></tr>
+<tr><td>b. de 6 à 10 km/h</td><td>100</td></tr>
+<tr><td>c. de 11 à 15 km/h</td><td>160</td></tr>
+<tr><td>d. de 16 à 20 km/h</td><td>240</td></tr>
+<tr><td>3. Dépasser, sur une autoroute, la vitesse maximale signalée, définie à titre général ou pour certains genres de véhicules, après déduction de la marge d’erreur inhérente aux appareils et aux mesures fixée par l’OFROU (art. 27, al. 1, LCR; art. 4*a*, al. 1, et art. 5 OCR; art. 22, al. 1, OSR)</td><td></td></tr>
+<tr><td>a. de 1 à 5 km/h</td><td>20</td></tr>
+<tr><td>b. de 6 à 10 km/h</td><td>60</td></tr>
+<tr><td>c. de 11 à 15 km/h</td><td>120</td></tr>
+<tr><td>d. de 16 à 20 km/h</td><td>180</td></tr>
+<tr><td>e. de 21 à 25 km/h</td><td>260</td></tr>
+<tr><td>304. Ne pas observer le signal de prescription</td><td></td></tr>
+<tr><td>1. «Interdiction générale de circuler dans les deux sens» (2.01; art. 27, al. 1, LCR et art. 18, al. 1, OSR)</td><td>100</td></tr>
+<tr><td>2. «Accès interdit» (2.02; art. 27, al. 1, LCR, art. 37, al. 3, OCR et art. 18, al. 3, OSR)</td><td>100</td></tr>
+<tr><td>3. «Circulation interdite aux voitures automobiles» (2.03; art. 27, al. 1, LCR et art. 19, al. 1, let. a, OSR)</td><td>100</td></tr>
+<tr><td>4. «Circulation interdite aux motocycles» (2.04; art. 27, al. 1, LCR et art. 19, al. 1, let. b, OSR)</td><td>100</td></tr>
+<tr><td>5. «Circulation interdite aux camions» (2.07; art. 27, al. 1, LCR et art. 19, al. 1, let. d, OSR)</td><td>100</td></tr>
+<tr><td>6. «Circulation interdite aux autocars» (2.08; art. 27, al. 1, LCR et art. 19, al. 1, let. e, OSR)</td><td>100</td></tr>
+<tr><td>7. «Circulation interdite aux remorques» (2.09; art. 27, al. 1, LCR et art. 19, al. 1, let. f, OSR)</td><td>100</td></tr>
+<tr><td>8. «Sens obligatoire à droite» (2.32; art. 27, al. 1, LCR et art. 24, al. 1, let. a, OSR)</td><td>100</td></tr>
+<tr><td>9. «Sens obligatoire à gauche» (2.33; art. 27, al. 1, LCR et art. 24, al. 1, let. a, OSR)</td><td>100</td></tr>
+<tr><td>10. «Obstacle à contourner par la droite» (2.34; art. 27, al. 1, LCR et art. 24, al. 1, let. b, OSR)</td><td>100</td></tr>
+<tr><td>11. «Obstacle à contourner par la gauche» (2.35; art. 27, al. 1, LCR et art. 24, al. 1, let. b, OSR)</td><td>100</td></tr>
+<tr><td>12. «Circuler tout droit» (2.36, 2.40, 2.41; art. 27, al. 1, LCR et art. 24, al. 1, let. c, et 3, OSR)</td><td>100</td></tr>
+<tr><td>13. «Obliquer à droite» (2.37, 2.39, 2.40; art. 27, al. 1, LCR et art. 24, al. 2 et 3, OSR)</td><td>100</td></tr>
+<tr><td>14. «Obliquer à gauche» (2.38, 2.39, 2.41; art. 27, al. 1, LCR et art. 24, al. 2 et 3, OSR)</td><td>100</td></tr>
+<tr><td>15. «Carrefour à sens giratoire» (2.41.1; art. 27, al. 1, LCR et art. 24, al. 4, OSR)</td><td>100</td></tr>
+<tr><td>16. «Interdiction d’obliquer à droite» (2.42; art. 27, al. 1, LCR et art. 25, al. 1, OSR)</td><td>100</td></tr>
+<tr><td>17. «Interdiction d’obliquer à gauche» (2.43; art. 27, al. 1, LCR et art. 25, al. 1, OSR)</td><td>100</td></tr>
+<tr><td>18. «Interdiction de faire demi-tour» (2.46; art. 27, al. 1, LCR et art. 27, al. 1, OSR)</td><td>100</td></tr>
+<tr><td>19. «Chaînes à neige obligatoires» (2.48; art. 27, al. 1, LCR et art. 29, al. 1, OSR)</td><td>100</td></tr>
+<tr><td>20. «Zone piétonne» (2.59.3; art. 27, al. 1, LCR et art. 22*c*, al. 1, OSR)</td><td>100</td></tr>
+<tr><td>21. «Piste cyclable» (2.60; art. 27, al. 1, et 43, al. 2, LCR</td><td>100</td></tr>
+<tr><td>22. «Chemin pour piétons» (2.61; art. 27, al. 1, LCR et art. 33, al. 2, OSR)</td><td>100</td></tr>
+<tr><td>23. «Piste cyclable et chemin pour piétons» (2.63, 2.63.1; art. 27, al. 1, et art. 43, al. 2, LCR)</td><td>100</td></tr>
+<tr><td>24. «Circulation interdite aux remorques autres que les semi-remorques et les remorques à essieu central» (2.09.1; art. 27, al. 1, LCR et art. 19, al. 1, let. f<sup>bis</sup>, OSR)</td><td>100</td></tr>
+<tr><td>25. «Interdiction aux camions de dépasser» sur les autoroutes (2.45; art. 27, al. 1, LCR et art. 26, al. 2, OSR)</td><td>100</td></tr>
+<tr><td>305. Circuler sur un site propre réservé aux trams (art. 27, al. 1, et art. 43, al. 1, LCR)</td><td>60</td></tr>
+<tr><td>306. 1. Enfreindre l’ordre de présélection en n’observant pas la flèche de direction marquée sur la chaussée (art. 27, al. 1, LCR et art. 74, al. 2, OSR)</td><td>100</td></tr>
+<tr><td>2. Enfreindre l’ordre de présélection en n’observant pas la flèche de la signalisation lumineuse (art. 27, al. 1, LCR et art. 68, al. 1<sup>bis</sup>, OSR)</td><td>100</td></tr>
+<tr><td>3. Ne pas poursuivre sa route dans la direction indiquée par la flèche (y compris en franchissant le cas échéant une ligne de sécurité délimitant deux voies de circulation destinées aux véhicules empruntant la même direction [6.01]; art. 27, al. 1, LCR, art. 73, al. 6, let. a, et art. 74, al. 1 et 2, OSR)</td><td>100</td></tr>
+<tr><td>4. Enfreindre l’ordre de présélection en n’observant pas le principe de la fermeture éclair (art. 8, al. 5, et 36, al. 4, OCR)</td><td>100</td></tr>
+<tr><td>307. 1. Circuler sur une voie réservée aux bus (art. 27, al. 1, LCR et art. 74*b* OSR)</td><td>60</td></tr>
+<tr><td>2. Circuler sur une chaussée réservée aux bus (art. 27, al. 1, LCR et art. 34, al. 1, OSR)</td><td>60</td></tr>
+<tr><td>308. Ne pas s’arrêter complètement au signal «Stop» («stop coulé») (3.01, art. 27, al. 1, LCR et art. 36, al. 1, OSR)</td><td>60</td></tr>
+<tr><td>309. 1. Ne pas observer un signal lumineux (art. 27, al. 1, LCR, art. 68 et art. 69, al. 3, OSR)</td><td>250</td></tr>
+<tr><td>2. Ne pas observer un «Feu clignotant alternativement» (3.20) ou un «Feu clignotant simple» (3.21; art. 28 LCR et art. 68, al. 1<sup>bis</sup>, et 93, al. 2, OSR)</td><td>250</td></tr>
+<tr><td>310. Empiéter sur une bande cyclable ou la franchir, lorsqu’elle est délimitée par une ligne continue (art. 27, al. 1, LCR et art. 74*a*, al. 1, OSR)</td><td>60</td></tr>
+<tr><td>311. Utiliser un téléphone sans dispositif «mains libres» pendant la course (art. 3, al. 1, OCR)</td><td>100</td></tr>
+<tr><td>312. 1. Conducteurs de voitures automobiles ne portant pas la ceinture de sécurité (art. 3*a* OCR)</td><td>60</td></tr>
+<tr><td>2. Transporter un enfant de moins de douze ans non attaché (art. 3*a*, al. 1 et 4, OCR)</td><td>60</td></tr>
+<tr><td>313. 1. Conducteurs de motocycles, de quadricycles légers à moteur, de quadricycles à moteur ou de tricycles à moteur ne portant pas le casque (art. 3*b* OCR)</td><td>60</td></tr>
+<tr><td>2. Transporter un enfant de moins de douze ans sans casque sur un motocycle, un quadricycle léger à moteur, un quadricycle à moteur ou un tricycle à moteur (art. 3*b*, al. 1, OCR)</td><td>60</td></tr>
+<tr><td>314. 1. Ne pas utiliser la voie extérieure de droite d’une route à plusieurs voies, à moins de dépasser, de se mettre en ordre de présélection, de circuler en files parallèles ou à l’intérieur de localités (art. 8, al. 1, OCR)</td><td>60</td></tr>
+<tr><td>2. Contourner des véhicules par la droite pour les dépasser, sur une route à plusieurs voies, dans une localité (art. 8, al. 3, OCR)</td><td>140</td></tr>
+<tr><td>3. Dépasser par la droite en déboîtant puis en se rabattant sur des autoroutes et des semi-autoroutes à plusieurs voies (art. 36, al. 5, OCR)</td><td>250</td></tr>
+<tr><td>315. Changer de voie sur un tronçon servant à la présélection, pour effectuer un dépassement (art. 13, al. 3, OCR)</td><td>100</td></tr>
+<tr><td>316. S’arrêter ou stationner sur le côté gauche de la chaussée, bien qu’il n’y ait à droite ni voie de tram ou de chemin de fer routier ni interdiction de parquer ou de s’arrêter et que la route soit large (art. 18, al. 1, et art. 19, al. 2, let. a, OCR)</td><td>60</td></tr>
+<tr><td>317. Quitter le véhicule sans enlever la clé de contact (art. 22, al. 1, OCR)</td><td>60</td></tr>
+<tr><td>318. 1. Ne pas placer le signal de panne (art. 23, al. 2, OCR)</td><td>60</td></tr>
+<tr><td>2. Placer le signal de panne contrairement aux prescriptions (art. 23, al. 2, OCR)</td><td>40</td></tr>
+<tr><td>3. Utilisation abusive des feux clignotants sur le véhicule à l’arrêt (art. 23, al. 3, let. a, OCR)</td><td>40</td></tr>
+<tr><td>4. Utilisation abusive des feux clignotants sur le véhicule en marche (art. 23, al. 3, let. b, OCR)</td><td>40</td></tr>
+<tr><td>5. Ne pas placer de signal de panne à l’arrière d’un véhicule remorqué (art. 23, al. 6, OCR)</td><td>40</td></tr>
+<tr><td>319. ...</td><td></td></tr>
+<tr><td>320. 1. Faire des courses d’apprentissage avec un véhicule dépourvu de la plaque L (art. 27, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>2. Ne pas ôter la plaque L lorsqu’il ne s’agit pas d’une course d’apprentissage (art. 27, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>321. 1. Ne pas annoncer un changement de direction (art. 28, al. 1, OCR)</td><td>100</td></tr>
+<tr><td>2. Ne pas interrompre le signe donné, après un changement de direction (art. 28, al. 2, OCR)</td><td>100</td></tr>
+<tr><td>3. Ne pas être porteur de la palette de direction lorsqu’elle est exigée (art. 28, al. 4, OCR)</td><td>40</td></tr>
+<tr><td>322. Utilisation abusive des signaux avertisseurs (art. 29, al. 1, OCR)</td><td>40</td></tr>
+<tr><td>323. Circuler sans feu (art. 41, al. 1, LCR et art. 30, al. 1 et 2, et 39, al. 2, OCR)</td><td></td></tr>
+<tr><td>1. de jour</td><td>40</td></tr>
+<tr><td>2. sur une route éclairée, de nuit</td><td>60</td></tr>
+<tr><td>3. dans un tunnel éclairé</td><td>60</td></tr>
+<tr><td>324. Circuler avec les feux de position ou les feux de circulation diurne (art. 41, al. 1, LCR et art. 30, al. 1, et 39, al. 2, OCR)</td><td></td></tr>
+<tr><td>1. sur une route éclairée, de nuit</td><td>40</td></tr>
+<tr><td>2. dans un tunnel éclairé</td><td>40</td></tr>
+<tr><td>325. Usage abusif (art. 30, al. 4, et 32, al. 2, OCR)</td><td></td></tr>
+<tr><td>1. des feux de brouillard</td><td>40</td></tr>
+<tr><td>2. des feux arrière de brouillard</td><td>40</td></tr>
+<tr><td>3. des feux orientables</td><td>40</td></tr>
+<tr><td>4. des lampes de travail</td><td>40</td></tr>
+<tr><td>326. 1. Faire chauffer inutilement le moteur d’un véhicule à l’arrêt (art. 33, let. a, OCR)</td><td>60</td></tr>
+<tr><td>2. Faire tourner inutilement le moteur d’un véhicule à l’arrêt (art. 33, let. a, OCR)</td><td>60</td></tr>
+<tr><td>327. 1. Circuler sur une autoroute ou une semi-autoroute avec un motocycle dont la cylindrée n’est pas supérieure à 50 cm<sup>3</sup> ou dont la puissance n’excède pas 4 kW (art. 35, al. 2, OCR)</td><td>100</td></tr>
+<tr><td>2. Circuler sur une autoroute ou une semi-autoroute avec un autre véhicule automobile qui n’y est pas admis (art. 35, al. 1, 2 et 4, OCR)</td><td>140</td></tr>
+<tr><td>3. Circuler avec des pneus à clous sur une autoroute ou une semi-autoroute (art. 35, al. 2, OCR)</td><td>60</td></tr>
+<tr><td>4. Remorquer un véhicule plus loin que la prochaine sortie d’une autoroute ou d’une semi-autoroute (art. 35, al. 3, OCR)</td><td>140</td></tr>
+<tr><td>328. 1. Circuler sur la bande d’arrêt d’urgence d’une autoroute ou d’une semi-autoroute (art. 36, al. 3, OCR)</td><td>140</td></tr>
+<tr><td>2. Utiliser la voie extérieure de gauche sur une autoroute ayant au moins 3 voies dans le même sens, au moyen d’un véhicule avec lequel il n’est pas permis de rouler à plus de 100 km/h (art. 36, al. 6, OCR)</td><td>60</td></tr>
+<tr><td>3. Non-respect de l’obligation de former un couloir de secours (art. 36, al. 7, OCR)</td><td>100</td></tr>
+<tr><td>329. Gêner la circulation des piétons en empruntant une bande longitudinale pour piétons (art. 41, al. 3, OCR)</td><td>60</td></tr>
+<tr><td>330. Circuler avec des plaques de contrôle pas bien lisibles (art. 57, al. 2, OCR)</td><td>60</td></tr>
+<tr><td>331. Transporter une personne de plus que le nombre des places autorisées (art. 60, al. 2, et 63, al. 2, OCR)</td><td>60</td></tr>
+<tr><td>332. Inobservation de l’interdiction de circuler de nuit (art. 91, al. 2 et 3, OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à une heure</td><td>100</td></tr>
+<tr><td>b. plus d’une heure, mais pas plus de 2 heures</td><td>200</td></tr>
+<tr><td>333. Circuler avec une (des) plaque(s) de contrôle masquée(s) par (art. 57, al. 2, OCR)</td><td></td></tr>
+<tr><td>1. le chargement</td><td>60</td></tr>
+<tr><td>2. le porte-charges</td><td>60</td></tr>
+<tr><td>3. des engins de travail et objets similaires</td><td>60</td></tr>
+<tr><td>334. Circuler avec un (des) dispositif(s) d’éclairage masqué(s) par (art. 57, al. 2, OCR)</td><td></td></tr>
+<tr><td>1. le chargement</td><td>60</td></tr>
+<tr><td>2. le porte-charges</td><td>60</td></tr>
+<tr><td>3. des engins de travail et objets similaires</td><td>60</td></tr>
+<tr><td>335. S’arrêter sur un passage pour piétons lors d’un arrêt de la circulation (art. 12, al. 3, OCR)</td><td>60</td></tr>
+<tr><td>336. S’arrêter à une intersection lors d’un arrêt de la circulation et barrer ainsi la voie aux véhicules circulant dans le sens transversal (art. 12, al. 3, OCR)</td><td>60</td></tr>
+<tr><td>337. Ne pas accorder la priorité à un passage pour piétons (art. 33 LCR, art. 6, al. 1 et 2, OCR)</td><td>140</td></tr>
+<tr><td>338. Transporter une personne sans autorisation sur un véhicule affecté au transport de choses ou sur un véhicule agricole et forestier (art. 61 OCR)</td><td>60</td></tr>
+<tr><td>339. Pour une personne sans handicap moteur, circuler en fauteuil roulant motorisé ou au moyen d’un gyropode électrique sur une aire de circulation affectée aux piétons (art. 43*a*, al. 1, OCR)</td><td>40</td></tr>
+<tr><td>340. Stationner avec un véhicule automobile sur une autoroute ou une semi-autoroute si le véhicule en question est arrêté sur la bande d’arrêt d’urgence ou sur une place d’arrêt pour véhicules en panne par manque de carburant ou d’électricité (art. 29 LCR)</td><td>120</td></tr>
+<tr><td>341. Franchir une ligne de sécurité ou empiéter sur elle à l’intérieur des localités (art. 34, al. 2, LCR et art. 73, al. 6, let. a, OSR)</td><td>140</td></tr>
+<tr><td>342. Franchir une surface interdite au trafic ou empiéter sur elle à l’intérieur des localités (art. 27, al. 1, LCR et art. 78 OSR)</td><td>140</td></tr>
+<tr><td>4. Conducteurs de véhicules automobiles; prescriptions sur la construction et l’équipement</td><td></td></tr>
+<tr><td>400. Ne pas être muni</td><td></td></tr>
+<tr><td>1. du triangle de panne (art. 90, al. 2, OETV[^annex1-lvlu1-lvlu1-8])</td><td>40</td></tr>
+<tr><td>2. de la cale pour les voitures automobiles lourdes (art. 114, al. 1, OETV)</td><td>40</td></tr>
+<tr><td>3. de la pharmacie de bord exigée sur les autocars (art. 123, al. 4, OETV)</td><td>40</td></tr>
+<tr><td>4. d’un extincteur exigé (art. 114, al. 2 et 3, OETV et section 8.1.4 ADR[^annex1-lvlu1-lvlu1-9])</td><td>40</td></tr>
+<tr><td>5. de la cale pour les remorques dont le poids total excède 0,75 t (art. 195, al. 3, OETV)</td><td>40</td></tr>
+<tr><td>401. Circuler ou stationner avec des plaques de contrôle fixées contrairement aux prescriptions (art. 45, al. 2, 96, 124, al. 1, 136, al. 4, 162, al. 1, 167 et 185 OETV)</td><td>60</td></tr>
+<tr><td>402. 1. Conduire un véhicule automobile dont un pneu est dans un état insuffisant (art. 58, al. 4, OETV)</td><td>100</td></tr>
+<tr><td>2. Tirer une remorque ayant un pneu défectueux (art. 58, al. 4, OETV)</td><td>100</td></tr>
+<tr><td>3. Circuler avec des pneus à clous, sans disque indiquant la vitesse maximale ou avec un disque non conforme (art. 62, al. 2, OETV)</td><td>20</td></tr>
+<tr><td>4. Utiliser des pneus à clous en dehors de la période pendant laquelle ils sont autorisés (art. 62, al. 1, OETV)</td><td>60</td></tr>
+<tr><td>5. Rouler avec un disque indiquant la vitesse maximale, bien que le véhicule soit utilisé sans pneus à clous (art. 62, al. 3, OETV)</td><td>20</td></tr>
+<tr><td>403. Utiliser un véhicule muni d’un avertisseur acoustique non autorisé (art. 82, al. 1, OETV)</td><td>40</td></tr>
+<tr><td>404. Circuler sans la(les) plaque(s) de contrôle prescrite(s), à moins qu’il ne s’agisse de plaques professionnelles (art. 10, al. 1, LCR, art. 96, 124, al. 1, 136, al. 4, 162, al. 1, 167 et 185 OETV)</td><td>140</td></tr>
+<tr><td>405. Circuler sans disque indiquant la vitesse maximale (art. 117, al. 2, et 144, al. 7, OETV)</td><td>20</td></tr>
+<tr><td>406. Circuler sans plaque d’identification arrière (art. 68, al. 4, OETV)</td><td>20</td></tr>
+<tr><td>407. Conduire un motocycle sans catadioptre fixé à demeure (art. 140, al. 1, let. b, et 148, al. 1, OETV)</td><td>60</td></tr>
+<tr><td>408. Transporter des marchandises dangereuses avec un équipement manquant, incomplet ou non conforme aux prescriptions (art. 4 en relation avec l’annexe B, ch. 8.1.5, ADR)</td><td>40</td></tr>
+<tr><td>5. Détenteurs de véhicules</td><td></td></tr>
+<tr><td>500. Omettre d’annoncer ou annoncer avec retard toute circonstance qui exige la modification ou le remplacement d’un permis ou d’une autorisation (art. 26, 74, al. 5, et 95, al. 3 et 4, OAC)</td><td>20</td></tr>
+<tr><td>501. Dépasser le délai prescrit pour le service antipollution obligatoire (art. 59*b* OCR)</td><td></td></tr>
+<tr><td>a. jusqu’à 1 mois</td><td>40</td></tr>
+<tr><td>b. de plus d’un mois, mais pas plus de 3 mois</td><td>100</td></tr>
+<tr><td>c. de plus de 3 mois, mais pas plus de 6 mois</td><td>200</td></tr>
+<tr><td>502. 1. Mettre en circulation un véhicule automobile dont un pneu est dans un état insuffisant (art. 58, al. 4, OETV)</td><td>100</td></tr>
+<tr><td>2. Mettre en circulation une remorque avec un pneu défectueux (art. 58, al. 4, OETV)</td><td>100</td></tr>
+<tr><td>503. 1. Ne pas apposer le disque indiquant la vitesse maximale en circulant avec un véhicule équipé de pneus à clous (art. 62, al. 2, OETV)</td><td>20</td></tr>
+<tr><td>2. Ne pas apposer conformément aux prescriptions le disque indiquant la vitesse maximale, en utilisant un véhicule équipé de pneus à clous (art. 62, al. 2, OETV)</td><td>20</td></tr>
+<tr><td>3. Ne pas enlever le disque indiquant la vitesse maximale, lorsque l’on n’utilise pas de pneus à clous (art. 62, al. 3, OETV)</td><td>20</td></tr>
+<tr><td>504. 1. Ne pas apposer la(les) plaque(s) de contrôle prescrite(s), à moins qu’il ne s’agisse de plaques professionnelles (art. 10, al. 1, LCR, art. 96, 124, al. 1, 136, al. 4, 162, al. 1, 167 et 185 OETV)</td><td>140</td></tr>
+<tr><td>2. Ne pas apposer les plaques de contrôle conformément aux prescriptions (art. 45, al. 2, 96, 124, al. 1, 136, al. 4, 162, al. 1, 167 et 185 OETV)</td><td>60</td></tr>
+<tr><td>505. Ne pas apposer le disque indiquant la vitesse maximale (art. 117, al. 2, et 144, al. 7, OETV)</td><td>20</td></tr>
+<tr><td>506. Ne pas apposer la plaque d’identification arrière (art. 68, al. 4, OETV)</td><td>20</td></tr>
+<tr><td>507. Mettre en circulation un motocycle sans catadioptre fixé à demeure (art. 140, al. 1, let. b, et 148, al. 1, OETV)</td><td>60</td></tr>
+<tr><td>6. Cyclistes, cyclomotoristes et conducteurs de vélos-taxis électriques; règles de la circulation</td><td></td></tr>
+<tr><td>600. 1. Lâcher l’appareil de direction (art. 3, al. 3, OCR)</td><td>20</td></tr>
+<tr><td>2. ...</td><td></td></tr>
+<tr><td>601. Conducteurs de cyclomoteurs ne portant pas le casque (art. 3*b*, al. 1, OCR)</td><td>30</td></tr>
+<tr><td>602. S’arrêter sur un passage pour piétons lorsque la circulation est arrêtée (art. 12, al. 3, OCR)</td><td>20</td></tr>
+<tr><td>603. Faire tourner inutilement le moteur d’un cyclomoteur à l’arrêt (art. 22, al. 1, et art. 33, let. a, OCR)</td><td>20</td></tr>
+<tr><td>604. Circuler sans feu (art. 41, al. 1, LCR et art. 30, al. 1, et 39, al. 2, OCR)</td><td></td></tr>
+<tr><td>1. sur une route éclairée, de nuit</td><td>40</td></tr>
+<tr><td>2. sur une route non éclairée, de nuit</td><td>60</td></tr>
+<tr><td>3. dans un tunnel éclairé</td><td>20</td></tr>
+<tr><td>605. 1. Rouler sur le trottoir malgré l’interdiction (art. 43, al. 2, LCR et art. 41, al. 2, OCR)</td><td>40</td></tr>
+<tr><td>2. Gêner la circulation des piétons en empruntant une bande longitudinale pour piétons (art. 41, al. 3, OCR)</td><td>40</td></tr>
+<tr><td>606. 1. Transporter des objets empêchant de faire des signes de la main (art. 42, al. 2, OCR)</td><td>20</td></tr>
+<tr><td>2. Se placer devant une file de voitures arrêtées (art. 42, al. 3, OCR)</td><td>20</td></tr>
+<tr><td>3. Dépasser une file de voitures arrêtées en se faufilant entre les voitures (art. 42, al. 3, OCR)</td><td>20</td></tr>
+<tr><td>607. Circuler de front lorsque cela est interdit (art. 43, al. 1 et 2, OCR)</td><td></td></tr>
+<tr><td>1. Cyclistes</td><td>20</td></tr>
+<tr><td>2. Cyclomotoristes</td><td>20</td></tr>
+<tr><td>3. Conducteurs de vélos-taxis électriques</td><td>20</td></tr>
+<tr><td>4. Combinaisons de cyclistes, de cyclomotoristes et de conducteurs de vélos-taxis électriques</td><td>20</td></tr>
+<tr><td>608. 1. Se faire tirer (art. 46, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>2. Se faire remorquer (art. 46, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>3. Se faire pousser (art. 46, al. 4, LCR)</td><td>20</td></tr>
+<tr><td>609. Transporter sans autorisation</td><td></td></tr>
+<tr><td>1. une personne (art. 63, al. 3, OCR)</td><td>20</td></tr>
+<tr><td>2. un enfant sans utiliser un siège d’enfant offrant toute sécurité (art. 63, al. 4, OCR)</td><td>40</td></tr>
+<tr><td>610. 1. Conducteur poussant un véhicule ou un objet (art. 71, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>2. Conducteur tirant un véhicule ou un objet (art. 71, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>3. Conducteur remorquant un véhicule ou un objet (art. 71, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>611. Ne pas observer le signal de prescription</td><td></td></tr>
+<tr><td>1. «Interdiction générale de circuler dans les deux sens» (2.01; art. 27, al. 1, LCR et art. 18, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>2. «Accès interdit» (2.02; art. 27, al. 1, LCR et art. 18, al. 3, OSR)</td><td>30</td></tr>
+<tr><td>3. «Circulation interdite aux cycles et aux cyclomoteurs» (2.05; art. 27, al. 1, LCR et art. 19, al. 1, let. c, OSR)</td><td>30</td></tr>
+<tr><td>4. «Circulation interdite aux cyclomoteurs» (2.06; art. 27, al. 1, LCR et art. 19, al. 1, let. c, OSR)</td><td>30</td></tr>
+<tr><td>5. «Sens obligatoire à droite» (2.32; art. 27, al. 1, LCR et art. 24, al. 1, let. a, OSR)</td><td>30</td></tr>
+<tr><td>6. «Sens obligatoire à gauche» (2.33; art. 27, al. 1, LCR et art. 24, al. 1, let. a, OSR)</td><td>30</td></tr>
+<tr><td>7. «Obstacle à contourner par la droite» (2.34; art. 27, al. 1, LCR et art. 24, al. 1, let. b, OSR)</td><td>30</td></tr>
+<tr><td>8. «Obstacle à contourner par la gauche» (2.35; art. 27, al. 1, LCR et art. 24, al. 1, let. b, OSR)</td><td>30</td></tr>
+<tr><td>9. «Circuler tout droit» (2.36, 2.40, 2.41; art. 27, al. 1, LCR et art. 24, al. 1, let. c, et 3, OSR)</td><td>30</td></tr>
+<tr><td>10. «Obliquer à droite» (2.37, 2.39, 2.40; art. 27, al. 1, LCR et art. 24, al. 2 et 3, OSR)</td><td>30</td></tr>
+<tr><td>11. «Obliquer à gauche» (2.38, 2.39, 2.41; art. 27, al. 1, LCR et art. 24, al. 2 et 3, OSR)</td><td>30</td></tr>
+<tr><td>12. «Carrefour à sens giratoire» (2.41.1; art. 27, al. 1, LCR et art. 24, al. 4, OSR)</td><td>30</td></tr>
+<tr><td>13. «Interdiction d’obliquer à droite» (2.42; art. 27, al. 1, LCR et art. 25, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>14. «Interdiction d’obliquer à gauche» (2.43; art. 27, al. 1, LCR et art. 25, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>15. «Interdiction de faire demi-tour» (2.46; art. 27, al. 1, LCR et art. 27, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>16. «Piste cyclable» (2.60; art. 27, al. 1, LCR et art. 33, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>17. «Zone de rencontre» (2.59.5; art. 27, al. 1, LCR et art. 22*b*, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>18. «Zone piétonne» (2.59.3; art. 27, al. 1, LCR et art. 22*c*, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>612. 1. Utiliser un chemin pour piétons sans descendre de la machine (art. 33, al. 2, OSR)</td><td>30</td></tr>
+<tr><td>2. Utiliser la piste cyclable à contresens (art. 33 et 74*a*, al. 6, OSR)</td><td>30</td></tr>
+<tr><td>613. Utiliser la bande cyclable à contresens (art. 33 et 74*a*, al. 6, OSR)</td><td>30</td></tr>
+<tr><td>614. Ne pas s’arrêter complètement à un signal «Stop»; (Stop coulé) (3.01; art. 27, al. 1, LCR et art. 36, al. 1, OSR)</td><td>30</td></tr>
+<tr><td>615. 1. Ne pas observer un signal lumineux (art. 27, al. 1, LCR, art. 68 et 69, al. 3, OSR)</td><td>60</td></tr>
+<tr><td>2. Ne pas observer un «Signal à feu clignotant alternativement» (3.20) ou un «Signal à feu clignotant simple» (3.21; art. 28 LCR et art. 68, al. 1<sup>bis</sup> et 93, al. 2, OSR)</td><td>60</td></tr>
+<tr><td>616. 1. Enfreindre l’ordre de présélection en n’observant pas la flèche de direction marquée sur la chaussée ni la flèche de la signalisation lumineuse (art. 27, al. 1, et art. 36, al. 1, LCR, art. 68, al. 1, et art. 74, al. 2, OSR)</td><td>30</td></tr>
+<tr><td>2. Ne pas poursuivre sa route dans la direction indiquée par la flèche (art. 27, al. 1, LCR et art. 74, al. 2, OSR)</td><td>30</td></tr>
+<tr><td>617. 1. Omettre de faire un signe de la main ou d’annoncer le changement de direction avant d’obliquer à droite (art. 39, al. 1, LCR; art. 28, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>2. Omettre de faire un signe de la main ou d’annoncer le changement de direction avant d’obliquer à gauche (art. 39, al. 1, LCR; art. 28, al. 1, OCR)</td><td>30</td></tr>
+<tr><td>3. Omettre de faire un signe de la main ou d’annoncer le changement de direction avant de dépasser (art. 28, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>618. Empiéter sur une ligne de sécurité ou la franchir, dans une localité (art. 34, al. 2, LCR et art. 73, al. 6, let. a, OSR)</td><td>40</td></tr>
+<tr><td>619. Circuler sur une voie réservée aux bus (art. 27, al. 1, et 43, al. 1, LCR et art. 74*b* OSR)</td><td>30</td></tr>
+<tr><td>620. Circuler sur un chemin qui ne se prête pas ou n’est manifestement pas destiné à la circulation des cycles, des cyclomoteurs et des vélos-taxis électriques (art. 43, al. 1, LCR)</td><td>30</td></tr>
+<tr><td>621. Ne pas utiliser (art. 46, al. 1, LCR)</td><td></td></tr>
+<tr><td>1. la piste cyclable</td><td>30</td></tr>
+<tr><td>2. la bande cyclable</td><td>30</td></tr>
+<tr><td>622. Garer un cycle, un cyclomoteur ou un vélo-taxi électrique à un endroit où l’arrêt ou le parcage est interdit sur la base</td><td></td></tr>
+<tr><td>1. des règles générales de circulation (art. 37, al. 2, LCR; art. 18, al. 2, let. a à f, et al. 3, 19, al. 2, 25, al. 5, et 41, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>2. des signaux (art. 19, al. 2, let. a, OCR et art. 30 OSR)</td><td>20</td></tr>
+<tr><td>3. des marquages (art. 18, al. 3, 19, al. 2, let. a et d, et 41, al. 3, OCR; art. 34, al. 1, 78, 79, al. 3 à 5, et 79*a* OSR)</td><td>20</td></tr>
+<tr><td>623. Ne pas accorder la priorité à un passage pour piétons (art. 33 LCR, art. 6, al. 1 et 2, OCR)</td><td>40</td></tr>
+<tr><td>624. Utiliser un téléphone sans dispositif «mains libres» pendant la course (art. 3, al. 1, OCR)</td><td>40</td></tr>
+<tr><td>7. Cyclistes, cyclomotoristes et conducteurs de vélos-taxis électriques; prescriptions sur la construction et l’équipement et dispositions administratives</td><td></td></tr>
+<tr><td>700. 1. ...</td><td></td></tr>
+<tr><td>2. Utiliser un cyclomoteur ou un vélo-taxi électrique dépourvu de la plaque de contrôle ou d’une vignette valable, lorsqu’une assurance a été conclue (art. 90 et 94, al. 6, OAC; art. 176, al. 4, OETV)</td><td>60</td></tr>
+<tr><td>3. Utiliser un cyclomoteur ou un vélo-taxi électrique sans le permis de circulation requis (art. 90 OAC; art. 96 LCR)</td><td>80</td></tr>
+<tr><td>4. Utiliser un cyclomoteur qui n’est pas assuré (art. 90 OAC)</td><td>120</td></tr>
+<tr><td>701. 1. ...</td><td></td></tr>
+<tr><td>2. Permettre à un tiers de faire usage d’un cyclomoteur ou d’un vélo-taxi électrique dépourvu de la plaque de contrôle ou d’une vignette valable, lorsqu’une assurance a été conclue (art. 90 OAC et art. 176, al. 4, OETV)</td><td>60</td></tr>
+<tr><td>3. Permettre à un tiers de faire usage d’un cyclomoteur ou d’un vélo-taxi électrique sans le permis de circulation requis (art. 90 OAC; art. 96 LCR)</td><td>80</td></tr>
+<tr><td>4. Permettre à un tiers de faire usage d’un cyclomoteur qui n’est pas assuré (art. 90 OAC)</td><td>120</td></tr>
+<tr><td>702. Circuler avec une plaque de contrôle qui n’est pas bien lisible (art. 57, al. 2, OCR et art. 176, al. 4, OETV)</td><td>20</td></tr>
+<tr><td>703. Circuler sans</td><td></td></tr>
+<tr><td>1. la sonnette prescrite pour les cyclomoteurs (art. 178*b*, al. 1, 179*b*, al. 2, et 181*a*, al. 4, OETV)</td><td>20</td></tr>
+<tr><td>2. catadioptre fixé à demeure (art. 178*a*, al. 2, et 217, al. 1, OETV)</td><td>40</td></tr>
+<tr><td>3. le miroir rétroviseur prescrit pour les cyclomoteurs (art. 179*b*, al. 1, OETV)</td><td>20</td></tr>
+<tr><td>704. Pneu dont l’état est défectueux (art. 175, al. 1, 178, al. 2, et 214, al. 1, OETV) amende par roue</td><td>20</td></tr>
+<tr><td>8. Passagers</td><td></td></tr>
+<tr><td>800. 1. Passager ne portant pas la ceinture de sécurité (art. 3*a*, al. 1, OCR)</td><td>60</td></tr>
+<tr><td>2. Passager d’un motocycle, d’un quadricycle léger, d’un quadricycle ou d’un tricycle à moteur ne portant pas le casque (art. 3*b* OCR)</td><td>60</td></tr>
+<tr><td>801. 1. Passager poussant un véhicule ou un objet (art. 71, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>2. Passager tirant un véhicule ou un objet (art. 71, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>3. Passager remorquant un véhicule ou un objet (art. 71, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>9. Piétons et utilisateurs d’engins assimilés à des véhicules</td><td></td></tr>
+<tr><td>900. Ne pas emprunter le trottoir (art. 49, al. 1, LCR)</td><td>10</td></tr>
+<tr><td>901. Ne pas utiliser (art. 47, al. 1, et 50*a*, al. 1, OCR)</td><td></td></tr>
+<tr><td>1. un passage pour piétons se trouvant à une distance de moins de 50 m</td><td>10</td></tr>
+<tr><td>2. une passerelle se trouvant à une distance de moins de 50 m</td><td>10</td></tr>
+<tr><td>3. un passage souterrain se trouvant à une distance de moins de 50 m</td><td>10</td></tr>
+<tr><td>902. Ne pas observer le signal</td><td></td></tr>
+<tr><td>1. «Accès interdit aux piétons» (2.15; art. 19, al. 3, OSR)</td><td>20</td></tr>
+<tr><td>2. «Chemin pour piétons» (2.61; art. 33, al. 2, OSR)</td><td>10</td></tr>
+<tr><td>903. Ne pas observer</td><td></td></tr>
+<tr><td>1. un signal lumineux (art. 27, al. 1, LCR, art. 50*a*, al. 1, OCR et art. 68 OSR)</td><td>20</td></tr>
+<tr><td>2. un «Signal à feux clignotant alternativement» (3.20) ou un «Signal à feu clignotant simple» (3.21; art. 28 LCR, art. 68, al. 1<sup>bis</sup>, et 93, al. 2, ORS et art. 50*a*, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>904. S’engager sur</td><td></td></tr>
+<tr><td>1. une autoroute (art. 43, al. 3, LCR, art. 36, al. 3, et 50*a*, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>2. une semi-autoroute (art. 43, al. 3, LCR, art. 36, al. 3, et 50*a*, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>905. Contourner, passer par-dessus ou par-dessous les barrières ou les semi-barrières (art. 24, al. 3, et 50*a*, al. 1, OCR)</td><td>20</td></tr>
+<tr><td>906. Piéton utilisant une piste cyclable</td><td></td></tr>
+<tr><td>1. lorsqu’il dispose d’un trottoir (art. 40, al. 2, OCR)</td><td>10</td></tr>
+<tr><td>2. lorsqu’il dispose d’un chemin pour piétons (art. 40, al. 2, OCR)</td><td>10</td></tr>
+<tr><td>907. 1. Circuler sans feu (art. 50*a*, al. 4, OCR)</td><td>20</td></tr>
+<tr><td>2. Utiliser les aires de circulation destinées aux piétons de manière à gêner les autres usagers (art. 50, al. 2, OCR)</td><td>20</td></tr>
+<tr><td>3. Utiliser la chaussée des routes secondaires à faible circulation de manière à gêner les autres usagers (art. 50, al. 2, OCR)</td><td>20</td></tr>
+<tr><td>4. Ne pas observer le signal «Circulation interdite aux engins assimilés à des véhicules» (2.15.3; art. 19, al. 5, OSR)</td><td>20</td></tr>
+<tr><td>5. Utiliser des engins assimilés à des véhicules sur des aires de circulation qui leur sont interdites (art. 50, al. 1 et 2, OCR)</td><td>20</td></tr>
+<tr><td>6. Ne pas respecter la priorité des piétons (art. 50*a*, al. 2, OCR)</td><td>30</td></tr>
+</table>
+
+[^annex1-lvlu1-lvlu1-2]: O du 13 novembre 1962 sur les règles de la circulation routière ([RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420))
+[^annex1-lvlu1-lvlu1-3]: O du 5 septembre 1979 sur la signalisation routière ([RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961))
+[^annex1-lvlu1-lvlu1-4]: O du 19 juin 1995 sur les chauffeurs ([RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)).
+[^annex1-lvlu1-lvlu1-5]: O du 6 mai 1981 sur la durée du travail et du repos des conducteurs de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes ([RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)).
+[^annex1-lvlu1-lvlu1-6]: O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
+[^annex1-lvlu1-lvlu1-7]: O du 27 oct. 1976 réglant l’admission à la circulation routière ([RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)).
+[^annex1-lvlu1-lvlu1-8]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425))
+[^annex1-lvlu1-lvlu1-9]: Le texte des prescriptions «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» peut être consulté sous www.astra.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit international
+
+Annexe 2*[^t-2]*
+
+(art. 1, let. b)
+
+## Liste des amendes 2
+
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)) et du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), par le ch. II de l’O du 16 avr. 2020 ([RO 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), par l’erratum du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et par l’art. 14 ch. 1 de l’O du 19 juin 2020 (Ordonnance COVID-19 situation particulière), en vigueur depuis le 22 juin 2020 ([RO 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)).
+
+### Contraventions à d’autres actes normatifs
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>I. Loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)**[^annex2-lvlu1-lvlu1-1]**</td><td></td></tr>
+<tr><td>1001. Ne pas collaborer à l’obtention de documents de voyage (art. 120, al. 1, let. e, LEI)</td><td>100</td></tr>
+<tr><td>II. Loi du 26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]**</td><td></td></tr>
+<tr><td>2001. Violer l’obligation d’informer en refusant de donner un renseignement (art. 116, let. a, LAsi)</td><td>200</td></tr>
+<tr><td>III. Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)**[^annex2-lvlu1-lvlu1-3]**</td><td></td></tr>
+<tr><td>3001. Violer l’obligation d’indiquer les prix ou le prix unitaire (art. 24, al. 1, let. a, et al. 2, LCD)</td><td>200</td></tr>
+<tr><td>IV. Loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)**[^annex2-lvlu1-lvlu1-4]**</td><td>[tab]</td></tr>
+<tr><td>4001. Violer l’interdiction de cueillir, déterrer, arracher, emmener, mettre en vente, vendre, acheter ou détruire au maximum 5 plantes sauvages des espèces désignées à l’annexe 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a*, al. 1, let. b, LPN, art. 20, al. 1 et 5, OPN)</td><td>100</td></tr>
+<tr><td>V. Loi fédérale du 20 juin 1997 sur les armes (LArm)**[^annex2-lvlu1-lvlu1-6]**</td><td></td></tr>
+<tr><td>5001. Omettre de conserver sur soi le permis de port d’armes (art. 34, al. 1, let. h, LArm)</td><td>20</td></tr>
+<tr><td>5002. Transporter une arme à feu sans avoir séparé l’arme des munitions (art. 34, al. 1, let. n, LArm)</td><td>300</td></tr>
+<tr><td>VI. Loi fédérale du 19 mars 2010 sur la vignette autoroutière (LVA)**[^annex2-lvlu1-lvlu1-7]**</td><td></td></tr>
+<tr><td>6001. Emprunter une route nationale soumise à redevance sans avoir acheté la vignette nécessaire pour la période de taxation (art. 14, al. 1, en rel. avec les art. 7 et 8 LVA)</td><td>200</td></tr>
+<tr><td>6002. Emprunter une route nationale soumise à redevance sans avoir collé la vignette nécessaire pour la période de taxation directement sur le véhicule ou à l’emplacement prescrit ou en ayant collé une vignette endommagée (art. 14, al. 1, en rel. avec les art. 7 et 8 LVA)</td><td>200</td></tr>
+<tr><td>VII. Loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)**[^annex2-lvlu1-lvlu1-8]**</td><td></td></tr>
+<tr><td>**1.** **Dispositions administratives**</td><td>[tab]</td></tr>
+<tr><td>7100. Ne pas être muni des documents exigés (art. 45 et 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
+<tr><td>1. Ne pas être muni du permis de conduire exigé (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
+<tr><td>2. Ne pas être muni du permis de navigation ou du certificat d’admission (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
+<tr><td>3. Ne pas être muni de la fiche d’entretien du système antipollution (art. 48 LNI, art. 14, al. 3, DE-OMBat[^annex2-lvlu1-lvlu1-11])</td><td>20</td></tr>
+<tr><td>7101. 1. Ne pas annoncer dans les délais tout fait qui nécessite une modification ou un complément au permis, qui en entraîne le remplacement ou le réétablissement (art. 48 LNI, art. 85, al. 2, et 98, al. 2, ONI, art. 14.07 RNC)</td><td>20</td></tr>
+<tr><td>2. Ne pas annoncer dans les délais un changement de domicile au canton de son nouveau domicile (art. 48 LNI, art. 84, al. 3, ONI, art. 12.07 RNC)</td><td>20</td></tr>
+<tr><td>7102. Conduire ou prêter un bateau soumis à l’obligation de signes distinctifs, mais non à l’assurance obligatoire, alors que le permis de navigation ou le certificat d’admission fait défaut ou que le bateau est dépourvu de signes distinctifs ou muni de faux signes distinctifs (art 48 et 46 LNI, art. 16, al. 1, 92 et 157, ONI, art. 2.01 et 14.01, al. 1 et 4, RNC)</td><td>100</td></tr>
+<tr><td>7103. Ne pas appliquer les signes distinctifs ou ne pas le faire conformément aux prescriptions (art. 48 LNI, art. 16, al. 1, et 17, ONI, art. 2.01 et 2.02 RNC)</td><td>40</td></tr>
+<tr><td>7104. Ne pas munir des inscriptions prescrites les bateaux dont la longueur est inférieure à 2,50 m, les engins de plage et autres bateaux semblables, les bateaux à pagaie, les bateaux de compétition à l’aviron, les planches à voile et les kitesurfs et autres bateaux non soumis à l’obligation de signes distinctifs ou ne pas le faire conformément aux prescriptions (art. 48 LNI, art. 16, al. 3, et 163, al. 3, ONI, art. 2.01, al. 1, RNC)</td><td>40</td></tr>
+<tr><td>7105. Mettre en service ou stationner sans autorisation un bateau qui a son port d’attache à l’étranger (art. 46 LNI, art. 105 ONI)</td><td>50</td></tr>
+<tr><td>7106. Dépasser les délais prescrits pour le contrôle périodique subséquent obligatoire des gaz d’échappement ou le contrôle périodique des systèmes de filtres à particules de plus de 3 mois, mais de moins de 6 mois (art. 48 LNI, art. 17, let. a, ch. 4, OMBat[^annex2-lvlu1-lvlu1-12], art. 8, al. 2, DE‑OMBat)</td><td>100</td></tr>
+<tr><td>2. Règles de stationnement</td><td></td></tr>
+<tr><td>7200. Stationner</td><td></td></tr>
+<tr><td>1. dans les champs de végétation aquatique tels que roseaux, joncs et nénuphars (art. 48 LNI, art. 59, al. 1, ONI)</td><td>100</td></tr>
+<tr><td>2. dans les passages étroits, dans les chenaux, à proximité et sous les ponts (art. 48 LNI, art. 70 ONI, art. 10.12 RNC)</td><td>100</td></tr>
+<tr><td>7201. S’amarrer aux signaux de la voie navigable (art. 40, al. 1, LNI en rel. avec l’art. 9, al. 1, ONI ou l’art 1.08, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>7202. Ne pas observer les signaux d’interdiction A7 à A9 de l’annexe 4 ONI ou A.4 à A.6 de l’annexe B RNC (art. 40, al. 1, LNI, art. 36, al. 1, ONI, art. 5.01, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>7203. Dépasser le temps de stationnement signalisé (art. 40, al. 1, LNI en rel. avec l’art. 36, al. 1, ONI ou l’art. 5.01, al. 1, RNC)</td><td></td></tr>
+<tr><td>1. de moins de 2 heures</td><td>40</td></tr>
+<tr><td>2. de plus de 2 heures, mais de moins de 4 heures</td><td>60</td></tr>
+<tr><td>3. de plus de 4 heures, mais de moins de 10 heures</td><td>100</td></tr>
+<tr><td>7204. Stationner un bateau à l’extérieur des lieux de stationnement autorisés pendant 24 à 48 heures sans qu’une personne ne se trouve à bord (art. 40, al. 1, LNI, art. 59, al. 4, ONI)</td><td>100</td></tr>
+<tr><td>7205. Stationner sans droit un bateau en dehors des ports, des débarcadères ou de toute autre installation pour la navigation pendant 24 à 48 heures (art. 40, al. 1, LNI, art. 7.01, al. 1, RNC)</td><td>100</td></tr>
+<tr><td>3. Signaux</td><td></td></tr>
+<tr><td>7300. Ne pas porter les signaux visuels prescrits ou porter des signaux visuels interdits lors du stationnement (art. 40, al. 1, LNI, art. 18, 21, al. 1, 26, 28, 29 et 71, ONI, ou art. 3.03 et 3.08 RNC)</td><td>100</td></tr>
+<tr><td>7301. Pêche professionnelle</td><td></td></tr>
+<tr><td>1. Ne pas porter le ballon jaune ou le feu prescrit pendant la pose et le relèvement des filets (art. 40, al. 1, LNI, art. 31, al. 1, ONI)</td><td>50</td></tr>
+<tr><td>2. Ne pas porter le ballon blanc prescrit pendant la pêche (art. 40, al. 1, LNI, art. 31, al. 1, ONI)</td><td>50</td></tr>
+<tr><td>3. Porter le ballon jaune ou le feu prescrit en dehors des périodes de pose et de relèvement des filets (art. 40, al. 1, LNI, art. 31, al. 1, ONI)</td><td>50</td></tr>
+<tr><td>4. Porter le ballon blanc prescrit en dehors des périodes de pêche (art. 40, al. 1, LNI, art. 31, al. 1, ONI, art. 3.10, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>7302. Pêche à la traîne</td><td>50</td></tr>
+<tr><td>1. Ne pas porter le ballon blanc prescrit pendant la pêche (art. 40, al. 1, LNI, art. 31, al. 2, ONI)</td><td>50</td></tr>
+<tr><td>2. Ne pas porter le pavillon blanc prescrit pendant la pêche (art. 40, al. 1, LNI, art. 3.10, al. 2, RNC)</td><td>50</td></tr>
+<tr><td>3. Porter le ballon blanc en dehors de la pêche (art. 40, al. 1, LNI, art. 31, al. 2, ONI)</td><td>50</td></tr>
+<tr><td>4. Porter le pavillon blanc en dehors de la pêche (art. 40, al. 1, LNI, art. 3.10, al. 2, RNC)</td><td>50</td></tr>
+<tr><td>7303. Ne pas hisser le panneau prescrit (lettre «A» du Code international de signaux) lors de plongée subaquatique ou ne pas l’éclairer de manière efficace de nuit (art. 40, al. 1, LNI en rel. avec l’art. 32 ONI, art. 3.13 RNC)</td><td>50</td></tr>
+<tr><td>4. Règles de route</td><td></td></tr>
+<tr><td>7401. Ne pas observer les distances de sécurité par rapport aux bateaux prioritaires et aux bateaux des pêcheurs professionnels portant les signaux prescrits (art. 40, al. 1, LNI, art. 48 ONI, art. 6.06 RNC)</td><td>50</td></tr>
+<tr><td>7402. Navigation dans la zone riveraine</td><td></td></tr>
+<tr><td>1. Naviguer sans droit en bateau à moteur en longeant la rive dans la zone riveraine intérieure ou à moins de 150 m de la rive (art. 40, al. 1, LNI, art. 53, al. 1, let. a, ONI, art. 6.11, al. 1, RNC)</td><td>100</td></tr>
+<tr><td>2. Naviguer sans droit en bateau motorisé en longeant la rive dans la zone riveraine, mais à plus de 150 m de la rive (art. 40, al. 1, LNI, art. 6.11, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>3. Dépasser de 15 km/h au plus la vitesse maximale autorisée dans la zone riveraine intérieure ou à moins de 150 m de la rive (art. 40, al. 1, LNI, art. 53, al. 1, let. b, ONI, art. 6.11, al. 1, RNC)</td><td>150</td></tr>
+<tr><td>4. Dépasser de 15 km/h au plus la vitesse maximale autorisée dans la zone riveraine extérieure (art. 40, al. 1, LNI, art. 53, al. 1, let. b, ONI)</td><td>100</td></tr>
+<tr><td>5. Dépasser de 15 km/h au plus la vitesse maximale autorisée dans la zone riveraine, mais à plus de 150 m de la rive (art. 40, al. 1, LNI, art. 6.11, al. 1, RNC)</td><td>100</td></tr>
+<tr><td>6. Naviguer ou se tenir sans droit dans les eaux d’un port (art. 40, al. 1, LNI, art. 52, al. 2, ONI, art. 6.10, al. 3, RNC)</td><td>100</td></tr>
+<tr><td>7. Ne pas observer la distance minimale par rapport aux champs de végétation aquatique tels que roseaux, joncs et nénuphars (art. 40, al. 1, LNI, art. 53, al. 3, ONI)</td><td>100</td></tr>
+<tr><td>7403. Naviguer sur des plans d’eau interdits à toute navigation</td><td></td></tr>
+<tr><td>1. en bateau à voile ou à moteur, planche à voile ou kitesurf (art. 40, al. 1, LNI, art. 37, al. 1, ONI, art. 5.01, al. 1, et annexe B, RNC)</td><td>100</td></tr>
+<tr><td>2. en bateaux à rames, bateau pneumatique, bateau à pagaie ou engin de plage (art. 40, al. 1, LNI, art. 37, al. 1, ONI, art. 5.01, al. 1 et annexe B, RNC)</td><td>50</td></tr>
+<tr><td>7404. Naviguer sur des plans d’eau interdits à certaines catégories de bateaux seulement</td><td></td></tr>
+<tr><td>1. en bateau à voile ou à moteur, planche à voile ou kitesurf (art. 40, al. 1, LNI, art. 37, al. 2, ONI, art. 5.01, al. 1, annexe B et art. 16.02, al. 5, RNC)</td><td>100</td></tr>
+<tr><td>2. en bateaux à rames, bateau pneumatique, bateau à pagaie ou engin de plage (art. 40, al. 1, LNI, art. 37, al. 2, ONI, art. 5.01, al. 1, annexe B et art. 16.02, al. 5, RNC)</td><td>50</td></tr>
+<tr><td>7405. Naviguer avec des bateaux dont la longueur est inférieure à 2,50 m, des engins de plage et autres bateaux semblables ou des bateaux non soumis à l’obligation de signes distinctifs hors de la zone riveraine intérieure ou à plus de 150 m des bateaux qui les accompagnent (art. 40, al. 1, LNI, en rel. avec l’art. 42 ONI)</td><td>50</td></tr>
+<tr><td>7406. Utiliser des skis nautiques ou des engins analogues</td><td></td></tr>
+<tr><td>1. à des heures interdites (art. 40, al. 1, LNI, art. 54, al. 1, ONI, art. 6.15, al. 1, RNC)</td><td>100</td></tr>
+<tr><td>2. dans la zone riveraine extérieure (art. 40, al. 1, LNI, art. 54, al. 2, ONI)</td><td>100</td></tr>
+<tr><td>3. dans la zone riveraine intérieure mais à plus de 150 m de la rive (art. 40, al. 1, LNI, art. 6.15, al. 2, RNC)</td><td>100</td></tr>
+<tr><td>4. en remorquant simultanément plus de deux skieurs nautiques ou engins (art. 40, al. 1, LNI, art. 54, al. 5, ONI, art. 6.15, al. 7, RNC)</td><td>100</td></tr>
+<tr><td>5. en traînant une corde à vide ou une corde élastique (art. 40, al. 1, LNI, art. 54, al. 4, ONI, art. 6.15, al. 4, RNC)</td><td>60</td></tr>
+<tr><td>6. utiliser sans droit des scooters aquatiques, des jetskis et autres engins flottants similaires (art. 40, al. 1, LNI, prescriptions cantonales ou art. 6.15, al. 7, RNC)</td><td>100</td></tr>
+<tr><td>7407. Ne pas être muni des équipements et engins de sauvetage prescrits ou être muni d’équipements et d’engins hors d’usage (art. 48 LNI, art. 131, al. 2, 134, al. 4, et 134*a* ONI, art. 13.19 et 13.20 RNC)</td><td></td></tr>
+<tr><td>[tab] 1. par équipement</td><td>[tab] 20</td></tr>
+<tr><td>[tab] 2. par engin de sauvetage</td><td>[tab] 50</td></tr>
+<tr><td>7408. Emmener un nombre de personnes supérieur à celui mentionné dans le permis de navigation (art. 46 LNI, art. 7, al. 1 et 3, ONI, art. 1.05, al. 3, RNC)</td><td>60</td></tr>
+<tr><td>7409. Ne pas observer les signaux d’interdiction A1 à A6 et A10 de l’annexe 4 ONI ou A.1 à A.3 et A.7 à A.12 de l’annexe B RNC (art. 40, al. 1, LNI, art. 36, al. 1, ONI, art. 5.01, al. 1, RNC)</td><td>100</td></tr>
+<tr><td>7410. Dépasser de 15 km/h au plus la vitesse maximale signalisée ou la vitesse maximale autorisée sur le lac de Constance (art. 40, al. 1, LNI, art. 36, al. 1, ONI, art. 5.01 et 6.02 RNC)</td><td>100</td></tr>
+<tr><td>7411. Dépasser de 15 km/h au plus la vitesse maximale autorisée par le canton (art. 3, al. 2, et 40 LNI)</td><td>100</td></tr>
+<tr><td>5. Baignade et plongée</td><td></td></tr>
+<tr><td>7501. Baignade</td><td></td></tr>
+<tr><td>1. Se baigner en dehors des plans d’eau autorisés par les autorités et signalés comme tels ou en dehors des bains publics, dans un rayon de 100 m autour des entrées des ports et des débarcadères des bateaux à passagers (art. 40, al. 1, LNI, art. 77, al. 1, ONI, art. 11.04, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>2. Se baigner en dehors des plans d’eau autorisés par les autorités et signalés comme tels ou en dehors des bains publics, dans un rayon de 100 m autour des entrées des ports et des débarcadères des bateaux à passagers lorsque la navigation s’en trouve entravée ou gênée (art. 40, al. 1, LNI, art. 77, al. 1, ONI, art. 11.04, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>7502. S’approcher de bâtiments en marche (art. 40, al. 1, LNI, art. 77, al. 2, ONI, art. 11.04, al. 3, RNC)</td><td>50</td></tr>
+<tr><td>7503. Pratiquer la plongée subaquatique sur la trajectoire des bateaux en service régulier, dans les passages étroits, aux entrées des ports et à proximité, à proximité des places d’amarrage officiellement autorisées ou dans un rayon de 100 m autour des débarcadères autorisés par les autorités pour les bateaux en service régulier (art. 40, al. 1, LNI en rel. avec l’art. 77, al. 3, ONI)</td><td>100</td></tr>
+<tr><td>7504. Plonger dans les voies navigables marquées (art. 40, al. 1, LNI, art. 11.04, al. 2, RNC)</td><td>100</td></tr>
+<tr><td>7505. Ne pas observer le signal d’interdiction A14 figurant à l’annexe 4 ONI (art. 40, al. 1, LNI en rel. avec l’art. 36, al. 1, ONI)</td><td>50</td></tr>
+<tr><td>7506. Utiliser sans droit un scooter de plongée (art. 40, al. 1, LNI, art. 54*a*, al. 1 et 2, ONI)</td><td>100</td></tr>
+<tr><td>VIII. Loi fédérale du 3 octobre 1951 sur les stupéfiants (LStup)**[^annex2-lvlu1-lvlu1-13]**</td><td></td></tr>
+<tr><td>8001. Consommer illicitement et intentionnellement des stupéfiants ayant des effets de type cannabique (art. 19*a*, ch. 1, LStup)</td><td>100</td></tr>
+<tr><td>IX. Loi du 7 octobre 1983 sur la protection de l’environnement (LPE)**[^annex2-lvlu1-lvlu1-14]**</td><td></td></tr>
+<tr><td>9001. Utiliser un point de collecte des déchets public en dehors des horaires prescrits (art. 61, al. 1, let. a, art. 12, al. 1, let. c, LPE)</td><td>50</td></tr>
+<tr><td>9002. Ne pas être muni du document de suivi lors du transport de déchets (art. 61, al. 1, let. k, LPE, art. 31, al. 4<sup>bis</sup> et 6, OMoD[^annex2-lvlu1-lvlu1-15])</td><td>100</td></tr>
+<tr><td>X. Loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif**[^annex2-lvlu1-lvlu1-16]**</td><td></td></tr>
+<tr><td>10001. Fumer dans des espaces fermés accessibles au public (art. 2, al. 1, et art. 5, al. 1, let. a, de la loi sur la protection contre le tabagisme passif)</td><td>80</td></tr>
+<tr><td>**XI.** **Loi du 4 octobre 1991 sur les forêts (LFo)**[^annex2-lvlu1-lvlu1-17]</td><td>[tab]</td></tr>
+<tr><td>11001. Ne pas observer les limitations d’accès dans certaines zones forestières (art. 14, al. 2, let. a, et 43, al. 1, let. c, LFo)</td><td>100</td></tr>
+<tr><td>11002. Circuler sans droit en forêt et sur des routes forestières avec des véhicules à moteur (art. 15 et 43, al. 1, let. d, LFo)</td><td>100</td></tr>
+<tr><td>XII. Loi du 20 juin 1986 sur la chasse (LChP)**[^annex2-lvlu1-lvlu1-18]**</td><td>[tab]</td></tr>
+<tr><td>12001. Pénétrer sans motif suffisant sur le territoire de chasse muni d’une arme de tir (art. 18, al. 1, let. b, et al. 3, LChP)</td><td>200</td></tr>
+<tr><td>12002. Laisser chasser des chiens (art. 18, al. 1, let. d, et al. 3, LChP)</td><td>150</td></tr>
+<tr><td>12003. Pénétrer ou circuler dans les zones de tranquillité pour la faune sauvage en dehors des chemins et itinéraires qu’il est autorisé d’y emprunter (art. 18, al. 1, let. e, et al. 3, LChP, art. 4<sup>ter</sup> OChP[^annex2-lvlu1-lvlu1-19])</td><td>150</td></tr>
+<tr><td>12004. Ne pas observer l’obligation de tenir les chiens en laisse dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. c, ODF[^annex2-lvlu1-lvlu1-20] et dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. c, OROEM[^annex2-lvlu1-lvlu1-21])</td><td>150</td></tr>
+<tr><td>12005. Camper librement dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. e, ODF)</td><td>150</td></tr>
+<tr><td>12006. Faire circuler des aéronefs civils sans occupants dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let.f<sup>bis</sup>, OROEM) et dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. f<sup>bis</sup>, OROEM)</td><td>150</td></tr>
+<tr><td>12007. Pratiquer le ski en dehors des pistes et itinéraires balisés dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. g, ODF)</td><td>150</td></tr>
+<tr><td>12008. Circuler sans droit sur des routes d’alpage et des routes forestières et utiliser des véhicules en dehors des routes, des chemins forestiers et de ceux de campagne dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. h, ODF)</td><td>150</td></tr>
+<tr><td>12009. Utiliser des planches à voile tirées par des cerfs-volants ou des engins du même type et faire circuler des modèles réduits d’engins flottants dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. g, OROEM)</td><td>150</td></tr>
+<tr><td>12010. Affourager des animaux sauvages et installer des saunières dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. b<sup>bis</sup>, ODF) et dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. b<sup>bis</sup>, OROEM)</td><td>150</td></tr>
+<tr><td>12011. Se livrer à la chasse sans avoir sur soi les pièces de légitimation prescrites (art. 18, al. 4, LChP), par pièce manquante</td><td>20</td></tr>
+<tr><td>**XIII.** **Loi fédérale du 21 juin 1991 sur la pêche (LFSP)**[^annex2-lvlu1-lvlu1-22]</td><td></td></tr>
+<tr><td>13001. Pêcher des poissons ou des écrevisses pendant les périodes de protection (art. 17, al. 1, let. a, et al. 3, LFSP, art. 1, al. 1 à 3, OLFP[^annex2-lvlu1-lvlu1-23]), par poisson ou écrevisse</td><td>100</td></tr>
+<tr><td>13002. Ne pas respecter la longueur minimale des poissons ou des écrevisses pêchés (art. 17, al. 1, let. a, et al. 3, LFSP, art. 2, al. 1 et 4, OLFP), par poisson ou écrevisse</td><td>100</td></tr>
+<tr><td>13003. Ne pas respecter les interdictions de capture (art. 17, al. 1, let. a, et al. 3, LFSP, art. 2*a*, OLFP), par poisson ou écrevisse</td><td>150</td></tr>
+<tr><td>**XIV.** **Loi fédérale du 23 mars 2001 sur le commerce itinérant**[^annex2-lvlu1-lvlu1-24]</td><td></td></tr>
+<tr><td>14001. Pratiquer le commerce itinérant sans autorisation (art. 14, al. 1, let. b, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
+<tr><td>14002. Offrir des marchandises ou des services en violation des interdictions ou restrictions prévues (art. 14, al. 1, let. e, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
+<tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
+<tr><td>**XV.** **Ordonnance 2 COVID-19 du 13 mars 2020**[^annex2-lvlu1-lvlu1-25]</td><td></td></tr>
+<tr><td>15001. ...</td><td></td></tr>
+<tr><td>15002. ...</td><td></td></tr>
+<tr><td>15003. Infractions aux restrictions en matière de trafic transfrontalier des personnes et des marchandises aux postes frontières (art. 4, al. 4, et 10f, al. 2, let. c, de l’ordonnance 2 COVID-19).</td><td>100</td></tr>
+<tr><td>15004. Infractions à l’interdiction du tourisme d’achat (art. 3a et 10f, al. 2, let. d, de l’ordonnance 2 COVID-19)</td><td>100</td></tr>
+</table>
+
+[^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^annex2-lvlu1-lvlu1-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^annex2-lvlu1-lvlu1-3]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^annex2-lvlu1-lvlu1-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex2-lvlu1-lvlu1-5]: O du 16 janvier 1991 sur la protection de la nature et du paysage ([RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
+[^annex2-lvlu1-lvlu1-6]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex2-lvlu1-lvlu1-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^annex2-lvlu1-lvlu1-8]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^annex2-lvlu1-lvlu1-9]: O du 8 novembre 1978 sur la navigation intérieure ([RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)**)**
+[^annex2-lvlu1-lvlu1-10]: Règlement de la navigation sur le lac de Constance du 17 mars 1976 ([RS 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
+[^annex2-lvlu1-lvlu1-11]: Dispositions d’exécution du DETEC du 28 août 2017 de l’ordonnance sur les exigences applicables aux moteurs de bateaux dans les eaux suisses ([RS 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
+[^annex2-lvlu1-lvlu1-12]: O du 14 octobre 2015 sur les moteurs de bateaux ([RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
+[^annex2-lvlu1-lvlu1-13]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex2-lvlu1-lvlu1-14]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex2-lvlu1-lvlu1-15]: O du 22 juin 2005 sur les mouvements de déchets ([RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
+[^annex2-lvlu1-lvlu1-16]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^annex2-lvlu1-lvlu1-17]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^annex2-lvlu1-lvlu1-18]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^annex2-lvlu1-lvlu1-19]: O du 29 février 1988 sur la chasse ([RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
+[^annex2-lvlu1-lvlu1-20]: O du 30 septembre 1991 concernant les districts francs fédéraux ([RS 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
+[^annex2-lvlu1-lvlu1-21]: O du 21 janvier 1991 sur les réserves d’oiseaux d’eau et de migrateurs d’importance internationale et nationale ([RS 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
+[^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex2-lvlu1-lvlu1-23]: O du 24 novembre 1993 relative à la loi fédérale sur la pêche ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
+[^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^annex2-lvlu1-lvlu1-25]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+
+Annexe 3
+
+(art. 4)
+
+## Modification d’autres actes
+
+Les actes suivants sont modifiés comme suit:
+
+...[^annex3-lvlu1-1]
+
+[^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93).

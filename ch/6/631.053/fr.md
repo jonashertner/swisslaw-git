@@ -1,0 +1,173 @@
+---
+sr: "631.053"
+title: "Ordonnance du 4 avril 2007 régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Office fédéral de la douane et de la sécurité des frontières"
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/257"
+language: fr
+version: 2019-01-01
+adopted: 2007-04-04
+in_force: 2007-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-257-20190101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20190101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Administration fédérale des douanes
+
+du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2019)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 108, al. 2, de la loi du 18 mars 2005 sur les douanes (LD)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance (appareils) par l’Administration fédérale des douanes (administration des douanes).
+
+#### Art. 2
+
+**Appareils autorisés**
+
+<sup>1</sup>
+
+L’administration des douanes peut utiliser des appareils qui:
+
+- a. captent et enregistrent des signaux visuels (appareils photos, appareils vidéo, appareils à image thermique, appareils infrarouge ou détecteurs de mouvement);
+- b. captent et enregistrent des signaux acoustiques (appareils d’enregistrement de vidéogrammes ou détecteurs de bruit);
+- c. localisent des véhicules et des objets et enregistrent leur position (radiogoniomètres, systèmes de localisation ou GPS).
+
+<sup>2</sup> Les appareils peuvent être utilisés ensemble.
+
+#### Art. 3
+
+**Utilisation**
+
+<sup>1</sup> Les appareils peuvent être fixes ou mobiles.
+
+<sup>2</sup> Ils peuvent être installés à bord de véhicules routiers, de bateaux, d’aéronefs ou de drones.
+
+#### Art. 4
+
+**Domaine d’utilisation**
+
+<sup>1</sup>
+
+Les appareils visés à l’art. 2, al. 1, let. a à c, peuvent être utilisés:
+
+- a. pour déceler à temps le franchissement illégal de la frontière par des personnes ou des risques pour la sécurité du trafic transfrontière (art. 108, al. 1, let. a, LD), sur le territoire douanier et dans les enclaves douanières suisses;
+- b. pour des recherches de personnes, de véhicules et d’objets (art. 108, al. 1, let. b, LD), sur le territoire douanier et dans les enclaves douanières suisses.
+
+<sup>2</sup>
+
+Les appareils visés à l’art. 2, al. 1, let. a et b, peuvent être utilisés:
+
+- a. pour surveiller des locaux où sont gardées des valeurs (art. 108, al. 1, let. b, LD), à l’intérieur ainsi qu’à l’entrée et à la sortie de ces locaux;
+- b. pour surveiller des locaux où sont gardées des personnes conduites au poste de douane ou arrêtées provisoirement (art. 108, al. 1, let. b, LD), à l’intérieur de ces locaux;
+- c. pour surveiller des dépôts francs sous douane (art. 108, al. 1, let. b, LD), aux accès à ces dépôts.
+
+<sup>3</sup> Les appareils visés à l’art. 2, al. 1, let. a, peuvent être utilisés à partir de drones exclusivement dans la zone proche de la frontière et aux fins prévues à l’al. 1, let. a. Est réputée zone proche de la frontière une bande de chaque côté de 25 km de la frontière douanière.
+
+#### Art. 5
+
+**Principes régissant l’utilisation**
+
+<sup>1</sup> Les appareils mobiles sont utilisés de manière temporaire dans des cas d’espèce.
+
+<sup>2</sup> L’utilisation d’appareils est indiquée par des mesures appropriées. L’indication n’est pas nécessaire si elle met en péril le but d’utilisation.
+
+#### Art. 6
+
+**Compétences en matière d’utilisation**
+
+Le chef d’un arrondissement des douanes, le chef du Corps des gardes-frontière et le chef de la division principale Antifraude douanière décident dans leur domaine de compétence:[^6-1]
+
+- a. de l’utilisation des appareils;
+- b. du genre d’appareils à utiliser.
+
+[^6-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+
+#### Art. 7
+
+**Relevés**
+
+<sup>1</sup> Les relevés peuvent être conservés pendant un mois. A l’issue de ce délai, ils sont détruits.
+
+<sup>2</sup> Les relevés peuvent être conservés au-delà du délai prévu à l’al. 1 si la question de l’ouverture d’une procédure pénale administrative pour infractions douanières ou de leur remise n’est pas tranchée.
+
+#### Art. 8
+
+**Remise de relevés**
+
+<sup>1</sup>
+
+L’administration des douanes peut remettre les relevés dans des cas d’espèce:
+
+- a. en cas de franchissement illégal de la frontière par des personnes, à l’autorité fédérale compétente et aux autorités cantonales compétentes en matière de poursuite pénale;
+- b. en cas de risques pour la sécurité du trafic transfrontière et de surveillance de dépôts francs sous douane, aux autorités administratives fédérales ou cantonales chargées de l’exécution des actes législatifs de la Confédération autres que douaniers et aux autorités fédérales ou cantonales compétentes en matière de poursuite pénale;
+- c. en cas de recherches de personnes, de véhicules et d’objets, aux autorités fédérales ou cantonales compétentes et aux autorités fédérales ou cantonales compétentes en matière de poursuite pénale;
+- d. en cas de surveillance de locaux où sont gardées des valeurs, à l’autorité fédérale compétente et aux autorités fédérales ou cantonales compétentes en matière de poursuite pénale;
+- e. en cas de surveillance de locaux où sont gardées des personnes conduites au poste de douane ou arrêtées provisoirement, aux autorités judiciaires et administratives fédérales ou cantonales habilitées à l’examen des réclamations en vertu de la loi du 14 mars 1958 sur la responsabilité[^8-1] et à la défense dans le cadre de procédures ouvertes contre le personnel de l’administration des douanes.
+
+<sup>2</sup> Elle peut communiquer ou remettre des informations recueillies grâce à l’utilisation d’appareils ainsi que des relevés aux autorités fédérales ou cantonales compétentes en matière de poursuite pénale en vue de l’élucidation de crimes et de délits (art. 112 et 114 LD).
+
+[^8-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 9
+
+**Compétences en matière de remise de relevés**
+
+<sup>1</sup>
+
+Se prononcent sur la remise de relevés aux autorités fédérales ou cantonales, dans leur domaine de compétence respectif:
+
+- a. la Direction générale des douanes;
+- b. les directions d’arrondissement;
+- c. les commandements de région gardes-frontière.
+
+<sup>2</sup> La Direction générale des douanes se prononce sur la remise aux autorités étrangères (art. 113 LD).
+
+#### Art. 9a
+
+**Utilisation d’appareils fixes par les autorités policières**[^9a-1]
+
+<sup>1</sup> Les appareils visés à l’art. 2, al. 1, let. a, qui sont installés de manière fixe peuvent être utilisés par les autorités policières compétentes sur le territoire du canton concerné.
+
+<sup>2</sup> Le traitement des données est régi par le droit cantonal de la protection des données. La conservation et la destruction des données sont régies par l’art. 7.
+
+[^9a-1]: Introduit par l’art. 16 de l’O du 23 août 2017 sur le traitement des données dans l’AFD, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)).
+
+#### Art. 10
+
+**Droits des personnes concernées**
+
+<sup>1</sup> Les droits des personnes concernées par les relevés, en particulier le droit d’accès aux données et le droit à leur destruction, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^10-1] et ses dispositions d’exécution.
+
+<sup>2</sup> Les demandes doivent être présentées à la Direction générale des douanes.
+
+[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 11
+
+**Mesures de sécurité**
+
+Les relevés doivent être conservés en lieu sûr et être protégés contre toute utilisation abusive, contre la destruction ou le vol.
+
+#### Art. 12
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 26 octobre 1994 réglant la surveillance de la frontière verte au moyen d’appareils vidéo[^12-1] est abrogée.
+
+[^12-1]: [[RO 1994 2471](https://fedlex.data.admin.ch/eli/oc/1994/2471_2471_2471), [2005 1101](https://fedlex.data.admin.ch/eli/oc/2005/146)]
+
+#### Art. 13
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2007.

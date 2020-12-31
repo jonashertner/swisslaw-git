@@ -1,0 +1,549 @@
+---
+sr: "0.632.314.491"
+title: "Accordo del 17 settembre 1992 tra gli Stati dell'AELS e Israele (con Protocollo, Conclusioni e all.)"
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477"
+language: it
+version: 2010-07-05
+adopted: 1992-09-17
+in_force: 1993-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477/20100705/it/xml/fedlex-data-admin-ch-eli-cc-1993-2477_2477_2477-20100705-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20100705/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo tra gli Stati dell’AELS e Israele
+
+RU **1993** 2477; FF **1993** I 354
+
+Traduzione*[^t-1]*
+
+Concluso a Ginevra il 17 settembre 1992 Approvato dall’Assemblea federale il 17 marzo 1993[^t-2] Ratificato dalla Svizzera con strumento depositato l’11 maggio 1993 Entrato in vigore per la Svizzera il 1° luglio 1993
+
+(Stato 5 luglio 2010)
+
+[^t-1]: Traduzione dal testo originale inglese.
+[^t-2]: Art. 1 cpv. 1 lett. a – c del DF del 17 mar. 1993 ([RU 1993 2476](https://fedlex.data.admin.ch/eli/oc/1993/2476_2476_2476)).
+
+Preambolo
+
+La Repubblica d’Austria, la Repubblica di Finlandia, la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia, il Regno di Svezia, la Confederazione Svizzera
+
+(in seguito Stati dell’AELS)
+
+e lo Stato d’Israele
+
+(in seguito Israele)
+
+Vista la Convenzione istitutiva dell’Associazione Europea di libero scambio (AELS)[^ingress-1],
+
+Visti gli accordi di libero scambio e gli strumenti relativi stipulati tra Israele e i suoi principali partner commerciali,
+
+Vista la cooperazione che si è instaurata in favore degli accordi citati, nonché tra i diversi Stati dell’AELS e Israele,
+
+Desiderosi di adottare provvedimenti volti a promuovere uno sviluppo armonico dei loro scambi commerciali, di incrementare e diversificare la loro mutua cooperazione nei settori d’interesse comune, compresi quelli non coperti dal presente Accordo, in modo da creare un quadro globale e un ambiente stimolante, basati sulla parità di trattamento, la non discriminazione e un insieme equilibrato di diritti e obblighi,
+
+Richiamato l’interesse reciproco che gli Stati dell’AELS e Israele ripongono nel consolidamento permanente del sistema multilaterale di scambi nonché nella loro qualità di Parti contraenti all’Accordo generale sulle tariffe doganali[^ingress-2] e il commercio, le cui clausole e strumenti costituiscono il fondamento della loro politica commerciale esterna,
+
+Risoluti ad adottare a tal fine disposizioni volte ad abolire progressivamente gli ostacoli agli scambi tra gli Stati dell’AELS e Israele, conformemente alle prescrizioni dell’Accordo generale sulle tariffe doganali e il commercio, in particolare alle clausole relative alla creazione di zone di libero scambio,
+
+Desiderosi di assumere una parte sempre più attiva nel processo d’integrazione economica,
+
+Constatato che nessun disposto del presente Accordo potrebbe essere interpretato al fine di esonerare gli Stati che vi partecipano (in seguito Parti) dagli obblighi derivanti da altri Accordi internazionali,
+
+hanno deciso, per raggiungere tali obiettivi, di stipulare il seguente Accordo:
+
+[^ingress-1]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-2]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+
+#### Art. 1
+
+**Obiettivi**
+
+Il presente Accordo si prefigge di:
+
+- a) promuovere, mediante espansione dei mutui scambi commerciali, lo sviluppo armonico delle relazioni economiche tra gli Stati dell’AELS e Israele;
+- b) garantire agli scambi tra gli Stati dell’AELS e Israele condizioni eque di concorrenza;
+- c) contribuire allo sviluppo armonico e all’espansione del commercio mondiale con l’eliminazione degli ostacoli agli scambi;
+- d) migliorare la cooperazione tra gli Stati dell’AELS e Israele.
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+<sup>1.</sup>
+
+L’Accordo si applica:
+
+- a) ai prodotti considerati nei capitoli 25–97 del sistema armonizzato di descrizione e codificazione delle merci, eccettuati i prodotti elencati nell’allegato I;
+- b) ai prodotti menzionati nel protocollo A, considerate le modalità particolari previste in tale protocollo;
+- c) al pesce e agli altri prodotti del mare, elencati nell’allegato II;
+- [tab] originari di uno Stato dell’AELS o d’Israele.
+
+<sup>2.</sup> Le disposizioni concernenti il commercio di prodotti agricoli non considerate nel paragrafo 1 si trovano nell’articolo 11.
+
+<sup>3.</sup> Il presente Accordo si applica agli scambi commerciali tra, da un lato, i singoli Stati dell’AELS e, dall’altro, Israele. Non si applica alle relazioni tra Stati dell’AELS, salvo disposizioni contrarie del presente Accordo.
+
+#### Art. 3
+
+**Regole d’origine**
+
+<sup>1.</sup> Il protocollo B stabilisce le regole d’origine e i metodi di cooperazione amministrativa.
+
+<sup>2.</sup> Le Parti adottano i provvedimenti, ivi compresi gli esami periodici e gli accordi di cooperazione amministrativa, atti a garantire l’applicazione effettiva e armonica dei disposti degli articoli 4–7, 12 e 21, considerando la necessità di ridurre per quanto possibile le formalità che ostacolano gli scambi, e trovare soluzioni mutuamente soddisfacenti a tutte le difficoltà insite nell’applicazione di questi disposti.
+
+<sup>3.</sup> Il Protocollo E stabilisce le regole dell’assistenza amministrativa reciproca in materia doganale.[^3-1]
+
+[^3-1]: Introdotto dalla Dec. n. 3/2005 del Comitato misto AELS–Israele del 15 giu. 2005, approvata dall’AF il 15 mar. 2006 ed in vigore per la Svizzera dall'11 lug. 2008 ([RU 2008 3967](https://fedlex.data.admin.ch/eli/oc/2008/535)[3759](https://fedlex.data.admin.ch/eli/oc/2008/507); [FF 2006 1647](https://fedlex.data.admin.ch/eli/fga/2006/153)).
+
+#### Art. 4
+
+**Dazi d’importazione e gravami con effetti equivalenti**
+
+<sup>1.</sup> Nessun nuovo dazio d’importazione e nessun gravame con effetto equivalente dovranno ostacolare gli scambi tra gli Stati dell’AELS e Israele.
+
+<sup>2.</sup> All’entrata in vigore del presente Accordo, gli Stati dell’AELS aboliranno tutti i dazi d’importazione e tutti i gravami con effetti equivalenti per i prodotti in provenienza da Israele.
+
+<sup>3.</sup> All’entrata in vigore del presente Accordo, Israele abolirà tutti i dazi d’importazione e tutti i gravami con effetti equivalenti per i prodotti in provenienza da uno Stato dell’AELS.
+
+#### Art. 5
+
+**Dazi fiscali**
+
+<sup>1.</sup> Le disposizioni dell’articolo 4 paragrafi 1–3 sono pure applicabili ai dazi fiscali, fatte salve le disposizioni del protocollo C.
+
+<sup>2.</sup> Le Parti possono sostituire un dazio fiscale o la componente fiscale di un dazio con una tassa interna.
+
+#### Art. 6
+
+**Dazi d’esportazione e gravami con effetti equivalenti**
+
+<sup>1.</sup> Nessuno nuovo dazio d’esportazione e nessun gravame con effetto equivalente sarà introdotto negli scambi tra gli Stati dell’AELS e Israele.
+
+<sup>2.</sup> All’entrata in vigore del presente Accordo, i dazi d’esportazione e i gravami con effetto equivalente saranno aboliti, fatte salve le disposizioni dell’allegato III.
+
+#### Art. 7
+
+**Restrizioni quantitative e provvedimenti con effetti equivalenti**
+
+<sup>1.</sup> Nessuna nuova restrizione quantitativa delle importazioni o delle esportazioni e nessun provvedimento con effetto equivalente potrà ostacolare gli scambi tra gli Stati dell’AELS e Israele.
+
+<sup>2.</sup> All’entrata in vigore del presente Accordo, le restrizioni quantitative delle importazioni e delle esportazioni e i provvedimenti con effetti equivalenti saranno aboliti, fatte salve le disposizioni dell’allegato IV.
+
+<sup>3.</sup> Ai fini del presente Accordo, l’espressione «restrizioni quantitative e provvedimenti con effetto equivalente» designa i divieti o le limitazioni delle importazioni o delle esportazioni, in uno Stato dell’AELS in provenienza d’Israele o in Israele in provenienza da uno Stato dell’AELS, sotto forma di contingenti, di licenze d’importazione o d’esportazione, o altre misure e prescrizioni amministrative tali da ostacolare gli scambi.
+
+#### Art. 8
+
+**Motivazioni non economiche delle restrizioni**
+
+Il presente Accordo non si oppone ai divieti o restrizioni d’importazione, d’esportazione o di transito di merci giustificati da ragioni di moralità pubblica, di ordine pubblico, di sicurezza pubblica, di protezione della salute e della vita delle persone e degli animali o di preservazione dei vegetali e dell’ambiente, di protezione dei tesori nazionali con valore artistico, storico o archeologico, o di protezione della proprietà intellettuale. Tali divieti o restrizioni non devono tuttavia costituire uno strumento di discriminazione arbitrario o di restrizione mascherata nel commercio tra gli Stati dell’AELS e Israele.
+
+#### Art. 9
+
+**Monopoli di Stato**
+
+<sup>1.</sup> Le Parti veglieranno affinché i monopoli di Stato a carattere commerciale siano strutturati in modo da escludere, nelle condizioni d’approvvigionamento e di commercializzazione, ogni forma di discriminazione tra cittadini degli Stati dell’AELS e cittadini d’Israele.
+
+<sup>2.</sup> Le disposizioni del presente articolo si applicano a tutti gli enti mediante i quali le autorità competenti delle Parti, de jure o de facto, controllano, dirigono o influenzano sensibilmente, in modo diretto o indiretto, le importazioni o le esportazioni tra le Parti. Le presenti disposizioni si applicano anche ai monopoli di Stato delegati a terzi dallo Stato interessato.
+
+#### Art. 10
+
+**Regolamenti tecnici**
+
+<sup>1.</sup> Le Parti riconoscono l’importanza delle norme e dei regolamenti tecnici internazionali armonizzati per lo sviluppo degli scambi commerciali.
+
+<sup>2.</sup> Ribadiscono la loro adesione all’accordo generale del GATT relativo agli ostacoli tecnici al commercio e alle sue procedure[^10-1].
+
+<sup>3.</sup> Le Parti potranno tenere consultazioni nell’ambito del Comitato misto, se una Parte riterrà che un’altra Parte non abbia adempiuto i propri obblighi in modo soddisfacente, in particolare se una Parte giudicherà che un’altra Parte abbia adottato misure suscettibili di creare, o che hanno creato, un ostacolo agli scambi.
+
+<sup>4.</sup> Le Parti convengono di intavolare discussioni sulle possibilità di cooperare più strettamente nel campo dei controlli e dell’autenticazione allo scopo di favorire ulteriormente gli scambi.
+
+[^10-1]: [RS 0.632.231.41](https://fedlex.data.admin.ch/eli/cc/1979/2357_2361_2361)
+
+#### Art. 11
+
+**Scambi di prodotti agricoli**
+
+<sup>1.</sup> Le Parti si dichiarano pronte a favorire, nel rispetto delle rispettive politiche agricole, lo sviluppo armonico degli scambi di prodotti agricoli.
+
+<sup>2.</sup> Per raggiungere tale obiettivo, i singoli Stati dell’AELS e Israele hanno stipulato un accordo bilaterale che prevede misure atte a facilitare gli scambi di prodotti agricoli.
+
+<sup>3.</sup> Nel settore veterinario, fitosanitario e sanitario, le Parti applicano la propria normativa in modo non discriminatorio ed evitano l’introduzione di nuove misure tali da ostacolare inopportunamente gli scambi.
+
+#### Art. 12
+
+**Imposizioni interne**
+
+<sup>1.</sup> Le Parti evitano qualsiasi misura o pratica fiscale interna tale da creare, direttamente o indirettamente, una discriminazione tra i prodotti di uno Stato dell’AELS e i prodotti analoghi originari d’Israele.
+
+<sup>2.</sup> I prodotti esportati verso il territorio di una delle Parti non possono beneficiare di rimborsi di imposizioni interne di entità superiore all’importo che li ha gravati direttamente o indirettamente.
+
+#### Art. 13
+
+**Pagamenti**
+
+<sup>1.</sup> I pagamenti relativi agli scambi di merci tra uno Stato dell’AELS e Israele, nonché il trasferimento di tali pagamenti verso il territorio della Parte nella quale risiede il creditore, non sono sottoposti a restrizione alcuna.
+
+<sup>2.</sup> Le Parti evitano qualsiasi restrizione cambiaria o amministrativa riguardo alla concessione, al rimborso o all’accettazione di crediti a corto e a medio termine relativi a transazioni commerciali cui partecipa un residente.
+
+<sup>3.</sup> Israele si riserva il diritto di applicare restrizioni cambiarie in relazione alla concessione o all’accettazione di crediti a corto o medio termine nei limiti autorizzati dallo statuto che il FMI riconosce ad Israele, a condizione che queste restrizioni siano applicate in modo non discriminatorio. Esse saranno applicate in modo tale che il funzionamento del presente Accordo ne sia perturbato il meno possibile. Israele informerà senza indugio il Comitato misto dell’instaurazione di tali misure e di tutte le modificazioni che vi fossero apportate.
+
+#### Art. 14
+
+**Mercati pubblici**
+
+<sup>1.</sup> Le Parti considerano la liberalizzazione effettiva dei loro mercati pubblici rispettivi parte integrante degli obiettivi dell’Accordo.
+
+<sup>2.</sup> All’entrata in vigore del presente Accordo, ognuna delle Parti accorda alle imprese delle altre Parti l’accesso alle procedure di partecipazione ai suoi mercati pubblici, su una base di reciprocità, conformemente all’Accordo sugli appalti pubblici del 12 aprile 1979[^14-1], modificato dal Protocollo del 2 febbraio 1987, negoziato nel quadro dell’Accordo generale sulle tariffe doganali e il commercio[^14-2].
+
+<sup>3.</sup>
+
+Tenendo conto delle norme e discipline convenute nel quadro dell’Accordo generale sulle tariffe doganali e il commercio come pure con Stati terzi in questo campo, le Parti, dopo l’entrata in vigore del presente Accordo, prevedono di estendere il campo d’applicazione del paragrafo 2, conformemente alle seguenti disposizioni:
+
+- a) Le Parti convengono di proseguire i loro sforzi per garantire la trasparenza effettiva, il libero accesso e la non discriminazione tra i fornitori potenziali delle Parti. A tal fine, le Parti adeguano progressivamente le condizioni e le procedure pratiche pertinenti che disciplinano la partecipazione agli appalti delle autorità, delle imprese pubbliche e delle imprese private al beneficio di privilegi esclusivi o speciali.
+- b) Le Parti convengono di affidarsi al Comitato misto per decidere, entro il più breve termine possibile, in merito a tutte le modalità pratiche d’adeguamento, compresi l’estensione, il calendario e le regole applicabili, tenendo conto della necessità di mantenere un equilibrio rigoroso dei diritti e degli obblighi delle Parti.
+
+<sup>4.</sup> Appena ragionevolmente possibile dopo l’entrata in vigore del presente Accordo, il Comitato misto intavolerà discussioni al fine di giungere a un’intesa sull’estensione progressiva dell’elenco delle imprese pubbliche nonché delle imprese di approvvigionamento coperte dalle presenti disposizioni per quel che riguarda i loro acquisti di merci che superano le soglie richieste.
+
+[^14-1]: RS **0.632.231.42**
+[^14-2]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+
+#### Art. 15
+
+**Protezione della proprietà intellettuale**
+
+<sup>1.</sup> Le Parti garantiscono una protezione adeguata, efficace e non discriminatoria dei diritti relativi alla proprietà intellettuale, conformemente alla definizione dell’articolo 1 dell’Allegato V. Adottano provvedimenti adeguati, efficaci e non discriminatori per fare rispettare tali diritti contro ogni pregiudizio, e in particolare contro la contraffazione e la pirateria. Obblighi specifici figurano nell’Allegato V.
+
+<sup>2.</sup> Le Parti convengono di conformarsi alle disposizioni fondamentali delle convenzioni multilaterali enumerate all’articolo 2 dell’Allegato V e di sforzarsi di aderire a queste convenzioni come pure ad accordi multilaterali miranti a favorire la cooperazione nel campo della protezione dei diritti della proprietà intellettuale.
+
+<sup>3.</sup> può essere esentato dal suddetto obbligo, a condizione che ciò non costituisca una discriminazione arbitraria o ingiustificata nei confronti dei cittadini di altre Parti.
+
+In materia di proprietà intellettuale, le Parti non impongono ai cittadini delle altre Parti un trattamento meno favorevole di quello riservato ai cittadini di qualsiasi altro Stato. Ogni vantaggio o privilegio, ogni favore o immunità derivante da:
+
+- a) accordi bilaterali in vigore per una Parte al momento dell’entrata in vigore del presente Accordo e notificati alle altre Parti al più tardi prima della suddetta entrata in vigore,
+- b) accordi multilaterali esistenti e futuri, compresi gli accordi regionali relativi all’integrazione economica ai quali non aderiscono tutte le Parti,
+
+<sup>4.</sup> Due o più Parti possono concludere nuovi accordi più estesi rispetto al campo d’applicazione del presente Accordo e dell’Allegato V, per quanto tali accordi siano accessibili a tutte le altre Parti a condizioni equivalenti, e che queste Parti siano disposte a partecipare in buona fede ai relativi negoziati.
+
+<sup>5.</sup> Le Parti convengono di sorvegliare mutuamente l’applicazione delle disposizioni sulla proprietà intellettuale allo scopo di migliorare il livello di protezione e di evitare o di eliminare le distorsioni dei flussi commerciali causate dal livello attuale di protezione dei diritti della proprietà intellettuale.
+
+<sup>6.</sup> Se una Parte ritiene che un’altra Parte sia venuta meno ai suoi obblighi ai sensi del presente articolo e del suo allegato, può prendere le misure appropriate secondo le condizioni e le procedure previste nell’articolo 23.
+
+<sup>7.</sup> Le Parti convengono modalità appropriate relative all’assistenza tecnica e alla cooperazione tra le loro autorità rispettive e coordinano a tal fine i loro sforzi con le organizzazioni internazionali competenti.
+
+#### Art. 16
+
+**Attuazione degli obblighi**
+
+<sup>1.</sup> Le Parti adottano tutti i provvedimenti necessari per realizzare gli obiettivi dell’Accordo e adempiere gli obblighi che l’Accordo impone loro.
+
+<sup>2.</sup> Se uno Stato dell’AELS ritiene che Israele, o se Israele ritiene che uno Stato dell’AELS non ha ottemperato ad un obbligo dell’Accordo, la Parte implicata può adottare provvedimenti adeguati secondo le condizioni e le procedure previste nell’articolo 23.
+
+#### Art. 17
+
+**Regole di concorrenza tra imprese**
+
+<sup>1.</sup>
+
+Sono incompatibili con il buon funzionamento del presente Accordo, in quanto suscettibili di ostacolare gli scambi tra uno Stato dell’AELS e Israele:
+
+- a) tutti gli accordi tra imprese, tutte le decisioni d’associazione di imprese e tutte le pratiche concertate tra imprese che si prefiggono o riescono a ostacolare, ridurre o falsare la libera concorrenza;
+- b) lo sfruttamento abusivo da parte di una o parecchie imprese di una posizione dominante sulla totalità o su parte essenziale dei territori delle Parti.
+
+<sup>2.</sup> Queste disposizioni si applicano pure alle attività delle imprese pubbliche e delle imprese alle quali le Parti hanno concesso privilegi esclusivi o speciali, per quanto l’applicazione di tali disposizioni non ostacoli, de jure o de facto, lo svolgimento dei loro compiti d’ordine pubblico.
+
+<sup>3.</sup> Qualora una Parte ritenga che una determinata pratica sia incompatibile con il presente articolo, può adottare adeguati provvedimenti, secondo le condizioni e le procedure previste nell’articolo 23.
+
+#### Art. 18
+
+**Sovvenzioni**[^18-1]
+
+<sup>1.</sup> I diritti e gli obblighi delle Parti contraenti relativi alle sovvenzioni e alle misure compensative sono retti dall’articolo XVI del GATT 1994[^18-2] e dall’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative[^18-3], tranne ove il presente articolo disponga altrimenti.
+
+<sup>2.</sup> La portata dell’impegno delle Parti contraenti a garantire la trasparenza delle misure di sovvenzionamento è determinata dai criteri enunciati nell’articolo XVI paragrafo 1 del GATT 1994 e nell’articolo 25 dell’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative.
+
+<sup>3.</sup> Prima di iniziare una procedura d’inchiesta per determinare l’esistenza, il grado e l’effetto di una presunta sovvenzione in Israele o in uno Stato dell’AELS conformemente alle disposizioni dell’articolo 11 dell’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative, la Parte che intende iniziare tale procedura lo notifica per scritto alla Parte le cui merci sono sospettate di essere state oggetto di sovvenzioni e fissa un termine di trenta giorni per trovare una soluzione mutuamente accettabile. Le consultazioni si svolgono in seno al Comitato misto se una delle Parti ne fa domanda entro dieci giorni dalla data di ricevimento della notifica.
+
+[^18-1]: Nuovo testo giusta la Dec. n. 1/2006 del Comitato misto AELS–Israele del 3 lug. 2006, in vigore per la Svizzera dal 5 lug. 2010 ([RU 2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644)).
+[^18-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)all. 1A.1
+[^18-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)all. 1A.13
+
+#### Art. 19
+
+**Anti-dumping**
+
+Qualora una Parte constati pratiche di dumping nelle relazioni commerciali sottoposte al presente Accordo, può adottare contro tali pratiche i provvedimenti adeguati conformemente all’articolo VI dell’Accordo generale su le tariffe doganali e il commercio[^19-1], nonché alle regole stabilite dagli accordi relativi a tale articolo, secondo le condizioni e le procedure previste nell’articolo 23.
+
+[^19-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+
+#### Art. 20
+
+**Misure urgenti applicabili all’importazione di taluni prodotti**
+
+la Parte implicata può adottare i provvedimenti necessari secondo le condizioni e le procedure previste nell’articolo 23.
+
+Qualora l’aumento delle importazioni di una determinata merce proveniente da uno Stato dell’AELS o d’Israele avvenga in proporzioni o in condizioni che causano o rischiano di causare:
+
+- a) un pregiudizio grave ai produttori nazionali di prodotti simili o direttamente concorrenziali sul territorio della Parte importatrice; o
+- b) gravi distorsioni in un settore qualsiasi dell’economia o difficoltà tali da causare un grave deterioramento della situazione economica di una regione,
+
+#### Art. 21
+
+**Riesportazione e penuria grave**
+
+e qualora le situazioni citate causino o rischino di causare gravi difficoltà alla Parte esportatrice, quest’ultima può adottare i provvedimenti adeguati secondo le condizioni e le procedure previste nell’articolo 23.
+
+Qualora l’applicazione dei disposti degli articoli 6 e 7 renda possibile:
+
+- a) la riesportazione verso un Paese terzo, nei confronti del quale la Parte esportatrice mantiene per tali prodotti restrizioni quantitative all’esportazione, dazi d’esportazione, o provvedimenti o gravami con effetto equivalente, oppure
+- b) una penuria grave di un prodotto essenziale per la Parte esportatrice, o minacci una simile penuria,
+
+#### Art. 22
+
+**Difficoltà nella bilancia dei pagamenti**[^22-1]
+
+<sup>1.</sup> Le Parti si astengono dall’adottare provvedimenti restrittivi atti a far fronte alle proprie difficoltà in materia di bilancia dei pagamenti.
+
+<sup>2.</sup> La Parte che incontra o rischia di incontrare a breve termine gravi difficoltà nella bilancia dei pagamenti può adottare, conformemente alle disposizioni previste dal GATT 1994[^22-2] e dall’Intesa sulle disposizioni relative alla bilancia dei pagamenti dell’OMC, provvedimenti restrittivi per gli scambi che abbiano una durata limitata, che non siano discriminatori e che non oltrepassino la misura necessaria per far fronte ai problemi della bilancia dei pagamenti. Le disposizioni pertinenti del GATT 1994 e dell’Intesa dell’OMC sulle disposizioni relative alla bilancia dei pagamenti divengono parte integrante del presente Accordo.
+
+<sup>3.</sup> La Parte che adotta misure basandosi sul presente articolo ne informa immediatamente le altre Parti e il Comitato misto.»
+
+[^22-1]: Nuovo testo giusta la Dec. n. 4/2005 del Comitato misto AELS–Israele del 15 giu. 2005, approvata dall’AF il 15 mar. 2006 ed in vigore per la Svizzera dall’11 lug. 2008 ([RU 2008 3761](https://fedlex.data.admin.ch/eli/oc/2008/508)[3759](https://fedlex.data.admin.ch/eli/oc/2008/507); [FF 2006 1647](https://fedlex.data.admin.ch/eli/fga/2006/153)).
+[^22-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
+
+#### Art. 23
+
+**Procedure d’applicazione dei provvedimenti di salvaguardia**
+
+<sup>1.</sup> Prima di avviare la procedura d’applicazione dei provvedimenti di salvaguardia enunciati nel presente articolo, le Parti si impegnano a risolvere i contenziosi che li dividono mediante consultazioni dirette, informando le altre Parti.
+
+<sup>2.</sup> Senza pregiudizio del paragrafo 6 del presente articolo, una Parte che intenda adottare provvedimenti di salvaguardia lo notifica senza indugio alle altre Parti e al Comitato misto e comunica loro ogni informazione utile. Le consultazioni tra le Parti avvengono senza indugio dinnanzi al Comitato misto, al fine di trovare una soluzione mutuamente accettabile.
+
+- 3\. a) Per quel che concerne l'articolo 17[^23-1], le Parti in causa forniscono al Comitato misto l’assistenza necessaria per esaminare il caso in questione e, se del caso, per abolire la pratica contestata. Se, entro il termine fissato dal Comitato misto, la Parte incriminata non ha posto fine alla pratica contestata o se il Comitato misto non raggiunge un accordo entro tre mesi dopo essere stato consultato, la Parte in causa può adottare i provvedimenti adeguati per superare le difficoltà derivanti dalla pratica in questione.
+- b) Per quel che concerne gli articoli 19, 20, 21, 22 e l’articolo 5A lettera b) ii) dell’Allegato II, il Comitato misto esamina la situazione e può prendere ogni decisione atta a porre fine alle difficoltà notificate dalla Parte in causa. In assenza di una tale decisione entro trenta giorni dalla notificazione del caso al Comitato misto, la Parte in causa può adottare i provvedimenti adeguati per rimediare alla situazione.
+- c) Per quel che concerne l’articolo 16, la Parte in causa può adottare i provvedimenti necessari dopo la conclusione delle consultazioni in seno al Comitato misto o dopo la scadenza di un termine di tre mesi a partire dal giorno della notificazione.
+
+<sup>4.</sup> I provvedimenti di salvaguardia adottati sono immediatamente notificati alle Parti e al Comitato misto. In ampiezza e durata, essi sono limitati allo stretto necessario per rimediare alla situazione che ne ha provocato l’applicazione e in alcun modo possono superare il pregiudizio causato dalla pratica o dalle difficoltà in questione. La priorità va data ai provvedimenti che pregiudicano nel minore dei modi il funzionamento del presente Accordo. I provvedimenti adottati da Israele nei confronti di un atto o di un’omissione di uno Stato dell’AELS devono essere limitati agli scambi con lo Stato implicato.
+
+<sup>5.</sup> I provvedimenti di salvaguardia sono discussi periodicamente in seno al Comitato misto al fine di valutarne le possibilità di alleviamento, sostituzione o soppressione nei termini più brevi.
+
+<sup>6.</sup> Qualora circostanze eccezionali che richiedono un intervento immediato escludessero la possibilità di un esame preventivo, la Parte interessata può, nelle situazioni considerate negli articoli …[^23-2] 19, 20, 21 e 22, applicare immediatamente i provvedimenti conservativi strettamente necessari per rimediare alla situazione. Tali provvedimenti sono notificati senza indugio alle Parti e al Comitato misto, in seno al quale avvengono, il più presto possibile, consultazioni tra le Parti.
+
+[^23-1]: Nuova parola giusta la Dec. n. 1/2006 del Comitato misto AELS–Israele del 3 lug. 2006, in vigore per la Svizzera dal 5 lug. 2010 ([RU 2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644)).
+[^23-2]: Parola abrogata dalla Dec. n. 1/2006 del Comitato misto AELS–Israele del 3 lug. 2006, con effetto, per la Svizzera, dal 5 lug. 2010 ([RU 2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644)).
+
+#### Art. 24
+
+**Deroghe per ragioni di sicurezza**
+
+Nessun disposto del presente Accordo impedisce ad una Parte di adottare i provvedimenti ritenuti necessari:
+
+- a) per impedire la divulgazione di informazioni contrarie agli interessi essenziali della sua sicurezza;
+- b) per proteggere interessi essenziali della sua sicurezza, adempiere i suoi obblighi a livello internazionale o avviare politiche nazionali
+  - i) relativamente al commercio d’armi, di munizioni o materiale bellico, al commercio di altre merci, materiali o servizi praticato direttamente o indirettamente per l’approvvigionamento di uno stabilimento militare;
+  - ii) relativamente alla non proliferazione di armi biologiche e chimiche, di armamento atomico o altri ordigni esplosivi nucleari;
+  - iii) in tempo di guerra o in altra situazione di grave tensione internazionale.
+
+#### Art. 25
+
+**Non discriminazione**
+
+Nei settori coperti dal presente Accordo:
+
+- a) le prescrizioni applicate da Israele nei confronti degli Stati dell’AELS non devono dar luogo a nessuna discriminazione tra questi Stati, i loro cittadini, o le loro imprese o aziende;
+- b) le prescrizioni applicate dagli Stati dell’AELS nei confronti di Israele non devono dar luogo a nessuna discriminazione tra i cittadini, le imprese o le aziende d’Israele.
+
+#### Art. 25<sup>bis</sup>
+
+**Procedura arbitrale**[^25bis-1]
+
+<sup>1.</sup> Qualora una controversia tra Stati Parte al presente Accordo riguardo all’interpretazione dei propri diritti e obblighi non sia stata composta, entro sei mesi, mediante consultazioni o nel quadro del Comitato misto, ogni Stato Parte alla controversia può ricorrere all’arbitrato indirizzando una notifica scritta all’altro Stato Parte alla controversia. Una copia di tale notifica è fatta pervenire a tutti gli Stati Parte al presente Accordo.
+
+<sup>2.</sup> La costituzione e il funzionamento del tribunale arbitrale sono disciplinati nell’allegatoVIII.
+
+<sup>3.</sup> Il tribunale arbitrale compone la controversia secondo le disposizioni del presente Accordo e conformemente alle norme e ai principi applicabili del diritto internazionale.
+
+<sup>4.</sup> La sentenza del tribunale arbitrale è definitiva e obbligatoria per gli Stati Parte alla controversia.
+
+[^25bis-1]: Introdotto dalla Dec. n. 5/1997 del Comitato misto AELS–Israele del 12 nov. 1997, in vigore per la Svizzera dal 29 ago. 2006 ([RU 2010 4527](https://fedlex.data.admin.ch/eli/oc/2010/643)).
+
+#### Art. 26
+
+**Istituzione di un Comitato misto**
+
+<sup>1.</sup> È istituito un Comitato misto in seno al quale ogni Parte è rappresentata. Al Comitato misto competono la gestione e la vigilanza sulla corretta esecuzione dell’Accordo.
+
+<sup>2.</sup> Per garantire un’esecuzione corretta del presente Accordo, le Parti si scambiano informazioni e, su richiesta singola, si consultano nell’ambito del Comitato misto. Quest’ultimo valuta in permanenza la possibilità di ridurre ulteriormente gli ostacoli agli scambi tra gli Stati dell’AELS e Israele.
+
+<sup>3.</sup> Conformemente alle disposizioni dell’articolo 27 paragrafo 3, il Comitato misto può adottare decisioni nei casi previsti nel presente Accordo. Sugli altri problemi il Comitato misto può formulare raccomandazioni.
+
+#### Art. 27
+
+**Procedure del Comitato misto**
+
+<sup>1.</sup> Per garantire un’esecuzione corretta del presente Accordo, il Comitato misto si riunisce al livello adeguato ogni volta che lo reputa necessario, ma almeno una volta all’anno. Ogni Parte può chiederne la convocazione.
+
+<sup>2.</sup> Il Comitato misto si pronuncia all’unanimità.
+
+<sup>3.</sup> Qualora un rappresentante di una Parte in seno al Comitato misto accetti una decisione, con riserva di compimento delle formalità costituzionali, la decisione stessa entra in vigore, se non menziona esplicitamente una data ulteriore, il giorno in cui è notificato lo scadere di tale riserva.
+
+<sup>4.</sup> Ai fini del presente Accordo, il Comitato misto adotta il proprio regolamento interno che disciplina in particolare la convocazione delle sue riunioni, nonché la designazione e il mandato del suo presidente.
+
+<sup>5.</sup> Il Comitato misto può decidere di costituire sotto‑comitati o gruppi di lavoro atti ad assisterlo nello svolgimento dei suoi compiti.
+
+#### Art. 28
+
+**Clausola evolutiva**
+
+<sup>1.</sup> Qualora una Parte ritenga opportuno nell’interesse delle economie delle Parti incrementare le relazioni sancite dall’Accordo estendendole ad ambiti non coperti dallo stesso, sottopone loro una domanda motivata.
+
+Le Parti possono affidare al Comitato misto l’incarico di esaminare tale domanda e presentare eventuali raccomandazioni.
+
+<sup>2.</sup> Gli accordi raggiunti secondo la procedura definita nel paragrafo 1 sono sottoposti a ratifica o ad approvazione delle Parti secondo le procedure corrispondenti.
+
+#### Art. 29
+
+**Servizi e investimenti**
+
+<sup>1.</sup> Le Parti riconoscono l’importanza crescente di determinati settori come quello dei servizi e degli investimenti. Nei loro sforzi volti ad approfondire e estendere progressivamente la loro cooperazione, esse agiscono congiuntamente allo scopo di pervenire a una liberalizzazione graduale e a un’apertura reciproca dei loro mercati degli investimenti e dei loro scambi di servizi, considerando i relativi lavori del GATT. Esse si sforzano di accordarsi reciprocamente un trattamento non meno favorevole di quello riservato alle imprese nazionali e estere sul loro territorio, a condizione che vi sia un equilibrio dei diritti e degli obblighi tra le Parti.
+
+<sup>2.</sup> Le modalità di questa cooperazione sono negoziate in seno al Comitato misto. Gli accordi che risultano da questi negoziati sono sottoposti, se necessario, alla ratifica o all’approvazione delle Parti secondo le loro procedure e sono applicati nel quadro del presente Accordo.
+
+#### Art. 30
+
+**Protocolli e allegati**
+
+I protocolli e gli allegati del presente Accordo ne sono parte integrante. Il Comitato misto può deciderne la modifica.
+
+#### Art. 31
+
+**Unioni doganali, zone di libero scambio e commercio frontaliero**
+
+Il presente Accordo non pregiudica il mantenimento o l’attuazione di unioni doganali, di zone di libero scambio o di normative relative al commercio frontaliero, per quanto gli stessi non abbiano conseguenze negative sul regime degli scambi e in particolare sulle disposizioni concernenti le regole d’origine previste nel presente Accordo.
+
+#### Art. 32
+
+**Applicazione territoriale**
+
+Il presente Accordo si applica sul territorio delle Parti.
+
+#### Art. 33
+
+**Entrata in vigore**
+
+<sup>1.</sup> Il presente Accordo entra in vigore il 1° gennaio 1993 per quel che concerne gli Stati firmatari che abbiano trasmesso al Depositario il loro strumento di ratifica o d’accettazione, a condizione che Israele sia tra gli Stati che hanno depositato il loro strumento di ratifica o d’accettazione.
+
+<sup>2.</sup> Nei confronti di uno Stato firmatario che deposita il suo strumento di ratifica o d’accettazione dopo il 1° gennaio 1993, il presente Accordo entra in vigore il primo giorno del secondo mese successivo al deposito del suo strumento, a condizione che Israele sia tra gli Stati che hanno depositato il loro strumento di ratifica o d’accettazione.
+
+<sup>3.</sup> Già al momento della firma dell’Accordo, qualsiasi Stato firmatario può dichiarare che, durante una fase iniziale, applicherà l’Accordo provvisoriamente se quest’ultimo non può entrare in vigore il 1° gennaio 1993 per questo Stato, a condizione che sia entrato in vigore nei confronti di Israele.
+
+#### Art. 34
+
+**Emendamenti**
+
+Gli emendamenti al presente Accordo – eccettuati quelli menzionati nell’articolo 30 – approvati dal Comitato misto sono sottoposti alle Parti per ratifica o accettazione ed entrano in vigore una volta ratificati o accettati da tutte le Parti. Gli strumenti di ratifica o d’accettazione sono consegnati al Governo depositario.
+
+#### Art. 35
+
+**Adesione**
+
+<sup>1.</sup> Qualsiasi Stato membro dell’Associazione europea di libero scambio può aderire al presente Accordo, a condizione che il Comitato misto decida di approvare la sua adesione nei termini e alle condizioni esposte nella decisione. Lo strumento d’adesione è consegnato al Governo depositario.
+
+<sup>2.</sup> Per lo Stato che decide di aderire, l’Accordo entra in vigore il primo giorno del terzo mese successivo al deposito del suo strumento d’adesione.
+
+#### Art. 36
+
+**Ritiro e scadenza**
+
+<sup>1.</sup> Qualsiasi Parte può ritirarsi dal presente Accordo mediante notifica scritta indirizzata al Depositario. Il ritiro ha effetto sei mesi dopo la data di consegna della notifica al Governo depositario.
+
+<sup>2.</sup> Se Israele si ritira, l’Accordo scade al termine del periodo di preavviso e, se tutti gli Stati dell’AELS si ritirano, scade al termine del periodo dell’ultimo preavviso ricevuto.
+
+<sup>3.</sup> Qualsiasi Stato membro dell’AELS che si ritira dalla Convenzione istitutiva dell’Associazione europea di libero scambio[^36-1] cessa ipso facto di essere Parte al presente Accordo il giorno stesso in cui il suo ritiro diviene effettivo.
+
+[^36-1]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+
+#### Art. 37
+
+**Governo depositario**
+
+Il Governo di Norvegia[^37-1], in qualità di Governo depositario, notifica a tutti gli Stati che hanno firmato il presente Accordo o che vi hanno aderito, il deposito di ogni strumento di ratifica, d’accettazione o d’adesione, l’entrata in vigore del presente Accordo, la sua scadenza o la sua denuncia.
+
+[^37-1]: Nuova locuzione giusta la Dec. n. 5/1996 del Comitato misto AELS–Israele del 14 feb. 1996, in vigore per la Svizzera dal 13 mag. 2004 ([RU 2010 4525](https://fedlex.data.admin.ch/eli/oc/2010/642)).
+
+*In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Ginevra il 17 settembre 1992, in un solo esemplare in lingua inglese depositato presso il Governo di Svezia. Il Governo depositario ne trasmetterà copia certificata conforme a tutti gli Stati firmatari e aderenti. Protocollo d’intesa Diritti all’importazione 1. Israele rinnova il suo impegno, nei confronti del GATT, di ridurre i diritti all’importazione dal 2 all’1% al più tardi il 31 dicembre 1994. 2. Gli Stati dell’AELS e Israele hanno convenuto che questo prelievo è assoggettato alle disposizioni dell’Articolo 22, a partire dall’entrata in vigore dell’Accordo. Tasse portuali 3. Poiché le loro opinioni circa la compatibilità della struttura attuale delle tasse portuali percepite in Israele divergono dalle prescrizioni dell’Accordo, le Parti hanno convenuto che, al più presto dopo l’entrata in vigore dell’Accordo, la questione sarà sollevata in seno al Comitato misto al fine di trovare una soluzione accettabile per tutti. Applicazione della maggiorazione TAMA alle merci importate in Israele 4. Israele provvede affinché l’imposta sull’acquisto di merci importate venga calcolata sulla base a) del prezzo all’ingrosso dichiarato, o b) del valore cif più una maggiorazione detta TAMA. Gli importatori omologati possono scegliere uno di questi due metodi. Gli importatori non omologati continuano a pagare l’imposta sull’acquisto sulla base della maggiorazione TAMA. 5. L’unico criterio determinante per ottenere lo statuto d’importatore omologato é il seguente: a. L’importatore ha importato in Israele, nel corso dell’anno civile precedente quello per il quale ha richiesto lo statuto d’importatore omologato, merci di qualsiasi origine, il cui valore globale supera il valore limite dell’anno in cui egli sollecita lo statuto. Questo valore limite ammonta per ogni anno a: 1992 300 000 dollari 1993 200 000 dollari 1994 100 000 dollari 1995 e anni seguenti 50 000 dollari b. Nel corso dei cinque anni precedenti, l’importatore non ha commesso infrazioni di natura fiscale passibili di una pena di detenzione e di una multa che lo espongono, se è recidivo, al divieto di vendere merci del tipo per il quale l’infrazione è stata commessa. 6. Un importatore che in passato ha ottenuto lo statuto d’importatore omologato può esserne privato soltanto se: a. è stato dimostrato colpevole di un’infrazione di natura fiscale ai sensi del paragrafo 5 lettera b); o, b. durante l’anno civile precedente e durante almeno un altro anno dei cinque precedenti, non è riuscito a importare merci per un valore totale superiore al valore limite applicabile per l’anno in corso. 7. I moduli di richiesta di statuto devono essere semplici e chiari e contenere una disposizione che indica la scelta fatta dal richiedente tra il valore reale del prezzo all’ingrosso e il calcolo della maggiorazione TAMA, come base per la determinazione dell’imposta sull’acquisto. Una volta decisa, questa scelta determinerà il trattamento fiscale dell’importatore per i dodici mesi a venire e potrà in seguito essere modificata in ogni momento, soltanto su richiesta dell’importatore. A partire dal 1° gennaio 1995, Israele applica un sistema obbligatorio di dichiarazione del prezzo all’ingrosso per tutti gli importatori omologati. 8. Ogni importatore può depositare presso il responsabile del distretto una domanda di statuto d’importatore omologato. La decisione di quest’ultimo è comunicata entro ventuno giorni. Se essa è positiva, è conferito all’importatore lo statuto d’importatore omologato. Se è negativa, il responsabile del distretto espone per iscritto i motivi del rifiuto della domanda secondo le modalità esposte nel paragrafo 5. 9. L’importatore omologato che sceglie di pagare l’imposta al consumo calcolata sulla base del prezzo all’ingrosso reale è invitato a depositare una dichiarazione di prezzo all’ingrosso (per le merci assoggettate all’imposta sull’acquisto) insieme alla sua dichiarazione d’importazione. Tale dichiarazione deve essere conforme alle prescrizioni degli articoli 1 e 17 della legge sull’imposta al consumo. L’obbligo di tenere un registro, di inviare rapporti periodici, nonché le procedure di verifica dei conti e di ricorso applicabili agli importatori corrispondono a quelli applicati ai produttori locali. 10. Israele adotta provvedimenti per garantire che il coefficiente TAMA applicabile a ogni prodotto non superi il livello che rispecchia la pratica seguita realmente dai grossisti per questo prodotto. I tassi di maggiorazione TAMA saranno calcolati sulla base dell’aumento effettivo del prezzo all’ingrosso di un campione preso a caso presso importatori omologati e non omologati. 11. Su richiesta degli Stati dell’AELS, Israele fornisce un elenco dei coefficienti TAMA applicabili e, se gli Stati dell’AELS lo richiedono per determinati prodotti, una spiegazione della metodologia applicata al calcolo dei tassi di maggiorazione TAMA per tali prodotti. Nello stesso modo, Israele notifica agli Stati dell’AELS tutti i cambiamenti dei coefficienti TAMA. Licenze d’importazione e d’esportazione 12. Le licenze automatiche dovrebbero essere concesse in modo tale che non comportino restrizioni degli scambi. Tali licenze dovrebbero in ogni caso essere rilasciate entro quattordici giorni. All’entrata in vigore dell’Accordo, le Parti hanno convenuto inoltre di comunicarsi reciprocamente un elenco degli articoli che sono oggetto di licenze automatiche d’importazione. Regole d’origine 13. In merito alla nota 7 dell’Allegato I al Protocollo B, è stato convenuto che fino al momento in cui Israele diventerà Parte all’Accordo relativo all’attuazione dell’Articolo VII del GATT[^t-3], questo Paese definirà il «valore in dogana» in conformità della Convezione sul valore in dogana delle merci. 14. Israele intende aderire all’accordo relativo all’applicazione dell’articolo VII del GATT al più tardi cinque anni dopo l’entrata in vigore del presente Accordo. Valori limite 15. Gli Stati dell’AELS e Israele hanno convenuto che al più tardi il 1° gennaio 1997, i valori limite indicati all’articolo 8 paragrafi 1 e 2 del Protocollo B, relativi alla dichiarazione dell’esportatore, si situano – per i piccoli pacchi e i bagagli personali dei viaggiatori – allo stesso livello dei valori limite applicati a quel momento secondo gli accordi di libero scambio stipulati tra gli Stati dell’AELS e Paesi terzi. Monopoli di Stato 16. L’Articolo 9 dell’Accordo si applica alla Svizzera e al Liechtenstein per quanto concerne i monopoli di Stato del sale e della polvere da sparo e al monopolio islandese del concime, soltanto se questi Stati sono tenuti a soddisfare gli obblighi corrispondenti in virtù dell’accordo stipulato tra gli Stati dell’AELS e le Comunità europee e i loro Stati membri sullo Spazio economico europeo. 17. L’articolo 9 sarà applicato al più tardi a decorrere dal 1° gennaio 1995, per quanto riguarda il monopolio austriaco del sale. Restrizioni degli scambi per motivi religiosi o rituali 18. Le Parti hanno convenuto che i divieti o le restrizioni all’importazione, all’esportazione o al transito di merci, per motivi religiosi o rituali, sono compatibili con l’Accordo, a condizione che siano applicate in conformità del principio del trattamento nazionale e secondo le condizioni e le disposizioni previste nell’articolo 8 dell’Accordo. Diritti di proprietà intellettuale 19. In applicazione dell’articolo 15 dell’Accordo, le Parti provvedono: a. alla ratifica, il 1° gennaio 1995, della Convenzione internazionale del 26 ottobre 1961 per la protezione degli artisti, interpreti o esecutori, dei produttori di fonogrammi e di organismi di radiodiffusione (Convenzione di Roma), alla sua adesione e al suo rispetto nonché ad emanare la legislazione necessaria per rendere effettivo l’atto citato; b. affinché, nei cinque anni successivi all’entrata in vigore dell’Accordo, le licenze rilasciate per motivi di non applicazione siano utilizzate nella misura necessaria per approvvigionare in modo preponderante il mercato interno a condizioni commerciali ragionevoli. Aiuti pubblici 20. Le norme applicabili agli aiuti pubblici e la loro esecuzione saranno riesaminate prima della fine del 1995, segnatamente per adeguarle ai cambiamenti che potrebbero intervenire nelle relazioni tra le Parti e le Comunità europee per quel che concerne gli aiuti pubblici. Procedura d’arbitrato 21. Gli Stati dell’AELS e Israele considerano che una procedura d’arbitrato potrebbe essere presa in esame per le vertenze che non possono essere regolate tramite consultazione tra le Parti in causa o in seno al Comitato misto. Il Comitato misto prosegue l’esame di questa procedura. Cooperazione 22. Il Comitato misto può discutere le possibilità e le modalità per promuovere le relazioni commerciali, mediante la cooperazione nell’ambito degli scambi. Conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai Territori È stato concluso un accordo che permetterà l’esportazione di prodotti industriali e agricoli provenienti dai Territori, da parte d’Israele, verso gli Stati dell’AELS. Secondo questo accordo, Israele adotterà disposizioni adeguate affinché tali esportazioni possano svolgersi senza scontrarsi con difficoltà amministrative. Alle esportazioni verso gli Stati dell’AELS provenienti da produttori ed esportatori arabi dei Territori, sono applicate procedure simili a quelle applicate alle loro esportazioni verso la Comunità europea. I produttori e gli esportatori arabi dei Territori possono instaurare liberamente relazioni e negoziare con compratori degli Stati dell’AELS per promuovere i loro interessi commerciali. Nei Territori, le Camere di commercio arabe locali sono abilitate a rilasciare certificati d’origine.
+
+[^t-3]: [RS 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+
+Lista degli allegati**[^t-4]**
+
+<table>
+<tr><td>**Record of Unde****r****standings**</td><td>Relating to the Agreement between the EFTA States and Israel; Protocollo d’intesa</td></tr>
+<tr><td>**Agreed Minutes**</td><td>Minutes agreed on signing the Free Trade Agreement between the EFTA States and Israel</td></tr>
+<tr><td>**Joint Concl****u****sions**</td><td>Joint EFTA-Israel Conclusions on exports from the territories; Conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai Territori</td></tr>
+<tr><td>**Declarations**</td><td>by Israel and EFTA States concerning Article 18 of the Agreement</td></tr>
+<tr><td>**Annex I**</td><td>Referred to in Sub-Paragraph (a) of Article 2 – Products not covered by the Agreement</td></tr>
+<tr><td>**Protocol A**</td><td>Referred to in Sub-Paragraph 1(b) of Article 2 – Processed agricultural products</td></tr>
+<tr><td></td><td>Table I to Protocol A</td></tr>
+<tr><td></td><td>Table IV to Protocol A – Norway</td></tr>
+<tr><td></td><td>Table VI to Protocol A – Liechtenstein, Switzerland</td></tr>
+<tr><td></td><td>Table VII to Protocol A – Iceland – List 1</td></tr>
+<tr><td></td><td>Table VII to Protocol A – Iceland – List 2</td></tr>
+<tr><td></td><td>Table VIII to Protocol A – Israel</td></tr>
+<tr><td>**Annex II**</td><td>Referred to in Sub-Paragraph 1(c) of Article 2 – Fish and other marine products</td></tr>
+<tr><td>**Protocol B**</td><td>Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
+<tr><td></td><td>Annex I to Protocol B – Introductory notes to the list in Annex II</td></tr>
+<tr><td></td><td>Annex II to Protocol B – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
+<tr><td></td><td>Annex III A to Protocol B – Specimens of movement certificate EUR 1 and application for a movement certificate EUR 1</td></tr>
+<tr><td></td><td>Annex III B to Protocol B – Specimens of movement certificate EUR-MED and application for a movement certificate EUR-MED</td></tr>
+<tr><td></td><td>Annex IV A to Protocol B – Text of the invoice declaration</td></tr>
+<tr><td></td><td>Annex IV B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
+<tr><td>**Protocol C**</td><td>Referred to in Paragraph 1 of Article 5 *(deleted)* – Customs duties of a fiscal nature</td></tr>
+<tr><td>**Annex III**</td><td>Referred to in Paragraph 2 of Article 6 *(deleted)* – Customs duties on exports and charges having equivalent effect</td></tr>
+<tr><td>**Annex IV**</td><td>Referred to in Paragraph 2 of Article 7 *(deleted)* – Quantitative restrictions and measures having equivalent effect</td></tr>
+<tr><td>**Annex V**</td><td>Referred to in Article 15 – Protection of intellectual property</td></tr>
+<tr><td>**Annex VI und VII**</td><td>…[^t-5]</td></tr>
+<tr><td>**Protocol D**</td><td>Concerning the treatment that may be applied by Liechtenstein and Switzerland to imports of certain products subject to the scheme for building up compulsory reserves</td></tr>
+<tr><td>**Annex VIII**</td><td>Referred to in Article 25<sup>bis</sup> – Constitution and functioning of the Arbitral Tribunal</td></tr>
+<tr><td>**Joint Commi****t****tee Decisions**</td><td></td></tr>
+<tr><td>No 1-06</td><td>Amendments to Articles 18 and 23 and Annex II, and deletion of Annexes VI and VIII – State Aid</td></tr>
+<tr><td>No 4-05</td><td>Amendment to Article 22 concerning balance of payments difficulties</td></tr>
+<tr><td>No 3-05</td><td>Mutual administrative assistance in customs matters</td></tr>
+<tr><td>No 2-05</td><td>Amendments to Protocol B</td></tr>
+<tr><td>No 1-05</td><td>Administrative Arrangement</td></tr>
+<tr><td>No 1-05</td><td>Administrative arrangement concerning the implementation of Protocol B and Annex II of the bilateral agricultural agreements</td></tr>
+<tr><td>No 2-03</td><td>Annex II</td></tr>
+<tr><td>No 1-03</td><td>Annex I</td></tr>
+<tr><td>No 2-99</td><td>Deletion Annex IV</td></tr>
+<tr><td>No 1-99</td><td>Amendment to Annex II</td></tr>
+<tr><td>No 6-97</td><td>Amendment to Annex VI to Protocol B</td></tr>
+<tr><td>No 5-97</td><td>Introduction of a new Article 25<sup>bis</sup> and Annex VIII on arbitration procedure</td></tr>
+<tr><td>No 4-97</td><td>Amendment to Annex IV *(deleted by 2-99)*</td></tr>
+<tr><td>No 3-97</td><td>Deletion of Annex III</td></tr>
+<tr><td>No 2-97</td><td>Deletion of Protocol C</td></tr>
+<tr><td>No 1-97</td><td>Amendment to Annex I</td></tr>
+<tr><td>No 5-96</td><td>Amendment to Article 37 – Depositary</td></tr>
+<tr><td>No 4-96</td><td>Amendment of Annex IV</td></tr>
+<tr><td>No 3-96</td><td>Amendment of Annex III *(deleted by 3-97)*</td></tr>
+<tr><td>No 2-96</td><td>Amendment to Protocol C *(deleted by 2-97)*</td></tr>
+<tr><td>No 1-96</td><td>Amendment to Protocol A</td></tr>
+<tr><td>No 4-93</td><td>Amendment to and corrections of technical errors in annexes and protocols to the Agreement</td></tr>
+<tr><td>No 3-93</td><td>Amendment to Protocol A</td></tr>
+<tr><td>No 2-93</td><td>Sub-committee on customs and origin matters</td></tr>
+<tr><td>No 1-93</td><td>Rules of procedure Joint Committee</td></tr>
+</table>
+
+## Campo d’applicazione il l° luglio 1993
+
+[^t-4]: Questi doc. (con l’eccezione del Prot. d’intesa e dei conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai territori) non sono pubblicati né nella RU né nella RS (vedi anche [RU 2008 3967](https://fedlex.data.admin.ch/eli/oc/2008/535)). Sono disponibili solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/israel/
+[^t-5]: Abrogati dalla Dec. n. 1/2006 del Comitato misto AELS–Israele del 3 lug. 2006, con effetto, per la Svizzera, dal 5 lug. 2010 ([RU 2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644)).
+
+<table>
+<tr><td colspan="2">Stati partecipanti</td><td>Ratificazione</td><td></td><td>Entrata in vigore</td><td></td></tr>
+<tr><td colspan="2">Israele</td><td>28 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Liechtenstein<sup>a</sup></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">Norvegia</td><td>22 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Svezia</td><td>10 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Svizzera</td><td>11 maggio</td><td>1993</td><td>1° luglio</td><td>1993</td></tr>
+<tr><td><sup>a</sup></td><td colspan="5">Applicazione provvisoria dal 1° mar. 1993.</td></tr>
+</table>

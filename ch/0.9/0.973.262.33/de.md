@@ -1,0 +1,143 @@
+---
+sr: "0.973.262.33"
+title: Abkommen vom 30. Juli 1973 zwischen der Regierung der Schweizerischen Eidgenossenschaft und der Regierung der Islamischen Republik Pakistan über die Konsolidierung pakistanischer Schulden (mit Beilage und Briefwechsel)
+eli: "https://fedlex.data.admin.ch/eli/cc/1974/2206_2206_2206"
+language: de
+version: 1974-04-30
+adopted: 1973-07-30
+in_force: 1974-04-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2206_2206_2206/19740430/de/xml/fedlex-data-admin-ch-eli-cc-1974-2206_2206_2206-19740430-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2206_2206_2206/19740430/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zwischen der Regierung der Schweizerischen Eidgenossenschaft und der Regierung der Islamischen Republik Pakistan über die Konsolidierung pakistanischer Schulden
+
+AS **1974** 2206
+
+Originaltext
+
+Abgeschlossen am 30. Juli 1973 In Kraft getreten durch Notenaustausch am 30. April 1974
+
+(Stand am 30. April 1974)
+
+Im Bestreben, Pakistan durch die Konsolidierung und Finanzierung eines Teils seiner mittelfristigen Handelsschulden finanzielle Hilfe für die Entlastung seiner Zahlungsbilanz zu gewähren,
+
+haben die Regierung der Schweizerischen Eidgenossenschaft und die Regierung der Islamischen Republik Pakistan
+
+folgendes vereinbart:
+
+#### Art. 1
+
+<sup>1.</sup> Das vorliegende Abkommen findet Anwendung auf die in der beiliegenden Liste aufgeführten, zwischen dem 1. Mai 1971 und 30. Juni 1973 fälligen Zahlungen für Kapital und einen Teil (Fr. 4 804 868.20) der Zinsen, die aus dem Abkommen vom 22. Juni 1964[^1-1] zwischen der schweizerischen Regierung und der pakistanischen Regierung über Transferkredite und aus dem Notenwechsel vom 9. Januar 1967[^1-2] zwischen diesen beiden Regierungen über die Erhöhung von Transferkrediten herrühren, soweit sie aus Kreditbeanspruchungen vor dem 31. Oktober 1972 entstanden sind.
+
+<sup>2.</sup> Die in Absatz 1 erwähnten, vor Unterzeichnung des vorliegenden Abkommens fällig gewordenen und noch nicht transferierten Zahlungen sind sofort nach dessen Unterzeichnung zu leisten und zu transferieren.
+
+[^1-1]: [SR 0.973.262.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4434)
+[^1-2]: [SR 0.973.262.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4435)
+
+#### Art. 2
+
+Für die Finanzierung der in Artikel 1 des vorliegenden Abkommens erwähnten pakistanischen Schulden wird die schweizerische Regierung zugunsten der pakistanischen Regierung einen Kredit in der Höhe der an die schweizerischen Gläubiger geleisteten Zahlungen eröffnen.
+
+#### Art. 3
+
+Die pakistanische Regierung garantiert den freien Transfer aller Zahlungen, die zur Begleichung der in Artikel 1 des vorliegenden Abkommens erwähnten pakistanischen Schulden geleistet werden.
+
+#### Art. 4
+
+Die pakistanische Regierung wird keine Massnahmen treffen, die den freien Transfer von Zahlungen behindern oder verunmöglichen könnten, welche pakistanische Schuldner schweizerischen Gläubigern auf Grund von nicht unter Artikel 1 des vorliegenden Abkommens fallenden Verpflichtungen schulden.
+
+#### Art. 5
+
+Die schweizerische Regierung wird der pakistanischen Regierung den in Artikel 2 des vorliegenden Abkommens erwähnten Kredit zur freien Verfügung stellen im Verhältnis der Zahlungen, welche die pakistanische Regierung an den Schweizerischen Bankverein für Rechnung der Bankengruppe (Schweizerischer Bankverein, Schweizerische Kreditanstalt, Schweizerische Bankgesellschaft, Schweizerische Volksbank) leistet, sobald diese Zahlungen erfolgt sind. Zu diesem Zweck wird bei der Schweizerischen Nationalbank in Zürich ein Konto «P» zugunsten der «State Bank of Pakistan» eröffnet werden.
+
+#### Art. 6
+
+Die pakistanische Regierung wird die ihr auf dem Kreditkonto «P» zur Verfügung gestellten Beträge vom Datum jeder Gutschrift an zu einem Satz von vier Prozent pro Jahr verzinsen. Diese Zinsen sind am 30. Juni und 31. Dezember jedes Jahres zu bezahlen; die erste Zahlung wird am 31. Dezember 1973 fällig.
+
+#### Art. 7
+
+Die pakistanische Regierung wird den ihr gemäss Artikel 2 und Artikel 5 des vorliegenden Abkommens zur Verfügung gestellten Kredit in sieben gleichen Halbjahresraten zurückzahlen, die erste Zahlung ist am 1. Juli 1974, die letzte am 1. Juli 1977 zu leisten.
+
+#### Art. 8
+
+Alle Zahlungen für Kapital und Zinsen sind in freien Schweizerfranken an die Schweizerische Nationalbank in Zürich zu leisten, die für die schweizerische Regierung handelt.
+
+#### Art. 9
+
+Die pakistanische Regierung wird dem Schweizerischen Bankverein für Rechnung der Bankengruppe auf allen in Artikel 1 des vorliegenden Abkommens erwähnten Zahlungen einen Konsolidierungs‑Zins von vier Prozent entrichten. Dieser Zins wird berechnet für die Zeit zwischen der vertraglichen Fälligkeit jeder Zahlung und der effektiven Zahlung durch die pakistanische Regierung. Der Gesamtbetrag dieses Konsolidierungs‑Zinses ist sofort nach Unterzeichnung des vorliegenden Abkommens zu bezahlen. Artikel 2 des vorliegenden Abkommens findet auf diese Zahlung keine Anwendung.
+
+#### Art. 10
+
+Die pakistanische Regierung
+
+- a) sichert der Schweiz in bezug auf Rückzahlungsfrist und Zinssatz eine nicht weniger günstige Behandlung zu als sie irgendeinem anderen Gläubigerland für die Konsolidierung vergleichbarer Fälligkeiten gewährt wird;
+- b) wird die schweizerische Regierung vom Inhalt aller über die in Absatz a) erwähnten Schulden getroffenen Konsolidierungsabkommen unterrichten.
+
+#### Art. 11
+
+Das vorliegende Abkommen wird vom Tage der Unterzeichnung an provisorisch angewandt, es tritt in Kraft sobald jede Vertragspartei der andern mitgeteilt hat, dass die verfassungsmässigen Voraussetzungen für die Inkraftsetzung dieses Abkommens erfüllt sind.
+
+Ausgefertigt in zwei Exemplaren, in Islamabad, den 30. Juli 1973, in deutscher und englischer Sprache, wobei beide Texte gleichermassen verbindlich sind.
+
+<table>
+<tr><td>Für die Regierung der Schweizerischen Eidgenossenschaft: J. Mallet</td><td>Für die Regierung der Islamischen Republik Pakistan: S. S. Iqbal Hosain</td></tr>
+</table>
+
+Anhang
+
+## Pakistanische Schulden, die unter das Konsolidierungsabkommen vom 30 Juli 1973 fallen
+
+<table>
+<tr><th>Fälligkeit 1</th><th>Kapital 2</th><th>Konsolidierungszins 4 %\* 3</th><th>Subtotal 4</th><th>Vertragszins 7½ % 5</th><th>Konsolidierungszins 4 %\*\* 6</th><th>Subtotal (5+6) 7</th><th>Total 8</th></tr>
+<tr><td>31. 5. 71</td><td>425 198.60</td><td>35 433.21</td><td>460 631.81</td><td></td><td></td><td></td><td>460 631.81</td></tr>
+<tr><td>30. 6. 71</td><td>588 269.81</td><td>47 061.58</td><td>635 331.39</td><td>1 512 443.70</td><td>120 995.50</td><td>1 633 439.20</td><td>2 268 770.59</td></tr>
+<tr><td>31. 7. 71</td><td>536 064.67</td><td>41 098.29</td><td>577 162.96</td><td></td><td></td><td></td><td>577 162.96</td></tr>
+<tr><td>31. 8. 71</td><td>309 749.15</td><td>22 714.94</td><td>332 464.09</td><td></td><td></td><td></td><td>332 464.09</td></tr>
+<tr><td>30. 9. 71</td><td>321 570.15</td><td>22 509.91</td><td>344 080.06</td><td></td><td></td><td></td><td>344 080.06</td></tr>
+<tr><td>31. 10. 71</td><td>378 695.—</td><td>25 246.33</td><td>403 941.33</td><td></td><td></td><td></td><td>403 941.33</td></tr>
+<tr><td>30. 11. 71</td><td>475 042.35</td><td>30 086.01</td><td>505 128.36</td><td></td><td></td><td></td><td>505 128.36</td></tr>
+<tr><td>31. 12. 71</td><td>651 704.90</td><td>39 102.29</td><td>690 807.19</td><td>1 508 667.90</td><td>90 520.07</td><td>1 599 187.97</td><td>2 289 995.16</td></tr>
+<tr><td>31. 1. 72</td><td>542 207.67</td><td>30 725.10</td><td>572 932.77</td><td></td><td></td><td></td><td>572 932.77</td></tr>
+<tr><td>29. 2. 72</td><td>314 551.05</td><td>16 776.05</td><td>331 327.10</td><td></td><td></td><td></td><td>331 327.10</td></tr>
+<tr><td>31. 3. 72</td><td>337 953.03</td><td>16 897.65</td><td>354 850.68</td><td></td><td></td><td></td><td>354 850.68</td></tr>
+<tr><td>30. 4. 72</td><td>378 694.60</td><td>17 672.41</td><td>396 367.01</td><td></td><td></td><td></td><td>396 367.01</td></tr>
+<tr><td>31. 5. 72</td><td>475 042.15</td><td>20 585.16</td><td>495 627.31</td><td></td><td></td><td></td><td>495 627.31</td></tr>
+<tr><td>30. 6. 72</td><td>652 766.70</td><td>26 110.67</td><td>678 877.37</td><td>1 426 059.10</td><td>57 042.36</td><td>1 483 101.46</td><td>2 161 978.83</td></tr>
+<tr><td>31. 7. 72</td><td>542 207.37</td><td>19 880.93</td><td>562 088.30</td><td></td><td></td><td></td><td>562 088.30</td></tr>
+<tr><td>31. 8. 72</td><td>314 550.95</td><td>10 485.03</td><td>325 035.98</td><td></td><td></td><td></td><td>325 035.98</td></tr>
+<tr><td>30. 9. 72</td><td>356 489.95</td><td>10 694.70</td><td>367 184.65</td><td></td><td></td><td></td><td>367 184.65</td></tr>
+<tr><td>31. 10. 72</td><td>383 855.05</td><td>10 236.13</td><td>394 091.18</td><td></td><td></td><td></td><td>394 091.18</td></tr>
+<tr><td>30. 11. 72</td><td>477 040.85</td><td>11 130.95</td><td>488 171.80</td><td></td><td></td><td></td><td>488 171.80</td></tr>
+<tr><td>31. 12. 72</td><td>664 030.40</td><td>13 280.60</td><td>677 311.—</td><td>1 342 146.75</td><td>26 842.93</td><td>1 368 989.68</td><td>2 046 300.68</td></tr>
+<tr><td>31. 1. 73</td><td>542 207.37</td><td>9 036.79</td><td>551 244.16</td><td></td><td></td><td></td><td>551 244.16</td></tr>
+<tr><td>28. 2. 73</td><td>314 550.95</td><td>4 194.01</td><td>318 744.96</td><td></td><td></td><td></td><td>318 744.96</td></tr>
+<tr><td>31. 3. 73</td><td>356 489.95</td><td>3 564.90</td><td>360 054.85</td><td></td><td></td><td></td><td>360 054.85</td></tr>
+<tr><td>30. 4. 73</td><td>386 286.10</td><td>2 575.24</td><td>388 861.34</td><td></td><td></td><td></td><td>388 861.34</td></tr>
+<tr><td>31. 5. 73</td><td>477 040.25</td><td>1 590.13</td><td>478 630.38</td><td></td><td></td><td></td><td>478 630.38</td></tr>
+<tr><td>30. 6. 73</td><td>664 030.40</td><td>—.—</td><td>664 030.40</td><td>1 240 539.50</td><td>—.—</td><td>1 240 539.50</td><td>1 904 569.90</td></tr>
+<tr><td>Total</td><td>11 866 289.42</td><td>\*\*\* 488 689.01</td><td>12 354 978.43</td><td>7 029 856.95</td><td>\*\*\*\* 295 400.86</td><td>7 325 257.81</td><td>19 680 236.24</td></tr>
+<tr><td colspan="8">\* Konsolidierungszins 4 % auf Kapital, gerechnet von jeder Fälligkeit bis zum Tage der effektiven Zahlung \*\* Konsolidierungszins 4 % auf Zinsen, gerechnet von jeder Fälligkeit bis zum Tage der effektiven Zahlung \*\*\* wovon 4 158 848.95 Schweizerfranken auf Ostpakistan entfallen \*\*\*\* wovon 2 696 026.15 Schweizerfranken auf Ostpakistan entfallen</td></tr>
+</table>
+
+## Briefwechsel vom 30. Juli 1973
+
+Übersetzung des englischen Originaltextes
+
+<table>
+<tr><td>S. S. Iqbal Hosain, SQA., PMAS., Sekretär Abteilung für wirtschaftliche Angelegenheiten</td><td>Islamabad, den 30. Juli 1973 Herrn Jacques‑Albert Mallet Schweizerischer Botschafter Islamabad</td></tr>
+</table>
+
+Herr Botschafter,
+
+Ich beehre mich, den Empfang Ihres Schreibens vom heutigen Tage zu bestätigen, das wie folgt lautet:
+
+- «In Übereinstimmung mit dem heute unterzeichneten Abkommen über die Konsolidierung pakistanischer Schulden, beehre ich mich zu bestätigen, dass mit der Unterzeichnung des Abkommens über die Konsolidierung pakistanischer Schulden der nicht ausgenutzte Saldo des zweiten Transferkredites zur weiteren Beanspruchung freigegeben wird. Pakistans teilweise Suspendierung der Schuldendienstzahlungen während der Schlussverhandlungen über das Abkommen betreffend die Fälligkeiten 1973/74 wird der Ausnutzung des nicht beanspruchten Saldos nichts im Wege stehen.»
+
+Genehmigen Sie, Herr Botschafter, die Versicherung meiner ausgezeichneten Hochachtung.
+
+<table>
+<tr><td></td><td>S. S. Iqbal Hosain</td></tr>
+</table>

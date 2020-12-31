@@ -1,0 +1,156 @@
+---
+sr: "520.31"
+eli: "https://fedlex.data.admin.ch/eli/cc/2014/616"
+language: en
+version: 2016-01-01
+adopted: 2014-10-29
+in_force: 2015-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/616/20160101/en/xml/fedlex-data-admin-ch-eli-cc-2014-616-20160101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/616/20160101/en"
+---
+
+> Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
+
+# Ordinanza sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza
+
+(OPBC)
+
+del 29 ottobre 2014 (Stato 1° gennaio 2016)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 3 capoverso 5, 9 capoverso 2, 15 capoverso 4 e 21 capoverso 1 della legge federale del 20 giugno 2014[^ingress-1] sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza (LPBC),
+
+ordina:
+
+[^ingress-1]: [RS 520.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7608)
+
+#### Art. 1
+
+**Categorie dei beni culturali e criteri di classificazione**
+
+<sup>1</sup>
+
+I beni culturali sono classificati secondo le categorie seguenti:
+
+- a. beni culturali d’importanza nazionale (oggetti A);
+- b. beni culturali d’importanza regionale (oggetti B);
+- c. beni culturali d’importanza locale (oggetti C).
+
+<sup>2</sup>
+
+Per la classificazione si tiene conto dei criteri seguenti:
+
+- a. importanza architettonica e artistica;
+- b. importanza scientifica e dal profilo della scienza dell’arte;
+- c. importanza ideale e materiale;
+- d. importanza storica;
+- e. importanza tecnica;
+- f. per le costruzioni, in aggiunta alle lettere a–e: importanza dell’oggetto nel contesto locale o paesaggistico e qualità dell’edificio tenuto conto dell’ambiente circostante;
+- g.
+
+  per le collezioni, in aggiunta alle lettere a–e:
+
+  - 1\. valore contestuale,
+  - 2\. importanza culturale e grado di notorietà,
+  - 3\. stato degli oggetti e modalità d’immagazzinamento.
+
+#### Art. 2
+
+**Inventario PBC, oggetti C e geoportale della Confederazione**
+
+<sup>1</sup> L’Inventario della protezione dei beni culturali con gli oggetti A e B (Inventario PBC) è allestito dall’Ufficio federale della protezione della popolazione (UFPP) in collaborazione con i Cantoni e con la Commissione federale dei beni culturali. Esso viene aggiornato periodicamente.
+
+<sup>2</sup> I Cantoni disciplinano la designazione degli oggetti C.
+
+<sup>3</sup> L’UFPP fornisce i dati relativi agli oggetti A all’Ufficio federale di topografia. Quest’ultimo rappresenta i dati nel geoportale della Confederazione.
+
+#### Art. 3
+
+**Informazione**
+
+L’UFPP e i Cantoni provvedono affinché le autorità, le istituzioni e le organizzazioni specializzate, nonché la popolazione siano informati sullo scopo e l’utilità delle misure di protezione dei beni culturali.
+
+#### Art. 4
+
+**Istruzione e personale**
+
+<sup>1</sup>
+
+L’istruzione dei quadri della protezione civile responsabili della protezione dei beni culturali e degli specialisti in protezione dei beni culturali della protezione civile comprende in particolare i seguenti temi:
+
+- a. l’inventariazione;
+- b. l’allestimento di documentazioni brevi;
+- c. la pianificazione d’evacuazione;
+- d. la pianificazione d’intervento in collaborazione con i pompieri;
+- e. l’intervento in caso di catastrofi.
+
+<sup>2</sup>
+
+L’istruzione del personale delle istituzioni culturali verte in particolare su:
+
+- a. la pianificazione di misure di protezione;
+- b. il sostegno e sulla consulenza delle organizzazioni partner della protezione della popolazione in caso di catastrofe.
+
+<sup>3</sup> L’UFPP mette a disposizione dei Cantoni i documenti d’istruzione necessari.
+
+#### Art. 5
+
+**Documentazioni di sicurezza e riproduzioni fotografiche di sicurezza**
+
+<sup>1</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) stabilisce le esigenze poste alle documentazioni di sicurezza e disciplina i dettagli per la realizzazione, la manipolazione, il trattamento e la custodia delle riproduzioni fotografiche di sicurezza.
+
+<sup>2</sup> L’UFPP gestisce un archivio centrale dei microfilm per la conservazione delle riproduzioni fotografiche di sicurezza.
+
+<sup>3</sup> Esso acquista una copia positiva di ogni riproduzione fotografica di sicurezza realizzata dai Cantoni e la conserva.
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Abrogato dal n. I dell’O dell’11 nov. 2015, con effetto dal 1° gen. 2016 (RU **2015** 4751).
+
+#### Art. 7
+
+**Contrassegno**
+
+<sup>1</sup> Il DDPS stabilisce i dettagli in relazione alle direttive tecniche per la realizzazione e l’apposizione dei contrassegni.
+
+<sup>2</sup> Esso può fornire i contrassegni ai Cantoni già in tempo di pace.
+
+#### Art. 8
+
+**Deposito protetto**
+
+L’UFPP applica, in stretta collaborazione con gli organi federali interessati, i trattati internazionali di cui all’articolo 12 capoverso 2 LPBC.
+
+#### Art. 9
+
+**Abrogazione e modifica di altri atti normativi**
+
+L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’allegato.
+
+#### Art. 10
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2015.
+
+Allegato
+
+(art. 9)
+
+## Abrogazione e modifica di altri atti normativi
+
+I
+
+L’ordinanza del 17 ottobre 1984[^annexu1-lvlu1-1] sulla protezione dei beni culturali in caso di conflitto armato è abrogata.
+
+II
+
+Le ordinanze qui appresso sono modificate come segue:
+
+...[^annexu1-lvlu1-2]
+
+[^annexu1-lvlu1-1]: [RU **1984** 1250, **1994** 2678, **1995** 207 art. 27, **2006** 4705 n. II 42, **2011** 5227 n. I 4.6]
+[^annexu1-lvlu1-2]: Le mod. possono essere consultate alla RU **201****4** 3555.

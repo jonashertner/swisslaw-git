@@ -1,0 +1,706 @@
+---
+sr: "653.1"
+title: Legge federale del 18 dicembre 2015 sullo scambio automatico internazionale di informazioni a fini fiscali (LSAI)
+short: LSAI
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
+language: it
+version: 2021-01-01
+adopted: 2015-12-18
+in_force: 2016-05-27
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sullo scambio automatico internazionale di informazioni a fini fiscali
+
+(LSAI)
+
+del 18 dicembre 2015 (Stato 1° gennaio 2021)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 5 giugno 2015[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2015 4467](https://fedlex.data.admin.ch/eli/fga/2015/1281)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+<sup>1</sup>
+
+La presente legge disciplina l’attuazione dello scambio automatico di informazioni a fini fiscali (scambio automatico di informazioni) tra la Svizzera e uno Stato partner secondo:
+
+- a. l’Accordo multilaterale del 29 ottobre 2014[^1-1] tra Autorità Competenti concernente lo scambio automatico di informazioni relative a Conti Finanziari (Accordo SAI), allegato compreso;
+- b. altri accordi internazionali che prevedono uno scambio automatico di informazioni relative a conti finanziari.
+
+<sup>2</sup> Sono fatte salve le disposizioni derogatorie dell’accordo applicabile nel singolo caso.
+
+[^1-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+
+#### Art. 2
+
+**Definizioni**
+
+<sup>1</sup>
+
+Nella presente legge s’intende per:
+
+- a. *accordo applicabile*: un accordo o una convenzione secondo l’articolo 1 capoverso 1 applicabile nel singolo caso;
+- b. *standard comune di comunicazione di informazioni* *(SCC)*: lo standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai conti finanziari dell’Organizzazione per la cooperazione e lo sviluppo economici (OCSE);
+- c. *Stato partner*: uno Stato o un territorio con cui la Svizzera ha convenuto lo scambio automatico di informazioni;
+- d.
+
+  *istituto finanziario svizzero*:
+
+  - 1\. un istituto finanziario residente in Svizzera, eccetto qualsiasi sua succursale situata al di fuori della Svizzera, o
+  - 2\. una succursale situata in Svizzera di un istituto finanziario non residente in Svizzera;
+
+- e. *conto non documentato*: un conto preesistente di una persona fisica per il quale un istituto finanziario svizzero tenuto alla comunicazione non può determinare la residenza fiscale del titolare conformemente all’accordo applicabile;
+- f. *numero d’identificazione fiscale svizzero per persone fisiche*: il numero d’assicurato secondo la legge federale del 20 dicembre 1946[^2-1] sull’assicurazione per la vecchiaia e per i superstiti (numero d’assicurato AVS);
+- g. *numero d’identificazione fiscale svizzero per* *enti* *(numero IDI)*: il numero d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^2-2] sul numero d’identificazione delle imprese;
+- h. *numero d’identificazione fiscale estero*: il numero d’identificazione fiscale di un contribuente secondo il diritto dello Stato o del territorio di cui è residente fiscale;
+- i.[^2-3] *conto preesistente*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione già aperto il giorno antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
+- j.[^2-4] *nuovo conto*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione aperto il giorno dell’applicazione dello scambio automatico di informazioni con uno Stato partner, o dopo tale data;k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di franchi il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
+- k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di dollari americani[^2-5] il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
+- l. *conto di importo rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato supera un milione di dollari americani il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner, oppure il 31 dicembre di un anno successivo.
+
+<sup>2</sup> Il Consiglio federale può estendere per una durata determinata la definizione di «Giurisdizione partecipante» utilizzata negli accordi applicabili.
+
+[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-5]: Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+
+#### Art. 3
+
+**Istituti finanziari non tenuti alla comunicazione**
+
+<sup>1</sup>
+
+Per istituti finanziari non tenuti alla comunicazione che sono enti statali si intendono segnatamente:
+
+- a. la Confederazione Svizzera;
+- b. i Cantoni e i Comuni;
+- c. gli istituti e le agenzie interamente di proprietà degli enti di cui alla lettera a o b, in particolare le istituzioni, gli istituti e i fondi del sistema delle assicurazioni sociali a livello federale, cantonale e comunale.
+
+<sup>2</sup>
+
+Per istituti finanziari non tenuti alla comunicazione che sono organizzazioni internazionali si intendono segnatamente:
+
+- a. le organizzazioni partner di un accordo di sede internazionale con la Confederazione Svizzera;
+- b. le missioni diplomatiche, le missioni permanenti o altre rappresentanze presso organismi internazionali, le rappresentanze consolari o le missioni speciali, con status, privilegi e immunità sanciti nella Convenzione di Vienna del 18 aprile 1961[^3-1] sulle relazioni diplomatiche, nella Convenzione di Vienna del 24 aprile 1963[^3-2] sulle relazioni consolari o nella Convenzione dell’8 dicembre 1969[^3-3] sulle missioni speciali.
+
+<sup>3</sup> Per istituto finanziario non tenuto alla comunicazione che è una banca centrale si intendono segnatamente la Banca nazionale svizzera e gli istituti interamente di sua proprietà.
+
+<sup>4</sup> Gli istituti finanziari di cui ai capoversi 1–3 sono istituti finanziari tenuti alla comunicazione in relazione a pagamenti derivanti da un obbligo detenuto in connessione con attività finanziarie commerciali svolte da un’impresa di assicurazioni specificata, un istituto di custodia o un istituto di deposito.
+
+<sup>5</sup>
+
+Per istituti finanziari non tenuti alla comunicazione che sono un fondo pensione ad ampia partecipazione, un fondo pensione a partecipazione ristretta, un fondo pensione di un ente statale, di un’organizzazione internazionale o di una banca centrale, o un ente che presenta un rischio ridotto di essere utilizzato a fini di sottrazione d’imposta e ha caratteristiche sostanzialmente simili a quelle degli istituti finanziari non tenuti alla comunicazione secondo l’accordo applicabile si intendono segnatamente i seguenti istituti di previdenza professionale:
+
+- a.[^3-4] gli istituti di previdenza o le altre forme di previdenza, costituiti in Svizzera ai sensi degli articoli 48 e 49 della legge federale del 25 giugno 1982[^3-5] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP), dell’articolo 89*a* capoverso 6 o 7 del Codice civile (CC)[^3-6] o dell’articolo 331 capoverso 1 del Codice delle obbligazioni (CO)[^3-7];
+- b. gli istituti di libero passaggio costituiti ai sensi degli articoli 4 capoverso 1 e 26 capoverso 1 della legge del 17 dicembre 1993[^3-8] sul libero passaggio (LFLP);
+- c. gli istituti collettori secondo l’articolo 60 LPP;
+- d. i fondi di garanzia secondo gli articoli 56–59 LPP;
+- e. gli istituti di altre forme di previdenza riconosciute ai sensi dell’articolo 82 LPP;
+- f. le fondazioni d’investimento secondo gli articoli 53*g*–53*k* LPP, a condizione che tutti i partecipanti alla fondazione d’investimento siano istituti pensionistici o altre forme di previdenza secondo le lettere a–e.
+
+<sup>6</sup> Laddove l’accordo applicabile non prevede un termine, un emittente di carte di credito è considerato emittente di carte di credito qualificato, e quindi istituto finanziario non tenuto alla comunicazione, se al momento dell’entrata in vigore della presente legge soddisfa le condizioni previste dall’accordo applicabile. Un emittente di carte di credito che avvia l’attività dopo l’entrata in vigore della presente legge è considerato istituto finanziario non tenuto alla comunicazione se soddisfa le condizioni previste dall’accordo applicabile al più tardi entro sei mesi dall’avvio dell’attività.
+
+<sup>7</sup> Per istituti finanziari non tenuti alla comunicazione che sono un veicolo di investimento collettivo esente si intendono segnatamente gli investimenti collettivi di capitale svizzeri che sottostanno alla legge del 23 giugno 2006[^3-9] sugli investimenti collettivi e che soddisfano le condizioni previste dall’accordo applicabile in materia di partecipazioni al veicolo di investimento collettivo e di quote sotto forma di cartevalori al portatore. Il Consiglio federale stabilisce i criteri secondo cui un veicolo di investimento collettivo è un istituto finanziario non tenuto alla comunicazione. Il Consiglio federale designa i veicoli.
+
+<sup>8</sup>
+
+Laddove l’accordo applicabile non prevede un termine, i veicoli di investimento collettivo soddisfano la condizione relativa alle quote sotto forma di cartevalori al portatore se:
+
+- a. dopo l’entrata in vigore della presente legge non emettono altre quote sotto forma di cartevalori al portatore; e
+- b. dispongono di politiche e procedure volte a garantire che dette quote siano riscattate o immobilizzate al più presto, ma al più tardi entro due anni dall’entrata in vigore della presente legge.
+
+<sup>9</sup> Laddove l’accordo applicabile lo prevede, un trust è considerato un istituto finanziario non tenuto alla comunicazione purché il fiduciario del trust (trustee) sia un istituto finanziario tenuto alla comunicazione e comunichi tutte le informazioni da comunicare secondo l’accordo applicabile in merito a tutti i conti oggetto di comunicazione del trust.
+
+<sup>10</sup> ...[^3-10]
+
+<sup>11</sup> Il Consiglio federale può designare quali istituti finanziari non tenuti alla comunicazione anche altri enti purché gli stessi presentino un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e abbiano caratteristiche sostanzialmente simili agli istituti finanziari non tenuti alla comunicazione secondo l’accordo applicabile. Il Consiglio federale stabilisce i criteri secondo cui altri enti sono considerati istituti finanziari non tenuti alla comunicazione.
+
+[^3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+[^3-4]: Vedi art. 41 qui appresso.
+[^3-5]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^3-6]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-7]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-8]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-10]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+#### Art. 4
+
+**Conti esclusi**
+
+<sup>1</sup>
+
+Per conti esclusi che sono conti pensionistici o conti che presentano un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e che hanno caratteristiche sostanzialmente simili ai conti esclusi secondo l’accordo applicabile si intendono segnatamente:
+
+- a.[^4-1] conti nel quadro della previdenza professionale, compresi i contratti di assicurazione di gruppo, aperti o detenuti presso uno o più istituti finanziari svizzeri non tenuti alla comunicazione;
+- b. forme ammissibili per il mantenimento della previdenza, polizze e conti di libero passaggio costituiti ai sensi degli articoli 4 capoverso 1 e 26 capoverso 1 LFLP[^4-2];
+- c.[^4-3] forme previdenziali riconosciute ai sensi dell’articolo 82 capoverso 2 LPP[^4-4], quali i contratti di previdenza vincolata conclusi con istituti d’assicurazione e le convenzioni di previdenza vincolata concluse con fondazioni bancarie.
+
+<sup>2</sup>
+
+Per conti esclusi che sono altri conti che presentano un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e che hanno caratteristiche sostanzialmente simili ai conti esclusi secondo l’accordo applicabile si intendono segnatamente:[^4-5]
+
+- a.[^4-6] conti aperti o detenuti presso uno o più istituti finanziari svizzeri non tenuti alla comunicazione;
+- b. conti di garanzia della pigione secondo l’articolo 257*e* CO[^4-7].
+
+<sup>3</sup> Il Consiglio federale può designare quali conti esclusi anche altri conti purché presentino un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e abbiano caratteristiche sostanzialmente simili ai conti esclusi secondo l’accordo applicabile. Il Consiglio federale stabilisce i criteri secondo cui altri conti sono considerati conti esclusi.
+
+[^4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^4-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^4-5]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-6]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^4-7]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 5
+
+**Istituti finanziari residenti in Svizzera**
+
+<sup>1</sup> Sono considerati istituti finanziari residenti in Svizzera gli istituti finanziari assoggettati a imposta in Svizzera.
+
+<sup>2</sup>
+
+Gli istituti finanziari che non sono residenti fiscali in uno Stato o un territorio sono considerati residenti in Svizzera se:
+
+- a. sono stati costituiti secondo il diritto svizzero;
+- b. hanno la loro direzione, compresa la direzione effettiva, in Svizzera; o
+- c. sono sottoposti alla vigilanza svizzera sui mercati finanziari.
+
+<sup>3</sup> Un istituto finanziario residente in Svizzera e in uno o più altri Stati o territori è considerato istituto finanziario svizzero in relazione ai conti finanziari aperti presso lo stesso in Svizzera.[^5-1]
+
+<sup>4</sup> Ai fini dell’accordo applicabile e della presente legge, un istituto finanziario sotto forma di trust è considerato residente in Svizzera se almeno uno dei suoi trustee risiede in Svizzera. La residenza del trustee è determinata secondo i capoversi 1–3.
+
+<sup>5</sup> Il Consiglio federale stabilisce i criteri secondo cui un istituto finanziario è considerato residente ai sensi del capoverso 1. Designa inoltre quali istituti finanziari esentati da imposta sono considerati residenti ai sensi del capoverso 1.
+
+[^5-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+#### Art. 6
+
+**Accordi sulla protezione dei dati**
+
+Se l’accordo applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 19 giugno 1992[^6-1] sulla protezione dei dati (LPD) e della presente legge.
+
+[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Sezione 2: Standard comune di comunicazione di informazioni
+
+#### Art. 7
+
+**Applicazione e sviluppo dell’Accordo SAI**
+
+<sup>1</sup> Nel quadro dell’attuazione dell’Accordo SAI[^7-1] i diritti e gli obblighi degli istituti finanziari svizzeri tenuti alla comunicazione si fondano sull’allegato all’Accordo SAI e sulla presente legge.
+
+<sup>2</sup> Se sono di portata limitata, il Consiglio federale può riprendere le modifiche dello SCC nell’allegato all’Accordo SAI. Il Consiglio federale sottopone le altre modifiche all’Assemblea federale per approvazione.
+
+<sup>3</sup>
+
+Sono considerate di portata limitata segnatamente le modifiche che:
+
+- a. non istituiscono nuovi obblighi né sopprimono diritti esistenti per le persone oggetto di comunicazione e per gli istituti finanziari svizzeri tenuti alla comunicazione;
+- b. sono soprattutto dirette alle autorità, disciplinano questioni tecnico-amministrative o non implicano importanti dispendi finanziari.
+
+[^7-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+
+#### Art. 8
+
+**Commentari dell’OCSE**
+
+Gli istituti finanziari svizzeri tenuti alla comunicazione attuano soltanto le modifiche ai commentari dell’OCSE sul Modello di accordo tra autorità competenti e sullo SCC che sono state integrate in una legge federale o in un’ordinanza oppure in un’istruzione dell’Amministrazione federale delle contribuzioni (AFC).
+
+#### Art. 9
+
+**Agevolazioni nell’adempimento degli obblighi di comunicazione e adeguata verifica**
+
+<sup>1</sup>
+
+Gli istituti finanziari svizzeri tenuti alla comunicazione possono:
+
+- a. ricorrere a prestatori di servizi esterni per ottemperare ai loro obblighi di comunicazione e adeguata verifica; restano tuttavia responsabili dell’adempimento di tali obblighi;
+- b. applicare le loro procedure di adeguata verifica relative ai conti di importo rilevante a determinati o a tutti i conti di importo non rilevante;
+- c. applicare le loro procedure di adeguata verifica relative ai nuovi conti a determinati o a tutti i conti preesistenti; continuano ad essere applicabili le altre prescrizioni concernenti i conti preesistenti;
+- d. rinunciare a verificare, identificare o comunicare determinati o tutti i conti preesistenti di enti il cui saldo o valore aggregato al 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner non supera 250 000 dollari americani;
+- e. per identificare i conti oggetto di comunicazione, applicare la procedura di ricerca dell’indirizzo di residenza o la ricerca nei loro archivi elettronici a determinati o tutti i conti preesistenti di importo non rilevante di persone fisiche;
+- f. per adempiere i loro obblighi di adeguata verifica per quanto riguarda i conti preesistenti di enti, utilizzare come prove documentali qualsiasi classificazione contenuta nei loro registri riguardante il titolare del conto determinata in base a un sistema standardizzato di codificazione settoriale nazionale o internazionale, registrata dall’istituto finanziario tenuto alla comunicazione secondo le sue consuete pratiche commerciali ai fini delle procedure di lotta contro il riciclaggio di denaro o per altre finalità di legge, diverse da quelle fiscali, e applicata da detto istituto finanziario tenuto alla comunicazione prima della data determinante per classificare il conto finanziario come conto preesistente, a condizione che l’istituto finanziario tenuto alla comunicazione non sia a conoscenza, o non abbia motivo di essere a conoscenza, del fatto che tale classificazione è inesatta o inattendibile;
+- g. trattare come nuovi conti determinati o tutti i conti finanziari che sono stati aperti al più presto al momento dell’entrata in vigore della presente legge; essi possono rilevare il numero d’identificazione fiscale estero al momento dell’apertura del conto.
+
+<sup>2</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione possono assimilare la cerchia dei beneficiari di un trust considerati persone che esercitano il controllo sul trust alla cerchia dei beneficiari di un trust considerati persone oggetto di comunicazione di un trust che costituisce un istituto finanziario. Al riguardo devono adottare adeguate misure organizzative che garantiscano loro di identificare le distribuzioni versate ai beneficiari.
+
+<sup>3</sup> Il Consiglio federale stabilisce le disposizioni alternative applicabili contenute nel commentario dell’OCSE relativo allo SCC.
+
+#### Art. 10
+
+**Precisazione degli obblighi generali di comunicazione**
+
+<sup>1</sup> Per determinare il saldo o il valore di un conto finanziario o qualsiasi altro importo, l’istituto finanziario svizzero tenuto alla comunicazione converte l’importo in dollari americani applicando un tasso di cambio a pronti.[^10-1] Per effettuare la comunicazione del conto, l’istituto finanziario svizzero tenuto alla comunicazione stabilisce il tasso di cambio a pronti dell’ultimo giorno dell’anno civile o di un altro adeguato periodo di rendicontazione per cui il conto è comunicato.
+
+<sup>2</sup>
+
+Il Consiglio federale stabilisce i criteri secondo cui occorre:
+
+- a. determinare l’importo e la qualificazione dei pagamenti effettuati in relazione a un conto oggetto di comunicazione;
+- b. attribuire i diversi tipi di conto alle categorie di conti finanziari definite nell’accordo applicabile.
+
+<sup>3</sup> In caso di decesso di una persona oggetto di comunicazione, l’istituto finanziario svizzero tenuto alla comunicazione tratta il relativo conto come prima del decesso fino a quando non gli sono resi noti la successione con personalità giuridica propria o gli eredi autorizzati.
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+#### Art. 11
+
+**Precisazione degli obblighi di adeguata verifica**
+
+<sup>1</sup> Un’autocertificazione è valida finché non interviene un cambiamento delle circostanze per il quale l’istituto finanziario tenuto alla comunicazione viene a conoscenza, o ha motivo di essere a conoscenza, del fatto che l’autocertificazione è inesatta o inattendibile.
+
+<sup>2</sup>
+
+I conti preesistenti di persone fisiche devono essere sottoposti a verifica a partire dall’applicazione dello scambio automatico di informazioni con lo Stato partner entro i seguenti termini:
+
+- a. conti di importo rilevante, entro un anno;
+- b. conti di importo non rilevante, entro due anni.
+
+<sup>3</sup> I conti preesistenti di enti devono essere sottoposti a verifica entro due anni dall’applicazione dello scambio automatico di informazioni con lo Stato partner.
+
+<sup>4</sup> L’istituto finanziario svizzero tenuto alla comunicazione può applicare i termini di cui ai capoversi 2 e 3 a partire dall’entrata in vigore della presente legge.
+
+<sup>5</sup> ...[^11-1]
+
+<sup>6</sup>
+
+Un indirizzo registrato nei documenti dell’istituto finanziario svizzero tenuto alla comunicazione nel quadro della procedura di ricerca dell’indirizzo di residenza è considerato attuale per i seguenti conti preesistenti di persone fisiche:
+
+- a. i conti considerati non rivendicati secondo l’articolo 37*l* capoverso 4 della legge dell’8 novembre 1934[^11-2] sulle banche;
+- b.
+
+  altri conti, diversi da contratti di rendita, se:
+
+  - 1\. negli ultimi tre anni il titolare del conto non ha effettuato transazioni su questo o qualsiasi altro suo conto presso l’istituto finanziario svizzero tenuto alla comunicazione,
+  - 2\.[^11-3] negli ultimi sei anni il titolare del conto non ha avuto contatti con l’istituto finanziario svizzero tenuto alla comunicazione presso cui il conto è aperto in relazione a questo o qualsiasi altro suo conto presso tale istituto finanziario, e
+  - 3\. nel caso di un contratto di assicurazione con valore di riscatto, negli ultimi sei anni l’istituto finanziario svizzero tenuto alla comunicazione non ha avuto contatti con il titolare del conto in relazione a questo o qualsiasi altro suo conto presso tale istituto finanziario.
+
+<sup>7</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione devono adottare misure organizzative volte a garantire che essi dispongano di tutte le informazioni da rilevare nel quadro dell’apertura di un conto secondo l’accordo applicabile e la presente legge, in particolare misure volte a garantire che sia trasmessa l’autocertificazione.
+
+<sup>8</sup>
+
+Un istituto finanziario svizzero tenuto alla comunicazione può aprire un nuovo conto in assenza di un’autocertificazione del titolare del conto soltanto:
+
+- a. se il titolare del conto è un ente e l’istituto finanziario svizzero può ragionevolmente determinare, in base alle informazioni in suo possesso o pubblicamente disponibili, che il titolare del conto non è una persona oggetto di comunicazione; o
+- b. in presenza di un altro caso eccezionale; in tal caso deve aver ottenuto l’autocertificazione entro 90 giorni e averne confermato la plausibilità; il Consiglio federale definisce i casi eccezionali.[^11-4]
+
+<sup>9</sup> Se entro 90 giorni dall’apertura di un nuovo conto non dispone delle necessarie informazioni secondo l’accordo applicabile e la presente legge per la conferma della plausibilità dell’autocertificazione o, in un caso eccezionale secondo il capoverso 8 lettera b, non dispone dell’autocertificazione, l’istituto finanziario svizzero tenuto alla comunicazione deve chiudere il conto o bloccare i movimenti del conto fino all’ottenimento di tutte le informazioni. A tal fine dispone di un diritto di disdetta straordinario. Sono fatti salvi i casi di cui all’articolo 9 della legge del 10 ottobre 1997[^11-5] sul riciclaggio di denaro (LRD).[^11-6]
+
+<sup>10</sup> ...[^11-7]
+
+[^11-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^11-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-5]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^11-6]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-7]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+#### Art. 12
+
+**Precisazione delle regole supplementari di adeguata verifica**
+
+<sup>1</sup> Un conto con un saldo o un valore negativo è considerato un conto con un saldo o un valore uguale a zero.
+
+<sup>2</sup> a <sup>4</sup> ...[^12-1]
+
+[^12-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+## Sezione 3: Obbligo di iscrizione degli istituti finanziari svizzeri tenuti alla comunicazione
+
+#### Art. 13
+
+<sup>1</sup> Chi diventa un istituto finanziario svizzero tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 e alla presente legge deve iscriversi spontaneamente presso l’AFC.
+
+<sup>2</sup>
+
+Nell’iscrizione, l’istituto finanziario svizzero tenuto alla comunicazione indica:
+
+- a. il suo nome o la sua ditta nonché la sua sede o il suo domicilio; se si tratta di una persona giuridica o di una società senza personalità giuridica con sede statutaria all’estero o di una ditta individuale con sede all’estero, vanno indicati il nome o la ditta, il luogo della sede centrale e l’indirizzo della direzione in Svizzera;
+- b. il suo numero IDI;
+- c. la natura della sua attività;
+- d. la data dell’inizio dell’attività.
+
+<sup>3</sup> L’istituto finanziario deve informare spontaneamente l’AFC se la sua qualità di istituto finanziario svizzero tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 e alla presente legge finisce oppure se esso cessa la sua attività commerciale.
+
+<sup>4</sup> Il trustee deve iscrivere un trust secondo l’articolo 3 capoverso 9. Il Consiglio federale disciplina i dettagli dell’iscrizione.[^13-1]
+
+[^13-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+## Sezione 4: Obbligo di informazione degli istituti finanziari svizzeri tenuti alla comunicazione
+
+#### Art. 14
+
+<sup>1</sup>
+
+Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle informazioni a uno Stato partner, gli istituti finanziari svizzeri tenuti alla comunicazione informano le persone oggetto di comunicazione, direttamente o per il tramite della loro parte contraente, per quanto concerne:
+
+- a. la propria qualità di istituto finanziario svizzero tenuto alla comunicazione;
+- b. gli accordi secondo l’articolo 1 capoverso 1 e il loro contenuto, in particolare le informazioni da scambiare sulla base di tali accordi;
+- c. l’elenco degli Stati partner della Svizzera e il luogo di pubblicazione dell’elenco aggiornato;
+- d. l’utilizzazione autorizzata di tali informazioni in applicazione degli accordi secondo l’articolo 1 capoverso 1;
+- e. i diritti delle persone oggetto di comunicazione secondo la LPD[^14-1] e la presente legge.
+
+<sup>2</sup> Se la comunicazione ha per oggetto un conto che è stato chiuso, l’informazione avviene un’unica volta, all’ultimo indirizzo conosciuto. L’informazione può non avvenire in caso di conti secondo l’articolo 11 capoverso 6 lettera a o b.
+
+<sup>3</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione pubblicano sui loro siti Internet un elenco, aggiornato al 31 gennaio del rispettivo anno, degli Stati partner della Svizzera oppure rimandano all’elenco del Dipartimento federale delle finanze (DFF).
+
+<sup>4</sup> Su richiesta, gli istituti finanziari svizzeri tenuti alla comunicazione trasmettono una copia delle comunicazioni ai titolari dei conti oggetto delle medesime.
+
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Sezione 5: Obblighi di comunicazione e autorizzazione a comunicare
+
+#### Art. 15
+
+**Trasmissione e utilizzazione delle informazioni**
+
+<sup>1</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione trasmettono annualmente per via elettronica all’AFC, entro sei mesi dalla fine dell’anno civile interessato, le dovute informazioni secondo l’accordo applicabile e le informazioni sui loro conti non documentati. Se presso l’istituto finanziario svizzero tenuto alla comunicazione non sono aperti conti oggetto di comunicazione, esso segnala tale circostanza all’AFC entro lo stesso termine.[^15-1]
+
+<sup>2</sup> L’AFC trasmette alle autorità competenti degli Stati partner entro i termini stabiliti nell’accordo applicabile le informazioni che ha ricevuto dagli istituti finanziari svizzeri tenuti alla comunicazione secondo l’accordo applicabile.
+
+<sup>3</sup> L’AFC segnala alle autorità competenti degli Stati partner le restrizioni inerenti all’utilizzazione delle informazioni trasmesse e l’obbligo del segreto previsto dalle disposizioni in materia di assistenza amministrativa dell’accordo applicabile.
+
+<sup>4</sup> Se l’accordo applicabile prevede che l’autorità che riceve le informazioni trasmesse nel quadro dello scambio automatico di informazioni possa, previa autorizzazione dell’autorità competente dello Stato che ha trasmesso le informazioni, utilizzare queste ultime anche per fini diversi da quelli fiscali o inoltrarle a uno Stato terzo, l’AFC, previa pertinente verifica, autorizza tale utilizzazione o inoltro. Se le informazioni sono inoltrate ad autorità penali, l’AFC autorizza l’inoltro d’intesa con l’Ufficio federale di giustizia.
+
+<sup>5</sup> Le informazioni trasmesse all’AFC secondo il capoverso 1 possono essere utilizzate ai fini dell’applicazione e dell’esecuzione del diritto fiscale svizzero soltanto se avrebbero potuto essere ottenute secondo il diritto svizzero.
+
+[^15-1]: Nuovo testo del per. giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+#### Art. 16
+
+**Prescrizione**
+
+<sup>1</sup> Il diritto alla trasmissione della comunicazione nei confronti dell’istituto finanziario svizzero tenuto alla comunicazione si prescrive in cinque anni dalla fine dell’anno civile in cui la comunicazione avrebbe dovuto essere trasmessa.
+
+<sup>2</sup> La prescrizione è interrotta da ogni atto ufficiale, inteso a far valere la comunicazione, che viene portato a conoscenza dell’istituto finanziario svizzero tenuto alla comunicazione. Con l’interruzione decorre un nuovo termine di prescrizione.
+
+<sup>3</sup> Il diritto si prescrive in ogni caso in 10 anni dalla fine dell’anno civile in cui la comunicazione avrebbe dovuto essere trasmessa.
+
+#### Art. 17
+
+**Trust considerato in un altro Stato un istituto finanziario tenuto alla comunicazione**
+
+Se in un altro Stato un trust è considerato un istituto finanziario tenuto alla comunicazione secondo il diritto di tale Stato, ogni trustee residente in Svizzera è autorizzato a effettuare la comunicazione per il trust all’autorità competente di tale Stato.
+
+## Sezione 5*a*:**** Obbligo di conservazione applicabile agli istituti finanziari svizzeri tenuti alla comunicazione
+
+[^sec5a-1]
+
+[^sec5a-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+**Art. 17**a
+
+Gli istituti finanziari svizzeri tenuti alla comunicazione devono conservare, conformemente alle prescrizioni dell’articolo 958*f* CO[^sec5a-2], i documenti che hanno elaborato e i giustificativi che hanno ottenuto per adempiere gli obblighi previsti dall’allegato all’Accordo SAI[^sec5a-3] e dalla presente legge.
+
+[^sec5a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^sec5a-3]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+
+## Sezione 6: Diritti e obblighi delle persone oggetto di comunicazione
+
+#### Art. 18
+
+**Obbligo di notifica di cambiamenti delle circostanze in caso di autocertificazione**
+
+In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertificazione secondo l’accordo applicabile e la presente legge deve notificare all’istituto finanziario svizzero tenuto alla comunicazione le nuove indicazioni pertinenti nel quadro dell’autocertificazione.
+
+#### Art. 19
+
+**Diritti e procedura in materia di protezione dei dati**
+
+<sup>1</sup> Per quanto concerne le informazioni raccolte dagli istituti finanziari svizzeri tenuti alla comunicazione e la loro trasmissione alle autorità competenti degli Stati partner, le persone oggetto di comunicazione hanno i diritti sanciti nella LPD[^19-1].
+
+<sup>2</sup> Rispetto all’AFC, le persone oggetto di comunicazione possono esclusivamente far valere il proprio diritto d’accesso ed esigere la rettifica dei dati inesatti a causa di errori di trasmissione. Se la trasmissione dei dati comporta per la persona oggetto di comunicazione uno svantaggio non sostenibile dovuto all’assenza di garanzie dello Stato di diritto, sono applicabili i diritti di cui all’articolo 25*a* della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa.
+
+<sup>3</sup> Se le informazioni trasmesse all’autorità competente di uno Stato partner sono rettificate in seguito a una decisione passata in giudicato, l’istituto finanziario svizzero tenuto alla comunicazione trasmette le informazioni rettificate all’AFC. Quest’ultima le inoltra all’autorità competente interessata.
+
+[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## Sezione 7: Informazioni trasmesse automaticamente dall’estero
+
+#### Art. 20
+
+**Utilizzazione del numero d’identificazione fiscale svizzero per persone fisiche**
+
+Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degli Stati partner utilizzano il numero d’assicurato AVS per la trasmissione delle informazioni concernenti persone fisiche, necessarie ai fini dello scambio automatico di informazioni.
+
+#### Art. 21
+
+**Inoltro di informazioni**
+
+<sup>1</sup> Ai fini dell’applicazione e dell’esecuzione del diritto fiscale svizzero l’AFC inoltra le informazioni che le sono state trasmesse automaticamente da altri Stati alle autorità svizzere competenti per il calcolo e la riscossione delle imposte che rientrano nel campo di applicazione dell’accordo applicabile. Segnala a tali autorità le restrizioni inerenti all’utilizzazione delle informazioni trasmesse e l’obbligo del segreto secondo le disposizioni in materia di assistenza amministrativa dell’accordo applicabile.
+
+<sup>2</sup> Se l’accordo applicabile lo consente e il diritto svizzero lo prevede, l’AFC inoltra le informazioni che le sono state trasmesse automaticamente da un altro Stato ad altre autorità svizzere per le quali tali informazioni sono interessanti. Se del caso, l’AFC chiede il consenso dell’autorità competente dello Stato che ha trasmesso le informazioni.
+
+## Sezione 8: Organizzazione e procedura
+
+#### Art. 22
+
+**Compiti dell’AFC**
+
+<sup>1</sup> L’AFC provvede alla corretta applicazione degli accordi applicabili e della presente legge.
+
+<sup>2</sup> Adotta e pronuncia tutte le decisioni necessarie all’applicazione.
+
+<sup>3</sup> Può prescrivere l’utilizzazione di determinati moduli ed esigere che determinati moduli siano trasmessi esclusivamente in forma elettronica.
+
+<sup>4</sup> Può emanare istruzioni. Queste si basano sui commentari dell’OCSE sul Modello di accordo tra autorità competenti e sullo SCC.
+
+#### Art. 23
+
+**Trattamento dei dati**
+
+<sup>1</sup> Per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge l’AFC può trattare dati personali, inclusi quelli relativi a procedimenti e sanzioni amministrativi e penali in materia fiscale.
+
+<sup>2</sup> Per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge l’AFC può utilizzare sistematicamente i numeri d’identificazione fiscali secondo l’articolo 2 capoverso 1 lettere f–h.
+
+#### Art. 24
+
+**Sistema d’informazione**
+
+<sup>1</sup> L’AFC gestisce un sistema d’informazione per il trattamento dei dati personali, inclusi quelli relativi a procedimenti e sanzioni amministrativi e penali in materia fiscale, che ha ricevuto in base agli accordi applicabili e alla presente legge.
+
+<sup>2</sup> I dati possono essere trattati soltanto da collaboratori dell’AFC o da specialisti controllati dall’AFC.
+
+<sup>3</sup>
+
+Il sistema d’informazione serve all’AFC per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge. Può essere impiegato segnatamente per:
+
+- a. ricevere e inoltrare informazioni secondo gli accordi applicabili e il diritto svizzero;
+- b. tenere un registro degli istituti finanziari svizzeri tenuti alla comunicazione;
+- c. trattare procedure legali connesse agli accordi applicabili e alla presente legge;
+- d. effettuare verifiche secondo l’articolo 28;
+- e. infliggere ed eseguire sanzioni amministrative o penali;
+- f. trattare domande di assistenza amministrativa e giudiziaria;
+- g. lottare contro i reati fiscali;
+- h. approntare statistiche.
+
+<sup>4</sup>
+
+Il Consiglio federale definisce i dettagli concernenti in particolare:
+
+- a. l’organizzazione e la gestione del sistema d’informazione;
+- b. le categorie dei dati personali trattati;
+- c. l’elenco dei dati relativi a procedimenti e sanzioni amministrativi e penali;
+- d. le autorizzazioni di accesso e di trattamento;
+- e. la durata di conservazione, l’archiviazione e la distruzione dei dati.
+
+<sup>5</sup> L’AFC può concedere alle autorità svizzere a cui inoltra le informazioni secondo l’articolo 21 capoverso 1 l’accesso mediante procedura di richiamo ai dati del sistema d’informazione di cui tali autorità necessitano per l’adempimento dei loro compiti legali. Il Consiglio federale stabilisce a quali autorità e a quali dati l’AFC può concedere l’accesso.
+
+#### Art. 25
+
+**Obbligo di informazione**
+
+Le persone e le autorità alle quali l’AFC trasmette informazioni ricevute dall’estero secondo gli accordi applicabili e la presente legge nonché gli istituti finanziari svizzeri devono informare l’AFC in merito a tutti i fatti rilevanti ai fini dell’attuazione degli accordi e della presente legge.
+
+#### Art. 26
+
+**Obbligo del segreto**
+
+<sup>1</sup> Chiunque è incaricato dell’esecuzione di un accordo applicabile e della presente legge, o vi partecipa, deve serbare nei confronti di altri servizi ufficiali e di privati il segreto su quanto appreso nell’esercizio di questa attività.
+
+<sup>2</sup>
+
+L’obbligo del segreto non si applica:
+
+- a. alla trasmissione di informazioni e alle pubblicazioni secondo l’accordo applicabile e la presente legge;
+- b. nei confronti di organi giudiziari o amministrativi autorizzati nel singolo caso dal DFF a domandare informazioni ufficiali alle autorità incaricate dell’esecuzione della presente legge;
+- c. se l’accordo applicabile dispensa dall’obbligo del segreto e il diritto svizzero prevede una base legale per tale dispensa.
+
+<sup>3</sup> Le constatazioni concernenti terzi effettuate nel corso di una verifica ai sensi dell’articolo 28 possono essere utilizzate soltanto ai fini dell’esecuzione dell’accordo applicabile.
+
+#### Art. 27
+
+**Statistiche**
+
+<sup>1</sup> L’AFC pubblica le statistiche necessarie per la valutazione tra pari del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali.
+
+<sup>2</sup> Non sussiste alcun diritto di accesso a informazioni più ampie rispetto a quelle pubblicate secondo il capoverso 1.
+
+#### Art. 28
+
+**Verifiche**
+
+<sup>1</sup> L’AFC verifica l’adempimento degli obblighi secondo gli accordi applicabili e la presente legge da parte degli istituti finanziari svizzeri.
+
+<sup>2</sup>
+
+Per chiarire i fatti l’AFC può:
+
+- a. verificare in loco i libri di commercio, i documenti giustificativi e altri documenti dell’istituto finanziario o richiederne la produzione;
+- b. raccogliere informazioni orali o scritte.
+
+<sup>3</sup> Se constata che l’istituto finanziario non ha adempiuto i suoi obblighi o li ha adempiuti in modo lacunoso, l’AFC gli offre la possibilità di pronunciarsi sulle lacune accertate.
+
+<sup>4</sup> Se l’istituto finanziario e l’AFC non riescono ad accordarsi, l’AFC pronuncia una decisione.
+
+<sup>5</sup>
+
+Su richiesta, l’AFC pronuncia una decisione di accertamento:
+
+- a. della qualità di istituto finanziario secondo gli accordi applicabili e la presente legge;
+- b. del contenuto delle comunicazioni secondo gli accordi applicabili e la presente legge.
+
+#### Art. 29
+
+**Diritto procedurale applicabile**
+
+Ove la presente legge non disponga altrimenti, si applica la legge del 20 dicembre 1968[^29-1] sulla procedura amministrativa.
+
+[^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 30
+
+**Rimedi giuridici**
+
+<sup>1</sup> Contro le decisioni dell’AFC secondo gli articoli 22–29 può essere presentata opposizione scritta entro 30 giorni dalla loro notificazione.
+
+<sup>2</sup> L’opposizione deve indicare le conclusioni e i fatti che la motivano.
+
+<sup>3</sup> Se l’opposizione è stata presentata validamente, l’AFC verifica la decisione senza essere vincolata dalle conclusioni e pronuncia una decisione su opposizione motivata.
+
+<sup>4</sup> La decisione su opposizione può essere impugnata con ricorso conformemente alle disposizioni generali sull’amministrazione della giustizia federale.
+
+## Sezione 9: Sospensione e denuncia
+
+#### Art. 31
+
+<sup>1</sup>
+
+L’autorità competente svizzera può agire soltanto con il consenso del Consiglio federale se, sulla base dell’accordo applicabile, intende:
+
+- a. sospendere o denunciare lo scambio automatico di informazioni con uno Stato partner;
+- b. denunciare l’accordo applicabile.
+
+<sup>2</sup> Finché lo Stato partner non soddisfa i requisiti dell’OCSE in materia di confidenzialità e sicurezza dei dati, l’autorità competente svizzera può sospendere di propria iniziativa lo scambio automatico di informazioni con questo Stato.[^31-1]
+
+[^31-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+
+## Sezione 10: Disposizioni penali
+
+#### Art. 32
+
+**Violazione degli obblighi di comunicazione e adeguata verifica**
+
+È punito con la multa fino a 250 000 franchi chiunque, intenzionalmente, viola:
+
+- a. gli obblighi di adeguata verifica concernenti la verifica dei conti e l’identificazione delle persone oggetto di comunicazione menzionati nell’accordo applicabile e negli articoli 9–12;
+- b. l’obbligo di iscrizione di cui all’articolo 13;
+- c. l’obbligo di informazione di cui all’articolo 14 capoversi 1 e 3;
+- d. gli obblighi di comunicazione di cui all’articolo 15 capoverso 1.
+
+#### Art. 33
+
+**Infrazioni a decisioni dell’autorità**
+
+È punito con la multa fino a 50 000 franchi chi, nel quadro di una verifica secondo l’articolo 28, intenzionalmente non ottempera a una decisione dell’autorità notificatagli sotto la comminatoria del presente articolo.
+
+#### Art. 34
+
+**Infrazioni commesse nell’azienda**
+
+Se la multa applicabile non supera i 50 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 della legge federale del 22 marzo 1974[^34-1] sul diritto penale amministrativo (DPA) esige provvedimenti d’inchiesta sproporzionati all’entità della pena, si può prescindere da un procedimento contro dette persone e, in loro vece, condannare al pagamento della multa l’azienda (art. 7 DPA).
+
+[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 35
+
+**Falsa autocertificazione**
+
+È punito con la multa fino a 10 000 franchi chi, intenzionalmente, fornisce a un istituto finanziario svizzero un’autocertificazione falsa oppure non comunica cambiamenti delle circostanze o in merito fornisce false indicazioni.
+
+#### Art. 36
+
+**Denuncia spontanea**
+
+<sup>1</sup>
+
+L’autore che denuncia spontaneamente una violazione degli obblighi è esente da pena se:
+
+- a. ha fornito indicazioni complete ed esatte circa l’effettiva entità e il contenuto degli obblighi;
+- b. ha contribuito a chiarire i fatti e all’adempimento degli obblighi; e
+- c. in precedenza non si è mai denunciato spontaneamente per un’infrazione intenzionale di medesima natura.
+
+<sup>2</sup> L’impunità dell’autore ha effetto anche per i partecipanti.
+
+#### Art. 37
+
+**Procedura**
+
+<sup>1</sup> Il perseguimento e il giudizio di infrazioni alla presente legge sono disciplinati dalla DPA[^37-1].
+
+<sup>2</sup> L’autorità di perseguimento e di giudizio è l’AFC.
+
+[^37-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 38
+
+**Scelta degli Stati partner**
+
+Il Consiglio federale analizza le disposizioni in materia di protezione dei dati e le possibilità di regolarizzazione negli Stati partner potenziali prima di proporre all’Assemblea federale l’introduzione dello scambio automatico di informazioni con tali Stati. Nel messaggio il Consiglio federale riassume i risultati della sua analisi.
+
+## Sezione 11: Disposizioni finali
+
+#### Art. 39
+
+**Competenza di approvazione**
+
+L’Assemblea federale approva mediante decreto federale semplice:
+
+- a. l’inclusione di uno Stato nell’elenco secondo la sezione 7 paragrafo 1 lettera f dell’Accordo SAI[^39-1];
+- b. i trattati internazionali di sua competenza concernenti l’accesso al mercato di fornitori di servizi finanziari e la regolarizzazione fiscale di contribuenti conclusi con Stati di cui è prevista l’inclusione in detto elenco.
+
+[^39-1]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+
+#### Art. 40
+
+**Modifica di un altro atto normativo**
+
+...[^40-1]
+
+[^40-1]: La mod. può essere consultata alla [RU 2016 1297](https://fedlex.data.admin.ch/eli/oc/2016/259).
+
+#### Art. 41
+
+**Coordinamento con la modifica del 25 settembre 2015 del CC (Fondazioni di previdenza a favore del personale)**
+
+*All’entrata in vigore della modifica del 25 settembre 2015*[^41-1] *del CC*[^41-2] *(Fondazioni di previdenza a favore del personale), l’articolo 3 capoverso 5 lettera a della presente legge avrà il seguente tenore:*
+
+…[^41-3]
+
+[^41-1]: [RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163)
+[^41-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^41-3]: Testo inserito qui avanti.
+
+#### Art. 42
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore:[^42-1] 1° gennaio 2017 Art. 39 : 27 maggio 2016.
+
+[^42-1]: DCF del 20 apr. 2016.

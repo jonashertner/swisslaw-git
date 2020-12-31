@@ -1,0 +1,142 @@
+---
+sr: "151.15"
+title: Ordinanza del 22 maggio 1996 sugli aiuti finanziari in base alla legge sulla parità dei sessi
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/1506_1506_1506"
+language: it
+version: 1999-01-01
+adopted: 1996-05-22
+in_force: 1996-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1506_1506_1506/19990101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1506_1506_1506-19990101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1506_1506_1506/19990101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli aiuti finanziari in base alla legge sulla parità dei sessi
+
+del 22 maggio 1996
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 14 a 16 della legge federale del 24 marzo 1995[^ingress-1] sulla parità dei sessi (LPar),
+
+ordina:
+
+[^ingress-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+
+#### Art. 1
+
+**Contributi per programmi promozionali**
+
+<sup>1</sup>
+
+Possono essere assegnati contributi per la realizzazione di programmi:
+
+- a. massimamente rivolti verso la pratica;
+- b. il cui impatto dura oltre il periodo di versamento del contributo;
+- c. particolarmente bene inseriti nelle organizzazioni o aziende destinatarie;
+- d. volti a promuovere la collaborazione con altre organizzazioni;
+- e. che rendono possibile un legame con altri programmi; oppure
+- f. che presentano un carattere sperimentale.
+
+<sup>2</sup>
+
+Possono parimenti essere sostenute con contributi:
+
+- a. l’ideazione di basi programmatiche;
+- b. la valutazione di programmi già esistenti;
+- c. l’attività di sensibilizzazione.
+
+<sup>3</sup> Il finanziamento diretto di programmi interni a un’azienda è escluso.
+
+#### Art. 2
+
+**Contributi a consultori**
+
+<sup>1</sup> Sono sostenuti con contributi soltanto i consultori che esercitano un’attività continuata.
+
+<sup>2</sup>
+
+Ai consultori giusta l’articolo 15 LPar possono essere corrisposti contributi per spese:
+
+- a. di personale;
+- b. di materiale;
+- c. di locazione;
+- d. d’acquisto di materiale informativo.
+
+#### Art. 3
+
+**Presentazione delle richieste**[^3-1]
+
+<sup>1</sup> Le richieste di aiuti finanziari, corredate di motivazione, devono essere presentate all’Ufficio federale per l’uguaglianza fra donna e uomo (Ufficio). L’Ufficio stabilisce ogni anno il termine di deposito.
+
+<sup>2</sup>
+
+Alla richiesta vanno allegati:
+
+- a. una descrizione precisa del progetto da finanziare;
+- b. una descrizione degli obiettivi;
+- c. un piano per la realizzazione e la diffusione dei risultati del progetto (piano di trasmissione);
+- d. un piano di valutazione;
+- e. un preventivo dettagliato e un piano di finanziamento;
+- f. ogni informazione utile sulle organizzazioni che partecipano al progetto;
+- g. un calendario di esecuzione del progetto.
+
+<sup>3</sup> L’Ufficio emana direttive sulla presentazione delle richieste e mette a disposizione moduli per l’inoltro delle stesse.
+
+<sup>4</sup> Nelle direttive l’Ufficio può stabilire altre modalità per la presentazione delle richieste.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2715](https://fedlex.data.admin.ch/eli/oc/1998/2715_2715_2715)).
+
+#### Art. 4
+
+**Esame delle richieste**
+
+<sup>1</sup> L’Ufficio esamina le richieste di aiuti finanziari. Può chiedere il parere di specialisti esterni.
+
+<sup>2</sup> L’Ufficio può esigere che i progetti siano rimaneggiati o coordinati con altri progetti.
+
+#### Art. 5
+
+**Determinazione dei contributi**
+
+<sup>1</sup> Gli aiuti finanziari possono essere corrisposti in forma di versamento unico o periodico.
+
+<sup>2</sup> Possono essere forfettari o proporzionali alle spese. Nel caso di aiuti finanziari proporzionali alle spese va determinato in anticipo l’ammontare massimo.
+
+#### Art. 6
+
+**Decisione**
+
+<sup>1</sup>
+
+Sono competenti per l’assegnazione degli aiuti finanziari:
+
+- a. il Dipartimento federale dell’interno, se il contributo richiesto supera 200 000 franchi;
+- b. l’Ufficio, per le richieste fino a 200 000 franchi.
+
+<sup>2</sup> Nel caso di richieste che si estendono su vari periodi di credito, è determinante l’ammontare globale.
+
+#### Art. 7
+
+**Sorveglianza e stesura di rapporti**
+
+<sup>1</sup> L’Ufficio sorveglia l’esecuzione dei progetti.
+
+<sup>2</sup> Il richiedente informa regolarmente l’Ufficio sull’andamento del progetto e gli consegna un rapporto finale al più tardi tre mesi dopo la conclusione del progetto.
+
+<sup>3</sup> L’Ufficio emana istruzioni sulla stesura dei rapporti.
+
+#### Art. 8
+
+**Valutazione**
+
+<sup>1</sup> L’Ufficio esamina la valutazione dei progetti effettuata dal richiedente.
+
+<sup>2</sup> Per l’esecuzione di tale incombenza può avvalersi di specialisti esterni.
+
+#### Art. 9
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° luglio 1996.

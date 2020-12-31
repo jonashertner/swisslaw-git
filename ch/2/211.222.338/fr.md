@@ -1,0 +1,649 @@
+---
+sr: "211.222.338"
+title: "Ordonnance du 19 octobre 1977 sur le placement d'enfants (OPE)"
+short: OPE
+eli: "https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931"
+language: fr
+version: 2017-06-20
+adopted: 1977-10-19
+in_force: 1978-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20170620/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20170620-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20170620/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le placement d’enfants
+
+(OPE)**[^t-1]**
+
+du 19 octobre 1977 (Etat le 20 juin 2017)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+Le Conseil fédéral suisse,
+
+vu l’art. 316, al. 2, du code civil (CC)[^ingress-1], vu l’art. 30, al. 2, de la loi du 16 décembre 2005 sur les étrangers et l’intégration[^ingress-2], en exécution de la Convention du 20 novembre 1989 relative aux droits de l’enfant[^ingress-3] et de la Convention du 19 octobre 1996 concernant la compétence, la loi applicable, la reconnaissance, l’exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants[^ingress-4],[^ingress-5]
+
+arrête:
+
+[^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^ingress-3]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-4]: [RS 0.211.231.011](https://fedlex.data.admin.ch/eli/cc/2009/380)
+[^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Principes[^1-1]**
+
+<sup>1</sup> En vertu de la présente ordonnance, le placement d’enfants hors du foyer familial est soumis à autorisation et à surveillance.
+
+<sup>2</sup> Indépendamment du régime de l’autorisation, le placement peut être interdit lorsque les personnes intéressées ne satisfont pas, soit sur le plan de l’éducation, soit quant à leur caractère ou à leur état de santé, aux exigences de leur tâche, ou que les conditions matérielles ne sont manifestement pas remplies.
+
+<sup>3</sup>
+
+Sont réservées:
+
+- a.[^1-2] les attributions des parents, de l’autorité de protection de l’enfant et des tribunaux pour mineurs;
+- b. les dispositions de droit public assurant la protection des mineurs, notamment dans le domaine de la lutte contre la tuberculose.
+
+<sup>4</sup> Aucune autorisation n’est exigée pour la prise en charge et le placement d’enfants dans le cadre de programmes d’échange scolaire, d’engagements au pair et de séjours de nature comparable, hors du domicile familial, qui ne sont pas ordonnés par les autorités.[^1-3]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^1-3]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 1a
+
+**Bien de l’enfant**[^1a-1]
+
+<sup>1</sup> Le premier critère à considérer lors de l’octroi ou du retrait d’une autorisation et dans l’exercice de la surveillance est le bien de l’enfant.
+
+<sup>2</sup>
+
+L’autorité de protection de l’enfant veille à ce que l’enfant placé dans une famille nourricière ou une institution:
+
+- a. soit informé de ses droits, en particulier procéduraux, en fonction de son âge;
+- b. se voie attribuer une personne de confiance à laquelle il peut s’adresser en cas de question ou de problème;
+- c. soit associé à toutes les décisions déterminantes pour son existence en fonction de son âge.
+
+[^1a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 2
+
+**Autorités compétentes**[^2-1]
+
+<sup>1</sup>
+
+L’autorité suivante (autorité) est compétente pour délivrer l’autorisation ou recevoir l’annonce et pour exercer la surveillance:[^2-2]
+
+- a. s’agissant du placement de l’enfant chez des parents nourriciers, dans une institution ou à la journée: l’autorité de protection de l’enfant du lieu de placement;
+- b. s’agissant des prestations fournies dans le cadre du placement chez des parents nourriciers: une autorité cantonale centrale désignée par le canton du siège ou du domicile du prestataire.
+
+<sup>2</sup>
+
+Les cantons peuvent confier les tâches visées à l’al. 1, let. a:
+
+- a. à une autre autorité cantonale ou communale appropriée, s’agissant du placement en famille ou en institution;
+- b. à une autre autorité ou à un autre service cantonal ou communal approprié, s’agissant du placement à la journée.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^2-2]: Erratum du 20 juin 2017 ([RO 2017 3543](https://fedlex.data.admin.ch/eli/oc/2017/392)).
+
+#### Art. 2a
+
+**Placement international**[^2a-1]
+
+<sup>1</sup>
+
+L’autorité peut ordonner un placement d’enfant limité dans le temps auprès d’une famille ou d’une institution à l’étranger:
+
+- a. lorsqu’elle a désigné une personne de confiance en Suisse à laquelle l’enfant placé à l’étranger peut s’adresser en cas de question ou de problème;
+- b. lorsqu’elle associe au placement, avant d’y procéder, l’autorité centrale cantonale au sens de l’art. 2 de la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^2a-2] et demande l’accord de l’autorité étrangère compétente en matière de placement;
+- c. lorsque les familles nourricières ou institutions étrangères disposent d’une autorisation de l’autorité étrangère compétente et sont soumises à sa surveillance.
+
+<sup>2</sup> Lorsque l’enfant est placé auprès de membres de sa famille ou de personnes proches désignées par ses parents qui sont domiciliés à l’étranger, il est possible de déroger à ces conditions, dans le cas concret, si l’autorité a examiné préalablement que le bien de l’enfant n’est pas menacé.
+
+[^2a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^2a-2]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+
+#### Art. 3
+
+**Droit cantonal**
+
+<sup>1</sup> Les cantons peuvent, aux fins d’assurer la protection des mineurs vivant en dehors de leur foyer, édicter des dispositions allant au-delà de celles de l’ordonnance.
+
+<sup>2</sup>
+
+Pour faciliter le placement d’enfants, il leur est notamment loisible:
+
+- a.[^3-1] de prendre des mesures visant à donner aux parents nourriciers et aux spécialistes une formation de base et une formation complémentaire et à les conseiller, ainsi qu’à placer les enfants dans des familles ou établissements leur assurant des soins adéquats;
+- b. d’établir des modèles de contrats de placement et de formules de requêtes et d’avis, ainsi que des directives pour le calcul des contributions d’entretien et de publier des notices renseignant les parents et les parents nourriciers sur leurs droits et leurs obligations respectifs.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+## Section 2 Placement chez des parents nourriciers
+
+#### Art. 4
+
+**Régime de l’autorisation**[^4-1]
+
+<sup>1</sup>
+
+Toute personne qui accueille un enfant chez elle doit être titulaire d’une autorisation de l’autorité:
+
+- a. lorsque l’enfant est placé pendant plus d’un mois contre rémunération; ou
+- b. lorsque l’enfant est placé pendant plus de trois mois sans rémunération.
+
+<sup>2</sup> Toute personne qui accueille régulièrement des enfants chez elle dans le cadre d’interventions de crise, contre rémunération ou non, doit être titulaire d’une autorisation, indépendamment de la durée du placement.
+
+<sup>3</sup>
+
+L’autorisation reste requise:
+
+- a. lorsque l’enfant est placé par une autorité;
+- b. lorsque l’enfant ne passe pas les fins de semaine dans sa famille nourricière.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 5
+
+**Conditions générales mises à l’autorisation[^5-1]**
+
+<sup>1</sup> L’autorisation ne peut être délivrée que si les qualités personnelles, les aptitudes éducatives, l’état de santé des parents nourriciers et des autres personnes vivant dans leur ménage, et les conditions de logement offrent toute garantie que l’enfant placé bénéficiera de soins, d’une éducation et d’une formation adéquats et que le bien-être des autres enfants vivant dans la famille sera sauvegardé.
+
+<sup>2</sup> et <sup>3</sup> ...[^5-2]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+[^5-2]: Abrogés par le ch. I de l’O du 29 nov. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+
+#### Art. 6
+
+**Placement d’enfants de nationalité étrangère**[^6-1]
+
+<sup>1</sup> Un enfant de nationalité étrangère qui a vécu jusqu’alors à l’étranger ne peut être placé en Suisse chez des parents nourriciers qui n’ont pas l’intention de l’adopter que s’il existe un motif important.
+
+<sup>2</sup> Les parents nourriciers doivent produire une déclaration du représentant légal compétent selon le droit du pays d’origine de l’enfant qui indique le motif du placement en Suisse. Lorsque cette déclaration n’est pas rédigée dans l’une des langues officielles de la Suisse, l’autorité peut en exiger la traduction.
+
+<sup>3</sup> Les parents nourriciers doivent s’engager par écrit à pourvoir à l’entretien de l’enfant en Suisse comme si celui-ci était le leur et quelle que soit l’évolution du lien nourricier ainsi qu’à rembourser à la collectivité publique les frais d’entretien de l’enfant que celle-ci a assumés à leur place.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+
+#### Art. 6a
+
+[^6a-1]
+
+[^6a-1]: Introduit par le ch. I de l’O du 21 déc. 1988 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)). Abrogé par le ch. I de l’O du 29 nov. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+
+#### Art. 6b
+
+**Placement d’enfants de nationalité étrangère à des conditions facilitées**[^6b-1]
+
+Les dispositions fixées à l’art. 6 ne s’appliquent pas lorsqu’il s’agit de placer un enfant de nationalité étrangère qui a vécu jusqu’alors à l’étranger et qui:[^6b-2]
+
+- a. est né de parents qui sont au bénéfice d’une autorisation de séjour ou d’établissement en Suisse;
+- b. est placé sur l’ordre ou par l’intermédiaire d’une autorité fédérale.
+
+[^6b-1]: Introduit par le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+[^6b-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+
+#### Art. 7
+
+**Enquête**
+
+<sup>1</sup> L’autorité doit déterminer de manière appropriée si les conditions d’accueil sont remplies, surtout en procédant à des visites à domicile et en prenant, s’il le faut, l’avis d’experts.
+
+<sup>2</sup> ...[^7-1]
+
+[^7-1]: Abrogé par le ch. I de l’O du 29 nov. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+
+#### Art. 8
+
+**Autorisation**
+
+<sup>1</sup> Les parents nourriciers doivent requérir l’autorisation avant d’accueillir l’enfant.
+
+<sup>2</sup> L’autorisation leur est délivrée pour un enfant déterminé; elle peut être limitée dans le temps et assortie de charges et conditions.
+
+<sup>3</sup> L’enfant doit être convenablement assuré contre la maladie et les accidents ainsi qu’en matière de responsabilité civile.[^8-1]
+
+<sup>4</sup> L’autorisation délivrée pour l’accueil d’un enfant de nationalité étrangère qui a vécu jusqu’alors à l’étranger (art. 6) ne produit ses effets que lorsque le visa est accordé ou que l’octroi de l’autorisation de séjour est assuré (art. 8*a*).[^8-2]
+
+[^8-1]: Introduit par le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+[^8-2]: Introduit par le ch. I de l’O du 21 déc. 1988 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+
+#### Art. 8a
+
+**Service cantonal des migrations**[^8a-1]
+
+<sup>1</sup> L’autorité transmet au service cantonal des migrations l’autorisation d’accueillir un enfant de nationalité étrangère qui a vécu jusqu’alors à l’étranger, accompagnée de son rapport sur la famille nourricière.
+
+<sup>2</sup> Le service cantonal des migrations décide de l’octroi du visa ou de l’assurance de l’octroi de l’autorisation de séjour pour l’enfant et communique sa décision à l’autorité.
+
+[^8a-1]: Introduit par le ch. I de l’O du 21 déc. 1988 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)). Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 8b
+
+**Obligation d’annoncer**[^8b-1]
+
+Les parents nourriciers sont tenus d’annoncer l’arrivée de l’enfant à l’autorité dans les dix jours.
+
+[^8b-1]: Introduit par le ch. I de l’O du 21 déc. 1988 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)). Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 9
+
+**Modification des conditions de placement**
+
+<sup>1</sup> Les parents nourriciers doivent annoncer sans délai à l’autorité tout changement important qui affecte les conditions de placement, notamment tout changement de domicile, ainsi que la dissolution du lien nourricier et, dès qu’ils l’apprennent, le nouveau lieu de séjour de l’enfant.[^9-1]
+
+<sup>2</sup> Les parents nourriciers renseignent également le représentant légal ou celui qui a ordonné le placement ou y a procédé sur tout événement important.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 10
+
+**Surveillance**[^10-1]
+
+<sup>1</sup> Un spécialiste relevant de l’autorité fait des visites aussi fréquentes qu’il le faut au domicile des parents nourriciers, mais au moins une fois par an; il en rend compte dans un procès-verbal.
+
+<sup>2</sup> Il examine si les conditions auxquelles le placement est subordonné sont remplies. Au besoin, il conseille les parents nourriciers.
+
+<sup>3</sup> L’autorité veille à ce que la représentation légale de l’enfant soit dûment réglée et que l’enfant soit associé à toutes les décisions déterminantes pour son existence en fonction de son âge.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 11
+
+**Retrait de l’autorisation**
+
+<sup>1</sup> Lorsqu’il est impossible de remédier à certains manques ou de surmonter certaines difficultés, même avec le concours du représentant légal ou de celui qui a ordonné le placement ou y a procédé, et que d’autres mesures d’aide apparaissent inutiles, l’autorité retire l’autorisation; elle invite le représentant légal ou celui qui a ordonné le placement ou y a procédé à placer l’enfant ailleurs dans un délai convenable.
+
+<sup>2</sup> Si cette démarche est vaine, l’autorité en informe l’autorité de protection de l’enfant du lieu de domicile et, le cas échéant, du lieu de séjour de l’enfant.[^11-1]
+
+<sup>3</sup> Lorsqu’il y a péril en la demeure, l’autorité doit retirer immédiatement l’enfant et le placer provisoirement ailleurs; elle en informe l’autorité de protection de l’enfant.[^11-2]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 11aà 11j
+
+[^11a11j-1]
+
+[^11a11j-1]: Introduits par le ch. I de l’O du 29 nov. 2002 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)). Abrogés par le ch. II de l’annexe à l’O du 29 juin 2011 (O sur l’adoption), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3637](https://fedlex.data.admin.ch/eli/oc/2011/505)).
+
+## Section 3 Placement à la journée
+
+#### Art. 12
+
+<sup>1</sup> Les personnes qui, publiquement, s’offrent à accueillir régulièrement dans leur foyer, à la journée et contre rémunération, des enfants de moins de 12 ans doivent l’annoncer à l’autorité.
+
+<sup>2</sup> Les dispositions concernant le placement d’enfants chez des parents nourriciers s’appliquent par analogie à la surveillance qu’exerce l’autorité en cas de placement à la journée (art. 5 et 10).
+
+<sup>3</sup> Lorsqu’il est impossible de remédier à des manques ou de surmonter des difficultés en prenant d’autres mesures, ou que celles-ci apparaissent d’emblée insuffisantes, l’autorité interdit aux parents nourriciers d’accueillir d’autres enfants; elle en informe les représentants légaux des pensionnaires.
+
+## Section 4 Placement dans des institutions
+
+#### Art. 13
+
+**Régime de l’autorisation**
+
+<sup>1</sup>
+
+Sont soumises à autorisation officielle les institutions qui s’occupent d’accueillir:
+
+- a. plusieurs enfants, pour la journée et la nuit, aux fins de prendre soin d’eux, de les éduquer, de leur donner une formation, de les soumettre à observation ou de leur faire suivre un traitement;
+- b. plusieurs enfants de moins de 12 ans, placés régulièrement à la journée (crèches, garderies et autres établissements analogues).
+
+<sup>2</sup>
+
+Sont dispensés de requérir l’autorisation officielle:
+
+- a. les institutions cantonales, communales ou privées d’utilité publique soumises à une surveillance spéciale par la législation scolaire, sanitaire ou sociale;
+- b.[^13-1] ...
+- c. les colonies et camps de vacances, sous réserve de dispositions cantonales contraires;
+- d.[^13-2] ...
+
+<sup>3</sup> Les mineurs ne doivent être accueillis qu’une fois l’autorisation délivrée.
+
+<sup>4</sup> Les institutions qui fournissent des prestations dans le cadre du placement chez des parents nourriciers sont soumises en sus aux art. 20*a* à 20*f*.[^13-3]
+
+[^13-1]: Abrogée par le ch. I de l’O du 10 oct. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^13-2]: Abrogée par le ch. I de l’O du 10 oct. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^13-3]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 14
+
+**Demande d’autorisation**
+
+<sup>1</sup>
+
+La demande d’autorisation doit contenir tout élément utile à son appréciation, mais indiquer pour le moins:
+
+- a. le but, le statut juridique et l’organisation financière de l’établissement;
+- b. le nombre et l’âge des mineurs qui seront accueillis dans l’établissement, la catégorie à laquelle ils appartiennent, ainsi que, le cas échéant, son programme d’enseignement ou son équipement thérapeutique;
+- c. les qualités et la formation du directeur, l’effectif et la formation du personnel;
+- d. l’aménagement et l’équipement des locaux destinés à la vie domestique, à l’enseignement et aux loisirs.
+
+<sup>2</sup> Lorsque l’institution dépend d’une personne morale, la demande doit être accompagnée d’un exemplaire de ses statuts ainsi que de renseignements sur ses organes.
+
+<sup>3</sup> L’autorité peut exiger toute pièce justificative et demander des renseignements complémentaires.
+
+#### Art. 15
+
+**Conditions dont dépend l’autorisation**
+
+<sup>1</sup>
+
+L’autorisation ne peut être délivrée que:
+
+- a. si les conditions propres à favoriser le développement physique et mental des enfants semblent assurées;
+- b. si les qualités personnelles, l’état de santé, les aptitudes éducatives et la formation du directeur de l’établissement et de ses collaborateurs leur permettent d’assumer leur tâche et si l’effectif du personnel est suffisant par rapport au nombre des pensionnaires;
+- c. si les pensionnaires bénéficient d’une alimentation saine et variée et sont sous surveillance médicale,
+- d. si les installations satisfont aux exigences de l’hygiène et de la protection contre l’incendie;
+- e. si l’établissement a une base économique sûre;
+- f. si les pensionnaires sont assurés convenablement contre la maladie et les accidents ainsi qu’en matière de responsabilité civile.
+
+<sup>2</sup> Avant de délivrer l’autorisation l’autorité détermine de manière appropriée si les conditions d’accueil sont remplies, notamment en procédant à des visites, en ayant des entretiens, en prenant des renseignements et, s’il le faut, en recourant à des experts.
+
+#### Art. 16
+
+**Autorisation**
+
+<sup>1</sup> L’autorisation est délivrée au directeur de l’établissement, le cas échéant avec avis à l’organisme responsable.
+
+<sup>2</sup> L’autorisation détermine combien et quelle sorte de pensionnaires l’institution a le droit d’accueillir; elle peut être délivrée à titre d’essai, limitée dans le temps ou assortie de charges et conditions.
+
+<sup>3</sup> Tout changement de directeur exige le renouvellement de l’autorisation.
+
+#### Art. 16a
+
+**Replacement**[^16a-1]
+
+<sup>1</sup>
+
+Une institution ne peut replacer un enfant dans une famille nourricière ou dans une autre institution qu’aux conditions suivantes:
+
+- a. la famille nourricière ou l’autre institution dispose d’une autorisation et est soumise à surveillance;
+- b. la personne ou l’autorité qui a ordonné le placement en institution a approuvé le replacement; et
+- c. l’enfant a été associé à la décision en fonction de son âge.
+
+<sup>2</sup> L’art. 2*a* s’applique en sus aux replacements à l’étranger.
+
+<sup>3</sup> Les al. 1 et 2 s’appliquent aussi aux placements réguliers en fin de semaine et pendant les vacances.
+
+[^16a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 17
+
+**Liste des mineurs**
+
+<sup>1</sup>
+
+La liste des mineurs placés doit être tenue à jour et contenir les informations suivantes:
+
+- a. identité du mineur et de ses parents;
+- b. lieu de séjour antérieur;
+- c. désignation du représentant légal et de celui qui a ordonné le placement ou y a procédé;
+- d. date d’entrée et de sortie;
+- e. rapports et prescriptions médicaux;
+- f. faits particuliers.
+
+<sup>2</sup> Les institutions qui n’accueillent des enfants que pour la journée se borneront à indiquer l’identité de l’enfant et de ses parents ou parents nourriciers.
+
+#### Art. 18
+
+**Modification des conditions de placement**
+
+<sup>1</sup> Le directeur et, le cas échéant, l’organisme ayant la charge de l’institution communiquent en temps utile à l’autorité toute modification importante qu’ils ont l’intention d’apporter à l’organisation, à l’équipement ou à l’activité de l’établissement, notamment les décisions d’agrandir, de transférer ou de cesser l’exploitation.
+
+<sup>2</sup> En outre, tout événement particulier qui a trait à la santé ou à la sécurité des pensionnaires doit être annoncé, surtout les maladies graves, les accidents ou les décès.
+
+<sup>3</sup> L’autorisation délivrée ne peut être maintenue que si le bien-être des pensionnaires est assuré; au besoin, elle peut être modifiée et assortie de nouvelles charges et conditions.
+
+#### Art. 19
+
+**Surveillance**
+
+<sup>1</sup> Les établissements reçoivent la visite d’un représentant qualifié de l’autorité aussi souvent que cela est nécessaire, mais au moins une fois tous les deux ans.
+
+<sup>2</sup> Le représentant de l’autorité doit se renseigner de manière appropriée, notamment à l’occasion d’entretiens, sur l’état des pensionnaires et sur la manière dont on s’occupe d’eux.
+
+<sup>3</sup> Il veille à ce que les conditions dont dépend l’autorisation soient remplies et que les charges et conditions s’y rapportant soient exécutées.
+
+#### Art. 20
+
+**Retrait de l’autorisation**
+
+<sup>1</sup> Lorsqu’il est impossible de corriger certains défauts, même après avoir chargé des personnes expérimentées de donner des conseils ou d’intervenir, l’autorité met le directeur de l’établissement en demeure de prendre sans retard les mesures nécessaires pour remédier aux manques constatés; elle en informe l’organisme ayant la charge de l’institution.
+
+<sup>2</sup> L’autorité peut soumettre l’établissement à une surveillance spéciale et arrêter à cet effet des prescriptions particulières.
+
+<sup>3</sup> Si ces mesures n’ont pas d’effet ou apparaissent d’emblée insuffisantes, l’autorité retire l’autorisation. Elle prend en temps utile les dispositions nécessaires pour la fermeture de l’établissement et, s’il le faut, aide au relogement des enfants; lorsqu’il y a péril en la demeure, elle prend immédiatement les mesures nécessaires.[^20-1]
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+## Section 4*a***** Prestations fournies dans le cadre du placement chez des parents nourriciers
+
+[^sec4a-1]
+
+[^sec4a-1]: Introduite par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 20a
+
+**Obligation d’annoncer**
+
+Est tenue de s’annoncer auprès de l’autorité et de se soumettre à la surveillance de celle-ci toute personne qui fournit des prestations dans le cadre du placement chez des parents nourriciers (prestataire), contre rémunération ou non, et notamment:
+
+- a. place des enfants dans des familles nourricières;
+- b. assure un suivi sociopédagogique du lien nourricier;
+- c. donne une formation de base et une formation complémentaire aux parents nourriciers; ou
+- d. dispense conseils et thérapies aux enfants placés.
+
+#### Art. 20b
+
+**Contenu et délai de l’annonce**
+
+<sup>1</sup>
+
+L’annonce faite par le prestataire doit être accompagnée au minimum des indications et des justificatifs suivants:
+
+- a. objet et forme juridique et, s’il s’agit d’une personne morale, statuts et organes;
+- b. identité et qualifications professionnelles du prestataire;
+- c. extrait du casier judiciaire du gérant et sa déclaration que les personnes auxquelles les tâches sont confiées sont contrôlées lors de leur entrée en fonction et une fois par an pendant toute la durée de leur engagement;
+- d. description des prestations offertes; le document doit notamment indiquer si les ressources humaines et les moyens financiers sont suffisants pour assurer les prestations;
+- e. indications détaillées sur les tarifs des prestations offertes.
+
+<sup>2</sup> L’annonce doit être faite dans les trois mois qui suivent le début de l’activité.
+
+#### Art. 20c
+
+**Modification des activités de placement**
+
+<sup>1</sup> Le prestataire communique en temps utile et de son propre chef à l’autorité toute modification importante de son activité, et notamment des éléments relevant de son obligation de s’annoncer.
+
+<sup>2</sup>
+
+Il communique en particulier:
+
+- a. toute modification importante des statuts, de l’organisation, de l’activité et de la description;
+- b. tout changement de gérant;
+- c. toute extension, tout transfert ou toute cessation de l’activité.
+
+#### Art. 20d
+
+**Listes**
+
+<sup>1</sup>
+
+Le prestataire tient à jour une liste:
+
+- a. des familles nourricières avec lesquelles il collabore et auprès desquelles il place des enfants;
+- b. des enfants auxquels il fournit une place dans une famille nourricière.
+
+<sup>2</sup>
+
+Les listes contiennent au minimum les informations suivantes:
+
+- a. identité des parents nourriciers;
+- b. identité de l’enfant;
+- c. identité des parents de l’enfant;
+- d. date du placement, de l’éventuel replacement et de la fin du placement.
+
+<sup>3</sup>
+
+Lorsque l’activité englobe des prestations au sens de l’art. 20*a*, let. b à d, les listes doivent également contenir les informations suivantes:
+
+- a. rapports et prescriptions médicaux concernant la place d’accueil ou les conditions de placement;
+- b. faits particuliers;
+- c. décisions déterminantes pour l’existence des enfants et opinion desdits enfants à leur sujet.
+
+<sup>4</sup> Les listes sont adressées chaque année à l’autorité.
+
+<sup>5</sup> L’autorité peut exiger d’autres documents et renseignements.
+
+#### Art. 20e
+
+**Surveillance**
+
+<sup>1</sup> L’autorité contrôle chaque année les listes du prestataire et tout autre document exigé. Elle rend compte de son activité de surveillance dans un procès-verbal.
+
+<sup>2</sup> Elle se renseigne de manière appropriée, notamment à l’occasion de visites des lieux, d’entretiens et de questions, sur l’activité exercée.
+
+#### Art. 20f
+
+**Mesures de surveillance**
+
+<sup>1</sup> Lorsque l’autorité constate, dans l’exercice de sa surveillance, des défauts pouvant nuire au bien des enfants placés, elle ordonne les mesures appropriées pour y remédier.
+
+<sup>2</sup> Si le prestataire ne tient pas compte des mesures ordonnées et que le bien des enfants est menacé, l’autorité peut interdire temporairement l’exercice de l’activité.
+
+<sup>3</sup> La mesure reste valable aussi longtemps que le prestataire ne peut prouver à l’autorité que les défauts constatés ont été corrigés.
+
+<sup>4</sup>
+
+Lorsque l’autorité interdit temporairement l’exercice de l’activité, elle en informe:
+
+- a. les familles nourricières ayant collaboré avec le prestataire;
+- b. l’autorité de protection de l’enfant concernée ou, si le placement de l’enfant n’a pas été ordonné par l’autorité, le détenteur de l’autorité parentale ou du droit de garde, et
+- c. les autres autorités cantonales de surveillance.
+
+## Section 5 Procédure
+
+#### Art. 21
+
+**Dossiers**
+
+<sup>1</sup>
+
+L’autorité constitue les dossiers:
+
+- a. des enfants placés chez des parents nourriciers, en indiquant l’identité de l’enfant et des parents nourriciers, le début et la fin du lien nourricier, les résultats des visites et, le cas échéant, les mesures prises;
+- b. des parents nourriciers qui accueillent des enfants pour la journée, en indiquant leur identité, le nombre de places, les résultats des visites et, le cas échéant, les mesures prises;
+- c. des institutions, en indiquant l’identité du directeur et, le cas échéant, l’organisme qui a la charge de l’institution, le nombre des mineurs, les résultats des visites et, le cas échéant, les mesures prises;
+- d.[^21-1] des prestataires, en indiquant l’identité du gérant, l’identité des parents nourriciers avec lesquels il collabore, l’identité des enfants placés ou auxquels une place a été fournie, les résultats de l’activité de surveillance et, le cas échéant, les mesures prises.
+
+<sup>2</sup> Le droit cantonal peut prévoir que d’autres données seront recueillies.[^21-2]
+
+<sup>3</sup> Le Département fédéral de justice et police peut ordonner l’établissement de statistiques concernant les mineurs placés et édicter les dispositions nécessaires; l’Office fédéral de la statistique se charge de recueillir les données.[^21-3]
+
+[^21-1]: Introduite par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+[^21-3]: Introduit par le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+
+#### Art. 22
+
+**Obligation de garder le secret**
+
+Toutes les personnes préposées à la surveillance des enfants placés doivent observer le secret à l’égard de tiers.
+
+#### Art. 23
+
+**Communications**
+
+<sup>1</sup> Le contrôle des habitants de la commune annonce à l’autorité les enfants nouvellement arrivés qui n’habitent pas chez leurs parents.[^23-1]
+
+<sup>2</sup> Lorsque l’autorité apprend qu’un enfant sera placé chez des parents nourriciers domiciliés en dehors de son arrondissement, elle en informe l’autorité compétente; cette disposition est applicable par analogie en cas de changement de domicile des parents nourriciers.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 24
+
+**Entraide juridique et administrative**
+
+Les autorités préposées à la surveillance des enfants placés et celles qui sont chargées de protéger l’enfant se prêtent aide en matière juridique et administrative.
+
+#### Art. 25
+
+**Gratuité**
+
+<sup>1</sup> L’autorité ne peut percevoir des émoluments pour la surveillance du placement chez des parents nourriciers ou à la journée que si les conditions de placement font l’objet de réclamations réitérées ou graves.
+
+<sup>2</sup> Les débours, tels que les frais supplémentaires occasionnés par des travaux confiés à des tiers, peuvent être mis à la charge des requérants.[^25-1]
+
+[^25-1]: Introduit par le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+
+#### Art. 26
+
+**Sanctions[^26-1]**
+
+<sup>1</sup> L’autorité inflige une amende de 1000 francs au plus à toute personne qui, intentionnellement ou par négligence, ne remplit pas les obligations qui résultent de la présente ordonnance ou d’une décision prise en vertu de celle-ci.[^26-2]
+
+<sup>2</sup> Lorsqu’une amende d’ordre a été prononcée, l’autorité peut, en cas de récidive intentionnelle, menacer le contrevenant d’une amende pour insoumission à une décision de l’autorité, selon l’art. 292 du code pénal[^26-3].[^26-4]
+
+<sup>3</sup> Les autorités ou les fonctionnaires qui, dans l’exercice de leurs fonctions, constatent ou apprennent que les dispositions de la présente ordonnance ont été enfreintes sont tenus d’en informer immédiatement l’autorité.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
+[^26-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^26-4]: Nouvelle teneur selon l'art. 334 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+
+#### Art. 27
+
+**Procédure de recours**
+
+<sup>1</sup> Les décisions prises par l’autorité de protection de l’enfant en vertu de la présente ordonnance peuvent faire l’objet d’un recours auprès du tribunal compétent (art. 450 CC).[^27-1]
+
+<sup>2</sup> Lorsque l’autorité a délégué ses attributions à d’autres offices, le recours est régi par le droit cantonal.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+## Section 6 Dispositions finales
+
+#### Art. 28
+
+**Placements en cours**
+
+<sup>1</sup> Les autorisations délivrées jusqu’au 31 décembre 1977 en vertu du droit cantonal et qui devraient aussi être requises en vertu de la présente ordonnance restent en vigueur; au besoin, elles seront adaptées au nouveau droit jusqu’au 31 décembre 1978.
+
+<sup>2</sup> Dans tous les cas, la surveillance est régie par les dispositions de la présente ordonnance.
+
+<sup>3</sup> Une autorisation doit être demandée jusqu’au 30 juin 1978 pour les placements qui, selon le droit actuel, ne sont pas soumis au régime de l’autorisation, mais qui en exigent une selon le nouveau droit; cette disposition s’applique par analogie aux communications prescrites par le nouveau droit.
+
+#### Art. 29
+
+**Abrogation du droit cantonal**
+
+<sup>1</sup> Sauf disposition contraire du droit fédéral (art. 51, tit. fin., CC), toutes les dispositions cantonales sur la protection des mineurs vivant en dehors de leur foyer sont abrogées dès l’entrée en vigueur de la présente ordonnance.
+
+<sup>2</sup> Les dispositions cantonales sur l’organisation de la protection des mineurs vivant en dehors de leur foyer restent en vigueur aussi longtemps que les cantons n’en ont pas édicté d’autres.
+
+#### Art. 29a
+
+**Dispositions transitoires relatives à la modification du 10 octobre 2012**[^29a-1]
+
+<sup>1</sup> Les placements qui n’étaient pas soumis à autorisation selon l’ancien droit, mais le sont selon le nouveau droit, doivent faire l’objet d’une demande d’autorisation avant le 31 mars 2013. Ils peuvent subsister jusqu’à ce que l’autorité en décide.
+
+<sup>2</sup> L’autorité prévue à l’art. 2, al. 1, let. b, est instituée au 1<sup>er</sup> janvier 2014.
+
+<sup>3</sup> Le prestataire doit s’annoncer à cette date auprès de l’autorité instituée dans le canton où il a son siège ou son domicile.
+
+[^29a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+
+#### Art. 30
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1978.

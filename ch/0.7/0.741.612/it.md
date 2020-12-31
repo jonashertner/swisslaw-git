@@ -1,0 +1,56 @@
+---
+sr: "0.741.612"
+title: Comunicazione della Cancelleria federale del 6 giugno 1951 relativa agli accordi concernenti la soppressione delle restrizioni alla libertà della circolazione stradale
+eli: "https://fedlex.data.admin.ch/eli/cc/1951/525_524_529"
+language: it
+version: 1954-09-08
+adopted: 1951-06-06
+in_force: 1951-06-06
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/525_524_529/19540908/it/xml/fedlex-data-admin-ch-eli-cc-1951-525_524_529-19540908-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1951/525_524_529/19540908/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Comunicazione della Cancelleria federale del 6 giugno 1951 relativa agli accordi concernenti la soppressione delle restrizioni alla libertà della circolazione stradale****
+
+RU **1951** 529[^t-1]
+
+[^t-1]: La presente rettificazione annulla l’avviso della Cancelleria federale del 15 feb. 1951, pubblicato nel N. 7 della Raccolta delle leggi federali del 1951 ([RU 1951 101](https://fedlex.data.admin.ch/eli/oc/1951/103_103_101)102).
+
+Il 29 settembre 1950 il Consiglio federale ha deciso di aderire per l’anno 1951[^ingress-1] agli accordi concernenti la soppressione delle restrizioni alla libertà della circolazione stradale, stipulati sotto gli auspici del Comitato dei trasporti interni della Commissione economica per l’Europa delle nazioni Unite.
+
+Questi accordi sono sottoposti alle seguenti condizioni:
+
+- a. i servizi stradali dei paesi che concedono le facilitazioni previste da detti accordi godranno di corrispondenti facilitazioni nei paesi beneficiari;
+- b. i vettori si atterranno alle leggi e ai regolamenti di carattere tecnico o amministrativo attualmente in vigore.
+
+L’adesione agli accordi obbliga i Governi aderenti, allorché esiste nel loro paese un regime d’autorizzazione sulla circolazione stradale, a concedere automaticamente, su semplice richiesta, questa autorizzazione ad ogni vettore originario degli altri paesi che hanno aderito agli accordi.
+
+Gli accordi sono stipulati per un periodo indeterminato, fermo restando che ogni Governo ha il diritto di disdirli avanti il I’ ottobre di ogni anno. La disdetta avrà effetto a contare dall’inizio dell’anno seguente.
+
+Il primo accordo istituisce la libertà di transito per il trasporto di merci su strada.
+
+Sono considerati trasporti in transito solo quelli che la medesima impresa eseguisce dal luogo di spedizione a quello di destinazione delle merci, senza trasbordo alle frontiere del paese attraversato. Deroghe possono essere consentite per trasbordi nei porti marittimi di merci trasportate per mare, oppure in altri casi previsti da accordi bilaterali.
+
+Hanno aderito a questo accordo i seguenti paesi: Austria, Belgio, Danimarca, Francia, Ungheria, Italia, Lussemburgo, Norvegia, Paesi Bassi, Portogallo, Svezia, Svizzera, Cecoslovacchia e Turchia, come pure gli Stati Uniti d’America, la Francia e il Regno Unito per quanto concerne le rispettive zone di occupazione in Germania.
+
+Il secondo accordo istituisce la libertà dei trasporti stradali di merci non in transito.
+
+Hanno aderito a questo accordo i seguenti paesi: Austria, Danimarca, Ungheria, Lussemburgo, Norvegia, Paesi Bassi, Portogallo, Svezia, Svizzera e Turchia, come pure gli Stati Uniti d’America, la Francia e il Regno Unito per quanto concerne le rispettive zone di occupazione in Germania.
+
+Il Belgio, la Francia, l’Italia e la Cecoslovacchia non hanno aderito al secondo accordo, ma si sono impegnati ad applicare nel modo più liberale possibile le procedure d’autorizzazione alle quali i trasporti internazionali su strada sono sottoposti.
+
+Il terzo accordo istituisce la libertà del traffico turistico internazionale su strada.
+
+È inteso che le stesse persone sono trasportate con lo stesso veicolo sia I’ su un percorso circolare, che ha inizio e termina nello stesso paese, sia 2° in partenza da un porto marittimo o da un aeroporto del loro paese rispettivo a destinazione di altro porto o aeroporto di uno di questi paesi; il veicolo dovrà ritornare vuoto al punto di partenza, a meno che sia stata accordata un’autorizzazione contraria.
+
+Hanno aderito a questo accordo i seguenti paesi: Austria, Belgio, Danimarca, Francia (per il 1° caso), Ungheria, Italia, Lussemburgo, Norvegia, Paesi Bassi, Regno Unito, Svezia, Svizzera, Cecoslovacchia (per il 1° caso) e Turchia, come pure gli Stati Uniti d’America, la Francia e il Regno Unito per quanto concerne le rispettive zone di occupazione in Germania.
+
+Gli Stati seguenti si sono impegnati ad applicare nel modo più liberale possibile le procedure d’autorizzazione riguardanti i trasporti turistici internazionali su strada e, in particolare, i servizi turistici internazionali che non sono fissati nel terzo accordo: Austria, Belgio, Danimarca (il Governo danese ha tuttavia fatto delle riserve per quanto concerne i trasporti internazionali di turisti attraverso il Grande Belt), Francia, Ungheria, Italia, Lussemburgo, Paesi Bassi, Regno Unito, Svezia, Svizzera, Cecoslovacchia e Turchia, come pure gli Stati Uniti d’America, la Francia e il Regno Unito per quanto concerne le rispettive zone di occupazione in Germania.
+
+<table>
+<tr><td>Berna, 6 giugno 1951</td><td>La Cancelleria federale</td></tr>
+</table>
+
+[^ingress-1]: Ultima proroga l’8 set. 1954, fino a nuovo avviso (RU 1954 960).

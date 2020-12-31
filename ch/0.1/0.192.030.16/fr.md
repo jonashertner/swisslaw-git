@@ -1,0 +1,89 @@
+---
+sr: "0.192.030.16"
+title: "Résolution statutaire (93) 28 du Comité des Ministres du Conseil de l'Europe du 14 mai 1993 sur les accords partiels et élargis"
+eli: "https://fedlex.data.admin.ch/eli/cc/1995/5257_5257_5257"
+language: fr
+version: 1993-05-14
+adopted: 1993-05-14
+in_force: 1993-05-14
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5257_5257_5257/19930514/fr/xml/fedlex-data-admin-ch-eli-cc-1995-5257_5257_5257-19930514-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5257_5257_5257/19930514/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Résolution statutaire (93) 28 du Comité des Ministres du Conseil de l’Europe sur les accords partiels et élargis
+
+RO **1995** 5257
+
+Texte original
+
+(Adoptée par le Comité des Ministres le 14 mai 1993, lors de sa 92<sup>e</sup> session)
+
+(Etat le 14 mai 1993)
+
+Le Comité des Ministres,
+
+considérant qu’aux termes de son Statut[^ingress-1] le Conseil de l’Europe est compétent dans un large éventail de domaines, dans lesquels il poursuit le but de réaliser une union plus étroite entre ses membres;
+
+considérant que les Accords partiels, grâce auxquels des membres peuvent s’abstenir de participer à une ligne de conduite préconisée par d’autres membres, comme en dispose la résolution statutaire adoptée par le Comité des Ministres lors de sa 9<sup>e</sup> Session, le 2 août 1951, se sont révélés fructueux;
+
+considérant que dans certains cas les problèmes traités au Conseil de l’Europe dépassent le cadre géographique du territoire de ses membres et que l’Organisation doit être prête à examiner toute proposition de conduite conjointe d’une activité intergouvernementale émanant d’Etats non membres;
+
+considérant qu’il convient par conséquent de prévoir des modalités souples et non institutionnelles pour permettre à certains ou à tous les membres, ainsi qu’à des Etats non membres du Conseil de l’Europe, de mener ensemble une activité intergouvernementale sur un pied d’égalité, dans le cadre d’un Accord partiel, d’un Accord partiel élargi ou d’un Accord élargi;
+
+vu l’avis favorable de l’Assemblée parlementaire,
+
+décide ce qui suit:
+
+[^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+
+## I. Participation aux activités
+
+Les activités ou séries d’activités auxquelles tous les Etats membres du Conseil de l’Europe ne souhaitent pas s’associer dans un effort commun ou auxquelles on souhaite associer des Etats non membres du Conseil de l’Europe peuvent être entreprises:
+
+- – par certains Etats membres du Conseil de l’Europe, dans le cadre d’un Accord partiel;
+- – par certains Etats membres du Conseil de l’Europe avec un ou plusieurs Etats non membres, dans le cadre d’un Accord partiel élargi;
+- – par tous les Etats membres du Conseil de l’Europe avec un ou plusieurs Etats non membres, dans le cadre d’un Accord élargi.
+
+## II. Décision quant à la participation
+
+Le Comité des Ministres peut, à la majorité stipulée à l’art. 20.d du Statut du Conseil de l’Europe:
+
+- – autoriser certains Etats membres à entreprendre une activité ou une série d’activités dans le cadre de l’Organisation, l’activité ou la série d’activités en question n’étant alors adoptée que par les représentants qui auront voté en sa faveur, son application étant limitée en conséquence;
+- – dans sa composition limitée aux représentants des Etats membres d’un Accord partiel, inviter tout Etat non membre à adhérer à un Accord partiel ou à certaines de ses activités;
+- – inviter tout Etat non membre à se joindre aux Etats membres du Conseil de l’Europe dans la conduite d’une activité ou d’une série d’activités.
+
+## III. Budget
+
+L’Accord partiel, l’Accord partiel élargi ou l’Accord élargi (ci-après dénommés «l’Accord») est financé par un budget alimenté par les contributions des Etats membres et des Etats non membres qui y participent.
+
+Le barème pour le calcul des contributions des Etats non membres est fixé en accord avec ceux-ci; en règle générale, ce barème est conforme aux critères de détermination du barème des contributions au budget général du Conseil de l’Europe.
+
+Le budget est adopté chaque année par un organe composé des représentants au Comité des Ministres des Etats membres participant à l’activité et, le cas échéant, de représentants des Etats non membres participant à l’activité, qui sont alors autorisés à voter.
+
+Le Règlement financier s’applique, *mutatis mutandis,* à l’adoption et à la gestion du budget de l’Accord.
+
+## IV. Fonctionnement de l’Accord
+
+La décision par laquelle est institué l’Accord en précisera les organes ainsi que les modalités spécifiques de conduite des activités. Sauf stipulation contraire dans la décision, les dispositions générales en vigueur au Conseil de l’Europe concernant les structures, les mandats et les méthodes de travail des comités, et, notamment, le Règlement intérieur des réunions des Délégués des Ministres s’appliquent, mutatis mutandis, aux organes de l’Accord.
+
+Le secrétariat des organes de l’Accord est assuré par le Secrétaire Général du Conseil de l’Europe.
+
+## V. Nouveaux membres et observateurs
+
+Sauf stipulation contraire dans la décision instituant l’Accord:
+
+- – tout Etat membre du Conseil de l’Europe peut adhérer à tout moment à l’Accord, en faisant une déclaration dans ce sens au Secrétaire Général;
+- – tout Etat non membre du Conseil de l’Europe peut être invité à adhérer à un Accord élargi ou à un Accord partiel élargi, par décision du Comité des Ministres après consultation des Etats non membres qui y participent déjà;
+- – tout Etat non membre et toute organisation internationale intergouvernementale peuvent être invités par le Comité des Ministres, après consultation des Etats non membres qui participent déjà, à prendre part en qualité d’observateur aux activités d’un Accord partiel, d’un Accord partiel élargi ou d’un Accord élargi. Aucune contribution budgétaire n’est demandée aux observateurs.
+
+## VI. Communauté européenne
+
+La Communauté européenne peut être invitée par le Comité des Ministres à participer à un Accord partiel, à un Accord partiel élargi ou à un Accord élargi. Les modalités de sa participation sont exposées dans la décision l’invitant à participer.
+
+## VII. Dispositions transitoires
+
+Le présent texte remplace la résolution statutaire sur les Accords partiels, adoptée par le Comité des Ministres lors de sa 9<sup>e</sup> Session, le 2 août 1951.
+
+Les Accords partiels déjà établis continueront de fonctionner selon leurs règles spécifiques.

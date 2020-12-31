@@ -1,0 +1,377 @@
+---
+sr: "412.101.221.46"
+title: "Ordonnance du SEFRI du 1<sup>er</sup> octobre 2010 sur la formation professionnelle initiale de réparatrice de chaussures/réparateur de chaussures avec attestation fédérale de formation professionnelle (AFP)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/783"
+language: fr
+version: 2018-01-01
+adopted: 2010-10-01
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/783/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-783-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/783/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du SEFRI**** sur la formation professionnelle initiale Réparatrice de chaussures/Réparateur de chaussures avec attestation fédérale de formation professionnelle (AFP)**\*******
+
+du 1<sup>er</sup> octobre 2010 (Etat le 1<sup>er</sup> janvier 2018)[^t-1][^t-2][^t-3]
+
+[^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-3]: Abrogée par le ch. I de l’O du SEFRI du 14 août 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 4875](https://fedlex.data.admin.ch/eli/oc/2017/531)).
+
+<table>
+<tr><td>36106</td><td>Réparatrice de chaussures AFP/Réparateur de chaussures AFP Schuhreparateurin EBA/Schuhreparateur EBA Riparatrice di calzature CFP/Riparatore di calzature CFP</td></tr>
+</table>
+
+Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI),
+
+vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance correspondante du 19 novembre 2003 (OFPr)[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+
+## Section 1 Objet et durée
+
+#### Art. 1
+
+**Profil de la profession**
+
+Les réparateurs de chaussures de niveau AFP maîtrisent notamment les activités suivantes et se distinguent par les comportements ci-après:
+
+- a. ils réparent des chaussures de confection et des chaussures sur mesure;
+- b. ils travaillent les matériaux et les produits semi-fabriqués de manière professionnelle;
+- c. ils utilisent les techniques, les outils, les machines et les appareils adéquats pour réparer des chaussures conformément aux directives et organisent leurs procédés de travail avec efficacité;
+- d. ils travaillent dans le respect des directives en matière de sécurité au travail, de protection de la santé et de protection de l’environnement.
+
+#### Art. 2
+
+**Durée et début**
+
+<sup>1</sup> La formation professionnelle initiale dure 2 ans.
+
+<sup>2</sup> Le début de la formation professionnelle initiale est coordonné avec la formation dispensée par l’école professionnelle fréquentée.
+
+## Section 2 Objectifs et exigences
+
+#### Art. 3
+
+**Compétences opérationnelles**
+
+<sup>1</sup> Les objectifs et les exigences de la formation professionnelle initiale sont présentés en termes de compétences opérationnelles aux art. 4 à 6.
+
+<sup>2</sup> Ils s’appliquent à tous les lieux de formation.
+
+#### Art. 4
+
+**Compétences professionnelles**
+
+Les compétences professionnelles concernent les connaissances et les aptitudes relatives aux domaines suivants:
+
+- a. artisanat et technologie;
+- b. sécurité au travail, protection de la santé, protection de l’environnement et maintien de la valeur.
+
+#### Art. 5
+
+**Compétences méthodologiques**
+
+Les compétences méthodologiques concernent les connaissances et les aptitudes relatives aux domaines suivants:
+
+- a. techniques de travail et résolution de problèmes;
+- b. approche et action interdisciplinaires axées sur les processus;
+- c. stratégies d’information et de communication;
+- d. stratégies pour un apprentissage tout au long de la vie.
+
+#### Art. 6
+
+**Compétences sociales et personnelles**
+
+Les compétences sociales et personnelles concernent les connaissances et les aptitudes relatives aux domaines suivants:
+
+- a. autonomie et responsabilité;
+- b. capacité à communiquer;
+- c. capacité à gérer des conflits;
+- d. aptitude au travail en équipe;
+- e. civilité et présentation;
+- f. résistance au stress;
+- g. conscience et respect écologiques au travail.
+
+## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
+
+#### Art. 7
+
+<sup>1</sup> Dès le début de la formation, les prestataires de la formation remettent et expliquent aux personnes en formation les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement.
+
+<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et elles sont prises en considération dans les procédures de qualification.
+
+## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
+
+#### Art. 8
+
+**Parts assumées par les différents lieux de formation**
+
+<sup>1</sup> La formation à la pratique professionnelle s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 4 jours par semaine.
+
+<sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 640 périodes d’enseignement. Parmi celles-ci, 80 périodes sont consacrées à l’enseignement du sport.
+
+<sup>3</sup> Les cours interentreprises comprennent au total 7 jours de cours au minimum et 10 au maximum, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu.
+
+#### Art. 9
+
+**Langue d’enseignement**
+
+<sup>1</sup> La langue d’enseignement est en règle générale la langue nationale du lieu d’implantation de l’école.
+
+<sup>2</sup> L’enseignement bilingue est recommandé dans la langue nationale du lieu d’implantation de l’école et dans une autre langue nationale ou en anglais.
+
+<sup>3</sup> Les cantons peuvent admettre d’autres langues d’enseignement.
+
+## Section 5 Plan de formation et culture générale
+
+#### Art. 10
+
+**Plan de formation**
+
+<sup>1</sup> Un plan de formation, élaboré par l’organisation compétente du monde du travail et approuvé par le SEFRI, est disponible au moment de l’entrée en vigueur de la présente ordonnance.
+
+<sup>2</sup>
+
+Le plan de formation détaille les compétences opérationnelles décrites aux art. 4 à 6 de la manière suivante:
+
+- a. il justifie l’importance de ces compétences pour la formation professionnelle initiale;
+- b. il détermine les comportements attendus sur le lieu de travail dans des situations données;
+- c. il spécifie ces compétences sous la forme d’objectifs évaluateurs concrets;
+- d. il établit un rapport direct entre ces compétences et les procédures de qualification et décrit les modalités de ces dernières.
+
+<sup>3</sup>
+
+En outre, le plan de formation fixe:
+
+- a. la structure curriculaire de la formation professionnelle initiale;
+- b. la répartition et l’organisation des cours interentreprises sur toute la durée de la formation initiale;
+- c. les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement.
+
+<sup>4</sup> Le plan de formation est assorti de la liste des documents relatifs à la mise en œuvre de la formation professionnelle initiale avec indication des titres, des dates et des organes de diffusion.
+
+#### Art. 11
+
+**Culture générale**
+
+L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-1].
+
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
+
+#### Art. 12
+
+**Exigences minimales posées aux formateurs**
+
+Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, let. a et b, OFPr, sont remplies par:
+
+- a. les bottiers-orthopédistes CFC justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
+- b. les bottiers-orthopédistes qualifiés justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
+- c. les cordonniers CFC justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
+- d. les cordonniers qualifiés justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
+- e. les personnes de professions apparentées titulaires d’un CFC et justifiant des connaissances professionnelles requises propres aux réparateurs de chaussures AFP et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation;
+- f. les personnes titulaires d’un titre correspondant de la formation professionnelle supérieure.
+
+#### Art. 13
+
+**Nombre maximal de personnes en formation**
+
+<sup>1</sup>
+
+Une personne peut être formée dans une entreprise si:
+
+- a. un formateur qualifié à cette fin est occupé à 100 %, ou
+- b. deux formateurs qualifiés à cette fin sont occupés chacun au moins à 60 %.
+
+<sup>2</sup> Lorsqu’une personne entre dans sa dernière année de formation professionnelle initiale, une seconde personne peut commencer sa formation.
+
+<sup>3</sup> Une autre personne peut être formée pour chaque professionnel occupé à 100 % ou pour chaque groupe de deux professionnels occupés chacun au moins à 60 % dans l’entreprise.
+
+<sup>4</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité, d’une attestation fédérale de formation professionnelle ou d’une qualification équivalente dans le domaine de la personne en formation.
+
+<sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
+
+## Section 7 Dossier de formation et dossier des prestations
+
+#### Art. 14
+
+**Entreprise formatrice**
+
+<sup>1</sup> La personne en formation constitue un dossier de formation dans lequel elle inscrit au fur et à mesure les travaux importants accomplis ainsi que les compétences et l’expérience acquises dans l’entreprise.
+
+<sup>2</sup> Une fois par semestre, le formateur contrôle et signe le dossier de formation. Il en discute avec la personne en formation au moins une fois par semestre.
+
+<sup>3</sup> Le formateur établit à la fin de chaque semestre un rapport attestant le niveau atteint par la personne en formation.
+
+#### Art. 15
+
+**Formation scolaire et formation initiale en école**
+
+Les prestataires de formations scolaires et de formations initiales en école documentent les prestations de la personne en formation dans les domaines enseignés et ils établissent un bulletin à son intention au terme de chaque semestre.
+
+#### Art. 16
+
+**Cours interentreprises**
+
+<sup>1</sup> Les prestataires des cours interentreprises documentent les prestations de la personne en formation sous la forme de contrôles de compétence effectués conformément au plan de formation.
+
+<sup>2</sup> Ces contrôles de compétence sont sanctionnés par des notes qui sont prises en compte pour le calcul de la note d’expérience au sens de l’art. 20, al. 3.
+
+## Section 8 Procédures de qualification
+
+#### Art. 17
+
+**Admission**
+
+Est admise aux procédures de qualification la personne qui a suivi la formation professionnelle initiale:
+
+- a. conformément à la présente ordonnance;
+- b. dans une institution de formation autorisée par le canton, ou
+- c.
+
+  dans un autre cadre que celui d’une filière de formation réglementée et qui:
+
+  - 1\. a acquis l’expérience nécessaire visée à l’art. 32 OFPr,
+  - 2\. a effectué 3 ans au minimum de cette expérience professionnelle dans le domaine d’activité des réparateurs de chaussures AFP,
+  - 3\. rend crédible son aptitude à satisfaire aux exigences de l’examen final (art. 19).
+
+#### Art. 18
+
+**Objet des procédures de qualification**
+
+Les procédures de qualification visent à démontrer que les compétences opérationnelles décrites aux art. 4 à 6 ont été acquises.
+
+#### Art. 19
+
+**Etendue et organisation de la procédure de qualification avec examen final**
+
+<sup>1</sup>
+
+La procédure de qualification avec examen final porte sur les domaines de qualification ci-après selon les modalités suivantes:
+
+- a. travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 8 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+- b. connaissances professionnelles d’une durée de 2 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit ou des examens écrit et oral. Si un examen oral est organisé, il dure 30 minutes au maximum;
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^19-1].
+
+<sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
+
+[^19-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 20
+
+**Conditions de réussite, calcul et pondération des notes**
+
+<sup>1</sup>
+
+La procédure de qualification avec examen final est réussie si:
+
+- a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4, et
+- b. la note globale est supérieure ou égale à 4.
+
+<sup>2</sup>
+
+La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final ainsi que de la note d’expérience pondérée. Ces notes sont pondérées de la manière suivante:
+
+- a. travail pratique: 40 %;
+- b. connaissances professionnelles: 20 %;
+- c. culture générale: 20 %;
+- d. note d’expérience: 20 %.
+
+<sup>3</sup>
+
+La note d’expérience correspond à la moyenne, arrondie à la première décimale, des notes concernant:
+
+- a. l’enseignement des connaissances professionnelles;
+- b. les cours interentreprises.
+
+<sup>4</sup> La note de l’enseignement des connaissances professionnelles résulte de la moyenne, arrondie à une note entière ou à une demi-note, des notes correspondantes des bulletins semestriels.
+
+<sup>5</sup> La note des cours interentreprises correspond à la moyenne, arrondie à une note entière ou à une demi-note, des notes des contrôles de compétence.
+
+#### Art. 21
+
+**Répétitions**
+
+<sup>1</sup> La répétition de la procédure de qualification est régie par l’art. 33 OFPr. Si un domaine de qualification doit être répété, il doit l’être dans sa globalité.
+
+<sup>2</sup> Pour les personnes qui répètent l’examen final et qui ne fréquentent plus l’école professionnelle, l’ancienne note d’expérience est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+
+<sup>3</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau le dernier cours interentreprises évalué, seule la nouvelle note est prise en compte pour le calcul de la note d’expérience.
+
+#### Art. 22
+
+**Cas particulier**
+
+<sup>1</sup> Pour les personnes qui ont suivi la formation préalable hors du cadre de la formation professionnelle initiale réglementée et subi l’examen final régi par la présente ordonnance, il n’y a pas de note d’expérience.
+
+<sup>2</sup>
+
+Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
+
+- a. travail pratique: 40 %;
+- b. connaissances professionnelles: 40 %;
+- c. culture générale: 20 %.
+
+## Section 9 Certificat et titre
+
+#### Art. 23
+
+<sup>1</sup> La personne qui a réussi une procédure de qualification reçoit l’attestation fédérale de formation professionnelle (AFP).
+
+<sup>2</sup> L’attestation autorise ses titulaires à porter le titre légalement protégé de «réparatrice de chaussures AFP/réparateur de chaussures AFP».
+
+<sup>3</sup>
+
+Si l’attestation a été obtenue par le biais de la procédure de qualification avec examen final, le bulletin de notes mentionne:
+
+- a. la note globale;
+- b. les notes de chaque domaine de qualification de l’examen final et, sous réserve de l’art. 22, al. 1, la note d’expérience.
+
+## Section 10 Commission suisse pour le développement professionnel et la qualité
+
+#### Art. 24
+
+<sup>1</sup>
+
+La Commission suisse pour le développement professionnel et la qualité (commission) comprend:
+
+- a. quatre à cinq représentants de l’Association Pied & Chaussure (ASMCBO);
+- b. deux représentants du corps des enseignants spécialisés;
+- c. au moins un représentant de la Confédération et au moins un représentant des cantons.
+
+<sup>2</sup> Les régions linguistiques sont représentées équitablement.
+
+<sup>3</sup> La commission s’auto-constitue.
+
+<sup>4</sup>
+
+La commission est chargée des tâches suivantes:
+
+- a. adapter régulièrement, au moins tous les 5 ans, le plan de formation décrit à l’art. 10 aux développements économiques, technologiques, écologiques et didactiques. Intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale. Toute modification requiert, d’une part, l’approbation des représentants de la Confédération et des cantons et, d’autre part, l’approbation du SEFRI;
+- b. proposer au SEFRI toute modification de la présente ordonnance induite par des développements constatés, pour autant que ceux-ci touchent aux dispositions de la présente ordonnance, notamment à celles concernant les compétences opérationnelles décrites aux art. 4 à 6.
+
+## Section 11 Dispositions finales
+
+#### Art. 25
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2011.
+
+<sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 17 à 23) entrent en vigueur le 1<sup>er</sup> janvier 2013.
+
+## Dispositions transitoires de l’abrogation du 14 août 2017****
+
+[^u1-1]
+
+[^u1-1]: [RO 2017 4875](https://fedlex.data.admin.ch/eli/oc/2017/531)
+
+<sup>1</sup> Les personnes qui ont commencé leur formation deréparateur de chaussures avant l’entrée en vigueur de la présente ordonnance l’achèvent selon l’ancien droit.
+
+<sup>2</sup> La procédure de qualification peut être répétée au plus tard jusqu’au 31 décembre 2021 selon l’ancien droit.

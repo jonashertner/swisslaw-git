@@ -1,0 +1,1396 @@
+---
+sr: "812.212.21"
+title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
+short: OMéd
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
+language: fr
+version: 2020-04-01
+adopted: 2018-09-21
+in_force: 2019-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20200401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20200401/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les médicaments
+
+(OMéd)
+
+du 21 septembre 2018 (Etat le 1<sup>er</sup> avril 2020) avril 2020)
+
+Le Conseil fédéral suisse,
+
+vu la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-1], vu l’art. 39, al. 1, de la loi du 7 octobre 1983 sur la protection de l’environnement[^ingress-2], vu l’art. 44, al. 1, de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-3], vu l’art. 31 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^ingress-4],
+
+arrête:
+
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Chapitre 1 Objet et champ d’application
+
+#### Art. 1
+
+<sup>1</sup>
+
+La présente ordonnance règle:
+
+- a. l’autorisation de mise sur le marché des médicaments prêts à l’emploi;
+- b. l’autorisation de procédés;
+- c. les critères de classification dans les catégories de remise;
+- d. les restrictions à la distribution;
+- e. l’autorisation de vente par correspondance de médicaments;
+- f. la surveillance du marché et la vigilance;
+- g. l’information du public;
+- h. la liste des recommandations de dosage pour l’usage de médicaments en pédiatrie;
+- i. la publication des résultats des essais cliniques.
+
+<sup>2</sup> Elle s’applique également, par analogie, aux transplants standardisés au sens de l’art. 2, al. 1, let. c, de l’ordonnance du 16 mars 2007 sur la transplantation[^1-1].
+
+<sup>3</sup> L’art. 31 ne s’applique pas aux transplants standardisés au sens de l’art. 2, al. 1, let. c, ch. 2, de l’ordonnance du 16 mars 2007 sur la transplantation.
+
+<sup>4</sup> Les définitions de l’art. 2 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments (OAMéd)[^1-2] sont applicables.
+
+[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+
+## Chapitre 2 Procédure d’autorisation de mise sur le marché
+
+### Section 1 Autorisation de mise sur le marché des médicaments prêts à l’emploi
+
+#### Art. 2
+
+**Autorisation de mise sur le marché**
+
+<sup>1</sup> L’autorisation de mise sur le marché pour les médicaments prêts à l’emploi est régie par l’art. 9 LPTh.
+
+<sup>2</sup>
+
+Une autorisation est nécessaire dans tous les cas:
+
+- a. pour les médicaments prêts à l’emploi qui contiennent des organismes génétiquement modifiés (OGM);
+- b. pour les transplants standardisés au sens de l’art. 2, al. 1, let. c, de l’ordonnance du 16 mars 2007 sur la transplantation[^2-1].
+
+[^2-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+
+#### Art. 3
+
+**Demande d’autorisation de mise sur le marché**
+
+<sup>1</sup> La demande d’autorisation de mise sur le marché ainsi que les données et les documents requis visés aux art. 11 et 14*a* LPTh doivent être déposés auprès de l’Institut suisse des produits thérapeutiques (Swissmedic).
+
+<sup>2</sup> La demande d’autorisation de mise sur le marché d’un médicament dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci doit en outre contenir le numéro d’enregistrement au sens de l’art. 4, al. 3, ou 8, al. 5, de l’ordonnance de Nagoya du 11 décembre 2015[^3-1].
+
+<sup>3</sup> Swissmedic n’entre pas en matière sur les demandes incomplètes ou insuffisantes.
+
+<sup>4</sup> Il peut impartir un délai de 60 jours au plus pour remédier aux défauts.
+
+[^3-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+
+#### Art. 4
+
+**Plan de gestion des risques**
+
+<sup>1</sup>
+
+Un plan de gestion des risques doit être joint:
+
+- a. aux demandes d’autorisation de mise sur le marché d’un médicament à usage humain contenant au moins un nouveau principe actif, selon la procédure fixée à l’art. 11 LPTh (procédure ordinaire);
+- b. aux demandes d’autorisation de mise sur le marché d’un médicament important contre des maladies rares (médicament orphelin) contenant au moins un nouveau principe actif;
+- c. aux demandes d’autorisation de mise sur le marché d’une nouvelle indication pour un médicament visé à la let. a ou b qui est déjà autorisé.
+
+<sup>2</sup> Il comporte une évaluation des risques et un plan de pharmacovigilance.
+
+<sup>3</sup> Le plan de pharmacovigilance expose de quelle manière les risques liés à l’utilisation du médicament sont systématiquement répertoriés et identifiés ainsi que les mesures de prévention prévues (art. 11, al. 2, let. a, ch. 5, LPTh).
+
+#### Art. 5
+
+**Plan d’investigation pédiatrique**
+
+<sup>1</sup> Le plan d’investigation pédiatrique visé à l’art. 54*a* LPTh doit comporter un programme de recherche et développement garantissant que les données nécessaires pour déterminer les conditions auxquelles le médicament concerné peut être autorisé pour le traitement de la population pédiatrique seront élaborées.
+
+<sup>2</sup>
+
+Un plan d’investigation pédiatrique doit être joint:
+
+- a. aux demandes d’autorisation de mise sur le marché d’un médicament contenant au moins un nouveau principe actif, selon la procédure ordinaire;
+- b. aux demandes d’autorisation de mise sur le marché d’un médicament important contre des maladies rares (médicament orphelin) contenant au moins un nouveau principe actif;
+- c. aux demandes d’autorisation de mise sur le marché d’une nouvelle indication, d’une nouvelle forme pharmaceutique ou d’un nouveau mode d’administration pour un médicament visé à la let. a ou b qui est déjà autorisé.
+
+<sup>3</sup> Cette obligation est aussi remplie si le requérant présente le plan d’investigation pédiatrique approuvé en dernier lieu par un pays désigné par Swissmedic comme ayant un contrôle des médicaments équivalent. Le requérant informe sans délai Swissmedic du respect de toutes les exigences prévues dans le plan d’investigation approuvé à l’étranger.
+
+<sup>4</sup>
+
+Sur demande ou d’office, Swissmedic peut accorder une dérogation partielle ou totale à l’obligation d’élaborer un plan d’investigation pédiatrique, notamment:
+
+- a. s’il y a lieu de penser que le médicament est vraisemblablement inefficace dans la population pédiatrique ou que son utilisation est sujette à caution pour des raisons de sécurité;
+- b. si le médicament est destiné à traiter une maladie qui survient uniquement chez l’adulte;
+- c. si le médicament ne présente vraisemblablement pas de bénéfices thérapeutiques significatifs par rapport aux traitements existants pour les patients pédiatriques.
+
+<sup>5</sup>
+
+Sur demande ou d’office, il peut autoriser que des études ou d’autres mesures du plan d’investigation pédiatrique soient initiées ou achevées à une date ultérieure, notamment:
+
+- a. lorsqu’il est indiqué d’effectuer des études sur les adultes avant d’initier des études sur la population pédiatrique;
+- b. lorsque les études sur la population pédiatrique durent plus longtemps que les études sur les adultes.
+
+<sup>6</sup>
+
+Avant le dépôt d’une demande d’autorisation de mise sur le marché, il peut, sur demande:
+
+- a. approuver un plan d’investigation pédiatrique;
+- b. accorder une dérogation conformément à l’al. 4, ou
+- c. autoriser un report conformément à l’al. 5.
+
+#### Art. 6
+
+**Demande d’autorisation de mise sur le marché de médicaments contenant des OGM**
+
+<sup>1</sup> La demande d’autorisation de mise sur le marché d’un médicament contenant des OGM doit remplir, outre les exigences requises par la LPTh, les exigences de l’art. 28 de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^6-1].
+
+<sup>2</sup> L’autorité compétente dirige et coordonne la procédure d’autorisation de mise sur le marché en tenant compte de l’ordonnance sur la dissémination dans l’environnement.
+
+[^6-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 7
+
+**Procédure rapide d’autorisation de mise sur le marché**
+
+Le requérant peut déposer auprès de Swissmedic une demande de procédure rapide pour l’autorisation de mise sur le marché d’un médicament à usage humain ou pour une modification de celui-ci si les conditions suivantes sont réunies:
+
+- a. il s’agit de la prévention ou du traitement prometteurs d’une maladie grave, invalidante ou mortelle;
+- b. il n’existe aucune possibilité de traitement avec des médicaments autorisés ou si les seules possibilités de traitement existantes sont insatisfaisantes;
+- c. l’utilisation du nouveau médicament promet un bénéfice thérapeutique élevé.
+
+#### Art. 8
+
+**Préavis et collaboration**
+
+<sup>1</sup> Avant de rendre sa décision sur l’autorisation de mise sur le marché, Swissmedic communique au requérant le résultat de son examen s’il entend ne pas faire entièrement droit à la demande.
+
+<sup>2</sup> Durant la procédure d’autorisation, il peut demander au requérant de clarifier des questions et, le cas échéant, de remettre des documents supplémentaires en lui impartissant un délai approprié à cet effet.
+
+#### Art. 9
+
+**Autorisation de mise sur le marché**
+
+<sup>1</sup> Swissmedic délivre l’autorisation si le médicament satisfait aux exigences de la législation sur les produits thérapeutiques et, dans le cas des médicaments contenant des OGM, si les conditions de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^9-1] sont remplies; l’art. 80 est réservé.
+
+<sup>2</sup> Swissmedic ne délivre l’autorisation de mise sur le marché d’un médicament dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci que s’il est prouvé que l’obligation de notifier au sens de l’art. 4 ou 8 de l’ordonnance de Nagoya du 11 décembre 2015[^9-2] est respectée.
+
+<sup>3</sup> S’agissant des médicaments vétérinaires pour les animaux de rente, Swissmedic délivre l’autorisation uniquement dans les cas où ces médicaments sont tels que les aliments obtenus ne présentent pas de risques pour la santé humaine.
+
+<sup>4</sup> Il rejette la demande d’autorisation lorsque les conditions ne sont pas remplies ou que la dénomination du médicament ou la présentation de son récipient ou de son matériel d’emballage se révèle contraire à l’ordre public et aux bonnes mœurs, ou susceptible d’induire en erreur ou de prêter à confusion.
+
+<sup>5</sup> Sur demande, il précise dans la décision d’autorisation que l’information sur le médicament reproduit les résultats des études pertinentes réalisées conformément au plan d’investigation pédiatrique approuvé selon l’art. 54*a* LPTh.
+
+[^9-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^9-2]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+
+#### Art. 10
+
+**Transmissibilité**
+
+L’autorisation est transmissible.
+
+#### Art. 11
+
+**Notification en cas de non-mise sur le marché ou d’arrêt de la distribution**
+
+<sup>1</sup> Si un médicament n’est pas mis sur le marché dans l’année suivant l’octroi de l’autorisation, le titulaire de l’autorisation le notifie à Swissmedic dans les 30 jours après écoulement de ladite année.
+
+<sup>2</sup> Si un médicament n’est plus distribué ou si sa distribution est interrompue plus d’une année, le titulaire de l’autorisation le notifie à Swissmedic. Il procède à la notification au moins deux mois à l’avance, à moins que l’arrêt ou l’interruption de la distribution résulte de circonstances dont il ne pouvait prévoir la survenance à temps.
+
+<sup>3</sup> Si un médicament autorisé pour un usage pédiatrique bénéficiant d’une protection selon l’art. 11*b*, al. 3 ou 4, LPTh ou selon les art. 140*n* ou 140*t* de la loi du 25 juin 1954 sur les brevets[^11-1] n’est plus distribué, le titulaire de l’autorisation le notifie à Swissmedic. Il procède à la notification au moins trois mois à l’avance, à moins que l’arrêt de la distribution résulte de circonstances dont il ne pouvait prévoir la survenance à temps.
+
+<sup>4</sup> Si un médicament visé à l’al. 1 est mis sur le marché ultérieurement ou si sa distribution reprend après une interruption, le titulaire de l’autorisation le notifie à Swissmedic dans les 30 jours.
+
+<sup>5</sup> Swissmedic publie les notifications visées aux al. 2 à 4. S’agissant d’un arrêt de distribution selon l’al. 3, il précise que la documentation relative à l’autorisation du médicament pour l’utilisation pédiatrique peut être obtenue gratuitement auprès du titulaire de l’autorisation.
+
+[^11-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+
+#### Art. 12
+
+**Renouvellement de l’autorisation de mise sur le marché**
+
+<sup>1</sup> La demande de renouvellement de l’autorisation doit être déposée avec les documents requis au moins six mois avant la date d’expiration.
+
+<sup>2</sup> Swissmedic peut fixer un délai de dépôt différent dans la décision d’autorisation, en particulier pour les médicaments faisant l’objet d’une surveillance supplémentaire.
+
+#### Art. 13
+
+**Révocation et suspension**
+
+<sup>1</sup> Swissmedic révoque ou suspend l’autorisation de mise sur le marché lorsque les conditions fixées dans la LPTh ne sont plus remplies.
+
+<sup>2</sup> Il révoque l’autorisation de mise sur le marché lorsqu’un médicament n’est plus distribué.
+
+<sup>3</sup> L’autorisation de mise sur le marché des médicaments qui ont été autorisés uniquement pour faire face à une situation d’urgence ou qui sont destinés exclusivement à l’exportation n’est pas révoquée à l’expiration des délais fixés à l’art. 16*a*, al. 1, LPTh.
+
+<sup>4</sup> Le délai visé à l’art. 16*a*, al. 1, let. a, LPTh commence à courir le jour où l’autorisation de mise sur le marché est octroyée. Si un brevet fait obstacle à la mise sur le marché, le délai ne commence à courir qu’à l’expiration du brevet.
+
+<sup>5</sup> Le délai visé à l’art. 16*a*, al. 1, let. b, LPTh commence à courir le jour où le titulaire de l’autorisation de mise sur le marché livre le dernier emballage du dernier lot au grossiste.
+
+#### Art. 14
+
+**Réexamen de l’autorisation de mise sur le marché**
+
+<sup>1</sup> Swissmedic réexamine les médicaments, en vertu de l’art. 16*c* LPTh, individuellement ou par groupes.
+
+<sup>2</sup>
+
+Ce faisant, il tient compte en particulier des critères suivants:
+
+- a. le champ d’application du médicament;
+- b. les risques liés au médicament;
+- c. l’évolution des connaissances techniques et scientifiques.
+
+<sup>3</sup> Il invite chaque titulaire d’autorisation concerné à présenter les données et les documents nécessaires au réexamen. Il fixe à cet effet un délai approprié.
+
+#### Art. 15
+
+**Mesures en cas de risque de confusion**
+
+Si le risque de confusion entre des médicaments ou entre des médicaments et d’autres produits thérapeutiques ayant une dénomination ou une présentation semblable est constaté après la mise sur le marché d’un médicament, Swissmedic ordonne des mesures appropriées, notamment une modification de la dénomination ou du graphisme.
+
+### Section 2 Médicaments et procédés autorisés à la mise sur le marché à l’étranger (art. 13 LPTh)
+
+#### Art. 16
+
+**Principe**
+
+<sup>1</sup>
+
+Si le requérant dépose une demande d’autorisation de mise sur le marché ou de modification d’une autorisation pour un médicament ou un procédé pour lequel l’autorisation a déjà été délivrée dans un pays ayant institué un contrôle des médicaments équivalent, Swissmedic prend en considération les résultats des examens effectués en vue de l’autorisation, lorsque les exigences suivantes sont remplies:
+
+- a. les documents présentés, tirés des documents utilisés pour la procédure à l’étranger, y compris toutes les notifications de modification, ont moins de cinq ans et correspondent à l’état de l’autorisation de mise sur le marché à l’étranger;
+- b. la demande est accompagnée des expertises effectuées à l’étranger dans le cadre de procédures d’autorisation de mise sur le marché, y compris les résultats des examens afférents;
+- c. les documents contiennent toutes les données requises pour la Suisse, notamment concernant l’information sur le médicament et l’étiquetage;
+- d. les documents sont disponibles dans une langue officielle, en anglais, ou ont été traduits dans l’une de ces langues; si une traduction est nécessaire, le requérant confirme l’exactitude de la traduction.
+
+<sup>2</sup> Les documents mentionnés à l’al. 1, let. a, peuvent légèrement différer des documents étrangers, pour autant que ces modifications soient dûment motivées. Une autre dénomination du médicament, un emballage de taille différente ou un autre emballage secondaire sont notamment considérés comme des différences mineures.
+
+<sup>3</sup> Si une autorisation de mise sur le marché a été délivrée dans un état membre de l’UE ou de l’AELE, Swissmedic peut approuver, pour la mise sur le marché du médicament en Suisse, la forme de l’information sur le médicament valide dans l’état membre; les art. 26 à 29 sont réservés.
+
+<sup>4</sup> Swissmedic publie une liste des pays ayant institué un contrôle des médicaments équivalent.
+
+#### Art. 17
+
+**Examen des procédés, des médicaments contenant des principes actifs connus et des biosimilaires**
+
+<sup>1</sup>
+
+Swissmedic n’effectue pas de propre examen scientifique pour les demandes suivantes:
+
+- a. demande d’autorisation de mise sur le marché pour un procédé ou un médicament contenant des principes actifs connus qui a déjà été autorisé dans un pays ayant institué un contrôle des médicaments équivalent;
+- b. demande d’autorisation de mise sur le marché pour un biosimilaire qui a déjà été autorisé par la Commission européenne ou par l’Agence américaine des produits alimentaires et médicamenteux (*United States Food and Drug Administration*).
+
+<sup>2</sup>
+
+Il procède à un examen scientifique:
+
+- a. lorsque le procédé ou le médicament a fait l’objet d’une procédure d’autorisation dans deux pays ou plus ayant institué un contrôle des médicaments équivalent et que les décisions des autorités de ces états se contredisent;
+- b. lorsque la décision d’autorisation étrangère suscite des réserves sérieuses compte tenu des examens précédents de Swissmedic, de nouvelles connaissances publiées dans la littérature spécialisée ou d’informations obtenues dans le cadre de la collaboration avec d’autres autorités de contrôle des médicaments.
+
+<sup>3</sup> L’examen scientifique visé à l’al. 2 se limite aux points douteux.
+
+#### Art. 18
+
+**Examen des médicaments contenant de nouveaux principes actifs et des extensions de leurs indications**
+
+<sup>1</sup> Swissmedic soumet à un examen scientifique complet les demandes d’autorisation de mise sur le marché d’un médicament contenant un nouveau principe actif ainsi que les demandes portant sur l’extension de l’indication d’un tel médicament.
+
+<sup>2</sup> Se fondant sur les résultats d’examens faits à l’étranger, il peut, sur demande ou d’office, limiter son examen de façon appropriée dans les cas justifiés.
+
+#### Art. 19
+
+**Prise en compte d’une autorisation de mise sur le marché conditionnelle accordée à un médicament à l’étranger**
+
+<sup>1</sup> Lorsque la demande d’autorisation de mise sur le marché concerne un médicament qui a obtenu, dans un pays ayant institué un contrôle des médicaments équivalent, une autorisation de mise sur le marché conditionnelle assortie de charges spécifiques en raison de données encore incomplètes sur la qualité, la sécurité ou l’efficacité, le résultat de l’examen effectué par l’autorité étrangère n’est pris en compte que pour octroyer une autorisation à durée limitée selon l’art. 9*a* LPTh.
+
+<sup>2</sup> Toutes les données fournies postérieurement et tous les résultats des examens de l’autorité étrangère se rapportant au respect des charges spécifiques attachées à l’autorisation doivent être remis sans délai à Swissmedic.
+
+#### Art. 20
+
+**Procédures parallèles en Suisse et à l’étranger**
+
+<sup>1</sup> Si l’Agence européenne des médicaments (EMA) adresse une recommandation à la Commission européenne ou si une autorisation de mise sur le marché est délivrée dans un pays ayant institué un contrôle des médicaments équivalent alors qu’une procédure d’autorisation de mise sur le marché est en cours en Suisse pour le même médicament ou procédé, Swissmedic applique sur demande les art. 16 à 19 par analogie.
+
+<sup>2</sup> Il poursuit son examen scientifique si, compte tenu de ses examens précédents, des réserves sérieuses subsistent quant aux résultats des examens faits par l’autorité étrangère.
+
+### Section 3 Modifications de l’autorisation de mise sur le marché
+
+#### Art. 21
+
+**Modifications mineures soumises à notification *a posteriori***
+
+<sup>1</sup> Le titulaire de l’autorisation est tenu de notifier par écrit à Swissmedic toute modification mineure dont les répercussions sur la qualité, la sécurité ou l’efficacité du médicament concerné sont minimales ou nulles; il dispose à cet effet d’un délai de douze mois à compter de la mise en œuvre de la modification.
+
+<sup>2</sup> De telles modifications doivent être notifiées immédiatement dès leur mise en œuvre par écrit à Swissmedic lorsque cela est nécessaire pour la surveillance continue du médicament.
+
+#### Art. 22
+
+**Modifications mineures soumises à notification préalable**
+
+<sup>1</sup> Le titulaire de l’autorisation est tenu de notifier par écrit à Swissmedic toute modification qui ne constitue ni une modification visée à l’art. 21 ou 23 ni une extension de l’autorisation de mise sur le marché, avant la mise en œuvre de la modification.
+
+<sup>2</sup> Si Swissmedic ne forme aucune objection dans les 60 jours suivant la réception d’une notification valable et des documents complets, la modification est réputée acceptée dès le jour qui suit l’expiration de ce délai. Si Swissmedic forme des objections à la modification avant l’expiration de ce délai, le titulaire de l’autorisation dispose de 30 jours pour lui fournir les documents permettant de lever les objections ou pour lui soumettre une nouvelle notification tenant dûment compte des objections. Si ce dernier ne le fait pas, la modification est réputée rejetée.
+
+<sup>3</sup> L’al. 2 ne s’applique pas lorsque la notification d’une modification selon l’al. 1 est déposée en même temps qu’une demande d’approbation d’une modification majeure ou qu’une demande d’extension de l’autorisation de mise sur le marché.
+
+#### Art. 23
+
+**Modifications majeures**
+
+Les modifications d’un médicament qui sont susceptibles d’avoir des répercussions significatives sur sa qualité, sa sécurité ou son efficacité et qui ne constituent pas une extension de l’autorisation de mise sur le marché doivent être approuvées par Swissmedic avant leur mise en œuvre.
+
+#### Art. 24
+
+**Extension de l’autorisation de mise sur le marché**
+
+Les modifications d’un médicament qui sont classées comme une extension de l’autorisation de mise sur le marché doivent faire l’objet d’une nouvelle procédure d’autorisation de mise sur le marché.
+
+#### Art. 25
+
+**Classification des modifications et procédures**
+
+<sup>1</sup> Swissmedic établit une classification des modifications par catégories et précise les modalités des procédures prévues aux art. 21 à 24 ainsi que la documentation requise. Ce faisant, il tient compte des normes et directives reconnues sur le plan international, notamment le règlement (CE) n<sup>o</sup> 1234/2008[^25-1] et les lignes directrices de la Commission européenne fondées sur ce règlement.
+
+<sup>2</sup> Il définit comment une demande peut porter sur plusieurs modifications.
+
+[^25-1]: Règlement (CE) n<sup>o</sup> 1234/2008 de la Commission du 24 novembre 2008 concernant l’examen des modifications des termes d’une autorisation de mise sur le marché de médicaments à usage humain et de médicaments vétérinaires; JO L 334 du 12.12.2008, p. 7; modifié par le règlement (EU) n<sup>o</sup> 712/2012, JO L 209 du 4.8.2012, p. 4.
+
+### Section 4 Étiquetage et information sur le médicament
+
+#### Art. 26
+
+**Langues de rédaction**
+
+<sup>1</sup> Les textes et les données figurant sur le récipient et le matériel d’emballage doivent être rédigés dans deux langues officielles au moins.
+
+<sup>2</sup> L’information destinée aux professionnels sur les médicaments à usage humain ou vétérinaire et leur notice d’emballage doivent être rédigées dans les trois langues officielles.
+
+<sup>3</sup> La composition du médicament peut aussi être indiquée en latin ou à l’aide de désignations internationales usuelles, comme les dénominations communes internationales de l’Organisation mondiale de la santé, sur le récipient, sur le matériel d’emballage et sur l’information destinée aux professionnels.
+
+<sup>4</sup> Pour les médicaments exclusivement destinés à être administrés dans les hôpitaux et étiquetés en conséquence, les indications visées aux al. 1 et 2 peuvent être rédigées dans une seule langue officielle ou en anglais. Le titulaire de l’autorisation s’assure que l’utilisateur peut recevoir des informations complémentaires dans la langue officielle de son choix.
+
+#### Art. 27
+
+**Déclaration des OGM**
+
+<sup>1</sup> Les médicaments qui sont des OGM ou qui en contiennent doivent être désignés comme tels.
+
+<sup>2</sup> Le récipient destiné à la remise, l’emballage extérieur et la notice d’emballage doivent porter la mention «contient du X génétiquement modifié» ou «produit à partir de X génétiquement modifié». Le type d’OGM et la modification génétique doivent être indiqués dans l’information destinée aux professionnels.
+
+<sup>3</sup> L’étiquetage des principes actifs et des excipients obtenus à partir d’OGM est régi, par analogie, par les dispositions concernant l’étiquetage fixées dans la législation sur les denrées alimentaires génétiquement modifiées.
+
+#### Art. 28
+
+**Adaptation de l’information sur le médicament**
+
+Le titulaire de l’autorisation est tenu d’adapter l’information sur le médicament, en permanence et spontanément, à l’état des connaissances scientifiques et techniques ainsi qu’aux nouveaux événements et évaluations. Les art. 21 à 24 s’appliquent.
+
+#### Art. 29
+
+**Moment de la publication de l’information sur le médicament**
+
+Le titulaire de l’autorisation de mise sur le marché d’un médicament à usage humain ou vétérinaire est tenu de livrer à l’institution visée à l’art. 67, al. 3, LPTh le contenu, prescrit par la loi, des informations sur le médicament dans les formes prévues au plus tard lors de la première mise sur le marché de la préparation.
+
+### Section 5 Autorisation d’un médicament très proche d’un médicament autorisé (art. 12 LPTh)
+
+#### Art. 30
+
+<sup>1</sup>
+
+La demande d’autorisation de mise sur le marché d’un médicament qui est très proche d’un médicament déjà autorisé et qui est destiné au même emploi peut se référer aux résultats des essais pharmacologiques, toxicologiques et cliniques du médicament déjà autorisé pour autant:
+
+- a. que le titulaire de l’autorisation du médicament déjà autorisé y consente par écrit, ou
+- b. que la période d’exclusivité des données ait expiré.
+
+<sup>2</sup>
+
+Si une nouvelle indication, un nouveau mode d’administration, une nouvelle forme pharmaceutique, un nouveau dosage, une nouvelle recommandation de dosage ou l’application à une nouvelle espèce animale a été autorisée pour le médicament déjà autorisé, la demande visée à l’al. 1 peut se référer aux résultats des essais correspondants, pour autant:
+
+- a. que le titulaire de l’autorisation du médicament déjà autorisé y consente par écrit, ou
+- b. que la période d’exclusivité des données octroyée pour la modification de l’autorisation ait expiré.
+
+<sup>3</sup> Sur demande, Swissmedic fixe à dix ans l’exclusivité des données visée à l’al. 2, let. b, pour une nouvelle indication si celle-ci permet d’escompter un bénéfice clinique important par rapport aux thérapies existantes et qu’elle s’appuie sur des essais cliniques approfondis.
+
+<sup>4</sup> L’exclusivité des données prévue à l’art. 11*b*, al. 3, LPTh est octroyée uniquement si les études présentées sont conformes au plan d’investigation pédiatrique visé à l’art. 54*a* LPTh.
+
+<sup>5</sup> L’exclusivité des données est octroyée avec l’autorisation de mise sur le marché et fait l’objet d’une publication.
+
+<sup>6</sup> Swissmedic n’entre pas en matière sur les demandes d’autorisation d’un médicament visées à l’art. 12 LTPh qui sont présentées plus de deux ans avant l’expiration de l’exclusivité des données sans le consentement écrit du titulaire de l’autorisation du médicament déjà autorisé.
+
+### Section 6 Autorisation de procédés
+
+#### Art. 31
+
+**Procédés pour l’inactivation ou l’élimination d’agents pathogènes**
+
+<sup>1</sup> Les procédés de traitement de sang ou de produits sanguins labiles visant l’inactivation ou l’élimination de certains agents pathogènes ne peuvent être mis sur le marché ou utilisés que s’ils ont été autorisés par Swissmedic.
+
+<sup>2</sup> Swissmedic délivre l’autorisation si le requérant démontre que le procédé inactive ou élimine les agents pathogènes et que ni l’efficacité, ni la sécurité, ni la qualité du produit n’en sont affectées.
+
+<sup>3</sup> Toute modification apportée au procédé doit être soumise au préalable à l’approbation de Swissmedic.
+
+#### Art. 32
+
+**Procédés pour la fabrication de transplants non standardisés**
+
+Les transplants non standardisés dont le procédé de fabrication peut être standardisé ne peuvent être mis sur le marché que si le procédé a été autorisé par Swissmedic.
+
+#### Art. 33
+
+**Procédés pour la fabrication de médicaments non standardisés**
+
+<sup>1</sup> Les médicaments non standardisés dont le procédé de fabrication peut être standardisé et qui présentent un risque élevé en raison de leur indication, composition, dosage ou mode d’administration, ou parce que leur sécurité et leur efficacité ne sont pas suffisamment étayées dans les publications scientifiques, ne peuvent être mis sur le marché que si leur procédé de fabrication a été autorisé par Swissmedic.
+
+<sup>2</sup> Après consultation des cantons, Swissmedic désigne les médicaments ou groupes de médicaments qui requièrent une autorisation au sens de l’al. 1 et adapte régulièrement cette liste en fonction de l’état des connaissances scientifiques et techniques. Il peut assortir les adaptations de la liste de dispositions transitoires.
+
+<sup>3</sup> Si la liste prévue à l’al. 2 ne correspond plus aux connaissances ou évolutions récentes et si des mesures urgentes sont requises pour protéger la santé, il peut donner les instructions nécessaires aux autorités cantonales d’exécution, après consultation préalable, en attendant l’adaptation de la liste. Ces instructions sont publiées sur Internet.
+
+#### Art. 34
+
+**Droit applicable**
+
+Les dispositions relatives à l’autorisation de mise sur le marché des médicaments prêts à l’emploi s’appliquent par analogie à l’autorisation des procédés visés aux art. 31 à 33.
+
+### Section 7 Médicaments dispensés de l’autorisation (art. 9, al. 2<sup>quater</sup>, LPTh)
+
+#### Art. 35
+
+**Restrictions à la remise**
+
+<sup>1</sup> Les médicaments au sens de l’art. 9, al. 2, let. b à c<sup>bis</sup>, LPTh ne peuvent être remis qu’à la clientèle de l’établissement.
+
+<sup>2</sup> Par clientèle de l’établissement, on entend les clients d’une officine publique, d’une droguerie ou d’un autre établissement titulaire d’une autorisation cantonale de commerce de détail, qui acquièrent des médicaments pour leur propre usage ou pour les administrer à des tiers ou à des animaux.
+
+<sup>3</sup>
+
+En milieu hospitalier, dans les cliniques et dans les autres établissements médicaux où la responsabilité pharmaceutique est confiée à un seul spécialiste, la clientèle de l’établissement est composée des personnes suivantes:
+
+- a. les patients en soins stationnaires au sein de l’établissement;
+- b. les patients en soins ambulatoires qui font appel aux connaissances et équipements spécifiques de l’établissement.
+
+<sup>4</sup> Les patients en soins stationnaires peuvent recevoir un premier approvisionnement en médicaments à la sortie de l’établissement pour leurs besoins immédiats.
+
+#### Art. 36
+
+**Restrictions quantitatives**
+
+<sup>1</sup> Les médicaments visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh ne peuvent être fabriqués ou stockés qu’en quantité limitée par année civile, correspondant aux besoins usuels de l’établissement pour une année, à moins que les données relatives à leur stabilité justifient une plus longue période de stockage.
+
+<sup>2</sup> Les établissements chargés de la fabrication de médicaments à façon au sens de l’art. 9, al. 2<sup>bis</sup>, LPTh ne peuvent fabriquer un médicament visé à l’art. 9, al. 2, let. a à c, LPTh qu’en quantité limitée par année civile, correspondant au plus à 3000 emballages prêts à être remis contenant au maximum 90 000 doses individuelles, par formes pharmaceutiques et par dosages. Un établissement habilité à remettre des médicaments ne peut faire fabriquer à façon les quantités maximales des médicament visés qu’une fois par année civile.
+
+<sup>3</sup> La restriction visée à l’al. 2 ne s’applique pas lorsqu’aucun médicament de substitution équivalent autorisé en Suisse ou dans un pays ayant institué un contrôle des médicaments équivalent n’est disponible.
+
+#### Art. 37
+
+**Principes actifs admis**
+
+<sup>1</sup>
+
+Seuls les principes actifs qui répondent au moins à une des conditions suivantes peuvent être utilisés pour la fabrication des médicaments non soumis à autorisation visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, 2<sup>bis</sup> et 2<sup>ter</sup>, LPTh:
+
+- a. ils sont contenus dans un médicament autorisé par Swissmedic ou dans un pays ayant institué un contrôle des médicaments équivalent;
+- b. ils sont mentionnés dans la liste édictée par Swissmedic relative à la médecine asiatique traditionnelle et sont utilisés dans le respect des restrictions prévues dans cette liste;
+- c. ils sont mentionnés dans la liste édictée par Swissmedic relative à la médecine homéopathique et à la médecine anthroposophique et sont utilisés dans le respect des restrictions prévues dans cette liste;
+- d. ils sont mentionnés dans la Pharmacopée, ou dans une autre pharmacopée ou dans un autre formulaire pharmaceutique reconnus par Swissmedic;
+- e. ils sont utilisés comme produit radiopharmaceutique et figurent à l’annexe 1;
+- f. ils sont utilisés comme antidote ou antivenin.
+
+<sup>2</sup>
+
+Dans des cas exceptionnels justifiés, des principes actifs ne répondant pas aux conditions mentionnées à l’al. 1 peuvent aussi être utilisés pour la fabrication des médicaments visés à l’art. 9, al. 2, let. a, LPTh dans le respect des règles reconnues des sciences médicales et pharmaceutiques:
+
+- a. s’ils ne sont pas utilisés comme produits radiopharmaceutiques;
+- b. si le médicament est destiné au diagnostic, à la prévention ou au traitement d’une maladie grave, entraînant une invalidité ou mettant en danger la vie du patient;
+- c. si aucun médicament de substitution et équivalent n’est disponible;
+- d. si l’utilisation envisagée permet d’escompter un grand bénéfice thérapeutique, et
+- e. si une analyse des risques documentée justifie l’utilisation envisagée.
+
+<sup>3</sup> Les cantons tiennent et publient une liste des médicaments visés à l’al. 2 mentionnant les principes actifs utilisés et les indications concernées.
+
+#### Art. 38
+
+**Produits radiopharmaceutiques**
+
+Pour la fabrication de produits radiopharmaceutiques selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, et 2<sup>bis</sup>, LPTh, les services de radiopharmacie des hôpitaux sont considérés comme des pharmacies d’hôpital au sens de l’art. 4, al. 1, let. j, LPTh.
+
+#### Art. 39
+
+**Textes et données sur les récipients et le matériel d’emballage**
+
+<sup>1</sup>
+
+Les mentions suivantes doivent figurer, en caractères d’une taille d’au moins 7 points, sur les récipients et les emballages des médicaments non soumis à autorisation visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh et destinés à être remis ou utilisés:
+
+- a. médicaments visés à l’art. 9, al. 2, let. a, LPTh: «formule magistrale»;
+- b. médicaments visés à l’art. 9, al. 2, let. b, LPTh: «formule officinale»;
+- c. médicaments visés à l’art. 9, al. 2, let. c, LPTh: «formule propre»;
+- d. médicaments visés à l’art. 9, al. 2, let. c<sup>bis</sup>, LPTh: «formule hospitalière».
+- [tab] <sup>2</sup> Les autres textes et données ainsi que leurs aspects formels sont régis par la Pharmacopée.
+
+## Chapitre 3 Catégories de remise et remise
+
+### Section 1 Classification des médicaments par catégories de remise
+
+#### Art. 40
+
+<sup>1</sup> Lorsqu’il octroie l’autorisation de mise sur le marché, Swissmedic précise la catégorie de remise du médicament.
+
+<sup>2</sup>
+
+Pour la classification dans une catégorie de remise, il tient compte en particulier des aspects suivants:
+
+- a. l’effet pharmacologique;
+- b. la toxicité aiguë et chronique;
+- c. les expériences cliniques, en particulier en relation avec la sécurité et les effets indésirables;
+- d. le champ d’application;
+- e. le risque d’usage abusif;
+- f. les compétences professionnelles que doivent posséder les médecins et les pharmaciens, pour des raisons de sécurité, pour le choix et l’utilisation du médicament.
+
+<sup>3</sup> Il adapte la classification, d’office ou sur demande, en fonction de l’état des connaissances scientifiques et techniques.
+
+<sup>4</sup> Il publie sur son site Internet la liste des principes actifs contenus dans les médicaments qu’il a autorisés. Cette liste répertorie également la catégorie de remise des médicaments.
+
+<sup>5</sup> Les stupéfiants et les substances psychotropes sont soumis aux dispositions particulières de l’ordonnance du 25 mai 2011 sur le contrôle des stupéfiants[^40-1].
+
+[^40-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+
+### Section 2 Catégories de médicaments soumis à ordonnance
+
+#### Art. 41
+
+**Remise sur ordonnance médicale ou vétérinaire non renouvelable**
+
+Un médicament est classé dans la catégorie des médicaments soumis à ordonnance non renouvelable sans l’autorisation expresse du médecin (catégorie de remise A):
+
+- a. si la durée du traitement est limitée et que, pour des raisons de sécurité, elle ne peut être prolongée sans ordonnance médicale ou vétérinaire;
+- b. si son usage sans diagnostic ni surveillance médicale ou vétérinaire risque d’entraîner de graves atteintes à la santé;
+- c. si, du fait d’un usage erroné, le traitement ultérieur d’affections graves risque d’être compromis de manière décisive.
+
+#### Art. 42
+
+**Remise sur ordonnance médicale ou vétérinaire**
+
+Un médicament est classé dans la catégorie des médicaments soumis à ordonnance (catégorie de remise B):
+
+- a. s’il est recommandé pour lutter contre des maladies dont le traitement requiert un diagnostic ou une surveillance médicale ou vétérinaire;
+- b. s’il risque de porter une atteinte directe ou indirecte à la santé lorsqu’il est utilisé conformément à l’usage auquel il est destiné, sans diagnostic médical ou vétérinaire ni surveillance;
+- c. s’il est fréquemment utilisé de manière non conforme à l’usage auquel il est destiné et que cela risque de porter une atteinte directe ou indirecte à la santé;
+- d. s’il contient des principes actifs ou des préparations de principes actifs dont les effets et les effets indésirables doivent faire l’objet d’études approfondies;
+- e. s’il est destiné à l’administration par voie parentérale;
+- f. si sa remise requiert le conseil d’une personne exerçant une profession médicale.
+
+### Section 3 Catégories de médicaments non soumis à ordonnance
+
+#### Art. 43
+
+**Remise sur conseil spécialisé**
+
+<sup>1</sup>
+
+Un médicament est classé dans la catégorie des médicaments remis sur conseil spécialisé (catégorie de remise D):
+
+- a. s’il ne tombe pas dans les catégories A ou B, et
+- b. si sa remise ou son utilisation requiert un conseil spécialisé.
+
+<sup>2</sup> Les médicaments classés dans cette catégorie peuvent être remis sans ordonnance médicale ou vétérinaire par les personnes habilitées en vertu de l’art. 25, al. 1, let. a, b et d, LPTh.
+
+#### Art. 44
+
+**Remise sans conseil spécialisé**
+
+<sup>1</sup>
+
+Un médicament est classé dans la catégorie des médicaments en vente libre (catégorie de remise E):
+
+- a. s’il ne tombe pas dans les catégories A, B ou D, et
+- b. si sa remise ou son utilisation ne requiert pas de conseil spécialisé.
+
+<sup>2</sup> Les médicaments classés dans cette catégorie peuvent être remis par quiconque sans ordonnance médicale ou vétérinaire.
+
+### Section 4 Exigences relatives à la remise
+
+#### Art. 45
+
+**Remise par les pharmaciens de médicaments soumis à ordonnance sans ordonnance médicale (art. 24, al. 1, let. a, ch. 1, LPTh)**
+
+<sup>1</sup>
+
+Les pharmaciens peuvent, sans présentation d’une ordonnance, remettre les médicaments à usage humain suivants de la catégorie de remise B:
+
+- a. médicaments utilisés pour traiter des maladies fréquentes, pour autant qu’ils contiennent des principes actifs connus, autorisés depuis plusieurs années;
+- b. médicaments utilisés pour poursuivre un traitement de longue durée pendant un an, après une première prescription médicale;
+- c.
+
+  médicaments dont la remise requiert, pour des raisons de sécurité, le conseil d’une personne exerçant une profession médicale, qui appartenaient à la catégorie de remise C jusqu’au 1<sup>er</sup> janvier 2019 et qui sont reclassés par Swissmedic dans la catégorie B; il s’agit notamment des médicaments qui:
+
+  - 1\. contiennent des principes actifs présentant un risque d’abus bien connu pouvant induire une accoutumance ou une dépendance,
+  - 2\. contiennent des principes actifs pouvant avoir des interactions graves avec des médicaments soumis à ordonnance, ou
+  - 3\. sont soumis à une obligation de consigner spéciale.
+
+<sup>2</sup> Les indications et les médicaments autorisés pour celles-ci ainsi que les autres conditions concernant la remise visés à l’al. 1, let. a, sont énumérés à l’annexe 2.
+
+<sup>3</sup> Les médicaments visés à l’al. 1, let. c, sont publiés sur le site Internet de Swissmedic.
+
+<sup>4</sup> Les antibiotiques à action systémique ne peuvent pas être remis selon l’al. 1.
+
+#### Art. 46
+
+**Médicaments prescrits par des chiropraticiens (art. 24, al. 1, let. a, ch. 1, LPTh)**
+
+Les pharmaciens peuvent remettre les médicaments visés à l’art. 4, let. b, de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins[^46-1] qui ont été prescrits par un chiropraticien.
+
+[^46-1]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
+
+#### Art. 47
+
+**Remise en personne**
+
+<sup>1</sup> La remise en vertu de l’art. 24, al. 1, let. a, ch. 1 et 2, LPTh ne peut être effectuée que par le pharmacien en personne.
+
+<sup>2</sup> Le patient auquel le médicament est destiné doit être présent en personne pour l’évaluation et la remise du médicament.
+
+#### Art. 48
+
+**Obligation de consigner**
+
+<sup>1</sup> Toute remise en vertu de l’art. 24, al. 1, let. a, ch. 1 et 2, LPTh doit être consignée sous forme électronique ou par écrit.
+
+<sup>2</sup>
+
+Les informations suivantes doivent être consignées:
+
+- a. nom, prénom, date de naissance et sexe du patient;
+- b. désignation du point de remise et de la personne ayant effectué la remise;
+- c. dénomination du médicament, dosage et taille de l’emballage;
+- d. date de la remise;
+- e. informations justifiant la décision de remise.
+
+<sup>3</sup> Si les informations sont enregistrées dans le dossier électronique du patient selon la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^48-1], les formats d’échange prévus par le Département fédéral de l’intérieur (DFI) en vertu de l’art. 10, al. 3, let. b, de l’ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)[^48-2] doivent être respectés.
+
+[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+
+#### Art. 49
+
+**Remise par les professionnels de la médecine complémentaire**
+
+Outre les personnes visées à l’art. 25, al. 1, LPTh, les professionnels de la médecine complémentaire titulaires d’un diplôme fédéral sont habilités à remettre, à titre indépendant et dans l’exercice de leur profession, les médicaments non soumis à ordonnance que Swissmedic a désignés à cet effet.
+
+#### Art. 50
+
+**Services de planification familiale**
+
+Le canton peut autoriser les conseillers des services de planification familiale à remettre la «pilule du lendemain» dans le cadre de leur activité, pour autant qu’ils soient au bénéfice d’une formation *ad hoc* reconnue par le canton. Celui-ci veille à ce que la procédure de remise soit fiable et uniforme et qu’elle soit placée sous la surveillance directe d’une personne exerçant une profession médicale.
+
+## Chapitre 4 Exigences minimales applicables à la prescription d’un médicament à usage humain
+
+#### Art. 51
+
+<sup>1</sup>
+
+L’ordonnance d’un médecin ou d’un chiropraticien prescrivant un médicament à usage humain doit contenir au moins les données suivantes:
+
+- a. nom, prénom et adresse du cabinet médical de la personne qui rédige l’ordonnance ainsi que son numéro d’identification inscrit dans le registre des professions médicales (GLN)[^51-1];
+- b. signature légalement valable de la personne qui rédige l’ordonnance;
+- c. nom, prénom, date de naissance et sexe du patient;
+- d. date de rédaction de l’ordonnance;
+- e. nom de la préparation ou du principe actif, forme pharmaceutique, le cas échéant, quantité de principe actif par unité;
+- f. dosage et durée d’utilisation;
+- g. prescriptions d’utilisation.
+
+<sup>2</sup> Si l’ordonnance est établie sur papier, elle doit porter la signature manuscrite de la personne qui la rédige. Les ordonnances électroniques peuvent être munies d’une signature électronique qualifiée ou être transmises de manière à ce qu’elles remplissent des exigences de sécurité comparables en termes d’authenticité, d’intégrité des données et de confidentialité.
+
+<sup>3</sup> Les al. 1 et 2 s’appliquent par analogie aux ordonnances d’autres professionnels de la santé prescrivant des médicaments à usage humain.
+
+<sup>4</sup> Si l’ordonnance électronique est enregistrée dans le dossier électronique du patient au sens de la LDEP[^51-2], les formats d’échange prévus par le DFI en vertu de l’art. 10, al. 3, let. b, ODEP[^51-3] doivent être respectés.
+
+[^51-1]: GLN = *Global Location Number*
+[^51-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^51-3]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+
+## Chapitre 5 Administration de médicaments soumis à ordonnance
+
+#### Art. 52
+
+**Personnes titulaires d’un diplôme fédéral**
+
+<sup>1</sup> Toute personne qui entend utiliser, dans l’exercice de sa profession et sous sa propre responsabilité, des médicaments soumis à ordonnance doit être au bénéfice d’une autorisation délivrée par le canton dans lequel elle exerce sa profession.
+
+<sup>2</sup>
+
+Outre les personnes exerçant une profession médicale, les personnes des catégories professionnelles suivantes peuvent obtenir une telle autorisation:
+
+- a. les titulaires d’un *Bachelor of Science* (HES) de sage-femme;
+- b. les titulaires d’un diplôme d’hygiéniste dentaire ES;
+- c. les chiropraticiens diplômés;
+- d. les titulaires d’un diplôme d’ambulancier ES;
+- e. les personnes visées à l’art. 49.
+
+<sup>3</sup> Le canton précise les médicaments que les personnes visées à l’al. 2 peuvent administrer.
+
+<sup>4</sup> Il veille à ce qu’une surveillance régulière soit assurée par l’autorité cantonale ou une personne appropriée exerçant une profession médicale.
+
+#### Art. 53
+
+**Médecins-dentistes au bénéfice d’une autorisation cantonale**
+
+Le canton peut autoriser les médecins-dentistes au bénéfice d’une autorisation cantonale à utiliser les médicaments soumis à ordonnance qui sont nécessaires dans l’exercice de leur profession.
+
+## Chapitre 6 Restrictions à la distribution
+
+#### Art. 54
+
+[^54-1]
+
+Le titulaire de l’autorisation ne peut distribuer les médicaments immunologiques à usage vétérinaire, à l’exception des allergènes, qu’aux vétérinaires ou aux autorités compétentes.
+
+[^54-1]: Nouvelle teneur selon l’annexe 8 ch. II 3 de l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+
+## Chapitre 7 Autorisation de vente par correspondance de médicaments
+
+#### Art. 55
+
+**Conditions d’octroi**
+
+<sup>1</sup> Quiconque demande une autorisation de vente par correspondance de médicaments doit être au bénéfice d’une autorisation cantonale l’habilitant à tenir une officine publique.
+
+<sup>2</sup>
+
+De surcroît, le requérant doit, à l’aide d’un système d’assurance-qualité, s’assurer que:
+
+- a. le destinataire du médicament est bien la personne pour laquelle l’ordonnance médicale a été rédigée;
+- b. l’ordonnance médicale a été vérifiée afin de prévenir toute interaction indésirable avec d’autres médicaments remis au destinataire;
+- c. le conditionnement, le transport et la livraison du médicament sont propres à en garantir la qualité et l’efficacité;
+- d. le médicament est livré dans son emballage original avec la notice d’emballage et un mode d’emploi spécifique;
+- e. le médicament envoyé n’est livré qu’à la personne pour laquelle l’ordonnance médicale a été rédigée ou à un tiers en possession d’une procuration écrite de celle-ci;
+- f. le patient a été informé du fait qu’il doit prendre contact avec son médecin traitant si des problèmes surgissent en relation avec le médicament envoyé, et que
+- g. les conseils ont été fournis dans les règles de l’art par un professionnel de la santé.
+
+<sup>3</sup> Les exigences concernant la prescription, la remise et l’utilisation de médicaments vétérinaires doivent être respectées conformément à l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^55-1].
+
+[^55-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+
+#### Art. 56
+
+**Liste des pharmacies disposant d’une autorisation**
+
+Les cantons gèrent une liste commune des pharmacies qui disposent d’une autorisation de vente par correspondance.
+
+## Chapitre 8 Surveillance du marché
+
+### Section 1 Contrôle ultérieur
+
+#### Art. 57
+
+**Contrôle ultérieur par les cantons**
+
+<sup>1</sup> Le contrôle ultérieur de la licéité de la remise et de l’utilisation des médicaments mis sur le marché relève de la compétence des cantons.
+
+<sup>2</sup>
+
+Les cantons contrôlent, par sondage ou sur demande de Swissmedic, si les points de remise respectent notamment:
+
+- a. les prescriptions relatives aux droits de remise;
+- b. les prescriptions relatives à la publicité pour les médicaments;
+- c. les exigences relatives à l’étiquetage des médicaments.
+
+<sup>3</sup> Si, après contrôle, il apparaît que les dispositions prévues à l’al. 2, let. a, ont été enfreintes, le canton procède aux investigations nécessaires et ordonne les mesures qui s’imposent. Il informe Swissmedic.
+
+<sup>4</sup> Si, après contrôle, il apparaît que les dispositions prévues à l’al. 2, let. b et c, ou d’autres dispositions de la LPTh ou de la présente ordonnance ont été enfreintes, le canton en réfère à Swissmedic. Celui-ci procède aux investigations nécessaires et ordonne les mesures qui s’imposent. Il informe les cantons.
+
+#### Art. 58
+
+**Contrôle par Swissmedic de la licéité de la distribution**
+
+<sup>1</sup>
+
+Le contrôle de la licéité de la distribution des médicaments autorisés ou soumis à autorisation et des produits sanguins labiles relève de la compétence de Swissmedic. Celui-ci contrôle notamment:
+
+- a. si les médicaments soumis à autorisation de mise sur le marché sont au bénéfice d’une autorisation valable délivrée par lui;
+- b. si les charges et les conditions ordonnées par lui sont respectées.
+
+<sup>2</sup>
+
+De plus, il contrôle régulièrement, en vertu de l’art. 58, al. 2, LPTh, si les médicaments autorisés sont conformes à l’autorisation de mise sur le marché, notamment en ce qui concerne:
+
+- a. la composition;
+- b. les spécifications;
+- c. les exigences de qualité;
+- d. l’information sur le médicament;
+- e. le matériel d’emballage.
+
+<sup>3</sup> Il peut exiger les documents nécessaires dans le cadre de ces contrôles.
+
+<sup>4</sup> Si, après contrôle, il apparaît que des dispositions de la LPTh ou de la présente ordonnance ont été enfreintes, il ordonne les mesures qui s’imposent.
+
+#### Art. 59
+
+**Inspections**
+
+<sup>1</sup> Swissmedic peut en tout temps effectuer des inspections axées sur le produit, s’il le juge nécessaire.
+
+<sup>2</sup> Les inspections à l’étranger et les attributions des inspecteurs sont régies par les art. 60, al. 2 et 3, et 62 OAMéd[^59-1].
+
+[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+
+### Section 2 Rapport périodique sur la sécurité et le rapport bénéfice-risque des médicaments
+
+#### Art. 60
+
+<sup>1</sup> Le titulaire d’une autorisation pour un médicament contenant un principe actif nouveau ou contenant un biosimilaire doit remettre à Swissmedic, périodiquement et spontanément pendant les quatre ans suivant l’octroi de l’autorisation, un rapport actualisé sur la sécurité et le rapport bénéfice-risque du médicament.
+
+<sup>2</sup> Le rapport doit être établi conformément aux bonnes pratiques de vigilance reconnues désignées à l’annexe 3.
+
+### Section 3 Vigilance
+
+#### Art. 61
+
+**Obligation de déclarer du fabricant ou du titulaire de l’autorisation**
+
+<sup>1</sup> Le fabricant ou le titulaire de l’autorisation doit déclarer à Swissmedic les effets indésirables graves et les effets jusque-là inconnus, constatés en Suisse, dont il est présumé qu’ils sont en relation avec l’usage de son médicament.
+
+<sup>2</sup> Le fabricant ou le titulaire de l’autorisation doit également faire une déclaration à Swissmedic lorsque les effets indésirables mentionnés à l’al. 1 deviennent fréquents.
+
+<sup>3</sup> Les déclarations prévues aux al. 1 et 2 doivent être communiquées sous forme anonymisée, comprendre toutes les données importantes à disposition et mentionner en particulier si l’effet indésirable du médicament est connu.
+
+<sup>4</sup>
+
+Le fabricant ou le titulaire de l’autorisation doit déclarer à Swissmedic les effets indésirables, constatés en Suisse ou à l’étranger, dont il est présumé qu’ils sont en relation avec l’usage de son médicament:
+
+- a. lorsqu’il s’agit d’un risque jusque-là inconnu ou d’un nouvel aspect d’un risque connu requérant l’étude ou la mise en œuvre de mesures visant à réduire le risque ou ayant conduit à prendre des mesures visant à réduire le risque à l’étranger, ou
+- b. lorsque de tels effets indésirables deviennent fréquents.
+
+<sup>5</sup> Les informations relatives aux risques visés à l’al. 4 (signaux de sécurité) doivent être récapitulées et évaluées dans un rapport. Ce dernier est communiqué à Swissmedic avec les mesures et les investigations prévues.
+
+<sup>6</sup>
+
+Le fabricant ou le titulaire de l’autorisation doit déclarer à Swissmedic:
+
+- a. les défauts de qualité constatés en Suisse;
+- b. les défauts de qualité constatés à l’étranger pouvant concerner des lots mis sur le marché en Suisse.
+
+<sup>7</sup> Pour les produits sanguins labiles, la déclaration des défauts de qualité est régie par l’art. 37 OAMéd[^61-1].
+
+[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+
+#### Art. 62
+
+**Délais de déclaration**
+
+<sup>1</sup>
+
+Les effets indésirables ci-après doivent être déclarés dans les délais suivants après la prise de connaissance:
+
+- a.
+
+  15 jours:
+
+  - 1\. tout effet indésirable grave,
+  - 2\. tout effet indésirable connu ou jusque-là inconnu devenant fréquent;
+
+- b. 60 jours : tout effet indésirable mineur, jusque-là inconnu.
+
+<sup>2</sup>
+
+Les signaux de sécurité doivent être déclarés après la constatation:
+
+- a. immédiatement et au plus tard dans un délai de cinq jours pour les signaux de sécurité qui nécessitent rapidement des mesures visant à garantir la sécurité des médicaments;
+- b. dans un délai de 15 jours pour les autres signaux de sécurité portant sur un risque potentiellement grave.
+
+<sup>3</sup> Les défauts de qualité constatés en Suisse ou à l’étranger au sens de l’art. 61, al. 6, doivent être déclarés à Swissmedic immédiatement et au plus tard dans les 15 jours suivant la constatation.
+
+#### Art. 62a
+
+**Obligation de déclarer tout soupçon de trafic illégal**[^62a-1]
+
+Quiconque fabrique ou met sur le marché des médicaments est tenu de déclarer à Swissmedic sans tarder, mais au plus tard dans un délai de cinq jours, tout soupçon de trafic illégal, commis par des tiers, ayant un rapport avec son activité, l’un de ses produits ou un composant de ceux-ci.
+
+[^62a-1]: Introduit par l’annexe 8 ch. II 3 de l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+
+#### Art. 63
+
+**Obligation de déclarer des personnes habilitées à remettre ou à utiliser des médicaments à titre professionnel**
+
+<sup>1</sup>
+
+Les personnes qui remettent ou utilisent des médicaments à titre professionnel ou qui sont habilitées à le faire sont tenues de déclarer:
+
+- a. tout effet indésirable grave présumé, lié à l’emploi d’un médicament;
+- b. tout effet indésirable présumé, jusque-là inconnu;
+- c. tout défaut de qualité présumé;
+- d. toute observation de faits graves ou jusque-là inconnus compromettant la sécurité des médicaments.
+
+<sup>2</sup> Ces déclarations doivent être communiquées aux services désignés par Swissmedic; elles doivent comprendre toutes les données importantes à disposition.
+
+<sup>3</sup> Les effets indésirables graves et les faits graves observés doivent être déclarés dans un délai de 15 jours. Les défauts de qualité présumés doivent être déclarés immédiatement et au plus tard dans les 15 jours suivant la constatation. Tous les autres événements à déclarer doivent être communiqués dans les 60 jours.
+
+#### Art. 64
+
+**Durée de l’obligation de déclarer**
+
+L’obligation de déclarer les événements et les effets indésirables liés à l’emploi d’un médicament ainsi que les défauts de qualité prend naissance au moment du dépôt de la demande d’autorisation de mise sur le marché et s’éteint à l’échéance de la date de péremption du dernier lot livré.
+
+#### Art. 65
+
+**Système de déclaration**
+
+<sup>1</sup> Quiconque fabrique ou distribue des médicaments prêts à l’emploi doit s’assurer que toutes les informations soumises à l’obligation de déclarer sont recueillies par un organe central hébergé par le titulaire de l’autorisation ou le fabricant. Ces informations doivent être évaluées en permanence, et toutes les dispositions visant à réduire les risques éventuels doivent être prises.
+
+<sup>2</sup> L’organe visé à l’al. 1 doit garantir que les informations à déclarer sont transmises à Swissmedic conformément aux dispositions en vigueur. Il doit fournir à Swissmedic, dans les délais fixés par celui-ci, des réponses complètes sur les risques liés à l’emploi des médicaments concernés.
+
+<sup>3</sup> Le titulaire de l’autorisation ou le fabricant désigne un responsable technique qualifié chargé d’assumer l’obligation de déclarer les effets indésirables de médicaments. Il peut déléguer cette tâche à une tierce personne qualifiée. Les exigences auxquelles doit satisfaire celle-ci sont définies à l’art. 12, al. 1, let. d et 2, OAMéd[^65-1].
+
+<sup>4</sup> Les établissements qui utilisent des produits sanguins labiles mettent en place à cet effet un système d’assurance-qualité conformément à l’état des connaissances scientifiques et techniques. Ils désignent un responsable chargé d’assumer l’obligation de déclarer.
+
+[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+
+#### Art. 66
+
+**Contenu et forme de la déclaration**
+
+<sup>1</sup> Le contenu des déclarations prévues aux art. 61 à 65 doit être conforme aux bonnes pratiques de vigilance reconnues désignées à l’annexe 3.
+
+<sup>2</sup> Swissmedic met les formulaires à disposition.
+
+## Chapitre 9 Principes des bonnes pratiques de laboratoire
+
+#### Art. 67
+
+<sup>1</sup> Le requérant doit s’assurer que les programmes d’essais, la réalisation des différents essais, les méthodes appliquées et l’évaluation des résultats correspondent à l’état des connaissances scientifiques et techniques.
+
+<sup>2</sup> Les essais non cliniques visant à établir les propriétés ou la sécurité de l’objet testé doivent être réalisés selon les principes de bonnes pratiques de laboratoire conformément à l’ordonnance du 18 mai 2005 sur les bonnes pratiques de laboratoire[^67-1].
+
+<sup>3</sup> Les dispositions de l’al. 2 ne sont pas applicables aux essais d’efficacité.
+
+<sup>4</sup> Si le requérant ne peut respecter tout ou partie des exigences visées à l’al. 2 pour certains essais, il le justifie envers Swissmedic. Dans les cas dûment justifiés, Swissmedic évalue la qualité et la fiabilité de l’essai et vérifie si les exigences visées à l’al. 1 sont respectées; il décide de la prise en compte des essais non cliniques correspondants.
+
+[^67-1]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+
+## Chapitre 10 Information
+
+### Section 1 Information du public
+
+#### Art. 68
+
+<sup>1</sup>
+
+Swissmedic publie:
+
+- a.
+
+  dans les 60 jours suivant la réception d’une demande complète d’autorisation de mise sur le marché, d’extension de l’indication ou d’extension de l’autorisation de mise sur le marché d’un médicament:
+
+  - 1\. le nom et l’adresse du requérant,
+  - 2\. la date de dépôt de la demande,
+  - 3\. les principes actifs contenus dans le médicament,
+  - 4\. le champ d’application envisagé,
+  - 5\. les espèces animales visées;
+
+- b.
+
+  lorsqu’une demande d’autorisation de mise sur le marché, d’extension de l’indication ou d’extension de l’autorisation d’un médicament est approuvée, ou lorsqu’une autorisation de mise sur le marché est révoquée et que la décision afférente a été notifiée, notamment:
+
+  - 1\. le nom et l’adresse du titulaire de l’autorisation ou du requérant,
+  - 2\. la dénomination du médicament,
+  - 3\. les principes actifs,
+  - 4\. le champ d’application,
+  - 5\. l’espèce animale visée,
+  - 6\. la date de la décision;
+
+- c. lorsqu’une demande au sens de la let. b est rejetée ou retirée et que la décision afférente a été notifiée, les informations mentionnées à la let. b, ch. 1 et 3 à 6;
+- d. la durée de l’exclusivité des données octroyée en application des art. 11*a* et 11*b* LPTh;
+- e.
+
+  des rapports de synthèse, concernant notamment:
+
+  - 1\. l’acceptation ou le rejet des demandes d’autorisation de mise sur le marché de médicaments à usage humain contenant de nouveaux principes actifs ou des demandes d’extension de l’indication de tels médicaments,
+  - 2\. les plans de gestion des risques;
+
+- f. les résultats de la surveillance du marché présentant un intérêt pour la sécurité des médicaments;
+- g. des informations sur les mesures de surveillance du marché, en particulier lorsqu’elles comportent des recommandations d’action ou entraînent une modification de l’autorisation de mise sur le marché.
+
+<sup>2</sup> Il appartient au requérant de faire valoir, dans sa demande, des intérêts dignes de protection au maintien du secret qui pourraient s’opposer à la publication des données visées à l’al. 1, let. a.
+
+<sup>3</sup> Les publications visées à l’al. 1 sont effectuées dans la langue de la procédure. Elles peuvent être faites en anglais si les documents scientifiques sur lesquels elles reposent sont rédigés dans cette langue.
+
+### Section 2 Recommandations de dosage pour les médicaments utilisés en pédiatrie
+
+#### Art. 69
+
+**Collecte et harmonisation**
+
+<sup>1</sup> Les personnes exerçant une profession médicale qui travaillent dans les hôpitaux pédiatriques en Suisse transmettent à l’Office fédéral de la santé publique (OFSP) les données énoncées dans l’annexe concernant le dosage *Off Label* des médicaments utilisés en pédiatrie.
+
+<sup>2</sup> Les données doivent correspondre à l’état des connaissances scientifiques et techniques ainsi qu’aux règles des sciences médicales et pharmaceutiques.
+
+<sup>3</sup> L’OFSP émet sur la base de ces données des recommandations de dosage *Off Label* harmonisées au niveau national.
+
+#### Art. 70
+
+**Publication des recommandations de dosage *Off Label* harmonisées**
+
+<sup>1</sup> Les recommandations de dosage *Off Label* harmonisées sont mises à la disposition des professionnels et des services fédéraux et cantonaux chargés de l’exécution de la LPTh sous la forme d’une liste publiée en ligne dans un format interopérable. Leur consultation est gratuite.
+
+<sup>2</sup> Les recommandations peuvent être réutilisées dans les systèmes d’information des hôpitaux ou dans des systèmes similaires. Ces systèmes doivent garantir que lors de la consultation des données, la source des recommandations est indiquée.
+
+### Section 3 Publication des résultats des essais cliniques
+
+#### Art. 71
+
+**Obligation de publier les résultats des essais cliniques**
+
+<sup>1</sup> Le titulaire de l’autorisation de mise sur le marché d’un médicament à usage humain contenant un nouveau principe actif est tenu de publier sous la forme d’un rapport, dans les trois mois suivant l’octroi de l’autorisation, les résultats des essais cliniques réalisés pour le développement du médicament.
+
+<sup>2</sup> Si l’autorité qui octroie les autorisations de mise sur le marché dans un pays disposant d’un contrôle des médicaments équivalent a déjà publié un rapport sur les résultats des essais cliniques, le titulaire de l’autorisation peut renvoyer à cette publication.
+
+#### Art. 72
+
+**Contenu et forme**
+
+<sup>1</sup> Les rapports sur les résultats des essais cliniques doivent contenir au moins les informations énumérées à l’annexe 5.
+
+<sup>2</sup> Ils peuvent être publiés dans l’une des langues officielles ou en anglais.
+
+#### Art. 73
+
+**Protection des données, secret industriel et secret commercial**
+
+<sup>1</sup> Les rapports sur les résultats des essais cliniques doivent être anonymisés.
+
+<sup>2</sup> Le titulaire de l’autorisation peut exclure de la publication les données relevant du secret industriel ou commercial.
+
+## Chapitre 11 Traitement des données
+
+#### Art. 74
+
+**Traitement des données personnelles**
+
+Swissmedic et les tiers mandatés par lui sont habilités à traiter les données personnelles dont ils ont besoin pour accomplir les tâches que leur confère la présente ordonnance. Il s’agit notamment:
+
+- a. des données sur la santé recueillies dans le cadre de la surveillance du marché;
+- b. des données attestant que les personnes chargées d’assumer l’obligation de déclarer les effets indésirables de médicaments en vertu de l’art. 65, al. 3, sont dignes de confiance et possèdent les qualifications requises.
+
+#### Art. 75
+
+**Exploitation de systèmes d’information**
+
+<sup>1</sup> Swissmedic est responsable de la sécurité de l’exploitation de ses systèmes d’information et de la licéité du traitement des données.
+
+<sup>2</sup> Il édicte pour chaque système d’information un règlement applicable au traitement des données. Il y précise les mesures techniques et organisationnelles à mettre en œuvre pour assurer la sécurité et la protection des données traitées.
+
+<sup>3</sup> S’il délègue des tâches dans le domaine de la vigilance à des tiers, il assure le respect de la protection des données par voie contractuelle.
+
+#### Art. 76
+
+**Droits d’accès**
+
+<sup>1</sup>
+
+L’accès en ligne aux systèmes d’information est octroyé aux services et personnes suivants, si cela est nécessaire pour l’accomplissement de leurs tâches:
+
+- a. les membres du personnel de Swissmedic travaillant dans le domaine de la vigilance et de la surveillance du marché ainsi que les tiers mandatés pour accomplir des tâches dans ce domaine;
+- b. les membres du personnel de Swissmedic travaillant dans le domaine du droit pénal administratif;
+- c. les administrateurs de Swissmedic et des tiers mandatés.
+
+<sup>2</sup> Tous les accès aux systèmes d’information sont consignés dans des procès-verbaux (journalisation). Les journaux sont conservés durant deux ans.
+
+#### Art. 77
+
+**Conservation et destruction des données**
+
+<sup>1</sup>
+
+Les données concernant une personne sont conservées:
+
+- a. pendant dix ans à compter de la dernière saisie;
+- b. pendant 20 ans à compter de la dernière saisie si celle-ci était fondée sur un jugement pénal ou une décision entrée en force de Swissmedic portant sur l’exercice d’une activité sans avoir obtenu l’autorisation requise de Swissmedic.
+
+<sup>2</sup> Les données personnelles contenues dans les systèmes d’information de Swissmedic sont détruites dès l’expiration de l’autorisation de mise sur le marché du médicament visé par les déclarations et l’archivage du dossier d’autorisation.
+
+## Chapitre 12 Dispositions finales
+
+### Section 1 Exécution
+
+#### Art. 78
+
+**Exigences techniques et modalités**
+
+Swissmedic peut préciser les exigences techniques et les modalités nécessaires à l’exécution de la présente ordonnance.
+
+#### Art. 79
+
+**Mise à jour des annexes**
+
+<sup>1</sup> Le DFI peut adapter les annexes de la présente ordonnance en fonction des développements internationaux ou techniques.
+
+<sup>2</sup> Il procède aux adaptations susceptibles de créer des entraves techniques au commerce en accord avec le Département fédéral de l’économie, de la formation et de la recherche.
+
+<sup>3</sup> L’annexe 1 est mise à jour après consultation de la Commission des produits radiopharmaceutiques, conformément à l’art. 32 de l’ordonnance du 22 juin 1994 sur la radioprotection[^79-1].
+
+<sup>4</sup> Le DFI peut faire appel à des experts pour adapter l’annexe 2.
+
+[^79-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+#### Art. 80
+
+**Autorité compétente dans le domaine vétérinaire**
+
+L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires:
+
+- a. exécute les dispositions de la présente ordonnance qui concernent l’autorisation de mise sur le marché des médicaments immunologiques à usage vétérinaire;
+- b. procède à la libération officielle des lots pour les médicaments immunologiques à usage vétérinaire conformément à l’art. 17 LPTh.
+
+#### Art. 81
+
+**Collaboration de l’Office fédéral de l’environnement**
+
+<sup>1</sup> Avant la première autorisation d’un principe actif pour un médicament vétérinaire, il y a lieu d’obtenir l’accord de l’Office fédéral de l’environnement (OFEV). Pour l’exécution des autres dispositions, l’OFEV est consulté en cas d’incidence particulière sur l’environnement ou s’il en fait la demande.
+
+<sup>2</sup> Avant la première utilisation d’un principe actif pour un médicament à usage humain, il y a lieu d’évaluer les risques pour l’environnement. L’évaluation s’effectue selon le guide du 1<sup>er</sup> juin 2006 pour l’évaluation du risque environnemental des médicaments à usage humain de l’EMA[^81-1]. L’OFEV est consulté en cas d’incidence particulière sur l’environnement ou s’il en fait la demande.
+
+<sup>3</sup> Pour l’exécution des dispositions concernant des médicaments contenant des OGM, la collaboration est régie par l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^81-2].
+
+[^81-1]: EMEA/CHMP/SWP/4447/00 du 1<sup>er</sup> juin 2006. Ce document peut être obtenu auprès de l’EMA à l’adresse: www.ema.europa.eu.
+[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 82
+
+**Communication de données**
+
+Swissmedic communique sur demande à l’OFSP des données sur les risques liés aux vaccins. Lesdites données ne doivent pas contenir de données sensibles.
+
+### Section 2 Abrogation et modification d’autres actes, dispositions transitoires
+
+#### Art. 83
+
+**Abrogation et modification d’autres actes**
+
+L’abrogation et la modification d’autres actes sont réglées à l’annexe 6.
+
+#### Art. 84
+
+**Plan d’investigation pédiatrique**
+
+Si un plan d’investigation pédiatrique concernant un médicament pour lequel une autorisation de mise sur le marché a été demandée avant le 1<sup>er</sup> janvier 2019 est soumis pour approbation à Swissmedic, l’obligation de présenter le plan d’investigation pédiatrique prévue à l’art. 5, al. 2, let. c, s’applique à toutes les modifications ultérieures du médicament.
+
+#### Art. 85
+
+**Médicaments autorisés selon l’ancien droit**
+
+Les autorisations de mise sur le marché de médicaments délivrées avant l’entrée en vigueur de l’art. 16*b* LPTh doivent être renouvelées au moins une fois après le 1<sup>er</sup> janvier 2019.
+
+#### Art. 86
+
+**Exclusivité des données**
+
+L’exclusivité des données prévue à l’art. 11*b* LPTh est octroyée uniquement aux médicaments pour lesquels une demande d’autorisation de mise sur le marché ou de modification de l’autorisation est déposée auprès de Swissmedic après le 1<sup>er</sup> janvier 2019.
+
+#### Art. 87
+
+**Procédés de fabrication des médicaments non standardisés**
+
+<sup>1</sup> Les procédés de fabrication des médicaments non standardisés qui ne requéraient pas d’autorisation jusqu’au 1<sup>er</sup> janvier 2019 et qui en requièrent désormais une en vertu de l’art. 33, al. 1, doivent faire l’objet d’une demande d’autorisation dans un délai d’un an à compter de la publication de la liste visée à l’art. 33, al. 2.
+
+<sup>2</sup> Les médicaments fabriqués suivant le procédé énoncé à l’al. 1 peuvent rester sur le marché jusqu’à la décision de Swissmedic, sauf si celui-ci en décide autrement pour des raisons de sécurité.
+
+#### Art. 88
+
+**Médicaments de la catégorie de remise C**
+
+<sup>1</sup> Les professionnels habilités à remettre des médicaments de la catégorie de remise C conservent leur habilitation selon l’ancien droit jusqu’à ce que la nouvelle classification dans les catégories de remise entre en force pour les médicaments concernés.
+
+<sup>2</sup> Les droguistes habilités à remettre des médicaments de la catégorie de remise C par les cantons en vertu de l’ancien droit conservent leur habilitation ou celle-ci peut être renouvelée jusqu’à ce que la nouvelle classification dans les catégories de remise entre en force pour tous les médicaments concernés.
+
+<sup>3</sup> Swissmedic informe les cantons de la clôture de la procédure de reclassification.
+
+#### Art. 89
+
+**Droguistes sans diplôme fédéral**
+
+Les droguistes non titulaires d’un diplôme fédéral qui, au 1<sup>er</sup> janvier 2019, étaient habilités à remettre des médicaments de la catégorie de remise D en vertu de l’art. 44*c* de l’ordonnance du 17 octobre 2001 sur les médicaments[^89-1] peuvent remettre ces médicaments jusqu’au 1<sup>er</sup> janvier 2024.
+
+[^89-1]: Dans la teneur du [RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591).
+
+### Section 3 Entrée en vigueur
+
+#### Art. 90
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2019, sous réserve de l’al. 2.
+
+<sup>2</sup> Les art. 37, al. 2 et 3, et 51 entrent en vigueur le 1<sup>er</sup> janvier 2020.
+
+Annexe 1
+
+(art. 37, al. 1, let. e)
+
+## Principes actifs autorisés pour la fabrication de produits radiopharmaceutiques visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, et 2<sup>bis</sup>, LPTh
+
+### 1 Principe
+
+- 1\.1 Les principes actifs énumérés sous le ch. 3 peuvent servir à fabriquer des produits radiopharmaceutiques ou être utilisés en tant que tels en vertu de l’art. 37, al. 1, let. e. Les restrictions d’utilisation et les critères de qualité indiqués au ch. 3 doivent être respectés.
+- 1\.2 La fabrication d’un produit radiopharmaceutique selon la présente annexe doit faire l’objet d’une documentation relative à la préparation répondant aux exigences prévues sous le ch. 4. Cette documentation doit être présentée lors des contrôles du respect des bonnes pratiques de fabrication.
+- 1\.3 Chaque préparation fabriquée selon les critères de la présente annexe doit faire l’objet d’une prescription d’utilisation approuvée par le médecin nucléaire responsable au sein de l’hôpital.
+- 1\.4 La documentation relative à la préparation et les prescriptions d’utilisation doivent être soumises à l’OFSP avant la première utilisation de la préparation.
+
+### 2 Critères
+
+L’inscription de principes actifs dans la présente annexe tient compte de l’état des connaissances scientifiques et s’appuie en particulier sur les données disponibles concernant la qualité, la sécurité et l’efficacité des principes actifs.
+
+### 3 Liste des principes actifs, restrictions d’utilisation et critères de qualité
+
+<table>
+<tr><th>Principe actif</th><th>Restrictions d’utilisation</th><th>Exigences de qualité</th></tr>
+<tr><td>[<sup>68</sup>Ga]Gallium-PSMA-HBED-CC Synonymes: [<sup>68</sup>Ga]-PSMA-11, <sup>68</sup>Ga-Labelled GLU-Urea-LYS(AHX)-HBED-CC</td><td>Imagerie de foyers tumoraux chez les patients atteints d’un adénocarcinome de la prostate</td><td>[<sup>68</sup>Ga]-PSMA-11 ≥ 95 % de la radioactivité totale à libération marquage au <sup>68</sup>Ga correspond à la Ph. Eur. PSMA-11 et ses complexes métalliques: ≤ 30 μg par dose</td></tr>
+<tr><td>[<sup>68</sup>Ga]Gallium-Oxodotreotidum Synonymes: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Imagerie de tumeurs neuroendocrines</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % de la radioactivité totale à libération marquage au <sup>68</sup>Ga correspond à la Ph. Eur. DOTATATE et ses complexes métalliques: ≤ 50 μg par dose</td></tr>
+<tr><td>[<sup>177</sup>Lu]Lutetium-Edotreotidum Synonymes: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA-(Tyr3)‑Octreotid</td><td>Traitement de tumeurs progressives caractérisées par une densité élevée de récepteurs de la somatostatine de sous-type 2</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % de la radioactivité totale à libération <sup>177</sup>Lu ≥ 99,9 % et <sup>177m</sup>Lu ≤ 0,07 % de la radioactivité totale à péremption DOTATOC et ses complexes métalliques: ≤ 240 μg par dose</td></tr>
+<tr><td>…</td><td>…</td><td>…</td></tr>
+</table>
+
+### 4 Documentation exigée
+
+La documentation relative à une préparation doit contenir les informations suivantes:
+
+- a. intitulé;
+- b. définition et étiquetage;
+- c. indication et dosage de la préparation;
+- d. remarques relatives à l’administration, au stockage et au délai d’utilisation;
+- e. composition et indication des quantités pour un lot standard;
+- f. justification de la composition et du mode d’administration;
+- g. spécifications et prescriptions d’analyse de toutes les matières premières et, le cas échéant, des matériaux de base;
+- h. description du procédé de fabrication;
+- i. évaluation des risques à chaque étape de la fabrication;
+- j. documents de validation du procédé de fabrication;
+- k. spécifications et prescriptions d’analyse du produit fini, en particulier identification, pureté, teneur, analyses générales et analyses galéniques;
+- l. justification des spécifications du produit fini.
+
+Annexe 2*[^t-1]*
+
+(art. 45, al. 2)
+
+## Indications et médicaments visés à l’art. 45, al. 1, let. a****
+
+[^annex2-lvlu1-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
+[^annex2-lvlu1-1]: Ce texte n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). ll peut être consulté sur le site Internet de l’OFSP sous: www.bag.admin.ch. La version du 1<sup>er</sup> avril 2020 est applicable.
+
+Annexe 3
+
+(art. 60 et 66)
+
+## Règles de bonnes pratiques de vigilance
+
+- 1\.
+
+  Les directives suivantes s’appliquent en tant que règles de bonnes pratiques de vigilance dans le domaine des médicaments à usage humain:
+
+  - a. pour le plan de gestion des risques : ligne directrice E2E de la Conférence internationale sur l’harmonisation (ICH) dans sa version du 18 novembre 2004[^annex3-lvlu1-1], directive de l’EMA du 31 mars 2017 (*Guideline on good pharmacovigilance practices* [GVP] – Module V.A und V.B, EMA/838713/2011 Rev 2)[^annex3-lvlu1-2];
+  - b. pour le rapport périodique sur la sécurité du médicament et le rapport bénéfice-risque: ligne directrice E2C (R2) de l’ICH dans sa version du 17 décembre 2012[^annex3-lvlu1-3];
+  - c. pour les déclarations d’effets indésirables présumés d’un médicament: ligne directrice E2B (R2) de l’ICH dans sa version du 5 février 2001[^annex3-lvlu1-4], ligne directrice E2B (R3) de l’ICH dans sa version du 10 novembre 2016[^annex3-lvlu1-5], ligne directrice E2D de l’ICH dans sa version du 1<sup>er</sup> novembre 2003[^annex3-lvlu1-6];
+  - d. pour le système de déclaration: la directive de l’EMA du 2 juillet 2012[^annex3-lvlu1-7] (Guideline on good pharmacovigilance practices [GVP] – Module I, EMA/541760/2011);
+  - e. pour la pharmacovigilance: directive de la Food and Drug Administration (FDA) de mars 2005 (Good Pharmacovigilance Practices and Pharmacoepidemiologic Assessment)[^annex3-lvlu1-8].
+
+- 2\.
+
+  Les directives suivantes s’appliquent en tant que règles de bonnes pratiques de vigilance dans le domaine des médicaments vétérinaires:
+
+  - a. pour le rapport périodique sur la sécurité du médicament: ligne directrice VICH GL29 (Pharmacovigilance) de la Conférence internationale sur l’harmonisation dans le domaine des médicaments vétérinaires (VICH) dans sa version de juin 2006[^annex3-lvlu1-9];
+  - b. pour la pharmacovigilance: ligne directrice VICH GL 24 (Pharmocovigilance) de la VICH dans sa version d’octobre 2007[^annex3-lvlu1-10].
+
+[^annex3-lvlu1-1]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-2]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-3]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-4]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-5]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-6]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-7]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-8]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-9]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-10]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+
+Annexe 4
+
+(art. 69, al. 1)
+
+## Données concernant le dosage *Off Label* des médicaments utilisés en pédiatrie
+
+- 1\.
+
+  Les personnes exerçant une profession médicale qui travaillent dans un hôpital pédiatrique suisse transmettent à l’OFSP les données suivantes, dans la mesure où elles sont disponibles:
+
+  - a. dénomination du principe actif;
+  - b. classe d’âge;
+  - c. identifiant pour les nouveau-nés prématurés;
+  - d. poids corporel;
+  - e. indication;
+  - f. mode d’administration;
+  - g. dose individuelle;
+  - h. répétition des doses individuelles par jour;
+  - i. degré d’évidence;
+
+- 2\. En outre, elles communiquent à l’OFSP toute remarque utile à l’élaboration des recommandations visées à l’art. 69, al. 3.
+
+Annexe 5
+
+(art. 72, al. 1)
+
+## Exigences minimales applicables au rapport sur les résultats des essais cliniques
+
+Le rapport sur les résultats des essais cliniques doit contenir au moins les informations suivantes:
+
+- a. nom de l’entreprise / nom du promoteur;
+- b. nom de la préparation, y compris dosage et forme pharmaceutique;
+- c. pour une autorisation suisse: date de l’autorisation et numéro(s) d’autorisation de mise sur le marché;
+- d. nom du principe actif;
+- e. numéro de l’essai / numéro du protocole / numéro EudraCT;
+- f. intitulé de l’essai selon la dernière version du protocole, avec toutes les modifications et une brève description;
+- g. préparation soumise à l’essai;
+- h. médecins investigateurs;
+- i. information sur les centres d’étude;
+- j. publication, en particulier titre, éditeur et année de parution;
+- k. durée de l’essai;
+- l. phase et type d’essai;
+- m. objectifs de l’essai;
+- n. méthode d’essai;
+- o. nombre prévu et effectif de patients analysés;
+- p. diagnostic et critères d’inclusion;
+- q. informations sur la préparation étudiée, en particulier dosage, voie d’administration, numéro de lot;
+- r. durée du traitement;
+- s. informations sur la préparation de comparaison, en particulier dosage, voie d’administration, numéro de lot;
+- t. critères d’évaluation, en particulier efficacité et sécurité;
+- u. méthode statistique;
+- v. résumé et conclusion, en particulier résultats en termes d’efficacité et de sécurité;
+- w. date du rapport sur l’essai.
+
+Annexe 6
+
+(art. 83)
+
+## Abrogation et modification d’autres actes
+
+I
+
+Sont abrogées:
+
+- 1\. l’ordonnance du 17 octobre 2001 sur les médicaments[^annex6-lvlu1-1];
+- 2\. l’ordonnance du 28 septembre 2001 sur le personnel de l’Institut suisse des produits thérapeutiques[^annex6-lvlu1-2];
+- 3\. l’ordonnance du 28 septembre 2001 sur l’organisation de l’Institut suisse des produits thérapeutiques[^annex6-lvlu1-3].
+
+II
+
+Les actes mentionnés ci-après sont modifiés comme suit:
+
+...[^annex6-lvlu1-4]
+
+[^annex6-lvlu1-1]: [[RO 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)I 3 [4057](https://fedlex.data.admin.ch/eli/oc/2004/592), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 6, [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280), [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614), [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354), [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187)I [3439](https://fedlex.data.admin.ch/eli/oc/2010/480)[3863](https://fedlex.data.admin.ch/eli/oc/2010/557)[4039](https://fedlex.data.admin.ch/eli/oc/2010/585)I, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)[1171](https://fedlex.data.admin.ch/eli/oc/2016/218)I 4, [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)I II]
+[^annex6-lvlu1-2]: [[RO 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II [79](https://fedlex.data.admin.ch/eli/oc/2006/18), [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312), [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283)I, [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)I 3]
+[^annex6-lvlu1-3]: [[RO 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)]
+[^annex6-lvlu1-4]: Les mod. peuvent être consultées au [RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588).

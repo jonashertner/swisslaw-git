@@ -1,0 +1,965 @@
+---
+sr: "784.101.2"
+title: Ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione (OIT)
+short: OIT
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
+language: it
+version: 2021-01-01
+adopted: 2015-11-25
+in_force: 2016-06-13
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli impianti di telecomunicazione
+
+(OIT)
+
+del 25 novembre 2015 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 21*a* capoverso 2, 22 capoverso 5, 31 capoverso 1, 32, 32*a*, 33 capoverso 2, 34 capoverso 1<sup>ter</sup>, 59 capoverso 3, 62 e 64 capoverso 2 della legge del 30 aprile 1997[^ingress-1] sulle telecomunicazioni (LTC); in esecuzione della legge federale del 6 ottobre 1995[^ingress-2] sugli ostacoli tecnici al commercio (LOTC),[^ingress-3]
+
+ordina:
+
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina:
+
+- a. l’offerta, la messa a disposizione sul mercato, la messa in servizio, l’installazione e l’esercizio degli impianti di telecomunicazione ai sensi dell’articolo 3 lettera d LTC;
+- b. il riconoscimento dei laboratori di prova e degli organismi di valutazione della conformità;
+- c. il controllo degli impianti di telecomunicazione.
+
+#### Art. 2
+
+**Definizioni**
+
+<sup>1</sup>
+
+Nella presente ordinanza si intende per:
+
+- a. *impianto di radiocomunicazione*: un prodotto elettrico o elettronico che emette o riceve intenzionalmente informazioni tramite onde radio o un prodotto elettrico o elettronico che deve essere completato da un accessorio, come un’antenna, per emettere o ricevere intenzionalmente informazioni tramite onde radio;
+- b. *impianto collegato per filo:* qualsiasi prodotto elettrico o elettronico destinato a trasmettere informazioni per filo o utilizzato per tale scopo;
+- c. *impianto terminale di telecomunicazione**:* qualsiasi impianto destinato ad essere collegato in qualsiasi modo, direttamente o indirettamente, a interfacce di reti di telecomunicazione utilizzate, interamente o parzialmente, per fornire servizi di telecomunicazione (art. 3 lett. b LTC);
+- d.
+
+  *interfaccia:*
+
+  - 1\. un punto terminale di una rete di telecomunicazione utilizzato, interamente o parzialmente, per fornire servizi di telecomunicazione, ossia un punto di collegamento materiale tramite il quale l’utilizzatore può avere accesso alla rete di telecomunicazione (interfaccia di reti di telecomunicazione utilizzata interamente o parzialmente per fornire sevizi di telecomunicazione), come pure le sue specifiche tecniche, o
+  - 2\. un’interfaccia che specifica il cammino radioelettrico tra gli impianti di radiocomunicazione (interfaccia radio), come pure le sue specifiche tecniche;
+
+- e. *offerta*: il fatto di proporre la messa a disposizione sul mercato di impianti di telecomunicazione, esponendoli in locali commerciali, presentandoli in esposizioni, prospetti, cataloghi, nei media elettronici o in altro modo;
+- f. *messa a disposizione sul mercato*: qualsiasi fornitura di impianti di telecomunicazione per la distribuzione, il consumo o l’uso sul mercato svizzero, a titolo oneroso o gratuito;
+- g. *immissione in commercio:* la prima messa a disposizione di un impianto di telecomunicazione sul mercato svizzero;
+- h. *messa in servizio:* la prima installazione e il primo esercizio di un impianto di telecomunicazione, indipendentemente dal fatto che la trasmissione o la ricezione delle informazioni siano operate con o senza successo;
+- i. *installazione:* il fatto di mettere impianti di telecomunicazione in stato di esercizio;
+- j. *esercizio:* l’utilizzazione di impianti di telecomunicazione, indipendentemente dal fatto che la trasmissione o la ricezione delle informazioni siano operate con o senza successo;
+- k. *interferenza:* l’effetto, sulla ricezione in un sistema di radiocomunicazione, di un’energia indesiderata provocata da un’emissione, irradiazione o induzione. Tale effetto si manifesta con un peggioramento della qualità di trasmissione oppure con una deformazione o una perdita del contenuto dell’informazione che sarebbe disponibile in assenza di questa energia indesiderata;
+- l. *fabbricante:* ogni persona fisica o giuridica che produce un impianto di telecomunicazione, o che lo fa progettare o produrre, e immette in commercio tale impianto con il proprio nome o il proprio marchio;
+- m. *mandatario:* ogni persona fisica o giuridica con sede in Svizzera che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a determinati compiti;
+- n. *importatore:* ogni persona fisica o giuridica con sede in Svizzera che immette sul mercato svizzero un impianto di telecomunicazione proveniente dall’estero;
+- o. *distributore:* ogni persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall’importatore, che mette un impianto di telecomunicazione a disposizione sul mercato;
+- p. *operatori economici:* il fabbricante, il mandatario, l’importatore e il distributore;
+- q. *marchio di conformità*: marchio mediante il quale il fabbricante indica che l’impianto di telecomunicazione è conforme alle disposizioni applicabili della legislazione svizzera che ne prevedono l’apposizione.
+
+<sup>2</sup> L’importazione di impianti di telecomunicazione destinati al mercato svizzero è equiparata a un’immissione in commercio.
+
+<sup>3</sup> L’offerta di un impianto di telecomunicazione è equiparata a una messa a disposizione sul mercato.
+
+<sup>4</sup> Un componente o una sottounità destinato a essere incorporato dall’utilizzatore in un impianto di telecomunicazione e suscettibile di incidere sulla conformità del suddetto impianto ai requisiti essenziali della presente ordinanza (art. 7) è equiparato a un impianto di telecomunicazione.
+
+<sup>5</sup> Un kit di montaggio di un impianto di telecomunicazione è equiparato a un impianto di telecomunicazione.
+
+<sup>6</sup> L’occupazione di una o più frequenze allo scopo di impedire o disturbare le telecomunicazioni o la radiodiffusione è equiparata alla trasmissione di informazioni.
+
+<sup>7</sup> L’immissione in commercio di un impianto di telecomunicazione usato importato è equiparata a un’immissione in commercio di un impianto di telecomunicazione nuovo, salvo se sia già stato immesso sul mercato svizzero un impianto di telecomunicazione nuovo identico.
+
+<sup>8</sup>
+
+Un importatore o un distributore è equiparato a un fabbricante:
+
+- a. se immette in commercio un impianto di telecomunicazione con il proprio nome o marchio; o
+- b. se modifica un impianto già immesso in commercio tanto da pregiudicarne la conformità alla presente ordinanza.
+- [tab] <sup>9</sup> La riparazione di un impianto di telecomunicazione è equiparata a un esercizio.
+
+#### Art. 3
+
+**Interfacce**
+
+<sup>1</sup> L’Ufficio federale delle comunicazioni (UFCOM) stabilisce le prescrizioni tecniche applicabili alle interfacce e le pubblica nella Raccolta ufficiale delle leggi federali sotto forma di rinvio[^3-1].
+
+<sup>2</sup> Esso stabilisce l’ubicazione delle interfacce tenendo conto della prassi internazionale.
+
+[^3-1]: Queste prescrizioni possono essere consultate o ottenute dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne o al seguente indirizzo Internet: www.ufcom.ch.
+
+#### Art. 4
+
+**Norme tecniche**
+
+<sup>1</sup> L’UFCOM può incaricare organismi svizzeri di normazione indipendenti di elaborare norme tecniche od occuparsene direttamente.
+
+<sup>2</sup> Esso pubblica nel Foglio federale sotto forma di rinvio[^4-1] le norme tecniche definite secondo l’articolo 31 capoverso 2 lettera a LTC.
+
+[^4-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/), o presso l’ASUT, Klösterlistutz 8, 3013 Berna.
+
+#### Art. 5
+
+**Classi d’impianti di radiocomunicazione**
+
+<sup>1</sup> L’UFCOM stabilisce, tenendo conto della prassi internazionale, le classi d’impianti di radiocomunicazione e gli impianti che le compongono, e ne compila l’elenco[^5-1].
+
+<sup>2</sup> Una classe comprende categorie d’impianti di radiocomunicazione considerati simili e le interfacce radio alle quali gli impianti sono adibiti. Un impianto può appartenere a più classi d’impianti.
+
+[^5-1]: Questo elenco può essere consultato o ottenuto dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne o al seguente indirizzo Internet: www.ufcom.ch.
+
+## Capitolo 2: Messa a disposizione sul mercato di impianti di radiocomunicazione nuovi
+
+### Sezione 1: Conformità
+
+#### Art. 6
+
+**Condizioni della messa a disposizione sul mercato**
+
+<sup>1</sup> Gli impianti di radiocomunicazione possono essere messi a disposizione sul mercato unicamente se soddisfano le disposizioni della presente ordinanza e se sono adeguatamente installati, sottoposti a manutenzione e utilizzati conformemente ai fini previsti.
+
+<sup>2</sup> In deroga al capoverso 1, la messa a disposizione sul mercato d’impianti di radiocomunicazione destinati a essere impiegati dalle autorità per garantire la sicurezza pubblica soggiace agli articoli 26 e 27, a condizione che non siano disponibili sul mercato altri impianti conformi alle prescrizioni della presente ordinanza, i quali adempiono lo stesso scopo.
+
+#### Art. 7
+
+**Requisiti essenziali**
+
+<sup>1</sup>
+
+Gli impianti di radiocomunicazione devono essere costruiti in modo da garantire:
+
+- a. la protezione della salute, la sicurezza delle persone e degli animali domestici, e la protezione dei beni, compresi i requisiti di sicurezza ai sensi dell’ordinanza del 25 novembre 2015[^7-1] sui prodotti elettrici a bassa tensione (OPBT), ma senza i limiti di tensione;
+- b. un livello adeguato di compatibilità elettromagnetica ai sensi dell’ordinanza del 25 novembre 2015[^7-2] sulla compatibilità elettromagnetica (OCEM).
+
+<sup>2</sup> Gli impianti di radiocomunicazione devono essere costruiti in modo da utilizzare efficacemente lo spettro delle radiofrequenze e da contribuire a un’utilizzazione ottimale al fine di evitare interferenze.
+
+<sup>3</sup>
+
+L’UFCOM stabilisce, tenendo conto della prassi internazionale, i requisiti essenziali supplementari applicabili, come pure gli impianti di radiocomunicazione o le classi d’impianti ai quali essi si riferiscono, sulla base degli atti delegati corrispondenti della Commissione europea. I requisiti supplementari sono i seguenti:
+
+- a. gli impianti devono interagire con accessori, in particolare con caricabatteria standardizzati;
+- b. gli impianti devono interagire con altre apparecchiature radio via rete;
+- c. gli impianti possono essere collegati ad interfacce del corrispondente tipo in Svizzera;
+- d. gli impianti non devono danneggiare la rete o il suo funzionamento, né abusare delle risorse della rete arrecando quindi un deterioramento inaccettabile del servizio;
+- e. gli impianti devono contenere elementi di salvaguardia per garantire la protezione dei dati personali e della vita privata degli utilizzatori e degli abbonati;
+- f. gli impianti devono supportare caratteristiche speciali che consentano di tutelarsi dalle frodi;
+- g. gli impianti devono supportare funzioni speciali che permettano l’accesso a servizi d’emergenza;
+- h. gli impianti devono supportare caratteristiche speciali che facilitino il loro uso da parte di utenti disabili;
+- i. gli impianti devono supportare alcune caratteristiche che impediscono di introdurre un software nell’apparecchiatura radio, se non è stata dimostrata la conformità della combinazione dell’apparecchiatura radio e del software.
+
+[^7-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^7-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 8
+
+**Rispetto dei requisiti essenziali**
+
+<sup>1</sup> Si presuppone che gli impianti di radiocomunicazione prodotti secondo le norme tecniche di cui all’articolo 31 capoverso 2 lettera a LTC soddisfino i requisiti essenziali per quanto riguarda gli aspetti sottoposti alla disposizione citata.
+
+<sup>2</sup> In caso di modifica di una norma tecnica designata, l’UFCOM pubblica nel Foglio federale la data a partire dalla quale la presunzione di conformità viene a cadere per gli impianti di radiocomunicazione conformi alla versione precedente.[^8-1]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+#### Art. 9
+
+**Rispetto dei requisiti di utilizzazione dello spettro delle radiofrequenze**
+
+Un impianto di radiocomunicazione può essere messo a disposizione sul mercato soltanto se rispetta i requisiti per l’utilizzazione dello spettro delle radiofrequenze di almeno una delle prescrizioni tecniche applicabili alle interfacce radio determinate dall’UFCOM ai sensi dell’articolo 3 capoverso 1.
+
+#### Art. 10
+
+**Obbligo d’informazione sulla conformità della combinazione degli impianti di radiocomunicazione e dei software**
+
+<sup>1</sup> I fabbricanti di impianti di radiocomunicazione e di software che permettono di utilizzare questi impianti conformemente al loro scopo forniscono all’UFCOM informazioni sulla conformità ai requisiti essenziali della presente ordinanza per le combinazioni previste di impianti di radiocomunicazione e di software.
+
+<sup>2</sup> Le informazioni risultano da una valutazione della conformità effettuata secondo gli articoli 12 e 13 e sono aggiornate continuamente.
+
+<sup>3</sup> Tenendo conto della prassi internazionale, l’UFCOM, stabilisce le categorie o le classi d’impianti di radiocomunicazione che soggiacciono ai requisiti del capoverso 1 ed emana le prescrizioni amministrative necessarie.
+
+#### Art. 11
+
+**Registrazione degli impianti di radiocomunicazione**[^11-1]
+
+<sup>1</sup> Tenendo conto della prassi internazionale, l’UFCOM stabilisce le categorie di impianti di radiocomunicazione che presentano un basso livello di conformità ai requisiti essenziali della presente ordinanza.
+
+<sup>2</sup> I fabbricanti devono registrare presso l’UFCOM gli impianti di radiocomunicazione appartenenti alle categorie di cui al capoverso 1 prima che gli impianti di radiocomunicazione di tali categorie siano immessi in commercio.
+
+<sup>3</sup> L’UFCOM attribuisce a ogni impianto di radiocomunicazione registrato un numero di registrazione. I fabbricanti devono apporre tale numero sugli impianti immessi in commercio.
+
+<sup>4</sup> Tenendo conto della prassi internazionale, l’UFCOM emana le prescrizioni tecniche e amministrative necessarie.
+
+[^11-1]: In vigore dal 12 giu. 2018 (vedi art. 45 cpv. 2).
+
+### Sezione 2: Valutazione della conformità
+
+#### Art. 12
+
+**Principio**
+
+<sup>1</sup> Il fabbricante procede a una valutazione della conformità degli impianti di radiocomunicazione al fine di soddisfare i requisiti essenziali della presente ordinanza. La valutazione della conformità tiene conto di tutte le condizioni di funzionamento previste e, per i requisiti essenziali di cui all’articolo 7 capoverso 1 lettera a, tiene conto anche delle condizioni ragionevolmente prevedibili.
+
+<sup>2</sup> Nel caso in cui gli impianti di radiocomunicazione possano avere più configurazioni, la valutazione della conformità serve a stabilire se questi soddisfano i requisiti essenziali della presente ordinanza per tutte le configurazioni possibili.
+
+#### Art. 13
+
+**Procedure applicabili**
+
+<sup>1</sup>
+
+Il fabbricante deve dimostrare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoverso 1 tramite una delle seguenti procedure di valutazione della conformità:
+
+- a. il controllo interno della produzione (allegato 2);
+- b. l’esame del tipo seguito dalla conformità al tipo sulla base del controllo interno della produzione (allegato 3);
+- c. la garanzia totale della qualità (allegato 4).
+
+<sup>2</sup> Se il fabbricante ha applicato le norme tecniche stabilite dall’UFCOM (art. 31 cpv. 2 lett. a LTC) per valutare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoversi 2 e 3, ricorre a scelta a una delle procedure di cui al capoverso 1 lettere a–c (allegati 2–4).
+
+<sup>3</sup> Se il fabbricante non ha applicato o ha applicato solo parzialmente le norme tecniche stabilite dall’UFCOM (art. 31 cpv. 2 lett. a LTC) per valutare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoversi 2 e 3, o se non esistono norme tecniche stabilite, ricorre a scelta, per quanto riguarda questi requisiti essenziali, a una delle procedure di cui al capoverso 1 lettera b (allegato 3) o c (allegato 4).
+
+#### Art. 14
+
+**Documentazione tecnica**
+
+<sup>1</sup>
+
+Il fabbricante allestisce una documentazione tecnica prima dell’immissione in commercio dell’impianto di radiocomunicazione e la tiene aggiornata. La documentazione tecnica deve:
+
+- a. permettere la valutazione della conformità dell’impianto di radiocomunicazione ai requisiti essenziali della presente ordinanza;
+- b. dimostrare la conformità dell’impianto a detti requisiti.
+
+<sup>2</sup> La documentazione tecnica precisa le esigenze applicabili e copre, nella misura necessaria alla valutazione, la progettazione, la produzione e il funzionamento dell’impianto di radiocomunicazione.
+
+<sup>3</sup> La documentazione tecnica comprende un’analisi e una valutazione adeguate di uno o più rischi.[^14-1]
+
+<sup>4</sup>
+
+La documentazione tecnica deve contenere, se del caso, almeno gli elementi seguenti:
+
+- a.
+
+  una descrizione generale dell’impianto di radiocomunicazione comprendente:
+
+  - 1\. fotografie o disegni che illustrano le caratteristiche esterne, il marchio e la configurazione interna,
+  - 2\. le versioni dei software e firmware che incidono sulla conformità ai requisiti essenziali della presente ordinanza,
+  - 3\. le istruzioni per l’uso e il montaggio;
+
+- b. i disegni di progettazione e produzione nonché gli schemi di componenti, sottounità, circuiti e altri elementi analoghi;
+- c. le descrizioni e le spiegazioni necessarie alla comprensione di tali disegni e schemi e del funzionamento dell’impianto di radiocomunicazione;
+- d. un elenco delle norme tecniche di cui all’articolo 31 capoverso 2 lettera a LTC, applicate interamente o solo in parte, e in caso di mancata applicazione delle norme di cui all’articolo 31 capoverso 2 lettera a LTC, le soluzioni adottate per soddisfare i requisiti essenziali della presente ordinanza, compreso un elenco delle altre specifiche tecniche pertinenti applicate. In caso di applicazione parziale delle norme tecniche di cui all’articolo 31 capoverso 2 lettera a LTC, la documentazione tecnica specifica le parti che sono state applicate;
+- e. una copia della dichiarazione di conformità redatta secondo l’allegato 5;
+- f. se è stato utilizzato il modulo di valutazione della conformità descritto nell’allegato 3, una copia del certificato dell’esame del tipo e dei suoi allegati come consegnati dall’organismo di valutazione della conformità coinvolto;
+- g. i risultati dei calcoli di progettazione realizzati, dei controlli effettuati e altri elementi dello stesso genere;
+- h. le relazioni sulle prove effettuate;
+- i. una spiegazione della conformità ai requisiti di cui all’articolo 9 e l’inclusione o l’esclusione delle informazioni sull’imballaggio ai sensi dell’articolo 19.
+
+<sup>5</sup> Se la documentazione tecnica non è redatta in una delle lingue ufficiali della Svizzera o in inglese, l’UFCOM può chiederne la traduzione integrale o parziale in una di queste lingue.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+#### Art. 15
+
+**Dichiarazione di conformità**
+
+<sup>1</sup> Ogni impianto di radiocomunicazione messo a disposizione sul mercato deve essere corredato, a discrezione del fabbricante, di una dichiarazione di conformità ai requisiti essenziali completa secondo l’allegato 5 o abbreviata secondo l’allegato 6.
+
+<sup>2</sup> La dichiarazione di conformità è redatta dal fabbricante o dal suo mandatario conformemente ai modelli figuranti negli allegati 5 e 6. La dichiarazione di conformità, aggiornata regolarmente, attesta la conformità ai requisiti essenziali.
+
+<sup>3</sup> La dichiarazione di conformità deve essere redatta o tradotta in una delle lingue ufficiali della Svizzera o in inglese.
+
+<sup>4</sup> Se l’impianto di radiocomunicazione è soggetto a più regolamentazioni che esigono una dichiarazione di conformità, va redatta una sola dichiarazione. Un dossier contenente diverse dichiarazioni individuali è equiparato a una dichiarazione singola.
+
+#### Art. 16
+
+**Conservazione della dichiarazione di conformità e della documentazione tecnica**
+
+<sup>1</sup> Il fabbricante, il suo mandatario o, se nessuno dei due risiede in Svizzera, l’importatore devono poter presentare una copia della dichiarazione di conformità e della documentazione tecnica durante dieci anni a decorrere dalla data dell’immissione in commercio dell’impianto.
+
+<sup>2</sup> In caso di immissione in commercio di serie di impianti di radiocomunicazione, il termine decorre dalla data dell’immissione in commercio dell’ultimo esemplare della serie in questione.
+
+#### Art. 17
+
+**Laboratori di prova e organismi di valutazione della conformità**
+
+<sup>1</sup>
+
+I laboratori di prova e gli organismi di valutazione della conformità che stilano rapporti o rilasciano certificati devono essere:
+
+- a. accreditati conformemente all’ordinanza del 17 giugno 1996[^17-1] sull’accreditamento e sulla designazione (OAccD);
+- b. riconosciuti in Svizzera in virtù di accordi internazionali; oppure
+- c. autorizzati in altro modo dal diritto svizzero.
+
+<sup>2</sup> Chi si fonda su documenti di un organismo diverso da quelli citati nel capoverso 1 deve provare con verosimiglianza che le procedure di prova o di valutazione e le qualifiche di detto organismo soddisfano le esigenze svizzere (art. 18 cpv. 2 LOTC).
+
+<sup>3</sup>
+
+Oltre agli obblighi previsti dall’OAccD, gli organismi di valutazione della conformità devono:
+
+- a. partecipare alle attività di regolamentazione in materia di impianti di radiocomunicazione e di pianificazione delle frequenze;
+- b. soddisfare gli obblighi d’informazione previsti negli allegati 3 e 4.
+
+<sup>4</sup> L’UFCOM emana le prescrizioni amministrative necessarie in relazione agli obblighi di cui al capoverso 3 lettera a, tenendo conto della prassi internazionale.
+
+[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+### Sezione 3: Informazioni
+
+#### Art. 18
+
+**Marchio di conformità, informazioni d’identificazione e rintracciabilità**
+
+<sup>1</sup> Ogni impianto di radiocomunicazione deve recare il marchio di conformità conformemente all’allegato 1 numero 1 o il marchio di conformità estero di cui nell’allegato 1 numero 2.
+
+<sup>2</sup> Il marchio di conformità deve essere apposto in modo visibile, leggibile e indelebile sull’impianto di radiocomunicazione o sulla sua targhetta, a meno che ciò non sia possibile o giustificato dalla natura dell’impianto. Deve essere apposto in modo visibile e leggibile sull’imballaggio.
+
+<sup>3</sup> Ogni impianto di radiocomunicazione deve recare, se del caso, il numero d’identificazione dell’organismo di valutazione della conformità. Questo numero ha la stessa altezza del marchio di conformità.
+
+<sup>4</sup> Ogni impianto di radiocomunicazione deve essere identificato tramite il tipo, il lotto, il numero di serie o qualsiasi altra informazione che ne consenta un’identificazione univoca. Qualora le dimensioni o la natura dell’impianto di radiocomunicazione non lo consentano, queste informazioni devono figurare sull’imballaggio dell’impianto di radiocomunicazione o in un documento di accompagnamento.
+
+<sup>5</sup> Ogni impianto di radiocomunicazione deve recare il nome, la ragione sociale o il marchio registrato del fabbricante nonché l’indirizzo postale al quale può essere contattato. Ove ciò non sia possibile, queste informazioni devono figurare sull’imballaggio dell’impianto o in un documento di accompagnamento. L’indirizzo precisa un unico luogo ove il fabbricante può essere contattato. I dati sono indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.
+
+<sup>6</sup> Se il fabbricante non ha sede in Svizzera, ogni impianto di radiocomunicazione deve anche recare il nome, la ragione sociale o il marchio registrato dell’importatore, nonché l’indirizzo postale al quale può essere contattato. Ove ciò non sia possibile, queste informazioni devono figurare sull’imballaggio dell’impianto o in un documento di accompagnamento. I dati sono indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.
+
+<sup>7</sup> L’UFCOM emana le prescrizioni amministrative necessarie.
+
+#### Art. 19
+
+**Altre informazioni**
+
+<sup>1</sup> Ogni impianto di radiocomunicazione deve essere corredato da istruzioni e informazioni sulla sicurezza. Le istruzioni contengono tutte le indicazioni necessarie per utilizzare l’impianto di radiocomunicazione conformemente al suo scopo. Fra le indicazioni figura, se del caso, una descrizione degli accessori e dei componenti (software inclusi) che consentono l’esercizio conforme allo scopo dell’impianto di radiocomunicazione.
+
+<sup>2</sup>
+
+Ogni impianto di radiocomunicazione emittente deve essere corredato dalle seguenti informazioni:
+
+- a. le bande di frequenze utilizzate dall’impianto di radiocomunicazione;
+- b. la potenza di trasmissione massima sulle bande di frequenze utilizzate dall’impianto di radiocomunicazione;
+- c. se del caso, le restrizioni d’esercizio, in particolare l’obbligo di disporre di una concessione per l’esercizio.
+
+<sup>3</sup> L’indicazione di cui al capoverso 2 lettera c deve essere riportata anche sull’imballaggio.
+
+<sup>4</sup> Per gli impianti di radiocomunicazione il cui esercizio è sottoposto a restrizioni, le offerte fatte senza presentazione di un esemplare fisico, segnatamente su Internet o tramite un prospetto, devono chiaramente indicare tali restrizioni.
+
+<sup>5</sup> Le informazioni sono redatte in modo comprensibile per gli utilizzatori, nella lingua ufficiale del luogo di vendita dell’impianto. Nelle località bilingui devono essere redatte nelle due lingue ufficiali.
+
+<sup>6</sup> L’UFCOM emana le prescrizioni amministrative necessarie, tenendo conto della prassi internazionale.
+
+#### Art. 20
+
+**Restrizioni**
+
+Se un impianto di radiocomunicazione ricevente che permette di ascoltare sia trasmissioni di radiocomunicazione pubbliche che trasmissioni di radiocomunicazione non pubbliche ai sensi dell’articolo 179<sup>bis</sup> del Codice penale[^20-1], l’offerta e le informazioni fornite con l’impianto devono limitarsi a menzionare l’ascolto delle trasmissioni pubbliche.
+
+[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+### Sezione 4: Obblighi generali degli operatori economici
+
+#### Art. 21
+
+**Obblighi d’identificazione**
+
+<sup>1</sup>
+
+Su richiesta dell’UFCOM, gli operatori economici identificano:
+
+- a. qualsiasi operatore economico che abbia fornito loro un impianto di radiocomunicazione;
+- b. qualsiasi operatore economico al quale abbiano fornito un impianto di radiocomunicazione.
+
+<sup>2</sup> Essi devono essere in grado di presentare le informazioni di cui al capoverso 1 per dieci anni a decorrere dalla data in cui è stato fornito loro l’impianto di radiocomunicazione e per dieci anni a decorrere dalla data in cui essi hanno fornito l’impianto di radiocomunicazione.
+
+#### Art. 22
+
+**Obblighi legati al trasporto e allo stoccaggio**
+
+Gli importatori e i distributori devono garantire che, fintanto che un impianto di radiocomunicazione è sotto la loro responsabilità, le condizioni di stoccaggio o di trasporto non compromettano la sua conformità ai requisiti essenziali della presente ordinanza.
+
+#### Art. 23
+
+**Obblighi di controllo**
+
+<sup>1</sup> Laddove ritenuto necessario in considerazione dei rischi presentati dagli impianti di radiocomunicazione, i fabbricanti e gli importatori eseguono, per proteggere la salute e la sicurezza degli utilizzatori finali, una prova a campione sugli impianti di radiocomunicazione messi a disposizione sul mercato e, se necessario, allestiscono un registro dei reclami, degli impianti di radiocomunicazione non conformi o richiamati e informano i distributori di tale controllo.
+
+<sup>2</sup> I fabbricanti o gli importatori che ritengono o hanno motivo di supporre che un impianto di radiocomunicazione da essi immesso in commercio non sia conforme alla presente ordinanza devono adottare senza indugio le misure correttive necessarie per rendere conforme tale impianto o, se necessario, ritirarlo o richiamarlo.
+
+<sup>3</sup> I distributori che ritengono o hanno motivo di supporre che un impianto di radiocomunicazione da essi messo a disposizione sul mercato non sia conforme alla presente ordinanza devono assicurarsi che siano prese le misure correttive necessarie per rendere conforme tale impianto o, se necessario, ritirarlo o richiamarlo.
+
+<sup>4</sup> Inoltre, qualora l’impianto di radiocomunicazione presenti un rischio, i fabbricanti, gli importatori e i distributori devono informarne immediatamente l’UFCOM, fornendo in particolare precisazioni relative alla non conformità e alle misure correttive prese.
+
+#### Art. 24
+
+**Obblighi di collaborazione**
+
+<sup>1</sup> Su richiesta motivata dell’UFCOM, gli operatori economici devono fornirgli tutte le informazioni e la documentazione necessarie a dimostrare la conformità dell’impianto di radiocomunicazione alla presente ordinanza.
+
+<sup>2</sup> Le informazioni e la documentazione devono essere fornite per scritto in formato cartaceo o elettronico, in una lingua che può essere facilmente compresa dall’UFCOM.
+
+<sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici cooperano all’attuazione di qualsiasi misura destinata a eliminare i rischi presentati dagli impianti di radiocomunicazione da essi messi a disposizione sul mercato. Questo obbligo si applica anche al mandatario per gli impianti di radiocomunicazione che rientrano nel suo mandato.
+
+## Capitolo 3: Eccezioni
+
+#### Art. 25
+
+<sup>1</sup>
+
+Non sono soggetti alle disposizioni del capitolo 2:
+
+- a.[^25-1] gli impianti di radiocomunicazione installati ed esercitati esclusivamente su frequenze attribuite all’esercito, per scopi militari, per scopi di protezione civile o per altri scopi legati a situazioni straordinarie, sempre che non siano installati ed esercitati su una rete di radiocomunicazione comune con altri organismi;
+- b. gli impianti di radiocomunicazione installati ed esercitati esclusivamente per scopi di sperimentazione tecnica, sulla base di una concessione di radiocomunicazione rilasciata appositamente;
+- c. gli impianti di radiocomunicazione installati ed esercitati su frequenze superiori a 3000 GHz;
+- d. gli impianti di radiocomunicazione per radioamatori che non sono messi a disposizione sul mercato;
+- e. i kit di montaggio (art. 2 cpv. 5) per radioamatori, a prescindere dalla messa a disposizione o meno sul mercato;
+- f.[^25-2] gli impianti di radiocomunicazione per radioamatori messi a disposizione sul mercato, che sono stati modificati per uso proprio da un radioamatore autorizzato conformemente all’articolo 44 capoverso 1 lettere a e b dell’ordinanza del 18 novembre 2020[^25-3] sull’utilizzazione dello spettro delle radiofrequenze (OUS);
+- g.
+
+  gli impianti di radiocomunicazione che persone aventi domicilio o sede all’estero installano temporaneamente ed esercitano per un periodo non superiore a tre mesi, se:
+
+  - 1\. l’installazione e l’esercizio di tali impianti sono ammessi nel relativo Stato, e
+  - 2\. la potenza e le frequenze degli impianti sono conformi alle prescrizioni tecniche definite dall’UFCOM;
+
+- h.[^25-4] gli impianti di radiotelefonia e di radionavigazione installati ed esercitati esclusivamente su aeromobili con occupanti, che servono a coordinare il traffico aereo e a garantire un pilotaggio sicuro degli aeromobili, e che sono riconosciuti a tale scopo dall’Ufficio federale dell’aviazione civile; quest’ultimo informa l’UFCOM degli impianti riconosciuti;
+- h<sup>bis</sup>.[^25-5] gli impianti di radiocomunicazione installati su aeromobili senza occupanti, la cui progettazione è certificata conformemente all’articolo 56 paragrafo 1 del regolamento (UE) 2018/1139[^25-6] e che sono destinati a funzionare unicamente su frequenze attribuite dal Regolamento delle radiocomunicazioni del 17 novembre 1995[^25-7] per un’utilizzazione aeronautica protetta;
+- i. i kit di valutazione su misura per professionisti destinati a essere utilizzati unicamente in strutture di ricerca e di sviluppo a tali fini;
+- j. gli impianti di radiocomunicazione emittenti per misurazioni e per prove che, installati ed esercitati da persone specializzate nel settore delle telecomunicazioni, servono a individuare e a diagnosticare i problemi al momento della messa in servizio, dell’installazione o dell’esercizio degli impianti di telecomunicazione oppure per determinare le loro caratteristiche e verificare il loro corretto funzionamento;
+- k. gli impianti di radiocomunicazione riceventi per misurazioni e per prove, che servono a individuare e a diagnosticare i problemi al momento della messa in servizio, dell’installazione o dell’esercizio degli impianti di telecomunicazione oppure per determinare le loro caratteristiche e verificare il loro corretto funzionamento.
+
+<sup>2</sup> Gli impianti di radiocomunicazione che rientrano nel campo d’applicazione del capitolo 3 della presente ordinanza soggiacciono all’OPBT[^25-8] e all’OCEM[^25-9] per quanto concerne le condizioni relative alla messa a disposizione sul mercato. Sono fatti salvi gli articoli 36–40 della presente ordinanza.
+
+<sup>3</sup> Gli impianti di radiocomunicazione di cui al capoverso 1 lettere b e g non possono essere messi a disposizione sul mercato.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^25-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-5]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-6]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, versione della GU L 212 del 22.8.2018, pag. 1.
+[^25-7]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^25-8]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^25-9]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+## Capitolo 4: Disposizioni particolari
+
+### Sezione 1: Impianti di radiocomunicazione impiegati dalle autorità per garantire la sicurezza pubblica
+
+#### Art. 26
+
+**Omologazione degli impianti**
+
+<sup>1</sup> Fatto salvo l’articolo 6 capoverso 2, gli impianti di radiocomunicazione destinati ad essere impiegati dalle autorità per garantire la sicurezza pubblica possono essere messi a disposizione sul mercato soltanto dopo essere stati omologati dall’UFCOM. L’omologazione rilasciata dall’UFCOM vale per tutti gli impianti dello stesso tipo.
+
+<sup>2</sup> Gli impianti di cui al capoverso 1 devono soddisfare i requisiti essenziali di cui all’articolo 7 capoverso 1 lettera a.
+
+<sup>3</sup> Gli impianti di cui al capoverso 1 devono anche soddisfare determinati requisiti in materia di utilizzazione dello spettro ai sensi degli articoli 7 capoverso 2 e 9 nonché di compatibilità elettromagnetica ai sensi dell’articolo 7 capoverso 1 lettera b.[^26-1]
+
+<sup>4</sup> Gli impianti omologati devono essere identificati conformemente all’articolo 18 capoverso 4 e recare il numero di omologazione rilasciato dall’UFCOM. Devono essere corredati delle informazioni necessarie per l’uso previsto.
+
+<sup>5</sup> L’UFCOM emana le prescrizioni tecniche e amministrative necessarie.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+#### Art. 27
+
+**Autorizzazione per la messa a disposizione sul mercato**
+
+<sup>1</sup> Chiunque vuole mettere a disposizione sul mercato degli impianti di radiocomunicazione di cui all’articolo 26 capoverso 1 deve dapprima ottenere un’autorizzazione dell’UFCOM. Quest’ultimo può vincolarla a condizioni e oneri. Emana le prescrizioni amministrative necessarie.
+
+<sup>2</sup> In caso di mancato rispetto delle condizioni e degli oneri relativi all’autorizzazione, l’UFCOM può ritirare quest’ultima senza indennizzo.
+
+<sup>3</sup> L’UFCOM tiene a disposizione delle autorità di cui al capoverso 4 un elenco delle persone titolari di un’autorizzazione ai sensi del capoverso 1 e un elenco degli impianti omologati ai sensi dell’articolo 26 capoverso 1.
+
+<sup>4</sup>
+
+Gli impianti di radiocomunicazione di cui all’articolo 26 capoverso 1 possono essere offerti o messi a disposizione sul mercato soltanto per:
+
+- a. le autorità di polizia, le autorità di perseguimento penale o le autorità preposte all’esecuzione delle pene;
+- b. il Servizio delle attività informative della Confederazione;
+- c. l’esercito;
+- d. le autorità competenti per le ricerche in situazioni di emergenza o le ricerche di persone condannate.[^27-1]
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+#### Art. 27a
+
+**Dimostrazione**[^27a-1]
+
+<sup>1</sup> Chiunque intende installare ed esercitare per dimostrazione un impianto di radiocomunicazione destinato a essere impiegato dalle autorità per garantire la sicurezza pubblica e che non è stato omologato dall’UFCOM necessita di un’autorizzazione rilasciata da quest’ultimo.
+
+<sup>2</sup> L’UFCOM rilascia l’autorizzazione se la dimostrazione non ostacola eccessivamente l’esercizio regolare attuale o futuro delle frequenze nelle bande in questione.
+
+<sup>3</sup> La dimostrazione è autorizzata unicamente nel quadro stabilito dall’UFCOM. Quest’ultimo stabilisce in particolare la durata e il luogo della dimostrazione nonché le bande di frequenze in cui le emissioni sono autorizzate. Le emissioni al di fuori di queste bande devono essere il più basse possibile.
+
+[^27a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+#### Art. 28
+
+**Restrizioni d’esercizio**[^28-1]
+
+Gli impianti di telecomunicazione di cui all’articolo 26 capoverso 1 possono essere esercitati soltanto dalle autorità di cui all’articolo 27 capoverso 4 alle condizioni fissate negli articoli 53–59 OUS[^28-2].
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^28-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+### Sezione 2: Fiere e dimostrazioni
+
+#### Art. 29
+
+<sup>1</sup> Chiunque espone un impianto di radiocomunicazione che non soddisfa le condizioni richieste per la sua messa a disposizione sul mercato deve indicare chiaramente che questo non è conforme alle prescrizioni e che non può essere messo a disposizione sul mercato o messo in servizio.
+
+<sup>2</sup> Chiunque intende installare ed esercitare per dimostrazione un impianto di radiocomunicazione che non soddisfa le condizioni richieste per la sua messa a disposizione sul mercato deve ottenere la necessaria concessione (art. 30 OUS[^29-1]).[^29-2]
+
+<sup>3</sup> Sono fatti salvi gli articoli 22 OPBT[^29-3] e 22 OCEM[^29-4].
+
+[^29-1]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^29-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^29-3]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^29-4]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+## Capitolo 5: Messa a disposizione sul mercato e dimostrazione di nuovi impianti di telecomunicazione collegati per filo
+
+#### Art. 30
+
+**Messa a disposizione sul mercato**
+
+<sup>1</sup> Gli impianti di telecomunicazione collegati per filo possono essere messi a disposizione sul mercato soltanto se soddisfano le disposizioni applicabili dell’OPBT[^30-1] e dell’OCEM[^30-2] per quanto concerne le condizioni della messa a disposizione sul mercato.
+
+<sup>2</sup>
+
+Non sottostanno al capoverso 1 ma possono essere messi in servizio ed esercitati soltanto se non mettono in pericolo le persone e i beni e non interferiscono con il traffico delle telecomunicazioni o la radiodiffusione, gli impianti terminali di telecomunicazione collegati per filo:
+
+- a. messi in servizio ed esercitati esclusivamente per scopi di sperimentazione tecnica per al massimo 18 mesi;
+- b. messi in servizio ed esercitati esclusivamente dai beneficiari istituzionali di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 1 lettere a, b, d–f, i, k e l della legge del 22 giugno 2007[^30-3] sullo Stato ospite, all’interno dei propri edifici o in un’area contigua.
+
+[^30-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^30-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^30-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+
+#### Art. 31
+
+**Dimostrazione**
+
+<sup>1</sup> Chiunque intende mettere in servizio ed esercitare per dimostrazione un impianto terminale di telecomunicazione che non soddisfa le condizioni richieste per la messa a disposizione sul mercato, allacciandolo alle rete di un fornitore di servizi di telecomunicazione, deve ottenere il consenso di quest’ultimo.
+
+<sup>2</sup> Sono fatti salvi gli articoli 22 OMBT[^31-1] e 22 OCEM[^31-2].
+
+[^31-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^31-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+## Capitolo 6: Messa in servizio, installazione ed esercizio di impianti di telecomunicazione
+
+#### Art. 32
+
+**Messa in servizio ed esercizio**
+
+<sup>1</sup> Gli impianti di radiocomunicazione contemplati dalla presente ordinanza e messi in servizio devono essere conformi alla presente ordinanza.
+
+<sup>2</sup> Gli impianti di telecomunicazione collegati per filo messi in servizio devono essere conformi alle disposizioni applicabili dell’OCEM[^32-1] per quanto concerne le condizioni di messa in servizio.
+
+<sup>3</sup> Gli impianti di telecomunicazione devono essere correttamente installati, sottoposti a manutenzione ed esercitati conformemente agli scopi previsti.
+
+<sup>4</sup> Un impianto di telecomunicazione deve essere messo in servizio ed esercitato conformemente alle istruzioni del fabbricante.
+
+<sup>5</sup> Se un fornitore di servizi mette in servizio un impianto di telecomunicazione, deve rispettare le regole tecniche riconosciute.
+
+<sup>6</sup> La riparazione di un impianto di telecomunicazione deve essere effettuata conformante ai requisiti essenziali e a quelli in materia di utilizzo dello spettro delle frequenze.
+
+[^32-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 33
+
+**Impianti di telecomunicazione collegati per filo basati sulla tecnologia CPL**
+
+<sup>1</sup> Allo scopo di evitare interferenze, l’UFCOM può emanare prescrizioni tecniche e amministrative concernenti la messa in servizio, l’installazione e l’esercizio di impianti di telecomunicazione collegati per filo che utilizzano la rete elettrica, compresi gli impianti interni, per trasmettere dati (corrente portante in linea, CPL).
+
+<sup>2</sup> La messa in servizio di impianti CPL per la trasmissione di dati nell’ambito dei servizi di telecomunicazione e delle reti private che si estendono a diversi edifici non contigui deve essere previamente notificata all’UFCOM.
+
+<sup>3</sup> L’UFCOM può sottoporre a previa autorizzazione l’esercizio di impianti CPL in determinati casi problematici quali l’utilizzazione di linee aeree.
+
+## Capitolo 7: Messa a disposizione sul mercato, installazione ed esercizio di impianti di telecomunicazione usati
+
+#### Art. 34
+
+**Messa a disposizione sul mercato di impianti di telecomunicazione usati**
+
+<sup>1</sup> Gli impianti di telecomunicazione usati possono essere messi a disposizione sul mercato unicamente se rispettano le disposizioni in vigore al momento in cui sono stati immessi in commercio e se le norme o le prescrizioni tecniche applicabili non sono state oggetto di modifiche sostanziali. L’articolo 35 si applica per analogia.
+
+<sup>2</sup> Gli impianti di telecomunicazione usati, i cui componenti importanti per il funzionamento sono stati modificati, sono soggetti alle stesse disposizioni applicabili agli impianti nuovi.
+
+<sup>3</sup> Chiunque intende mettere a disposizione sul mercato un impianto di radiocomunicazione usato deve trasmettere all’acquirente le informazioni sulle eventuali restrizioni d’utilizzo di cui era corredato l’impianto al momento dell’acquisto.
+
+<sup>4</sup> L’articolo 19 capoverso 4 si applica per analogia.
+
+#### Art. 35
+
+**Installazione ed esercizio di impianti di telecomunicazione usati**
+
+In caso di modifiche sostanziali delle norme o prescrizioni tecniche applicabili, l’UFCOM emana se necessario prescrizioni tecniche e amministrative relative all’installazione e all’esercizio di impianti di telecomunicazione usati.
+
+## Capitolo 8: Controllo
+
+#### Art. 36
+
+**Principi**
+
+<sup>1</sup> L’UFCOM verifica che gli impianti di telecomunicazione messi a disposizione sul mercato, messi in servizio, installati ed esercitati siano conformi alla presente ordinanza e alle proprie prescrizioni (art. 33 cpv. 1 LTC). Il controllo degli aspetti relativi alla protezione della salute e alla sicurezza (art. 7 cpv. 1 lett. a) incombe all’autorità d’esecuzione dell’OPBT[^36-1].
+
+<sup>2</sup> A tale fine l’UFCOM procede a controlli a campione. Effettua un controllo qualora vi sia motivo di supporre che un impianto di telecomunicazione non è conforme alle disposizioni della presente ordinanza e alle prescrizioni dell’UFCOM. È inoltre autorizzato a controllare impianti di radiocomunicazione nell’ambito dell’esame di una domanda di concessione.
+
+<sup>3</sup> L’UFCOM può esigere che l’Amministrazione federale delle dogane (AFD) gli fornisca, per un periodo determinato, informazioni sull’importazione di impianti di telecomunicazione.
+
+<sup>4</sup> Se, nel quadro delle sue attività ordinarie, l’AFD scopre impianti di telecomunicazione per i quali sospetta, in base a una lista di controllo fornita dall’UFCOM, la non conformità alla presente ordinanza, ne preleva un campione e lo trasmette senza indugio all’UFCOM.
+
+<sup>5</sup> Per quanto attiene agli impianti di telecomunicazione militari, rimane salva l’ordinanza del 2 maggio 1990[^36-2] concernente la protezione delle opere militari.
+
+[^36-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^36-2]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+
+#### Art. 37
+
+**Competenze**
+
+<sup>1</sup> L’UFCOM può esigere dagli operatori economici i documenti e le informazioni che dimostrano la conformità degli impianti di telecomunicazione alle disposizioni della presente ordinanza e alle proprie prescrizioni, nonché la consegna gratuita dei pertinenti impianti per esaminarli o farli esaminare da uno dei laboratori ai sensi dell’articolo 17.
+
+<sup>2</sup> In occasione dei controlli l’utilizzatore deve presentare:
+
+a. la documentazione in suo possesso relativa agli impianti di telecomunicazione; e
+
+b. le informazioni utili che permettono di identificare la persona responsabile della messa a disposizione sul mercato.
+
+#### Art. 38
+
+**Prove di laboratorio**
+
+<sup>1</sup>
+
+L’UFCOM fa esaminare un impianto di telecomunicazione da un laboratorio ai sensi dell’articolo 17 se:
+
+- a. dalle prove da esso stesso effettuate risulta che tale impianto non rispetta i requisiti di cui agli articoli 7 o 9; e
+- b. la richiesta proviene dalla persona responsabile della messa a disposizione sul mercato di questo impianto.
+
+<sup>2</sup> Prima di far esaminare gli impianti da un laboratorio ai sensi dell’articolo 17, l’UFCOM sente la persona responsabile della messa a disposizione sul mercato, segnatamente per quanto riguarda il laboratorio scelto, la portata delle prove e la stima dei costi.
+
+<sup>3</sup> I costi delle prove di laboratorio sono a carico del responsabile della messa a disposizione sul mercato dell’impianto di telecomunicazione qualora dalle prove risulti che quest’ultimo non soddisfa i requisiti richiesti.
+
+<sup>4</sup> L’UFCOM può incaricare un laboratorio qualora esso stesso non possa effettuare le prove. In questo caso, alla persona responsabile della messa a disposizione sul mercato di un impianto che non rispetta i requisiti richiesti saranno imputati gli stessi costi come se l’UFCOM stesso avesse effettuato le prove. I capoversi 2 e 3 non si applicano.
+
+#### Art. 39
+
+**Misure**
+
+<sup>1</sup> Se dal controllo risulta che le disposizioni della presente ordinanza o le prescrizioni dell’UFCOM sono state violate, quest’ultimo, dopo aver sentito la persona responsabile della messa a disposizione sul mercato o dell’esercizio, può ordinare le misure previste dall’articolo 33 capoverso 3 LTC. Può pubblicare le misure adottate o renderle disponibili in linea.
+
+<sup>2</sup> Se la documentazione tecnica non fornisce informazioni sufficienti o precisazioni utili sui mezzi impiegati per garantire la conformità degli impianti di telecomunicazione ai requisiti essenziali della presente ordinanza e non è dunque conforme all’articolo 14, l’UFCOM può richiedere che il fabbricante o l’importatore faccia eseguire, a proprie spese ed entro un certo periodo di tempo, una prova da parte di un laboratorio accettato dall’UFCOM allo scopo di verificare la conformità ai requisiti essenziali della presente ordinanza.
+
+<sup>3</sup> L’articolo 19 capoverso 7 LOTC si applica.
+
+<sup>4</sup>
+
+Quando informa la popolazione conformemente all’articolo 33 capoverso 4 LTC, l’UFCOM pubblica o rende accessibile mediante procedura di richiamo in particolare le informazioni seguenti:[^39-1]
+
+- a. le misure adottate;
+- b. l’utilizzo cui l’impianto di telecomunicazione è destinato;
+- c. le informazioni che ne permettono l’identificazione, come il fabbricante, il marchio e il tipo;
+- d. le fotografie dell’impianto di telecomunicazione e del suo imballaggio;
+- e. la data della decisione di non conformità.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
+#### Art. 40
+
+**Interferenze**
+
+<sup>1</sup> L’UFCOM ha accesso in qualsiasi momento agli impianti di telecomunicazione che interferiscono con il traffico delle telecomunicazioni o la radiodiffusione e può adottare le misure previste dall’articolo 34 LTC.
+
+<sup>2</sup> Per il resto, gli articoli 36–39 si applicano per analogia.
+
+## Capitolo 9: Disposizioni finali
+
+#### Art. 41
+
+**Esecuzione**
+
+<sup>1</sup> L’UFCOM è incaricato dell’esecuzione della presente ordinanza.
+
+<sup>2</sup> È autorizzato a stipulare accordi internazionali su questioni tecniche e amministrative attinenti alla presente ordinanza.
+
+#### Art. 42
+
+**Abrogazione di un altro atto**
+
+L’ordinanza del 14 giugno 2002[^42-1] sugli impianti di telecomunicazione è abrogata.
+
+[^42-1]: [[RU 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)n. II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 2 lett. e]
+
+#### Art. 43
+
+**Modifica di altri atti**
+
+<sup>1</sup> e <sup>2</sup> ...[^43-1]
+
+[^43-1]: Le mod. possono essere consultate alla [RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24).
+
+#### Art. 44
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Gli impianti di radiocomunicazione riceventi e gli impianti di radiocomunicazione per radioamatori che prima del 1° maggio 2001 non dovevano essere oggetto di una procedura di valutazione della conformità e che sono stati immessi in commercio prima di tale data possono continuare a essere installati ed esercitati senza essere sottoposti a una procedura di valutazione della conformità. Essi non possono tuttavia essere messi a disposizione sul mercato se non sono stati prima sottoposti a una tale procedura di valutazione.
+
+<sup>2</sup>
+
+Possono ancora essere immessi in commercio fino al 12 giugno 2017 gli impianti di radiocomunicazione non conformi alla presente ordinanza ma:
+
+- a. conformi all’ordinanza del 14 giugno 2002[^44-1] sugli impianti di telecomunicazione; o
+- b.
+
+  che erano esentati da una valutazione della conformità e dall’apposizione del contrassegno ai sensi dell’articolo 16 lett. g<sup>bis</sup>–h<sup>bis</sup> dell’ordinanza del 14 giugno 2002 sugli impianti di telecomunicazione e che:
+
+  - 1\. erano conformi all’ordinanza del 9 aprile 1997[^44-2] sui prodotti elettrici a bassa tensione e all’ordinanza del 18 novembre 2009[^44-3] sulla compatibilità elettromagnetica, o
+  - 2\. sono conformi all’ordinanza del 25 novembre 2015[^44-4] sui prodotti elettrici a bassa tensione e all’ordinanza del 25 novembre 2015[^44-5] sulla compatibilità elettromagnetica.
+
+[^44-1]: [[RU 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)n. II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 2 lett. e]
+[^44-2]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2762 n. I 3, **2007** 4477 n. IV 23, **2009** 6243 all. 3 n. II 4, **2010** 2583 all. 4 n. II 12749 n. I 1, **2013** 3509 all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]
+[^44-3]: [[RU 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696). [RU 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 1]
+[^44-4]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
+[^44-5]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 45
+
+**Entrata in vigore**
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 13 giugno 2016.
+
+<sup>2</sup> L’articolo 11 entra in vigore il 12 giugno 2018.
+
+Allegato 1
+
+(art. 18 cpv. 1)
+
+## Marchio di conformità
+
+- **1.** **Marchio di conformità svizzero**
+- 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere devono essere applicate in una forma ellittica con l’asse principale orizzontale.
+
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+</table>
+
+- 1\.2 In caso di riduzione o di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
+- **2.** **Marchio di conformità estero**
+- 2\.1 È ammesso il marchio di conformità definito nell’allegato II del regolamento (CE) n. 765/2008[^annex1-lvlu1-1]. L’illustrazione ha carattere informativo.
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/it/xml/image/image2.png)
+
+- 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti all’articolo 30 del regolamento (CE) n. 765/2008.
+- **3.** Le dimensioni minime del marchio di conformità possono essere ridotte nel caso di impianti di radiocomunicazione di piccole dimensioni, purché il marchio di conformità resti visibile e leggibile.
+
+[^annex1-lvlu1-1]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio, versione della GU L 218, del 13.08.2008, pag. 30.
+
+Allegato 2
+
+(art. 13)
+
+## Controllo interno della produzione (modulo A)
+
+- **1.** Il controllo interno della produzione è la procedura di valutazione della conformità in cui il fabbricante ottempera agli obblighi di cui ai numeri 2, 3 e 4 del presente allegato e si accerta e dichiara, sotto la sua esclusiva responsabilità, che gli impianti di radiocomunicazione in questione soddisfano i requisiti essenziali della presente ordinanza.
+- **2.** **Documentazione tecnica**
+- Il fabbricante compila la documentazione tecnica di cui all’articolo 14.
+- **3.** **Produzione**
+- 3\.1 Il fabbricante prende tutte le misure necessarie affinché il processo di produzione e il suo controllo garantiscano la conformità degli impianti di radiocomunicazione alla documentazione tecnica di cui al numero 2 del presente allegato e ai requisiti essenziali della presente ordinanza.
+- 3\.2 Il fabbricante tiene debitamente conto delle modifiche della progettazione o delle caratteristiche dell’impianto di radiocomunicazione nonché delle modifiche delle norme armonizzate o delle altre specifiche tecniche con riferimento alle quali è dichiarata la conformità dell’impianto.
+- **4.** **Marchio di conformità e dichiarazione di conformità**
+- 4\.1 Il fabbricante appone il marchio di conformità secondo l’articolo 18 a ogni singolo impianto di radiocomunicazione che soddisfa i requisiti applicabili della presente ordinanza.
+- 4\.2 Il fabbricante compila una dichiarazione scritta di conformità secondo l’allegato 5 per ogni tipo d’impianto di radiocomunicazione.
+- **5.** **Mandatario**
+- 5\.1 Gli obblighi del fabbricante previsti nel numero 4 possono essere adempiuti dal suo mandatario, a suo nome e sotto la sua responsabilità, purché siano specificati nel mandato.
+- 5\.2 La progettazione e la produzione di impianti di radiocomunicazione nonché la redazione della documentazione tecnica non possono essere delegate al mandatario.
+
+Allegato 3
+
+(art. 13)
+
+## Esame del tipo seguito dalla conformità al tipo sulla base del controllo interno della produzione
+
+### I. Esame del tipo (modulo B)
+
+- **1** L’esame del tipo è la parte di una procedura di valutazione della conformità con cui un organismo di valutazione della conformità esamina il progetto tecnico di un impianto di radiocomunicazione, nonché verifica e certifica che rispetti i requisiti essenziali della presente ordinanza.
+- **2** L’esame del tipo consiste in una valutazione dell’adeguatezza del progetto tecnico dell’impianto di radiocomunicazione effettuata esaminando la documentazione tecnica e gli elementi di prova di cui al numero 3, senza esame di un campione (tipo di progetto).
+- **3** **Domanda di esame del tipo**
+- 3\.1 Il fabbricante presenta una domanda di esame del tipo a un unico organismo di valutazione della conformità di sua scelta.
+- 3\.2
+
+  La domanda deve contenere:
+
+  - a. il nome e l’indirizzo del fabbricante e, nel caso in cui la domanda sia presentata dal mandatario, il nome e l’indirizzo di quest’ultimo;
+  - b. una dichiarazione scritta che attesta che la stessa domanda non è stata presentata a nessun altro organismo di valutazione della conformità;
+  - c. la documentazione tecnica di cui all’articolo 14;
+  - d. gli elementi di prova su cui si basa la pertinenza della soluzione adottata per il progetto tecnico. Questi elementi di prova includono tutti i documenti utilizzati, in particolare se le norme tecniche pertinenti designate dall’UFCOM (art. 31 cpv. 2 lett. a LTC) non sono state applicate o lo sono state soltanto in parte. Se necessario, gli elementi di prova comprendono i risultati delle prove effettuate conformemente ad altre specifiche tecniche pertinenti dal laboratorio competente del fabbricante o da un altro laboratorio di prova a suo nome e sotto la sua responsabilità.
+
+- **4** L’organismo di valutazione della conformità esamina la documentazione tecnica e gli elementi di prova per valutare l’adeguatezza del progetto tecnico dell’impianto di radiocomunicazione.
+- **5** L’organismo di valutazione della conformità redige una relazione di valutazione che elenca le iniziative intraprese in conformità al numero 4 e i relativi risultati. Senza pregiudicare i propri obblighi di cui al numero 8, l’organismo di valutazione della conformità rende pubblico l’intero contenuto della relazione, o parte di esso, solo con l’accordo del fabbricante.
+- **6** **Certificato di esame del tipo**
+- 6\.1 Se il tipo risulta conforme ai requisiti della presente ordinanza applicabili all’impianto di radiocomunicazione in questione, l’organismo di valutazione della conformità rilascia al fabbricante un certificato di esame del tipo. Tale certificato riporta il nome e l’indirizzo del fabbricante, le conclusioni dell’esame, gli aspetti dei requisiti essenziali della presente ordinanza oggetto di esame, le eventuali condizioni di validità e i dati necessari per l’identificazione del tipo approvato. Il certificato di esame del tipo può comprendere uno o più allegati.
+- 6\.2 Il certificato di esame del tipo e i suoi allegati contengono ogni utile informazione che permetta di valutare la conformità degli impianti di radiocomunicazione prodotti al tipo esaminato e consentire il controllo dell’impianto in funzione.
+- 6\.3 Se il tipo non soddisfa i requisiti della presente ordinanza ad esso applicabili, l’organismo di valutazione della conformità rifiuta di rilasciare un certificato di esame del tipo e informa di tale decisione il richiedente, motivando dettagliatamente il suo rifiuto.
+- **7** **Obbligo di controllo**
+- 7\.1 L’organismo di valutazione della conformità segue l’evoluzione del progresso tecnologico generalmente riconosciuto; se tale evoluzione permette di supporre che il tipo approvato non è più conforme alle prescrizioni applicabili della presente ordinanza, decide se sono necessari esami complementari. In caso affermativo, l’organismo di valutazione della conformità ne informa il fabbricante.
+- 7\.2 Il fabbricante informa l’organismo di valutazione della conformità che detiene la documentazione tecnica relativa al certificato di esame del tipo di tutte le modifiche al tipo approvato, qualora possano influire sulla conformità dell’impianto di radiocomunicazione ai requisiti essenziali della presente ordinanza o sulle condizioni di validità di tale certificato. Tali modifiche comportano una nuova approvazione sotto forma di un supplemento al certificato iniziale di esame del tipo.
+- **8** **Obbligo d’informazione**
+- 8\.1 Ogni organismo di valutazione della conformità informa l’UFCOM in merito ai certificati di esame del tipo e/o ai supplementi che esso ha rilasciato o revocato e, periodicamente o su richiesta, mette a disposizione l’elenco di tali certificati e/o degli eventuali supplementi respinti, sospesi o altrimenti sottoposti a restrizioni.
+- 8\.2 Ogni organismo di valutazione della conformità informa gli altri organismi di valutazione della conformità dei certificati di esame del tipo e/o dei supplementi da esso respinti, ritirati, sospesi o altrimenti sottoposti a restrizioni, e, su richiesta, dei certificati e/o dei supplementi che ha rilasciato.
+- 8\.3 Ogni organismo di valutazione della conformità informa l’UFCOM dei certificati di esame del tipo e/o dei supplementi che ha rilasciato se le norme tecniche designate dall’UFCOM (art. 31 cpv. 2 lett. a LTC) non sono state applicate o lo sono state soltanto in parte. L’UFCOM e gli altri organismi di valutazione della conformità possono ottenere, su richiesta, copia dei certificati di esame del tipo e/o dei relativi supplementi. L’UFCOM può ottenere, su richiesta, copia della documentazione tecnica e dei risultati delle prove effettuate dall’organismo di valutazione della conformità. L’organismo di valutazione della conformità conserva una copia del certificato di esame del tipo, degli allegati e dei supplementi, nonché il fascicolo tecnico, inclusa la documentazione presentata dal fabbricante, per dieci anni a decorrere dalla data della valutazione dell’impianto di radiocomunicazione o fino alla scadenza della validità di tale certificato.
+- **9** Il fabbricante tiene a disposizione dell’UFCOM una copia del certificato di esame del tipo, degli allegati e dei supplementi insieme alla documentazione tecnica per dieci anni a decorrere dalla data in cui l’impianto di radiocomunicazione è stato immesso in commercio.
+- **10** Il mandatario del fabbricante può presentare la domanda di cui al numero 3 e adempiere gli obblighi di cui ai numeri 7 e 9, purché siano specificati nel mandato.
+
+### II Conformità al tipo sulla base del controllo interno della produzione (modulo C)
+
+- **1** La conformità al tipo basata sul controllo interno della produzione è la parte di una procedura di valutazione della conformità con cui il fabbricante soddisfa gli obblighi di cui ai numeri 2 e 3 e garantisce e dichiara che gli impianti di radiocomunicazione interessati sono conformi al tipo descritto nel certificato di esame del tipo e soddisfano i requisiti della presente ordinanza ad essi applicabili.
+- **2** **Produzione**
+- 2\.1 Il fabbricante prende tutte le misure necessarie affinché il processo di produzione e il suo controllo garantiscano la conformità degli impianti di radiocomunicazione prodotti al tipo approvato, oggetto del certificato di esame, e ai requisiti della presente ordinanza ad essi applicabili.
+- 2\.2 Il fabbricante tiene debitamente conto delle modifiche della progettazione o delle caratteristiche dell’impianto di radiocomunicazione nonché delle modifiche delle norme armonizzate o delle altre specifiche tecniche con riferimento alle quali è dichiarata la conformità dell’impianto.
+- **3** **Marchio e dichiarazione di conformità**
+- 3\.1 Il fabbricante appone il marchio di conformità a ogni singolo impianto di radiocomunicazione conforme al tipo descritto nel certificato di esame del tipo e alle prescrizioni della presente ordinanza ad esso applicabili.
+- 3\.2 Il fabbricante compila una dichiarazione scritta di conformità secondo l’allegato 5 per ogni modello di impianto di radiocomunicazione.
+- **4** **Mandatario**
+- 4\.1 Gli obblighi del fabbricante previsti nel numero 3 possono essere adempiuti dal suo mandatario, a suo nome e sotto la sua responsabilità, purché siano specificati nel mandato.
+- 4\.2 La progettazione e la produzione di impianti di radiocomunicazione nonché la redazione della documentazione tecnica non possono essere delegate al mandatario.
+- [tab]
+
+Allegato 4
+
+(art. 13)
+
+## Garanzia totale della qualità (modulo H)
+
+- **1** La dichiarazione di conformità sulla base della garanzia totale della qualità è la procedura di valutazione della conformità tramite cui il fabbricante ottempera agli obblighi di cui ai numeri 2 e 5 e si accerta e dichiara, sotto la sua esclusiva responsabilità, che gli impianti di radiocomunicazione in questione soddisfano i requisiti della presente ordinanza ad essi applicabili.
+- **2** **Produzione**
+- 2\.1 Il fabbricante applica un sistema di qualità approvato per la progettazione, la produzione, l’ispezione finale e le prove degli impianti di radiocomunicazione secondo quanto specificato nel numero 3 ed è soggetto alla sorveglianza di cui al numero 4.
+- 2\.2 Il fabbricante tiene debitamente conto delle modifiche della progettazione o delle caratteristiche dell’impianto di radiocomunicazione nonché delle modifiche delle norme armonizzate o delle altre specifiche tecniche con riferimento alle quali è dichiarata la conformità dell’impianto.
+- **3** **Sistema di qualità**
+- 3\.1 Il fabbricante presenta all’organismo di valutazione della conformità di sua scelta una domanda di valutazione del proprio sistema di qualità per gli impianti di radiocomunicazione in questione.
+-
+
+  La domanda comprende:
+
+  - a. il nome e l’indirizzo del fabbricante e, nel caso in cui la domanda sia presentata dal mandatario, il nome e l’indirizzo di quest’ultimo;
+  - b. la documentazione tecnica per ogni singolo impianto di radiocomunicazione destinato alla produzione;
+  - c. la documentazione relativa al sistema di qualità;
+  - d. una dichiarazione scritta che la stessa domanda non è stata presentata a nessun altro organismo di valutazione della conformità.
+
+- 3\.2 Il sistema di qualità garantisce la conformità degli impianti di radiocomunicazione ai requisiti applicabili della presente ordinanza.
+- Tutti i criteri, i requisiti e le disposizioni adottati dal fabbricante devono essere documentati in modo sistematico e ordinati sotto forma di politiche, procedure e istruzioni scritte. Questa documentazione relativa al sistema di qualità deve permettere un’interpretazione uniforme dei programmi, schemi, manuali e rapporti riguardanti la qualità.
+-
+
+  Detta documentazione comporta in particolare un’adeguata descrizione:
+
+  - a. degli obiettivi di qualità, dell’organigramma dell’impresa, delle responsabilità e delle competenze del personale quadro in materia di qualità della progettazione e dei prodotti;
+  - b. delle specificazioni del progetto tecnico, comprese le norme tecniche che saranno applicate e se le norme tecniche pertinenti designate dall’UFCOM (art. 31 cpv. 2 lett. a LTC) sono state applicate soltanto in parte, i mezzi che saranno adottati in modo da rispettare i requisiti essenziali della presente ordinanza;
+  - c. delle tecniche di controllo e verifica della progettazione, dei processi e degli interventi sistematici che verranno applicati alla progettazione degli impianti di radiocomunicazione appartenenti alla categoria d’impianti in questione;
+  - d. delle corrispondenti tecniche di produzione, di controllo e di garanzia della qualità, dei processi e degli interventi sistematici che saranno effettuati;
+  - e. dei controlli e delle prove che saranno effettuati prima, durante e dopo la produzione con indicazione della frequenza con cui si intende effettuarli;
+  - f. della documentazione in materia di qualità, quale i rapporti d’ispezione, i dati sulle prove, le tarature, i rapporti sulle qualifiche del personale ecc.;
+  - g. dei mezzi di controllo che permettano di verificare che gli obiettivi in materia di qualità di progettazione e del prodotto siano soddisfatti e che il sistema di qualità funzioni correttamente.
+
+- 3\.3 L’organismo di valutazione della conformità valuta il sistema di qualità per determinare se soddisfa i requisiti di cui al numero 3.2.
+- Esso presume la conformità a tali requisiti per gli elementi dei sistemi di qualità che sono conformi alle relative specificazioni della norma applicabile designata dalla SECO (allegato 2 OAccD[^annex4-lvlu1-1]).
+- Il gruppo d’ispettori deve avere esperienza dei sistemi di gestione della qualità, conoscere i requisiti applicabili della presente ordinanza e contare almeno un membro con esperienza nella valutazione del settore e nella tecnologia degli impianti di radiocomunicazione oggetto della valutazione. L’ispezione deve comprendere una visita di valutazione agli impianti del fabbricante. Gli ispettori esaminano la documentazione tecnica di cui al numero 3.1 b per controllare la capacità del fabbricante a soddisfare i requisiti della presente ordinanza che lo riguardano e a effettuare le prove necessarie per garantire la conformità degli impianti di radiocomunicazione a tali requisiti.
+- La decisione viene notificata al fabbricante o al suo mandatario.
+- La notifica contiene le conclusioni dell’ispezione e la decisione di valutazione motivata.
+- 3\.4 Il fabbricante si impegna a soddisfare gli obblighi derivanti dal sistema di qualità approvato e a fare in modo che esso rimanga adeguato ed efficace.
+- 3\.5 Il fabbricante informa l’organismo di valutazione della conformità che ha approvato il sistema di qualità di qualsiasi progetto di modifica del sistema.
+- L’organismo di valutazione della conformità esamina le modifiche previste e decide se il sistema di qualità modificato continua a soddisfare i requisiti di cui al numero 3.2 o se è necessaria una nuova valutazione.
+- Esso notifica la sua decisione al fabbricante. La notifica contiene le conclusioni dell’esame e la decisione di valutazione motivata.
+- **4** **Sorveglianza sotto la responsabilità dell’organismo notificato**
+- 4\.1 La sorveglianza deve garantire che il fabbricante soddisfi tutti gli obblighi derivanti dal sistema di qualità approvato.
+- 4\.2
+
+  Il fabbricante autorizza l’organismo di valutazione della conformità ad accedere a fini di valutazione ai locali di progettazione, produzione, ispezione, prova e deposito fornendo tutte le informazioni necessarie, in particolare:
+
+  - a. la documentazione relativa al sistema di qualità;
+  - b. i rapporti concernenti la qualità previsti nella parte del sistema di qualità dedicata alla progettazione, quali i risultati di analisi, calcoli, prove ecc.;
+  - c. i rapporti concernenti la qualità previsti nella parte del sistema di qualità dedicata alla produzione, quali i rapporti d’ispezione e i dati sulle prove, le tarature, le qualifiche del personale ecc.
+
+- 4\.3 L’organismo di valutazione della conformità svolge regolarmente ispezioni per verificare che il fabbricante mantenga e utilizzi il sistema di qualità e fornisce al fabbricante un rapporto d’ispezione.
+- 4\.4 L’organismo di valutazione della conformità può inoltre effettuare visite senza preavviso presso il fabbricante. In tale occasione, se necessario, l’organismo di valutazione della conformità può procedere o far procedere a prove degli impianti di radiocomunicazione atte a verificare il corretto funzionamento del sistema di qualità. Esso fornisce al fabbricante un rapporto sulla visita e, se vi è stata una prova, un rapporto sulla prova stessa.
+- **5** **Marchio e dichiarazione di conformità**
+- 5\.1 Il fabbricante appone il marchio di conformità di cui all’articolo 18 e, sotto la responsabilità dell’organismo di valutazione della conformità di cui al numero 3.1, il numero d’identificazione di quest’ultimo su ogni impianto di radiocomunicazione che soddisfa i requisiti pertinenti della presente ordinanza.
+- 5\.2 Il fabbricante redige una dichiarazione di conformità scritta secondo l’allegato 5 per ogni tipo di impianto di radiocomunicazione.
+- **6**
+
+  Il fabbricante tiene a disposizione dell’UFCOM per dieci anni a decorrere dalla data in cui l’impianto di radiocomunicazione è stato immesso in commercio:
+
+  - a. la documentazione tecnica di cui al numero 3.1;
+  - b. la documentazione riguardante il sistema di qualità di cui al numero 3.1;
+  - c. le modifiche approvate di cui al numero 3.5;
+  - d. le decisioni e i rapporti dell’organismo di valutazione della conformità di cui ai numeri 3.5, 4.3 e 4.4.
+
+- **7** Ogni organismo di valutazione della conformità informa l’UFCOM delle approvazioni di sistemi di qualità che ha rilasciato o ritirato e gli trasmette, periodicamente o su richiesta, l’elenco delle approvazioni respinte, sospese o altrimenti sottoposte a restrizioni.
+- Ogni organismo di valutazione della conformità informa gli altri organismi di valutazione della conformità delle approvazioni di sistemi di qualità che ha respinto, sospeso o ritirato e, su richiesta, di quelle che ha rilasciato.
+- **8** **Mandatario**
+- 8\.1 Gli obblighi del fabbricante previsti nei numeri 3.1, 3.5, 5 e 6 possono essere adempiuti dal suo mandatario, a suo nome e sotto la sua responsabilità, purché siano specificati nel mandato.
+- 8\.2 La progettazione e la produzione di impianti di radiocomunicazione nonché la redazione della documentazione tecnica non possono essere delegate al mandatario.
+
+[^annex4-lvlu1-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+Allegato 5
+
+(art. 15)
+
+## Modello di dichiarazione di conformità
+
+<sup>1</sup> La dichiarazione di conformità per un impianto di radiocomunicazione recante il marchio svizzero di conformità secondo l’allegato 1 numero 1 deve essere redatta in base al modello seguente:
+
+**Titolo: Dichiarazione di conformità**
+
+- 1\. Impianto di radiocomunicazione (numero di prodotto, tipo, lotto o serie):
+- 2\. Nome e indirizzo del fabbricante o del suo mandatario con sede in Svizzera:
+- 3\. La presente dichiarazione di conformità è rilasciata sotto la responsabilità esclusiva del fabbricante:
+- 4\. Oggetto della dichiarazione (identificazione dell’impianto di radiocomunicazione che ne consenta la rintracciabilità; se necessario, un’immagine a colori di chiarezza sufficiente può essere acclusa per identificare l’impianto):
+- 5\.
+
+  L’oggetto della dichiarazione di cui sopra è conforme alla legislazione svizzera applicabile:
+
+  - [tab] ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione
+  - [tab] Se del caso, altre disposizioni applicabili
+
+- 6\. Riferimento alle pertinenti norme tecniche applicate o riferimenti alle altre specifiche tecniche in relazione alle quali è dichiarata la conformità. Per ogni riferimento occorre indicare il numero d’identificazione, la versione e, se del caso, la data di emissione:
+- 7\. Se del caso, l’organismo di valutazione della conformità ... (denominazione, numero d’identificazione) ha effettuato ... (descrizione dell’intervento) e rilasciato il certificato di esame del tipo: ...
+- 8\. Se del caso: la descrizione degli accessori e degli elementi (compresi i software) che permettono all’impianto di radiocomunicazione di funzionare secondo il suo scopo e che sono disciplinati dalla dichiarazione di conformità: ...
+- 9\.
+
+  Informazioni supplementari:
+
+  - [tab] Firmato a nome e per conto di:
+  - [tab] (luogo e data del rilascio):
+  - [tab] (nome, funzione) (firma):
+
+<sup>2</sup> La dichiarazione di conformità per un impianto di radiocomunicazione recante il marchio di conformità estero secondo l’allegato 1 numero 2 deve essere redatta in base al modello di cui all’allegato VI della direttiva 2014/53/UE[^annex5-lvlu1-1].
+
+[^annex5-lvlu1-1]: Direttiva 2014/53/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica e che abroga la direttiva 1999/5/CE, GU L 153 del 22.05.2014, pag. 62.
+
+Allegato 6
+
+(art. 15)
+
+## Modello di dichiarazione di conformità abbreviata
+
+<sup>1</sup> La dichiarazione di conformità abbreviata per un impianto di radiocomunicazione recante il marchio di conformità svizzero secondo l’allegato 1 numero 1 è redatta come segue:
+
+- – Il richiedente, [nome del fabbricante], dichiara che l’impianto di radiocomunicazione del tipo [descrizione del tipo] è conforme all’ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione.
+- – Il testo completo della dichiarazione di conformità è disponibile all’indirizzo Internet seguente: [indirizzo esatto]
+
+<sup>2</sup> La dichiarazione di conformità abbreviata per un impianto di radiocomunicazione recante il marchio di conformità estero conformemente all’allegato 1 numero 2 deve essere redatta in base al modello di cui all’allegato VII della direttiva 2014/53/UE[^annex6-lvlu1-1].
+
+[^annex6-lvlu1-1]: Cfr. nota a piè di pagina relativa all’all. 5 cpv. 2.

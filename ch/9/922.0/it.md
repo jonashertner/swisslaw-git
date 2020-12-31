@@ -1,0 +1,470 @@
+---
+sr: "922.0"
+title: "Legge federale del 20 giugno 1986 su la caccia e la protezione dei mammiferi e degli uccelli selvatici (Legge sulla caccia, LCP)"
+short: LCP
+eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
+language: it
+version: 2017-05-01
+adopted: 1986-06-20
+in_force: 1988-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20170501/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20170501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20170501/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale su la caccia e la protezione dei mammiferi e degli uccelli selvatici
+
+(Legge sulla caccia, LCP)
+
+del 20 giugno 1986 (Stato 1° maggio 2017)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 74 capoverso 1, 78 capoverso 4, 79 e 80 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 27 aprile 1983[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. 2 dell’all. alla L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^ingress-3]: [FF 1983 II 1169](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)
+
+## Capitolo 1: Scopo e campo di applicazione
+
+#### Art. 1
+
+**Scopo**
+
+<sup>1</sup>
+
+La presente legge si prefigge di:
+
+- a. conservare la diversità delle specie e gli spazi vitali di mammiferi e uccelli indigeni e migratori viventi allo stato selvatico;
+- b. proteggere le specie animali minacciate;
+- c. ridurre a un limite sopportabile i danni a foreste e colture causati dalla fauna selvatica;
+- d. garantire un’adeguata gestione venatoria della selvaggina.
+
+<sup>2</sup> Essa stabilisce i principi secondo i quali i Cantoni devono disciplinare la caccia.
+
+#### Art. 2
+
+**Campo di applicazione**
+
+La legge concerne gli animali seguenti viventi in Svizzera allo stato selvatico:
+
+- a. uccelli;
+- b. predatori;
+- c. artiodattili;
+- d. leporidi;
+- e. castori, marmotte e scoiattoli.
+
+## Capitolo 2: Caccia
+
+#### Art. 3
+
+**Principi**
+
+<sup>1</sup> I Cantoni disciplinano e pianificano la caccia. Essi tengono conto delle condizioni locali, delle esigenze dell’agricoltura e della protezione della natura. La gestione continuativa delle foreste e la rigenerazione naturale con essenze stanziali devono essere assicurate.
+
+<sup>2</sup> I Cantoni stabiliscono le premesse per l’autorizzazione di caccia, determinano il sistema e le zone di caccia e provvedono ad un’efficace sorveglianza.
+
+<sup>3</sup> Essi tengono, conformemente alle prescrizioni del Consiglio federale, una statistica dei capi uccisi e degli effettivi delle specie più importanti.
+
+<sup>4</sup> Il Consiglio federale designa i mezzi ausiliari proibiti per l’esercizio della caccia. Esso fa allestire una statistica federale della caccia.
+
+#### Art. 4
+
+**Autorizzazione di caccia**
+
+<sup>1</sup> Chiunque voglia cacciare deve avere un’autorizzazione del Cantone.
+
+<sup>2</sup> L’autorizzazione è rilasciata a chi abbia dimostrato, in un esame stabilito dal Cantone, di possedere le conoscenze necessarie.
+
+<sup>3</sup> I Cantoni possono rilasciare a persone che si preparano all’esame e a cacciatori ospiti un’autorizzazione di caccia limitata ad alcuni giorni.
+
+#### Art. 5
+
+**Specie cacciabili e periodi di protezione**
+
+<sup>1</sup>
+
+Le specie cacciabili e i periodi di protezione sono stabiliti come segue:
+
+- a. cervo dal 1° febbraio al 31 luglio
+- b. cinghiale dal 1° febbraio al 30 giugno
+- c. daino, cervo Sika e muflone dal 1° febbraio al 31 luglio
+- d. capriolo dal 1° febbraio al 30 aprile
+- e. camoscio dal 1° gennaio al 31 luglio
+- f. lepre comune, lepre variabile e coniglio selvatico dal 1° gennaio al 30 settembre
+- g. marmotta dal 16 ottobre al 31 agosto
+- h. volpe dal 1° marzo al 15 giugno
+- i. tasso dal 16 gennaio al 15 giugno
+- k. martora e faina dal 16 febbraio al 31 agosto
+- l. fagiano di monte maschio, pernice bianca e pernice grigia dal 1° dicembre al 15 ottobre
+- m. colombaccio, tortora dal collare orientale, corvo imperiale e cornacchia grigia dal 16 febbraio al 31 luglio
+- n. fagiano comune dal 1° febbraio al 31 agosto
+- o. svasso maggiore, folaga, cormorano e anatra selvatica dal 1° febbraio al 31 agosto
+- p. beccaccia dal 15 dicembre al 15 settembre.
+
+<sup>2</sup> Le specie seguenti di anatre selvatiche sono protette: oca selvatica, tadorna, casarca, smergo e cigno, anatra marmorizzata, edredone di Steller, moretta arlecchina, gobbo rugginoso, quattrocchi d’Islanda e fistone turco.
+
+<sup>3</sup>
+
+Le specie seguenti possono essere cacciate tutto l’anno:
+
+- a. cane procione, procione lavatore e gatto domestico inselvatichito;
+- b. cornacchia nera, gazza, ghiandaia e tortora domestica inselvatichita.
+
+<sup>4</sup> I Cantoni possono prolungare i periodi di protezione o restringere la lista delle specie cacciabili. Ne hanno il dovere qualora lo esiga la protezione di specie localmente minacciate.
+
+<sup>5</sup> Essi possono, previo consenso del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (Dipartimento)[^5-1], accorciare provvisoriamente i periodi di protezione al fine di ridurre effettivi troppo alti o salvaguardare la diversità delle specie.
+
+<sup>6</sup> Il Consiglio federale può, sentiti i Cantoni, restringere, su piano nazionale, la lista delle specie cacciabili, qualora sia necessario alla conservazione di specie minacciate, oppure allargarla, indicando i periodi di protezione, quando il ristabilimento degli effettivi di specie protette permette nuovamente la caccia.
+
+[^5-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 6
+
+**Messa in libertà di selvaggina**
+
+<sup>1</sup> I Cantoni possono mettere in libertà selvaggina soltanto se è assicurato un biotopo adeguato ed è garantita una protezione sufficiente.
+
+<sup>2</sup> Non possono essere messi in libertà animali che causano danni ingenti o minacciano la diversità delle specie indigene. Il Consiglio federale designa tali animali.
+
+## Capitolo 3: Protezione
+
+#### Art. 7
+
+**Specie protette**
+
+<sup>1</sup> Tutti gli animali di cui all’articolo 2, non appartenenti a una specie cacciabile, sono protetti (specie protette).
+
+<sup>2</sup> I Cantoni possono, previo consenso dell’Ufficio federale dell’ambiente (Ufficio federale)[^7-1], prevedere l’abbattimento di animali protetti se necessario per la protezione del biotopo o per la conservazione della diversità delle specie. Il Consiglio federale stabilisce le specie cui questa norma è applicabile.
+
+<sup>3</sup> Gli stambecchi possono essere cacciati dal 1° settembre al 30 novembre a scopo di regolazione degli effettivi. I Cantoni presentano ogni anno al Dipartimento, per approvazione, una pianificazione degli abbattimenti. Il Consiglio federale emana le relative prescrizioni.
+
+<sup>4</sup> I Cantoni provvedono a proteggere sufficientemente dai disturbi i mammiferi e gli uccelli selvatici.
+
+<sup>5</sup> Essi disciplinano segnatamente la protezione dei giovani animali e delle loro madri durante i periodi di caccia e degli uccelli adulti, durante il periodo della cova.
+
+<sup>6</sup> Nella pianificazione ed esecuzione di costruzioni e impianti che possono pregiudicare la protezione dei mammiferi e degli uccelli selvatici, la Confederazione consulta i Cantoni. Per progetti che pregiudicano zone protette d’importanza internazionale o nazionale, dev’essere chiesto il preavviso dell’Ufficio federale.
+
+[^7-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 8
+
+**Abbattimento di animali ammalati o feriti**
+
+I guardacaccia, i badatori e gli affittuari di una riserva sono autorizzati ad abbattere anche e fuori del periodo di caccia gli animali feriti o ammalati. I capi abbattuti devono essere annunciati senza indugio all’autorità cantonale della caccia.
+
+#### Art. 9
+
+**Autorizzazioni della Confederazione**
+
+<sup>1</sup>
+
+Necessita di un’autorizzazione della Confederazione chi vuole:
+
+- a. importare, far transitare o esportare animali di specie protette nonché parti o prodotti dei medesimi;
+- b. mettere in libertà animali delle specie protette;
+- c. importare, nell’intento di metterli in libertà, animali cacciabili;
+- d. servirsi, in via eccezionale, di mezzi ausiliari proibiti per l’esercizio della caccia.
+
+<sup>2</sup> Il Consiglio federale disciplina le competenze e la procedura.
+
+#### Art. 10
+
+**Animali protetti tenuti in cattività**
+
+<sup>1</sup> Chi vuole tenere in cattività animali protetti necessita di un’autorizzazione cantonale.
+
+<sup>2</sup> Il Consiglio federale stabilisce a quali condizioni possono essere tenuti in cattività animali protetti.
+
+#### Art. 11
+
+**Zone protette**
+
+<sup>1</sup> Il Consiglio federale, dopo aver sentito i Cantoni, delimita riserve per uccelli acquatici e di passo, d’importanza internazionale.
+
+<sup>2</sup> Esso delimita, d’intesa con i Cantoni, bandite federali di caccia come pure riserve per uccelli acquatici e di passo, d’interesse nazionale.
+
+<sup>3</sup> Le bandite federali di caccia possono essere soppresse o sostituite con bandite equivalenti soltanto d’intesa con il Consiglio federale.
+
+<sup>4</sup> I Cantoni possono creare altre bandite di caccia e riserve per gli uccelli.
+
+<sup>5</sup> Nelle bandite di caccia e nelle riserve per gli uccelli la caccia è proibita. Gli organi esecutivi cantonali possono tuttavia permettere l’abbattimento di selvaggina se necessario per la protezione del biotopo, per la conservazione della diversità delle specie, per la cura della selvaggina o per la prevenzione di eccessivi danni da essa provocati.
+
+<sup>6</sup> Il Consiglio federale emana disposizioni per la protezione delle bandite federali di caccia e delle riserve per gli uccelli acquatici e di passo, d’importanza internazionale e nazionale. Sulla base di accordi di programma la Confederazione accorda ai Cantoni indennità globali per le spese di vigilanza di tali riserve e aree.[^11-1]
+
+[^11-1]: Nuovo testo del per. giusta il n. II 31 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+## Capitolo 4: Danni causati dalla selvaggina
+
+#### Art. 12
+
+**Prevenzione dei danni causati dalla selvaggina**
+
+<sup>1</sup> I Cantoni prendono misure preventive contro i danni causati dalla selvaggina.
+
+<sup>2</sup> Essi possono ognora ordinare o permettere misure contro singoli animali protetti o cacciabili che causano danni rilevanti. Possono affidare l’esecuzione di queste misure unicamente a persone titolari di un’autorizzazione di caccia o a organi di sorveglianza.[^12-1]
+
+<sup>2bis</sup> Il Consiglio federale può designare le specie animali protette contro le quali l’Ufficio federale ordina le misure di cui al capoverso 2.[^12-2]
+
+<sup>3</sup> I Cantoni stabiliscono le misure ammesse di autodifesa contro la selvaggina per la protezione di animali domestici, beni immobili e colture agricole. Il Consiglio federale designa le specie protette contro le quali possono essere prese queste misure di autodifesa.
+
+<sup>4</sup> Se una specie protetta presenta un effettivo eccessivo per cui causa danni ingenti o grave pericolo, i Cantoni possono prendere misure per diminuirne l’effettivo, previo consenso del Dipartimento.
+
+<sup>5</sup> La Confederazione promuove e coordina le misure dei Cantoni volte a prevenire i danni causati dalla selvaggina, segnatamente quelli causati dai grandi predatori agli animali da reddito.[^12-3] Può affidare l’esecuzione di tali compiti, contro indennità, a corporazioni di diritto pubblico o a privati.[^12-4]
+
+[^12-1]: Nuovo testo giusta il n. II 11 dell’all. alla LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-2]: Introdotto dal n. II 11 dell’all. alla LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-3]: Introdotto dal n. 9 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-4]: Per. introdotto dal n. 2 dell’all. alla L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+#### Art. 13
+
+**Risarcimento dei danni causati dalla selvaggina**
+
+<sup>1</sup> Per i danni causati dalla selvaggina al bosco, alle colture agricole e ad animali da reddito è corrisposto un equo risarcimento. Sono eccettuati i danni causati da animali contro i quali sono ammesse misure di autodifesa a tenore dell’articolo 12 capoverso 3.
+
+<sup>2</sup> I Cantoni disciplinano l’obbligo di risarcimento. Il risarcimento è dovuto soltanto per quanto non si tratti di danni insignificanti e siano state prese le misure che si potevano ragionevolmente pretendere per prevenire il danno. Le spese per siffatte misure possono essere computate nel calcolo dell’indennità.
+
+<sup>3</sup> La Confederazione accorda ai Cantoni, sulla base di accordi di programma, indennità globali per le spese di risarcimento dei danni causati dalla selvaggina nelle riserve e nelle aree di cui all’articolo 11 capoverso 6.[^13-1]
+
+<sup>4</sup> Confederazione e Cantoni partecipano al risarcimento dei danni causati da certi animali protetti. Il Consiglio federale, sentiti i Cantoni, designa queste specie protette e determina le condizioni dell’obbligo di risarcimento.
+
+[^13-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+## Capitolo 5: Informazione, formazione e ricerca
+
+#### Art. 14
+
+<sup>1</sup> I Cantoni provvedono affinché la popolazione sia sufficientemente informata sul modo di vita degli animali selvatici, sui loro bisogni e sulla loro protezione.
+
+<sup>2</sup> Essi disciplinano la formazione e la formazione continua degli organi di protezione della selvaggina e dei cacciatori. La Confederazione tiene corsi per la formazione continua complementare degli organi di protezione della selvaggina delle zone federali protette.[^14-1]
+
+<sup>3</sup> La Confederazione promuove lo studio sugli animali selvatici, sulle loro malattie e sul loro biotopo. Per questo scopo, l’Ufficio federale può consentire deroghe alle disposizioni della presente legge concernenti gli animali protetti. Per le deroghe riguardanti gli animali cacciabili sono competenti i Cantoni.
+
+<sup>4</sup> La Confederazione gestisce il Centro svizzero di documentazione per la ricerca sulla selvaggina. Essa promuove l’informazione del pubblico e può assegnare sussidi a centri di ricerca e ad altre istituzioni di importanza nazionale che sono al servizio della formazione e della ricerca.
+
+<sup>5</sup> Il Consiglio federale emana prescrizioni concernenti la marcatura di mammiferi e uccelli selvatici.
+
+[^14-1]: Nuovo testo giusta il n. 43 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+
+## Capitolo 6: Responsabilità civile e assicurazione
+
+#### Art. 15
+
+**Responsabilità civile**
+
+<sup>1</sup> Chi provoca danni nell’esercizio della caccia ne è responsabile.
+
+<sup>2</sup> Per il rimanente valgono le disposizioni del Codice delle obbligazioni[^15-1] concernenti gli atti illeciti.
+
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 16
+
+**Assicurazione**
+
+<sup>1</sup> Chi è titolare di un’autorizzazione di caccia deve concludere un’assicurazione per la responsabilità civile. Il Consiglio federale stabilisce la somma minima di copertura.
+
+<sup>2</sup> Il danneggiato può intentare direttamente l’azione contro l’assicuratore per l’ammontare della somma assicurata.
+
+<sup>3</sup> Le eccezioni derivanti dal contratto d’assicurazione o dalla legge federale del 2 aprile 1908[^16-1] sul contratto d’assicurazione non sono opponibili al danneggiato.
+
+<sup>4</sup> L’assicuratore ha un diritto di regresso contro lo stipulante o l’assicurato nella misura in cui egli potrebbe negare o ridurre la sua prestazione secondo il contratto d’assicurazione o la legge federale sul contratto d’assicurazione.
+
+[^16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+## Capitolo 7: Disposizioni penali
+
+#### Art. 17
+
+**Delitti**
+
+<sup>1</sup>
+
+È punito con una pena detentiva sino a un anno o con una pena pecuniaria chiunque, intenzionalmente e senza autorizzazione:[^17-1]
+
+- a. caccia o uccide animali delle specie cacciabili o protette, oppure cattura o tiene in cattività animali di specie protette o se ne appropria;
+- b. toglie dai nidi uova o piccoli di specie protette o disturba uccelli che covano;
+- c. importa, fa transitare, esporta, mette in vendita o aliena animali protetti, vivi o morti, come pure parti o prodotti dei medesimi o uova;
+- d. acquista, accetta in dono o in pegno, prende in custodia, dissimula, smercia o aiuta a smerciare animali vivi o morti oppure prodotti dei medesimi, di cui sa oppure dovrebbe presumere che sono stati ottenuti con un reato;
+- e. entra, senza un motivo sufficiente, in una zona protetta munito di un’arma da tiro;
+- f. scaccia o attira animali fuori delle zone protette;
+- g. mette in libertà animali;
+- h. affumica, gasa, affoga o impala volpi, tassi o marmotte;
+- i.[^17-2] usa mezzi ausiliari proibiti per l’esercizio della caccia.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
+
+[^17-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+
+#### Art. 18
+
+**Contravvenzioni**
+
+<sup>1</sup>
+
+È punito con una multa sino a 20 000 franchi chiunque, intenzionalmente e senza autorizzazione:[^18-1]
+
+- a. cattura selvaggina, la tiene in cattività, se ne appropria o la importa allo scopo di metterla in libertà;
+- b. entra, senza un motivo sufficiente, in una zona di caccia munito di un’arma da tiro;
+- c. detiene, fuori dei periodi di caccia, armi o trappole sui maggenghi o sugli alpi;
+- d. lascia cacciare cani;
+- e. non osserva i provvedimenti per proteggere gli animali dai disturbi;
+- f. toglie dai nidi uova o piccoli di uccelli delle specie cacciabili;
+- g. brucia estensivamente scarpate, bordi di campi o pascoli o elimina siepi;
+- h. ostacola l’esercizio della caccia.
+
+<sup>2</sup> Il tentativo e la complicità sono punibili.
+
+<sup>3</sup> Se, nei casi previsti nel capoverso 1 lettere a-g, l’autore ha agito per negligenza, la pena è della multa.
+
+<sup>4</sup> Chiunque, durante la caccia, non reca seco i documenti prescritti o si rifiuta di esibirli agli organi di sorveglianza competenti è punito con la multa.
+
+<sup>5</sup> I Cantoni possono reprimere come contravvenzioni altre infrazioni al diritto cantonale.
+
+[^18-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+
+#### Art. 19
+
+**Applicazione alle persone giuridiche e alle società commerciali**
+
+È applicabile l’articolo 6 della legge federale del 22 marzo 1974[^19-1] sul diritto penale amministrativo.
+
+[^19-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 20
+
+**Ritiro e diniego dell’autorizzazione di caccia**
+
+<sup>1</sup>
+
+Chi ha un’autorizzazione di caccia ne è privato dal giudice per uno sino a dieci anni se:
+
+- a. intenzionalmente o per negligenza, uccide o ferisce gravemente una persona durante l’esercizio della caccia;
+- b. ha intenzionalmente commesso o tentato di commettere un delitto di cui all’articolo 17, in qualità di autore, istigatore o complice.
+
+<sup>2</sup> Il ritiro dell’autorizzazione vale per tutta la Svizzera.
+
+<sup>3</sup> I Cantoni possono prevedere altri motivi di ritiro o diniego dell’autorizzazione di caccia. Le pertinenti disposizioni amministrative valgono unicamente per il Cantone di cui si tratta.
+
+## Capitolo 8: Procedura penale
+
+#### Art. 21
+
+**Perseguimento**
+
+<sup>1</sup> Il perseguimento penale e il giudizio delle infrazioni spettano ai Cantoni.
+
+<sup>2</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria[^21-1] persegue e giudica le infrazioni commesse all’atto dell’importazione, del transito e dell’esportazione. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^21-2] sulle dogane o alla legge del 12 giugno 2009[^21-3] sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane*.*[^21-4]
+
+<sup>3</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 2 e un’infrazione alla legge federale del 16 marzo 2012[^21-5] sulla circolazione delle specie di fauna e di flora protette, alla legge federale del 16 dicembre 2005[^21-6] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^21-7] sulle derrate alimentari o alla legge del 1° luglio 1966[^21-8] sulle epizoozie, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^21-9]
+
+[^21-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014.
+[^21-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^21-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^21-4]: Nuovo testo giusta il n. 5 dell’all. 1 alla LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^21-5]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^21-6]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^21-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^21-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^21-9]: Nuovo testo giusta il n. II 8 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+
+#### Art. 22
+
+**Obbligo di comunicazione**[^22-1]
+
+<sup>1</sup> Ogni ritiro dell’autorizzazione di caccia pronunciato dal giudice deve essere comunicato all’Ufficio federale.
+
+<sup>2</sup> L’Ufficio federale comunica ai Cantoni un elenco delle persone cui l’autorizzazione è stata ritirata; questo elenco permette ai Cantoni di assicurare il ritiro dell’autorizzazione sul loro territorio.
+
+<sup>3</sup> L’Ufficio federale può conservare tali dati in una collezione elettronica di dati. Una volta scaduto il termine per il ritiro dell’autorizzazione di caccia, cancella le registrazioni elettroniche e distrugge le relative decisioni cantonali. Può conservare queste ultime dopo averle rese anonime per scopi scientifici o statistici.
+
+[^22-1]: Nuovo testo giusta il n. VIII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+
+#### Art. 23
+
+**Risarcimento di danni**
+
+L’affittuario, in zone con regime di riserva, e il Cantone o il Comune, nelle altre zone, hanno diritto di esigere il risarcimento del danno causato da un delitto di caccia o da una contravvenzione. Per il resto sono applicabili le disposizioni del Codice delle obbligazioni[^23-1].
+
+[^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+## Capitolo 9: Esecuzione e procedura****
+
+[^chap9-1]
+
+[^chap9-1]: Nuovo testo giusta in n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+
+#### Art. 24
+
+**Esecuzione da parte della Confederazione[^24-1]**
+
+Il Consiglio federale emana le disposizioni esecutive.
+
+[^24-1]: Nuovo testo giusta in n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+
+#### Art. 25
+
+**Esecuzione da parte dei Cantoni[^25-1]**
+
+<sup>1</sup> L’esecuzione della presente legge incombe ai Cantoni sotto la sorveglianza della Confederazione: Essi rilasciano tutte le autorizzazioni che non competono a un’autorità federale in virtù della presente legge.
+
+<sup>2</sup> Le disposizioni cantonali d’esecuzione concernenti la proroga del periodo di protezione, la restrizione della lista delle specie cacciabili (art. 5 cpv. 4), la protezione degli animali contro i disturbi (art. 7 cpv. 4), la protezione dei giovani animali, delle loro madri e degli uccelli adulti (art. 7 cpv. 5), come anche le misure di autodifesa (art. 12 cpv. 3) devono essere approvate dalla Confederazione[^25-2].
+
+<sup>3</sup> Tutti gli atti normativi cantonali concernenti la caccia devono essere comunicati all’Ufficio federale prima della loro entrata in vigore.
+
+[^25-1]: Nuovo testo giusta in n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^25-2]: Espr. modificata dal n. III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+
+#### Art. 25a
+
+[^25a-1]
+
+[^25a-1]: Introdotto dal n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dal n. 128 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 26
+
+**Diritto di perquisizione e di sequestro**
+
+I Cantoni disciplinano il diritto di perquisire i locali e gli impianti e di sequestrare oggetti al fine di garantire l’esecuzione della presente legge. Essi conferiscono alle persone incaricate dell’esecuzione la qualità di funzionari della polizia giudiziaria.
+
+## Capitolo 10: Disposizioni finali
+
+#### Art. 27
+
+**Abrogazione e modificazione di leggi federali**
+
+### La legge federale del 10 giugno 1925** sulla caccia e la protezione degli uccelli è abrogata.
+
+[^27-subdivu1-1]
+
+[^27-subdivu1-1]: [CS **9** 552; [RU 1954 455](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)n. I n. 7, [1959 953](https://fedlex.data.admin.ch/eli/oc/1959/931_961_953)art. 11 lett. c, [1962 852](https://fedlex.data.admin.ch/eli/oc/1962/794_832_852), [1971 855](https://fedlex.data.admin.ch/eli/oc/1971/852_854_855), [1977 1907](https://fedlex.data.admin.ch/eli/oc/1977/1907_1907_1907)art. 1, 2, [1981 497](https://fedlex.data.admin.ch/eli/oc/1981/497_497_497)art. 1]
+
+### e 3.
+
+...[^27-subdivu2-1]
+
+[^27-subdivu2-1]: Le mod. possono essere consultate alla [RU 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506)
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Abrogato dal n. II 50 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 29
+
+**Referendum e entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore 1° aprile 1988[^29-1]
+
+[^29-1]: DCF del 29 feb. 1988.

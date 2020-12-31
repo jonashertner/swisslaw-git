@@ -1,0 +1,275 @@
+---
+sr: "360.1"
+title: "Ordinanza del 30 novembre 2001 sull'adempimento di compiti di polizia giudiziaria in seno all'Ufficio federale di polizia"
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
+language: it
+version: 2017-09-01
+adopted: 2001-11-30
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20170901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20170901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sull’adempimento di compiti di polizia giudiziaria in seno all’Ufficio federale di polizia
+
+del 30 novembre 2001 (Stato 1° settembre 2017) (Stato 1° settembre 2017)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 4 capoverso 1, 6 capoverso 2 e 13 capoverso 1 della legge federale del 7 ottobre 1994[^ingress-1] sugli Uffici centrali di polizia giudiziaria della Confederazione (LUC); visti gli articoli 10, 11 e 13 della legge federale del 13 giugno 2008[^ingress-2] sui sistemi d’informazione di polizia della Confederazione; visti gli articoli 100–124 della legge federale del 15 giugno 1934[^ingress-3] sulla procedura penale,[^ingress-4]
+
+ordina:
+
+[^ingress-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^ingress-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-3]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. I cpv. 1]. Vedi ora il Codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^ingress-4]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+
+#### Art. 1
+
+**Polizia giudiziaria federale in seno all’Ufficio federale di polizia**
+
+La Polizia giudiziaria federale in seno all’Ufficio federale di polizia (fedpol) funge da:[^1-1]
+
+- a. polizia giudiziaria della Confederazione;
+- b. Ufficio centrale per la lotta contro la criminalità organizzata, ai sensi dell’articolo 7 LUC;
+- c. Ufficio centrale per la lotta contro il traffico illegale di stupefacenti, ai sensi dell’articolo 9 LUC e dell’articolo 29 della legge federale del 3 ottobre 1951[^1-2] sugli stupefacenti;
+- d. Ufficio centrale per la lotta contro la falsificazione delle monete, ai sensi dell’articolo 12 della Convenzione internazionale del 20 aprile 1929[^1-3] per la lotta contro la falsificazione delle monete;
+- e. Ufficio centrale per la lotta contro la tratta delle bianche, ai sensi dell’articolo 1 dell’Accordo internazionale del 18 maggio 1904[^1-4] inteso a garantire una protezione efficace contro il traffico criminale conosciuto sotto il nome di tratta delle bianche;
+- f. Ufficio centrale per la lotta contro la diffusione delle pubblicazioni oscene, ai sensi dell’articolo 1 dell’Accordo internazionale del 4 maggio 1910[^1-5] per reprimere la diffusione delle pubblicazioni oscene.
+
+[^1-1]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^1-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^1-3]: [RS 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
+[^1-4]: [RS 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
+[^1-5]: [RS 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
+
+#### Art. 2
+
+**Compiti di polizia giudiziaria**
+
+<sup>1</sup> In qualità di polizia giudiziaria della Confederazione, la Polizia giudiziaria federale esegue, sotto la direzione del Ministero pubblico della Confederazione, indagini preliminari e investigazioni nella sfera di competenza della Confederazione, se sussistono indizi e informazioni che motivano un sospetto di reato.
+
+<sup>2</sup> Nell’ambito della sua attività di polizia giudiziaria, la Polizia giudiziaria federale effettua analisi operative tese a fornire aiuto e sostegno nel trattamento di casi complessi.
+
+<sup>3</sup> La comunicazione di dati provenienti da investigazioni di polizia giudiziaria è retta dalle prescrizioni della legge federale del 15 giugno 1934 sulla procedura penale nonché dalla legge federale del 20 marzo 1981[^2-1] sull’assistenza internazionale in materia penale.
+
+[^2-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+
+#### Art. 3
+
+**Compiti quale Ufficio centrale di polizia giudiziaria**[^3-1]
+
+<sup>1</sup> In qualità di Ufficio centrale per la lotta contro la criminalità organizzata e attiva a livello internazionale, la Polizia giudiziaria federale svolge, in collaborazione con la divisione principale Cooperazione internazionale di polizia dell’Ufficio federale di polizia, i compiti d’informazione e coordinamento previsti nell’articolo 2 lettere a, b, d ed e LUC.
+
+<sup>2</sup>
+
+Nell’ambito della sua attività di coordinamento, la Polizia giudiziaria federale garantisce:
+
+- a. il contatto con le autorità nazionali ed estere di perseguimento penale e di polizia;
+- b. lo svolgimento coordinato delle investigazioni sul piano temporale e materiale;
+- c.[^3-2] la conduzione degli agenti di collegamento di fedpol della divisione principale Cooperazione internazionale di polizia distaccati all’estero.
+
+<sup>2bis</sup> La divisione principale Cooperazione internazionale di polizia garantisce l’assistenza agli agenti di collegamento stranieri distaccati in Svizzera.
+
+<sup>3</sup> L’attività d’analisi strategica ai sensi dell’articolo 2 lettera c LUC è espletata dalla divisione Analisi in seno all’Ufficio federale di polizia. Vi rientra l’analisi dei dati relativi a gruppi di autori, segnatamente la loro provenienza, composizione, delinquenza e specificità, nonché ai tipi di reati e ai metodi utilizzati per commetterli. I rapporti di situazione sono allestiti a destinazione del Dipartimento federale di giustizia e polizia e delle autorità di perseguimento penale della Confederazione e dei Cantoni. Essi possono essere resi accessibili sotto forma anonima anche ad altre autorità o organizzazioni sempreché siano necessari all’adempimento dei loro compiti. Si può rinunciare a rendere anonimi i dati qualora le autorità di perseguimento penale abbiano già reso noto al pubblico l’identità degli interessati e le fattispecie che li concernono. È fatta salva la comunicazione di dati personali ai sensi degli articoli 5–7.
+
+[^3-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^3-2]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+
+#### Art. 4
+
+**Collaborazione con le autorità**
+
+<sup>1</sup>
+
+Le seguenti autorità sono tenute, su richiesta della Polizia giudiziaria federale, a collaborare e a informare ai sensi dell’articolo 4 LUC:
+
+- a. autorità di perseguimento penale, segnatamente pubblici ministeri, giudici istruttori, autorità preposte all’assistenza giudiziaria e organi di polizia giudiziaria della Confederazione e dei Cantoni;
+- b. servizi di polizia, segnatamente organi di polizia di sicurezza e amministrativa della Confederazione e dei Cantoni, nonché autorità della Confederazione incaricate dell’esecuzione della legge federale del 21 marzo 1997[^4-1] sulle misure per la salvaguardia della sicurezza interna (LMSI);
+- c. organi delle guardie di confine e delle dogane;
+- d.[^4-2] autorità della Confederazione e dei Cantoni che svolgono compiti in materia di diritto degli stranieri e sono competenti in materia d’entrata e soggiorno degli stranieri, nonché di concessione dell’asilo o di ammissione provvisoria;
+- e. controlli degli abitanti e registri pubblici, segnatamente registri di commercio, di stato civile, fiscale, della circolazione stradale, dell’aviazione civile nonché registro fondiario;
+- f. autorità competenti per le relazioni diplomatiche e consolari;
+- g. autorità competenti per il rilascio dei permessi nell’ambito della circolazione di determinati beni.
+
+<sup>2</sup> Le autorità di cui al capoverso 1 sono tenute a fornire informazioni qualora i dati personali richiesti siano indispensabili all’adempimento dei compiti legali della Polizia giudiziaria federale. Inoltre esse trasmettono alla Polizia giudiziaria federale tutti i dati, non relativi a persone, che la Polizia giudiziaria federale necessita per l’adempimento del mandato legale e le forniscono appoggio logistico.
+
+<sup>3</sup>
+
+Le informazioni di cui al capoverso 2 comprendono segnatamente:
+
+- a. informazioni di natura tecnica o statistica, relative a reati, Paesi e popolazioni, nonché indicazioni sui metodi utilizzati per commettere i reati;
+- b. la partecipazione a gruppi di lavoro o d’inchiesta degli Uffici centrali, previa reciproca consultazione e nell’ambito delle possibilità d’ordine personale e finanziario.
+
+<sup>4</sup> Per la domanda d’assistenza amministrativa la Polizia giudiziaria federale fornisce, di norma, una motivazione orale sommaria al servizio al quale ha chiesto informazioni. Essa può rifiutare di fornire una motivazione qualora si tratti di informazioni di portata minore, oppure qualora i diritti della personalità dell’interessato potessero risultarne pregiudicati. In caso di informazioni di vasta portata, il servizio richiesto può esigere una motivazione scritta della domanda. La motivazione scritta può essere presentata posteriormente quando vi sia pericolo nel ritardo.
+
+<sup>5</sup> La Polizia giudiziaria federale può fissare temi d’informazione prioritari nonché standardizzare il rilascio delle informazioni. A questo proposito si tiene conto, in particolare, delle richieste delle autorità cantonali di perseguimento penale e di polizia.
+
+[^4-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^4-2]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+
+#### Art. 5
+
+**Comunicazione di dati personali ad autorità tenute a fornire informazioni**
+
+<sup>1</sup> Per ottenere le informazioni di cui necessita e per motivare le sue domande d’assistenza amministrativa, la Polizia giudiziaria federale può comunicare i dati personali alle autorità menzionate nell’articolo 4.
+
+<sup>2</sup>
+
+La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati personali alle seguenti autorità, a sostegno dell’adempimento dei loro compiti legali:
+
+- a. autorità di cui all’articolo 4 capoverso 1 lettera a, per i loro procedimenti penali, investigazioni di polizia giudiziaria e procedure d’assistenza giudiziaria;
+- b. autorità di cui all’articolo 4 capoverso 1 lettere b e c, per le loro procedure d’investigazione di polizia giudiziaria e per l’adempimento dei compiti ai sensi della LMSI[^5-1];
+- c. autorità di cui all’articolo 4 capoverso 1 lettera d, per l’adempimento dei compiti di polizia degli stranieri nonché per impedire o perseguire abusi nell’ambito delle disposizioni d’entrata e di soggiorno e in quello della legislazione in materia d’asilo.
+
+[^5-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+
+#### Art. 6
+
+**Comunicazione di dati personali ad altri destinatari**
+
+<sup>1</sup>
+
+Per ottenere le informazioni di cui necessita e per motivare le sue domande d’assistenza amministrativa, la Polizia giudiziaria federale può comunicare i dati personali ai seguenti altri destinatari:
+
+- a. altri servizi del fedpol;
+- b. autorità competenti in materia di corrispondenza postale, telefonica e telegrafica, per ordinare ed eseguire misure di sorveglianza ufficiale;
+- c. autorità di altri Paesi che svolgono funzioni di perseguimento penale e di polizia nella misura in cui siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
+- d. organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL) sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
+- e. autorità federali e cantonali competenti in materia di finanze;
+- f. Amministrazione federale delle finanze;
+- g. Autorità federale di vigilanza sui mercati finanziari[^6-1];
+- h. Commissione federale delle case da gioco;
+- i. Autorità federale di vigilanza sui mercati finanziari[^6-2];
+- j. Segreteria di Stato dell’economia[^6-3];
+- k. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c nonché d LMSI[^6-4];
+- l. Ufficio federale dell’aviazione civile;
+- m. autorità competenti in materia di acquisto di fondi da parte di persone all’estero;
+- n. organizzazioni non governative, segnatamente quelle che operano in favore della lotta contro lo sfruttamento sessuale a fini commerciali, sempreché si tratti di impedire e d’individuare forme particolari di criminalità;
+- o. autorità di vigilanza della Confederazione e dei Cantoni.
+
+<sup>2</sup>
+
+La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati personali alle seguenti autorità, a sostegno dell’adempimento dei loro compiti legali:
+
+- a. altri servizi del fedpol;
+- b. autorità di altri Paesi, che svolgono funzioni di perseguimento penale, per le loro investigazioni di polizia giudiziaria sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
+- c. organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL) sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
+- d. autorità federali e cantonali competenti in materia di finanze, per le loro investigazioni di polizia giudiziaria in ambito fiscale;
+- e. Amministrazione federale delle finanze, per i suoi procedimenti penali amministrativi;
+- f.[^6-5] Autorità federale di vigilanza sui mercati finanziari, a sostegno della sua attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari giusta l’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^6-6] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
+- g. Commissione federale delle case da gioco, a sostegno dell’attività di vigilanza svolta nell’ambito della legislazione sulle case da gioco;
+- h.[^6-7] ...
+- i. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c e d LMSI, per i loro accertamenti, sempreché si tratti di informazioni attendibili.
+
+<sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni nonché all’Incaricato federale della protezione dei dati e della trasparenza[^6-8] per l’adempimento delle loro funzioni di controllo.
+
+<sup>4</sup> La Polizia giudiziaria federale deve offrire all’Archivio federale, per l’archiviazione, tutti i documenti di cui non ha più bisogno in modo permanente ai sensi della legge federale del 26 giugno 1998[^6-9] sull’archiviazione.
+
+[^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Commissione federale delle banche.
+[^6-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Servizio di controllo in materia di riciclaggio di denaro.
+[^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-5]: Nuovo testo giusta il n. 4 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-7]: Abrogata dal n. 4 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-8]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-9]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 7
+
+**Restrizioni della comunicazione di dati**
+
+<sup>1</sup> In occasione della comunicazione di dati occorre tenere conto dei divieti d’utilizzazione. La Polizia giudiziaria federale può comunicare a Stati esteri dati concernenti richiedenti l’asilo, rifugiati riconosciuti e persone bisognose di protezione e persone ammesse provvisoriamente, soltanto previa consultazione dell’ufficio federale competente.
+
+<sup>2</sup> La Polizia giudiziaria federale nega o limita la comunicazione di dati qualora interessi preponderanti pubblici o privati vi si oppongano.
+
+<sup>3</sup> Nell’ambito di una procedura d’investigazione di polizia giudiziaria, gli organi preposti al perseguimento penale o i servizi di polizia che collaborano con la Polizia giudiziaria federale possono comunicare i dati di cui dispongono alle altre autorità di perseguimento penale e di polizia del loro Cantone. La Polizia giudiziaria federale deve esserne informata.
+
+<sup>4</sup> In occasione di ogni comunicazione, i destinatari devono essere informati sull’attendibilità e attualità dei dati. Essi possono utilizzare i dati soltanto per lo scopo per il quale sono stati loro comunicati. Devono essere messi a conoscenza delle restrizioni d’uso e del fatto che la Polizia giudiziaria federale si riserva il diritto di informarsi in merito all’impiego dei dati.
+
+#### Art. 8
+
+**Agenti di collegamento di fedpol[^8-1]**
+
+<sup>1</sup> Gli agenti di collegamento di fedpol sono annunciati presso lo Stato ospitante in qualità di addetti diplomatici dell’Ambasciata di Svizzera. Sul piano tecnico sono subordinati alla divisione principale Cooperazione internazionale di polizia.[^8-2]
+
+<sup>2</sup>
+
+Gli agenti di collegamento di fedpol adempiono segnatamente i compiti seguenti:[^8-3]
+
+- a. tutela di tutti gli interessi delle autorità svizzere di perseguimento penale nello Stato ospitante nei settori della criminalità organizzata come pure in altri casi rilevanti di polizia giudiziaria suscettibili d’assistenza giudiziaria, nonché, a titolo supplementare, nel campo della criminalità economica;
+- b. sostegno alle autorità di perseguimento penale dello Stato ospitante in casi rilevanti di polizia giudiziaria suscettibili d’assistenza giudiziaria;
+- c. raccolta e scambio d’informazioni nei settori di competenza della Polizia giudiziaria federale, segnatamente analisi di nuove forme di criminalità;
+- d. consulenza alle autorità di perseguimento penale dello Stato ospitante nei settori di competenza della Polizia giudiziaria federale;
+- e. partecipazione a conferenze e congressi organizzati nella regione di stazionamento sui temi di competenza della Polizia giudiziaria federale;
+- f. collaborazione nel quadro di tutte le questioni d’assistenza giudiziaria e d’estradizione riguardanti autorità svizzere.
+
+<sup>3</sup> Per adempiere i loro compiti gli agenti di collegamento di fedpol collaborano con le autorità estere ai sensi dell’articolo 13 capoverso 2 LUC e dell’articolo 6 capoverso 2 lettere a e b della presente ordinanza.[^8-4] Per la collaborazione con le autorità svizzere si applicano gli articoli 4–7.
+
+<sup>3bis</sup> Fedpol, d’intesa con l’Amministrazione federale delle dogane (AFD), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’AFD. Nel quadro dei compiti attribuiti da fedpol, gli agenti di collegamento dell’AFD sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, sempreché ciò sia necessario all’adempimento dei compiti.[^8-5]
+
+<sup>4</sup> La conclusione di accordi con l’estero sullo stazionamento degli agenti di collegamento di fedpol spetta al Dipartimento federale di giustizia e polizia.[^8-6]
+
+[^8-1]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-2]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-3]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-4]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-5]: Introdotto dal n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-6]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+
+#### Art. 9
+
+**Obbligo d’informazione nel settore della criminalità organizzata**
+
+<sup>1</sup> Per autorità di perseguimento penale di cui all’articolo 8 capoverso 1 LUC s’intendono i pubblici ministeri, i giudici istruttori, le autorità preposte all’assistenza giudiziaria nonché gli organi della polizia giudiziaria di Confederazione e Cantoni. Le informazioni che tali autorità sono tenute a comunicare alla Polizia giudiziaria federale hanno lo scopo di fornire reciproco sostegno per facilitare l’adempimento dei compiti legali.
+
+<sup>2</sup>
+
+Vanno comunicate l’apertura e l’archiviazione di procedure d’investigazione nonché le informazioni di polizia giudiziaria in merito a:
+
+- a. organizzazioni per le quali sussiste un sospetto sufficientemente fondato che si tratti di associazioni criminali ai sensi dell’articolo 260<sup>ter</sup> CP;
+- b. persone nei riguardi delle quali sussistono sospetti sufficientemente fondati che preparino, commettano o sostengano reati per i quali si presume la partecipazione di un’organizzazione ai sensi della lettera a;
+- c. persone nei riguardi delle quali sussistono sospetti sufficientemente fondati che appartengano o sostengano un’organizzazione ai sensi della lettera a;
+- d. persone nei riguardi delle quali sussistono sospetti sufficientemente fondati che preparino, commettano o sostengano reati ai sensi dell’articolo 340<sup>bis</sup> CP.
+
+<sup>3</sup> La Polizia giudiziaria federale può informare regolarmente in merito a indicatori che facciano supporre l’esistenza di organizzazioni ai sensi dell’articolo 260<sup>ter</sup> numero 1 capoverso 1 CP.
+
+#### Art. 10
+
+**Obbligo d’informazione nel settore del traffico illegale di stupefacenti**
+
+<sup>1</sup> Soggiacciono all’obbligo d’informazione di cui all’articolo 10 LUC le autorità di perseguimento penale, segnatamente i pubblici ministeri, i giudici istruttori, le autorità preposte all’assistenza giudiziaria nonché gli organi della polizia giudiziaria dei Cantoni, incaricati di perseguire le infrazioni alla legge federale del 3 ottobre 1951[^10-1] sugli stupefacenti.
+
+<sup>2</sup> Conformemente all’articolo 10 LUC vanno comunicate tutte le procedure d’investigazione avviate per infrazioni alla legge federale del 3 ottobre 1951 sugli stupefacenti, nonché le relative misure tecniche di vigilanza. Ove l’infrazione riguardi soltanto il consumo e il traffico di esigue quantità di stupefacenti, ci si può limitare, indicando tale circostanza, a fornire informazioni concise.
+
+[^10-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+
+#### Art. 10a
+
+**Sovvenzioni all’Istituto svizzero di polizia**[^10a-1]
+
+<sup>1</sup> Sono in particolare considerate prestazioni per le quali la Confederazione versa sovvenzioni all’Istituto svizzero di polizia (ISP) i corsi di formazione e di aggiornamento concernenti la sicurezza interna e organizzati per i collaboratori della Confederazione o degli organi cantonali di sicurezza. La sovvenzione è stabilita in modo forfettario in base al programma annuale dell’ISP.
+
+<sup>2</sup> Nei limiti dei crediti stanziati, gli uffici federali interessati e l’ISP si accordano su contenuto, modalità e portata dell’esecuzione, scelta dei conferenzieri nonché sulla cerchia di interessati alle riunioni organizzate con la partecipazione finanziaria della Confederazione nell’ambito della LMSI.
+
+[^10a-1]: Introdotto dal n. II 5 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 11
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 19 novembre 1997[^11-1] sugli Uffici centrali di polizia giudiziaria in seno all’Ufficio federale di polizia è abrogata.
+
+[^11-1]: [[RU 1998 34](https://fedlex.data.admin.ch/eli/oc/1998/34_34_34), [2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)art. 125 n. 1]
+
+#### Art. 12
+
+**Entrata in vigore**[^12-1]
+
+La presente ordinanza entra in vigore il 1° gennaio 2002.
+
+[^12-1]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).

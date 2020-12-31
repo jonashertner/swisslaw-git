@@ -1,0 +1,1523 @@
+---
+sr: "824.0"
+title: "Legge federale del 6 ottobre 1995 sul servizio civile sostitutivo (Legge sul servizio civile, LSC)"
+short: LSC
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
+language: it
+version: 2020-01-01
+adopted: 1995-10-06
+in_force: 1996-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20200101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sul servizio civile sostitutivo
+
+(Legge sul servizio civile, LSC)
+
+del 6 ottobre 1995 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 18 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 22 giugno 1994[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [CS **1** 3; [RU 1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)]. A questa disp. corrisponde ora l’art. 59 cpv. 1 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^ingress-3]: [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Principio**[^1-1]
+
+Le persone soggette all’obbligo di prestare servizio militare che non possono conciliare il servizio militare con la propria coscienza prestano, su domanda, un servizio civile sostitutivo (servizio civile) di più lunga durata secondo la presente legge.
+
+[^1-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 2
+
+**Scopo**
+
+<sup>1</sup> Il servizio civile interviene nei settori in cui le risorse per adempiere importanti compiti della comunità mancano o sono insufficienti.[^2-1]
+
+<sup>2</sup> Serve a scopi civili ed è prestato al di fuori dell’esercito.
+
+<sup>3</sup> Chi presta servizio civile fornisce un lavoro di pubblico interesse.
+
+[^2-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 3
+
+**Lavoro di pubblico interesse**
+
+Un lavoro è di pubblico interesse se adempiuto presso un ente pubblico o presso un ente privato che svolge un’attività di utilità pubblica.
+
+#### Art. 3a
+
+**Obiettivi**[^3a-1]
+
+<sup>1</sup>
+
+Il servizio civile contribuisce a:
+
+- a. rafforzare la coesione sociale, in particolare migliorando la situazione delle persone bisognose di assistenza, di aiuto e di cure;
+- b. costituire strutture volte al consolidamento della pace e arginare i potenziali di violenza;
+- c. salvaguardare e mantenere le basi naturali della vita e promuovere lo sviluppo sostenibile;
+- d. conservare il patrimonio culturale;
+- e.[^3a-2] sostenere la formazione e l’educazione scolastiche.
+
+<sup>2</sup> Esso fornisce il proprio contributo nell’ambito dei compiti della Rete integrata Svizzera per la sicurezza.[^3a-3]
+
+[^3a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^3a-2]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^3a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 4
+
+**Ambiti d’attività**
+
+<sup>1</sup>
+
+Il servizio civile attua i suoi obiettivi nei seguenti ambiti d’attività:[^4-1]
+
+- a. sanità;
+- b. servizi sociali;
+- b<sup>bis</sup>.[^4-2] scuola, dal livello prescolastico al livello secondario II;
+- c.[^4-3] conservazione dei beni culturali;
+- d.[^4-4] protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste;
+- e.[^4-5] *...*
+- f. agricoltura;
+- g. cooperazione allo sviluppo e aiuto umanitario;
+- h.[^4-6] prevenzione e aiuto in caso di catastrofe e di situazioni d’emergenza nonché rigenerazione dopo simili eventi.
+
+<sup>1bis</sup> Qualora le possibilità di impieghi negli ambiti d’attività di cui al capoverso 1 siano prevedibilmente inferiori alla domanda, il Consiglio federale può autorizzare a titolo di prova e per un periodo limitato impieghi in altri ambiti d’attività al fine di verificarne l’idoneità.[^4-7]
+
+<sup>2</sup>
+
+Qualora le esigenze di cui all’articolo 3 non siano soddisfatte, gli impieghi in aziende agricole negli ambiti d’attività protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste nonché agricoltura sono permessi se sono assolti nell’ambito di progetti o programmi aventi i seguenti scopi:
+
+- a. salvaguardia delle basi naturali della vita;
+- b. cura del paesaggio rurale;
+- c. miglioramento strutturale in aziende che a tal fine ricevono aiuti agli investimenti.[^4-8]
+
+<sup>2bis</sup>
+
+Il Consiglio federale stabilisce:
+
+- a. quali progetti e programmi sono presi in considerazione;
+- b. in quali casi sono permessi impieghi anche al di fuori dei progetti e dei programmi.[^4-9]
+
+<sup>2ter</sup> Le prescrizioni concernenti la prevenzione degli infortuni devono essere rispettate.[^4-10]
+
+<sup>3</sup> Gli impieghi nel quadro dell’aiuto in caso di catastrofe e di situazioni d’emergenza sono permessi anche se i presupposti di cui all’articolo 3 non sono soddisfatti.[^4-11]
+
+<sup>4</sup> Nell’ambito dei propri campi d’attività e tenendo conto delle necessità, il servizio civile organizza programmi prioritari e ne verifica periodicamente l’efficacia. Il Consiglio federale può affidargli mandati a tal fine.[^4-12]
+
+[^4-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-2]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-3]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-5]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-6]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-7]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-8]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-9]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-10]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^4-11]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-12]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 4a
+
+**Impieghi esclusi**[^4a-1]
+
+Non sono permessi impieghi:
+
+- a.
+
+  presso un ente:
+
+  - 1\. in cui la persona che deve prestare servizio civile svolge o, nell’anno precedente il servizio civile, ha svolto un’attività dietro compenso o nell’ambito di una formazione o di una formazione continua,
+  - 2\. con il quale la persona che deve prestare servizio civile mantiene un’altra relazione particolarmente stretta, segnatamente attraverso una collaborazione a titolo volontario prolungata o intensa oppure svolta in posizione dirigenziale, oppure
+  - 3\. in cui persone vicine alla persona che deve prestare servizio civile possono influire sul suo impiego;[^4a-2]
+
+- b.[^4a-3] svolti esclusivamente a favore di persone vicine alla persona che deve prestare servizio civile;
+- c. che hanno lo scopo di influire sul processo di formazione delle opinioni politiche o di diffondere o approfondire correnti di pensiero religiose o ideologiche;
+- d.[^4a-4] che servono in primo luogo scopi privati della persona che deve prestare servizio civile, in particolare per la sua formazione o la sua formazione continua.
+
+[^4a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4a-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 5
+
+**Equivalenza**
+
+Per chi vi è soggetto, il servizio civile ordinario deve rappresentare un onere globalmente equivalente a quello che i servizi d’istruzione rappresentano per un soldato.
+
+#### Art. 6
+
+**Incidenza sul mercato del lavoro**
+
+<sup>1</sup>
+
+L’organo federale preposto all’esecuzione del servizio civile[^6-1] (organo d’esecuzione) provvede affinché l’impiego in servizio civile:
+
+- a. non minacci posti di lavoro esistenti e
+- b. non pregiudichi le condizioni salariali e di lavoro nell’istituto d’impiego;
+- c. non distorca le condizioni della concorrenza.
+
+<sup>2</sup> Il riconoscimento (art. 41 a 43) non conferisce agli istituti d’impiego alcun diritto all’assegnazione di persone che devono prestare servizio civile.
+
+<sup>3</sup> Il Consiglio federale può prevedere altri provvedimenti per tutelare il mercato del lavoro.
+
+[^6-1]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
+
+#### Art. 7
+
+**Impieghi all’estero**[^7-1]
+
+<sup>1</sup> Le persone che devono prestare servizio civile possono essere assegnate a impieghi all’estero se hanno dato il loro consenso.
+
+<sup>2</sup> Esse possono essere assegnate, anche senza il loro consenso, a impieghi nel quadro dell’aiuto in caso di catastrofe e di situazioni d’emergenza in regioni estere limitrofe.
+
+<sup>3</sup>
+
+Gli impieghi all’estero servono:
+
+- a. alla cooperazione allo sviluppo e all’aiuto umanitario;
+- b. alla prevenzione e all’aiuto in caso di catastrofe e di situazioni d’emergenza nonché alla rigenerazione dopo simili eventi;
+- c. alla promozione civile della pace.
+
+<sup>4</sup>
+
+Il Consiglio federale stabilisce:
+
+- a. i requisiti che le persone che devono prestare servizio civile e gli istituti d’impiego sono tenuti a soddisfare;
+- b. in che modo debba essere garantita la sicurezza della persona che presta servizio civile;
+- c. le modalità della collaborazione tra l’organo d’esecuzione e gli organi specializzati;
+- d. in quali altri casi sono possibili impieghi all’estero negli ambiti d’attività di cui all’articolo 4 capoverso 1.
+
+[^7-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 7a
+
+**Impieghi in relazione a catastrofi e a situazioni d’emergenza o nel quadro di programmi prioritari[^7a-2]**[^7a-1]
+
+<sup>1</sup> Trattandosi di impieghi in relazione a catastrofi e a situazioni d’emergenza o nel quadro di programmi prioritari, l’organo d’esecuzione può assumere esso stesso i diritti e gli obblighi di un istituto d’impiego.[^7a-3]
+
+<sup>2</sup> L’organo d’esecuzione coordina gli impieghi con gli organi di condotta interessati e gli organi specializzati competenti.[^7a-4]
+
+<sup>3</sup> Esso può assumere interamente o in parte, nell’ambito dei crediti stanziati, i costi supplementari non coperti dovuti a tali impieghi. Il Consiglio federale disciplina le condizioni di assunzione dei costi.
+
+[^7a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^7a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^7a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^7a-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 8
+
+**Durata del servizio civile ordinario**[^8-1]
+
+<sup>1</sup> Il servizio civile dura 1,5 volte la durata complessiva dei servizi d’istruzione previsti dalla legislazione militare che non sono ancora stati prestati. Tale fattore è di 1,1 per le persone che devono prestare servizio civile e che in precedenza sono state ufficiali o sottufficiali superiori. Per casi particolari, ad esempio riguardo a ufficiali specialisti e quadri che non hanno ancora prestato servizio pratico, il Consiglio federale disciplina come debba essere calcolata la durata del servizio civile.[^8-2]
+
+<sup>2</sup> Le persone che devono prestare servizio civile e sono assegnate a impieghi all’estero possono impegnarsi oltre la durata del servizio civile ordinario. Tuttavia, la durata complessiva di cui al capoverso 1 può essere superata al massimo della metà.
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^8-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 9
+
+**Contenuto dell’obbligo di prestare servizio civile**[^9-1]
+
+L’obbligo di prestare servizio civile vincola a:
+
+- a.[^9-2] sostenere un colloquio presso l’organo d’esecuzione (art. 19 cpv. 1);
+- b.[^9-3] presentarsi nell’istituto d’impiego, se questo lo esige (art. 19 cpv. 1);
+- c.[^9-4] partecipare ai corsi di formazione previsti (art. 36);
+- d. prestare un servizio civile ordinario sino a raggiungere la durata complessiva di cui all’articolo 8;
+- e. prestare un servizio civile straordinario anche oltre la durata complessiva di cui all’articolo 8 (art. 14).
+
+[^9-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^9-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^9-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^9-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 10
+
+**Inizio dell’obbligo di prestare servizio civile**[^10-1]
+
+<sup>1</sup> L’obbligo di prestare servizio civile inizia quando la decisione d’ammissione al servizio civile passa in giudicato. Simultaneamente termina l’obbligo di prestare servizio militare.
+
+<sup>2</sup> L’obbligo di custodia in luogo sicuro e di manutenzione dell’equipaggiamento personale, il disbrigo delle formalità amministrative per il proscioglimento dall’obbligo di prestare servizio militare e la riconsegna dell’equipaggiamento personale sono retti dalla legislazione militare.
+
+[^10-1]: Nuovo testo giusta il n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+#### Art. 11
+
+**Termine dell’obbligo di prestare servizio civile**
+
+<sup>1</sup> L’obbligo di prestare servizio civile termina con il licenziamento o con l’esclusione dal servizio civile.
+
+<sup>2</sup>
+
+Il licenziamento dal servizio civile delle persone che devono prestare servizio civile avviene:
+
+- a. per le persone che non erano incorporate nell’esercito, 12 anni dopo l’inizio dell’anno successivo a quello in cui la decisione d’ammissione è passata in giudicato;
+- b. per le persone che erano incorporate nell’esercito, entro la fine dell’anno in cui secondo la legislazione militare sarebbero state prosciolte dall’obbligo di prestare servizio militare.[^11-1]
+
+<sup>2bis</sup> Le persone che devono prestare servizio civile possono continuare a essere impiegate all’estero o nell’ambito di casi di rigore per al massimo 12 anni oltre il termine ordinario di cessazione dell’obbligo di prestare servizio civile, sempre che abbiano dato il loro consenso.[^11-2]
+
+<sup>3</sup>
+
+L’organo d’esecuzione pronuncia il licenziamento anticipato dal servizio civile di chi:
+
+- a. è incapace al lavoro prevedibilmente in modo duraturo;
+- b. ha problemi di salute e non vi sono possibilità d’impiego nel servizio civile conciliabili con tali problemi;
+- c. in relazione all’obbligo di prestare servizio civile ha fatto ricorso alla violenza nei confronti di una persona o ha minacciato di farlo in misura tale da risultare intollerabile per il servizio civile;
+- d. è stato autorizzato, su sua richiesta, a prestare servizio militare; può presentare una domanda d’ammissione al servizio militare soltanto chi ha terminato regolarmente il primo impiego di servizio civile.[^11-3]
+
+<sup>4</sup> …[^11-4]
+
+[^11-1]: Nuovo testo giusta il n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^11-2]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^11-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^11-4]: Abrogato dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 12
+
+**Esclusione dal servizio civile o da prestazioni di servizio civile**[^12-1]
+
+<sup>1</sup> L’organo d’esecuzione può escludere dal servizio civile una persona che risulta intollerabile per il servizio civile a causa di una condanna per un crimine o un delitto oppure di una misura privativa della libertà.
+
+<sup>2</sup> L’organo d’esecuzione può escludere temporaneamente una persona da prestazioni di servizio civile quando un procedimento penale pendente fa sorgere dubbi fondati in merito alla sua tollerabilità per il servizio civile.
+
+<sup>3</sup> Ai fini della decisione relativa all’esclusione dal servizio civile o da prestazioni di servizio civile, l’organo d’esecuzione può consultare, conformemente all’articolo 367 capoversi 2 lettera j e 4 del Codice penale (CP)[^12-2] in combinato disposto con l’articolo 365 capoverso 2 lettera l CP, i dati del casellario giudiziale concernenti le sentenze e i procedimenti penali pendenti.
+
+<sup>4</sup>
+
+Se necessario ai fini della decisione, l’organo d’esecuzione può chiedere per scritto:
+
+- a. all’autorità giudicante, di fornire informazioni complementari e di poter prendere visione della sentenza o degli atti di causa su cui poggia l’iscrizione nel casellario giudiziale;
+- b. al pubblico ministero, di fornire informazioni complementari e di poter prendere visione degli atti di causa su cui poggia l’iscrizione nel casellario giudiziale.
+
+<sup>5</sup> L’autorità giudicante o il pubblico ministero dà seguito alla richiesta se ciò non lede i diritti della personalità di terzi e non mette a rischio lo scopo dell’indagine.
+
+[^12-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^12-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 13
+
+**Esonero dal servizio per attività indispensabili**
+
+<sup>1</sup> Per l’esonero dal servizio civile sono applicabili per analogia gli articoli 17 e 18 della legge militare del 3 febbraio 1995[^13-1].
+
+<sup>2</sup> Gli esoneri dal servizio sono pronunciati dall’organo d’esecuzione.
+
+[^13-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 14
+
+**Servizio civile straordinario**[^14-1]
+
+<sup>1</sup> Il Consiglio federale può ordinare di prestare servizio civile straordinario per far fronte alle conseguenze di situazioni particolari e straordinarie. I Cantoni bisognosi di sostegno possono presentare richieste in tal senso all’organo federale competente.
+
+<sup>2</sup> Al servizio civile straordinario non sono applicabili gli articoli 4*a* lettere a e b, 6 capoverso 1, 19 e 28 capoverso 2.
+
+<sup>3</sup>
+
+Per il servizio civile straordinario valgono le seguenti disposizioni:
+
+- a. l’organo d’esecuzione può convocare immediatamente le persone appena ammesse al servizio civile;
+- b. i ricorsi contro il trasferimento a un servizio civile straordinario non hanno effetto sospensivo;
+- c. gli istituti d’impiego ottengono un riconoscimento provvisorio dall’organo d’esecuzione. Gli articoli 41–43 non sono applicabili;
+- d. le disposizioni della legislazione militare sulla responsabilità civile sono applicabili per analogia.
+
+<sup>4</sup> Il Consiglio federale disciplina le conseguenze finanziarie del servizio civile straordinario. Può, in merito, derogare agli articoli 7*a* capoverso 3, 29, 37 capoverso 2, 46 capoversi 1 e 2 nonché 47.
+
+<sup>5</sup>
+
+L’organo d’esecuzione:
+
+- a. stabilisce la durata del servizio civile straordinario delle persone interessate;
+- b. può decidere licenziamenti dal servizio civile oltre il termine previsto nell’articolo 11;
+- c. può ordinare un servizio di picchetto;
+- d.[^14-2] ...
+- e. può assumere esso stesso i diritti e gli obblighi di un istituto d’impiego.
+
+<sup>6</sup> Gli istituti d’impiego possono delegare temporaneamente a terzi bisognosi di sostegno il loro diritto d’impartire istruzioni conformemente all’articolo 49.
+
+<sup>7</sup> Gli impieghi straordinari di chi presta servizio civile sono computati in modo analogo a quanto avviene per chi presta servizio militare.
+
+[^14-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^14-2]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 15
+
+**Tassa d’esenzione**
+
+<sup>1</sup> Gli uomini che non adempiono del tutto o soltanto in parte il loro obbligo di prestare servizio civile prestando personalmente servizio devono pagare una tassa sostitutiva.
+
+<sup>2</sup> La tassa sostitutiva è disciplinata dalla legge federale del 12 giugno 1959[^15-1] sulla tassa d’esenzione dall’obbligo militare.
+
+[^15-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+
+#### Art. 15a
+
+**Informazione**[^15a-1]
+
+<sup>1</sup> L’organo d’esecuzione informa il pubblico e le persone interessate sul servizio civile.
+
+<sup>2</sup> Le autorità competenti informano i reclutandi sul servizio civile, in particolare durante le giornate d’orientamento.
+
+[^15a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+## Capitolo 2: Ammissione al servizio civile
+
+#### Art. 16
+
+**Momento della presentazione della domanda**[^16-1]
+
+Le persone soggette all’obbligo di prestare servizio militare possono presentare domanda di ammissione al servizio civile in qualsiasi momento.
+
+[^16-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 16a
+
+**Forma della domanda**[^16a-1]
+
+<sup>1</sup> Il richiedente presenta la propria domanda scritta all’organo d’esecuzione.
+
+<sup>2</sup> Il Consiglio federale disciplina la forma della domanda.[^16a-2]
+
+[^16a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^16a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 16b
+
+**Contenuto della domanda**[^16b-1]
+
+<sup>1</sup> Nella domanda il richiedente deve dichiarare di non poter conciliare il servizio militare con la propria coscienza e di essere disposto a prestare servizio civile secondo la presente legge.
+
+<sup>2</sup> La dichiarazione non può essere vincolata a riserve o condizioni.
+
+<sup>3</sup> Il Consiglio federale stabilisce quali dati concernenti il richiedente e il suo obbligo di prestare servizio militare sono necessari.
+
+[^16b-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 16c
+
+**Comunicazione di dati personali**[^16c-1]
+
+Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) gli fornisce le seguenti indicazioni concernenti il richiedente:
+
+- a. indicazioni sull’idoneità al servizio militare;
+- b. dati necessari per calcolare il numero di giorni di servizio civile da prestare;
+- c.[^16c-2] incorporazione nell’esercito e cessazione prevista dell’obbligo di prestare servizio militare.
+
+[^16c-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^16c-2]: Introdotta dal n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+#### Art. 17
+
+**Effetto della domanda d’ammissione**
+
+<sup>1</sup> Chi ha presentato la domanda al più tardi tre mesi prima del successivo servizio militare non è tenuto a entrare in servizio fintanto che sulla sua domanda non sia stata presa una decisione passata in giudicato.[^17-1] Le domande presentate più tardi non prosciolgono dall’obbligo di prestare servizio militare fino alla notificazione della decisione d’ammissione.[^17-2]
+
+<sup>1bis</sup> ...[^17-3]
+
+<sup>2</sup> Il Consiglio federale disciplina in quali casi si può derogare ai principi di cui al capoverso 1.
+
+[^17-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^17-2]: Nuovo testo del per. giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^17-3]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 17a
+
+**Giornata d’introduzione**[^17a-1]
+
+<sup>1</sup> Il richiedente partecipa a una giornata d’introduzione entro tre mesi dalla presentazione della propria domanda.
+
+<sup>2</sup> Lo svolgimento delle giornate d’introduzione è di competenza dell’organo d’esecuzione.
+
+<sup>3</sup> La Confederazione assume le spese di viaggio e di vitto.
+
+[^17a-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 18
+
+**Ammissione**[^18-1]
+
+<sup>1</sup> È ammesso al servizio civile chi dopo aver seguito l’intera giornata d’introduzione conferma la propria domanda. L’organo d’esecuzione stabilisce il numero di giorni di servizio civile da prestare e la durata dell’obbligo di prestare servizio civile.
+
+<sup>2</sup> L’organo d’esecuzione dichiara la domanda priva d’oggetto se il richiedente non segue la giornata d’introduzione entro tre mesi dalla presentazione della domanda.
+
+<sup>3</sup> L’organo d’esecuzione non entra nel merito della domanda se il richiedente non la conferma entro il termine fissato dal Consiglio federale.
+
+[^18-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 18a
+
+**Notificazione della decisione**[^18a-1]
+
+<sup>1</sup> L’organo d’esecuzione notifica la propria decisione al richiedente e al servizio competente del DDPS.
+
+<sup>2</sup> Una volta notificata la decisione, la domanda non può più essere ritirata.
+
+[^18a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 18b
+
+**Partecipazione alla giornata d’introduzione e ammissione durante un periodo di servizio militare**[^18b-1]
+
+<sup>1</sup> Il comando militare competente permette alla persona la cui domanda è pendente mentre sta prestando servizio militare di partecipare alla giornata d’introduzione.
+
+<sup>2</sup> Chi riceve la decisione d’ammissione al servizio civile mentre sta prestando servizio militare è licenziato dal servizio se possibile il giorno stesso, al più tardi il giorno seguente.
+
+[^18b-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 18c
+
+**Spese procedurali**[^18c-1]
+
+La procedura d’ammissione è gratuita.
+
+[^18c-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 18d
+
+[^18d-1]
+
+[^18d-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+## Capitolo 3: Prestazione del servizio civile
+
+#### Art. 19
+
+**Preparazione degli impieghi**[^19-1]
+
+<sup>1</sup> L’organo d’esecuzione informa la persona che deve prestare servizio civile circa i suoi diritti e i suoi obblighi. Può convocarla per un colloquio e invitarla a presentarsi nell’istituto d’impiego.
+
+<sup>2</sup> L’istituto d’impiego valuta l’idoneità all’impiego previsto della persona che deve prestare servizio civile e verifica se sono soddisfatti i requisiti del mansionario.
+
+<sup>3</sup>
+
+L’organo d’esecuzione verifica:
+
+- a. la reputazione della persona che deve prestare servizio civile, qualora lo preveda il mansionario;
+- b. se il comportamento tenuto nell’ambito del servizio civile dalla persona che deve prestare servizio civile fa sorgere dubbi fondati sulla sua idoneità all’impiego previsto;
+- c. se, nel caso di impieghi all’estero, la persona che deve prestare servizio civile dispone, sulla base di giustificativi, delle qualifiche necessarie secondo il mansionario.
+
+<sup>4</sup> Per la verifica della reputazione di cui al capoverso 3 lettera a l’organo d’esecuzione può consultare, conformemente all’articolo 367 capoversi 2 lettera j e 4 CP[^19-2] in combinato disposto con l’articolo 365 capoverso 2 lettera m CP, i dati del casellario giudiziale concernenti le sentenze e i procedimenti penali pendenti.
+
+<sup>5</sup>
+
+Se necessario ai fini della verifica della reputazione, l’organo d’esecuzione può chiedere per scritto:
+
+- a. all’autorità giudicante, di fornire informazioni complementari e di poter prendere visione della sentenza o degli atti di causa su cui poggia l’iscrizione nel casellario giudiziale;
+- b. al pubblico ministero, di fornire informazioni complementari e di poter prendere visione degli atti di causa su cui poggia l’iscrizione nel casellario giudiziale.
+
+<sup>6</sup> L’autorità giudicante o il pubblico ministero dà seguito alla richiesta se ciò non lede i diritti della personalità di terzi e non mette a rischio lo scopo dell’indagine.
+
+<sup>7</sup> Tra la persona che deve prestare servizio civile e l’istituto d’impiego è conclusa una convenzione d’impiego. La convenzione d’impiego deve essere approvata dall’organo d’esecuzione.
+
+<sup>8</sup> L’organo d’esecuzione rifiuta di approvare la convenzione d’impiego se la reputazione della persona che deve prestare servizio civile non ne consente l’impiego o, in caso d’impiego all’estero, se la persona non dispone delle qualifiche necessarie. L’organo d’esecuzione può rifiutarsi di approvare la convenzione d’impiego se nutre dubbi fondati sull’idoneità all’impiego della persona che deve prestare servizio civile.
+
+[^19-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 20
+
+**Frazionamento del servizio civile**[^20-1]
+
+Il servizio civile è prestato in uno o più periodi d’impiego. Il Consiglio federale disciplina la durata minima e la successione dei periodi d’impiego.
+
+[^20-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 21
+
+**Inizio del primo impiego**
+
+<sup>1</sup> La persona che deve prestare servizio civile inizia il primo impiego al più tardi nell’anno che segue il momento in cui l’ammissione al servizio civile è passata in giudicato.
+
+<sup>2</sup> Il Consiglio federale disciplina le eccezioni.
+
+#### Art. 22
+
+**Convocazione**
+
+<sup>1</sup> L’organo d’esecuzione convoca al servizio civile la persona che deve prestare servizio civile.
+
+<sup>2</sup> Esso notifica la convocazione alla persona che deve prestare servizio civile e all’istituto d’impiego al più tardi tre mesi prima dell’inizio del periodo d’impiego.[^22-1]
+
+<sup>3</sup> Il Consiglio federale disciplina i casi in cui sono applicabili termini di convocazione più brevi.[^22-2]
+
+<sup>4</sup> Le persone che devono prestare servizio civile possono partecipare, su base volontaria, a servizi di picchetto che comportano termini di convocazione più brevi.[^22-3]
+
+[^22-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^22-2]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^22-3]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 23
+
+**Interruzione di un impiego**
+
+<sup>1</sup> L’organo d’esecuzione può, per motivi gravi, interrompere un impiego.
+
+<sup>2</sup> Contro questa decisione la persona che presta servizio civile e l’istituto d’impiego possono interporre ricorso.
+
+#### Art. 24
+
+**Differimento del servizio; computo dei giorni di servizio**
+
+Il Consiglio federale emana prescrizioni concernenti la trattazione di domande di differimento del servizio e il computo dei giorni di servizio sulla durata del servizio civile.
+
+## Capitolo 4: Statuto della persona che deve prestare servizio civile
+
+### Sezione 1: Diritti e obblighi generali
+
+#### Art. 25
+
+**Diritti costituzionali e legali**
+
+Chi presta servizio civile gode dei diritti sanciti dalla Costituzione e dalla legge come nella vita civile. Sono ammissibili restrizioni soltanto se proporzionali e necessarie all’adempimento del servizio civile.
+
+#### Art. 26
+
+**Consulenza e assistenza**
+
+<sup>1</sup> Nell’ambito del servizio civile l’interessato riceve se necessario consulenza sociale e legale.[^26-1]
+
+<sup>2</sup> *...*[^26-2]
+
+<sup>3</sup> Per la consulenza e il sostegno sociale è applicabile per analogia la legge federale del 24 giugno 1977[^26-3] sulla competenza ad assistere le persone nel bisogno.
+
+<sup>4</sup> e <sup>5</sup> …[^26-4]
+
+[^26-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^26-2]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^26-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^26-4]: Abrogati dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 27
+
+**Obblighi fondamentali**
+
+<sup>1</sup> Nell’esercizio dei propri diritti e nell’adempimento dei propri obblighi chi presta servizio civile agisce secondo i principi della buona fede.
+
+<sup>2</sup> Rispetta i diritti e gli obblighi dell’istituto d’impiego e prende cura in particolare dei beni che gli sono stati affidati.
+
+<sup>3</sup>
+
+Ottempera:
+
+- a. alle istruzioni e disposizioni dell’istituto d’impiego o dei suoi delegati;
+- b. alle convocazioni e istruzioni dell’organo d’esecuzione o dei suoi delegati.
+
+<sup>4</sup> Non è vincolato da istruzioni che gli impongono un comportamento illecito.
+
+<sup>5</sup> Rispetta i diritti delle altre persone che prestano servizio civile e assume compiti supplementari connessi a impieghi di gruppo.
+
+### Sezione 2: Diritti nei riguardi dell’istituto d’impiego
+
+#### Art. 28
+
+**Orario di lavoro e tempo di riposo**
+
+<sup>1</sup> L’orario di lavoro, pause comprese, della persona che presta servizio civile corrisponde a quello dei lavoratori dell’istituto d’impiego.
+
+<sup>2</sup> Qualora non sia possibile applicare tale orario, fa stato l’orario di lavoro in uso nella regione e nella professione corrispondente.
+
+<sup>3</sup> In materia di ore supplementari, lavori a turni, di notte e nel fine settimana, l’istituto d’impiego tratta la persona in servizio come i suoi collaboratori.
+
+<sup>4</sup>
+
+Sono escluse:
+
+- a. la rimunerazione finanziaria di ore supplementari nonché di lavori a turni, di notte e nel fine settimana;
+- b.[^28-1] la concessione di un periodo di riposo supplementare per il lavoro a turni, di notte e nel fine settimana.
+
+[^28-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 29
+
+**Prestazioni a favore di chi presta servizio civile**
+
+<sup>1</sup>
+
+Per ogni giorno di servizio computabile l’istituto d’impiego fornisce alla persona che presta servizio civile le seguenti prestazioni:
+
+- a. versa un importo per le piccole spese personali corrispondente al soldo di un soldato;
+- b. mette a disposizione gli abiti e le scarpe da lavoro speciali necessari;
+- c. offre il vitto;
+- d. mette a disposizione un alloggio;
+- e. rimborsa le spese eccezionalmente necessarie del tragitto quotidiano per recarsi al lavoro;
+- f. assume i costi speciali che risultano da un impiego all’estero.
+
+<sup>2</sup> Qualora non sia in grado di fornire le prestazioni di cui al capoverso 1 lettere b, c o d, l’istituto d’impiego versa alla persona che presta servizio civile una congrua indennità finanziaria. Non deve versare un’indennità finanziaria per non aver fornito la prestazione di cui al capoverso 1 lettera d se la persona che presta servizio civile utilizza il proprio alloggio privato.[^29-1]
+
+<sup>3</sup> La Confederazione assume i costi di cui al capoverso 1 connessi a corsi di formazione secondo l’articolo 36.[^29-2]
+
+<sup>4</sup> Qualora l’istituto d’impiego sia divenuto insolvente e non sia quindi in grado di fornire le prestazioni di cui al capoverso 1, la Confederazione versa alla persona che presta servizio civile le corrispondenti prestazioni pecuniarie. Le pretese di quest’ultima nei confronti dell’istituto d’impiego passano alla Confederazione.[^29-3]
+
+[^29-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^29-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^29-3]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 30
+
+**Congedo**
+
+Il congedo è concesso dall’istituto d’impiego. Il Consiglio federale stabilisce le condizioni e la durata del congedo e stabilisce i casi in cui l’istituto d’impiego deve consultare l’organo d’esecuzione.
+
+#### Art. 31
+
+**Certificato di lavoro**[^31-1]
+
+Al termine dell’impiego la persona che presta servizio civile riceve dall’istituto d’impiego un certificato di lavoro. Se l’impiego dura meno di 54 giorni è sufficiente un attestato del lavoro svolto.
+
+[^31-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+### Sezione 3: Obblighi nei riguardi delle autorità e dell’istituto d’impiego
+
+#### Art. 32
+
+**Obbligo di notificazione e d’informazione**[^32-1]
+
+<sup>1</sup> Il Consiglio federale disciplina l’obbligo di notificazione e d’informazione delle persone che devono prestare servizio civile e delle persone che sono state escluse dal servizio civile.
+
+<sup>2</sup> In occasione delle giornate d’introduzione e dei corsi di formazione come pure durante il servizio civile ordinario possono essere effettuate inchieste a scopo scientifico.
+
+[^32-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 33
+
+**Visite mediche e misure mediche di prevenzione**
+
+<sup>1</sup> Chi deve prestare servizio civile si sottopone alle visite mediche necessarie per verificare la sua capacità al lavoro o i suoi problemi di salute.[^33-1]
+
+<sup>2</sup> Per quanto le condizioni di salute dell’interessato lo giustifichino, l’organo d’esecuzione può, per determinare la capacità al lavoro, ordinare esami medici e misure mediche di prevenzione già prima del servizio, a spese dell’assicurazione militare.
+
+[^33-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 34
+
+**Obbligo di discrezione**
+
+Chi presta servizio civile soggiace all’obbligo di discrezione vigente nell’istituto d’impiego.
+
+#### Art. 35
+
+**Attività lucrativa nell’istituto d’impiego**
+
+Chi sta prestando servizio civile non può esercitare alcuna attività lucrativa nell’istituto d’impiego.
+
+### Sezione 4: Formazione****
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 36
+
+**Corsi di formazione**[^36-1]
+
+<sup>1</sup> Chi presta servizio civile segue i corsi di formazione prescritti dall’organo d’esecuzione.
+
+<sup>2</sup>
+
+Il Consiglio federale stabilisce:
+
+- a. quali corsi di formazione sono offerti dall’organo d’esecuzione;
+- b. quando devono essere seguiti i corsi di formazione;
+- c. la durata dei corsi di formazione;
+- d. quanti giorni di servizio civile devono essere prestati tenuto conto del numero di giorni di corsi di formazione;
+- e. chi è esonerato dal seguire corsi di formazione.
+
+<sup>3</sup> L’organo d’esecuzione fissa gli obiettivi della formazione e verifica se sono stati raggiunti.
+
+<sup>4</sup> Chi ha seguito integralmente un corso di formazione riceve un attestato di frequenza.
+
+[^36-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 36a
+
+**Centro di formazione**[^36a-1]
+
+L’organo d’esecuzione gestisce un centro di formazione.
+
+[^36a-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 37
+
+**Costi**
+
+<sup>1</sup> La Confederazione assume i costi dei corsi di formazione di cui all’articolo 36.[^37-1]
+
+<sup>2</sup>
+
+Può partecipare:
+
+- a. ai costi per l’elaborazione di programmi generali;
+- b. ai costi per l’introduzione fornita dagli istituti d’impiego, se l’introduzione dev’essere impartita da terzi e comporta pertanto oneri particolari.
+
+[^37-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+### Sezione 5: Prestazioni pecuniarie della Confederazione
+
+#### Art. 38
+
+**Indennità per perdita di guadagno**[^38-1]
+
+Chi presta servizio civile ha diritto a un’indennità per perdita di guadagno conformemente alla legge del 25 settembre 1952[^38-2] sulle indennità di perdita di guadagno.
+
+[^38-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^38-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+#### Art. 39
+
+**Buoni per il viaggio e il trasporto dei bagagli**
+
+Chi presta servizio civile ottiene i necessari buoni per il viaggio e per il trasporto dei bagagli all’interno delle frontiere nazionali. La Confederazione ne assume i costi.
+
+### Sezione 6: Assicurazione
+
+#### Art. 40
+
+[^40-1]
+
+Chi presta servizio civile è assicurato conformemente alla legge federale del 19 giugno 1992[^40-2] sull’assicurazione militare; per danni alle persone la responsabilità della Confederazione è disciplinata esclusivamente da tale legge.
+
+[^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^40-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+### Sezione 7:**** Segni distintivi delle persone che prestano servizio civile, degli istituti d’impiego e degli impieghi di gruppo
+
+[^chap4-sec7-1]
+
+[^chap4-sec7-1]: Introdotta dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 40a
+
+<sup>1</sup>
+
+L’organo d’esecuzione può:
+
+- a. consegnare alle persone che devono prestare servizio civile oggetti d’equipaggiamento volti a contraddistinguerle quali persone che prestano servizio civile;
+- b. mettere targhe segnaletiche a disposizione degli istituti d’impiego;
+- c. mettere a disposizione materiale volto a contraddistinguere gli impieghi di gruppo.
+
+<sup>2</sup> Il Consiglio federale disciplina i relativi diritti e obblighi delle persone che devono prestare servizio civile e degli istituti d’impiego.
+
+## Capitolo 5: Riconoscimento quale istituto d’impiego
+
+#### Art. 41
+
+**Domanda**
+
+<sup>1</sup> Gli istituti che intendono impiegare persone che devono prestare servizio civile presentano all’organo d’esecuzione una domanda scritta di riconoscimento quale istituto d’impiego. Il Consiglio federale emana prescrizioni concernenti il contenuto della domanda, i documenti da allegare e la procedura di presentazione delle domande per via elettronica.[^41-1]
+
+<sup>2</sup> L’organo d’esecuzione non necessita di alcun riconoscimento per impiegare persone che prestano servizio civile.
+
+[^41-1]: Nuovo testo del per. giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 42
+
+**Decisione di riconoscimento**[^42-1]
+
+<sup>1</sup> L’organo d’esecuzione decide in merito al riconoscimento di un istituto d’impiego.
+
+<sup>2</sup> L’organo d’esecuzione accetta la domanda se l’istituto richiedente soddisfa i requisiti di cui agli articoli 2–6.[^42-2]
+
+<sup>2bis</sup> Se l’istituto richiedente non soddisfa i requisiti di cui all’articolo 4 capoverso 1, l’organo d’esecuzione può accettare la domanda sempre che i mansionari delle persone che prestano servizio civile contemplino esclusivamente compiti che rientrano negli ambiti d’attività di cui all’articolo 4 capoverso 1.[^42-3]
+
+<sup>2ter</sup> L’organo d’esecuzione respinge la domanda se l’istituto richiedente o l’attività prevista non corrisponde agli scopi del servizio civile.[^42-4]
+
+<sup>3</sup>
+
+L’organo d’esecuzione può respingere la domanda se:
+
+- a. in un ambito d’attività il numero di impieghi possibili è significativamente maggiore della domanda;
+- b. l’istituto richiedente non offre impieghi in un ambito d’attività appartenente a un programma prioritario.
+
+<sup>4</sup> Il riconoscimento può essere vincolato a condizioni e oneri ed essere limitato nel tempo.
+
+[^42-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^42-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^42-3]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^42-4]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 43
+
+**Procedura di riconoscimento[^43-2]**[^43-1]
+
+<sup>1</sup> L’organo d’esecuzione può sottoporre la domanda all’esame di servizi pubblici svizzeri qualificati e, all’occorrenza, di altre istituzioni specializzate.
+
+<sup>2</sup> La procedura è gratuita. Per il resto, si applicano le disposizioni della legge federale del 20 dicembre 1968[^43-3] sulla procedura amministrativa.
+
+<sup>3</sup>
+
+L’organo d’esecuzione può rinunciare a riscuotere il tributo:
+
+- a. da singoli istituti d’impiego la cui partecipazione all’esecuzione del servizio civile riveste particolare importanza e che non sarebbero altrimenti in grado di impiegare persone che prestano servizio civile;
+- b. se un istituto d’impiego impiega una persona che presta servizio civile che, durante l’impiego, necessita di sostegno o assistenza particolari;
+- c. in caso di impieghi per i quali l’istituto d’impiego riceve aiuti finanziari in virtù dell’articolo 47;
+- d. in caso di impieghi nell’ambito d’attività di cui all’articolo 4 capoverso 1 lettera h;
+- e. in caso di impieghi a titolo di prova.[^43-4]
+
+[^43-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^43-2]: [RU 2004 431](https://fedlex.data.admin.ch/eli/oc/2004/28)
+[^43-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+## Capitolo 6: Statuto dell’istituto d’impiego
+
+### Sezione 1: Rapporto con le autorità
+
+#### Art. 44
+
+**Istruzioni ed ispezioni**
+
+L’istituto d’impiego ottempera alle istruzioni e agli ordini dell’organo d’esecuzione e tollera ispezioni sul posto di lavoro della persona che presta servizio civile e nell’alloggio messole a disposizione.
+
+#### Art. 45
+
+**Obbligo d’informare**
+
+L’istituto d’impiego fornisce all’organo d’esecuzione le informazioni necessarie, segnatamente:
+
+- a. per tenere il controllo dei giorni di servizio prestati;
+- b. in rapporto a procedure penali e disciplinari nonché a casi di responsabilità civile;
+- c. per valutare i periodi di servizio ed a fini statistici.
+
+#### Art. 46
+
+**Tributi dell’istituto d’impiego**
+
+<sup>1</sup> Per ogni giorno computabile di servizio civile l’organo d’esecuzione riscuote dall’istituto d’impiego un tributo quale conguaglio per la prestazione lavorativa ottenuta. Il Consiglio federale stabilisce l’importo del tributo e disciplina le basi di calcolo.
+
+<sup>1bis</sup> Le istituzioni della Confederazione non versano alcun tributo.[^46-1]
+
+<sup>2</sup> Il Consiglio federale può sospendere l’esecuzione del capoverso 1 se la situazione economica o se la domanda di far capo a persone che prestano servizio civile non consentono la riscossione del tributo.
+
+<sup>3</sup>
+
+L’organo d’esecuzione può rinunciare a riscuotere il tributo:
+
+- a. da singoli istituti d’impiego la cui partecipazione all’esecuzione del servizio civile riveste particolare importanza e che non sarebbero altrimenti in grado di impiegare persone che prestano servizio civile;
+- b. se un istituto d’impiego impiega una persona che presta servizio civile che, durante l’impiego, necessita di sostegno o assistenza particolari;
+- c. in caso di impieghi per i quali l’istituto d’impiego riceve aiuti finanziari in virtù dell’articolo 47;
+- d. in caso di impieghi nell’ambito d’attività di cui all’articolo 4 capoverso 1 lettera h;
+- e. in caso di impieghi a titolo di prova.[^46-2]
+
+<sup>4</sup> È salvo l’articolo 6.
+
+[^46-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^46-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 47
+
+**Aiuto finanziario a favore dell’istituto d’impiego**
+
+<sup>1</sup> La Confederazione può, a titolo eccezionale ed entro i limiti dei crediti stanziati, sostenere finanziariamente progetti che servono alla conservazione dei beni culturali, alla protezione dell’ambiente e della natura, alla salvaguardia del paesaggio o alle foreste.[^47-1]
+
+<sup>2</sup> Il Consiglio federale disciplina gli altri presupposti per la concessione del sostegno finanziario e definisce i costi di progetto computabili.
+
+[^47-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+### Sezione 2: Rapporto con le persone che prestano servizio civile
+
+#### Art. 48
+
+**Obblighi dell’istituto d’impiego**[^48-1]
+
+<sup>1</sup> L’istituto d’impiego provvede a un’organizzazione sensata del servizio civile.
+
+<sup>2</sup> Introduce la persona che presta servizio civile ai compiti previsti dal mansionario.
+
+<sup>3</sup> Non può impiegarla in lavori per i quali essa non dispone delle necessarie conoscenze e capacità.
+
+<sup>4</sup> L’istituto d’impiego rispetta la personalità della persona che presta servizio civile. Non può esigere dalla stessa un comportamento illecito.
+
+<sup>5</sup> In particolare per quanto concerne la sicurezza sul lavoro e la protezione della salute, l’istituto d’impiego tratta la persona che presta servizio civile alla medesima stregua dei lavoratori che eseguono gli stessi lavori o lavori comparabili.
+
+[^48-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 49
+
+**Diritto d’impartire istruzioni**
+
+<sup>1</sup> L’istituto d’impiego ha il diritto d’impartire istruzioni a chi presta servizio civile.
+
+<sup>2</sup>
+
+Può delegare l’esercizio di tale diritto ai suoi collaboratori. Può inoltre delegarlo a terzi che:[^49-1]
+
+- a. forniscono a chi presta servizio civile una formazione introduttiva;
+- b. esso sostiene nell’ambito delle sue finalità e al servizio dei quali mette pertanto a disposizione persone che prestano servizio civile.
+
+[^49-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 50
+
+**Cessione di diritti e obblighi**[^50-1]
+
+<sup>1</sup>
+
+L’istituto d’impiego può, col consenso dell’organo d’esecuzione, cedere i suoi diritti e obblighi ad altri istituti che soddisfano i requisiti di cui agli articoli 2–6 e che:
+
+- a. vengono sostenuti dall’istituto d’impiego nell’ambito delle sue finalità; oppure
+- b. gli sono subordinati.
+
+<sup>2</sup> L’istituto d’impiego può addebitare agli istituti beneficiari al massimo i costi effettivi della sua attività di mediazione.
+
+<sup>3</sup> È escluso il prestito di persone che prestano servizio civile.
+
+[^50-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 51
+
+**Iniziazione al lavoro**
+
+L’istituto d’impiego introduce al lavoro la persona che presta servizio civile, l’informa circa i suoi compiti ed obblighi e la avvia ad un adempimento efficiente delle sue mansioni.
+
+## Capitolo 7: Responsabilità per danni
+
+#### Art. 52
+
+**Danni all’istituto d’impiego**
+
+La Confederazione risponde per i danni causati da chi presta servizio civile all’istituto d’impiego nello svolgimento del suo servizio, sempre che l’istituto possa far valere il diritto al risarcimento dei danni in applicazione, per analogia, dell’articolo 321*e* del Codice delle obbligazioni[^52-1].
+
+[^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 53
+
+**Danni a terzi e regresso dell’istituto d’impiego**
+
+<sup>1</sup> L’istituto d’impiego risponde dei danni causati a terzi da chi presta servizio civile nello svolgimento del suo servizio come se si trattasse del comportamento dei suoi lavoratori.
+
+<sup>2</sup>
+
+La Confederazione risponde dei danni giusta le disposizioni in materia di responsabilità applicabili ai lavoratori dell’istituto d’impiego:
+
+- a. se l’istituto d’impiego è una persona giuridica di diritto pubblico e se le sue disposizioni in materia di responsabilità non prevedono alcuna pretesa diretta contro essa;
+- b.[^53-1] …
+
+<sup>3</sup> Risarcito il danno, l’istituto d’impiego può esercitare regresso contro la Confederazione, sempre che conformemente all’applicazione per analogia dell’articolo 321*e* del Codice delle obbligazioni[^53-2] esso potrebbe richiedere risarcimento alla persona che presta servizio civile.
+
+[^53-1]: Abrogata dal n. 6 dell’all. alla LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 1 766,1994V897).
+[^53-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 54
+
+**Danni alla persona che presta servizio civile**
+
+<sup>1</sup> L’istituto d’impiego risponde del danno che reca a chi presta servizio civile così come se si trattasse di danni recati ai suoi lavoratori.
+
+<sup>2</sup> Se in seguito ad un sinistro la persona che presta servizio civile ha diritto a prestazioni dell’assicurazione militare, essa non può far valere alcuna pretesa contro l’istituto d’impiego e i suoi lavoratori.
+
+<sup>3</sup> L’assicurazione militare può esercitare regresso contro l’istituto d’impiego e i suoi lavoratori giusta la legge federale del 19 giugno 1992[^54-1] sull’assicurazione militare soltanto se la persona interessata ha provocato il danno intenzionalmente o per negligenza grave.
+
+[^54-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+#### Art. 55
+
+**Responsabilità civile della persona in servizio**
+
+<sup>1</sup> Chi presta servizio civile non può essere convenuto direttamente in giudizio dalla persona lesa per danni causati nell’adempimento del suo obbligo di servizio.
+
+<sup>2</sup> Risarcito il danno, la Confederazione può esercitare regresso contro la persona che presta servizio civile qualora questa l’abbia cagionato intenzionalmente o per negligenza grave.
+
+<sup>3</sup> Se il danneggiato è la Confederazione, essa ha diritto d’azione contro la persona che presta servizio civile, sempre che quest’ultima abbia causato il danno intenzionalmente o per negligenza grave.
+
+#### Art. 56
+
+**Perdita o danneggiamento di oggetti della persona che presta servizio civile**
+
+<sup>1</sup> Chi presta servizio civile assume personalmente i danni risultanti dalla perdita o dal deterioramento dei suoi oggetti privati.
+
+<sup>2</sup>
+
+La Confederazione gli versa un’equa indennità, tenendo conto in particolare se:
+
+- a. il danno è stato cagionato in rapporto diretto con l’adempimento dell’obbligo di servizio;
+- b. alla persona che presta servizio civile è imputabile una colpa propria;
+- c. per adempiere il suo obbligo di servizio la persona che presta servizio civile doveva necessariamente prendere con sé o utilizzare oggetti privati;
+- d. la persona che presta servizio civile sarà o è già stata indennizzata altrimenti per il danno subìto.
+
+#### Art. 57
+
+**Principi della responsabilità**
+
+<sup>1</sup> Sono applicabili per analogia gli articoli 42, 43 capoverso 1, 44 capoverso 1, 45 a 47, 49, 50 capoverso 1, nonché 51 a 53 del Codice delle obbligazioni[^57-1].
+
+<sup>2</sup> In caso di responsabilità della persona che presta servizio civile, si tiene adeguatamente conto delle sue condizioni personali nonché del suo precedente comportamento durante il servizio civile e delle circostanze particolari dell’impiego.
+
+[^57-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 58
+
+**Procedura**
+
+<sup>1</sup> Sulle domande di risarcimento o riparazione e sul diritto di regresso risolve in prima istanza l’autorità competente mediante decisione formale.
+
+<sup>2</sup> La competenza di pronunciare decisioni ai sensi del capoverso 1 spetta alle direzioni generali e alle direzioni di circondario dell’Azienda delle PTT[^58-1] e delle Ferrovie federali svizzere, nonché al Consiglio dei PF, sempre che siano istituti d’impiego; negli altri casi, al Dipartimento federale delle finanze.
+
+<sup>3</sup> …[^58-2]
+
+[^58-1]: Ora: La Posta Svizzera
+[^58-2]: Abrogato dal n. 105 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 59
+
+**Prescrizione, disposizioni generali**[^59-1]
+
+<sup>1</sup> Le azioni di risarcimento e di riparazione contro la Confederazione si prescrivono secondo le disposizioni del Codice delle obbligazioni[^59-2] sugli atti illeciti.
+
+<sup>2</sup> Le azioni di risarcimento della Confederazione si prescrivono in tre anni dal giorno in cui la Confederazione ha avuto conoscenza del danno e del responsabile, ma comunque in dieci anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.
+
+<sup>3</sup> Se il fatto dannoso commesso dal responsabile costituisce un fatto punibile, l’azione di risarcimento della Confederazione si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se le prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, l’azione di risarcimento si prescrive al più presto in tre anni dalla comunicazione della sentenza.
+
+[^59-1]: Nuovo testo giusta il n. 20 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 60
+
+**Prescrizione del diritto di regresso**
+
+<sup>1</sup> Per la prescrizione del diritto di regresso dell’istituto d’impiego contro la Confederazione sono applicabili le disposizioni in materia di responsabilità civile alle quali è soggetto l’istituto d’impiego.
+
+<sup>2</sup> Il diritto di regresso della Confederazione contro una persona che presta servizio civile si prescrive in tre anni dal riconoscimento o dall’accertamento con forza di giudicato della responsabilità della Confederazione, ma comunque in dieci anni o, in caso di morte di una persona o di lesione corporale, in vent’anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.[^60-1]
+
+[^60-1]: Nuovo testo giusta il n. 20 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+
+#### Art. 61
+
+**Interruzione ed opponibilità della prescrizione**
+
+<sup>1</sup> Per eccepire o interrompere la prescrizione sono applicabili per analogia gli articoli 135 a 138 e 142 del Codice delle obbligazioni[^61-1].
+
+<sup>2</sup> È considerata azione anche la richiesta scritta di risarcimento dei danni presentata alle direzioni generali e alle direzioni di circondario dell’azienda delle PTT[^61-2] e delle FFS nonché al Consiglio dei Politecnici, sempre che siano istituti d’impiego, e al Dipartimento federale delle finanze.
+
+[^61-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^61-2]: Ora: La Posta Svizzera
+
+## Capitolo 8: Tutela giurisdizionale****
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 62
+
+**Colloquio con l’istituto d’impiego; denuncia**
+
+<sup>1</sup> Qualora reputi che l’istituto d’impiego le abbia fatto subire un torto, la persona che presta servizio civile può richiedere all’istituto d’impiego un colloquio di servizio in presenza di un rappresentante dell’organo d’esecuzione.
+
+<sup>2</sup> Qualora non si raggiunga un’intesa, la persona che presta servizio civile può sporgere denuncia presso l’organo d’esecuzione contro l’istituto d’impiego. L’organo d’esecuzione sente senza indugio gli interessati e prende le misure necessarie.[^62-1]
+
+[^62-1]: Nuovo testo del per. giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+#### Art. 63
+
+**Ricorso al Tribunale amministrativo federale**[^63-1]
+
+<sup>1</sup> Contro le decisioni di prima istanza può essere interposto ricorso al Tribunale amministrativo federale.
+
+<sup>2</sup> Le autorità cantonali localmente competenti responsabili del mercato del lavoro sono legittimate a ricorrere contro le decisioni di riconoscimento di cui all’articolo 42 se fanno valere una violazione dell’articolo 6.
+
+<sup>3</sup> L’organo d’esecuzione è legittimato a ricorrere contro le decisioni di terzi incaricati ai sensi dell’articolo 79 capoverso 2.
+
+[^63-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 64
+
+[^64-1]
+
+[^64-1]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 65
+
+**Procedura dinanzi al Tribunale amministrativo federale**[^65-1]
+
+<sup>1</sup> La procedura dinanzi al Tribunale amministrativo federale è gratuita, purché non si tratti di un ricorso temerario. Non vengono versate ripetibili.
+
+<sup>2</sup> I ricorsi contro le decisioni con cui una persona che deve prestare servizio civile è convocata o trasferita a un impiego per un aiuto in caso di catastrofe o di situazione d’emergenza (art. 7*a* e 23) non hanno effetto sospensivo.
+
+<sup>3</sup> L’organo d’esecuzione può togliere l’effetto sospensivo ai ricorsi contro convocazioni a impieghi nel quadro di programmi prioritari.
+
+<sup>4</sup> Per il rimanente, la tutela giurisdizionale è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
+
+[^65-1]: Nuovo testo giusta il n. I 13 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+
+#### Art. 66
+
+**Termini di ricorso**
+
+Il termine per interporre ricorso al Tribunale amministrativo federale è di:[^66-1]
+
+- a.[^66-2] 10 giorni per ricorsi contro misure disciplinari, convocazioni e decisioni d’interruzione o di proroga di impieghi;
+- b. 30 giorni per gli altri casi.
+
+[^66-1]: Nuovo testo giusta il n. 105 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^66-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+
+## Capitolo 9: Procedura disciplinare e disposizioni penali
+
+### Sezione 1: Procedura disciplinare
+
+#### Art. 67
+
+**Mancanze disciplinari**
+
+<sup>1</sup> Qualora la persona che deve prestare servizio civile violi intenzionalmente o per negligenza obblighi imposti dalla legge o dalle relative ordinanze, l’organo d’esecuzione può disporre misure disciplinari nei suoi riguardi; sono salve le disposizioni penali di cui agli articoli 72 a 78.
+
+<sup>2</sup> Si può rinunciare all’inflizione delle misure se è sufficiente un avvertimento e un ammonimento da parte dell’istituto d’impiego.
+
+#### Art. 68
+
+**Misure disciplinari**
+
+L’organo d’esecuzione può disporre le seguenti misure disciplinari:
+
+- a. ammonimento scritto;
+- b. multa sino a 2000 franchi.
+
+#### Art. 69
+
+**Commisurazione**
+
+L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colpa; tiene inoltre conto del movente, della vita anteriore, delle condizioni personali e del precedente comportamento dell’interessato nel servizio civile.
+
+#### Art. 70
+
+**Prescrizione**
+
+<sup>1</sup> Il perseguimento di una mancanza disciplinare e l’esecuzione di una misura disciplinare si prescrivono in dodici mesi.
+
+<sup>2</sup> L’interruzione della prescrizione è esclusa.
+
+<sup>3</sup> La prescrizione del perseguimento è sospesa durante una procedura giudiziaria.
+
+#### Art. 71
+
+**Procedura**
+
+<sup>1</sup> L’organo d’esecuzione apre una procedura disciplinare d’ufficio oppure quando l’istituto d’impiego denuncia una violazione degli obblighi. Ne informa per scritto l’interessato. Qualora gli interessi dell’istituto d’impiego o dell’inchiesta lo esigano, può ordinare l’interruzione immediata del servizio.
+
+<sup>2</sup> L’organo d’esecuzione istruisce la procedura entro 60 giorni e la conclude con decisione formale.[^71-1]
+
+[^71-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+### Sezione 2: Disposizioni penali
+
+#### Art. 72
+
+**Rifiuto del servizio civile**
+
+<sup>1</sup> Chiunque, nell’intenzione di rifiutare il servizio civile, non si presenta a un servizio al quale è convocato, abbandona il suo istituto d’impiego senza permesso o non vi ritorna dopo un’assenza giustificata, è punito con una pena detentiva fino a 18 mesi o con una pena pecuniaria.[^72-1]
+
+<sup>2</sup> Chiunque rifiuta di prestare un servizio civile straordinario è punito con una pena detentiva o pecuniaria.[^72-2]
+
+<sup>3</sup> *...*[^72-3]
+
+<sup>4</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
+
+[^72-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^72-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^72-3]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 73
+
+**Omissione del servizio**
+
+<sup>1</sup> Chiunque, senza l’intenzione di rifiutare il servizio civile, non si presenta ad un servizio al quale è convocato, abbandona senza permesso il suo istituto d’impiego o non vi ritorna dopo un’assenza giustificata, è punito con una pena pecuniaria fino a 180 aliquote giornaliere.[^73-1]
+
+<sup>2</sup> Chiunque non si presenta ad un servizio civile straordinario è punito con una pena detentiva fino a 3 anni o con una pena pecuniaria.[^73-2]
+
+<sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
+
+<sup>4</sup> Se più tardi il colpevole riprende spontaneamente il lavoro, il giudice può attenuare la pena.[^73-3]
+
+<sup>5</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
+
+[^73-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^73-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^73-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+
+#### Art. 74
+
+**Omissione del servizio per negligenza**
+
+<sup>1</sup> Chiunque, per negligenza, non si presenta ad un servizio al quale è stato convocato, abbandona senza permesso il suo istituto d’impiego o non vi ritorna per tempo o del tutto dopo un’assenza giustificata, è punito con la multa.[^74-1]
+
+<sup>2</sup> Se il colpevole non si presenta per negligenza ad un servizio civile straordinario, il giudice può pronunciare una pena pecuniaria fino a 90 aliquote giornaliere.[^74-2]
+
+<sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
+
+<sup>4</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
+
+[^74-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^74-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+
+#### Art. 75
+
+**Inosservanza di una convocazione al servizio civile**
+
+<sup>1</sup> Chi, senza rendersi reo di rifiuto del servizio, omissione del servizio o omissione del servizio per negligenza, non dà seguito ad una convocazione al servizio civile, pur essendo in grado di viaggiare, è punito con la multa.[^75-1]
+
+<sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
+
+[^75-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+
+#### Art. 76
+
+**Grave violazione degli obblighi**[^76-1]
+
+<sup>1</sup> Chi si rende ripetutamente reo di gravi mancanze disciplinari è punito con la multa.
+
+<sup>2</sup> Se il colpevole viola gravemente i suoi obblighi durante un servizio civile straordinario, il giudice può pronunciare una pena pecuniaria fino a 90 aliquote giornaliere.
+
+[^76-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+
+#### Art. 77
+
+**Reati commessi all’estero**[^77-1]
+
+È punibile conformemente agli articoli 72–76 anche chi commette il reato all’estero.
+
+[^77-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 78
+
+**Disposizioni penali completive, procedimento penale**
+
+<sup>1</sup> Il Consiglio federale può dichiarare punibili le infrazioni contro singole disposizioni d’esecuzione della presente legge e comminare la multa per le contravvenzioni a queste disposizioni.[^78-1]
+
+<sup>2</sup> Il procedimento penale è aperto su denuncia dell’organo d’esecuzione e spetta ai Cantoni.
+
+[^78-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+
+#### Art. 78a
+
+**Obbligo di comunicazione e diritto di ricorso**[^78a-1]
+
+<sup>1</sup> I servizi cantonali competenti comunicano all’organo d’esecuzione senza indugio, gratuitamente e in forma completa le decisioni penali, i decreti di non luogo a procedere e i decreti di abbandono del procedimento.
+
+<sup>2</sup> L’organo d’esecuzione può interporre ricorso contro i decreti di non luogo a procedere e i decreti di abbandono del procedimento.
+
+[^78a-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+## Capitolo 10: Disposizioni finali
+
+### Sezione 1: Esecuzione
+
+#### Art. 79
+
+**In generale**
+
+<sup>1</sup> Il Consiglio federale emana le disposizioni d’esecuzione. Può delegare all’organo d’esecuzione la competenza di emanare istruzioni generali per l’esecuzione del servizio, sotto forma di ordinanze o regolamenti.
+
+<sup>2</sup> L’organo d’esecuzione può delegare singole competenze esecutive a terzi. Questi ultimi possono essere indennizzati per la loro collaborazione.
+
+<sup>3</sup> Il Consiglio federale disciplina la collaborazione tra l’organo d’esecuzione e i terzi incaricati di cui al capoverso 2, nonché i criteri per calcolare l’indennità per la loro collaborazione.
+
+#### Art. 80
+
+**Sistema d’informazione**
+
+<sup>1</sup> L’organo d’esecuzione sviluppa e gestisce un sistema automatizzato d’informazione per l’adempimento dei compiti previsti dalla presente legge.
+
+<sup>1bis</sup>
+
+Può trattare dati personali degni di particolare protezione concernenti:
+
+- a.[^80-1] …
+- b. l’idoneità al servizio militare dei richiedenti;
+- c. la formazione nonché le attitudini e le preferenze delle persone che devono prestare servizio civile, in quanto queste informazioni siano determinanti per gli impieghi del servizio civile;
+- d. lo stato di salute delle persone che devono prestare servizio civile;
+- e. i procedimenti disciplinari o penali secondo la presente legge.[^80-2]
+
+<sup>1ter</sup> Per adempiere i compiti previsti dalla presente legge, l’organo d’esecuzione è autorizzato a utilizzare sistematicamente il numero d’assicurato secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^80-3] sull’assicurazione per la vecchiaia e per i superstiti.[^80-4]
+
+<sup>1quater</sup> L’organo d’esecuzione può registrare dati concernenti condanne, procedimenti penali pendenti e misure privative della libertà in quanto tali dati siano necessari per motivare una decisione relativa all’esclusione dal servizio civile o da prestazioni di servizio civile o per verificare la reputazione in vista di determinati impieghi.[^80-5]
+
+<sup>2</sup>
+
+Possono essere collegati in linea al sistema d’informazione:[^80-6]
+
+- a.[^80-7] i competenti servizi del DDPS, per la trasmissione di dati relativi alla trattazione delle domande e al proscioglimento dall’obbligo di prestare servizio militare;
+- b.[^80-8] …
+- c. l’assicurazione militare[^80-9], per il disbrigo di casi assicurati;
+- d.[^80-10] gli organi di cui all’articolo 21 della legge del 25 settembre 1952[^80-11] sulle indennità di perdita di guadagno, per i chiarimenti necessari per determinare gli aventi diritto;
+- e. le autorità della tassa d’esenzione, per le questioni connesse alla tassa d’esenzione;
+- f. terzi ai quali sono stati delegati compiti dell’organo d’esecuzione, per l’adempimento di questi compiti.
+
+<sup>3</sup> …[^80-12]
+
+<sup>4</sup>
+
+Il Consiglio federale disciplina in particolare:
+
+- a. l’organizzazione e la gestione del sistema d’informazione;
+- b. la responsabilità per il trattamento dei dati;
+- c. le categorie dei dati da rilevare;
+- d. il diritto di accesso e di trattamento;
+- e. la collaborazione con gli organi interessati;
+- f. la sicurezza dei dati;
+- g. la durata di conservazione dei dati.[^80-13]
+
+[^80-1]: Abrogata dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-2]: Introdotto dal n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^80-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^80-4]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-5]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-6]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-7]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-8]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-9]: <sup>¶</sup>Nuova espr. giusta in n. II cpv. 1 lett. e della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^80-10]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-11]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^80-12]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-13]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+
+#### Art. 80a
+
+**Gestione di atti**[^80a-1]
+
+<sup>1</sup>
+
+Per adempiere i compiti previsti dalla presente legge, l’organo d’esecuzione tratta gli atti:
+
+- a. delle persone che hanno presentato una domanda d’ammissione al servizio civile;
+- b. delle persone che sono state ammesse al servizio civile;
+- c. degli istituti che hanno presentato una domanda di riconoscimento quale istituto d’impiego;
+- d. degli istituti d’impiego riconosciuti.
+
+<sup>2</sup> Negli atti, l’organo d’esecuzione può trattare dati personali degni di particolare protezione secondo l’articolo 80 capoverso 1<sup>bis</sup>.
+
+[^80a-1]: Introdotto dal n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 80b
+
+**Comunicazione di dati personali**[^80b-1]
+
+<sup>1</sup>
+
+L’organo d’esecuzione comunica dati personali agli organi qui appresso in quanto necessario per l’adempimento dei compiti seguenti:
+
+- a. agli istituti d’impiego, per la valutazione dell’idoneità e per la convocazione delle persone che devono prestare servizio civile e delle persone obbligate a prestare un lavoro di pubblico interesse (persone astrette al lavoro);
+- b.[^80b-2] agli istituti d’istruzione, per lo svolgimento di corsi di formazione;
+- c. ai medici di fiducia e al Servizio medico militare, per l’accertamento della capacità al lavoro e dell’idoneità al servizio militare;
+- d. alle competenti autorità militari, per il controllo dell’adempimento dell’obbligo di prestare servizio militare secondo gli articoli 7–27 della legge militare del 3 febbraio 1995[^80b-3] e della prestazione di lavoro per rifiuto del servizio militare secondo l’articolo 81 del Codice penale militare del 13 giugno 1927[^80b-4];
+- e. alle autorità della giustizia militare, per la valutazione delle violazioni dell’obbligo di prestare servizio militare;
+- f.[^80b-5] alle autorità penali, per il giudizio delle infrazioni alla presente legge;
+- g. all’Ufficio federale di polizia, per l’inserimento nel sistema di ricerca informatizzato di segnalazioni concernenti persone che devono prestare servizio civile e persone astrette al lavoro al fine di individuarne la dimora, nonché per la revoca delle segnalazioni a ricerche avvenute;
+- h. al Dipartimento federale delle finanze, alla Posta Svizzera, alle FFS e al Consiglio dei PF, per la trattazione delle domande di risarcimento dei danni;
+- i. alle autorità cantonali responsabili del mercato del lavoro, per il parere sulle domande di riconoscimento quale istituto d’impiego e sulle decisioni di riconoscimento;
+- j. agli uffici della protezione civile dei Comuni di domicilio, per il coordinamento delle convocazioni delle persone astrette al lavoro;
+- k. alle autorità cantonali della tassa d’esenzione dall’obbligo militare, per la determinazione e il rimborso della stessa;
+- l. alle autorità cantonali o comunali d’assistenza sociale, per l’assistenza alle persone che devono prestare servizio civile e alle persone astrette al lavoro;
+- m. agli uffici d’esecuzione e fallimento, per l’accertamento della sospensione degli atti esecutivi e dell’impignorabilità dei beni.
+
+<sup>2</sup> L’organo d’esecuzione comunica ai terzi cui ha delegato singoli compiti esecutivi (art. 79 cpv. 2) i dati personali necessari.
+
+<sup>3</sup> Nell’ambito dei loro compiti esecutivi, i terzi incaricati comunicano agli organi di cui al capoverso 1 i dati personali necessari.
+
+[^80b-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80b-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80b-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^80b-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^80b-5]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+### Sezione 2: ...
+
+#### Art. 81 e 82
+
+[^8182-1]
+
+[^8182-1]: Abrogati dal n. II 37 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 83
+
+[^83-1]
+
+[^83-1]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 83a
+
+[^83a-1]
+
+[^83a-1]: Abrogato dal n. II 37 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+### Sezione 2*a*: ...
+
+#### Art. 83b
+
+[^83b-1]
+
+[^83b-1]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+### Sezione 2*b*:**** Disposizione transitoria della modifica del 25 settembre 2015
+
+[^chap10-sec2b-1]
+
+[^chap10-sec2b-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+
+#### Art. 83c
+
+Le persone che devono prestare servizio civile e che hanno presentato una domanda d’ammissione al servizio civile prima dell’entrata in vigore della modifica del 25 settembre 2015 seguono il corso d’introduzione secondo il diritto anteriore.
+
+### Sezione 2*c*:**** Disposizioni transitorie della modifica del 18 marzo 2016
+
+[^chap10-sec2c-1]
+
+[^chap10-sec2c-1]: Introdotta dal n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+#### Art. 83d
+
+**Adeguamento della durata del servizio civile ordinario**
+
+<sup>1</sup> L’organo d’esecuzione sottrae dal numero dei giorni di servizio civile non ancora prestati alla data dell’entrata in vigore della modifica del 18 marzo 2016 il numero di giorni di servizio militare ridotto secondo la legislazione militare riveduta moltiplicato per 1,5.
+
+<sup>2</sup> Se i numeri ottenuti non sono interi, vengono arrotondati per difetto.
+
+#### Art. 83e
+
+**Licenziamento dal servizio civile**
+
+<sup>1</sup> Il licenziamento ordinario di persone che devono prestare servizio civile ammesse al servizio civile prima dell’entrata in vigore della modifica del 18 marzo 2016 è retto dal diritto anteriore.
+
+<sup>2</sup> L’obbligo di prestare servizio civile per le persone che non erano incorporate nell’esercito, per i militari di truppa e per i sottufficiali termina tuttavia al più tardi 12 anni dopo l’inizio dell’anno successivo a quello in cui la decisione d’ammissione è passata in giudicato. Sono fatti salvi gli accordi relativi all’età del licenziamento conclusi secondo l’articolo 11 capoverso 2<sup>bis</sup>.
+
+<sup>3</sup> Le persone il cui obbligo di prestare servizio civile termina in virtù del capoverso 2 con l’entrata in vigore della modifica del 18 marzo 2016 sono licenziate dal servizio anche se non hanno assolto interamente il servizio civile ordinario.
+
+### Sezione 3: Referendum ed entrata in vigore
+
+#### Art. 84
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° ottobre 1996[^84-1]
+
+Articoli 18, 42, 43, 79 e 80: 1° giugno 1996[^84-2] Numero 9 dell’all.: 1° gennaio 1997[^84-3]
+
+[^84-1]: DCF dell’8 mag. 1996.
+[^84-2]: DCF dell’8 mag. 1996.
+[^84-3]: DCF dell’8 mag. 1996.
+
+Allegato
+
+## Modificazione del diritto vigente
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445).

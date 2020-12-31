@@ -1,0 +1,204 @@
+---
+sr: "221.302.32"
+title: "Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 14. November 2008 über den elektronischen Zugriff auf die nicht öffentlich zugänglichen Daten (Datenverordnung RAB, DV-RAB)"
+short: DV-RAB
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
+language: de
+version: 2016-01-01
+adopted: 2008-11-14
+in_force: 2009-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2008-739-20160101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung der Eidgenössischen Revisionsaufsichtsbehörde über den elektronischen Zugriff auf die nicht öffentlich zugänglichen Daten
+
+(Datenverordnung RAB, DV-RAB)
+
+vom 14. November 2008 (Stand am 1. Januar 2016)
+
+Die Eidgenössische Revisionsaufsichtsbehörde,
+
+gestützt auf Artikel 25 Absatz 2 der Revisionsaufsichtsverordnung vom 22. August 2007[^ingress-1] (RAV),
+
+verordnet:
+
+[^ingress-1]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**[^1-1]
+
+Diese Verordnung regelt den elektronischen Zugriff auf nicht öffentlich zugängliche Daten durch andere schweizerische Aufsichtsbehörden nach Artikel 22 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1-2] (RAG).
+
+[^1-1]: Fassung gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^1-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+#### Art. 2
+
+**Nicht öffentlich zugängliche Daten**
+
+<sup>1</sup> Nicht öffentlich zugänglich sind Daten, die nicht im Revisorenregister enthalten sind (Art. 19 f. RAV) und die sich aus den Zulassungsgesuchen, den mit den Gesuchen eingereichten Unterlagen oder den Zulassungsentscheiden ergeben oder die auf andere Weise in Anwendung des RAG[^2-1] erhoben werden.
+
+<sup>2</sup> Die nicht öffentlich zugänglichen Daten und der Umfang des Zugriffes sind im Anhang aufgelistet.
+
+[^2-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+## 2. Abschnitt: Voraussetzungen für den elektronischen Zugriff auf nicht öffentlich zugängliche Daten
+
+#### Art. 3
+
+**Anwendbares Recht**
+
+Der elektronische Zugriff auf nicht öffentlich zugängliche Daten richtet sich nach den anwendbaren Bestimmungen über die Amts- und Rechtshilfe des Bundesgesetzes vom 19. Juni 1992[^3-1] über den Datenschutz, des RAG[^3-2] und des jeweiligen Vollzugsrechts.
+
+[^3-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
+#### Art. 4
+
+**Gesuch um elektronischen Zugriff**
+
+<sup>1</sup> Die anderen schweizerischen Aufsichtsbehörden können der Aufsichtsbehörde ein Gesuch um elektronischen Zugriff auf nicht öffentlich zugängliche Daten stellen.[^4-1]
+
+<sup>2</sup>
+
+Das Gesuch enthält folgende Angaben:
+
+- a. die Bestätigung, dass die Voraussetzungen für die Bekanntgabe von nicht öffentlich zugänglichen Daten erfüllt sind;
+- b. die Art der Informationen oder Unterlagen, für die um Zugriff ersucht wird, sowie den Zweck des Zugriffs;
+- c. die betroffenen natürlichen Personen und Revisionsunternehmen; und
+- d. Namen, Vornamen und Anschrift der zugriffsberechtigten Personen.
+
+<sup>3</sup> Die anderen schweizerischen Aufsichtsbehörden müssen zudem die von der Aufsichtsbehörde festgesetzten technischen Anforderungen erfüllen und die Kosten für die Installation des elektronischen Zugriffs tragen.[^4-2]
+
+[^4-1]: Fassung gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^4-2]: Fassung gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+
+#### Art. 5
+
+**Zugriffsberechtigte Personen**
+
+<sup>1</sup> Die anderen schweizerischen Aufsichtsbehörden bezeichnen zwei Personen, die elektronischen Zugriff auf die nicht öffentlich zugänglichen Daten erhalten sollen.[^5-1]
+
+<sup>2</sup> Diese beide Personen dürfen ihre persönliche Zugriffsberechtigung nicht an Dritte weitergeben.
+
+[^5-1]: Fassung gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+
+#### Art. 6
+
+**Aufhebung oder Unterbrechung des Zugriffs**
+
+Der elektronische Zugriff auf nicht öffentlich zugängliche Daten kann jederzeit aufgehoben oder unterbrochen werden, wenn die Voraussetzungen nach den Artikeln 4 und 5 nicht mehr erfüllt sind.
+
+## 3. Abschnitt: Inkrafttreten
+
+#### Art. 7
+
+Diese Verordnung tritt am 1. Januar 2009 in Kraft.
+
+Anhang*[^t-1]*
+
+(Art. 2 Abs. 2)
+
+## Katalog der nicht öffentlich zugänglichen Daten, auf die andere schweizerische Aufsichtsbehörden elektronischen Zugriff erlangen können
+
+[^t-1]: Bereinigt gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+
+### Zeichenerklärung
+
+Umfang des Zugriffs:
+
+A: Einsichtnahme
+
+### Katalog der nicht öffentlich zugänglichen Daten und Zugriffsberechtigungen
+
+<table>
+<tr><th>Kategorien der nicht öffentlich zugänglichen Daten</th><th colspan="2">Umfang des Zugriffs</th></tr>
+<tr><td colspan="3">1. Daten von natürlichen Personen</td></tr>
+<tr><td colspan="3">1.1. Daten, die im Zulassungsgesuch enthalten sind</td></tr>
+<tr><td>Adresse und Wohnort</td><td colspan="2">A</td></tr>
+<tr><td>Telefonnummer und E-Mail-Adresse</td><td colspan="2">A</td></tr>
+<tr><td>Sprache, in der die Korrespondenz gewünscht wird</td><td colspan="2">A</td></tr>
+<tr><td>Geburtsdatum</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls Firma oder Name gemäss Eintrag im Handelsregister, Adresse und Handelsregisternummer des Revisionsunternehmens, in dessen oberstem Leitungs- oder Verwaltungsorgan oder in dessen Geschäftsführungsorgan die Person Einsitz nimmt</td><td colspan="2">A</td></tr>
+<tr><td>Art und Datum des Abschlusses des Ausbildungsganges</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls die Liste der Tätigkeiten, während der die beaufsichtigte Fachpraxis erworben wurde, unter Angabe folgender Informationen:</td><td colspan="2">A</td></tr>
+<tr><td>– Firma oder Name der Arbeitgeberin oder des Arbeitgebers</td><td colspan="2"></td></tr>
+<tr><td>– gegebenenfalls die Abteilung, in der die Tätigkeit ausgeübt wurde</td><td colspan="2"></td></tr>
+<tr><td>– Datum der Aufnahme und der Beendigung der Tätigkeit</td><td colspan="2"></td></tr>
+<tr><td>– Beschäftigungsgrad (vorwiegend Vollzeit oder Teilzeit)</td><td colspan="2"></td></tr>
+<tr><td>– Angabe, ob die Tätigkeit vorwiegend auf den Gebieten des Rechnungswesens und der Rechnungsrevision ausgeübt wurde</td><td colspan="2"></td></tr>
+<tr><td>– Name, Vorname und gegebenenfalls die Registernummer der Person, unter deren Beaufsichtigung die Tätigkeit ausgeübt wurde</td><td colspan="2"></td></tr>
+<tr><td>Bei Gesuchen um Zulassung als Revisionsexpertin oder Revisionsexperte gegebenenfalls die Liste der Tätigkeiten, während der die unbeaufsichtigte Fachpraxis erworben wurde, unter Angabe folgender Informationen: Rechnungsrevision ausgeübt wurde</td><td colspan="2">A</td></tr>
+<tr><td>– Firma oder Name der Arbeitgeberin oder des Arbeitgebers bzw. Firma oder Name des Revisionsunternehmens, dessen Inhaberin oder Teilhaberin die Person ist oder war</td><td colspan="2"></td></tr>
+<tr><td>– gegebenenfalls die Abteilung, in der die Tätigkeit ausgeübt wurde</td><td colspan="2"></td></tr>
+<tr><td>– Datum der Aufnahme und der Beendigung der Tätigkeit</td><td colspan="2">[tab]</td></tr>
+<tr><td>– Beschäftigungsgrad (vorwiegend Vollzeit oder Teilzeit)</td><td colspan="2"></td></tr>
+<tr><td>– Angabe, ob die Tätigkeit vorwiegend auf den Gebieten des Rechnungswesens und der</td><td colspan="2"></td></tr>
+<tr><td>Gegebenenfalls das Datum des Abschlusses eines anerkannten Lehrganges zum Nachweis der notwendigen Kenntnisse des schweizerischen Rechts</td><td colspan="2">A</td></tr>
+<tr><td>Innerhalb von zehn Jahren vor der Gesuchstellung rechtskräftig abgeschlossene Straf- oder Verwaltungsstrafverfahren</td><td colspan="2">A</td></tr>
+<tr><td>Innerhalb von zehn Jahren vor der Gesuchstellung rechtskräftig abgeschlossene und im Zusammenhang mit gesetzlich vorgeschriebenen Revisionsdienstleistungen stehende Verfahren der zivil- oder verwaltungsrechtlichen Verantwortlichkeit und Verfahren vor spezialgesetzlichen Aufsichtsbehörden, börsenrechtlichen Sanktionsorganen oder berufsrechtlichen Standesorganen</td><td colspan="2">A</td></tr>
+<tr><td>Bestehende Verlustscheine</td><td colspan="2">A</td></tr>
+<tr><td colspan="2">1.2. Daten, die in den eingereichten Unterlagen enthalten sind</td></tr>
+<tr><td>Gültiger Pass oder gültige Identitätskarte</td><td colspan="2">A</td></tr>
+<tr><td>Diplom oder gleichwertige Bestätigung des Abschlusses eines Ausbildungsganges im Sinne von Artikel 4 Absatz 2 RAG[^annexu1-lvlu1-lvlu2-1]</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls die schriftlichen Bestätigungen der Arbeitgeber zur beaufsichtigten Fachpraxis</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls Nachweis der notwendigen Kenntnisse des schweizerischen Rechts durch eine Bestätigung des erfolgreichen Abschlusses eines anerkannten Lehrgangs</td><td colspan="2">A</td></tr>
+<tr><td>Aktueller Auszug aus dem Zentralstrafregister (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung) und gegebenenfalls die zugrunde liegenden Urteile; Personen mit mehr als zwei Jahren Wohnsitz im Ausland haben einen entsprechenden Auszug oder Nachweis ihres Wohnsitzstaates beizubringen</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls verfahrensabschliessende und im Zusammenhang mit gesetzlich vorgeschriebenen Revisionsdienstleistungen stehende Entscheide oder Urteile bei Verfahren der zivil- oder verwaltungsrechtlichen Verantwortlichkeit und Verfahren vor spezialgesetzlichen Aufsichtsbehörden, börsenrechtlichen Sanktionsorganen oder berufsrechtlichen Standesorganen</td><td colspan="2">A</td></tr>
+<tr><td>Aktueller Auszug aus dem Betreibungs- und Konkursregister (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung); Personen mit Wohnsitz im Ausland haben einen entsprechenden Auszug oder Nachweis ihres Wohnsitzstaates beizubringen. (Im Falle von Wohnsitzwechseln behält sich die Aufsichtsbehörde vor, weiter zurückliegende Auszüge oder Nachweise zu verlangen.)</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls Unterlagen zum Nachweis der unbeaufsichtigten Fachpraxis</td><td colspan="2">A</td></tr>
+<tr><td colspan="3">2. Daten von Revisionsunternehmen</td></tr>
+<tr><td colspan="2">2.1 Daten, die im Zulassungsgesuch aller Revisionsunternehmen enthalten sind</td></tr>
+<tr><td>Gegebenenfalls Webadresse</td><td colspan="2">A</td></tr>
+<tr><td>Sprache, in der die Korrespondenz gewünscht wird</td><td colspan="2">A</td></tr>
+<tr><td>Anzahl der Mitglieder des obersten Leitungs- oder Verwaltungsorgans und des Geschäftsführungsorgans</td><td colspan="2">A</td></tr>
+<tr><td>Erklärung dass ob alle leitenden Revisorinnen und Revisoren über die Zulassung verfügen, die der vom Revisionsunternehmen anbegehrten Zulassung entspricht</td><td colspan="2">A</td></tr>
+<tr><td>Anzahl der Personen, die an der Erbringung von Revisionsdienstleistungen beteiligt sind, aufgeteilt nach:</td><td colspan="2">A</td></tr>
+<tr><td>– Personen mit Zulassung, die der vom Revisionsunternehmen anbegehrten Zulassung entspricht;</td><td colspan="2"></td></tr>
+<tr><td>– Personen ohne entsprechende Zulassung</td><td colspan="2"></td></tr>
+<tr><td>Name, Vorname und Adresse der Unterzeichnerin oder des Unterzeichners des Gesuchs sowie Name, Vorname, Adresse, Telefonnummer und E-Mail-Adresse der Kontaktperson und gegebenenfalls der stellvertretenden Kontaktperson</td><td colspan="2">A</td></tr>
+<tr><td>Angabe, ob ein Qualitätssicherungssystem besteht und gegebenenfalls welches oder ob sich das Revisionsunternehmen verpflichtet, sich spätestens bis zum 31. August 2010 einem System der regelmässigen Beurteilung der Prüftätigkeit durch gleichrangige Berufsleute anzuschliessen</td><td colspan="2">A</td></tr>
+<tr><td>Innerhalb von zehn Jahren vor der Gesuchstellung rechtskräftig abgeschlossene Straf- oder Verwaltungsstrafverfahren</td><td colspan="2">A</td></tr>
+<tr><td>Innerhalb von zehn Jahren vor der Gesuchstellung rechtskräftig abgeschlossene und im Zusammenhang mit gesetzlich vorgeschriebenen Revisionsdienstleistungen stehende Verfahren der zivil- oder verwaltungsrechtlichen Verantwortlichkeit und Verfahren vor spezialgesetzlichen Aufsichtsbehörden, börsenrechtlichen Sanktionsorganen oder berufsrechtlichen Standesorganen</td><td colspan="2">A</td></tr>
+<tr><td colspan="2">2.2 Daten, die im Zulassungsgesuch von Revisionsunternehmen enthalten sind, die eine Zulassung als staatlich beaufsichtigte Revisionsunternehmen beantragen</td></tr>
+<tr><td>Angabe, ob eine ausreichende Versicherung der Haftungsrisiken oder gleichwertige finanzielle Sicherheiten bestehen</td><td colspan="2">A</td></tr>
+<tr><td>Auflistung der hängigen oder innerhalb der letzten zehn Jahre vor der Gesuchstellung abgeschlossenen Gerichts- und Verwaltungsstrafverfahren gegen das Revisionsunternehmen oder gegen dessen Mitarbeitende, die im Zusammenhang mit Revisionsdienstleistungen stehen</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls Liste der Publikumsgesellschaften, deren Jahres- oder Konzernrechnungen geprüft werden, unter Angabe folgender Informationen:</td><td colspan="2">A</td></tr>
+<tr><td>– Firma oder Name, Sitz und Handelsregisternummer der Publikumsgesellschaft</td><td colspan="2"></td></tr>
+<tr><td>– Art der Publikumsgesellschaft (Art. 727 Abs. 1 Obligationenrecht[^annexu1-lvlu1-lvlu2-2])</td><td colspan="2"></td></tr>
+<tr><td>– gegebenenfalls Name und Sitz der Börse, an der die Beteiligungspapiere oder Anleihen der Publikumsgesellschaft kotiert sind</td><td colspan="2"></td></tr>
+<tr><td>– Rechnungslegungsstandard, nach dem die Publikumsgesellschaft ihre Jahresrechnung und gegebenenfalls ihre Konzernrechnung erstellt</td><td colspan="2"></td></tr>
+<tr><td>– Name, Vorname und Registernummer der leitenden Revisorin oder des leitenden Revisors</td><td colspan="2"></td></tr>
+<tr><td>– Datum der jeweiligen Aufnahme der Mandatsleitung durch die leitende Revisorin oder den leitenden Revisor</td><td colspan="2"></td></tr>
+<tr><td>Gegebenenfalls Name und Adresse der ausländischen Revisionsaufsichtsbehörde sowie die ausländische Zulassungs- oder Registernummer, wenn das Revisionsunternehmen einer vom Bundesrat anerkannten ausländischen Revisionsaufsichtsbehörde untersteht</td><td colspan="2">A</td></tr>
+<tr><td colspan="2">2.3 Daten, die in den eingereichten Unterlagen aller Revisionsunternehmen enthalten sind</td></tr>
+<tr><td>Aktueller Handelsregisterauszug; bei Revisionsunternehmen mit Sitz im Ausland: Auszug der Zweigniederlassung in der Schweiz (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung)</td><td colspan="2">A</td></tr>
+<tr><td>Liste der Mitglieder des Geschäftsführungsorgans, unter Nennung von Name, Vorname, Wohnsitz, Heimatort, Geburtsdatum, Beruf und gegebenenfalls Registernummer</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung des angewendeten Systems zur Sicherung der Qualität von Revisionsdienstleistungen nach den Vorgaben der Aufsichtsbehörde, mit Hinweis auf den verwendeten Standard</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls verfahrensabschliessende Entscheide oder Urteile bei Straf- oder Verwaltungsstrafverfahren</td><td colspan="2">A</td></tr>
+<tr><td>Gegebenenfalls verfahrensabschliessende und im Zusammenhang mit gesetzlich vorgeschriebenen Revisionsdienstleistungen stehende Entscheide oder Urteile bei Verfahren der zivil- oder verwaltungsrechtlichen Verantwortlichkeit und Verfahren vor spezialgesetzlichen Aufsichtsbehörden, börsenrechtlichen Sanktionsorganen oder berufsrechtlichen Standesorganen</td><td colspan="2">A</td></tr>
+<tr><td>Aktueller Auszug aus dem Betreibungs- und Konkursregister (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung)</td><td colspan="2">A</td></tr>
+<tr><td colspan="2">2.4 Daten, die in den eingereichten Unterlagen von Revisionsunternehmen enthalten sind, die eine Zulassung als staatlich beaufsichtigte Revisionsunternehmen beantragen</td></tr>
+<tr><td>Aktuelle Statuten oder aktueller Gesellschaftsvertrag sowie Organisations- und Geschäftsreglemente oder gleichwertige Unterlagen</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung und grafische Darstellung der Eigentumsverhältnisse, inklusive Absprachen unter den Eigentümern und andere Möglichkeiten einer Beherrschung oder eines anderen massgeblichen Einflusses</td><td colspan="2">A</td></tr>
+<tr><td>Liste der Mitglieder des obersten Leitungs- oder Verwaltungsorgans sowie des Geschäftsführungsorgans, unter Nennung von Name, Vorname, Wohnsitz, Heimatort, Geburtsdatum, gegebenenfalls Registernummer sowie Beruf, unter Beilage eines aktuellen Auszugs aus dem Zentralstrafregister und dem Betreibungs- und Konkursregister (jeweils nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung) für diejenigen Mitglieder, die über keine Zulassung als Revisorin, Revisor, Revisionsexpertin oder Revisionsexperte verfügen</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung und grafische Darstellung der äusseren Unternehmensstruktur (Konzern- und Beteiligungsstruktur), unter Einschluss der in- und ausländischen Tochtergesellschaften, Zweigniederlassungen und aller direkten und bedeutenden indirekten Beteiligungen und der Angabe der Aktivitäten sowie der jeweiligen Jahresrechnungen</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung und grafische Darstellung (Organigramm) der inneren Unternehmens- und Leitungsstruktur, unter Nennung der Namen der für einzelne Bereiche verantwortlichen Personen</td><td colspan="2">A</td></tr>
+<tr><td>Sofern vorhanden, Geschäftsberichte der letzten drei Geschäftsjahre, inklusive allfälliger Konzernrechnungen und entsprechender Revisionsberichte</td><td colspan="2">A</td></tr>
+<tr><td>Versicherungsvertrag oder Dokumentationen und Bestätigungen zu gleichwertigen finanziellen Sicherheiten</td><td colspan="2">A</td></tr>
+<tr><td>Für jede Publikumsgesellschaft eine Aufstellung des gesamten Honorars für die in den letzten zwei Jahren erbrachten Dienstleistungen, aufgeteilt nach Revisionsdienstleistungen und anderen Dienstleistungen</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung der Massnahmen zur Sicherung der Unabhängigkeit des Revisionsunternehmens</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung der Massnahmen zur Sicherstellung der Vorschriften zur Dokumentation und Aufbewahrung</td><td colspan="2">A</td></tr>
+<tr><td>Beschreibung der unternehmens- und mandatsbezogenen Massnahmen zur Sicherung der Qualität der Revisionsdienstleistungen (Art. 12 RAG)</td><td colspan="2">A</td></tr>
+<tr><td colspan="2">3. Andere Daten</td></tr>
+<tr><td>Andere Daten, die in Anwendung des RAG erhoben werden</td><td colspan="2">A</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvlu2-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^annexu1-lvlu1-lvlu2-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)

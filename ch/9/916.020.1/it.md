@@ -1,0 +1,113 @@
+---
+sr: "916.020.1"
+title: "Ordinanza del DEFR del 23 novembre 2005 concernente l'igiene nella produzione primaria (OIPPrim)"
+short: OIPPrim
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/821"
+language: it
+version: 2015-07-01
+adopted: 2005-11-23
+in_force: 2006-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20150701/it/xml/fedlex-data-admin-ch-eli-cc-2005-821-20150701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20150701/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DEFR concernente l’igiene nella produzione primaria
+
+(OIPPrim)
+
+del 23 novembre 2005 (Stato 1° luglio 2015)
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
+
+visti gli articoli 4 capoverso 4 e 5 capoverso 1 dell’ordinanza del 23 novembre 2005[^ingress-2] concernente la produzione primaria; visto l’articolo 42 capoverso 6 dell’ordinanza del 26 ottobre 2011[^ingress-3] sugli alimenti per animali,[^ingress-4]
+
+ordina:
+
+[^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^ingress-2]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^ingress-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^ingress-4]: Nuovo testo giusta il n. III dell’O del DEFR del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1793](https://fedlex.data.admin.ch/eli/oc/2015/351)).
+
+#### Art. 1
+
+**Esigenze relative alla produzione vegetale**
+
+<sup>1</sup> Gli impianti, le attrezzature, i contenitori, le casse e i mezzi di trasporto, utilizzati per la produzione vegetale, devono essere regolarmente puliti.
+
+<sup>2</sup> La verdura fresca e la frutta fresca devono essere lavate soltanto con acqua potabile.
+
+<sup>3</sup> Gli scarti e le sostanze pericolose devono essere immagazzinati separatamente in modo da evitare la contaminazione delle derrate alimentari e degli alimenti per animali.
+
+<sup>4</sup> I prodotti fitosanitari e i biocidi vanno utilizzati secondo le prescrizioni d’applicazione.
+
+<sup>5</sup> Vanno adottate tutte le misure necessarie contro le malattie dei vegetali che possono avere conseguenze negative sulla salute umana.
+
+#### Art. 2
+
+**Esigenze relative alla produzione animale**
+
+<sup>1</sup> Gli impianti, compresi quelli utilizzati per immagazzinare e manipolare gli alimenti per animali, le stalle, le attrezzature, in particolare quelle utilizzate per il foraggiamento degli animali, i contenitori, le casse e i mezzi di trasporto devono essere regolarmente puliti e, ove necessario dopo la pulizia, disinfettati in modo adeguato.
+
+<sup>2</sup> Gli animali da reddito devono essere puliti.
+
+<sup>3</sup> Le lettiere devono essere mantenute in uno stato tale da non pregiudicare la salute degli animali né la sicurezza delle derrate alimentari.
+
+<sup>4</sup> I prodotti chimici impiegati per la pulizia e la disinfezione vanno utilizzati conformemente alle istruzioni.
+
+<sup>5</sup> Gli scarti e le sostanze pericolose devono essere immagazzinati separatamente in modo da evitare la contaminazione delle derrate alimentari e degli alimenti per animali.
+
+<sup>6</sup> Gli additivi per gli alimenti per animali e i medicamenti per uso veterinario vanno utilizzati secondo le prescrizioni d’applicazione. I mangimi medicati vanno immagazzinati e manipolati in modo da evitare la contaminazione degli alimenti per animali non medicati e il rischio che tali alimenti siano somministati ad animali cui non sono destinati.
+
+<sup>7</sup> Vanno adottate tutte le misure necessarie concernenti la salute degli animali, in particolare quelle che incidono sulle zoonosi.
+
+<sup>8</sup> Gli alimenti per animali e l’acqua di abbeveramento non devono alterare la salute degli animali né la qualità delle derrate alimentari da essi derivate. Possono essere utilizzati soltanto alimenti per animali puliti, ineccepibili dal profilo igienico e non guasti.
+
+#### Art. 3
+
+**Produzione lattiera**
+
+Per la produzione lattiera si applicano le prescrizioni dell’ordinanza del DFI*[^3-1]* del 23 novembre 2005[^3-2] concernente l’igiene nella produzione lattiera.
+
+[^3-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+[^3-2]: [RS 916.351.021.1](https://fedlex.data.admin.ch/eli/cc/2005/824)
+
+#### Art. 4
+
+**Produzione di uova**
+
+Le uova devono essere conservate nell’azienda di produzione, in un luogo pulito, asciutto e in assenza di odori estranei; devono essere protette efficacemente contro gli urti e l’irraggiamento solare.
+
+#### Art. 5
+
+**Registro**
+
+<sup>1</sup>
+
+Le aziende dedite alla produzione primaria devono tenere a disposizione della competente autorità un registro riguardante:
+
+- a. l’utilizzazione di prodotti fitosanitari e biocidi;
+- b. l’utilizzazione di sementi geneticamente modificate;
+
+<sup>2</sup> Esse devono indicare l’insorgenza di organismi nocivi per le piante che possono pregiudicare la sicurezza dei prodotti di origine vegetale.
+
+<sup>3</sup> Esse conservano i risultati delle analisi effettuate su campioni vegetali che abbiano rilevanza per la salute umana e che le aziende ricevono nel quadro di altre disposizioni.
+
+#### Art. 6
+
+**Tracciabilità e registro**
+
+<sup>1</sup> Le aziende dedite alla produzione animale devono essere in grado di indicare, in qualsiasi momento e sulla scorta di documenti scritti, il tipo e l’origine degli alimenti somministrati agli animali.
+
+<sup>2</sup> In caso di utilizzazione di medicamenti per uso veterinario, si applicano le disposizioni dell’ordinanza del 18 agosto 2004[^6-1] sui medicamenti per uso veterinario.
+
+<sup>3</sup> Le aziende tengono a disposizione della competente autorità i risultati di analisi effettuate su campioni e i rapporti pertinenti alle analisi effettuate su animali o prodotti di origine animale che abbiano rilevanza per la salute umana e che le aziende ricevono nel quadro di altre disposizioni.
+
+[^6-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+
+#### Art. 7
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2006.

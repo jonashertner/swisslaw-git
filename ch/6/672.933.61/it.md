@@ -1,0 +1,562 @@
+---
+sr: "672.933.61"
+title: Ordinanza del 15 giugno 1998 concernente la convenzione svizzero-americana di doppia imposizione
+eli: "https://fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807"
+language: it
+version: 2011-11-30
+adopted: 1998-06-15
+in_force: 1998-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20111130/it/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20111130-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20111130/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la convenzione svizzero-americana di doppia imposizione
+
+del 15 giugno 1998 (Stato 30 novembre 2011)
+
+Il Consiglio federale svizzero,
+
+visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; visto l’articolo 25 paragrafo 5 della convenzione del 2 ottobre 1996[^ingress-2] tra la Confederazione Svizzera e gli Stati Uniti d’America per evitare le doppie imposizioni in materia di imposte sul reddito (detta qui di seguito convenzione),
+
+ordina:
+
+[^ingress-1]: RU **1998** 1807 RS **672.2**
+[^ingress-2]: [RS 0.672.933.61](https://fedlex.data.admin.ch/eli/cc/1999/223)
+
+## Capo 1: Imposte svizzere riscosse alla fonte sui redditi di capitali
+
+#### Art. 1
+
+**Riscossione dell’imposta**
+
+Le imposte sui dividendi e sugli interessi che secondo la legge federale del 13 ottobre 1965[^1-1] sull’imposta preventiva (LIP) devono essere riscosse alla fonte, sono trattenute all’aliquota legale intera, anche se il beneficiario dei redditi di capitali ha la sua sede o il suo domicilio negli Stati Uniti. Sono fatte salve le disposizioni dell’articolo 4.
+
+[^1-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+#### Art. 2
+
+**Rimborso dell’imposta**
+
+<sup>1</sup>
+
+Il beneficiario dei redditi di capitali ha diritto al rimborso secondo gli articoli 10 e 11 della convenzione se:
+
+- a. al momento della scadenza del reddito imposto possedeva il diritto di godimento sul collocamento di capitale che ha fruttato il reddito imposto;
+- b. aveva sede o domicilio negli Stati Uniti, secondo l’articolo 4 della convenzione;
+- c. prova di aver diritto a beneficiare della convenzione secondo l’articolo 22 della stessa.
+
+<sup>2</sup>
+
+Non hanno alcun diritto al rimborso, ai sensi della convenzione e della presente ordinanza:
+
+- a. le organizzazioni internazionali aventi una sede negli Stati Uniti;
+- b. i funzionari delle organizzazioni internazionali e i membri delle rappresentanze diplomatiche e consolari di Stati terzi che risiedono negli Stati Uniti ma che, secondo la legislazione americana, non vi hanno il domicilio.
+
+<sup>3</sup>
+
+Il diritto al rimborso dell’imposta preventiva svizzera riscossa alla fonte ammonta al:
+
+- a. 35 per cento dell’ammontare lordo dei dividendi se il beneficiario è un istituto previdenziale riconosciuto che non controlla la società svizzera che paga i dividendi;
+- b. 30 per cento dell’ammontare lordo dei dividendi che una società americana, che adempie le condizioni dell’articolo 10 paragrafo 2 lettera a della convenzione, riceve da una società svizzera, qualora non sia stata richiesta la procedura prevista dall’articolo 4;
+- c. 20 per cento dell’ammontare lordo dei dividendi negli altri casi;
+- d. 35 per cento dell’ammontare lordo degli interessi.
+
+<sup>4</sup> Gli ammontari d’imposta da rimborsare non fruttano alcun interesse.
+
+<sup>5</sup> Non vi è alcun diritto al rimborso dell’imposta preventiva trattenuta sulle vincite alle lotterie in Svizzera.
+
+#### Art. 3
+
+**Procedura di rimborso**
+
+<sup>1</sup> Il rimborso dell’imposta preventiva svizzera riscossa alla fonte deve essere domandato su modulo ufficiale all’Amministrazione federale delle contribuzioni, al più tardi il 31 dicembre del terzo anno successivo allo spirare dell’anno civile in cui è scaduto il reddito imposto. Le persone fisiche devono presentare la domanda sul modulo 82 I, le società sul modulo 82 C e gli altri beneficiari sul modulo 82 E. Se il termine non viene osservato, il diritto è perento.
+
+<sup>2</sup> Il termine si considera come osservato se, prima del suo spirare, la domanda debitamente compilata e accompagnata dai mezzi di prova richiesti perviene all’Amministrazione federale delle contribuzioni o è stata consegnata al suo indirizzo alle poste svizzere o a una rappresentanza diplomatica o consolare svizzera all’estero.
+
+<sup>3</sup> L’Amministrazione federale delle contribuzioni esamina la domanda. Essa richiede le informazioni complementari e le prove necessarie direttamente al richiedente o per il tramite della competente autorità degli Stati Uniti prevista nell’articolo 3 paragrafo 1 lettera f (ii) della convenzione.
+
+<sup>4</sup> Se la domanda è respinta in tutto od in parte, la decisione è comunicata mediante lettera raccomandata, con indicazione dei motivi e dei mezzi di ricorso.
+
+#### Art. 4
+
+**Procedura di notificazione per dividendi da partecipazioni determinanti**[^4-1]
+
+<sup>1</sup> La società svizzera che ne fa richiesta può essere autorizzata a ridurre solo del 5 per cento i dividendi versati a una società americana se, nella procedura di dichiarazione secondo i capoversi 2–4, è accertato che sono rispettate le premesse degli articoli 10 paragrafo 2 lettera a nonché 22 della convenzione.
+
+<sup>2</sup>
+
+La società svizzera che versa i dividendi deve presentare domanda all’Amministrazione federale delle contribuzioni sul modulo 823 prima della scadenza dei dividendi. In pari tempo essa deve comprovare che la società americana:
+
+- a. dispone direttamente di almeno il 10 per cento dei voti che possono essere esercitati nella sua assemblea generale; e
+- b. ha diritto a beneficiare della convenzione conformemente all’articolo 22 della stessa.
+
+<sup>3</sup> L’Amministrazione federale delle contribuzioni verifica la domanda. Un’autorizzazione può essere rilasciata solo quando è accertato che la società di capitali americana, a carico della quale dovrebbe essere trasferita l’imposta, ha diritto al previsto sgravio da questa imposta a titolo di partecipazione determinante secondo l’articolo 10 paragrafo 2 lettera a della convenzione. L’autorizzazione viene notificata per scritto ed è valida tre anni.
+
+<sup>4</sup> Se la domanda è respinta in tutto o in parte, la società svizzera può esigere dall’Amministrazione federale delle contribuzioni una decisione, che deve essere notificata con indicazione dei motivi e dei rimedi giuridici.
+
+<sup>5</sup> Se i presupposti per il diritto alla procedura di dichiarazione non sono più adempiuti, la società svizzera che paga i dividendi deve informarne tempestivamente l’Amministrazione federale delle contribuzioni.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004 ([RU 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+
+#### Art. 4a
+
+**Dichiarazione all’Amministrazione federale delle contribuzioni**[^4a-1]
+
+<sup>1</sup> Se dispone di un’autorizzazione, la società svizzera che paga i dividendi ne dichiara spontaneamente entro 30 giorni il pagamento mediante il modulo 108. Esso deve essere presentato all’Amministrazione federale delle contribuzioni unitamente al modulo ufficiale di riscossione.
+
+<sup>2</sup> Il capoverso 1 è valido anche quando non è stata presentata nessuna istanza di autorizzazione o non è ancora stata presa nessuna decisione. In assenza di istanza di autorizzazione, questa deve essere presentata unitamente al modulo 108. Se il controllo dell’Amministrazione federale delle contribuzioni dimostra un abuso della procedura di dichiarazione, l’imposta preventiva e un eventuale interesse di mora devono essere riscossi posticipatamente. Se la riscossione posticipata è contestata, l’Amministrazione federale delle contribuzioni emana una decisione.
+
+[^4a-1]: Introdotto dal n. I dell’O del 22 dic. 2004 ([RU 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+
+#### Art. 5
+
+**Rimedi giuridici**[^5-1]
+
+I ricorsi contro le decisioni dell’Amministrazione federale delle contribuzioni ai sensi degli articoli 3 capoverso 4 e 4 capoverso 4 sono retti dalle disposizioni generali concernenti l’organizzazione giudiziaria.
+
+[^5-1]: Nuovo testo giusta il n. II 53 dell'O dell'8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 6
+
+**Ricupero dell’imposta per mezzo degli Stati Uniti**
+
+Se s’appalesa che un rimborso dell’imposta preventiva svizzera trattenuta alla fonte è stato accordato a torto a una persona domiciliata negli Stati Uniti o che l’ammontare dell’imposta rimborsata ha superato quello a cui questa persona avrebbe avuto diritto secondo le disposizioni della convenzione, l’autorità degli Stati Uniti competente secondo l’articolo 3 paragrafo 1 lettera f (ii) della convenzione, di sua propria iniziativa o a richiesta dell’Amministrazione federale delle contribuzioni, reclama, conformemente all’articolo 26 paragrafo 2 della convenzione, l’ammontare che deve essere restituito e lo trasferisce all’Amministrazione federale delle contribuzioni.
+
+## Capo 2: Imposte alla fonte su altri redditi di fonte svizzera
+
+#### Art. 7
+
+**Riscossione dell’imposta**
+
+Le imposte che devono essere riscosse alla fonte sui redditi da attività lucrativa e sulle prestazioni di previdenza secondo gli articoli 91–93 e 95–97 della legge federale del 14 dicembre 1990[^7-1] sull’imposta federale diretta (LIFD) vengono riscosse anche se il beneficiario ha il suo domicilio negli Stati Uniti. Sono eccettuate:
+
+- a. le indennità ricevute da incaricati che abitualmente non dispongono in Svizzera di una base fissa per esercitare la loro attività;
+- b. le remunerazioni per lavoro subordinato svolto come membro di un equipaggio regolare a bordo di navi o aeromobili impiegati nel traffico internazionale;
+- c. le rendite pagate sulla base di un precedente rapporto di lavoro di diritto privato o di una forma riconosciuta di previdenza individuale vincolata;
+- d. le rendite pagate a titolo di precedenti attività dipendenti di diritto pubblico, a condizione che il beneficiario sia cittadino americano.
+
+[^7-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+
+#### Art. 8
+
+**Rimborso dell’imposta**
+
+<sup>1</sup>
+
+Il beneficiario residente degli Stati Uniti conformemente alle prescrizioni dell’articolo 4 della convenzione ha diritto al rimborso dell’imposta trattenuta alla fonte:[^8-1]
+
+- a. per le imposte trattenute sui proventi dell’attività svolta come artista o sportivo conformemente all’articolo 92 LIFD[^8-2], se prova che i proventi lordi dell’anno fiscale in questione non superano globalmente 10’000 dollari americani o il controvalore in franchi svizzeri;
+- b.[^8-3] per le imposte trattenute sulle prestazioni in capitale provenienti da istituzioni di diritto privato della previdenza professionale o da forme riconosciute di previdenza individuale vincolata (art. 96 LIFD), se prova che le competenti autorità fiscali degli Stati Uniti sono a conoscenza della prestazione in capitale;
+- c.[^8-4] per le imposte trattenute sulle prestazioni in capitale provenienti da istituzioni di diritto pubblico della previdenza professionale (art. 95 LIFD), se possiede la cittadinanza americana e prova che le competenti autorità fiscali degli Stati Uniti sono a conoscenza della prestazione in capitale.
+
+<sup>2</sup> Il rimborso delle imposte riscosse alla fonte sui redditi di cui al capoverso 1 lettera a può essere domandato al più presto dopo lo spirare dell’anno civile nel corso del quale i redditi sono stati realizzati. La domanda di rimborso deve essere presentata all’Amministrazione delle contribuzioni del Cantone che ha prelevato le imposte alla fonte, prima della scadenza del quinto anno civile successivo a quello nel corso del quale i redditi sono scaduti. Se il termine non viene osservato, il diritto è perento.
+
+<sup>3</sup> Il rimborso delle imposte trattenute alla fonte sui redditi di cui al capoverso 1 lettere b e c deve essere richiesto all’Amministrazione delle contribuzioni del Cantone che ha prelevato le imposte alla fonte, entro un termine di tre anni dalla scadenza dei redditi. Se il termine non viene osservato, il diritto è perento.[^8-5]
+
+<sup>4</sup> Il capoverso 2 dell’articolo 3 si applica per analogia al calcolo delle scadenze di cui ai capoversi 2 e 3 del presente articolo.
+
+<sup>5</sup> La procedura è disciplinata dalla legislazione del Cantone che ha riscosso le imposte alla fonte.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+[^8-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^8-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+[^8-4]: Introdotto dal n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+[^8-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+## Capo 3: Imposte degli Stati Uniti riscosse alla fonte
+
+#### Art. 9
+
+**Sgravio in base alla convenzione in caso di riscossione diretta di redditi**[^9-1]
+
+<sup>1</sup>
+
+La persona che è residente di Svizzera secondo l’articolo 4 della convenzione e può beneficiare della convenzione sulla base dell’articolo 22 della stessa, ha diritto, in caso di riscossione diretta di redditi provenienti dagli Stati Uniti, ai seguenti sgravi sull’imposta alla fonte americana:
+
+- a. 30 per cento dell’ammontare lordo dei dividendi se il beneficiario è un istituto previdenziale riconosciuto che non controlla la società che paga i dividendi;
+- b. 25 per cento dell’ammontare lordo dei dividendi di una società americana che prova all’autorità competente degli Stati Uniti secondo l’articolo 3 paragrafo 1 lettera f (ii) della convenzione, che le condizioni di cui all’articolo 10 paragrafo 2 lettera a della convenzione sono soddisfatte;
+- c. 15 per cento dell’ammontare lordo dei dividendi pagati da un «Real Estate Investment Trust» americano, a condizione che il beneficiario sia una persona fisica che detiene in questo «Real Estate Investment Trust» una partecipazione inferiore al 10 per cento;
+- d. 15 per cento dell’ammontare lordo dei dividendi negli altri casi;
+- e. 30 per cento dell’ammontare lordo d’interessi d’obbligazioni pagabili verso consegna di cedole;
+- f. 30 per cento dell’ammontare lordo degli altri interessi, eccettuati i profitti di cui all’articolo 11 paragrafo 6 della convenzione;
+- g. 30 per cento dell’ammontare lordo di diritti di licenze.
+
+<sup>2</sup>
+
+La persona fisica residente di Svizzera conformemente all’articolo 4 della convenzione ha diritto:
+
+- a. allo sgravio totale dell’imposta americana trattenuta alla fonte su pensioni private e su rendite ai sensi dell’articolo 18 paragrafo 2 della convenzione;
+- b. allo sgravio totale dell’imposta americana trattenuta alla fonte su pensioni di diritto pubblico, se possiede la cittadinanza svizzera;
+- c. a una riduzione dell’imposta americana trattenuta alla fonte al 15 per cento dell’ammontare lordo delle prestazioni delle assicurazioni sociali americane ai sensi dell’articolo 19 paragrafo 4 della convenzione.
+
+<sup>3</sup> Le persone che intendono far valere il loro diritto agli sgravi dell’imposta americana trattenuta alla fonte conformemente ai capoversi 1 o 2 lettera a o b devono rimettere al debitore americano o al suo ufficio di pagamento (withholding agent) l’attestato su modulo W-8BEN richiesto dalle autorità fiscali degli Stati Uniti. Ne sono dispensate le persone che hanno concluso un «Qualified Intermediary Withholding Agreement» con le autorità fiscali degli Stati Uniti.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 10
+
+**Ricupero dell’imposta da parte della Svizzera**
+
+<sup>1</sup> Se s’appalesa che lo sgravio totale o parziale dell’imposta americana è stato ottenuto abusivamente grazie alla convenzione, l’Amministrazione federale delle contribuzioni ricupera posteriormente per conto dell’autorità fiscale degli Stati Uniti l’ammontare d’imposta eluso.
+
+<sup>2</sup> L’Amministrazione federale delle contribuzioni è autorizzata a domandare le informazioni, esigere le prove, impartire le istruzioni e prendere le decisioni necessarie a tale scopo.
+
+<sup>3</sup> L’articolo 5 è applicabile per analogia ai reclami e ai ricorsi inoltrati contro queste decisioni.
+
+#### Art. 11
+
+**Trattenuta supplementare d’imposta in caso di riscossione di dividendi e interessi americani per il tramite di istituti di pagamento svizzeri**[^11-1]
+
+<sup>1</sup> Chiunque, in qualità di «Qualified Intermediary», riceve in Svizzera da società americane o da loro uffici di pagamento, per conto di terzi, dividendi americani ridotti all’85 o al 95 per cento del loro ammontare lordo, deve, in vista del pagamento o dell’accredito immediato a beneficiari effettivi residenti di Svizzera o in vista di un bonifico su loro richiesta a una persona residente all’estero, trattenere sull’ammontare ricevuto il 15 per cento (in caso di versamento dell’85 per cento dell’ammontare lordo) o il 25 per cento (in caso di versamento del 95 per cento dell’ammontare lordo) del dividendo lordo ed, entro 30 giorni dalla fine del trimestre nel corso del quale l’accredito è stato effettuato, far pervenire questa trattenuta, in franchi svizzeri, contemporaneamente a un avviso su modulo 182, all’Amministrazione federale delle contribuzioni (sul conto 30-4120-3).
+
+<sup>2</sup> Chiunque, in qualità di «Qualified Intermediary», riceve in Svizzera da debitori americani o da loro uffici di pagamento, per conto di terzi, interessi americani per il loro intero ammontare lordo i quali, in base alla convenzione, sono esonerati secondo il diritto interno americano dalla deduzione d’imposta da operare alla fonte, deve, in vista del pagamento o dell’accredito immediato a beneficiari effettivi residenti di Svizzera o in vista di un bonifico su loro richiesta a una persona residente all’estero, trattenere sull’ammontare ricevuto il 30 per cento dell’interesse lordo ed, entro 30 giorni dalla fine del trimestre nel corso del quale l’accredito è stato effettuato, fare pervenire questa trattenuta, in franchi svizzeri, contemporaneamente a un avviso su modulo 182, all’Amministrazione federale delle contribuzioni (sul conto 30–4120–3).
+
+<sup>3</sup> Il «Qualified Intermediary» che deve operare una trattenuta d’imposta conformemente ai capoversi 1 e 2 può delegare questo obbligo a un altro «Qualified Intermediary». L’articolo 12 si applica tuttavia al «Qualified Intermediary» che ha proceduto a tale delega. Questi è pure responsabile dell’esattezza delle informazioni messe a disposizione del «Qualified Intermediary» che ha assunto la delega in vista dell’operazione di trattenuta dell’imposta.
+
+<sup>4</sup> La trattenuta supplementare d’imposta non è prelevata su dividendi e interessi americani, ricevuti per conto di persone che sono esenti dall’imposta conformemente all’articolo 56 LIFD o che sono direttamente affiliate al SIS SegaInterSettle o a un altro ufficio di clearing riconosciuto dall’Amministrazione federale delle contribuzioni.
+
+<sup>5</sup> Per la conversione in franchi svizzeri della trattenuta supplementare d’imposta è applicabile il corso del cambio in vigore il giorno del ricevimento in Svizzera del dividendo o dell’interesse americano. Se la persona che è tenuta a fare la trattenuta supplementare d’imposta bonifica i dividendi o gli interessi americani al beneficiario effettivo prima di questa data, la conversione deve essere fatta sulla base del corso medio della domanda e dell’offerta all’ultimo giorno lavorativo prima della ricezione del dividendo americano o dell’interesse americano.
+
+<sup>6</sup> Un interesse di mora è dovuto, senza diffida, sugli importi d’imposta esigibili dopo i termini di scadenza di cui ai capoversi 1 e 2. Il tasso d’interesse è identico a quello applicabile all’imposta preventiva.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 12
+
+**Conteggio della trattenuta supplementare d’imposta**[^12-1]
+
+<sup>1</sup>
+
+La persona tenuta a fare la trattenuta supplementare d’imposta deve rilasciare al beneficiario del dividendo o dell’interesse così diminuito un conteggio datato contenente le indicazioni seguenti:
+
+- a. i nomi della persona che rilascia e del beneficiario che riceve il conteggio;
+- b. il nome della società che versa il dividendo o del debitore del credito per il quale l’interesse è stato ricevuto;
+- c. per i dividendi, il numero e il genere delle azioni; per gli interessi, il genere e l’ammontare del credito;
+- d. la data della scadenza e l’ammontare lordo dei dividendi e degli interessi;
+- e. l’ammontare della trattenuta supplementare d’imposta in franchi svizzeri, convertito al corso preso come base per il bonifico del dividendo o dell’interesse; se il bonifico al beneficiario è stato fatto in dollari americani, la conversione della trattenuta supplementare d’imposta deve essere fatta sulla base del corso medio della domanda e dell’offerta all’ultimo giorno lavorativo prima della ricezione del dividendo americano o dell’interesse americano;
+- f. l’annotazione che il conteggio serve a far valere il diritto al computo o al rimborso (art. 15).
+
+<sup>2</sup> I duplicati dei conteggi devono essere indicati come tali.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 13
+
+**Vigilanza**
+
+<sup>1</sup> L’Amministrazione federale delle contribuzioni vigila sull’osservanza delle disposizioni di cui agli articoli 11 e 12.
+
+<sup>2</sup> Essa è autorizzata a domandare le informazioni, esigere le prove, impartire le istruzioni e prendere le decisioni necessarie a tale scopo.
+
+<sup>3</sup> L’articolo 5 è applicabile per analogia ai reclami e ai ricorsi presentati contro queste decisioni.
+
+<sup>4</sup> La persona che è tenuta a fare la trattenuta supplementare d’imposta o che ha delegato questo obbligo a un’altra persona conformemente all’articolo 11 capoverso 3 deve vigilare affinché il suo ufficio di revisione esterno informi annualmente l’Amministrazione federale delle contribuzioni sull’osservanza delle prescrizioni della presente ordinanza concernenti il conteggio e il versamento della trattenuta supplementare d’imposta.[^13-1]
+
+[^13-1]: Introdotto dal n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 14
+
+**Rimborso o computo della trattenuta supplementare d’imposta**
+
+<sup>1</sup>
+
+La persona, i cui redditi da dividendi o interessi americani sono stati diminuiti della trattenuta supplementare d’imposta in virtù dell’articolo 11, può domandare il rimborso o il computo in franchi svizzeri (art. 12 cpv. 1 lett. e) se:
+
+- a. al momento della scadenza del reddito imposto essa possedeva il diritto di godimento sugli investimenti di capitale americani che hanno fruttato il reddito imposto;
+- b. al momento della scadenza del reddito imposto essa era residente di Svizzera secondo l’articolo 4 della convenzione;
+- c. prova di aver diritto a beneficiare della convenzione conformemente all’articolo 22 della stessa.[^14-1]
+
+<sup>1bis</sup> Il rimborso della trattenuta supplementare d’imposta in franchi svizzeri (art. 12 cpv. 1 lett. e) può essere richiesto anche da persone residenti all’estero, se i loro redditi sono stati erroneamente diminuiti della trattenuta supplementare d’imposta.[^14-2]
+
+<sup>2</sup>
+
+Non hanno diritto al rimborso o al computo ai sensi della convenzione e della presente ordinanza:
+
+- a. le organizzazioni internazionali aventi una sede in Svizzera;
+- b. i funzionari delle organizzazioni internazionali e i membri delle rappresentanze diplomatiche e consolari di Stati terzi che risiedono in Svizzera ma che non sono quivi tenuti a pagare imposte sulla sostanza e sul reddito per le loro azioni od obbligazioni americane o per il reddito di esse.
+
+<sup>2bis</sup>
+
+Il diritto al rimborso o al computo è perento per la persona che:
+
+- a. contrariamente alle prescrizioni legali, non dichiara alle autorità fiscali competenti i dividendi o gli interessi americani diminuiti della trattenuta supplementare d’imposta conformemente all’articolo 11 o il patrimonio americano da cui provengono tali redditi di capitali (persone fisiche);
+- b. non contabilizza in modo regolare come redditi i dividendi o gli interessi americani diminuiti della trattenuta supplementare d’imposta conformemente all’articolo 11 (persone giuridiche, società commerciali senza personalità giuridica e imprese straniere con stabile organizzazione all’interno del Paese).[^14-3]
+
+<sup>3</sup> Gli ammontari rimborsati o computati non fruttano alcun interesse.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+[^14-2]: Introdotto dal n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+[^14-3]: Introdotto dal n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 15
+
+**Esercizio del diritto alla trattenuta supplementare d’imposta**[^15-1]
+
+<sup>1</sup>
+
+La persona che ha diritto in virtù dell’articolo 14 al rimborso o al computo della trattenuta supplementare d’imposta, deve far valere il suo diritto utilizzando un modulo speciale e producendo gli originali dei conteggi che le sono stati rilasciati in conformità dell’articolo 12 capoverso 1:
+
+- a. all’ufficio competente per accogliere le sue istanze di computo o di rimborso dell’imposta preventiva sui redditi di capitali svizzeri;
+- b. nel medesimo momento in cui essa può far valere un diritto al computo o al rimborso dell’imposta preventiva sui redditi di capitali svizzeri scaduti nel medesimo anno in cui sono scaduti i dividendi e gli interessi americani colpiti dalla trattenuta supplementare d’imposta in virtù dell’articolo 11.
+
+<sup>2</sup> Si può rinunciare a produrre i singoli conteggi secondo l’articolo 12 capoverso 1, qualora venga presentato un conteggio generale del medesimo valore.
+
+<sup>3</sup> Il diritto al rimborso o al computo della trattenuta supplementare d’imposta si estingue se non viene esercitato nei tre anni successivi allo spirare dell’anno civile in cui sono scaduti i dividendi o gli interessi americani.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 16
+
+**Rimborso o computo della trattenuta supplementare d’imposta domandati a torto**
+
+<sup>1</sup> Se una trattenuta supplementare d’imposta fatta in virtù dell’articolo 11 è stata rimborsata o computata a torto, il suo ammontare deve essere restituito all’Amministrazione federale delle contribuzioni (conto 30-4120-3).[^16-1]
+
+<sup>2</sup> Il ricupero incombe all’ufficio che ha deciso a torto il rimborso o il computo.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 17
+
+**Diritto applicabile**
+
+I capi secondo e terzo della LIP[^17-1] sono applicabili per analogia ad eccezione degli articoli 23, 24 capoversi 3 e 4, 25, 27 e 28.
+
+[^17-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+#### Art. 18
+
+**Regolamento dei conti fra la Confederazione e i Cantoni**[^18-1]
+
+<sup>1</sup> L’aliquota dei Cantoni nel prodotto netto annuo della trattenuta supplementare d’imposta ammonta al 10 per cento.
+
+<sup>2</sup> La ripartizione dell’aliquota spettante ai Cantoni è effettuata conformemente all’articolo 2 capoverso 2 LIP[^18-2].
+
+<sup>3</sup> La ripartizione fra il Cantone e i Comuni è di competenza del Cantone interessato.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+[^18-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+## Capo 4:**** Scambio di informazioni in generale
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 19
+
+**Informazioni provenienti dagli Stati Uniti**
+
+L’Amministrazione federale delle contribuzioni utilizza, all’attenzione delle autorità fiscali cantonali, le informazioni che le sono trasmesse dalle competenti autorità americane in merito a dividendi, interessi, diritti di licenze, pensioni e rendite vitalizie private che sono stati versati dall’America a beneficiari svizzeri.
+
+#### Art. 20
+
+**Domande di rimborso e dichiarazioni di dividendi**[^20-1]
+
+L’Amministrazione federale delle contribuzioni può trasmettere alla competente autorità americana i duplicati dei moduli 108 e delle domande di rimborso dell’imposta preventiva che le hanno fatto pervenire i beneficiari americani di dividendi e interessi svizzeri.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004 ([RU 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+
+#### Art. 20a
+
+**Applicazione della convenzione**
+
+<sup>1</sup> L’Amministrazione federale delle contribuzioni trasmette alla competente autorità americana le informazioni ottenibili in base al diritto svizzero che sono necessarie alla corretta applicazione delle disposizioni della convenzione.
+
+<sup>2</sup> Essa informa anticipatamente la persona interessata dall’affare in questione (persona interessata) riguardo al genere e ai limiti delle informazioni da trasmettere.
+
+<sup>3</sup> Se la persona interessata acconsente allo scambio di informazioni, queste vengono trasmesse immediatamente dopo l’ottenimento del consenso.
+
+#### Art. 20b
+
+**Procedura**
+
+<sup>1</sup> L’Amministrazione federale delle contribuzioni decide su tutte le contestazioni che sorgono in merito alla trasmissione di notizie e alla comunicazione di informazioni.
+
+<sup>2</sup> Se la persona interessata non acconsente alla trasmissione di informazioni alla competente autorità americana oppure non risponde entro 30 giorni, l’Amministrazione federale delle contribuzioni emette una decisione.
+
+<sup>3</sup> I rimedi giuridici contro le decisioni e risoluzioni dell’Amministrazione federale delle contribuzioni sono disciplinati nell’articolo 5.
+
+## Capo 4*a*:**** Scambio di informazioni in caso di sospetto di frode fiscale
+
+[^sec4a-1]
+
+[^sec4a-1]: Introdotto dal n. I dell’O del 1° nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
+
+#### Art. 20c
+
+**Esame preliminare delle richieste americane**
+
+<sup>1</sup> Le richieste delle competenti autorità americane per lo scambio di informazioni intese a prevenire truffe e delitti analoghi in materia fiscale secondo l’articolo 26 della convenzione sono oggetto di un esame preliminare dell’Amministrazione federale delle contribuzioni.
+
+<sup>2</sup> Se una richiesta di scambio di informazioni non può essere soddisfatta, l’Amministrazione federale delle contribuzioni ne informa la competente autorità americana. Quest’ultima può completare la sua richiesta.
+
+<sup>3</sup> Se l’esame preliminare dimostra che le condizioni dell’articolo 26 della convenzione, in correlazione con il numero 10 del suo protocollo, sono verosimilmente adempiute, l’Amministrazione federale delle contribuzioni informa della presentazione della richiesta e delle informazioni reclamate la persona che in Svizzera dispone delle relative informazioni (detentore delle informazioni). Il resto del contenuto della richiesta non deve essere comunicato al detentore delle informazioni (art. 26 par. 1 terzo periodo della convenzione).
+
+<sup>4</sup> L’Amministrazione federale delle contribuzioni chiede contemporaneamente al detentore delle informazioni di trasmetterle le informazioni e d’invitare la persona interessata a designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
+
+#### Art. 20d
+
+**Ottenimento delle informazioni**
+
+<sup>1</sup> Se il detentore delle informazioni trasmette all’Amministrazione federale delle contribuzioni le informazioni richieste, quest’ultima le esamina ed emette una decisione finale.
+
+<sup>2</sup> Se il detentore delle informazioni o la persona interessata, rispettivamente il mandatario autorizzato a ricevere le notificazioni, non acconsente a fornire le informazioni richieste entro un termine di 14 giorni, l’Amministrazione federale delle contribuzioni emette nei confronti del detentore delle informazioni una decisione con la quale esige la consegna delle informazioni indicate nella richiesta americana.
+
+<sup>3</sup> Il segreto bancario o un segreto professionale non costituiscono ostacolo all’ottenimento di informazioni.
+
+#### Art. 20e
+
+**Diritti della persona interessata**
+
+<sup>1</sup> L’Amministrazione federale delle contribuzioni notifica parimenti alla persona interessata, che ha designato un mandatario svizzero autorizzato a ricevere le notificazioni, la decisione indirizzata al detentore delle informazioni nonché copia della richiesta della competente autorità americana, a meno che nella richiesta non venga espressamente chiesta la segretezza.
+
+<sup>2</sup> Se la persona interessata non ha designato un mandatario autorizzato a ricevere le notificazioni, la notificazione deve essere eseguita dalla competente autorità americana secondo il diritto americano. Contemporaneamente, l’Amministrazione federale delle contribuzioni fissa alla persona un termine per acconsentire allo scambio di informazioni o per designare un mandatario autorizzato a ricevere le notificazioni.
+
+<sup>3</sup>
+
+La persona interessata può partecipare alla procedura e consultare gli atti. La consultazione degli atti e la partecipazione alla procedura possono essere rifiutate soltanto:
+
+- a. per documenti e atti procedurali per i quali esistono motivi di segretezza; oppure
+- b. se lo esige l’articolo 26 della convenzione.
+
+<sup>4</sup> Oggetti, documenti e atti che sono stati consegnati all’Amministrazione federale delle contribuzioni o che quest’ultima si è procurata non possono essere utilizzati ai fini dell’applicazione del diritto fiscale svizzero. È fatto salvo l’articolo 20*j* capoverso 4.
+
+#### Art. 20f
+
+**Misure coercitive**
+
+<sup>1</sup> Se le informazioni richieste nella decisione non sono fornite all’Amministrazione federale delle contribuzioni entro il termine fissato, possono essere prese misure coercitive. Al riguardo si può procedere al sequestro di oggetti, documenti e atti in forma scritta o su supporti di immagini o di dati nonché alla perquisizione domiciliare.
+
+<sup>2</sup> Le misure coercitive devono essere ordinate dal direttore dell’Amministrazione federale delle contribuzioni o dal suo sostituto. Esse devono essere eseguite da funzionari particolarmente istruiti a tale scopo e possono essere sequestrati soltanto oggetti, documenti e atti che potrebbero essere importanti in relazione con la richiesta di scambio di informazioni.
+
+<sup>3</sup> In caso di pericolo imminente e se una misura non può essere ordinata tempestivamente, il funzionario può di sua iniziativa eseguire una misura coercitiva. La misura deve essere approvata entro tre giorni dal direttore dell’Amministrazione federale delle contribuzioni o dal suo sostituto.
+
+<sup>4</sup> La polizia dei Cantoni e dei Comuni sostiene l’Amministrazione federale delle contribuzioni nell’esecuzione delle misure coercitive.
+
+#### Art. 20g
+
+**Perquisizione di locali**
+
+<sup>1</sup> Si può procedere alla perquisizione di locali soltanto se è probabile che in essi si trovino gli oggetti, i documenti e gli atti che sono in relazione con la richiesta di scambio di informazioni.
+
+<sup>2</sup> L’esecuzione della perquisizione è disciplinata nell’articolo 49 della legge federale del 22 marzo 1974[^20g-1] sul diritto penale amministrativo.
+
+[^20g-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 20h
+
+**Sequestro di oggetti, documenti e atti**
+
+<sup>1</sup> La perquisizione di oggetti, documenti e atti deve essere effettuata con il massimo riguardo per i segreti privati.
+
+<sup>2</sup> Prima della perquisizione, al possessore degli oggetti, dei documenti e degli atti o al detentore delle informazioni deve essere data l’occasione di esprimersi sul loro contenuto. Il detentore delle informazioni deve collaborare alle operazioni di localizzazione e identificazione degli oggetti, dei documenti e degli atti.
+
+<sup>3</sup> Il possessore o il detentore delle informazioni deve assumersi le spese provocate dalle misure coercitive.
+
+#### Art. 20i
+
+**Esecuzione semplificata**
+
+<sup>1</sup> Se la persona interessata acconsente di fornire le informazioni alla competente autorità americana, può informarne per scritto l’Amministrazione federale delle contribuzioni. Questo consenso è irrevocabile.
+
+<sup>2</sup> L’Amministrazione federale delle contribuzioni constata per scritto il consenso e chiude la procedura con la trasmissione delle informazioni alla competente autorità americana.
+
+<sup>3</sup> Se il consenso riguarda solo una parte delle informazioni, i rimanenti oggetti, documenti e atti vengono procurati conformemente agli articoli 20*d* e seguenti e trasmessi con decisione finale.
+
+#### Art. 20j
+
+**Chiusura della procedura**
+
+<sup>1</sup> L’Amministrazione federale delle contribuzioni emette una decisione finale motivata. In essa si pronuncia sull’esistenza di una frode fiscale e decide in merito alla trasmissione di oggetti, documenti e atti alla competente autorità americana.
+
+<sup>2</sup> La decisione è notificata alla persona interessata per il tramite del suo mandatario autorizzato a ricevere le notificazioni.
+
+<sup>3</sup> Se non è stato designato alcun mandatario autorizzato a ricevere le notificazioni, la notificazione avviene con pubblicazione nel Foglio federale.
+
+<sup>4</sup> Dopo il passaggio in giudicato della decisione finale, le informazioni trasmesse alla competente autorità americana possono essere utilizzate dall’Amministrazione federale delle contribuzioni.
+
+#### Art. 20k
+
+**Rimedi giuridici**
+
+<sup>1</sup> Il ricorso contro la decisione finale dell’Amministrazione federale delle contribuzioni relativa alla trasmissione delle informazioni è retto dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^20k-1]
+
+<sup>2</sup> Anche il detentore delle informazioni è autorizzato al ricorso, per quanto faccia valere interessi propri.
+
+<sup>3</sup> ...[^20k-2]
+
+<sup>4</sup> Ogni decisione anteriore alla decisione finale, compresa quella relativa a misure coercitive, è immediatamente esecutiva e può essere impugnata solo congiuntamente alla decisione finale.
+
+[^20k-1]: Nuovo testo giusta il n. II 53 dell'O dell'8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^20k-2]: Abrogato dal n. II 53 dell'O dell'8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 20l
+
+**Richieste senza indicazione di dati personali**[^20l-1]
+
+<sup>1</sup> Se nella richiesta le persone interessate non sono identificate mediante dati personali bensì mediante un modello di comportamento determinato, l’Amministrazione federale delle contribuzioni chiede al detentore delle informazioni di identificare tali persone e di invitarle a designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
+
+<sup>2</sup> L’Amministrazione federale delle contribuzioni informa inoltre la cerchia delle persone interessate mediante pubblicazione nel Foglio federale in merito alla richiesta di assistenza amministrativa e all’obbligo di designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
+
+<sup>3</sup> Nella pubblicazione l’Amministrazione federale delle contribuzioni menziona l’esecuzione semplificata prevista dall’articolo 20*i* e il fatto che notificherà la propria decisione finale a un mandatario autorizzato a ricevere le notificazioni designato dall’Amministrazione federale delle contribuzioni, se la persona interessata non ne designa uno entro il termine stabilito. Inoltre le persone interessate sono informate del fatto che possono ottenere ulteriori informazioni sulla procedura presso il mandatario autorizzato a ricevere le notificazioni designato dall’Amministrazione federale delle contribuzioni.
+
+<sup>4</sup> L’Amministrazione federale delle contribuzioni annuncia nei media americani la pubblicazione nel Foglio federale.
+
+<sup>5</sup> Le persone interessate devono designare entro il termine di 20 giorni un mandatario autorizzato a ricevere le notificazioni. Se la sollecitazione personale di cui al capoverso 1 non può essere notificata, il termine decorre dal giorno della pubblicazione nel Foglio federale di cui al capoverso 2.
+
+[^20l-1]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 30 nov. 2011 ([RU 2011 5259](https://fedlex.data.admin.ch/eli/oc/2011/756)).
+
+## Capo 5: Infrazioni
+
+#### Art. 21
+
+<sup>1</sup>
+
+Conformemente all’articolo 61 LIP[^21-1] è punito chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto a sé o a un’altra persona:
+
+- a. non soddisfa all’obbligo di dedurre una trattenuta d’imposta;
+- b. non versa all’Amministrazione federale delle contribuzioni una trattenuta d’imposta fatta a ragione o a torto;
+- c. ottiene un rimborso o un computo ingiustificato di una trattenuta d’imposta.
+
+<sup>2</sup>
+
+Conformemente all’articolo 62 LIP è punito chiunque, intenzionalmente o per negligenza, senza che sia data la fattispecie del capoverso 1:
+
+- a. nella procedura di riscossione di una trattenuta d’imposta, non soddisfa all’obbligo di consegnare ricapitolazioni e conteggi, di dare informazioni e di produrre documenti giustificativi;
+- b. rilascia conteggi inesatti in qualità di contribuente alla trattenuta supplementare d’imposta;
+- c. fornisce dati falsi o tace fatti rilevanti in una ricapitolazione, in un conteggio oppure in una domanda di rimborso della trattenuta ovvero presenta documenti suppositizi per giustificare fatti rilevanti;
+- d. fornisce informazioni inesatte in qualità di contribuente o richiedente della trattenuta d’imposta;
+- e. fa valere per le trattenute d’imposta diritti al rimborso o al computo che non gli spettano o che sono già stati soddisfatti;
+- f. contravviene all’obbligo di tenere regolarmente e custodire i libri commerciali, i registri e i documenti giustificativi;
+- g. intralcia, impedisce o rende impossibile l’esecuzione normale di una verifica contabile o di altri controlli ufficiali;
+- h. non dà seguito alle ingiunzioni concernenti il versamento o trasferimento di imposte alla fonte o di trattenute d’imposta.
+
+<sup>3</sup> Per il rimanente, sono applicabili per analogia le disposizioni degli articoli 64 e 67 della LIP.
+
+[^21-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+## Capo 6: Disposizioni finali
+
+#### Art. 22
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 2 novembre 1951[^22-1] concernente la convenzione americano-svizzera di doppia imposizione è abrogata.
+
+[^22-1]: [[RU 1951 1058](https://fedlex.data.admin.ch/eli/oc/1951/1031_1032_1058), [1962 1702](https://fedlex.data.admin.ch/eli/oc/1962/1622_1680_1702)art. 8, **1967** 76, [1974 1962](https://fedlex.data.admin.ch/eli/oc/1974/1962_1962_1962), [1975 2266](https://fedlex.data.admin.ch/eli/oc/1975/2266_2266_2266)]
+
+#### Art. 23
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Fatte salve le disposizioni del capoverso 2, la presente ordinanza è applicabile alle imposte alla fonte riscosse sui redditi pagati o accreditati a partire dal 1° febbraio 1998.
+
+<sup>2</sup> Per i contribuenti che, in base all’articolo 29 paragrafo 3 della convenzione, hanno richiesto di essere trattati secondo il diritto anteriore ancora per dodici mesi a decorrere dall’entrata in vigore della presente ordinanza, il diritto anteriore è applicabile alle imposte alla fonte riscosse sui redditi pagati o accreditati fino al 31 gennaio 1999.
+
+#### Art. 24
+
+**Entrata in vigore**
+
+La presente ordinanza entra retroattivamente in vigore il 1° febbraio 1998.

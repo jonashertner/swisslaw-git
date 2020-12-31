@@ -1,0 +1,44 @@
+---
+sr: "0.632.205"
+title: Fünftes Protokoll vom 27. Februar 1998 zum Allgemeinen Abkommen über den Handel mit Dienstleistungen
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/485"
+language: de
+version: 1999-03-01
+adopted: 1998-02-27
+in_force: 1999-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/485/19990301/de/xml/fedlex-data-admin-ch-eli-cc-1999-485-19990301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/485/19990301/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Fünftes Protokoll zum Allgemeinen Abkommen über den Handel mit Dienstleistungen
+
+0.632.205 (Stand am 21. Dezember 1999)
+
+AS **1999** 3458; BBl **1998** 3460
+
+Übersetzung*[^t-1]*
+
+Von der Bundesversammlung genehmigt am 23. September 1998[^t-2] In Kraft getreten für die Schweiz am 1. März 1999
+
+Vom 27. Februar 1998 (Stand am 21. Dezember 1999)
+
+[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+[^t-2]: [AS 1999 3457](https://fedlex.data.admin.ch/eli/oc/1999/484)
+
+Die Mitglieder der Welthandelsorganisation (im folgenden «WTO» genannt), deren Listen über spezifische Verpflichtungen und Listen der Befreiungen von Artikel II des Allgemeinen Abkommens über den Handel mit Dienstleistungen diesem Protokoll beigefügt sind[^ingress-1] (im folgenden «betroffene Mitglieder» genannt),
+
+Nach Führen von Verhandlungen gemäss der Zweiten Entscheidung über Finanzdienstleistungen, die am 21. Juli 1995 vom Rat für den Handel mit Dienstleistungen angenommen wurde (S/L/9),
+
+beschliessen wie folgt:
+
+- 1\. Eine diesem Protokoll beigefügte Liste über spezifische Verpflichtungen und eine Liste der Befreiungen von den Verpflichtungen nach Artikel II betreffend Finanzdienstleistungen bezogen auf ein Mitglied soll, bei Inkrafttreten dieses Protokolls für jenes Mitglied, die Finanzdienstleistungsteile der Liste über spezifische Verpflichtungen und der Liste der Befreiungen von den Verpflichtungen nach Artikel II jenes Mitglieds ersetzen.
+- 2\. Dieses Protokoll steht den betroffenen Mitgliedern bis 29. Januar 1999 zur Annahme durch Unterzeichnung oder sonstwie offen.
+- 3\. Dieses Protokoll wird am 30. Tag nach dem Datum seiner Annahme durch alle betroffenen Mitglieder in Kraft treten. Falls es nicht von allen betroffenen Mitgliedern bis am 30. Januar 1999 angenommen worden ist, können die Mitglieder, die es vor diesem Datum angenommen haben, anschliessend während einer Zeitdauer von 30 Tagen über dessen Inkrafttreten entscheiden.
+- 4\. Dieses Protokoll wird beim Generaldirektor der WTO hinterlegt. Der Generaldirektor der WTO wird jedem Mitglied der WTO umgehend eine bescheinigte Kopie dieses Protokolls und Notifikationen der Annahmen davon gemäss Absatz 3 zustellen.
+- 5\. Dieses Protokoll wird gemäss den Bestimmungen von Artikel 102 der Charta der Vereinten Nationen registriert.
+
+Geschehen zu Genf am siebenundzwanzigsten Februar neunzehnhundertachtundneunzig in einer Urschrift in englischer, französischer und spanischer Sprache, die alle authentisch sind, ausser falls mit Bezug auf die angehängten Listen anders vorgesehen.
+
+[^ingress-1]: Diese Listen werden in der Amtlichen Sammlung des Bundesrechts nicht veröffentlicht. Sie sind in einem Sonderdruck in französischer Sprache mit dem Titel «Suisse – Liste d’engagements spécifiques» zusammengefasst. Dieser ist bei der EDMZ, Sektion Bewirtschaftung, 3003 Bern, erhältlich.

@@ -1,0 +1,71 @@
+---
+sr: "0.748.127.194.542"
+title: Abkommen vom 27. Oktober 1986 zwischen der Schweizerischen Eidgenossenschaft und der Republik Italien über gewisse Luftverkehrslinien des Nicht-Linienverkehrs
+eli: "https://fedlex.data.admin.ch/eli/cc/1991/234_234_234"
+language: de
+version: 1990-03-23
+adopted: 1986-10-27
+in_force: 1990-03-23
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/234_234_234/19900323/de/xml/fedlex-data-admin-ch-eli-cc-1991-234_234_234-19900323-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/234_234_234/19900323/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über gewisse Luftverkehrslinien des Nicht-Linienverkehrs
+
+AS **1991** 234
+
+Übersetzung*[^t-1]*
+
+Abgeschlossen am 27. Oktober 1986 Ratifikationsurkunden ausgetauscht am 23. März 1990 In Kraft getreten am 23. März 1990
+
+[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der italienischen Ausgabe dieser Sammlung.
+
+Der Schweizerische Bundesrat und die Regierung der Italienischen Republik,
+
+in Berücksichtigung der besonderen Natur humanitärer und dringlicher Flüge sowie solcher von Taxi- und Ambulanzflügen, für welche vereinfachte Verfahren erforderlich sind,
+
+in der Erwägung, dass diese Flüge keine nachteiligen Auswirkungen auf den Linienverkehr haben, haben folgendes vereinbart:
+
+#### Art. 1
+
+Die beiden Vertragsparteien lassen auf ihren Gebieten Luftfahrzeuge für die Aufnahme und die Abgabe von Verkehr frei zu, die von den im nachstehenden Artikel 2 dieses Abkommens erwähnten Beförderern betrieben werden, wenn ihnen der Flugplan nach den Richtlinien der Internationalen Zivilluftfahrt-Organisation mitgeteilt wird, ohne «Vorschriften, Bedingungen oder Einschränkungen» aufzuerlegen, zu welchen die beiden Vertragsparteien nach Artikel 5 Absatz 2 des am 7. Dezember 1944[^1-1] in Chikago abgeschlossenen Übereinkommens über die Internationale Zivilluftfahrt ermächtigt sind, wenn diese Luftfahrzeuge für eine der nachfolgenden Tätigkeiten gebraucht werden:
+
+- a. Beförderungen, die für humanitäre Zwecke oder im Fall von zwingender Notwendigkeit durchgeführt werden;
+- b. gelegentliche, auf Bestellung durchgeführte Beförderungen von Fluggästen mit Taxi- oder Ambulanzflügen, vorausgesetzt, dass das Flugzeug nicht über ein Fassungsvermögen von mehr als zehn Fluggast-Sitzen verfügt, der Bestimmungsort durch den Besteller bestimmt und kein Teil des Fassungsvermögens der Öffentlichkeit abgetreten wird.
+
+[^1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+
+#### Art. 2
+
+Dieses Abkommen ist nur auf humanitäre und dringliche Flüge, auf Taxi- sowie Ambulanzflüge anwendbar, welche durch Beförderer der beiden Vertragsparteien durchgeführt werden, die von den zuständigen Luftfahrtbehörden dazu gehörig ermächtigt sind. Voraussetzung dazu ist indes, dass die Unternehmen der beiden Vertragsparteien über das Eigentum der Luftfahrzeuge sowie die tatsächliche Kontrolle darüber verfügen und die Luftfahrzeuge die Gesetze und Verordnungen der beiden Vertragsparteien auf dem Gebiet der Luftfahrt sowie die Vorschriften der Flughäfen beachten.
+
+#### Art. 3
+
+Die Luftfahrtbehörden der beiden Vertragsparteien übermitteln einander vor dem Inkrafttreten dieses Abkommens eine Liste der Beförderer, die für die in diesem Abkommen vorgesehenen Beförderungen ermächtigt sind. Sie führen diese Liste in regelmässigen Abständen nach.
+
+#### Art. 4
+
+Der in Artikel 1 dieses Abkommens erwähnte freie Zugang bezieht sich auf zivile internationale Flughäfen und Militärflughäfen, die für den gewerbsmässigen Verkehr der internationalen Zivilluftfahrt der beiden Vertragsparteien auf der Grundlage des tatsächlichen Gegenrechtes geöffnet sind.
+
+#### Art. 5
+
+Zusätzlich zu den Flügen vom oder ins Ausland umfasst dieses Abkommen, was Taxiflüge betrifft, die Flüge zwischen zwei oder mehreren Punkten auf den entsprechenden Gebieten, vorausgesetzt, dass diese Flüge für die Beförderungen der gleichen Fluggäste innerhalb von 36 Stunden, berechnet von der Ankunft des Fluges vom Ausland an, durchgeführt werden und unter der Bedingung, dass kein anderer Fluggast aufgenommen und/oder abgesetzt wird.
+
+#### Art. 6
+
+Dieses Abkommen schiebt die gesetzlichen Vorschriften, die Verordnungen und die anderen verwaltungsrechtlichen Bestimmungen, die in den Vertragsstaaten über die Einreise und den Aufenthalt von Ausländern in ihren Gebieten in Kraft sind, weder vorläufig auf noch ändert es sie. Die Besatzungen sowie die Fluggäste, in welcher Eigenschaft auch immer, die von einem der Vertragsstaaten abfliegen und im Gebiet der anderen Vertragspartei landen, unterstehen den betreffenden innerstaatlichen Rechtsvorschriften.
+
+#### Art. 7
+
+<sup>1.</sup> Dieses Abkommen tritt an dem Tag in Kraft, an dem die beiden Vertragsparteien die entsprechenden Ratifikationsurkunden ausgetauscht haben.
+
+<sup>2.</sup> Dieses Abkommen kann mit gegenseitiger Zustimmung geändert werden. Es ist jederzeit unter Einhaltung einer sechsmonatigen Mitteilungsfrist von jeder Vertragspartei kündbar.
+
+Geschehen zu Rom am 27. Oktober 1986, in doppelter Unterschrift, in italienischer Sprache.
+
+<table>
+<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung der Italienischen Republik:</td></tr>
+<tr><td>Gaspard Bodmer</td><td>Giacomo Attolico</td></tr>
+</table>

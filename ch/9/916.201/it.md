@@ -1,0 +1,2595 @@
+---
+sr: "916.201"
+title: "Ordinanza del DEFR e del DATEC del 14 novembre 2019 concernente l'ordinanza sulla salute dei vegetali (OSalV-DEFR-DATEC)"
+short: OSalV-DEFR-DATEC
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/787"
+language: it
+version: 2020-08-01
+adopted: 2019-11-14
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/fedlex-data-admin-ch-eli-cc-2019-787-20200801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/787/20200801/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DEFR e del DATEC concernente l’ordinanza sulla salute dei vegetali
+
+(OSalV-DEFR-DATEC)
+
+del 14 novembre 2019 (Stato 1° agosto 2020)
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e della comunicazione (DATEC),
+
+visti gli articoli 4 capoverso 3, 24 capoverso 2, 29 capoversi 2, 3 e 5, 29*b*, 30, 33 capoversi 1, 2 e 5, 38*a*, 39 capoverso 2, 40 capoverso 1, 49 capoverso 6, 53 capoverso 1, 59*a*, 60 capoverso 2, 75 capoversi 5 e 7, 96 capoverso 1 nonché 97 capoverso 4 dell’ordinanza del 31 ottobre 2018[^ingress-1] sulla salute dei vegetali (OSalV),[^ingress-2]
+
+ordinano:
+
+[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+La presente ordinanza contiene disposizioni per l’esecuzione dell’OSalV. Essa definisce in particolare gli organismi da quarantena e gli organismi regolamentati non da quarantena, nonché le merci che non possono essere importate o messe in commercio oppure che possono esserlo soltanto a determinate condizioni.
+
+## Sezione 2: Organismi da quarantena, zone protette e organismi da quarantena per i quali è stata delimitata una zona protetta
+
+#### Art. 2
+
+**Organismi da quarantena**
+
+<sup>1</sup> Gli organismi nocivi particolarmente pericolosi considerati organismi da quarantena sono elencati nell’allegato 1. In quest’ultimo è indicata anche l’autorità competente per ogni organismo pericoloso.
+
+<sup>2</sup> Gli organismi da quarantena da trattare in via prioritaria sono specificati in quanto tali nell’allegato 1.
+
+#### Art. 3
+
+**Zone protette e organismi da quarantena per i quali è stata delimitata una zona protetta**
+
+Le zone protette e gli organismi da quarantena per i quali è stata delimitata una zona protetta sono elencati nell’allegato 2.
+
+## Sezione 3: Organismi regolamentati non da quarantena
+
+#### Art. 4
+
+**Infestazione di vegetali specifici da organismi regolamentati non da quarantena**
+
+<sup>1</sup> I vegetali specifici destinati alla piantagione che in caso d’infestazione da organismi regolamentati non da quarantena non possono essere importati a scopo commerciale né messi in commercio sono indicati nell’allegato 3.
+
+<sup>2</sup> Nell’allegato 3 sono altresì indicati i valori soglia per l’infestazione al di sotto dei quali i vegetali specifici destinati alla piantagione possono essere importati anche a scopo commerciale o messi in commercio.
+
+#### Art. 5
+
+**Misure contro la comparsa di organismi regolamentati non da quarantena**
+
+<sup>1</sup> I vegetali specifici destinati alla piantagione di cui all’articolo 4 possono essere importati a scopo commerciale e messi in commercio soltanto se sono state prese le misure elencate nell’allegato 4.
+
+<sup>2</sup> Le aziende omologate per il rilascio di passaporti fitosanitari devono annotare le misure prese e le annotazioni devono essere conservate per almeno 3 anni.
+
+#### Art. 6
+
+**Misure contro la comparsa di *Erwinia amylovora***
+
+<sup>1</sup> Il servizio cantonale competente può, d’intesa con l’Ufficio federale dell’agricoltura (UFAG), delimitare aree in cui la frequenza d’insorgenza di *Erwinia amylovora* (Burr.) Winsl. *et al.* sulle piante ospiti (prevalenza) va mantenuta esigua.
+
+<sup>2</sup>
+
+Chi possiede vegetali in un’area delimitata secondo il capoverso 1 che potrebbero essere infestati da *Erwinia amylovora* (Burr.) Winsl. *et al*, è tenuto a prendere le seguenti misure:
+
+- a. sorvegliare la situazione fitosanitaria relativamente a *Erwinia amylovora* (Burr.) Winsl. *et al.*;
+- b. notificare al servizio cantonale competente la sospettata o confermata presenza di *Erwinia amylovora* (Burr.) Winsl. *et al.*; e
+- c. rimuovere senza indugio e distruggere adeguatamente le parti di vegetali infestate.
+
+<sup>3</sup> Il servizio cantonale competente controlla l’attuazione delle misure.
+
+- [tab] <sup>4</sup> Indipendentemente dalla delimitazione di zone secondo il capoverso 1, l’importazione, la produzione e la messa in commercio di *Cotoneaster* Ehrh., *Photinia davidiana* Cardot e *Photinia nussia* Cardot sono vietate.
+
+## Sezione 4: Importazione di merci e spostamento di merci in zone protette
+
+#### Art. 7
+
+**Merci la cui importazione da Stati terzi è vietata o consentita soltanto a determinate condizioni**
+
+<sup>1</sup> Le merci la cui importazione da determinati Stati terzi è vietata sono elencate nell’allegato 5.
+
+<sup>2</sup> Le merci la cui importazione da determinati Stati terzi è consentita soltanto a condizione che siano scortate da un certificato fitosanitario per l’importazione sono elencate nell’allegato 6.[^7-1]
+
+<sup>3</sup> Le condizioni specifiche che determinate merci di cui al capoverso 2 devono adempiere in via suppletiva per l’importazione da determinati Stati terzi sono elencate nell’allegato 7.[^7-2]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+#### Art. 8
+
+**Sementi e altre merci la cui importazione dall’UE è consentita soltanto con un passaporto fitosanitario**
+
+Le sementi e le altre merci, la cui importazione dall’Unione europea (UE) ai sensi dell’articolo 39 capoverso 2 OSalV è consentita a condizione che siano scortate da un passaporto fitosanitario, sono elencate nell’allegato 8.
+
+#### Art. 8a
+
+**Condizioni specifiche delle merci per l’importazione dall’UE**[^8a-1]
+
+Le merci che possono essere importate dall’UE soltanto a determinate condizioni sono elencate nell’allegato 8*a* con le rispettive condizioni.
+
+[^8a-1]: Introdotto dal n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+#### Art. 9
+
+**Merci il cui spostamento in una zona protetta e la cui messa in commercio nella zona protetta sono vietati o consentiti soltanto a determinate condizioni**
+
+<sup>1</sup> Le merci il cui spostamento in una zona protetta e la cui messa in commercio nella zona protetta sono vietati sono elencate nell’allegato 9 numero 1.
+
+<sup>2</sup> Le merci il cui spostamento in una zona protetta e la cui messa in commercio nella zona protetta sono consentiti soltanto a condizione che siano scortate da un passaporto fitosanitario per zone protette sono elencate nell’allegato 9 numero 2.
+
+<sup>3</sup> Le merci che possono essere spostate in una zona protetta o messe in commercio in una zona protetta soltanto a determinate condizioni sono elencate all’allegato 9 numero 3 con le rispettive condizioni.[^9-1]
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+## Sezione 5: Controllo all’importazione
+
+#### Art. 10
+
+**Notifica al Servizio fitosanitario federale**
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione notifica le merci soggette all’obbligo di controllo al Servizio fitosanitario federale (SFF) al più tardi il giorno precedente l’importazione.
+
+<sup>2</sup> A tal fine allega al documento sanitario comune d’entrata (DSCE) le copie elettroniche dei documenti rilevanti per l’importazione, segnatamente del certificato fitosanitario, del bollettino di consegna e della lettera di trasporto aerea, o le trasmette via e-mail al punto di entrata.
+
+<sup>3</sup> Il SFF può prevedere scadenze più brevi di quella di cui al capoverso 1. Le rende note sul suo sito Internet[^10-1].
+
+[^10-1]: www.ufag.admin.ch &gt; Produzione sostenibile &gt; Protezione dei vegetali
+
+#### Art. 11
+
+**Misure nel traffico turistico**
+
+<sup>1</sup> Se nel traffico turistico gli uffici doganali riscontrano merci di cui all’articolo 7 capoverso 1 o merci di cui all’articolo 7 capoverso 2 che non sono scortate da un certificato fitosanitario, segnalano alla persona soggetta all’obbligo di dichiarazione che la merce può essere eliminata in loco o sequestrata dal SFF.
+
+<sup>2</sup> Se la persona soggetta all’obbligo di dichiarazione non elimina la merce in loco, l’ufficio doganale provvede affinché il competente punto di entrata del SFF la sequestri.
+
+<sup>3</sup> Se nel traffico turistico gli uffici doganali riscontrano merci di cui all’articolo 7 capoverso 2 che sono scortate da un certificato fitosanitario, informano il competente punto di entrata del SFF affinché esegua i controlli.
+
+<sup>4</sup> Gli uffici doganali coadiuvano il SFF nell’esecuzione di campagne di controllo.
+
+## Sezione 6: Stazioni di quarantena e strutture di confinamento
+
+#### Art. 12
+
+**Esigenze relative alle stazioni di quarantena e alle strutture di confinamento**
+
+Le stazioni di quarantena e le strutture di confinamento devono adempiere le seguenti esigenze:
+
+- a. l’isolamento fisico delle merci da conservare in quarantena o sotto chiave è garantito;
+- b. l’accesso alla stazione di quarantena o alla struttura di confinamento può essere limitato;
+- c. all’interno della stazione di quarantena o della struttura di confinamento è possibile sterilizzare, decontaminare o distruggere le merci infestate, i rifiuti e le attrezzature;
+- d. è disponibile un numero sufficiente di addetti con le necessarie qualifiche;
+- e. esiste un piano d’emergenza.
+
+#### Art. 13
+
+**Gestione delle stazioni di quarantena e delle strutture di confinamento**
+
+La persona competente designata nel quadro del riconoscimento della stazione di quarantena o della struttura di confinamento è responsabile per quanto concerne:
+
+- a. la sorveglianza della stazione di quarantena o della struttura di confinamento e dei suoi dintorni relativamente alla presenza di organismi nocivi particolarmente pericolosi;
+- b. l’attuazione delle misure necessarie in presenza di organismi nocivi particolarmente pericolosi;
+- c. l’assegnazione dei diritti d’accesso; e
+- d.
+
+  la tenuta di un registro:
+
+  - 1\. delle persone che hanno diritto d’accesso,
+  - 2\. dei visitatori che, accompagnati da una persona autorizzata, hanno accesso alla stazione di quarantena o alla struttura di confinamento,
+  - 3\. delle merci trasportate nella stazione di quarantena o nella struttura di confinamento e di quelle in uscita,
+  - 4\. dell’origine delle merci trasportate nella stazione di quarantena o nella struttura di confinamento, e
+  - 5\. della presenza di organismi nocivi particolarmente pericolosi.
+
+#### Art. 14
+
+**Controllo delle stazioni di quarantena e delle strutture di confinamento**
+
+<sup>1</sup> Il SFF controlla periodicamente se le stazioni di quarantena e le strutture di confinamento adempiono le esigenze di cui all’articolo 12 e gli obblighi di cui all’articolo 13.
+
+<sup>2</sup> Esso revoca il riconoscimento di una stazione di quarantena o di una struttura di confinamento oppure ne vincola il mantenimento a oneri se le esigenze di cui all’articolo 12 o gli obblighi di cui all’articolo 13 non sono più adempiuti.
+
+## Sezione 7: Messa in commercio di merci
+
+#### Art. 15
+
+**Sementi e altre merci la cui messa in commercio è consentita soltanto con un passaporto fitosanitario[^15-1]**
+
+Le sementi e le altre merci, la cui messa in commercio ai sensi dell’articolo 60 capoverso 2 OSalV è consentita soltanto a condizione che siano scortate da un passaporto fitosanitario, sono elencate nell’allegato 8.
+
+[^15-1]: Introdotto dal n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+#### Art. 15a
+
+**Condizioni specifiche delle merci per la messa in commercio**[^15a-1]
+
+Le merci che possono essere messe in commercio soltanto a determinate condizioni sono elencate nell’allegato 8*a* con le rispettive condizioni.
+
+[^15a-1]: Introdotto dal n. I dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+## Sezione 8: Passaporto fitosanitario
+
+#### Art. 16
+
+**Requisiti formali del passaporto fitosanitario**
+
+<sup>1</sup> Le aziende omologate per il rilascio di passaporti fitosanitari riportano gli elementi prescritti ai sensi dell’allegato 7 OSalV sul passaporto fitosanitario in un campo di testo rettangolare.
+
+<sup>2</sup> Inseriscono gli elementi rispettando i margini o separandoli chiaramente in altro modo da altre informazioni o immagini.
+
+#### Art. 17
+
+**Modello di passaporto fitosanitario**
+
+<sup>1</sup> Il passaporto fitosanitario per l’importazione di merci dall’UE e la messa in commercio di merci deve essere conforme al modello di cui all’allegato 10 numero 2.
+
+<sup>2</sup> Il passaporto fitosanitario per lo spostamento di merci in zone protette e la messa in commercio di merci in zone protette deve essere conforme al modello di cui all’allegato 10 numero 3.
+
+<sup>3</sup> Il passaporto fitosanitario per l’importazione di merci dall’UE e la messa in commercio di merci, combinato con un’etichetta ufficiale per la certificazione ai sensi dell’articolo 17 dell’ordinanza del 7 dicembre 1998[^17-1] sul materiale di moltiplicazione, deve essere conforme al modello di cui all’allegato 10 numero 4.
+
+<sup>4</sup> Il passaporto fitosanitario per lo spostamento di merci in zone protette e la messa in commercio di merci in zone protette, combinato con un’etichetta ufficiale per la certificazione ai sensi dell’articolo 17 dell’ordinanza sul materiale di moltiplicazione, deve essere conforme a uno dei modelli di cui all’allegato 10 numero 5.
+
+[^17-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+
+#### Art. 18
+
+**Codice di tracciabilità**
+
+I tipi e le specie di vegetali per i quali non si applica l’eccezione di cui all’articolo 75 capoverso 6 OSalV concernente il codice di tracciabilità sono elencati nell’allegato 11.
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogato dal n. I dell’O del DEFR e del DATEC del 19 giu. 2020, con effetto dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+## Sezione 9: Finanziamento nel settore agricoltura e ortoflorovivaismo esercitato a titolo professionale
+
+#### Art. 20
+
+**Criteri per il calcolo delle indennità**
+
+<sup>1</sup>
+
+L’UFAG per il calcolo delle indennità ai sensi dell’articolo 96 OSalV considera in particolare i seguenti criteri:
+
+- a. situazione d’infestazione nel momento in cui sono state disposte le misure;
+- b. ammontare del danno;
+- c. conseguenze economiche del danno per l’azienda;
+- d. esistenza di altre responsabilità o di altri diritti derivanti da assicurazioni;
+- e. assicurabilità del danno;
+- f. possibilità di prevenzione o di riduzione dei danni da parte dell’azienda.
+
+<sup>2</sup> Per il calcolo dell’ammontare del danno è determinante il valore di mercato della merce distrutta o soggetta a blocco della messa in commercio al momento in cui sono state disposte le misure.
+
+#### Art. 21
+
+**Spese riconosciute per le indennità ai Cantoni**
+
+<sup>1</sup> Sono considerate risconosciute le spese ai sensi dell’articolo 97 OSalV se le misure che le hanno generate sono state attuate in base a direttive o piani d’emergenza dell’UFAG oppure d’intesa con lo stesso. I Cantoni ricevono le indennità soltanto se le misure sono concluse e le spese possono essere giustificate.
+
+<sup>2</sup> Per i costi del personale, ivi inclusi spese e oneri, si riconosce un’indennità giornaliera di 520 franchi.
+
+<sup>3</sup>
+
+L’UFAG rimborsa le indennità concesse da un Cantone, se quest’ultimo ha tenuto conto dei criteri di cui all’articolo 20 e se l’equità dell’indennità è chiara, nella misura del:
+
+- a. 75 per cento, alla prima comparsa di un organismo da quarantena o di un potenziale organismo da quarantena nel territorio cantonale;
+- b. 50 per cento, a una ricomparsa dello stesso organismo.
+
+#### Art. 22
+
+**Domanda d’indennità**
+
+<sup>1</sup> Le domande d’indennità vanno inoltrate al più tardi entro sei mesi dalla conclusione delle misure. La domanda deve essere corredata di tutti i giustificativi necessari.
+
+<sup>2</sup> Le domande d’indennità per misure di sorveglianza vanno inoltrate al più tardi entro fine marzo dell’anno seguente quello in cui sono state attuate le misure di sorveglianza.
+
+<sup>3</sup> L’UFAG mette a disposizione in forma appropriata il modulo di domanda.
+
+## Sezione 10: Disposizioni finali
+
+#### Art. 23
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del DEFR del 15 aprile 2002[^23-1] sui vegetali vietati è abrogata.
+
+[^23-1]: [[RU 2002 1098](https://fedlex.data.admin.ch/eli/oc/2002/176), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. V 19]
+
+#### Art. 24
+
+**Modifica di altri atti normativi**
+
+La modifica di altri atti normativi è disciplinata nell’allegato 13.
+
+#### Art. 25
+
+**Disposizione transitoria**
+
+Le sementi prodotte prima dell’entrata in vigore della presente ordinanza possono essere messe in commercio secondo il diritto anteriore.
+
+#### Art. 26
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2020.
+
+Allegato 1*[^t-1]*
+
+(art. 2)
+
+## Organismi da quarantena
+
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+### 1. Organismi da quarantena che non sono presenti in Svizzera
+
+### 1.1 Batteri
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP[^annex1-lvlu1-lvl1-lvl11-1]]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.1.1 *Candidatus* Liberibacter africanus [LIBEAF]</td><td>si</td><td>UFAG</td></tr>
+<tr><td>1.1.2 *Candidatus* Liberibacter americanus [LIBEAM]</td><td>si</td><td>UFAG</td></tr>
+<tr><td>1.1.3 *Candidatus* Liberibacter asiaticus [LIBEAS]</td><td>si</td><td>UFAG</td></tr>
+<tr><td>1.1.4 *Curtobacterium flaccumfaciens* pv. *flaccumfaciens* (Hedges) Collins & Jones [CORBFL]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.5 *Clavibacter* *sepedonicus* (Spieckermann & Kottho) Nouioui *et al.* [CORBSE]</td><td>si</td><td>UFAG</td></tr>
+<tr><td>1.1.6 *Pantoea stewartii* subsp. *stewartii* (Smith) Mergaert, Verdonck & Kersters [ERWIST]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.7 *Ralstonia pseudosolanacearum* Safni *et al.* [RALSPS]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.8 *Ralstonia solanacearum* (Smith) Yabuuchi *et al.* emend. Safni *et al.* [RALSSL]</td><td>si</td><td>UFAG</td></tr>
+<tr><td>1.1.9 *Ralstonia syzygii* subsp. *celebesensis* Safni *et al.* [RALSSY]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.10 *Ralstonia syzygii* subsp. *indonesiensis* Safni *et al.* [RALSSY]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.11 *Xanthomonas citri* pv. *aurantifolii* (Schaad *et al.*) Constantin *et al.* [XANTAU]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.12 *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al.* [XANTCI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.13 *Xanthomonas oryzae* pv. *oryzae* (Ishiyama) Swings *et al.* [XANTOR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.14 *Xanthomonas oryzae* pv. *oryzicola* (Fang *et al*.) Swings *et al.* [XANTTO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.1.15 *Xylella fastidiosa* (Wells *et al.*) [XYLEFA]</td><td>si</td><td>UFAG</td></tr>
+</table>
+
+[^annex1-lvlu1-lvl1-lvl11-1]: European and Mediterranean Plant Protection Organization (Organizzazione europea e mediterranea per la protezione delle piante)
+
+### 1.2 Funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.2.1 *Anisogramma anomala* (Peck) E. Müller [CRSPAN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.2 *Apiosporina morbosa* (Schwein.) Arx [DIBOMO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.3 *Atropellis* spp. [1ATRPG]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.4 *Botryosphaeria kuwatsukai* (Hara) G.Y. Sun & E. Tanaka [PHYOPI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.5 *Bretziella fagacearum* (Bretz) Z.W de Beer, T.A. Duong & M.J. Wingfield, comb. nov. [CERAFA]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.6 *Chrysomyxa arctostaphyli* Dietel [CHMYAR]</td><td></td><td>UFAM</td></tr>
+<tr><td>1.2.7 *Coniferiporia* *sulphurascens* (Pilát) L.W. Zhou & Y.C. Dai [PHELSU]</td><td></td><td>UFAM</td></tr>
+<tr><td>1.2.8 *Coniferiporia* *weirii* (Murrill) L.W. Zhou & Y.C. Dai [INONWE]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.9 *Cronartium* spp. [1CRONG], esclusi *C. gentianeum*, *C. pini* (Willdenow) Jørstad [ENDCPI] e *C. ribicola* Fischer [CRONRI]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.10 *Davidsoniella* *virescens* (R.W. Davidson)Z.W. de Beer, T.A. Duong & M.J. Wingf [CERAVI]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.11 *Elsinoë* *australis* Bitanc. & Jenkins [ELSIAU]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.12 *Elsinoë citricola* X.L. Fan, R.W. Barreto & Crous [ELSICI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.13 *Elsinoë fawcettii* Bitanc. & Jenkins [ELSIFA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.14 *Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.15 *Fusarium* *oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.16 *Geosmithia* *morbida* Kolarík, Freeland, Utley & Tisserat [GEOHMO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.17 *Guignardia* *laricina* (Sawada) W. Yamam& Kaz. Itô [GUIGLA]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.18 *Gymnosporangium* spp. [1GYMNG], ad eccezione di *Gymnosporangium amelanchieris* E. Fisch. Ex F. Kern, *Gymnosporangium atlanticum* Guyot & Malençon, *Gymnosporangium clavariiforme* (Wulfen) DC [GYMNCF], *Gymnosporangium confusum* Plowr. [GYMNCO], *Gymnosporangium cornutum* Arthur ex F. Kern [GYMNCR], *Gymnosporangium fusisporum* E. Fisch., *Gymnosporangium gaeumannii* H. Zogg, *Gymnosporangium gracile* Pat., *Gymnosporangium minus* Crowell, *Gymnosporangium orientale* P. Syd. & Syd., *Gymnosporangium sabinae* (Dicks.) G. Winter [GYMNFU], *Gymnosporangium torminali-juniperini* E. Fisch. e *Gymnosporangium tremelloides* R. Hartig [GYMNTR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.19 *Melampsora farlowii* (Arthur) Davis [MELMFA]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.20 *Melampsora medusae* f.sp. *tremuloidis* Shain [MELMMT]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.21 *Mycodiella* *laricis-leptolepidis* (Kaz. Itô, K. Satô & M. Ota) Crous [MYCOLL]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.22 *Phoma andina* Turkensteen [PHOMAN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.23 *Phyllosticta citricarpa* (McAlpine) Van der Aa [GUIGCI]</td><td>sì</td><td>UFAG</td></tr>
+<tr><td>1.2.24 *Phyllosticta solitaria* Ellis & Everhart [PHYSSL]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.25 *Phymatotrichopsis* *omnivora* (Duggar) Hennebert [PHMPOM]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.26 *Phytophthora* *ramorum* (isolati non UE) Werres, De Cock & Man in ’t Veld [PHYTRA]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.27 *Pseudocercospora* *angolensis* (T. Carvalho & O. Mendes) Crous & U. Braun [CERCAN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.28 *Pseudocercospora* *pini-densiflorae* (Hori & Nambu) Deighton [CERSPD]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.29 *Puccinia pittieriana* Hennings [PUCCPT]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.30 *Septoria malagutii* E.T. Cline [SEPTLM]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.31 *Sphaerulina* *musiva* (Peck) Quaedvl., Verkley & Crous. [MYCOPP]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.32 *Stegophora ulmea* (Fr.) Syd. & P. Syd [GNOMUL]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.2.33 *Thecaphora solani* (Thirumulachar & O’Brien) Mordue [THPHSO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.34 *Tilletia indica* Mitra [NEOVIN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.2.35 *Venturia nashicola* S. Tanaka & S. Yamamoto [VENTNA]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 1.3 Insetti e acari
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.3.1 *Acleris* spp. (specie non europee) [1ACLRG]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.2 *Agrilus anxiu*s Gory [AGRLAX]</td><td>sì</td><td>UFAM</td></tr>
+<tr><td>1.3.3 *Agrilus planipennis* Fairmaire [AGRLPL]</td><td>sì</td><td>UFAM</td></tr>
+<tr><td>1.3.4 *Aleurocanthus* *citriperdus* Quaintance & Baker [ALECCT]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.5 *Aleurocanthus spiniferus* (Quaintance) [ALECSN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.6 *Aleurocanthus woglumi* Ashby [ALECWO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.7 *Amauromyza maculosa* (Malloch) [AMAZMA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.8 *Anomala orientalis* Waterhouse [ANMLOR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.9 *Anoplophora chinensis* (Thomson) [ANOLCN]</td><td>sì</td><td>UFAM</td></tr>
+<tr><td>1.3.10 *Anoplophora glabripennis* (Motschulsky) [ANOLGL]</td><td>sì</td><td>UFAM</td></tr>
+<tr><td>1.3.11 *Anthonomus bisignifer* Schenkling [ANTHBI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.12 *Anthonomus eugenii* Cano [ANTHEU]</td><td>sì</td><td>UFAG</td></tr>
+<tr><td>1.3.13 *Anthonomus grandis* (Boh .) [ANTHGR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.14 *Anthonomus quadrigibbus* Say [TACYQU]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.15 *Anthonomus signatus* Say [ANTHSI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.16 *Aromia bungii* (Faldermann) [AROMBU]</td><td>sì</td><td>UFAG</td></tr>
+<tr><td>1.3.17 *Arrhenodes minutus* Drury [ARRHMI]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.18 *Aschistonyx eppoi* Inouye [ASCXEP]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.19 *Bactericera cockerelli* (Sulc.) [PARZCO]</td><td>sì</td><td>UFAG</td></tr>
+<tr><td>1.3.20 *Bemisia tabaci* Genn. (popolazioni non UE) [BEMITA], noto come vettore di virus</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.21 *Carposina sasakii* Matsumara [CARSSA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.22 *Choristoneura* spp. (specie non europee) [1CHONG]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.23 *Cicadellidae* (specie non europee) [1CICDF], notoriamente vettori della malattia di Pierce (causata da *Xylella fastidiosa*), quali: a. *Carneocephala fulgida* Nottingham [CARNFU] b. *Draeculacephala minerva* Ball [DRAEMI] c. *Graphocephala atropunctata* (Signoret) [GRCPAT] d. *Homalodisca vitripennis* (Germar) [HOMLTR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.24 *Conotrachelus* *nenuphar* (Herbst) [CONHNE]</td><td>sì</td><td>UFAG</td></tr>
+<tr><td>1.3.25 *Dendrolimus sibiricus* Chetverikov [DENDSI]</td><td>sì</td><td>UFAM</td></tr>
+<tr><td>1.3.26 *Diabrotica barberi* Smith & Lawrence [DIABLO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.27 *Diabrotica undecimpunctata* *howardi* Barber [DIABUH]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.28 *Diabrotica undecimpunctata undecimpunctata* Mannerheim [DIABUN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.29 *Diabrotica virgifera zeae* Krysan & Smith [DIABVZ]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.30 *Diaphorina citri* Kuwayana [DIAACI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.31 *Eotetranychus lewisi* (McGregor) [EOTELE]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.32 *Grapholita inopinata* (Heinrich) [CYDIIN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.33 *Grapholita packardi* Zeller [LASPPA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.34 *Grapholita prunivora* (Walsh ) [LASPPR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.35 *Heliothis zea* (Boddie) [HELIZE]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.36 *Hishimonus phycitis* (Distant) [HISHPH]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.37 *Keiferia lycopersicella* (Walsingham) [GNORLY]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.38 *Lopholeucaspis japonica* Cockerell [LOPLJA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.39 *Liriomyza sativae* Blanchard [LIRISA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.40 *Listronotus bonariensis* (Kuschel) [HYROBO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.41 *Margarodes* spp. (specie non europee) quali [1MARGG]: a. *Margarodes vitis* (Philippi) [MARGVI] b. *Margarodes* *vredensalensis* de Klerk [MARGVR] c. *Margarodes* *prieskaensis* (Jakubski) [MARGPR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.42 *Monochamus* spp. (popolazioni non europee) [1MONCG]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.43 *Myndus crudus* van Duzee [MYNDCR]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.44 *Naupactus leucoloma* Boheman [GRAGLE]</td><td>.</td><td>UFAG</td></tr>
+<tr><td>1.3.45 *Neoleucinodes elegantalis* (Guenée) [NEOLEL]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.46 *Acrobasis pyrivorella* (Matsumura) [NUMOPI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.47 *Oemona hirta* (Fabricius) [OEMOHI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.48 *Oligonychus perditus* Pritchard & Baker [OLIGPD]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.49 *Pissodes cibriani* O’Brien</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.50 *Pissodes fasciatus* Leconte [PISOFA]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.51 *Pissodes* *nemorensis* Germar [PISONE]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.52 *Pissodes nitidus* Roelofs [PISONI]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.53 *Pissodes punctatus* Langor & Zhang [PISOPU]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.54 *Pissodes strobi* (Peck) [PISOST]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.55 *Pissodes terminalis* Hopping [PISOTE]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.56 *Pissodes yunnanensis* Langor & Zhang [PISOYU]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.57 *Pissodes zitacuarense* Sleeper</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.58 *Pityophthorus juglandis* Blackman [PITOJU]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.59 *Polygraphus proximus* Blandford [POLGPR]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.60 *Premnotrypes* spp. (specie non europee) [1PREMG]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.61 *Pseudopityophthorus minutissimus* (Zimmermann) [PSDPMI]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.62 *Pseudopityophthorus pruinosus* (Eichhoff) [PSDPPR]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.63 *Rhizoecus hibisci* Kawai & Takagi [RHIOHI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.64 *Rhynchophorus palmarum* (L.) [RHYCPA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.65 *Saperda candida* Fabricius [SAPECN]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.66 *Scirtothrips aurantii* Faure [SCITAU]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.67 *Scirtothrips citri* (Moulton) [SCITCI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.68 *Scirtothrips dorsalis* Hood [SCITDO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.69 *Scolytidae* spp. (specie non europee) [1SCOLF]</td><td>–</td><td>UFAM</td></tr>
+<tr><td>1.3.70 *Spodoptera eridania* (Cramer) [PRODER]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.71 *Spodoptera frugiperda* (Smith) [LAPHFR]</td><td>sì</td><td>UFAG</td></tr>
+<tr><td>1.3.72 *Spodoptera litura* (Fabricus) [PRODLI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.73 *Tecia solanivora* (Povolný) [TECASO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.74 *Tephritidae* (specie non europee) [1TEPHF] quali: a. *Anastrepha* *fraterculus* (Wiedemann) [ANSTFR] b. *Anastrepha ludens* (Loew) [ANSTLU] c. *Anastrepha obliqua* (Macquart) [ANSTOB] d. *Anastrepha suspensa* (Loew) [ANSTSU] e. *Dacus ciliatus* Loew [DACUCI] f. *Zeugodacus cucurbitae* (Coquillett) [DACUCU] g. *Bactrocera dorsalis* (Hendel) [DACUDO] h. *Bactrocera tryoni* (Froggatt) [DACUTR] i. *Bactrocera tsuneonis* (Miyake) [DACUTS] j. *Bactrocera zonata* (Saunders) [DACUZO] k. *Epochra canadensis* (Loew) [EPOCCA] l. *Pardalaspis cyanescens* Bezzi [CERTCY] m. *Pardalaspis quinaria* Bezzi [CERTQU] n. *Pterandrus rosa* (Karsch) [CERTRO] o. *Rhacochlaena* japonica Ito [RHACJA] p. *Rhagoletis fausta* (Osten-Sacken) [RHAGFA] q. *Rhagoletis indifferens* Curran [RHAGIN] r. *Rhagoletis mendax* Curran [RHAGME] s. *Rhagoletis pomonella* (Walsh) [RHAGPO] t. *Rhagoletis ribicola* Doane [RHAGRI] u. *Rhagoletis suavis* (Loew) [RHAGSU]</td><td>sì (soltanto ANSTLU, DACUDO, DACUZO, RHAGPO)</td><td>UFAG</td></tr>
+<tr><td>1.3.75 *Thaumatotibia leucotreta* (Meyrick) [ARGPLE]</td><td>[tab] sì</td><td>[tab] UFAG</td></tr>
+<tr><td>1.3.76 *Thrips palmi* Karny [THRIPL]</td><td>[tab] –</td><td>[tab] UFAG</td></tr>
+<tr><td>1.3.77 *Toxoptera citricida* (Kirkaldy) [TOXOCI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.78 *Trioza erytreae* Del Guercio [TRIZER]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.3.79 *Unaspis citri* (Comstock) [UNASCI]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 1.4 Nematodi
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.4.1 *Bursaphelenchus xylophilus* (Steiner & Bührer) Nickle *et al.* [BURSXY]</td><td>sì</td><td>UFAM</td></tr>
+<tr><td>1.4.2 *Hirschmanniella* spp. Luc & Goodey [1HIRSG], ad eccezione di *Hirschmanniella gracilis* (de Man) Luc & Goodey [HIRSGR]*, Hirschmanniella behningi* (Micoletzky) Luc & Goodey [HIRSBE]*, Hirschmanniella halophila* Sturhan & Hall*, Hirschmanniella loofi* Sher [HIRSLO] e *Hirschmanniella zostericola* (Allgén) Luc & Goodey [HIRSZO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.3 *Longidorus* *diadecturus* Eveleigh & Allen [LONGDI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.4 *Nacobbus aberrans* (Thorne) Thorne & Allen [NACOBA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.5 *Xiphinema americanum* Cobb *sensu stricto* [XIPHAM]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.6 *Xiphinema bricolense* Ebsary, Vrain & Graham [XIPHBC]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.7 *Xiphinema californicum* Lamberti & Bleve-Zacheo [XIPHCA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.8 *Xiphinema inaequale* khan et Ahmad [XIPHNA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.9 *Xiphinema intermedium* Lamberti & Bleve-Zacheo [nessun codice OEPP disponibile]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.10 *Xiphinema tarjanense* Lamberti & Bleve-Zacheo [XIPHTA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.4.11 *Xiphinema rivesi* (popolazioni non europee) Dalmasso [XIPHRI]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 1.5 Piante parassite
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.5.1 *Arceuthobium* spp. [1AREG], ad eccezione di *Arceuthobium azoricum* Wiens & Hawksworth [AREAZ], *Arceuthobium gambyi* Fridl. e *Arceuthobium oxycedri* DC. M. Bieb. [AREOX]</td><td>–</td><td>UFAM</td></tr>
+</table>
+
+### 1.6 Virus, viroidi e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.6.1 Beet curly top virus [BCTV00]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.2 Black raspberry latent virus [TSVBL0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.3 Chrysanthemum stem necrosis virus [CSNV00]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.4 Citrus leprosis viruses (CiLV-C, CiLV-C2, HGSV-2, ceppo Citrus di OFV e CiLV-N *sensu novo*) [CILVC0, CILVC2, HGSV20, OFV000 (ceppo Citrus), CILV00]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.5 Citrus tristeza virus (isolati non europei) [CTV000]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.6 Coconut cadang-cadang viroid [CCCVD0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.7 Palm lethal yellowing phytoplasma [PHYP56]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.8 Virus, viroidi e fitoplasmi della patata, quali: a. Andean potato latent virus [APLV00] b. Andean potato mottle virus [APMOV0] c. Arracacha virus B, oca strain [AVBO00] d. Potato black ringspot virus [PBRSV0] e. Potato virus T [PVT000] f. Isolati non europei dei virus della patata A, M, S, V, X e Y (compresi Y<sup>o</sup>, Y<sup>n</sup> e Y<sup>c</sup>) e Potato leaf roll virus [PVA000, PVM000, PVS000, PVV000, PVX000, PVY000 (compresi Y<sup>o</sup>, PVYN00, PVYC00)]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.9 Satsuma dwarf virus [SDV000]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.10 Tobacco ringspot virus [TRSV00]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.11 Tomato leaf curl New Delhi virus [TOLCND]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.12 Tomato ringspot virus [TORSV0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.13 *Virus*, Viroidi e fitoplasmi di *Cydonia* Mill., *Fragaria* L., *Malus* Mill., *Prunus* L., *Pyrus* L., *Ribes* L., *Rubus* L. e *Vitis* L., quali: a. Blueberry leaf mottle virus [BLMOV0] b. Cherry rasp leaf virus [CRLV00] c. Peach mosaic virus [PCMV00] d. Peach rosette mosaic virus [PRMV00] e. American plum line pattern virus [APLPV0] f. Raspberry leaf curl virus [RLCV00] g. Strawberry witches’ broom phytoplasma [SYWB00] h. Virus, viroidi e fitoplasmi non europei di *Cydonia* Mill., *Fragaria* L., *Malus* Mill., *Prunus* L., *Pyrus* L., *Ribes* L., *Rubus* L. e *Vitis* L</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14 Begomovirus, esclusi: Abutilon mosaic virus [ABMV00], Sweet potato leaf curl virus [SPLCV0], Tomato leaf curl New Delhi Virus [TOLCND], Tomato yellow leaf curl virus [TYLCV0], Tomato yellow leaf curl Sardinia virus [TYLCSV], Tomato yellow leaf curl Malaga virus [TYLCMA], Tomato yellow leaf curl Axarqia virus [TYLCAX]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.1 Cowpea mild mottle virus [CPMMV0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.2 Lettuce infectious yellows virus [LIYV00]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.3 Melon yellowing-associated virus [MYAV00]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.4 Squash vein yellowing virus [SQVYVX]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.5 Sweet potato chlorotic stunt virus [SPCSV0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.6 Sweet potato mild mottle virus [SPMMV0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.7 Tomato chocolate virus [TOCHV0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.8 Tomato marchitez virus [TOANV0]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.14.9 Tomato mild mottle virus [TOMMOV]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>1.6.15 Witches’ broom disease of lime (WBDL) phytoplasma [PHYPAF]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 1.7 Molluschi
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>1.7 *Pomacea* (Perry) [1POMAG]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 2. Organismi da quarantena non ampiamente diffusi in Svizzera
+
+### 2.1 Batteri
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>…</td><td></td><td></td></tr>
+</table>
+
+### 2.2 Funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>2.2.1 *Ceratocystis* *platani* (J. M. Walter) Engelbr. & T. C. Harr [CERAFP]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>2.2.2 *Synchytrium* *endobioticum* (Schilb.) Percival [SYNCEN]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 2.3 Insetti e acari
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>2.3.1 *Diabrotica* *virgifera* *virgifera* Le Conte [DIABVI]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>2.3.2 *Popillia* *japonica* Newman [POPIJA]</td><td>sì</td><td>UFAG</td></tr>
+</table>
+
+### 2.4 Nematodi
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>2.4.1 *Globodera* *pallida* (Stone) Behrens [HETDPA]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>2.4.2 *Globodera* *rostochiensis* (Wollenweber) Behrens [HETDRO]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>2.4.3 *Meloidogyne* *chitwoodi* Golden *et al.* (tutte le popolazioni) [MELGCH]</td><td>–</td><td>UFAG</td></tr>
+<tr><td>2.4.4 *Meloidogyne* *fallax* Karssen [MELGFA]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 2.5 Piante parassitarie
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>…</td><td></td><td></td></tr>
+</table>
+
+### 2.6 Virus, viroidi e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>2.6.1 Grapevine flavescence dorée phytoplasma [PHYP64]</td><td>–</td><td>UFAG</td></tr>
+</table>
+
+### 2.7 Molluschi
+
+<table>
+<tr><th>Organismo nocivo [codice OEPP]</th><th>Da trattare in via prioritaria</th><th>Autorità competente</th></tr>
+<tr><td>…</td><td></td><td></td></tr>
+</table>
+
+Allegato 2
+
+(art. 3)
+
+## Zone protette e organismi da quarantena per i quali è stata delimitata una zona protetta
+
+<table>
+<tr><th>Organismo da quarantena per il quale è stata delimitata una zona protetta [codice OEPP[^annex2-lvlu1-1]]</th><th>Zona(e) protetta(e)</th><th>Autorità competente</th></tr>
+<tr><td>1. *Erwinia* *amylovora* (Burr.) Winsl. *et al.* [ERWIAM]</td><td>Canton Vallese</td><td>UFAG</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: European and Mediterranean Plant Protection Organization (Organizzazione europea e mediterranea per la protezione delle piante)
+
+Allegato 3*[^t-2]*
+
+(art. 4)
+
+## Vegetali specifici destinati alla piantagione che in caso d’infestazione da organismi regolamentati non da quarantena (ORNQ) non possono essere importati a scopo commerciale né messi in commercio
+
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+Le categorie di materiale di moltiplicazione indicate corrispondono a quelle dell’ordinanza del 7 dicembre 1998[^annex3-lvlu1-1] sul materiale di moltiplicazione*.*
+
+### 1. Sementi di piante foraggere
+
+[^annex3-lvlu1-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th colspan="3">Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Sementi di pre-base</th><th>Sementi di base</th><th>Sementi certificate</th></tr>
+<tr><td>1.1 *Clavibacter* *michiganensis* ssp. *insidiosus* (McCulloch 1925) Davis *et al.* [CORBIN]</td><td>*Medicago sativa* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>1.2 *Ditylenchus* *dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Medicago sativa* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+### 2. Sementi di cereali
+
+Nel presente numero l’espressione «praticamente indenne» indica che la misura in cui gli organismi nocivi sono presenti sul materiale di moltiplicazione e sulle sementi di cereali è talmente esigua che la qualità e l’utilità delle sementi di cereali sono accettabili.
+
+### 2.1 Infestazione da nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th colspan="3">Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Sementi di pre-base</th><th>Sementi di base</th><th>Sementi certificate</th></tr>
+<tr><td>2.1.1 *Aphelenchoides* *besseyi* Christie [APLOBE]</td><td>*Oryza sativa* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+### 2.2 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th colspan="3">Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Sementi di pre-base</th><th>Sementi di base</th><th>Sementi certificate</th></tr>
+<tr><td>2.2.1 *Gibberella* *fujikuroi* Sawada [GIBBFU]</td><td>*Oryza sativa* L.</td><td>praticamente indenne</td><td>praticamente indenne</td><td>praticamente indenne</td></tr>
+</table>
+
+### 3. Vegetali destinati alla piantagione, ad eccezione delle sementi, per la moltiplicazione vegetativa delle piante di vite destinate alla produzione di uve
+
+### 3.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th colspan="2">Valore soglia dell’infestazione al di sotto del quale il vegetale può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Materiale di moltiplicazione di pre-base, materiale di moltiplicazione di base, materiale di moltiplicazione certificato</th><th>Materiale standard</th></tr>
+<tr><td>3.1.*1 Xylophilus ampelinus* Willems *et al.* [XANTAM]</td><td>*Vitis* L.</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+### 3.2 Infestazione da insetti e acari
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th colspan="2">Valore soglia dell’infestazione al di sotto del quale il vegetale può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Materiale di moltiplicazione di pre-base, materiale di moltiplicazione di base, materiale di moltiplicazione certificato</th><th>Materiale standard</th></tr>
+<tr><td>3.2.1 *Viteus vitifoliae* Fitch [VITEVI]</td><td>*Vitis vinifera* L. non innestata</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>3.2.2 *Viteus vitifoliae* Fitch [VITEVI]</td><td>*Vitis* L., esclusa *Vitis vinifera* L. non innestata</td><td>–</td><td>–</td></tr>
+</table>
+
+### 3.3 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th colspan="2">Valore soglia dell’infestazione al di sotto del quale il vegetale può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Materiale di moltiplicazione di pre-base, materiale di moltiplicazione di base, materiale di moltiplicazione certificato</th><th>Materiale standard</th></tr>
+<tr><td>3.3.1 *Arabis* mosaic virus [ARMV00]</td><td>*Vitis* L.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>3.3.2 *Candidatus* Phytoplasma solani Quaglino *et al.* [PHYPSO]</td><td>*Vitis* L.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>3.3.3 Grapevine fanleaf virus [GFLV00]</td><td>*Vitis* L.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>3.3.4 Grapevine fleck virus [GFKV00]</td><td>Portainnesti delle specie *Vitis* spp. e loro ibridi, esclusa *Vitis vinifera* L.</td><td>0 % per il materiale di moltiplicazione di pre-base. Non si applica al materiale di moltiplicazione di base e al materiale certificato.</td><td>–</td></tr>
+<tr><td>3.3.5 Grapevine leafroll associated virus 1 [GLRAV1]</td><td>*Vitis* L.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>3.3.6 Grapevine leafroll associated virus 3 [GLRAV3]</td><td>*Vitis* L.</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+### 4. Materiale di moltiplicazione destinato alla piantagione di piante ornamentali e altri vegetali destinati alla piantagione a scopo ornamentale
+
+### 4.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>4.1.1 *Erwinia amylovora* (Burrill) Winslow *et al.* [ERWIAM]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Amelanchier* Medik., *Chaenomeles* Lindl., *Cotoneaster* Medik., *Crataegus* Tourn. ex L., *Cydonia* Mill., *Eriobtrya* Lindl., *Malus* Mill., *Mespilus* Bosc ex Spach, *Photinia davidiana* Decne., *Pyracantha* M. Roem., *Pyrus* L., *Sorbus* L.</td><td>0 %</td></tr>
+<tr><td>4.1.2 *Pseudomonas syringae* pv. *persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus persica* (L.) Batsch, *Prunus salicina* Lindl.</td><td>0 %</td></tr>
+<tr><td>4.1.3 *Spiroplasma citri* Saglio *et al.* [SPIRCI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>0 %</td></tr>
+<tr><td>4.1.4 *Xanthomonas arboricola* pv. *pruni* (Smith) Vauterin *et al.* [XANTPR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus* L.</td><td>0 %</td></tr>
+<tr><td>4.1.5 *Xanthomonas euvesicatoria* Jones *et al.* [XANTEU]</td><td>Capsicum annuum L.</td><td>0 %</td></tr>
+<tr><td>4.1.6 *Xanthomonas gardneri* (ex Šutič) Jones *et al.* [XANTGA]</td><td>*Capsicum annuum* L.</td><td>0 %</td></tr>
+<tr><td>4.1.7 *Xanthomonas perforans* Jones *et al.* [XANTPF]</td><td>*Capsicum annuum* L.</td><td>0 %</td></tr>
+<tr><td>4.1.8 *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.* [XANTVE]</td><td>*Capsicum annuum* L.</td><td>0 %</td></tr>
+</table>
+
+### 4.2 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>4.2.1 *Cryphonectria parasitica* (Murrill) Barr [ENDOPA]</td><td>Vegetali destinati alla piantagione, escluse le sementi Castanea L.</td><td>0 %</td></tr>
+<tr><td>4.2.2 *Dothistroma pini* Hulbary [DOTSPI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pinus* L.</td><td>0 %</td></tr>
+<tr><td>4.2.3 *Dothistroma septosporum* (Dorogin) Morelet [SCIRPI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pinus* L.</td><td>0 %</td></tr>
+<tr><td>4.2.4 *Lecanosticta acicola* (von Thümen) Sydow [SCIRAC]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pinus* L.</td><td>0 %</td></tr>
+<tr><td>4.2.5 *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA]</td><td>Sementi *Helianthus annuus* L.</td><td>0 %</td></tr>
+<tr><td>4.2.6 *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley [DEUTTR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>0 %</td></tr>
+<tr><td>4.2.7 *Puccinia horiana* P. Hennings [PUCCHN]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Chrysanthemum* L.</td><td>0 %</td></tr>
+</table>
+
+### 4.3 Infestazione da insetti e acari
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>4.3.1 *Aculops* *fuchsiae* Keifer [ACUPFU]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fuchsia* L.</td><td>0 %</td></tr>
+<tr><td>4.3.2 *Opogona sacchari* Bo [OPOGSC]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Beaucarnea* Lem., *Bougainvillea* Comm. ex Juss., *Crassula* L., *Crinum* L., *Dracaena* Vand. ex L., *Ficus* L., *Musa* L., *Pachira* Aubl., *Palmae, Sansevieria* Thunb., *Yucca* L.</td><td>0 %</td></tr>
+<tr><td>4.3.3 *Rhynchophorus ferrugineus* (Olivier) [RHYCFE]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Palmae*, per quanto riguarda i generi e le specie seguenti: *Areca catechu* L., *Arenga pinnata* (Wurmb) Merr., *Bismarckia* Hildebr. & H. Wendl., *Borassus flabellifer* L., *Brahea armata* S. Watson, *Brahea edulis* H.Wendl., *Butia capitata* (Mart.) Becc., *Calamus merrillii* Becc., *Caryota maxima* Blume, *Caryota cumingii* Lodd. ex Mart., *Chamaerops humilis* L., *Cocos nucifera* L., *Corypha utan* Lam., *Copernicia* Mart., *Elaeis guineensis* Jacq., *Howea forsteriana* Becc., *Jubaea chilensis* (Molina) Baill., *Livistona australis* C. Martius, *Livistona decora* (W. Bull) Dowe, *Livistona rotundifolia* (Lam.) Mart., *Metroxylon sagu* Rottb., *Phoenix canariensis* Chabaud, *Phoenix dactylifera* L., *Phoenix reclinata* Jacq., *Phoenix roebelenii* O’Brien, *Phoenix sylvestris* (L.) Roxb., *Phoenix theophrasti* Greuter, *Pritchardia* Seem. & H. Wendl., *Ravenea rivularis* Jum. & H. Perrier, *Roystonea regia* (Kunth) O.F. Cook, *Sabal palmetto* (Walter) Lodd. ex Schult. & Schult.f., *Syagrus romanzoffiana* (Cham.) Glassman, *Trachycarpus fortunei* (Hook.) H. Wendl., *Washingtonia* H. Wendl.</td><td>0 %</td></tr>
+</table>
+
+### 4.4 Infestazione da nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>4.4.1 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Allium* L.</td><td>0 %</td></tr>
+<tr><td>4.4.2 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston, *Galanthus* L., *Hyacinthus* Tourn. ex L, *Hymenocallis* Salisb., *Muscari* Mill., *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Sternbergia* Waldst. & Kit., *Tulipa* L.</td><td>0 %</td></tr>
+</table>
+
+### 4.5 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>4.5.1 *Candidatus* Phytoplasma mali Seemüller & Schneider [PHYPMA]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>4.5.2 *Candidatus* Phytoplasma prunorum Seemüller & Schneider [PHYPPR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus* L.</td><td>0 %</td></tr>
+<tr><td>4.5.3 *Candidatus* Phytoplasma pyri Seemüller & Schneider [PHYPPY]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>4.5.4 *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Lavandula* L.</td><td>0 %</td></tr>
+<tr><td>4.5.5 Chrysanthemum stunt viroid [CSVD00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Argyranthemum* Webb ex Sch.Bip., *Chrysanthemum* L.</td><td>0 %</td></tr>
+<tr><td>4.5.6 *Citrus exocortis* viroid [CEVD00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L.</td><td>0 %</td></tr>
+<tr><td>4.5.7 *Citrus tristeza* virus [CTV000] (isolati non UE)</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>0 %</td></tr>
+<tr><td>4.5.8 *Impatiens* necrotic spot tospovirus [INSV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Begonia x hiemalis* Fotsch, ibridi della Nuova Guinea di *Impatiens* L.</td><td>0 %</td></tr>
+<tr><td>4.5.9 Potato spindle tuber viroid [PSTVD0]</td><td>*Capsicum annuum* L.</td><td>0 %</td></tr>
+<tr><td>4.5.10 Plum pox virus (Sharka) [PPV000]</td><td>Vegetali delle specie seguenti di *Prunus* L., destinati alla piantagione, escluse le sementi: *Prunus armeniaca* L., *Prunus blireiana* Andre, *Prunus brigantina* Vill., *Prunus cerasifera* Ehrh., *Prunus cistena* Hansen, *Prunus curdica* Fenzl & Fritsch., *Prunus domestica* ssp. *domestica* L., *Prunus domestica* ssp. *insititia* (L.) C.K. Schneid, *Prunus domestica* ssp. *italica* (Borkh.) Hegi., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus glandulosa* Thunb., *Prunus holosericea* Batal., *Prunus hortulana* Bailey, *Prunus japonica* Thunb., *Prunus mandshurica* (Maxim.) Koehne, *Prunus maritima* Marsh., *Prunus mume* Sieb. & Zucc., *Prunus nigra* Ait., *Prunus persica* (L.) Batsch, *Prunus salicina* L., *Prunus sibirica* L., *Prunus simonii* Carr., *Prunus spinosa* L., *Prunus tomentosa* Thunb., *Prunus triloba* Lindl., altre specie di *Prunus* L. sensibili al Plum pox virus</td><td>0 %</td></tr>
+<tr><td>4.5.11 Tomato spotted wilt tospovirus [TSWV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi Begonia x hiemalis Fotsch, Capsicum annuum L., Chrysanthemum L., Gerbera L., ibridi della Nuova Guinea di Impatiens L., Pelargonium L.</td><td>0 %</td></tr>
+</table>
+
+### 5. Materiale di moltiplicazione forestale destinato alla piantagione, ad eccezione delle sementi, per l’impiego nella foresta
+
+### 5.1 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><td>5.1.1 *Cryphonectria parasitica* (Murrill) Barr [ENDOPA]</td><td>*Castanea sativa* Mill.</td><td>0 %</td></tr>
+<tr><td>5.1.2 *Dothistroma pini* Hulbary [DOTSPI]</td><td>*Pinus* L.</td><td>0 %</td></tr>
+<tr><td>5.1.3 *Dothistroma septosporum* (Dorogin) Morelet [SCIRPI]</td><td>*Pinus* L.</td><td>0 %</td></tr>
+<tr><td>5.1.4 *Lecanosticta acicola* (von Thümen) Sydow [SCIRAC]</td><td>*Pinus* L.</td><td>0 %</td></tr>
+</table>
+
+### 6. Sementi di ortaggi
+
+### 6.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>6.1.1 *Clavibacter* *michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. [CORBMI]</td><td>*Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>6.1.2 *Xanthomonas* *axonopodis pv.* phaseoli (Smith) Vauterin *et al*. [XANTPH]</td><td>*Phaseolus vulg**aris* L.</td><td>0 %</td></tr>
+<tr><td>6.1.3 *Xanthomonas* *fuscans* subsp. *fuscans* Schaad *et al*. [XANTFF]</td><td>*Phaseolus vulgaris* L.</td><td>0 %</td></tr>
+<tr><td>6.1.4 *Xanthomonas* *euvesicatoria* Jones *et al*. [XANTEU]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>6.1.5 *Xanthomonas* *gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>6.1.6 *Xanthomonas* *perforans* Jones *et al*. [XANTPF]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>6.1.7 *Xanthomonas* *vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+</table>
+
+### 6.2 Infestazione da insetti e acari
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>6.2.1 *Acanthoscelides obtectus* (Say) [ACANOB]</td><td>*Phaseolus coccineus* L., *Phaseolus vulgaris* L.</td><td>0 %</td></tr>
+<tr><td>6.2.2 *Bruchus pisorum* (Linnaeus) [BRCHPI]</td><td>*Pisum sativum* L.</td><td>0 %</td></tr>
+<tr><td>6.2.3 Bruchus rufimanus Boheman [BRCHRU]</td><td>*Vicia faba* L.</td><td>0 %</td></tr>
+</table>
+
+### 6.3 Infestazione da nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>6.3.1 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Allium cepa* L., *Allium porrum* L.</td><td>0 %</td></tr>
+</table>
+
+### 6.4 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>6.4.1 Pepino mosaic virus [PEPMV0]</td><td>*Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>6.4.2 Potato spindle tuber viroid [PSTVD0]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+</table>
+
+### 7. Patate da semina
+
+Nel presente numero l’espressione «praticamente indenne» indica che la misura in cui gli organismi nocivi sono presenti sulle patate da semina è talmente esigua che la qualità e l’utilità delle patate da semina sono accettabili.
+
+<table>
+<tr><th>Organismi nocivi o sintomi</th><th>Specie vegetale</th><th colspan="3">Valore soglia dell’infestazione delle colture al di sotto del quale le patate da semina possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Materiale di pre-base</th><th>Materiale di base</th><th>Materiale certificato</th></tr>
+<tr><td>7.1 Sintomi di virosi</td><td>*Solanum tuberosum* L.</td><td>0,5 %</td><td>4,0 %</td><td>10,0 %</td></tr>
+<tr><td>7.2 Gamba nera (*Dickeya* Samson *et al*. *spp*. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG])</td><td>*Solanum tuberosum* L.</td><td>praticamente indenne</td><td>praticamente indenne</td><td>praticamente indenne</td></tr>
+<tr><td>7.3 *Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS]</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>7.4 *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>7.5 *Ditylenchus destructor* Thorne [DITYDE]</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>7.7 Rizottoniosi causata da *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO]</td><td>*Solanum tuberosum* L.</td><td>1,0 % tuberi colpiti su oltre 10 % della superficie</td><td>5,0 % tuberi colpiti su oltre 10 % della superficie</td><td>5,0 % tuberi colpiti su oltre 10 % della superficie</td></tr>
+<tr><td>7.8 Scabbia pulverulenta della patata causata da *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU]</td><td>*Solanum tuberosum* L.</td><td>1,0 % tuberi colpiti su oltre 10 % della superficie</td><td>3,0 % tuberi colpiti su oltre 10 % della superficie</td><td>3,0 % tuberi colpiti su oltre 10 % della superficie</td></tr>
+<tr><td>7.9 Sintomi di mosaico causati da virus e sintomi causati da Potato leaf roll virus [PLRV00]</td><td>*Solanum tuberosum* L.</td><td>0,1 %</td><td>0,8 %</td><td>6,0 %</td></tr>
+<tr><td>7.10 Potato spindle tuber viroid [PSTVD0]</td><td>Solanum tuberosum L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+### 8. Sementi di piante oleaginose e da fibra per l’impiego nella produzione agricola
+
+### 8.1 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismi nocivi o sintomi</th><th>Specie vegetale</th><th colspan="3">Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Sementi di pre-base</th><th>Sementi di base</th><th>Sementi certificate</th></tr>
+<tr><td>8.1.1 *Alternaria* *linicola* Groves & Skolko [ALTELI]</td><td>*Linum usitatissimum* L.</td><td>5 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>5 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>5 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, Colletotrichium *lini* e *Fusarium* spp.</td></tr>
+<tr><td>8.1.2 *Boeremia* *exigua var. linicola* (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL]</td><td>*Linum usitatissimum* L. — lino</td><td>1 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>1 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>1 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td></tr>
+<tr><td>8.1.3 *Boeremia* *exigua var. linicola* (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL]</td><td>*Linum usitatissimum* L. — semi di lino</td><td>5 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>5 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>5 % 5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td></tr>
+<tr><td>8.1.4 *Botrytis cinerea* de Bary [BOTRCI]</td><td>*Helianthus annuus* L., *Linum* *usitatissimum* L.</td><td>5 %</td><td>5 %</td><td>5 %</td></tr>
+<tr><td>8.1.5 *Colletotrichum lini* Westerdijk [COLLLI]</td><td>*Linum usitatissimum* L.</td><td>5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td><td>5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* spp.</td></tr>
+<tr><td>8.1.6 *Diaporthe caulivora* (Athow & Caldwell) J.M. Santos, Vrandecic & A.J.L. Phillips [DIAPPC] *Diaporthe phaseolorum* var. *sojae* Lehman [DIAPPS]</td><td>*Glycine max* (L.) Merr</td><td>15 % per l’infestazione causata dal complesso *Phomopsis*</td><td>15 % per l’infestazione causata dal complesso *Phomopsis*</td><td>15 % per l’infestazione causata dal complesso *Phomopsis*</td></tr>
+<tr><td>8.1.7 *Fusarium* (genere anamorfo) Link [1FUSAG], ausser *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] e *Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI]</td><td>*Linum usitatissimum* L.</td><td>5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* (genere anamorfo) Link, escluso *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon e *Fusarium circinatum* Nirenberg & O’Donnell</td><td>5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* (genere anamorfo) Link, escluso *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon e *Fusarium circinatum* Nirenberg & O’Donnell</td><td>5 % colpite da *Alternaria linicola*, *Boeremia exigua var. linicola*, *Colletotrichium lini* e *Fusarium* (genere anamorfo) Link, escluso *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon e *Fusarium circinatum* Nirenberg & O’Donnell</td></tr>
+<tr><td>8.1.8 *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA]</td><td>*Helianthus annuus* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>8.1.9 *Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC]</td><td>*Brassica rapa* L. var. silvestris (Lam.) Briggs</td><td>Non più di 5 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR del 7 dicembre 1998[^annex3-lvlu1-lvl8-lvl81-1] sulle sementi e i tuberi-seme.</td><td>Non più di 5 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td><td>Non più di 5 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td></tr>
+<tr><td>8.1.10 *Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC]</td><td>*Brassica napus* L. *(partim), Helianthus annuus* L.</td><td>Non più di 10 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td><td>Non più di 10 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td><td>Non più di 10 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td></tr>
+<tr><td>8.1.11 *Sclerotinia* *sclerotiorum* (Libert) de Bary [SCLESC]</td><td>*Sinapis alba* L.</td><td>Non più di 5 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td><td>Non più di 5 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td><td>Non più di 5 sclerozi o frammenti di sclerozi rilevati in un’analisi di laboratorio su un campione rappresentativo di ciascun lotto di sementi, di un peso specificato nel capitolo D punto 1 dell’allegato 4 dell’ordinanza del DEFR sulle sementi e i tuberi-seme.</td></tr>
+</table>
+
+[^annex3-lvlu1-lvl8-lvl81-1]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+
+### 9. Materiale di moltiplicazione e materiale vegetale destinati alla piantagione di ortaggi, ad eccezione delle sementi
+
+### 9.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>9.1.1 *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. [CORBMI]</td><td>*Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>9.1.2 *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>9.1.3 *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al* [XANTGA]</td><td>*Capsicum annuu**m* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>9.1.4 *Xanthomonas perforans* Jones *et al*. [XANTPF]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+<tr><td>9.1.5 *Xanthomonas* *vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>0 %</td></tr>
+</table>
+
+### 9.2 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>9.2.1 *Fusarium* Link (genere anamorfo) [1FUSAG], escluso *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] e *Fusarium circinatum Nirenberg* & O’Donnell [GIBBCI]</td><td>*Asparagus officinalis* L.</td><td>0 %</td></tr>
+<tr><td>9.2.2 *Helicobasidium brebissonii* (Desm.) Donk [HLCBBR]</td><td>*Asparagus officinalis* L.</td><td>0 %</td></tr>
+<tr><td>9.2.3 *Stromatinia cepivora* Berk. [SCLOCE]</td><td>*Allium cepa* L., *Allium fistulosum* L., *Allium porrum* L., *Allium sativum* L.</td><td>0 %</td></tr>
+<tr><td>9.2.4 Verticillium dahliae Kleb. [VERTDA]</td><td>*Cynara cardunculus* L.</td><td>0 %</td></tr>
+</table>
+
+### 9.3 Infestazione da insetti, acari e nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>9.3.1 *Ditylenchus* *dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Allium cepa* L., *Allium sativum* L.</td><td>0 %</td></tr>
+</table>
+
+### 9.4 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>9.4.1 Leek yellow stripe virus [LYSV00]</td><td>*Allium sativum* L.</td><td>1 %</td></tr>
+<tr><td>9.4.2 Onion yellow dwarf virus [OYDV00]</td><td>*Allium cepa* L., *Allium sativum* L.</td><td>1 %</td></tr>
+<tr><td>9.4.3 Potato spindle tuber viroid [PSTVD0]</td><td>Capsicum annuum L., Solanum lycopersicum L.</td><td>0 %</td></tr>
+<tr><td>9.4.4 Tomato spotted wilt tospovirus [TSWV00]</td><td>*Capsicum annuum* L., *Lactuca sativa* L., *Solanum lycopersicum* L., *Solanum melongena* L.</td><td>0 %</td></tr>
+<tr><td>9.4.5 Tomato yellow leaf curl virus [TYLCV0]</td><td>*Solanum lycopersicum* L.</td><td>0 %</td></tr>
+</table>
+
+### 10. Materiale di moltiplicazione e materiale vegetale destinati alla piantagione di specie da frutto destinate alla produzione di frutta
+
+### 10.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>10.1.1 *Agrobacterium tumefaciens* (Smith & Townsend) Conn [AGRBTU]</td><td>*Cydonia obloga* Mill., *Juglans regia* L., *Malus* Mill., *Prunus armeniaca* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L., *Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.1.2 *Agrobacterium* spp. Conn [1AGRBG]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.1.3 *Candidatus* Phlomobacter fragariae Zreik, Bové & Garnier [PHMBFR]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.1.4 *Erwinia amylovora* (Burrill) Winslow *et al*. [ERWIAM]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Cydonia* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.1.5 *Pseudomonas avellanae* Janse *et al*. [PSDMAL]</td><td>*Corylus avellana* L.</td><td>0 %</td></tr>
+<tr><td>10.1.6 *Pseudomonas savastanoi* pv. *savastanoi* (Smith) Gardan *et al*. [PSDMSA]</td><td>*Olea europaea* L.</td><td>0 %</td></tr>
+<tr><td>10.1.7 *Pseudomonas syringae* pv. *morsprunorum* (Wormald) Young, Dye & Wilkie [PSDMMP]</td><td>*Prunus armeniaca* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.1.8 *Pseudomonas syringae* pv. *persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.1.9 *Pseudomonas syringae* pv. *syringae* van Hall [PSDMSY]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L., *Prunus armeniaca* L.</td><td>0 %</td></tr>
+<tr><td>10.1.10 *Pseudomonas viridiflava* (Burkholder) Dowson [PSDMVF]</td><td>*Prunus armeniaca* L.</td><td>0 %</td></tr>
+<tr><td>10.1.11 *Rhodococcus fascians* Tilford [CORBFA]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.1.12 *Spiroplasma citri* Saglio *et al*. [SPIRCI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>0 %</td></tr>
+<tr><td>10.1.13 *Xanthomonas arboricola* pv. *corylina* (Miller, Bollen, Simmons, Gross & Barss) Vauterin, Hoste, Kersters & Swings [XANTCY]</td><td>*Corylus avellana* L.</td><td>0 %</td></tr>
+<tr><td>10.1.14 *Xanthomonas arboricola* pv. *juglandi* (Pierce) Vauterin *et al*. [XANTJU]</td><td>*Juglans regia* L.</td><td>0 %</td></tr>
+<tr><td>10.1.15 *Xanthomonas arboricola* pv. *pruni* (Smith) Vauterin *et al.* [XANTPR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus armeniaca* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.1.16 *Xanthomonas campestris* pv. *fici* (Cavara) Dye [XANTFI]</td><td>*Ficus carica* L.</td><td>0 %</td></tr>
+<tr><td>10.1.17 *Xanthomonas* *fragariae* Kennedy & King [XANTFR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L.</td><td>0 %</td></tr>
+</table>
+
+### 10.2 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>10.2.1 *Armillariella mellea* (Vahl) Kummer [ARMIME]</td><td>*Corylus avellana* L., *Cydonia oblonga* Mill., *Ficus carica* L., *Juglans regia* L., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.2 *Chondrostereum purpureum* Pouzar [STERPU]</td><td>*Cydonia oblonga* Mill., *Juglans regia* L., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.3 *Colletotrichum acutatum* Simmonds [COLLAC]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.2.4 *Cryphonectria parasitica* (Murrill) Barr [ENDOPA]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Castanea sativa* Mill.</td><td>0 %</td></tr>
+<tr><td>10.2.5 *Diaporthe strumella* (Fries) Fuckel [DIAPST]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.2.6 *Diaporthe vaccinii* Shear [DIAPVA]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.2.7 *Exobasidium vaccinii* (*Fuckel*) Woronin [EXOBVA]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.2.8 *Glomerella cingulata* (Stoneman) Spaulding & von Schrenk [GLOMCI]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.9 *Godronia cassandrae* (*Topospora myrtilli* anamorfo) Peck [GODRCA]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.2.10 *Microsphaera grossulariae* (Wallroth) Léveillé [MCRSGR]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.2.11 *Mycosphaerella puncti**formis* Verkley & U. Braun [RAMUEN]</td><td>*Castanea sativa* Mill.</td><td>0 %</td></tr>
+<tr><td>10.2.12 *Neofabraea alba* Desmazières [PEZIAL]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.*13 Neofabraea malicorticis Jacks*on [PEZIMA]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.14 *Neonectria ditissima* (*Tulasne* & C. Tulasne) Samuels & Rossman [NECTGA]</td><td>*Cydonia oblonga* Mill., *Juglans regia* L., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.15 *Peronospora rubi* Rabenhorst [PERORU]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.16 *Phytophthora cactorum* (Lebert & Cohn) J.Schröter [PHYTCC]</td><td>*Cydonia oblonga* Mill., *Fragaria* L., *Juglans regia* L., *Malus* Mill., *Prunus armeniaca* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.17 *Phytophthora cambivora* (Petri) Buisman [PHYTCM]</td><td>*Castanea sativa* Mill., *Pistacia vera* L.</td><td>0 %</td></tr>
+<tr><td>10.2.18 *Phytophthora cinnamomi* Rands [PHYTCN]</td><td>*Castanea sativa* Mill.</td><td>0 %</td></tr>
+<tr><td>10.2.19 *Phytophthora citrophthora* (R.E.Smith & E.H.Smith) Leonian [PHYTCO]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.2.20 *Phytophthora cryptogea* Pethybridge & Lafferty [PHYTCR]</td><td>*Pistacia vera* L.</td><td>0 %</td></tr>
+<tr><td>10.2.21 *Phytophthora fragariae* C.J. Hickman [PHYTFR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.2.22 Phytophthora nicotianae var. parasitica (Dastur) Waterhouse [PHYTNP]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.2.23 *Phytophthora* spp. de Bary [1PHYTG]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.24 *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley [DEUTTR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>0 %</td></tr>
+<tr><td>10.2.25 *Podosphaera aphanis* (Wallroth) Braun & Takamatsu [PODOAP]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.2.26 *Podosphaera mors-uvae* (Schweinitz) Braun & Takamatsu [SPHRMU]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.2.27 *Rhizoctonia fragariae* Hussain & W.E.McKeen [RHIZFR]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.2.28 *Rosellinia necatrix* Prillieux [ROSLNE]</td><td>*Pistacia vera* L.</td><td>0 %</td></tr>
+<tr><td>10.2.29 *Sclerophora pallida* Yao & Spooner [SKLPPA]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.30 *Verticillium albo-atrum* Reinke & Berthold [VERTAA]</td><td>*Corylus avellana* L., *Cydonia oblonga* Mill., *Fragaria* L., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.2.31 *Verticillium dahliae* Kleb [VERTDA]</td><td>*Corylus avellana* L., *Cydonia oblonga* Mill., *Fragaria* L. *Malus* Mill., *Olea europaea* L., *Pistacia vera* L., *Prunus armeniaca* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L.</td><td>0 %</td></tr>
+</table>
+
+### 10.3 Infestazione da insetti e acari
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>10.3.1 *Aleurothrixus floccosus* Maskell [ALTHFL]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.3.2 *Cecidophyopsis ribis* Westwood [ERPHRI]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.3.3 *Ceroplastes rusci* Linnaeus [CERPRU]</td><td>*Ficus carica* L.</td><td>0 %</td></tr>
+<tr><td>10.3.4 *Chaetosiphon fragaefolii* Cockerell [CHTSFR]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.3.5 *Dasineura tetensi* Rübsaamen [DASYTE]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.3.6 *Epidiaspis leperii* Signoret [EPIDBE]</td><td>*Juglans regia* L.</td><td>0 %</td></tr>
+<tr><td>10.3.7 *Eriosoma lanigerum* Hausmann [ERISLA]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.3.8 *Parabemisia myricae* Kuwana [PRABMY]</td><td>*Citrus* L., *Fortunella* Swingle e *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.3.9 *Phytoptus avellanae* Nalepa [ERPHAV]</td><td>*Corylus avellana* L.</td><td>0 %</td></tr>
+<tr><td>10.3.10 *Phytonemus pallidus* Banks [TARSPA]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.3.11 *Pseudaulacaspis pentagona* Targioni-Tozzetti [PSEAPE]</td><td>*Juglans regia* L., *Prunus armeniaca* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.3.12 *Psylla* spp. Geoffroy [1PSYLG]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.3.13 *Quadraspidiotus* *perniciosus* Comstock [QUADPE]</td><td>*Juglans regia* L., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.3.14 *Resseliella theobaldi* Barnes [THOMTE]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.3.15 *Tetranychus urticae* Koch [TETRUR]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+</table>
+
+### 10.4 Infestazione da nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>10.4.1 *Aphelenchoides besseyi* Christie [APLOBE]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.4.2 *Aphelenchoides* *blastophthorus* Franklin [APLOBL]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.4.3 *Aphelenchoides fragariae* (Ritzema Bos) Christie [APLOFR]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.4.4 *Aphelenchoides ritzema**bosi* (Schwartz) Steiner & Buhrer [APLORI]</td><td>*Fragaria* L., *Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.4.5 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Fragaria* L., *Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.4.6 *Heterodera fici* Kirjanova [HETDFI]</td><td>*Ficus carica* L.</td><td>0 %</td></tr>
+<tr><td>10.4.7 *Longidorus attenuatus* Hooper [LONGAT]</td><td>*Fragaria* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.8 *Longidorus elongatus* (de Man) Thorne & Swanger [LONGEL]</td><td>*Fragaria* L. *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.9 *Longidorus macrosoma* Hooper [LONGMA]</td><td>*Fragaria* L. *Prunus avium* L., *Prunus cerasus* L., *Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.10 *Meloidogyne arenaria* Chitwood [MELGAR]</td><td>*Ficus carica* L. *Olea europaea* L., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.4.11 *Meloidogyne hapla* Chitwood [MELGHA]</td><td>*Cydonia oblonga* Mill., *Fragaria* L., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.12 *Meloidogyne incognita* (Kofold & White) Chitwood [MELGIN]</td><td>*Ficus carica* L. *Olea europaea* L., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.4.13 *Meloidogyne javanica* Chitwood [MELGJA]</td><td>*Cydonia oblonga* Mill., *Ficus carica* L., *Malus* Mill. *Olea europaea* L., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.14 *Pratylenchus penetrans* (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]</td><td>*Cydonia oblonga* Mill., *Ficus carica* L., *Malus* Mill., *Pistacia vera* L., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.15 *Pratylenchus vulnus* Allen & Jensen [PRATVU]</td><td>*Citrus* L., *Cydonia oblonga* Mill., *Ficus carica* L., *Fortunella* Swingle, *Fragaria* L., *Malus* Mill., *Olea europaea* L., *Pistacia vera* L., *Poncirus* Raf., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L</td><td>0 %</td></tr>
+<tr><td>10.4.16 *Tylenchulus semipenetrans* Cobb [TYLESE]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.4.17 *Xiphinema diversi**caudatum* (Mikoletzky) Thorne [XIPHDI]</td><td>*Fragaria* L., *Juglans regia* L., *Olea europaea* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.4.18 *Xiphinema index* Thorne & Allen [XIPHIN]</td><td>*Pistacia vera* L.</td><td>0 %</td></tr>
+</table>
+
+### 10.5 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale il materiale di moltiplicazione può essere importato e messo in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>10.5.1 Apple chlorotic leaf spot virus [ACLSV0]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.2 Apple dimple fruit viroid [ADFVD0]</td><td>*Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.3 Apple flat limb agent [AFL000]</td><td>*Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.4 Apple mosaic virus [APMV00]</td><td>*Corylus avellana* L., *Malus* Mill. *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley, *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.5 Apple star crack agent [APHW00]</td><td>*Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.6 Apple rubbery wood agent [ARW000]</td><td>*Cydonia oblonga* Mill., *Malus* Mill. e *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.7 Apple scar skin viroid [ASSVD0]</td><td>*Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.8 Apple stem-grooving virus [ASGV00]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.9 Apple stem-pitting virus [ASPV00]</td><td>*Cydonia oblonga* Mill., *Malus* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.10 Apricot latent virus [ALV000]</td><td>*Prunus armeniaca* L., *Prunus persica* (L.) Batsch</td><td>0 %</td></tr>
+<tr><td>10.5.11 *Arabis* mosaic virus [ARMV00]</td><td>*Fragaria* L., *Olea europaea* L., *Prunus avium* L., *Prunus cerasus* L., *Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.12 Aucuba mosaic agent e blackcurrant yellows agent combinati</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.5.13 Black raspberry necrosis virus [BRNV00]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.14 Blackcurrant reversion virus [BRAV00]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.5.15 Blueberry mosaic associated virus [BLMAV0]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.16 Blueberry red ringspot virus [BRRV00]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.17 Blueberry scorch virus [BLSCV0]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.18 Blueberry shock virus [BLSHV0]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.19 Blueberry shoestring virus [BSSV00]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.20 *Candidatus* Phytoplasma asteris Lee *et al*. [PHYPAS]</td><td>*Fragaria* L., *Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.21 *Candidatus* Phytoplasma australiense Davis *et al*. [PHYPAU]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.22 *Candidatus* Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.23 *Candidatus* Phytoplasma mali Seemüller & Schneider [PHYPMA]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.24 *Candidatus* Phytoplasma pruni [PHYPPN]</td><td>*Fragaria* L., *Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.25 *Candidatus* Phytoplasma prunorum Seemüller & Schneider [PHYPPR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.5.26 *Candidatus* Phytoplasma pyri Seemüller & Schneider [PHYPPY]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.27 *Candidatus* Phytoplasma rubi Malembic-Maher *et al*. [PHYPRU]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.28 *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]</td><td>*Fragaria* L., *Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.29 Cherry green ring mottle virus [CGRMV0]</td><td>*Prunus avium* L., *Prunus cerasus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.30 Cherry leaf roll virus [CLRV00]</td><td>*Juglans regia* L., *Olea europaea* L., *Prunus avium* L., *Prunus cerasus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.31 Cherry mottle leaf virus [CMLV00]</td><td>*Prunus avium* L., *Prunus cerasus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.32 Cherry necrotic rusty mottle virus [CRNRM0]</td><td>*Prunus avium* L., *Prunus cerasus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.33 Chestnut mosaic agent</td><td>*Castanea sativa* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.34 *Citrus cristacortis* agent [CSCC00]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.35 *Citrus exocortis* viroid [CEVD00]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.36 *Citrus impietratura* agent [CSI000]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.37 *Citrus* leaf Blotch virus [CLBV00]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.38 *Citrus psorosis* virus [CPSV00]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.39 *Citrus tristeza* virus [CTV000] (isolati non UE)</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>0 %</td></tr>
+<tr><td>10.5.40 Citrus variegation virus [CVV000]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.41 *Clover phyllody* phytoplasma [PHYP03]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.42 Cranberry false blossom phytoplasma [PHYPFB]</td><td>*Vaccinium* L.</td><td>0 %</td></tr>
+<tr><td>10.5.43 Cucumber mosaic virus [CMV000]</td><td>*Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.44 Fig mosaic agent [FGM000]</td><td>*Ficus carica* L.</td><td>0 %</td></tr>
+<tr><td>10.5.45 Alterazioni dei frutti: malattia della mela nana [APCF00], gibbosità verde [APGC00], irregolarità del frutto di Ben Davis, rugginosità ulcerosa [APRSK0], spaccatura stellare, anulatura rugginosa [APLP00], verrucosità rugginosa</td><td>*Malus* Mill.</td><td>0 %</td></tr>
+<tr><td>10.5.46 Gooseberry vein banding associated virus [GOVB00]</td><td>*Ribes* L.</td><td>0 %</td></tr>
+<tr><td>10.5.47 Hop stunt viroid [HSVD00]</td><td>*Citrus* L., *Fortunella* Swingle, *Poncirus* Raf.</td><td>0 %</td></tr>
+<tr><td>10.5.48 Little cherry virus 1 e 2 [LCHV10], [LCHV20])</td><td>*Prunus avium* L., *Prunus cerasus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.49 Myrobalan latent ringspot virus [MLRSV0]</td><td>*Prunus domestica* L., *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.5.50 Olive leaf yellowing associated virus [OLYAV0]</td><td>*Olea europaea* L.</td><td>0 %</td></tr>
+<tr><td>10.5.51 Olive vein yellowing-associated virus [OVYAV0]</td><td>*Olea europaea* L.</td><td>0 %</td></tr>
+<tr><td>10.5.52 Olive yellow mottling and decline associated virus [OYMDAV]</td><td>*Olea europaea* L.</td><td>0 %</td></tr>
+<tr><td>10.5.53 Peach latent mosaic viroid [PLMVD0]</td><td>*Prunus persica* (L.) Batsch</td><td>0 %</td></tr>
+<tr><td>10.5.54 Pear bark necrosis agent [PRBN00]</td><td>*Cydonia oblonga* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.55 Pear bark split agent [PRBS00]</td><td>*Cydonia oblonga* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.56 Pear blister canker viroid [PBCVD0]</td><td>*Cydonia oblonga* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.57 Pear rough bark agent [PRRB00]</td><td>*Cydonia oblonga* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.58 Plum pox virus (Sharka) [PPV000]</td><td>*Prunus armeniaca* L., *Prunus avium* L., *Prunus cerasifera*, *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley. Nel caso di ibridi di *Prunus*, se i materiali sono innestati su portainnesti, i portainnesti di altre specie di *Prunus* L. sensibili al Plum pox virus.</td><td>0 %</td></tr>
+<tr><td>10.5.59 Prune dwarf virus [PDV000]</td><td>*Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.5.60 *Prunus* necrotic ringspot virus [PNRSV0]</td><td>*Prunus avium* L., *Prunus armeniaca* L., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus persica* (L.) Batsch, *Prunus salicina* Lindley</td><td>0 %</td></tr>
+<tr><td>10.5.61 Quince yellow blotch agent [ARW000]</td><td>*Cydonia oblonga* Mill., *Pyrus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.62 Raspberry bushy dwarf virus [RBDV00]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.63 Raspberry leaf mottle virus [RLMV00]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.64 Raspberry ringspot virus [RPRSV0]</td><td>*Fragaria* L., *Prunus avium* L., *Prunus cerasus* L., *Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.65 Raspberry vein chlorosis virus [RVCV00]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.66 Raspberry yellow spot [RYS000]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.67 Rubus yellow net virus [RYNV00]</td><td>*Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.68 Strawberry crinkle virus [SCRV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.69 Strawberry latent ringspot virus [SLRSV0]</td><td>*Fragaria* L., *Olea europaea* L., *Prunus avium* L., *Prunus cerasus* L., *Prunus persica* (L.) Batsch, *Ribes* L., *Rubus* L.</td><td>0 %</td></tr>
+<tr><td>10.5.70 Strawberry mild yellow edge virus [SMYEV0]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.71 Strawberry mottle virus [SMOV00]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.72 Strawberry multiplier disease phytoplasma [PHYP75]</td><td>*Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.73 Strawberry vein banding virus [SVBV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L.</td><td>0 %</td></tr>
+<tr><td>10.5.74 Tomato black ring virus [TBRV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fragaria* L., *Prunus avium* L., *Prunus cerasus* L., *Rubus* L.</td><td>0 %</td></tr>
+</table>
+
+### 11. Sementi di *Solanum tuberosum* (semi di patata)
+
+### 11.1 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>11.1.1 Potato spindle tuber viroid [PSTVD0]</td><td>*Solanum tuberosum* L.</td><td>0 %</td></tr>
+</table>
+
+### 12. Materiale di moltiplicazione e materiale vegetale destinati alla piantagione di *Humulus lupulus*, escluse le sementi
+
+### 12.1 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Tutte le categorie</th></tr>
+<tr><td>12.1.1 *Verticillium dahliae* Kleb. [VERTDA]</td><td>*Humulus lupulus* L.</td><td>0 %</td></tr>
+<tr><td>12.1.2 *Verticillium nonalfalfae* Inderbitzin, H.W. Platt, Bostock, R.M. Davis & K.V. Subbarao [VERTNO]</td><td>*Humulus lupulus* L.</td><td>0 %</td></tr>
+</table>
+
+Allegato 4*[^t-3]*
+
+(art. 5 cpv. 1)
+
+## Misure contro la comparsa di organismi regolamentati non da quarantena (ORNQ) su vegetali specifici destinati alla piantagione
+
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+Le categorie di materiale di moltiplicazione indicate corrispondono a quelle dell’ordinanza del 7 dicembre 1998[^annex4-lvlu1-1] sul materiale di moltiplicazione.
+
+Definizioni
+
+Nel presente allegato si considera:
+
+- a. *organo ufficiale responsabile*: per la Svizzera il SFF o un’organizzazione di controllo indipendente giusta l’articolo 106 capoverso 1 lettera c OSalV;
+- b. *sito* *di produzione*: una determinata parte di un luogo di produzione gestito come unità propria a scopi di natura fitosanitaria;
+- c*.* *luogo di produzione*: ogni azienda o un gruppo di superfici coltive gestite come un’unità di produzione o un’unità agricola;
+- d. *area*: un Paese identificato ufficialmente, una parte di esso o più Paesi o loro parti.
+
+### 1. Sementi di piante foraggere
+
+[^annex4-lvlu1-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+
+### 1.1 Ispezione in campo
+
+- 1\.1.1 L’organo ufficiale responsabile, o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile ispeziona la coltura a partire dalla quale sono prodotte le sementi di piante foraggere per individuare la presenza di organismi regolamentati non da quarantena (ORNQ) e al fine di garantire che per gli ORNQ non vengano superati i valori soglia definiti nell’allegato 3 numero 1. L’organo ufficiale responsabile può autorizzare ispettori che non siano operatori professionali a effettuare le ispezioni in campo per suo conto e sotto la sua sorveglianza ufficiale.
+
+1.1.2 Le ispezioni in campo sono effettuate quando lo stato e lo stadio di sviluppo della coltura consentono un’ispezione adeguata. Viene effettuata almeno un’ispezione in campo all’anno, nel periodo più opportuno per individuare i rispettivi ORNQ.
+
+1.1.3 L’organo ufficiale responsabile stabilisce le dimensioni, il numero e la distribuzione delle sezioni del campo da ispezionare, secondo metodi adeguati. La percentuale di colture destinate alla produzione di sementi da sottoporre all’ispezione ufficiale dell’organo ufficiale responsabile è almeno del 5 per cento.
+
+### 1.2 Campionatura e analisi di sementi di piante foraggere
+
+- 1\.2.1 L’organo ufficiale responsabile:
+
+a. preleva campioni ufficiali da lotti di sementi di piante foraggere;
+
+b. autorizza gli addetti alla campionatura di sementi a effettuare la campionatura per suo conto e sotto la sua sorveglianza ufficiale;
+
+c. confronta i campioni di sementi da esso prelevati con quelli dello stesso lotto di sementi prelevati dagli addetti alla campionatura di sementi sotto la sorveglianza ufficiale di cui alla lettera b;
+
+d. sorveglia l’attività degli addetti alla campionatura di sementi di cui al numero 1.2.2.
+
+- 1\.2.2 L’organo ufficiale responsabile o l’azienda sotto sorveglianza ufficiale effettua campionatura e analisi delle sementi di piante foraggere conformemente ai più recenti metodi internazionali. Tranne nel caso della campionatura automatica, l’organo ufficiale responsabile sottopone a un controllo ufficiale almeno il 5 per cento dei lotti di sementi annunciati per la certificazione. Tale percentuale è ripartita il più equamente possibile tra tutte le persone fisiche e giuridiche che annunciano le sementi per la certificazione e tra le specie annunciate, ma può anche essere scelta in maniera mirata per fugare determinati dubbi.
+- 1\.2.3 In caso di campionatura automatica, sono applicate procedure adeguate sottoposte a sorveglianza ufficiale. Per l’esame delle sementi annunciate per la certificazione, i campioni sono prelevati da lotti omogenei. Per quanto riguarda il peso del lotto e dei campioni, si applica la tabella di cui all’allegato 4 capitolo C numero 1 dell’ordinanza del DEFR del 7 dicembre 1998[^annex4-lvlu1-lvl1-lvl12-1] sulle sementi e i tuberi-seme.
+
+[^annex4-lvlu1-lvl1-lvl12-1]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+
+### 1.3 Misure supplementari per determinate specie vegetali
+
+Per determinate specie vegetali l’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua le ispezioni supplementari seguenti o prende altre misure per quanto riguarda:
+
+- 1\.3.1 le sementi di pre-base, le sementi di base e le sementi certificate di *Medicago sativa* L. al fine di impedire la comparsa di *Clavibacter michiganensis* ssp. *insidiosus* e di garantire che:
+
+a. le sementi provengono da aree notoriamente indenni da *Clavibacter michiganensis* spp. *insidiosus*;
+
+b. la coltura è cresciuta su superfici non utilizzate per la produzione di *Medicago sativa* L. nei 3 anni precedenti la semina e durante le ispezioni in campo sulla superficie di moltiplicazione non sono stati riscontrati sintomi di *Clavibacter michiganensis* ssp. *insidiosus* nella coltura precedente su popolamenti vicini di *Medicago sativa* L.; oppure
+
+c. la coltura appartiene a una varietà considerata particolarmente resistente a *Clavibacter michiganensis* ssp. *insidiosus* e la percentuale in peso di impurezze innocue non supera 0,1 per cento;
+
+- 1\.3.2 le sementi di pre-base, le sementi di base e le sementi certificate di *Medicago sativa* L. al fine di impedire la comparsa di *Ditylenchus dipsaci* e garantire che:
+
+a. nessun sintomo di *Ditylenchus dipsaci* è stato riscontrato sulla superficie di moltiplicazione durante la coltura precedente, nei 2 anni precedenti non sono state coltivate piante ospiti principali e sono state prese adeguate misure di igiene al fine di impedire l’infestazione nell’azienda di moltiplicazione;
+
+b. nessun sintomo di *Ditylenchus dipsaci* è stato riscontrato sulla superficie di moltiplicazione durante la coltura precedente e non è stata riscontrata la presenza di *Ditylenchus dipsaci* in seguito ad analisi di laboratorio su un campione rappresentativo; oppure
+
+c. le sementi sono state sottoposte a un trattamento fisico o chimico adeguato contro *Ditylenchus dipsaci* e sono risultate indenni da tale organismo nocivo in seguito ad analisi di laboratorio su un campione rappresentativo.
+
+### 2. Sementi di cereali
+
+### 2.1 Ispezione in campo
+
+- 2\.1.1 L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile ispeziona la coltura a partire dalla quale sono prodotte le sementi di cereali al fine di garantire che per gli ORNQ non vengano superati i valori soglia di cui alla tabella seguente.
+
+<table>
+<tr><th>Organismo nocivo</th><th>Specie vegetale</th><th colspan="3">Valore soglia dell’infestazione al di sotto del quale le sementi possono essere importate e messe in commercio</th></tr>
+<tr><th></th><th></th><th>Sementi di pre-base</th><th>Sementi di base</th><th>Sementi certificate</th></tr>
+<tr><td>2.1.1.1 *Gibberella* *fujikuroi* Sawada [GIBBFU]</td><td>*Oryza sativa* L.</td><td>Non più di 2 piante sintomatiche per 200 m2 individuate durante le ispezioni in campo effettuate in periodi opportuni su un campione rappresentativo di ogni coltura. di piante di ciascuna coltu­ ra</td><td>Non più di 2 piante sintomatiche per 200 m2 individuate durante le ispezioni in campo effettuate in periodi opportuni su un campione rappresentativo di ogni coltura. di piante di ciascuna coltu­ ra..</td><td colspan="2">Sementi certificate della prima generazione (C1): non più di 4 piante sintomatiche per 200 m2 individuate durante le ispezioni in campo effettuate in periodi opportuni su un campione rappresentativo di vegetali di ogni coltura. Sementi certificate della seconda generazione (C2): non più di 8 piante sintomatiche per 200 m2 individuate durante le ispezioni in campo effettuate in periodi opportuni su un campione rappresentativo di vegetali di ogni coltura.</td></tr>
+<tr><td>2.1.1.2 *Aphelenchoides* *besseyi* Christie [APLOBE]</td><td>*Oryza sativa* L.</td><td>0 %</td><td>0 %</td><td colspan="2">0 %</td></tr>
+</table>
+
+L’organo ufficiale responsabile può autorizzare ispettori che non siano opertatori professionali a effettuare le ispezioni in campo per suo conto e sotto la sua sorveglianza ufficiale.
+
+- 2\.1.2 Le ispezioni in campo sono effettuate quando lo stato e lo stadio di sviluppo della coltura consentono un’ispezione adeguata. Viene effettuata almeno un’ispezione in campo all’anno nel periodo più opportuno per individuare i rispettivi ORNQ.
+- 2\.1.3 L’organo ufficiale responsabile stabilisce le dimensioni, il numero e la distribuzione delle sezioni del campo da ispezionare, secondo metodi adeguati. L’organo ufficiale responsabile ispeziona almeno il 5 per cento delle colture destinate alla produzione di sementi.
+
+### 2.2 Campionatura e analisi di sementi di cereali
+
+- 2\.2.1 L’organo ufficiale responsabile:
+
+a. preleva campioni ufficiali di sementi da lotti di sementi di cereali;
+
+b. autorizza gli addetti alla campionatura di sementi a effettuare la campionatura per suo conto e sotto la sua sorveglianza ufficiale;
+
+c. confronta i campioni di sementi da esso prelevati con quelli dello stesso lotto di sementi prelevati dagli addetti alla campionatura di sementi sotto la sorveglianza ufficiale di cui alla lettera b;
+
+d. sorveglia l’attività degli addetti alla campionatura di sementi di cui al numero 2.2.2.
+
+- 2\.2.2 L’organo ufficiale responsabile o l’azienda sotto sorveglianza ufficiale effettua campionature e analisi delle sementi di cereali conformemente ai più recenti metodi internazionali. Tranne nel caso della campionatura automatica, l’organo ufficiale responsabile sottopone a un controllo ufficiale almeno il 5 per cento dei lotti di sementi annunciati per la certificazione ufficiale. Tale percentuale è ripartita il più equamente possibile tra tutte le persone fisiche e giuridiche che annunciano le sementi per la certificazione e tra le specie annunciate, ma può anche essere scelta in maniera mirata per fugare determinati dubbi.
+- 2\.2.3 In caso di campionatura automatica, sono applicate procedure adeguate sottoposte a sorveglianza ufficiale. Per l’esame delle sementi anunciate per la certificazione i campioni sono prelevati da lotti omogenei. Per quanto riguarda il peso del lotto e dei campioni, si applica la tabella di cui all’allegato 4 capitolo C numero 1 dell’ordinanza del DEFR del 7 dicembre 1998[^annex4-lvlu1-lvl2-lvl22-1] sulle sementi e i tuberi-seme.
+
+[^annex4-lvlu1-lvl2-lvl22-1]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+
+### 2.3 Misure supplementari per le sementi di *Oryza sativa* L.
+
+- 2\.3.1 L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua le ispezioni supplementari seguenti o prende altre misure al fine di garantire che le sementi di *Oryza sativa* L. adempiano una delle seguenti condizioni:
+
+a. provengono da aree notoriamente indenni da *Aphelenchoides besseyi*;
+
+b. sono state ufficialmente sottoposte dagli organi ufficiali responsabili ad adeguate analisi nematologiche su un campione rappresentativo di ogni lotto e sono risultate indenni da *Aphelenchoides besseyi*;
+
+c. sono state sottoposte a un trattamento con acqua calda adeguato o a un altro trattamento adeguato contro *Aphelenchoides besseyi*.
+
+### 3. Vegetali destinati alla piantagione, ad eccezione delle sementi, per la moltiplicazione vegetativa delle piante di vite destinate alla produzione di uve
+
+Le misure da prendere sono elencate all’allegato 1 dell’ordinanza del DEFR del 2 novembre 2006[^annex4-lvlu1-lvl3-1] sulle piante di vite.
+
+[^annex4-lvlu1-lvl3-1]: [RS 916.151.3](https://fedlex.data.admin.ch/eli/cc/2006/789)
+
+### 4. Materiale di moltiplicazione destinato alla piantagione di piante ornamentali e altri vegetali destinati alla piantagione a scopo ornamentale
+
+L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute le condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione di cui alla tabella seguente:
+
+### 4.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>4.1.1 *Erwinia amylovora* (Burrill) Winslow *et al.* [ERWIAM]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Amelanchier* Medik., *Chaenomeles* Lindl., *Cotoneaster* Medik., *Crataegus* Tourn. ex L., *Cydonia* Mill., *Eriobtrya* Lindl., *Malus* Mill., *Mespilus* Bosc ex Spach, *Photinia davidiana* Decne., *Pyracantha* M. Roem., *Pyrus* L., *Sorbus* L.</td><td>a. I vegetali sono stati coltivati in aree notoriamente indenni da *Erwinia amylovora* (Burrill) Winslow *et al*.; oppure b. i vegetali sono stati coltivati in un sito di produzione sottoposto a controllo visivo in un periodo opportuno per individuare la presenza dell’organismo nocivo durante l’ultimo ciclo vegetativo e i vegetali che presentano sintomi d’infestazione dell’organismo nocivo come pure tutte le piante ospiti vicine sono state rimosse e immediatamente distrutte.</td></tr>
+<tr><td>4.1.2 *Pseudomonas syringae* pv. *persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus persica* (L.) Batsch, *Prunus salicina* Lindl.</td><td>a. I vegetali sono stati prodotti in aree notoriamente indenni da *Pseudomonas syringae pv. persicae* (Prunier, Luisetti &.; Gardan) Young, Dye & Wilkie; oppure b. i vegetali sono stati coltivati in un sito di produzione risultato indenne da *Pseudomonas syringae pv. persicae* (Prunier, Luisetti & Gardan) Young, Dye & Wilkie in seguito a un controllo visivo durante l’ultimo ciclo vegetativo completo e tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte; oppure c. non più del 2 % dei vegetali del lotto presentava sintomi nel corso di controlli visivi in periodi opportuni per individuare la presenza dell’organismo nocivo durante l’ultimo ciclo vegetativo e tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze sono stati rimossi e immediatamente distrutti.</td></tr>
+<tr><td>4.1.3 *Spiroplasma citri* Saglio *et al.* [SPIRCI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>I vegetali derivano da piante madri che sono state sottoposte a un controllo visivo nel periodo più opportuno per individuare la presenza dell’organismo nocivo e sono risultate indenni da *Spiroplasma citri* Saglio, e a. sono stati prodotti in aree notoriamente indenni da *Spiroplasma citri* Saglio; oppure b. il sito di produzione è risultato indenne da *Spiroplasma citri* Saglio durante l’ultimo ciclo vegetativo completo in seguito a un controllo visivo dei vegetali nel periodo più opportuno per individuare la presenza dell’organismo nocivo durante l’ultimo ciclo vegetativo; oppure c. non più del 2 % dei vegetali presentava sintomi nel corso del controllo visivo, nel periodo opportuno per individuare la presenza dell’organismo nocivo durante l’ultimo ciclo vegetativo e tutti i vegetali infestati sono stati rimossi e immediatamente distrutti.</td></tr>
+<tr><td>4.1.4 *Xanthomonas arboricola* pv. *pruni* (Smith) Vauterin *et al.* [XANTPR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus* L.</td><td>a. I vegetali sono stati prodotti in un’area notoriamente indenne da *Xanthomonas arboricola pv. pruni* Vauterin *et al*; oppure b. i vegetali sono stati coltivati in un sito di produzione risultato indenne da *Xanthomonas arboricola pv. pruni* Vauterin *et al*. durante l’ultimo ciclo vegetativo completo in seguito a un controllo visivo e tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini sono stati rimossi e immediatamente distrutti, a meno che l’analisi di un campione rappresentativo di piante sintomatiche abbia dimostrato che i sintomi non sono causati da *Xanthomonas arboricola pv. pruni* (Smith) Vauterin *et al*.; oppure c. non più del 2 % dei vegetali del lotto presentava sintomi nel corso di controlli visivi in periodi opportuni durante l’ultimo ciclo vegetativo e tali vegetali nonché tutte le piante sintomatiche sul sito di produzione e nelle immediate vicinanze, nonché i vegetali vicini sono stati rimossi e immediatamente distrutti, a meno che l’analisi di un campione rappresentativo di piante sintomatiche abbia dimostrato che i sintomi non sono causati da *Xanthomonas arboricola pv. pruni* Vauterin *et al*.; oppure d. nel caso di specie sempreverdi, i vegetali sono stati sottoposti a un controllo visivo prima dello spostamento e sono risultati indenni da sintomi di *Xanthomonas arboricola pv. pruni* Vauterin *et al.*</td></tr>
+<tr><td>4.1.5 *Xanthomonas euvesicatoria* Jones *et al.* [XANTEU]</td><td>*Capsicum annuum* L.</td><td>1. Sementi: a. le sementi provengono da aree notoriamente indenni da *Xanthomonas euvesicatoria* Jones *et al*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas euvesicatoria* Jones *et al.* è stato riscontrato nel corso di controlli visivi in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo completo dei vegetali sul sito di produzione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas euvesicatoria* Jones *et al.* sulla base di un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas euvesicatoria* Jones *et al*. 2. Vegetali, escluse le sementi: a. le piante giovani sono state ottenute da sementi che adempiono le condizioni di cui al numero 1; e b. le piante giovani sono state conservate in condizioni igieniche idonee per impedire un’infestazione.</td></tr>
+<tr><td>4.1.6 *Xanthomonas gardneri* (ex Šutič) Jones *et al.* [XANTGA]</td><td>*Capsicum annuum* L.</td><td>1. Sementi: a. le sementi provengono da aree notoriamente indenni da *Xanthomonas gardneri* (ex Šutič) Jones *et al.*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas gardneri* (ex Šutič) Jones *et al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo dei vegetali nel sito di produzione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas gardneri* (ex Šutič) Jones *et al*. Sulla base di un campione rappresentativo utilizzando metodi adeguati, eventualmente dopo un trattamento adeguato, e sono risultate indenni da *X**anthomonas gardneri* (ex Šutič) Jones *et al.* 2. Vegetali, escluse le sementi: a. le piante giovani sono state ottenute da sementi che adempiono le condizioni di cui al numero 1; e b. le piante giovani sono state conservate in condizioni igieniche idonee per impedire un’infestazione.</td></tr>
+<tr><td>4.1.7 *Xanthomonas perforans* Jones *et al.* [XANTPF]</td><td>*Capsicum annuum* L.</td><td>1. Sementi: a. le sementi provengono da aree notoriamente indenni da *Xanthomonas perforans* Jones *et al.*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas perforans* Jones *et al.* è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo dei vegetali nel sito di produzione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas perforans* Jones *et al*. sulla base di un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento adeguato, e sono risultate indenni da *Xanthomonas perforans* Jones *et al.* 2. Vegetali, escluse le sementi: a. le piante giovani sono state ottenute da sementi che adempiono le condizioni di cui al numero 1; e b. le piante giovani sono state conservate in condizioni igieniche idonee per impedire un’infestazione.</td></tr>
+<tr><td>4.1.8 *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.* [XANTVE]</td><td>Capsicum annuum L.</td><td>1. Sementi: a. le sementi provengono da aree notoriamente indenni da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*.; oppure b. nessun sintomo di una malattia causata da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. è stato riscontrato nel corso dei controlli visivi in periodi opportuni durante il ciclo vegetativo completo dei vegetali nel sito di produzione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. sulla base di un campione rappresentativo utilizzando metodi adeguati, eventualmente dopo un trattamento adeguato, e sono risultate indenni da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. 2. Vegetali, escluse le sementi: a. le piante giovani sono state ottenute da sementi che adempiono le condizioni di cui al numero 1; e b. le piante giovani sono state conservate in condizioni igieniche idonee per impedire un’infestazione.</td></tr>
+</table>
+
+### 4.2 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>4.2.1 *Cryphonectria parasitica* (Murrill) Barr [ENDOPA]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Castanea* L.</td><td>a. I vegetali sono stati prodotti in aree notoriamente indenni da *Cryphonectria parasitica* (Murrill) Barr; oppure b. nessun sintomo di *Cryphonectria parasitica* (Murrill) Barr è stato riscontrato nel sito di produzione dall’inizio dell’ultimo ciclo vegetativo completo dei vegetali; oppure c. i vegetali con sintomi di *Cryphonectria parasitica* (Murrill) Barr sono stati rimossi e i vegetali rimanenti sono stati controllati a intervalli di una settimana e non sono stati riscontrati sintomi nel sito di produzione per almeno tre settimane prima dello spostamento.</td></tr>
+<tr><td>4.2.2 *Dothistroma pini* Hulbary [DOTSPI], *Dothistroma septosporum* (Dorogin) Morelet [SCIRPI], *Lecanosticta acicola* (von Thümen) Sydow [SCIRAC]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pinus* L.</td><td>a. I vegetali provengono da aree notoriamente indenni da *Dothistroma pini* Hulbary, *Dothistroma septosporum* (Dorogin) Morelet e *Lecanosticta acicola* (von Thümen) Sydow; oppure b. nessun sintomo di ruggine del pino causata da *Dothistroma pini* Hulbary, *Dothistroma septosporum* (Dorogin) Morelet o *Lecanosticta acicola* (von Thümen) Sydow è stato riscontrato nel sito di produzione o nelle immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo dei vegetali; oppure c. sono stati applicati trattamenti adeguati contro la ruggine del pino causata da *Dothistroma pini* Hulbary, *Dothistroma septosporum* (Dorogin) Morelet o *Lecanosticta acicola* (von Thümen) Sydow e prima dello spostamento i vegetali sono stati controllati e sono risultati indenni da sintomi di ruggine del pino.</td></tr>
+<tr><td>4.2.3 *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA]</td><td>Sementi *Helianthus annuus* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Plasmopara halstedii* (Farlow) Berlese & de Toni; oppure b. nessun sintomo di *Plasmopara halstedii* (Farlow) Berlese & de Toni è stato riscontrato nel sito di produzione delle sementi nel corso di almeno 2 ispezioni in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo; oppure c. i. il sito di produzione delle sementi è stato sottoposto ad almeno 2 ispezioni in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo, e ii. non più del 5 % dei vegetali presentava sintomi di *Plasmopara halstedii* (Farlow) Berlese & de Toni nel corso di tali ispezioni e dopo l’ispezione tutti i vegetali con sintomi di *Plasmopara halstedii* (Farlow) Berlese & de Toni sono stati rimossi e immediatamente distrutti, e iii. nel corso dell’ispezione finale non sono stati riscontrati vegetali con sintomi di *Plasmopara halstedii* (Farlow) Berlese & de Toni; oppure d. i. il sito di produzione delle sementi è stato sottoposto ad almeno 2 ispezioni in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo, e ii. tutti i vegetali con sintomi di *Plasmopara halstedii* (Farlow) Berlese & de Toni dopo l’ispezione sono stati rimossi e immediatamente distrutti, e iii. nel corso dell’ispezione finale non sono stati riscontrati vegetali con sintomi di *Plasmopara halstedii* (Farlow) Berlese & de Toni e un campione rappresentativo di ciascun lotto è stato analizzato ed è risultato indenne da *Plasmopara halstedii* (Farlow) Berlese & de Toni; oppure e. le sementi sono state sottoposte a un trattamento adeguato che si è dimostrato efficace contro tutti i ceppi noti di *Plasmopara halstedii* (Farlow) Berlese & de Toni.</td></tr>
+<tr><td>4.2.4 *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley [DEUTTR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>a. I vegetali sono stati prodotti in aree notoriamente indenni da *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley; oppure b. i vegetali sono stati coltivati in un sito di produzione che è risultato indenne da *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley nel corso dell’ultimo ciclo vegetativo completo in seguito ad almeno 2 controlli visivi in periodi opportuni durante tale ciclo vegetativo e tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte; oppure c. non più del 2 % dei vegetali del lotto presentava sintomi nel corso di almeno 2 controlli visivi in periodi opportuni per individuare la presenza dell’organismo nocivo durante l’ultimo ciclo vegetativo e tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze sono stati rimossi e immediatamente distrutti.</td></tr>
+<tr><td>4.2.5 *Puccinia horiana* P. Hennings [PUCCHN]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Chrysanthemum* L.</td><td>a. I vegetali derivano da piante madri che sono state controllate almeno una volta al mese nel corso dei 3 mesi precedenti e non sono stati riscontrati sintomi nel sito di produzione; oppure b. le piante madri con sintomi e i vegetali in un raggio di 1 m sono stati rimossi e distrutti, i vegetali sono stati sottoposti a un trattamento fisico o chimico adeguato e prima dello spostamento sono stati controllati e sono risultati indenni da sintomi.</td></tr>
+</table>
+
+### 4.3 Infestazione da insetti e acari
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>4.3.1 *Aculops* *fuchsiae* Keifer [ACUPFU]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Fuchsia* L.</td><td>a. I vegetali sono stati prodotti in aree notoriamente indenni da *Aculops fuchsiae* Keifer; oppure b. non sono stati riscontrati sintomi nei vegetali o nelle piante madri da cui derivano nel corso di controlli visivi nel sito di produzione durante il precedente ciclo vegetativo nel periodo più opportuno per individuare la presenza dell’organismo nocivo; oppure c. i vegetali sono stati sottoposti a un trattamento fisico o chimico adeguato prima dello spostamento e in un controllo successivo sono risultati indenni dall’organismo nocivo.</td></tr>
+<tr><td>4.3.2 *Opogona sacchari* Bo [OPOGSC]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Beaucarnea* Lem., *Bougainvillea* Comm. ex Juss., *Crassula* L., *Crinum* L., *Dracaena* Vand. ex L., *Ficus* L., *Musa* L., *Pachira* Aubl., *Palmae, Sansevieria* Thunb., *Yucca* L.</td><td>a. I vegetali sono stati prodotti in aree notoriamente indenni da *Opogona* *sacchari* Bojer; oppure b. i vegetali sono stati coltivati in un sito di produzione in cui non sono stati riscontrati sintomi o indizi di *Opogona sacchari* Bojer nel corso di controlli visivi effettuati almeno ogni 3 mesi per un periodo di almeno 6 mesi prima dello spostamento; oppure c. nel sito di produzione è applicato un sistema di sorveglianza e di eradicazione della popolazione di Opogona sacchari Bojer, nonché di rimozione dei vegetali infestati e ciascun lotto prima dello spostamento è stato sottoposto a un controllo visivo nel periodo più opportuno per individuare la presenza dell’organismo nocivo ed è risultato indenne da sintomi di Opogona sacchari Bojer.</td></tr>
+<tr><td>4.3.3 *Rhynchophorus ferrugineus* (Olivier) [RHYCFE]</td><td>Vegetali di *Palmae* destinati alla piantagione, esclusi frutti e sementi, aventi un fusto dal diametro superiore a 5 cm alla base e appartenenti ai seguenti generi e specie: *Areca catechu* L., *Arenga pinnata* (Wurmb) Merr., *Bismarckia* Hildebr. & H. Wendl., *Borassus flabellifer* L., *Brahea armata* S. Watson, *Brahea edulis* H. Wendl., *Butia capitata* (Mart.) Becc., *Calamus merrillii* Becc., *Caryota maxima* Blume, *Caryota cumingii* Lodd. ex Mart., *Chamaerops humilis* L., *Cocos nucifera* L., *Corypha utan* Lam., *Copernicia* Mart., *Elaeis guineensis* Jacq., *Howea forsteriana* Becc., *Jubaea chilensis* (Molina) Baill., *Livistona australis* C. Martius, *Livistona decora* (W. Bull) Dowe, *Livistona rotundifolia* (Lam.) Mart., *Metroxylon sagu* Rottb., *Phoenix canariensis* Chabaud, *Phoenix dactylifera* L., *Phoenix reclinata* Jacq., *Phoenix roebelenii* O’Brien, *Phoenix sylvestris* (L.) Roxb., *Phoenix theophrasti* Greuter, *Pritchardia* Seem. & H. Wendl., *Ravenea rivularis* Jum. & H. Perrier, *Roystonea regia* (Kunth) O.F. Cook, *Sabal palmetto* (Walter) Lodd. ex Schult. & Schult. f., *Syagrus romanzoffiana* (Cham.) Glassman, *Trachycarpus fortunei* (Hook.) H. Wendl., *Washingtonia* H. Wendl.</td><td>a. I vegetali, durante l’intero ciclo di vita, sono stati coltivati in un’area che l’organismo ufficiale responsabile ha riconosciuto indenne da *Rhynchophorus ferrugineus* (Olivier) in conformità delle pertinenti norme internazionali per le misure fitosanitarie; b. i vegetali, durante i 2 anni precedenti lo spostamento, sono stati coltivati in un sito di produzione in Svizzera o nell’Unione europea soggetto a protezione fisica totale volta a impedire l’introduzione di *Rhynchophorus ferrugineus* (Olivier), o in un sito di produzione in Svizzera o nell’Unione europea in cui sono stati applicati trattamenti preventivi adeguati in relazione a tale organismo nocivo; c. i vegetali sono stati sottoposti a controlli visivi almeno una volta ogni 4 mesi e sono risultati indenni da *Rhynchophorus ferrugineus* (Olivier).</td></tr>
+</table>
+
+### 4.4 Infestazione da nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>4.4.1 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Allium* L.</td><td>a. I vegetali o le piante da seme sono stati controllati e non sono stati riscontrati sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev nel lotto dall’inizio dell’ultimo ciclo vegetativo completo; oppure b. i bulbi sono risultati indenni da sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev in seguito a controlli visivi nel periodo più opportuno per individuare la presenza dell’organismo nocivo e sono stati confezionati per la cessione al consumatore finale.</td></tr>
+<tr><td>4.4.2 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston, *Galanthus* L., *Hyacinthus* Tourn. ex L, *Hymenocallis* Salisb., *Muscari* Mill., *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Sternbergia* Waldst. & Kit., *Tulipa* L.</td><td>a. I vegetali sono stati controllati e non sono stati riscontrati sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev nel lotto dall’inizio dell’ultimo ciclo vegetativo completo; oppure b. i bulbi sono risultati indenni da sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev in seguito a controlli visivi nel periodo più opportuno per individuare la presenza dell’organismo nocivo e sono stati confezionati per la cessione al consumatore finale.</td></tr>
+</table>
+
+### 4.5 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>4.5.1 *Candidatus* Phytoplasma mali Seemüller & Schneider [PHYPMA]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Malus* Mill.</td><td>a. I vegetali derivano da piante madri che sono state sottoposte a un controllo visivo e sono risultate indenni da sintomi di *Candidatus* Phytoplasma mali Seemür & Schneider; e b. i. i vegetali sono stati prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma mali Seemüller & Schneider, oppure ii. i vegetali sono stati coltivati in un sito di produzione che è risultato indenne da *Candidatus* Phytoplasma mali Seemüller & Schneider durante l’ultimo ciclo vegetativo completo in seguito a un controllo visivo e tutti i vegetali con sintomi nelle immediate vicinanze sono stati rimossi e immediatamente distrutti, oppure iii. non *più* del 2 % dei vegetali nel sito di produzione presentava sintomi nel corso di controlli visivi in periodi opportuni durante l’ultimo ciclo vegetativo, e tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze sono stati rimossi e immediatamente distrutti, inoltre un campione rappresentativo dei vegetali asintomatici rimanenti dei lotti in cui sono stati riscontrati vegetali con sintomi è stato sottoposto ad analisi ed è risultato indenne da *Candidatus* Phytoplasma mali Seemüller & Schneider.</td></tr>
+<tr><td>4.5.2 *Candidatus* Phytoplasma prunorum Seemüller & Schneider [PHYPPR]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Prunus* L.</td><td>a. I vegetali *derivano* da piante madri che sono state sottoposte a un controllo visivo e sono risultate indenni da sintomi di *Candidatus* Phytoplasma prunorum Seemüller & Schneider; e b. i. i vegetali sono stati coltivati in aree notoriamente indenni da *Candidatus* Phytoplasma *prunorum* Seemüller & Schneider, oppure ii. i vegetali sono cresciuti in un sito di produzione che è risultato indenne da *Candidatus* Phytoplasma prunorum Seemüller & Schneider durante l’ultimo ciclo vegetativo completo in seguito a un controllo visivo e tutti i vegetali con sintomi nelle immediate vicinanze sono stati rimossi e immediatamente distrutti, oppure iii. non più dell’1 % dei vegetali nel sito di produzione presentava sintomi nel corso di controlli visivi in periodi opportuni durante l’ultimo ciclo vegetativo e tali vegetali con sintomi nonché tutte le piante sintomatiche nelle immediate vicinanze sono stati rimossi e immediatamente distrutti, inoltre un campione rappresentativo dei vegetali asintomatici rimanenti dei lotti in cui sono stati riscontrati vegetali con sintomi è stato sottoposto ad analisi ed è risultato indenne da *Candidatus* Phytoplasma prunorum Seemüller & Schneider.</td></tr>
+<tr><td>4.5.3 *Candidatus* Phytoplasma pyri Seemüller & Schneider [PHYPPY]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Pyrus* L.</td><td>a. I vegetali derivano da piante madri che sono state sottoposte a un controllo visivo e sono risultate indenni dai sintomi di *Candidatus* Phytoplasma pyri Seemüller & Schneider; e b. i. i vegetali sono stati prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma pyri Seemüller & Schneider, oppure ii. i vegetali sono stati coltivati in un sito di produzione che è risultato indenne dall’organismo nocivo durante l’ultimo ciclo vegetativo completo in seguito a un controllo visivo e tutti i vegetali con sintomi nelle immediate vicinanze sono stati rimossi e immediatamente distrutti; oppure c. non più del 2 % dei vegetali nel sito di produzione presentava sintomi nel corso di controlli visivi in periodi opportuni durante l’ultimo ciclo vegetativo e tali vegetali con sintomi nonché tutti i vegetali con sintomi nelle immediate vicinanze sono stati rimossi e immediatamente distrutti.</td></tr>
+<tr><td>4.5.4 *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Lavandula* L.</td><td>a. I vegetali sono stati coltivati in un sito di produzione notoriamente indenne da *Candidatus* Phytoplasma solani Quaglino *et al.*; oppure b. nessun sintomo di *Candidatus* Phytoplasma solani Quaglino *et al.* è stato rilevato nel corso di controlli visivi del lotto durante l’ultimo ciclo vegetativo completo; oppure c. i vegetali con sintomi di *Candidatus* Phytoplasma solani Quaglino *et al*. sono stati rimossi e distrutti, inoltre un campione rappresentativo di vegetali rimanenti del lotto è stato sottoposto ad analisi ed è risultato indenne dall’organismo nocivo.</td></tr>
+<tr><td>4.5.5 Chrysanthemum stunt viroid [CSVD00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Argyranthemum* Webb ex Sch.Bip., *Chrysanthemum* L.</td><td>I vegetali derivano da oltre tre generazioni di moltiplicazione da popolamenti che sono stati sottoposti ad analisi e sono risultati indenni da Chrysanthemum stunt viroid.</td></tr>
+<tr><td>4.5.6 *Citrus exocortis* viroid [CEVD00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L.</td><td>a. I vegetali derivano da piante madri che sono state sottoposte a un controllo visivo e sono risultate indenni da *Citrus exocortis* viroid; e b. i vegetali sono stati coltivati in un sito di produzione che è risultato indenne dall’organismo nocivo durante l’ultimo ciclo vegetativo completo in seguito a un controllo visivo dei vegetali nel periodo opportuno per individuare la presenza dell’organismo nocivo.</td></tr>
+<tr><td>4.5.7 *Citrus* *tristeza* virus [CTV000] (isolati non UE)</td><td>Vegetali destinati alla piantagione, escluse le sementi *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e loro ibridi</td><td>a. I vegetali derivano da piante madri che negli ultimi 3 anni sono state sottoposte ad analisi e sono risultate indenni da *Citrus tristeza* virus; e b. i. i vegetali sono stati prodotti in aree notoriamente indenni da *Citrus tristeza* virus, oppure ii. i vegetali sono stati coltivati in un sito di produzione che è risultato indenne da *Citrus tristeza* virus durante l’ultimo ciclo vegetativo completo in seguito ad analisi su un campione rappresentativo di vegetali nel periodo opportuno per individuare la presenza dell’organismo nocivo, oppure iii. i vegetali sono stati coltivati in un sito di produzione soggetto a protezione fisica dai vettori che è risultato indenne da *Citrus tristeza* virus durante l’ultimo ciclo vegetativo completo in seguito ad analisi a campione di vegetali nel periodo più opportuno per individuare la presenza dell’organismo nocivo, oppure iv. in caso di esito positivo di un’analisi sulla presenza di *Citrus tristeza* virus in un lotto, tutti i vegetali sono stati analizzati singolarmente e non più del 2 % di tali vegetali è risultato positivo e i vegetali risultati infestati dall’organismo nocivo sono stati rimossi e immediatamente distrutti.</td></tr>
+<tr><td>4.5.8 *Impatiens* necrotic spot tospovirus [INSV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Begonia x hiemalis* *Fotsch*, ibridi della Nuova Guinea di *Impatiens* L.</td><td>a. I vegetali sono stati coltivati in un sito di produzione soggetto a sorveglianza per quanto concerne i vettori di tripidi rilevanti (*Frankliniella occidentalis* Pergande), che in seguito all’individuazione di tali organismi nocivi è stato sottoposto a trattamenti adeguati al fine di eradicare efficacemente le loro popolazioni; e b. i. non sono stati riscontrati sintomi di *Impatiens* necrotic spot tospovirus nel sito di produzione durante il ciclo vegetativo in corso, oppure ii. tutti i vegetali nel sito di produzione che presentavano sintomi di *Impatiens* necrotic spot tospovirus durante il ciclo vegetativo in corso sono stati rimossi e un campione rappresentativo dei vegetali destinati allo spostamento è stato sottoposto ad analisi ed è risultato indenne da *Impatiens* necrotic spot tospovirus.</td></tr>
+<tr><td>4.5.9 Potato spindle tuber viroid [PSTVD0]</td><td>*Capsicum annuum* L.</td><td>a. Nessun sintomo di una malattia causata da Potato spindle tuber viroid è stato riscontrato sui vegetali nel luogo di produzione durante un ciclo vegetativo completo; oppure b. i vegetali sono stati ufficialmente sottoposti ad analisi per il rilevamento di Potato spindle tuber viroid su un campione rappresentativo utilizzando metodi adeguati e sono risultati indenni da tale organismo nocivo.</td></tr>
+<tr><td>4.5.10 Plum pox virus (Sharka) [PPV000]</td><td>Vegetali delle specie seguenti di *Prunus* L., destinati alla piantagione, escluse le sementi: *Prunus armeniaca* L., *Prunus blireiana* Andre, *Prunus brigantina* Vill., *Prunus cerasifera* Ehrh., *Prunus cistena* Hansen, *Prunus curdica* Fenzl & Fritsch., *Prunus domestica* ssp. *domestica* L., *Prunus domestica* ssp. *insititia* (L.) C.K. Schneid, *Prunus domestica* ssp. *italica* (Borkh.) Hegi., *Prunus dulcis* (Mill.) D. A. Webb, *Prunus glandulosa* Thunb., *Prunus holosericea* Batal., *Prunus hortulana* Bailey, *Prunus* *japonica* Thunb., *Prunus mandshurica* (Maxim.) Koehne, *Prunus maritima* Marsh., *Prunus mume* Sieb. & Zucc., *Prunus nigra* Ait., *Prunus persica* (L.) Batsch, *Prunus salicina* L., *Prunus sibirica* L., *Prunus simonii* Carr., *Prunus spinosa* L., *Prunus tomentosa* Thunb., *Prunus triloba* Lindl., altre specie di *Prunus* L. sensibili al Plum pox virus</td><td>a. I portainnesti di *Prunus* ottenuti mediante moltiplicazione vegetativa da piante madri che sono state sottoposte a campionatura e analisi nel corso degli ultimi 5 anni e sono risultate indenni da Plum pox virus; e b. i. il materiale di moltiplicazione è stato prodotto in aree notoriamente indenni da Plum pox virus; oppure ii. nessun sintomo di Plum pox virus è stato riscontrato sul materiale di moltiplicazione nel sito di produzione durante l’ultimo ciclo vegetativo completo nel periodo più opportuno dell’anno tenuto conto delle condizioni climatiche, delle condizioni di crescita del vegetale e della biologia del Plum pox virus e tutti i vegetali con sintomi nelle immediate vicinanze sono stati rimossi e immediatamente distrutti; oppure iii. sono stati riscontrati sintomi di Plum pox virus in non più dell’1 % dei vegetali nel sito di produzione durante l’ultimo ciclo vegetativo completo nel periodo più opportuno dell’anno tenuto conto delle condizioni climatiche, delle condizioni di crescita del vegetale e della biologia del Plum pox virus e tutti i vegetali con sintomi nelle immediate vicinanze sono stati rimossi e immediatamente distrutti e un campione rappresentativo delle piante asintomatiche rimanenti dei lotti in cui sono stati riscontrati vegetali con sintomi è stato sottoposto ad analisi ed è risultato indenne dall’organismo nocivo. Una percentuale rappresentativa di vegetali che non presentano sintomi di Plum pox virus al momento del controllo visivo può essere sottoposta a campionatura e analisi in base a una valutazione del rischio di infestazione di tali vegetali per quanto riguarda la presenza dell’organismo nocivo.</td></tr>
+<tr><td>4.5.11 Tomato spotted wilt tospovirus [TSWV00]</td><td>Vegetali destinati alla piantagione, escluse le sementi *Begonia x hiemalis* Fotsch, *Capsicum annuum* L., *Chrysanthemum* L., *Gerbera* L., ibridi della Nuova Guinea di *Impatiens* L., *Pelargonium* L.</td><td>a. I vegetali sono stati coltivati in un sito di produzione soggetto a sorveglianza per quanto concerne i vettori di tripidi rilevanti (*Frankliniella occidentalis* e *Thrips tabaci*), che in seguito all’individuazione di tali organismi nocivi è stato sottoposto a trattamenti adeguati al fine di eradicare efficacemente le loro popolazioni; e b. non sono stati riscontrati sintomi di Tomato spotted wilt tospovirus nel sito di produzione durante il ciclo vegetativo in corso; oppure c. tutti i vegetali nel sito di produzione che presentavano sintomi di Tomato spotted wilt tospovirus durante il ciclo vegetativo in corso sono stati rimossi e un campione rappresentativo dei vegetali destinati allo spostamento è stato sottoposto ad analisi ed è risultato indenne da Tomato spotted wilt tospovirus.</td></tr>
+</table>
+
+### 5. Materiale di moltiplicazione forestale, escluse le sementi, destinato alla piantagione per l’impiego nella foresta
+
+### 5.1 Controllo visivo
+
+- 5\.1.1
+
+  L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute le condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione:
+
+  - a. il materiale di moltiplicazione forestale, escluse le sementi, di *Castanea sativa* Mill. è risultato indenne da *Cryphonectria* parasitica al momento del controllo visivo nel sito o nel luogo di produzione;
+  - b. il materiale di moltiplicazione forestale, escluse le sementi, di *Pinus* spp. è risultato indenne da *Dothistroma pini*, *Dothistroma* *septosporum* e *Lecanosticta acicola* al momento del controllo visivo nel sito o nel luogo di produzione.
+
+- 5\.1.2 I controlli visivi sono effettuati una volta all’anno nel periodo più opportuno per individuare tali organismi nocivi, tenuto conto delle condizioni climatiche, delle condizioni di crescita del vegetale e della biologia dei rispettivi organismi nocivi.
+
+### 5.2 Misure per genere o specie e categoria
+
+- 5\.2.1 L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure in relazione ai generi e alle specie seguenti al fine di garantire quanto segue:
+- 5\.2.1.1 *Castanea* sativa Mill.
+  - a. il materiale di moltiplicazione forestale proviene da aree notoriamente indenni da *Cryphonectria parasitica*;
+  - b. nessun sintomo di *Cryphonectria parasitica* è stato riscontrato nel luogo o nel sito di produzione durante l’ultimo ciclo vegetativo completo; oppure
+  - c. il materiale di moltiplicazione forestale con sintomi di *Cryphonectria parasitica* nel luogo o nel sito di produzione è stato rimosso e il materiale rimanente è stato ispezionato a intervalli di una settimana e non sono stati riscontrati sintomi di tale organismo nocivo nel luogo o nel sito di produzione per almeno tre settimane prima dello spostamento del materiale;
+
+- 5\.2.1.2 *Pinus* spp.
+  - a. il materiale di moltiplicazione forestale proviene da aree notoriamente indenni da *Dothistroma pini*, *Dothistroma septosporum* e *Lecanosticta acicola*;
+  - b. nessun sintomo di ruggine del pino causata da *Dothistroma pini*, *Dothistroma septosporum* o *Lecanosticta acicola* è stato riscontrato nel luogo o nel sito di produzione o nelle immediate vicinanze durante l’ultimo ciclo vegetativo completo; oppure
+  - c. sono state applicate misure idonee nel luogo o nel sito di produzione contro la ruggine del pino causata da *Dothistroma pini*, *Dothistroma* *septosporum* o *Lecanosticta acicola* e il materiale di moltiplicazione forestale è stato sottoposto a un controllo visivo prima della messa in commercio ed è risultato indenne da sintomi di *Dothistroma pini*, *Dothistroma septosporum* o *Lecanosticta acicola*.
+
+### 6. Sementi di ortaggi
+
+Le seguenti misure sono prese in relazione ai rispettivi ORNQ e ai vegetali destinati alla piantagione. L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute le condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione menzionati nel presente numero.
+
+### 6.1. Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Misure</th></tr>
+<tr><td>6.1.1 *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. [CORBMI]</td><td>[tab] *Solanum lycopersicum* L.</td><td>a. Le sementi sono state ottenute con un adeguato metodo di estrazione acida o con un metodo equivalente; e b. i. provengono da aree notoriamente indenni da *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al.*; oppure ii. nessun sintomo di una malattia causata da *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et* *al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure iii. le sementi sono state ufficialmene sottoposte ad analisi per il rilevamento di *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. sulla base di un campione rappresentativo utilizzando metodi adeguati e sono risultate indenni dall’organismo nocivo.</td></tr>
+<tr><td>6.1.2 *Xanthomonas axonopodis pv.* phaseoli (Smith) Vauterin *et al*. [XANTPH]</td><td>*Phaseolus vulgaris* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Xanthomonas axonopodis* pv. *phaseoli* (Smith) Vauterin *et al.*; oppure b. la coltura da cui sono state raccolte le sementi è stata sottoposta a un controllo visivo in periodi opportuni durante il ciclo vegetativo ed è risultata indenne da *Xanthomonas axonopodis* pv. *phaseoli* (Smith) Vauterin *et al.*; oppure c. un campione rappresentativo delle sementi è stato sottoposto ad analisi ed è risultato indenne da *Xanthomonas axonopodis* pv. *phaseoli* (Smith) *Vauterin et al.*</td></tr>
+<tr><td>6.1.3 *Xanthomonas fuscans* subsp. *fuscans* Schaad *et al*. [XANTFF]</td><td>*Phaseolus vulgaris* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Xanthomonas fuscans* subsp. *fuscans* Schaad *et al.*; oppure b. la coltura da cui sono state raccolte le sementi è stata sottoposta a un controllo visivo in periodi opportuni durante il ciclo vegetativo ed è risultata indenne da *Xanthomonas fuscans* subsp. *fuscans* Schaad *et al.*; oppure c. un campione rappresentativo delle sementi è stato sottoposto ad analisi ed è risultato indenne da *Xanthomonas fuscans* subsp. *fuscans* Schaad *et al.*</td></tr>
+<tr><td>6.1.4 *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU]</td><td>*Capsicum annuum* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Xanthomonas euvesicatoria* Jones *et al.*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas euvesicatoria* Jones *et* *al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas euvesicatoria* Jones *et* *al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas euvesicatoria* Jones *et al.*.</td></tr>
+<tr><td>6.1.5 *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU]</td><td>*Solanum lycopersicum* L.</td><td>a. Le sementi sono state ottenute con un adeguato metodo di estrazione acida; e b. provengono da aree notoriamente indenni da *Xanthomonas euvesicatoria* Jones *et al.*; oppure c. i. nessun sintomo di una malattia causata da *Xanthomonas euvesicatoria* Jones *et al.* è stato riscontrato nel corso di controlli visivi effettuati in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure ii. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas euvesicatoria* Jones *et al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xan**thomonas euvesicatoria* Jones *et al.*</td></tr>
+<tr><td>6.1.6 *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA]</td><td>*Capsicum annuum* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Xanthomonas gardneri* (ex Šutič) Jones *et al.*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas gardneri* (ex Šutič) Jones *et al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas gardneri* (ex Šutič) Jones *et al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas gardneri* (ex Šutič) Jones *et al.*</td></tr>
+<tr><td>6.1.7 *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA]</td><td>*Solanum lycopersicum* L.</td><td>a. Le sementi sono state ottenute con un adeguato metodo di estrazione acida; e b. le sementi provengono da aree notoriamente indenni da *Xanthomonas gardneri* (ex Šutič) Jones *et al.*; oppure c. i. nessun sintomo di una malattia causata da *Xanthomonas gardneri* (ex Šutič) Jones *et al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure ii. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas gardneri* (ex Šutič) Jones *et al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas gardneri* (ex Šutič) Jones *et al*.</td></tr>
+<tr><td>6.1.8 *Xanthomonas perforans* Jones *et al*. [XANTPF]</td><td>*Capsicum annuum* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Xanthomonas perforans* Jones *et al.*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas perforans* Jones *et al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas perforans* Jones *et al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas perforans* Jones *et al*.</td></tr>
+<tr><td>6.1.9 *Xanthomonas perforans* Jones *et al*. [XANTPF]</td><td>*Solanum lycopersicum* L.</td><td>a. Le sementi sono state ottenute con un adeguato metodo di estrazione acida; e b. provengono da aree notoriamente indenni da *Xanthomonas perforans* Jones *et al.*; oppure c. i. nessun sintomo di una malattia causata da *Xanthomonas perforans* Jones *et* *al*. è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure ii. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas perforans* Jones *et al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas perforans* Jones *et al.*</td></tr>
+<tr><td>6.1.10 *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]</td><td>*Capsicum annuum* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.*; oppure b. nessun sintomo di una malattia causata da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.* è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.* su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.*</td></tr>
+<tr><td>6.1.11 *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]</td><td>*Solanum lycopersicum* L.</td><td>a. Le sementi sono state ottenute con un adeguato metodo di estrazione acida; e b. le sementi provengono da aree notoriamente indenni da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.*; oppure c. i. nessun sintomo di una malattia causata da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.* è stato riscontrato nel corso di controlli visivi in periodi opportuni durante il ciclo vegetativo completo sulla superficie di moltiplicazione; oppure ii. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. su un campione rappresentativo utilizzando metodi adeguati, eventualmente in seguito a un trattamento idoneo, e sono risultate indenni da *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.*</td></tr>
+</table>
+
+### 6.2 Infestazion e da insetti e acari
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Misure</th></tr>
+<tr><td>6.2.1 *Acanthoscelides obtectus* (Say) [ACANOB]</td><td>*Phaseolus coccineus* L., *Phaseolus vulgaris* L.</td><td>a. Un campione rappresentativo di sementi è stato sottoposto a un controllo visivo nel periodo più opportuno per individuare la presenza dell’organismo nocivo, eventualmente in seguito a un trattamento idoneo; e b. le sementi sono risultate indenni da *Acanthoscelides obtectus* (Say).</td></tr>
+<tr><td>6.2.2 *Bruchus pisorum* (Linnaeus) [BRCHPI]</td><td>*Pisum sativum* L.</td><td>a. Un campione rappresentativo di sementi è stato sottoposto a un controllo visivo nel periodo più opportuno per individuare la presenza dell’organismo nocivo, eventualmente in seguito a un trattamento idoneo; e b. le sementi sono risultate indenni da *Bruchus pisorum* (L.).</td></tr>
+<tr><td>6.2.3 *Bruchus rufimanus* Boheman [BRCHRU]</td><td>*Vicia faba* L.</td><td>a. Un campione rappresentativo di sementi è stato sottoposto a un controllo visivo nel periodo più opportuno per individuare la presenza dell’organismo nocivo, eventualmente in seguito a un trattamento idoneo; e b. le sementi sono risultate indenni da *Bruchus rufimanus* Boheman</td></tr>
+</table>
+
+### 6.3 Infestazione da nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Misure</th></tr>
+<tr><td>6.3.1 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>*Allium cepa* L., *Allium porrum* L.</td><td>a. La coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare la presenza dell’organismo nocivo e non è stato riscontrato alcun sintomo di *Ditylenchus dipsaci* (Kuehn) Filipjev; oppure b. le sementi raccolte sono risultate indenni da *Ditylenchus dipsaci* (Kuehn) Filipjev in seguito ad analisi di laboratorio su un campione rappresentativo; oppure c. il materiale vegetale è stato sottoposto a un trattamento fisico o chimico adeguato contro *Ditylenchus dipsaci* (Kuehn) Filipjev e le sementi sono risultate indenni da tale organismo nocivo in seguito ad analisi di laboratorio su un campione rappresentativo.</td></tr>
+</table>
+
+### 6.4 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Misure</th></tr>
+<tr><td>6.4.1 Pepino mosaic virus [PEPMV0]</td><td>*Solanum lycopersicum* L.</td><td>a. Le sementi sono state ottenute con un adeguato metodo di estrazione acida o con un metodo equivalente; e b. i. provengono da aree notoriamente indenni da Pepino mosaic virus; oppure ii. nessun sintomo di una malattia causata da Pepino mosaic virus è stato riscontrato sui vegetali durante un ciclo vegetativo completo nell’azienda di moltiplicazione; oppure iii. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di Pepino mosaic virus su un campione rappresentativo utilizzando metodi adeguati e sono risultate indenni dall’organismo nocivo.</td></tr>
+<tr><td>6.4.2 Potato spindle tuber viroid [PSTVD0]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>a. Le sementi provengono da aree notoriamente indenni da Potato spindle tuber viroid; oppure b. nessun sintomo di una malattia causata da Potato spindle tuber viroid è stato riscontrato sui vegetali durante un ciclo vegetativo completo nell’azienda di moltiplicazione; oppure c. le sementi sono state ufficialmente sottoposte ad analisi per il rilevamento di Potato spindle tuber viroid su un campione rappresentativo utilizzando metodi adeguati e sono risultate indenni dall’organismo nocivo.</td></tr>
+</table>
+
+### 7. Patate da semina
+
+7.1 L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute le condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione menzionati nel presente numero.
+
+<table>
+<tr><th>Organismi nocivi o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>7.1.1 Indizi di virosi</td><td>*Solanum* *tuberosum* L.</td><td>Durante ispezioni ufficiali della discendenza diretta il numero di piante sintomatiche non deve superare la percentuale indicata nell’allegato 3.</td></tr>
+<tr><td>7.1.2 Gamba nera (*Dickeya* Samson *et al*. *spp*. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG])</td><td>*Solanum tuberosum* L.</td><td>a. Tuberi-seme di pre-base: le ispezioni ufficiali dimostrano che derivano da piante madri indenni da *Dickeya* Samson *et al.* spp. e *Pectobacterium* Waldee emend. Hauben *et al.* spp. b. Tutte le categorie: il popolamento di moltiplicazione è stato sottoposto a ispezioni ufficiali in campo dall’organo ufficiale responsabile.</td></tr>
+<tr><td>7.1.3 *Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS]</td><td>*Solanum tuberosum* L.</td><td>a. Tuberi-seme di pre-base: le ispezioni ufficiali dimostrano che derivano da piante madri indenni da *Candidatus* Liberibacter solanacearum Liefting *et al.* b. Tutte le categorie: i. i vegetali sono stati prodotti in aree notoriamente indenni da *Candidatus* Liberibacter solanacearum Liefting *et al*. tenendo conto della possibile presenza dei vettori; oppure ii. nel corso delle ispezioni in campo effettuate dall’organo ufficiale responsabile sulle superfici di moltiplicazione non sono stati riscontrati sintomi di *Candidatus* Liberibacter solanacearum Liefting *et al*. dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>7.1.4 *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]</td><td>*Solanum tuberosum* L.</td><td>a. Tuberi-seme di pre-base: le ispezioni ufficiali dimostrano che derivano da piante madri indenni da *Candidatus* Phytoplasma solani Quaglino *et al*. b. Tutte le categorie: i. nessun sintomo di *Candidatus* Phytoplasma solani Quaglino *et al*. è stato riscontrato nel corso di ispezioni ufficiali dall’inizio dell’ultimo ciclo vegetativo completo sulla superficie di moltiplicazione; oppure ii. tutti i vegetali sulla superficie di moltiplicazione che presentavano sintomi sono stati rimossi, con i loro tuberi, e distrutti e per tutti i popolamenti in cui sono stati riscontrati sintomi nelle colture in crescita, sono state effettuate analisi ufficiali sui tuberi dopo il raccolto, per ciascun lotto, al fine di confermare che sono indenni da *Candidatus* Phytoplasma solani Quaglino *et al*.</td></tr>
+<tr><td>7.1.5 *Ditylenchus destructor* Thorne [DITYDE]</td><td>*Solanum tuberosum* L.</td><td>L’organo ufficiale responsabile ha sottoposto i lotti a un’ispezione ufficiale e ne conferma la conformità alle pertinenti disposizioni dell’allegato 3.</td></tr>
+<tr><td>7.1.6 Rizottoniosi causata da *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO]</td><td>*Solanum tuberosum* L.</td><td>L’organo ufficiale responsabile ha sottoposto i lotti a un’ispezione ufficiale e ne conferma la conformità alle pertinenti disposizioni dell’allegato 3.</td></tr>
+<tr><td>7.1.7 Scabbia pulverulenta della patata causata da *Spongospora* *subterranea* (Wallr.) Lagerh. [SPONSU]</td><td>*Solanum tuberosum* L.</td><td>L’organo ufficiale responsabile ha sottoposto i lotti a un’ispezione ufficiale e ne conferma la conformità alle pertinenti disposizioni dell’allegato 3.</td></tr>
+<tr><td>7.1.8 Sintomi di mosaico causati da virus e sintomi causati da Potato leaf roll virus [PLRV00]</td><td>*Solanum tuberosum* L.</td><td>a. Tuberi-seme di pre-base: derivano da piante madri indenni da Potato virus A, Potato virus M, Potato virus S, Potato virus X, Potato virus Y e Potato leaf roll virus. Qualora vengano utilizzati metodi di micropropagazione, la conformità è verificata mediante analisi ufficiali oppure mediante analisi sotto sorveglianza ufficiale sulla pianta madre. Qualora vengano utilizzati metodi di selezione clonale, la conformità è verificata mediante analisi ufficiali oppure mediante analisi sotto sorveglianza ufficiale sul materiale clonale. b. Tutte le categorie: il popolamento di motliplicazione è stato sottoposto a ispezioni ufficiali in campo dall’organo ufficiale responsabile.</td></tr>
+<tr><td>7.1.9 Potato spindle tuber viroid [PSTVD0]</td><td>*Solanum tuberosum* L.</td><td>a. Materiale clonale: le analisi ufficiali o le analisi sotto sorveglianza ufficiale hanno dimostrato che tale materiale deriva da piante madri indenni da Potato spindle tuber viroid. b. Tuberi-seme di pre-base e di base: non sono stati riscontrati sintomi di Potato spindle tuber viroid; oppure per ciascun lotto sono state effettuate analisi ufficiali sui tuberi dopo il raccolto e i tuberi sono risultati indenni da Potato spindle tuber viroid. c. Tuberi-seme certificati: il controllo visivo ufficiale ha dimostrato che sono indenni dall’organismo nocivo e in caso di comparsa di sintomi dell’organismo nocivo sono effettuate analisi.</td></tr>
+</table>
+
+7.2 Gli organi ufficiali responsabili effettuano inoltre ispezioni in campo al fine di garantire che la presenza di ORNQ nel popolamento di moltiplicazione non superi i valori soglia indicati nella tabella seguente.
+
+<table>
+<tr><th>Organismi nocivi o sintomi</th><th>Specie vegetale</th><th>Valore soglia per i vegetali in crescita per tuberi-seme di pre-base</th><th>Valore soglia per i vegetali in crescita per tuberi-seme di base</th><th>Valore soglia per i vegetali in crescita per tuberi-seme certificati</th></tr>
+<tr><td>7.2.1 Gamba nera (*Dickeya* Samson *et al*. *spp*. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG])</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>1,0 %</td><td>4,0 %</td></tr>
+<tr><td>7.2.2 *Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS]</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>7.2.3 *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>7.2.4 Sintomi di mosaico causati da virus e sintomi causati da Potato leaf roll virus [PLRV00]</td><td>*Solanum tuberosum* L.</td><td>0,1 %</td><td>0,8 %</td><td>6,0 %</td></tr>
+<tr><td>7.2.5 Potato spindle tuber viroid [PSTVD0]</td><td>*Solanum tuberosum* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+### 8. Sementi di piante oleaginose e da fibra per l’impiego nella produzione agricola
+
+### 8.1 Ispezione in campo
+
+- 8\.1.1 L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni in campo della coltura a partire dalla quale sono prodotte le sementi di piante oleaginose e da fibra, al fine di garantire che la presenza di ORNQ non superi i valori soglia indicati nella tabella seguente:
+
+<table>
+<tr><th>Organismi nocivi o sintomi</th><th>Specie vegetale</th><th>Valori soglia per la produzione di sementi di pre-base</th><th>Valori soglia per la produzione di sementi di base</th><th>Valolri soglia per la produzione di sementi certificate</th></tr>
+<tr><td>8.1.1 *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA]</td><td>*Helianthus annuus* L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
+</table>
+
+L’organo ufficiale responsabile può autorizzare ispettori che non siano operatori professionali a effettuare le ispezioni in campo per suo conto e sotto la sua sorveglianza ufficiale.
+
+- 8\.1.2 Le ispezioni in campo sono effettuate quando lo stato e lo stadio di sviluppo della coltura consentono un’ispezione adeguata. Viene effettuata almeno un’ispezione in campo all’anno, nel periodo più opportuno per individuare i rispettivi ORNQ.
+- 8\.1.3 L’organo ufficiale responsabile stabilisce le dimensioni, il numero e la distribuzione delle sezioni del campo da ispezionare, secondo metodi adeguati. La percentuale di colture destinate alla produzione di sementi da sottoporre all’ispezione dell’organo ufficiale responsabile è almeno del 5 per cento.
+
+### 8.2 Campionatura e analisi di sementi di piante oleaginose e da fibra
+
+- 8\.2.1
+
+  L’organo ufficiale responsabile:
+
+  - a. preleva campioni ufficiali da lotti di sementi di piante oleaginose e da fibra;
+  - b. autorizza gli addetti alla campionatura di sementi a effettuare la campionatura per suo conto e sotto la sua sorveglianza ufficiale;
+  - c. confronta i campioni di sementi da essa prelevati con quelli dello stesso lotto di sementi prelevati dagli addetti alla campionatura di sementi sotto sorveglianza ufficiale;
+  - d. sorveglia l’attività degli addetti alla campionatura di cui al alla lettera b.
+
+- 8\.2.2 L’organo ufficiale responsabile o l’azienda sotto sorveglianza ufficiale effettua campionatura e analisi delle sementi di piante oleaginose e da fibra conformemente ai più recenti metodi internazionali. Tranne nel caso della campionatura automatica, l’organo ufficiale responsabile sottopone a un controllo ufficiale almeno il 5 per cento dei lotti di sementi annunciati per la certificazione. Tale percentuale è ripartita il più equamente possibile tra tutte le persone fisiche e giuridiche che annunciano le sementi per la certificazione e tra le specie annunciate, ma può anche essere scelta in maniera mirata per fugare determinati dubbi.
+- 8\.2.3 In caso di campionatura automatica, sono applicate procedure adeguate sottoposte a sorveglianza ufficiale.
+- 8\.2.4 Per l’esame delle sementi ai fini della certificazione e l’esame delle sementi commerciali, i campioni sono prelevati da lotti omogenei. Per quanto riguarda il peso del lotto e dei campioni, si applica la tabella di cui all’allegato 4 capitolo C numero 1 dell’ordinanza del DEFR del 7 dicembre 1998[^annex4-lvlu1-lvl8-lvl82-1] sulle sementi e i tuberi-seme.
+
+[^annex4-lvlu1-lvl8-lvl82-1]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+
+### 8.3 Misure supplementari per le sementi di piante oleaginose e da fibra
+
+L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua le ispezioni supplementari seguenti e prende altre misure al fine di garantire che siano adempiute le condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione:
+
+- 8\.3.1
+
+  Misure relative alle sementi di *Helianthus annuus* L., al fine di prevenire la comparsa di *Plasmopora halstedii*:
+
+  - a. le sementi di *Helianthus annuus* L. provengono da aree notoriamente indenni da *Plasmopara halstedii*; oppure
+  - b. nessun sintomo di *Plasmopara halstedii* è stato riscontrato sulla superficie di moltiplicazione nel corso di almeno 2 ispezioni effettuate in periodi opportuni durante il ciclo vegetativo; oppure
+  - c. i. la superficie di moltiplicazione è stata sottoposta ad almeno 2 ispezioni in campo effettuate in periodi opportuni per individuare la presenza dell’organismo nocivo durante il ciclo vegetativo; e
+  - ii. non più del 5 % dei vegetali ha presentato sintomi di *Plasmopara halstedii* nel corso di ispezioni in campo e tutti i vegetali con sintomi di *Plasmopara halstedii* sono stati rimossi e immediatamente distrutti dopo l’ispezione; e
+  - iii. nel corso dell’ispezione finale non sono stati riscontrati vegetali con sintomi di *Plasmopara halstedii*; oppure
+  - d. i. la superficie di moltiplicazione è stata sottoposta ad almeno 2 ispezioni in campo effettuate in periodi opportuni durante il ciclo vegetativo; e
+  - ii. tutti i vegetali con sintomi di *Plasmopara halstedii* sono stati rimossi e immediatamente distrutti dopo l’ispezione; e
+  - iii. nel corso dell’ispezione finale non sono stati riscontrati vegetali con sintomi di *Plasmopara halstedii*, e un campione rappresentativo di ciascun lotto è stato analizzato ed è risultato indenne da *Plasmopara halstedii* oppure le sementi sono state sottoposte a un trattamento adeguato che si è dimostrato efficace contro tutti i ceppi noti di *Plasmopara halstedii* (Farlow) Berlese & de Toni.
+
+- 8\.3.2
+
+  Misure relative alle sementi di Helianthus *annuus* L. e *Linum usitatissimum* L. al fine di prevenire la comparsa di *Botrytis cinerea*:
+
+  - a. è stato effettuato un trattamento delle sementi autorizzato contro *Botrytis cinerea*; oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+- 8\.3.3
+
+  Misure relative alle sementi di *Glycine max* (L.) Merryl al fine di prevenire la comparsa di von *Diaporthe caulivora* (*Diaporthe phaseolorum* var. caulivora):
+
+  - a. è stato applicato un trattamento delle sementi autorizzato per l’uso contro *Diaporthe caulivora* (*Diaporthe phaseolorum* var. *caulivora*); oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+- 8\.3.4
+
+  Misure relative alle sementi di *Glycine max* (L.) Merryl al fine di prevenire la comparsa di *Diaporthe* var. *sojae*:
+
+  - a. è stato effettuato un trattamento delle sementi autorizzato contro *Diaporthe* var. *sojae*; oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+- 8\.3.5
+
+  Misure relative alle sementi di *Linum usitatissimum* L. al fine di prevenire la comparsa di *Alternaria linicola*:
+
+  - a. è stato effettuato un trattamento delle sementi autorizzato contro *Alternaria linicola*; oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+- 8\.3.6
+
+  Misure relative alle sementi di *Linum usitatissimum* L., al fine di prevenire la comparsa di *Boeremia exigua* var. *linicola*:
+
+  - a. è stato effettuato un trattamento delle sementi autorizzato contro *Boeremia exigua* var. *linicola*; oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+- 8\.3.7
+
+  Misure relative alle sementi di *Linum usitatissimum* L. al fine di prevenire la comparsa di *Colletotrichum lini*:
+
+  - a. è stato effettuato un trattamento delle sementi autorizzato contro *Colletotrichum lini*; oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+- 8\.3.8
+
+  Misure relative alle sementi di *Linum usitatissimum* L. al fine di prevenire la comparsa di *Fusarium* (genere anamorfo), esclusi *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon e *Fusarium circinatum* Nirenberg & O’Donnell:
+
+  - a. è stato effettuato un trattamento delle sementi autorizzato contro *Fusarium* (genere anamorfo), esclusi *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon e *Fusarium circinatum* Nirenberg & O’Donnell; oppure
+  - b. la soglia di tolleranza stabilita per le sementi non è superata sulla base di analisi di laboratorio effettuate su un campione rappresentativo.
+
+### 9. Materiale di moltiplicazione e materiale vegetale destinati alla piantagione di ortaggi, ad eccezione delle sementi
+
+- 9\.1
+
+  L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire quanto segue:
+
+  - a. i vegetali almeno durante il controllo visivo devono apparire praticamente indenni dagli organismi nocivi indicati nelle tabelle del presente numero, per quanto riguarda il genere o la specie in questione;
+  - b. i vegetali che nella fase di crescita presentavano indizi visibili o sintomi di un’investazine dagli organismi nocivi indicati nelle tabelle del presente numero, sono stati sottoposti a un trattamento adeguato immediatamente dopo la loro comparsa o, se del caso, sono stati rimossi;
+  - c. nel caso dei bulbi di scalogni e di aglio, i vegetali derivano direttamente da materiale che nella fase di crescita è stato controllato ed è risultato praticamente indenne dagli organismi nocivi indicati nelle tabelle del presente numero.
+
+- 9\.2 Inoltre l’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute le condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione, di cui alla tabella seguente.
+
+### 9.2.1 Infestazione da batteri
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>9.2.1.1 *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. [CORBMI]</td><td>*Solanum lycopersicum* L.</td><td>I vegetali sono stati coltivati da sementi che adempiono le condizioni di cui all’allegato 4 numero 6, e sono state mantenute indenni da infestazioni mediante adeguate misure igieniche.</td></tr>
+<tr><td>9.2.1.2 *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>a. Le piante giovani sono state coltivate da sementi che adempiono le condizioni di cui al numero 6 relative alle sementi di ortaggi; e b. le piante giovani sono state mantenute in condizioni igieniche idonee alla prevenzione di infestazioni.</td></tr>
+<tr><td>9.2.1.3 *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al* [XANTGA]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>a. Le piante giovani sono state coltivate da sementi che adempiono le condizioni di cui al numero 6 relative alle sementi di ortaggi; e b. le piante giovani sono state mantenute in condizioni igieniche idonee alla prevenzione di infestazioni.</td></tr>
+<tr><td>9.2.1.4 *Xanthomonas perforans* Jones *et al*. [XANTPF]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>a. Le piante giovani sono state coltivate da sementi che adempiono le condizioni di cui al numero 6 relative alle sementi di ortaggi; e b. le piante giovani sono state mantenute in condizioni igieniche idonee alla prevenzione di infestazioni.</td></tr>
+<tr><td>9.2.1.5 *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]</td><td>*Capsicum annuum* L., *Solanum lycopersicum* L.</td><td>a. Le piante giovani sono state coltivate da sementi che adempiono le condizioni di cui al numero 6 relative alle sementi di ortaggi; e b. le piante giovani sono state mantenute in condizioni igieniche idonee alla prevenzione di infestazioni.</td></tr>
+</table>
+
+### 9.2.2 Infestazione da funghi e oomiceti
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>9.2.2.1 *Fusarium* Link (genere anamorfo) [1FUSAG], escluso *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] e *Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI]</td><td>*Asparagus officinalis* L.</td><td>a. i. La coltura è stata sottoposta a un controllo visivo in un periodo opportunio per individuare l’organismo nocivo durante il ciclo vegetativo, un campione rappresentativo dei vegetali è stato sradicato e non sono stati riscontrati sintomi di *Fusarium* Link; oppure ii. la coltura è stata sottoposta a un controllo visivo almeno 2 volte in periodi opportuni per individuare l’organismo nocivo durante il ciclo vegetativo e i vegetali che presentavano sintomi di *Fusarium* Link sono stati immediatamente rimossi e nel corso dell’ispezione finale in campo non sono stati riscontrati sintomi; e b. le chiome sono state sottoposte a un controllo visivo prima dello spostamento e non sono stati riscontrati sintomi di *Fusarium* Link.</td></tr>
+<tr><td>9.2.2.2 *Helicobasidium brebissonii* (Desm.) Donk [HLCBBR]</td><td>*Asparagus officinalis* L.</td><td>i. La coltura è stata sottoposta a un controllo visivo in un periodo opportuno per individuare l’organismo nocivo durante il ciclo vegetativo, un campione rappresentativo dei vegetali è stato sradicato e non sono stati riscontrati sintomi di *Helicobasidium brebissonii* (Desm.) Donk; oppure ii. la coltura è stata sottoposta a un controllo visivo almeno 2 volte in periodi opportuni per individuare l’organismo nocivo durante il ciclo vegetativo e i vegetali che presentavano sintomi di *Helicobasidium brebissonii* (Desm.) Donk sono stati immediatamente rimossi e nel corso dell’ispezione finale non sono stati riscontrati sintomi; e b. le chiome sono state sottoposte a un controllo visivo prima dello spostamento e non sono stati riscontrati sintomi di *Helicobasidium brebissonii* (Desm.) Donk.</td></tr>
+<tr><td>9.2.2.3 *Stromatinia cepivora* Berk. [SCLOCE]</td><td>*Allium cepa* L., *Allium fistulosum* L., *Allium porrum* L.</td><td>a. Le piante coltivate in moduli e trapiantate sono cresciute su un substrato indenne da Stromatinia *cepivora* Berk.; oppure b. i. — la coltura è stata sottoposta a un controllo visivo in un periodo opportuno per individuare l’organismo nocivo durante il ciclo vegetativo e non sono stati riscontrati sintomi di *Stromatinia cepivora* Berk.; oppure — la coltura è stata sottoposta a un controllo visivo in un periodo opportuno per individuare l’organismo nocivo durante il ciclo vegetativo e i vegetali che presentavano sintomi di *Stromatinia cepivora* Berk. sono stati immediatamente rimossi e nel corso dell’ispezione finale non sono stati riscontrati sintomi; e ii. i vegetali o le composizioni floreali sono stati sottoposti a un controllo visivo prima del trasferimento e non sono stati riscontrati sintomi di *Stromatinia cepivora* Berk.</td></tr>
+<tr><td>9.2.2.4 *Stromatinia cepivora* Berk. [SCLOCE]</td><td>*Allium sativum* L.</td><td>a. i. La coltura è stata sottoposta a un controllo visivo in un periodo opportuno per individuare l’organismo nocivo durante il ciclo vegetativo e non sono stati riscontrati sintomi di *Stromatinia cepivora* Berk.; oppure ii. la coltura è stata sottoposta a un controllo visivo in un periodo opportuno per individuare l’organismo nocivo durante il ciclo vegetativo e i vegetali che presentavano sintomi di *Stromatinia cepivora* Berk. sono stati immediatamente rimossi e nel corso del controllo finale non sono stati riscontrati sintomi; e b. i vegetali sono stati sottoposti a un controllo visivo prima del trasferimento e non sono stati riscontrati sintomi di *Stromatinia cepivora* Berk.</td></tr>
+<tr><td>9.2.2.5 *Verticillium dahliae* Kleb. [VERTDA]</td><td>*Cynara cardunculus* L.</td><td>a. Le piante madri derivano da materiale sottoposto ad analisi di patogenicità; e b. i vegetali sono stati coltivati in un sito di produzione di cui sono note le precedenti rotazioni colturali e in cui non è mai stata registrata la presenza di *Verticillium dahliae* Kleb.; e c. i vegetali sono stati sottoposti a un controllo visivo in periodi opportuni dall’inizio dell’ultimo ciclo vegetativo completo e sono risultati indenni da sintomi di *Verticillium dahliae* Kleb.</td></tr>
+</table>
+
+### 9.2.3 Infestazione da insetti, acari e nematodi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>9.2.3.1 *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]</td><td>[tab] *Allium cepa* L., *Allium sativum* L.</td><td>[tab] Vegetali esclusi i vegetali per la coltivazione a scopo commerciale: a. la coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non sono stati riscontrati sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev; oppure b. i. la coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non più del 2 % dei vegetali presentava sintomi di infestazione da *Ditylenchus dipsaci* (Kuehn) Filipjev, e ii. i vegetali infestati da tale organismo nocivo sono stati immediatamente rimossi, e iii. i vegetali sono risultati indenni da tale organismo nocivo in seguito ad analisi di laboratorio su un campione rappresentativo; oppure c. i vegetali sono stati sottoposti a un trattamento chimico o fisico adeguato contro *Ditylenchus dipsaci* (Kuehn) Filipjev e sono risultati indenni da tale organismo nocivo in seguito ad analisi di laboratorio su un campione rappresentativo. Vegetali per la coltivazione a scopo commerciale: a. la coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non sono stati riscontrati sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev; oppure b. i. la coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo; ii. i vegetali con sintomi di *Ditylenchus dipsaci* (Kuehn) Filipjev sono stati immediatamente rimossi, e iii. i vegetali sono risultati indenni da tale organismo nocivo in seguito ad analisi di laboratorio su un campione rappresentativo; oppure c. i vegetali sono stati sottoposti a un trattamento chimico o fisico adeguato e sono risultati indenni da *Ditylenchus dipsaci* (Kuehn) Filipjev in seguito ad analisi di laboratorio su un campione rappresentativo.</td></tr>
+</table>
+
+### 9.2.4 Infestazione da virus, viroidi, malattie da agenti virus-simili e fitoplasmi
+
+<table>
+<tr><th>Organismo nocivo o sintomi</th><th>Specie vegetale</th><th>Condizioni</th></tr>
+<tr><td>9.2.4.1 Leek yellow stripe virus [LYSV00]</td><td>[tab] *Allium* *sativum* L.</td><td>a. La coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non sono stati riscontrati sintomo di Leek yellow stripe virus; oppure b. la coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non più del 10 % dei vegetali presentava sintomi di Leek yellow stripe virus; tali vegetali sono stati immediatamente rimossi e nel corso del controllo finale non è stato riscontrato più dell’1 % di piante sintomatiche.</td></tr>
+<tr><td>9.2.4.2 Onion yellow dwarf virus [OYDV00]</td><td>*Allium cepa* L., *Allium sativum* L.</td><td>a. La coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non sono stati riscontrati sintomo di Onion yellow dwarf virus; oppure b. i. la coltura è stata sottoposta a un controllo visivo almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo in un periodo opportuno per individuare l’organismo nocivo e non più del 10 % dei vegetali presentava sintomi di Onion yellow dwarf virus; e ii. i vegetali infestati da tale organismo nocivo sono stati immediatamente rimossi; e iii. non più dell’1 % di vegetali presentava sintomi di tale organismo nocivo nel corso del controllo finale.</td></tr>
+<tr><td>9.2.4.3 Potato spindle tuber viroid [PSTVD0]</td><td>*Capsicum annuum* L., *Solanum* *lycopersicum* L.</td><td>a. Nessun sintomo di una malattia causata da Potato spindle tuber viroid è stato riscontrato sui vegetali nel luogo di produzione durante un ciclo vegetativo completo; oppure b. i vegetali sono stati ufficilamente sottoposti ad analisi per il rilevamento di Potato spindle tuber viroid su un campione rappresentativo utilizzando metodi adeguati e sono risultati indenni da tale organismo nocivo.</td></tr>
+<tr><td>9.2.4.4 Tomato spotted wilt tospovirus [TSWV00]</td><td>*Capsicum annuum* L., *Lactuca* *sativa* L., *Solanum lycopersicum* L., *Solanum melongena* L.</td><td>a. I vegetali sono stati coltivati in un sito di produzione soggetto a sorveglianza per quanto concerne i vettori di tripidi rilevanti (*Frankliniella occidentalis* Pergande e *Thrips tabaci* Lindeman) in seguito all’individuazione di tali organismi nocivi è stato sottoposto a trattamenti adeguati al fine di eradicare efficacemente le loro popolazioni; e b. i. non sono stati riscontrati sintomi di Tomato spotted wilt tospovirus nel sito di produzione durante il ciclo vegetativo in corso; oppure ii. tutti i vegetali del sito di produzione che presentavano sintomi di Tomato spotted wilt tospovirus durante il ciclo vegetativo in corso sono stati rimossi e un campione rappresentativo di vegetali destinati allo spostamento è stato sottoposto ad analisi ed è risultato indenne da tale organismo nocivo.</td></tr>
+<tr><td>9.2.4.5 Tomato yellow leaf curl virus [TYLCV0]</td><td>*Solanum lycopersicum* L.</td><td>a. Nessun sintomo di Tomato yellow leaf curl virus è stato riscontrato sui vegetali; oppure b. nessun sintomo di Tomato yellow leaf curl virus è stato riscontrato nel luogo di produzione.</td></tr>
+</table>
+
+### 10. Materiale di moltiplicazione e materiale vegetale destinati alla piantagione di specie da frutto destinate alla produzione di frutta
+
+Per la messa in commercio di materiale di moltiplicazione non riconosciuto, compreso il materiale vegetale di specie da frutto destinate alla produzione di frutta, si applicano le disposizioni fitosanitarie della categoria CAC[^annex4-lvlu1-lvl10-1] (Conformitas Agraria Communitatis) menzionate nel presente numero.
+
+I controlli visivi sono effettuati dall’organo ufficiale responsabile ed eventualmente dall’azienda sotto la vigilanza dell’organo ufficiale responsabile.
+
+### 10.1 *Castanea sativa* Mill.
+
+[^annex4-lvlu1-lvl10-1]: O del 7 dic. 1998 sul materiale di moltiplicazione ([RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)).
+
+- 10\.1.1 Tutte le categorie
+- **Controllo visivo:**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- 10\.1.2 Materiale di pre-base e materiale di base
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, deve essere adempiuta una delle seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base e materiale di base devono essere prodotti in aree notoriamente indenni da *Cryphonectria parasitica*;
+  - b. nel sito di produzione non sono stati riscontrati sintomi di *Cryphonectria parasitica* sui vegetali delle categorie materiale di pre-base e materiale di base durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Cryphonectria parasitica*.
+
+- 10\.1.3 Materiale certificato e CAC
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, deve essere adempiuta una delle seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto delle categorie materiale certificato e CAC devono essere prodotti in aree notoriamente indenni da *Cryphonectria parasitica*;
+  - b. nel sito di produzione non sono stati riscontrati sintomi di *Cryphonectria parasitica* sulle piante delle categorie materiale certificato e CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Cryphonectria parasitica*;
+  - c. i vegetali delle categorie materiale certificato e CAC con sintomi di *Cryphonectria parasitica* sono stati rimossi, i vegetali restanti sono stati controllati a intervalli settimanali e nel sito di produzione non sono più stati riscontrati sintomi di *Cryphonectria parasitica* da almeno 3 settimane prima della messa in commercio.
+
+### 10.2 *Citrus* L., *Fortunella* Swingle e *Poncirus* Raf.
+
+- 10\.2.1 Materiale di pre-base
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati 2 volte all’anno.
+- **Campionatura e analisi**
+- Ciascuna candidata pianta madre di pre-base deve essere sottoposta a campionatura e analisi per quanto riguarda Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*. Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di *Spiroplasma citri*. Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 3 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente a intervalli di 3 anni per quanto riguarda Citrus tristeza virus (isolati europei).
+- 10\.2.2 Materiale di base
+- **Controllo visivo**
+- I controlli visivi per quanto riguarda Citrus tristeza virus (isolati europei), *Spiroplasma citri* Saglio *et al.* e *Plenodomus tracheiphilus* devono essere effettuati 2 volte all’anno*.*
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri di base che sono state conservate in strutture a prova di insetto, ciascuna pianta madre di base deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di Citrus tristeza virus (isolati europei). Una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di *Spiroplasma citri*.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Citrus tristeza virus (isolati europei) e *Spiroplasma citri*. In caso di risultato positivo a Citrus tristeza virus (isolati europei), nel sito di produzione tutte le piante madri di base devono essere sottoposte a campionatura e analisi per rilevare l’organismo nocivo.
+- 10\.2.3 Materiale certificato
+- **Controllo visivo**
+- I controlli visivi per quanto riguarda Citrus tristeza virus (isolati europei), *Spiroplasma citri* Saglio *et al.* e *Plenodomus tracheiphilus* devono essere effettuati 2 volte all’anno*.*
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri certificate che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Citrus tristeza virus (isolati europei). In caso di dubbi una parte rappresentativa delle piante madri certificate può essere sottoposta ad analisi per quanto riguarda organismi nocivi diversi da Citrus tristeza virus (isolati europei).
+- In caso di risultato positivo a Citrus tristeza virus (isolati europei), nel sito di produzione tutte le piante madri certificate devono essere sottoposte a campionatura e analisi.
+- 10\.2.4 Materiale di pre-base, materiale di base e materiale certificato
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, deve essere adempiuta una delle seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere prodotti in aree notoriamente indenni da Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*;
+  - b. nel caso in cui le piante delle categorie materiale di pre-base, materiale di base e materiale certificato siano state conservate in una struttura a prova di insetto, non sono stati riscontrati sintomi di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus* su tali vegetali durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*;
+  - c. nel caso in cui i vegetali delle categorie materiale di pre-base, materiale di base e materiale certificato non siano stati conservati in una struttura a prova di insetto, nel sito di produzione non sono stati riscontrati sintomi di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus* su tali vegetali durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*; una parte rappresentativa del materiale è stata sottoposta a campionatura e analisi prima della messa in commercio per quanto riguarda Citrus tristeza virus.
+
+- 10\.2.5 CAC
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- **Campionatura e analisi**
+- La fonte identificata del materiale deve essere risultata indenne da Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus* in base a campionatura e analisi.
+- Nel caso in cui la fonte identificata del materiale sia stata conservata in strutture a prova di insetto, una parte rappresentativa di tale materiale deve essere sottoposta a campionatura e analisi ogni 8 anni per rilevare la comparsa di Citrus tristeza virus (isolati europei).
+- Nel caso in cui la fonte identificata del materiale non sia stata conservata in strutture a prova di insetto, una parte rappresentativa di tale materiale deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di Citrus tristeza virus (isolati europei).
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi per quanto riguarda la fonte identificata del materiale, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere prodotti da un materiale identificato alla fonte che è risultato indenne da Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus* dall’inizio dell’ultimo ciclo vegetativo;
+  - b.i. le piante CAC devono essere prodotte in aree notoriamente indenni da Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*;
+    - [tab] oppure
+
+  - b.ii. nel sito di produzione non sono stati riscontrati sintomi di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus* sulle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte;
+    - [tab] oppure
+
+  - b.iii. nel sito di produzione i sintomi di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus* sono stati riscontrati al massimo sul 2 % delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di Citrus tristeza virus (isolati europei), *Spiroplasma citri* e *Plenodomus tracheiphilus*; tali vegetali e tutte le piante sintomatiche nelle immediate vicinanze sono stati rimossi e immediatamente distrutti; i vegetali restanti devono essere sottoposti ad analisi a campione prima della messa in commercio.
+
+### 10.3 *Cydonia oblonga* Mill.
+
+- 10\.3.1 Tutte le categorie
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- 10\.3.2 Materiale di pre-base
+- **Campionatura e analisi**
+- Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 15 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente a intervalli di 15 anni per quanto riguarda *Erwinia amylovora*.
+- 10\.3.3 Materiale di base
+- **Campionatura e analisi**
+- Una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 15 anni in funzione dei rischi per quanto riguarda *Erwinia amylovora*.
+- 10\.3.4 Materiale certificato
+- **Campionatura e analisi**
+- Una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni in base a una valutazione del rischio di infestazione di tali vegetali per quanto riguarda *Erwinia amylovora*. In caso di dubbi le piante da frutto certificate devono essere sottoposte a campionatura e analisi per quanto riguarda *Erwinia amylovora*.
+- 10\.3.5 Materiale di pre-base, materiale di base e materiale certificato
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, deve essere adempiuta una delle seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere prodotti in aree notoriamente indenni da *Erwinia amylovora*;
+  - b. i vegetali delle categorie materiale di pre-base, materiale di base e materiale certificato sono stati controllati durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Erwinia amylovora*; tutti i vegetali con sintomi di *Erwinia amylovora* e tutte le piante ospiti circostanti sono stati rimossi e immediatamente distrutti.
+
+- 10\.3.6 CAC
+- **Campionatura e analisi**
+- In caso di dubbi i vegetali devono essere sottoposti a campionatura e analisi per quanto riguarda *Erwinia amylovora*.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, deve essere adempiuta una delle seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere prodotti in aree notoriamente indenni da *Erwinia amylovora*;
+  - b. nel sito di produzione le piante CAC sono state controllate durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Erwinia amylovora*; tutti i vegetali con sintomi di *Erwinia amylovora* e tutte le piante ospiti circostanti sono stati rimossi e immediatamente distrutti.
+
+### 10.4 *Fragaria* L.
+
+- 10\.4.1 Tutte le categorie
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati 2 volte all’anno. Le foglie di *Fragaria* L. devono essere sottoposte a un controllo visivo per quanto riguarda *Phytophthora fragariae*.
+- Per quanto concerne i vegetali e il materiale prodotti mediante micropropagazione e conservati per un periodo inferiore a 3 mesi è necessario solo un controllo visivo durante tale periodo.
+- 10\.4.2 Materiale di pre-base
+- **Campionatura e analisi**
+-
+
+  Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi un anno dopo il suo riconoscimento come pianta madre di pre-base e successivamente a ciascun ciclo vegetativo per quanto riguarda i seguenti organismi nocivi:
+
+  - – *Aphelenchoides besseyi*
+  - – *Arabis* mosaic virus (ArMV)
+  - – *Phytophthora fragariae*
+  - – Raspberry ringspot virus (RpRSV)
+  - – Strawberry crinkle virus
+  - – Strawberry latent ringspot virus (SLRSV)
+  - – Strawberry mild yellow edge virus
+  - – Strawberry vein banding virus
+  - – Tomato black ring virus
+  - – *Xanthomonas fragariae*
+
+- 10\.4.3 Materiale di base
+- **Campionatura e analisi**
+- Nel caso in cui siano stati riscontrati sintomi di *Phytophthora fragariae* sulle foglie, un campione di radici rappresentativo deve essere prelevato e sottoposto ad analisi per quanto riguarda l’organismo nocivo. In caso di sintomi non evidenti di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus o Tomato black ring virus, un campione deve essere prelevato e sottoposto ad analisi. In caso di dubbi i vegetali devono essere sottoposti a campionatura e analisi per quanto riguarda *Aphelenchoides besseyi* o *Xanthomonas fragariae*.
+- 10\.4.4 Materiale di pre-base e materiale di base
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da bacche delle categorie materiale di pre-base e materiale di base devono essere prodotti da piante madri che sono state controllate e sono risultate indenni da sintomi di *Xanthomonas fragariae* e *Phytophthora fragariae*;
+  - b. i. il materiale di moltiplicazione e le piante da bacche delle categorie materiale di pre-base e materiale di base devono essere prodotti in aree notoriamente indenni da *Xanthomonas fragariae* e *Phytophthora fragariae*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas fragariae* sui vegetali delle categorie materiale di pre-base e materiale di base durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas fragariae*; tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini a loro sono stati rimossi e immediatamente distrutti,
+    - e
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Phytophthora fragariae* sulle foglie dei vegetali delle categorie materiale di pre-base e materiale di base durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Phytophthora fragariae*; tutti i vegetali infestati e i vegetali in un raggio di 5 m sono stati rimossi e immediatamente distrutti,
+    - e
+    - – i vegetali delle categorie materiale di pre-base e materiale di base con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus e Tomato black ring virus sono stati rimossi e immediatamente distrutti, a meno che un’analisi abbia confermato che i vegetali non sono infestati da tali organismi nocivi.
+
+  - c.i. tra la comparsa di *Xanthomonas fragariae* e la piantagione successiva deve trascorrere un periodo di riposo di almeno un anno; tra la comparsa di *Phytophthora fragariae* e la piantagione successiva deve trascorrere un periodo di risposo di almeno 10 anni;
+    - [tab] oppure
+
+  - c.ii. in caso di *Phytophthora fragariae* le superfici coltive utilizzate e le malattie del suolo riscontrate concernenti il sito di produzione devono essere registrate;
+    - [tab] oppure
+
+  - c.iii. nel sito di produzione i vegetali delle categorie materiale di pre-base e materiale di base devono essere isolati dalle altre piante ospiti. La distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Xanthomonas fragariae*, *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus e Tomato black ring virus nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organo ufficiale responsabile in base a un controllo ufficiale.
+
+- 10\.4.5 Materiale certificato
+- **Campionatura e analisi**
+- Nel caso in cui siano stati riscontrati sintomi di *Phytophthora fragariae* sulle foglie, un campione di radici rappresentativo deve essere prelevato e sottoposto ad analisi per quanto riguarda l’organismo nocivo. In caso di sintomi non evidenti di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus o Tomato black ring virus un campione deve essere prelevato e sottoposto ad analisi. In caso di dubbi i vegetali devono essere sottoposti a campionatura e analisi per quanto riguarda *Aphelenchoides besseyi* o *Xanthomonas fragariae*.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da bacche della categoria materiale certificato devono essere prodotti da piante madri che sono state controllate e sono risultate indenni da sintomi di *Xanthomonas fragariae* e *Phytophthora fragariae*;
+  - b. i. il materiale di moltiplicazione e le piante da bacche della categoria materiale certificato devono essere prodotti in aree notoriamente indenni da *Xanthomonas fragariae* e *Phytophthora fragariae*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas fragariae* sui vegetali della categoria materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali della biologia di *Xanthomonas fragariae*; tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini a loro sono stati rimossi e immediatamente distrutti,
+    - e
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Phytophthora fragariae* sulle foglie dei vegetali della categoria materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Phytophthora fragariae;* tutti i vegetali infestati e i vegetali in un raggio di 5 m sono stati rimossi e immediatamente distrutti,
+    - e
+    - – i vegetali della categoria materiale certificato con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus o Tomato black ring virus sono stati rimossi e immediatamente distrutti, a meno che un’analisi abbia confermato che i vegetali non sono infestati da tali organismi nocivi;
+    - oppure
+
+  - b.iii. nel sito di produzione i sintomi di *Xanthomonas fragariae* sono stati riscontrati al massimo sul 2 % dei vegetali della categoria materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas fragariae*; tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini a loro sono stati rimossi e immediatamente distrutti.
+  - c.i. tra la comparsa di *Xanthomonas fragariae* e la piantagione successiva deve trascorrere un periodo di riposo di almeno un anno; tra la comparsa di *Phytophthora fragariae* e la piantagione successiva deve trascorrere un periodo di riposo di almeno 10 anni;
+    - [tab] oppure
+
+  - c.ii. in caso di *Phytophthora fragariae* le superfici coltive utilizzate e le malattie del suolo riscontrate concernenti il sito di produzione devono essere registrate;
+    - [tab] oppure
+
+  - c.iii. i vegetali delle categorie materiale di pre-base e materiale di base del sito di produzione devono essere isolati dalle altre piante ospiti. La distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Xanthomonas fragariae*, *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus e Tomato black ring nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organo ufficiale responsabile in base a un controllo ufficiale.
+
+- 10\.4.6 Materiale CAC
+- **Campionatura e analisi**
+- Nel caso in cui siano stati riscontrati sintomi di *Phytophthora fragariae* sulle foglie, un campione di radici rappresentativo deve essere prelevato e sottoposto ad analisi per quanto riguarda l’organismo nocivo. In caso di sintomi non evidenti di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus o Tomato black ring virus, un campione deve essere prelevato e sottoposto ad analisi. In caso di dubbi i vegetali devono essere sottoposti a campionatura e analisi per quanto riguarda *Aphelenchoides besseyi* o *Xanthomonas fragariae*.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da bacche della categoria CAC devono essere prodotti da un materiale identificato alla fonte che è stato controllato ed è risultato indenne da *Xanthomonas fragariae* e *Phytophthora fragariae;*
+  - b. i. il materiale di moltiplicazione e le piante da bacche della categoria CAC devono essere prodotti in aree notoriamente indenni da *Xanthomonas fragariae* e *Phytophthora fragariae*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas fragariae* sulle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas fragariae*; tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini a loro sono stati rimossi e immediatamente distrutti,
+    - e
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Phytophthora fragariae* sulle foglie delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Phytophthora fragariae*; tutti i vegetali infestati e i vegetali in un raggio di 5 m sono stati rimossi e immediatamente distrutti,
+    - e
+    - – le piante CAC con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus e Tomato black ring virus sono state rimosse e immediatamente distrutte, a meno che un’analisi abbia confermato che i vegetali non sono infestati da tali organismi nocivi;
+    - oppure
+
+  - c. nel sito di produzione i sintomi di *Xanthomonas fragariae* sono stati riscontrati al massimo sul 5 % delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas fragariae*; tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini a loro sono stati rimossi e immediatamente distrutti.
+
+### 10.5 *Malus* Mill.
+
+- 10\.5.1 Tutte le categorie
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- 10\.5.2 Materiale di pre-base
+- **Campionatura e analisi**
+- Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 15 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente a intervalli di 15 anni per quanto riguarda *Erwinia amylovora* e *Candidatus* Phytoplasma mali.
+- 10\.5.3 Materiale di base
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri di base che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 15 anni per rilevare la comparsa di *Candidatus* Phytoplasma mali.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di *Candidatus* Phytoplasma mali; una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 15 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Erwinia amylovora*.
+- In caso di risultato positivo a *Candidatus* Phytoplasma mali, nel sito di produzione tutte le piante madri di base devono essere sottoposte a campionatura e analisi.
+- 10\.5.4 Materiale certificato
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri certificate che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni per rilevare la comparsa di *Candidatus* Phytoplasma mali.
+- Per quanto concerne le piante madri certificate che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 5 anni per rilevare la comparsa di *Candidatus* Phytoplasma mali; una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Erwinia amylovora*.
+- In caso di risultato positivo a *Candidatus* Phytoplasma mali, nel sito di produzione tutte le piante madri certificate devono essere sottoposte a campionatura e analisi.
+- In caso di dubbi le piante da frutto certificate devono essere sottoposte a campionatura e analisi per quanto riguarda *Candidatus* Phytoplasma mali e *Erwinia amylovora*.
+- 10\.5.5 Materiale di pre-base, materiale di base e materiale certificato
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono derivare da piante madri che sono state controllate e sono risultate indenni da sintomi di *Candidatus* Phytoplasma mali;
+  - b. i. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma mali e *Erwinia amylovora*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+    - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma mali sul materiale di moltiplicazione e sulle piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma mali; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte,
+    - e
+    - – nel sito di produzione il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato sono stati controllati durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Erwinia amylovora*; tutti i vegetali con sintomi di *Erwinia amylovora* e tutte le piante ospiti circostanti sono stati rimossi e immediatamente distrutti.
+
+- 10\.5.6 CAC
+- **Campionatura e analisi**
+- In caso di dubbi tutti i vegetali devono essere sottoposti a campionatura e analisi per quanto riguarda *Erwinia amylovora* e *Candidatus* Phytoplasma mali.
+- Nel caso in cui siano stati riscontrati sintomi di *Candidatus* Phytoplasma mali sulle piante CAC durante i controlli visivi, una parte rappresentativa delle restanti le piante CAC asintomatiche in tale sito di produzione deve essere sottoposta a campionatura e analisi per quanto riguarda *Candidatus* Phytoplasma mali.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. *Candidatus* Phytoplasma mali:
+  - i. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere prodotti da un materiale identificato alla fonte che è stato controllato ed è risultato indenne da sintomi di *Candidatus* Phytoplasma mali; oppure
+  - ii. nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma mali sul materiale di moltiplicazione e sulle piante da frutto della categoria CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma mali; tutte le piante sintomatiche e i vegetali vicini sono stati rimossi e immediatamente distrutti; oppure
+  - iii. nel sito di produzione i sintomi di *Candidatus* Phytoplasma mali sono stati riscontrati al massimo sul 2 % delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma mali; tutte le piante sintomatiche e i vegetali vicini sono stati rimossi e immediatamente distrutti; e
+  - b. *Erwinia amylovora*:
+  - i. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere prodotti in aree notoriamente indenni da *Erwinia amylovora*, oppure
+  - ii. nel sito di produzione il materiale di moltiplicazione e le piante da frutto della categoria CAC sono stati analizzati durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Erwinia amylovora*; tutti i vegetali con sintomi di *Erwinia amylovora* e tutte le piante ospiti circostanti sono stati rimossi e immediatamente distrutti.
+
+### 10.6 *Prunus armeniaca, P. avium, P. cerasus*, *P. domestica* e *P. dulcis*
+
+- 10\.6.1 Materiale di pre-base
+- **Controllo visivo**
+- I controlli visivi per quanto riguarda *Candidatus* Phytoplasma prunorum, Plum pox virus (Sharka) e *Xanthomonas arboricola* pv. *pruni* devono essere effettuati 2 volte all’anno.
+- **Campionatura e analisi**
+- Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 5 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente a intervalli di 5 anni per quanto riguarda Plum pox virus e *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante madri di pre-base deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Le piante madri di pre-base destinate alla produzione di portainnesti di *Prunus* sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per rilevare la comparsa di Plum pox virus e sono risultate indenni da tale organismo nocivo. Le piante madri di pre-base di *Prunus domestica* destinate alla produzione di portainnesti sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per rilevare la comparsa di *Candidatus* Phytoplasma prunorum e sono risultate indenni da tale organismo nocivo.
+- 10\.6.2 Materiale di base, materiale certificato e CAC
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- 10\.6.3 Materiale di base
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri di base che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di Plum pox virus. Una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 10 anni per rilevare la comparsa di *Candidatus* Phytoplasma prunorum.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Plum pox virus; in tal modo ciascuna pianta madre di base è sottoposta una volta in un periodo di 10 anni a un’analisi per quanto riguarda Plum pox virus.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base non in fiore deve essere sottoposta a campionatura e analisi ogni 3 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Una parte rappresentativa delle piante madri di base destinate alla produzione di portainnesti deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Plum pox virus e deve risultare indenne da tale organismo nocivo. Le piante madri di base di *Prunus domestica* destinate alla produzione di portainnesti sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per rilevare la comparsa di *Candidatus* Phytoplasma prunorum e sono risultate indenni da tale organismo nocivo.
+- In caso di risultato positivo a *Candidatus* Phytoplasma prunorum o Plum pox virus, nel sito di produzione tutte le piante madri di base devono essere sottoposte a campionatura e analisi.
+- 10\.6.4 Materiale certificato
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri certificate che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 5 anni per rilevare la comparsa di Plum pox virus. Una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni per rilevare la comparsa di *Candidatus* Phytoplasma prunorum.
+- Per quanto concerne le piante madri certificate che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di Plum pox virus; in tal modo ciascuna pianta madre certificata è sottoposta una volta in un periodo di 10 anni a un’analisi per quanto riguarda Plum pox virus.
+- Per quanto concerne le piante madri certificate che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate non in fiore deve essere sottoposta a campionatura e analisi ogni 3 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Una parte rappresentativa delle piante madri certificate destinate alla produzione di portainnesti deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Plum pox virus e deve risultare indenne da tale organismo nocivo. Le piante madri certificate di *Prunus domestica* destinate alla produzione di portainnesti sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per rilevare la comparsa di *Candidatus* Phytoplasma prunorum e sono risultate indenni da tale organismo nocivo.
+- In caso di risultato positivo a *Candidatus* Phytoplasma prunorum o Plum pox virus, nel sito di produzione tutte le piante madri certificate devono essere sottoposte a campionatura e analisi. Una parte rappresentativa delle piante da frutto che non presentano sintomi di Plum pox virus durante il controllo visivo può essere sottoposta a campionatura e analisi.
+- 10\.6.5 Materiale di pre-base, materiale di base e materiale certificato
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere stati prodotti da piante madri che sono state sottoposte a campionatura e analisi negli ultimi 3 cicli vegetativi per quanto riguarda Plum pox virus e sono risultate indenni da tale organismo nocivo;
+    - e
+
+  - a. ii. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato sono stati prodotti da piante madri che sono state controllate e sono risultate indenni da sintomi di *Candidatus* Phytoplasma prunorum e *Xanthomonas arboricola* pv. *pruni*;
+    - e
+
+  - a. iii. i portainnesti di pre-base, i portainnesti di base e i portainnesti certificati di *Prunus domestica* devono essere prodotti da piante madri che sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per quanto riguarda *Candidatus* Phytoplasma prunorum e Plum pox virus e sono risultate indenni da tali organismi nocivi.
+  - b. i. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma prunorum, Plum pox virus e *Xanthomonas arboricola* pv. *pruni*;
+    - oppure
+
+  - [tab] b. ii.
+  - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma prunorum e Plum pox virus sul materiale di moltiplicazione e sulle piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma prunorum e Plum pox virus; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte,
+    - [tab] e
+
+  - –
+
+    nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas arboricola* pv. *pruni* sul materiale di moltiplicazione e sulle piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas arboricola* pv. *Pruni*:
+
+    - 1\. se i vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati solo in base a controlli visivi, tutte le piante sintomatiche nelle immediate vicinanze devono essere rimosse e immediatamente distrutte;
+    - 2\. se una parte rappresentativa dei vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* è sottoposta a campionatura e analisi e tali analisi risultano negative, non è necessario rimuovere e distruggere i vegetali.
+
+  - c. nel sito di produzione i vegetali delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere isolati dalle altre piante ospiti. La distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Candidatus* Phytoplasma prunorum e Plum pox virus nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organismo ufficiale responsabile in base a un controllo ufficiale.
+
+- 10\.6.6 CAC
+- **Campionatura e analisi**
+- Nel caso in cui siano stati riscontrati sintomi di Plum pox virus, una parte rappresentativa delle restanti piante CAC asintomatiche del lotto deve essere sottoposta a campionatura e analisi e deve risultare indenne da tale organismo nocivo. Nel caso in cui siano stati riscontrati sintomi di *Candidatus* Phytoplasma prunorum, una parte rappresentativa delle restanti piante CAC asintomatiche di tale sito di produzione deve essere sottoposta a campionatura e analisi per rilevare la comparsa di *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante CAC deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Una parte rappresentativa delle piante da frutto CAC che non presentano sintomi di Plum pox virus può essere sottoposta a campionatura e analisi in base a una valutazione del rischio di infestazione per quanto riguarda Plum pox virus.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i. il materiale di moltiplicazione e i vegetali della categoria CAC devono essere stati prodotti da un materiale identificato alla fonte che è stato sottoposto a campionatura e analisi negli ultimi 3 cicli vegetativi ed è risultato indenne da Plum pox virus;
+    - [tab] e
+
+  - a. ii. il materiale di moltiplicazione e i vegetali della categoria CAC devono esseri stati prodotti da un materiale identificato alla fonte che è stato controllato ed è risultato indenne da sintomi di *Candidatus* Phytoplasma prunorum e *Xanthomonas arboricola* pv. *pruni*;
+    - [tab] e
+
+  - a. iii. i portainnesti CAC di *Prunus domestica* devono essere stati prodotti da un materiale identificato alla fonte che è stato sottoposto a campionatura e analisi negli ultimi 5 anni ed è risultato indenne da *Candidatus* Phytoplasma prunorum e Plum pox virus;
+  - b. i. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere stati prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma prunorum, Plum pox virus e *Xanthomonas arboricola* pv. *pruni*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+  - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma prunorum e Plum pox virus sul materiale di moltiplicazione e sulle piante da frutto della categoria CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma prunorum e Plum pox virus; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte,
+    - [tab] e
+
+  - –
+
+    nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas arboricola* pv. *pruni* sul materiale di moltiplicazione e sulle piante da frutto della categoria CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas arboricola* pv. *pruni*:
+
+    - 1\. se i vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati solo in base a controlli visivi, tutte le piante sintomatiche e le piante sintomatiche nelle immediate vicinanze devono essere rimosse e immediatamente distrutte;
+    - 2\. se una parte rappresentativa dei vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* è sottoposta a campionatura e analisi e tali analisi mostrano che i sintomi non sono causati da tale organismo nocivo, non è necessario rimuovere e distruggere i vegetali;
+    - [tab] oppure
+
+  - [tab] b. iii.
+  - – nel sito di produzione i sintomi di Plum pox virus sono stati riscontrati al massimo sull’1 per cento delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di Plum pox virus; tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini sono stati rimossi e immediatamente distrutti; nei lotti in cui sono state riscontrate piante sintomatiche, una parte rappresentativa delle restanti piante asintomatiche è stata sottoposta ad analisi ed è risultata indenne da Plum pox virus,
+    - [tab] e
+
+  - – nel sito di produzione i sintomi di *Candidatus* Phytoplasma prunorum sono stati riscontrati al massimo sul 2 per cento delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma prunorum; tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini sono stati rimossi e immediatamente distrutti,
+    - [tab] e
+
+  - –
+
+    nel sito di produzione i sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati al massimo sul 2 per cento delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas arboricola* pv. *pruni*:
+
+    - 1\. se i vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati solo in base a controlli visivi, tutte le piante sintomatiche e le piante sintomatiche nelle immediate vicinanze devono essere rimosse e immediatamente distrutte;
+    - 2\. se una parte rappresentativa dei vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* è sottoposta a campionatura e analisi e tali analisi mostrano che i sintomi non sono causati da tale organismo nocivo, non è necessario rimuovere e distruggere i vegetali.
+
+### 10.7 *Prunus* *persica* e *P. salicina*
+
+- 10\.7.1 Materiale di pre-base
+- **Controllo visivo**
+- I controlli visivi per quanto riguarda *Candidatus* Phytoplasma prunorum, Plum pox virus (Sharka), *Pseudomonas* *syringae* pv. *persicae* e *Xanthomonas* *arboricola* pv. *pruni* devono essere effettuati 2 volte all’anno.
+- **Campionatura e analisi**
+- Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 5 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente a intervalli di 5 anni per quanto riguarda Plum pox virus e *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante madri di pre-base deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Le piante madri di pre-base destinate alla produzione di portainnesti di *Prunus* sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per rilevare la comparsa di Plum pox virus e sono risultate indenni da tale organismo nocivo.
+- 10\.7.2 Materiale di base, materiale certificato e CAC
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- 10\.7.3 Materiale di base
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri di base che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di Plum pox virus. Una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 10 anni per rilevare la comparsa di *Candidatus* Phytoplasma prunorum.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Plum pox virus; in tal modo ciascuna pianta madre di base è sottoposta una volta in un periodo di 10 anni a un’analisi per quanto riguarda Plum pox virus.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base non in fiore deve essere sottoposta a campionatura e analisi ogni 3 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Una parte rappresentativa delle piante madri di base destinate alla produzione di portainnesti deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Plum pox virus e deve risultare indenne da tale organismo nocivo.
+- In caso di risultato positivo a *Candidatus* Phytoplasma prunorum o Plum pox virus, nel sito di produzione tutte le piante madri di base devono essere sottoposte a campionatura e analisi.
+- 10\.7.4 Materiale certificato
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri certificate che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 5 anni per rilevare la comparsa di Plum pox virus. Una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni per rilevare la comparsa di *Candidatus* Phytoplasma prunorum.
+- Per quanto concerne le piante madri certificate che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di Plum pox virus; in tal modo ciascuna pianta madre certificata è sottoposta una volta in un periodo di 15 anni a un’analisi per quanto riguarda Plum pox virus.
+- Per quanto concerne le piante madri certificate che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate non in fiore deve essere sottoposta a campionatura e analisi ogni 3 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. *pruni*.
+- Una parte rappresentativa delle piante madri certificate destinate alla produzione di portainnesti deve essere sottoposta a campionatura e analisi ogni anno per rilevare la comparsa di Plum pox virus e deve risultare indenne da tale organismo nocivo.
+- In caso di risultato positivo a *Candidatus* Phytoplasma prunorum o Plum pox virus, nel sito di produzione tutte le piante madri certificate devono essere sottoposte a campionatura e analisi. Una parte rappresentativa delle piante da frutto che non presentano sintomi di Plum pox virus durante il controllo visivo può essere sottoposta a campionatura e analisi.
+- 10\.7.5 Materiale di pre-base, materiale di base e materiale certificato
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere stati prodotti da piante madri che sono state sottoposte a campionatura e analisi negli ultimi 3 cicli vegetativi per quanto riguarda Plum pox virus e sono risultate indenni da tale organismo nocivo;
+    - e
+
+  - a. ii. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato sono stati prodotti da piante madri che sono state controllate e sono risultate indenni da sintomi di *Candidatus* Phytoplasma prunorum, *Pseudomonas syringae* pv. *persicae* e *Xanthomonas arboricola* pv. *pruni*;
+    - e
+
+  - a. iii. i portainnesti di pre-base, i portainnesti di base e i portainnesti certificati di *Prunus domestica* devono essere prodotti da piante madri che sono state sottoposte a campionatura e analisi negli ultimi 5 cicli vegetativi per quanto riguarda *Candidatus* Phytoplasma prunorum e Plum pox virus e sono risultate indenni da tali organismi nocivi.
+  - b. i. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono esseri prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma prunorum, Plum pox virus, *Pseudomonas syringae* pv. *persicae* e *Xanthomonas arboricola* pv. *pruni*;
+    - oppure
+
+  - [tab] b. ii.
+  - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma prunorum, Plum pox virus e *Pseudomonas syringae* pv. *persicae* sul materiale di moltiplicazione e sulle piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma prunorum, Plum pox virus e *Pseudomonas syringae* pv. *persicae*; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte;
+    - [tab] e
+
+  - –
+
+    nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas arboricola* pv. *pruni* sul materiale di moltiplicazione e sulle piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetaéo nonché della biologia di *Xanthomonas arboricola* pv. *pruni*:
+
+    - 1\. se i vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati solo in base a controlli visivi, tutte le piante sintomatiche nelle immediate vicinanze devono essere rimosse e immediatamente distrutte;
+    - 2\. se una parte rappresentativa dei vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* è sottoposta a campionatura e analisi e tali analisi risultano negative, non è necessario rimuovere e distruggere i vegetali.
+
+  - c. nel sito di produzione i vegetali delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere isolati dalle altre piante ospiti. La distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Candidatus* Phytoplasma prunorum, Plum pox virus e *Pseudomonas syringae* pv. *persicae* nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organo ufficiale responsabile in base a un controllo ufficiale.
+
+- 10\.7.6 CAC
+- **Campionatura e analisi**
+- Nel caso in cui siano stati riscontrati sintomi di Plum pox virus, una parte rappresentativa delle restanti piante CAC asintomatiche del lotto deve essere sottoposta a campionatura e analisi e deve risultare indenne da Plum pox virus. Nel caso in cui siano stati riscontrati sintomi di *Candidatus* Phytoplasma prunorum, una parte rappresentativa delle restanti piante CAC asintomatiche di tale sito di produzione deve essere sottoposta a campionatura e analisi per rilevare la comparsa di *Candidatus* Phytoplasma prunorum. In caso di dubbi una parte rappresentativa delle piante CAC deve essere sottoposta a campionatura e analisi per quanto riguarda *Xanthomonas arboricola* pv. p*runi*.
+- Una parte rappresentativa delle piante da frutto CAC asintomatiche di Plum pox virus può essere sottoposta a campionatura e a analisi in base a una valutazione del rischio di infestazione per quanto riguarda Plum pox virus.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i. il materiale di moltiplicazione e le piante della categoria CAC devono essere stati prodotti da un materiale identificato alla fonte che è stato sottoposto a campionatura e analisi negli ultimi 3 cicli vegetativi ed è risultato indenne da Plum pox virus;
+    - e
+
+  - a. ii. il materiale di moltiplicazione e le piante della categoria CAC devono esseri stati prodotti da un materiale identificato alla fonte che è stato controllato ed è risultato indenne da sintomi di *Candidatus* Phytoplasma prunorum, *Pseudomonas syringae* pv. *persicae* e *Xanthomonas arboricola* pv. *pruni*;
+    - e
+
+  - a. iii. i portainnesti CAC di *Prunus domestica* devono essere stati prodotti da un materiale identificato alla fonte che è stato sottoposto a campionatura e analisi negli ultimi 5 anni ed è risultato indenne da *Candidatus* Phytoplasma prunorum e Plum pox virus.
+  - b. i. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere stati prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma prunorum, Plum pox virus, *Pseudomonas syringae* pv. *persicae* e *Xanthomonas arboricola* pv. *pruni*;
+    - oppure
+
+  - [tab] b. ii.
+  - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma prunorum, Plum pox virus e *Pseudomonas syringae* pv. *persicae* sul materiale di moltiplicazione e sulle piante da frutto della categoria CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma prunorum, Plum pox virus e *Pseudomonas syringae* pv. *persicae*; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte;
+    - [tab] e
+
+  - –
+
+    nel sito di produzione non sono stati riscontrati sintomi di *Xanthomonas arboricola* pv. *pruni* sul materiale di moltiplicazione e sulle piante da frutto della categoria CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas arboricola* pv. *pruni*:
+
+    - 1\. se i vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati solo in base a controlli visivi, tutte le piante sintomatiche e le piante sintomatiche nelle immediate vicinanze devono essere rimosse e immediatamente distrutte;
+    - 2\. se una parte rappresentativa dei vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* è sottoposta a campionatura e analisi e tali analisi mostrano che i sintomi non sono causati da tale organismo nocivo, non è necessario rimuovere e distruggere i vegetali;
+    - oppure
+
+  - [tab] b. iii.
+  - – nel sito di produzione i sintomi di Plum pox virus sono stati riscontrati al massimo sull’1 per cento delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative nonché della biologia di Plum pox virus; tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini sono stati rimossi e immediatamente distrutti; nei lotti in cui sono state riscontrate piante sintomatiche, una parte rappresentativa delle restanti piante asintomatiche è stata sottoposta ad analisi ed è risultata indenne da Plum pox virus;
+  - e
+  - – nel sito di produzione i sintomi di *Candidatus* Phytoplasma prunorum e *Pseudomonas syringae* pv. *persicae* sono stati riscontrati al massimo sul 2 per cento delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma prunorum e *Pseudomonas syringae* pv. *persicae*; tali vegetali nonché tutte le piante sintomatiche nelle immediate vicinanze e i vegetali vicini sono stati rimossi e immediatamente distrutti;
+    - [tab] e
+
+  - –
+
+    nel sito di produzione i sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati al massimo sul 2 % delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Xanthomonas arboricola* pv. *pruni*:
+
+    - 1\. se i vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* sono stati riscontrati solo in base a controlli visivi, tutte le piante sintomatiche e le piante sintomatiche nelle immediate vicinanze devono essere rimosse e immediatamente distrutte,
+    - 2\. se una parte rappresentativa dei vegetali con sintomi di *Xanthomonas arboricola* pv. *pruni* è sottoposta a campionatura e analisi e tali analisi mostrano che i sintomi non sono causati da tale organismo nocivo, non è necessario rimuovere e distruggere i vegetali.
+
+### 10.8 *Pyrus* L.
+
+- 10\.8.1 Tutte le categorie
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- 10\.8.2 Materiale di pre-base
+- **Campionatura e analisi**
+- Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 15 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente a intervalli di 15 anni per quanto riguarda *Candidatus* Phytoplasma pyri e *Erwinia amylovora*.
+- 10\.8.3 Materiale di base
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri di base che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 15 anni per rilevare la comparsa di *Candidatus* Phytoplasma pyri.
+- Per quanto concerne le piante madri di base che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 3 anni per rilevare la comparsa di *Candidatus* Phytoplasma pyri; una parte rappresentativa delle piante madri di base deve essere sottoposta a campionatura e analisi ogni 15 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Erwinia amylovora*.
+- In caso di risultato positivo a *Candidatus* Phytoplasma pyri, nel sito di produzione tutte le piante madri di base devono essere sottoposte a campionatura e analisi.
+- 10\.8.4 Materiale certificato
+- **Campionatura e analisi**
+- Per quanto concerne le piante madri certificate che sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni per rilevare la comparsa di *Candidatus* Phytoplasma pyri.
+- Per quanto concerne le piante madri certificate che non sono state conservate in strutture a prova di insetto, una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 5 anni per rilevare la comparsa di *Candidatus* Phytoplasma pyri; una parte rappresentativa delle piante madri certificate deve essere sottoposta a campionatura e analisi ogni 15 anni in base a una valutazione del rischio di infestazione di tali vegetali per rilevare la comparsa di *Erwinia amylovora*.
+- In caso di risultato positivo a *Candidatus* Phytoplasma pyri, nel sito di produzione tutte le piante madri certificate devono essere sottoposte a campionatura e analisi.
+- In caso di dubbi le piante da frutto certificate devono essere sottoposte a campionatura e analisi per quanto riguarda *Candidatus* Phytoplasma pyri e *Erwinia amylovora*.
+- 10\.8.5 Materiale di pre-base, materiale di base e materiale certificato
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono derivare da piante madri che sono state controllate e sono risultate indenni da sintomi di *Candidatus* Phytoplasma pyri.
+  - b. i. il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato devono essere prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma pyri e *Erwinia amylovora*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+  - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma pyri sul materiale di moltiplicazione e sulle piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma pyri; tutte le piante sintomatiche nelle immediate vicinanze sono state rimosse e immediatamente distrutte,
+    - [tab] e
+
+  - – nel sito di produzione il materiale di moltiplicazione e le piante da frutto delle categorie materiale di pre-base, materiale di base e materiale certificato sono stati controllati durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Erwinia amylovora*; tutti i vegetali con sintomi di *Erwinia amylovora* e tutte le piante ospiti circostanti sono stati rimossi e immediatamente distrutti.
+
+- 10\.8.6 CAC
+- **Campionatura e analisi**
+- In caso di dubbi i vegetali devono essere sottoposti a campionatura e analisi per quanto riguarda *Candidatus* Phytoplasma pyri e *Erwinia amylovora*.
+- In caso di risultato positivo a *Candidatus* Phytoplasma pyri, in tale sito di produzione una parte rappresentativa delle piante CAC asintomatiche deve essere sottoposta a campionatura e analisi per quanto riguarda *Candidatus* Phytoplasma pyri.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere prodotti da un materiale identificato alla fonte che è stato controllato ed è risultato indenne da sintomi di *Candidatus* Phytoplasma pyri.
+  - b. i. il materiale di moltiplicazione e le piante da frutto della categoria CAC devono essere prodotti in aree notoriamente indenni da *Candidatus* Phytoplasma pyri e *Erwinia amylovora*;
+    - [tab] oppure
+
+  - [tab] b. ii.
+  - – nel sito di produzione non sono stati riscontrati sintomi di *Candidatus* Phytoplasma pyri e *Erwinia amylovora* sul materiale di moltiplicazione e sulle piante da frutto della categoria CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma pyri e *Erwinia amylovora*; tutte le piante sintomatiche e i vegetali vicini sono stati rimossi e immediatamente distrutti;
+    - [tab] e
+
+  - – nel sito di produzione il materiale di moltiplicazione e le piante da frutto della categoria CAC sono stati analizzati durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Erwinia amylovora*; tutti i vegetali con sintomi di *Erwinia amylovora* e tutte le piante ospiti circostanti sono stati rimossi e immediatamente distrutti;
+    - [tab] oppure
+
+  - b. iii. nel sito di produzione i sintomi di *Candidatus* Phytoplasma pyri sono stati riscontrati al massimo sul 2 per cento delle piante CAC durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di *Candidatus* Phytoplasma pyri; tutte le piante sintomatiche e i vegetali vicini sono stati rimossi e immediatamente distrutti.
+
+### 10.9 *Rubus* L.
+
+- 10\.9.1 Materiale di pre-base
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati 2 volte all’anno.
+- **Campionatura e analisi**
+-
+
+  Ciascuna pianta madre di pre-base deve essere sottoposta a campionatura e analisi 2 anni dopo il suo riconoscimento come pianta madre di pre-base e successivamente ogni 2 anni per quanto riguarda i seguenti organismi nocivi:
+
+  - – *Arabis* mosaic virus (ArMV)
+  - – Raspberry ringspot virus (RpRSV)
+  - – Strawberry latent ringspot virus (SLRSV)
+  - – Tomato black ring virus (Tomato black ring nepovirus)
+
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i vegetali della categoria materiale di pre-base con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus sono stati rimossi e immediatamente distrutti, a meno che un’analisi abbia confermato che i vegetali sono indenni da tali organismi nocivi.
+  - b. nel sito di produzione i vegetali della categoria materiale di pre-base devono essere isolati dalle altre piante ospiti; la distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organo ufficiale responsabile in base a un controllo ufficiale.
+
+- 10\.9.2 Materiale di base
+- **Controllo visivo**
+- Se i vegetali sono coltivati nel suolo o in vasi, i controlli visivi devono essere effettuati 2 volte all’anno. Per quanto concerne i vegetali prodotti mediante micropropagazione e conservati per un periodo inferiore a 3 mesi è necessario solo un controllo visivo durante tale periodo.
+- **Campionatura e analisi**
+- Campionatura e analisi devono essere effettuate se durante i controlli visivi sono stati riscontrati sintomi non evidenti di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus o Tomato black ring virus.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i vegetali della categoria materiale di base con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus sono stati rimossi e immediatamente distrutti, a meno che un’analisi abbia confermato che i vegetali sono indenni da tali organismi nocivi.
+  - b. nel sito di produzione i vegetali della categoria materiale di base devono essere isolati dalle altre piante ospiti; la distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organo ufficiale responsabile in base a un controllo ufficiale;
+    - [tab] e
+
+  - c. nel sito di produzione i sintomi dei virus di cui all’allegato 3 numero 10.5 regolamentati in relazione a *Rubus* L. sono stati riscontrati al massimo sullo 0,25 % dei vegetali della categoria materiale di base durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di tali virus; tutte le piante sintomatiche e i vegetali vicini sono stati rimossi e immediatamente distrutti.
+
+- 10\.9.3 Materiale certificato
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- **Campionatura e analisi**
+- Campionatura e analisi devono essere effettuate se durante i controlli visivi sono stati riscontrati sintomi non evidenti di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus o Tomato black ring virus.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+-
+
+  Oltre ai controlli visivi, alle campionature e alle analisi, devono essere adempiute le seguenti condizioni:
+
+  - a. i vegetali della categoria materiale certificato con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus sono stati rimossi e immediatamente distrutti, a meno che un’analisi abbia confermato che i vegetali sono indenni da tali organismi nocivi.
+  - b. nel sito di produzione i vegetali della categoria materiale certificato devono essere isolati dalle altre piante ospiti; la distanza dell’isolamento del sito di produzione deve essere determinata in base alle circostanze locali, al tipo di materiale di moltiplicazione, alla comparsa di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus nell’area interessata nonché ai rischi pertinenti, come stabilito dall’organo ufficiale responsabile in base a un controllo ufficiale.
+  - c. nel sito di produzione i sintomi dei virus di cui all’allegato 3 numero 10.5 regolamentati in relazione a *Rubus* L. sono stati riscontrati al massimo sullo 0,5 per cento dei vegetali della categoria materiale certificato durante l’ultimo ciclo vegetativo completo nel periodo dell’anno più opportuno, tenendo conto delle condizioni climatiche, delle condizioni vegetative dei vegetali nonché della biologia di tali virus; tutte le piante sintomatiche e i vegetali vicini sono stati rimossi e immediatamente distrutti.
+
+- 10\.9.4 CAC
+- **Controllo visivo**
+- I controlli visivi devono essere effettuati una volta all’anno.
+- **Campionatura e analisi**
+- Campionatura e analisi devono essere effettuate se durante i controlli visivi sono stati riscontrati sintomi non evidenti di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus o Tomato black ring virus.
+- **Misure relative al sito di produzione, al luogo di produzione e all’area**
+- Oltre ai controlli visivi, alle campionature e alle analisi, le piante della categoria CAC con sintomi di *Arabis* mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus e Tomato black ring virus devono essere rimosse e immediatamente distrutte, a meno che un’analisi abbia confermato che i vegetali sono indenni da tali organismi nocivi.
+
+### 11. Sementi di *Solanum tuberosum* (semi di patata)
+
+L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute le condizioni seguenti relative alla presenza di ORNQ sulle sementi di *Solanum tuberosum*:
+
+- a. le sementi provengono da aree in cui non è stata riscontrata la comparsa di Potato spindle tuber viroid; oppure
+- b. nessun sintomo di una malattia causata da Potato spindle tuber viroid è stato riscontrato sui vegetali nel luogo di produzione durante un ciclo vegetativo completo; oppure
+- c. i vegetali sono stati ufficialmente sottoposti ad analisi per il rilevamento di Potato spindle tuber viroid su un campione rappresentativo utilizzando metodi adeguati e sono risultati indenni da tale organismo nocivo.
+
+### 12. Materiale di moltiplicazione e materiale vegetale destinati alla piantagione di *Humulus lupulus*, ad eccezione delle sementi
+
+L’organo ufficiale responsabile o l’azienda sotto la sorveglianza ufficiale dell’organo ufficiale responsabile effettua ispezioni e prende altre misure al fine di garantire che siano adempiute condizioni relative ai rispettivi ORNQ e ai vegetali destinati alla piantagione menzionati nella tabella seguente:
+
+<table>
+<tr><th>Organismo nocivo</th><th>Specie vegetale</th><th>Misure</th></tr>
+<tr><td>12.1 *Verticillium dahliae* Kleb. [VERTDA]</td><td>*Humulus lupulus* L.</td><td>a. I vegetali destinati alla piantagione derivano da piante madri che sono state sottoposte a un controllo visivo nel periodo più opportuno e sono risultate indenni da sintomi di *Verticillium dahliae*; e b. i. i vegetali destinati alla piantagione sono stati prodotti in un luogo di produzione notoriamente indenne da *Verticillium dahliae*; oppure ii. – i vegetali destinati alla piantagione sono stati isolati dalle colture di produzione di *Humulus lupulus*; e – il sito di produzione è risultato indenne da *Verticillium dahliae* nel corso dell’ultimo ciclo vegetativo completo in seguito a un controllo visivo del fogliame in periodi opportuni; e – le precedenti rotazioni colturali e infezioni del suolo dei campi sono state registrate e per quanto riguarda le piante ospiti è stato previsto un periodo di riposo di almeno 4 anni tra la scoperta di *Verticillium dahliae* e la successiva coltivazione.</td></tr>
+<tr><td>12.2 *Verticillium nonalfalfae* Inderbitzin, H.W. Platt, Bostock, R.M. Davis & K.V. Subbarao [VERTNO]</td><td>*Humulus lupulus* L.</td><td>a. I vegetali destinati alla piantagione derivano da piante madri che sono state sottoposte a un controllo visivo nel periodo più opportuno e sono risultate indenni da sintomi di *Verticillium nonalfalfae*; e b. i. i vegetali destinati alla piantagione sono stati prodotti in un luogo di produzione notoriamente indenne da *Verticillium nonalfalfae*; oppure ii) – i vegetali destinati alla piantagione sono stati isolati dalle colture di produzione di *Humulus lupulus*; e – il sito di produzione è risultato indenne da *Verticillium nonalfalfae* nel corso dell’ultimo ciclo vegetativo completo in seguito a un controllo visivo del fogliame in periodi opportuni; e – le precedenti rotazioni colturali e infezioni del suolo dei campi sono state registrate e per quanto riguarda le piante ospiti è stato previsto un periodo di riposo di almeno 4 anni tra la scoperta di *Verticillium nonalfalfae* e la successiva coltivazione.</td></tr>
+</table>
+
+Allegato 5*[^t-4]*
+
+(art. 7 cpv. 1)
+
+## Merci la cui importazione da determinati Stati terzi è vietata
+
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+<table>
+<tr><th>Merce</th><th>Voce di tariffa doganale[^annex5-lvlu1-1]</th><th>Stati terzi da cui è vietata l’importazione</th></tr>
+<tr><td>1. Vegetali di *Abies* Mill., *Cedrus* Trew, *Chama**e**cyparis* Spach, *Juniperus* L.*,* *Larix* Mill., *Picea* A. Dietr., *Pinus* L., *Pseudotsuga* Carr. e *Tsuga* Carr., esclusi i frutti e le sementi</td><td>ex 0602.10 ex 0602.20 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2021</td><td>Tutti gli Stati terzi, ad eccezione di Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Turchia e Ucraina</td></tr>
+<tr><td>2. Vegetali di *Castanea* Mill. e *Quercus* L., con foglie, esclusi i frutti e le sementi</td><td>ex 0602.10 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2029 ex 1404.90</td><td>Tutti gli Stati terzi, ad eccezione di Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Turchia e Ucraina</td></tr>
+<tr><td>3. Vegetali di *Populus* L., con foglie, esclusi i frutti e le sementi</td><td>ex 0602.10 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2029 ex 1404.9000</td><td>Canada, Messico e Stati Uniti d’America</td></tr>
+<tr><td>4. Corteccia di *Castanea* Mill., separata dal tronco</td><td>ex 1404.9000 ex 4401.4000</td><td>Tutti gli Stati terzi</td></tr>
+</table>
+
+<table>
+<tr><th>Merce</th><th>Voce di tariffa doganale</th><th>Stati terzi da cui è vietata l’importazione</th></tr>
+<tr><td>5. Corteccia di *Quercus* L., ad eccezione di *Quercus* *suber* L., separata dal tronco</td><td>ex 1404.9000 ex 4401.4000</td><td>Canada, Messico e Stati Uniti d’America</td></tr>
+<tr><td>6. Corteccia di *Acer* *saccharum* Marsh., separata dal tronco</td><td>ex 1404.9000 ex 4401.4000</td><td>Canada, Messico e Stati Uniti d’America</td></tr>
+<tr><td>7. Corteccia di *Populus* L., separata dal tronco</td><td>ex 1404.9000 ex 4401.4000</td><td>Tutti gli stati del continente americano</td></tr>
+<tr><td>8. Vegetali destinati alla piantagione di *Chaenomeles* Ldl., *Crateagus* L., *Cydonia* Mill., *Malus* Mill., *Prunus* L., *Pyrus* L. e *Rosa* L., esclusi i vegetali in riposo vegetativo, privi di foglie, fiori e frutti</td><td>ex 0602.1000 ex 0602.2000 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, ad eccezione di Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Turchia e Ucraina</td></tr>
+<tr><td>9. Vegetali di *Cydonia* Mill., *Malus* Mill., *Prunus* L., *Pyrus* L. e relativi ibridi, e di *Fragaria* L., destinati alla piantagione, escluse le sementi</td><td>ex 0602.1000 ex 0602.2000 ex 0602.9019</td><td>Tutti gli Stati terzi, ad eccezione di Andorra, Armenia, Australia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Canada, Egitto, Georgia, Giordania, Islanda, Isole Canarie, Isole Färöer, Israele, Libano, Libia, Macedonia del nord, Moldavia, Monaco, Montenegro, Marocco, Nuova Zelanda, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia, Ucraina e gli stati continentali degli Stati Uniti d’America, escluse le Hawaii</td></tr>
+<tr><td>10. Vegetali di *Vitis* L., esclusi i frutti</td><td>ex 0602.10 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0604.2029 ex 0604.2090 ex 1404.9000</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>11. Vegetali di *Citrus* L., *Fortunella* Swingle, *Ponc**i**rus* Raf., e relativi ibridi, esclusi i frutti e le sementi</td><td>ex 0602.10 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0602.2029 ex 0604.2090 ex 1404.9000</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>12. Vegetali destinati alla piantagione di *Photinia* Ldl., ad eccezione dei vegetali in riposo vegetativo, privi di foglie, fiori e frutti</td><td>ex 0602.10 ex 0602.9091 ex 0602.9099</td><td>Cina, Giappone, Repubblica di Corea, Repubblica popolare democratica di Corea e Stati Uniti d’America</td></tr>
+<tr><td>13. Vegetali di *Phoenix* spp., esclusi i frutti e le sementi</td><td>ex 0602.9091 ex 0602.9099 ex 0604.2090 ex 1404.9000</td><td>Algeria, Marocco</td></tr>
+<tr><td>14. Vegetali destinati alla piantagione della famiglia Poaceae, esclusi i vegetali di erbe perenni ornamentali delle sottofamiglie Bambusoideae, Panicoideae e dei generi *Buchloe*, *Bouteloua* Lag., *Cal**a**magrostis*, *Cortaderia* Stapf., *Glyceria* R. Br., *Hakonechloa* Mak. ex Honda, *Hystrix*, *Mol**i**nia*, *Phalaris* L., *Shibataea*, *Spartina* Schreb., *Stipa* L. e *Uniola* L., escluse le sementi</td><td>ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, ad eccezione di Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Egitto, Georgia, Giordania, Islanda, Israele, Isole Canarie, Isole Färöer, Libano, Libia, Macedonia del nord, Moldavia, Monaco, Montenegro, Marocco, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td></tr>
+<tr><td>15. Tuberi della specie *Solanum tuberosum* L., patate da semina</td><td>0701.1000</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>16. Vegetali destinati alla piantagione di specie stolonifere o tuberifere di *Solanum* L. o relativi ibridi, esclusi i tuberi di *Sol**a**num* *tuberosum* L. menzionati al numero 15</td><td>ex 0601.1090 ex 0601.2091 ex 0601.2099 ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>17. Tuberi della specie *Solanum* L. e relativi ibridi, esclusi quelli di cui ai numeri 15 e 16</td><td>ex 0601.1090 ex 0601.2091 ex 0601.2099 0701.9010 0701.9091 0701.9099</td><td>Tutti gli Stati terzi, ad eccezione di: Algeria, Egitto, Israele, Libia, Marocco, Siria, Tunisia e Turchia, b. Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia e Ucraina L’importazione dagli Stati di cui alla lett. b non è vietata soltanto se l’UFAG: ha riconosciuto tali Stati come indenni da *Clavibacter sepedonicus* (Spieckermann and Kottho) Nouioui *et al*., oppure ha riconosciuto equivalenti le disposizioni legali dello Stato da cui è importata la merce per la lotta al *Clavibacter sepedonicus* (Spieckermann and Kottho) Nouioui *et al.*</td></tr>
+<tr><td>18. Vegetali destinati alla piantagione di *Solanaceae*, esclusi le sementi e i vegetali di cui ai punti 15, 16 e 17</td><td>ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, ad eccezione di Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Isole Canarie, Egitto, Isole Färöer, Georgia, Islanda, Israele, Giordania, Libano, Libia, Moldavia, Monaco, Montenegro, Marocco, Macedonia del nord, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td></tr>
+<tr><td>19. Terra in quanto tale, costituita parzialmente di sostanze solide organiche</td><td>ex 2530.9000 ex 3824.9993</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>20. Substrato colturale in quanto tale, diverso dalla terra, costituito integralmente o parzialmente da sostanze solide organiche, escluso quello composto solo di torba o di fibra di *Cocos* *nucifera* L. non utilizzato in precedenza per la coltivazione di vegetali né per fini agricoli</td><td>ex 2530.1000 ex 2530.9000 ex 2703.0000 ex 3101.0000 ex 3824.9999</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>21. Vegetali di *Cotoneaster* Ehrh. e *Photinia davidiana* (Dcne.) Cardot</td><td>ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi</td></tr>
+</table>
+
+[^annex5-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Allegato
+
+Allegato 6*[^t-5]*
+
+(art. 7 cpv. 2)
+
+## Merci la cui importazione da determinati Stati terzi è consentita a condizione che siano scortate da un certificato fitosanitario
+
+[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+<table>
+<tr><th>Merce</th><th>Voce di tariffa doganale[^annex6-lvlu1-1] e rispettiva descrizione della merce</th><th>Paese di origine o di spedizione da cui l’importazione è consentita soltanto con un certificato fitosanitario</th></tr>
+<tr><td>1. Tutti i vegetali I frutti delle seguenti specie possono essere importati senza certificato fitosani-tario: – *Ananas comosus* (L.) Merrill (voce di tariffa doganale ex 0804.3000) – *Cocos nucifera* L. (voce di tariffa doganale ex 0801.1200 ed ex 0801.1900) – *Durio zibethinus* Murray (voce di tariffa doganale ex 0810.6000) – *Musa* L. (voce di tariffa doganale ex 0803.1010 ed ex 0803.9010) – *Phoenix dactylifera* L. (voce di tariffa dognale ex 0804.1000)</td><td>--</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>2. Macchine, apparecchi e veicoli che sono stati utilizzati per fini agricoli o forestali</td><td>Macchine, apparecchi e congegni per l’agricoltura, l’orticoltura o la silvicoltura, per la preparazione o la coltivazione del terreno, già utilizzati; rulli per tappeti erbosi o campi sportivi – già utilizzati: Aratri: ex 8432.1000 Erpici, scarificatori, coltivatori, estirpatori, sarchiatrici e zappatrici: ex 8432.2100 ex 8432.2900</td><td>Tutti gli Stati terzi</td></tr>
+</table>
+
+<table>
+<tr><th>Merce</th><th>Voce di tariffa doganale e rispettiva descrizione della merce</th><th>Paese di origine o di spedizione da cui l'importazione è consentita soltanto con un certificato fitosanitario</th></tr>
+<tr><td>[tab]</td><td>Seminatrici, piantatrici e trapiantatrici: ex 8432.3100 ex 8432.3900 Spanditori di letame e distributori di concimi: ex 8432.4100 ex 8432.4200 Altre macchine, apparecchi e congegni: ex 8432.8000 Parti: ex 8432.9000 Macchine, apparecchi e congegni per la raccolta o la trebbiatura dei prodotti agricoli, comprese le presse da paglia o da foraggio; tosatrici da prato e falciatrici; macchine per pulire o per selezionare uova, frutta ed altri prodotti agricoli, diverse dalle macchine ed apparecchi della voce 8437 – già utilizzati: – Presse da paglia o da foraggio, comprese le presse raccoglitrici: ex 8433.4000 – Mietitrici-trebbiatrici: ex 8433.5100 – Macchine per la raccolta di radici o tuberi: ex 8433.5300 Altre macchine, apparecchi e congegni per l’agricoltura, l’orticoltura, la silvicoltura, l’avicoltura o l’apicoltura, compresi gli apparecchi per la germinazione con dispositivi meccanici o termici; incubatrici e allevatrici per l’avicoltura – già utilizzati: – Macchine, apparecchi e congegni per la silvicoltura: ex 8436.8000 Trattori (diversi dai trattori della voce 8709) – già utilizzati: Trattori stradali per semirimorchi: ex 8701.2000 Diversi dai motocoltivatori, dai trattori stradali o dai trattori a cingoli: – Trattori agricoli e trattori forestali, a ruote: ex 8701.9110 ex 8701.9190 ex 8701.9210 ex 8701.9290 ex 8701.9310 ex 8701.9390 ex 8701.9410 ex 8701.9490 ex 8701.9510 ex 8701.9590</td><td></td></tr>
+<tr><td>3. Substrato colturale, aderente o associato ai vegetali, destinato a mantenere la vitalità dei vegetali</td><td>--</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>4. Semi dei generi *Triticum* L., *Secale* L. e x*Triticosecale* Wittm. ex A. Camus</td><td>Frumento e frumento segalato, escluse le sementi da semina: 1001.1900 1001.9900 Segale, escluse le sementi da semina: 1002.9000 Triticale, escluse le sementi da semina: 1008.6020 1008.6031 1008.6039 1008.6041 1008.6049 1008.6050 1008.6090</td><td>Afghanistan, India, Iran, Iraq, Messico, Nepal, Pakistan, Stati Uniti d’America e Sudafrica</td></tr>
+<tr><td>5. Corteccia, separata dal tronco, di conifere (Pinales)</td><td>Prodotti vegetali di corteccia, non nominati né compresi altrove: ex 1404.9000 Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Avanzi e cascami di legno, non agglomerati: ex 4401.4000</td><td>Tutti gli Stati terzi, ad eccezione di Albania, Andorra, Armenia, Azerbaigian, Bielorussia, , Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Moldavia, Monaco, Montenegro, Macedonia del nord, Norvegia, Russia (solo le seguenti parti: Circondario Federale centrale (Tsentralny federalny okrug), Circondario Federale nord occidentale (Severo-Zapadny federalny okrug), Circondario Federale meridionale (Yuzhny federalny okrug), Circondario Federale nordcaucasico (Severo-Kavkazsky federalny okrug) e Circondario Federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Turchia e Ucraina</td></tr>
+<tr><td>6. Corteccia, separata dal tronco, di *Acer saccharum* Marsh, *Populus* L. e *Quercus* L., ad eccezione di *Quercus suber* L.</td><td>Prodotti vegetali di corteccia separata dal tronco, non nominati né compresi altrove: ex 1404.9000 Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Avanzi e cascami di legno, non agglomerati: ex 4401.4000</td><td>Tutti gli Stati terzi</td></tr>
+<tr><td>7. Corteccia, separata dal tronco, di *Fraxinus* L., *Juglans* L., *Pterocarya* Kunth e *Ulmus davidiana* Planch.</td><td>Prodotti vegetali di corteccia, non nominati né compresi altrove: ex 1404.9000 Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Avanzi e cascami di legno, non agglomerati: ex 4401.4000</td><td>Canada, Cina, Giappone, Mongolia, Repubblica popolare democratica di Corea, Repubblica di Corea, Russia, Stati Uniti d’America e Taiwan</td></tr>
+<tr><td>8. Corteccia, separata dal tronco, di *Betula* L.</td><td>Prodotti vegetali di corteccia di betulla (*Betula* spp.), non nominati né compresi altrove: ex 1404.9000 Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Avanzi e cascami di legno, non agglomerati: ex 4401.4000</td><td>Canada e Stati Uniti d’America</td></tr>
+<tr><td>9. Corteccia, separata dal tronco, di *Acer macrophyllum* Pursh, *Aesculus californica* (Spach) Nutt., *Lithocarpus densiflorus* (Hook. & Arn.) Rehd. e *Taxus brevifolia* Nutt.</td><td>Prodotti vegetali di corteccia, non nominati né compresi altrove: ex 1404.9000 Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Avanzi e cascami di legno, non agglomerati: ex 4401.4000</td><td>Stati Uniti d’America</td></tr>
+<tr><td>10. Legname, che: a. è considerato prodotto vegetale ai sensi dell’articolo 2 lettera e OSalV; b. è stato ottenuto completamente o in parte da uno dei seguenti ordini, generi o specie, eccetto il materiale da imballaggio in legno; e c. rientra nella rispettiva voce di tariffa doganale e corrisponde a una delle descrizioni cui è fatto riferimento nella colonna centrale:</td><td></td><td></td></tr>
+<tr><td>– *Quercus* L., compreso il legname che non ha conservato la superficie rotonda naturale ed escluso il legname conforme alla descrizione della voce di tariffa doganale 4416.0000, e ove esistano prove documentate che il legname è stato trattato o lavorato mediante un trattamento termico durante il quale è stata raggiunta una temperatura minima di 176 °C per 20 minuti</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato trattato con tinte, creosoto o altri agenti di conservazione: – non di conifere: ex 4403.1290 Legname grezzo anche scortecciato, privato dell’alburno o squadrato escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – di quercia (*Quercus* spp.): 4403.9100 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di quercia (*Quercus* spp.): 4407.9110 4407.9190 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Stati Uniti d’America</td></tr>
+<tr><td>– *Platanus* L., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – Non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – Non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato trattato con tinte, creosoto o altri agenti di conservazione: – Non di conifere: ex 4403.1290 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: escluso quello trattato con tinte, creosoto o altri agenti di conservazione: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: ex 4407.9910 ex 4407.9980 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Albania, Armenia, Stati Uniti d’America e Turchia</td></tr>
+<tr><td>– *Populus* L., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – Non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – Non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato Trattato con tinte, creosoto o altri agenti di conservazione: – Non di conifere: ex 4403.1290 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – di pioppo e pioppo tremulo (*Populus* spp.): 4403.9700 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di pioppo e pioppo tremulo (*Populus* spp.): 4407.9710 4407.9790 Fogli da impiallacciaura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Tutti gli stati del continente americano</td></tr>
+<tr><td>– *Acer saccharum* Marsh., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – Non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – Non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – Non di conifere: ex 4403.1290 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di acero (*Acer* spp.): 4407.9310 4407.9390 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Canada e Stati Uniti d’America</td></tr>
+<tr><td>– Conifere (Pinales), compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – di conifere 4401.1100 Legname in piccole placche o in particelle: – di conifere 4401.2100 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – di conifere: 4403.1100 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: di conifere, escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – di pino (*Pinus* spp.): ex 4403.2100 ex 4403.2200 – di abete (*Abies* spp.) e abete rosso (*Picea* spp.): ex 4403.2300 ex 4403.2400 – altro, di conifere: ex 4403.2500 ex 4403.2600 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Di conifere: ex 4404.1000 Traversine di legno, di conifere, per strade ferrate o simili: Non impregnate: 4406.1100 Altre: 4406.9100 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: Di conifere: – di pino (*Pinus* spp.): 4407.1110 4407.1190 – di abete (*Abies* spp.) e abete rosso (*Picea* spp.): 4407.1210 4407.1290 – altro, di conifere: 4407.1910 4407.1990 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: Di conifere: 4408.1000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Kazakhstan, Russia e Turchia e tutti gli altri Stati terzi esclusi Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, San Marino, Serbia e Ucraina</td></tr>
+<tr><td>– *Fraxinus* L., *Juglans* L., *Pterocarya* Kunth e *Ulmus* *davidiana* Planch., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – non di conifere: ex 4403.1290 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di frassino (*Fraxinus* spp.): 4407.9510 4407.9590 – Altro: ex 4407.9910 ex 4407.9980 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Canada, Cina, Giappone, Mongolia, Repubblica di Corea, Repubblica popolare democratica di Corea, Russia, Stati Uniti d’America e Taiwan</td></tr>
+<tr><td>– *Betula* L., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – non di conifere: ex 4403.1200 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – di betulla (*Betula* spp.): 4403.9500 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di betulla (*Betula* spp.): 4407.9610 4407.9690 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Canada e Stati Uniti d’America</td></tr>
+<tr><td>– *Amelanchier* Medik., *Aronia* Medik., *Cotoneaster* Medik., *Crataegus* L., *Cydonia* Mill., *Malus* Mill., *Pyracantha* M. Roem., *Pyrus* L. e *Sorbus* L., compreso il legname che non ha conservato la superficie rotonda naturale, esclusa segatura o trucioli</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – non di conifere: ex 4401.2200 – Avanzi e cascami di legno (diversi dalla segatura): ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – non di conifere: ex 4403.1200 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: ex 4407.9910 ex 4407.9980 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Canada e Stati Uniti d’America</td></tr>
+<tr><td>– *Prunus* L., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – non di conifere: ex 4403.1200 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: – non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1290 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di ciliegio (*Prunus* spp.): 4407.9410 4407.9490 – Altro: ex 4407.9910 ex 4407.9980 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Canada, Cina, Giappone, Mongolia, Repubblica di Corea, Repubblica popolare democratica di Corea, Stati Uniti d’America, Vietnam o qualsiasi paese terzo in cui *Aromia bungii* è notoriamente presente</td></tr>
+<tr><td>– *Acer* L., *Aesculus* L., *Alnus* L., *Betula* L., *Carpinus* L., *Cercidiphyllum* Siebold & Zucc., *Corylus* L., *Fagus* L., *Fraxinus* L., *Koelreuteria* Laxm., *Platanus* L., *Populus* L., *Salix* L., *Tilia* L. e *Ulmus* L., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – non di conifere: ex 4401.1200 Legname in piccole placche o in particelle: – non di conifere: ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – non di conifere: ex 4403.1200 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – di faggio (*Fagus* spp.): 4403.9300 4403.9400 – di betulla (*Betula* spp.): 4403.9500 4403.9600 – di pioppo e pioppo tremulo (*Populus* spp.): 4403.9700 – di altro: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: – non di conifere: ex 4404.2000 Traversine di legno, non di conifere, per strade ferrate o simili: Non impregnate: ex 4406.1200 Altre: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: – di faggio (*Fagus* spp.): 4407.9210 4407.9290 – di acero (*Acer* spp.): 4407.9310 4407.9390 – di frassino (*Fraxinus* spp.): 4407.9510 4407.9590 – di betulla (*Betula* spp.): 4407.9610 4407.9690 – di pioppo e pioppo tremulo (*Populus* spp.): 4407.9710 4407.9790 – di altro: 4407.9910 4407.9980 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensato o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Tutti gli Stati terzi in cui *Anoplophora glabripennis* è notoriamente presente</td></tr>
+<tr><td>– *Acer macrophyllum* Pursh, *Aesculus californica* (Spach) Nutt., *Lithocarpus densiflorus* (Hook. & Arn.) Rehd. e *Taxus brevifolia* Nutt.</td><td>Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili; legname in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di ceppi, mattonelle, pellet o in forme simili: Legna da ardere in ceppi, tondelli, ramaglie, fascine o in forme simili: – di conifere ex 4401.1100 – non di conifere ex 4401.1200 Legname in piccole placche o in particelle: – di conifere ex 4401.2100 – non di conifere ex 4401.2200 Segatura, avanzi e cascami di legno, non agglomerati: ex 4401.4000 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Trattato con tinte, creosoto o altri agenti di conservazione: – di conifere ex 4403.1100 – non di conifere ex 4403.1290 Legname grezzo, non scortecciato né privato dell’alburno, né squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – altro, di conifere ex 4403.2500 ex 4403.2600 Legname grezzo anche scortecciato, privato dell’alburno o squadrato: Escluso quello trattato con tinte, creosoto o altri agenti di conservazione: – altro, non di conifere: ex 4403.9900 Pali spaccati; pioli e picchetti di legno, appuntiti, non segati per il lungo: Di conifere: ex 4404.1000 Non di conifere: ex 4404.2000 Traversine di legno per strade ferrate o simili: Non impregnate: – di conifere ex 4406.1100 – non di conifere ex 4406.1200 Altre: – di conifere ex 4406.9100 – non di conifere: ex 4406.9200 Legname segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm: Di conifere: ex 4407.1910 ex 4407.1990 – di acero (*Acer* spp.): 4407.9310 4407.9390 – di altro: ex 4407.9910 ex 4407.9980 Fogli da impiallacciatura (compresi quelli ottenuti mediante tranciatura di legno stratificato), fogli per compensati o per legno simile stratificato e altro legname segato per il lungo, tranciato o sfogliato, anche piallato, levigato, assemblato in parallelo o di testa, di spessore inferiore o uguale a 6 mm: Di conifere: ex 4408.1000 Altri: ex 4408.9000 Fusti, botti, tini ed altri lavori da bottaio e loro parti, di legno, compreso il legname da bottaio: ex 4416.0000 Costruzioni prefabbricate di legno: ex 9406.1000</td><td>Stati Uniti d’America</td></tr>
+</table>
+
+[^annex6-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Allegato
+
+Allegato 7*[^t-6]*
+
+(art. 7 cpv. 3)
+
+## Condizioni specifiche che determinate merci devono adempiere in via suppletiva per l’importazione da determinati Stati terzi
+
+[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+<table>
+<tr><th>Merci</th><th>Voce di tariffa doganale[^annex7-lvlu1-1]</th><th>Origine</th><th>Condizioni specifiche</th></tr>
+<tr><td>1. Substrato colturale, aderente o associato ai vegetali, destinato a mantenere la vitalità dei vegetali, ad eccezione del mezzo sterile di vegetali in vitro</td><td>–</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. il substrato colturale, al momento della piantagione dei vegetali associati: i. non conteneva terra né materie organiche e non era stato utilizzato in precedenza per la coltivazione di vegetali o altri fini agricoli, oppure ii. era composto solo di torba o di fibra di *Cocos nucifera* L. e non era stato utilizzato in precedenza per la coltivazione di vegetali o altri fini agricoli, oppure iii. era stato sottoposto ad efficace fumigazione o trattamento termico per garantire l’assenza di organismi nocivi, operazioni menzionate nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», oppure iv. era stato oggetto di un approccio sistemico efficace per garantire l’assenza di organismi nocivi, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; e</td></tr>
+</table>
+
+<table>
+<tr><th>Merci</th><th>Voce di tariffa doganale</th><th>Origine</th><th>Condizioni specifiche</th></tr>
+<tr><td></td><td></td><td></td><td>in tutti i casi di cui ai punti da i. a iv., era stato immagazzinato e conservato in condizioni appropriate per mantenerlo indenne da organismi nocivi da quarantena; [tab] e b. dal momento della piantagione: i. sono state prese adeguate misure per garantire che il substrato colturale rimanesse indenne da organismi nocivi da quarantena, comprese almeno le misure seguenti: – isolamento fisico del substrato colturale dalla terra e da altre possibili fonti di contaminazione, – misure di igiene, – utilizzo di acqua indenne da organismi nocivi da quarantena; oppure ii. nelle 2 settimane precedenti l’esportazione il substrato colturale compresa, ove opportuno, la terra, sono stati completamente rimossi tramite lavaggio utilizzando acqua indenne da organismi nocivi da quarantena. Il reimpianto può essere eseguito in un substrato colturale che adempie le condizioni di cui alla lettera a. Sono mantenute condizioni adeguate per preservare l’indennità dagli organismi nocivi da quarantena, di cui alla lettera b.</td></tr>
+<tr><td>2. Macchine e veicoli utilizzati per fini agricoli o forestali</td><td>ex 8432.1000 ex 8432.2100 ex 8432.2900 ex 8432.3100 ex 8432.3900 ex 8432.4100 ex 8432.4200 ex 8432.8000 ex 8432.9000 ex 8433.4000 ex 8433.5100 ex 8433.5300 ex 8436.8000 ex 8701.2000 ex 8701.9110 ex 8701.9190 ex 8701.9210 ex 8701.9290 ex 8701.9310 ex 8701.9390 ex 8701.9410 ex 8701.9490 ex 8701.9510 ex 8701.9590</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che le macchine o i veicoli sono puliti e privi di terra e frammenti di vegetali.</td></tr>
+<tr><td>3. Vegetali destinati alla piantagione con radici, coltivati all’aperto</td><td>ex 0601 ex 0602</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. il luogo di produzione è notoriamente indenne da *Clavibacter sepedonicus* (Spieckermann & Kottho) Nouioui *et. al*. e da *Synchytrium endobioticum* (Schilb.) Percival; e b. i vegetali provengono da un sito di produzione notoriamente indenne da *Globodera pallida* (Stone) Behrens e da *Globodera rostochiensis* (Wollenweber) Behrens.</td></tr>
+<tr><td>4. Vegetali destinati alla piantagione, eccetto bulbi, cormi, rizomi, sementi, tuberi e vegetali in coltura tissutale</td><td>0602</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali sono stati coltivati in vivaio e: a. provengono da un’area che il servizio nazionale competente per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Thrips palmi* Karny conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. provengono da un luogo di produzione che il servizio nazionale competente per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Thrips palmi* Karny conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare» e dichiarato indenne da *Thrips palmi* Karny in seguito ad controlli ufficiali eseguite almeno mensilmente nei 3 mesi precedenti l’esportazione; oppure c. immediatamente prima dell’esportazione, sono stati sottoposti a un trattamento idoneo contro Thrips *palmi* Karny, indicato dettagliatamente nei certificati fitosanitari, sono stati sottoposti a controllo ufficiale e sono risultati indenni da *Thrips palmi* Karny.</td></tr>
+<tr><td>5. Vegetali destinati alla piantagione annuali e biennali, escluse Poaceae e sementi</td><td>ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Egitto, Georgia, Giordania, Isole Canarie, Isole Färöer, Islanda, Israele, Libano, Libia, Macedonia del nord, Marocco, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che i vegetali: a. sono stati coltivati in vivaio; b. sono privi di frammenti di vegetali, di fiori e di frutti; c. sono stati controllati in periodi opportuni e prima dell’esportazione; d. sono risultati indenni da sintomi di batteri, virus ed altri organismi nocivi virus-simili; e e. sono risultati indenni da indizi o sintomi di nematodi, insetti, acari e funghi nocivi, oppure hanno subito un trattamento idoneo, atto a eradicare tali organismi.</td></tr>
+<tr><td>6. Vegetali destinati alla piantagione, della famiglia Poaceae di erbe ornamentali perenni delle sottofamiglie Bambusoideae, Panicoideae e dei generi *Buchloe* Lag., *Bouteloua* Lag., *Calamagrostis* Adan., *Cortaderia* Stapf, *Glyceria* R. Br., *Hakonechloa* Mak. ex Honda, *Hystrix* L., *Molinia* Schnrak, *Phalaris* L., *Shibataea* Mak. Ex Nakai, *Spartina* Schreb., *Stipa* L. e *Uniola* L., escluse le sementi</td><td>ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Egitto, Georgia, Giordania, Isole Canarie, Isole Färöer, Islanda, Israele, Libano, Libia, Macedonia del nord, Marocco, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che i vegetali: a. sono stati coltivati in vivaio; b. sono privi di frammenti di vegetali, di fiori e di frutti; c. sono stati controllati in periodi opportuni e prima dell’esportazione; d. sono risultati indenni da sintomi di batteri, virus ed altri organismi nocivi virus-simili; e e. sono risultati indenni da indizi o sintomi di nematodi, insetti, acari e funghi nocivi, oppure hanno subito un trattamento idoneo, atto a eraricare tali organismi.</td></tr>
+<tr><td>7. Vegetali destinati alla piantagione, esclusi vegetali in riposo vegetativo, vegetali in coltura tissutale, sementi, bulbi, tuberi, cormi e rizomi. – Gli organismi nocivi da quarantena rilevanti sono: – Begomovirus eccetto: Abutilon mosaic virus, Sweet potato leaf curl virus, Tomato yellow leaf curl virus, Tomato yellow leaf curl Sardinia virus, Tomato yellow leaf curl Malaga virus, Tomato yellow leaf curl Axarquia virus, – Cowpea mild mottle virus, – Lettuce infectious yellows virus, – Melon yellowing-associated virus, – Squash vein yellowing virus, – Sweet potato chlorotic stunt virus, – Sweet potato mild mottle virus, – Tomato mild mottle virus</td><td>ex 0602</td><td>Tutti gli Stati terzi in cui sono notoriamente presenti gli organismi nocivi da quarantena rilevanti</td><td></td></tr>
+<tr><td></td><td></td><td>a. in cui *Bemisia tabaci* Genn. (popolazioni non europee) o altri vettori degli organismi nocivi da quarantena non sono notoriamente presenti</td><td>Dichiarazione ufficiale che nessun sintomo degli organismi nocivi da quarantena rilevanti è stato riscontrato sui vegetali durante il ciclo vegetativo completo.</td></tr>
+<tr><td></td><td></td><td>b in cui *Bemisia tabaci* Genn. (popolazioni non europee) o altri vettori degli organismi nocivi da quarantena sono notoriamente presenti</td><td>Dichiarazione ufficiale che nessun sintomo degli organismi nocivi da quarantena rilevanti è stato riscontrato sui vegetali durante il ciclo vegetativo completo, e: a. che i vegetali provengono da aree notoriamente indenni da *Bemisia tabaci* Genn. e da altri vettori degli organismi nocivi da quarantena; oppure b. il sito di produzione è risultato indenne da *Bemisia tabaci* Genn. e da altri vettori degli organismi nocivi da quarantena rilevanti in seguito a controlli ufficiali effettuati in periodi opportuni per rilevare l’organismo nocivo; oppure c. i vegetali sono stati sottoposti a un trattamento efficace atto a eradicare *Bemisia tabaci* Genn. e degli altri vettori degli organismi nocivi da quarantena e sono risultati indenni da entrambi prima dell’esportazione.</td></tr>
+<tr><td>8. Vegetali destinati alla piantagione, di specie erbacee, esclusi bulbi, cormi, vegetali della famiglia Poaceae, rizomi, sementi, tuberi e vegetali in coltura tissutale</td><td>ex 0602.10 ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi nei quali *Liriomyza sativae* (Blanchard) e *Amauromyza maculosa* (Malloch) sono notoriamente presenti</td><td>[tab] Dichiarazione ufficiale che i vegetali sono stati coltivati in vivaio e: a. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Liriomyza sativae* (Blanchard) e *Amautomyza maculosa* (Malloch) nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. provengono da un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Liriomyza sativae* (Blanchard) e *Amauromyza maculosa* (Malloch) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare» e dichiarato indenne da *Liriomyza sativae* (Blanchard) e *Amauromyza maculosa* (Malloch) in seguito a controlli ufficiali eseguiti almeno mensilmente nei 3 mesi precedenti l’esportazione; oppure c. immediatamente prima dell’esportazione i vegetali hanno subito un trattamento idoneo contro *Liriomyza sativae* (Blanchard) e *Amauromyza maculosa* (Malloch), sono stati sottoposti a un controllo ufficiale e sono risultati indenni da *Liriomyza sativae* (Blanchard) e *Amauromyza maculosa* (Malloch). Il trattamento indicato alla lettera c è menzionato nel certificato fitosanitario.</td></tr>
+<tr><td>9. Vegetali erbacei perenni destinati alla piantagione, escluse le sementi, delle famiglie Caryophyllaceae (eccetto *Dianthus* L.), Compositae (escluso *Chrysanthemum* L.), Cruciferae, Leguminosae e Rosaceae (esclusa *Fragaria* L.)</td><td>ex 0602.1000 ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Egitto, Georgia, Giordania, Isole Canarie, Isole Färöer, Islanda, Israele, Libano, Libia, Macedonia del nord, Marocco, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td><td>[tab] Dichiarazione ufficiale che i vegetali: a. sono stati coltivati in vivaio; b. sono privi di frammenti di vegetali, di fiori e di frutti; c. sono stati controllati in periodi opportuni e prima dell’esportazione; d. sono risultati indenni da sintomi di batteri, virus ed altri organismi nocivi virus-simili; e e. sono risultati indenni da indizi o sintomi di nematodi, insetti, acari e funghi nocivi, oppure hanno subito un trattamento idoneo, atto a eradicare tali organismi.</td></tr>
+<tr><td>10. Alberi e arbusti destinati alla piantagione, esclusi sementi e vegetali in coltura tissutale</td><td>ex 0602.1000 ex 0602.2011 ex 0602.2019 ex 0602.2021 ex 0602.2029 ex 0602.2031 ex 0602.2039 ex 0602.2041 ex 0602.2049 ex 0602.2051 ex 0602.2059 ex 0602.2071 ex 0602.2072 ex 0602.2079 ex 0602.3000 ex 0602.4000 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Egitto, Georgia, Giordania, Isole Canarie, Isole Färöer, Islanda, Israele, Libano, Libia, Macedonia del nord, Marocco, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che i vegetali: a. sono puliti (vale a dire privi di frammenti di vegetali) e privi di fiori e frutti; b. sono stati coltivati in vivaio; c. sono stati sottoposti a controlli in periodi opportuni e prima dell’esportazione e sono risultati indenni da sintomi di batteri, virus ed altri organismi nocivi virus-simili; sono inoltre risultati indenni da indizi o sintomi di nematodi, insetti, acari e funghi nocivi oppure hanno subito un trattamento idoneo, atto a eradicare tali organismi.</td></tr>
+<tr><td>11. Alberi e arbusti a foglia caduca destinati alla piantagione, esclusi sementi e vegetali in coltura tissutale</td><td>ex 0602.1000 ex 0602.2011 ex 0602.2019 ex 0602.2021 ex 0602.2029 ex 0602.2031 ex 0602.2039 ex 0602.2041 ex 0602.2049 ex 0602.2051 ex 0602.2059 ex 0602.2071 ex 0602.2072 ex 0602.2079 ex 0602.3000 ex 0602.4000 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Algeria, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Egitto, Georgia, Giordania, Isole Canarie, Isole Färöer, Islanda, Israele, Libano, Libia, Macedonia del Nord, Marocco, Moldova, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Siria, Tunisia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che i vegetali sono in riposo vegetativo e privi di foglie.</td></tr>
+<tr><td>12. Ortaggi a radice e tubercoli, esclusi tuberi di *Solanum tuberosum* L.</td><td>0706.1000 0706.9011 0706.9018 0706.9019 0706.9021 0706.9028 0706.9029 0706.9030 0706.9031 0706.9039 0706.9050 0706.9051 0706.9059 0706.9060 0706.9061 0706.9069 0706.9090 ex 0709.9990 ex 0714.1000 ex 0714.2010 ex 0714.2090 ex 0714.3010 ex 0714.3090 ex 0714.4010 ex 0714.4090 ex 0714.5010 ex 0714.5090 ex 0714.9020 ex 0714.9090 ex 0910.1100 ex 0910.3000 ex 0910.9900 ex 1212.9110 ex 1212.9190 ex 1212.9410 ex 1212.9490 ex 1212.9920 ex 1212.9990 ex 1214.9011 ex 1214.9019 ex 1214.9090</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che la partita o il lotto non contengono più dell’1 %, in peso netto, di terra e substrato colturale.</td></tr>
+<tr><td>13. Bulbi, cormi, rizomi e tuberi, destinati alla piantagione, esclusi tuberi di *Solanum tuberosum* L.</td><td>0601.1010 0601.1090 0601.2010 0601.2020 0601.2091 0601.2099 ex 0910.1100 ex 0910.2010 ex 0910.3000</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che l’invio o il lotto non contengono più dell’1 %, in peso netto, di terra e substrato colturale.</td></tr>
+<tr><td>14. Tuberi di *Solanum tuberosum* L.</td><td>0701.1010 0701.1090 0701.9010 0701.9091 0701.9099</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che l’invio o il lotto non contengono più dell’1 %, in peso netto, di terra e substrato colturale.</td></tr>
+<tr><td>15. Tuberi di *Solanum tuberosum* L.</td><td>0701.1010 0701.1090 0701.9010 0701.9091 0701.9099</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i tuberi provengono da: a. un Paese in cui *Tecia solanivora* (Povolný) non è notoriamente presente; oppure b. un’area indenne da *Tecia solanivora* (Povolný), istituita dall’organizzazione nazionale per la protezione dei vegetali conformemente alle pertinenti norme internazionali per le misure fitosanitarie.</td></tr>
+<tr><td>16. Tuberi di *Solanum tuberosum* L.</td><td>0701.1010 0701.1090 0701.9010 0701.9091 0701.9099</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i tuberi provengono da Paesi notoriamente indenni da *Clavibacter sepedonicus* (Spieckermann & Kottho) Nouiuoi *et al*.; oppure b. nel Paese d’origine risultano rispettate disposizioni riconosciute equivalenti a quelle dell’UFAG per la lotta contro *Clavibacter sepedonicus* (Spieckermann & Kottho) Nouiuoi *et al*.</td></tr>
+<tr><td>17. Tuberi di Solanum tuberosum L.</td><td>0701.1010 0701.1090 0701.9010 0701.9091 0701.9099</td><td>Tutti gli Stati terzi in cui *Synchytrium endobioticum* (Schilb.) Percival è notoriamente presente</td><td>Dichiarazione ufficiale che: a. i tuberi provengono da aree notoriamente indenni da *Synchytrium endobioticum* (Schilb.) Percival (tutte le razze, eccetto la razza 1, corrispondente alla razza comune europea) e nessun sintomo di *Synchytrium endobioticum* (Schilb.) Percival è stato riscontrato sul luogo di produzione né nelle immediate vicinanze per un periodo adeguato; oppure b. nel Paese d’origine risultano rispettate disposizioni riconosciute equivalenti a quelle dell’UFAG per la lotta contro *Synchytrium endobioticum* (Schilb.) Percival.</td></tr>
+<tr><td>18. Tuberi di *Solanum tuberosum* L., destinati alla piantagione</td><td>0701.1010 0701.1090</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i tuberi provengono da un sito notoriamente indenne da *Globodera rostochiensis* (Wollenweber) Behrens e da *Globodera* *pallida* (Stone) Behrens.</td></tr>
+<tr><td>19. Tuberi di *Solanum tuberosum* L., destinati alla piantagione</td><td>0701.1010 0701.1090</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i tuberi provengono da aree in cui *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*., *Ralstonia pseudosolanacearum* Safni *et al*., *Ralstonia* *syzigii* subsp. *celebensis* Safni *et al*. e Ralstonia *syzigii* subsp. *indonesiensis* Safni *et al.* sono notoriamente assenti; oppure b. nelle aree in cui *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*., *Ralstonia pseudosolanacearum* Safni *et al*., *Ralstonia syzigii* subsp. *celebensis* Safni *et al*. o *Ralstonia syzigii* subsp. *indonesiensis* Safni *et al*. è notoriamente presente, i tuberi provengono da un luogo di produzione risultato indenne da *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*., *Ralstonia pseudosolanacearum* Safni *et al*., *Ralstonia syzigii* subsp. *Celebensis* Safni *et al*. e *Ralstonia syzigii* subsp. *indonesiensis* Safni *et al*. o ritenuto dall’UFAG indenne dai suddetti organismi nocivi in seguito a misure prese al fine di eradicare *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*., *Ralstonia pseudosolanacearum* Safni et al., *Ralstonia syzigii* subsp. *celebensis* Safni *et al*. e *Ralstonia syzigii* subsp. *indonesiensis* Safni *et al*.</td></tr>
+<tr><td>20. Tuberi di *Solanum tuberosum* L., destinati alla piantagione</td><td>0701.1010 0701.1090</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: [tab] a. i tuberi provengono da aree in cui *Meloidogyne chitwoodi* Golden *et al*. (tutte le popolazioni) e *Meloidogyne fallax* Karssen sono notoriamente assenti; oppure b. nelle aree in cui *Meloidogyne chitwoodi* Golden *et al*. e *Meloidogyne fallax* Karssen sono notoriamente presenti: i. i tuberi provengono da un’azienda di moltiplicazione risultata indenne da *Meloidogyne* *chitwoo*di Golden *et al*., e da *Meloidogyne fallax* Karssen sulla base di un’indagine annuale sulle colture ospiti effettuata mediante controllo visivo delle piante ospiti in periodi opportuni e mediante controllo visivo sia della superficie esterna sia di tuberi sezionati dopo la raccolta delle patate coltivate nell’azienda di moltiplicazione, oppure ii. dopo la raccolta i tuberi, previa campionatura, sono stati controllati per accertare l’eventuale presenza di sintomi indotta da un opportuno metodo, oppure sottoposti ad analisi di laboratorio, nonché a controllo visivo della superficie esterna e di tuberi sezionati, in periodi opportuni e comunque all’atto della chiusura delle confezioni o dei contenitori prima della commercializzazione, conformemente alle disposizioni in materia di chiusura nell’ordinanza del DEFR del 7 dicembre 1998[^annex7-lvlu1-2] sulle sementi e i tuberi-seme, e non sono stati riscontrati sintomi di *Meloidogyne chitwoodi* Golden *et al*. e *Meloidogyne* *fallax* Karssen.</td></tr>
+<tr><td>21. Tuberi di *Solanum tuberosum* L., esclusi quelli destinati alla piantagione</td><td>0701.9010 0701.9091 0701.9099</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i tuberi provengono da aree in cui Ral*stonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*., *Ralstonia pseudosolanacearum* Safni *et al*., *Ralstonia syzigii* subsp. *celebensis* Safni *et al*. e *Ralstonia* *syzigii* subsp. *indonesiensis* Safni *et al*. sono notoriamente assenti.</td></tr>
+<tr><td>22. Vegetali destinati alla piantagione di *Capsicum annuum* L., *Solanum lycopersicum* L., *Musa* L., *Nicotiana* L. e *Solanum melongena* L., escluse le sementi</td><td>ex 0602.1090 ex 0602.9030 ex 0602.9050 ex 0602.9070 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi in cui Ralstonia solanacearum (Smith) Yabuuchi et al. emend. Safni et al., Ralstonia pseudosolanacearum Safni et al., Ralstonia syzigii subsp. celebensis Safni et al. o Ralstonia syzigii subsp. indonesiensis Safni et al. è notoriamente presente</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da aree risultate indenni da *Ralstonia solanacearum* (Smith) Yabuuchi *et al.* emend. Safni *et al.*, *Ralstonia pseudosolanacearum* Safni *et al.*, *Ralstonia syzigii* subsp. *celebensis* Safni *et al.* e *Ralstonia syzigii* subsp. *indonesiensis* Safni *et al.*; oppure b. nessun sintomo di *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*., *Ralstonia pseudosolanacearum* Safni *et al*., *Ralstonia syzigii* subsp. *celebensis* Safni *et al*. e *Ralstonia syzigii* subsp. *indonesiensis* Safni *et al*. è stato riscontrato sui vegetali nel luogo di produzione dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>23. Vegetali di *Solanum lycopersicum* L. e *Solanum* *melongena* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2090 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali provengono da: a. un Paese riconosciuto indenne da *Keiferia lycopersicella* (Walsingham) conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Keiferia lycopersicella* (Walsingham) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare».</td></tr>
+<tr><td>24. Vegetali destinati alla piantagione di *Beta vulgaris* L., escluse le sementi</td><td>ex 0602.9011 ex 0602.9019</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che nessun sintomo di Beet curly top virus è stato riscontrato nel luogo di produzione dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>25. Vegetali di *Chrysanthemum* L., *Dianthus* L. e *Pelargonium* l’Hérit. ex Ait., escluse le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099 0603.1200 0603.1400 ex 0603.1931 ex 0603.9038</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da un’area indenne da *Spodoptera eridania* (Cramer), *Spodoptera frugiperda* Smith e *Spodoptera litura* (Fabricius), istituita dall’organizzazione nazionale per la protezione dei vegetali conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. nessun indizio di *Spodoptera eridania* (Cramer), *Spodoptera frugiperda* Smith e *Spodoptera litura* (Fabricius) è stato riscontrato nel luogo di produzione dall’inizio dell’ultimo ciclo vegetativo completo; oppure c. i vegetali sono stati sottoposti a un trattamento idoneo, atto a proteggerli dagli organismi nocivi rilevanti.</td></tr>
+<tr><td>26. Vegetali destinati alla piantagione di *Chrysanthemum* L. e *Solanum* *lycopersicum* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.9011 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali sono stati coltivati per tutto il loro ciclo vitale: a. in un Paese indenne da Chrysanthemum stem necrosis virus; oppure b. in un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da Chrysanthemum stem necrosis virus conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure c. in un luogo di produzione riconosciuto indenne da Chrysanthemum stem necrosis virus e ciò è stato confermato da controlli ufficiali e, se del caso, analisi.</td></tr>
+<tr><td>27. Vegetali destinati alla piantagione di *Pelargonium* L’Herit. ex Ait., escluse le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi in cui Tomato ringspot virus è notoriamente presente:</td><td></td></tr>
+<tr><td></td><td></td><td>a. in cui *Xiphinema americanum* Cobb *sensu stricto*, *Xiphinema bricolense* Ebsary, Vrain & Graham, *Xiphinema californicum* Lamberti & Bleve-Zacheo, *Xiphinema* *inaequale* khan *et* Ahmad, *Xiphinema intermedium* Lamberti & Bleve-Zacheo, *Xiphinema rivesi* (popolazioni non europee) Dalmasso e *Xiphinema tarjanense* Lamberti & Bleve-Zacheo o altri vettori di Tomato ringspot virus non sono notoriamente presenti</td><td>Dichiarazione ufficiale che i vegetali: a. provengono direttamente da luoghi di produzione notoriamente indenni da Tomato ringspot virus; oppure b. derivano, al massimo da quattro generazioni, da piante madri risultate indenni da Tomato ringspot virus nell’ambito di un sistema ufficialmente approvato di analisi virologiche.</td></tr>
+<tr><td></td><td></td><td>b. in cui Xiphinema americanum Cobb sensu stricto, Xiphinema bricolense Ebsary, Vrain & Graham, Xiphinema californicum Lamberti & Bleve-Zacheo, Xiphinema inaequale khan et Ahmad, Xiphinema intermedium Lamberti & Bleve-Zacheo, Xiphinema rivesi (popolazioni non europee) Dalmasso e Xiphinema tarjanense Lamberti & Bleve-Zacheo o altri vettori di Tomato ringspot virus sono notoriamente presenti</td><td>Dichiarazione ufficiale che i vegetali: a. provengono direttamente da luoghi di produzione notoriamente indenni da Tomato ringspot virus nella terra o nei vegetali; oppure b. derivano, al massimo da due generazioni, da piante madri risultate indenni da Tomato ringspot virus nell’ambito di un sistema ufficialmente approvato di analisi virologiche.</td></tr>
+<tr><td>28. Fiori recisi di *Chrysanthemum* L., *Dianthus* L., *Gypsophila* L. e *Solidago* L., e ortaggi a foglia di *Apium graveolens* L. e *Ocimum* L.</td><td>0603.1200 0603.1400 ex 0603.1970 0709.4000 ex 0709.9990</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i fiori recisi e gli ortaggi a foglia: a. provengono da un Paese indenne da *Liriomyza sativae* (Blanchard) e *Amauromyza* *maculosa* (Malloch); oppure b. immediatamente prima dell’esportazione sono stati sottoposti a controlli ufficiali e risultati indenni da *Liriomyza sativae* (Blanchard) e *Amauromyza maculosa* (Malloch).</td></tr>
+<tr><td>29. Fiori recisi di Orchidaceae</td><td>0603.13</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i fiori recisi: a. provengono da un Paese indenne da *Thrips palmi* Karny; oppure b. immediatamente prima dell’esportazione sono stati sottoposti a controlli ufficiali e risultati indenni da *Thrips palmi* Karny.</td></tr>
+<tr><td>30. Vegetali destinati alla piantagione nanizzati naturalmente o artificialmente, escluse le sementi</td><td>ex 0602.2051 ex 0602.2059 ex 0602.3000 ex 0602.4000 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che: a. i vegetali, compresi quelli raccolti direttamente da habitat naturali, sono stati coltivati, tenuti e curati per almeno 2 anni consecutivi prima della spedizione in vivai registrati e soggetti a un sistema di controllo sorvegliato ufficialmente; b. i vegetali nei vivai di cui alla lettera a: i. almeno durante il periodo menzionato alla lettera a: – sono stati posti in vasi collocati su scaffalature distanti almeno 50 cm da terra; – sono stati sottoposti a trattamenti idonei per garantire l’assenza di ruggini non europee e il principio attivo, la concentrazione e la data di applicazione di tali trattamenti sono menzionati nel certificato fitosanitario alla rubrica «Trattamento di disinfestazione e/o disinfestazione»; – sono stati sottoposti a controlli ufficiali almeno 6 volte all’anno a intervalli opportuni per individuare la presenza di organismi nocivi da quarantena conformemente al diritto sulla salute dei vegetali, e tali controlli sono stati effettuati anche su vegetali nelle immediate vicinanze dei vivai di cui alla lettera a, almeno mediante controllo visivo di ciascuna fila nel campo o nel vivaio e mediante controllo visivo di tutte le parti del vegetale al di sopra del substrato colturale, utilizzando un campione casuale di almeno 300 vegetali di un determinato genere se il numero di vegetali di tale genere non è superiore a 3 000, o del 10 % dei vegetali se gli esemplari di quel genere sono più di 3 000; – in seguito ai suddetti controlli sono risultati indenni dagli organismi nocivi da quarantena rilevanti di cui al precedente punto, i vegetali infestati sono stati rimossi e i restanti vegetali, ove opportuno, sono stati efficacemente trattati, sono stati tenuti per un periodo di tempo adeguato e controllati per garantire che fossero indenni da tali organismi nocivi; – sono stati piantati in un substrato colturale artificiale che non è stato utilizzato in precedenza o in un substrato colturale naturale trattato mediante fumigazione o altro trattamento termico idoneo e sono risultati indenni da qualsiasi organismo nocivo da quarantena; – sono stati tenuti in condizioni atte a garantire che il substrato colturale rimanesse indenne da organismi nocivi da quarantena e, nelle 2 settimane precedenti la spedizione, sono stati: – scossi e lavati con acqua pulita per rimuovere il substrato colturale originario e conservati a radice nuda, oppure – scossi e lavati con acqua pulita per rimuovere il substrato colturale originario e ripiantati in un substrato colturale rispondente ai requisiti di cui al punto i, quinto punto, oppure – sottoposti a trattamenti idonei, atti a garantire che il substrato colturale sia indenne da organismi nocivi da quarantena, e il principio attivo, la concentrazione e la data di applicazione di tali trattamenti sono menzionati nel certificato fitosanitario alla rubrica «Trattamento di disinfestazione e/o disinfestazione»; ii. sono stati imballati in contenitori chiusi, ufficialmente sigillati, recanti il numero di registrazione del vivaio registrato, e questo numero è stato indicato nella rubrica «Dichiarazione supplementare» sul certificato fitosanitario, per consentire l’identificazione delle partite.</td></tr>
+<tr><td>31. Vegetali di Pinales, esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.9091 ex 0602.9099 ex 0604.2020 0604.2021 0604.2029 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali sono stati prodotti in un luogo di produzione indenne da *Pissodes cibriani* O’Brien, *Pissodes fasciatus* Leconte, *Pissodes nemorensis* Germar, *Pissodes nitidus* Roelofs, *Pissodes punctatus* Langor & Zhang, *Pissodes strobi* (Peck), *Pissodes terminalis* Hopping, *Pissodes yunnanensis* Langor & Zhang e *Pissodes zitacuarense*.</td></tr>
+<tr><td>32. Vegetali di Pinales, esclusi i frutti e le sementi, di altezza superiore a 3 m</td><td>ex 0602.9091 ex 0602.9099 ex 0604.2021 ex 0604.2029 ex 1404.9080</td><td>Tutti gli Stati terzi, esclusi: Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Isole Canarie, Isole Färöer, Islanda, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)], San Marino, Serbia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che i vegetali sono stati prodotti in un luogo di produzione indenne da *Scolytidae* spp. (specie non europee).</td></tr>
+<tr><td>33. Vegetali di *Castanea* Mill. E *Quercus* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2029 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che nessun sintomo di *Cronartium* spp, esclusi *Cronartium* *gentianeum*, *Cronartium pini* e *Cronartium ribicola*, è stato riscontrato nel luogo di produzione o nelle immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>34. Vegetali di *Quercus* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2029 ex 1404.9080</td><td>Stati Uniti d’America</td><td>Dichiarazione ufficiale che i vegetali provengono da aree notoriamente indenni da *Bretziella fagacearum* (Bretz) Z.W. deBeer, Marinc., T.A. Duong & M.J. Wingf., comb. Nov.</td></tr>
+<tr><td>35. Vegetali destinati alla piantagione di *Corylus* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Canada e Stati Uniti d’America</td><td>Dichiarazione ufficiale che i vegetali provengono da: a. un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Anisogramma anomala* (Peck) E. Müller conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Anisogramma anomala* (Peck) E. Müller in seguito a controlli ufficiali eseguiti nel luogo di produzione o nelle immediate vicinanze dall’inizio degli ultimi 3 cicli vegetativi completi, conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare».</td></tr>
+<tr><td>36. Vegetali di *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davi**diana* Planch. E *Pterocarya rhoifolia* Siebold & Zucc., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2090 ex 1404.9000</td><td>Canada, Cina, Repubblica popolare democratica di Corea, Giappone, Mongolia, Repubblica di Corea, Russia, Stati Uniti d’America e Taiwan</td><td>Dichiarazione ufficiale che i vegetali provengono da un’area riconosciuta indenne da *Agrilus planipennis* Fairmaire, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e che tale status è stato comunicato all’UFAM o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>37. Vegetali destinati alla piantagione di *Juglans* L. e *Pterocarya* Kunth, escluse le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Stati Uniti *d’America*</td><td>Dichiarazione ufficiale che i vegetali destinati alla piantagione: a. sono stati coltivati per tutto il loro ciclo vitale in un’area indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus* *juglandis* Blackman, istituita dall’organizzazione nazionale per la protezione dei vegetali nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. provengono da un luogo di produzione, comprese le sue vicinanze in un raggio di almeno 5 km, in cui, nel corso di controlli ufficiali effettuati nei 2 anni precedenti l’esportazione, non sono stati riscontrati sintomi di *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat né del suo vettore *Pityophthorus juglandis* Blackman, né la presenza del vettore; i vegetali destinati alla piantagione sono stati controllati immediatamente prima dell’esportazione e sono stati manipolati e confezionati in modo da prevenire un’infestazione una volta lasciato il luogo di produzione; oppure c. provengono da un luogo di produzione in condizioni di totale isolamento fisico e i vegetali destinati alla piantagione sono stati controllati immediatamente prima dell’esportazione e sono stati manipolati e confezionati in modo da prevenire un’infestazione una volta lasciato il luogo di produzione.</td></tr>
+<tr><td>38. Vegetali di *Betula* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2029 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali provengono da un Paese notoriamente indenne da *Agrilus anxius* Gory.</td></tr>
+<tr><td>39. Vegetali destinati alla piantagione di *Platanus* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Albania, Armenia, Stati Uniti d’America e Turchia</td><td>Dichiarazione ufficiale che i vegetali: a. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. sono stati coltivati in un luogo di produzione riconosciuto indenne da *Cerato**cystis platani* (J. M. Walter) Engelbr. & T. C. Harr. nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie: i. registrato e sorvegliato dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine, e ii. sottoposto annualmente a controlli ufficiali per rilevare eventuali sintomi di *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr., anche nelle sue immediate vicinanze, effettuati nei periodi dell’anno più opportuni per individuare la presenza dell’organismo nocivo in questione, e iii. un campione rappresentativo dei vegetali è stato sottoposto ad analisi per rilevare l’eventuale presenza di *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr., in periodi dell’anno opportuni per individuare la presenza dell’organismo nocivo.</td></tr>
+<tr><td>40. Vegetali destinati alla piantagione di *Populus* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che nessun sintomo di *Melampsora medusae* f.sp. *tremuloidis* Shain è stato riscontrato nel luogo di produzione o nelle immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>41. Vegetali di *Populus* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0604.2090 ex 1404.9080</td><td>Tutti gli stati del continente americano</td><td>Dichiarazione ufficiale che nessun sintomo di *Sphaerulina musiva* (Peck) Quaedvl., Verkley & Crous è stato riscontrato nel luogo di produzione o nelle immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>42. Vegetali destinati alla piantagione, esclusi marze, talee, vegetali in coltura tissutale, polline e sementi, di *Amelanchier* Medik., *Aronia* Medik., *Crataegus* L., *Cydonia* Mill., *Malus* Mill., *Prunus* L., *Pyracantha* M. Roem., *Pyrus* L. e *Sorbus* L.</td><td>ex 0602.2071 ex 0602.2072 ex 0602.2079 ex 0602.2081 ex 0602.2082 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Canada e Stati Uniti d’America</td><td>Dichiarazione ufficiale che i vegetali: a. sono stati coltivati per tutto il loro ciclo vitale in un’area indenne da *Saperda* *candida* Fabricius, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. sono stati coltivati, per un periodo di almeno 2 anni prima dell’esportazione o, nel caso di vegetali di età inferiore ai 2 anni, per il loro intero ciclo vitale in un luogo di produzione riconosciuto indenne da *Saperda candida* Fabricius nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie: i. registrato e sorvegliato dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine, e ii. sottoposto annualmente a 2 controlli ufficiali per rilevare eventuali indizi di *Saperda candida* Fabricius, effettuati nei periodi più opportuni dell’anno per individuare la presenza dell’organismo nocivo in questione, e iii. in cui i vegetali sono stati coltivati: – in un sito di produzione a prova di insetto per impedire l’introduzione di *Saperda* candida Fabricius, oppure – in un sito di produzione soggetto all’applicazione di trattamenti preventivi idonei e circondato da una zona cuscinetto con un’ampiezza di almeno 500 m, dove l’assenza di *Saperda candida* Fabricius è stata confermata da controlli ufficiali effettuati ogni anno in periodi opportuni, e iv. immediatamente prima dell’esportazione, i vegetali sono stati sottoposti a un controllo minuzioso per rilevare l’eventuale presenza di *Saperda candida* Fabricius, in particolare nel fusto della pianta, controllo comprendente, ove opportuno, un campionatura distruttiva.</td></tr>
+<tr><td>43. Vegetali destinati alla piantagione, esclusi i vegetali in coltura tissutale e le sementi, di *Crataegus* L., *Cydonia* Mill., *Malus* Mill., *Prunus* L., *Pyrus* L. e *Vaccinium* L.</td><td>ex 0602.1000 ex 0602.2011 ex 0602.2019 ex 0602.2021 ex 0602.2029 ex 0602.2031 ex 0602.2029 ex 0602.2041 ex 0602.2049 ex 0602.2051 ex 0602.2059 ex 0602.2071 ex 0602.2072 ex 0602.2079 ex 0602.2081 ex 0602.2082 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Canada, Messico e Stati Uniti d’America</td><td>Dichiarazione ufficiale che i vegetali sono stati coltivati: a. per tutto il loro ciclo vitale in un’area indenne da *Grapholita packardi* Zeller, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», a condizione che tale status sia stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. per tutto il loro ciclo vitale in un luogo di produzione riconosciuto indenne da *Grapholita packardi* Zeller conformemente alle pertinenti norme internazionali per le misure fitosanitarie: i. registrato e sorvegliato dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine, e ii. sottoposto a controlli annuali per rilevare eventuali indizi di *Grapholita packardi* Zeller, effettuati in periodi dell’anno opportuni per individuare la presenza dell’organismo nocivo in questione, e iii. in cui i vegetali sono stati coltivati in un sito di produzione soggetto all’applicazione di trattamenti preventivi idonei e in cui l’assenza di *Grapholita packardi* Zeller è stata confermata da indagini ufficiali effettuate annualmente in periodi opportuni per individuare la presenza dell’organismo nocivo in questione, e iv. immediatamente prima dell’esportazione, i vegetali sono stati sottoposti a un controllo minuzioso per rilevare l’eventuale presenza di *Grapholita packardi* Zeller; oppure c. in un sito di produzione a prova di insetto per impedire l’introduzione di *Grapholita packardi* Zeller.</td></tr>
+<tr><td>44. Vegetali destinati alla piantagione di *Crataegus* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi in cui *Phyllosticta solitaria* Ell. & Ev. è notoriamente presente</td><td>Dichiarazione ufficiale che nessun sintomo di *Phyllosticta solitaria* Ell. & Ev. è stato riscontrato sui vegetali nel luogo di produzione dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>45. Vegetali destinati alla piantagione di *Cydonia* Mill., *Fragaria* L., *Malus* Mill., *Prunus* L., *Pyrus* L., *Ribes* L., *Rubus* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.2011 ex 0602.2019 ex 0602.2021 ex 0602.2029 ex 0602.2031 ex 0602.2029 ex 0602.2041 ex 0602.2049 ex 0602.2051 ex 0602.2059 ex 0602.2071 ex 0602.2072 ex 0602.2079 ex 0602.2081 ex 0602.2082 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi in cui virus, viroidi e fitoplasmi non europei o *Phyllosticta solitaria* Ell. & Ev. sono notoriamente presenti sui vegetali dei generi in questione</td><td>Dichiarazione ufficiale che nessun sintomo di una malattia causata da virus, viroidi e fitoplasmi non europei e *Phyllosticta solitaria* Ell. & Ev. è stato riscontrato sui vegetali nel luogo di produzione dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>46. Vegetali destinati alla piantagione di *Malus* Mill., escluse le sementi</td><td>ex 0602.1000 ex 0602.2011 ex 0602.2019 ex 0602.2021 ex 0602.2029 ex 0602.2071 ex 0602.2081 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi in cui Cherry rasp leaf virus o Tomato ringspot virus sono notoriamente presenti</td><td>Dichiarazione ufficiale che: a. i vegetali: i. hanno ottenuto certificati ufficiali nell’ambito di un sistema di certificazione che richiede che essi provengano in linea diretta da materiale conservato in condizioni adeguate, sottoposto ad analisi ufficiali per individuare la presenza di, almeno, Cherry rasp leaf virus e Tomato ringspot virus, effettuate avvalendosi di indicatori appropriati o di metodi equivalenti e risultati indenni, in seguito a tali analisi, dai suddetti organismi nocivi, oppure ii. provengono in linea diretta da materiale conservato in condizioni adeguate e sottoposto, negli ultimi 3 cicli vegetativi completi, ad almeno un’analisi ufficiale per individuare la presenza di, almeno, Cherry rasp leaf virus e Tomato ringspot virus, effettuata avvalendosi di indicatori appropriati o di metodi equivalenti e risultati indenni, in seguito a tale analisi, dai suddetti organismi nocivi; b. dall’inizio dell’ultimo ciclo vegetativo completo nessun sintomo di una malattia causata da Cherry rasp leaf virus o Tomato ringspot virus è stato riscontrato sui vegetali nel luogo di produzione né su vegetali sensibili nelle immediate vicinanze.</td></tr>
+<tr><td>47. Vegetali destinati alla piantagione di *Prunus* L., escluse le sementi nel caso di cui alla lettera b</td><td>ex 0602.1000 ex 0602.2031 ex 0602.2039 ex 0602.2041 ex 0602.2049 ex 0602.2072 ex 0602.2082 ex 0602.9091 ex 0602.9099 ex 1209.9999</td><td>a. Tutti gli Stati terzi in cui il Tomato ringspot virus è notoriamente presente b. Tutti gli Stati terzi in cui American plum line pattern virus, Cherry rasp leaf virus, Peach mosaic virus, Peach rosette mosaic virus sono notoriamente presenti</td><td>Dichiarazione ufficiale che: a. i vegetali: i. hanno ottenuto certificati ufficiali nell’ambito di un sistema di certificazione che richiede che essi provengano in linea diretta da materiale conservato in condizioni adeguate, sottoposto ad almeno un’analisi ufficiale per individuare la presenza degli organismi nocivi da quarantena rilevanti, effettuata avvalendosi di indicatori appropriati a rilevare la presenza di detti organismi nocivi o di metodi equivalenti e risultati indenni, in seguito a tali analisi, dai suddetti organismi nocivi, oppure ii. provengono in linea diretta da materiale conservato in condizioni adeguate e sottoposto, negli ultimi 3 cicli vegetativi completi, ad almeno un’analisi ufficiale riguardante gli organismi nocivi da quarantena rilevanti, effettuata avvalendosi di indicatori appropriati a rilevare la presenza di detti organismi nocivi o di metodi equivalenti e risultati indenni, in seguito a tali analisi, dai suddetti organismi nocivi da quarantena; b. dall’inizio dei 3 ultimi cicli vegetativi completi nessun sintomo di una malattia causata dagli organismi nocivi da quarantena rilevanti è stato riscontrato sui vegetali nel luogo di produzione né su vegetali sensibili nelle immediate vicinanze.</td></tr>
+<tr><td>48. Vegetali destinati alla piantagione di *Rubus* L., escluse le sementi nel caso di cui alla lettera b</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9091 ex 0602.9099 ex 1202.9999</td><td>a. Tutti gli Stati terzi in cui Tomato ringspot virus e Black raspberry latent virus sono notoriamente presenti, b. Tutti gli Stati terzi in cui Raspberry leaf curl virus e Cherry rasp leaf virus sono notoriamente presenti</td><td>a. I vegetali sono indenni da afidi e da loro uova; b. dichiarazione ufficiale che: i. i vegetali: – hanno ottenuto certificati ufficiali nell’ambito di un sistema di certificazione che richiede che essi provengano in linea diretta da materiale conservato in condizioni adeguate, sottoposto ad almeno un’analisi ufficiale per individuare la presenza degli organismi nocivi da quarantena rilevanti, effettuata avvalendosi di indicatori appropriati a rilevare la presenza di detti organismi nocivi o di metodi equivalenti e risultati indenni, in seguito a tali analisi, dai suddetti organismi nocivi da quarantena, oppure – provengono in linea diretta da materiale conservato in condizioni adeguate e sottoposto, negli ultimi 3 cicli vegetativi completi, ad almeno un’analisi ufficiale riguardante gli organismi nocivi da quarantena rilevanti, effettuata avvalendosi di indicatori appropriati a rilevare la presenza di detti organismi nocivi o di metodi equivalenti e risultati indenni, in seguito a tali analisi, dai suddetti organismi nocivi da quarantena; ii. dall’inizio degli ultimi 3 cicli vegetativi completi nessun sintomo di una malattia causata dagli organismi nocivi da quarantena rilevanti è stato riscontrato sui vegetali nel luogo di produzione né su vegetali sensibili nelle immediate vicinanze.</td></tr>
+<tr><td>49. Vegetali destinati alla piantagione di *Fragaria* L., escluse le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.9019</td><td>Tutti gli Stati terzi in cui Strawberry witches’ broom phytoplasma è notoriamente presente</td><td>Dichiarazione ufficiale che: a. i vegetali, esclusi quelli generati da semi: i. hanno ottenuto certificati ufficiali nell’ambito di un sistema di certificazione che richiede che essi provengano in linea diretta da materiale conservato in condizioni adeguate, sottoposto ad analisi ufficiali per il rilevamento di, almeno, Strawberry witches’ broom phytoplasma, effettuate avvalendosi di indicatori appropriati a rilevare la presenza di detti organismi nocivi o di metodi equivalenti e risultati indenni, in seguito a tali analisi, da Strawberry witches’ broom phytoplasma, oppure ii. provengono in linea diretta da materiale conservato in condizioni adeguate e sottoposto, negli ultimi 3 cicli vegetativi completi, ad almeno un’analisi ufficiale riguardante almeno Strawberry witches’ broom phytoplasma, effettuata avvalendosi di indicatori appropriati a rilevare la presenza di detti organismi nocivi o di metodi equivalenti e risultati indenni, in seguito a tali analisi, da Strawberry witches’ broom phytoplasma; b. dall’inizio dell’ultimo ciclo vegetativo completo nessun sintomo di una malattia causata da Strawberry witches’ broom phytoplasma è stato riscontrato sui vegetali nel luogo di produzione né su vegetali sensibili nelle immediate vicinanze.</td></tr>
+<tr><td>50. Vegetali destinati alla piantagione di *Fragaria* L., eccetto le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.9019</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali provengono da un’area notoriamente indenne da *Anthonomus signatus* Say e da *Anthonomus bisignifer* Schenkling.</td></tr>
+<tr><td>51. Vegetali di *Aegle* Corrêa, *Aeglopsis* Swingle, *Afraegle* Engl, *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Clausena* Burm. F., *Limonia* L., *Microcitrus* Swingle., *Murraya* J. Koenig ex L., *Pamburus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour. E *Vepris* Comm., esclusi i frutti (ma comprese le sementi); e sementi di *Citrus* L., *Fortunella* Swingle e *Poncirus* Raf., e relativi ibridi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0603.1931 ex 0603.1938 ex 0604.2029 ex 0604.2090 ex 1209.3000 ex 1209.9991 ex 1209.9999 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali provengono da un Paese riconosciuto indenne da *Candidatus* Liberibacter africanus, *Candidatus* Liberibacter americanus e *Candidatus* Liberibacter asiaticus, agenti causali di Huanglongbing disease of citrus/citrus greening, conformemente alle pertinenti norme internazionali per le misure fitosanitarie, a condizione che tale status sia stato comunicato all’UFAG o alla Commissione Europea,in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>52. Vegetali di *Casimiroa* La Llave, *Choisya* Kunth *Clausena* Burm. F., *Murraya* J.Koenig ex L., *Vepris* Comm, *Zanthoxylum* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0603.1931 ex 0603.1338 ex 0604.2029 ex 0604.2090 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da un Paese notoriamente indenne da *Trioza erytreae* Del Guercio; oppure b. i vegetali provengono da un’area indenne da *Trioza erytreae* Del Guercio, istituita dall’organizzazione nazionale per la protezione dei vegetali conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure c. i vegetali sono stati coltivati in un luogo di produzione registrato e sorvegliato dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine, e in cui i vegetali sono stati coltivati durante un periodo di un anno, in un sito di produzione a prova di insetto per impedire l’introduzione di *Trioza erytreae* Del Guercio, e in cui, durante un periodo di almeno un anno prima dello spostamento, sono stati effettuati 2 controlli ufficiali in periodi opportuni e non sono stati riscontrati indizi di *Trioza erytreae* Del Guercio, e prima dello spostamento sono manipolati e confezionati in modo da prevenire un’infestazione una *volta* lasciato il luogo di produzione.</td></tr>
+<tr><td>53. Vegetali di *Aegle* Corrêa, *Aeglopsis* Swingle, *Afraegle* Engl., *Amyris* P. Browne, *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Choisya* Kunth, *Citropsis* Swingle & Kellerman, *Clausena* Burm. F., *Eremocitrus* Swingle, *Esenbeckia* Kunth., *Glycosmis* Corrêa, *Limonia* L., *Merrillia* Swingle, *Microcitrus* Swingle, *Murraya* J. Koenig ex L., *Naringi* Adans., *Pamburus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Tetradium* Lour., *Toddalia* Juss., *Triphasia* Lour., *Vepris* Comm., *Zanthoxylum* L., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0603.1931 ex 0603.1938 ex 0604.2029 ex 0604.2090 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali provengono da: a. un Paese notoriamente indenne da *Diaphorina citri* Kuway; oppure b. un’area indenne da *Diaphorina citri* Kuway, istituita dall’organizzazione nazionale per la protezione dei vegetali conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare».</td></tr>
+<tr><td>54. Vegetali di *Microcitrus* Swingle, *Naringi* Adans. E *Swinglea* Merr., esclusi i frutti e le sementi</td><td>ex 0602.1000 ex 0602.2051 ex 0602.2059 ex 0602.2079 ex 0602.2089 ex 0602.9019 ex 0602.9091 ex 0602.9099 ex 0603.1931 ex 0603.1938 ex 0602.2029 ex 0604.2090 ex 1404.9080</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i vegetali provengono da: a. un Paese riconosciuto indenne da *Xanthomonas citri* pv. *aurantifolii* (Schaad et al.) Constantin *et al*. e *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al*. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, a condizione che tale status sia stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Xanthomonas citri* pv. *aurantifolii* (Schaad et al.) Constantin *et al*. e *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al*. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», a condizione che tale status sia stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>55. Vegetali destinati alla piantagione di *Palmae*, escluse le sementi</td><td>ex 0602.1000 ex 0602.9019 ex 0602.9091 ex 0602.9099</td><td>Tutti gli Stati terzi, esclusi: Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Isole Canarie, Isole Färöer, Islanda, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)), San Marino, Serbia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da un’area notoriamente indenne da Palm lethal yellowing phytoplasmas e da Coconut cadang-cadang viroid, e che nessun sintomo è stato riscontrato nel luogo di produzione o nelle sue immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo; oppure b. nessun sintomo di Palm lethal yellowing phytoplasmas e di Coconut cadang-cadang viroid è stato riscontrato sui vegetali dall’inizio dell’ultimo ciclo vegetativo completo, che si è provveduto a rimuovere i vegetali del luogo di produzione che hanno mostrato sintomi tali da far sospettare un’infestazione dagli organismi nocivi, e che i vegetali sono stati sottoposti a un trattamento idoneo atto a eradicare *Myndus crudus* Van Duzee; c. nel caso di vegetali in coltura tessutale, che i vegetali derivano da materiale che adempie le condizioni di cui alle lettere a o b.</td></tr>
+<tr><td>56. Vegetali di Cryptocoryne sp., Hygrophila sp. E Vallisneria sp.</td><td>ex 0602.1000 ex 0602.9091 ex 0602.9099 ex 0604.2090</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che le radici sono state sottoposte ad analisi riguardanti almeno i nematodi, su un campione rappresentativo, utilizzando metodi adeguati per la rilevazione degli organismi nocivi e che, in seguito a tali analisi, sono risultate indenni dai nematodi.</td></tr>
+<tr><td>57. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., e relativi ibridi</td><td>ex 0805.1000 ex 0805.2100 ex 0805.2200 ex 0805.2900 ex 0805.4000 ex 0805.5000 ex 0805.9000</td><td>Tutti gli Stati terzi</td><td>I frutti sono privi di peduncoli e foglie e l’imballaggio reca un adeguato marchio di origine.</td></tr>
+<tr><td>58. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., *Microcitrus* Swingle, *Naringi* Adans., *Swinglea* Merr., e relativi ibridi</td><td>ex 0805.1000 ex 0805.2100 ex 0805.2200 ex 0805.2900 ex 0805.4000 ex 0805.5000 ex 0805.9000</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i frutti provengono da un Paese riconosciuto indenne da *Xanthomonas citri* pv. *aurantifolii* (Schaad et al.) Constantin *et al*. e *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al*. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. i frutti provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Xanthomonas* *citri* pv. *aurantifolii* (Schaad *et al*.) Constantin *et al*. e *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al*. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. i frutti provengono da un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Xanthomonas citri* pv. *aurantifolii* (Schaad *et al*.) Constantin *et al*. e *Xanthomonas* *citri* pv. *citri* (Hasse) Constantin *et al*. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure d. il sito di produzione e le immediate vicinanze sono sottoposti a trattamenti e pratiche agricole appropriati per contrastare *Xanthomonas citri* pv. *aurantifolii* (Schaad *et al*.) Constantin *et al*. E *Xanthomonas citri* pv. *Citri* (Hasse) Constantin *et al.*, e i frutti sono stati sottoposti a un trattamento a base di ortofenilfenato di sodio o a un altro trattamento efficace menzionato nel certificato fitosanitario, e il metodo di trattamento è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato, e i controlli ufficiali effettuati in periodi opportuni prima dell’esportazione hanno dimostrato che i frutti sono indenni da sintomi di *Xanthomonas citri* pv. *aurantifolii* (Schaad *et al*.) Constantin *et al*. e *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al.*, e nel certificato fitosanitario figurano informazioni sulla tracciabilità;$ oppure e. nel caso di frutti destinati alla trasformazione industriale, i controlli ufficiali effettuati prima dell’esportazione hanno dimostrato che i frutti sono indenni da sintomi di *Xanthomonas citri* pv. *aurantifolii* (Schaad *et al.*) Constantin *et al.* e *Xanthomonas citri* pv. *citri* (Hasse) Constantin *et al.*, e il sito di produzione e le immediate vicinanze sono soggetti a trattamenti e pratiche agricole appropriati per contrastare *Xanthomonas citri* pv. *aurantifolii* (Schaad *et al.*) Constantin *et al.* E *Xanthomonas citri* pv. *Citri* (Hasse) Constantin *et al.*, e lo spostamento, l’immagazzinamento e la trasformazione dei frutti avvengono secondo condizioni approvate dall’UFAG o dalla Commissione Europea, e i frutti sono stati trasportati in singoli imballaggi muniti di un’etichetta recante un codice di tracciabilità e l’indicazione che sono destinati alla trasformazione industriale, e nel certificato fitosanitario figurano informazioni sulla tracciabilità.</td></tr>
+<tr><td>59. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., e relativi ibridi</td><td>ex 0805.1000 ex 0805.2100 ex 0805.2200 ex 0805.2900 ex 0805.4000 ex 0805.5000 ex 0805.9000</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i frutti provengono da un Paese riconosciuto indenne da *Pseudocercospora angolensis* (T. Carvalho & O. Mendes) Crous & U. Braun conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. i frutti provengono da un’area riconosciuta indenne da *Pseudocercospora* *angolensis* (T. Carvalho & O. Mendes) Crous & U. Braun conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. non è stato riscontrato alcun sintomo di *Pseudocercospora angolensis* (T. Carvalho & O. Mendes) Crous & U. Braun nel sito di produzione e nelle immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo, e nessuno dei frutti raccolti nel sito di produzione ha evidenziato, nel corso di un’adeguata ispezione ufficiale, sintomi di detto organismo nocivo.</td></tr>
+<tr><td>60. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. E relativi ibridi, esclusi i frutti di *Citrus* *aurantium* L. e *Citrus* *latifolia* Tanaka</td><td>ex 0805.1000 ex 0805.2100 ex 0805.2200 ex 0805.2900 ex 0805.4000 ex 0805.5000 ex 0805.9000</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i frutti provengono da un Paese riconosciuto indenne da *Phyllosticta citricarpa* (McAlpine) Van der Aa conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. i frutti provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Phyllosticta citricarpa* (McAlpine) Van der Aa conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. i frutti provengono da un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Phyllosticta citricarpa* (McAlpine) Van der Aa conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e i frutti sono risultati indenni da sintomi di *Phyllosticta citricarpa* (McAlpine) Van der Aa nel corso di un controllo ufficiale di un campione rappresentativo, definito nel rispetto delle norme internazionali; oppure d. i frutti provengono da un sito di produzione sottoposto a trattamenti e pratiche agricole appropriate per contrastare *Phyllosticta citricarpa* (McAlpine) Van der Aa, e sono stati effettuati controlli ufficiali nel sito di produzione durante il ciclo vegetativo dall’inizio dell’ultimo ciclo vegetativo e nei frutti non è stato riscontrato alcun sintomo di *Phyllosticta citricarpa* (McAlpine) Van der Aa, e i frutti raccolti in tale sito di produzione sono risultati indenni da sintomi di *Phyllosticta citricarpa* (McAlpine) Van der Aa nel corso di un controllo ufficiale precedente l’esportazione, effettuato su un campione rappresentativo, definito nel rispetto delle norme internazionali, e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure e. nel caso di frutti destinati alla trasformazione industriale, i frutti sono risultati indenni da sintomi di *Phyllosticta citricarpa* (McAlpine) Van der Aa prima dell’esportazione nel corso di un controllo ufficiale effettuato su un campione rappresentativo, definito nel rispetto delle norme internazionali e una dichiarazione che i frutti provengono da un sito di produzione sottoposto a trattamenti adeguati per contrastare *Phyllosticta citricarpa* (McAlpine) Van der Aa, eseguiti nel periodo dell’anno opportuno per individuare la presenza dell’organismo nocivo in questione, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e lo spostamento, l’immagazzinamento e la trasformazione dei frutti avvengono secondo condizioni approvate dall’UFAG o dalla Commissione Europea, e i frutti sono stati trasportati in singoli imballaggi muniti di un’etichetta recante un codice di tracciabilità e l’indicazione che sono destinati alla trasformazione industriale, e nel certificato fitosanitario figurano informazioni sulla tracciabilità.</td></tr>
+<tr><td>61. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., e relativi ibridi, *Mangifera* L. e *Prunus* L.</td><td>ex 0804.5000 ex 0805.1000 ex 0805.2100 ex 0805.2200 ex 0805.2900 ex 0805.4000 ex 0805.5000 ex 0805.9000 0809.10 0809.21 0809.29 0809.3010 0809.3020 0809.40</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. i frutti provengono da un Paese riconosciuto indenne da Tephritidae (non europee), a cui tali frutti sono notoriamente sensibili, conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. i frutti provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da Tephritidae (non europee), a cui tali frutti sono notoriamente sensibili, conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. nessun indizio della presenza di Tephritidae (non europee), a cui tali frutti sono notoriamente sensibili, è stato riscontrato nel luogo di produzione e nelle sue immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo, nel corso di controlli ufficiali effettuati almeno una volta al mese nei 3 mesi precedenti la raccolta, e nessuno dei frutti raccolti nel luogo di produzione ha evidenziato, nel corso di un’adeguata ispezione ufficiale, indizi della presenza di detto organismo nocivo e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure d. i frutti sono stati oggetto di un approccio sistemico efficace o di un trattamento efficace successivo alla raccolta per garantire l’assenza di Tephritidae (non europee), a cui tali frutti sono notoriamente sensibili, menzionato nel certificato fitosanitario, e l’approccio sistemico o il metodo di trattamento è stato comunicato all’UFAG o alla Commissione Europea , in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>62. Frutti di *Capsicum* (L.), *Citrus* L., eccetto *Citrus limon* (L.) Osbeck. E *Citrus* *aurantiifolia* (Christm.) Swingle, *Prunus persica* (L.) Batsch e *Punica granatum* L.</td><td>0709.6011 0709.6012 0709.6090 ex 0805.1000 ex 0805.2100 ex 0805.2200 ex 0805.2900 ex 0805.4000 ex 0805.5000 ex 0805.9000 0809.3010 0809.3020 ex 0810.9098</td><td>Tutti gli stati del continente africano, Capo Verde, Sant’Elena, Madagascar, Riunione, Mauritius e Israele</td><td>Dichiarazione ufficiale che i frutti: a. provengono da un Paese riconosciuto indenne da *Thaumatotibia leucotreta* (Meyrick) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Thaumatotibia leucotreta* (Meyrick) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. provengono da un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Thaumatotibia leucotreta* (Meyrick) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e nel certificato fitosanitario figurano informazioni sulla tracciabilità, e sono stati effettuati controlli ufficiali nel luogo di produzione in periodi opportuni durante il ciclo vegetativo, compreso un controllo visivo su campioni rappresentativi di frutti, risultati indenni da *Thaumatotibia leucotreta* (Meyrick); oppure d. sono stati sottoposti a un trattamento a freddo efficace per garantire che siano indenni da *Thaumatotibia leucotreta* (Meyrick) o sono stati oggetto di un approccio sistemico efficace o di un altro trattamento efficace successivo alla raccolta per garantire l’assenza di *Thaumatotibia leucotreta* (Meyrick), menzionato nel certificato fitosanitario, e l’approccio sistemico o il metodo di trattamento successivo alla raccolta, unitamente alle analisi documentali della sua efficacia, è stato comunicato all’UFAG o alla Commissione Europea , in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>63. Frutti di *Malus* Mill., *Prunus* L., *Pyrus* L. e *Vaccinium* L.</td><td>0808.10 0808.30 0809.10 0809.21 0809.29 0809.30 0809.40 0810.40</td><td>Canada, Messico e Stati Uniti d’America</td><td>Dichiarazione ufficiale che i frutti: a. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali nel Paese di origine ha riconosciuto indenne da *Grapholita packardi* Zeller conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. provengono da un luogo di produzione in cui sono effettuate, in periodi opportuni durante il ciclo vegetativo, controlli e indagini ufficiali per rilevare l’eventuale presenza di *Grapholita packardi* Zeller, compreso un controllo su un campione rappresentativo di frutti, risultati indenni da tale organismo nocivo, e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure c. sono stati oggetto di un approccio sistemico efficace o di un trattamento efficace successivo alla raccolta per garantire l’assenza di *Grapholita packardi* Zeller, menzionato nel certificato fitosanitario, e l’approccio sistemico o il metodo di trattamento successivo alla raccolta è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>64. Frutti di *Malus* Mill. E *Pyrus* L.</td><td>0808.10 0808.30</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti: a. provengono da un Paese riconosciuto indenne da *Botryosphaeria kuwatsukai* (Hara) G.Y. Sun & E. Tanaka conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Botryosphaeria kuwatsukai* (Hara) G.Y. Sun & E.Tanaka conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. provengono da un luogo di produzione in cui sono effettuati, in periodi opportuni durante il ciclo vegetativo, controlli e indagini ufficiali per rilevare l’eventuale presenza di *Botryosphaeria kuwatsukai* (Hara) G.Y. Sun & E. Tanaka, compreso un controllo visivo di un campione rappresentativo di frutti, risultati indenni da tale organismo nocivo, e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure d. sono stati oggetto di un approccio sistemico efficace o di un trattamento efficace successivo alla raccolta per garantire l’assenza di *Botryosphaeria kuwatsukai* (Hara) G.Y. Sun & E.Tanaka, menzionato nel certificato fitosanitario, e l’approccio sistemico o il metodo di trattamento successivo alla raccolta è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>65. Frutti di *Malus* Mill. E *Pyrus* L.</td><td>0808.10 0808.30</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti: a. provengono da un Paese riconosciuto indenne da *Anthonomus quadrigibbus* Say conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali nel Paese di origine ha riconosciuto indenne da *Anthonomus quadrigibbus* Say conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. provengono da un luogo di produzione in cui sono effettuati, in periodi opportuni durante il ciclo vegetativo, controlli e indagini ufficiali per rilevare l’eventuale presenza di *Anthonomus quadrigibbus* Say, compreso un controllo visivo su un campione rappresentativo di frutti, risultati indenni da tale organismo nocivo, e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure d. sono stati oggetto di un approccio sistemico efficace o di un trattamento efficace successivo alla raccolta per garantire l’assenza di *Anthonomus quadrigibbus* Say, menzionato nel certificato fitosanitario, e l’approccio sistemico o il metodo di trattamento successivo alla raccolta è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>66. Frutti di *Malus* Mill.</td><td>0808.10</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti: a. provengono da un Paese riconosciuto indenne da *Grapholita prunivora* (Walsh), *Grapholita inopinata* (Heinrich) e *Rhagoletis pomonella* (Walsh) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali nel Paese di origine ha riconosciuto indenne da *Grapholita prunivora* (Walsh), *Grapholita inopinata* (Heinrich) e *Rhagoletis pomonella* (Walsh) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. provengono da un luogo di produzione in cui sono effettuati, in periodi opportuni durante il ciclo vegetativo per individuare la presenza dell’organismo nocivo o degli organismi nocivi, controlli e indagini ufficiali per rilevare l’eventuale presenza di *Grapholita prunivora* (Walsh), *Grapholita inopinata* (Heinrich) e *Rhagoletis pomonella* (Walsh), compreso un controllo visivo su un campione rappresentativo di frutti, risultati indenni da tale organismo nocivo o da tali organismi nocivi, e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure d. sono stati oggetto di un approccio sistemico efficace o di un trattamento efficace successivo alla raccolta per garantire l’assenza di *Grapholita prunivora* (Walsh), *Grapholita inopinata* (Heinrich) e *Rhagoletis pomonella* (Walsh), menzionato nel certificato, e l’approccio sistemico o il metodo di trattamento successivo alla raccolta è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>67. Frutti di Solanaceae</td><td>0702.00 0709.30 0709.60 ex 0709.9999</td><td>Australia, Nuova Zelanda e tutti gli stati del continente americano</td><td>Dichiarazione ufficiale che i frutti provengono da: a. un Paese riconosciuto indenne da *Bactericera cockerelli* (Sulc.) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Bactericera cockerelli* (Sulc.) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. un luogo di produzione in cui sono effettuati, anche nelle immediate vicinanze, controlli e indagini ufficiali per rilevare l’eventuale presenza di *Bactericera* *cockerelli* (Sulc.) nei 3 mesi precedenti l’esportazione e sottoposto a efficaci trattamenti per garantire che sia indenne da tale organismo nocivo, e campioni rappresentativi di frutti sono stati controllati prima dell’esportazione, e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure d. un sito di produzione a prova di insetto che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Bactericera cockerelli* (Sulc.) in base a controlli e indagini ufficiali effettuati nei 3 mesi precedenti l’esportazione, e nel certificato fitosanitario figurano informazioni sulla tracciabilità.</td></tr>
+<tr><td>68. Frutti di *Capsicum annuum* L., *Solanum aethiopicum* L., *Solanum lycopersicum* L. e *Solanum melongena* L.</td><td>0702.00 0709.30 ex 0709.6011 ex 0709.6012 ex 0709.6090 ex 0709.9999</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti provengono da: a. un Paese riconosciuto indenne da *Neoleucinodes elegantalis* (Guenée) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Neoleucinodes elegantalis* (Guenée) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare», e tale status è stato comunicato all’UFAG o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure c. un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Neoleucinodes elegantalis* (Guenée) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, e sono stati effettuati controlli ufficiali per individuare la presenza di tale organismo nocivo nel luogo di produzione, in periodi opportuni durante il ciclo vegetativo, compreso un esame su campioni rappresentativi di frutti, risultati indenni da *Neoleucinodes elegantalis* (Guenée), e nel certificato fitosanitario figurano informazioni sulla tracciabilità; oppure d. un sito di produzione a prova di insetto che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Neoleucinodes elegantalis* (Guenée) in base a controlli e indagini ufficiali effettuati nei 3 mesi precedenti l’esportazione, e nel certificato fitosanitario figurano informazioni sulla tracciabilità.</td></tr>
+<tr><td>69. Frutti di *Solanum lycopersicum* L. e *Solanum melongena* L.</td><td>0702.00 0709.30</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti provengono da: a. un Paese riconosciuto indenne da *Keiferia lycopersicella* (Walsingham) conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Keiferia lycopersicella* (Walsingham) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure c. un luogo di produzione che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Keiferia lycopersicella* (Walsingham) in base a controlli e indagini ufficiali effettuati nei 3 mesi precedenti l’esportazione, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare».</td></tr>
+<tr><td>70. Frutti di *Solanum* *melongena* L.</td><td>0709.30</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti: a. provengono da un Paese indenne da *Thrips palmi* Karny conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. provengono da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Thrips palmi* Karny conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure c. immediatamente prima dell’esportazione sono stati sottoposti a un controllo ufficiale e risultati indenni da *Thrips palmi* Karny.</td></tr>
+<tr><td>71. Frutti di *Momordica* L.</td><td>ex 0709.9999</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che i frutti provengono da: a. un Paese indenne da *Thrips palmi* Karny conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Thrips palmi* Karny conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare».</td></tr>
+<tr><td>72. Frutti di *Capsicum* L.</td><td>0709.60</td><td>Belize, Costa Rica, El Salvador, Giamaica, Guatemala, Honduras, Messico, Nicaragua, Panama, Polinesia francese, Portorico, Repubblica dominicana e Stati Uniti d’America, Stati in cui *Anthonomus eugenii* Cano è notoriamente presente</td><td>Dichiarazione ufficiale che i frutti provengono da: a. un’area indenne da *Anthonomus eugenii* Cano, istituita dall’organizzazione nazionale per la protezione dei vegetali conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. un luogo di produzione che l’organizzazione nazionale competente per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Anthonomus eugenii* Cano conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionato nel certificato fitosanitario alla rubrica «Dichiarazione supplementare» e dichiarato indenne da *Anthonomus eugenii* Cano in seguito a controlli ufficiali effettuati almeno mensilmente nei 2 mesi precedenti l’esportazione, nel luogo di produzione e nelle sue immediate vicinanze.</td></tr>
+<tr><td>73. Sementi di *Zea mays* L.</td><td>1005.1000</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che: a. le sementi provengono da aree notoriamente indenni da *Pantoea stewartii* subsp. *stewartii* (Smith) Mergaert, Verdonck & Kersters; oppure b. un campione rappresentativo delle sementi è stato sottoposto ad analisi durante le quali è risultato indenne da *Pantoea stewartii* subsp. *stewartii* (Smith) Mergaert, Verdonck & Kosters.</td></tr>
+<tr><td>74. Sementi dei generi *Triticum* L., *Secale* L. e *xTriticosecale* Wittm. ex A. Camus</td><td>1001.1100 1001.9100 1002.1000 1008.6010</td><td>Afghanistan, India, Iran, Iraq, Messico, Nepal, Pakistan, Stati Uniti d’America e Sudafrica, in cui *Tilletia* *indica* Mitra è notoriamente presente</td><td>Dichiarazione ufficiale che le sementi provengono da un’area in cui *Tilletia* *indica* Mitra è notoriamente assente. Il nome dell’area è indicato nel certificato fitosanitario alla rubrica «Luogo di origine».</td></tr>
+<tr><td>75. Semi dei generi *Triticum* L., *Secale* L. e *xTriticosecale* Wittm. ex A. Camus</td><td>1001.19 1001.99 1002.9000 ex 1008.6000</td><td>Afghanistan, India, Iran, Iraq, Messico, Nepal, Pakistan, Stati Uniti d’America e Sudafrica, in cui *Tilletia* *indica* Mitra è notoriamente presente</td><td>Dichiarazione ufficiale che: a. i semi provengono da un’area notoriamente indenne da *Tilletia indica* Mitra. Il nome dell’area o delle aree è indicato nel certificato fitosanitario alla rubrica «Luogo di origine»; oppure b. nessun sintomo di *Tilletia indica* Mitra è stato riscontrato sui vegetali nel luogo di produzione durante l’ultimo ciclo vegetativo completo e sono stati prelevati campioni rappresentativi dei semi sia al momento della raccolta sia prima della spedizione, sono stati sottoposti ad analisi e sono risultati indenni da *Tilletia indica* Mitra; le suddette informazioni sono menzionate nel certificato fitosanitario alla rubrica «Nome del prodotto» con la dicitura «sottoposti ad analisi e risultati indenni da *Tilletia indica* Mitra».</td></tr>
+<tr><td>76. Legname di conifere (Pinales), escluso quello di *Thuja* L. e *Taxus* L., escluso il legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da dette conifere, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, – legname di *Libocedrus* *decurrens* Torr., laddove sia provato che il legname è stato trattato o lavorato per la produzione di matite mediante trattamento termico durante il quale è stata raggiunta una temperatura minima di 82 °C per un periodo di 7–8 giorni, [tab] ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1100 ex 4403.1100 4403.2100 4403.2200 4403.2300 4403.2400 ex 4403.2500 ex 4403.2600 ex 4404.1000 ex 4406.1100 ex 4406.9100 4407.1110 4407.1190 4407.1210 4407.1290 ex 4407.1910 ex 4407.1990 ex 4408.1000 ex 4416.0000 ex 9406.1000</td><td>Canada, Cina, Giappone, Kanada, Messico, Repubblica di Corea, Stati Uniti d’America e Taiwan, in cui *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle *et al*. è notoriamente presente</td><td>Dichiarazione ufficiale che il legname è stato sottoposto a: a. un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, indicato dal marchio «HT» sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario, e dichiarazione ufficiale che, dopo il trattamento, il legname è stato trasportato fino a lasciare il Paese che rilascia tale dichiarazione al di fuori della stagione di volo del vettore *Monochamus*, tenendo conto di un margine di sicurezza di altre 4 settimane all’inizio e alla fine della stagione di volo prevista o, tranne nel caso del legname scortecciato, con un rivestimento protettivo che impedisce l’infestazione da parte di *Bursaphelenchus xylophilus* (Steiner e Bührer) Nickle *et al*. o del suo vettore; oppure b. un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione; oppure c. un’idonea impregnazione chimica sotto pressione utilizzando un prodotto approvato dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la pressione (psi o kPa) e la concentrazione (%); oppure d. un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, e ad essiccazione in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto unitamente al marchio «HT», apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario.</td></tr>
+<tr><td>77. Legname di conifere (Pinales) in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da dette conifere</td><td>4401.2100 ex 4401.4000</td><td>Canada, Cina, Giappone, Messico, Repubblica di Corea, Stati Uniti d’America e Taiwan, in cui *Bursaphelenchus xylophilus* (Steiner e Bührer) Nickle *et al*. è notoriamente presente</td><td>Dichiarazione ufficiale che il legname è stato sottoposto a: a. un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, menzionato nel certificato fitosanitario, e dichiarazione ufficiale che, dopo il trattamento, il legname è stato trasportato fino a lasciare il Paese che rilascia tale dichiarazione al di fuori della stagione di volo del vettore *Monochamus*, tenendo conto di un margine di sicurezza di altre 4 settimane all’inizio e alla fine della stagione di volo prevista o, tranne nel caso del legname scortecciato, con un rivestimento protettivo che impedisce l’infestazione da parte del *Bursaphelenchus* *xylophilus* (Steiner e Bührer) Nickle *et al*. o del suo vettore; oppure b. un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nei certificati fitosanitari menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure c. un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, e a essiccazione in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto unitamente al marchio «HT», apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario.</td></tr>
+<tr><td>78. Legname di *Thuja* L. e *Taxus* L., escluso il legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da dette conifere, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1100 ex 4403.1100 ex 4403.2500 ex 4403.2600 ex 4404.1000 ex 4406.1100 ex 4406.9100 ex 4407.1910 ex 4407.1990 ex 4408.1000 ex 4416.0000 ex 9406.1000</td><td>Canada, Cina, Giappone, Messico, Repubblica di Corea, Stati Uniti d’America e Taiwan, in cui *Bursaphelenchus xylophilus* (Steiner e Bührer) Nickle *et* *al*. è notoriamente presente</td><td>Dichiarazione ufficiale che il legname: a. è scortecciato; oppure b. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti; oppure c. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, indicato dal marchio «HT» sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario; oppure d. è stato sottoposto a un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure e. è stato sottoposto a un’idonea impregnazione chimica sotto pressione utilizzando un prodotto approvato dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la pressione (psi o kPa) e la concentrazione (%).</td></tr>
+<tr><td>79. Legname di conifere (Pinales), escluso legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da dette conifere, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, effettivamente utilizzati o non utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>4401.1100 4403.1100 4403.2100 4403.2200 4403.2300 4403.2400 4403.2500 4403.2600 4404.1000 4406.1100 4406.9100 4407.1110 4407.1190 4407.1210 4407.1290 4407.1910 4407.1990 4408.1000 ex 4416.00.00 ex 9406.1000</td><td>Kazakhstan, Russia e Turchia</td><td>Dichiarazione ufficiale che il legname: a. proviene da aree notoriamente indenni da: i. *Monochamus* spp. (popolazioni non europee), ii. Pissodes cibriani O’Brien, Pissodes fasciatus Leconte, Pissodes nemorensis Germar, Pissodes nitidus Roelofs, Pissodes punctatus Langor & Zhang, Pissodes strobi (Peck), Pissodes terminalis Hopping, Pissodes yunnanensis Langor & Zhang e Pissodes zitacuarense Sleeper, iii. *Scolytidae* spp. (specie non europee), e indicate nel certificato fitosanitario alla rubrica «Luogo di origine»; oppure b. è scortecciato e privo di perforazioni provocate da insetti del genere *Monochamus* spp. (popolazioni non europee), in quest’ambito considerate se di diametro superiore a 3 mm; oppure c. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti; oppure d. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, indicato dal marchio «HT» sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario; oppure e. è stato sottoposto a un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure f. è stato sottoposto a un’idonea impregnazione chimica sotto pressione utilizzando un prodotto approvato dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la pressione (psi o kPa) e la concentrazione (%).</td></tr>
+<tr><td>80. Legname di conifere (Pinales), escluso legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da dette conifere, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, effettivamente utilizzati o non utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>4401.1100 4403.1100 4403.2100 4403.2200 4403.2300 4403.2400 4403.2500 4403.2600 4404.1000 4406.1100 4406.9100 4407.1110 4407.1190 4407.1210 4407.1290 4407.1910 4407.1990 4408.1000 ex 4416.0000 ex 9406.1000</td><td>Tutti gli Stati terzi, esclusi: - Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Isole Canarie, Isole Färöer, Islanda, Kazahstan, Macedonia del Nord, Moldavia, Monaco, Montenegro, Norvegia, Russia, San Marino, Serbia, Turchia e Ucraina, – Canada, Cina, Giappone, Messico, Repubblica di Corea, Stati Uniti d’America e Taiwan, in cui *Bursaphelenchus* *xylophilus* (Steiner e Bührer) Nickle *et al*. è notoriamente presente</td><td>Dichiarazione ufficiale che il legname: a. è scortecciato e privo di perforazioni provocate da insetti del genere *Monochamus* spp. (popolazioni non europee), in quest’ambito considerate se di diametro superiore a 3 mm; oppure b. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti; oppure c. è stato sottoposto a un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure d. è stato sottoposto a un’idonea impregnazione chimica sotto pressione utilizzando un prodotto approvato dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la pressione (psi o kPa) e la concentrazione (%); oppure e. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, indicato dal marchio «HT» sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario.</td></tr>
+<tr><td>81. Legname in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da conifere (Pinales)</td><td>4401.2100 ex 4401.4000</td><td>Tutti gli Stati terzi, esclusi: Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Isole Canarie, Isole Färöer, Islanda, Macedonia del Nord, Moldavia, Monaco, Montenegro, Norvegia, San Marino, Serbia e Ucraina, ed esclusi Canada, Cina, Giappone, Messico, Repubblica di Corea, Stati Uniti d’America e Taiwan, in cui *Bursaphelenchus xylophilus* (Steiner e Bührer) Nickle *et al*. è notoriamente presente</td><td>Dichiarazione ufficiale che il legname: a. proviene da aree notoriamente indenni da Monochamus spp. (popolazioni non europee), Pissodes cibriani O’Brien, Pissodes fasciatus Leconte, Pissodes nemorensis Germar, Pissodes nitidus Roelofs, Pissodes punctatus Langor & Zhang, Pissodes strobi (Peck), Pissodes terminalis Hopping, Pissodes yunnanensis Langor & Zhang e Pissodes zitacuarense Sleeper, Scolytidae spp. (non-europee). L’area è indicata nel certificato fitosanitario alla rubrica «Luogo d’origine»; oppure b. è stato prodotto da legname rotondo scortecciato; oppure c. è stato sottoposto ad essiccazione in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura; oppure d. è stato sottoposto a un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure e. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, indicato nel certificato fitosanitario.</td></tr>
+<tr><td>82. Corteccia di conifere (Pinales) separata dal tronco</td><td>ex 1404.9000 ex 4401.4000</td><td>Tutti gli Stati terzi, esclusi: Albania, Andorra, Armenia, Azerbaigian, Bielorussia, Bosnia-Erzegovina, Georgia, Islanda, Isole Canarie, Isole Färöer, Macedonia del nord, Moldavia, Monaco, Montenegro, Norvegia, Russia (solo le seguenti parti: Distretto federale centrale (Tsentralny federalny okrug), Distretto federale nordoccidentale (Severo-Zapadny federalny okrug), Distretto federale meridionale (Yuzhny federalny okrug), Distretto federale del Caucaso settentrionale (Severo-Kavkazsky federalny okrug) e Distretto federale del Volga (Privolzhsky federalny okrug)], San Marino, Serbia, Turchia e Ucraina</td><td>Dichiarazione ufficiale che la corteccia separata dal tronco: a. è stata sottoposta a un’idonea fumigazione utilizzando un fumigante approvato dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima della corteccia, la concentrazione (g/m3) e il tempo di esposizione (h); oppure b. è stata sottoposta a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo della corteccia, indicato nel certificato fitosanitario; e c. dopo il trattamento la corteccia è stata trasportata fino a lasciare il Paese che rilascia tale dichiarazione al di fuori della stagione di volo del vettore *Monochamus*, tenendo conto di un margine di sicurezza di altre 4 settimane all’inizio e alla fine della stagione di volo prevista o con un rivestimento protettivo che impedisca l’infestazione da parte del *Bursaphelenchus xylophilus* (Steiner et Bührer) Nickle *et al*. o del suo vettore.</td></tr>
+<tr><td>83. Legname di *Juglans* L. e *Pterocarya* Kunth, escluso legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da detti vegetali, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1200 ex 4403.1290 ex 4403.9900 ex 4404.2000 ex 4406.1200 ex 4407.9910 ex 4407.9980 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus juglandis* Blackman, istituita dall’organizzazione nazionale per la protezione dei vegetali nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 40 minuti senza interruzioni nell’intero profilo del legname, indicato dal marchio «HT» sul legname o sull’eventuale imballaggio, conformemente agli usi correnti, e nel certificato fitosanitario; oppure c. è stato squadrato in modo da eliminare completamente la superficie rotonda naturale.</td></tr>
+<tr><td>84. Corteccia separata dal tronco e legname di *Juglans* L. e *Pterocarya* Kunth, in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da detti vegetali</td><td>ex 1404.9000 ex 4401.2200 ex 4401.4000</td><td>Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname o la corteccia separata dal tronco: a. proviene da un’area indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus juglandis* Blackman, istituita dall’organizzazione nazionale per la protezione dei vegetali nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. sono stati sottoposti a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 40 minuti senza interruzioni nell’intero profilo della corteccia o del legname, menzionato nel certificato fitosanitario.</td></tr>
+<tr><td>85. Legname di *Acer saccharum* Marsh., compreso quello che non ha conservato la superficie rotonda naturale, eccetto in forma di: – legname destinato alla produzione di fogli da impiallacciatura, – piccole placche, particelle, segatura, trucioli, avanzi o cascami, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spaliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione</td><td>ex 4401.1200 ex 4403.1290 ex 4403.9900 ex 4404.2000 ex 4406.1200 ex 4406.9200 4407.9310 4407.9390 ex 4416.0000 ex 9406.1000</td><td>Canada e Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti.</td></tr>
+<tr><td>86. Legname di *Acer saccharum* Marsh. Destinato alla produzione di fogli da impiallacciatura</td><td>ex 4403.1200 4407.9310 4407.9390 ex 4408.90</td><td>Canada e Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname proviene da aree notoriamente indenni da *Davidsoniella virescens* (R.W. Davidson) Z.W. De Beer, T.A. Duong & M.J. Wingf Moreau ed è destinato alla produzione di fogli da impiallacciatura.</td></tr>
+<tr><td>87. Legname di *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. e *Pterocarya rhoifolia* Siebold & Zucc., escluso in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da detti alberi, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso il legname che non ha conservato la superficie rotonda naturale, e mobili e altri oggetti di legno non trattato</td><td>ex 4401.1200 ex 4403.1290 ex 4403.9900 ex 4404.2000 ex 4406.1200 ex 4406.9200 4407.9510 4407.9590 ex 4407.9910 ex 4407.9980 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Canada, Cina, Giappone, Mongolia, Repubblica di Corea, Repubblica popolare democratica di Corea, Russia, Stati Uniti d’America e Taiwan</td><td>Dichiarazione ufficiale che: a. il legname proviene da un’area riconosciuta indenne da Agrilus planipennis, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario, e tale status è stato comunicato all’UFAM o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato; oppure b. la corteccia e almeno 2,5 cm dell’alburno esterno sono rimossi in un impianto autorizzato e sorvegliato dall’organizzazione nazionale per la protezione dei vegetali; oppure c. il legname è stato trattato con radiazioni ionizzanti fino ad ottenere un assorbimento minimo di 1 kGy in tutto lo spessore.</td></tr>
+<tr><td>88. Legname in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. e *Pterocarya rhoifolia* Siebold & Zucc.</td><td>ex 4401.2200 ex 4401.4000</td><td>Canada, Cina, Giappone, Mongolia, Repubblica di Corea, Repubblica popolare democratica di Corea, Russia, Stati Uniti d’America e Taiwan</td><td>Dichiarazione ufficiale che il legname proviene da un’area riconosciuta indenne da *Agrilus planipennis* Fairmaire, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario, e tale status è stato comunicato all’UFAM o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>89. Corteccia separata dal tronco e oggetti di corteccia di *Fraxinus* L., *Juglans* *ailantifolia* Carr., *Juglans* *mandshurica* Maxim., *Ulmus* *davidiana* Planch. e *Pterocarya* *rhoifolia* Siebold & Zucc.</td><td>ex 1404.9000 ex 4401.4000</td><td>Canada, Cina, Giappone, Mongolia, Repubblica di Corea, Repubblica popolare democratica di Corea, Russia, Stati Uniti d’America e Taiwan</td><td>Dichiarazione ufficiale che la corteccia proviene da un’area riconosciuta indenne da *Agrilus planipennis* Fairmaire, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario, e tale status è stato comunicato all’UFAM o alla Commissione Europea, in anticipo e per iscritto, dall’organizzazione nazionale per la protezione dei vegetali del Paese terzo interessato.</td></tr>
+<tr><td>90. Legname di *Quercus* L., escluso legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami, – fusti, botti, tini, mastelli ed altri lavori da bottaio, e loro parti, in legno, comprese le doghe, ove esistano prove documentate che il legname è stato prodotto o lavorato mediante un trattamento termico con raggiungimento di una temperatura minima di 176 °C per 20 minuti, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spaliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1200 ex 4403.1290 4403.9100 ex 4404.2000 ex 4406.1200 ex 4406.9200 4407.9110 4407.9190 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname: a. è stato squadrato in modo da eliminare completamente la superficie rotonda; oppure b. è stato scortecciato e il suo tenore di acqua, espresso in percentuale della materia secca, è inferiore al 20 %; oppure c. è stato scortecciato e disinfettato mediante un adeguato trattamento termico ad aria o ad acqua; oppure d. se segato, con o senza residui di corteccia attaccati, è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti.</td></tr>
+<tr><td>91. Legname in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da *Quercus* L.</td><td>ex 4401.2200 ex 4401.4000</td><td>Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname: a. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura; oppure b. è stato sottoposto a un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure c. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, indicato nel certificato fitosanitario.</td></tr>
+<tr><td>92. Legname di *Betula* L., escluso legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da detti alberi, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso il legname che non ha conservato la superficie rotonda naturale, e mobili e altri oggetti di legno non trattato</td><td>ex 4401.1200 ex 4403.1200 4403.9500 ex 4404.2000 ex 4406.1200 ex 4406.9200 4407.9610 4407.9690 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Canada e Stati Uniti d’America, Stati in cui Agrilus anxius Gory è notoriamente presente</td><td>Dichiarazione ufficiale che: a. la corteccia e almeno 2,5 cm dell’alburno esterno sono rimossi in un impianto autorizzato e sorvegliato dall’organizzazione nazionale per la protezione dei vegetali; oppure b. il legname è stato trattato con radiazioni ionizzanti fino ad ottenere un assorbimento minimo di 1 kGy in tutto lo spessore.</td></tr>
+<tr><td>93. Piccole placche, particelle, segatura, trucioli, avanzi o cascami di legno ottenuti completamente o in parte da *Betula* L.</td><td>ex 4401.2200 ex 4401.4000</td><td>Tutti gli Stati terzi</td><td>Dichiarazione ufficiale che il legname proviene da un Paese notoriamente indenne da *Agrilus anxius* Gory.</td></tr>
+<tr><td>94. Corteccia e oggetti di corteccia di *Betula* L.</td><td>ex 1404.9000 ex 4401.4000</td><td>Canada e Stati Uniti d’America, Stati in cui *Agrilus* *anxius* Gory è notoriamente presente</td><td>Dichiarazione ufficiale che la corteccia è priva di legno.</td></tr>
+<tr><td>95. Legname di *Platanus* L., escluso: - materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso il legname che non ha conservato la superficie rotonda naturale, e il legname in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da *Platanus* L.</td><td>ex 4401.1200 ex 4403.1200 ex 4403.9900 ex 4404.2000 ex 4406.1200 ex 4406.9200 ex 4407.9910 ex 4407.9980 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Albania, Armenia, Stati Uniti d’America e Turchia</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr. conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti. [tab]</td></tr>
+<tr><td>96. Legname di *Populus* L., eccetto legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1200 ex 4403.1200 ex 4403.9700 ex 4404.2000 ex 4406.1200 ex 4406.9200 4407.9710 4407.9790 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Tutti gli stati del continente americano</td><td>Dichiarazione ufficiale che il legname: a. è scortecciato; oppure b. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti.</td></tr>
+<tr><td>97. Legname in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da: a. Acer saccharum Marsh., b. *Populus* L.</td><td>ex 4401.2200 ex 4401.4000 .</td><td>a. Canada e Stati Uniti d’America b. Tutti gli stati del continente americano</td><td>Dichiarazione ufficiale che il legname: a. è stato prodotto da legname rotondo scortecciato; oppure b. è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, secondo un adeguato schema tempo/temperatura; oppure c. è stato sottoposto a un’idonea fumigazione conforme a una specifica approvata dall’UFAM, indicata nel certificato fitosanitario menzionando il principio attivo, la temperatura minima del legname, la concentrazione (g/m3) e il tempo di esposizione (h); oppure d. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, menzionato nel certificato fitosanitario.</td></tr>
+<tr><td>98 Legname di *Amelanchier* Medik., *Aronia* Medik., *Cotoneaster* Medik., *Crataegus* L., *Cydonia* Mill., *Malus* Mill., *Prunus* L., *Pyracantha* M. Roem., *Pyrus* L. e *Sorbus* L., escluso legname in forma di: – piccole placche, segatura e trucioli, ottenuti completamente o in parte da tali vegetali, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1200 ex 4403.1200 ex 4403.9900 ex 4404.2000 ex 4406.1200 ex 4406.9200 ex 4407.9910 ex 4407.9980 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Canada e Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area indenne da *Saperda candida* Fabricius, istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, menzionato nel certificato fitosanitario; oppure c. è stato sottoposto a un trattamento con adeguate radiazioni ionizzanti fino ad ottenere un assorbimento minimo di 1 kGy attraverso tutto lo spessore, menzionato nel certificato fitosanitario.</td></tr>
+<tr><td>99. Legname in forma di piccole placche, ottenuto completamente o in parte da *Amelanchier* Medik., *Aronia* Medik., *Cotoneaster* Medik., *Crataegus* L., *Cydonia* Mill., *Malus* Mill., *Prunus* L., *Pyracantha* M. Roem., *Pyrus* L. e *Sorbus* L.</td><td>ex 4401.2200 ex 4401.4000</td><td>Canada e Stati Uniti d’America</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Saperda candida* Fabricius conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. è stato lavorato in pezzi di dimensioni non superiori a 2,5 cm in spessore e larghezza; oppure c. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, menzionato nel certificato fitosanitario.</td></tr>
+<tr><td>100. Legname di *Prunus* L., escluso legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da detti vegetali, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>ex 4401.1200 ex 4403.1200 ex 4403.9900 ex 4404.2000 ex 4406.1200 ex 4406.9200 4407.9410 4407. 9490 ex 4407.9910 ex 4407.9980 ex 4408.9000 ex 4416.0000 ex 9406.1000</td><td>Cina, Giappone, Mongolia, Repubblica di Corea, Repubblica popolare democratica di Corea e Vietnam</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area indenne da *Aromia bungii* (Falderman), istituita dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, menzionato nel certificato fitosanitario; oppure c. è stato sottoposto a un trattamento con adeguate radiazioni ionizzanti fino ad ottenere un assorbimento minimo di 1 kGy attraverso tutto lo spessore, menzionato nel certificato fitosanitario.</td></tr>
+<tr><td>101. Legname in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da *Prunus* L.</td><td>ex 4401.2200 ex 4401.4000</td><td>Cina, Giappone, Mongolia, Repubblica democratica popolare di Corea, Repubblica di Corea e Vietnam</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area che l’organizzazione nazionale per la protezione dei vegetali del Paese di origine ha riconosciuto indenne da *Aromia bungii* (Faldermann) conformemente alle pertinenti norme internazionali per le misure fitosanitarie, menzionata nel certificato fitosanitario alla rubrica «Dichiarazione supplementare»; oppure b. è stato lavorato in pezzi di dimensioni non superiori a 2,5 cm in spessore e larghezza; oppure b. è stato lavorato in pezzi di dimensioni non superiori a 2,5 cm in spessore e larghezza; oppure c. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 30 minuti senza interruzioni nell’intero profilo del legname, menzionato nel certificato fitosanitario.</td></tr>
+</table>
+
+[^annex7-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Allegato
+[^annex7-lvlu1-2]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+
+Allegato 8*[^t-7]*
+
+(art. 8 e 15)
+
+## Sementi e altre merci la cui importazione dall’UE e la messa in commercio sono consentite a condizione che siano scortate da un passaporto fitosanitario
+
+[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+- 1\. Vegetali, ad eccezione di frutti e semi, di *Choisya* Kunth, *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e relativi ibridi, *Casimiroa* La Llave, *Clausena* Burm. f., *Murraya* J. Koenig ex L., *Vepris* Comm., *Zanthoxylum* L. e *Vitis* L.
+- 2\. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e relativi ibridi, con foglie e peduncoli.
+- 3\.
+
+  Legname, che adempie le seguenti condizioni:
+
+  - a. è considerato prodotto vegetale ai sensi dell’articolo 2 lettera e OSalV;
+  - b. è stato ottenuto completamente o in parte da *Juglans* L., *Platanus* L. e *Pterocarya* Kunth, compreso il legname che non ha conservato la superficie rotonda naturale;
+  - c. corrisponde a una delle seguenti descrizioni:
+
+<table>
+<tr><th>Voce di tariffa doganale[^annex8a-lvlu1-1]</th><th>Descrizione</th></tr>
+<tr><td>4401.12</td><td>Legna da ardere, diversa da quella di conifere, in tondelli, ceppi, ramaglie, fascine o in forme simili</td></tr>
+<tr><td>4401.22</td><td>Legname non di conifere, in piccole placche o in particelle</td></tr>
+<tr><td>ex 4401.40</td><td>Avanzi e cascami di legno (diversi dalla segatura), non agglomerati</td></tr>
+<tr><td>4403.1290</td><td>Legname grezzo, non di conifere, trattato con tinte, creosoto o altri agenti di conservazione, non scortecciato né privato dell’alburno, o squadrato</td></tr>
+<tr><td>ex 4403.99</td><td>Legname non di conifere (eccetto legname tropicale, quercia (*Quercus* spp.), faggio (*Fagus* spp.), betulla (*Betula* spp.), pioppo e pioppo tremulo (*Populus* spp.) o eucalipto (*Eucalyptus* spp.)) grezzo, anche scortecciato o privato dell’alburno, o squadrato, non trattato con tinte, creosoto o altri agenti di conservazione</td></tr>
+<tr><td>ex 4404.20</td><td>Pali spaccati, non di conifere; pioli e picchetti di legno non di conifere, appuntiti, non segati per il lungo</td></tr>
+<tr><td>ex 4407.99</td><td>Legname non di conifere (eccetto legname tropicale, quercia (*Quercus* spp.), faggio (*Fagus* spp.), acero (*Acer* spp.), ciliegio (*Prunus* spp.), frassino (*Fraxinus* spp.), betulla (*Betula* spp.) o pioppo e pioppo tremulo (*Populus* spp.)), segato o tagliato per il lungo, tranciato o sfogliato, anche piallato, levigato o incollato con giunture di testa, di spessore superiore a 6 mm</td></tr>
+</table>
+
+- 4\.
+
+  Sementi di cereali ai sensi dell’ordinanza del 7 dicembre 1998[^annex8a-lvlu1-2] sul materiale di moltiplicazione:
+
+  - – *Oryza sativa* L.
+
+- 5\.
+
+  Sementi di ortaggi ai sensi dell’ordinanza sul materiale di moltiplicazione:
+
+  - – *Allium cepa* L.
+  - – *Allium porrum* L.
+  - – *Capsicum annuum* L.
+  - – *Phaseolus coccineus* L.
+  - – *Phaseolus vulgaris* L.
+  - – *Pisum sativum* L.
+  - – *Solanum lycopersicum* L.
+  - – *Vicia faba* L.
+
+- 6\. Sementi di *Solanum tuberosum* L. (vero seme di patata, *true potato seeds*).
+- 7\.
+
+  Sementi di piante foraggere ai sensi dell’ordinanza sul materiale di moltiplicazione:
+
+  - – *Medicago sativa* L.
+
+- 8\.
+
+  Sementi di piante oleose e da fibra ai sensi dell’ordinanza sul materiale di moltiplicazione:
+
+  - – *Brassica napus* L.
+  - – *Brassica rapa* L.
+  - – *Glycine max* (L.) Merril
+  - – *Helianthus annuus* L.
+  - – *Linum usitatissimum* L.
+  - – *Sinapis alba* L.
+
+- 9\.
+
+  Sementi di piante ornamentali importate o immesse sul mercato a scopo commerciale di:
+
+  - – *Allium* L.
+  - – *Capsicum annuum* L.
+  - – *Helianthus annuus* L.
+  - – *Prunus avium* L.
+  - – *Prunus arme*niaca L.
+  - – *Prunus cerasus* L.
+  - – *Prunus domestica* L.
+  - – *Prunus* *dulcis* (Mill.) D. A. Webb
+  - – *Prunus persica* (L.) Batsch
+  - – *Prunus salicina* Lindley
+
+- 10\.
+
+  Sementi di specie da frutto ai sensi dell’ordinanza sul materiale di moltiplicazione di:
+
+  - – *Prunus avium* L.
+  - – *Prunus armeniaca* L.
+  - – *Prunus cerasus* L.
+  - – *Prunus domestica* L.
+  - – *Prunus* *dulcis* (Mill.) D. A. Webb
+  - – *Prunus persica* (L.) Batsch
+  - – *Prunus salicina* Lindley
+
+[^annex8a-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Allegato
+[^annex8a-lvlu1-2]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
+
+Allegato 8a*[^t-8]*
+
+(art. 8*a* e 15*a*)
+
+## Merci che possono essere importate dall’UE e messe in commercio in Svizzera soltanto a determinate condizioni
+
+[^t-8]: Introdotto dal n. II cpv. 3 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+<table>
+<tr><th>Merci</th><th>Condizioni specifiche delle merci</th></tr>
+<tr><td>1. Macchine, apparecchi e veicoli utilizzati per fini agricoli o forestali</td><td>Le macchine o i veicoli sono stati: a. spostati da un’area indenne da *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr., istituita dalle autorità competenti conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. puliti e liberati da terra e frammenti di vegetali prima dello spostamento dall’area infestata.</td></tr>
+<tr><td>2. Vegetali destinati alla piantagione con radici, coltivati all’aperto</td><td>Dichiarazione ufficiale che il luogo di produzione è notoriamente indenne da *Clavibacter sepedonicus* (Spieckermann e Kottho) Nouioui *et al*. e da *Synchytrium endobioticum* (Schilb.) Percival.</td></tr>
+<tr><td>3. Vegetali destinati alla piantagione di specie stolonifere o tuberifere di *Solanum* L., o relativi ibridi, conservati in banche di geni o in collezioni di materiali genetici</td><td>Dichiarazione ufficiale che i vegetali devono essere stati tenuti in condizioni di quarantena e che, in seguito ad analisi di laboratorio, devono essere risultati indenni da qualsiasi organismo nocivo da quarantena. Ogni organizzazione o organismo di ricerca in possesso di tali materiali informa l’autorità competente dei materiali detenuti.</td></tr>
+<tr><td>4. Vegetali destinati alla piantagione di specie stolonifere o tuberifere di *Solanum* L. o relativi ibridi, esclusi i tuberi di *Solanum tuberosum* L. di cui ai numeri 5, 6, 7, 8 o 9 ed escluso il materiale per la salvaguardia delle varietà colturali conservato in banche di geni o in collezioni di materiali genetici nonché le sementi di *Solanum* *tuberosum* L. di cui al numero 21</td><td>Dichiarazione ufficiale che i vegetali devono essere stati tenuti in condizioni di quarantena e che, in seguito ad analisi di laboratorio, devono essere risultati indenni da qualsiasi organismo nocivo da quarantena. Le analisi di laboratorio devono: a. essere sorvegliate dall’autorità competente interessata ed eseguite da personale con formazione scientifica di tale autorità o di qualsiasi organismo ufficialmente riconosciuto; b. essere effettuate in un luogo provvisto di strutture adeguate, sufficienti per tenere sotto controllo gli organismi nocivi da quarantena e conservare il materiale, comprese le piante indicatrici, in modo da eliminare qualsiasi rischio di diffusione di organismi nocivi da quarantena; c. essere eseguite su ogni unità del materiale: i. mediante controllo visivo relativo a sintomi causati da organismi nocivi da quarantena, condotto a intervalli regolari per tutta la durata di almeno un ciclo vegetativo, tenendo conto del tipo di materiale e dello stadio di sviluppo da esso raggiunto durante il programma di prova, ii. mediante analisi di laboratorio, nel caso di tutto il materiale di patate almeno per: – Andean potato latent virus, – Andean potato mottle virus, – Arracacha virus B. oca strain, – Potato black ringspot virus, – Kartoffelvirus T, – isolati non europei di Potato virus A, M, S, V, X e Y (compresi Y<sup>o</sup>, Y<sup>n</sup> e Y<sup>c</sup>) e di Potato leafroll virus (compresi Y<sup>o</sup>), – *Clavibacter* *sepedonicus* (Spieckermann e Kottho) Nouioui *et al.*, – Ralstonia solanacearum (Smith) Yabuuchi et al. emend. Safni et al., Ralstonia pseudosolanacearum Safni et al., Ralstonia syzigii subsp. celebensis Safni et al. e Ralstonia syzigii subsp. indonesiensis Safni et al. iii. nel caso di sementi di *Solanum tuberosum* L., escluse le sementi di cui al numero 21, almeno i virus e viroidi summenzionati, eccetto Andean potato mottle virus e isolati non europei di Potato virus A, M, S, V, X e Y (compresi Y<sup>o</sup>, Y<sup>n</sup> e Y<sup>c</sup>) e Potato leaf roll virus; d. comprendere analisi appropriate relative a qualsiasi altro sintomo riscontrato all’atto del controllo visivo, al fine di identificare gli organismi nocivi da quarantena che hanno causato tali sintomi.</td></tr>
+<tr><td>5. Tuberi di *Solanum tuberosum* L. destinati alla piantagione</td><td>Dichiarazione ufficiale che le disposizioni dell’UFAG o dell’Unione europea per la lotta contro *Synchytrium endobioticum* (Schilb.) Percival sono state rispettate.</td></tr>
+<tr><td>6. Tuberi di *Solanum tuberosum* L. destinati alla piantagione</td><td>Dichiarazione ufficiale che: a. i tuberi provengono da un’area notoriamente indenne da *Clavibacter sepedonicus* (Spieckermann & Kottho) Nouiuoi *et al*.; oppure b. le disposizioni dell’UFAG o dell’Unione europea per la lotta contro *Clavibacter sepedonicus* (Spieckermann & Kottho) Nouioui *et al*. sono state rispettate.</td></tr>
+<tr><td>7. Tuberi di *Solanum tuberosum* L. destinati alla piantagione</td><td>Dichiarazione ufficiale che i tuberi provengono da: a. aree in cui *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*. è notoriamente assente; oppure b. un luogo di produzione risultato indenne da *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*. o ritenuto indenne da tale organismo nocivo in seguito all’attuazione di una procedura idonea di eradicazione di *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al.*</td></tr>
+<tr><td>8. Tuberi di *Solanum tuberosum* L. destinati alla piantagione</td><td>Dichiarazione ufficiale che i tuberi provengono da: a. aree in cui *Meloidogyne chitwoodi* Golden *et al*. e *Meloidogyne fallax* Karssen sono notoriamente assenti; oppure b. aree in cui *Meloidogyne chitwoodi* Golden *et al*. e *Meloidogyne fallax* Karssen sono notoriamente presenti e: i. i tuberi provengono da un luogo di produzione risultato indenne da *Meloidogyne chitwoodi* Golden *et al*. e da *Meloidogyne fallax* Karssen sulla base di un’indagine annuale sulle colture ospiti effettuata mediante un controllo visivo delle piante ospiti in periodi opportuni e mediante un controllo visivo sia della superficie esterna sia di tuberi sezionati dopo la raccolta delle patate coltivate nel luogo di produzione, oppure ii. i tuberi sono stati sottoposti a campionatura casuale dopo la raccolta e sono stati controllati per accertare l’eventuale presenza di sintomi, dopo aver applicato un metodo adeguato per indurre i sintomi o dopo aver effettuato analisi di laboratorio, nonché a un controllo visivo della superficie esterna e di tuberi sezionati, in periodi appropriati per individuare la presenza di tali organismi nocivi e comunque al momento della chiusura delle confezioni o dei contenitori prima dello spostamento, e sono risultati indenni da sintomi di *Meloidogyne chitwoodi* Golden *et al*. e *Meloidogyne fallax* Karssen.</td></tr>
+<tr><td>9. Tuberi di *Solanum tuberosum* L. destinati alla piantagione, esclusi quelli destinati alla piantagione in un unico luogo di produzione in un’area delimitata ufficialmente</td><td>Dichiarazione ufficiale che le disposizioni dell’UFAG o dell’Unione europea per la lotta contro *Globodera* *pallida* (Stone) Behrens e *Globodera rostochiensis* (Wollenweber) Behrens sono rispettate.</td></tr>
+<tr><td>10. Tuberi di *Solanum tuberosum* L. destinati alla piantagione, esclusi i tuberi delle varietà ufficialmente ammesse in Svizzera o in uno o più Stati membri dell’Unione europea</td><td>Dichiarazione ufficiale che i tuberi: a. appartengono a selezioni avanzate; b. sono stati prodotti in Svizzera o nell’Unione europea; e c. provengono in linea diretta da materiale conservato in condizioni adeguate e sono stati sottoposti in Svizzera o nell’Unione europea ad analisi ufficiali di quarantena e, in tali analisi, sono risultati indenni da organismi nocivi da quarantena.</td></tr>
+<tr><td>11. Tuberi di *Solanum tuberosum* L., esclusi quelli di cui ai numeri 3, 4, 5, 6, 7, 8, 9 o 10</td><td>Il numero di registrazione figura sull’imballaggio o, nel caso del trasporto di tuberi caricati alla rinfusa, sui documenti di accompagnamento attestanti che i tuberi sono stati coltivati da un produttore ufficialmente registrato, oppure provengono da magazzini collettivi ufficialmente registrati o da centri di spedizione situati nell’area di produzione, documenti in cui è indicato che: a. i tuberi sono indenni da *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al.*; e b. le disposizioni dell’UFAG o dell’Unione europea per la lotta con *Synchytrium endobioticum* (Schilb.) Percival e ove opportuno, *Clavibacter sepedonicus* (Spieckermann e Kottho) Nouioui *et al.* e *Globodera pallida* (Stone) Behrens e *Globodera rostochiensis* (Wollenweber) Behrens sono rispettate.</td></tr>
+<tr><td>12. Vegetali destinati alla piantagione con radici di *Capsicum* spp., *Solanum lycopersicum* L. e *Solanum melongena* L. eccetto quelle destinate alla piantagione nello stesso luogo di produzione in un’area delimitata ufficialmente</td><td>Dichiarazione ufficiale che le disposizioni del diritto dell’Unione per la lotta contro *Globodera pallida* (Stone) Behrens e *Globodera rostochiensis* (Wollenweber) Behrens sono rispettate.</td></tr>
+<tr><td>13. Vegetali destinati alla piantagione di *Capsicum annuum* L., *Solanum lycopersicum* L., *Musa* L., *Nicotiana* L. e *Solanum* *melongena* L., escluse le sementi</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da aree risultate indenni da *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*.; oppure b. nessun sintomo di *Ralstonia solanacearum* (Smith) Yabuuchi *et al*. emend. Safni *et al*. è stato riscontrato sui vegetali nel luogo di produzione dall’inizio dell’ultimo ciclo vegetativo completo.</td></tr>
+<tr><td>14. Vegetali destinati alla piantagione con radici, coltivati all’aperto, di *Allium porrum* L., *Asparagus officinalis* L., *Beta vulgaris* L., *Brassica* spp. e *Fragaria* L. e bulbi, tuperi e rizomi, coltivati all’aperto, di *Allium ascalonicum* L., *Allium cepa* L., *Dahlia* spp., *Gladiolus* Tourn. ex L., *Hyacinthus* spp., *Iris* spp., *Lilium* spp., *Narcissus* L. e *Tulipa* L. esclusi vegetali, bulbi, tuberi e rizomi destinati alla piantagione nello stesso luogo di produzione in un’area delimitata ufficialmente</td><td>Deve essere provato che le disposizioni dell’UFAG o dell’Unione europea per la lotta contro *Globodera* *pallida* (Stone) Behrens e *Globodera rostochiensis* (Wollenweber) Behrens sono rispettate.</td></tr>
+<tr><td>15. Vegetali destinati alla piantagione di Cucurbitaceae e Solanaceae, escluse le sementi, provenienti da aree: a. in cui *Bemisia tabaci* Genn. o altri vettori del Tomato leaf curl New Delhi Virus non sono notoriamente presenti,</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da un’area notoriamente indenne da Tomato leaf curl New Delhi Virus; oppure b. durante l’intero ciclo vegetativo non sono stati riscontrati sintomi di Tomato leaf curl New Delhi Virus sui vegetali.</td></tr>
+<tr><td>b. in cui *Bemisia tabaci* Genn. o altri vettori del Tomato leaf curl New Delhi Virus sono notoriamente presenti</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da un’area notoriamente indenne da Tomato leaf curl New Delhi Virus; oppure b. durante *l’intero* ciclo vegetativo non sono stati riscontrati sintomi di Tomato leaf curl New Delhi Virus sui vegetali e i. il loro sito di produzione è risultato indenne da *Bemisia tabaci* Genn. e da altri vettori del Tomato leaf curl New Delhi Virus in seguito a controlli ufficiali effettuati in periodi opportuni per rilevare l’organismo nocivo, [tab] oppure ii. i vegetali sono stati sottoposti a un trattamento efficace atto a eradicare *Bemisia tabaci* Genn. e di altri vettori del Tomato leaf curl New Delhi Virus.</td></tr>
+<tr><td>16. Vegetali destinati alla piantagione di *Juglans* L. e *Pterocarya* Kunth, escluse le sementi</td><td>Dichiarazione ufficiale che i vegetali destinati alla piantagione: a. sono stati coltivati per tutto il loro ciclo vitale, o dalla loro introduzione in Svizzera o nell’Unione europea, in un’area indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus* *juglandis* Blackman, istituita dalle autorità competenti nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie; oppure b. provengono da un luogo di produzione, comprese le sue vicinanze in un raggio di almeno 5 km, in cui non sono stati riscontrati sintomi di *Geosmithia* *morbida* Kolarik, Freeland, Utley & Tysserat e del suo vettore *Pityophtorus juglandis* Blackman né la presenza del vettore nel corso di controlli ufficiali effettuati nei 2 anni precedenti lo spostamento, i vegetali destinati alla piantagione sono stati sottoposti a un controllo visivo prima dello spostamento e manipolati e confezionati in modo da impedire l’infestazione una volta lasciato il luogo di produzione; oppure c. provengono da un sito di produzione in condizioni di totale isolamento fisico, e i vegetali destinati alla piantagione sono stati sottoposti a un controllo visivo prima dello spostamento e sono stati manipolati e confezionati in modo da impedire l’infestazione una volta lasciato il luogo di produzione.</td></tr>
+<tr><td>17. Vegetali destinati alla piantagione di *Platanus* L., escluse le sementi</td><td>Dichiarazione ufficiale che: a. i vegetali provengono da un’area notoriamente indenne da *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr., istituita dalle autorità competenti conformemente alle pertinenti norme internazionali per le misure fitosanitarie; oppure b. sono stati coltivati in un luogo di produzione riconosciuto indenne da *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr. nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie: i. registrato e sorvegliato dalle autorità competenti e ii. che è stato sottoposto annualmente a controlli ufficiali per individuare eventuali sintomi di *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr., anche nelle sue immediate vicinanze, effettuati nei periodi dell’anno più opportuni per individuare la presenza dell’organismo nocivo in questione e iii. un campione rappresentativo dei vegetali è stato sottoposto ad analisi per rilevare l’eventuale presenza di *Ceratocystis* *platani* (J. M. Walter) Engelbr. & T. C. Harr., in periodi dell’anno opportuni per individuare la presenza dell’organismo nocivo.</td></tr>
+<tr><td>18. Vegetali di *Citrus* L., *Choisya* Kunth, *Fortunella* Swingle, *Poncirus* Raf., e relativi ibridi e *Casimiroa* La Llave, *Clausena* Burm f., *Murraya* J. *Koenig* ex L., *Vepris* Comm. e *Zanthoxylum* L., esclusi frutti e sementi</td><td>Dichiarazione ufficiale che i vegetali: a. provengono da un’area indenne da *Trioza* *erytreae* Del Guercio, istituita dalle autorità competenti nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie; oppure b. sono stati coltivati in un luogo di produzione registrato e sorvegliato dal SFF o dall’organizzazione nazionale per la protezione dei vegetali del Paese di origine e in cui i vegetali sono stati coltivati durante un periodo di un anno, in un sito di produzione a prova di insetto per impedire l’introduzione di *Trioza* *erytreae* Del Guercio e in cui, durante un periodo di almeno un anno prima dello spostamento, sono stati effettuati 2 controlli ufficiali in periodi opportuni e non sono stati riscontrati indizi di *Trioza erytreae* Del Guercio in tale sito e prima dello spostamento sono manipolati e confezionati in modo da impedire l’infestazione una volta lasciato il luogo di produzione.</td></tr>
+<tr><td>19. Vegetali destinati alla piantagione di *Vitis* L., eccetto le sementi</td><td>Dichiarazione ufficiale che i vegetali destinati alla piantagione: a. provengono da un’area notoriamente indenne da Grapevine flavescence dorée phytoplasma; oppure b. sono originari di un sito di produzione in cui: i. nessun sintomo di Grapevine flavescence dorée phytoplasma su *Vitis* spp. è stato riscontrato nel sito di produzione e nelle immediate vicinanze dall’inizio dell’ultimo ciclo vegetativo completo e, nel caso di vegetali utilizzati per la moltiplicazione di *Vitis* spp., nel sito di produzione e nelle immediate vicinanze non sono stati riscontrati sintomi di Grapevine flavescence dorée phytoplasma su *Vitis* spp. fin dall’inizio di 2 cicli vegetativi completi, ii. è effettuato il monitoraggio dei vettori e sono applicati trattamenti adeguati per contrastare i vettori di Grapevine flavescence dorée phytoplasma, iii. le piante di *Vitis* L. abbandonate, provenienti dalle immediate vicinanze del sito di produzione, durante la stagione di crescita sono state sorvegliate per individuare sintomi di Grapevine flavescence dorée phytoplasma e, in presenza di sintomi, sono state rimosse oppure sottoposte ad analisi e risultate indenni da Grapevine flavescence dorée phytoplasma; oppure c. sono stati sottoposti a trattamento con acqua calda conformemente alle norme internazionali.</td></tr>
+<tr><td>20. Frutti di *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. e relativi ibridi</td><td>L’imballaggio deve recare un idoneo marchio d’origine.</td></tr>
+<tr><td>21. Sementi di *Solanum tuberosum* L., escluse quelle di cui al numero 3</td><td>Dichiarazione ufficiale che: a. le sementi derivano da vegetali conformi, a seconda dei casi, alle condizioni di cui ai numeri 4, 5, 6, 7, 8 e 9; e che le sementi: b. provengono da aree notoriamente indenni da *Synchytrium endobioticum* (Schilb.) Percival, *Clavibacter sepedonicus* (Spieckermann & Kottho) Nouioui *et al.* e *Ralstonia* solanacearum (Smith) Yabuuchi *et al.* emend. Safni *et al.*, oppure adempiono tutte le condizioni seguenti: i. sono state prodotte in un sito in cui, dall’inizio dell’ultimo ciclo vegetativo, non sono stati riscontrati sintomi di una malattia causata dagli organismi nocivi da quarantena di cui alla lettera a; ii. sono state prodotte in un sito in cui sono state prese le seguenti misure: – garantire la prevenzione del contatto e misure di igiene in relazione al personale e agli oggetti quali attrezzi, macchine, veicoli, imbarcazioni e materiale da imballaggio, provenienti da altri siti che producono piante solanacee, per impedire un’infestazione; – utilizzare solo acqua indenne da tutti gli organismi nocivi da quarantena di cui al presente numero.</td></tr>
+<tr><td>22. Legname di *Juglans* L. e *Pterocarya* Kunth, escluso il legname in forma di: – piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da detti vegetali, – materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, tranne paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello delle spedizioni e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione, ma compreso quello che non ha conservato la superficie rotonda naturale</td><td>Dichiarazione ufficiale che il legname: a. proviene da un’area notoriamente indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus juglandis* Blackman, istituita dalle autorità competenti nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie; oppure b. è stato sottoposto a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 40 minuti senza interruzioni nell’intero profilo del legname, indicato dal marchio «HT» sul legname o sull’eventuale imballaggio, conformemente agli usi correnti; oppure c. è stato squadrato in modo da eliminare completamente la superficie rotonda naturale.</td></tr>
+<tr><td>23. Corteccia separata dal tronco e legname di *Juglans* L. e *Pterocarya* Kunth, in forma di piccole placche, particelle, segatura, trucioli, avanzi o cascami ottenuti completamente o in parte da tali vegetali</td><td>Dichiarazione ufficiale che il legname o la corteccia separata dal tronco: a. proviene da un’area notoriamente indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus juglandis* Blackman, istituita dalle autorità competenti nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie; oppure b. sono stati sottoposti a un idoneo trattamento termico durante il quale è stata raggiunta una temperatura minima di 56 °C per un periodo di almeno 40 minuti senza interruzioni nell’intero profilo della corteccia o del legname, indicato dal marchio «HT» sull’eventuale imballaggio, conformemente agli usi correnti.</td></tr>
+<tr><td>24. Legname di *Platanus* L., compreso il legname che non ha conservato la superficie rotonda naturale</td><td>Dichiarazione ufficiale che: a. il legname proviene da aree notoriamente indenni da *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr.; oppure b. il legname è stato essiccato in forno sino alla riduzione del suo tenore di umidità a meno del 20 %, espresso in percentuale di materia secca, al momento in cui l’operazione è compiuta, secondo un adeguato schema tempo/temperatura, trattamento indicato dal marchio «kiln-dried» o «K.D.» o da un altro marchio internazionalmente riconosciuto, apposto sul legname o sull’eventuale imballaggio, conformemente agli usi correnti.</td></tr>
+<tr><td>25. Materiale da imballaggio in legno in forma di casse, cassette, gabbie, cilindri ed imballaggi simili, palette di carico semplici, palette-casse ed altre piattaforme di carico, spalliere di palette, paglioli, anche effettivamente utilizzati nel trasporto di oggetti di qualsiasi tipo, escluso il legname grezzo di spessore uguale o inferiore a 6 mm e il legname trasformato mediante colla, calore e pressione, o una combinazione di questi fattori, ed esclusi i paglioli che sostengono spedizioni di legname, costruiti a partire da legname dello stesso tipo e qualità di quello della spedizione e che rispettano le stesse prescrizioni fitosanitarie della Svizzera o dell’Unione europea, come il legname della spedizione</td><td>Dichiarazione ufficiale che il materiale da imballaggio in legno: a. proviene da un’area notoriamente indenne da *Geosmithia morbida* Kolarík, Freeland, Utley & Tisserat e dal suo vettore *Pityophthorus juglandis* Blackman, istituita dalle autorità competenti nel rispetto delle pertinenti norme internazionali per le misure fitosanitarie; oppure b. è ottenuto da legname scortecciato come specificato all’allegato I della norma internazionale FAO per le misure fitosanitarie n. 15 sugli orientamenti per la regolamentazione del materiale da imballaggio in legno nel commercio internazionale, e i. è stato sottoposto a uno dei trattamenti approvati di cui all’allegato I della stessa norma internazionale, e ii. è contrassegnato da un marchio come indicato nell’allegato II della norma internazionale, che indica che il materiale da imballaggio in legno è stato sottoposto a un trattamento fitosanitario approvato in conformità di tale norma.</td></tr>
+</table>
+
+Allegato 9[^t-9]
+
+(art. 9)
+
+## Spostamenti di merci in zone protette e messa in commercio di merci in zone protette
+
+[^t-9]: Aggiornato dal n. II cpv. 1 dell’O del DEFR e del DATEC del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+### 1. Merci il cui spostamento in una zona protetta e la cui messa in commercio nella zona protetta sono vietati
+
+<table>
+<tr><td>Merce</td><td>Zona protetta</td></tr>
+<tr><td>1.1 Vegetali, ad eccezione di frutti e sementi, e polline vivo per l’impollinazione di *Amelanchier* Med., *Chaen**o**meles* Lindl., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Pyracantha* Roem., *Pyrus* L. e *Sorbus* L., originari di – Paesi diversi da quelli riconosciuti indenni da *Erwinia amylov**o**ra* (Burr.) Winsl. et al. da parte dell’UFAG o – aree diverse dalle aree indenni da *Erwinia amylovora* (Burr.) Winsl. et al. che sono state stabilite in applicazione delle misure fitosanitarie pertinenti conformi alle norme internazionali e riconosciute come tali dall’UFAG o – aree di Stati membri dell’Unione europea diverse da quelle dichiarate ufficialmente: – zone protette per quanto concerne *Erwinia amylov**o**ra* (Burr.) Winsl. *et al.* o – «*zone* tampone» nelle quali i vegetali ospiti sono sottoposti da un periodo opportuno a un regime di lotta ufficialmente riconosciuto e controllato con lo scopo di minimizzare il rischio di diffusione di *Erwinia amylovora* (Burr.) Winsl. *et al.* a partire dai vegetali ivi coltivati e dove i suddetti vegetali possono essere introdotti nelle zone protette da *Erwinia amylovora* (Burr.) Winsl. *et al.* degli Stati membri della Comunità europea.</td><td>Canton Vallese</td></tr>
+</table>
+
+### 2. Merci il cui spostamento in una zona protetta e la cui messa in commercio nella zona protetta sono consentiti soltanto a condizione che siano scortate da un passaporto fitosanitario per zone protette
+
+<table>
+<tr><td>Merce</td><td>Zona protetta</td></tr>
+<tr><td>2.1 Vegetali, ad eccezione di frutti e sementi, e polline vivo per l’impollinazione di *Amelanchier* Med., *Chaen**o**meles* Lindl., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., *Mespilus* L., *Pyracantha* Roem., *Pyrus* L. e *Sorbus* L.</td><td>Canton Vallese</td></tr>
+</table>
+
+### 3. Condizioni che le merci devono adempiere affinché possano essere spostate in una zona protetta e essere messe in commercio in una zona protetta
+
+<table>
+<tr><th>Merce</th><th>Condizioni</th><th>Zona protetta</th></tr>
+<tr><td>3.1 Vegetali, ad eccezione di frutti e sementi, e polline vivo per l’impollinazione di *Amelanchier* Med., *Chae**nomeles* Lindl., *Cratae**gus* L., *Cydonia* Mill., *Eriob**o**trya* Lindl., *Malus* Mill., *Mespilus* L., *Pyra**ca**n**tha* Roem., *Pyrus* L. e *Sorbus* L.,</td><td></td><td>Canton Vallese</td></tr>
+<tr><td>a. di origine svizzera</td><td>Constatazione ufficiale: a. che i vegetali sono originari di una zona protetta per quanto concerne *Erwinia* *amylovora* (Burr.) Winsl. *et al.* elencata nell’allegato 2; oppure b. che i vegetali sono stati ottenuti o, nel caso di trasferimento in una «zona di sicurezza», conservati per un periodo di almeno 7 mesi comprendenti il periodo dal 1° aprile al 31 ottobre dell’ultimo ciclo vegetativo completo, in un campo: aa. situato ad almeno un km dai suoi limiti interni, in una «zona di sicurezza» ufficialmente dichiarata e con un’estensione di almeno 50 km<sup>2</sup>, dove le piante ospiti sono state sottoposte a un regime di lotta ufficialmente approvato e controllato, stabilito al più tardi prima dell’inizio del penultimo ciclo vegetativo completo, inteso a minimizzare il rischio di diffusione di *Erwinia amylovora* (Burr.) Winsl. et al. a partire dai vegetali ivi coltivati. La descrizione dettagliata della cosiddetta «zona di sicurezza» è messa a disposizione del Servizio fitosanitario federale. Una volta delimitata la «zona di sicurezza», saranno eseguite ispezioni ufficiali almeno una volta dall’inizio dell’ultimo ciclo vegetativo completo, al momento più opportuno, nell’area che non comprende il campo e l’area circostante avente un raggio di 500 m. I risultati di tali ispezioni saranno trasmessi ogni anno al Servizio fitosanitario federale, e bb. ufficialmente approvato, come la «zona di sicurezza», prima dell’inizio del penultimo ciclo vegetativo completo, per la coltura di vegetali, conformemente alle condizioni indicate nel presente punto, [tab] e cc. che, come l’area circostante per un raggio di almeno 500 m, dall’inizio dell’ultimo ciclo vegetativo completo è risultato indenne da *E**r**winia amylovora* (Burr) Winsl. *et al.* all’atto di ispezioni ufficiali eseguite almeno: – due volte nel campo, al momento più opportuno, ossia una volta da giugno ad agosto e una volta da agosto a ottobre, e – una volta nella zona circostante descritta, al momento più opportuno, ossia fra agosto e ottobre, dd. di cui i vegetali sono stati sottoposti a prove ufficiali per l’individuazione di infezioni latenti secondo un metodo di laboratorio adeguato su campioni ufficialmente prelevati nel periodo più opportuno.</td><td></td></tr>
+<tr><td>b. di origine estera</td><td></td><td></td></tr>
+<tr><td>– Stati membri dell’Unione europea</td><td>Constatazione ufficiale: – che i vegetali sono originari di una zona protetta per quanto concerne *E**r**winia amylovora* (Burr.) Winsl. *et al.;* oppure – che i vegetali sono stati ottenuti o, nel caso di trasferimento, conservati per un periodo di almeno 7 mesi comprendenti il periodo dal 1° aprile al 31 ottobre dell’ultimo ciclo vegetativo completo, in un campo situato ad almeno un km dai suoi limiti interni, in una «zona tampone» ufficialmente dichiarata e con un’estensione di almeno 50 km<sup>2</sup>, dove le piante ospiti sono state sottoposte da una data opportuna a un regime di lotta ufficialmente approvato e controllato con lo scopo di minimizzare il rischio di diffusione di *Erwinia amylo**vora* (Burr.) Winsl. *et al.* dai vegetali ivi coltivati e da dove i vegetali sono autorizzati a essere introdotti nelle zone protette per ciò che concerne *E**r**winia a**m**ylovora* (Burr.) Winsl. *et al.* da Paesi membri della Comunità europea;</td><td></td></tr>
+<tr><td>– altri Paesi.</td><td>constatazione ufficiale: a. che i vegetali sono originari di Paesi riconosciuti dall’UFAG come indenni da *Erwinia a**m**ylovora* (Burr.) Winsl. *et al.,* oppure b. che i vegetali sono originari di aree indenni da *Erwinia amylovora* (Burr.) Winsl. *et al.* stabilite in applicazione delle misure fitosanitarie pertinenti conformi alle norme internazionali e riconosciute come tali dall’UFAG.</td><td>[tab]</td></tr>
+<tr><td>3.2 Dal 15 marzo al 30 giugno, alveari.</td><td>Deve essere fornita la prova documentata che gli alveari: a. sono originari di Paesi riconosciuti dall’UFAG come indenni da *Erwinia amy**lovora* (Burr.) Winsl. *et al.*, oppure b. sono originari di una zona ufficialmente dichiarata zona protetta per ciò che concerne *Erwinia amylov**o**ra* (Burr.) Winsl. *et al*. in un Paese membro dell’Unione europea, oppure c. sono originari della zona protetta elencate nell’allegato 2, oppure d. sono stati sottoposti a un’adeguata misura di quarantena prima del trasporto.</td><td>Canton Vallese</td></tr>
+</table>
+
+Allegato 10
+
+(art. 17)
+
+## Modelli di passaporti fitosanitari
+
+### 1. Introduzione
+
+- 1\.1 Nella rispettiva categoria deve essere selezionato uno dei modelli.
+- 1\.2 Ai fini del presente ordinanza si intende per «codice di tracciabilità» un codice alfabetico, numerico o alfanumerico che identifica una partita, un lotto o un’unità di vendita, utilizzato a fini di tracciabilità, inclusi i codici che fanno riferimento a un lotto, una partita, una serie, una data di produzione o documenti di un operatore professionale.
+
+### 2. Passaporto fitosanitario per l’importazione dall’UE e la messa in commercio
+
+<table>
+<tr><td>2.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image1.png)</td></tr>
+<tr><td>2.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image2.png)</td></tr>
+<tr><td>2.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image3.png)</td></tr>
+<tr><td>2.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image4.png)</td></tr>
+<tr><td>2.5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image5.png)</td></tr>
+<tr><td>2.6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image6.png)</td></tr>
+<tr><td>2.7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image7.png)</td></tr>
+<tr><td>2.8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image8.png)</td></tr>
+</table>
+
+### 3. Passaporto fitosanitario per le zone protette
+
+<table>
+<tr><td>3.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image9.png)</td></tr>
+<tr><td>3.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image10.png)</td></tr>
+<tr><td>3.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image11.png)</td></tr>
+<tr><td>3.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image12.png)</td></tr>
+<tr><td>3.5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image13.png)</td></tr>
+<tr><td>3.6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image14.png)</td></tr>
+<tr><td>3.7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image15.png)</td></tr>
+<tr><td>3.8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image16.png)</td></tr>
+</table>
+
+### 4. Passaporto fitosanitario per l’importazione dall’UE e la messa in commercio combinato con un’etichetta di certificazione
+
+<table>
+<tr><td>4.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image17.png)</td></tr>
+<tr><td>4.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image18.png)</td></tr>
+<tr><td>4.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image19.png)</td></tr>
+<tr><td>4.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image20.png)</td></tr>
+</table>
+
+### 5. Passaporto fitosanitario per le zone protette combinato con un’etichetta di certificazione
+
+<table>
+<tr><td>5.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image21.png)</td></tr>
+<tr><td>5.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image22.png)</td></tr>
+<tr><td>5.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image23.png)</td></tr>
+<tr><td>5.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20200801/it/xml/image/image24.png)</td></tr>
+</table>
+
+Allegato 11
+
+(art. 18)
+
+## Tipi e specie di vegetali per i quali non si applica l’eccezione concernente il codice di tracciabilità di cui all’articolo 75 capoverso 6 OSalV
+
+\1. Vegetali destinati alla piantagione, ad eccezione di sementi e vegetali nanizzati naturalmente o artificialmente, di *Acacia* Mill., *Acer* L., *Albizia* Durazz., *Alnus* Mill., *Annona* L., *Bauhinia* L., *Berberis* L., *Betula* L., *Caesalpinia* L., *Cassia* L., *Castanea* Mill., *Cornus* L., *Corylus* L., *Crataegus* L., *Diospyros* L., *Fagus* L., *Ficus carica* L., *Fraxinus* L., *Hamamelis* L., *Jasminum* L., *Juglans* L., *Ligustrum* L., *Lonicera* L., *Malus* Mill., *Nerium* L., *Persea* Mill., *Pinus* L., *Platanus* L., *Populus* L., *Prunus* L., *Quercus* L., *Robinia* L., *Salix* L., *Sorbus* L., *Taxus* L., *Tilia* L. e *Ulmus*
+
+\2. Vegetali destinati alla piantagione, ad eccezione delle sementi, di *Amelanchier* Med., *Casimiroa* La Llave, *Chaenomeles* Lindl., *Clausena* Burm. f., *Coffea* L., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Lavandula dentata* L., *Mespilus* L., *Murraya* J., *Olea europaea* L., *Polygala myrtifolia* L., *Pyracantha* Roem., *Pyrus* L. e *Vitis* L.
+
+\3. Vegetali destinati alla piantagione di specie stolonifere o tuborifere di *Solanum* L. o relativi ibridi
+
+\4. Vegetali destinati alla piantagione, ad eccezione delle sementi, di *Choisya* Kunth, *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., e relativi ibridi
+
+Allegato 12*[^t-10]*
+
+[^t-10]: Abrogato dal n. II cpv. 4 dell’O del DEFR e del DATEC del 19 giu. 2020, con effetto dal 1° ago. 2020 ([RU 2020 3073](https://fedlex.data.admin.ch/eli/oc/2020/555)).
+
+Allegato 13
+
+(art. 24)
+
+## Modifica di altri atti normativi
+
+Le ordinanze qui appresso sono modificate come segue:
+
+...[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2019 4773](https://fedlex.data.admin.ch/eli/oc/2019/787).

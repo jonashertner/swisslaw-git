@@ -1,0 +1,68 @@
+---
+sr: "0.946.291.363"
+title: "Accord du 26 août 1952 entre la Confédération suisse et la République fédérale d'Allemagne sur la péréquation des charges en Allemagne"
+eli: "https://fedlex.data.admin.ch/eli/cc/1953/134_134_134"
+language: fr
+version: 1953-03-19
+adopted: 1952-08-26
+in_force: 1953-03-19
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/134_134_134/19530319/fr/xml/fedlex-data-admin-ch-eli-cc-1953-134_134_134-19530319-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1953/134_134_134/19530319/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre la Confédération suisse et la République fédérale d’Allemagne sur la péréquation des charges en Allemagne
+
+RO **1953** 134
+
+Traduction
+
+Conclu le 26 août 1952 Entré en vigueur le 19 mars 1953
+
+(État le 19 mars 1953)
+
+Vu les accords conclus entre
+
+la Confédération suisse et la République fédérale d’Allemagne
+
+relatifs aux avoirs allemands en Suisse,
+
+au rétablissement de droits de propriété industrielle,
+
+au règlement des créances de la Confédération suisse contre l’ancien Reich allemand,
+
+les hautes parties contractantes sont convenues de conclure l’accord qui suit.
+
+A cet effet, elles ont désigné comme plénipotentiaires:
+
+(Suivent les noms des plénipotentiaires)
+
+Les plénipotentiaires sont convenus des dispositions suivantes:
+
+#### Art. 1
+
+<sup>(1)</sup> Les ressortissants suisses qui possédaient la nationalité suisse à la date de la réforme monétaire (21 juin 1948) jouissent, eu égard à la péréquation des charges, du traitement réservé en cette matière aux ressortissants de la nation la plus favorisée.
+
+<sup>(2)</sup> Il en est de même pour
+
+- a. les sociétés, associations de personnes et groupements de biens (Körperschaften, Personenvereinigungen und Vermögensmassen), constitués selon le droit suisse qui sont indépendamment soumis à imposition en vertu du droit allemand;
+- b. les sociétés constituées selon le droit allemand qui sont indépendamment soumises à imposition, et dans lesquelles des ressortissants, sociétés, associations de personnes et groupements de biens suisses susmentionnés, possédaient tant le 21 juin 1948 que le 8 mai 1945, soit directement, soit par l’intermédiaire d’autres sociétés, une participation dont l’importance conditionne le privilège de la nation la plus favorisée.
+
+#### Art. 2
+
+Cet accord n’est applicable aux ressortissants suisses possédant également la nationalité allemande que s’ils remplissent les conditions exigées des ressortissants de la nation la plus favorisée qui possèdent aussi la nationalité allemande pour être traités comme ressortissants de la nation la plus favorisée en matière de péréquation des charges.
+
+#### Art. 3
+
+L’interprétations applicables selon le présent accord relèvent des autorités administratives et des tribunaux compétents en matière de péréquation des charges.
+
+#### Art. 4
+
+Le présent accord sera signé par la Suisse également au nom de la Principauté de Liechtenstein avec les mêmes effets; il le sera pour la République fédérale d’Allemagne également au nom du Land de Berlin (Ouest).
+
+#### Art. 5
+
+Le présent accord, rédigé en langue allemande en deux originaux, devra être ratifié. Les instruments de ratification seront échangés dés que possible à Berne. L’accord entrera en vigueur le jour de l’échange des instruments de ratification.
+
+*En foi de quoi,* les plénipotentiaires ont signé le présent accord et l’ont muni de leurs sceaux. Bonn, le 26 août 1952. Pour la Confédération suisse: Rebsamen Pour la République fédérale d’Allemagne: Kühne

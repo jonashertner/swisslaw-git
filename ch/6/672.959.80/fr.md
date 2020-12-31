@@ -1,0 +1,47 @@
+---
+sr: "672.959.80"
+title: Arrêté fédéral du 23 décembre 2011 concernant un complément à la convention contre les doubles impositions entre la Suisse et la Norvège
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/780"
+language: fr
+version: 2012-07-27
+adopted: 2011-12-23
+in_force: 2012-07-27
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/780/20120727/fr/xml/fedlex-data-admin-ch-eli-cc-2012-780-20120727-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/780/20120727/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Arrêté fédéral concernant un complément à la convention contre les doubles impositions entre la Suisse et la Norvège
+
+du 23 décembre 2011 (État le 27 juillet 2012)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu les art. 54, al. 1, et 166, al. 2, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 6 avril 2011[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [FF 2011 3519](https://fedlex.data.admin.ch/eli/fga/2011/546)
+
+#### Art. 1
+
+<sup>1</sup> Le Département fédéral des finances est habilité à convenir avec la Norvège, en complément à la Convention du 7 septembre 1987 entre la Confédération suisse et le Royaume de Norvège en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune[^1-1], dans la forme appropriée, la règle suivante concernant l’échange de renseignements en matière d’impôts: Aux fins de l’application, le but de la référence aux renseignements «vraisemblablement pertinents» est de garantir un échange de renseignements en matière fiscale aussi étendu que possible, sans permettre aux États contractants d’aller à la «pêche aux renseignements» ou de demander des renseignements dont la pertinence concernant les affaires fiscales d’un contribuable précis est douteuse. Les renseignements à fournir dans le cadre d’une demande d’assistance administrative sont certes des conditions d’ordre procédural importantes pour empêcher la «pêche aux renseignements», mais elles ne doivent pas être interprétées de manière à faire obstacle à un échange effectif de renseignements.
+
+<sup>2</sup>
+
+La Suisse donne suite à une demande d’assistance administrative fondée sur une convention contre les doubles impositions contenant une règle correspondant à l’al. 1, lorsqu’il en ressort qu’il ne s’agit pas d’une «pêche aux renseignements», et que la Norvège:
+
+- a. identifie le contribuable, cette identification pouvant être établie par d’autres moyens que le nom et l’adresse;
+- b. indique, dans la mesure où elle en a connaissance, le nom et l’adresse du détenteur présumé des renseignements.
+
+<sup>3</sup> L’Administration fédérale des contributions est habilitée à faire en sorte d’obtenir une reconnaissance mutuelle de l’interprétation présentée à l’al. 2.
+
+<sup>4</sup> En tant qu’État requis, la Suisse veille à ce que les principes de proportionnalité et de praticabilité soient respectés dans le cadre de l’application de l’al. 2, let. b.
+
+[^1-1]: [RS 0.672.959.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2645)
+
+#### Art. 2
+
+Le présent arrêté est sujet au référendum prévu par l’art. 141, al. 1, let. d, ch. 3, de la Constitution pour les traités internationaux qui contiennent des dispositions importantes fixant des règles de droit ou dont la mise en œuvre exige l’adoption de lois fédérales.

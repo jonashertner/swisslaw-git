@@ -1,0 +1,174 @@
+---
+sr: "0.192.110.36"
+title: Sechstes Zusatzprotokoll vom 5. März 1996 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
+eli: "https://fedlex.data.admin.ch/eli/cc/2000/248"
+language: de
+version: 2015-04-22
+adopted: 1996-03-05
+in_force: 1998-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20150422/de/xml/fedlex-data-admin-ch-eli-cc-2000-248-20150422-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20150422/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Sechstes Zusatzprotokoll zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
+
+AS **2000** 1650
+
+Übersetzung*[^t-1]*
+
+Abgeschlossen in Strassburg am 5. März 1996 Von der Schweiz unterzeichnet am 27. August 1998[^t-2] In Kraft getreten für die Schweiz am 1. November 1998
+
+(Stand am 22. April 2015)
+
+[^t-1]: Übersetzung des französischen Originaltexts.
+[^t-2]: Ohne Ratifikationsvorbehalt.
+
+*Die Mitgliedstaaten des Europarats, die dieses Protokoll unter**zeichnen,*
+
+im Hinblick auf die am 4. November 1950[^ingress-1] in Rom unterzeichnete Konvention zum Schutze der Menschenrechte und Grundfreiheiten (im Folgenden als «Konvention» bezeichnet);
+
+im Hinblick auf das am 11. Mai 1994[^ingress-2] in Strassburg unterzeichnete Protokoll Nr. 11 zur Konvention über die Umgestaltung des durch die Konvention eingeführten Kontrollmechanismus (im Folgenden als «Protokoll Nr. 11 zur Konvention» bezeichnet), mit dem ein ständiger Europäischer Gerichtshof für Menschenrechte (im Folgenden, als «Gerichtshof» bezeichnet) errichtet wird, der die Europäische Kommission und den Europäischen Gerichtshof für Menschenrechte ersetzt;
+
+ferner im Hinblick auf Artikel 51 der Konvention, der vorsieht, dass die Richter bei der Ausübung ihres Amtes die Vorrechte und Immunitäten geniessen, die in Artikel 40 der Satzung des Europarats und den auf Grund jenes Artikels geschlossenen Übereinkünften vorgesehen sind;
+
+eingedenk des am 2. September 1949 in Paris unterzeichneten Allgemeinen Abkommens über die Vorrechte und Immunitäten des Europarates[^ingress-3] (im Folgenden als «Allgemeines Abkommen» bezeichnet) und des Zweiten[^ingress-4], Vierten[^ingress-5] und Fünften[^ingress-6] Protokolls dazu;
+
+in der Erwägung, dass ein neues Protokoll zum Allgemeinen Abkommen angebracht ist, um den Richtern des Gerichtshofs Vorrechte und Immunitäten zu gewähren,
+
+haben Folgendes vereinbart:
+
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-2]: [SR 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)
+[^ingress-3]: [SR 0.192.110.3](https://fedlex.data.admin.ch/eli/cc/1966/779_805_797)
+[^ingress-4]: [SR 0.192.110.32](https://fedlex.data.admin.ch/eli/cc/1966/789_814_805)
+[^ingress-5]: [SR 0.192.110.34](https://fedlex.data.admin.ch/eli/cc/1966/792_817_807)
+[^ingress-6]: [SR 0.192.110.35](https://fedlex.data.admin.ch/eli/cc/1994/718_718_718)
+
+#### Art. 1
+
+Ausser den in Artikel 18 des Allgemeinen Abkommens vorgesehenen Vorrechten und Immunitäten geniessen die Richter für sich selbst, ihre Ehegatten und minderjährigen Kinder die Vorrechte, Immunitäten, Befreiungen und Erleichterungen, die nach dem Völkerrecht diplomatischen Vertretern gewährt werden.
+
+#### Art. 2
+
+Im Sinne dieses Protokolls bezeichnet der Ausdruck «Richter» sowohl die nach Artikel 22 der Konvention gewählten Richter als auch jeden nach Artikel 27 Absatz 2 der Konvention von einem beteiligten Staat bestellten Richter ad hoc.
+
+#### Art. 3
+
+Um den Richtern bei der Ausübung ihres Amtes volle Redefreiheit und Unabhängigkeit zu sichern, wird ihnen auch nach Ablauf ihrer Amtszeit Immunität von der Gerichtsbarkeit in Bezug auf ihre mündlichen und schriftlichen Äusserungen sowie die von ihnen in Ausübung ihres Amtes vorgenommenen Handlungen gewährt.
+
+#### Art. 4
+
+Die Vorrechte und Immunitäten werden den Richtern nicht zu ihrem persönlichen Vorteil gewährt, sondern um die unabhängige Ausübung ihres Amtes zu gewährleisten. Nur das Plenum des Gerichtshofs ist befugt, die Immunität von Richtern aufzuheben; es hat nicht nur das Recht, sondern auch die Pflicht, die Immunität eines Richters in allen Fällen aufzuheben, in denen sie nach Auffassung des Plenums verhindern würde, dass der Gerechtigkeit Genüge geschieht, und in denen sie ohne Beeinträchtigung des Zwecks, für den sie gewährt wird, aufgehoben werden kann.
+
+#### Art. 5
+
+<sup>(1)</sup> Die Artikel 1, 3 und 4 finden Anwendung auf den Kanzler des Gerichtshofs und auf einen stellvertretenden Kanzler, der den Vertragsstaaten der Konvention förmlich als amtierender Kanzler notifiziert worden ist.
+
+<sup>(2)</sup> Artikel 3 dieses Protokolls und Artikel 18 des Allgemeinen Abkommens finden auf einen stellvertretenden Kanzler des Gerichtshofs Anwendung.
+
+<sup>(3)</sup> Die in den Absätzen 1 und 2 genannten Vorrechte und Immunitäten werden dem Kanzler und einem stellvertretenden Kanzler nicht zu ihrem persönlichen Vorteil gewährt, sondern um ihnen die Ausübung ihres Amtes zu erleichtern. Nur das Plenum des Gerichtshofs ist befugt, die Immunität seines Kanzlers und eines stellvertretenden Kanzlers aufzuheben; es hat nicht nur das Recht, sondern auch die Pflicht, diese Immunität in allen Fällen aufzuheben, in denen sie nach Auffassung des Plenums verhindern würde, dass der Gerechtigkeit Genüge geschieht, und in denen sie ohne Beeinträchtigung des Zwecks, für den sie gewährt wird, aufgehoben werden kann.
+
+<sup>(4)</sup> Der Generalsekretär des Europarats ist befugt, mit Zustimmung des Präsidenten des Gerichtshofs die Immunität anderer Mitarbeiter der Kanzlei nach Artikel 19 des Allgemeinen Abkommens und unter gebührender Berücksichtigung der in Absatz 3 genannten Erwägungen aufzuheben.
+
+#### Art. 6
+
+<sup>(1)</sup> Schriftstücke und Papiere des Gerichtshofs, der Richter und der Kanzlei sind, soweit sie sich auf die Tätigkeit des Gerichtshofs beziehen, unverletzlich.
+
+<sup>(2)</sup> Der amtliche Schriftwechsel und die sonstigen amtlichen Mitteilungen des Gerichtshofs, der Richter und der Kanzlei dürfen nicht zurückgehalten oder der Zensur unterworfen werden.
+
+#### Art. 7
+
+Dieses Protokoll liegt für die Mitgliedstaaten des Europarats, die das Allgemeine Abkommen unterzeichnet haben, zur Unterzeichnung auf; sie können ihre Zustimmung, gebunden zu sein, ausdrücken,
+
+Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarats hinterlegt.
+
+- a) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen oder
+- b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen.
+
+#### Art. 8
+
+<sup>(1)</sup> Dieses Protokoll tritt am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von einem Monat nach dem Tag folgt, an dem drei Vertragsparteien des Allgemeinen Abkommens nach Artikel 7 ihre Zustimmung ausgedrückt haben, durch das Protokoll gebunden zu sein, beziehungsweise an dem Tag, an dem das Protokoll Nr. 11 zur Konvention in Kraft tritt, je nachdem, welcher Zeitpunkt der spätere ist.
+
+<sup>(2)</sup> Für jeden Vertragsstaat des Allgemeinen Abkommens, der dieses Protokoll später ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnet oder es ratifiziert, annimmt oder genehmigt, tritt es einen Monat nach dem Tag der Unterzeichnung beziehungsweise nach dem Tag der Hinterlegung der Ratifikations-, Annahme- oder Genehmigungsurkunde in Kraft.
+
+#### Art. 9
+
+<sup>(1)</sup> Jeder Staat kann bei der Unterzeichnung ohne Vorbehalt der Ratifikation, bei der Ratifikation oder jederzeit danach durch eine an den Generalsekretär des Europarats gerichtete Notifikation erklären, dass dieses Protokoll auf alle oder einzelne Hoheitsgebiete Anwendung findet, für deren internationale Beziehungen er verantwortlich ist und in denen die Konvention und die Protokolle dazu Anwendung finden.
+
+<sup>(2)</sup> Das Protokoll findet ab dem dreissigsten Tag nach Eingang der genannten Notifikation beim Generalsekretär des Europarats auf das oder die in der Erklärung bezeichneten Hoheitsgebiete Anwendung.
+
+<sup>(3)</sup> Jede nach Absatz 1 abgegebene Erklärung kann in Bezug auf jedes darin bezeichnete Hoheitsgebiet durch eine an den Generalsekretär gerichtete Notifikation zurückgenommen oder geändert werden. Die Rücknahme oder Änderung wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von einem Monat nach Eingang der Notifikation beim Generalsekretär folgt.
+
+#### Art. 10
+
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
+
+- a) jede Unterzeichnung;
+- b) jede Hinterlegung einer Ratifikations-, Annahme- oder Genehmigungsurkunde;
+- c) jeden Zeitpunkt des Inkrafttretens dieses Protokolls nach den Artikeln 8 und 9;
+- d) jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Protokoll.
+
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 5. März 1996 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats beglaubigte Abschriften. *(Es folgen die Unterschriften)*
+
+Geltungsbereich am 22. April 2015**[^t-3]**
+
+<table>
+<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Unterschrift ohne Ratifikationsvorbehalt (U)</th><th colspan="2">Inkrafttreten</th></tr>
+<tr><td colspan="2">Albanien</td><td>4. Juni</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Andorra</td><td>24. November</td><td>1998</td><td>25. Dezember</td><td>1998</td></tr>
+<tr><td colspan="2">Armenien</td><td>18. Juni</td><td>2002</td><td>19. Juli</td><td>2002</td></tr>
+<tr><td colspan="2">Aserbeidschan</td><td>22. Juni</td><td>2003</td><td>11. April</td><td>2015</td></tr>
+<tr><td colspan="2">Belgien</td><td>29. Juni</td><td>2000</td><td>30. Juli</td><td>2000</td></tr>
+<tr><td colspan="2">Bosnien und Herzegowina</td><td>30. Juni</td><td>2008</td><td>31. Juli</td><td>2008</td></tr>
+<tr><td colspan="2">Bulgarien</td><td>31. Mai</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td colspan="2">Dänemark</td><td>28. August</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Deutschland</td><td>2. Oktober</td><td>2001</td><td>3. November</td><td>2001</td></tr>
+<tr><td colspan="2">Estland</td><td>16. Dezember</td><td>1998</td><td>17. Januar</td><td>1999</td></tr>
+<tr><td colspan="2">Finnland</td><td>19. Juni</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Frankreich\*</td><td>17. November</td><td>1998</td><td>18. Dezember</td><td>1998</td></tr>
+<tr><td colspan="2">Georgien</td><td>20. Juni</td><td>2000</td><td>21. Juli</td><td>2000</td></tr>
+<tr><td colspan="2">Griechenland</td><td>19. März</td><td>2001</td><td>20. April</td><td>2001</td></tr>
+<tr><td colspan="2">Irland</td><td>28. Oktober</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Island</td><td>4. November</td><td>1998</td><td>5. Dezember</td><td>1998</td></tr>
+<tr><td colspan="2">Italien</td><td>3. November</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Kroatien</td><td>11. Oktober</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Lettland</td><td>15. Januar</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Liechtenstein</td><td>20. Dezember</td><td>1999</td><td>21. Januar</td><td>2000</td></tr>
+<tr><td colspan="2">Litauen</td><td>22. Juni</td><td>1999</td><td>1. Oktober</td><td>1999</td></tr>
+<tr><td colspan="2">Luxemburg</td><td>5. August</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Malta</td><td>3. Juli</td><td>2002</td><td>4. August</td><td>2002</td></tr>
+<tr><td colspan="2">Mazedonien</td><td>29. November</td><td>2002</td><td>30. Dezember</td><td>2002</td></tr>
+<tr><td colspan="2">Moldau\*</td><td>27. Juni</td><td>2001</td><td>28. Juli</td><td>2001</td></tr>
+<tr><td colspan="2">Monaco</td><td>30. November</td><td>2005</td><td>31. Dezember</td><td>2005</td></tr>
+<tr><td colspan="2">Montenegro</td><td>17. September</td><td>2008 U</td><td>18. Oktober</td><td>2008</td></tr>
+<tr><td colspan="2">Niederlande\*</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">[tab] Aruba</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">[tab] Curaçao</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">[tab] Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">[tab] Sint Maarten</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Norwegen</td><td>30. Oktober</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Österreich</td><td>15. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Polen</td><td>24. Januar</td><td>2003</td><td>25. Februar</td><td>2003</td></tr>
+<tr><td colspan="2">Portugal</td><td>13. April</td><td>2015</td><td>14. Mai</td><td>2015</td></tr>
+<tr><td colspan="2">Rumänien</td><td>9. April</td><td>1999</td><td>10. Mai</td><td>1999</td></tr>
+<tr><td colspan="2">Russland</td><td>10. Mai</td><td>2001</td><td>11. Juni</td><td>2001</td></tr>
+<tr><td colspan="2">San Marino</td><td>19. September</td><td>2014</td><td>20. Oktober</td><td>2014</td></tr>
+<tr><td colspan="2">Schweden</td><td>2. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Schweiz</td><td>27. August</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Serbien</td><td>26. April</td><td>2005</td><td>27. Mai</td><td>2005</td></tr>
+<tr><td colspan="2">Slowakei</td><td>24. November</td><td>1999</td><td>25. Dezember</td><td>1999</td></tr>
+<tr><td colspan="2">Slowenien</td><td>29. November</td><td>2001</td><td>30. Dezember</td><td>2001</td></tr>
+<tr><td colspan="2">Spanien</td><td>21. Januar</td><td>1999</td><td>22. Februar</td><td>1999</td></tr>
+<tr><td colspan="2">Tschechische Republik</td><td>24. Juni</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Türkei</td><td>17. September</td><td>2003</td><td>18. Oktober</td><td>2003</td></tr>
+<tr><td colspan="2">Ukraine</td><td>17. September</td><td>2003</td><td>18. Oktober</td><td>2003</td></tr>
+<tr><td colspan="2">Ungarn</td><td>1. April</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td colspan="2">Vereinigtes Königreich</td><td>9. November</td><td>2001</td><td>10. Dezember</td><td>2001</td></tr>
+<tr><td colspan="2">[tab] Insel Man</td><td>2. Oktober</td><td>2003</td><td>1. November</td><td>2003</td></tr>
+<tr><td colspan="2">Zypern</td><td>9. Februar</td><td>2000</td><td>10. März</td><td>2000</td></tr>
+<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+</table>
+
+[^t-3]: [AS 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248), [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348), [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316), [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309), [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).

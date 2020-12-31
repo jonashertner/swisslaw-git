@@ -1,0 +1,347 @@
+---
+sr: "901.0"
+title: Legge federale del 6 ottobre 2006 sulla politica regionale
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/136"
+language: it
+version: 2013-01-01
+adopted: 2006-10-06
+in_force: 2007-03-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/136/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2007-136-20130101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/136/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sulla politica regionale
+
+del 6 ottobre 2006 (Stato 1° gennaio 2013)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 103 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 16 novembre 2005[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2006 221](https://fedlex.data.admin.ch/eli/fga/2006/7)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo**
+
+La presente legge intende potenziare la concorrenzialità di singole regioni, e incrementarne la produzione di valore aggiunto, contribuendo in questo modo a creare e mantenere posti di lavoro a livello regionale, a conservare un insediamento decentrato e a eliminare le disparità regionali.
+
+#### Art. 2
+
+**Principi**
+
+La politica regionale si fonda sui seguenti principi:
+
+- a. devono essere considerate le esigenze dello sviluppo sostenibile;
+- b. le regioni sviluppano proprie iniziative, volte a incrementare la loro concorrenzialità e la loro produzione di valore aggiunto;
+- c. i centri regionali sono i motori dello sviluppo;
+- d. i Cantoni sono i principali interlocutori della Confederazione e assicurano la collaborazione con le regioni;
+- e. i servizi federali collaborano strettamente tra loro, nonché con istituzioni e organizzazioni svizzere ed estere.
+
+#### Art. 3
+
+**Regioni**
+
+<sup>1</sup> Sono regioni ai sensi della presente legge gruppi di Cantoni e Comuni come pure consorzi di Cantoni o Comuni con altri enti o associazioni privati o di diritto pubblico.
+
+<sup>2</sup> Nella costituzione di una regione è data priorità all’unità geografica, alla funzionalità economica e all’obiettivo di uno svolgimento comune dei compiti piuttosto che alle delimitazioni istituzionali.
+
+<sup>3</sup> Occorre tenere conto delle strutture regionali già esistenti, purché siano adatte a realizzare lo scopo della presente legge.
+
+<sup>4</sup> Spetta alle regioni decidere quali unità organizzative intendono creare per svolgere i loro compiti.
+
+## Sezione 2: Misure
+
+#### Art. 4
+
+**Promozione di iniziative, programmi e progetti**
+
+<sup>1</sup>
+
+Gli aiuti finanziari possono essere concessi per preparare, eseguire e valutare iniziative, programmi e progetti che:
+
+- a. promuovono lo spirito e l’attività imprenditoriali in una regione;
+- b. consolidano la capacità di innovazione in una regione;
+- c. sfruttano le potenzialità regionali e creano o migliorano sistemi per la produzione di valore aggiunto; oppure
+- d. promuovono la collaborazione tra istituzioni pubbliche e istituzioni private, tra regioni e con agglomerati urbani.
+
+<sup>2</sup>
+
+Gli aiuti finanziari sono concessi solo se le iniziative, i programmi e i progetti:
+
+- a. hanno carattere innovativo per la regione interessata; e
+- b. profittano soprattutto a regioni che presentano in parte preponderante problemi e potenzialità di sviluppo specifici alle regioni montane e alle altre aree rurali.
+
+#### Art. 5
+
+**Promozione di enti per lo sviluppo, segretariati regionali e altri attori regionali**
+
+Gli aiuti finanziari possono essere concessi a enti per lo sviluppo, segretariati regionali e altri attori regionali, allo scopo di:
+
+- a. elaborare e realizzare strategie di promozione pluriennali;
+- b. coordinare e seguire iniziative, programmi e progetti di promozione regionale.
+
+#### Art. 6
+
+**Promozione della cooperazione transfrontaliera**
+
+<sup>1</sup>
+
+Gli aiuti finanziari possono essere concessi allo scopo di sostenere la partecipazione svizzera a programmi, progetti e azioni innovative nell’ambito della cooperazione transfrontaliera, purché questa:
+
+- a. incida positivamente sulla produzione di valore aggiunto di una regione di frontiera, in modo diretto o indiretto; oppure
+- b. rivesta un’importanza strategica a livello nazionale.
+
+<sup>2</sup> Le partecipazioni strategicamente importanti a livello nazionale devono essere coordinate dalla Confederazione, in collaborazione con i Cantoni.
+
+<sup>3</sup> I progetti di costruzione non beneficiano degli aiuti finanziari.
+
+<sup>4</sup> Nella promozione della cooperazione transfrontaliera va tenuto conto della politica di collaborazione territoriale europea e di quella nazionale, nonché delle loro modalità d’attuazione e dei rispettivi calendari.
+
+#### Art. 7
+
+**Mutui per progetti infrastrutturali**
+
+<sup>1</sup>
+
+La Confederazione può concedere mutui senza interessi o a tassi d’interesse favorevoli allo scopo di finanziare progetti infrastrutturali, purché questi:
+
+- a. siano direttamente legati alla realizzazione e alla prosecuzione di progetti conformi all’articolo 4;
+- b. siano parte integrante di un sistema per la produzione di valore aggiunto e contribuiscano a potenziarlo; oppure
+- c. favoriscano immediatamente investimenti indotti in altri settori economici della regione.
+
+<sup>2</sup>
+
+Questi mutui possono essere concessi solo per progetti infrastrutturali che:
+
+- a. profittano soprattutto a regioni che presentano in parte preponderante problemi e potenzialità di sviluppo specifici alle regioni montane e alle altre aree rurali;
+- b. sono finanziati almeno in parte uguale anche dal Cantone; e
+- c. non siano già altrimenti sussidiati dalla Confederazione.
+
+#### Art. 8
+
+**Tasso d’interesse dei mutui, rimborso e perdite**
+
+<sup>1</sup> Il tasso d’interesse del mutuo deve essere fissato tenendo conto delle possibilità finanziarie del beneficiario.
+
+<sup>2</sup> I mutui devono essere rimborsati entro 25 anni. Il termine di scadenza deve essere fissato tenendo conto della durata di vita delle infrastrutture sussidiate.
+
+<sup>3</sup> Eventuali perdite derivanti da mutui sono a carico per metà del Cantone che li ha assegnati.
+
+#### Art. 9
+
+**Presupposti e condizioni generali**
+
+<sup>1</sup> Tutti i beneficiari di aiuti finanziari secondo gli articoli 4–6 e di mutui secondo l’articolo 7 devono contribuire in misura adeguata con mezzi propri al progetto.
+
+<sup>2</sup> Essi adottano misure adatte a sorvegliarne e valutarne la realizzazione.
+
+<sup>3</sup> Occorre tenere conto per quanto possibile della pianificazione del territorio e degli obiettivi delle politiche settoriali della Confederazione che incidono sul territorio.
+
+<sup>4</sup> Nel singolo caso, gli aiuti finanziari e i mutui possono essere vincolati ad altri oneri o ad altre condizioni.
+
+#### Art. 10
+
+**Regioni montane e altre aree rurali**
+
+Il Consiglio federale stabilisce, insieme con i Cantoni, la zona che presenta in parte preponderante problemi e potenzialità di sviluppo specifici alle regioni montane e alle altre aree rurali (art. 4 cpv. 2 lett. b e 7 cpv. 2 lett. a).
+
+#### Art. 11
+
+**Versamentodegli aiuti finanziari e dei mutui**
+
+<sup>1</sup> Gli aiuti finanziari di cui agli articoli 4–6 e i mutui di cui all’articolo 7 sono versati, sulla base di una convenzione di programma, sotto forma di importi forfettari.
+
+<sup>2</sup> L’importo degli aiuti finanziari e dei mutui è stabilito tenendo conto degli effetti globali dei programmi e delle misure.
+
+#### Art. 12
+
+**Sgravi fiscali**
+
+<sup>1</sup> Se un Cantone concede sgravi fiscali ai sensi dell’articolo 23 capoverso 3 della legge federale del 14 dicembre 1990[^12-1] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni, anche la Confederazione può concedere sgravi sull’imposta federale diretta.
+
+<sup>2</sup>
+
+Gli sgravi sull’imposta federale diretta sono concessi soltanto se:
+
+- a. un’impresa industriale oppure un’azienda del settore terziario vicina ad attività produttive crea nuovi posti di lavoro oppure riorienta quelli esistenti;
+- b. il progetto soddisfa le condizioni poste dalla presente legge a livello di economia regionale;
+- c. il Cantone prevede il recupero d’imposta in caso di sgravi fiscali ottenuti abusivamente.
+
+<sup>3</sup> Consultati i Cantoni, il Consiglio federale stabilisce le zone in cui le imprese possono beneficiare di tali sgravi e determina le modalità della vigilanza finanziaria, segnatamente l’obbligo di procurarsi e trasmettere informazioni in merito agli effetti degli sgravi fiscali concessi.
+
+[^12-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+#### Art. 13
+
+**Misure di accompagnamento**
+
+La Confederazione può prendere misure per:
+
+- a. potenziare la cooperazione e sfruttare le sinergie tra la sua politica regionale e le sue altre politiche settoriali;
+- b. promuovere regioni che hanno particolari problemi;
+- c. istituire e amministrare un sistema per la gestione di informazioni e conoscenze volto a promuovere lo sviluppo regionale;
+- d. provvedere alla qualificazione dei segretari regionali e degli altri attori regionali, come pure dei responsabili della preparazione e della realizzazione di iniziative, programmi e progetti.
+
+## Sezione 3: Esecuzione
+
+#### Art. 14
+
+**Programma pluriennale**
+
+<sup>1</sup>
+
+L’Assemblea federale stabilisce in un programma pluriennale:
+
+- a. le priorità e i contenuti promozionali della politica regionale;
+- b. le priorità delle misure di accompagnamento di cui all’articolo 13.
+
+<sup>2</sup> Il programma pluriennale prende in considerazione un periodo di otto anni.
+
+<sup>3</sup> Al momento dell’elaborazione del programma pluriennale, i Cantoni presentano le loro riflessioni strategiche e le loro necessità, tenendo conto anche dei bisogni delle loro regioni.
+
+#### Art. 15
+
+**Compiti dei Cantoni**
+
+<sup>1</sup> Sulla base delle direttrici del programma pluriennale e in collaborazione con gli enti per lo sviluppo, i segretariati regionali o altri attori regionali, i Cantoni elaborano programmi cantonali d’attuazione e li aggiornano periodicamente.
+
+<sup>2</sup> In collaborazione con gli enti regionali per lo sviluppo, i segretariati regionali e gli altri attori regionali, i Cantoni garantiscono il coordinamento dei progetti di importanza sovraregionale, sovracantonale o transfrontaliera.
+
+<sup>3</sup> Nei limiti dei mezzi a disposizione, i Cantoni decidono quali progetti possono beneficiare di aiuti finanziari o mutui.
+
+#### Art. 16
+
+**Convenzioni di programma e partecipazione finanziaria dei Cantoni**
+
+<sup>1</sup> Sulla base dei programmi cantonali d’attuazione, la Confederazione conclude con i Cantoni convenzioni di programma sull’arco di più anni. Esse costituiscono la base per un contributo della Confederazione calcolato su base forfettaria.
+
+<sup>2</sup> I Cantoni sono tenuti a partecipare finanziariamente alla realizzazione dei loro programmi d’attuazione con un contributo pari a quello della Confederazione.
+
+#### Art. 17
+
+**Sorveglianza**
+
+<sup>1</sup> Il Cantone prende le misure necessarie per sorvegliare la realizzazione delle iniziative, dei programmi, dei progetti e dei progetti d’infrastruttura sussidiati.
+
+<sup>2</sup> La Confederazione prende le misure necessarie per sorvegliare la realizzazione del programma pluriennale.
+
+#### Art. 18
+
+**Valutazione del programma pluriennale**
+
+Il Consiglio federale provvede alla valutazione scientifica del programma pluriennale e ne riferisce all’Assemblea federale.
+
+#### Art. 19
+
+**Domande di sgravio fiscale e procedura**
+
+<sup>1</sup> La decisione di concedere sgravi fiscali spetta al Cantone. Questo inoltra la relativa domanda, corredata della sua decisione e delle sue proposte, alla Segreteria di Stato dell’economia (SECO).
+
+<sup>2</sup> La SECO esamina le domande per il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^19-1]. Questo decide della concessione e dell’entità degli sgravi sull’imposta federale diretta.
+
+<sup>3</sup> La decisione concernente gli sgravi sull’imposta federale diretta è pronunciata dall’autorità cantonale competente per la tassazionedelle imprese, alle condizioni definite dal DEFR e d’intesa con il Dipartimento federale delle finanze.
+
+[^19-1]: Nuova espr. giusta il n. I 26 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 20
+
+**Collaborazione**
+
+Il Consiglio federale decide come debba essere assicurata sotto il profilo organizzativo la collaborazione con Cantoni, regioni montane e altre aree rurali.
+
+## Sezione 4: Finanziamento
+
+#### Art. 21
+
+**Fondo per lo sviluppo regionale**
+
+<sup>1</sup> Per il finanziamento delle misure previste dalla presente legge, la Confederazione alimenta un Fondo per lo sviluppo regionale.
+
+<sup>2</sup> Gli interessi, i rimborsi e le prestazioni di garanzia annuali provenienti da mutui assegnati e versati in virtù della legge federale del 21 marzo 1997[^21-1] sull’aiuto agli investimenti nelle regioni montane (LIM) e dai mutui concessi in virtù dell’articolo 7 devono essere accreditati al Fondo per lo sviluppo regionale.
+
+<sup>3</sup> I prelievi dal fondo e le condizioni di prestito devono essere definiti tenendo conto delle perdite derivanti da mutui in corso, degli interessi e del rincaro. Entro i limiti del possibile, il valore del fondo va mantenuto a lungo termine.
+
+[^21-1]: [[RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995), [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29)[187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 9, [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63)[2504](https://fedlex.data.admin.ch/eli/oc/2002/333), [2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46), [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)art. 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 122 [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)art. 1]
+
+#### Art. 22
+
+**Stanziamento dei mezzi finanziari**
+
+<sup>1</sup> Per ulteriori conferimenti al Fondo per lo sviluppo regionale, l’Assemblea federale stabilisce, mediante decreto federale semplice, un limite di spesa limitato a un periodo di otto anni.
+
+<sup>2</sup> Il limite di spesa è stabilito tenendo conto del fabbisogno esposto nel programma pluriennale, dei mezzi a disposizione del Fondo per lo sviluppo regionale, nonché della situazione finanziaria della Confederazione.
+
+## Sezione 5: Rimedi giuridici
+
+#### Art. 23
+
+Le decisioni dell’Amministrazione federale e le decisioni cantonali di ultima istanza sono impugnabili con ricorso al Tribunale amministrativo federale.
+
+## Sezione 6: Disposizioni finali
+
+#### Art. 24
+
+**Abrogazione e modifica del diritto vigente**
+
+L’abrogazione e la modifica del diritto vigente sono disciplinate nell’allegato.
+
+#### Art. 25
+
+**Disposizioni transitorie**
+
+<sup>1</sup> All’entrata in vigore della presente legge, il saldo del fondo d’aiuto agli investimenti di cui all’articolo 14 LIM[^25-1] è trasferitoal Fondo per lo sviluppo regionale.
+
+<sup>2</sup> Fino al loro completo rimborso, per i mutui d’aiuto agli investimenti valgono le disposizioni della LIM.
+
+<sup>3</sup> Dopo l’entrata in vigore della presente legge, gli impegni contratti dalla Confederazione sulla base della LIM, della legge federale dell’8 ottobre 1999[^25-2] concernente la promozione della partecipazione svizzera all’iniziativa comunitaria di cooperazione transfrontaliera, transnazionale e interregionale (INTERREG III) per il periodo 2000–2006, del decreto federale del 21 marzo 1997[^25-3] a sostegno di cambiamenti strutturali nelle aeree rurali e dell’articolo 6*a* del decreto federale del 6 ottobre 1995[^25-4] in favore delle zone di rilancio economico saranno onorati dal Fondo per lo sviluppo regionale.
+
+[^25-1]: [[RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995); [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29), [187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 9; [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63), [2504](https://fedlex.data.admin.ch/eli/oc/2002/333); [2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46); [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)art. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 122, [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)art. 1]
+[^25-2]: [[RU 2000 609](https://fedlex.data.admin.ch/eli/oc/2000/101), [2006 4275](https://fedlex.data.admin.ch/eli/oc/2006/652)]
+[^25-3]: [[RU 1997 1610](https://fedlex.data.admin.ch/eli/oc/1997/1610_1610_1610), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 11, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 124 [4297](https://fedlex.data.admin.ch/eli/oc/2006/658)]
+[^25-4]: [[RU 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918), [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 144 [4301](https://fedlex.data.admin.ch/eli/oc/2006/660)]
+
+#### Art. 26
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà a referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° gennaio 2008[^26-1] Art. 14 e 22: 15 marzo 2007[^26-2]
+
+[^26-1]: O del 28 nov. 2007 ([RU 2007 6861](https://fedlex.data.admin.ch/eli/oc/2007/884)).
+[^26-2]: DCF del 28 feb. 2007.
+
+Allegato
+
+(art. 24)
+
+## Abrogazione e modifica del diritto vigente
+
+I
+
+I seguenti atti normativi sono abrogati:
+
+- 1\. legge federale dell’8 ottobre 1999[^annexu1-lvlu1-1] concernente la promozione della partecipazione svizzera all’iniziativa comunitaria di cooperazione transfrontaliera, transnazionale e interregionale (INTERREG III) per il periodo 2000–2006;
+- 2\. legge federale del 21 marzo 1997[^annexu1-lvlu1-2] sull’aiuto agli investimenti nelle regioni montane;
+- 3\. decreto federale del 21 marzo 1997[^annexu1-lvlu1-3] a sostegno di cambiamenti strutturali nelle aree rurali;
+- 4\. decreto federale del 6 ottobre 1995[^annexu1-lvlu1-4] in favore delle zone di rilancio economico.
+
+II
+
+...[^annexu1-lvlu1-5]
+
+[^annexu1-lvlu1-1]: [[RU 2000 609](https://fedlex.data.admin.ch/eli/oc/2000/101), [2006 4275](https://fedlex.data.admin.ch/eli/oc/2006/652)]
+[^annexu1-lvlu1-2]: [[RU 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995); [2000 179](https://fedlex.data.admin.ch/eli/oc/2000/29), [187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 9; [2002 290](https://fedlex.data.admin.ch/eli/oc/2002/63), [2504](https://fedlex.data.admin.ch/eli/oc/2002/333); [2003 267](https://fedlex.data.admin.ch/eli/oc/2003/46); [2004 3439](https://fedlex.data.admin.ch/eli/oc/2004/455)art. 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 122, [2359](https://fedlex.data.admin.ch/eli/oc/2006/362)art. 1]
+[^annexu1-lvlu1-3]: [[RU 1997 1610](https://fedlex.data.admin.ch/eli/oc/1997/1610_1610_1610); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 11; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 124, [4297](https://fedlex.data.admin.ch/eli/oc/2006/658)]
+[^annexu1-lvlu1-4]: [[RU 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918); [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 144, [4301](https://fedlex.data.admin.ch/eli/oc/2006/660)]
+[^annexu1-lvlu1-5]: Le mod. possono essere consultate alla [RU 2007 681](https://fedlex.data.admin.ch/eli/oc/2007/136).

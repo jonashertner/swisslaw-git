@@ -1,0 +1,86 @@
+---
+sr: "172.041.14"
+title: "Ordonnance du 5 juillet 2006 sur les émoluments pour les prestations de l'Office fédéral de la justice (Émoluments OFJ, Oem-OFJ)"
+short: Oem-OFJ
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/533"
+language: fr
+version: 2007-01-01
+adopted: 2006-07-05
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-533-20070101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20070101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les émoluments pour les prestations de l’Office fédéral de la justice
+
+(Emoluments OFJ, Oem-OFJ)
+
+du 5 juillet 2006 (Etat le 1<sup>er</sup> janvier 2007)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 46*a* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 1
+
+**Principe et exceptions au champ d’application**
+
+<sup>1</sup>
+
+L’Office fédéral de la justice (office) perçoit des émoluments notamment pour les prestations suivantes:
+
+- a. les avis de droit et les renseignements juridiques;
+- b. les renseignements tirés de registres.
+
+<sup>2</sup>
+
+La présente ordonnance ne s’applique pas aux décisions et aux prestations:
+
+- a. de l’Office fédéral du registre du commerce;
+- b. de l’Office fédéral de l’état civil;
+- c. du Casier judiciaire suisse;
+- d. que l’office rend ou fournit sur la base de la loi fédérale du 17 décembre 2004 sur la transparence[^1-1].
+
+[^1-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 2
+
+**Applicabilité de l’ordonnance générale sur les émoluments**
+
+Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^2-1] s’appliquent dans la mesure où la présente ordonnance ne prévoit pas de réglementation particulière.
+
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 3
+
+**Calcul des émoluments**
+
+<sup>1</sup> Les émoluments sont fixés en fonction du temps consacré.
+
+<sup>2</sup> Le tarif horaire se situe entre 100 et 250 francs, en fonction du niveau de connaissances requis.
+
+#### Art. 4
+
+**Majoration des émoluments**
+
+Pour les prestations d’une ampleur, d’une difficulté ou d’une urgence exceptionnelles, l’office peut majorer les émoluments de 50 % au maximum.
+
+#### Art. 5
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 30 octobre 1985 instituant des émoluments pour les prestations de l’Office fédéral de la justice[^5-1] est abrogée.
+
+[^5-1]: [[RO 1985 1699](https://fedlex.data.admin.ch/eli/oc/1985/1699_1699_1699), [1993 1260](https://fedlex.data.admin.ch/eli/oc/1993/1260_1260_1260), [1999 3480](https://fedlex.data.admin.ch/eli/oc/1999/490)art. 17 ch. 1]
+
+#### Art. 6
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2007.

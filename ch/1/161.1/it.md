@@ -1,0 +1,1448 @@
+---
+sr: "161.1"
+title: Legge federale del 17 dicembre 1976 sui diritti politici (LDP)
+short: LDP
+eli: "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"
+language: it
+version: 2015-11-01
+adopted: 1976-12-17
+in_force: 1978-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20151101/it/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20151101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sui diritti politici
+
+(LDP)**[^t-1]**
+
+del 17 dicembre 1976 (Stato 1° novembre 2015)
+
+[^t-1]: Abbreviazione introdotta dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 39 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 9 aprile 1975[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^ingress-3]: [FF 1975 I 1313](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)
+
+## Titolo primo: Diritto di voto e espressione del voto
+
+#### Art. 1
+
+[^1-1]
+
+[^1-1]: Abrogato dal n. I della LF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 2
+
+**Esclusione dal diritto di voto**[^2-1]
+
+Per persone interdette escluse dal diritto di voto ai sensi dell’articolo 136 capoverso 1 della Costituzione federale s’intendono le persone che a causa di durevole incapacità di discernimento sono sottoposte a curatela generale o sono rappresentate da una persona che hanno designato con mandato precauzionale.
+
+[^2-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+
+#### Art. 3
+
+**Domicilio politico**
+
+<sup>1</sup> Il voto è esercitato nel domicilio politico, ossia nel Comune in cui abita ed è notificato l’avente diritto. I nomadi votano nel comune di attinenza.[^3-1]
+
+<sup>2</sup> Chiunque deposita, invece dell’atto d’origine, un altro documento di legittimazione (certificato di cittadinanza, certificato provvisorio ecc.) acquista il domicilio politico soltanto se prova di non essere iscritto nel catalogo elettorale del luogo in cui è depositato l’atto d’origine.
+
+[^3-1]: Per. 2 introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 4
+
+**Catalogo elettorale**
+
+<sup>1</sup> Gli aventi diritto di voto sono iscritti nel catalogo elettorale del loro domicilio politico. Iscrizioni e radiazioni sono fatte d’ufficio.
+
+<sup>2</sup> Innanzi un’elezione o votazione, le iscrizioni sono fatte fino al quinto giorno precedente quello dell’elezione o votazione, se risulta che il giorno della votazione sono adempiute le condizioni di partecipazione.
+
+<sup>3</sup> Il catalogo elettorale può essere consultato da ogni avente diritto di voto.
+
+#### Art. 5
+
+**Principi per l’espressione del voto**
+
+<sup>1</sup> Il voto è espresso mediante schede ufficiali. Sono loro parificate le schede di rilevamento cantonali per l’elaborazione elettronica dei dati.[^5-1]
+
+<sup>2</sup> Le schede non prestampate devono essere riempite a mano. Le schede elettorali prestampate possono essere modificate soltanto a mano.
+
+<sup>3</sup> Il votante esprime personalmente il suo voto deponendo la scheda nell’urna o votando per corrispondenza.[^5-2] La sperimentazione del voto elettronico è retta dall’articolo 8*a*.[^5-3]
+
+<sup>4</sup> e <sup>5</sup> …[^5-4]
+
+<sup>6</sup> La scheda può essere deposta nell’urna da terzi se tale procedura è ammessa dal diritto cantonale per le votazioni ed elezioni cantonali. L’avente diritto di voto incapace di scrivere può far riempire la scheda secondo le sue istruzioni da un avente diritto di voto di sua scelta.[^5-5]
+
+<sup>7</sup> Il segreto del voto dev’essere tutelato.
+
+[^5-1]: Per. 2 introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 dic. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-3]: Per. 2 introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^5-4]: Abrogati dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); FF **1993** 309).
+[^5-5]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+
+#### Art. 6
+
+**Voto degli invalidi**
+
+I Cantoni provvedono affinché possano votare anche coloro che, per invalidità o altri motivi, sono durevolmente incapaci di svolgere da sé le necessarie operazioni di voto.
+
+#### Art. 7
+
+**Voto anticipato**
+
+<sup>1</sup> I Cantoni provvedono affinché il voto anticipato sia possibile in due almeno dei quattro giorni precedenti quello della votazione.
+
+<sup>2</sup> Per il voto anticipato, il diritto cantonale prevede che ci si potrà recare a singole o a tutte le urne per un tempo determinato ovvero consegnare la scheda, in busta chiusa, a un pubblico ufficio.
+
+<sup>3</sup> Se i Cantoni prevedono un voto anticipato più esteso, questo vale parimente per le votazioni e elezioni federali.
+
+<sup>4</sup> I Cantoni emanano le disposizioni necessarie per lo spoglio di tutti i voti, la tutela del segreto del voto e l’impedimento di abusi.[^7-1]
+
+[^7-1]: [RU 1978 1552](https://fedlex.data.admin.ch/eli/oc/1978/1552_1552_1552)
+
+#### Art. 8
+
+**Voto per corrispondenza**
+
+<sup>1</sup> I Cantoni provvedono per una procedura semplice del voto per corrispondenza. Essi emanano in particolare disposizioni per assicurare il controllo della legittimazione al voto, il segreto del voto e lo spoglio di tutti i voti e per impedire gli abusi.
+
+<sup>2</sup> Il voto per corrispondenza può avvenire dal momento in cui il materiale necessario per votare validamente, secondo la normativa cantonale, è disponibile.[^8-1]
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 dic. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 8a
+
+**Voto elettronico**[^8a-1]
+
+<sup>1</sup> D’intesa con i Cantoni e i Comuni interessati, il Consiglio federale può autorizzare la sperimentazione del voto elettronico limitandola sotto il profilo territoriale, temporale e materiale.
+
+<sup>1bis</sup> Se un Cantone svolge da tempo senza panne e con successo sperimentazioni di voto elettronico, il Consiglio federale può, a sua domanda, autorizzarlo a proseguire le sperimentazioni per un periodo di tempo determinato. Può sottoporre l’autorizzazione a oneri o condizioni oppure, in ogni momento e ponderate tutte le circostanze, limitare il voto elettronico a a luoghi, date o oggetti determinati.[^8a-2]
+
+<sup>2</sup> Il controllo della legittimazione al voto, il segreto del voto e lo spoglio di tutti i voti devono essere garantiti e gli abusi esclusi.
+
+<sup>3</sup> …[^8a-3]
+
+<sup>4</sup> Il Consiglio federale disciplina i dettagli.
+
+[^8a-1]: Introdotto dal n. I della LF del 21 giu. 2002 , in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^8a-2]: Introdotto dal n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-3]: Abrogato dal n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, con effetto dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+## Titolo secondo: Votazioni
+
+#### Art. 10
+
+**Organizzazione**
+
+<sup>1</sup> Il Consiglio federale stabilisce le norme secondo cui sono fissati i giorni delle votazioni. A tal fine tiene conto delle esigenze degli aventi diritto di voto, del Parlamento, dei Cantoni, dei partiti e delle organizzazioni incaricate del recapito del materiale di voto ed evita le sovrapposizioni di date che potrebbero risultare dalle differenze tra l’anno civile e l’anno ecclesiastico.[^10-1]
+
+<sup>1bis</sup> Almeno quattro mesi prima del giorno della votazione, il Consiglio federale stabilisce quali testi porre in votazione. Le leggi federali dichiarate urgenti possono essere poste in votazione entro un termine più breve.[^10-2]
+
+<sup>2</sup> Ogni Cantone organizza la votazione sul suo territorio ed emana le necessarie disposizioni.
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-2]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 10a
+
+**Informazione degli aventi diritto di voto**[^10a-1]
+
+<sup>1</sup> Il Consiglio federale informa costantemente gli aventi diritto di voto sui testi sottoposti a votazione federale.
+
+<sup>2</sup> In tal ambito rispetta i principi della completezza, dell’oggettività, della trasparenza e della proporzionalità.
+
+<sup>3</sup> Espone le posizioni principali sostenute durante il processo decisionale parlamentare.
+
+<sup>4</sup> Non sostiene una raccomandazione di voto che diverga dalla posizione dell’Assemblea federale.
+
+[^10a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 15 gen. 2009 ([RU 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1); [FF 2006 8491](https://fedlex.data.admin.ch/eli/fga/2006/1201)[8509](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
+
+#### Art. 11
+
+**Testi in votazione, schede e spiegazioni[^11-1]**
+
+<sup>1</sup> La Confederazione mette a disposizione dei Cantoni i testi in votazione e le schede.
+
+<sup>2</sup> Ai testi è allegata una breve e oggettiva spiegazione del Consiglio federale, che tenga anche conto delle opinioni di importanti minoranze. Essa deve riprodurre letteralmente le domande figuranti sulla scheda. Nel caso di iniziative popolari e referendum, i comitati promotori trasmettono le proprie argomentazioni al Consiglio federale; questi le riprende nella spiegazione. Il Consiglio federale può rifiutare o modificare dichiarazioni lesive dell’onore, manifestamente contrarie alla verità oppure troppo lunghe. Nella spiegazione sono ammessi rimandi a fonti elettroniche soltanto se gli autori degli stessi dichiarano per scritto che tali fonti non hanno contenuto illecito e non contengono collegamenti a pubblicazioni elettroniche di contenuto illecito.[^11-2]
+
+<sup>3</sup> Gli aventi diritto di voto ricevono il materiale necessario per votare validamente, secondo la normativa cantonale (scheda, legittimazione, busta, contrassegno di controllo e simili), al minimo tre e al massimo 4 settimane prima del giorno della votazione. I testi in votazione e le spiegazioni possono essere distribuiti anche prima.[^11-3] La Cancelleria federale li pubblica in forma elettronica almeno sei settimane prima del giorno della votazione.[^11-4] [^11-5]
+
+<sup>4</sup> I Cantoni possono, per legge, autorizzare i Comuni ad inviare un unico esemplare (testi e spiegazione) per economia domestica, a meno che un membro di quest’ultima avente diritto di voto esiga l’invio personale.[^11-6]
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-2]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^11-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^11-4]: Per. introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^11-5]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-6]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 12
+
+**Schede nulle**
+
+<sup>1</sup>
+
+Sono nulle le schede che:
+
+- a. non sono ufficiali;
+- b. sono riempite non a mano;
+- c. non fanno risultare chiaramente la volontà del votante;
+- d. contengono espressioni ingiuriose o contrassegni manifesti,
+- e.[^12-1] ...
+
+<sup>2</sup> Sono riservati i motivi di invalidità e nullità giusta la procedura cantonale (busta, timbro di controllo[^12-2] ecc.).
+
+<sup>3</sup> Il Cantone che svolge prove[^12-3] del voto elettronico disciplina nella sua legislazione le condizioni di validità e i motivi di invalidità del voto.[^12-4]
+
+[^12-1]: Abrogata dal n. II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^12-2]: Nuova espr. giusta il n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^12-3]: Nuova espr. giusta il n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-4]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 13
+
+**Determinazione del risultato**
+
+<sup>1</sup> Le schede in bianco o nulle non contano per la determinazione del risultato.
+
+<sup>2</sup> Il testo in votazione è considerato respinto per i Cantoni in cui il numero dei sì equivale a quello dei no.[^13-1]
+
+<sup>3</sup> In caso di risultato molto risicato si procede a un riconteggio dei voti soltanto se sono state rese verosimili irregolarità che, per genere ed entità, sono state in grado di influire essenzialmente sull’esito a livello federale.[^13-2]
+
+[^13-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^13-2]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 14
+
+**Processo verbale**
+
+<sup>1</sup> Per ogni votazione, l’ufficio elettorale deve tenere un processo verbale che indichi il numero complessivo degli aventi diritto di voto, il numero degli Svizzeri all’estero aventi diritto di voto, il numero dei votanti, il numero delle schede bianche, nulle e valide, nonché quello dei sì e dei no.[^14-1]
+
+<sup>2</sup> Il processo verbale è trasmesso al governo cantonale. Quest’ultimo compila i risultati provvisori di tutto il Cantone, li comunica alla Cancelleria federale e li pubblica, entro tredici giorni da quello della votazione, nel Foglio ufficiale cantonale. Se necessario, pubblica un numero speciale del Foglio ufficiale.[^14-2]
+
+<sup>3</sup> I Cantoni trasmettono i processi verbali, a richiesta anche le schede, alla Cancelleria federale entro dieci giorni dalla scadenza del termine di ricorso (art. 79 cpv. 3). Accertato l’esito della votazione, le schede sono distrutte.
+
+[^14-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^14-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 15
+
+**Accertamento e pubblicazione del risultato**
+
+<sup>1</sup> Il Consiglio federale accerta definitivamente il risultato della votazione (omologazione) non appena è assodato che nessun ricorso sulla medesima è stato depositato o è ancora pendente dinanzi al Tribunale federale.[^15-1]
+
+<sup>2</sup> Il decreto d’accertamento è pubblicato nel *Foglio federale.*
+
+<sup>3</sup> Le modificazioni della Costituzione federale entrano in vigore accettate che siano dal popolo e dai Cantoni, sempreché il testo non disponga altrimenti.
+
+<sup>4</sup> Se una modifica giuridica non può essere ritardata e il risultato della votazione è indubbio, il Consiglio federale o l’Assemblea federale può provvisoriamente porre in vigore leggi o decreti federali concernenti l’approvazione di trattati internazionali, come pure mantenere in vigore o abrogare leggi dichiarate urgenti, prima che sia ultimato l’accertamento.[^15-2]
+
+[^15-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-2]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+## Titolo terzo: Elezione del Consiglio nazionale
+
+### Capitolo 1: Disposizioni generali
+
+#### Art. 16
+
+**Ripartizione dei seggi tra i Cantoni**[^16-1]
+
+<sup>1</sup> Per la ripartizione tra i Cantoni dei seggi del Consiglio nazionale sono determinanti i dati sulla popolazione residente delle rilevazioni basate sui registri effettuate nel primo anno civile successivo alle ultime elezioni per il rinnovo integrale del Consiglio nazionale nel quadro del censimento della popolazione ai sensi della legge del 22 giugno 2007[^16-2] sul censimento.
+
+<sup>2</sup> In base all’attestazione vincolante dei dati sulla popolazione residente ai sensi dell’articolo 13 della legge del 22 giugno 2007 sul censimento, il Consiglio federale stabilisce in maniera vincolante il numero dei seggi spettante a ciascun Cantone alle successive elezioni per il rinnovo integrale del Consiglio nazionale.
+
+[^16-1]: Nuovo testo giusta l’art. 17 n. 1 della LF del 22 giu. 2007 sul censimento, in vigore dal 1° gen. 2008 ([RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+[^16-2]: [RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+
+#### Art. 17
+
+**Metodo di ripartizione**[^17-1]
+
+I 200 seggi del Consiglio nazionale sono ripartiti tra i Cantoni nel modo seguente:[^17-2]
+
+- a.
+
+  *Ripartizione preliminare*:
+
+  - 1\. il totale della popolazione residente della Svizzera è diviso per 200. Il quoziente arrotondato all’intero immediatamente superiore è quello determinante per la ripartizione preliminare. Ogni Cantone la cui popolazione sia inferiore a questo quoziente ottiene un seggio ed è escluso dalla ripartizione successiva.
+  - 2\. Il totale della popolazione residente dei rimanenti Cantoni è diviso per il numero dei seggi restanti. Il quoziente arrotondato all’intero immediatamente superiore è quello determinante per la seconda ripartizione. Ogni Cantone la cui popolazione sia inferiore a questo quoziente ottiene un seggio ed è escluso dalla ripartizione successiva.
+  - 3\. L’operazione viene ripetuta fin quando nessuno dei rimanenti Cantoni rientra al di sotto dell’ultimo quoziente di ripartizione.
+
+- b. *Ripartizione principale:* Ogni rimanente Cantone ottiene tanti seggi quante volte l’ammontare della sua popolazione contiene l’ultimo quoziente.
+- c. *Ripartizione completiva:* I seggi rimanenti sono ripartiti tra i Cantoni che ottengono i resti maggiori. Se più Cantoni ottengono resti uguali, sono dapprima esclusi quelli che hanno ottenuto i resti minori dalla divisione della loro popolazione per il primo quoziente determinante. Se vi è ancora parità si procede a sorteggio.
+
+[^17-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^17-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 18
+
+[^18-1]
+
+[^18-1]: Abrogato dal n. II 1 dell’all. alla L sul Parlamento del 13 dic. 2002, con effetto dal 3 dic. 2007 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+
+#### Art. 19
+
+**Data dell’elezione**
+
+<sup>1</sup> Le elezioni per la rinnovazione ordinaria del Consiglio nazionale avvengono la penultima domenica di ottobre. Il governo cantonale indice per il termine più vicino possibile le elezioni suppletorie e complementari.
+
+<sup>2</sup> Per la rinnovazione straordinaria a tenore dell’articolo 193 capoverso 3 della Costituzione federale, la data è stabilita dal Consiglio federale.[^19-1]
+
+[^19-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+
+#### Art. 20
+
+**Decisione per sorteggio**
+
+Gli eventuali sorteggi avvengono nel Cantone per ordine del governo cantonale, nella Confederazione per ordine del Consiglio federale.
+
+#### Art. 20a
+
+[^20a-1]
+
+[^20a-1]: Introdotto dal n. I della LF del 18 mar. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+### Capitolo 2: Sistema proporzionale
+
+### Sezione 1: Candidatura
+
+#### Art. 21
+
+**Termine per la presentazione delle proposte**[^21-1]
+
+<sup>1</sup> Il diritto cantonale stabilisce come ultimo termine per la presentazione delle proposte di candidatura un lunedì nel mese di agosto dell’anno delle elezioni e designa l’autorità presso cui devono essere depositate dette proposte.[^21-2]
+
+<sup>2</sup> Le proposte devono giungere al Cantone il più tardi nel giorno previsto come termine per la presentazione.
+
+<sup>3</sup> I Cantoni comunicano senza indugio alla Cancelleria federale tutte le proposte ricevute.
+
+[^21-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^21-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 22
+
+**Numero e designazione dei candidati**
+
+<sup>1</sup> Una proposta non può contenere un numero di nomi superiore a quello dei deputati da eleggere nel circondario e nessun nome più di due volte. Se la proposta contiene un numero di nomi maggiore, gli ultimi sono stralciati.
+
+<sup>2</sup>
+
+Le proposte devono indicare, per ogni candidato:
+
+- a. il cognome e il nome ufficiali;
+- b. il cognome e il nome con i quali la persona è politicamente o comunemente conosciuta;
+- c. il sesso;
+- d. la data di nascita;
+- e. l’indirizzo, incluso il numero postale di avviamento;
+- f. i luoghi d’origine, incluso il Cantone di appartenenza; e
+- g. la professione.[^22-1]
+
+<sup>3</sup> Ogni candidato deve dichiarare per scritto che accetta la proposta. Se tale dichiarazione manca, il suo nome è stralciato.[^22-2]
+
+[^22-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^22-2]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 23
+
+**Denominazione della proposta**
+
+Ogni proposta deve recare una denominazione che la distingua dalle altre. I gruppi che presentano proposte con elementi identici nella denominazione principale al fine di congiungerle designano una delle proposte quale lista privilegiata.[^23-1]
+
+[^23-1]: Per. introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 24
+
+**Numero dei firmatari[^24-1]**
+
+<sup>1</sup>
+
+Ogni proposta dev’essere firmata personalmente da un numero minimo di elettori con domicilio politico nel circondario elettorale. Il numero minimo di elettori è di:
+
+- a. 100 nei Cantoni con 2 sino a 10 seggi;
+- b. 200 nei Cantoni con 11 sino a 20 seggi;
+- c. 400 nei Cantoni con oltre 20 seggi.[^24-2]
+
+<sup>2</sup> Un elettore non può firmare più di una proposta. Non può ritirare la sua firma dopo il deposito della proposta.
+
+<sup>3</sup> L’obbligo di cui al capoverso 1 non si applica al partito che era regolarmente registrato presso la Cancelleria federale (art. 76*a*) alla fine dell’anno precedente l’elezione, sempre che nella legislatura uscente sia rappresentato in Consiglio nazionale per lo stesso circondario o che in occasione dell’ultimo rinnovo integrale abbia ottenuto almeno il 3 per cento dei suffragi nel medesimo Cantone.[^24-3]
+
+<sup>4</sup> Il partito di cui al capoverso 3 deve depositare soltanto le firme valide di tutti i candidati e delle persone preposte alla presidenza e alla gestione.[^24-4]
+
+[^24-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^24-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^24-3]: Introdotto dal n. I della LF del 21 giu. 2002 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^24-4]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 25
+
+**Rappresentanti**
+
+<sup>1</sup> I firmatari della proposta devono designare un rappresentante e un suo sostituto. Se vi rinunciano, si riterrà rappresentante il primo firmatario e sostituto il secondo.
+
+<sup>2</sup> Il rappresentante e, se questi è impedito, il suo sostituto hanno il diritto e il dovere di fare validamente in nome dei firmatari le dichiarazioni necessarie a togliere le difficoltà che potessero sorgere.
+
+#### Art. 26
+
+**Consultazione delle proposte**
+
+Gli elettori del circondario possono prender visione delle proposte e dei nomi dei firmatari presso l’autorità competente.
+
+#### Art. 27
+
+**Candidature plurime**[^27-1]
+
+<sup>1</sup> Se il nome di un candidato figura su più di una proposta del circondario, il Cantone lo stralcia immediatamente da tutte le proposte.
+
+<sup>2</sup> La Cancelleria federale stralcia immediatamente dalla proposta quei candidati il cui nome figura già su liste o proposte di altri Cantoni.
+
+<sup>3</sup> La Cancelleria federale notifica senza indugio gli stralci ai Cantoni interessati.
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Abrogato dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 29
+
+**Rettificazioni; proposte di sostituzione**
+
+<sup>1</sup> Il Cantone esamina le proposte e assegna al rappresentante dei firmatari un termine per rettificarle, per modificare denominazioni che si prestano a confusione e per sostituire i candidati stralciati d’ufficio.[^29-1]
+
+<sup>2</sup> I proposti alla sostituzione devono confermare per scritto l’accettazione della candidatura.[^29-2] Se manca tale conferma, il nome figura già su un’altra lista o il proposto non è eleggibile, la proposta di sostituzione è stralciata.[^29-3] Se il rappresentante dei firmatari non dispone altrimenti, le proposte di sostituzione sono inserite in fine alla proposta di candidatura.
+
+<sup>3</sup> La proposta non rettificata in tempo utile è nulla. Se il difetto concerne soltanto un candidato, è stralciato unicamente il nome di costui.
+
+<sup>4</sup> Dopo il secondo lunedì successivo al termine di presentazione delle candidature, le proposte non possono più essere modificate. È fatto salvo l’annullamento ufficiale di candidature plurime scoperte successivamente (art. 32*a*). Il diritto cantonale può limitare a una settimana il termine per la modifica.[^29-4]
+
+[^29-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-2]: Nuovo testo del per. giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-3]: Nuovo testo del per. giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-4]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 30
+
+**Liste**
+
+<sup>1</sup> Le proposte di candidatura definitivamente stabilite prendono il nome di liste.
+
+<sup>2</sup> Le liste sono munite di un numero progressivo.
+
+#### Art. 31
+
+**Congiunzione di liste**[^31-1]
+
+<sup>1</sup> Due o più liste possono essere congiunte per dichiarazione concorde dei firmatari o dei loro rappresentanti entro il termine per la modifica (art. 29 cpv. 4). Fra le congiunzioni di liste, solo le sotto-congiunzioni sono autorizzate.
+
+<sup>1bis</sup> Sono autorizzate soltanto le sotto-congiunzioni tra le liste con denominazione uguale, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza di un gruppo, la regione o l’età dei candidati.
+
+<sup>2</sup> Le congiunzioni e sotto-congiunzioni devono essere indicate sulle liste.
+
+<sup>3</sup> Le dichiarazioni di congiunzione e sotto-congiunzione di liste non possono essere revocate.
+
+[^31-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 32
+
+**Pubblicazione delle liste**[^32-1]
+
+<sup>1</sup> Il Cantone pubblica il più presto possibile nel proprio Foglio ufficiale le liste, con la loro denominazione, il numero progressivo e l’indicazione delle congiunzioni e sotto-congiunzioni.
+
+<sup>2</sup> La Cancelleria federale pubblica in forma elettronica le liste con il cognome e il nome ufficiali, l’anno di nascita, i luoghi d’origine e il domicilio dei candidati.[^32-2]
+
+[^32-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^32-2]: Introdotto dall’art. 21 n. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 32a
+
+**Annullamento di candidature**[^32a-1]
+
+<sup>1</sup>
+
+Se dopo che le proposte di candidatura sono state definitivamente stabilite è scoperta una candidatura plurima, quest’ultima è dichiarata nulla su tutte le liste interes-sate:
+
+- a. dal Cantone, se lo stesso candidato figura su più liste del Cantone;
+- b. dalla Cancelleria federale, se lo stesso candidato figura su liste di più Cantoni.
+
+<sup>2</sup> I Cantoni interessati e la Cancelleria federale si comunicano immediatamente quali candidature sono state dichiarate nulle.
+
+<sup>3</sup> Per quanto possibile, i nomi delle persone la cui candidatura è stata dichiarata nulla sono stralciati dalle liste prima che queste ultime siano pubblicate.
+
+<sup>4</sup> L’annullamento di una candidatura che figura su liste già pubblicate è pubblicato immediatamente in forma elettronica e nel Foglio ufficiale di tutti i Cantoni interessati, nonché nel Foglio federale, con l’indicazione dei motivi dell’annullamento.
+
+[^32a-1]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 33
+
+**Allestimento e consegna delle schede**
+
+<sup>1</sup> Per tutte le liste, i Cantoni allestiscono schede in cui sono prestampate la denominazione, all’occorrenza l’indicazione della congiunzione e sotto-congiunzione di liste, il numero progressivo e i dati personali dei candidati (per lo meno cognome, nome e domicilio), come anche schede non prestampate.
+
+<sup>1bis</sup> I Cantoni che sostituiscono le schede di rilevamento alle schede elettorali trasmettono agli aventi diritto di voto anche un elenco che indichi i dati personali di ogni candidato nonché la denominazione delle liste, le congiunzioni e le sotto-congiunzioni.[^33-1]
+
+<sup>2</sup> I Cantoni provvedono affinché gli elettori ricevano un gioco completo di tutte le schede almeno tre, ma al più presto quattro settimane prima del giorno dell’elezione.[^33-2]
+
+<sup>3</sup> I firmatari possono ottenere al prezzo di costo presso le cancellerie di Stato cantonali schede prestampate suppletive.
+
+[^33-1]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^33-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+### Sezione 2: Operazioni elettorali e spoglio
+
+#### Art. 34
+
+**Guida elettorale**[^34-1]
+
+Prima di ogni elezione per il rinnovo integrale del Consiglio nazionale, la Cancelleria federale allestisce una breve guida elettorale per il sistema proporzionale da consegnare agli elettori assieme alle schede (art. 33 cpv. 2) nei Cantoni in cui si vota secondo tale sistema.
+
+[^34-1]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+
+#### Art. 35
+
+**Riempimento della scheda**
+
+<sup>1</sup> L’elettore che usa una scheda non prestampata può iscrivervi i nomi di candidati eleggibili e indicarvi la denominazione o il numero progressivo di una lista.
+
+<sup>2</sup> L’elettore che usa una scheda prestampata può stralciare i nomi di candidati; può iscrivervi nomi di candidati di altre liste (panachage). Può inoltre cancellare o sostituire i numeri progressivi e le denominazioni di lista.
+
+<sup>3</sup> Il nome di un candidato può essere ripetuto due volte sulla scheda (cumulo).
+
+#### Art. 36
+
+**Suffragi dati a persone decedute**[^36-1]
+
+I suffragi dati a candidati deceduti dopo che le proposte di candidatura sono state definitivamente stabilite (art. 29 cpv. 4) contano come voti personali.
+
+[^36-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 37
+
+**Suffragi di complemento**
+
+<sup>1</sup> Se la scheda contiene un numero di suffragi validi inferiore al numero dei deputati da eleggere nel circondario, le linee lasciate in bianco valgono quali suffragi di complemento per la lista la cui denominazione o il cui numero progressivo è indicato sulla scheda. Mancando una tale denominazione o un tal numero progressivo od essendo indicata più d’una delle denominazioni o dei numeri progressivi depositati, le linee lasciate in bianco non contano (voti non emessi).
+
+<sup>2</sup> Se in un Cantone sono state depositate più liste regionali con la stessa denominazione, i suffragi di complemento inerenti a schede che non recano la designazione della regione sono attribuiti alla lista della regione in cui queste schede furono votate.[^37-1]
+
+<sup>2bis</sup> Negli altri casi d’applicazione dell’articolo 31 capoverso 1, i suffragi di complemento sono attribuiti alla lista che figura sulla scheda. I suffragi di complemento provenienti da schede la cui denominazione è lacunosa sono attribuiti alla lista designata dal gruppo quale lista privilegiata.[^37-2] [^37-3]
+
+<sup>3</sup> I nomi non recati da nessuna lista del circondario sono stralciati. …[^37-4]
+
+<sup>4</sup> Se vi è contraddizione tra la denominazione e il numero progressivo quella fa stato.
+
+[^37-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-2]: Per. introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^37-3]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-4]: Secondo e terzo per. abrogati dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 38
+
+**Schede e suffragi nulli**
+
+<sup>1</sup>
+
+Sono nulle le schede che:
+
+- a. non contengono alcun nome di candidati del circondario;
+- b. non sono ufficiali;
+- c. sono riempite o modificate non a mano;
+- d. contengono espressioni ingiuriose o contrassegni manifesti;
+- e.[^38-1] ...
+
+<sup>2</sup>
+
+Sono stralciati dalla scheda:
+
+- a. i suffragi in soprannumero, se il nome di un candidato figura più di due volte su una scheda;
+- b. tutti i nomi delle persone la cui candidatura è stata dichiarata nulla, perché plurima, dopo che le proposte di candidatura sono state definitivamente stabilite.[^38-2]
+
+<sup>3</sup> Se la scheda contiene più nomi di quanti sono i seggi da assegnare, sono stralciati gli ultimi nomi prestampati e non cumulati a mano, e in seguito gli ultimi nomi aggiunti a mano.[^38-3]
+
+<sup>4</sup> Sono salvi i motivi di annullabilità e di nullità stabiliti dal diritto cantonale (busta, timbro di controllo, ecc.).[^38-4]
+
+<sup>5</sup> Il Cantone che svolge prove del voto elettronico disciplina nella sua legislazione le condizioni di validità e i motivi di invalidità del voto.[^38-5]
+
+[^38-1]: Abrogata dal n. II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^38-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-4]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^38-5]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 39
+
+**Compilazione dei risultati**
+
+Dopo l’elezione, i Cantoni stabiliscono in base ai processi verbali degli uffici elettorali:
+
+- a. il numero degli elettori e dei votanti;
+- b. il numero delle schede valide, nulle e bianche;
+- c. il numero dei suffragi raccolti dai singoli candidati di ogni lista (voti personali);
+- d.[^39-1] il numero dei suffragi di complemento di ogni lista (art. 37);
+- e.[^39-2] le somme dei voti personali e dei suffragi di complemento delle singole liste (voti di partito);
+- f. per le liste congiunte il numero totale dei suffragi spettanti ad ogni gruppo;
+- g. il numero dei voti non emessi.
+
+[^39-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 40
+
+**Prima ripartizione dei mandati tra le liste[^40-1]**
+
+<sup>1</sup> Il numero dei suffragi di partito validi di tutte le liste è diviso per il numero dei mandati da assegnare, aumentato di uno. Il numero intero immediatamente superiore al quoziente ottenuto è quello determinante per la ripartizione.[^40-2]
+
+<sup>2</sup> Ad ogni lista sono assegnati tanti mandati quante volte il quoziente è contenuto nel totale dei suoi suffragi.
+
+<sup>3</sup> …[^40-3]
+
+[^40-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^40-3]: Abrogato dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 41
+
+**Ripartizioni successive**[^41-1]
+
+<sup>1</sup>
+
+I mandati restanti dopo la prima ripartizione sono attribuiti singolarmente e successivamente secondo la procedura seguente:
+
+- a. il numero di suffragi di ciascuna lista è diviso per il numero dei mandati che le sono già stati assegnati, aumentato di uno;
+- b. la lista che consegue il maggiore quoziente ottiene il mandato successivo;
+- c. se più liste ottengono uguale quoziente, il mandato successivo è assegnato alla lista che ha ottenuto il maggiore resto nella ripartizione secondo l’articolo 40 capoverso 2;
+- d. se più liste hanno ancora uguale diritto, il mandato è attribuito alla lista che ha ottenuto il maggior numero di suffragi di partito;
+- e. se più liste hanno ancora uguale diritto, il primo mandato restante è attribuito alla lista di cui il candidato in competizione ha ottenuto il maggiore numero di suffragi;
+- f. infine, se più candidati si trovano in questa situazione, si procede al sorteggio.
+
+<sup>2</sup> La procedura viene ripetuta fino all’esaurimento dei mandati.
+
+[^41-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 42
+
+**Ripartizione dei mandati fra liste congiunte**
+
+<sup>1</sup> Ogni gruppo di liste congiunte é, nella ripartizione dei mandati, trattato dapprima come lista unica.
+
+<sup>2</sup> I mandati assegnati sono poi ripartiti fra le singole liste corrispondentemente agli articoli 40 e 41. È fatto salvo l’articolo 37 capoversi 2 e 2<sup>bis</sup>.[^42-1]
+
+[^42-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 43
+
+**Proclamazione degli eletti e ordine di subentro**
+
+<sup>1</sup> Fra i candidati di una stessa lista sono eletti, nei limiti dei mandati ricevuti, coloro che hanno ottenuto il maggior numero di voti.
+
+<sup>2</sup> I candidati non eletti subentreranno nell’ordine dei voti ottenuti.
+
+<sup>3</sup> In caso di parità di voti, decide la sorte.
+
+#### Art. 44
+
+**Mandati in soprannumero**
+
+Se a una lista è assegnato un numero di mandati superiore a quello dei suoi candidati, per i mandati in soprannumero si procede a un’elezione complementare giusta l’articolo 56.
+
+#### Art. 45
+
+**Elezione tacita**[^45-1]
+
+<sup>1</sup> Se il numero dei candidati di tutte le liste non supera quello dei mandati da assegnare, tutti i candidati sono proclamati eletti dal governo cantonale.
+
+<sup>2</sup> Se il numero dei candidati di tutte le liste non raggiunge quello dei mandati da assegnare, per i seggi restanti si procede a una elezione complementare giusta l’articolo 56 capoverso 3.
+
+[^45-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 46
+
+**Elezione senza liste**
+
+<sup>1</sup> Se non è stata depositata alcuna lista, si può votare per qualsiasi persona eleggibile. Sono elette le persone che ottengono il maggior numero di voti.
+
+<sup>2</sup> Se una scheda contiene un numero di nomi superiore a quello dei mandati da assegnare, sono stralciati gli ultimi nomi.[^46-1]
+
+<sup>3</sup> Per altro s’applicano per analogia le disposizioni determinanti per il circondario ad elezione uninominale.
+
+[^46-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+### Capitolo 3: Sistema maggioritario
+
+#### Art. 47
+
+**Procedura**
+
+<sup>1</sup> Nei circondari in cui si elegge un solo deputato, si può votare per qualsiasi persona eleggibile. È eletta la persona che ottiene il maggior numero di voti. In caso di parità di voti, decide la sorte.
+
+<sup>1bis</sup>
+
+Il Cantone può pubblicare, in forma elettronica e nel Foglio ufficiale cantonale, tutte le candidature presentate all’autorità elettorale cantonale entro il quarantottesimo giorno precedente l’elezione. La pubblicazione indica almeno, per ogni candidato:
+
+- a. il cognome e il nome ufficiali;
+- b. il cognome e il nome con i quali la persona è politicamente o comunemente conosciuta;
+- c. il sesso;
+- d. l’indirizzo, incluso il numero postale di avviamento;
+- e. i luoghi d’origine, incluso il Cantone di appartenenza;
+- f. l’appartenenza partitica o a un gruppo politico; e
+- g. la professione.[^47-1]
+
+<sup>2</sup> Il diritto cantonale può tuttavia prevedere l’elezione tacita se entro mezzogiorno del quarantottesimo giorno (settimo lunedì) precedente l’elezione è stata presentata all’autorità competente un’unica candidatura valida.[^47-2]
+
+[^47-1]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^47-2]: Introdotto dal n. I della LF del 18 mar. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+
+#### Art. 48
+
+**Scheda**[^48-1]
+
+I Cantoni consegnano la scheda agli elettori almeno tre, ma al più presto quattro settimane prima del giorno dell’elezione.
+
+[^48-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 49
+
+**Schede nulle**
+
+<sup>1</sup>
+
+Sono nulle le schede che:
+
+- a. contengono nomi di diverse persone;
+- b. non sono ufficiali;
+- c. sono riempite non a mano;
+- d. contengono espressioni ingiuriose o contrassegni manifesti;
+- e.[^49-1] ...
+
+<sup>2</sup> Sono salvi i motivi di annullabilità e di nullità stabiliti dal diritto cantonale (busta, timbro di controllo, ecc.).[^49-2]
+
+<sup>3</sup> Il Cantone che svolge prove del voto elettronico disciplina nella sua legislazione le condizioni di validità e i motivi di invalidità del voto.[^49-3]
+
+[^49-1]: Abrogata dal n. II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^49-2]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^49-3]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 50
+
+**Cantoni con possibilità di elezione tacita**[^50-1]
+
+<sup>1</sup> Se il diritto cantonale prevede la possibilità dell’elezione tacita, nei circondari ad elezione uninominale tutti i nomi dei candidati proposti in tempo utile sono prestampati sulla scheda.
+
+<sup>2</sup> L’elettore esprime il proprio voto contrassegnando di proprio pugno con una crocetta il candidato prescelto.
+
+<sup>3</sup>
+
+Sono nulli:
+
+- a. i voti espressi a candidati il cui nome non figura prestampato sulla scheda;
+- b. le schede sulle quali sono stati contrassegnati con una crocetta più candidati.
+
+[^50-1]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+
+#### Art. 51
+
+**Elezioni suppletorie**[^51-1]
+
+Gli articoli 47 a 49 s’applicano anche alle elezioni suppletorie.
+
+[^51-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+### Capitolo 4: Pubblicazione dei risultati e verificazione dei poteri
+
+#### Art. 52
+
+**Avviso d’elezione; pubblicazione dei risultati**
+
+<sup>1</sup> Dopo lo spoglio, il governo cantonale annuncia per scritto e senza indugio agli eletti l’avvenuta elezione e comunica i loro nomi al Consiglio federale.
+
+<sup>2</sup> Al più tardi entro otto giorni da quello dell’elezione, il Cantone pubblica nel Foglio ufficiale i risultati concernenti tutti i candidati e, se del caso, tutte le liste e indica i rimedi di diritto.[^52-1]
+
+<sup>3</sup> I risultati delle elezioni per la rinnovazione integrale, delle elezioni suppletorie e di quelle complementari sono pubblicati nel Foglio federale. Tali risultati sono pubblicati integralmente anche in forma elettronica.[^52-2] [^52-3]
+
+<sup>4</sup> Trascorso il termine di ricorso (art. 77 cpv. 2), il Cantone trasmette immediatamente il processo verbale alla Cancelleria federale. Nei dieci giorni successivi, le schede sono trasferite al luogo indicato dalla Cancelleria federale.[^52-4]
+
+[^52-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^52-2]: Per. introdotto dall’art. 21 n. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2005 ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^52-3]: Introdotto dall’art. 17 n. I della LF del 21 mar. 1986 sulle pubblicazioni ufficiali, in vigore dal 15 mag. 1987 ([RU 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [FF 1983 III 333](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
+[^52-4]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 53
+
+**Verificazione dei poteri**
+
+<sup>1</sup> La seduta costitutiva del neoeletto Consiglio nazionale si svolge il settimo lunedì seguente l’elezione. In tale seduta dev’essere dapprima accertata la validità delle nomine. Il Consiglio è costituito quando l’elezione di almeno la maggioranza dei membri è stata convalidata. Il Consiglio nazionale disciplina la procedura nel suo regolamento.[^53-1]
+
+<sup>2</sup> In siffatte deliberazioni, eccetto quelle che li concernono personalmente, prendono posto e votano coloro che sono muniti di un’attestazione di nomina rilasciata dal governo cantonale.
+
+<sup>3</sup> In caso di subingresso, di elezioni suppletorie o completive, il neoeletto può partecipare ai dibattiti soltanto dopo che è stata convalidata la sua elezione.[^53-2]
+
+[^53-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^53-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+### Capitolo 5: Modificazioni durante il periodo di nomina
+
+#### Art. 54
+
+**Dimissioni**
+
+Le dimissioni dalla carica di consigliere nazionale devono essere comunicate per scritto al presidente del Consiglio nazionale.
+
+#### Art. 55
+
+**Subentro**
+
+<sup>1</sup> Se un consigliere nazionale lascia la carica prima della scadenza del periodo di nomina, il governo cantonale proclama eletto il primo subentrante della stessa lista.
+
+<sup>2</sup> Il subentrante che non può o non vuole accettare il mandato è surrogato da quello seguente.
+
+#### Art. 56
+
+**Elezione complementare**
+
+<sup>1</sup> Se un seggio divenuto vacante non può essere assegnato mediante subentro, tre quinti dei firmatari della lista (art. 24 cpv. 1) o la direzione del partito cantonale (art. 24 cpv. 3) che ha depositato la lista su cui figurava il deputato da sostituire possono presentare una proposta di candidatura.[^56-1]
+
+<sup>2</sup> Non appena la proposta è stata definitivamente stabilita (art. 22 e 29), il candidato proposto è proclamato eletto dal governo cantonale senza votazione, giusta l’articolo 45.[^56-2]
+
+<sup>3</sup> Se non è fatto uso del diritto di proposta, si procede a un’elezione popolare.[^56-3] Se devono essere assegnati più seggi, s’applicano le disposizioni sul sistema proporzionale, altrimenti quelle sul sistema maggioritario.
+
+[^56-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^56-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 57
+
+**Fine del periodo di nomina**[^57-1]
+
+Il periodo di nomina del Consiglio nazionale termina all’atto della costituzione del neoeletto Consiglio.
+
+[^57-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+## Titolo quarto:**** Referendum
+
+[^tit4-1]
+
+[^tit4-1]: Le disp. rivedute del titolo quarto (art. 59-67) della legge si applicano soltanto agli atti legislativi approvati dalle Camere federali dopo il 31 mar. 1997([RU 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 cpv. 2).
+
+### Capitolo 1: Referendum obbligatorio
+
+#### Art. 58
+
+**Pubblicazione**
+
+Gli atti legislativi sottostanti al referendum obbligatorio sono pubblicati accettati che siano dall’Assemblea federale. Il Consiglio federale indice la votazione.
+
+### Capitolo 2: Referendum facoltativo
+
+### Sezione 1: Disposizioni generali****
+
+[^tit4-chap2-sec1-1]
+
+[^tit4-chap2-sec1-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 59
+
+[^59-1]
+
+[^59-1]: Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 59a
+
+**Importanza del termine**[^59a-1]
+
+La domanda di referendum, sostenuta dal numero di Cantoni previsto dalla Costituzione oppure corredata del necessario numero di firme e relative attestazioni del diritto di voto, deve essere depositata presso la Cancelleria federale entro la scadenza del termine di referendum.
+
+[^59a-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 59b
+
+**Inammissibilità del ritiro**[^59b-1]
+
+Un referendum non può essere ritirato.
+
+[^59b-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 59c
+
+**Votazione popolare**[^59c-1]
+
+Riuscita la domanda di referendum, il Consiglio federale ordina la votazione popolare.
+
+[^59c-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+### Sezione 2: Referendum popolare****
+
+[^tit4-chap2-sec2-1]
+
+[^tit4-chap2-sec2-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 60
+
+**Lista delle firme**
+
+<sup>1</sup>
+
+La lista delle firme (su foglio, pagina o cartolina) per una domanda di referendum deve contenere le seguenti indicazioni:[^60-1]
+
+- a. il Cantone e il Comune politico in cui il firmatario ha diritto di voto;
+- b. l’atto legislativo, con la data della decisione dell’Assemblea federale;
+- c.[^60-2] la punibilità di chiunque alteri il risultato della raccolta delle firme (art. 282 Codice penale svizzero, CP[^60-3]) o si renda colpevole di corruzione attiva o passiva nell’ambito della medesima (art. 281 CP).
+
+<sup>2</sup> Se sono presentate più domande, ognuna dev’essere oggetto di un’apposita lista di firme. Le liste di firme per più iniziative possono figurare sulla medesima pagina se separabili in vista del deposito.[^60-4]
+
+[^60-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60-4]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 60a
+
+**Lista delle firme in forma elettronica**[^60a-1]
+
+Chi scarica una lista delle firme pubblicata in forma elettronica per una domanda di referendum deve assicurarsi che tale lista soddisfi tutte le esigenze formali previste dalla legge.
+
+[^60a-1]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 61
+
+**Firma**
+
+<sup>1</sup> L’avente diritto di voto deve scrivere a mano e in modo leggibile il proprio cognome e i propri nomi sulla lista e inoltre apporvi la firma.[^61-1]
+
+<sup>1bis</sup> L’avente diritto di voto incapace di scrivere può far iscrivere il proprio nome da un avente diritto di voto di sua scelta. Questi firma in nome dell’incapace e mantiene il silenzio sul contenuto delle istruzioni ricevute.[^61-2]
+
+<sup>2</sup> L’avente diritto di voto deve dare ogni altra indicazione necessaria all’accertamento della sua identità, come data di nascita e indirizzo.[^61-3]
+
+<sup>3</sup> Può firmare una volta sola la stessa domanda di referendum.
+
+[^61-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-2]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^61-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 62
+
+**Attestazione del diritto di voto**
+
+<sup>1</sup> Le liste sono inviate man mano, ma in ogni caso tempestivamente prima della scadenza del termine di referendum, al servizio competente secondo il diritto cantonale per l’attestazione del diritto di voto.[^62-1]
+
+<sup>2</sup> Il servizio attesta che i firmatari hanno diritto di voto in materia federale nel Comune indicato sulla lista e, senza indugio, rinvia le liste ai mittenti.
+
+<sup>3</sup> L’attestazione deve indicare in lettere o in cifre il numero delle firme attestate; dev’essere datata e provvista della firma autografa del funzionario attestatore e menzionare, con un bollo o una scritta, la qualità ufficiale di costui.
+
+<sup>4</sup> Il diritto di voto dei firmatari può essere attestato collettivamente per più liste.
+
+[^62-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+#### Art. 63
+
+**Diniego dell’attestazione**
+
+<sup>1</sup> L’attestazione del diritto di voto è negata se non sono adempiute le condizioni di cui all’articolo 61.
+
+<sup>2</sup> Se un avente diritto di voto ha firmato più volte, è attestata una sola firma.
+
+<sup>3</sup> Il motivo del diniego dev’essere indicato sulla lista delle firme.
+
+#### Art. 64
+
+**Divieto di consultare le liste[^64-1]**
+
+<sup>1</sup> …[^64-2]
+
+<sup>2</sup> Le liste depositate non sono restituite né possono essere esaminate.
+
+[^64-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-2]: Abrogato dal n. I della LF del 21 giu. 1996, con effetto dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 65
+
+[^65-1]
+
+[^65-1]: Abrogato dal n. I della LF del 21 giu. 1996, con effetto dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 66
+
+**Riuscita**
+
+<sup>1</sup> Trascorso il termine di referendum, la Cancelleria federale accerta se il referendum ha raccolto il numero prescritto di firme valide. Se non è raggiunta almeno la metà del numero costituzionalmente stabilito, viene pubblicata nel Foglio federale una semplice nota indicante che il termine di referendum è trascorso infruttuosamente. Nel caso contrario, la Cancelleria federale accerta con una decisione la riuscita o la non riuscita del referendum.[^66-1]
+
+<sup>2</sup>
+
+Sono nulle:
+
+- [tab] a.[^66-2] le firme su liste che non adempiono i requisiti di cui all’articolo 60;
+- [tab] b.[^66-3] le firme di coloro il cui diritto di voto non è stato attestato;
+- c. le firme su liste depositate scaduto il termine di referendum.
+
+<sup>3</sup> La Cancelleria federale pubblica nel Foglio federale la decisione di riuscita indicando per Cantone il numero delle firme valide e nulle.[^66-4]
+
+[^66-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^66-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-4]: Nuovo testo giusta il n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+### Sezione 3: Referendum dei Cantoni****
+
+[^tit4-chap2-sec3-1]
+
+[^tit4-chap2-sec3-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 67
+
+**Competenza**[^67-1]
+
+Salvo disposizione contraria del diritto cantonale, la decisione di chiedere il referendum spetta al Parlamento cantonale.
+
+[^67-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 67a
+
+**Forma**[^67a-1]
+
+La lettera del governo cantonale alla Cancelleria federale deve contenere le indicazioni seguenti:
+
+- a. l’atto normativo con la data di promulgazione da parte dell’Assemblea federale;
+- b. l’organo che domanda la votazione popolare in nome del Cantone;
+- c. le disposizioni di diritto cantonale disciplinanti la competenza in materia di referendum del Cantone;
+- d. la data e il risultato della decisione che chiede il referendum.
+
+[^67a-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 67b
+
+**Riuscita**[^67b-1]
+
+<sup>1</sup> Trascorso il termine di referendum, la Cancelleria federale accerta se il referendum è appoggiato dal numero prescritto di Cantoni.[^67b-2]
+
+<sup>2</sup>
+
+Sono nulle le domande di referendum che:
+
+- a. non sono decise e depositate alla Cancelleria federale entro la scadenza del termine di referendum;
+- b. non sono state decise da un organo materialmente competente;
+- c. non consentono di identificare con certezza l’atto normativo federale sul quale è chiesta la votazione popolare.
+
+<sup>3</sup> La Cancelleria federale notifica per scritto ai governi di tutti i Cantoni che hanno chiesto il referendum la decisione accertante la riuscita o la non riuscita e la pubblica nel Foglio federale, indicando il numero delle domande valide e di quelle nulle.
+
+[^67b-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67b-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+## Titolo quinto:**** Iniziativa popolare
+
+[^tit5-1]
+
+[^tit5-1]: La mod. del titolo quinto (art. 68-74) della LF del 21 giu. 1996 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) si applica soltanto alle iniziative popolari per le quali la raccolta delle firme ha avuto inizio dopo il 31 mar. 1997 ([RU 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 cpv. 2).
+
+#### Art. 68
+
+**Lista delle firme**
+
+<sup>1</sup>
+
+La lista delle firme (su foglio, pagina, cartolina) per un’iniziativa popolare deve contenere le seguenti indicazioni:[^68-1]
+
+- a. il Cantone e il Comune politico in cui il firmatario ha diritto di voto;
+- b.[^68-2] il titolo e il testo dell’iniziativa e la data di pubblicazione nel Foglio federale;
+- c.[^68-3] una clausola di ritiro ai sensi dell’articolo 73;
+- d.[^68-4] la punibilità di chiunque alteri il risultato della raccolta delle firme (art. 282 CP[^68-5]) o si renda colpevole di corruzione attiva o passiva nell’ambito della medesima (art. 281 CP);
+- e.[^68-6] il nome e l’indirizzo dei promotori, che devono avere il diritto di voto ed essere almeno sette ma non più di 27 (comitato d’iniziativa).
+
+<sup>2</sup> L’articolo 60 capoverso 2 si applica anche alle iniziative popolari.[^68-7]
+
+[^68-1]: Nuovo testo giusta il n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^68-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-3]: Nuovo testo giusta il n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^68-4]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68-6]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-7]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 69
+
+**Esame preliminare**
+
+<sup>1</sup> Prima della raccolta delle firme, la Cancelleria federale accerta con una decisione se la lista corrisponde alle esigenze formali della legge.
+
+<sup>2</sup> Se il titolo dell’iniziativa è fallace, contiene elementi di pubblicità commerciale o personale o si presta a confusione, la Cancelleria federale lo modifica.[^69-1]
+
+<sup>3</sup> La Cancelleria federale esamina la concordanza linguistica dei testi e procede alle eventuali traduzioni.
+
+<sup>4</sup> Il titolo, il testo dell’iniziativa e il nome dei promotori sono pubblicati nel Foglio federale.[^69-2]
+
+[^69-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 69a
+
+**Lista delle firme in forma elettronica**[^69a-1]
+
+Chi scarica una lista delle firme pubblicata in forma elettronica per un’iniziativa popolare deve assicurarsi che tale lista soddisfi tutte le esigenze formali previste dalla legge.
+
+[^69a-1]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 70
+
+**Disposizioni completive**[^70-1]
+
+Le disposizioni inerenti alla firma (art. 61), all’attestazione del diritto di voto (art. 62) e al diniego dell’attestazione (art. 63) in materia di referendum si applicano per analogia anche all’iniziativa popolare.
+
+[^70-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 71
+
+**Deposito**
+
+<sup>1</sup> Le liste delle firme per un’iniziativa popolare devono essere depositate in blocco presso la Cancelleria federale, il più tardi diciotto mesi dopo la pubblicazione del testo dell’iniziativa nel *Foglio federale.*
+
+<sup>2</sup> Le liste depositate non sono restituite né possono essere esaminate.
+
+#### Art. 72
+
+**Riuscita**
+
+<sup>1</sup> Trascorso il termine di raccolta delle firme, la Cancelleria federale accerta se l’iniziativa popolare ha raccolto il numero prescritto di firme valide. Se non è raggiunta almeno la metà del numero costituzionalmente stabilito, viene pubblicata nel Foglio federale una semplice nota indicante che il termine di raccolta delle firme è trascorso infruttuosamente. Nel caso contrario, la Cancelleria federale accerta con una decisione la riuscita o la non riuscita dell’iniziativa popolare.[^72-1]
+
+<sup>2</sup>
+
+Sono nulle:
+
+- a. le firme su liste che non adempiono i requisiti di cui all’articolo 68;
+- b. le firme di coloro il cui diritto di voto non è stato attestato;
+- c. le firme su liste depositate dopo la scadenza del relativo termine di raccolta.[^72-2]
+
+<sup>3</sup> La Cancelleria federale pubblica nel *Foglio federale* la decisione di riuscita indicando per Cantone il numero delle firme valide e nulle.[^72-3]
+
+[^72-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^72-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^72-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 73
+
+**Ritiro**[^73-1]
+
+<sup>1</sup> Ogni iniziativa popolare può essere ritirata dal comitato d’iniziativa. La dichiarazione di ritiro, per essere vincolante, deve essere firmata dalla maggioranza assoluta dei membri del comitato d’iniziativa aventi ancora diritto di voto.
+
+<sup>2</sup> Il ritiro è ammesso fintantoché il Consiglio federale non abbia stabilito la votazione popolare. La Cancelleria federale invita prima il comitato d’iniziativa a comunicarle la sua decisione e gli impartisce un breve termine di risposta.
+
+<sup>3</sup> L’iniziativa che riveste la forma di proposta generale non può più essere ritirata, approvata che sia dall’Assemblea federale.
+
+[^73-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 73a
+
+**Ritiro incondizionato e ritiro condizionato**[^73a-1]
+
+<sup>1</sup> Il ritiro di un’iniziativa popolare è di norma incondizionato.
+
+<sup>2</sup> Tuttavia, se al più tardi il giorno del voto finale sull’iniziativa popolare l’Assemblea federale ha adottato un controprogetto indiretto sotto forma di legge federale, il comitato d’iniziativa può ritirare la propria iniziativa sotto espressa condizione che il controprogetto indiretto non sia respinto in votazione popolare.
+
+<sup>3</sup>
+
+Il ritiro condizionato ha effetto appena:
+
+- a. il termine di referendum contro il controprogetto indiretto sia trascorso infruttuosamente;
+- b. la non riuscita della domanda di referendum contro il controprogetto indiretto sia stata validamente accertata; o
+- c. il Consiglio federale, in caso di referendum, abbia omologato secondo l’articolo 15 capoverso 1 il risultato della votazione popolare in cui il controprogetto indiretto è stato accettato.
+
+[^73a-1]: Introdotto dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+
+#### Art. 74
+
+[^74-1]
+
+[^74-1]: Abrogato dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), con effetto dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+
+#### Art. 75
+
+**Esame della validità[^75-1]**
+
+<sup>1</sup> L’iniziativa popolare che non rispetti l’unità materiale (art. 139 cpv. 3 e art. 194 cpv. 2 Cost.) o l’unità formale (art. 139 cpv. 3 e art. 194 cpv. 3 Cost.) o che violi disposizioni cogenti del diritto internazionale (art. 139 cpv. 3, art. 193 cpv. 4 e art. 194 cpv. 2 Cost.) è dichiarata nulla in tutto o in parte dall’Assemblea federale.[^75-2]
+
+<sup>2</sup> L’unità materiale è rispettata se le singole parti dell’iniziativa sono intrinsecamente connesse.
+
+<sup>3</sup> L’unità formale è rispettata se l’iniziativa riveste esclusivamente la forma di proposta generale o di progetto già elaborato.
+
+[^75-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^75-2]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+
+#### Art. 75a
+
+**Votazione popolare**[^75a-1]
+
+<sup>1</sup> Il Consiglio federale sottopone l’iniziativa alla votazione popolare entro dieci mesi dal voto finale dell’Assemblea federale, ma al massimo dieci mesi dopo la scadenza dei termini legali previsti per la trattazione da parte del Parlamento.
+
+<sup>2</sup> In caso di ritiro condizionato a favore di un controprogetto indiretto, il Consiglio federale sottopone l’iniziativa popolare al voto del Popolo e dei Cantoni entro dieci mesi dall’omologazione secondo l’articolo 15 capoverso 1 del risultato della votazione popolare in cui il controprogetto indiretto è stato respinto.
+
+<sup>3</sup> In caso di accettazione di un’iniziativa popolare presentata in forma di proposta generale, la modifica costituzionale elaborata è sottoposta al voto del Popolo e dei Cantoni entro dieci mesi dal voto finale dell’Assemblea federale.
+
+<sup>3bis</sup> I termini di cui ai capoversi 1–3 sono prolungati di sei mesi se iniziano a decorrere tra dieci e tre mesi prima del prossimo rinnovo integrale del Consiglio nazionale.[^75a-2]
+
+<sup>4</sup> Alla trattazione di un’iniziativa popolare da parte del Consiglio federale e dell’Assemblea federale e ai relativi termini si applicano le disposizioni della legge del 13 dicembre 2002[^75a-3] sul Parlamento.
+
+[^75a-1]: Introdotto dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^75a-2]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° mar. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^75a-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+#### Art. 76
+
+**Controprogetto diretto[^76-2]**[^76-1]
+
+<sup>1</sup>
+
+Se l’Assemblea federale adotta un controprogetto, ai votanti sono poste sulla stessa scheda tre domande. Ogni votante può dichiarare senza riserve:
+
+- a. se preferisce l’iniziativa popolare al diritto vigente;
+- b. se preferisce il controprogetto al diritto vigente;
+- c. quale dei due testi dovrà entrare in vigore nel caso in cui Popolo e Cantoni li abbiano preferiti entrambi al diritto vigente.
+
+<sup>2</sup> La maggioranza assoluta è accertata separatamente per ogni domanda. Non è tenuto conto delle domande lasciate senza risposta.
+
+<sup>3</sup> Se risultano accettati sia l’iniziativa sia il controprogetto, è determinante l’esito della terza domanda. Entra in vigore il testo che, secondo le risposte a questa domanda, ha raccolto il maggior numero di voti del Popolo e dei Cantoni.
+
+[^76-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^76-2]: Introdotta dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+
+## Titolo quinto *a*:**** Registro dei partiti
+
+[^tit5a-1]
+
+[^tit5a-1]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 76a
+
+<sup>1</sup>
+
+Un partito politico può farsi ufficialmente registrare presso la Cancelleria federale se:
+
+- a. riveste la forma giuridica dell’associazione ai sensi degli articoli 60–79 del Codice civile[^76a-1]; e
+- b. è rappresentato con lo stesso nome da almeno un membro in seno al Consiglio nazionale o da una deputazione di al minimo tre membri in almeno tre parlamenti cantonali.
+
+<sup>2</sup>
+
+L’associazione che intende farsi iscrivere nel registro dei partiti fornisce alla Cancelleria federale i documenti e le indicazioni seguenti:
+
+- a. un esemplare degli statuti vigenti;
+- b. il nome previsto negli statuti e la sede del partito;
+- c. il nome e l’indirizzo delle persone preposte alla presidenza e alla gestione del partito a livello federale.
+
+<sup>3</sup> La Cancelleria federale tiene un registro concernente le indicazioni fornitele dai partiti. Il registro è pubblico. L’Assemblea federale disciplina i dettagli mediante ordinanza.
+
+[^76a-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+## Titolo sesto: Rimedi di diritto
+
+#### Art. 77
+
+**Ricorsi**
+
+<sup>1</sup>
+
+Il ricorso al governo cantonale è ammissibile per:
+
+- a.[^77-1] violazione del diritto di voto a tenore degli articoli 2–4, 5 capoversi 3–6, 62 e 63 (ricorso sul diritto di voto);
+- b.[^77-2] irregolarità riguardanti le votazioni (ricorso sulla votazione);
+- c. irregolarità nella preparazione e esecuzione delle elezioni al Consiglio nazionale (ricorso sull’elezione).
+
+<sup>2</sup> Il ricorso dev’essere presentato, mediante invio raccomandato, entro tre giorni dalla scoperta del motivo di impugnazione, ma al più tardi il terzo giorno dopo la pubblicazione dei risultati nel Foglio ufficiale del Cantone.[^77-3]
+
+[^77-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^77-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^77-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+
+#### Art. 78
+
+**Motivazione**
+
+<sup>1</sup> Il ricorso dev’essere motivato con una breve esposizione dei fatti.
+
+<sup>2</sup> …[^78-1]
+
+[^78-1]: Abrogato dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 79
+
+**Decisioni su ricorso e altre disposizioni**
+
+<sup>1</sup> Il governo cantonale decide entro dieci giorni dalla presentazione del ricorso.
+
+<sup>2</sup> Se, su ricorso o d’ufficio, accerta irregolarità, prende le necessarie disposizioni, se possibile prima della chiusura della procedura d’elezione o votazione.
+
+<sup>2bis</sup> Il governo cantonale respinge, senza esaminarli più approfonditamente, i ricorsi sul diritto di voto o sulle votazioni se accerta che il genere e l’entità delle irregolarità non sono in grado di influire essenzialmente sull’esito della votazione o dell’elezione.[^79-1]
+
+<sup>3</sup> Il governo cantonale notifica le decisioni su ricorso e le altre disposizioni giusta gli articoli 34–38 e 61 capoverso 2 della legge federale del 20 dicembre 1968[^79-2] sulla procedura amministrativa e le comunica anche alla Cancelleria federale.[^79-3]
+
+[^79-1]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^79-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^79-3]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 80
+
+**Ricorso al Tribunale federale**[^80-1]
+
+<sup>1</sup> Le decisioni su ricorso pronunciate dal governo cantonale (art. 77) possono essere impugnate con ricorso al Tribunale federale conformemente alla legge del 17 giugno 2005[^80-2] sul Tribunale federale.
+
+<sup>2</sup> Possono essere inoltre impugnate con ricorso al Tribunale federale le decisioni della Cancelleria federale inerenti al rifiuto dell’iscrizione nel registro dei partiti o alla non riuscita di un’iniziativa popolare o di un referendum. Il ricorso è inammissibile contro le note pubblicate nel Foglio federale indicanti che una domanda di referendum o un’iniziativa popolare non ha manifestamente raccolto il numero prescritto di firme valide (art. 66 cpv. 1 e 72 cpv. 1).[^80-3]
+
+<sup>3</sup> I membri del comitato d’iniziativa possono impugnare con ricorso al Tribunale federale anche le decisioni della Cancelleria federale inerenti alla validità formale della lista delle firme (art. 69 cpv. 1) e al titolo dell’iniziativa (art. 69 cpv. 2).
+
+[^80-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^80-3]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+
+#### Art. 81 e 82
+
+[^8182-1]
+
+[^8182-1]: Abrogati dal n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, con effetto dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## Titolo settimo: Disposizioni comuni
+
+#### Art. 83
+
+**Diritto cantonale**
+
+In quanto la presente legge e i disposti federali esecutivi non contengano pertinenti disposizioni, s’applica il diritto cantonale. È riservata la legge federale del 16 dicembre 1943[^83-1] sull’organizzazione giudiziaria.
+
+[^83-1]: [CS **3** 499; RU **1948** 899 art. 86, [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+
+#### Art. 84
+
+**Impiego di ausili tecnici**
+
+<sup>1</sup> Il Consiglio federale può autorizzare i governi cantonali ad emanare disposizioni deroganti alla presente legge per accertare con mezzi tecnici i risultati delle elezioni e votazioni.[^84-1]
+
+<sup>2</sup> L’utilizzazione di mezzi tecnici per le elezioni e le votazioni deve essere approvata dal Consiglio federale.[^84-2]
+
+[^84-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^84-2]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+
+#### Art. 85
+
+[^85-1]
+
+[^85-1]: Abrogato dal n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, con effetto dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 86
+
+**Gratuità delle operazioni ufficiali**[^86-1]
+
+<sup>1</sup> Per le operazioni ufficiali in base alla presente legge non si possono riscuotere emolumenti. In caso di ricorso temerario o contrario alla buona fede, le spese possono essere addossate al ricorrente.
+
+<sup>2</sup> Nei procedimenti dinanzi al Tribunale federale, l’onere delle spese è disciplinato dalla legge del 17 giugno 2005[^86-2] sul Tribunale federale.
+
+[^86-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^86-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+
+#### Art. 87
+
+**Rilevazioni statistiche**
+
+<sup>1</sup>
+
+La Confederazione tiene statistiche sulle elezioni e votazioni popolari federali; tali statistiche, a livello comunale, distrettuale e cantonale, informano:
+
+- a. per le elezioni: sul numero di voti ottenuti dai candidati e dalle liste elettorali;
+- b. per le votazioni: sul numero di voti favorevoli ottenuti dagli oggetti in votazione.[^87-1]
+
+<sup>1bis</sup> Il Consiglio federale può ordinare altre rilevazioni statistiche sulle elezioni al Consiglio nazionale e sulle votazioni popolari.[^87-2]
+
+<sup>2</sup> Udito il competente governo cantonale, può prevedere che in determinati Comuni il voto sia espresso separatamente in funzione del sesso e del gruppo d’età.
+
+<sup>3</sup> Il segreto del voto non dev’essere pregiudicato.
+
+[^87-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-2]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+
+## Titolo ottavo: Disposizioni finali
+
+### Capitolo 1: Modificazioni e abrogazioni
+
+#### Art. 88
+
+**Modificazione di leggi federali**
+
+…[^88-1]
+
+[^88-1]: Le mod. possono essere consultate alla [RU 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688).
+
+#### Art. 89
+
+**Abrogazione di leggi federali**
+
+Sono abrogate:
+
+- a. la legge federale del 19 luglio 1872[^89-1] sulle elezioni e votazioni federali;
+- b. la legge federale del 17 giugno 1874[^89-2] concernente le votazioni popolari su leggi e risoluzioni federali;
+- c. la legge federale del 23 marzo 1962[^89-3] sul modo di procedere per la domanda d’iniziativa popolare concernente la revisione della Costituzione federale (legge sulle iniziative popolari);
+- d. la legge federale del 25 giugno 1965[^89-4] che istituisce delle agevolezze in materia di votazioni ed elezioni federali;
+- e. la legge federale dell’8 marzo 1963[^89-5] per la ripartizione dei deputati al Consiglio nazionale tra i Cantoni;
+- f. la legge federale del 14 febbraio 1919[^89-6] circa l’elezione del Consiglio nazionale.
+
+[^89-1]: [CS **1** 153; [RU 1952 69](https://fedlex.data.admin.ch/eli/oc/1952/69_69_69), [1966 867](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)art. 9, [1971 1361](https://fedlex.data.admin.ch/eli/oc/1971/1365_1361_1361)]
+[^89-2]: [CS **1** 168; [RU 1962 848](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 cpv. 3]
+[^89-3]: [[RU 1962 848](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)]
+[^89-4]: [[RU 1966 867](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)]
+[^89-5]: [[RU 1963 435](https://fedlex.data.admin.ch/eli/oc/1963/419_415_435)]
+[^89-6]: [CS **1** 174; [RU 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601)]
+
+### Capitolo 2: Diritto transitorio, esecuzione e entrata in vigore
+
+#### Art. 90
+
+**Diritto transitorio**
+
+<sup>1</sup> La presente legge non s’applica ai fatti e ai ricorsi riferentisi ad elezioni e votazioni antecedenti alla sua entrata in vigore. Lo stesso vale per i referendum e le iniziative popolari precedentemente depositati. In questi casi resta determinante il diritto previgente.
+
+<sup>2</sup> Decorsi 18 mesi dall’entrata in vigore saranno accolte soltanto le liste di firme conformi alle disposizioni della presente legge.
+
+<sup>3</sup> …[^90-1]
+
+<sup>4</sup> …[^90-2]
+
+[^90-1]: Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^90-2]: Introdotto dal n. III della LF del 9 mar. 1978 ([RU 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [FF 1977 III 829](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 90a
+
+**Disposizione transitoria della modifica del 25 settembre 2009**[^90a-1]
+
+Alle iniziative popolari federali pendenti al momento dell’entrata in vigore della modifica del 25 settembre 2009 della presente legge si applica il nuovo diritto.
+
+[^90a-1]: Introdotto dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+
+#### Art. 91
+
+**Esecuzione**
+
+<sup>1</sup> Il Consiglio federale emana le disposizioni esecutive.
+
+<sup>2</sup> Le disposizioni cantonali esecutive richiedono, per essere valide, l’approvazione della Confederazione[^91-1]. Esse devono essere emanate entro 18 mesi dall’accettazione della presente legge da parte dell’Assemblea federale.
+
+[^91-1]: Espr. modificata dal n. III della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+
+#### Art. 92
+
+**Referendum e entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° luglio 1978[^92-1]
+
+[^92-1]: DCF del 24 mag. 1978.

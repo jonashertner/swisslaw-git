@@ -1,0 +1,27 @@
+---
+sr: "0.353.962.3"
+title: "Échange de notes des 11 décembre 1954/28 novembre 1955 concernant le maintien en vigueur entre la Suisse et le Pakistan du traité anglo-suisse d'extradition du 26 novembre 1880"
+eli: "https://fedlex.data.admin.ch/eli/cc/1955/1146_1168_1176"
+language: fr
+version: 1955-11-28
+adopted: 1955-11-28
+in_force: 1955-11-28
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/1146_1168_1176/19551128/fr/xml/fedlex-data-admin-ch-eli-cc-1955-1146_1168_1176-19551128-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/1146_1168_1176/19551128/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Echange de notes des 11 décembre 1954/28 novembre 1955 concernant le maintien en vigueur entre la Suisse et le Pakistan du traité anglo‑suisse d’extradition du 26 novembre 1880
+
+RO **1955** 1168
+
+Entré en vigueur le 28 novembre 1955
+
+(Etat le 28 novembre 1955)
+
+Par échange de notes du 11 décembre 1954 / 28 novembre 1955, la Suisse et le Pakistan sont convenus que le traité d’extradition entre la Suisse et la Grande‑Bretagne du 26 novembre 1880[^ingress-1], dans sa teneur du 29 juin 1904[^ingress-2], ainsi que la convention additionnelle du 19 décembre 1934[^ingress-3], continuent à être applicables dans les rapports entre les deux pays.
+
+[^ingress-1]: [RS 0.353.936.7](https://fedlex.data.admin.ch/eli/cc/5/313_280_313)
+[^ingress-2]: [RS 0.353.936.7](https://fedlex.data.admin.ch/eli/cc/5/313_280_313)
+[^ingress-3]: [RS 0.353.936.71](https://fedlex.data.admin.ch/eli/cc/51/450_462_548)

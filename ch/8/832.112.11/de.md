@@ -1,0 +1,98 @@
+---
+sr: "832.112.11"
+title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoausgleichs in der Krankenversicherung (VORA-EDI)
+short: VORA-EDI
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
+language: de
+version: 2020-01-01
+adopted: 2019-10-14
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20200101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EDI über die Umsetzung des Risikoausgleichs in der Krankenversicherung
+
+(VORA-EDI)
+
+vom 14. Oktober 2019 (Stand am 1. Januar 2020)
+
+Das Eidgenössische Departement des Innern (EDI),
+
+gestützt auf die Artikel 4 Absätze 1 und 4, 5 Absatz 5 und 13 Absatz 2 der Verordnung vom 19. Oktober 2016[^ingress-1] über den Risikoausgleich in der Krankenversicherung (VORA),
+
+verordnet:
+
+[^ingress-1]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+
+#### Art. 1
+
+**PCG-Liste**
+
+Die pharmazeutischen Kostengruppen (PCG) sind im Anhang festgelegt.
+
+#### Art. 2
+
+**Nicht eigenständige und kombinierte PCG**
+
+<sup>1</sup> Die PCG «Hypertonie (hyp)» ist eine nicht eigenständige PCG.
+
+<sup>2</sup> Die PCG «Diabetes Typ-2 mit Bluthochdruck (DM2+hyp)» ist eine kombinierte PCG.
+
+#### Art. 3
+
+**Hierarchisierung der PCG**
+
+Es gelten folgende Hierarchisierungen:
+
+- a. Die PCG «Autoimmunkrankheiten (AIK)» ist hierarchisch höher als die PCG «Morbus Crohn / Colitis ulcerosa (MCR)», als die PCG «Psoriasis (PSO)» und als die PCG «Rheuma (RHE)».
+- b. Die PCG «Herzkrankheiten (CAR)» ist hierarchisch höher als die PCG «Hohes Cholesterin (HCH)».
+- c. Die PCG «COPD / Schweres Asthma (COP)» ist hierarchisch höher als die «PCG Asthma (AST)».
+- d. Die PCG «Diabetes Typ-1 (DM1)» ist hierarchisch höher als die PCG «Diabetes Typ-2 (DM2)», als die PCG «Hohes Cholesterin (HCH)» und als die PCG «Diabetes Typ-2 mit Bluthochdruck (DM2+hyp)».
+- e. Die PCG «Diabetes Typ-2 (DM2)» und die PCG «Diabetes Typ-2 mit Bluthochdruck (DM2+hyp)» sind hierarchisch höher als die PCG «Hohes Cholesterin (HCH)».
+- f. Die PCG «Krebs (KRE)» und die PCG «Krebs komplex (KRK)» sind hierarchisch höher als die PCG «Hormonsensitive Tumore (KHO)».
+- g. Die PCG «Krebs komplex (KRK)» ist hierarchisch höher als die PCG «Krebs (KRE)».
+- h. Die PCG «Multiple Sklerose (MSK)» ist hierarchisch höher als die PCG «Krankheiten des zentralen Nervensystems ohne Multiple Sklerose (ZNS)».
+- i. Die PCG «Neuropathischer Schmerz (SMN)» ist hierarchisch höher als die PCG «Chronische Schmerzen ohne Opioide (SMC)».
+
+#### Art. 4
+
+**Mindestanzahl der standardisierten Tagesdosen**
+
+Die Mindestanzahl der standardisierten Tagesdosen (DDD) für die Einteilung in eine PCG beträgt 180. Davon ausgenommen sind:
+
+- a. PCG «Krebs komplex (KRK)»: Mindestanzahl 15;
+- b. PCG «Krebs (KRE)»: Mindestanzahl 3.
+
+#### Art. 5
+
+**Teuerungsfaktor**
+
+<sup>1</sup>
+
+Für jeden Kanton wird, ausgehend von den jeweils in den ersten 14 Monaten abgerechneten Leistungsdaten des Ausgleichsjahres und des Jahres vor dem Ausgleichsjahr (Vorjahr), ein um die Strukturveränderung bereinigter Teuerungsfaktor ermittelt. Für die Berechnung sind massgebend:
+
+- a. die Gesamtteuerung, ermittelt durch die Division der durchschnittlichen Nettoleistungen im Ausgleichsjahr durch die durchschnittlichen Nettoleistungen im Vorjahr;
+- b. die Strukturteuerung, ermittelt durch die Division der mit den Versichertenbeständen pro Risikogruppe des Ausgleichsjahres gewichteten durchschnittlichen Nettoleistungen im Vorjahr durch die durchschnittlichen Nettoleistungen im Vorjahr.
+
+<sup>2</sup> Die durchschnittlichen Nettoleistungen werden über alle Versicherer und alle Risikogruppen hinweg berechnet.
+
+<sup>3</sup> Der Teuerungsfaktor resultiert aus der Division der Gesamtteuerung durch die Strukturteuerung.
+
+#### Art. 6
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2020 in Kraft.
+
+Anhang
+
+(Art. 1)
+
+## PCG-Liste****
+
+[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Die PCG-Liste wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie ist abrufbar unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Risikoausgleich. Es gilt die Fassung vom 14. März 2019.

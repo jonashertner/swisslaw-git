@@ -1,0 +1,192 @@
+---
+sr: "415.013"
+title: "Ordinanza del 15 novembre 2017 sugli emolumenti dell'Ufficio federale dello sport (OEm UFSPO)"
+short: OEm UFSPO
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
+language: it
+version: 2018-01-01
+adopted: 2017-11-15
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-732-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli emolumenti dell’Ufficio federale dello sport
+
+(OEm UFSPO)
+
+del 15 novembre 2017 (Stato 1° gennaio 2018)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 30 capoverso 1 della legge del 17 giugno 2011[^ingress-1] sulla promozione dello sport (LPSpo); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,
+
+ordina:
+
+[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 1
+
+**Oggetto**
+
+<sup>1</sup> La presente ordinanza disciplina gli emolumenti per le prestazioni ufficiali dell’Ufficio federale dello sport (UFSPO). Essa non si applica alle prestazioni commerciali ai sensi dell’articolo 29 LPSpo.
+
+<sup>2</sup> Per prestazioni ufficiali si intendono le prestazioni che l’UFSPO deve effettuare nel quadro del mandato legale per la promozione dello sport e dell’attività fisica.
+
+#### Art. 2
+
+**Applicabilità dell’ordinanza generale sugli emolumenti**
+
+Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^2-1] sugli emolumenti.
+
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 3
+
+**Obbligo di pagamento**
+
+Chi ottiene una prestazione o causa l’emanazione di una decisione deve pagare un emolumento, in particolare per:
+
+- a. l’uso di impianti sportivi e di spazi infrastrutturali;
+- b. l’uso di apparecchiature, segnatamente attrezzi sportivi, veicoli a motore e infrastrutture sportive mobili;
+- c. i servizi riguardanti l’alloggio e la ristorazione;
+- d. la partecipazione a formazioni e perfezionamenti dell’UFSPO nei programmi «Gioventù+Sport» (G+S) e Sport per gli adulti (ESA), nonché in altri programmi del sostegno generale dello sport e dell’attività fisica;
+- e. la decisione relativa alla revoca, alla sospensione e al riottenimento del riconoscimento di quadri in G+S ed ESA;
+- f. la redazione di perizie e resoconti;
+- g. le prestazioni nei campi della medicina, della psicologia, della fisioterapia e del massaggio sportivi;
+- h. i servizi nel campo della diagnostica delle prestazioni;
+- i. la richiesta di pubblicazioni e di immagini dell’UFSPO in formato cartaceo o elettronico;
+- j. la decisione riguardante l’esclusione o la non ammissione ai cicli di studio e di formazione della Scuola universitaria federale dello sport di Macolin.
+
+#### Art. 4
+
+**Rinuncia alla riscossione degli emolumenti**
+
+Non sono riscossi emolumenti per:
+
+- a. decisioni concernenti la concessione di aiuti finanziari;
+- b. riconoscimenti dei quadri di G+S ed ESA;
+- c. la partecipazione a corsi e moduli di formazione e perfezionamento degli esperti G+S;
+- d. la partecipazione a corsi e moduli di formazione e perfezionamento dei coach G+S;
+- e. la consegna di materiale didattico ai coach G+S.
+
+#### Art. 5
+
+**Imposta sul valore aggiunto**
+
+L’eventuale imposta sul valore aggiunto è compresa nelle corrispondenti tariffe.
+
+#### Art. 6
+
+**Calcolo degli emolumenti**
+
+<sup>1</sup> Per il calcolo degli emolumenti valgono le tariffe riportate in allegato.
+
+<sup>2</sup> Se nell’allegato non è prevista alcuna tariffa, gli emolumenti si calcolano in base al tempo impiegato.
+
+<sup>3</sup> Per l’emolumento in base al tempo impiegato si applicano tariffe orarie di 50–250 franchi. Il quarto d’ora iniziato viene fatturato per intero.
+
+<sup>4</sup> Nell’ambito della fascia di cui al capoverso 3 la tariffa oraria è definita in funzione delle conoscenze specialistiche richieste e della classe di funzione di chi tratta l’oggetto, nonché dell’interesse pubblico e dell’interesse della persona tenuta al pagamento degli emolumenti.
+
+#### Art. 7
+
+**Prenotazione di servizi**
+
+Per ottenere le prestazioni di cui all’articolo 3 lettere a–c, g ed h è necessaria la prenotazione. Le prestazioni sono considerate come ottenute secondo quanto prenotato, indipendentemente dalla durata o intensità effettive di fruizione .
+
+#### Art. 8
+
+**Riduzione e condono di emolumenti**
+
+<sup>1</sup>
+
+L’UFSPO può ridurre o condonare gli emolumenti per la fornitura di prestazioni per le quali sussiste un interesse pubblico preponderante, nella misura in cui vengono fornite:
+
+- a. a persone od organizzazioni che ricevono aiuti finanziari ai sensi delle disposizioni della LPSpo;
+- b. per sostenere programmi e progetti secondo l’articolo 3 LPSpo o volti alla promozione di G+S.
+
+<sup>2</sup> Nei casi di cui al capoverso 1 lettera a l’UFSPO regola con le persone od organizzazioni interessate la riduzione o il condono degli emolumenti in un contratto di diritto pubblico.
+
+<sup>3</sup> Se le prestazioni prenotate non vengono ottenute per motivi scusabili, l’UFSPO può ridurre l’emolumento.
+
+#### Art. 9
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del DDPS del 14 settembre 2012[^9-1] concernente gli emolumenti dell’Ufficio federale dello sport è abrogata.
+
+[^9-1]: [[RU 2012 4901](https://fedlex.data.admin.ch/eli/oc/2012/583), [2015 4139](https://fedlex.data.admin.ch/eli/oc/2015/694)]
+
+#### Art. 10
+
+**Modifica di un altro atto normativo**
+
+...*[^10-1]*
+
+[^10-1]: La mod. può essere consultata alla [RU 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732).
+
+#### Art. 11
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2018.
+
+Allegato
+
+(art. 6 cpv. 1)
+
+<table>
+<tr><th></th><th>Emolumento in franchi</th><th colspan="3">Unità</th></tr>
+<tr><td>1. Uso di impianti, attrezzature e apparecchi (senza spese per il personale)</td><td></td><td colspan="3"></td></tr>
+<tr><td>Uso degli impianti (a seconda dell’impianto e della durata dell’uso)</td><td>max. 300</td><td colspan="3">a persona/giorno</td></tr>
+<tr><td>Veicoli a motore (escluso carburante; a seconda del tipo)</td><td>50–90</td><td colspan="3">per ½ giornata</td></tr>
+<tr><td>Rimorchio per materiale / per barche</td><td>20–40</td><td colspan="3">per ½ giornata</td></tr>
+<tr><td>Biciclette, canoe, tavole da surf o altri attrezzi sportivi</td><td>max. 30</td><td colspan="3">per ½ giornata</td></tr>
+<tr><td>Apparecchiature e impianti audiovisivi</td><td>30–60</td><td colspan="3">per ½ giornata</td></tr>
+<tr><td>Diverse apparecchiature sportive, in particolare impianti di cronometraggio, sistema di misurazione e analisi LPM, apparecchi per i test della forza di base e tenda isobarica (a seconda della dotazione)</td><td>max. 300\*</td><td colspan="3">all’ora</td></tr>
+<tr><td>2. Alloggio con o senza pensione completa</td><td></td><td colspan="3"></td></tr>
+<tr><td>Pernottamento in camera, senza vitto (a seconda delle dimensioni, della dotazione, dell’occupazione nonché della durata di permanenza e dell’età degli ospiti)</td><td>19–95</td><td colspan="3">a persona/notte</td></tr>
+<tr><td>Idem, con pensione completa</td><td>40–150</td><td colspan="3">a persona/notte</td></tr>
+<tr><td>Pernottamento in tenda o dormitorio, senza vitto, (a seconda dell’occupazione, della durata di permanenza e dell’età degli ospiti)</td><td>11–23</td><td colspan="3">a persona/notte</td></tr>
+<tr><td>Idem, con pensione completa</td><td>39–80</td><td colspan="3">a persona/notte</td></tr>
+<tr><td>Camera per soggiorni di lunga durata a partire da 30 giorni, senza vitto (a seconda delle dimensioni, della dotazione e dell’occupazione)</td><td>280–1000</td><td colspan="3">a persona/mese</td></tr>
+<tr><td>3. Vitto</td><td></td><td colspan="3"></td></tr>
+<tr><td>Colazione (in base all’offerta)</td><td>6–14</td><td colspan="3">a persona</td></tr>
+<tr><td>Pranzo (in base all’offerta)</td><td>12–21</td><td colspan="3">a persona</td></tr>
+<tr><td>Cena (in base all’offerta)</td><td>10–21</td><td colspan="3">a persona</td></tr>
+<tr><td>Pranzo al sacco/merenda (in base all’offerta)</td><td>7–15</td><td colspan="3">a persona</td></tr>
+<tr><td>4. Formazione e perfezionamento</td><td></td><td colspan="3"></td></tr>
+<tr><td>Corsi e moduli della formazione dei quadri G+S ed ESA, forfait giornaliero per lezioni e trasporti nell’ambito di corsi e moduli (a seconda di dimensioni, tempo impiegato e importanza nel quadro del programma G+S)</td><td>max. 140</td><td colspan="3">per giorno di corso</td></tr>
+<tr><td>Documentazione G+S (manuale completo)</td><td>50</td><td colspan="3">a esemplare</td></tr>
+<tr><td>Documentazione G+S (solo documento di base)</td><td>15</td><td colspan="3">a esemplare</td></tr>
+<tr><td>Documentazione G+S (manuale senza documento di base)</td><td>35</td><td colspan="3">a esemplare</td></tr>
+<tr><td>Manuale G+S Sport di campo/Trekking, se ritirato presso le federazioni giovanili incaricate della formazione dei quadri</td><td>25</td><td colspan="3">a esemplare</td></tr>
+<tr><td>Manuale ESA</td><td>50</td><td colspan="3">a esemplare</td></tr>
+<tr><td>Materiale G+S in prestito</td><td>0,60</td><td colspan="3">al chilo (lordo)</td></tr>
+<tr><td>5. Diagnostica delle prestazioni</td><td></td><td colspan="3"></td></tr>
+<tr><td>Test della resistenza, in particolare test del lattato, accertamenti in altitudine, misurazione del VO<sub>2max</sub> e misurazione del volume sanguigno</td><td>120–400</td><td colspan="3">a persona/test</td></tr>
+<tr><td>Test della forza, in particolare delle prestazioni muscolari e della forza di base (a seconda delle prove)</td><td>80–240</td><td colspan="3">a persona/test</td></tr>
+<tr><td>Test della velocità, in particolare: scatto sui 40 metri, optojump (a seconda delle prove)</td><td>45–350</td><td colspan="3">a persona/test</td></tr>
+<tr><td>Serie di test singoli per esigenze specifiche (a seconda dello sport e delle prove)</td><td>265–690</td><td colspan="3">a persona</td></tr>
+<tr><td>6. Medicina dello sport</td><td></td><td colspan="3"></td></tr>
+<tr><td>Diversi test e prove di laboratorio (in base al tempo impiegato)</td><td>10–250</td><td colspan="3">a persona</td></tr>
+<tr><td>Intervento diagnostico o terapeutico in presenza di un problema specifico</td><td>secondo tariffa Tarmed</td><td colspan="3"></td></tr>
+<tr><td>7. Fisioterapia dello sport</td><td></td><td colspan="3"></td></tr>
+<tr><td>Diversi test, in particolare test della forza nella riabilitazione e accertamenti specifici per il singolo sport (in base al lavoro e al tempo impiegato)</td><td>85–250</td><td colspan="3">a persona/test</td></tr>
+<tr><td>Massaggio</td><td>25</td><td colspan="3">per 30 minuti</td></tr>
+<tr><td>8. Psicologia dello sport</td><td></td><td colspan="3"></td></tr>
+<tr><td>Test standard di psicologia dello sport (in base al lavoro e al tempo impiegato)</td><td>20–100</td><td colspan="3">a persona/test</td></tr>
+<tr><td>9. Varia</td><td></td><td colspan="3"></td></tr>
+<tr><td>Uso del parcheggio</td><td>max. 5</td><td colspan="3">all’ora</td></tr>
+<tr><td>Pubblicazioni nei formati A5 e A4</td><td></td><td colspan="3">secondo l’ordinanza del 19 novembre 2014[^t-1] sugli emolumenti per le pubblicazioni</td></tr>
+<tr><td>Pubblicazioni diverse dai formati A4 e A5, fino al formato A0 al massimo (a seconda del formato, della qualità della carta, del colore, del lavoro necessario per la presentazione grafica e l’impaginazione)</td><td>1–150</td><td colspan="3">a pagina</td></tr>
+<tr><td>Immagini (in funzione dell’uso, se a fini commerciali o non commerciali, tiratura e formato)</td><td>10–1000</td><td colspan="3">a immagine</td></tr>
+<tr><td>Badge sostitutivo</td><td>30</td><td colspan="3"></td></tr>
+<tr><td>Chiave sostitutiva</td><td>50</td><td colspan="3"></td></tr>
+<tr><td colspan="3">\* Nel caso di installazioni fisse, nell’emolumento è compreso l’uso di impianti sportivi.</td><td>[tab]</td><td>[tab]</td></tr>
+</table>
+
+[^t-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)

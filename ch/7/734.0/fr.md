@@ -1,0 +1,871 @@
+---
+sr: "734.0"
+title: "Loi fédérale du 24 juin 1902 concernant les installations électriques à faible et à fort courant (Loi sur les installations électriques, LIE)"
+short: LIE
+eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
+language: fr
+version: 2021-01-01
+adopted: 1902-06-24
+in_force: 1903-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20210101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale concernant les installations électriques à faible et à fort courant
+
+(Loi sur les installations électriques, LIE)**[^t-1]**
+
+du 24 juin 1902 (Etat le 1<sup>er</sup> janvier 2021)
+
+[^t-1]: Parenthèse introduite par le ch. 11 de l’app. à la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
+
+L’Assemblée fédérale de la Confédération suisse
+
+vu les art. 81, 87, 89 et 91, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 5 juin 1899[^ingress-3],
+
+décrète:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^ingress-3]: [FF 1899 IV 441](https://fedlex.data.admin.ch/eli/fga/1899/4__441_)
+
+## I. Dispositions générales
+
+#### Art. 1
+
+L’établissement et l’exploitation des installations électriques à faible et à fort courant spécifiées aux art. 4 et 13 sont soumis à la haute surveillance de la Confédération. Le Conseil fédéral édicte les prescriptions nécessaires.
+
+#### Art. 2
+
+<sup>1</sup> Sont considérées comme installations à faible courant celles qui produisent ou utilisent normalement des courants n’offrant aucun danger pour les personnes ou les choses.
+
+<sup>2</sup> Sont considérées comme installations à fort courant celles qui produisent ou utilisent des courants présentant dans certaines circonstances un danger pour les personnes ou les choses.
+
+<sup>3</sup> S’il y a doute au sujet du classement d’une installation électrique, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC[^2-1]) statue en dernière instance.[^2-2]
+
+[^2-1]: Nouvelle expression selon le ch. I 1 de la LF du 15 déc. 2017, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)). Il a été tenu compte de cette modification dans tout le texte.
+[^2-2]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 3
+
+<sup>1</sup> Le Conseil fédéral édicte des prescriptions en vue de prévenir les dangers et dommages causés par les installations à fort et à faible courant.[^3-1]
+
+<sup>2</sup>
+
+Il règle:[^3-2]
+
+- a. l’établissement et l’entretien des installations à faible courant et à fort courant;
+- b. les précautions à prendre pour l’établissement de lignes électriques parallèles ou de lignes qui se croisent, ainsi que pour l’établissement de lignes électriques parallèles aux chemins de fer ou qui les croisent;
+- c. la construction et l’entretien des chemins de fer électriques;
+- d.[^3-3] la protection des télécommunications et de la radiodiffusion (art. 37 de la loi du 21 juin 1991[^3-4] sur les télécommunications) contre les perturbations électromagnétiques.
+
+<sup>3</sup> Le Conseil fédéral aura soin dans ces prescriptions et dans leur exécution de sauvegarder le secret des procédés de fabrication.
+
+<sup>4</sup> …[^3-5]
+
+[^3-1]: Nouvelle teneur selon le ch. 4 de l’app. à la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
+[^3-2]: Nouvelle teneur selon le ch. 4 de l’app. à la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
+[^3-3]: Introduite par le ch. 4 de l’app. à la L du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1260](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
+[^3-4]: [[RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 18. [RO 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)art. 65]. Voir actuellement la L du 30 avr. 1997 ([RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)).
+[^3-5]: Abrogé par le ch. II 30 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 3a
+
+[^3a-1]
+
+<sup>1</sup> Le Conseil fédéral édicte des dispositions prévoyant la perception d’émoluments appropriés pour les décisions, les contrôles et les prestations de l’administration fédérale et de l’Inspection fédérale des installations à courant fort (inspection).
+
+<sup>2</sup> Il prévoit la perception, par l’Office fédéral de l’énergie (OFEN), d’émoluments appropriés auprès des exploitants des installations à courant fort et à courant faible (entreprises) pour les charges supportées par les cantons selon les conventions de prestations visées à l’art. 9*e*, al. 2, de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^3a-2]*.*
+
+[^3a-1]: Introduit par l’annexe ch. II 8 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^3a-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+
+#### Art. 3b
+
+[^3b-1]
+
+<sup>1</sup>
+
+Le Conseil fédéral fixe les modalités de la perception des émoluments, en particulier en ce qui concerne:
+
+- a. la procédure de perception des émoluments;
+- b. le montant des émoluments;
+- c. la responsabilité lorsque plusieurs personnes sont assujetties au paiement d’émoluments;
+- d. la prescription du droit au recouvrement des émoluments.
+
+<sup>2</sup> Il fixe les émoluments en respectant les principes de l’équivalence et de la couverture des coûts.
+
+<sup>3</sup> Il peut prévoir des dérogations à la perception d’un émolument dans la mesure où la décision, le contrôle ou la prestation sont justifiés par un intérêt public prépondérant.
+
+[^3b-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+## II. Installations électriques à faible courant
+
+#### Art. 4
+
+<sup>1</sup> Sont soumises aux prescriptions de la présente loi toutes les installations électriques à faible courant qui empruntent le domaine public ou celui des chemins de fer, ou qui, par suite de la proximité d’installations électriques à fort courant, peuvent causer des perturbations d’exploitation ou présenter des dangers.
+
+<sup>2</sup> Les installations à faible courant peuvent utiliser la terre comme conduite; il est fait exception pour les lignes de téléphone publiques lorsque la proximité d’installations électriques à fort courant peut causer des perturbations dans le service des téléphones ou présenter des dangers.
+
+<sup>3</sup> Le Conseil fédéral détermine les installations soumises à l’approbation obligatoire des plans.[^4-1]
+
+[^4-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 5 à 12
+
+[^512-1]
+
+[^512-1]: Abrogés par l’annexe ch. 3 de la L du 30 avr. 1997 sur les télécommunications, avec effet au 20 oct. 1997 ([RO 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187); [FF 1996 III 1361](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)).
+
+## III. Installations électriques à fort courant
+
+#### Art. 13
+
+<sup>1</sup> Sont soumises aux dispositions de la présente loi toutes les installations électriques à fort courant.
+
+<sup>2</sup> Les installations électriques isolées, n’empruntant que le terrain de celui qui les fait établir, sont assimilées aux installations intérieures (art. 15, 16, 17, 26 et 41) si elles n’utilisent que des courants dont la tension maximum ne dépasse pas celle autorisée et si elles ne peuvent causer des perturbations d’exploitation ou présenter des dangers par suite de la proximité d’autres installations électriques.
+
+#### Art. 14
+
+[^14-1]
+
+On entend par «installations intérieures» les ouvrages établis à l’intérieur des maisons, des locaux adjacents ou de leurs dépendances qui utilisent des tensions électriques ne dépassant pas celles autorisées par le Conseil fédéral.
+
+[^14-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 15
+
+[^15-1]
+
+<sup>1</sup> L’art. 3 fixe en particulier les mesures techniques de sécurité nécessaires en cas de voisinage immédiat de lignes à courant fort et de lignes à courant faible, ou de lignes à courant fort entre elles.
+
+<sup>2</sup> Ces mesures de sécurité seront appliquées dans chaque cas de la façon la plus appropriée, sans distinction entre les diverses installations. Si aucune entente ne peut s’établir quant aux mesures à prendre, le DETEC décide.[^15-2]
+
+<sup>3</sup> Les frais résultant de ces mesures seront supportés en commun par les entreprises intéressées.
+
+<sup>4</sup> Ces frais sont répartis en proportion de l’importance économique des lignes; il n’y a pas lieu de rechercher laquelle des lignes a été établie la première ou sur quelle ligne sont apportés les changements ou les mesures de sécurité.
+
+<sup>5</sup> L’autorité fédérale compétente statue sur les contestations au sujet des frais ou de leur répartition. Est réservée l’action visée à l’art. 120, al. 1, let. b, de la loi du 17 juin 2005 sur le Tribunal fédéral[^15-3] pour les contestations opposant la Confédération et des cantons, ou des cantons entre eux.[^15-4]
+
+<sup>6</sup> Les présentes dispositions ne s’appliquent pas aux installations intérieures.
+
+[^15-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 3 de la L du 23 mars 2007 sur l’approvisionnement en électricité, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1493](https://fedlex.data.admin.ch/eli/fga/2005/197)).
+[^15-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^15-4]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 15a
+
+[^15a-1]
+
+Les lignes et les équipements annexes nécessaires au transport et à la distribution d’électricité sont la propriété des entreprises du secteur de l’énergie qui les ont construites ou achetées à des tiers.
+
+[^15a-1]: Introduit par l’annexe ch. 3 de la L du 23 mars 2007 sur l’approvisionnement en électricité, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1493](https://fedlex.data.admin.ch/eli/fga/2005/197)).
+
+#### Art. 15b
+
+[^15b-1]
+
+<sup>1</sup> Toute ligne d’une tension nominale égale ou supérieure à 220 kV peut être réalisée sous forme de ligne aérienne ou de ligne souterraine.
+
+<sup>2</sup> Si des mesures de remplacement doivent être prises en application de la législation sur la protection de l’environnement ou de la législation sur la protection de la nature et du paysage, l’entreprise peut demander à l’autorité chargée de l’approbation des plans visée à l’art. 16, al. 2, d’ordonner à d’autres entreprises de réaliser ces mesures sur les installations électriques à courant fort qui leur appartiennent et qui, en règle générale, doivent se trouver à l’intérieur de la zone de planification correspondante.
+
+<sup>3</sup> Les entreprises concernées reçoivent une indemnité pleine et entière de l’entreprise requérante. Le Conseil fédéral fixe les modalités.
+
+[^15b-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 15c
+
+[^15c-1]
+
+<sup>1</sup> Toute ligne (50 Hz) du réseau de distribution d’une tension nominale inférieure à 220 kV doit être réalisée sous forme de ligne souterraine dans la mesure où cela est possible du point de vue de la technique et de l’exploitation, où l’accessibilité peut être garantie à tout moment dans les délais d’usage et où les coûts totaux ne dépassent pas un facteur donné (facteur de surcoût) par rapport aux coûts totaux pour la réalisation d’une ligne aérienne.
+
+<sup>2</sup> Le facteur de surcoût se monte à 3.0 au maximum. Le Conseil fédéral fixe le facteur de surcoût et une méthode de calcul uniforme pour comparer les coûts. Lors de la fixation du facteur de surcoût, il tient compte de critères tels que la modification du degré de câblage, les conséquences au niveau de la rémunération pour l’utilisation du réseau et les coûts de l’enfouissement de la ligne. Il peut adapter le facteur de surcoût en même temps qu’il approuve un nouveau scénario-cadre au sens de l’art. 9*a*, al. 4, LApEl[^15c-2].
+
+<sup>3</sup>
+
+Le Conseil fédéral peut prévoir:
+
+- a. la possibilité d’un enfouissement partiel ou complet de la ligne même si le facteur de surcoût est dépassé, lorsqu’un tiers prend en charge le montant dépassant le facteur de surcoût fixé;
+- b. la réalisation d’une ligne aérienne en totalité ou en partie même si le facteur de surcoût n’est pas dépassé, lorsque les inconvénients pour l’aménagement du territoire et l’environnement s’en trouvent globalement diminués.
+
+[^15c-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15c-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+
+#### Art. 15d
+
+[^15d-1]
+
+<sup>1</sup> L’approvisionnement en énergie électrique revêt un intérêt national.
+
+<sup>2</sup> Les installations du réseau de transport revêtent un intérêt national, notamment au sens de l’art. 6, al. 2, de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^15d-2].
+
+<sup>3</sup> Le Conseil fédéral peut également reconnaître un intérêt national à certaines lignes qui ne font pas partie du réseau de transport, mais qui sont exploitées à une tension nominale supérieure à 36 kV, si ces lignes sont absolument nécessaires pour garantir la sécurité de l’approvisionnement de certaines parties du pays ou d’infrastructures d’importance nationale, ou si elles raccordent des installations de production d’intérêt national.
+
+<sup>4</sup> Si l’autorité chargée de l’approbation des plans visée à l’art. 16, al. 2, doit prendre une décision concernant l’autorisation d’un projet d’installation au sens des al. 2 ou 3, l’intérêt national qui préside à la réalisation de ces projets est à considérer de rang équivalent aux autres intérêts nationaux lors de l’appréciation des intérêts en présence. Lorsque le projet concerne un objet inscrit dans un inventaire en vertu de l’art. 5 LPN, une dérogation à la règle de conservation intégrale de l’objet peut être envisagée.
+
+[^15d-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15d-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+## III*a* *.***** Procédure de plan sectoriel
+
+[^lvlIIIa-1]
+
+[^lvlIIIa-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 15e
+
+<sup>1</sup> Les projets concernant une ligne d’une tension nominale égale ou supérieure à 220 kV qui ont des effets considérables sur l’aménagement du territoire et sur l’environnement doivent être fixés dans un plan sectoriel au sens de la loi du 22 juin 1979 sur l’aménagement du territoire[^15e-1].
+
+<sup>2</sup> Le Conseil fédéral définit les exceptions à l’obligation de fixer le projet dans un plan sectoriel.
+
+[^15e-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 15f
+
+<sup>1</sup> L’OFEN décide si une procédure de plan sectoriel doit être menée.
+
+<sup>2</sup> Il consulte préalablement les services compétents de la Confédération et des cantons concernés. Il peut convenir avec ces services qu’ils n’ont pas besoin d’être consultés pour les cas simples.
+
+<sup>3</sup> Le plan sectoriel est établi dans un délai de deux ans. Le Conseil fédéral fixe les délais applicables aux différentes étapes de la procédure.
+
+#### Art. 15g
+
+<sup>1</sup> L’OFEN dirige la procédure de plan sectoriel.
+
+<sup>2</sup> Il institue un groupe d’accompagnement pour chaque procédure de plan sectoriel.
+
+<sup>3</sup> Le Conseil fédéral désigne les services et organisations représentés au sein du groupe d’accompagnement.
+
+#### Art. 15h
+
+<sup>1</sup> Le groupe d’accompagnement recommande une zone de planification à l’OFEN. La zone de planification doit être assez grande pour que plusieurs variantes de corridor puissent être élaborées.
+
+<sup>2</sup> Le Conseil fédéral fixe la zone de planification.
+
+<sup>3</sup> Il définit les cas dans lesquels il est possible de renoncer à fixer une zone de planification.
+
+#### Art. 15i
+
+<sup>1</sup> L’entreprise élabore en règle générale au moins deux variantes de corridor, avec la participation des cantons concernés; elle transmet les documents requis à l’OFEN.
+
+<sup>2</sup> Après avoir pris en compte tous les aspects, le groupe d’accompagnement recommande à l’OFEN un corridor de planification et la technologie de transport à employer.
+
+<sup>3</sup> Le Conseil fédéral fixe le corridor de planification et détermine la technologie de transport à employer.
+
+<sup>4</sup> Les effets sur l’aménagement du territoire et sur l’environnement, les aspects techniques et la rentabilité sont mis en balance lors du choix de la technologie de transport à employer.
+
+#### Art. 15k
+
+Dans les cas de moindre importance, le Conseil fédéral peut confier au DETEC la fixation des zones de planification (art. 15*h*, al. 2) et des corridors de planification (art. 15*i*, al. 3).
+
+## III*b*. Procédure d’approbation des plans****
+
+[^lvlIIIb-1]
+
+[^lvlIIIb-1]: Anciennement III*a*. Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 16
+
+[^16-1]
+
+<sup>1</sup> Une installation électrique à courant fort ou une installation à courant faible régie par l’art. 4, al. 3, ne peut être mise en place ou modifiée que si les plans du projet ont été approuvés par l’autorité compétente.
+
+<sup>2</sup>
+
+Les autorités chargées de l’approbation des plans sont:
+
+- a.[^16-2] l’inspection;
+- b. l’OFEN[^16-3] en ce qui concerne les installations pour lesquelles l’inspection n’a pas réussi à régler les oppositions ou à supprimer les divergences entre autorités fédérales;
+- c. l’autorité compétente en vertu de la législation applicable aux installations destinées exclusivement ou principalement à l’exploitation de chemins de fer ou de trolleybus.
+
+<sup>3</sup> L’approbation des plans couvre toutes les autorisations requises par le droit fédéral.
+
+<sup>4</sup> Aucune autorisation ni aucun plan relevant du droit cantonal ne sont requis. Le droit cantonal est pris en compte dans la mesure où il n’entrave pas de manière disproportionnée l’accomplissement des tâches de l’entreprise.[^16-4]
+
+<sup>5</sup> Les plans des projets qui doivent être fixés dans un plan sectoriel ne peuvent être approuvés qu’après la clôture de la procédure de plan sectoriel.[^16-5]
+
+<sup>6</sup> La procédure d’approbation des plans d’installations collectives est menée par l’autorité chargée de l’approbation des plans de la partie principale des installations.
+
+<sup>7</sup> Le Conseil fédéral peut prévoir des exceptions à l’obligation de faire approuver les plans ainsi que des assouplissements de la procédure.[^16-6]
+
+[^16-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^16-2]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16-3]: Nouvelle expression selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)). Il a été tenu compte de cette modification dans tout le texte.
+[^16-4]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16-5]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16-6]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 16a
+
+[^16a-1]
+
+<sup>1</sup> La procédure d’approbation des plans est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^16a-2], pour autant que la présente loi n’en dispose pas autrement.
+
+<sup>2</sup> Si une expropriation est nécessaire, la loi fédérale du 20 juin 1930 sur l’expropriation (LEx)[^16a-3] s’applique au surplus.
+
+[^16a-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^16a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 16a<sup>bis</sup>
+
+[^16abis-1]
+
+<sup>1</sup> Le délai de traitement dans le cadre de la procédure d’approbation des plans ne doit pas dépasser deux ans.
+
+<sup>2</sup> Le Conseil fédéral fixe des délais pour les différentes étapes de la procédure.
+
+[^16abis-1]: Introduit par l’annexe ch. II 8 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 16b
+
+[^16b-1]
+
+La demande d’approbation des plans doit être adressée avec les documents requis à l’autorité chargée de l’approbation des plans. Cette dernière vérifie si le dossier est complet et, au besoin, le fait compléter.
+
+[^16b-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 16c
+
+[^16c-1]
+
+<sup>1</sup> Avant la mise à l’enquête de la demande, l’entreprise doit marquer sur le terrain par un piquetage, et pour les bâtiments par des gabarits, les modifications requises par l’ouvrage projeté.
+
+<sup>2</sup> Les objections émises contre le piquetage ou la pose de gabarits doivent être adressées sans retard à l’inspection, mais au plus tard à l’expiration du délai de mise à l’enquête.
+
+[^16c-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 16d
+
+[^16d-1]
+
+<sup>1</sup> L’autorité chargée de l’approbation des plans transmet la demande aux cantons concernés et les invite à se prononcer dans les trois mois. Si la situation le justifie, elle peut exceptionnellement prolonger ce délai.
+
+<sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
+
+<sup>3</sup> ...[^16d-2]
+
+[^16d-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^16d-2]: Abrogé par l’annexe ch. 12 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 16e
+
+[^16e-1]
+
+[^16e-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Abrogé par l’annexe ch. 12 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 16f
+
+[^16f-1]
+
+<sup>1</sup> Quiconque a qualité de partie en vertu de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^16f-2] peut faire opposition auprès de l’autorité chargée de l’approbation des plans pendant le délai de mise à l’enquête.[^16f-3] Toute personne qui n’a pas fait opposition est exclue de la suite de la procédure.
+
+<sup>2</sup> Quiconque a qualité de partie en vertu de la LEx[^16f-4] peut faire valoir toutes les demandes visées à l’art. 33 LEx pendant le délai de mise à l’enquête.[^16f-5]
+
+<sup>3</sup> Les communes font valoir leurs droits par voie d’opposition.
+
+[^16f-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^16f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16f-3]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^16f-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16f-5]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 16g
+
+[^16g-1]
+
+<sup>1</sup> La procédure d’élimination des divergences au sein de l’administration fédérale est régie par l’art. 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^16g-2].
+
+<sup>2</sup> Les commissions visées à l’art. 25 LPN[^16g-3] remettent leurs expertises à l’autorité chargée de l’approbation des plans dans les trois mois qui suivent la demande de cette dernière. Si aucun rapport d’expertise n’est déposé dans le délai imparti, l’autorité chargée de l’approbation des plans prend une décision sur la base des pièces du dossier.[^16g-4]
+
+[^16g-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^16g-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^16g-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^16g-4]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 16h
+
+[^16h-1]
+
+<sup>1</sup> Lorsqu’elle approuve les plans, l’autorité compétente statue également sur les oppositions en matière d’expropriation.
+
+<sup>2</sup> Si, après le dépôt d’une opposition ou l’apparition de divergences entre les autorités fédérales concernées, un accord a pu être trouvé, l’inspection approuve les plans. Dans le cas contraire, elle transmet le dossier à l’OFEN, qui poursuit l’instruction et statue.
+
+[^16h-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 16i
+
+[^16i-1]
+
+<sup>1</sup> L’approbation des plans est caduque si la réalisation du projet de construction n’a pas commencé dans les trois ans qui suivent l’entrée en force de la décision.
+
+<sup>2</sup> Si des raisons majeures le justifient, l’autorité chargée de l’approbation des plans peut prolonger dans une juste mesure la durée de validité de sa décision. Toute prolongation est exclue si les conditions déterminantes de fait ou de droit ont changé sensiblement depuis l’entrée en force de la décision.
+
+[^16i-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 17
+
+[^17-1]
+
+<sup>1</sup>
+
+La procédure simplifiée d’approbation des plans s’applique:
+
+- a. aux projets qui affectent un espace limité et ne concernent qu’un ensemble restreint et bien défini de personnes;
+- b. aux installations dont la transformation n’altère pas sensiblement l’aspect extérieur du site, n’affecte pas les intérêts dignes de protection de tiers et n’a que des effets minimes sur l’aménagement du territoire et sur l’environnement;
+- c. aux installations qui seront démontées après trois ans au plus ou qui servent à l’approvisionnement de chantiers en électricité.
+
+<sup>2</sup> La procédure simplifiée s’applique aux plans de détail élaborés sur la base d’un projet déjà approuvé.
+
+<sup>3</sup> L’autorité chargée de l’approbation des plans peut ordonner le piquetage. La demande n’est ni publiée, ni mise à l’enquête. L’autorité chargée de l’approbation des plans soumet le projet aux intéressés, qui peuvent faire opposition dans un délai de 30 jours, sauf s’ils ont donné auparavant leur accord écrit. Elle peut solliciter l’avis des cantons et des communes. Elle leur accorde un délai raisonnable pour se prononcer.
+
+<sup>4</sup> Au demeurant, la procédure ordinaire est applicable. En cas de doute, cette dernière est appliquée.
+
+[^17-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 17a
+
+[^17a-1]
+
+<sup>1</sup> L’OFEN peut mandater des personnes externes à l’administration fédérale pour la réalisation de procédures d’approbation des plans.
+
+<sup>2</sup> Les personnes externes à l’administration fédérale ne disposent d’aucun pouvoir de décision; elles peuvent prendre toutes les mesures de conduite de la procédure, pour autant qu’elles ne soient pas séparément susceptibles de recours.
+
+[^17a-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+## III*c*. Zones réservées et alignements****
+
+[^lvlIIIc-1]
+
+[^lvlIIIc-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 18
+
+[^18-1]
+
+<sup>1</sup> Sur requête de l’entreprise, l’OFEN peut fixer des zones réservées pour des périmètres clairement délimités, en vue d’assurer la libre disposition des terrains nécessaires à de futures lignes d’une tension nominale égale ou supérieure à 220 kV.
+
+<sup>2</sup> Les services fédéraux, les cantons et les communes ainsi que les propriétaires fonciers concernés doivent être consultés. La consultation des communes et des propriétaires fonciers concernés incombe aux cantons.
+
+<sup>3</sup> Les décisions portant sur l’établissement de zones réservées sont publiées dans les communes concernées. Les recours n’ont pas d’effet suspensif.
+
+[^18-1]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 18a
+
+[^18a-1]
+
+<sup>1</sup> Les zones réservées peuvent être fixées pour une durée maximale de cinq ans. La période de validité peut être prolongée de trois ans au plus. Si une zone réservée est devenue caduque, une nouvelle zone réservée recouvrant totalement ou partiellement l’ancien périmètre peut être définie.
+
+<sup>2</sup> L’OFEN supprime une zone réservée, d’office ou sur requête de l’entreprise, du canton concerné, de la commune concernée ou du propriétaire foncier concerné, lorsqu’il est établi que la ligne planifiée ne sera pas réalisée.
+
+<sup>3</sup> Les décisions de suppression d’une zone réservée sont publiées dans les communes concernées.
+
+[^18a-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 18b
+
+[^18b-1]
+
+<sup>1</sup> Sur requête de l’entreprise, l’autorité chargée de l’approbation des plans peut fixer des alignements qui servent à réserver les terrains nécessaires à des installations à courant fort, à leur extension ou à leur rénovation.
+
+<sup>2</sup> Les décisions définissant des alignements sont publiées dans les communes concernées.
+
+<sup>3</sup> Les alignements sont limités à la durée de vie de l’installation et deviennent caducs de plein droit lorsque l’installation disparaît sans être remplacée.
+
+<sup>4</sup> Les dispositions relatives à l’enrichissement illégitime s’appliquent par analogie lorsqu’une indemnité a été versée pour un alignement devenu caduc. En cas d’aliénation, le nouveau propriétaire foncier est tenu à restitution. Les litiges sont tranchés par la commission d’estimation.
+
+[^18b-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 18c
+
+[^18c-1]
+
+<sup>1</sup> Dans les zones réservées, entre les alignements et entre les alignements et les installations à courant fort, les constructions ne peuvent pas être transformées d’une manière contraire à l’affectation. Font exception les mesures destinées à assurer l’entretien ou à prévenir des dangers ou des effets dommageables.
+
+<sup>2</sup> Après consultation de l’entreprise, l’OFEN peut exceptionnellement donner son accord à des mesures supplémentaires si le propriétaire foncier renonce à toute indemnisation ultérieure de la valeur ajoutée liée à cette mesure.
+
+<sup>3</sup> Dans les zones réservées fixées ou demandées et à l’intérieur des alignements fixés ou demandés, les entreprises peuvent procéder à des actes préparatoires. L’art. 15 LEx[^18c-2] s’applique par analogie.
+
+[^18c-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18c-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 18d
+
+[^18d-1]
+
+<sup>1</sup> Si la fixation d’une zone réservée ou d’alignements entraîne des restrictions à la propriété ayant les mêmes effets qu’une expropriation, les propriétaires fonciers ont droit à une indemnité pleine et entière. Les conditions existant au moment de l’entrée en vigueur de la restriction à la propriété sont déterminantes pour le calcul de l’indemnité.
+
+<sup>2</sup> L’indemnité est due par l’entreprise.
+
+<sup>3</sup> L’intéressé doit faire valoir ses prétentions par écrit auprès de l’entreprise dans les dix ans qui suivent la date à laquelle la restriction à la propriété a pris effet. Si les prétentions sont contestées en tout ou en partie, la procédure prévue aux art. 57 à 75 LEx[^18d-2] s’applique.
+
+<sup>4</sup> Seules les prétentions produites sont traitées. Sont exclues les oppositions à la restriction à la propriété faites ultérieurement ainsi que les requêtes visant à modifier des zones réservées ou des alignements.
+
+<sup>5</sup> L’indemnité porte intérêt à partir du moment où la restriction à la propriété prend effet.
+
+[^18d-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18d-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+## IV. Contrôle
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogé par l’annexe ch. 3 de la L du 23 mars 2007 sur l’approvisionnement en électricité, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1493](https://fedlex.data.admin.ch/eli/fga/2005/197)).
+
+#### Art. 20
+
+<sup>1</sup> La surveillance des installations électriques et de leur bon état d’entretien incombe à l’exploitant (propriétaire, locataire, etc.).
+
+<sup>2</sup> Celui qui exploite des conduites électriques empruntant le domaine des chemins de fer doit pourvoir à la surveillance et à l’entretien de ces conduites; en conséquence, l’accès de ce domaine sera consenti pour lui et ses mandataires, moyennant avis préalable aux agents du chemin de fer.
+
+#### Art. 21
+
+[^21-1]
+
+Le contrôle de l’exécution des prescriptions mentionnées à l’art. 3 est confié:
+
+- 1\. pour les chemins de fer électriques et le croisement des voies ferrées par des lignes électriques à fort courant ou l’établissement de ces dernières le long des chemins de fer, ainsi que pour le croisement des chemins de fer électriques par des lignes à courant faible, à l’Office fédéral des transports;
+- 2\. pour les autres installations à faible et à fort courant, y compris les machines électriques, à une inspection[^21-2] spéciale désignée par le Conseil fédéral.
+
+[^21-1]: Nouvelle teneur selon le ch. 11 de l’app. à la L du 30 avr. 1997 sur l’entreprise de télécommunications, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
+[^21-2]: Nouvelle expression selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 22
+
+[^22-1]
+
+Le Conseil fédéral peut substituer une inspection unique aux deux organes de contrôle prévus à l’art. 21.
+
+[^22-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 23
+
+[^23-1]
+
+Un recours peut être formé devant le Tribunal administratif fédéral contre les décisions des autorités chargées de l’approbation des plans en vertu de l’art. 16 et contre celles des organes de contrôle désignés à l’art. 21.
+
+[^23-1]: Nouvelle teneur selon l’annexe ch. 72 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 24
+
+[^24-1]
+
+S’il y a désaccord entre les organes de contrôle désignés à l’art. 21, le DETEC tranche.
+
+[^24-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 25
+
+Les entreprises d’installations à fort courant devront fournir à l’inspection les données techniques nécessaires à l’établissement d’une statistique uniforme.
+
+#### Art. 25a
+
+[^25a-1]
+
+<sup>1</sup> Les autorités chargées de l’exécution traitent les données personnelles nécessaires à l’application de la présente loi, y compris les données relatives aux poursuites pénales et administratives et aux sanctions visées aux art. 55 ss.
+
+<sup>2</sup> Elles peuvent conserver ces données dans un fichier électronique et procéder aux échanges de données nécessaires à l’exécution uniforme de la présente loi.
+
+[^25a-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 26
+
+Le contrôle prévu au chapitre IV ne s’étend pas aux installations intérieures. Par contre, le fournisseur d’énergie électrique sera tenu de justifier qu’elles sont contrôlées d’une autre façon. Il pourra être procédé à des inspections pour vérifier les mesures prises.
+
+#### Art. 26a
+
+[^26a-1]
+
+<sup>1</sup> Conformément aux exigences de l’OFEN, les exploitants documentent leurs installations électriques d’une tension nominale supérieure à 36 kV sous forme de géodonnées, qu’ils transmettent à l’OFEN.
+
+<sup>2</sup> L’OFEN établit une vue d’ensemble; celle-ci est accessible au public.
+
+<sup>3</sup> Le Conseil fédéral peut déclarer obligatoire la documentation selon l’al. 1 également pour les installations électriques d’une tension nominale inférieure ou égale à 36 kV. Il règle les autorisations d’accès à ces données.
+
+[^26a-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+## V. Dispositions concernant la responsabilité****
+
+[^lvlV-1]
+
+[^lvlV-1]: Dans la mesure où elles concernent les rapports du propriétaire de l’entreprise avec ses travailleurs assurés obligatoirement, ces disp. sont abrogées par l’art. 128 ch. 2 de la LF du 13 juin 1911 sur l’assurance-maladie [RS **8** 283] et l’art. 44 al. 2 de la LF du 20 mars 1981 sur l’assurance-accidents ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+
+#### Art. 27
+
+<sup>1</sup> Lorsqu’une personne a été tuée ou blessée par l’exploitation d’une installation électrique à fort ou à faible courant, privée ou publique, l’exploitant est responsable du dommage causé, à moins qu’il ne prouve que celui-ci est dû soit à une force majeure, soit à la faute ou à la négligence de tiers, ou enfin à la faute lourde de celui qui a été tué ou blessé.
+
+<sup>2</sup> La même responsabilité existe en ce qui concerne le dommage causé aux choses, à l’exception toutefois des perturbations de l’exploitation.
+
+#### Art. 28
+
+<sup>1</sup>
+
+Si l’installation électrique se subdivise en plusieurs parties exploitées par des entrepreneurs différents, la responsabilité incombe:
+
+- a. quand le fait dommageable a été causé et s’est produit dans la même partie de l’installation, à l’entrepreneur exploitant cette subdivision;
+- b. quand le fait dommageable a été causé dans une partie de l’installation et s’est produit dans une autre, aux entrepreneurs exploitant ces subdivisions, solidairement entre eux.
+
+<sup>2</sup> Si le lésé dirige son action contre l’entrepreneur exploitant la subdivision où le fait dommageable est survenu, celui-ci pourra exercer un recours contre l’entrepreneur exploitant la subdivision où la cause du dommage s’est produite.
+
+#### Art. 29
+
+Les indemnités pour dommages provenant d’un incendie causé par l’exploitation d’une installation électrique sont réglées par les dispositions du code des obligations[^29-1].
+
+[^29-1]: [[RO 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 449; RS **2** 776 art. 103 al. 1. RS **2** 3 tit. fin. art. 60 al. 2, **2** 189 in fine, art. 18 disp. fin. et trans. tit. XXIV à XXXIII]. Actuellement: les dispositions du CO ([RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)). Nouvelle expression selon l’annexe ch. 11 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 30
+
+Lorsque des dommages se produisent par le contact de différentes lignes électriques, les entreprises en sont solidairement responsables. Le dommage se répartit par fractions égales entre les diverses entreprises intéressées, à moins que la faute de l’une d’entre elles ne puisse être établie, ou qu’elles n’aient conclu des conventions dérogeant au principe de la répartition par fractions égales. De telles conventions peuvent être stipulées d’avance.
+
+#### Art. 31
+
+Lorsque des entreprises électriques se causent réciproquement un dommage, elles s’en répartissent la responsabilité dans une proportion juste et équitable, à moins qu’il ne soit prouvé à qui la faute est imputable.
+
+#### Art. 32
+
+<sup>1</sup> L’entrepreneur exploitant une installation à fort ou à faible courant est tenu de dénoncer sans délai à l’autorité locale prévue à l’art. 4 de la loi fédérale du 23 mars 1877[^32-1] concernant le travail dans les fabriques, tout accident corporel de quelque gravité, ainsi que tout dommage important causé aux choses appartenant à des tiers.
+
+<sup>2</sup> Cette autorité ouvre immédiatement une enquête officielle sur la cause et les conséquences de tout accident important; dans les cas graves, elle peut se faire assister d’experts. Elle annonce l’accident au gouvernement cantonal, qui en avise le DETEC.[^32-2]
+
+[^32-1]: [RO **3** 224, **21** 358. RS **8** 3 art. 95 al. 1]. Quoique la législation fédérale actuelle n’ait pas repris les dispositions mentionnées, le présent article est toujours applicable.
+[^32-2]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 33
+
+L’exception de force majeure dans le sens de la loi ne pourra être invoquée lorsque le dommage causé aurait pu être prévenu par des ouvrages conformes aux prescriptions prévues à l’art. 3.
+
+#### Art. 34
+
+<sup>1</sup> Ceux qui exploitent des installations électriques sont responsables de toutes les personnes qu’ils emploient à l’exploitation de leurs installations.
+
+<sup>2</sup> Le droit de recours contre ces personnes, si la faute leur est imputable, demeure réservé aux entrepreneurs exploitant sous leur responsabilité des installations électriques.
+
+#### Art. 35
+
+Il ne peut être réclamé d’indemnité, dans le sens des art. 27 et 28, s’il est prouvé que la personne tuée ou blessée, ou que la personne lésée dans sa propriété s’était mise en contact avec l’installation électrique en commettant un acte délictueux ou illégal, ou en violant sciemment des prescriptions protectrices rendues publiques, avertissement, défense, etc., même si l’accident s’est produit sans la faute de la personne lésée.
+
+#### Art. 36
+
+<sup>1</sup> Le montant des indemnités est réglé suivant les dispositions du code des obligations[^36-1].
+
+<sup>2</sup> En cas de lésion corporelle, l’indemnité pour l’entretien ou le gain futur est fixée par le tribunal sous la forme d’un capital ou d’une rente annuelle.
+
+<sup>3</sup> Si les conséquences de la lésion ne peuvent être exactement appréciées au moment où le jugement est rendu, le juge pourra exceptionnellement réserver une revision ultérieure de sa décision, aussi bien pour le cas de mort ou d’aggravation que pour le cas d’une amélioration de l’état du blessé. La demande de revision doit être faite dans l’année qui suit le jugement.
+
+[^36-1]: Actuellement: suivant les dispositions du CO ([RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)).
+
+#### Art. 37
+
+[^37-1]
+
+L’action en réparation d’un dommage se prescrit conformément aux dispositions du code des obligations[^37-2] sur les actes illicites.
+
+[^37-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^37-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 38
+
+Dans toute action en indemnité de cette nature, le tribunal prononce sur les faits et sur le montant de l’indemnité, en appréciant librement l’ensemble de la cause, sans être lié par les règles des lois de procédure en matière de preuves.
+
+#### Art. 39
+
+Sont sans valeur légale les règlements, publications ou conventions spéciales qui excluraient ou limiteraient d’avance la responsabilité telle qu’elle résulte des dispositions de la présente loi.
+
+#### Art. 40
+
+[^40-1]
+
+[^40-1]: Abrogé. Voir art. 128 de la LF du 13 juin 1911 sur l’assurance-maladie, avec effet au 1<sup>er</sup> avril 1918 (RS **8** 283**)**.
+
+#### Art. 41
+
+Les dispositions du chapitre V touchant la responsabilité ne sont pas applicables aux installations intérieures.
+
+## VI. Expropriation
+
+#### Art. 42
+
+[^42-1]
+
+[^42-1]: Abrogé par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 3071).
+
+#### Art. 43
+
+[^43-1]
+
+<sup>1</sup> L’entreprise qui sollicite l’approbation des plans dispose du droit d’expropriation.
+
+<sup>2</sup> Le DETEC peut accorder ce droit aux preneurs d’énergie.
+
+[^43-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 44
+
+[^44-1]
+
+Le droit d’expropriation peut être exercé le cas échéant pour la construction et la transformation d’installations de transport et de distribution d’énergie électrique et des installations à courant faible nécessaires à leur exploitation.
+
+[^44-1]: Nouvelle teneur selon l’annexe ch. 3 de la L du 23 mars 2007 sur l’approvisionnement en électricité, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1493](https://fedlex.data.admin.ch/eli/fga/2005/197)).
+
+#### Art. 45
+
+[^45-1]
+
+<sup>1</sup> Après clôture de la procédure d’approbation des plans, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^45-2].[^45-3]
+
+<sup>2</sup> ...[^45-4]
+
+<sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
+
+[^45-1]: Nouvelle teneur selon le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^45-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^45-3]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^45-4]: Abrogé par l’annexe ch. 12 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 46 à 50
+
+[^4650-1]
+
+[^4650-1]: Abrogés par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 51 et 52
+
+[^5152-1]
+
+[^5152-1]: Abrogés par l’art. 121 let. c de la LF du 20 juin 1930 sur l’expropriation, avec effet au 1<sup>er</sup> janv. 1932 ([RO 47 701](https://fedlex.data.admin.ch/eli/oc/47/689_701_723); [FF 1926 II 1](https://fedlex.data.admin.ch/eli/fga/1926/2_1_1_391)).
+
+#### Art. 53
+
+[^53-1]
+
+[^53-1]: Abrogé par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 53<sup>bis</sup>
+
+[^53bis-1]
+
+[^53bis-1]: Introduit par l’art. 121 let. e de la LF du 20 juin 1930 sur l’expropriation ([RO 47 701](https://fedlex.data.admin.ch/eli/oc/47/689_701_723); [FF 1926 II 1](https://fedlex.data.admin.ch/eli/fga/1926/2_1_1_391)). Abrogé par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 54
+
+[^54-1]
+
+[^54-1]: Abrogé par l’art. 121 let. f de la LF du 20 juin 1930 sur l’expropriation, avec effet au 1<sup>er</sup> janv. 1932 ([RO 47 701](https://fedlex.data.admin.ch/eli/oc/47/689_701_723); [FF 1926 II 1](https://fedlex.data.admin.ch/eli/fga/1926/2_1_1_391)).
+
+## VII. Dispositions pénales
+
+#### Art. 55
+
+[^55-1]
+
+<sup>1</sup>
+
+Est puni d’une amende de 100 000 francs au plus, à moins que le code pénal[^55-2] prévoie une peine plus sévère, celui qui, intentionnellement:
+
+- a.[^55-3] en tant qu’exploitant, construit ou modifie, ou fait construire ou modifier, une installation électrique sans avoir fait approuver les plans conformément à l’art. 16;
+- b. remet ou fait remettre en service de son propre chef une installation électrique qui, sur l’ordre de l’office de contrôle compétent, a été mise hors circuit pour cause de défectuosité dangereuse;
+- c.[^55-4] importe, offre ou met à disposition sur le marché un appareil électrique qui ne remplit pas les exigences en matière de compatibilité électromagnétique;
+- d.[^55-5] met en service, met en place ou utilise un appareil électrique ou une installation fixe qui ne remplit pas les exigences en matière de compatibilité électromagnétique.
+
+<sup>2</sup> La négligence est punie d’une amende de 20 000 francs au plus.[^55-6]
+
+<sup>2bis</sup> Lorsque l’amende entrant en considération ne dépasse pas 20 000 francs et que l’enquête impliquerait à l’égard des personnes punissables en vertu de l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^55-7] des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) à leur place au paiement de l’amende.[^55-8]
+
+<sup>3</sup> Le Conseil fédéral peut prévoir les mêmes peines pour les infractions aux dispositions d’exécution qui soumettent certaines activités à autorisation.
+
+[^55-1]: Nouvelle teneur selon l’annexe ch. 3 de la L du 23 mars 2007 sur l’approvisionnement en électricité, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1493](https://fedlex.data.admin.ch/eli/fga/2005/197)).
+[^55-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^55-3]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^55-4]: Introduite par l’annexe ch. 3 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^55-5]: Introduite par l’annexe ch. 3 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^55-6]: Nouvelle teneur selon le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^55-7]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-8]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+
+#### Art. 56
+
+[^56-1]
+
+<sup>1</sup> Celui qui, en dépit d’un avertissement et bien qu’il ait été menacé de la peine prévue au présent article, ne se conforme pas à une disposition de la présente loi ou d’une ordonnance d’exécution de cette loi ou à une décision officielle fondée sur une telle disposition sera puni d’une amende d’ordre de 5000 francs au plus.
+
+<sup>2</sup> Le renvoi du contrevenant devant le juge pour infraction aux art. 285 ou 286 du code pénal suisse[^56-2] est réservé.
+
+[^56-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 22 mars 1974 sur sur le droit pénal administratif, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 54 781](https://fedlex.data.admin.ch/eli/oc/54/757_781_799); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^56-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 57
+
+[^57-1]
+
+<sup>1</sup>
+
+La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^57-2] est applicable. L’autorité administrative compétente pour la poursuite et le jugement des infractions à la présente loi, ainsi que pour l’exécution des décisions est:
+
+- a. concernant l’art. 55, al. 1, let. a et b: l’OFEN;
+- b. concernant l’art. 55, al. 1, let. c et d: l’Office fédéral de la communication.
+
+<sup>2</sup> Le DETEC peut, en ce qui concerne les infractions visées aux art. 55, al. 1, let. a et b, et 56, déléguer l’instruction uniquement ou l’instruction et le jugement à l’inspection.
+
+<sup>3</sup> L’al. 1 s’applique par analogie pour déterminer l’autorité administrative compétente dans le cas de l’art. 56.
+
+<sup>4</sup> La poursuite des infractions visées aux art. 55, al. 1, let. a et b, et 56, qui sont commises dans le domaine relevant de l’autorité de surveillance des chemins de fer, lors de la construction ou de l’exploitation de chemins de fer ou d’autres moyens de transport concessionnés est ouverte sur plainte de ladite autorité. La compétence en matière de poursuite pénale est réglée par l’art. 88*a*, de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^57-3].
+
+[^57-1]: Nouvelle teneur selon l’annexe ch. 3 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^57-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^57-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+
+#### Art. 58 et 59
+
+[^5859-1]
+
+[^5859-1]: Abrogés (art. 398 al. 2 let. e CP – RS **3** 193). Voir actuellement l’art. 146 CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+
+#### Art. 60
+
+[^60-1]
+
+[^60-1]: Abrogé par l’annexe ch. 12 de la LF du 22 mars 1974 sur sur le droit pénal administratif, avec effet au 1<sup>er</sup> janv. 1975 ([RO 54 781](https://fedlex.data.admin.ch/eli/oc/54/757_781_799); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+
+## VIII. Dispositions finales
+
+#### Art. 61
+
+La loi fédérale du 26 juin 1889 concernant l’établissement de lignes télégraphiques et téléphoniques[^61-1] et l’art. 66 du code pénal fédéral du 4 février 1853[^61-2] sont abrogés par l’entrée en vigueur de la présente loi.
+
+[^61-1]: [RO **11** 231]
+[^61-2]: [RO **III** 335, VI 300 art. 5, **19** 244, **28** 113 art. 227 al. 1 ch. 6; RS **3** 295 art. 342 al. 2 ch. 3. [RO 54 781](https://fedlex.data.admin.ch/eli/oc/54/757_781_799)art. 398 al. 2 let. a].
+
+#### Art. 62
+
+[^62-1]
+
+[^62-1]: Abrogé par le ch. II 30 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 63
+
+[^63-1]
+
+<sup>1</sup> Les demandes d’approbation des plans en cours d’examen lors de l’entrée en vigueur de la modification du 18 juin 1999 de la présente loi sont régies par les nouvelles règles de procédure. En cas d’expropriation, la procédure d’opposition est au besoin mise en œuvre a posteriori.
+
+<sup>2</sup> Les recours pendants sont régis par les anciennes règles de procédure.
+
+[^63-1]: Introduit par le ch. I 8 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 64
+
+[^64-1]
+
+L’art. 15*c* n’est pas applicable aux demandes d’approbation des plans déposées avant l’entrée en vigueur de la modification du 15 décembre 2017.
+
+Date de l’entrée en vigueur:[^64-2] 1<sup>er</sup> février 1903
+
+Art. 19: 17 octobre 1902
+
+[^64-1]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^64-2]: ACF du 17 oct. 1902

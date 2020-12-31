@@ -1,0 +1,282 @@
+---
+sr: "944.3"
+title: Federal Act of 18 June 1993 on Package Travel
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152"
+language: en
+version: 1994-07-01
+adopted: 1993-06-18
+in_force: 1994-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/19940701/en/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-19940701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/19940701/en"
+---
+
+> Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
+
+# Federal Act on Package Travel
+
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+
+of 18 June 1993 (Status as of 1 July 1994)
+
+The Federal Assembly of the Swiss Confederation,
+
+Based on Article 31<sup>sexies</sup> and 64 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch of 24 February 1993[^ingress-2],
+
+decrees:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)
+
+## Section 1: Definitions
+
+#### Art. 1
+
+**Package travel**
+
+<sup>1</sup>
+
+Package travel means the pre-arranged combination of not fewer than two of the following when sold or offered for sale at an inclusive price and when the service covers a period of more than twenty-four hours or includes overnight accommodation:
+
+- a. transport;
+- b. accommodation;
+- c. other tourist services not ancillary to transport or accommodation and accounting for a significant proportion of the package.
+
+<sup>2</sup> This Act also applies if various components of the same package have been billed separately.
+
+#### Art. 2
+
+**Organiser, Retailer and Consumer**
+
+<sup>1</sup> Organiser[^2-1] means any person who, other than occasionally, organises packages and sells or offers them for sale, whether directly or through a retailer.
+
+<sup>2</sup> Retailer[^2-2] means any person who sells or offers for sale the package put together by the organiser.
+
+<sup>3</sup>
+
+Consumer[^2-3] means:
+
+- a. any person who takes or agrees to take a package;
+- b. any person on whose behalf or for whose benefit a package has been purchased or an agreement to purchase has been entered into;
+- c. any person to whom the booking relating to a package tour has been transferred in accordance with article 17.
+
+[^2-1]: Footnote relevant to German version only.
+[^2-2]: Footnote relevant to German version only.
+[^2-3]: Footnote relevant to German version only.
+
+## Section 2: Brochures
+
+#### Art. 3
+
+The organiser or retailer who publishes a brochure is bound by the particulars contained therein; these particulars may only be changed thereafter:
+
+- a. by mutual agreement of the parties to the contract;
+- b. if the brochure has expressly made reference to the possibility of modification, and provided that such modifications have been clearly communicated to the consumer prior to the conclusion of the contract.
+
+## Section 3: Information for the Consumer
+
+#### Art. 4
+
+**Before conclusion of the contract**
+
+<sup>1</sup> The organiser or the retailer must communicate all the terms and conditions of the contract to the consumer in writing before the contract is concluded.
+
+<sup>2</sup> The terms of the contract may also be brought to the consumer’s attention in another appropriate form, provided that they are confirmed to him in writing before the contract is concluded. The obligation to confirm in writing does not apply if compliance would prevent the conclusion of the contract,.
+
+<sup>3</sup>
+
+Where it is relevant for the package, the organiser or the retailer shall provide the consumer, in writing or any other appropriate form, with general information on:
+
+- a. passport and visa requirements applicable to nationals of the states of the EC and the EFTA, and in particular on the periods for obtaining them;
+- b. health formalities required for the journey and the stay.
+
+<sup>4</sup> Nationals of any other states are entitled to such information according to paragraph 3 letter a above, if they request the same immediately.
+
+#### Art. 5
+
+**Before the start of the journey**
+
+The organiser or retailer shall provide the consumer, in writing or any other appropriate form, with the following information in good time before the start of the journey:
+
+- a. the times and places of intermediate stops and transport connections;
+- b. the seat to be occupied by the traveller;
+- c. the name, address and telephone number of the organiser's or retailer's local representative or, failing that, of local agencies on whose assistance a consumer in difficulty could call; where even no such agencies exist, the consumer must in any case be provided with an emergency telephone number or any other information that will enable him to contact the organiser or the retailer;
+- d. in the case of journeys or stays abroad by minors, information enabling direct contact to be established with the child or the person responsible at the child's place of stay;
+- e. information on the optional conclusion of an insurance policy to cover the cost of cancellation by the consumer or the cost of assistance, including repatriation, in the event of accident or illness.
+
+## Section 4: Content of the Contract
+
+#### Art. 6
+
+<sup>1</sup>
+
+Irrespective of the kind of services agreed, the following elements must be included in the contract:
+
+- a. the name and address of the organiser, and, where applicable, the retailer;
+- b. the date, time and location of the beginning and the end of the travel arrangement;
+- c. the special requirements of the consumer that have been accepted by the organiser or the retailer;
+- d. whether a minimum number of persons is required for the package to take place and, if so, the latest date for informing the consumer of cancellation;
+- e. the price of the package as well as the payment schedule and method of payment;
+- f. periods within which the consumer must make any complaint concerning failure to perform or improper performance of the contract:
+- g. the name and address of the insurer, where appropriate.
+
+<sup>2</sup>
+
+Depending on the particular package agreed on, the following elements must be included in the contract as well:
+
+- a. the travel destination and, where periods of stay are involved, the relevant periods with dates;
+- b. the itinerary;
+- c. the means, characteristics and categories of transport to be used;
+- d. the number of meals included in the total price agreed for the package;
+- e. the location, the tourist category or degree of comfort of the accommodation as well as its main features and its compliance with the rules of the host state concerned;
+- f. the visits, excursions or other services which are included in the total price agreed for the package;
+- g. the requirements for a price revision under Article 7;
+- h. details of any dues, taxes or fees chargeable for certain services, such as landing, embarkation or disembarkation fees at ports and airports, and tourist taxes, where such costs are not included in the package.
+
+## Section 5: Price Increases
+
+#### Art. 7
+
+The price laid down in the contract may only be increased where:
+
+- a. the contract expressly provides for that possibility and states precisely how the revised price is to be calculated;
+- b. it takes place at least three weeks prior to the departure date; and it is based solely on an increase in transportation costs, including the cost of fuel, on an increase in dues chargeable for certain services, such as landing taxes or embarkation or disembarkation fees at ports and airports, or on modifications to the exchange rates applied to the particular package.
+
+## Section 6: Significant Changes to the Contract
+
+#### Art. 8
+
+**Definition**
+
+<sup>1</sup> Any significant change of an essential contract term by the organiser before the start of the journey is considered an essential change to the contract itself.
+
+<sup>2</sup> A price increase exceeding ten percent is considered an essential change to the contract.
+
+#### Art. 9
+
+**Obligation to inform**
+
+The organiser shall notify the consumer as quickly as possible of any essential change to the contract as well as its effects on the total package price.
+
+#### Art. 10
+
+**Consumer rights**
+
+<sup>1</sup> The consumer may accept an essential change to the contract or withdraw from the contract without penalty.
+
+<sup>2</sup> He must give notice of his withdrawal from the contract to the organiser or the retailer as soon as possible.
+
+<sup>3</sup>
+
+If the consumer withdraws from the contract he or she is entitled to either:
+
+- a. take a substitute package of equivalent or higher quality where the organiser or retailer is able to offer him such a substitute;
+- b. take a substitute package of lower quality as well as the refund of the difference in price; or
+- c. be repaid all sums paid by him under the contract in the quickest possible manner.
+
+<sup>4</sup> A claim for damages due to non-performance of the contract remains reserved.
+
+## Section 7: Cancellation of the Package
+
+#### Art. 11
+
+<sup>1</sup> Where, for whatever cause not imputable to the consumer, the organiser cancels the package before the agreed date of departure, the consumer is entitled to the rights under Article 10.
+
+<sup>2</sup>
+
+The consumer is not, however, entitled to claim for damages for non-performance of the contract:
+
+- a. if the cancellation is on the grounds that the number of persons enrolled for the package is less than the minimum number required and the consumer is informed of the cancellation, in writing, within the period indicated in the contract, or
+- b. if the cancellation is due to force majeure. Overbooking is not considered a case of force majeure.
+
+## Section 8: Non-Performance and Improper Performance of the Contract
+
+#### Art. 12
+
+**Complaints**
+
+<sup>1</sup> The consumer must communicate any failure in the performance of the contract which he or she perceives on the spot to the supplier of the services concerned and to the organiser or the retailer in writing or any other appropriate form at the earliest opportunity.
+
+<sup>2</sup> In cases of complaint, the organiser, the retailer or his local representative must make prompt efforts to find appropriate solutions.
+
+#### Art. 13
+
+**Alternative arrangements**
+
+<sup>1</sup>
+
+Where, after departure, a significant proportion of the services contracted for is not provided or the organiser perceives that it will be unable to procure a significant proportion of the services to be provided, the organiser shall:
+
+- a. make suitable alternative arrangements for the continuation of the package;
+- b. compensate the consumer for the loss suffered; the quantum of damages corresponds to the difference between the services offered and those supplied.
+
+<sup>2</sup> If it is impossible to make such arrangements or these are not accepted by the consumer for good reasons, the organiser must provide the consumer with equivalent transport back to the place of departure, or to another return-point to which the consumer has agreed. In addition, the organiser must compensate the consumer for the loss suffered therefrom.
+
+<sup>3</sup> The measures under this Article do not justify any extra charge to the consumer.
+
+#### Art. 14
+
+**Liability; Principle**
+
+<sup>1</sup> The organiser or the retailer party to the contract is liable to the consumer for the proper performance of the obligations arising from the contract, irrespective of whether such obligations must be performed by that organiser or retailer himself or by other suppliers of services.
+
+<sup>2</sup> The organiser and the retailer have a right of recourse against other suppliers of services.
+
+<sup>3</sup> In the matter of damages arising from the non-performance or improper performance of the contract, the limits of compensation provided for in international conventions remain reserved.
+
+#### Art. 15
+
+**Exceptions**
+
+<sup>1</sup>
+
+The organiser or the retailer are not liable to the consumer where the non-performance or improper performance of the contract is due to:
+
+- a. failures attributable to the consumer;
+- b. unforeseeable or unavoidable failures attributable to a third party unconnected with the provision of the services contracted for;
+- c. a case of force majeure or an event which the organiser, the retailer or the supplier of services, even with all due care, could not foresee or forestall.
+
+<sup>2</sup> In the cases referred to in paragraph 1 letter b, the organiser or the retailer party to the contract is required to give prompt assistance to a consumer in difficulty.
+
+#### Art. 16
+
+**Limitation and exclusion of liability**
+
+<sup>1</sup> Any limitation of liability by means of a contractual clause for personal injury arising from the non-performance or improper performance of the contract is excluded.
+
+<sup>2</sup> In the matter of other damages, liability may be reduced to double the amount of the total price of the package by means of a contractual clause, save for damages caused wilfully or through gross negligence.
+
+## Section 9: Assignment of the Booking
+
+#### Art. 17
+
+<sup>1</sup> Where the consumer is prevented from proceeding with the package, he or she may assign his or her booking to a person who satisfies all the conditions applicable to the package, provided that he or she has first given the organiser or the retailer reasonable notice of his or her intention before departure.
+
+<sup>2</sup> This person and the consumer shall be jointly and severally liable to the organiser or the retailer party to the contract for payment of the price and for any additional costs arising from such transfer.
+
+## Section 10: Security
+
+#### Art. 18
+
+<sup>1</sup> The organiser or the retailer party to the contract shall provide security for the refund of money paid over and for the repatriation of the consumer in the event of their insolvency or bankruptcy.
+
+<sup>2</sup> On request, the organiser or the retailer must provide evidence of the security to the consumer. If it fails to do so, the consumer may withdraw from the contract.
+
+<sup>3</sup> The withdrawal must be communicated to the organiser or the retailer in writing before the departure date.
+
+## Section 11: Mandatory Law
+
+#### Art. 19
+
+Any deviation from this Act to the disadvantage of the consumer is prohibited unless explicitly provided for therein.
+
+## Section 12: Referendum and Commencement
+
+#### Art. 20
+
+<sup>1</sup> This Act is subject to an optional referendum.
+
+<sup>2</sup> The Federal Council determines the date on which this Act comes into force.
+
+Commencement date: 1 July 1994[^20-1]
+
+[^20-1]: FCD of 30 Nov. 1993 ([AS 1994 3158](https://fedlex.data.admin.ch/eli/oc/1994/3158_3158_3158)).

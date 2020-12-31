@@ -1,0 +1,91 @@
+---
+sr: "814.711.31"
+title: Verordnung des EDI vom 26. Juni 2020 über die Sachkundebestätigungen und Sachkundenachweise für Veranstaltungen mit Laserstrahlung
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
+language: de
+version: 2020-08-01
+adopted: 2020-06-26
+in_force: 2020-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2020-501-20200801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20200801/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EDI über die Sachkundebestätigungen und Sachkundenachweise für Veranstaltungen mit Laserstrahlung
+
+vom 26. Juni 2020 (Stand am 1. August 2020)
+
+Das Eidgenössische Departement des Innern (EDI),
+
+gestützt auf Artikel 16 Absatz 4 der Verordnung vom 27. Februar 2019[^ingress-1] zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG),
+
+verordnet:
+
+[^ingress-1]: [SR 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+
+#### Art. 1
+
+**Sachkundebestätigungen und Sachkundenachweise**
+
+Die Sachkundebestätigungen und Sachkundenachweise, die zum Betrieb von Lasereinrichtungen der Klasse 1M, 2M, 3R, 3B oder 4 an Veranstaltungen mit Laserstrahlung berechtigen, sind im Anhang aufgelistet.
+
+#### Art. 2
+
+**Unterlagen**
+
+Wer Sachkundebestätigungen oder Sachkundenachweise nach Artikel 1 beantragen will, reicht beim Bundesamt für Gesundheit (BAG) bis jeweils am 30. April ein Gesuch mit den folgenden Unterlagen ein:
+
+- a. Ausbildungs- und Prüfungsunterlagen;
+- b. Unterlagen zu den fachlichen Qualifikationen der Ausbildnerinnen und Ausbildner sowie der Prüfungsexpertinnen und Prüfungsexperten.
+
+#### Art. 3
+
+**Meldungen**
+
+<sup>1</sup>
+
+Die zur Ausstellung von Sachkundebestätigungen und Sachkundenachweisen nach dem Anhang berechtigten Prüfungsstellen melden dem BAG jährlich bis spätestens 31. Oktober:
+
+- a. eine Prüfungsstatistik, die Aufschluss gibt über die Anteile der erfolgreich und erfolglos abgeschlossenen Prüfungen;
+- b. die Daten der geplanten Ausbildungen und Prüfungen für das Folgejahr.
+
+<sup>2</sup> Sie melden dem BAG jeweils nach abgeschlossenen Prüfungen innert einem Monat die Personen mit Vor- und Nachnamen sowie Geburtsdatum, denen eine Sachkundebestätigung oder ein Sachkundenachweis ausgestellt wurde.
+
+<sup>3</sup> Sie melden dem BAG Anpassungen der Ausbildungs- und Prüfungsunterlagen sowie der fachlichen Qualifikationen an den Stand des Wissens und der Technik.
+
+#### Art. 4
+
+**Überprüfung**
+
+Das BAG überprüft mindestens alle fünf Jahre, ob die Ausbildungs- und Prüfungsunterlagen und die fachlichen Qualifikationen weiterhin dem Stand des Wissens und der Technik entsprechen.
+
+#### Art. 5
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. August 2020 in Kraft.
+
+Anhang
+
+(Art. 1)
+
+## Sachkundebestätigungen und Sachkundenachweise
+
+- 1\. Die nachstehenden Sachkundebestätigungen nach Artikel 16 Absatz 1 Buchstabe a V-NISSG (SB) und Sachkundenachweise nach Artikel 16 Absatz 1 Buchstabe b V-NISSG (SN) berechtigen an Veranstaltungen mit Laserstrahlung zum Betrieb von Lasereinrichtungen der Klassen 1M, 2M, 3R, 3B und 4:
+
+<table>
+<tr><td>Bezeichnung</td><td>Ausstellende Prüfungsstellen</td></tr>
+<tr><td>SB für Veranstaltungen ohne Laserstrahlung im Publikumsbereich</td><td>– Technische Berufsschule Zürich, Ausstellungsstrasse 70, 8090 Zürich – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>SN für Veranstaltungen mit Laserstrahlung im Publikumsbereich</td><td>– Technische Berufsschule Zürich, Ausstellungsstrasse 70, 8090 Zürich – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+</table>
+
+- 2\.
+
+  Die SB und SN enthalten die folgenden Angaben:
+
+  - a. Bezeichnung;
+  - b. Name der ausstellenden Prüfungsstelle;
+  - c. Vorname und Name der Person, welche die SB oder den SN erlangt hat;
+  - d. Geburtsdatum der Person, welche die SB oder den SN erlangt hat;
+  - e. Datum und Ort der Prüfung.

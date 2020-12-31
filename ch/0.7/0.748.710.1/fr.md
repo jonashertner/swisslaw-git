@@ -1,0 +1,440 @@
+---
+sr: "0.748.710.1"
+title: Convention du 14 septembre 1963 relative aux infractions et à certains autres actes survenant à bord des aéronefs
+eli: "https://fedlex.data.admin.ch/eli/cc/1971/312_316_316"
+language: fr
+version: 2018-04-17
+adopted: 1963-09-14
+in_force: 1971-03-21
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20180417/fr/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20180417-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20180417/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs
+
+RO **1971** 316; FF **1970** I 33
+
+Texte original
+
+Conclue à Tokyo le 14 septembre 1963 Signée par la Suisse le 31 octobre 1969 Approuvée par l’Assemblée fédérale le 9 octobre 1970[^t-1] Instrument de ratification déposé par la Suisse le 21 décembre 1970 Entrée en vigueur pour la Suisse le 21 mars 1971
+
+(Etat le 17 avril 2018)
+
+[^t-1]: [RO 1971 315](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
+
+Les Etats Parties à la présente Convention sont convenus des dispositions suivantes:
+
+## Titre premier Champ d’application de la Convention
+
+#### Art. 1
+
+<sup>1.</sup>
+
+La présente Convention s’applique:
+
+- a) aux infractions aux lois pénales;
+- b) aux actes qui, constituant ou non des infractions, peuvent compromettre ou compromettent la sécurité de l’aéronef ou de personnes ou de biens à bord, ou compromettent le bon ordre et la discipline à bord.
+
+<sup>2.</sup> Sous réserve des dispositions du Titre III, la présente Convention s’applique aux infractions commises ou actes accomplis par une personne à bord d’un aéronef immatriculé dans un Etat contractant pendant que cet aéronef se trouve, soit en vol, soit à la surface de la haute mer ou d’une région ne faisant partie du territoire d’aucun Etat.
+
+<sup>3.</sup> Aux fins de la présente Convention, un aéronef est considéré comme en vol depuis le moment où la force motrice est employé pour décoller jusqu’au moment où l’atterrissage a pris fin.
+
+<sup>4.</sup> La présente Convention ne s’applique pas aux aéronefs utilisés à des fins militaires, de douane ou de police.
+
+#### Art. 2
+
+Sans préjudice des dispositions de l’Article 4 et sous réserve des exigences de la sécurité de l’aéronef et des personnes ou des biens à bord, aucune disposition de la présente Convention ne peut être interprétée comme autorisant ou prescrivant l’application de quelque mesure que ce soit dans le cas d’infractions à des lois pénales de caractère politique ou fondées sur la discrimination raciale ou religieuse.
+
+## Titre II Compétence
+
+#### Art. 3
+
+<sup>1.</sup> L’Etat d’immatriculation de l’aéronef est compétent pour connaître des infractions commises et actes accomplis à bord.
+
+<sup>2.</sup> Tout Etat contractant prend les mesures nécessaires pour établir sa compétence, en sa qualité d’Etat d’immatriculation, aux fins de connaître des infractions commises à bord des aéronefs inscrits sur son registre d’immatriculation.
+
+<sup>3.</sup> La présente Convention n’écarte aucune compétence pénale exercée conformément aux lois nationales.
+
+#### Art. 4
+
+Un Etat contractant qui n’est pas l’Etat d’immatriculation ne peut gêner l’exploitation d’un aéronef en vol en vue d’exercer sa compétence pénale à l’égard d’une infraction commise à bord que dans les cas suivants:
+
+- a) cette infraction a produit effet sur le territoire dudit Etat;
+- b) cette infraction a été commise par ou contre un ressortissant dudit Etat ou une personne y ayant sa résidence permanente;
+- c) cette infraction compromet la sécurité dudit Etat;
+- d) cette infraction constitue une violation des règles ou règlements relatifs au vol ou à la manœuvre des aéronefs en vigueur dans ledit Etat;
+- e) l’exercice de cette compétence est nécessaire pour assurer le respect d’une obligation qui incombe audit Etat en vertu d’un accord international multilatéral.
+
+## Titre III Pouvoirs du commandant d’aéronef
+
+#### Art. 5
+
+<sup>1.</sup> Les dispositions du présent Titre ne s’appliquent aux infractions et aux actes commis ou accomplis, ou sur le point de l’être, par une personne à bord d’un aéronef en vol, soit dans l’espace aérien de l’Etat d’immatriculation, soit au-dessus de la haute mer ou d’une région ne faisant partie du territoire d’aucun Etat, que si le dernier point de décollage ou le prochain point d’atterrissage prévu est situé sur le territoire d’un Etat autre que celui d’immatriculation, ou si l’aéronef vole ultérieurement dans l’espace aérien d’un Etat autre que l’Etat d’immatriculation, ladite personne étant encore à bord.
+
+<sup>2.</sup> Aux fins du présent Titre, et nonobstant les dispositions de l’Art. 1, par. 3, un aéronef est considéré comme en vol depuis le moment où, l’embarquement étant terminé, toutes ses portes extérieures ont été fermées jusqu’au moment où l’une de ces portes est ouverte en vue du débarquement. En cas d’atterrissage forcé, les dispositions du présent Titre continuent de s’appliquer à l’égard des infractions et des actes survenus à bord jusqu’à ce que l’autorité compétente d’un Etat prenne en charge l’aéronef ainsi que les personnes et biens à bord.
+
+#### Art. 6
+
+<sup>1.</sup>
+
+Lorsque le commandant d’aéronef est fondé à croire qu’une personne a commis ou accompli ou est sur le point de commettre ou d’accomplir à bord une infraction ou un acte visés à l’Art. 1, par. 1, il peut prendre, à l’égard de cette personne, les mesures raisonnables, y compris les mesures de contrainte, qui sont nécessaires:
+
+- a) pour garantir la sécurité de l’aéronef ou de personnes ou de biens à bord;
+- b) pour maintenir le bon ordre et la discipline à bord;
+- c) pour lui permettre de remettre ladite personne aux autorités compétentes ou de la débarquer conformément aux dispositions du présent Titre.
+
+<sup>2.</sup> Le commandant d’aéronef peut requérir ou autoriser l’assistance des autres membres de l’équipage et, sans pouvoir l’exiger, demander ou autoriser celle des passagers en vue d’appliquer les mesures de contrainte qu’il est en droit de prendre. Tout membre d’équipage ou tout passager peut également prendre, sans cette autorisation, toutes mesures préventives raisonnables, s’il est fondé à croire qu’elles s’imposent immédiatement pour garantir la sécurité de l’aéronef ou de personnes ou de biens à bord.
+
+#### Art. 7
+
+<sup>1.</sup>
+
+Les mesures de contrainte prises à l’égard d’une personne conformément aux dispositions de l’Art. 6 cesseront d’être appliquées au-delà de tout point d’atterrissage à moins que:
+
+- a) ce point ne soit situé sur le territoire d’un Etat non contractant et que les autorités de cet Etat ne refusent d’y permettre le débarquement de la personne intéressée ou que des mesures de contrainte n’aient été imposées à celle-ci conformément aux dispositions de l’Art. 6, par. 1, c), pour permettre sa remise aux autorités compétentes;
+- b) l’aéronef ne fasse un atterrissage forcé et que le commandant d’aéronef ne soit pas en mesure de remettre la personne intéressée aux autorités compétentes;
+- c) la personne intéressée n’accepte de continuer à être transportée au-delà de ce point en restant soumise aux mesures de contrainte.
+
+<sup>2.</sup> Le commandant d’aéronef doit, dans les moindres délais et, si possible, avant d’atterrir sur le territoire d’un Etat avec à son bord une personne soumise à une mesure de contrainte prise conformément aux dispositions de l’Art. 6, informer les autorités dudit Etat de la présence à bord d’une personne soumise à une mesure de contrainte et des raisons de cette mesure.
+
+#### Art. 8
+
+<sup>1.</sup> Lorsque le commandant d’aéronef est fondé à croire qu’une personne a accompli ou est sur le point d’accomplir à bord un acte visé à l’Art. 1, par. 1, b), il peut débarquer cette personne sur le territoire de tout Etat où atterrit l’aéronef pour autant que cette mesure soit nécessaire aux fins visées à l’Art. 6, par. 1, a) ou b).
+
+<sup>2.</sup> Le commandant d’aéronef informe les autorités de l’Etat sur le territoire duquel il débarque une personne, conformément aux dispositions du présent article, de ce débarquement et des raisons qui l’ont motivé.
+
+#### Art. 9
+
+<sup>1.</sup> Lorsque le commandant d’aéronef est fondé à croire qu’une personne a accompli à bord de l’aéronef un acte qui, selon lui, constitue une infraction grave, conformément aux lois pénales de l’Etat d’immatriculation de l’aéronef, il peut remettre ladite personne aux autorités compétentes de tout Etat contractant sur le territoire duquel atterrit l’aéronef.
+
+<sup>2.</sup> Le commandant d’aéronef doit, dans les moindres délais et si possible avant d’atterrir sur le territoire d’un Etat contractant avec à bord une personne qu’il a l’intention de remettre conformément aux dispositions du paragraphe précédent, faire connaître cette intention aux autorités de cet Etat ainsi que les raisons qui la motivent.
+
+<sup>3.</sup> Le commandant d’aéronef communique aux autorités auxquelles il remet l’auteur présumé de l’infraction, conformément aux dispositions du présent article, les éléments de preuve et d’information qui, conformément à la loi de l’Etat d’immatriculation de l’aéronef, sont légitimement en sa possession.
+
+#### Art. 10
+
+[^10-1]
+
+Lorsque l’application des mesures prévues par la présente Convention est conforme à celle-ci, ni le commandant d’aéronef, ni un autre membre de l’équipage, ni un passager, ni le propriétaire, ni l’exploitant de l’aéronef, ni la personne pour le compte de laquelle le vol a été effectué, ne peuvent être déclarés responsables dans une procédure engagée en raison d’un préjudice subi par la personne qui a fait l’objet de ces mesures.
+
+[^10-1]: Pour l’entraide judiciaire entre la Suisse et les Etats-Unis d’Amérique, voir l’art. 36 de la LF du 3 oct. 1975 relative au traité conclu avec les Etats-Unis d’Amérique sur l’entraide judiciaire en matière pénale ([RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
+
+## Titre IV Capture illicite d’aéronefs
+
+#### Art. 11
+
+<sup>1.</sup> Lorsque, illicitement, et par violence ou menace de violence, une personne à bord a gêné l’exploitation d’un aéronef en vol, s’en est emparé ou en a exercé le contrôle, ou lorsqu’elle est sur le point d’accomplir un tel acte, les Etats contractants prennent toutes mesures appropriées pour restituer ou conserver le contrôle de l’aéronef au commandant légitime.
+
+<sup>2.</sup> Dans les cas visés au paragraphe précédent, tout Etat contractant où atterrit l’aéronef permet aux passagers et à l’équipage de poursuivre leur voyage aussitôt que possible. Il restitue l’aéronef et sa cargaison à ceux qui ont le droit de les détenir.
+
+## Titre V Pouvoirs et obligations des Etats
+
+#### Art. 12
+
+Tout Etat contractant doit permettre au commandant d’un aéronef immatriculé dans un autre Etat contractant de débarquer toute personne conformément aux dispositions de l’Art. 8, par. 1.
+
+#### Art. 13
+
+[^13-1]
+
+<sup>1.</sup> Tout Etat contractant est tenu de recevoir une personne que le commandant d’aéronef lui remet conformément aux dispositions de l’Art. 9, par. 1.
+
+<sup>2.</sup> S’il estime que les circonstances le justifient, tout Etat contractant assure la détention ou prend toutes autres mesures en vue d’assurer la présence de toute personne auteur présumé d’un acte visé à l’Art. 11, par. 1, ainsi que de toute personne qui lui a été remise. Cette détention et ces mesures doivent être conformes à la législation dudit Etat; elles ne peuvent être maintenues que pendant le délai nécessaire à l’engagement de poursuites pénales ou d’une procédure d’extradition.
+
+<sup>3.</sup> Toute personne détenue en application du paragraphe précédent, peut communiquer immédiatement avec le plus proche représentant qualifié de l’Etat dont elle a la nationalité; toutes facilités lui sont accordées à cette fin.
+
+<sup>4.</sup> Tout Etat contractant auquel une personne est remise conformément aux dispositions de l’Art. 9, par. 1, ou sur le territoire duquel un aéronef atterrit après qu’un acte visé à l’Art. 11, par. 1, a été accompli, procède immédiatement à une enquête préliminaire en vue d’établir les faits.
+
+<sup>5.</sup> Lorsqu’un Etat a mis une personne en détention conformément aux dispositions du présent article, il avise immédiatement de cette détention, ainsi que des circonstances qui la justifient, l’Etat d’immatriculation de l’aéronef, l’Etat dont la personne détenue a la nationalité et, s’il le juge opportun, tous autres Etats intéressés. L’Etat qui procède à l’enquête préliminaire visée au présent article, par. 4, en communique promptement les conclusions auxdits Etats et leur indique s’il entend exercer sa compétence.
+
+[^13-1]: Pour l’entraide judiciaire entre la Suisse et les Etats-Unis d’Amérique, voir l’art. 36 de la LF du 3 oct. 1975 relative au traité conclu avec les Etats-Unis d’Amérique sur l’entraide judiciaire en matière pénale ([RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
+
+#### Art. 14
+
+<sup>1.</sup> Si une personne qui a été débarquée conformément aux dispositions de l’Art. 8, par. 1, ou qui a été remise conformément aux dispositions de l’Art. 9, par. 1, ou qui a débarqué après avoir accompli un acte visé à l’Art. 11, par. 1, ne peut ou ne veut pas poursuivre son voyage, l’Etat d’atterrissage, s’il refuse d’admettre cette personne et que celle-ci n’ait pas la nationalité dudit Etat ou n’y ait pas établi sa résidence permanente, peut la refouler vers l’Etat dont elle a la nationalité ou dans lequel elle a établi sa résidence permanente, ou vers l’Etat sur le territoire duquel elle a commencé son voyage aérien.
+
+<sup>2.</sup> Ni le débarquement, ni la remise, ni la détention, ni d’autres mesures visées à l’Art. 13, par. 2, ni le renvoi de la personne intéressée ne sont considérés comme valant entrée sur le territoire d’un Etat contractant, au regard des lois de cet Etat relatives à l’entrée ou à l’admission des personnes. Les dispositions de la présente Convention ne peuvent affecter les lois des Etats contractants relatives au refoulement des personnes.
+
+#### Art. 15
+
+<sup>1.</sup> Sous réserve des dispositions de l’article précédent, toute personne qui a été débarquée conformément aux dispositions de l’Art. 8, par. 1, ou qui a été remise conformément aux dispositions de l’Art. 9, par. 1, ou qui a débarqué après avoir accompli un acte visé à l’Art. 11, par. 1, et qui désire poursuivre son voyage peut le faire aussitôt que possible vers la destination de son choix, à moins que sa présence ne soit requise selon la loi de l’Etat d’atterrissage, aux fins de poursuites pénales et d’extradition.
+
+<sup>2.</sup> Sous réserve de ses lois relatives à l’entrée et à l’admission, à l’extradition et au refoulement des personnes, tout Etat contractant dans le territoire duquel une personne a été débarquée conformément aux dispositions de l’Art. 8, par. 1, ou remise conformément aux dispositions de l’Art. 9, par. 1, ou qui a débarqué et à laquelle est imputé un acte visé à l’Art. 11, par. 1, accorde à cette personne un traitement qui, en ce qui concerne sa protection et sa sécurité, n’est pas moins favorable que celui qu’il accorde à ses nationaux dans des cas analogues.
+
+## Titre VI Autres dispositions
+
+#### Art. 16
+
+<sup>1.</sup> Les infractions commises à bord d’aéronefs immatriculés dans un Etat contractant sont considérées, aux fins d’extradition, comme ayant été commises tant au lieu de leur perpétration que sur le territoire de l’Etat d’immatriculation de l’aéronef.
+
+<sup>2.</sup> Compte tenu des dispositions du paragraphe précédent, aucune disposition de la présente Convention ne doit être interprétée comme créant une obligation d’accorder l’extradition.
+
+#### Art. 17
+
+En prenant des mesures d’enquête ou d’arrestation ou en exerçant de toute autre manière leur compétence à l’égard d’une infraction commise à bord d’un aéronef, les Etats contractants doivent dûment tenir compte de la sécurité et des autres intérêts de la navigation aérienne et doivent agir de manière à éviter de retarder sans nécessité l’aéronef, les passagers, les membres de l’équipage ou les marchandises.
+
+#### Art. 18
+
+Si des Etats contractants constituent, pour le transport aérien, des organisations d’exploitation en commun ou des organismes internationaux d’exploitation et si les aéronefs utilisés ne sont pas immatriculés dans un Etat déterminé, ces Etats désigneront, suivant des modalités appropriées, celui d’entre eux qui sera considéré, aux fins de la présente Convention, comme Etat d’immatriculation. Ils aviseront de cette désignation l’Organisation de l’Aviation civile internationale, qui en informera tous les Etats parties à la présente Convention.
+
+## Titre VII Dispositions protocolaires
+
+#### Art. 19
+
+La présente convention, jusqu’à la date de son entrée en vigueur dans les conditions prévues à l’Art. 21, est ouverte à la signature de tout Etat qui, à cette date, sera membre de l’Organisation des Nations Unies ou d’une institution spécialisée.
+
+#### Art. 20
+
+<sup>1.</sup> La présente Convention est soumise à la ratification des Etats signataires conformément à leurs dispositions constitutionnelles.
+
+<sup>2.</sup> Les instruments de ratification seront déposés auprès de l’Organisation de l’Aviation civile internationale.
+
+#### Art. 21
+
+<sup>1.</sup> Lorsque la présente Convention aura réuni les ratifications de douze Etats signataires, elle entrera en vigueur entre ces Etats le quatre-vingt-dixième jour après le dépôt du douzième instrument de ratification. A l’égard de chaque Etat qui la ratifiera par la suite, elle entrera en vigueur le quatre-vingt-dixième jour après le dépôt de son instrument de ratification.
+
+<sup>2.</sup> Dès son entrée en vigueur, la présente Convention sera enregistrée auprès du Secrétaire général de l’Organisation des Nations Unies par l’Organisation de l’Aviation civile internationale.
+
+#### Art. 22
+
+<sup>1.</sup> La présente Convention sera ouverte, après son entrée en vigueur, à l’adhésion de tout Etat membre de l’Organisation des Nations Unies ou d’une institution spécialisée.
+
+<sup>2.</sup> L’adhésion sera effectuée par le dépôt d’un instrument d’adhésion auprès de l’Organisation de l’Aviation civile internationale et prendra effet le quatre-vingt-dixième jour qui suivra la date de ce dépôt.
+
+#### Art. 23
+
+<sup>1.</sup> Tout Etat contractant peut dénoncer la présente Convention par une notification faite à l’Organisation de l’Aviation civile internationale.
+
+<sup>2.</sup> La dénonciation prendra effet six mois après la date de réception de la notification par l’Organisation de l’Aviation civile internationale.
+
+#### Art. 24
+
+<sup>1.</sup> Tout différend entre des Etats contractants concernant l’interprétation ou l’application de la présente Convention qui ne peut pas être réglé par voie de négociation est soumis à l’arbitrage, à la demande de l’un d’entre eux. Si, dans les six mois qui suivent la date de la demande d’arbitrage, les Parties ne parviennent pas à se mettre d’accord sur l’organisation de l’arbitrage, l’une quelconque d’entre elles peut soumettre le différend à la Cour internationale de Justice, en déposant une requête conformément au Statut de la Cour.
+
+<sup>2.</sup> Chaque Etat pourra, au moment où il signera ou ratifiera la présente Convention ou y adhérera, déclarer qu’il ne se considère pas lié par les dispositions du paragraphe précédent. Les autres Etats contractants ne seront pas liés par lesdites dispositions envers tout Etat contractant qui aura formulé une telle réserve.
+
+<sup>3.</sup> Tout Etat contractant qui aura formulé une réserve conformément aux dispositions du paragraphe précédent pourra à tout moment lever cette réserve par une notification adressée à l’Organisation de l’Aviation civile internationale.
+
+#### Art. 25
+
+Sauf dans le cas prévu à l’Art. 24, il ne sera admis aucune réserve à la présente Convention.
+
+#### Art. 26
+
+L’Organisation de l’Aviation civile internationale notifiera à tous les Etats membres de l’Organisation des Nations Unies ou d’une institution spécialisée:
+
+- a) toute signature de la présente Convention et la date de cette signature;
+- b) le dépôt de tout instrument de ratification ou d’adhésion et la date de ce dépôt;
+- c) la date à laquelle la présente Convention entre en vigueur conformément aux dispositions du par. 1 de l’Art. 21;
+- d) la réception de toute notification de dénonciation et la date de réception; et
+- e) la réception de toute déclaration ou notification faite en vertu de l’Art. 24 et la date de réception.
+
+*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Tokyo le quatorzième jour du mois de septembre de l’an mil neuf cent soixante-trois, en trois textes authentiques rédigés dans les langues française, anglaise et espagnole. La présente Convention sera déposée auprès de l’Organisation de l’Aviation civile internationale où, conformément aux dispositions de l’Art. 19, elle restera ouverte à la signature et cette Organisation transmettra des copies certifiées conformes de la présente Convention à tous les Etats membres de l’Organisation des Nations Unies ou d’une institution spécialisée.
+
+(Suivent les signatures)
+
+Champ d’application le 17 avril 2018**[^t-2]**
+
+<table>
+<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>15 avril</td><td>1977 A</td><td>14 juillet</td><td>1977</td></tr>
+<tr><td>Afrique du Sud\*</td><td>26 mai</td><td>1972 A</td><td>24 août</td><td>1972</td></tr>
+<tr><td>Albanie</td><td>1<sup>er</sup> décembre</td><td>1997 A</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
+<tr><td>Algérie\*</td><td>12 octobre</td><td>1995 A</td><td>10 janvier</td><td>1996</td></tr>
+<tr><td>Allemagne</td><td>16 décembre</td><td>1969</td><td>16 mars</td><td>1970</td></tr>
+<tr><td>Andorre\*</td><td>17 mai</td><td>2006 A</td><td>15 août</td><td>2006</td></tr>
+<tr><td>Angola</td><td>24 février</td><td>1998 A</td><td>25 mai</td><td>1998</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>19 juillet</td><td>1985 A</td><td>17 octobre</td><td>1985</td></tr>
+<tr><td>Arabie Saoudite</td><td>21 novembre</td><td>1969</td><td>19 février</td><td>1970</td></tr>
+<tr><td>Argentine</td><td>23 juillet</td><td>1971 A</td><td>21 octobre</td><td>1971</td></tr>
+<tr><td>Arménie</td><td>23 juin</td><td>2003 A</td><td>23 avril</td><td>2003</td></tr>
+<tr><td>Australie</td><td>22 juin</td><td>1970 A</td><td>20 septembre</td><td>1970</td></tr>
+<tr><td>Autriche</td><td>7 février</td><td>1974 A</td><td>8 mai</td><td>1974</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>5 février</td><td>2004 A</td><td>5 mai</td><td>2004</td></tr>
+<tr><td>Bahamas</td><td>15 mai</td><td>1975 S</td><td>10 juillet</td><td>1973</td></tr>
+<tr><td>Bahreïn\*</td><td>9 février</td><td>1984 A</td><td>9 mai</td><td>1984</td></tr>
+<tr><td>Bangladesh</td><td>25 juillet</td><td>1978 A</td><td>23 octobre</td><td>1978</td></tr>
+<tr><td>Barbade</td><td>4 avril</td><td>1972</td><td>3 juillet</td><td>1972</td></tr>
+<tr><td>Bélarus\*</td><td>3 février</td><td>1988 A</td><td>3 mai</td><td>1988</td></tr>
+<tr><td>Belgique</td><td>6 août</td><td>1970</td><td>4 novembre</td><td>1970</td></tr>
+<tr><td>Belize</td><td>19 mai</td><td>1998 A</td><td>17 août</td><td>1998</td></tr>
+<tr><td>Bénin</td><td>30 mars</td><td>2004 A</td><td>28 juin</td><td>2004</td></tr>
+<tr><td>Bhoutan</td><td>25 janvier</td><td>1989 A</td><td>25 avril</td><td>1989</td></tr>
+<tr><td>Bolivie</td><td>5 juillet</td><td>1979 A</td><td>3 octobre</td><td>1979</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>7 mars</td><td>1995 S</td><td>6 mars</td><td>1992</td></tr>
+<tr><td>Botswana</td><td>16 janvier</td><td>1979 A</td><td>16 avril</td><td>1979</td></tr>
+<tr><td>Brésil</td><td>14 janvier</td><td>1970</td><td>14 avril</td><td>1970</td></tr>
+<tr><td>Brunéi</td><td>23 mai</td><td>1986 A</td><td>21 août</td><td>1986</td></tr>
+<tr><td>Bulgarie\*</td><td>28 septembre</td><td>1989 A</td><td>27 décembre</td><td>1989</td></tr>
+<tr><td>Burkina Faso</td><td>6 juin</td><td>1969</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Burundi</td><td>14 juillet</td><td>1971 A</td><td>12 octobre</td><td>1971</td></tr>
+<tr><td>Cambodge</td><td>22 octobre</td><td>1996 A</td><td>20 janvier</td><td>1997</td></tr>
+<tr><td>Cameroun</td><td>24 mars</td><td>1988 A</td><td>22 juin</td><td>1988</td></tr>
+<tr><td>Canada</td><td>7 novembre</td><td>1969</td><td>5 février</td><td>1970</td></tr>
+<tr><td>Cap-Vert</td><td>4 octobre</td><td>1989 A</td><td>2 janvier</td><td>1990</td></tr>
+<tr><td>Chili</td><td>24 janvier</td><td>1974 A</td><td>24 avril</td><td>1974</td></tr>
+<tr><td>Chine</td><td>14 novembre</td><td>1978</td><td>12 février</td><td>1979</td></tr>
+<tr><td>[tab] Hong Kong\* <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>[tab] Macao\* <sup>b</sup></td><td>6 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Chypre</td><td>31 mai</td><td>1972 A</td><td>29 août</td><td>1972</td></tr>
+<tr><td>Colombie</td><td>6 juillet</td><td>1973</td><td>4 octobre</td><td>1973</td></tr>
+<tr><td>Comores</td><td>23 mai</td><td>1991 A</td><td>21 août</td><td>1991</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>13 novembre</td><td>1978</td><td>11 février</td><td>1979</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>20 juillet</td><td>1977 A</td><td>18 octobre</td><td>1977</td></tr>
+<tr><td>Corée (Nord)\*</td><td>9 mai</td><td>1983 A</td><td>7 août</td><td>1983</td></tr>
+<tr><td>Corée (Sud)</td><td>19 février</td><td>1971</td><td>20 mai</td><td>1971</td></tr>
+<tr><td>Costa Rica</td><td>24 octobre</td><td>1972 A</td><td>22 janvier</td><td>1973</td></tr>
+<tr><td>Côte d’Ivoire</td><td>3 juin</td><td>1970 A</td><td>1<sup>er</sup> septembre</td><td>1970</td></tr>
+<tr><td>Croatie</td><td>5 octobre</td><td>1993 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba\*</td><td>12 février</td><td>2001 A</td><td>13 mai</td><td>2001</td></tr>
+<tr><td>Danemark</td><td>17 janvier</td><td>1967</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Djibouti</td><td>10 juin</td><td>1992 A</td><td>8 septembre</td><td>1992</td></tr>
+<tr><td>Egypte\*</td><td>12 février</td><td>1975 A</td><td>13 mai</td><td>1975</td></tr>
+<tr><td>El Salvador</td><td>13 février</td><td>1980 A</td><td>13 mai</td><td>1980</td></tr>
+<tr><td>Emirats arabes unis\*</td><td>16 avril</td><td>1981 A</td><td>15 juillet</td><td>1981</td></tr>
+<tr><td>Equateur</td><td>3 décembre</td><td>1969</td><td>3 mars</td><td>1970</td></tr>
+<tr><td>Espagne</td><td>1<sup>er</sup> octobre</td><td>1969</td><td>30 décembre</td><td>1969</td></tr>
+<tr><td>Estonie</td><td>31 décembre</td><td>1993 A</td><td>31 mars</td><td>1994</td></tr>
+<tr><td>Etats-Unis</td><td>5 septembre</td><td>1969</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Ethiopie\*</td><td>27 mars</td><td>1979 A</td><td>25 juin</td><td>1979</td></tr>
+<tr><td>Fidji</td><td>18 janvier</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
+<tr><td>Finlande</td><td>2 avril</td><td>1971</td><td>1<sup>er</sup> juillet</td><td>1971</td></tr>
+<tr><td>France</td><td>11 septembre</td><td>1970</td><td>10 décembre</td><td>1970</td></tr>
+<tr><td>Gabon</td><td>14 janvier</td><td>1970 A</td><td>14 avril</td><td>1970</td></tr>
+<tr><td>Gambie</td><td>4 janvier</td><td>1979 A</td><td>4 avril</td><td>1979</td></tr>
+<tr><td>Géorgie</td><td>16 juin</td><td>1994 A</td><td>14 septembre</td><td>1994</td></tr>
+<tr><td>Ghana</td><td>2 janvier</td><td>1974 A</td><td>2 avril</td><td>1974</td></tr>
+<tr><td>Grèce</td><td>31 mai</td><td>1971</td><td>29 août</td><td>1971</td></tr>
+<tr><td>Grenade</td><td>28 août</td><td>1978 A</td><td>26 novembre</td><td>1978</td></tr>
+<tr><td>Guatemala\*</td><td>17 novembre</td><td>1970</td><td>15 février</td><td>1971</td></tr>
+<tr><td>Guinée</td><td>18 janvier</td><td>1994 A</td><td>18 avril</td><td>1994</td></tr>
+<tr><td>Guinée-Bissau</td><td>17 octobre</td><td>2008 A</td><td>15 janvier</td><td>2009</td></tr>
+<tr><td>Guinée équatoriale</td><td>27 février</td><td>1991 A</td><td>28 mai</td><td>1991</td></tr>
+<tr><td>Guyana</td><td>20 décembre</td><td>1972 A</td><td>19 mars</td><td>1973</td></tr>
+<tr><td>Haïti</td><td>26 avril</td><td>1984 A</td><td>25 juillet</td><td>1984</td></tr>
+<tr><td>Honduras\*</td><td>8 avril</td><td>1987 A</td><td>7 juillet</td><td>1987</td></tr>
+<tr><td>Hongrie</td><td>3 décembre</td><td>1970 A</td><td>3 mars</td><td>1971</td></tr>
+<tr><td>Iles Cook</td><td>12 avril</td><td>2005 A</td><td>11 juillet</td><td>2005</td></tr>
+<tr><td>Iles Marshall</td><td>15 mai</td><td>1989 A</td><td>13 août</td><td>1989</td></tr>
+<tr><td>Inde\*</td><td>22 juillet</td><td>1975 A</td><td>20 octobre</td><td>1975</td></tr>
+<tr><td>Indonésie\*</td><td>7 septembre</td><td>1976</td><td>6 décembre</td><td>1976</td></tr>
+<tr><td>Iran</td><td>28 juin</td><td>1976 A</td><td>29 septembre</td><td>1976</td></tr>
+<tr><td>Iraq</td><td>15 mai</td><td>1974 A</td><td>13 août</td><td>1974</td></tr>
+<tr><td>Irlande</td><td>14 novembre</td><td>1975</td><td>12 février</td><td>1976</td></tr>
+<tr><td>Islande</td><td>16 mars</td><td>1970 A</td><td>14 juin</td><td>1970</td></tr>
+<tr><td>Israël</td><td>19 septembre</td><td>1969</td><td>18 décembre</td><td>1969</td></tr>
+<tr><td>Italie</td><td>18 octobre</td><td>1968</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Jamaïque</td><td>16 septembre</td><td>1983 A</td><td>15 décembre</td><td>1983</td></tr>
+<tr><td>Japon</td><td>26 mai</td><td>1970</td><td>24 août</td><td>1970</td></tr>
+<tr><td>Jordanie</td><td>3 mai</td><td>1973 A</td><td>1<sup>er</sup> août</td><td>1973</td></tr>
+<tr><td>Kazakhstan</td><td>18 mai</td><td>1995 A</td><td>16 août</td><td>1995</td></tr>
+<tr><td>Kenya</td><td>22 juin</td><td>1970 A</td><td>20 septembre</td><td>1970</td></tr>
+<tr><td>Kirghizistan</td><td>28 février</td><td>2000 A</td><td>28 mai</td><td>2000</td></tr>
+<tr><td>Koweït\*</td><td>27 novembre</td><td>1979 A</td><td>25 février</td><td>1980</td></tr>
+<tr><td>Laos</td><td>23 octobre</td><td>1972 A</td><td>21 janvier</td><td>1973</td></tr>
+<tr><td>Lesotho</td><td>28 avril</td><td>1972 A</td><td>27 juillet</td><td>1972</td></tr>
+<tr><td>Lettonie</td><td>10 juin</td><td>1997 A</td><td>8 septembre</td><td>1997</td></tr>
+<tr><td>Liban</td><td>11 juin</td><td>1974 A</td><td>9 septembre</td><td>1974</td></tr>
+<tr><td>Libéria</td><td>10 mars</td><td>2003</td><td>8 juin</td><td>2003</td></tr>
+<tr><td>Libye</td><td>21 juin</td><td>1972 A</td><td>19 septembre</td><td>1972</td></tr>
+<tr><td>Liechtenstein</td><td>26 février</td><td>2001 A</td><td>27 mai</td><td>2001</td></tr>
+<tr><td>Lituanie</td><td>21 novembre</td><td>1996 A</td><td>19 février</td><td>1997</td></tr>
+<tr><td>Luxembourg</td><td>21 septembre</td><td>1972 A</td><td>20 décembre</td><td>1972</td></tr>
+<tr><td>Macédoine</td><td>30 août</td><td>1994 S</td><td>17 septembre</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>2 décembre</td><td>1969</td><td>2 mars</td><td>1970</td></tr>
+<tr><td>Malaisie</td><td>5 mars</td><td>1985 A</td><td>3 juin</td><td>1985</td></tr>
+<tr><td>Malawi\*</td><td>28 décembre</td><td>1972 A</td><td>28 mars</td><td>1973</td></tr>
+<tr><td>Maldives</td><td>28 septembre</td><td>1987 A</td><td>27 décembre</td><td>1987</td></tr>
+<tr><td>Mali</td><td>31 mai</td><td>1971 A</td><td>29 août</td><td>1971</td></tr>
+<tr><td>Malte</td><td>28 juin</td><td>1991 A</td><td>26 septembre</td><td>1991</td></tr>
+<tr><td>Maroc\*</td><td>21 octobre</td><td>1975 A</td><td>19 janvier</td><td>1976</td></tr>
+<tr><td>Maurice</td><td>5 avril</td><td>1983 A</td><td>4 juillet</td><td>1983</td></tr>
+<tr><td>Mauritanie</td><td>30 juin</td><td>1977 A</td><td>28 septembre</td><td>1977</td></tr>
+<tr><td>Mexique</td><td>18 mars</td><td>1969</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Moldova</td><td>20 juin</td><td>1997 A</td><td>18 septembre</td><td>1997</td></tr>
+<tr><td>Monaco</td><td>2 juin</td><td>1983 A</td><td>31 août</td><td>1983</td></tr>
+<tr><td>Mongolie</td><td>24 juillet</td><td>1990 A</td><td>22 octobre</td><td>1990</td></tr>
+<tr><td>Monténégro</td><td>20 décembre</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Mozambique\*</td><td>6 janvier</td><td>2003 A</td><td>6 avril</td><td>2003</td></tr>
+<tr><td>Myanmar</td><td>23 mai</td><td>1996 A</td><td>21 août</td><td>1996</td></tr>
+<tr><td>Namibie</td><td>19 décembre</td><td>2005 A</td><td>19 mars</td><td>2006</td></tr>
+<tr><td>Nauru</td><td>17 mai</td><td>1984 A</td><td>15 août</td><td>1984</td></tr>
+<tr><td>Népal</td><td>15 janvier</td><td>1979 A</td><td>15 avril</td><td>1979</td></tr>
+<tr><td>Nicaragua</td><td>24 août</td><td>1973 A</td><td>22 novembre</td><td>1973</td></tr>
+<tr><td>Niger</td><td>27 juin</td><td>1969</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Nigéria</td><td>7 avril</td><td>1970</td><td>6 juillet</td><td>1970</td></tr>
+<tr><td>Nioué</td><td>23 juin</td><td>2009 A</td><td>21 septembre</td><td>2009</td></tr>
+<tr><td>Norvège</td><td>17 janvier</td><td>1967</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Nouvelle-Zélande\*</td><td>12 février</td><td>1974 A</td><td>13 mai</td><td>1974</td></tr>
+<tr><td>Oman\*</td><td>9 février</td><td>1977 A</td><td>10 mai</td><td>1977</td></tr>
+<tr><td>Ouganda</td><td>25 juin</td><td>1982 A</td><td>23 septembre</td><td>1982</td></tr>
+<tr><td>Ouzbékistan</td><td>31 juillet</td><td>1995 A</td><td>29 octobre</td><td>1995</td></tr>
+<tr><td>Pakistan</td><td>11 septembre</td><td>1973</td><td>10 décembre</td><td>1973</td></tr>
+<tr><td>Palaos</td><td>12 octobre</td><td>1995 A</td><td>10 janvier</td><td>1996</td></tr>
+<tr><td>Panama</td><td>16 novembre</td><td>1970</td><td>14 février</td><td>1971</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée\*</td><td>6 novembre</td><td>1975 S</td><td>16 septembre</td><td>1975</td></tr>
+<tr><td>Paraguay</td><td>9 août</td><td>1971 A</td><td>7 novembre</td><td>1971</td></tr>
+<tr><td>Pays-Bas\*</td><td>14 novembre</td><td>1969</td><td>12 février</td><td>1970</td></tr>
+<tr><td>Aruba</td><td>4 juin</td><td>1974</td><td>2 septembre</td><td>1974</td></tr>
+<tr><td>Curaçao</td><td>4 juin</td><td>1974</td><td>2 septembre</td><td>1974</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>4 juin</td><td>1974</td><td>2 septembre</td><td>1974</td></tr>
+<tr><td>Sint Maarten</td><td>4 juin</td><td>1974</td><td>2 septembre</td><td>1974</td></tr>
+<tr><td>Pérou\*</td><td>12 mai</td><td>1978 A</td><td>10 août</td><td>1978</td></tr>
+<tr><td>Philippines</td><td>26 novembre</td><td>1965</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Pologne</td><td>19 mars</td><td>1971 A</td><td>17 juin</td><td>1971</td></tr>
+<tr><td>Portugal</td><td>25 novembre</td><td>1964</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Qatar</td><td>6 août</td><td>1981 A</td><td>5 décembre</td><td>1981</td></tr>
+<tr><td>République centrafricaine</td><td>11 juin</td><td>1991 A</td><td>9 septembre</td><td>1991</td></tr>
+<tr><td>République dominicaine</td><td>3 décembre</td><td>1970 A</td><td>3 mars</td><td>1971</td></tr>
+<tr><td>République tchèque</td><td>25 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie\*</td><td>15 février</td><td>1974 A</td><td>16 mai</td><td>1974</td></tr>
+<tr><td>Royaume-Uni\*</td><td>29 novembre</td><td>1968</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>[tab] Anguilla</td><td>1<sup>er</sup> décembre</td><td>1982</td><td>1<sup>er</sup> décembre</td><td>1982</td></tr>
+<tr><td>Russie\*</td><td>3 février</td><td>1988 A</td><td>3 mai</td><td>1988</td></tr>
+<tr><td>Rwanda</td><td>17 mai</td><td>1971 A</td><td>15 août</td><td>1971</td></tr>
+<tr><td>Saint-Marin</td><td>16 décembre</td><td>2014</td><td>16 mars</td><td>2015</td></tr>
+<tr><td>Sainte-Lucie</td><td>31 octobre</td><td>1983 A</td><td>29 janvier</td><td>1984</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>18 novembre</td><td>1991 A</td><td>16 février</td><td>1992</td></tr>
+<tr><td>Salomon, Iles</td><td>23 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Samoa</td><td>9 juillet</td><td>1998 A</td><td>7 octobre</td><td>1998</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>4 mai</td><td>2006 A</td><td>2 août</td><td>2006</td></tr>
+<tr><td>Sénégal</td><td>9 mars</td><td>1972</td><td>7 juin</td><td>1972</td></tr>
+<tr><td>Serbie</td><td>6 septembre</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Seychelles</td><td>4 janvier</td><td>1979 A</td><td>4 avril</td><td>1979</td></tr>
+<tr><td>Sierra Leone</td><td>9 novembre</td><td>1970 A</td><td>7 février</td><td>1971</td></tr>
+<tr><td>Singapour</td><td>1<sup>er</sup> mars</td><td>1971 A</td><td>30 mai</td><td>1971</td></tr>
+<tr><td>Slovaquie</td><td>20 mars</td><td>1995 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td>18 décembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Soudan</td><td>25 mai</td><td>2000 A</td><td>23 août</td><td>2000</td></tr>
+<tr><td>Sri Lanka</td><td>30 mai</td><td>1978 A</td><td>28 août</td><td>1978</td></tr>
+<tr><td>Suède</td><td>17 janvier</td><td>1967</td><td>4 décembre</td><td>1969</td></tr>
+<tr><td>Suisse</td><td>21 décembre</td><td>1970</td><td>21 mars</td><td>1971</td></tr>
+<tr><td>Suriname</td><td>10 septembre</td><td>1979 S</td><td>25 novembre</td><td>1975</td></tr>
+<tr><td>Swaziland</td><td>15 novembre</td><td>1999 A</td><td>13 février</td><td>2000</td></tr>
+<tr><td>Syrie\*</td><td>31 juillet</td><td>1980 A</td><td>29 octobre</td><td>1980</td></tr>
+<tr><td>Tadjikistan</td><td>20 mars</td><td>1996 A</td><td>18 juin</td><td>1996</td></tr>
+<tr><td>Tanzanie</td><td>12 août</td><td>1983 A</td><td>10 novembre</td><td>1983</td></tr>
+<tr><td>Tchad</td><td>30 juin</td><td>1970 A</td><td>28 septembre</td><td>1970</td></tr>
+<tr><td>Thaïlande</td><td>6 mars</td><td>1972 A</td><td>4 juin</td><td>1972</td></tr>
+<tr><td>Togo</td><td>26 juillet</td><td>1971 A</td><td>24 octobre</td><td>1971</td></tr>
+<tr><td>Tonga</td><td>13 février</td><td>2002 A</td><td>14 mai</td><td>2002</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>9 février</td><td>1972 A</td><td>9 mai</td><td>1972</td></tr>
+<tr><td>Tunisie\*</td><td>25 février</td><td>1975 A</td><td>26 mai</td><td>1975</td></tr>
+<tr><td>Turkménistan</td><td>30 juin</td><td>1999 A</td><td>28 septembre</td><td>1999</td></tr>
+<tr><td>Turquie</td><td>17 décembre</td><td>1975 A</td><td>16 mars</td><td>1976</td></tr>
+<tr><td>Ukraine\*</td><td>29 février</td><td>1988 A</td><td>29 mai</td><td>1988</td></tr>
+<tr><td>Uruguay</td><td>26 janvier</td><td>1977 A</td><td>26 avril</td><td>1977</td></tr>
+<tr><td>Vanuatu</td><td>31 janvier</td><td>1989 A</td><td>1<sup>er</sup> mai</td><td>1989</td></tr>
+<tr><td>Venezuela\*</td><td>4 février</td><td>1983</td><td>5 mai</td><td>1983</td></tr>
+<tr><td>Vietnam\*</td><td>10 octobre</td><td>1979 A</td><td>8 janvier</td><td>1980</td></tr>
+<tr><td>Yémen</td><td>26 septembre</td><td>1986 A</td><td>25 décembre</td><td>1986</td></tr>
+<tr><td>Zambie</td><td>14 septembre</td><td>1971 A</td><td>13 décembre</td><td>1971</td></tr>
+<tr><td>Zimbabwe</td><td>8 mars</td><td>1989 A</td><td>6 juin</td><td>1989</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation de l’aviation civile internationale (OACI): www.icao.int/publications/Pages/FR/series-doc.aspx ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>a</sup> A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Du 7 juillet 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d'une déclaration d'extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+</table>
+
+[^t-2]: [RO 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500)[1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888), [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308), [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532), [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640), [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249), [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907), [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160), [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864), [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569), [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314), [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251)[5001](https://fedlex.data.admin.ch/eli/oc/2005/686), [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18), [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559), [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).

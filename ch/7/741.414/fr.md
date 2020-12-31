@@ -1,0 +1,183 @@
+---
+sr: "741.414"
+title: "Ordonnance du 16 novembre 2016 concernant la reconnaissance des réceptions UE et les exigences techniques requises pour les motocycles, quadricycles légers à moteur, quadricycles à moteur, tricycles à moteur ainsi que pour les cyclomoteurs (OETV 3)"
+short: OETV 3
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
+language: fr
+version: 2017-01-15
+adopted: 2016-11-16
+in_force: 2017-01-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20170115/fr/xml/fedlex-data-admin-ch-eli-cc-2016-822-20170115-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20170115/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la reconnaissance des réceptions UE et les exigences techniques requises pour les motocycles, quadricycles légers à moteur, quadricycles à moteur, tricycles à moteur ainsi que pour les cyclomoteurs
+
+(OETV 3)
+
+du 16 novembre 2016 (État le 15 janvier 2017)
+
+Le Conseil fédéral suisse,
+
+vu les art. 8, al. 1, 9, al. 1<sup>bis</sup> et 3, 106, al. 1, 6 et 10, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 1
+
+**Objet et champ d’application**
+
+<sup>1</sup>
+
+La présente ordonnance règle:
+
+- a. la reconnaissance des réceptions et certificats suivants de l’Union européenne (UE) pour les véhicules visés à l’al. 2: réceptions générales UE, réceptions partielles UE et certificats de conformité UE;
+- b. les exigences techniques requises pour les véhicules, les systèmes de véhicules, les composants de véhicules et les équipements visés à l’al. 2.
+
+<sup>2</sup> Elle s’applique aux motocycles visés à l’art. 14, let. a et b, de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^1-1], aux quadricycles légers à moteur, aux quadricycles à moteur et aux tricycles à moteur visés à l’art. 15 OETV, ainsi qu’aux cyclomoteurs visés à l’art. 18, let. a et b, OETV.
+
+[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+#### Art. 2
+
+**Contrôle des véhicules et service antipollution**
+
+Le contrôle en vue de l’immatriculation, le contrôle subséquent et le service antipollution des véhicules visés à l’art. 1, al. 2, sont régis par l’OETV[^2-1].
+
+[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+#### Art. 3
+
+**Définitions**
+
+Les définitions de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers[^3-1] s’appliquent.
+
+[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+
+#### Art. 4
+
+**Réglementations internationales**
+
+<sup>1</sup> S’agissant des actes de l’UE mentionnés dans la présente ordonnance, c’est la version indiquée à l’annexe 2 OETV qui s’applique[^4-1].
+
+<sup>2</sup> Si lesdits actes de l’UE renvoient à des dispositions figurant dans d’autres actes de l’UE ou dans des règlements CEE-ONU[^4-2], les dispositions en question s’appliquent également; à cet égard, la version indiquée à l’annexe 2 OETV est déterminante.
+
+<sup>3</sup> S’agissant de l’application des réglementations internationales mentionnées à l’annexe 2 OETV, les dispositions transitoires desdites réglementations s’appliquent; toutefois, la date de l’importation ou de la construction en Suisse est déterminante pour l’immatriculation.
+
+[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-2]: Les textes des règlements CEE-ONU peuvent être consultés gratuitement sur le site www.unece.org &gt; Our Work &gt; Transport &gt; Vehicle Regulations &gt; UN Regulations (1958 Agreement) &gt; Regulations (Addenda to the 1958 Agreement), ou obtenus contre paiement auprès de l’Office fédéral des routes, division Circulation routière, 3003 Berne.
+
+#### Art. 5
+
+**Classification des véhicules d’après le droit de l’UE et le droit suisse**
+
+L’annexe 1 précise à quelles catégories suisses de véhicules correspondent les catégories européennes de véhicules définies à l’art. 4 du règlement (UE) n<sup>o</sup> 168/2013.
+
+#### Art. 6
+
+**Reconnaissance des réceptions et des certificats délivrés par l’UE**
+
+<sup>1</sup> Les réceptions générales UE, les réceptions partielles UE et les certificats de conformité UE délivrés conformément aux actes de l’UE visés à l’annexe 2 sont reconnus.
+
+<sup>2</sup>
+
+Ne sont pas reconnus les réceptions et les certificats pour:
+
+- a. les véhicules appartenant à un type de véhicule défini à l’art. 42 du règlement (UE) n<sup>o</sup> 168/2013;
+- b. les véhicules utilisables également sur une voie ferrée, sur l’eau ou dans les airs;
+- c. les véhicules spéciaux (art. 25, al. 1, OETV[^6-1]) et les véhicules de travail (art. 13, al. 1, et 22, al. 1, OETV).
+
+[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+#### Art. 7
+
+**Exigences techniques**
+
+<sup>1</sup> L’annexe 3 fixe les exigences techniques applicables aux véhicules visés à l’art. 1, al. 2.
+
+<sup>2</sup>
+
+L’al. 1 ne s’applique pas:
+
+- a. aux véhicules visés à l’art. 2, par. 2, du règlement (UE) n<sup>o</sup> 168/2013;
+- b. aux véhicules utilisables également sur une voie ferrée, sur l’eau ou dans les airs;
+- c. aux véhicules appartenant à un type de véhicule défini à l’art. 42 du règlement (UE) n<sup>o</sup> 168/2013.
+
+#### Art. 8
+
+**Relation avec les exigences techniques visées dans l’OETV**
+
+Pour les véhicules ne bénéficiant pas de réceptions UE au sens de l’art. 6, al. 1, ni de déclarations de conformité idoines du constructeur, les exigences techniques de l’OETV[^8-1] s’appliquent.
+
+[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+#### Art. 9
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 2 septembre 1998 concernant les exigences techniques requises pour les motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur[^9-1] est abrogée.
+
+[^9-1]: [[RO 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487), [2000 2403](https://fedlex.data.admin.ch/eli/oc/2000/383), [2002 3184](https://fedlex.data.admin.ch/eli/oc/2002/474), [2003 1824](https://fedlex.data.admin.ch/eli/oc/2003/272), [2009 5803](https://fedlex.data.admin.ch/eli/oc/2009/699), [2012 1919](https://fedlex.data.admin.ch/eli/oc/2012/264), [2015 509](https://fedlex.data.admin.ch/eli/oc/2015/69)]
+
+#### Art. 10
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 15 janvier 2017.
+
+Annexe 1
+
+(art. 5)
+
+## Classification des véhicules d’après le droit de l’UE et le droit suisse
+
+<table>
+<tr><th>UE</th><th>Suisse</th></tr>
+<tr><td>motocycle à deux roues (L3e)</td><td>motocycle (art. 14, let. a, OETV[^annex1-lvlu1-1])</td></tr>
+<tr><td>motocycle à deux roues avec side-car (L4e)</td><td>motocycle avec side-car (art. 14, let. a, OETV)</td></tr>
+<tr><td>deux-roues motorisé léger (L1e)</td><td>motocycle léger (art. 14, let. b, OETV)</td></tr>
+<tr><td>cyclomoteur à deux roues (L1e-B)</td><td>motocycle léger</td></tr>
+<tr><td>cyclomoteur à trois roues (L2e)</td><td>motocycle léger</td></tr>
+<tr><td>tricycle (L5e-A)</td><td>tricycle à moteur (art. 15, al. 1, OETV)</td></tr>
+<tr><td>tricycle utilitaire (L5e-B)</td><td>tricycle à moteur</td></tr>
+<tr><td>quadricycle léger (L6e)</td><td>quadricycle léger à moteur (art. 15, al. 2, OETV)</td></tr>
+<tr><td>quad routier léger (L6e-A)</td><td>quadricycle léger à moteur</td></tr>
+<tr><td>quadricycle léger (L6e-B)</td><td>quadricycle léger à moteur</td></tr>
+<tr><td>quadricycle lourd (L7e)</td><td>quadricycle à moteur (art. 15, al. 3, OETV)</td></tr>
+<tr><td>quad routier lourd (L7e-A)</td><td>quadricycle à moteur</td></tr>
+<tr><td>quad tout-terrain lourd (L7e-B)</td><td>quadricycle à moteur</td></tr>
+<tr><td>quad tout terrain (L7e-B1)</td><td>quadricycle à moteur</td></tr>
+<tr><td>buggy côte à côte (L7e-B2)</td><td>quadricycle à moteur</td></tr>
+<tr><td>quadrimobile lourd (L7e-C)</td><td>quadricycle à moteur</td></tr>
+<tr><td>vélo à moteur (L1e-A), poids total de 200 kg au max.</td><td>cyclomoteur (art. 18, let. a, OETV) ou cyclomoteur léger (art. 18, let. b, OETV) ou vélo-taxi électrique (art. 14, let. b, ch. 3, OETV)</td></tr>
+<tr><td>vélo à moteur (L1e-A), poids total supérieur à 200 kg</td><td>vélo-taxi électrique (art. 14, let. b, ch. 3, OETV)</td></tr>
+</table>
+
+[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
+Annexe 2
+
+(art. 6, al. 1)
+
+## Reconnaissance des réceptions et des certificats délivrés par l’UE
+
+- 1 Règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles.
+- 2 Règlement d’exécution (UE) n<sup>o</sup> 901/2014 de la Commission du 18 juillet 2014 portant exécution du règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions administratives relatives à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles.
+- 3 Règlement délégué (UE) n<sup>o</sup> 3/2014 de la Commission du 24 octobre 2013 complétant le règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les exigences de sécurité fonctionnelle aux fins de la réception des véhicules à deux ou trois roues et des quadricycles.
+- 4 Règlement délégué (UE) n<sup>o</sup> 44/2014 de la Commission du 21 novembre 2013 complétant le règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne la construction des véhicules et les exigences générales relatives à la réception des véhicules à deux ou trois roues et des quadricycles.
+- 5 Règlement délégué (UE) n<sup>o</sup> 134/2014 de la Commission du 16 décembre 2013 complétant le règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les exigences en matière de performances environnementales et de l’unité de propulsion et modifiant son annexe V.
+
+Annexe 3
+
+(art. 7, al. 1)
+
+## Exigences techniques
+
+- 1 Règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles.
+- 2 Règlement délégué (UE) n<sup>o</sup> 3/2014 de la Commission du 24 octobre 2013 complétant le règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les exigences de sécurité fonctionnelle aux fins de la réception des véhicules à deux ou trois roues et des quadricycles.
+- 3 Règlement délégué (UE) n<sup>o</sup> 44/2014 de la Commission du 21 novembre 2013 complétant le règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne la construction des véhicules et les exigences générales relatives à la réception des véhicules à deux ou trois roues et des quadricycles.
+- 4 Règlement délégué (UE) n<sup>o</sup> 134/2014 de la Commission du 16 décembre 2013 complétant le règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les exigences en matière de performances environnementales et de l’unité de propulsion et modifiant son annexe V.

@@ -1,0 +1,165 @@
+---
+sr: "150.1"
+title: Loi fédérale du 20 mars 2009 sur la Commission de prévention de la torture
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/663"
+language: fr
+version: 2010-01-01
+adopted: 2009-03-20
+in_force: 2010-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/663/20100101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-663-20100101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/663/20100101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur la Commission de prévention de la torture
+
+du 20 mars 2009 (Etat le 1<sup>er</sup> janvier 2010)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 54, al. 1, de la Constitution[^ingress-1], en application du Protocole facultatif du 18 décembre 2002 se rapportant à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants[^ingress-2], vu le message du Conseil fédéral du 8 décembre 2006[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [RS 0.105.1](https://fedlex.data.admin.ch/eli/cc/2009/664)
+[^ingress-3]: [FF 2007 261](https://fedlex.data.admin.ch/eli/fga/2007/45)
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La Confédération instaure une commission de prévention de la torture (commission).
+
+<sup>2</sup> La commission veille à ce que la Suisse respecte les obligations qui lui incombent en vertu de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants[^1-1].
+
+[^1-1]: [RS 0.105](https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307)
+
+#### Art. 2
+
+**Tâches**
+
+La commission a les tâches suivantes:
+
+- a. elle examine régulièrement la situation des personnes qui sont privées de liberté et inspecte régulièrement les lieux où ces personnes se trouvent ou pourraient se trouver;
+- b.
+
+  elle formule des recommandations à l’intention des autorités compétentes afin:
+
+  - 1\. d’améliorer le traitement et la situation des personnes privées de liberté,
+  - 2\. de prévenir la torture et autres peines ou traitements cruels, inhumains ou dégradants;
+
+- c. elle fait des propositions et des observations sur la législation en vigueur ou les projets législatifs en la matière;
+- d. elle rédige un rapport annuel sur ses activités; ce rapport est accessible au public;
+- e. elle assure les contacts avec le Sous-Comité de la prévention et avec le Comité européen pour la prévention de la torture, leur transmet des informations et coordonne ses activités avec les leurs.
+
+#### Art. 3
+
+**Privation de liberté**
+
+Par privation de liberté, on entend au sens de la présente loi toute forme de détention ou d’emprisonnement d’une personne ou son placement dans un établissement public ou privé dont elle n’est pas autorisée à sortir à son gré, sur l’ordre d’une autorité publique, à l’instigation ou avec le consentement de celle-ci.
+
+#### Art. 4
+
+**Statut**
+
+<sup>1</sup> La commission s’acquitte de ses tâches en toute indépendance.
+
+<sup>2</sup> Ses membres exercent leur fonction à titre personnel.
+
+#### Art. 5
+
+**Composition**
+
+<sup>1</sup> La commission compte douze membres.
+
+<sup>2</sup> Elle est composée d’experts disposant des compétences et connaissances professionnelles et personnelles nécessaires, en particulier dans les domaines médical, psychiatrique, juridique et interculturel et en matière de privation de liberté et de visites de lieux de privation de liberté.
+
+<sup>3</sup> Les deux sexes et les régions linguistiques du pays y sont représentés de manière adéquate.
+
+#### Art. 6
+
+**Proposition, nomination et durée de la fonction**
+
+<sup>1</sup> Le Conseil fédéral nomme les membres de la commission sur proposition du Département fédéral de justice et police et du Département fédéral des affaires étrangères.
+
+<sup>2</sup> Les organisations non gouvernementales peuvent proposer des candidats au Département fédéral de justice et police et au Département fédéral des affaires étrangères.
+
+<sup>3</sup> Les membres de la commission sont nommés pour quatre ans. Ils ne peuvent être reconduits plus de deux fois dans leurs fonctions.
+
+#### Art. 7
+
+**Constitution et fonctionnement**
+
+<sup>1</sup> La commission se constitue elle-même.
+
+<sup>2</sup> Elle fixe son organisation et ses méthodes de travail dans un règlement.
+
+<sup>3</sup> Dans les limites de son budget, elle peut recourir aux services d’experts et d’interprètes.
+
+<sup>4</sup> La commission peut disposer d’un secrétariat permanent.
+
+#### Art. 8
+
+**Compétences**
+
+<sup>1</sup>
+
+La commission a accès aux renseignements dont elle a besoin pour accomplir ses tâches, notamment aux informations sur:
+
+- a. le nombre et l’identité des personnes privées de liberté ainsi que le lieu où elles sont retenues;
+- b. le nombre et l’emplacement des lieux de privation de liberté;
+- c. le traitement dont les personnes privées de liberté font l’objet et les conditions de leur privation de liberté.
+
+<sup>2</sup> Elle a accès à tous les lieux de privation de liberté ainsi qu’à leurs installations et équipements. Elle peut visiter ces lieux sans préavis.
+
+<sup>3</sup> Elle peut s’entretenir sans témoins avec toute personne privée de liberté, soit directement, soit par le truchement d’un interprète, ainsi qu’avec toute autre personne susceptible de lui fournir les renseignements dont elle a besoin.
+
+#### Art. 9
+
+**Devoirs des autorités**
+
+<sup>1</sup> Le Conseil fédéral veille à la publication et à la diffusion du rapport d’activités annuel de la commission.
+
+<sup>2</sup> Les autorités compétentes examinent les propositions que la commission leur a adressées et émettent un avis sur leur réalisation.
+
+#### Art. 10
+
+**Protection des données**
+
+<sup>1</sup> La commission est autorisée à traiter des données sensibles et d’autres données personnelles conformément à la loi fédérale du 19 juin 1992 sur la protection des données[^10-1] à condition que l’accomplissement de ses tâches l’exige et que ces données portent sur la situation de personnes privées de liberté ou s’y rapportent.
+
+<sup>2</sup> Aucune donnée personnelle ne peut être communiquée sans que la personne concernée y ait consenti expressément.
+
+[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 11
+
+**Secret de fonction et secret professionnel**
+
+<sup>1</sup> Les membres de la commission et les personnes aux services desquelles la commission recourt sont tenus au secret de fonction en vertu de l’art. 320 du code pénal[^11-1].
+
+<sup>2</sup> La commission peut délier ses membres et les personnes aux services desquelles elle recourt du secret de fonction ou, le cas échéant, du secret professionnel, en vertu de l’art. 321 du code pénal, s’agissant de secrets qui leur ont été confiés en leur qualité de membre de la commission ou qu’ils ont recueillis en cette qualité. En cas d’urgence, le président de la commission décide.
+
+[^11-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12
+
+**Financement**
+
+<sup>1</sup> La Confédération prend à sa charge les ressources nécessaires à la commission pour l’accomplissement de ses tâches.
+
+<sup>2</sup> Les membres de la commission ont droit au remboursement de leurs frais.
+
+<sup>3</sup> Le Conseil fédéral règle le droit à des indemnités.
+
+#### Art. 13
+
+**Disposition transitoire**
+
+Le Conseil fédéral désigne le premier président de la commission.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2010[^13-1]
+
+[^13-1]: ACF du 21 oct. 2009 ([RO 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)5444; [FF 2007 261](https://fedlex.data.admin.ch/eli/fga/2007/45))

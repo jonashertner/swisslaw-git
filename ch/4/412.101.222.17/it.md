@@ -1,0 +1,609 @@
+---
+sr: "412.101.222.17"
+title: Ordinanza della SEFRI del 19 dicembre 2014 sulla formazione professionale di base Orologiaia di produzione/Orologiaio di produzione con attestato federale di capacità (AFC)
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/83"
+language: it
+version: 2018-01-01
+adopted: 2014-12-19
+in_force: 2015-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2015-83-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza della SEFRI sulla formazione professionale di base Orologiaia di produzione/Orologiaio di produzione con attestato federale di capacità (AFC)
+
+del 19 dicembre 2014 (Stato 1° gennaio 2018)
+
+<table>
+<tr><td>49207</td><td>Orologiaia di produzione AFC/Orologiaio di produzione AFC Uhrmacherin Produktion EFZ/ Uhrmacher Produktion EFZ Horlogère de production CFC/horloger de production CFC</td></tr>
+</table>
+
+La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
+
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
+
+ordina:*[^ingress-4]*
+
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-4]: Nuovo testo giusta il n. I 161 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## Sezione 1: Oggetto, durata e tipo di formazione
+
+#### Art. 1
+
+**Profilo professionale**
+
+Gli orologiai di produzione di livello AFC svolgono, in particolare, le seguenti attività e si contraddistinguono per le seguenti conoscenze, capacità e comportamenti:
+
+- a. eseguono operazioni di assemblaggio dei componenti di movimenti meccanici, automatici ed elettronici semplici e con piccole complicazioni e di movimenti cronografici e conoscono le caratteristiche principali dei movimenti più complessi;
+- b. eseguono operazioni di rifinitura e regolazione su diversi calibri;
+- c. eseguono operazioni di posa e incassatura rispettando i requisiti di precisione imposti dal settore;
+- d. fabbricano gli strumenti e gli attrezzi necessari per l’assemblaggio dei vari componenti di un movimento o della parte estetica (*habillage*);
+- e. conoscono la terminologia specifica del settore e individuano con facilità le varie componenti dei movimenti e della parte estetica di un orologio;
+- f. applicano le norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente nel rispetto delle norme tecniche e degli standard di qualità in uso nella professione;
+- g. lavorano nei laboratori di produzione e garantiscono un alto livello di qualità durante le varie fasi di produzione individuando in particolare eventuali difetti estetici, anomalie funzionali e guasti e determinando la fonte del problema;
+- h. rimediano ai difetti, alle anomalie funzionali e ai guasti rilevati nella linea di produzione e sostituiscono i componenti del movimento o della parte estetica;
+- i. assicurano il buon funzionamento delle linee di produzione nel rispetto della procedura di garanzia della qualità in uso nell’azienda.
+
+#### Art. 2
+
+**Durata e inizio**
+
+<sup>1</sup> La formazione professionale di base dura 3 anni.
+
+<sup>2</sup> Ai titolari del certificato federale di formazione pratica di operatore in orologeria CFP può essere convalidato il primo anno della formazione professionale di base.
+
+<sup>3</sup> L’inizio della formazione professionale di base segue il calendario della relativa scuola professionale.
+
+#### Art. 3
+
+**Formazione modulare**
+
+<sup>1</sup> La formazione professionale di base di orologiaio di produzione può essere offerta anche sotto forma di moduli per adulti paralleli all’attività lavorativa.
+
+<sup>2</sup> Sono ammesse alla formazione modulare le persone che all’inizio della formazione hanno almeno 20 anni compiuti.
+
+<sup>3</sup> I moduli per il conseguimento dell’AFC devono essere conclusi entro 5 anni dall’iscrizione al relativo percorso, fatta salva la ripetizione del modulo finale.
+
+## Sezione 2: Obiettivi ed esigenze
+
+#### Art. 4
+
+**Principi**
+
+<sup>1</sup> Gli obiettivi e le esigenze della formazione professionale di base sono espressi sotto forma di competenze operative raggruppate nei relativi campi.
+
+<sup>2</sup> Le competenze operative comprendono competenze professionali, metodologiche, sociali e personali.
+
+<sup>3</sup> Tutti i luoghi di formazione collaborano allo sviluppo delle competenze operative. Essi coordinano i contenuti della formazione e delle procedure di qualificazione.
+
+#### Art. 5
+
+**Competenze operative**
+
+La formazione prevede, nei seguenti campi di competenze operative, le competenze operative qui elencate:
+
+- a.
+
+  realizzazione di strumenti e attrezzi per lavori di orologeria:
+
+  - 1\. scegliere gli strumenti e gli attrezzi,
+  - 2\. eseguire lavorazioni manuali e meccaniche per realizzare strumenti e attrezzi personali,
+  - 3\. realizzare operazioni di lucidatura;
+
+- b.
+
+  assemblaggio di componenti:
+
+  - 1\. assemblare e smontare diversi tipi di movimento semplice meccanico, automatico ed elettronico,
+  - 2\. incassare,
+  - 3\. assemblare e smontare diversi tipi di movimento meccanico ed elettronico con piccole complicazioni,
+  - 4\. assemblare e smontare movimenti cronografici meccanici ed elettronici,
+  - 5\. eseguire misurazioni e controlli funzionali ed estetici;
+
+- c.
+
+  esecuzione di operazioni di rifinitura e regolazione:
+
+  - 1\. eseguire operazioni di rifinitura,
+  - 2\. eseguire regolazioni,
+
+- d.
+
+  Messa a norma dei movimenti e della parte estetica:
+
+  - 1\. eseguire operazioni di revisione o sostituzione di componenti per rimettere a norma un reso di merce,
+  - 2\. mettere a norma i componenti della parte estetica di articoli attuali;
+
+- e.
+
+  partecipazione al processo di produzione:
+
+  - 1\. organizzare il lavoro nell’ambito del processo di produzione,
+  - 2\. redigere e organizzare i documenti informatici;
+
+- f.
+
+  applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente:
+
+  - 1\. garantire la protezione della salute,
+  - 2\. garantire la sicurezza sul lavoro,
+  - 3\. garantire il rispetto dell’ambiente.
+
+## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
+
+#### Art. 6
+
+[^6-1]
+
+<sup>1</sup> All’inizio e durante la formazione gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente, in particolare quelle relative alla comunicazione dei pericoli (simboli di pericolo e di obbligo, pittogrammi).
+
+<sup>2</sup> Dette prescrizioni e raccomandazioni sono fornite in tutti i luoghi di formazione e considerate nelle procedure di qualificazione.
+
+<sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
+
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+
+<sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
+
+[^6-1]: Nuovo testo giusta il n. II 161 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
+
+#### Art. 7
+
+**Formazione professionale pratica in azienda e in luoghi di formazione equivalenti**
+
+La formazione professionale pratica in azienda comprende in media da 3 a 4 giorni alla settimana per tutta la durata della formazione professionale di base.
+
+#### Art. 8
+
+**Scuola professionale**
+
+<sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 1360 lezioni. Dette lezioni sono suddivise secondo la tabella seguente:
+
+<table>
+<tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>3° anno</th><th>Totale</th></tr>
+<tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– realizzazione di strumenti e attrezzi per lavori di orologeria, applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente</td><td>100</td><td>100</td><td>80</td><td>280 (20)</td></tr>
+<tr><td>– assemblaggio di componenti</td><td>220</td><td>150</td><td>–</td><td>370</td></tr>
+<tr><td>– esecuzione di operazioni di rifinitura e regolazione</td><td>–</td><td>60</td><td>30</td><td>90</td></tr>
+<tr><td>– partecipazione al processo di produzione</td><td>40</td><td>50</td><td>50</td><td>140</td></tr>
+<tr><td>Totale</td><td>360</td><td>360</td><td>160</td><td>880</td></tr>
+<tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
+<tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 120</td></tr>
+<tr><td>Totale delle lezioni</td><td>520</td><td>520</td><td>320</td><td>1360</td></tr>
+</table>
+
+<sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
+
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+<sup>4</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
+
+<sup>5</sup> È raccomandato l’insegnamento bilingue nella lingua nazionale locale e in un’altra lingua nazionale o in inglese.
+
+<sup>6</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
+
+[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 9
+
+**Corsi interaziendali**
+
+<sup>1</sup> I corsi interaziendali comprendono 64 giornate di otto ore.
+
+<sup>2</sup>
+
+Le giornate e i contenuti sono ripartiti in 3 corsi come segue:
+
+- a.
+
+  il corso I si tiene nel 1° anno di formazione, comprende 32 giornate e verte sulle seguenti competenze operative:
+
+  - 1\. scegliere gli strumenti e gli attrezzi,
+  - 2\. eseguire lavorazioni manuali e meccaniche per realizzare strumenti e attrezzi personali;
+
+- b. il corso II si tiene durante il 2° anno di formazione, comprende 16 giornate e verte sulla competenza operativa «eseguire operazioni di lucidatura»;
+- c. il corso III si tiene durante il 2° anno di formazione, comprende 16 giorni e verte sulla competenza operativa «eseguire regolazioni».
+
+#### Art. 10
+
+**Formazione modulare**
+
+<sup>1</sup> Nell’ambito della formazione modulare le competenze operative di cui all’articolo 5 sono ripartite in base ai moduli e ai periodi sottoelencati:
+
+<table>
+<tr><td>Moduli</td><td>Formazione professionale pratica</td><td>Conoscenze professionali</td><td>Totale periodi</td></tr>
+<tr><td>[tab] 1. Modulo di base</td><td>260</td><td>190</td><td>450</td></tr>
+<tr><td>[tab] 2. Modulo assemblaggio</td><td>220</td><td>105</td><td>325</td></tr>
+<tr><td>[tab] 3. Modulo posa-incassatura</td><td>205</td><td>75</td><td>280</td></tr>
+<tr><td>[tab] 4. Modulo rifinitura-regolazione</td><td>380</td><td>80</td><td>460</td></tr>
+<tr><td>[tab] 5. Modulo finale</td><td>[tab] 500</td><td>[tab] 425</td><td>[tab] 925</td></tr>
+<tr><td>Totale periodi di formazione</td><td>1565</td><td>875</td><td>2440</td></tr>
+</table>
+
+<sup>2</sup> La ripartizione delle competenze operative all’interno dei moduli è stabilita nel regolamento della formazione modulare del 19 dicembre 2014 emanato dalla *Co**n**vention patronale de l’industrie ho**r**logère suisse*.
+
+<sup>3</sup> Gli obiettivi di valutazione dei corsi interaziendali definiti nel piano di formazione sono ripartiti all’interno dei vari moduli.
+
+<sup>4</sup> I Cantoni sono responsabili dell’organizzazione del modulo sull’insegnamento della cultura generale.
+
+## Sezione 5: Piano di formazione
+
+#### Art. 11
+
+<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione emanato dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+
+<sup>2</sup>
+
+Il piano di formazione:
+
+- a.
+
+  contiene il profilo di qualificazione, che comprende:
+
+  - 1\. il profilo professionale,
+  - 2\. la tabella delle competenze operative e dei relativi campi,
+  - 3\. il livello richiesto per la professione;
+
+- b. riporta i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente e determina quali competenze operative vengono trasmesse e apprese in ciascun luogo di formazione.
+
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. III 32 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## Sezione 6: Requisiti minimi per i formatori e numero massimo di persone in formazione in azienda
+
+#### Art. 12
+
+**Requisiti professionali minimi richiesti ai formatori**
+
+I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+
+- a. attestato federale di capacità di orologiaio di produzione AFC e almeno 3 anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di orologiaio pratico qualificato con almeno 3 anni di esperienza professionale nel campo d’insegnamento;
+- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’orologiaio di produzione AFC e almeno 3 anni di esperienza professionale nel campo d’insegnamento.
+
+#### Art. 13
+
+**Numero massimo di persone in formazione in azienda**
+
+<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
+
+<sup>2</sup> Per ogni altro specialista occupato al 100 per cento o per ogni due specialisti in più occupati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+
+<sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità o di una qualifica equivalente nel campo della persona in formazione.
+
+<sup>4</sup> Nelle aziende che possono impiegare solo una persona in formazione una seconda persona può iniziare il tirocinio quando la prima arriva all’ultimo anno della formazione professionale di base.
+
+<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione nelle aziende di tirocinio che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
+
+#### Art. 14
+
+**Documentazione dell’apprendimento**
+
+<sup>1</sup> Nel corso della formazione professionale pratica la persona in formazione tiene una documentazione dell’apprendimento in cui annota regolarmente i principali lavori eseguiti in relazione alle competenze operative da acquisire.
+
+<sup>2</sup> Il formatore controlla e firma la documentazione dell’apprendimento almeno una volta al semestre. La discute con la persona in formazione almeno una volta al semestre.
+
+#### Art. 15
+
+**Rapporto di formazione**
+
+<sup>1</sup> Alla fine di ogni semestre, il formatore rileva in un rapporto il livello raggiunto dalla persona in formazione. Per farlo si basa sulle prestazioni nella formazione professionale pratica e sui resoconti delle prestazioni nella scuola professionale e nei corsi interaziendali. Discute il rapporto con la persona in formazione.
+
+<sup>2</sup> Se necessario, il formatore e la persona in formazione concordano misure per il raggiungimento degli obiettivi di formazione e fissano apposite scadenze. Le misure e le decisioni adottate vengono messe per iscritto.
+
+<sup>3</sup> Dopo la scadenza prefissata il formatore verifica l’efficacia delle misure concordate e ne riporta l’esito nel successivo rapporto di formazione.
+
+<sup>4</sup> Se gli obiettivi non sono stati raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
+
+#### Art. 16
+
+**Documentazione delle prestazioni nella scuola professionale**
+
+Le scuole professionali documentano le prestazioni delle persone in formazione nei campi di competenze operative in cui è svolto l’insegnamento e nella cultura generale e consegnano alle persone in formazione una pagella alla fine di ogni semestre.
+
+#### Art. 17
+
+**Documentazione delle prestazioni nei corsi interaziendali**
+
+<sup>1</sup> Gli operatori dei corsi interaziendali documentano le prestazioni delle persone in formazione mediante controlli delle competenze per ogni corso interaziendale.
+
+<sup>2</sup> I controlli delle competenze vengono espressi in note. Queste confluiscono nel calcolo della nota dei luoghi di formazione secondo l’articolo 22 capoverso 3.
+
+## Sezione 8: Procedure di qualificazione
+
+#### Art. 18
+
+**Ammissione**
+
+È ammesso alle procedure di qualificazione chi ha assolto la formazione professionale di base:
+
+- a. secondo le disposizioni della presente ordinanza;
+- b. in un istituto di formazione riconosciuto dal Cantone; o
+- c.
+
+  al di fuori di un ciclo di formazione regolamentato, se:
+
+  - 1\. ha maturato l’esperienza professionale di cui all’articolo 32 OFPr,
+  - 2\. di tale esperienza professionale ha svolto almeno 4 anni nel campo dell’orologiaio di produzione AFC, e
+  - 3\. rende verosimile il possesso dei requisiti per la rispettiva procedura di qualificazione.
+
+#### Art. 19
+
+**Oggetto**
+
+Nelle procedure di qualificazione occorre dimostrare di aver acquisito le competenze operative di cui all’articolo 5.
+
+#### Art. 20
+
+**Durata e svolgimento della procedura di qualificazione con esame finale**
+
+<sup>1</sup>
+
+Nella procedura di qualificazione con esame finale vengono esaminate, nel modo indicato, le competenze operative dei seguenti campi di qualificazione:
+
+- a. «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 16 ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali. Il campo di qualificazione comprende i campi di competenze operative sottoelencati con le seguenti ponderazioni:
+
+<table>
+<tr><td>Voce</td><td>Campo di competenze operative</td><td>Ponderazione</td></tr>
+<tr><td>1.</td><td>Assemblaggio di componenti</td><td>30 %</td></tr>
+<tr><td>2.</td><td>Esecuzione di operazioni di rifinitura e regolazione</td><td>20 %</td></tr>
+<tr><td>3.</td><td>Messa a norma dei movimenti e della parte estetica</td><td>30 %</td></tr>
+<tr><td>4.</td><td>Partecipazione al processo di produzione</td><td>20 %</td></tr>
+</table>
+
+- b. «conoscenze professionali», della durata di sei ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. Il campo di qualificazione «conoscenze professionali» comprende i campi di competenze operative e i tipi di esame sottoelencati con le seguenti ponderazioni:
+
+<table>
+<tr><td>Voce</td><td>Campo di competenze operative</td><td colspan="2">Tipo di esame/Durata</td><td>Ponderazione</td></tr>
+<tr><td></td><td></td><td>scritto</td><td>orale</td><td></td></tr>
+<tr><td>1.</td><td>Realizzazione di strumenti e attrezzi per lavori di orologeria</td><td>240 min.</td><td></td><td>40 %</td></tr>
+<tr><td>2.</td><td>Assemblaggio di componenti, esecuzione di operazioni di rifinitura e regolazione</td><td>90 min.</td><td></td><td>40 %</td></tr>
+<tr><td>3.</td><td>Partecipazione al processo di produzione, applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente</td><td>30 min.</td><td></td><td>20 %</td></tr>
+</table>
+
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^20-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+<sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 21
+
+**Durata e svolgimento della procedura di qualificazione della formazione modulare**
+
+<sup>1</sup> Alla fine di ogni modulo è previsto un esame.
+
+<sup>2</sup> I Cantoni organizzano l’esame conclusivo del modulo finale e dei moduli di cultura generale.
+
+<sup>3</sup> Per tutti gli altri esami di fine modulo l’organizzazione è delegata alla *Convention patronale de l’industrie horlogère suisse* su richiesta di quest’ultima in virtù dell’articolo 40 capoverso 2 LFPr.
+
+<sup>4</sup>
+
+Gli esami di fine modulo sono costituiti da:
+
+- a. un lavoro pratico sotto forma di lavoro pratico prestabilito;
+- b. un esame scritto delle conoscenze professionali.
+
+<sup>5</sup> Gli esami di fine modulo sono organizzati come segue:
+
+<table>
+<tr><td>Moduli</td><td>Durata esame lavoro pratico</td><td>Durata esame conoscenze professionali</td></tr>
+<tr><td>1. Modulo di base</td><td>[tab] 5 ore</td><td>[tab] 3 ore</td></tr>
+<tr><td>2. Modulo assemblaggio</td><td>[tab] 6 ore</td><td>[tab] 2 ore</td></tr>
+<tr><td>3. Modulo posa-incassatura</td><td>[tab] 4 ore</td><td>[tab] 1 ora</td></tr>
+<tr><td>4. Modulo rifinitura-regolazione</td><td>[tab] 8 ore</td><td>[tab] 1,5 ore</td></tr>
+<tr><td>5. Modulo finale</td><td>[tab] 8 ore</td><td>[tab] 5 ore</td></tr>
+</table>
+
+#### Art. 22
+
+**Superamento, calcolo e ponderazione delle note nella procedura di qualificazione con esame finale**
+
+<sup>1</sup>
+
+La procedura di qualificazione con esame finale è superata se:
+
+- a. per il campo di qualificazione «lavoro pratico» viene attribuito almeno il 4; e
+- b. la nota complessiva raggiunge almeno il 4.
+
+<sup>2</sup> La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata dei luoghi di formazione.
+
+<sup>3</sup>
+
+Per nota dei luoghi di formazione si intende la media arrotondata a un decimale delle note sottoelencate:
+
+- a. insegnamento professionale;
+- b. corsi interaziendali.
+
+<sup>4</sup> Per nota relativa all’insegnamento professionale si intende la media arrotondata al punto o al mezzo punto della somma delle 6 note delle pagelle semestrali.
+
+<sup>5</sup> Per nota relativa ai corsi interaziendali si intende la media arrotondata al punto o al mezzo punto della somma delle note conseguite nei 3 controlli delle competenze.
+
+<sup>6</sup>
+
+Per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico: 30 per cento;
+- b. conoscenze professionali: 20 per cento;
+- c. cultura generale: 20 per cento;
+- d. nota dei luoghi di formazione: 30 per cento.
+
+#### Art. 23
+
+**Superamento, calcolo e ponderazione delle note nella procedura di qualificazione della formazione modulare**
+
+<sup>1</sup>
+
+La procedura di qualificazione della formazione modulare è superata se:
+
+- a. la nota di ogni modulo, ad eccezione del modulo di cultura generale, raggiunge o supera il 4;
+- b. per il lavoro pratico di ogni modulo viene attribuito almeno il 4; e
+- c. la nota complessiva raggiunge almeno il 4.
+
+<sup>2</sup>
+
+La nota del modulo indica il risultato finale di ogni modulo; essa corrisponde alla media, arrotondata a un decimale, delle 3 note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico: 50 per cento;
+- b. conoscenze professionali: 25 per cento;
+- c. nota relativa all’insegnamento professionale: 25 per cento.
+
+<sup>3</sup> Per nota relativa all’insegnamento professionale di ogni modulo si intende la media arrotondata al punto o al mezzo punto delle note relative all’insegnamento delle conoscenze professionali.
+
+<sup>4</sup>
+
+La nota complessiva, arrotondata a un decimale, è data dalla media, arrotondata a un decimale, delle 4 note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico del modulo finale: 40 per cento;
+- b. conoscenze professionali del modulo finale: 20 per cento;
+- c. note relativa all’insegnamento professionale del modulo finale: 20 per cento;
+- d. cultura generale: 20 per cento.
+
+<sup>5</sup> Per il campo di qualificazione «cultura generale» fa stato l’ordinanza della SEFRI del 27 aprile 2006[^23-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
+[^23-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 24
+
+**Ripetizioni della procedura di qualificazione con esame finale**
+
+<sup>1</sup> La ripetizione della procedura di qualificazione è disciplinata dall’articolo 33 OFPr.
+
+<sup>2</sup> Qualora si debba ripetere un campo di qualificazione, esso va ripetuto interamente.
+
+<sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente l’insegnamento professionale, resta valida la nota relativa all’insegnamento professionale conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento professionale, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
+
+<sup>4</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato solo le nuove note.
+
+#### Art. 25
+
+**Ripetizioni della procedura di qualificazione nella formazione modulare**
+
+<sup>1</sup> La ripetizione della procedura di qualificazione è disciplinata dall’articolo 33 OFPr.
+
+<sup>2</sup> Qualora si debba ripetere il lavoro pratico di un modulo, esso va ripetuto interamente.
+
+<sup>3</sup> Qualora si debba ripetere l’esame delle conoscenze professionali di un modulo, esso va ripetuto interamente.
+
+<sup>4</sup> Qualora si ripeta l’esame di un modulo senza frequentare nuovamente l’insegnamento professionale, resta valida la nota relativa all’insegnamento professionale conseguita in precedenza. Se si ripete l’insegnamento professionale, fanno stato solo le nuove note.
+
+#### Art. 26
+
+**Caso particolare**
+
+<sup>1</sup> Per le persone che hanno assolto la formazione al di fuori di un ciclo di formazione regolamentato e che hanno sostenuto l’esame finale secondo la presente ordinanza viene meno la nota dei luoghi di formazione.
+
+<sup>2</sup>
+
+Per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+
+- a. lavoro pratico: 40 per cento;
+- b. conoscenze professionali: 40 per cento;
+- c. cultura generale: 20 per cento.
+
+## Sezione 9: Attestazioni e titolo
+
+#### Art. 27
+
+<sup>1</sup> Chi ha superato la procedura di qualificazione consegue l’attestato federale di capacità (AFC).
+
+<sup>2</sup> L’attestato federale di capacità conferisce il diritto di avvalersi del titolo legalmente protetto di «orologiaia di produzione AFC»/«orologiaio di produzione AFC».
+
+<sup>3</sup>
+
+Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:
+
+- a. la nota complessiva;
+- b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 26 capoverso 1, la nota dei luoghi di formazione.
+
+<sup>4</sup>
+
+Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione per la formazione modulare, nel certificato delle note sono riportate:
+
+- a. la nota complessiva;
+- b. le 4 note del modulo finale e la nota relativa all’insegnamento professionale di cui all’articolo 23 capoverso 4.
+
+## Sezione 10: Sviluppo della qualità e organizzazione
+
+#### Art. 28
+
+**Commissione svizzera per lo sviluppo professionale e la qualità della formazione del settore dell’orologeria**
+
+<sup>1</sup>
+
+La Commissione svizzera per lo sviluppo professionale e la qualità della formazione del settore dell’orologeria è composta da:
+
+- a. 8–9 rappresentanti della *Convention patronale de l’industrie horlogère* *sui**s**se* (CP);
+- b. almeno 3 rappresentanti dei docenti di materie professionali;
+- c. almeno un rappresentante della Confederazione e uno dei Cantoni.
+
+<sup>2</sup> Le regioni linguistiche sono adeguatamente rappresentate.
+
+<sup>3</sup> Gli orientamenti delle professioni che fanno parte della commissione sono rappresentati.
+
+<sup>4</sup> La commissione si autocostituisce.
+
+<sup>5</sup>
+
+Essa svolge in particolare i seguenti compiti:
+
+- a. verifica costantemente, ma almeno ogni cinque anni, l’ordinanza sulla formazione professionale di base e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici. Nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. chiede alla competente organizzazione del mondo del lavoro di presentare alla SEFRI una domanda di modifica dell’ordinanza sulla formazione professionale di base, qualora gli sviluppi osservati lo rendano necessario;
+- c. chiede all’organizzazione del mondo del lavoro l’adeguamento del piano di formazione, qualora gli sviluppi osservati lo rendano necessario;
+- d. esprime un parere riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
+- e. esprime un parere riguardo agli strumenti per la promozione della qualità della formazione professionale di base, in particolare sulle disposizioni esecutive concernenti le procedure di qualificazione.
+
+#### Art. 29
+
+**Organizzazione e responsabili dei corsi interaziendali**
+
+- [tab] <sup>1</sup> È responsabile dei corsi interaziendali la *Convention patronale de l’industrie horl**o**gère suisse* (CP).
+- [tab] <sup>2</sup> In collaborazione con le organizzazioni del mondo del lavoro competenti, i Cantoni possono delegare a un altro ente responsabile lo svolgimento dei corsi interaziendali, in particolare se non sono più garantiti la qualità o lo svolgimento degli stessi.
+- [tab] <sup>3</sup> I Cantoni disciplinano con l’ente responsabile l’organizzazione e lo svolgimento dei corsi interaziendali.
+- [tab] <sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
+
+## Sezione 11: Disposizioni finali
+
+#### Art. 30
+
+**Abrogazione di altri atti normativi**
+
+<sup>1</sup>
+
+Sono abrogati:
+
+- a. il regolamento del 23 febbraio 2001[^30-1] concernente il tirocinio e l’esame finale di tirocinio – orologiaio pratico/orologiaia pratica;
+- b. il programma d’insegnamento professionale del 23 febbraio 2001[^30-2] – orologiaio pratico/orologiaia pratica;
+- c. il regolamento di formazione provvisorio per adulti del 26 marzo 2002 secondo un sistema di formazione modulare;
+- d. il programma d’insegnamento professionale per adulti del 26 marzo 2002 secondo un sistema di formazione modulare.
+
+<sup>2</sup> È revocata l’approvazione del regolamento del 4 aprile 2001 concernente i corsi d’introduzione per orologiai pratici.
+
+[^30-1]: [FF 2001 1321](https://fedlex.data.admin.ch/eli/fga/2001/363)
+[^30-2]: [FF 2001 1321](https://fedlex.data.admin.ch/eli/fga/2001/363)
+
+#### Art. 31
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di orologiaio pratico prima del 1° marzo 2015 la portano a termine in base al diritto anteriore.
+
+<sup>2</sup> Chi ripete la procedura di qualificazione con esame finale per orologiaio pratico entro il 31 dicembre 2019 viene valutato, su richiesta, in base al diritto anteriore.
+
+#### Art. 32
+
+**Entrata in vigore**
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° marzo 2015.
+
+<sup>2</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 18–27) entrano in vigore il 1° gennaio 2018.

@@ -1,0 +1,705 @@
+---
+sr: "514.511"
+title: Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)
+short: OMG
+eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
+language: fr
+version: 2015-10-01
+adopted: 1998-02-25
+in_force: 1998-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20151001/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20151001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le matériel de guerre
+
+(OMG)
+
+du 25 février 1998 (Etat le 1<sup>er</sup> octobre 2015)
+
+Le Conseil fédéral suisse,
+
+vu la loi du 13 décembre 1996 sur le matériel de guerre (LFMG)[^ingress-1], vu l’art. 150*a*, al. 2, let. c, de la loi du 3 février 1995 sur l’armée et l’administration militaire[^ingress-2], vu l’art. 43 de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3],[^ingress-4]
+
+arrête:
+
+[^ingress-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> La présente ordonnance règle les autorisations initiales et les autorisations spécifiques que requièrent le commerce, le courtage, l’importation, l’exportation et le transit de matériel de guerre, ainsi que la conclusion de contrats de transfert de biens immatériels, dont le savoir-faire, et la concession de droits y afférents.[^1-1]
+
+<sup>2</sup> L’ordonnance s’applique sur le territoire douanier suisse, dans les entrepôts douaniers ouverts suisses, dans les entrepôts suisses de marchandises de grande consommation, dans les dépôts francs sous douane suisses ainsi que dans les enclaves douanières suisses.[^1-2]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^1-2]: Nouvelle teneur selon le ch. 10 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+
+#### Art. 2
+
+**Matériel de guerre**
+
+### (art. 5 LFMG)
+
+Sont réputés matériel de guerre les biens énumérés dans l’annexe 1.
+
+## Section 2 Autorisations initiales
+
+#### Art. 3
+
+**Demande**
+
+### (art. 9 LFMG)
+
+Il faut joindre à la demande d’obtention d’une autorisation initiale:
+
+- a. une liste du matériel de guerre qui fait l’objet de la demande d’autorisation;
+- b.[^3-1] ...
+- c. un extrait du registre du commerce;
+- d. un extrait du rôle des contributions;
+- e. un extrait du registre des poursuites;
+- f. pour les personnes physiques, une attestation de domicile.
+
+[^3-1]: Abrogé par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+#### Art. 4
+
+**Retrait et révocation**
+
+### (art. 11 LFMG)
+
+<sup>1</sup> L’autorisation initiale de fabriquer du matériel de guerre est retirée s’il n’en a pas été fait usage pendant cinq ans.
+
+<sup>2</sup> L’autorisation initiale de pratiquer le commerce ou le courtage est retirée s’il n’en a pas été fait usage pendant trois ans.
+
+<sup>3</sup> Si une autorisation initiale est révoquée, retirée, ou devient caduque pour toute autre raison, le matériel de guerre qui se trouve encore chez le titulaire de l’autorisation est réalisé ou liquidé sous la surveillance de l’autorité compétente en matière d’autorisation.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+## Section 3 Autorisations spécifiques
+
+#### Art. 5
+
+**Critères d’autorisation pour les marchés passés avec l’étranger**
+
+### (art. 22 LFMG)
+
+<sup>1</sup>
+
+L’autorisation concernant les marchés passés avec l’étranger et la conclusion de contrats aux termes de l’art. 20 LFMG doit reposer sur les considérations suivantes:
+
+- a. le maintien de la paix, de la sécurité internationale et de la stabilité régionale;
+- b.[^5-1] la situation qui prévaut dans le pays de destination; il faut tenir compte notamment du respect des droits de l’homme et de la renonciation à utiliser des enfants-soldats;
+- c.[^5-2] les efforts déployés par la Suisse dans le domaine de la coopération au développement,en particulier l’éventualité que le pays de destination figure parmi les pays les moins avancés sur la liste en vigueur des pays bénéficiaires de l’aide publique au développement établie par le Comité d’aide au développement de l’Organisation de coopération et de développement économiques[^5-3];
+- d. l’attitude du pays de destination envers la communauté internationale, notamment sous l’angle du respect du droit international public;
+- e. la conduite adoptée par les pays qui, comme la Suisse, sont affiliés aux régimes internationaux de contrôle des exportations.
+
+<sup>2</sup>
+
+L’autorisation concernant les marchés passés avec l’étranger et la conclusion de contrats aux termes de l’art. 20 LFMG n’est pas accordée:
+
+- a. si le pays de destination est impliqué dans un conflit armé interne ou international;
+- b. si le pays de destination viole systématiquement et gravement les droits de l’homme;
+- c.[^5-4] ...
+- d.[^5-5] s’il y a de forts risques que, dans le pays de destination, le matériel de guerre à exporter soit utilisé contre la population civile; ou
+- e.[^5-6] s’il y a de forts risques que, dans le pays de destination, le matériel de guerre à exporter soit transmis à un destinataire final non souhaité.[^5-7]
+
+<sup>3</sup> En dérogation aux al. 1 et 2, une autorisation peut être accordée pour des armes individuelles de la catégorie KM 1 répertoriées dans l’annexe 1 et pour leurs munitions, lorsqu’elles sont destinées exclusivement à un usage privé ou sportif.[^5-8]
+
+<sup>4</sup> Par dérogation à l’al. 2, let. b, une autorisation peut être accordée si le risque est faible que le matériel de guerre à exporter soit utilisé pour commettre des violations graves des droits de l’homme.[^5-9]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-3]: La liste établie par le Comité d’aide au développement de l’OCDE peut être consultée en ligne à l’adresse suivante: www.ocde.org
+[^5-4]: Abrogée par le ch. I de l’O du 19 sept. 2014, avec effet au 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-7]: Introduit par le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^5-8]: Introduit par le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^5-9]: Introduit par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+
+#### Art. 5a
+
+**Déclaration de non-réexportation**[^5a-1]
+
+### (art. 18 LFMG)
+
+<sup>1</sup> Pour autoriser l’exportation de produits finis ainsi que de pièces détachées ou d’éléments d’assemblage destinés à un gouvernement étranger ou à une entreprise travaillant pour un tel gouvernement, une déclaration de non-réexportation du gouvernement du pays de destination est requise. Cette déclaration n’est pas exigée s’il s’agit de pièces détachées ou d’éléments d’assemblage de faible valeur.
+
+<sup>2</sup> En signant la déclaration de non-réexportation, le pays de destination s’engage à ne pas exporter, vendre, prêter, offrir le matériel de guerre ni à le céder d’une autre manière à des tiers sans l’accord des autorités compétentes en matière d’autorisation.
+
+<sup>3</sup> S’il y a des risques accrus que, dans le pays de destination, le matériel de guerre à exporter soit transmis à un destinataire final non souhaité, l’autorité compétente en matière d’autorisation peut exiger le droit de pouvoir vérifier sur place si la déclaration de non-réexportation est respectée. Pour les exportations volumineuses, la déclaration de non-réexportation doit revêtir la forme d’une note diplomatique du pays de destination.
+
+<sup>4</sup> S’il y a lieu de soupçonner une violation d’une déclaration de non-réexportation, l’autorité compétente en matière d’autorisation peut prendre des mesures provisionnelles. Le Département fédéral de l’économie décide de la levée de celles-ci.
+
+[^5a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5533](https://fedlex.data.admin.ch/eli/oc/2012/639)).
+
+#### Art. 5b
+
+**Exportations destinées à des services non gouvernementaux**[^5b-1]
+
+### (art. 18 LFMG)
+
+Quiconque veut exporter du matériel de guerre vers un destinataire autre qu’un gouvernement étranger ou une entreprise travaillant pour le compte de celui-ci doit, lorsqu’il dépose la demande d’exportation, prouver l’existence de l’autorisation d’importation requise du pays de destination final ou le fait que cette autorisation n’est pas nécessaire.
+
+[^5b-1]: Anciennement art. 5*a*. Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+#### Art. 5c
+
+**Autorisation de transit dans l’espace aérien d’aéronefs civils transportant du matériel de guerre**[^5c-1]
+
+### (art. 17, al. 3, et 22 LFMG)
+
+<sup>1</sup> Le transit dans l’espace aérien d’aéronefs civils transportant du matériel de guerre est autorisé si cette activité ne contrevient pas au droit international et n’est pas contraire aux principes de la politique étrangère de la Suisse et à ses obligations internationales.
+
+<sup>2</sup> Lors de l’examen de l’autorisation, l’autorité compétente tient également compte des critères énoncés à l’art. 5.
+
+[^5c-1]: Introduit par le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+
+#### Art. 6
+
+**Autorisation de courtage ou de commerce**[^6-1]
+
+### (art. 15 et 16, respectivement 16*a* et 16*b*, LFMG)
+
+<sup>1</sup> Quiconque fabrique en Suisse du matériel de guerre dans ses propres ateliers de production ne peut en faire le courtage ou le commerce à l’étranger sans autorisation spécifique que s’il est au bénéfice d’une autorisation initiale de courtage ou de commerce de produits analogues, fabriqués dans ses ateliers de production.
+
+<sup>2</sup> Le courtage ou le commerce de matériel de guerre à destination des pays mentionnés dans l’annexe 2 ne requièrent aucune autorisation spécifique; les commerçants et courtiers professionnels doivent toutefois être au bénéfice d’une autorisation initiale.
+
+<sup>3</sup> Dans les cas visés aux art. 15, al. 3, ou 16*a*, al. 3, LFMG, les al. 1 et 2 sont applicables par analogie; dans les cas où des autorisations spécifiques sont requises, il faut, lors du dépôt de chaque demande d’autorisation, apporter la preuve de l’existence d’une autorisation de faire le commerce des armes.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+#### Art. 6a
+
+**Renonciation aux autorisations d’exportation et de transit**[^6a-1]
+
+### (art. 17 LFMG)
+
+<sup>1</sup> Aucune autorisation de transit n’est requise pour les personnes voyageant par avion qui transitent par la Suisse avec, dans leurs bagages, des armes à feu pour leur usage personnel, ainsi que leurs composants et accessoires, leurs munitions et composants de munitions, pour autant que ces biens ne quittent pas la zone de transit de l’aéroport. Cette règle s’applique par analogie aux bagages envoyés d’avance ou que l’on fait suivre.
+
+<sup>2</sup> Aucune autorisation de transit n’est requise pour les personnes qui veulent faire transiter par la Suisse des armes à feu leurs composants, accessoires, munitions ou composants de munitions avec un document de suivi d’un État lié par l’un des accords d’association à Schengen (État Schengen) vers un autre État Schengen.
+
+<sup>3</sup> Aucune autorisation d’exportation n’est requise pour les personnes qui veulent exporter à titre non professionnel des armes à feu leurs composants, accessoires, munitions ou composants de munitions vers un autre État Schengen.
+
+<sup>4</sup> Les accords d’association à Schengen sont mentionnés à l’annexe 3.
+
+[^6a-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Nouvelle teneur selon le ch. II 2 de l’annexe 4 à l’O du 2 juil. 2008 sur les armes, en vigueur depuis le 12 déc. 2008 ([RO 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+
+#### Art. 7
+
+**Autorisation de transférer des biens immatériels ou de concéder des droits y afférents**
+
+### (art. 20 et 21 LFMG)
+
+La conclusion de contrats concernant le transfert de biens immatériels, dont le savoir-faire en matière de matériel de guerre, ou la concession de droits y afférents ne requièrent pas d’autorisation spécifique, quand ces biens sont destinés aux États énumérés dans l’annexe 2.
+
+#### Art. 8
+
+**Représentations diplomatiques ou consulaires et organisations internationales**
+
+Les fournitures en provenance de représentations diplomatiques ou consulaires, ou d’organisations internationales sises en Suisse et dans la Principauté de Liechtenstein sont assimilées à des importations; les fournitures qui leur sont destinées, à des exportations.
+
+#### Art. 9
+
+**Allégements relatifs à l’exportation temporaire et au transit**[^9-1]
+
+<sup>1</sup>
+
+Les personnes des catégories suivantes n’ont besoin d’aucune autorisation pour exporter temporairement et faire transiter des armes à feu et leurs munitions:
+
+- a. les personnes en transit, si lesdites armes sont inscrites sur la carte européenne d’arme à feu;
+- b. les tireurs et les chasseurs, lorsqu’ils rendent plausible le fait qu’ils participeront à un concours de tir, à des tirs d’entraînement, à une formation ou à une chasse à l’étranger, et qu’ils réimporteront ensuite lesdites armes;
+- c. les agents de sécurité mandatés par des États étrangers, lorsqu’ils accompagnent des visites officielles annoncées qui transitent par la Suisse;
+- d. les agents de sécurité mandatés par la Suisse lorsqu’ils accompagnent des visites officielles à l’étranger annoncées, s’ils réimportent ensuite lesdites armes;
+- e. les membres des organes de police et des douanes étrangers qui transitent par la Suisse pour des raisons professionnelles ou de formation;
+- f. les membres des corps de police suisses et les collaborateurs de l’Administration fédérale des douanes, lorsqu’ils se rendent à l’étranger pour des raisons professionnelles ou de formation, s’ils réimportent ensuite lesdites armes;
+- g. les gardes de sûreté du trafic aérien qui accompagnent les vols avec passagers à destination de l’étranger;
+- h. les gardes de sûreté du trafic aérien qui accompagnent les vols avec passagers à destination de la Suisse ou transitant par la Suisse, pour autant que les armes ne quittent pas la zone de transit de l’aéroport.
+
+<sup>2</sup> L’importation et la réexportation d’armes à feu et de leurs munitions par des personnes des catégories visées à l’al. 1 sont régies par la législation sur les armes.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+
+#### Art. 9a
+
+[^9a-1]
+
+[^9a-1]: Introduit par l’art. 50 ch. 3 de l’O du 21 sept. 1998 sur les armes, dans la teneur du 16 mars 2001 ([RO 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogé par le ch. I de l’O du 27 août 2008, avec effet au 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+
+#### Art. 9b
+
+**Procédures simplifiées pour les agents de sécurité accompagnant des transports de valeurs ou des personnes**[^9b-1]
+
+<sup>1</sup> Les agents de sécurité accompagnant des transports de valeurs ou des personnes n’ont besoin, pour exporter, réimporter ou faire transiter des armes à feu[^9b-2] ainsi que les munitions afférentes dans le cadre de leur activité d’agent de sécurité, que d’une autorisation par arme, munitions comprises. Cette autorisation, valable une année, permet des passages répétés de la frontière.
+
+<sup>2</sup> L’importation et la réexportation d’armes à feu ainsi que les munitions afférentes dans le cadre de cette activité sont réglementées par la législation sur les armes.
+
+[^9b-1]: Introduit par l’art. 50 ch. 3 de l’O du 21 sept. 1998 sur les armes, dans la teneur du 16 mars 2001 ([RO 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9b-2]: Nouvelle expression selon le ch. II 2 de l’annexe 4 à l’O du 2 juil. 2008 sur les armes, en vigueur depuis le 12 déc. 2008 ([RO 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 9c
+
+**Procédures simplifiées en cas de réparation, d’exposition, de démonstration ou d’évaluation**[^9c-1]
+
+<sup>1</sup> L’autorisation d’exportation délivrée pour du matériel de guerre exporté temporairement pour être réparé, exposé, évalué ou servir à une démonstration, est également valable pour sa réimportation.
+
+<sup>2</sup> L’al. 1 s’applique par analogie au matériel de guerre importé temporairement pour être exposé, évalué ou servir à une démonstration.
+
+<sup>3</sup> Pour le matériel de guerre qui est également compris dans le champ d’application de la loi du 20 juin 1997 sur les armes[^9c-2], les dispositions de la législation sur les armes sont réservées.
+
+[^9c-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9c-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+#### Art. 9d
+
+**Allégements relatifs à la formation et aux engagements internationaux de troupes**[^9d-1]
+
+<sup>1</sup> Les troupes suisses et les personnes qui y sont incorporées n’ont besoin d’aucune autorisation pour exporter ou réimporter le matériel de guerre qu’elles emportent avec elles à l’étranger lors de leurs engagements internationaux ou à des fins d’instruction.
+
+<sup>2</sup> Les troupes étrangères et les personnes qui y sont incorporées, qui viennent en Suisse à des fins d’instruction, n’ont besoin d’aucune autorisation pour importer ou réexporter le matériel de guerre nécessaire à ladite instruction.
+
+<sup>3</sup> Les troupes étrangères et les personnes qui y sont incorporées n’ont besoin d’aucune autorisation pour faire transiter par la Suisse le matériel de guerre nécessaire à des cours d’instruction dans des États tiers ou à des engagements internationaux, pour autant que des troupes suisses ou des personnes qui y sont incorporées participent également à ces cours d’instruction ou à ces engagements internationaux.
+
+<sup>4</sup> Pour le matériel qui est également compris dans le champ d’application de la loi du 20 juin 1997 sur les armes[^9d-2], les dispositions de la législation sur les armes sont réservées.
+
+[^9d-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+#### Art. 9e
+
+**Procédures simplifiées en matière d’importation et de transit**[^9e-1]
+
+<sup>1</sup> Les fabricants au bénéfice d’une autorisation initiale peuvent demander une licence générale d’importation (LGI) pour importer des pièces détachées, des éléments d’assemblage ou des pièces anonymes de matériel de guerre au sens de l’art. 18, al. 2, LFMG, pour autant qu’il ne s’agisse pas de pièces qui relèvent également du champ d’application de la loi du 20 juin 1997 sur les armes[^9e-2]. Une autorisation spécifique est nécessaire dans chaque cas pour importer temporairement du matériel de guerre de ce type avec le carnet ATA ou dans le cadre d’une procédure d’admission temporaire. [^9e-3]
+
+<sup>2</sup> Les personnes au bénéfice d’une autorisation initiale ainsi que les entreprises de transport et les transitaires ayant leur siège ou un établissement en Suisse peuvent demander une licence générale de transit (LGT) pour faire transiter du matériel de guerre vers les pays de destination finals mentionnés à l’annexe 2. [^9e-4]
+
+<sup>3</sup> L’autorité compétente en matière d’autorisation peut demander à n’importe quel moment aux bénéficiaires d’une autorisation des renseignements sur le genre, la quantité, les données relatives au placement sous régime douanier et la destination finale des biens qui sont ou ont été importés, transitent ou ont transité au moyen d’une LGI ou d’une LGT; l’obligation de renseigner s’éteint dix ans après le placement sous régime douanier.[^9e-5]
+
+<sup>4</sup> L’autorité compétente en matière d’autorisation refuse d’octroyer une LGI ou une LGT si la personne physique ou morale, ou les organes de cette dernière, ont été condamnés durant les deux ans précédant le dépôt de la demande pour infraction à la LFMG, à la loi du 13 décembre 1996 sur le contrôle des biens[^9e-6] ou à la loi du 20 juin 1997 sur les armes. Elle refuse une LGI si elle a des motifs de le faire aux termes de l’art. 24 LFMG.
+
+<sup>5</sup> Le cas échéant, la LGI ou la LGT est refusée pour une année; dans des cas fondés, cette durée peut être ramenée à six mois.
+
+[^9e-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9e-3]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9e-4]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^9e-5]: Nouvelle teneur selon le ch. 10 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+
+## Section 4 Certificats d’importation
+
+#### Art. 10
+
+**Certificat d’importation**
+
+<sup>1</sup> Le Secrétariat d’État à l’économie (SECO) établit, sur demande écrite de l’importateur de matériel de guerre, un certificat d’importation officiel, en complément de l’autorisation d’importer, si
+
+- a. l’État fournisseur du matériel de guerre le demande expressément; et
+- b.[^10-1] le requérant est domicilié ou établi en Suisse ou au Liechtenstein.
+
+<sup>2</sup> Il peut subordonner l’octroi de certificats d’importation à la présentation de preuves relatives à l’importation envisagée (copies de commandes, etc.) et à l’utilisation finale du matériel de guerre.
+
+<sup>3</sup> Il surveille l’importation des biens pour lesquels il a établi ces certificats.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+#### Art. 11
+
+**Charges**
+
+<sup>1</sup> L’importateur doit importer dans les six mois à compter de la date d’établissement du certificat d’importation le matériel de guerre pour lequel il a requis ce certificat. Ce délai peut être prolongé sur demande écrite dûment motivée.
+
+<sup>2</sup> Il doit prouver au SECO, au moyen de l’original de la décision de taxation douanière et des factures pertinentes du fournisseur, que l’importation a bien eu lieu. La preuve doit être apportée dès réception de l’original de la décision de taxation douanière. Les procédures d’admission temporaire en Suisse telles que celle du carnet ATA ne sont pas assimilées à un placement sous régime douanier.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. 10 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+
+#### Art. 12
+
+**Certificats d’importation inutilisés ou partiellement utilisés**
+
+<sup>1</sup> Si le matériel de guerre à propos duquel un certificat d’importation a été délivré n’est pas importé en Suisse, le certificat doit être retourné au SECO[^12-1].
+
+<sup>2</sup> Si le certificat d’importation ne peut plus être rétrocédé par l’autorité étrangère, ou si une partie seulement du matériel de guerre annoncé est réellement importée, l’importateur doit en aviser le SECO par écrit, avant l’échéance du délai d’importation.
+
+[^12-1]: Nouvelle dénomination selon l’art. 21 ch. 4 de l’O du 17 nov. 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Il a été tenu compte de cette mod. dans tout le texte.
+
+## Section 5 Procédure d’autorisation
+
+#### Art. 13
+
+**Autorité compétente en matière d’autorisation**
+
+<sup>1</sup> L’autorité habilitée à délivrer les autorisations est le SECO, sous réserve de l’al. 3.[^13-1]
+
+<sup>2</sup> ...[^13-2]
+
+<sup>2bis</sup> ...[^13-3]
+
+<sup>3</sup> La compétence en matière de transit d’aéronefs militaires et d’autres aéronefs d’État étrangers est régie par l’ordonnance du 23 mars 2005 sur la sauvegarde de la souveraineté sur l’espace aérien[^13-4].[^13-5]
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-2]: Abrogé par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-3]: Introduit par l’art. 50 ch. 3 de l’O du 21 sept. 1998 sur les armes, dans la teneur du 16 mars 2001 ([RO 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogé par le ch. I de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-4]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-5]: Nouvelle teneur selon le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+
+#### Art. 14
+
+**Procédure**
+
+### (art. 29 LFMG)
+
+<sup>1</sup> Le SECO se prononce sur les demandes d’octroi d’une autorisation initiale, après avoir consulté le Service de renseignement de la Confédération (SRC).[^14-1]
+
+<sup>2</sup>
+
+Le SECO se prononce, en accord avec les services compétents du Département fédéral des affaires étrangères (DFAE), sur les demandes d’autorisation concernant les marchés passés avec l’étranger aux termes de l’art. 22 LFMG et la conclusion de contrats aux termes de l’art. 20 LFMG. En outre, la décision du SECO se prend en accord avec:[^14-2]
+
+- a. les services compétents du Département fédéral de la défense, de la protection de la population et des sports (DDPS), si des intérêts de politique de sécurité ou d’armement sont en jeu;
+- b. l’Office fédéral de l’énergie (OFEN), si le secteur nucléaire est concerné;
+- c.[^14-3] l’Office fédéral de l’aviation civile et les services compétents du DDPS pour les transits dans l’espace aérien d’aéronefs civils transportant du matériel de guerre.
+
+<sup>2bis</sup> Le SECO consulte le SRC lorsque les procédures d’autorisation sont importantes. [^14-4]
+
+<sup>3</sup> Les services intéressés déterminent les demandes dont la portée sur le plan de la politique extérieure ou de la politique de sécurité est considérable aux termes de l’art. 29, al. 2, LFMG, et qui doivent par conséquent être soumises pour décision au Conseil fédéral.[^14-5]
+
+<sup>4</sup> Si les services intéressés ne peuvent se mettre d’accord sur le traitement d’une demande aux termes des al. 2 ou 3, celle-ci est soumise pour décision au Conseil fédéral.
+
+<sup>5</sup> Dans les cas d’importance mineure ou s’il existe des précédents, les services intéressés peuvent renoncer à traiter les demandes en commun et autoriser le SECO à prendre seul la décision.
+
+[^14-1]: Nouvelle teneur selon le ch. II 20 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^14-3]: Introduite par le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^14-4]: Introduit par le ch. I de l’O du 27 août 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)). Nouvelle teneur selon le ch. II 20 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^14-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+#### Art. 15
+
+**Interdiction de céder les autorisations et durée de validité**[^15-1]
+
+<sup>1</sup> Les autorisations initiales, les licences générales et les autorisations spécifiques sont incessibles.
+
+<sup>2</sup> Les autorisations d’importation, d’exportation et de transit sont valables une année; elles peuvent être prolongées de six mois au plus.
+
+<sup>3</sup> Les licences générales d’importation et les licences générales de transit sont valables deux ans. Si elles ont été établies sur la base d’une autorisation initiale, elles deviennent caduques lorsque cette autorisation arrive à échéance.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+#### Art. 16
+
+**Placement sous régime douanier**[^16-1]
+
+Le placement sous régime douanier effectué lors d’une importation, d’une exportation ou d’un transit est régi par les dispositions de la législation douanière.
+
+[^16-1]: Nouvelle teneur selon le ch. 10 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+
+## Section 6 Contrôle et mesures administratives
+
+#### Art. 17
+
+**Obligation de tenir des registres**
+
+<sup>1</sup>
+
+La fabrication, l’achat, la vente, le courtage ou toute autre forme de commerce de matériel de guerre, de même que la conclusion de contrats aux termes de l’art. 20 LFMG, doivent être consignés dans des registres. À n’importe quel moment, les registres doivent fournir les renseignements suivants:
+
+- a. les entrées, les sorties, l’état des stocks de matériel de guerre;
+- b. les noms et adresses des fournisseurs, des acheteurs et des parties aux contrats;
+- c. les dates et les objets des transactions commerciales.
+
+<sup>2</sup>
+
+Les documents suivants doivent pouvoir être présentés pendant dix ans au titre de justificatifs comptables:
+
+- a. les factures des fournisseurs;
+- b. le double des factures adressées aux acheteurs et aux parties aux contrats; les reçus signés par les acheteurs de la marchandise dans les cas de paiement comptant;
+- c. les contrats portant sur des transactions de biens immatériels, dont le savoir-faire, en matière de matériel de guerre;
+- d.[^17-1] les documents de transport y compris les données sur les pays de transit.
+
+[^17-1]: Introduite par le ch. 2 de l’appendice 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 18
+
+**Devoir de diligence**
+
+Celui qui est astreint à tenir les registres doit, avant de remettre le matériel ou de transférer les biens immatériels, dont le savoir-faire, s’assurer, sur présentation d’une pièce d’identité officielle, des noms, qualités et adresse de l’acquéreur ou de l’autre partie au contrat, si celui-ci ne lui est pas connu.
+
+#### Art. 19
+
+**Contrôles**
+
+<sup>1</sup> Le SECO procède aux contrôles.
+
+<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.[^19-1]
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+
+#### Art. 20
+
+**Examen par l’Office central chargé de lutter contre les transactions illégales de matériel de guerre**[^20-1]
+
+L’Office central chargé de lutter contre les transactions illégales de matériel de guerre doit notamment vérifier si les livraisons de matériel de guerre sont arrivées aux lieux de destination prévus et approuvés.
+
+[^20-1]: Nouvelle teneur selon le ch. 19 de l’annexe à l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+
+#### Art. 21
+
+**Mesures administratives**[^21-1]
+
+<sup>1</sup> Les licences générales d’importation et les licences générales de transit peuvent être révoquées si des circonstances extraordinaires l’exigent. Elles sont révoquées si, après leur octroi, les conditions ont changé de telle manière que les conditions d’un refus aux termes de l’art. 9*e*, al. 4, sont remplies.
+
+<sup>2</sup> Quiconque ne respecte pas les conditions et les charges assortissant les autorisations et les certificats d’importation, ni les prescriptions ou dispositions édictées en vertu de la législation sur le matériel de guerre, peut se voir retirer par l’autorité habilitée à les délivrer les autorisations qui lui ont été accordées, ou refuser leur prolongation ou leur renouvellement, ou refuser pour un certain temps l’octroi d’autres autorisations ou certificats d’importation.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+## Section 7 Émoluments
+
+#### Art. 22
+
+**Émoluments**
+
+### (art. 31 LFMG)
+
+<sup>1</sup>
+
+Les autorisations sont soumises aux émoluments suivants:[^22-1]
+
+- a. pour une autorisation initiale: 500 francs;
+- b. pour la révision ou l’adaptation d’une autorisation initiale ou pour l’établissement d’une nouvelle autorisation initiale: 250 francs;
+- c. pour les autorisations d’importation et d’exportation: 0,8 % de la valeur du bien, mais au minimum 50 francs et au maximum 5000 francs;
+- d.[^22-2] pour les autorisations de courtage, de commerce, les licences générales d’importation et de transit et les autorisations de conclure un contrat aux termes de l’art. 20 LFMG: 200 francs;
+- e.[^22-3] ...
+- f.[^22-4] pour les autorisations spécifiques de transit: 100 francs.
+
+<sup>2</sup> Les émoluments perçus conformément à l’al. 1, let. a, b, d et f peuvent être augmentés au maximum de moitié lorsque l’octroi de l’autorisation engendre des dépenses extraordinaires.[^22-5]
+
+<sup>3</sup> Lorsque les autorisations d’importation ou d’exportation n’ont pas été utilisées, ou ne l’ont été qu’en partie, ou encore lorsque le matériel a été renvoyé, le trop-perçu des émoluments peut être remboursé sur demande, après déduction des coûts administratifs. La demande de remboursement doit être présentée au plus tard trois ans après l’octroi de l’autorisation.
+
+<sup>4</sup> Aucun émolument n’est perçu pour les autorisations d’importation ou d’exportation de matériel de guerre destiné à l’armée suisse, à l’administration fédérale des douanes, aux corps de police de Suisse et du Liechtenstein, à des organisations internationales ou à leurs bureaux en Suisse.[^22-6]
+
+<sup>5</sup>
+
+Aucun émolument n’est perçu pour les autorisations de transit:
+
+- a.[^22-7] d’armes à feu et de leurs munitions que des tireurs ou des chasseurs font transiter en rendant plausible le fait qu’elles serviront à des concours ou des entraînements de tir, à une formation ou à la chasse dans un État tiers;
+- b. de matériel de guerre qui doit transiter par la Suisse pour servir dans des États tiers dans le cadre de procédures d’enquête policière ou judiciaire;
+- c.[^22-8] ... .[^22-9]
+
+<sup>6</sup>
+
+Aucun émolument n’est perçu pour:
+
+- a. le rejet d’une demande d’autorisation, la suspension ou la révocation d’une autorisation;
+- b. la prolongation d’une autorisation;
+- c. les contrôles prévus à l’art. 19;
+- d. les services tels que des réponses à des demandes de renseignements, des visites d’entreprises et des séances d’information.[^22-10]
+
+<sup>7</sup> L’ordonnance générale du 8 septembre 2004 sur les émoluments[^22-11] s’applique au demeurant.[^22-12]
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-3]: Abrogée par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2012 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-4]: Introduite par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-6]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-7]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^22-8]: Abrogée par le ch. I de l’O du 27 août 2008, avec effet au 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
+[^22-9]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^22-10]: Introduit par le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
+[^22-11]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-12]: Introduit par le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
+
+## Section 8 Dispositions finales
+
+#### Art. 23
+
+**Exécution**
+
+<sup>1</sup> Le SECO est chargé de l’exécution de la présente ordonnance.
+
+<sup>2</sup> Les renseignements relatifs à la législation sur le matériel de guerre sont donnés par le SECO.
+
+#### Art. 24
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 10 janvier 1973 sur le matériel de guerre[^24-1] est abrogée.
+
+[^24-1]: [[RO 1973 114](https://fedlex.data.admin.ch/eli/oc/1973/116_114_120)[256](https://fedlex.data.admin.ch/eli/oc/1973/258_256_258), [1978 199](https://fedlex.data.admin.ch/eli/oc/1978/199_199_199), [1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536)art. 91, [1987 791](https://fedlex.data.admin.ch/eli/oc/1987/791_791_791), [1992 2497](https://fedlex.data.admin.ch/eli/oc/1992/2497_2497_2497), [1996 1035](https://fedlex.data.admin.ch/eli/oc/1996/1035_1035_1035)ch. II, [1997 17](https://fedlex.data.admin.ch/eli/oc/1997/17_17_17)art. 38 ch. 2]
+
+#### Art. 24a
+
+**Disposition transitoire de la modification du 19 septembre 2014**[^24a-1]
+
+Les demandes qui sont pendantes à l’entrée en vigueur des modifications du 19 septembre 2014 sont traitées conformément au nouveau droit.
+
+[^24a-1]: Introduit par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov.2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+
+#### Art. 25
+
+**...**
+
+<sup>1</sup> et <sup>2</sup> ...[^25-1]
+
+<sup>3</sup> ...[^25-2]
+
+[^25-1]: Abrogés par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^25-2]: Introduit par le ch. I de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Abrogé par le ch. IV 14 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 26
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 1998.
+
+Annexe 1*[^t-1]*
+
+(art. 2)
+
+## Liste du matériel de guerre
+
+[^t-1]: Mise à jour selon le ch. I de l’O du 25 août 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)) et le ch. II de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+
+Note:
+
+Les biens répertoriés dans cette annexe de l’ordonnance sur le matériel de guerre sont tirés de la liste de munitions (LM) de l’Arrangement de Wassenaar. Les numéros des rubriques correspondent également. Les biens qui ne sont pas mentionnés dans cette liste, bien que figurant dans la LM, relèvent, au titre de «biens militaires spécifiques», du champ d’application de la loi fédérale du 13 décembre 1996 sur le contrôle des biens (RS **946.202**)
+
+### Table des matières
+
+<table>
+<tr><th colspan="2">Rubrique</th><th colspan="2">Désignation des biens</th></tr>
+<tr><td colspan="2">KM 1</td><td colspan="2">Armes individuelles à épauler et armes de poing de tout calibre</td></tr>
+<tr><td colspan="2">KM 2</td><td colspan="2">Armes de tout calibre (à l’exception des armes individuelles à épauler et des armes de poing mentionnées à la rubrique KM 1 ci-dessus)</td></tr>
+<tr><td colspan="2">KM 3</td><td colspan="2">Munitions destinées aux armes visées aux rubriques KM 1, KM 2 ou KM 12</td></tr>
+<tr><td colspan="2">KM 4</td><td colspan="2">Bombes, torpilles, roquettes, missiles</td></tr>
+<tr><td colspan="2">KM 5</td><td colspan="2">Matériel de conduite de tir</td></tr>
+<tr><td colspan="2">KM 6</td><td colspan="2">Véhicules blindés et autres véhicules automobiles</td></tr>
+<tr><td colspan="2">KM 7</td><td colspan="2">Gaz lacrymogènes et autres substances irritantes</td></tr>
+<tr><td colspan="2">KM 8</td><td colspan="2">Explosifs militaires et combustibles militaires</td></tr>
+<tr><td colspan="2">KM 9</td><td colspan="2">Navires de guerre</td></tr>
+<tr><td colspan="2">KM 10</td><td colspan="2">Aéronefs, véhicules aériens non habités, y compris leurs propulseurs</td></tr>
+<tr><td colspan="2">KM 11</td><td colspan="2">Matériel électronique</td></tr>
+<tr><td colspan="2">KM 12</td><td colspan="2">Systèmes d’armes à énergie cinétique à grande vitesse</td></tr>
+<tr><td colspan="2">KM 13</td><td colspan="2">Équipements blindés spéciaux ou équipements de protection</td></tr>
+<tr><td colspan="2">KM 14</td><td colspan="2">(Ne vise pas du matériel de guerre; ne figure que pour que la numérotation coïncide avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 15</td><td colspan="2">(Ne vise pas du matériel de guerre; ne figure que pour que la numérotation coïncide avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 16</td><td colspan="2">Pièces de forge, pièces de fonderie et autres produits non finis</td></tr>
+<tr><td colspan="2">KM 17</td><td colspan="2">Autres équipements (robots, etc.)</td></tr>
+<tr><td colspan="2">KM 18</td><td colspan="2">(Ne vise pas du matériel de guerre; ne figure que pour que la numérotation coïncide avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 19</td><td colspan="2">Systèmes d’armes à énergie dirigée (p. ex. systèmes laser)</td></tr>
+<tr><td colspan="2">KM 20</td><td colspan="2">Matériel cryogénique (à basse température) et supraconducteur</td></tr>
+<tr><td colspan="2">KM 21</td><td colspan="2">Logiciels</td></tr>
+<tr><td colspan="2">KM 22</td><td colspan="2">(Ne vise pas du matériel de guerre; ne figure que pour que la numérotation coïncide avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 1</td><td colspan="2">Armes individuelles à épauler et armes de poing de tout calibre, leurs accessoires et leurs composants spécialement conçus, à l’exception des armes suivantes: a. armes de chasse et armes de sport incontestablement reconnaissables (p. ex. selon les normes ISSF) qui, dans la même exécution, ne sont pas également des armes de combat; b. armes à un coup et armes se chargeant par la bouche; c. armes de poing et fusils à répétition tirant des cartouches à percussion annulaire; d. armes anciennes, pour lesquelles des munitions utilisables ne sont plus fabriquées ou ne se trouvent plus dans le commerce. Notes: La rubrique KM 1d vise également les armes suivantes: 1. mousquets, fusils et carabines fabriqués avant 1890, ainsi que leurs reproductions; 2. revolvers, pistolets et mitrailleuses fabriqués avant 1890, ainsi que leurs reproductions. Note: Les rubriques KM 1a à KM 1d visent également les armes spécialement conçues pour des munitions inertes d’instruction, qui ne peuvent tirer aucune des munitions visées à la rubrique KM 3.</td></tr>
+<tr><td colspan="2">KM 2</td><td colspan="2">Armes ou armements de tout calibre (à l’exception des armes individuelles à épauler et des armes de poing visées à la rubrique KM 1), lance-fumées, lance-gaz, lance-flammes et accessoires, comme il suit, et leurs composants spécialement conçus: a. canons, obusiers, mortiers, pièces d’artillerie, armes antichars, lance-projectiles, lance-flammes, canons sans recul; Note: La rubrique KM 2a comprend les injecteurs, les dispositifs de mesure, les réservoirs de stockage et les autres composants spécialement conçus pour servir avec des charges propulsives liquides pour tout matériel visé à la rubrique KM 2a. b. matériel militaire pour le lancement ou la production de fumées, de gaz et de produits pyrotechniques. Note: Le chiffre KM 2b ne vise pas les pistolets de signalisation.</td></tr>
+<tr><td colspan="2">KM 3</td><td colspan="2">Munitions et leurs composants spécialement conçus, destinés aux armes visées aux rubriques KM 1, KM 2 ou KM 12 Notes: 1. Les composants spécialement conçus comprennent: a. les pièces en métal ou en plastique comme les enclumes d’amorces, les godets pour balles, les maillons, les ceintures et les pièces métalliques pour munitions; b. les pièces en métal ou en plastique comme les enclumes d’amorces, les godets pour balles, les maillons, les ceintures et les pièces métalliques pour munitions; c. les dispositifs d’alimentation à puissance de sortie opérationnelle élevée fonctionnant une seule fois; d. les étuis combustibles pour charges; e. les sous-munitions, y compris les petites bombes, les petites mines et les projectiles à guidage terminal. 2. La rubrique KM 3 ne vise pas les munitions serties sans projectile (munition d’exercice, munition de signalisation) et les munitions inertes d’instruction à chambre de poudre percée.</td></tr>
+<tr><td colspan="2">KM 4</td><td colspan="2">Bombes, torpilles, roquettes, missiles, et équipement et accessoires connexes, comme il suit, spécialement conçus pour l’engagement au combat, et leurs composants spécialement conçus: bombes, torpilles, grenades, pots fumigènes, roquettes, mines, missiles, charges sous-marines, charges et dispositifs et kits de démolition, produits pyrotechniques militaires, cartouches et simulateurs, c’est-à-dire le matériel simulant les caractéristiques de l’un des biens visés à la rubrique KM 4. Note: La rubrique KM 4 comprend: 1. les grenades fumigènes, bombes incendiaires et dispositifs explosifs; 2. les tuyères de vecteurs de missiles et les pointes d’ogives de corps de rentrée.</td></tr>
+<tr><td colspan="2">KM 5</td><td colspan="2">Matériel de conduite de tir, spécialement conçu pour l’engagement au combat, et ses composants et accessoires spécialement conçus, comme suit:</td></tr>
+<tr><td colspan="2">[tab]</td><td colspan="2">a. viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements; b. système d’acquisition des buts, de coordination des buts, de mesure de l’éloignement des buts ou de poursuite des buts; dispositifs de connexion de localisations ou de données (data fusion) et équipements d’intégration de senseurs (sensor integration equipment). Note: sont notamment visés les viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements.</td></tr>
+<tr><td colspan="2">KM 6</td><td colspan="2">Véhicules blindés et autres véhicules automobiles ainsi que leurs composants, spécialement conçus ou modifiés pour l’engagement au combat Note technique: Au sens de la rubrique KM 6, le terme ‹véhicule automobile› comprend les remorques. Notes: 1. La rubrique KM 6 comprend: a. les véhicules blindés armés ou non, spécialement conçus ou modifiés pour l’engagement au combat (sont également inclus les chars de dépannage et de sauvetage); b. les autres véhicules de toute nature, spécialement conçus ou modifiés pour l’engagement d’armes (tels que les chars de combat, armés ou non, équipés de supports pour armes, d’équipements pour la pose de mines ou le lancement de munitions, visés au chiffre KM 4; c. les véhicules chenillés, spécialement conçus ou modifiés pour l’engagement au combat. 2. La conception ou la modification d’un véhicule automobile pour l’engagement au combat peut impliquer une modification structurelle, électrique ou mécanique touchant au moins un composant militaire spécialement conçu. Ces composants sont entre autres les suivants: a. les enveloppes de pneumatiques à l’épreuve des balles ou pouvant rouler à plat; b. les systèmes de variation de pression de gonflage de pneumatiques, activés de l’intérieur du véhicule pendant son déplacement; c. la protection blindée des parties vitales, par exemple les réservoirs à carburant ou les cabines; d. les armatures spéciales pour les supports d’armes. 3. La rubrique KM 6 ne vise pas les véhicules civils ou les fourgons blindés servant au transport de valeurs.</td></tr>
+<tr><td colspan="2">KM 7</td><td colspan="2">Gaz lacrymogènes et autres substances irritantes destinés à la lutte anti-émeute: 1. cyanure de bromo-benzyle (CA) (CAS 5798–79–8); 2. ochlorobenzylidènemalononitrile (ochlorobenzal-melononitrile) (CS) (CAS 2698–41–1); 3. chlorure de phenylacyle (chloroacétophénone) (CN) (CAS 532–27–4); 4. dibenzo-(b,f)-1,4-oxazéphine (CR) (CAS 257–07–8). Notes: 1. Ne sont pas compris: a. bromoacétate d’éthyle; b. bromure de benzyle; c. Benzylbromid; d. iodure de benzyle; e. bromacétone; f. bromure de cyanogène; g. bromométhyléthylcétone; h. chloracétone; i. iodacétate d’éthyle; j. iodacétone; 2. Ne sont pas compris: les gaz lacrymogènes et autres substances irritantes destinés à l’autodéfense des particuliers.</td></tr>
+<tr><td colspan="2">KM 8</td><td>Explosifs militaires et combustibles militaires, y compris les agents propulsifs: a. Explosifs et propergols répondant aux paramètres de performance suivants: 1. explosifs ayant une vitesse de détonation supérieure à 8700 m/s, ou une pression de détonation supérieure à 34 GPa (340 kilobars); 2. explosifs organiques ayant des pressions de détonation égales ou supérieures à 25 GPa (250 kilobars) et demeurant stables sur des périodes de 5 minutes ou plus à des températures égales ou supérieures à 250° C (523 K); 3. propergols solides de classe UN 1.1 ayant une impulsion spécifique théorique (dans des conditions standard) de plus de 250 s pour les compositions non métallisées ou de plus de 270 s pour les compositions aluminées; 4. propergols solides de classe UN 1.3, ayant une impulsion spécifique théorique de plus de 230 s pour les compositions non halogénées, de plus de 250 s pour les compositions non métallisées et de plus de 266 s pour les compositions métallisées; 5. agent propulsif d’artillerie ayant une constante de force supérieure à 1200 kJ/kg; 6. explosifs, propergols ou matières pyrotechniques pouvant maintenir un taux de combustion en régime continu de plus de 38 mm/s dans des conditions standard de pression 6,89 MPa (68,9 bars) et de température 21° C (294 K); ou 7. propergols double base à charge énergétique et élastomères (Nitramite E.R.) avec allongement à contrainte maximale supérieur à 5 pour cent à –40° C (233 K); b. Produits pyrotechniques militaires; c. Autres substances, comme il suit: 1. combustibles pour aéronefs spécialement formulés à des fins militaires; 2. matériel militaire comprenant des épaississants pour combustibles hydrocarbonés, spécialement formulés pour les lance-flammes ou les munitions incendiaires, notamment les stéarates ou palmates métalliques (également appelés Octol) (CAS 637–12–7) et gélifiants M1, M2, M3; 3. oxydants liquides, constitués de ou contenant de l’acide nitrique fumant inhibé (IRFNA) ou du difluorure d’oxygène. Note: Les combustibles d’aéronefs visés à la rubrique KM 8c1 sont les produits finis et non leurs composants.</td></tr>
+<tr><td colspan="2">KM 9</td><td colspan="2">Navires de guerre et accessoires, comme il suit, et leurs composants, spécialement conçus pour l’engagement au combat: a. navires de combat et navires (de surface ou sous-marins) spécialement conçus ou modifiés pour l’attaque ou la défense, transformés ou non en vue de leur utilisation commerciale, quel que soit leur état d’entretien ou de fonctionnement, et qu’ils comportent ou non des systèmes de lancement d’armes ou un blindage; et leurs coques ou parties de coques; b. moteurs, comme il suit: 1. moteurs diesels spécialement conçus pour sous-marins, présentant les deux caractéristiques suivantes: a. une puissance de 1,12 MW (1500 CV) ou plus; et b. une vitesse de rotation égale ou supérieure à 700 tr/mn; 2. moteurs électriques spécialement conçus pour sous-marins, présentant toutes les caractéristiques suivantes: a. une puissance supérieure à 0,75 MW (1000 CV); b. à renversement rapide; c. refroidis par liquide; et d. hermétiques; 3. moteurs diesels amagnétiques de 37,3 kW (50 CV) ou plus, dont plus de 75 pour cent de la masse composante est amagnétique.</td></tr>
+<tr><td colspan="2">KM 10</td><td colspan="2">Aéronefs, véhicules aériens non habités, moteurs et matériel d’aéronef, matériel connexe et composants, spécialement conçus ou modifiés pour l’engagement au combat, comme il suit: a. aéronefs de combat et leurs composants spécialement conçus; b. autres aéronefs spécialement conçus ou modifiés pour l’attaque militaire; c. moteurs pour aéronefs mentionnés aux lettres a et b ci-dessus, et leurs composants spécialement conçus; d. véhicules aériens non habités, y compris les engins aériens téléguidés (remotely piloted air vehicles – RPVs), et véhicules autonomes programmables spécialement conçus ou modifiés pour l’engagement au combat, et leurs lanceurs, appuis au sol et équipements de commande et de contrôle connexes. Notes: 1. La rubrique KM 10 b ne vise pas les aéronefs ou les variantes des aéronefs spécialement conçus pour l’usage militaire qui: a. ne sont pas configurés pour l’usage militaire ni dotés d’équipements techniques ou d’aménagements supplémentaires spécialement conçus ou modifiés pour l’engagement au combat; et b. ont été certifiés pour un usage civil par les services de l’aviation civile d’un État membre. 2. La rubrique KM 10 c ne vise pas: a. les moteurs aéronautiques conçus ou modifiés pour l’engagement au combat et certifiés par les services de l’aviation civile d’un État membre en vue de l’emploi dans des avions civils, ou leurs composants spécialement conçus; b. les moteurs à mouvement alternatif ou leurs composants spécialement conçus. 3. Aux termes des rubriques KM 10 b et KM 10 c, portant sur les composants spécialement conçus pour des aéronefs ou moteurs aéronautiques non militaires modifiés pour le combat et le matériel connexe, seuls sont visés les composants militaires et le matériel connexe militaire nécessaires à la modification en vue de l’engagement au combat. 4. La rubrique KM 10 d ne vise pas les drones d’exploration.</td></tr>
+<tr><td colspan="2">KM 11</td><td colspan="2">Matériel électronique non visé par ailleurs dans cette liste spécialement conçu pour l’engagement au combat et ses composants spécialement conçus Note: Le chiffre KM 11 comprend: a. le matériel de contre-mesures électroniques (ECM) et de contre-contremesures électroniques (ECCM) (à savoir, matériel conçu pour introduire des signaux étrangers ou erronés dans un radar ou dans des récepteurs de radio-communications ou pour entraver de toute autre manière la réception, le fonctionnement ou l’efficacité des récepteurs électroniques de l’adversaire, y compris son matériel de contremesures); y compris le matériel de brouillage et d’anti-brouillage; b. le matériel sous-marin de contremesures (p. ex., le matériel acoustique et magnétique de brouillage et de leurre) conçu pour introduire des signaux étrangers ou erronés dans des récepteurs sonar.</td></tr>
+<tr><td colspan="2">KM 12</td><td colspan="2">Systèmes d’armes à énergie cinétique à grande vitesse (high velocity kinetic energy weapon systems), comme il suit, et leurs composants spécialement conçus: systèmes d’armes à énergie cinétique spécialement conçus pour détruire une cible ou faire avorter sa mission. Note: 1. La rubrique KM 12 comprend le matériel suivant lorsqu’il est spécialement conçu pour les systèmes d’armes à énergie cinétique: a. systèmes de lancement-propulsion capables de faire accélérer des masses supérieures à 0,1 g jusqu’à des vitesses dépassant 1,6 km/s, en mode de tir simple ou rapide; b. matériel de production de puissance immédiatement disponible, de blindage électrique, d’emmagasinage d’énergie, d’organisation thermique, de conditionnement, de commutation ou de manipulation de combustible; interfaces électriques entre l’alimentation en énergie, le canon et les autres fonctions de commande électrique de la tourelle; c. systèmes d’acquisition et de poursuite de cible, de conduite du tir ou d’évaluation des dommages; d. systèmes à tête chercheuse autoguidée, de guidage ou de propulsion déviée (accélération latérale), pour projectiles. 2. La rubrique KM 12 vise les systèmes d’armes utilisant l’une des méthodes de propulsion suivantes: a. électromagnétique; b. électrothermique; c. par plasma; d. à gaz léger; ou e. chimique (uniquement lorsqu’elle est utilisée avec l’une des autres méthodes ci-dessus). 3. La rubrique KM 12 ne vise pas la technologie afférente à l’induction magnétique pour la propulsion continue d’engins de transport civil. 4. Pour les systèmes d’armes utilisant des munitions sous-calibrées ou faisant appel exclusivement à la propulsion chimique, et leurs munitions, voir les rubriques KM 1, KM 2, KM 3 et KM 4.</td></tr>
+<tr><td colspan="2">KM 13</td><td colspan="2">Matériel et constructions blindés ou de protection et leurs composants, comme il suit: a. plaques de blindage, comme il suit: 1. fabriquées afin de satisfaire à une norme ou à une spécification militaire; ou 2. appropriées à l’engagement au combat; b. combinaisons de matériaux métalliques ou non métalliques ou combinaisons connexes spécialement conçues pour offrir une protection balistique à des systèmes militaires. Note: La rubrique KM 13b comprend les matériaux spécialement conçus pour constituer des blindages réactifs à l’explosion ou construire des abris militaires (shelters).</td></tr>
+<tr><td colspan="2">KM 14</td><td colspan="2">(ne vise pas du matériel de guerre; ne figure que pour qu’il y ait coïncidence de la numérotation avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 15</td><td colspan="2">(ne vise pas du matériel de guerre; ne figure que pour qu’il y ait coïncidence de la numérotation avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 16</td><td colspan="2">Pièces de forge, pièces de fonderie et autres produits non finis dont l’utilisation dans un produit visé est reconnaissable par la composition, la géométrie ou la fonction, et spécialement conçus pour tout produit visé aux rubriques KM1, KM 2, KM 3, KM 4, KM 6, KM 9, KM 10, KM 12 ou KM 19</td></tr>
+<tr><td colspan="2">KM 17</td><td colspan="2">Autres équipements, matériaux et bibliothèques, comme il suit, et leurs composants spécialement conçus: a. robots, unités de commande de robots et effecteurs terminaux de robots spécialement conçus pour des engagements au combat; b. bibliothèques (bases de données techniques paramétriques) spécialement conçues pour l’engagement au combat avec du matériel visé par cette liste; c. matériel générateur d’énergie ou de propulsion nucléaire, y compris les réacteurs nucléaires, spécialement conçus pour l’engagement au combat et leurs composants spécialement conçus ou modifiés pour le combat. Note technique: Aux fins de la rubrique KM 17, le terme bibliothèque (base de données techniques paramétriques) signifie un ensemble d’informations techniques à caractère militaire, dont la consultation permet d’augmenter la performance du matériel ou des systèmes militaires.</td></tr>
+<tr><td colspan="2">KM 18</td><td colspan="2">(ne vise pas du matériel de guerre; ne figure que pour qu’il y ait coïncidence de la numérotation avec celle de la LM)</td></tr>
+<tr><td colspan="2">KM 19</td><td colspan="2">Systèmes d’armes à énergie dirigée, comme il suit, et leurs composants spécialement conçus: a. systèmes à laser spécialement conçus pour détruire une cible ou en faire avorter la mission; b. systèmes à faisceau de particules capables de détruire une cible ou d’en faire avorter la mission; c. systèmes radiofréquence (RF) de grande puissance capables de détruire une cible ou d’en faire avorter la mission. Notes: 1. Les systèmes d’armes à énergie dirigée visés à la rubrique KM 19 comprennent des systèmes dont les possibilités dérivent de l’application contrôlée de: a. lasers à ondes entretenues ou à puissance émise en impulsions suffisantes pour effectuer une destruction semblable à celle obtenue par des munitions classiques; b. accélérateurs de particules projetant un faisceau de particules chargées ou neutres avec une puissance destructrice; c. émetteurs de faisceaux de micro-ondes de puissance émise en impulsions élevée ou de puissance moyenne élevée produisant des champs suffisamment intenses pour rendre inutilisables les circuits électroniques d’une cible éloignée. 2. La rubrique KM 19 comprend le matériel suivant lorsqu’il est spécialement conçu pour les systèmes d’armes à énergie dirigée: a. matériel de production de puissance immédiatement disponible, d’emmagasinage ou de commutation d’énergie, de conditionnement de puissance ou de manipulation de combustible; b. systèmes d’acquisition ou de poursuite de cible; c. systèmes capables d’évaluer les dommages causés à une cible, ou de constater sa destruction ou l’avortement de sa mission; d. matériel de manipulation, de propagation ou de pointage de faisceau; e. matériel à balayage rapide du faisceau pour les opérations rapides contre des cibles multiples; f. matériel optique adaptatif et dispositifs de conjugaison de phases (phase conjugators); g. injecteurs de courant pour faisceaux d’ions d’hydrogène négatifs; h. composants d’accélérateur qualifiés pour l’usage spatial (accelerator components); i. matériel de focalisation de faisceaux d’ions négatifs (negative ion beam funelling equipment); j. matériel pour le contrôle et l’orientation d’un faisceau d’ions à haute énergie; k. feuillards qualifiés pour l’usage spatial pour la neutralisation de faisceaux d’isotopes d’hydrogène négatifs.</td></tr>
+<tr><td colspan="2">KM 20</td><td colspan="2">Matériel cryogénique (à basse température) et supraconducteur comme il suit, et ses composants et accessoires spécialement conçus: a. matériel spécialement conçu ou aménagé pour être installé à bord d’un véhicule automobile, d’un navire, d’un aéronef ou d’un engin spatial selon cette liste, pour l’engagement au combat, et capable de fonctionner en mouvement et de produire ou de maintenir des températures inférieures à -170° C (103 K); Note: La rubrique KM 20 a comprend les systèmes mobiles contenant ou utilisant des accessoires ou des composants fabriqués à partir de matériaux non métalliques ou non conducteurs de l’électricité, tels que les matières plastiques ou les matériaux imprégnés de résines époxydes. b. matériel électrique supraconducteur (machines rotatives et transformateurs) spécialement conçu ou aménagé pour être installé à bord d’un véhicule automobile, d’un navire, d’un aéronef ou d’un engin spatial selon cette liste, pour l’engagement au combat, et capable de fonctionner en mouvement. Note: La rubrique KM 20 b ne vise pas les générateurs homopolaires hybrides de courant continu ayant des armatures métalliques normales à un seul pôle tournant dans un champ magnétique produit par des bobinages supraconducteurs, à condition que ces bobinages représentent le seul élément supraconducteur du générateur.</td></tr>
+<tr><td colspan="2">KM 21</td><td colspan="2">Logiciels, comme il suit: logiciels spécialement conçus ou modifiés pour l’utilisation des biens visés par cette liste.</td></tr>
+<tr><td colspan="2">KM 22</td><td colspan="2">(ne vise pas du matériel de guerre; ne figure que pour qu’il y ait coïncidence de la numérotation avec celle de la LM)</td></tr>
+</table>
+
+Annexe 2*[^t-2]*
+
+(art. 6 et 7)
+
+## Liste des pays pour lesquels, aux termes des art. 6 et 7 de l’OMG, aucune autorisation spécifique n’est exigée
+
+[^t-2]: Mise à jour selon le ch. I de l’O du 25 août 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+
+Allemagne
+
+Argentine
+
+Australie
+
+Autriche
+
+Belgique
+
+Canada
+
+Danemark
+
+Espagne
+
+États-Unis
+
+Finlande
+
+France
+
+Grande-Bretagne
+
+Grèce
+
+Hongrie
+
+Irlande
+
+Italie
+
+Japon
+
+Luxembourg
+
+Nouvelle-Zélande
+
+Norvège
+
+Pays-Bas
+
+Pologne
+
+Portugal
+
+Suède
+
+République tchèque
+
+Annexe 3*[^t-3]*
+
+(art. 6*a*, al. 4)
+
+## Accords d’association à Schengen
+
+[^t-3]: Introduite par le ch. II 2 de l’annexe 4 à l’O du 2 juil. 2008 sur les armes, en vigueur depuis le 12 déc. 2008 ([RO 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+
+Les accords d’association à Schengen comprennent les accords suivants:
+
+- a. Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen [^annex3-lvlu1-1];
+- b. Accord du 26 octobre 2004 sous forme d’échange de lettres entre le Conseil de l’Union européenne et la Confédération suisse concernant les Comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs[^annex3-lvlu1-2];
+- c. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex3-lvlu1-3];
+- d. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex3-lvlu1-4];
+- e. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-5].
+
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annex3-lvlu1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annex3-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annex3-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)

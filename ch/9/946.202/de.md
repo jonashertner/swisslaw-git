@@ -1,0 +1,356 @@
+---
+sr: "946.202"
+title: "Bundesgesetz vom 13. Dezember 1996 über die Kontrolle zivil und militärisch verwendbarer Güter, besonderer militärischer Güter sowie strategischer Güter (Güterkontrollgesetz, GKG)"
+short: GKG
+eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
+language: de
+version: 2021-01-01
+adopted: 1996-12-13
+in_force: 1997-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die Kontrolle zivil und militärisch verwendbarer Güter, besonderer militärischer Güter sowie strategischer Güter****
+
+(Güterkontrollgesetz, GKG)[^t-1]
+
+vom 13. Dezember 1996 (Stand am 1. Januar 2021)
+
+[^t-1]: Fassung gemäss Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten[^ingress-1] sowie auf Artikel 64<sup>bis</sup> der Bundesverfassung[^ingress-2],[^ingress-3] nach Einsicht in die Botschaft des Bundesrates vom 22. Februar 1995[^ingress-4],
+
+beschliesst:
+
+[^ingress-1]: Dieser Zuständigkeitsumschreibung entspricht Art. 54 Abs. 1 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: [BS **1** 3]. Dieser Bestimmung entspricht heute Art. 123 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-3]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-4]: [BBl 1995 II 1301](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck**[^1-1]
+
+Dieses Gesetz soll erlauben, doppelt verwendbare Güter, besondere militärische Güter sowie strategische Güter zu kontrollieren.
+
+[^1-1]: Fassung gemäss Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz gilt für doppelt verwendbare Güter und für besondere militärische Güter, die Gegenstand internationaler Abkommen sind.
+
+<sup>2</sup> Der Bundesrat bestimmt, welche doppelt verwendbaren Güter und welche besonderen militärischen Güter, die Gegenstand völkerrechtlich nicht verbindlicher internationaler Kontrollmassnahmen sind, diesem Gesetz unterstellt werden.
+
+<sup>2bis</sup> Er bestimmt zudem, welche strategischen Güter, die Gegenstand internationaler Abkommen sind, diesem Gesetz unterstellt werden.[^2-1]
+
+<sup>3</sup> Dieses Gesetz gilt nur so weit, als nicht das Bundesgesetz vom 13. Dezember 1996[^2-2] über das Kriegsmaterial oder das Atomgesetz vom 23. Dezember 1959[^2-3] anwendbar ist.
+
+[^2-1]: Eingefügt durch Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
+[^2-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^2-3]: [[AS 1960 541](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)Art. 48 Ziff. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)Art. 17 Ziff. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)Anhang Ziff. 4. [AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang I Ziff. 1]. Siehe heute: das Kernenergiegesetz vom 21. März 2003 ([SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)).
+
+#### Art. 3
+
+**Begriffe**
+
+In diesem Gesetz bedeuten:
+
+- a. *Güter:* Waren, Technologien und Software;
+- b. *doppelt verwendbare Güter:* Güter, die sowohl für zivile als auch für militärische Zwecke verwendet werden können;
+- c. *besondere militärische Güter:* Güter, die für militärische Zwecke konzipiert oder abgeändert worden sind, die aber weder Waffen, Munition, Sprengmittel noch sonstige Kampf- oder Gefechtsführungsmittel sind, sowie militärische Trainingsflugzeuge mit Aufhängepunkten;
+- c<sup>bis</sup>.[^3-1] *strategische Güter:* Güter, die Bestandteil einer kritischen Infrastruktur sind;
+- d. *Technologie:* Informationen für die Entwicklung, Herstellung oder Verwendung eines Gutes, die weder allgemein zugänglich sind noch der wissenschaftlichen Grundlagenforschung dienen;
+- e. *Vermittlung:* die Schaffung der wesentlichen Voraussetzungen für den Abschluss von Verträgen oder der Abschluss von Verträgen, wenn die Leistung durch Dritte erbracht werden soll, ungeachtet des Ortes, wo sich die Güter befinden.
+
+[^3-1]: Eingefügt durch Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
+
+## 2. Abschnitt: Kontrollmassnahmen
+
+#### Art. 4
+
+**Durchführung von internationalen Abkommen**
+
+Zur Durchführung von internationalen Abkommen kann der Bundesrat:
+
+- a.
+
+  Bewilligungs- und Meldepflichten einführen sowie Überwachungsmassnahmen anordnen für:
+
+  - 1\.[^4-1] Forschung, Entwicklung, Herstellung, Lagerung, Weitergabe und Verwendung von Gütern,
+  - 2\. Ein-, Aus-, Durchfuhr und Vermittlung von Gütern;
+
+- b. Vorschriften über Inspektionen erlassen.
+
+[^4-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+
+#### Art. 5
+
+**Unterstützung anderer internationaler Kontrollmassnahmen**
+
+Zur Unterstützung internationaler Kontrollmassnahmen, die völkerrechtlich nicht verbindlich sind, kann der Bundesrat, sofern diese Massnahmen auch von den wichtigsten Handelspartnern der Schweiz unterstützt werden, für die Ein-, Aus-, Durchfuhr und Vermittlung von Gütern:
+
+- a. Bewilligungs- und Meldepflichten einführen;
+- b. Überwachungsmassnahmen anordnen.
+
+#### Art. 6
+
+**Verweigerung von Bewilligungen**
+
+<sup>1</sup>
+
+Die Erteilung von Bewilligungen ist ausgeschlossen, wenn:
+
+- a. die beantragte Tätigkeit internationalen Abkommen widerspricht;
+- b. die beantragte Tätigkeit völkerrechtlich nicht verbindlichen internationalen Kontrollmassnahmen widerspricht, die von der Schweiz unterstützt werden;
+- c. entsprechende Zwangsmassnahmen nach dem Embargogesetz vom 22. März 2002[^6-1] erlassen worden sind.[^6-2]
+
+<sup>1bis</sup>
+
+Bewilligungen werden zudem verweigert, wenn Grund zur Annahme besteht, dass mit der beantragten Tätigkeit:
+
+- a. terroristische Kreise oder das organisierte Verbrechen unterstützt werden könnten;
+- b. internationale kritische Infrastrukturen, an denen die Schweiz beteiligt ist, gefährdet werden könnten.[^6-3]
+
+<sup>2</sup> Bewilligungen für besondere militärische Güter werden zudem verweigert, wenn die Vereinten Nationen oder Staaten, die sich zusammen mit der Schweiz an internationalen Exportkontrollmassnahmen beteiligen, die Ausfuhr solcher Güter verbieten und wenn sich an diesen Verboten die wichtigsten Handelspartner der Schweiz beteiligen.
+
+<sup>3</sup> Der Bundesrat regelt die Verweigerung von Bewilligungen zur Ausfuhr oder Vermittlung von doppelt verwendbaren Gütern nach Artikel 2 Absatz 2, die zur Internet- und Mobilfunküberwachung verwendet werden können.[^6-4]
+
+[^6-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^6-2]: Fassung gemäss Art. 17 Ziff. 2 des Embargogesetzes vom 22. März 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564); [BBl 2001 1433](https://fedlex.data.admin.ch/eli/fga/2001/318)).
+[^6-3]: Eingefügt durch Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)). Fassung gemäss Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
+[^6-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6349](https://fedlex.data.admin.ch/eli/oc/2020/1038); [BBl 2018 4529](https://fedlex.data.admin.ch/eli/fga/2018/1601)).
+
+#### Art. 7
+
+**Widerruf von Bewilligungen**
+
+<sup>1</sup> Bewilligungen werden widerrufen, wenn sich nach ihrer Erteilung die Verhältnisse so geändert haben, dass die Voraussetzungen für die Verweigerung nach Artikel 6 erfüllt sind.
+
+<sup>2</sup> Bewilligungen können widerrufen werden, wenn die daran geknüpften Bedingungen und Auflagen nicht eingehalten werden.
+
+#### Art. 8
+
+**Massnahmen gegenüber einzelnen Bestimmungsländern**
+
+<sup>1</sup> Zur Durchführung von internationalen Abkommen kann der Bundesrat vorsehen, dass für einzelne Bestimmungsländer keine Bewilligungen erteilt werden.
+
+<sup>2</sup>
+
+Der Bundesrat kann für einzelne Bestimmungsländer Erleichterungen oder Ausnahmen von den Kontrollmassnahmen vorsehen, insbesondere für:
+
+- a. Vertragsparteien internationaler Abkommen; oder
+- b. Länder, die sich an den völkerrechtlich nicht verbindlichen Kontrollmassnahmen beteiligen, die von der Schweiz unterstützt werden.
+
+## 3. Abschnitt: Überwachung
+
+#### Art. 9
+
+**Auskunftspflicht**
+
+<sup>1</sup> Wer ein Bewilligungsgesuch stellt oder eine Bewilligung erhalten hat, ist verpflichtet, den Kontrollorganen sämtliche Auskünfte zu geben und Unterlagen einzureichen, die für eine umfassende Beurteilung oder Kontrolle erforderlich sind.
+
+<sup>2</sup> Derselben Pflicht untersteht, wer auf andere Weise den Kontrollmassnahmen dieses Gesetzes unterstellt ist.
+
+#### Art. 10
+
+**Befugnisse der Kontrollorgane**
+
+<sup>1</sup> Die Kontrollorgane sind befugt, die Geschäftsräume der auskunftspflichtigen Personen während der üblichen Arbeitszeit ohne Voranmeldung zu betreten und zu besichtigen sowie die einschlägigen Unterlagen einzusehen. Sie beschlagnahmen belastendes Material. Bei Verdacht auf strafbare Handlungen bleiben weitergehende Bestimmungen des Verfahrens- und Prozessrechtes vorbehalten.
+
+<sup>2</sup> Die Kontrollorgane können die Polizei der Kantone und Gemeinden sowie die Untersuchungsorgane der Eidgenössischen Zollverwaltung beiziehen.[^10-1] Bestehen Hinweise auf Widerhandlungen gegen dieses Gesetz, so können sie den Nachrichtendienst des Bundes und die zuständigen Polizeiorgane des Bundes beiziehen.[^10-2]
+
+<sup>3</sup> Die Kontrollorgane können im Rahmen der Zweckbestimmung dieses Gesetzes Personendaten bearbeiten. Von den besonders schützenswerten Personendaten dürfen nur solche über administrative oder strafrechtliche Verfolgungen und Sanktionen bearbeitet werden. Weitere besonders schützenswerte Personendaten dürfen bearbeitet werden, wenn dies zur Behandlung des Einzelfalles unentbehrlich ist.
+
+<sup>4</sup> Die Kontrollorgane sind zur Wahrung des Amtsgeheimnisses verpflichtet und treffen in ihrem Bereich alle zur Verhinderung von Wirtschaftsspionage nötigen Vorsichtsmassnahmen.
+
+[^10-1]: Fassung gemäss Ziff. I 8 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^10-2]: Fassung des zweiten Satzes gemäss Ziff. I 9 der V vom 4. Dez. 2009 über die Anpassung gesetzlicher Bestimmungen infolge der Schaffung des Nachrichtendienstes des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+
+## 4. Abschnitt: Verfahren und Berichterstattung
+
+#### Art. 11
+
+**Zuständigkeit und Verfahren**
+
+Der Bundesrat bezeichnet die zuständigen Stellen und regelt die Verfahren im einzelnen. Die Kontrolle an der Grenze obliegt den Zollorganen.
+
+#### Art. 12
+
+**Rechtsschutz**
+
+Das Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sich nach den allgemeinen Bestimmungen über die Bundesverwaltungsrechtspflege.
+
+#### Art. 13
+
+**Berichterstattung**
+
+Der Bundesrat orientiert die Bundesversammlung über die Anwendung dieses Gesetzes in seinen Berichten zur Aussenwirtschaftspolitik.
+
+## 5. Abschnitt: Strafbestimmungen****
+
+[^sec5-1]
+
+[^sec5-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+
+#### Art. 14
+
+**Verbrechen und Vergehen**
+
+<sup>1</sup>
+
+Mit Gefängnis oder mit Busse bis zu 1 Million Franken wird bestraft, wer vorsätzlich:
+
+- a. ohne entsprechende Bewilligung Waren herstellt, lagert, weitergibt, verwendet, ein-, aus-, durchführt oder vermittelt oder an eine Bewilligung geknüpfte Bedingungen und Auflagen nicht einhält;
+- b. ohne entsprechende Bewilligung Technologie oder Software an Empfänger im Ausland weitergibt oder vermittelt oder an eine Bewilligung geknüpfte Bedingungen und Auflagen nicht einhält;
+- c. in einem Gesuch Angaben, die für die Erteilung einer Bewilligung wesentlich sind, unrichtig oder unvollständig macht oder ein von einem Dritten verfasstes Gesuch dieser Art verwendet;
+- d.[^14-1] Güter nicht oder nicht richtig zur Ein-, Aus-, Durchfuhr oder Vermittlung anmeldet;
+- e. Güter an einen anderen als den in der Bewilligung genannten Enderwerber oder Bestimmungsort liefert, überträgt oder vermittelt beziehungsweise liefern, übertragen oder vermitteln lässt;
+- f. Güter jemandem zukommen lässt, von dem er weiss oder annehmen muss, dass er sie direkt oder indirekt an einen Endverbraucher weiterleitet, an den sie nicht geliefert werden dürfen.
+
+<sup>2</sup> In schweren Fällen ist die Strafe Zuchthaus bis zu zehn Jahren. Damit kann eine Busse bis zu 5 Millionen Franken verbunden werden.
+
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 100 000 Franken.
+
+[^14-1]: Fassung gemäss Anhang Ziff. 21 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+
+#### Art. 15
+
+**Übertretungen**
+
+<sup>1</sup>
+
+Mit Haft oder mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
+
+- a. die Auskünfte, die Herausgabe von Unterlagen oder den Zutritt zu den Geschäftsräumen nach den Artikeln 9 und 10 Absatz 1 verweigert oder in diesem Zusammenhang falsche Angaben macht;
+- b. auf andere Weise einer Bestimmung dieses Gesetzes oder einer Ausführungsvorschrift, deren Übertretung für strafbar erklärt wird, oder einer unter Hinweis auf die Strafdrohung dieses Artikels erlassenen Verfügung zuwiderhandelt, ohne dass ein strafbares Verhalten nach einem andern Straftatbestand vorliegt.
+
+<sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
+
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 40 000 Franken.
+
+<sup>4</sup> Die Strafverfolgung verjährt in fünf Jahren. Die Verjährung kann durch Unterbrechung nicht um mehr als die Hälfte hinausgeschoben werden.
+
+#### Art. 15a
+
+**Ordnungswidrigkeiten**[^15a-1]
+
+<sup>1</sup>
+
+Mit Busse bis zu 5000 Franken wird bestraft, wer fahrlässig oder vorsätzlich verstösst gegen:
+
+- a. eine Bestimmung dieses Gesetzes oder eine Ausführungsvorschrift, deren Übertretung für strafbar erklärt wird;
+- b. eine Verfügung, in der auf die Strafandrohung dieses Artikels hingewiesen wird.
+
+<sup>2</sup> In geringfügigen Fällen kann an Stelle der Strafe eine Verwarnung ausgesprochen werden.
+
+[^15a-1]: Eingefügt durch Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+
+#### Art. 16
+
+**Widerhandlungen in Geschäftsbetrieben**
+
+Für Widerhandlungen in Geschäftsbetrieben gilt Artikel 6 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^16-1].
+
+[^16-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 17
+
+**Einziehung von Material**[^17-1]
+
+Der Richter verfügt ohne Rücksicht auf die Strafbarkeit einer bestimmten Person die Einziehung des betreffenden Materials, wenn und soweit keine Gewähr für eine rechtmässige weitere Verwendung geboten wird. Das eingezogene Material sowie ein allfälliger Verwertungserlös verfallen unter Vorbehalt des Bundesgesetzes vom 19. März 2004[^17-2] über die Teilung eingezogener Vermögenswerte dem Bund.
+
+[^17-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^17-2]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+
+#### Art. 18
+
+**Gerichtsbarkeit und Anzeigepflicht**
+
+<sup>1</sup> Verfolgung und Beurteilung der Widerhandlungen nach den Artikeln 14 und 15 unterstehen der Bundesstrafgerichtsbarkeit.[^18-1]
+
+<sup>1bis</sup> Widerhandlungen nach Artikel 15*a* werden nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974[^18-2] verfolgt und beurteilt.[^18-3]
+
+<sup>2</sup> Die Bewilligungs- und Kontrollbehörden, die Polizeiorgane der Kantone und der Gemeinden sowie die Zollorgane sind verpflichtet, Widerhandlungen gegen dieses Gesetz, die sie bei ihrer dienstlichen Tätigkeit wahrnehmen oder von denen sie dabei Kenntnis erhalten, der Bundesanwaltschaft anzuzeigen.
+
+[^18-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^18-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^18-3]: Eingefügt durch Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+
+## 6. Abschnitt: Zusammenarbeit von Behörden
+
+#### Art. 19
+
+**Amtshilfe in der Schweiz**
+
+Die zuständigen Behörden des Bundes sowie die Polizeiorgane der Kantone und Gemeinden können einander und den jeweiligen Aufsichtsbehörden Daten bekanntgeben, soweit dies für den Vollzug dieses Gesetzes notwendig ist.
+
+#### Art. 20
+
+**Amtshilfe zwischen schweizerischen und ausländischen Behörden**
+
+<sup>1</sup>
+
+Die für den Vollzug, die Kontrolle, die Deliktsverhütung oder die Strafverfolgung zuständigen Behörden des Bundes können mit den zuständigen ausländischen Behörden sowie internationalen Organisationen oder Gremien zusammenarbeiten und die Erhebungen koordinieren, soweit:
+
+- a. dies zum Vollzug dieses Gesetzes oder entsprechender ausländischer Vorschriften erforderlich ist; und
+- b. die ausländischen Behörden, internationalen Organisationen oder Gremien an das Amtsgeheimnis oder an eine entsprechende Verschwiegenheitspflicht gebunden sind und in ihrem Bereich Schutz vor Wirtschaftsspionage garantieren.
+
+<sup>2</sup>
+
+Sie können ausländische Behörden und internationale Organisationen oder Gremien namentlich um Herausgabe der erforderlichen Daten ersuchen. Zu deren Erlangung können sie ihnen Daten bekanntgeben über:
+
+- a. Beschaffenheit, Menge, Bestimmungs- und Verwendungsort, Verwendungszweck sowie Empfänger von Gütern;
+- b. Personen, die an der Herstellung, Lieferung oder Vermittlung von Gütern beteiligt sind;
+- c. die finanzielle Abwicklung des Geschäfts.
+
+<sup>3</sup>
+
+Hält der ausländische Staat Gegenrecht, so können die Behörden des Bundes nach Absatz 1 die Daten nach Absatz 2 auch von sich aus oder auf dessen Ersuchen hin bekanntgeben, wenn die ausländische Behörde zusichert, dass die Daten:
+
+- a. nur für Zwecke bearbeitet werden, die diesem Gesetz entsprechen; und
+- b. nur dann in einem gerichtlichen Strafverfahren verwendet werden, wenn sie nachträglich nach den Bestimmungen über die internationale Rechtshilfe beschafft worden sind.
+
+<sup>4</sup> Die Behörden des Bundes nach Absatz 1 können die Daten auch internationalen Organisationen oder Gremien unter den Voraussetzungen von Absatz 3 bekanntgeben, wobei auf das Erfordernis des Gegenrechts verzichtet werden kann.
+
+<sup>5</sup> Die Bestimmungen über die internationale Rechtshilfe in Strafsachen bleiben vorbehalten.
+
+#### Art. 21
+
+**Informationsdienst**[^21-1]
+
+Ein Informationsdienst beschafft, bearbeitet und gibt Daten weiter, soweit es der Vollzug dieses Gesetzes, die Deliktverhütung und die Strafverfolgung erfordern.
+
+[^21-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+
+## 7. Abschnitt: Schlussbestimmungen
+
+#### Art. 22
+
+**Vollzug**
+
+<sup>1</sup> Der Bundesrat erlässt die Ausführungsvorschriften.
+
+<sup>2</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung kann die Listen nachführen, die der Bundesrat in Ausführung von Artikel 2 Absätze 1–2<sup>bis</sup> und von Artikel 8 Absatz 2 Buchstabe b festlegt.[^22-1]
+
+[^22-1]: Fassung gemäss Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
+
+#### Art. 23
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: 1. Oktober 1997[^23-1]
+
+[^23-1]: BRB vom 25. Juni 1997

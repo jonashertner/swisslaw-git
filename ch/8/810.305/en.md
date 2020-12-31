@@ -1,0 +1,1418 @@
+---
+sr: "810.305"
+title: "Ordinance of 20 September 2013 on Clinical Trials in Human Research (Clinical Trials Ordinance, ClinO)"
+short: ClinO
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
+language: en
+version: 2018-04-24
+adopted: 2013-09-20
+in_force: 2014-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20180424/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20180424-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20180424/en"
+---
+
+> Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
+
+# Ordinance on Clinical Trials in Human Research
+
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+
+(Clinical Trials Ordinance, ClinO)
+
+of 20 September 2013 (Status as of 24 April 2018)
+
+The Swiss Federal Council,
+
+on the basis of the Human Research Act of 30 September 2011[^ingress-1] (HRA), of Article 36 paragraphs 1, 3 and 4 of the Transplantation Act of 8 October 2004[^ingress-2] (Transplantation Act), and of Article 54 paragraphs 3, 6 and 7 of the Therapeutic Products Act of 15 December 2000[^ingress-3] (TPA),
+
+ordains:
+
+[^ingress-1]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^ingress-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+## Chapter 1 General Provisions
+
+### Section 1 Purpose and Definitions
+
+#### Art. 1
+
+**Purpose**
+
+<sup>1</sup>
+
+This Ordinance regulates:
+
+- a. the requirements for the conduct of clinical trials as defined in Article 3 letter l HRA;
+- b. the authorisation and notification procedures for clinical trials;
+- c. the duties and responsibilities of research ethics committees (ethics committees), the Swiss Agency for Therapeutic Products (Agency) and the Federal Office of Public Health (FOPH) in connection with the authorisation and notification procedures;
+- d. the registration of clinical trials and public access to the registry.
+
+<sup>2</sup> For clinical trials of xenotransplantation, the Xenotransplantation Ordinance of 16 March 2007[^1-1] applies.
+
+[^1-1]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+
+#### Art. 2
+
+**Definitions**
+
+In this Ordinance:
+
+- a. *health-related intervention* means a preventive, diagnostic, therapeutic, palliative or rehabilitative measure investigated in a clinical trial;
+- b.
+
+  *minimal risks and burdens* means risks and burdens, which, in terms of intensity and quality, and taking into account the vulnerability of the participants and the specific circumstances, will have only a slight and temporary impact on the participants’ health; in particular, minimal risks and burdens may be associated with:
+
+  - 1\. surveys and observations,
+  - 2\. peripheral venous or capillary blood sampling and skin punch biopsies of limited extent,
+  - 3\. removing or collecting bodily substances without invasive interventions (in particular, saliva, urine and stool samples),
+  - 4\. taking swabs,
+  - 5\. magnetic resonance imaging scans without a contrast medium, ultrasound examinations or electrograms,
+  - 6\. examinations using medical devices bearing conformity markings without a contrast medium, or using authorised medicinal products capable of emitting ionising radiation, provided that the effective dose[^2-1] is below 5 mSv per research project and per person concerned;
+
+- c. *sponsor* means a person or institution headquartered or represented in Switzerland that takes responsibility for organising a clinical trial, and in particular for the initiation, management and financing of the trial in Switzerland;
+- d. *investigator* means a person responsible in Switzerland for the conduct of a clinical trial and for the protection of the participants at the trial site; an investigator who takes responsibility for organising a clinical trial in Switzerland is also a sponsor.
+
+[^2-1]: The correction (replacement of expressions) of 24 April 2018 relates to the French and Italian texts only ([AS 2018 1653](https://fedlex.data.admin.ch/eli/oc/2018/243)).
+
+### Section 2 Principles
+
+#### Art. 3
+
+**Scientific integrity**
+
+<sup>1</sup>
+
+The sponsor and the investigator, and the other persons involved in the clinical trial, shall maintain scientific integrity. In particular, it is prohibited:
+
+- a. to falsify, fabricate or suppress research results;
+- b. to fail to disclose conflicts of interest at the planning stage, in the authorisation procedure, or when conducting or publishing research;
+- c. to impede or prevent research activities without good reason;
+- d. to prevent or sanction the exposure of scientific misconduct.
+
+<sup>2</sup> The applicable guidelines are the Principles and Procedures for Integrity in Scientific Research issued by the Swiss Academies of Arts and Sciences, as specified in Annex 1 number 1. In justified cases, other recognised scientific integrity guidelines of equivalent standing may be used.
+
+#### Art. 4
+
+**Scientific quality**
+
+The sponsor and the investigator of a clinical trial shall ensure scientific quality. In particular:
+
+- a. they shall define a research question based on the current state of scientific knowledge;
+- b. they shall use an appropriate scientific methodology; and
+- c. they shall ensure the availability of the resources required for the clinical trial and provide the necessary infrastructure.
+
+#### Art. 5
+
+**Rules of Good Clinical Practice**
+
+<sup>1</sup> Clinical trials must be conducted in accordance with the rules of Good Clinical Practice, as specified in Annex 1 number 2.
+
+<sup>2</sup> A clinical trial covered by Chapter 4 may be conducted in accordance with other rules which are recognised in the specialty in question, provided that the protection of participants and data quality and security are guaranteed.
+
+<sup>3</sup> The measures and precautions required in accordance with the rules of Good Clinical Practice must be adapted to the extent of the risks to which participants are exposed. Depending on the extent of these risks, there may be certain deviations from the rules of Good Clinical Practice. Any deviations must be recorded in the protocol. The protection of the participants and data quality and security must be guaranteed in all cases.
+
+#### Art. 6
+
+**Professional qualifications**
+
+<sup>1</sup>
+
+The clinical trial investigator must:
+
+- a. be adequately trained in Good Clinical Practice and have the professional knowledge and experience required for the clinical trial; and
+- b. be conversant with the legal requirements for clinical trials or be able to ensure compliance by calling in appropriate expertise.
+
+<sup>2</sup> In addition, the investigator in a clinical trial of medicinal products or transplantation must be entitled to practise the medical profession independently.
+
+<sup>3</sup> For clinical trials of medical devices and for clinical trials covered by Chapter 4, a person without medical qualifications may also serve as an investigator, provided that this person is entitled to practise independently the profession specifically qualifying him or her to conduct the clinical trial.
+
+<sup>4</sup> The other persons conducting the clinical trial must have the professional knowledge and experience appropriate to the activities in question.
+
+### Section 3 Information, Consent and Revocation
+
+#### Art. 7
+
+**Information**
+
+<sup>1</sup>
+
+In addition to the points specified in Article 16 paragraph 2 HRA, the persons concerned must receive information on:
+
+- a. possible alternatives to the intervention under investigation, if the clinical trial is expected to offer a direct benefit;
+- b. the effort involved and the obligations arising from participation;
+- c. their right to withhold or to revoke their consent without giving reasons and without suffering any disadvantages in relation to their medical treatment;
+- d. the consequences of revocation of consent for their subsequent medical treatment, and for further use of the personal data and biological material collected up to this point;
+- e. their right to receive information at any time in response to further questions relating to the clinical trial;
+- f. their right to be informed of results concerning their health, and their right to forgo such information or to designate a person who is to take this decision for them;
+- g. the measures envisaged to cover any damage arising from the clinical trial, including the procedure in the event of a claim;
+- h. the sponsor and the main sources of financing for the clinical trial;
+- i. other points relevant to their decision on participation.
+
+<sup>2</sup> If the intention exists to make further use for research of biological material sampled or health-related personal data collected in the clinical trial, the persons concerned must also receive information on the points specified in Articles 28–32 of the Human Research Ordinance of 20 September 2013[^7-1].
+
+<sup>3</sup> The information may be provided in stages. It may be additionally presented in a non-textual form.
+
+<sup>4</sup> Appropriate measures must be taken to ensure that the persons concerned have understood the essential elements of the information provided.
+
+[^7-1]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+
+#### Art. 8
+
+**Exceptions to written form**
+
+<sup>1</sup>
+
+In individual cases, information may be provided and consent given in a non‑written form if:
+
+- a. the person concerned, for physical or cognitive reasons, cannot read or cannot write; and
+- b. the investigator furnishes proof of the provision of information and consent, specifically by means of written confirmation by witnesses, or by a recording of verbal consent.
+
+<sup>2</sup>
+
+In individual cases, the requirement to provide information in written form may be waived if:
+
+- a. this could only be implemented with disproportionate effort, given the language skills of the person concerned; and
+- b. an independent qualified translator is called in to provide oral information and gives written confirmation thereof.
+
+#### Art. 9
+
+**Consequences of revocation of consent**
+
+<sup>1</sup> If consent is revoked, the biological material and health‑related personal data of the person concerned must be anonymised after data evaluation has been completed.
+
+<sup>2</sup>
+
+Anonymisation of the biological material and personal data may be dispensed with if:
+
+- a. the person concerned expressly renounces this right when revoking consent; or
+- b. it is established at the beginning of the clinical trial that anonymisation is not possible and the person concerned, having been adequately informed of this fact, consented to participate.
+
+<sup>3</sup> Persons revoking consent must be offered any follow-up care required to protect their health.
+
+### Section 4 Liability and Coverage
+
+#### Art. 10
+
+**Exemptions from liability**
+
+<sup>1</sup>
+
+Exempt from liability in relation to clinical trials under Article 19 paragraph 1 HRA shall be any person who proves that the damage is attributable to:
+
+- a. the administration of an authorised medicinal product used in accordance with the prescribing information;
+- b. the administration of an authorised medicinal product, if this is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria;
+- c. the employment of a medical device bearing a conformity marking and used in accordance with the instructions;
+- d. the use of some other health-related intervention which is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria.
+
+<sup>2</sup>
+
+Also exempt from liability under Article 19 paragraph 1 HRA shall be any person who proves that the extent of the damage is no greater than would be expected in the current state of scientific knowledge and:
+
+- a. comparable damage could also have occurred if the injured party had undergone standard therapy for the disease; or
+- b. in the case of acutely life-threatening diseases for which no standard therapy exists.
+
+#### Art. 11
+
+**Extension of the limitation period**
+
+The limitation period for compensation claims in respect of damage:
+
+- a. attributable to the use of ionising radiation is governed by Article 40 of the Radiological Protection Act of 22 March 1991[^11-1];
+- b. attributable to the use of genetically modified organisms is governed by Article 32 of the Gene Technology Act of 21 March 2003[^11-2].
+
+[^11-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^11-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+
+#### Art. 12
+
+**Exemptions from liability coverage requirements**
+
+Exempt from liability coverage requirements are:
+
+- a. damage exempt from liability in accordance with Article 10;
+- b. Category A clinical trials (Art. 19 para. 1, Art. 20 para. 1, Art. 49 para. 1 and Art. 61 para. 1) involving measures for sampling of biological material or collection of health-related personal data which entail only minimal risks and burdens.
+
+#### Art. 13
+
+**Requirements for liability coverage**
+
+<sup>1</sup>
+
+The liability coverage requirements can be fulfilled:
+
+- a. by taking out insurance; or
+- b. by providing security of equivalent value.
+
+<sup>2</sup> The policy value shall be set in accordance with Annex 2.
+
+<sup>3</sup> The liability coverage must cover damage occurring up to ten years after the completion of the clinical trial.
+
+#### Art. 14
+
+**Protection of the injured party**
+
+<sup>1</sup> Cancellation of the insurance policy by the insurance company is not permissible after the occurrence of the insured event.
+
+<sup>2</sup> Within the framework of the insurance coverage, the injured party or legal successor has a direct claim against the insurance company. Objections cannot be raised on the basis of the insurance policy or the Insurance Policies Act of 2 April 1908[^14-1].
+
+<sup>3</sup> If the insurance company is subject to action under paragraph 2, it shall have a right of recourse against the insured party.
+
+<sup>4</sup> Paragraphs 1–3 apply *mutatis mutandis* if security of equivalent value is provided in accordance with Article 13 paragraph 1 letter b.
+
+[^14-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+### Section 5 Clinical Trials in Emergency Situations
+
+#### Art. 15
+
+**Post hoc consent**
+
+<sup>1</sup>
+
+The sponsor and the investigator must, when planning or conducting a clinical trial in an emergency situation, take any measures necessary to ensure that:
+
+- a. the consent of the person concerned can be obtained post hoc as soon as possible;
+- b. in the case of a clinical trial involving children or adolescents, the consent of the legal representative can be obtained as soon as possible, if this is required in accordance with Articles 22 and 23 HRA;
+- c. in the case of a clinical trial involving adults permanently lacking capacity, the consent of the person authorised to act as a representative can be obtained as soon as possible, if no statement of wishes formulated in a state of capacity is available.
+
+<sup>2</sup> The procedure for obtaining post hoc consent must be defined in the protocol.
+
+#### Art. 16
+
+**Death of the person**
+
+<sup>1</sup> If a person who was included in a clinical trial in an emergency situation dies before it has been possible to obtain consent or refusal in accordance with Article 15, the biological material and the health-related personal data collected may only be used if this person has consented, in an advance directive or otherwise, to the use of such material and health-related data for research purposes.
+
+<sup>2</sup> In the absence of a statement of wishes as specified in paragraph 1, use is permissible if consent is given by the next of kin or a designated trusted person. Consent is governed by Article 8 of the Transplantation Act.
+
+#### Art. 17
+
+**Handling of biological material and health-related personal data**
+
+<sup>1</sup> The biological material sampled and the health-related personal data collected during a clinical trial in an emergency situation may only be evaluated when consent has been obtained in accordance with Article 15 or 16.
+
+<sup>2</sup>
+
+In exceptional cases, the biological material and the health-related personal data may be evaluated before consent has been obtained if:
+
+- a. the biological material is only utilisable for a limited period; or
+- b. this is necessary for the sake of the participants’ safety and health.
+
+<sup>3</sup> If consent to participate in a clinical trial in an emergency situation is withheld post hoc, the biological material and the health-related personal data must be destroyed.
+
+<sup>4</sup> If the validity of the clinical trial or its results is compromised in essential respects by the destruction of the biological material and the health-related personal data, the use thereof in the clinical trial is permissible in spite of refusal of consent. The biological material and the health-related personal data must be anonymised without delay. The right to dissent of the person concerned is reserved.
+
+<sup>5</sup> If it is foreseeable that material or data may be evaluated before consent has been obtained, in accordance with paragraph 2, or used in spite of refusal of consent, in accordance with paragraph 4, this must be stated in the protocol.
+
+### Section 6 Storage of Health-Related Personal Data and Biological Material
+
+#### Art. 18
+
+<sup>1</sup>
+
+Any person who stores health-related personal data in connection with a clinical trial must take appropriate operational and organisational measures to protect it, and in particular:
+
+- a. restrict the handling of the health-related personal data to those persons who require this data to fulfil their duties;
+- b. prevent unauthorised or accidental disclosure, alteration, deletion and copying of the health-related personal data;
+- c. document all processing operations which are essential to ensure traceability.
+
+<sup>2</sup>
+
+Any person who stores biological material in connection with a clinical trial must, in particular:
+
+- a. comply with the principles set out in paragraph 1 *mutatis mutandis*;
+- b. ensure that the technical requirements are met for appropriate storage of the biological material;
+- c. make available the resources required for storage.
+
+## Chapter 2 Authorisation and Notification Procedures for Clinical Trials of Therapeutic Products and Transplant Products
+
+### Section 1 General Provisions
+
+#### Art. 19
+
+**Categorisation of clinical trials of medicinal products**
+
+<sup>1</sup>
+
+Clinical trials of medicinal products come under Category A if the medicinal product is authorised in Switzerland and its use:
+
+- a. is in accordance with the prescribing information;
+- b.
+
+  is in an indication or dosage different from that specified in the prescribing information, but in accordance with the following criteria:
+
+  - 1\. the indication is within the same disease group of the International Classification of Diseases (ICD), as specified in Annex 1 number 3,
+  - 2\. the disease in question is self-limiting and the dosage of the medicinal product is lower than that specified in the prescribing information; or
+
+- c. is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria.
+
+<sup>2</sup>
+
+Clinical trials of medicinal products come under Category B if the medicinal product:
+
+- a. is authorised in Switzerland; and
+- b. is not used as specified in paragraph 1.
+
+<sup>3</sup> They come under Category C if the medicinal product is not authorised in Switzerland.
+
+<sup>4</sup> In justified cases, a clinical trial of a medicinal product authorised in Switzerland may be assigned to a different category if this is possible or necessary with regard to medicinal product safety or protection of the participants’ safety and health.
+
+#### Art. 20
+
+**Categorisation of clinical trials of medical devices**
+
+<sup>1</sup>
+
+Clinical trials of medical devices come under Category A if:
+
+- a. the medical device bears a conformity marking; and
+- b. it is used in accordance with the instructions.
+
+<sup>2</sup>
+
+They come under Category C if:
+
+- a. the medical device does not have a conformity marking;
+- b. it is not used in accordance with the intended purposes recognised in the conformity assessment and specified in the instructions; or
+- c. use of the medical device is prohibited in Switzerland.
+
+#### Art. 21
+
+**Clinical trials of transplant products**
+
+For clinical trials of transplant products, the provisions of this Ordinance concerning clinical trials of medicinal products apply *mutatis mutandis*.
+
+#### Art. 22
+
+**Clinical trials of gene therapy and clinical trials of genetically modified or pathogenic organisms**
+
+<sup>1</sup> For the purposes of this Ordinance, clinical trials of gene therapy are trials in which genetic information is introduced into somatic cells (somatic gene therapy).
+
+<sup>2</sup> For the purposes of this Ordinance, clinical trials of genetically modified organisms are trials of medicinal products containing genetically modified organisms as defined in the Release Ordinance of 10 September 2008[^22-1], and in particular replication-competent viruses.
+
+<sup>3</sup> For the purposes of this Ordinance, clinical trials of pathogenic organisms are trials of medicinal products containing pathogenic organisms as defined in the Release Ordinance.
+
+<sup>4</sup> For clinical trials of gene therapy and for clinical trials of genetically modified or pathogenic organisms, the provisions of this Ordinance concerning clinical trials of medicinal products apply *mutatis mutandis*.
+
+[^22-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 23
+
+**Coordination and information in authorisation procedures**
+
+<sup>1</sup> The investigator and the sponsor may simultaneously submit applications to the responsible ethics committee and to the Agency.
+
+<sup>2</sup> The responsible ethics committee and the Agency shall inform each other about matters relating to the review areas specified in Article 25 and in Article 32, and shall coordinate their assessments.
+
+### Section 2 Procedure for the Responsible Ethics Committee
+
+#### Art. 24
+
+**Application**
+
+<sup>1</sup> The investigator shall submit to the responsible ethics committee the application documents specified in Annex 3 for review.
+
+<sup>2</sup> The ethics committee may request additional information.
+
+<sup>3</sup> The sponsor may submit the application instead of the investigator. In this case, the sponsor assumes the obligations of the investigator as specified in Articles 28 and 29 and also the notification and reporting obligations vis-à-vis the responsible ethics committee. The application documents must be co-signed by the investigator.
+
+#### Art. 25
+
+**Review areas**
+
+The responsible ethics committee shall review:
+
+- a. the completeness of the application;
+- b. the categorisation requested;
+- c. the information intended for registration in accordance with Article 64;
+- d.
+
+  the protocol with regard to:
+
+  - 1\. the scientific relevance of the topic (Art. 5 HRA), the suitability of the chosen scientific methodology and compliance with Good Clinical Practice,
+  - 2\. the ratio between the likely risks and burdens and the expected benefits (Art. 12 para. 2 HRA),
+  - 3\. the measures taken to minimise risks and burdens, and for the protection and follow-up of participants (Art. 15 HRA), including precautionary measures in the handling of personal data,
+  - 4\. the need to involve persons, and in particular persons who are particularly vulnerable (Art. 11 HRA),
+  - 5\. the criteria for the selection of participants,
+  - 6\. the proposed procedure for providing information and obtaining consent, including the appropriateness of the period for reflection,
+  - 7\. the appropriateness of the remuneration for participants,
+  - 8\. compliance with scientific integrity requirements;
+
+- e. the completeness of the documentation for recruitment, information and consent, and its comprehensibility, especially with regard to the possible involvement of particularly vulnerable persons;
+- f. the guaranteeing of the right to compensation in the event of damage (Art. 20 HRA);
+- g. the adequacy of the knowledge and experience of the investigator and of the other persons conducting the clinical trial, in relation to the discipline concerned and the conduct of a clinical trial;
+- h. the suitability of the infrastructure at the trial site;
+- i. the financing of the clinical trial and the agreements between the sponsor, third parties and the investigator concerning the allocation of tasks, remuneration and publication;
+- j. for Category A clinical trials of therapeutic products capable of emitting ionising radiation: additionally, compliance with radiological protection legislation and the dose estimation;
+- k. for investigations involving radiation sources[^25-1]: additionally, compliance with radiological protection legislation and the dose estimation, in cases where an opinion does not have to be sought from the FOPH in accordance with Article 28;
+- l. other areas, where this is necessary to assess the protection of participants.
+
+[^25-1]: German text amended by Annex 11 No 6 of the Radiological Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). This amendment is not relevant to the English text.
+
+#### Art. 26
+
+**Procedure and deadlines**
+
+<sup>1</sup> The ethics committee shall acknowledge receipt of the application within 7 days and notify the investigator of any formal deficiencies in the application documents.
+
+<sup>2</sup> It shall reach a decision within 30 days of acknowledgement of receipt of the formally correct application documents.
+
+<sup>3</sup> If the ethics committee requests additional information in accordance with Article 24 paragraph 2, the clock shall be stopped until this information has been received.
+
+<sup>4</sup> It shall inform the Agency of its decision in the case of Category B and C clinical trials.
+
+#### Art. 27
+
+**Multicentre clinical trials**
+
+<sup>1</sup> The coordinating investigator shall submit the application for multicentre clinical trials to the lead committee in accordance with Article 47 paragraph 2 HRA. The sponsor may submit the application instead of the coordinating investigator; Article 24 paragraph 3 applies *mutatis mutandis*.
+
+<sup>2</sup> The coordinating investigator is the person responsible in Switzerland for coordination of the investigators responsible at the individual trial sites.
+
+<sup>3</sup> The lead committee shall acknowledge receipt of the application within 7 days and at the same time notify the coordinating investigator whether the application documents are formally in order.
+
+<sup>4</sup> At the request of the lead committee, the coordinating investigator shall submit the required number of copies of the application documents specified in Annex 3 to the ethics committees responsible at the other trial sites (ethics committees concerned). These shall review the local conditions and inform the lead committee of their assessment within 15 days.
+
+<sup>5</sup> The lead committee shall reach a decision within 45 days of acknowledgement of receipt of the formally correct application. It shall inform the ethics committees concerned of its decision and the Agency in the case of Category B and C clinical trials.
+
+#### Art. 28
+
+**Procedure for investigations involving radiation sources**
+
+<sup>1</sup> In the case of investigations involving radiation sources, the investigator shall additionally submit to the responsible ethics committee the documents specified in Annex 3 number 5. Subject to the provisions of the following paragraphs, the authorisation procedure is governed by Articles 24–27 and 29.
+
+<sup>2</sup>
+
+The investigator shall additionally submit to the FOPH the application documents specified in Annex 3 number 6, informing the ethics committee at the same time, if the effective dose per person, taking the uncertainty factor into account, is more than 5 mSv per year and:
+
+- a. a radiopharmaceutical is used which is not authorised in Switzerland;
+- b. a radiopharmaceutical is used which is authorised in Switzerland, and the intervention in question is not a routine nuclear medicine examination; or
+- c. some other radioactive source[^28-1] is used.
+
+<sup>3</sup> The FOPH shall deliver an opinion for the ethics committee on compliance with radiological protection legislation and on the dose estimation.
+
+<sup>4</sup>
+
+The ethics committee shall grant authorisation if:
+
+- a. the requirements covered by Article 25 are met; and
+- b. the FOPH has raised no objections to the clinical trial.
+
+<sup>5</sup> It shall reach a decision within 45 days of acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision.
+
+[^28-1]: German text amended by Annex 11 No 6 of the Radiological Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+
+#### Art. 29
+
+**Changes**
+
+<sup>1</sup> Significant changes to an authorised clinical trial must be authorised by the ethics committee before being implemented. Exempt from this requirement are measures which have to be taken immediately in order to protect the participants.
+
+<sup>2</sup> The investigator shall submit to the ethics committee any application documents specified in Annex 3 which are affected by the change. At the same time, the investigator shall provide information on the reasons for the change.
+
+<sup>3</sup>
+
+The following are considered to be significant changes:
+
+- a. changes affecting the participants’ safety and health, or their rights and obligations;
+- b. changes to the protocol, and in particular changes based on new scientific knowledge which concern the trial design, the method of investigation, the endpoints or the form of statistical analysis;
+- c. a change of trial site, or conducting the clinical trial at an additional site; or
+- d. a change of sponsor, coordinating investigator or investigator responsible at a trial site.
+
+<sup>4</sup> The ethics committee shall reach a decision on significant changes within 30 days. Article 26 applies *mutatis mutandis*.
+
+<sup>5</sup> If a site at which a clinical trial is to be additionally conducted does not lie within the responsibility of the ethics committee which granted authorisation, the procedure is governed by Article 27 *mutatis mutandis*.
+
+<sup>6</sup> Other changes must be notified to the ethics committee in the annual safety report specified in Article 43.
+
+### Section 3 Procedure for the Swiss Agency for Therapeutic Products
+
+#### Art. 30
+
+**Exemption from mandatory authorisation**
+
+Category A clinical trials of therapeutic products are exempted from the requirement for authorisation from the Agency as specified in Article 54 paragraph 1 TPA.
+
+#### Art. 31
+
+**Application**
+
+<sup>1</sup> The sponsor shall submit to the Agency the application documents specified in Annex 4 for review.
+
+<sup>2</sup> The Agency may request additional information.
+
+#### Art. 32
+
+**Review areas**
+
+<sup>1</sup>
+
+For clinical trials of medicinal products, the Agency shall review:
+
+- a. the completeness of the application;
+- b. the safety of the medicinal product, and in particular the preclinical and clinical pharmacology, toxicology, formulation and pharmacokinetics, and the proposed dosage and indication;
+- c. the risk assessment and risk management based on the medicinal product safety data;
+- d. the quality of the medicinal product and compliance with Good Manufacturing Practice (GMP);
+- e. other areas, where this is necessary to assess the safety or quality of the medicinal product.
+
+<sup>2</sup> For Category B clinical trials of medicinal products capable of emitting ionising radiation, it shall additionally review compliance with radiological protection legislation and the dose estimation.
+
+<sup>3</sup>
+
+For clinical trials of medical devices, it shall review:
+
+- a. the completeness of the application;
+- b. the requirements specified in Article 54 paragraph 4 letter b TPA.
+
+#### Art. 33
+
+**Procedure and deadlines**
+
+<sup>1</sup> The Agency shall acknowledge receipt of the application within 7 days and notify the sponsor of any formal deficiencies in the application documents.
+
+<sup>2</sup> It shall reach a decision within 30 days of acknowledgement of receipt of the formally correct application documents.
+
+<sup>3</sup> If a therapeutic product is to be used in persons for the first time or manufactured in a new process, this deadline may be extended by a maximum of 30 days. The Agency shall inform the sponsor of the extended deadline.
+
+<sup>4</sup> If the Agency requests additional information in accordance with Article 31 paragraph 2, the clock shall be stopped until this information has been received.
+
+<sup>5</sup> The Agency shall inform the responsible ethics committee and other competent cantonal authorities of its decision.
+
+#### Art. 34
+
+**Changes**
+
+<sup>1</sup> Significant changes to an authorised clinical trial must be authorised by the Agency before being implemented. Exempt from this requirement are measures which have to be taken immediately in order to protect the participants.
+
+<sup>2</sup> The sponsor must submit to the Agency any application documents specified in Annex 4 which are affected by the change. At the same time, the sponsor shall provide information on the reasons for the change.
+
+<sup>3</sup>
+
+The following are considered to be significant changes:
+
+- a. changes to the therapeutic product, or to its administration or use;
+- b. changes based on new preclinical or clinical data which may affect product safety; or
+- c. changes concerning the production of the therapeutic product which may affect product safety.
+
+<sup>4</sup> The Agency shall reach a decision within 30 days after receipt of the complete application documents affected by the change. Article 33 applies *mutatis mutandis*.
+
+<sup>5</sup> Other changes which affect the documents submitted to the Agency must be notified to the Agency as quickly as possible.
+
+### Section 4 Special Provisions for Clinical Trials of Gene Therapy, for Clinical Trials of Genetically Modified or Pathogenic Organisms, and for Clinical Trials involving Ionising Radiation
+
+#### Art. 35
+
+**Clinical trials of gene therapy and clinical trials of genetically modified or pathogenic organisms**
+
+<sup>1</sup> For Category B and C clinical trials of gene therapy and for clinical trials of genetically modified or pathogenic organisms as defined in Article 22, the documents specified in Annex 4 number 4 must be submitted to the Agency.
+
+<sup>2</sup> Before granting authorisation, the Agency shall seek opinions from the Swiss Expert Committee for Biosafety (SECB), the Federal Office for the Environment (FOEN) and the FOPH.
+
+<sup>3</sup> In addition to the areas specified in Article 32, it shall review whether the quality and biological safety of the product are guaranteed with regard to the participants and to human health and the environment.
+
+<sup>4</sup>
+
+It shall grant authorisation if:
+
+- a. the SECB has confirmed the quality and biological safety of the product with regard to the participants and to human health and the environment; and
+- b. no objections to the clinical trial have been raised by the FOPH or by the FOEN, based on the assessment of the environmental data.
+
+<sup>5</sup> The Agency shall grant authorisation within 60 days of acknowledgement of receipt of the formally correct application documents. The Agency shall inform the competent federal and cantonal authorities of its decision.
+
+<sup>6</sup> Authorisations shall remain valid for the duration of the clinical trial, but for no longer than five years after they are granted.
+
+<sup>7</sup> The Agency, the FOPH and the FOEN shall jointly issue guidelines on assessment of risks to human health and the environment.
+
+#### Art. 36
+
+**Clinical trials of therapeutic products capable of emitting ionising radiation**
+
+<sup>1</sup> For Category B and C clinical trials of therapeutic products capable of emitting ionising radiation, the documents specified in Annex 4 number 5 must additionally be submitted to the Agency.
+
+<sup>2</sup> In the case of Category C clinical trials, the Agency shall seek an opinion from the FOPH before granting authorisation. The FOPH shall review compliance with radiological protection legislation and the dose estimation.
+
+<sup>3</sup>
+
+The Agency shall grant authorisation if:
+
+- a. the requirements covered by Article 32 are met; and
+- b. the FOPH has raised no objections to the clinical trial.
+
+<sup>4</sup> The Agency shall reach a decision on Category C clinical trials within 60 days of acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision.
+
+<sup>5</sup>
+
+In the case of Category C clinical trials, it shall transmit to the FOPH directly after receipt:
+
+- a. the final report specified in Article 38 paragraph 3 including all information of relevance for radiological protection, and in particular a retrospective participant dose estimation, unless stipulations to the contrary have been made by the FOPH;
+- b. the reports specified in Article 41 paragraph 2 and Article 42 paragraph 1.
+
+### Section 5 Notifications and Reporting
+
+#### Art. 37
+
+**Notification of safety and protective measures**
+
+<sup>1</sup> If immediate safety and protective measures have to be taken during the conduct of a clinical trial, the investigator shall notify the ethics committee of these measures, and of the circumstances necessitating them, within 7 days.
+
+<sup>2</sup> In the case of clinical trials of medical devices, this notification shall be made within 2 days.
+
+<sup>3</sup> For Category B and C clinical trials, the notifications specified in paragraphs 1 and 2 shall be made to the Agency. This obligation rests on the sponsor.
+
+#### Art. 38
+
+**Notification and reporting upon completion, discontinuation or interruption of a clinical trial**
+
+<sup>1</sup> The investigator shall notify the ethics committee of the completion of the clinical trial in Switzerland within 90 days. Completion of a clinical trial is marked by the last participant’s final follow-up visit, in the absence of provisions to the contrary in the protocol.
+
+<sup>2</sup> The investigator shall notify the ethics committee of the discontinuation or interruption of the clinical trial within 15 days. In the notification, the reasons for the discontinuation or interruption shall be stated.
+
+<sup>3</sup> The investigator shall submit a final report to the ethics committee within a year after completion or discontinuation of the clinical trial, unless a longer period is specified in the protocol.
+
+<sup>4</sup> If a multicentre clinical trial is discontinued or interrupted at one of the trial sites, the coordinating investigator shall also notify the responsible ethics committee concerned in accordance with paragraph 2.
+
+<sup>5</sup> For Category B and C clinical trials, the notifications and reports specified in paragraphs 1–3 shall be made to the Agency. These obligations rest on the sponsor.
+
+#### Art. 39
+
+**Documentation of adverse events (AE) in clinical trials of medicinal products**
+
+<sup>1</sup> If, in the course of a Category C clinical trial of medicinal products, adverse events which are not to be classified as serious occur in participants, they must be documented by the investigator in a standardised manner.
+
+<sup>2</sup> Adverse events occurring in the course of a Category B clinical trial must be documented in a standardised manner, if this is envisaged in the protocol or was requested by the authorities responsible for authorisation.
+
+<sup>3</sup> For Category A clinical trials, there is no obligation to document adverse events.
+
+<sup>4</sup> The definition of adverse events is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
+
+#### Art. 40
+
+**Serious adverse events (SAE) in clinical trials of medicinal products**
+
+<sup>1</sup> If, in the course of a clinical trial, serious adverse events occur in participants, the investigator must document these in a standardised manner and notify the sponsor within 24 hours after they become known. Events which are not to be reported according to the protocol are exempted.
+
+<sup>2</sup> In the absence of provisions to the contrary in the protocol, the investigator shall notify the responsible ethics committee of a fatal serious adverse event occurring at a trial site in Switzerland within 7 days.
+
+<sup>3</sup> In the case of a multicentre clinical trial, the coordinating investigator shall also report events as specified in paragraph 2 to the responsible ethics committee concerned within the same period.
+
+<sup>4</sup> The definition of serious adverse events is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
+
+#### Art. 41
+
+**Suspected unexpected serious adverse reactions (SUSAR) in clinical trials of medicinal products**
+
+<sup>1</sup> If, in the course of a clinical trial, a suspected unexpected serious adverse reaction occurs in participants, the investigator must document this in a standardised manner and notify the sponsor within 24 hours after it becomes known.
+
+<sup>2</sup> The investigator shall notify the responsible ethics committee of a fatal suspected unexpected serious adverse reaction occurring in Switzerland within 7 days, and of any other suspected unexpected serious adverse reaction within 15 days.
+
+<sup>3</sup> If, in the case of a multicentre clinical trial, a suspected unexpected serious adverse reaction occurs at one of the trial sites, the coordinating investigator shall also notify the responsible ethics committee concerned in accordance with paragraph 2, within the same period.
+
+<sup>4</sup> For Category B and C clinical trials, the notifications specified in paragraph 2 shall also be made to the Agency. This obligation rests on the sponsor. For Category A clinical trials, the sponsor is subject to the notification requirements specified in Article 59 paragraphs 1 and 2 TPA.
+
+<sup>5</sup> The definition of a suspected unexpected serious adverse reaction is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
+
+#### Art. 42
+
+**Serious adverse events (SAE) in clinical trials of medical devices**[^42-1]
+
+<sup>1</sup>
+
+The investigator shall, within 7 days, notify the responsible ethics committee of the following:
+
+- a.
+
+  serious adverse events which occur in participants in Switzerland in the course of a Category C clinical trial of medical devices and where it cannot be excluded that the events are attributable:
+
+  - 1\. to the device under investigation, or
+  - 2\. to an intervention undertaken in the clinical trial;
+
+- b. device deficiencies that could have led to serious adverse events if suitable action had not been taken, intervention had not been made, or circumstances had been less fortunate.
+
+<sup>2</sup> If, in the case of a multicentre clinical trial, serious adverse events or device deficiencies occur at one of the trial sites, the coordinating investigator shall also notify the responsible ethics committee concerned.
+
+<sup>3</sup> For a Category C clinical trial, the notifications specified in paragraph 1 shall also be made to the Agency. This obligation rests on the sponsor. In addition, the sponsor shall notify the Agency of any events occurring or device deficiencies observed abroad. In the case of a Category A clinical trial, the sponsor is subject to the notification requirements specified in Article 15 paragraph 1 of the Medical Devices Ordinance of 17 October 2001[^42-2].
+
+<sup>4</sup> The definition of serious adverse events and device deficiencies is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
+
+[^42-1]: Amended by Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^42-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
+#### Art. 43
+
+**Reporting on the safety of participants**
+
+<sup>1</sup> Once a year, the investigator shall present to the responsible ethics committee a list of events, device deficiencies and adverse reactions as specified in Articles 40–42 and, on this basis, shall submit a report on their severity and causal relationship to the intervention, and on the safety of participants (annual safety report, ASR).[^43-1]
+
+<sup>2</sup> In the case of clinical trials also conducted abroad according to the same protocol, the events, device deficiencies and adverse reactions occurring abroad must also be included in the list and the report.[^43-2]
+
+<sup>3</sup> For Category B and C clinical trials, reports as specified in paragraphs 1 and 2 must also be submitted to the Agency. This obligation rests on the sponsor.
+
+[^43-1]: Amended by Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^43-2]: Amended by Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+
+#### Art. 44
+
+**Assessment, notification and reporting on the use of radiation sources**[^44-1]
+
+<sup>1</sup> In clinical trials involving therapeutic products capable of emitting ionising radiation, and in investigations using radiation sources, the investigator shall assess compliance with the dose guidance value in accordance with Article 45 of the Radiological Protection Ordinance of 26 April 2017[^44-2].
+
+<sup>2</sup> If the permitted dose guidance value is exceeded at any time, the investigator shall notify the responsible ethics committee within seven working days of it becoming known.
+
+<sup>3</sup> In the case of Category B and C clinical trials with therapeutic products that emit ionising radiation, notification in accordance with paragraph 2 must also be given to the Agency. This obligation rests on the sponsor.
+
+<sup>4</sup> The responsible ethics committee and the Agency may obtain specialist advice from the FOPH in order to assess the dose calculation or the dose estimation and to decide what further measures are required.
+
+<sup>5</sup> Within a year of the completion or discontinuation of a clinical trial which included investigations involving radioactive sources, the investigator shall submit to the FOPH a final report including all information of relevance for radiological protection, and in particular a retrospective participant dose estimation.
+
+<sup>6</sup> The reporting requirements in accordance with paragraph 5 do not apply in the case of routine nuclear medicine examinations involving authorised radiopharmaceuticals.
+
+<sup>7</sup> Within the framework of the opinion delivered in accordance with Article 28, or on request, the FOPH may specify further exemptions from the reporting requirements in accordance with paragraph 5.
+
+[^44-1]: Amended by Annex 11 No 6 of the Radiological Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^44-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+#### Art. 45
+
+**Data retention requirements**
+
+<sup>1</sup> The sponsor must retain all data relating to the clinical trial until the expiry date of the last batch supplied of the medicinal product investigated or of the last medical device manufactured, but at least for ten years after the completion or discontinuation of the clinical trial. In the case of implantable medical devices, the retention period shall be at least 15 years.
+
+<sup>2</sup> The investigator must retain all documents required for the identification and follow-up of participants, and all other original data, for at least ten years after the completion or discontinuation of the clinical trial. In the case of implantable medical devices, the retention period shall be at least 15 years.
+
+<sup>3</sup> For clinical trials of transplant products and for clinical trials of blood and blood products, the retention requirements are governed by Article 40 paragraph 1 TPA.
+
+### Section 6 Inspections and Official Measures
+
+#### Art. 46
+
+**Agency inspections**
+
+<sup>1</sup> The Agency is entitled to inspect all clinical trials of therapeutic products and transplant products.
+
+<sup>2</sup> If the Agency carries out inspections, it shall inform in advance the responsible ethics committee and other competent cantonal and federal authorities. They may participate in the inspection.
+
+<sup>3</sup> The Agency’s powers are governed by Article 43 of the Medicinal Products Authorisation Ordinance of 17 October 2001[^46-1].
+
+<sup>4</sup> The Agency may additionally carry out inspections abroad at the sponsor’s expense, if this is necessary to assess the clinical trial conducted in Switzerland. The sponsor must be informed in advance.
+
+<sup>5</sup> The Agency shall inform the responsible ethics committee and other competent cantonal and federal authorities of the results of the inspection.
+
+[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+
+#### Art. 47
+
+**Official measures of the Agency**
+
+The Agency may revoke or suspend the authorisation granted or make the continuation of the clinical trial subject to additional conditions, in particular if:
+
+- a. the safety or health of participants is at risk, particularly as a result of inadequate product safety or manufacturing defects;
+- b. the quality of the data collected is poor;
+- c. the clinical trial is not conducted in accordance with the application documents approved by the Agency or by the ethics committee;
+- d. the authorisation and notification requirements have not been complied with.
+
+#### Art. 48
+
+**Coordination and information**
+
+<sup>1</sup> The responsible ethics committee, the Agency and the other competent cantonal authorities shall coordinate in advance the official measures to be taken.
+
+<sup>2</sup> The right is reserved to take measures which have to be ordered without delay in order to protect the safety or health of the persons concerned. The ethics committees and the other competent federal and cantonal authorities shall immediately inform each other about such measures.
+
+## Chapter 3 Authorisation and Notification Procedures for Clinical Trials of the Transplantation of Human Organs, Tissues and Cells
+
+### Section 1 General Provisions
+
+#### Art. 49
+
+**Categorisation**
+
+<sup>1</sup> A clinical trial of the transplantation of human organs, tissues and cells comes under Category A if the transplantation to be investigated is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria.
+
+<sup>2</sup> A clinical trial of the transplantation of human organs, tissues and cells comes under Category C if the transplantation to be investigated is not recognised as standard as specified in paragraph 1.
+
+<sup>3</sup> Clinical trials of the transplantation of embryonic and foetal tissues and cells come under Category C.
+
+#### Art. 50
+
+**Information and coordination in authorisation procedures**
+
+<sup>1</sup> The investigator and the sponsor may simultaneously submit applications to the responsible ethics committee and to the FOPH.
+
+<sup>2</sup> The responsible ethics committee and the FOPH shall inform each other about matters relating to the review areas specified both in Article 25 and in Article 53, and shall coordinate their assessments.
+
+### Section 2 Procedure for the Responsible Ethics Committee
+
+#### Art. 51
+
+For the procedure for the authorisation of clinical trials of transplantation by the responsible ethics committee, Articles 24–29 apply *mutatis mutandis*.
+
+### Section 3 Procedure for the FOPH
+
+#### Art. 52
+
+**Exemption from mandatory authorisation**
+
+Category A clinical trials are exempted from the requirement for authorisation from the FOPH specified in Article 36 paragraph 1 of the Transplantation Act.
+
+#### Art. 53
+
+**Review areas**
+
+For clinical trials of transplantation, the FOPH shall review:
+
+- a. the completeness of the application;
+- b. the origin of the organs, tissues or cells used in the clinical trial;
+- c. compliance with the requirements of the transplantation legislation, particularly with regard to the duties of care in the handling of organs, tissues and cells, and the allocation of organs;
+- d. the availability of the authorisations required in accordance with the Transplantation Act;
+- e. other areas, where this is necessary to assess the safety and quality of the organs, tissues or cells used.
+
+#### Art. 54
+
+**Authorisation procedure**
+
+<sup>1</sup> The sponsor shall submit to the FOPH the application documents specified in Annex 4 for review.
+
+<sup>2</sup> The FOPH may request additional information.
+
+<sup>3</sup> For the procedure and deadlines, Article 33 applies *mutatis mutandis*.
+
+#### Art. 55
+
+**Changes**
+
+<sup>1</sup> Significant changes to an authorised clinical trial must be authorised by the FOPH before being implemented. Exempt from this requirement are measures which have to be taken immediately in order to protect the participants.
+
+<sup>2</sup> The sponsor must submit to the FOPH any application documents specified in Annex 4 which are affected by the change. At the same time, the sponsor shall provide information on the reasons for the change.
+
+<sup>3</sup>
+
+The following are considered to be significant changes:
+
+- a. new scientific knowledge, based in particular on new preclinical or clinical data, which affects the assessment of the safety of the organs, tissues or cells used; or
+- b. changes relating to the origin, the tests to be performed or the storage of the organs, tissues or cells used.
+
+<sup>4</sup> Also considered significant in the case of clinical trials of the transplantation of embryonic or foetal tissues and cells are changes which may affect the safety of the participants.
+
+<sup>5</sup> The FOPH shall reach a decision within 30 days of receipt of the complete set of application documents affected by the change. Article 33 applies *mutatis mutandis*.
+
+<sup>6</sup> Other changes which affect documents submitted to the FOPH must be notified to the FOPH as quickly as possible.
+
+#### Art. 56
+
+**Special provisions for clinical trials of the transplantation of embryonic or foetal tissues and cells**
+
+<sup>1</sup> The FOPH shall grant authorisation if, in addition to Article 53, the requirements specified in Article 34 of the Transplantation Ordinance of 16 March 2007[^56-1] are met.
+
+<sup>2</sup> It shall grant authorisation within 60 days or, in the case of significant changes, within 30 days after receipt of the complete application documents.
+
+<sup>3</sup> For clinical trials of the transplantation of embryonic or foetal tissues and cells, Articles 35, 36 and 38 of the Transplantation Ordinance additionally apply.
+
+[^56-1]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+
+### Section 4 Notifications and Reporting
+
+#### Art. 57
+
+<sup>1</sup> For notifications and reporting in the case of clinical trials of transplantation, Articles 37–41, 43 and 44 apply *mutatis mutandis*.[^57-1]
+
+<sup>2</sup> The obligations which must be fulfilled under these provisions vis-à-vis the Agency are to be fulfilled, for clinical trials of transplantation, vis-à-vis the FOPH.
+
+<sup>3</sup> For clinical trials of transplantation, the duties of the sponsor and the investigator concerning documentation, traceability and retention of records are governed by Articles 34 and 35 of the Transplantation Act.
+
+[^57-1]: Correction of 27 Dec. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+
+### Section 5 Inspections and Official Measures
+
+#### Art. 58
+
+**FOPH inspections**
+
+<sup>1</sup> The FOPH may carry out inspections at any time and inspect all documents and data relating to a clinical trial of transplantation. It may request the cantonal authorities or third parties to carry out inspections.
+
+<sup>2</sup> Other powers and duties of cooperation are governed by Article 63 paragraphs 2 and 3 and Article 64 of the Transplantation Act.
+
+#### Art. 59
+
+**Official measures**
+
+<sup>1</sup>
+
+The FOPH may revoke or suspend the authorisation granted or make the continuation of the clinical trial subject to additional conditions, particularly if:
+
+- a. it has reason to assume that the requirements are no longer met, the documents specified in Article 54 have been changed without due notification having been made, or the trial is not being conducted in accordance with these documents;
+- b. such measures are necessitated by new information concerning safety or the scientific basis.
+
+<sup>2</sup> For the coordination of measures and the exchange of information between the FOPH, the responsible ethics committee and other competent cantonal authorities, Article 48 applies *mutatis mutandis*.
+
+## Chapter 4 Other Clinical Trials
+
+### Section 1 General Provisions
+
+#### Art. 60
+
+**Scope**
+
+This Chapter applies to clinical trials which are neither trials of therapeutic products or transplant products nor trials of transplantation.
+
+#### Art. 61
+
+**Categorisation**
+
+<sup>1</sup>
+
+A clinical trial comes under Category A if the health-related intervention investigated:
+
+- a. entails only minimal risks and burdens; or
+- b. is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria.
+
+<sup>2</sup>
+
+A clinical trial comes under Category B if the health-related intervention investigated:
+
+- a. entails more than minimal risks and burdens; and
+- b. is not recognised as standard as specified in paragraph 1 letter b.
+
+### Section 2 Authorisation and Notification Procedures for the Responsible Ethics Committee
+
+#### Art. 62
+
+**Applicable provisions**
+
+The provisions which apply *mutatis mutandis* are:
+
+- a. for the authorisation procedure for clinical trials, Articles 24–29;
+- b. for the notification of safety and protective measures, Article 37 paragraph 1;
+- c. for notification and reporting upon completion, discontinuation or interruption of a clinical trial, Article 38 paragraphs 1–4;
+- d. for reporting on the safety of participants, Article 43 paragraphs 1 and 2;
+- e. for data retention requirements, Article 45 paragraph 2.
+
+#### Art. 63
+
+**Documentation and notification of serious adverse events**
+
+<sup>1</sup>
+
+If, in the course of a clinical trial, serious adverse events occur in participants in Switzerland, and it cannot be excluded that the events are attributable to the intervention under investigation, the investigator must document them in a standardised manner. In addition, the investigator shall report these events:
+
+- a. to the sponsor within 24 hours after they become known; and
+- b. to the responsible ethics committee within 15 days.
+
+<sup>2</sup>
+
+A serious adverse event is defined as any event which:
+
+- a. requires inpatient treatment not envisaged in the protocol or extends a current hospital stay;
+- b. results in permanent or significant incapacity or disability;
+- c. is life-threatening or results in death; or
+- d. causes a congenital anomaly or birth defect.
+
+<sup>3</sup> If necessary in order to guarantee participants’ safety and health, further adverse events which must be documented or reported are to be designated in the protocol or at the request of the responsible ethics committee.
+
+<sup>4</sup> If, in the case of a multicentre clinical trial, serious adverse events occur at one of the trial sites, the coordinating investigator shall also report the events as specified in paragraphs 1 and 3 to the responsible ethics committee concerned, within the same period.[^63-1]
+
+[^63-1]: Correction of 27 Dec. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+
+## Chapter 5 Registration
+
+#### Art. 64
+
+**Approvedregistries and data to be entered**
+
+<sup>1</sup>
+
+For an authorised clinical trial, the sponsor must register the data specified in Annex 5 number 1:
+
+- a. in a primary registry[^64-1] recognised by the World Health Organization (WHO); or
+- b. in the registry of the U.S. National Library of Medicine[^64-2].
+
+<sup>2</sup> The sponsor shall additionally enter the data specified in Annex 5 number 2 in the supplementary federal database, using a Swiss national language.
+
+<sup>3</sup> The data must be entered in the form authorised by the responsible ethics committee.
+
+[^64-1]: The registries can be consulted at: www.who.int &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform.
+[^64-2]: The registry can be consulted at: www.clinicaltrials.gov
+
+#### Art. 65
+
+**Time of registration**
+
+<sup>1</sup> The registration specified in Article 64 must be performed before the clinical trial is conducted, subject to the provisions of paragraph 2.
+
+<sup>2</sup> Clinical trials in which the medicinal product under investigation is being administered to adult persons for the first time (Phase I clinical trials) must be registered no later than one year after the completion of the clinical trial.
+
+<sup>3</sup> The sponsor must update the data entered in accordance with the requirements of the registry in question, as specified in Article 64 paragraph 1, but at least once a year.
+
+#### Art. 66
+
+**Responsibility**
+
+The sponsor is responsible for the accuracy and completeness of the data entered.
+
+#### Art. 67
+
+**Portal**
+
+<sup>1</sup> Public access to information on clinical trials conducted in Switzerland shall be guaranteed by a portal providing access to one or more registries.
+
+<sup>2</sup>
+
+The portal shall enable in particular:
+
+- a. linking of data in the supplementary federal database to data in the approved registry, as specified in Article 64 paragraph 1;
+- b. searching for clinical trials by keywords.
+
+<sup>3</sup> The operation of the portal and of the supplementary federal database shall be guaranteed by the coordination office specified in Article 10 of the HRA Organisation Ordinance of 20 September 2013[^67-1].
+
+[^67-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+
+## Chapter 6 Final Provisions
+
+#### Art. 68
+
+**Updating of Annexes**
+
+The Federal Department of Home Affairs may update Annexes 1–5 in accordance with international or technical developments. It shall undertake updates which may give rise to technical barriers to trade in consultation with the Federal Department of Economic Affairs, Education and Research.
+
+#### Art. 69
+
+**Repeal of other legislation**
+
+The following Ordinances shall be repealed:
+
+- 1\. Ordinance of 14 June 1993[^69-1] on the Waiver of Professional Confidentiality in Medical Research;
+- 2\. Ordinance of 17 October 2001[^69-2] on Clinical Trials of Therapeutic Products;
+- 3\. HIV Studies Ordinance of 30 June 1993[^69-3].
+
+[^69-1]: [[AS 1993 1983](https://fedlex.data.admin.ch/eli/oc/1993/1983_1983_1983)]
+[^69-2]: [[AS 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 6, [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)No II 3, [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)Annex 7 [4043](https://fedlex.data.admin.ch/eli/oc/2010/586), [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Annex 5 No 4]
+[^69-3]: [[AS 1993 2294](https://fedlex.data.admin.ch/eli/oc/1993/2294_2294_2294)]
+
+#### Art. 70
+
+**Amendment of other legislation**
+
+The amendment of other legislation is regulated in Annex 6.
+
+#### Art. 71
+
+**Transitional provisions for clinical trials authorised under existing law**
+
+<sup>1</sup> Clinical trials of therapeutic products and transplant products and trials of transplantation which were authorised before 1 January 2014 are considered to be Category C clinical trials.
+
+<sup>2</sup> Other authorised clinical trials are considered to be Category B clinical trials.
+
+<sup>3</sup> On request, the authority which authorised the clinical trial before 1 January 2014 may assign the clinical trial to a different category. In this case, the liability, coverage, notification, reporting and documentation requirements are governed by the new law.
+
+<sup>4</sup> The responsible ethics committee shall make the decision specified in paragraph 3 according to the simplified procedure specified in Article 6 of the HRA Organisation Ordinance of 20 September 2013[^71-1].
+
+<sup>5</sup> The assessment of significant changes is governed by the new law.
+
+[^71-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+
+#### Art. 72
+
+**Transitional provision for clinical trials not subject to authorisation under existing law**
+
+The responsible ethics committee shall make a decision on applications concerning clinical trials not subject to authorisation under existing law, submitted in accordance with Article 67 paragraph 2 HRA, within six months after acknowledgement of receipt of the formally correct application documents.
+
+#### Art. 73
+
+**Transitional provision concerning mandatory registration**
+
+The sponsor of an authorised clinical trial which is not completed within a year after the commencement of the HRA must, within six months, enter the data specified in Annex 5 number 1 in a registry, as specified in Article 64 paragraph 1.
+
+#### Art. 74
+
+**Commencement**
+
+This Ordinance comes into force on 1 January 2014.
+
+Annex 1*[^t-1]*
+
+(Art. 3, 5, 19, 39–42)
+
+## Rules and classifications
+
+[^t-1]: Revised in accordance with No I of the FDHA Ordinance of 24 March 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) and Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+
+### 1 Guidelines on scientific integrity
+
+The applicable guidelines are the Principles and Procedures for Integrity in Scientific Research issued by the Swiss Academies of Arts and Sciences, in the version dated 28 February 2008[^annex1-lvlu1-lvl1-1].
+
+[^annex1-lvlu1-lvl1-1]: These guidelines can be obtained against payment or consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; they can also be accessed online at: www.akademien-schweiz.ch &gt; Publications &gt; Guidelines and Recommendations.
+
+### 2 Rules of Good Clinical Practice
+
+The applicable rules of Good Clinical Practice are:
+
+- 1\. for clinical trials of medicinal products and transplant products: the Guideline for Good Clinical Practice issued by the International Conference on Harmonisation, in the version dated 9 November 2016[^annex1-lvlu1-lvl2-1] (ICH Guideline);
+- 2\. for clinical trials of medical devices: Annexes VIII and X to Directive 93/42/EEC[^annex1-lvlu1-lvl2-2] and Annexes 6 and 7 to Directive 90/385/EEC[^annex1-lvlu1-lvl2-3] and the requirements specified in EN ISO 14155:2011[^annex1-lvlu1-lvl2-4]. The definition of serious adverse events in accordance with Article 42 is based on the Guidelines on Medical Devices (MEDDEV 2.7/3) of May 2015[^annex1-lvlu1-lvl2-5];
+- 3\. for clinical trials as specified in Chapters 3 and 4 of this Ordinance: the ICH Guideline *mutatis mutandis*.
+
+[^annex1-lvlu1-lvl2-1]: This Guideline can be obtained against payment or consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.ich.org &gt; work products &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-2]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169, 12.7.1993, p. 1; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
+[^annex1-lvlu1-lvl2-3]: Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices, OJ L 189, 20.7.1990, p. 17; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
+[^annex1-lvlu1-lvl2-4]: This standard can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern and at the Swiss Agency for Therapeutic Products, CH-3003 Bern. It can also be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-lvl2-5]: These Guidelines can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern, or accessed online at: www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance.
+
+### 3 International Classification of Diseases
+
+The applicable classification is the 2010 version of the International Classification of Diseases issued by the World Health Organization (WHO) (ICD-10)[^annex1-lvlu1-lvl3-1]; the relevant disease groups are those identified by three-character codes.
+
+[^annex1-lvlu1-lvl3-1]: The Classification can be obtained against payment or consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.who.int &gt; Health topics &gt; Classifications of disease.
+
+Annex 2
+
+(Art. 13)
+
+## Policy values for liability coverage
+
+- 1\.
+
+  For Category A clinical trials where any measures for the collection of health-related personal data or the sampling of biological material entail more than only minimal risks and burdens, the policy value shall be at least:
+
+  - a. per person: 250 000 Swiss francs;
+  - b for damage to property: 20 000 Swiss francs;
+  - c. for the entire clinical trial: 3 million Swiss francs.
+
+- 2\.
+
+  For other clinical trials, the policy value shall be at least:
+
+  - a. per person: 1 million Swiss francs;
+  - b. for damage to property: 50 000 Swiss francs;
+  - c. for the entire clinical trial: 10 million Swiss francs.
+
+Annex 3
+
+(Art. 24, 27–29)
+
+## Application documents to be submitted to the responsible ethics committee for the procedure for clinical trials
+
+### 1 Application documents for Category A clinical trials of therapeutic products and transplant products
+
+- 1\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
+- 1\.2 protocol;
+- 1\.3 case report form (CRF);
+- 1\.4 information sheet and informed consent form, and recruitment documents, in particular the wording of announcements or advertisements;
+- 1\.5 other documents issued to participants;
+- 1\.6 information on the type and amount of remuneration for participants;
+- 1\.7 for clinical trials of medicinal products: the prescribing information;
+- 1\.8 for clinical trials of medical devices: the conformity marking, including the intended use and instructions;
+- 1\.9 for clinical trials not using proprietary products: proof of compliance with Good Manufacturing Practice and correct labelling of the therapeutic products;
+- 1\.10 the investigator’s CV, including evidence of his or her knowledge and experience, and a list of the other persons conducting the clinical trial, indicating their responsibilities and relevant professional knowledge;
+- 1\.11 information on the suitability and availability of infrastructure at the trial site;
+- 1\.12 information on the secure handling of personal data;
+- 1\.13 agreements between the sponsor, or third parties acting on the sponsor’s behalf, and the investigator, in particular with regard to the financing of the clinical trial, remuneration of the investigator and publication;
+- 1\.14 certificate of insurance or other proof of coverage for possible damage, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator;
+- 1\.15 any decisions or opinions of ethics committees abroad concerning the clinical trial, including any conditions imposed and the reasons given.
+
+### 2 Application documents for Category B and C clinical trials of therapeutic products and transplant products
+
+- 2\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
+- 2\.2 protocol;
+- 2\.3 case report form (CRF);
+- 2\.4 information sheet and informed consent form, and recruitment documents, in particular the wording of announcements or advertisements;
+- 2\.5 other documents issued to participants;
+- 2\.6 information on the type and amount of remuneration for participants;
+- 2\.7[^annex3-lvlu1-lvl2-1] for Category B clinical trials of medicinal products: the prescribing information and the Investigator’s Brochure (IB), giving details of how the use of the product differs from the dosage/indication specified in the prescribing information;
+- 2\.8 for Category C clinical trials of medicinal products: the Investigator’s Brochure (IB);
+- 2\.9 for Category C clinical trials of medical devices with no assessment of conformity: the documents specified in Annex 4 number 3.4 letter a;
+- 2\.10 for Category C clinical trials of medical devices bearing a conformity marking which are not used in accordance with the intended purpose or the instructions: the documents specified in Annex 4 number 3.5 letters a–d;
+- 2\.11 the investigator’s CV, including evidence of his or her knowledge and experience, and a list of the other persons conducting the clinical trial, indicating their responsibilities and relevant professional knowledge;
+- 2\.12 information on the suitability and availability of infrastructure at the trial site;
+- 2\.13 information on the secure handling of personal data;
+- 2\.14 agreements between the sponsor, or third parties acting on the sponsor’s behalf, and the investigator, in particular with regard to the financing of the clinical trial, remuneration of the investigator and publication;
+- 2\.15 certificate of insurance or other proof of coverage for possible damage, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator;
+- 2\.16 for clinical trials of gene therapy: the information specified in Annex 4 number 4;
+- 2\.17 any decisions or opinions of ethics committees abroad concerning the clinical trial, including any conditions imposed and the reasons given.
+
+[^annex3-lvlu1-lvl2-1]: Correction of 27 Dec. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+
+### 3 Application documents for clinical trials of transplantation and for clinical trials not involving therapeutic products
+
+- 3\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
+- 3\.2 protocol;
+- 3\.3 case report form (CRF);
+- 3\.4 information sheet and informed consent form, and recruitment documents, in particular the wording of announcements or advertisements;
+- 3\.5 other documents issued to participants;
+- 3\.6 information on the type and amount of remuneration for participants;
+- 3\.7 for clinical trials of transplantation of human organs, tissues and cells: information on donor information and consent;
+- 3\.8
+
+  for Category A clinical trials of transplantation of human organs, tissues and cells: in addition to the information specified in number 3.7, information on:
+
+  - a. the origin and quality of the organs, tissues or cells used, and in particular on the tests performed in this connection,
+  - b. compliance with duties of care, particularly with regard to the assessment of fitness to donate and mandatory testing, and the subsequent handling of organs, tissue and cells,
+  - c. authorisation, if handling of the organs, tissues or cells used is subject to authorisation under the Transplantation Act;
+
+- 3\.9 the investigator’s CV, including evidence of his or her knowledge and experience, and a list of the other persons conducting the clinical trial, indicating their responsibilities and relevant professional knowledge;
+- 3\.10 information on the suitability and availability of infrastructure at the trial site;
+- 3\.11 information on the secure handling of personal data;
+- 3\.12 agreements between the sponsor, or third parties acting on the sponsor’s behalf, and the investigator, in particular with regard to the financing of the clinical trial, remuneration of the investigator and publication;
+- 3\.13 certificate of insurance or other proof of coverage for possible damage, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator;
+- 3\.14 for clinical trials of transplantation of genetically modified human organs, tissues and cells: the information specified in Annex 4 number 6.7;
+- 3\.15 any decisions or opinions of ethics committees abroad concerning the clinical trial, including any conditions imposed and the reasons given.
+
+### 4 Application documents for the ethics committees concerned in multicentre clinical trials
+
+- 4\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
+- 4\.2 protocol;
+- 4\.3 information sheet and informed consent form, and recruitment documents, in particular the wording of announcements or advertisements, used at the site in question;
+- 4\.4 the CV of the investigator responsible at the site in question, including evidence of his or her knowledge and experience, and a list of the other persons conducting the clinical trial at the site in question, indicating their responsibilities and relevant professional knowledge;
+- 4\.5 information on the suitability and availability of infrastructure at the trial site in question;
+- 4\.6 agreements between the sponsor, or third parties acting on the sponsor’s behalf, and the coordinating investigator and other investigators at the other sites, in particular with regard to the remuneration of the investigator at the site in question;
+- 4\.7 certificate of insurance or other proof of coverage for possible damage occurring at the trial site in question, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator.
+
+### 5 Additional application documents for Category A clinical trials of therapeutic products capable of emitting ionising radiation, and for investigations involving radiation sources
+
+- 5\.1 Details of all relevant radiological protection aspects, and in particular a calculation or estimate of the effective dose, organ doses and any tumour doses;
+- 5\.2 the licences required under Article 28 of the Radiological Protection Act of 22 March 1991[^annex3-lvlu1-lvl5-1].
+
+[^annex3-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+
+### 6 Additional application documents for clinical trials which include investigations involving radiation sources and require an opinion from the FOPH in accordance with Article 28 paragraph 2
+
+- 6\.1 Information on the properties of the radiopharmaceutical, and in particular on pharmacokinetics, quality, stability, radiochemical purity and radionuclide purity;
+- 6\.2 for authorised radiopharmaceuticals: the prescribing information;
+- 6\.3 for non-authorised radiopharmaceuticals: information on the manufacturing and quality control processes for the radiopharmaceutical, the names of the persons responsible for these processes and details of their professional qualifications;
+- 6\.4 the names of the persons responsible for the use of the radiopharmaceutical in humans and details of their professional qualifications;
+- 6\.5 information specified in the FOPH form for clinical trials of radiopharmaceuticals or radiolabelled compounds[^annex3-lvlu1-lvl6-1].
+
+[^annex3-lvlu1-lvl6-1]: This form can be obtained [in French/German] from the Federal Office of Public Health, Radiological Protection Division, CH-3003 Bern; it can also be accessed online at: www.bag.admin.ch &gt; Themen &gt; Strahlung, Radioaktivität und Schall.
+
+Annex 4
+
+(Art. 31, 34–36, 54, 55)
+
+## Application documents to be submitted to the Swiss Agency for Therapeutic Products or to the FOPH for the procedure for clinical trials of therapeutic products and transplant products, clinical trials of gene therapy and of genetically modified or pathogenic organisms, and clinical trials of transplantation
+
+### 1 Application documents for Category B clinical trials of medicinal products and transplant products
+
+- 1\.1 Basic form;
+- 1\.2 protocol;
+- 1\.3 prescribing information for the medicinal product or transplant product;
+- 1\.4 documents on the quality of the medicinal product, only concerning any changes in the composition and manufacturing thereof;
+- 1\.5 Investigator’s Brochure (IB), only concerning changes in the administration of the medicinal product;
+- 1\.6 proof of compliance with Good Manufacturing Practice (GMP);
+- 1\.7 proof of compliance with correct labelling;
+- 1\.8 any decisions of foreign drug regulatory authorities concerning the clinical trial, including any conditions imposed and the reasons given;
+- 1\.9 information on any applications currently being reviewed by an ethics committee in Switzerland, and on any decisions of ethics committees in Switzerland.
+
+### 2 Application documents for Category C clinical trials of medicinal products and transplant products
+
+- 2\.1 Basic form;
+- 2\.2 protocol;
+- 2\.3 documents on the quality of the medicinal product or transplant product;
+- 2\.4 Investigator’s Brochure (IB), including information on risk assessment; if the medicinal product under investigation is authorised for the proposed use in a country with a comparable drug regulation system, the relevant prescribing information may be submitted; for clinical trials in which the medicinal product or transplant product under investigation is being used in persons for the first time: in addition, the study reports cited in the IB;
+- 2\.5 for trials of transplant products or gene therapy: documents on preclinical and toxicology studies;
+- 2\.6 proof of compliance with Good Manufacturing Practice (GMP);
+- 2\.7 proof of compliance with correct labelling;
+- 2\.8 any decisions of foreign drug regulatory authorities concerning the clinical trial, including any conditions imposed and the reasons given;
+- 2\.9 information on any applications currently being reviewed by an ethics committee in Switzerland, and on any decisions of ethics committees in Switzerland.
+
+### 3 Application documents for Category C clinical trials of medical devices
+
+- 3\.1. Basic form;
+- 3\.2 protocol;
+- 3\.3 case report form (CRF);
+- 3\.4
+
+  for clinical trials of a medical device with no conformity marking: the relevant documentation, comprising:
+
+  - a. Investigator’s Brochure (IB), with a compilation of current clinical and non-clinical information on the product under investigation and its components,
+  - b. list of the applicable standards for medical devices and description of all deviations,
+  - c. documentation of and reasons for any deviations from the standard ISO 14155,
+  - d. manufacturer’s statement or release in accordance with Annex VIII to Directive 93/42/EEC[^annex4-lvlu1-lvl3-1] or Annex 6 to Directive 90/385/EEC[^annex4-lvlu1-lvl3-2],
+  - e. confirmation that documentation is being kept available as specified in Annex VIII to Directive 93/42/EEC or Annex 6 to Directive 90/385/EEC,
+  - f. if the sponsor of the clinical trial and the manufacturer of the product are not identical: agreement on risk management between the sponsor and manufacturer;
+
+- 3\.5
+
+  for clinical trials of a medical device bearing a conformity marking which is not used in accordance with the intended purpose or the instructions: the relevant documentation, comprising:
+
+  - a. information on the conformity of the medical device,
+  - b. product information on the medical device,
+  - c. risk analysis for the new use and safety measures derived therefrom,
+  - d. other elements of the IB concerning the new use,
+  - e. list of the applicable standards for medical devices, description of deviations from these standards associated with the new use,
+  - f. documentation of and reasons for any deviations from the standard ISO 14155;
+
+- 3\.6 information sheet and informed consent form;
+- 3\.7 any decisions of foreign medical device regulatory authorities concerning the clinical trial, including any conditions imposed and the reasons given;
+- 3\.8 information on any applications currently being reviewed by an ethics committee in Switzerland, and on any decisions of ethics committees in Switzerland.
+
+[^annex4-lvlu1-lvl3-1]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169, 12.7.1993, p. 1; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
+[^annex4-lvlu1-lvl3-2]: Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices, OJ L 189, 20.7.1990, p. 17; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
+
+### 4 Additional application documents for Category B and C clinical trials of gene therapy and of genetically modified or pathogenic organisms
+
+- 4\.1 Information on the risks of the investigational product containing genetically modified or pathogenic organisms;
+- 4\.2 risk assessment of the conduct of the clinical trial with regard to the protection of human health and the environment;
+- 4\.3 a description of the safety measures required for the protection of human and animal health and the environment, and in particular to prevent the release of microorganisms into the environment during and after transplantation, and during transport, storage and disposal.
+
+### 5 Additional application documents for clinical trials of therapeutic products capable of emitting ionising radiation
+
+- 5\.1 Details of all relevant radiological protection aspects, and in particular a calculation or estimate of the effective dose, organ doses and any tumour doses;
+- 5\.2 the licences required under Article 28 of the Radiological Protection Act of 22 March 1991[^annex4-lvlu1-lvl5-1];
+- 5\.3
+
+  for therapeutic products containing radioactive sources[^annex4-lvlu1-lvl5-2]:
+
+  - a. information on the properties of the radiopharmaceutical, and in particular on pharmacokinetics, quality, stability, radiochemical purity and radionuclide purity,
+  - b. for authorised radiopharmaceuticals: the prescribing information,
+  - c. for non-authorised radiopharmaceuticals: information on the manufacturing and quality control processes for the radiopharmaceutical, the names of the persons responsible for these processes and details of their professional qualifications,
+  - d. the names of the persons responsible for the use of the radiopharmaceutical in humans and details of their professional qualifications,
+  - e. information specified in the FOPH form for clinical trials of radiopharmaceuticals or radiolabelled compounds[^annex4-lvlu1-lvl5-3].
+
+[^annex4-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-lvl5-2]: German text amended by Annex 11 No 6 of the Radiological Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^annex4-lvlu1-lvl5-3]: This form can be obtained [in French/German] from the Federal Office of Public Health, Radiological Protection Division, CH-3003 Bern; it can also be accessed online at: www.bag.admin.ch &gt; Themen &gt; Strahlung, Radioaktivität und Schall.
+
+### 6 Application documents for Category C clinical trials of transplantation of human organs, tissues and cells
+
+- 6\.1 Basic form;
+- 6\.2 protocol;
+- 6\.3 proof of the origin of the organs, tissues or cells used;
+- 6\.4 documents on the quality of the organs, tissues or cells used, and in particular on the tests performed;
+- 6\.5 proof of compliance with duties of care, particularly with regard to the assessment of fitness to donate and mandatory testing, and the procedure in the event of reactive test results;
+- 6\.6 proof of compliance with correct labelling;
+- 6\.7 authorisation, if handling of the organs, tissues or cells used is subject to authorisation;
+- 6\.8 any decisions of foreign regulatory authorities concerning the clinical trial, including any conditions imposed and the reasons given;
+- 6\.9 information on any applications currently being reviewed by an ethics committee in Switzerland, and on any decisions of ethics committees in Switzerland.
+
+Annex 5
+
+(Art. 64)
+
+## Content of registration
+
+### 1 Data to be entered in a registry
+
+The data specified in Version 1.2.1 of the WHO Trial Registration Data Set[^annex5-lvlu1-lvl1-1] must be entered in a registry as specified in Article 64 paragraph 1.
+
+[^annex5-lvlu1-lvl1-1]: The Trial Registration Data Set can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.who.int &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform &gt; Registry Network.
+
+### 2 Data to be entered in the supplementary database
+
+In the supplementary database specified in Article 64 paragraph 2, the following data must be entered in a Swiss national language:
+
+- a. the name of the registry specified in Article 64 paragraph 1 in which the data was entered, together with the time of registration and the identification number issued by the registry;
+- b. the title of the clinical trial and a summary of the study protocol in lay‑friendly language;
+- c. the health-related intervention being studied;
+- d. the disease or condition being studied;
+- e. eligibility and exclusion criteria;
+- f. trial sites.
+
+Annex 6
+
+(Art. 70)
+
+## Amendment of other legislation
+
+The following Ordinances shall be amended as follows:
+
+…[^annex6-lvlu1-1]
+
+[^annex6-lvlu1-1]: The amendments may be consulted under [AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643).

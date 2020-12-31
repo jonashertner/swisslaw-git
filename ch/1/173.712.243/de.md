@@ -1,0 +1,156 @@
+---
+sr: "173.712.243"
+title: Reglement vom 4. November 2010 der Aufsichtsbehörde über die Bundesanwaltschaft
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/823"
+language: de
+version: 2011-01-01
+adopted: 2010-11-04
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/823/20110101/de/xml/fedlex-data-admin-ch-eli-cc-2010-823-20110101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/823/20110101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Reglement der Aufsichtsbehörde über die Bundesanwaltschaft
+
+vom 4. November 2010 (Stand am 1. Januar 2011)
+
+Die Aufsichtsbehörde über die Bundesanwaltschaft (Aufsichtsbehörde),
+
+gestützt auf Artikel 27 Absatz 1 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^ingress-1] (StBOG) und auf Artikel 6 Absatz 2 der Verordnung der Bundesversammlung vom 1. Oktober 2010[^ingress-2] über die Organisation und die Aufgaben der Aufsichtsbehörde über die Bundesanwaltschaft,
+
+beschliesst:
+
+[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-2]: [SR 173.712.24](https://fedlex.data.admin.ch/eli/cc/2010/652)
+
+## 1. Abschnitt: Aufgaben und Organisation
+
+#### Art. 1
+
+**Aufgaben der Aufsichtsbehörde**
+
+Die Aufsichtsbehörde nimmt die Aufgaben wahr, die ihr gemäss den Artikeln 29–31 StBOG übertragen sind.
+
+#### Art. 2
+
+**Beschlussfassung**
+
+<sup>1</sup> Die Aufsichtsbehörde ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
+
+<sup>2</sup> Sie fasst ihre Beschlüsse mit der Mehrheit der stimmenden Mitglieder.
+
+<sup>3</sup> Sie kann in dringenden Fällen ihre Beschlüsse auf dem Zirkulationsweg oder auf elektronischem Weg fassen.
+
+<sup>4</sup> Bei Stimmengleichheit ist die Stimme des Präsidenten oder der Präsidentin ausschlaggebend.
+
+#### Art. 3
+
+**Übertragung von Aufgaben**
+
+<sup>1</sup> Die Aufsichtsbehörde kann Arbeitsgruppen für einzelne Aufgabenbereiche bilden.
+
+<sup>2</sup> Sie kann einem oder mehreren ihrer Mitglieder die Instruktion von Verfahren und die Vorbereitung von Entscheiden übertragen.
+
+<sup>3</sup> Für Inspektionen kann sie eine Delegation entsenden; diese muss mindestens drei Mitglieder umfassen.
+
+#### Art. 4
+
+**Sachverständige**
+
+<sup>1</sup> Die Aufsichtsbehörde kann schweizerische oder ausländische Sachverständige beiziehen.
+
+<sup>2</sup> Die Sachverständigen unterstehen gleichermassen dem Amtsgeheimnis wie die Mitglieder der Behörde.
+
+#### Art. 5
+
+**Disziplinarverfahren**
+
+Für das Disziplinarverfahren nach Artikel 31 Absatz 2 StBOG gelten die Artikel 16–19 der Verordnung der Bundesversammlung vom 1. Oktober 2010 über die Organisation und die Aufgaben der Aufsichtsbehörde über die Bundesanwaltschaft und subsidiär sinngemäss das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^5-1].
+
+[^5-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 6
+
+**Ausstand**
+
+<sup>1</sup> Die Mitglieder der Aufsichtsbehörde informieren die Präsidentin oder den Präsidenten über allfällige Ausstandsgründe.
+
+<sup>2</sup> Wird der Ausstandsgrund bestritten, so entscheidet die Aufsichtsbehörde unter Ausschluss des betroffenen Mitglieds.
+
+<sup>3</sup> im Übrigen sind die Artikel 56–60 der Strafprozessordnung[^6-1] sind sinngemäss anwendbar.
+
+[^6-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+## 2. Abschnitt: Präsident oder Präsidentin
+
+#### Art. 7
+
+<sup>1</sup>
+
+Der Präsident oder die Präsidentin nimmt folgende Aufgaben wahr:
+
+- a. Vertretung der Aufsichtsbehörde gegen aussen;
+- b. Leitung der Sitzungen der Behörde;
+- c. Organisation und Überwachung des Sekretariats;
+- d. Berichterstattung gegenüber der Aufsichtsbehörde über den Geschäftsgang;
+- e. Visierung der Rechnungen;
+- f. Abwicklung der Leistungsvereinbarungen mit Bundesstellen über administrative und logistische Leistungen;
+- g. Wahrnehmung weiterer Aufgaben, die dieses Reglement dem Präsidenten oder der Präsidentin überträgt.
+
+<sup>2</sup> Im Verhinderungsfall wird der Präsident oder die Präsidentin durch den Vizepräsidenten oder die Vizepräsidentin vertreten.
+
+## 3. Abschnitt: Sekretariat
+
+#### Art. 8
+
+**Organisation**
+
+<sup>1</sup> Das Sekretariat besteht aus einem Sekretär oder einer Sekretärin und gegebenenfalls aus weiterem Personal.
+
+<sup>2</sup> Die Aufsichtsbehörde stellt den Sekretär und das weitere Personal an und entscheidet über die Anstellungsbedingungen. Massgebend ist das Bundespersonalgesetz vom 24. März 2000[^8-1].
+
+<sup>3</sup> Der Sitz des Sekretariats ist in Bern.
+
+[^8-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 9
+
+**Aufgaben**
+
+<sup>1</sup> Das Sekretariat unterstützt die Aufsichtsbehörde fachlich und administrativ.
+
+<sup>2</sup>
+
+Das Sekretariat hat insbesondere folgende Aufgaben:
+
+- a. Erledigung des Tagesgeschäfts;
+- b. Organisation und Protokollierung der Sitzungen;
+- c. Mitwirkung bei der Instruktion der Verfahren unter der Leitung des Präsidenten oder der Präsidentin oder des delegierten Mitglieds;
+- d. Verfassen von Beschlusses- und Berichtsentwürfen;
+- e. Rechnungsführung;
+- f. Vorbereitung des Budgets und der Jahresrechnung der Aufsichtsbehörde;
+- g. Führung des Archivs.
+
+#### Art. 10
+
+**Stellung**
+
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter des Sekretariats unterstehen dem Amtsgeheimnis.
+
+<sup>2</sup> Die Arbeitgeberentscheide der Aufsichtsbehörde sind direkt beim Bundesverwaltungsgericht anfechtbar.
+
+## 4. Abschnitt: Information
+
+#### Art. 11
+
+<sup>1</sup> Die Aufsichtsbehörde verabschiedet den jährlichen Tätigkeitsbericht zuhanden der Bundesversammlung.
+
+<sup>2</sup> Sie informiert die Öffentlichkeit über ihre Tätigkeit.
+
+## 5. Abschnitt: Inkrafttreten
+
+#### Art. 12
+
+Dieses Reglement tritt am 1. Januar 2011 in Kraft.

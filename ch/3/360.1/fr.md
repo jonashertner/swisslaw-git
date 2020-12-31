@@ -1,0 +1,270 @@
+---
+sr: "360.1"
+title: "Ordonnance du 30 novembre 2001 concernant l'exécution de tâches de police judiciaire au sein de l'Office fédéral de la police"
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
+language: fr
+version: 2017-09-01
+adopted: 2001-11-30
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-29-20170901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20170901/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant l’exécution de tâches de police judiciaire au sein de l’Office fédéral de la police
+
+du 30 novembre 2001 (Etat le 1<sup>er</sup> septembre 2017)
+
+Le Conseil fédéral suisse,
+
+vu les art. 4, al. 1, 6, al. 2, et 13, al. 1, de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération (LOC)[^ingress-1], vu les art. 10, 11 et 13, de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^ingress-2], vu les art. 100 à 124, de la loi fédérale du 15 juin 1934 sur la procédure pénale[^ingress-3],[^ingress-4]
+
+arrête:
+
+[^ingress-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^ingress-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-3]: [RS **3** 295; [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)III ch. 4, 1974 [1857](https://fedlex.data.admin.ch/eli/oc/1971/1852_1857_1857)annexe ch. 2, 1978 [688](https://fedlex.data.admin.ch/eli/oc/1971/690_688_688)art. 88 ch. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)annexe ch. 2, 1993 **1993**, [1997](https://fedlex.data.admin.ch/eli/oc/1992/1997_1997_1997)[2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)app. ch. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)ch. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454), [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)ch. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)ch. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)annexe ch. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)annexe ch. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)annexe ch. I [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)annexe 1 ch. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)annexe ch. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)annexe ch. II 3. [RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. I 1]. Voir actuellement le code de procédure pénale suisse du 5 oct. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^ingress-4]: Nouvelle teneur selon le ch. I 12 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+
+#### Art. 1
+
+**Police judiciaire fédérale au sein de l’Office fédéral de la police**
+
+La Police judiciaire fédérale au sein de l’Office fédéral de la police (fedpol) exécute des tâches: [^1-1]
+
+- a. en tant que police judiciaire de la Confédération;
+- b. en tant qu’office central de lutte contre le crime organisé selon l’art. 7 LOC;
+- c. en tant qu’office central de lutte contre le trafic illicite de stupéfiants selon l’art. 9 LOC et l’art. 29 de la loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances psychotropes (LStup)[^1-2];
+- d. en tant qu’office central de lutte contre la fausse monnaie selon l’art. 12 de la Convention internationale du 20 avril 1929 pour la répression du faux monnayage[^1-3];
+- e. en tant qu’office central de lutte contre la traite des blanches selon l’art. 1 de l’Arrangement international du 18 mai 1904 en vue d’assurer une protection efficace contre le trafic criminel connu sous le nom de traite des blanches[^1-4];
+- f. en tant qu’office central de lutte contre la circulation des publications obscènes selon l’art. 1 de l’Arrangement du 4 mai 1910 relatif à la répression de la circulation des publications obscènes[^1-5].
+
+[^1-1]: Nouvelle teneur selon le ch. I 12 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^1-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^1-3]: [RS 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
+[^1-4]: [RS 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
+[^1-5]: [RS 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
+
+#### Art. 2
+
+**Tâches de police judiciaire**
+
+<sup>1</sup> En tant que police judiciaire de la Confédération, la Police judiciaire fédérale mène, en présence d’indices ou d’informations liés à la commission d’une infraction, des procédures d’enquêtes préliminaires et d’enquêtes relevant du domaine de compétences de la Confédération, placées sous la direction du Ministère public de la Confédération.
+
+<sup>2</sup> Dans le cadre de ses activités de police judiciaire, la Police judiciaire fédérale procède à des analyses opérationnelles qui permettent d’assurer un suivi constant et d’apporter un soutien dans le traitement de cas complexes.
+
+<sup>3</sup> La communication de données issues de procédures d’enquêtes de police judiciaire est réglée conformément aux dispositions de la PPF et de la loi fédérale du 20 mars 1981 sur l’entraide internationale en matière pénale[^2-1].
+
+[^2-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+
+#### Art. 3
+
+**Tâches en tant qu’office central**[^3-1]
+
+<sup>1</sup> En tant qu’office central de lutte contre le crime international organisé, la Police judiciaire fédérale exécute, en collaboration avec la division principale Coopération policière internationale de l’office, les tâches d’information et de coordination prévues à l’art. 2, let. a, b, d et e, LOC.
+
+<sup>2</sup>
+
+Dans le cadre de ses activités de coordination, la Police judiciaire fédérale assure:
+
+- a. le contact avec les autorités de poursuite pénale et de police suisses et étrangères;
+- b. le bon déroulement des enquêtes tant sur le plan des délais que sur le plan technique;
+- c. la gestion à l’étranger des agents de liaison de la division principale Coopération policière internationale.
+
+<sup>2bis</sup> La division principale Coopération policière internationale est chargée d’assurer l’assistance aux agents de liaison étrangers stationnés en Suisse.
+
+<sup>3</sup> Les tâches d’analyse stratégique décrites à l’art. 2, let. c, LOC sont exécutées par la division Analyse de l’office. Elles consistent d’une part en l’analyse de données portant sur des groupes de malfaiteurs, notamment leur origine, leur composition, leur type de délinquance, leurs caractéristiques, les types de délits et les méthodes d’action criminelle; la division Analyse de l’office établit d’autre part des rapports de situation à l’intention du Département fédéral de justice et police, ainsi que des autorités de poursuite pénale de la Confédération et des cantons. L’accès à ces rapports, rendus anonymes, peut être également accordé à d’autres autorités et organisations, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches. La dépersonnalisation n’est toutefois pas requise si le public a déjà été informé par une autorité de poursuite pénale de l’identité des personnes concernées, ainsi que des faits les concernant. La communication des données personnelles selon les art. 5 à 7 demeure réservée.
+
+[^3-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+
+#### Art. 4
+
+**Collaboration avec les autorités**
+
+<sup>1</sup>
+
+Les autorités énumérées ci-après sont tenues, sur demande de la Police judiciaire fédérale, de collaborer et de fournir des renseignements au sens de l’art. 4 LOC:
+
+- a. les autorités de poursuite pénale, notamment les ministères publics, les juges d’instruction, les autorités d’entraide judiciaire et les organes de police judiciaire de la Confédération et des cantons;
+- b. les services de police, notamment les organes de la police de sûreté et de la police administrative de la Confédération et des cantons, ainsi que les autorités fédérales chargées de l’application de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure (LMSI)[^4-1];
+- c. les organes de surveillance des frontières et les services douaniers;
+- d.[^4-2] les autorités de la Confédération et des cantons assumant des tâches relevant du droit des étrangers, compétentes en matière d’entrée et de séjour d’étrangers ou d’octroi du droit d’asile ou chargées de rendre les décisions d’admission provisoire;
+- e. les contrôles des habitants et les registres publics, notamment les registres du commerce, les registres d’état civil, les registres fiscaux, les registres de la circulation routière, les registres fonciers et les registres de l’aviation civile;
+- f. les autorités compétentes en matière de relations diplomatiques et consulaires;
+- g. les autorités chargées de délivrer les autorisations de la circulation pour certains biens.
+
+<sup>2</sup> Les autorités mentionnées à l’al. 1 sont tenues de fournir des renseignements dans la mesure où les données personnelles réclamées sont indispensables à l’accomplissement des tâches légales de la Police judiciaire fédérale. En outre, elles communiquent à cette dernière tous les renseignements sans caractère personnel qui lui sont nécessaires pour accomplir ses tâches légales et elles lui fournissent un appui logistique.
+
+<sup>3</sup>
+
+Les renseignements selon l’al. 2 comportent notamment:
+
+- a. la communication de renseignements techniques et statistiques, d’informations sur les délits, les pays et les peuples, et d’indications concernant les méthodes d’action criminelle;
+- b. la participation à des groupes de travail et d’enquête des offices centraux, après concertation mutuelle et dans le cadre des possibilités financières et personnelles des autorités concernées.
+
+<sup>4</sup> La Police judiciaire fédérale doit en règle générale motiver brièvement par oral la demande d’entraide administrative auprès des services auxquels celle-ci est adressée. Elle peut refuser de le faire s’il s’agit de peu de renseignements ou si les droits de la personnalité de la personne concernée peuvent s’en trouver menacés. Lorsque beaucoup de renseignements sont demandés, le service sollicité peut exiger une motivation écrite. S’il y a péril en la demeure, la motivation écrite peut être fournie ultérieurement.
+
+<sup>5</sup> La Police judiciaire fédérale peut fixer un ordre d’importance des informations et standardiser la communication de renseignements. Ce faisant, elle tient particulièrement compte des besoins des autorités de poursuite pénale et de police des cantons.
+
+[^4-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^4-2]: Nouvelle teneur selon le ch. I 12 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+
+#### Art. 5
+
+**Communication de données à des autorités tenues de fournir des renseignements**
+
+<sup>1</sup> Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin et motiver ses demandes d’entraide administrative, la Police judiciaire fédérale peut communiquer des données personnelles aux autorités citées à l’art. 4.
+
+<sup>2</sup>
+
+Afin de les assister dans l’accomplissement de leurs tâches légales, la Police judiciaire fédérale peut en outre communiquer spontanément des données personnelles aux autorités suivantes:
+
+- a. les autorités mentionnées à l’art. 4, al. 1, let. a, dans le cadre de procédures pénales, d’enquête de police judiciaire et de procédures d’entraide judiciaire;
+- b. les autorités mentionnées à l’art. 4, al. 1, let. b et c, dans le cadre d’enquêtes de police judiciaire, ainsi que pour l’accomplissement des tâches au sens de la LMSI[^5-1];
+- c. les autorités mentionnées à l’art. 4, al. 1, let. d, chargées d’accomplir des tâches de police des étrangers, d’empêcher ou de réprimer les infractions aux dispositions relatives à l’entrée et au séjour des étrangers et à la législation en matière d’asile.
+
+[^5-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+
+#### Art. 6
+
+**Communication de données à d’autres destinataires**
+
+<sup>1</sup>
+
+Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin et motiver ses demandes d’entraide administrative, la Police judiciaire fédérale peut communiquer des données personnelles à d’autres destinataires, à savoir:
+
+- a. les autres services de fedpol;
+- b. les autorités compétentes en matière de correspondance téléphonique, télégraphique et postale, pour ordonner et exécuter des mesures de surveillance;
+- c. les autorités d’autres Etats exerçant des fonctions de poursuite pénale et de police, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- d. les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- e. les autorités financières de la Confédération et des cantons;
+- f. l’Administration fédérale des finances;
+- g. l’Autorité fédérale de surveillance des marchés financiers[^6-1];
+- h. la Commission fédérale des maisons de jeu;
+- i. l’Autorité fédérale de surveillance des marchés financiers[^6-2];
+- j. le Secrétariat d’Etat à l’économie;
+- k. les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, LMSI[^6-3];
+- l. l’Office fédéral de l’aviation civile;
+- m. les autorités compétentes en matière d’acquisition de terrains par des personnes résidant à l’étranger;
+- n. les organisations non étatiques qui oeuvrent notamment en faveur de la lutte contre l’exploitation sexuelle à des fins commerciales, dans la mesure où il s’agit de prévenir et d’identifier des formes spécifiques de criminalité;
+- o. les autorités de surveillance de la Confédération et des cantons.
+
+<sup>2</sup>
+
+Afin de les assister dans l’accomplissement de leurs tâches légales, la Police judiciaire fédérale peut en outre communiquer spontanément des données personnelles aux autorités suivantes:
+
+- a. les autres services de fedpol;
+- b. les autorités d’autres Etats exerçant des fonctions de poursuite pénale, pour leurs enquêtes de police judiciaire, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- c. les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), pour le traitement d’affaires déterminées, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- d. les autorités financières de la Confédération et des cantons, pour leurs enquêtes de police judiciaire dans le domaine fiscal;
+- e. l’Administration fédérale des finances, dans le cadre des procédures pénales administratives qu’elle mène;
+- f.[^6-4] l’Autorité fédérale de surveillance des marchés financiers, pour l’assister dans son activité de surveillance dans le cadre des lois sur les marchés financiers conformément à l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^6-5], s’il s’agit d’informations fiables qui sont nécessaires à une procédure ou susceptibles d’entraîner l’ouverture d’une procédure;
+- g. la Commission fédérale des maisons de jeu, pour l’assister dans son activité de surveillance découlant de la législation sur les maisons de jeu;
+- h.[^6-6] …
+- i. les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, LMSI, pour leurs investigations, s’il s’agit d’informations fiables.
+
+<sup>3</sup> Toutes les données personnelles sont communiquées sur requête aux autorités de surveillance de la Confédération et des cantons, ainsi qu’au Préposé fédéral à la protection des données et à la transparence[^6-7], pour l’exercice de leurs fonctions de contrôle.
+
+<sup>4</sup> Tous les dossiers dont la Police judiciaire fédérale n’a plus besoin en permanence sont proposés aux Archives fédérales en vue d’archivage, conformément à la loi fédérale du 26 juin 1998 sur l’archivage[^6-8].
+
+[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-4]: Nouvelle teneur selon le ch. 4 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-6]: Abrogée par le ch. 4 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-7]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-8]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 7
+
+**Restrictions de communication de données**
+
+<sup>1</sup> Lors de la communication de données, les interdictions portant sur l’utilisation doivent être respectées. La Police judiciaire fédérale ne peut communiquer à des Etats étrangers des données concernant des demandeurs d’asile, des réfugiés, des personnes à protéger ou des personnes provisoirement admises qu’après consultation de l’office fédéral compétent.
+
+<sup>2</sup> La Police judiciaire fédérale refuse ou restreint la communication de données si des intérêts prépondérants publics ou privés s’y opposent.
+
+<sup>3</sup> Dans le cadre d’une enquête de police judiciaire, les autorités de poursuite pénale et les services de police coopérant avec la Police judiciaire fédérale peuvent transmettre les données personnelles qui leur ont été communiquées aux autres autorités de poursuite pénale et de police de leur canton. La Police judiciaire fédérale doit en être informée.
+
+<sup>4</sup> Lors de toute communication de données, le destinataire doit être informé de leur fiabilité et de leur actualité. Il ne peut les utiliser que dans le but en vue duquel elles lui ont été communiquées. Il doit être prévenu des restrictions d’emploi et du fait que la Police judiciaire fédérale se réserve le droit d’exiger des informations sur l’utilisation qui aura été faite de ces données.
+
+#### Art. 8
+
+**Agents de liaison**
+
+<sup>1</sup> Les agents de liaison sont déclarés comme attachés diplomatiques de l’Ambassade de Suisse dans l’Etat d’accueil. Ils sont placés sous la conduite de la division principale Coopération policière internationale.[^8-1]
+
+<sup>2</sup>
+
+Ils sont chargés en particulier des tâches suivantes:
+
+- a. défendre tous les intérêts des autorités de poursuite pénale suisses dans l’Etat d’accueil, dans les domaines de la criminalité organisée, dans d’autres affaires importantes de police judiciaire susceptibles de donner lieu à une entraide judiciaire et, de manière subsidiaire, dans le domaine de la criminalité économique;
+- b. assister les autorités de poursuite pénale de l’Etat d’accueil dans des affaires importantes de police judiciaire susceptibles de donner lieu à une entraide judiciaire;
+- c. rassembler et échanger des informations dans les domaines relevant de la compétence de la Police judiciaire fédérale, notamment concernant l’analyse de formes nouvelles de criminalité;
+- d. conseiller les autorités de poursuite pénale de l’Etat d’accueil dans les domaines relevant de la compétence de la Police judiciaire fédérale;
+- e. participer à des conférences et congrès organisés dans la région de stationnement sur des thèmes relevant de la compétence de la Police judiciaire fédérale;
+- f. coopérer avec les autorités suisses sur toutes les questions relatives à l’entraide judiciaire et à l’extradition.
+
+<sup>3</sup> Pour remplir leurs tâches, ils coopèrent avec les autorités étrangères, dans le cadre de l’art. 13, al. 2, LOC et de l’art. 6, al. 2, let. a et b, de la présente ordonnance. La coopération avec les autorités nationales est régie par les art. 4 à 7.
+
+<sup>3bis</sup> D’entente avec l’Administration fédérale des douanes (AFD), fedpol peut déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’AFD. Dans le cadre des tâches confiées par fedpol, les agents de liaison de l’AFD possèdent les mêmes droits que les agents de liaison de fedpol quant à l’accès aux systèmes d’information et au traitement des données, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches.[^8-2]
+
+<sup>4</sup> Le Département fédéral de justice et police est habilité à conclure avec les Etats étrangers des accords portant sur le stationnement d’agents de liaison de fedpol.[^8-3]
+
+[^8-1]: Nouvelle teneur selon le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-2]: Introduit par le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-3]: Nouvelle teneur selon le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+
+#### Art. 9
+
+**Obligation d’informer dans le domaine du crime organisé**
+
+<sup>1</sup> Les autorités de poursuite pénale citées à l’art. 8, al. 1, LOC comprennent les ministères publics, les juges d’instruction, les autorités d’entraide judiciaire et les organes de la police judiciaire de la Confédération et des cantons. Les déclarations de ces autorités à la Police judiciaire fédérale sont faites dans un but d’assistance réciproque dans l’accomplissement de leurs tâches légales.
+
+<sup>2</sup>
+
+Ces autorités doivent fournir des renseignements sur l’ouverture et la suspension des enquêtes et des informations de police judiciaire concernant:
+
+- a. des organisations que l’on peut raisonnablement soupçonner d’être des organisations criminelles au sens de l’art. 260<sup>ter</sup> CP;
+- b. des personnes que l’on peut raisonnablement soupçonner de préparer, de commettre ou de faciliter des actes délictueux auxquels on suppose que participe une organisation au sens de la let. a;
+- c. des personnes que l’on peut raisonnablement soupçonner d’appartenir à une organisation au sens de la let. a ou de lui apporter leur soutien;
+- d. des personnes que l’on peut raisonnablement soupçonner de préparer, de commettre ou de soutenir des infractions au sens de l’art. 340<sup>bis</sup> CP.
+
+<sup>3</sup> La Police judiciaire fédérale peut fournir régulièrement des informations sur des indices qui permettent de conclure à l’existence d’organisations au sens de l’art. 260<sup>ter</sup>, ch. 1, CP.
+
+#### Art. 10
+
+**Obligation d’informer dans le domaine du trafic illicite de stupéfiants**
+
+<sup>1</sup> Sont soumis à l’obligation d’informer conformément à l’art. 10 LOC les autorités de poursuite pénale, notamment les ministères publics, les juges d’instruction, les autorités d’entraide judiciaire et les organes de la police judiciaire des cantons, qui sont chargées de réprimer les infractions à la LStup[^10-1].
+
+<sup>2</sup> Ces autorités doivent signaler conformément à l’art. 10 LOC toutes les enquêtes ouvertes sur une infraction à la LStup, ainsi que les mesures techniques de surveillance en rapport avec ces enquêtes. Si l’infraction concerne exclusivement la consommation ou le commerce de petites quantités de stupéfiants, le service soumis à l’obligation d’informer est autorisé, tout en invoquant ces circonstances, à ne fournir que de brèves informations.
+
+[^10-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+
+#### Art. 10a
+
+**Aide financière allouée à l’Institut suisse de police**[^10a-1]
+
+<sup>1</sup> Les prestations de l’Institut suisse de police (ISP) donnant droit à une aide financière de la Confédération sont notamment les cours de formation et de formation continue qui ont trait à la sûreté intérieure et qui sont organisés en faveur des collaborateurs de la Confédération ou des organes de sûreté cantonaux. L’aide financière est fixée forfaitairement sur la base du programme annuel de l’ISP.
+
+<sup>2</sup> Les organes de la Confédération intéressés et l’ISP conviennent, dans le cadre des crédits autorisés, de la teneur, de la manière et de l’étendue de l’exécution, du choix des intervenants, ainsi que du cercle des participants aux cours qui sont organisés avec le soutien financier de la Confédération dans le cadre de la LMSI.
+
+[^10a-1]: Introduit par le ch. II 5 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+
+#### Art. 11
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 19 novembre 1997 sur les Offices centraux de police criminelle près l’Office fédéral de la police[^11-1] est abrogée.
+
+[^11-1]: [[RO 1998 34](https://fedlex.data.admin.ch/eli/oc/1998/34_34_34), [2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)art. 125 ch. 1]
+
+#### Art. 12
+
+**Entrée en vigueur**[^12-1]
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
+
+[^12-1]: Nouvelle teneur selon le ch. I 12 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).

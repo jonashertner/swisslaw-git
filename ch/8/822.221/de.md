@@ -1,0 +1,844 @@
+---
+sr: "822.221"
+title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer und -führerinnen (Chauffeurverordnung, ARV 1)"
+short: ARV 1
+eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
+language: de
+version: 2019-02-01
+adopted: 1995-06-19
+in_force: 1995-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20190201/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20190201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20190201/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer und -führerinnen
+
+(Chauffeurverordnung, ARV 1)
+
+vom 19. Juni 1995 (Stand am 1. Februar 2019)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 56 und 103 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+## 1. Abschnitt: Gegenstand und Begriffe
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Verordnung regelt die Arbeits‑, Lenk- und Ruhezeit der berufsmässigen Motorfahrzeugführer und -führerinnen sowie ihre Kontrolle und die Pflichten der Arbeitgeber.
+
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^1-1], insbesondere die Bestimmungen über die Kompensation der Nachtarbeit.[^1-2]
+
+[^1-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^1-2]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2012 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)[5087](https://fedlex.data.admin.ch/eli/oc/2010/734)).
+
+#### Art. 2
+
+**Begriffe**
+
+In dieser Verordnung werden folgende Begriffe verwendet:
+
+- a. Als *Führer* oder *Führerin* gilt, wer, sei es auch nur für kurze Zeit, ein Fahrzeug nach Artikel 3 Absatz 1 lenkt;
+- b. als *selbständigerwerbend* gilt, wer in keinerlei Anstellungs- oder Unterstellungsverhältnis steht und allein über den Einsatz des Fahrzeuges entscheidet (Betriebsinhaber); in Zweifelsfällen (z. B. bei Vertragsfahrern) ist das tatsächliche Beschäftigungsverhältnis und nicht die Bezeichnung in einem allfälligen Vertrag massgebend; als selbständigerwerbende Führer oder Führerinnen gelten auch der Ehegatte des Betriebsinhabers, seine Verwandten in auf- und absteigender Linie und deren Ehegatten sowie seine Stiefkinder;
+- c. als *Arbeitnehmer* oder *Arbeitnehmerin* gilt, wer nicht selbständigerwerbender Führer oder selbständigerwerbende Führerin ist, insbesondere wer Fahrzeuge in einem Anstellungs- oder Unterstellungsverhältnis führt;
+- d. als *Arbeitgeber* gilt, wer als Betriebsinhaber oder Vorgesetzter gegenüber dem Führer oder der Führerin weisungsbevollmächtigt ist;
+- e.[^2-1]
+
+  als *Arbeitsplatz* gelten:
+
+  - 1\. der Standort des Unternehmens, für das der Arbeitnehmer oder die Arbeitnehmerin tätig ist,
+  - 2\. das Fahrzeug, das der Arbeitnehmer oder die Arbeitnehmerin bei seiner oder ihrer beruflichen Tätigkeit benutzt,
+  - 3\. jeder andere Ort, an dem die mit der Beförderung verbundenen Tätigkeiten ausgeführt werden;
+
+- f.[^2-2] als *Arbeitszeit* gilt die Zeit, während der der Arbeitnehmer oder die Arbeitnehmerin am Arbeitsplatz ist, dem Arbeitgeber zur Verfügung steht und seine oder ihre Funktion oder Tätigkeiten ausübt; zur Arbeitszeit zählen ferner die Arbeitspausen von weniger als 15 Minuten;
+- g.[^2-3] als *Bereitschaftszeit* gilt die Zeit, in der der Arbeitnehmer oder die Arbeitnehmerin nicht verpflichtet ist, am Arbeitsplatz zu bleiben, sich jedoch in Bereitschaft halten muss, um auf Anweisung hin die Fahrtätigkeit oder andere Arbeiten aufzunehmen oder wiederaufzunehmen;
+- h.[^2-4] als *berufliche Tätigkeit* gilt für den Arbeitnehmer oder die Arbeitnehmerin die Arbeitszeit, für den selbstständigerwerbenden Führer oder die selbstständigerwerbende Führerin die Lenkzeit sowie die mit dem Transport zusammenhängenden Tätigkeiten;
+- i.[^2-5] als *Ruhezeit* gilt der Zeitraum, in dem der Führer oder die Führerin frei über seine oder ihre Zeit verfügen kann;
+- j.[^2-6] als *Woche* gilt der Zeitraum zwischen Montag 00.00 Uhr und Sonntag 24.00 Uhr;
+- k.[^2-7] als *Mehrfachbesatzung* gilt der Fall, in dem während der Lenkdauer zwischen zwei Ruhezeiten mehrere Führer und Führerinnen auf dem Fahrzeug zum Lenken eingesetzt sind.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-6]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-7]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+## 2. Abschnitt: Geltungsbereich
+
+#### Art. 3
+
+**Geltungsbereich**
+
+<sup>1</sup>
+
+Die Verordnung gilt für die Führer und Führerinnen von Motorwagen und Fahrzeugkombinationen:
+
+- a. zum Sachentransport, deren Gesamtgewicht nach Fahrzeugausweis 3,5 t übersteigt;
+- b. zum Personentransport, die ausser dem Führersitz für eine Platzzahl von mehr als acht Personen zugelassen sind.
+
+<sup>2</sup> Lenkt ein Führer oder eine Führerin im Ausland ein Fahrzeug, das in der Schweiz immatrikuliert ist, so gilt diese Verordnung, sofern die von der Schweiz ratifizierten internationalen Übereinkommen nicht strengere Vorschriften vorsehen.
+
+<sup>3</sup> Die Führer und Führerinnen, die im Ausland immatrikulierte Fahrzeuge in der Schweiz lenken, müssen nur die Vorschriften der Artikel 5, 7, 8 Absätze 1, 2, 4 und 5 sowie Artikel 9–12, 14–14*c* und 18 Absatz 1 einhalten.[^3-1]
+
+<sup>4</sup> Für Arbeitgeber, Unternehmen und Werkstätten gilt diese Verordnung nur, soweit einzelne Bestimmungen dies ausdrücklich vorsehen.[^3-2]
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+#### Art. 4
+
+**Ausnahmen**
+
+<sup>1</sup>
+
+Die Verordnung gilt nicht für die Führer und Führerinnen von Fahrzeugen:
+
+- a. mit einer zulässigen Höchstgeschwindigkeit von nicht mehr als 40 km/h;
+- b. die von der Armee, der Polizei, der Feuerwehr, vom Zivilschutz oder im Auftrag dieser Stellen verwendet werden;
+- c. die zum Personentransport im Linienverkehr dienen, sofern die Linienstrecke nicht mehr als 50 km beträgt;
+- d. die in Notfällen, für Rettungsmassnahmen oder für nicht gewerbliche Transporte für humanitäre Hilfe eingesetzt werden;
+- e. die für ärztliche Aufgaben speziell ausgerüstet sind;
+- f. die für die Pannenhilfe speziell ausgerüstet sind und innerhalb eines Umkreises von 100 km um ihren Standort eingesetzt werden;
+- g. mit denen zum Zweck der technischen Entwicklung oder bei Reparatur- oder Wartungsarbeiten Probefahrten oder Überführungsfahrten ausgeführt werden oder die neu oder umgebaut noch nicht in Verkehr stehen;
+- h.[^4-1]
+
+  mit einem Gesamtgewicht bis 7,5 t und Fahrzeugkombinationen mit einem Gesamtzugsgewicht bis 7,5 t, die:
+
+  - 1\. nicht für gewerbliche Sachentransporte eingesetzt werden, oder
+  - 2\. innerhalb eines Umkreises von 100 km um den Standort des Unternehmens zum Transport von Material oder Ausrüstung benutzt werden, die der Führer oder die Führerin zur Berufsausübung verwendet, sofern das Führen des Fahrzeugs im Durchschnitt einer Woche höchstens die Hälfte der Arbeitszeit in Anspruch nimmt;
+
+- i. die als historisch gelten (Veteranenfahrzeuge) und die nicht für gewerbliche Sachen- oder Personentransporte eingesetzt werden.[^4-2]
+
+<sup>2</sup>
+
+Im Binnenverkehr gilt diese Verordnung ferner nicht für Führer und Führerinnen, die ausschliesslich Fahrten mit folgenden Fahrzeugen oder Fahrzeugkombinationen ausführen:
+
+- a.[^4-3] Motorwagen zum Personentransport mit nicht mehr als 16 Sitzplätzen ausser dem Führersitz;
+- b. Fahrzeugkombinationen zum Sachentransport, sofern das Gesamtgewicht des Zugfahrzeugs 3,5 t und bei Sattelschleppern zudem das zulässige Gesamtgewicht des Zuges gemäss Fahrzeugausweis des Sattelschleppers 5 t nicht übersteigt;
+- c.[^4-4] Verwaltungsfahrzeuge des Bundes (Art. 2 Abs. 1 der V vom 23. Febr. 2005[^4-5] über die Fahrzeuge des Bundes und ihre Führer und Führerinnen);
+- d.[^4-6] speziell ausgerüstete Fahrzeuge für mobile Projekte, die hauptsächlich im Stand zu Lehrzwecken dienen;
+- e.[^4-7] Fahrschulfahrzeuge, sofern diese nicht für gewerbliche Personen- oder Sachentransporte eingesetzt werden;
+- f.[^4-8] Fahrzeuge, die im Rahmen der von Fahrlehrern und Fahrlehrerinnen oder von Weiterbildungsstätten durchgeführten praktischen Fahrausbildung oder Weiterbildung eingesetzt werden, sofern auf diesen Fahrten keine gewerblichen Personen- oder Sachentransporte durchgeführt werden;
+- g.[^4-9] Fahrzeuge, die von Kanalisations-, Hochwasserschutz-, Strassenunterhaltsdiensten und Sammeldiensten für Siedlungsabfälle, von Wasser-, Gas- und Elektrizitätsversorgungsdiensten, von Telegramm- und Telefonanbietern, Radio- und Fernsehsendern sowie zur Erfassung von Radio- und Fernsehsendern oder -geräten eingesetzt werden;
+- h.[^4-10] Fahrzeuge, die Ausrüstungen des Zirkus- oder Schaustellergewerbes transportieren;
+- i.[^4-11] Fahrzeuge, die bloss im werkinternen Verkehr eingesetzt werden und öffentliche Strassen nur mit behördlicher Bewilligung benützen dürfen (Art. 33 der Verkehrsversicherungsverordnung vom 20. Nov. 1959[^4-12] und Art. 72 Abs. 1 Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^4-13]) oder die ausschliesslich auf Strassen in Güterverteilzentren wie Häfen, Umschlaganlagen des kombinierten Verkehrs und Eisenbahnterminals benutzt werden.
+
+<sup>2bis</sup> Führer und Führerinnen, die Fahrzeuge nach Absatz 2 Buchstabe a für berufsmässige Personentransporte einsetzen, unterstehen im Binnenverkehr der Verordnung vom 6. Mai 1981[^4-14] über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen.[^4-15]
+
+<sup>3</sup> Im Binnenverkehr gilt die Verordnung nicht für Führer und Führerinnen, die dem Arbeitszeitgesetz vom 8. Oktober 1971[^4-16] unterstehen und nur Transporte ausführen, die von diesem Gesetz erfasst werden. Werden zusätzlich andere Transporte ausgeführt, müssen sie für ihre gesamte berufliche Tätigkeit die Arbeits‑, Lenk- und Ruhezeitvorschriften der Artikel 5–12 beachten und die Kontrollmittel nach den Artikeln 14–16 führen.
+
+<sup>4</sup> …[^4-17]
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-4]: Fassung gemäss Anhang Ziff. II 7 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-5]: [SR 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^4-6]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-7]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-8]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-9]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-10]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-11]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-12]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^4-13]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^4-14]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^4-15]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-16]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^4-17]: Eingefügt durch Anhang 1 Ziff. 4 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+## 3. Abschnitt: Lenkzeiten, Arbeitszeiten, Pausen, Ruhezeiten
+
+#### Art. 5
+
+**Lenkzeit**[^5-1]
+
+<sup>1</sup> Die Lenkzeit zwischen einer täglichen Ruhezeit und der darauf folgenden täglichen Ruhezeit oder zwischen einer täglichen und einer wöchentlichen Ruhezeit darf 9 Stunden nicht überschreiten. Sie darf zweimal pro Woche auf 10 Stunden ausgedehnt werden.
+
+<sup>2</sup> Die wöchentliche Lenkzeit darf 56 Stunden nicht überschreiten.
+
+<sup>3</sup> Die Gesamtlenkzeit während zweier aufeinander folgender Wochen darf 90 Stunden nicht überschreiten.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 6
+
+**Arbeitszeit**[^6-1]
+
+<sup>1</sup> Die wöchentliche Arbeitszeit des Arbeitnehmers oder der Arbeitnehmerin darf in einem Zeitraum von 26 Wochen einen Wochendurchschnitt von 48 Stunden nicht überschreiten. Die wöchentliche Höchstarbeitszeit kann bis zu 60 Stunden betragen.
+
+<sup>2</sup> Die Arbeitszeiten bei verschiedenen Arbeitgebern werden zusammengerechnet. Jeder Arbeitgeber muss die Arbeitnehmer und Arbeitnehmerinnen schriftlich auffordern, ihm eine Aufstellung der bei anderen Arbeitgebern geleisteten Arbeitszeiten vorzulegen. Die Arbeitnehmer und Arbeitnehmerinnen legen diese Angaben schriftlich vor.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 7
+
+**Bereitschaftszeit**[^7-1]
+
+<sup>1</sup> Die Bereitschaftszeit und ihre voraussichtliche Dauer müssen dem Führer oder der Führerin im Voraus bekannt sein, damit er oder sie diese Zeit als Bereitschaftszeit nehmen kann. Andernfalls gilt diese Zeit als Arbeitszeit.
+
+<sup>2</sup> Während der Bereitschaftszeit können keine Arbeitspausen und keine Ruhezeiten eingelegt werden.[^7-2]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+
+#### Art. 8
+
+**Pausen**
+
+<sup>1</sup> Der Führer oder die Führerin hat nach einer Lenkzeit von 4<sup>1</sup>/<sub>2</sub> Stunden eine Pause von mindestens 45 Minuten einzulegen. Diese Pause entfällt, sofern direkt anschliessend eine tägliche oder wöchentliche Ruhezeit begonnen wird.
+
+<sup>2</sup> Die Pause nach Absatz 1 kann unterteilt werden in eine Pause von mindestens 15 Minuten, gefolgt von einer Pause von mindestens 30 Minuten; diese Pausen sind so zu nehmen, dass Absatz 1 eingehalten ist.[^8-1]
+
+<sup>3</sup> Arbeitnehmer und Arbeitnehmerinnen dürfen nicht länger als 6 Stunden hintereinander ohne Pause arbeiten. Die Arbeit ist durch eine Pause von mindestens 30 Minuten bei einer Gesamtarbeitszeit von 6–9 Stunden und von mindestens 45 Minuten bei einer Gesamtarbeitszeit von mehr als 9 Stunden zu unterbrechen. Die Pausen können in Pausen von je mindestens 15 Minuten unterteilt werden.[^8-2]
+
+<sup>4</sup> Während der Pausen nach den Absätzen 1–3 darf der Führer oder die Führerin keine berufliche Tätigkeit ausüben.[^8-3]
+
+<sup>5</sup> Pausen nach den Absätzen 1–3 gelten nicht als Ruhezeiten.[^8-4]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^8-4]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 9
+
+**Tägliche Ruhezeit**[^9-1]
+
+<sup>1</sup> Der Führer oder die Führerin muss innerhalb von 24 Stunden nach dem Ende der vorangegangenen täglichen oder wöchentlichen Ruhezeit eine neue tägliche Ruhezeit genommen haben.
+
+<sup>2</sup> Die tägliche Ruhezeit muss mindestens 11 Stunden umfassen. Sie kann in zwei Teile unterteilt werden, wenn sie insgesamt mindestens 12 Stunden umfasst. Der erste Teil muss einen ununterbrochenen Zeitraum von mindestens 3 Stunden und der zweite Teil einen ununterbrochenen Zeitraum von mindestens 9 Stunden umfassen.
+
+<sup>3</sup> Der Führer oder die Führerin darf zwischen zwei wöchentlichen Ruhezeiten höchstens drei reduzierte tägliche Ruhezeiten einlegen. Eine reduzierte tägliche Ruhezeit muss mindestens 9 Stunden umfassen.
+
+<sup>4</sup> Beträgt der Teil der täglichen Ruhezeit, der in den 24-Stunden-Zeitraum fällt, weniger als 11 Stunden, so gilt diese tägliche Ruhezeit als reduzierte tägliche Ruhezeit.
+
+<sup>5</sup> Eine tägliche Ruhezeit kann verlängert werden, sodass sich eine regelmässige wöchentliche Ruhezeit oder eine reduzierte wöchentliche Ruhezeit ergibt.
+
+<sup>6</sup> Bei Mehrfachbesatzung muss der Führer oder die Führerin innerhalb von 30 Stunden nach dem Ende einer täglichen oder wöchentlichen Ruhezeit eine neue tägliche Ruhezeit von mindestens 9 Stunden genommen haben.
+
+<sup>7</sup> Nicht am Standort des Fahrzeugs eingelegte tägliche Ruhezeiten können im Fahrzeug verbracht werden, sofern das Fahrzeug abgestellt und mit geeigneten Schlafmöglichkeiten für jeden Führer und jede Führerin ausgerüstet ist.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 10
+
+[^10-1]
+
+[^10-1]: Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 11
+
+**Wöchentliche Ruhezeit**[^11-1]
+
+<sup>1</sup> Der Führer oder die Führerin muss innerhalb von zwei Wochen zwei wöchentliche Ruhezeiten von je mindestens 45 Stunden einhalten.
+
+<sup>2</sup> Eine der beiden Ruhezeiten darf bis auf 24 Stunden reduziert werden (reduzierte wöchentliche Ruhezeit). Die Reduzierung ist durch eine gleichwertige und ununterbrochene Ruhezeit innerhalb der folgenden drei Wochen auszugleichen.
+
+<sup>3</sup> Eine wöchentliche Ruhezeit muss spätestens am Ende von sechs 24-Stunden-Zeiträumen nach dem Ende der vorangegangenen wöchentlichen Ruhezeit beginnen.
+
+<sup>4</sup> Jede Ruhezeit, die als Ausgleich für eine reduzierte wöchentliche Ruhezeit eingelegt wird, ist an eine andere Ruhezeit von mindestens 9 Stunden anzuhängen.
+
+<sup>5</sup> Eine wöchentliche Ruhezeit, die in einer Woche beginnt und in die folgende Woche hineinreicht, kann der einen oder der anderen, nicht aber beiden Wochen zugerechnet werden.
+
+<sup>6</sup> Nicht am Standort des Fahrzeugs eingelegte reduzierte wöchentliche Ruhezeiten können im Fahrzeug verbracht werden, sofern das Fahrzeug abgestellt und mit geeigneten Schlafmöglichkeiten für jeden Führer und jede Führerin ausgerüstet ist.[^11-2]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^11-2]: Die Berichtigung vom 7. Febr. 2017 betrifft nur den französischen Text ([AS 2017 511](https://fedlex.data.admin.ch/eli/oc/2017/89)).
+
+#### Art. 11a
+
+**Verschiebung der wöchentlichen Ruhezeit bei grenzüberschreitenden Rundfahrten**[^11a-1]
+
+<sup>1</sup>
+
+Abweichend von Artikel 11 Absatz 3 darf der Führer oder die Führerin den Beginn der wöchentlichen Ruhezeit auf bis zu zwölf aufeinander folgende 24-Stunden-Zeiträume nach dem Ende der vorangegangenen regelmässigen wöchentlichen Ruhezeit verschieben, wenn:
+
+- a. der Führer oder die Führerin im grenzüberschreitenden Personenverkehr für eine einzelne Rundfahrt (Art. 8 Abs. 1 Bst. f der V vom 4. Nov. 2009[^11a-2] über die Personenbeförderung) eingesetzt wird;
+- b. die Fahrt mindestens 24 aufeinander folgende Stunden in einem anderen Staat als in dem Staat, in dem sie begonnen wurde, dauert; und
+- c. das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet ist.
+
+<sup>2</sup> Bei Fahrten zwischen 22.00 Uhr und 06.00 Uhr ist die Lenkzeit nach Artikel 8 Absatz 1 auf drei Stunden zu verkürzen, ausser bei Mehrfachbesatzung.
+
+<sup>3</sup>
+
+Verschiebt der Führer oder die Führerin die wöchentliche Ruhezeit, so muss er oder sie nach der Verschiebung einlegen:
+
+- a. zwei regelmässige wöchentliche Ruhezeiten; oder
+- b. eine regelmässige wöchentliche Ruhezeit sowie eine reduzierte wöchentliche Ruhezeit von mindestens 24 Stunden; die Reduzierung ist durch eine gleichwertige und ununterbrochene Ruhezeit innerhalb der folgenden drei Wochen auszugleichen.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^11a-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+
+#### Art. 11b
+
+**Anreise zum oder Rückreise vom Fahrzeug**[^11b-1]
+
+<sup>1</sup> Die Wegzeit vom Wohnsitz des Arbeitnehmers oder der Arbeitnehmerin zum Ort, an dem er oder sie die Arbeit normalerweise beginnt oder beendet, zählt nicht als Arbeitszeit. Befindet sich das Fahrzeug an einem anderen Ort und fällt dadurch die Wegzeit länger als üblich aus, so gilt die zeitliche Differenz zur normalen Wegzeit als Arbeitszeit.
+
+<sup>2</sup> Nicht als Arbeitszeit nach Absatz 1 gilt die Zeit, die der Arbeitnehmer oder die Arbeitnehmerin in einem Zug oder auf einem Fährschiff verbringt und während der er oder sie Zugang zu einer Schlafkabine, einer Koje oder einem Liegeplatz hat.
+
+[^11b-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 11c
+
+**Mehrfachbesatzung**[^11c-1]
+
+<sup>1</sup> Bei Mehrfachbesatzung gilt die Zeit, die während der Fahrt neben dem Führer oder der Führerin oder in einer Schlafkabine verbracht wird, als Bereitschaftszeit.
+
+<sup>2</sup> Während der ersten Stunde der Mehrfachbesatzung ist die Anwesenheit eines anderen Führers oder einer anderen Führerin fakultativ, während der restlichen Zeit obligatorisch.
+
+[^11c-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 11d
+
+**Kombinierte Transporte**[^11d-1]
+
+<sup>1</sup> Begleitet ein Führer oder eine Führerin ein Fahrzeug, das auf einem Fährschiff oder mit der Eisenbahn befördert wird, so gilt diese Zeit als Bereitschaftszeit. Der Führer oder die Führerin kann die Zeit als tägliche Ruhezeit nehmen, sofern ihm oder ihr eine Schlafkabine, eine Koje oder ein Liegeplatz zur Verfügung steht.
+
+<sup>2</sup>
+
+In Abweichung von Artikel 9 Absatz 2 darf der Führer oder die Führerin diese tägliche Ruhezeit höchstens zweimal unterbrechen, wenn:
+
+- a. die Dauer der Unterbrechungen insgesamt eine Stunde nicht überschreitet; und
+- b. die Ruhezeit nicht reduziert ist.
+
+[^11d-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 12
+
+**Abweichungen in Notfällen**
+
+<sup>1</sup> Sofern es die Verkehrssicherheit erlaubt, kann der Führer oder die Führerin von den Vorschriften über die Arbeits-, Lenk- und Ruhezeit abweichen, um einen geeigneten Abstellplatz zu erreichen, soweit dies erforderlich ist, um die Sicherheit der Fahrgäste, des Fahrzeugs oder seiner Ladung zu gewährleisten.
+
+<sup>2</sup> Der Führer oder die Führerin hat Art und Grund der Abweichung von den Arbeits‑, Lenk- und Ruhezeitvorschriften beim analogen Fahrtschreiber auf dem Einlageblatt und beim digitalen Fahrtschreiber auf einem besonderen Blatt zu vermerken. Artikel 14*b* Absatz 4 gilt sinngemäss.[^12-1]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+## 4. Abschnitt: Kontrollbestimmungen
+
+#### Art. 13
+
+**Kontrollmittel**[^13-1]
+
+Zur Kontrolle der Einhaltung der Lenkzeiten, Arbeitszeiten, Pausen und Ruhezeiten (Art. 5–11) dienen namentlich:
+
+- a. die Aufzeichnungen des analogen Fahrtschreibers und die Eintragungen auf den Fahrtschreiber-Einlageblättern;
+- b. die Aufzeichnungen des digitalen Fahrtschreibers und die vom Fahrer oder der Fahrerin datierten und unterschriebenen Ausdrucke;
+- c. die Fahrtschreiberkarten (Art. 13*a* Abs. 1);
+- d. die unter Einhaltung der Datenintegrität aus dem digitalen Fahrtschreiber sowie den Fahrtschreiberkarten auf externe Speichermedien ausgelesenen Daten;
+- e. die Eintragungen im Arbeitsbuch;
+- f. die Eintragungen in betriebsinternen Tagesrapporten und die Daten betriebsinterner Zeiterfassungsgeräte;
+- g. die Eintragungen in der Aufstellung über die Arbeits-, Lenk- und Ruhezeit.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+#### Art. 13a
+
+**Fahrtschreiberkarten**[^13a-1]
+
+<sup>1</sup>
+
+Für die Kontrolle der Arbeits-, Lenk- und Ruhezeiten werden folgende Fahrtschreiberkarten ausgestellt:[^13a-2]
+
+- a. Fahrerkarten;
+- b. Werkstattkarten;
+- c. Unternehmenskarten;
+- d. Kontrollkarten.
+
+<sup>2</sup>
+
+Fahrtschreiberkarten werden vor Ablauf ihrer Gültigkeitsdauer entzogen oder für ungültig erklärt, wenn:
+
+- a. sie gefälscht sind;
+- b. jemand eine Karte verwendet, deren Inhaber oder Inhaberin er oder sie nicht ist;
+- c. sie auf der Grundlage falscher Angaben oder gefälschter Dokumente erteilt wurden;
+- d. die Voraussetzungen für die Erteilung nicht mehr erfüllt sind.
+
+<sup>3</sup> Ändern sich die Angaben auf den Fahrtschreiberkarten, so muss eine neue Karte ausgestellt werden. Der Inhaber oder die Inhaberin muss der zuständigen Behörde innerhalb von 14 Tagen jede entsprechende Änderung melden. Die bisherige Karte verliert mit der Aushändigung der neuen Karte ihre Gültigkeit.
+
+<sup>4</sup> Das Erneuerungsgesuch kann frühestens sechs Monate vor Ablauf der Gültigkeit der Karten gestellt werden. Geht das Gesuch weniger als 15 Tage vor Ablauf der Gültigkeit ein, so wird eine neue Karte ausgestellt.[^13a-3]
+
+<sup>5</sup> Bei Beschädigung, Fehlfunktion, Verlust oder Diebstahl einer Fahrtschreiberkarte muss der Karteninhaber oder die Karteninhaberin der zuständigen Behörde innerhalb von sieben Tagen Anzeige erstatten. Innerhalb dieser Frist muss er oder sie den Ersatz der Karte beantragen. Mit der Anzeige verliert die betreffende Fahrtschreiberkarte ihre Gültigkeit.
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13a-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^13a-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+
+#### Art. 13b
+
+**Fahrerkarte**[^13b-1]
+
+<sup>1</sup> Fahrerkarten werden Führern und Führerinnen erteilt, die einen Lernfahr- oder Führerausweis im Kreditkartenformat (FAK) der Kategorien B, C, D, der Unterkategorien C1 oder D1 oder der Spezialkategorie F (Art. 3 VZV[^13b-2]) besitzen. Fahrzeugführern und Fahrzeugführerinnen aus dem Ausland, die einen schweizerischen Führerausweis benötigen (Art. 42 Abs. 3<sup>bis</sup> VZV), dürfen keine Fahrerkarten erteilt werden, wenn sie Wohnsitz in einem EU-Staat haben.[^13b-3]
+
+<sup>2</sup> Das Gesuch um eine Fahrerkarte ist beim Bundesamt für Strassen einzureichen und beinhaltet die Daten der gesuchstellenden Person nach Anhang 2 Ziffer 212 der Verordnung vom 30. November 2018[^13b-4] über das Informationssystem Verkehrszulassung (IVZV).[^13b-5]
+
+<sup>3</sup> Die Gültigkeitsdauer der Fahrerkarte beträgt fünf Jahre.
+
+<sup>4</sup> Pro Führer oder Führerin darf nur eine Fahrerkarte ausgestellt werden. Sie ist persönlich und nicht übertragbar.
+
+<sup>5</sup> Hat der Inhaber oder die Inhaberin einer von einem ausländischen Staat erteilten gültigen Fahrerkarte den Wohnsitz in die Schweiz verlegt, so kann er oder sie beim Bundesamt für Strassen ein Gesuch um Umtausch der Fahrerkarte stellen. Die ausländische Fahrerkarte muss dem Bundesamt für Strassen abgegeben werden.[^13b-6]
+
+<sup>6</sup> Fahrerkarten müssen dem Bundesamt für Strassen bei Änderungen nach Artikel 13*a* Absatz 3, Beschädigung oder Fehlfunktion zurückgegeben werden. Wird eine ersetzte Fahrerkarte wieder aufgefunden, so muss sie innerhalb von 14 Tagen der Behörde abgegeben werden. Die auf der Karte gespeicherten Daten sind vorgängig zu sichern.[^13b-7]
+
+<sup>7</sup> Der Diebstahl einer Fahrerkarte ist den zuständigen Behörden des Staates, in dem sich der Diebstahl ereignet hat, zu melden.
+
+[^13b-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13b-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^13b-3]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^13b-4]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13b-5]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13b-6]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^13b-7]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+
+#### Art. 13c
+
+**Werkstattkarte**[^13c-1]
+
+<sup>1</sup> Werkstattkarten werden Werkstätten erteilt, die über eine Bewilligung nach Artikel 101 der Verordnung vom 19. Juni 1995[^13c-2] über die technischen Anforderungen an Strassenfahrzeuge (VTS) verfügen und die die Voraussetzungen für die Erteilung einer Unternehmenskarte nicht erfüllen. In begründeten Fällen können Werkstattkarten auch Werkstätten erteilt werden, die die Voraussetzungen für die Erteilung einer Unternehmenskarte erfüllen, wenn ihre unternehmerische Tätigkeit das Sicherheitssystem nach der Verordnung (EU) Nr. 165/2014[^13c-3] nicht gefährdet.[^13c-4]
+
+<sup>2</sup> Das Gesuch um eine Werkstattkarte ist bei der Eidgenössischen Zollverwaltung einzureichen und beinhaltet die Daten zur Werkstatt und zum Werkstatttechniker oder zur Werkstatttechnikerin nach Anhang 2 Ziffern 222 und 223 IVZV[^13c-5].[^13c-6]
+
+<sup>3</sup> Die Gültigkeitsdauer der Werkstattkarte beträgt ein Jahr.
+
+<sup>4</sup> Die Werkstattkarte wird auf die Werkstatt und deren berechtigte Techniker und Technikerinnen ausgestellt. Sie darf nur vom berechtigten Werkstatttechniker oder von der berechtigten Werkstatttechnikerin und nur am Sitz der entsprechenden Werkstatt benutzt werden. Der Techniker oder die Technikerin ist persönlich verantwortlich für die mit seiner oder ihrer Werkstattkarte durchgeführten Arbeiten und Kalibrierungen an digitalen Fahrtschreibern.
+
+<sup>5</sup> Werkstattkarten müssen der Eidgenössischen Zollverwaltung bei Änderungen nach Artikel 13*a* Absatz 3, Beschädigung oder Fehlfunktion zurückgegeben werden. Wird eine ersetzte Werkstattkarte wieder aufgefunden, so muss sie innerhalb von 14 Tagen der Behörde abgegeben werden. Die auf der Karte gespeicherten Daten sind vorgängig zu sichern.
+
+[^13c-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13c-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^13c-3]: Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Strassenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Strassenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr, Fassung gemäss ABl. L 60 vom 28.2.2014, S. 1.
+[^13c-4]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-5]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13c-6]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+
+#### Art. 13d
+
+**Unternehmenskarte**[^13d-1]
+
+<sup>1</sup> Unternehmenskarten werden Arbeitgebern, selbständig erwerbenden Führern und Führerinnen und Vermietern und Vermieterinnen von Fahrzeugen mit digitalem Fahrtschreiber erteilt.
+
+<sup>2</sup> Das Gesuch um eine Unternehmenskarte ist beim Bundesamt für Strassen einzureichen und beinhaltet die Daten zum Unternehmen nach Anhang 2 Ziffer 232 IVZV[^13d-2].[^13d-3]
+
+<sup>3</sup> Die Gültigkeitsdauer der Unternehmenskarte beträgt fünf Jahre.
+
+<sup>4</sup> Die Unternehmenskarte wird auf den Namen des Unternehmens ausgestellt. Einem Unternehmen können mehrere Unternehmenskarten erteilt werden.
+
+[^13d-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13d-2]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13d-3]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+
+#### Art. 13e
+
+**Kontrollkarte**[^13e-1]
+
+<sup>1</sup> Kontrollkarten werden den für Strassen- oder Betriebskontrollen zuständigen Behörden der Kantone und der Eidgenössischen Zollverwaltung erteilt.
+
+<sup>2</sup> Das Gesuch um eine Kontrollkarte ist bei der zuständigen Behörde einzureichen und beinhaltet die Daten zur Kontrollbehörde nach Anhang 2 Ziffer 242 IVZV[^13e-2].[^13e-3]
+
+<sup>3</sup> Die Gültigkeitsdauer der Kontrollkarte beträgt zwei Jahre.[^13e-4]
+
+<sup>4</sup> Die Kontrollkarte ist unpersönlich und übertragbar. Einer Behörde können mehrere Kontrollkarten erteilt werden.
+
+[^13e-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13e-2]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13e-3]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13e-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+
+#### Art. 14
+
+**Fahrtschreiber**[^14-1]
+
+<sup>1</sup> Während der beruflichen Tätigkeit muss der Führer oder die Führerin, solange er oder sie sich im Fahrzeug oder in dessen Nähe befindet, den Fahrtschreiber ständig in Betrieb halten und so bedienen, dass die Lenkzeit, die übrige Arbeitszeit, die Bereitschaftszeit und die Pausen zeitgerecht aufgezeichnet werden. Bei Mehrfachbesatzung haben sie den Fahrtschreiber so zu bedienen, dass diese Angaben unterscheidbar für jeden von ihnen vom Gerät aufgezeichnet werden.[^14-2]
+
+<sup>2</sup> Der Arbeitgeber und der Führer oder die Führerin sorgen für das einwandfreie Funktionieren und die ordnungsgemässe Benutzung und Bedienung des Fahrtschreibers.
+
+<sup>3</sup> Bei einer Betriebsstörung oder bei mangelhaftem Funktionieren des Fahrtschreibers müssen der Arbeitgeber oder selbstständigerwerbende Führer und Führerinnen dafür sorgen, dass der Fahrtschreiber schnellstmöglich von einer Werkstätte repariert wird, die über eine entsprechende Bewilligung verfügt. Ist eine Rückkehr des Fahrzeugs zum Unternehmensstandort innerhalb einer Woche nach Eintritt der Störung nicht möglich, so muss die Reparatur unterwegs durchgeführt werden.[^14-3]
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14-3]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+
+#### Art. 14a
+
+**Bedienung des analogen Fahrtschreibers**[^14a-1]
+
+<sup>1</sup>
+
+Der Führer oder die Führerin hat auf dem Einlageblatt folgende Angaben einzutragen:
+
+- a.
+
+  vor dem Einlegen des Einlageblattes:
+
+  - 1\. seinen oder ihren Namen und Vornamen sowie die Kontrollschildnummer des benutzten Fahrzeugs,
+  - 2\. den Kilometerstand vor Beginn der Fahrt;
+
+- b. vor dem Einlegen und nach Herausnahme des Einlageblattes: das Datum und den Ort;
+- c. nach Herausnahme des Blattes nach der letzten Fahrt des Tages: den neuen Kilometerstand und das Total der gefahrenen Kilometer;
+- d. bei einem Fahrzeugwechsel während des Tages: den Kilometerstand des vorherigen und des neuen Fahrzeugs;
+- e. gegebenenfalls die Zeit des Fahrzeugwechsels.
+
+<sup>2</sup> Befindet sich der Führer oder die Führerin nicht in der Nähe des Fahrzeugs und ist dadurch nicht in der Lage, den Fahrtschreiber zu bedienen, so hat er oder sie laufend die Angaben über die Arbeits-, Bereitschafts- und Ruhezeiten von Hand oder auf andere geeignete Weise leserlich auf dem Einlageblatt einzutragen. Die handschriftlichen Eintragungen dürfen die Aufzeichnungen des Gerätes nicht beeinträchtigen.[^14a-2]
+
+<sup>3</sup> Bei einer Betriebsstörung oder bei einem mangelhaften Funktionieren des Fahrtschreibers hat der Führer oder die Führerin, sofern die entsprechenden Angaben über die Arbeits-, Lenk-, Bereitschafts- und Ruhezeiten nicht mehr einwandfrei aufgezeichnet werden, diese auf dem Einlageblatt oder auf einem besonderen, dem Einlageblatt beizufügenden Blatt zu vermerken.[^14a-3]
+
+<sup>4</sup> Kein Einlageblatt darf über den Zeitraum hinaus verwendet werden, für den es bestimmt ist.
+
+<sup>5</sup> Der Führer oder die Führerin muss auf dem Fahrzeug genügend leere Einlageblätter mitführen, die für den betreffenden Fahrtschreiber zugelassen sind. Er oder sie darf keine beschmutzten oder beschädigten Einlageblätter verwenden und muss die Einlageblätter sachgemäss schützen. Wird ein Einlageblatt, das bereits Aufzeichnungen aufweist, beschädigt, ist dieses dem ersatzweise verwendeten Einlageblatt beizufügen.
+
+<sup>6</sup> Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin die Einlageblätter unentgeltlich zur Verfügung zu stellen und ihnen auf Verlangen eine Kopie der benützten Blätter auszuhändigen.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14a-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+
+#### Art. 14b
+
+**Bedienung des digitalen Fahrtschreibers**[^14b-1]
+
+<sup>1</sup> Der Führer oder die Führerin hat das Land des Beginns und des Endes der beruflichen Tätigkeit in den Fahrtschreiber einzugeben. Diese Eingabe ist nicht erforderlich, wenn der Fahrtschreiber mit einem Positionsbestimmungsdienst auf der Basis eines Satellitennavigationssystems verbunden ist und diese Angaben automatisch aufzeichnet.[^14b-2]
+
+<sup>2</sup> Die Fahrer- und die Beifahrerkarte müssen während der gesamten beruflichen Tätigkeit eingesteckt bleiben. Beim Einstecken und bei der Entnahme der Fahrerkarte muss der Führer oder die Führerin die Eingabeaufforderungen des Fahrtschreibers mit Ja oder Nein beantworten.[^14b-3]
+
+<sup>3</sup> Befindet sich der Führer oder die Führerin nicht in der Nähe des Fahrzeugs und ist dadurch nicht in der Lage, den Fahrtschreiber zu bedienen, so hat er oder sie die Angaben über die Arbeits-, Bereitschafts- und Ruhezeiten vor der Weiterfahrt manuell in das Gerät einzugeben.[^14b-4]
+
+<sup>4</sup> Bei einer Betriebsstörung oder bei einem mangelhaften Funktionieren des Fahrtschreibers hat der Führer oder die Führerin, sofern die entsprechenden Angaben über die Arbeits-, Lenk-, Bereitschafts- und Ruhezeiten nicht mehr einwandfrei aufgezeichnet, ausgedruckt oder heruntergeladen werden, diese auf einem besonderen Blatt zu vermerken. Das Blatt muss zusätzlich mit den Angaben zur Person (Name, Vorname, Nummer der Fahrerkarte oder des Führerausweises), der Kontrollschildnummer des benutzten Fahrzeugs, dem Ort des Beginns und des Endes der beruflichen Tätigkeit sowie dem Datum und der Unterschrift versehen werden. Artikel 14*c* gilt sinngemäss.[^14b-5]
+
+<sup>5</sup> Wenn die Fahrerkarte beschädigt ist, Fehlfunktionen aufweist, gestohlen wurde oder sich nicht im Besitz des Führers oder der Führerin befindet, muss der Führer oder die Führerin zu Beginn der beruflichen Tätigkeit die Angaben zum verwendeten Fahrzeug ausdrucken und den Ausdruck mit Namen, Vornamen, Führerausweisnummer, Datum und Unterschrift versehen. Am Ende der beruflichen Tätigkeit muss der Führer oder die Führerin die vom Fahrtschreiber aufgezeichneten Daten ausdrucken und diesen Ausdruck ebenfalls mit Namen, Vornamen, Führerausweisnummer, Datum und Unterschrift versehen. Vom Fahrtschreiber nicht erfasste Zeiten, in denen der Führer oder die Führerin seit dem Erstellen des Ausdrucks zu Beginn der beruflichen Tätigkeit andere Arbeiten als die Lenktätigkeit ausgeübt hat, Bereitschaft hatte, eine Pause oder eine Ruhezeit eingelegt hat, sind ebenfalls zu vermerken. Findet während der beruflichen Tätigkeit ein Fahrzeugwechsel statt, so ist für jedes Fahrzeug ein entsprechender Ausdruck anzufertigen. Artikel 14*c* gilt sinngemäss.[^14b-6]
+
+<sup>5bis</sup> Das in Absatz 5 genannte Vorgehen findet auch Anwendung bei Führern und Führerinnen, die an einer Praxiserprobung eines Fahrtschreibers teilnehmen, für den noch keine Typengenehmigung vorliegt.[^14b-7]
+
+<sup>6</sup> In den Fällen nach Absatz 5 darf der Führer oder die Führerin die Fahrt ohne Fahrerkarte während eines Zeitraums von höchstens 15 Kalendertagen fortsetzen; für einen längeren Zeitraum nur, wenn das für die Rückkehr des Fahrzeuges an seinen Standort erforderlich ist.
+
+<sup>7</sup> Der Führer oder die Führerin muss auf dem Fahrzeug genügend Druckerpapier mitführen. Er oder sie darf kein beschmutztes, beschädigtes oder nicht für den Fahrtschreiber zugelassenes Druckerpapier verwenden und muss das Druckerpapier sachgemäss schützen.
+
+<sup>8</sup> Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin das Druckerpapier sowie die für das Herunterladen der Daten von der Fahrerkarte notwendigen Hilfsmittel unentgeltlich zur Verfügung zu stellen und ihnen auf Verlangen unentgeltlich eine Kopie der Ausdrucke oder der übrigen Daten auszuhändigen.
+
+[^14b-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14b-2]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^14b-3]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^14b-4]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14b-5]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14b-6]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^14b-7]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+
+#### Art. 14c
+
+**Vorweisen der Dokumente oder Daten zum Fahrtschreiber**[^14c-1]
+
+<sup>1</sup> Lenkt der Führer oder die Führerin ein Fahrzeug mit einem analogen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit das Einlageblatt des laufenden Tages und die in den vorangehenden 28 Tagen verwendeten Einlageblätter sowie die Fahrerkarte vorweisen können, falls er oder sie Inhaber oder Inhaberin einer solchen Karte ist; ältere Einlageblätter sind dem Arbeitgeber zur Aufbewahrung (Art. 18 Abs. 3) abzugeben.[^14c-2]
+
+<sup>2</sup> Lenkt der Führer oder die Führerin ein Fahrzeug mit einem digitalen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit die Fahrerkarte vorweisen können.
+
+<sup>3</sup>
+
+Lenkt der Führer oder die Führerin abwechselnd ein Fahrzeug mit einem analogen Fahrtschreiber und ein Fahrzeug mit einem digitalen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit vorweisen können:
+
+- a. das Einlageblatt und die Ausdrucke nach Artikel 14*b* Absätze 4 und 5 für den laufenden Tag;
+- b. die Einlageblätter und die Ausdrucke nach Artikel 14*b* Absätze 4 und 5 für die vorangehenden 28 Tage, an denen er oder sie ein Fahrzeug geführt hat;
+- c. die Fahrerkarte.[^14c-3]
+
+[^14c-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14c-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^14c-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 14d
+
+**Digitaler Fahrtschreiber bei Mietfahrzeugen**[^14d-1]
+
+Vermieter und Vermieterinnen von Fahrzeugen müssen dem Mieter oder der Mieterin auf Verlangen spätestens einen Monat nach Beendigung des Mietverhältnisses jene Daten im Speicher des Fahrtschreibers zur Verfügung stellen, die sich auf die vom Mieter oder der Mieterin durchgeführten Fahrten beziehen und auf die dieser oder diese nicht unmittelbar zugreifen kann. Dabei ist der Datenschutz zu gewährleisten.
+
+[^14d-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+#### Art. 15
+
+**Arbeitsbuch**
+
+<sup>1</sup>
+
+Der Arbeitnehmer oder die Arbeitnehmerin führt ein Arbeitsbuch über seine oder ihre Arbeitszeit, wenn er oder sie:
+
+- a.[^15-1] diese nicht durch andere Kontrollmittel (Fahrtschreibereinlageblätter, Fahrerkarte, Ausdrucke, Tagesrapporte und Zeiterfassungsgeräte) nachweisen kann; oder
+- b. nicht nach einem festen Stundenplan eingesetzt wird.
+
+<sup>2</sup> Der Arbeitnehmer oder die Arbeitnehmerin darf gleichzeitig nur ein Arbeitsbuch benützen, auch wenn er oder sie bei mehr als einem Arbeitgeber beschäftigt ist. Das Arbeitsbuch ist persönlich und nicht übertragbar.
+
+<sup>3</sup> Der Arbeitgeber hat das Arbeitsbuch bei der Vollzugsbehörde zu beziehen und dem Arbeitnehmer oder der Arbeitnehmerin unentgeltlich abzugeben. Es ist dem Arbeitgeber zurückzugeben, wenn alle Blätter ausgefüllt sind oder wenn das Arbeitsverhältnis beendigt ist.
+
+<sup>4</sup> Spätestens am ersten Arbeitstag der folgenden Woche, bei Fahrten im Ausland nach der Rückkehr in die Schweiz, muss der Arbeitnehmer oder die Arbeitnehmerin die Nachweise seiner oder ihrer Arbeitszeit (perforiertes Original des Wochenblattes aus dem Arbeitsbuch, betriebsinterne Tagesrapporte) dem Arbeitgeber abgeben.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+#### Art. 16
+
+**Aufstellung über die Arbeits‑, Lenk- und Ruhezeit**
+
+<sup>1</sup>
+
+Der Arbeitgeber überwacht laufend anhand der verfügbaren Kontrollmittel, ob die Bestimmungen über die Arbeits-, Lenk- und Ruhezeit eingehalten worden sind. Er hält dazu für jeden Arbeitnehmer und jede Arbeitnehmerin folgende Angaben in einer Aufstellung fest:
+
+- a. die Tageslenkzeit;
+- b. die wöchentliche Arbeitszeit und den aktuellen Wochendurchschnitt;
+- c. die Bereitschaftszeit;
+- d. die eingelegten täglichen Ruhezeiten und bei deren allfälliger Unterteilung die Dauer der Teil-Ruhezeiten;
+- e. die eingelegten wöchentlichen Ruhezeiten und bei deren allfälliger Reduzierung die Dauer der reduzierten Ruhezeiten;
+- f. allfällige Arbeitszeiten bei andern Arbeitgebern.[^16-1]
+
+<sup>2</sup>
+
+Selbstständigerwerbende Führer und Führerinnen halten folgende Angaben in einer Aufstellung fest:
+
+- a. die Tageslenkzeit;
+- b. die eingelegten täglichen Ruhezeiten und bei deren allfälliger Unterteilung die Dauer der Teil-Ruhezeiten;
+- c. die eingelegten wöchentlichen Ruhezeiten und bei deren allfälliger Reduzierung die Dauer der reduzierten Ruhezeiten.[^16-2]
+
+<sup>3</sup> Für Führer und Führerinnen, deren Tageslenkzeit aufgrund einer summarischen Überprüfung der Fahrtschreiber-Aufzeichnungen offensichtlich weniger als 7 Stunden betragen hat, ist in der Aufstellung kein Eintrag der Lenkzeit erforderlich.
+
+<sup>4</sup> Spätestens am Ende des Monats muss die Aufstellung nach den Absätzen 1 und 2 für den vorletzten Monat vollständig sein. Für im Ausland tätige Führer und Führerinnen ist die Aufstellung zu erstellen, sobald dies nach ihrer Rückkehr in die Schweiz möglich ist.[^16-3]
+
+<sup>4bis</sup> Der Arbeitgeber muss dem Arbeitnehmer oder der Arbeitnehmerin auf Verlangen eine Kopie der Aufstellung aushändigen.[^16-4]
+
+<sup>5</sup> Arbeitgeber sowie selbständigerwerbende Führer und Führerinnen, die die Aufstellung oder die Verwaltung der Speicherdaten durch Dritte ausführen lassen, bleiben für die Richtigkeit der Angaben, die Sicherung und Aufbewahrung der heruntergeladenen Daten sowie deren Vollständigkeit verantwortlich.[^16-5]
+
+<sup>6</sup> Die Vollzugsbehörde kann auf die Aufstellung über die Arbeits-, Lenk- und Ruhezeit nach den Absätzen 1 und 2 für Führer und Führerinnen verzichten, deren berufliche Tätigkeit sich nach einem täglich gleich bleibenden Stundenplan richtet, der eine Verletzung der Arbeits-, Lenk- und Ruhezeitvorschriften ausschliesst. Die entsprechende Befreiungsverfügung enthält den Stundenplan, den Namen des Führers oder der Führerin und allenfalls des Arbeitgebers und ist auf ein Jahr befristet; sie darf nicht erneuert werden, wenn während der abgelaufenen Befreiungsperiode mehr als 20 Fahrten ausserhalb des Stundenplanes durchgeführt worden sind.[^16-6]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-5]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^16-6]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 16a
+
+**Herunterladen von Daten beim digitalen Fahrtschreiber**[^16a-1]
+
+Ist das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet, so haben der Arbeitgeber sowie die selbständigerwerbenden Führer und Führerinnen dafür zu sorgen, dass:
+
+- a.
+
+  die Daten aus dem Speicher des Fahrtschreibers auf ein externes Speichermedium heruntergeladen werden, und zwar:
+
+  - 1\. spätestens alle drei Monate, beginnend mit dem ersten Tag der Aufzeichnung,
+  - 2\. bevor ein Fahrzeug oder ein Fahrtschreiber an ein anderes Unternehmen vermietet oder verkauft wird, oder
+  - 3\. wenn der Fahrtschreiber nicht mehr korrekt funktioniert, die Daten aber noch heruntergeladen werden können;
+
+- b.
+
+  die Daten von der Fahrerkarte heruntergeladen werden, und zwar:
+
+  - 1\. wöchentlich,
+  - 2\. bei längerer Abwesenheit des Fahrers oder der Fahrerin spätestens alle 21 Tage, beginnend mit dem ersten Tag der Aufzeichnung,
+  - 3\. bei Auflösung des Arbeitsverhältnisses des Arbeitnehmers oder der Arbeitnehmerin, oder
+  - 4\. vor Beginn der Fahrtätigkeit im Auftrag eines anderen Unternehmens und mit deren Fahrzeugen;
+
+- c. die Daten von der Unternehmenskarte spätestens alle drei Monate, beginnend mit dem ersten Tag der Aufzeichnung, heruntergeladen werden;
+- d. die aus dem digitalen Fahrtschreiber, von der Fahrerkarte und von der Unternehmenskarte heruntergeladenen Daten in chronologischer Reihenfolge nach Fahrzeugnummer und Fahrer oder Fahrerin beziehungsweise nach Fahrer oder Fahrerin gespeichert werden;
+- e. von allen Daten unverzüglich Sicherungskopien erstellt werden, die auf einem gesonderten Datenträger aufzubewahren sind;
+- f. die Aufstellung nach Artikel 16 Absatz 1 oder Absatz 2 vollständig erstellt wird;
+- g. sie vor der ersten Inbetriebnahme des Fahrtschreibers ihren Datenbereich schützen und diesen Schutz vor dem Verkauf oder der Vermietung des Fahrtschreibers wieder beenden.
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+#### Art. 17
+
+**Weitere Pflichten des Arbeitsgebers und der Führer und der Führerinnen[^17-1]**
+
+<sup>1</sup> Der Arbeitgeber muss dem Arbeitnehmer und der Arbeitnehmerin die Arbeit so zuteilen, dass er oder sie die Bestimmungen über die Arbeits‑, Lenk- und Ruhezeit einhalten kann. Der Arbeitnehmer oder die Arbeitnehmerin muss dem Arbeitgeber rechtzeitig melden, wenn die zugeteilte Arbeit zu einer Verletzung dieser Bestimmungen führen könnte.
+
+<sup>2</sup> Der Arbeitgeber muss dafür sorgen, dass der Arbeitnehmer oder die Arbeitnehmerin die Bestimmungen über die Arbeits‑, Lenk- und Ruhezeit einhält, die Kontrollmittel vorschriftsgemäss führt und sie ihm rechtzeitig abgibt.
+
+<sup>3</sup> Der Arbeitgeber führt ein Verzeichnis, in dem die Namen der Führer und Führerinnen, deren Adresse, Geburtsdatum und allfällige Arbeitsbuch-Nummer eingetragen sind.
+
+<sup>3bis</sup> Der Arbeitgeber muss dafür sorgen, dass Personendaten der Führer und Führerinnen, die im Zusammenhang mit der Durchführung dieser Verordnung bei ihm anfallen, nur für die Zwecke dieser Verordnung verwendet und gegen unbefugten Zugriff geschützt werden.[^17-2]
+
+<sup>4</sup> Der Lohn von Arbeitnehmern und Arbeitnehmerinnen darf nicht nach der zurückgelegten Fahrstrecke, der beförderten Gütermenge oder andern die Verkehrssicherheit beeinträchtigenden Leistungen berechnet werden.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-2]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+
+#### Art. 18
+
+**Auskunftspflicht**
+
+<sup>1</sup> Arbeitgeber sowie Führer und Führerinnen müssen der Vollzugsbehörde alle Auskünfte erteilen, die für die Anwendung der Verordnung und für die Kontrolle erforderlich sind.
+
+<sup>2</sup> Arbeitgeber sowie selbständigerwerbende Führer und Führerinnen müssen der Vollzugsbehörde den Zutritt zum Betrieb und die nötigen Abklärungen gestatten.
+
+<sup>3</sup>
+
+Arbeitgeber sowie selbständigerwerbende Führer und Führerinnen müssen am Geschäftssitz während drei Jahren nach Führer oder Führerin geordnet aufbewahren:[^18-1]
+
+- a. die Einlageblätter des Fahrtschreibers (Art. 14);
+- b.[^18-2] alle aus dem Speicher des digitalen Fahrtschreibers und von den Fahrer- und Unternehmenskarten heruntergeladenen Daten und die jeweiligen Sicherungskopien (Art. 16*a*); die Aufbewahrungsfrist beginnt mit dem Zeitpunkt, an dem das Datenpaket heruntergeladen wird;
+- c.[^18-3] die Wochenblätter des Arbeitsbuches, gleichgestellte Nachweise und die ausgefüllten Arbeitsbücher (Art. 15);
+- d.[^18-4] die Aufstellung über die Arbeits-, Lenk- und Ruhezeit (Art. 16);
+- e.[^18-5] allfällige Befreiungsverfügungen (Art. 16 Abs. 6).
+
+<sup>4</sup> Zweigniederlassungen, die Fahrzeuge selbständig einsetzen, bewahren diese Dokumente und Daten an ihrem Sitz auf.[^18-6]
+
+<sup>5</sup> Die Dokumente und Daten sind der Vollzugsbehörde auf Verlangen vorzuweisen oder in der von ihr verlangten Form einzusenden.[^18-7]
+
+<sup>6</sup> Auskünfte zu Statistik- oder Forschungszwecken richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^18-8] über den Datenschutz und der Verordnung vom 14. Juni 1993[^18-9] zum Bundesgesetz über den Datenschutz sowie nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^18-10].[^18-11]
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-4]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-5]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-6]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-7]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-8]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-9]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-10]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^18-11]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+## 5. Abschnitt: Sonderbestimmungen
+
+#### Art. 19
+
+**Lernende in der beruflichen Grundbildung Strassentransportfachmann/Strassentransportfachfrau EFZ**[^19-1]
+
+<sup>1</sup> Die Bestimmungen dieses Absatzes gelten nur für Lernende in der beruflichen Grundbildung Strassentransportfachmann/Strassentransportfachfrau EFZ (Art. 6 Abs. 2 VZV[^19-2]) bis zum vollendeten 18. Altersjahr. Deren Arbeitszeit darf neun Stunden je Tag nicht übersteigen; der obligatorische Schulunterricht gilt als Arbeitszeit. Die Arbeitszeit muss in die Zeit von 05.00 Uhr bis 22.00 Uhr fallen; die Kantone können im Interesse der beruflichen Ausbildung Ausnahmen bewilligen. Die tägliche Ruhezeit nach Artikel 9 Absatz 2 darf nicht verkürzt werden.
+
+<sup>2</sup> Lernende sowie Ausbilder und Ausbilderinnen unterliegen den Kontrollvorschriften nach Art. 15.
+
+<sup>3</sup>
+
+Bei Lernfahrten müssen die Ausbilder und Ausbilderinnen:
+
+- a. auf dem Einlageblatt des Fahrtschreibers neben dem Namen der Lernenden ihre Initialen eintragen;
+- b. ein eigenes Einlageblatt benützen; oder
+- c. ihre Fahrerkarte in den für den Beifahrer bestimmten Steckplatz des digitalen Fahrtschreibers einstecken.
+
+<sup>4</sup> Lernfahrten von Lernenden gelten auch für Ausbilder und Ausbilderinnen als Lenkzeit.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^19-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+
+#### Art. 20
+
+**Führer und Führerinnen im Nebenberuf**
+
+<sup>1</sup> Führer und Führerinnen, deren berufliche Tätigkeit nur teilweise dieser Verordnung untersteht (Führer und Führerinnen im Nebenberuf), dürfen in ihrer gesamten beruflichen Tätigkeit die in dieser Verordnung festgelegten Grenzen nicht überschreiten.
+
+<sup>2</sup> Der Arbeitgeber, der Führer oder Führerinnen im Nebenberuf einsetzt, muss sich vergewissern, dass der Arbeitnehmer oder die Arbeitnehmerin diese Grenzen nicht überschreitet.
+
+<sup>3</sup> Die Vollzugsbehörde legt für Führer und Führerinnen im Nebenberuf, die neben ihrer Tätigkeit als Führer oder Führerin keine Erwerbstätigkeit als Arbeitnehmer oder Arbeitnehmerinnen ausüben, wie Landwirte, Studenten, Hausfrauen, eine Anzahl Stunden als Grundarbeitszeit fest, soweit sich dies wegen der Beanspruchung in ihrer Hauptbeschäftigung aufdrängt.
+
+## 6. Abschnitt: Strafbestimmungen und Strafverfolgung
+
+#### Art. 21
+
+**Strafbestimmungen**
+
+<sup>1</sup> Wer die Bestimmungen über die Arbeitszeit, Lenkzeit, Bereitschaftszeit, Pausen und Ruhezeiten (Art. 5–11) verletzt, wird mit Busse bestraft.[^21-1]
+
+<sup>2</sup>
+
+Mit Busse wird bestraft, wer die Kontrollbestimmungen (Art. 13–18) verletzt, insbesondere wer:[^21-2]
+
+- a. die Kontrollmittel (Art. 13) nicht oder nicht vorschriftsgemäss führt, bedient, sie nicht benutzt oder sie beschädigt;
+- b. gegenüber der für die Fahrtschreiberkarten zuständigen Behörde falsche oder unvollständige Angaben zu seiner Person macht (Art. 13*a*–13*d*);
+- c.[^21-3] den Fahrtschreiber nicht in Betrieb hält, nicht richtig bedient, die Aufzeichnungen verfälscht oder die Reparatur des Fahrtschreibers nicht rechtzeitig durchführen lässt;
+- d. in Kontrolldokumenten und elektronischen Daten wahrheitswidrige oder unvollständige Angaben macht, die Lesbarkeit der Dokumente und Daten erschwert, ihren Inhalt verändert oder eine teilweise oder vollständige Datenlöschung herbeiführt;
+- e. eine defekte, gefälschte, ungültige oder keine Fahrtschreiberkarte für den digitalen Fahrtschreiber benutzt;
+- f. seine persönliche Fahrtschreiberkarte einer anderen Person zur Verfügung stellt oder eine Fahrtschreiberkarte benutzt, deren Inhaber oder Inhaberin er oder sie nicht ist;
+- g.[^21-4] …
+- h. das Gesamtsystem des digitalen Fahrtschreibers derart manipuliert, dass dieser falsche Daten liefert.[^21-5]
+
+<sup>3</sup> Wer die nach den Sonderbestimmungen (Art. 19 und 20) bestehenden Pflichten oder anzuwendenden Vorschriften verletzt, wird mit Busse bestraft.[^21-6]
+
+<sup>4</sup> Der Arbeitgeber, der eine nach dieser Verordnung strafbare Handlung eines Führers oder einer Führerin veranlasst oder nicht nach seinen Möglichkeiten verhindert, untersteht der gleichen Strafandrohung wie der Führer oder die Führerin. Der Richter kann den Führer oder die Führerin milder bestrafen oder von einer Bestrafung absehen, wenn die Umstände es rechtfertigen.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^21-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^21-4]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^21-5]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^21-6]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+
+#### Art. 22
+
+**Strafverfolgung**
+
+<sup>1</sup> Die Strafverfolgung ist Sache der Kantone. Neben dem Kanton, in dem die Widerhandlung begangen wurde, ist auch der Kanton zuständig, der sie feststellt.
+
+<sup>2</sup> Die Vollzugsbehörde des Kantons, in dem das Fahrzeug immatrikuliert ist, wird über die Strafverfolgung unterrichtet.
+
+## 7. Abschnitt: Vollzug
+
+#### Art. 23
+
+**Aufgaben der Kantone**[^23-1]
+
+<sup>1</sup> Die Kantone vollziehen diese Verordnung und bezeichnen die für den Vollzug zuständigen Behörden sowie die für die Erteilung, den Entzug und die Ungültigerklärung der Kontrollkarten zuständigen Stellen.[^23-2]
+
+<sup>2</sup> Die Kontrolle der Arbeits- und Ruhezeiten auf der Strasse und in den Betrieben richtet sich nach der Strassenverkehrskontrollverordnung vom 28. März 2007[^23-3].[^23-4]
+
+<sup>3</sup> …[^23-5]
+
+<sup>4</sup> Die Vollzugsbehörden erstellen ein Verzeichnis der Betriebe, die im Kanton ihren Geschäftssitz oder eine Zweigniederlassung haben. Sie führen eine Liste der jedem Betrieb abgegebenen Arbeitsbücher.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^23-3]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^23-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^23-5]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+
+#### Art. 24
+
+**Aufgaben des Bundes**
+
+<sup>1</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[^24-1] kann generelle Weisungen für den Vollzug dieser Verordnung erlassen.
+
+<sup>2</sup> Das Bundesamt für Strassen[^24-2] kann im Einzelfall aus zwingenden Gründen Abweichungen von einzelnen Bestimmungen gestatten.
+
+<sup>3</sup> Das Bundesamt für Strassen legt in Übereinstimmung mit den internationalen Vorschriften die Form und das Aussehen der Fahrtschreiberkarten fest und gibt sie heraus.[^24-3]
+
+<sup>4</sup> Die Eidgenössische Zollverwaltung ist zuständig für die Erteilung, den Entzug und die Ungültigkeitserklärung der Werkstattkarten.[^24-4]
+
+<sup>5</sup> Das Bundesamt für Strassen ist zuständig für die Erteilung, den Entzug und die Ungültigkeitserklärung der Fahrer- und Unternehmenskarten.[^24-5]
+
+[^24-1]: Ausdruck gemäss Art. 1 Ziff. 21 der V vom 22. Juni 1998, in Kraft seit 1. Jan. 1998 ([AS 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
+[^24-2]: Ausdruck gemäss Art. 1 Ziff. 21 der V vom 22. Juni 1998, in Kraft seit 1. Jan. 1998 ([AS 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
+[^24-3]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^24-4]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^24-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+
+## 8. Abschnitt: Übergangsbestimmungen****
+
+[^sec8-1]
+
+[^sec8-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+
+#### Art. 25
+
+[^25-1]
+
+Kontrollkarten, die vor dem 15. März 2019 ausgestellt wurden, behalten ihre Gültigkeitsdauer von fünf Jahren.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+
+#### Art. 26−28
+
+[^2628-1]
+
+[^2628-1]: Aufgehoben durch Ziff. I der V vom 29. März 2006, mit Wirkung seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+
+## 9. Abschnitt: Inkrafttreten
+
+#### Art. 29
+
+Diese Verordnung tritt am 1. Oktober 1995 in Kraft.

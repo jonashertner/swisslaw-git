@@ -1,0 +1,1112 @@
+---
+sr: "173.110.131"
+title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
+short: BGerR
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
+language: de
+version: 2021-01-01
+adopted: 2006-11-20
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Reglement für das Bundesgericht
+
+(BGerR)
+
+vom 20. November 2006 (Stand am 1. Januar 2021)
+
+Das Bundesgericht,
+
+gestützt auf die Artikel 13 und 15 Absatz 1 Buchstabe a des Bundesgerichtsgesetzes vom 17. Juni 2005[^ingress-1] (BGG),
+
+erlässt folgendes Reglement:
+
+[^ingress-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+
+## 1. Titel: Allgemeine organisatorische Bestimmungen
+
+### 1. Kapitel: Leitungsorgane
+
+### 1. Abschnitt: Präsidium
+
+#### Art. 1
+
+**Präsident oder Präsidentin**
+
+### (Art. 10 Abs. 2 und 14 Abs. 3 BGG)
+
+Der Präsident oder die Präsidentin des Bundesgerichts:
+
+- a. nimmt die Aufgaben gemäss Artikel 10 Absatz 2 und Artikel 14 Absatz 3 BGG wahr;
+- b. beruft das Gesamtgericht und die Verwaltungskommission ein;
+- c. entscheidet über die Anwendung des Zirkulationsverfahrens für Beschlüsse des Gesamtgerichts; Artikel 7 Absatz 2 dieses Reglements bleibt vorbehalten.
+
+#### Art. 2
+
+**Vizepräsident oder Vizepräsidentin**
+
+### (Art. 14 Abs. 4 BGG)
+
+Der Vizepräsident oder die Vizepräsidentin vertritt und unterstützt den Präsidenten oder die Präsidentin.
+
+### 2. Abschnitt: Gesamtgericht
+
+#### Art. 3
+
+**Aufgaben**
+
+### (Art. 15 Abs. 1 BGG)
+
+<sup>1</sup> Das Gesamtgericht nimmt die Aufgaben gemäss Artikel 15 Absatz 1 BGG wahr.
+
+<sup>2</sup> ...[^3-1]
+
+<sup>3</sup> Es wählt das dritte Mitglied der Verwaltungskommission.
+
+<sup>4</sup> Es bestellt auf Antrag der Verwaltungskommission die Abteilungen und wählt deren Präsidenten und Präsidentinnen. Diese können nicht gleichzeitig Mitglieder der Verwaltungskommission sein.
+
+<sup>5</sup> Es wählt auf Antrag der Verwaltungskommission die Mitglieder der Rekurskommission. Diese können nicht zugleich Mitglieder der Verwaltungskommission oder der Präsidentenkonferenz sein.
+
+[^3-1]: Aufgehoben durch Ziff. I der V des BGer vom 17. März 2014, in Kraft seit 17. März 2014 ([AS 2014 955](https://fedlex.data.admin.ch/eli/oc/2014/211)).
+
+#### Art. 4
+
+**Termine**
+
+### (Art. 14 Abs. 2, 15 Abs. 1 Bst. e und 17 Abs. 3 BGG)
+
+<sup>1</sup> Über die Vorschläge nach Artikel 3 Absatz 2 und die Wahlen nach Artikel 3 Absatz 3–5 dieses Reglements fasst das Gesamtgericht bis am 15. Oktober des Wahljahres Beschluss.
+
+<sup>2</sup> Die Mitglieder der Leitungsorgane und der Rekurskommission teilen der Verwaltungskommission bis zum 31. August des Wahljahres mit, ob sie sich für eine Wiederwahl zur Verfügung stellen. Die Verwaltungskommission teilt das Ergebnis unverzüglich allen Richtern und Richterinnen mit.
+
+<sup>3</sup> Sie fordert die ordentlichen Richter und Richterinnen gleichzeitig auf, ihr bis zum 20. September weitere Bewerbungen und Wahlvorschläge schriftlich einzureichen.
+
+#### Art. 5
+
+**Wahlverfahren**
+
+### (Art. 21 BGG)
+
+<sup>1</sup> Das Gesamtgericht entscheidet über den Vorschlag an die Bundesversammlung für die Wahl des Präsidenten oder der Präsidentin und des Vizepräsidenten oder der Vizepräsidentin des Bundesgerichts einzeln und durch geheime Stimmabgabe; in gleicher Weise wählt es alsdann das dritte Mitglied der Verwaltungskommission.
+
+<sup>2</sup> Gewählt ist, wer mehr als die Hälfte der gültigen Stimmen auf sich vereinigt.
+
+<sup>3</sup> Für die Bestimmung des absoluten Mehrs werden die leeren und die ungültigen Wahlzettel nicht gezählt. Im Übrigen gilt Artikel 131 des Parlamentsgesetzes vom 13. Dezember 2002[^5-1] sinngemäss.
+
+<sup>4</sup> Bei mehr als zwei Kandidaten scheidet nach jedem Wahlgang der Kandidat oder die Kandidatin mit der geringsten Stimmenzahl aus.
+
+[^5-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+#### Art. 6
+
+**Einberufung**
+
+### (Art. 15 BGG)
+
+<sup>1</sup>
+
+Die Einberufung des Gesamtgerichts können verlangen:
+
+- a. die Verwaltungskommission;
+- b. eine Abteilung;
+- c. mindestens fünf Mitglieder des Gesamtgerichts.
+
+<sup>2</sup> Das Gesamtgericht wird vom Präsidenten oder von der Präsidentin des Bundesgerichts einberufen.
+
+<sup>3</sup> Die Mitglieder des Gesamtgerichts werden zu den Sitzungen schriftlich eingeladen.
+
+<sup>4</sup> Die Einladung ist in der Regel mindestens fünf Arbeitstage vor dem Sitzungstag zuzustellen. Sie enthält die Traktanden. Allfällige Unterlagen sind der Einladung beizufügen oder zur Einsicht aufzulegen.
+
+#### Art. 7
+
+**Beschlussfassung**
+
+### (Art. 15 Abs. 2 und Art. 21 BGG)
+
+<sup>1</sup> Das Gesamtgericht fasst seine Beschlüsse in der Regel auf dem Zirkulationsweg.
+
+<sup>2</sup> Die Beschlussfassung auf dem Zirkulationsweg ist ausgeschlossen, wenn eine Abteilung oder mindestens fünf Mitglieder des Gesamtgerichts die Diskussion eines Geschäfts verlangen.
+
+#### Art. 8
+
+**Geheime Wahlen und Abstimmungen**
+
+### (Art. 21 BGG)
+
+Wahlen und Abstimmungen werden an den Sitzungen des Gesamtgerichts geheim durchgeführt, wenn die Verwaltungskommission oder mindestens fünf Mitglieder des Gesamtgerichts dies verlangen.
+
+### 3. Abschnitt: Präsidentenkonferenz
+
+#### Art. 9
+
+**Aufgaben**
+
+### (Art. 16 BGG)
+
+<sup>1</sup> Die Präsidentenkonferenz nimmt die Aufgaben gemäss Artikel 16 BGG wahr.
+
+<sup>2</sup> Sie koordiniert die Rechtsprechung unter den Abteilungen, soweit die Koordination nicht gemäss Artikel 23 BGG Sache der vereinigten Abteilungen ist (Art. 37 dieses Reglements).
+
+<sup>3</sup> Die ordentlichen Richter und Richterinnen melden als koordinationsbedürftig erkannte Rechtsfragen der Präsidentenkonferenz.
+
+#### Art. 10
+
+**Zusammenarbeit mit anderen Organen**
+
+### (Art. 16 Abs. 2 und 17 Abs. 4 BGG)
+
+<sup>1</sup> Die Präsidentenkonferenz unterbreitet der Verwaltungskommission und dem Generalsekretariat die gemeinsamen Bedürfnisse der Abteilungen.
+
+<sup>2</sup> Der Präsident oder die Präsidentin des Bundesgerichts wirkt an den Sitzungen und Beschlüssen der Präsidentenkonferenz mit beratender Stimme mit.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### 4. Abschnitt: Verwaltungskommission
+
+#### Art. 11
+
+**Zusammensetzung**
+
+### (Art. 17 Abs. 1 BGG)
+
+<sup>1</sup>
+
+Die Verwaltungskommission setzt sich zusammen aus:
+
+- a. dem Präsidenten oder der Präsidentin des Bundesgerichts;
+- b. dem Vizepräsidenten oder der Vizepräsidentin des Bundesgerichts;
+- c. einem weiteren ordentlichen Richter oder einer weiteren ordentlichen Richterin.
+
+<sup>2</sup> Die Mitglieder der Verwaltungskommission werden von der Mitarbeit in ihren Abteilungen ausreichend entlastet.
+
+#### Art. 12
+
+**Aufgaben**
+
+### (Art. 15 Abs. 1 Bst. d und f, 17 Abs. 4 BGG)
+
+<sup>1</sup>
+
+Die Verwaltungskommission nimmt die Aufgaben gemäss den Artikeln 15 Absatz 1 Buchstaben d und f sowie 17 Absatz 4 BGG wahr. Sie ist zuständig für vorübergehende Entlastungsmassnahmen, insbesondere für:[^12-1]
+
+- a. die Anordnung des über den Einzelfall hinausgehenden Einsatzes eines Richters oder einer Richterin in einer anderen Abteilung (Art. 18 Abs. 3 BGG);
+- b. die Zuteilung von nebenamtlichen Richtern und Richterinnen sowie von Gerichtsschreibern und Gerichtsschreiberinnen auf eine andere Abteilung auch ausserhalb der ordentlichen zweijährigen Organisationsperiode;
+- c.[^12-2] die Umteilung von Sachgebieten oder von Gruppen von Geschäften zur Ausgleichung der Geschäftslast zwischen den Abteilungen.
+
+<sup>2</sup> Bevor die Verwaltungskommission Entscheide gemäss Absatz 1 trifft, hört sie die Präsidentenkonferenz an. Vor einem Entscheid gemäss Absatz 1 Buchstabe a und b hört sie zusätzlich die betroffene Person an.
+
+<sup>3</sup> Die Verwaltungskommission bereitet den Geschäftsbericht zuhanden des Gesamtgerichts vor.
+
+[^12-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^12-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### 5. Abschnitt: Stab der Leitungsorgane
+
+#### Art. 13
+
+**Generalsekretär oder Generalsekretärin**
+
+### (Art. 17 Abs. 2 und Art. 26 BGG)
+
+<sup>1</sup> Der Generalsekretär oder die Generalsekretärin führt die Sekretariate des Gesamtgerichts, der Präsidentenkonferenz sowie der Verwaltungskommission.
+
+<sup>2</sup> Er oder sie nimmt an den Sitzungen dieser drei Leitungsorgane mit beratender Stimme teil.
+
+<sup>3</sup> Er oder sie bereitet die Beschlüsse der Leitungsorgane vor und vollzieht diese, soweit hierfür nicht die Abteilungen zuständig sind.
+
+<sup>4</sup> Der Generalsekretär oder die Generalsekretärin und der Stellvertreter oder die Stellvertreterin werden durch die Verwaltungskommission auf getreue Amtserfüllung vereidigt. Statt des Eids kann ein Gelübde abgelegt werden.
+
+### 6. Abschnitt: Unterschrift und Protokolle
+
+#### Art. 14
+
+**Unterschrift**
+
+### (Art. 13 BGG)
+
+<sup>1</sup> In Geschäften, die in die Zuständigkeit des Gesamtgerichts oder der Verwaltungskommission fallen, zeichnen der Präsident oder die Präsidentin des Bundesgerichts und der Generalsekretär oder die Generalsekretärin gemeinsam.
+
+<sup>2</sup> In Geschäften, die in die Zuständigkeit der Präsidentenkonferenz fallen, zeichnen der oder die Vorsitzende der Präsidentenkonferenz und der Generalsekretär oder die Generalsekretärin gemeinsam.
+
+<sup>3</sup> In Geschäften, die in die alleinige Zuständigkeit des Präsidenten oder der Präsidentin des Bundesgerichts fallen, zeichnet dieser oder diese allein.
+
+#### Art. 15
+
+**Protokolle**
+
+### (Art. 13 BGG)
+
+Die Protokolle der Sitzungen des Gesamtgerichts, der Verwaltungskommission und der Präsidentenkonferenz stehen den ordentlichen Richtern und Richterinnen jederzeit zur Einsicht offen.
+
+### 2. Kapitel: Nebenamtliche Richter und Richterinnen
+
+#### Art. 16
+
+**Zuteilung und Einsatz**
+
+### (Art. 22 BGG)
+
+<sup>1</sup> Die Zuteilung der nebenamtlichen Richter und Richterinnen auf die Abteilungen richtet sich nach ihren besonderen Kenntnissen, ihrer Amtssprache sowie nach der Arbeitsbelastung und den Bedürfnissen der Abteilungen.
+
+<sup>2</sup> Bei der Zuteilung sind die Vertretung der Geschlechter und die Verfügbarkeit der nebenamtlichen Richter und Richterinnen angemessen zu berücksichtigen.
+
+<sup>3</sup> Der Einsatz der nebenamtlichen Richter und Richterinnen in den einzelnen Abteilungen wird durch die Präsidenten und Präsidentinnen der Abteilungen bestimmt.
+
+#### Art. 17
+
+**Entschädigung**
+
+### (Art. 13 BGG)
+
+<sup>1</sup> Für die Entschädigung der nebenamtlichen Richter und Richterinnen gilt die Verordnung der Bundesversammlung betreffend die Taggelder der nebenamtlichen Bundesrichter und Bundesrichterinnen sowie die Vergütungen für Dienstreisen der Bundesrichter und Bundesrichterinnen[^17-1].
+
+<sup>2</sup> Die Verwaltungskommission regelt die Einzelheiten in einer Weisung.
+
+[^17-1]: Botschaft des BR vom 8. Dez. 2006 zur V der BVers betreffend die Taggelder der nebenamtlichen Bundesrichter und Bundesrichterinnen sowie die Vergütung für amtliche Reisen der ordentlichen und nebenamtlichen Bundesrichter und Bundesrichterinnen ([BBl 2007 187](https://fedlex.data.admin.ch/eli/fga/2007/23))
+
+### 3. Kapitel: Nebenbeschäftigungen der ordentlichen Richter und Richterinnen
+
+#### Art. 18
+
+**Grundsätze**
+
+### (Art. 6 und 7 BGG)
+
+<sup>1</sup> Ordentliche Richter und Richterinnen können Nebenbeschäftigungen ausüben, soweit diese die Unabhängigkeit und das Ansehen des Gerichts sowie des betreffenden Richters oder der betreffenden Richterin nicht beeinträchtigen.
+
+<sup>2</sup> Nebenbeschäftigungen dürfen die Erfüllung der Amtspflichten in keiner Weise behindern.
+
+#### Art. 19
+
+**Bewilligungspflicht**
+
+### (Art. 7 Abs. 2 BGG)
+
+<sup>1</sup>
+
+Folgende Nebenbeschäftigungen können bewilligt werden:
+
+- a. Mitwirkung in Schiedsgerichten, Rechtsprechungsorganen und Expertenkommissionen sowie Mandate für Mediationen und Gutachten, soweit ein öffentliches Interesse besteht;
+- b. punktuelle Lehraufträge, Herausgabe von Kommentaren, Publikationsreihen und Fachzeitschriften;
+- c. Mitwirkung in Organen von Vereinigungen, Stiftungen oder anderen nicht wirtschaftlichen Organisationen.
+
+<sup>2</sup> Keine Bewilligung benötigt, wer Bücher oder Aufsätze verfassen, Vorträge halten oder an Kongressen und Fachtagungen teilnehmen will.
+
+#### Art. 20
+
+**Bewilligungsverfahren**
+
+### (Art. 17 Abs. 4 Bst. h BGG)
+
+<sup>1</sup> Wer einer bewilligungspflichtigen Nebenbeschäftigung nachgehen will, reicht beim Abteilungspräsidenten oder bei der Abteilungspräsidentin ein Bewilligungsgesuch ein.
+
+<sup>2</sup> Das Gesuch muss alle notwendigen Angaben über Art und Gegenstand der Nebenbeschäftigung sowie über den Zeitaufwand, der voraussichtlich damit verbunden sein wird, enthalten.
+
+<sup>3</sup> Der Abteilungspräsident oder die Abteilungspräsidentin leitet das Gesuch zur Stellungnahme an die Präsidentenkonferenz und zum Entscheid an die Verwaltungskommission weiter.
+
+#### Art. 21
+
+**Kontrolle**
+
+### (Art. 13 BGG)
+
+<sup>1</sup> Der Generalsekretär oder die Generalsekretärin führt eine Liste der erteilten Bewilligungen.
+
+<sup>2</sup> Die Verwaltungskommission kann von den Richtern und Richterinnen Auskunft über die zeitliche Beanspruchung und die erhaltenen Entschädigungen verlangen.
+
+<sup>3</sup> Die Beendigung einer Nebenbeschäftigung ist der Verwaltungskommission und dem Abteilungspräsidenten oder der Abteilungspräsidentin mitzuteilen.
+
+#### Art. 22
+
+**Entgelt für Dienstleistungen**
+
+### (Art. 13 BGG)
+
+<sup>1</sup> Werden Dienstleistungen des Gerichts in Anspruch genommen, so ist ein angemessenes Entgelt zu entrichten.
+
+<sup>2</sup> Der Generalsekretär oder die Generalsekretärin legt das Entgelt im Einzelfall fest.
+
+#### Art. 23
+
+**Ablieferungspflicht**
+
+### (Art. 13 BGG)
+
+Übersteigt die Gesamtheit der Entschädigungen, Ersatz von Auslagen eingeschlossen, aus bewilligten und bewilligungsfreien Nebenbeschäftigungen 10 000 Franken pro Jahr, ist der überschiessende Betrag der Kasse des Bundesgerichts zu überweisen.
+
+### 4. Kapitel: Konfliktregelung
+
+#### Art. 24
+
+**Interne Schlichtung**
+
+### (Art. 15 Abs. 1 Bst. a BGG)
+
+<sup>1</sup> Streitigkeiten zwischen Mitgliedern des Gerichts werden nach Möglichkeit gerichtsintern beigelegt.[^24-1]
+
+<sup>2</sup> Bei Streitigkeiten suchen die Beteiligten zunächst das Gespräch unter sich und sodann innerhalb der betroffenen Abteilungen.
+
+<sup>3</sup> Führen diese Gespräche nicht zum Ziel, so wird die Angelegenheit dem Präsidenten oder der Präsidentin des Bundesgerichts unterbreitet. Er oder sie zieht bei Bedarf die Verwaltungskommission bei. Diese trifft die geeigneten Vorkehren.
+
+[^24-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 25
+
+**Oberaufsicht**
+
+### (Art. 3 Abs. 1 BGG)
+
+Scheitern sämtliche internen Versuche zur Beilegung der Streitigkeit und handelt es sich um eine wesentliche Angelegenheit, die im Rahmen der Oberaufsicht von Bedeutung sein kann, so informiert die Verwaltungskommission die Bundesversammlung.
+
+## 2. Titel: Organisation der Rechtsprechung
+
+### 1. Kapitel: Abteilungen
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 26
+
+**Zahl und Zusammensetzung**
+
+### (Art. 18 BGG)
+
+<sup>1</sup>
+
+Das Bundesgericht besteht aus folgenden sieben Abteilungen:
+
+- a. zwei öffentlich-rechtlichen Abteilungen;
+- b. zwei zivilrechtlichen Abteilungen;
+- c. einer strafrechtlichen Abteilung;
+- d. zwei sozialrechtlichen Abteilungen.
+
+<sup>2</sup> Die beiden öffentlich-rechtlichen Abteilungen, die beiden zivilrechtlichen Abteilungen und die strafrechtliche Abteilung befinden sich in Lausanne. Die beiden sozialrechtlichen Abteilungen haben ihren Standort in Luzern.
+
+<sup>3</sup> Die Abteilungen setzen sich aus vier bis sechs ordentlichen Richtern oder Richterinnen zusammen.[^26-1]
+
+<sup>4</sup> Den Abteilungen mit sechs Mitgliedern werden zwei französischsprachige Richter oder Richterinnen zugeteilt, den Abteilungen mit fünf Mitgliedern ein oder zwei französischsprachige Richter oder Richterinnen.[^26-2]
+
+<sup>5</sup> Einer Abteilung wird nicht mehr als ein italienischsprachiger Richter oder eine italienischsprachige Richterin zugeteilt.[^26-3]
+
+[^26-1]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-3]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 27
+
+**Organisation**
+
+### (Art. 18 BGG)
+
+Die Abteilungen organisieren sich selbst, soweit die Organisation nicht durch das BGG und durch dieses Reglement vorgegeben ist.
+
+#### Art. 28
+
+**Umteilungen und Vakanzen**
+
+### (Art. 18 BGG)
+
+<sup>1</sup> Gesuche um Umteilung in eine andere Abteilung sind an die Verwaltungskommission zu richten. Diese lädt die betroffenen Abteilungen zur Stellungnahme ein.
+
+<sup>2</sup> Vor Ablauf einer Zweijahresperiode ist eine Umteilung in eine andere Abteilung nur bei einer Vakanz oder aus wichtigen Gründen möglich.
+
+<sup>3</sup> Bei Vakanzen prüft die Verwaltungskommission, ob die frei gewordene Richterstelle durch eine interne Umteilung besetzt wird. Sie teilt das Ergebnis der Gerichtskommission mit.
+
+### 2. Abschnitt: Die sieben Abteilungen
+
+#### Art. 29
+
+**Erste öffentlich-rechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+<sup>1</sup>
+
+Die Erste öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a. Enteignungen;
+- b.
+
+  raumbezogene Materien, namentlich:
+
+  - 1\. Raumplanung und Baurecht,
+  - 2\. Umweltschutz, Gewässerschutz, Wald, Natur- und Heimatschutz,
+  - 3\. öffentliche Werke,
+  - 4\. Meliorationen,
+  - 5\. mit Raumplanung verbundene Bauförderung,
+  - 6\. Wanderwege;
+
+- c. politische Rechte;
+- d. internationale Rechtshilfe in Strafsachen;
+- e. Strassenverkehr;
+- f. Bürgerrecht.
+- g.[^29-1] ...
+
+<sup>2</sup>
+
+Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behandelt die Erste öffentlich-rechtliche Abteilung die Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiären Verfassungsbeschwerden, die folgende Grundrechte betreffen:
+
+- a. Rechtsgleichheit (Art. 8 der Bundesverfassung, BV[^29-2]);
+- b. Schutz vor Willkür und Wahrung von Treu und Glauben (Art. 9 BV);
+- c. Recht auf Leben und persönliche Freiheit (Art. 10 BV);
+- d. Schutz der Privatsphäre, Recht auf Ehe und Familie, Meinungs- und Informationsfreiheit, Medienfreiheit (Art. 13, 14, 16 und 17 BV);
+- e. Kunstfreiheit, Versammlungsfreiheit, Vereinigungsfreiheit (Art. 21–23 BV);
+- f. die Eigentumsgarantie (Art. 26 BV);
+- g. Allgemeine Verfahrensgarantien, Rechtsweggarantie, gerichtliche Verfahren, Freiheitsentzug (Art. 29–31 BV).
+
+<sup>3</sup> Die Erste öffentlich-rechtliche Abteilung behandelt Beschwerden in Strafsachen gegen strafprozessuale Zwischenentscheide.[^29-3]
+
+<sup>4</sup> Sie behandelt auf Klage Kompetenzkonflikte zwischen Bundesbehörden und kantonalen Behörden (Art. 120 Abs. 1 Bst. a BGG) sowie die öffentlich-rechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG).
+
+[^29-1]: Aufgehoben durch Ziff. I der V des BGer vom 24. Nov. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^29-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-3]: Fassung gemäss Ziff. I der V des BGer vom 8. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+
+#### Art. 30
+
+**Zweite öffentlich-rechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+<sup>1</sup>
+
+Die Zweite öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a. Ausländerrecht;
+- b. Steuern und Abgaben;
+- c.
+
+  öffentliches Wirtschaftsrecht und sonstiges Verwaltungsrecht, soweit es nicht einer anderen Abteilung zugewiesen ist, namentlich:
+
+  - 1\. Staatshaftung (ohne medizinische Tätigkeit und ohne Ansprüche nach strafprozessualen Normen über Entschädigungen),
+  - 2\. Bildungsrecht,
+  - 3\. Erwerb von Grundstücken durch Personen im Ausland,
+  - 4\. Filmwesen,
+  - 5\. Tierschutz,
+  - 6\. Subventionen,
+  - 7\. Konzessionen und Monopole,
+  - 8\. öffentliches Beschaffungswesen,
+  - 9\. Energie (Lieferung von Wasser und Elektrizität),
+  - 10\. Verkehrsbetriebsbewilligungen,
+  - 11\. Transport: Strassen, Eisenbahn, Luftverkehr, Schifffahrt (alle ausgenommen Planung, Enteignung oder Bau von Anlagen)
+  - 12\. Post,
+  - 13\. Radio und Fernsehen,
+  - 14\. Gesundheit und Lebensmittelpolizei,
+  - 15\. öffentliches Arbeitsrecht,
+  - 16\. Landwirtschaft,
+  - 17\. Jagd und Fischerei,
+  - 18\. Lotterie und Glücksspiele,
+  - 19\. Aufsicht über Banken, Versicherungen, Börsen, Kartelle und Preisüberwachung,
+  - 20\. Aussenhandel,
+  - 21\. freie Berufe.
+
+<sup>2</sup>
+
+Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behandelt die Zweite öffentlich-rechtliche Abteilung die Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiären Verfassungsbeschwerden, die folgende Grundrechte betreffen:
+
+- a. Schutz der Kinder und Jugendlichen (Art. 11 BV[^30-1]);
+- b. Glaubens- und Gewissensfreiheit (Art. 15 BV);
+- c. Sprachenfreiheit (Art. 18 BV);
+- d. Anspruch auf Grundschulunterricht (Art. 19 BV);
+- e. Wissenschaftsfreiheit (Art. 20 BV);
+- f. Niederlassungsfreiheit (Art. 24 BV);
+- g. Wirtschaftsfreiheit (Art. 27 BV);
+- h. Koalitionsfreiheit (Art. 28 BV).
+
+<sup>3</sup> Die Zweite öffentlich-rechtliche Abteilung behandelt auf Klage Ansprüche auf Schadenersatz und Genugtuung aus der Amtstätigkeit von Personen im Sinne von Artikel 1 Absatz 1 Buchstaben a–c des Verantwortlichkeitsgesetzes vom 14. März 1958[^30-2] (Art. 120 Abs. 1 Bst. c BGG).
+
+[^30-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^30-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 31
+
+**Erste zivilrechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+<sup>1</sup>
+
+Die Erste zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen und die subsidiären Verfassungsbeschwerden, welche folgende Rechtsgebiete betreffen:
+
+- a. Schuldrecht;
+- b. Versicherungsvertrag;
+- c. ausservertragliches Haftpflichtrecht (auch nach Spezialgesetzen);
+- d. medizinische Staatshaftung;
+- e. privates Wettbewerbsrecht;
+- f. Immaterialgüterrecht;
+- g.[^31-1] internationale Schiedsgerichtsbarkeit;
+- h. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b Ziffern 1 und 2 BGG in den Rechtsgebieten nach den Buchstaben a–g.
+
+<sup>2</sup> Die Erste zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 der Zivilprozessordnung[^31-2] (ZPO).[^31-3]
+
+[^31-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^31-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^31-3]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+
+#### Art. 32
+
+**Zweite zivilrechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+<sup>1</sup>
+
+Die Zweite zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a.
+
+  Zivilgesetzbuch:
+
+  - 1\. Personenrecht,
+  - 2\. Familienrecht,
+  - 3\. Erbrecht,
+  - 4\. Sachenrecht;
+
+- b. bäuerliches Bodenrecht;
+- c. Schuldbetreibung und Konkurs;
+- d. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b BGG in den Rechtsgebieten nach Buchstaben a und c dieses Absatzes.
+
+<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 ZPO[^32-1].[^32-2]
+
+[^32-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^32-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+
+#### Art. 33
+
+**Strafrechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+Die Strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:[^33-1]
+
+- a. materielles Strafrecht (einschliesslich Straf- und Massnahmenvollzug);
+- b. Strafprozessrecht (ohne die Beschwerden gegen strafprozessuale Zwischenentscheide);
+- c.[^33-2] strafprozessuale Beschwerden gegen Endentscheide (einschliesslich Nichtanhandnahmeverfügungen und Verfahrenseinstellungen).
+
+[^33-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-2]: Fassung gemäss Ziff. I der V des BGer vom 8. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+
+#### Art. 34
+
+**Erste sozialrechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+Die Erste sozialrechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a. Invalidenversicherung;
+- b.[^34-1] Unfallversicherung;
+- c.[^34-2] Arbeitslosenversicherung;
+- d.[^34-3] kantonale Sozialversicherung;
+- e.[^34-4] Familienzulagen;
+- f.[^34-5] Sozialhilfe und Hilfe in Notlagen gemäss Art. 12 BV[^34-6];
+- g.[^34-7] Militärversicherung;
+- h.[^34-8] Personal im öffentlichen Dienst.
+
+[^34-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-3]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-4]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-5]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-6]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^34-7]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-8]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 35
+
+**Zweite sozialrechtliche Abteilung**
+
+### (Art. 22 BGG)
+
+Die Zweite sozialrechtliche Abteilung behandelt die Beschwerden in öffentlichrechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a. Alters- und Hinterlassenenversicherung;
+- b. Invalidenversicherung;
+- c. Erwerbsersatzordnung (einschliesslich Mutterschaft);
+- d. Krankenversicherung;
+- e. berufliche Vorsorge (Art. 73 und 74 des BG vom 25. Juni 1982[^35-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge);
+- f.[^35-2] Ergänzungsleistungen.
+
+[^35-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^35-2]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### 3. Abschnitt: Abgrenzung und Zusammenarbeit
+
+#### Art. 36
+
+**Abgrenzung der Zuständigkeiten**
+
+### (Art. 22 BGG)
+
+<sup>1</sup> Für die Zuteilung eines Geschäfts an eine Abteilung ist die Rechtsfrage massgeblich, auf der das Schwergewicht der Entscheidung liegt.
+
+<sup>2</sup> Von der reglementarischen Geschäftsverteilung kann im Einzelfall aufgrund der Natur des Geschäfts und seiner Konnexität mit anderen Geschäften abgewichen werden. In diesen Fällen einigen sich die Präsidenten und Präsidentinnen der betroffenen Abteilungen.
+
+<sup>3</sup> Bei Meinungsverschiedenheit zwischen Abteilungen entscheidet der Präsident oder die Präsidentin des Bundesgerichts.
+
+<sup>4</sup> ...[^36-1]
+
+[^36-1]: Aufgehoben durch Ziff. I der V des BGer vom 24. Nov. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+#### Art. 37
+
+**Vereinigte Abteilungen**
+
+### (Art. 23 BGG)
+
+<sup>1</sup> Der oder die Vorsitzende der Präsidentenkonferenz präsidiert die vereinigten Abteilungen.
+
+<sup>2</sup> Er oder sie bezeichnet ein Mitglied der Präsidentenkonferenz, das einen Bericht über die zu entscheidende Rechtsfrage erstellt. Er oder sie kann weitere Berichterstatter oder Berichterstatterinnen bezeichnen.[^37-1]
+
+<sup>3</sup> Stimmenthaltung ist in den vereinigten Abteilungen nicht zulässig. Der oder die Vorsitzende stimmt mit, wenn er oder sie einer beteiligten Abteilung angehört.
+
+<sup>4</sup> Bei Stimmengleichheit bleibt es bei der bisherigen Rechtsprechung. Ist die Rechtsfrage noch nie entschieden worden, so gibt die Stimme des oder der Vorsitzenden den Ausschlag, wenn er oder sie mitstimmt; ansonsten fällt er beziehungsweise sie den Stichentscheid.
+
+<sup>5</sup> Die Präsidentenkonferenz regelt das Verfahren der vereinigten Abteilungen in einer Richtlinie.
+
+[^37-1]: [AS 2007 33](https://fedlex.data.admin.ch/eli/oc/2007/11)
+
+### 2. Kapitel: Gerichtsschreiber und Gerichtsschreiberinnen
+
+#### Art. 38
+
+**Stellung und Aufgaben**
+
+### (Art. 24 BGG)
+
+<sup>1</sup> Jeder ordentliche Richter und jede ordentliche Richterin hat Anrecht auf einen persönlich zugeteilten Gerichtsschreiber oder eine persönlich zugeteilte Gerichtsschreiberin.
+
+<sup>2</sup> Die Gerichtsschreiber und Gerichtsschreiberinnen werden von der Abteilung auf getreue Amtserfüllung vereidigt. Statt des Eids kann ein Gelübde abgelegt werden.
+
+<sup>3</sup>
+
+Sie nehmen folgende Aufgaben wahr:
+
+- a. Sie wirken mit bei der Instruktion der Fälle.
+- b. Sie erarbeiten Referate unter der Verantwortung eines Richters oder einer Richterin.
+- c. Sie führen das Protokoll an Verhandlungen und Beratungen.
+- d. Sie redigieren die Urteile, Beschlüsse und gerichtlichen Verfügungen.
+- e. Sie teilen das Urteilsdispositiv schriftlich mit, wenn der Entscheid in einer mündlichen Beratung getroffen worden ist (Art. 60 Abs. 2 BGG) oder wenn das Urteil nach der Fällung nicht sofort mitgeteilt werden kann.
+- f. Sie beaufsichtigen die Kanzlei bei der Erledigung der Urteile, Beschlüsse, Protokolle und gerichtlichen Verfügungen, die sie redigiert haben, und unterzeichnen diese, soweit dies vorgesehen ist.
+- g. Sie bearbeiten und anonymisieren die zur Veröffentlichung bestimmten oder an Dritte abzugebenden Urteile.
+- h. Sie vertreten sich gegenseitig und helfen einander aus.
+- i. Sie erfüllen weitere Aufgaben für die Abteilungen oder das Bundesgericht.
+
+<sup>4</sup> Der Instruktionsrichter oder die Instruktionsrichterin kann einen Gerichtsschreiber oder eine Gerichtsschreiberin ermächtigen, eine Instruktionsverfügung im Namen des Richters beziehungsweise der Richterin zu unterzeichnen.
+
+#### Art. 39
+
+**Beratende Stimme**
+
+### (Art. 24 Abs. 1 zweiter Satz BGG)
+
+Die Gerichtsschreiber und Gerichtsschreiberinnen können ihre beratende Stimme ausüben:
+
+- a. in der mündlichen Beratung nach der ersten Meinungsäusserung der Richter und Richterinnen;
+- b. im Verfahren auf dem Wege der Aktenzirkulation mit Bemerkungen bei der Erarbeitung des Referates oder, wenn sie daran nicht mitgewirkt haben, nach der Zirkulation bei den Richtern und Richterinnen.
+
+### 3. Kapitel: Spruchkörper, Verfahren und Gerichtsbetrieb
+
+### 1. Abschnitt: Spruchkörper
+
+#### Art. 40
+
+**Bildung der Spruchkörper**
+
+### (Art. 20 und 22 BGG)
+
+<sup>1</sup> Der Spruchkörper wird vom Präsidenten oder der Präsidentin der zuständigen Abteilung gebildet.
+
+<sup>2</sup>
+
+Er oder sie berücksichtigt neben den zwingenden gesetzlichen Bestimmungen namentlich folgende Kriterien und Umstände:
+
+- a. Ausgewogenheit der Belastung der Richter und Richterinnen; dabei ist den funktionsbedingten Zusatzbelastungen (z. B. Bundesgerichtspräsidium) Rechnung zu tragen;
+- b. Sprache; dabei soll soweit möglich die Muttersprache des Referenten oder der Referentin der Verfahrenssprache entsprechen;
+- c. Mitwirkung von Mitgliedern beiderlei Geschlechts in Fällen, in denen es die Natur der Streitsache als angezeigt erscheinen lässt;
+- d. spezifische Fachkenntnisse in einem bestimmten Bereich;
+- e. Mitwirkung an früheren Entscheiden im gleichen Sachgebiet;
+- f. Abwesenheiten, insbesondere Krankheit, Ferien usw.
+
+<sup>3</sup> ...[^40-1]
+
+<sup>4</sup> Konnexe Fälle werden in der Regel vom gleichen Spruchkörper beurteilt.
+
+<sup>5</sup> Hat ein Mitglied einer anderen Abteilung mitzuwirken, so bezeichnet der Präsident oder die Präsidentin der urteilenden Abteilung dieses Mitglied nach dessen Anhörung und im Einverständnis mit dem Präsidenten oder der Präsidenten der Abteilung, der es angehört.
+
+[^40-1]: Aufgehoben durch Ziff. I der V des BGer vom 4. März 2013, mit Wirkung seit 1. Mai 2013 ([AS 2013 1043](https://fedlex.data.admin.ch/eli/oc/2013/228)).
+
+#### Art. 41
+
+**Grundsatzentscheide der Zweiten sozialrechtlichen Abteilung**[^41-1]
+
+### (Art. 13, 18 Abs. 3 und 20 Abs. 2 BGG)
+
+<sup>1</sup> An den Grundsatzentscheiden der Zweiten sozialrechtlichen Abteilung wirkt im Turnus ein Mitglied der Ersten sozialrechtlichen Abteilung mit.
+
+<sup>2</sup> Dieser Turnus folgt der Anciennität und schliesst alle Mitglieder der Abteilung ein.
+
+[^41-1]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+
+#### Art. 42
+
+**Transparenz und Kontrolle der Bildung der Spruchkörper**[^42-1]
+
+### (Art. 13 BGG)
+
+<sup>1</sup> Die Verwaltungskommission erstattet dem Gesamtgericht gestützt auf die Angaben der Abteilungen jährlich einen Bericht über die Einhaltung von Artikel 40 dieses Reglements.
+
+<sup>2</sup> Der Generalsekretär oder die Generalsekretärin erhebt statistische Angaben, die den Bericht erleichtern.
+
+<sup>3</sup> Die statistischen Angaben stehen allen ordentlichen Richtern und Richterinnen zur Einsicht offen. Sie werden ihnen in Bezug auf ihre Abteilung vierteljährlich zur Kenntnis gebracht.
+
+[^42-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+
+### 2. Abschnitt: Verfahren und Gerichtsbetrieb
+
+#### Art. 43
+
+**Vorbereitung der Sitzungen**
+
+### (Art. 58 BGG)
+
+<sup>1</sup> Die Präsidenten und Präsidentinnen der Abteilungen laden zu den Sitzungen mit einer Traktandenliste ein.
+
+<sup>2</sup> Die Traktandenliste wird in der Regel mindestens sechs Arbeitstage vorher verteilt.
+
+<sup>3</sup> Die Akten der angesetzten Geschäfte werden spätestens mit der Einladung aufgelegt.
+
+#### Art. 44
+
+**Sitzordnung und Beratung**
+
+### (Art. 58 BGG)
+
+<sup>1</sup> Bei den Sitzungen nehmen die Richter und Richterinnen ihre Plätze nach ihrem Dienstalter rechts und links von dem oder der Vorsitzenden ein, gleichzeitig Gewählte nach ihrem Lebensalter.
+
+<sup>2</sup> Bei der Beratung erteilt der oder die Vorsitzende das Wort zuerst dem Referenten oder der Referentin, sodann den übrigen Mitgliedern. Der oder die Vorsitzende spricht zuletzt.
+
+<sup>3</sup> Wer einen Gegenantrag stellen will, kann dies unmittelbar nach dem Antrag des Referenten oder der Referentin tun.
+
+#### Art. 45
+
+**Genehmigung der Urteilsbegründung bei Beratung**
+
+### (Art. 58 BGG)
+
+Wird ein Entscheid in einer Beratung gefällt, so wird die Urteilsbegründung vor der Ausfertigung bei den mitwirkenden Richtern und Richterinnen zur Genehmigung in Zirkulation gesetzt.
+
+#### Art. 46
+
+**Nachträgliche Änderungen am Dispositiv und an der Urteilsbegründung im Zirkulationsverfahren**
+
+### (Art. 58 BGG)
+
+<sup>1</sup> Nach Abschluss der Zirkulation können Änderungen am Dispositiv und an der Urteilsbegründung nur mit dem Einverständnis aller beteiligten Richter und Richterinnen vorgenommen werden; ausgenommen sind geringfügige redaktionelle Änderungen.
+
+<sup>2</sup> In einfachen Fällen oder bei besonderer Dringlichkeit genügt die Genehmigung durch den Referenten oder die Referentin und den Vorsitzenden oder die Vorsitzende.
+
+<sup>3</sup> Auf Verlangen eines Mitglieds oder des Gerichtsschreibers beziehungsweise der Gerichtsschreiberin entscheidet der ganze Spruchkörper über Abänderungsanträge.
+
+#### Art. 47
+
+**Mitteilung der Urteile, Unterschrift und Vertretung**
+
+### (Art. 60 BGG)
+
+<sup>1</sup> Urteile und Urteilsdispositive, soweit letztere verschickt werden, werden den Parteien schriftlich mitgeteilt.
+
+<sup>2</sup>
+
+Urteile werden unterschrieben:
+
+- a. vom Präsidenten oder von der Präsidentin der Abteilung beziehungsweise dem oder der Vorsitzenden des Spruchkörpers; und
+- b. vom Gerichtsschreiber oder von der Gerichtsschreiberin.
+
+<sup>3</sup> Urteilsdispositive werden vom Gerichtsschreiber oder von der Gerichtsschreiberin unterschrieben.
+
+<sup>4</sup> Werden die Urteile und Urteilsdispositive sowie die Verfügungen, die vom Gerichtsschreiber bzw. der Gerichtsschreiberin mitunterzeichnet werden, elektronisch mitgeteilt, signiert er bzw. sie die elektronische Fassung.[^47-1]
+
+<sup>5</sup> Andere Verfügungen und Korrespondenz können im Auftrag des Abteilungspräsidiums oder des Instruktionsrichters bzw. der Instruktionsrichterin vom Kanzleipersonal unterzeichnet und elektronisch signiert werden.[^47-2]
+
+<sup>6</sup> Bei Verhinderung unterzeichnen das anwesende amtsälteste Mitglied des Spruchkörpers und der vertretungsberechtigte Gerichtsschreiber oder die vertretungsberechtigte Gerichtsschreiberin.[^47-3]
+
+<sup>7</sup> Zählt ein Fall mindestens zwanzig Verfahrensbeteiligte, so können Urteile, Urteilsdispositive und die Verfügungen, die vom Gerichtsschreiber oder von der Gerichtsschreiberin mitzuunterzeichnen sind, in Form einer vom Gerichtsschreiber oder von der Gerichtsschreiberin beglaubigten Ausfertigung zugestellt werden. Das Original wird gemäss den Absätzen 2, 3 und 6 unterschrieben und am Bundesgericht archiviert.[^47-4]
+
+[^47-1]: Eingefügt durch Ziff. I der V des BGer vom 9. Dez. 2010 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)). Fassung gemäss Ziff. I der V des BGer vom 3. Juli 2012, in Kraft seit 3. Juli 2012 ([AS 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
+[^47-2]: Eingefügt durch Ziff. I der V des BGer vom 3. Juli 2012, in Kraft seit 3. Juli 2012 ([AS 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
+[^47-3]: Ursprünglich Abs. 4.
+[^47-4]: Eingefügt durch Ziff. I der V des BGer vom 27. Nov. 2017, in Kraft seit 1. Febr. 2018 ([AS 2018 47](https://fedlex.data.admin.ch/eli/oc/2018/19)).
+
+#### Art. 48
+
+**Kleidung**
+
+### (Art. 59 BGG)
+
+Zu den öffentlichen Sitzungen des Gerichts erscheinen die Richter und Richterinnen, die Gerichtsschreiber und Gerichtsschreiberinnen sowie bei Verhandlungen die Parteivertreter und Parteivertreterinnen in schwarzer Kleidung.
+
+## 3. Titel: Gerichtsverwaltung und Rekurskommission
+
+### 1. Kapitel: Generalsekretariat und Dienste
+
+#### Art. 49
+
+**Generalsekretär oder Generalsekretärin**
+
+### (Art. 26 BGG)
+
+<sup>1</sup> Der Generalsekretär oder die Generalsekretärin steht der Gerichtsverwaltung einschliesslich der wissenschaftlichen Dienste vor.
+
+<sup>2</sup>
+
+Er oder sie ist namentlich zuständig für:
+
+- a. die Vorbereitung des Voranschlags, des Finanzplans und der Rechnung zuhanden der Verwaltungskommission sowie für die Kontrolle des Finanzwesens;
+- b. die Koordination und Kontrolle der wissenschaftlichen und administrativen Dienste;
+- c. die Gebäude (Unterhalt, Benützung, Bauten, Miete) in Zusammenarbeit mit den zuständigen Stellen der Bundesverwaltung;
+- d. die Sicherheit;
+- e. den Erlass von Weisungen und einheitlichen Regeln für die Anlage und Ablage der Akten;
+- f. das Publikationswesen, die Information und die Öffentlichkeitsarbeit gemäss dem Informationsreglement sowie gesellschaftliche Anlässe;
+- g. die Personalentscheidungen gemäss der Personalverordnung des Bundesgerichts vom 27. August 2001[^49-1] sowie für die Vorbereitung der in die Kompetenz der Verwaltungskommission fallenden Personalentscheidungen;
+- h. die Beglaubigung von Unterschriften, Urteilen und Kopien sowie von Auszügen aus Protokollen und Akten;
+- i. sämtliche weiteren Geschäfte, die ihm oder ihr durch Verordnung oder Reglement oder von den Leitungsorganen zugewiesen werden.
+
+<sup>3</sup> Er oder sie kann einzelne Befugnisse oder Bereiche an leitende Angestellte delegieren.
+
+[^49-1]: [SR 172.220.114](https://fedlex.data.admin.ch/eli/cc/2001/487)
+
+#### Art. 50
+
+**Stellvertreter oder Stellvertreterin**
+
+### (Art. 15 Abs. 1 Bst. f und 26 BGG)
+
+Der Stellvertreter oder die Stellvertreterin unterstützt den Generalsekretär oder die Generalsekretärin und nimmt die zugewiesenen Aufgaben wahr.
+
+#### Art. 51
+
+**Dienste**
+
+### (Art. 25 Abs. 2 BGG)
+
+<sup>1</sup> An den beiden Standorten des Bundesgerichts werden die notwendigen wissenschaftlichen und administrativen Dienste eingerichtet.
+
+<sup>2</sup> Die Dienste werden vom Sitz des Bundesgerichts aus zentral geleitet.
+
+#### Art. 52
+
+**Unterschrift**
+
+### (Art. 13 und 26 BGG)
+
+<sup>1</sup> In Verwaltungsangelegenheiten, die dem Generalsekretariat zur Erledigung übertragen sind, zeichnet der Generalsekretär oder die Generalsekretärin allein.
+
+<sup>2</sup> Er oder sie kann die Unterschriftenberechtigung für bestimmte Geschäfte an andere Personen delegieren.
+
+#### Art. 53
+
+**Personalaufsicht**
+
+### (Art. 26 BGG)
+
+Der Generalsekretär oder die Generalsekretärin und die leitenden Angestellten sind verantwortlich für die Aufsicht über das Personal, soweit die Aufsicht nicht von den Abteilungspräsidien wahrgenommen wird.
+
+### 2. Kapitel: Rekurskommission
+
+#### Art. 54
+
+**Zusammensetzung**
+
+### (Art. 28 Abs. 2 BGG)
+
+[^54-1]
+
+<sup>1</sup> Die Rekurskommission besteht aus drei ordentlichen Richtern oder Richterinnen.
+
+<sup>2</sup> ...[^54-2]
+
+<sup>3</sup> Den Vorsitz führt der Richter oder die Richterin mit dem höchsten Amtsalter.
+
+[^54-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^54-2]: Aufgehoben durch Ziff. I der V des BGer vom 24. Juni 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+
+#### Art. 55
+
+**Zuständigkeit**
+
+### (Art. 13 und 28 Abs. 2 BGG)
+
+[^55-1]
+
+Die Rekurskommission beurteilt Streitigkeiten nach folgenden Bestimmungen:
+
+- a.[^55-2] Artikel 10 Absatz 2 zweiter Satz des Reglements vom 31. März 2006[^55-3] über die Verwaltungsgebühren des Bundesgerichts; sie beurteilt auch Streitigkeiten betreffend andere Verfügungen des Generalsekretariats über den Kosteneinzug;
+- b. Artikel 28 BGG und Artikel 64 dieses Reglements betreffend das Öffentlichkeitsprinzip in der Verwaltung;
+- c. Artikel 16 der Verordnung des Bundesgerichts vom 27. September 1997[^55-4] zum Archivierungsgesetz;
+- d. Artikel 15[^55-5] der Richtlinien vom 6. November 2006[^55-6] betreffend die Gerichtsberichterstattung am Bundesgericht.
+
+[^55-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^55-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^55-3]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^55-4]: [SR 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+[^55-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^55-6]: [SR 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+
+#### Art. 56
+
+**Verfahren**
+
+### (Art. 13 BGG)
+
+Das Beschwerdeverfahren richtet sich nach den Vorschriften des Bundesgesetzes vom 20. Dezember 1968[^56-1] über das Verwaltungsverfahren (Art. 1 Abs. 2 Bst. b und Art. 44 ff.).
+
+[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## 4. Titel: Information
+
+#### Art. 57
+
+**Grundsatz**
+
+### (Art. 27 BGG)
+
+<sup>1</sup>
+
+Das Bundesgericht informiert die Öffentlichkeit über seine Rechtsprechung mit folgenden Mitteln:
+
+- a. Amtliche Sammlung der Entscheidungen des Schweizerischen Bundesgerichts (Amtliche Sammlung, BGE);
+- b. Internet;
+- c. öffentliche Auflage der Urteile;
+- d. Mitteilungen an die Medien.
+
+<sup>2</sup> Es informiert die Medien in geeigneter Form über die laufenden Geschäfte und über besondere Ereignisse.
+
+#### Art. 58
+
+**Amtliche Sammlung**
+
+### (Art. 27 BGG)
+
+<sup>1</sup> Entscheide von grundsätzlicher Bedeutung werden in der Amtlichen Sammlung veröffentlicht.
+
+<sup>2</sup> Über die Veröffentlichung in der Amtlichen Sammlung bestimmt die zuständige Abteilung.
+
+<sup>3</sup> Die Amtliche Sammlung wird durch ein Register erschlossen.
+
+#### Art. 59
+
+**Internet**
+
+### (Art. 27 BGG)
+
+<sup>1</sup>
+
+Im Internet werden veröffentlicht:
+
+- a. alle Entscheide der Amtlichen Sammlung;
+- b. alle End- und Teilentscheide sowie die vom Abteilungspräsidium bezeichneten Vor- und Zwischenentscheide.
+
+<sup>2</sup> Das Abteilungspräsidium trifft die geeigneten Massnahmen zum Persönlichkeitsschutz der Parteien.
+
+#### Art. 60
+
+**Öffentliche Auflage**
+
+### (Art. 59 Abs. 3 BGG)
+
+Rubrum und Dispositiv aller Urteile werden am Sitz des Bundesgerichts während 30 Tagen öffentlich und in nicht anonymisierter Form aufgelegt, soweit das Gesetz nicht eine Anonymisierung verlangt.
+
+#### Art. 61
+
+**Medienarbeit**
+
+### (Art. 27 BGG)
+
+<sup>1</sup> Medienschaffende, welche die Gerichtsberichterstattung für in der Schweiz erscheinende oder niedergelassene Medien ausüben wollen, werden vom Generalsekretär oder von der Generalsekretärin auf Gesuch hin für eine bestimmte Dauer akkreditiert.
+
+<sup>2</sup> Die Verwaltungskommission regelt die Einzelheiten der Akkreditierung, die Dienstleistungen des Bundesgerichts und den Zugang zur Information in Richtlinien.
+
+<sup>3</sup> Medienmitteilungen über Urteile und andere Entscheidungen werden vom Gerichtsschreiber oder der Gerichtsschreiberin in Zusammenarbeit mit dem oder der Medienbeauftragten verfasst und vom Spruchkörper in der Regel gleichzeitig mit der Redaktion des Urteils genehmigt.
+
+#### Art. 62
+
+**Bild- und Tonaufnahmen**
+
+### (Art. 59 und 60 BGG)
+
+<sup>1</sup> Bild- und Tonaufnahmen während der Gerichtsverhandlungen und Urteilsberatungen sind untersagt.
+
+<sup>2</sup> Der oder die Vorsitzende kann bei der Eröffnung der Verhandlung und bei der Urteilsverkündung Aufnahmen gestatten.
+
+#### Art. 63
+
+**Kommunikations- und Medienbeauftragter**
+
+### (Art. 27 BGG)
+
+Der oder die Kommunikations- und Medienbeauftragte berät und unterstützt das Präsidium und die Abteilungen bei der Kommunikation nach innen und nach aussen.
+
+#### Art. 64
+
+**Öffentlichkeitsprinzip**
+
+### (Art. 28 BGG)
+
+<sup>1</sup> Der für ein amtliches Verwaltungsdokument zuständige Dienst kann für dieses Dokument Zugang nach dem Öffentlichkeitsgesetz vom 17. Dezember 2004[^64-1] gewähren.
+
+<sup>2</sup> In der Regel werden mündliche Gesuche mündlich, schriftliche Gesuche schriftlich beantwortet.
+
+<sup>3</sup> Soll der Zugang beschränkt, aufgeschoben oder verweigert werden, so wird das Gesuch unverzüglich dem Generalsekretariat übermittelt.
+
+<sup>4</sup> Es wird kein Schlichtungsverfahren durchgeführt.
+
+<sup>5</sup> Die Stellungnahme des Generalsekretariats zu schriftlichen Gesuchen ergeht in Form einer beschwerdefähigen Verfügung nach Artikel 5 des Bundesgesetzes vom 20. Dezember 1968[^64-2] über das Verwaltungsverfahren.
+
+<sup>6</sup> Beschwerdeinstanz ist die Rekurskommission des Bundesgerichts. Ihr Entscheid ist endgültig.
+
+<sup>7</sup> Berater oder Beraterin im Sinne von Artikel 20 der Öffentlichkeitsverordnung vom 24. Mai 2006[^64-3] ist der oder die Datenschutzbeauftragte des Bundesgerichts. Der Berater oder die Beraterin ist auch für die Berichterstattung zuständig.
+
+<sup>8</sup> Für die Gebührenerhebung gelten die Bestimmungen des Reglements vom 31. März 2006[^64-4] über die Verwaltungsgebühren des Bundesgerichts. Soweit dieses keine Bestimmung enthält, richten sich die Gebühren nach dem Gebührentarif in Anhang 1 der Öffentlichkeitsverordnung vom 24. Mai 2006.
+
+<sup>9</sup> Im Übrigen ist die Öffentlichkeitsverordnung vom 24. Mai 2006 sinngemäss anwendbar.
+
+[^64-1]: SR**152.3**
+[^64-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^64-3]: [SR 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
+[^64-4]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+
+## 5. Titel: Schlussbestimmungen
+
+#### Art. 65
+
+**Aufhebung bisherigen Rechts**
+
+Folgende Reglemente werden aufgehoben:
+
+- 1\. Reglement vom 14. Dezember 1978[^65-1] für das Schweizerische Bundesgericht;
+- 2\. Reglement vom 16. November 1999[^65-2] für das Eidgenössische Versicherungsgericht;
+- 3\. Reglement vom 22. Februar 1993[^65-3] über die Nebenbeschäftigungen der Mitglieder des Bundesgerichts;
+- 4\. Reglement vom 16. März 1993[^65-4] über die Nebenbeschäftigungen der Mitglieder des Eidgenössischen Versicherungsgerichts.
+
+[^65-1]: [[AS 1979 46](https://fedlex.data.admin.ch/eli/oc/1979/46_46_46), [1991 378](https://fedlex.data.admin.ch/eli/oc/1991/378_378_378), [1993 3165](https://fedlex.data.admin.ch/eli/oc/1993/3165_3165_3165), [1994 294](https://fedlex.data.admin.ch/eli/oc/1994/294_294_294), [2000 2191](https://fedlex.data.admin.ch/eli/oc/2000/339), [2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487)Art. 88 Ziff. 1, [2004 2343](https://fedlex.data.admin.ch/eli/oc/2004/273), [2005 483](https://fedlex.data.admin.ch/eli/oc/2005/57)]
+[^65-2]: [[AS 1999 3019](https://fedlex.data.admin.ch/eli/oc/1999/462), [2001 965](https://fedlex.data.admin.ch/eli/oc/2001/130)[3287](https://fedlex.data.admin.ch/eli/oc/2001/488)Art. 13]
+[^65-3]: [[AS 1993 1352](https://fedlex.data.admin.ch/eli/oc/1993/1352_1352_1352)]
+[^65-4]: [[AS 1993 1355](https://fedlex.data.admin.ch/eli/oc/1993/1355_1355_1355)]
+
+#### Art. 66
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Bewilligungen für Nebenbeschäftigungen der ordentlichen Mitglieder, die vor Inkrafttreten dieses Reglements erteilt worden sind, bleiben gültig.
+
+<sup>2</sup> Bewilligte Nebenbeschäftigungen, die dem neuen Recht nicht mehr entsprechen, sind bis spätestens ein Jahr nach Inkrafttreten dieses Reglements zu beenden.
+
+#### Art. 67
+
+**Inkrafttreten**
+
+Dieses Reglement tritt am 1. Januar 2007 in Kraft.

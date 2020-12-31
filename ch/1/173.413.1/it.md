@@ -1,0 +1,216 @@
+---
+sr: "173.413.1"
+title: Regolamento del 28 settembre 2011 del Tribunale federale dei brevetti (RTFB)
+short: RTFB
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/892"
+language: it
+version: 2018-08-01
+adopted: 2011-09-28
+in_force: 2012-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20180801/it/xml/fedlex-data-admin-ch-eli-cc-2011-892-20180801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Regolamento del Tribunale federale dei brevetti
+
+(RTFB)
+
+del 28 settembre 2011 (Stato 1° agosto 2018)
+
+Il Tribunale federale dei brevetti,
+
+visto l’articolo 20 capoverso 3 lettera a della legge del 20 marzo 2009[^ingress-1] sul Tribunale federale dei brevetti (LTFB),
+
+adotta il seguente regolamento:
+
+[^ingress-1]: [RS 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
+
+## Sezione 1: Organizzazione
+
+#### Art. 1
+
+**Compiti della Corte plenaria**
+
+<sup>1</sup> La Corte plenaria è competente per la nomina del vicepresidente ed eventualmente di un ulteriore membro della Commissione amministrativa[^1-1] secondo l’articolo 20 capoverso 2 LTFB.
+
+<sup>2</sup> La Corte plenaria consiglia la Commissione amministrativa nell’elaborazione dei regolamenti.
+
+[^1-1]: Nuova espr. giusta il n. I dell’O del TFB del 24 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 3327](https://fedlex.data.admin.ch/eli/oc/2019/608)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 2
+
+**Convocazione della Corte plenaria**
+
+La Corte plenaria è convocata dal presidente del Tribunale federale dei brevetti.
+
+#### Art. 3
+
+**Presidenza**
+
+<sup>1</sup>
+
+Il presidente del Tribunale federale dei brevetti è incaricato segnatamente di:
+
+- a. rappresentare il Tribunale verso l’esterno;
+- b. presiedere la Corte plenaria e la Commissione amministrativa;
+- c. convocare la Corte plenaria e la Commissione amministrativa;
+- d. designare un sostituto per la Commissione amministrativa scegliendolo tra i giudici con formazione giuridica secondo l’articolo 20 capoverso 2 LTFB;
+- e. comporre il collegio giudicante;
+- f. determinare la lingua del procedimento e autorizzare l’eventuale uso dell’inglese;
+- g. stabilire i luoghi in cui svolgere sedute esterne.
+
+<sup>2</sup> Il vicepresidente o il terzo membro ordinario della Commissione amministrativa rappresenta e coadiuva il presidente e adempie con lui i compiti attribuiti alla presidenza.
+
+#### Art. 4
+
+**Commissione amministrativa**
+
+<sup>1</sup>
+
+La Commissione amministrativa è competente per:
+
+- a. emanare i regolamenti secondo l’articolo 20 capoverso 3 lettera a LTFB;
+- b. autorizzare i consulenti in brevetti a rappresentare le parti secondo l’articolo 29 capoverso 1 LTFB e tenere un elenco di questi consulenti;
+- c. decidere in qualità di datore di lavoro;
+- d. adottare il progetto del preventivo, del consuntivo e del rapporto di gestione presentati all’Assemblea federale;
+- e. adempiere tutti i compiti non attribuiti a un altro organo.
+
+<sup>2</sup> La Commissione amministrativa prende le sue decisioni a maggioranza. Delibera validamente se almeno due membri partecipano alla seduta o alla procedura per circolazione degli atti. In caso di parità di voti, quello del presidente è determinante.
+
+<sup>3</sup> In merito alle domande di ricusazione contestate, la Commissione amministrativa decide, secondo l’articolo 11, alla presenza di tutti i suoi membri.
+
+<sup>4</sup> Se un membro è impedito o oggetto di una domanda di ricusazione, è rappresentato dal sostituto secondo l’articolo 20 capoverso 2 LTFB. Se anche il sostituto o un altro membro della Commissione amministrativa è impedito o oggetto di una domanda di ricusazione, è rappresentato dal giudice con formazione giuridica e con la maggiore anzianità di servizio; se vi sono più giudici con la stessa anzianità di servizio, dal più anziano tra loro.
+
+#### Art. 5
+
+**Primo cancelliere**
+
+<sup>1</sup> Il primo cancelliere dirige l’amministrazione del Tribunale.
+
+<sup>2</sup>
+
+Il primo cancelliere è competente per:
+
+- a. preparare ed eseguire le decisioni prese dalla Commissione amministrativa;
+- b. preparare il preventivo, il consuntivo e il piano finanziario;
+- c. controllare la gestione finanziaria in collaborazione con la segreteria generale del Tribunale amministrativo federale;
+- d. preparare il rapporto di gestione;
+- e. garantire la sicurezza;
+- f. garantire adeguati servizi informatici.
+
+<sup>3</sup> Il primo cancelliere partecipa alle sedute della Corte plenaria e della Commissione amministrativa con voto consultivo ed è responsabile della tenuta del verbale.
+
+<sup>4</sup> Il primo cancellerie funge anche da cancelliere ai sensi dell’articolo 9.
+
+#### Art. 6
+
+**Diritto di firma**
+
+<sup>1</sup> Il presidente e il primo cancelliere firmano collettivamente nelle attività di competenza della Corte plenaria o della Commissione amministrativa.
+
+<sup>2</sup> Il presidente firma individualmente laddove l’attività è di sua esclusiva competenza.
+
+<sup>3</sup> Il primo cancelliere firma individualmente in tutte le attività di natura amministrativa. Per determinate attività può delegare il diritto di firma ad altre persone.
+
+## Sezione 2: Organizzazione dell’attività giudiziaria
+
+#### Art. 7
+
+**Collegio giudicante**
+
+<sup>1</sup> Il presidente determina il numero di persone e la composizione del collegio giudicante secondo le disposizioni dell’articolo 21 LTFB.
+
+<sup>2</sup> In caso di udienza istruttoria, il presidente designa un giudice che partecipa all’udienza insieme a lui o al giudice dell’istruttoria. Il presidente può anche designare due persone.
+
+<sup>3</sup> Per il dibattimento il collegio giudicante è completato, se necessario, dopo il secondo scambio di scritti. Se una decisione del Tribunale è indispensabile prima di questo momento, il collegio giudicante è completato per tempo.
+
+<sup>4</sup> I giudici sono scelti secondo le loro conoscenze specifiche. Occorre fare in modo che le cause siano ripartite il più equamente possibile tra i giudici.
+
+#### Art. 8
+
+**Altre attività dei giudici**
+
+<sup>1</sup> I giudici ordinari a tempo parziale che intendono esercitare un’attività lucrativa al di fuori del Tribunale ai sensi dell’articolo 11 LTFB devono presentare una domanda di autorizzazione alla Commissione amministrativa.
+
+<sup>2</sup> L’autorizzazione è rilasciata se l’attività, tenuto conto del tempo necessario al suo adempimento, non impedisce al giudice di dedicarsi pienamente ai suoi doveri d’ufficio. In ogni caso devono essere rispettate le regole sull’incompatibilità professionale di cui all’articolo 10 LTFB.
+
+#### Art. 9
+
+**Cancellieri**
+
+<sup>1</sup> I cancellieri adempiono i compiti previsti dall’articolo 24 capoversi 1 e 2 LTFB.
+
+<sup>2</sup>
+
+I cancellieri sono inoltre competenti per:
+
+- a. tenere i verbali dei dibattimenti e delle deliberazioni;
+- b. pubblicare le decisioni.
+
+<sup>3</sup> Il giudice dell’istruttoria può autorizzare un cancelliere a firmare in suo nome una decisione incidentale.
+
+## Sezione 3: Procedura di ricusazione
+
+#### Art. 10
+
+**Obbligo di comunicare**[^10-1]
+
+<sup>1</sup> Ogni membro del Tribunale comunica alla Commissione amministrativa, senza indugio e indipendentemente dalla fase della procedura, i possibili motivi di ricusazione secondo l’articolo 47 capoverso 1 del Codice di procedura civile del 19 dicembre 2008[^10-2].
+
+<sup>2</sup> Il membro del Tribunale in questione si astiene spontaneamente se ritiene dato il motivo.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del TFB del 12 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2013 673](https://fedlex.data.admin.ch/eli/oc/2013/122)).
+[^10-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+
+#### Art. 11
+
+**Decisione in merito alla ricusazione**
+
+Se la domanda di ricusazione è contestata, la Commissione amministrativa decide in assenza dell’interessato.
+
+## Sezione 4: Procedura decisionale
+
+#### Art. 12
+
+**Giudizio delle cause**
+
+<sup>1</sup> Il Tribunale giudica mediante circolazione degli atti o deliberazione orale non pubblica.
+
+<sup>2</sup> Il presidente dirige la procedura per circolazione degli atti.
+
+<sup>3</sup> Il presidente, se fa parte del collegio giudicante, dirige i dibattimenti e le deliberazioni orali. Negli altri casi, la direzione spetta al giudice dell’istruttoria.
+
+#### Art. 13
+
+**Approvazione della motivazione della sentenza e opinione divergente[^13-1]**
+
+<sup>1</sup> Se una sentenza è resa in procedura per circolazione degli atti, è possibile modificarne la motivazione soltanto con il consenso di tutti i giudici interessati; sono fatte salve le modifiche di carattere meramente redazionale.
+
+<sup>2</sup> Se una sentenza è pronunciata nell’ambito di una deliberazione, la motivazione scritta è messa in circolazione per approvazione tra i membri del collegio giudicante; il capoverso 1 si applica per analogia.
+
+<sup>3</sup> Quando il Tribunale statuisce a maggioranza, il membro del Tribunale può esprimere la sua opinione divergente in appendice alla decisione. Tale appendice è pubblicata con la decisione. [^13-2]
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del TFB del 12 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2013 673](https://fedlex.data.admin.ch/eli/oc/2013/122)).
+[^13-2]: Introdotto dal n. I dell’O del TFB del 12 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2013 673](https://fedlex.data.admin.ch/eli/oc/2013/122)).
+
+#### Art. 14
+
+**Firma delle sentenze e delle decisioni**
+
+<sup>1</sup> Il giudice che presiede il collegio giudicante e il cancelliere firmano le sentenze. In caso d’impedimento, firma un altro membro del collegio giudicante.
+
+<sup>2</sup> Le decisioni del giudice unico secondo l’articolo 23 LTFB sono firmate dal giudice che ha statuito e dal cancelliere. In caso d’impedimento, firma un membro del Tribunale designato come sostituto dal giudice che ha statuito.
+
+## Sezione 5: Riprese e registrazioni
+
+#### Art. 15
+
+Nei locali del Tribunale federale dei brevetti sono vietate riprese e registrazioni.
+
+## Sezione 6: Disposizione finale
+
+#### Art. 16
+
+Il presente regolamento entra in vigore il 1° gennaio 2012.

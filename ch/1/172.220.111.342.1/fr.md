@@ -1,0 +1,195 @@
+---
+sr: "172.220.111.342.1"
+title: Ordonnance du DDPS du 15 février 2019 sur les allocations dans le service de vol du DDPS (Ordonnance sur les allocations de vol du DDPS)
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/151"
+language: fr
+version: 2019-04-01
+adopted: 2019-02-15
+in_force: 2019-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-151-20190401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20190401/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DDPS sur les allocations dans le service de vol du DDPS
+
+(Ordonnance sur les allocations de vol du DDPS)
+
+du 15 février 2019 (Etat le 1<sup>er</sup> avril 2019)
+
+Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), en accord avec le Département fédéral des finances,
+
+vu les art. 48, al. 2, et 115, let. e, de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+## Section 1 Champ d’application
+
+#### Art. 1
+
+La présente ordonnance règle les allocations pour les catégories de personnel suivantes du DDPS:
+
+- a. pilotes militaires de carrière;
+- b. opérateurs de bord de carrière;
+- c. opérateurs FLIR de carrière;
+- d. éclaireurs parachutistes de carrière;
+- e. photographes de bord de carrière;
+- f. membres d’équipage qui, à bord d’un aéronef, contribuent à l’exécution de la mission de vol;
+- g. pilotes civils du Service de transport aérien de la Confédération (STAC);
+- h. pilotes d’essai;
+- i. ingénieurs pour les essais en vol;
+- j. opérateurs de bord de l’Office fédéral de topographie (opérateurs de bord S+T).
+
+## Section 2 Membres du service de vol militaire
+
+#### Art. 2
+
+**Allocations**
+
+<sup>1</sup> Les pilotes militaires de carrière, les pilotes civils du STAC, les opérateurs de bord de carrière, les opérateurs FLIR de carrière, les éclaireurs parachutistes de carrière et les photographes de bord de carrière reçoivent une allocation, conformément à l’annexe 1, pour les exigences particulières imposées par le service de vol, l’engagement accru dans ce cadre et le risque élevé qu’ils courent.
+
+<sup>2</sup>
+
+L’allocation des pilotes militaires de carrière selon l’annexe 1 est réduite comme suit:
+
+- a. 10 % pour les classes de traitement 30 et 31;
+- b. 20 % pour les classes de traitement 32 et 33;
+- c. 30 % pour la classe de traitement 34.
+
+<sup>3</sup> Les pilotes militaires de carrière qui sont rangés dans la classe de traitement 35 ou au‑delà ou qui exercent une fonction en dehors des Forces aériennes n’ont pas droit à l’allocation prévue à l’al. 1.
+
+<sup>4</sup> Les membres d’équipage qui, à bord d’un aéronef, contribuent à l’exécution de la mission de vol, reçoivent une allocation par minute de vol, conformément à l’annexe 3.
+
+#### Art. 3
+
+**Durée du droit aux allocations**
+
+<sup>1</sup> Ont droit à une allocation conformément à l’annexe 1 les pilotes militaires de carrière qui ont accompli avec succès l’école de pilotes des Forces aériennes, les pilotes civils du STAC dès le début de l’emploi correspondant, les éclaireurs parachutistes de carrière au terme de leur période d’essai et les autres ayants droit après l’obtention de leur brevet.
+
+<sup>2</sup> L’allocation reste partie intégrante du traitement versé durant la période de retraite anticipée au sens de l’art. 34*a* OPers.
+
+## Section 3 Personnel d’armasuisse
+
+#### Art. 4
+
+**Allocations pour les pilotes d’essai**
+
+Les pilotes d’essai reçoivent une allocation conformément à l’annexe 2 pour les exigences particulières imposées par le service de vol et le risque élevé inhérent aux vols d’essai.
+
+#### Art. 5
+
+**Allocations pour les ingénieurs effectuant des essais en vol et pour les autres membres d’équipage**
+
+Les ingénieurs effectuant des essais en vol et les autres membres d’équipage cités à l’art. 1, let. f et i, reçoivent une allocation par minute de vol échelonnée en fonction des exigences conformément à l’annexe 3.
+
+#### Art. 6
+
+**Allocations pour les opérateurs de bord S+T**
+
+Les opérateurs de bord S+T reçoivent une allocation pour les exigences particulières imposées par le service de vol conformément à l’annexe 1.
+
+## Section 4 Dispositions communes
+
+#### Art. 7
+
+**Assurance**
+
+Les allocations sont assurées conformément à l’art. 88*a*, al. 1, OPers.
+
+#### Art. 8
+
+**Interruption du service de vol**
+
+<sup>1</sup> Les personnes qui, pour des raisons médicales, doivent interrompre momentanément le service de vol, cesser le service pour cause de maladie, d’accident ou de maternité, ou pour des raisons médicales ou à cause d’une baisse des prestations physiques ou mentales, interrompre définitivement le service de vol, mais qui restent occupées dans l’administration fédérale, ont droit à l’allocation prévue aux art. 2, al. 1, 4 et 6, aussi longtemps qu’elles ont droit à la prestation due par l’employeur à l’employé en cas d’empêchement de travailler selon l’art. 29, al. 1, de la loi du 24 mars 2000 sur le personnel de la Confédération[^8-1].
+
+<sup>2</sup> Les personnes qui, pour des raisons médicales, doivent interrompre définitivement le service de vol et n’ont pas droit à une rente de l’assurance-invalidité ont droit, en cas d’invalidité professionnelle totale ou partielle constatée conformément à l’art. 88*e* OPers, à une rente d’invalidité professionnelle de PUBLICA, indépendamment de leur âge.
+
+<sup>3</sup> Si un pilote d’essai d’au moins 58 ans doit, pour des raisons médicales, interrompre définitivement le service de vol, il touche l’allocation conformément à l’annexe 2 pour autant qu’il reste employé dans l’administration fédérale. L’allocation est cependant exclue de la compensation du renchérissement et des augmentations du salaire réel.
+
+[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+## Section 5 Dispositions finales
+
+#### Art. 9
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 15 mai 2003 sur les allocations dans le service de vol du DDPS[^9-1] est abrogée.
+
+[^9-1]: [[RO 2003 1271](https://fedlex.data.admin.ch/eli/oc/2003/219), [2004 5009](https://fedlex.data.admin.ch/eli/oc/2004/764), [2008 2741](https://fedlex.data.admin.ch/eli/oc/2008/383)]
+
+#### Art. 10
+
+**Dispositions transitoires**
+
+<sup>1</sup> En cas de réduction du salaire global, allocations comprises, le salaire nominal acquis est garanti durant deux ans. Les indemnités prévues à l’art. 22 de l’ordonnance du 5 décembre 1994 sur le service de vol militaire[^10-1] ne sont pas considérées comme des allocations.
+
+<sup>2</sup> Les employés qui, au terme de la période durant laquelle leur salaire est garanti selon l’al. 1, ont atteint l’âge de 57 ans, ne subissent pas de réduction du salaire global, allocations comprises.
+
+[^10-1]: [RO 1995 98](https://fedlex.data.admin.ch/eli/oc/1995/98_98_98), [2002 1](https://fedlex.data.admin.ch/eli/oc/2002/1)
+
+#### Art. 11
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2019.
+
+Annexe 1
+
+(art. 2, 3 et 6)
+
+## Allocations pour le personnel des Forces aériennes et du S+T
+
+L’allocation annuelle prévue aux art. 2, al. 1, et 6 est la suivante:
+
+<table>
+<tr><td></td><td></td><td>Francs</td></tr>
+<tr><td>1. Pilotes militaires de carrière</td><td>a. de la première à la troisième année</td><td>29 576</td></tr>
+<tr><td>[tab]</td><td>b. de la quatrième à la sixième année</td><td>40 530</td></tr>
+<tr><td>[tab]</td><td>c. de la septième à la neuvième année</td><td>51 484</td></tr>
+<tr><td>[tab]</td><td>d. dès la dixième année</td><td>62 831</td></tr>
+<tr><td>2. Opérateurs de bord de carrière</td><td>a. de la première à la troisième année</td><td>26 290</td></tr>
+<tr><td>[tab]</td><td>b. de la quatrième à la sixième année</td><td>37 244</td></tr>
+<tr><td>[tab]</td><td>c. dès la septième année</td><td>48 657</td></tr>
+<tr><td>3. Opérateurs FLIR de carrière</td><td></td><td>23 772</td></tr>
+<tr><td>4. Opérateurs de bord S+T</td><td></td><td>20 053</td></tr>
+<tr><td>5. Eclaireurs parachutistes de carrière</td><td></td><td>13 755</td></tr>
+<tr><td>6. Photographes de bord de carrière</td><td></td><td>12 297</td></tr>
+<tr><td>7. Pilotes civils du STAC</td><td>a. de la première à la troisième année</td><td>15 511</td></tr>
+<tr><td>[tab]</td><td>b. de la quatrième à la sixième année</td><td>21 044</td></tr>
+<tr><td></td><td>c. dès la septième année</td><td>40 216</td></tr>
+</table>
+
+Annexe 2
+
+(art. 4 et 8)
+
+## Allocations pour les pilotes d’essai
+
+L’allocation annuelle prévue à l’art. 4 est la suivante:
+
+<table>
+<tr><td></td><td>Francs</td></tr>
+<tr><td>1. durant la première et la deuxième année</td><td>54 770</td></tr>
+<tr><td>2. durant la troisième et la quatrième année</td><td>65 723</td></tr>
+<tr><td>3. durant la cinquième et la sixième année</td><td>76 677</td></tr>
+<tr><td>4. durant la septième et la huitième année</td><td>87 630</td></tr>
+<tr><td>5. dès la neuvième année</td><td>104 039</td></tr>
+</table>
+
+Annexe 3
+
+(art. 2 et 5)
+
+## Allocations pour les ingénieurs effectuant des essais en vol et pour les autres membres d’équipage
+
+L’allocation par minute de vol pour les ingénieurs effectuant des essais en vol et pour les autres membres d’équipage dans le service de vol des Forces aériennes ou d’armasuisse est la suivante:
+
+<table>
+<tr><td></td><td>Francs</td><td></td></tr>
+<tr><td>1.</td><td>2.72</td><td>a. pour les vols avec des aéronefs, des systèmes, des armes ou des équipements qui ne sont pas régulièrement admis à circuler, b. pour les vols d’évaluation, de réception et de contrôle, les vols à la limite de l’enveloppe et les vols photographiques au moyen d’avions de combat;</td></tr>
+<tr><td>2.</td><td>0.75</td><td>pour les vols avec des aéronefs qui sont régulièrement admis à circuler: a. dans le cadre d’essais ou de tâches de vol d’armasuisse, notamment les survols à des fins de préparation et d’exploitation d’aéronefs sur des places extérieures, b. dans le cadre de l’exploitation de vol des Forces aériennes, par exemple en qualité de membre d’équipage exerçant les fonctions de mécanicien d’accompagnement.</td></tr>
+</table>

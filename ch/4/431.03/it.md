@@ -1,0 +1,346 @@
+---
+sr: "431.03"
+title: "Legge federale del 18 giugno 2010 sul numero d'identificazione delle imprese (LIDI)"
+short: LIDI
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
+language: it
+version: 2020-12-19
+adopted: 2010-06-18
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2010-705-20201219-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sul numero d’identificazione delle imprese
+
+(LIDI)
+
+del 18 giugno 2010 (Stato 19 dicembre 2020) (Stato 19 dicembre 2020)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 59 capoverso 4, 61 capoverso 4, 65 capoverso 2, 77 capoverso 2, 80 capoversi 1 e 2, 95 capoverso 1, 104 capoverso 1, 112 capoverso 1, 113 capoverso 1, 114 capoverso 1, 116 capoversi 2 e 3, 117 capoverso 1, 118 capoverso 2 lettere a e b, 122 capoverso 1 e 130 capoverso 1 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 28 ottobre 2009[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo**
+
+Il numero unico d’identificazione delle imprese (IDI) serve a identificare in maniera univoca le imprese allo scopo di rendere facile e sicuro lo scambio di informazioni nei processi amministrativi e statistici.
+
+#### Art. 2
+
+**Oggetto**
+
+La presente legge disciplina:
+
+- a. l’attribuzione e l’utilizzo dell’IDI;
+- b. la gestione e l’utilizzo del registro d’identificazione delle imprese (registro IDI);
+- c. l’attribuzione e l’utilizzo del numero amministrativo necessario in relazione all’IDI;
+- d.[^2-1] l’attribuzione del numero d’identificazione internazionale unico «Legal Entity Identifier» (LEI) su richiesta dell’unità IDI.
+
+[^2-1]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 15 ott. 2017 ([RU 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+
+#### Art. 3
+
+**Definizioni**
+
+<sup>1</sup>
+
+Ai sensi della presente legge s’intende per:
+
+- a. *IDI:* numero non significante e invariabile che identifica in modo univoco un’unità IDI;
+- b. *complemento IDI:* complemento aggiunto all’IDI per le unità IDI figuranti nel registro di commercio come non cancellate o nel registro IVA come assoggettate;
+- c.
+
+  *unità IDI:*
+
+  - 1\. i soggetti giuridici iscritti nel registro di commercio,
+  - 2\. le persone fisiche e giuridiche non iscritte nel registro di commercio soggette al pagamento delle imposte e delle tasse riscosse dalla Confederazione o dai suoi enti,
+  - 3\. le persone fisiche che esercitano un’attività di natura commerciale o una libera professione non contemplate nei numeri 1 e 2; è attribuito l’IDI per ciascuna attività svolta,
+  - 4\. le comunità di persone senza capacità giuridica propria che devono essere identificate per scopi amministrativi a causa della loro attività economica,
+  - 5\. le persone giuridiche straniere o internazionali che hanno una sede in Svizzera o devono essere identificate in applicazione del diritto svizzero,
+  - 6\. tutte le imprese e le persone soggette alla legislazione in materia di agricoltura, selvicoltura, epizoozie, protezione degli animali o derrate alimentari e che devono essere identificate per scopi amministrativi,
+  - 7\. le unità amministrative della Confederazione, dei Cantoni e dei Comuni che devono essere identificate a causa dei loro compiti amministrativi o per motivi statistici,
+  - 8\. tutte le istituzioni che svolgono compiti di diritto pubblico,
+  - 9\. le associazioni e le fondazioni non soggette all’IVA e non iscritte nel registro di commercio che versano contributi AVS;
+
+- d. *servizi IDI:* unità amministrative di Confederazione, Cantoni e Comuni, enti di diritto pubblico nonché istituzioni private con compiti di diritto pubblico, che gestiscono raccolte di dati sulle unità IDI in considerazione della loro attività economica;
+- e. *numero amministrativo:* numero per l’identificazione di unità amministrative che non sono considerate unità IDI ma che devono essere identificate da determinati servizi IDI in adempimento dei loro compiti;
+- f. *registro IDI:* registro centrale in cui sono iscritte tutte le unità IDI e le unità amministrative;
+- g.[^3-1] *LEI:* numero unico non significante secondo le raccomandazioni del «Global Legal Entity Identifier System» (GLEIS) che identifica un’unità IDI e le unità da essa gestite, ad esempio fondi e filiali, in modo univoco a livello internazionale.
+
+<sup>2</sup> Il Consiglio federale precisa ulteriormente le unità IDI e i servizi IDI.
+
+[^3-1]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 15 ott. 2017 ([RU 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+
+## Sezione 2: IDI, registro IDI e numero amministrativo
+
+#### Art. 4
+
+**Attribuzione dell’IDI**
+
+<sup>1</sup> L’Ufficio federale di statistica (UST) attribuisce gratuitamente un IDI unico a ogni unità IDI.
+
+<sup>2</sup> Ciascun IDI è attribuito una sola volta.
+
+<sup>3</sup> L’attribuzione dell’IDI avviene all’atto della notifica all’UST delle caratteristiche secondo l’articolo 9 capoverso 1 lettera a da parte dei servizi IDI.
+
+#### Art. 5
+
+**Utilizzo dell’IDI**
+
+<sup>1</sup>
+
+I servizi IDI sono tenuti a:
+
+- a. riconoscere l’IDI quale identificatore;
+- b. gestirlo nelle loro raccolte di dati;
+- c. utilizzarlo nello scambio di dati tra di loro e con le unità IDI.
+
+<sup>2</sup> Il Consiglio federale determina i servizi IDI tenuti a riconoscere l’IDI unicamente quale identificatore.
+
+<sup>3</sup> Le unità IDI possono utilizzare il proprio IDI negli scambi tra di loro o con un servizio IDI; rimangono salve disposizioni giuridiche speciali.
+
+#### Art. 6
+
+**Registro IDI**
+
+<sup>1</sup> Il registro IDI è gestito dall’UST.
+
+<sup>2</sup>
+
+Il registro IDI contiene i dati relativi alle seguenti caratteristiche delle unità IDI (dati IDI):
+
+- a.
+
+  *caratteristiche di base:*
+
+  - 1\. IDI, status dell’iscrizione nel registro IDI e complemento IDI,
+  - 2\. nome, ditta o designazione e indirizzo,
+  - 3\. status dell’iscrizione nel registro di commercio,
+  - 4\. status dell’iscrizione nel registro IVA con inizio e fine dell’assoggettamento all’IVA,
+  - 5\.[^6-1] LEI associato all’unità IDI e status dell’iscrizione nel registro della fondazione «Global Legal Entity Identifier Foundation» (registro GLEIF);
+
+- b. *caratteristiche addizionali:* dati per la distinzione più precisa dell’unità IDI, in particolare designazione dettagliata dell’unità IDI e informazioni sull’attività economica;
+- c. *caratteristiche del sistema:* dati tecnico-organizzativi necessari per la gestione del registro IDI, in particolare la data d’iscrizione nel registro IDI.
+
+<sup>3</sup> Il registro IDI contiene inoltre i dati relativi alle caratteristiche necessarie per l’identificazione delle unità amministrative.
+
+<sup>4</sup> Il Consiglio federale designa le caratteristiche addizionali e le caratteristiche del sistema delle unità IDI.
+
+[^6-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 15 ott. 2017 ([RU 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+
+#### Art. 6a
+
+**Identificatore personale nel registro IDI**[^6a-1]
+
+<sup>1</sup> L’UST può utilizzare sistematicamente il numero d’assicurato dell’AVS secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^6a-2] sull’assicurazione per la vecchiaia e per i superstiti, se questo è necessario per identificare persone fisiche nel registro IDI.
+
+<sup>2</sup> L’UST può comunicare il numero d’assicurato ai servizi IDI autorizzati a utilizzare sistematicamente il numero d’assicurato, se questo è necessario per identificare la persona interessata nel registro.
+
+[^6a-1]: Introdotto dall’all. n. 3 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^6a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 7
+
+**Effetto giuridico dell’IDI**
+
+L’IDI non ha alcun effetto giuridico ai sensi della legge federale del 19 dicembre 2003[^7-1] sulla firma elettronica.
+
+[^7-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)n. I all.]. Vedi ora la LF del 18 mar. 2016 sui servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitalidel ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+
+#### Art. 8
+
+**Acquisizione, aggiornamento e utilizzo dei dati IDI**
+
+<sup>1</sup>
+
+L’UST acquisisce i dati IDI delle unità IDI:
+
+- a. inizialmente, traendoli dal Registro delle imprese e degli stabilimenti conformemente all’articolo 10 capoverso 3 della legge del 9 ottobre 1992[^8-1] sulla statistica federale;
+- b. successivamente, dalle informazioni notificate dai servizi IDI.
+
+<sup>2</sup> Esso aggiorna costantemente i dati IDI delle unità IDI e rende gli aggiornamenti accessibili in maniera adeguata ai servizi IDI.
+
+<sup>3</sup> Può utilizzare i dati IDI per aggiornare il Registro delle imprese e degli stabilimenti.
+
+[^8-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+
+#### Art. 9
+
+**Notifica e rettifica dei dati IDI**
+
+<sup>1</sup>
+
+I servizi IDI notificano all’UST:
+
+- a. i dati sulle caratteristiche di base e sulle caratteristiche addizionali delle nuove unità IDI;
+- b. qualsiasi modifica o rettifica dei dati IDI;
+- c. la cessazione dell’attività economica di un’unità IDI.
+
+<sup>2</sup> I servizi IDI secondo l’articolo 5 capoverso 2 possono notificare questi dati facoltativamente.
+
+<sup>3</sup> I dati del registro di commercio sono ripresi invariati.
+
+<sup>4</sup> Il Consiglio federale può designare altri servizi IDI i cui dati sono ripresi invariati.
+
+#### Art. 10
+
+**Numero amministrativo**
+
+<sup>1</sup> L’UST designa i servizi IDI che possono notificare le unità amministrative da iscrivere nel registro IDI. Esso attribuisce i numeri amministrativi.
+
+<sup>2</sup> I numeri amministrativi e le relative caratteristiche non sono pubblicati e sono accessibili unicamente ai servizi IDI che ne abbisognano per adempiere i propri compiti.
+
+<sup>3</sup> Il Consiglio federale disciplina le modalità di attribuzione e utilizzo dei numeri amministrativi nonché le caratteristiche necessarie per l’identificazione delle unità amministrative.
+
+## Sezione 2*a*:**** LEI
+
+[^sec2a-1]
+
+[^sec2a-1]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 15 ott. 2017 ([RU 2017 5155](https://fedlex.data.admin.ch/eli/oc/2017/566); [FF 2017 1](https://fedlex.data.admin.ch/eli/fga/2017/1)).
+
+#### Art. 10a
+
+**Attribuzione del LEI**
+
+<sup>1</sup> L’UST attribuisce un LEI a ogni unità IDI che ne faccia richiesta.
+
+<sup>2</sup> Le unità IDI che gestiscono unità quali fondi o filiali possono richiedere un LEI per ognuna di queste unità.
+
+#### Art. 10b
+
+**Comunicazione dei dati LEI**
+
+L’UST comunica alla GLEIF i dati necessari per l’iscrizione nel registro GLEIF*.*
+
+#### Art. 10c
+
+**Costi**
+
+<sup>1</sup> L’attribuzione e il rinnovo del LEI sono soggetti a pagamento.
+
+<sup>2</sup> L’UST fornisce i propri servizi sulla base di una contabilità analitica; gli importi fatturati devono consentire di coprire i costi.
+
+<sup>3</sup> L’UST pubblica le tariffe.
+
+## Sezione 3: Comunicazione e cancellazione dei dati IDI, protezione dei dati
+
+#### Art. 11
+
+**Comunicazione dei dati IDI**
+
+<sup>1</sup> L’UST rende accessibile in Internet i dati relativi alle caratteristiche di base delle unità IDI. Esso limita le possibilità di consultazione a interrogazioni su singole unità IDI.
+
+<sup>2</sup> Il Consiglio federale può rendere pubblicamente accessibile per interrogazioni collettive l’IDI senza ulteriori caratteristiche. Esso disciplina le modalità di consultazione.
+
+<sup>3</sup> I dati relativi alle caratteristiche di base di un’unità IDI sono pubblicati unicamente previa autorizzazione da parte di quest’ultima, a meno che un’altra disposizione della legge federale non ne prescriva la pubblicazione. Sino a quando non sia abrogata la legge del 18 dicembre 2020[^11-1] sulle fideiussioni solidali COVID-19, l’UST pubblica in Internet i dati relativi alle caratteristiche di base di tutte le unità IDI senza la loro autorizzazione.[^11-2]
+
+<sup>4</sup> I dati relativi alle caratteristiche addizionali sono resi accessibili unicamente ai servizi IDI.
+
+<sup>5</sup> I dati relativi alle caratteristiche del sistema sono accessibili unicamente all’UST.
+
+<sup>6</sup> Il numero d’assicurato dell’AVS non è pubblico.[^11-3]
+
+[^11-1]: [RS 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
+[^11-2]: Per. introdotto dall’art. 28 n. 1 della L del 18 dic. 2020 sulle fideiussioni COVID-19, in vigore dal 19 dic. 2020 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^11-3]: Introdotto dall’all. n. 3 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+
+#### Art. 12
+
+**Cancellazione dei dati IDI**
+
+<sup>1</sup> Se un’unità IDI ha cessato la propria attività economica, l’UST la contrassegna come cancellata nel registro IDI a meno che un’altra disposizione della legislazione federale non ne vieti la cancellazione.
+
+<sup>2</sup> I dati IDI contrassegnati come cancellati rimangono accessibili in Internet al massimo per altri dieci anni.
+
+#### Art. 13
+
+**Protezione e sicurezza dei dati**
+
+<sup>1</sup> L’utilizzo dell’IDI da parte di terzi è ammesso unicamente se l’IDI è pubblicato nel registro IDI o l’unità IDI interessata ha dato la propria autorizzazione.
+
+<sup>2</sup> I servizi IDI sono responsabili della protezione e della sicurezza dei dati nell’ambito della gestione e dell’utilizzo dei dati IDI.
+
+<sup>3</sup> L’UST adotta le misure tecniche e organizzative necessarie per garantire la protezione e la sicurezza dei dati nell’ambito della gestione e dell’utilizzo del registro IDI.
+
+## Sezione 4: Disposizioni finali
+
+#### Art. 14
+
+**Disposizioni d’esecuzione**
+
+Il Consiglio federale emana le disposizioni d’esecuzione.
+
+#### Art. 15
+
+**Esecuzione**
+
+I Cantoni emanano le necessarie disposizioni d’esecuzione. Essi le comunicano al Dipartimento federale dell’interno.
+
+#### Art. 16
+
+**Modifica del diritto vigente**
+
+La modifica del diritto vigente è disciplinata nell’allegato.
+
+#### Art. 17
+
+**Disposizioni transitorie concernenti i termini**
+
+<sup>1</sup> I servizi IDI sono tenuti a utilizzare l’IDI conformemente all’articolo 5 capoversi 1 o 2 e a notificare all’UST i dati IDI ai sensi dell’articolo 9 capoverso 1 entro cinque anni dall’entrata in vigore della presente legge.
+
+<sup>2</sup> Il Consiglio federale designa i servizi IDI che devono ottemperare agli obblighi di cui al capoverso 1 già entro tre anni dall’entrata in vigore della presente legge.
+
+<sup>3</sup> Entro cinque anni dall’entrata in vigore della presente legge, l’IDI sostituisce tutti i numeri d’identificazione delle unità IDI utilizzati finora negli scambi tra i servizi IDI e le unità IDI. Il Consiglio federale può prorogare i termini in casi eccezionali.
+
+<sup>4</sup> I numeri del registro di commercio e del registro IVA esistenti prima della sostituzione con l’IDI sono iscritti nel registro IDI tra le caratteristiche di base per almeno cinque anni dalla sostituzione.
+
+#### Art. 18
+
+**Disposizione transitoria concernente il servizio di coordinamento**
+
+Ciascun Cantone designa un servizio che funge da servizio di coordinamento nei confronti dell’UST fino all’introduzione completa dell’IDI.
+
+#### Art. 19
+
+**Disposizioni transitorie concernenti la modifica del numero del registro di commercio**
+
+<sup>1</sup> Il numero del registro di commercio di ogni soggetto giuridico è modificato d’ufficio direttamente nel registro principale. Non è necessaria l’iscrizione nel registro giornaliero.
+
+<sup>2</sup> La modifica del numero è pubblicata esclusivamente in forma elettronica nel Foglio ufficiale svizzero di commercio. Con questa pubblicazione, il nuovo numero acquisisce validità giuridica.
+
+<sup>3</sup> Se a un soggetto giuridico è attribuito un nuovo numero e questo soggetto giuridico è menzionato assieme al numero in qualsiasi forma in iscrizioni di altri soggetti giuridici, queste iscrizioni devono essere adeguate d’ufficio al più tardi in occasione della mutazione successiva.
+
+<sup>4</sup> Il Consiglio federale disciplina i dettagli della modifica.
+
+#### Art. 20
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà a referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° gennaio 2011[^20-1]
+
+[^20-1]: DCF del 27 ott. 2010.
+
+Allegato
+
+(art. 16)
+
+## Modifica del diritto vigente
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705).

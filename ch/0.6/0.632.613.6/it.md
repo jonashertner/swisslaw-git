@@ -1,0 +1,149 @@
+---
+sr: "0.632.613.6"
+title: Accordo doganale del 20 dicembre 1951 tra la Confederazione Svizzera e la Repubblica federale di Germania
+eli: "https://fedlex.data.admin.ch/eli/cc/1952/363_367_371"
+language: it
+version: 1969-09-01
+adopted: 1951-12-20
+in_force: 1952-04-24
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/363_367_371/19690901/it/xml/fedlex-data-admin-ch-eli-cc-1952-363_367_371-19690901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/363_367_371/19690901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo doganale tra la Confederazione Svizzera e la Repubblica federale di Germania
+
+RU **1952** 371
+
+Traduzione*[^t-1]*
+
+Conchiuso il 20 dicembre 1951 Entrato in vigore il 24 aprile 1952
+
+(Stato 1° settembre 1969)
+
+[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+
+Il Consiglio federale della Confederazione Svizzera e il Governo della Repubblica federale di Germania, nell’intento di agevolare gli scambi commerciali fra i due paesi, hanno convenuto quanto segue:
+
+#### Art. I
+
+**Trattamento generale della nazione più favorita**
+
+Tutti i vantaggi, agevolazioni, privilegi ed immunità concessi da una delle parti contraenti ad un prodotto originario di un qualsiasi altro paese o destinato al territorio di un qualsiasi altro paese saranno applicati a ciascun prodotto dello stesso genere dell’altra parte contraente. Questa disposizione concerne i dazi ed altre tasse di ogni genere, alle quali sono soggette le importazioni e le esportazioni, nonché il modo di riscuoterli e le norme e formalità da adempiere.
+
+#### Art. II
+
+**Limitazione del trattamento della nazione più favorita**
+
+Gl’impegni formulati nell’articolo I non si estendono:
+
+- a) ai favori concessi a terzi Stati da una delle due parti contraenti nell’ambito di un accordo sul traffico di confine;
+- b) ai favori risultanti da un’unione doganale o da una convenzione che stipula dazi preferenziali;
+- c) ai favori concessi da une delle parti contraenti mediante accordi e regolamenti speciali relativi a territori doganali isolati (enclaves).
+
+#### Art. III
+
+**Esenzioni doganali**
+
+Il Governo della Repubblica federale di Germania applicherà nel traffico con la Svizzera le esenzioni doganali previste nell’articolo 69 della legge sulle dogane del 20 marzo 1939 e le prescrizioni esecutive emanate in materia. D’altra parte, il Governo svizzero applicherà nel traffico con la Repubblica federale di Germania gli articoli 14, 15 e 17 della legge federale sulle dogane, del 1° ottobre 1925[^III-1] concernenti le merci ammesse in franchigia, nonché il regolamento d’esecuzione[^III-2], di detta legge.
+
+La reciprocità è in tal modo attuata d’ambo le parti.
+
+[^III-1]: RS **0.631.0**
+[^III-2]: RS **0.631.01**. Ora ordinanza.
+
+#### Art. IV
+
+**Concessioni doganali**
+
+Per i prodotti d’origine svizzera enumerati nell’allegato A[^IV-1] prima parte, del presente accordo ed i prodotti d’origine germanica che figurano nell’allegato B[^IV-2], prima parte, non saranno riscossi, né dall’uno né dall’altro paese, dazi più elevati di quelli fissati in questi allegati.
+
+Le osservazioni indispensabili alle varie voci della tariffa, come la spiegazione della designazione di una merce, il calcolo di un contingente, ecc., sono inserite nell’ultima parte degli allegati.
+
+[^IV-1]: Questo allegato è abrogato.
+[^IV-2]: Questo allegato è abrogato.
+
+#### Art. V
+
+**Limitazione delle concessioni doganali**
+
+È riservata la riscossione:
+
+- a) d’imposte o di altre tasse sui prodotti importati dal territorio dell’altro paese contraente, in quanto tali prodotti non siano assoggettati a dazi più elevati ed a formalità più onerose di quelli cui sono assoggettati i prodotti indigeni dello stesso genere;
+- b) di dazi antidumping o di perequazione;
+- c) di tasse corrispondenti ai servizi prestati dall’amministrazione.
+
+#### Art. VI
+
+**Transito**
+
+Le parti contraenti s’accordano reciprocamente la libertà di transito attraverso il loro territorio.
+
+Il traffico di transito può essere assoggettato a una dichiarazione doganale.
+
+Le merci in transito sono esenti da dazi, imposte e tasse, ad eccezione delle tasse di carattere amministrativo e delle tasse di statistica.
+
+#### Art. VII
+
+**Certificato d’origine**
+
+La presentazione di certificati d’origine può essere richiesta per l’importazione di merci provenienti da una delle parti contraenti nel territorio dell’altra.
+
+Le parti contraenti s’impegnano a vigilare che il commercio non sia ostacolato da formalità superflue al momento dell’allestimento di certificati d’origine.
+
+La competenza ad allestire certificati d’origine è determinata dalla legislazione del paese esportatore.
+
+Quanto una delle parti contraenti esporta nel territorio dell’altra merci originarie d’un terzo paese, essa può rilasciare certificati d’origine in cui dev’essere indicato il paese di provenienza.
+
+#### Art. VIII
+
+**Informazioni doganali**
+
+Ciascuna delle parti contraenti designerà gli organi competenti e tenuti a fornire, a domanda, informazioni impegnative sui dazi della tariffa doganale e sulla classificazione nella tariffa di merci designate in modo preciso.
+
+#### Art. IX
+
+**Limiti di valore**
+
+Per determinare i limiti di valore, convenuti nell’allegato A[^IX-1] del presente accordo, saranno applicate le prescrizioni sul valore agli effetti doganali.
+
+Quando l’evoluzione economica richiederà una rettifica dei limiti di valore, delegati dei due Governi si riuniranno, a domanda di una delle parti contraenti, per convenire una rettifica nell’ambito del presente accordo.
+
+[^IX-1]: Questo allegato è abrogato.
+
+#### Art. X
+
+**Liechtenstein**
+
+Il presente accordo è parimente applicabile al Principato del Liechtenstein fino a tanto che questo sarà legato alla Svizzera da un trattato d’unione doganale[^X-1].
+
+[^X-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+
+#### Art. XI
+
+**Durata dell’accordo**
+
+Il presente accordo è valevole fino al 31 dicembre 1952, a contare dalla sua ratificazione da parte dei due Governi e potrà essere disdetto la prima volta, prima che spiri il periodo in corso, per la fine di marzo 1953 ed in seguito, all’inizio di un trimestre dell’anno civile, per la fine del trimestre seguente. L’accordo resterà in vigore finché non sarà stato disdetto.
+
+Per evitare che l’accordo sia disdetto in seguito a provvedimenti ai quali una delle parti contraenti dovrebbe ricorrere per ragioni economiche, una commissione mista si riunirà a domanda e fatta riserva del diritto di disdetta, per giungere ad un’intesa circa il mantenimento o la modificazione, rispettivamente il completamento, del presente accordo.
+
+Nel caso di aumento dei dazi relativi a voci non vincolate, che rivestono notevole importanza per le esportazioni germaniche in Svizzera, il Consiglio federale svizzero ne informerà in tempo il governo della Repubblica federale di Germania in modo che possa essere raggiunta un’intesa prima dello spirare del termine di disdetta in corso.
+
+Fatto a Berna, in doppio esemplare, il 20 dicembre 1951.
+
+<table>
+<tr><td>In nome del Consiglio federale svizzero: Hotz</td><td>In nome del Governo della Repubblica federale di Germania: Mueller-Graaf</td></tr>
+</table>
+
+Allegato A*[^t-2]*
+
+## Dazi d’importazione nel territorio doganale della Repubblica federale di Germania
+
+[^t-2]: Abrogato dall’art. 1 cpv. 2 dell’acc. del 21 nov. 1958 ([RS 0.632.291.361](https://fedlex.data.admin.ch/eli/cc/1960/406_434_421)) e dal n. 7 dell’acc. del 1° ago. 1969 ([RS 0.631.146.21](https://fedlex.data.admin.ch/eli/cc/1969/687_707_705)).
+
+Allegato B*[^t-3]*
+
+## Dazi all’entrata in territorio doganale svizzero
+
+[^t-3]: Abrogato dall’art. 1 cpv. 3 dell’acc. del 21 nov. 1958 ([RS 0.632.291.361](https://fedlex.data.admin.ch/eli/cc/1960/406_434_421)).

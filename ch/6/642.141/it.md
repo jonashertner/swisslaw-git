@@ -1,0 +1,77 @@
+---
+sr: "642.141"
+title: "Ordinanza del 9 marzo 2001 sull'applicazione della legge federale sull'armonizzazione delle imposte dirette nei rapporti intercantonali"
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/158"
+language: it
+version: 2021-01-01
+adopted: 2001-03-09
+in_force: 2001-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/158/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-158-20210101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/158/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sull’applicazione della legge federale sull’armonizzazione delle imposte dirette nei rapporti intercantonali
+
+del 9 marzo 2001 (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 74 della legge federale del 14 dicembre 1990[^ingress-1] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID),
+
+ordina:
+
+[^ingress-1]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+
+#### Art. 1
+
+[^1-1]
+
+[^1-1]: Abrogato dal n. II 3 dell’all. all’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, con effetto dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
+
+#### Art. 2
+
+**Contribuenti assoggettati all’imposta in parecchi Cantoni**
+
+<sup>1</sup> Se, per ragioni di appartenenza economica, sussiste un obbligo fiscale non soltanto nel Cantone di domicilio o di sede, bensì anche in altri Cantoni, la procedura di tassazione si svolge anche in questi altri Cantoni.
+
+<sup>2</sup> Il contribuente assoggettato all’imposta in parecchi Cantoni può adempiere il suo obbligo di allestire la dichiarazione fiscale mediante la presentazione di una copia della dichiarazione d’imposta del Cantone di domicilio o di sede.[^2-1]
+
+<sup>3</sup> L’autorità fiscale del Cantone di domicilio o di sede comunica gratuitamente alle autorità fiscali degli altri Cantoni la sua tassazione, comprese la ripartizione intercantonale ed eventuali modifiche della dichiarazione d’imposta.
+
+<sup>4</sup> La procedura è retta dal diritto procedurale cantonale.
+
+[^2-1]: Nuovo testo giusta il n. II 3 dell’all. all’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, in vigore dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
+
+#### Art. 3
+
+**Competenza in casi particolari**
+
+È considerato Cantone di domicilio o di sede ai sensi dell’articolo 2 anche:
+
+- a. il Cantone in cui si trova la maggior parte degli elementi imponibili più importanti del contribuente che non ha domicilio, dimora o sede fiscale in Svizzera e in virtù dell’appartenenza economica è assoggettato all’imposta in diversi Cantoni;
+- b. il Cantone in cui si trova la sede fiscale della persona giuridica alla fine del periodo fiscale, a causa del trasferimento da un Cantone all’altro durante questo periodo (art. 22 cpv. 1 LAID);
+- c.[^3-1] …
+
+[^3-1]: Abrogata dal n. II 3 dell’all. all’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, con effetto dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
+
+#### Art. 4
+
+[^4-1]
+
+[^4-1]: Abrogato dal n. I 3 dell’O dell’11 apr. 2018 sull’adeguamento di ordinanze alla revisione dell’imposizione alla fonte del reddito da attività lucrativa, con effetto dal 1° gen. 2021 ([RU 2018 1827](https://fedlex.data.admin.ch/eli/oc/2018/273)).
+
+#### Art. 5
+
+**Obblighi di procedura in caso di acquisto di fondi sostitutivi a livello intercantonale**
+
+<sup>1</sup> In caso di acquisto di fondi sostitutivi secondo gli articoli 8 capoverso 4, 12 capoverso 3 lettere d ed e e 24 capoverso 4 LAID in un altro Cantone, il contribuente deve fornire alle autorità di tassazione di ciascuno dei Cantoni interessati le informazioni e le pezze giustificative concernenti l’operazione di acquisto nel suo insieme.
+
+<sup>2</sup> Il Cantone che concede l’acquisto di fondi sostitutivi comunica la sua decisione all’autorità di tassazione del Cantone in cui si trova il fondo sostitutivo.
+
+#### Art. 6
+
+**Entrata in vigore**
+
+La presente ordinanza entra retroattivamente in vigore il 1° gennaio 2001.

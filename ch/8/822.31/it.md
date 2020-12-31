@@ -1,0 +1,243 @@
+---
+sr: "822.31"
+title: Legge federale del 20 marzo 1981 sul lavoro a domicilio (LLD)
+short: LLD
+eli: "https://fedlex.data.admin.ch/eli/cc/1983/108_108_108"
+language: it
+version: 2009-01-01
+adopted: 1981-03-20
+in_force: 1983-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20090101/it/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20090101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20090101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sul lavoro a domicilio
+
+(LLD)
+
+del 20 marzo 1981 (Stato 1° gennaio 2009)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 34<sup>ter</sup> e 64<sup>bis</sup> della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 27 febbraio 1980[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [CS **1** 3; [RU 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Vedi ora gli art. 41, 45, 59, 63, 110, 123, 147 e 178 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: [FF 1980 II 270](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
+
+## Sezione 1: Campo d’applicazione
+
+#### Art. 1
+
+**Oggetto**
+
+<sup>1</sup> La legge si applica ai datori di lavoro pubblici e privati, che fanno eseguire lavoro a domicilio, e ai lavoratori a domicilio da loro occupati.
+
+<sup>2</sup> I provvedimenti protettivi validi per i lavoratori a domicilio sono applicabili, per analogia, alle persone e alle organizzazioni che assegnano lavoro a domicilio in rappresentanza del datore di lavoro.
+
+<sup>3</sup> La legge è applicabile al datore di lavoro all’estero, nella misura in cui occupa lavoratori a domicilio in Svizzera.
+
+<sup>4</sup> È considerato lavoro a domicilio a tenore della presente legge il lavoro artigianale e industriale eseguito a mano o a macchina contro salario da un lavoratore, solo o con l’aiuto di membri della famiglia, nella sua abitazione o in un altro locale di sua scelta.
+
+<sup>5</sup> Per l’applicabilità della legge, è determinante il rapporto di occupazione effettivo e non la designazione del contratto.
+
+#### Art. 2
+
+**Casi dubbi**
+
+Nei casi di dubbio sull’applicabilità della legge, l’autorità cantonale decide d’ufficio o a domanda di un interessato. Le autorità federali decidono per le aziende federali.
+
+## Sezione 2: Obblighi del datore di lavoro e del lavoratore a domicilio
+
+#### Art. 3
+
+**Notifica delle condizioni di lavoro**
+
+All’atto della prima assegnazione di lavoro a domicilio, il datore di lavoro deve notificare al lavoratore e alle persone ed organizzazioni che assegnano lavoro a domicilio in sua rappresentanza le condizioni di lavoro, integralmente e per scritto.
+
+#### Art. 4
+
+**Salario, tempo prestabilito, conteggio**
+
+<sup>1</sup> Il salario per il lavoro a domicilio è determinato secondo le aliquote applicate nell’azienda per un lavoro equivalente. In mancanza di un salario aziendale comparabile, dev’essere applicata l’aliquota di salario usuale per lavori analoghi nel corrispondente ramo economico e nella regione. È tenuto equamente conto delle condizioni di lavoro differenti nell’azienda e al domicilio del lavoratore, come anche dei maggiori o minori costi risultanti dal lavoro a domicilio, per il datore di lavoro e il lavoratore.
+
+<sup>2</sup> Se il salario è stabilito secondo il lavoro fornito (salario a cottimo), il datore di lavoro deve indicare al lavoratore a domicilio, con l’aliquota di salario, il tempo valutato per l’esecuzione (tempo prestabilito), salvo che questo non possa essere predeterminato a causa del genere di lavoro a domicilio.
+
+<sup>3</sup> Il datore di lavoro consegna al lavoratore a domicilio un conteggio scritto ed ambo le parti ne conservano un esemplare durante almeno 5 anni.
+
+#### Art. 5
+
+**Rimborso delle spese, strumenti di lavoro, materiale, istruzioni**
+
+<sup>1</sup> Il datore di lavoro deve rimborsare al lavoratore a domicilio le spese necessarie, in particolare quelle per gli strumenti di lavoro, il materiale e il loro trasporto.
+
+<sup>2</sup> Il datore di lavoro, se mette a disposizione strumenti di lavoro o materiale, non può esigere un’indennità dal lavoratore a domicilio. Sono riservati l’obbligo di restituzione alla fine del rapporto di lavoro e le eventuali pretese di risarcimento del datore di lavoro.
+
+<sup>3</sup> Il datore di lavoro deve istruire il lavoratore a domicilio sul lavoro da svolgere, nella misura necessaria per la sicurezza del lavoratore e per l’ottenimento di un salario adeguato.
+
+#### Art. 6
+
+**Giovani**
+
+È vietato assegnare a giovani d’età inferiore ai 15 anni lavoro a domicilio da eseguire in modo indipendente.
+
+#### Art. 7
+
+**Protezione contro il sovraccarico di lavoro**
+
+<sup>1</sup> Il datore di lavoro non può assegnare né farsi consegnare lavoro a domicilio in domenica e nei giorni festivi. Gli altri giorni, può assegnarlo o farselo consegnare soltanto durante le ore stabilite dal Consiglio federale. I Cantoni possono concedere deroghe per circostanze speciali.
+
+<sup>2</sup> Il datore di lavoro deve tener conto del rendimento del lavoratore a domicilio. Deve, in particolare, stabilire il termine impartito per la consegna dell’opera in modo che il lavoratore a domicilio non debba lavorare né più di 8 ore per giorno, né di domenica.
+
+#### Art. 8
+
+**Protezione della vita e della salute**
+
+<sup>1</sup> Gli strumenti di lavoro e i materiali, che il datore di lavoro mette a disposizione del lavoratore a domicilio, devono essere concepiti in modo che, se manipolati correttamente, non possano causare infortuni o danni alla salute.
+
+<sup>2</sup> I lavoratori a domicilio sono tenuti ad osservare le disposizioni del datore di lavoro per prevenire gli infortuni e i danni alla salute. In particolare, devono utilizzare correttamente i dispositivi di sicurezza, di cui sono muniti gli strumenti di lavoro, e non possono rimuoverli né modificarli senza il permesso del datore di lavoro.
+
+#### Art. 9
+
+**Lavori pericolosi**
+
+Il Consiglio federale stabilisce i lavori che non possono essere eseguiti a domicilio o che lo possono essere soltanto con l’applicazione di particolari misure di sicurezza.
+
+#### Art. 10
+
+**Elenco dei lavoratori a domicilio e registrazione**
+
+Il datore di lavoro deve tenere un elenco dei lavoratori a domicilio che occupa e farsi iscrivere nel registro dei datori di lavoro tenuto dalle autorità d’esecuzione.
+
+#### Art. 11
+
+**Obbligo d’informare**
+
+I datori di lavoro e i lavoratori a domicilio sono tenuti a fornire alle autorità d’esecuzione e di vigilanza le informazioni necessarie all’esecuzione della legge e a permettere loro l’accesso ai locali. Le autorità d’esecuzione e di vigilanza possono procedere a controlli, prelevare campioni, come pure consultare gli elenchi ed altri documenti, in particolare le condizioni di lavoro, le bollette di accompagnamento, i registri delle forniture e i conteggi.
+
+## Sezione 3: Disposizioni penali****
+
+[^sec3-1]
+
+[^sec3-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 - 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+
+#### Art. 12
+
+**Infrazioni**
+
+<sup>1</sup> Chiunque contravviene ad una prescrizione della presente legge o alle sue disposizioni esecutive oppure a una singola decisione notificatagli con la comminatoria della pena prevista nel presente articolo, è punito con la multa.
+
+<sup>2</sup> In caso di grave infrazione intenzionale può essere pronunciato l’arresto.
+
+#### Art. 13
+
+**Diritto applicabile**
+
+Sono applicabili le disposizioni generali del Codice penale svizzero[^13-1] e l’articolo 6 della legge federale del 22 marzo 1974[^13-2] sul diritto penale amministrativo.
+
+[^13-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^13-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 14
+
+**Procedimento penale**
+
+Il procedimento penale spetta ai Cantoni.
+
+## Sezione 4: Disposizioni esecutive
+
+#### Art. 15
+
+**Esecuzione**
+
+<sup>1</sup> L’esecuzione della legge spetta ai Cantoni. Essi designano le autorità d’esecuzione.
+
+<sup>2</sup> Le aziende della Confederazione eseguono la legge sotto la vigilanza degli ispettorati federali del lavoro.
+
+<sup>3</sup> Le autorità d’esecuzione tengono il registro dei datori di lavoro e lo verificano almeno una volta all’anno.
+
+<sup>4</sup> Esse presentano annualmente all’Ufficio federale dell’industria, delle arti e mestieri e del lavoro[^15-1] (detto qui di seguito: «Ufficio federale») un rapporto sull’esecuzione della legge.
+
+[^15-1]: Oggi: «Segreteria di Stato dell’economia (SECO)» (art. 5 dell’O del 14 giu. 1999 sull’organizzazione del Dipartimento federale dell’economia, [RS 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344), [RU 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 3).
+
+#### Art. 16
+
+[^16-1]
+
+[^16-1]: Abrogato dal n. 100 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+
+#### Art. 17
+
+**Alta vigilanza**
+
+L’Ufficio federale esercita l’alta vigilanza sull’esecuzione della legge.
+
+#### Art. 18
+
+[^18-1]
+
+[^18-1]: Abrogato dal n. II 3 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+
+#### Art. 19
+
+**Obbligo del segreto**[^19-1]
+
+Le persone incaricate di eseguire la presente legge o di vigilare sull’esecuzione sono tenute al segreto d’ufficio.
+
+[^19-1]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 20
+
+**Disposizioni esecutive**[^20-1]
+
+Il Consiglio federale emana le disposizioni esecutive sentiti i Cantoni e le organizzazioni interessate.
+
+[^20-1]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+
+#### Art. 21
+
+**Modificazione e abrogazione**
+
+### (Concerne solo il testo tedesco)
+
+### La legge del 13 marzo 1964** sul lavoro è modificata come segue:
+
+[^21-subdivu2-1]
+
+[^21-subdivu2-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). Le modifiche qui appresso sono inserite nella L menzionata.
+
+Art. 3 lett. f
+
+...
+
+### La legge federale del 12 dicembre 1940** sul lavoro a domicilio è abrogata.
+
+[^21-subdivu3-1]
+
+[^21-subdivu3-1]: [CS **8** 223; [RU 1951 1273](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 cpv. 2, [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)disp. fin. e trans. tit. X art. 6 n. 4. [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)art. 68]
+
+#### Art. 22
+
+**Prescrizioni riservate**
+
+Sono segnatamente riservate:
+
+- a. La legislazione federale concernente la prevenzione degli infortuni e delle malattie professionali, la protezione dell’ambiente, la radioprotezione, il commercio dei veleni, gli esplosivi, le derrate alimentari e gli oggetti d’uso, come anche le assicurazioni sociali;
+- b. Le prescrizioni di polizia cantonali e comunali.
+
+#### Art. 23
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° aprile 1983[^23-1]
+
+[^23-1]: DCF del 20 dic. 1982 (RU **1983** 113).

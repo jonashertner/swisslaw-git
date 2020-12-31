@@ -1,0 +1,74 @@
+---
+sr: "0.631.252.913.691.1"
+title: "Vereinbarung vom 15. Juni 2010 zwischen dem Eidgenössischen Finanzdepartement der Schweizerischen Eidgenossenschaft und dem Bundesministerium der Finanzen der Bundesrepublik Deutschland über die schweizerische und deutsche Grenzabfertigung in Reisezügen während der Fahrt auf den Strecken Basel-Freiburg im Breisgau, Basel-Weil am Rhein und Schaffhausen-Singen (Hohentwiel)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/402"
+language: de
+version: 2011-05-30
+adopted: 2010-06-15
+in_force: 2011-05-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/402/20110530/de/xml/fedlex-data-admin-ch-eli-cc-2011-402-20110530-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/402/20110530/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Vereinbarung zwischen dem Eidgenössischen Finanzdepartement der Schweizerischen Eidgenossenschaft und dem Bundesministerium der Finanzen der Bundesrepublik Deutschland über die schweizerische und deutsche Grenzabfertigung in Reisezügen während der Fahrt auf den Strecken Basel–Freiburg im Breisgau, Basel–Weil am Rhein und Schaffhausen–Singen (Hohentwiel)
+
+AS **2011** 3191
+
+Originaltext
+
+Abgeschlossen am 15. Juni 2010
+
+In Kraft getreten am 30. Mai 2011
+
+(Stand am 30. Mai 2011)
+
+Das Eidgenössische Finanzdepartement der Schweizerischen Eidgenossenschaft und das Bundesministerium der Finanzen der Bundesrepublik Deutschland, gestützt auf Artikel 1 Absatz 3 des Abkommens vom 1. Juni 1961[^ingress-1] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung in Verkehrsmitteln während der Fahrt,
+
+haben Folgendes vereinbart:
+
+[^ingress-1]: [SR 0.631.252.913.690](https://fedlex.data.admin.ch/eli/cc/1964/391_387_387)
+
+#### Art. 1
+
+<sup>1.</sup> Die schweizerische und die deutsche Grenzabfertigung kann in Reisezügen während der Fahrt auf den Strecken Basel Badischer Bahnhof/Basel SBB–Freiburg im Breisgau, Basel Badischer Bahnhof/Basel SBB–Weil am Rhein und Schaffhausen–Singen (Hohentwiel) durchgeführt werden.
+
+<sup>2.</sup> Die Grenzabfertigung erstreckt sich auf alle Personen in den nach Artikel 3 Absatz 1 bestimmten Zügen einschliesslich des mitgeführten und in der Regel auch des aufgegebenen Reisegepäcks. Sie kann auf Expressgut ausgedehnt werden.
+
+#### Art. 2
+
+<sup>1.</sup> Die gemäss Artikel 3 Absatz 1 bestimmten Züge bilden auf dem jeweils im Hoheitsgebiet der Schweizerischen Eidgenossenschaft oder der Bundesrepublik Deutschland gelegenen Teil der in Artikel 1 Absatz 1 genannten Strecken die Zone für die Bediensteten des Nachbarstaates im Sinne des Abkommens vom 1. Juni 1961.
+
+<sup>2.</sup> In den Endbahnhöfen der in Artikel 1 Absatz 1 genannten Strecken haben die Bediensteten des Nachbarstaates das Recht, im Zug festgenommene Personen und sichergestellte Waren oder Beweismittel auf dem Bahnsteig oder in den dafür zur Verfügung stehenden Räumen des Bahnhofes in Gewahrsam zu behalten. Der Bereich, in dem die dafür erforderlichen Amtshandlungen vorgenommen werden, ist jeweils Zone.
+
+<sup>3.</sup> Festgenommene Personen und sichergestellte Waren oder Beweismittel dürfen auf den in Artikel 1 Absatz 1 genannten Strecken mit einem der nächsten Züge in den Nachbarstaat zurückgebracht werden.
+
+<sup>4.</sup> Die Bediensteten des Nachbarstaates dürfen die auf den in Artikel 1 Absatz 1 genannten Strecken festgenommenen Personen und sichergestellten Waren oder Beweismittel auch auf der jeweils kürzesten Strassenverbindung in den Nachbarstaat zurückbringen.
+
+<sup>5.</sup> Die schweizerischen Bediensteten dürfen den in Artikel 1 Absatz 1 genannten Endbahnhof in Weil am Rhein auch auf der kürzesten Strassenverbindung erreichen, um die Grenzabfertigung auf der in Artikel 1 Absatz 1 genannten Strecke Weil am Rhein–Basel Badischer Bahnhof/Basel SBB durchzuführen.
+
+#### Art. 3
+
+<sup>1.</sup> Die Zollkreisdirektion Basel einerseits sowie die Bundesfinanzdirektion Südwest und die Bundespolizeidirektion Stuttgart anderseits bestimmen im Einvernehmen mit den zuständigen Bahnbetreibern nach Bedarf und Zweckmässigkeit die Züge, in denen die Grenzabfertigung während der Fahrt durchgeführt wird, und regeln die Einzelheiten.
+
+<sup>2.</sup> Die diensthabenden ranghöchsten Bediensteten der in Absatz 1 genannten Stellen treffen im gegenseitigen Einvernehmen die kurzfristig erforderlichen Massnahmen.
+
+#### Art. 4
+
+Mit Inkrafttreten dieser Vereinbarung tritt die Vereinbarung vom 20. Mai 1965[^4-1] über die schweizerische und deutsche Grenzabfertigung in Reisezügen während der Fahrt auf den Strecken Schaffhausen–Singen (Hohentwiel) und Basel–Freiburg im Breisgau ausser Kraft.
+
+[^4-1]: [[AS 1965 989](https://fedlex.data.admin.ch/eli/oc/1965/989_1001_988), [1973 1454](https://fedlex.data.admin.ch/eli/oc/1973/1454_1454_1454)]
+
+#### Art. 5
+
+<sup>1.</sup> Diese Vereinbarung wird nach Artikel 1 Absatz 4 des Abkommens vom 1. Juni 1961 durch den Austausch von diplomatischen Noten bestätigt und in Kraft gesetzt.
+
+<sup>2.</sup> Die Vereinbarung kann auf diplomatischem Wege unter Einhaltung einer Frist von sechs Monaten zum ersten Tag eines Monats gekündigt werden.
+
+Geschehen zu Bonn am 15. Juni 2010, in zwei Urschriften in deutscher Sprache.
+
+<table>
+<tr><td>Für das Eidgenössische Finanzdepartement der Schweizerischen Eidgenossenschaft:</td><td>Für das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern der Bundesrepublik Deutschland:</td></tr>
+<tr><td>Rudolf Dietrich</td><td>Hans-Joachim Stähr</td></tr>
+</table>

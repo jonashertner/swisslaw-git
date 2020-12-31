@@ -1,0 +1,56 @@
+---
+sr: "0.742.140.121"
+title: "Protocole du 5 février 1880 rédigé par les délégués des gouvernements suisse et italien, pour fixer le point de jonction du chemin de fer du Gothard à la frontière entre les localités de Dirinella et Pino"
+eli: "https://fedlex.data.admin.ch/eli/cc/5/49_49_49"
+language: fr
+version: 1880-03-15
+adopted: 1880-02-05
+in_force: 1880-03-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/5/49_49_49/18800315/fr/xml/fedlex-data-admin-ch-eli-cc-5-49_49_49-18800315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/5/49_49_49/18800315/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Protocole rédigé par les délégués des gouvernements suisse et italien, pour fixer le point de jonction du chemin de fer du Gothard à la frontière entre les localités de Dirinella et Pino, conformément à l’article 2 de la convention internationale faite à Berne le 23 décembre 1873****
+
+RS **13** 151[^t-1]
+
+Texte original
+
+Signé le 5 février 1880 Approuvé par le Conseil fédéral le 10 février 1880
+
+[^t-1]: [RS 0.742.140.12](https://fedlex.data.admin.ch/eli/cc/XI/478_467_478)
+
+Les sousignés, délégués par les gouvernements respectifs,
+
+se sont réunis à Arona le 3 février 1880, pour examiner les plans élaborés de part et d’autre pour faire arriver le chemin de fer à la frontière; ensuite les délégués se sont rendus sur les lieux, où ils ont fait les observations et mensurations nécessaires, après quoi ils sont retournés à Arona pour la rédaction du protocole.
+
+La direction de la ligne traversant le torrent frontière de Dirinella reste fixée conformément au plan annexé au présent protocole[^ingress-1]; cette direction forme un alignement droit sur toute la traversée du torrent et sur une longueur de 221,67 mètres du côté italien, et 79,11 du côté suisse. Le point de jonction est situé en plan au milieu de la largeur dudit torrent, soit à une distance de 10 mètres des arêtes intérieures des culées du pont projeté; ce point de jonction se trouve au profil 16179,80 du kilométrage suisse, correspondant au point kilométrique 6200 du plan italien. La position du point de jonction se trouve déterminée par un repère situé à 8,59 mètres à l’est du point 16303,60 du kilométrage suisse et 6176,20 du plan italien.
+
+Il est convenu que le repère en question se trouve à la cote altimétrique 223,68 du nivellement suisse correspondant à la cote 220,839 du nivellement italien; sur cette base l’altitude de la surface des rails au point de jonction est fixée à 0,776 mètre en contre‑bas du repère.
+
+De part et d’autre du point de jonction, la voie ferrée reste en palier sur une longueur de 400 mètres sur territoire italien et de 150 mètres du côté suisse.
+
+Le torrent frontière sera franchi au moyen d’un pont métallique d’une seule travée reposant sur deux culées en maçonnerie; l’ouverture du pont sera de 20 mètres mesurés au niveau de la reposée des poutres. L’espace libre entre les poutres métalliques mesurera 4,50 mètres. Le pont sera construit de telle sorte que les fers soient soumis à un effort inférieur à 6 kilogrammes par millimètre carré de section; les rails seront posés sur longrines en bois supportées par des longerons en fer qui seront reliés aux poutres transversales également métalliques. Le platelage du pont sera entièrement en tôle.
+
+L’Italie se charge de la construction du pont entier, culées, travée et voie, sauf remboursement de moitié de la dépense par la société des chemins de fer du Gothard, qui restera propriétaire de la moitié du pont.[^ingress-2]
+
+Les murs en retour de la culée suisse seront également construits par l’Italie, à laquelle la société du Gothard remboursera la dépense faite de ce chef.
+
+La jonction des rails sera faite, à l’extrémité suisse du pont, au moyen de joints suspendus avec éclisses spéciales.
+
+Pour assurer le point de jonction, le lit du torrent aux abords du pont sera réglé conformément au profil dessiné sur le plan annexé au présent protocole[^ingress-3]. Ce profil s’étendra au moins de 6 mètres en aval à 36 mètres en amont du pont, point où le lit du torrent est bordé par le rocher du côté italien.
+
+Chacun des Etats exécutera la régularisation du torrent sur son territoire.
+
+Fait en double à Arona, le 5 février 1880.
+
+<table>
+<tr><td>Le délégué du gouvernement suisse:</td><td>Le délégué du gouvernement italien:</td></tr>
+<tr><td>E. Dapples</td><td>F. Biglia</td></tr>
+</table>
+
+[^ingress-1]: Ce plan n’a pas été publié dans le RO.
+[^ingress-2]: La Confédération suisse a racheté le chemin de fer du St‑Gothard le 1<sup>er</sup> mai 1909.
+[^ingress-3]: Ce plan n’a pas été publié dans le RO.

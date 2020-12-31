@@ -1,0 +1,145 @@
+---
+sr: "946.231.158.5"
+title: Ordinanza del 24 giugno 2020 che istituisce provvedimenti nei confronti del Nicaragua
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
+language: it
+version: 2020-08-25
+adopted: 2020-06-24
+in_force: 2020-06-24
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20200825-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20200825/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza che istituisce provvedimenti nei confronti del Nicaragua
+
+del 24 giugno 2020 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb),
+
+ordina:
+
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+
+## Sezione 1: Definizioni
+
+#### Art. 1
+
+Ai sensi della presente ordinanza si intende per:
+
+- a.[^1-1] *averi:* valori patrimoniali, compresi denaro contante, assegni, crediti monetari, cambiali, ordini o altri strumenti di pagamento, depositi, debiti e riconoscimenti di debito, cartevalori e titoli di debito, certificati azionari, obbligazioni, titoli di credito, opzioni, obbligazioni fondiarie, derivati; interessi, dividendi o altri redditi o plusvalori generati da valori patrimoniali; crediti, diritti a compensazione, garanzie, fideiussioni o altri impegni finanziari; accrediti, polizze di carico, trasferimenti della proprietà a titolo di garanzia, documenti di titolarizzazione di quote di fondi o altre risorse finanziarie e qualsiasi altro strumento di finanziamento delle esportazioni;
+- b. *blocco degli averi:* l’impedimento di ogni atto che permetta la gestione o l’utilizzazione degli averi, fatte salve le normali operazioni amministrative effettuate dagli istituti finanziari;
+- c. *risorse economiche:* i valori patrimoniali di ogni genere, indipendentemente dal fatto che siano materiali o immateriali, mobili o immobili, in particolare gli immobili e i beni di lusso, fatti salvi gli averi di cui alla lettera a;
+- d. *blocco delle risorse economiche:* l’impedimento dell’impiego di tali risorse per acquisire averi, merci o servizi, compresa la vendita, la locazione o la costituzione in pegno delle risorse medesime.
+
+[^1-1]: Correzione del 25 ago. 2020 ([RU 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+
+## Sezione 2: Misure coercitive
+
+#### Art. 2
+
+**Blocco degli averi e delle risorse economiche**
+
+<sup>1</sup>
+
+Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo diretto o indiretto:
+
+- a. delle persone fisiche, imprese e organizzazioni menzionate nell’allegato;
+- b. delle persone fisiche, imprese e organizzazioni che agiscono in nome o per conto delle persone fisiche, imprese e organizzazioni di cui alla lettera a;
+- c. delle imprese e organizzazioni di proprietà o sotto il controllo delle persone fisiche, imprese e organizzazioni di cui alle lettere a o b.
+
+<sup>2</sup> È vietato trasferire averi alle persone fisiche, imprese e organizzazioni che sottostanno al blocco degli averi, oppure mettere a loro disposizione, direttamente o indirettamente, averi o risorse economiche.
+
+<sup>3</sup>
+
+La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+
+- a. prevenire casi di rigore;
+- b. rispettare contratti esistenti;
+- c. rispettare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale;
+- d. adempiere agli scopi ufficiali di missioni diplomatiche o consolari; oppure
+- e. tutelare interessi svizzeri.
+
+<sup>4</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 quando le transazioni finanziarie sono necessarie per fornire aiuto umanitario, come fornire o facilitare la fornitura di assistenza, comprese forniture mediche, cibo o trasferimento di operatori umanitari e relativa assistenza o per evacuazioni dal Nicaragua.
+
+<sup>5</sup> La SECO rilascia le autorizzazioni di cui ai capoversi 3 e 4 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze.
+
+#### Art. 3
+
+**Divieto di entrata e di transito**
+
+<sup>1</sup> L’entrata o il transito in Svizzera sono vietati alle persone fisiche elencate nell’allegato.
+
+<sup>2</sup>
+
+La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
+
+- a. per motivi umanitari comprovati;
+- b. se la persona in questione si sposta per partecipare a conferenze internazionali o a un dialogo politico riguardanti il Nicaragua; oppure
+- c. per tutelare interessi svizzeri.
+
+#### Art. 4
+
+**Divieto di soddisfare determinati crediti**
+
+È vietato soddisfare crediti se sono riconducibili a un contratto o a un’attività la cui esecuzione viene impedita o pregiudicata direttamente o indirettamente da misure previste dalla presente ordinanza. Questo divieto si applica ai crediti:
+
+- a. delle persone fisiche, imprese e organizzazioni menzionate nell’allegato;
+- b. delle persone fisiche, imprese e organizzazioni che agiscono per conto di persone, imprese e organizzazioni di cui alla lettera a.
+
+## Sezione 3: Esecuzione e disposizioni penali
+
+#### Art. 5
+
+**Controllo ed esecuzione**
+
+<sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui agli articoli 2 e 4.
+
+<sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
+
+<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+
+<sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+#### Art. 6
+
+**Dichiarazioni obbligatorie**
+
+<sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
+
+<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+
+#### Art. 7
+
+**Disposizioni penali**
+
+<sup>1</sup> Chiunque viola gli articoli 2–4 è punito conformemente all’articolo 9 LEmb.
+
+<sup>2</sup> Chiunque viola l’articolo 6 è punito conformemente all’articolo 10 LEmb.
+
+<sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; quest’ultima può ordinare sequestri e confische.
+
+## Sezione 4: Pubblicazione ed entrata in vigore
+
+#### Art. 8
+
+**Pubblicazione**
+
+La pubblicazione delle voci di cui all’allegato non è prevista né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
+
+#### Art. 9
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 24 giugno 2020 alle ore 18.00.
+
+Allegato*[^t-1]*
+
+(art. 2 cpv. 1 lett. a, 3 cpv. 1, 4 lett. a e 8)
+
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
+
+[^t-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera

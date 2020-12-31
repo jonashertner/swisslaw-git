@@ -1,0 +1,495 @@
+---
+sr: "0.420.513.11"
+title: Abkommen vom 14. September 2010 zwischen dem Bundesamt für Berufsbildung und Technologie BBT im Namen des Schweizerischen Bundesrats und dem EUREKA-Sekretariat
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/802"
+language: de
+version: 2013-01-01
+adopted: 2010-09-14
+in_force: 2010-09-14
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/802/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2010-802-20130101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/802/20130101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zwischen dem Bundesamt für Berufsbildung und Technologie BBT**** im Namen des Schweizerischen Bundesrats und dem EUREKA-Sekretariat
+
+AS **2010** 5661[^t-1]
+
+Übersetzung
+
+Abgeschlossen am 14. September 2010 In Kraft getreten am 14. September 2010
+
+(Stand am 1. Januar 2013)
+
+[^t-1]: Heute: dem Staatssekretariat für Bildung, Forschung und Innovation (SBFI) (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+Dieses Abkommen wird geschlossen zwischen
+
+dem EUREKA-Sekretariat, Rue Neerveld 107, 1200 Brüssel, Belgien, vertreten durch seinen Leiter, Herrn Luuk Borg,
+
+und
+
+dem Bundesamt für Berufsbildung und Technologie (BBT)*[^ingress-1]*, Effingerstrasse 27, CH-3003 Bern, Schweiz, vertreten durch seine Direktorin, Frau Ursula Renold im Namen des Schweizerischen Bundesrats,
+
+nachfolgend einzeln oder gemeinsam «Parteien» oder «Partei» genannt.
+
+*Präambel*
+
+Die Schweiz hat gemeinsam mit Belgien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Island, Israel, Italien, Kroatien, Lettland, Litauen, Luxemburg, den Niederlanden, Norwegen, Österreich, Polen, Portugal, Rumänien, Schweden, der Slowakei, Slowenien, Spanien, der Tschechischen Republik, der Türkei, Ungarn, dem Vereinigten Königreich und Zypern (nachfolgend «die teilnehmenden Mitgliedstaaten») im Rahmen von EUREKA die Initiative zur Aufstellung eines gemeinsamen Forschungs- und Entwicklungsprogramms mit der Bezeichnung «Eurostars» (nachfolgend «Eurostars Joint Programme» genannt) ergriffen. Das Eurostars Joint Programme dient der Unterstützung Forschung und Entwicklung betreibender KMU. Ziel ist das Erreichen einer kritischen Masse in der Verwaltung und bei den finanziellen Ressourcen und die Mobilisierung zusätzlichen Fachwissens sowie weiterer Mittel, die in verschiedenen Ländern Europas vorhanden sind. Das Gesamtvolumen ihrer Beteiligung wird für die geplante Laufzeit des Programms von 2008–2013 auf mindestens 300 Mio. EUR geschätzt.
+
+Der Beschluss Nr. 1982/2006/EG des Europäischen Parlaments und des Rates vom 18. Dezember 2006 über das Siebte Rahmenprogramm der Europäischen Gemeinschaft für Forschung, technologische Entwicklung und Demonstration (2007–2013, nachstehend «das Siebte Rahmenprogramm» genannt) sieht im Sinne von Artikel 169 des Vertrags zur Gründung der Europäischen Gemeinschaft die Beteiligung der Gemeinschaft an Forschungs- und Entwicklungsprogrammen mehrerer Mitgliedstaaten vor, einschliesslich Beteiligung an den zu ihrer Durchführung geschaffenen Strukturen.
+
+Die Gemeinschaft hat ein Assoziierungsabkommen mit der Schweiz geschlossen, das die Beteiligung der Schweiz an Initiativen gemäss Artikel 169 des Vertrags zur Gründung der Europäischen Gemeinschaft im Rahmen des Siebten Rahmenprogramms vorsieht.
+
+In ihrer Entscheidung Nr. 743/2008/EG vom 9. Juli 2008 (nachstehend «die Entscheidung» genannt) haben das Europäische Parlament und der Rat vereinbart, dass sich die Gemeinschaft auf der Grundlage von Artikel 169 des Vertrags zur Gründung der Europäischen Gemeinschaft am Eurostars Joint Programme beteiligt. Damit soll die Wirkung und die kritische Masse des Eurostars Joint Programme erhöht werden und ein Anreiz für eine stärkere Integration der beteiligten nationalen Programme geschaffen werden. Der Finanzbeitrag der Gemeinschaft beläuft sich während der sechsjährigen Laufzeit des Eurostars Joint Programme auf höchstens ein Drittel der tatsächlichen Finanzbeiträge der teilnehmenden Mitgliedstaaten, höchstens jedoch auf 100 Mio. EUR. Voraussetzung für die Leistung des Finanzbeitrags sind eine effiziente Durchführung, Finanzzusagen der teilnehmenden Mitgliedstaaten und die tatsächliche Zahlung der nationalen Beiträge. Der Finanzbeitrag der Gemeinschaft beträgt somit höchstens 25 Prozent der Gesamthöhe des öffentlichen Beitrags zum Eurostars Joint Programme.
+
+Die teilnehmenden Mitgliedstaaten haben sich auf das EUREKA-Sekretariat als spezielle Durchführungsstelle für das Management des Eurostars Joint Programme geeinigt. Die Durchführungsstelle beaufsichtigt die Durchführung des Programms und ist für die Entgegennahme, Zuteilung und die Beaufsichtigung des Finanzbeitrags der Gemeinschaft an das Eurostars Joint Programme zuständig. Das EUREKA-Sekretariat ist von 2008–2013 insbesondere für den regelmässigen Aufruf zur Einreichung von Anträgen mit einem oder mehreren Schlussterminen pro Jahr verantwortlich und richtet eine zentralisierte Begutachtung der Eurostars-Anträge und ein Auswahlverfahren für Eurostars-Projekte ein.
+
+Das BBT[^ingress-2] wurde von der Schweiz förmlich damit beauftragt, aus seinem für das Eurostars-Programm vorgesehenen nationalen Budget Finanzhilfen an juristische Personen zu leisten, die an ausgewählten Eurostars-Projekten teilnehmen.
+
+Das Eurostars Joint Programme wird durchgeführt gemäss der Entscheidung und der zwischen der Kommission (im Auftrag der Gemeinschaft) und dem EUREKA-Sekretariat geschlossenen Delegierungsvereinbarung, in der die Aufgaben des EUREKA-Sekretariats, die Regelungen für den Finanzbeitrag der Gemeinschaft, die Vorschriften bezüglich der finanziellen Haftung und der Rechte des geistigen Eigentums (*Intellectual Property Rights, IPR*) sowie die ausführlichen Vorschriften für die Gewährung der Finanzhilfen durch das EUREKA-Sekretariat an Dritte festgelegt sind, sowie gemäss jährlichen Finanzierungsvereinbarungen.
+
+Dementsprechend kommen die Parteien wie folgt überein:
+
+[^ingress-1]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^ingress-2]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 1
+
+**Umfang des Abkommens**
+
+Ziel dieses Abkommens ist die Festlegung der Bedingungen für:
+
+- – die jährlichen Finanzzusagen des BBT[^1-1] gegenüber dem Eurostars Joint Programme;
+- – die vom BBT[^1-2] geleisteten Finanzbeiträge an die Eurostars-Teilnehmer;
+- – die Zuteilung des Finanzbeitrags der Gemeinschaft durch das EUREKA-Sekretariat an und dessen Verwendung durch das BBT[^1-3] nach der tatsächlichen Zahlung seiner Finanzhilfen an Eurostars-Teilnehmer;
+- – die Mittelkontrolle, die Wiedereinziehung ordnungsgemäss geleisteter Zahlungen und den angemessenen Schutz der finanziellen Interessen der Gemeinschaft;
+- – die Politik betreffend die geistigen Eigentumsrechte des Eurostars Joint Programme (IPR-Politik).
+
+[^1-1]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-2]: Heute: vom SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-3]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 2
+
+**Begriffsbestimmungen**
+
+«Europäische Gemeinschaften» oder «Gemeinschaft» bezeichnet die Europäische Union;
+
+«Kommission» bezeichnet die Europäische Kommission;
+
+«Nationaler Projektkoordinator EUREKA» bezeichnet den nationalen Ansprechpartner;
+
+«Eurostars High Level Group (Eurostars HLG)» bezeichnet die Stelle, die die Durchführung des Eurostars Joint Programme beaufsichtigt und insbesondere zuständig ist für die Benennung der Mitglieder der Eurostars Advisory Group, die Genehmigung der Arbeitsverfahren für die Durchführung des Eurostars Joint Programme, die Genehmigung der Planung von Aufrufen zur Einreichung von Anträgen und der dazugehörigen Budgets sowie für die Genehmigung der Rangliste der zu finanzierenden Eurostars-Projekte;
+
+«Eurostars-Teilnehmer» sind juristische Personen, die an einem Eurostars-Projekt teilnehmen;
+
+«Eurostars-Projekt» bezeichnet ein Projekt, das aufgrund des vom EUREKA-Sekretariat zum Zwecke der Durchführung des Eurostars Joint Programme veröffentlichten Aufrufs zur Einreichung von Anträgen und der zentralisierten Begutachtung ausgewählt wurde und vom BBT[^2-1] im Rahmen des Eurostars Joint Programme finanziell unterstützt wird.
+
+«Haushaltsordnung» bezeichnet die Verordnung (EG/Euratom) Nr. 1605/2002 des Rates vom 25. Juni 2002 über die Haushaltsordnung für den Gesamthaushaltsplan der Europäischen Gemeinschaften (ABl L 248 vom 16.9.2002, S. 1) und die zugehörigen Durchführungsverordnungen in der bei Unterzeichnung dieses Abkommens geltenden Fassung;
+
+«Independent Evaluation Panel (IEP)» bezeichnet das unabhängige Expertengremium, das anhand vorgegebener Kriterien die im Anschluss an den Aufruf des EUREKA-Sekretariats zur Einreichung von Anträgen eingegangenen Bewerbungen prüft und eine Rangfolge dieser Anträge erstellt;
+
+«Hauptteilnehmer» bezeichnet das *F&E betreibende KMU,* das ein Eurostars-Projekt *leitet;*
+
+«F&E betreibendes KMU» bezeichnet ein kleines und mittleres Unternehmen, das mindestens 10 Prozent seines Vollzeitpersonals (Vollzeitäquivalente, VZÄ) in F&E beschäftigt oder 10 Prozent des Jahresumsatzes für F&E aufwendet;
+
+«Kleine und mittlere Unternehmen (KMU)» bezeichnet Kleinst-, Klein- und mittlere Unternehmen gemäss Empfehlung 2003/361/EG vom 6. Mai 2003, die weniger als 250 Personen beschäftigen und die entweder einen Jahresumsatz von höchstens 50 Mio. EUR erzielen oder deren Jahresbilanzsumme sich auf höchstens 43 Mio. EUR beläuft.
+
+[^2-1]: Heute: vom SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 3
+
+**Verpflichtungen des EUREKA-Sekretariats**
+
+Das EUREKA-Sekretariat verpflichtet sich, dem BBT[^3-1] gemäss der Entscheidung und der Haushaltsordnung sowie auf der Grundlage der nachstehenden kumulativen Grundsätze und unbeschadet der nachfolgend vereinbarten speziellen Vorschriften den Finanzbeitrag der Gemeinschaft für die in der durch die Eurostars High Level Group HLG genehmigten Rangliste definierten Eurostars-Projekte zuzuteilen.
+
+Das EUREKA-Sekretariat muss dem BBT[^3-2] die endgültige Rangliste der ausgewählten und durch die Eurostars HLG genehmigten Eurostars-Projekte innerhalb von 12 Wochen nach dem jeweiligen Schlusstermin bekanntgeben.
+
+- 3\.1 Finanzielle Verpflichtungen des EUREKA-Sekretariats
+
+- –
+
+  Die Berechnung des Finanzbeitrags der Gemeinschaft erfolgt:
+
+  - – so, dass er zu keinem Zeitpunkt ein Drittel des tatsächlichen Finanzbeitrags des BBT[^3-3] an das Eurostars Joint Programme übersteigt und die von der Eurostars HLG vereinbarte jährliche Obergrenze nicht überschritten wird; und
+  - – unter Bezugnahme auf die nach den nationalen Finanzierungsregeln für jedes Eurostars-Projekt als Ganzes förderfähigen Kosten.
+
+- –
+
+  Die Zuweisung des Finanzbeitrags der Gemeinschaft erfolgt, sobald:
+
+  - – die tatsächlichen Zahlungen des BBT[^3-4] an die Eurostars-Teilnehmer vorgenommen wurden;
+  - – die entsprechenden Projektabrechnungen vom BBT[^3-5] eingereicht wurden;
+  - – die Eurostars-Teilnehmer die Fortschrittsberichte eingereicht haben;
+  - – die vorgenannten Abrechnungen und Fortschrittsberichte vom EUREKA-Sekretariat genehmigt wurden.
+
+- – Durch den Finanzbeitrag der Gemeinschaft sollen weder dem BBT[^3-6] noch den Eurostars-Teilnehmern Gewinne erwachsen.
+- 3\.2 Erfüllungspflichten des EUREKA-Sekretariats
+
+[^3-1]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^3-2]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^3-3]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^3-4]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^3-5]: Heute: vom SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^3-6]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 4
+
+**Verpflichtungen des BBT[^4-1]**
+
+- 4\.1 Finanzielle Verpflichtungen des BBT[^4-2]
+
+Das BBT[^4-3] verpflichtet sich:
+
+- a) jährlich, gemäss der Absichtserklärung der Schweiz (Anhang 1) und der für jeden Schlusstermin des Eurostars Joint Programme vorgelegten Verpflichtungserklärung (*Declaration of Commitments*) des BBT[^4-4] einen Beitrag zur Finanzierung des Eurostars Joint Programme zu leisten;
+- b) die zulässigen Eurostars-Teilnehmer, bei denen es sich nicht um natürliche Personen handeln darf, unter Einhaltung der Reihenfolge der endgültigen, durch die Eurostars HLG genehmigten Rangliste und gemäss seinen jeweiligen, vorgängig festgelegten nationalen Finanzierungsregeln aus seinem für das Eurostars Joint Programme vorgesehenen nationalen Budget finanziell zu unterstützen;
+- c) Eurostars-Teilnehmern vor deren Unterzeichnung einer im Einklang mit diesem Abkommen stehenden Konsortialvereinbarung keine Finanzbeiträge auszurichten;
+- d) alles Notwendige zu unternehmen, um zusätzliche Finanzmittel für die Eurostars-Teilnehmer zu beschaffen, falls das vorgesehene nationale Budget ausgeschöpft ist;
+- e) effektive Massnahmen zu ergreifen, um eine Doppelfinanzierung von Eurostars-Projekten aus anderen Finanzierungsquellen der Gemeinschaft, insbesondere aus dem Siebten Rahmenprogramm, zu vermeiden. Zu diesem Zweck wird eine besondere, diesbezügliche Bestimmung in die Vereinbarungen zwischen dem BBT[^4-5] und den Eurostars-Teilnehmern aufgenommen;
+- f) sicherzustellen, dass sein Finanzbeitrag an Eurostars-Teilnehmer keine aus anderen Quellen stammenden Finanzmittel der EU enthält und dass die Grundsätze nach Artikel 109 der Haushaltsordnung (Transparenz, Gleichbehandlung, Rückwirkungsverbot, Kumulierungsverbot, Kofinanzierung und Verbot von Gewinnstreben/Gewinnerzielung) eingehalten werden;
+- g) sicherzustellen, dass die Vorschriften des Gemeinschaftsrahmens für staatliche Beihilfen für Forschung, Entwicklung und Innovation vom 30. Dezember 2006 (nachstehend «Gemeinschaftsrahmen» genannt)[^4-6] eingehalten werden;
+- h) sicherzustellen, dass das nationale Förderprogramm mit den allgemeinen Förderkriterien für Eurostars übereinstimmt, wobei dieses Förderprogramm nicht im Widerspruch zur Entscheidung und insbesondere zu ihrem Anhang I oder zu irgendeiner Vorschrift der Gemeinschaft[^4-7] stehen darf und nicht geeignet sein darf, den Ruf der EG zu gefährden;
+- i) anteilsmässig für alle Verbindlichkeiten zu haften, die der Europäischen Gemeinschaft nach den Bestimmungen von Artikel 5.4. dieses Abkommens über das EUREKA-Sekretariat geschuldet werden.
+- 4\.2 Erfüllungspflichten des BBT[^4-8]
+- 4\.2.1 Das BBT[^4-9] verpflichtet sich wie folgt:
+- a) Das BBT[^4-10] übermittelt dem EUREKA-Sekretariat vor oder umgehend nach der Unterzeichnung dieses Abkommens eine Zusicherungserklärung der zuständigen öffentlichen Stelle, unter welcher das BBT[^4-11] arbeitet. Darin wird erklärt, dass das interne Kontrollsystem des BBT[^4-12] angemessen ist und einen Schutz der finanziellen Interessen der Gemeinschaft in Übereinstimmung mit der (von der Kommission gestützt auf die Entscheidung ausgearbeiteten) Richtlinie über die Funktionsweise und Überwachung des internen Kontrollsystems der speziellen Durchführungsstelle (das EUREKA-Sekretariat) und des BBT[^4-13] gewährleistet. Die Zusicherungserklärung ist durch einen Bericht oder durch einen sonstigen Nachweis zu ergänzen.
+- Fehlen die Zusicherungserklärung oder die Nachweise, auf die sie sich stützt, oder sind die stützenden Nachweise nicht ausreichend, kann das EUREKA-Sekretariat dieses Abkommen gemäss Artikel 11 aussetzen oder kündigen.
+- Das EUREKA-Sekretariat behält sich das Recht vor, jederzeit eine eigene Untersuchung durchzuführen. Die Untersuchung kann durch eine vom BBT[^4-14] unabhängigen Prüfstelle durchgeführt werden.
+- Ist das EUREKA-Sekretariat nicht davon überzeugt, dass das interne Kontrollsystem des BBT[^4-15] geeignet ist, die finanziellen Interessen der Gemeinschaft ausreichend zu gewährleisten, behält es sich das Recht vor, dem BBT[^4-16] eine Liste mit Empfehlungen und einen Aktionsplan mit Zeitplan für die effektive Beseitigung der festgestellten Schwächen zu übermitteln. Bis zur Umsetzung der erforderlichen Änderungen können Transaktionen mit dem BBT[^4-17] für eine dem Ausmass der identifizierten Probleme entsprechende Dauer, höchstens aber für 12 Monate, nur auf vorläufiger Basis erfolgen. Die Fortschritte werden regelmässig überwacht.
+- Setzt das BBT[^4-18] einen solchen Mängelbeseitigungsplan nicht innerhalb der festgelegten Frist um und tätigt es während dieser Zeit Ausgaben, werden diese Ausgaben möglicherweise vom Gemeinschaftsbeitrag ausgeschlossen.
+- b) Das BBT[^4-19] übermittelt dem EUREKA-Sekretariat die Finanzierungsregeln des zugrunde liegenden nationalen Programms der Schweiz sowie die Förderkriterien für Kosten und stellt deren Einhaltung sicher.
+- c) Das BBT[^4-20] übermittelt dem EUREKA-Sekretariat innerhalb von 17 Wochen nach dem jeweiligen Schlusstermin die Liste der Eurostars-Teilnehmer, die einen Finanzbeitrag erhalten sollen, sowie den Gesamtbetrag der geplanten Finanzhilfen.
+- d) Das BBT[^4-21] nimmt innerhalb von fünf Wochen nach dem Ausstellungsdatum der schriftlichen Information der Antragsteller über das Ergebnis der Begutachtung, die den Projektteilnehmern vom EUREKA-Sekretariat zugestellt wird (*Eurostars Evaluation D**e**cision Letter*), mit den Eurostars-Teilnehmern Vertragsverhandlungen auf, die auch den nationalen Finanzierungbeschluss umfassen.
+- e)
+
+  Das BBT[^4-22] übermittelt dem EUREKA-Sekretariat jährlich eine von der gesetzlichen Vertreterin/vom gesetzlichen Vertreter des BBT[^4-23] unterzeichnete Zuverlässigkeitserklärung (*Statement of Assurance,* siehe Muster in Anhang 2 mit der Bezeichnung *Declaration of Commitments* (Verpflichtungserklärung)), in der aufgrund ihrer/seiner Einschätzung und der ihr/ihm zur Verfügung stehenden Informationen (u.a. die Arbeitsergebnisse der internen Revisionsstelle) Folgendes erklärt wird:
+
+  - – Die vorgelegten Rechnungen vermitteln nach ihrem/seinem besten Wissen und Gewissen ein wahrheitsgetreues, vollständiges und korrektes Bild der Ausgaben und Einnahmen der jeweiligen Haushaltsperiode. Insbesondere wurden alle ihr/ihm bekannten Ausstände, Vorschüsse und Sicherheiten in den Rechnungen verzeichnet und alle im Zusammenhang mit den EU-Beiträgen eingegangenen Einnahmen ordnungsgemäss in den Rechnungen verzeichnet und über das EUREKA-Sekretariat der Kommission gutgeschrieben.
+  - – Das von ihr/ihm aufgebaute System bietet ausreichend Gewähr für die Rechts- und Ordnungsmässigkeit der betreffenden Geschäftstransaktionen, u.a. auch dafür, dass die Förderfähigkeit der Anträge der Begünstigten und das Verfahren für die Gewährung der Finanzhilfen in Übereinstimmung mit den Vorschriften der relevanten Rechtsakte der Gemeinschaft, der Rechtsakte zur Einrichtung des Eurostars Joint Programme und mit jeglichen sonstigen Anforderungen des EUREKA-Sekretariats verwaltet, kontrolliert und dokumentiert werden.
+  - – Sie/er bestätigt insbesondere dass (1) sie/er keine Kenntnis von nicht gemeldeten Angelegen hat, die die finanziellen Interessen der Gemeinschaft schädigen könnten, dass (2) die gegenüber dem EUREKA-Sekretariat geltend gemachten Kosten korrekt sind, dass (3) die Zahlungen an die Eurostars-Teilnehmer geleistet wurden und dass (4) die Kontrollen und Audits durchgeführt wurden, um zu prüfen, ob die Kosten den geltenden Vorschriften für die Förderfähigkeit der Kosten entsprechen.
+
+- Diesen Zuverlässigkeitserklärungen ist ein Bericht beizufügen, in dem die im Rahmen einer Kontrolle, einer Prüfung oder eines Audits zur Stützung der Zuverlässigkeitserklärung durchgeführten Arbeiten aufgeführt werden und in dem dargelegt wird, wie die geltend gemachten Kosten berechnet wurden.
+- f) Das BBT[^4-24] übermittelt dem EUREKA-Sekretariat zusammen mit jeder Zuverlässigkeitserklärung und auf deren Grundlage den entsprechenden Antrag auf Zuteilung des Finanzbeitrags der Gemeinschaft.
+- g)
+
+  Das BBT[^4-25] erstattet dem EUREKA-Sekretariat jährlich Bericht über:
+
+  - – die Zahlungen aus dem für das Eurostars-Programm vorgesehenen nationalen Budget;
+  - – die Verwendung des Finanzbeitrags der Gemeinschaft;
+  - – die beschlossene Prüfstrategie, insbesondere über die Methodik zur Auswahl der zu prüfenden Verträge, die angewendeten Prüfprogramme (oder zumindest eine Erläuterung der durchgeführten Prüfarbeiten) und die Zahl der durchgeführten Prüfungen;
+  - – die einzelnen Ergebnisse der durchgeführten Prüfungen hinsichtlich möglicherweise unzulässiger Kosten sowie hinsichtlich Art, Anzahl und Wiederauftreten von Befunden sowie Art und Höhe der betroffenen Kostenkategorien (sofern anwendbar), insbesondere darüber, ob Unregelmässigkeiten oder Betrug festgestellt wurden;
+  - – den Umfang der geprüften Beträge im Vergleich zum an die Eurostars-Teilnehmer ausgerichteten Gesamtbetrag;
+  - – Folgen aus Fehlern/Unregelmässigkeiten, die entweder bei der Ex-Post-Untersuchung der Revisionsstelle des BBT[^4-26] oder durch die unabhängige Revisionsstelle festgestellt werden, die gegebenenfalls Prüfbescheinigungen für die von den Eurostars-Teilnehmern geltend gemachten Kosten ausstellen;
+  - – die vom BBT[^4-27] beschlossenen Massnahmen zum Schutz der finanziellen Interessen der Gemeinschaft.
+
+- h) Das BBT[^4-28] führt die in den nationalen Rechtsvorschriften und/oder in diesem Abkommen vorgesehenen Kontrollen und Prüfungen der Eurostars-Teilnehmern vor Ort durch und erstattet dem EUREKA-Sekretariat darüber Bericht.
+- i) Das BBT[^4-29] ergreift alle erforderlichen Massnahmen zur Verhinderung möglicher Interessenskonflikte und informiert das EUREKA-Sekretariat unverzüglich über alle Umstände, die einen Interessenskonflikt darstellen oder verursachen könnten. Solche Interessenskonflikte könnten insbesondere auftreten infolge wirtschaftlicher Interessen, politischer oder nationaler Affinitäten, familiärer oder emotionaler Bindungen, aus emotionalen Gründen oder aufgrund anderer gemeinsamer Interessen, die die unparteiische und objektive Erfüllung dieses Abkommens beeinträchtigen könnten.
+- j) Das BBT[^4-30] übermittelt dem EUREKA-Sekretariat die Daten, die für die kontinuierliche und systematische Überprüfung des speziellen Programms und des Siebten Rahmenprogramms sowie für die Evaluation und Folgeabschätzung der Aktivitäten der Gemeinschaft erforderlich sind. Diese Daten können während der gesamten Dauer des Eurostars Joint Programme und bis zu fünf Jahre nach seinem Ende angefordert werden.
+- k) Das BBT[^4-31] trifft die erforderlichen Massnahmen, damit das EUREKA-Sekretariat und die Kommission den Namen und die Kontaktadressen der Eurostars-Teilnehmer, den allgemeinen Zweck des Eurostars-Projekts (in Form der von den Eurostars-Teilnehmern bereitgestellten Zusammenfassung), den Betrag der für das Eurostars-Projekt gewährten Finanzhilfe sowie alle sonstigen Informationen, die das EUREKA-Sekretariat auf Verlangen der Kommission zwecks Sichtbarmachen der Massnahme der Gemeinschaft publizieren muss, in beliebiger Form und über jeden beliebigen Kanal veröffentlichen können.
+- l) Das BBT[^4-32] nimmt in alle Kommunikationsmaterialien, die Aktivitäten im Rahmen des Eurostars-Programms betreffen, das Logo der Gemeinschaft, das Eurostars-Logo, die Eurostars-Projektnummer oder (gegebenenfalls) das Projektakronym auf und weist auf die Kofinanzierung durch die Europäische Gemeinschaft hin.
+- m) Das BBT[^4-33] hält während der Dauer dieses Abkommens und während mindestens fünf Jahren nach dessen Beendigung alle relevanten Dokumente so zugänglich, dass ihre Vollständigkeit, Gültigkeit und Lesbarkeit im Laufe der Zeit gewährleistet ist; dies gilt auch für elektronische Dokumente.
+- 4\.2.2 Darüber hinaus verpflichtet sich das BBT[^4-34]:
+- a) sicherzustellen, dass es sich bei allen Eurostars-Teilnehmern um KMU handelt, die gemäss der Entscheidung berechtigt sind, am Eurostars Joint Programme teilzunehmen und dass diese über stabile und ausreichend finanzielle Mittel verfügen, die ihnen für die gesamte Dauer ihrer Teilnahme am Eurostars-Projekt die Aufrechterhaltung ihrer Aktivitäten ermöglichen;
+- b) alle Anstrengungen zu unternehmen, um sicherzustellen, dass die Eurostars-Teilnehmer über die für die Beteiligung am Eurostars-Projekt erforderlichen Ressourcen verfügen;
+- c) sicherzustellen, dass der Hauptteilnehmer das BBT[^4-35], den nationalen Projektkoordinator EUREKA und das EUREKA-Sekretariat über alle wichtigen Änderungen betreffend Ziele, Dauer, Budget und Zusammensetzung des Konsortiums informiert, die während der Durchführung des Projekts eintreten, und um vorherige Genehmigung dieser Änderungen durch das EUREKA-Sekretariat nachsucht;
+- d) sicherzustellen, dass die Eurostars-Teilnehmer einen Konsortialvertrag unterzeichnen, der sich insbesondere mit Fragen zu den geistigen Eigentumsrechten (IPR) befasst. Damit soll gewährleistet werden, dass die KMU von den geistigen Eigentumsrechten profitieren und die Projektergebnisse auf der Grundlage des nach den Beteiligungsregeln (*Rules for Participa**tion*)[^4-36] des Siebten Rahmenprogramms gewählten Ansatzes verwerten können;
+- e) zu gewährleisten, dass der Hauptteilnehmer alle sechs Monate sowie am Ende des Eurostars-Projekt in englischer Sprache über die Fortschritte des gesamten Eurostars-Projekts Bericht erstattet. Hierfür ist das vom EUREKA-Sekretariat bereitgestellte Berichtsformular zu nutzen;
+- f) sicherzustellen, dass die Eurostars-Teilnehmer dem EUREKA-Sekretariat (i) auf dessen Verlangen während der Durchführung des Eurostars-Projekts und (ii) bis vier[^4-37] Jahre nach Projektende jährlich genaue Informationen zur Verwertung der Projektergebnisse zur Verfügung stellen;
+- g) sicherzustellen, dass die Eurostars-Teilnehmer dem EUREKA-Sekretariat während der Laufzeit ihres Eurostars-Projekts jährlich angemessenes Werbematerial zur Verfügung stellen;
+- h) die notwendigen Vorkehrungen zu treffen, damit das EUREKA-Sekretariat zwecks Förderung des Eurostars Joint Programme jedes Eurostars-Projekt als Fallstudie oder Erfolgsgeschichte nutzen kann;
+- i) sicherzustellen, dass die Eurostars-Teilnehmer in alle Kommunikationsmaterialen, die aus den Aktivitäten des Eurostars-Programms hervorgehen oder die im Zusammenhang mit dem Eurostars-Programm stehen, das Logo der Gemeinschaft, das Eurostars-Logo, die Eurostars-Projektnummer und das Akronym des Eurostars-Projekts aufnehmen. Im Begleittext ist deutlich darauf hinzuweisen, dass Eurostars durch die Europäische Gemeinschaft kofinanziert wird;
+- j) die notwendigen Vorkehrungen zu treffen, damit das EUREKA-Sekretariat und/oder die Kommission Audits oder Kontrollen bei Eurostars-Teilnehmern durchführen können, deren Kosten gemäss den Regeln und Modalitäten in Anhang C des Abkommens vom 25. Juni 2007[^4-38] über wissenschaftlich-technische Zusammenarbeit zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft andererseits ganz oder teilweise durch den Beitrag der Gemeinschaft erstattet werden;
+- k) sicherzustellen, dass in den Anträgen auf Zuteilung des Gemeinschaftsbeitrags nur die laut der Entscheidung und insbesondere ihrem Anhang I förderfähigen Kosten berücksichtigt werden;
+- l) die notwendigen Vorkehrungen zu treffen, damit das EUREKA-Sekretariat der Kommission Informationen über in Artikel 93 Absatz 1 Buchstabe e der Haushaltsordnung genannte Bewerber und Bieter übermitteln kann, wenn das Verhalten des betreffenden Beteiligten den finanziellen Interessen der Europäischen Gemeinschaft abträglich war.
+
+[^4-1]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-2]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-3]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-4]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-5]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-6]: ABl C 323,30, 30.12.2006, S. 1. Die Schweiz ist nicht an bestimmte Verfahrensregeln gebunden, die nur für EU-Mitgliedsstaaten gelten. Dies betrifft insbesondere Art. 10.1. des Gemeinschaftsrahmens.
+[^4-7]: Die Vorschriften der Gemeinschaft gelten für die Schweiz nur dann, wenn sie sich vorgängig bereit erklärt hat, diese als bindend zu betrachten.
+[^4-8]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-9]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-10]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-11]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-12]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-13]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-14]: Heute: vom SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-15]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-16]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-17]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-18]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-19]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-20]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-21]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-22]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-23]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-24]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-25]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-26]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-27]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-28]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-29]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-30]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-31]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-32]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-33]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-34]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-35]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^4-36]: ABl. L 391 vom 30.12.2006, S. 1
+[^4-37]: Gemäss EUREKA-Regeln
+[^4-38]: ABl. L 189 vom 20.07.2007, S. 26–39; [SR 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
+
+#### Art. 5
+
+**Finanzielle Bestimmungen**
+
+Die Zahlungen durch das EUREKA-Sekretariat erfolgen in Euro.
+
+Anträge auf Zuteilung des Gemeinschaftsbeitrags sind an die Buchhaltung des EUREKA-Sekretariats zu richten.
+
+Das EUREKA-Sekretariat überweist den Gemeinschaftsbeitrag spätestens 30 Tage nach Eingang des Antrags des BBT[^5-1] auf das folgende Konto:
+
+Voraussetzung für die Überweisung ist, dass alle Anforderungen gemäss diesem Abkommen erfüllt sind und dass es dem Endbegünstigte nicht untersagt ist, direkte oder indirekte Finanzhilfen aus dem Budget der Europäischen Gemeinschaften zu erhalten, was namentlich der Fall ist, wenn der Betroffene in der in Artikel 95 der Haushaltsordnung vorgesehenen Datenbank aufgeführt wird.
+
+Unvollständige Bankverbindungsdaten haben eine Nichtbezahlung zur Folge.
+
+Das BBT[^5-2] verpflichtet sich, seine Finanzhilfe an die Eurostars-Teilnehmer innerhalb von 90 Tagen nach Genehmigung der endgültigen Liste der Finanzzusagen gemäss den geltenden nationalen Regeln zu leisten.
+
+Das BBT[^5-3] meldet dem EUREKA-Sekretariat die Kosten in Euro.
+
+Kosten, die in anderen Währungen anfallen, werden gemäss der üblichen Buchhaltungspraxis des BBT[^5-4] umgerechnet. Der Umrechnungsbetrag übersteigt niemals den Betrag, der mithilfe des Kurses der Europäischen Zentralbank (EZB) ermittelt wurde, der am Tag galt, an dem den Eurostars-Teilnehmern die Kosten entstanden oder den Betrag, der mithilfe des EZB-Kurses ermittelt wurde, der am ersten Tag des Monats nach dem Ende des Berichtzeitraums Gültigkeit hatte.
+
+Die Gemeinschaftsbeiträge, die das BBT[^5-5] nicht genutzt hat, sind unverzüglich an das EUREKA-Sekretariat zurückzuzahlen:
+
+Hat das EUREKA-Sekretariat dem BBT[^5-6] einen Betrag zu Unrecht ausbezahlt oder ist nach den Bedingungen dieses Abkommens die Wiedereinziehung gerechtfertigt, ist das BBT[^5-7] verpflichtet, dem EUREKA-Sekretariat die fraglichen Beträge zu den von letzterem festgelegten angemessenen Bedingungen und Terminen zurückzuzahlen.
+
+Zahlt das BBT[^5-8] einem Eurostars-Teilnehmer zu Unrecht einen Betrag aus oder ist die Wiedereinziehung nach den Bedingungen dieses Abkommens und/oder nach dem von den Eurostars-Teilnehmern unterzeichneten Vertrag gerechtfertigt, so ist das BBT[^5-9] verpflichtet, dem EUREKA-Sekretariat zu den von letzterem festgelegten Bedingungen und Terminen zurückzuzahlen, ungeachtet dessen, ob der entsprechende Betrag vom betroffenen Eurostars-Teilnehmer tatsächlich zurückerlangt wird; es finden alle auf nationaler Ebene vorgesehenen Sanktionen für den zu Unrecht ausgerichteten Betrag Anwendung.
+
+Die gleichen Vorschriften kommen zur Anwendung, wenn die Kommission infolge fehlender oder verspäteter Berichterstattung durch die Eurostars-Teilnehmer (vgl. Artikel 4.2.2. Buchstabe e) die Rückzahlung des Gemeinschaftsbeitrags verlangt.
+
+Sämtliche Verbindlichkeiten des BBT[^5-10] gemäss diesem Abkommen sind auch als direkte Verbindlichkeit gegenüber der Europäischen Gemeinschaft zu verstehen, und zwar bis zur Höhe des Anteils der Schweiz an die in Artikel 2 Buchstabe e der Entscheidung genannten Gesamtzusagen der teilnehmenden Mitgliedstaaten.
+
+- 5\.1 Modalitäten für Zahlungen an das BBT[^5-11].
+
+<table>
+<tr><td>Postkonto Nr.:</td><td>30-424648-1</td></tr>
+<tr><td>Name der Bank:</td><td>Die Schweizerische Post, Postfinance, Engehaldestrasse 37, 3030 Bern</td></tr>
+<tr><td>Zu Gunsten:</td><td>Bundesamt für Berufsbildung und Technologie BBT[^5-12] CH-3003 Bern</td></tr>
+<tr><td>IBAN:</td><td>CH8009000000304246481</td></tr>
+<tr><td>SWIFT/BIC:</td><td>POFI CH BE</td></tr>
+<tr><td>Clearingnummer:</td><td>09000</td></tr>
+</table>
+
+- 5\.2 Modalitäten für Zahlungen an Eurostars-Teilnehmer
+
+- 5\.3 Umrechnungskurs
+
+- 5\.4 Wiedereinziehung
+
+<table>
+<tr><td>Name der Bank:</td><td>Dexia Banque Belgique</td></tr>
+<tr><td>Bankadresse:</td><td>Boulevard Pacheco 44, 1000 Brüssel, Belgien</td></tr>
+<tr><td>Kontoinhaber:</td><td>Secrétariat d’EUREKA</td></tr>
+<tr><td>IBAN:</td><td>BE22 5645 1408 6347</td></tr>
+<tr><td>SWIFT-Code:</td><td>GKCCBEBB</td></tr>
+</table>
+
+[^5-1]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-2]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-3]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-4]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-5]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-6]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-7]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-8]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-9]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-10]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-11]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^5-12]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 6
+
+**Überprüfungen und Audits**
+
+Alle Zahlungen an das BBT[^6-1] können Überprüfungen und Audits durch das EUREKA-Sekretariat unterzogen werden und können auf der Grundlage der daraus hervorgegangenen Ergebnisse angepasst oder zurückgefordert werden, und zwar jederzeit während der Durchführung des Eurostars Joint Programme und bis zu fünf Jahre nach dessen Ende.
+
+Diese Überprüfungen und Audits können sich auf beliebige Fragen im Zusammenhang mit der ordnungsmässigen Durchführung des Eurostars Joint Programme erstrecken.
+
+Das EUREKA-Sekretariat ist auch berechtigt, jederzeit zu prüfen, ob das interne Kontrollsystem des BBT[^6-2] eine solide Buchführung und den Schutz der finanziellen Interessen der Gemeinschaft gewährleistet. Diese Überprüfung wird auf der Grundlage regelmässiger Stichproben oder bei Vorliegen berechtigter Gründe durchgeführt (was dem BBT[^6-3] mitzuteilen ist).
+
+All diese Audits oder Überprüfungen werden auf vertraulicher Basis durchgeführt.
+
+Die Kommission ist berechtigt, sämtliche beim oder über das BBT[^6-4] eingeholten Informationen der Haushaltsbehörde der Europäischen Union und an den Rechnungshof weiterzuleiten.
+
+Die Kommission ist berechtigt, beim BBT[^6-5] gemäss den Bestimmungen und Modalitäten in Anhang C des Abkommens vom 25. Juni 2007[^6-6] über wissenschaftlich-technische Zusammenarbeit zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft andererseits Audits und Kontrollen durchzuführen.
+
+Das BBT[^6-7] stellt sicher, dass das Recht des EUREKA-Sekretariats, der Kommission und des Rechnungshof, Audits und Kontrollen durchzuführen, um das Recht erweitert wird, bei den Eurostars-Teilnehmern, deren Kosten ganz oder teilweise durch den Beitrag der Gemeinschaft erstattet werden, zu den gleichen, oben genannten Bedingungen Audits oder Kontrollen durchzuführen.
+
+- 6\.1 Überprüfungen und Audits durch das EUREKA-Sekretariat oder durch vom EUREKA-Sekretariat beauftragte Stellen
+
+- 6\.2 Überprüfungen und Audits durch die Kommission und den Rechnungshof
+
+- 6\.3 Überprüfungen und Audits der Eurostars-Teilnehmer
+
+[^6-1]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^6-2]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^6-3]: Heute: dem SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^6-4]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^6-5]: Heute: beim SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^6-6]: ABl. L 189 vom 20.07.2007, S. 26–39; [SR 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
+[^6-7]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 7
+
+**Haftung**
+
+Jede der Parteien ist für die Erfüllung ihrer Verpflichtungen aus diesem Abkommen allein verantwortlich.
+
+Jede der Parteien hat alleine sicherzustellen, dass ihre Handlungen im Rahmen dieses Abkommens nicht die Rechte Dritter verletzen.
+
+#### Art. 8
+
+**Geistiges Eigentum**
+
+Ziel der Politik des Eurostars Joint Programme auf dem Gebiet des geistigen Eigentums ist die Förderung der Wissensschaffung und die Verwertung und Verbreitung der Projektergebnisse zu Gunsten der Zielgruppe der F&E betreibenden KMU.
+
+Das BBT[^8-1] stellt sicher, dass die KMU von den geistigen Eigentumsrechten profitieren und die Projektergebnisse auf der Grundlage des nach den Beteiligungsregeln[^8-2] des Siebten Rahmenprogramms gewählten Ansatzes verwerten können.
+
+[^8-1]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^8-2]: ABl. L 391 vom 30.12.2006, S. 1
+
+#### Art. 9
+
+**Geheimhaltung**
+
+Die Parteien kommen überein, geeignete Massnahmen zu treffen, um die Vertraulichkeit aller Daten, Dokumente und sonstiger Materialien sicherzustellen, die während der Dauer des Abkommens als vertraulich gekennzeichnet werden. Diese Verpflichtung gilt auch nach Beendigung dieses Abkommens («vertrauliche Informationen»).
+
+Werden vertrauliche Informationen mündlich übermittelt, so hat die offen legende Partei die Vertraulichkeit dieser Informationen innerhalb von zehn Tagen nach ihrer Offenlegung schriftlich zu bestätigen.
+
+Die empfangende Partei ist dafür verantwortlich, dass sich auch ihre Mitarbeitenden an die vorgängig genannten Verpflichtungen halten und sie stellt sicher, dass ihre Mitarbeitenden, soweit dies rechtlich möglich ist, während der Dauer und nach Beendigung dieses Abkommens und/oder nach Beendigung ihres Arbeitsverhältnisses an diese Verpflichtungen gebunden bleiben.
+
+Das bedeutet auch, dass jede der Parteien, die vertrauliche Informationen empfängt («empfangende Partei»), verpflichtet ist:
+
+- – diese ausschliesslich für die Zwecke zu nutzen, für die sie offengelegt wurden;
+- – einer Drittpartei vertrauliche Informationen nicht ohne vorherige, schriftliche Genehmigung der Partei, die die Informationen offengelegt hat, preiszugeben;
+- – sicherzustellen, dass die interne Weitergabe der vertraulichen Informationen durch eine empfangende Partei ausschliesslich an Personen erfolgt, die von diesen Informationen unbedingt Kenntnis haben müssen, und
+- – der offen legenden Partei auf Verlangen sämtliche vertraulichen Informationen zurückzugeben, die der empfangenden Partei zur Verfügung gestellt oder von dieser erlangt wurden – einschliesslich aller davon angefertigten Kopien – und alle in maschinenlesbarer Form gespeicherten Informationen zu löschen. Die empfangende Partei ist jedoch berechtigt, eine ausschliesslich zu Archivierungszwecken dienende Kopie der Informationen zurückzubehalten, wenn diese für die Erfüllung laufender Verpflichtungen notwendig ist.
+
+Die Geheimhaltungspflicht entfällt, wenn:
+
+- – die vertraulichen Informationen ohne eine Verletzung der Geheimhaltungspflicht öffentlich zugänglich werden;
+- – die offen legende Partei der empfangenden Partei zu einem späteren Zeitpunkt mitteilt, dass die vertraulichen Informationen nicht mehr vertraulich sind;
+- – die vertraulichen Informationen der empfangenden Partei zu einem späteren Zeitpunkt ohne Geheimhaltungspflicht von einem Dritten mitgeteilt werden, der rechtsmässiger Besitzer dieser Informationen ist und keiner Geheimhaltungspflicht unterliegt;
+- – das nationale Recht einer der Parteien die Offenlegung oder Mitteilung der vertraulichen Informationen verlangt.
+
+#### Art. 10
+
+**Inkrafttreten, Dauer des Abkommens**
+
+Dieses Abkommen tritt am Datum in Kraft, an dem die letzte Unterschrift unter das Abkommen geleistet wird und es läuft, je nachdem, was früher eintritt, (a) bis zu seiner Kündigung gemäss Artikel 11 oder (b) bis zur vollständigen Erfüllung aller Verpflichtungen, die von den Parteien im Rahmen dieses Abkommens eingegangen werden.
+
+Die Laufzeit dieses Abkommens kann in schriftlichem Einvernehmen beider Parteien verlängert werden.
+
+Die Bestimmungen zu Geheimhaltung, Veröffentlichungen und geistigem Eigentum sind über den Ablauf oder die Kündigung dieses Abkommens hinaus gültig, soweit dies notwendig ist, damit die Parteien die in diesen Bestimmungen vorgesehenen Rechtsmittel und Vorteile geltend machen können.
+
+Die Kosten im Zusammenhang mit den Eurostars-Projekten, die im Anschluss an den ersten, zweiten, dritten und vierten Aufruf zur Einreichung von Anträgen ausgewählt wurden, sind förderfähig.
+
+#### Art. 11
+
+**Aussetzung und Kündigung**
+
+<sup>1.</sup> Die Aussetzung tritt vier Kalendertage nach Erhalt der entsprechenden Benachrichtigung in Kraft.
+
+Dieses Abkommen kann vom EUREKA-Sekretariat ausgesetzt werden, wenn:
+
+- a) die zwischen dem EUREKA-Sekretariat und der Kommission abgeschlossene Delegierungsvereinbarung ausgesetzt wird. Dies gilt auch für den Fall, dass die Finanzierungsvereinbarung nicht verlängert wird;
+- b) das BBT[^11-1] die Verpflichtungen aus diesem Abkommen nicht erfüllt;
+- c) die Beteiligung des BBT[^11-2] am Eurostars Joint Programme aufgrund einer Entscheidung der Eurostars HLG ausgesetzt wird.
+
+<sup>2.</sup> Dieses Abkommen kann vom EUREKA-Sekretariat gekündigt werden, wenn die zwischen dem EUREKA-Sekretariat und der Kommission geschlossene Delegierungsvereinbarung gekündigt wird. Die Kündigung tritt am in der Benachrichtigung genannten Datum in Kraft.
+
+<sup>3.</sup> Die Schweiz kann dieses Abkommen durch schriftliche Mitteilung an das EUREKA-Sekretariat jederzeit aussetzen oder kündigen. In diesem Fall erlischt das Abkommen 90 Tage nach dem Datum der schriftlichen Mitteilung.
+
+<sup>4.</sup> Zum Zeitpunkt der Aussetzung oder Kündigung dieses Abkommens laufende Projekte und Aktivitäten werden bis zu deren Beendigung gemäss den Bestimmungen dieses Abkommens weitergeführt. Die Parteien einigen sich gemeinsam über weitere Folgen der Aussetzung oder Kündigung dieses Abkommens.
+
+[^11-1]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^11-2]: Heute: des SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 12
+
+**Mitteilungen und Benachrichtigungen**
+
+oder an sonstige Adressen und Empfänger, die von einer der Parteien der anderen Partei schriftlich mitgeteilt werden.
+
+Jede der Parteien informiert die andere Partei unverzüglich und schriftlich über Änderungen der vorgenannten Namen und Adressen.
+
+Sämtliche Mitteilungen und Benachrichtigungen sind schriftlich an folgende Adressen zu übermitteln:
+
+- – An das EUREKA-Sekretariat
+  - Herr Luuk Borg Rue Neerveld 107 1200 Brüssel Belgien Tel.: +32 2 777 09 50
+
+- – An das Bundesamt für Berufsbildung und Technologie BBT[^12-1]
+  - Frau Ursula Renold Effingerstrasse 27 3003 Bern Schweiz Tel.: +41 31 32 37612
+
+[^12-1]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 13
+
+**Änderungen**
+
+Änderungen oder Ergänzungen dieses Abkommens bedürfen zu ihrer Gültigkeit der Schriftform und der Unterzeichnung durch einen Unterschriftsbevollmächtigten jeder der Parteien.
+
+Dieses Abkommen ist zu ändern oder zu ergänzen, wenn eine Bestimmung oder mehrere der Bestimmungen dieses Abkommens oder der in Zusammenhang mit diesem Abkommen ausgefertigten Dokumente nicht übereinstimmt/nicht übereinstimmen mit der zwischen der Kommission (im Auftrag der Gemeinschaft) und dem EUREKA-Sekretariat geschlossenen Delegierungsvereinbarung, in der die Regelungen für den Finanzbeitrag der Gemeinschaft zum Eurostars Joint Programme festgelegt sind, der Entscheidung und/oder den ausführlichen Vorschriften für die Gewährung der Finanzhilfen durch das EUREKA-Sekretariat an das BBT[^13-1] und den jährlichen Finanzierungsvereinbarungen.
+
+[^13-1]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 14
+
+**Sprache**
+
+In allen Dokumenten und Benachrichtigungen, einschliesslich Berichte und Arbeitsergebnisse, sowie in allen Sitzungen, die gemäss diesem Abkommen oder in Zusammenhang mit diesem Abkommen durchgeführt werden, ist die englische Sprache zu verwenden.
+
+Sämtliche Übersetzungen dienen lediglich dem besseren Verständnis und haben keine rechtliche Wirkung.
+
+#### Art. 15
+
+**Anwendbares Recht**
+
+Dieses Abkommen und alle Angelegenheiten, die sich daraus ergeben, unterliegen internationalem Recht.
+
+#### Art. 16
+
+**Beilegung von Streitfällen**
+
+Sämtliche Streitigkeiten zwischen den Parteien bezüglich Auslegung, Anwendung oder Gültigkeit dieses Abkommens, die nicht einvernehmlich beigelegt werden können, werden nach der Schiedsgerichtsordnung der Internationalen Handelskammer (ICC) von einem oder mehreren gemäss dieser Ordnung ernannten Schiedsrichter(n) endgültig entschieden.
+
+Wenn von den Konfliktparteien nicht anders vereinbart, ist der Schiedsort Brüssel.
+
+Der Schiedsspruch ist für beide Parteien endgültig und bindend.
+
+#### Art. 17
+
+**Salvatorische Klausel**
+
+Sollte(n) eine oder mehrere der Bestimmungen dieses Abkommens oder eines im Zusammenhang mit diesem Abkommen ausgefertigten Dokuments von einem zuständigen Gericht oder einer zuständigen Behörde nach einem anwendbaren Recht, einschliesslich des Wettbewerbsrechts, in irgendeiner Hinsicht für unwirksam, rechtswidrig oder nicht durchsetzbar befunden werden, so werden die Wirksamkeit, Rechtsmässigkeit und Durchsetzbarkeit der übrigen Bestimmungen dieses Abkommens oder Dokuments keinesfalls berührt oder beeinträchtigt; dies gilt jedoch nur, soweit sich die Parteien in diesem Fall verpflichten, alle wirtschaftlich vertretbaren Anstrengungen zu unternehmen, um die Zielsetzung der unwirksamen Bestimmung durch eine neue, rechtsgültige Bestimmung zu erfüllen, die den gleichen (oder einen im Wesentlichen ähnlichen) wirtschaftlichen Nutzen oder die gleiche (oder eine im Wesentlichen ähnliche) wirtschaftliche Belastung bewirkt.
+
+#### Art. 18
+
+**Abtretungen**
+
+Das BBT[^18-1] tritt ihm aus diesem Abkommen zustehende Rechte und Pflichten nur mit vorheriger und schriftlicher Genehmigung der Kommission, der Eurostars HLG und des EUREKA-Sekretariats ab.
+
+Das EUREKA-Sekretariat tritt ihm zustehende Rechte und Pflichten nur mit vorheriger und schriftlicher Genehmigung der Kommission und der Eurostars HLG ab.
+
+Verfasst in zwei Urschriften in englischer Sprache in Brüssel am 14. September 2010.
+
+<table>
+<tr><td>Das EUREKA-Sekretariat Luuk Borg</td><td>Das Bundesamt für Berufsbildung und Technologie BBT[^18-2] im Namen des Schweizerischen Bundesrats: Ursula Renold</td></tr>
+</table>
+
+[^18-1]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^18-2]: Heute: das SBFI (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).

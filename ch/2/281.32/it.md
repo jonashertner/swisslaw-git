@@ -1,0 +1,1169 @@
+---
+sr: "281.32"
+title: "Regolamento del 13 luglio 1911 concernente l'amministrazione degli uffici dei fallimenti (RUF)"
+short: RUF
+eli: "https://fedlex.data.admin.ch/eli/cc/27/751_749_771"
+language: it
+version: 1997-01-01
+adopted: 1911-07-13
+in_force: 1912-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/19970101/it/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-19970101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/19970101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Regolamento concernente l’amministrazione degli uffici dei fallimenti****
+
+(RUF)**[^t-2]**[^t-1]
+
+del 13 luglio 1911 (Stato 1° gennaio 1997)
+
+[^t-1]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
+[^t-2]: Abbreviazione introdotta dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)[3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)).
+
+Il Tribunale federale svizzero,
+
+in applicazione dell’articolo 15 della legge federale sull’esecuzione e sul fallimento[^ingress-1] (LEF),[^ingress-2]
+
+decreta:
+
+[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+## A. Protocollo, atti e contabilità
+
+### I. Disposizioni generali
+
+### 1. Elenchi e registri obbligatori
+
+#### Art. 1
+
+[^1-1]
+
+Gli uffici dei fallimenti devono tenere a giorno i seguenti elenchi e libri:
+
+- 1\. un elenco dei fallimenti e delle rogatorie di altri uffici relative ad operazioni di fallimento;
+- 2\. un libro di cassa;
+- 3\. un mastro;
+- 4\. un registro dei bilanci.
+
+[^1-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 2. Formulari obbligatori
+
+#### Art. 2
+
+Si dovrà far uso di formulari uniformi per gli atti seguenti:
+
+- 1\. Protocollo delle operazioni del fallimento.
+- 2\. Inventario.
+- 3\. Elenco delle insinuazioni dei creditori.
+- 4\. Invito all’assemblea dei creditori.
+- 5\. Graduatoria.
+- 6\. Cessione di pretese della massa in base all’articolo 260 LEF.
+- 7\.[^2-1] Pubblicazione degli incanti ai sensi dell’articolo 257 LEF.
+- 8\. Conto finale e stato di riparto.
+- 9\. Avviso di deposito dello stato di riparto ai creditori ed al fallito.
+- 10\. Atto di carenza di beni.
+- 11\. Conto tasse e spese.
+- 12\.[^2-2] …
+- 13\. Pubblicazioni relative all’apertura del fallimento, al deposito della graduatoria, alla revoca del fallimento, alla sospensione e alla chiusura del fallimento.
+
+[^2-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^2-2]: Abrogato dal n. I del D del TF del 16 dic. 1988, con effetto dal 16 dic. 1988 ([RU 1989 262](https://fedlex.data.admin.ch/eli/oc/1989/262_262_262)).
+
+### 3. Moduli per libri, elenchi e formulari
+
+#### Art. 3
+
+<sup>1</sup> I libri, elenchi e formulari indicati negli articoli 1 e 2 devono essere tenuti in conformità dei moduli stabiliti nel supplemento annesso[^3-1] al presente regolamento.
+
+<sup>2</sup> I Cantoni potranno permettere o prescrivere altri formulari (per verbali d’incanto, avvisi, ecc.).
+
+[^3-1]: Non pubblicato nella RU.
+
+### 4. Elenco dei fallimenti
+
+#### Art. 4
+
+[^4-1]
+
+Le iscrizioni nell’elenco dei fallimenti si fanno in ordine cronologico, secondo la data della notifica all’ufficio, e vengono numerate progressivamente. La numerazione progressiva dovrà essere cominciata ogni anno. Alla fine d’ogni anno l’elenco è chiuso. I fallimenti non liquidati dell’anno precedente saranno indicati succintamente nell’elenco dell’anno successivo. In fine all’elenco dovrà aggiungersi un registro dei nomi dei falliti in ordine alfabetico.
+
+[^4-1]: Nel testo tedesco e francese l’ultimo per. costituisce un cpv. 2.
+
+### 5. Comunicazioni ricevute e pubblicazioni
+
+#### Art. 5
+
+<sup>1</sup> L’ufficio dovrà unire agli atti una copia di tutte le comunicazioni da esso fatte.[^5-1]
+
+<sup>2</sup> Per ogni invio di danaro o di valori, come pure per ogni lettera raccomandata deve essere richiesta una ricevuta da unirsi agli atti, oppure iscritta in un libretto postale.
+
+<sup>3</sup> Se la comunicazione viene fatta mediante iscrizione in un pubblico foglio, un esemplare di esso, oppure un ritaglio portante la data della pubblicazione dovrà essere unito agli atti del fallimento.
+
+[^5-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 6. Gestione da parte del supplente
+
+#### Art. 6
+
+<sup>1</sup> Se l’ufficiale di fallimento non può funzionare per causa di legale impedimento, trasmetterà senza indugio gli atti al suo supplente. Ove anche questi non possa funzionare, e debba per ciò essere nominato un supplente straordinario, l’ufficiale dei fallimenti inviterà la competente autorità cantonale a procedere a tale nomina.
+
+<sup>2</sup> I fallimenti liquidati dal supplente vengono sempre iscritti nell’elenco dei fallimenti tenuto dall’ufficio competente. Nella colonna *«*osservazioni*»* si accennerà al fatto che il fallimento fu liquidato dal supplente ordinario o straordinario, indicando la causa dell’impedimento dell’ufficiale.
+
+<sup>3</sup> Il supplente deve indicare la sua qualità di supplente in tutti gli atti per i quali occorre la sua firma. Dopo la liquidazione del fallimento, trasmetterà il processo verbale e gli atti all’ufficio competente.
+
+### 7. Consegna dell’ufficio in caso di cambiamento del titolare
+
+#### Art. 7
+
+<sup>1</sup> Ad ogni cambiamento di ufficiale dovrà essere fatta regolare consegna dell’ufficio al nuovo titolare sotto la direzione di un funzionario da nominarsi dall’autorità cantonale di vigilanza. Tutti i libri verranno chiusi e firmati di proprio pugno dal titolare scaduto. Si procederà pure all’esame della contabilità, verificando se l’esistenza di cassa corrisponde all’ammontare dei saldi dei diversi conti correnti, dedotte le somme depositate alla Cassa dei depositi. La data in cui ebbe termine la gestione del titolare scaduto, nonchè quella dell’inizio della gestione del nuovo titolare saranno indicate nei registri.
+
+<sup>2</sup> Dell’atto di consegna dovrà essere steso processo verbale firmato da tutte le persone che vi assistettero.
+
+### II. Tenuta del protocollo del fallimento
+
+### Protocollo del fallimento
+
+### a. Scopo e contenuto
+
+#### Art. 8
+
+[^8-1]
+
+Gli ufficiali dei fallimenti devono tenere un protocollo per ogni fallimento anche se sospeso per mancanza di attivo, nonchè per ogni richiesta di operazioni di fallimento proveniente da altro ufficio. Il protocollo verrà iniziato appena ricevuto il decreto di fallimento o la richiesta, e dovrà essere tenuto costantemente a giorno, iscrivendovi immediatamente e per ordine cronologico tutte le operazioni come pure i fatti che possono avere influenza sulla procedura di fallimento.
+
+[^8-1]: Nel testo francese il secondo per. costituisce un cpv. 2.
+
+### b. Iscrizioni
+
+#### Art. 9
+
+Le iscrizioni devono indicare soltanto il contenuto essenziale di ogni singola operazione o fatto, nella misura necessaria per l’intelligenza del protocollo o per la prova. Le notifiche fatte allo ufficio sono da annotarsi solo in quanto il loro contenuto possa avere una importanza giuridica. Per i provvedimenti, i decreti e le sentenze dell’autorità giudiziaria, basterà l’iscrizione sommaria del dispositivo. Ogni iscrizione dovrà rinviare agli atti relativi sotto la rubrica loro destinata.
+
+### c. Modo di allestire il protocollo e conservazione dello stesso
+
+#### Art. 10
+
+<sup>1</sup> Il protocollo viene tenuto sopra fogli volanti che devono poi essere numerati e legati mediante una copertina portante l’intitolazione prevista dal relativo formulario. Il protocollo vien munito in fine della firma dell’ufficiale e del bollo dell’ufficio.
+
+<sup>2</sup> …[^10-1]
+
+<sup>3</sup> A questo volume vanno uniti come parte integrante: l’inventario, l’elenco delle dichiarazioni dei crediti, il conto finale, i verbali delle assemblee e della delegazione dei creditori, i rapporti dell’amministrazione del fallimento e le decisioni dell’autorità giudiziaria in merito alla chiusura od alla revoca del fallimento.[^10-2]
+
+<sup>4</sup> Se trattasi di rogatoria, tutti gli atti verranno trasmessi all’ufficio richiedente, appena liquidate le operazioni richieste.[^10-3]
+
+[^10-1]: Abrogato dal n. I del D del TF del 5 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^10-2]: Nuovo testo giusta l’art. 5 dell’O del TF del 14 mar. 1938 sulla conservazione dei documenti relativi alle esecuzioni ed ai fallimenti, in vigore dal 30 mar. 1938 ([RU 54 123](https://fedlex.data.admin.ch/eli/oc/54/131_131_123)).
+[^10-3]: Originario cpv. 3.
+
+### d. Consegna degli atti principali a terzi od alla autorità giudiziaria
+
+[^lvlA-lvlII-lvlu1-lvld-1]
+
+[^lvlA-lvlII-lvlu1-lvld-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 11
+
+[^11-1]
+
+Gli atti principali, cioè il protocollo e gli annessi costituenti parte integrante dello stesso a stregua dell’articolo 10, non potranno, di regola generale, essere consegnati a terzi od all’autorità giudiziaria se non nel caso in cui, per speciali circostanze, torni impossibile surrogarli con copie autentiche o coll’audizione dell’amministratore del fallimento.
+
+[^11-1]: Originario art. 12.
+
+### III. Elaborazione elettronica dei dati****
+
+[^lvlA-lvlIII-1]
+
+[^lvlA-lvlIII-1]: Introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### Ammissibilità
+
+#### Art. 12
+
+[^12-1]
+
+La tenuta a giorno degli elenchi e registri indicati nell’articolo 1, l’allestimento degli atti menzionati nell’articolo 2 e le comunicazioni ai sensi dell’articolo 5 possono essere effettuati, con l’autorizzazione dell’autorità di vigilanza cantonale, per mezzo dell’elaborazione elettronica dei dati.
+
+[^12-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### IV. Ordinamento e conservazione degli atti****
+
+[^lvlA-lvlIV-1]
+
+[^lvlA-lvlIV-1]: Originairo n. III.
+
+### 1. Ordinamento e numerazione degli atti
+
+#### Art. 13
+
+<sup>1</sup> L’ufficiale deve tosto apporre sugli atti che gli pervengono la data del loro arrivo.
+
+<sup>2</sup> Sotto riserva delle speciali disposizioni degli articoli 21 e 24 capoverso 2 circa le quietanze e i documenti giustificativi degli sborsi, gli atti d’ogni fallimento devono essere ordinati per gruppi secondo le materie (inventario, rivendicazioni, oggetti impignorabili, graduatorie ecc.), numerati, per ciascun gruppo, in ordine alfabetico o cronologico, e poi riuniti in un classificatore coll’intestazione del fallimento.[^13-1]
+
+<sup>3</sup> Le pezze giustificative prodotte dai creditori porteranno il numero dell’insinuazione, alla quale si riferiscono e saranno contrassegnate con lettere dell’alfabeto.[^13-2]
+
+[^13-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^13-2]: Originario cpv. 2.
+
+### 2. Conservazione
+
+### a. Degli atti
+
+#### Art. 14
+
+[^14-1]
+
+<sup>1</sup> I documenti possono essere distrutti dieci anni dopo la chiusura del fallimento. Possono pure essere distrutti, dieci anni dopo la loro chiusura, i libri di cassa coi documenti giustificativi, i mastri e i registri dei bilanci.
+
+<sup>2</sup> L’elenco dei fallimenti va conservato durante quarant’anni a contare dalla chiusura del fallimento.
+
+[^14-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### b. Dei libri di commercio e delle carte d’affari
+
+#### Art. 15
+
+Per quanto concerne la conservazione dei libri di commercio e delle carte d’affari appartenenti al fallito e presi in custodia dall’ufficio, valgono le seguenti norme:
+
+- 1\. Se l’azienda del fallito viene nel corso della liquidazione alienata con tutte le attività e passività, i libri di commercio e le carte d’affari devono essere consegnati all’acquirente, se ne fa richiesta.
+- 2\.
+
+  Non avvenendo l’alienazione dell’azienda e la conseguente consegna dei libri all’acquirente, si procederà nel modo seguente:[^15-1]
+
+  - a.[^15-2] Ove trattisi del fallimento di una ditta individuale, i libri e le carte saranno, appena chiuso il fallimento, restituiti al fallito, cui incombe in seguito l’obbligo della conservazione durante il termine di dieci anni prescritto dall’articolo 962 del Codice delle obbligazioni[^15-3].
+  - b. In caso di fallimento di una società in nome collettivo od in accomandita, la restituzione dei libri e delle carte verrà fatta al socio illimitatamente responsabile, designato dagli altri soci come depositario. In difetto d’accordo fra i soci, i libri e le carte restano depositati presso l’ufficio dei fallimenti fino a che intervenga un decreto dell’autorità giudiziaria che li attribuisca ad uno di essi, oppure sia trascorso il termine legale di dieci anni dalla data dell’ultima registrazione.
+  - c.[^15-4] I libri di commercio e le carte d’affari di società anonime od associazioni devono, anche dopo la chiusura del fallimento, essere conservati presso l’ufficio fino a che l’autorità preposta al registro di commercio, agendo in conformità dell’articolo 747 del Codice delle obbligazioni, abbia determinato un altro luogo sicuro ove debbano essere conservati per la durata di dieci anni.
+
+- 3\. Qualora non sia possibile affidare al fallito i libri di commercio e le carte d’affari, la loro conservazione incombe all’ufficio dei fallimenti.
+- 4\. Le autorità cantonali di vigilanza prenderanno gli opportuni provvedimenti affinchè quegli uffici i cui locali non si prestano alla conservazione dei libri e delle carte affidate loro a norma delle precedenti disposizioni, abbiano modo di depositarli in un archivio situato in una località centrale.
+
+[^15-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^15-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^15-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-4]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 3. Registrazione su supporti d’immagine e di dati
+
+[^lvlA-lvlIV-lvl3-1]
+
+[^lvlA-lvlIV-lvl3-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 15a
+
+[^15a-1]
+
+<sup>1</sup> Con l’accordo dell’autorità cantonale di vigilanza, i documenti che devono essere conservati possono essere registrati su supporti d’immagini o di dati; gli originali possono in seguito essere distrutti.[^15a-2]
+
+<sup>2</sup> L’autorità cantonale di vigilanza provvede a che siano rispettati i fini perseguiti dal Consiglio federale nella sua ordinanza del 2 giugno 1976[^15a-3] concernente la registrazione di documenti da conservare.
+
+[^15a-1]: Introdotto dal n. I del D del TF del 18 mag. 1979, in vigore dal 1° lug. 1979 ([RU 1979 813](https://fedlex.data.admin.ch/eli/oc/1979/813_813_813)).
+[^15a-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^15a-3]: [[RU 1976 1334](https://fedlex.data.admin.ch/eli/oc/1976/1334_1334_1334). [RU 2002 1399](https://fedlex.data.admin.ch/eli/oc/2002/216)art. 11]. Vedi ora l’O del 24 apr. 2002 sulla tenuta e la conservazione dei libri di commercio ([RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)).
+
+### V. Tenuta dei libri, cassa e contabilità****
+
+[^lvlA-lvlV-1]
+
+[^lvlA-lvlV-1]: Originario n. IV.
+
+### 1. Libro di cassa
+
+#### Art. 16
+
+<sup>1</sup> Nel libro di cassa devono registrarsi senza indugio ed in ordine di data tutti i versamenti fatti all’ufficio ed i pagamenti fatti da esso per conto d’ogni liquidazione, in particolar modo le spese di liquidazione (anticipazioni e saldi), il numerario inventariato, l’importo di crediti incassati, pigioni e canoni d’affitto, il ricavo d’incanti, i pagamenti ricevuti in conto spese e competenze, i versamenti e ritiri di somme alla Cassa dei depositi, il pagamento di dividendi o di acconti.
+
+<sup>2</sup> Ogni iscrizione deve contenere: la data del pagamento, l’indicazione del fallimento, il nome ed il domicilio di chi fa o riceve il pagamento, l’importo della somma incassata o versata (il primo al Dare ed il secondo all’Avere), ed infine il numero della scrittura corrispondente nel mastro.
+
+<sup>3</sup> Il libro di cassa deve essere chiuso ogni mese riportando il saldo a conto nuovo.
+
+### 2. Mastro
+
+### a. In generale
+
+#### Art. 17
+
+<sup>1</sup> Nel libro mastro dovrà aprirsi ad ogni fallimento uno speciale conto corrente contenente un chiaro riassunto di tutte le operazioni di cassa in ordine cronologico, sulla base delle scritture figuranti al libro di cassa e che verrà chiuso appena ultimata la liquidazione.
+
+<sup>2</sup> Le iscrizioni devono contenere: la data del pagamento, il nome ed il domicilio di chi fa o riceve il pagamento, l’indicazione sommaria della natura del pagamento, il riferimento al numero corrispondente della scrittura nel libro di cassa ed infine l’importo delle somme incassate o versate (il primo all’Avere ed il secondo al Dare). Se una sola posta complessiva del libro di cassa comprende diverse poste parziali, dovranno essere iscritte le poste parziali.
+
+### b. Registrazione dei depositi
+
+#### Art. 18
+
+<sup>1</sup> Nel mastro dovrà inoltre aprirsi un conto speciale per le operazioni colla Cassa dei depositi. In questo conto l’ufficio registrerà tutte le somme depositate e ritirate (le prime al Dare, le seconde all’Avere), nonchè i relativi interessi, indicando per conto di quale fallimento sono state fatte le singole operazioni.
+
+<sup>2</sup> I versamenti verranno iscritti alla Cassa dei depositi non al nome dell’ufficio, ma bensì al nome del fallimento al quale si riferiscono. La Cassa dei depositi dovrà quindi aprire un conto speciale ad ogni fallimento.
+
+### 3. Registro dei bilanci
+
+#### Art. 19
+
+<sup>1</sup> I conti mensili di cassa, quali risultano da ogni chiusura del libro cassa (art. 16 cpv. 3) devono essere iscritti nel registro dei bilanci e firmati dall’ufficiale. Il bilancio ha per iscopo di stabilire la concordanza fra le scritture del libro cassa e quelle del libro mastro, come pure la concordanza dell’importo del numerario in cassa e dei versamenti alla Cassa dei depositi, colle scritture del libro cassa e del mastro.
+
+<sup>2</sup> La concordanza fra le scritture del libro cassa e quelle del mastro risulta provata, quando l’importo dei saldi dei singoli conti correnti figuranti al mastro, diminuito del saldo del conto depositi, corrisponde al saldo di cassa. Eventuali errori nelle scritture devono essere ricercati e corretti, prima di riportare il saldo a conto nuovo.
+
+### 4. Requisiti formali delle iscrizioni e delle corretture
+
+#### Art. 20
+
+Le iscrizioni al libro cassa, al mastro ed al registro dei bilanci dovranno farsi con bella calligrafia, senza abrasioni, cancellature, interlinee o spazi in bianco. Gli errori incorsi nelle scritture si correggono mediante aggiunte o storni.
+
+### 5. Quietanze
+
+#### Art. 21
+
+[^21-1]
+
+Per le quietanze (art. 16) l’ufficio potrà o classificare separatamente le quietanze riferentisi ad ogni fallimento, numerandole per ordine di data e riunendole poi in un involto che dovrà portare l’intestazione del fallimento ed essere annesso agli altri atti del fallimento, appena terminata la liquidazione; oppure numerare le quietanze progressivamente secondo l’ordine delle registrazioni al libro cassa, ricominciando ogni anno la numerazione col n. 1, e riunirle poi in fascicoli classificati anno per anno. Il numero d’ordine iscritto sopra ogni quietanza viene, nel primo caso, riportato sul libro mastro, nel secondo caso, sul libro di cassa.
+
+[^21-1]: Nel testo francese la seconda frase (; oppure…) e il secondo per. costituiscono dei cpv. 2 e 3.
+
+### 6. Depositi
+
+#### Art. 22
+
+<sup>1</sup> L’ufficio ha l’obbligo di depositare alla Cassa dei depositi, al più tardi entro il quarto giorno dalla loro ricevuta, tutte le somme di qualche importanza, nonchè i titoli di credito e gli oggetti preziosi (art. 9 e 24 LEF). Esso può però trattenere il danaro necessario per far fronte ad imminenti spese. Il deposito del numerario deve effettuarsi anche se non vengono corrisposti interessi.
+
+<sup>2</sup> In caso di rogatoria, l’ufficio richiesto deve trasmettere all’ufficio requirente il danaro, i titoli di credito e gli oggetti preziosi che gli sono affidati, subito dopo averli ricevuti.
+
+### 7. Registrazioni e cassa separata
+
+#### Art. 23
+
+Agli uffici dei fallimenti è vietato:
+
+- a. di mescolare il danaro appartenente all’ufficio con quello di loro privata proprietà, sia nei rapporti colla cassa dell’ufficio, sia nei rapporti colla Cassa dei depositi;
+- b. ove essi coprano altre pubbliche cariche, di introdurre nel mastro o nel libro di cassa scritture non concernenti l’ufficio dei fallimenti, a meno che tali registrazioni siano fatte in colonne speciali;
+- c. d’impiegare anche solo provvisoriamente il danaro proveniente da una massa per soddisfare gl’impegni di un’altra massa. Le anticipazioni personali fatte dall’ufficiale a favore d’una determinata massa, dovranno tosto essere da lui registrate come tali.
+
+### 8. Conto tasse e spese
+
+#### Art. 24
+
+<sup>1</sup> Per ogni fallimento e per ogni rogatoria l’ufficio terrà, fin dall’inizio delle operazioni, uno speciale conto particolareggiato delle tasse e spese dell’ufficio, quanto dei membri della delegazione dei creditori.
+
+<sup>2</sup> I documenti giustificativi per gli sborsi (spese della massa) saranno numerati progressivamente per ordine di data, riuniti in un fascicolo e conservati insieme con gli altri atti del fallimento, dopo la sua chiusura.
+
+### 9. Altra forma di organizzazione
+
+#### Art. 24a
+
+[^24a-1]
+
+Nella misura in cui adempie i predetti requisiti, l’autorità cantonale di vigilanza può autorizzare un’altra forma di organizzazione per la tenuta dei libri, cassa e contabilità.
+
+[^24a-1]: Introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+## B. Procedura da seguire nei diversi stadi del fallimento****
+
+[^lvlB-1]
+
+[^lvlB-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### I. Determinazione dell’attivo e della procedura****
+
+[^lvlB-lvlI-1]
+
+[^lvlB-lvlI-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### (art. 221 a 231 LEF)
+
+### 1. Inventario
+
+### a. Norme generali
+
+#### Art. 25
+
+<sup>1</sup> Nell’inventario devono figurare in sezioni speciali, ma con numerazione progressiva ininterrotta: i fondi, le carte-valori, i crediti ed altri diritti ed il danaro contante. In fine dell’inventario sarà fatto un riassunto dei valori di stima di ogni categoria. Se non furono rinvenuti enti appartenenti all’una o all’altra categoria, ne sarà fatta menzione nel riassunto.[^25-1]
+
+<sup>2</sup> È però concessa all’ufficiale la facoltà di elencare nell’inventario i diversi beni l’uno dopo l’altro, senza suddividerli in categorie distinte.
+
+<sup>3</sup> Per ogni ente inventariato dovrà essere indicato il luogo dove si trova (circondario di fallimento, Comune, località).
+
+[^25-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### b. Norme speciali per fond
+
+#### Art. 26
+
+[^26-1]
+
+<sup>1</sup> I fondi saranno iscritti nell’inventario in base ad un estratto del registro fondiario coll’indicazione dei diritti reali spettanti a terzi. Basterà però anche un semplice riferimento all’estratto del registro fondiario.
+
+<sup>2</sup> Per i fondi locati o affittati l’inventario dovrà inoltre indicare le persone dei locatari od affittuari, la durata del contratto e l’ammontare del canone locatizio colla relativa scadenza. Tali indicazioni potranno anche essere fatte sopra una lista speciale.
+
+[^26-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### c. Beni situati all’estero. Diritti dipendenti da azioni rivocatorie
+
+#### Art. 27
+
+<sup>1</sup> I beni situati all’estero saranno iscritti nell’inventario senza aver riguardo alla possibilità, o meno, di avocarli alla massa del fallimento aperto in Isvizzera.
+
+<sup>2</sup> I diritti che potessero spettare alla massa in base agli articoli 214 e 285 e segg. LEF, saranno pure elencati nell’inventario, dando loro un valore approssimativo per il caso che l’azione rivocatoria sortisse esito favorevole.
+
+### d. Titoli relativi a diritti di pegno sopra fondi del fallito ed in di lui possesso
+
+#### Art. 28
+
+[^28-1]
+
+I titoli relativi a diritti di pegno sopra fondi di proprietà del fallito, che fossero trovati in suo possesso, non sono inventariati come enti attivi, ma s’iscriveranno nell’inventario solo pro memoria e verranno presi in custodia dall’ufficio (vedi art. 75).
+
+[^28-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### e. Riconoscimento da parte del fallito. Firma dell’inventario
+
+#### Art. 29
+
+<sup>1</sup> L’inventario deve portare la data ed indicare la durata delle operazioni, nonchè i nomi di tutte le persone che vi hanno preso parte.
+
+<sup>2</sup> L’ufficiale ed i periti da lui assunti devono apporre la firma sull’inventario.[^29-1]
+
+<sup>3</sup> Prima di chiudere l’inventario l’ufficiale dovrà interpellare il fallito, se lo riconosce come esatto e completo, richiamando espressamente la sua attenzione sulle conseguenze penali di una dichiarazione inveritiera.
+
+<sup>4</sup> Le dichiarazioni del fallito devono venir trascritte sull’inventario in relazione ad ogni categoria di beni ed esser firmate dal fallito stesso.
+
+[^29-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### f. Riconoscimento in luogo od in nome del fallito
+
+#### Art. 30
+
+[^30-1]
+
+Se il fallito è morto o latitante, sono tenute a fare le dichiarazioni, di cui all’articolo 29 capoversi 3 e 4, le persone adulte con lui conviventi. Ove trattisi del fallimento di una società in nome collettivo od in accomandita, tali dichiarazioni saranno fatte da tutti i soci illimitatamente responsabili che sono presenti all’inventario ed hanno il diritto di amministrare la società. In caso di fallimento di una società anonima od associazione, le dichiarazioni incombono ai suoi organi. Quando non sia possibile di ottenere tali dichiarazioni, se ne indicherà il motivo nell’inventario.
+
+[^30-1]: Nei testi tedesco e francese il quarto per. costituisce un cpv. 2.
+
+### g. Oggetti non pignorabili. Comunicazione al fallito
+
+#### Art. 31
+
+<sup>1</sup> Gli oggetti non pignorabili, compresi gli asili di famiglia (art. 349 e segg. del Codice civile svizzero [^31-1]), saranno elencati a parte in fine dell’inventario, con riferimento al numero che ogni singolo oggetto porta nel corpo dell’inventario stesso.
+
+<sup>2</sup> Dell’elenco sarà data comunicazione al fallito all’atto del riconoscimento dell’inventario o posteriormente mediante avviso scritto.
+
+<sup>3</sup> Se il fallito rinuncia ai suoi diritti sopra tutti o parte di tali oggetti a favore della massa, si iscriverà nell’inventario analoga dichiarazione, la quale dovrà essere da lui firmata.
+
+[^31-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### h. Comunicazione ai creditori
+
+#### Art. 32
+
+<sup>1</sup> Il provvedimento preso dall’ufficio circa gli oggetti non pignorabili sarà comunicato, mediante presentazione dell’inventario, ai creditori che interverranno alla prima adunanza. Da questo punto comincia a decorrere per i creditori il termine di ricorso all’autorità di vigilanza contro siffatto provvedimento. Decorso questo termine, i creditori non saranno più ammessi ad impugnarlo.
+
+<sup>2</sup> Quando non è possibile di prendere una decisione in merito avanti la prima assemblea, oppure quando il fallimento vien liquidato secondo la procedura sommaria, la comunicazione del deposito dell’inventario si farà congiuntamente a quella del deposito della graduatoria. In questi casi il termine per ricorrere contro l’inventario decorre dal giorno dell’avvenuto deposito.
+
+### i. Frutti naturali e civili
+
+#### Art. 33
+
+[^33-1]
+
+Il ricavo dei frutti naturali e l’importo dei frutti civili prodotti dai fondi durante il fallimento, si registreranno man mano nell’inventario sotto una rubrica speciale.
+
+[^33-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### k. Rivendicazioni di proprietà
+
+#### Art. 34
+
+<sup>1</sup> Anche le rivendicazioni da parte di terzi (art. 242 LEF) verranno registrate in un capitolo speciale in ordine progressivo, coll’indicazione del rivendicante, del numero attribuito nell’inventario all’oggetto rivendicato, e dei relativi documenti giustificativi. Delle avvenute rivendicazioni si farà cenno anche nel corpo dell’inventario stesso, nella colonna «osservazioni», a fianco d’ogni oggetto rivendicato.
+
+<sup>2</sup> In calce a questo titolo speciale saranno registrate succintamente le dichiarazioni del fallito, come pure le ulteriori decisioni dell’amministrazione del fallimento in merito alle avvenute rivendicazioni, e l’esito di eventuali processi.
+
+### 2. Anticipazione di spese
+
+#### Art. 35
+
+<sup>1</sup> Se il decreto di fallimento non ha posto a carico del debitore o del creditore richiedente il fallimento l’obbligo di anticipare le spese occorse fino alla sospensione del fallimento per mancanza di attivi o alla pubblicazione e convocazione dei creditori comprese, l’ufficio avrà il diritto di esigere tale anticipazione da chi è tenuto a farla in base all’articolo 169 LEF.[^35-1]
+
+<sup>2</sup> L’esercizio di questo diritto non potrà però ritardare in verun modo la compilazione dell’inventario.
+
+[^35-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 [RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 3. Chiusura della contabilità del fallito
+
+#### Art. 36
+
+Qualora l’azienda commerciale del fallito venga continuata fino alla prima assemblea, i libri dovranno essere chiusi col giorno dell’apertura del fallimento e continuati da questo giorno in avanti per conto della massa, a meno che l’amministrazione del fallimento non istituisca una contabilità separata.
+
+### 4. Interrogatorio del fallito
+
+#### Art. 37
+
+Durante le operazioni d’inventario, l’ufficio è tenuto di procedere ad un interrogatorio del fallito, interpellandolo sui punti seguenti:
+
+- a. nome e domicilio dei creditori conosciuti, che non figurano sui libri;
+- b. esistenza di processi a’ sensi dell’articolo 207 capoverso 1 LEF;
+- c. esistenza di contratti di assicurazione contro i danni o sulla vita (vedi art. 54 e 55 della legge federale 2 aprile 1908[^37-1] sul contratto d’assicurazione);
+- d. se vi sono figli o pupilli soggetti alla sua potestà patria o tutoria, e se esistono a loro favore diritti di proprietà o crediti;
+- e.[^37-2] se è sottufficiale, ufficiale o ufficiale specialista (soldato, appuntato o sottufficiale con funzioni di ufficiale) dell’esercito.
+
+[^37-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^37-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 5. Sequestro di invii postali
+
+#### Art. 38
+
+[^38-1]
+
+Gli uffici dei fallimenti hanno il diritto di chiedere alla competente direzione postale di circondario l’esibizione o la consegna d’invii postali e di fondi provenienti da assegni postali indirizzati al fallito o da lui spediti, come pure di domandarle informazioni sulle relazioni postali del fallito (vedi art. 14 e 18 dell’O 1 della legge sul servizio delle poste del 1° settembre 1967[^38-2]); e ciò per tutta la durata del fallimento. Il fallito ha però il diritto di assistere all’apertura degli invii.
+
+[^38-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^38-2]: [[RU 1967 1440](https://fedlex.data.admin.ch/eli/oc/1967/1405_1447_1440), **1968** 997 [1004](https://fedlex.data.admin.ch/eli/oc/1968/1048_1088_1004),[1969 385](https://fedlex.data.admin.ch/eli/oc/1969/377_385_385)1120, [1970 480](https://fedlex.data.admin.ch/eli/oc/1970/480_480_480)[714](https://fedlex.data.admin.ch/eli/oc/1970/714_714_714), **1971** 683 1712, **1972** 2675, [1974 578](https://fedlex.data.admin.ch/eli/oc/1974/578_578_578)[1977](https://fedlex.data.admin.ch/eli/oc/1974/1977_1977_1977)[2050](https://fedlex.data.admin.ch/eli/oc/1974/2050_2050_2050), [1975 2033](https://fedlex.data.admin.ch/eli/oc/1975/2033_2033_2033), [1976 962](https://fedlex.data.admin.ch/eli/oc/1976/962_962_962), [1977 2122](https://fedlex.data.admin.ch/eli/oc/1977/2122_2122_2122), [1979 287](https://fedlex.data.admin.ch/eli/oc/1979/287_287_287)[1180](https://fedlex.data.admin.ch/eli/oc/1979/1180_1180_1180), [1980 2](https://fedlex.data.admin.ch/eli/oc/1980/2_2_2)[777](https://fedlex.data.admin.ch/eli/oc/1980/777_777_777), [1981 1863](https://fedlex.data.admin.ch/eli/oc/1981/1863_1863_1863), [1983 1656](https://fedlex.data.admin.ch/eli/oc/1983/1656_1656_1656), [1986 39](https://fedlex.data.admin.ch/eli/oc/1986/39_39_39)[991](https://fedlex.data.admin.ch/eli/oc/1986/991_991_991)[1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991)art. 45 n. 2, [1987 440](https://fedlex.data.admin.ch/eli/oc/1987/440_440_440), [1988 370](https://fedlex.data.admin.ch/eli/oc/1988/370_370_370), [1989 565](https://fedlex.data.admin.ch/eli/oc/1989/565_565_565)[764](https://fedlex.data.admin.ch/eli/oc/1989/764_764_764)[1899](https://fedlex.data.admin.ch/eli/oc/1989/1899_1899_1899), [1990 1448](https://fedlex.data.admin.ch/eli/oc/1990/1448_1448_1448), [1992 94](https://fedlex.data.admin.ch/eli/oc/1992/94_94_94)[1243](https://fedlex.data.admin.ch/eli/oc/1992/1243_1243_1243), [1993 62](https://fedlex.data.admin.ch/eli/oc/1993/62_62_62)[2473](https://fedlex.data.admin.ch/eli/oc/1993/2473_2473_2473), [1994 1442](https://fedlex.data.admin.ch/eli/oc/1994/1442_1442_1442)[2788](https://fedlex.data.admin.ch/eli/oc/1994/2788_2788_2788), [1995 5491](https://fedlex.data.admin.ch/eli/oc/1995/5491_5491_5491), [1996 14](https://fedlex.data.admin.ch/eli/oc/1996/14_14_14)[470](https://fedlex.data.admin.ch/eli/oc/1996/470_470_470), [1997 270](https://fedlex.data.admin.ch/eli/oc/1997/270_270_270)[1435](https://fedlex.data.admin.ch/eli/oc/1997/1435_1435_1435). [RU 1997 2461](https://fedlex.data.admin.ch/eli/oc/1997/2461_2461_2461)art. 13 lett. a]. Vedi ora l’O del 29 ago. 2012 sulle poste ([RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)).
+
+### 6. Fissazione della procedura di liquidazione
+
+#### Art. 39
+
+[^39-1]
+
+<sup>1</sup> Nell’esame della questione, se il prodotto della vendita dei beni inventariati sarà presumibilmente sufficiente per coprire le spese della procedura ordinaria (art. 231 cpv. 1 n. 1 LEF), l’ufficio dovrà tener presente che il prodotto della vendita dei beni gravati da diritti di pegno può servire a copertura delle spese generali del fallimento soltanto in quanto ecceda l’ammontare dei crediti garantiti da pegno (art. 262 LEF).
+
+<sup>2</sup> Se questa prevedibile eccedenza, aggiunta al ricavo dei beni non gravati da pegno, è, a giudizio dell’ufficiale, insufficiente per coprire le presumibili spese della procedura ordinaria, egli dovrà proporre al giudice del fallimento che la massa sia liquidata con la procedura sommaria, oppure che venga pronunciata la sospensione della procedura; se il caso è semplice egli dovrà proporre che la massa sia liquidata con la procedura sommaria.
+
+[^39-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### II. Appello ai creditori (grida)****
+
+[^lvlB-lvlII-1]
+
+[^lvlB-lvlII-1]: Originariamente avanti l’art. 39.
+
+### (art. 231 a 234 LEF)
+
+### 1. Avvisi speciali ai creditori circa la dichiarazione del fallimento
+
+[^lvlB-lvlII-lvl1-1]
+
+[^lvlB-lvlII-lvl1-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 40
+
+<sup>1</sup> Negli avvisi speciali di cui all’articolo 233 LEF, bisogna indicare il contenuto della pubblicazione relativa alla dichiarazione di fallimento. Bisogna inoltre ingiungere ai creditori pignoratizi, nonchè ai terzi cui fossero stati successivamente costituiti in pegno i titoli, di consegnarli all’ufficio.
+
+<sup>2</sup>
+
+Siffatti avvisi saranno, nella procedura ordinaria, spediti:
+
+- a. a tutti i creditori, dei quali siano conosciuti il nome e la dimora;
+- b. al tribunale, davanti al quale pende una causa civile ai sensi dell’articolo 207 capoverso 1 LEF, e all’autorità, davanti alla quale pende un procedimento amministrativo ai sensi dell’articolo 207 cpv. 2 LEF;
+- c. alla società di assicurazione, colla quale il fallito ha conchiuso un contratto di assicurazione contro i danni o sulla vita;
+- d. alla competente autorità tutoria, se vi sono figli o pupilli soggetti alla potestà patria o tutoria del fallito;
+- e. agli uffici del registro fondiario degli altri circondari di fallimento, nei quali il fallito possedeva immobili, a tenore dell’inventario.[^40-1]
+
+<sup>3</sup> I nomi dei creditori, ai quali sono stati spediti speciali avvisi, verranno iscritti dall’ufficiale nel processo verbale del fallimento od in una lista separata, da lui firmata.
+
+[^40-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 2. Restituzione dei mezzi di prova
+
+#### Art. 41
+
+[^41-1]
+
+I mezzi di prova sono, se la domanda di restituzione dei creditori non è giustificata da motivi speciali, conservati negli atti del fallimento e restituiti soltanto dopo che è trascorso il termine per impugnare la graduatoria.
+
+[^41-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### III. Amministrazione della massa
+
+### (art. 235 a 243 LEF)
+
+### 1. Verbali delle assemblee dei creditori
+
+#### Art. 42
+
+<sup>1</sup> L’ufficiale terrà un verbale particolareggiato di ogni assemblea di creditori, iscrivendovi i nomi di tutti i creditori o dei loro rappresentanti intervenuti all’assemblea riferendosi, se occorre, ad un elenco speciale dei creditori conosciuti, allestito dall’ufficiale e munito aella sua firma e di quella dei membri dell’ufficio presidenziale. Nel verbale si dovrà sempre indicare se l’assemblea era in numero per poter deliberare (art. 236 e 254 LEF).
+
+<sup>2</sup> La relazione dell’ufficio, di cui agli articoli 237 capoverso 1, e articolo 253 capoverso 1 LEF, può essere presentata per iscritto, o verbalmente. Nel primo caso, essa verrà firmata dall’ufficiale ed annessa agli atti del fallimento, facendone menzione a verbale. Nel secondo caso, se ne registreranno al verbale i punti essenziali.
+
+<sup>3</sup> Il verbale dovrà inoltre contenere tutte le proposte fatte e le decisioni prese, senza riprodurre le discussioni; esso verrà firmato dall’ufficiale e dai membri dell’ufficio presidenziale.[^42-1]
+
+[^42-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 2. Trasmissione degli atti all’amministrazione speciale del fallimento
+
+[^lvlB-lvlIII-lvl2-1]
+
+[^lvlB-lvlIII-lvl2-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 43
+
+<sup>1</sup> Qualora l’assemblea dei creditori nomini un’amministrazione speciale (art. 237 cpv. 2, e 253 cpv. 2 LEF), l’ufficio trasmetterà a quest’ultima gli atti ed il verbale, dandone comunicazione all’autorità di vigilanza, alla quale indicherà anche il nome, la professione ed il domicilio dei membri di tale amministrazione, e consegnerà un estratto del verbale dell’assemblea dei creditori.
+
+<sup>2</sup> Se il fallito è iscritto nel registro di commercio, l’ufficio comunica l’amministrazione speciale del fallimento anche all’ufficio del registro di commercio.[^43-1]
+
+[^43-1]: Introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 3. Verbale della delegazione dei creditori
+
+#### Art. 44
+
+[^44-1]
+
+Se viene nominata una delegazione dei creditori verrà tenuto verbale delle decisioni prese. Chiuso il fallimento, detto verbale verrà annesso al protocollo del fallimento (art. 10).
+
+[^44-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 4. Rivendicazioni
+
+### a. Decisione da parte dell’amministrazione del fallimento
+
+#### Art. 45
+
+Le decisioni relative alla restituzione di cose che si trovano nella detenzione della massa e sono rivendicate da un terzo (art. 242 LEF, art. 34 del presente R), devono esser prese dopo decorso il termine per l’insinuazione dei crediti (art. 232 cpv. 2 n. 2 LEF), sia che la rivendicazione sia stata fatta dal terzo o da altri in suo nome o che la cosa sia stata indicata dal fallito come proprietà del terzo. Una decisione dev’essere presa, anche se la pretesa del terzo viene notificata dopo la vendita, ma prima del riparto del ricavo della vendita.
+
+### b. Fissazione di termine al terzo rivendicante
+
+#### Art. 46
+
+L’avviso, con cui vien fissato al terzo rivendicante il termine per promuovere l’azione a’ sensi dell’articolo 242 capoverso 2 LEF, deve contenere un’esatta descrizione dell’oggetto in contestazione, come pure la comminatoria che, non osservando questo termine, il rivendicante sarà considerato come decaduto dal suo diritto.
+
+### c. Tutela dei diritti dei creditori
+
+#### Art. 47
+
+<sup>1</sup> Se l’amministrazione del fallimento intende di riconoscere la pretesa del terzo, deve aspettare a dargliene comunicazione ed a restituirgli la cosa rivendicata fino a che consti che la seconda assemblea dei creditori non ha preso una contraria decisione in proposito, e che nessun creditore ha chiesto la cessione dei diritti della massa sulla cosa rivendicata, in conformità dell’articolo 260 LEF.
+
+<sup>2</sup> Le spese di custodia sono a carico della massa, dopo una cessione delle pretese ai sensi dell’articolo 260 LEF esse sono poste a carico del cessionario. L’amministrazione del fallimento può fissare al cessionario, con la comminatoria di procedere immediatamente alla restituzione della cosa al terzo, un termine per dichiarare incondizionatamente di rispondere delle spese per l’ulteriore custodia come pure per prestare garanzia per tali spese.[^47-1]
+
+[^47-1]: Introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### aa. Nella procedura ordinaria
+
+#### Art. 48
+
+<sup>1</sup> Per ottenere tale scopo, l’amministrazione del fallimento è tenuta ad inserire nell’avviso di convocazione dei creditori alla seconda assemblea una clausola nel senso che le domande di cessione di pretese in base all’articolo 260 LEF devono, sotto pena di perenzione, essere presentate all’assemblea stessa, oppure entro 10 giorni, al più tardi, dalla data dell’assemblea.
+
+<sup>2</sup> Ove però le speciali circostanze del caso consiglino di liquidare una rivendicazione prima che si raduni la seconda assemblea dei creditori, si potrà convocare un’assemblea straordinaria, oppure fissare ai creditori, mediante circolare, un congruo termine, entro il quale essi dovranno, sotto pena di perenzione, notificare all’amministrazione del fallimento, se intendono contestare in luogo della massa le pretese del terzo, conformemente all’articolo 260 capoverso 1 LEF.
+
+### bb. Nella procedura sommaria
+
+#### Art. 49
+
+Quando la liquidazione avviene secondo la procedura sommaria, la fissazione del termine di cui sopra avrà luogo solo nei casi più importanti, e sarà resa pubblica unitamente al deposito della graduatoria.
+
+### cc. In caso di rivendicazioni tardive
+
+#### Art. 50
+
+Qualora si tratti di rivendicazioni fatte dopo la vendita, l’amministrazione del fallimento le notificherà, nei casi più importanti, ai creditori mediante pubblicazione ufficiale, o mediante circolare; in caso di bisogno, convocherà un’assemblea straordinaria dei creditori.
+
+### dd. Eccezioni
+
+#### Art. 51
+
+Non sono applicabili le disposizioni degli articoli 47 a 50, quando il diritto di proprietà del rivendicante appare fin dal principio come provato, o quando la restituzione immediata della cosa risulta essere di evidente interesse per la massa, ed infine quando il rivendicante presta sufficiente garanzia.
+
+### d. Fissazione del termine per promuovere l’azione in caso di cessione di pretese della massa
+
+#### Art. 52
+
+Quando uno o più creditori abbiano chiesto ed ottenuto la cessione di pretese della massa, l’amministrazione del fallimento rilascerà loro analoga dichiarazione di cessione, e fisserà in seguito al terzo rivendicante il termine previsto all’articolo 242 capoverso 2 LEF per promuovere l’azione indicando i nomi dei creditori cessionari contro i quali dovranno essere diretti gli atti giudiziari nella loro qualità di rappresentanti della massa.
+
+### e. Concorrenza fra diritto di proprietà e diritto di pegno
+
+#### Art. 53
+
+Qualora sopra la cosa rivendicata da un terzo qualche creditore del fallimento faccia valere un diritto di pegno o di ritenzione, si dovrà procedere nel modo seguente:
+
+- – Se l’amministrazione del fallimento riconosce come fondata la rivendicazione, essa non ha da occuparsi della lite che potesse eventualmente insorgere fra il terzo che ha rivendicato la proprietà della cosa ed il creditore che vanta sopra di essa un diritto di pegno.
+- – Se invece la rivendicazione conduce ad un processo, l’amministrazione non potrà pronunciarsi sul diritto di pegno, se non dopo che sarà stata respinta l’azione di rivendicazione del terzo mediante sentenza passata in giudicato. La decisione si farà allora sotto forma di aggiunta alla graduatoria.
+
+### f. Diritti di pegno e di proprietà sopra oggetti non pignorabili
+
+#### Art. 54
+
+<sup>1</sup> Qualora vengano fatti valere dei diritti di pegno contrattuali sopra oggetti non pignorabili, e questi diritti siano riconosciuti nella procedura di contestazione della graduatoria, detti oggetti dovranno essere avocati alla massa e realizzati a favore dei creditori pignoratizi. Restando un’eccedenza, questa verrà attribuita al fallito.
+
+<sup>2</sup> Ove un oggetto rivendicato da un terzo venga dalla massa riconosciuto come oggetto non pignorabile, non si potrà far capo alla procedura dell’articolo 242 LEF, ma si avvertirà il terzo ch’egli deve far valere la sua pretesa contro il fallito all’infuori della procedura di fallimento.
+
+### IV. Verificazione dei crediti e graduazione dei creditori
+
+### (art. 241 a 251 LEF)
+
+### 1. Dichiarazioni del fallito e loro registrazione a verbale
+
+#### Art. 55
+
+Le dichiarazioni del fallito in merito ai singoli crediti insinuati al fallimento (art. 244 LEF) devono essere trascritte nell’elenco delle insinuazioni, oppure in uno speciale protocollo, e venir firmate dal fallito. Se questi è morto od assente, si terrà nota di questa circostanza. Sono anche qui applicabili le norme sancite dall’articolo 30 per le società in nome collettivo ed in accomandita, per le società anonime e le associazioni.
+
+### 2. Graduatoria
+
+### a. Ordine delle iscrizioni
+
+#### Art. 56
+
+<sup>1</sup>
+
+La graduatoria deve essere allestita nell’ordine seguente:
+
+- a.
+
+  crediti garantiti da pegno (vedi art. 37 LEF):
+
+  - 1\. crediti garantiti da pegno immobiliare;
+  - 2\. crediti garantiti da pegno manuale;
+
+- b. crediti non garantiti da pegno: classi I a III (art. 219 LEF).[^56-1]
+
+<sup>2</sup> Se non esistono crediti da iscrivere in qualcheduna delle suddette categorie o classi, ne sarà fatta menzione nella graduatoria.
+
+[^56-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### b. Modificazioni
+
+#### Art. 57
+
+[^57-1]
+
+Eventuali modificazioni alla graduatoria durante il termine per impugnarla, eventuali aggiunte complementari e delucidazioni potranno farsi solo mediante annotazione in margine, firmata da chi rappresenta l’amministrazione, e sono da pubblicare di nuovo.
+
+[^57-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### c. Contenuto
+
+#### Art. 58
+
+<sup>1</sup> Ogni credito insinuato al fallimento sarà iscritto in graduatoria nella classe e secondo il grado che gli viene assegnato dall’amministrazione del fallimento o dalla delegazione dei creditori.
+
+<sup>2</sup> Per ogni insinuazione si dovrà annotare la decisione, con cui l’amministrazione del fallimento l’ammette o la respinge; in caso di rigetto, se ne indicherà succintamente il motivo. La decisione deve estendersi anche ai diritti reali frazionari (diritti di pegno e d’abitazione, usufrutti, servitù prediali), indicandone l’esistenza, l’estensione ed il grado.
+
+### d. Forma delle decisioni
+
+#### Art. 59
+
+[^59-1]
+
+<sup>1</sup> Qualora un’insinuazione non sembri sufficientemente documentata, l’amministrazione può respingerla, oppure fissare al creditore un termine per presentare ulteriori mezzi di prova.
+
+<sup>2</sup> Non si può ammettere o respingere un’insinuazione soltanto in modo provvisorio, eccetto il caso in cui viene chiesta la rivocazione dell’estinzione di una pretesa, che fa rientrare il creditore nei suoi diritti in caso di restituzione di quanto gli fu pagato e la cui esistenza è pacifica (art. 291 cpv. 2 LEF).
+
+<sup>3</sup> Ove non sia possibile pronunciarsi definitivamente sull’ammissione o il rigetto, l’amministrazione dovrà o sospendere il deposito della graduatoria, o completarla successivamente, rinnovandone il deposito e la relativa pubblicazione.
+
+[^59-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### e. Specificazione dei crediti insinuati
+
+#### Art. 60
+
+<sup>1</sup> Le insinuazioni vanno munite di numeri progressivi.
+
+<sup>2</sup> Di ogni singolo credito deve essere indicata la causa, con riferimento al numero ch’esso porta nell’elenco delle insinuazioni.
+
+<sup>3</sup> Per ogni pretesa di pegno la graduatoria indicherà esattamente l’oggetto al quale il pegno di riferisce; trattandosi di fondi indicherà inoltre con precisione i frutti e i redditi come anche gli accessori, che sono compresi nel pegno, nonché l’importo degli interessi ai quali si estende il diritto su crediti; il tutto con riferimento alle registrazioni contenute nell’inventario. Se il debitore del credito garantito da pegno è un terzo, anche il nome di quest’ultimo sarà menzionato nella graduatoria.[^60-1]
+
+[^60-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### f. Crediti garantiti sopra beni appartenenti a terzi
+
+#### Art. 61
+
+<sup>1</sup> I crediti garantiti in tutto od in parte sopra beni appartenenti a terzi, s’iscrivono per il loro integrale ammontare (riconosciuto) nella categoria dei crediti non garantiti da pegno, senza riguardo al pegno, ma con un accenno all’esistenza dello stesso.
+
+<sup>2</sup> Se la realizzazione è già avvenuta prima della distribuzione del dividendo al creditore pignoratizio, il proprietario del pegno ha diritto di pretendere il dividendo in luogo del creditore nella misura in cui è surrogato nei diritti del creditore, a stregua delle disposizioni del diritto civile. Se la surrogazione è contestata, il dividendo dev’essere depositato.[^61-1]
+
+[^61-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### g. Crediti garantiti sopra beni situati all’estero
+
+#### Art. 62
+
+Se i beni gravati dal diritto di pegno appartengono al fallito, ma si trovano all’estero, e non è possibile di avocarli alla massa secondo il diritto applicabile nel caso concreto, il dividendo spettante al credito sarà trattenuto fino a che non sia avvenuta la realizzazione del pegno all’estero, e lo stesso verrà versato al creditore soltanto nella misura in cui il suo credito non sarà stato coperto col ricavo di tale realizzazione. Il dividendo da distribuire viene determinato in base al credito che non è stato coperto col ricavo della realizzazione.[^62-1]
+
+[^62-1]: Secondo per. introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### h. Crediti che formano oggetto di liti già pendenti
+
+#### Art. 63
+
+<sup>1</sup> I crediti che formano oggetto di liti già pendenti davanti l’autorità giudiziaria al momento dell’apertura del fallimento, vengono dapprima registrati nella graduatoria soltanto pro memoria, senza farne oggetto di speciale decisione da parte dell’amministrazione.
+
+<sup>2</sup> Se il processo non viene continuato nè dalla massa, nè da qualche creditore a’ sensi dell’articolo 260 LEF, il credito si considera come riconosciuto, ed i creditori non hanno più diritto d’impugnare il rango loro assegnato in graduatoria, a stregua dell’articolo 250 LEF.
+
+<sup>3</sup> Se invece il processo viene continuato, il credito sarà, secondo l’esito del processo, cancellato o collocato definitivamente in graduatoria, senza che i creditori abbiano più alcun diritto di sollevare contestazioni al riguardo.
+
+<sup>4</sup> Per le deliberazioni circa la continuazione del processo si applica analogamente l’articolo 48.
+
+### i. Provvedimenti presi dalla delegazione dei creditori, e processi relativi alla graduatoria
+
+#### Art. 64
+
+<sup>1</sup> Ove sia stata nominata una delegazione di creditori, le decisioni della stessa devono venir iscritte nella graduatoria.
+
+<sup>2</sup> Nella graduatoria si farà parimenti cenno dei processi, a cui essa ha dato luogo, come pure del modo con cui vennero liquidati.
+
+### k. Successive modificazioni
+
+### aa. Durante il termine di contestazione
+
+#### Art. 65
+
+[^65-1]
+
+<sup>1</sup> Durante il termine di contestazione della graduatoria, le decisioni che già vi fossero iscritte potranno essere modificate dall’amministrazione solo fino a che non sia stato intentato alcun processo contro la massa o contro un altro creditore.
+
+<sup>2</sup> La modificazione deve far oggetto di una nuova pubblicazione (art. 67 cpv. 3)
+
+[^65-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### bb.Durante la causa per contestazione della graduatoria
+
+#### Art. 66
+
+<sup>1</sup> Se l’amministrazione del fallimento non crede opportuno di provocare una decisione dell’autorità giudiziaria nella causa per contestazione di graduatoria ad essa intentata ma intende di riconoscere in tutto o in parte la pretesa dell’attore, essa potrà iscrivere tale riconoscimento nella graduatoria solo alla condizione di riservare il diritto spettante ai creditori, in base all’articolo 250 LEF di contestare da parte loro l’ammissione del credito od il nuovo grado ad esso attribuito.
+
+<sup>2</sup> A tale scopo l’amministrazione dovrà depositare e pubblicare nuovamente la graduatoria modificata in forza dell’intervenuto riconoscimento.
+
+<sup>3</sup> Resta salva la facoltà accordata alla delegazione dei creditori, giusta l’articolo 237 capoverso 3 numero 3 LEF, di concludere o ratificare transazioni. In questi casi non è necessario un nuovo deposito ed una nuova pubblicazione della graduatoria modificata in seguito alla transazione.
+
+### l. Pubblicazione
+
+#### Art. 67
+
+<sup>1</sup> La pubblicazione relativa al deposito della graduatoria dev’essere fatta sugli stessi giornali, sui quali è stato pubblicato il fallimento.
+
+<sup>2</sup> Al momento in cui avviene il deposito della graduatoria, devono figurare in quest’ultima tutte le contestazioni formulate dalla amministrazione del fallimento o dalla delegazione dei creditori.
+
+<sup>3</sup> Se vengono introdotte nella graduatoria successive modificazioni (art. 65), non basterà di comunicarle con semplice avviso ai creditori, ma bisognerà, entro il termine per le opposizioni, revocare la pubblicazione già fatta e ripetere il deposito e la pubblicazione della graduatoria nuovamente allestita o modificata.
+
+### m. Avvisi speciali
+
+#### Art. 68
+
+[^68-1]
+
+Negli avvisi speciali di cui all’articolo 249 capoverso 3 LEF, bisogna indicare il motivo del rigetto, aggiungendo che il termine di venti giorni per promuovere l’azione (art. 250 LEF) comincia a decorrere dal giorno della pubblicazione del deposito della graduatoria.
+
+[^68-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### n. Insinuazioni tardive
+
+#### Art. 69
+
+La decisione concernente un credito insinuato dopo il deposito della graduatoria, vien pubblicata soltanto se essa ammette in tutto o in parte il credito. Quando il credito viene respinto completamente, basta un semplice avviso al creditore. Restano riservate le disposizioni degli articoli 65 e 66.
+
+### o. Nella procedura sommaria
+
+#### Art. 70
+
+La graduatoria, deve essere allestita anche se il fallimento vien liquidato secondo la procedura sommaria. Circa il modo di compilare la graduatoria, il deposito, la pubblicazione e la contestazione della stessa sono applicabili le norme della LEF e del presente regolamento.
+
+### V. Liquidazione della massa
+
+### (art. 252 a 260 LEF )
+
+[^lvlB-lvlV-1]
+
+### 1. Speciali avvisi in caso d’incanto di fondi
+
+[^lvlB-lvlV-1]: Ora: art. 252 a 260<sup>bis</sup> LEF.
+
+#### Art. 71
+
+[^71-1]
+
+L’avviso speciale, di cui all’articolo 257 LEF deve essere dato non soltanto ai creditori ipotecari, ma anche ai creditori a cui favore vennero costituiti in pegno i crediti gravanti sul fondo (vedi art. 40 cpv. 1).
+
+[^71-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 2. Verbale d’incanto
+
+### a. In generale
+
+#### Art. 72
+
+[^72-1]
+
+Per ogni incanto devesi tenere uno speciale verbale, in cui saranno indicati: le persone che hanno diretto l’incanto, la data e la durata, come pure il luogo della vendita e la somma ricavata da ogni oggetto venduto separatamente. Il verbale deve essere firmato dal funzionario che ha presieduto alla vendita. Per le cartevalori ed i crediti, bisognerà iscrivere nel verbale anche il nome del deliberatario. Per gli altri beni mobili, l’indicazione del deliberatario è prescritta solo quando gli stessi vengono deliberati in blocco ad una sola persona. Qualora l’incanto venga fatto da altra pubblica autorità, tale circostanza dovrà parimenti risultare dal verbale.
+
+[^72-1]: Nei testi tedesco e francese l’ultimo per. costituisce un cpv. 2.
+
+### b. Incanto di beni immobili
+
+#### Art. 73
+
+Il verbale d’incanto di beni immobili deve inoltre contenere: la dichiarazione del funzionario che presiede all’asta: *«*L’immobile viene aggiudicato per il prezzo di fr. …… ad N. N.*»* nonchè la firma dell’acquirente, il quale si qualificherà come «deliberatario». Se non vi fu delibera, dovrà figurare in calce al verbale la menzione: *«*L’immobile non fu aggiudicato*»*, coll’indicazione del motivo per cui non seguì la delibera. Se l’aggiudicazione avvenne a determinate condizioni, queste devono essere indicate in modo preciso nel verbale.
+
+### 3. Cancellazione dei pegni immobiliari estinti
+
+#### Art. 74
+
+<sup>1</sup> Nella vendita di immobili, l’amministrazione del fallimento ha l’obbligo di far cancellare o modificare nel registro fondiario quei pegni immobiliari che restano estinti in tutto od in parte per effetto della vendita, anche se non le vengono presentati i relativi titoli.
+
+<sup>2</sup> L’avvenuta cancellazione o modificazione sarà pubblicata una sola volta sul Foglio ufficiale. Ove siano noti il nome ed il domicilio del creditore, questi ne sarà avvisato mediante lettera raccomandata, coll’avvertenza che verrà punita come frode sia l’alienazione o costituzione in pegno del titolo completamente estinto, sia l’alienazione o costituzione in pegno del titolo parzialmente estinto per un importo superiore al valore ch’esso attualmente possiede.
+
+<sup>3</sup> Qualora il possessore del titolo non sia noto, la cancellazione o la modificazione del diritto di pegno immobiliare sarà resa di pubblica ragione per cura dell’ufficio di esecuzione, che menzionerà nella pubblicazione la comminatoria di cui all’alinea precedente.[^74-1]
+
+[^74-1]: Nuovo testo giusta gli art. 69 cpv. 3 e 136 cpv. 2 del R del TF del 23 apr. 1920 concernente la realizzazione forzata di fondi, in vigore dal 1° gen. 1921 ([RU 36 469](https://fedlex.data.admin.ch/eli/oc/36/425_433_469)).
+
+### 4. Casi speciali
+
+### a. Annullazione dei titoli relativi a diritti di pegno sopra fondi del fallito ed in di lui possesso. Cancellazione dei posti vacanti
+
+#### Art. 75
+
+[^75-1]
+
+I titoli relativi a diritti di pegno sopra fondi di proprietà del fallito che si trovassero in suo possesso, come pure i posti vacanti, non sono presi in considerazione, giusta il disposto dell’articolo 815 del Codice civile svizzero[^75-2], per fissare le condizioni d’incanto. Tali titoli devono essere senz’altro annullati ed i posti vacanti cancellati nel registro fondiario, dopo la vendita.
+
+[^75-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^75-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### b. Titoli relativi a diritti di pegno sopra fondi del fallito e da questi costituiti in pegno manuale a terzi
+
+#### Art. 76
+
+[^76-1]
+
+I titoli relativi a diritti di pegno sopra fondi del fallito, che questi avesse costituito in pegno manuale a terzi, non possono essere venduti separatamente. Nelle condizioni d’incanto per la vendita dei beni cui si riferiscono si dovrà esigere il pagamento in contanti dei crediti assistiti da siffatti diritti di pegno, e procedere, dopo la vendita, all’annullamento dei titoli.
+
+[^76-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### c. Vendita di oggetti assicurati e di polizze d’assicurazione sulla vita
+
+#### Art. 77
+
+<sup>1</sup> Se gli oggetti messi in vendita sono assicurati (vedi art. 37 e 40 cpv. 2), bisognerà, all’atto della vendita, far cenno dell’assicurazione. Qualora gli oggetti assicurati vengano aggiudicati in blocco ad una sola persona, si dovrà annunciare subito il trapasso della proprietà alla società di assicurazione.
+
+<sup>2</sup> Per la vendita all’incanto od a trattative private di una polizza d’assicurazione sulla vita si applicheranno le disposizioni degli articoli 10 e 15 a 21 dell’ordinanza del 10 maggio 1910 [^77-1] concernente il pignoramento, il sequestro e la realizzazione di diritti derivanti da polizze d’assicurazione.
+
+[^77-1]: [RS 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
+
+### d. Vendita di bestiame
+
+#### Art. 78
+
+[^78-1]
+
+In caso di vendita di bestiame, si dovranno osservare le prescrizioni della legge federale del 1° luglio 1966[^78-2] sulle epizoozie (art. 14), nonché quelle dell’ordinanza del 27 giugno 1995[^78-3] sulle epizoozie (art. 11) concernenti il certificato di trasloco.
+
+[^78-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^78-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^78-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+
+#### Art. 79
+
+[^79-1]
+
+[^79-1]: Abrogato dal n. I del D del TF del 5 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 5. Cessione di pretese della massa
+
+#### Art. 80
+
+<sup>1</sup> La cessione di pretese della massa ad uno o più creditori in base all’articolo 260 LEF è fatta alle condizioni stabilite nel relativo formulario.
+
+<sup>2</sup> Le spese occorrenti per la realizzazione di beni aggiudicati dalla sentenza definitiva non potranno mai essere poste a carico della massa.
+
+#### Art. 81
+
+[^81-1]
+
+[^81-1]: Abrogato dal n. I del D del TF del 5 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### VI. Ripartizione
+
+### (art. 261 a 267 LEF)
+
+### 1. Ripartizioni provvisorie
+
+#### Art. 82
+
+<sup>1</sup> Prima di procedere a ripartizioni provvisorie (art. 237 cpv. 3 n. 5, e 266 LEF), l’ufficio allestirà uno stato provvisorio di riparto, il quale verrà depositato per dieci giorni presso l’ufficio dei fallimenti. Il deposito è notificato a ciascun creditore (art. 263 LEF).
+
+<sup>2</sup> L’amministrazione tratterrà presso di sè i dividendi concernenti crediti sottoposti a condizione sospensiva od a scadenza incerta (art. 264 cpv. 3 LEF), crediti dipendenti da garanzie prestate dal fallito a favore di terzi, od insinuati tardivamente, ma prima che abbiano avuto luogo i riparti provvisori (art. 251 cpv. 3 LEF).
+
+### 2. Compilazione dello stato definitivo di riparto
+
+### a. Condizioni
+
+### aa. Liquidazioni dei processi pendenti
+
+#### Art. 83
+
+<sup>1</sup> Lo stato definitivo di riparto potrà venir compilato soltanto dopo che saranno stati liquidati tutti i processi inerenti alla determinazione dell’attivo e del passivo della massa.
+
+<sup>2</sup> Non si avrà invece riguardo ai processi iniziati da singoli creditori in base all’articolo 260 LEF, qualora sia assodato in anticipazione, che non si può sperare in una eccedenza a favore della massa (vedi art. 95).
+
+### bb. Fissazione di una speciale indennità a tenore dell’art. 48 dell’ordinanza sulle tasse previste dalla LEF
+
+#### Art. 84
+
+[^84-1]
+
+Ove l’amministrazione del fallimento (eventualmente la delegazione dei creditori) creda di aver diritto a una speciale indennità in base all’articolo 48 dell’ordinanza del 23 settembre 1996[^84-2] sulle tasse previste dalla LEF, dovrà, prima di compilare lo stato definitivo di riparto, sottoporre alla competente autorità di vigilanza, unitamente all’incarto, una distinta particolareggiata delle operazioni per le quali la tariffa federale non prevede tassa alcuna. L’autorità di vigilanza fissa l’indennità da corrispondersi.
+
+[^84-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^84-2]: [RS 281.35](https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937)
+
+### b. Norme generali
+
+#### Art. 85
+
+[^85-1]
+
+La compilazione dello stato di riparto ha luogo secondo le seguenti norme:
+
+- – In prima linea si deve esporre con esattezza, per ogni singolo ente gravato da diritti di pegno, la somma ricavata dalla vendita, nonché le spese occorse per la sua inventarizzazione, amministrazione e realizzazione. L’importo di queste spese speciali verrà dedotto dalla somma ricavata dalla vendita.
+- – Se, fatta la deduzione delle spese, e coperti tutti i crediti assistiti da diritto di pegno, rimane ancora un’eccedenza, questa viene aggiunta alla somma ricavata dalla realizzazione dei beni non gravati da diritti di pegno. Se il ricavo della vendita non basta per soddisfare tutti i creditori aventi diritti di pegno sull’ente venduto, l’importo rimasto scoperto dei loro crediti viene iscritto nelle classi prima a terza fra i crediti non garantiti da pegno, sempre che il fallito sia personalmente tenuto al pagamento di detti crediti.
+- – La somma ricavata dalla vendita dei beni non gravati da diritti di pegno, aggiunta all’eccedenza risultante dalla realizzazione dei beni gravati da diritti di pegno, serve anzitutto a coprire le altre spese di liquidazione (spese generali), comprese quelle di un eventuale inventario pubblico antecedente al fallimento; la rimanenza viene ripartita fra i creditori non aventi diritti di pegno, in conformità della graduatoria.
+
+[^85-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### c. Nel caso dell’art 260 LEF
+
+#### Art. 86
+
+Qualora le cause iniziate da singoli creditori, in base all’articolo 260 LEF, abbiano avuto un esito favorevole, si dovrà indicare nello stato di riparto od in uno speciale supplemento allo stesso anche la ripartizione del ricavo fra i creditori cessionari e la massa.
+
+### 3. Avviso circa il deposito dello stato di riparto
+
+#### Art. 87
+
+<sup>1</sup> L*’*avviso ai singoli creditori ed al fallito del deposita dello stato di riparto vien fatto mediante lettera raccomandata (art. 34 LEF).
+
+<sup>2</sup> Questo avviso dev’essere dato anche in caso di modificazione dello stato di riparto, a meno che la modificazione sia stata ordinata dall’autorità di vigilanza.
+
+### 4. Distribuzione del ricavo fra i creditori. Condizione
+
+#### Art. 88
+
+Prima di procedere alla distribuzione del prodotto della liquidazione fra i creditori, l’amministrazione del fallimento deve accertarsi che, entro il termine legale di dieci giorni, non è stato avanzato alcun reclamo all’autorità di vigilanza. Se vi sono reclami, essa dovrà aspettarne l’esito.
+
+### 5. Rilascio dei certificati di carenza di beni circa gli asili di famiglia
+
+[^lvlB-lvlVI-lvl5-1]
+
+[^lvlB-lvlVI-lvl5-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 89
+
+Se il fallito, al momento del rilascio degli attestati di carenza di beni, è proprietario di un fondo o di una casa costituita come asilo di famiglia (art. 349 e segg. del Codice civile svizzero [^89-1] ed art. 31 del presente R) ne sarà fatta menzione nei certificati, indicando il prezzo di stima dell’asilo e gli oneri fondiari che lo gravano. Sui certificati di carenza di beni devonsi inoltre trascrivere le prescrizioni del Codice civile svizzero e delle leggi cantonali relative all’amministrazione d’ufficio ed al soddisfacimento dei creditori.
+
+[^89-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 90
+
+[^90-1]
+
+[^90-1]: Abrogato dal n. I del D del TF del 5 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 91
+
+[^91-1]
+
+[^91-1]: Abrogato dal D del TF del 23 apr. 1926, con effetto dal 19 dic. 1923 ([RU 42 266](https://fedlex.data.admin.ch/eli/oc/42/252_272_266)).
+
+### VII. Chiusura del fallimento
+
+### (art. 268 a 270 LEF)
+
+### 1. Relazione finale
+
+#### Art. 92
+
+<sup>1</sup> La relazione finale dell’amministrazione (art. 268 LEF) deve sempre essere fatta per iscritto e venir trasmessa al giudice del fallimento, unitamente all’incarto degli atti ed ai documenti giustificativi, comprese le quietanze dei creditori comprovanti il pagamento dei dividendi. Una copia di questa relazione sarà conservata negli atti del fallimento.
+
+<sup>2</sup> La relazione deve contenere un riassunto delle operazioni. Essa indicherà soprattutto in modo succinto le cause del fallimento, l’attivo ed il passivo, nonchè l’ammontare complessivo delle perdite e le somme che fossero state depositate alla Cassa dei depositi, in conformità dell’articolo 264 capoverso 3 LEF.
+
+### 2. Procedura sommaria
+
+#### Art. 93
+
+La relazione finale e la pubblicazione finale della chiusura del fallimento sono obbligatorie anche per le liquidazioni fatte secondo la procedura sommaria. La predetta pubblicazione non è invece necessaria, quando la procedura vien sospesa a tenore dell’articolo 230 capoverso 2 LEF.
+
+#### Art. 94
+
+[^94-1]
+
+[^94-1]: Abrogato dal n. I del D del TF del 5 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+### 3. Modo di procedere nei casi contemplati dall’art. 260 LEF
+
+[^lvlB-lvlVII-lvl3-1]
+
+[^lvlB-lvlVII-lvl3-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+#### Art. 95
+
+In caso di cessione di pretese della massa a’ sensi dell’articolo 260 LEF, se vi ha motivo di ritenere che dalle pratiche iniziate per la realizzazione dei diritti ceduti non sarà per risultare alcuna eccedenza a favore della massa, l’ufficio trasmetterà gli atti al giudice del fallimento col suo preavviso circa l’opportunità di pronunciare subito la chiusura del fallimento, oppure di differire la decisione in proposito fino a che siano esaurite le pratiche in corso.
+
+### VIII. Procedura sommaria
+
+### Norme speciali per la procedura sommaria
+
+#### Art. 96
+
+[^96-1]
+
+Per la procedura sommaria valgono, oltre le norme contenute negli articoli 32, 49, 70, 93, le seguenti prescrizioni speciali:
+
+- a. si dovrà procedere alla convocazione dell’assemblea dei creditori quando il fallito faccia una proposta di concordato e anticipi le spese occorrenti;
+- b. agli incanti di fondi sono applicabili le disposizioni degli articoli 134 a 137 e 143 LEF; non si può però concedere un termine maggiore di tre mesi per il pagamento. Del resto valgono per la realizzazione le regole contenute negli articoli 71 a 78 e 80 del presente regolamento[^96-2];
+- c. per il riparto si deve allestire uno stato in conformità degli articoli 262 e 264 capoverso 3 LEF, nonché degli articoli 83 e 85 del presente regolamento[^96-3] . Non si fa luogo a riparti provvisori: sono invece da rilasciarsi gli attestati di carenza di beni ai sensi dell’articolo 265 LEF. È da applicarsi per analogia anche l’articolo 150 LEF.
+
+[^96-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^96-2]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
+[^96-3]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
+
+## C. Gestione da parte di un’amministrazione speciale del fallimento
+
+### Obblighi dell’amministrazione speciale di un fallimento
+
+### a. Richiamo delle disposizioni generali applicabili
+
+#### Art. 97
+
+[^97-1]
+
+Le prescrizioni contenute negli articoli 1 numeri 2 a 4, 2, 3, 5, 8 a 10, 13, 15 a 34, 36, 38, 41, 44 a 69, 71 a 78, 80, 82 a 89, 92, 93 e 95 del presente regolamento[^97-2] valgono anche per l’amministrazione speciale del fallimento nominata dai creditori (art. 241 LEF ed art. 43 di questo R)
+
+[^97-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^97-2]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
+
+### b. Prescrizioni speciali
+
+#### Art. 98
+
+<sup>1</sup> Il deposito della graduatoria, delle condizioni d’incanto e dello stato di riparto col conto finale deve effettuarsi presso il competente ufficio dei fallimenti anche nel caso, in cui vien nominata una speciale amministrazione del fallimento. [^98-1]
+
+<sup>2</sup> I Cantoni possono stabilire che gli incanti debbano essere tenuti dall’ufficio di fallimento o da altro pubblico ufficio o col loro intervento. [^98-2]
+
+<sup>3</sup> Chiuso il fallimento, l’amministrazione trasmetterà il protocollo in un cogli atti all’ufficio dei fallimenti, perchè li conservi nel suo archivio.
+
+<sup>4</sup> …[^98-3]
+
+[^98-1]: Nei testi tedesco e francese i cpv. 1 e 2 costituiscono il cpv. 1.
+[^98-2]: Nei testi tedesco e francese i cpv. 1 e 2 costituiscono il cpv. 1.
+[^98-3]: Abrogato dal n. I del D del TF del 5 giu. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+
+## D. Disposizioni finali
+
+### 1. Entrata in vigore
+
+#### Art. 99
+
+<sup>1</sup> Il presente regolamento entra in vigore col 1° gennaio 1912.
+
+<sup>2</sup> … [^99-1]
+
+[^99-1]: Disp. trans. priva d’oggetto.
+
+### 2. Disposizioni transitorie
+
+#### Art. 100
+
+<sup>1</sup> Tutte le disposizioni e circolari incompatibili col presente regolamento sono abrogate.
+
+<sup>2</sup> È in ispecial modo modificato dall’articolo 61 di questo regolamento l’articolo 12 dell’ordinanza del 10 maggio 1910 [^100-1] concernente il pignoramento, il sequestro e la realizzazione di diritti derivanti da polizze d’assicurazione.
+
+[^100-1]: [RS 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)

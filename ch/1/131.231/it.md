@@ -1,0 +1,2913 @@
+---
+sr: "131.231"
+title: "Costituzione del Cantone di Vaud, del 14 aprile 2003"
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/1136_fga"
+language: it
+version: 2020-03-11
+adopted: 2003-04-14
+in_force: 2003-04-14
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20200311/it/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20200311-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20200311/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Costituzione del Cantone di Vaud
+
+Traduzione[^t-1]
+
+del 14 aprile 2003 (Stato 11 marzo 2020)[^t-2]
+
+[^t-1]: Accettata nella votazione popolare del 22 set. 2002, in vigore dal 14 apr. 2003. Garanzia dell’AF del 24 set. 2003 (FF **2003** 5993 3058). Dal testo originale francese.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+
+Per favorire il pieno sviluppo di ognuno in una società armoniosa
+
+che rispetti il Creato come culla delle generazioni future,
+
+sia aperta al mondo e vi si senta unita,
+
+commisuri la sua forza alla cura che dedica al più debole dei suoi membri,
+
+e concepisca lo Stato come espressione della sua volontà,
+
+il Popolo del Cantone di Vaud si è dato la presente Costituzione:
+
+## Titolo I: Disposizioni e principi generali
+
+### Cantone di Vaud
+
+#### Art. 1
+
+<sup>1</sup> Il Cantone di Vaud è una repubblica democratica fondata sulla libertà, sulla responsabilità, sulla solidarietà e sulla giustizia.
+
+<sup>2</sup> Il Popolo è sovrano. Il suffragio universale è l’unica fonte, diretta o indiretta, del potere.
+
+<sup>3</sup> Il Cantone di Vaud è uno Stato della Confederazione Svizzera.
+
+<sup>4</sup> Esso ha tutte le competenze, eccettuate quelle che la Costituzione federale attribuisce alla Confederazione.
+
+<sup>5</sup> È composto di Comuni e suddiviso in distretti.
+
+### Stemma
+
+#### Art. 2
+
+<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20200311/it/xml/image/image1.png) Lo stemma del Cantone consiste in uno scudo bianco e verde con il motto «Liberté et Patrie» («Libertà e Patria»).
+
+<sup>2</sup> Lo scudo del Cantone di Vaud è: troncato, di colore argento nella partizione 1 caricata con le parole «Liberté e Patrie», disposte su tre righe e scritte in lettere d’oro con bordo nero, e di colore verde nella partizione 2.
+
+### Lingua ufficiale
+
+#### Art. 3
+
+La lingua ufficiale del Cantone è il francese.
+
+### Capitale
+
+#### Art. 4
+
+La capitale del Cantone è Losanna.
+
+### Collaborazioni e relazioni esterne
+
+#### Art. 5
+
+<sup>1</sup> Il Cantone collabora con la Confederazione, con gli altri Cantoni, con le regioni vicine e con gli altri Stati o le loro popolazioni. È aperto all’Europa e al mondo.
+
+<sup>2</sup> Lo Stato partecipa alla creazione d’istituzioni intercantonali o internazionali nel rispetto degli interessi delle comunità locali e regionali; promuove le collaborazioni intercomunali.
+
+### Scopi e principi
+
+#### Art. 6
+
+<sup>1</sup>
+
+Lo Stato ha gli scopi seguenti:
+
+- a. il bene comune e la coesione cantonale;
+- b. l’integrazione armoniosa di ognuno nel corpo sociale;
+- c. la preservazione delle basi fisiche della vita e la conservazione duratura delle risorse naturali;
+- d. la salvaguardia degli interessi delle generazioni future.
+
+<sup>2</sup>
+
+Nelle sue attività, lo Stato:
+
+- a. protegge la dignità, i diritti e le libertà individuali;
+- b. garantisce l’ordine pubblico;
+- c. fa prevalere la giustizia e la pace e sostiene gli sforzi per la prevenzione dei conflitti;
+- d. riconosce la famiglia come cellula fondamentale della società;
+- e. provvede a un’equilibrata rappresentanza d’ambo i sessi in seno alle autorità.
+
+### Principi dell’attività dello Stato di diritto
+
+#### Art. 7
+
+<sup>1</sup> Il diritto è fondamento e limite dell’attività dello Stato.
+
+<sup>2</sup> L’attività dello Stato è scevra di arbitrarietà ed è nell’interesse pubblico; è inoltre proporzionata allo scopo prefissato. Essa si esercita conformemente alle norme della buona fede e con trasparenza.
+
+<sup>3</sup> Qualsiasi attività dello Stato rispetta il diritto di rango superiore.
+
+### Responsabilità individuale
+
+#### Art. 8
+
+<sup>1</sup> Ogni persona fisica o giuridica è responsabile di se stessa e assume responsabilità verso gli altri.
+
+<sup>2</sup> Essa contribuisce al buon andamento della collettività in cui vive e assume la sua parte di responsabilità per garantire alle generazioni future di avere anch’esse la possibilità di decidere autonomamente del loro destino.
+
+<sup>3</sup> Assume altresì la sua parte di responsabilità nell’impiego appropriato dei fondi pubblici e dei servizi finanziati con essi.
+
+## Titolo II: Diritti fondamentali
+
+### Dignità umana
+
+#### Art. 9
+
+La dignità umana è rispettata e protetta.
+
+### Uguaglianza
+
+#### Art. 10
+
+<sup>1</sup> Tutti gli esseri umani sono uguali dinanzi alla legge.
+
+<sup>2</sup> Nessuno dev’essere discriminato a causa segnatamente dell’origine, del sesso, dell’età, della lingua, della sua situazione sociale, del suo stato civile, del suo modo di vita, del suo patrimonio genetico, dell’aspetto fisico, della sua disabilità, nonché delle sue convinzioni od opinioni.
+
+<sup>3</sup> Donne e uomini hanno pari diritti. La legge provvede all’uguaglianza di diritto e di fatto, in particolare nei campi della famiglia, della formazione e del lavoro.
+
+<sup>4</sup> Donne e uomini hanno diritto a un salario uguale per un lavoro di uguale valore.
+
+### Divieto dell’arbitrarietà e protezione della buona fede
+
+#### Art. 11
+
+Ognuno ha il diritto d’essere trattato dalle autorità in modo non arbitrario e conforme alle norme della buona fede.
+
+### Diritto alla vita e libertà personale
+
+#### Art. 12
+
+<sup>1</sup> Ogni essere umano ha diritto alla vita. La pena di morte è vietata.
+
+<sup>2</sup> Ogni essere umano ha diritto alla libertà personale, segnatamente all’integrità fisica e psichica e alla libertà di movimento.
+
+<sup>3</sup> La tortura e qualsiasi altro trattamento o pena crudeli, inumani o degradanti sono vietati.
+
+### Protezione dei fanciulli e dei giovani
+
+#### Art. 13
+
+<sup>1</sup> Ogni fanciullo e ogni giovane ha diritto d’essere particolarmente protetto nella sua integrità fisica e psichica, e d’essere promosso nel suo sviluppo.
+
+<sup>2</sup> Egli esercita da sé i suoi diritti per quanto sia capace di discernimento; altrimenti, per il tramite di un rappresentante.
+
+### Convivenza
+
+#### Art. 14
+
+<sup>1</sup> Il diritto al matrimonio è garantito.
+
+<sup>2</sup> La libertà di scegliere un’altra forma di convivenza è riconosciuta.
+
+<sup>3</sup> Il diritto di fondare una famiglia è garantito.
+
+### Protezione della sfera privata e dei dati personali
+
+#### Art. 15
+
+<sup>1</sup> Ognuno ha diritto al rispetto e alla protezione della vita privata e familiare, del domicilio, della corrispondenza e delle relazioni stabilite mediante le telecomunicazioni.
+
+<sup>2</sup>
+
+Ognuno ha il diritto d’essere protetto dall’utilizzazione abusiva dei dati che lo concernono. Questo diritto comprende:
+
+- a. la consultazione di tali dati;
+- b. la rettifica dei dati inesatti;
+- c. la distruzione dei dati inadeguati o inutili.
+
+### Libertà di coscienza e di credo
+
+#### Art. 16
+
+<sup>1</sup> La libertà di coscienza e di credo è garantita.
+
+<sup>2</sup> Ognuno ha il diritto di scegliere liberamente la propria religione, nonché di formarsi le proprie convinzioni filosofiche e di professarle individualmente o in comunità.
+
+<sup>3</sup> Ognuno ha il diritto di aderire alla comunità di sua scelta e di abbandonarla.
+
+<sup>4</sup> Qualsiasi costrizione, abuso di potere o manipolazione in materia di coscienza e di credo sono vietati.
+
+### Libertà di opinione e d’informazione
+
+#### Art. 17
+
+<sup>1</sup> Le libertà di opinione e d’informazione sono garantite.
+
+<sup>2</sup>
+
+Esse comprendono:
+
+- a. il diritto di formare, esprimere e diffondere liberamente la propria opinione, e di astenersi dal farlo;
+- b. il diritto di ricevere liberamente informazioni, di procurarsele presso fonti generalmente accessibili e di diffonderle;
+- c. il diritto di consultare i documenti ufficiali, per quanto nessun interesse preponderante, pubblico o privato, vi si opponga.
+
+### Libertà dell’arte
+
+#### Art. 18
+
+La libertà dell’arte è garantita.
+
+### Libertà della scienza
+
+#### Art. 19
+
+La libertà della ricerca e dell’insegnamento scientifici è garantita.
+
+### Libertà dei mezzi di comunicazione sociale
+
+#### Art. 20
+
+La libertà dei mezzi di comunicazione sociale e il segreto redazionale sono garantiti.
+
+### Libertà di riunione e di manifestazione
+
+#### Art. 21
+
+<sup>1</sup> Ognuno ha il diritto di organizzare una riunione o una manifestazione e di parteciparvi. Nessuno può esservi costretto.
+
+<sup>2</sup> La legge o un regolamento comunale può subordinare ad autorizzazione le manifestazioni su suolo pubblico.
+
+<sup>3</sup> Lo Stato e i Comuni possono vietarle o sottoporle a restrizioni se l’ordine pubblico risulti minacciato.
+
+### Libertà di associazione
+
+#### Art. 22
+
+<sup>1</sup> Ognuno ha il diritto di creare un’associazione, di farvi parte e di partecipare alle sue attività.
+
+<sup>2</sup> Nessuno può esservi costretto.
+
+### Libertà sindacale
+
+#### Art. 23
+
+<sup>1</sup> La libertà sindacale è garantita.
+
+<sup>2</sup> Nessuno deve subire pregiudizi a causa della sua appartenenza a un sindacato o a causa della sua attività sindacale.
+
+<sup>3</sup> Nessuno può essere costretto ad aderire a un sindacato.
+
+<sup>4</sup> Lo sciopero e la serrata sono leciti quando si riferiscano ai rapporti di lavoro e siano conformi agli obblighi di preservare la pace del lavoro o di ricorrere a una conciliazione.
+
+<sup>5</sup> La legge può limitare questi diritti per assicurare un servizio minimo.
+
+### Libertà di domicilio
+
+#### Art. 24
+
+La libertà di domicilio è garantita.
+
+### Garanzia della proprietà
+
+#### Art. 25
+
+<sup>1</sup> La proprietà è garantita.
+
+<sup>2</sup> In caso di espropriazione o di equivalenti restrizioni della proprietà è dovuta piena indennità.
+
+### Libertà economica
+
+#### Art. 26
+
+<sup>1</sup> La libertà economica è garantita.
+
+<sup>2</sup> Essa comprende segnatamente la libera scelta della professione, il libero accesso a un’attività economica lucrativa privata e il suo libero esercizio.
+
+### Garanzie procedurali generali
+
+#### Art. 27
+
+<sup>1</sup> Nei procedimenti giudiziari o amministrativi, ognuno ha diritto che la sua causa sia trattata equamente e giudicata in termini ragionevoli.
+
+<sup>2</sup> In qualsivoglia procedimento, le parti hanno il diritto d’essere sentite, di consultare gli atti di causa e di ottenere una decisione motivata e con l’indicazione dei rimedi giuridici.
+
+<sup>3</sup> Chiunque sia sprovvisto di mezzi ha diritto al gratuito patrocinio alle condizioni stabilite dalla legge.
+
+### Garanzie nei procedimenti giudiziari
+
+#### Art. 28
+
+Ogni persona la cui causa debba essere giudicata in un procedimento giudiziario ha diritto che la stessa sia deferita a un tribunale stabilito dalla legge, indipendente e imparziale.
+
+### Garanzie penali
+
+#### Art. 29
+
+<sup>1</sup> Ogni persona è presunta innocente fintanto che non sia condannata con sentenza passata in giudicato.
+
+<sup>2</sup> Ognuno ha il diritto d’essere informato quanto prima possibile e in modo dettagliato, in una lingua a lui comprensibile, sulle accuse che gli sono rivolte e sui diritti che gli spettano.
+
+<sup>3</sup> Chiunque sia implicato in un procedimento penale ha diritto a un difensore se necessario per tutelare i suoi propri interessi.
+
+### Garanzie in caso di privazione della libertà
+
+#### Art. 30
+
+<sup>1</sup> Nessuno può essere privato della libertà se non nei casi e secondo le forme previsti dalla legge.
+
+<sup>2</sup> Chiunque sia privato della libertà ha il diritto d’essere subito informato, in una lingua a lui comprensibile, sulle ragioni di tale privazione e sui diritti che gli spettano. Egli deve poter far valere i suoi diritti. Ha segnatamente il diritto di far informare i suoi congiunti e i terzi che devono essere avvisati.
+
+<sup>3</sup> Chi è posto in stato di arresto dev’essere tradotto entro 24 ore dinanzi a un’autorità giudiziaria. Chi si trova in stato di arresto ha il diritto d’essere giudicato in termini ragionevoli o d’essere messo in libertà.
+
+<sup>4</sup> Chiunque sia privato della libertà senza che un giudice l’abbia ordinato ha ognora il diritto di adire il giudice. Questi decide quanto prima possibile sulla legalità di tale privazione.
+
+<sup>5</sup> Chi ha subito un pregiudizio in seguito a una privazione ingiustificata della libertà ha il diritto di ottenere piena riparazione.
+
+### Diritto di petizione
+
+#### Art. 31
+
+<sup>1</sup> Ognuno ha il diritto, senza che gliene derivino pregiudizi, di rivolgere petizioni alle autorità e di raccogliere firme a tal fine.
+
+<sup>2</sup> Le autorità esaminano le petizioni loro rivolte. Le autorità legislative ed esecutive sono tenute a rispondere.
+
+### Libertà politica
+
+#### Art. 32
+
+Ognuno è libero di esercitare i diritti politici senza che gliene derivino pregiudizi.
+
+### Minimo vitale e alloggio di emergenza
+
+#### Art. 33
+
+Ogni persona nel bisogno ha diritto a un alloggio d’emergenza appropriato e ai mezzi indispensabili per condurre un’esistenza conforme alla dignità umana.
+
+### Cure essenziali e diritto di morire nella dignità
+
+#### Art. 34
+
+<sup>1</sup> Ognuno ha diritto alle cure mediche essenziali e all’assistenza necessaria nella sofferenza.
+
+<sup>2</sup> Ognuno ha il diritto di morire nella dignità.
+
+### Maternità
+
+#### Art. 35
+
+- [tab] Ogni donna ha diritto alla sicurezza materiale prima e dopo il parto.
+
+### Educazione e istruzione
+
+#### Art. 36
+
+<sup>1</sup> Ogni fanciullo ha diritto a un’istruzione di base sufficiente e, nelle scuole pubbliche, gratuita.
+
+<sup>2</sup> Egli ha diritto a un’educazione e a un’istruzione che promuovano lo sviluppo delle sue potenzialità e la sua integrazione sociale.
+
+<sup>3</sup> La libertà di scelta dell’insegnamento è riconosciuta.
+
+### Aiuto alla forma-zione professionale iniziale
+
+#### Art. 37
+
+Chiunque sia sprovvisto delle risorse personali o familiari necessarie a una formazione professionale iniziale riconosciuta ha diritto di ottenere un aiuto dallo Stato.
+
+### Limitazione dei diritti fondamentali
+
+#### Art. 38
+
+<sup>1</sup> Qualsiasi limitazione dei diritti fondamentali deve avere una base legale. Le limitazioni gravi devono essere previste da una legge. Sono salvi i casi di pericolo serio, diretto e imminente.
+
+<sup>2</sup> Qualsiasi limitazione dev’essere giustificata da un interesse pubblico o dalla protezione di diritti fondamentali altrui.
+
+<sup>3</sup> Essa dev’essere proporzionata allo scopo prefissato.
+
+<sup>4</sup> L’essenza dei diritti fondamentali è inviolabile.
+
+## Titolo III: Compiti e responsabilità dello Stato e dei Comuni
+
+### Capitolo I. Principi
+
+### Servizio pubblico e delega di compiti
+
+#### Art. 39
+
+<sup>1</sup> Lo Stato e i Comuni assicurano il servizio pubblico.
+
+<sup>2</sup> Tenendo conto dell’iniziativa e della responsabilità individuali, essi assumono i compiti affidati loro dalla Costituzione e dalla legge.
+
+<sup>3</sup> Sotto la loro responsabilità, possono delegare certi compiti.
+
+### Principio di diligenza
+
+#### Art. 40
+
+- [tab] Lo Stato e i Comuni agiscono con diligenza e conformemente ai principi di uguaglianza, accessibilità, qualità, adattamento e continuità.
+
+### Informazione del pubblico
+
+#### Art. 41
+
+Lo Stato e i Comuni informano la popolazione sulle loro attività secondo il principio della trasparenza.
+
+### Capitolo II. Giustizia, mediazione e sicurezza
+
+### Giustizia
+
+#### Art. 42
+
+Lo Stato assicura a ciascuno una giustizia diligente, indipendente e accessibile.
+
+### Mediazione amministrativa e privata
+
+#### Art. 43
+
+<sup>1</sup> Lo Stato istituisce un servizio indipendente di mediazione amministrativa. Il mediatore responsabile è eletto dal Gran Consiglio.
+
+<sup>2</sup> Lo Stato può promuovere la mediazione privata.
+
+### Sicurezza e polizia
+
+#### Art. 44
+
+<sup>1</sup> Nei limiti delle sue competenze, lo Stato ha il monopolio della forza pubblica.
+
+<sup>2</sup> Lo Stato e i Comuni assicurano l’ordine pubblico, nonché la sicurezza delle persone e dei beni.
+
+### Capitolo III. Insegnamento e formazione
+
+### Insegnamento pubblico
+
+#### Art. 45
+
+<sup>1</sup> Lo Stato, in collaborazione con i Comuni, organizza e finanzia l’insegnamento pubblico.
+
+<sup>2</sup> L’insegnamento pubblico è apolitico e aconfessionale.
+
+### Istruzione di base
+
+#### Art. 46
+
+<sup>1</sup> L’istruzione di base è obbligatoria e, nelle scuole pubbliche, gratuita.
+
+<sup>2</sup> Essa promuove lo sviluppo individuale e l’integrazione sociale; prepara alla vita professionale e civica.
+
+<sup>3</sup> Gli obiettivi dell’istruzione di base sono la trasmissione e l’acquisizione di conoscenze; essa comprende anche discipline manuali, fisiche e artistiche.
+
+<sup>4</sup> La scuola assicura, in collaborazione con i genitori, l’educazione dei fanciulli. Coadiuva i genitori nel loro compito educativo.
+
+### Insegnamento secondario e formazione professionale
+
+#### Art. 47
+
+Lo Stato organizza un insegnamento secondario superiore e una formazione professionale iniziale.
+
+### Insegnamento universitario e ricerca
+
+#### Art. 48
+
+<sup>1</sup> Lo Stato assicura un insegnamento universitario e un insegnamento di livello terziario.
+
+<sup>2</sup> Esso promuove la ricerca scientifica.
+
+<sup>3</sup> Lo Stato promuove altresì la collaborazione delle cerchie economiche e dei privati con le scuole universitarie e con gli istituti pubblici di ricerca, nel rispetto dell’indipendenza etica e scientifica di questi ultimi.
+
+### Educazione degli adulti
+
+#### Art. 49
+
+<sup>1</sup> Lo Stato promuove la formazione permanente e la formazione continua.
+
+<sup>2</sup> Esso prende provvedimenti per consentire a ogni adulto di acquisire conoscenze e una formazione professionale iniziale.
+
+### Insegnamento privato riconosciuto di utilità pubblica
+
+#### Art. 50
+
+Lo Stato può sostenere istituti privati che offrano possibilità di formazione complementari alle sue e la cui utilità sia riconosciuta.
+
+### Aiuto alla formazione e borse di studio
+
+#### Art. 51
+
+<sup>1</sup> Lo Stato provvede affinché l’insegnamento pubblico, l’insegnamento privato definito nell’articolo 50 e la formazione professionale siano accessibili a tutti.
+
+<sup>2</sup> Esso attua un sistema di borse di studio e di altri aiuti alla formazione.
+
+### Capitolo IV. Patrimonio e ambiente, cultura e sport
+
+### Patrimonio e ambiente
+
+#### Art. 52
+
+<sup>1</sup> Lo Stato conserva, protegge, arricchisce e promuove il patrimonio naturale e il patrimonio culturale.
+
+<sup>2</sup> Lo Stato e i Comuni salvaguardano l’ambiente naturale e ne sorvegliano l’evoluzione.
+
+<sup>3</sup> Essi lottano contro ogni forma di inquinamento nocivo all’essere umano o al suo ambiente.
+
+<sup>4</sup> Lo Stato e i Comuni tutelano la diversità della fauna, della flora e degli ambienti naturali.
+
+<sup>5</sup> La legge definisce le zone e regioni protette.
+
+### Protezione di Lavaux
+
+#### Art. 52a
+
+[^52a-1]
+
+<sup>1</sup> La regione di Lavaux, dalla Lutrive a Corsier, è dichiarata sito protetto.
+
+<sup>2</sup> Qualsiasi intervento pregiudizievole alla sua protezione può essere impugnato in sede amministrativa o giudiziaria dalle persone lese e dalle associazioni di protezione della natura o di protezione del patrimonio naturale e culturale.
+
+<sup>3</sup> La legge d’applicazione rispetta rigorosamente il perimetro in vigore, segnatamente mantenendo l’area viticola e il carattere tradizionale dei villaggi e dei casali.
+
+[^52a-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 5 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Cultura e creazione artistica
+
+#### Art. 53
+
+<sup>1</sup> Lo Stato e i Comuni promuovono e sostengono la vita culturale e la creazione artistica.
+
+<sup>2</sup> Essi attuano una politica culturale che promuova l’accesso e la partecipazione alla cultura.
+
+### Sport
+
+#### Art. 54
+
+Lo Stato e i Comuni promuovono la pratica dello sport.
+
+### Capitolo V. Assetto territoriale, energia, trasporti e comunicazioni
+
+### Assetto territoriale
+
+#### Art. 55
+
+Lo Stato e i Comuni provvedono a un’occupazione razionale del territorio e a un’utilizzazione parsimoniosa del suolo.
+
+### Risorse naturali ed energia
+
+#### Art. 56
+
+<sup>1</sup> Lo Stato e i Comuni incitano la popolazione all’utilizzazione razionale e parsimoniosa delle risorse naturali, segnatamente dell’energia.
+
+<sup>2</sup> Essi provvedono affinché l’approvvigionamento idrico ed energetico sia sufficiente, diversificato, sicuro, economicamente ottimale e rispettoso dell’ambiente.
+
+<sup>3</sup> Lo Stato e i Comuni favoriscono l’utilizzazione e lo sviluppo delle energie rinnovabili.
+
+<sup>4</sup> Collaborano inoltre agli sforzi volti a rinunciare all’energia nucleare.
+
+### Trasporti e comunicazioni
+
+#### Art. 57
+
+<sup>1</sup> Lo Stato attua una politica coordinata dei trasporti e delle comunicazioni.
+
+<sup>2</sup> Lo Stato e i Comuni tengono conto dei bisogni di tutti gli utenti e delle regioni periferiche.
+
+<sup>3</sup> Lo Stato promuove i trasporti collettivi.
+
+<sup>4</sup> Lo Stato agevola l’accesso ai mezzi e alle attrezzature di telecomunicazione.
+
+### Capitolo VI. Economia
+
+### Politica economica
+
+#### Art. 58
+
+<sup>1</sup> Nel rispetto del principio della libertà economica, lo Stato crea condizioni quadro che favoriscano l’impiego, la diversità delle attività e l’equilibrio interregionale.
+
+<sup>2</sup> Esso promuove l’innovazione tecnologica, nonché la creazione e la riconversione di imprese.
+
+### Agricoltura e silvicoltura
+
+#### Art. 59
+
+<sup>1</sup> Lo Stato prende provvedimenti in favore di un’agricoltura e di una silvicoltura efficienti e rispettose dell’ambiente; tiene conto delle loro molteplici funzioni.
+
+<sup>2</sup> Esso sostiene segnatamente la ricerca, la formazione e la volgarizzazione, nonché la promozione dei prodotti.
+
+### Capitolo VII. Politica sociale e sanità pubblica
+
+### Protezione sociale
+
+#### Art. 60
+
+Lo Stato e i Comuni assicurano ad ogni abitante del Cantone degne condizioni di vita mediante:
+
+- a. la prevenzione dell’esclusione professionale e sociale;
+- b. un aiuto sociale per principio non rimborsabile;
+- c. provvedimenti di reinserimento.
+
+### Integrazione dei disabili
+
+#### Art. 61
+
+<sup>1</sup> Lo Stato e i Comuni considerano i bisogni specifici dei disabili e delle loro famiglie.
+
+<sup>2</sup> Essi prendono provvedimenti per assicurare ai disabili autonomia, integrazione sociale, scolastica e professionale, partecipazione alla vita della comunità, nonché pieno sviluppo nell’ambito familiare.
+
+### Gioventù
+
+#### Art. 62
+
+Lo Stato e i Comuni tengono conto dei bisogni e degli interessi particolari dei fanciulli e dei giovani favorendone le attività culturali, sportive e ricreative.
+
+### Famiglie
+
+#### Art. 63
+
+<sup>1</sup> Lo Stato stabilisce le prestazioni minime in materia di assegni familiari e provvede affinché ogni famiglia possa fruirne.
+
+<sup>2</sup> In collaborazione con enti privati, lo Stato e i Comuni organizzano un’assistenza prescolastica e parascolastica per i bambini.
+
+<sup>3</sup> Lo Stato organizza la protezione dell’infanzia, della gioventù e delle persone affette da dipendenza.
+
+### Scuola a tempo pieno
+
+#### Art. 63a
+
+[^63a-1]
+
+<sup>1</sup> In collaborazione con lo Stato e con enti privati i Comuni organizzano nei locali scolastici o nelle vicinanze, per tutta la durata della scuola dell’obbligo, un’assistenza parascolastica sorvegliata, facoltativa per le famiglie, sotto forma di scuola a tempo pieno.
+
+<sup>2</sup> L’assistenza può essere affidata a organizzazioni private.
+
+<sup>3</sup> Le condizioni di fruizione dell’assistenza parascolastica sono stabilite dai Comuni.
+
+<sup>4</sup> I genitori partecipano al finanziamento dell’assistenza parascolastica.
+
+[^63a-1]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 27 set. 2009. Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 3, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+
+### Assicurazione maternità e congedo parentale
+
+#### Art. 64
+
+<sup>1</sup> In mancanza di un’assicurazione maternità a livello federale, lo Stato instaura un dispositivo cantonale di assicurazione maternità.
+
+<sup>2</sup> Esso promuove il congedo parentale.
+
+### Sanità pubblica
+
+#### Art. 65
+
+<sup>1</sup> Lo Stato coordina e organizza il sistema sanitario.
+
+<sup>2</sup>
+
+Per contribuire alla tutela della salute della popolazione, lo Stato e i Comuni:
+
+- a. incoraggiano ciascuno a prendere cura della propria salute;
+- b. assicurano a ciascuno un equo accesso a cure di qualità, nonché alle informazioni necessarie alla protezione della propria salute;
+- c. favoriscono le cure a domicilio;
+- c<sup>bis</sup>.[^65-1] assicurano che le persone che a causa dell’età, di un’invalidità oppure di un danno alla salute non possono restare a casa abbiano accesso a centri di accoglienza medico-sociali adeguati alle loro esigenze;
+- d. sostengono le istituzioni pubbliche e private attive nell'ambito della prevenzione e delle cure.
+
+<sup>3</sup> Lo Stato e i Comuni prestano particolare attenzione a ogni persona vulnerabile, affetta da dipendenza, disabile o in fin di vita.
+
+[^65-1]: Accettata nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 27 set. 2009. Garanzia dell’AF dell’11 mar. 2020 (**2020** 4199 art. 3 137).
+
+### Protezione dal fumo passivo
+
+#### Art. 65a
+
+[^65a-1]
+
+<sup>1</sup> Al fine di proteggere l’insieme della popolazione, è vietato fumare nei luoghi pubblici interni o chiusi.
+
+<sup>2</sup>
+
+Si tratta segnatamente di:
+
+- a. tutti gli edifici o locali pubblici dipendenti dallo Stato e dai Comuni, nonché di qualsiasi altra istituzione di natura pubblica;
+- b. tutti gli edifici o locali aperti al pubblico, segnatamente quelli adibiti ad attività mediche, ospedaliere, paraospedaliere, culturali, ricreative o sportive, nonché ad attività di formazione, di svago, d’incontro o di esposizione;
+- c. tutti gli esercizi pubblici ai sensi della legislazione sugli alberghi e sulle mescite di bevande, eccettuata la sistemazione di appositi locali chiusi per fumatori, senza servizio e attrezzati con un sistema di ventilazione adeguato;
+- d. i trasporti pubblici e gli altri trasporti professionali di persone;
+- e. gli altri luoghi aperti al pubblico quali definiti dalla legge.
+
+<sup>3</sup> La legge determina le sanzioni in caso d’inosservanza del divieto di fumo e disciplina l’esecuzione del presente articolo.
+
+[^65a-1]: Accettato nella [votazione popolare del 30 nov. 2008](http://www.admin.ch/ch/i/pore/va/20081130/index.html), in vigore dal 30 nov. 2008. Garanzia dell’AF del 10 dic. 2009 ([FF 2009 7985](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 n. 3 [5165](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+
+### Protezione dei consumatori
+
+#### Art. 66
+
+Lo Stato prende provvedimenti al fine di informare e proteggere i consumatori.
+
+### Alloggio
+
+#### Art. 67
+
+<sup>1</sup> Lo Stato e i Comuni, a complemento di quanto intrapreso in responsabilità individuale e su iniziativa privata, provvedono affinché ognuno possa disporre di un’abitazione adeguata, a condizioni sopportabili.
+
+<sup>2</sup> Essi promuovono l’offerta di abitazioni a pigione moderata e la creazione di un sistema di aiuto personalizzato all’alloggio.
+
+<sup>3</sup> Lo Stato e i Comuni promuovono l’accesso alla proprietà dell’abitazione.
+
+### Capitolo VIII. Integrazione degli stranieri e naturalizzazione
+
+### Integrazione degli stranieri
+
+#### Art. 68
+
+<sup>1</sup> Lo Stato agevola l’accoglienza degli stranieri.
+
+<sup>2</sup> Lo Stato e i Comuni promuovono l’integrazione degli stranieri nel rispetto reciproco delle identità e nel rispetto dei valori su cui poggia lo Stato di diritto.
+
+### Naturalizzazione
+
+#### Art. 69
+
+<sup>1</sup> Lo Stato e i Comuni agevolano la naturalizzazione degli stranieri.
+
+<sup>2</sup> La procedura è rapida e gratuita.
+
+<sup>3</sup> La legge disciplina la durata di residenza richiesta e la procedura; prevede un’autorità di ricorso.
+
+### Capitolo IX. Vita associativa e volontariato
+
+#### Art. 70
+
+<sup>1</sup> Lo Stato e i Comuni considerano il ruolo della vita associativa e ne riconoscono l’importanza.
+
+<sup>2</sup> Essi possono accordare alle associazioni riconosciute un sostegno per le loro attività d’interesse generale.
+
+<sup>3</sup> Possono delegare loro compiti nell’ambito di contratti di partenariato.
+
+<sup>4</sup> Agevolano il volontariato e la formazione dei volontari.
+
+### Capitolo X. Aiuto umanitario e cooperazione allo sviluppo
+
+#### Art. 71
+
+<sup>1</sup> Lo Stato e i Comuni collaborano, con gli altri poteri pubblici e con le organizzazioni e imprese interessate, all’aiuto umanitario, alla cooperazione allo sviluppo e alla promozione di un commercio equo.
+
+<sup>2</sup> Essi s’impegnano per il rispetto dei diritti dell’essere umano e per una politica di pace.
+
+### Capitolo XI. Questioni prospettiche
+
+#### Art. 72
+
+Al fine di preparare l’avvenire, lo Stato si avvale della consulenza di un organo per le questioni prospettiche.
+
+### Capitolo XII. Responsabilità dello Stato e dei Comuni
+
+#### Art. 73
+
+<sup>1</sup> Lo Stato e i Comuni rispondono dei danni che i loro agenti o ausiliari causano illecitamente nell’esercizio delle loro funzioni.
+
+<sup>2</sup> La legge stabilisce a quali condizioni essi rispondono anche dei danni che i loro agenti o ausiliari causano lecitamente.
+
+## Titolo IV: Popolo
+
+### Capitolo I. Diritti politici
+
+### Corpo elettorale
+
+#### Art. 74
+
+[^74-1]
+
+<sup>1</sup> Il corpo elettorale si compone dei cittadini svizzeri d’ambo i sessi domiciliati nel Cantone che abbiano compiuto i 18 anni e non siano sotto curatela generale o mandato precauzionale a causa di durevole incapacità di discernimento.
+
+<sup>2</sup> La legge prevede una procedura semplice che consenta alle persone di cui al capoverso 1 in fine di integrarsi o reintegrarsi nel corpo elettorale qualora dimostrino d’essere capaci di discernimento
+
+[^74-1]: Accettato nella [votazione popolare del 25 nov. 2012](http://www.admin.ch/ch/i/pore/va/20121125/index.html), in vigore dal 25 nov. 2012. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 7 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+
+### Contenuto dei diritti politici
+
+#### Art. 75
+
+I diritti politici hanno per oggetto la partecipazione alle elezioni e votazioni, l’eleggibilità, nonché la firma delle domande d’iniziativa e di referendum.
+
+### Esercizio dei diritti politici
+
+#### Art. 76
+
+<sup>1</sup> La legge disciplina l’esercizio dei diritti politici.
+
+<sup>2</sup> Essa prevede che i voti in bianco, conteggiati separatamente nelle elezioni e votazioni, siano presi in considerazione per il calcolo della maggioranza assoluta nelle elezioni secondo il sistema maggioritario.
+
+### Capitolo II. Elezioni
+
+#### Art. 77
+
+<sup>1</sup>
+
+Il corpo elettorale elegge:
+
+- a. i membri del Gran Consiglio;
+- b. i membri del Consiglio di Stato;
+- c. i deputati vodesi al Consiglio degli Stati.
+
+<sup>2</sup> I deputati vodesi al Consiglio degli Stati sono eletti contemporaneamente ai consiglieri nazionali e per la stessa durata. La procedura elettorale è la medesima di quella applicabile all’elezione del Consiglio di Stato.
+
+### Capitolo III. Iniziativa e referendum popolari
+
+### Sezione I: Iniziativa popolare
+
+### Oggetto
+
+#### Art. 78
+
+Mediante un’iniziativa popolare si può chiedere:
+
+- a. la revisione totale o parziale della Costituzione;
+- b. l’adozione, la modifica o l’abrogazione di una legge;
+- c. l’apertura di negoziati per la conclusione, la revisione o la denuncia di un trattato internazionale o intercantonale sottostante a referendum facoltativo o sottoposto a referendum obbligatorio;
+- d. l’adozione, la modifica o l’abrogazione di un decreto del Gran Consiglio sottostante a referendum facoltativo.
+
+### Forma dell’iniziativa, firme
+
+#### Art. 79
+
+<sup>1</sup> L’iniziativa popolare può rivestire la forma di proposta generica o, se non chiede la revisione totale della Costituzione, di progetto elaborato.
+
+<sup>2</sup> Per la sua riuscita formale essa deve raccogliere, entro quattro mesi, almeno 12 000 firme, o 18 000 se chiede la revisione totale della Costituzione.
+
+### Validità dell’iniziativa
+
+#### Art. 80
+
+[^80-1]
+
+<sup>1</sup>
+
+Il Consiglio di Stato dichiara valide le iniziative prima dell’inizio della raccolta delle firme. Ne costata la nullità se:
+
+- a. sono contrarie al diritto di rango superiore;
+- b. violano l’unità del rango, della forma o della materia.
+
+<sup>2</sup> La decisione del Consiglio di Stato è impugnabile con ricorso alla Corte costituzionale.
+
+[^80-1]: Accettato nella [votazione popolare del 9 giu. 2013](http://www.admin.ch/ch/i/pore/va/20130609/index.html), in vigore dal 10 giu. 2013. Garanzia dell’AF l’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 9, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+
+### Procedura
+
+#### Art. 81
+
+<sup>1</sup> La legge disciplina il modo di trattazione dell’iniziativa da parte del Gran Consiglio e la procedura di voto popolare nel caso in cui all’iniziativa sia contrapposto un controprogetto.
+
+<sup>2</sup> Sono fatti salvi gli articoli 173 e 174 sulla revisione della Costituzione.
+
+### Termine di trattazione
+
+#### Art. 82
+
+<sup>1</sup> L’iniziativa è sottoposta al voto popolare il più tardi due anni dopo il deposito.
+
+<sup>2</sup> Il Gran Consiglio può prorogare di un anno questo termine se si tratta di un’iniziativa generica ch’esso ha approvato o di un’iniziativa elaborata cui ha deciso di contrapporre un controprogetto.
+
+### Sezione II: Referendum popolare
+
+### Referendum obbligatorio
+
+#### Art. 83
+
+<sup>1</sup>
+
+Sono sottoposti obbligatoriamente al corpo elettorale:
+
+- a. le revisioni totali o parziali della Costituzione;
+- b. i trattati internazionali o intercantonali che deroghino alla Costituzione o la integrino;
+- c. le modifiche del territorio cantonale;
+- d. qualsivoglia preavviso, legge o disposizione generale concernente l’utilizzazione, il trasporto o il deposito di energia o materia nucleari.
+
+<sup>2</sup> Sono inoltre sottoposti al voto del corpo elettorale i provvedimenti di risanamento finanziario previsti dall’articolo 165 capoverso 2.
+
+### Referendum facoltativo
+
+#### Art. 84
+
+<sup>1</sup>
+
+Sottostanno a referendum facoltativo:
+
+- a. le leggi e i decreti;
+- b. i trattati internazionali e intercantonali che deroghino alla legge o la integrino.
+
+<sup>2</sup>
+
+Non sottostanno tuttavia a referendum:
+
+- a. gli oggetti di cui il Gran Consiglio prende atto;
+- b. il bilancio di previsione, i crediti aggiuntivi, i prestiti, le spese vincolate e i conti;
+- c. le elezioni;
+- d. la grazia;
+- e. le naturalizzazioni;
+- f. i diritti d’iniziativa e di referendum esercitati dal Gran Consiglio in virtù del diritto federale.
+
+<sup>3</sup> Per la sua riuscita formale, la domanda di referendum deve raccogliere almeno 12 000 firme entro 60 giorni dalla pubblicazione dell’atto. La legge prevede termini più lunghi per determinati periodi dell’anno in cui la raccolta di firme è più difficile.[^84-1]
+
+[^84-1]: Accettato nella [votazione popolare del 9 giu. 2013](http://www.admin.ch/ch/i/pore/va/20130609/index.html), in vigore dal 10 giu. 2013. Garanzia dell’AF l’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 9, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+
+### Capitolo IV. Partecipazione alla vita pubblica
+
+### Formazione civica e commissione di giovani
+
+#### Art. 85
+
+<sup>1</sup> Lo Stato e i Comuni preparano i fanciulli e i giovani all’esercizio dei diritti e doveri civici assicurando loro una formazione civica e promuovendo diverse forme di esperienze partecipative.
+
+<sup>2</sup> Lo Stato istituisce una commissione di giovani.
+
+### Partiti e associazioni
+
+#### Art. 86
+
+<sup>1</sup> I partiti e le associazioni contribuiscono a formare l’opinione e la volontà pubbliche.
+
+<sup>2</sup> Essi sono consultati dallo Stato e dai Comuni sugli oggetti che li concernono.
+
+<sup>3</sup> I partiti badano ad attuare il principio della rappresentanza equilibrata dei due sessi.
+
+### Informazione pubblica
+
+#### Art. 87
+
+<sup>1</sup> Le autorità cantonali e comunali pubblicano i loro progetti in modo da consentire la discussione pubblica.
+
+<sup>2</sup> Esse informano la popolazione sugli oggetti sottoposti a votazione.
+
+### Promozione dell’esercizio dei diritti politici
+
+#### Art. 88
+
+Lo Stato e i Comuni promuovono e agevolano l’esercizio dei diritti politici.
+
+## Titolo V: Autorità cantonali
+
+### Capitolo I. Disposizioni generali
+
+### Divisione dei poteri
+
+#### Art. 89
+
+<sup>1</sup> Le autorità sono organizzate secondo il principio della divisione dei poteri.
+
+<sup>2</sup>
+
+Le autorità comprendono:
+
+- a. il potere legislativo;
+- b. il potere esecutivo;
+- c. il potere giudiziario.
+
+### Incompatibilità
+
+#### Art. 90
+
+<sup>1</sup> Le funzioni di membro del Gran Consiglio, del Consiglio di Stato, di un’autorità giudiziaria e della Corte dei conti, nonché di mediatore sono incompatibili. La legge può prevedere eccezioni per i membri non permanenti di un’autorità giudiziaria.
+
+<sup>2</sup> I membri del Consiglio di Stato non possono esercitare alcun’altra funzione, ufficiale o lucrativa privata, né essere membri delle Camere federali. Sono eccettuate le funzioni esercitate nell’ambito di una delega.
+
+<sup>3</sup> I pubblici dipendenti dell’amministrazione cantonale non possono essere membri di un’autorità giudiziaria, fatte salve le eccezioni previste dalla legge.
+
+<sup>4</sup> I quadri superiori dell’amministrazione cantonale non possono essere membri del Gran Consiglio.
+
+<sup>5</sup> La legge può prevedere ulteriori incompatibilità.
+
+### Capitolo II. Gran Consiglio
+
+### Sezione I: Principio
+
+#### Art. 91
+
+Il Gran Consiglio è l’autorità suprema del Cantone, fatti salvi i diritti del Popolo.
+
+### Sezione II: Composizione
+
+### Composizione, legislatura
+
+#### Art. 92
+
+Il Gran Consiglio si compone di 150 deputati, eletti per un quinquennio.
+
+### Modo di elezione, circondari elettorali e quorum
+
+#### Art. 93
+
+<sup>1</sup> I membri del Gran Consiglio sono eletti dal corpo elettorale secondo il sistema proporzionale.
+
+<sup>2</sup> I distretti costituiscono i circondari elettorali. I distretti popolosi e quelli comprendenti regioni periferiche poco popolate possono essere suddivisi in più subcircondari; questi ultimi sono raggruppati per la ripartizione dei seggi.
+
+<sup>3</sup> I seggi sono ripartiti tra i circondari proporzionalmente alla loro popolazione residente. Ogni subcircondario dispone di almeno due seggi.
+
+<sup>4</sup> Le liste che hanno raccolto meno del cinque per cento del totale dei suffragi validi emessi nel loro circondario non sono considerate per l’assegnazione dei seggi.
+
+### Sezione III: Organizzazione e statuto dei membri
+
+### Presidenza
+
+#### Art. 94
+
+Il Gran Consiglio elegge il suo presidente per un anno. Il presidente uscente non è immediatamente rieleggibile.
+
+### Sedute
+
+#### Art. 95
+
+<sup>1</sup> Il Gran Consiglio si riunisce periodicamente in sedute ordinarie.
+
+<sup>2</sup> Esso si riunisce in seduta straordinaria a richiesta di un quinto dei suoi membri o a richiesta del Consiglio di Stato.
+
+<sup>3</sup> Il Gran Consiglio può deliberare validamente soltanto se è presente la maggioranza assoluta dei suoi membri.
+
+### Pubblicità delle sedute
+
+#### Art. 96
+
+<sup>1</sup> Le sedute del Gran Consiglio sono pubbliche.
+
+<sup>2</sup> Il Gran Consiglio può decidere di riunirsi a porte chiuse nei casi previsti dalla legge.
+
+### Gruppi parlamentari
+
+#### Art. 97
+
+I membri del Gran Consiglio possono organizzarsi in gruppi.
+
+### Servizi del Gran Consiglio
+
+#### Art. 98
+
+Il Gran Consiglio dispone di propri servizi. Può far capo ai servizi dell’amministrazione cantonale.
+
+### Indipendenza, pubblicazione dei legami con gruppi d’interesse
+
+#### Art. 99
+
+<sup>1</sup> I membri del Gran Consiglio esercitano liberamente il loro mandato.
+
+<sup>2</sup> Essi rendono pubblici i loro legami con gruppi d’interesse.
+
+### Immunità
+
+#### Art. 100
+
+I membri del Gran Consiglio si esprimono liberamente nel Consiglio medesimo e dinanzi ai suoi organi. Non possono essere perseguiti per le loro dichiarazioni, se non nelle forme previste dalla legge.
+
+### Diritti dei deputati
+
+#### Art. 101
+
+<sup>1</sup> Ogni deputato, ogni gruppo parlamentare ed ogni commissione dispongono dei diritti d’iniziativa, di mozione, di postulato, d’interpellanza, d’interrogazione e di risoluzione.
+
+<sup>2</sup> L’amministrazione fornisce ai deputati tutte le informazioni utili all’esercizio del loro mandato.
+
+### Retribuzione dei deputati
+
+#### Art. 102
+
+I deputati hanno diritto a una retribuzione.
+
+### Sezione IV: Competenze
+
+### Legislazione, trattati internazionali e intercantonali
+
+#### Art. 103
+
+<sup>1</sup> Il Gran Consiglio emana le leggi e i decreti.
+
+<sup>2</sup> Esso approva i trattati internazionali e intercantonali, eccetto quelli di competenza esclusiva del Consiglio di Stato.
+
+### Programma di legislatura e pianificazione
+
+#### Art. 104
+
+<sup>1</sup> Il Gran Consiglio prende atto del programma di legislatura del Consiglio di Stato nei due mesi dopo la sua presentazione.
+
+<sup>2</sup> Esso adotta il piano direttore e i piani settoriali cantonali.
+
+### Finanze
+
+#### Art. 105
+
+<sup>1</sup>
+
+Il Gran Consiglio prende atto ogni anno della pianificazione finanziaria a medio termine e, simultaneamente, del rapporto sull’indebitamento. In pari tempo, stabilisce su proposta del Consiglio di Stato:
+
+- a. gli importi destinati alle spese di funzionamento e d’investimento;
+- b. l’aliquota fiscale cantonale;
+- c. il massimale dei nuovi prestiti.
+
+<sup>2</sup>
+
+Per altro, il Gran Consiglio adotta su proposta del Consiglio di Stato:
+
+- a. i crediti aggiuntivi;
+- b. i crediti d’investimento e il loro ammortamento;
+- c. l’acquisto e l’alienazione di beni, per quanto la legge non deleghi questa competenza al Consiglio di Stato.
+
+<sup>3</sup> Il Gran Consiglio approva annualmente i conti dello Stato.
+
+### Elezioni
+
+#### Art. 106
+
+<sup>1</sup>
+
+Il Gran Consiglio elegge:
+
+- a. i suoi propri organi;
+- b. i giudici del Tribunale cantonale;
+- c. i membri della Corte dei conti;
+- d. il mediatore amministrativo;
+- e.[^106-1] il procuratore generale.
+
+<sup>2</sup> Il Gran Consiglio designa inoltre i membri della Commissione per la nomina dei giudici prevista negli articoli 131 e 166.
+
+[^106-1]: Accettata nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 27 set. 2009. Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 3, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+
+### Alta vigilanza
+
+#### Art. 107
+
+<sup>1</sup> Il Gran Consiglio esercita l’alta vigilanza sull’attività del Consiglio di Stato e sulla gestione del Tribunale cantonale. È fatta salva l’autonomia della giurisprudenza.
+
+<sup>2</sup> Il Gran Consiglio si pronuncia annualmente sulla gestione dello Stato.
+
+<sup>3</sup> Esso può decidere in qualsiasi momento di indagare su un punto particolare dell’attività del Consiglio di Stato.
+
+### Partecipazioni
+
+#### Art. 108
+
+<sup>1</sup> Il Gran Consiglio decide circa la partecipazione dello Stato alle persone giuridiche.
+
+<sup>2</sup> La legge prevede eccezioni.[^108-1]
+
+[^108-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 5 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Altre competenze
+
+#### Art. 109
+
+<sup>1</sup> Il Gran Consiglio accorda la grazia e l’amnistia.
+
+<sup>2</sup> Esso esercita i diritti d’iniziativa e di referendum che il diritto federale accorda ai Cantoni.
+
+<sup>3</sup> Partecipa agli organismi interparlamentari di sua scelta.
+
+### Forma degli atti
+
+#### Art. 110
+
+<sup>1</sup>
+
+Il Gran Consiglio esercita le sue competenze mediante:
+
+- a. leggi, per le norme generali e astratte di durata indeterminata;
+- b. decreti, per gli altri atti; sono eccettuate le decisioni di procedura interna.
+
+<sup>2</sup> Il Gran Consiglio può anche esprimere la sua opinione mediante risoluzioni.
+
+### Iniziativa, proposta e elaborazione degli atti
+
+#### Art. 111
+
+<sup>1</sup> Hanno diritto d’iniziativa i membri, i gruppi e le commissioni del Gran Consiglio, nonché il Consiglio di Stato. Sono salve le disposizioni sull’iniziativa popolare.
+
+<sup>2</sup> Gli atti la cui emanazione è di competenza del Gran Consiglio possono essere elaborati dal Consiglio di Stato o dal Gran Consiglio medesimo.
+
+<sup>3</sup> I membri del Gran Consiglio e quelli del Consiglio di Stato possono fare proposte relative a un oggetto in deliberazione.
+
+### Capitolo III. Consiglio di Stato
+
+### Sezione I: Principio
+
+#### Art. 112
+
+Il Consiglio di Stato è l’autorità esecutiva suprema del Cantone.
+
+### Sezione II: Composizione
+
+### Composizione, durata della carica
+
+#### Art. 113
+
+<sup>1</sup> Il Consiglio di Stato si compone di sette membri eletti per un quinquennio.
+
+<sup>2</sup> I seggi divenuti vacanti sono assegnati entro 90 giorni, se nei sei mesi seguenti non ha luogo il rinnovo integrale del Consiglio di Stato.[^113-1]
+
+[^113-1]: Accettato nella [votazione popolare del 9 giu. 2013](http://www.admin.ch/ch/i/pore/va/20130609/index.html), in vigore dal 10 giu. 2013. Garanzia dell’AF l’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 9, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+
+### Modo di elezione
+
+#### Art. 114
+
+<sup>1</sup> I membri del Consiglio di Stato sono eletti dal corpo elettorale contemporaneamente ai membri del Gran Consiglio.
+
+<sup>2</sup> L’elezione si svolge secondo il sistema maggioritario a due turni.
+
+### Presidenza
+
+#### Art. 115
+
+Il Consiglio di Stato designa per la durata della legislatura il suo presidente, il quale assicura coerenza all’operato governativo.
+
+### Sezione III: Organizzazione
+
+### Collegialità e autonomia
+
+#### Art. 116
+
+<sup>1</sup> Il Consiglio di Stato è un’autorità collegiale.
+
+<sup>2</sup> Esso si organizza liberamente nei limiti fissati dalla legge.
+
+### Sistema dipartimentale e direzione dell’amministrazione
+
+#### Art. 117
+
+<sup>1</sup> Ogni membro del Consiglio di Stato dirige un dipartimento.
+
+<sup>2</sup> Il presidente del Consiglio di Stato dispone dell’amministrazione generale, coordina l’attività dei dipartimenti e vigila sul loro buon funzionamento.
+
+### Conferenza degli affari federali
+
+#### Art. 118
+
+Il Consiglio di Stato e la deputazione vodese alle Camere federali – o una delegazione di quest’ultima – costituiscono, secondo le modalità stabilite dalla legge, una commissione permanente per lo scambio d’informazioni relative agli affari federali, denominata «Conferenza degli affari federali».
+
+### Sezione IV: Competenze
+
+### Programma di legislatura
+
+#### Art. 119
+
+<sup>1</sup> Nei quattro anni dopo la sua entrata in funzione, il Consiglio di Stato presenta al Gran Consiglio un programma di legislatura in cui sono definiti gli obiettivi governativi e i mezzi per conseguirli, nonché il calendario previsto.
+
+<sup>2</sup> Tutti i membri del Consiglio di Stato sono vincolati al contenuto di questo programma.
+
+<sup>3</sup> Il Consiglio di Stato può modificare il programma di legislatura nel corso della legislatura medesima; presenta le modifiche al Gran Consiglio, il quale ne prende atto.
+
+<sup>4</sup> All’inizio di ogni anno, il Consiglio di Stato riferisce al Gran Consiglio sullo stato di attuazione del programma di legislatura.
+
+### Competenze in materia legislativa
+
+#### Art. 120
+
+<sup>1</sup> Il Consiglio di Stato presenta al Gran Consiglio i progetti sui quali questo è chiamato a deliberare. Riferisce sulle iniziative popolari e su quelle dei membri del Gran Consiglio.
+
+<sup>2</sup> Il Consiglio di Stato emana norme di diritto, per quanto la Costituzione o la legge lo autorizzino a farlo. Emana le disposizioni necessarie all’applicazione delle leggi e dei decreti.
+
+### Relazioni esterne
+
+#### Art. 121
+
+<sup>1</sup> Il Consiglio di Stato rappresenta il Cantone.
+
+<sup>2</sup> Esso può concludere autonomamente trattati intercantonali o internazionali se una legge o un trattato approvato dal Gran Consiglio lo preveda.
+
+<sup>3</sup> Il Consiglio di Stato può concludere contratti amministrativi con la Confederazione o con gli altri Cantoni.
+
+### Finanze
+
+#### Art. 122
+
+<sup>1</sup> Il Consiglio di Stato prepara il progetto del bilancio di previsione e presenta i conti.
+
+<sup>2</sup> Esso decide circa le spese, nonché circa gli acquisti e le alienazioni di beni demaniali nei limiti stabiliti dalla legge.
+
+### Competenze amministrative
+
+#### Art. 123
+
+Il Consiglio di Stato dirige l’amministrazione cantonale.
+
+### Sicurezza e ordine pubblici
+
+#### Art. 124
+
+Il Consiglio di Stato risponde della sicurezza e dell’ordine pubblici.
+
+### Clausola generale di polizia e situazioni straordinarie
+
+#### Art. 125
+
+<sup>1</sup> Il Consiglio di Stato può, anche senza base legale, prendere tutti i provvedimenti necessari per far fronte a gravi minacce o ad altre situazioni di emergenza.
+
+<sup>2</sup> La legge disciplina la procedura di ratifica da parte del Gran Consiglio.
+
+### Sezione V: Pubblico ministero
+
+### Pubblico ministero
+
+#### Art. 125a
+
+[^125a-1]
+
+<sup>1</sup> Il Pubblico ministero è l’autorità incaricata di svolgere l’istruttoria e di sostenere l’accusa.
+
+<sup>2</sup> Esso fruisce di totale indipendenza nell’espletamento dei suoi compiti legali.
+
+<sup>3</sup> Sotto il profilo amministrativo, è aggregato al Consiglio di Stato.
+
+<sup>4</sup> La legge ne disciplina l’organizzazione, il funzionamento e le competenze.
+
+[^125a-1]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 27 set. 2009. Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 3, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+
+### Capitolo IV. Tribunali
+
+### Sezione I: Principi generali
+
+### Indipendenza e imparzialità
+
+#### Art. 126
+
+<sup>1</sup> L’indipendenza dei tribunali è garantita.
+
+<sup>2</sup> I giudici esercitano le funzioni giudiziarie in modo indipendente e imparziale.
+
+<sup>3</sup> Oltre alla funzione giudiziaria, essi non possono esercitare un’attività tale da turbare la loro indipendenza o da creare un’apparenza di parzialità. Sono fatte salve le norme relative alla composizione dei tribunali paritetici.
+
+### Organizzazione giudiziaria, divieto dei tribunali d’eccezione
+
+#### Art. 127
+
+<sup>1</sup> La legge determina il numero, l’organizzazione e le competenze dei tribunali.
+
+<sup>2</sup> Non possono essere istituiti tribunali d’eccezione, indipendentemente dalla loro denominazione.
+
+### Celerità e qualità della giustizia
+
+#### Art. 128
+
+Il Gran Consiglio accorda alle autorità giudiziarie mezzi sufficienti per garantire la celerità e la qualità della giustizia.
+
+### Doppio grado di giurisdizione
+
+#### Art. 129
+
+<sup>1</sup> Qualsiasi decisione giudiziaria in materia civile o penale può essere impugnata in secondo grado a livello cantonale.
+
+<sup>2</sup> La legge provvede affinché a livello cantonale non vi siano più di due gradi giurisdizionali competenti a decidere nel merito delle controversie.
+
+### Sezione II: Tribunale cantonale
+
+### Principio
+
+#### Art. 130
+
+Il Tribunale cantonale è l’autorità giudiziaria suprema del Cantone.
+
+### Composizione, elezione dei giudici
+
+#### Art. 131
+
+<sup>1</sup> I giudici e i giudici supplenti del Tribunale cantonale sono eletti dal Gran Consiglio per un quinquennio a contare dal 1° gennaio dell’anno che segue il rinnovo del Gran Consiglio, su preavviso di una commissione di nomina.[^131-1]
+
+<sup>2</sup> La commissione di nomina è designata dal Gran Consiglio. È composta di deputati e di esperti indipendenti.
+
+<sup>3</sup> La scelta dei candidati al Tribunale cantonale si fonda essenzialmente sulla loro formazione giuridica e sulla loro esperienza. Il Gran Consiglio bada inoltre affinché sia assicurata un’equa rappresentanza delle diverse sensibilità politiche.
+
+<sup>4</sup> La legge disciplina la designazione dei giudici assessori della Corte di diritto amministrativo e pubblico e della Co rte delle assicurazioni so ciali del Tribunale cantonale.[^131-2]
+
+[^131-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 5 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^131-2]: Accettato nella [votazione popolare del 30 nov. 2008](http://www.admin.ch/ch/i/pore/va/20081130/index.html), in vigore dal 30 nov. 2008. Garanzia dell’AF del 10 dic. 2009 ([FF 2009 7985](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 n. 3 [5165](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+
+### Organizzazione e autonomia
+
+#### Art. 132
+
+<sup>1</sup> Il Tribunale cantonale è autonomo in materia di organizzazione, amministrazione e finanze nei limiti del bilancio di previsione adottato dal Gran Consiglio.
+
+<sup>2</sup> Ogni anno, per il tramite del Consiglio di Stato, il Tribunale cantonale sottopone al Gran Consiglio il suo bilancio di previsione, la sua gestione e i suoi conti.
+
+### Competenze
+
+#### Art. 133
+
+<sup>1</sup>
+
+In qualità di autorità giudiziaria, il Tribunale cantonale giudica:
+
+- a. in primo grado, le cause che la legge include nelle sue competenze;
+- b. in secondo grado, le altre cause, eccetto quelle che la legge affida espressamente a un’altra autorità.
+
+<sup>2</sup>
+
+In qualità di autorità amministrativa, il Tribunale cantonale:
+
+- a. dirige e sorveglia l’ordine giudiziario;
+- b. designa gli altri magistrati e il personale dell’ordine giudiziario.
+
+### Opinioni dissidenti
+
+#### Art. 134
+
+I giudici del Tribunale cantonale possono esprimere pareri di minoranza nelle sentenze e decisioni.
+
+### Alta vigilanza
+
+#### Art. 135
+
+Fatta salva l’autonomia della giurisprudenza, il Tribunale cantonale è sottoposto all’alta vigilanza del Gran Consiglio.
+
+### Sezione III: Corte costituzionale
+
+#### Art. 136
+
+<sup>1</sup> La Corte costituzionale è una sezione del Tribunale cantonale.
+
+<sup>2</sup>
+
+La Corte costituzionale:
+
+- a. controlla, su richiesta depositata entro 20 giorni dalla loro pubblicazione, la conformità delle norme cantonali con il diritto di rango superiore; la legge definisce la legittimazione attiva;
+- b. giudica, su ricorso e in ultima istanza cantonale, le controversie relative all’esercizio dei diritti politici in materia cantonale e comunale;
+- c. risolve i conflitti di competenza tra autorità.
+
+<sup>3</sup> Le sue decisioni sono pubblicate.
+
+## Titolo VI: Comuni e distretti
+
+### Capitolo I. Comuni
+
+### Sezione I: Disposizioni generali
+
+### Definizione e garanzie
+
+#### Art. 137
+
+<sup>1</sup> I Comuni sono enti pubblici con personalità giuridica.
+
+<sup>2</sup> La loro esistenza e il loro territorio sono garantiti nei limiti della Costituzione.
+
+### Compiti
+
+#### Art. 138
+
+<sup>1</sup> Oltre ai compiti loro propri che adempiono volontariamente, i Comuni assumono i compiti attribuiti loro dalla Costituzione o dalla legge. Essi si adoperano per il benessere dei loro abitanti e per la preservazione di condizioni di vita durature.
+
+<sup>2</sup> Lo Stato affida ai Comuni i compiti ch’essi sono in grado di eseguire meglio dello Stato medesimo.
+
+### Autonomia comunale
+
+#### Art. 139
+
+I Comuni dispongono di autonomia, in particolare per quanto concerne:
+
+- a. la gestione del demanio pubblico e del patrimonio comunale;
+- b. l’amministrazione comunale;
+- c. la determinazione, la riscossione e la destinazione delle tasse e imposte comunali;
+- d. l’assetto locale del territorio;
+- e. l’ordine pubblico;
+- f. le relazioni intercomunali.
+
+### Vigilanza dello Stato
+
+#### Art. 140
+
+I Comuni sottostanno alla vigilanza dello Stato, il quale si assicura che le loro attività siano conformi alla legge.
+
+### Sezione II: Organizzazione politica
+
+### Sottosezione I:In genere
+
+### Autorità
+
+#### Art. 141
+
+<sup>1</sup> Ogni Comune ha un’autorità deliberante, il Consiglio comunale o il Consiglio generale, e un’autorità esecutiva, il Municipio.
+
+<sup>2</sup> La legge determina a quali condizioni un Comune può dotarsi di un Consiglio comunale o di un Consiglio generale.
+
+### Diritti politici
+
+#### Art. 142
+
+<sup>1</sup>
+
+Fanno parte del corpo elettorale comunale, se hanno compiuto i 18 anni e non sono sotto curatela generale o mandato precauzionale a causa di durevole incapacità di discernimento:[^142-1]
+
+- a. gli Svizzeri d’ambo i sessi domiciliati nel Comune;
+- b. gli stranieri d’ambo i sessi domiciliati nel Comune autorizzati a risiedere in Svizzera da almeno dieci anni e domiciliati nel Cantone da almeno tre.
+
+<sup>2</sup> I diritti politici hanno per oggetto la partecipazione alle elezioni e votazioni, l’eleggibilità e la firma delle domande d’iniziativa e, nei Comuni dove vi è un Consiglio comunale, di referendum.
+
+<sup>3</sup> La legge precisa le modalità d’esercizio di questi diritti. Sono applicabili gli articoli 74 capoverso 2 e 76 capoverso 2.
+
+[^142-1]: Accettato nella [votazione popolare del 14 apr. 2014](http://www.admin.ch/ch/i/pore/va/20140414/index.html), in vigore dal 25 nov. 2012. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 7 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+
+### Incompatibilità
+
+#### Art. 143
+
+<sup>1</sup> Nessuno può essere contemporaneamente membro dell’autorità deliberante e dell’autorità esecutiva di un Comune.
+
+<sup>2</sup> I pubblici dipendenti superiori dell’amministrazione comunale non possono far parte del Consiglio comunale.
+
+<sup>3</sup> Il regolamento comunale può limitare il cumulo di un mandato esecutivo comunale con mandati cantonali o federali.
+
+### Sottosezione II:Consiglio comunale o Consiglio generale
+
+### Composizione e organizzazione del Consiglio comunale
+
+#### Art. 144
+
+<sup>1</sup> I membri del Consiglio comunale sono eletti dal corpo elettorale per un quinquennio.
+
+<sup>2</sup> Essi sono eletti di norma secondo il sistema proporzionale; si applica il quorum previsto dall’articolo 93 capoverso 4.
+
+<sup>3</sup> Nei Comuni con meno di 3000 abitanti il regolamento comunale può prevedere che l’elezione si svolga secondo il sistema maggioritario.[^144-1]
+
+[^144-1]: Accettato nella [votazione popolare del 4 set. 2011](http://www.admin.ch/ch/i/pore/va/20110904/index.html), in vigore dal 4 set. 2011. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2249](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 n. 5, [2012 7501](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+
+### Composizione del Consiglio generale
+
+#### Art. 145
+
+Tutti i membri del corpo elettorale possono far parte del Consiglio generale, eccetto i membri del Municipio.
+
+### Competenze
+
+#### Art. 146
+
+<sup>1</sup>
+
+Il Consiglio comunale o il Consiglio generale:
+
+- a. emana i regolamenti;
+- b. adotta il decreto sull’imposizione fiscale e il bilancio di previsione, e autorizza le spese straordinarie e i prestiti;
+- c. si pronuncia sulle collaborazioni intercomunali;
+- d. decide circa i progetti di acquisto o alienazione di beni fondiari;
+- e. controlla la gestione;
+- f. approva i conti.
+
+<sup>2</sup> La legge può conferirgli altre competenze.
+
+<sup>3</sup> Il Consiglio comunale o il Consiglio generale può, mediante mozione, obbligare il Municipio a presentargli uno studio o un progetto. Può impartirgli un termine a tal fine.
+
+### Referendum e iniziativa popolari
+
+#### Art. 147
+
+<sup>1</sup> Il corpo elettorale dispone del diritto d’iniziativa e, nei Comuni in cui vi è un Consiglio comunale, del diritto di referendum.
+
+<sup>2</sup> La legge definisce l’esercizio di questi diritti e gli oggetti esclusi dal diritto di referendum o d’iniziativa.
+
+### Sottosezione III:Municipio
+
+### Composizione e durata del mandato
+
+#### Art. 148
+
+Il Municipio è composto di almeno tre membri, fra cui il sindaco in veste di presidente. Essi sono eletti per un quinquennio.
+
+### Elezione e revoca
+
+#### Art. 149
+
+<sup>1</sup> I membri del Municipio sono eletti direttamente dal corpo elettorale secondo il sistema maggioritario a due turni.
+
+<sup>2</sup> Il sindaco, scelto fra i membri del Municipio, è eletto dal corpo elettorale secondo lo stesso sistema, il più tardi un mese dopo l’elezione del Municipio. La sua elezione può essere tacita.
+
+<sup>3</sup> La legge prevede i casi e la procedura di revoca dei membri del Municipio.
+
+### Organizzazione
+
+#### Art. 150
+
+<sup>1</sup> Il Municipio è un’autorità collegiale. Si organizza liberamente.
+
+<sup>2</sup> Esso ha tutte le competenze comunali, eccetto quelle che la Costituzione o la legge attribuisce all’autorità deliberante.
+
+<sup>3</sup> Il sindaco presiede il Municipio, coordina l’attività dei municipali e dispone dell’amministrazione comunale. La legge determina le sue altre funzioni.
+
+### Sezione III: Aggregazione di Comuni
+
+### Principi
+
+#### Art. 151
+
+<sup>1</sup> Lo Stato promuove e favorisce le aggregazioni di Comuni.
+
+<sup>2</sup> A tal fine, la legge prevede incentivi, segnatamente finanziari.
+
+<sup>3</sup> Lo Stato agevola il processo di aggregazione; non riscuote tasse né emolumenti a tal titolo.
+
+<sup>4</sup> Qualsiasi aggregazione richiede il consenso del corpo elettorale di ciascun Comune coinvolto. Le votazioni nei diversi Comuni si svolgono simultaneamente.
+
+<sup>5</sup> In deroga agli articoli 144 e 148, in caso di aggregazione di Comuni, la durata dei mandati dei membri del Consiglio comunale e dei Municipi dei Comuni coinvolti può essere prolungata senza elezione fino all’entrata in vigore dell’aggregazione medesima, se questa ha luogo entro sei mesi dal termine di tali mandati.[^151-1]
+
+[^151-1]: Accettato nella [votazione popolare del 26 set. 2010](http://www.admin.ch/ch/i/pore/va/20100926/index.html), in vigore dal 26 set. 2010. Garanzia dell’AF del 6 mar. 2012 ([FF 2012 3443](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 n. 6, [2011 7145](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+
+### Diritto d’iniziativa e procedura
+
+#### Art. 152
+
+Alle condizioni stabilite dalla legge, l’autorità deliberante o il Municipio, o una parte del corpo elettorale mediante iniziativa, può proporre un’aggregazione con uno o più altri Comuni o una modifica del territorio comunale.
+
+### Aggregazione proposta da una federazione di Comuni o da un’agglomerazione
+
+#### Art. 153
+
+Una federazione di Comuni o un’agglomerazione può proporre l’aggregazione dei Comuni membri.
+
+### Aggregazione proposta dallo Stato
+
+#### Art. 154
+
+Se ve ne è il bisogno e alle condizioni previste dalla legge, lo Stato può chiedere al corpo elettorale di ciascun Comune considerato di pronunciarsi sul principio dell’aggregazione di due o più Comuni o sul principio di una modifica del loro territorio.
+
+### Capitolo II. Collaborazioni intercomunali, federazioni e agglomerazioni
+
+### Collaborazioni intercomunali
+
+#### Art. 155
+
+<sup>1</sup> Lo Stato promuove le collaborazioni tra Comuni, in particolare le federazioni.
+
+<sup>2</sup> I Comuni possono delegare uno o più dei loro compiti a federazioni, ad agglomerazioni o ad altri tipi di organizzazioni intercomunali; essi fanno in modo di scegliere la forma più appropriata.
+
+<sup>3</sup> La legge può imporre una collaborazione quando sia necessaria per l’adempimento di certi compiti o per un’equa ripartizione degli oneri tra Comuni.
+
+<sup>4</sup> La legge definisce l’organizzazione, il finanziamento e il controllo democratico delle diverse forme di collaborazione intercomunale.
+
+### Federazioni
+
+#### Art. 156
+
+<sup>1</sup> La federazione di Comuni è un ente di diritto pubblico composto di Comuni, di norma contigui. Ha personalità giuridica.
+
+<sup>2</sup> La federazione è dotata di un’autorità deliberante e di un’autorità esecutiva. L’autorità deliberante è eletta dai legislativi dei Comuni membri; l’autorità esecutiva, dall’autorità deliberante.
+
+<sup>3</sup> La federazione gestisce autonomamente i compiti che i Comuni membri le delegano. Questi compiti sono finanziati con contributi comunali.
+
+<sup>4</sup> Un Comune può far parte di una sola federazione, fermo restando ch’esso può nondimeno partecipare ad altre forme di collaborazione.
+
+### Agglomerazioni
+
+#### Art. 157
+
+<sup>1</sup> L’agglomerazione è un ente di diritto pubblico composto di Comuni urbani contigui e comprendente una città quale nucleo centrale. Ha personalità giuridica.
+
+<sup>2</sup> La legge definisce l’organizzazione, il finanziamento e il controllo democratico dell’agglomerazione, analogicamente alle norme applicabili alle federazioni.
+
+### Capitolo III. Distretti
+
+### Definizione, numero e funzioni
+
+#### Art. 158
+
+<sup>1</sup> Il territorio del Cantone è suddiviso in distretti. La legge ne stabilisce il numero e determina l’appartenenza di ciascun Comune a uno di essi.
+
+<sup>2</sup> I distretti sono entità amministrative e giudiziarie dove si esercitano di norma compiti decentralizzati dello Stato e sono assicurati i servizi pubblici di prossimità.
+
+<sup>3</sup> I distretti costituiscono i circondari elettorali.
+
+### Prefetto
+
+#### Art. 159
+
+<sup>1</sup> A capo di ogni distretto vi è un prefetto, nominato dal Consiglio di Stato.
+
+<sup>2</sup> La legge ne definisce i compiti.
+
+### Modifiche territoriali
+
+#### Art. 160
+
+<sup>1</sup> Per decisione del proprio corpo elettorale, ogni Comune può domandare di essere incluso in un altro distretto, purché limitrofo.
+
+<sup>2</sup> La legge disciplina la relativa procedura.
+
+## Titolo VII: Ordinamento finanziario
+
+### Capitolo I. Principi generali
+
+### Base legale
+
+#### Art. 161
+
+Ogni spesa deve avere una base legale.
+
+### Partecipazioni
+
+#### Art. 162
+
+<sup>1</sup> Per conseguire i loro scopi, lo Stato e i Comuni possono partecipare a persone giuridiche o istituirne. La legge stabilisce le modalità di controllo di queste persone giuridiche.
+
+<sup>2</sup> Gli istituti assicurativi creati dallo Stato sono gestiti in modo autonomo; i loro capitali rimangono di proprietà degli assicurati.
+
+### Gestione finanziaria
+
+#### Art. 163
+
+<sup>1</sup> La gestione delle finanze dello Stato dev’essere economa ed efficace; essa è volta ad attenuare gli effetti dei cicli economici.
+
+<sup>2</sup> Prima di presentare qualsivoglia disegno di legge o di decreto che comporti nuovi oneri, il Consiglio di Stato si assicura del finanziamento e propone, ove occorra, i necessari provvedimenti fiscali o compensativi.
+
+### Procedura budgetaria
+
+#### Art. 164
+
+<sup>1</sup> Di regola, il bilancio di funzionamento dello Stato dev’essere equilibrato.
+
+<sup>2</sup> L’approvazione di un bilancio di funzionamento deficitario richiede la maggioranza assoluta dei membri del Gran Consiglio.
+
+<sup>3</sup> Nel bilancio di funzionamento, gli introiti devono in tutti i casi coprire gli oneri ante ammortamenti.
+
+### Risanamento finanziario
+
+#### Art. 165
+
+<sup>1</sup> Qualora, negli ultimi conti, gli introiti non coprano gli oneri ante ammortamenti, le autorità cantonali prendono senza indugio provvedimenti di risanamento relativamente all’importo del disavanzo.
+
+<sup>2</sup> I provvedimenti che richiedano modifiche di rango legislativo sono sottoposti al voto del corpo elettorale. Per ciascuno di questi provvedimenti, nella votazione la modifica legislativa proposta è contrapposta a un aumento di effetto equivalente dell’aliquota dell’imposta cantonale diretta.
+
+### Capitolo II. Vigilanza e controllo delle finanze
+
+[^titVII-chapII-1]
+
+[^titVII-chapII-1]: Accettato nella [votazione popolare del 9 giu. 2013](http://www.admin.ch/ch/i/pore/va/20130609/index.html), in vigore dal 10 giu. 2013. Garanzia dell’AF l’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 9, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+
+#### Art. 166
+
+<sup>1</sup> Il Cantone di Vaud dispone di più autorità che controllano, in piena indipendenza, l’impiego di tutti i fondi pubblici, segnatamente sotto il profilo della legalità, della conformità, dell’efficacia, dell’economicità e dell’efficienza.
+
+<sup>2</sup>
+
+Tra queste autorità figurano segnatamente:
+
+- – la Corte dei conti, cui è affidata la verifica delle prestazioni,
+- – un organo cui è affidato l’esame della conformità alle norme.
+
+<sup>3</sup> I membri della Corte dei conti sono eletti dal Gran Consiglio.
+
+### Capitolo III. Fiscalità e perequazione intercomunale
+
+### Fiscalità
+
+#### Art. 167
+
+<sup>1</sup>
+
+Lo Stato e i Comuni riscuotono i contributi previsti dalla legge, ossia:
+
+- a. imposte per l’esecuzione dei loro compiti;
+- b. tasse e emolumenti per le loro prestazioni;
+- c. tasse d’incentivazione il cui prodotto è integralmente ridistribuito.
+
+<sup>2</sup> L’ordinamento fiscale rispetta i principi di universalità e di parità di trattamento. L’imposta rispetta inoltre il principio della capacità contributiva.
+
+<sup>3</sup> La frode fiscale è perseguita.
+
+<sup>4</sup> La legge compensa gli effetti della progressione a freddo per ogni periodo fiscale.
+
+### Imposte comunali e perequazione intercomunale
+
+#### Art. 168
+
+<sup>1</sup> La legge determina il potere fiscale dei Comuni. L’onere fiscale non deve presentare eccessive divergenze tra i Comuni.
+
+<sup>2</sup> La perequazione finanziaria attenua le disparità di onere fiscale dovute alla diversa capacità contributiva dei Comuni.
+
+## Titolo VIII: Chiese e comunità religiose
+
+### Principi
+
+#### Art. 169
+
+<sup>1</sup> Lo Stato tiene conto della dimensione spirituale dell’essere umano.
+
+<sup>2</sup> Esso considera il contributo delle Chiese e delle comunità religiose alla coesione sociale e alla trasmissione di valori fondamentali.
+
+### Chiese di diritto pubblico
+
+#### Art. 170
+
+<sup>1</sup> La Chiesa evangelica riformata e la Chiesa cattolica romana, quali presenti stabilmente nel Cantone, sono riconosciute come istituzioni di diritto pubblico con personalità giuridica.
+
+<sup>2</sup> Lo Stato assicura loro i mezzi necessari per adempiere la loro missione al servizio di tutti nel Cantone.
+
+<sup>3</sup> La legge stabilisce le prestazioni dello Stato e dei Comuni.
+
+### Comunità religiose d’interesse pubblico
+
+#### Art. 171
+
+La Comunità israelitica, quale presente stabilmente nel Cantone, è riconosciuta come istituzione d’interesse pubblico. Lo Stato può riconoscere lo stesso statuto ad altre comunità religiose che ne facciano richiesta; a tal fine, tiene conto della durata della loro presenza e del loro ruolo nel Cantone.
+
+### Organizzazione e autonomia
+
+#### Art. 172
+
+<sup>1</sup> Ogni Chiesa o comunità religiosa riconosciuta è oggetto di una legge specifica.
+
+<sup>2</sup> Le Chiese e comunità religiose riconosciute fruiscono d’indipendenza spirituale e si organizzano liberamente nel rispetto dell’ordinamento giuridico e della pace confessionale.
+
+<sup>3</sup> Il riconoscimento è subordinato segnatamente al rispetto dei principi democratici e alla trasparenza finanziaria.
+
+## Titolo IX: Revisione della Costituzione
+
+### Revisione totale
+
+#### Art. 173
+
+<sup>1</sup> La revisione totale può essere chiesta dal Gran Consiglio o mediante iniziativa popolare.
+
+<sup>2</sup> La domanda è sottoposta al corpo elettorale, il quale decide se la revisione totale debba avvenire e, in subordine, se essa debba essere affidata al Gran Consiglio o a una Costituente.
+
+<sup>3</sup> Se la revisione è affidata a una Costituente, questa è eletta senza indugio. Si applicano le disposizioni sull’elezione del Gran Consiglio, eccetto quelle sulle incompatibilità e sulla durata del mandato.
+
+<sup>4</sup> Il progetto di nuova Costituzione può comportare varianti. La votazione finale può avvenire soltanto quando il corpo elettorale ha operato la sua scelta riguardo a tutte le varianti.
+
+<sup>5</sup> Se il corpo elettorale respinge il progetto di nuova Costituzione, l’organo incaricato della revisione totale ne elabora un secondo. In caso di nuova reiezione popolare, la revisione è considerata non riuscita.
+
+### Revisione parziale
+
+#### Art. 174
+
+<sup>1</sup> La revisione parziale può essere proposta dal Gran Consiglio o chiesta mediante iniziativa popolare.
+
+<sup>2</sup> Essa può vertere su una sola disposizione costituzionale o su più disposizioni intrinsecamente connesse.
+
+## Titolo X: Disposizioni transitorie e finali
+
+### Entrata in vigore
+
+#### Art. 175
+
+La presente Costituzione entra in vigore il 14 aprile 2003.
+
+### Abrogazione e ultrattività provvisoria del diritto anteriore
+
+#### Art. 176
+
+<sup>1</sup> La Costituzione del Cantone di Vaud del 1° marzo 1885 è abrogata.
+
+<sup>2</sup> Sono pure abrogate le disposizioni del diritto anteriore contrarie alle norme direttamente applicabili della presente Costituzione.
+
+<sup>3</sup> Per altro, il diritto anteriore rimane in vigore fintanto che non sia stata emanata la legislazione di applicazione richiesta dalla presente Costituzione.
+
+### Emanazione della legislazione di applicazione
+
+#### Art. 177
+
+<sup>1</sup> La legislazione di applicazione richiesta dalla presente Costituzione sarà emanata senza tardare, ma in ogni caso non oltre cinque anni dopo l’entrata in vigore della Costituzione.
+
+<sup>2</sup> A tal fine, il Consiglio di Stato sottopone al Gran Consiglio un programma legislativo prima del 14 aprile 2003.
+
+### Rinnovo delle autorità cantonali e comunali
+
+#### Art. 178
+
+<sup>1</sup>
+
+La legislazione di applicazione richiesta dal rinnovo delle autorità dev’essere emanata entro due anni dall’entrata in vigore della presente Costituzione. Il rinnovo si svolgerà conformemente alla presente Costituzione:
+
+- – nella primavera del 2006 per le autorità comunali, con termine della legislatura in corso fissato al 30 giugno 2006;
+- – nella primavera del 2007 per le autorità cantonali, con termine della legislatura in corso fissato al 30 giugno 2007.
+
+<sup>2</sup> L’articolo 115 (presidenza del Consiglio di Stato) è applicabile dall’inizio della legislatura che segue l’entrata in vigore della presente Costituzione.
+
+<sup>3</sup> Sino all’entrata in vigore della nuova suddivisione territoriale del Cantone (art. 179 n. 5), i circondari elettorali sono quelli designati dagli articoli 45 e 45*a* della legge del 16 maggio 1989 sull’esercizio dei diritti politici, nel tenore dell’8 giugno 1997. Ogni distretto dispone di almeno due seggi.
+
+<sup>4</sup> Il mandato dei giudici e dei giudici supplenti del Tribunale cantonale e del Tribunale amministrativo è prorogato fino al 31 dicembre 2007.[^178-1]
+
+[^178-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 5 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Disposizioni transitorie particolari
+
+#### Art. 179
+
+### ad art. 52 cpv. 5
+
+Gli articoli 6<sup>bis</sup> e 6<sup>ter</sup> della Costituzione del 1° marzo 1885 a tutela dei siti di Lavaux e della Venoge rimangono in vigore fintanto che non siano trasposti in norme legali in applicazione dell’articolo 52 capoverso 5 della presente Costituzione.
+
+### ad art. 64 cpv. 1
+
+L’assicurazione cantonale maternità deve entrare in vigore il più tardi tre anni dopo l’entrata in vigore della presente Costituzione.
+
+### ad titolo VI
+
+La legislazione di applicazione del titolo VI *Comuni e distretti* dev’essere emanata entro due anni dall’entrata in vigore della presente Costituzione.
+
+### 3bis.
+
+[^179-subdivu4-1]
+
+[^179-subdivu4-1]: Accettato nella votazione popolare del 21 ott. 2007, in vigore dal 21 ott. 2007. Garanzia dell’AF del 10 dic. 2009 ([FF 2009 7985](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 n. 3 [5165](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+
+La legislazione di applicazione richiesta dall’articolo 129 dev’essere emanata il più tardi alla scadenza del termine che l’articolo 130 della legge federale del 17 giugno 2005 sul Tribunale federale prevede per l’adattamento delle disposizioni cantonali in materia civile e penale.
+
+### ad art. 151 cpv. 2
+
+Un premio sarà assegnato ai Comuni che si aggregheranno nei dieci anni successivi alla promulgazione della legge.
+
+### ad art. 158
+
+Entro dieci anni dall’entrata in vigore della presente Costituzione, il Consiglio di Stato proporrà una nuova suddivisione amministrativa del Cantone in vista della riduzione del numero dei distretti, tenendo conto dei bisogni della popolazione e delle agevolazioni di comunicazione. Il numero dei distretti sarà di otto a dodici.
+
+### ad art. 165
+
+Fintanto che la nuova legge sulle finanze non sarà entrata in vigore, rimangono applicabili i capoversi dal 2 al 4 dell’articolo 48 della Costituzione del 1° marzo 1885.
+
+### 7. …
+
+[^179-subdivu8-1]
+
+[^179-subdivu8-1]: Abrogato nella [votazione popolare del 9 giu. 2013](http://www.admin.ch/ch/i/pore/va/20130609/index.html), con effetto dal 10 giu. 2013. Garanzia dell’AF l’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 9, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+
+### ad art. 13 e 14 della Costituzione del 1° marzo 1885
+
+Lo statuto e i diritti delle borse pubbliche con obblighi in materia di culto della Chiesa evangelica riformata e della Chiesa cattolica nei Comuni di Echallens, Assens, Bottens, Bioley-Orjulaz, Etagnières, Poliez-le-Grand, Poliez-Pittet, Saint-Barthélémy, Villars-le-Terroir e Malapalud, come anche i diritti e le consuetudini riconosciuti ai cattolici nei detti Comuni, continuano ad essere garantiti, conformemente a quanto prevedevano gli articoli 13 capoverso 5 e 14 della Costituzione del 1° marzo 1885, fintanto che non saranno modificati dalla legge.
+
+### ad art. 81 della Costituzione del 1° marzo 1885
+
+Sono fatti salvi, sotto l’arbitrato del Consiglio di Stato, i diritti consuetudinari dei patriziati, fondati sull’articolo 81 della Costituzione del 1° marzo 1885. Le persone toccate dall’abrogazione di tale articolo sono informate mediante pubblicazione ufficiale.
+
+### Iniziative e referendum
+
+#### Art. 180
+
+<sup>1</sup> Il diritto anteriore rimane in vigore per le iniziative e i referendum lanciati prima dell’entrata in vigore della presente Costituzione.
+
+<sup>2</sup> Qualsiasi iniziativa che chieda la revisione parziale della Costituzione del 1° marzo 1885 e che sia stata lanciata prima dell’entrata in vigore della presente Costituzione sarà trasformata dal Gran Consiglio in progetto di revisione di quest’ultima.
+
+## Indice delle materie
+
+I numeri indicano gli art. e parti di art. della Costituzione
+
+Aggregazioni 151
+
+- [tab] – consenso del corpo elettorale di ciascun Comune coinvolto 151
+- [tab] – di Comuni 151 ss
+- [tab] – promozione delle aggregazioni di Comuni 151
+- [tab] – proposta d’aggregazione 152, 153, 154
+- [tab] – proposta
+  - [tab] – d’aggregazione da parte dello Stato 154
+  - [tab] – di un’agglomerazione 153
+  - [tab] – di una federazione di Comuni 153
+
+Amministrazione
+
+- [tab] – amministrazione comunale 150
+- [tab] – autonomia
+  - [tab] – comunale 139
+  - [tab] – del Tribunale cantonale 132
+
+- [tab] – direzione dell' 117, 123
+- [tab] – diritti dei deputati 101
+- [tab] – incompatibilità 90, 143
+- [tab] – organizzazione del Tribunale cantonale 132
+- [tab] – servizi dell’ 98
+
+Amnistia
+
+- [tab] – accordo dell' 109
+
+Arresto
+
+- [tab] – garanzie in caso di privazione della libertà 30
+- [tab] – stato di 30
+
+Associazione
+
+- [tab] – libertà di 22
+- [tab] – partiti e 86
+- [tab] – protezione di Lavaux 52*a*
+- [tab] – sostegno per le attività d’interesse generale delle 70
+
+Autorità
+
+- [tab] – autorità
+  - [tab] – cantonali 89 ss
+  - – divisione dei poteri 89
+  - – incompatibilità 90
+  - – potere
+  - – esecutivo 89
+  - – giudiziario 89
+  - – legislativo 89
+  - [tab] – comunali 137 ss
+  - – distretti 158 ss
+
+- [tab] – autorità
+  - [tab] – gran Consiglio di Stato 112 ss
+  - [tab] – Consiglio 91 ss
+  - [tab] – Tribunali 126 ss
+
+- [tab] – diritto di petizione 31
+- [tab] – divieto dell’arbitrarietà 11
+- [tab] – equilibrata rappresentanza d’ambo i sessi in seno alle 6
+- [tab] – garanzie in caso di privazione della libertà 30
+- [tab] – informazione pubblica 87
+- [tab] – naturalizzazione 69
+- [tab] – protezione della buona fede 11
+
+Bilancio
+
+- [tab] – di
+  - [tab] – funzionamento dello Stato 164
+  - [tab] – di previsione 84, 146
+
+- [tab] – preparazione del progetto di 122
+- [tab] – procedura budgetaria 164
+- [tab] – Tribunale cantonale 132
+
+Cantone
+
+- [tab] – aliquota fiscale 105
+- [tab] – autorità del 87, 89 ss
+  - [tab] – divisione dei poteri 89
+  - [tab] – incompatibilità 90
+  - [tab] – potere esecutivo 89
+  - [tab] – giudiziario 89
+  - [tab] – legislativo 89
+
+- [tab] – autorità
+  - [tab] – esecutiva suprema del 112
+  - [tab] – giudiziaria suprema del 130
+  - [tab] – suprema del 91
+
+- [tab] – capitale del 4
+- [tab] – Chiese di diritto pubblico 170
+- [tab] – collaborazione con
+  - [tab] – gli altri Cantoni 5
+  - [tab] – Stati 5
+  - [tab] – la Confederazione 5
+  - [tab] – le regioni vicine 5
+
+- [tab] – comunità religiose d’interesse pubblico 171
+- [tab] – corpo elettorale 74
+- [tab] – corpo elettorale comunale 142
+- [tab] – di Vaud 1
+- [tab] – direzione dell’amministrazione del 123
+- [tab] – diritto
+  - [tab] – d’iniziativa accordato dal diritto federale 109
+  - [tab] – di referendum accordato dal diritto federale 109
+
+- [tab] – distretti 158
+- [tab] – doppio grado di giurisdizione 129
+- [tab] – incompatibilità 90
+  - [tab] – dipendenti dell’amministrazione 90
+  - [tab] – quadri superiori dell’amministrazione 90
+
+- [tab] – iniziativa popolare 78
+- [tab] – lingua ufficiale del 3
+- [tab] – modifiche del territorio del 83
+- [tab] – piani settoriali 104
+- [tab] – protezione sociale 60
+- [tab] – rappresentazione del 121
+- [tab] – referendum popolare
+  - [tab] – facoltativo 84
+  - [tab] – obbligatorio 83
+
+- [tab] – risanamento finanziario 165
+- [tab] – stemma del 2
+- [tab] – trattati intercantonali 78, 83, 84, 103
+
+Chiesa (e) e comunità religiose 169
+
+- [tab] – contributo alla
+  - [tab] – coesione sociale 169
+  - [tab] – trasmissione di valori fondamentali 169
+
+- [tab] – di diritto pubblico 169
+- [tab] – organizzazione delle 172
+- [tab] – riconoscimento di Chiesa
+  - [tab] – cattolica romana 169
+  - [tab] – evangelica riformata 169
+
+Commissione (i)
+
+- [tab] – commissione
+  - [tab] – di giovani 85
+  - [tab] – di nomina 131
+  - [tab] – composizione della 131
+  - [tab] – permanente per lo scambio d’informazioni relative agli affari federali 118
+
+- [tab] – Conferenza degli affari federali 118
+- [tab] – designazione dei membri della Commissione per la nomina dei giudici 106
+- [tab] – diritti delle 101
+- [tab] – diritto d’iniziativa 111
+
+Compito/i
+
+- [tab] – collaborazioni intercomunali 155
+  - [tab] – federazioni 156
+
+- [tab] – compiti
+  - [tab] – dei Comuni 39 ss, 138
+  - [tab] – dello Stato 39 ss
+  - [tab] – legali 125*a*
+
+- [tab] – del prefetto 159
+- [tab] – delega di compiti 39, 70, 155
+- [tab] – educativo 46
+- [tab] – esercizio dei compiti decentralizzati dello Stato 158
+- [tab] – pubblico ministero 125*a*
+- [tab] – riscossione di imposte per l’esecuzione dei loro 167
+- [tab] – servizio pubblico 39
+
+Comune (i) 137 ss
+
+- [tab] – aggregazione di Comuni 151 ss
+- [tab] – alloggio 67
+- [tab] – ambiente naturale 52
+- [tab] – assetto territoriale 55
+- [tab] – assistenza
+  - [tab] – parascolastica per i bambini 63
+  - [tab] – per le famiglie 63a
+  - [tab] – prescolastica per i bambini 63
+
+- [tab] – autonomia comunale 139
+- [tab] – bisogni ed interessi particolari dei
+  - [tab] – fanciulli 62
+  - [tab] – giovani 62
+
+- [tab] – collaborazione
+  - [tab] – all’aiuto umanitario 71
+  - [tab] – alla cooperazione allo sviluppo 71
+  - [tab] – promozione di un commercio equo 71
+
+- [tab] – collaborazioni intercomunali 155 ss
+  - [tab] – agglomerazione 157
+  - [tab] – collaborazioni tra i 155
+  - [tab] – federazione di 156
+
+- [tab] – compiti dei 138
+- [tab] – composizione del Cantone 1
+- [tab] – corpo elettorale comunale 142
+- [tab] – cultura e creazione artistica 53
+- [tab] – distretti 158
+  - [tab] – modifiche territoriali 160
+
+- [tab] – diversità
+  - [tab] – degli ambienti naturali 52
+  - [tab] – della
+  - – fauna 52
+  - – flora 52
+
+- [tab] – divieto/restrizioni della libertà di
+  - [tab] manifestazione 21
+  - [tab] riunione 21
+
+- [tab] – energia 56
+- [tab] – enti pubblici con personalità giuridica 137
+- [tab] – formazione civica 85
+- [tab] – gioventù 62
+- [tab] – imposte comunali 168
+- [tab] – incompatibilità 143
+- [tab] – informazione
+  - [tab] – del pubblico 41
+  - [tab] – pubblica 87
+
+- [tab] – insegnamento pubblico 45
+- [tab] – integrazione dei disabili 61
+- [tab] – naturalizzazione degli stranieri 69
+- [tab] – ordine pubblico 44
+- [tab] – organizzazione 141
+  - [tab] – autorità deliberante
+  - – Consiglio comunale 142 ss
+  - – Consiglio generale 142 ss
+  - [tab] – autorità esecutiva 141
+  - – Municipio 148 ss
+
+- [tab] – partecipazioni 162
+- [tab] – perequazione intercomunale 167 ss
+- [tab] – potere fiscale dei 168
+- [tab] – pratica dello sport 54
+- [tab] – prestazioni dei Comuni a Chiese di diritto pubblico 170
+- [tab] – principio di
+  - [tab] – accessibilità 40
+  - [tab] – adattamento 40
+  - [tab] – continuità 40
+  - [tab] – diligenza 40
+  - [tab] – qualità 40
+  - [tab] – uguaglianza 40
+
+- [tab] – promozione
+  - [tab] – dell’accesso alla proprietà dell’abitazione 67
+  - [tab] – dell’integrazione degli stranieri 68
+  - [tab] – dell’esercizio dei diritti politici 88
+
+- [tab] – protezione
+  - [tab] – dal fumo passivo 65*a*
+  - [tab] – sociale 60
+
+- [tab] – responsabilità dei 39 ss 73
+- [tab] – rinnovo delle autorità comunali 178
+- [tab] – riscossione di
+  - [tab] – imposte per l’esecuzione compiti 167
+  - [tab] – tasse
+  - – d’incentivazione il cui prodotto è integralmente ridistribuito 167
+  - – e emolumenti per le prestazioni 167
+
+- [tab] – risorse naturali 56
+- [tab] – sanità pubblica 65
+- [tab] – servizio pubblico 39
+- [tab] – sicurezza
+  - [tab] – dei beni 44
+  - [tab] – delle persone 44
+
+- [tab] – trasporti e comunicazioni 57
+- [tab] – vigilanza dello Stato 140
+- [tab] – vita associativa 70
+
+Comunità religiose 169 ss
+
+- [tab] – autonomia delle 172
+- [tab] – comunità religiose d’interesse pubblico 171
+- [tab] – contributo delle comunità religiose alla
+  - [tab] – coesione sociale 169
+  - [tab] – trasmissione di valori fondamentali 169
+
+- [tab] – organizzazione delle 172
+
+Confederazione
+
+- [tab] – collaborazione del Cantone con la 5
+- [tab] – competenze della 1
+- [tab] – contratti amministrativi con la 121
+- [tab] – Stato della 1
+
+Consiglio degli Stati
+
+- [tab] – elezione dei deputati vodesi al 77
+
+Consiglio di Stato 112
+
+- [tab] – alta vigilanza del Gran Consiglio sul 107
+- [tab] – attuazione del programma di legislatura 119
+- [tab] – bilancio di previsione 132
+- [tab] – clausola generale di polizia 125
+- [tab] – collegialità 116
+- [tab] – competenze in materia legislativa 120
+- [tab] – composizione del 113
+- [tab] – conferenza degli affari federali 118
+- [tab] – conti 122, 132
+- [tab] – direzione
+  - [tab] – dell’amministrazione cantonale 123
+  - [tab] – dipartimentale 117
+
+- [tab] – diritto d’iniziativa dei membri delle commissioni del 111
+- [tab] – durata della carica del 113
+- [tab] – elezione popolare dei membri del 77
+- [tab] – finanze 105
+- [tab] – gestione 132
+- [tab] – incompatibilità 90
+- [tab] – modo di elezione 114
+- [tab] – nomina del prefetto 159
+- [tab] – ordine pubblico 124
+- [tab] – presidenza del 115
+- [tab] – progetto del bilancio di previsione 122
+- [tab] – programma di legislatura 104, 119
+- [tab] – provvedimenti
+  - [tab] – compensativi 163
+  - [tab] – fiscali 163
+
+- [tab] – pubblico ministero 125*a*
+- [tab] – relazioni esterne 121
+- [tab] – seduta straordinaria del Gran Consiglio 95
+- [tab] – seggi divenuti vacanti 113
+- [tab] – sicurezza 124
+- [tab] – situazioni straordinarie 125
+- [tab] – trattati
+  - [tab] – intercantonali 103
+  - [tab] – internazionali 103
+
+- [tab] – validità dell'iniziativa 80
+
+Controllo
+
+- [tab] – delle finanze 166
+
+Corpo elettorale 74
+
+- [tab] – aggregazione di Comuni 151
+- [tab] – aggregazione proposta dallo Stato 154
+- [tab] – diritti politici 142
+- [tab] – diritto
+  - [tab] – d’iniziativa 147, 152
+  - [tab] – di referendum 147
+
+- [tab] – elezione da parte del Corpo elettorale dei
+  - [tab] – deputati vodesi al Consiglio degli Stati 77
+  - [tab] – membri del
+  - – Consiglio di Stato 77, 93, 114
+  - – Gran Consiglio 77
+
+- [tab] – elezione
+  - [tab] – dei membri del Municipio 149
+  - [tab] – del Sindaco 149
+
+- [tab] – modifiche territoriali 160
+- [tab] – referendum obbligatorio 83
+- [tab] – revisione totale della Costituzione 173
+- [tab] – risanamento finanziario 165
+
+Corte
+
+- [tab] – Costituzionale 80 136
+- [tab] – dei conti 90 106 166
+- [tab] – delle assicurazioni so ciali del Tribunale cantonale 131
+- [tab] – di diritto amministrativo e pubblico 131
+
+Costituente
+
+- [tab] – revisione totale della Costituzione 173
+
+Costituzione
+
+- [tab] – assunzione dei compiti affidati loro dalla 39
+- [tab] – competenze
+  - [tab] – del Cantone 1
+  - [tab] – in materia legislativa 120
+
+- [tab] – compiti attribuiti ai Comuni dalla 138
+- [tab] – disposizioni transitorie e finali 175
+- [tab] – forma dell'iniziativa popolare 79
+- [tab] – referendum obbligatorio 83
+- [tab] – revisione
+  - [tab] – della 173 ss
+  - [tab] – parziale della 174
+
+- [tab] – richiesta di revisione
+  - [tab] – parziale 78
+  - [tab] – della totale della 78
+
+Dignità umana 9
+
+- [tab] – alloggio di emergenza 33
+- [tab] – minimo vitale 33
+- [tab] – protezione della 9
+- [tab] – rispetto della 9
+
+Disposizioni transitorie e finali 175
+
+**Divisione dei poteri** 89
+
+- [tab] – organizzazione delle autorità 89
+
+**Durata**
+
+- [tab] – comunità religiose d’interesse pubblico 171
+- [tab] – deputati vodesi al Consiglio degli Stati 77
+- [tab] – durata
+  - [tab] – del mandato dei membri del Municipio 148
+  - [tab] – della carica Consiglio di Stato 113
+
+- [tab] – forma degli atti 110
+- [tab] – naturalizzazione 69
+- [tab] – presidente del Consiglio di Stato 115
+- [tab] – revisione totale della Costituzione 173
+- [tab] – scuola a tempo pieno 63*a*
+
+**Eleggibilità**
+
+- [tab] – diritti politici 75, 142
+
+Elezioni 77 ss
+
+- [tab] – aggregazione di Comuni 151
+- [tab] – calcolo della maggioranza assoluta nelle 76
+- [tab] – circondari elettorali 93
+- [tab] – dei giudici 131
+- [tab] – diritti politici 75, 142
+- [tab] – diritto di partecipare alle 75
+- [tab] – elezione dei membri del
+  - [tab] – Consiglio comunale 144
+  - [tab] – Municipio 149
+
+- [tab] – elezioni da parte del Gran Consiglio 106
+- [tab] – esercizio dei diritti politici 76
+- [tab] – modo di elezione del Consiglio di Stato 114
+- [tab] – referendum facoltativo 84
+- [tab] – revisione totale della Costituzione 173
+
+**Espropriazione**
+
+- [tab] – garanzia della proprietà 25
+- [tab] – piena indennità in caso di 25
+
+**Finanze**
+
+- [tab] – controllo 166
+- [tab] – gestione 163
+- [tab] – pianificazione 105
+- [tab] – vigilanza 166
+
+Giudice/i
+
+- [tab] – composizione del Tribunale cantonale 131
+- [tab] – elezione da parte del Gran Consiglio dei 106
+- [tab] – garanzie in caso di privazione della libertà 30
+- [tab] – imparzialità dei 126
+- [tab] – indipendenza dei 126
+
+Garanzia
+
+- [tab] – del territorio comunale 137
+- [tab] – della proprietà 25
+- [tab] – dell'esistenza comunale 137
+- [tab] – in caso di privazione della libertà 30
+- [tab] – nei procedimenti giudiziari 28
+- [tab] – penali 29
+- [tab] – procedurali generali 27
+
+**Gran Consiglio** 91 ss
+
+- [tab] – alta vigilanza sul Tribunale cantonale da parte del 135
+- [tab] – bilancio di previsione del Tribunale cantonale 132
+- [tab] – celerità 128
+- [tab] – clausola generale di polizia 125
+- [tab] – competenze
+  - [tab] – del 103 ss
+  - [tab] – in materia legislativa 120
+
+- [tab] – composizione del 92 ss
+- [tab] – elezione dei
+  - [tab] – Giudici del Tribunale cantonale 131
+  - [tab] – membri della Corte dei conti 166
+
+- [tab] – elezione, da parte del corpo elettorale, dei membri del 77, 114
+- [tab] – incompatibilità 94
+- [tab] – iniziativa popolare 78, 81, 82
+- [tab] – mediatore amministrativo 43
+- [tab] – organizzazione del 94 ss
+- [tab] – procedura budgetaria 164
+- [tab] – programma di legislatura 119
+- [tab] – qualità della giustizia 128
+- [tab] – referendum facoltativo 84
+- [tab] – relazioni esterne 121
+- [tab] – revisione
+  - [tab] – parziale della Costituzione 173
+  - [tab] – totale della Costituzione 173
+
+- [tab] – situazioni straordinarie 125
+- [tab] – statuto dei membri del 94 ss
+
+**Imposta (e)**
+
+- [tab] – autonomia comunale nella
+  - [tab] – destinazione delle imposte comunali 139
+  - [tab] – determinazione delle imposte comunali 139
+  - [tab] – riscossione delle imposte comunali 139
+
+- [tab] – capacità contributiva
+- [tab] – imposte comunali e perequazione intercomunale 168
+- [tab] – risanamento finanziario 165
+- [tab] – riscossione
+  - [tab] – cantonale di 167
+  - [tab] – comunale di 167
+
+Indennità
+
+- [tab] – espropriazione della proprietà 25
+- [tab] – restrizioni della proprietà 25
+
+Iniziativa
+
+- [tab] – Consiglio di Stato 80 120
+- [tab] – contenuto dei diritti politici 75
+- [tab] – diritti politici 142
+- [tab] – diritto d’iniziativa
+  - [tab] – dei gruppi del Gran Consiglio 111
+  - [tab] – membri del Gran Consiglio 111
+  - [tab] – del Consiglio di Stato 111
+  - [tab] – delle commissioni del Gran Consiglio 111
+
+- [tab] – diritto
+  - [tab] – d’iniziativa del corpo elettorale 147
+  - [tab] – di referendum facoltativo esercitato dal Gran Consiglio in virtù del diritto federale 84
+
+- [tab] – esercizio da parte del Gran Consiglio dei diritti d’iniziativa che il diritto federale accorda ai Cantoni 109
+- [tab] – iniziativa
+  - [tab] – individuale 39
+  - [tab] – privata 67
+
+- [tab] – iniziativa popolare 78 ss
+  - [tab] – costatazione di nullità 80
+  - [tab] – dichiarazione di validità 80
+  - [tab] – forma 79
+  - [tab] – procedura 81
+  - [tab] – raccolta delle firme 80
+  - [tab] – termine di trattazione 82
+  - [tab] – validità 80
+
+- [tab] – revisione
+  - [tab] – parziale della Costituzione 174
+  - [tab] – totale della Costituzione 173
+
+Istruzione
+
+- [tab] – di base 46
+- [tab] – diritto a un’istruzione di base
+  - [tab] – gratuita 36
+  - [tab] – sufficiente 36
+
+- [tab] – obbligatoria 46
+
+**Interesse generale**
+
+- [tab] – attività d’ 70
+
+**Libertà**
+
+- [tab] – d’informazione 17
+- [tab] – dei mezzi di comunicazione sociale 20
+- [tab] – dell’arte 18
+- [tab] – della scienza 19
+- [tab] – di associazione 22
+- [tab] – di coscienza 16
+- [tab] – di credo 16
+- [tab] – di domicilio 24
+- [tab] – di manifestazione 21
+- [tab] – di movimento 12
+- [tab] – di opinione 17
+- [tab] – di riunione 21
+- [tab] – di scegliere un’altra forma di convivenza che il matrimonio 14
+- [tab] – di scelta dell’insegnamento 36
+- [tab] – diritto alla libertà personale 12
+- [tab] – economica 26, 58
+- [tab] – garanzie in caso di privazione della 30
+- [tab] – politica 32
+- [tab] – protezione statale della 6
+- [tab] – repubblica democratica fondata sulla 1
+- [tab] – sindacale 23
+- [tab] – stemma del Cantone di Vaud 2
+
+**Lingua**
+
+- [tab] – garanzie in caso di privazione della libertà 30
+- [tab] – garanzie penali 29
+- [tab] – ufficiale 3
+- [tab] – uguaglianza dinanzi alla legge 10
+
+**Maggioritario**
+
+- [tab] – elezione dei membri del
+  - [tab] – Consiglio
+  - – comunale 144
+  - – di Stato 114
+  - [tab] – Municipio 149
+
+- [tab] – esercizio dei diritti politici 76
+- [tab] – sistema maggioritario 76, 114, 144, 149
+
+Municipio 148 ss
+
+- [tab] – aggregazione di Comuni 151
+- [tab] – autorità esecutiva del Comune 141
+- [tab] – competenze del
+  - [tab] – Consiglio comunale 146
+  - [tab] – generale 146
+
+- [tab] – composizione del 148
+- [tab] – composizione del Consiglio generale 145
+- [tab] – diritto d’iniziativa del 152
+- [tab] – elezione dei membri del 149
+- [tab] – organizzazione del 150
+- [tab] – revoca dei membri del 149
+- [tab] – sindaco 149
+
+Nomine
+
+- [tab] – elezione su preavviso di una commissione di nomina 131
+- [tab] – membri della
+  - [tab] – Commissione per la nomina dei giudici 106, 131
+
+- [tab] – nomina del prefetto 159
+
+**Ordine pubblico**
+
+- [tab] – autonomia comunale 139
+- [tab] – divieto della libertà di
+  - [tab] – manifestazione 21
+  - [tab] – riunione 21
+
+- [tab] – garanzia da parte dello Stato dell' 6
+- [tab] – libertà di
+  - [tab] – manifestazione 21
+  - [tab] – riunione 21
+
+- [tab] – polizia 44
+- [tab] – restrizioni della libertà di
+  - [tab] – manifestazione 21
+  - [tab] – riunione 21
+
+- [tab] – sicurezza 44
+
+Organizzazione/i
+
+- [tab] – aiuto umanitario 71
+- [tab] – assistenza parascolastica 63*a*
+- [tab] – cooperazione allo sviluppo 71
+- [tab] – dei tribunali 127
+- [tab] – del
+  - [tab] – Consiglio di Stato 116 ss
+  - [tab] – Gran Consiglio 94 ss
+  - [tab] – Municipio 150
+  - [tab] – Pubblico ministero 125a
+  - [tab] – Tribunale cantonale 132
+
+- [tab] – delle
+  - [tab] – Collaborazioni intercomunali 155 ss
+  - [tab] – Chiese riconosciute 172
+  - [tab] – comunità religiose riconosciute 172
+
+- [tab] – organizzazione politica dei Comuni 141
+
+Pace
+
+- [tab] – attività dello Stato 6
+- [tab] – del lavoro 23
+- [tab] – pace confessionale 172
+- [tab] – politica di 71
+
+Partiti
+
+- [tab] – partiti e associazioni 86
+
+Periodo
+
+- [tab] – periodo fiscale 167
+
+Perequazione finanziaria 168
+
+Petizione
+
+- [tab] – diritto di 31
+
+Popolo 74 ss
+
+- [tab] – diritti del 91
+- [tab] – sovranità del 1
+
+Progetti
+
+- [tab] – competenze del Consiglio
+  - [tab] – comunale 146
+  - [tab] – generale 146
+
+- [tab] – controprogetto 81, 82
+- [tab] – forma dell’iniziativa popolare 79
+- [tab] – preparazione del progetto di bilancio 122
+- [tab] – presentazione al Gran Consiglio dei 120
+- [tab] – progetto di nuova Costituzione 173
+- [tab] – progetto elaborato 79
+- [tab] – pubblicazione dei 87
+
+Proposta generica
+
+- [tab] – forma dell’iniziativa popolare 79
+
+**Proporzionale**
+
+- [tab] – elezione dei membri del
+  - [tab] – Consiglio comunale 144
+  - [tab] – Gran Consiglio 93
+
+- [tab] – sistema proporzionale 93, 144
+
+Proprietà
+
+- [tab] – garanzia della 25
+- [tab] – partecipazioni 162
+- [tab] – promozione dell’accesso alla 67
+
+Pubblicità
+
+- [tab] – delle sedute del Gran Consiglio 96
+
+Referendum
+
+- [tab] – contenuto dei diritti politici 75
+- [tab] – diritti politici 142
+- [tab] – diritto di 147
+- [tab] – esercizio dei diritti di 109
+- [tab] – referendum
+  - [tab] – facoltativo 78, 84
+  - [tab] – obbligatorio 78
+  - [tab] – popolare 83 ss
+
+- [tab] – termine di 84
+
+Responsabilità
+
+- [tab] – assunzione della 8
+- [tab] – dei Cantoni 39 ss
+- [tab] – dei Comuni 73 ss
+- [tab] – dello Stato 39 ss, 73 ss
+- [tab] – fondamento del Cantone di Vaud 1
+- [tab] – individuale 8, 39, 67
+
+Revisione della Costituzione 173 ss
+
+- [tab] – revisione
+  - [tab] – parziale 174
+  - [tab] – totale 173
+
+Scuola (e)
+
+- [tab] – a tempo pieno 63*a*
+- [tab] – dell’obbligo 63*a*
+- [tab] – educazione 36
+- [tab] – insegnamento universitario 48
+- [tab] – istruzione 36
+- [tab] – istruzione di base 46
+- [tab] – ricerca 48
+
+**Sesso**
+
+- [tab] – nessuno dev’essere discriminato a causa del 10
+- [tab] – uguaglianza 10
+
+**Sistema**
+
+- [tab] – alloggio 67
+- [tab] – borse di studio 51
+- [tab] – elezione dei membri
+  - [tab] – del Municipio 149
+  - [tab] – del Consiglio comunale 144
+  - [tab] – di Stato 114
+
+- [tab] – esercizio dei diritti politici 67
+- [tab] – protezione dal fumo passivo 65*a*
+- [tab] – sanità pubblica 65
+- [tab] – sistema dipartimentale 117
+- [tab] – sistema
+  - [tab] – maggioritario 67, 114, 149
+  - [tab] – proporzionale 93, 144
+
+**Stato**
+
+- [tab] – aggregazione di Comuni 151 ss
+- [tab] – agricoltura 59
+- [tab] – aiuto alla
+  - [tab] – formazione 51
+  - [tab] – formazione professionale iniziale 37
+
+- [tab] – aiuto umanitario 71
+- [tab] – alloggio 67
+- [tab] – approvazione dei conti dello 105
+- [tab] – assetto territoriale 55
+- [tab] – assicurazione maternità 64
+- [tab] – associazioni 86
+- [tab] – bilancio di funzionamento dello 164
+- [tab] – borse di studio 51
+- [tab] – chiese di diritto pubblico 170
+- [tab] – collaborazioni intercomunali 155
+- [tab] – commissione di giovani 85
+- [tab] – compiti
+  - [tab] – affidati ai Comuni dallo 138
+  - [tab] – dello 39 ss
+
+- [tab] – comunicazioni 57
+- [tab] – comunità religiose d’interesse pubblico 171
+- [tab] – congedo parentale 64
+- [tab] – cooperazione allo sviluppo 71
+- [tab] – creazione artistica 53
+- [tab] – cultura 53
+- [tab] – dimensione spirituale dell’essere umano 169
+- [tab] – diritto è fondamento
+  - [tab] – dell’attività dello 7
+  - [tab] – limite dell’attività dello 7
+
+- [tab] – distretti del Cantone 158
+- [tab] – energia 56
+- [tab] – esercizio dei diritti politici 88
+- [tab] – famiglie 63
+- [tab] – formazione
+  - [tab] – civica 85
+  - [tab] – continua 49
+  - [tab] – permanente 49
+  - [tab] – professionale iniziale 47
+
+- [tab] – gestione
+  - [tab] – dello 107
+  - [tab] – finanziaria dello 163
+
+- [tab] – gioventù 62
+- [tab] – giustizia
+  - [tab] – accessibile 42
+  - [tab] – diligente 42
+  - [tab] – indipendente 42
+
+- [tab] – informazione del pubblico 41
+- [tab] – insegnamento
+  - [tab] – di livello terziario 48
+  - [tab] – universitario 48
+  - [tab] – privato 50
+  - [tab] – pubblico 45
+  - [tab] – secondario superiore 47
+
+- [tab] – integrazione
+  - [tab] – degli stranieri 68
+  - [tab] – dei disabili 61
+
+- [tab] – libertà di
+  - [tab] – manifestazione 21
+  - [tab] – riunione 21
+
+- [tab] – mediazione
+  - [tab] – amministrativa 43
+  - [tab] – privata 43
+
+- [tab] – naturalizzazione 69
+- [tab] – organizzazione
+  - [tab] – dell'insegnamento pubblico 45
+  - [tab] – secondario superiore 47
+  - [tab] – di una formazione professionale iniziale 47
+
+- [tab] – partecipazione dello 108, 162
+- [tab] – partiti 86
+- [tab] – patrimonio
+  - [tab] – culturale 52
+  - [tab] – naturale 52
+
+- [tab] – politica economica 58
+- [tab] – polizia 44
+- [tab] – pratica dello sport 54
+- [tab] – principio di diligenza 40
+- [tab] – protezione
+  - [tab] – dal fumo passivo 65a
+  - [tab] – sociale 60
+
+- [tab] – questioni prospettiche 72
+- [tab] – relazioni esterne 5
+- [tab] – responsabilità dello 39 ss 73
+- [tab] – ricerca 48
+- [tab] – riscossione dei contributi 167
+- [tab] – risorse naturali 56
+- [tab] – sanità pubblica 65
+- [tab] – scopi dello 6
+- [tab] – scuola a tempo pieno 63*a*
+- [tab] – scurezza 44
+- [tab] – servizio pubblico 39
+- [tab] – silvicoltura 59
+- [tab] – Stato della Confederazione Svizzera 1
+- [tab] – trasporti 57
+- [tab] – vigilanza sui Comuni 140
+- [tab] – volontariato 70
+
+**Stemma**
+
+- [tab] – del Cantone 2
+
+Territorio
+
+- [tab] – aggregazione proposta dallo Stato 154
+- [tab] – assetto territoriale 55
+- [tab] – autonomia comunale 139
+- [tab] – del Cantone 158
+- [tab] – diritto d’iniziativa e procedura 152
+- [tab] – distretti 158
+- [tab] – esistenza del territorio cantonale 137
+- [tab] – modifiche del 83
+- [tab] – referendum obbligatorio 83
+
+Tribunale (i) 126 ss
+
+- [tab] – alta vigilanza sulla gestione del Tribunale cantonale 107
+- [tab] – Corte costituzionale 136
+- [tab] – divieto dei tribunali d’eccezione 127
+- [tab] – elezione dei giudici del Tribunale cantonale 106
+- [tab] – garanzie nei procedimenti giudiziari 28
+- [tab] – imparzialità dei 126
+- [tab] – indipendenza dei 126
+- [tab] – organizzazione giudiziaria 127
+- [tab] – Tribunale cantonale 130 ss
+
+Uguaglianza
+
+- [tab] – dinanzi alla legge 10
+- [tab] – principi di 40
+
+Vigilanza
+
+- [tab] – alta vigilanza
+  - [tab] – sul Tribunale cantonale 135
+  - [tab] – sull’attività del Consiglio di Stato 107
+  - [tab] – sulla gestione del Tribunale cantonale 107
+
+- [tab] – delle finanze 166
+- [tab] – dello Stato sui Comuni 140
+
+Votazioni
+
+- [tab] – aggregazione di Comuni 151
+- [tab] – diritti politici 142
+- [tab] – diritti politici
+  - [tab] – contenuto dei 75
+  - [tab] – esercizio dei 76
+
+Voto
+
+- [tab] – diritti politici
+  - [tab] – contenuto dei 75
+  - [tab] – esercizio dei 76
+
+- [tab] – iniziativa popolare 81
+- [tab] – referendum obbligatorio 83
+- [tab] – risanamento finanziario 165

@@ -1,0 +1,160 @@
+---
+sr: "944.05"
+title: "Ordonnance du 1<sup>er</sup> avril 1992 sur l'aide financière en faveur des associations de consommateurs"
+eli: "https://fedlex.data.admin.ch/eli/cc/1992/914_914_914"
+language: fr
+version: 2015-11-01
+adopted: 1992-04-01
+in_force: 1992-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20151101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20151101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20151101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur l’aide financière en faveur des associations de consommateurs
+
+du 1er avril 1992 (Etat le 1<sup>er</sup> novembre 2015)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 13 de la loi fédérale du 5 octobre 1990[^ingress-1] sur l’information des consommatrices et consommateurs (LIC),
+
+arrête:
+
+[^ingress-1]: [RS 944.0](https://fedlex.data.admin.ch/eli/cc/1992/910_910_910)
+
+#### Art. 1
+
+**Associations de consommateurs (art. 5, al. 1, LIC)**
+
+<sup>1</sup>
+
+Une aide financière peut être accordée aux associations de consommateurs suivantes:
+
+- a. Associazione consumatrici della Svizzera italiana (ACSI);
+- b. Fédération romande des consommatrices (FRC)[^1-1];
+- c. Konsumentinnenforum Schweiz (KF);
+- d. Stiftung für Konsumentenschutz (SKS).
+
+<sup>2</sup> Les autres organisations qui demandent une aide financière au sens de l’art. 5, al. 1, LIC doivent s’adresser au Bureau fédéral de la consommation (BFC) et prouver qu’elles satisfont aux exigences fixées par la LIC.
+
+[^1-1]: Actuellement: Fédération romande des consommateurs (FRC).
+
+#### Art. 2
+
+**Autres organisations (art. 5, al. 2, LIC)**
+
+Les organisations qui demandent une aide financière pour leurs activités d’information des consommateurs doivent s’adresser au BFC et prouver qu’elles satisfont aux exigences fixées par la LIC.
+
+#### Art. 3
+
+**Frais déterminants**
+
+<sup>1</sup> Les frais suivants sont déterminants lorsqu’ils sont en relation avec l’information objective des consommateurs: frais de personnel, de production, de distribution et d’infrastructure.
+
+<sup>2</sup> Concernant l’exécution de tests comparatifs, les frais suivants sont également déterminants: achat du matériel à tester et coûts externes, en particulier pour la préparation et l’exécution des tests.
+
+<sup>3</sup> Concernant la négociation de conventions sur les déclarations, les frais d’élaboration et de mise sur pied des déclarations (y compris les frais d’experts et de négociation) sont déterminants outre les frais visés à l’al. 1.
+
+#### Art. 4
+
+**Montant de l’aide financière**[^4-1]
+
+<sup>1</sup> L’aide financière s’élève à 50 % au plus des frais déterminants.
+
+<sup>2</sup> Les recettes des associations de consommateurs ne sont pas déduites des frais déterminants bruts.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)).
+
+#### Art. 4a
+
+**Conditions à remplir par les associations de consommateurs visées à l’art. 1, al. 1, pour obtenir une aide financière**[^4a-1]
+
+<sup>1</sup>
+
+L’aide financière est versée intégralement aux associations de consommateurs visées à l’art. 1, al. 1, si les conditions suivantes sont remplies:
+
+- a. le bénéfice de l’année précédente ne dépasse pas 10 % des fonds propres de l’association, ou 10 000 francs pour les petites associations;
+- b. les réserves s’élèvent à 50 % au plus des recettes de l’année précédente de l’association.
+
+<sup>2</sup> Si les conditions énoncées à l’al. 1 ne sont pas remplies ou ne le sont que partiellement, l’aide financière est réduite du montant qui dépasse les plafonds visés à l’al. 1.
+
+[^4a-1]: Introduit par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)).
+
+#### Art. 5
+
+**Répartition de l’aide financière**[^5-1]
+
+<sup>1</sup>
+
+Si le montant de l’aide financière ne suffit pas à couvrir 50 % des frais déterminants, il est réparti de la manière suivante:
+
+- a.
+
+  les associations de consommateurs visées à l’art. 1, al. 1, reçoivent sur demande 90 % au moins de la somme totale, à répartir de la façon suivante:
+
+  - 1\. un quart est réparti entre elles à parts égales et versé à titre d’avance,
+  - 2\. trois quarts sont répartis au prorata des frais déterminants;
+
+- b. les associations visées à l’art. 2 reçoivent 10 % au plus de la somme totale, à répartir au prorata des frais déterminants.
+
+<sup>2</sup> Le BFC rend une décision.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)).
+
+#### Art. 6
+
+**Aide financière pour l’exécution de tests comparatifs**
+
+Une aide financière peut être accordée pour l’exécution de tests comparatifs si l’occasion a été donnée à toutes les associations de consommateurs intéressées de participer de manière appropriée à l’élaboration des tests et si les résultats ont été mis à leur disposition pour publication.
+
+#### Art. 7
+
+**Tests comparatifs**
+
+Les tests pour lesquels une aide est accordée doivent:
+
+- a. analyser de manière comparative des produits ou des services de même nature ou des caractéristiques de produits ou de services intéressant particulièrement les consommateurs;
+- b. concerner des objets qui, au moment du choix, sont aussi représentatifs que possible du marché correspondant;
+- c. concerner des objets acquis – comme par les consommateurs – de manière anonyme sur le marché.
+
+#### Art. 8
+
+**Programmes de test**
+
+<sup>1</sup> Les programmes de tests doivent tenir compte des prescriptions légales et des normes reconnues applicables aux objets à tester et aux méthodes de tests, pour autant que celles-ci soient significatives par rapport à l’objectif du test et à son exécution.
+
+<sup>2</sup> Les programmes de tests doivent être élaborés de manière à garantir une exécution correcte des tests, au besoin avec le concours d’experts.
+
+<sup>3</sup> Lorsque certaines caractéristiques des produits ne peuvent être évaluées que subjectivement, il faut le mentionner dans le rapport de test. D’autre part, des mesures appropriées doivent être prises pour garantir la plus grande objectivité possible (augmentation du nombre d’analyses, utilisation de critères d’évaluation nuancés).
+
+#### Art. 9
+
+**Résultats de tests**
+
+<sup>1</sup> Les résultats de tests destinés à être publiés doivent auparavant être soumis individuellement au fabricant, à l’importateur ou au fournisseur concerné, afin que celui-ci puisse être entendu. Le délai imparti doit être suffisant pour que leurs objections éventuelles puissent être prises en considération.
+
+<sup>2</sup> Les résultats de tests dus à un défaut manifestement exceptionnel ne doivent pas être publiés sans un commentaire adéquat.
+
+#### Art. 10
+
+**Consultation des documents concernant les tests**
+
+Après la publication du test, le fabricant, l’importateur ou le fournisseur est autorisé à consulter les documents relatifs au test le concernant. Ce droit s’éteint deux mois après la publication des résultats.
+
+#### Art. 11
+
+**Procédure**
+
+<sup>1</sup> Les demandes d’aide financière pour la publication d’informations et l’exécution de tests doivent être adressées au BFC de la consommation sur une formule prévue à cet effet; elles doivent contenir un budget des coûts. Le BFC décide pour quelles activités d’information et de tests l’aide sera accordée et veille à la coordination.
+
+<sup>2</sup> Une aide financière n’est accordée pour la négociation de conventions sur les déclarations que si les organisations requérantes se sont mises d’accord sur leur représentation lors des négociations et sur la répartition des coûts. Le BFC veille à la coordination des activités dans ce domaine.
+
+#### Art. 12
+
+**Entrée en vigueur**
+
+<sup>1</sup> Pour l’année 1992, l’aide financière sera accordée conformément à la présente ordonnance, à concurrence du budget voté.
+
+<sup>2</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 1992.

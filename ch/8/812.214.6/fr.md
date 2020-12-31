@@ -1,0 +1,111 @@
+---
+sr: "812.214.6"
+title: "Ordonnance du 21 septembre 2018 sur la taxe de surveillance versée à l'Institut suisse des produits thérapeutiques (Ordonnance sur la taxe de surveillance des produits thérapeutiques)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/594"
+language: fr
+version: 2019-01-01
+adopted: 2018-09-21
+in_force: 2019-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-594-20190101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la taxe de surveillance versée à l’Institut suisse des produits thérapeutiques
+
+(Ordonnance sur la taxe de surveillance des produits thérapeutiques)
+
+du 21 septembre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 65, al. 4, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+#### Art. 1
+
+**Perception et calcul**
+
+<sup>1</sup> L’Institut suisse des produits thérapeutiques (Swissmedic) perçoit une fois par an une taxe de surveillance (taxe).
+
+<sup>2</sup> La taxe se calcule selon le prix de fabrique des médicaments et transplants standardisés autorisés en Suisse.
+
+<sup>3</sup> Le taux de la taxe est de 8 ‰ du prix de fabrique.
+
+#### Art. 2
+
+**Affectation**
+
+<sup>1</sup> La taxe couvre tous les frais occasionnés à Swissmedic dans le domaine des médicaments et des transplants standardisés qui ne sont pas couverts par des émoluments et des indemnités allouées par la Confédération.
+
+<sup>2</sup>
+
+Elle contribue notamment à couvrir les coûts associés aux tâches suivantes:
+
+- a. tâches générales de surveillance;
+- b. préparation et rédaction de normes;
+- c. information du public;
+- d. mesures contre l’usage abusif ou incorrect des médicaments.
+
+#### Art. 3
+
+**Assujettissement à la taxe**
+
+Est assujetti à la taxe tout titulaire d’une autorisation de mise sur le marché qui vend des médicaments ou des transplants standardisés autorisés en Suisse.
+
+#### Art. 4
+
+**Taxation**
+
+<sup>1</sup> Le titulaire de l’autorisation de mise sur le marché doit produire une déclaration pour chaque année civile. Celle-ci indique le chiffre d’affaires total généré par l’ensemble des médicaments et transplants standardisés vendus, sur la base des prix de fabrique.
+
+<sup>2</sup> L’exactitude de la déclaration établie doit être confirmée soit par l’organe de révision du titulaire de l’autorisation, soit, en l’absence d’organe de révision, par une personne autorisée à signer. Les coûts sont à la charge du titulaire de l’autorisation.
+
+<sup>3</sup> Swissmedic fixe la taxe par décision sur la base de la déclaration.
+
+<sup>4</sup> Si, en dépit d’un rappel, le titulaire de l’autorisation omet de remettre sa déclaration ou s’il remet des documents incomplets, Swissmedic évalue le chiffre d’affaires total et fixe la taxe sur cette base.
+
+#### Art. 5
+
+**Facturation et paiement par acompte**
+
+<sup>1</sup> Swissmedic facture la taxe au début de chaque année civile pour l’année précédente.
+
+<sup>2</sup> Il peut demander des acomptes. Ceux-ci sont calculés à titre provisoire sur la base de la taxation pour l’année précédente.
+
+<sup>3</sup> Les paiements par acomptes peuvent aussi être prélevés sur la base du chiffre d’affaires de l’année en cours pour autant que le titulaire de l’autorisation de mise sur le marché communique son chiffre d’affaires chaque trimestre.
+
+#### Art. 6
+
+**Echéance**
+
+<sup>1</sup>
+
+La taxe est due:
+
+- a. dès la facturation;
+- b. dès l’entrée en force de la décision en cas de différend portant sur la facture.
+
+<sup>2</sup> Le délai de paiement est de 30 jours à compter de l’échéance. Swissmedic peut le prolonger dans des cas particuliers.
+
+<sup>3</sup> A l’expiration du délai de paiement, des intérêts moratoires annuels de 5 % s’appliquent.
+
+#### Art. 7
+
+**Prescription**
+
+<sup>1</sup> Les créances de taxe se prescrivent par cinq ans à partir de leur échéance.
+
+<sup>2</sup> La prescription est interrompue par tout acte administratif faisant valoir la créance de taxe auprès de la personne assujettie.
+
+<sup>3</sup> Un nouveau délai de prescription commence à courir à partir de l’interruption.
+
+#### Art. 8
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2019.

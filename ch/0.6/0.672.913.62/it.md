@@ -1,0 +1,827 @@
+---
+sr: "0.672.913.62"
+title: "Convenzione dell'11 agosto 1971 tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (con scambio di lettere, di note, protocolli e acc. amichevole)"
+eli: "https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910"
+language: it
+version: 2016-12-28
+adopted: 1971-08-11
+in_force: 1972-12-29
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910/20161228/it/xml/fedlex-data-admin-ch-eli-cc-1972-3075_3128_2910-20161228-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/3075_3128_2910/20161228/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza
+
+RU **1972** 2910; FF **1971** II 1076
+
+Traduzione*[^t-1]*
+
+Conchiusa l’11 agosto 1971 Approvata dall’Assemblea federale il 29 novembre 1972[^t-2] Istrumenti di ratificazione scambiati il 29 dicembre 1972 Entrata in vigore il 29 dicembre 1972
+
+(Stato 28 dicembre 2016)
+
+[^t-1]: Dal testo originale tedesco.
+[^t-2]: [RU 1972 2909](https://fedlex.data.admin.ch/eli/oc/1972/3074_3127_2909)
+
+La Confederazione Svizzera e la Repubblica federale di Germania,
+
+animate dal desiderio di stipulare una convenzione per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+La presente convenzione si applica alle persone residenti di uno Stato contraente o di entrambi gli Stati contraenti.
+
+#### Art. 2
+
+<sup>(1)</sup> La presente convenzione si applica alle imposte sul reddito e sulla sostanza riscosse (anche sotto forma di imposte addizionali) per conto di uno dei due Stati contraenti, dei «Under», dei Cantoni, dei Distretti, dei Circoli, dei Comuni o dei Consorzi di Comuni, qualunque sia il sistema di riscossione.
+
+<sup>(2)</sup> Sono considerate imposte sul reddito e sulla sostanza tutte le imposte (ordinarie e straordinarie) riscosse sul reddito complessivo, sulla sostanza complessiva o su elementi del reddito o della sostanza, comprese le imposte su i guadagni provenienti dall’alienazione di beni mobili o immobili, le imposte sull’ammontare complessivo degli stipendi e dei salari pagati dalle imprese, come anche le imposte sugli incrementi patrimoniali. La convenzione non si applica alle imposte riscosse alla fonte sulle vincite alle lotterie.
+
+<sup>(3)</sup>
+
+Le imposte cui si applica la presente convenzione sono in particolare:
+
+- 1\.
+
+  per quanto riguarda la Repubblica federale di Germania:
+
+  - a) l’imposta sul reddito, compresa la relativa imposta complementare,
+  - b) l’imposta sulle società, compresa la relativa imposta complementare,
+  - c) l’imposta sulla sostanza,
+  - d) l’imposta fondiaria,
+  - e) l’imposta sulle imprese (in seguito: «imposta germanica»);
+
+- 2\. per quanto riguarda la Svizzera: le imposte riscosse dalla Confederazione, dai Cantoni, dai Distretti, dai Circoli, dai Comuni e dai Consorzi di Comuni
+  - a) sul reddito (reddito complessivo, reddito del lavoro, reddito della sostanza, utili industriali e commerciali, guadagni in capitale, ecc.) e
+  - b) sulla sostanza (sostanza complessiva, beni mobili e immobili, sostanza industriale e commerciale, capitale e riserve, ecc.) (in seguito: «imposta svizzera»).
+
+<sup>(4)</sup> La convenzione si applicherà anche alle imposte future, di natura identica o analoga, che verranno in seguito istituite in aggiunta alle imposte attuali o in loro sostituzione.
+
+<sup>(5)</sup> Le disposizioni della convenzione relative all’imposizione degli utili delle imprese si applicano analogicamente all’imposta sulle imprese riscossa su basi diverse dall’utile o dalla sostanza.
+
+#### Art. 3
+
+<sup>(1)</sup>
+
+Ai fini della presente convenzione, a meno che il contesto non richieda una interpretazione diversa:
+
+- a) l’espressione «Repubblica federale di Germania», intesa in senso geografico, designa il territorio in cui viene applicata la legge fondamentale della Repubblica federale di Germania, nonché il territorio confinante con le sue acque territoriali e designato territorio nazionale dalla legislazione fiscale, sul quale la Repubblica federale di Germania, in concordanza alle norme del diritto internazionale, può esercitare i suoi diritti per quanto riguarda il fondo e il sottofondo marino e le sue ricchezze naturali;
+- b) il termine «Svizzera» designa la Confederazione Svizzera;
+- c) le espressioni «uno Stato contraente» e l’altro «Stato contraente» designano la Germania o la Svizzera, come il contesto richiede;
+- d) il termine «persona» comprende le persone fisiche e le società;
+- e) il termine «società» designa le persone giuridiche o gli enti che, ai fini fiscali, sono assimilati alle persone giuridiche;
+- f) le espressioni «impresa di uno Stato contraente» e «impresa dell’altro Stato contraente» designano rispettivamente un’impresa esercitata da un residente di uno Stato contraente o un’impresa esercitata da un residente dell’altro Stato contraente;
+- g) il termine «imposta» designa rispettivamente l’imposta germanica o l’imposta svizzera;
+- h)
+
+  il termine «cittadino» designa:
+
+  - aa) per quanto riguarda la Repubblica federale di Germania: tutti i cittadini germanici intesi come tali ai termini dell’articolo 116, capoverso 1, della legge fondamentale della Repubblica federale di Germania e tutte le persone giuridiche, le società di persone e le altre unioni di persone che sono costituite secondo la legislazione vigente nella Repubblica federale di Germania;
+  - bb) per quanto riguarda la Svizzera: tutte le persone fisiche in possesso della cittadinanza svizzera e tutte le persone giuridiche, le società di persone e le altre unioni di persone che sono costituite secondo la legislazione vigente in Svizzera;
+
+- i) l’espressione «autorità competente» designa;
+  - aa) per quanto riguarda la Repubblica federale di Germania: il Ministero federale dell’economia e delle finanze;
+  - bb) per quanto riguarda la Svizzera: il Direttore dell’Amministrazione federale delle contribuzioni o un suo rappresentante autorizzato.
+
+<sup>(2)</sup> Per quello che concerne l’applicazione della convenzione da parte di uno Stato contraente, ogni altra espressione non altrimenti definita ha, a meno che il contesto non richieda un’interpretazione diversa, il significato che ad essa viene attribuito dalla legislazione di detto Stato relativa alle imposte formanti oggetto della convenzione.
+
+#### Art. 4
+
+<sup>(1)</sup> Ai fini della presente convenzione l’espressione «residente di uno Stato contraente» designa ogni persona che, in virtù della legislazione di detto Stato, vi è assoggettata illimitatamente alle imposte.
+
+<sup>(2)</sup>
+
+Quando, in base alle disposizioni del paragrafo 1, una persona fisica è considerata residente di entrambi gli Stati contraenti, il caso viene risolto secondo le regole seguenti:
+
+- a) detta persona è considerata residente dello Stato contraente nel quale ha una abitazione permanente. Quando ha una abitazione permanente in entrambi gli Stati contraenti, essa è considerata residente dello Stato contraente con il quale le relazioni personali ed economiche sono le più strette (centro degli interessi vitali);
+- b) se non è possibile determinare lo Stato contraente nel quale detta persona ha il centro dei suoi interessi vitali, o se essa non ha una abitazione permanente in alcuno degli Stati contraenti, detta persona è considerata residente dello Stato contraente in cui soggiorna abitualmente;
+- c) se detta persona soggiorna abitualmente in entrambi gli Stati contraenti o non soggiorna abitualmente in alcuno di essi, essa è considerata residente dello Stato contraente del quale ha la cittadinanza;
+- d) se detta persona ha la cittadinanza di entrambi gli Stati contraenti o non ha la cittadinanza di alcuno di essi, le autorità competenti degli Stati contraenti risolveranno la questione di comune accordo.
+
+<sup>(3)</sup> Se una persona fisica che ha una abitazione permanente nella Repubblica federale di Germania, o vi soggiorna abitualmente almeno per sei mesi dell’anno civile, è considerata residente della Svizzera secondo le disposizioni del paragrafo 2, la Repubblica federale di Germania può imporre questa persona, nonostante le altre disposizioni della presente convenzione, giusta le prescrizioni relative all’obbligazione fiscale illimitata. Tuttavia, la Repubblica federale di Germania applica le disposizioni dell’articolo 24, paragrafo 1, numero 1, ai redditi provenienti dalla Svizzera e agli elementi di sostanza situati in Svizzera menzionati in queste disposizioni; su gli altri redditi provenienti dalla Svizzera o elementi di sostanza situati in Svizzera, la Repubblica federale di Germania, in applicazione analogica delle prescrizioni della legislazione germanica quanto al computo delle imposte straniere, computa l’imposta svizzera riscossa su questi redditi o elementi di sostanza sull’imposta germanica (ad eccezione dell’imposta sulle imprese) che colpisce questi redditi o elementi di sostanza; per quanto riguarda i rimanenti redditi o elementi di sostanza, la Repubblica federale di Germania, in applicazione analogica delle prescrizioni della legislazione germanica quanto al computo delle imposte straniere, computa l’imposta svizzera riscossa su questi redditi o elementi di sostanza conformemente alla presente convenzione sulla parte dell’imposta germanica (ad eccezione dell’imposta sulle imprese) che, in base a questa disposizione, viene riscossa su questi redditi o elementi di sostanza in più dell’imposta germanica che li colpirebbe giusta le disposizioni degli articoli da 6 a 22.
+
+<sup>(4)</sup> Trattandosi di una persona fisica residente della Svizzera, ma che non ha la cittadinanza svizzera e che nella Repubblica federale di Germania è stata assoggettata illimitatamente almeno per cinque anni, complessivamente, la Repubblica federale di Germania può tassarla nell’anno in cui ha preso fine per l’ultima volta l’obbligazione fiscale illimitata, e nei cinque anni successivi, per i redditi provenienti dalla Repubblica federale di Germania e per gli elementi di sostanza situati nella Repubblica federale di Germania, nonostante le altre disposizioni della presente convenzione. Non viene pregiudicata l’imposizione in Svizzera, conformemente alla presente convenzione, di questi redditi o elementi di sostanza. Tuttavia, la Repubblica federale di Germania, in applicazione analogica della legislazione germanica quanto al computo delle imposte straniere, computa l’imposta svizzera riscossa su questi redditi o elementi di sostanza in conformità della presente convenzione sulla parte dell’imposta germanica (ad eccezione dell’imposta sulle imprese) che, in base a questa disposizione, viene riscossa su questi proventi o elementi di sostanza in più dell’imposta germanica che li colpirebbe giusta le disposizioni degli articoli da 6 a 22. Le disposizioni di questo paragrafo non si applicano quando la persona fisica è divenuta residente della Svizzera per svolgervi un’attività veramente dipendente per conto di un datore di lavoro al quale, oltre il rapporto di servizio, non è legata da un interesse economico essenziale, né direttamente né indirettamente, mediante partecipazione o in altro modo.
+
+<sup>(5)</sup> Se, ai termini di questo articolo, una persona fisica è considerata residente di uno Stato contraente soltanto per una parte dell’anno e per l’altra parte dello stesso anno residente dell’altro Stato contraente (cambiamento di domicilio), in ciascuno Stato le imposte possono essere riscosse in base all’obbligazione fiscale illimitata soltanto in funzione del tempo durante il quale tale persona è considerata residente di questo Stato.
+
+<sup>(6)</sup> Non è considerata «residente di uno Stato contraente» una persona fisica che non è assoggettata alle imposte generalmente riscosse nello Stato contraente, di cui sarebbe residente secondo le disposizioni che precedono, per tutti i redditi generalmente imponibili secondo la legislazione fiscale di questo Stato e provenienti dall’altro Stato contraente.[^4-1]
+
+<sup>(7)</sup> Le disposizioni di questo articolo si applicano anche alla persona sotto tutela.
+
+<sup>(8)</sup> Quando, in base alle disposizioni del paragrafo 1, una società è considerata residente di entrambi gli Stati contraenti, si reputa che essa è residente dello Stato contraente in cui si trova il centro della sua direzione effettiva. Il semplice fatto che una persona partecipi ad una società o che essa, in una società che fa parte di un gruppo («Konzern»), prende delle decisioni concernenti tutto il gruppo, non costituisce per questa società alcun centro di direzione effettiva nel luogo in cui queste decisioni vengono prese o dove questa persona è residente.
+
+<sup>(9)</sup> Se una società è considerata residente di entrambi gli Stati contraenti secondo la disposizione del paragrafo 1 e residente della Svizzera secondo le disposizioni del paragrafo 8, la Repubblica federale di Germania può imporre questa società, nonostante le altre disposizioni della presente convenzione, giusta le prescrizioni relative all’obbligazione fiscale illimitata. Tuttavia, la Repubblica federale di Germania applica le disposizioni dell’articolo 24, paragrafo 1, numero 1, ai redditi provenienti dalla Svizzera o agli elementi di sostanza situati in Svizzera menzionati in queste disposizioni; su gli altri redditi provenienti dalla Svizzera o elementi di sostanza situati in Svizzera, la Repubblica federale di Germania, in applicazione analogica delle prescrizioni della legislazione germanica quanto al computo delle imposte straniere, computa l’imposta svizzera riscossa su questi redditi o elementi di sostanza sull’imposta germanica (ad eccezione dell’imposta sulle imprese) che colpisce questi redditi o elementi di sostanza; per quanto riguarda i rimanenti redditi o elementi di sostanza, la Repubblica federale di Germania, in applicazione analogica delle prescrizioni della legislazione germanica quanto al computo delle imposte straniere, computa l’imposta svizzera riscossa su questi redditi o elementi di sostanza conformemente alla presente convenzione sulla parte dell’imposta germanica (ad eccezione dell’imposta sulle imprese) che, in base a questa disposizione, viene riscossa su questi redditi o elementi di sostanza in più dell’imposta germanica che li colpirebbe giusta le disposizioni degli articoli da 6 a 22.
+
+<sup>(10)</sup> Le disposizioni del paragrafo 8 non pregiudicano le prescrizioni di uno Stato contraente relative all’imposizione dei redditi di cui agli articoli da 10 a 12 e 16, se tale imposizione si ricollega al fatto che la società da dove essi provengono ha la sua direzione o sede in questo Stato; tuttavia, le disposizioni degli articoli da 10 a 12, 24 e 28 si applicano ai detti redditi qualora il loro beneficiario sia un residente dell’altro Stato contraente.
+
+<sup>(11)</sup> Una persona non è considerata residente di uno Stato contraente per quanto riguarda i redditi e gli elementi di sostanza non ad essa attribuibili, ma ad altra persona.
+
+[^4-1]: Nuovo testo giusta l’art. I del Prot. di revisione del 12 mar. 2002, approvato dall’AF il 9 dic. 2002 ed in vigore dal 24 mar. 2003 ([RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [FF 2002 3823](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+
+#### Art. 5
+
+<sup>(1)</sup> Ai fini della presente convenzione l’espressione «stabile organizzazione» designa una sede fissa di affari dove l’impresa svolge, in tutto o in parte, la sua attività.
+
+<sup>(2)</sup>
+
+L’espressione «stabile organizzazione» comprende in particolare:
+
+- a) una sede di direzione;
+- b) una succursale;
+- c) un ufficio;
+- d) un’officina;
+- e) un laboratorio;
+- f) una miniera, una cava od ogni altro luogo di estrazione di risorse naturali;
+- g) un cantiere di costruzione o di montaggio la cui durata superi dodici mesi.
+
+<sup>(3)</sup>
+
+Non si considera che vi sia «stabile organizzazione» se:
+
+- a) si fa uso d’installazioni ai soli fini di deposito, di esposizione o di consegna di merci appartenenti all’impresa;
+- b) le merci appartenenti all’impresa sono immagazzinate ai soli fini di deposito, di esposizione o di consegna;
+- c) le merci appartenenti all’impresa sono immagazzinate ai soli fini della trasformazione da parte di un’altra impresa;
+- d) un’istallazione fissa di affari serve ai soli fini di acquistare merci o di raccogliere informazioni per l’impresa;
+- e) un’istallazione fissa di affari serve, per l’impresa, ai soli fini di pubblicità, di fornire informazioni, di ricerche scientifiche o di attività analoghe che abbiano carattere preparatorio o ausiliare.
+
+<sup>(4)</sup> Una persona che agisce in uno Stato contraente per conto di un’impresa dell’altro Stato contraente – diversa da un agente che goda di uno statuto indipendente, di cui al paragrafo 5 – è considerata «stabile organizzazione» nel primo Stato se dispone in detto Stato di poteri che vi esercita abitualmente e che le consentono di stipulare contratti a nome dell’impresa, salvo il caso che l’attività di detta persona sia limitata all’acquisto di merci per l’impresa.
+
+<sup>(5)</sup> Non si considera, che un’impresa di uno Stato contraente ha una stabile organizzazione nell’altro Stato contraente per il solo fatto che vi esercita la propria attività per mezzo di un mediatore, di un commissionario generale o di ogni altro intermediario che goda di uno statuto indipendente, a condizione che dette persone agiscano nell’ambito della loro attività normale.
+
+<sup>(6)</sup> Il fatto che una società residente di uno Stato contraente controlli una società residente dell’altro Stato contraente, o ne sia invece da essa controllata, ovvero vi svolga la sua attività (per mezzo di una stabile organizzazione o no) non costituisce, di per sé, motivo sufficiente per far considerare una qualsiasi delle dette società una stabile organizzazione dell’altra.
+
+#### Art. 6
+
+<sup>(1)</sup> I redditi provenienti da beni immobili sono imponibili nello Stato contraente dove detti beni sono situati.
+
+<sup>(2)</sup> L’espressione «beni immobili» è definita conformemente al diritto dello Stato contraente dove i beni stessi sono situati. Detta espressione comprende, in ogni caso, gli accessori, le scorte vive o morte delle aziende agricole e forestali, i diritti ai quali si applicano le disposizioni del diritto privato riguardanti la proprietà fondiaria, l’usufrutto di beni immobili e i diritti a canoni variabili o fissi per lo sfruttamento o la concessione dello sfruttamento di giacimenti minerari, sorgenti ed altre ricchezze del suolo. Le navi, i battelli e gli aeromobili non sono considerati beni immobili.
+
+<sup>(3)</sup> Le disposizioni del paragrafo 1 si applicano ai redditi provenienti dall’utilizzazione diretta, dalla locazione o dall’affitto ovvero da qualsiasi altra forma di utilizzazione di beni immobili.
+
+<sup>(4)</sup> Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi provenienti da immobili di un’impresa e ai redditi di beni immobili che servono all’esercizio di una libera professione.
+
+#### Art. 7
+
+<sup>(1)</sup> Gli utili di un’impresa di uno Stato contraente sono imponibili soltanto in detto Stato, a meno che l’impresa non svolga la sua attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata. Se l’impresa svolge in tal modo la propria attività, gli utili dell’impresa sono imponibili nell’altro Stato, ma soltanto nella misura in cui sono attribuibili alla stabile organizzazione.
+
+<sup>(2)</sup> Quando un’impresa di uno Stato contraente svolge la sua attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata, in ciascun Stato contraente sono attribuiti a detta stabile organizzazione gli utili che si ritiene potrebbero essere stati da essa conseguiti se la stabile organizzazione fosse stata un’impresa distinta e separata, che avesse svolto attività identiche o analoghe, in condizioni identiche o analoghe, e trattato in tutta indipendenza con l’impresa di cui è una stabile organizzazione.
+
+<sup>(3)</sup> Nella determinazione degli utili di una stabile organizzazione sono ammesse in deduzione le spese sostenute per gli scopi che si prefigge la stabile organizzazione, comprese le spese di direzione e quelle generali di amministrazione, sia nello Stato dove è situata la stabile organizzazione sia altrove.
+
+<sup>(4)</sup> Qualora uno degli Stati contraenti segua la prassi di determinare gli utili da attribuire ad una stabile organizzazione in base a riparto degli utili complessivi dell’impresa fra le sue diverse parti, la disposizione del paragrafo 2 non impedisce a detto Stato contraente di determinare gli utili imponibili secondo la ripartizione in uso; il metodo di riparto adottato deve, tuttavia, essere tale che il risultato ottenuto sia conforme ai principi contenuti nel presente articolo.
+
+<sup>(5)</sup> Nessun utile può essere attribuito alla stabile organizzazione per il semplice fatto di aver essa acquistato merci per l’impresa.
+
+<sup>(6)</sup> Ai fini dei paragrafi precedenti gli utili da attribuire alla stabile organizzazione sono determinanti ogni anno con lo stesso metodo, a meno che non esistano motivi validi e sufficienti per procedere diversamente.
+
+<sup>(7)</sup> Il presente articolo si applica pure ai redditi provenienti da partecipazioni ad una società di persone. Esso porta anche sui compensi che il socio di una società di persone riceve dalla società per l’attività svolta al suo servizio, per averle concesso dei prestiti o ceduto dei beni economici, qualora le dette rimunerazioni siano attribuibili, secondo la legislazione fiscale dello Stato contraente in cui è situata la stabile organizzazione, al reddito che il socio ritrae dalla stabile organizzazione.
+
+<sup>(8)</sup> Allorquando negli utili siano compresi elementi di reddito considerati separatamente in altri articoli della presente convenzione, le disposizioni di questi articoli non sono modificate da quelle del presente articolo.
+
+#### Art. 8
+
+<sup>(1)</sup> Gli utili provenienti dall’esercizio, in traffico internazionale, di navi o di aeromobili sono imponibili soltanto nello Stato contraente dove si trova la sede della direzione effettiva dell’impresa.
+
+<sup>(2)</sup> Gli utili provenienti dall’esercizio di battelli adibiti alla navigazione interna sono imponibili soltanto nello Stato contraente dove si trova la sede della direzione effettiva dell’impresa.
+
+<sup>(3)</sup> Se la sede della direzione effettiva dell’impresa di navigazione marittima o interna è a bordo di una nave o di un battello, si considera che questa sede si trova nello Stato contraente in cui è ubicato il porto di immatricolazione della nave o del battello, oppure, non dandosi un porto di immatricolazione, nello Stato contraente di cui è residente la persona che esercita la nave o il battello.
+
+<sup>(4)</sup>
+
+Le disposizioni che precedono sono ugualmente applicabili:
+
+- a) quando l’esercizio della navigazione marittima, interna o aerea è svolto con mezzi di trasporto noleggiati o presi in affitto;
+- b) alle agenzie, per quanto la loro attività sia in relazione diretta con l’esercizio della navigazione marittima, interna o aerea oppure con il servizio di trasporto; e
+- c) alle partecipazioni di imprese della navigazione marittima, interna o aerea ad un «pool», ad un esercizio in comune o ad un organismo internazionale di esercizio.
+
+<sup>(5)</sup> Quando un’impresa intesa ai termini del presente articolo, che viene condotta sotto forma di società di persone, ha la sede della sua direzione effettiva in uno Stato contraente, mentre uno dei soci è residente dell’altro Stato contraente, quest’altro Stato contraente può imporre un tale socio per i redditi che ritrae dalla sua partecipazione alla società di persone ma, per l’imposta riscossa nel primo Stato, gli concede uno sgravio della sua imposta nell’ambito delle disposizioni dell’articolo 24.
+
+#### Art. 9
+
+Quando
+
+- a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente, o che
+- b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente, e che, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che, senza tali condizioni, sarebbero stati conseguiti da una delle imprese ma che, a causa di dette condizioni, non lo sono stati, possono essere inclusi negli utili di detta impresa e imposti di conseguenza.
+
+#### Art. 10
+
+[^10-1]
+
+<sup>(1)</sup> I dividendi pagati da una società residente di uno Stato contraente ad un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
+
+<sup>(2)</sup>
+
+Tuttavia, tali dividendi possono essere imposti anche nello Stato contraente di cui la società pagatrice è residente, in conformità della legislazione di questo Stato, ma l’aliquota d’imposta così applicata non può eccedere:
+
+- a) il 5 per cento dell’ammontare lordo dei dividendi, quando essi sono pagati da una società che esercita un’officina idroelettrica per lo sfruttamento delle forze idriche del Reno tra il lago di Costanza e Basilea (impianti idroelettrici di confine sul Reno);
+- b) il 30 per cento dell’ammontare lordo dei dividendi, quando si tratta di redditi provenienti da partecipazioni a un’attività commerciale a titolo di socio occulto, come inteso dalla legislazione germanica, da diritti di godimento, da obbligazioni con partecipazione agli utili o da prestiti parziari e se questi importi sono deducibili all’atto della determinazione degli utili del debitore;
+- c) il 15 per cento dell’ammontare lordo dei dividendi nei casi che non sono contemplati dalle disposizioni delle lettere a) o b).[^10-2]
+
+<sup>(3)</sup> Nonostante le disposizioni del paragrafo 2, i dividendi possono essere esentati da imposta nello Stato contraente di cui la società pagatrice è residente, se il beneficiario dei dividendi è una società residente nell’altro Stato contraente che, per un periodo ininterrotto di almeno 12 mesi, detiene direttamente almeno il 10 per cento del capitale della società che paga i dividendi. In caso di dividendi versati da una società anonima immobiliare tedesca con partecipazioni quotate in borsa («Immobilien-Aktiengesellschaft mit börsennotierten Anteilen; REIT-AG»), un fondo d’investimento tedesco o da una società anonima d’investimento tedesca non si applica il primo periodo, bensì il paragrafo 2 lettera c). Questo non riguarda l’imposizione della società per quanto concerne gli utili con i quali sono pagati i dividendi.[^10-3]
+
+<sup>(4)</sup> Ai fini del presente articolo, il termine «dividendi» designa i redditi provenienti da azioni, diritti di godimento (p.es. azioni o buoni di godimento), da quote di una società a garanzia limitata, da quote minerarie, da quote di fondatore o da altri diritti – ad eccezione dei crediti – portanti partecipazione agli utili, nonché i redditi di altre quote sociali equiparati ai redditi di azioni dalla legislazione fiscale dello Stato di cui la società distributrice è residente, compresi i redditi provenienti da partecipazioni ad un’attività commerciale a titolo di socio occulto, come inteso dalla legislazione germanica, da obbligazioni portanti partecipazione agli utili o da prestiti parziari, come pure le distribuzioni provenienti da quote in fondi d’investimento.
+
+<sup>(5)</sup> Le disposizioni dei paragrafi da 1 a 3 non si applicano quando il beneficiario dei dividendi, residente di uno Stato contraente, ha nell’altro Stato contraente, di cui la società pagatrice dei dividendi è residente, una stabile organizzazione alla quale è effettivamente connessa la partecipazione generatrice dei dividendi. In tal caso trovano applicazione le disposizioni dell’articolo 7.
+
+<sup>(6)</sup> Qualora una società residente di uno Stato contraente tragga utili o redditi dall’altro Stato contraente, detto altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società a persone non residenti di detto altro Stato, né riscuotere alcuna imposta, a titolo d’imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscono, in tutto o in parte, utili o redditi provenienti da detto altro Stato. Sono riservate le disposizioni dell’articolo 4, paragrafo 10.
+
+[^10-1]: Nuovo testo giusta l’art. I del Prot. dal 17 ott. 1989, approvato dall’AF l’8 giu. 1990, in vigore dal 30 nov. 1990 ([RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+[^10-2]: Nuovo testo giusta l’art. II del Prot. di revisione del 12 mar. 2002, approvato dall’AF il 9 dic. 2002 ed in vigore dal 24 mar. 2003 ([RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [FF 2002 3823](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^10-3]: Nuovo testo giusta l’art. 1 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+
+#### Art. 11
+
+<sup>(1)</sup> Gli interessi provenienti da uno Stato contraente e pagati a un residente dell’altro Stato contraente sono imponibili soltanto in detto altro Stato.
+
+<sup>(2)</sup> Ai fini del presente articolo, il termine «interessi» designa, riservate le disposizioni dell’articolo 10, paragrafo 4[^11-1], i redditi di prestiti pubblici, di obbligazioni di prestito, compresi i prestiti convertibili, garantiti o no da ipoteca, di crediti di qualsiasi natura, nonché tutti gli altri redditi assimilati ai redditi di somme date in prestito dalla legislazione fiscale dello Stato da dove provengono i redditi.
+
+<sup>(3)</sup> Le disposizioni del paragrafo 1 non si applicano quando il beneficiario degli interessi, residente di uno Stato contraente, ha nell’altro Stato contraente, da dove provengono gli interessi, una stabile organizzazione alla quale è effettivamente connesso il credito generatore degli interessi. In tal caso trovano applicazione le disposizioni dell’articolo 7.
+
+<sup>(4)</sup> Qualora, in conseguenza di relazioni particolari esistenti tra debitore e creditore o tra ciascuno di essi e terze persone, l’ammontare degli interessi pagati, tenuto conto del credito per il quale sono pagati, ecceda quello che sarebbe stato convenuto tra debitore e creditore in assenza di dette relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso la parte eccedente dei pagamenti è imponibile in conformità della legislazione di ciascun Stato contraente, tenuto conto delle altre disposizioni della presente convenzione.
+
+[^11-1]: Nuovo numero giusta l’art. II del Prot. del 17 ott. 1989, approvato dall’AF l’8 giu. 1990, in vigore dal 30 nov. 1990 ([RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+
+#### Art. 12
+
+<sup>(1)</sup> I diritti di licenza provenienti da uno Stato contraente e pagati a un residente dell’altro Stato contraente sono imponibili soltanto in detto altro Stato.
+
+<sup>(2)</sup> Ai fini del presente articolo, il termine «diritti di licenza» designa i compensi di qualsiasi specie corrisposti per l’uso o la concessione dell’uso di diritti di autore su opere letterarie, artistiche o scientifiche, comprese le pellicole cinematografiche, di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o processi segreti, come pure per l’uso o la concessione dell’uso di attrezzature industriali, commerciali o scientifiche e per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.
+
+<sup>(3)</sup> Le disposizioni del paragrafo 1 non si applicano quando il beneficiario dei diritti di licenza, residente di uno Stato contraente, ha nell’altro Stato contraente, da dove provengono i diritti di licenza, una stabile organizzazione alla quale è effettivamente connesso il diritto o il bene generatore dei diritti di licenza. In tal caso trovano applicazione le disposizioni dell’articolo 7.
+
+<sup>(4)</sup> Qualora, in conseguenza di relazioni particolari esistenti tra debitore e creditore o tra ciascuno di essi e terze persone, l’ammontare dei diritti di licenza pagati, tenuto conto della prestazione per la quale sono versati, ecceda quello che sarebbe stato convenuto tra debitore e creditore in assenza di dette relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso la parte eccedente dei pagamenti è imponibile in conformità della legislazione di ciascun Stato contraente, conto tenuto delle altre disposizioni della presente convenzione.
+
+#### Art. 13
+
+<sup>(1)</sup> I guadagni derivanti dall’alienazione di beni immobili, come definiti al paragrafo 2 dell’articolo 6, sono imponibili nello Stato contraente dove detti beni sono situati.
+
+<sup>(2)</sup> I guadagni derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, o di beni mobili facenti parte di una sede fissa della quale un residente di uno Stato contraente dispone nell’altro Stato contraente per l’esercizio di una libera professione, compresi i guadagni analoghi derivanti dall’alienazione totale di detta stabile organizzazione (unitamente o no alla relativa impresa) o di detta sede fissa, sono imponibili in questo altro Stato. Tuttavia, i guadagni derivanti dall’alienazione dei beni mobili considerati al paragrafo 3 dell’articolo 22 sono imponibili soltanto nello Stato contraente nel quale i beni di cui trattasi sono imponibili secondo le disposizioni di detto articolo.
+
+<sup>(3)</sup> I guadagni derivanti dall’alienazione di ogni altro bene non menzionato nei paragrafi 1 e 2 sono imponibili soltanto nello Stato contraente del quale l’alienante è residente.
+
+<sup>(4)</sup> Nonostante le disposizioni del paragrafo 3, i guadagni provenienti dall’alienazione totale o parziale di una partecipazione essenziale ad una società sono imponibili nello Stato contraente di cui la società è residente, se l’alienante è una persona fisica residente dell’altro Stato contraente,
+
+Si dà partecipazione essenziale quando l’alienante ha disposto, direttamente o indirettamente, di più di un quarto del capitale della società.
+
+- a) che nel corso dei cinque anni precedenti l’alienazione è stata residente del primo Stato contraente ai termini dell’articolo 4, e
+- b) che non è assoggettata nell’altro Stato ad alcuna imposta sui guadagni in capitale.
+
+<sup>(5)</sup> Se, alla partenza di una persona fisica sua residente, uno Stato contraente impone l’incremento patrimoniale proveniente da una partecipazione essenziale ad una società residente di questo Stato, l’altro Stato, quando impone il guadagno proveniente dall’alienazione successiva della partecipazione, conformemente alle disposizioni del paragrafo 3, accerterà il guadagno in capitale conseguito con l’alienazione prendendo per base, a titolo di spese di acquisto, l’ammontare che il primo Stato ha ammesso come ricavato al momento della partenza.
+
+#### Art. 14
+
+<sup>(1)</sup> I redditi che un residente di uno Stato contraente ritrae dall’esercizio di una libera professione o da altre attività indipendenti di carattere analogo sono imponibili soltanto in detto Stato, a meno che il residente non disponga abitualmente nell’altro Stato contraente di una sede fissa per l’esercizio della sua attività. Ove disponga di una tale sede fissa, i redditi sono imponibili nell’altro Stato, ma soltanto nella misura in cui sono attribuibili a detta sede fissa.
+
+<sup>(2)</sup> L’espressione «libera professione» comprende, in particolare, le attività indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, come anche le attività indipendenti dei medici, degli avvocati, ingegneri, architetti, dei dentisti e dei contabili.
+
+#### Art. 15
+
+<sup>(1)</sup> Salve le disposizioni degli articoli da 15*a* a 19[^15-1], i salari, gli stipendi e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente sono imponibili soltanto in detto Stato, a meno che tale attività non venga svolta nell’altro Stato contraente. In quest’ultimo caso, le rimunerazioni percepite a detto titolo sono imponibili in questo altro Stato.
+
+<sup>(2)</sup>
+
+Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente svolta nell’altro Stato contraente sono imponibili soltanto nel primo Stato se:
+
+- a) il beneficiario soggiorna nell’altro Stato per un periodo o periodi di non più di 183 giorni, in totale, nel corso dell’anno civile considerato.
+- b) le rimunerazioni sono pagate da o a nome di un datore di lavoro che non è residente dell’altro Stato e
+- c) l’onere delle rimunerazioni non è sostenuto da una stabile organizzazione o sede fissa che il datore di lavoro ha nell’altro Stato.
+
+<sup>(3)</sup> Nonostante le disposizioni precedenti del presente articolo, le rimunerazioni dovute per attività dipendente svolta a bordo di navi o di aeromobili in traffico internazionale o a bordo di battelli adibiti alla navigazione interna sono imponibili nello Stato contraente nel quale si trova la sede della direzione effettiva dell’impresa. Se dette rimunerazioni non sono imposte in questo Stato, esse possono essere imposte nell’altro Stato contraente.
+
+…[^15-2]
+
+<sup>(4)</sup> Salve le disposizioni dell’articolo 15*a*[^15-3] una persona fisica che è residente di uno Stato contraente ma che svolge un’attività come membro del comitato direttivo, direttore, gerente o procuratore di una società di capitali residente dell’altro Stato contraente, può essere imposta in questo altro Stato per le rimunerazioni che riceve per questa attività, a meno che detta attività non sia circoscritta in modo da comprendere soltanto compiti che producono effetti al di fuori di questo altro Stato. Se detto altro Stato contraente non impone questi redditi, essi possono essere imposti nello Stato di cui la persona fisica è residente.[^15-4]
+
+[^15-1]: Nuovi art. giusta l’art. I n. 1 del Prot. del 21 dic. 1992, approvato dall’AF il 6 ott. 1993, in vigore dal 29 dic. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-2]: Par. abrogato dall’art. 1 n. 2 del Prot. del 21 dic. 1992, approvato dall’AF il 6 ott. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-3]: Nuova espr. giusta l’art. I n. 4 del Prot. del 21 dic. 1992, approvato dall’AF il 6 ott. 1993, in vigore dal 29 dic. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-4]: Originario par. 5.
+
+#### Art. 15a
+
+[^15a-1]
+
+<sup>(1)</sup> Nonostante le disposizioni dell’articolo 15, i salari, gli stipendi e le altre rimunerazioni analoghe che un frontaliero riceve in corrispettivo di un’attività dipendente sono imponibili nello Stato contraente di cui è residente. A titolo di compensazione, lo Stato contraente nel quale è svolta l’attività può trattenere un’imposta su dette rimunerazioni. Tale imposta non può superare il 4,5 per cento dell’ammontare lordo delle rimunerazioni se la residenza è provata da un’attestazione ufficiale della competente autorità fiscale dello Stato contraente di cui il contribuente è residente. Sono salve le disposizioni dell’articolo 4 paragrafo 4.
+
+<sup>(2)</sup> È considerato frontaliero ai sensi del paragrafo 1 ogni persona residente di uno Stato contraente il cui luogo di lavoro è situato nell’altro Stato contraente, dal quale rientra regolarmente al proprio domicilio. Se, dopo il lavoro, detta persona non rientra regolarmente al suo domicilio, essa perde la qualità di frontaliero unicamente se, in caso di occupazione durante l’intero anno civile, a causa della sua attività non rientra al proprio domicilio per oltre 60 giorni lavorativi.
+
+<sup>(3)</sup>
+
+Nonostante le disposizioni dell’articolo 24, lo Stato contraente di cui il frontaliero è residente tiene conto dell’imposta trattenuta giusta il terzo periodo del paragrafo 1 nel modo seguente:
+
+- a) nella Repubblica federale di Germania l’imposta è computata nell’imposta tedesca sul reddito conformemente alle disposizioni del § 36 della legge concernente l’imposta sul reddito («Einkommensteuergesetz»), malgrado le disposizioni del § 34*c* della stessa legge. L’imposta è parimenti presa in considerazione per la determinazione degli acconti dell’imposta sul reddito;
+- b) in Svizzera, per determinare le basi di calcolo, l’importo lordo delle rimunerazioni è ridotto di un quinto.
+
+<sup>(4)</sup> Le autorità competenti degli Stati contraenti disciplinano di comune accordo gli ulteriori dettagli come pure le modalità della procedura per l’applicazione dei paragrafi precedenti.
+
+[^15a-1]: Introdotto dall’art. II del Prot. del 21 dic. 1992, approvato dall’AF il 6 ott. 1993, in vigore dal 29 dic. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+
+#### Art. 16
+
+Le rimunerazioni e retribuzioni che un residente di uno Stato contraente riceve da una società residente dell’altro Stato contraente come membro del consiglio di amministrazione o di vigilanza della società sono imponibili in detto altro Stato.
+
+#### Art. 17
+
+<sup>(1)</sup> Nonostante le disposizioni degli articoli 7, 14 e 15, i redditi che i professionisti dello spettacolo, quali attori di teatro, del cinema, della radio o della televisione, musicisti, come anche gli sportivi e gli artisti ritraggono come tali dalle loro prestazioni personali sono imponibili nello Stato contraente dove dette attività sono svolte.
+
+La stessa norma trova applicazione per i redditi che ritrae un’altra persona per l’attività o la messa a disposizione del professionista dello spettacolo, dell’artista o dello sportivo.
+
+<sup>(2)</sup> Le disposizioni del paragrafo 1 non trovano applicazione per i redditi provenienti dalle attività svolte da artisti professionisti che, direttamente o indirettamente, sono per una parte notevole promosse con denaro pubblico dello Stato di cui l’artista è residente.[^17-1]
+
+[^17-1]: Nuovo testo dell’ultima parte del par. giusta l’art. III del Prot. del 21 dic. 1992, approvato dall’AF il 6 ott. 1993, in vigore dal 29 dic. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+
+#### Art. 18
+
+Salve le disposizioni dell’articolo 19, le pensioni e le altre rimunerazioni analoghe, pagate a un residente di uno Stato contraente a titolo di cessato impiego, sono imponibili soltanto in questo Stato.
+
+#### Art. 19
+
+<sup>(1)</sup> Le rimunerazioni, comprese le pensioni, versate da uno Stato contraente, «Land», Cantone, Distretto, Circolo, Comune o Consorzio di Comuni o da una persona giuridica di diritto pubblico di detto Stato, sia direttamente sia mediante prelevamento da un fondo speciale, ad una persona fisica a titolo di servizi resi sono imponibili soltanto in detto Stato. Tuttavia, le rimunerazioni, escluse le pensioni, versate a titolo di servizi resi nell’altro Stato contraente da un cittadino di detto Stato che non possiede in pari tempo la cittadinanza del primo Stato possono essere imposte soltanto nell’altro Stato.
+
+<sup>(2)</sup> Le disposizioni degli articoli 15 e 16 trovano applicazione per le rimunerazioni versate a titolo di servizi resi nell’ambito di un’attività commerciale o industriale svolta da uno Stato contraente, «Land», Cantone, Distretto, Circolo, Comune o Consorzio di Comuni o da una persona giuridica di diritto pubblico di detto Stato.
+
+<sup>(3)</sup> Le disposizioni del paragrafo 1 trovano pure applicazione per le rimunerazioni versate dalla «Deutsche Bundesbank», dalla «Deutsche Bundesbahn» e dalla «Deutsche Bundespost», nonché dalla Banca nazionale svizzera, dalle Ferrovie federali svizzere, dall’Azienda svizzera delle poste, dei telefoni e dei telegrafi e dall’Ufficio nazionale svizzero del turismo.
+
+<sup>(4)</sup> Nonostante le disposizioni dei paragrafi 1 e 3, le rimunerazioni del genere menzionato in questi paragrafi, percepite dal personale dell’amministrazione delle ferrovie, delle poste, dei telegrafi e delle dogane dei due Stati contraenti, che esercita la propria attività in zone di confine, sono imponibili soltanto nello Stato contraente di cui queste persone sono residenti.
+
+<sup>(5)</sup> Le disposizioni dell’articolo 15*a*[^19-1] si applicano per analogia alle rimunerazioni di cui ai paragrafi 1 e 3.[^19-2]
+
+<sup>(6)</sup> La prima frase del paragrafo 1 si applica pure per analogia alle somme assegnate a carico del pubblico erario per l’adempimento presente o anteriore d’un servizio militare obbligatorio, comprese le indennità di mantenimento accordate ai familiari di persone chiamate in servizio militare.
+
+<sup>(7)</sup> Le pensioni, le rendite vitalizie e altre assegnazioni, anche non periodiche, pagate dall’uno dei due Stati contraenti o da un’altra persona giuridica di diritto pubblico di uno dei due Stati contraenti a titolo di indennità per danni cagionati da fatti bellici o da persecuzioni politiche possono essere imposte soltanto in questo Stato.
+
+[^19-1]: Nuova espr. giusta l’art. IV del 21 dic. 1992, approvato dall’AF il 6 ott. 1993, in vigore dal 29 dic. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^19-2]: La correzione del 15 dic. 2016, pubblicata il 28 dic. 2016 concerne soltanto il testo francese ([RU 2016 5323](https://fedlex.data.admin.ch/eli/oc/2016/849)).
+
+#### Art. 20
+
+Le somme che uno studente, un praticante, un volontario o un apprendista, il quale è, o era prima, residente di uno Stato contraente e che soggiorna nell’altro Stato contraente al solo scopo di continuare i suoi studi o la sua formazione professionale, riceve per sopperire alle spese di mantenimento, di studio o di formazione non sono imponibili in questo altro Stato, a condizione che esse provengono da fonti situate al di fuori di detto altro Stato.
+
+#### Art. 21
+
+Gli elementi di reddito di un residente di uno Stato contraente non menzionati espressamente negli articoli precedenti della presente convenzione sono imponibili soltanto in questo Stato.
+
+#### Art. 22
+
+<sup>(1)</sup> La sostanza costituita da beni immobili, come definiti al paragrafo 2 dell’articolo 6, è imponibile nello Stato contraente dove i beni stessi sono situati.
+
+<sup>(2)</sup> La sostanza costituita da beni mobili facenti parte dell’attivo di una stabile organizzazione di un’impresa o da beni mobili di pertinenza di una sede fissa che serve all’esercizio di una libera professione è imponibile nello Stato contraente dove è situata la stabile organizzazione o la sede fissa.
+
+<sup>(3)</sup> Le navi e gli aeromobili esercitati in traffico internazionale e i battelli adibiti alla navigazione interna, nonché i beni mobili relativi al loro esercizio, sono imponibili soltanto nello Stato contraente dove si trova la sede della direzione effettiva dell’impresa.
+
+<sup>(4)</sup> Le partecipazioni ad un’attività commerciale a titolo di socio occulto, come inteso dalla legislazione germanica, le obbligazioni con partecipazione agli utili e i prestiti parziari possono essere imposti nello Stato contraente di cui il debitore è residente. Se detto Stato non li impone, detti elementi di sostanza possono essere imposti nell’altro Stato.
+
+<sup>(5)</sup> Ciascuno dei due Stati contraenti si riserva il diritto d’imporre secondo la propria legislazione la sostanza costituita da beni mobili gravata da usufrutto. Qualora dovesse risultare una doppia imposizione, le autorità competenti dei due Stati disciplineranno di comune accordo, caso per caso, le modalità per eliminare la doppia imposizione.
+
+<sup>(6)</sup> Ogni altro elemento della sostanza di un residente di uno Stato contraente è imponibile soltanto in questo Stato.
+
+#### Art. 23
+
+[^23-1]
+
+<sup>(1)</sup> La presente Convenzione non può essere interpretata come impedimento per uno Stato contraente ad applicare il proprio diritto nazionale in materia di elusione e sottrazione d’imposta.
+
+<sup>(2)</sup> Qualora le disposizioni di cui al paragrafo 1 comportassero una doppia imposizione, le autorità competenti si concertano ai sensi dell’articolo 26 paragrafo 3 al fine di evitare la doppia imposizione.
+
+[^23-1]: Nuovo testo giusta l’art. III del Prot. di revisione del 12 mar. 2002, approvato dall’AF il 9 dic. 2002 ed in vigore dal 24 mar. 2003 ([RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [FF 2002 3823](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+
+#### Art. 24
+
+<sup>(1)</sup>
+
+Per quanto riguarda una persona residente della Repubblica federale di Germania, la doppia imposizione è evitata nel modo seguente:
+
+- 1\. I redditi seguenti provenienti dalla Svizzera, i quali secondo gli articoli precedenti sono imponibili in Svizzera, sono esclusi dalle basi di calcolo
+
+  dell’imposta germanica:
+
+  - a) Gli utili, ai termini dell’articolo 7, provenienti dall’attività propria di una stabile organizzazione, se è provato che essi sono stati conseguiti mediante la fabbricazione, la trasformazione o il montaggio di oggetti, la ricerca e l’estrazione di ricchezze naturali, la conclusione di affari bancari o assicurativi, il commercio o la prestazione di servizi, in relazione con gli scambi economici generali; la stessa norma trova applicazione per i redditi provenienti da beni immobili di una siffatta stabile organizzazione (art. 6, par. 4), nonché per i guadagni derivanti dall’alienazione di beni immobili (art. 13, par. 1) e di beni mobili facenti parte dell’attivo della stabile organizzazione (art. 13, par. 2). Questa regola non è applicabile ai redditi provenienti da una partecipazione tacita atipica a un’impresa residente della Svizzera, sempreché la Svizzera non imponga questi redditi giusta l’articolo 7;[^24-1]
+  - b)[^24-2] i dividendi, ai termini dell’articolo 10, che una società residente della Svizzera distribuisce ad una società residente della Repubblica federale di Germania,
+    - – allorché la società residente della Repubblica federale di Germania dispone di almeno il 20 per cento del capitale della società che paga i dividendi e
+    - – allorché la società residente della Svizzera, nell’esercizio commerciale in cui la distribuzione è stata effettuata, percepisce i suoi redditi lordi esclusivamente o quasi esclusivamente da attività di cui al paragrafo 8 capoverso 1 numeri 1 a 6 della legge fiscale germanica concernente le relazioni con l’estero (Aussensteuergesetz) o da partecipazioni di cui al paragrafo 8 capoverso 2 di detta legge; fa stato la versione di questa legge in vigore dal 1° gennaio 1990.
+
+  - c) i redditi provenienti da una professione libera o da altre attività indipendenti, ai termini dell’articolo 14, a condizione che non si tratti di quelli di cui all’articolo 17; la stessa norma trova applicazione per i redditi provenienti da beni immobili che servono all’esercizio di una libera professione (art. 6, par. 4), nonché per i guadagni derivanti dall’alienazione di beni immobili (art. 13, par. 1) e di beni mobili facenti parte di una sede fissa (art. 13, par. 2);
+  - d) i salari, gli stipendi e le altre rimunerazioni analoghe, ai termini dell’articolo 15, a condizione che non si tratti di quelli di cui all’articolo 17 e che l’attività dipendente sia svolta in Svizzera.
+
+- La Repubblica federale di Germania potrà, tuttavia, includere questi redditi, allorché si tratta di stabilire l’aliquota della sua imposta, nei redditi che, secondo questa disposizione, non devono essere esclusi dalla base di calcolo dell’imposta germanica.
+- Le disposizioni che precedono trovano applicazione analogica per gli elementi di sostanza situati in Svizzera, allorché i redditi che ne derivano devono o dovrebbero essere esclusi dalla base di calcolo dell’imposta germanica, secondo le disposizioni delle lettere da a a c.
+- 2\. Per quanto riguarda i redditi provenienti dalla Svizzera e gli elementi di sostanza situati in Svizzera per i quali non trovano applicazione le disposizioni del numero 1, l’imposta svizzera riscossa conformemente alla presente disposizione, e non rimborsabile, è computata, in conformità delle prescrizioni della legislazione germanica quanto al computo delle imposte straniere, sulla parte dell’imposta germanica (ad eccezione dell’imposta sulle imprese) che corrisponde a questi redditi o elementi di sostanza.
+- 3\. Quando trattasi di una società in nome collettivo («offene Handelsgesellschaft») o di una società in accomandita costituita secondo la legislazione germanica alla quale, oltre a persone residenti della Repubblica federale di Germania, sono associate anche delle persone non residenti della Repubblica federale di Germania, e la cui sede si trova nella Repubblica federale di Germania, le prescrizioni della legislazione germanica concernenti il computo delle imposte straniere trovano ugualmente applicazione, per quanto riguarda i redditi provenienti dalla Svizzera, per la parte di detti redditi che è soggetta all’imposta germanica e che va a carico di persone non residenti della Repubblica federale di Germania.
+- [tab] 4.[^24-3] Allorché una società residente della Repubblica federale di Germania utilizza redditi di fonte svizzera per procedere a una distribuzione, le disposizioni dei numeri 1 a 3 non si oppongono alla costituzione dell’onere fiscale sulla distribuzione secondo le prescrizioni della legislazione fiscale della Repubblica federale di Germania.
+
+<sup>(2)</sup>
+
+Per quanto riguarda una persona residente della Svizzera, la doppia imposizione è evitata nel modo seguente:
+
+- 1\. Se un residente della Svizzera percepisce dei redditi o possiede una sostanza che, conformemente alle disposizioni della presente convenzione (eccezione fatta dell’art. 4, par. 3, 4 e 9, e dell’art. 23), sono imponibili nella Repubblica federale di Germania, la Svizzera esenta da imposta detti redditi (salvo i dividendi) o detta sostanza; ma la Svizzera può, per determinare la sua imposta afferente al rimanente reddito o alla rimanente sostanza di questo residente, applicare l’aliquota corrispondente all’intero reddito o all’intera sostanza, senza tener conto dell’esenzione.
+- 2\.
+
+  Se un residente della Svizzera percepisce dei dividendi che, conformemente alle disposizioni dell’articolo 10, sono imponibili nella Repubblica federale di Germania, la Svizzera concede a questo residente, a sua domanda, uno sgravio fiscale. Esso consiste:
+
+  - a) nel computo dell’imposta pagata nella Repubblica federale di Germania, conformemente alle disposizioni dell’articolo 10, sull’imposta svizzera afferente ai redditi di questo residente; la somma così computata non può, tuttavia, eccedere la frazione dell’imposta svizzera, calcolata prima del computo, corrispondente ai dividendi; o
+  - b) in una riduzione globale dell’imposta svizzera; o
+  - c) in una esenzione parziale o totale dei dividendi dall’imposta svizzera, ma almeno in una deduzione dell’imposta pagata nella Repubblica federale di Germania dall’ammontare lordo dei dividendi.
+
+- Tuttavia, detto sgravio consiste in una deduzione dell’imposta pagata nella Repubblica federale di Germania dall’ammontare lordo dei dividendi, se il beneficiario residente della Svizzera non può, in virtù delle disposizioni dell’articolo 23, fruire della limitazione dell’imposta germanica sui dividendi previsti all’articolo 10.
+- 3\. Quando un residente della Svizzera percepisce degli interessi, dei diritti di licenza o consegue dei guadagni in capitale che, conformemente alle disposizioni dell’articolo 23 possono essere imposti nella Repubblica federale di Germania, la Svizzera concede una deduzione dell’imposta pagata nella Repubblica federale di Germania dall’ammontare lordo degli interessi, dei diritti di licenza o dei guadagni in capitale.
+- 4\. Nonostante le disposizioni del numero 1, la Svizzera esenta dall’imposta svizzera sulla sostanza, durante cinque anni a partire dalla prima applicazione della presente convenzione, le quote che un suo residente possiede in una società a garanzia limitata residente della Repubblica federale di Germania; tuttavia, per accertare la sua imposta sulla rimanente sostanza, essa si riserva il diritto di applicare l’aliquota corrispondente alle quote, senza tener conto dell’esenzione.
+- 5\. La Svizzera determina la natura dello sgravio previsto conformemente alle disposizioni del numero 2 ne disciplina la procedura secondo le disposizioni sull’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione.[^24-4]
+
+[^24-1]: Ultimo per. introdotto dall’art. V del Prot. del 21 dic. 1992, approvato dall’AF il 6 ott. 1993, in vigore dal 29 dic. 1993 ([RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^24-2]: Nuovo testo giusta l’art. III del Prot. del 17 ott. 1989, approvato dall’AF l’8 giu. 1990, in vigore dal 30 nov. 1990 ([RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+[^24-3]: Introdotto dall’art. IV del Prot. del 17 ott. 1989, approvato dall’AF l’8 giu. 1990, in vigore dal 30 nov. 1990 ([RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+[^24-4]: Aggiornato dall’art. IV del Prot. del 17 ott. 1989, approvato dall’AF l’8 giu. 1990 ([RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)) e dall’art. VI del Prot. di revisione del 12 mar. 2002, approvato dall’AF il 9 dic. 2002 ed in vigore dal 24 mar. 2003 ([RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387); [FF 2002 3823](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+
+#### Art. 25
+
+<sup>(1)</sup> I cittadini di uno Stato contraente non sono assoggettati nell’altro Stato contraente ad alcuna imposizione od obbligo ad essa inerente, diversi o più onerosi di quelli cui sono o potranno essere assoggettati i cittadini di detto altro Stato trovantisi nella medesima situazione.
+
+<sup>(2)</sup> L’imposizione di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente non può essere in questo altro Stato meno favorevole dell’imposizione a carico delle imprese di detto altro Stato che svolgono la medesima attività.
+
+Tale disposizione non può essere interpretata come facente obbligo ad uno Stato contraente di concedere ai residenti dell’altro Stato contraente le deduzioni personali, gli abbattimenti e le riduzioni d’imposta che concede ai propri residenti in relazione alla loro situazione o ai loro carichi di famiglia.
+
+<sup>(3)</sup> Fatta salva l’applicazione delle disposizioni dell’articolo 9, del paragrafo 4 dell’articolo 11 o del paragrafo 4 dell’articolo 12, gli interessi, i canoni ed altre spese pagati da un’impresa di uno Stato contraente ad un residente dell’altro Stato contraente sono deducibili ai fini della determinazione degli utili imponibili di detta impresa, nelle stesse condizioni in cui sarebbero deducibili se fossero pagati ad un residente del primo Stato. Allo stesso modo, i debiti di un’impresa di uno Stato contraente nei confronti di un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione del patrimonio imponibile di tale impresa, nelle stesse condizioni in cui sarebbero deducibili se fossero contratti nei confronti di un residente del primo Stato.[^25-1]
+
+<sup>(4)</sup> Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente, posseduto o controllato da uno o più residenti dell’altro Stato contraente, non sono assoggettate nel primo Stato contraente ad alcuna imposizione od obbligo ad essa inerente, diversi o più onerosi di quelli cui sono o potranno essere assoggettate le altre imprese dello stesso genere del primo Stato.[^25-2]
+
+<sup>(5)</sup> Ai fini del presente articolo il termine «imposizione» designa le imposte di ogni genere e denominazione.[^25-3]
+
+[^25-1]: Introdotto dall’art. 2 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^25-2]: Originario par. 3.
+[^25-3]: Originario par. 4.
+
+#### Art. 26
+
+<sup>(1)</sup> Quando un residente di uno Stato contraente ritiene che i provvedimenti adottati da uno a da entrambi gli Stati contraenti implicano o implicheranno per lui un’imposizione non conforme alle disposizioni della presente convenzione, egli può, indipendentemente dai ricorsi previsti dalla legislazione nazionale di detti Stati, sottoporre il caso all’autorità competente dello Stato contraente del quale è residente.
+
+<sup>(2)</sup> Detta autorità competente, se il reclamo le appare fondato ed essa stessa non è in grado di trovare una soluzione soddisfacente, si sforzerà di risolvere il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla convenzione.
+
+<sup>(3)</sup> Le autorità competenti degli Stati contraenti si sforzeranno, in via di amichevole composizione, di appianare le difficoltà e di dissipare i dubbi che potessero sorgere in ordine all’interpretazione o all’applicazione della convenzione. Esse possono altresì concertarsi al fine di evitare la doppia imposizione nei casi non previsti dalla convenzione.
+
+<sup>(4)</sup> Le autorità competenti degli Stati contraenti possono comunicare direttamente fra di loro al fine di pervenire ad un accordo nel senso dei paragrafi precedenti. Se per facilitare detto accordo appaia consigliabile uno scambio orale dei rispettivi punti di vista, esso può aver luogo in seno ad una commissione composta di rappresentanti delle autorità competenti degli Stati contraenti.
+
+<sup>(5)</sup>
+
+Qualora nel quadro di una procedura amichevole ai sensi del presente articolo le autorità competenti non siano riuscite a trovare un accordo globale su un caso, tale caso è regolato in una procedura arbitrale eseguita secondo le esigenze del paragrafo 6 nonché le prescrizioni o procedure convenute dagli Stati contraenti, se:
+
+- a) in almeno uno Stato contraente è stata presentata una dichiarazione d’imposta concernente gli anni fiscali per il caso controverso o è stata operata una deduzione fiscale;
+- b) le autorità competenti non convengono, prima della data in cui sarebbe altrimenti iniziata la procedura arbitrale, che il caso non sia idoneo a una procedura arbitrale; e
+- c) tutte le persone interessate hanno approvato le disposizioni del paragrafo 6 lettera d).[^26-1]
+
+<sup>(6)</sup>
+
+Ai fini del paragrafo 5 e del presente paragrafo si applicano le seguenti disposizioni e definizioni:
+
+- a) l’espressione «persona interessata» designa la persona che ha sottoposto all’autorità competente il caso ai fini della valutazione secondo il presente articolo come pure, se del caso, qualsiasi altra persona il cui obbligo fiscale in uno dei due Stati contraenti è direttamente toccato dall’accordo amichevole che risulta da tale valutazione;
+- b) per «inizio» di un caso s’intende la data in cui entrambe le autorità competenti hanno ricevuto le prime informazioni necessarie alla valutazione materiale di una procedura amichevole;
+- c)
+
+  la procedura arbitrale di un caso comincia:
+
+  - aa) tre anni dopo l’inizio del caso, nella misura in cui le autorità competenti non si siano accordate prima su un’altra data, oppure
+  - bb) non appena entrambe le autorità competenti hanno ottenuto il consenso richiesto alla lettera d);
+
+- a seconda di quale di questi due momenti subentra da ultimo;
+- d) le persone interessate e i loro rappresentanti autorizzati devono acconsentire prima dell’inizio della procedura arbitrale a non rivelare a terzi informazioni ottenute da uno degli Stati contraenti nel corso della procedura arbitrale o dall’istanza arbitrale ad eccezione del lodo arbitrale;
+- e) la decisione vale quale accordo amichevole ai sensi del presente articolo ed è vincolante per i due Stati contraenti per quanto concerne il caso in questione, a meno che una persona interessata non riconosca il lodo dell’istanza arbitrale;
+- f) ai fini della procedura arbitrale conformemente al paragrafo 5 e al presente paragrafo, i membri dell’istanza arbitrale e i suoi collaboratori sono considerati «persone o autorità» coinvolte le cui informazioni devono essere rese accessibili secondo l’articolo 27 della Convenzione.[^26-2]
+
+<sup>(7)</sup> Le autorità competenti degli Stati contraenti disciplinano le altre modalità di applicazione ed esecuzione della procedura arbitrale per mezzo di un accordo amichevole.[^26-3]
+
+[^26-1]: Introdotto dall’art. 3 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^26-2]: Introdotto dall’art. 3 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^26-3]: Introdotto dall’art. 3 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+
+#### Art. 27
+
+[^27-1]
+
+<sup>(1)</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione del diritto interno relativo alle imposte di ogni natura e denominazione, prelevate per conto degli Stati contraenti, dei «Länder», dei Cantoni, Distretti, Circoli, Comuni o Consorzi di Comuni, nella misura in cui l’imposizione prevista non sia contraria alla Convenzione. Lo scambio di informazioni non è limitato dagli articoli 1 e 2.
+
+<sup>(2)</sup> Le informazioni ottenute in virtù del paragrafo 1 da uno Stato contraente sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione di questo Stato e sono accessibili soltanto alle persone o autorità (compresi i tribunali e le autorità amministrative) che si occupano dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale oppure della decisione di ricorrere a rimedi giuridici inerenti a queste. Tali persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria. Nonostante le disposizioni precedenti, uno Stato contraente può utilizzare ad altri fini le informazioni ricevute, se tali informazioni possono essere impiegate per tali altri fini secondo la legislazione di entrambi gli Stati e se le autorità competenti dello Stato richiesto ne hanno approvato l’impiego
+
+<sup>(3)</sup>
+
+I paragrafi 1 e 2 non possono essere interpretati nel senso che facciano obbligo a uno Stato contraente:
+
+- a) di eseguire misure amministrative in deroga alle norme legali e alla prassi amministrativa di uno o dell’altro Stato contraente;
+- b) di fornire informazioni che non possono essere ottenute in virtù della sua legislazione o nell’ambito della sua prassi amministrativa normale oppure di quelle dell’altro Stato contraente;
+- c) di fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico (*ordre public*).
+
+<sup>(4)</sup> Qualora, ai sensi del presente articolo, uno Stato contraente chieda informazioni, l’altro Stato contraente usa le possibilità a sua disposizione al fine di ottenere le informazioni richieste, anche qualora queste informazioni non gli siano utili a fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3; esse non sono tuttavia da interpretare come il rifiuto di comunicare informazioni a uno Stato contraente unicamente poggiandosi sul fatto che queste ultime non presentano per lui alcun interesse di rilevanza nazionale.
+
+<sup>(5)</sup> In nessun caso le disposizioni del paragrafo 3 devono essere interpretate nel senso che permettono a uno Stato contraente di rifiutare di comunicare informazioni unicamente perché queste sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona. Nonostante le disposizioni del paragrafo 3 o le disposizioni contrarie del diritto interno, le autorità fiscali dello Stato richiesto sono autorizzate a divulgare le informazioni menzionate in questo paragrafo.
+
+[^27-1]: Nuovo testo giusta l’art. 4 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+
+#### Art. 28
+
+<sup>(1)</sup> Allorché le imposte sui dividendi, gli interessi e i diritti di licenza sono riscosse in uno dei due Stati contraenti mediante ritenuta (alla fonte), il diritto di procedere a detta ritenuta fiscale non è pregiudicato dalla presente convenzione.
+
+<sup>(2)</sup> L’imposta riscossa mediante ritenuta (alla fonte) deve, tuttavia, essere rimborsata a richiesta, qualora la riscossione sia limitata dalla convenzione. In luogo del rimborso è possibile, a richiesta, rinunziare alla detrazione dell’imposta che colpisce i diritti di licenza.
+
+<sup>(3)</sup> Il termine per presentare l’istanza di rimborso è di tre anni dalla fine dell’anno civile in cui sono maturati i dividendi, gli interessi o i diritti di licenza.
+
+<sup>(4)</sup> Le istanze devono essere sempre corredate di un attestato ufficiale dello Stato contraente di cui il contribuente è residente, certificante che si verificano le condizioni per l’assoggettamento fiscale illimitato.
+
+<sup>(5)</sup> Le autorità competenti disciplineranno di comune accordo, conformemente alle disposizioni dell’articolo 26, le altre modalità della procedura.
+
+#### Art. 29
+
+<sup>(1)</sup> Le disposizioni della presente convenzione non pregiudicano i privilegi diplomatici e consolari concessi in virtù di norme generali del diritto internazionale o di disposizioni di accordi particolari.
+
+<sup>(2)</sup> Il diritto d’imposizione è riservato allo Stato accreditante nella misura in cui, a cagione di privilegi diplomatici e consolari di cui fruisce una persona, in virtù di norme generali del diritto internazionale o di disposizioni di accordi internazionali particolari, il reddito o la sostanza non sono imponibili nello Stato presso il quale detta persona è accreditata.
+
+<sup>(3)</sup> Ai fini della convenzione, i membri di una rappresentanza diplomatica o consolare di uno Stato contraente accreditata presso l’altro Stato contraente o presso uno Stato terzo, e le persone loro vicine, che hanno la cittadinanza dello Stato accreditante, sono considerati residenti dello Stato accreditante qualora vi siano assoggettati ai medesimi obblighi, quanto alle imposte sul reddito e sulla sostanza, che i residenti di detto Stato.
+
+<sup>(4)</sup> La convenzione non si applica alle organizzazioni internazionali, ai loro organi o funzionari, né ai membri di una rappresentanza diplomatica o consolare di uno Stato terzo, o a persone loro vicine, che si trovano bensì sul territorio di uno Stato contraente, ma non sono trattati come residenti nell’uno o nell’altro Stato contraente quanto alle imposte sul reddito e sulla sostanza.
+
+#### Art. 30
+
+<sup>(1)</sup> La convenzione tra la Confederazione Svizzera e il Reich germanico per evitare la doppia imposizione per quanto concerne le imposte dirette e quelle sulle successioni, del 15 luglio 1931, nella sua versione secondo il Protocollo addizionale del 20 marzo 1959[^30-1], cessa i suoi effetti all’entrata in vigore della presente convenzione, nella misura in cui essa si riferisce alle imposte dirette secondo il capo primo. Le sue relative disposizioni non trovano più applicazione per le imposte alle quali la presente convenzione è applicabile conformemente all’articolo 32.
+
+<sup>(2)</sup> Il Protocollo addizionale del 6 luglio 1956[^30-2] alla convenzione tra la Confederazione Svizzera e il Reich germanico per evitare la doppia imposizione per quanto concerne le imposte dirette e quelle sulle successioni, del 15 luglio 1931, rimane in vigore assieme alla presente convenzione.
+
+[^30-1]: [CS **12** 584; [RU 1959 313](https://fedlex.data.admin.ch/eli/oc/1959/322_336_313)n. I, II 323 [807](https://fedlex.data.admin.ch/eli/oc/1959/793_822_807)n. I, II, IV. [RU 1980 1417](https://fedlex.data.admin.ch/eli/oc/1980/1417_1417_1417)art. 15]
+[^30-2]: [[RU 1957 727](https://fedlex.data.admin.ch/eli/oc/1957/701_707_727)]
+
+#### Art. 31
+
+La presente convenzione si applica pure al «Land Berlino» a condizione che il Governo della Repubblica federale di Germania non consegni al Consiglio federale svizzero una dichiarazione contraria nei tre mesi successivi all’entrata in vigore della convenzione.
+
+#### Art. 32
+
+<sup>(1)</sup> La presente convenzione sarà ratificata e gli strumenti di ratificazione saranno scambiati a Berna non appena possibile.
+
+<sup>(2)</sup>
+
+La presente convenzione entrerà in vigore con lo scambio degli strumenti di ratificazione e sarà applicabile:
+
+- a) alle imposte riscosse mediante ritenuta (alla fonte) sui redditi maturati dopo il 31 dicembre 1971;
+- b) alle altre imposte riscosse per l’anno 1972 e gli anni successivi.
+
+<sup>(3)</sup> Ciascuno dei due Stati contraenti emana le prescrizioni necessarie all’applicazione delle disposizioni del paragrafo 2.
+
+#### Art. 33
+
+La presente convenzione rimane in vigore sino a quando non sarà denunziata da uno degli Stati contraenti. Ciascun Stato contraente può denunciare la convenzione per via diplomatica con un preavviso di sei mesi, prima della fine di un anno civile.
+
+Fatto a Bonn l’11 agosto 1971 in due originali in lingua tedesca.
+
+In tal caso la convenzione sarà applicabile per l’ultima volta:
+
+- a) alle imposte riscosse mediante ritenuta (alla fonte) su i redditi maturati prima che termini l’anno per la fine del quale la denuncia è stata notificata;
+- b) alle altre imposte riscosse per l’anno per la fine del quale la denuncia è stata notificata.
+
+<table>
+<tr><td>Per la Confederazione Svizzera: Hans Lacher</td><td>Per la Repubblica federale di Germania Paul Frank Detlev Rohwedder</td></tr>
+</table>
+
+## Scambio di lettere dell’11 agosto 1971
+
+L’ambasciatore svizzero Bonn, 11 agosto 1971 nella Repubblica federale di Germania
+
+Sua eccellenza Signor Paul Frank Segretario di Stato presso l’Ufficio degli affari esteri della Repubblica federale di Germania
+
+Signor segretario di Stato,
+
+in occasione della firma odierna della Convenzione tra la Repubblica federale di Germania e la Confederazione Svizzera per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza, Lei mi ha comunicato quanto segue in nome della Repubblica federale di Germania:
+
+-
+
+  «In occasione della firma odierna della Convenzione tra la Repubblica federale di Germania e la Confederazione Svizzera per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza, ho l’onore di comunicarle quanto segue in nome del governo della Repubblica federale di Germania:
+
+  - 1\. Resta inteso che, non appena uno degli Stati contraenti o i due Stati contraenti di comune accordo, si varranno della facoltà di disdetta prevista nel paragrafo 5 dell’articolo 10 della Convenzione, ambedue gli Stati avvieranno senza indugio delle trattative per determinare come debba essere limitata l’imposizione alla fonte dei dividendi, ove occorra come dev’essere istituita la concessione di un avere fiscale ai non residenti e come devono essere approntati i provvedimenti intesi ad evitare la doppia imposizione nello Stato di domicilio del beneficiario dei dividendi. In siffatto caso, le parti si adopreranno per convenire un ordinamento che possa sostituire senza continuità il disciplinamento vigente venuto a scadenza.
+  - 2\. Resta inteso che la soluzione prevista nel paragrafo 5 dell’articolo 13 della Convenzione procede dal principio secondo cui l’imposizione degli aumenti di valore è limitata alle partecipazioni sostanziali di società domiciliate nello Stato che impone gli aumenti di valore corrispondenti al periodo durante il quale la persona fisica era domiciliata in detto Stato.
+
+- Le sarei grato se volesse comunicarmi il Suo accordo su quanto precede; in questo caso, la presente lettera e la Sua risposta saranno considerate parte integrante della Convenzione.»
+
+Ho l’onore di informarLa che la presente proposta è approvata dal Governo della Confederazione Svizzera. La Sua lettera odierna e la mia risposta costituiscono pertanto parte integrante della Convenzione.
+
+Gradisca, signor segretario di Stato, l’espressione della mia alta considerazione.
+
+<table>
+<tr><td></td><td>Hans Lacher</td></tr>
+</table>
+
+## Scambio di note del 17 ottobre 1989****
+
+[^lvlu36-1]
+
+[^lvlu36-1]: [RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)
+
+Bonn, 17 ottobre 1989
+
+Il rappresentante dell’Ambasciata di Svizzera A sua Eccellenza il Segretario di Stato agli Affari Esteri sig. Hans Werner Lautenschlager Bonn
+
+Signor Segretario di Stato,
+
+Ho l’onore di confermare la Sua nota odierna del tenore seguente:
+
+- «In occasione della firma odierna del Protocollo tra la Repubblica federale di Germania e la Confederazione Svizzera che modifica la Convenzione firmata a Bonn l’11 agosto 1971 per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza nella versione del Protocollo del 30 novembre 1978[^lvlu36-2], ho l’onore di comunicarLe quanto segue in nome del Governo della Repubblica federale di Germania:
+- Per quanto riguarda l’articolo 1 del Protocollo, resta inteso che se la Repubblica federale di Germania, in una Convenzione con un altro Stato membro dell’Organizzazione di Cooperazione e Sviluppo Economici, limita l’imposizione alla fonte dei dividendi a tassi inferiori a quelli previsti nel precitato articolo o concede a beneficiari esteri un accredito dell’imposta sulle società, i due Governi rivedranno senza indugio le disposizioni del precitato articolo al fine di prevedere un eguale trattamento, a parità di condizioni in relazione all’imposizione dei dividendi.
+- Le sarei grato se volesse comunicarmi il Suo accordo su quanto precede; in questo caso, la presente nota e la Sua risposta saranno considerate parte integrante della Convenzione.»
+
+Ho l’onore di informarla che la presente proposta è approvata dal Consiglio federale svizzero. La Sua nota odierna e la mia risposta costituiscono pertanto parte integrante della Convenzione.
+
+Gradisca, Signor Segretario di Stato, l’espressione della mia alta considerazione.
+
+Jürg Leutert
+
+[^lvlu36-2]: [RU 1980 1427](https://fedlex.data.admin.ch/eli/oc/1980/1427_1427_1427). Privo d’oggetto.
+
+## Protocollo di negoziazione del 18 dicembre 1991****
+
+[^lvlu37-1]
+
+[^lvlu37-1]: [RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69); [FF 1993 I 1221](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)
+
+Al fine di garantire l’interpretazione e l’applicazione dell’articolo 15*a* introdotto con il protocollo di revisione, parafato in data odierna, nella Convenzione dell’11 agosto 1971 tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia d’imposte sul reddito e sulla sostanza, le autorità competenti hanno convenuto quanto segue:
+
+I. ad articolo 15*a* paragrafo 1, terzo periodo
+
+Le autorità competenti stanno ancora elaborando un modello di attestazione di residenza.
+
+II. ad articolo 15*a* paragrafo 2:
+
+\1. L’ammissione di un rientro regolare al domicilio ai sensi dell’articolo 15*a* paragrafo 2 primo periodo non è esclusa per il fatto che l’esercizio dell’attività si estenda sull’arco di parecchi giorni a causa di peculiarità dell’azienda, com’è il caso dei lavoratori a squadre o per il personale ospedaliero tenuto a prestare servizi di picchetto o permanenti.
+
+\2. Ai sensi di questa regolamentazione, per giorni lavorativi s’intendono quelli concordati nel contratto di lavoro.
+
+\3. Se un dipendente non svolge la sua attività nell’altro Stato contraente durante l’intero anno civile, i giorni in cui egli non è rientrato al proprio domicilio, e che non pregiudicano la sua condizione di frontaliero, sono calcolati come segue: per ogni mese completo di attività sono conteggiati 5 giorni e per ogni settimana completa di occupazione un giorno. Determinante per la qualità di frontaliero è la somma dei giorni calcolati in questo modo.
+
+\4. Per le persone assunte a tempo parziale, retribuite all’ora, ma che si recano al proprio posto di lavoro nell’altro Stato contraente ogni giorno lavorativo ordinario, la loro qualità di frontaliero sarà pure fondata sui 60 giorni di non‑rientro al domicilio che non pregiudicano il loro statuto. Se una persona assunta a tempo parziale è occupata soltanto alcuni giorni nell’altro Stato, il totale dei 60 giorni di non‑rientro al domìcilio che non pregiudicano la sua qualità di frontaliero sarà ridotto in proporzione ai giorni dì lavoro.
+
+\5. L’attestazione del datore di lavoro concernente i giorni di non‑ritorno dev’essere vistata dalle pertinenti autorità fiscali del luogo di lavoro. Questa disposizione non esclude tuttavia eventuali accertamenti da parte delle competenti autorità fiscali del luogo di domicilio. Le autorità competenti elaboreranno ancora un modello di attestazione.
+
+III. ad articolo 15*a* paragrafo 3:
+
+Il datore di lavoro deve attestare, per i bisogni dello Stato di residenza, l’ammontare lordo delle rimunerazioni versate e l’imposta ritenuta alla fonte nello Stato di lavoro. Il datore di lavoro è tenuto a rilasciare questa attestazione su richiesta del lavoratore.
+
+<table>
+<tr><td>Per la delegazione svizzera: Daniel Lüthi</td><td>Per la delegazione tedesca: Klaus Manke</td></tr>
+</table>
+
+## Protocollo alla Convenzione dell’11 agosto 1971 tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza nella versione del Protocollo del 21 dicembre 1992****
+
+[^lvlu38-1]
+
+[^lvlu38-1]: Introdotto dall’art. VI del Prot. di revisione del 12 mar. 2002, approvato dall’AF il 9 dic. 2002 ([RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387); [FF 2002 3823](https://fedlex.data.admin.ch/eli/fga/2002/646)). Aggiornato dall’art. 5 del Prot. del 27 ott. 2010, approvato dall’AF il 17 giu. 2011 ed in vigore dal 21 dic. 2011 ([RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)).
+
+All’atto della firma del Protocollo di revisione[^lvlu38-2] alla Convenzione dell’11 agosto 1971 tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza nella versione del Protocollo del 21 dicembre 1992, i sottoscritti debitamente autorizzati a tal fine hanno concordato le seguenti disposizioni che sono parte integrante della Convenzione:
+
+\1. Ad art. 10 par. 3
+
+- a) Ogni Stato contraente istituirà una procedura che permetta, nel caso di dividendi che non soggiacciono all’imposta ai sensi dell’articolo 10 paragrafo 3, di effettuare il pagamento senza la trattenuta d’imposta.
+- b) A scanso di equivoci è stabilito che la detenzione di quote di una società attraverso una società di persone non impedisce l’applicazione dell’articolo 10 paragrafo 3.
+- c) La condizione riguardante la durata minima della partecipazione ai sensi dell’articolo 10 paragrafo 3 primo periodo è adempiuta anche allorquando il periodo di partecipazione minimo è raggiunto solo dopo il pagamento dei dividendi. In tal caso la lettera a) non è applicabile.
+
+1bis. Ad articolo 15 paragrafo 3
+
+Per i periodi di tassazione che iniziano il giorno dell’entrata in vigore del Protocollo del 27 ottobre 2010 o dopo tale data, fino all’anno di tassazione 2016 compreso, la Germania rinuncia a far valere il suo diritto in virtù dell’articolo 15 paragrafo 3 primo periodo della Convenzione in relazione ai membri del personale di bordo impiegato su aeromobili in traffico internazionale residente in Svizzera e i cui rapporti di lavoro sussistevano già prima del 1° gennaio 2007 e continuano da allora senza interruzione. Al riguardo si applica l’articolo 15 paragrafo 3 secondo periodo della Convenzione.
+
+Tale regolamentazione non si applica ai redditi o alle parti di reddito che, in caso di una sua applicazione, beneficerebbero di una doppia non imposizione.
+
+\2. Ad art. 23
+
+Resta inteso che i provvedimenti presi dalla Svizzera col decreto del Consiglio federale del 14 dicembre 1962[^lvlu38-3] contro l’uso senza causa legittima delle convenzioni conchiuse dalla Confederazione per evitare le doppie imposizioni sono parimenti applicabili alla presente Convenzione.
+
+Resta inteso che la legislazione tedesca per impedire l’elusione d’imposta comprende le disposizioni del § 42 dell’ordinamento tributario e del § 50*d* capoverso 3 della legge concernente l’imposta sul reddito.
+
+\3. Ad art. 27
+
+- a) Resta inteso che lo Stato richiedente domanda uno scambio di informazioni solo dopo aver esaurito le fonti abituali di informazioni previste nella sua procedura fiscale interna.
+- b)
+
+  Resta inteso che in occasione di una richiesta di assistenza amministrativa secondo l’articolo 27 della Convenzione l’autorità competente di uno Stato contraente trasmette le seguenti informazioni all’autorità competente dello Stato richiesto:
+
+  - aa) i dati necessari all’identificazione della persona oggetto del controllo o dell’inchiesta (segnatamente il nome e, per quanto noti, la data di nascita, l’indirizzo, il numero di conto o informazioni simili che permettono un’identificazione);
+  - bb) il periodo oggetto della domanda;
+  - cc) la descrizione delle informazioni ricercate, in particolare della loro natura e della forma in cui lo Stato richiedente desidera ricevere queste informazioni dallo Stato richiesto;
+  - dd) lo scopo fiscale per cui le informazioni sono state richieste; e
+  - ee) il nome e, per quanto noto, l’indirizzo del presunto detentore delle informazioni richieste.
+
+- c) Il riferimento alle informazioni «verosimilmente rilevanti» ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di intraprendere una ricerca generalizzata e indiscriminata di informazioni («fishing expedition») o di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile. Sebbene la lettera b) contenga importanti requisiti procedurali volti a impedire la «fishing expedition», i suoi sottoparagrafi non devono essere interpretati in modo da ostacolare uno scambio effettivo di informazioni.
+- d) Su espressa richiesta dell’autorità competente di uno Stato contraente l’autorità competente dell’altro Stato contraente rilascia le informazioni richieste secondo l’articolo 27 della Convenzione sotto forma di copia autenticata di documenti originali non modificati (compresi libri contabili, documenti, rapporti, registrazioni, chiusure di conti e atti).
+- e) Sebbene l’articolo 27 della Convenzione non limiti i diversi possibili metodi per lo scambio di informazioni, gli Stati contraenti non sono obbligati a effettuare scambi di informazioni spontanei o automatici. Gli Stati contraenti si attendono uno dall’altro la fornitura reciproca delle informazioni necessarie all’esecuzione della presente Convenzione.
+- f) Resta inteso che, prima della trasmissione delle informazioni secondo l’articolo 27 allo Stato richiedente, si applicano nello Stato richiesto le norme di procedura amministrativa relative ai diritti del contribuente (come ad esempio il diritto di essere avvisato o il diritto di ricorso). Resta inoltre inteso che queste disposizioni servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente gli scambi effettivi di informazioni.
+- g)
+
+  Qualora, in conformità del diritto nazionale, vengano trasmessi dati personali sulla base della presente Convenzione, le seguenti disposizioni valgono a titolo complementare tenuto conto delle norme valide per ogni Stato contraente:
+
+  - aa) l’utilizzazione dei dati da parte del destinatario è ammessa soltanto per lo scopo prescritto e unicamente alle condizioni fissate da chi li trasmette;
+  - bb) il destinatario informa il fornitore delle informazioni, a richiesta, sull’utilizzazione dei dati trasmessi e sui risultati ottenuti mediante tali dati;
+  - cc) dati personali possono essere trasmessi unicamente ai servizi competenti. L’ulteriore trasmissione ad altri servizi può avvenire unicamente previa approvazione del fornitore delle informazioni;
+  - dd) il fornitore delle informazioni è tenuto ad accertarsi dell’esattezza dei dati da trasmettere nonché della necessità e della proporzionalità in relazione allo scopo perseguito con la comunicazione. All’uopo deve essere tenuto conto dei divieti di trasmissione vigenti secondo il rispettivo diritto nazionale. Se risulta che sono stati trasmessi dati inesatti o che la trasmissione era indebita, il destinatario ne deve essere avvertito immediatamente. Esso deve procedere alla rettificazione o alla distruzione necessaria;
+  - ee) la persona interessata, a richiesta, deve poter ricevere informazioni sui dati trasmessi che la concernono nonché sullo scopo dell’uso previsto. Non vi è obbligo di comunicare informazioni se da una ponderazione risulta che l’interesse pubblico a non comunicare informazioni è preponderante rispetto all’interesse ad essere informata della persona in questione. Per il rimanente, il diritto della persona interessata di ricevere informazioni sui dati che la concernono personalmente è retto dal diritto nazionale della parte contraente sul cui territorio nazionale è stata chiesta l’informazione;
+  - ff) se qualcuno viene leso illecitamente a seguito di comunicazioni nel quadro dello scambio d’informazioni ai sensi della presente Convenzione, responsabile è il destinatario in conformità del suo diritto nazionale. Nei confronti della parte lesa, il destinatario non può avvalersi, a proprio discarico, del fatto che il danno è stato provocato dallo Stato che ha trasmesso i dati;
+  - gg) nella misura in cui il diritto nazionale vigente per il fornitore delle informazioni preveda prescrizioni speciali in materia di cancellazione dei dati personali trasmessi, esso lo comunica al destinatario. Indipendentemente da tale legislazione, i dati personali trasmessi devono essere cancellati non appena non sono più necessari per lo scopo per cui sono stati comunicati;
+  - hh) il fornitore delle informazioni e il destinatario sono obbligati ad attestare nei rispettivi incarti la trasmissione e la ricezione di dati personali;
+  - ii) il fornitore delle informazioni e il destinatario sono obbligati a proteggere efficacemente contro l’accesso non autorizzato, contro le modifiche abusive e contro la comunicazione non autorizzata i dati personali trasmessi.»
+
+Fatto a Berna il 12 marzo 2002 in due originali in lingua tedesca.
+
+<table>
+<tr><td>Per la Confederazione Svizzera: Urs Ursprung</td><td>Per la Repubblica federale di Germania: Reinhard Hilger</td></tr>
+</table>
+
+[^lvlu38-2]: [RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)
+[^lvlu38-3]: [RS 672.202](https://fedlex.data.admin.ch/eli/cc/1962/1622_1680_1702)
+
+## Accordo amichevole**** relativo all’interpretazione della lettera b del numero 3 del Protocollo che modifica la Convenzione dell’11 agosto 1971 tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza nella versione del Protocollo di revisione del 27 ottobre 2010
+
+[^lvlu39-1]
+
+[^lvlu39-1]: [RU 2012 5261](https://fedlex.data.admin.ch/eli/oc/2012/600)
+
+Concluso il 15 dicembre 2011
+
+Entrato in vigore il 21 dicembre 2011
+
+Le autorità competenti della Confederazione Svizzera e della Repubblica federale di Germania hanno concluso il seguente Accordo relativo all’interpretazione della lettera b) del numero 3 del Protocollo (di seguito «il Protocollo») che modifica la Convenzione dell’11 agosto 1971[^lvlu39-2] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (di seguito «la CDI») nella versione del Protocollo di revisione del 27 ottobre 2010[^lvlu39-3] (di seguito «il Protocollo di revisione»).
+
+Alla lettera b) del numero 3 del Protocollo sono contenute le informazioni che l’autorità competente dello Stato richiedente deve fornire all’autorità competente dello Stato richiesto in caso di richiesta di assistenza amministrativa secondo l’articolo 27 della CDI. Sulla base di questa disposizione lo Stato richiedente deve fornire, oltre ad altre informazioni, aa) i dati necessari all’identificazione della persona oggetto del controllo o dell’inchiesta (segnatamente il nome e, per quanto noti, la data di nascita, l’indirizzo, il numero di conto o informazioni simili che ne permettano l’identificazione), nonché ee) il nome e, per quanto noto, e l’indirizzo del presunto detentore delle informazioni richieste. Alla lettera c) del numero 3 del Protocollo viene stabilito che, sebbene la lettera b) contenga importanti requisiti procedurali volti a impedire la «fishing expedition», essa non deve essere interpretata in modo da ostacolare uno scambio effettivo di informazioni.
+
+Pertanto, questi requisiti sono da interpretare in modo tale che sia possibile rispondere a una richiesta di assistenza amministrativa se lo Stato richiedente, oltre alle informazioni da fornire secondo le lettere bb)–dd) della lettera b) del numero 3 del Protocollo, fornisce anche le seguenti informazioni:
+
+- a) identifica il contribuente, fermo restando che questa identificazione può essere effettuata anche in altro modo che indicandone il nome e l’indirizzo; e
+- b) indica, sempre che le siano noti, il nome e l’indirizzo della persona per cui vi è motivo di ritenere che sia in possesso delle informazioni richieste,
+- [tab] a condizione che non si tratti di una «fishing expedition».
+
+L’Accordo è applicabile in entrambi gli Stati dal giorno dell’entrata in vigore del Protocollo di revisione.
+
+<table>
+<tr><td>Berna, 15 dicembre 2011 Per l’autorità competente della Confederazione Svizzera: Jürg Giraudi Segreteria di Stato per le questioni finanziarie internazionali, SFI</td><td>Berlino, 15 dicembre 2011 Per l’autorità competente della Repubblica federale di Germania: Michael Wichmann Ministero delle finanze</td></tr>
+</table>
+
+[^lvlu39-2]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^lvlu39-3]: [RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)
+
+## Articolo VIII capoversi 2 e 3 del Protocollo del 17 ottobre 1989****
+
+[^lvlu40-1]
+
+[^lvlu40-1]: [RU 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807); [FF 1989 III 1325](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)
+
+(2) Il Protocollo entrerà in vigore un mese dopo la data dello scambio degli strumenti di ratifica e s’applicherà:
+
+- a) alle imposte riscosse mediante ritenuta alla fonte sui dividendi maturati dopo il 31 dicembre 1989;
+- b) alle altre imposte riscosse per l’anno 1990 e per gli anni seguenti.
+
+(3) In deroga alle disposizioni dell’articolo 1 e del paragrafo 2 del presente articolo:
+
+- a) per i dividendi ai sensi dell’articolo 10 paragrafo 2 lettera b della Convenzione nella versione del presente Protocollo, maturati sino al 31 dicembre 1991, l’imposta non può eccedere il 10 per cento dell’ammontare lordo dei dividendi;
+- b) per i redditi provenienti da diritti di godimento, ai sensi dell’articolo 10 paragrafo 2 lettera e della Convenzione nella versione del presente Protocollo, maturati sino al 31 dicembre 1992, l’imposta non può eccedere il 15 per cento dell’ammontare lordo dei redditi, se i diritti di godimento sono stati costituiti prima del 19 maggio 1989.
+
+## Articolo VII capoverso 2 del Protocollo del 21 dicembre 1992
+
+[^lvlu41-1]
+
+[^lvlu41-1]: [RU 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)
+
+(2) Il Protocollo entrerà in vigore un mese dopo la data dello scambio degli strumenti di ratifica e s’applicherà:
+
+- a) alle imposte riscosse mediante ritenuta alla fonte, giusta l’articolo 15*a*, sulle rimunerazioni maturate dopo il 31 dicembre 1993;
+- b) alle altre imposte riscosse per l’anno 1994 e per gli anni seguenti.
+
+## Articolo VII capoverso 2 del Protocollo del 12 marzo 2002
+
+[^lvlu42-1]
+
+[^lvlu42-1]: [RU 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)
+
+(2) Il presente Protocollo di revisione entrerà in vigore con lo scambio degli strumenti di ratificazione e sarà applicabile:
+
+- a) fatte salve le disposizioni della lettera b, alle imposte riscosse alla fonte su prestazioni esigibili a contare dal 1° gennaio dell’anno successivo a quello dell’entrata in vigore del presente Protocollo di revisione;
+- b) alle imposte riscosse alla fonte sui dividendi ai sensi dell’articolo 10 paragrafo 3 della Convenzione esigibili a contare dal 1° gennaio 2002. L’articolo III non si applica fino alla prima applicazione della lettera a di cui sopra;
+- c) alle altre imposte, per i periodi fiscali che iniziano il 1° gennaio dell’anno successivo a quello dell’entrata in vigore del presente Protocollo di revisione o dopo questa data;
+- d) alle domande d’informazione concernenti truffe e reati analoghi in materia fiscale commessi dopo il 1° gennaio dell’anno successivo a quello dell’entrata in vigore del presente Protocollo di revisione.
+
+## Articolo 6 capoverso 2 del Protocollo del 27 ottobre 2010****
+
+[^lvlu43-1]
+
+[^lvlu43-1]: [RU 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129); [FF 2011 453](https://fedlex.data.admin.ch/eli/fga/2011/45)
+
+\2. Il presente Protocollo entrerà in vigore con lo scambio degli strumenti di ratificazione e sarà applicabile in entrambi gli Stati contraenti:
+
+- a) per quanto concerne le imposte prelevate alla fonte ai sensi dell’articolo 10 paragrafo 3 della Convenzione, ai dividendi conseguiti il 1° gennaio dell’anno civile successivo al giorno dell’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) per quanto concerne l’articolo 25 paragrafo 3 della Convenzione, agli anni fiscali o ai periodi di tassazione che iniziano il 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore del presente Protocollo, o dopo tale data;
+- c)
+
+  per quanto concerne l’articolo 26 paragrafi 5 e 6 della Convenzione:
+
+  - aa) alle procedure amichevoli già pendenti tra le autorità competenti degli Stati contraenti prima dell’entrata in vigore del presente Protocollo, e
+  - bb) alle procedure amichevoli avviate dopo tale data.
+
+- Si considera come inizio del termine di tre anni per i casi di cui al sottoparagrafo aa) la data dell’entrata in vigore del presente Protocollo;
+- d)
+
+  per quanto concerne le richieste secondo gli articoli 4 e 5 numeri 3 e 5 del presente Protocollo presentate il giorno dell’entrata in vigore, o dopo tale data:
+
+  - aa) alle informazioni ai sensi dell’articolo 27 paragrafo 5 della Convenzione che si riferiscono a un periodo che inizia il 1° gennaio dell’anno successivo alla firma del presente Protocollo, e
+  - bb) in tutti gli altri casi alle informazioni che si riferiscono agli anni fiscali o periodi di tassazione che iniziano il 1° gennaio dell’anno successivo alla firma del presente Protocollo, o dopo tale data.

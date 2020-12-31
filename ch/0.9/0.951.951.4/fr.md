@@ -1,0 +1,228 @@
+---
+sr: "0.951.951.4"
+title: Accord monétaire du 19 juin 1980 entre la Confédération suisse et la Principauté de Liechtenstein (avec annexe et échange de lettres)
+eli: "https://fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715"
+language: fr
+version: 2020-10-06
+adopted: 1980-06-19
+in_force: 1981-11-25
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20201006/fr/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20201006-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20201006/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord monétaire entre la Confédération suisse et la Principauté de Liechtenstein
+
+RO **1981** 1715; FF **1980** III 1257
+
+Traduction
+
+Conclu le 19 juin 1980
+
+Approuvé par l’Assemblée fédérale le 16 juin 1981[^t-1]
+
+Instruments de ratification échangés le 26 octobre 1981
+
+Entré en vigueur le 25 novembre 1981
+
+(Etat le 6 octobre 2020)
+
+[^t-1]: [RO 1981 1714](https://fedlex.data.admin.ch/eli/oc/1981/1714_1714_1714)
+
+Le Conseil fédéral suisse et Son Altesse sérénissime le Prince régnant de Liechtenstein,
+
+considérant le fait que la Principauté de Liechtenstein a introduit le franc suisse comme monnaie légale, animés du désir d’assurer une protection uniforme du franc suisse dans les deux États et d’aménager une collaboration plus étroite en matière de politique monétaire, ont nommé leurs plénipotentiaires:
+
+(Suivent les noms des plénipotentiaires)
+
+lesquels, après s’être fait connaître leurs pleins pouvoirs reconnus en bonne et due forme,
+
+sont convenus de ce qui suit:
+
+#### Art. 1
+
+**Prescriptions applicables au Liechtenstein**
+
+<sup>(1)</sup> S’appliquent à la Principauté de Liechtenstein toutes les prescriptions légales et administratives suisses valables au moment de l’entrée en vigueur du présent accord ou entrant en vigueur pendant la durée de ce dernier en tant qu’elles concernent la politique de crédit et la politique monétaire au sens de la loi sur la Banque nationale[^1-1] ou la sauvegarde de la monnaie et des billets de banque ou que l’exécution de l’accord exige leur application dans la Principauté de Liechtenstein.
+
+<sup>(2)</sup> Si l’application des prescriptions en vigueur selon l’al. 1 entraîne de trop grandes difficultés pour la Principauté de Liechtenstein en raison de la disparité des situations, les autorités suisses et liechtensteinoises chargées de l’exécutiondu présent accord en tiendront compte en concluant des arrangements spéciaux.
+
+<sup>(3)</sup> Les prescriptions légales suisses applicables à la principauté de Liechtenstein dès l’entrée en vigueur du présent accord sont mentionnées dans l’annexe au présent accord. Les compléments et modifications apportés à l’annexe sont communiqués par le Conseil fédéral suisse au Gouvernement de la Principauté de Liechtenstein, qui de son côté veille à leur publication. Au cas où le Gouvernement de la Principauté de Liechtenstein s’opposerait à l’inscription d’une prescription légale suisse dans l’annexe, les art. 13 et 14 sont applicables.
+
+<sup>(4)</sup> La Banque nationale communique au Gouvernement de la Principauté de Liechtenstein les modifications et les compléments apportés aux prescriptions administratives.
+
+[^1-1]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+
+#### Art. 2
+
+**Souveraineté du Liechtenstein en matière monétaire**
+
+<sup>(1)</sup> La souveraineté du Liechtenstein en matière monétaire demeure entière.
+
+<sup>(2)</sup> La Principauté de Liechtenstein n’émet pas de billets de banque pendant la durée du présent accord; de concert avec le Département fédéral des finances, le Gouvernement de la Principauté de Liechtenstein peut cependant battre monnaie en francs suisses.
+
+#### Art. 3
+
+**Compétences de la Banque nationale**
+
+<sup>(1)</sup> Sous réserve des al. 3 et 4, la Banque nationale exerce à l’égard des banques, des autres personnes et sociétés domiciliées dans la Principauté de Liechtenstein la même compétence qu’en suisse en vertu des prescriptions en vigueur selon l’article premier.
+
+<sup>(2)</sup> La Banque nationale informe sans délai le Gouvernement de la Principauté de Liechtenstein de toutes les enquêtes, recommandations et ordonnances concernant des banques, d’autres personnes et sociétés domiciliées dans la Principauté de Liechtenstein.
+
+<sup>(3)</sup> Pour procéder sur place à des constatations de faits auprès de personnes ou de sociétés domiciliées dans la Principauté de Liechtenstein et soumises aux dispositions de l’article premier, la Banque nationale confie certains mandats de révision aux organes de révision prévus par la loi sur les banques[^3-1] ou à d’autres sociétés de révision liechtensteinoises ou suisses. Lorsque des circonstances de fait ou des raisons de temps le justifient, la Banque nationale peut elle-même entreprendre l’enquête en se faisant adjoindre un représentant mandaté par le Gouvernement de la Principauté de Liechtenstein. Dans tous les cas, la Banque nationale renseigne le Gouvernement de la Principauté de Liechtenstein sur le résultat des enquêtes faites sur place.
+
+<sup>(4)</sup> Lorsque, dans le cadre d’une procédure ouverte contre des personnes ou des sociétés domiciliées dans la Principauté de Liechtenstein et soumises aux dispositions de l’article premier, il y a lieu de procéder sur place à des actes administratifs auprès de tierces personnes ou de sociétés dans la Principauté de Liechtenstein, notamment à l’interrogatoire de personnes ou à l’audition de témoins,la Banque nationale doit faire une demande à cet effet auprès du Gouvernement de la Principauté de Liechtenstein. Le Gouvernement conduit l’enquête selon le droit liechtensteinois, en invitant un représentant de la Banque nationale à y assister.
+
+<sup>(5)</sup> Les banques ainsi que les autres personnes et sociétés domiciliées dans la Principauté de Liechtenstein, pour autant qu’elles soient concernées, peuvent adresser au Tribunal fédéral[^3-2] un recours de droit administratif contre des décisions de la Banque nationale.
+
+<sup>(6)</sup> Les frais de procédure et d’enquête sont assumés par la Banque nationale pour autant qu’ils ne puissent être mis à la charge des banques ou des autres personnes et sociétés.
+
+[^3-1]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^3-2]: Actuellement «un recour au Tribunal administratif fédéral».
+
+#### Art. 4
+
+**Maintien du secret**
+
+La Banque nationale est tenue de garder le secret sur les déclarations, documents et renseignements qu’elle a obtenus des banques, d’autres personnes et sociétés de la Principauté de Liechtenstein, de même que sur les constatations faites à l’occasion de vérifications effectuées sur place.
+
+#### Art. 5
+
+**Exécution de décisions administratives et entraide administrative**
+
+<sup>(1)</sup> À la demande de la Banque nationale, les autorités compétentes de la Principauté de Liechtenstein exécutent les décisions de la Banque nationale et les jugements du Tribunal fédéral[^5-1] passés en force, rendus à l’issue d’une procédure administrative en vertu des prescriptions en vigueur selon l’article premier.
+
+<sup>(2)</sup> Le Gouvernement de la Principauté de Liechtenstein accorde l’entraide administrative, lorsque, dans le cadre d’une procédure administrative engagée par la Banque nationale contre des personnes ou des sociétés domiciliées en Suisse et soumises aux prescriptions de l’article premier, il y a lieu de procéder à des actes d’instruction sur place envers des personnes ou des sociétés tierces domiciliées dans la Principauté de Liechtenstein. Les dispositions de l’art. 3, al. 4, sont applicables par analogie.
+
+<sup>(3)</sup> Le représentant mandaté par le Gouvernement de la Principauté de Liechtenstein que doit s’adjoindre la Banque nationale, au terme de l’art. 3, al. 3, assiste cette dernière lors de la constatation des faits, en faisant appel le cas échéant aux moyens de contrainte prévus par le droit liechtensteinois.
+
+[^5-1]: Actuellement «jugements du Tribunal administratif fédéral et du Tribunal fédéral».
+
+#### Art. 6
+
+**Poursuite et jugement d’infractions**
+
+<sup>(1)</sup> Les infractions aux prescriptions applicables en vertu de l’article premier sont poursuivies par le Ministère public liechtensteinois et jugées en première instance par le Tribunal d’État («Landgericht») et en deuxième instance par la Cour Suprême («Obergericht») de la Principauté. La compétence de la Cour pénale fédérale demeure réservée, en tant qu’elle est prévue par les prescriptions applicables au Liechtenstein en vertu de l’art. 1.
+
+<sup>(2)</sup> Le Ministère public liechtensteinois engage une procédure pénale à la requête de la Banque nationale ou en cas de transfert de compétence juridictionnelle.
+
+<sup>(3)</sup> Les jugements et ordonnancesde non‑lieu seront notifiés sans frais et intégralement à la Banque nationale et au Ministère public de la Confédération. Le Procureur de la Confédération dispose des voies de recours prévues par le droit liechtensteinois.
+
+<sup>(4)</sup> Le Procureur de la Confédération introduit recours par écrit, auprès de l’autorité compétente, selon le droit liechtensteinois, dans les dix jours qui suivent la notification du jugement ou de l’ordonnance de non‑lieu. En procédure orale, il peut se faire représenter par des mandataires.
+
+<sup>(5)</sup> Les jugements de la Cour Suprême («Obergericht») de la Principauté peuvent faire l’objet d’un recours en nullité auprès de la Cour de cassation du Tribunal fédéral[^6-1]. Le Procureur de la Confédération peut également recourir en nullité[^6-2].
+
+[^6-1]: Actuellement «un recours en matière pénale devant le Tribunal fédéral».
+[^6-2]: Actuellement «un recours en matière pénale devant le Tribunal fédéral».
+
+#### Art. 7
+
+**Entraide judiciaire en matière pénale**
+
+Les autorités suisses et liechtensteinoises compétentes pour les poursuites pénales et le jugement des infractions aux prescriptions applicables selon l’article premier ont droit et sont tenues à la même entraide que les autorités suisses entre elles; est réservée la législation des États contractants en matière d’extradition.
+
+#### Art. 8
+
+**Exécution des jugements pénaux et grâce**
+
+<sup>(1)</sup> Les autorités de l’autre Étatsont également compétentes pour l’exécution des jugements pénaux passés en force relatifs à des infractions aux prescriptions applicables selon l’article premier commises dans l’un des deux États contractants, si l’exécution peut effectivement avoir lieu dans cet État.
+
+<sup>(2)</sup> Le droit de grâce appartient à l’État dans lequel le jugement a été prononcé.
+
+#### Art. 9
+
+**Principe de l’égalité de traitement**
+
+<sup>(1)</sup> Les banques comme les autres personnes et sociétés dont le domicile ou le siège se trouve dans la Principauté de Liechtenstein jouissent du même statut eu égard à la législation suisse mentionnée à l’article premier que les banques, personnes et sociétés ayant leur domicile ou leur siège en Suisse.
+
+<sup>(2)</sup> Les personnes morales et les sociétés ayant leur siège dans la Principauté de Liechtenstein, qui sont en mains de personnes ou de sociétés domiciliées en dehors de la Principauté de Liechtenstein ou de Suisse et qui n’exploitent un établissement stable dans aucun des deux États, sont assimilées à des personnes morales et à dessociétés ayant leursiège en Suisse et auxquelles s’appliquent les conditions précitées.
+
+<sup>(3)</sup> Les effets de change, chèques et obligations sur des débiteurs domiciliés dans la Principauté de Liechtenstein sont assimilés à des effets de change, chèques et obligations sur des débiteurs domiciliés en Suisse. Il en est de même pour les émissions d’emprunts publics par des débiteurs liechtensteinois.
+
+<sup>(4)</sup> Les bons du Trésor et les obligations de la Principauté de Liechtenstein sont assimilés aux bons du Trésor et aux obligations de la Confédération.
+
+#### Art. 10
+
+**Informations des banques à la Banque nationale**
+
+<sup>(1)</sup> Les banques de la Principauté de Liechtenstein fournissent à la Banque nationale, de la même manière que les banques suisses, les données nécessaires à la conduite d’une politique de crédit et d’une politique monétaire ainsi qu’à l’établissement d’une statistique bancaire.
+
+<sup>(2)</sup> Dans les statistiques publiées, les données des banques liechtensteinoises ne figurent pas de façon séparée.
+
+#### Art. 11
+
+**Relations des autorités entre elles**
+
+Les autorités suisses et liechtensteinoises chargées de l’exécution du présent accord traitent directement entre elles, sans recourir à la voie diplomatique.
+
+#### Art. 12
+
+**Information et consultation**
+
+Le Gouvernement de la Principauté de Liechtenstein et la Direction de la Banque nationale s’informent et se consultent réciproquement suivant le besoin.
+
+#### Art. 13
+
+**Commission mixte**
+
+<sup>(1)</sup> Les deux États contractants constituent une commission mixte pour traiter des questions en rapport avec l’interprétation ou l’application du présent accord.
+
+<sup>(2)</sup> La commission est composée de trois membres suisses et de trois membres liechtensteinois qui peuvent se faire accompagner d’experts. Le Gouvernement de chacun des deux États contractants désigne un membre de sa délégation pour la présider. Chaque président de délégation peut, par requête au président de l’autre délégation, convoquer la commission à une séance qui, à sa demande, devra avoir lieu au plus tard dans le délai d’un mois après réception de la requête.
+
+#### Art. 14
+
+**Clauses d’arbitrage**
+
+<sup>(1)</sup> S’il ne peut être réglé dans le cadre de l’art. 13, tout différend relatif à l’interprétation ou l’application du présent accord est soumis à l’arbitrage, à la requête d’un État contractant.
+
+<sup>(2)</sup> Le tribunal arbitral est formé de cas en cas, chaque État contractant nommant un membre et les deux membres désignant d’un commun accord le ressortissant d’un troisième État commeprésident qui sera nommé par les Gouvernements des États contractants. Les membres sont nommés dans un délai de deux mois, le président dans un délai de trois mois, après qu’un État contractant ait communiqué à l’autre qu’il entendait soumettre le différend à un tribunal arbitral.
+
+<sup>(3)</sup> Si les délais mentionnés à l’al. 2 ne sont pas respectés et à défaut d’un autre arrangement, chaque État contractant peut inviter le Président de la Cour Européenne des Droits de l’homme à procéder aux désignations requises. Si le Président possède la nationalité suisse ou la nationalité liechtensteinoise, ou se trouve empêché pour une autre raison, le vice-président doit procéder à la désignation. Si le vice-président possède également la nationalité suisse ou liechtensteinoise, ou se trouve lui aussi empêché, le membre immédiatement inférieur dans la hiérarchie de la Cour ne possédant ni la nationalité suisse ni la nationalité liechtensteinoise procède à la désignation.
+
+<sup>(4)</sup> Le tribunal arbitral prend ses décisions à la majorité des voix sur la base des traités existant entre les États contractants et du droit international public. Ses décisions ont force obligatoire. Chaque État contractant supporte les frais de l’arbitre qu’il a désigné et les frais encourus par sa représentation dans la procédure devant le tribunal arbitral. Les frais du tiers‑arbitre et les autres frais sont supportés à parts égales par les États contractants. En outre, le tribunal arbitral règle lui-même sa procédure.
+
+<sup>(5)</sup> Si le tribunal arbitral le demande, les tribunaux des États contractants lui accordent l’entraide judiciaire nécessaire pour procéder aux citations et aux auditions de témoins et d’experts.
+
+#### Art. 15
+
+**Dénonciation et retrait**
+
+<sup>(1)</sup> Chaque État contractant a le droit de dénoncer par écrit le présent accord pour la fin d’une année civile, moyennant un avis préalable de six mois.
+
+<sup>(2)</sup> La Principauté de Liechtenstein a le droit, dans le délai d’un mois à partir de la promulgation de nouvelles prescriptions suisses applicables selon l’article premier, de se retirer du présent accord en remettant par voie diplomatique une déclaration en ce sens. Une telle déclaration n’a pas d’effet rétroactif.
+
+#### Art. 16
+
+**Ratification et entrée en vigueur**
+
+<sup>(1)</sup> Le présent accord sera ratifié et les instruments de ratification seront échangés à Berne dès que possible.
+
+<sup>(2)</sup> Le présent accord entrera en vigueur le trentième jour qui suit l’échange des instruments de ratification.
+
+<sup>(3)</sup> Tous les arrangements contraires passés entre les deux États contractants sont abrogés dès l’entrée en vigueur du présent accord, en particulier l’échange de notes des 15 mai et 19 juillet 1973 relatif à des mesures dans le domaine des marchés de l’argent et des capitaux et dans celui du crédit.
+
+*En foi de quoi,* les plénipotentiaires des deux États ont signé le présent accord. Fait à Berne, en double exemplaire en langue allemande, le 19 juin 1980. Pour la Confédération suisse: E. Diez Pour la Principauté de Liechtenstein: W. Kleber
+
+Échange de lettre
+
+<table>
+<tr><td>Direction du droit international public</td><td>Berne, le 19 juin 1980 Monsieur le Suppléant du Chef du Gouvernement Walter Kieber Chef de la délégation liechtensteinoise à la négociation de l’accord monétaire entre la Suisse et le Liechtenstein Vaduz</td></tr>
+</table>
+
+Monsieur le Suppléant du Chef du Gouvernement,
+
+- J’ai l’honneur d’accuser réception de votre lettre de ce jour libellée comme suit:
+- «À l’occasion de la signature intervenue aujourd’hui de l’accord monétaire entre la Principauté de Liechtenstein et la Confédération suisse, je vous confirme au nom du Gouvernement princier ce qui suit:
+- La Banque nationale suisse, lors de l’exécution des prescriptions applicables conformément à l’art. l de l’accord monétaire entre la Principauté de Liechtenstein et la Confédération suisse, est sans autre formalité habilitée à examiner le registre public et à en obtenir des copies conformes (art. 997 par. 1 du droit des personnes et des sociétés du 20 janvier 1926).»
+- Au nom du Conseil fédéral suisse, je vous déclare que la réglementation qui précède rencontre mon agrément, votre lettre et la présente réponse constituant dès lors un accord entre les deux États applicable aussi longtemps que l’accord monétaire signé aujourd’hui est en vigueur.
+
+Veuillez agréer, Monsieur le Suppléant du Chef du Gouvernement, l’assurance de ma haute considération.
+
+Diez
+
+Annexe*[^t-2]*
+
+## Liste des lois et autres prescriptions fédérales applicables dans la Principauté de Liechtenstein
+
+[^t-2]: Cette annexe a été mise à jour régulièrement dès le 3 novembre 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le 6 octobre 2020 (état au 30 juin 2020). Cette annexe n’est plus publiée dans le RO ([RO 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.95.

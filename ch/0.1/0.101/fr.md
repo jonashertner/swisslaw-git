@@ -1,0 +1,741 @@
+---
+sr: "0.101"
+title: "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales (CEDH)"
+short: CEDH
+eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
+language: fr
+version: 2012-02-23
+adopted: 1950-11-04
+in_force: 1974-11-28
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20120223/fr/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20120223-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20120223/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Convention de sauvegarde des droits de l’homme et des libertés fondamentales
+
+RO **1974** 2151; FF **1974** I 1020
+
+Texte original*[^t-1]*
+
+Conclue à Rome le 4 novembre 1950 Approuvée par l’Assemblée fédérale le 3 octobre 1974[^t-2] Instrument de ratification déposé par la Suisse le 28 novembre 1974 Entrée en vigueur pour la Suisse le 28 novembre 1974
+
+(Etat le 23 février 2012)
+
+[^t-1]: Le texte original anglais de la Convention peut être obtenu auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([RO 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
+[^t-2]: Art. 1 al. 1 let. a de l’AF du 3 oct. 1974 ([RO 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148))
+
+Les Gouvernements signataires, membres du Conseil de l’Europe,
+
+considérant la Déclaration Universelle des Droits de l’homme, proclamée par l’Assemblée Générale des Nations Unies le 10 décembre 1948,
+
+considérant que cette Déclaration tend à assurer la reconnaissance et l’application universelles et effectives des droits qui y sont énoncés,
+
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses Membres, et que l’un des moyens d’atteindre ce but est la sauvegarde et le développement des Droits de l’homme et des libertés fondamentales,
+
+réaffirmant leur profond attachement à ces libertés fondamentales qui constituent les assises mêmes de la justice et de la paix dans le monde et dont le maintien repose essentiellement sur un régime politique véritablement démocratique, d’une part, et, d’autre part, sur une conception commune et un commun respect des Droits de l’homme dont ils se réclament,
+
+résolus, en tant que gouvernements d’Etats européens animés d’un même esprit et possédant un patrimoine commun d’idéal et de traditions politiques, de respect de la liberté et de prééminence du droit, à prendre les premières mesures propres à assurer la garantie collective de certains droits énoncés dans la Déclaration Universelle,
+
+sont convenus de ce qui suit:
+
+#### Art. 1
+
+**Obligation de respecter les droits de l’homme**
+
+Les Hautes Parties contractantes reconnaissent à toute personne relevant de leur juridiction les droits et libertés définis au titre I de la présente Convention :
+
+## Titre I Droits et libertés
+
+#### Art. 2
+
+**Droit à la vie**
+
+<sup>1.</sup> Le droit de toute personne à la vie est protégé par la loi. La mort ne peut être infligée à quiconque intentionnellement, sauf en exécution d’une sentence capitale prononcée par un tribunal au cas où le délit est puni de cette peine par la loi.
+
+<sup>2.</sup>
+
+La mort n’est pas considérée comme infligée en violation de cet article dans les cas où elle résulterait d’un recours à la force rendu absolument nécessaire:
+
+- a) pour assurer la défense de toute personne contre la violence illégale;
+- b) pour effectuer une arrestation régulière ou pour empêcher l’évasion d’une personne régulièrement détenue;
+- c) pour réprimer, conformément à la loi, une émeute ou une insurrection.
+
+#### Art. 3
+
+**Interdiction de la torture**
+
+Nul ne peut être soumis à la torture ni à des peines ou traitements inhumains ou dégradants.
+
+#### Art. 4
+
+**Interdiction de l’esclavage et du travail forcé**
+
+<sup>1.</sup> Nul ne peut être tenu en esclavage ni en servitude.
+
+<sup>2.</sup> Nul ne peut être astreint à accomplir un travail forcé ou obligatoire.
+
+<sup>3.</sup>
+
+N’est pas considéré comme «travail forcé ou obligatoire» au sens du présent article:
+
+- a) tout travail requis normalement d’une personne soumise à la détention dans les conditions prévues par l’art. 5 de la présente Convention, ou durant sa mise en liberté conditionnelle;
+- b) tout service de caractère militaire ou, dans le cas d’objecteurs de conscience dans les pays où l’objection de conscience est reconnue comme légitime, à un autre service à la place du service militaire obligatoire;
+- c) tout service requis dans le cas de crises ou de calamités qui menacent la vie ou le bien-être de la communauté;
+- d) tout travail ou service formant partie des obligations civiques normales.
+
+#### Art. 5
+
+**Droit à la liberté et à la sûreté**
+
+<sup>1.</sup>
+
+Toute personne a droit à la liberté et à la sûreté. Nul ne peut être privé de sa liberté, sauf dans les cas suivants et selon les voies légales :
+
+- a) s’il est détenu régulièrement après condamnation par un tribunal compétent;
+- b) s’il a fait l’objet d’une arrestation ou d’une détention régulières pour insoumission à une ordonnance rendue, conformément à la loi, par un tribunal ou en vue de garantir l’exécution d’une obligation prescrite par la loi;
+- c) s’il a été arrêté et détenu en vue d’être conduit devant l’autorité judiciaire compétente, lorsqu’il y a des raisons plausibles de soupçonner qu’il a commis une infraction ou qu’il y a des motifs raisonnables de croire à la nécessité de l’empêcher de commettre une infraction ou de s’enfuir après l’accomplissement de celle-ci;
+- d) s’il s’agit de la détention régulière d’un mineur, décidée pour son éducation surveillée ou de sa détention régulière, afin de le traduire devant l’autorité compétente;
+- e) s’il s’agit de la détention régulière d’une personne susceptible de propager une maladie contagieuse, d’un aliéné, d’un alcoolique, d’un toxicomane ou d’un vagabond;
+- f) s’il s’agit de l’arrestation ou de la détention régulières d’une personne pour l’empêcher de pénétrer irrégulièrement dans le territoire, ou contre laquelle une procédure d’expulsion ou d’extradition est en cours.
+
+<sup>2.</sup> Toute personne arrêtée doit être informée, dans le plus court délai et dans une langue qu’elle comprend, des raisons de son arrestation et de toute accusation portée contre elle.
+
+<sup>3.</sup> Toute personne arrêtée ou détenue, dans les conditions prévues au par. 1.c du présent article, doit être aussitôt traduite devant un juge ou un autre magistrat habilité par la loi à exercer des fonctions judiciaires et a le droit d’être jugée dans un délai raisonnable, ou libérée pendant la procédure. La mise en liberté peut être subordonnée à une garantie assurant la comparution de l’intéressé à l’audience.
+
+<sup>4.</sup> Toute personne privée de sa liberté par arrestation ou détention a le droit d’introduire un recours devant un tribunal, afin qu’il statue à bref délai sur la légalité de sa détention et ordonne sa libération si la détention est illégale.
+
+<sup>5.</sup> Toute personne victime d’une arrestation ou d’une détention dans des conditions contraires aux dispositions de cet article a droit à réparation.
+
+#### Art. 6
+
+**Droit à un procès équitable**
+
+<sup>1.</sup> Toute personne a droit à ce que sa cause soit entendue équitablement, publiquement et dans un délai raisonnable, par un tribunal indépendant et impartial, établi par la loi, qui décidera, soit des contestations sur ses droits et obligations de caractère civil, soit du bien-fondé de toute accusation en matière pénale dirigée contre elle. Le jugement doit être rendu publiquement, mais l’accès de la salle d’audience peut être interdit à la presse et au public pendant la totalité ou une partie du procès dans l’intérêt de la moralité, de l’ordre public ou de la sécurité nationale dans une société démocratique, lorsque les intérêts des mineurs ou la protection de la vie privée des parties au procès l’exigent, ou dans la mesure jugée strictement nécessaire par le tribunal, lorsque dans des circonstances spéciales la publicité serait de nature à porter atteinte aux intérêts de la justice.
+
+<sup>2.</sup> Toute personne accusée d’une infraction est présumée innocente jusqu’à ce que sa culpabilité ait été légalement établie.
+
+<sup>3.</sup>
+
+Tout accusé a droit notamment à:
+
+- a) être informé, dans le plus court délai, dans une langue qu’il comprend et d’une manière détaillée, de la nature et de la cause de l’accusation portée contre lui;
+- b) disposer du temps et des facilités nécessaires à la préparation de sa défense;
+- c) se défendre lui-même ou avoir l’assistance d’un défenseur de son choix et, s’il n’a pas les moyens de rémunérer un défenseur, pouvoir être assisté gratuitement par un avocat d’office, lorsque les intérêts de la justice l’exigent;
+- d) interroger ou faire interroger les témoins à charge et obtenir la convocation et l’interrogation des témoins à décharge dans les mêmes conditions que les témoins à charge;
+- e) se faire assister gratuitement d’un interprète, s’il ne comprend pas ou ne parle pas la langue employée à l’audience.
+
+#### Art. 7
+
+**Pas de peine sans loi**
+
+<sup>1.</sup> Nul ne peut être condamné pour une action ou une omission qui, au moment où elle a été commise, ne constituait pas une infraction d’après le droit national ou international. De même il n’est infligé aucune peine plus forte que celle qui était applicable au moment où l’infraction a été commise.
+
+<sup>2.</sup> Le présent article ne portera pas atteinte au jugement et à la punition d’une personne coupable d’une action ou d’une omission qui, au moment où elle a été commise, était criminelle d’après les principes généraux de droit reconnus par les nations civilisées.
+
+#### Art. 8
+
+**Droit au respect de la vie privée et familiale**
+
+<sup>1.</sup> Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.
+
+<sup>2.</sup> Il ne peut y avoir ingérence d’une autorité publique dans l’exercice de ce droit que pour autant que cette ingérence est prévue par la loi et qu’elle constitue une mesure qui, dans une société démocratique, est nécessaire à la sécurité nationale, à la sûreté publique, au bien-être économique du pays, à la défense de l’ordre et à la prévention des infractions pénales, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui.
+
+#### Art. 9
+
+**Liberté de pensée, de conscience et de religion**
+
+<sup>1.</sup> Toute personne a droit à la liberté de pensée, de conscience et de religion; ce droit implique la liberté de changer de religion ou de conviction, ainsi que la liberté de manifester sa religion ou sa conviction individuellement ou collectivement, en public ou en privé, par le culte, l’enseignement, les pratiques et l’accomplissement des rites.
+
+<sup>2.</sup> La liberté de manifester sa religion ou ses convictions ne peut faire l’objet d’autres restrictions que celles qui, prévues par la loi, constituent des mesures nécessaires, dans une société démocratique, à la sécurité publique, à la protection de l’ordre, de la santé ou de la morale publiques, ou à la protection des droits et libertés d’autrui.
+
+#### Art. 10
+
+**Liberté d’expression**
+
+<sup>1.</sup> Toute personne a droit à la liberté d’expression. Ce droit comprend la liberté d’opinion et la liberté de recevoir ou de communiquer des informations ou des idées sans qu’il puisse y avoir ingérence d’autorités publiques et sans considération de frontière. Le présent article n’empêche pas les Etats de soumettre les entreprises de radiodiffusion, de cinéma ou de télévision à un régime d’autorisations.
+
+<sup>2.</sup> L’exercice de ces libertés comportant des devoirs et des responsabilités peut être soumis à certaines formalités, conditions, restrictions ou sanctions prévues par la loi, qui constituent des mesures nécessaires, dans une société démocratique, à la sécurité nationale, à l’intégrité territoriale ou à la sûreté publique, à la défense de l’ordre et à la prévention du crime, à la protection de la santé ou de la morale, à la protection de la réputation ou des droits d’autrui, pour empêcher la divulgation d’informations confidentielles ou pour garantir l’autorité et l’impartialité du pouvoir judiciaire.
+
+#### Art. 11
+
+**Liberté de réunion et d’association**
+
+<sup>1.</sup> Toute personne a droit à la liberté de réunion pacifique et à la liberté d’association, y compris le droit de fonder avec d’autres des syndicats et de s’affilier à des syndicats pour la défense de ses intérêts.
+
+<sup>2.</sup> L’exercice de ces droits ne peut faire l’objet d’autres restrictions que celles qui, prévues par la loi, constituent des mesures nécessaires, dans une société démocratique, à la sécurité nationale, à la sûreté publique, à la défense de l’ordre et à la prévention du crime, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui. Le présent article n’interdit pas que des restrictions légitimes soient imposées à l’exercice de ces droits par les membres des forces armées, de la police ou de l’administration de l’Etat.
+
+#### Art. 12
+
+**Droit au mariage**
+
+A partir de l’âge nubile, l’homme et la femme ont le droit de se marier et de fonder une famille selon les lois nationales régissant l’exercice de ce droit.
+
+#### Art. 13
+
+**Droit à un recours effectif**
+
+Toute personne dont les droits et libertés reconnus dans la présente Convention ont été violés, a droit à l’octroi d’un recours effectif devant une instance nationale, alors même que la violation aurait été commise par des personnes agissant dans l’exercice de leurs fonctions officielles.
+
+#### Art. 14
+
+**Interdiction de discrimination**
+
+La jouissance des droits et libertés reconnus dans la présente Convention doit être assurée, sans distinction aucune, fondée notamment sur le sexe, la race, la couleur, la langue, la religion, les opinions politiques ou toutes autres opinions, l’origine nationale ou sociale, l’appartenance à une minorité nationale, la fortune, la naissance ou toute autre situation.
+
+#### Art. 15
+
+**Dérogation en cas d’état d’urgence**
+
+<sup>1.</sup> En cas de guerre ou en cas d’autre danger public menaçant la vie de la nation, toute Haute Partie contractante peut prendre des mesures dérogeant aux obligations prévues par la présente Convention, dans la stricte mesure où la situation l’exige et à la condition que ces mesures ne soient pas en contradiction avec les autres obligations découlant du droit international.
+
+<sup>2.</sup> La disposition précédente n’autorise aucune dérogation à l’art. 2, sauf pour le cas de décès résultant d’actes licites de guerre, et aux art. 3, 4 (par. 1) et 7.
+
+<sup>3.</sup> Toute Haute Partie contractante qui exerce ce droit de dérogation tient le Secrétaire Général du Conseil de l’Europe pleinement informé des mesures prises et des motifs qui les ont inspirées. Elle doit également informer le Secrétaire Général du Conseil de l’Europe de la date à laquelle ces mesures ont cessé d’être en vigueur et les dispositions de la Convention reçoivent de nouveau pleine application.
+
+#### Art. 16
+
+**Restrictions à l’activité politique des étrangers**
+
+Aucune des dispositions des art. 10, 11 et 14 ne peut être considérée comme interdisant aux Hautes Parties contractantes d’imposer des restrictions à l’activité politique des étrangers.
+
+#### Art. 17
+
+**Interdiction de l’abus de droit**
+
+Aucune des dispositions de la présente Convention ne peut être interprétée comme impliquant pour un Etat, un groupement ou un individu, un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits ou libertés reconnus dans la présente Convention ou à des limitations plus amples de ces droits et libertés que celles prévues à ladite Convention.
+
+#### Art. 18
+
+**Limitation de l’usage des restrictions aux droits**
+
+Les restrictions qui, aux termes de la présente Convention, sont apportées auxdits droits et libertés ne peuvent être appliquées que dans le but pour lequel elles ont été prévues.
+
+## Titre II**** Cour européenne des Droits de l’Homme
+
+[^titII-1]
+
+[^titII-1]: Nouvelle teneur selon l’art. 1 du prot. n<sup>o</sup> 11 du 11 mai 1994, approuvé par l’Ass. féd. le 12 juin 1995 et en vigueur depuis le 1<sup>er</sup> nov. 1998 ([RO 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993)[2992](https://fedlex.data.admin.ch/eli/oc/1998/2992_2992_2992); [FF 1995 I 987](https://fedlex.data.admin.ch/eli/fga/1995/1_999_987_835)).
+
+#### Art. 19
+
+**Institution de la Cour**
+
+Afin d’assurer le respect des engagements résultant pour les Hautes Parties contractantes de la présente Convention et de ses protocoles, il est institué une Cour européenne des Droits de l’Homme, ci-dessous nommée «la Cour». Elle fonctionne de façon permanente.
+
+#### Art. 20
+
+**Nombre de juges**
+
+La Cour se compose d’un nombre de juges égal à celui des Hautes Parties contractantes.
+
+#### Art. 21
+
+**Conditions d’exercice des fonctions**
+
+<sup>1.</sup> Les juges doivent jouir de la plus haute considération morale et réunir les conditions requises pour l’exercice de hautes fonctions judiciaires ou être des jurisconsultes possédant une compétence notoire.
+
+<sup>2.</sup> Les juges siègent à la Cour à titre individuel.
+
+<sup>3.</sup> Pendant la durée de leur mandat, les juges ne peuvent exercer aucune activité incompatible avec les exigences d’indépendance, d’impartialité ou de disponibilité requise par une activité exercée à plein temps; toute question soulevée en application de ce paragraphe est tranchée par la Cour.
+
+#### Art. 22
+
+**Election des juges**
+
+<sup>1.</sup> Les juges sont élus par l’Assemblée parlementaire au titre de chaque Haute Partie contractante, à la majorité des voix exprimées, sur une liste de trois candidats présentés par la Haute Partie contractante.
+
+<sup>2.</sup> …[^22-1]
+
+[^22-1]: Abrogé par l’art. 1 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et avec effet au 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 23
+
+**Durée du mandat et révocation**[^23-1]
+
+<sup>1.</sup> Les juges sont élus pour une durée de neuf ans. Ils ne sont pas rééligibles.
+
+<sup>2.</sup> Le mandat des juges s’achève dès qu’ils atteignent l’âge de 70 ans.
+
+<sup>3.</sup> Les juges restent en fonction jusqu’à leur remplacement. Ils continuent toutefois de connaître des affaires dont ils sont déjà saisis.
+
+<sup>4.</sup> Un juge ne peut être relevé de ses fonctions que si les autres juges décident, à la majorité des deux tiers, que ce juge a cessé de répondre aux conditions requises.
+
+[^23-1]: Nouvelle teneur selon l’art. 2 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 24
+
+**Greffe et rapporteurs**[^24-1]
+
+<sup>1.</sup> La Cour dispose d’un greffe dont les tâches et l’organisation sont fixées par le règlement de la Cour.
+
+<sup>2.</sup> Lorsqu’elle siège en formation de juge unique, la Cour est assistée de rapporteurs qui exercent leurs fonctions sous l’autorité du président de la Cour. Ils font partie du greffe de la Cour.
+
+[^24-1]: Anciennement art. 25. Nouvelle teneur selon l’art. 4 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 25
+
+**Assemblée plénière[^25-2]**[^25-1]
+
+La Cour réunie en Assemblée plénière
+
+- a) élit, pour une durée de trois ans, son président et un ou deux vice-présidents; ils sont rééligibles;
+- b) constitue des Chambres pour une période déterminée;
+- c) élit les présidents des Chambres de la Cour, qui sont rééligibles;
+- d) adopte le règlement de la Cour;
+- e) élit le greffier et un ou plusieurs greffiers adjoints;
+- f)[^25-3] fait toute demande au titre de l’art. 26, par. 2.
+
+[^25-1]: Anciennement art. 26.
+[^25-2]: Nouvelle teneur selon l’art. 5 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^25-3]: Introduite par l’art. 5 ch. 3 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 26
+
+**Formations de juge unique, comités, Chambres et Grande Chambre**[^26-1]
+
+<sup>1.</sup> Pour l’examen des affaires portées devant elle, la Cour siège en formations de juge unique, en comités de trois juges, en Chambres de sept juges et en une Grande Chambre de dix-sept juges. Les Chambres de la Cour constituent les comités pour une période déterminée.
+
+<sup>2.</sup> A la demande de l’Assemblée plénière de la Cour, le Comité des Ministres peut, par une décision unanime et pour une période déterminée, réduire à cinq le nombre de juges des Chambres.
+
+<sup>3.</sup> Un juge siégeant en tant que juge unique n’examine aucune requête introduite contre la Haute Partie contractante au titre de laquelle ce juge a été élu.
+
+<sup>4.</sup> Le juge élu au titre d’une Haute Partie contractante partie au litige est membre de droit de la Chambre et de la Grande Chambre. En cas d’absence de ce juge, ou lorsqu’il n’est pas en mesure de siéger, une personne choisie par le président de la Cour sur une liste soumise au préalable par cette Partie siège en qualité de juge.
+
+<sup>5.</sup> Font aussi partie de la Grande Chambre, le président de la Cour, les vice-présidents, les présidents des Chambres et d’autres juges désignés conformément au règlement de la Cour. Quand l’affaire est déférée à la Grande Chambre en vertu de l’art. 43, aucun juge de la Chambre qui a rendu l’arrêt ne peut y siéger, à l’exception du président de la Chambre et du juge ayant siégé au titre de la Haute Partie contractante intéressée.
+
+[^26-1]: Anciennement art. 27. Nouvelle teneur selon l’art. 6 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 27
+
+**Compétence des juges uniques**[^27-1]
+
+<sup>1.</sup> Un juge unique peut déclarer une requête introduite en vertu de l’art. 34 irrecevable ou la rayer du rôle lorsqu’une telle décision peut être prise sans examen complémentaire.
+
+<sup>2.</sup> La décision est définitive.
+
+<sup>3.</sup> Si le juge unique ne déclare pas une requête irrecevable ou ne la raye pas du rôle, ce juge la transmet à un comité ou à une Chambre pour examen complémentaire.
+
+[^27-1]: Introduit par l’art. 7 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 28
+
+**Compétences des comités**[^28-1]
+
+<sup>1.</sup>
+
+Un comité saisi d’une requête individuelle introduite en vertu de l’art. 34 peut, par vote unanime:
+
+- a) la déclarer irrecevable ou la rayer du rôle lorsqu’une telle décision peut être prise sans examen complémentaire; ou
+- b) la déclarer recevable et rendre conjointement un arrêt sur le fond lorsque la question relative à l’interprétation ou à l’application de la Convention ou de ses Protocoles qui est à l’origine de l’affaire fait l’objet d’une jurisprudence bien établie de la Cour.
+
+<sup>2.</sup> Les décisions et arrêts prévus au par. 1 sont définitifs.
+
+<sup>3.</sup> Si le juge élu au titre de la Haute Partie contractante partie au litige n’est pas membre du comité, ce dernier peut, à tout moment de la procédure, l’inviter à siéger en son sein en lieu et place de l’un de ses membres, en prenant en compte tous facteurs pertinents, y compris la question de savoir si cette Partie a contesté l’application de la procédure du par. 1.b.
+
+[^28-1]: Nouvelle teneur selon l’art. 8 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 29
+
+**Décisions des Chambres sur la recevabilité et le fond**
+
+<sup>1.</sup> Si aucune décision n’a été prise en vertu des art. 27 ou 28, ni aucun arrêt rendu en vertu de l’art. 28, une Chambre se prononce sur la recevabilité et le fond des requêtes individuelles introduites en vertu de l’art. 34. La décision sur la recevabilité peut être prise de façon séparée.[^29-1]
+
+<sup>2.</sup> Une Chambre se prononce sur la recevabilité et le fond des requêtes étatiques introduites en vertu de l’art. 33. Sauf décision contraire de la Cour dans des cas exceptionnels, la décision sur la recevabilité est prise séparément.[^29-2]
+
+<sup>3.</sup> …[^29-3]
+
+[^29-1]: Nouvelle teneur selon l’art. 9 ch. 1 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3065](https://fedlex.data.admin.ch/eli/oc/2009/376)[3067](https://fedlex.data.admin.ch/eli/oc/2009/377), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^29-2]: Phrase introduite par l’art. 9 ch. 2 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^29-3]: Abrogé par l’art. 9 ch. 3 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et avec effet au 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 30
+
+**Dessaisissement en faveur de la Grande Chambre**
+
+Si l’affaire pendante devant une Chambre soulève une question grave relative à l’interprétation de la Convention ou de ses protocoles, ou si la solution d’une question peut conduire à une contradiction avec un arrêt rendu antérieurement par la Cour, la Chambre peut, tant qu’elle n’a pas rendu son arrêt, se dessaisir au profit de la Grande Chambre, à moins que l’une des parties ne s’y oppose.
+
+#### Art. 31
+
+**Attributions de la Grande Chambre**
+
+La Grande Chambre
+
+- a) se prononce sur les requêtes introduites en vertu de l’art. 33 ou de l’art. 34 lorsque l’affaire lui a été déférée par la Chambre en vertu de l’art. 30 ou lorsque l’affaire lui a été déférée en vertu de l’art. 43;
+- b)[^31-1] se prononce sur les questions dont la Cour est saisie par le Comité des Ministres en vertu de l’art. 46, par. 4; et
+- c)[^31-2] examine les demandes d’avis consultatifs introduites en vertu de l’article 47.
+
+[^31-1]: Introduite par par l’art. 10 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^31-2]: Anciennement let. b.
+
+#### Art. 32
+
+**Compétence de la Cour**
+
+<sup>1.</sup> La compétence de la Cour s’étend à toutes les questions concernant l’interprétation et l’application de la Convention et de ses protocoles qui lui seront soumises dans les conditions prévues par les art. 33, 34, 46 et 47.[^32-1]
+
+<sup>2.</sup> En cas de contestation sur le point de savoir si la Cour est compétente, la Cour décide.
+
+[^32-1]: Mise à jour selon l’art. 11 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 33
+
+**Affaires interétatiques**
+
+Toute Haute Partie contractante peut saisir la Cour de tout manquement aux dispositions de la Convention et de ses protocoles qu’elle croira pouvoir être imputé à une autre Haute Partie contractante.
+
+#### Art. 34
+
+**Requêtes individuelles**
+
+La Cour peut être saisie d’une requête par toute personne physique, toute organisation non gouvernementale ou tout groupe de particuliers qui se prétend victime d’une violation par l’une des Hautes Parties contractantes des droits reconnus dans la Convention ou ses protocoles. Les Hautes Parties contractantes s’engagent à n’entraver par aucune mesure l’exercice efficace de ce droit.
+
+#### Art. 35
+
+**Conditions de recevabilité**
+
+<sup>1.</sup> La Cour ne peut être saisie qu’après l’épuisement des voies de recours internes, tel qu’il est entendu selon les principes de droit international généralement reconnus, et dans un délai de six mois à partir de la date de la décision interne définitive.
+
+<sup>2.</sup> La Cour ne retient aucune requête individuelle introduite en application de l’art. 34, lorsque
+
+- a) elle est anonyme; ou
+- b) elle est essentiellement la même qu’une requête précédemment examinée par la Cour ou déjà soumise à une autre instance internationale d’enquête ou de règlement, et si elle ne contient pas de faits nouveaux.
+
+<sup>3.</sup>
+
+La Cour déclare irrecevable toute requête individuelle introduite en application de l’art. 34 lorsqu’elle estime:
+
+- a) que la requête est incompatible avec les dispositions de la Convention ou de ses Protocoles, manifestement mal fondée ou abusive; ou
+- b) que le requérant n’a subi aucun préjudice important, sauf si le respect des droits de l’homme garantis par la Convention et ses Protocoles exige un examen de la requête au fond et à condition de ne rejeter pour ce motif aucune affaire qui n’a pas été dûment examinée par un tribunal interne.[^35-1]
+
+<sup>4.</sup> La Cour rejette toute requête qu’elle considère comme irrecevable par application du présent article. Elle peut procéder ainsi à tout stade de la procédure.
+
+[^35-1]: Nouvelle teneur selon l’art. 12 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 36
+
+**Tierce intervention**
+
+<sup>1.</sup> Dans toute affaire devant une Chambre ou la Grande Chambre, une Haute Partie contractante dont un ressortissant est requérant a le droit de présenter des observations écrites et de prendre part aux audiences.
+
+<sup>2.</sup> Dans l’intérêt d’une bonne administration de la justice, le président de la Cour peut inviter toute Haute Partie contractante qui n’est pas partie à l’instance ou toute personne intéressée autre que le requérant à présenter des observations écrites ou à prendre part aux audiences.
+
+<sup>3.</sup> Dans toute affaire devant une Chambre ou la Grande Chambre, le Commissaire aux Droits de l’Homme du Conseil de l’Europe peut présenter des observations écrites et prendre part aux audiences.[^36-1]
+
+[^36-1]: Introduit par l’art. 13 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 37
+
+**Radiation**
+
+<sup>1.</sup> A tout moment de la procédure, la Cour peut décider de rayer une requête du rôle lorsque les circonstances permettent de conclure
+
+Toutefois, la Cour poursuit l’examen de la requête si le respect des droits de l’homme garantis par la Convention et ses protocoles l’exige.
+
+- a) que le requérant n’entend plus la maintenir; ou
+- b) que le litige a été résolu; ou
+- c) que, pour tout autre motif dont la Cour constate l’existence, il ne se justifie plus de poursuivre l’examen de la requête.
+
+<sup>2.</sup> La Cour peut décider la réinscription au rôle d’une requête lorsqu’elle estime que les circonstances le justifient.
+
+#### Art. 38
+
+**Examen contradictoire de l’affaire**[^38-1]
+
+La Cour examine l’affaire de façon contradictoire avec les représentants des parties et, s’il y a lieu, procède à une enquête pour la conduite efficace de laquelle les Hautes Parties contractantes intéressées fourniront toutes facilités nécessaires.
+
+[^38-1]: Nouvelle teneur selon l’art. 14 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 39
+
+**Règlements amiables**[^39-1]
+
+<sup>1.</sup> A tout moment de la procédure, la Cour peut se mettre à la disposition des intéressés en vue de parvenir à un règlement amiable de l’affaire s’inspirant du respect des droits de l’homme tels que les reconnaissent la Convention et ses Protocoles.
+
+<sup>2.</sup> La procédure décrite au par. 1 est confidentielle.
+
+<sup>3.</sup> En cas de règlement amiable, la Cour raye l’affaire du rôle par une décision qui se limite à un bref exposé des faits et de la solution adoptée.
+
+<sup>4.</sup> Cette décision est transmise au Comité des Ministres qui surveille l’exécution des termes du règlement amiable tels qu’ils figurent dans la décision.
+
+[^39-1]: Nouvelle teneur selon l’art. 15 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 40
+
+**Audience publique et accès aux documents**
+
+<sup>1.</sup> L’audience est publique à moins que la Cour n’en décide autrement en raison de circonstances exceptionnelles.
+
+<sup>2.</sup> Les documents déposés au greffe sont accessibles au public à moins que le président de la Cour n’en décide autrement.
+
+#### Art. 41
+
+**Satisfaction équitable**
+
+Si la Cour déclare qu’il y a eu violation de la Convention ou de ses protocoles, et si le droit interne de la Haute Partie contractante ne permet d’effacer qu’imparfaitement les conséquences de cette violation, la Cour accorde à la partie lésée, s’il y a lieu, une satisfaction équitable.
+
+#### Art. 42
+
+**Arrêts des Chambres**
+
+Les arrêts des Chambres deviennent définitifs conformément aux dispositions de l’art. 44, par. 2.
+
+#### Art. 43
+
+**Renvoi devant la Grande Chambre**
+
+<sup>1.</sup> Dans un délai de trois mois à compter de la date de l’arrêt d’une Chambre, toute partie à l’affaire peut, dans des cas exceptionnels, demander le renvoi de l’affaire devant la Grande Chambre.
+
+<sup>2.</sup> Un collège de cinq juges de la Grande Chambre accepte la demande si l’affaire soulève une question grave relative à l’interprétation ou à l’application de la Convention ou de ses protocoles, ou encore une question grave de caractère général.
+
+<sup>3.</sup> Si le collège accepte la demande, la Grande Chambre se prononce sur l’affaire par un arrêt.
+
+#### Art. 44
+
+**Arrêts définitifs**
+
+<sup>1.</sup> L’arrêt de la Grande Chambre est définitif.
+
+<sup>2.</sup> L’arrêt d’une Chambre devient définitif
+
+- a) lorsque les parties déclarent qu’elles ne demanderont pas le renvoi de l’affaire devant la Grande Chambre; ou
+- b) trois mois après la date de l’arrêt, si le renvoi de l’affaire devant la Grande Chambre n’a pas été demandé; ou
+- c) lorsque le collège de la Grande Chambre rejette la demande de renvoi formulée en application de l’art. 43.
+
+<sup>3.</sup> L’arrêt définitif est publié.
+
+#### Art. 45
+
+**Motivation des arrêts et décisions**
+
+<sup>1.</sup> Les arrêts, ainsi que les décisions déclarant des requêtes recevables ou irrecevables, sont motivés.
+
+<sup>2.</sup> Si l’arrêt n’exprime pas en tout ou en partie l’opinion unanime des juges, tout juge a le droit d’y joindre l’exposé de son opinion séparée.
+
+#### Art. 46
+
+**Force obligatoire et exécution des arrêts**[^46-1]
+
+<sup>1.</sup> Les Hautes Parties contractantes s’engagent à se conformer aux arrêts définitifs de la Cour dans les litiges auxquels elles sont parties.
+
+<sup>2.</sup> L’arrêt définitif de la Cour est transmis au Comité des Ministres qui en surveille l’exécution.
+
+<sup>3.</sup> Lorsque le Comité des Ministres estime que la surveillance de l’exécution d’un arrêt définitif est entravée par une difficulté d’interprétation de cet arrêt, il peut saisir la Cour afin qu’elle se prononce sur cette question d’interprétation. La décision de saisir la Cour est prise par un vote à la majorité des deux tiers des représentants ayant le droit de siéger au Comité.
+
+<sup>4.</sup> Lorsque le Comité des Ministres estime qu’une Haute Partie contractante refuse de se conformer à un arrêt définitif dans un litige auquel elle est partie, il peut, après avoir mis en demeure cette Partie et par décision prise par un vote à la majorité des deux tiers des représentants ayant le droit de siéger au Comité, saisir la Cour de la question du respect par cette Partie de son obligation au regard du par. 1.
+
+<sup>5.</sup> Si la Cour constate une violation du par. 1, elle renvoie l’affaire au Comité des Ministres afin qu’il examine les mesures à prendre. Si la Cour constate qu’il n’y a pas eu violation du par. 1, elle renvoie l’affaire au Comité des Ministres, qui décide de clore son examen.
+
+[^46-1]: Nouvelle teneur selon l’art. 16 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+
+#### Art. 47
+
+**Avis consultatifs**
+
+<sup>1.</sup> La Cour peut, à la demande du Comité des Ministres, donner des avis consultatifs sur des questions juridiques concernant l’interprétation de la Convention et de ses protocoles.
+
+<sup>2.</sup> Ces avis ne peuvent porter ni sur les questions ayant trait au contenu ou à l’étendue des droits et libertés définis au titre I de la Convention et dans les protocoles ni sur les autres questions dont la Cour ou le Comité des Ministres pourraient avoir à connaître par suite de l’introduction d’un recours prévu par la Convention.
+
+<sup>3.</sup> La décision du Comité des Ministres de demander un avis à la Cour est prise par un vote à la majorité des représentants ayant le droit de siéger au Comité.
+
+#### Art. 48
+
+**Compétence consultative de la Cour**
+
+La Cour décide si la demande d’avis consultatif présentée par le Comité des Ministres relève de sa compétence telle que définie par l’art. 47.
+
+#### Art. 49
+
+**Motivation des avis consultatifs**
+
+<sup>1.</sup> L’avis de la Cour est motivé.
+
+<sup>2.</sup> Si l’avis n’exprime pas en tout ou en partie l’opinion unanime des juges, tout juge a le droit d’y joindre l’exposé de son opinion séparée.
+
+<sup>3.</sup> L’avis de la Cour est transmis au Comité des Ministres.
+
+#### Art. 50
+
+**Frais de fonctionnement de la Cour**
+
+Les frais de fonctionnement de la Cour sont à la charge du Conseil de l’Europe.
+
+#### Art. 51
+
+**Privilèges et immunités des juges**
+
+Les juges jouissent, pendant l’exercice de leurs fonctions, des privilèges et immunités prévus à l’art. 40 du Statut du Conseil de l’Europe[^51-1] et dans les accords conclus au titre de cet article.
+
+[^51-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+
+## Titre III**** Dispositions diverses
+
+[^titIII-1]
+
+[^titIII-1]: Anciennement tit. V. Mise à jour selon l’art. 2 du prot. n<sup>o</sup> 11 du 11 mai 1994, approuvé par l’Ass. féd. le 12 juin 1995 et en vigueur depuis le 1<sup>er</sup> nov. 1998 ([RO 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993)[2992](https://fedlex.data.admin.ch/eli/oc/1998/2992_2992_2992); [FF 1995 I 987](https://fedlex.data.admin.ch/eli/fga/1995/1_999_987_835)).
+
+#### Art. 52
+
+**Enquêtes du Secrétaire Général**
+
+Toute Haute Partie contractante fournira sur demande du Secrétaire Général du Conseil de l’Europe les explications requises sur la manière dont son droit interne assure l’application effective de toutes les dispositions de cette Convention.
+
+#### Art. 53
+
+**Sauvegarde des droits de l’homme reconnus**
+
+Aucune des dispositions de la présente Convention ne sera interprétée comme limitant ou portant atteinte aux droits de l’homme et aux libertés fondamentales qui pourraient être reconnus conformément aux lois de toute Partie contractante ou à toute autre Convention à laquelle cette Partie contractante est partie.
+
+#### Art. 54
+
+**Pouvoirs du Comité des Ministres**
+
+Aucune disposition de la présente Convention ne porte atteinte aux pouvoirs conférés au Comité des Ministres par le Statut du Conseil de l’Europe[^54-1].
+
+[^54-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+
+#### Art. 55
+
+**Renonciation à d’autres modes de règlement des différends**
+
+Les Hautes Parties contractantes renoncent réciproquement, sauf compromis spécial, à se prévaloir des traités, conventions ou déclarations existant entre elles, en vue de soumettre, par voie de requête, un différend né de l’interprétation ou de l’application de la présente Convention à un mode de règlement autre que ceux prévus par ladite Convention.
+
+#### Art. 56
+
+**Application territoriale**
+
+<sup>1.</sup> Tout Etat peut, au moment de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire Général du Conseil de l’Europe, que la présente Convention s’appliquera, sous réserve du par. 4 du présent article, à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales.
+
+<sup>2.</sup> La Convention s’appliquera au territoire ou aux territoires désignés dans la notification à partir du trentième jour qui suivra la date à laquelle le Secrétaire Général du Conseil de l’Europe aura reçu cette notification.
+
+<sup>3.</sup> Dans lesdits territoires les dispositions de la présente Convention seront appliquées en tenant compte des nécessités locales.
+
+<sup>4.</sup> Tout Etat qui a fait une déclaration conformément au premier paragraphe de cet article, peut, à tout moment par la suite, déclarer relativement à un ou plusieurs des territoires visés dans cette déclaration qu’il accepte la compétence de la Cour pour connaître des requêtes de personnes physiques, d’organisations non gouvernementales ou de groupes de particuliers, comme le prévoit l’art. 34 de la Convention.
+
+#### Art. 57
+
+**Réserves**
+
+<sup>1.</sup> Tout Etat peut, au moment de la signature de la présente Convention ou du dépôt de son instrument de ratification, formuler une réserve au sujet d’une disposition particulière de la Convention, dans la mesure où une loi alors en vigueur sur son territoire n’est pas conforme à cette disposition. Les réserves de caractère général ne sont pas autorisées aux termes du présent article.
+
+<sup>2.</sup> Toute réserve émise conformément au présent article comporte un bref exposé de la loi en cause.
+
+#### Art. 58
+
+**Dénonciation**
+
+<sup>1.</sup> Une Haute Partie contractante ne peut dénoncer la présente Convention qu’après l’expiration d’un délai de cinq ans à partir de la date d’entrée en vigueur de la Convention à son égard et moyennant un préavis de six mois, donné par une notification adressée au Secrétaire Général du Conseil de l’Europe, qui en informe les autres Parties contractantes.
+
+<sup>2.</sup> Cette dénonciation ne peut avoir pour effet de délier la Haute Partie contractante intéressée des obligations contenues dans la présente Convention en ce qui concerne tout fait qui, pouvant constituer une violation de ces obligations, aurait été accompli par elle antérieurement à la date à laquelle la dénonciation produit effet.
+
+<sup>3.</sup> Sous la même réserve cesserait d’être Partie à la présente Convention toute Partie contractante qui cesserait d’être membre du Conseil de l’Europe.
+
+<sup>4.</sup> La Convention peut être dénoncée conformément aux dispositions des paragraphes précédents en ce qui concerne tout territoire auquel elle a été déclarée applicable aux termes de l’art. 56.
+
+#### Art. 59
+
+**Signature et ratification**
+
+<sup>1.</sup> La présente Convention est ouverte à la signature des membres du Conseil de l’Europe. Elle sera ratifiée. Les ratifications seront déposées près le Secrétaire Général du Conseil de l’Europe.
+
+<sup>2.</sup> L’Union européenne peut adhérer à la présente Convention.[^59-1]
+
+3.[^59-2] La présente Convention entrera en vigueur après le dépôt de dix instruments de ratification.
+
+4.[^59-3] Pour tout signataire qui la ratifiera ultérieurement, la Convention entrera en vigueur dès le dépôt de l’instrument de ratification.
+
+5.[^59-4] Le Secrétaire Général du Conseil de l’Europe notifiera à tous les membres du Conseil de l’Europe l’entrée en vigueur de la Convention, les noms des Hautes Parties contractantes qui l’auront ratifiée, ainsi que le dépôt de tout instrument de ratification intervenu ultérieurement.
+
+Fait à Rome, le 4 novembre 1950, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera des copies certifiées conformes à tous les signataires.
+
+[^59-1]: Introduit par l’art. 17 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^59-2]: Anciennement par. 2.
+[^59-3]: Anciennement par. 3.
+[^59-4]: Anciennement par. 4.
+
+(Suivent les signatures)
+
+Champ d’application le 23 février 2012**[^t-3]**
+
+<table>
+<tr><th colspan="2">Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td colspan="2">Albanie</td><td>2 octobre</td><td>1996</td><td>2 octobre</td><td>1996</td></tr>
+<tr><td colspan="2">Allemagne</td><td>5 décembre</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Andorre\*</td><td>22 janvier</td><td>1996</td><td>22 janvier</td><td>1996</td></tr>
+<tr><td colspan="2">Arménie\*</td><td>26 avril</td><td>2002</td><td>26 avril</td><td>2002</td></tr>
+<tr><td colspan="2">Autriche\*</td><td>3 septembre</td><td>1958</td><td>3 septembre</td><td>1958</td></tr>
+<tr><td colspan="2">Azerbaïdjan\*</td><td>15 avril</td><td>2002</td><td>15 avril</td><td>2002</td></tr>
+<tr><td colspan="2">Belgique</td><td>14 juin</td><td>1955</td><td>14 juin</td><td>1955</td></tr>
+<tr><td colspan="2">Bosnie et Herzégovine</td><td>12 juillet</td><td>2002</td><td>12 juillet</td><td>2002</td></tr>
+<tr><td colspan="2">Bulgarie</td><td>7 septembre</td><td>1992</td><td>7 septembre</td><td>1992</td></tr>
+<tr><td colspan="2">Chypre</td><td>6 octobre</td><td>1962</td><td>6 octobre</td><td>1962</td></tr>
+<tr><td colspan="2">Croatie\*</td><td>5 novembre</td><td>1997</td><td>5 novembre</td><td>1997</td></tr>
+<tr><td colspan="2">Danemark</td><td>13 avril</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Espagne\*</td><td>4 octobre</td><td>1979</td><td>4 octobre</td><td>1979</td></tr>
+<tr><td colspan="2">Estonie\*</td><td>16 avril</td><td>1996</td><td>16 avril</td><td>1996</td></tr>
+<tr><td colspan="2">Finlande\*</td><td>10 mai</td><td>1990</td><td>10 mai</td><td>1990</td></tr>
+<tr><td colspan="2">France\*</td><td>3 mai</td><td>1974</td><td>3 mai</td><td>1974</td></tr>
+<tr><td colspan="2">Géorgie</td><td>20 mai</td><td>1999</td><td>20 mai</td><td>1999</td></tr>
+<tr><td colspan="2">Grèce</td><td>28 novembre</td><td>1974</td><td>28 novembre</td><td>1974</td></tr>
+<tr><td colspan="2">Hongrie</td><td>5 novembre</td><td>1992</td><td>5 novembre</td><td>1992</td></tr>
+<tr><td colspan="2">Irlande\*</td><td>25 février</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Islande</td><td>29 juin</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Italie</td><td>26 octobre</td><td>1955</td><td>26 octobre</td><td>1955</td></tr>
+<tr><td colspan="2">Lettonie</td><td>27 juin</td><td>1997</td><td>27 juin</td><td>1997</td></tr>
+<tr><td colspan="2">Liechtenstein\*</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td colspan="2">Lituanie</td><td>20 juin</td><td>1995</td><td>20 juin</td><td>1995</td></tr>
+<tr><td colspan="2">Luxembourg</td><td>3 septembre</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Macédoine</td><td>10 avril</td><td>1997</td><td>10 avril</td><td>1997</td></tr>
+<tr><td colspan="2">Malte\*</td><td>23 janvier</td><td>1967</td><td>23 janvier</td><td>1967</td></tr>
+<tr><td colspan="2">Moldova\*</td><td>12 septembre</td><td>1997</td><td>12 septembre</td><td>1997</td></tr>
+<tr><td colspan="2">Monaco\*</td><td>30 novembre</td><td>2005</td><td>30 novembre</td><td>2005</td></tr>
+<tr><td colspan="2">Monténégro<sup>a</sup></td><td>3 mars</td><td>2004</td><td>6 juin</td><td>2006</td></tr>
+<tr><td colspan="2">Norvège</td><td>15 janvier</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Pays-Bas</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">[tab] Curaçao<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
+<tr><td colspan="2">[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
+<tr><td colspan="2">[tab] Sint Maarten<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
+<tr><td colspan="2">Pologne</td><td>19 janvier</td><td>1993</td><td>19 janvier</td><td>1993</td></tr>
+<tr><td colspan="2">Portugal\*</td><td>9 novembre</td><td>1978</td><td>9 novembre</td><td>1978</td></tr>
+<tr><td colspan="2">Roumanie</td><td>20 juin</td><td>1994</td><td>20 juin</td><td>1994</td></tr>
+<tr><td colspan="2">Royaume-Uni\*</td><td>8 mars</td><td>1951</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Akrotiri et Dhekelia<sup>\*</sup> <sup>c</sup></td><td>1<sup>er</sup> avril</td><td>2004</td><td>1<sup>er</sup> mai</td><td>2004</td></tr>
+<tr><td colspan="2">[tab] Anguilla<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Bermudes <sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Géorgie du Sud et Iles Sandwich du Sud <sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Gibraltar <sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Guernesey<sup>f</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Ile de Man<sup>g</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Iles Cayman<sup>f</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Iles Falkland<sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Iles Turques et Caïques<sup>h</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Iles Vierges britanniques<sup>i</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Jersey<sup>j</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Montserrat<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">[tab] Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td colspan="2">République tchèque\*</td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td colspan="2">Russie\*</td><td>5 mai</td><td>1998</td><td>5 mai</td><td>1998</td></tr>
+<tr><td colspan="2">Saint-Marin\*</td><td>22 mars</td><td>1989</td><td>22 mars</td><td>1989</td></tr>
+<tr><td colspan="2">Serbie</td><td>3 mars</td><td>2004</td><td>3 mars</td><td>2004</td></tr>
+<tr><td colspan="2">Slovaquie\*</td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td colspan="2">Slovénie</td><td>28 juin</td><td>1994</td><td>28 juin</td><td>1994</td></tr>
+<tr><td colspan="2">Suède</td><td>4 février</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td colspan="2">Suisse</td><td>28 novembre</td><td>1974</td><td>28 novembre</td><td>1974</td></tr>
+<tr><td colspan="2">Turquie</td><td>18 mai</td><td>1954</td><td>18 mai</td><td>1954</td></tr>
+<tr><td colspan="2">Ukraine\*</td><td>11 septembre</td><td>1997</td><td>11 septembre</td><td>1997</td></tr>
+<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
+<tr><td></td><td colspan="5">Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int/Treaty/FR/v3DefaultFRE.asp ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td><sup>a</sup></td><td colspan="5">Le 9 mai 2007 lors de sa 994<sup>e</sup> bis session le Comité des ministres du Conseil de l’Europe a décidé de considérer Monténegro comme Etat partie à cette Convention à partir du 6 juin 2006. Les signature et ratification sont celles de la «Serbie et Monténegro».</td></tr>
+<tr><td><sup>b</sup></td><td colspan="5">Renouvellement de la déclaration d’application au titre de l’art. 56.</td></tr>
+<tr><td><sup>c</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 1<sup>er</sup> mai 2004.</td></tr>
+<tr><td><sup>d</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 22 nov. 2010.</td></tr>
+<tr><td>e</td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 janv. 2006.</td></tr>
+<tr><td><sup>f</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 23 fév. 2006.</td></tr>
+<tr><td><sup>g</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 1<sup>er</sup> juin 2003.</td></tr>
+<tr><td><sup>h</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 oct. 2009.</td></tr>
+<tr><td><sup>i</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 25 sept. 2009.</td></tr>
+<tr><td><sup>j</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 janv. 2001.</td></tr>
+</table>
+
+[^t-3]: RO **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)et **2012** 1143. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).

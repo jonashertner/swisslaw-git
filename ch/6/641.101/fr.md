@@ -1,0 +1,578 @@
+---
+sr: "641.101"
+title: Ordonnance du 3 décembre 1973 sur les droits de timbre (OT)
+short: OT
+eli: "https://fedlex.data.admin.ch/eli/cc/1974/33_33_33"
+language: fr
+version: 2020-01-01
+adopted: 1973-12-03
+in_force: 1974-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/33_33_33/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1974-33_33_33-20200101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les droits de timbre
+
+(OT)
+
+du 3 décembre 1973 (Etat le 1<sup>er</sup> janvier 2020)
+
+Le Conseil fédéral suisse,
+
+vu les art. 22, let. a, et 54 de la loi fédérale du 27 juin 1973 sur les droits de timbre[^ingress-1] (loi),[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 9 mars 1998, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 961](https://fedlex.data.admin.ch/eli/oc/1998/961_961_961)).
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Administration fédérale des contributions**
+
+<sup>1</sup> L’Administration fédérale des contributions arrête les instructions générales et prend les décisions particulières qu’exige la perception des droits de timbre; elle fixe la forme et le contenu des formules pour la déclaration de la qualité de contribuable, ainsi que pour les relevés, déclarations d’impôt, registres et questionnaires.
+
+<sup>2</sup> Elle a qualité pour recourir devant le Tribunal fédéral.[^1-1]
+
+[^1-1]: Introduit par le ch. II 44 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 2
+
+**Comptabilité du contribuable**[^2-1]
+
+<sup>1</sup> Le contribuable doit organiser et tenir sa comptabilité de manière à permettre de constater et de prouver avec certitude, sans trop de difficultés, les faits déterminants pour l’assujettissement fiscal et la fixation des droits. Le commerçant de titres, qui n’est pas astreint à tenir une comptabilité en vertu du droit des obligations, doit appliquer par analogie les dispositions de l’ordonnance du 24 avril 2002 concernant la tenue et la conservation des livres de comptes[^2-2] pour tenir leur registre du droit de timbre de négociation.
+
+<sup>2</sup> Si le contribuable tient et conserve sa comptabilité par des moyens électroniques ou par des moyens analogues, la consultation de toutes les opérations et sommes essentielles du point de vue fiscal, depuis la pièce comptable originale jusqu’aux comptes annuels et relevés d’impôt, doit être garantie.
+
+<sup>3</sup> La comptabilité doit être conservée avec soin et ordre et tenue à l’abri des effets dommageables. L’Administration fédérale des contributions doit pouvoir la consulter et la contrôler dans un délai convenable.
+
+<sup>4</sup> Le contribuable mettra gratuitement à la disposition de l’Administration fédérale des contributions le personnel, les appareils et les instruments auxiliaires en tant qu’ils sont nécessaires au contrôle de la comptabilité. À la demande de l’Administration fédérale des contributions, le contribuable doit mettre à sa disposition les documents commerciaux, en tout ou en partie, imprimés sur papier.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+[^2-2]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+
+#### Art. 3
+
+**Renseignements; avis d’experts; audition**
+
+<sup>1</sup> L’Administration fédérale des contributions peut demander des renseignements écrits ou oraux, désigner des experts et convoquer le contribuable pour l’entendre.
+
+<sup>2</sup> Lorsque cela paraît indiqué, les renseignements sont consignés dans un procès-verbal établi en présence de la personne entendue; le procès-verbal doit être signé par celle-ci et par le fonctionnaire enquêteur et, le cas échéant, par le secrétaire tenant le procès-verbal.
+
+<sup>3</sup> Avant chaque audition selon l’al. 2, la personne à entendre doit être invitée à dire la vérité et rendue attentive aux conséquences de renseignements inexacts (art. 46, al. 1, let. c, de la loi).
+
+#### Art. 4
+
+**Examen des livres**
+
+<sup>1</sup> Le contribuable peut et doit même, à la demande de l’Administration fédérale des contributions, assister à l’examen des livres (art. 37, al. 2, de la loi) et donner les explications nécessaires.
+
+<sup>2</sup> L’Administration fédérale des contributions n’est pas tenue d’aviser à l’avance le contribuable qu’elle effectuera un contrôle.
+
+#### Art. 5
+
+**Exécution forcée**
+
+<sup>1</sup> L’Administration fédérale des contributions est compétente pour engager des poursuites concernant les créances de droits de timbre, intérêts, frais et amendes de la Confédération, pour produire ces créances dans une faillite, pour demander la mainlevée de l’opposition et pour prendre toutes les autres mesures propres à garantir la créance et à assurer son recouvrement.
+
+<sup>2</sup> Est réservée la compétence de l’Administration fédérale des finances pour la conservation des actes de défaut de biens et pour l’exécution d’une créance constatée par un acte de défaut de biens.
+
+#### Art. 6
+
+**Constitution de sûretés**
+
+<sup>1</sup> Les sûretés demandées selon l’art. 43 de la loi doivent être constituées par des gages, des cautionnements, des garanties ou des assurances de cautionnement, conformément à l’ordonnance du 21 juin 1957 sur la constitution de sûretés en faveur de la Confédération[^6-1].
+
+<sup>2</sup> Les sûretés fournies sont libérées dès que les droits, intérêts et frais qu’elles garantissent ont été payés ou que la cause de la garantie a disparu.
+
+<sup>3</sup> ...[^6-2]
+
+[^6-1]: [[RO 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527), [1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373)art. 19 al. 1 let. b. [RO 1986 154](https://fedlex.data.admin.ch/eli/oc/1986/154_154_154)art. 51 ch. 3]. Voir actuellement l’art. 49 de l’O du 5 avr. 2006 sur les finances de la Confédération ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^6-2]: Abrogé par le ch. 13 de l’annexe 3 à l’O du 3 fév. 1993 concernant l’organisation et la procédure des commissions fédérales de recours et d’arbitrage, avec effet au 1<sup>er</sup> mars 1993 ([RO 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+
+#### Art. 7
+
+**Radiation dans le registre du commerce**
+
+<sup>1</sup> Une société anonyme, société en commandite par actions, société à responsabilité limitée ou société coopérative ne peut être radiée du registre du commerce que si l’Administration fédérale des contributions a informé le bureau cantonal du registre du commerce que les droits de timbre dus ont été payés.
+
+<sup>2</sup> L’al. 1 est applicable à la radiation d’une autre entité juridique au sens de l’art. 2, let. a de l’ordonnance du 17 octobre 2007 sur le registre du commerce[^7-1], si l’Administration fédérale des contributions a informé le bureau cantonal du registre du commerce que l’entité juridique est devenue contribuable en vertu de la loi fédérale sur les droits de timbre.[^7-2]
+
+[^7-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^7-2]: Nouvelle teneur selon le ch. I 1 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+
+#### Art. 8
+
+**Restitution de droits non dus**
+
+<sup>1</sup> Les droits et intérêts payés, qui n’ont pas été fixés par une décision de l’Administration fédérale des contributions, sont restitués s’il est établi qu’ils n’étaient pas dus.
+
+<sup>2</sup> Lorsqu’un droit qui n’est pas dû a été transféré, la restitution est accordée seulement s’il est établi que la personne à qui le droit a été transféré sera mise au bénéfice de la restitution.
+
+<sup>3</sup> Si le requérant invoque des faits démontrant qu’un autre impôt fédéral était dû, même s’il est prescrit entre-temps, la restitution n’est accordée que pour le montant dépassant cet impôt.
+
+<sup>4</sup> Le droit à la restitution se prescrit par cinq ans dès la fin de l’année civile au cours de laquelle le paiement a été effectué.
+
+<sup>5</sup> Les dispositions de la loi et de l’ordonnance sur la perception des droits sont applicables par analogie; la demande est rejeté lorsque le requérant ne satisfait pas à ses obligations de donner des renseignements et que le droit à la restitution ne peut être déterminé sans les renseignements requis par l’Administration fédérale des contributions.
+
+## 2 Droit de timbre d’émission
+
+### 21 Droit sur les actions, sur les bons de participation et sur les parts sociales de sociétés à responsabilité limitée****
+
+[^lvl2-lvl21-1]
+
+[^lvl2-lvl21-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+
+#### Art. 9
+
+**Création de droits de participation et augmentation de leur valeur nominale**
+
+<sup>1</sup> Lorsqu’une société anonyme, une société en commandite par actions ou une société à responsabilité limitée suisse annonce au bureau cantonal du registre du commerce la création d’actions, de bons de participation ou de parts sociales ou l’augmentation de leur valeur nominale, à titre onéreux ou gratuit, la société est tenue de payer spontanément le droit à l’Administration fédérale des contributions dans les 30 jours qui suivent la fin du trimestre durant lequel les droits de participation ont été émis, selon un relevé établi sur formule officielle.[^9-1]
+
+<sup>2</sup> Le relevé doit être accompagné de l’acte authentique relatif à la création ou à l’augmentation du capital, d’un exemplaire signé des statuts ou du procès-verbal de l’assemblée générale ayant décidé la modification des statuts, de la décision du conseil d’administration relative à l’augmentation autorisée du capital, du prospectus d’émission et, en cas d’apports en nature, du contrat d’apport, du bilan d’entrée et d’une déclaration sur formule officielle concernant la valeur vénale des apports, ainsi que de l’attestation de vérification du réviseur.[^9-2]
+
+<sup>3</sup> ...[^9-3]
+
+<sup>4</sup> Toute société anonyme, société en commandite par actions ou société à responsabilité limitée suisse est tenue de remettre spontanément à l’Administration fédérale des contributions, dans les 30 jours qui suivent l’approbation du compte annuel, le rapport de gestion ou une copie signée du compte annuel (bilan, compte de pertes et profits), pour autant que la somme du bilan dépasse cinq millions de francs. Dans les autres cas, la société remet les documents sur demande de l’Administration fédérale des contributions.[^9-4]
+
+<sup>5</sup> ...[^9-5]
+
+[^9-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^9-3]: Abrogé par le ch. I de l’O du 9 mars 1998, avec effet au 1<sup>er</sup> avr. 1998 ([RO 1998 961](https://fedlex.data.admin.ch/eli/oc/1998/961_961_961)).
+[^9-4]: Nouvelle teneur selon le ch. I 1 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^9-5]: Abrogés par le ch. I de l’O du 28 oct. 1992, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+
+#### Art. 10
+
+**Versements supplémentaires; transfert de la majorité des droits de participation**
+
+<sup>1</sup> Toute société anonyme, société en commandite par actions ou société à responsabilité limitée suisse est tenue de payer spontanément le droit selon le relevé établi sur formule officielle à l’Administration fédérale des contributions dans les 30 jours, si:
+
+a. elle reçoit de ses actionnaires ou associés des versements supplémentaires au sens de l’art. 5, al. 2, let. a, de la loi;
+
+b. la majorité de ses droits de participation ont été transférés, aux conditions fixées à l’art. 5, al. 2, let. b, de la loi.[^10-1]
+
+<sup>1bis</sup>
+
+Le délai de 30 jours commence à la fin du trimestre:
+
+- a. durant lequel le versement complémentaire a été effectué: pour les cas visés à l’al. 1, let. a;
+- b. durant lequel le transfert a eu lieu: pour les cas visés à l’al. 1, let. b.[^10-2]
+
+<sup>2</sup> Le relevé doit être accompagné d’un exemplaire signé des décisions et d’une déclaration sur formule officielle concernant la valeur vénale des apports; en cas de transfert de la majorité des droits de participation, la société doit encore joindre au relevé le bilan ayant servi de base au transfert.
+
+[^10-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10-2]: Introduit par l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+### 22 Droit sur les bons de jouissance de sociétés anonymes, sociétés en commandite par actions et sociétés à responsabilité limitée
+
+#### Art. 11
+
+[^11-1]
+
+<sup>1</sup> Toute société anonyme, société en commandite par actions ou société à responsabilité limitée suisse qui décide la création de bons de jouissance est tenue d’adresser spontanément à l’Administration fédérale des contributions, dans les trente jours, un exemplaire signé de la décision.
+
+<sup>2</sup> Le droit doit être payé spontanément à l’Administration fédérale des contributions dans les 30 jours qui suivent la fin de chaque trimestre pour les bons de jouissance qui ont été émis durant cette période, selon le relevé établi sur formule officielle.[^11-2]
+
+<sup>3</sup> Le relevé doit être accompagné des décisions relatives à l’émission des bons de jouissance, et du prospectus d’émission.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^11-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+### 23 Droit sur les parts sociales et les bons de jouissance de sociétés coopératives et sur les bons de participation sociale de banques coopératives****
+
+[^lvl2-lvl23-1]
+
+[^lvl2-lvl23-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+
+#### Art. 12
+
+<sup>1</sup> Toute société coopérative suisse dont les statuts prévoient des prestations pécuniaires des associés ou la création d’un capital au moyen de parts sociales, ou de bons de jouissance est tenue de s’annoncer spontanément et sans délai à l’Administration fédérale des contributions dès son inscription au registre du commerce ou dès l’adoption de telles dispositions dans ses statuts; un exemplaire signé des statuts en vigueur doit être joint à la déclaration.
+
+<sup>1bis</sup> Les coopératives sont tenues de payer spontanément le droit à l’Administration fédérale des contributions dans les 30 jours qui suivent la conclusion de l’opération, selon le relevé établi sur formule officielle.[^12-1]
+
+<sup>2</sup> Toute société coopérative suisse est tenue de remettre spontanément à l’Administration fédérale des contributions, dans les 30 jours qui suivent l’approbation du compte annuel, le rapport de gestion ou une copie signée du compte annuel (bilan, compte de pertes et profits), pour autant que la somme du bilan dépasse cinq millions de francs. Dans les autres cas, la société remet les documents sur demande de l’Administration fédérale des contributions.[^12-2]
+
+<sup>2bis</sup> Les banques coopératives dont les statuts prévoient la levée d’un capital de participation sociale sont tenues de payer spontanément le droit à l’Administration fédérale des contributions dans les 30 jours qui suivent la fin du trimestre durant lequel la constitution ou l’augmentation du capital de participation sociale a été inscrite au registre du commerce, selon le relevé établi sur formule officielle. Pour le reste, les al. 1 et 2 s’appliquent.[^12-3]
+
+<sup>3</sup> et <sup>4</sup> ...[^12-4]
+
+[^12-1]: Introduit par l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12-2]: Nouvelle teneur selon le ch. I 1 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^12-3]: Introduit par l’annexe 1 ch. II 4 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12-4]: Abrogés par le ch. I 1 de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+
+### 24 ...
+
+#### Art. 13 à 15
+
+[^1315-1]
+
+[^1315-1]: Abrogés par le ch. I de l’O du 28 oct. 1992, avec effet au 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+
+### 25 Exonération; avoirs dans le groupe; sursis à la perception et remise du droit****
+
+[^lvl2-lvl25-1]
+
+[^lvl2-lvl25-1]: Nouvelle teneur selon le ch. I 1 de l'O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 2963](https://fedlex.data.admin.ch/eli/oc/2010/394)).
+
+#### Art. 16
+
+**Exonération**
+
+<sup>1</sup> La demande d’exonération selon l’art. 6, al. 1, let. a, c, d, f, g, j et l, de la loi doit être adressée à l’Administration fédérale des contributions. Elle doit indiquer les motifs et les moyens de preuve; les pièces invoquées comme moyens de preuve seront jointes à la demande.[^16-1]
+
+<sup>2</sup> L’Administration fédérale des contributions peut exiger du requérant les renseignements et pièces justificatives nécessaires sur tous les faits pouvant être importants pour l’exonération; si le requérant ne satisfait pas à cette obligation, la demande est rejetée.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
+
+#### Art. 16a
+
+[^16a-1]
+
+[^16a-1]: Introduit par le ch. I 1 de l'O du 18 juin 2010 ([RO 2010 2963](https://fedlex.data.admin.ch/eli/oc/2010/394)). Abrogé par le ch. I de l’O du 15 fév. 2012, avec effet au 1<sup>er</sup> mars 2012 ([RO 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
+
+#### Art. 17
+
+**Sursis à la perception et remise du droit**
+
+<sup>1</sup> La demande de sursis à la perception ou de remise de droits d’émission dus lors d’un assainissement ouvert ou tacite (art. 12 de la loi) doit être adressée à l’Administration fédérale des contributions. La demande indiquera les causes des pertes et les mesures prises et envisagées pour y remédier; elle sera accompagnée des pièces relatives à l’assainissement, telles que circulaires, comptes rendus, procès-verbaux des assemblées générales, ainsi que des rapports de gestion ou des comptes des dernières années et d’un relevé des écritures relatives à l’assainissement. Les pertes subies par les actionnaires ou associés, ainsi que leurs créances converties en droits de participation doivent être indiquées sur une formule officielle spéciale.
+
+<sup>2</sup> L’Administration fédérale des contributions peut exiger du requérant les renseignements et pièces justificatives nécessaires sur tous les faits qui pourraient être importants pour le sursis ou la remise; si le requérant ne satisfait pas à cette obligation, la demande est rejetée.
+
+<sup>3</sup> Le recours contre les décisions sur réclamation de l’Administration fédérale des contributions concernant le sursis à la perception ou la remise des droits de timbre est régi par les dispositions générales de la procédure fédérale.[^17-1]
+
+[^17-1]: Nouvelle teneur selon le ch. II 44 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 17a et 17b
+
+[^17a17b-1]
+
+[^17a17b-1]: Introduits par le ch. I de l’O du 28 oct. 1992 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)). Abrogés par le ch. I de l’O du 15 fév. 2012, avec effet au 1<sup>er</sup> mars 2012 ([RO 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
+
+## 3 Droit de timbre de négociation
+
+#### Art. 18
+
+**Début de l’assujettissement au droit**[^18-1]
+
+<sup>1</sup> L’assujettissement au droit du commerçant de titres commence au début de l’activité commerciale.
+
+<sup>2</sup> Les sociétés, les institutions de prévoyance professionnelle et de prévoyance liée ainsi que les pouvoirs publics mentionnés à l’art. 13, al. 3, let. d et f de la loi sont assujettis au droit six mois après l’expiration de l’exercice au cours duquel les conditions prévues par cette disposition se sont réalisées. Les titres dont la gérance fiduciaire est prouvée ne sont pas des actifs au sens de cette disposition en tant qu’ils figurent séparément dans le bilan à présenter à l’Administration fédérale des contributions.[^18-2]
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+
+#### Art. 19
+
+**Déclaration de la qualité de contribuable**
+
+<sup>1</sup> Le commerçant de titres doit s’annoncer spontanément à l’Administration fédérale des contributions avant le début de l’assujettissement au droit (art. 18).
+
+<sup>2</sup> La déclaration indiquera: le nom (raison sociale) et le siège de l’entreprise, ainsi que toutes les succursales en Suisse qui remplissent les conditions de l’assujettissement au droit, ou s’il s’agit d’une personne morale ou d’une société commerciale sans personnalité juridique dont le siège est à l’étranger, la raison sociale et le lieu du siège principal avec l’adresse de la succursale en Suisse; l’exercice comptable; la date du début de l’assujettissement au droit. La déclaration doit être accompagnée des pièces nécessaires au contrôle de l’assujettissement au droit (statuts, bilans, décisions relatives aux augmentations de capital, etc.).
+
+<sup>3</sup> Les modifications survenant après le début de l’assujettissement au droit en ce qui concerne les faits à déclarer ou les pièces à envoyer conformément à l’al. 2, en particulier l’ouverture de succursales, doivent être déclarées spontanément à l’Administration fédérale des contributions.
+
+#### Art. 20
+
+**Enregistrement des commerçants de titres**
+
+L’Administration fédérale des contributions enregistre les commerçants de titres et communique à chacun d’eux le numéro qui lui a été attribué.
+
+#### Art. 21
+
+**Registre des négociations**
+
+<sup>1</sup> Le commerçant de titres doit tenir un registre des négociations pour le siège principal de son entreprise et pour chaque succursale assujettie au droit. Il peut être dispensé par l’Administration fédérale des contributions de tenir un registre spécial lorsqu’il organise sa comptabilité de manière à permettre de constater et de prouver avec certitude, sans trop de difficultés, les faits déterminants pour la fixation du droit.
+
+<sup>2</sup>
+
+Le registre doit contenir, dans l’ordre indiqué, les rubriques suivantes:
+
+- 1\. date de la conclusion de l’opération;
+- 2\. nature de l’opération;
+- 3\. nombre ou valeur nominale des titres;
+- 4\. désignation des titres;
+- 5\.[^21-1] cours des titres, monnaie et cours de conversion pour les monnaies étrangères;
+- 6\.[^21-2] nom, domicile, État de résidence et numéro du commerçant de titres du vendeur et de l’acheteur;
+- 7\.
+
+  contre-valeur en monnaie suisse:
+
+  - a.
+
+    négociations soumises au droit:
+
+    - aa. titres suisses
+    - bb. titres étrangers,
+
+  - b. négociations non soumises au droit.
+
+<sup>3</sup> Chaque opération doit être inscrite au registre dans les trois jours qui suivent sa conclusion ou la réception du décompte, en tant qu’elle n’est pas exemptée du droit en vertu de l’art. 14, al. 1, let. a, b ou d à g de la loi. À la demande de l’Administration fédérale des contributions, le contribuable lui donne accès aux données des opérations qui ne doivent pas être inscrites au registre en vue de leur contrôle.[^21-3]
+
+<sup>4</sup> À moins qu’il ne s’agisse d’une simple opération d’achat ou de vente, il faut indiquer le genre de l’opération (par ex. transformation, sous-participation, report, échange) sous la rubrique «Nature de l’opération». Sous la rubrique «Nom, domicile, État de résidence et numéro de commerçant de titres du vendeur et de l’acheteur», il faut indiquer l’État de résidence ou préciser au moins si l’opération concerne la Suisse/Le Liechtenstein ou l’étranger; le domicile ne sera indiqué que si aucun droit n’est dû.[^21-4]
+
+<sup>5</sup> Pour éviter des complications disproportionnées, l’Administration fédérale des contributions peut permettre un mode d’inscription dérogeant à l’al. 2. La demande du contribuable doit être motivée et accompagnée d’un modèle.
+
+<sup>6</sup> Les contre-valeurs des négociations soumises au droit doivent être additionnées à la fin de chaque trimestre, page par page ou jour par jour.[^21-5]
+
+<sup>7</sup> Les pages du registre doivent être numérotées de façon continue; agrafées, rangées dans un classeur ou reliées, elles seront conservées pendant cinq ans après l’expiration de l’année civile au cours de laquelle la dernière inscription a été faite. Elles peuvent également être conservées sous forme électronique si les conditions énumérées à l’art. 2 sont remplies.[^21-6]
+
+<sup>8</sup> Les commerçants de titres mentionnés à l’art. 13, al. 3, let. b, ch. 2, d et f de la loi ne sont pas obligés d’inscrire au registre les opérations effectuées avec des banques suisses au sens de la loi fédérale sur les banques ni les opérations effectuées avec des commerçants suisses de titres au sens de l’art. 13, al. 3, let. b, ch. 1 de la loi, à condition qu’ils n’aient pas justifié de leur qualité de commerçant de titres lors de la conclusion de ces opérations.[^21-7]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+[^21-4]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+[^21-5]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^21-6]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+[^21-7]: Introduit par le ch. I de l’O du 28 oct. 1992 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)). Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+
+#### Art. 22
+
+**Inscription de la contre-valeur**
+
+<sup>1</sup>
+
+Peut être inscrit au registre comme contre-valeur (art. 16, al. 1, de la loi):
+
+- a. soit le cours des titres négociés indiqué dans le décompte, y compris la bonification pour intérêts courants ou pour coupons non encore détachés;
+- b. soit le montant final du décompte.
+
+<sup>2</sup> Une modification du mode d’inscription n’est admise qu’au début d’un exercice.
+
+<sup>3</sup> Une contre-valeur exprimée en monnaie étrangère doit être calculée et inscrite en francs suisses (art. 28 de la loi).
+
+<sup>4</sup> Si des titres suisses et étrangers sont liés de telle sorte qu’ils ne peuvent être négociés séparément, la contre-valeur entière doit être inscrite sous la rubrique «Titres suisses».
+
+#### Art. 23
+
+**Décompte entre commerçants de titres**[^23-1]
+
+<sup>1</sup> Les banques au sens de la loi du 8 novembre 1934 sur les banques[^23-2], la Banque nationale suisse, les contreparties centrales au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^23-3] et les centrales d’émission de lettres de gage sont considérées comme des commerçants de titres enregistrés sans qu’elles aient à justifier de cette qualité.[^23-4]
+
+<sup>2</sup> Tous les autres commerçants de titres doivent justifier de leur qualité de commerçant de titres enregistré par une déclaration à leurs contractants, sur formule officielle (carte). Ils doivent numéroter les cartes et les inscrire sur une liste spéciale (avec le nom et l’adresse du destinataire, la date de délivrance, le numéro d’ordre) qu’ils tiendront à la disposition de l’Administration fédérale des contributions.
+
+<sup>3</sup> Les commerçants de titres mentionnés à l’art. 13, al. 3, let. b, ch. 2, d et f de la loi, peuvent s’abstenir de justifier de leur qualité de commerçant de titres dans les relations commerciales qu’ils entretiennent avec des banques suisses et des commerçants suisses de titres au sens de l’art. 13, al. 3, let. b, ch. 1 de la loi (art. 21, al. 8).[^23-5]
+
+<sup>4</sup> Le contribuable doit tenir à la disposition de l’Administration fédérale des contributions les cartes qui lui ont été remises, classées dans l’ordre des numéros attribués aux commerçants de titres.
+
+[^23-1]: Nouvelle teneur selon le ch. I. de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)). Voir aussi l’al. 2 des disp. fin. de cette mod. à la fin du texte.
+[^23-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^23-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^23-4]: Nouvelle teneur selon le ch. 7 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^23-5]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+
+#### Art. 24
+
+**Relevé du droit**
+
+<sup>1</sup> Dans les trente jours suivant l’expiration de chaque trimestre de l’exercice, le contribuable doit payer spontanément à l’Administration fédérale des contributions, selon un relevé établi sur formule officielle, le droit pour les opérations conclues ou exécutées pendant cette période (art. 15, al. 1 et 2, de la loi).
+
+<sup>2</sup> Pour éviter des complications disproportionnées, l’Administration fédérale des contributions peut permettre ou instituer une procédure d’acquittement du droit dérogeant à l’al. 1.
+
+#### Art. 25
+
+**Fin de l’assujettissement au droit**
+
+<sup>1</sup> Celui qui désire abandonner son activité, ou qui estime ne plus avoir la qualité de commerçant de titres au sens de la loi, doit en informer sans délai l’Administration fédérale des contributions.
+
+<sup>2</sup> L’Administration fédérale des contributions décide, d’office ou d’après l’information reçue, si l’assujettissement cesse et à quel moment, et fixe la date à partir de laquelle la radiation de l’enregistrement en tant que commerçant de titres prend effet.
+
+<sup>3</sup> Si une société, une institution de prévoyance professionnelle et de prévoyance liée ou les pouvoirs publics rendent vraisemblable que, bientôt, ils rempliront de nouveau les conditions posées par l’art. 13, al. 3, let. d et f de la loi, ils peuvent, à leur demande, rester volontairement enregistrés en qualité de commerçants de titres, mais au maximum pendant deux ans.[^25-1]
+
+<sup>4</sup> L’intéressé doit, pour la date de radiation de son enregistrement en tant que commerçant de titres, révoquer au moyen d’une formule officielle toutes les déclarations qu’il avait remises; il en informera l’Administration fédérale des contributions et lui enverra la liste mentionnée à l’art. 23, al. 2.[^25-2]
+
+<sup>5</sup> Le relevé définitif sera adressé et les droits payés à l’Administration fédérale des contributions dans les trente jours suivant la radiation de l’enregistrement en tant que commerçant de titres.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+
+#### Art. 25a
+
+**Stock commercial du commerçant de titres professionnel**[^25a-1]
+
+<sup>1</sup> Les banques et les sociétés financières à caractère bancaire au sens de la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne[^25a-2], la Banque nationale suisse et les contreparties centrales au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^25a-3] sont des commerçants de titres professionnels au sens de l’art. 14, al. 3, de la loi.[^25a-4]
+
+<sup>2</sup> Les commerçants de titres mentionnés à l’art. 13, al. 3, let. b, ch. 1, de la loi ne peuvent prétendre à l’exonération du stock commercial que s’ils ont apporté la preuve à l’Administration fédérale des contributions qu’ils exercent professionnellement le commerce de documents imposables.
+
+<sup>3</sup> Le stock commercial, au sens de l’art. 14, al. 3, de la loi, consiste dans la totalité des titres libérés que le commerçant de titres professionnel a acquis pour son propre compte avec l’intention de les aliéner. Les titres acquis par la Banque nationale suisse pour réaliser sa politique monétaire sont considérés comme appartenant au stock commercial de la Banque nationale.
+
+<sup>4</sup>
+
+N’appartiennent pas au stock commercial les documents imposables:
+
+- a. que le commerçant de titres a fait figurer au bilan à leur prix d’achat, conformément à l’art. 665 du code des obligations[^25a-5];
+- b.[^25a-6] qui constituent des participations permanentes au sens des dispositions d’exécution de la FINMA fondées sur l’art. 42 de l’ordonnance du 30 avril 2014 sur les banques[^25a-7];
+- c.
+
+  qui ne sont pas librement et en tout temps négociables parce que, par exemple:
+
+  - 1\. ils servent de garantie ou de gage, en particulier pour les crédits lombards,
+  - 2\. ils sont détenus par le commerçant de titres pour le compte de tiers,
+  - 3\. ils incorporent un crédit commercial;
+
+- d. qui sont pris ferme par le commerçant de titres lors d’une émission.
+
+<sup>5</sup>
+
+Le commerçant de titres professionnel doit acquitter pour lui-même la moitié du droit de négociation lorsqu’il transfère:
+
+- a. des titres acquis sans droit de négociation du stock commercial dans un autre stock;
+- b. des titres d’un autre stock dans le stock commercial.
+
+[^25a-1]: Introduit par le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)).
+[^25a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^25a-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^25a-4]: Nouvelle teneur selon le ch. 7 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^25a-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25a-6]: Nouvelle teneur selon le ch. 2 de l’annexe 2 à l’O du 30 avr. 2014 sur les banques, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^25a-7]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+## 4 Droit de timbre sur les primes d’assurance
+
+#### Art. 26
+
+**Déclaration de la qualité de contribuable**
+
+<sup>1</sup> Les assureurs soumis à la surveillance de la Confédération, ainsi que les assureurs suisses ayant un statut de droit public doivent s’annoncer spontanément à l’Administration fédérale des contributions avant de pratiquer l’assurance. Les assureurs qui n’exploitent que des assurances dont les primes sont exemptées du droit (art. 22 de la loi) ne sont pas astreints à la déclaration.
+
+<sup>2</sup> La déclaration indiquera: le nom (raison sociale) et le siège de l’entreprise, ainsi que toutes les succursales en Suisse qui remplissent les conditions de l’assujettissement au droit (art. 21 s. de la loi), l’exercice comptable, le début de l’activité et les branches d’assurance auxquelles s’étend l’exploitation.
+
+<sup>3</sup> Les modifications survenant après le début de l’assujettissement au droit en ce qui concerne les faits à déclarer conformément à l’al. 2, doivent être annoncés spontanément à l’Administration fédérale des contributions.
+
+<sup>4</sup> Le preneur d’assurance suisse qui conclut avec un assureur étranger non soumis à la surveillance de la Confédération des contrats dont les primes sont frappées du droit s’annoncera spontanément à l’Administration fédérale des contributions, après la conclusion du contrat. La déclaration indiquera le nom et l’adresse du preneur d’assurance, la branche d’assurance, l’assureur étranger et la date d’échéance de la prime.
+
+#### Art. 26a
+
+**Assurance sur la vie susceptible de rachat**[^26a-1]
+
+<sup>1</sup> Sont considérées comme des assurances sur la vie susceptibles de rachat au sens de l’art. 22, let. a, de la loi, les assurances sur la vie pour lesquelles la réalisation de l’événement assuré est certaine. En font notamment partie l’assurance mixte, l’assurance décès vie entière et l’assurance de rentes avec restitution de prime.
+
+<sup>2</sup> Lorsqu’un contrat combine une assurance susceptible de rachat et une assurance non susceptible de rachat, seule est soumise au droit de timbre la prime de l’assurance susceptible de rachat qui est indiquée séparément dans le contrat.
+
+[^26a-1]: Introduit par le ch. I de l’O du 9 mars 1998, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 961](https://fedlex.data.admin.ch/eli/oc/1998/961_961_961)).
+
+#### Art. 26b
+
+**Versement périodique des primes**[^26b-1]
+
+<sup>1</sup>
+
+Sont considérées comme des assurances sur la vie susceptibles de rachat dont le paiement des primes est périodique au sens de l’art. 22, let. a, de la loi, les assurances qui sont financées par des primes annuelles d’un montant pratiquement égal, réparties sur toute la durée du contrat. Tombent aussi dans cette catégorie:
+
+- a. les assurances dont les primes croissent régulièrement;
+- b. les assurances dont les primes sont indexées;
+- c. les assurances pour lesquelles la prime annuelle la plus élevée convenue pour les cinq premières années du contrat n’excède pas de plus de 20 % la prime la moins élevée;
+- d. les assurances décès vie entière à durée réduite du paiement des primes.
+
+<sup>2</sup>
+
+Il n’y a pas paiement périodique des primes au sens de l’art. 22, let. a, de la loi en particulier:
+
+- a. lorsque la durée du contrat est inférieure à cinq ans ou
+- b.
+
+  lorsque, en dépit du paiement périodique des primes convenu par contrat, il n’y a pas eu paiement de cinq primes annuelles durant les cinq premières années de la durée du contrat, à moins:
+
+  - 1\. que l’obligation de payer les primes n’ait cessé en raison du décès ou de l’invalidité de la personne assurée ou
+  - 2\. que la valeur de règlement (valeur de rachat, y compris les participations aux excédents) ne soit inférieure à la somme des primes payées.
+
+[^26b-1]: Introduit par le ch. I de l’O du 9 mars 1998, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 961](https://fedlex.data.admin.ch/eli/oc/1998/961_961_961)).
+
+#### Art. 27
+
+**Assurance de corps de véhicule**
+
+<sup>1</sup> Est considérée comme assurance de corps de véhicule au sens des art. 22, let. k, et 24, al. 1, de la loi, toute assurance contre le risque de dommages quelconques causés au véhicule ou le risque de vol de celui-ci.
+
+<sup>2</sup> La prime de l’assurance de corps des aéronefs n’est pas soumise au droit, conformément à l’art. 22, let. k, de la loi, lorsque le poids de l’aéronef dépasse 5 700 kg.
+
+#### Art. 28
+
+**Relevé du droit**
+
+<sup>1</sup> Dans les 30 jours après l’expiration de chaque trimestre de l’exercice, l’assureur doit payer spontanément à l’Administration fédérale des contributions, selon un relevé établi sur formule officielle, le droit pour les primes encaissées pendant cette période (art. 23 de la loi); le relevé indiquera séparément le montant des primes pour les différentes branches d’assurance. La répartition suivant les branches d’assurance s’étend aussi aux assurances combinées lorsque les éléments composant la prime font l’objet de taux différents. Lorsque la facture de prime d’assurance inclut des créances qui relèvent d’obligations légales d’un canton ou de la Confédération et qui ne font pas partie de la prime d’assurance, elles doivent être indiquées et nommées de façon univoque et séparée; lorsque cette exigence n’est pas remplie le droit de timbre est dû sur le montant total.[^28-1]
+
+<sup>2</sup> Si une assurance est entreprise en commun par plusieurs assureurs (coassurance), chaque assureur doit payer le droit selon l’al. 1 pour la partie de la prime qui le concerne. Toutefois, si tous les participants au contrat de coassurance sont des assureurs soumis à la surveillance de la Confédération ou des assureurs suisses de droit public, l’apériteur de la coassurance doit acquitter la totalité du droit.[^28-2]
+
+<sup>3</sup> Dans les trente jours suivant l’expiration de chaque trimestre, le preneur d’assurance suisse assujetti au droit (art. 25, 2<sup>e</sup> phrase, de la loi) doit le payer spontanément à l’Administration fédérale des contributions, au moyen d’une formule officielle, pour les primes versées pendant cette période.
+
+<sup>4</sup> Pour éviter des complications disproportionnées, l’Administration fédérale des contributions peut permettre ou instituer une procédure d’acquittement du droit dérogeant aux al. 1 et 3.
+
+[^28-1]: Nouvelle teneur selon le ch. I 1 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+
+## 5 Dispositions transitoires
+
+#### Art. 29 et 30
+
+[^2930-1]
+
+[^2930-1]: Abrogés par le ch. I de l’O du 24 mai 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2349](https://fedlex.data.admin.ch/eli/oc/2006/359)).
+
+#### Art. 30a
+
+**Assurances sur la vie**[^30a-1]
+
+Le droit grevant les primes des assurances sur la vie susceptibles de rachat sera perçu sur les assurances dont le début est postérieur au 31 mars 1998.
+
+[^30a-1]: Introduit par le ch. I de l’O du 9 mars 1998, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 961](https://fedlex.data.admin.ch/eli/oc/1998/961_961_961)).
+
+## 6 Dispositions finales
+
+#### Art. 31
+
+**Abrogation de dispositions en vigueur**
+
+Sont abrogés:
+
+dès le 1<sup>er</sup> juillet 1974:
+
+- – l’ordonnance d’exécution des lois fédérales concernant les droits de timbre, du 7 juin 1928[^31-1], à l’exception des art. 75 à 83;
+- – l’ordonnance d’exécution de la loi fédérale du 24 juin 1937 complétant et modifiant la législation fédérale sur les droits de timbre, du 1<sup>er</sup> octobre 1937[^31-2];
+
+dès le 1<sup>er</sup> janvier 1975:
+
+- – les art. 75 à 83 de l’ordonnance d’exécution des lois fédérales concernant les droits de timbre, du 7 juin 1928[^31-3].
+
+[^31-1]: [RS **6** 136; [RO 1954 1167](https://fedlex.data.admin.ch/eli/oc/1954/1145_1167_1067)ch. I, [1958 371](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)disp. trans. art. 7 al. 1, **1966** 385 art. 71 al. 1 1749]
+[^31-2]: [RS **6** 173; [RO 1954 1167](https://fedlex.data.admin.ch/eli/oc/1954/1145_1167_1067)ch. II [1202](https://fedlex.data.admin.ch/eli/oc/1954/_1202_)]
+[^31-3]: [RS **6** 136; [RO 1954 1167](https://fedlex.data.admin.ch/eli/oc/1954/1145_1167_1067)ch. I, [1958 371](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)disp. trans. art. 7 al. 1, **1966** 385 art. 71 al. 1 1749]
+
+#### Art. 32
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur:
+
+le 1<sup>er</sup> juillet 1974, pour les art. 1 à 25 et 29 à 31;
+
+le 1<sup>er</sup> janvier 1975, pour les art. 26 à 28.
+
+## Dispositions finales de la modification du 28 octobre 1992****
+
+[^u1-1]
+
+[^u1-1]: [RO 1993 228](https://fedlex.data.admin.ch/eli/oc/1993/228_228_228)
+
+<sup>1</sup> Les déclarations relatives à la qualité de commerçant de titres qui ont été remises avant l’entrée en vigueur de la présente modification ne sont plus valables à partir du 1<sup>er</sup> avril 1993.
+
+<sup>2</sup> Outre les banques et les centrales d’émission de lettres de gage mentionnées à l’art. 23, al. 1, le commerçant de titres ne peut considérer comme commerçants de titres que les contreparties qui lui prouvent qu’elles ont été enregistrées en tant que contribuables, conformément à la modification du 4 octobre 1991[^u1-2] de la loi.
+
+<sup>3</sup> Pour les sociétés mentionnées à l’art. 13, al. 3, let. d, de la loi, l’obligation d’acquitter le droit de négociation commence le 1<sup>er</sup> avril 1993, pour autant que leur dernier bilan établi avant le 30 septembre 1992 ou à cette date, se compose pour plus de 10 millions de francs de documents imposables.
+
+[^u1-2]: [RO 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222)
+
+## Disposition transitoire de la modification du 18 juin 2010****
+
+[^u2-1]
+
+[^u2-1]: [RO 2010 2963](https://fedlex.data.admin.ch/eli/oc/2010/394)
+
+Les dispositions modifiées s’appliquent aux prestations imposables échéant après le 31 juillet 2010.

@@ -1,0 +1,211 @@
+---
+sr: "745.2"
+title: Loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics (LOST)
+short: LOST
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/565"
+language: fr
+version: 2018-01-01
+adopted: 2010-06-18
+in_force: 2011-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/565/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-565-20180101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/565/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur les organes de sécurité des entreprises de transports publics
+
+(LOST)
+
+du 18 juin 2010 (Etat le 1<sup>er</sup> janvier 2018)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu les art. 57, al. 2, 87 et 92 de la Constitution[^ingress-1], vu le rapport de la Commission des transports et télécommunications du Conseil national du 3 novembre 2009[^ingress-2], vu l’avis du Conseil fédéral du 27 janvier 2010[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156)
+[^ingress-3]: [FF 2010 845](https://fedlex.data.admin.ch/eli/fga/2010/158)
+
+#### Art. 1
+
+**Objet et champ d’application**
+
+<sup>1</sup> La présente loi régit les tâches et les compétences des organes de sécurité des entreprises de transports publics.
+
+<sup>2</sup>
+
+Les entreprises de transport au sens de la présente loi sont:
+
+- a. les entreprises ferroviaires qui disposent d’une concession au sens de l’art. 5 ou d’une autorisation au sens de l’art. 9 de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^1-1];
+- b. les entreprises ferroviaires ainsi que les entreprises de transport à câbles, de trolleybus, d’autobus et de navigation qui disposent d’une concession au sens de l’art. 6 de la loi du 20 mars 2009 sur le transport de voyageurs[^1-2].
+
+[^1-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^1-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+
+#### Art. 2
+
+**Organes de sécurité**
+
+<sup>1</sup> Les entreprises de transport entretiennent les organes de sécurité nécessaires pour protéger les voyageurs, les employés, les marchandises transportées, l’infrastructure et les véhicules ainsi que pour garantir une exploitation régulière.
+
+<sup>2</sup> Il existe deux types d’organes de sécurité: le service de sécurité et la police des transports.
+
+<sup>3</sup>
+
+La police des transports se distingue du service de sécurité:
+
+- a. par des tâches supplémentaires (art. 3, al. 2);
+- b. par des compétences supplémentaires (art. 4, al. 2);
+- c. par l’assermentation de son personnel (al. 5);
+- d. par le port obligatoire de l’uniforme (al. 6).
+
+<sup>4</sup> L’entreprise de transport fait intervenir les organes de sécurité en fonction des risques.
+
+<sup>5</sup> Le personnel de la police des transports est assermenté.
+
+<sup>6</sup> La police des transports opère en principe en uniforme.
+
+<sup>7</sup> Le Conseil fédéral définit la formation initiale et continue, l’équipement et l’arme-ment des organes de sécurité.
+
+#### Art. 3
+
+**Tâches des organes de sécurité**
+
+<sup>1</sup>
+
+Les organes de sécurité assument les tâches suivantes:
+
+- a. veiller au respect des prescriptions de transport et d’utilisation;
+- b. assister les organes responsables de la poursuite des infractions aux dispositions pénales de la Confédération, dans la mesure où ces infractions peuvent avoir des répercussions sur la sécurité des voyageurs, des employés, des marchandises transportées, de l’infrastructure ou des véhicules ou sur la régularité de l’exploitation.
+
+<sup>2</sup> La police des transports assiste par ailleurs en seconde priorité les organes responsables de la poursuite d’autres infractions aux dispositions pénales de la Confédération, s’ils en font la demande et que le plan de service le permet.
+
+<sup>3</sup> Les entreprises de transport qui gèrent une police des transports peuvent assumer des tâches de police aérienne sur mandat de l’Office fédéral de la police. Dans ce cas, l’affectation du personnel est régie par les prescriptions du droit aérien. La responsabilité est régie par les art. 1 à 18 de la loi du 14 mars 1958 sur la responsabilité[^3-1].[^3-2]
+
+[^3-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^3-2]: Introduit par le ch. 3 de l’annexe à la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+
+#### Art. 4
+
+**Compétences des organes de sécurité**
+
+<sup>1</sup>
+
+Le service de sécurité et la police des transports ont les compétences suivantes:
+
+- a. interroger des personnes et contrôler leurs documents d’identité;
+- b. interpeller, contrôler et exclure du transport les personnes dont le comportement n’est pas conforme aux prescriptions;
+- c. requérir des sûretés des personnes dont le comportement n’est pas conforme aux prescriptions.
+
+<sup>2</sup>
+
+La police des transports a en outre les compétences suivantes:
+
+- a. arrêter provisoirement des personnes interpellées;
+- b. confisquer des objets.
+
+<sup>3</sup> Les personnes arrêtées provisoirement et les objets confisqués sont remis sans délai à la police.
+
+<sup>4</sup> Une personne utilisant illégalement une prestation de transport ne peut être arrêtée provisoirement que si elle ne peut ni établir son identité ni fournir la sûreté demandée.
+
+<sup>5</sup> La contrainte policière ne peut être appliquée que dans la mesure nécessaire pour exercer l’interpellation, le contrôle, l’exclusion du transport ou l’arrestation provisoire. L’usage de menottes ou de liens est autorisé lorsqu’une personne qui a commis un crime ou un délit est arrêtée provisoirement en vue d’être remise à la police.
+
+<sup>6</sup> La loi du 20 mars 2008 sur l’usage de la contrainte[^4-1] est applicable dans la mesure où la présente loi prévoit l’usage de la contrainte policière ou de mesures policières.
+
+[^4-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+
+#### Art. 5
+
+**Organisation**
+
+<sup>1</sup> Les entreprises de transport peuvent instaurer des organes de sécurité communs dans le cadre de conventions d’exploitation.
+
+<sup>2</sup> L’entreprise de transport qui gère une police des transports propose ses prestations aux autres entreprises de transport à des conditions comparables. En cas de litige, l’Office fédéral des transports statue sur les coûts.
+
+<sup>3</sup> Les entreprises de transport peuvent demander à l’Office fédéral des transports l’autorisation de confier les tâches des services de sécurité à une organisation privée qui a son siège en Suisse et est majoritairement en mains suisses. L’autorisation est accordée lorsque l’organisation garantit le respect des prescriptions. Les entreprises de transport gardent la responsabilité de l’accomplissement réglementaire des tâches transférées.
+
+#### Art. 6
+
+**Traitement des données**
+
+<sup>1</sup>
+
+Les organes de sécurité peuvent traiter les données suivantes pour accomplir leurs tâches:
+
+- a. indications permettant d’identifier une personne;
+- b.[^6-1] indications sur les infractions qu’une personne a commises contre les dispositions relatives à la protection des voyageurs, des employés, des marchandises transportées, de l’infrastructure et des véhicules ainsi qu’à la régularité de l’exploitation d’une entreprise de transport.
+
+<sup>2</sup> Si les tâches des services de sécurité sont confiées à une organisation privée conformément à l’art. 5, al. 3, les systèmes de traitement des données doivent être séparés sur les plans physique et logique des autres systèmes de traitement des données de l’organisation.
+
+<sup>3</sup> Les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^6-2], notamment les art. 16 à 25<sup>bis</sup> et 27, sont applicables au surplus.
+
+[^6-1]: Rectifiée par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 7
+
+**Collaboration avec les autorités de police**
+
+<sup>1</sup> Les autorités de police peuvent fournir des données personnelles à la police des transports lorsque cette communication est dans l’intérêt de la personne concernée et que cette dernière a donné son accord ou que les circonstances permettent de le présumer.
+
+<sup>2</sup> Les autorités de police peuvent aussi fournir des données personnelles à la police des transports sans l’accord de la personne concernée afin d’éviter un grave danger immédiat.
+
+<sup>2bis</sup> Les autorités de police fournissent des données personnelles à la police des transports lorsque la personne concernée a été tenue de donner son identité.[^7-1]
+
+<sup>3</sup> A la demande de la police des transports, les autorités de police lui indiquent si une personne donnée doit leur être remise.
+
+<sup>4</sup> Lorsqu’elles requièrent la participation des organes de sécurité, les autorités de police leur fournissent toutes les informations nécessaires.
+
+<sup>5</sup> Les organes de sécurité transmettent aux autorités de police fédérales et cantonales compétentes toutes les informations dont ils disposent concernant des infractions.
+
+<sup>6</sup> Le Conseil fédéral règle les modalités de la collaboration.
+
+[^7-1]: Introduit par le ch. 5 de l’annexe à la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+
+#### Art. 8
+
+**Surveillance**
+
+L’Office fédéral des transports est l’autorité de surveillance des organes de sécurité.
+
+#### Art. 9
+
+**Désobéissance**
+
+<sup>1</sup> Quiconque refuse d’obtempérer aux ordres d’une personne visiblement chargée de tâches de sécurité est puni d’une amende de 10 000 francs au plus.
+
+<sup>2</sup> La poursuite et le jugement des infractions de cette nature incombent aux cantons.
+
+#### Art. 10
+
+**Poursuite d’office**
+
+Les infractions réprimées par le code pénal[^10-1] et commises envers des personnes chargées de tâches liées à la sécurité dans l’exercice de leur fonction sont poursuivies d’office.
+
+[^10-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 11
+
+**Abrogation et modification du droit en vigueur**
+
+<sup>1</sup> La loi fédérale du 18 février 1878 concernant la police des chemins de fer[^11-1] est abrogée.
+
+<sup>2</sup> …[^11-2]
+
+[^11-1]: [RS **7** 27; [RO 1958 341](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 al. 1 ch. 8, al. 3, [1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)art. 53 ch. 5, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 23]
+[^11-2]: Les mod. peuvent être consultées au [RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565).
+
+#### Art. 12
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Date de l’entrée en vigueur : 1<sup>er</sup> octobre 2011[^12-1]
+
+[^12-1]: ACF du 17 août 2011

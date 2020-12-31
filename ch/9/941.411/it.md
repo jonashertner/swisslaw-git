@@ -1,0 +1,2641 @@
+---
+sr: "941.411"
+title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
+short: OEspl
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
+language: it
+version: 2021-01-01
+adopted: 2000-11-27
+in_force: 2001-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli esplosivi
+
+(OEspl)
+
+del 27 novembre 2000 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 34*a* e 42 della legge federale del 25 marzo 1977[^ingress-1] sugli esplosivi (Lespl[^ingress-2]); visto l’articolo 40 della legge federale del 13 marzo 1964[^ingress-3] sul lavoro; visto l’articolo 83 della legge federale del 20 marzo 1981[^ingress-4] sull’assicurazione contro gli infortuni (LAINF); in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC);
+
+nonché in esecuzione della Convenzione del 1° marzo 1991[^ingress-6] sul contrassegno di esplosivi plastici ed in foglie ai fini del rilevamento,
+
+ordina:
+
+[^ingress-1]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^ingress-2]: Nuova espr. giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^ingress-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^ingress-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: [RS 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
+
+## Titolo 1: Campo d’applicazione e definizioni
+
+#### Art. 1
+
+**Rapporto con le legislazioni sui prodotti chimici e la protezione dell’ambiente**[^1-1]
+
+<sup>1</sup> Gli esplosivi e i pezzi pirotecnici vanno imballati e contrassegnati unicamente secondo le prescrizioni della presente ordinanza, indipendentemente dalla pericolosità per la salute e per l’ambiente delle sostanze che contengono; sono eccettuati i pezzi pirotecnici per la produzione di gas tossici, nebbie o polveri. La distruzione e lo smaltimento sono retti dagli articoli 107–109 della presente ordinanza.
+
+<sup>2</sup> Sono fatte salve le prescrizioni dell’ordinanza del 5 giugno 2015[^1-2] sui prodotti chimici e dell’ordinanza del 27 febbraio 1991[^1-3] sulla protezione contro gli incidenti rilevanti.[^1-4]
+
+[^1-1]: Nuovo testo giusta il n. II 22 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^1-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^1-3]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^1-4]: Nuovo testo giusta l’all. 6 n. 8 dell’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+
+#### Art. 1a
+
+**Definizioni**[^1a-1]
+
+<sup>1</sup>
+
+Ai sensi della presente ordinanza s’intende per:
+
+- a. *sicurezza:* la sicurezza che garantisce protezione a persone e cose e limita le conseguenze di un eventuale incidente, quando si utilizzano esplosivi in modo conforme alla loro destinazione;
+- b. *esplosivi:* esplosivi e polvere da sparo ai sensi degli articoli 4 e 7*a* LEspl;
+- c. *fuochi d’artificio:* i pezzi pirotecnici da spettacolo (categorie F1–F4[^1a-2]);
+- d. *fuochi d’artificio professionali:* i fuochi d’artificio della categoria F4;
+- e.[^1a-3] *messa a disposizione sul mercato:* la fornitura di esplosivi o pezzi pirotecnici per la distribuzione o l’uso nel mercato svizzero nel quadro di un’attività commerciale, a titolo oneroso o gratuito; i fuochi d’artificio prodotti da un fabbricante per uso proprio, a cui è stata rilasciata un’autorizzazione di fabbricazione, non sono considerati come messi a disposizione sul mercato svizzero;
+- [tab] e<sup>bis</sup>.[^1a-4]*immissione sul mercato:* la prima messa a disposizione sul mercato svizzero di esplosivi o pezzi pirotecnici;
+- f. *commercio al dettaglio:* la vendita libera di fuochi d’artificio delle categorie F1–F3 agli utilizzatori;
+- g. *persona con conoscenze specialistiche:* persona titolare di un permesso d’uso ai sensi dell’articolo 14 capoverso 2 LEspl.
+
+<sup>2</sup> Per il resto, si applicano le definizioni degli articoli 2 della direttiva 2014/28/UE[^1a-5], 3 della direttiva 2013/29/UE[^1a-6] e 2 della direttiva 2008/43/CE[^1a-7]. In luogo delle definizioni di cui all’articolo 2 punti 15–17 della direttiva 2014/28/UE e all’articolo 3 punti 14–16 della direttiva 2013/29/UE si applicano le definizioni della legislazione in materia di sicurezza dei prodotti e di accreditamento. Si applicano inoltre le equivalenze terminologiche riportate nell’allegato 15.[^1a-8]
+
+[^1a-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^1a-2]: Nuove espressioni giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1a-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^1a-4]: Introdotta dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^1a-5]: Direttiva 2014/28/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato e al controllo degli esplosivi per uso civile (rifusione), versione della GU L 96 del 29.3.2014, pag. 1.
+[^1a-6]: Direttiva 2013/29/UE del Parlamento europeo e del Consiglio, del 12 giugno 2013, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato di articoli pirotecnici (rifusione), versione della GU L 178 del 28.6.2013, pag. 27.
+[^1a-7]: Direttiva 2008/43/CE della Commissione, del 4 aprile 2008, relativa all’istituzione, a norma della direttiva 93/15/CEE del Consiglio, di un sistema di identificazione e tracciabilità degli esplosivi per uso civile, GU L 94 del 5.4.2008, pag. 8; modificata da ultimo dalla direttiva 2012/4/UE, GU L 50 del 23.2.2012, pag. 18.
+[^1a-8]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 2
+
+**Materie esplosive**
+
+Sono considerate materie esplosive in particolare:
+
+- a. i composti puri come pentrite, trinitrotoluolo ed esogeno;
+- b. i miscugli esplosivi come la polvere nera da mina (polvere esplosiva), le materie esplosive contenenti nitroglicerina o nitroglicolo, quelle contenenti nitrato d’ammonio, gelatine esplosive ed emulsioni esplosive;
+- c. gli innescanti come l’azoditrato di piombo e lo stifnato di piombo;
+- d. le micce detonanti.
+
+#### Art. 3
+
+**Mezzi d’innesco per brillamenti**
+
+<sup>1</sup> Sono considerati mezzi d’innesco in particolare le capsule detonanti, i detonatori (come quelli elettrici, elettronici e non elettrici), i detonatori a scoppio ritardato nonché le micce di sicurezza e i tubi detonanti.
+
+<sup>2</sup> Le micce detonanti possono essere utilizzate anche come mezzo d’innesco.
+
+#### Art. 4
+
+**Materie e mezzi d’innesco messi a disposizione sul mercato per scopi diversi dal brillamento**[^4-1]
+
+I requisiti di cui agli articoli 8–23 non sono applicabili alle materie giusta l’articolo 2 e ai mezzi d’innesco che sono messi a disposizione sul mercato per scopi diversi dal brillamento.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 5
+
+**Pezzi pirotecnici**
+
+<sup>1</sup> I pezzi pirotecnici contengono almeno una carica innescante o esplosiva. La loro energia è destinata a produrre luce, calore, rumore, fumo, gas, pressione, un movimento o effetti analoghi.[^5-1]
+
+<sup>2</sup> Le cariche innescanti bruciano, quelle esplosive producono un’onda di pressione o d’urto, abbinata a uno scoppio.
+
+<sup>3</sup> Sono considerati pezzi pirotecnici anche quelli che sono utilizzati mediante un dispositivo di accensione.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 6
+
+**Pezzi pirotecnici per scopi professionali**[^6-1]
+
+<sup>1</sup> Sono considerati pezzi pirotecnici per scopi professionali i pezzi pirotecnici giusta l’articolo 7 lettera a LEspl. Essi sono classificati dal fabbricante nelle categorie T1, T2, P1, P2 o P3 secondo i criteri di cui all’allegato 1 numero 1.
+
+<sup>2</sup> I pezzi pirotecnici delle categorie T1 e P1 non possono essere forniti a persone di età inferiore ai 18 anni.
+
+<sup>3</sup> I pezzi pirotecnici delle categorie T2 e P2 possono essere forniti esclusivamente a persone con conoscenze specialistiche.
+
+<sup>4</sup> Per i pezzi pirotecnici della categoria P3 è richiesta soltanto l’autorizzazione di fabbricazione e l’autorizzazione d’importazione. A essi non si applicano le altre prescrizioni sui pezzi pirotecnici.
+
+<sup>5</sup> L’Ufficio centrale Esplosivi e Pirotecnica (UCEP) può classificare, in determinati casi, un pezzo pirotecnico in un’altra categoria se ciò è necessario per motivi di ordine pubblico, pubblica sicurezza, incolumità delle persone o protezione ambientale.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 7
+
+**Fuochi d’artificio**[^7-1]
+
+<sup>1</sup> I fuochi d’artificio sono classificati dal fabbricante nelle categorie F1–F4 secondo i criteri di cui all’allegato 1 numero 2.
+
+<sup>2</sup> I fuochi d’artificio della categoria F1 non possono essere forniti a persone di età inferiore ai 12 anni. Un’autorizzazione è richiesta soltanto per la loro fabbricazione e per la loro importazione. A essi non si applicano le altre prescrizioni sui pezzi pirotecnici.
+
+<sup>3</sup> I fuochi d’artificio della categoria F2 non possono essere forniti a persone di età inferiore ai 16 anni.
+
+<sup>4</sup> I fuochi d’artificio della categoria F3 non possono essere forniti a persone di età inferiore ai 18 anni.
+
+<sup>5</sup> I fuochi d’artificio della categoria F4 sono destinati unicamente a un uso professionale. Essi possono essere utilizzati esclusivamente da persone con conoscenze specialistiche. Non possono essere venduti nel commercio al dettaglio.
+
+<sup>6</sup> L’UCEP può classificare, in determinati casi, un fuoco d’artificio in un’altra categoria se ciò è necessario per motivi di ordine pubblico, pubblica sicurezza, incolumità delle persone o protezione ambientale.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 7a
+
+**Obblighi**[^7a-1]
+
+<sup>1</sup> Gli obblighi degli operatori economici sono disciplinati dagli articoli 5–8 e dagli allegati II e III, cui fanno riferimento, della direttiva 2014/28/UE[^7a-2] nonché dagli articoli 8, 12 e 13 e dagli allegati I e II, cui fanno riferimento, della direttiva 2013/29/UE[^7a-3], sempreché non derivino dalla presente ordinanza. L’UCEP svolge la funzione di autorità nazionale competente.
+
+<sup>2</sup> L’obbligo di apporre la marcatura CE non è applicabile. Le eventuali marcature CE già apposte possono essere mantenute sempreché siano conformi alle norme dell’UE.
+
+<sup>3</sup>
+
+Un importatore o un distributore è considerato un fabbricante ai sensi della presente ordinanza ed è soggetto agli obblighi del fabbricante quando:
+
+- a. immette sul mercato esplosivi o pezzi pirotecnici con il proprio nome o marchio commerciale; o
+- b. modifica gli esplosivi o i pezzi pirotecnici già immessi sul mercato in modo tale da poterne condizionare la conformità alle prescrizioni della presente ordinanza.
+
+[^7a-1]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^7a-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^7a-3]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+
+## Titolo 2: Requisiti concernenti gli esplosivi e i pezzi pirotecnici
+
+### Capitolo 1: Esplosivi
+
+#### Art. 8
+
+**Condizioni per la messa a disposizione sul mercato [^8-1]**
+
+<sup>1</sup>
+
+Gli esplosivi possono essere messi a disposizione sul mercato se:[^8-2]
+
+- a.[^8-3] sono conformi ai requisiti essenziali di sicurezza di cui all’allegato II della direttiva 2014/28/UE[^8-4];
+- b. sono conformi ai requisiti in materia d’identificazione e di tracciabilità di cui all’allegato 14;
+- c. adempiono le condizioni di cui agli articoli 18–23.[^8-5]
+
+<sup>2</sup>
+
+Le disposizioni del presente capitolo non si applicano:
+
+- a.[^8-6] agli esplosivi utilizzati in quantità limitata a fini scientifici, di ricerca, di sviluppo o di prova;
+- b. a eccezione dell’articolo 19, agli esplosivi destinati a essere utilizzati dalla polizia;
+- c. [^8-7] ...
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^8-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^8-4]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^8-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-6]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-7]: Abrogata dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogato dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 10
+
+**Norme tecniche**[^10-1]
+
+Le norme tecniche atte a concretare i requisiti essenziali di cui all’allegato II della direttiva 2014/28/UE[^10-2] sono definite conformemente all’articolo 6 della legge del 12 giugno 2009[^10-3] sulla sicurezza dei prodotti. L’UCEP definisce queste norme d’intesa con la Segreteria di Stato dell’economia (SECO).
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^10-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^10-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 11
+
+**Dichiarazione di conformità**
+
+<sup>1</sup> Chi mette a disposizione sul mercato esplosivi deve poter esibire una dichiarazione di conformità dalla quale risulta che gli esplosivi sono conformi ai requisiti essenziali di cui all’allegato II della direttiva 2014/28/UE[^11-1].[^11-2]
+
+<sup>2</sup>
+
+La dichiarazione di conformità è redatta in una lingua ufficiale svizzera o in inglese e contiene le seguenti indicazioni:
+
+- a. il nome o la sigla d’identificazione e l’indirizzo del fabbricante nonché il nome e l’indirizzo dell’importatore;
+- b. una descrizione circostanziata dell’esplosivo con i dati per l’identificazione, compreso il numero d’identificazione delle Nazioni Unite[^11-3];
+- c. le prescrizioni, le norme o altre specificazioni tecniche applicate;
+- d. eventualmente la dichiarazione di concordanza con l’attestato di esame del tipo ai sensi dell’articolo 14 lettera a;
+- e. il nome e l’indirizzo della persona che firma la dichiarazione di conformità in nome del fabbricante o dell’importatore.
+
+<sup>3</sup> Se gli esplosivi sottostanno a più normative richiedenti ciascuna una dichiarazione di conformità, è possibile redigere una sola dichiarazione.
+
+<sup>4</sup> La dichiarazione di conformità deve poter essere esibita per dieci anni dall’ultima data di immissione sul mercato del prodotto.[^11-4]
+
+[^11-1]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^11-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^11-3]: Figura nell’all. A dell’Acc. europeo del 30 set. 1957 relativo al trasporto internazionale su strada delle merci pericolose (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). L’all. A dell’ADR non è pubblicato nella RU. Il testo è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna.
+[^11-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 12
+
+**Adempimento dei requisiti**
+
+<sup>1</sup> La prova della conformità ai requisiti essenziali di cui all’allegato II della direttiva 2014/28/UE[^12-1] è considerata fornita quando l’esplosivo è stato certificato conforme da un organismo preposto alla valutazione della conformità ai sensi dell’articolo 15.[^12-2]
+
+<sup>2</sup> Si presume che gli esplosivi adempiano i requisiti essenziali, se sono stati fabbricati conformemente alle norme tecniche ai sensi dell’articolo 10.
+
+<sup>3</sup> Se gli esplosivi non sono conformi alle norme tecniche o lo sono soltanto parzialmente, occorre dimostrare che i requisiti essenziali sono stati adempiti in altro modo.
+
+<sup>4</sup> Su richiesta, i fabbricanti e gli importatori devono poter esibire all’autorità che rilascia l’autorizzazione e all’autorità esecutiva la documentazione tecnica che permette di verificare l’adempimento dei requisiti essenziali.
+
+<sup>5</sup> La conformità non esonera dall’obbligo di procurarsi le necessarie autorizzazioni di fabbricazione, d’importazione o d’esportazione. Su richiesta dell’autorità che rilascia l’autorizzazione, deve poter essere presentato l’attestato di conformità rilasciato da un organismo preposto alla valutazione della conformità (art. 15).
+
+[^12-1]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^12-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 13
+
+**Documentazione tecnica**
+
+<sup>1</sup>
+
+La documentazione tecnica è redatta in una lingua ufficiale svizzera o in inglese e contiene le seguenti indicazioni:
+
+- a. una descrizione generale del modello di produzione (tipo);
+- b. i disegni di progettazione e di produzione nonché schemi di componenti, sottounità, circuiti, ecc.;
+- c. le descrizioni e le spiegazioni necessarie per comprendere detti disegni e schemi e il funzionamento del prodotto;
+- d. un elenco delle norme di cui all’articolo 10 applicate in tutto o in parte, e la descrizione delle soluzioni adottate per soddisfare i requisiti essenziali qualora dette norme non siano state applicate;
+- e. i risultati dei calcoli di progetto, degli esami effettuati, ecc.;
+- f. i rapporti sulle prove effettuate.
+
+<sup>2</sup> L’utilizzazione di un’altra lingua è ammessa, se le informazioni richieste per la valutazione della documentazione sono fornite in una lingua ufficiale svizzera o in inglese.
+
+<sup>3</sup> La documentazione tecnica va conservata per almeno dieci anni dall’ultima data di fabbricazione del prodotto.
+
+#### Art. 14
+
+**Procedure di valutazione della conformità**[^14-1]
+
+Per dimostrare la conformità degli esplosivi ai requisiti essenziali deve essere eseguita una delle seguenti procedure di cui all’allegato III della direttiva 2014/28/UE[^14-2]:
+
+- a.
+
+  esame UE del tipo (modulo B), in relazione con una delle seguenti procedure a scelta:
+
+  - 1\. conformità al tipo basata sul controllo interno della produzione unito a prove del prodotto sotto controllo ufficiale effettuate a intervalli casuali (modulo C2),
+  - 2\. conformità al tipo basata sulla garanzia della qualità del processo di produzione (modulo D),
+  - 3\. conformità al tipo basata sulla garanzia di qualità del prodotto (modulo E),
+  - 4\. conformità al tipo basata sulla verifica sul prodotto (modulo F); o
+
+- b. conformità basata sulla verifica dell’unità (modulo G).
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^14-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+
+#### Art. 15
+
+**Organismi preposti all’esame e alla valutazione della conformità**
+
+<sup>1</sup>
+
+Gli organismi preposti all’esame e alla valutazione della conformità, che redigono i rapporti o rilasciano gli attestati relativi alle procedure di cui all’articolo 14, devono essere:
+
+- a. accreditati conformemente all’ordinanza del 17 giugno 1996[^15-1] sull’accredi-tamento e sulla designazione;
+- b. riconosciuti dalla Svizzera nel quadro di accordi internazionali; oppure
+- c. altrimenti abilitati dal diritto federale.
+
+<sup>2</sup> Chi fa valere documenti rilasciati da organismi diversi da quelli elencati al capoverso 1, deve rendere credibile che la procedura seguita e la qualifica dell’organismo in questione soddisfano le esigenze svizzere secondo l’articolo 18 LOTC.
+
+[^15-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 16
+
+**Controlli susseguenti**
+
+<sup>1</sup> L’UCEP controlla a caso e a intervalli irregolari se gli esplosivi messi a disposizione sul mercato soddisfano i requisiti di conformità della presente ordinanza. A tal fine collabora con gli organi esecutivi cantonali e può fare capo a esperti.[^16-1]
+
+<sup>2</sup> Gli organi esecutivi cantonali informano immediatamente l’UCEP[^16-2] quando riscontrano esplosivi non conformi.
+
+<sup>3</sup> Per verificare la conformità, gli organi di controllo sono autorizzati, durante il normale orario di lavoro, ad accedere e a visitare senza preavviso i locali di produzione e di deposito, a consultare documenti, a raccogliere informazioni, a ordinare prove ed esami nonché a chiedere o prelevare campioni.
+
+<sup>4</sup> L’UCEP può chiedere che l’Amministrazione delle dogane gli notifichi, per un determinato periodo, l’importazione di esplosivi. Deve designarli esattamente.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^16-2]: Nuova espr. giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 17
+
+**Provvedimenti in caso di non conformità degli esplosivi[^17-1]**
+
+<sup>1</sup> Se, in base a informazioni ricevute, conclude che esplosivi messi a disposizione sul mercato non soddisfano i requisiti della presente ordinanza, l’UCEP ingiunge al fabbricante o all’importatore di rendere detti esplosivi conformi alle prescrizioni, minacciando il loro ritiro dal commercio in caso di non ottemperanza.[^17-2]
+
+<sup>2</sup> Se esplosivi non conformi rischiano di mettere in pericolo persone o cose quando sono utilizzati secondo la loro destinazione, l’UCEP prende le misure necessarie per mettere sotto sequestro gli esplosivi in questione, toglierli dalla circolazione e impedire ogni loro ulteriore rimessa in commercio.
+
+<sup>3</sup> L’UCEP è competente per fornire l’assistenza amministrativa internazionale. Informa in particolare la Commissione europea e gli Stati membri dell’UE dei provvedimenti adottati sulla base del presente articolo. Le restrizioni previste dall’articolo 22 LOTC sono applicabili.[^17-3]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^17-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 18
+
+**Contrassegno per l’identificazione**
+
+<sup>1</sup> L’esplosivo deve contenere un fattore di rilevamento, omogeneamente distribuito, grazie al quale sia possibile stabilire con certezza, anche dopo l’esplosione, la provenienza e il periodo di fabbricazione dell’esplosivo.
+
+<sup>2</sup> Il fattore di rilevamento stesso e la sua concentrazione nella materia esplosiva devono essere approvati dall’UCEP.
+
+<sup>3</sup> L’UCEP definisce le modalità del contrassegno, effettua controlli e le adegua se necessario.
+
+#### Art. 19
+
+**Contrassegno ai fini del rilevamento**
+
+Agli esplosivi giusta la Convenzione internazionale del 1° marzo 1991 sul contrassegno degli esplosivi plastici ed in foglie ai fini del rilevamento deve essere stato mescolato omogeneamente, almeno nella concentrazione minima ivi richiesta, un fattore di rilevamento.
+
+#### Art. 20
+
+**Marcatura delle micce di sicurezza e delle micce detonanti**
+
+<sup>1</sup> Le micce di sicurezza e le micce detonanti devono essere munite sull’intera lunghezza di un marchio che permetta di risalire al fabbricante nonché al luogo, anno e mese di fabbricazione.
+
+<sup>2</sup> Il marchio delle micce di sicurezza deve permanere anche dopo che la miccia è stata usata.
+
+<sup>3</sup> Dev’essere inoltre conforme all’allegato 14.[^20-1]
+
+[^20-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 21
+
+**Imballaggio, indicazioni e designazioni[^21-1]**
+
+<sup>1</sup> Gli imballaggi per la spedizione di esplosivi devono essere etichettati ed essere conformi alle prescrizioni dell’Accordo europeo del 30 settembre 1957[^21-2] relativo al trasporto internazionale su strada delle merci pericolose (ADR). Devono recare inoltre le indicazioni di cui all’articolo 19 capoverso 3 LEspl e all’allegato 14.[^21-3]
+
+<sup>2</sup>
+
+Oltre alle indicazioni secondo il capoverso 1, ogni ulteriore unità d’imballaggio reca almeno le seguenti indicazioni e designazioni:
+
+- a. per le materie esplosive, l’eventuale percentuale di nitroglicerina o nitroglicolo e la temperatura di congelamento critica;
+- b. per i detonatori, i dati specifici dai quali risultano le principali caratteristiche;
+- c. per i detonatori a scoppio ritardato, il tempo medio di ritardo in millisecondi;
+- d. per le micce di sicurezza, la durata di combustione in s/m.
+
+<sup>3</sup> Le cartucce di esplosivo devono recare il nome dell’esplosivo e del fabbricante nonché il luogo, l’anno e il mese di fabbricazione.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^21-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^21-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 22
+
+**Detonatori**
+
+<sup>1</sup> I detonatori devono essere progettati in modo che ne sia esclusa l’attivazione involontaria a causa di correnti vaganti o di cariche elettrostatiche o induttive.
+
+<sup>2</sup> Per principio, all’utilizzatore possono essere forniti soltanto detonatori elettrici che soddisfano i requisiti di cui all’allegato 3 relativi ai detonatori elettrici a ponte o che offrono almeno lo stesso livello di sicurezza. Per i detonatori elettrici di altro tipo è necessaria l’autorizzazione scritta dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (INSAI).
+
+#### Art. 23
+
+**Marcatura dei detonatori e delle capsule detonanti**
+
+<sup>1</sup> I fili d’innesco dei detonatori elettrici devono avere un isolamento di colore diverso. Nel caso dei detonatori elettrici a ponte, che soddisfano i requisiti dell’allegato 3, l’isolamento di uno di tali fili deve essere di colore blu.
+
+<sup>2</sup> I detonatori devono recare sul bossolo il marchio del fabbricante e il livello di ritardamento. Inoltre, sulla linea d’innesco, oltre a queste indicazioni, deve figurare l’intervallo di ritardamento oppure il ritardamento complessivo. Se il livello, l’intervallo o il ritardamento complessivo non sono definiti, questo fatto deve essere esplicitamente indicato sulla linea d’innesco.
+
+<sup>3</sup> Le capsule detonanti devono recare sul bossolo il marchio del fabbricante.
+
+<sup>4</sup> La marcatura dei detonatori e delle capsule detonanti deve inoltre essere conforme alle indicazioni stabilite dalle norme tecniche di cui all’allegato 14.[^23-1]
+
+[^23-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Capitolo 2: Pezzi pirotecnici
+
+#### Art. 24
+
+**Condizioni per la messa a disposizione sul mercato[^24-2]**[^24-1]
+
+<sup>1</sup>
+
+I pezzi pirotecnici possono essere messi a disposizione sul mercato se:[^24-3]
+
+- a.[^24-4] sono conformi ai requisiti essenziali di sicurezza di cui all’allegato I della direttiva 2013/29/UE[^24-5];
+- b. sono classificati in una delle categorie di cui agli articoli 6 e 7;
+- c. adempiono le condizioni di cui all’articolo 26.
+
+<sup>2</sup> I fuochi d’artificio delle categorie F1–F3 devono essere inoltre provvisti di un numero d’identificazione CH. Se quest’ultimo non è stato attribuito, occorre presentare una domanda all’UCEP.
+
+<sup>3</sup>
+
+Le disposizioni del presente capitolo non si applicano ai pezzi pirotecnici:
+
+- a. utilizzati in quantità limitata a fini scientifici, di ricerca, di sviluppo o di prova;
+- b. destinati a essere utilizzati dalla polizia.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^24-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^24-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^24-5]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+
+#### Art. 25
+
+**Norme tecniche**[^25-1]
+
+Le norme tecniche atte a concretare i requisiti essenziali di cui all’allegato I della direttiva 2013/29/UE[^25-2] sono definite conformemente all’articolo 6 della legge del 12 giugno 2009[^25-3] sulla sicurezza dei prodotti. L’UCEP definisce queste norme d’intesa con la SECO.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^25-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^25-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 25a
+
+**Procedure di valutazione della conformità**[^25a-1]
+
+Per dimostrare la conformità dei pezzi pirotecnici ai requisiti essenziali deve essere eseguita una delle seguenti procedure di cui all’allegato II della direttiva 2013/29/UE[^25a-2]:
+
+- a.
+
+  esame UE del tipo (modulo B), in relazione con una delle seguenti procedure a scelta:
+
+  - 1\. conformità al tipo basata sul controllo interno della produzione unito a prove del prodotto sotto controllo ufficiale effettuate a intervalli casuali (modulo C2),
+  - 2\. conformità al tipo basata sulla garanzia della qualità del processo di produzione (modulo D),
+  - 3\. conformità al tipo basata sulla garanzia della qualità del prodotto (modulo E);
+
+- b. conformità basata sulla verifica dell’unità (modulo G); o
+- c. conformità basata sulla garanzia totale di qualità (modulo H), nella misura in cui la procedura riguardi fuochi d’artificio della categoria F4.
+
+[^25a-1]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^25a-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+
+#### Art. 25b
+
+**Altre disposizioni applicabili**[^25b-1]
+
+Gli articoli 11–13 e 15–17 si applicano per analogia.
+
+[^25b-1]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 26
+
+**Imballaggio, indicazioni e designazioni**[^26-1]
+
+<sup>1</sup> Gli imballaggi per la spedizione di pezzi pirotecnici devono essere etichettati ed essere conformi alle prescrizioni dell’ADR[^26-2] relativo al trasporto internazionale su strada delle merci pericolose.
+
+<sup>2</sup>
+
+Su ogni unità elementare d’imballaggio destinata alla vendita (imballaggio singolo o di assortimento) e, se possibile, su ogni singolo pezzo pirotecnico, figurano almeno:
+
+- a. il nome, il tipo e la categoria dei pezzi nonché i limiti minimi d’età applicabili alla sua fornitura;
+- b. le istruzioni per l’uso e, se del caso, la distanza minima di sicurezza;
+- c. il nome e l’indirizzo del fabbricante o, se il fabbricante ha sede al di fuori dello Spazio economico europeo/dell’Unione europea, dell’importatore;
+- d. l’anno di fabbricazione;
+- e. il peso lordo e la quantità netta di materiale esplosivo attivo;
+- f. le informazioni pertinenti di cui all’allegato 2;
+- g. per i pezzi pirotecnici per scopi professionali, l’uso previsto e la data di scadenza stabilita dal fabbricante;
+- h. per i fuochi d’artificio delle categorie F1–F3, il numero d’identificazione CH attribuito dall’UCEP.
+
+<sup>3</sup> Le indicazioni devono essere redatte nelle tre lingue ufficiali in modo chiaro e inequivocabile.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^26-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+
+## Titolo 3: Diritto di commercio
+
+### Capitolo 1: Fabbricazione e importazione****
+
+[^tit3-chap1-1]
+
+[^tit3-chap1-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 347](https://fedlex.data.admin.ch/eli/oc/2002/77)).
+
+### Sezione 1: Fabbricazione
+
+#### Art. 27
+
+**Autorizzazione**
+
+<sup>1</sup> Le autorizzazioni per la fabbricazione di esplosivi, di pezzi pirotecnici e di polvere da sparo sono rilasciate dall’UCEP.[^27-1]
+
+<sup>2</sup> Anche chi prepara direttamente gli esplosivi o i pezzi pirotecnici sul luogo di utilizzazione deve avere un’autorizzazione di fabbricazione.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 28
+
+**Domanda di autorizzazione per la fabbricazione**
+
+<sup>1</sup>
+
+Nella domanda di autorizzazione per la fabbricazione si indica:
+
+- a. il genere dei prodotti previsti e i prospettati volumi di produzione annua;
+- b. la disposizione e il tipo di costruzione degli edifici di produzione e di deposito nonché la loro distanza dalle vie di comunicazione pubbliche, dalle case e da altri edifici da proteggere; nel caso di nuovi edifici, occorre allegare i piani e la descrizione;
+- c. la forma giuridica e la direzione dell’azienda.
+
+<sup>2</sup>
+
+Se si tratta di esplosivi, nella domanda si indica inoltre:
+
+- a. una descrizione circostanziata dell’esplosivo con i dati per l’identificazione, compreso il numero d’identificazione delle Nazioni Unite[^28-1];
+- b. eventualmente l’attestato di conformità.
+
+[^28-1]: Figura nell’all. A dell’Acc. europeo del 30 set. 1957 relativo al trasporto internazionale su strada delle merci pericolose (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). L’all. A dell’ADR non è pubblicato nella RU. Il testo è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna.
+
+#### Art. 29
+
+**Autorizzazione per la fabbricazione di nuovi prodotti**
+
+<sup>1</sup> Il titolare di un’autorizzazione di fabbricazione che intende fabbricare prodotti che non era finora autorizzato a fabbricare, presenta una nuova domanda.
+
+<sup>2</sup> Nella domanda fornisce le indicazioni secondo l’articolo 28. In merito alla disposizione e al tipo di costruzione degli edifici di produzione e di deposito nonché alla forma giuridica e alla direzione dell’azienda sono indicati soltanto i cambiamenti avvenuti dal rilascio dell’ultima autorizzazione.
+
+#### Art. 30
+
+**Autorizzazioni eccezionali**
+
+In singoli casi motivati, l’UCEP può rilasciare un’autorizzazione eccezionale per la fabbricazione di prodotti che non corrispondono ai requisiti secondo gli articoli 8–25, se la sicurezza è garantita in altro modo.
+
+### Sezione 2: Importazione
+
+#### Art. 31
+
+**Autorizzazione d’importazione**
+
+<sup>1</sup> Le autorizzazioni per l’importazione di esplosivi, di pezzi pirotecnici e di polvere da sparo sono rilasciate dall’UCEP.[^31-1]
+
+<sup>2</sup>
+
+L’autorizzazione non è necessaria per l’importazione di:
+
+- a.[^31-2] fuochi d’artificio delle categorie F1–F3 fino a un peso lordo totale di 2,5 kg nel traffico turistico, ad eccezione dei fuochi d’artificio che scoppiano a terra;
+- b. pezzi pirotecnici incorporati in prodotti che sottostanno a loro volta a un obbligo d’esame riconosciuto.
+
+<sup>3</sup> Una copia dell’autorizzazione d’importazione va inviata al Cantone nel quale si trova il domicilio d’affari dell’importatore.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^31-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 32
+
+**Domanda di autorizzazione**[^32-1]
+
+<sup>1</sup>
+
+Nella domanda d’autorizzazione si indica:
+
+- a. il genere e la quantità dei prodotti;
+- b. il nome e l’indirizzo del fabbricante, eventualmente la sua sigla d’identificazione;
+- c. il nome e l’indirizzo dell’importatore;
+- d. il deposito di destinazione in Svizzera;
+- e. il mezzo di trasporto.
+
+<sup>2</sup>
+
+Alle domande vanno allegate:
+
+- a. una descrizione dettagliata con i dati per l’identificazione compreso il numero d’identificazione delle Nazioni Unite[^32-2];
+- b. una dichiarazione di conformità, eventualmente l’attestato di conformità.
+
+<sup>3</sup> Per gli esplosivi si indica o si allega inoltre il codice associato al fattore di rilevamento di cui all’articolo 18.
+
+<sup>4</sup> Per i fuochi d’artificio delle categorie F1–F3 nella domanda si indica inoltre il numero d’identificazione CH. Se quest’ultimo non è stato ancora attribuito, alla domanda si allegherà un’etichetta originale.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^32-2]: Figura nell’all. A dell’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)). Questo all. non è pubblicato nella RU. Il testo può essere ordinato presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna.
+
+#### Art. 33
+
+**Autorizzazioni eccezionali**
+
+L’articolo 30 è applicabile anche all’importazione.
+
+#### Art. 34
+
+[^34-1]
+
+[^34-1]: Abrogato dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 347](https://fedlex.data.admin.ch/eli/oc/2002/77)).
+
+### Capitolo 2: Vendita
+
+#### Art. 35
+
+**Autorizzazione di vendita**
+
+<sup>1</sup>
+
+L’autorizzazione per la vendita di prodotti ai sensi dell’articolo 27 capoverso 1 sul territorio nazionale presume che il venditore e le persone che agiscono in sua vece:
+
+- a. abbiano l’esercizio dei diritti civili e siano degne di fiducia; e
+- b. abbiano abbastanza esperienza nonché sufficienti conoscenze giuridiche e tecniche nella manipolazione di sostanze esplosive.
+
+<sup>2</sup> Il venditore deve inoltre essere domiciliato in Svizzera oppure, se si tratta di un’impresa, essere iscritto nel Registro di commercio.
+
+<sup>3</sup> Chi è titolare di un’autorizzazione di fabbricazione non ha bisogno di altre autorizzazioni per la vendita in Svizzera dei prodotti che egli stesso fabbrica.
+
+<sup>4</sup> L’autorizzazione di vendita può essere limitata sotto il profilo del contenuto.
+
+#### Art. 36
+
+**Autorità competenti**
+
+<sup>1</sup> Un deposito di vendita vale come domicilio d’affari ai sensi dell’articolo 10 capoverso 2 della LEspl. In caso di succursali in più Cantoni, il Cantone che rilascia l’autorizzazione chiede l’approvazione degli altri. Se un Cantone si oppone, l’autorizzazione è negata oppure è limitata in conseguenza.
+
+<sup>2</sup> Il Cantone che rilascia l’autorizzazione ne informa l’UCEP, trasmettendogli copia del documento.[^36-1]
+
+[^36-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 37
+
+**Autorizzazione per la fornitura di esplosivi da parte di uffici militari**
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca[^37-1] rilascia all’esercito, alle amministrazioni militari federali e cantonali o alle loro regie l’autorizzazione di fornire esplosivi a uffici civili e a privati.
+
+[^37-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+
+#### Art. 38
+
+**Depositi di esplosivi dei venditori**
+
+Il Dipartimento federale di giustizia e polizia, dopo aver sentito i Cantoni, decide circa il numero di depositi che possono essere costruiti e sulla loro distribuzione regionale.
+
+### Capitolo 3: Disposizioni comuni relative alle autorizzazioni
+
+#### Art. 39
+
+**Chiarimenti**
+
+<sup>1</sup> Per l’esame delle domande è lecito far capo a esperti ed esigere campioni di merce e di imballaggi.
+
+<sup>2</sup> Per valutare la conformità con i requisiti di cui agli articoli 8–25*b*, l’UCEP può esigere dal richiedente ulteriori informazioni e documenti tecnici.[^39-1]
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 40
+
+**Durata, oneri e trasmissibilità**
+
+<sup>1</sup> Le autorizzazioni possono essere limitate nel tempo e vincolate a oneri.
+
+<sup>2</sup> Le autorizzazioni non sono trasmissibili.
+
+#### Art. 41
+
+**Revoca e ritiro**
+
+<sup>1</sup> L’autorizzazione è revocata se è stata ottenuta con indicazioni false oppure se le condizioni che ne hanno permesso il rilascio non sono più adempite.
+
+<sup>2</sup> L’autorizzazione può essere ritirata definitivamente o temporaneamente, se il titolare o una persona che agisce in sua vece è stato punito per violazione grave delle prescrizioni di protezione o di sicurezza.
+
+#### Art. 42
+
+**Estinzione dell’autorizzazione**
+
+L’autorizzazione si estingue, se:
+
+- a. rimane inutilizzata per un anno;
+- b. non vi è più la persona responsabile dell’attività autorizzata;
+- c. l’impresa viene sciolta o cambia di proprietario.
+
+#### Art. 43
+
+**Sequestro dei prodotti in caso di soppressione dell’autorizzazione**
+
+Se l’autorizzazione è soppressa, l’autorità competente sequestra i prodotti e decide sulla loro destinazione.
+
+#### Art. 44
+
+**Segreto d’ufficio**
+
+Le indicazioni fornite nelle domande sottostanno al segreto d’ufficio.
+
+### Capitolo 4: Acquisto
+
+#### Art. 45
+
+**Permesso per l’acquisto di esplosivi**
+
+<sup>1</sup> Chi intende ottenere un permesso per l’acquisto di esplosivi deve fornire le indicazioni richieste nell’allegato 4 e confermarle con la sua firma.[^45-1] La domanda per un permesso d’acquisto è presentata all’autorità designata dal Cantone.
+
+<sup>2</sup> Nel permesso d’acquisto figurano tutte le indicazioni necessarie al suo rilascio.
+
+<sup>3</sup> Il permesso d’acquisto vale per un anno.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 46
+
+**Disposizioni speciali per piccoli utilizzatori**
+
+<sup>1</sup> È piccolo utilizzatore chi in tre mesi ritira al massimo 25 kg di materia esplosiva e 100 capsule detonanti o detonatori. Deve essere in grado di custodire gli esplosivi in modo conforme alle prescrizioni.
+
+<sup>2</sup> Nel permesso d’acquisto sono autorizzati gli esplosivi di cui ha presumibilmente bisogno, al massimo nella quantità indicata al capoverso 1.
+
+<sup>3</sup> Il permesso d’acquisto per piccoli utilizzatori vale per tre mesi.
+
+#### Art. 47
+
+**Permesso per l’acquisto di pezzi pirotecnici**[^47-1]
+
+<sup>1</sup> Per acquistare pezzi pirotecnici delle categorie T2, P2 e F4 è necessario un permesso.
+
+<sup>2</sup> Chi intende ottenere un permesso d’acquisto deve fornire le indicazioni richieste nell’allegato 4 e confermarle con la sua firma. La domanda è presentata all’autorità designata dal Cantone.
+
+<sup>3</sup> Nel permesso d’acquisto figurano tutte le indicazioni necessarie al suo rilascio.
+
+<sup>4</sup> Il permesso d’acquisto è valido al massimo un anno.
+
+<sup>5</sup> Il permesso d’acquisto non è necessario, se il Cantone o il Comune ha rilasciato un’autorizzazione per l’accensione di pezzi pirotecnici delle categorie T2 e F4 compatibile con il presente articolo e se quest’ultimi sono utilizzati nei limiti fissati dall’autorizzazione.
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 48
+
+**Rilascio**
+
+<sup>1</sup> Il permesso d’acquisto è rilasciato dall’autorità in un originale e in almeno due copie.
+
+<sup>2</sup> Se gli esplosivi autorizzati sono utilizzati in altri Cantoni, una copia del permesso d’acquisto va inviata anche loro.
+
+#### Art. 49
+
+**Revoca del permesso d’acquisto**
+
+<sup>1</sup> Il permesso d’acquisto è revocato se è stato ottenuto con indicazioni false oppure se le condizioni che ne hanno permesso il rilascio non sono più adempite.
+
+<sup>2</sup> In caso di revoca, l’autorità competente sequestra gli esplosivi e i pezzi pirotecnici e decide sulla loro destinazione.
+
+#### Art. 50
+
+**Ritiro dei prodotti**
+
+<sup>1</sup> Chi ritira i prodotti deve dimostrare, prima della loro fornitura, di essere autorizzato a ritirare la merce per l’avente diritto secondo il permesso d’acquisto.
+
+<sup>2</sup> Gli esplosivi o i pezzi pirotecnici autorizzati nel permesso d’acquisto devono essere ritirati presso lo stesso venditore, previa consegna dell’originale del permesso.
+
+<sup>3</sup> Possono essere ritirati in più volte.
+
+### Capitolo 5: Permesso d’uso****
+
+[^tit3-chap5-1]
+
+[^tit3-chap5-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Sezione 1: Abilitazioni al brillamento e all’utilizzazione****
+
+[^tit3-chap5-sec1-1]
+
+[^tit3-chap5-sec1-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 51
+
+**Principi**
+
+<sup>1</sup> Nel permesso sono menzionati i lavori che il titolare è abilitato a eseguire.
+
+<sup>2</sup> Le abilitazioni sono rilasciate in base a un esame.
+
+#### Art. 52
+
+**Menzioni[^52-1]**
+
+<sup>1</sup>
+
+La *menzione A* abilita a eseguire in modo indipendente brillamenti ordinari con scarso rischio di danni, rispettando le seguenti limitazioni:
+
+- a. per brillamento possono essere utilizzati al massimo 5 kg di materia esplosiva;
+- b. in caso d’innesco pirotecnico, per brillamento è consentita al massimo una miccia di sicurezza.
+
+<sup>2</sup>
+
+La *menzione B* abilita a eseguire brillamenti ordinari con medio rischio di danni, rispettando le seguenti limitazioni:
+
+- a. con fino a 25 kg di materia esplosiva per brillamento, in modo indipendente;
+- b. con quantità superiori di materia esplosiva, secondo le necessarie istruzioni scritte (piano di brillamento ecc.) di una persona con menzione C e sotto la sua sorveglianza.
+
+<sup>3</sup>
+
+La *menzione C* abilita a:
+
+- a. pianificare ed eseguire in modo indipendente brillamenti ordinari con medio rischio di danni;
+- b. pianificare, secondo le istruzioni scritte (documentazione relativa al progetto ecc.) di un esperto qualificato, brillamenti ordinari con elevato rischio di danni ed eseguirli sotto la loro sorveglianza.
+
+<sup>4</sup> La menzione per brillamenti speciali abilita all’esecuzione del corrispondente brillamento speciale. Fatto salvo il capoverso 5, l’abilitazione presume una menzione A, B, o C che fa stato per quanto riguarda il rischio di danni ammesso.
+
+<sup>5</sup> L’abilitazione ai brillamenti per staccare valanghe non presume alcun’altra menzione.
+
+<sup>6</sup> Il permesso d’uso di pezzi pirotecnici abilita a utilizzare in modo indipendente i pezzi pirotecnici delle categorie T2, P2 e F4 menzionati nel permesso.[^52-2]
+
+<sup>6bis</sup> Per l’utilizzazione di un pezzo pirotecnico della categoria P2 non è necessario un permesso d’uso se si tratta di un prodotto pronto all’uso.[^52-3]
+
+<sup>7</sup>
+
+Non necessitano di un permesso d’uso di pezzi pirotecnici le persone:
+
+- a. operanti nel settore dell’industria automobilistica o aeronautica che, nel quadro della loro attività professionale, montano, lavorano, riparano o smontano pezzi pirotecnici della categoria P2; e
+- b. che, sulla base della propria formazione professionale, hanno acquisito le necessarie conoscenze specialistiche.[^52-4]
+
+[^52-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^52-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^52-3]: Introdotto dal n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^52-4]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 53
+
+**Definizioni**
+
+<sup>1</sup> I brillamenti ordinari esigono conoscenze generali in materia. Sono considerati ordinari i brillamenti a scopo di scavo o di spianamento nonché quelli di singoli massi, di legname, di ceppi d’albero e simili.
+
+<sup>2</sup> I brillamenti speciali esigono conoscenze specialistiche. Sono considerati speciali i brillamenti per staccare valanghe, abbattere edifici, distruggere grandi quantità di esplosivo nonché quelli subacquei.
+
+<sup>3</sup> Il rischio di danni connesso ai brillamenti è classificato nei livelli «scarso», «medio» ed «elevato». I limiti fra i livelli sono stabiliti dalla Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^53-1] sotto forma di promemoria di pianificazione. Quest’ultimo tiene conto della formazione relativa alle singole abilitazioni.
+
+<sup>4</sup> Un brillamento comprende l’accensione contemporanea o ritardata di una o più cariche.
+
+<sup>5</sup> È considerato esperto qualificato chi, in base a conoscenze teoriche e pratiche speciali e al di sopra della media nonché in base alla propria esperienza, è in grado di valutare un rischio elevato e di pianificare secondo le regole dell’arte la sua parte di progetto di brillamento.
+
+[^53-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+
+### Sezione 2: Rilascio delle abilitazioni
+
+#### Art. 54
+
+**Formazione**
+
+Le conoscenze teoriche e pratiche necessarie per superare gli esami possono essere dispensate mediante corsi.
+
+#### Art. 55
+
+**Ammissione ai corsi e agli esami**
+
+<sup>1</sup>
+
+È ammesso ai corsi e agli esami chi:
+
+- a. è maggiorenne;
+- b. esibisce un attestato rilasciato dalla polizia del suo luogo di domicilio dal quale si possa dedurre che la sua condotta offre la garanzia di un’utilizzazione lecita e a regola d’arte degli esplosivi o dei pezzi pirotecnici.
+
+<sup>2</sup> L’ammissione può essere subordinata alla prova che il candidato ha esercitato un’attività, compiuto studi o terminato un tirocinio in una determinata professione.
+
+#### Art. 56
+
+**Esami**
+
+<sup>1</sup> Ogni esame è finalizzato al rilascio di un solo tipo d’abilitazione.
+
+<sup>2</sup>
+
+Sono esaminate:
+
+- a. la conoscenza delle prescrizioni legali;
+- b. la conoscenza degli esplosivi usuali, dei loro mezzi ausiliari, dei pezzi pirotecnici che sottostanno all’obbligo di un’autorizzazione d’acquisto, nonché della loro manipolazione e utilizzazione.
+
+#### Art. 57
+
+**Consegna del permesso**
+
+<sup>1</sup> Chi supera l’esame riceve un certificato e il permesso.
+
+<sup>2</sup> Il permesso è rilasciato dalla SEFRI. È firmato dal presidente di uno dei comitati che costituiscono la commissione d’esame e da un rappresentante della SEFRI.[^57-1]
+
+<sup>3</sup> ...[^57-2]
+
+[^57-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^57-2]: Abrogato dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 57a
+
+**Registro dei permessi**[^57a-1]
+
+<sup>1</sup>
+
+La SEFRI tiene un registro dei permessi rilasciati in cui sono contenuti i dati seguenti:
+
+- a. cognome;
+- b. nome;
+- c. data di nascita;
+- d. luogo di origine;
+- e. numero AVS;
+- f. data dell’esame;
+- g. tipo di permesso.
+
+<sup>2</sup>
+
+Per adempiere i loro compiti legali, le autorità seguenti possono consultare on line il registro dei permessi:
+
+- a. l’UCEP;
+- b. i servizi cantonali specializzati.
+
+<sup>3</sup> I dati sono cancellati quando il titolare ha compiuto 99 anni.
+
+[^57a-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 58
+
+**Durata della validità e formazione complementare**
+
+<sup>1</sup> Il permesso ha una durata di validità illimitata.
+
+<sup>2</sup> Tuttavia, se sono trascorsi più di cinque anni dall’ultima volta che il titolare del permesso ha ottenuto un’abilitazione o frequentato una formazione complementare, egli è tenuto a partecipare a un corso complementare prima di utilizzare esplosivi o pezzi pirotecnici.[^58-1]
+
+<sup>3</sup> La SEFRI disciplina mediante direttive il programma della formazione complementare.
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 58a
+
+**Esonero dall’obbligo di partecipare a una formazione complementare durante la pandemia di COVID-19**[^58a-1]
+
+L’obbligo di cui all’articolo 58 capoverso 2 di partecipare a una formazione complementare non si applica ai titolari di un permesso che hanno ottenuto un’abilitazione o frequentato una formazione complementare l’ultima volta dopo il 31 dicembre 2014.
+
+[^58a-1]: Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 28 mag. 2020 al 27 gen. 2021 ([RU 2020 1829](https://fedlex.data.admin.ch/eli/oc/2020/369)).
+
+#### Art. 59
+
+**Riconoscimento di altri permessi**
+
+<sup>1</sup>
+
+La Commissione d'esame[^59-1] decide nel singolo caso:
+
+- a. in quale misura i permessi non contemplati nella presente ordinanza sono riconosciuti;
+- b. se il titolare di un tale permesso deve sottoporsi a un esame complementare.
+
+<sup>2</sup> La SEFRI emana direttive sul riconoscimento di altri permessi.
+
+<sup>3</sup> La domanda di riconoscimento va presentata alla SEFRI.
+
+[^59-1]: Nuova espr. giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 60
+
+**Ritiro del permesso**
+
+<sup>1</sup> Per principio, il Cantone di domicilio ritira il permesso quando il suo titolare è stato condannato per violazione grave delle prescrizioni di protezione o di sicurezza o per un reato in materia di esplosivi e la sentenza è passata in giudicato.
+
+<sup>2</sup> Può ritirare il permesso quando vi sono i presupposti per concludere che il titolare non offre più la garanzia di un’utilizzazione lecita e conforme alle regole dell’arte degli esplosivi o dei pezzi pirotecnici.
+
+<sup>3</sup> Il permesso è ritirato a tempo indeterminato. A seconda delle circostanze, segnatamente in considerazione della colpa e della precedente condotta del titolare, l’autorità che ritira il permesso può limitare nel tempo il provvedimento oppure, invece del ritiro, pronunciare un avvertimento.
+
+<sup>4</sup> In vista di un imminente procedura di ritiro, gli organi esecutivi sequestrano il permesso. Questo rimane sotto sequestro fino alla conclusione della procedura. Durante tale periodo sono ritirate le abilitazioni di brillamento e di utilizzazione.
+
+<sup>5</sup> L’UCEP comunica all’autorità che ritira il permesso tutte le decisioni penali che possono comportare il ritiro del permesso.
+
+<sup>6</sup> Il Cantone comunica per scritto e senza indugio alla SEFRI ogni ritiro di permesso.
+
+### Sezione 3: Svolgimento della formazione e degli esami
+
+#### Art. 61
+
+**Organizzatori e Commissioni dei brillamenti**
+
+<sup>1</sup> Gli organizzatori dei corsi e degli esami possono essere un’unica associazione professionale o un’unica cerchia economica interessata, oppure un insieme di tali associazioni e cerchie. Per ogni abilitazione a un genere di brillamento o di utilizzazione ai sensi dell’articolo 52, vi sarà, a livello svizzero, un solo organizzatore. Per l’esecuzione, l’organizzatore istituisce una Commissione d'esame. La Commissione d'esame può formare comitati per determinati compiti.
+
+<sup>2</sup> Se, per le rispettive abilitazioni, oltre alle associazioni e cerchie economiche che si sono proposte per l’esecuzione dei corsi o esami, ve ne sono altre, queste ultime, su domanda, vanno accolte nell’organizzazione. È loro garantita un’equa rappresentanza nella Commissione d'esame.
+
+#### Art. 62
+
+**Regolamenti**
+
+<sup>1</sup> Gli organizzatori dei corsi e degli esami redigono, per le abilitazioni di cui sono competenti, un regolamento sulla formazione e uno sugli esami.
+
+<sup>2</sup>
+
+Vi regolano in particolare:
+
+- a. la materia oggetto della formazione, rispettivamente dell’esame, suddivisa in discipline;
+- b. le modalità e la durata delle discipline d’esame;
+- c. le condizioni d’ammissione ai corsi e agli esami;
+- d. la procedura d’iscrizione;
+- e. la composizione della Commissione d'esame.
+
+#### Art. 63
+
+**Approvazione dei regolamenti sulla formazione e sugli esami**
+
+<sup>1</sup> Gli organizzatori inviano i regolamenti sulla formazione e sugli esami alla SEFRI per approvazione.
+
+<sup>2</sup> Se i regolamenti sono conformi alle prescrizioni, la SEFRI pubblica una pertinente comunicazione nel Foglio federale.
+
+<sup>3</sup> Contro i regolamenti può essere sollevata opposizione scritta presso la SEFRI entro 30 giorni dalla pubblicazione della comunicazione.
+
+#### Art. 64
+
+**Adattamento dei regolamenti e revoca dell’approvazione**
+
+<sup>1</sup> Se nuove condizioni lo esigono, segnatamente se le regole generali riconosciute della tecnica sono cambiate, la SEFRI può chiedere agli organizzatori di adeguare i regolamenti.[^64-1]
+
+<sup>2</sup> La SEFRI può revocare l’approvazione del regolamento, se l’organizzatore non svolge il corso o non effettua gli esami conformemente alle prescrizioni.
+
+[^64-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 65
+
+**Documentazione relativa alla formazione e agli esami**
+
+<sup>1</sup> I partecipanti a un corso e i candidati a un esame ricevono dalla competente Commissione d'esame la documentazione relativa alla formazione o all’esame.
+
+<sup>2</sup> La documentazione deve essere conforme alle regole generali riconosciute dalla tecnica e al tenore dell’abilitazione secondo il regolamento e deve essere approvata da un comitato di esperti in materia.[^65-1]
+
+[^65-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Sezione 4: Comitati di esperti****
+
+[^tit3-chap5-sec4-1]
+
+[^tit3-chap5-sec4-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 66
+
+<sup>1</sup>
+
+I comitati di esperti sono istituiti *ad hoc* e consigliano la SEFRI in particolare nei seguenti ambiti:[^66-1]
+
+- a. coordinamento delle prescrizioni relative alla formazione e agli esami;
+- b. valutazione delle documentazioni relative alla formazione e agli esami;
+- c. definizione dei brillamenti speciali e dei livelli di rischio nonché della relativa regolamentazione;
+- d. attribuzione dei brillamenti e dei pezzi pirotecnici che sottostanno all’obbligo di un’autorizzazione d’acquisto alle singole abilitazioni;
+- e. riconoscimento di permessi.
+
+<sup>2</sup> La SEFRI decide, secondo i compiti e l’ambito specifico, in merito all’istituzione e alla composizione di un comitato di esperti. Ne assume inoltre la presidenza e la segreteria.[^66-2]
+
+[^66-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^66-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Sezione 5: Commercio agevolato
+
+#### Art. 67
+
+Nei casi in cui gli esplosivi o i pezzi pirotecnici, in quantità limitate, servono per scopi scientifici, di ricerca, di sviluppo o di prova ai sensi degli articoli 8 capoverso 2 e 24 capoverso 3, si applicano le disposizioni seguenti ambiti:[^67-1]
+
+- a. le autorizzazioni d’importazione possono essere rilasciate anche per gli esplosivi non conformi alle disposizioni d’ammissione degli articoli 8–23;
+- a<sup>bis</sup>.[^67-2] le autorizzazioni d’importazione possono essere rilasciate anche per i pezzi pirotecnici non conformi alle disposizioni degli articoli 24–26;
+- b.[^67-3] il rilascio del permesso d’acquisto non può essere subordinato all’esistenza di un permesso d’uso;
+- c. l’acquirente di esplosivi è autorizzato a custodirli senza limiti di tempo, conformemente alle prescrizioni in materia di deposito della presente ordinanza;
+- d. l’acquirente sottostà all’obbligo di tenere registri, analogo a quello dei grandi utilizzatori;
+- e.[^67-4] per l’utilizzazione degli esplosivi e dei pezzi pirotecnici a scopo vincolato non è necessario un permesso d’uso; la loro manipolazione è tuttavia consentita soltanto alle persone o sotto la sorveglianza di persone che possono dimostrare di possedere sufficienti conoscenze tecniche nella manipolazione delle sostanze esplosive.
+
+[^67-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^67-2]: Introdotta dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^67-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^67-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+## Titolo 4: Prescrizioni generali di comportamento
+
+#### Art. 68
+
+**Prevenzione di accensioni involontarie**
+
+<sup>1</sup> È vietato fumare durante qualsiasi operazione con esplosivi o pezzi pirotecnici.
+
+<sup>2</sup> In prossimità di esplosivi o di pezzi pirotecnici è parimenti vietato mantenere o tollerare qualsiasi fuoco o fiamma libera anche a solo scopo d’illuminazione.
+
+<sup>3</sup> I liquidi e le sostanze facilmente infiammabili vanno tenuti lontano dagli esplosivi e dai pezzi pirotecnici.
+
+#### Art. 69
+
+**Prevenzione di intossicazioni**
+
+<sup>1</sup> Vanno assolutamente rispettate le avvertenze figuranti sugli imballaggi e nelle istruzioni per l’uso con le quali il fabbricante rende attento l’utente che gli esplosivi e i pezzi pirotecnici contengono sostanze tossiche o sostanze che nell’uso possono produrre o liberare residui tossici.
+
+<sup>2</sup> Occorre tenere conto del pericolo rappresentato dai gas tossici soprattutto nei locali chiusi, nelle gallerie, nei pozzi e nelle trincee.
+
+<sup>3</sup> Gli esplosivi e i pezzi pirotecnici non più utilizzabili non devono essere né abbandonati né gettati via. Occorre procedere secondo le prescrizioni dell’articolo 26 della LEspl e dell’articolo 107 della presente ordinanza.
+
+## Titolo 5: Fabbricazione
+
+#### Art. 70
+
+La costruzione, le attrezzature e l’esercizio degli impianti e degli edifici nei quali si fabbricano esplosivi, pezzi pirotecnici e polvere da sparo devono essere conformi alle prescrizioni della legge sul lavoro e delle relative ordinanze d’esecuzione 3 e 4 del 18 agosto 1993[^70-1].
+
+[^70-1]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)**/.114**
+
+## Titolo 6: Deposito
+
+### Capitolo 1: Fabbriche
+
+### Sezione 1: Esplosivi
+
+#### Art. 71
+
+<sup>1</sup> I depositi di esplosivi presso il fabbricante devono corrispondere ai requisiti edilizi minimi della presente ordinanza. Tuttavia, se il fabbricante dimostra, per esempio in base a calcoli e a una valutazione del rischio corrispondenti allo stato della scienza e della tecnica, che la sicurezza è garantita in altro modo, l’autorità competente per l’approvazione dei piani secondo la legislazione sul lavoro può autorizzare distanze minime inferiori a quelle indicate nell’allegato 5.
+
+<sup>2</sup> Nei depositi del fabbricante possono essere custoditi anche esplosivi non provenienti dalla produzione propria.
+
+<sup>3</sup>
+
+I depositi esistenti al momento dell’entrata in vigore della LEspl possono continuare a essere utilizzati, se:
+
+- a. le pareti e la soletta non sono costruite con materiali leggeri;
+- b. le porte sono munite di serrature di sicurezza incorporate;
+- c. le carenze strutturali in fatto di misure di sicurezza antiscasso e antincendio sono compensate da una sorveglianza continua o da impianti d’allarme automatici.
+
+<sup>4</sup>
+
+I depositi esistenti vanno adeguati alle prescrizioni della presente ordinanza applicabili ai venditori, se:
+
+- a. vengono ampliati o subiscono importanti trasformazioni;
+- b. vi è pericolo per i dipendenti o per terzi; oppure
+- c. l’adeguamento risulta necessario per escludere altri pericoli seri per la sicurezza pubblica.
+
+### Sezione 2: Pezzi pirotecnici
+
+#### Art. 72
+
+**Depositi di pezzi pirotecnici per uso professionale presso il fabbricante**[^72-1]
+
+<sup>1</sup> I fabbricanti di pezzi pirotecnici della categoria P2 devono depositare tali prodotti conformemente alle prescrizioni applicabili ai depositi di esplosivi presso il fabbricante.
+
+<sup>2</sup> I pezzi pirotecnici delle categorie T1, T2 e P1 possono essere custoditi secondo le prescrizioni applicabili ai depositi di fuochi d’artificio.
+
+[^72-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 73
+
+**Deposito di fuochi d’artificio presso le fabbriche**
+
+<sup>1</sup> I fabbricanti di fuochi d’artificio devono depositare i prodotti finiti in edifici isolati, a un solo piano, distanti almeno 15 m dalla parte pericolosa della fabbrica e almeno 20 m dai fondi limitrofi. Fra i singoli depositi, la distanza può essere ridotta a 7,5 m, a condizione che siano rispettate le prescrizioni antincendio dell’Associazione degli istituti cantonali di assicurazione antincendio (AICAA)[^73-1].[^73-2]
+
+<sup>2</sup> Le porte e le finestre dei locali di deposito non devono guardare verso porte o finestre di altri edifici.
+
+<sup>3</sup> Ove non sia possibile rispettare le distanze minime, i depositi devono essere protetti da terrapieni o pareti di protezione sufficientemente alti e spessi.
+
+<sup>4</sup> I locali di deposito devono essere costruiti con materiali non infiammabili ed essere sufficientemente aerati. Le porte devono aprire verso l’esterno. Per il resto, vanno attrezzati e gestiti secondo le prescrizioni della presente ordinanza vigenti per i venditori (art. 87 e 88).
+
+<sup>5</sup> La quantità totale di fuochi d’artificio nel singolo deposito non deve superare 2000 kg di peso lordo per le costruzioni leggere, 5000 kg di peso lordo per quelle massicce, con copertura di terra e/o parete soffiabile.
+
+<sup>6</sup> I depositi esistenti all’entrata in vigore della LEspl devono essere adeguati, se vengono ampliati o se subiscono importanti trasformazioni oppure se vi è pericolo per i dipendenti o per terzi.
+
+[^73-1]: Il testo delle prescrizioni può essere ottenuto presso l’Associazione degli istituti cantonali di assicurazione antincendio (AICAA), Bundesgasse 20, 3001 Bern; www.vkf.ch
+[^73-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Capitolo 2: Vendita, importazione e consumo
+
+### Sezione 1: Esplosivi
+
+#### Art. 74
+
+**Distanze minime**
+
+<sup>1</sup> Nella costruzione di depositi e magazzini vanno rispettate le distanze dalle vie di comunicazione pubbliche, dalle case e da altri edifici da proteggere, prescritte nell’allegato 5.
+
+<sup>2</sup> È permessa la deroga a tali norme in caso di deposito sotterraneo in roccia asciutta e compatta, se la galleria d’accesso (L) e la copertura in tutte le direzioni (R) soddisfano i requisiti minimi secondo l’allegato 6 e se, sul terreno sovrastante, la distanza di sicurezza dagli edifici è almeno pari a R, conformemente al disegno nell’allegato 6.
+
+<sup>3</sup> In ogni caso, devono essere rispettate distanze adeguate da altre opere sotterranee come serbatoi, impianti di trasporto in condotta o cavi.
+
+<sup>4</sup> In caso di costruzione di più edifici adibiti a deposito o magazzino, la loro reciproca distanza deve essere almeno pari al raggio del cratere (cfr. l’allegato 7); gli edifici devono essere separati gli uni dagli altri da un terrapieno privo di passaggi.
+
+<sup>5</sup> Se le distanze previste negli allegati 5 e 6 non possono essere rispettate, l’autorità competente per il rilascio dell’autorizzazione, d’intesa con l’UCEP, può accordare deroghe, a condizione che il richiedente dimostri, per esempio in base a calcoli e a una valutazione del rischio corrispondenti allo stato della scienza e della tecnica, che la sicurezza delle persone e la proprietà altrui è garantita sufficientemente in altro modo.
+
+#### Art. 75
+
+**Requisiti edilizi minimi; aerazione**
+
+<sup>1</sup> Gli edifici adibiti a deposito o magazzino comportano un solo piano. Oltre alla porta d’entrata e ai canali d’aerazione non hanno altre aperture.
+
+<sup>2</sup> Sono aerati. I canali d’aerazione sono posati in forma di Z e in pendenza montante verso l’interno. All’esterno e al punto di raccordo con il ramo montante sono muniti di una griglia fissa; inoltre, l’apertura esterna è munita di una lastra di protezione (cfr. allegati 8.2 e 9.1).
+
+<sup>3</sup> Nei depositi in cemento armato, le pareti esterne, le solette e i pavimenti hanno uno spessore minimo di 15 cm e le pareti divisorie di almeno 10 cm.
+
+<sup>4</sup> Nel caso dei magazzini, lo spessore del cemento armato può essere ridotto di 5 cm; le pareti divisorie possono essere costruite con altro materiale ignifugo di almeno 4 cm di spessore. Per i magazzini di imprese fisse, come per esempio cave di ghiaia o di pietra e cementifici, è applicabile il capoverso 3.
+
+<sup>5</sup> I requisiti relativi alla qualità del calcestruzzo e all’armatura minima indicati nell’allegato 8.1 devono essere rispettati anche per i depositi e i magazzini sotterranei o interrati. Per quelli costruiti nella roccia compatta, soltanto la parete frontale deve essere di cemento armato.
+
+<sup>6</sup> I depositi e i magazzini possono essere costruiti con elementi di calcestruzzo prefabbricati, se i singoli elementi presentano la qualità, lo spessore e l’armatura prescritti e le dimensioni di detti elementi non sono inferiori a 2 × 2 m; gli elementi devono potere essere fissati solidamente gli uni agli altri con viti.
+
+<sup>7</sup> Altri tipi di costruzione sono ammessi soltanto se sono in grado di proteggere gli esplosivi contro il furto, il fuoco, le intemperie e gli influssi elettrostatici con la stessa efficacia delle costruzioni in cemento armato.
+
+#### Art. 76
+
+**Accessi**
+
+<sup>1</sup> Gli accessi sono disposti in modo che, in caso d’esplosione, gli effetti all’esterno dell’opera siano ridotti al minimo possibile.
+
+<sup>2</sup> Il passaggio attraverso il terrapieno libero che porta ai depositi e magazzini in superficie è praticato obliquamente rispetto alla porta d’entrata (cfr. allegato 9.2). Se il terrapieno è addossato alla parete esterna, davanti al passaggio va collocato un terrapieno supplementare (cfr. allegato 9.1).
+
+<sup>3</sup> L’entrata dei depositi e magazzini sotterranei non deve guardare verso edifici e opere da proteggere. Ove questo non sia possibile, davanti all’entrata è eretto un terrapieno più alto della porta.
+
+<sup>4</sup> Per il tramite della galleria d’accesso (L), i depositi e i magazzini possono essere collegati con vie di trasporto e posti di lavoro sotterranei, sempreché il corridoio di collegamento sia protetto da una chiusura antideflagrazione che in caso d’esplosione resista alla prevista pressione dinamica (cfr. allegato 6).
+
+#### Art. 77
+
+**Terrapieno**
+
+<sup>1</sup> I depositi e i magazzini sono interrati o circondati da un terrapieno, se non sono schermati verso l’esterno da rilievi naturali del terreno più alti della linea di mira.
+
+<sup>2</sup> Un terrapieno libero va approntato come indicano gli allegati 5 e 9.2. La scarpata interna e il coronamento del terrapieno, largo almeno 1 m, sono ricoperti con uno strato protettivo di inerti fini spesso 30 cm e spianati uniformemente.
+
+<sup>3</sup> Un terrapieno addossato arriva almeno all’altezza dello spigolo del tetto dell’opera e il suo coronamento misura almeno 1 m di larghezza (cfr. allegati 9.1 e 9.2).
+
+<sup>4</sup> Per quanto possibile, il coronamento e le scarpate del terrapieno sono coperti di verde.
+
+#### Art. 78
+
+**Porte**
+
+<sup>1</sup> Tutte le porte degli edifici adibiti a deposito o magazzino aprirono verso l’esterno.
+
+<sup>2</sup> Le porte esterne sono conformi almeno alla classe 5 di resistenza antiscasso secondo la norma europea (ENV) 1627[^78-1] come pure alla norma EI60 secondo le prescrizioni antincendio dell’AICAA[^78-2] e hanno una battuta coperta sui quattro lati.[^78-3]
+
+<sup>3</sup> Le porte interne fra il locale dei mezzi d’innesco, un’eventuale anticamera e il deposito di materie esplosive vero e proprio sono costruite, a seconda delle loro dimensioni, con lamiera d’acciaio spessa 2–4 mm, con acciaio profilato oppure con altro materiale ignifugo dello spessore di almeno 4 cm nonché munite di chiavistello o di serratura a scatola.
+
+[^78-1]: Il testo della norma può essere consultato gratuitamente o ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^78-2]: Vedi la nota all’art. 73 cpv. 1.
+[^78-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 79
+
+**Chiusura delle porte**
+
+<sup>1</sup> La porta presenta una solida serratura con doppio chiavistello. Può essere munita sia di serratura interna a doppia mappa, sia di serratura esterna a doppio cilindro sufficientemente blindata oppure di una serratura di nuova generazione che garantisca una sicurezza equivalente. Il congegno di azionamento dei chiavistelli è amovibile oppure ha un punto di rottura prestabilito.[^79-1]
+
+<sup>2</sup> Per la serratura a doppia mappa è necessaria una corrispondente chiave che azioni con precisione almeno 9 scontri e che sia munita di cannello prolungato.
+
+<sup>3</sup> Per la serratura a doppio cilindro è necessaria una comune chiave a cilindro prolungata. La blindatura del cilindro va applicata sulla parte esterna e la sua apertura è fatta in modo che il cilindro possa essere azionato unicamente con una chiave prolungata.
+
+<sup>4</sup> La chiusura della porta è munita all’esterno di una calotta che chiuda sia la guida della chiave o la blindatura del cilindro, sia l’azionamento dei chiavistelli della serratura principale. Il congegno di chiusura della calotta stessa deve essere il più possibile a prova di scasso.
+
+[^79-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 80
+
+**Impianti elettrici**
+
+<sup>1</sup> Gli impianti elettrici sono installati secondo le regole riconosciute della tecnica per i locali esposti a pericolo d’incendio. Come regole riconosciute della tecnica valgono in particolare le norme IEC[^80-1] e CENELEC[^80-2]. In mancanza di norme internazionali armonizzate valgono le norme svizzere.
+
+<sup>2</sup> Come illuminazione è ammessa unicamente quella elettrica.
+
+<sup>3</sup> Per il riscaldamento vanno utilizzati soltanto impianti che non possono né incendiare, né decomporre le merci depositate.
+
+<sup>4</sup> Tutti gli elementi metallici delle strutture e delle attrezzature degli edifici adibiti a deposito e magazzino sono collegati fra loro mediante buoni conduttori elettrici e messi a terra per evitare gli influssi elettrostatici. La protezione contro i fulmini è installata secondo i principi dell’Associazione svizzera degli elettricisti (ASE)[^80-3].
+
+[^80-1]: International Electrotechnical Commission; le norme sono consultabili gratuitamente o ottenibili a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^80-2]: Comité Européen de Normalisation Electrotecnique; le norme sono consultabili gratuitamente o ottenibili a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^80-3]: I principi sono ottenibili presso l’Associazione per l’elettrotecnica, la tecnica energetica e l’informatica (SEV), Luppmenstrasse 1, 8320 Fehraltorf; www.electrosuisse.ch
+
+#### Art. 81
+
+**Dispositivi particolari e avvertimenti**
+
+<sup>1</sup> Gli edifici adibiti a deposito o magazzino sono muniti di estintori pronti all’uso e adeguati alle merci depositate, nonché di termometri.
+
+<sup>2</sup> Sul lato interno della porta d’entrata è indicato in modo ben leggibile che è vietato fumare nonché lavorare in presenza di fuoco qualsiasi fiamma libera anche a solo scopo d’illuminazione e che non è consentito l’accesso alle persone non autorizzate.
+
+#### Art. 82
+
+**Prescrizioni d’esercizio**
+
+<sup>1</sup> I depositi e i magazzini sono chiusi a chiave. Le chiavi vanno custodite in un luogo sicuro.
+
+<sup>2</sup> Gli edifici adibiti a deposito o magazzino possono contenere unicamente esplosivi e gli accessori necessari al brillamento. All’interno si possono eseguire soltanto lavori di immagazzinamento.
+
+<sup>3</sup> L’accesso agli edifici adibiti a deposito o magazzino è permesso unicamente alle persone con esperienza nella manipolazione e nel trasporto delle merci depositate e che sono addette ai lavori.
+
+<sup>4</sup> Le merci depositate nei depositi e magazzini sotterranei devono essere a una distanza di almeno 30 cm dalle pareti e dalla soletta del soffitto.
+
+#### Art. 83
+
+**Armadi per esplosivi**
+
+<sup>1</sup> Gli armadi per esplosivi possono contenere al massimo 1000 kg di materie esplosive e 5000 capsule detonanti, detonatori a scoppio ritardato o detonatori. Sotto il profilo della costruzione, devono adempire i requisiti edilizi minimi (art. 75) per edifici adibiti a magazzino, avere una porta esterna del tipo prescritto per questo genere di edifici (art. 78 e 79) e rispettare le distanze minime secondo l’articolo 74; il compartimento dei mezzi d’innesco deve poter essere chiuso a chiave separatamente (cfr. allegato 10.1).
+
+<sup>2</sup> Gli armadi per esplosivi sono ancorati a un supporto stabile e muniti di messa a terra conformemente all’articolo 80 capoverso 4; se previsti in superficie, poggiano su suolo stabile e sono ricoperti con uno strato protettivo di inerti fini spesso almeno 50 cm. Se installati in roccia compatta, sono ancorati a essa (cfr. allegato 10.2).
+
+<sup>3</sup>
+
+Gli armadi per esplosivi, prodotti in serie con un involucro d’acciaio dello spessore di 5 mm, sono ammessi se:
+
+- a. ad eccezione dell’accesso, possono essere rivestiti su tutti i lati con cemento armato dello spessore di almeno 10 cm oppure, se collocati in roccia compatta, possono esservi ancorati;
+- b. la porta e la serratura presentano caratteristiche di sicurezza equivalenti a quelle prescritte per gli edifici adibiti a magazzino (art. 78 e 79).
+
+<sup>4</sup> Gli armadi per esplosivi con una capacità massima di 100 kg di materie esplosive e 1000 capsule detonanti, detonatori a scoppio ritardato o detonatori possono essere collocati anche in un locale non abitato al pianterreno di un edificio adibito a centro di manutenzione, a condizione che i locali adiacenti non siano occupati né in permanenza né temporaneamente da molte persone. Il locale va munito di estintori; non vi devono essere custoditi liquidi e sostanze infiammabili con punto d’infiammabilità inferiore a 100 °C.
+
+#### Art. 84
+
+**Contenitori per esplosivi**
+
+<sup>1</sup> I piccoli utilizzatori possono custodire al massimo 25 kg di materie esplosive e 100 capsule detonanti, detonatori a scoppio ritardato o detonatori in un contenitore resistente che possa essere chiuso a chiave e che sia munito di compartimenti separati (cfr. allegati 11.1 e 11.2). In casi motivati, i grandi utilizzatori possono essere autorizzati a custodire esplosivi in contenitori per esplosivi, con le stesse limitazioni vigenti per i piccoli utilizzatori.
+
+<sup>2</sup> L’interno del compartimento per i mezzi d’innesco deve essere rivestito di materiale assorbente, antistatico e che non genera scintille in caso di attrito.
+
+<sup>3</sup> I contenitori per esplosivi possono essere collocati soltanto in locali situati al pianterreno, non abitati, chiusi a chiave e non contenenti alcun materiale facilmente infiammabile. Sul luogo d’utilizzazione, questi contenitori e il loro contenuto devono essere salvaguardati da qualsiasi prelievo non autorizzato.
+
+#### Art. 85
+
+**Quantità ammesse sui cantieri e su altri luoghi d’utilizzazione**
+
+Sui cantieri e su altri luoghi d’utilizzazione, le scorte non devono eccedere il fabbisogno mensile. Quantità superiori possono essere autorizzate per i grandi progetti o in caso di difficoltà d’approvvigionamento (p. es. in inverno).
+
+### Sezione 2: Pezzi pirotecnici
+
+#### Art. 86
+
+**Pezzi pirotecnici per scopi professionali**[^86-1]
+
+<sup>1</sup> I pezzi pirotecnici della categoria P2 sono depositati e custoditi secondo le prescrizioni in materia di pezzi pirotecnici (art. 87–89).[^86-2]
+
+<sup>1bis</sup> L’UCEP può anche chiedere che determinati pezzi pirotecnici siano depositati e custoditi secondo le prescrizioni in materia di esplosivi (art. 74–84). Se del caso, può autorizzare senza limiti di tempo la loro custodia in contenitori per esplosivi (art. 84) fino a un contenuto massimo di 25 kg di peso netto di sostanze o materie esplosive.[^86-3]
+
+<sup>2</sup> I pezzi pirotecnici delle categorie T1, T2 e P1 possono essere depositati e custoditi secondo le prescrizioni in materia di fuochi d’artificio (art. 87–89).
+
+[^86-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^86-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^86-3]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 87
+
+**Deposito di fuochi d’artificio da parte di importatori e venditori**
+
+<sup>1</sup> I locali destinati al deposito di fuochi d’artificio in quantità superiore a 300 kg di peso lordo sono considerati grandi depositi; per quanto possibile, vanno sistemati in edifici isolati e sono utilizzati esclusivamente per detti prodotti.
+
+<sup>2</sup> I locali adibiti a deposito, che si trovano in edifici utilizzati anche per altri scopi, devono essere a prova d’incendio ed essere muniti di un’apertura di scarico della pressione. Gli edifici non devono trovarsi in una zona d’abitazione e non devono essere occupati né permanentemente né temporaneamente da molte persone.
+
+<sup>3</sup> I depositi devono avere almeno una porta che si apre nella direzione di fuga, contrassegnata come uscita di soccorso.
+
+<sup>4</sup> Gli impianti elettrici vanno installati secondo le regole riconosciute della tecnica per i locali esposti a pericolo d’incendio. Come regole riconosciute della tecnica valgono in particolare le norme IEC[^87-1] e CENELEC[^87-2]. In mancanza di norme internazionali armonizzate valgono le norme svizzere. Gli edifici sono muniti di una protezione contro i fulmini secondo i principi dell’ASE[^87-3].
+
+<sup>5</sup> I locali destinati al deposito di fuochi d’artificio in quantità pari o inferiore a 300 kg di peso lordo sono considerati piccoli depositi. Possono essere situati in zone d’abitazione, ma vanno costruiti con materiali refrattari e non devono contenere altre merci o sostanze infiammabili.
+
+<sup>6</sup> Per i locali, nei quali sono depositati temporaneamente fuochi d’artificio in quantità pari o inferiore a 50 kg di peso lordo, è sufficiente che siano costruiti con materiali ignifughi e, se il rischio d’incendio è basso, possono servire anche ad altri scopi.
+
+<sup>7</sup> Per il deposito a breve scadenza oppure per la preparazione di grandi fuochi d’artificio prima della loro accensione, è sufficiente che i locali non servano nello stesso tempo ad altri scopi.
+
+[^87-1]: International Electrotechnical Commission; le norme sono ottenibili a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^87-2]: Comité Européen de Normalisation Electrotecnique; le norme sono ottenibili a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^87-3]: I principi sono ottenibili presso l’Associazione per l’elettrotecnica, la tecnica energetica e l’’informatica (SEV), Luppmenstrasse 1, 8320 Fehraltorf; www.electrosuisse.ch
+
+#### Art. 88
+
+**Prescrizioni d’esercizio per grandi e piccoli depositi**
+
+<sup>1</sup> Nei locali adibiti a deposito possono essere eseguiti soltanto lavori generali di immagazzinamento e di spedizione. Cartelli ben visibili devono ricordare il divieto di fumare e di utilizzare fiamme e luci libere. I pezzi pirotecnici vanno depositati in luogo fresco e asciutto e, per quanto possibile, nel loro imballaggio di spedizione o di confezione.[^88-1]
+
+<sup>2</sup> L’accesso ai locali è autorizzato soltanto alle persone ivi occupate secondo le istruzioni dei sorveglianti responsabili. In assenza del personale, i locali sono chiusi a chiave.
+
+<sup>3</sup> Per il riscaldamento possono essere utilizzati soltanto impianti che non provocano né la combustione né la decomposizione della merce depositata. I locali sono muniti di estintori, in numero e capacità adeguati alle condizioni locali.
+
+<sup>4</sup> Polizia e vigili del fuoco devono essere informati sull’ubicazione e la natura della merce depositata.
+
+[^88-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 89
+
+**Custodia nei locali di vendita**
+
+<sup>1</sup> Nei locali di vendita, le scorte di fuochi d’artificio non devono superare i 30 kg di peso lordo. La merce va sistemata separatamente dagli altri materiali e oggetti infiammabili, in contenitori o cassetti chiusi a chiave, non accessibili alla clientela.
+
+<sup>2</sup> I fuochi d’artificio destinati direttamente alla vendita devono essere esposti nella loro confezione più piccola oppure dietro vetro. Nelle vetrine e nelle teche vanno esposti unicamente campioni fittizi. Un’iscrizione deve dichiararli come tali.
+
+<sup>3</sup> Nella vendita all’aperto, la quantità in vendita non supera il presumibile fabbisogno giornaliero ed è sorvegliata da personale istruito allo scopo.
+
+<sup>4</sup> Alle entrate e alle uscite nonché nei passaggi che possono fungere da uscita di soccorso non devono essere installati posti di vendita di fuochi d’artificio. La vendita di questi articoli è vietata all’interno dei grandi magazzini con una superficie di vendita superiore a 1000 m<sup>2</sup>.
+
+<sup>5</sup> Nei punti di vendita, il divieto di fumare è indicato mediante cartelli ben visibili. Se i fuochi d’artificio sono in vendita in uno speciale locale, il divieto di fumare è esposto già all’ingresso, con riferimento alla merce in vendita. Il venditore è tenuto a far rispettare tale divieto.
+
+#### Art. 90
+
+**Persone responsabili**
+
+I titolari di imprese commerciali e di negozi designano le persone responsabili di vigilare sul deposito, sulla spedizione e sulla vendita dei pezzi pirotecnici. Tali persone devono avere esperienza nella manipolazione degli esplosivi, conoscere le prescrizioni legali e, in caso di esplosione o d’incendio, essere in grado di prendere i necessari provvedimenti di sicurezza.
+
+## Titolo 7: Trasporto di esplosivi****
+
+[^tit7-1]
+
+[^tit7-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 91
+
+**Trasporto su strade industriali e fino a luogo d’utilizzazione[^91-1]**
+
+<sup>1</sup> Sulle strade e vie che servono esclusivamente all’uso privato, le materie esplosive e i mezzi d’innesco possono essere trasportati sullo stesso veicolo. Vanno lasciati nei loro imballaggi di spedizione, disposti in compartimenti separati del veicolo.
+
+<sup>2</sup> In mancanza degli imballaggi di spedizione, gli esplosivi sono trasportati in contenitori chiusi. Allo scopo, può essere utilizzato anche un contenitore con compartimenti separati per le materie esplosive e per i mezzi d’innesco, munito di bretella per il trasporto (cfr. allegato 11.2).
+
+<sup>3</sup> I contenitori per il trasporto di esplosivi sono confezionati in materiale antistatico e che non genera scintille all’attrito. I coperchi dei contenitori che servono al trasporto di esplosivi sotto forma di grani sciolti hanno la chiusura ermetica.
+
+<sup>4</sup> Anche il trasporto di quantità esigue di esplosivi nonché il trasporto a mano sul luogo d’utilizzazione sono consentiti soltanto in imballaggi o contenitori chiusi e resistenti.
+
+[^91-1]: Introdotta dal n. I dell’O del 21 set. 2012 ([RU 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)). Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 91a
+
+**Documentazione per il trasporto intracomunitario[^91a-2]**[^91a-1]
+
+<sup>1</sup> Gli esplosivi trasportati sono accompagnati dal «documento sul trasferimento intracomunitario di esplosivi» previsto dalla decisione 2004/388/CE[^91a-3], sprovvisto degli emblemi dell’Unione europea.
+
+<sup>2</sup> Gli eventuali emblemi dell’Unione europea già apposti in conformità alle norme UE possono essere mantenuti.
+
+[^91a-1]: Introdotto dal n. I dell’O del 21 set. 2012, in vigore dal 1° ott. 2012 ([RU 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+[^91a-2]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^91a-3]: Decisione 2004/388/CE della Commissione, del 15 apr. 2004, relativa alla documentazione sul trasferimento intracomunitario di esplosivi, GU L 120 del 24.4.2004, pag. 43; modificata da ultimo dalla decisione 2010/347/UE, GU L 155 del 22.6.2010, pag. 54.
+
+## Titolo 8: Utilizzazione e distruzione
+
+### Capitolo 1: Prescrizioni generali di protezione e di sicurezza
+
+#### Art. 92
+
+**Disposizione comune**
+
+<sup>1</sup> Ove la legislazione sugli esplosivi non contempli prescrizioni sull’utilizzazione e la distruzione di esplosivi e di pezzi pirotecnici, vanno rispettate le regole generali riconosciute della tecnica.
+
+<sup>2</sup> Per definire tali regole occorre segnatamente far capo alla documentazione relativa alla formazione e agli esami nonché alle indicazioni del fabbricante e alle istruzioni per l’uso.
+
+#### Art. 93
+
+**Responsabilità dei titolari di permesso d’uso[^93-1]**
+
+<sup>1</sup> Fatto salvo l’articolo 52 capoversi 6<sup>bis</sup> e 7, i lavori di brillamento e i lavori che implicano l’uso di pezzi pirotecnici delle categorie T2, P2 o F4 devono essere diretti da persone titolari di un permesso d’uso. Queste ultime sono responsabili dell’osservanza delle prescrizioni e delle regole generali riconosciute dalla tecnica.[^93-2]
+
+<sup>2</sup> Quando si ricorre a esperti qualificati, questi sono responsabili che l’esecuzione dei lavori della loro parte del progetto avvenga secondo le loro istruzioni.
+
+[^93-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^93-2]: Nuovo testo giusta il n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+
+#### Art. 94
+
+**Esplosivi utilizzabili**
+
+<sup>1</sup> Le micce di sicurezza utilizzate per un determinato brillamento devono essere dello stesso fabbricante e avere la stessa durata di combustione. Questo fatto va verificato.
+
+<sup>2</sup> Le cariche utilizzate per un determinato brillamento devono avere detonatori dello stesso tipo e dello stesso fabbricante. Sono ammesse combinazioni idonee di diversi sistemi d’innesco.
+
+<sup>3</sup> Gli esplosivi che presentano difetti non devono essere utilizzati.
+
+<sup>4</sup> Gli esplosivi gelati non vanno utilizzati. In caso di temperature inferiori al limite critico di gelo, la preparazione delle cariche e il caricamento dei fori sono effettuati in modo che l’esplosivo non geli.
+
+### Capitolo 2: Perforazione e caricamento
+
+#### Art. 95
+
+**Perforazione**
+
+<sup>1</sup> Il foro di mina va preparato in modo che possa essere caricato a regola d’arte.
+
+<sup>2</sup> Si può dare avvio al caricamento dei fori soltanto quando è da escludere che l’operazione del perforare possa portare all’esplosione di una carica.
+
+<sup>3</sup> È vietato ripetere la perforazione in un foro di mina svuotato oppure non completamente distrutto dall’esplosione. La direzione del foro va marcata introducendovi un calcatoio, prima di effettuare una nuova perforazione vicino a esso.
+
+#### Art. 96
+
+**Caricamento**
+
+<sup>1</sup> Per caricare i fori di mina si possono utilizzare unicamente calcatoi di legno, tubi e imbuti di carica antistatici che non generano scintille.
+
+<sup>2</sup> I posti di lavoro nei quali è prevista l’utilizzazione di apparecchi di carica ad azionamento meccanico o pneumatico, vanno previamente segnalati all’INSAI.
+
+### Capitolo 3: Innesco
+
+#### Art. 97
+
+**Miccia di sicurezza**
+
+<sup>1</sup> La miccia di sicurezza deve avere una lunghezza tale da consentire l’accensione in tutta sicurezza e permettere alla squadra di brillamento di raggiungere sicuramente il coperto. È vietato utilizzare micce di sicurezza con una durata di combustione inferiore a 90 secondi.
+
+<sup>2</sup> Per ogni brillamento è permesso accendere al massimo 10 micce di sicurezza. A questa regola può derogare unicamente chi ha un’espressa autorizzazione scritta dell’INSAI.
+
+<sup>3</sup> Il collegamento fra la capsula detonante e la miccia di sicurezza va protetto dalle infiltrazioni d’acqua.
+
+#### Art. 98
+
+**Apparecchi per l’innesco e la verifica**
+
+<sup>1</sup> Gli apparecchi per l’innesco (esploditori, dispositivi d’innesco, ecc.) devono garantire un innesco affidabile ed essere costruiti in modo da impedire un azionamento non autorizzato.
+
+<sup>2</sup> Per la verifica dei detonatori e dei circuiti d’innesco vanno utilizzati soltanto apparecchi di misurazione destinati esclusivamente a questo scopo. Essi sono costruiti in modo che l’attivazione del detonatore non sia possibile.
+
+<sup>3</sup> Sugli apparecchi devono figurare i dati tecnici necessari per un’utilizzazione sicura.
+
+<sup>4</sup> Gli apparecchi devono inoltre essere conformi ai requisiti essenziali di sicurezza secondo la legge federale del 12 giugno 2009[^98-1] sulla sicurezza dei prodotti e dell’ordinanza del 19 maggio 2010[^98-2] sulla sicurezza dei prodotti.[^98-3]
+
+[^98-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^98-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^98-3]: Nuovo testo giusta l’all. 4 n. II 12 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+
+#### Art. 99
+
+**Distanza di sicurezza dagli impianti di energia elettrica**
+
+In caso di innesco elettrico, vanno rispettate le distanze di sicurezza minime dagli impianti d’energia elettrica (come stazioni radioemittenti, impianti radar, impianti sotto corrente elettrica), indicate dal fabbricante.
+
+#### Art. 100
+
+**Controlli e innesco**
+
+<sup>1</sup> Per l’attivazione dei detonatori elettrici si devono utilizzare unicamente appositi apparecchi omologati.
+
+<sup>2</sup> Prima di procedere alla sua attivazione, il circuito d’innesco pronto all’uso deve essere controllato.
+
+<sup>3</sup> L’esploditore va collegato al circuito d’innesco soltanto dopo che è stato dato il secondo segnale d’avvertimento (art. 104). Immediatamente dopo l’attivazione, esso va bloccato in modo da escludere qualsiasi ulteriore attivazione involontaria. Lo stesso vale anche nel caso di attivazione mancata.
+
+#### Art. 101
+
+**Misure di sicurezza in caso di temporale**
+
+<sup>1</sup> Se vi è il rischio che un fulmine possa provocare un innesco non voluto, occorre adottare adeguate misure di sicurezza, come la scelta del sistema d’innesco oppure l’impiego di un servizio d’allarme.
+
+<sup>2</sup> Le cariche già pronte e provviste di detonatore elettrico vanno fatte brillare il più rapidamente possibile, rispettando le prescrizioni di sicurezza e quelle sui segnali d’avvertimento. Se questo non è più possibile, il luogo di brillamento deve essere abbandonato e l’accesso alla zona sbarrato fino alla fine del temporale.
+
+<sup>3</sup> Nel caso di opere sotterranee, si tiene conto della distanza fra il luogo di brillamento e il portale, della profondità come pure delle installazioni di galleria, come condutture per aria e acqua, impianti di ventilazione e binari.
+
+### Capitolo 4: Misure di sicurezza prima e dopo l’innesco
+
+#### Art. 102
+
+**Consultazioni**
+
+I brillamenti in prossimità di vie di comunicazione o impianti di approvvigionamento pubblici, come strade, ferrovie, funivie, funicolari, linee ad alta tensione e impianti di trasporto in condotta nonché impianti di telecomunicazioni, vanno convenuti con i servizi competenti.
+
+#### Art. 103
+
+**Misure di sicurezza e di protezione**
+
+<sup>1</sup>
+
+Il capo minatore provvede affinché:
+
+- a. il brillamento non metta in pericolo nessuno né la proprietà altrui né l’ambiente;
+- b. tutte le strade e gli accessi che portano nella zona di pericolo del brillamento siano sorvegliati e sbarrati per la durata del pericolo; per lo sbarramento delle vie di comunicazione pubbliche sono applicabili le prescrizioni dell’ordinanza del 13 novembre 1962[^103-1] sulle norme della circolazione stradale (ONC);
+- c. gli esplosivi sul luogo del brillamento siano al sicuro e vengano riconsegnati al termine dei lavori;
+- d. l’innesco possa avvenire soltanto sotto la sua sorveglianza.
+
+<sup>2</sup> Prima che sia dato il primo segnale d’avvertimento, il capo minatore assegna un luogo sicuro alle persone che si trovano nella zona di pericolo del brillamento.
+
+[^103-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+
+#### Art. 104
+
+**Segnali d’avvertimento**
+
+<sup>1</sup>
+
+Il capo minatore dà i seguenti segnali d’avvertimento:
+
+- a. primo segnale, avviso di brillamento: almeno 5 suoni prolungati;
+- b. secondo segnale, innesco: tre suoni brevi;
+- c. terzo segnale, fine del brillamento: un suono prolungato.
+
+<sup>2</sup> Al primo segnale, tutte le persone devono recarsi nel luogo loro assegnato dal capo minatore. Dopo il secondo segnale, si può procedere al brillamento. Dopo il terzo segnale, si possono togliere gli sbarramenti.
+
+<sup>3</sup> Il capo minatore spiega il significato dei segnali a tutti gli interessati.
+
+<sup>4</sup> I segnali sono dati con corni chiaramente udibili. Se i corni non bastano, si usano altri mezzi idonei.
+
+<sup>5</sup> Si può rinunciare ai segnali acustici, se tra la squadra di brillamento e gli altri interessati esiste un collegamento sicuro e la sicurezza rimane garantita.
+
+#### Art. 105
+
+**Tempi d’attesa**
+
+<sup>1</sup> In caso d’innesco pirotecnico, il capo minatore controlla con l’orologio la durata di combustione della miccia di sicurezza e conta le detonazioni.
+
+<sup>2</sup> Se non tutte le cariche sono esplose o se vi sono dubbi in proposito, nessuno lascia il proprio coperto prima che siano trascorsi 15 minuti dall’accensione dell’ultima miccia di sicurezza. Lo stesso vale se una miccia di sicurezza è stata apparentemente accesa senza successo. Quando si utilizzano micce di sicurezza con una durata di combustione superiore a 7 minuti, occorre prolungare corrispondentemente il tempo d’attesa.
+
+<sup>3</sup> In caso di sistemi d’innesco, come quello elettrico e quello a tubo, il tempo d’attesa dopo l’innesco stesso e in caso di cariche inesplose corrisponde al tempo di ritardamento dei detonatori utilizzati.
+
+<sup>4</sup> Dopo l’innesco infruttuoso di cariche inesplose munite di miccia di sicurezza, occorre in ogni caso rispettare un tempo d’attesa di 15 minuti, indipendentemente dal sistema d’innesco utilizzato.
+
+<sup>5</sup> Dopo l’esplosione di cariche per formare camere di mina, il nuovo caricamento può avvenire soltanto dopo che la camera si è raffreddata.
+
+<sup>6</sup> L’accesso ai luoghi in cui si trovano i gas provocati dall’esplosione è consentito soltanto dopo che questi si sono dissipati o sufficientemente diradati.
+
+#### Art. 106
+
+**Controllo del luogo di brillamento**
+
+<sup>1</sup> A brillamento avvenuto o trascorso il tempo d’attesa, solo il capo minatore esce dal coperto e si accerta che non vi siano più pericoli.
+
+<sup>2</sup> Le cariche inesplose accertate vanno immediatamente neutralizzate secondo le regole dell’arte. Il capo minatore istruisce dettagliatamente la sua squadra anche sul modo di comportarsi in caso di ulteriori ritrovamenti di cariche inesplose.
+
+<sup>3</sup> Il capo minatore può lasciare il posto di lavoro soltanto quando tutte le cariche inesplose sono state distrutte o marcate in modo evidente e dopo avere personalmente informato il suo subentrante sul numero e l’ubicazione esatti delle cariche inesplose da distruggere e avergliene conferito la responsabilità.
+
+<sup>4</sup> Se nel corso di brillamenti per staccare valanghe non è possibile distruggere immediatamente le cariche inesplose a causa di circostanze esterne come le condizioni meteorologiche, lo stato del manto nevoso o il pericolo di valanghe, il capo minatore indica con precisione, in un verbale con allegato schizzo della situazione, la posizione delle cariche inesplose, sbarra la zona a rischio e procede appena possibile alla distruzione delle cariche inesplose.
+
+### Capitolo 5: Distruzione e smaltimento
+
+#### Art. 107
+
+**Principio**
+
+<sup>1</sup> Gli esplosivi e i pezzi pirotecnici divenuti inutilizzabili possono essere distrutti secondo le condizioni di cui all’articolo 108, rispettando tuttavia le regole dell’arte.
+
+<sup>2</sup> Sono considerati inutilizzabili gli esplosivi e i pezzi pirotecnici le cui caratteristiche si sono modificate in seguito a effetti meccanici, all’umidità o a un deposito prolungato nonché quelli per i quali è scaduto il termine d’utilizzazione.
+
+<sup>3</sup> Per quanto concerne i pezzi pirotecnici anche quelli che non si sono accesi sono considerati pezzi divenuti inutilizzabili.
+
+#### Art. 108
+
+**Distruzione**
+
+<sup>1</sup> Piccole quantità di esplosivi, come singole cartucce di esplosivo o singoli detonatori, possono essere distrutte mediante brillamento dai titolari di un permesso, anche se in esso non figura un’abilitazione esplicita.[^108-1]
+
+<sup>2</sup> La distruzione di quantità più grandi di esplosivi è considerata brillamento speciale e va effettuata secondo le istruzioni dell’INSAI.
+
+<sup>3</sup> I pezzi pirotecnici possono essere distrutti unicamente da fabbricanti e persone appositamente formate. Gli operatori economici sono tenuti a riprendere i pezzi pirotecnici e a consegnarli ai fini della loro distruzione a una persona competente ai sensi del presente capoverso.[^108-2]
+
+[^108-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^108-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 109
+
+**Smaltimento o riconsegna**
+
+Gli esplosivi e i pezzi pirotecnici che non possono essere distrutti in base all’articolo 108 sono smaltiti dal proprietario in modo rispettoso dell’ambiente o riconsegnati a tale scopo al fabbricante.
+
+## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica****
+
+[^tit9-1]
+
+[^tit9-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+### Capitolo 1: Registri
+
+#### Art. 110
+
+<sup>1</sup> Come utilizzatore di esplosivi è obbligato a tenere registri, chi ritira materie esplosive e capsule detonanti o detonatori in quantità superiori a quelle menzionate all’articolo 46 capoverso 1.
+
+<sup>2</sup>
+
+Dagli elenchi dei fabbricanti, importatori, venditori e utilizzatori di esplosivi obbligati a tenere registri devono risultare:
+
+- a. le entrate, le uscite e le giacenze;
+- b. il nome e l’indirizzo dei fornitori e dei clienti nonché le date delle operazioni commerciali;
+- c.[^110-1] i dati di cui all’allegato 14.
+
+<sup>2bis</sup> Gli elenchi devono soddisfare i requisiti di cui all’allegato 14.[^110-2]
+
+<sup>3</sup> Gli elenchi forniscono informazioni sulle mutazioni quotidiane e sulla ricapitolazione mensile.
+
+<sup>4</sup> Quali giustificativi per quanto registrato occorre poter esibire in qualsiasi momento le fatture e i permessi d’acquisto. Gli utilizzatori devono inoltre poter presentare le attestazioni per tutte le forniture giornaliere destinate ai cantieri, firmate da una persona con conoscenze specialistiche.[^110-3]
+
+<sup>5</sup> Se le materie esplosive sono preparate, in caricatori, soltanto sul luogo d’utilizzazione, è tenuto un registro sul genere e le quantità dei loro componenti.
+
+<sup>6</sup> I fabbricanti, gli importatori e i venditori di pezzi pirotecnici e di polvere da sparo devono tenere un registro per ciascun genere d’articolo, eccettuati i fuochi d’artificio delle categorie F1–F3 ammessi nel commercio al dettaglio, mentre gli utilizzatori vi sono obbligati soltanto per i pezzi pirotecnici delle categorie T2, P2 e F4. I registri, i permessi d’acquisto nonché le autorizzazioni per l’accensione vanno conservati in modo ordinato per almeno dieci anni.[^110-4]
+
+[^110-1]: Introdotta dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^110-2]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^110-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^110-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### Capitolo 2: Vigilanza
+
+#### Art. 111
+
+**Controlli da parte dei Cantoni**
+
+<sup>1</sup> I Cantoni sorvegliano il commercio degli esplosivi e dei pezzi pirotecnici, in particolare la loro fabbricazione, vendita, deposito, messa al sicuro e utilizzazione.
+
+<sup>2</sup> Informano immediatamente l’UCEP, se riscontrano esplosivi o pezzi pirotecnici non ammessi o non più utilizzabili. Possono inviare all’UCEP campioni per esame.
+
+<sup>3</sup> Almeno ogni due anni e senza preavviso, esaminano gli elenchi dei fabbricanti, dei venditori e degli utilizzatori obbligati a tenere registri. Il controllo è iscritto nell’elenco, indicando la data.
+
+<sup>4</sup> Resta salva la vigilanza del commercio degli esplosivi e dei pezzi pirotecnici da parte di organi federali in virtù di altre leggi. Questi coordinano la loro attività con quella degli organi di controllo cantonali.
+
+#### Art. 112
+
+**Controlli da parte di organi doganali**
+
+<sup>1</sup> I controlli alla frontiera spettano agli organi doganali.
+
+<sup>2</sup> Gli invii per i quali manca l’autorizzazione d’importazione sono trattenuti e annunciati all’UCEP.
+
+<sup>3</sup>
+
+Gli invii sono trattenuti e annunciati alla SECO, se:
+
+- a. manca l’autorizzazione d’esportazione;
+- b. per il transito manca la prova della fornitura giuridicamente conforme (art. 25 dell’O del 25 giu. 1977[^112-1] sul controllo dei beni a duplice impiego).
+
+[^112-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 43537, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 n. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 n. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4, [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446)[4553](https://fedlex.data.admin.ch/eli/oc/2014/760), [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Vedi ora l’O del 3 giu. 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+
+### Capitolo 3: Tasse
+
+#### Art. 112a
+
+**Applicabilità dell’ordinanza generale sugli emolumenti**[^112a-1]
+
+Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^112a-2] sugli emolumenti.
+
+[^112a-1]: Introdotto dall’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^112a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 113
+
+**Per le autorizzazioni**
+
+<sup>1</sup> Per il rilascio di autorizzazioni sono riscosse le seguenti tasse:
+
+Franchi
+
+- a. autorizzazioni di fabbricazione (art. 27) da 50 a 1000
+- b. autorizzazioni d’importazione (art. 31) da 50 a 1000
+- c. autorizzazioni di vendita (art. 35) da 50 a 500
+- d. permessi d’acquisto (art. 45) da 20 a 200
+- e.[^113-1] permessi d’acquisto per piccoli utilizzatori (art. 46) da 5 a 200
+- f. [^113-2] permessi d’acquisto per le categorie T2, P2 e F4 da 5 a 200
+- g. autorizzazioni eccezionali ai sensi degli articoli 30 e 33 da 100 a 500
+
+<sup>2</sup> Le tasse per il rilascio dei permessi d’uso (art. 57) sono disciplinate dall’ordinanza del 16 giugno 2006[^113-3] sugli emolumenti della SEFRI.[^113-4]
+
+[^113-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^113-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^113-3]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^113-4]: Introdotto dall’all. n. 5 dell’O dal 16 giu. 2006 sugli emolumenti della SEFRI ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)). Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 114
+
+**Per gli esami di capacità cantonali**
+
+Per gli esami presso un Cantone in vista del conseguimento del permesso d’uso, la tassa ammonta a 300–1000 franchi.[^114-1]
+
+[^114-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 115
+
+**Per i controlli**[^115-1]
+
+<sup>1</sup> Per decisioni concernenti i provvedimenti adottati in caso di non conformità degli esplosivi o dei pezzi pirotecnici (art. 17 e 25*b*), la tassa riscossa è compresa tra 100 e 5000 franchi.[^115-2]
+
+<sup>2</sup> Per controlli susseguenti ai sensi dell’articolo 16 possono essere riscosse tasse comprese tra 50 e 5000 franchi, se viene riscontrato che l’esplosivo non è conforme oppure che la dichiarazione o l’attestato di conformità non è sufficiente.
+
+<sup>3</sup> Per controlli speciali possono essere riscosse tasse comprese tra 100 e 10 000 franchi. Sono considerati tali i controlli eseguiti in seguito a infrazioni alla LEspl o all’ordinanza e quelli cagionati dal comportamento del titolare di un’autorizzazione o permesso.
+
+[^115-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^115-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 116
+
+**Esborsi**
+
+Alle tasse sono aggiunti gli esborsi relativi ai costi supplementari, segnatamente:
+
+- a. i costi relativi al rilevamento di prove, ad analisi scientifiche, a esami speciali o all’acquisizione di documenti;
+- b. le spese di viaggio e di trasporto;
+- c. i costi per i compiti che l’autorità competente fa eseguire a terzi.
+
+### Capitolo 4: Collaborazione tecnico-scientifica****
+
+[^tit9-chap4-1]
+
+[^tit9-chap4-1]: Introdotto dall’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 117
+
+[^117-1]
+
+L’UCEP può collaborare con servizi tecnico-scientifici, in particolare con il Servizio scientifico di ricerca dell’Istituto forense di Zurigo. La collaborazione è disciplinata su base contrattuale.
+
+[^117-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+## Titolo 9*a*:**** Banca dati BARBARA
+
+[^tit9a-1]
+
+[^tit9a-1]: Introdotto dall’appendice 2 n. 3 dell’O l’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+#### Art. 117a
+
+**Scopo**
+
+La banca dati BARBARA è finalizzata a combattere i reati correlati al commercio di esplosivi, pezzi pirotecnici e polvere da sparo. Serve inoltre al disbrigo delle pratiche amministrative relative al commercio di tali oggetti.
+
+#### Art. 117b
+
+**Competenza**
+
+La gestione di BARBARA è di competenza dell’Ufficio federale di polizia (fedpol).
+
+#### Art. 117c
+
+**Struttura**
+
+BARBARA è composta di:
+
+- a. dati sulle autorizzazioni;
+- b. dati sullo scambio di comunicazioni e informazioni;
+- c. dati su eventi collegati al commercio di esplosivi, pezzi pirotecnici e polvere da sparo;
+- d. documentazione tecnica.
+
+#### Art. 117d
+
+**Contenuto**
+
+L’UCEP tratta in BARBARA i dati personali seguenti:
+
+- a. i numeri d’identificazione attribuiti (art. 24);
+- b. le autorizzazioni di fabbricazione rilasciate (art. 27);
+- c. le autorizzazioni eccezionali rilasciate (art. 30);
+- d. le autorizzazioni d’importazione rilasciate (art. 31);
+- e. le autorizzazioni di vendita rilasciate (art. 35);
+- f. la gestione della corrispondenza e delle pratiche.
+
+<sup>2</sup>
+
+BARBARA contiene i seguenti dati resi anonimi sul commercio di esplosivi, pezzi pirotecnici e polvere da sparo:
+
+- a. i rapporti di polizia;
+- b. i rapporti d’inchiesta, segnatamente del Servizio scientifico di ricerca dell’Istituto forense di Zurigo.
+
+#### Art. 117e
+
+**Diritti d’accesso**
+
+<sup>1</sup>
+
+Le seguenti autorità possono accedere per mezzo di una procedura di richiamo ai dati registrati in BARBARA:
+
+- a. l’UCEP e i servizi cantonali responsabili dell’esecuzione della legislazione sugli esplosivi;
+- b. la Polizia giudiziaria federale per l’adempimento dei suoi compiti disciplinati dalla legge federale del 7 ottobre 1994[^117e-1] sugli Uffici centrali di polizia giudiziaria della Confederazione, dal Codice di procedura penale[^117e-2] e dalla legge federale del 23 dicembre 2011[^117e-3] sulla protezione extraprocessuale dei testimoni.
+- c. il consulente per la protezione dei dati di fedpol per l’adempimento dei suoi compiti di controllo;
+- d. le persone incaricate della manutenzione informatica e della programmazione per l’adempimento dei loro compiti.
+
+<sup>2</sup> I dettagli dei diritti d’accesso sono disciplinati nell’allegato 17.
+
+[^117e-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^117e-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^117e-3]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+
+#### Art. 117f
+
+**Trasmissione dei dati**
+
+<sup>1</sup> L’UCEP può trasmettere dati a terzi, nella misura in cui essi ne abbiano bisogno per adempiere i loro compiti legali e siano autorizzati a trattarli.
+
+<sup>2</sup>
+
+Su richiesta, l’UCEP può trasmettere dati registrati nella banca dati in particolare alle seguenti autorità, nella misura in cui esse ne abbiano bisogno per adempiere i loro compiti legali e siano autorizzate a trattarli:
+
+- a. alle autorità di perseguimento penale federali e cantonali;
+- b. all’Istituto forense di Zurigo;
+- c. alla SUVA;
+- d.[^117f-1] alla SEFRI.
+
+[^117f-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 117g
+
+**Verbalizzazione**
+
+Il trattamento dei dati in BARBARA è verbalizzato. I verbali sono conservati per un anno.
+
+#### Art. 117h
+
+**Durata di conservazione e distruzione dei dati**
+
+<sup>1</sup> Dopo la loro registrazione, i dati di cui all’articolo 117*c* capoverso 1 lettere a e b sono conservati per dieci anni.
+
+<sup>2</sup> Allo scadere della durata di conservazione i dati sono distrutti, sempreché non debbano essere consegnati all’Archivio federale.
+
+#### Art. 117i
+
+**Archiviazione**
+
+L’offerta di dati all’Archivio federale è retta dall’articolo 21 della legge federale del 19 giugno 1992[^117i-1] sulla protezione dei dati e dall’articolo 6 della legge del 26 giugno 1998[^117i-2] sull’archiviazione.
+
+[^117i-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117i-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 117j
+
+**Sicurezza dei dati**
+
+<sup>1</sup> La sicurezza dei dati è retta dall’articolo 7 della legge federale del 19 giugno 1992[^117j-1] sulla protezione dei dati, dall’ordinanza del 27 maggio 2020[^117j-2] sui ciber-rischi e dalle istruzioni del Consiglio federale del 16 gennaio 2019[^117j-3] sulla sicurezza TIC nell’Amministrazione federale.[^117j-4]
+
+<sup>2</sup> L’UCEP adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
+
+[^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^117j-3]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^117j-4]: Nuovo testo giusta l’all. n. 20 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+
+#### Art. 117k
+
+**Diritto all’informazione**
+
+Il diritto all’informazione, alla rettifica e alla distruzione dei dati è retto dalle disposizioni della legge federale del 19 giugno 1992[^117k-1] sulla protezione dei dati.
+
+[^117k-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 117l
+
+**Regolamento sul trattamento dei dati**
+
+Fedpol emana un regolamento sul trattamento dei dati in Barbara.
+
+## Titolo 10: Disposizioni finali
+
+#### Art. 118
+
+**Allegati**[^118-1]
+
+Il Dipartimento federale di giustizia e polizia può adeguare gli allegati 1–16 alle circostanze.
+
+[^118-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 119
+
+[^119-1]
+
+[^119-1]: Abrogato dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+#### Art. 119a
+
+**Disposizioni transitorie concernenti la modifica del 12 maggio 2010**[^119a-1]
+
+<sup>1</sup> e <sup>2</sup> ...[^119a-2]
+
+- a. 1° gennaio 2012 per i fuochi d’artificio delle categorie F1–F3;
+- b. 1° gennaio 2014 per le categorie T1, T2, P1, P2, P3 e F4.
+
+<sup>3</sup> Con l’entrata in vigore della modifica del 12 maggio 2010, i pezzi pirotecnici non necessitano di alcun attestato di conformità, se la loro ammissione è avvenuta conformemente al diritto anteriore e non è ancora scaduta. Quest’esenzione è valida fino alla scadenza dell’ammissione, tuttavia non oltre il 3 luglio 2017.
+
+<sup>4</sup> ...[^119a-3]
+
+<sup>5</sup> Se per un pezzo pirotecnico non sono state ancora definite le norme necessarie per la procedura di valutazione della conformità, prevista dall’articolo 25, l’UCEP è competente per l’ammissione secondo le disposizioni dell’allegato 16.
+
+<sup>6</sup> I pezzi pirotecnici della categoria T2 possono essere forniti all’acquirente senza permesso d’uso, finché il permesso d’uso per pezzi pirotecnici e il permesso d’acquisto per questa categoria non saranno disponibili, tuttavia al massimo fino al 1° gennaio 2014.
+
+<sup>7</sup> I pezzi pirotecnici della categoria F4 possono essere forniti all’acquirente, dopo che questi è stato informato dal venditore in merito all’uso e alle disposizioni da osservare in materia di sicurezza e finché il permesso d’uso per pezzi pirotecnici e il permesso d’acquisto per questa categoria non saranno disponibili, tuttavia al massimo fino al 1° gennaio 2014.
+
+<sup>8</sup> I permessi d’uso ai sensi dell’articolo 14 LEspl rilasciati prima dell’entrata in vigore della modifica del 12 maggio 2010, rimangono validi. Le abilitazioni sono tuttavia rette dalle disposizioni della presente modifica.
+
+<sup>9</sup> I permessi di brillamento A con data anteriore al 1° gennaio 1991 nonché la menzione speciale per staccare valanghe con data d’esame anteriore al 1° gennaio 1988 abilitano soltanto all’utilizzazione entro i limiti finora ammessi.
+
+[^119a-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^119a-2]: Abrogati dal n. I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^119a-3]: Abrogata dal n. I dell’O del 21 mar. 2012, con effetto dal 4 apr. 2012 ([RU 2012 1485](https://fedlex.data.admin.ch/eli/oc/2012/200)).
+
+#### Art. 119b
+
+**Disposizione transitoria concernente l’identificazione e la tracciabilità degli esplosivi**[^119b-1]
+
+I requisiti in materia d’identificazione e di tracciabilità degli esplosivi di cui agli articoli 20, 21, 23 e all’allegato 14 devono essere soddisfatti a decorrere dal 5 aprile 2013. I requisiti di cui all’allegato 14 numero 2 capoverso 10 e numeri 12 e 13 devono essere invece soddisfatti soltanto a decorrere dal 5 aprile 2015.[^119b-2]
+
+[^119b-1]: Introdotto dal n. I dell’O del 21 mar. 2012, in vigore dal 4 apr. 2012 ([RU 2012 1485](https://fedlex.data.admin.ch/eli/oc/2012/200)).
+[^119b-2]: Nuovo testo del per. giusta il n. I dell’O del 21 set. 2012, in vigore dal 1° ott. 2012 ([RU 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+
+#### Art. 119c
+
+**Disposizione transitoria concernente le etichette dei pezzi pirotecnici**[^119c-1]
+
+Le etichette dei pezzi pirotecnici recanti la vecchia denominazione delle categorie (1–4) sono ammesse sul mercato al massimo fino al 31 gennaio 2026.
+
+[^119c-1]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+#### Art. 119d
+
+**Disposizioni transitorie della modifica del 12 aprile 2017**[^119d-1]
+
+<sup>1</sup>
+
+Le autorizzazioni di fabbricazione o d’importazione possono essere rilasciate al massimo fino al 3 luglio 2017 per i pezzi pirotecnici delle categorie F4, T1, T2, P1 e P2 che:
+
+- a. avevano già ottenuto un’autorizzazione di fabbricazione o d’importazione prima dell’entrata in vigore della modifica del 12 maggio 2010;
+- b. non hanno ancora ottenuto una dichiarazione di conformità.
+
+<sup>2</sup> Le autorizzazioni di fabbricazione o d’importazione rilasciate prima del 3 luglio 2017 rimangono valide fino alla loro scadenza.
+
+<sup>3</sup> I pezzi pirotecnici la cui fabbricazione o importazione è stata autorizzata secondo i capoversi 1 e 2 possono essere messi a disposizione sul mercato al massimo fino al 31 gennaio 2021.
+
+[^119d-1]: Introdotto dal n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+
+#### Art. 120
+
+**Abrogazione del diritto previgente**
+
+L’ordinanza sugli esplosivi del 26 marzo 1980[^120-1] è abrogata.
+
+[^120-1]: [[RU 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536), [1984 424](https://fedlex.data.admin.ch/eli/oc/1984/424_424_424), [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982), [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 9 [291](https://fedlex.data.admin.ch/eli/oc/2000/57)n. II 8]
+
+#### Art. 121
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° febbraio 2001.
+
+Allegato 1*[^t-1]*
+
+(art. 6 e 7)
+
+## Classificazione dei pezzi pirotecnici
+
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### 1 Pezzi pirotecnici per scopi professionali
+
+### 1.1 Categoria T1
+
+Pezzi pirotecnici per uso scenico, in interni o all’aperto, anche in produzioni cinematografiche e televisive o per usi analoghi e che presentano un rischio potenziale ridotto.
+
+### 1.2 Categoria T2
+
+Pezzi pirotecnici destinati a essere utilizzati esclusivamente da persone con conoscenze specialistiche, per uso scenico, in interni o all’aperto, anche in produzioni cinematografiche e televisive o per usi analoghi.
+
+### 1.3 Categoria P1
+
+Pezzi pirotecnici diversi dai fuochi d’artificio e dai pezzi pirotecnici per uso scenico che presentano un rischio potenziale ridotto.
+
+### 1.4 Categoria P2
+
+Pezzi pirotecnici diversi dai fuochi d’artificio e dai pezzi pirotecnici per uso scenico che sono destinati a essere manipolati o utilizzati esclusivamente da persone con conoscenze specialistiche.
+
+### 1.5 Categoria P3
+
+Cartucce o cartocci contenenti una carica propellente che attivano o producono un’operazione meccanica di lavoro.
+
+### 2 Fuochi d’artificio
+
+### 2.1 Categoria F1
+
+Fuochi d’artificio che presentano un rischio potenziale molto ridotto e un livello di rumorosità trascurabile e che sono destinati a essere utilizzati in spazi confinati, compresi i fuochi d’artificio destinati a essere utilizzati all’interno di edifici d’abitazione.
+
+### 2.2 Categoria F2
+
+Fuochi d’artificio che presentano un rischio potenziale ridotto e un basso livello di rumorosità e che sono destinati a essere utilizzati all’aperto in spazi confinati.
+
+### 2.3 Categoria F3
+
+Fuochi d’artificio che, se utilizzati in modo conforme alla loro destinazione, presentano un rischio potenziale medio e che sono destinati a essere utilizzati all’aperto in grandi spazi aperti e il cui livello di rumorosità non nuoce alla salute umana.
+
+### 2.4 Categoria F4
+
+Fuochi d’artificio che, anche se utilizzati in modo conforme alla loro destinazione, presentano un rischio potenziale elevato (i cosiddetti «fuochi d’artificio professionali»), che sono destinati a essere utilizzati esclusivamente da persone con conoscenze specialistiche e il cui livello di rumorosità non nuoce alla salute umana.
+
+Nota
+
+Per mezzi d’innesco s’intendono in particolare: i diversi tipi di micce, gli inneschi meccanici ed elettrici. Non si tratta tuttavia di pezzi pirotecnici ai sensi della LEspl.
+
+Allegato 2*[^t-2]*
+
+(art. 26 cpv. 2)
+
+## Indicazioni e designazioni supplementari per pezzi pirotecnici
+
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 12 mag. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Aggiornato dal n. I dell’O del 21 set. 2012 ([RU 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)) e dal n. II dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+
+- 1\. Pezzi pirotecnici per scopi professionali della categoria T1:
+- «Non può essere fornito alle persone di età inferiore ai 18 anni. È vietato per legge utilizzare il presente pezzo per scopi diversi da quelli previsti» ed eventualmente «Da usarsi soltanto in spazi aperti», nonché la distanza minima di sicurezza.
+- 2\. Pezzi pirotecnici per scopi professionali della categoria T2:
+- «Può essere fornito soltanto dietro presentazione di un permesso d’acquisto o di un’autorizzazione per l’accensione. Può essere usato esclusivamente da persone con conoscenze specialistiche, titolari di un permesso d’uso. È vietato per legge utilizzare il presente pezzo per scopi diversi da quelli previsti» nonché la distanza minima o le distanze minime di sicurezza.
+- 3\. Pezzi pirotecnici per scopi professionali della categoria P1:
+- «Non può essere fornito alle persone di età inferiore ai 18 anni. È vietato per legge utilizzare il presente pezzo per scopi diversi da quelli previsti».
+- 4\. Pezzi pirotecnici per scopi professionali della categoria P2:
+- «Può essere fornito soltanto dietro presentazione di un permesso d’acquisto. È vietato per legge utilizzare il presente pezzo per scopi diversi da quelli previsti» nonché la distanza minima o le distanze minime di sicurezza.
+- 5\. Fuochi d’artificio della categoria F1:
+- «Non può essere fornito a persone di meno di 12 anni» ed eventualmente «Da usarsi soltanto in spazi aperti», nonché la distanza minima di sicurezza.
+- 6\. Fuochi d’artificio della categoria F2:
+- «Non può essere fornito a persone di meno di 16 anni», «Da usarsi soltanto in spazi aperti» ed eventualmente la distanza minima o le distanze minime di sicurezza.
+- 7\. Fuochi d’artificio della categoria F3:
+- «Non può essere fornito a persone di meno di 18 anni», «Da usarsi soltanto in spazi aperti» ed eventualmente la distanza minima o le distanze minime di sicurezza.
+- 8\. Fuochi d’artificio della categoria F4:
+- «Può essere fornito soltanto dietro presentazione di un permesso d’acquisto o di un’autorizzazione per l’accensione. Può essere usato esclusivamente da persone con conoscenze specialistiche, titolari di un permesso d’uso», nonché la distanza minima o le distanze minime di sicurezza.
+
+Allegato 3
+
+(art. 22)
+
+## Caratteristiche dei detonatori elettrici
+
+\1. I detonatori elettrici non devono innescare nel giro di 5 minuti a 20°C e con una corrente continua di 4 ampere.
+
+\2. Caratteristiche supplementari per i detonatori elettrici a ponte:
+
+2.1. non devono innescare se soggetti a un’alimentazione fino a 600 mWs. (Scarica su condensatore di 270 µF caricato a 67 V, a carta metallizzata o equivalente, attraverso il detonatore sotto prova mediante fili non accorciati);
+
+2.2. non devono innescare se soggetti a un impulso d’innesco di 1100 mWs/ohm. (Scarica su condensatore di 270 µF caricato a 190 V, a carta metallizzata o equivalente, attraverso il detonatore sotto prova e una resistenza in serie di 4,4 ohm in totale) e
+
+2.3. devono innescare se soggetti a un impulso d’innesco di 2500 mWs/ohm. (Scarica su condensatore di 270 µF caricato a 190 V, a carta metallizzata o equivalente, attraverso il detonatore sotto prova e una resistenza in serie di 2,0 ohm in totale).
+
+Allegato 4*[^t-3]*
+
+(art. 45 cpv. 1 e 47 cpv. 2)
+
+## Informazioni da fornire per ottenere un permesso per l’acquisto di esplosivi o di pezzi pirotecnici
+
+[^t-3]: Originari all. 4.1 e 4.2. Nuovo testo giusta il n. II cpv. 2 dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+Richiedente o società richiedente:
+
+- – Cognome, nome o nome della società e cognome e nome del suo rappresentante
+- – Luogo d’attinenza (per le persone fisiche)
+- – Data di nascita (per le persone fisiche)
+- – Indirizzo o sede (se si tratta di una società)
+- – Numero di telefono
+- – Data e firma
+
+Rappresentante autorizzato:
+
+- – Cognome, nome
+- – Luogo d’attinenza
+- – Data di nascita
+- – Indirizzo
+- – Autorizzazione e numero del permesso
+
+Descrizione dell’esplosivo o del pezzo pirotecnico
+
+- – Tipo/modello
+- – Quantità
+- – Quantità netta di esplosivo (soltanto per i pezzi pirotecnici)
+- – Categoria (soltanto per i pezzi pirotecnici)
+
+Luogo d’acquisto
+
+Uso
+
+- – Luogo di custodia prima dell’uso
+- – Scopo
+- – Luogo
+- – Data e ora (soltanto per i pezzi pirotecnici)
+
+Allegato 5
+
+(art. 71 cpv. 1, 74 cpv. 1 e 5, 77 cpv. 2)
+
+## Distanze minime dalle vie di comunicazione pubbliche, dalle case e da altri edifici da proteggere e altezza del terrapieno
+
+<table>
+<tr><td>Quantità di materia esplosiva in kg e per edificio adibito a deposito o magazzino Quantità depositata (M)</td><td colspan="3">Distanza (E) in metri da</td></tr>
+<tr><td></td><td>A</td><td>B</td><td>C</td></tr>
+<tr><td></td><td colspan="3">Formula per il calcolo</td></tr>
+<tr><td></td><td>E=7 M<sup>(1/3)</sup></td><td>E=18 M<sup>(1/3)</sup></td><td>E=35 M<sup>(1/3)</sup></td></tr>
+<tr><td>100</td><td>30</td><td>85</td><td>160</td></tr>
+<tr><td>200</td><td>40</td><td>105</td><td>205</td></tr>
+<tr><td>500</td><td>55</td><td>145</td><td>280</td></tr>
+<tr><td>1 000</td><td>70</td><td>180</td><td>350</td></tr>
+<tr><td>2 000</td><td>90</td><td>225</td><td>440</td></tr>
+<tr><td>5 000</td><td>120</td><td>305</td><td>600</td></tr>
+<tr><td>10 000</td><td>150</td><td>390</td><td>755</td></tr>
+<tr><td>20 000</td><td>190</td><td>490</td><td>950</td></tr>
+<tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+</table>
+
+Le cifre della tabella sono arrotondate al prossimo multiplo di cinque.
+
+Legenda:
+
+A = Vie di comunicazione pubbliche (in caso di forte densità di traffico, le distanze vanno raddoppiate)
+
+B = Edifici abitati o nei quali si trattengono persone, come pure attrezzature che servono alla collettività
+
+C = Stabili con alta densità d’occupazione, come per es. scuole, ospedali, ricoveri e asili, nonché edifici d’importanza storico-culturale
+
+P = Punto fisso a 4,5 m sopra la via di comunicazione
+
+S = Deposito o magazzino di esplosivi
+
+h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image1.png)
+
+Allegato 6
+
+(art. 74 cpv. 2 e 5, 76 cpv. 4)
+
+## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image2.png)
+
+<table>
+<tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
+<tr><td></td><td>2 cambiamenti di direzione</td><td>3 cambiamenti di direzione</td><td></td></tr>
+<tr><td></td><td colspan="3">Formula per il calcolo</td></tr>
+<tr><td></td><td>L=3 M<sup>(1/2)</sup></td><td>L=2 M<sup>(1/2)</sup></td><td>E=2,3 M<sup>(1/3)</sup></td></tr>
+<tr><td>500</td><td>65</td><td>45</td><td>20</td></tr>
+<tr><td>1 000</td><td>95</td><td>65</td><td>25</td></tr>
+<tr><td>2 500</td><td>150</td><td>100</td><td>30</td></tr>
+<tr><td>5 000</td><td>210</td><td>145</td><td>40</td></tr>
+<tr><td>7 500</td><td>260</td><td>175</td><td>45</td></tr>
+<tr><td>10 000</td><td>300</td><td>200</td><td>50</td></tr>
+<tr><td>15 000</td><td>365</td><td>245</td><td>55</td></tr>
+<tr><td>20 000</td><td>425</td><td>285</td><td>60</td></tr>
+<tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+</table>
+
+Le cifre della tabella sono arrotondate al prossimo multiplo di cinque.
+
+Allegato 7
+
+(art. 74 cpv. 4)
+
+## Distanze minime fra gli edifici adibiti a deposito o magazzino
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image3.png)
+
+L = Quantità depositata in chilogrammi
+
+rK = Raggio del cratere in metri
+
+rK = 0,7·L<sup>(1/3)</sup>
+
+Allegato 8.1*[^t-4]*
+
+(art. 75 cpv. 4)
+
+## Depositi o magazzini in cemento armato
+
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image4.png)
+
+- Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
+- Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
+- Armatura: B500B (norma SIA 262) diametro minimo 10 mm
+
+larghezza maglia massimo 10 cm (anche rete)
+
+Allegato 8.2
+
+(art. 75 cpv. 2)
+
+## Canali di aerazione nella parete esterna
+
+Schizzo di principio
+
+Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
+
+Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image5.png)
+
+Allegato 9.1
+
+(art. 75 cpv. 1, 76 cpv. 2)
+
+## Depositi o magazzini di esplosivi in superficie
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image6.png)
+
+Allegato 9.2
+
+(art. 77 cpv. 2 e 3)
+
+## Depositi o magazzini di esplosivi in superficie
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image7.png)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image8.png)
+
+Allegato 10.1*[^t-5]*
+
+(art. 83 cpv. 1)
+
+## Armadi per esplosivi
+
+[^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image9.png)
+
+A = mezzi d’innesco
+
+B = materie esplosive
+
+- Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
+- Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
+- Armatura: B500B (norma SIA 262) diametro minimo 10 mm
+
+larghezza maglia massimo 10 cm (anche rete)
+
+In superficie ricoperto di terra oppure in roccia compatta
+
+Allegato 10.2*[^t-6]*
+
+(art. 83 cpv. 2)
+
+## Armadi per esplosivi
+
+[^t-6]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+a. Ricoperto di terra b. In roccia compatta
+
+<table>
+<tr><td>Sezione Ancoraggio con base stabile</td><td></td><td>Sezione Cavità rivestite di mattoni o di calcestruzzo</td></tr>
+</table>
+
+- Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
+- Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
+- Armatura: B500B (norma SIA 262) diametro minimo 10 mm larghezza maglia massimo 10 cm (anche rete)
+
+Allegato 11.1
+
+(art. 84 cpv. 1)
+
+## Contenitori per esplosivi
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image12.png)
+
+Legenda:
+
+A = scompartimento per mezzi d’innesco (rivestito di materiale assorbente)
+
+B = scompartimento per materie esplosive
+
+C = serratura di sicurezza
+
+Allegato 11.2
+
+(art. 84 cpv. 1, 91 cpv. 2)
+
+## Contenitori per il trasporto
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image13.png)
+
+Legenda:
+
+A = capsule detonanti o detonatori
+
+B = pinza per capsule
+
+C = nastro isolante
+
+D = miccia di sicurezza
+
+E = chiusura
+
+F = bretella per trasporto
+
+G = materia esplosiva
+
+Allegati 12.1-13*[^t-7]*
+
+[^t-7]: Abrogati dal n. II cpv. 2 dell’O del 25 nov. 2015, con effetto dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+Allegato 14*[^t-8]*
+
+(art. 8 cpv. 1 lett. a<sup>bis</sup>, 20 cpv. 3, 21 cpv. 1, 23 cpv. 4 e 110 cpv. 2 lett. c e 2<sup>bis</sup>)
+
+## Requisiti in materia d’identificazione e di tracciabilità degli esplosivi per uso civile
+
+[^t-8]: Introdotto dal n. II cpv. 4 dell’O del 12 mag. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nuovo testo giusta il n. II cpv. 1 dell’O del 21 set. 2012, in vigore dal 1° ott. 2012 ([RU 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+
+### 1 Campo d’applicazione
+
+Le disposizioni del presente allegato non si applicano:
+
+- a. agli esplosivi trasportati e consegnati alla rinfusa o in autopompe, destinati a essere scaricati direttamente nel fornello di mina;
+- b. agli esplosivi fabbricati sul luogo del brillamento e caricati immediatamente dopo la produzione (produzione in caricatori sul luogo d’utilizzazione);
+- c. alle micce comuni (non detonanti);
+- d. alle micce di sicurezza;
+- e. agli inneschi a percussione, costituiti da una capsula di metallo o di plastica contenenti una piccola quantità di un miscuglio esplosivo primario facilmente acceso per l’effetto di un urto e che servono da elementi di innesco nelle armi di piccolo calibro o negli inneschi a percussione per le cariche propulsive.
+
+### 2 Identificazione del prodotto
+
+<sup>1</sup> I fabbricanti, gli importatori o le persone che fabbricano o importano esplosivi oppure assemblano detonatori contrassegnano gli esplosivi e ogni unità elementare d’imballaggio con un’identificazione univoca.
+
+<sup>2</sup> Se un esplosivo è sottoposto a ulteriori processi di fabbricazione, il fabbricante non è tenuto a contrassegnarlo con una nuova identificazione univoca, salvo se l’identificazione univoca originale non figura più conformemente al numero 3.
+
+<sup>3</sup> Il capoverso 1 non si applica all’esplosivo fabbricato a fini di esportazione il quale sia contrassegnato con un identificativo conforme alle prescrizioni del Paese d’importazione, che consenta la tracciabilità dell’esplosivo.
+
+<sup>4</sup> L’identificazione univoca comprende:
+
+- a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
+- b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image14.png)
+
+<sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
+
+<sup>6</sup> Qualora gli articoli non possano essere contrassegnati con l’identificazione univoca di cui al capoverso 5 a causa delle loro dimensioni o della loro particolare forma o progettazione, detta identificazione va apposta su ogni unità elementare d’imballaggio.
+
+<sup>7</sup> Ciascuna unità elementare d’imballaggio è sigillata.
+
+<sup>8</sup> Su ogni detonatore o carica di rinforzo oggetto della deroga di cui al capoverso 6 sono apposte tramite marcatura, in forma indelebile e in modo da essere chiaramente leggibili, le lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e le tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP). Il numero di detonatori e di cariche di rinforzo contenuti è stampato su ogni unità elementare d’imballaggio.
+
+<sup>9</sup> Ogni miccia detonante oggetto della deroga di cui al capoverso 6 reca l’identificazione univoca apposta tramite marcatura sulla bobina e, se del caso, su ogni unità elementare d’imballaggio.
+
+<sup>10</sup> I distributori che riconfezionano gli esplosivi devono assicurarsi che l’identificazione univoca sia apposta sull’esplosivo e su ogni unità elementare d’imballaggio.
+
+<sup>11</sup> Se il sito di fabbricazione si trova al di fuori del territorio svizzero o dello Spazio economico europeo (SEE), il fabbricante con sede in Svizzera o nel SEE contatta l’UCEP o l’autorità nazionale dello Stato d’importazione membro del SEE per richiedere l’assegnazione di un codice per il sito di fabbricazione.
+
+<sup>12</sup> Se il sito di fabbricazione si trova al di fuori del territorio svizzero o del SEE e il fabbricante non ha sede né in Svizzera né nel SEE, l’importatore degli esplosivi in questione deve contattare l’UCEP o l’autorità nazionale dello Stato d’importazione membro del SEE per richiedere l’assegnazione di un codice per il sito di fabbricazione.
+
+### 3 Marcatura e apposizione dell’identificazione
+
+L’identificazione univoca è apposta tramite marcatura o in modo fisso e indelebile sul prodotto, al fine di essere ben leggibile.
+
+### 4 Esplosivi in cartuccia ed esplosivi in sacchi
+
+<sup>1</sup> Nel caso di esplosivi in cartuccia e di esplosivi in sacchi l’identificazione univoca consiste in un’etichetta adesiva oppure è stampata direttamente su ogni cartuccia o sacco. Un’etichetta parallela è apposta su ogni confezione di cartucce.
+
+<sup>2</sup> Le imprese possono inoltre utilizzare una piastrina elettronica di materiale inerte e passivo da apporre su ogni cartuccia o sacco e, per analogia, una targhetta elettronica parallela da applicare su ogni confezione di cartucce.
+
+### 5 Esplosivi bicomponenti
+
+Nel caso di esplosivi bicomponenti l’identificazione univoca consiste in un’etichetta adesiva oppure è stampata direttamente su ogni unità elementare d’imballaggio contenente i due componenti.
+
+### 6 Detonatori
+
+<sup>1</sup> Nel caso di detonatori l’identificazione univoca è costituita da un’etichetta adesiva oppure è stampata o stampigliata direttamente sul bossolo del detonatore. Un’etichetta parallela è apposta su ogni confezione di detonatori.
+
+<sup>2</sup> Le imprese possono inoltre utilizzare una piastrina elettronica di materiale inerte e passivo da apporre su ogni detonatore e una targhetta elettronica parallela da applicare su ogni confezione di detonatori.
+
+### 7 Detonatori elettrici, non elettrici ed elettronici
+
+<sup>1</sup> Nel caso di detonatori elettrici, non elettrici ed elettronici l’identificazione univoca è costituita da un’etichetta adesiva apposta sui fili o sui tubi oppure da un’etichetta adesiva o da un’indicazione a stampa o stampigliatura apposte direttamente sul bossolo del detonatore. Un’etichetta parallela è apposta su ciascuna confezione di detonatori.
+
+<sup>2</sup> Le imprese possono inoltre utilizzare una piastrina elettronica di materiale inerte e passivo da apporre su ogni detonatore e una targhetta elettronica parallela da applicare su ogni confezione di detonatori.
+
+### 8 Inneschi e cariche di rinforzo
+
+<sup>1</sup> Nel caso di inneschi (primer) e cariche di rinforzo (booster) diversi da quelli di cui al numero 1 lettera e, l’identificazione univoca è costituita da un’etichetta adesiva oppure è stampata direttamente su ogni innesco o carica di rinforzo. Un’etichetta parallela è apposta su ogni confezione di tali inneschi o cariche di rinforzo.
+
+<sup>2</sup> Le imprese possono inoltre utilizzare una piastrina elettronica di materiale inerte e passivo da apporre su ogni innesco o carica di rinforzo di cui al capoverso 1 e una targhetta elettronica parallela da applicare su ogni confezione di tali inneschi o cariche di rinforzo.
+
+### 9 Micce detonanti
+
+<sup>1</sup> Nel caso di micce detonanti l’identificazione univoca è costituita da un’etichetta adesiva oppure è stampata direttamente sulla bobina. L’identificazione univoca è apposta tramite marcatura a intervalli di cinque metri sull’involucro esterno della miccia oppure sullo strato interno di plastica estrusa posto immediatamente sotto la fibra esterna della miccia. Un’etichetta parallela è apposta su ogni confezione di micce detonanti.
+
+<sup>2</sup> Le imprese possono inoltre utilizzare una piastrina elettronica di materiale inerte e passivo da inserire all’interno della miccia e una targhetta elettronica parallela da applicare su ogni confezione di micce detonanti.
+
+### 10 Contenitori per esplosivi
+
+<sup>1</sup> Nel caso di contenitori per esplosivi l’identificazione univoca è costituita da un’etichetta adesiva o è stampata direttamente sul contenitore.
+
+<sup>2</sup> Le imprese possono inoltre utilizzare una piastrina elettronica di materiale inerte e passivo da applicare su ogni contenitore.
+
+### 11 Copie dell’etichetta originale
+
+Le imprese possono apporre sugli esplosivi, ad uso dei loro clienti, copie adesive rimovibili dell’etichetta originale. Per prevenire abusi, tali copie devono essere chiaramente contrassegnate come copie dell’originale.
+
+### 12 Raccolta dei dati
+
+<sup>1</sup> Le imprese del settore degli esplosivi istituiscono un sistema di raccolta dei dati sugli esplosivi che comprende la loro identificazione univoca lungo tutta la catena di fornitura e durante l’intero ciclo di vita dell’esplosivo.
+
+<sup>2</sup> Il sistema di raccolta dei dati consente alle imprese di rintracciare gli esplosivi in modo da poterne identificare l’impresa detentrice o il singolo detentore in qualsiasi momento.
+
+<sup>3</sup> I dati raccolti, compresi quelli relativi all’identificazione univoca, sono registrati e conservati per un periodo di dieci anni a decorrere dalla consegna o dalla fine del ciclo di vita dell’esplosivo, ove quest’ultima sia nota, anche nel caso in cui le imprese abbiano cessato l’attività.
+
+### 13 Registro
+
+<sup>1</sup> Le imprese del settore degli esplosivi tengono un registro contenente tutti i numeri d’identificazione degli esplosivi e tutte le informazioni pertinenti, tra cui il tipo di esplosivo e il nome dell’impresa detentrice o del singolo detentore.
+
+<sup>2</sup> Esse registrano l’ubicazione di ogni esplosivo per tutto il periodo in cui si trova in loro possesso o custodia fino al suo spostamento ai fini del trasferimento di possesso o di custodia.
+
+<sup>3</sup> Esse verificano periodicamente il loro sistema di raccolta dei dati per garantirne l’efficacia e la qualità dei dati registrati.
+
+<sup>4</sup> Esse registrano e conservano i dati raccolti, tra cui i numeri d’identificazione univoca per il periodo previsto al numero 12 capoverso 3.
+
+<sup>5</sup> Esse proteggono i dati raccolti dal danneggiamento o dalla distruzione accidentali o dolosi.
+
+<sup>6</sup> Esse comunicano alle autorità competenti che ne fanno richiesta le informazioni concernenti la provenienza e l’ubicazione di ogni esplosivo durante il suo intero ciclo di vita e lungo tutta la catena di fornitura.
+
+<sup>7</sup> Esse forniscono alle autorità federali competenti il recapito di una persona in grado di comunicare le informazioni di cui al capoverso 6 al di fuori del normale orario di lavoro delle imprese.
+
+Allegato 15*[^t-9]*
+
+(art. 1*a* cpv. 2)
+
+## Equivalenze terminologiche
+
+[^t-9]: Introdotto dal n. II cpv. 4 dell’O del 12 mag. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nuovo testo giusta il n. II cpv. 3 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+
+Per interpretare correttamente le direttive 2014/28/UE[^annex15-lvlu1-1], 2013/29/UE[^annex15-lvlu1-2] e 2008/43/CE[^annex15-lvlu1-3] a cui rimanda la presente ordinanza, occorre tener conto delle equivalenze seguenti:
+
+### 1. Espressioni in tedesco
+
+[^annex15-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^annex15-lvlu1-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^annex15-lvlu1-3]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+
+<table>
+<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
+<tr><td>In der Union ansässige Person</td><td>In der Schweiz niedergelassene Person</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>EU-Baumusterprüfung</td><td>Baumusterprüfung</td></tr>
+<tr><td>EU-Baumusterprüfbescheinigung</td><td>Baumusterprüfbescheinigung</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Bühne und Theater</td><td>Bühnen</td></tr>
+<tr><td>Zündschnüre</td><td>Sicherheitsanzündschnüre</td></tr>
+<tr><td>einfache Sprengzünder</td><td>Sprengkapseln</td></tr>
+<tr><td>elektrische, nicht elektrische, elektronische Zünder</td><td>elektrische, nicht elektrische, elektronische Sprengzünder</td></tr>
+<tr><td>Treibladungszünder und Booster</td><td>Primer und Booster</td></tr>
+<tr><td>In-situ-Produktion</td><td>Herstellung in Mischladegeräten auf der Verwendungsstelle</td></tr>
+</table>
+
+### 2. Espressioni in francese
+
+<table>
+<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td>personne établie dans l’Union</td><td>personne établie en Suisse</td></tr>
+<tr><td>état membre</td><td>Suisse</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
+<tr><td>article pyrotechnique</td><td>engin pyrotechnique</td></tr>
+<tr><td>examen UE de type</td><td>examen de type</td></tr>
+<tr><td>attestation d’examen UE de type</td><td>attestation d’examen de type</td></tr>
+<tr><td>artifices de divertissement</td><td>pièces d’artifice</td></tr>
+<tr><td>théâtre et scène</td><td>théâtre</td></tr>
+<tr><td>caisse</td><td>conteneur</td></tr>
+<tr><td>mèches lentes</td><td>mèches d’allumage de sûreté</td></tr>
+<tr><td>détonateurs électriques, non électriques, électroniques</td><td>amorces électriques, non électriques, électroniques</td></tr>
+<tr><td>boîtiers et tambours</td><td>récipients</td></tr>
+<tr><td>cartouches amorces et charges relais</td><td>primer et booster</td></tr>
+<tr><td>production sur site</td><td>production dans des mélangeurs sur le lieu d’utilisation</td></tr>
+<tr><td>producteur</td><td>fabricant</td></tr>
+</table>
+
+### 3. Espressioni in italiano
+
+<table>
+<tr><th>UE</th><th>Svizzera</th></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+<tr><td>mercato dell’Unione</td><td>mercato svizzero</td></tr>
+<tr><td>persona stabilita nell’Unione</td><td>persona domiciliata in Svizzera</td></tr>
+<tr><td>Stato membro</td><td>Svizzera</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
+<tr><td>dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
+<tr><td>articolo pirotecnico</td><td>pezzo pirotecnico</td></tr>
+<tr><td>esame UE del tipo</td><td>esame del tipo</td></tr>
+<tr><td>certificato di esame UE del tipo</td><td>attestato di esame del tipo</td></tr>
+<tr><td>teatrali e per uso scenico</td><td>per uso scenico</td></tr>
+<tr><td>confezione elementare</td><td>unità elementare d’imballaggio</td></tr>
+<tr><td>bidoni e fusti</td><td>contenitori</td></tr>
+<tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
+</table>
+
+Allegato 16*[^t-10]*
+
+(art. 119*a* cpv. 5)
+
+## Ammissione
+
+[^t-10]: Introdotto dal n. II cpv. 4 dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+
+### 1 Ammissione
+
+<sup>1</sup> L’UCEP può rinunciare alla procedura d’ammissione, se la sicurezza è garantita da altre misure.
+
+<sup>2</sup> Non necessitano dell’ammissione i pezzi pirotecnici incorporati in prodotti che a loro volta sottostanno a un obbligo d’esame riconosciuto.
+
+### 2 Requisiti tecnici
+
+I pezzi pirotecnici sono ammessi, se:
+
+- a. in quanto a composizione e caratteristiche corrispondono allo stato della tecnica;
+- b. in caso di utilizzazione conforme alla loro destinazione, sono di manipolazione sicura e non mettono in pericolo persone e cose; e
+- c. non producono schegge pericolose e non contengono cariche autoinfiammabili.
+
+### 3 Tasse
+
+Per l’ammissione è riscossa una tassa di 50–3000 franchi.
+
+Allegato 17*[^t-11]*
+
+(art. 117*e*)
+
+## Diritti d’accesso a BARBARA
+
+[^t-11]: Introdotto dall’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+
+A = consultare
+
+B = trattare
+
+vuoto = nessun accesso
+
+### Stato maggiore fedpol
+
+<table>
+<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
+<tr><td>Consulente per la protezione dei dati</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+</table>
+
+### Servizi fedpol
+
+<table>
+<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
+<tr><td>Ufficio centrale Esplosivi e pirotecnica</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+</table>
+
+### Fornitori di servizi informatici fedpol
+
+<table>
+<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
+<tr><td>Responsabile di progetto e amministratori di sistema</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+</table>
+
+### Polizia giudiziaria federale
+
+<table>
+<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
+<tr><td>Divisione Indagini Terrorismo</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Divisione Indagini Interventi speciali</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Divisione Indagini Protezione dello Stato</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+</table>
+
+### Autorità cantonali competenti
+
+<table>
+<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
+<tr><td>Uffici degli esplosivi</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+</table>

@@ -1,0 +1,242 @@
+---
+sr: "173.320.4"
+title: "Règlement du 21 février 2008 du Tribunal administratif fédéral relatif à l'information"
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
+language: fr
+version: 2017-09-01
+adopted: 2008-02-21
+in_force: 2008-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20170901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20170901/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Règlement du Tribunal administratif fédéral relatif à l’information
+
+du 21 février 2008 (Etat le 1<sup>er</sup> septembre 2017)
+
+Le Tribunal administratif fédéral,
+
+vu l’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)[^ingress-1],
+
+édicte le règlement suivant:
+
+[^ingress-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+Le présent règlement régit l’information du public sur l’activité du Tribunal administratif fédéral (tribunal).
+
+#### Art. 2
+
+**Principe**
+
+<sup>1</sup> Le tribunal informe de manière ouverte et transparente.
+
+<sup>2</sup> Le président du tribunal et le Secrétariat général sont compétents pour l’information, à moins que le présent règlement n’en dispose autrement.
+
+#### Art. 3
+
+**Service de presse**
+
+Le tribunal dispose d’un service de presse rattaché au Secrétariat général.
+
+## Section 2 Information d’office
+
+#### Art. 4
+
+**Prononcé des arrêts**
+
+<sup>1</sup> Le tribunal met à la disposition du public la page de garde et le dispositif de tous ses arrêts pendant 30 jours à compter de leur notification et de la levée de l’embargo conformément à l’art. 42 LTAF. Les arrêts rendus en application de l’art. 36*b* LTAF ne sont pas mis à disposition.[^4-1]
+
+<sup>2</sup> Le tribunal met ses arrêts à la disposition du public sous une forme non anonyme, à moins que la protection de la personnalité ou d’autres intérêts privés ou publics n’imposent leur anonymisation.
+
+<sup>3</sup> Les arrêts sont mis à la disposition du public sous forme imprimée ou sous forme électronique.
+
+[^4-1]: Nouvelle teneur selon le ch. I du R du TAF du 21 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+
+#### Art. 5
+
+**Publication d’arrêts**[^5-1]
+
+<sup>1</sup> Le tribunal publie ses arrêts dans une banque de données électronique et dans un recueil officiel. Les arrêts rendus en application de l’art. 36*b* LTAF ne sont pas publiés.
+
+<sup>2</sup> Le recueil officiel des arrêts du tribunal «Arrêts du Tribunal administratif fédéral suisse (ATAF)» est publié sur papier et sous forme électronique.
+
+[^5-1]: Nouvelle teneur selon le ch. I du R du TAF du 21 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+
+#### Art. 6
+
+**Banque de données des arrêts**
+
+<sup>1</sup> Les arrêts matériels sont publiés dans la banque de données électronique.
+
+<sup>2</sup> Les arrêts formels sont publiés s’ils présentent un intérêt pour le public.
+
+<sup>3</sup> Les arrêts sont publiés dans leur intégralité.
+
+<sup>4</sup> L’accès à la banque de données est gratuit.
+
+#### Art. 7
+
+**Recueil officiel des arrêts du tribunal**
+
+<sup>1</sup>
+
+Sont publiés dans le recueil officiel des arrêts du tribunal les arrêts entrés en force qui ont une portée significative, notamment pour le développement du droit. Les principes suivants s’appliquent:
+
+- a. la décision est précédée d’un sommaire (régeste) dans les trois langues officielles; s’agissant d’arrêts rendus en romanche, le sommaire doit également être rédigé dans cette langue;
+- b. les éléments de l’état de fait nécessaires à la compréhension des considérants en droit sont résumés à l’essentiel;
+- c. les considérants en droit sont abrégés si nécessaire ou ne sont que partiellement publiés.
+
+<sup>2</sup> L’accès au recueil officiel des arrêts du tribunal sur papier est payant. L’accès au recueil officiel des arrêts du tribunal sous forme électronique peut être payant.
+
+#### Art. 8
+
+**Anonymisation**
+
+<sup>1</sup> Le tribunal publie ses arrêts sous forme anonyme. L’art. 4 est réservé.
+
+<sup>2</sup> La publication des noms des parties est autorisée, notamment lorsqu’ils sont déjà connus, qu’aucun intérêt digne de protection n’est manifestement touché ou que les parties ont donné leur accord. Le juge instructeur recueille l’assentiment des parties.
+
+<sup>3</sup> La Conférence des présidents règle les compétences, la procédure et les modalités relatives à l’anonymisation.
+
+#### Art. 9
+
+**Commission de rédaction du recueil officiel des arrêts du tribunal**
+
+<sup>1</sup> La Conférence des présidents nomme une Commission de rédaction, chargée de veiller à l’uniformité du recueil officiel des arrêts du tribunal. La commission est constituée d’un représentant de chaque cour. Ses membres sont proposés par la cour à laquelle ils appartiennent et nommés par la Conférence des présidents pour une période de deux ans. La représentation linguistique doit être équilibrée. La commission s’organise elle-même.
+
+<sup>2</sup> Les arrêts portant sur les questions juridiques tranchées conformément à l’art. 25 LTAF sont transmis à la commission, en vue de leur publication. Dans tous les autres cas, la Commission de rédaction décide, sur proposition de la cour compétente, de la publication d’un arrêt dans le recueil officiel des arrêts du tribunal. Elle peut proposer la publication d’un arrêt déterminé.
+
+<sup>3</sup> La Commission de rédaction veille à ce que les arrêts proposés par les cours soient publiés de manière coordonnée et uniforme. Elle édicte des directives à cet effet, après avoir consulté la Conférence des présidents.
+
+<sup>4</sup> Les membres de la Commission de rédaction sont déchargés de leurs tâches judiciaires, dans la mesure où l’accomplissement de leur activité l’exige.
+
+## Section 3 Information sur demande
+
+#### Art. 10
+
+**Renseignements**
+
+Quiconque souhaite un renseignement doit en faire la demande au service de presse du Secrétariat général. Celui-ci répond directement ou transmet la demande à l’organe compétent.
+
+#### Art. 11
+
+**Accès aux documents officiels**
+
+<sup>1</sup> L’organe responsable d’un document officiel peut en autoriser l’accès conformément à la loi du 17 décembre 2004 sur la transparence[^11-1]. En règle générale, il est répondu par oral aux demandes orales et par écrit aux demandes écrites.
+
+<sup>2</sup> Si l’accès doit être limité, différé ou refusé, la demande est transmise à la Commission administrative. La procédure de médiation est exclue.
+
+<sup>3</sup> La Commission administrative se prononce sur les demandes écrites en rendant une décision au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^11-2].
+
+<sup>4</sup> Le préposé à la protection des données du tribunal exerce la fonction de conseiller à la transparence au sens de l’art. 20 de l’ordonnance du 24 mai 2006 sur la transparence[^11-3]. Il lui incombe également de faire rapport au sens de l’art. 19 de la loi du 17 décembre 2004 sur la transparence.
+
+<sup>5</sup> La perception d’émoluments est régie par le règlement du 21 février 2008 sur les émoluments administratifs du Tribunal administratif fédéral[^11-4]. Si le règlement ne prévoit aucune disposition applicable en la matière, le tarif des émoluments annexé à l’ordonnance du 24 mai 2006 sur la transparence s’applique.
+
+<sup>6</sup> Pour le reste, l’ordonnance du 24 mai 2006 sur la transparence s’applique par analogie.
+
+[^11-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^11-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^11-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
+[^11-4]: [RS 173.320.3](https://fedlex.data.admin.ch/eli/cc/2008/322)
+
+## Section 4 Chronique de l’activité judiciaire
+
+#### Art. 12
+
+**Principe**
+
+Quiconque tient la chronique de l’activité judiciaire du tribunal est tenu de prendre en considération les intérêts dignes de protection des participants à la procédure, en particulier leur sphère privée.
+
+#### Art. 13
+
+**Accréditation**
+
+<sup>1</sup> Les journalistes qui entendent tenir régulièrement la chronique de l’activité judiciaire du tribunal pour les médias paraissant ou établis en Suisse doivent demander leur accréditation par écrit au Secrétariat général. La demande peut se limiter à la chronique de l’activité judiciaire de certaines cours.
+
+<sup>2</sup>
+
+L’accréditation est accordée si:
+
+- a. le requérant est déjà accrédité auprès du Tribunal fédéral ou du Tribunal pénal fédéral; la demande doit être accompagnée d’une attestation de cette accréditation, d’un curriculum vitae et d’une photographie;
+- b. le requérant remplit les conditions d’inscription au registre professionnel; la demande doit être accompagnée d’un curriculum vitae et d’une photographie, ainsi que d’un dossier contenant la carte de journaliste, une attestation de l’employeur ou tout autre document équivalent.
+
+<sup>3</sup> L’accréditation peut être refusée lorsqu’il existe de sérieux doutes que celui qui la sollicite n’est pas digne de confiance.
+
+#### Art. 14
+
+**Durée et révocation de l’accréditation**
+
+<sup>1</sup> L’accréditation est accordée pour une période de quatre ans ou, si celle-ci a déjà commencé, pour la durée restante. Les journalistes doivent demander à temps le renouvellement de leur accréditation.
+
+<sup>2</sup> Le Secrétariat général révoque l’accréditation lorsque les conditions de son octroi ne sont plus remplies.
+
+#### Art. 15
+
+**Carte de légitimation**
+
+<sup>1</sup> Les journalistes accrédités reçoivent une carte de légitimation.
+
+<sup>2</sup> La carte de légitimation doit être rendue immédiatement après la révocation ou l’expiration de l’accréditation.
+
+#### Art. 16
+
+**Prestations de services du tribunal**
+
+<sup>1</sup>
+
+Le tribunal fournit les prestations de services suivantes aux journalistes accrédités:
+
+- a. communication des dates des audiences publiques;
+- b. sur demande, communication des faits concernant des affaires pour lesquelles des débats ou des délibérations publics sont inscrits à l’ordre du jour;
+- c. remise des arrêts dont la publication dans le recueil officiel des arrêts du tribunal est prévue;
+- d. remise des arrêts qui, du point de vue des journalistes ou du tribunal, présentent un intérêt particulier pour le public;
+- e. sur demande, renseignements sur l’avancement de la procédure (effet suspensif, désistement, reprise de cause), pour autant que le président de cour ou de chambre compétent ait donné son accord;
+- f. remise du rapport de gestion avant sa publication;
+- g. remise de communiqués de presse;
+- h. accès gratuit aux banques de données payantes, à l’aide d’un code personnel.
+
+<sup>2</sup> Les arrêts prévus à l’al. 1, let. c, sont remis avant leur publication dans la banque de données électronique; le cas échéant, un embargo est mis.
+
+<sup>3</sup> La remise des arrêts prévue à l’al. 1, let. d, a lieu en même temps que l’envoi des arrêts aux parties; un embargo est mis.
+
+#### Art. 17
+
+**Embargo**
+
+<sup>1</sup> Le tribunal peut mettre un embargo sur la chronique de l’activité judiciaire.
+
+<sup>2</sup> En règle générale, l’embargo prend fin à 12 heures le septième jour suivant l’envoi des arrêts aux parties (jour de l’envoi non compris).
+
+<sup>3</sup> L’embargo est caduc lorsque, avant son échéance, le public a déjà eu connaissance du contenu de l’arrêt par une autre source d’information.
+
+#### Art. 18
+
+**Sanctions**
+
+<sup>1</sup> Les journalistes accrédités qui enfreignent les dispositions du présent règlement de manière fautive peuvent faire l’objet d’un avertissement.
+
+<sup>2</sup> Dans les cas graves, l’accréditation peut être provisoirement suspendue ou définitivement révoquée.
+
+## Section 5 Dispositions finales
+
+#### Art. 19
+
+**Abrogation du droit en vigueur**
+
+Le règlement du 11 décembre 2006 du Tribunal administratif fédéral relatif à l’information[^19-1] est abrogé.
+
+[^19-1]: [[RO 2006 5315](https://fedlex.data.admin.ch/eli/oc/2006/802)]
+
+#### Art. 20
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> juin 2008.

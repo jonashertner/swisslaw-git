@@ -1,0 +1,463 @@
+---
+sr: "672.201"
+title: "Ordinanza del 22 agosto 1967 sul computo d'imposte alla fonte estere"
+eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
+language: it
+version: 2020-01-01
+adopted: 1967-08-22
+in_force: 1967-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20200101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20200101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul computo di imposte alla fonte estere****
+
+del 22 agosto 1967 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 1 e 2 capoverso 1 lettere e, f e g della legge federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali concluse dalla Confederazione per evitare i casi di doppia imposizione,[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+## I. Disposizioni generali
+
+### 1. Campo d’applicazione
+
+#### Art. 1
+
+<sup>1</sup> La presente ordinanza si applica ai redditi (cpv. 2) provenienti da Stati (Stati contraenti), con i quali la Svizzera ha conchiuso delle convenzioni internazionali per evitare le doppie imposizioni (convenzioni), allorché tali convenzioni prevedono per i detti redditi uno sgravio delle imposte svizzere.
+
+<sup>2</sup> Si considerano redditi, nel senso della presente ordinanza, i dividendi, gli interessi, i diritti di licenza, i redditi provenienti da prestazioni di servizi e le rendite che sono effettivamente assoggettati ad un’imposta limitata nello Stato contraente da dove provengono, conformemente al diritto interno di tale Stato e alla convenzione con esso conclusa.[^1-1] Se una convenzione prevede espressamente per determinati redditi che, ai fini dello sgravio, devesi tener conto di un’imposta calcolata con un’aliquota fissa, si considera che detti redditi sono stati assoggettati ad imposta con tale aliquota, qualunque sia l’imposizione effettiva nello Stato contraente.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### 2. Sgravio in Svizzera****
+
+[^lvlI-lvl2-1]
+
+[^lvlI-lvl2-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### **a.** **Persone fisiche e giuridiche residenti in Svizzera******
+
+[^lvlI-lvl2-lvla-1]
+
+[^lvlI-lvl2-lvla-1]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 2
+
+<sup>1</sup> Le persone fisiche o giuridiche residenti in Svizzera, i cui redditi provenienti da uno Stato contraente sono stati assoggettati ad un’imposta limitata in questo Stato contraente conformemente alla convenzione, possono chiedere il computo di imposte alla fonte estere[^2-1].
+
+<sup>2</sup> Allorché il beneficiario dei redditi è una società in nome collettivo o in accomandita, il diritto al computo di imposte alla fonte estere compete alla società.
+
+<sup>3</sup> Chiunque non chiede il computo di imposte alla fonte estere, o non ne ha il diritto secondo gli articoli 3 a 7, può chiedere che le imposte riscosse nello Stato contraente conformemente alla convenzione siano dedotte dall’ammontare lordo dei redditi, in sede di tassazione ai fini delle imposte svizzere sul reddito.
+
+[^2-1]: Nuova espr. giusta il n. I cpv. 1 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873). Di detta mod. é tenuto conto in tutto il presente testo.
+
+### b.**** Stabilimenti d’impresa in Svizzera di imprese estere
+
+[^lvlI-lvl2-lvlb-1]
+
+[^lvlI-lvl2-lvlb-1]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 2a
+
+<sup>1</sup>
+
+Uno stabilimento d’impresa in Svizzera di un’impresa estera può chiedere, per i redditi provenienti da uno Stato terzo gravati di imposte alla fonte non recuperabili, il computo di tali imposte se esistono convenzioni per evitare le doppie imposizioni fra:
+
+- a. la Svizzera e lo Stato di residenza dell’impresa; e
+- b. ciascuno di questi due Stati e lo Stato terzo da cui provengono i redditi.
+
+<sup>2</sup> Se entrambe le convenzioni per evitare le doppie imposizioni con lo Stato terzo prevedono aliquote d’imposta differenti per quanto riguarda le imposte alla fonte non recuperabili, dei due importi può essere fatto valere soltanto quello più basso.
+
+### 3. Condizioni generali del computo di imposte alla fonte estere
+
+#### Art. 3
+
+[^3-1]
+
+<sup>1</sup> Il computo di imposte alla fonte estere può essere chiesto soltanto per i redditi che sono assoggettati alle imposte sul reddito o sull’utile della Confederazione oppure dei Cantoni e dei Comuni.
+
+<sup>2</sup> I redditi per i quali è chiesto il computo di imposte alla fonte estere devono essere dichiarati al lordo della deduzione d’imposta operata nello Stato contraente; tuttavia, se i detti redditi fanno parte del reddito di un’impresa cui è fatto obbligo di tenere i libri di commercio, come redditi si allibreranno i redditi netti, l'ammontare d'imposta rimborsato dallo Stato contraente e l'ammontare delle imposte alla fonte estere computabili.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### 4. Casi speciali
+
+### a.**** Persone fisiche che fruiscono dell’imposizione secondo il dispendio
+
+[^lvlI-lvl4-lvla-1]
+
+[^lvlI-lvl4-lvla-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2001, in vigore dal 1° gen. 2001 ([RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)).
+
+#### Art. 4
+
+[^4-1]
+
+<sup>1</sup> Le persone fisiche possono chiedere il computo di imposte alla fonte estere soltanto per le imposte per le quali non sono tassate secondo il dispendio conformemente all’articolo 14 della legge federale del 14 dicembre 1990[^4-2] sull’imposta federale diretta (LIFD) o a disposizioni cantonali emanate in virtù dell’articolo 6 della legge federale del 14 dicembre 1990[^4-3] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID).
+
+<sup>2</sup> Le persone fisiche che sono tassate secondo il dispendio ma che, conformemente all’articolo 14 capoverso 5 LIFD o a disposizioni cantonali emanate in virtù dell’articolo 6 capoverso 7 LAID, pagano le imposte intere su tutti i redditi provenienti da uno Stato contraente in base all’aliquota applicabile al reddito complessivo, possono chiedere il computo di imposte alla fonte estere per i redditi provenienti da questo Stato contraente. La deduzione delle quote a carico della Confederazione da una parte e dei Cantoni e dei Comuni dall’altra conformemente all’articolo 20 non deve far sì che le imposte svizzere dovute sul reddito e sulla sostanza siano portate a un ammontare dell’imposta inferiore a quello dell’imposta da calcolarsi secondo il dispendio o secondo altri elementi del reddito e della sostanza più elevati, per i quali non è concesso alcun computo di imposte alla fonte estere.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^4-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^4-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+### b.**** Dividendi provenienti da partecipazioni
+
+[^lvlI-lvl4-lvlb-1]
+
+[^lvlI-lvl4-lvlb-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 5
+
+Ai fini dell’applicazione della presente ordinanza non si considerano redditi tassati i dividendi per i quali è concessa una riduzione speciale nell’ambito delle imposte federali, cantonali, comunali ed ecclesiastiche sull’utile (art. 69 LIFD[^5-1] e disposizioni cantonali emanate in virtù dell’art. 28 cpv. 1 LAID[^5-2]).
+
+[^5-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^5-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+### c. Esclusione dai vantaggi delle convenzioni
+
+#### Art. 6
+
+[^6-1]
+
+<sup>1</sup> Se le condizioni contenute nella convenzione per evitare le doppie imposizioni applicabile non sono soddisfatte o se una persona impiega la convenzione per evitare le doppie imposizioni in modo abusivo, non può chiedere alcun computo di imposte alla fonte estere.
+
+<sup>2</sup> Il Dipartimento federale delle finanze (DFF) può prevedere eccezioni per determinati casi.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### d. Importi insignificanti
+
+#### Art. 7
+
+[^7-1]
+
+Il computo di imposte alla fonte estere è concesso soltanto se le imposte alla fonte non recuperabili degli Stati contraenti riscosse sui redditi provenienti da questi Stati superano complessivamente l’equivalente di 100 franchi.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+## II. Ammontare delle imposte alla fonte computabili****
+
+[^lvlII-1]
+
+[^lvlII-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### 1.**** Principio
+
+[^lvlII-lvl1-1]
+
+[^lvlII-lvl1-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 8
+
+<sup>1</sup> Il computo di imposte alla fonte estere ha luogo con un’operazione unica per le imposte federali, cantonali, comunali ed ecclesiastiche ed è versato in un solo ammontare.
+
+<sup>2</sup> L’ammontare delle imposte alla fonte estere computabili corrisponde alla somma delle imposte alla fonte non recuperabili riscosse negli Stati contraenti, conformemente alle convenzioni applicabili, sui redditi maturati nel corso di un anno (anno di scadenza); tuttavia, esso non può eccedere la somma delle imposte svizzere attinenti a questi redditi (ammontare massimo).
+
+<sup>3</sup>
+
+Esso è determinato separatamente sulla base dei seguenti redditi:
+
+- a. i dividendi;
+- b. gli interessi;
+- c. i diritti di licenza che sono tassati secondo l’articolo 8*a* o 24*b* LAID[^8-1];
+- d. i diritti di licenza che non sono tassati secondo l’articolo 8*a* o 24*b* LAID;
+- e. i redditi provenienti da prestazioni di servizi;
+- f. le rendite.
+
+<sup>4</sup> Esso non frutta interessi.
+
+[^8-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+### 2. Ammontare massimo
+
+### a.**** Calcolo per le persone fisiche
+
+[^lvlII-lvl2-lvla-1]
+
+[^lvlII-lvl2-lvla-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2001, in vigore dal 1° gen. 2001 ([RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)).
+
+#### Art. 9
+
+[^9-1]
+
+<sup>1</sup> Per i redditi nella sostanza privata l’ammontare massimo è calcolato in base alle aliquote d’imposta applicate per il calcolo delle imposte sul reddito dovute per l’anno della scadenza. L’ammontare massimo per le imposte federali da una parte e per le imposte cantonali e comunali dall’altra è calcolato separatamente. Non devono essere presi in considerazione i supplementi per le imposte ecclesiastiche.
+
+<sup>2</sup> Per i redditi nella sostanza commerciale l’ammontare massimo è calcolato secondo l’articolo 10; le imposte ecclesiastiche non sono tuttavia prese in considerazione.
+
+<sup>3</sup> Per il calcolo dell’ammontare massimo i Cantoni possono prevedere proprie tariffe. A tal fine devono osservare l’articolo 11 capoverso 1 LAID[^9-2]. Le tariffe devono essere sottoposte per approvazione al DFF.
+
+<sup>4</sup> Se l’ammontare massimo è calcolato in base a una tariffa cantonale e il richiedente comprova che il calcolo secondo il capoverso 1 avrebbe condotto a un importo computabile più elevato, deve essergli rimborsata la differenza. La differenza deve essere comprovata e fatta valere per scritto presso l’autorità competente entro 30 giorni a decorrere dalla notifica della decisione sul computo di imposte alla fonte estere o, se la tassazione definitiva è effettuata più tardi, entro 30 giorni a decorrere dalla notifica della tassazione definitiva.
+
+<sup>5</sup> L’ammontare massimo non può eccedere la somma delle imposte svizzere sul reddito dell’anno della scadenza.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^9-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+### b.**** Calcolo per le persone giuridiche
+
+[^lvlII-lvl2-lvlb-1]
+
+[^lvlII-lvl2-lvlb-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 10
+
+<sup>1</sup> L’ammontare massimo corrisponde alla somma delle imposte federali, cantonali, comunali ed ecclesiastiche, calcolate sull’utile dell’anno della scadenza. L’ammontare massimo per le imposte federali da una parte e per le imposte cantonali, comunali ed ecclesiastiche dall’altra è calcolato separatamente.
+
+<sup>2</sup> L’importo parziale dell’imposta sull’utile cui sono assoggettati i redditi provenienti dagli Stati contraenti è determinato ripartendo l’imposta conformemente al rapporto fra i redditi provenienti dagli Stati contraenti, dedotti gli interessi passivi e le spese secondo l’articolo 11, e l’utile netto complessivo che sottostà a questa imposta, relativo all’anno della scadenza. L’importo parziale non può essere maggiore dell’imposta effettivamente dovuta.
+
+<sup>3</sup> Se secondo l’articolo 30 capoverso 2 LAID[^10-1] l’imposta sull’utile è computata nell’imposta sul capitale, il computo di imposte alla fonte estere non può condurre a un importo dell’imposta cantonale, comunale ed ecclesiastica inferiore all’importo dell’imposta sul capitale prima del computo dell’imposta sull’utile.
+
+[^10-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+### c.**** Considerazione degli interessi passivi, delle altre spese e delle deduzioni con incidenza fiscale
+
+[^lvlII-lvl2-lvlc-1]
+
+[^lvlII-lvl2-lvlc-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 11
+
+<sup>1</sup> Per calcolare l’ammontare massimo, dai redditi sono dedotti gli interessi passivi, le altre spese e le deduzioni con incidenza fiscale.
+
+<sup>2</sup>
+
+Per la riduzione si applicano le seguenti regole di ripartizione:
+
+- a. gli interessi passivi sono ripartiti proporzionalmente agli attivi;
+- b. le altre spese connesse direttamente ai redditi sono ripartite fra i relativi redditi e le altre spese connesse indirettamente ai redditi proporzionalmente a tali redditi;
+- c. le deduzioni con incidenza fiscale connesse direttamente ai redditi sono ripartite fra i relativi redditi e le deduzioni con incidenza fiscale connesse indirettamente ai redditi proporzionalmente a tali redditi.
+
+<sup>3</sup> Fanno parte delle altre spese anche le spese di gestione, le spese generali di amministrazione nonché le imposte relative ai redditi dedotte dal reddito netto secondo il diritto applicabile.
+
+<sup>4</sup> Per i dividendi e gli interessi ricevuti da società di capitali, cooperative e stabilimenti d’impresa secondo l’articolo 2*a* nonché da persone fisiche nella sostanza commerciale, la riduzione per le altre spese è stabilita al 5 per cento dei dividendi e degli interessi allibrati.
+
+<sup>5</sup> Per i diritti di licenza che non sono tassati secondo gli articoli 8*a* e 24*b* LAID[^11-1] e per i redditi provenienti da prestazioni di servizi, la riduzione per gli interessi passivi e le altre spese è stabilita alla metà dell’ammontare lordo di tali redditi.
+
+<sup>6</sup> È fatta salva la possibilità di comprovare che le spese effettive secondo i capoversi 4 o 5 sono notevolmente superiori o inferiori.
+
+[^11-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+
+### 3. …
+
+#### Art. 12
+
+[^12-1]
+
+[^12-1]: Abrogato dal n. I dell’O del 13 nov. 2019, con effetto dal 1° gen. 2020 (RU **20****19** 3873).
+
+## III. Esercizio del diritto al computo di imposte alla fonte estere
+
+### 1. Istanza
+
+#### Art. 13
+
+<sup>1</sup> Il computo di imposte alla fonte estere è concesso soltanto a istanza.
+
+<sup>2</sup> L’istanza deve essere presentata secondo le prescrizioni dell’autorità fiscale del Cantone in cui l’istante risiedeva alla fine del periodo fiscale in cui i redditi sono maturati.[^13-1]
+
+<sup>2bis</sup> I redditi che sono tassati a un’aliquota ridotta nell’ambito dell’imposta sull’utile o sul reddito devono essere specialmente designati nell’istanza.[^13-2]
+
+<sup>3</sup> Per redditi del patrimonio aziendale occorre riunire in un’istanza i redditi maturati nello stesso anno commerciale.[^13-3]
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^13-2]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^13-3]: Introdotto dal n. I dell’O del 9 mar. **2001**, in vigore dal 1° gen. 2001 ([RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)).
+
+### 2. Termini
+
+#### Art. 14
+
+[^14-1]
+
+<sup>1</sup> L’istanza di computo di imposte alla fonte estere può essere presentata al più presto dopo la scadenza del periodo fiscale in cui i redditi sono maturati.
+
+<sup>2</sup> Il diritto al computo di imposte alla fonte estere si estingue se l’istanza non è presentata nei tre anni successivi al periodo fiscale in cui i redditi sono maturati.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2001, in vigore dal 1° gen. 2001 ([RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)).
+
+## IV. Autorità e procedura
+
+### 1. Autorità
+
+#### Art. 15
+
+[^15-1]
+
+L’esecuzione del computo di imposte alla fonte estere spetta ai Cantoni. Essi designano le autorità competenti per ricevere le istanze di computo di imposte alla fonte estere e per decidere in merito.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### 2. Procedura
+
+### a. Obblighi dell’istante
+
+#### Art. 16
+
+Chiunque chiede il computo di imposte alla fonte estere deve indicare coscienziosamente all’autorità fiscale[^16-1] tutti i fatti che possono essere di qualche momento nell’accertamento del diritto al computo di imposte alla fonte estere. L’articolo 48 della legge federale del 13 ottobre 1965[^16-2] su l’imposta preventiva (detta qui di seguito «legge su l’imposta preventiva») si applica per analogia.
+
+[^16-1]: Nuova espr. giusta il n. I spv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+### b. Decisione
+
+#### Art. 17
+
+<sup>1</sup> L’autorità fiscale esamina le istanze che gli sono presentate. Esso dispone a tale scopo dei medesimi poteri che sono attribuiti per esame delle istanze di rimborso dell’imposta federale preventiva (art. 50 cpv. 1 e 3 della legge su l’imposta preventiva[^17-1]).
+
+<sup>2</sup> Se l’istanza è respinta, in tutto o in parte, la decisione deve essere brevemente motivata.
+
+<sup>3</sup> L’importo delle imposte alla fonte estere computabili stabilito dall’autorità fiscale è sottoposto alla riserva di un riesame della pretesa da parte dell’Amministrazione federale delle contribuzioni (art. 20 cpv. 3).[^17-2]
+
+[^17-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^17-2]: Introdotto giusta il n. I dell’O del 7 dic. 1981 ([RU 1981 1996](https://fedlex.data.admin.ch/eli/oc/1981/1996_1996_1996)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### c. Reclamo e ricorso
+
+#### Art. 18
+
+Le decisioni sul computo di imposte alla fonte estere possono essere impugnate con i medesimi rimedi giuridici dati contro le decisioni cantonali di rimborso dell’imposta federale preventiva (art. 53 a 56 della legge su l’imposta preventiva[^18-1]).
+
+[^18-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+### d. Pagamento o compensazione dell’importo delle imposte alla fonte estere computabili****
+
+[^lvlIV-lvl2-lvld-1]
+
+[^lvlIV-lvl2-lvld-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 19
+
+<sup>1</sup> L’importo delle imposte alla fonte estere computabili stabilito dall’autorità fiscale è versato in contanti o compensato con le imposte federali, cantonali, comunali o ecclesiastiche.[^19-1]
+
+<sup>2</sup> I Cantoni tengono registri speciali quanto al computo di imposte alla fonte estere.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+### 3.**** Regolamento dei conti fra la Confederazione e i Cantoni
+
+[^lvlIV-lvl3-1]
+
+[^lvlIV-lvl3-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+
+#### Art. 20
+
+<sup>1</sup>
+
+L’importo delle imposte alla fonte estere computabili è ripartito fra la Confederazione da una parte e i Cantoni e i Comuni dall’altra come segue:
+
+- a. per le persone fisiche, in base alle aliquote d’imposta di cui all’articolo 9 capoverso 1;
+- b. per le persone giuridiche, proporzionalmente all’importo delle imposte sull’utile di cui all’articolo 10 capoverso 1.
+
+<sup>2</sup> I Cantoni addebitano alla Confederazione la quota federale. Da tale quota è dedotta la rimanente quota cantonale sulle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD[^20-1]. Spetta ai Cantoni ripartire fra i Cantoni e i Comuni la parte degli importi del computo che non è a carico della Confederazione.
+
+<sup>3</sup> Gli articoli 57 e 58 della legge federale del 13 ottobre 1965[^20-2] sull’imposta preventiva si applicano al regolamento dei conti fra la Confederazione e i Cantoni, come anche all’obbligo di restituire i pagamenti o le compensazioni concessi a torto (art. 19); l’articolo 58 capoversi 1, 2 e 5 si applica tanto agli importi del computo concessi a carico della Confederazione quanto a quelli a carico di un Cantone.
+
+[^20-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^20-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+#### Art. 21
+
+Abrogato
+
+### 4. Revisione e rettificazione delle decisioni
+
+#### Art. 22
+
+La revisione e la rettificazione di decisioni sul computo di imposte alla fonte estere sono disciplinate negli articoli 59 e 60 della legge su l’imposta preventiva[^22-1].
+
+[^22-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+## V. Disposizioni penali
+
+#### Art. 23
+
+[^23-1]
+
+<sup>1</sup> Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto a sé o a un terzo, ottiene a torto un computo di imposte alla fonte estere, è punito conformemente all’articolo 61 della legge su l’imposta preventiva[^23-2].
+
+<sup>2</sup> Chiunque, senza che sia data la fattispecie del capoverso 1,
+
+è punito conformemente all’articolo 62 della legge su l’imposta preventiva.
+
+- a. fornisce dati falsi o tace fatti rilevanti in un’istanza di computo globale o presenta documenti suppositizi per giustificare fatti rilevanti;
+- b. fornisce, come istante, informazioni inesatte;
+- c. fa valere diritti che non gli competono o che gli sono già stati soddisfatti;
+- d. intralcia, impedisce o rende impossibile l’esecuzione normale di una verifica contabile o di altri controlli ufficiali,
+
+<sup>3</sup> Per il rimanente, alle infrazioni si applicano per analogia le disposizioni degli articoli 64 e 67 della legge su l’imposta preventiva.
+
+[^23-1]: Nuovo testo giusta il n. I del DCF del 25 nov. 1974, in vigore dal 1° gen. 1975 ([RU 1974 1958](https://fedlex.data.admin.ch/eli/oc/1974/1958_1958_1958)).
+[^23-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+
+## VI. Disposizioni finali
+
+### 1. Esecuzione
+
+#### Art. 24
+
+<sup>1</sup> Il DFF[^24-1] emana le disposizioni d’esecuzione quanto al computo di imposte alla fonte estere.
+
+<sup>2</sup> Esso approva segnatamente le tariffe cantonali applicabili alle persone fisiche (art. 9 cpv. 2) e pubblica un elenco delle aliquote delle imposte per le quali può essere chiesto il computo di imposte alla fonte estere, riscosse negli Stati contraenti in virtù di convenzioni.[^24-2]
+
+[^24-1]: Nuova espr. giusta il n. I cpv. 4 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 2001, in vigore dal 1° gen. 2001 ([RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)).
+
+### 2. Entrata in vigore
+
+#### Art. 25
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° settembre 1967.
+
+<sup>2</sup> Essa si applica ai redditi maturati dopo il 31 dicembre 1966, in quanto una convenzione non preveda espressamente lo sgravio (art. 1) per i redditi maturati successivamente a tale data.
+
+<sup>3</sup> …[^25-1]
+
+[^25-1]: Abrogato dall’art. 12 dell’O del 7 feb. 1973 concernente la convenzione germano-svizzera di doppia imposizione, con effetto dal 1° marzo 1973 (RU **1973** 294).
+
+## Disposizione finale della modifica del 7 dicembre 1981****
+
+[^u1-1]
+
+[^u1-1]: [RU 1981 1996](https://fedlex.data.admin.ch/eli/oc/1981/1996_1996_1996). Abrogata dal n. IV 16 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+## Disposizioni finali della modifica del 9 marzo 2001****
+
+[^u2-1]
+
+[^u2-1]: [RU 2001 1060](https://fedlex.data.admin.ch/eli/oc/2001/159)
+
+II
+
+I Cantoni che anche dopo il 1° gennaio 2001 riscuotono le imposte delle persone fisiche secondo il sistema della tassazione biennale praenumerando possono, fino al passaggio al sistema della tassazione annua postnumerando per le persone fisiche domiciliate sul loro territorio e per le società in nome collettivo e in accomandita che vi hanno sede, stabilire l’ammontare massimo secondo il calcolo semplificato previsto nell’articolo 9 nel tenore vigente prima della modifica del 9 marzo 2001 e conformemente alla tariffa di computo basata su questa disposizione.
+
+III
+
+<sup>1</sup> La presente modifica si applica ai redditi maturati dopo il 31 dicembre 2000.
+
+<sup>2</sup> Essa entra retroattivamente in vigore il 1° gennaio 2001.
+
+## Disposizione transitoria della modifica del 15 ottobre 2008****
+
+[^u3-1]
+
+[^u3-1]: [RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)
+
+La presente modifica si applica ai redditi maturati dopo il 31 dicembre 2008.
+
+## Disposizione transitoria della modifica del 13 novembre 2019****
+
+[^u4-1]
+
+[^u4-1]: [RU 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)
+
+La presente modifica si applica ai redditi maturati dopo il 31 dicembre 2019.

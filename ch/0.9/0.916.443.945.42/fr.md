@@ -1,0 +1,41 @@
+---
+sr: "0.916.443.945.42"
+title: Échange de lettres du 20 octobre 1954 concernant des prescriptions de police vétérinaire sur la circulation des animaux à la frontière italo-suisse et le pacage de longue durée (avec annexe)
+eli: "https://fedlex.data.admin.ch/eli/cc/1956/554_600_604"
+language: fr
+version: 1956-02-17
+adopted: 1954-10-20
+in_force: 1956-02-17
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/554_600_604/19560217/fr/xml/fedlex-data-admin-ch-eli-cc-1956-554_600_604-19560217-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/554_600_604/19560217/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Echange de lettres du 20 octobre 1954 concernant des prescriptions de police vétérinaire sur la circulation des animaux à la frontière italo-suisse et le pacage de longue durée (avec annexe)
+
+RO **1956** 600
+
+Traduction*[^t-1]*
+
+(Etat le 17 février 1956)
+
+[^t-1]: Le texte original est publié sous le même chiffre dans l’édition italienne du présent Recueil.
+
+Ministère des affaires étrangères Rome, le 20 octobre 1954.
+
+Monsieur le Ministre,
+
+J’ai l’avantage d’accuser réception de votre lettre de ce jour dont la teneur est la suivante:
+
+«J’ai l’honneur de me référer à l’art. 10 de la ‹Convention entre l’Italie et la Suisse relative au trafic de frontière et au pacage› signée à Rome le 2 juillet 1953[^ingress-1], qui prévoit dans son dernier alinéa que les mesures de police vétérinaire applicables au mouvement du bétail seront réglées par un échange de notes entre les deux gouvernements.
+
+En me fondant sur les accords intervenus depuis cette époque entre les autorités compétentes des deux pays, j’ai l’honneur de vous soumettre ci-joint le texte des ‹prescriptions de police vétérinaire sur la circulation des animaux à la frontière italo‑suisse et le pacage de longue durée›. Le gouvernement suisse est prêt à accepter ces dispositions comme parties intégrantes de la convention précitée et de les appliquer dès que ladite convention sera entrée en vigueur.
+
+Je vous serais reconnaissant de bien vouloir me confirmer l’accord du gouvernement italien sur ce qui précède.»
+
+J’ai l’honneur de vous faire savoir que le gouvernement italien a approuvé les dispositions ci‑dessus et je vous prie d’agréer, Monsieur le Ministre, les assurances de ma haute considération.
+
+Corrias
+
+[^ingress-1]: [RS 0.631.256.945.41](https://fedlex.data.admin.ch/eli/cc/1956/532_577_581)

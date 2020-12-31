@@ -1,0 +1,41 @@
+---
+sr: "916.148"
+title: "Ordinanza del 1<sup>o</sup> settembre 1982 che abilita il DEFR a modificare gli allegati 1 e 2 dell'Accordo fra l'Italia e la Svizzera per l'esportazione di vini italiani"
+eli: "https://fedlex.data.admin.ch/eli/cc/1983/21_21_21"
+language: it
+version: 2013-01-01
+adopted: 1982-09-01
+in_force: 1983-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/21_21_21/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1983-21_21_21-20130101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/21_21_21/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza che abilita il DEFR a modificare gli allegati 1 e 2 dell’Accordo fra l’Italia e la Svizzera per l’esportazione di vini italiani
+
+del 1° settembre 1982 (Stato 1° gennaio 2013)
+
+Il Consiglio federale svizzero,
+
+in applicazione dell’articolo 5 del trattato di commercio del 27 gennaio 1923[^ingress-1] fra la Svizzera e l’Italia, come anche dell’articolo 3 del quinto protocollo addizionale del 14 maggio 1982[^ingress-2] all’Accordo del 25 aprile 1961 per l’esportazione di vini italiani,
+
+ordina:
+
+[^ingress-1]: [RS 0.946.294.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4247)
+[^ingress-2]: [[RU 1983 30](https://fedlex.data.admin.ch/eli/oc/1983/30_30_30)]
+
+#### Art. 1
+
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^1-1] è, per la Svizzera, l’autorità abilitata a modificare gli allegati 1 e 2 dell’Accordo del 25 aprile 1961[^1-2] per l’esportazione di vini italiani.
+
+[^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-2]: [RS 0.946.294.541.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4250)
+
+#### Art. 2
+
+Il DEFR decide circa le proposte modificazioni, su mandato dell’Ufficio federale dell’economia esterna e consultati l’Ufficio federale della sanità pubblica e l’Ufficio federale dell’agricoltura, come anche la Commissione federale per il commercio dei vini.
+
+#### Art. 3
+
+La presente ordinanza entra in vigore il 1° febbraio 1983.

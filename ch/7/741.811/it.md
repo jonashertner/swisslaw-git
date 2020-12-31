@@ -1,0 +1,81 @@
+---
+sr: "741.811"
+title: Ordinanza del 13 dicembre 1976 sul contributo alla prevenzione degli infortuni nella circolazione stradale
+eli: "https://fedlex.data.admin.ch/eli/cc/1976/2735_2735_2735"
+language: it
+version: 1996-01-01
+adopted: 1976-12-13
+in_force: 1977-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2735_2735_2735/19960101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2735_2735_2735-19960101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2735_2735_2735/19960101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul contributo alla prevenzione degli infortuni nella circolazione stradale
+
+del 13 dicembre 1976 (Stato 1° gennaio 1996)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 1 capoverso 2, 11 e 12 della legge federale del 25 giugno 1976[^ingress-1] concernente un contributo alla prevenzione degli infortuni nella circolazione stradale,
+
+ordina:
+
+[^ingress-1]: [RS 741.81](https://fedlex.data.admin.ch/eli/cc/1976/2731_2731_2731)
+
+#### Art. 1
+
+**Ammontare del contributo**
+
+Il contributo per la prevenzione degli infortuni nella circolazione stradale ammonta allo 0,75 per cento del premio netto dell’assicurazione per la responsabilità civile dei veicoli a motore. Gli assicuratori di responsabilità civile comunicano ai loro contraenti l’ammontare del contributo con il conteggio del premio.
+
+#### Art. 2
+
+**Veicoli non sottoposti all’assicurazione obbligatoria**
+
+I Cantoni, come detentori dei veicoli a motore per i quali non sussiste l’assicurazione di responsabilità civile (art. 73 cpv. 1 della LF sulla circolazione stradale[^2-1]), sono tenuti al contributo nella misura in cui i loro veicoli sono assicurati.
+
+[^2-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 3
+
+**Pagamento dei contributi**
+
+<sup>1</sup> Gli assicuratori, entro 30 giorni dopo la scadenza del trimestre d’esercizio, pagano spontaneamente al «Fondo nazionale per la prevenzione degli infortuni stradali» i contributi riscossi sui premi incassati durante questo periodo.
+
+<sup>2</sup> Se più assicuratori garantiscono collettivamente l’assicurazione, ciascuno di essi paga i contributi per la parte di premio che gli compete.
+
+#### Art. 4
+
+**Sorveglianza**
+
+<sup>1</sup> Ogni assicuratore comunica annualmente all’Autorità federale di sorveglianza sui mercati finanziari[^4-1], unitamente al rapporto che deve inoltrare giusta l’articolo 22 capoverso 1 della legge federale del 23 giugno 1978[^4-2] sulla sorveglianza degli istituti d’assicurazione privati, la somma pagata al Fondo nazionale per la prevenzione degli infortuni stradali durante l’esercizio trascorso nonché l’importo dei premi incassati cui si riferisce questa somma.[^4-3]
+
+<sup>2</sup> Se l’importo dei premi incassati, di cui al capoverso 1, diverge da quello indicato nel resoconto per l’Autorità federale di sorveglianza sui mercati finanziari riguardo all’assicurazione di responsabilità civile degli autoveicoli, la differenza dev’essere motivata.
+
+[^4-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^4-2]: [RU **1978** 1837, [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66 [733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 n. 3 2363 all. n. 2, **1993** 3204, **1995** 1328 all. n. 2 3517 I 12 5679, **2000** 2355 all. n. 28, **2003** 232, **2004** 1677 all. n. 4 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la LF del 17 dic. 2004 sulla sorveglianza degli assicuratori ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^4-3]: Nuovo testo giusta il n. II 2 dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+
+#### Art. 5
+
+**Commissione amministrativa**
+
+Il presidente e i membri della commissione amministrativa del Fondo nazionale per la prevenzione degli infortuni stradali sono eletti per un quadriennio.
+
+#### Art. 6
+
+**Disposizioni transitorie**
+
+<sup>1</sup> I contributi alla prevenzione degli infortuni della circolazione stradale sono riscossi, per la prima volta, unitamente ai premi esigibili a contare dal 1° gennaio 1977.
+
+<sup>2</sup> Fintanto che sono istituiti gli organi del Fondo per la prevenzione degli infortuni stradali, l’esecuzione dei compiti affidatigli è demandata alla fondazione attuale «Fondo per la prevenzione degli infortuni nella circolazione stradale».
+
+<sup>3</sup> Il primo periodo amministrativo della commissione scade il 3l dicembre 1980.
+
+#### Art. 7
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 1977.

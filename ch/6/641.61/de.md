@@ -1,0 +1,1016 @@
+---
+sr: "641.61"
+title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
+short: MinöStG
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
+language: de
+version: 2020-07-01
+adopted: 1996-06-21
+in_force: 1997-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20200701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20200701/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Mineralölsteuergesetz
+
+(MinöStG)
+
+vom 21. Juni 1996 (Stand am 1. Juli 2020)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf Artikel 86 sowie 131 Absatz 1 Buchstabe e und 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 5. April 1995[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^ingress-3]: [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Grundsatz**
+
+Der Bund erhebt:
+
+- a. eine Mineralölsteuer auf Erdöl, anderen Mineralölen, Erdgas und den bei ihrer Verarbeitung gewonnenen Produkten sowie auf Treibstoffen;
+- b. einen Mineralölsteuerzuschlag auf Treibstoffen.
+
+#### Art. 2
+
+**Begriffe**
+
+<sup>1</sup>
+
+Erdöl, andere Mineralöle, Erdgas und bei ihrer Verarbeitung gewonnene Produkte im Sinne dieses Gesetzes sind:
+
+- a. Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nichtaromatischen Bestandteilen überwiegen (Zolltarifnummer 2707[^2-1]);
+- b. Erdöle oder Öle aus bituminösen Mineralien, roh (Zolltarifnummer 2709);
+- c.[^2-2] Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle); anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 Prozent oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle (Tarifnummer 2710);
+- d. Erdgas und andere gasförmige Kohlenwasserstoffe (Zolltarifnummer 2711);
+- e. zubereitete Schmiermittel (Zolltarifnummer 3403).
+
+<sup>2</sup>
+
+Treibstoffe im Sinne dieses Gesetzes sind folgende Waren, soweit sie als Treibstoffe verwendet werden:
+
+- a. Erdöl, andere Mineralöle, Erdgas und bei ihrer Verarbeitung gewonnene Produkte nach Absatz 1;
+- b. Kohlenwasserstoffe, acyclische und cyclische (Zolltarifnummern 2901 und 2902);
+- c. acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate (Zolltarifnummer 2905);
+- d. Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Ketonperoxide (auch chemisch nicht einheitliche) und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate (Zolltarifnummer 2909);
+- e. Erzeugnisse der Zolltarifnummer 3811, ausgenommen Antiklopfmittel und Additive für Schmieröle;
+- f. Erzeugnisse der Zolltarifnummer 3814;
+- g. Alkylbenzol-Gemische und Alkylnaphthalin-Gemische, ausgenommen solche der Zolltarifnummern 2707 oder 2902 (Zolltarifnummer 3817);
+- h. Erzeugnisse der Zolltarifnummer 3824;
+- i.[^2-3] Biodiesel und Mischungen der Zolltarifnummer 3826;
+- j.[^2-4] andere Waren, die unvermischt oder vermischt zu Treibstoffen bestimmt sind oder als Treibstoffe verwendet werden.
+
+<sup>3</sup>
+
+Im Sinne dieses Gesetzes gilt als:
+
+- a. «Steuer»: die Mineralölsteuer und der Mineralölsteuerzuschlag;
+- b. «Importeur»: die Person, die eine Ware über die Grenze bringt, sowie die Person, auf deren Rechnung die Ware eingeführt wird;
+- c. «zugelassener Lagerinhaber»: wer eine Bewilligung der Steuerbehörde besitzt, unversteuerte Waren in einem zugelassenen Lager zu bearbeiten, zu gewinnen, zu erzeugen oder zu lagern;
+- d.[^2-5] «biogener Treibstoff»: Treibstoff, der aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt wird.
+
+[^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^2-2]: Fassung gemäss Anhang Ziff. 1 der V vom 3. Juli 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
+[^2-3]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-4]: Eingefügt durch Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-5]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 2a
+
+**Bezeichnung der biogenen Treibstoffe**[^2a-1]
+
+Der Bundesrat bezeichnet die biogenen Treibstoffe nach Artikel 2 Absatz 3 Buchstabe d.
+
+[^2a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 3
+
+**Steuerobjekt**
+
+<sup>1</sup>
+
+Der Steuer unterliegen:
+
+- a. die Herstellung oder die Gewinnung von Waren nach den Artikeln 1 und 2 Absätze 1 und 2 im Inland;
+- b. die Einfuhr solcher Waren ins Inland.
+
+<sup>2</sup> Als Inland gelten das schweizerische Staatsgebiet und die Zollanschlussgebiete, nicht jedoch die Zollausschlussgebiete.
+
+#### Art. 4
+
+**Entstehung der Steuerforderung**
+
+<sup>1</sup>
+
+Die Steuerforderung entsteht mit der Überführung der Waren in den steuerrechtlich freien Verkehr. Als solche gilt:
+
+- a. für Waren, die eingeführt werden, der Zeitpunkt der Überführung in den zollrechtlich freien Verkehr;
+- b. für Waren in zugelassenen Lagern (Art. 27–32) der Zeitpunkt, in dem die Waren das Lager verlassen oder im Lager verwendet werden;
+- c. für Waren, die dem Verkehr unter Steueraussetzung entnommen werden (Art. 32), der Zeitpunkt nach Buchstabe a oder b;
+- d. für Waren, die ausserhalb eines zugelassenen Lagers hergestellt werden, der Zeitpunkt ihrer Herstellung.
+
+<sup>2</sup>
+
+Ausserdem entsteht die Steuerforderung:
+
+- a. für die Steuerdifferenz bei versteuerten Waren, die nachträglich zu Zwecken abgegeben oder verwendet werden, die einem höheren Steuersatz unterliegen, im Zeitpunkt der Abgabe zu dieser Verwendung oder, wenn sie nicht abgegeben werden, vor deren Verwendung;
+- b. bei steuerfreien Waren, die nachträglich zu Zwecken abgegeben oder verwendet werden, die der Steuer unterliegen, im Zeitpunkt der Abgabe zu dieser Verwendung oder, wenn sie nicht abgegeben werden, vor deren Verwendung.
+
+#### Art. 5
+
+**Steuerbehörde**
+
+<sup>1</sup> Steuerbehörde ist die Eidgenössische Zollverwaltung. Sie vollzieht alle Massnahmen, die dieses Gesetz vorsieht, und erlässt alle dafür erforderlichen Weisungen, deren Erlass nicht ausdrücklich einer anderen Behörde vorbehalten ist.
+
+<sup>2</sup> Auf den Einnahmen aus der Steuer auf Treibstoffen rechnet die Steuerbehörde die Erhebungskosten an.
+
+#### Art. 6
+
+**Kontrollen durch die Steuerbehörde**
+
+<sup>1</sup> Die Steuerbehörde kann jederzeit unangemeldet Kontrollen durchführen, namentlich bei Steuerpflichtigen und bei Personen, die eine Warenbuchhaltung führen müssen oder die einen Rückerstattungsantrag stellen.
+
+<sup>2</sup> Der Steuerbehörde sind auf Verlangen alle Auskünfte zu geben und alle Bücher, Geschäftspapiere und Urkunden vorzulegen, welche für den Vollzug dieses Gesetzes von Bedeutung sind.
+
+#### Art. 7
+
+**Amtshilfe**
+
+<sup>1</sup>
+
+Die Steuerbehörde kann zur Mitarbeit heranziehen:
+
+- a. Kantone und Gemeinden für Aufgaben im Rahmen der Steuerrückerstattung an die Landwirtschaft;
+- b. Organisationen, die Massnahmen der wirtschaftlichen Landesversorgung vollziehen.
+
+<sup>2</sup> Die Polizei von Kantonen und Gemeinden zeigt alle Verletzungen des Mineralölsteuerrechts, von denen sie bei der Ausübung ihrer amtlichen Tätigkeit Kenntnis erlangt, der Steuerbehörde an und unterstützt diese bei der Feststellung des Tatbestandes und der Verfolgung der Täterschaft.
+
+<sup>3</sup>
+
+Gegenüber der Steuerbehörde auskunftspflichtig sind, sofern die verlangten Auskünfte für den Vollzug dieses Gesetzes von Bedeutung sein können:
+
+- a. die Verwaltungsbehörden des Bundes und die autonomen eidgenössischen Anstalten und Betriebe;
+- b. die Behörden der Kantone, Bezirke, Kreise und Gemeinden;
+- c. die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen im Rahmen ihres Aufgabenbereichs.
+
+#### Art. 8
+
+**Schweigepflicht**
+
+Personen, die zum Vollzug dieses Gesetzes beigezogen werden oder gegenüber der Steuerbehörde auskunftspflichtig sind, müssen gegenüber Dritten über die in Ausübung ihres Amtes gemachten Wahrnehmungen Stillschweigen bewahren und den Einblick in amtliche Akten verweigern.
+
+## 2. Abschnitt: Steuerpflicht
+
+#### Art. 9
+
+**Steuerpflichtige Personen**
+
+Steuerpflichtig sind:
+
+- a. die Importeure;
+- b. die zugelassenen Lagerinhaber;
+- c. Personen, die versteuerte Waren zu Zwecken abgeben, verwenden oder verwenden lassen, die einem höheren Steuersatz unterliegen;
+- d. Personen, die unversteuerte Waren abgeben, verwenden oder verwenden lassen.
+
+#### Art. 10
+
+**Steuernachfolge**
+
+<sup>1</sup> Der Steuernachfolger oder die Steuernachfolgerin tritt in die sich aus diesem Gesetz ergebenden Rechte und Pflichten der steuerpflichtigen Person ein.
+
+<sup>2</sup>
+
+Die Steuernachfolge treten an:
+
+- a. die Erben beim Tod der steuerpflichtigen Person beziehungsweise des Steuernachfolgers oder der Steuernachfolgerin;
+- b. die persönlich haftenden Gesellschafter und Gesellschafterinnen oder deren Erben nach Auflösung einer Gesellschaft ohne Rechtspersönlichkeit;
+- c. die juristische Person, die von einer anderen juristischen Person das Vermögen oder ein Geschäft mit Aktiven und Passiven übernimmt.
+
+<sup>3</sup> Die Erben haften solidarisch bis zur Höhe ihrer Erbteile, die persönlich haftenden Gesellschafter und Gesellschafterinnen haften im Rahmen ihrer Haftbarkeit für die Schulden der Gesellschaft.
+
+<sup>4</sup> Treten mehrere Personen die Steuernachfolge an, so kann jede die sich aus diesem Gesetz ergebenden Rechte selbständig ausüben.
+
+#### Art. 11
+
+**Mithaftung für die Steuer**
+
+Mit der steuerpflichtigen Person beziehungsweise mit dem Steuernachfolger oder der Steuernachfolgerin haften solidarisch:
+
+- a. für die Steuer einer aufgelösten juristischen Person oder Gesellschaft ohne Rechtspersönlichkeit: die mit der Liquidation betrauten Personen, auch im Konkurs- oder im Nachlassverfahren, bis zum Betrag des Liquidationsergebnisses;
+- b. für die Steuer einer juristischen Person, die ihren Sitz ohne Liquidation ins Ausland verlegt: die Organe persönlich bis zum Betrag des reinen Vermögens der juristischen Person.
+
+## 3. Abschnitt: Tarife
+
+#### Art. 12
+
+**Steuertarif**
+
+<sup>1</sup> Die Mineralölsteuer wird nach dem Tarif im Anhang 1 zu diesem Gesetz erhoben.
+
+<sup>2</sup> Der Mineralölsteuerzuschlag beträgt 300 Franken je 1000 l bei 15 °C.
+
+#### Art. 12a
+
+**Steuererleichterung für Erd- und Flüssiggas**[^12a-1]
+
+<sup>1</sup> Für Erd- und Flüssiggas zur Verwendung als Treibstoff ist die Steuer je Liter Benzinäquivalent 40 Rappen tiefer als die Steuer gemäss Mineralölsteuertarif.
+
+<sup>2</sup> Die Mineralölsteuer und der Mineralölsteuerzuschlag werden nach dem Tarif im Anhang 1*a* zu diesem Gesetz erhoben.
+
+[^12a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 12b
+
+**Steuererleichterung für biogene Treibstoffe**[^12b-1]
+
+<sup>1</sup>
+
+Für biogene Treibstoffe wird eine Steuererleichterung auf Gesuch hin gewährt, wenn die folgenden Anforderungen erfüllt sind:
+
+- a. Die biogenen Treibstoffe erzeugen vom Anbau der Rohstoffe bis zu ihrem Verbrauch erheblich weniger Treibhausgasemissionen als fossiles Benzin.
+- b. Die biogenen Treibstoffe belasten die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft nicht erheblich mehr als fossiles Benzin.
+- c. Der Anbau der Rohstoffe erforderte keine Umnutzung von Flächen mit hohem Kohlenstoffbestand oder mit grosser biologischer Vielfalt.
+- d. Der Anbau der Rohstoffe erfolgte auf Flächen, die rechtmässig erworben wurden.
+- e. Die biogenen Treibstoffe wurden unter sozial annehmbaren Bedingungen produziert.
+
+<sup>2</sup> Die Anforderungen nach Absatz 1 Buchstaben a–d gelten in jedem Fall als erfüllt bei biogenen Treibstoffen, die nach dem Stand der Technik aus biogenen Abfällen oder Produktionsrückständen hergestellt werden.
+
+<sup>3</sup> Der Bundesrat kann zusätzlich zu den Anforderungen nach Absatz 1 die Anforderung einführen, dass die Produktion der biogenen Treibstoffe nicht zulasten der Ernährungssicherheit erfolgen darf. Er berücksichtigt dabei international anerkannte Standards.
+
+<sup>4</sup> Er bestimmt den Umfang der Steuererleichterung; er berücksichtigt dabei die Wettbewerbsfähigkeit der biogenen Treibstoffe gegenüber Treibstoffen fossilen Ursprungs.
+
+[^12b-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 12c
+
+**Nachweis und Rückverfolgbarkeit von biogenen Treibstoffen**[^12c-1]
+
+<sup>1</sup> Wer eine Steuererleichterung für biogene Treibstoffe erhalten will, muss nachweisen, dass diese die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllen.
+
+<sup>2</sup>
+
+Der Nachweis beinhaltet:
+
+- a. verständliche und überprüfbare Angaben, welche die Rückverfolgbarkeit des biogenen Treibstoffs über alle Produktionsstufen ermöglichen; und
+- b. Unterlagen, die diese Angaben belegen.
+
+<sup>3</sup> Die Steuerbehörde kann verlangen, dass die Richtigkeit der Angaben und Unterlagen durch anerkannte unabhängige Dritte überprüft und bestätigt wird.
+
+<sup>4</sup> Der Bundesrat bezeichnet die erforderlichen Angaben und Unterlagen. Er kann Erleichterungen des Nachweises vorsehen, sofern gewährleistet ist, dass die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllt sind.
+
+[^12c-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 12d
+
+**Gesuch um Steuererleichterung für biogene Treibstoffe**[^12d-1]
+
+<sup>1</sup> Das Gesuch um Steuererleichterung für biogene Treibstoffe muss vor der Abgabe der ersten Steueranmeldung schriftlich bei der Steuerbehörde eingereicht werden.
+
+<sup>2</sup> Die Steuerbehörde entscheidet über die Steuererleichterung im Einvernehmen mit dem Bundesamt für Umwelt, dem Bundesamt für Landwirtschaft und dem Staatssekretariat für Wirtschaft.
+
+<sup>3</sup> Der Bundesrat regelt das Verfahren.
+
+[^12d-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 12e
+
+**Ertragsneutralität**[^12e-1]
+
+<sup>1</sup> Die Steuerausfälle, die sich aus der Steuererleichterung nach den Artikeln 12*a* und 12*b* ergeben, sind durch eine höhere Besteuerung des Benzins und Dieselöls bis spätestens am 31. Dezember 2028 zu kompensieren.
+
+<sup>2</sup> Der Bundesrat ändert die in Anhang 1 und Artikel 12 Absatz 2 enthaltenen Steuersätze für Benzin und Dieselöl und passt die geänderten Steuersätze periodisch an.
+
+[^12e-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2028 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 13
+
+**Massgebender Tarif**
+
+Der Steuerbetrag berechnet sich nach dem Tarif, der bei Entstehung der Steuerforderung in Kraft ist.
+
+#### Art. 14
+
+**Unterschiedliche Steuer je nach Verwendungszweck**
+
+<sup>1</sup> Waren, für die der Steuertarif je nach Verwendung unterschiedliche Sätze vorsieht, werden zum tieferen Satz besteuert, wenn die Person, die sie verwendet, vor Entstehung der Steuerforderung eine Verwendungsverpflichtung hinterlegt hat.
+
+<sup>2</sup>
+
+Wer Waren liefert, die zum tieferen Satz besteuert werden, muss:
+
+- a. eine Warenbuchhaltung führen; und
+- b. dem Empfänger oder der Empfängerin gegenüber einen Verwendungsvorbehalt anbringen.
+
+#### Art. 15
+
+**Heizöl extraleicht**
+
+<sup>1</sup> Wer Heizöl extraleicht liefert, muss die Verpflichtungen nach Artikel 14 Absatz 2 einhalten.
+
+<sup>2</sup> Als Heizöl extraleicht gilt Gasöl, das zu Feuerungszwecken bestimmt sowie gefärbt und gekennzeichnet ist.
+
+<sup>3</sup> Produkte, die Heizöl extraleicht enthalten und nicht gefärbt und gekennzeichnet sind, werden zu dem für Dieselöl geltenden Satz besteuert.
+
+<sup>4</sup> Der Bundesrat bestimmt das Verfahren sowie die Art der Färbung und Kennzeichnung. Das Entfärben ist verboten.
+
+#### Art. 16
+
+**Gebühren**
+
+Für Verfügungen und Dienstleistungen können Gebühren erhoben werden. Der Bundesrat setzt die Gebührensätze fest.
+
+## 4. Abschnitt: Steuerbefreiungen und Steuerrückerstattungen****
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 17
+
+**Steuerbefreiungen**
+
+<sup>1</sup>
+
+Von der Steuer befreit sind:
+
+- a. Waren, die nach internationalen Abkommen steuerfrei sind;
+- b. Waren, die als Proben zu Untersuchungszwecken verwendet werden;
+- c. Waren, die vor Entstehung der Steuerforderung nachweislich durch höhere Gewalt, durch einen Unfall oder durch Fehlmanipulation untergegangen sind;
+- d. die in Erdölraffinerien verbrauchte Prozessenergie;
+- e. die in Erdölraffinerien entstandenen, nachgewiesenen Fabrikationsverluste und die in der Fackel verbrannten Gase;
+- f. die in Steuerfreilagern durch Verdunstung entstandenen, nachgewiesenen Lagerverluste, sofern sie das übliche Mass nicht übersteigen;
+- g.[^17-1] Waren für den ausschliesslich dienstlichen Gebrauch von institutionellen Begünstigten nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^17-2], die von der Steuerpflicht ausgenommen sind;
+- h.[^17-3] Waren für den ausschliesslich persönlichen Gebrauch von begünstigten Personen nach Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007, die von der Steuerpflicht ausgenommen sind.
+
+<sup>1bis</sup> Der Bundesrat regelt die Voraussetzungen für die Steuerbefreiung von Waren nach Absatz 1 Buchstaben g und h; die Steuerbehörde regelt das Verfahren.[^17-4]
+
+<sup>2</sup>
+
+Der Bundesrat kann Treibstoffe ganz oder teilweise von der Steuer befreien, wenn sie:
+
+- a. der Versorgung von Luftfahrzeugen im Linienverkehr dienen;
+- b. der Versorgung von Luftfahrzeugen vor dem direkten Abflug ins Ausland dienen;
+- c. als Betriebsmittel im Fahrzeugtank oder in einem Reservekanister eingeführt werden;
+- d. in Pilot- und Demonstrationsanlagen aus erneuerbaren Rohstoffen gewonnen werden.
+
+<sup>3</sup> …[^17-5]
+
+[^17-1]: Eingefügt durch Anhang Ziff. II 6 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^17-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^17-3]: Eingefügt durch Anhang Ziff. II 6 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^17-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^17-5]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+
+#### Art. 18
+
+**Steuerrückerstattung**
+
+<sup>1</sup>
+
+Die Steuer wird rückerstattet:
+
+- a. für gasförmige Kohlenwasserstoffe aus dem Treibstoffumschlag, die zwecks Wiedergewinnung flüssiger Treibstoffe in ein zugelassenes Lager rücküberführt werden;
+- b. für versteuerte Waren, die in ein zugelassenes Lager rücküberführt werden, wenn der Lagerinhaber innerhalb von 30 Tagen nach Fälligkeit der Steuer einen Rückerstattungsantrag stellt.
+
+<sup>1bis</sup> Die Steuer wird ganz oder teilweise rückerstattet für Treibstoffe, die durch die vom Bund konzessionierten Transportunternehmungen verwendet werden.[^18-1]
+
+<sup>1ter</sup> Der Steueranteil, der für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr bestimmt ist, wird rückerstattet für den Treibstoff von Pistenfahrzeugen.[^18-2]
+
+<sup>2</sup> Der Mineralölsteuerzuschlag wird rückerstattet, wenn der Treibstoff für die Land- oder Forstwirtschaft, den Naturwerkstein-Abbau oder die Berufsfischerei verwendet worden ist.[^18-3]
+
+<sup>3</sup> Das Eidgenössische Finanzdepartement kann die Rückerstattung der Steuer zulassen, wenn dafür eine wirtschaftliche Notwendigkeit nachgewiesen wird und die Ware zu einem im allgemeinen Interesse liegenden Zweck verwendet worden ist.
+
+<sup>3bis</sup> Für biogene Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 nicht erfüllen, können keine Steuerrückerstattungen nach Absatz 3 geltend gemacht werden.[^18-4]
+
+<sup>4</sup> Der Bundesrat regelt das Rückerstattungsverfahren. Geringfügige Beträge werden nicht rückerstattet.
+
+<sup>5</sup> Auf Rückerstattungen wird kein Zins bezahlt.
+
+[^18-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^18-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^18-3]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2693](https://fedlex.data.admin.ch/eli/oc/2007/354); [BBl 2006 2427](https://fedlex.data.admin.ch/eli/fga/2006/226)[2449](https://fedlex.data.admin.ch/eli/fga/2006/228)).
+[^18-4]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+## 5. Abschnitt: Steuererhebung
+
+#### Art. 19
+
+**Steueranmeldung**
+
+<sup>1</sup> Wer Waren nach diesem Gesetz einführt, muss gleichzeitig mit der Zollanmeldung eine Steueranmeldung abgeben.[^19-1]
+
+<sup>2</sup> Personen, die zur periodischen Steueranmeldung berechtigt sind, können die eingeführten Waren provisorisch anmelden. Sie müssen für die Steuer und die anderen Abgaben Sicherheit leisten.
+
+[^19-1]: Fassung gemäss Anhang Ziff. 9 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+
+#### Art. 20
+
+**Periodische Steueranmeldung**
+
+<sup>1</sup> Importeure, die über eine Bewilligung der Oberzolldirektion zur periodischen Steueranmeldung verfügen, sowie zugelassene Lagerinhaber müssen periodisch eine definitive Steueranmeldung abgeben.
+
+<sup>2</sup> Der Bundesrat setzt die Fristen für die periodische Steueranmeldung fest.
+
+#### Art. 20a
+
+**Treibstoffgemische**[^20a-1]
+
+<sup>1</sup>
+
+Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemischen aus biogenen Treibstoffen und anderen Treibstoffen separat anmelden:
+
+- a. den Anteil biogener Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 erfüllen;
+- b. den Anteil biogener Treibstoffe, welche die Anforderungen nach Artikel 12*b* Absätze 1 und 3 nicht erfüllen; und
+- c. den Anteil anderer Treibstoffe.
+
+<sup>2</sup> Treibstoffanteile, die eine geringe Menge nicht überschreiten, müssen nicht separat angemeldet werden. Der Bundesrat legt die Menge fest.
+
+<sup>3</sup> Die Steuererleichterung kann in Form eines Vorschusses gewährt werden. Der Vorschuss wird auf Grundlage des für die anderen Treibstoffe geltenden Steuersatzes berechnet. Er ist zurückzuerstatten, wenn die Voraussetzung für die Steuererleichterung nicht mehr gegeben ist.
+
+<sup>4</sup> Der Bundesrat regelt das Verfahren.
+
+[^20a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2020 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 21
+
+**Steuerveranlagung**
+
+<sup>1</sup> Bei periodischer Steueranmeldung wird der Steuerbetrag aufgrund der definitiven Steueranmeldung erhoben.
+
+<sup>2</sup> In den anderen Fällen setzt die Steuerbehörde den Steuerbetrag fest.
+
+<sup>3</sup> Die Steueranmeldung ist für die Person, die sie ausgestellt hat, als Grundlage für die Festsetzung des Steuerbetrages verbindlich. Das Ergebnis einer amtlichen Prüfung bleibt vorbehalten.
+
+#### Art. 22
+
+**Fälligkeit der Steuer**
+
+<sup>1</sup> Die Steuer wird mit der Entstehung der Steuerforderung fällig.
+
+<sup>2</sup> Bei periodischer Steueranmeldung läuft die Zahlungsfrist bis zum 15. Tag des Monats, der auf den Fälligkeitstag folgt. Der Bundesrat setzt die übrigen Zahlungsfristen fest.
+
+<sup>3</sup> Bei verspäteter Zahlung wird ein Verzugszins geschuldet. Das Eidgenössische Finanzdepartement setzt den Zinssatz fest.
+
+#### Art. 23
+
+**Sicherstellung der Steuer**
+
+<sup>1</sup>
+
+Die Oberzolldirektion kann Sicherstellung verlangen:
+
+- a. wenn die steuerpflichtige Person mit der Zahlung der Steuer in Verzug ist; oder
+- b. wenn der Steueranspruch aus anderen Gründen als gefährdet erscheint.
+
+<sup>2</sup> Die Sicherstellungsverfügung ist sofort vollstreckbar. Sie gilt als Arrestbefehl im Sinne von Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889[^23-1]; die Einsprache gegen den Arrestbefehl ist ausgeschlossen.
+
+[^23-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 24
+
+**Nachforderung und Rückzahlung der Steuer**
+
+<sup>1</sup> Hat die Steuerbehörde trotz Steueranmeldung eine geschuldete Steuer irrtümlich nicht oder zu niedrig oder einen rückerstatteten Steuerbetrag zu hoch festgesetzt, so fordert sie den Betrag innerhalb eines Jahres nach Eröffnung der Verfügung nach.
+
+<sup>2</sup> Wird bei einer amtlichen Prüfung der Steuerveranlagung innerhalb eines Jahres festgestellt, dass eine Steuer zu Unrecht erhoben worden ist, so wird der zuviel bezahlte Steuerbetrag von Amtes wegen rückerstattet.
+
+#### Art. 25
+
+**Verjährung der Steuerforderung**
+
+<sup>1</sup> Die Steuerforderung verjährt zehn Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist.
+
+<sup>2</sup>
+
+Die Verjährung wird unterbrochen:
+
+- a. wenn die steuerpflichtige Person die Steuerforderung anerkennt;
+- b. durch jede Amtshandlung, mit der die Steuerforderung bei der steuerpflichtigen Person geltend gemacht wird.
+
+<sup>3</sup> Mit jeder Unterbrechung beginnt die Verjährungsfrist neu zu laufen.
+
+<sup>4</sup> Die Steuerforderung verfällt in jedem Fall 15 Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist.
+
+#### Art. 26
+
+**Erlass der Steuer**
+
+<sup>1</sup>
+
+Die Steuer kann der steuerpflichtigen Person ganz oder teilweise erlassen werden:
+
+- a. wenn die Ware durch Zufall oder durch höhere Gewalt untergegangen ist;
+- b. wenn in anderen Fällen aussergewöhnliche Gründe, die nicht die Bemessung der Abgaben betreffen, die Bezahlung als besondere Härte erscheinen lassen.
+
+<sup>2</sup> Die Steuerbehörde entscheidet über den Steuererlass.
+
+## 6. Abschnitt: Zugelassene Lager
+
+#### Art. 27
+
+**Herstellung, Gewinnung, Lagerung**
+
+Die Herstellung und Gewinnung von Waren, die diesem Gesetz unterliegen, sowie die Lagerung unversteuerter Waren müssen in einem zugelassenen Lager erfolgen.
+
+#### Art. 28
+
+**Bewilligung**
+
+<sup>1</sup>
+
+Als zugelassene Lager können bewilligt werden:
+
+- a. Erdölraffinerien;
+- b. andere Herstellungsbetriebe, in denen Waren, die diesem Gesetz unterliegen, gewonnen oder erzeugt werden;
+- c. Steuerfreilager.
+
+<sup>2</sup> Personen, die Waren nur zum eigenen Verbrauch lagern, erhalten keine Bewilligung.
+
+<sup>3</sup> Der Bundesrat legt die Voraussetzungen für die Einrichtung und den Betrieb von zugelassenen Lagern fest; die Steuerbehörde erteilt die Bewilligung.
+
+<sup>4</sup>
+
+Die Bewilligung wird entzogen:
+
+- a. wenn die Voraussetzungen für die Bewilligungserteilung nicht mehr gegeben sind; oder
+- b. wenn der zugelassene Lagerinhaber seinen Verpflichtungen nach diesem Gesetz nicht nachkommt.
+
+<sup>5</sup> Für Waren, die der Pflichtlagerhaltung unterliegen, kann der Bundesrat besondere Vorschriften erlassen.
+
+#### Art. 29
+
+**Aufsicht**
+
+Die zugelassenen Lager können der Aufsicht durch die Steuerbehörde unterstellt werden.
+
+#### Art. 30
+
+**Sicherheitsleistung**
+
+Die zugelassenen Lagerinhaber leisten für die Steuer und die anderen Abgaben eine angemessene Sicherheit. Für die Sicherheitsleistung werden weder Gebühren erhoben noch Zinsen bezahlt.
+
+#### Art. 31
+
+**Warenbuchhaltung und Meldepflicht**
+
+<sup>1</sup> Die zugelassenen Lagerinhaber sind verpflichtet, für jede Warenart Aufzeichnungen zu führen über Lagerbestände, Ein- und Ausgänge, Produktion, Eigenverbrauch und Verluste. Sie erstatten der Steuerbehörde darüber periodisch Meldung.
+
+<sup>2</sup> Sie können, unter ihrer Verantwortung, die Erfüllung von Verpflichtungen nach Absatz 1 einer Lagerfirma übertragen.
+
+#### Art. 32
+
+**Beförderung unversteuerter Waren**
+
+<sup>1</sup> Werden eingeführte, unversteuerte Waren von der Grenze in ein zugelassenes Lager befördert, so müssen die Importeure die sich aus diesem Gesetz ergebenden Pflichten erfüllen; sie leisten für die Steuer und die anderen Abgaben Sicherheit.
+
+<sup>2</sup> Werden unversteuerte Waren zwischen zugelassenen Lagern oder, bei auszuführenden Waren, von einem zugelassenen Lager zur Grenze befördert, so müssen die versendenden zugelassenen Lagerinhaber die sich aus diesem Gesetz ergebenden Pflichten erfüllen; sie leisten für die Steuer und die anderen Abgaben Sicherheit.
+
+<sup>3</sup>
+
+Die Sicherheitsleistung endet:
+
+- a. wenn die Ware im zugelassenen Lager eingetroffen und deren Eingang ordnungsgemäss verbucht worden ist; oder
+- b. wenn die Ausfuhr der Ware zollamtlich bestätigt worden ist.
+
+<sup>4</sup> Der zugelassene Lagerinhaber muss der Steuerbehörde jeden Versand von unversteuerten Waren melden.
+
+## 7. Abschnitt: Statistik
+
+#### Art. 33
+
+<sup>1</sup> Die Steuerbehörde führt eine Statistik über den Verkehr mit Waren, die diesem Gesetz unterliegen.
+
+<sup>2</sup> Die erfassten Daten werden für den Vollzug dieses Gesetzes und für die Erstellung von Statistiken verwendet. Der Bundesrat regelt die Einzelheiten.
+
+## 8. Abschnitt: Rechtsmittel
+
+#### Art. 34
+
+**Einsprache**
+
+<sup>1</sup> Gegen erstinstanzliche Verfügungen der Oberzolldirektion kann innerhalb von 30 Tagen Einsprache erhoben werden. Ausgenommen sind Verfügungen über die Sicherstellung.
+
+<sup>2</sup> Für das Einspracheverfahren gelten sinngemäss die Bestimmungen über das Verwaltungsbeschwerdeverfahren (Art. 51 ff. Verwaltungsverfahrensgesetz vom 20. Dez. 1968[^34-1]).
+
+[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 35
+
+**Beschwerde an die Zollkreisdirektionen und an die Oberzolldirektion**
+
+<sup>1</sup>
+
+Gegen Verfügungen der Zollstellen kann Beschwerde erhoben werden:
+
+- a. über die definitive Veranlagung bei der Einfuhr und der Ausfuhr: innerhalb von 60 Tagen bei der Zollkreisdirektion;
+- b. in anderen Fällen: innerhalb von 30 Tagen bei der Oberzolldirektion.[^35-1]
+
+<sup>2</sup> Gegen erstinstanzliche Verfügungen der Zollkreisdirektionen kann innerhalb von 30 Tagen bei der Oberzolldirektion Beschwerde erhoben werden.[^35-2]
+
+[^35-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^35-2]: Fassung gemäss Anhang Ziff. 55 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 36
+
+[^36-1]
+
+[^36-1]: Aufgehoben durch Anhang Ziff. 55 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 37
+
+**Beschwerde gegen Sicherstellungsverfügungen**
+
+<sup>1</sup> …[^37-1]
+
+<sup>2</sup> Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.
+
+[^37-1]: Aufgehoben durch Anhang Ziff. 55 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+## 9. Abschnitt: Strafbestimmungen****
+
+[^sec9-1]
+
+[^sec9-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+
+#### Art. 38
+
+**Gefährdung oder Hinterziehung der Steuer**
+
+<sup>1</sup> Wer die Steuer vorsätzlich oder fahrlässig gefährdet oder hinterzieht oder sich oder einer anderen Person sonst wie einen unrechtmässigen Steuervorteil verschafft oder zu verschaffen versucht, wird mit Busse bis zum Fünffachen der gefährdeten oder hinterzogenen Steuer oder des unrechtmässigen Vorteils bestraft. Vorbehalten bleiben die Artikel 14–16 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^38-1].
+
+<sup>2</sup>
+
+Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Gefängnis erkannt werden. Als erschwerende Umstände gelten:
+
+- a. die Anwerbung mehrerer Personen für eine Widerhandlung;
+- b. die gewerbs- oder gewohnheitsmässige Verübung von Widerhandlungen.
+
+<sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er durch die Steuerbehörde geschätzt.
+
+<sup>4</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch die Zollverwaltung zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+
+[^38-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 39
+
+**Steuerhehlerei**
+
+Wer Waren, von denen er oder sie weiss oder annehmen muss, dass die darauf geschuldete Steuer hinterzogen worden ist, erwirbt, sich schenken lässt, zu Pfand oder sonst wie in Gewahrsam nimmt, verheimlicht, absetzen hilft oder in Verkehr bringt, wird nach der Strafandrohung bestraft, die für die Täterschaft gilt.
+
+#### Art. 40
+
+**Verletzung der Aufzeichnungs- und Meldepflicht**
+
+Wer die in Artikel 31 vorgeschriebenen Aufzeichnungen vorsätzlich oder fahrlässig nicht oder nur mangelhaft führt oder die periodischen Meldungen an die Steuerbehörde ganz oder teilweise unterlässt, wird mit Busse bis zu 10 000 Franken bestraft.
+
+#### Art. 41
+
+**Ordnungswidrigkeiten**[^41-1]
+
+Wer vorsätzlich oder grobfahrlässig einer Vorschrift dieses Gesetzes oder eines Ausführungserlasses oder einer aufgrund solcher Vorschriften erlassenen Weisung oder einer unter Hinweis auf die Strafandrohung dieses Artikels an ihn oder sie gerichteten Einzelverfügung zuwiderhandelt, wird mit Busse bis zu 5000 Franken bestraft.
+
+[^41-1]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Juli 2008 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)).
+
+#### Art. 42
+
+**Verhältnis zum Verwaltungsstrafrechtsgesetz[^42-1]**
+
+<sup>1</sup> Widerhandlungen werden nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974 verfolgt und beurteilt.
+
+<sup>2</sup> Verfolgende und urteilende Behörde ist die Eidgenössische Zollverwaltung.
+
+[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 43
+
+[^43-1]
+
+[^43-1]: Aufgehoben durch Anhang Ziff. 9 des Zollgesetzes vom 18. März 2005, mit Wirkung seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+
+## 10. Abschnitt: Übergangsbestimmungen
+
+#### Art. 44
+
+**Zollfrei eingeführte Waren**
+
+Wer Waren, die vor Inkrafttreten dieses Gesetzes zollfrei eingeführt worden sind, nachträglich zu Zwecken abgibt oder verwendet, die der Steuer unterliegen, muss diese bezahlen.
+
+#### Art. 45
+
+**Zollbegünstigt eingeführte Waren**
+
+Wer Waren, die vor Inkrafttreten dieses Gesetzes aufgrund ihres Verwendungszweckes begünstigt verzollt worden sind, zu Zwecken abgibt oder verwendet, welche höheren Abgaben unterliegen, muss die Differenz zwischen den bezahlten Zollabgaben und der Steuer bezahlen.
+
+#### Art. 46
+
+**Waren innerhalb und ausserhalb von zugelassenen Lagern**
+
+<sup>1</sup> Wer Waren, die vor Inkrafttreten dieses Gesetzes unverzollt eingelagert worden sind, ausserhalb von zugelassenen Lagern lagert, muss die Steuer am Tag des Inkrafttretens dieses Gesetzes bezahlen.
+
+<sup>2</sup> Die nachweislich vor Inkrafttreten dieses Gesetzes bezahlten Zollabgaben für Waren, die am Tag des Inkrafttretens in einem zugelassenen Lager lagern, werden auf Antrag zurückbezahlt; der Antrag ist innerhalb von 30 Tagen ab Inkrafttreten dieses Gesetzes der Steuerbehörde einzureichen.
+
+#### Art. 47
+
+**Heizöl**
+
+<sup>1</sup> Wer Waren besitzt, die vor Inkrafttreten dieses Gesetzes als Heizöl zu Feuerungszwecken verzollt worden sind und die nicht vorschriftsgemäss gefärbt und gekennzeichnet sind, muss die Differenz zwischen den bezahlten Zollabgaben und der Steuer für Dieselöl am Tag des Inkrafttretens dieses Gesetzes bezahlen, ausgenommen für Heizöl mittel und Heizöl schwer.
+
+<sup>2</sup> Die nach Zollrecht nicht reverspflichtigen Verbraucher und Verbraucherinnen von Heizöl sind von den Verpflichtungen nach Absatz 1 befreit; für sie gelten die zollrechtlichen Bestimmungen weiter.
+
+<sup>3</sup> Die Steuerbehörde kann bei den nach Zollrecht reverspflichtigen Verbrauchern und Verbraucherinnen auf die Nacherhebung der Steuer verzichten, sofern sie Gewähr dafür leisten, dass sie die Ware selber zu Feuerungszwecken verwenden.
+
+#### Art. 48
+
+**Rückerstattungen**
+
+Rückerstattungsgesuche für zollbegünstigte Waren, die vor Inkrafttreten dieses Gesetzes verbraucht worden sind, werden nach den Bestimmungen dieses Gesetzes behandelt.
+
+## 11. Abschnitt: Referendum und Inkrafttreten
+
+#### Art. 49
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: 1. Januar 1997[^49-1]
+
+[^49-1]: BRB vom 20. Nov. 1996
+
+Anhang 1*[^t-1]*
+
+(Art. 12 Abs. 1)
+
+## Mineralölsteuertarif
+
+[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 3. Juli 2001 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), Anhang 4 Ziff. I der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Anhang 3 Ziff. 2 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft seit 1. Juli 2019 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+<table>
+<tr><td>Zolltarifnummer[^annex1-lvlu1-1]</td><td>Warenbezeichnung</td><td>Steuersatz Fr.</td></tr>
+<tr><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td>2707.</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nichtaromatischen Bestandteilen überwiegen:</td><td></td></tr>
+<tr><td></td><td>– Benzol:</td><td></td></tr>
+<tr><td>1010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>1090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+<tr><td></td><td>– Toluol:</td><td></td></tr>
+<tr><td>2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>2090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+<tr><td></td><td>– Xylol:</td><td></td></tr>
+<tr><td>3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>3090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+<tr><td></td><td>– Naphthalin:</td><td></td></tr>
+<tr><td>4010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>4090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+<tr><td></td><td>– andere aromatische Kohlenwasserstoffmischungen, bei deren Destillation, nach der Methode ISO 3405 (gleichwertig mit der Methode ASTM D 86), 65 % Vol oder mehr (einschliesslich Verluste) bis 250 C übergehen:</td><td></td></tr>
+<tr><td>5010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>5090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+<tr><td></td><td>– andere:</td><td></td></tr>
+<tr><td></td><td>[tab] – – Kreosotöle:</td><td></td></tr>
+<tr><td>9110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>9190</td><td>[tab] – – – andere</td><td>8.80</td></tr>
+<tr><td></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td>9910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>9990</td><td>[tab] – – – andere</td><td>8.80</td></tr>
+<tr><td>2709.</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh:</td><td></td></tr>
+<tr><td>0010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
+<tr><td>0090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">Zolltarifnummer</th><th>Warenbezeichnung</th><th>Steuersatz Fr.</th></tr>
+<tr><td colspan="2">2710.</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, andere als solche die Biodiesel enthalten und andere als Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Leichtöle und Zubereitungen:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
+<tr><td colspan="2">1211</td><td>[tab] – – – – Benzin und seine Fraktionen</td><td>431.20</td></tr>
+<tr><td colspan="2">1212</td><td>[tab] – – – – White Spirit</td><td>452.10</td></tr>
+<tr><td colspan="2">1219</td><td>[tab] – – – – andere</td><td>458.70</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – zu andern Zwecken:</td><td></td></tr>
+<tr><td colspan="2">1291</td><td>[tab] – – – – Benzin und seine Fraktionen</td><td>8.80</td></tr>
+<tr><td colspan="2">1292</td><td>[tab] – – – – White Spirit</td><td>9.20</td></tr>
+<tr><td colspan="2">1299</td><td>[tab] – – – – andere</td><td>9.90</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
+<tr><td colspan="2">1911</td><td>[tab] – – – – Petroleum</td><td>439.50</td></tr>
+<tr><td colspan="2">1912</td><td>[tab] – – – – Dieselöl</td><td>458.70</td></tr>
+<tr><td colspan="2">1919</td><td>[tab] – – – – andere</td><td>458.70</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – zu andern Zwecken:</td><td></td></tr>
+<tr><td colspan="2">1991</td><td>[tab] – – – – Petroleum</td><td>9.50</td></tr>
+<tr><td colspan="2">1992</td><td>[tab] – – – – Heizöle zu Feuerungszwecken:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – – – extraleicht</td><td>3.00</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – – – mittel und schwer</td><td>3.60</td></tr>
+<tr><td colspan="2">1993</td><td>[tab] – – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, unvermischt</td><td>11.90</td></tr>
+<tr><td colspan="2">1994</td><td>[tab] – – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, vermischt</td><td>30.20</td></tr>
+<tr><td colspan="2">1995</td><td>[tab] – – – – Mineralschmierfett</td><td>30.20</td></tr>
+<tr><td colspan="2">1999</td><td>[tab] – – – – andere Destillate und Produkte</td><td>11.90</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2"></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>458.70</td></tr>
+<tr><td colspan="2">2090</td><td>[tab] – – zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td>– Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2">9100</td><td>[tab] – – Polychlordiphenyle (PCB), Polychlorterphenyle (PCT) oder Polybromdiphenyle (PBB) enthaltend</td><td>11.90</td></tr>
+<tr><td colspan="2">9900</td><td>[tab] – – andere</td><td>11.90</td></tr>
+<tr><td colspan="2">2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– verflüssigt:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Erdgas:</td><td></td></tr>
+<tr><td colspan="2">1110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">1190</td><td>[tab] – – – anderes</td><td>2.10</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Propan:</td><td></td></tr>
+<tr><td colspan="2">1210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2">1290</td><td>[tab] – – – anderes</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Butane:</td><td></td></tr>
+<tr><td colspan="2">1310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2">1390</td><td>[tab] – – – andere</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Ethylen, Propylen, Butylen und Butadien:</td><td></td></tr>
+<tr><td colspan="2">1410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2">1490</td><td>[tab] – – – andere</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2">je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td>– – – – aus Biomasse oder anderen erneuerbaren Energieträgern</td><td colspan="2">409.90</td></tr>
+<tr><td colspan="2"></td><td>[tab]</td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – – andere</td><td colspan="2">209.10</td></tr>
+<tr><td colspan="2">1990</td><td>[tab] – – – andere</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td>– in gasförmigem Zustand:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Erdgas:</td><td></td></tr>
+<tr><td colspan="2">2110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">2190</td><td>[tab] – – – anderes</td><td>2.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">2910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">2990</td><td>[tab] – – – andere</td><td>2.10</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2">2901.</td><td>Kohlenwasserstoffe, acyclische:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– gesättigt:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – gasförmige, auch verflüssigt:</td><td></td></tr>
+<tr><td colspan="2">1011</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere als gasförmige:</td><td></td></tr>
+<tr><td colspan="2">1091</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– ungesättigt:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Ethylen:</td><td></td></tr>
+<tr><td colspan="2">2110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Propen (Propylen):</td><td></td></tr>
+<tr><td colspan="2">2210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Buten (Butylen) und seine Isomere:</td><td></td></tr>
+<tr><td colspan="2">2310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – 1,3-Butadien und Isopren:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – 1,3-Butadien:</td><td></td></tr>
+<tr><td colspan="2">2411</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – Isopren:</td><td></td></tr>
+<tr><td colspan="2">2421</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – gasförmig, auch verflüssigt:</td><td></td></tr>
+<tr><td colspan="2">2911</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – – andere als gasförmige:</td><td></td></tr>
+<tr><td colspan="2">2991</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2">2902.</td><td>Kohlenwasserstoffe, cyclische:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– alicyclische:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Cyclohexan:</td><td></td></tr>
+<tr><td colspan="2">1110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– Benzol:</td><td></td></tr>
+<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– Toluol:</td><td></td></tr>
+<tr><td colspan="2">3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– Xylole:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – o-Xylol:</td><td></td></tr>
+<tr><td colspan="2">4110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – m-Xylol:</td><td></td></tr>
+<tr><td colspan="2">4210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – p-Xylol:</td><td></td></tr>
+<tr><td colspan="2">4310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Xylol-Isomerengemische:</td><td></td></tr>
+<tr><td colspan="2">4410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– Ethylbenzol:</td><td></td></tr>
+<tr><td colspan="2">6010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– Cumol:</td><td></td></tr>
+<tr><td colspan="2">7010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– andere:</td><td></td></tr>
+<tr><td colspan="2">9010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2">2905.</td><td>Acyclische Alkohole und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– gesättigte einwertige Alkohole:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Methanol (Methylalkohol):</td><td></td></tr>
+<tr><td colspan="2">1110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Propan-1-ol (Propylalkohol) und Propan-2-ol (Isopropylalkohol):</td><td></td></tr>
+<tr><td colspan="2">1210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere Butanole:</td><td></td></tr>
+<tr><td colspan="2">1410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Octanol (Octylalkohol) und seine Isomere:</td><td></td></tr>
+<tr><td colspan="2">1610</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1920</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>– ungesättigte einwertige Alkohole:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – acyclische Terpenalkohole:</td><td></td></tr>
+<tr><td colspan="2">2210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">2910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2">2909.</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– acyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>– alicyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>– aromatische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>– Etheralkohole und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Monobutylether des Ethylenglycols oder des Diethylenglycols:</td><td></td></tr>
+<tr><td colspan="2">4310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere Monoalkylether des Ethylenglycols oder des Diethylenglycols:</td><td></td></tr>
+<tr><td colspan="2">4420</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">4910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>– Etherphenole, Etherphenolalkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">5010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td>– Alkoholperoxide, Etherperoxide, Ketonperoxide, und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">6010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2">3403.</td><td>Zubereitete Schmiermittel (einschliesslich Schneidöle, Zubereitungen zum Lösen von Schrauben, zubereitete Rostschutz- oder Korrosionsschutzmittel und Formentrennmittel, auf der Grundlage von Schmierstoffen) und Zubereitungen der als Schmälzmittel für Spinnstoffe, Mittel zum Ölen oder Fetten von Leder, Pelzen oder anderen Stoffen verwendeten Art, ausgenommen solche, die als wesentlichen Bestandteil 70 Gewichtsprozent oder mehr Erdöl oder Öl aus bituminösen Mineralien enthalten:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– Erdöl oder Öl aus bituminösen Mineralien enthaltend:</td><td></td></tr>
+<tr><td colspan="2">1900</td><td>[tab] – – andere als solche der Nr. 3403.1100</td><td>30.20</td></tr>
+<tr><td colspan="2"></td><td>– andere:</td><td></td></tr>
+<tr><td colspan="2">9900</td><td>[tab] – – andere als solche der Nr. 3403.9100</td><td>30.20</td></tr>
+<tr><td></td><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2">3811.</td><td>Antiklopfmittel, Antioxidantien, Antigums, Viskositätsverbesserer, Antikorrosivadditive und andere zubereitete Additive für Mineralöle (einschliesslich Treibstoffe) oder für andere zu gleichen Zwecken wie Mineralöle verwendete Flüssigkeiten:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– andere (als Antiklopfmittel und Additive für Schmieröle):</td><td></td></tr>
+<tr><td colspan="2">9010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3814.</td><td>Zusammengesetzte organische Lösungs- und Verdünnungsmittel, anderweit weder genannt noch inbegriffen; Zubereitungen zum Entfernen von Farben oder Lacken:</td><td></td></tr>
+<tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3817.</td><td>Alkylbenzol-Gemische und Alkylnaphtalin-Gemische, ausgenommen solche der Nrn. 2707 oder 2902:</td><td></td></tr>
+<tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3824.</td><td>Zubereitete Bindemittel für Giessereiformen oder -kerne; chemische Erzeugnisse und Zubereitungen der chemischen Industrie oder verwandter Industrien (einschliesslich Mischungen von Naturprodukten), anderweit weder genannt noch inbegriffen:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– andere:</td><td></td></tr>
+<tr><td colspan="2"></td><td>– – andere:</td><td></td></tr>
+<tr><td colspan="2">9920</td><td>– – – Erzeugnisse zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td></td></tr>
+<tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>458.70</td></tr>
+<tr><td colspan="2">0090</td><td>– zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
+<tr><td colspan="2">…</td><td>Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
+</table>
+
+[^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+
+Anhang 1a*[^t-2]*
+
+(Art. 12*a* Abs. 2)
+
+## Steuertarif für Erd- und Flüssiggas als Treibstoff
+
+[^t-2]: Eingefügt durch Ziff. II des BG vom 23. März 2007 ([AS 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [BBl 2006 4259](https://fedlex.data.admin.ch/eli/fga/2006/527)). Fassung gemäss Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen, in Kraft vom 1. Juli 2019 bis zum 31. Dez. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+<table>
+<tr><td>Zolltarifnummer[^annex1a-lvlu1-1]</td><td>Warenbezeichnung</td><td>Steuerbelastung[^annex1a-lvlu1-2] (Art. 12)</td><td>Steuererleichterung (Art. 12*a*)</td><td>Steuerbelastung (Art. 12*a*)</td><td>Mineralölsteuer</td><td>Mineralölsteuerzuschlag</td></tr>
+<tr><td></td><td></td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td></tr>
+<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td></tr>
+<tr><td>2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– verflüssigt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– – Erdgas unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
+<tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– – Propan unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1210</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
+<tr><td></td><td>– – Butane unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1310</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
+<tr><td></td><td>– – Ethylen, Propylen, Butylen und Butadien unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1410</td><td>– – – zur Verwendung als Treibstoff</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
+<tr><td></td><td>– – andere unvermischt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1910</td><td>– – – zur Verwendung als Treibstoff:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td></tr>
+<tr><td></td><td>– – – – aus Biomasse oder anderen erneuerbaren Energieträgern</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
+<tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– – – – andere</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td>126.70</td></tr>
+</table>
+
+<table>
+<tr><td>Zolltarifnummer</td><td>Warenbezeichnung</td><td>Steuerbelastung (Art. 12)</td><td>Steuererleichterung (Art. 12*a*)</td><td>Steuerbelastung (Art. 12*a*)</td><td>Mineralölsteuer</td><td>Mineralölsteuerzuschlag</td></tr>
+<tr><td></td><td></td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td><td>Fr.</td></tr>
+<tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td></tr>
+<tr><td></td><td>– in gasförmigem Zustand:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– – Erdgas:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
+<tr><td></td><td>– – andere:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2910</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
+</table>
+
+[^annex1a-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang; der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann unter www.ezv.admin.ch eingesehen werden. Die Änderungen werden zudem auch in den Zolltarif übernommen, siehe www.tares.ch.
+[^annex1a-lvlu1-2]: Mineralölsteuer und Mineralölsteuerzuschlag.
+
+Anhang 2
+
+## Änderung bisherigen Rechts
+
+…[^annex2-lvlu1-1]
+
+[^annex2-lvlu1-1]: Die Änderungen können unter [AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)konsultiert werden.

@@ -1,0 +1,2666 @@
+---
+sr: "171.10"
+title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parlement, LParl)"
+short: LParl
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
+language: fr
+version: 2020-12-11
+adopted: 2002-12-13
+in_force: 2003-12-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20201211/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20201211-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi sur l’Assemblée fédérale
+
+(Loi sur le Parlement, LParl)
+
+du 13 décembre 2002 (Etat le 11 décembre 2020)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 164, al. 1, let. g, de la Constitution[^ingress-1], vu le rapport de la Commission des institutions politiques du Conseil national du 1<sup>er</sup> mars 2001[^ingress-2], vu l’avis du Conseil fédéral du 22 août 2001[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)
+[^ingress-3]: [FF 2001 5181](https://fedlex.data.admin.ch/eli/fga/2001/853)
+
+## Titre 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+La présente loi régit:
+
+- a. les droits et obligations des membres de l’Assemblée fédérale;
+- b. les attributions et l’organisation de l’Assemblée fédérale;
+- c. la procédure applicable au sein de l’Assemblée fédérale;
+- d. les relations entre l’Assemblée fédérale et le Conseil fédéral;
+- e. les relations entre l’Assemblée fédérale et les tribunaux fédéraux.
+
+#### Art. 2
+
+**Réunion des conseils**
+
+<sup>1</sup> Le Conseil national et le Conseil des États se réunissent régulièrement en session ordinaire.
+
+<sup>2</sup> Chaque conseil peut décider de se réunir en session spéciale si les sessions ordinaires ne lui permettent pas de traiter tous les objets prêts à être traités.
+
+<sup>3</sup>
+
+Un quart des membres de l’un des conseils ou le Conseil fédéral peuvent demander la convocation des conseils ou de l’Assemblée fédérale (Chambres réunies) en session extraordinaire en vue de l’examen des objets suivants:
+
+- a. projets d’actes de l’Assemblée fédérale émanant du Conseil fédéral ou d’une commission parlementaire;
+- b. motions de teneur identique déposées aux deux conseils;
+- c. élections;
+- d. déclarations du Conseil fédéral ou projets de déclaration du Conseil national et du Conseil des États de teneur identique déposés aux deux conseils.[^2-1]
+
+<sup>4</sup> Les conseils se réunissent, en règle générale, au cours des mêmes semaines en session ordinaire ou en session extraordinaire.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-2]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 3
+
+**Serment et promesse solennelle**
+
+<sup>1</sup> Chaque membre de l’Assemblée fédérale prête serment ou fait la promesse solennelle avant d’entrer en fonction.
+
+<sup>2</sup> Les personnes élues par l’Assemblée fédérale (Chambres réunies) prêtent serment ou font la promesse solennelle devant l’Assemblée fédérale (Chambres réunies) immédiatement après leur élection, sauf disposition contraire de la loi.
+
+<sup>3</sup> Tout élu qui refuse de prêter serment ou de faire la promesse solennelle renonce à sa fonction.
+
+<sup>4</sup> La formule du serment est la suivante: «Je jure devant Dieu tout-puissant d’observer la Constitution et les lois et de remplir en conscience les devoirs de ma charge.»
+
+<sup>5</sup> La formule de la promesse solennelle est la suivante: «Je promets d’observer la Constitution et les lois et de remplir en conscience les devoirs de ma charge.»
+
+#### Art. 4
+
+**Publicité des débats**
+
+<sup>1</sup> Les séances des conseils et de l’Assemblée fédérale (Chambres réunies) sont publiques. Les débats sont publiés intégralement dans le Bulletin officiel de l’Assemblée fédérale. Les modalités de la publication sont fixées par une ordonnance de l’Assemblée fédérale.
+
+<sup>2</sup>
+
+Si des intérêts majeurs relatifs à la sécurité du pays sont en jeu ou pour garantir la protection de la personnalité, il peut être demandé que les délibérations aient lieu à huis clos. Peuvent faire une telle demande:
+
+- a. un sixième des membres d’un conseil ou de l’Assemblée fédérale (Chambres réunies);
+- b. la majorité d’une commission;
+- c. le Conseil fédéral.
+
+<sup>3</sup> Les délibérations portant sur cette demande ont elles-mêmes lieu à huis clos.
+
+<sup>4</sup> Quiconque participe à une délibération à huis clos est tenu de garder le secret sur les propos qui y ont été tenus.
+
+#### Art. 5
+
+**Information du public**
+
+<sup>1</sup> Les conseils et leurs organes informent le public de leurs travaux en temps utile et de manière détaillée, dans la mesure où aucun intérêt public ou privé prépondérant ne s’y oppose.
+
+<sup>2</sup> L’utilisation d’enregistrements audiovisuels des débats des conseils et l’accréditation des journalistes sont régies par des ordonnances de l’Assemblée fédérale ou par les règlements des conseils.
+
+## Titre 2 Membres de l’Assemblée fédérale
+
+### Chapitre 1 Droits et obligations
+
+#### Art. 6
+
+**Droits de procédure**
+
+<sup>1</sup> Tout membre de l’Assemblée fédérale (député) a le droit de déposer des initiatives parlementaires et des interventions et de proposer des candidats aux élections.
+
+<sup>2</sup> Il peut présenter des propositions concernant les objets pendants ou la procédure.
+
+<sup>3</sup> Les règlements des conseils peuvent restreindre le droit de demander la parole et le temps de parole.
+
+<sup>4</sup> Une initiative parlementaire, une motion ou un postulat qui est contesté peut faire l’objet d’un vote uniquement si son auteur a eu l’occasion de développer oralement ses arguments. La parole est en outre accordée au moins à quiconque a été le premier à proposer le rejet du texte en question.[^6-1]
+
+[^6-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 7
+
+**Droit à l’information**
+
+<sup>1</sup> Dans la mesure où l’exercice de son mandat parlementaire l’exige, tout député peut demander au Conseil fédéral et à l’administration fédérale de lui fournir des renseignements et de lui ouvrir leurs dossiers sur toute question intéressant la Confédération.
+
+<sup>2</sup>
+
+Un député peut se voir refuser des informations:
+
+- a.[^7-1] qui concernent les procédures de co-rapport et les séances du Conseil fédéral;
+- b.[^7-2] qui sont classées confidentielles ou secrètes pour des raisons relevant de la sécurité de l’État ou du renseignement, ou dont la prise de connaissance par des personnes non autorisées peut porter préjudice aux intérêts du pays;
+- c. qui doivent rester confidentielles pour des motifs de protection de la personnalité.
+
+<sup>3</sup> En cas de divergence entre un député et le Conseil fédéral quant à l’étendue du droit à l’information, le député peut saisir le collège présidentiel du conseil auquel il appartient. Le collège conduit la médiation entre le député et le Conseil fédéral.
+
+<sup>4</sup> Le collège présidentiel statue définitivement lorsqu’un député et le Conseil fédéral sont en désaccord sur la nécessité de disposer d’une information pour l’exercice du mandat parlementaire.
+
+<sup>5</sup> Lorsque le Conseil fédéral est en désaccord avec un député sur le droit de celui-ci à être informé (al. 2) et que la médiation du collège présidentiel reste infructueuse, il peut présenter un rapport plutôt que d’ouvrir ses dossiers.
+
+<sup>6</sup> Pour préparer sa médiation, le collège présidentiel peut consulter tous les dossiers du Conseil fédéral et de l’administration fédérale qui lui sont utiles.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^7-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+
+#### Art. 8
+
+**Secret de fonction**
+
+Les députés sont tenus d’observer le secret de fonction sur tous les faits dont ils ont eu connaissance dans le cadre de leur activité parlementaire et qui doivent être tenus secrets ou être traités de manière confidentielle pour préserver des intérêts publics ou privés prépondérants, en particulier pour garantir la protection de la personnalité ou pour ne pas interférer dans une procédure en cours.
+
+#### Art. 9
+
+**Indemnités et contributions aux coûts**
+
+La Confédération verse aux députés des indemnités journalières et des contributions destinées à couvrir les coûts qui résultent de leur activité parlementaire. Les modalités sont fixées dans la loi du 18 mars 1988 sur les moyens alloués aux parlementaires[^9-1].
+
+[^9-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+
+#### Art. 10
+
+**Obligation de participer aux séances**
+
+Les députés sont tenus de participer aux séances du conseil et des commissions dont ils sont membres.
+
+#### Art. 10a
+
+**Participation aux votes du Conseil national en cas d’absence due au COVID-19**[^10a-1]
+
+<sup>1</sup> Jusqu’à la fin de la session d’automne 2021, tout membre du Conseil national peut voter à distance s’il a dû se mettre en isolement ou en quarantaine conformément aux instructions d’une autorité en raison du COVID-19.
+
+<sup>2</sup> Tout membre du Conseil national souhaitant voter à distance en vertu de l’al. 1 en informe le secrétariat du conseil la veille de la séance.
+
+<sup>3</sup> Les suffrages communiqués par les membres du Conseil national conformément à l’al. 1 sont saisis dans le système électronique en même temps que le vote du conseil. Le vote n’est pas répété si un député n’a pas pu, pour des raisons techniques, communiquer son suffrage.
+
+[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session), en vigueur du 11 déc. 2020 au 1<sup>er</sup> oct. 2021 au plus tard ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+
+#### Art. 10b
+
+**Interruption ou report d’une session**[^10b-1]
+
+<sup>1</sup> Un conseil peut décider d’interrompre sa session.
+
+<sup>2</sup> La décision prise par un conseil de reporter la session des deux conseils doit être soumise à l’approbation de l’autre conseil.
+
+[^10b-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session), en vigueur du 11 déc. 2020 au 1<sup>er</sup> oct. 2021 au plus tard ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+
+#### Art. 11
+
+**Obligation de signaler les intérêts**
+
+<sup>1</sup>
+
+Lorsqu’il entre en fonction et au début de chaque année civile, tout député indique par écrit au bureau:
+
+- a.[^11-1] ses activités professionnelles; s’il est salarié, il précise sa fonction et son employeur;
+- b.[^11-2] les autres fonctions qu’il occupe au sein d’organes de direction, de surveillance, de conseil ou autres dans des sociétés, établissements ou fondations suisses ou étrangers, de droit privé ou de droit public;
+- c. les fonctions de conseil ou d’expert qu’il exerce pour le compte de services de la Confédération;
+- d. les fonctions permanentes de direction ou de conseil qu’il exerce pour le compte de groupes d’intérêts suisses ou étrangers;
+- e. les fonctions qu’il exerce au sein de commissions ou d’autres organes de la Confédération.
+
+<sup>1bis</sup> Si le député exerce l’une des activités visées à l’al. 1, let. b à e, il précise s’il le fait à titre bénévole ou si l’activité concernée est rémunérée. Les défraiements ne sont pas pris en compte.[^11-3]
+
+<sup>2</sup> Les Services du Parlement établissent un registre public des indications fournies par les députés.
+
+<sup>3</sup> Tout député dont les intérêts personnels sont directement concernés par un objet en délibération est tenu de le signaler lorsqu’il s’exprime sur cet objet au conseil ou en commission.
+
+<sup>4</sup> Le secret professionnel au sens du code pénal[^11-4] est réservé.
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-3]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 11a
+
+**Récusation**[^11a-1]
+
+<sup>1</sup> Lors de l’exercice de la haute surveillance au sens de l’art. 26, les membres de commissions ou de délégations se récusent lorsqu’ils ont un intérêt personnel direct dans un objet soumis à délibération ou que leur impartialité pourrait être mise en cause pour d’autres raisons. La défense d’intérêts politiques, notamment au nom de communautés, de partis ou d’associations, n’est pas un motif de récusation.
+
+<sup>2</sup> Dans les cas litigieux, la commission ou la délégation concernée statue définitivement sur la récusation après avoir entendu le député concerné.
+
+[^11a-1]: Introduit par le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+
+#### Art. 12
+
+**Indépendance à l’égard des États étrangers**
+
+Il est interdit aux membres des conseils d’exercer une fonction officielle pour un État étranger et d’accepter des titres et décorations octroyés par des autorités étrangères.
+
+#### Art. 13
+
+**Sanctions**
+
+<sup>1</sup>
+
+Si, malgré un premier rappel à l’ordre, un député persiste à enfreindre les prescriptions en matière d’ordre ou de procédure, le président de séance peut:
+
+- a. lui retirer la parole;
+- b. l’exclure de la salle pour tout ou partie du reste de la séance.
+
+<sup>2</sup>
+
+Si un député enfreint gravement les prescriptions en matière d’ordre ou de procédure, ou s’il viole le secret de fonction, le bureau du conseil concerné peut:
+
+- a. lui infliger un blâme;
+- b. l’exclure pour six mois au plus des commissions dont il est membre.
+
+<sup>3</sup> Si le député conteste le bien-fondé de la sanction, le conseil statue.
+
+### Chapitre 2 Règles d’incompatibilité
+
+#### Art. 14
+
+**Incompatibilités**
+
+Ne peuvent être membres de l’Assemblée fédérale:
+
+- a. les personnes qui ont été élues par l’Assemblée fédérale elle-même ou dont la nomination a été confirmée par elle;
+- b. les juges des tribunaux fédéraux qui n’ont pas été élus par l’Assemblée fédérale;
+- c.[^14-1] les membres du personnel de l’administration fédérale, y compris les unités administratives décentralisées, des Services du Parlement, des tribunaux fédéraux, du secrétariat de l’Autorité de surveillance du Ministère public de la Confédération et du Ministère public de la Confédération, de même que les membres des commissions extra-parlementaires avec compétences décisionnelles, pour autant que les lois spéciales n’en disposent pas autrement;
+- d. les membres du commandement de l’armée;
+- e. les membres des organes directeurs des organisations et des personnes de droit public ou de droit privé extérieures à l’administration qui sont investies de tâches administratives et dans lesquelles la Confédération occupe une position prépondérante;
+- f. les personnes qui représentent la Confédération dans les organisations ou les personnes de droit public ou de droit privé extérieures à l’administration qui sont investies de tâches administratives et dans lesquelles la Confédération occupe une position prépondérante.
+
+[^14-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+#### Art. 15
+
+**Procédure**
+
+<sup>1</sup> Toute personne appelée à choisir entre son mandat parlementaire et une fonction incompatible avec ce mandat en vertu de l’art. 14, let. a, déclare laquelle des deux charges elle entend exercer.
+
+<sup>2</sup> Toute personne appelée à choisir entre son mandat parlementaire et une fonction incompatible avec ce mandat en vertu de l’art. 14, let. b à f, est déchue automatiquement de son mandat dans les six mois qui suivent la date à laquelle l’incompatibilité a été établie si elle n’a pas renoncé entre-temps à la fonction concernée.
+
+### Chapitre 3 Immunité et garantie de participation aux sessions
+
+#### Art. 16
+
+**Immunité absolue**
+
+Aucun député ne peut être tenu pour juridiquement responsable des propos qu’il tient devant les conseils ou leurs organes.
+
+#### Art. 17
+
+**Immunité relative: portée et compétences**[^17-1]
+
+<sup>1</sup> Un député soupçonné d’avoir commis une infraction en rapport direct avec ses fonctions ou ses activités parlementaires ne peut être poursuivi qu’avec l’autorisation des commissions compétentes des deux conseils. La commission compétente de chacun des conseils est désignée par leur règlement respectif.
+
+<sup>2</sup> Si des circonstances particulières le justifient, les commissions compétentes peuvent charger les autorités pénales de la Confédération d’instruire et de juger les infractions qui relèvent de la juridiction cantonale.
+
+<sup>3</sup> L’Assemblée fédérale (Chambres réunies) peut élire un procureur général extraordinaire.
+
+<sup>3bis</sup> Les présidents des commissions compétentes peuvent, d’un commun accord, renvoyer une demande de levée d’immunité insuffisamment fondée à l’autorité de poursuite pénale afin que cette dernière la modifie.[^17-2]
+
+<sup>4</sup> Si une requête est manifestement infondée, les présidents des commissions compétentes peuvent, d’un commun accord, liquider l’affaire eux-mêmes. Ils en informent au préalable les commissions. Si la majorité d’une commission souhaite que la demande soit examinée, celle-ci est traitée selon la procédure ordinaire visée à l’art. 17*a*.[^17-3]
+
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-2]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 17a
+
+**Immunité relative: procédure**[^17a-1]
+
+<sup>1</sup> La demande de lever l’immunité d’un député est examinée d’abord par la commission compétente du conseil dont il est membre.
+
+<sup>2</sup> Si les décisions des deux commissions divergent en ce qui concerne l’entrée en matière sur la demande de lever l’immunité ou en ce qui concerne la levée de l’immunité elle-même, une procédure d’élimination des divergences est ouverte. Le second refus manifesté par l’une des commissions est réputé définitif.
+
+<sup>3</sup> Les commissions ne peuvent délibérer valablement que si la majorité de leurs membres est présente. Le quorum doit être constaté.
+
+<sup>4</sup> Les commissions procèdent à l’audition du député en cause. Celui-ci ne peut se faire représenter, ni se faire accompagner par un tiers.
+
+<sup>5</sup> La décision des commissions est définitive.
+
+<sup>6</sup> Dès qu’une commission a communiqué sa décision au député concerné, l’information est rendue publique. Les membres des deux conseils en sont informés simultanément par écrit.
+
+<sup>7</sup> Si le député en cause est membre d’une des commissions compétentes, il se récuse.
+
+[^17a-1]: Introduit par le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+
+#### Art. 18
+
+**Levée du secret des postes et des télécommunications et autres mesures d’enquête**
+
+<sup>1</sup>
+
+La levée du secret des postes et des télécommunications au sens de l’art. 321<sup>ter</sup> du code pénal[^18-1] est soumise à l’autorisation des collèges présidentiels des conseils lorsque cette mesure est destinée à permettre:
+
+- a. la poursuite d’une infraction commise par un député;
+- b. la surveillance d’un tiers avec lequel un député est en relation du fait de ses fonctions parlementaires.
+
+<sup>2</sup> L’al. 1 est applicable par analogie lorsque d’autres mesures d’enquête ou de poursuite sont nécessaires à l’égard d’un député pour pouvoir procéder à un premier examen des faits ou à la conservation des preuves.
+
+<sup>3</sup> Dès que les mesures autorisées par les collèges présidentiels ont été mises en œuvre, il y a lieu de requérir auprès des commissions compétentes des deux conseils l’autorisation d’engager des mesures pénales conformément à l’art. 17, à moins que la poursuite ne soit suspendue.[^18-2]
+
+<sup>4</sup> Aucune arrestation ne peut avoir lieu sans l’autorisation des commissions compétentes des deux conseils.[^18-3]
+
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+
+#### Art. 19
+
+**Procédure applicable à la délivrance de l’autorisation**
+
+<sup>1</sup> Les collèges présidentiels délibèrent ensemble et à huis-clos. L’autorisation prévue à l’art. 18 n’est accordée qu’avec l’assentiment de cinq membres au moins.
+
+<sup>2</sup> L’autorisation de lever le secret des postes et des télécommunications ne peut être accordée avant que l’autorité compétente ait ordonné la surveillance conformément à l’art. 7 de la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication[^19-1].
+
+[^19-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+
+#### Art. 20
+
+**Garantie de participation aux sessions**
+
+<sup>1</sup> Pendant les sessions, aucun député ne peut être poursuivi pour un crime ou un délit qui n’a pas directement trait à ses fonctions ou activités parlementaires, sans qu’il y ait consenti par écrit ou que la commission compétente du conseil dont il est membre en ait donné l’autorisation. La commission compétente de chacun des conseils est désignée dans leurs règlements respectifs.[^20-1]
+
+<sup>2</sup> L’arrestation préventive est réservée lorsqu’il y a présomption de fuite et, en cas de flagrant délit, lorsqu’il y a crime. L’autorité qui l’ordonne doit toutefois, dans les vingt-quatre heures, requérir directement l’autorisation de la commission compétente du conseil dont est membre le député en cause, à moins que celui-ci n’y ait consenti par écrit.[^20-2]
+
+<sup>3</sup> Si, à l’ouverture d’une session, un député est déjà poursuivi pour l’une des infractions visées aux al. 1 et 2, il peut demander à la commission compétente du conseil dont il est membre de le faire élargir ou d’annuler les citations à comparaître à des audiences. La requête n’a pas d’effet suspensif.[^20-3]
+
+<sup>4</sup> Le droit de participer aux sessions ne peut être invoqué lorsqu’il s’agit d’une peine privative de liberté, prononcée par un jugement passé en force et dont l’exécution a été ordonnée hors session.
+
+[^20-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+
+#### Art. 21
+
+**Désaccord sur la nécessité d’accorder l’autorisation**
+
+S’il y a désaccord sur la nécessité d’obtenir l’autorisation visée aux art. 17 à 20, l’organe compétent pour l’accorder statue.
+
+### Chapitre 4**** Responsabilité découlant d’un dommage
+
+[^tit2-chap4-1]
+
+[^tit2-chap4-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 21a
+
+<sup>1</sup> La responsabilité patrimoniale du député dans l’exercice de ses fonctions est régie par la loi du 14 mars 1958 sur la responsabilité[^21a-1].
+
+<sup>2</sup> Lorsque la responsabilité du député est engagée selon les art. 7 et 8 de la loi du 14 mars 1958 sur la responsabilité, la Délégation administrative tranche.
+
+<sup>3</sup> Le député peut contester la décision de la Délégation administrative auprès du Tribunal fédéral.
+
+[^21a-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+## Titre 3 Attributions de l’Assemblée fédérale
+
+#### Art. 22
+
+**Législation**
+
+<sup>1</sup> L’Assemblée fédérale édicte sous la forme d’une loi fédérale toutes les dispositions importantes qui fixent des règles de droit.
+
+<sup>2</sup> L’Assemblée fédérale peut édicter d’autres dispositions qui fixent des règles de droit sous la forme d’une loi ou, si la Constitution ou la loi l’y autorise, sous la forme d’une ordonnance de l’Assemblée fédérale.
+
+<sup>3</sup> Avant d’édicter des règles de droit, le Conseil fédéral consulte les commissions compétentes de l’Assemblée fédérale, lorsqu’elles en font la demande et pour autant qu’il n’y ait pas urgence.
+
+<sup>4</sup> Sont réputées fixant des règles de droit les dispositions générales et abstraites d’application directe qui créent des obligations, confèrent des droits ou attribuent des compétences.
+
+#### Art. 23
+
+**Modifications constitutionnelles**
+
+L’Assemblée fédérale soumet les modifications de la Constitution au vote du peuple et des cantons sous la forme d’un arrêté fédéral.
+
+#### Art. 24
+
+**Participation à la définition de la politique extérieure**
+
+<sup>1</sup> L’Assemblée fédérale suit l’évolution de la situation internationale et participe au processus de décision relatif aux questions importantes en matière de politique extérieure.
+
+<sup>2</sup> Elle approuve la conclusion, la modification ou la dénonciation des traités internationaux dans la mesure où le Conseil fédéral n’est pas autorisé à les conclure, modifier ou dénoncer seul en vertu des art. 7*a* et 7*b*<sup>bis</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^24-1].[^24-2]
+
+<sup>3</sup> Si la conclusion, la modification ou la dénonciation d’un traité international est soumise ou sujette à référendum, l’Assemblée fédérale en approuve la conclusion, la modification ou la dénonciation sous la forme d’un arrêté fédéral. Dans le cas contraire, elle en approuve la conclusion, la modification ou la dénonciation sous la forme d’un arrêté fédéral simple.[^24-3]
+
+<sup>4</sup> Elle participe aux travaux d’assemblées parlementaires internationales et entretient des relations suivies avec les parlements étrangers.
+
+[^24-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24-2]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-3]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+
+#### Art. 25
+
+**Finances**
+
+<sup>1</sup> L’Assemblée fédérale arrête les charges et les dépenses d’investissement au moyen du budget et de ses suppléments.[^25-1] Elle arrête de nouveaux crédits d’engagement et plafonds de dépenses autorisés antérieurement et non utilisés au moyen du budget et de ses suppléments, ou au moyen d’arrêtés distincts. Elle approuve le compte d’État.
+
+<sup>2</sup> Elle prend les décisions concernées sous la forme d’arrêtés fédéraux simples.
+
+<sup>3</sup> Elle fixe dans les décisions de crédit, le but et le montant du crédit. Elle peut en outre y définir les conditions-cadres de l’utilisation du crédit, le calendrier de la réalisation du projet et le compte-rendu du Conseil fédéral.[^25-2]
+
+[^25-1]: Nouvelle teneur selon l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^25-2]: Introduit par l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+
+#### Art. 26
+
+**Haute surveillance**
+
+<sup>1</sup> L’Assemblée fédérale exerce la haute surveillance sur la gestion du Conseil fédéral et de l’administration fédérale, des tribunaux fédéraux, de l’Autorité de surveillance du Ministère public de la Confédération, du Ministère public de la Confédération et d’autres organes ou personnes auxquels sont confiées des tâches de la Confédération.[^26-1]
+
+<sup>2</sup> Elle exerce la haute surveillance financière inscrite dans le cadre de l’art. 8 de la loi fédérale du 28 juin 1967 sur le Contrôle fédéral des finances[^26-2].
+
+<sup>3</sup>
+
+L’Assemblée fédérale exerce la haute surveillance dans le respect des critères suivants:
+
+- a. légalité;
+- b. régularité;
+- c. opportunité;
+- d. efficacité;
+- e. efficience économique.
+
+<sup>4</sup> La haute surveillance ne confère pas la compétence d’annuler ou de modifier une décision. Il ne peut être exercé aucun contrôle sur le fond des décisions judiciaires ni des décisions du Ministère public de la Confédération.[^26-3]
+
+[^26-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^26-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^26-3]: Nouvelle teneur de la phrase selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+#### Art. 27
+
+**Évaluation de l’efficacité**
+
+Les organes de l’Assemblée fédérale visés par la loi veillent à ce que l’efficacité des mesures prises par la Confédération fasse l’objet d’une évaluation. À cet effet, ils peuvent:
+
+- a. exiger du Conseil fédéral qu’il fasse effectuer des évaluations de l’efficacité;
+- b. examiner les évaluations de l’efficacité effectuées sur mandat du Conseil fédéral;
+- c. attribuer eux-mêmes des mandats d’évaluation de l’efficacité.
+
+#### Art. 28
+
+**Décisions de principe et planifications**
+
+<sup>1</sup>
+
+L’Assemblée fédérale participe:
+
+- a. aux planifications importantes des activités de l’État;
+- b. à la fixation des objectifs stratégiques des entités devenues autonomes au sens de l’art. 8, al. 5, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^28-1].[^28-2]
+
+<sup>1bis</sup>
+
+Dans ce cadre, l’Assemblée fédérale exerce les tâches suivantes:
+
+- a. elle s’informe des activités au sens de l’al. 1 en prenant connaissance des rapports que lui adresse le Conseil fédéral pour information ou en en prenant acte;
+- b.
+
+  elle charge le Conseil fédéral:
+
+  - 1\. d’établir une planification ou de modifier les priorités d’une planification,
+  - 2\. de fixer les objectifs stratégiques des entités devenues autonomes ou de les modifier;
+
+- c. elle prend des décisions de principe ou de planification.[^28-3]
+
+<sup>2</sup> Les arrêtés de principe et de planification sont des décisions préliminaires qui fixent les objectifs à atteindre, les principes ou critères à respecter ou les mesures à prévoir.
+
+<sup>3</sup> Les arrêtés de principe et de planification sont pris sous la forme d’un arrêté fédéral simple. S’ils sont de portée majeure, ils peuvent être pris sous la forme d’un arrêté fédéral.
+
+<sup>4</sup> Si le Conseil fédéral s’écarte d’un mandat ou d’un arrêté de principe et de planification, il doit en exposer les motifs.
+
+[^28-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^28-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-3]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+
+#### Art. 29
+
+**Actes particuliers**
+
+<sup>1</sup> L’Assemblée fédérale édicte sous la forme d’un arrêté fédéral simple les actes particuliers qui ne sont pas sujets au référendum.
+
+<sup>2</sup> Les actes particuliers de l’Assemblée fédérale pour lesquels ni la Constitution ni une loi fédérale ne fournissent la base légale nécessaire sont adoptés sous la forme d’un arrêté fédéral sujet au référendum.
+
+#### Art. 30
+
+**Autres attributions**
+
+L’Assemblée fédérale exerce les autres attributions qui lui sont dévolues par la Constitution et la législation fédérale.
+
+## Titre 4 Organisation de l’Assemblée fédérale
+
+### Chapitre 1 Généralités
+
+#### Art. 31
+
+**Organes**
+
+Les organes de l’Assemblée fédérale sont:
+
+- a. le Conseil national;
+- b. le Conseil des États;
+- c. l’Assemblée fédérale (Chambres réunies);
+- d. les collèges présidentiels;
+- e. les bureaux des conseils;
+- f. la Conférence de coordination et la Délégation administrative;
+- g. les commissions, les sous-commissions et les délégations;
+- h. les groupes parlementaires.
+
+#### Art. 32
+
+**Siège de l’Assemblée fédérale**
+
+<sup>1</sup> L’Assemblée fédérale siège à Berne.
+
+<sup>2</sup> Exceptionnellement, elle peut décider par voie d’arrêté fédéral simple de siéger ailleurs qu’à Berne.
+
+#### Art. 33
+
+**Convocation**
+
+<sup>1</sup> Le Conseil national et le Conseil des États sont convoqués par leurs bureaux respectifs.
+
+<sup>2</sup> L’Assemblée fédérale (Chambres réunies) est convoquée par la Conférence de coordination.
+
+<sup>3</sup> Le président du Conseil national ou, s’il est empêché, le président du Conseil des États, est tenu de réunir les conseils lorsque la sécurité des autorités fédérales est compromise ou que le Conseil fédéral n’est plus en mesure d’exercer son autorité.
+
+### Chapitre 2 Conseil national et Conseil des États
+
+#### Art. 34
+
+**Collèges présidentiels**
+
+Le collège présidentiel de chaque conseil se compose du président, du premier vice-président et du second vice-président.
+
+#### Art. 35
+
+**Bureaux des conseils**
+
+<sup>1</sup> Chaque conseil institue un bureau chargé de sa direction et des autres affaires qui le concernent.
+
+<sup>2</sup> Le bureau de chaque conseil se compose des membres du collège présidentiel et d’autres députés désignés par les règlements des conseils.
+
+<sup>3</sup> Les droits et obligations des bureaux sont identiques à ceux qui sont dévolus aux commissions par la présente loi.
+
+#### Art. 36
+
+**Règlements des conseils**
+
+Chaque conseil se donne un règlement qui précise son organisation et les règles de procédure.
+
+#### Art. 37
+
+**Conférence de coordination**
+
+<sup>1</sup> La Conférence de coordination se compose du Bureau du Conseil national et du Bureau du Conseil des États.
+
+<sup>2</sup>
+
+La Conférence de coordination exerce les attributions suivantes:
+
+- a.[^37-1] elle détermine les semaines au cours desquelles se déroulent les sessions ordinaires et les sessions extraordinaires;
+- b. elle veille aux rapports entre les conseils et aux rapports entre les conseils et le Conseil fédéral;
+- c. elle peut édicter des directives sur l’attribution de ressources humaines ou financières aux organes de l’Assemblée fédérale;
+- d.[^37-2] elle élit le secrétaire général de l’Assemblée fédérale; cette élection doit être confirmée par l’Assemblée fédérale (Chambres réunies);
+- e. elle approuve la création des nouveaux groupes parlementaires en veillant au respect des critères énoncés à l’art. 61.
+
+<sup>3</sup> Le Conseil fédéral peut participer aux délibérations, avec voix consultative.
+
+<sup>4</sup> Les décisions de la Conférence de coordination sont soumises à l’approbation des bureaux des deux conseils. L’élection prévue à l’al. 2, let. d, a lieu à la majorité absolue des votants.[^37-3]
+
+<sup>5</sup> ...[^37-4]
+
+[^37-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^37-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-3]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-4]: Abrogé par le ch. I de la LF du 15 juin 2018, avec effet au 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 38
+
+**Délégation administrative**
+
+<sup>1</sup> La Délégation administrative se compose de trois membres du bureau de chaque conseil désignés par la Conférence de coordination. La Délégation administrative désigne l’un de ses membres pour assumer les fonctions de délégué. Elle se constitue elle-même.
+
+<sup>2</sup> La Délégation administrative assume la direction suprême de l’administration du Parlement.
+
+<sup>3</sup> La Délégation administrative prend ses décisions à la majorité des votants.
+
+### Chapitre 3 Assemblée fédérale (Chambres réunies)
+
+#### Art. 39
+
+**Bureau de l’Assemblée fédérale (Chambres réunies)**
+
+<sup>1</sup> Le Bureau de l’Assemblée fédérale (Chambres réunies) se compose des collèges présidentiels des deux conseils.
+
+<sup>2</sup> Le bureau est présidé par le président du Conseil national ou, s’il est empêché, par le président du Conseil des États.
+
+<sup>3</sup> Le bureau prépare les séances de l’Assemblée fédérale (Chambres réunies).
+
+<sup>4</sup> Il peut instituer des commissions de l’Assemblée fédérale (Chambres réunies). Celles-ci se composent de douze membres du Conseil national et de cinq membres du Conseil des États.
+
+#### Art. 40
+
+**Commission des grâces et des conflits de compétences**
+
+<sup>1</sup> La Commission des grâces et des conflits de compétences procède à l’examen préalable des recours en grâce et des conflits de compétences opposant les autorités suprêmes de la Confédération.
+
+<sup>2</sup> Elle élit alternativement à sa présidence un membre du Conseil national et un membre du Conseil des États.
+
+<sup>3</sup> Elle transmet les recours en grâce au Conseil fédéral pour rapport et proposition.
+
+<sup>4</sup> Elle peut consulter les dossiers de l’instruction et du procès ainsi que le jugement.
+
+#### Art. 40a
+
+**Commission judiciaire**[^40a-1]
+
+<sup>1</sup>
+
+La Commission judiciaire est compétente pour préparer l’élection et la révocation des personnes suivantes:
+
+- a. les juges des tribunaux fédéraux;
+- b. les membres de l’autorité de surveillance du Ministère public de la Confédération;
+- c. le procureur général de la Confédération et les procureurs généraux suppléants de la Confédération.[^40a-2]
+
+<sup>2</sup> La Commission judiciaire met au concours public les postes vacants de juges, de procureur général de la Confédération et de procureurs généraux suppléants de la Confédération. Dans la mesure où la loi permet l’exercice à temps partiel de la fonction, la mise au concours indique le taux d’activité.[^40a-3]
+
+<sup>3</sup> La commission judiciaire soumet à l’Assemblée fédérale (Chambres réunies) ses propositions pour l’élection et la révocation des personnes visées à l’al. 1.[^40a-4]
+
+<sup>4</sup> Elle fixe le détail des rapports de travail des juges, du procureur général de la Confédération et des procureurs généraux suppléants.[^40a-5]
+
+<sup>5</sup> Chaque groupe a droit au moins à un siège au sein de la commission.
+
+<sup>6</sup> Si les Commissions de gestion ou la Délégation des finances font des constatations qui mettent sérieusement en cause l’aptitude professionnelle ou personnelle du procureur général de la Confédération, d’un procureur général suppléant ou d’un juge, elles les communiquent à la Commission judiciaire.[^40a-6]
+
+[^40a-1]: Introduit par le ch. II de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> août 2003 ([RO 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1128](https://fedlex.data.admin.ch/eli/fga/2002/147)).
+[^40a-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-4]: [RO 2010 6385](https://fedlex.data.admin.ch/eli/oc/2010/894)
+[^40a-5]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-6]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+#### Art. 41
+
+**Procédure**
+
+<sup>1</sup> Sauf disposition contraire de la présente loi, la procédure de l’Assemblée fédérale (Chambres réunies) est régie par le règlement du Conseil national, qui s’applique par analogie.
+
+<sup>2</sup> Les scrutateurs et les scrutateurs suppléants des deux conseils établissent les résultats des élections et des votes.
+
+<sup>3</sup> Si le règlement du Conseil national n’est pas applicable, l’Assemblée fédérale peut se donner un règlement propre.
+
+### Chapitre 4 Commissions
+
+### Section 1 Dispositions générales
+
+#### Art. 42
+
+**Commissions permanentes et commissions spéciales**
+
+<sup>1</sup> Chaque conseil constitue en son sein les commissions permanentes prévues par la loi et par son propre règlement.
+
+<sup>2</sup> Exceptionnellement, les conseils peuvent instituer des commissions spéciales.
+
+#### Art. 43
+
+**Constitution des commissions**
+
+<sup>1</sup> Le bureau de chaque conseil désigne les membres des commissions ainsi que les membres de leurs collèges présidentiels (président et vice-président).
+
+<sup>2</sup> Sauf disposition contraire de la loi, la Conférence de coordination désigne les présidents et les vice-présidents des commissions communes aux deux conseils et des commissions de l’Assemblée fédérale (Chambres réunies). Le président et le vice-président ne peuvent être membres du même conseil.
+
+<sup>2bis</sup> La Conférence de coordination veille à ce que le président de la Commission de gestion du Conseil national et le président de la Commission de gestion du Conseil des États fassent partie de groupes parlementaires différents.[^43-1]
+
+<sup>3</sup> La composition des commissions et l’attribution de la présidence et de la vice-présidence dépendent de la force numérique des groupes parlementaires au sein du conseil. Il est également tenu compte, autant que possible, des différentes langues officielles et régions du pays.
+
+<sup>4</sup> Les règlements des conseils précisent la durée du mandat des membres des commissions permanentes.
+
+[^43-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 44
+
+**Attributions**
+
+<sup>1</sup>
+
+Dans les limites des compétences qui leur sont conférées par la loi ou par les règlements des conseils, les commissions:
+
+- a. procèdent à l’examen préalable des objets qui leur ont été attribués;
+- b. examinent et tranchent les objets sur lesquels elles sont appelées à statuer définitivement en vertu de la loi;
+- c. suivent l’évolution sociale et politique dans leur domaine de compétences;
+- d. élaborent des propositions visant à résoudre des problèmes relevant de leur domaine de compétences;
+- e.[^44-1] veillent, dans leur domaine de compétences, à ce que des évaluations de l’efficacité soient effectuées; à cette fin, elles soumettent des propositions aux organes concernés de l’Assemblée fédérale ou donnent un mandat au Conseil fédéral;
+- f. tiennent compte des résultats des évaluations de l’efficacité.
+
+<sup>2</sup> Les commissions font rapport au conseil dont elles dépendent sur les objets qui leur ont été attribués et lui soumettent leurs propositions.
+
+[^44-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 45
+
+**Pouvoirs en général**
+
+<sup>1</sup>
+
+Pour exercer leurs attributions, les commissions peuvent:
+
+- a. déposer des initiatives et des interventions parlementaires, faire des propositions et présenter des rapports;
+- b. faire appel à des experts externes;
+- c. entendre les représentants des cantons et des milieux intéressés;
+- d. procéder à des visites.
+
+<sup>2</sup> Les commissions peuvent constituer en leur sein des sous-commissions. Celles-ci font rapport à la commission plénière et lui soumettent leurs propositions. Plusieurs commissions peuvent constituer une sous-commission commune.
+
+#### Art. 46
+
+**Procédure**
+
+<sup>1</sup> Sauf disposition contraire de la loi ou du règlement du conseil dont elles dépendent, les commissions sont soumises aux règles de procédure qui s’appliquent à leur conseil.
+
+<sup>2</sup> Sauf disposition contraire de la loi, les décisions des commissions communes aux deux conseils sont adoptées à la majorité des votants de l’un et l’autre conseil.
+
+<sup>3</sup> En règle générale, les personnes au service de la Confédération soumettent à la commission concernée les documents écrits et les présentations visuelles en deux langues officielles. Dans l’invitation à la séance, il est précisé aux experts externes ainsi qu’aux représentants des cantons et des milieux intéressés qu’ils doivent tenir compte, dans la mesure du possible, du plurilinguisme au sein de la commission.[^46-1]
+
+[^46-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 47
+
+**Confidentialité**
+
+<sup>1</sup> Les délibérations des commissions sont confidentielles; en particulier, il est interdit de divulguer les positions défendues par les différentes personnes ayant participé aux séances, ainsi que la manière dont elles ont voté.
+
+<sup>2</sup> Les commissions peuvent décider de procéder à des auditions publiques.
+
+#### Art. 47a
+
+**Classification des procès-verbaux et autres documents**[^47a-1]
+
+<sup>1</sup> Les procès-verbaux et les autres documents des commissions doivent être classifiés; font exception les documents qui étaient déjà accessibles au public au moment où ils ont été envoyés à la commission.
+
+<sup>2</sup> Les commissions peuvent déclassifier leurs documents et les rendre accessibles au public, à l’exception des procès-verbaux de leurs séances. Les modalités de l’accès aux documents sont fixées par une ordonnance de l’Assemblée fédérale.
+
+[^47a-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 48
+
+**Information du public**
+
+Les commissions informent le public des résultats de leurs délibérations.
+
+#### Art. 49
+
+**Coordination des travaux des commissions**
+
+<sup>1</sup> Les commissions de chaque conseil coordonnent leurs travaux; chaque commission coordonne également ses travaux avec ceux des commissions de l’autre conseil qui traitent les mêmes thèmes ou des questions analogues.
+
+<sup>2</sup> Les commissions peuvent se réunir en séances communes pour obtenir des informations ou examiner une question particulière, ou confier ces missions à une commission en particulier.
+
+<sup>3</sup> Les Commissions de gestion et les Commissions des finances peuvent procéder ensemble à l’examen préalable du rapport de gestion et des comptes.
+
+<sup>4</sup> Si un objet concerne plusieurs domaines de compétences, les autres commissions peuvent adresser un rapport aux commissions chargées de procéder à son examen préalable.
+
+<sup>5</sup> ...[^49-1]
+
+[^49-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### Section 2 Commissions des finances
+
+#### Art. 50
+
+**Attributions des Commissions des finances**
+
+<sup>1</sup> Les Commissions des finances (CdF) s’occupent de la gestion financière de la Confédération; elles procèdent à l’examen préalable de la planification financière, du budget et de ses suppléments et du compte d’État. Sauf disposition contraire de la loi, elles exercent la haute surveillance sur l’ensemble des finances de la Confédération conformément à l’art. 26, al. 2.
+
+<sup>2</sup> Elles peuvent adresser à la commission chargée de l’examen préalable un rapport concernant les projets d’acte importants sur le plan de la politique financière. Les projets d’acte peuvent leur être soumis pour co-rapport ou examen préalable.[^50-1]
+
+<sup>3</sup> Les Commissions des finances sont invitées à présenter un co-rapport concernant les projets de crédits d’engagement et de plafonds de dépenses qui ne sont pas soumis à leur examen préalable. Elles disposent des mêmes droits que les commissions chargées de l’examen préalable s’agissant de la défense de leurs propositions devant les conseils.[^50-2]
+
+[^50-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^50-2]: Introduit par l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 51
+
+**Délégation des finances**
+
+<sup>1</sup> Les Commissions des finances nomment la Délégation des finances (DélFin), composée de trois membres de chaque commission, et désignent un suppléant permanent pour chacun de ses membres. La délégation se constitue elle-même.[^51-1]
+
+<sup>2</sup> La Délégation des finances examine et surveille l’ensemble des finances de la Confédération.
+
+<sup>3</sup> Les relations qui unissent la Délégation des finances au Contrôle fédéral des finances sont régies par les art. 14, 15 et 18 de la loi fédérale du 28 juin 1967 sur le Contrôle fédéral des finances[^51-2].
+
+<sup>4</sup> La Délégation des finances fait rapport aux Commissions des finances et leur soumet ses propositions.
+
+<sup>5</sup> Elle peut se saisir de tout autre objet et communiquer ses conclusions aux Commissions des finances ou aux commissions compétentes.
+
+<sup>6</sup> Elle prend ses décisions à la majorité des votants.
+
+[^51-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^51-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+
+### Section 3 Commissions de gestion
+
+#### Art. 52
+
+**Attributions des Commissions de gestion**
+
+<sup>1</sup> Les Commissions de gestion (CdG) exercent la haute surveillance sur la gestion conformément à l’art. 26, al. 1, 3 et 4.
+
+<sup>2</sup> Elles exercent leur activité de surveillance principalement sous l’angle de la légalité, de l’opportunité et de l’efficacité.
+
+#### Art. 53
+
+**Délégation des Commissions de gestion**
+
+<sup>1</sup> Les Commissions de gestion nomment une délégation des Commissions de gestion (DélCdG), composée de trois membres de chaque commission. La délégation se constitue elle-même.
+
+<sup>2</sup> La délégation surveille les activités relevant de la sécurité de l’État et du renseignement et examine l’action de l’État dans les domaines qui doivent rester secrets parce que la prise de connaissance d’informations par des personnes non autorisées pourrait porter un grave préjudice aux intérêts du pays.[^53-1]
+
+<sup>3</sup> Chacune des Commissions de gestion peut lui confier d’autres mandats spécifiques.
+
+<sup>3bis</sup> Le Conseil fédéral informe la délégation dans les 24 heures au plus lorsqu’il prend une décision visant à sauvegarder les intérêts du pays ou à préserver la sécurité extérieure ou intérieure.[^53-2]
+
+<sup>4</sup> La délégation fait rapport aux Commissions de gestion et leur soumet ses propositions.[^53-3]
+
+<sup>5</sup> Elle prend ses décisions à la majorité des votants.
+
+[^53-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^53-2]: Introduit par le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+
+### Section 4 Rapport au conseil****
+
+[^tit4-chap4-sec4-1]
+
+[^tit4-chap4-sec4-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 54
+
+[^54-1]
+
+[^54-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 55
+
+**...[^55-1]**
+
+Une fois par an, les Commissions des finances et les Commissions de gestion rendent compte au conseil dont elles dépendent des principaux résultats de leurs travaux.
+
+[^55-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### Section 5 Commission de rédaction
+
+#### Art. 56
+
+**Composition et organisation**
+
+<sup>1</sup> La Commission de rédaction (CdR) est une commission commune aux deux conseils.
+
+<sup>2</sup> Elle se compose de trois sous-commissions, à raison d’une par langue officielle.
+
+<sup>3</sup> Elle se constitue elle-même.
+
+<sup>4</sup> Elle prend ses décisions à la majorité des votants.
+
+#### Art. 57
+
+**Attributions et fonctionnement**
+
+<sup>1</sup> La Commission de rédaction vérifie les textes et en arrête la version définitive avant le vote final.
+
+<sup>1bis</sup> Elle effectue en outre les corrections de nature rédactionnelle dans les textes des actes qui ne font pas l’objet d’un vote final.[^57-1]
+
+<sup>2</sup> Elle veille à ce que les textes soient intelligibles et concis. Elle s’assure qu’ils sont conformes à la volonté de l’Assemblée fédérale et vérifie leur concordance dans les trois langues officielles.
+
+<sup>3</sup> La Commission de rédaction ne peut pas procéder à des modifications de fond. Lorsqu’elle constate des lacunes, des imprécisions ou des contradictions de fond, elle en informe les présidents des conseils.
+
+[^57-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 58
+
+**Erreurs constatées après le vote final**
+
+<sup>1</sup> S’il est constaté après le vote final qu’un acte contient des erreurs de forme ou qu’il n’est pas conforme aux résultats des délibérations parlementaires, la Commission de rédaction ordonne les corrections nécessaires avant qu’il soit publié dans le Recueil officiel des lois fédérales. Ces modifications sont signalées.
+
+<sup>2</sup> Après qu’un acte a été publié dans le Recueil officiel des lois fédérales, la Commission de rédaction peut ordonner la correction d’erreurs manifestes ou de simple forme. Ces modifications sont signalées.
+
+<sup>3</sup> Les membres de l’Assemblée fédérale sont informés des corrections importantes.
+
+#### Art. 59
+
+**Dispositions d’exécution**
+
+Une ordonnance de l’Assemblée fédérale précise la composition et les attributions de la commission, la procédure de vérification des textes avant le vote final, et la procédure selon laquelle elle ordonne les corrections après le vote final et après la publication.
+
+### Section 6 Délégations auprès d’assemblées internationales et délégations chargées d’entretenir des relations interétatiques
+
+#### Art. 60
+
+Une ordonnance de l’Assemblée fédérale précise les attributions des délégations qui représentent l’Assemblée fédérale auprès des assemblées parlementaires internationales ou dans les rapports bilatéraux avec les Parlements d’États tiers, ainsi que leur organisation et la procédure applicable.
+
+### Chapitre 5 Groupes parlementaires
+
+#### Art. 61
+
+**Constitution**
+
+<sup>1</sup> Un groupe parlementaire réunit les députés membres d’un même parti.
+
+<sup>2</sup> Les députés qui ne sont membres d’aucun parti et les députés membres de partis différents, mais partageant les mêmes orientations politiques, peuvent également se constituer en groupes.
+
+<sup>3</sup> Un groupe doit comprendre au moins cinq membres du même conseil.
+
+<sup>4</sup> Chaque groupe informe le secrétaire général de l’Assemblée fédérale de sa constitution et lui communique la liste de ses membres, la composition de son comité directeur et le nom de son secrétaire.
+
+#### Art. 62
+
+**Attributions**
+
+<sup>1</sup> Les groupes examinent les objets avant qu’ils soient soumis aux conseils.
+
+<sup>2</sup> Ils peuvent déposer des initiatives et des interventions parlementaires, présenter des propositions et proposer des candidats aux élections.
+
+<sup>3</sup> Les règlements des conseils peuvent leur conférer des attributions supplémentaires.
+
+<sup>4</sup> Les groupes peuvent se doter d’un secrétariat. Celui-ci reçoit les mêmes documents que les députés; il est soumis aux dispositions sur le secret de fonction prévues à l’art. 8.
+
+<sup>5</sup> Il est alloué aux groupes une contribution destinée à couvrir leurs frais de secrétariat. Les modalités sont fixées par la loi du 18 mars 1988 sur les moyens alloués aux parlementaires[^62-1].
+
+[^62-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+
+### Chapitre 6 Intergroupes parlementaires
+
+#### Art. 63
+
+<sup>1</sup> Les députés qui s’intéressent à un domaine précis peuvent former des intergroupes parlementaires. Ceux-ci sont ouverts à tous les députés.
+
+<sup>2</sup> Les intergroupes annoncent leur création et leur composition aux Services du Parlement. Ceux-ci gèrent un registre public des intergroupes parlementaires.
+
+<sup>3</sup> Les intergroupes ont droit, dans la mesure du possible, à des facilités d’ordre administratif et à des locaux pour leurs réunions.
+
+<sup>4</sup> Ils ne peuvent représenter l’Assemblée fédérale.
+
+### Chapitre 7 Administration du Parlement
+
+#### Art. 64
+
+**Tâches des Services du Parlement**
+
+<sup>1</sup> Les Services du Parlement assistent l’Assemblée fédérale dans l’exercice de ses attributions.
+
+<sup>2</sup>
+
+Ils sont chargés:
+
+- a. de planifier et d’organiser les sessions ainsi que les séances des commissions;
+- b. d’exécuter les travaux de secrétariat, les travaux de traduction et l’établissement des procès-verbaux des décisions et des délibérations des conseils, de l’Assemblée fédérale (Chambres réunies) et des commissions;
+- c. de tenir à jour une documentation et de fournir des services dans les domaines de la documentation et des technologies de l’information;
+- c<sup>bis</sup>.[^64-1] d’exploiter des systèmes d’information afin d’analyser des données pour l’accomplissement des tâches de l’Assemblée fédérale, de ses organes et des députés; ce traitement peut aussi porter sur des données sensibles; une ordonnance de l’Assemblée fédérale fixe les sources utilisées à cette fin et règle les droits d’accès ainsi que la communication de ces données;
+- d. de conseiller les députés, notamment les collèges présidentiels des conseils et des commissions, tant sur le fond qu’en ce qui concerne la procédure;
+- e. d’informer le public sur l’Assemblée fédérale et ses travaux;
+- f. d’assister l’Assemblée fédérale dans l’exercice de ses attributions en matière de relations internationales;
+- g. sous réserve des attributions des organes des conseils, d’assumer toutes les autres tâches relevant de l’administration du Parlement.
+
+[^64-1]: Introduite par le ch. I de la LF du 16 mars 2018 (Loi sur le parlement), en vigueur depuis le 26 nov. 2018 ([RO 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [FF 2017 6503](https://fedlex.data.admin.ch/eli/fga/2017/2000)6517).
+
+#### Art. 65
+
+**Direction des Services du Parlement**
+
+<sup>1</sup> Les Services du Parlement sont placés sous la surveillance de la Délégation administrative.
+
+<sup>2</sup> Ils sont dirigés par le secrétaire général de l’Assemblée fédérale.
+
+<sup>3</sup> Lorsque les services des Services du Parlement travaillent pour le compte d’un organe de l’Assemblée fédérale, ils suivent ses instructions.
+
+#### Art. 66
+
+**Engagement du personnel des Services du Parlement**
+
+Une ordonnance de l’Assemblée fédérale habilite les organes de l’Assemblée fédérale et le secrétaire général de l’Assemblée fédérale à engager le personnel des Services du Parlement.
+
+#### Art. 67
+
+**Droit à l’information**
+
+Lorsque les Services du Parlement travaillent pour le compte d’un organe de l’Assemblée fédérale, ils sont investis du même droit à l’information que cet organe.
+
+#### Art. 68
+
+**Recours aux services de l’administration fédérale**
+
+<sup>1</sup> Les organes de l’Assemblée fédérale et, sur mandat de ces derniers, les Services du Parlement, peuvent faire appel aux services de l’administration fédérale dans la mesure où l’exercice de leurs attributions l’exige.
+
+<sup>2</sup> Ils font appel à ces services d’entente avec le département compétent ou avec la Chancellerie fédérale.
+
+<sup>3</sup> En cas de désaccord, la Délégation administrative statue après avoir entendu le Conseil fédéral.
+
+#### Art. 69
+
+**Droit de disposer des locaux et accès au Palais du Parlement**
+
+<sup>1</sup> Les présidents des conseils règlent l’utilisation des salles des conseils; la Délégation administrative gère les autres locaux de l’Assemblée fédérale et ceux des Services du Parlement.
+
+<sup>2</sup> Tout député peut faire établir une carte d’accès pour deux personnes qui désirent, pour une durée déterminée, accéder aux parties non publiques du Palais du Parlement. Le nom et les fonctions de ces personnes font l’objet d’une inscription dans un registre accessible au public.
+
+#### Art. 70
+
+**Dispositions d’exécution**
+
+<sup>1</sup> L’Assemblée fédérale édicte sous forme d’ordonnances de l’Assemblée fédérale les dispositions d’exécution fixant des règles de droit qui s’appliquent à l’administration du Parlement.
+
+<sup>2</sup> À moins qu’une ordonnance de l’Assemblée fédérale n’en dispose autrement, les dispositions d’exécution fixant des règles de droit qui, édictées par le Conseil fédéral ou les services qui lui sont subordonnés, s’appliquent à l’administration fédérale, s’appliquent également à l’administration du Parlement.
+
+<sup>3</sup> Les compétences que ces dispositions d’exécution confèrent au Conseil fédéral ou aux services qui lui sont subordonnés sont exercées par la Délégation administrative ou par le secrétaire général de l’Assemblée fédérale.
+
+## Titre 5 Fonctionnement de l’Assemblée fédérale
+
+### Chapitre 1 Dispositions générales
+
+#### Art. 71
+
+**Objets soumis à délibération**
+
+L’Assemblée fédérale délibère notamment:
+
+- a. des projets d’actes émanant des commissions ou du Conseil fédéral;
+- b. des initiatives et interventions parlementaires déposées par les députés, par les groupes ou par les commissions, ainsi que des initiatives d’un canton;
+- c. des rapports émanant des commissions ou du Conseil fédéral;
+- d. des candidatures proposées en vue d’une élection et des propositions relatives à la confirmation d’une nomination;
+- e. des propositions concernant la procédure qui sont déposées par les députés, par les groupes, par les commissions ou par le Conseil fédéral;
+- f. des déclarations des conseils ou du Conseil fédéral;
+- g. des pétitions et des requêtes;
+- h. des plaintes, des demandes et des réclamations.
+
+#### Art. 72
+
+**Dépôt des objets soumis à délibération**
+
+<sup>1</sup> Un objet émanant d’un député ou d’un organe des conseils est réputé pendant devant le conseil à compter du moment où il a été déposé au secrétariat de ce dernier.
+
+<sup>2</sup> Une initiative populaire ou une demande de garantie d’une constitution cantonale sont réputées pendantes devant les conseils à compter du moment où elles ont été déposées à la Chancellerie fédérale.
+
+<sup>3</sup> Les autres objets sont réputés pendants devant les conseils à compter du moment où ils ont été déposés à l’Assemblée fédérale.
+
+#### Art. 73
+
+**Retrait des objets soumis à délibération**
+
+<sup>1</sup> Après la première décision d’un conseil, un objet ne peut plus être retiré par son auteur.
+
+<sup>2</sup> Après qu’une commission chargée de leur examen préalable a décidé d’y donner suite, une initiative parlementaire ou une initiative d’un canton ne peuvent plus être retirées.
+
+<sup>3</sup> Une fois déposé, un objet émanant du Conseil fédéral ne peut plus être retiré.
+
+#### Art. 74
+
+**Procédure applicable aux projets d’actes**
+
+<sup>1</sup> Chaque conseil examine le projet d’acte et décide s’il entre en matière (débat d’entrée en matière).
+
+<sup>2</sup> S’il a décidé d’entrer en matière, le conseil examine le projet article par article (discussion par article).
+
+<sup>3</sup> L’entrée en matière est acquise de plein droit pour les initiatives populaires, les budgets, les rapports de gestion, les comptes, le programme de législature, le plan financier, la garantie des constitutions cantonales et les réclamations contre les conventions passées par des cantons entre eux ou avec l’étranger.[^74-1]
+
+<sup>4</sup> Un vote sur l’ensemble du texte (vote sur l’ensemble) a lieu dans chaque conseil au terme de la première discussion par article. Les projets pour lesquels l’entrée en matière est acquise de plein droit ne sont pas soumis à un vote sur l’ensemble, sauf les budgets et les comptes.
+
+<sup>5</sup> Le rejet du projet lors du vote sur l’ensemble équivaut à une non-entrée en matière. Le rejet d’un budget ou de comptes équivaut à un renvoi au Conseil fédéral[^74-2].
+
+<sup>6</sup> Un projet d’acte qui a fait l’objet d’une décision d’entrée en matière peut être classé sur proposition de la commission chargée de l’examen préalable ou du Conseil fédéral s’il est devenu sans objet.[^74-3]
+
+[^74-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^74-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^74-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 75
+
+**Renvoi d’un projet**
+
+<sup>1</sup> Le conseil peut renvoyer au Conseil fédéral ou à la commission chargée de l’examen préalable un projet d’acte sur lequel il a décidé d’entrer en matière, ou tout autre objet soumis à délibération, afin qu’il soit réexaminé ou modifié.
+
+<sup>2</sup> Parvenu à un stade ultérieur des délibérations, le conseil peut encore renvoyer certains chapitres ou dispositions.
+
+<sup>3</sup> Les propositions de renvoi indiquent les éléments à réexaminer, à modifier ou à compléter.
+
+#### Art. 76
+
+**Propositions**
+
+<sup>1</sup> Tout député peut déposer au conseil et devant la commission chargée de l’examen préalable des propositions relatives aux objets pendants. Il peut proposer à la commission compétente de déposer une initiative ou une intervention parlementaires de la commission.
+
+<sup>1bis</sup>
+
+Un projet d’acte peut être déposé sous forme de proposition uniquement si:
+
+- a. un projet d’acte en suspens est scindé en plusieurs projets;
+- b. un contre-projet portant sur la même matière constitutionnelle est opposé à une initiative populaire (art. 101).[^76-1]
+
+<sup>2</sup> En règle générale, les propositions qui concernent la procédure (motions d’ordre) sont examinées sur-le-champ.
+
+<sup>3</sup> Tant que le conseil n’a pas achevé l’examen d’un objet soumis à délibération, tout député peut déposer une motion d’ordre demandant le réexamen d’une décision déjà prise.[^76-2]
+
+<sup>3bis</sup> Une motion d’ordre demandant la remise en cause d’une décision d’entrée en matière est irrecevable.[^76-3]
+
+<sup>3ter</sup> Une motion d’ordre demandant la répétition d’un vote par lequel un conseil a achevé l’examen d’un objet soumis à délibération ne peut être déposée qu’immédiatement après le vote.[^76-4]
+
+<sup>4</sup> Une proposition rejetée par la majorité d’une commission peut néanmoins être déposée par une minorité (proposition de minorité).
+
+[^76-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^76-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-3]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-4]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 77
+
+**Clause d’urgence**
+
+<sup>1</sup> Lorsque les délibérations portent sur un projet de loi qu’il est proposé de déclarer urgente, la clause d’urgence est exceptée du vote sur l’ensemble.
+
+<sup>2</sup> Le vote sur la clause d’urgence n’a lieu qu’une fois les divergences éliminées.
+
+<sup>3</sup> Si la clause d’urgence est rejetée, la Commission de rédaction modifie, après avoir consulté les présidents des commissions chargées de l’examen préalable, la formulation des dispositions relatives au référendum et à l’entrée en vigueur.[^77-1]
+
+[^77-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 78
+
+**Procédure de vote**
+
+<sup>1</sup> Lorsqu’une question peut être divisée en plusieurs parties, un vote a lieu sur chacune d’elles s’il en est fait la demande.
+
+<sup>2</sup> S’il est déposé sur une même question deux propositions qui se rapportent à la même partie du texte ou qui s’excluent l’une l’autre, elles sont opposées l’une à l’autre.
+
+<sup>3</sup> S’il n’est pas possible de les opposer l’une à l’autre, elles sont mises aux voix séparément.
+
+<sup>4</sup> Les propositions auxquelles personne ne s’oppose sont réputées adoptées.
+
+<sup>5</sup>
+
+Les voix sont toujours comptées lorsqu’il s’agit:
+
+- a. d’un vote sur l’ensemble;
+- b. d’un vote sur une proposition de conciliation;
+- c. d’un vote sur une disposition dont l’adoption requiert l’approbation de la majorité des membres de chaque conseil (art. 159, al. 3, de la Constitution);
+- d. d’un vote final.[^78-1]
+
+[^78-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 79
+
+**Élimination progressive des propositions**
+
+<sup>1</sup> S’il est déposé sur une même question plus de deux propositions, elles sont mises aux voix successivement et deux par deux (vote préliminaire), jusqu’à ce qu’il n’en reste plus que deux à opposer.
+
+<sup>2</sup> La mise aux voix des propositions débute avec celles qui divergent le moins sur le fond pour s’achever avec celles qui divergent le plus.
+
+<sup>3</sup> S’il est impossible d’établir un ordre précis répondant à l’al. 2, sont opposées successivement les propositions des députés, puis les propositions de minorité de la commission, puis la proposition du Conseil fédéral. La proposition qui l’a emporté est opposée à la proposition de la majorité de la commission.
+
+<sup>4</sup> Le dépôt d’une proposition subsidiaire ne modifie pas l’ordre des votes.[^79-1]
+
+[^79-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 80
+
+**Vote des présidents des conseils**
+
+<sup>1</sup> Le président du conseil ne participe pas aux votes. Il départage en cas d’égalité des voix.
+
+<sup>2</sup> Si un texte ne peut être adopté qu’à la majorité des membres de chaque conseil, le président participe au vote.
+
+#### Art. 81
+
+**Vote final**
+
+<sup>1</sup>
+
+Un vote final a lieu sur:
+
+- a. toute loi fédérale;
+- b. toute ordonnance de l’Assemblée fédérale;
+- c. tout arrêté fédéral soumis au référendum obligatoire ou facultatif.[^81-1]
+
+<sup>1bis</sup> Le vote final a lieu dans les deux conseils dès lors que ceux-ci ont pris des décisions concordantes sur le projet d’acte et qu’ils ont approuvé le texte établi par la Commission de rédaction. Les deux conseils procèdent au vote final le même jour.[^81-2]
+
+<sup>2</sup> Si les deux conseils approuvent le projet, celui-ci est réputé avoir abouti valablement en tant qu’acte de l’Assemblée fédérale.
+
+<sup>3</sup> Si le projet est rejeté par un des conseils ou les deux, il est réputé avoir été refusé.
+
+[^81-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-2]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 82
+
+**Publication des listes nominatives des votes**
+
+Les règlements des conseils précisent dans quels cas le résultat des votes est publié sous forme de liste nominative.
+
+### Chapitre 2 Procédure régissant les relations entre les conseils
+
+### Section 1 Coordination des travaux des conseils
+
+#### Art. 83
+
+**Décisions concordantes des conseils**
+
+<sup>1</sup> Les décisions de l’Assemblée fédérale requièrent l’approbation des deux conseils.
+
+<sup>2</sup> Les pétitions et les rapports soumis aux conseils afin qu’ils en prennent acte ne requièrent pas de décision concordante.
+
+#### Art. 84
+
+**Priorité d’examen**
+
+<sup>1</sup> Lorsqu’un objet soumis à délibération doit être examiné par les deux conseils séparément, la priorité d’examen est attribuée à l’un des deux conseils (conseil prioritaire).
+
+<sup>2</sup> Les présidents des conseils se concertent en vue de cette attribution. En cas de désaccord, la question est tranchée par tirage au sort.
+
+#### Art. 85
+
+**Déroulement chronologique des délibérations des conseils**
+
+<sup>1</sup> En règle générale, les conseils ne procèdent pas tous les deux pendant la même session à l’examen en première lecture d’un projet de modification constitutionnelle ou de loi fédérale non urgente.
+
+<sup>2</sup> Sur proposition du Conseil fédéral ou d’une commission, la Conférence de coordination peut décider exceptionnellement que les deux conseils procèdent à l’examen en première lecture d’un même projet de modification constitutionnelle ou de loi fédérale non urgente pendant la même session.
+
+#### Art. 86
+
+**Transmission à l’autre conseil d’un objet soumis à délibération**
+
+<sup>1</sup> Lorsqu’un conseil a statué sur un objet qui doit être examiné par les deux conseils, celui-ci est transmis à l’autre conseil.
+
+<sup>2</sup> Un conseil ne peut reprendre ses délibérations sur un objet qu’une fois que l’autre conseil a statué.
+
+<sup>3</sup> Si plusieurs projets d’acte sont soumis à l’Assemblée accompagnés d’un même message ou rapport, le conseil prioritaire peut transmettre à l’autre conseil chaque projet séparément une fois qu’il a procédé au vote sur l’ensemble correspondant.
+
+<sup>4</sup> Tout arrêté fédéral concernant un contre-projet à une initiative populaire est transmis à l’autre conseil avec l’arrêté fédéral concernant l’initiative en question.[^86-1]
+
+[^86-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 87
+
+**Renvoi ou ajournement de l’examen d’un objet**
+
+<sup>1</sup> Lorsqu’un conseil renvoie un objet dans son entier au Conseil fédéral, il transmet sa décision à l’autre conseil.
+
+<sup>2</sup> Si l’autre conseil ne se rallie pas à cette décision de renvoi, celle-ci devient néanmoins effective si le premier conseil confirme sa décision initiale.
+
+<sup>3</sup> La même procédure s’applique lorsqu’un conseil décide d’ajourner l’examen d’un objet et que les travaux ne reprendront vraisemblablement pas avant un an.
+
+#### Art. 88
+
+**Partage d’un projet d’acte en plusieurs parties**
+
+<sup>1</sup> Exceptionnellement, et à condition que les deux conseils y consentent, un projet d’acte peut, s’il est d’une certaine ampleur, être partagé en plusieurs parties, et transmis partiellement à l’autre conseil avant le vote sur l’ensemble.
+
+<sup>2</sup> Tant que le vote sur l’ensemble n’a pas eu lieu, tout député peut proposer le réexamen de toute disposition de l’ensemble du projet.
+
+<sup>3</sup> Si l’un des conseils, contrairement à l’autre, refuse le partage du projet, et qu’il confirme sa décision, le projet n’est transmis à l’autre conseil qu’après le vote sur l’ensemble.
+
+### Section 2 Divergences entre les conseils
+
+#### Art. 89
+
+**Procédure applicable en cas de divergences**
+
+<sup>1</sup> Si des divergences subsistent entre les conseils à l’issue de l’examen d’un projet d’acte, les décisions divergentes de l’un des conseils sont transmises à l’autre pour délibération, jusqu’à ce qu’un accord s’établisse entre eux.
+
+<sup>2</sup> Une fois que les conseils ont tous deux procédé à l’examen du projet en première lecture, ils consacrent leurs délibérations ultérieures à l’examen des divergences exclusivement.
+
+<sup>3</sup> Un conseil peut toutefois revenir sur une autre question si des décisions prises entre-temps rendent ce réexamen nécessaire ou si les commissions des deux conseils chargées de l’examen préalable proposent conjointement un tel réexamen.
+
+#### Art. 90
+
+**Classement d’un projet d’acte**[^90-1]
+
+Si les commissions des deux conseils chargées de l’examen préalable en font conjointement la proposition, les conseils peuvent décider de classer un projet d’acte pendant la procédure d’élimination des divergences ou après clôture de celle-ci.
+
+[^90-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 91
+
+**Désignation d’une conférence de conciliation**
+
+<sup>1</sup> Si des divergences subsistent après que chaque conseil a procédé par trois fois à une discussion par article, une conférence de conciliation est réunie. Celle-ci est chargée de rechercher une solution de compromis.
+
+<sup>2</sup> La conférence de conciliation est composée de treize membres délégués par chacune des commissions chargées de l’examen préalable. Si la commission de l’un des conseils compte moins de treize membres, elle est complétée en conséquence. La composition de la délégation de chaque commission est régie par l’art. 43, al. 3.
+
+<sup>3</sup> La conférence est présidée par le président de la commission du conseil prioritaire. La suppléance du président et des membres de la conférence de conciliation est régie par les dispositions pertinentes des règlements des conseils.[^91-1]
+
+[^91-1]: Phrase introduite par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 92
+
+**Procédure de vote de la conférence de conciliation**
+
+<sup>1</sup> La conférence de conciliation délibère valablement lorsque la majorité des membres de chacune des délégations sont présents. Le quorum doit être constaté.
+
+<sup>2</sup> La conférence de conciliation prend ses décisions à la majorité des votants. Le président participe au vote. En cas d’égalité, sa voix est prépondérante.
+
+<sup>3</sup> La conférence de conciliation présente une proposition de conciliation qui élimine toutes les divergences restantes.
+
+#### Art. 93
+
+**Examen de la proposition de conciliation par les conseils**
+
+<sup>1</sup> La proposition de conciliation est soumise d’abord au conseil prioritaire, puis, si celui-ci s’est rallié à la proposition dans son entier, à l’autre conseil.
+
+<sup>2</sup> Si la proposition de conciliation est rejetée par l’un des conseils, le projet d’acte est classé.
+
+#### Art. 94
+
+**Divergences sur le budget ou sur ses suppléments**
+
+Si une proposition de conciliation portant sur l’arrêté fédéral relatif au budget de la Confédération ou à l’un de ses suppléments est rejetée, est réputée adoptée la décision prise en troisième lecture qui prévoit la dépense la moins élevée.
+
+#### Art. 94a
+
+**Divergences sur le programme de législature et le plan financier[^94a-2]**[^94a-1]
+
+<sup>1</sup> Si l’arrêté fédéral sur le programme de la législature fait l’objet de divergences entre les conseils après l’examen du projet en première lecture, une conférence de conciliation est réunie.
+
+<sup>2</sup> Si l’arrêté fédéral sur le programme de législature et l’arrêté fédéral sur le plan financier font l’objet de divergences, la conférence de conciliation présente une proposition distincte pour chacune des divergences. Chacune des propositions fait l’objet d’un vote séparé.[^94a-3]
+
+<sup>3</sup> En cas de rejet d’une proposition de conciliation, la disposition concernée est biffée*.*
+
+[^94a-1]: Introduit par le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^94a-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 95
+
+**Divergences concernant des cas particuliers**
+
+Si les divergences entre les conseils se rapportent à un objet dans son entier, le second refus manifesté par l’un des conseils est réputé définitif. Cette règle vaut en particulier pour:
+
+- a. l’entrée en matière sur un projet d’acte;
+- b. l’adoption d’un projet d’acte dans le cadre du vote sur l’ensemble;
+- c. l’approbation d’un traité international;
+- d. la garantie à accorder à une constitution cantonale;
+- e. la position à adopter sur une initiative populaire conçue en termes généraux;
+- f. la clause d’urgence;
+- g.[^95-1] la décision de donner suite ou non à une initiative d’un canton;
+- h. l’approbation d’une ordonnance du Conseil fédéral;
+- i.[^95-2] ...
+- j. le maintien en délibération d’un objet qu’il a été proposé de classer.
+
+[^95-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^95-2]: Abrogée par le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), avec effet au 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+
+### Chapitre 3 Procédure applicable au traitement des initiatives populaires
+
+### Section 1 Initiative populaire visant à la révision totale de la Constitution
+
+#### Art. 96
+
+Si une initiative populaire visant à la révision totale de la Constitution est déclarée avoir abouti, l’Assemblée fédérale la soumet au vote du peuple.
+
+### Section 2 Initiative populaire visant à la révision partielle de la Constitution
+
+### a. Dispositions communes aux initiatives
+
+#### Art. 97
+
+**Message et projet d’arrêté du Conseil fédéral**
+
+<sup>1</sup>
+
+Le Conseil fédéral soumet à l’Assemblée fédérale:
+
+- a. dans un délai d’un an à compter du dépôt de l’initiative dont l’aboutissement a été constaté, un projet d’arrêté fédéral accompagné d’un message;
+- b. dans un délai d’un an à compter de l’approbation par le peuple ou par l’Assemblée fédérale d’une initiative conçue en termes généraux, un projet d’arrêté fédéral accompagné d’un message relatif à une révision partielle de la Constitution.
+
+<sup>2</sup> Si le Conseil fédéral décide d’élaborer un projet d’arrêté fédéral concernant un contre-projet ou un projet d’acte en rapport étroit avec l’initiative populaire, ce délai est porté à 18 mois.[^97-1]
+
+<sup>3</sup> Si le Conseil fédéral ne soumet pas un projet d’arrêté fédéral accompagné d’un message à l’Assemblée fédérale dans le délai imparti, une commission compétente peut élaborer le projet d’acte nécessaire.[^97-2]
+
+[^97-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 98
+
+**Validité de l’initiative populaire**
+
+<sup>1</sup> L’Assemblée fédérale prononce la nullité totale ou partielle d’une initiative populaire si elle constate que celle-ci ne remplit pas les conditions prévues à l’art. 139, al. 3, Cst.
+
+<sup>2</sup> Si les décisions des conseils divergent quant à la validité de tout ou partie d’une initiative populaire, et que le conseil qui a reconnu la validité confirme sa décision, l’initiative ou les parties en cause sont réputées valables.
+
+<sup>3</sup> Si la proposition de conciliation portant sur la recommandation de vote est rejetée, seule la disposition concernée est biffée en dérogation à l’art. 93, al. 2.[^98-1]
+
+[^98-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 99
+
+**Interdiction de modifier le texte d’une initiative populaire**
+
+<sup>1</sup> L’initiative populaire ou ses parties valables sont soumises en l’état à la votation populaire.
+
+<sup>2</sup> Est réservée la compétence de la Commission de rédaction de corriger les erreurs de traduction manifestes et de procéder aux adaptations formelles nécessaires afin d’intégrer la modification proposée dans la Constitution. La commission donne au comité d’initiative la possibilité de prendre position.[^99-1]
+
+[^99-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+### b. Initiative populaire revêtant la forme d’un projet rédigé
+
+#### Art. 100
+
+**Recommandation en vue de la votation populaire**
+
+Dans un délai de 30 mois à compter du dépôt d’une initiative revêtant la forme d’un projet rédigé, l’Assemblée fédérale décide si elle recommandera au peuple et aux cantons de l’accepter ou de la rejeter.
+
+#### Art. 101
+
+**Contre-projet**[^101-1]
+
+<sup>1</sup> L’Assemblée fédérale peut soumettre au vote du peuple et des cantons, en même temps que l’initiative, un contre-projet portant sur la même matière constitutionnelle.
+
+<sup>2</sup> Les conseils examinent l’arrêté fédéral concernant le contre-projet de l’Assemblée fédérale avant de statuer sur la recommandation de vote qui doit figurer dans l’arrêté fédéral concernant l’initiative.
+
+<sup>3</sup> Le vote final sur l’arrêté fédéral concernant le contre-projet a lieu au plus tard huit jours avant la fin de la session qui précède l’expiration du délai dans lequel l’initiative doit être examinée. Si l’un des conseils rejette cet arrêté au vote final, la conférence de conciliation propose la recommandation de vote qui doit figurer dans l’arrêté fédéral concernant l’initiative. Aucun contre-projet ne peut plus être proposé.
+
+[^101-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 102
+
+**Décisions relatives à la recommandation de vote et au contre-projet**[^102-1]
+
+<sup>1</sup>
+
+Lorsque l’Assemblée fédérale soumet au vote du peuple et des cantons une initiative populaire et un contre-projet, elle peut:
+
+- a. recommander de rejeter l’initiative et d’accepter le contre-projet;
+- b. recommander d’accepter à la fois l’initiative et le contre-projet.
+
+<sup>2</sup> Lorsque l’Assemblée fédérale recommande d’accepter à la fois l’initiative et le contre-projet, elle recommande aussi de donner la préférence au contre-projet dans la question subsidiaire.
+
+[^102-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### c. Initiative populaire revêtant la forme d’une proposition conçue en termes généraux
+
+#### Art. 103
+
+**Approbation ou rejet d’une initiative par l’Assemblée fédérale et votation populaire**
+
+<sup>1</sup> Si l’initiative populaire revêt la forme d’une proposition conçue en termes généraux, l’Assemblée fédérale décide, dans un délai de deux ans à compter de son dépôt, si elle l’approuve ou non.
+
+<sup>2</sup> Si elle rejette l’initiative, elle la soumet au vote du peuple.
+
+#### Art. 104
+
+**Élaboration d’un projet de modification constitutionnelle par l’Assemblée fédérale**
+
+<sup>1</sup> Si l’initiative populaire est approuvée par l’Assemblée fédérale ou par le peuple, l’Assemblée fédérale élabore, dans un délai de deux ans à compter de cette approbation, un projet de révision partielle de la Constitution.
+
+<sup>2</sup> Le projet élaboré par l’Assemblée fédérale reflète strictement le contenu et les objectifs visés par l’initiative populaire.
+
+<sup>3</sup> Si les conseils ne parviennent pas à s’entendre sur un projet commun de révision partielle, ou si l’un des conseils, ou les deux, rejettent le projet, les décisions qu’ils ont prises l’un et l’autre lors de la dernière délibération sont soumises au vote du peuple et des cantons.
+
+### d. Prorogation et expiration du délai
+
+#### Art. 105
+
+**Prorogation du délai**
+
+<sup>1</sup> Si l’un des conseils a pris une décision sur un contre-projet ou un projet d’acte en rapport étroit avec l’initiative populaire, l’Assemblée fédérale peut proroger d’un an le délai imparti pour traiter l’initiative.
+
+<sup>1bis</sup> ...[^105-1]
+
+<sup>2</sup> Si les conseils ne parviennent pas à prendre de décision concordante sur la prorogation du délai, celui-ci n’est pas prorogé.
+
+[^105-1]: Introduit par le ch. II de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire) ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)). Abrogé par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), avec effet au 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 106
+
+**Expiration du délai**
+
+Si les conseils ne parviennent pas à prendre de décision concordante dans le délai imparti par la loi, le Conseil fédéral ordonne la votation populaire.
+
+### Chapitre 4 Procédure applicable au traitement des initiatives parlementaires
+
+#### Art. 107
+
+**Objet et forme**[^107-1]
+
+<sup>1</sup> L’initiative parlementaire permet de proposer qu’une commission élabore un projet d’acte de l’Assemblée fédérale.
+
+<sup>2</sup> L’initiative fait l’objet d’un développement. Celui-ci comporte notamment les objectifs de l’acte.
+
+<sup>3</sup> Une commission peut présenter un projet d’acte à son conseil au moyen d’une initiative parlementaire.
+
+[^107-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 108
+
+**Irrecevabilité**
+
+Les initiatives parlementaires déposées par un député ou par un groupe sont irrecevables lorsqu’elles peuvent être déposées sous la forme d’une proposition portant sur un objet pendant devant l’Assemblée fédérale. Le Bureau du conseil peut consentir des dérogations.
+
+#### Art. 109
+
+**Procédure d’examen préalable**
+
+<sup>1</sup> Les initiatives parlementaires déposées par un député ou par un groupe et les propositions déposées en commission qui visent à l’élaboration d’une initiative parlementaire par cette commission sont soumises à un examen préalable.
+
+<sup>2</sup> La commission compétente du conseil où a été déposée l’initiative décide, dans un délai d’un an après que ladite initiative lui a été attribuée, soit de donner suite à celle-ci, soit de proposer au conseil de ne pas y donner suite. Si le conseil se rallie à la proposition de la commission, l’initiative est réputée liquidée.[^109-1]
+
+<sup>3</sup> La décision de la commission de donner suite à l’initiative ou d’en élaborer une elle-même est soumise à l’approbation de la commission compétente de l’autre conseil. Celle-ci invite la commission du conseil prioritaire à désigner une délégation qui lui présente la décision. Si la seconde commission ne s’y rallie pas, il n’est donné suite à l’initiative que si les deux conseils le décident. Si le second conseil ne s’y rallie pas, l’initiative est réputée définitivement rejetée.[^109-2]
+
+<sup>3bis</sup> La commission de l’autre conseil et, en l’absence de décision concordante, les commissions compétentes des conseils disposent d’un délai d’un an, à compter de la dernière décision prise par une commission ou un conseil au sujet de l’initiative, pour prendre la décision visée à l’al. 3 ou pour soumettre leur proposition à leur conseil.[^109-3]
+
+<sup>4</sup> Si l’auteur de l’initiative ou le député qui a déposé une proposition visant à l’élaboration d’une initiative n’est pas membre de la commission, il peut néanmoins participer avec voix consultative aux séances que la commission du conseil dont il est membre consacre à l’examen préalable.[^109-4]
+
+<sup>5</sup> Si l’auteur de l’initiative quitte le conseil et qu’aucun autre député n’a repris l’initiative à son compte pendant la première semaine de la session suivante, l’initiative est classée sans décision du conseil, sauf si la commission y avait déjà donné suite.[^109-5]
+
+[^109-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
+[^109-2]: Phrase introduite par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
+[^109-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^109-5]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 110
+
+**Objet de l’examen préalable**
+
+<sup>1</sup> Si la nécessité de légiférer est confirmée et que la forme de l’initiative parlementaire est jugée appropriée, il est donné suite à l’initiative parlementaire ou il est adopté une proposition visant à l’élaboration d’une initiative par une commission.
+
+<sup>2</sup>
+
+La forme de l’initiative parlementaire est jugée appropriée, en particulier:
+
+- a. si l’initiative vise à élaborer un projet d’acte relatif à l’organisation ou au fonctionnement de l’Assemblée fédérale;
+- b. si le Conseil fédéral n’a pas procédé en temps voulu à l’élaboration d’un projet d’acte alors qu’une motion lui a été transmise en ce sens;
+- c.[^110-1] s’il est probable qu’elle permettra une élaboration plus rapide du projet d’acte concerné que la forme de la motion.
+
+<sup>3</sup> La commission examine comment, compte tenu des moyens dont elle dispose, elle pourra élaborer le projet d’acte dans le délai voulu.
+
+[^110-1]: Erratum de la CdR de l’Ass. féd. du 17 fév. 2016, publié le 1<sup>er</sup> mars 2016, ne concerne que le texte italien ([RO 2016 657](https://fedlex.data.admin.ch/eli/oc/2016/125)).
+
+#### Art. 111
+
+**Élaboration d’un projet d’acte**
+
+<sup>1</sup> S’il a été décidé de donner suite à une initiative, la commission compétente du conseil où elle a été déposée élabore un projet dans un délai de deux ans.
+
+<sup>2</sup> Même si l’auteur de l’initiative ou le député qui a déposé une proposition visant à l’élaboration d’une initiative n’est pas membre de la commission, il peut néanmoins participer avec voix consultative aux séances que la commission du conseil dont il est membre consacre à l’élaboration de l’acte.[^111-1]
+
+<sup>3</sup> Le rapport qui accompagne le projet d’acte de l’Assemblée fédérale répond aux mêmes exigences qu’un message du Conseil fédéral (art. 141).
+
+[^111-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 112
+
+**Collaboration avec le Conseil fédéral et l’administration fédérale**
+
+<sup>1</sup> La commission peut faire appel au département compétent afin de recevoir les renseignements juridiques ou matériels dont elle a besoin.
+
+<sup>2</sup> Elle soumet à consultation l’avant-projet et le rapport explicatif qui l’accompagne conformément aux dispositions de la loi du 18 mars 2005 sur la consultation[^112-1].[^112-2]
+
+<sup>3</sup> Lorsqu’elle soumet au conseil dont elle dépend le projet d’acte qu’elle a élaboré et le rapport qui l’accompagne, elle les transmet simultanément au Conseil fédéral pour avis en lui fixant un délai raisonnable, sauf s’il s’agit d’une modification de questions relatives à l’organisation ou aux procédures de l’Assemblée fédérale qui ne sont pas réglées dans une loi et ne concernent pas directement le Conseil fédéral.[^112-3]
+
+<sup>4</sup> En cas de modification proposée par le Conseil fédéral, la commission l’examine avant que le projet d’acte ne soit traité par le premier conseil.
+
+[^112-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^112-2]: Nouvelle teneur selon l’art. 12 ch. 1 de la LF du 18 mars 2005 sur la consultation, en vigueur depuis le 1<sup>er</sup> sept. 2005 ([RO 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/127)).
+[^112-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 113
+
+**Prorogation du délai et classement**
+
+<sup>1</sup> Si la commission ne présente pas son projet d’acte dans le délai de deux ans, le conseil décide, sur proposition de la commission ou du bureau, s’il faut prolonger le délai ou classer l’initiative.
+
+<sup>2</sup>
+
+La commission peut proposer au conseil dont elle dépend de classer l’initiative:
+
+- a. si les objectifs qu’elle vise ont été atteints entre-temps au moyen d’un autre projet d’acte;
+- b. si le mandat confié à la commission n’a plus lieu d’être maintenu.
+
+#### Art. 114
+
+**Examen d’un projet d’acte par les conseils**
+
+<sup>1</sup> Si le conseil adopte le projet d’acte élaboré par sa commission lors du vote sur l’ensemble, l’initiative est transmise à l’autre conseil et examinée selon la procédure ordinaire applicable à l’examen des projets d’acte.[^114-1]
+
+<sup>1bis</sup> Si le conseil décide de ne pas entrer en matière sur le projet d’acte élaboré par sa commission ou s’il le rejette lors du vote sur l’ensemble, l’initiative est réputée liquidée.[^114-2]
+
+<sup>2</sup> Le projet du conseil prioritaire est défendu devant la commission du second conseil par un membre de la commission qui l’a élaboré.
+
+[^114-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-2]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+### Chapitre 5 Procédure applicable au traitement des initiatives déposées par un canton
+
+#### Art. 115
+
+**Objet et forme**[^115-1]
+
+<sup>1</sup> Tout canton peut proposer, au moyen d’une initiative, qu’une commission élabore un projet d’acte de l’Assemblée fédérale.
+
+<sup>2</sup> L’initiative fait l’objet d’un développement. Celui-ci comporte notamment les objectifs de l’acte.
+
+[^115-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+
+#### Art. 116
+
+**Procédure d’examen préalable**
+
+<sup>1</sup> Les initiatives des cantons sont soumises à un examen préalable.
+
+<sup>2</sup> L’art. 110 s’applique par analogie à la procédure d’examen préalable.
+
+<sup>3</sup> La décision de donner suite à une initiative est soumise à l’approbation des commissions compétentes des deux conseils. Si l’une des commissions refuse d’y donner suite, la décision appartient au conseil dont elle dépend. Si celui-ci refuse également, l’initiative est transmise à l’autre conseil. Si un même conseil refuse deux fois d’y donner suite, l’initiative est rejetée.
+
+<sup>3bis</sup> Pour les commissions, les délais prévus à l’art. 109, al. 2 et 3<sup>bis</sup>, sont applicables.[^116-1]
+
+<sup>4</sup> Lorsqu’elle procède à l’examen préalable de l’initiative, la commission du conseil prioritaire entend une délégation du canton.
+
+[^116-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 117
+
+**Élaboration d’un projet d’acte**
+
+<sup>1</sup> S’il est décidé de donner suite à une initiative déposée par un canton, celle-ci est réattribuée à l’un des conseils, selon la procédure prévue à l’art. 84.
+
+<sup>2</sup> La suite de la procédure est régie par les art. 111 à 114. Le classement d’une initiative par un conseil doit être approuvé par l’autre conseil. Si le conseil prioritaire décide de ne pas entrer en matière sur le projet de la commission ou qu’il rejette ce dernier dans le vote d’ensemble, l’objet est réputé classé.
+
+### Chapitre 6 Procédure applicable au traitement des interventions parlementaires
+
+### Section 1 Généralités
+
+#### Art. 118
+
+**Types d’interventions**
+
+<sup>1</sup>
+
+Les interventions parlementaires sont:
+
+- a. la motion;
+- b. le postulat;
+- c. l’interpellation;
+- d. la question.
+
+<sup>2</sup> En règle générale, elles s’adressent au Conseil fédéral.
+
+<sup>3</sup> Lorsqu’elles se rapportent à l’organisation ou au fonctionnement de l’Assemblée fédérale, elles s’adressent au Bureau du conseil où elles ont été déposées.
+
+<sup>4</sup> Lorsqu’elles se rapportent à leur gestion des affaires ou à leur gestion financière, elles s’adressent aux tribunaux fédéraux; le dépôt d’une motion est exclu.
+
+<sup>4bis</sup> Lorsqu’elles se rapportent à la gestion des affaires ou à la gestion financière du Ministère public de la Confédération et de son autorité de surveillance, elles s’adressent à l’autorité de surveillance du Ministère public de la Confédération; le dépôt d’une motion est exclu.[^118-1]
+
+<sup>5</sup> Les art. 120 à 125 s’appliquent par analogie à la procédure relative aux interventions adressées aux Bureaux des conseils ou aux tribunaux fédéraux.[^118-2]
+
+[^118-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^118-2]: Erratum de la CdR de l’Ass. féd. du 15 fév. 2018, publié le 27 fév. 2018 ([RO 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
+
+#### Art. 119
+
+**Dispositions générales relatives à la procédure applicable aux interventions**
+
+<sup>1</sup> Une intervention peut être déposée par la majorité d’une commission et, pendant les sessions uniquement, par un groupe parlementaire ou par un député.
+
+<sup>2</sup> Lorsqu’une intervention concerne plusieurs points matériellement distincts, chacun d’eux peut faire l’objet d’une délibération et d’un vote distincts.
+
+<sup>3</sup> Le libellé d’une intervention ne peut être modifié après le dépôt de celle-ci; l’art. 121, al. 3, let. b, est réservé.[^119-1]
+
+<sup>4</sup> ...[^119-2]
+
+<sup>5</sup>
+
+Une intervention déposée par un député ou un groupe parlementaire est classée sans décision du conseil:
+
+- a. si le conseil n’a pas achevé son examen dans un délai de deux ans à compter de son dépôt;
+- b. si son auteur a quitté le conseil et qu’aucun autre député n’a repris l’intervention à son compte pendant la première semaine de la session suivante.[^119-3]
+
+<sup>6</sup> ...[^119-4]
+
+[^119-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-2]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### Section 2 Motion
+
+#### Art. 120
+
+**Objet**
+
+<sup>1</sup> La motion charge le Conseil fédéral de déposer un projet d’acte de l’Assemblée fédérale ou de prendre une mesure.
+
+<sup>2</sup> Si le Conseil fédéral est compétent pour prendre la mesure, il le fait ou soumet à l’Assemblée fédérale le projet d’un acte par lequel la motion peut être mise en œuvre.
+
+<sup>3</sup> Une motion visant à influer sur une décision administrative à prendre dans le cadre d’une procédure ordonnée par la loi ou sur une décision sur recours est irrecevable.
+
+#### Art. 121
+
+**Examen par les conseils**[^121-1]
+
+<sup>1</sup> Le Conseil fédéral propose d’accepter ou de rejeter la motion, en règle générale au plus tard au début de la session ordinaire suivant son dépôt. Si la motion a été déposée par une commission moins d’un mois avant le début de cette session, le Conseil fédéral présente sa proposition au plus tard au début de la session suivante.
+
+<sup>2</sup> Lorsque l’un des conseils rejette une motion, celle-ci est réputée liquidée. Si le conseil où elle a été déposée l’adopte, elle est transmise à l’autre conseil.
+
+<sup>3</sup>
+
+Lorsque le conseil prioritaire a adopté une motion, le second conseil peut:
+
+- a. l’adopter ou la rejeter définitivement;
+- b. la modifier, sur proposition de la majorité de la commission chargée de l’examen préalable ou sur proposition du Conseil fédéral.
+
+<sup>4</sup> Si le second conseil modifie une motion, le conseil prioritaire peut approuver cette modification en seconde lecture ou rejeter définitivement la motion.
+
+<sup>5</sup>
+
+Une motion est définitivement adoptée par le conseil prioritaire sans être transmise à l’autre conseil:
+
+- a. si elle concerne l’organisation ou le fonctionnement du conseil où elle a été déposée;
+- b. si elle a été déposée par une commission et qu’une motion de teneur identique déposée par une commission est adoptée par l’autre conseil.
+
+[^121-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 122
+
+**Examen des motions adoptées par les conseils**[^122-1]
+
+<sup>1</sup> Si une motion est pendante depuis plus de deux ans, le Conseil fédéral rend compte annuellement à l’Assemblée fédérale des travaux qu’il a entrepris et des mesures qu’il entend prendre pour la mettre en œuvre. Ce rapport est adressé aux commissions compétentes.
+
+<sup>2</sup> Une commission ou le Conseil fédéral proposent qu’une motion soit classée lorsque son objectif a été atteint. Cette proposition est adressée aux deux conseils, sauf si la motion concerne l’organisation ou le fonctionnement d’un seul conseil.
+
+<sup>3</sup>
+
+Le classement d’une motion peut également être proposé si, bien que son objectif n’ait pas été atteint, il n’est plus justifié de la maintenir. La proposition est motivée:
+
+- a. soit au moyen d’un rapport ad hoc;
+- b. soit au moyen d’un message relatif à un projet d’acte de l’Assemblée fédérale en rapport avec la motion concernée.
+
+<sup>4</sup> En cas de divergence entre les conseils, l’art. 95 est applicable.
+
+<sup>5</sup> Si les deux conseils rejettent une proposition de classement, le Conseil fédéral est tenu d’atteindre l’objectif visé par la motion, soit dans un délai d’un an, soit dans le délai que les conseils lui ont fixé lorsqu’ils ont rejeté la proposition de classement.
+
+<sup>6</sup> Si le Conseil fédéral ne respecte pas le délai fixé, les conseils, sur proposition de la commission compétente, décident à la session ordinaire suivante, soit de prolonger une nouvelle fois le délai, soit de classer la motion.
+
+[^122-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007 (Caractère contraignant de la motion), en vigueur depuis le 26 mai 2008 ([RO 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1379](https://fedlex.data.admin.ch/eli/fga/2007/198)[2025](https://fedlex.data.admin.ch/eli/fga/2007/329)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+
+### Section 3 Postulat
+
+#### Art. 123
+
+**Objet**
+
+Le postulat charge le Conseil fédéral d’examiner l’opportunité, soit de déposer un projet d’acte de l’Assemblée fédérale, soit de prendre une mesure et de présenter un rapport à ce sujet. Il peut également le charger de remettre à l’Assemblée fédérale un rapport sur toute autre question.
+
+#### Art. 124
+
+**Procédure**
+
+<sup>1</sup> Le Conseil fédéral propose d’accepter ou de rejeter le postulat, en règle générale au plus tard au début de la session ordinaire suivant son dépôt. Si le postulat a été déposé par une commission moins d’un mois avant le début de cette session, le Conseil fédéral présente sa proposition au plus tard au début de la session suivante.[^124-1]
+
+<sup>2</sup> Un postulat est réputé adopté dès qu’il a été approuvé par l’un des conseils.
+
+<sup>3</sup> L’objectif visé par un postulat est réputé atteint lorsque le Conseil fédéral a rendu compte de ce qui lui était demandé, soit au moyen d’un rapport ad hoc, soit dans son rapport de gestion, soit dans le message sur un projet d’acte de l’Assemblée fédérale.
+
+<sup>4</sup> Si un postulat est pendant depuis plus de deux ans, le Conseil fédéral rend compte annuellement à l’Assemblée fédérale des travaux qu’il a entrepris et des mesures qu’il entend prendre pour le mettre en œuvre. Ce rapport est adressé aux commissions compétentes.
+
+<sup>5</sup> Sur proposition motivée du Conseil fédéral ou d’une commission, un postulat est classé lorsque son objectif a été atteint ou qu’il n’est plus justifié de le maintenir. Le classement d’un postulat est soumis à l’approbation du conseil qui l’a adopté.
+
+[^124-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### Section 4 Interpellation et question
+
+#### Art. 125
+
+<sup>1</sup> L’interpellation et la question chargent le Conseil fédéral de fournir des renseignements sur une affaire touchant la Confédération.
+
+<sup>2</sup> En règle générale, le Conseil fédéral répond au plus tard à la session suivante.
+
+<sup>3</sup> L’interpellation et la question peuvent être déclarées urgentes.
+
+<sup>4</sup> Une interpellation est réputée liquidée lorsque la discussion demandée par son auteur a eu lieu ou que le conseil a refusé d’y procéder.
+
+<sup>5</sup> La question n’est pas traitée au conseil; elle est réputée liquidée lorsque le Conseil fédéral y a répondu.
+
+### Chapitre 7 Procédure applicable au traitement des pétitions et des requêtes
+
+### Section 1 Pétition****
+
+[^tit5-chap7-sec1-1]
+
+[^tit5-chap7-sec1-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 126
+
+**Généralités**[^126-1]
+
+<sup>1</sup> La commission compétente de chaque conseil décide de donner suite à une pétition ou de proposer à son conseil de ne pas y donner suite.
+
+<sup>2</sup> Si l’objectif de la pétition peut être présenté sous la forme d’une proposition relative à un objet pendant devant l’Assemblée fédérale, la commission fait rapport au conseil dans le cadre de l’examen de l’objet concerné. La commission décide de déposer une proposition ou d’y renoncer. Dès que l’objet examiné est liquidé, la pétition est classée sans décision du conseil.
+
+<sup>3</sup> À l’issue de l’examen de la pétition, les Services du Parlement informent ses auteurs de la suite qui y a été donnée.
+
+<sup>4</sup>
+
+Le président de la commission chargée de l’examen préalable peut répondre seul à une pétition dans les cas suivants:
+
+- a. son objectif ne peut être atteint par une initiative ou une intervention parlementaires ou par une proposition;
+- b. son contenu est manifestement aberrant, abusif ou offensant.
+
+[^126-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 127
+
+**Décision de donner suite à la pétition**[^127-1]
+
+Si la commission donne suite à la pétition, elle reprend à son compte l’objectif visé et élabore une initiative ou une intervention parlementaires.
+
+[^127-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 128
+
+**Proposition de ne pas donner suite à la pétition**[^128-1]
+
+<sup>1</sup>
+
+La commission propose à son conseil de ne pas donner suite à la pétition dans les cas suivants:
+
+- a. elle rejette la pétition;
+- b. elle constate qu’une autre autorité compétente s’est déjà saisie de l’objet de la pétition;
+- c. elle estime que l’objectif visé a déjà été atteint.
+
+<sup>2</sup> Si le conseil, s’écartant de la proposition de sa commission, donne suite à la pétition, il renvoie celle-ci à la commission et la charge de reprendre à son compte l’objectif de la pétition au moyen d’une initiative ou d’une intervention parlementaires.
+
+[^128-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### Section 2 Requête****
+
+[^tit5-chap7-sec2-1]
+
+[^tit5-chap7-sec2-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 129
+
+La requête qui se rapporte à la gestion des affaires ou à la gestion financière du Conseil fédéral, de l’administration fédérale, des tribunaux fédéraux ou d’autres organes auxquels sont confiées des tâches de la Confédération est transmise aux Commissions de gestion ou aux Commissions des finances pour qu’elles y répondent directement.
+
+### Chapitre 8**** Procédure applicable au traitement des réclamations contre les conventions passées par des cantons entre eux ou avec l’étranger
+
+[^tit5-chap8-1]
+
+[^tit5-chap8-1]: Introduit par le ch. II de la LF du 7 oct. 2005, en vigueur depuis le 1<sup>er</sup> juin 2006 ([RO 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [FF 2004 6663](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
+
+#### Art. 129a
+
+<sup>1</sup> Si le Conseil fédéral dépose une réclamation contre une convention passée par des cantons entre eux ou avec l’étranger, il soumet à l’Assemblée fédérale un projet d’arrêté fédéral simple concernant l’approbation de la convention.
+
+<sup>2</sup> Si un canton dépose une réclamation, la commission compétente du conseil prioritaire soumet à son propre conseil un projet d’arrêté fédéral simple concernant l’approbation de la convention.
+
+## Titre 6 Élections, confirmation de nominations et incapacité****
+
+[^tit6-1]
+
+[^tit6-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+### Chapitre 1 Dispositions générales relatives aux élections
+
+#### Art. 130
+
+**Principes**
+
+<sup>1</sup> Lorsque l’Assemblée fédérale procède à une élection, les députés votent à bulletin secret.
+
+<sup>2</sup> Sont élus les candidats qui réunissent sur leur nom plus de la moitié des bulletins valables.
+
+<sup>3</sup> Les bulletins blancs et les bulletins nuls ne sont pas pris en compte dans le calcul de la majorité absolue.
+
+<sup>4</sup> Si le nombre des candidats qui obtiennent la majorité absolue est supérieur au nombre des sièges à pourvoir, les candidats surnuméraires qui ont obtenu le moins de suffrages sont éliminés.
+
+#### Art. 131
+
+**Bulletins nuls et suffrages non comptabilisés**
+
+<sup>1</sup> Est réputé nul tout bulletin sur lequel ont été portés des remarques injurieuses ou des signes trahissant le secret du vote.
+
+<sup>2</sup> Ne sont pas comptabilisés les suffrages exprimés en faveur d’une personne non éligible, déjà élue, éliminée du scrutin ou non identifiable avec certitude.
+
+<sup>3</sup> Ne sont pas comptabilisés les suffrages exprimés plus d’une fois en faveur d’une même personne au moyen d’un même bulletin de vote; les noms surnuméraires sont biffés.
+
+<sup>4</sup> Ne sont pas comptabilisés les suffrages exprimés en faveur de personnes surnuméraires par rapport au nombre de sièges à pourvoir; les noms surnuméraires sont biffés, en remontant à partir de la fin de la liste.
+
+<sup>5</sup> Est réputée nulle toute élection qui se solde par un nombre de bulletins rentrés supérieur au nombre des bulletins distribués; dans ce cas, un nouveau scrutin est organisé.
+
+### Chapitre 2 Élection du Conseil fédéral
+
+#### Art. 132
+
+**Renouvellement intégral**
+
+<sup>1</sup> L’Assemblée fédérale élit les membres du Conseil fédéral à la session qui suit le renouvellement intégral du Conseil national.
+
+<sup>2</sup> Les sièges sont pourvus un par un, par ordre d’ancienneté des titulaires précédents. Les sièges auxquels sont candidats les membres sortants du Conseil fédéral sont pourvus en premier.
+
+<sup>3</sup> Aux deux premiers tours de scrutin, les députés peuvent voter pour les personnes éligibles de leur choix. À partir du troisième tour de scrutin, aucune nouvelle candidature n’est admise.
+
+<sup>4</sup>
+
+Est éliminée toute personne:
+
+- a. qui, à partir du deuxième tour de scrutin, obtient moins de dix voix;
+- b. qui, à partir du troisième tour de scrutin, obtient le moins de voix, sauf si ces voix se répartissent de façon égale sur plusieurs candidats.
+
+#### Art. 133
+
+**Sièges vacants**
+
+<sup>1</sup> En règle générale, l’élection destinée à pourvoir un siège vacant a lieu pendant la session qui suit la réception de la lettre de démission du titulaire, la survenance d’une vacance imprévue ou la constatation de l’incapacité à exercer la fonction concernée.[^133-1]
+
+<sup>2</sup> La personne nouvellement élue entre en fonction deux mois au plus tard après son élection.
+
+<sup>3</sup> Si plusieurs sièges sont vacants, ils sont pourvus par ordre d’ancienneté des titulaires précédents.
+
+[^133-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 134
+
+**Élection du président de la Confédération et du vice-président du Conseil fédéral**
+
+L’Assemblée fédérale élit parmi les membres du Conseil fédéral le président de la Confédération et le vice-président du Conseil fédéral; elle les élit l’un après l’autre, et pour une durée d’un an.
+
+### Chapitre 3 Élection des juges fédéraux
+
+#### Art. 135
+
+**Renouvellement intégral des tribunaux fédéraux**
+
+<sup>1</sup> L’Assemblée fédérale élit les juges fédéraux avant la fin de la période administrative en cours; elle procède tribunal par tribunal, avec à chaque fois un scrutin pour les juges et un scrutin pour les juges suppléants.
+
+<sup>2</sup> Le renouvellement intégral a lieu par réélection des membres sortants et en cas de vacance ou de non-réélection, par une élection complémentaire.
+
+#### Art. 136
+
+**Réélection**
+
+<sup>1</sup> Le bulletin de vote consiste en la liste des noms des titulaires qui sont à nouveau candidats, présentés par ordre d’ancienneté.
+
+<sup>2</sup> Les députés peuvent biffer le nom de certains candidats. Les noms ajoutés sur la liste ne sont pas pris en compte. Les bulletins de vote sur lesquels tous les noms ont été biffés sont valables et sont pris en compte dans le calcul de la majorité absolue.
+
+<sup>3</sup> Il n’y a qu’un tour de scrutin. Les candidats qui n’ont pas obtenu la majorité absolue peuvent se présenter à l’élection complémentaire.
+
+#### Art. 137
+
+**Élection complémentaire**
+
+<sup>1</sup> Si un siège est vacant ou qu’un juge n’est pas réélu, une élection complémentaire est organisée.
+
+<sup>2</sup> Si, à la veille du scrutin, le Bureau de l’Assemblée fédérale (Chambres réunies) n’a pas enregistré plus de candidatures qu’il n’y a de sièges à pourvoir et si tous les candidats sortants sont réélus, une liste des noms des candidats présentés par ordre alphabétique tient lieu de bulletin de vote; dans le cas contraire, le bulletin consiste en une liste vierge de toute indication, comportant uniquement une série de lignes dont le nombre correspond à celui des sièges à pourvoir.
+
+<sup>3</sup> Aux deux premiers tours de scrutin, les députés peuvent voter pour les personnes éligibles de leur choix. À partir du troisième tour de scrutin, aucune nouvelle candidature n’est admise.
+
+<sup>4</sup>
+
+Est automatiquement éliminée toute personne:
+
+- a. qui, à partir du deuxième tour de scrutin, obtient moins de dix voix;
+- b. qui, à partir du troisième tour de scrutin, et pour autant que le nombre des candidats excède le nombre des sièges encore à pourvoir, obtient le moins de voix, sauf si ces voix se répartissent de façon égale sur plusieurs candidats.
+
+#### Art. 138
+
+**Élection des présidents et vice-présidents des tribunaux fédéraux**
+
+Le président et le vice-président d’un tribunal sont élus pour une durée de deux ans. Ils sont élus en même temps sur deux bulletins distincts.
+
+### Chapitre 4 Autres élections
+
+#### Art. 139
+
+L’Assemblée fédérale procède aux autres élections prévues par la Constitution ou par la loi; ces élections se déroulent selon la procédure applicable à l’élection du Conseil fédéral.
+
+### Chapitre 5 Confirmation de nominations
+
+#### Art. 140
+
+<sup>1</sup> L’Assemblée fédérale procède aux confirmations de nominations qui lui incombent en vertu de la loi.
+
+<sup>2</sup> Une commission de l’Assemblée fédérale (Chambres réunies) examine la nomination à confirmer, à l’exception de celle du secrétaire général de l’Assemblée fédérale. À cet effet, la commission peut entendre la personne concernée et une délégation de l’organe de nomination. Elle propose à l’Assemblée fédérale (Chambres réunies) de confirmer ou non la nomination.
+
+<sup>3</sup> L’Assemblée fédérale (Chambres réunies) décide à la majorité des votants de confirmer ou non la nomination proposée; elle vote à bulletin secret. Si elle refuse de confirmer la nomination, l’organe compétent procède à une nouvelle nomination.
+
+### Chapitre 6**** Constatation de l’incapacité d’un membre du Conseil fédéral ou du chancelier de la Confédération à exercer sa fonction
+
+[^tit6-chap6-1]
+
+[^tit6-chap6-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+#### Art. 140a
+
+<sup>1</sup> L’Assemblée fédérale statue sur les propositions visant à constater l’incapacité d’un membre du Conseil fédéral ou du chancelier de la Confédération à exercer sa fonction.
+
+<sup>2</sup> Seuls le Bureau de l’Assemblée fédérale (Chambres réunies) ou le Conseil fédéral peuvent déposer de telles propositions.
+
+<sup>3</sup>
+
+L’incapacité est admise lorsque les conditions suivantes sont réunies:
+
+- a. la personne concernée n’est manifestement plus en mesure d’exercer sa fonction en raison de graves problèmes de santé ou d’autres motifs l’empêchant d’occuper son poste;
+- b. cette situation est vraisemblablement appelée à durer;
+- c. la personne concernée n’a pas démissionné en bonne et due forme dans un délai raisonnable.
+
+<sup>4</sup> L’Assemblée fédérale (Chambres réunies) statue au plus tard pendant la session qui suit le dépôt de la proposition.
+
+<sup>5</sup> La constatation de l’incapacité d’une personne à exercer sa fonction entraîne la vacance de son siège.
+
+## Titre 7 Relations entre l’Assemblée fédérale et le Conseil fédéral
+
+### Chapitre 1 Projets émanant du Conseil fédéral
+
+#### Art. 141
+
+**Message accompagnant un projet d’acte**
+
+<sup>1</sup> Lorsqu’il soumet un projet d’acte à l’Assemblée fédérale, le Conseil fédéral y joint un message.
+
+<sup>2</sup>
+
+Dans son message, le Conseil fédéral motive son projet d’acte et en commente au besoin les dispositions. D’autre part, dans la mesure où des indications substantielles peuvent être fournies, il fait notamment le point sur:
+
+- a. les bases légales ou constitutionnelles sur lesquelles le projet se fonde, ses effets sur les droits fondamentaux, sa compatibilité avec le droit de rang supérieur et ses relations avec le droit européen;
+- [tab] a<sup>bis</sup>.[^141-1] l’usage de la marge de manœuvre dont la Suisse dispose lorsqu’elle reprend le droit international;
+- a<sup>ter</sup>.[^141-2] le respect du principe de subsidiarité dans l’attribution et l’accomplissement de tâches étatiques et les conséquences que le projet aura pour les communes, les villes, les agglomérations urbaines et les régions de montagne;
+- [tab] a<sup>quater</sup>.[^141-3] l’examen d’une limitation de la durée de validité des dispositions concernées;
+- b. les compétences que le projet prévoit de déléguer;
+- c. les points de vue et variantes discutés au stade préliminaire de la procédure législative et leur appréciation par le Conseil fédéral;
+- d. les modalités de mise en œuvre du projet, l’évaluation à laquelle cette mise en œuvre donnera lieu et les possibilités de mise en œuvre qui ont été examinées au stade préliminaire de la procédure législative;
+- e. l’adéquation des tâches et des moyens financiers à disposition;
+- f. les conséquences que le projet et sa mise en œuvre entraînent sur les finances et l’état du personnel de la Confédération, des cantons, des communes, les modalités de son financement, enfin le rapport coût-utilité des mesures proposées;[^141-4]
+- g.[^141-5] les conséquences économiques, sociales et environnementales du projet ainsi que ses conséquences pour les générations futures;
+- [tab] g<sup>bis</sup>.[^141-6] la préservation de la responsabilité personnelle et de la marge de manœuvre des particuliers concernés par une réglementation donnée;
+- g<sup>ter</sup>.[^141-7] les conséquences que le projet aura sur les besoins en matière de technologies de l’information et de la communication et les frais qui en découleront;
+- h.[^141-8] les relations du projet avec le programme de la législature et avec le plan financier;
+- i. les conséquences que le projet aura sous l’angle de l’égalité entre hommes et femmes;
+- j.[^141-9] les conséquences que le projet aura pour les Suisses de l’étranger.
+
+[^141-1]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-2]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-3]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-4]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-5]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^141-6]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-7]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-8]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-9]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 142
+
+**Budget, suppléments et compte d’État**
+
+<sup>1</sup>
+
+Le Conseil fédéral soumet à l’Assemblée fédérale:
+
+- a.[^142-1] le projet du budget de la Confédération;
+- b. les projets de suppléments ordinaires et de crédits supplémentaires, au plus tard deux mois avant le début de la session au cours de laquelle ils doivent être traités;
+- c. le compte d’État, chaque année au plus tard deux mois avant le début de la session au cours de laquelle il doit être traité.
+
+<sup>2</sup> Il reprend tels quels dans son projet de budget et dans le compte d’État les projets de budget et les comptes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances, du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération.[^142-2]
+
+<sup>3</sup> Le Tribunal fédéral défend les projets de budget et les comptes des tribunaux fédéraux devant l’Assemblée fédérale. Le projet de budget et le compte de l’Assemblée fédérale sont défendus par la Délégation administrative de l’Assemblée fédérale, ceux du Contrôle fédéral des finances par la Délégation des finances, et ceux du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération, par l’autorité de surveillance du Ministère public de la Confédération.[^142-3]
+
+<sup>4</sup> Le Conseil fédéral fait établir chaque année au 30 juin et au 30 septembre un calcul approximatif du résultat prévisible de l’exercice. Il en informe les Commissions des finances.[^142-4]
+
+[^142-1]: Nouvelle teneur selon l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+[^142-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-4]: Introduit par l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
+
+#### Art. 143
+
+**Plan financier**[^143-1]
+
+<sup>1</sup> Le plan financier comprend les trois années suivant l’exercice budgétaire.
+
+<sup>2</sup> La structure et le contenu du plan financier font coïncider la planification des tâches avec la planification financière (plan intégré des tâches et des finances).
+
+<sup>3</sup> Le Conseil fédéral soumet à l’Assemblée fédérale, en même temps que le projet de budget, le plan financier sous la forme d’un arrêté fédéral simple, pour qu’elle en prenne acte.
+
+<sup>4</sup> L’Assemblée fédérale peut compléter l’arrêté fédéral simple par des mandats visant à modifier le plan financier.
+
+<sup>5</sup> Le Conseil fédéral remplit en général ces mandats dans le cadre du projet de budget de l’année suivant l’année à venir.
+
+[^143-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+
+#### Art. 144
+
+**Objectifs annuels du Conseil fédéral et rapport de gestion**
+
+<sup>1</sup> Le Conseil fédéral communique à l’Assemblée fédérale, au plus tard au début de la dernière session ordinaire de l’année, les objectifs qu’il s’est fixés pour l’année suivante. Ces objectifs sont coordonnés avec le programme de la législature.
+
+<sup>2</sup> Le Conseil fédéral soumet à l’Assemblée fédérale, au plus tard deux mois avant le début de la session au cours de laquelle ils doivent être traités, les rapports par lesquels il rend compte de sa gestion pendant l’année précédente.
+
+<sup>3</sup> Dans son rapport de gestion, le Conseil fédéral présente les points forts de son activité pour l’année sous revue. Il rend compte du degré de réalisation des principaux objectifs qui avaient été prévus pour l’année, de la mise en œuvre du programme de la législature et du programme législatif, et de l’état des indicateurs pertinents pour l’appréciation globale de la situation et l’évaluation du degré de réalisation des objectifs. Il justifie les écarts éventuellement survenus entre-temps ainsi que les projets qu’il n’avait pas prévus.[^144-1]
+
+[^144-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+
+#### Art. 145
+
+**Examen du rapport de gestion**
+
+<sup>1</sup> Sauf disposition contraire des règlements des conseils, le président de la Confédération défend devant les conseils le rapport dans lequel le Conseil fédéral rend compte de sa gestion.[^145-1]
+
+<sup>2</sup> L’Assemblée fédérale approuve ce rapport sous la forme d’un arrêté fédéral simple.
+
+[^145-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Rapport de gestion du Conseil fédéral), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 697](https://fedlex.data.admin.ch/eli/oc/2009/115); [FF 2008 985](https://fedlex.data.admin.ch/eli/fga/2008/229)[995](https://fedlex.data.admin.ch/eli/fga/2008/232)).
+
+#### Art. 146
+
+**Programme de la législature**[^146-1]
+
+<sup>1</sup> Au début de chaque législature, le Conseil fédéral soumet à l’Assemblée fédérale un message sur le programme de la législature, accompagné d’un projet d’arrêté fédéral simple.
+
+<sup>2</sup> L’arrêté fédéral simple définit les lignes directrices de la politique et les objectifs du programme de la législature; il indique en outre, pour chaque objectif, les actes de l’Assemblée fédérale prévus ainsi que les autres mesures qui sont nécessaires pour atteindre ces objectifs.
+
+<sup>3</sup> Dans le message sur le programme de la législature, les objectifs sont accompagnés d’indicateurs permettant d’évaluer le degré de réalisation des objectifs. Le message contient également une analyse de la situation reposant sur les indicateurs. De plus, le message présente un aperçu de tous les projets d’acte que le Conseil fédéral prévoit de soumettre à l’Assemblée fédérale durant la législature (programme législatif).
+
+<sup>4</sup> Le message présente le plan financier de la législature. Celui-ci fixe les besoins financiers pour la législature et indique leur financement. Les objectifs et les mesures du programme de la législature et du plan financier de la législature sont coordonnés par objets et par échéances.
+
+[^146-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+
+#### Art. 147
+
+**Examen du programme de la législature**[^147-1]
+
+<sup>1</sup> Les conseils examinent le programme de la législature au cours de deux sessions successives.
+
+<sup>2</sup>
+
+Les règlements des conseils peuvent prévoir:
+
+- a. que le conseil, lors de l’examen du programme de la législature, se prononce uniquement sur les propositions déposées par la majorité ou par une minorité de la commission chargée de l’examen préalable;
+- b. que les autres propositions doivent être déposées à la commission avant qu’elle entame la discussion par article sur le projet d’acte.
+
+[^147-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+
+#### Art. 148
+
+**Autres planifications ou rapports**
+
+<sup>1</sup> Le Conseil fédéral peut adresser d’autres planifications ou rapports à l’Assemblée fédérale pour information ou pour qu’elle en prenne acte.
+
+<sup>2</sup> Il peut soumettre à l’Assemblée fédérale sous la forme d’un projet d’arrêté fédéral simple ou d’arrêté fédéral les objectifs visés par des planifications ou rapports importants, ou les conséquences de ces planifications ou rapports.
+
+<sup>3</sup> Le Conseil fédéral adresse régulièrement à l’Assemblée fédérale un rapport sur la politique extérieure.
+
+<sup>3bis</sup> Le Conseil fédéral adresse périodiquement à l’Assemblée fédérale un rapport sur la réalisation des objectifs stratégiques qui ont été fixés pour les entités devenues autonomes au sens de l’art. 8, al. 5, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^148-1].[^148-2]
+
+<sup>4</sup> L’Assemblée fédérale peut prendre les arrêtés de principe et de planification concernant d’autres planifications ou rapports importants, sous la forme d’arrêtés fédéraux simples ou d’arrêtés fédéraux.
+
+[^148-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^148-2]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+
+#### Art. 149
+
+**Transmission des messages ou rapports du Conseil fédéral aux députés**
+
+<sup>1</sup> Deux semaines au plus tard avant la séance de la commission chargée de leur examen préalable, le Conseil fédéral fait parvenir ses messages et ses rapports aux Services du Parlement.
+
+<sup>2</sup> Les Services du Parlement transmettent aux députés les documents que le Conseil fédéral ou l’administration fédérale ont adressés à l’Assemblée fédérale ou aux commissions.
+
+### Chapitre 2 Relations entre les commissions et le Conseil fédéral
+
+#### Art. 150
+
+**Droit à l’information**
+
+<sup>1</sup>
+
+Dans la mesure où l’exercice de leurs attributions l’exige, les commissions et leurs sous-commissions peuvent:
+
+- a. inviter le Conseil fédéral à participer à une séance afin qu’il leur fournisse des informations ou lui demander de leur remettre un rapport;
+- b. obtenir des documents du Conseil fédéral;
+- c. interroger, sous réserve de l’accord du Conseil fédéral, une personne au service de la Confédération.
+
+<sup>2</sup>
+
+Elles peuvent se voir refuser des informations:
+
+- a. qui concernent les procédures de co-rapport et les séances du Conseil fédéral;
+- b. qui sont classées secrètes pour des raisons relevant de la sécurité de l’État ou du renseignement, ou dont la prise de connaissance par des personnes non autorisées peut porter un grave préjudice aux intérêts du pays.[^150-1]
+
+<sup>3</sup> Elles prennent toutes mesures appropriées pour garantir le maintien du secret. Elles peuvent notamment prévoir que les informations soumises au secret de fonction conformément à l’art. 8 sont communiquées uniquement à une sous-commission.
+
+<sup>4</sup> En cas de désaccord entre une commission et le Conseil fédéral quant à l’étendue du droit à l’information, la commission peut saisir le collège présidentiel du conseil dont elle dépend. Le collège conduit la médiation entre la commission et le Conseil fédéral.
+
+<sup>5</sup> Le collège présidentiel statue définitivement lorsqu’une commission et le Conseil fédéral sont en désaccord sur la nécessité de certaines informations pour l’exercice des attributions de la commission en vertu de l’al. 1.
+
+<sup>6</sup> Le Conseil fédéral peut présenter un rapport plutôt que d’ouvrir ses dossiers si, fondé sur l’al. 2, il est en désaccord avec une commission sur son droit à être informé et si la médiation du collège présidentiel reste sans succès.
+
+<sup>7</sup> Pour préparer sa médiation, le collège présidentiel peut consulter tous dossiers utiles du Conseil fédéral et de l’administration fédérale.
+
+[^150-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+
+#### Art. 151
+
+**Consultation sur un projet d’ordonnance**
+
+<sup>1</sup> Lorsque le Conseil fédéral prépare une ordonnance importante, la commission compétente peut lui demander qu’il la consulte sur le projet.
+
+<sup>2</sup> Lorsqu’une ordonnance doit être édictée ou modifiée en application directe d’un acte adopté par l’Assemblée fédérale, la commission décide, lors du vote sur l’ensemble de l’acte, si elle veut être consultée.
+
+<sup>3</sup> Le Conseil fédéral informe l’Assemblée fédérale de la préparation d’ordonnances.
+
+#### Art. 152
+
+**Information et consultation en matière de politique extérieure**
+
+<sup>1</sup> Les commissions compétentes en matière de politique extérieure et le Conseil fédéral procèdent régulièrement à des échanges de vues.
+
+<sup>2</sup> Le Conseil fédéral informe de façon régulière, rapide et complète les collèges présidentiels des conseils et les commissions compétentes en matière de politique extérieure des événements importants survenus dans ce domaine. Les commissions compétentes en matière de politique extérieure transmettent ces informations aux autres commissions compétentes.
+
+<sup>3</sup> Le Conseil fédéral consulte les commissions compétentes en matière de politique extérieure sur les orientations principales, sur les modifications prévues de la configuration du réseau diplomatique et consulaire suisse à l’étranger et sur les directives ou lignes directrices concernant un mandat pour des négociations internationales importantes avant d’adopter ou de modifier ce mandat. Le Conseil fédéral informe ces commissions de l’état d’avancement des travaux dans la perspective des orientations prises et de l’avancement des négociations.[^152-1]
+
+<sup>3bis</sup>
+
+Le Conseil fédéral consulte les commissions compétentes avant:
+
+- a. d’appliquer à titre provisoire un traité international dont la conclusion ou la modification doit être approuvée par l’Assemblée fédérale;
+- b. de procéder à la dénonciation urgente d’un traité international, lorsque la dénonciation devrait être approuvée par l’Assemblée fédérale.[^152-2]
+
+<sup>3ter</sup> Le Conseil fédéral renonce à l’application à titre provisoire ou à la dénonciation urgente d’un traité si les commissions compétentes des deux conseils s’y opposent.[^152-3]
+
+<sup>4</sup> En cas d’urgence, le Conseil fédéral consulte les présidents des commissions compétentes en matière de politique extérieure. Ceux-ci informent immédiatement leurs commissions respectives.
+
+<sup>5</sup> Les commissions compétentes en matière de politique extérieure ou d’autres commissions compétentes peuvent demander au Conseil fédéral qu’il les informe ou les consulte.
+
+[^152-1]: Nouvelle teneur selon l’annexe ch. III 1 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^152-2]: Introduit par le ch. I 2 de la LF du 8 oct. 2004 sur l’application à titre provisoire de traités internationaux ([RO 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [FF 2004 703](https://fedlex.data.admin.ch/eli/fga/2004/149)[939](https://fedlex.data.admin.ch/eli/fga/2004/187)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+
+#### Art. 153
+
+**Droit à l’information des commissions de surveillance**[^153-1]
+
+<sup>1</sup> En plus du droit général à l’information prévu à l’art. 150, les commissions de surveillance ont le droit d’interroger directement tous services, autorités ou personnes assumant des tâches pour le compte de la Confédération et d’obtenir, en application de l’art. 156, qu’ils leur remettent tous documents dont elles ont besoin. Elles peuvent charger leur secrétariat d’éclaircir des états de fait particuliers.
+
+<sup>2</sup> Dans la mesure où l’exercice de leurs attributions en matière de haute surveillance l’exige, les commissions de surveillance peuvent également demander à des personnes ou des services extérieurs à l’administration fédérale qu’ils leur fournissent des renseignements ou des documents. L’art. 156 s’applique aux personnes extérieures à l’administration fédérale qui ont été au service de la Confédération. L’art. 42 de la loi fédérale de procédure civile fédérale du 4 décembre 1947[^153-2] relatif au droit de refuser de témoigner est applicable par analogie.
+
+<sup>3</sup> Par analogie avec les art. 49 et 50 ainsi que 201 à 209 du code de procédure pénale[^153-3], les commissions de surveillance peuvent, sur décision de leurs présidents respectifs, citer à comparaître des personnes assujetties à l’obligation de donner des renseignements et les faire amener par des organes de police fédéraux ou cantonaux si elles omettent de comparaître sans fournir de motif valable.
+
+<sup>4</sup> Il est possible de déposer un recours contre les citations à comparaître et les mandats d’amener dans un délai de 10 jours auprès du président du conseil dont fait partie le président de la commission qui a pris la décision en question. Le recours n’a pas d’effet suspensif. Si le président du conseil constate que la décision prise est illégale ou excessive, il peut accorder une réparation à l’auteur du recours. La décision sur recours est définitive.
+
+<sup>5</sup> Avant d’interroger des membres du Conseil fédéral, les commissions de surveillance leur fournissent des informations sur l’objet de l’audition. Avant d’interroger une personne qui est ou qui a été subordonnée au Conseil fédéral, les commissions de surveillance informent celui-ci de leur intention. Si le Conseil fédéral en fait la demande, elles l’entendent avant que la personne leur fournisse des renseignements ou des documents.
+
+<sup>6</sup>
+
+Les commissions de surveillance statuent définitivement sur l’exercice de leur droit à l’information. Elles ne peuvent se prévaloir du droit de consulter:
+
+- a. les procès-verbaux des séances du Conseil fédéral;
+- b. les documents qui sont classés secrets pour des raisons relevant de la sécurité de l’État ou du renseignement, ou dont la prise de connaissance par des personnes non autorisées peut porter un grave préjudice aux intérêts du pays.
+
+<sup>7</sup> Les commissions de surveillance prennent toutes mesures appropriées pour garantir le maintien du secret, conformément à l’art. 150, al. 3. À cet effet, ou si leur droit à l’information n’est pas suffisant pour leur permettre d’exercer leurs attributions en matière de haute surveillance, elles peuvent charger leurs délégations d’élucider une question particulière. Elles émettent des directives relatives au maintien du secret applicables dans leur domaine de compétences. Elles y restreignent en particulier l’accès aux co-rapports.
+
+[^153-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^153-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^153-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 154
+
+**Droit à l’information des délégations de surveillance**
+
+<sup>1</sup> Les délégations des commissions de surveillance ont accès à toutes les informations dont elles ont besoin pour exercer leurs attributions.
+
+<sup>2</sup>
+
+Outre le droit à l’information prévu aux art. 150 et 153, les délégations des commissions de surveillance ont le droit de demander:
+
+- a.
+
+  que leur soient remis:
+
+  - 1\. les procès-verbaux des séances du Conseil fédéral,
+  - 2\. les documents qui sont classés secrets pour des raisons relevant de la sécurité de l’État ou du renseignement, ou dont la prise de connaissance par des personnes non autorisées peut porter un grave préjudice aux intérêts du pays;
+
+- b. d’entendre des personnes en qualité de témoins; s’agissant des citations à comparaître et des mandats d’amener, l’art. 153, al. 3 et 4, est applicable par analogie.[^154-1]
+
+<sup>3</sup> Toutes les décisions du Conseil fédéral sont communiquées au fur et à mesure à la Délégation des finances et à la Délégation des Commissions de gestion, accompagnées des propositions et des co-rapports correspondants. Les délégations concernées fixent ensemble les modalités de la transmission, de la consultation et de l’archivage des documents.[^154-2]
+
+[^154-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+
+#### Art. 154a
+
+**Effets des enquêtes de la délégation des Commissions de gestion sur d’autres procédures ou investigations**[^154a-1]
+
+<sup>1</sup> Une enquête disciplinaire ou administrative de la Confédération ne peut être engagée ou poursuivie qu’avec l’autorisation de la délégation des Commissions de gestion, si elle concerne des affaires ou des personnes qui sont visées par une enquête de cette même délégation.
+
+<sup>2</sup> La délégation des Commissions de gestion statue sur l’autorisation après audition du Conseil fédéral.
+
+<sup>3</sup> S’il y a désaccord sur la nécessité d’obtenir une autorisation, la délégation des Commissions de gestion tranche à la majorité des deux tiers de ses membres.
+
+<sup>4</sup> Une enquête de la délégation des Commissions de gestion n’empêche pas l’engagement ou la poursuite d’une procédure judiciaire civile ou administrative, d’une enquête pénale préliminaire ou d’une procédure pénale.
+
+[^154a-1]: Introduit par le ch. I de la LF du 17 déc. 2004, en vigueur depuis le 1<sup>er</sup> mai 2005 ([RO 2005 4793](https://fedlex.data.admin.ch/eli/oc/2005/645); [FF 2004 1347](https://fedlex.data.admin.ch/eli/fga/2004/292)[1355](https://fedlex.data.admin.ch/eli/fga/2004/294)).
+
+#### Art. 155
+
+**Audition par les délégations des commissions de surveillance de témoins ou de personnes appelées à fournir des renseignements**
+
+<sup>1</sup> Avant toute audition, les délégations des commissions de surveillance déterminent si la personne concernée est entendue en qualité de témoin ou de personne appelée à fournir des renseignements.
+
+<sup>2</sup> L’audition d’un témoin n’est ordonnée formellement que s’il est établi qu’il n’existe aucun autre moyen de faire toute la lumière sur l’affaire à élucider. L’obligation de témoigner s’étend à toute personne concernée.
+
+<sup>3</sup> Lorsque l’enquête est dirigée uniquement ou essentiellement contre une personne en particulier, celle-ci ne peut être entendue qu’en qualité de personne appelée à fournir des renseignements.
+
+<sup>4</sup> Les témoins sont informés de leur obligation de déposer et de dire la vérité, et les personnes appelées à fournir des renseignements, de leur droit de refuser de déposer. L’art. 42, al. 1, de la loi fédérale de procédure civile fédérale du 4 décembre 1947[^155-1] relatif au droit de refuser de témoigner est réservé.
+
+<sup>5</sup> Les dépositions sont enregistrées en vue de l’établissement du procès-verbal. Celui-ci est soumis pour signature à la personne entendue.
+
+<sup>6</sup> La procédure et les droits des personnes concernées sont régis par les art. 166 à 171.
+
+[^155-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+
+#### Art. 156
+
+**Statut des personnes au service de la Confédération**
+
+<sup>1</sup> Toute personne au service de la Confédération est tenue de donner des renseignements complets et véridiques et de donner toutes les références aux documents utiles.
+
+<sup>2</sup> L’art. 42, al. 1, de la loi fédérale de procédure civile fédérale du 4 décembre 1947[^156-1] relatif au droit de refuser de témoigner est applicable par analogie.
+
+<sup>3</sup> Il est interdit de faire subir un quelconque préjudice à une personne au service de la Confédération en raison d’une déposition véridique qu’elle a faite devant une commission. Celle-ci est entendue avant qu’une procédure soit engagée contre la personne concernée en raison d’une telle déposition.
+
+<sup>4</sup> Les personnes au service de la Confédération sont, au sens de la présente loi, le personnel de la Confédération et les personnes qui sont chargées directement de tâches de droit public pour le compte de la Confédération. La nature du rapport de travail n’est pas déterminante.
+
+[^156-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+
+#### Art. 157
+
+**Avis de l’autorité concernée**
+
+L’autorité concernée a le droit de s’exprimer avant qu’une commission de surveillance ou sa délégation rende compte aux conseils de dysfonctionnements dans sa gestion des affaires ou dans sa gestion financière.
+
+#### Art. 158
+
+**Recommandations aux autorités responsables**
+
+<sup>1</sup> Les commissions de surveillance et leurs délégations peuvent adresser aux autorités responsables des recommandations touchant le domaine dans lequel elles exercent leurs attributions en matière de haute surveillance.
+
+<sup>2</sup> Ces autorités informent les commissions de surveillance et leurs délégations de la suite donnée à ces recommandations.
+
+<sup>3</sup> Les recommandations des commissions de surveillance et leurs délégations et les avis des autorités politiques responsables sont publiés pour autant qu’aucun intérêt digne de protection ne s’y oppose.
+
+### Chapitre 3 Représentation du Conseil fédéral à l’Assemblée fédérale
+
+#### Art. 159
+
+**Participation du Conseil fédéral aux délibérations des conseils**
+
+<sup>1</sup> En règle générale, le chef du département dont relève l’objet traité participe aux délibérations des conseils.
+
+<sup>2</sup> Tout chef de département peut se faire accompagner par des personnes au service de la Confédération ou par des experts. Exceptionnellement, et à la demande du chef de département, la parole peut être donnée à ces personnes ou experts lorsque la question traitée présente un caractère particulièrement technique.
+
+#### Art. 160
+
+**Participation du Conseil fédéral aux séances des commissions**
+
+<sup>1</sup> En règle générale, un membre du Conseil fédéral participe aux séances que les commissions consacrent aux objets que le Conseil fédéral a lui-même soumis à l’Assemblée fédérale ou sur lesquels il a émis un avis.
+
+<sup>2</sup> Sous réserve de l’accord du président de la commission concernée, il peut se faire représenter par une ou plusieurs personnes au service de la Confédération.
+
+<sup>3</sup> Les membres du Conseil fédéral ou leurs représentants peuvent se faire accompagner d’experts.
+
+#### Art. 161
+
+**Participation du chancelier de la Confédération aux délibérations des conseils ou des commissions**
+
+Le chancelier de la Confédération défend devant les conseils et les commissions les objets qui relèvent de la Chancellerie fédérale.
+
+## Titre 8 Relations entre l’Assemblée fédérale, les tribunaux fédéraux et l’Autorité de surveillance du Ministère public de la Confédération****
+
+[^tit8-1]
+
+[^tit8-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+#### Art. 162
+
+<sup>1</sup>
+
+Les dispositions suivantes relatives aux relations entre l’Assemblée fédérale et le Conseil fédéral s’appliquent par analogie aux relations entre l’Assemblée fédérale et les tribunaux fédéraux:
+
+- a. l’art. 142, al. 1, concernant le budget et le compte d’État;
+- b. les art. 144, al. 2, et 145, al. 2, concernant le rapport de gestion;
+- c. le titre 7, chap. 2, concernant les relations entre les commissions et le Conseil fédéral;
+- d. le titre 9, concernant la commission d’enquête parlementaire.
+
+<sup>2</sup> Le Tribunal fédéral charge un de ses membres de défendre devant les conseils et leurs commissions le projet de budget, le compte et le rapport de gestion des tribunaux fédéraux, ainsi que les avis émis par ceux-ci sur les interventions parlementaires ayant trait à sa gestion des affaires ou sa gestion financière.
+
+<sup>3</sup> En ce qui concerne les séances des commissions, le membre désigné peut s’y faire accompagner, ou, sous réserve de l’accord du président de la commission concernée, s’y faire représenter, par des personnes au service de la Confédération.
+
+<sup>4</sup> Les commissions donnent aux tribunaux fédéraux la possibilité de se prononcer lorsqu’elles procèdent à l’examen préalable d’actes qui concernent les compétences, lon organisation ou l’administration de ceux-ci.
+
+<sup>5</sup> Les al. 1 à 4 s’appliquent par analogie à l’Autorité de surveillance du Ministère public de la Confédération.[^162-1]
+
+[^162-1]: Introduit par l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+
+## Titre 9 Commission d’enquête parlementaire
+
+#### Art. 163
+
+**Mandat et constitution**
+
+<sup>1</sup> Dans l’exercice des attributions qui lui sont conférées en matière de haute surveillance, l’Assemblée fédérale peut, en cas d’événements d’une grande portée sur lesquels il est indispensable de faire la lumière, instituer une commission d’enquête parlementaire (CEP) commune aux deux conseils et la charger d’établir les faits et de réunir d’autres éléments d’appréciation.
+
+<sup>2</sup> La commission d’enquête est instituée après audition du Conseil fédéral par un arrêté fédéral simple. Cet arrêté définit le mandat confié à la commission d’enquête et les moyens financiers qui lui sont alloués.
+
+#### Art. 164
+
+**Organisation**
+
+<sup>1</sup> La commission d’enquête parlementaire est composée de députés des deux conseils, en nombre égal.
+
+<sup>2</sup> La désignation des membres de la commission d’enquête et de son collège présidentiel, d’une part, et les modalités de la procédure décisionnelle de la commission, d’autre part, sont régies respectivement par les art. 43, al. 1 à 3, et 92, al. 1 et 2, qui s’appliquent par analogie.
+
+<sup>3</sup> La commission d’enquête dispose de son propre secrétariat. Les Services du Parlement mettent à sa disposition le personnel dont elle a besoin. La commission peut engager du personnel supplémentaire sur la base de rapports de travail régis par le code des obligations[^164-1].
+
+[^164-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 165
+
+**Procédure**
+
+<sup>1</sup> Conformément à son mandat et à la présente loi, la commission d’enquête parlementaire détermine les mesures de procédure nécessaires à ses investigations.
+
+<sup>2</sup> Les autorités de la Confédération et des cantons sont tenues de prêter à la commission d’enquête l’aide juridique ou administrative dont elle a besoin.
+
+<sup>3</sup> Les principaux actes de procédure font l’objet d’un procès-verbal.
+
+#### Art. 166
+
+**Droit à l’information**
+
+<sup>1</sup> Pour remplir le mandat qui lui a été confié en vertu de l’art. 163, al. 2, la commission d’enquête parlementaire dispose du même droit à l’information que les délégations des commissions de surveillance (art. 150 et 153 à 156).
+
+<sup>2</sup> La commission d’enquête peut, selon le cas, confier à un chargé d’enquête le soin d’administrer les preuves. Celui-ci agit conformément au mandat que lui a confié la commission d’enquête et suivant ses instructions.
+
+<sup>3</sup> La commission d’enquête ne peut confier le soin d’entendre un témoin à un chargé d’enquête.
+
+<sup>4</sup> Les personnes interrogées par le chargé d’enquête ont le droit de refuser de répondre aux questions qui leur sont posées ou de remettre certains documents. Dans le cas où elles refusent, elles sont interrogées par la commission d’enquête.
+
+<sup>5</sup> Sauf disposition contraire de la présente loi, les art. 42 à 48 et 51 à 54 de la loi fédérale de procédure civile fédérale du 4 décembre 1947[^166-1] s’appliquent par analogie à l’administration des preuves.
+
+[^166-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+
+#### Art. 167
+
+**Droits du Conseil fédéral**
+
+<sup>1</sup> Le Conseil fédéral a le droit d’être présent à l’audition des témoins et des personnes appelées à fournir des renseignements, de leur poser des questions complémentaires et de consulter les documents remis à la commission d’enquête parlementaire ainsi que les rapports d’expertise et procès-verbaux d’audition qu’elle a établis.
+
+<sup>2</sup> Le Conseil fédéral peut commenter les conclusions de l’enquête devant la commission et adresser un rapport à l’Assemblée fédérale.
+
+<sup>3</sup> Le Conseil fédéral charge l’un de ses membres de le représenter devant la commission d’enquête. Celui-ci peut à son tour charger un agent de liaison d’exercer les droits conférés au Conseil fédéral en vertu de l’al. 1.
+
+#### Art. 168
+
+**Droits des personnes concernées**
+
+<sup>1</sup> La commission d’enquête parlementaire identifie les personnes dont les intérêts sont directement concernés par l’enquête et les en informe sans délai. Elles jouissent des droits visés à l’art. 167, al. 1, dans la mesure où elles sont concernées.
+
+<sup>2</sup> La commission d’enquête peut refuser entièrement ou partiellement à la personne concernée le droit d’être présente aux auditions et de consulter les documents si l’enquête en cours ou la protection de tiers l’exigent. Dans ce cas, elle lui communique oralement ou par écrit l’essentiel du contenu de ces auditions ou documents et lui donne la possibilité de s’exprimer ou de faire valoir d’autres moyens de preuve.
+
+<sup>3</sup> Les moyens de preuve qui n’ont pas été portés à la connaissance de la personne concernée ne peuvent être utilisés contre elle.
+
+<sup>4</sup> La commission d’enquête peut autoriser la personne concernée qui en fait la demande à se faire assister d’un avocat pour tout ou partie de la durée de la procédure, si cela semble nécessaire pour garantir la défense d’intérêts légitimes. L’avocat est uniquement autorisé à procéder à des réquisitions de preuve ou à poser des questions complémentaires.
+
+<sup>5</sup> Une fois achevées les investigations et avant que le rapport ne soit présenté aux conseils, les personnes auxquelles des reproches sont adressés sont admises à consulter les passages du rapport qui les concernent. La commission d’enquête leur donne la possibilité de s’exprimer oralement ou par écrit sur ces passages dans un délai approprié.
+
+<sup>6</sup> Le rapport de la commission rend compte des commentaires, oraux ou écrits, faits par les personnes mises en cause.
+
+#### Art. 169
+
+**Obligation de garder le secret**
+
+<sup>1</sup> Tant que le rapport adressé à l’Assemblée fédérale n’a pas été publié, toutes les personnes qui ont pris part aux séances ou aux auditions de la commission d’enquête parlementaire sont soumises à l’obligation de garder le secret. Les personnes interrogées ont notamment l’interdiction d’informer leurs supérieurs des questions qui leur ont été posées ou des documents qui leur ont été demandés.
+
+<sup>2</sup> Après que le rapport a été présenté aux conseils, les dispositions générales relatives à la confidentialité des séances de commission restent applicables.
+
+<sup>3</sup> Le président et le vice-président de la commission d’enquête, ou, s’ils ont quitté le conseil, le président et le vice-président de la délégation des Commissions de gestion, statuent sur les demandes de consultation des dossiers faites pendant les délais de protection prévus aux art. 9 à 12 de la loi du 26 juin 1998 sur l’archivage[^169-1].
+
+[^169-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 170
+
+**Faux témoignage et faux rapport**
+
+<sup>1</sup> Celui qui, étant témoin, aura fait un faux témoignage devant une commission d’enquête ou, étant expert, aura fourni un constat ou un rapport faux sera puni des peines prévues à l’art. 307 du code pénal[^170-1].
+
+<sup>2</sup> Celui qui, sans motif légal, refuse de faire une déclaration ou de remettre des documents sera puni des peines prévues à l’art. 292 du code pénal.
+
+<sup>3</sup> Les actes punissables, y compris la violation de l’obligation de garder le secret visée à l’art. 169, al. 1, sont soumis à la juridiction pénale fédérale.
+
+[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 171
+
+**Effets sur d’autres procédures ou investigations**
+
+<sup>1</sup> Lorsque l’Assemblée fédérale a décidé d’instituer une commission d’enquête parlementaire aucune autre commission n’est plus autorisée à procéder à des investigations sur les événements qui font l’objet du mandat confié à cette commission d’enquête.
+
+<sup>2</sup> L’institution d’une commission d’enquête n’empêche pas l’engagement ou la poursuite d’une procédure judiciaire civile ou administrative, d’une enquête pénale préliminaire ou d’une procédure pénale.
+
+<sup>3</sup> Une enquête disciplinaire ou administrative de la Confédération ne peut être engagée qu’avec l’autorisation de la commission d’enquête si elle concerne des affaires ou des personnes qui sont ou ont été visées par l’enquête de la commission. Les procédures en cours doivent être interrompues jusqu’à ce que la commission d’enquête autorise leur reprise.
+
+<sup>4</sup> S’il y a désaccord sur la nécessité d’obtenir une autorisation, la commission d’enquête statue. Si la commission d’enquête a été dissoute, le président et le vice-président de la délégation des Commissions de gestion statuent.
+
+## Titre 10 Dispositions finales
+
+#### Art. 172
+
+**Abrogation et modification du droit en vigueur**
+
+L’abrogation et la modification du droit en vigueur sont réglées en annexe.
+
+#### Art. 173
+
+**Dispositions transitoires**
+
+### Disposition transitoire concernant l’art. 13 (Sanctions)
+
+L’art. 13 n’est applicable qu’aux manquements commis après l’entrée en vigueur de la présente loi.
+
+### Disposition transitoire concernant les art. 14 et 15 (Incompatibilités)
+
+<sup>1</sup> Les membres du Conseil des États dont le mandat n’a pas pris fin à la date du premier renouvellement intégral du Conseil national intervenant après l’entrée en vigueur des art. 14 et 15 restent soumis à l’ancien droit en ce qui concerne les incompatibilités.
+
+<sup>2</sup> Si la présente loi entre en vigueur après le 31 juillet de l’année au cours de laquelle intervient le renouvellement intégral du Conseil national, les art. 14 et 15 entrent en vigueur le premier jour de la session qui suit le renouvellement intégral suivant.
+
+### Disposition transitoire concernant le titre 5 (Fonctionnement de l’Assemblée fédérale)
+
+Les objets soumis à délibération qui sont pendants devant l’un des conseils au moment de l’entrée en vigueur de la présente loi sont traités conformément à l’ancien droit.
+
+### Disposition transitoire concernant le titre 9 (Commission d’enquête parlementaire)
+
+Les art. 163 à 171 ne sont applicables qu’aux commissions instituées après l’entrée en vigueur de la présente loi.
+
+### 5.** Disposition transitoire concernant l’art. 40a (Commission judiciaire)
+
+[^173-subdivu5-1]
+
+[^173-subdivu5-1]: Introduit par l’art. 5 ch. 1 de la LF du 18 mars 2005 concernant la mise en place du TAF, avec effet du 1<sup>er</sup> oct. 2005 au 31 déc. 2006 ([RO 2005 4603](https://fedlex.data.admin.ch/eli/oc/2005/599); [FF 2004 4481](https://fedlex.data.admin.ch/eli/fga/2004/845)).
+
+<sup>1</sup> La commission judiciaire est chargée de la constitution initiale des cours du Tribunal administratif fédéral.
+
+<sup>2</sup> Lors de la constitution des cours, elle tient compte des compétences des juges et de la représentation des langues officielles.
+
+### 6.** Disposition transitoire concernant les art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3 (Initiative populaire)
+
+[^173-subdivu6-1]
+
+[^173-subdivu6-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+
+Les modifications apportées aux art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3, s’appliquent aux initiatives populaires pour lesquelles le Conseil fédéral, au moment de l’entrée en vigueur de la modification du 3 octobre 2008, n’a pas encore présenté à l’Assemblée fédérale de projet d’arrêté fédéral concernant l’initiative.
+
+### 7.** Disposition transitoire relative à la modification du 25 septembre 2009 concernant l’art. 105, al. 1<sup>bis</sup> (prorogation du délai imparti pour traiter une initiative populaire)
+
+[^173-subdivu7-1]
+
+[^173-subdivu7-1]: Introduit par le ch. II de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire), en vigueur depuis le 1<sup>er</sup> fév. 2010 ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+
+Les initiatives populaires qui sont pendantes à l’entrée en vigueur de la modification du 25 septembre 2009 de la présente loi sont traitées conformément au nouveau droit.
+
+#### Art. 174
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> La Conférence de coordination fixe la date de l’entrée en vigueur.
+
+<sup>3</sup> Les art. 14, 15 et 61 entrent en vigueur le premier jour de la session qui suit le premier renouvellement intégral du Conseil national intervenant après l’entrée en vigueur de la présente loi[^174-1]. Simultanément, l’art. 18 de la loi fédérale du 17 décembre 1976 sur les droits politiques[^174-2] (annexe ch. II 1) est abrogé.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> décembre 2003[^174-3]
+
+[^174-1]: Premier jour de la session d’hiver 2007, le 3 déc. 2007.
+[^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^174-3]: A de la Conférence de coordination de l’Ass. féd. du 16 sept. 2002
+
+## Disposition transitoire de la modification du 5 octobre 2007****
+
+[^u1-1]
+
+[^u1-1]: [RO 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1379](https://fedlex.data.admin.ch/eli/fga/2007/198)[2025](https://fedlex.data.admin.ch/eli/fga/2007/329)
+
+L’art. 122 dans sa version du 5 octobre 2007 ne s’applique qu’aux motions qui n’ont pas encore été adoptées par les deux conseils au moment de l’entrée en vigueur de la présente loi.
+
+## Disposition transitoire relative à la modification du 17 juin 2011****
+
+[^u2-1]
+
+[^u2-1]: [RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)
+
+Les requêtes visant à lever l’immunité, ainsi que les requêtes de nature analogue qui sont pendantes au moment de l’entrée en vigueur de la modification du 17 juin 2011 sont régies par l’ancien droit.
+
+## Disposition transitoire concernant les art. 109, al. 2 et 3<sup>bis</sup>, et 116, al. 3<sup>bis</sup>, selon la modification du 21 juin 2013****
+
+[^u3-1]
+
+[^u3-1]: [RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)
+
+Les initiatives parlementaires et les initiatives des cantons qui, au moment de l’entrée en vigueur de la présente modification, avaient déjà été transmises à une commission aux fins d’examen préalable sont régies par l’ancien droit.
+
+Annexe
+
+(art. 172)
+
+## Abrogation et modification du droit en vigueur
+
+I
+
+Sont abrogés:
+
+- 1\. La loi du 26 mars 1934 sur les garanties politiques[^annexu1-lvlu1-1].
+- 2\. Le décret de l’Assemblée fédérale du 15 novembre 1848 concernant le serment à prêter par les autorités supérieures de la Confédération[^annexu1-lvlu1-2].
+- 3\. La loi du 23 mars 1962 sur les rapports entre les conseils[^annexu1-lvlu1-3]. L’art. 8<sup>septies</sup> reste en vigueur jusqu’à l’entrée en vigueur de l’art. 61 de la loi sur le Parlement (art. 174, al. 3).
+
+II
+
+Les actes mentionnés ci-après sont modifiés comme suit:
+
+...[^annexu1-lvlu1-4]
+
+[^annexu1-lvlu1-1]: [RS **1** 141; [RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 1 [414](https://fedlex.data.admin.ch/eli/oc/2000/91), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 3]
+[^annexu1-lvlu1-2]: [RS **1** 433]
+[^annexu1-lvlu1-3]: [[RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 ch. 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annexu1-lvlu1-4]: Les mod. peuvent être consultées au [RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).

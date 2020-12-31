@@ -1,0 +1,367 @@
+---
+sr: "930.111"
+title: Ordonnance du 19 mai 2010 sur la sécurité des produits (OSPro)
+short: OSPro
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
+language: fr
+version: 2018-04-21
+adopted: 2010-05-19
+in_force: 2010-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20180421/fr/xml/fedlex-data-admin-ch-eli-cc-2010-348-20180421-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20180421/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la sécurité des produits
+
+(OSPro)
+
+du 19 mai 2010 (Etat le 21 avril 2018)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 4, al. 1, les art. 7, 9 et 14, al. 1, de la loi du 12 juin 2009 sur la sécurité des produits (LSPro)[^ingress-1], en application de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-2],
+
+arrête:
+
+[^ingress-1]: <sup>RS</sup> <sup>**9**</sup>**30.11**
+[^ingress-2]: [<sup>RS</sup> <sup>946.51</sup>](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Section 1 Objet
+
+#### Art. 1
+
+La présente ordonnance contient:
+
+- a. des prescriptions générales sur l’exécution de la LSPro;
+- b. des prescriptions sur la mise sur le marché, qui s’appliquent de manière subsidiaire pour autant que des prescriptions spécifiques n’aient pas été fixées selon l’art. 4 LSPro ou selon des prescriptions légales similaires sur la sécurité de produits;
+- c.[^1-1] …
+- d.
+
+  des prescriptions sur la surveillance du marché:
+
+  - 1\. des machines,
+  - 2\. des ascenseurs,
+  - 3\. des appareils à gaz,
+  - 4\. des équipements sous pression, récipients à pression simples,
+  - 5\. des équipements de protection individuelle (EPI),
+  - 6\. ainsi que d’autres produits, dans la mesure où ils n’entrent pas dans le champ d’application d’autres prescriptions fédérales.
+
+[^1-1]: Abrogée par l’art. 7 de l’O du 25 oct. 2017 sur les appareils à gaz, avec effet au 21 avr. 2018 ([RO 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
+
+## Section 2 Prescriptions générales sur l’exécution de la LSPro
+
+#### Art. 2
+
+**Principe**
+
+Si un organe d’exécution est chargé de l’exécution d’un autre acte législatif sur la sécurité de produits, il exécute aussi dans son champ de compétences, la LSPro et ses dispositions d’exécution
+
+#### Art. 3
+
+**Coordination de l’exécution**
+
+<sup>1</sup> Le Secrétariat d’Etat à l’économie (SECO) coordonne l’exécution de la LSPro en concertation avec les organes d’exécution. Il prend en compte pour cela les prescriptions nationales et les accords internationaux dans le domaine de la sécurité des produits et de la libre circulation des marchandises.
+
+<sup>2</sup> Il peut prendre part à des systèmes d’information et d’exécution nationaux et internationaux. Il peut imposer aux organes d’exécution ainsi qu’ à d’autres autorités fédérales de collaborer.
+
+<sup>3</sup> Pour l’échange national et international de données selon l’art. 13, al. 1, LSPro, les organes d’exécution peuvent permettre à d’autres autorités d’ accéder à des données par un traitement automatisé.
+
+#### Art. 4
+
+**Centrale d’annonce et d’information pour la sécurité des produits**
+
+<sup>1</sup> Le SECO et le Bureau fédéral de la consommation (BFC) exploitent une centrale d’annonce et d’information pour la sécurité des produits en commun. Ils adjoignent les organes chargés d’exécution de la LSPro.
+
+<sup>2</sup> Les organes d’exécution transmettent sans retard les communications selon l’art. 8, al. 5, LSPro et les décisions de portée générale selon l’art. 10, al. 5, LSPro à la centrale d’annonce et d’information.
+
+#### Art. 5
+
+**Contrôle et mesures administratives**
+
+<sup>1</sup> Les organes de surveillance fédéraux compétents prennent des mesures administratives selon l’art. 10, al. 5, LSPro sous la forme d’une décision de portée générale.
+
+<sup>2</sup> Cette décision est publiée dans la Feuille fédérale une première fois après la procédure administrative puis une seconde fois lors de son entrée en force.
+
+## Section 3 Prescriptions de la mise sur le marché applicables à titre subsidiaire
+
+#### Art. 6
+
+**Champ d’application**
+
+Les prescriptions de cette section s’appliquent à tous les produits pour autant que des prescriptions spécifiques n’aient pas été fixées à l’art. 4 LSPro, ou dans des prescriptions de loi similaires sur la sécurité de produits.
+
+#### Art. 7
+
+**Exceptions pour les expositions et les présentations**
+
+Les produits qui ne remplissent pas les conditions pour la mise sur le marché peuvent être exposés ou présentés:
+
+- a. si un panneau indique clairement que la preuve de leur conformité aux exigences légales n’a pas été apportée et que pour cette raison ils ne peuvent pas encore être mis sur le marché; et
+- b. si les mesures nécessaires sont prises pour garantir la sécurité et la santé des personnes.
+
+#### Art. 8
+
+**Langue des instructions**
+
+<sup>1</sup> Les notices d’instruction, d’utilisation et d’entretien ainsi que les brochures d’information doivent être rédigées dans la langue officielle de la Suisse de la partie du pays où il est prévu que le produit soit utilisé.
+
+<sup>2</sup> Les mises en garde et les précautions d’emploi sous forme de texte contenus dans les instructions mentionnées doivent être rédigées dans toutes les langues officielles de la Suisse. Des symboles peuvent être utilisés en lieu et place du texte s’ils permettent de garantir une information suffisante.
+
+<sup>3</sup> Si l’installation et la maintenance d’un produit sont effectuées exclusivement par du personnel spécialisé du producteur ou de son représentant établi en Suisse, les instructions concernant ces travaux peuvent être rédigées dans la langue que ce personnel comprend. Les renseignements à communiquer aux organes d’exécution doivent leur être fournis dans une langue officielle de la Suisse ou en anglais.
+
+#### Art. 9
+
+**Déclaration de conformité**
+
+<sup>1</sup>
+
+La déclaration de conformité atteste:
+
+- a. qu’un produit remplit les exigences essentielles de sécurité et de santé; et
+- b. que l’évaluation de la conformité a été effectuée correctement.
+
+<sup>2</sup> La déclaration de conformité est établie par le producteur ou son représentant établi en Suisse.
+
+<sup>3</sup> Une déclaration de conformité unique peut être établie lorsqu’un produit est soumis à plusieurs réglementations qui exigent une évaluation de la conformité.
+
+#### Art. 10
+
+**Documentation technique et déclaration de la conformité**
+
+<sup>1</sup> Aux fins d’apporter la preuve de la conformité aux exigences visées aux art. 3 à 5 LSPro, le responsable de la mise sur le marché de produit doit être en mesure de présenter toute la documentation technique nécessaire et la déclaration de conformité pendant la durée d’utilisation indiquée ou raisonnablement prévisible mais au moins pendant dix ans à partir de la production. S’il s’agit de fabrication en série, le délai de dix ans commence à courir avec la production du dernier exemplaire.
+
+<sup>2</sup> Les documentations techniques, les déclarations de conformité et les renseignements nécessaires à leur évaluation doivent être fournis aux organes d’exécution dans une des langues officielles de la Suisse ou en anglais.
+
+#### Art. 11
+
+**Langues officielles**
+
+Les langues officielles de la Suisse au sens des art. 8 à 10 de la présente ordonnance sont l’allemand, le français et l’italien.
+
+## Section 4 …
+
+#### Art. 12 à 18
+
+[^1218-1]
+
+[^1218-1]: Abrogés par l’art. 7 de l’O du 25 oct. 2017 sur les appareils à gaz, avec effet au 21 avr. 2018 ([RO 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
+
+## Section 5 Surveillance du marché
+
+#### Art. 19
+
+**Champ d’application**
+
+Les prescriptions de cette section s’appliquent:
+
+- a. aux machines au sens de l’ordonnance du 2 avril 2008 sur les machines[^19-1];
+- b. aux ascenseurs au sens de l’ordonnance du 23 juin 1999 sur les ascenseurs[^19-2];
+- c. aux appareils à gaz au sens de l’ordonnance du 25 octobre 2017 sur les appareils à gaz[^19-3];
+- d. aux équipements sous pression au sens de l’ordonnance du 20 novembre 2002 relative aux équipements sous pression[^19-4];
+- e. aux récipients à pression simples au sens de l’ordonnance du 20 novembre 2002 sur les récipients à pression simples[^19-5];
+- f. aux équipements de protection individuelle (EPI) au sens de l’ordonnance du 25 octobre 2017 sur les EPI[^19-6];
+- g. aux autres produits, dans la mesure où ils n’entrent pas dans le champ d’application des prescriptions figurant aux let. a à f ou dans celui d’autres prescriptions fédérales.
+
+[^19-1]: [<sup>RS</sup> <sup>819.14</sup>](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^19-2]: **[**[RO 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 al. 1 ch. 6, [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558), [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)annexe 2 ch. 2, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 7, [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)ch. III. [RO 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)art. 9]. Voir actuellement l’O du 25 nov. 2015 ([RS 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
+[^19-3]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^19-4]: [[RO 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 6. [RO 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 al. 1]. Voir actuellement l’O du 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
+[^19-5]: [[RO 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 6. [RO 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Voir actuellement l’O du 25 nov. 2015 sur les récipients à pression ([RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
+[^19-6]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+#### Art. 20
+
+**Organes de contrôle**
+
+<sup>1</sup>
+
+Sont chargés de contrôler l’application des prescriptions sur la mise sur le marché:
+
+- a. la Caisse nationale suisse d’assurance en cas d’accident (CNA);
+- b. le Bureau suisse de prévention des accidents (bpa);
+- c. les organisations spécialisées désignées par le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^20-1].
+
+<sup>2</sup> Le DEFR règle les compétences des organes de contrôle et convient avec eux de l’étendue et du financement des activités de contrôle.
+
+[^20-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 21
+
+**Participation d’autres autorités et organisations**
+
+<sup>1</sup> Les organes d’exécution prévus par la loi du 13 mars 1964 sur le travail[^21-1] veillent, dans le cadre de leurs activités, à ce que les employeurs utilisent des produits répondant aux normes de sécurité.
+
+<sup>2</sup> Ils notifient au SECO et aux organes de contrôle les produits présentant ou supposés présenter des défectuosités;
+
+<sup>3</sup> Le DEFR peut demander le concours d’autres autorités et organisations et conclure à cet effet des accords avec elles.
+
+<sup>4</sup> Les organes de contrôle peuvent demander à l’Administration fédérale des douanes de leur fournir, pendant un temps déterminé, des renseignements sur les importations de produits bien définis.
+
+[^21-1]: [<sup>RS</sup> <sup>822.11</sup>](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+
+#### Art. 22
+
+**Tâches et compétences des organes de contrôle**
+
+<sup>1</sup> Les organes de contrôle vérifient, par sondages, le respect des prescriptions de sécurité auxquelles doivent répondre les produits. Ils procèdent en outre à un contrôle s’il y a des raisons de penser que des produits ne répondent pas aux prescriptions.
+
+<sup>2</sup>
+
+Le contrôle selon l’al. 1 consiste:
+
+- a.
+
+  à s’assurer formellement que:
+
+  - 1\. la déclaration de conformité est disponible, dans la mesure où elle est demandée, et qu’elle correspond aux prescriptions légales, et
+  - 2\. que la documentation technique nécessaire est complète;
+
+- b. à effectuer, si nécessaire, un contrôle visuel et un contrôle du fonctionnement;
+- c. à procéder, si nécessaire, à un second contrôle du produit contesté.
+
+<sup>3</sup>
+
+Les organes de contrôle sont notamment habilités, dans le cadre du contrôle:
+
+- a. à exiger les documents et informations attestant la conformité des produits;
+- b. à prélever des échantillons;
+- c. à effectuer des vérifications;
+- d. ils peuvent pénétrer dans les locaux de l’entreprise pendant les heures de travail habituelles.
+
+<sup>4</sup>
+
+Les organes de contrôle peuvent demander une vérification technique du produit s’ils doutent qu’un produit:
+
+- a. corresponde à la documentation remise; ou
+- b. corresponde aux prescriptions en vigueur bien qu’une documentation correcte ait été remise.
+
+<sup>5</sup>
+
+Ils ordonnent les mesures nécessaires selon l’art. 10, al. 3 et 4, LSPro si:
+
+- a. le responsable de la mise sur le marché ne fournit pas ou pas de manière complète les documents demandés conformément à l’al. 3 dans le délai imparti par les organes de contrôle; ou que
+- b. le produit ne correspond pas aux prescriptions de la LSPro et de l’ordonnance qui lui est afférente.
+
+<sup>6</sup> Avant d’ordonner des mesures, ils donnent au responsable de la mise sur le marché l’occasion de donner son avis.
+
+#### Art. 23
+
+**Procédure des organes de contrôle**
+
+La loi fédérale du 20 décembre 1968 sur la procédure administrative[^23-1] s’applique aussi aux organes de contrôle qui ne sont pas soumis au droit public.
+
+[^23-1]: [<sup>RS</sup> <sup>172.021</sup>](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 24
+
+**Coordination et information des organes de contrôle**
+
+<sup>1</sup> Les organes de contrôle s’informent mutuellement et informent le SECO.
+
+<sup>2</sup> Ils signalent au SECO les produits qui ne répondent pas aux prescriptions de sécurité et lui indiquent les mesures qui s’imposent.
+
+<sup>3</sup> S’ils prononcent une décision, ils en font parvenir un double au SECO.
+
+#### Art. 25
+
+**Autorité de surveillance**
+
+<sup>1</sup> La surveillance de l’exécution des prescriptions de cette section incombe au SECO.
+
+<sup>2</sup> Le SECO veille à la coordination de l’activité des organes de contrôle.
+
+<sup>3</sup> Il peut émettre des instructions relatives à la surveillance du marché.
+
+#### Art. 26
+
+**Financement de l’exécution**
+
+Le DEFR règle le financement de l’exécution de la surveillance du marché.
+
+#### Art. 27
+
+**Régime des émoluments**
+
+Les autorités lèvent des émoluments pour:
+
+- a. des contrôles, s’il s’avère que le produit ne correspond pas aux prescriptions;
+- b. des décisions de l’édition des déclarations de conformité et des documentations techniques;
+- c. d’autres décisions et mesures selon l’art. 10 LSPro provoquées par le responsable de la mise sur le marché.
+
+#### Art. 28
+
+**Calcul des émoluments en fonction du temps investi**
+
+<sup>1</sup>
+
+Les émoluments suivants sont calculés en fonction du temps consacré:
+
+- a. les émoluments selon art. 27;
+- b. les émoluments pour la désignation et les contrôles d’organismes d’évaluation de la conformité selon les art. 24 à 33 OAccD[^28-1], qui se rapportent à des produits conformément à cette section.
+
+<sup>2</sup> Le taux horaire est de 200 francs.
+
+<sup>3</sup> Un supplément allant jusqu’à 50 % de l’émolument ordinaire peut être perçu pour les contrôles urgents ou qui doivent être effectués en dehors des horaires de travail normaux.
+
+[^28-1]: [<sup>RS</sup> <sup>946.512</sup>](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 29
+
+**Applicabilité de l’ordonnance générale sur les émoluments**
+
+<sup>1</sup> Sauf disposition particulière de la présente ordonnance, les dispositions de l’ordonnance générale du 8 septembre 2004[^29-1] sur les émoluments (OGEmol) s’appliquent.
+
+<sup>2</sup> Les art. 2 et 6 à 14 de l’OGEmol s’appliquent par analogie aux contrôles et aux décisions des organes de contrôle en vertu de l’art. 20.
+
+[^29-1]: [<sup>RS</sup> <sup>172.041.1</sup>](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+## Section 6 Dispositions finales
+
+#### Art. 30
+
+**Abrogation et modification du droit en vigueur**
+
+L’abrogation et la modification du droit en vigueur sont réglées à l’annexe 4.
+
+#### Art. 31
+
+**Dispositions transitoires**
+
+Les produits qui remplissent les exigences du droit en vigueur préalablement mais pas celles du nouveau droit peuvent être mis sur le marché jusqu’au 31 décembre 2011.
+
+#### Art. 32
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2010.
+
+Annexe 1 à 3*[^t-1]*
+
+[^t-1]: Abrogées par l’art. 7 de l’O du 25 oct. 2017 sur les appareils à gaz, avec effet au 21 avr. 2018 ([RO 2017 5865](https://fedlex.data.admin.ch/eli/oc/2017/636)).
+
+Annexe 4
+
+(art. 30)
+
+## Abrogation et modification du droit en vigueur
+
+I
+
+Les actes suivants sont abrogés:
+
+- 1\. l’ordonnance du 12 juin 1995 sur la sécurité d’installations et d’appareils techniques[^annex4-lvlu1-1];
+- 2\. l’ordonnance du DFE du 12 juin 1995 sur les procédures d’évaluation de la conformité des appareils à gaz et des équipements de protection individuelle[^annex4-lvlu1-2];
+- 3\. l’ordonnance du DFE du 16 juin 2006 relative aux émoluments perçus en matière d’installations et d’appareils techniques[^annex4-lvlu1-3].
+
+II
+
+Les ordonnances suivantes sont modifiées comme suit:
+
+...[^annex4-lvlu1-4]
+
+[^annex4-lvlu1-1]: [[RO 1995 2770](https://fedlex.data.admin.ch/eli/oc/1995/2770_2770_2770), [1996 1867](https://fedlex.data.admin.ch/eli/oc/1996/1867_1867_1867), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 8 et 22 al. 1 ch. 5, **2002** 853, **2008** 1785 annexe 2 ch. 1].
+[^annex4-lvlu1-2]: <sup>[</sup>[<sup>RO</sup> <sup>1995</sup> <sup>27</sup>83](https://fedlex.data.admin.ch/eli/oc/1995/2783_2783_2783), [2009 2571](https://fedlex.data.admin.ch/eli/oc/2009/336)].
+[^annex4-lvlu1-3]: [<sup>RO</sup> <sup>**2**</sup>**006** <sup>2</sup>681]
+[^annex4-lvlu1-4]: Les mod. peuvent être consultées au [RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348).

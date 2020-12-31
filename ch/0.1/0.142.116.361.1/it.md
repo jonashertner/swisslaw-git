@@ -1,0 +1,51 @@
+---
+sr: "0.142.116.361.1"
+title: "Scambio di note del 13 e 24 giugno 1996 che modifica il Trattato d'amicizia, di commercio e di domicilio fra la Confederazione Svizzera e il Regno dei Paesi Bassi"
+eli: "https://fedlex.data.admin.ch/eli/cc/1998/2316_2316_2316"
+language: it
+version: 1997-01-10
+adopted: 1996-06-24
+in_force: 1997-01-10
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2316_2316_2316/19970110/it/xml/fedlex-data-admin-ch-eli-cc-1998-2316_2316_2316-19970110-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2316_2316_2316/19970110/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Scambio di note del 13 e 24 giugno 1996 che modifica il Trattato d’amicizia, di commercio e di domicilio fra la Confederazione Svizzera e il Regno dei Paesi Bassi
+
+Entrato in vigore mediante scambio di note il 10 gennaio 1997
+
+(Stato 10 gennaio 1997)
+
+Traduzione[^ingress-1]
+
+<table>
+<tr><td>Ambasciata di Svizzera L’Aia</td><td>L’Aia, 24 giugno 1996 Ministero degli Affari Esteri del Regno dei Paesi Bassi L’Aia</td></tr>
+</table>
+
+L’Ambasciata di Svizzera presenta i suoi complimenti al Ministero degli Affari esteri del Regno dei Paesi Bassi e si pregia dichiarare ricevuta la nota n. DVE/VV-113916 del 13 giugno 1996 del Ministero concernente il Trattato d’amicizia, di domicilio e di commercio fra il Regno dei Paesi Bassi e la Confederazione Svizzera concluso a Berna il 19 agosto 1875[^ingress-2] del seguente tenore:
+
+-
+
+  «Il Ministero degli Affari Esteri del Regno dei Paesi Bassi presenta i suoi complimenti all’Ambasciata di Svizzera e, riferendosi al Trattato d’amicizia, di domicilio e di commercio fra il Regno dei Paesi Bassi e la Confederazione Svizzera concluso a Berna il 19 agosto 1875, ha l’onore di comunicare quanto segue:
+
+  - 1\.
+
+    Dato che il Regno dei Paesi Bassi (per i Paesi Bassi) è membro delle Comunità europee e che la Comunità economica europea (CEE), sulla base dell’articolo 113 del Trattato istitutivo della Comunità economica europea, ha concluso il 22 luglio 1972[^ingress-3] a Bruxelles un Accordo con la Confederazione Svizzera per l’emendamento del Trattato d’amicizia, di domicilio e di commercio fra il Regno dei Paesi Bassi e la Confederazione Svizzera concluso a Berna il 19 agosto 1875, le due Parti convengono di modificare il detto Trattato d’amicizia come segue:
+
+    - a) Gli articoli 2 e 3 del Trattato sono soppressi.
+    - b) Nell’articolo 4 del Trattato è soppressa la frase: «al commercio, ai prodotti del suolo o dell’industria».
+
+  - Tuttavia, per quanto concerne il Regno dei Paesi Bassi, il Trattato rimane applicabile senza modifica alcuna alle Antille olandesi e ad Aruba.
+  - 2\. Tra le autorità federali svizzere e le autorità competenti del Regno dei Paesi Bassi è stato istituito un Comitato bilaterale che si riunisce su richiesta di una delle Parti. Il Comitato tratta le questioni di reciproco interesse, di importanza generale bilaterale o multilaterale, fatte salve le prerogative del Comitato misto Svizzera/CEE stabilito dall’Accordo di libero scambio del 22 luglio 1972. Esso contribuisce alla ricerca di soluzioni accettabili per ambo le Parti e concernenti i problemi che si pongono nelle relazioni bilaterali.
+
+- Se il Governo della Confederazione Svizzera condivide quanto precede, il Ministero si pregia di proporre che la presente nota e quella di risposta dell’Ambasciata costituiscano un accordo fra il Regno dei Paesi Bassi (per i Paesi Bassi) e la Confederazione Svizzera, che entrerà in vigore alla data alla quale le due Parti si saranno comunicate per scritto l’adempimento delle condizioni richieste dalla rispettiva Costituzione».
+
+In risposta alla nota, l’Ambasciata si onora di comunicare al Ministero che il Governo della Confederazione Svizzera accetta la proposta contenuta nella nota e che la nota del Ministero nonché quella di risposta costituiscono un accordo fra la Confederazione Svizzera e il Regno dei Paesi Bassi (per i Paesi Bassi) che entrerà in vigore alla data alla quale le due Parti si saranno comunicate per scritto l’adempimento delle condizioni richieste dalla rispettiva Costituzione.
+
+L’Ambasciata coglie l’occasione per rinnovare al Ministero degli affari esteri l’assicurazione della sua massima considerazione.
+
+[^ingress-1]: RU **1998** 2316 Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^ingress-2]: [RS 0.142.116.361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/358)
+[^ingress-3]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)

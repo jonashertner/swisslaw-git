@@ -1,0 +1,138 @@
+---
+sr: "513.73"
+title: "Ordinanza del 3 settembre 1997 sull'impiego della truppa per la protezione di persone e di beni (OPPB)"
+short: OPPB
+eli: "https://fedlex.data.admin.ch/eli/cc/1997/2147_2147_2147"
+language: it
+version: 1997-10-01
+adopted: 1997-09-03
+in_force: 1997-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2147_2147_2147/19971001/it/xml/fedlex-data-admin-ch-eli-cc-1997-2147_2147_2147-19971001-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2147_2147_2147/19971001/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sull’impiego della truppa per la protezione di persone e di beni
+
+(OPPB)
+
+del 3 settembre 1997 (Stato 1° ottobre 1997)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 28 capoverso 3 e 150 capoverso 1 della legge militare[^ingress-1],
+
+ordina:
+
+[^ingress-1]: RU **1997** 2147 RS **510.10**
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza regola l’impiego della truppa per proteggere persone e beni degni di particolare protezione, a sostegno della polizia nel servizio d’appoggio.
+
+#### Art. 2
+
+**Compiti e condizioni d’impiego**
+
+<sup>1</sup>
+
+La truppa può essere impiegata per svolgere i compiti seguenti:
+
+- a. protezione di opere;
+- b. protezione di conferenze;
+- c. protezione di persone;
+- d. servizio di scorta;
+- e. altri compiti analoghi.
+
+<sup>2</sup> La truppa può essere impiegata unicamente per svolgere compiti per i quali è stata istruita e dotata di un equipaggiamento adeguato.
+
+<sup>3</sup> Non è consentito impiegare formazioni di reclute.
+
+#### Art. 3
+
+**Procedura**
+
+<sup>1</sup> Il Governo cantonale o i dipartimenti federali indirizzano la loro richiesta d’aiuto al Consiglio federale.
+
+<sup>2</sup>
+
+Il Consiglio federale decide in merito alle richieste:
+
+- a. del Governo cantonale: su proposta del Dipartimento federale di giustizia e polizia (DFGP) e del Dipartimento federale della difesa, della protezione della popolazione e dello sport[^3-1] (DDPS);
+- b. dei dipartimenti federali: su proposta del DFGP, del DDPS e dei dipartimenti richiedenti.
+
+[^3-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997. Di detta mod. è stato tenuto conto in tutto il presente testo.
+
+#### Art. 4
+
+**Designazione e subordinazione del comandante**
+
+<sup>1</sup> Il Consiglio federale designa il comandante.
+
+<sup>2</sup> Il DDPS regola i rapporti di subordinazione generali.
+
+#### Art. 5
+
+**Mandato**
+
+<sup>1</sup> Le autorità civili, dopo aver consultato il DDPS, impartiscono per scritto il mandato alla truppa assegnata.
+
+<sup>2</sup>
+
+Il mandato regola segnatamente:
+
+- a. le competenze degli organi civili e militari interessati;
+- b. i dettagli concernenti i rapporti di subordinazione per l’impiego;
+- c. i poteri di polizia e l’uso delle armi nell’ambito dell’ordinanza del 26 ottobre 1994[^5-1] concernente i poteri di polizia dell’esercito;
+- d. i rapporti di servizio con le autorità civili.
+
+[^5-1]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+
+#### Art. 6
+
+**Responsabilità**
+
+<sup>1</sup> La responsabilità per l’impiego della truppa incombe alle autorità civili.
+
+<sup>2</sup> Il comandante è responsabile per la condotta della truppa.
+
+#### Art. 7
+
+**Pianificazione e condotta dell’impiego**
+
+<sup>1</sup> Il comandante pianifica l’impiego d’intesa con la polizia.
+
+<sup>2</sup> Di regola, il capo militare comanda la truppa nell’impiego. Le deroghe sono regolate nel mandato.
+
+#### Art. 8
+
+**Mezzi per l’impiego**
+
+Le autorità civili mettono a disposizione della truppa tutti i mezzi necessari e disponibili per l’adempimento del mandato.
+
+#### Art. 9
+
+**Informazione**
+
+<sup>1</sup> Prima e durante l’impiego, le autorità civili informano la popolazione sui compiti e sulle attività della truppa.
+
+<sup>2</sup> Esse insistono segnatamente sull’obbligo di conformarsi alle ingiunzioni della truppa e sulle conseguenze in caso di trasgressione.
+
+#### Art. 10
+
+**Statuto dei militari**
+
+<sup>1</sup> Il comandante può ordinare restrizioni adeguate all’impiego, segnatamente nell’ambito della tutela del segreto nonché dei congedi e della libera uscita.
+
+<sup>2</sup> Se l’impiego lo esige, possono essere ordinate ulteriori restrizioni.
+
+#### Art. 11
+
+**Disposizioni finali**
+
+<sup>1</sup> Il DDPS è incaricato dell’esecuzione della presente ordinanza.
+
+<sup>2</sup> La presente ordinanza entra in vigore il 1° ottobre 1997.

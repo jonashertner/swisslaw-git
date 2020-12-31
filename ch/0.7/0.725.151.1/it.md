@@ -1,0 +1,87 @@
+---
+sr: "0.725.151.1"
+title: "Scambio di lettere del 7 agosto e 7 settembre 2009 tra la Svizzera e l'Italia per l'applicazione alla galleria stradale del Gran San Bernardo della direttiva europea relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea"
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/285"
+language: it
+version: 2009-10-13
+adopted: 2009-09-07
+in_force: 2009-10-13
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/285/20091013/it/xml/fedlex-data-admin-ch-eli-cc-2010-285-20091013-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/285/20091013/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Scambio di lettere del 7 agosto e 7 settembre 2009 tra la Svizzera e l’Italia per l’applicazione alla galleria stradale del Gran San Bernardo della direttiva europea relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea
+
+RU **2010** 2143
+
+Entrato in vigore mediante scambio di note il 13 ottobre 2009
+
+(Stato 13 ottobre 2009)
+
+Testo originale
+
+<table>
+<tr><td>Ambasciata di Svizzera</td><td>Roma, 7 agosto 2009</td></tr>
+<tr><td>in Italia</td><td></td></tr>
+<tr><td></td><td>Onorevole Ministro</td></tr>
+<tr><td></td><td>Altero Matteoli</td></tr>
+<tr><td></td><td>Ministero delle Infrastrutture e dei Trasporti</td></tr>
+<tr><td></td><td>Roma</td></tr>
+</table>
+
+Onorevole Ministro,
+
+la Direttiva 2004/54/CE relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea (di seguito: la Direttiva) trova applicazione alla galleria stradale del Gran San Bernardo. La Direttiva prevede la designazione di vari organi, tra cui un’Autorità amministrativa e un Ente per le ispezioni.
+
+Il Decreto legislativo italiano del 5 ottobre 2006, n° 264, di attuazione della Direttiva e la Decisione del Consiglio federale svizzero del 17 giugno 2009 di applicazione della stessa prevedono di conferire le suddette funzioni alla Commissione Mista italo-svizzera del tunnel del Gran San Bernardo.
+
+Detta Commissione Mista è stata istituita con la Convenzione del 23 maggio 1958[^ingress-1] tra la Confederazione Svizzera e la Repubblica Italiana sulla costruzione e l’esercizio d’una galleria stradale sotto il Gran San Bernardo con il compito di vegliare all’applicazione della Convenzione stessa e alla composizione di tutte le difficoltà che ne derivassero.
+
+Nel corso della riunione di Aosta del 30/31 ottobre 2008, la Commissione Mista ha proposto che l’articolo 9 della Convenzione italo-svizzera del 1958, istitutivo della Commissione Mista, venga interpretato in modo da includere nei poteri conferiti alla stessa anche quelli derivanti dell’applicazione della Direttiva.
+
+Le propongo pertanto che l’articolo 9 della Convenzione del 23 maggio 1958 tra la Confederazione Svizzera e la Repubblica Italiana sulla costruzione e l’esercizio d’una galleria stradale sotto il Gran San Bernardo venga inteso in modo da includere tra le attribuzioni conferite alla Commissione Mista italo-svizzera del tunnel del Gran San Bernardo anche quelle di Autorità amministrativa e di Ente per le ispezioni ai sensi degli articoli 4 e 7 della Direttiva. Nello svolgimento di queste mansioni la Commissione Mista beneficerà del supporto di un Comitato tecnico.
+
+Mi pregio pertanto di proporre che la presente e la Sua risposta costituiscano un’intesa tra i nostri due Governi complementare della Convenzione del 23 maggio 1958 tra la Confederazione Svizzera e la Repubblica Italiana sulla costruzione e l’esercizio d’una galleria stradale sotto il Gran San Bernardo. Il presente Scambio di Lettere entrerà in vigore alla data di ricezione della seconda delle due notifiche con cui le Parti contraenti si saranno comunicate ufficialmente l’avvenuto espletamento delle rispettive procedure interne di ratifica e potrà essere denunciato con un preavviso di sei mesi.
+
+La prego di gradire, Onorevole Ministro, l’espressione della mia più distinta considerazione.
+
+<table>
+<tr><td></td><td>L’Incaricato d’Affari a. i. di Svizzera:</td></tr>
+<tr><td></td><td>Mauro Romano Reina</td></tr>
+</table>
+
+<table>
+<tr><td>Il Ministro delle Infrastrutture</td><td>Roma, 7 settembre 2009</td></tr>
+<tr><td>e dei Trasporti</td><td></td></tr>
+<tr><td></td><td>Signor Ministro</td></tr>
+<tr><td></td><td>Mauro Romano Reina</td></tr>
+<tr><td></td><td>Incaricato d’Affari a.i. Ambasciata di Svizzera</td></tr>
+<tr><td></td><td>Roma</td></tr>
+</table>
+
+Signor Ministro,
+
+ho l’onore di riferirmi alla Sua lettera del 7 agosto 2009, allegata alla Nota Verbale dell’Ambasciata di Svizzera in Italia n° 0424 del 7 agosto, del seguente tenore:
+
+«La Direttiva 2004/54/CE relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea (di seguito: la Direttiva) trova applicazione alla galleria stradale del Gran San Bernardo. La Direttiva prevede la designazione di vari organi, tra cui un’Autorità amministrativa e un Ente per le ispezioni.
+
+Il Decreto legislativo italiano del 5 ottobre 2006, n° 264, di attuazione della Direttiva e la Decisione del Consiglio federale svizzero del 17 giugno 2009 di applicazione della stessa prevedono di conferire le suddette funzioni alla Commissione Mista italo-svizzera del tunnel del Gran San Bernardo.
+
+Detta Commissione Mista è stata istituita con la Convenzione del 23 maggio 1958[^ingress-2] tra la Confederazione Svizzera e la Repubblica Italiana sulla costruzione e l’esercizio d’una galleria stradale sotto il Gran San Bernardo con il compito di vegliare all’applicazione della Convenzione stessa e alla composizione di tutte le difficoltà che ne derivassero.
+
+Nel corso della riunione di Aosta del 30/31 ottobre 2008, la Commissione Mista ha proposto che l’articolo 9 della Convenzione italo-svizzera del 1958, istitutivo della Commissione Mista, venga interpretato in modo da includere nei poteri conferiti alla stessa anche quelli derivanti dell’applicazione della Direttiva.
+
+Le propongo pertanto che l’articolo 9 della Convenzione del 23 maggio 1958 tra la Confederazione Svizzera e la Repubblica Italiana sulla costruzione e l’esercizio d’una galleria stradale sotto il Gran San Bernardo venga inteso in modo da includere tra le attribuzioni conferite alla Commissione Mista italo-svizzera del tunnel del Gran San Bernardo anche quelle di Autorità amministrativa e di Ente per le ispezioni ai sensi degli articoli 4 e 7 della Direttiva. Nello svolgimento di queste mansioni la Commissione Mista beneficerà del supporto di un Comitato tecnico.»
+
+Ho l’onore di informare che il Governo italiano concorda con quanto precede e che pertanto il presente Scambio di Lettere, costituendo un’intesa tra i nostri due Governi complementare della Convenzione del 23 maggio 1958 tra la Confederazione Svizzera e la Repubblica Italiana sulla costruzione e l’esercizio d’una galleria stradale sotto il Gran San Bernardo, entrerà in vigore alla data di ricezione della seconda delle due notifiche con cui le Parti contraenti si saranno comunicate ufficialmente l’avvenuto espletamento delle rispettive procedure interne di ratifica e potrà essere denunciato con un preavviso di sei mesi.
+
+La prego di gradire, Signor Ministro, l’espressione della mia più distinta considerazione.
+
+<table>
+<tr><td></td><td>Altero Matteoli</td></tr>
+</table>
+
+[^ingress-1]: [RS 0.725.151](https://fedlex.data.admin.ch/eli/cc/1959/1333_1387_1387)
+[^ingress-2]: [RS 0.725.151](https://fedlex.data.admin.ch/eli/cc/1959/1333_1387_1387)

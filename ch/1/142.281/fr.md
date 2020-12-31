@@ -1,0 +1,1564 @@
+---
+sr: "142.281"
+title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion d'étrangers (OERE)"
+short: OERE
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
+language: fr
+version: 2020-04-01
+adopted: 1999-08-11
+in_force: 1999-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20200401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur l’exécution du renvoi et de l’expulsion d’étrangers
+
+(OERE)
+
+du 11 août 1999 (Etat le 1<sup>er</sup> avril 2020)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 124 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^ingress-1], vu l’art. 119 de la loi du 26 juin 1998 sur l’asile (LAsi)[^ingress-2], vu l’art. 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-3],[^ingress-4]
+
+arrête:
+
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+## Section 1 Aide à l’exécution des renvois****
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
+
+#### Art. 1
+
+**Dispositions générales**[^1-1]
+
+### (art. 71 LEI)
+
+Le Secrétariat d’État aux migrations (SEM) assiste les cantons dans le domaine de l’exécution du renvoi, de l’expulsion au sens de la LEI (expulsion) ou de l’expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^1-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^1-3] (expulsion pénale).
+
+[^1-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 2
+
+**Début de l’assistance en matière d’exécution**[^2-1]
+
+### (art. 71, let. a, LEI)
+
+<sup>1</sup> À la demande de l’autorité cantonale compétente, le SEM se charge d’obtenir des documents de voyage pour les étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale.
+
+<sup>2</sup> Dans la procédure accélérée au sens de l’art. 26*c* LAsi, il commence les démarches en vue d’obtenir des documents de voyage sans que l’autorité cantonale compétente en matière d’exécution du renvoi en fasse la demande.
+
+<sup>3</sup> Dans la procédure étendue au sens de l’art. 26*d* LAsi, il peut commencer les démarches en vue d’obtenir des documents de voyage avant que l’autorité cantonale compétente en fasse la demande.
+
+<sup>4</sup> Il informe l’autorité cantonale compétence du lancement des démarches en vue d’obtenir des documents de voyage.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 2a
+
+**Entretien de départ**[^2a-1]
+
+<sup>1</sup> L’autorité compétente du canton qui adresse au SEM une demande d’assistance en matière d’exécution mène un entretien de départ avec l’intéressé, en règle générale après la notification de la décision de renvoi, d’expulsion ou d’expulsion pénale, mais au plus tard immédiatement après l’entrée en force de cette décision.
+
+<sup>2</sup> Dans la procédure accélérée au sens de l’art. 26*c* LAsi, le SEM mène un entretien de départ avec l’intéressé après la notification de la décision de renvoi. En accord avec le SEM, l’autorité cantonale compétente peut aussi mener cet entretien. D’autres entretiens de départ peuvent être menés après l’entrée en force de la décision de renvoi.
+
+<sup>3</sup> Dans la procédure Dublin au sens de l’art. 26*b* LAsi, le canton mène un entretien de départ avec l’intéressé après la notification de la décision de renvoi. En accord avec l’autorité cantonale compétente, le SEM peut aussi mener cet entretien.
+
+<sup>4</sup>
+
+L’entretien de départ sert notamment:
+
+- a. à expliquer à la personne concernée la décision de renvoi, d’expulsion ou d’expulsion pénale;
+- b. à clarifier et documenter la disposition de cette personne à quitter la Suisse;
+- c. à évaluer son état de santé sous l’angle de son aptitude au transport;
+- d. à l’informer de son obligation de coopérer à l’obtention de documents de voyage valables;
+- e. à l’avertir, si nécessaire, de l’existence de mesures de contrainte au sens des art. 73 à 78 LEI;
+- f. à l’informer sur l’aide au retour;
+- g. à l’informer des modalités de versement de l’indemnité de voyage au sens de l’art. 59*a*, al. 2<sup>bis</sup>, OA 2.
+
+[^2a-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 2b
+
+**Entretien de conseil en détention administrative**[^2b-1]
+
+<sup>1</sup> L’autorité compétente peut mener un entretien de conseil avec la personne détenue en vertu des art. 75 à 78 LEI. Cet entretien vise à amener la personne concernée à collaborer à l’obtention de documents de voyage et à l’organisation du départ, ainsi qu’à l’informer des possibilités qui s’offrent à elles en matière de retour et de la possibilité d’obtenir une aide financière.
+
+<sup>2</sup> L’aide financière est versée aux personnes relevant du domaine de l’asile conformément à l’art. 59*a*, al. 2<sup>bis</sup>, OA 2 (indemnités de voyage) et à l’art. 59*a*<sup>bis</sup> OA 2 (indemnité de départ). S’agissant de personnes relevant du domaine des étrangers, l’aide financière est régie par le droit cantonal.
+
+<sup>3</sup> Le SEM peut conclure, avec les cantons ou avec des tiers, des conventions de prestations portant sur la réalisation des entretiens de conseil avec les personnes relevant du domaine de l’asile qui sont en détention administrative.
+
+[^2b-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 3
+
+**Établissement de l’identité et de la nationalité**[^3-1]
+
+<sup>1</sup> Dans le cadre de son intervention visant à obtenir des documents de voyage, le SEM vérifie l’identité et la nationalité des étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale.[^3-2]
+
+<sup>2</sup> À cet effet, il peut notamment mener des entretiens, présenter l’intéressé à la représentation de son pays d’origine et effectuer des analyses linguistiques ou textuelles, de même qu’inviter en Suisse une délégation de l’État d’origine ou de provenance. Il communique le résultat de ses investigations au canton.[^3-3]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
+[^3-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 4
+
+**Obtention de papiers en cas de recours à des voies ou moyens de droit**[^4-1]
+
+### (art. 97, al. 2, LAsi)
+
+Les démarches visant à obtenir les documents de voyage nécessaires à l’exécution du renvoi peuvent être engagées même en cas de recours à des voies ou moyens de droit.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 4a
+
+**Conventions avec des autorités étrangères**[^4a-1]
+
+### (art. 48*a* LOGA)
+
+Jusqu’à la conclusion d’une convention sur la réadmission et le transit des personnes qui se trouvent en situation irrégulière en Suisse au sens de l’art. 100, al. 2, let. b, LEI, le Département fédéral de justice et police (DFJP)[^4a-2] peut, en accord avec le Département fédéral des affaires étrangères (DFAE), conclure avec des autorités étrangères des conventions réglant, d’une part, les questions organisationnelles relatives au retour des étrangers dans leur pays d’origine, d’autre part, l’aide au retour et à la réintégration.
+
+[^4a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)). Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^4a-2]: Nouvelle expression selon le ch. I de l’O du 26 mars 2014, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 5
+
+**Organisation des départs**[^5-1]
+
+### (art. 71, let. b, LEI)
+
+[^5-2]
+
+<sup>1</sup> Pour organiser les départs, le SEM peut collaborer avec des autorités étrangères, des autorités fédérales, cantonales et communales, des organisations internationales et nationales, des compagnies aériennes ou d’autres prestataires privés.[^5-3]
+
+<sup>2</sup> S’agissant des retours par avion, le SEM peut se charger notamment de réserver les billets et de fixer les itinéraires.
+
+<sup>3</sup> Il peut organiser des vols spéciaux et, en accord avec des États tiers, des vols internationaux à destination des États d’origine ou de provenance des étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale. Il coordonne les activités liées au processus de départ et sert d’interlocuteur central aux services concernés.[^5-4]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 6
+
+**Collaboration avec le DFAE**[^6-1]
+
+### (art. 71, let. c, LEI)
+
+[^6-2]
+
+<sup>1</sup>
+
+Le SEM entretient avec le DFAE et les organisations internationales un échange d’informations permanent sur:
+
+- a. l’obtention des documents;
+- b. l’organisation des départs et des retours;
+- c. la sécurité des escortes officielles.
+
+<sup>2</sup> Le SEM peut demander au DFAE d’intervenir directement auprès des États d’origine ou de provenance des étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale, ou encore auprès des représentations diplomatiques ou consulaires.[^6-3]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^6-3]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 7
+
+**Documentation sur l’exécution et perfectionnement**[^7-1]
+
+<sup>1</sup> Le SEM établit et met à jour une documentation informatisée sur les principaux États d’origine ou de provenance; cette documentation comprend toutes les informations requises pour l’exécution des renvois, des expulsions et des expulsions pénales, notamment des renseignements sur l’obtention des documents de voyage, l’organisation des voyages et la sécurité.
+
+<sup>2</sup> Le SEM entretient avec les autorités cantonales compétentes un échange d’informations permanent sur les questions relevant de l’exécution des renvois, des expulsions et des expulsions pénales, et organise notamment des cours de perfectionnement et des séances d’information.[^7-2]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
+[^7-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 8
+
+**Entraide administrative des cantons**[^8-1]
+
+Lorsqu’il s’agit notamment de présenter des étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale aux représentations diplomatiques ou consulaires des États d’origine ou de provenance, de les mener à des entretiens dans le but d’établir leur identité et leur nationalité ou de les conduire aux aéroports, les cantons garantissent au SEM l’entraide administrative requise.
+
+[^8-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 9
+
+**Établissement d’un document de voyage supplétif**[^9-1]
+
+Lorsqu’il n’est pas possible d’obtenir des documents de voyage du pays d’origine d’un étranger en vue d’exécuter son renvoi, son expulsion ou son expulsion pénale, le SEM peut établir un document de voyage supplétif, pour autant que cette mesure permette d’organiser le rapatriement de l’intéressé dans l’État d’origine ou de provenance ou encore dans un État tiers.
+
+[^9-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 10
+
+**Suspension de l’aide à l’exécution[^10-1]**
+
+<sup>1</sup>
+
+Le SEM suspend l’aide à l’exécution aussi longtemps que:[^10-2]
+
+- a.[^10-3] les renvois, les expulsions ou les expulsions pénales ne peuvent techniquement pas être exécutés;
+- b. les cantons ne fournissent pas l’entraide administrative requise;
+- c. les autorités n’ont pas connaissance du séjour de l’étranger.[^10-4]
+
+<sup>2</sup> Les renvois, les expulsions et les expulsions pénales sont notamment réputés ne pouvoir techniquement pas être exécutés lorsqu’il n’est pas possible d’obtenir les documents de voyage ou d’organiser le départ, alors que la personne tenue de partir a collaboré conformément à ses obligations.[^10-5]
+
+[^10-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^10-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^10-3]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
+[^10-5]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 11
+
+**Service aéroportuaire**[^11-1]
+
+Le SEM gère un service aéroportuaire (swissREPAT). Celui-ci a notamment pour mission:
+
+- a. de vérifier les conditions de voyage et de clarifier les risques;
+- b. de déterminer le niveau d’exécution selon l’art. 28, al. 1, de l’ordonnance du 12 novembre 2008 sur l’usage de la contrainte[^11-2], après avoir consulté les organes de police cantonaux compétents et en tenant compte des prescriptions de sécurité des entreprises de transport aérien;
+- c. d’organiser et de coordonner l’accompagnement social, médical et policier assuré lors des vols;
+- d. de fixer les itinéraires de vol et de réserver de manière centralisée les billets pour les vols de ligne;
+- e. d’organiser des vols spéciaux;
+- f. de conseiller les autorités fédérales et cantonales compétentes;
+- g. de verser, à l’aéroport, les indemnités de départ et de voyage ainsi que les contributions fédérales et cantonales d’aide au retour.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^11-2]: [RS 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
+
+#### Art. 11a
+
+**Prestations dans les aéroports**[^11a-1]
+
+<sup>1</sup>
+
+Le SEM peut conclure, avec les autorités compétentes des cantons sur le territoire desquels se trouve un aéroport international ou avec des tiers, des conventions sur les prestations de service dans les aéroports. Ces conventions peuvent porter notamment sur:
+
+- a. l’accueil de personnes à l’aéroport;
+- b. le contrôle de la disposition à voyager, l’enregistrement des passagers et la manutention des bagages;
+- c. le contrôle de sécurité;
+- d. le transport sous escorte policière de personnes à embarquer;
+- e. la surveillance du départ et la rédaction d’un rapport sur son déroulement.
+
+<sup>2</sup> Les prestations de service dispensées par les autorités compétentes à l’aéroport ou par des tiers sur mandat du SEM font l’objet d’un décompte remis directement aux autorités ou aux tiers concernés.
+
+<sup>3</sup>
+
+Pour l’accueil de personnes à l’aéroport et le transport sous escorte policière de personnes à embarquer, la Confédération verse une indemnité forfaitaire par personne de:
+
+- a. 400 francs sur les vols de ligne;
+- b. 1700 francs sur les vols spéciaux à destination d’États tiers ou d’États de provenance.
+
+<sup>4</sup>
+
+Le SEM assure l’accompagnement médical:
+
+- a. sur tous les vols spéciaux pour toutes les personnes à rapatrier; les cantons, pour leur part, assument les frais engendrés par les personnes relevant du domaine des étrangers;
+- b. sur les vols de ligne, pour les catégories de personnes mentionnées à l’art. 92, al. 2, LAsi, pour autant qu’il soit nécessaire.
+
+[^11a-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 12
+
+**Système d’information eRetour**[^12-1]
+
+### (art. 109*f* à 109*j* LEI)
+
+<sup>1</sup>
+
+Les tiers mandatés visés à l’art. 109*i* LEI sont habilités à traiter les données personnelles suivantes dans le système eRetour:
+
+- a. l’identité de la personne concernée (art. 109*g*, al. 2, let. a, LEI);
+- b. les données personnelles utilisées dans le cadre des démarches d’identification ou d’obtention de documents;
+- c. les données personnelles utilisées dans le cadre de l’organisation du départ;
+- d. les données personnelles utilisées dans le cadre du conseil en vue du retour et de l’octroi de l’aide au retour;
+- e. les données médicales (art. 109*g*, al. 2, let. h, LEI).
+
+<sup>2</sup> Le catalogue des données du système eRetour ainsi que les droits et les niveaux d’accès sont définis à l’annexe 1.
+
+<sup>3</sup> Le SEM fixe en particulier dans un règlement de traitement les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement ainsi que la sécurité des données.
+
+<sup>4</sup> Les données du système eRetour sont archivées à des fins de contrôle et de statistiques. Elles sont proposées aux Archives fédérales lorsque dix ans se sont écoulés depuis le renvoi ou l’expulsion. Les données jugées sans valeur archivistique sont détruites.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)).
+
+#### Art. 13
+
+**Remboursement des frais par les cantons**[^13-1]
+
+Les cantons remboursent au SEM les frais d’exécution et de départ qu’il a réglés pour leur compte à l’intention d’étrangers frappés d’une décision de renvoi, d’expulsion ou d’expulsion pénale. Ces frais font l’objet d’un décompte séparé.
+
+[^13-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 14
+
+**Indemnisation des frais**
+
+<sup>1</sup> Le SEM verse des contributions aux services de coordination cantonaux compétents pour traiter des demandes de réadmission en vertu d’accords bilatéraux relatifs à la réadmission de personnes en situation irrégulière.
+
+<sup>2</sup> La contribution fédérale est forfaitaire. Le SEM fixe, dans le cadre d’un mandat de prestations, le montant de l’indemnité forfaitaire sur la base des dépenses administratives occasionnées par le traitement des demandes de réadmission; il fixe également les modalités de versement et la procédure de décompte.
+
+#### Art. 15
+
+**Participation aux frais d’exploitation**[^15-1]
+
+### (art. 82, al. 2, LEI)
+
+<sup>1</sup> En cas de rétention au sens de l’art. 73 LEI ou de détention ordonnée conformément aux art. 75 à 78 LEI, un montant forfaitaire de 200 francs par jour est versé au canton concerné à partir d’une durée de rétention ou de détention de douze heures.
+
+<sup>2</sup> Pour les établissements de détention financés totalement ou partiellement par la Confédération, ce montant est réduit proportionnellement à la part d’amortissement. Le DFJP règle les modalités de la procédure en accord avec le Département fédéral des finances.
+
+<sup>3</sup> Le SEM observe l’évolution des coûts d’exploitation au niveau suisse. À cette fin, les cantons lui transmettent les bases nécessaires concernant la composition des coûts d’exploitation.
+
+<sup>4</sup> ... [^15-2]
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 mars 2014, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
+[^15-2]: Abrogé par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+## Section 1*a***** Saisie des données dans le domaine des mesures de contrainte****
+
+[^sec1a-1][^sec1a-2]
+
+[^sec1a-1]: Introduite par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^sec1a-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 15a
+
+**Transmission de données sur la détention administrative[^15a-1]**
+
+<sup>1</sup>
+
+Les autorités cantonales compétentes transmettent au SEM les données suivantes concernant les détentions ordonnées conformément aux art. 73 et 75 à 78 LEI dans les domaines de l’asile et des étrangers:[^15a-2]
+
+- a. le nombre de détentions ordonnées et la durée de chacune de ces détentions;
+- b. le nombre de rapatriements;
+- c. le nombre de mises en liberté;
+- d. la nationalité des détenus;
+- e. le sexe et l’âge des détenus;
+- f. la nature des détentions;
+- g.[^15a-3] le lieu des détentions;
+- h.[^15a-4] la durée des détentions.
+
+<sup>2</sup> Pour les mineurs, elles indiquent en outre si une représentation légale a été instituée et si des mesures de protection de l’enfant ont été prises.[^15a-5]
+
+[^15a-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15a-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15a-3]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15a-4]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^15a-5]: Introduit par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
+
+## Section 1*a*<sup>bis</sup> Interventions internationales en matière de retour
+
+### (art. 71*a* et 71*a*<sup>bis</sup> LEI)
+
+[^sec1abis-1]
+
+#### Art. 15b
+
+**Compétences**[^15b-1]
+
+<sup>1</sup>
+
+En cas d’intervention en matière de retour, le SEM est responsable de la conduite opérationnelle de la coopération avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen (l’Agence). À ce titre, il consulte et informe l’Administration fédérale des douanes (AFD). Il assume notamment les tâches suivantes:
+
+- a. il fait office de service national de coordination pour la participation de la Suisse aux interventions internationales en matière de retour;
+- b. il est chargé d’exécuter les décisions du conseil d’administration ou du directeur exécutif de l’Agence concernant les interventions internationales en matière de retour.
+
+<sup>2</sup> Aux fins visées à l’al. 1, let. b, le SEM peut conclure avec l’Agence des conventions de subvention de portée mineure ou d’autres conventions en vue du détachement de spécialistes des questions de retour, de contrôleurs des retours forcés et d’agents d’escorte policière suisses.
+
+[^sec1abis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15b-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+
+#### Art. 15b<sup>bis</sup>
+
+**Interventions à l’étranger**[^15bbis-1]
+
+<sup>1</sup> En vue d’une intervention de personnel suisse à l’étranger, le SEM garantit, en concertation avec les cantons et avec les organisations qui mobilisent des contrôleurs des retours forcés, que les personnes nécessaires aux différents réserves sont mises à disposition.
+
+<sup>2</sup> Si l’Agence dépose une demande de détachement de spécialistes des questions de retour du SEM, d’agents d’escorte policière des cantons ou de contrôleurs des retours forcés à l’étranger, conformément aux art. 29, par. 3, 30, par. 3, et 31, par. 3, du règlement (UE) 2016/1624[^15bbis-2], le SEM peut rejeter cette demande en présence d’une situation exceptionnelle en Suisse.
+
+[^15bbis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15bbis-2]: Règlement (UE) 2016/1624 du Parlement européen et du Conseil du 14 septembre 2016 relatif au corps européen de garde-frontières et de garde-côtes, modifiant le règlement (UE) 2016/399 du Parlement européen et du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 863/2007 du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 2007/2004 du Conseil et la décision 2005/267/CE du Conseil, version du JO L 251 du 16.9.2016, p. 1.
+
+#### Art. 15c
+
+**Spécialistes des questions de retour du SEM**[^15c-1]
+
+<sup>1</sup> Le SEM gère une réserve de collaborateurs spécialement formés et préparés pour les interventions internationales en matière de retour menées en vertu du règlement (UE) 2016/1624[^15c-2].
+
+<sup>2</sup> Les modalités du détachement de spécialistes des questions de retour sont définies dans des accords individuels conclus entre lesdits spécialistes et le SEM.
+
+[^15c-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15c-2]: Cf. note de bas de page relative à l’art. 15*b*<sup>bis</sup>, al. 2.
+
+#### Art. 15d
+
+**Agents d’escorte policière des cantons**[^15d-1]
+
+<sup>1</sup> Conformément aux conventions conclues entre le DFJP et les cantons en vertu de l’art. 71*a*, al. 3, LEI, les cantons mettent à disposition, en accord avec le SEM, des agents d’escorte policière pour les interventions internationales en matière de retour.
+
+<sup>2</sup> Les modalités du détachement des agents d’escorte policière sont définies dans le cadre d’accords individuels entre lesdits agents et les cantons qui sont responsables de ces personnes.
+
+<sup>3</sup> Pour chaque agent d’escorte policière mis à disposition par un canton, la Confédération accorde à ce dernier un forfait d’accompagnement de 300 francs par jour.
+
+<sup>4</sup> Elle accorde un forfait d’accompagnement de 400 francs par jour pour le chef d’équipe.
+
+[^15d-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018, et pour l’al. 4, le 1<sup>er</sup> mars 2019 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+
+#### Art. 15e
+
+**Contrôleurs des retours forcés**[^15e-1]
+
+<sup>1</sup> Le SEM mandate des organisations qui mettent à disposition des contrôleurs des retours forcés. Il détache ces personnes afin qu’elles contrôlent les interventions internationales en matière de retour.
+
+<sup>2</sup> L’Agence définit les tâches desdits contrôleurs.
+
+<sup>3</sup> Le SEM conclut des conventions avec les organisations en vertu de l’art. 71*a*<sup>bis</sup>, al. 2, LEI. Y sont définies les autres modalités du détachement des contrôleurs des retours forcés. Les art. 15*g* à 15*i* s’appliquent par analogie.
+
+[^15e-1]: Introduit par le ch. I 2 de l’O du 8 nov. 2006 sur la mod. d’O liée à l’entrée en vigueur des mod. du 16 déc. 2005 de la LF sur l’asile, de la LF sur l’assurance-maladie et de la LF sur l’assurance-vieillesse et survivants ([RO 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+
+#### Art. 15e<sup>bis</sup>
+
+**Coordination des interventions internationales en matière de retour**[^15ebis-1]
+
+<sup>1</sup> Le SEM coordonne l’intervention de personnel suisse lors d’interventions internationales en matière de retour. À ce titre, il informe l’AFD du personnel mis à disposition, conformément aux art. 15*c* à 15*e*.
+
+<sup>2</sup> Il transmet à l’AFD des informations sur les interventions internationales en matière de retour conformément à l’art. 3*c*, al. 3, de l’ordonnance du 26 août 2009 sur la coopération opérationnelle avec les autres États Schengen en vue de la protection des frontières extérieures de l’espace Schengen[^15ebis-2].
+
+[^15ebis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+
+#### Art. 15e<sup>ter</sup>
+
+**Modalités d’intervention de personnel étranger en Suisse**[^15eter-1]
+
+<sup>1</sup> En vue d’une intervention de personnel étranger en Suisse, le SEM dépose une demande de détachement d’équipes d’intervention auprès de l’Agence et participe à l’élaboration du plan opérationnel.
+
+<sup>2</sup> Le SEM est responsable de la conduite opérationnelle du personnel étranger. Celui-ci ne peut exercer des activités relevant de la puissance publique que sous la direction de personnel suisse.
+
+<sup>3</sup> Le SEM convient des moyens et des modalités de l’intervention de personnel étranger avec l’Agence et avec les autres États Schengen.
+
+<sup>4</sup> Les compétences du personnel étranger peuvent être retirées dans des cas motivés.
+
+<sup>5</sup> Sur le plan disciplinaire et en ce qui concerne les rapports de travail, le personnel étranger est soumis aux prescriptions de son État d’origine.
+
+<sup>6</sup> La Confédération répond des dommages causés en Suisse par le personnel étranger conformément à la loi du 14 mars 1958 sur la responsabilité[^15eter-2].
+
+[^15eter-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15eter-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 15e<sup>quater</sup>
+
+**Responsabilité concernant le personnel suisse à l’étranger**[^15equater-1]
+
+<sup>1</sup> La responsabilité des dommages causés par le personnel suisse à l’étranger est assumée par l’État hôte. Si les dommages ont été causés par une négligence grave ou de manière intentionnelle et que l’État hôte exige de la Suisse le remboursement des montants payés, la loi du 14 mars 1958 sur la responsabilité[^15equater-2] est applicable.
+
+<sup>2</sup> Le personnel suisse qui commet une infraction lors d’une intervention à l’étranger est soumis au droit de l’État hôte. Si cet État renonce à la poursuite pénale, c’est le code pénal[^15equater-3] qui est applicable.
+
+[^15equater-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15equater-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15equater-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## Section 1*b***** Contrôle du renvoi ou de l’expulsion par voie aérienne
+
+[^sec1b-1]
+
+[^sec1b-1]: Introduite par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5769](https://fedlex.data.admin.ch/eli/oc/2010/817)).
+
+#### Art. 15f
+
+**Étendue des contrôles**
+
+### (art. 71*a*<sup>bis</sup>, al. 1, LEI)
+
+[^15f-1]
+
+<sup>1</sup>
+
+Le contrôle du renvoi, de l’expulsion ou de l’expulsion pénale par voie aérienne porte sur les phases suivantes:[^15f-2]
+
+- a. la conduite de la personne concernée à l’aéroport;
+- b. l’organisation du dispositif à l’aéroport;
+- c. le vol;
+- d. [^15f-3] l’arrivée à l’aéroport de destination et la remise des personnes concernées aux autorités de l’État de destination dans le respect de la souveraineté de ces dernières.
+
+<sup>2</sup> Lorsque la personne concernée ne peut être remise à l’État de destination, le contrôle porte également sur le vol de retour vers la Suisse, l’accueil à l’aéroport et la remise aux autorités cantonales compétentes.
+
+[^15f-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15f-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15f-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 15g
+
+**Délégation de tâches à des tiers**
+
+### (art. 71*a*<sup>bis</sup>, al. 2, LEI)
+
+[^15g-1]
+
+<sup>1</sup> Le SEM mandate des tiers pour effectuer des tâches dans le cadre du contrôle du renvoi, de l’expulsion ou de l’expulsion pénale par voie aérienne. Les tiers mandatés doivent être indépendants de tous les services impliqués dans les procédures relevant du droit des étrangers ou de l’asile ou dans l’exécution du renvoi, de l’expulsion ou de l’expulsion pénale.[^15g-2]
+
+<sup>2</sup> Le SEM conclut des conventions avec les tiers mandatés.[^15g-3]
+
+[^15g-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15g-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15g-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 15h
+
+**Tâches des tiers mandatés**
+
+### (art. 71*a*<sup>bis</sup>, al. 2, LEI)
+
+[^15h-1]
+
+<sup>1</sup>
+
+Les tiers mandatés:
+
+- a.[^15h-2] surveillent certaines ou l’ensemble des phases du renvoi, de l’expulsion ou de l’expulsion pénale par voie aérienne;
+- b.[^15h-3] établissent un rapport à l’attention du SEM pour chaque renvoi, expulsion ou expulsion pénale sous escorte;
+- c. rédigent un rapport d’activité et de gestion annuel à l’attention du DFJP et de la Conférence des directrices et directeurs des départements cantonaux de justice et police.
+
+<sup>2</sup> Le SEM peut conclure des conventions avec les tiers mandatés.
+
+[^15h-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15h-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15h-3]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 15i
+
+**Indemnisation des frais**
+
+### (art. 71*a*<sup>bis</sup> LEI)
+
+[^15i-1]
+
+<sup>1</sup> Le SEM indemnise les tiers mandatés pour leurs tâches liées au contrôle du renvoi, de l’expulsion ou de l’expulsion pénale.[^15i-2]
+
+<sup>2</sup> L’indemnisation est forfaitaire.
+
+[^15i-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15i-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+## Section 1*c***** Participation de la Confédération aux coûts de construction et d’aménagement d’établissements de détention cantonaux
+
+[^sec1c-1]
+
+[^sec1c-1]: Introduite par le ch. I de l’O du 26 mars 2014, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
+
+#### Art. 15j
+
+**Conditions de la participation financière de la Confédération**
+
+### (art. 82, al. 1, LEI)
+
+La Confédération subventionne, dans les limites des crédits ouverts, la construction, l’agrandissement, la transformation et l’aménagement d’établissements de détention cantonaux lorsque les conditions suivantes sont remplies:
+
+- a. l’établissement de détention est exclusivement destiné à l’exécution de la détention en phase préparatoire, de la détention en vue du renvoi ou de l’expulsion, de la détention pour insoumission et de la rétention;
+- b.[^15j-1] l’établissement est mis à la disposition de plusieurs cantons et de la Confédération en vue de garantir l’exécution du renvoi, de l’expulsion ou de l’expulsion pénale; cette condition peut notamment être abandonnée lorsque la situation géographique de l’établissement en rend l’accès plus difficile;
+- c. l’établissement de détention dispose de suffisamment de locaux pour permettre des activités de loisirs, offrir des possibilités de travail, assurer un encadrement médical et favoriser les contacts sociaux;
+- d. les personnes particulièrement vulnérables, notamment les mineurs non accompagnés et les familles avec enfants, sont hébergés dans des locaux séparés de ceux des autres détenus;
+- e.[^15j-2] les détenus disposent de suffisamment de possibilités de se mouvoir à l’intérieur de l’établissement de détention, sans que l’exécution du renvoi, de l’expulsion ou de l’expulsion pénale, le bon fonctionnement de l’établissement et le respect des prescriptions de sécurité ne soient compromis;
+- f. les conditions visées à l’art. 3, al. 1, let. a à e, de la loi fédérale du 5 octobre 1984 sur les prestations de la Confédération dans le domaine de l’exécution des peines et des mesures (LPPM)[^15j-3] sont remplies par analogie.
+
+[^15j-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15j-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15j-3]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+
+#### Art. 15k
+
+**Montant des subventions**
+
+### (art. 82, al. 1, LEI)
+
+<sup>1</sup> La subvention fédérale s’élève, au plus, à 35 % des frais de construction et d’aménagement reconnus si l’établissement de détention construit, agrandi ou transformé dispose de 20 places de détention au moins.
+
+<sup>2</sup> Elle s’élève, au plus, à 60 % des frais de construction et d’aménagement reconnus si l’établissement de détention construit, agrandi ou transformé dispose de 50 places de détention au moins.
+
+<sup>3</sup> La Confédération prend en charge jusqu’à 100 % des frais de construction et d’aménagement reconnus si l’établissement de détention construit, agrandi ou transformé dispose de 50 places de détention au moins et qu’il est essentiellement destiné à garantir l’exécution des renvois dans le domaine de l’asile directement à partir des centres de la Confédération.[^15k-1]
+
+[^15k-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 15l
+
+**Méthode de calcul**
+
+<sup>1</sup> La Confédération calcule ses contributions aux frais reconnus de construction, d’agrandissement ou de transformation selon la méthode du forfait par place (art. 4, al. 2, LPPM[^15l-1]).
+
+<sup>2</sup> Le DFJP fixe les bases de calcul et un forfait par place de détention administrative.
+
+[^15l-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+
+#### Art. 15m
+
+**Subventions de construction**
+
+S’appliquent par analogie aux subventions de construction les art. 12, al. 2 (Méthode de calcul), 13 (Frais de construction reconnus), 15 (Fixation des forfaits et des suppléments; adaptation à l’évolution des prix et au renchérissement), 19, al. 2 à 4, (Forfait par place), 20 (Suppléments pour la sécurité) et 20*b* (Suppléments pour les aménagements extérieurs et l’équipement mobile en cas de nouvelles constructions et de transformations) de l’ordonnance du 21 novembre 2007 sur les prestations de la Confédération dans le domaine de l’exécution des peines et des mesures (OPPM)[^15m-1].
+
+[^15m-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+
+#### Art. 15n
+
+**Annonce de changements d’affectation et restitution de subventions**
+
+### (art. 82, al. 1, LEI)
+
+<sup>1</sup> Tout changement d’affectation de l’établissement soutenu doit être annoncé sans délai à l’Office fédéral de la justice (OFJ).
+
+<sup>2</sup> L’art. 12, al. 1 et 2, LPPM[^15n-1] s’applique par analogie à la restitution de subventions.
+
+<sup>3</sup>
+
+L’OFJ peut réduire le montant de la restitution ou renoncer à une restitution:
+
+- a. lorsque le changement d’affectation est de courte durée;
+- b. lorsque l’établissement sert à exécuter d’autres types de détention ou à accomplir des tâches d’exécution relevant du droit fédéral.
+
+[^15n-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+
+#### Art. 15o
+
+**Organisation et procédure**
+
+### (art. 82, al. 1, LEI)
+
+<sup>1</sup> Avant de rendre sa décision en matière de subventions, l’OFJ consulte le SEM sur les besoins de nouvelles places de détention et sur l’emplacement de la construction prévue.
+
+<sup>2</sup> Au surplus, la procédure est régie, par analogie, par les art. 25 à 33 OPPM[^15o-1].
+
+[^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+
+## Section 1*d***** Conservation et effacement des données médicales servant à évaluer l’aptitude au transport
+
+[^sec1d-1]
+
+[^sec1d-1]: Introduite par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)).
+
+### (art. 71*b*, al. 2, LEI)
+
+#### Art. 15p
+
+<sup>1</sup> Les autorités habilitées à demander des données médicales en vertu de l’art. 71*b*, al. 1, LEI peuvent les traiter jusqu’à l’exécution du renvoi ou de l’expulsion de l’étranger concerné.
+
+<sup>2</sup> Les données médicales sont effacées au plus tard douze mois après que l’étranger a quitté la Suisse ou le constat de son passage à la clandestinité.
+
+## Section 2 Admission provisoire
+
+#### Art. 16
+
+**Compétence**[^16-1]
+
+Le SEM décide de l’admission provisoire; il exécute lui-même sa décision, pour autant que la LEI n’en attribue pas la compétence aux cantons.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 17
+
+**Demande d’admission provisoire**[^17-1]
+
+<sup>1</sup> Lorsque le SEM a statué en matière d’asile et de renvoi, les autorités cantonales compétentes ne peuvent demander une admission provisoire que si l’exécution du renvoi est impossible.
+
+<sup>2</sup> Un canton ne peut demander l’admission provisoire que s’il a entrepris, à temps, toutes les démarches nécessaires à l’exécution du renvoi. Si, par son comportement, l’intéressé entrave cette exécution, il n’est pas admis à titre provisoire.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 18
+
+**Désignation des États dans lesquels le renvoi est en principe exigible**[^18-1]
+
+### (art. 83, al. 5, LEI)
+
+<sup>1</sup>
+
+Sont pris en considération pour déterminer si le retour dans un État d’origine ou de provenance, ou dans une région de cet État, est raisonnablement exigible:
+
+- a. la stabilité politique, en particulier l’absence de guerre, de guerre civile ou de situation de violence généralisée;
+- b. la présence de soins médicaux de base;
+- c. d’autres caractéristiques spécifiques au pays.
+
+<sup>2</sup> Les États d’origine ou de provenance ou régions de ces États, dans lesquels un retour est en principe exigible, figurent dans l’annexe 2.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)).
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogé par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 20
+
+**Pièces d’identité**[^20-1]
+
+<sup>1</sup> Les étrangers qui bénéficient d’une admission provisoire doivent déposer leurs documents de voyage auprès du SEM, de même que les pièces d’identité étrangères qu’ils possèdent éventuellement.
+
+<sup>1bis</sup> Si une personne admise à titre provisoire ne dépose pas ses documents de voyage, le SEM peut les confisquer. Les documents de voyage qui n’ont pas été déposés sont considérés comme étant perdus et inscrits au RIPOL.[^20-2]
+
+<sup>2</sup> Les autorités cantonales délivrent à l’intéressé, conformément à la décision prise par le SEM, un livret pour étrangers F, d’une validité limitée à un an au maximum et pouvant être prorogé d’autant. Ce document tient lieu de pièce d’identité à l’égard de toutes les autorités fédérales et cantonales. Toutefois, il ne fait qu’entériner le statut juridique du titulaire et n’habilite pas ce dernier à franchir la frontière.
+
+<sup>3</sup> ...[^20-3]
+
+<sup>4</sup> Le livret F ne confère aucun droit de résidence, quelle que soit la durée de validité de ce document.
+
+<sup>4bis</sup> Les personnes admises à titre provisoire doivent présenter spontanément leur livret F aux autorités cantonales compétentes deux semaines avant l’échéance de sa validité en vue de sa prolongation.
+
+<sup>5</sup> Le livret F est confisqué lorsque l’étranger quitte le territoire suisse volontairement ou non ou lorsque ses conditions de résidence sont réglementées par la police des étrangers.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^20-2]: Nouvelle teneur selon le ch. I 4 de l’O du 15 oct. 2008 sur les adaptations découlant de la LF sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^20-3]: Abrogé par le ch. I de l’O du 19 fév. 2020, avec effet au 1<sup>er</sup> avr. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)).
+
+#### Art. 21
+
+**Répartition entre les cantons**
+
+Sont applicables, pour la répartition entre les cantons des personnes admises à titre provisoire et pour les changements de canton de cette catégorie de personnes, les dispositions prévues aux art. 21 et 22 de l’ordonnance 1 du 11 août 1999 sur l’asile[^21-1].
+
+[^21-1]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+
+#### Art. 22 et 23
+
+[^2223-1]
+
+[^2223-1]: Abrogés par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 24
+
+**Regroupement familial**[^24-1]
+
+### (art. 85, al. 7, LEI)
+
+La procédure à suivre pour regrouper les membres d’une famille de personnes admises à titre provisoire en Suisse est régie par l’art. 74 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^24-2].
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+[^24-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+#### Art. 25
+
+[^25-1]
+
+[^25-1]: Abrogé par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 26
+
+**Levée de l’admission provisoire**[^26-1]
+
+<sup>1</sup> L’autorité compétente du canton de séjour signale, en tout temps, au SEM les éléments susceptibles d’entraîner la levée de l’admission provisoire.
+
+<sup>2</sup> Le SEM peut, en tout temps, décider de lever l’admission provisoire lorsque les conditions d’octroi de cette mesure, mentionnées à l’art. 83, al. 2 à 4, LEI, ne sont plus remplies. S’il ne rend pas sa décision suite à une requête de l’autorité ayant demandé l’admission provisoire, il consulte préalablement cette autorité.
+
+<sup>3</sup> Le SEM fixe un délai de départ approprié, pour autant que l’exécution immédiate du renvoi ou de l’expulsion ne soit pas ordonnée.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
+
+#### Art. 26a
+
+**Départ définitif[^26a-2]**[^26a-1]
+
+Un départ est notamment considéré comme définitif au sens de l’art. 84, al. 4, LEI lorsque la personne admise à titre provisoire:[^26a-3]
+
+- a. dépose une demande d’asile dans un autre État;
+- b. voit son séjour réglé dans un autre État;
+- c.[^26a-4] ...
+- d.[^26a-5] est retournée dans son État d’origine ou de provenance sans visa de retour au sens de l’art. 7 de l’ordonnance du 14 novembre 2012 sur l’établissement de documents de voyage pour étrangers (ODV)[^26a-6] ni passeport pour étrangers au sens de l’art. 4, al. 2, let. b, ODV;
+- e.[^26a-7] reste à l’étranger au-delà de la durée de validité de son visa de retour au sens de l’art. 7 ODV ou de son passeport pour étrangers au sens de l’art. 4, al. 2, let. b, ODV;
+- f. s’est annoncée auprès des autorités et a quitté la Suisse.
+
+[^26a-1]: Introduit par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)). Nouvelle teneur selon l’annexe 4 ch. 2 de l’O du 14 nov. 2012 sur l’établissement de documents de voyage pour étrangers, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6049](https://fedlex.data.admin.ch/eli/oc/2012/713)).
+[^26a-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^26a-3]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^26a-4]: Abrogée par le ch. I de l’O du 26 mars 2014, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
+[^26a-5]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^26a-7]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+
+## Section 2*a***** Décision de renvoi
+
+[^sec2a-1]
+
+[^sec2a-1]: Introduite par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5769](https://fedlex.data.admin.ch/eli/oc/2010/817)).
+
+#### Art. 26b
+
+**Teneur de la décision de renvoi**
+
+### (art. 64 LEI)
+
+<sup>1</sup>
+
+La décision de renvoi indique:
+
+- a. l’obligation pour l’étranger de quitter la Suisse;
+- b. le jour auquel il devra avoir quitté la Suisse;
+- c. les moyens de contrainte applicables si l’étranger n’obtempère pas.
+
+<sup>2</sup> La décision de renvoi est motivée et indique les voies de recours.
+
+#### Art. 26c
+
+**Invitation au départ sans décision formelle**
+
+### (art. 64, al. 2, LEI)
+
+<sup>1</sup> L’étranger disposant d’un titre de séjour valable délivré par un État lié par l’un des accords d’association à Schengen (État Schengen) et qui est invité sans décision formelle à se rendre dans cet État Schengen doit quitter la Suisse en l’espace d’un jour. Un délai de départ plus long peut être imparti lorsque des circonstances particulières, telles que des problèmes de santé ou la situation familiale, le justifient.
+
+<sup>2</sup> Les accords d’association à Schengen sont mentionnés à l’annexe 3[^26c-1].
+
+[^26c-1]: Le renvoi a été adapté au 1<sup>er</sup> avril 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+#### Art. 26d
+
+**Formulaire type**
+
+### (art. 64*b* LEI)
+
+Le SEM met les formulaires types nécessaires à la disposition des services compétents.
+
+#### Art. 26e
+
+**Feuille d’information**
+
+### (art. 64*f*, al. 2, LEI)
+
+<sup>1</sup> La feuille d’information est remise avec le formulaire type. Elle doit être traduite au moins dans les cinq langues les plus fréquemment utilisées ou comprises par les étrangers entrés illégalement.
+
+<sup>2</sup> Elle doit notamment comprendre des indications sur les bases légales de la décision, sur la possibilité de déposer un recours et les conséquences du non-respect du délai de départ.
+
+<sup>3</sup> Le SEM met les feuilles d’information à la disposition des autorités compétentes.
+
+## Section 2*b***** Exécution échelonnée d’un renvoi ou d’une expulsion
+
+[^sec2b-1]
+
+[^sec2b-1]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 26f
+
+<sup>1</sup> Lorsque plusieurs membres d’une famille frappés de la même décision de renvoi, d’expulsion ou d’expulsion pénale ne respectent pas le délai de départ imparti, il est possible d’exécuter cette décision de manière échelonnée dans le temps.
+
+<sup>2</sup> Un échelonnement au sens de l’al. 1 doit pouvoir être raisonnablement exigé de l’ensemble des membres concernés de la famille et suppose que le renvoi, l’expulsion ou l’expulsion pénale puisse être exécuté dans un avenir proche.
+
+<sup>3</sup> Les al. 1 et 2 s’appliquent par analogie aux partenaires enregistrés.
+
+## Section 2*c***** Renvoi en présence d’une expulsion pénale
+
+[^sec2c-1]
+
+[^sec2c-1]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+
+#### Art. 26g
+
+**Priorité de l’expulsion pénale**
+
+<sup>1</sup> L’exécution d’une expulsion pénale prime l’exécution d’une décision de renvoi prononcée dans le cadre d’une procédure d’asile.
+
+<sup>2</sup> Lorsqu’une personne sous l’effet d’une expulsion pénale revient en Suisse et dépose une demande d’asile ou une demande multiple au sens de l’art. 111*c*, al. 1, LAsi, le SEM ne prononce pas de décision de renvoi. Le canton compétent pour exécuter une expulsion pénale encore en cours de validité examine les motifs d’un éventuel report. En l’absence de tels motifs, il exécute l’expulsion pénale.
+
+<sup>3</sup> Lorsqu’une personne sous l’effet d’une expulsion pénale et d’une interdiction d’entrée relevant du droit des étrangers selon l’art. 67, al. 1 et 2, LEI revient en Suisse, l’expulsion pénale est exécutée.
+
+#### Art. 26h
+
+**Frais de départ**
+
+### (art. 87, al. 2, LEI; art. 92, al. 2, LAsi)
+
+<sup>1</sup> Lorsqu’une procédure pénale est ouverte après le dépôt d’une demande d’asile et que cette procédure débouche sur une décision d’expulsion pénale, le SEM rembourse les frais engendrés par le départ de Suisse, pour autant que la personne concernée appartienne à l’une des catégories de personnes mentionnées à l’art. 92, al. 2, LAsi. L’autorité cantonale qui a compétence pour exécuter l’expulsion pénale est habilitée à demander ce remboursement. Les art. 55 à 61 de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement[^26h-1] sont applicables.
+
+<sup>2</sup> Les frais de départ ne sont pas remboursés lorsque la demande d’asile de la personne concernée a été classée sans décision formelle après son retour en Suisse en application de l’art. 111*c*, al. 2, LAsi.
+
+[^26h-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+
+## Section 3 Dispositions finales
+
+#### Art. 27
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 25 novembre 1987 sur l’admission provisoire des étrangers[^27-1] est abrogée.
+
+[^27-1]: [[RO 1987 1669](https://fedlex.data.admin.ch/eli/oc/1987/1669_1669_1669), [1990 1579](https://fedlex.data.admin.ch/eli/oc/1990/1579_1579_1579), [1991 1165](https://fedlex.data.admin.ch/eli/oc/1991/1165_1165_1165), [1995 5041](https://fedlex.data.admin.ch/eli/oc/1995/5041_5041_5041)]
+
+#### Art. 28
+
+**Disposition transitoire**
+
+En application de l’art. 26 de la présente ordonnance, le SEM fixe le délai de départ des ressortissants yougoslaves domiciliés en dernier lieu au Kosovo, dont l’admission collective provisoire est déjà levée au moment de l’entrée en vigueur de la présente ordonnance et auxquels les autorités cantonales compétentes n’ont pas encore imparti de délai de départ.
+
+#### Art. 28a
+
+**Disposition transitoire liée à la modification du 16 décembre 2005**[^28a-1]
+
+Les personnes admises à titre provisoire depuis trois ans ou plus au moment de l’entrée en vigueur de la présente modification d’ordonnance peuvent former sans délai une demande d’inclusion des membres de leur famille dans le statut d’étrangers admis à titre provisoire.
+
+[^28a-1]: Introduit par le ch. I 2 de l’O du 8 nov. 2006 sur la mod. d’O liée à l’entrée en vigueur partielle des mod. du 16 déc. 2005 de la LF sur l’asile, de la LF sur l’assurance-maladie et de la LF sur l’assurance-vieillesse et survivants, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)).
+
+#### Art. 29
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1999.
+
+## Dispositions finales de la modification du 24 mars 2004****
+
+[^u1-1]
+
+[^u1-1]: [RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)
+
+<sup>1</sup> L’indemnité au titre de l’aide d’urgence (art. 15*b*) et l’indemnité au titre de l’exécution du renvoi (art. 15*c*) feront l’objet d’une première adaptation en 2005.
+
+<sup>2</sup> Pour les personnes frappées d’une décision de non-entrée en matière en vertu des art. 32 à 34 LAsi, dont la décision de renvoi, prise en vertu de l’art. 44 LAsi, est passée en force avant l’entrée en vigueur de la présente ordonnance, la Confédération verse aux cantons l’indemnité forfaitaire visée à l’art. 15*c* de la présente ordonnance. Celle-ci n’est allouée que si le renvoi a été exécuté dans les neuf mois suivant l’entrée en vigueur de la présente ordonnance. Aucune indemnité n’est versée pour l’exécution du renvoi de personnes pour lesquelles la Confédération s’est engagée, dans le cadre du soutien à l’exécution du renvoi au sens de l’art. 22*a* de la loi fédérale du 26 mars 1931 sur le séjour et l’établissement des étrangers[^u1-2], à rembourser aux cantons les frais d’assistance conformément à l’art. 88, al. 1, let. a, LAsi.
+
+[^u1-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+
+## Dispositions finales de la modification du 1<sup>er</sup> mars 2006****
+
+[^u2-1]
+
+[^u2-1]: [RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)
+
+<sup>1</sup> Le SEM verse aux cantons, rétroactivement pour 2005, la différence entre l’indemnité au titre de l’aide d’urgence au sens de l’art. 15*b*, al. 5, et l’indemnité au sens de l’art. 15*b*, al. 5, dans sa version du 24 mars 2004[^u2-2]. Le versement aura lieu au cours du 2<sup>e</sup> trimestre 2006.
+
+<sup>2</sup> L’indemnité au titre de l’aide d’urgence au sens de l’art. 15*b*, al. 5, sera adaptée au renchérissement pour la première fois en 2007.
+
+[^u2-2]: [RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)
+
+Annexe 1*[^t-1]*
+
+(art. 12, al. 2)
+
+## Niveaux d’accès et autorisations de traitement des données dans le système d’information eRetour
+
+[^t-1]: Introduite par le ch. II al. 2 de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)).
+
+### Légende
+
+Niveaux d’accès:
+
+- A Consulter en ligne
+- B Traiter
+- Vide Pas d’accès
+
+Unités organisationnelles:
+
+- Air Collaborateurs externes mandatés par le SEM dans le domaine de l’organisation des départs
+- AVR Collaborateurs d’organisations non gouvernementales mandatées par le SEM ou un canton pour des tâches dans le domaine de l’aide au retour
+- Cgfr Gardes-frontières pour les tâches de contrôles des départs
+- CP Autorités cantonales de police chargées du retour (y compris aux aéroports)
+- CVR Services cantonaux de conseil au retour
+- Médi Collaborateurs externes en charge de l’évaluation de l’aptitude au transport et de l’accompagnement médical
+- MIGRA Offices cantonaux et communaux des migrations - Retour
+- SEM Secrétariat d’État aux migrations
+- – I Planification et ressources / Fournisseur de prestations informatiques
+- – II Collaborateurs spécialisés de la Division Retour (y compris swissREPAT)
+- – III Collaborateurs spécialisés en frais de départ
+- – IV Collaborateurs spécialisés dans les centres et les logements de la Confédération
+- – V Domaine Échange de données et identification
+- – VI Domaine Saisie et mise à jour des données
+- – VII Domaine Analyses linguistiques
+- [tab]
+
+### Catalogue des données eRetour
+
+<table>
+<tr><th>Dénomination des champs de données eRetour</th><th colspan="7">SEM</th><th colspan="8">Partenaires du SEM</th></tr>
+<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th>VI</th><th>VII</th><th>MIGRA</th><th>CVR</th><th>CP</th><th>X</th><th>Cgfr</th><th>Air</th><th>MEDI</th><th>AVR</th></tr>
+<tr><td colspan="16">I. Données de base</td></tr>
+<tr><td colspan="16">1. Identité</td></tr>
+<tr><td>Noms d’emprunt</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Noms</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Prénoms</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N° SYMIC</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N° de dossier Asile</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Emplacement du dossier Asile</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Date de naissance</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Sexe</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nationalité actuelle et à la naissance</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Langue</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Type d’identité (principale / secondaire)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Type de personne (principale / secondaire) qui fait l’objet de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Type de relation</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Canton de répartition</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de dépôt de la demande d’asile</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">2. Données biométriques</td></tr>
+<tr><td>Photo de la personne</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de saisie de la photo</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Fiche d’empreintes digitales</td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de transmission de la fiche d’empreintes digitales</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date d’effacement de la fiche d’empreintes digitales</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">3. Documents d’identité</td></tr>
+<tr><td>En possession de pièces d’identité</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Type de document et classification</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Numéro</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Date et lieu d’établissement</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Date d’échéance</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Document remis</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Emplacement du document</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td></tr>
+<tr><td>Date de saisie de la copie du document</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td colspan="16">4. Données en lien avec l’existence d’une expulsion, expulsion pénale</td></tr>
+<tr><td>Existence d’une expulsion ou expulsion pénale</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Commentaire relatif à l’existence d’une expulsion</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de transmission de la copie de la décision</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">5. Données en lien avec les détentions administratives et pénales</td></tr>
+<tr><td>Personne en détention administrative</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Personne en détention pénale</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Type de détention</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Lieu de détention</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date de début de détention</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date de sortie au plus tôt (détention pénale)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date et heure de fin de détention prévue</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date et heure de fin de détention administrative effective</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Canton ayant ordonné la détention administrative</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Représentant légal (pour les mineurs)</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Mesures de protection pour l’enfant</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Décomptes des frais de détention administrative</td><td>B</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">6. Autres données de base</td></tr>
+<tr><td>Date du départ de Suisse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Type de départ (terrestre/aérien/maritime)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Date de saisie du départ de Suisse et collaborateur qui a saisi cette donnée</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Âge</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Mineur</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Mineur non accompagné (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Emplacement de la personne</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Disposition à quitter la Suisse (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Délinquance (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">II. Traitement des demandes</td></tr>
+<tr><td colspan="16">1. Données de base relatives aux demandes</td></tr>
+<tr><td>Genre de demande eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Code d’observation dans SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>N° de demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure d’envoi de la demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de début de la demande eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date de fin de la demande eRetour</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de mutation de la demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Auteur de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Genre de règlement de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Code de règlement SYMIC de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Collaborateur chargé des mutations de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Historique des demandes traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Réactivation de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date de réactivation de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">2. Données de base spécifiques aux affaires eRetour</td></tr>
+<tr><td>Genre d’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td></tr>
+<tr><td>Code d’affaire SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>N° de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure d’envoi de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de début de l’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td></tr>
+<tr><td>Date de fin de l’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de mutation de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Auteur de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Genre de règlement de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Code de règlement SYMIC de l’affaire</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Statut de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de mutation du statut de l’affaire ainsi que collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Historique des affaires traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">3. Données de base spécifiques aux activités eRetour</td></tr>
+<tr><td>Genre d’activité eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>N° de l’activité eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure d’envoi de l’activité eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de début de l’activité eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date de fin de l’activité eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date et heure de mutation de l’activité eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Auteur de l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Destinataires de l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Genre de règlement de l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Statut de l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date et heure de mutation du statut de l’activité et collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Commentaire relatif à l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date de rappel de l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Type d’annexe à l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Nombre d’annexes à l’activité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Historique des activités traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="16">4. Données spécifiques à la communication</td></tr>
+<tr><td>Liste des personnes concernées</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Intitulé de la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Texte de la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Signature de l’auteur de la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date et heure de transmission de la communication</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Texte de la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Nombre d’annexes à la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Affichage avec les données personnelles spécifiques au classeur eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de sauvegarde dans le dossier SYMIC</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">5. Données spécifiques à la gestion des documents</td></tr>
+<tr><td>Nom du document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Format du document annexé</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure du chargement du document dans eRetour et collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Indications sur les personnes concernées par le document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date et heure de la sauvegarde du document dans le dossier SYMIC et collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de rappel de l’effacement du document annexé dans eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Blocage de l’effacement du document dans eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Blocage du chargement du document dans le dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Blocage partiel de la visualisation du document dans eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Affichage de la liste des documents annexés par personne par demande eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Affichage de la liste des documents annexés par personne par affaire eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Affichage de la liste des documents annexés par personne par activité eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Exportation d’un document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Effacement d’un document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Chargement d’un document dans le dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Accès sélectif au sous-dossier Retour du dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Accès libre à tout le dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">III. Soutien au retour</td></tr>
+<tr><td colspan="16">1. Données de base spécifiques aux demandes de soutien au retour (identification, obtention document, organisation départ)</td></tr>
+<tr><td>Date de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Domaine juridique</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Autorité ayant présenté la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Interlocuteur au SEM et au canton qui présente la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type et numéro de référence cantonal</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type de relation par rapport à la personne principale qui fait l’objet de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Délinquance</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date du départ de Suisse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Mode du départ de Suisse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de saisie du départ de Suisse et collaborateur qui a saisi cette donnée</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date d’octroi et durée de validité de l’assentiment</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date d’octroi et durée de validité du laissez-passer</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">2. Données relatives à la demande de soutien au retour (identification et obtention de documents)</td></tr>
+<tr><td>Existence de démarches en vue du départ ou du renvoi</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Description des démarches effectuées en vue du départ ou du renvoi</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Entretien de départ effectué (oui/non)</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Raisons pour lesquelles l’entretien n’a pas été effectué</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de l’entretien de départ</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Langue de l’entretien de départ</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie du procès-verbal de l’entretien de départ</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Volonté de quitter la Suisse</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Motifs du refus de quitter la Suisse</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Demande d’aide au retour envisagée</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie de la demande d’aide au retour</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie de la décision de renvoi cantonale</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications sur les personnes inclues dans la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Liste des annexes à la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Remarques complémentaires à la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">3. Données personnelles utilisées dans le cadre des démarches d’identification ou d’obtention de documents</td></tr>
+<tr><td>Nationalité supposée</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Numéro de téléphone</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Autres connaissances linguistiques</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Existence et indications des indices linguistiques</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Ethnie</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Code d’origine</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Religion</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Dernier domicile à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Complément d’adresse à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Lieu et pays de naissance</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité du père (nom, prénom, date de naissance, lieu de naissance)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications complémentaires sur le père (domicile et numéro de téléphone)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité de la mère (noms, prénoms, date de naissance, lieu de naissance)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications complémentaires sur la mère (domicile et numéro de téléphone)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité des grands-parents maternels (noms, prénoms, date de naissance, lieu de naissance)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Indications complémentaires sur les grands-parents maternels (type de relation, domicile et numéro de téléphone)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Identité des grands-parents paternels (noms, prénoms, date de naissance, lieu de naissance)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Indications complémentaires sur les grands-parents paternels (type de relation, domicile et numéro de téléphone)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Conjoint ou enfants dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité du conjoint ou des enfants (noms, prénoms, date de naissance, lieu de naissance) dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications complémentaires relatives au conjoint ou aux enfants (type de relation, domicile et numéro de téléphone) dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Type de parenté dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité de la parenté (noms, prénoms, date de naissance, lieu de naissance) dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications complémentaires relatives à la parenté (type de relation, domicile et numéro de téléphone) dans l’État d’origine ou un État tiers</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">4. Données techniques en lien avec les activités d’identification et d’obtention de documents</td></tr>
+<tr><td>Pays d’audition prévu</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de prise en compte pour une audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Période prévue pour l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de convocation à l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date et bloc horaire ou heure de l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Mode de conduite de l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Résultat de l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Motifs du résultat de l’audition centralisée</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Commentaire interne relatif à l’audition centralisée</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pays sollicité</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de début de la démarche d’identification ou d’obtention de documents</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date des rappels</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date du délai de réponse</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date des compléments à la démarche</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de l’audience</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date du résultat</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Résultat de la démarche</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Commentaire relatif au résultat de la démarche</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Historique des démarches d’identification/d’obtention de documents</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">5. Données de planification des auditions centralisées</td></tr>
+<tr><td>Pays d’audition prévu</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Période d’audition prévue</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Dates fixées pour l’audition</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Lieu de l’audition</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Nombre de places disponibles</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Nombre de places occupées</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date d’annulation de l’audition</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Feuille de données personnelles établie</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Liste des auditions prévues</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Liste des personnes prévues par audition</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Listes des personnes prévues par canton, par date</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">IV. Organisation du départ</td></tr>
+<tr><td colspan="16">1. Données de base spécifiques aux demandes d’organisation du départ</td></tr>
+<tr><td>Date de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Personnes concernées et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Interlocuteur de la police du canton qui présente la demande et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>Interlocuteur au SEM et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td colspan="16">2. Données relatives à la demande de réservation de vol (vol de ligne et vol spécial)</td></tr>
+<tr><td>Type de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Catégorie de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Aéroport de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Aéroport de départ indiqué par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Période de départ indiquée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Motifs pour la date de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Plage horaire de départ indiquée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Motifs de l’horaire</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Copie des documents annexés à la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Remarques générales sur la demande de réservation</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td colspan="16">3. Données techniques relatives aux réservations de vol (vol de ligne et vol spécial)</td></tr>
+<tr><td>Statut du passager</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Motif du départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Heure de départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Aéroport de départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Compagnie aérienne</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N° de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Heure et date d’arrivée à destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Heure et date d’arrivée à l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Heure et date de départ de l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Compagnie aérienne pour le transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N° de vol au départ de l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure de réservation des vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identifiant de la personne ayant réservé les vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure de communication de la réservation des vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identifiant de la personne ayant communiqué la réservation des vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure de la demande d’annulation de la réservation des vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identifiant de la personne demandant l’annulation des vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Motif de l’annulation</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>Date et heure de l’annulation effective de la réservation des vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identifiant de la personne ayant annulé les vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Demande de remboursement effectuée auprès de la compagnie</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Facturation des frais au mandataire</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montant des frais à facturer</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td colspan="16">4. Données de planification des vols spéciaux</td></tr>
+<tr><td>Destination de vol prévue</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Période de vol prévue</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Aéroport de départ</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Compagnie aérienne</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>N° de vol</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Date et heure de départ fixées pour le vol</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Heure et date d’arrivée à destination</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Aéroport de transit</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Heure et date d’arrivée transit</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Heure et date de départ transit</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Durée de l’engagement prévue</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Mandataire du vol</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Statut de la demande d’organisation du vol</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Dates du statut de l’organisation du vol</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Nombre de places disponibles</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Nombre de places occupées</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Date d’annulation du vol</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Nombre d’accompagnants prévus, par type</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Indication du chef d’équipe du vol</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Liste des passagers, par type, canton</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Liste des accompagnants, par type</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td colspan="16">5. Données personnelles utilisées dans le cadre de l’organisation du départ</td></tr>
+<tr><td>Identités secondaires pertinentes pour le départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Lieu de naissance</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Domicile dans l’État de destination (vol de ligne)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">6. Données relatives à la sécurité concernant la personne principale</td></tr>
+<tr><td>Volonté de quitter la Suisse (oui/non)</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Motifs du refus de quitter la Suisse</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Vol refusé</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Type des vols refusés</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date des vols refusés</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Compléments touchant à la sécurité (oui/non)</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications détaillées touchant à la sécurité</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Compléments concernant d’éventuels actes de délinquance</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications détaillées relatives aux éventuels actes de délinquance</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie des documents de police et jugements</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Adresse du lieu de séjour actuel</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Mode de voyage jusqu’à l’aéroport</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Existence de risques en matière de sécurité pour soi ou autrui</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Détails des risques en matière de sécurité annoncés</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">7. Examen relatif à la sécurité concernant la personne principale (vol de ligne et vol spécial)</td></tr>
+<tr><td>Analyse de risque effectuée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date de l’analyse de risque effectuée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Identifiant de la personne ayant effectué l’analyse de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Résultat final de l’analyse de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Liste des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Dates des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Résultats des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Proposition de modification du niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Validation du changement de niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Identifiant de la personne ayant validé le changement de niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date d’information du mandataire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Acceptation du changement par le mandataire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Accompagnement nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Nombre d’accompagnants à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Autres mesures à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td colspan="16">8. Données médicales concernant la personne principale et les membres de sa famille</td></tr>
+<tr><td>Questions relatives à l’état de santé posées et examens médicaux nécessaires effectués</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications concernant des problèmes de santé</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie des rapports médicaux transmis</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications concernant des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Détail des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">9. Examen des données médicales concernant la personne principale et les membres de sa famille</td></tr>
+<tr><td>Évaluation de l’aptitude au transport nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Numéro du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Priorité du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Type d’engagement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Domaine juridique</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Identité de la personne à évaluer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Emplacement de la personne à évaluer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Date de la demande d’annonce de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Autorité ayant présenté la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Interlocuteurs au SEM et au canton qui présente la demande</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Coordonnées (téléphone, y compris permanence téléphonique, courriel)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Liste et nombre des documents remis pour évaluation</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Destinataire du mandat d’évaluation (adresse, données de contact)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Date et heure de transmission du mandat d’évaluation</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Identifiant de la personne ayant transmis le mandat</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>Documents complémentaires nécessaires à l’évaluation</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Date et heure de réception de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Résultat de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Aptitude à voyager en avion (oui/non)</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Accompagnement nécessaire</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Médicaments actuels</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Aides nécessaires sur le vol</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Codification</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Danger pour sa propre personne (oui/non)</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Danger pour les autres (oui/non)</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Indications, mesures, mesures de précaution pour l’organisation au sol, prise en charge au moment du départ</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Facteur de coût</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Identifiant de la personne ayant transmis le résultat de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Décomptes des frais d’évaluation de l’aptitude au transport</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td colspan="16">10. Données complémentaires sur les documents d’identité</td></tr>
+<tr><td>Type de document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Autorité établissant le document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date d’échéance du document de voyage</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Mode de transmission du document de voyage à swissREPAT</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Copie des documents de voyage</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Données relatives à la gestion du stockage des documents auprès de swissREPAT</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td></tr>
+<tr><td>Date de remise du document à la personne</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
+<tr><td>Signature électronique du reçu de réception du document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
+<tr><td>Copie du reçu de réception du document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
+<tr><td colspan="16">11. Données relatives aux versements à l’aéroport</td></tr>
+<tr><td>Indemnité de voyage Confédération (selon art. 59*a* de l’ordonnance 2 du 11 août 1999 sur l'asile relative au financement, OA 2[^annex1-lvlu1-lvlu2-1])</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Montant de l’indemnité de voyage Confédération en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Indemnité de voyage Canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Montant de l’indemnité de voyage Canton en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date et heure de l’octroi</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Indemnité de départ (selon art. 59*a*<sup>bis</sup> OA 2)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Montant de l’indemnité de départ en francs</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Aide au retour Confédération</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>\*Montant de l’aide au retour Confédération en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>\*Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>\*Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Aide au retour Canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Montant de l’aide au retour Canton en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Montant total à verser par swissREPAT en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Monnaie des versements à effectuer (CHF/USD/EUR)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td></tr>
+<tr><td colspan="16">12. Données relatives aux versements effectués (à l’aéroport ou ailleurs)</td></tr>
+<tr><td>Dates des versements effectués</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Signatures électroniques de réception des montants versés (destinataire)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Signatures électroniques des versements effectués</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
+<tr><td>Copie des reçus par type d’aide versée</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
+<tr><td colspan="16">13. Données relatives aux accompagnements</td></tr>
+<tr><td>Date des accompagnements prévus</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date des accompagnements effectués</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Itinéraire des accompagnements (aéroport de départ, transit, arrivée, retour)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Durée des accompagnements</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Identité des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Fonction des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Liste des accompagnements prévus par date, par type, par lieu</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>Liste des accompagnements effectués par date, par type</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Liste des engagements prévus par accompagnants, par type</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Liste des engagements effectués par accompagnants, par type</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td>Décomptes des frais d’accompagnement</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td></tr>
+<tr><td colspan="16">V. Conseil et octroi de l’aide au retour</td></tr>
+<tr><td colspan="16">1. Données de base spécifiques au conseil en vue du retour</td></tr>
+<tr><td>Domaine juridique</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Autorité ayant effectué le conseil</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Interlocuteur au SEM et au canton où la demande est présentée</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de la demande d’asile</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité du bénéficiaire (noms, prénoms, date de naissance, sexe)</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nationalité du bénéficiaire</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nombre de bénéficiaires</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Statut des bénéficiaires au moment du conseil</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du délai de départ</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du 1<sup>er</sup> entretien</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nombre d’entretiens effectués</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Informations générales sur les bénéficiaires</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nature de l’aide au retour octroyée</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du départ prévue</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du départ effective</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Statut actuel des bénéficiaires</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Liste détaillée des cas où des conseils ont été donnés, pour une période donnée, par statut</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">2. Données de base spécifiques à une demande d’aide au retour</td></tr>
+<tr><td>Date de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Domaine juridique</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Canton chargé de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Autorité ayant présenté la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Interlocuteur au SEM et au canton où la demande est présentée</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type et numéro de référence cantonale</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type de personne (personne principale/secondaire) qui présente la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type de relation par rapport à la personne principale qui présente la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Indications relatives aux bénéficiaires majeurs inclus</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date et signature électronique des bénéficiaires majeurs</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications relatives aux bénéficiaires mineurs inclus</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Genre de demande d’aide au retour eRetour</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Code de demande d’aide au retour SYMIC</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Historique des demandes traitées</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Date de réactivation de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td colspan="16">3. Données spécifiques à la demande d’aide au retour individuelle</td></tr>
+<tr><td>Pays de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Type de départ prévu (terrestre / aérien / maritime)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date ou période de départ prévue</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Compagnie aérienne prévue</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">4. Contrôle des conditions d’accès</td></tr>
+<tr><td>Appartenance à une catégorie de bénéficiaires vérifiée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Dispositions nécessaires en vue du départ prises</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Demande d’asile en suspens ou faisant l’objet d’un recours : retrait signé</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Réfugiés reconnus: renonciation signée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du retrait de demande d’asile</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Lieu du retrait de demande d’asile</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie de la déclaration de retrait</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de la renonciation au statut de réfugié</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Lieu de la renonciation au statut de réfugié</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Copie de la déclaration de renonciation</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">5. Contrôle des limitations</td></tr>
+<tr><td>Pas de crime grave ou de délits répétés (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Pas d’abus manifeste (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Pas de moyens financiers suffisants ou d’importantes valeurs patrimoniales (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">6. Types et montants d’aide demandés, octroyés et versés</td></tr>
+<tr><td>Montant de l’aide financière demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant de l’aide financière octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montant de l’aide complémentaire matérielle demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant de l’aide complémentaire matérielle octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montant de l’aide de nature médicale demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant de l’aide de nature médicale octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montant total de l’aide demandée</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant total de l’aide octroyé par le SEM</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Commentaires relatifs à la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Montant total à verser par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Montant total à verser par swissREPAT</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Montant total à verser à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Validation 1 des montants à verser</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de la validation 1</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Validation 2 des montants à verser</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de la validation 2</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date du mandat SEM de versement à l’étranger</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Autorité chargée des versements à l’étranger</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Monnaie des versements à effectuer à l’étranger (CHF/USD/EUR)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Dates des versements effectués à l’étranger</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de clôture du projet</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="16">7. Données spécifiques du projet planifié</td></tr>
+<tr><td>Identité du bénéficiaire du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Pays de destination</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Adresse de destination</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Types de demande de réintégration</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nom du projet 1</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Description du projet 1</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant financier demandé pour le projet 1</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nom du projet 2</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Description du projet 2</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant financier demandé pour le projet 2</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Total des montants financiers demandés</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Détails du budget proposé</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Total du budget demandé</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Autres sources de financement prévues</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Stade de développement du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Type de collaboration</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Équipement nécessaire au projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Autorisations nécessaires à la mise en œuvre du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Local à disposition</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Données relatives à la formation professionnelle, expérience</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Données de contexte au projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Risques du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Calendrier de mise en œuvre du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Remarques et informations complémentaires au projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Annexes au projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="16">8. Données techniques en lien avec le remboursement d’une aide au retour perçue</td></tr>
+<tr><td>Date d’échéance du remboursement de l’aide au retour perçue</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Date du retour en Suisse</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Adresse du bénéficiaire en Suisse</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de la demande de remboursement</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Modalités de remboursement définies</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de fin du remboursement</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="16">9. Données de référence</td></tr>
+<tr><td>Données de référence</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+- [tab]
+
+[^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+
+Annexe 2*[^t-2]*
+
+(art. 18)
+
+## États d’origine ou de provenance, ou régions de ces États, dans lesquels un retour est en principe exigible
+
+[^t-2]: Introduite par le ch. II de l’O du 25 oct. 2017 ([RO 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)). Nouvelle teneur selon le ch. I de l’O du 28 août 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2811](https://fedlex.data.admin.ch/eli/oc/2019/513)).
+
+<table>
+<tr><td>Albanie</td><td>Lettonie</td></tr>
+<tr><td>Allemagne</td><td>Liechtenstein</td></tr>
+<tr><td>Autriche</td><td>Lituanie</td></tr>
+<tr><td>Belgique</td><td>Luxembourg</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>Macédoine du Nord</td></tr>
+<tr><td>Bulgarie</td><td>Malte</td></tr>
+<tr><td>Chypre</td><td>Monténégro</td></tr>
+<tr><td>Croatie</td><td>Norvège</td></tr>
+<tr><td>Danemark</td><td>Pays-Bas</td></tr>
+<tr><td>Espagne</td><td>Pologne</td></tr>
+<tr><td>Estonie</td><td>Portugal</td></tr>
+<tr><td>Finlande</td><td>Roumanie</td></tr>
+<tr><td>France</td><td>Royaume-Uni</td></tr>
+<tr><td>Géorgie</td><td>Serbie</td></tr>
+<tr><td>Grèce</td><td>Slovaquie</td></tr>
+<tr><td>Hongrie</td><td>Slovénie</td></tr>
+<tr><td>Irlande</td><td>Suède</td></tr>
+<tr><td>Islande</td><td>Tchéquie</td></tr>
+<tr><td>Italie</td><td></td></tr>
+<tr><td>Kosovo</td><td></td></tr>
+</table>
+
+Annexe 3*[^t-3]*
+
+(art. 26*c*, al. 2)
+
+## Accords d’association à Schengen
+
+[^t-3]: Anciennement annexe 1. Introduite par le ch. II de l’O du 24 nov. 2010 ([RO 2010 5769](https://fedlex.data.admin.ch/eli/oc/2010/817)). Nouvelle teneur selon le ch. I de l’O du 18 sept. 2015, en vigueur depuis le 15 oct. 2015 ([RO 2015 3727](https://fedlex.data.admin.ch/eli/oc/2015/626)).
+
+Les accords d’association à Schengen comprennent les accords suivants:
+
+- a. Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-1];
+- b. Accord du 26 octobre 2004 sous forme d’échange de lettres entre le Conseil de l’Union européenne et la Confédération suisse concernant les Comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs[^annex3-lvlu1-2];
+- c. Arrangement du 22 septembre 2011 entre l’Union européenne et la République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège et la Confédération suisse sur la participation de ces États aux travaux des comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs dans le domaine de la mise en œuvre, de l’application et du développement de l’acquis de Schengen[^annex3-lvlu1-3];
+- d. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex3-lvlu1-4];
+- e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex3-lvlu1-5];
+
+f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-6].
+
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
+[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)

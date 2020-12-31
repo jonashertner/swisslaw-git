@@ -1,0 +1,130 @@
+---
+sr: "429.1"
+title: Bundesgesetz vom 18. Juni 1999 über die Meteorologie und Klimatologie (MetG)
+short: MetG
+eli: "https://fedlex.data.admin.ch/eli/cc/2000/113"
+language: de
+version: 2007-01-01
+adopted: 1999-06-18
+in_force: 2000-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/113/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2000-113-20070101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/113/20070101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die Meteorologie und Klimatologie
+
+(MetG)
+
+vom 18. Juni 1999 (Stand am 1. Januar 2007)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 24<sup>bis</sup> Absatz 2, 24<sup>quinquies</sup> Absatz 2, 24<sup>septies</sup>, 27<sup>sexies</sup>, 37<sup>ter</sup> und 85 Ziffer 1 der Bundesverfassung[^ingress-1],
+
+nach Einsicht in die Botschaft des Bundesrates vom 22. April 1998[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [BS **1** 3; [AS 1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065), [1971 905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [1973 1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1976 715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)]. Den genannten Bestimmungen entsprechen heute die Art. 64, 74, 76, 87, 118 und 173 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: BBl **1998** 4161
+
+#### Art. 1
+
+**Bundesaufgaben**
+
+Der Bund erfüllt im Bereich der Meteorologie und Klimatologie folgende Aufgaben:
+
+- a. Er erfasst auf dem Gebiet der Schweiz dauernd und flächendeckend meteorologische und klimatologische Daten.
+- b. Er beteiligt sich an Erfassung, Austausch und Auswertung von internationalen meteorologischen und klimatologischen Daten.
+- c. Er warnt vor Gefahren des Wetters.
+- d. Er stellt meteorologische Informationen für den Flugbetrieb und die Flugsicherheit auf schweizerischem Gebiet bereit.
+- e. Er sorgt für die Bereitstellung von klimatologischen Informationen sowie für die Umsetzung von Massnahmen als Beitrag zur langfristigen Sicherung einer gesunden Umwelt.
+- f. Er stellt die Überwachung der Radioaktivität in der Atmosphäre sicher und stellt meteorologische Grundlagen für die Berechnung der Ausbreitung von Luftschadstoffen zur Verfügung.
+- g. Er fördert die theoretische Meteorologie und Klimatologie und führt anwendungsorientierte Forschungs- und Entwicklungsprojekte durch.
+- h. Er erbringt weitere meteorologische und klimatologische Dienstleistungen für die Bedürfnisse der Allgemeinheit.
+
+#### Art. 2
+
+**Zuständige Verwaltungseinheiten**
+
+<sup>1</sup> Der Bundesrat bezeichnet die Verwaltungseinheiten, welche die Aufgaben nach Artikel 1 übernehmen. Er bezeichnet insbesondere das für den gesamtschweizerischen meteorologischen und klimatologischen Dienst zuständige Bundesamt (Bundesamt); dieses vertritt die Schweizerische Eidgenossenschaft bei der Weltorganisation für Meteorologie.
+
+<sup>2</sup> In der Erfüllung ihrer Aufgaben berücksichtigen die zuständigen Verwaltungseinheiten die Bedürfnisse der Landesteile und Sprachregionen.
+
+#### Art. 3
+
+**Grundangebot an Dienstleistungen**
+
+<sup>1</sup> Der Bundesrat legt im Rahmen der Bundesaufgaben nach Artikel 1 ein benutzergerechtes Grundangebot an meteorologischen und klimatologischen Dienstleistungen fest. Er regelt die Bedingungen für dessen Nutzung.
+
+<sup>2</sup> Das Bundesamt sorgt für die Bereitstellung des Grundangebots, stellt die im Rahmen der Bundesaufgaben erhobenen Daten und Informationen Dritten zur Verfügung und betreibt Auskunfts- und Beratungsdienste.
+
+<sup>3</sup> Es erhebt für diese Dienstleistungen Gebühren. Sie können nach der Art der Nutzung abgestuft werden. Bei der Bemessung der Gebühren ist dem Allgemeinnutzen der meteorologischen und klimatologischen Informationen sowie den Bedürfnissen der Kantone und der Wissenschaft angemessen Rechnung zu tragen.
+
+#### Art. 4
+
+**Erweiterte Dienstleistungen**
+
+<sup>1</sup> Das Bundesamt kann meteorologische und klimatologische Daten, Ergebnisse oder sonstige Informationen zur Deckung besonderer Kundenwünsche aufbereiten und kommerziell verwerten.
+
+<sup>2</sup> Das Angebot an erweiterten Dienstleistungen hat in einem engen Zusammenhang mit dem Grundangebot zu stehen und darf dieses nicht beeinträchtigen.
+
+<sup>3</sup> Das Bundesamt bietet die erweiterten Dienstleistungen auf privatrechtlicher Basis an. Es setzt das Entgelt nach den Bedingungen des Marktes fest und gibt die Ansätze bekannt. Die erweiterten Dienstleistungen dürfen nicht unter den Gestehungskosten erbracht und nicht mit Erträgen aus dem Grundangebot verbilligt werden.
+
+#### Art. 5
+
+**Zusammenarbeit und Beteiligungen**
+
+<sup>1</sup> Das Bundesamt kann zur Erfüllung seiner Aufgaben mit schweizerischen, ausländischen oder internationalen Organisationen des öffentlichen oder privaten Rechts zusammenarbeiten. Es kann für die Schweizerische Eidgenossenschaft den Beitritt erklären oder Beteiligungen eingehen.
+
+<sup>2</sup> Der Bundesrat kann entsprechende internationale Abkommen in eigener Zuständigkeit abschliessen. Er kann seine Vertragsschlusskompetenz an das Bundesamt abtreten, wenn solche Abkommen ausschliesslich fachtechnische Bestimmungen enthalten.
+
+#### Art. 5a
+
+**Beiträge für Beteiligungen an internationalen Programmen**[^5a-1]
+
+<sup>1</sup> Der Bund kann im Rahmen der bewilligten Kredite Beiträge gewähren für die Beteiligung der Schweiz an Programmen internationaler Organisationen und Institutionen im Bereich der Meteorologie und Klimatologie auf internationaler Ebene.
+
+<sup>2</sup> Der Bundesrat bestimmt die Höhe der Beiträge und regelt das Verfahren.
+
+<sup>3</sup> Er kann mit Dritten Leistungsvereinbarungen abschliessen; darin legt er die Art der Beteiligung und den Umfang der Leistungen fest.
+
+[^5a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4881](https://fedlex.data.admin.ch/eli/oc/2006/759)4882; [BBl 2005 5413](https://fedlex.data.admin.ch/eli/fga/2005/851)).
+
+#### Art. 6
+
+**Aufgabenerfüllung durch Dritte**
+
+Der Bundesrat kann bestimmte Aufgaben nach diesem Gesetz durch Vertrag ganz oder teilweise an Dritte übertragen.
+
+#### Art. 7
+
+**Vollzug**
+
+Der Bundesrat wird mit dem Vollzug beauftragt.
+
+#### Art. 8
+
+**Aufhebung bisherigen Rechts**
+
+Es werden aufgehoben:
+
+- a. das Bundesgesetz vom 27. Juni 1901[^8-1] über die Schweizerische Meteorologische Zentralanstalt;
+- b. der Bundesbeschluss vom 9. Dezember 1921[^8-2] betreffend die Erweiterung des Dienstes der Schweizerischen Meteorologischen Zentralanstalt in Zürich.
+
+[^8-1]: [BS **4** 274; [AS 1957 271](https://fedlex.data.admin.ch/eli/oc/1957/271_273_283)Art. 3]
+[^8-2]: [BS **4** 276]
+
+#### Art. 9
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrafttretens: 1. April 2000[^9-1]
+
+[^9-1]: BRB vom 23. Febr. 2000 (AS **2000** 666)

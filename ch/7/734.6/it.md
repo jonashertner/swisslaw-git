@@ -1,0 +1,443 @@
+---
+sr: "734.6"
+title: Ordinanza del 25 novembre 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva (OASAE)
+short: OASAE
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
+language: it
+version: 2017-02-14
+adopted: 2015-11-25
+in_force: 2016-04-20
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20170214/it/xml/fedlex-data-admin-ch-eli-cc-2016-19-20170214-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20170214/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva
+
+(OASAE)
+
+del 25 novembre 2015 (Stato 14 febbraio 2017)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 3 e 55 capoverso 3 della legge del 24 giugno 1902[^ingress-1] sugli impianti elettrici (LIE); in esecuzione della legge federale del 12 giugno 2009[^ingress-2] sulla sicurezza dei prodotti (LSPro); in esecuzione della legge federale del 6 ottobre 1995[^ingress-3] sugli ostacoli tecnici al commercio (LOTC),
+
+ordina:
+
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Campo d’applicazione**
+
+<sup>1</sup>
+
+La presente ordinanza si applica ai seguenti prodotti, ai sensi della direttiva 2014/34/UE[^1-1] (direttiva ATEX 2014/34/UE):
+
+- a. apparecchi e sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva;
+- b. dispositivi di sicurezza, di controllo e di regolazione destinati a essere utilizzati al di fuori di atmosfere potenzialmente esplosive ma necessari o utili per il funzionamento sicuro degli apparecchi e sistemi di protezione, rispetto ai rischi di esplosione;
+- c. componenti destinati ad essere inseriti nei prodotti e sistemi di protezione di cui alla lettera a.
+
+<sup>2</sup> Non si applica ai prodotti di cui all’articolo 1 paragrafo 2 della direttiva ATEX 2014/34/UE.
+
+[^1-1]: Direttiva 2014/34/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative agli apparecchi e sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva (rifusione), testo secondo GU L 96 del 29.3.2014, pag. 309.
+
+#### Art. 2
+
+**Definizioni**
+
+<sup>1</sup>
+
+Nella presente ordinanza si intende per:
+
+- a. *messa a disposizione sul mercato*: la fornitura di un prodotto per la distribuzione, il consumo o l’uso sul mercato svizzero nel corso di un’attività commerciale, a titolo oneroso o gratuito;
+- b. *immissione sul mercato*: la prima messa a disposizione sul mercato svizzero di un prodotto;
+- c. *operatore economico:* il fabbricante, il rappresentante autorizzato, l’importatore e il distributore.
+
+<sup>2</sup> La messa in servizio di prodotti a scopi professionali nella propria impresa è equiparata alla messa a disposizione sul mercato in Svizzera se precedentemente non vi è stata alcuna messa a disposizione sul mercato.
+
+<sup>3</sup> Per il resto, si applicano le definizioni di cui all’articolo 2 e all’allegato I, in esso citato, della direttiva ATEX 2014/34/UE[^2-1]. Invece delle definizioni di cui all’articolo 2 numeri 18–20 della direttiva ATEX 2014/34/UE, si applicano le corrispondenti definizioni della legislazione in materia di sicurezza dei prodotti e di accreditamento. Inoltre si applicano le definizioni equivalenti di cui all’allegato della presente ordinanza.
+
+[^2-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+
+#### Art. 3
+
+**Sicurezza**
+
+Se installati e ispezionati in modo corretto e utilizzati in modo conforme, i prodotti non devono mettere in pericolo persone o cose.
+
+## Sezione 2: Messa a disposizione sul mercato di nuovi prodotti
+
+#### Art. 4
+
+**Obblighi**
+
+<sup>1</sup> Per gli obblighi degli operatori economici si applicano gli articoli 6–9 e gli allegati II-IX, in essi citati, della direttiva ATEX 2014/34/UE[^4-1], nella misura in cui tali obblighi non derivino già dalla presente ordinanza. Le autorità competenti ai sensi di questi articoli sono gli organi esecutivi di cui all’articolo 17 capoverso 2.
+
+<sup>2</sup> L’obbligo di apporre la marcatura CE non si applica. Se è già stata apposta in conformità alle disposizioni dell’UE, la marcatura CE può essere mantenuta.
+
+<sup>3</sup>
+
+Un importatore o distributore è ritenuto un fabbricante ai fini della presente ordinanza ed è soggetto agli obblighi del fabbricante quando:
+
+- a. immette sul mercato un prodotto con il proprio nome o marchio commerciale; oppure
+- b. modifica un prodotto già immesso sul mercato in modo tale da poterne condizionare la conformità alla presente ordinanza.
+
+[^4-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+
+#### Art. 5
+
+**Requisiti essenziali**
+
+<sup>1</sup> I prodotti possono essere messi a disposizione sul mercato solo se conformi ai requisiti essenziali ai sensi dell’allegato II della direttiva ATEX 2014/34/UE[^5-1]. Per determinare i gruppi e le categorie di apparecchi, si applica l’allegato I di tale direttiva.
+
+<sup>2</sup>
+
+Sui prodotti stessi o, se ciò non dovesse essere possibile, sugli imballaggi o nella documentazione allegata, devono essere riportate le seguenti informazioni:
+
+- a. numero di tipo, lotto o serie o altri elementi che ne consentano l’identificazione;
+- b. nome, denominazione commerciale registrata o marchio registrato del fabbricante ed eventualmente dell’importatore;
+- c. indirizzo della persona di cui alla lettera b;
+
+<sup>3</sup> Per i prodotti che non sono componenti devono essere riportate, nei medesimi posti, le altre indicazioni e informazioni ai sensi dell’allegato II numero 1.0.5 della direttiva ATEX 2014/34/UE.
+
+[^5-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+
+#### Art. 6
+
+**Norme tecniche**
+
+<sup>1</sup> La designazione delle norme tecniche[^6-1] atte a concretizzare i requisiti essenziali è effettuata conformemente all’articolo 6 LSPro.
+
+<sup>2</sup> La designazione è di competenza dell’Ufficio federale dell’energia (UFE), d’intesa con la Segreteria di Stato dell’economia (SECO).
+
+[^6-1]: L’elenco dei titoli di tali norme e il loro testo possono essere ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+#### Art. 7
+
+**Dichiarazione di conformità**
+
+<sup>1</sup> Chi, in qualità di operatore economico, mette a disposizione sul mercato un prodotto ai sensi dell’articolo 1 deve essere in grado di presentare una dichiarazione di conformità dalla quale risulti che il prodotto è conforme ai requisiti essenziali e che le procedure di valutazione della conformità ai sensi dell’articolo 12 sono state eseguite.
+
+<sup>2</sup> Se il prodotto a bassa tensione è assoggettato a diverse regolamentazioni che esigono una dichiarazione di conformità, deve essere rilasciata una sola dichiarazione. Essa deve contenere tutte le informazioni determinanti relative alle regolamentazioni interessate.
+
+<sup>3</sup>
+
+La dichiarazione di conformità deve essere redatta in una lingua ufficiale svizzera o in inglese e deve comprendere le indicazioni seguenti:
+
+- a. prodotto o modello di prodotto con numero di prodotto, tipo, lotto o serie;
+- b. nome o designazione e indirizzo del fabbricante o del suo rappresentante domiciliato in Svizzera;
+- c. descrizione del prodotto e indicazioni sulla sua identificazione;
+- d. prescrizioni tecniche, norme con indicazione dell’edizione (EN, IEC) o altre specifiche tecniche applicate;
+- e. se del caso, nome e indirizzo dell’organo di controllo e di valutazione della conformità (organismo notificato), con indicazione della valutazione da esso effettuata e dell’attestato da esso emesso;
+- f. nome e indirizzo della persona che firma la dichiarazione di conformità per il fabbricante o per il suo rappresentante domiciliato in Svizzera.
+
+<sup>4</sup> Per i componenti ai sensi dell’articolo 2 numero 3 della direttiva ATEX 2014/34/UE[^7-1] è sufficiente un attestato scritto di conformità del fabbricante. Esso deve attestare che i componenti sono conformi alle prescrizioni della presente ordinanza. Deve inoltre indicare le caratteristiche dei componenti e le condizioni per il montaggio che permettono agli apparecchi o ai sistemi di protezione di soddisfare i requisiti essenziali.
+
+[^7-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+
+#### Art. 8
+
+**Conservazione della dichiarazione di conformità e dell’attestato di conformità**
+
+La dichiarazione di conformità o l’attestato di conformità del fabbricante deve poter essere presentato durante dieci anni a partire dall’immissione sul mercato svizzero del prodotto.
+
+#### Art. 9
+
+**Adempimento dei requisiti**
+
+<sup>1</sup> Se i prodotti sono fabbricati conformemente alle norme tecniche ai sensi dell’articolo 6, si presuppone che i requisiti essenziali siano adempiuti.
+
+<sup>2</sup> Se tali norme non sono applicate o lo sono solo parzialmente, l’operatore economico deve poter provare che i requisiti essenziali sono adempiuti in altro modo.
+
+<sup>3</sup> L’operatore economico deve essere in grado di fornire la documentazione tecnica che permetta agli organi esecutivi ai sensi dell’articolo 17 di verificare la conformità con i requisiti essenziali.
+
+#### Art. 10
+
+**Informazioni da allegare al prodotto**
+
+<sup>1</sup>
+
+Gli operatori economici allegano al prodotto le seguenti informazioni:
+
+- a. le istruzioni e le necessarie informazioni sulla sicurezza almeno nella lingua ufficiale o nelle lingue ufficiali del luogo in cui il prodotto viene messo a disposizione sul mercato;
+- b. una copia della dichiarazione di conformità ai sensi dell’articolo 7 capoverso 1 o dell’attestato di conformità ai sensi dell’articolo 7 capoverso 4.
+
+<sup>2</sup> In caso di lotti ciascuno con più prodotti uguali, è sufficiente una copia della dichiarazione di conformità o dell’attestato di conformità per ciascun lotto.
+
+#### Art. 11
+
+**Documentazione tecnica**
+
+<sup>1</sup>
+
+La documentazione tecnica deve essere redatta in una lingua ufficiale svizzera o in inglese e deve comprendere le indicazioni seguenti:
+
+- a. una descrizione generale del prodotto;
+- b. informazioni riguardanti i provvedimenti che garantiscono che il prodotto corrisponde ai requisiti essenziali di cui all’articolo 5;
+- c.
+
+  la documentazione necessaria alla procedura di valutazione della conformità, in particolare:
+
+  - 1\. il certificato di esame del tipo rilasciato dall’organismo notificato o l’attestato di conformità, in caso di esame singolo,
+  - 2\. i disegni e i piani di progettazione e fabbricazione in particolare schemi di componenti, sottounità e circuiti,
+  - 3\. le descrizioni e spiegazioni necessarie alla comprensione di tali disegni e schemi e del funzionamento del prodotto,
+  - 4\. un elenco delle norme applicate completamente o in parte e, nella misura in cui non siano state applicate tali norme, una descrizione delle soluzioni adottate per soddisfare i requisiti essenziali,
+  - 5\. i risultati dei calcoli di progetto e degli esami effettuati, inclusa una valutazione dei rischi,
+  - 6\. le relazioni sulle prove effettuate dal fabbricante o da terzi.
+
+<sup>2</sup> La documentazione tecnica può essere redatta in un’altra lingua purché le informazioni necessarie alla sua valutazione siano fornite in una lingua ufficiale svizzera o in inglese.
+
+<sup>3</sup> La documentazione tecnica deve poter essere presentata durante dieci anni a decorrere dall’immissione sul mercato svizzero del prodotto. Per le produzioni in serie, il termine decorre dalla fabbricazione dell’ultimo esemplare.
+
+#### Art. 12
+
+**Procedure di valutazione della conformità**
+
+<sup>1</sup>
+
+Per valutare la conformità di apparecchi, compresi, se necessario, i dispositivi secondo l’articolo 1 capoverso 1 lettera b, si procede come segue:
+
+- a. per le categorie di apparecchi M 1 e 1 dei gruppi di apparecchi I e II, si applica la procedura di esame del tipo di cui all’allegato III della direttiva ATEX 2014/34/UE[^12-1], unitamente alla procedura di cui all’allegato IV o alla procedura di cui all’allegato V di tale direttiva;
+- b.
+
+  per le categorie di apparecchi M 2 e 2 dei gruppi di apparecchi I e II si procede come segue:
+
+  - 1\.[^12-2] in caso di motori a combustione interna e di apparecchi elettrici appartenenti ai suddetti gruppi e categorie, si applica la procedura di esame del tipo di cui all’allegato III della direttiva ATEX 2014/34/UE, unitamente alla procedura di cui all’allegato VI o alla procedura di cui all’allegato VII di tale direttiva;
+  - 2\. in caso di altri apparecchi appartenenti ai suddetti gruppi e categorie, si applica il controllo interno della produzione previsto dall’allegato VIII della direttiva ATEX 2014/34/UE. La documentazione tecnica indicata all’allegato VIII punto 2 della direttiva ATEX 2014/34/UE deve essere trasmessa a un organismo notificato, che ne accusa quanto prima ricevuta e la conserva;
+
+- c. per la categoria 3 del gruppo di apparecchi II, si applica il controllo interno della produzione di cui all’allegato VIII della direttiva ATEX 2014/34/UE.
+
+<sup>2</sup> Per i gruppi di apparecchi I e II, oltre alle procedure di cui al capoverso 1 è possibile seguire la procedura di valutazione della conformità basata sulla verifica dell’unità di cui all’allegato IX della direttiva ATEX 2014/34/UE.
+
+<sup>3</sup> Per i sistemi di protezione si applica la procedura di cui al capoverso 1 lettera a o al capoverso 2.
+
+<sup>4</sup> Riguardo agli aspetti di sicurezza di cui all’allegato II, numero 1.2.7 della direttiva ATEX 2014/34/UE, oltre alle procedure di valutazione della conformità di cui ai capoversi 1–3, si può applicare la procedura di cui all’allegato VIII della direttiva ATEX 2014/34/UE.
+
+<sup>5</sup> In casi giustificati, gli organi esecutivi possono autorizzare l’immissione sul mercato o la messa in servizio di prodotti anche se le procedure ai sensi del presente articolo non sono state eseguite.
+
+[^12-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+[^12-2]: Correzione del 14 feb. 2017 ([RU 2017 559](https://fedlex.data.admin.ch/eli/oc/2017/98)).
+
+#### Art. 13
+
+**Procedure di valutazione della conformità per componenti**
+
+<sup>1</sup> Ai componenti si applicano le procedure di valutazione della conformità di cui all’articolo 12, capoversi 1 e 2.
+
+<sup>2</sup>
+
+Invece della dichiarazione di conformità, il fabbricante deve rilasciare un attestato scritto di conformità. Esso contiene:
+
+- a. la dichiarazione che i componenti in questione sono conformi alle disposizioni della presente ordinanza;
+- b. la descrizione delle caratteristiche di tali componenti;
+- c. le modalità con cui devono essere incorporati in apparecchi o sistemi di protezione per contribuire al rispetto dei requisiti essenziali di salute e di sicurezza di cui all’allegato II della direttiva ATEX 2014/34/UE[^13-1].
+
+[^13-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1.
+
+#### Art. 14
+
+**Organismi di controllo e di valutazione della conformità**
+
+<sup>1</sup>
+
+Gli organismi di controllo e di valutazione della conformità che rilasciano rapporti o certificati ai sensi degli articoli 12 e 13 devono:
+
+- a. essere accreditati conformemente all’ordinanza del 17 giugno 1996[^14-1] sull’accreditamento e sulla designazione;
+- b. essere riconosciuti dalla Svizzera nell’ambito di convenzioni internazionali; oppure
+- c. essere autorizzati in altro modo dal diritto svizzero.
+
+<sup>2</sup> Chi si riferisce alla documentazione di organismi non menzionati dal capoverso 1 deve dimostrare con verosimiglianza che le procedure applicate e le qualifiche di tale organismo soddisfano le esigenze svizzere (art. 18 cpv. 2 LOTC).
+
+[^14-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+## Sezione 3: Messa a disposizione sul mercato di prodotti usati
+
+#### Art. 15
+
+<sup>1</sup> I prodotti usati possono essere messi a disposizione sul mercato solo se adempiono i requisiti in vigore al momento della loro immissione sul mercato.
+
+<sup>2</sup> I prodotti usati immessi per la prima volta sul mercato svizzero sottostanno alle disposizioni sull’immissione sul mercato di prodotti nuovi.
+
+<sup>3</sup> I prodotti che subiscono trasformazioni o rinnovamenti concernenti essenzialmente la sicurezza soggiacciono, per quanto riguarda tali trasformazioni e rinnovamenti, alle disposizioni relative all’immissione sul mercato di prodotti nuovi.
+
+## Sezione 4: Esposizione e presentazione
+
+#### Art. 16
+
+I prodotti che non adempiono i requisiti per la messa a disposizione sul mercato possono essere esposti o presentati se:
+
+- a. è chiaramente indicato che l’adempimento dei requisiti legali non è provato e i prodotti non possono perciò ancora essere immessi sul mercato;
+- b. sono stati presi i provvedimenti necessari per proteggere persone e cose.
+
+## Sezione 5: Sorveglianza e monitoraggio del mercato
+
+#### Art. 17
+
+**Sorveglianza del mercato da parte degli organi esecutivi**
+
+<sup>1</sup> Gli organi esecutivi controllano che i prodotti messi a disposizione sul mercato corrispondano alle prescrizioni della presente ordinanza. A questo scopo effettuano verifiche tramite campionatura e procedono a controlli qualora indizi fondati indichino che un prodotto non è conforme alle prescrizioni.
+
+<sup>2</sup>
+
+Gli organi esecutivi sono:
+
+- a. per prodotti con fonti di ignizione elettriche come pure per installazioni elettriche in atmosfera potenzialmente esplosiva, l’organo di controllo di cui all’articolo 21 LIE;
+- b. per gli altri prodotti, gli organi di cui all’articolo 20 dell’ordinanza del 19 maggio 2010[^17-1] sulla sicurezza dei prodotti (OSPr).
+
+<sup>3</sup> Per un periodo definito gli organi esecutivi possono richiedere all’Amministrazione delle dogane informazioni sull’importazione di prodotti designati con precisione.
+
+<sup>4</sup> Gli operatori economici sono tenuti a mettere a disposizione degli organi esecutivi, entro un termine utile, tutte le informazioni necessarie ai fini della sorveglianza del mercato. In particolare sono tenuti, su richiesta, a indicare gli operatori economici dai quali hanno ricevuto o ai quali hanno ceduto un prodotto.
+
+[^17-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+
+#### Art. 18
+
+**Monitoraggio del mercato da parte degli operatori economici**
+
+<sup>1</sup> Gli operatori economici svolgono un’attività di monitoraggio per verificare che i prodotti da loro messi a disposizione sul mercato rispettino le prescrizioni della presente ordinanza, nella misura in cui ciò appaia necessario in considerazione dei rischi per la salute e per la sicurezza derivanti dai prodotti stessi.
+
+<sup>2</sup> Effettuano a questo scopo controlli per campionatura, procedono a una verifica se vi sono indizi fondati di non conformità alle prescrizioni di prodotti e li documentano all’attenzione degli organi esecutivi e degli altri operatori economici.
+
+<sup>3</sup> Se constatano che un prodotto non è conforme alle prescrizioni, adottano le misure necessarie e, se risulta necessario in considerazione dei rischi, informano senza indugio gli organi esecutivi in merito alle carenze riscontrate e alle misure adottate.
+
+#### Art. 19
+
+**Competenze degli organi esecutivi**
+
+<sup>1</sup> Nell’ambito della sorveglianza del mercato gli organi esecutivi possono
+
+- a.
+
+  per provare la conformità di prodotti:
+
+  - 1\. esigere la documentazione e le informazioni necessarie e fissare un termine per la loro presentazione,
+  - 2\. prelevare campioni;
+
+- b. accedere ai locali commerciali durante il normale orario di lavoro;
+- c.
+
+  ordinare una verifica qualora:
+
+  - 1\. la documentazione richiesta non venga presentata entro il termine stabilito o sia incompleta,
+  - 2\. dalla dichiarazione di conformità di cui all’articolo 7 non risulti abbastanza chiaramente che un prodotto è conforme ai requisiti,
+  - 3\. esista il dubbio che un prodotto non corrisponda alla documentazione presentata.
+
+<sup>2</sup> Prima di ordinare una verifica, l’organo esecutivo dà all’operatore economico la possibilità di esprimersi.
+
+<sup>3</sup> Per la verifica l’operatore economico mette gratuitamente a disposizione dell’organo esecutivo un prodotto scelto da quest’ultimo.
+
+<sup>4</sup> L’operatore economico sostiene inoltre i costi della verifica di cui al capoverso 1 lettera c se la documentazione non è stata presentata entro il termine o risulta incompleta, oppure se dalla verifica risulta che il prodotto non è conforme ai requisiti.
+
+#### Art. 20
+
+**Misure**
+
+<sup>1</sup> Se dal controllo o dalla verifica risulta che le prescrizioni della presente ordinanza sono state violate, gli organi esecutivi dispongono misure secondo l’articolo 10 capoversi 2–5 LSPro.
+
+<sup>2</sup>
+
+Conformemente alle disposizioni del regolamento applicabile, gli organi esecutivi riscuotono un emolumento e addebitano i costi agli interessati per:
+
+- a. i controlli, se risulta che il prodotto non è conforme alle prescrizioni;
+- b. le decisioni emanate nell’ambito del controllo di prodotti destinati a essere utilizzati in atmosfera potenzialmente esplosiva.
+
+<sup>3</sup> Gli organi esecutivi hanno la competenza di accordare assistenza amministrativa internazionale conformemente all’articolo 22 LOTC.
+
+#### Art. 21
+
+**Coordinamento**
+
+Gli organi esecutivi si informano vicendevolmente sui risultati della loro attività di controllo e indicano in particolare i difetti riscontrati sui prodotti.
+
+## Sezione 6: Rimedi giuridici
+
+#### Art. 22
+
+La tutela giurisdizionale contro le decisioni degli organi esecutivi secondo l’articolo 17 capoverso 2 lettera a è retta dall’articolo 23 LIE e quella contro le decisioni degli organi esecutivi secondo l’articolo 17 capoverso 2 lettera b dall’articolo 15 LSPro.
+
+## Sezione 7: Disposizioni finali
+
+#### Art. 23
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del 2 marzo 1998[^23-1] sugli apparecchi e i sistemi di protezione utilizzati in ambienti esplosivi è abrogata.
+
+[^23-1]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4]
+
+#### Art. 24
+
+**Disposizioni transitorie**
+
+<sup>1</sup> I prodotti messi a disposizione sul mercato conformemente al diritto anteriore possono continuare a essere messi a disposizione sul mercato se rispettano i requisiti essenziali dell’ordinanza previgente e se sono stati immessi sul mercato prima dell’entrata in vigore della presente ordinanza.
+
+<sup>2</sup> Gli attestati emessi conformemente all’ordinanza previgente mantengono la loro validità nel quadro della presente ordinanza.
+
+#### Art. 25
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 20 aprile 2016.
+
+Allegato
+
+(art. 2)
+
+## Equivalenze di espressioni
+
+Ai fini della corretta interpretazione della direttiva ATEX 2014/34/UE alla quale la presente ordinanza fa riferimento, vanno applicate le seguenti equivalenze di espressioni:
+
+- a. espressioni in tedesco
+
+<table>
+<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>Einzelstaatlich</td><td>schweizerisch</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>EU-Baumusterprüfbescheinigung</td><td>Baumusterprüfbescheinigung</td></tr>
+<tr><td>EU-Baumusterprüfung</td><td>Baumusterprüfung</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizerischer Markt</td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>in der Union ansässige Person</td><td>in der Schweiz niedergelassene Person</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+</table>
+
+- b. espressioni in francese
+
+<table>
+<tr><td>UE</td><td>Suisse</td></tr>
+<tr><td>état membre</td><td>Suisse</td></tr>
+<tr><td>national</td><td>suisse</td></tr>
+<tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
+<tr><td>attestation d’examen UE de type</td><td>attestation d’examen de type</td></tr>
+<tr><td>examen UE de type</td><td>examen de type</td></tr>
+<tr><td>marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>personne établie dans l’Union</td><td>personne établie en Suisse</td></tr>
+<tr><td>importateur</td><td>importateur</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+</table>
+
+- c. espressioni in italiano
+
+<table>
+<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><td>Certificato di esame UE del tipo</td><td>Certificato di esame del tipo</td></tr>
+<tr><td>Dichiarazione di conformità UE</td><td>Dichiarazione di conformità</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio Federale</td></tr>
+<tr><td>Esame UE del tipo</td><td>Esame del tipo</td></tr>
+<tr><td>Immissione sul mercato nell’Unione</td><td>Immissione sul mercato in Svizzera</td></tr>
+<tr><td>Mercato dell’Unione</td><td>Mercato svizzero</td></tr>
+<tr><td>Messa in servizio nell’Unione</td><td>Messa in servizio in Svizzera</td></tr>
+<tr><td>nazionale</td><td>svizzero</td></tr>
+<tr><td>Persona stabilita nell’Unione</td><td>Persona domiciliata in Svizzera</td></tr>
+<tr><td>Stato membro</td><td>Svizzera</td></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+</table>

@@ -1,0 +1,41 @@
+---
+sr: "732.91"
+title: "Ordonnance du 23 août 1978 sur les conventions additionnelles à l'Accord de garantie conclu conformément au Traité de non-prolifération"
+eli: "https://fedlex.data.admin.ch/eli/cc/1978/1698_1698_1698"
+language: fr
+version: 1978-10-01
+adopted: 1978-08-23
+in_force: 1978-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1698_1698_1698/19781001/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1698_1698_1698-19781001-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1698_1698_1698/19781001/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les conventions additionnelles à l’Accord de garantie conclu conformément au Traité de non-prolifération
+
+du 23 août 1978 (État le 1<sup>er</sup> octobre 1978)
+
+Le Conseil fédéral suisse,
+
+en exécution de l’accord de garantie du 6 septembre 1978[^ingress-1] conclu avec l’Agence internationale de l’énergie atomique dans le cadre du traité sur la non-prolifération des armes nucléaires.
+
+arrête:
+
+[^ingress-1]: [RS 0.515.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1921)
+
+#### Art. 1
+
+Mandat est donné au Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^1-1] de conclure avec l’Agence internationale de l’énergie atomique les conventions additionnelles nécessaires. Celles-ci resteront dans les limites de l’accord de garantie conclu conformément au traité de non-prolifération.
+
+[^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 2
+
+Mandat est donné au Département fédéral des affaires étrangères[^2-1] et au Département fédéral de l’environnement, des transports, de l’énergie et de la communication de conclure avec la Principauté de Liechtenstein un accord provisoire aux fins de permettre à l’organe de contrôle suisse d’assumer en matière de contrôle les tâches incombant à la Principauté.
+
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 3
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1978.

@@ -1,0 +1,2329 @@
+---
+sr: "784.401"
+title: Radio- und Fernsehverordnung vom 9. März 2007 (RTVV)
+short: RTVV
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
+language: de
+version: 2021-01-01
+adopted: 2007-03-09
+in_force: 2007-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Radio- und Fernsehverordnung
+
+(RTVV)
+
+vom 9. März 2007 (Stand am 1. Januar 2021)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf das Bundesgesetz vom 24. März 2006[^ingress-1] über Radio und Fernsehen (RTVG),
+
+verordnet:
+
+[^ingress-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+
+## 1. Titel: Geltungsbereich
+
+#### Art. 1
+
+**Angebote von geringer publizistischer Tragweite**
+
+### (Art. 1 Abs. 2 RTVG)
+
+<sup>1</sup> Angebote von geringer publizistischer Tragweite sind Angebote, die von weniger als 1000 Geräten gleichzeitig in einer dem Stand der Technik entsprechenden Qualität empfangen werden können.
+
+<sup>2</sup>
+
+Angebote von geringer publizistischer Tragweite sind zudem Angebote, welche:
+
+- a.
+
+  sich auf die redaktionell unbearbeitete, entgeltliche oder unentgeltliche Wiedergabe insbesondere folgender Daten beschränken:
+
+  - 1\. Zeitangaben und Umweltmessdaten,
+  - 2\. stehende oder bewegte Wetter- und Meteo-Bilder,
+  - 3\. Notfallnummern,
+  - 4\. Hinweise auf Dienstleistungen oder Veranstaltungen der öffentlichen Verwaltung,
+  - 5\. Fahrzeiten der öffentlichen Verkehrsmittel; und
+
+- b.[^1-1] darüber hinaus weder Sponsoring noch Werbung enthalten mit Ausnahme von Werbung für eigene Produkte und Dienstleistungen.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 13. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+
+## 2. Titel: Veranstaltung von Programmen
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+### 1. Abschnitt: Meldepflicht
+
+#### Art. 2
+
+**Meldepflicht**
+
+### (Art. 3 Bst. a RTVG)
+
+<sup>1</sup>
+
+Meldepflichtige Veranstalter haben dem Bundesamt für Kommunikation (BAKOM)[^2-1] insbesondere folgende Angaben zu liefern:
+
+- a. Name des Programms sowie Grundzüge des Programminhalts;
+- b. Name der redaktionell verantwortlichen Person;
+- c. Wohnsitz bzw. Sitz des Veranstalters;
+- d. Angaben, die dem Publikum eine rasche und unkomplizierte Kontaktaufnahme mit dem Veranstalter ermöglichen, insbesondere die E-Mail-Adresse und die Webadresse;
+- e. Art und Gebiet der technischen Verbreitung;
+- f. Identität und Kapital- bzw. Stimmrechtsanteile von Aktionären und anderen Teilhabern, welche mindestens einen Drittel des Kapitals oder der Stimmrechte besitzen, sowie deren Beteiligungen von mindestens einem Drittel an anderen Unternehmen im Medienbereich;
+- g. Identität der Mitglieder des Verwaltungsrats und der Geschäftsleitung;
+- h. Beteiligungen des Veranstalters an anderen Unternehmen von mindestens einem Drittel des Kapitals oder der Stimmrechte sowie Beteiligungen dieser Unternehmen von mindestens einem Drittel an anderen Unternehmen im Medienbereich;
+- i. programmliche Zusammenarbeit mit Dritten;
+- j. Personalbestand;
+- k.[^2-2] Zeitpunkt der Aufnahme der Programmveranstaltung.
+
+<sup>2</sup> Für die Veranstaltung eines Programms von einer Dauer von höchstens 30 Tagen beschränkt sich die Meldepflicht auf die Angaben nach Absatz 1 Buchstaben a–e.
+
+<sup>3</sup> Das BAKOM kann die gemeldeten Angaben veröffentlichen.
+
+<sup>4</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)[^2-3] regelt, welche Änderungen von meldepflichtigen Sachverhalten dem BAKOM innert welcher Frist gemeldet werden müssen.
+
+[^2-1]: Ausdruck gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-2]: Eingefügt durch Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^2-3]: Ausdruck gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 3
+
+**Korrespondenzadresse**
+
+### (Art. 3 Bst. a RTVG)
+
+Meldepflichtige Veranstalter müssen eine Korrespondenzadresse in der Schweiz bezeichnen, an welche insbesondere Mitteilungen, Vorladungen und Verfügungen rechtsgültig zugestellt werden können.
+
+### 2. Abschnitt: Inhaltliche Grundsätze
+
+#### Art. 4
+
+**Jugendschutz**
+
+### (Art. 5 RTVG)
+
+<sup>1</sup> Veranstalter von frei empfangbaren Fernsehprogrammen haben jugendgefährdende Sendungen akustisch anzukündigen oder während ihrer gesamten Sendedauer mit optischen Mitteln zu kennzeichnen.
+
+<sup>2</sup> Veranstalter von Abonnementsfernsehen müssen es ihren Abonnenten und Abonnentinnen durch geeignete technische Vorkehrungen ermöglichen, Minderjährige am Zugang zu jugendgefährdenden Inhalten zu hindern.
+
+#### Art. 5
+
+**Mindestanteile europäischer Werke und unabhängiger Produktionen**
+
+### (Art. 7 Abs. 1 RTVG)
+
+<sup>1</sup>
+
+Veranstalter von nationalen und sprachregionalen Fernsehprogrammen sorgen im Rahmen des praktisch Durchführbaren und mit angemessenen Mitteln dafür, dass:
+
+- a. mindestens 50 Prozent der massgebenden Sendezeit schweizerischen oder andern europäischen Werken vorbehalten bleiben;
+- b. in ihren Programmen mindestens 10 Prozent der massgebenden Sendezeit oder mindestens 10 Prozent der Programmkosten schweizerischen oder andern europäischen Werken vorbehalten bleiben, die von veranstalterunabhängigen Produzenten hergestellt worden sind. Dabei ist ein angemessener Teil Werken vorzubehalten, die nicht älter als fünf Jahre sind.
+
+<sup>2</sup> Nicht zur massgebenden Sendezeit im Sinne von Absatz 1 zählen Nachrichten, Berichte über Sportereignisse, Spielshows, Werbung und Bildschirmtext.
+
+<sup>3</sup> Die Veranstalter berichten dem BAKOM im Jahresbericht, inwieweit diese Anteile erreicht oder gegenüber dem Vorjahr Fortschritte erzielt wurden, aus welchen Gründen dies nicht der Fall ist und welche Massnahmen zur Erreichung dieser Anteile bzw. zur Erzielung von Fortschritten getroffen wurden oder vorgesehen sind.
+
+<sup>4</sup> Genügen die Informationen oder die getroffenen Massnahmen zur Erreichung der verlangten Anteile nicht, so ergreift die Aufsichtsbehörde Massnahmen nach Artikel 89 Absatz 1 RTVG.
+
+#### Art. 6
+
+**Pflicht zur Förderung des Schweizer Films**
+
+### (Art. 7 Abs. 2 RTVG)
+
+<sup>1</sup>
+
+Die Pflicht zur Förderung von Schweizer Filmen und von zwischen der Schweiz und dem Ausland koproduzierten Filmen gilt für alle sprachregionalen und nationalen Fernsehveranstalter, auf die folgende Kriterien zutreffen:
+
+- a. In ihren schweizerischen Programmen oder ausländischen Mantelprogrammen werden Spiel-, Dokumentar- oder Animationsfilme ausgestrahlt.
+- b.[^6-1] Ihr jährlicher Betriebsaufwand beträgt mehr als 1 Million Franken.
+- c. Sie strahlen kein Programm mit geringer Sendetätigkeit aus.[^6-2]
+
+<sup>2</sup> Die Veranstalter nach Absatz 1 berichten in ihrem Jahresbericht über die geleistete Filmförderung. Das BAKOM verfügt nach Rücksprache mit dem Bundesamt für Kultur die Höhe einer allfälligen Filmförderungsabgabe. Dabei werden sämtliche im Berichtsjahr geleisteten Ausgaben für den Ankauf, die Produktion oder die Koproduktion von schweizerischen Spiel-, Dokumentar- oder Animationsfilmen angerechnet.
+
+<sup>3</sup> Die Verwendung der Filmförderungsabgabe richtet sich nach Artikel 15 Absatz 2 und 3 des Filmgesetzes vom 14. Dezember 2001[^6-3].
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^6-3]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+
+#### Art. 7
+
+**Behindertengerechte Aufbereitung von Fernsehsendungen auf den Kanälen der SRG**[^7-1]
+
+### (Art. 7 Abs. 3 und 24 Abs. 3 RTVG)
+
+<sup>1</sup>
+
+Die Schweizerische Radio- und Fernsehgesellschaft (SRG) untertitelt ihre Beiträge pro Sprachregion im folgenden Umfang:
+
+- a. im Fernsehprogramm: drei Viertel der gesamten Sendezeit der redaktionellen Sendungen;
+- b. im Internet: zwei Drittel der Angebote, die nur im Internet angeboten werden.
+
+<sup>2</sup> Sie sorgt dafür, dass ein grösstmöglicher Anteil der Sendungen, die in den ersten Fernsehprogrammen zwischen 18 und 22.30 Uhr ausgestrahlt werden, für Sehbehinderte zugänglich ist.
+
+<sup>3</sup> Sie kann die Anteile nach den Absätzen 1 und 2 durch einen schrittweisen Ausbau erreichen.
+
+<sup>4</sup> Mindestens eine Informationssendung der SRG muss täglich in jeder Amtssprache in Gebärdensprache aufbereitet sein.
+
+<sup>5</sup> Fernsehprogramme, die nach Artikel 25 Absatz 4 RTVG in Zusammenarbeit zwischen der SRG und anderen Veranstaltern angeboten werden, müssen mindestens zu einem Drittel untertitelt sein.
+
+<sup>6</sup> Das Angebot für Sinnesbehinderte, der Umfang der weiteren von der SRG zu erbringenden Leistungen sowie der Zeitplan für die Umsetzung werden in einer Vereinbarung zwischen der SRG und den betroffenen Behindertenverbänden festgelegt. Kommt keine Vereinbarung zustande oder wird die bestehende Vereinbarung ersatzlos aufgehoben, so legt das UVEK die von der SRG zu erbringenden Leistungen fest.
+
+<sup>7</sup> Das BAKOM prüft mindestens alle drei Jahre die Möglichkeit einer Erhöhung des Anteils an behindertengerecht aufbereiteten Fernsehsendungen. Erscheint die geltende Regelung als nicht mehr angemessen, so beantragt das UVEK dem Bundesrat deren Änderung.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+
+#### Art. 8
+
+**Behindertengerechte Aufbereitung durch andere Fernsehveranstalter**
+
+### (Art. 7 Abs. 3 und 4 RTVG)
+
+[^8-1]
+
+<sup>1</sup> Fernsehveranstalter mit nationalem oder sprachregionalem Programmangebot, die ihr Programm nicht in Zusammenarbeit mit der SRG ausstrahlen, müssen den Hör- oder den Sehbehinderten zur Hauptsendezeit wöchentlich mindestens eine behindertengerecht aufbereitete Sendung anbieten.
+
+<sup>2</sup> Das BAKOM befreit die Fernsehveranstalter von der Pflicht zur behindertengerechten Aufbereitung, wenn ihr jährlicher Betriebsaufwand weniger als 1 Million Franken beträgt, wenn ihr Programm für die behindertengerechte Aufbereitung nicht geeignet ist oder wenn sie ein Programm mit geringer Sendetätigkeit ausstrahlen.[^8-2]
+
+<sup>3</sup> Regionale Fernsehveranstalter mit Konzession müssen spätestens die Zweitausstrahlung ihrer Hauptinformationssendung und die weiteren Wiederholungen untertiteln. Bei Veranstaltern mit Hauptinformationssendungen in zwei Sprachen gilt dies für beide Sprachen.[^8-3]
+
+<sup>4</sup> Das BAKOM legt den Höchstbetrag der Entschädigung aufgrund der zur Verfügung stehenden Mittel und der voraussichtlichen Höhe des anrechenbaren Aufwandes, der sich aus der Erfüllung der Verpflichtung nach Absatz 3 ergibt, für jeden Veranstalter im Voraus fest. Die definitive Abrechnung erfolgt, sobald der Veranstalter die Schlussabrechnung einreicht.[^8-4]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 12. März 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^8-4]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 9
+
+**Verbreitungspflichten**[^9-1]
+
+<sup>1</sup>
+
+Die SRG sowie sämtliche Veranstalter mit einer Konzession gestützt auf Artikel 38 Absatz 1 Buchstabe a oder 43 Absatz 1 Buchstabe a RTVG müssen folgende Informationen verbreiten:
+
+- a. dringliche polizeiliche Bekanntmachungen;
+- b.
+
+  die folgenden Bekanntmachungen im Sinne der Bevölkerungsschutzverordnung vom 11. November 2020[^9-2]:[^9-3]
+
+  - 1\. behördliche Alarmierungen mit den dazugehörenden Verhaltensanweisungen sowie die Aufhebung des Alarms und die Lockerung oder Aufhebung der Verhaltensanweisungen,
+  - 2\. behördliche Warnungen vor Naturgefahren und Erdbebenmeldungen der Stufen 4 und 5 sowie entsprechende Entwarnungen,
+  - 3\. Berichtigungen bei Fehlalarm,
+  - 4\. Hinweise auf Sirenentests;
+
+- c.[^9-4] ein öffentliches Aufgebot zum Aktivdienst im Sinne von Artikel 3 der Verordnung vom 22. November 2017[^9-5] über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten.
+
+<sup>2</sup>
+
+Die Verbreitung erfolgt auf Anordnung:
+
+- a. der zuständigen kantonalen Stelle: bei Ereignissen*,* für deren Bewältigung die Kantone zuständig sind;
+- b.[^9-6] der zuständigen Stelle des Bundes, namentlich des Kommandos Operationen, der Bundeskanzlei oder der Nationalen Alarmzentrale (NAZ): bei Ereignissen, für deren Bewältigung der Bund zuständig ist;
+- c. der gemäss AV für Warnungen und Erdbebenmeldungen zuständigen Fachstellen des Bundes: bei Naturgefahren.
+
+<sup>3</sup> Die anordnende Stelle sorgt dafür, dass die Veranstalter rechtzeitig und vollständig informiert werden.
+
+<sup>4</sup>
+
+Die Verbreitung erfolgt:
+
+- a. im Versorgungsgebiet, das von der Gefahr betroffen sein könnte;
+- b. kostenlos und unter Angabe der Quelle;
+- c. unverzüglich; bei behördlichen Warnungen vor Naturgefahren und bei Erdbebenmeldungen erfolgt sie bei nächster Gelegenheit oder so schnell als möglich; bei Sirenentests erfolgt sie mehrmals vor deren Durchführung;
+- d. grundsätzlich unverändert; Gewitterwarnungen dürfen redaktionell angepasst werden, sofern der Inhalt unverändert bleibt;
+- e.[^9-7] bei einem öffentlichen Aufgebot zu einem Aktivdienst in den darauffolgenden 24 Stunden regelmässig.
+
+<sup>5</sup> Das UVEK regelt die Einzelheiten der Verbreitung.
+
+[^9-1]: Fassung gemäss Art. 23 Abs. 2 der Alarmierungsverordnung vom 18. Aug. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)).
+[^9-2]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^9-3]: Fassung gemäss Anhang 3 Ziff. II 7 der Bevölkerungsschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^9-4]: Eingefügt durch Art. 16 der V vom 22. Nov. 2017 über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten, in Kraft seit 1. Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
+[^9-5]: [SR 519.2](https://fedlex.data.admin.ch/eli/cc/2017/815)
+[^9-6]: Fassung gemäss Art. 16 der V vom 22. Nov. 2017 über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten, in Kraft seit 1. Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
+[^9-7]: Eingefügt durch Art. 16 der V vom 22. Nov. 2017 über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten, in Kraft seit 1. Jan. 2018 ([AS 2017 7525](https://fedlex.data.admin.ch/eli/oc/2017/815)).
+
+#### Art. 10
+
+**Information in Krisensituationen**
+
+### (Art. 8 Abs. 4 RTVG)
+
+<sup>1</sup> Ist in einer Krisensituation der direkte Zugang zu den behördlichen Informationsquellen des Bundes aufgrund technischer oder räumlicher Gegebenheiten nicht mehr für alle Veranstalter im gleichen Umfang möglich, so haben die ersten Radioprogramme der SRG Vorrang.
+
+<sup>2</sup> Die Bundeskanzlei gewährleistet, dass die nicht zugelassenen Programmveranstalter unverzüglich und unentgeltlich Zugang zum entsprechenden elektronischen Rohmaterial der SRG erhalten.
+
+### 3. Abschnitt: Werbung und Sponsoring
+
+#### Art. 11
+
+**Begriffe**
+
+### (Art. 10 Abs. 3 und Art. 2 Bst. k und o RTVG)
+
+<sup>1</sup>
+
+Nicht als Werbung gelten namentlich:
+
+- a. Hinweise auf das Programm, in welchem sie ausgestrahlt werden;
+- b.[^11-1] Hinweise auf Sendungen in anderen Programmen des gleichen Unternehmens ohne werbenden Charakter;
+- c. ohne Gegenleistung ausgestrahlte Hinweise auf Begleitmaterialien, die inhaltlich in direktem Zusammenhang mit der Sendung stehen, in welcher sie ausgestrahlt werden;
+- d. kurze Spendenaufrufe für gemeinnützige Organisationen, sofern eine Gegenleistung an den Veranstalter höchstens die Produktionskosten deckt.
+
+<sup>2</sup> Schleichwerbung ist die Darstellung werbenden Charakters von Waren, Dienstleistungen oder Ideen in redaktionellen Sendungen, insbesondere gegen Entgelt.
+
+<sup>3</sup> Nicht als Sponsoring einer Sendung gilt deren Koproduktion durch natürliche und juristische Personen, die im Radio- oder Fernsehbereich oder in der Produktion audiovisueller Werke tätig sind.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 12
+
+**Erkennbarkeit der Werbung**
+
+### (Art. 9 RTVG)
+
+<sup>1</sup> Werbung muss vom redaktionellen Programmteil durch ein besonderes akustisches beziehungsweise optisches Erkennungssignal getrennt sein. Im Fernsehen ist dabei der Begriff «Werbung» zu verwenden.
+
+<sup>1bis</sup> Wird im Fernsehen ein Werbespot bis 10 Sekunden Länge nach Artikel 18 Absatz 1 einzeln ausgestrahlt, so kann ausnahmsweise auf ein Erkennungssignal verzichtet werden, wenn der Werbespot durchgehend und deutlich erkennbar mit dem Begriff «Werbung» gekennzeichnet ist.[^12-1]
+
+<sup>2</sup> In sich geschlossene Werbesendungen im Fernsehen, die länger als 60 Sekunden dauern, müssen durchgehend und deutlich erkennbar mit dem Begriff «Werbung» gekennzeichnet sein.[^12-2]
+
+<sup>3</sup> In sich geschlossene Werbesendungen am Radio, die nicht eindeutig als solche erkennbar sind, dürfen nicht länger als 60 Sekunden dauern.
+
+<sup>4</sup> In der Werbung lokaler oder regionaler Radioveranstalter, deren Versorgungsgebiet weniger als 150 000 Einwohner und Einwohnerinnen ab 15 Jahren umfasst, dürfen Programmmitarbeitende mitwirken, wenn sie keine Nachrichtensendungen oder Sendungen zum politischen Zeitgeschehen moderieren. Dasselbe gilt für lokale oder regionale Fernsehveranstalter, deren Versorgungsgebiet weniger als 250 000 Einwohner und Einwohnerinnen ab 15 Jahren umfasst.
+
+[^12-1]: Eingefügt durch Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+#### Art. 13
+
+**Werbung auf geteiltem Bildschirm**
+
+### (Art. 9 Abs. 1 und 11 Abs. 1 RTVG)
+
+<sup>1</sup>
+
+Werbung darf während der Ausstrahlung des redaktionellen Programms auf einem Teil des Bildschirms eingefügt werden, sofern:
+
+- a. die Fläche, die der Werbung dient, eine Einheit bildet, an den Bildschirmrand grenzt, den redaktionellen Inhalt optisch nicht trennt und nicht mehr als einen Drittel der Bildschirmfläche bedeckt;
+- b. die Werbung durch klar sichtbare Grenzen und eine unterschiedliche optische Ausgestaltung vom redaktionellen Programm getrennt ist und dauernd durch den deutlich lesbaren Schriftzug «Werbung» gekennzeichnet wird;
+- c. die Werbung sich auf eine optische Darstellung beschränkt.
+
+<sup>2</sup> Unzulässig ist die Werbung auf geteiltem Bildschirm in Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen, in Kindersendungen sowie während der Übertragung von Gottesdiensten.
+
+<sup>3</sup> Die Werbung auf geteiltem Bildschirm wird der Werbezeit im Sinne von Artikel 19 angerechnet.
+
+#### Art. 14
+
+**Interaktive Werbung**
+
+### (Art. 9 Abs. 1 RTVG)
+
+<sup>1</sup>
+
+Hat das Publikum durch Aktivierung eines am Bildschirm eingeblendeten Signets die Möglichkeit, aus dem Programm in ein interaktives Werbeumfeld zu wechseln, so sind folgende Voraussetzungen zu erfüllen:
+
+- a. Nach der Aktivierung muss das Publikum darauf hingewiesen werden, dass es das Fernsehprogramm verlässt und in ein kommerzielles Umfeld gelangt.
+- b. Im Anschluss an den Hinweis nach Buchstabe a muss das Publikum den Eintritt in das kommerzielle Umfeld bestätigen.
+- c. Die der Bestätigung unmittelbar folgende Oberfläche darf keine Werbung für Produkte oder Dienstleistungen enthalten, für welche nach Artikel 10 Absätze 1 und 2 RTVG ein Werbeverbot besteht.
+
+<sup>2</sup> Wird das Signet, das in das interaktive Werbeumfeld führt, im redaktionellen Teil des Programms eingeblendet, so gelten für das eingeblendete Signet die Bestimmungen von Artikel 13.
+
+#### Art. 15
+
+**Virtuelle Werbung**
+
+### (Art. 9 Abs. 1 RTVG)
+
+<sup>1</sup> Virtuelle Werbung ist die Veränderung des zu verbreitenden Signals, indem am Ort der Aufnahme bestehende Werbeflächen durch andere ersetzt werden.
+
+<sup>2</sup>
+
+Virtuelle Werbung ist unter folgenden Bedingungen zulässig:
+
+- a. Die zu ersetzende Werbefläche steht in Zusammenhang mit einem von Dritten organisierten öffentlichen Ereignis.
+- b. Ersetzt wird eine am Ort der Aufnahme bestehende unbewegliche Werbefläche, die von Dritten eigens für dieses Ereignis aufgestellt wurde.
+- c. Die auf dem Bildschirm sichtbare Werbung darf nur dann bewegte Bilder verwenden, wenn die ersetzte Werbefläche bereits bewegte Bilder enthielt.
+- d. Am Anfang und am Ende der betreffenden Sendung muss darauf hingewiesen werden, dass die Sendung virtuelle Werbung enthält.
+
+<sup>3</sup> Unzulässig ist die virtuelle Werbung in Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen, in Kindersendungen sowie während der Übertragung von Gottesdiensten.
+
+<sup>4</sup> Die Artikel 9 und 11 RTVG sind nicht anwendbar.
+
+#### Art. 16
+
+**Werbung für alkoholische Getränke**
+
+### (Art. 10 Abs. 1 Bst. b und c RTVG)
+
+<sup>1</sup>
+
+Die Ausgestaltung der Werbung für alkoholische Getränke hat folgende Regeln zu beachten:
+
+- a. Werbung für alkoholische Getränke darf sich nicht eigens an Minderjährige richten.
+- b. Niemand, der das Aussehen eines Minderjährigen hat, darf mit dem Konsum alkoholischer Getränke in Zusammenhang gebracht werden.
+- c. Der Konsum von alkoholischen Getränken darf nicht mit körperlicher Leistung oder mit dem Lenken von Fahrzeugen in Verbindung gebracht werden.
+- d. Alkoholischen Getränken darf keine therapeutische, anregende oder beruhigende Eigenschaft zugesprochen werden und sie dürfen nicht als Mittel zur Lösung persönlicher Probleme dargestellt werden.
+- e. Werbung für alkoholische Getränke darf nicht zum unmässigen Konsum von Alkohol ermutigen oder Abstinenz oder Mässigung in einem negativen Licht erscheinen lassen.
+- f. Der Alkoholgehalt darf nicht betont werden.
+
+<sup>2</sup> Vor, während und nach Sendungen, die sich an Kinder oder Jugendliche richten, darf keine Werbung für alkoholische Getränke ausgestrahlt werden.
+
+<sup>3</sup> Verkaufsangebote für alkoholische Getränke sind unzulässig.
+
+<sup>4</sup> In Programmen, die einem Werbeverbot für alkoholische Getränke unterliegen, darf Werbung für ein alkoholfreies Produkt keine Werbewirkung für alkoholhaltige Getränke erzeugen. Namentlich müssen sich Handlung, Aussagen zum Produkt und zum Hersteller, Gestaltungselemente, Hintergründe und Personen von jenen unterscheiden, welche in der werblichen Kommunikation für alkoholhaltige Getränke desselben Herstellers verwendet werden. Das beworbene Produkt muss im Handel erhältlich sein.
+
+#### Art. 17
+
+**Politische Werbung**
+
+### (Art. 10 Abs. 1 Bst. d RTVG)
+
+<sup>1</sup> Als politische Partei gilt eine an Volkswahlen teilnehmende Gruppierung.
+
+<sup>2</sup> Als politische Ämter gelten Ämter, die in Volkswahlen vergeben werden.
+
+<sup>3</sup> Das Werbeverbot für Themen, welche Gegenstand einer Volksabstimmung sind, gilt ab dem Zeitpunkt der Bekanntgabe des Abstimmungstermins durch die zuständige Behörde.
+
+#### Art. 18
+
+**Einfügung der Werbung**[^18-1]
+
+### (Art. 11 Abs. 1 und 13 Abs. 2 RTVG)
+
+<sup>1</sup> Werbespots dürfen zwischen Sendungen und bei der Übertragung von Sportveranstaltungen einzeln gesendet werden.
+
+<sup>2</sup>
+
+Folgende Sendungen dürfen für jeden programmierten Zeitraum von mindestens 30 Minuten einmal mit Werbung unterbrochen werden:
+
+- a. Kinospielfilme;
+- b. Fernsehfilme, unter Vorbehalt von Serien, Reihen und Dokumentarfilmen;
+- c. Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen.
+
+<sup>3</sup> Kindersendungen und Übertragungen von Gottesdiensten dürfen nicht mit Werbung unterbrochen werden.
+
+<sup>4</sup> Für alle anderen Sendungen, insbesondere für Serien, Reihen und Dokumentarfilme, gelten keine Einschränkungen.
+
+<sup>5</sup> Bei der Übertragung von Anlässen, die Pausen enthalten, ist zusätzlich zu Absatz 2 das Einfügen von Werbung in den Pausen erlaubt.
+
+<sup>6</sup> In Sendungen, die aus eigenständigen Teilen bestehen, ist das Einfügen von Werbung nur zwischen diesen Teilen zulässig.
+
+<sup>7</sup> Für nicht konzessionierte Radioprogramme sowie für nicht konzessionierte Fernsehprogramme, die nicht im Ausland empfangen werden können, gelten keine Einschränkungen bei der Einfügung der Werbung mit Ausnahme der Einschränkung nach Absatz 3.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+#### Art. 19
+
+**Dauer der Werbung**[^19-1]
+
+### (Art. 11 Abs. 2 RTVG)
+
+<sup>1</sup> Werbespots dürfen höchstens zwölf Minuten innerhalb einer natürlichen vollen Stunde beanspruchen.[^19-2]
+
+<sup>2</sup> Für nicht konzessionierte Radioprogramme sowie für nicht konzessionierte Fernsehprogramme, die nicht im Ausland empfangen werden können, gelten keine Einschränkungen bezüglich der Werbedauer.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 20
+
+**Sponsornennung**[^20-1]
+
+### (Art. 12 Abs. 2 und 3 sowie 13 Abs. 4 RTVG)
+
+<sup>1</sup> Gesponserte Sendungen sind als solche zu kennzeichnen. Dazu können insbesondere der Name, das Firmenemblem oder ein anderes Symbol, Produkte und Dienstleistungen des Sponsors verwendet werden.
+
+<sup>2</sup> Jede Sponsornennung muss einen eindeutigen Bezug zwischen Sponsor und Sendung herstellen.
+
+<sup>3</sup> Die Sponsornennung darf nicht unmittelbar zum Abschluss von Rechtsgeschäften über Waren oder Dienstleistungen anregen, insbesondere nicht durch verkaufsfördernde Hinweise auf diese Waren oder Dienstleistungen.
+
+<sup>4</sup> Während der Ausstrahlung einer Fernsehsendung darf in knapper Form an das Sponsoringverhältnis erinnert werden (Insert). Pro zehn Minuten Sendezeit ist ein Insert pro Sponsor zulässig. In Kindersendungen sind Inserts unzulässig.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+#### Art. 21
+
+**Produkteplatzierung**[^21-1]
+
+### (Art. 9 Abs. 1, 12 Abs. 3 und 13 Abs. 4 RTVG)
+
+<sup>1</sup> Waren und Dienstleistungen, die ein Sponsor zur Verfügung stellt, dürfen in die Sendung integriert werden (Produkteplatzierung). Die Produkteplatzierung unterliegt den Bestimmungen über das Sponsoring, soweit dieser Artikel keine abweichenden Regelungen aufstellt.
+
+<sup>2</sup> Produkteplatzierungen sind nicht zulässig in Kindersendungen, Dokumentarfilmen und religiösen Sendungen, ausser der Sponsor stellt lediglich Waren oder Dienstleistungen von untergeordnetem Wert insbesondere als Produktionshilfen oder Preise kostenlos zur Verfügung und leistet kein zusätzliches Entgelt.
+
+<sup>3</sup> Auf Produkteplatzierungen muss am Anfang und am Ende der Sendung sowie nach jeder Werbeunterbrechung eindeutig hingewiesen werden. Für Produkteplatzierungen, Produktionshilfen und Preise von untergeordnetem Wert bis 5000 Franken genügt ein einmaliger Hinweis.
+
+<sup>4</sup>
+
+Von der Kennzeichnungspflicht nach Absatz 3 ausgenommen sind Kinospiel-, Fernseh- und Dokumentarfilme, die:
+
+- a. nicht vom Veranstalter selbst oder von einem Unternehmen, das dieser beherrscht, produziert oder in Auftrag gegeben wurden;
+- b. vom Veranstalter an unabhängige Filmschaffende in Auftrag gegeben und von ihm zu weniger als 40 Prozent mitfinanziert wurden (Koproduktionen).
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+#### Art. 22
+
+**Zusätzliche Werbe- und Sponsoringbeschränkungen in den Programmen der SRG**
+
+### (Art. 14 Abs. 1 und 3 RTVG)
+
+<sup>1</sup>
+
+In den Fernsehprogrammen der SRG dürfen folgende Sendungen mit Werbung unterbrochen werden:
+
+- a. Nachrichtensendungen sowie Sendungen zum politischen Zeitgeschehen: für jeden programmierten Zeitraum von mindestens 90 Minuten einmal;
+- b.
+
+  andere Sendungen:
+
+  - 1\. zwischen 18 und 23 Uhr: für jeden programmierten Zeitraum von mindestens 90 Minuten einmal,
+  - 2\. während des übrigen Tages: für jeden programmierten Zeitraum von mindestens 30 Minuten einmal.[^22-1]
+
+<sup>1bis</sup> Nicht mit Werbung unterbrochen werden dürfen Kindersendungen und Übertragungen von Gottesdiensten.[^22-2]
+
+<sup>2</sup>
+
+In den Fernsehprogrammen der SRG dürfen:
+
+- a.[^22-3] Werbespots und länger dauernde Werbeformen zusammen höchstens 15 Prozent der täglichen Sendezeit betragen;
+- b. zwischen 18 und 23 Uhr Werbespots und länger dauernde Werbeformen zusammen höchstens 12 Minuten innerhalb einer natürlichen vollen Stunde betragen;
+- c. während des übrigen Tages Werbespots höchstens 12 Minuten innerhalb einer natürlichen vollen Stunde betragen.
+
+<sup>3</sup> Werbung auf geteiltem Bildschirm und virtuelle Werbung sind unzulässig, ausser bei der Übertragung von Sportveranstaltungen.
+
+<sup>4</sup> Die Ausstrahlung von Verkaufssendungen ist unzulässig.
+
+<sup>5</sup> Die SRG darf in ihren Radioprogrammen Eigenwerbung ausstrahlen, sofern diese überwiegend der Publikumsbindung dient.
+
+<sup>6</sup> Hinweise auf Anlässe, für welche die SRG eine Medienpartnerschaft eingegangen ist, können als Eigenwerbung ausgestrahlt werden, sofern sie überwiegend der Publikumsbindung dienen und die Medienpartnerschaft nicht zum Zwecke der Finanzierung des Programms abgeschlossen wurde. Eine Medienpartnerschaft liegt vor, wenn zwischen dem Programmveranstalter und dem Organisator eines öffentlichen Anlasses eine Zusammenarbeit besteht, wobei der Programmveranstalter sich verpflichtet, auf den Anlass im Programm hinzuweisen und dafür mit Vorteilen vor Ort und ähnlichen Leistungen entschädigt wird.
+
+<sup>7</sup> Sponsornennungen in den Radioprogrammen der SRG dürfen nur Elemente enthalten, die der Identifizierung des Sponsors dienen.[^22-4]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 13. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^22-2]: Eingefügt durch Ziff. I der V vom 13. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^22-3]: Fassung gemäss Ziff. I der V vom 13. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)).
+[^22-4]: Eingefügt durch Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+#### Art. 23
+
+**Werbung und Sponsoring im übrigen publizistischen Angebot der SRG**
+
+### (Art. 14 Abs. 3 RTVG)
+
+Im übrigen publizistischen Angebot der SRG, das neben den Radio- und Fernsehprogrammen zur Erfüllung des Programmauftrags notwendig ist und aus der Abgabe für Radio und Fernsehen finanziert wird (Art. 25 Abs. 3 Bst. b RTVG), sind Werbung und Sponsoring unzulässig, mit folgenden Ausnahmen:[^23-1]
+
+- a. Im Programm ausgestrahlte gesponserte Sendungen, die zum Abruf bereitgehalten werden, müssen mit der dazugehörigen Sponsornennung angeboten werden.
+- b. Sendungen, die zum Abruf bereitgehalten werden und Werbung auf geteiltem Bildschirm oder virtuelle Werbung enthalten, dürfen unverändert angeboten werden.
+- c. Im Teletextdienst sind Werbung und Sponsoring zugelassen. Es gelten sinngemäss die für die Programme der SRG anwendbaren Werbe- und Sponsoringbestimmungen des RTVG und dieser Verordnung; Einzelheiten werden in der Konzession geregelt.
+- d. In der Konzession können weitere Ausnahmen vorgesehen werden für Angebote, die in Zusammenarbeit mit nicht gewinnorientierten Dritten entstehen, sowie bezüglich Eigenwerbung.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 4. Abschnitt: Pflichten bei der Programmveranstaltung
+
+#### Art. 24
+
+**Meldepflicht bei Änderungen von Beteiligungen am Veranstalter**
+
+### (Art. 16 RTVG)
+
+<sup>1</sup> Meldepflichtig ist jeder Übergang von Aktien-, Stamm- oder Genossenschaftskapital oder von Stimmrechten eines konzessionierten Veranstalters im Umfang von mindestens 5 Prozent bzw. eines nicht konzessionierten Veranstalters im Umfang von mindestens einem Drittel.
+
+<sup>2</sup> Meldepflichtig ist ausserdem jeder Übergang, durch den sich die wirtschaftliche Beherrschung des Veranstalters ändert.
+
+<sup>3</sup> Die Meldung hat innert eines Monats zu erfolgen.
+
+<sup>4</sup> Ausgenommen von der Meldepflicht sind nicht konzessionierte Veranstalter mit einem jährlichen Betriebsaufwand von höchstens 1 Million Franken.[^24-1]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+
+#### Art. 25
+
+**Meldepflicht bei namhaften Beteiligungen des Veranstalters an anderen Unternehmen**
+
+### (Art. 16 RTVG)
+
+<sup>1</sup> Die Beteiligung an einem anderen Unternehmen ist meldepflichtig, wenn ein konzessionierter Veranstalter mindestens 20 Prozent bzw. ein nicht konzessionierter Veranstalter mindestens einen Drittel des Aktien-, Stamm- oder Genossenschaftskapitals oder der Stimmrechte eines Unternehmens besitzt.
+
+<sup>2</sup> Zu melden sind auch alle Veränderungen der nach Absatz 1 meldepflichtigen Beteiligungen.
+
+<sup>3</sup> Die Meldung hat innert eines Monats zu erfolgen.
+
+<sup>4</sup> Ausgenommen von der Meldepflicht sind nicht konzessionierte Veranstalter mit einem jährlichen Betriebsaufwand von höchstens 1 Million Franken.[^25-1]
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+
+#### Art. 26
+
+**Auskunftspflicht**
+
+### (Art. 17 Abs. 2 Bst. a RTVG)
+
+Der Auskunftspflicht nach Artikel 17 Absatz 2 Buchstabe a RTVG unterliegen auch juristische und natürliche Personen, die im Radio- und Fernsehmarkt oder in einem verwandten Markt tätig sind, und:
+
+- a. von denen ein konzessionierter Veranstalter mindestens 20 Prozent bzw. ein nicht konzessionierter Veranstalter mindestens einen Drittel des Aktien-, Stamm- oder Genossenschaftskapitals oder der Stimmrechte besitzt;
+- b. die mindestens 20 Prozent des Aktien-, Stamm- oder Genossenschaftskapitals oder der Stimmrechte eines konzessionierten Veranstalters bzw. mindestens einen Drittel eines nicht konzessionierten Veranstalters besitzen.
+
+#### Art. 27
+
+**Jahresbericht und Jahresrechnung von Veranstaltern**
+
+### (Art. 18 RTVG)
+
+<sup>1</sup> Einen Jahresbericht einzureichen haben alle konzessionierten Veranstalter sowie andere Veranstalter, deren jährlicher Betriebsaufwand mehr als 1 Millionen Franken beträgt.[^27-1]
+
+<sup>2</sup>
+
+Der Jahresbericht eines konzessionierten Veranstalters muss namentlich folgende Angaben enthalten:
+
+- a. den Namen und den Wohnsitz bzw. Sitz des Veranstalters;
+- b. die Identität der Mitglieder des Verwaltungsrats und der Geschäftsleitung;
+- c. die Identität und die Kapital- bzw. Stimmrechtsanteile der Aktionäre und anderer Teilhaber, welche mindestens 5 Prozent des Kapitals bzw. der Stimmrechte des Veranstalters besitzen, sowie deren Beteiligungen von mindestens 20 Prozent an anderen Unternehmen im Medienbereich;
+- d. die Beteiligungen des Veranstalters an anderen Unternehmen von mindestens 20 Prozent des Kapitals bzw. der Stimmrechte sowie die Beteiligungen dieser Unternehmen von mindestens 20 Prozent an anderen Unternehmen im Medienbereich;
+- e. die Erfüllung der Anforderungen nach Artikel 7 RTVG sowie der gesetzlichen und konzessionsrechtlichen Pflichten und Auflagen, namentlich die Erfüllung des Leistungsauftrags;
+- f. den Programminhalt;
+- g. den Personalbestand;
+- h.[^27-2] die Aus- und Weiterbildung der Programmschaffenden;
+- i. die Art und das Gebiet der Verbreitung;
+- j.[^27-3] …
+- k.[^27-4] den Gesamtaufwand sowie die Teilaufwände in den Bereichen Personal, Programm, Verbreitung und Verwaltung;
+- l. den Gesamtertrag sowie die Teilerträge in den Bereichen Werbung und Sponsoring.
+
+<sup>3</sup>
+
+Der Jahresbericht eines nicht konzessionierten Veranstalters muss namentlich folgende Angaben enthalten:
+
+- a.[^27-5] die Angaben nach Absatz 2 Buchstaben a, b, f, g und i;
+- b. die Identität und die Kapital- bzw. Stimmrechtsanteile der Aktionäre und anderer Teilhaber, welche mindestens einen Drittel des Kapitals bzw. der Stimmrechte des Veranstalters besitzen, sowie deren Beteiligungen von mindestens einem Drittel an anderen Unternehmen im Medienbereich;
+- c. die Beteiligungen des Veranstalters an anderen Unternehmen von mindestens einem Drittel des Kapitals bzw. der Stimmrechte sowie die Beteiligungen dieser Unternehmen von mindestens einem Drittel an anderen Unternehmen im Medienbereich;
+- d. die Erfüllung der Anforderungen nach Artikel 7 RTVG sowie der gesetzlichen Pflichten und Auflagen;
+- e.[^27-6] den Gesamtaufwand und den Gesamtertrag.
+
+<sup>4</sup> Das BAKOM kann jene Angaben aus den Jahresberichten veröffentlichen, welche in den Absätzen 2 und 3 ausdrücklich erwähnt sind.
+
+<sup>5</sup> Alle konzessionierten Veranstalter haben eine Jahresrechnung, bestehend aus Erfolgsrechnung, Bilanz und Anhang, sowie den Bericht der Revisionsstelle einzureichen. Das UVEK kann Vorschriften für die Rechnungslegung sowie für die getrennte Buchführung nach Artikel 41 Absatz 2 RTVG erlassen.[^27-7]
+
+<sup>6</sup> Die Erfolgsrechnung und die Bilanz sind nach besonderem Kontenplan zu erstellen.[^27-8]
+
+<sup>7</sup> Jahresbericht und Jahresrechnung müssen bis Ende April des Folgejahres beim BAKOM eingereicht werden.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-3]: Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-4]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-5]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-6]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^27-7]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^27-8]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+
+#### Art. 28
+
+**Aufzeichnungspflicht**
+
+### (Art. 20 RTVG)
+
+<sup>1</sup> Veranstalter mit einem unmoderierten Musikprogramm ohne Werbung und Sponsoring sind von der Aufzeichnungspflicht befreit. Das Programm muss mittels Sendelisten rekonstruierbar sein.
+
+<sup>2</sup> Die Veranstalter nach Absatz 1 sind verpflichtet, auf Verlangen der Aufsichtsbehörde die ausgestrahlten Musiktitel zu beschaffen und herauszugeben.
+
+<sup>3</sup>
+
+Die Aufzeichnungs- und Aufbewahrungsfrist für Beiträge im übrigen publizistischen Angebot der SRG beträgt:
+
+- a. für im Programm ausgestrahlte Sendungen, die zum Abruf bereitgehalten werden: vier Monate ab der Ausstrahlung im Programm;
+- b. für Beiträge im selben Wahl- oder Abstimmungsdossier (Art. 92 Abs. 4 RTVG): vier Monate ab der Publikation, längstens aber zwei Monate nach dem Wahl- oder Abstimmungstag;
+- c. für die übrigen von der Redaktion gestalteten Beiträge: zwei Monate ab der Publikation.[^28-1]
+
+<sup>4</sup> Der Aufzeichnungs- und Aufbewahrungspflicht nach Absatz 3 unterliegen Beiträge, die unverändert mindestens 24 Stunden publiziert waren.[^28-2]
+
+[^28-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^28-2]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 5. Abschnitt: Rundfunkstatistik
+
+#### Art. 29
+
+**Organisation**
+
+### (Art. 19 RTVG)
+
+Das BAKOM stellt die Erhebung und Bearbeitung der Daten und die weiteren statistischen Arbeiten sicher, die für die Erstellung der Statistik nach Artikel 19 Absatz 1 RTVG (Rundfunkstatistik) erforderlich sind. Es koordiniert die Arbeiten in Anwendung der Verordnung vom 30. Juni 1993[^29-1] über die Organisation der Bundesstatistik mit dem Bundesamt für Statistik und arbeitet mit diesem zusammen.
+
+[^29-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+
+#### Art. 30
+
+**Beschaffung der Daten**
+
+### (Art. 19 RTVG)
+
+<sup>1</sup> Für die Erstellung der Rundfunkstatistik verwendet das BAKOM die durch den Vollzug der Radio- und Fernsehgesetzgebung erlangten Daten, insbesondere die Angaben im Rahmen der Meldepflicht und in den Jahresberichten nach Artikel 27 Absätze 2 und 3.
+
+<sup>2</sup>
+
+Das BAKOM kann:
+
+- a. bei den Veranstaltern schweizerischer Programme weitere für die Rundfunkstatistik erforderliche Daten erheben;
+- b. die von anderen Behörden und Organisationen durch den Vollzug von Bundesrecht erlangten Daten heranziehen.
+
+<sup>3</sup> Die Veranstalter stellen dem BAKOM die zur Erstellung der Rundfunkstatistik erforderlichen Informationen in der gewünschten Form unentgeltlich zur Verfügung.
+
+#### Art. 31
+
+**Verwendung der Daten**
+
+### (Art. 19 RTVG)
+
+<sup>1</sup> Die ausschliesslich zu Statistikzwecken beschafften Daten dürfen nicht zu anderen Zwecken verwendet werden, es sei denn, es bestehe eine gesetzliche Grundlage oder der betroffene Veranstalter habe seine schriftliche Einwilligung gegeben.
+
+<sup>2</sup> Um den Datenschutz und das Statistikgeheimnis zu wahren, trifft das BAKOM die notwendigen technischen und organisatorischen Massnahmen gegen die missbräuchliche Bearbeitung der von ihm verwendeten Daten.
+
+<sup>3</sup> Das BAKOM kann die Daten nach Absatz 1 für statistische und wissenschaftliche Arbeiten weitergeben, sofern gewährleistet ist, dass die Empfänger den Datenschutz einhalten.
+
+#### Art. 32
+
+**Veröffentlichung statistischer Ergebnisse**
+
+### (Art. 19 RTVG)
+
+<sup>1</sup> Das BAKOM publiziert die statistischen Ergebnisse, die von öffentlichem Interesse sind. Es kann sie durch ein Abrufverfahren zugänglich machen.
+
+<sup>2</sup> Die Ergebnisse nach Absatz 1 müssen eine Form aufweisen, welche jede Identifizierung einer natürlichen oder juristischen Person ausschliesst, es sei denn, die bearbeiteten Daten seien vom BAKOM oder von der betroffenen Person selbst der Öffentlichkeit zugänglich gemacht worden oder die Person stimme der Veröffentlichung zu.
+
+<sup>3</sup> Die Verwendung oder die Reproduktion von statistischen Ergebnissen nach Absatz 1 ist unter Quellenangabe gestattet. Das BAKOM kann Ausnahmen vorsehen.
+
+### 6. Abschnitt: Erhaltung von Programmen
+
+#### Art. 33
+
+**Archive der SRG**[^33-1]
+
+### (Art. 21 RTVG)
+
+<sup>1</sup> Die SRG sorgt für eine dauerhafte Erhaltung ihrer Sendungen.
+
+<sup>2</sup> Sie macht ihre Sendungsarchive der Öffentlichkeit in geeigneter Form zum Eigengebrauch und zur wissenschaftlichen Nutzung zugänglich, unter Respektierung von Rechten Dritter.
+
+<sup>3</sup> Bei den Aufgaben nach den Absätzen 1 und 2 arbeitet die SRG mit Fachinstitutionen im Bereich des audiovisuellen Erbes zusammen, um sicherzustellen, dass die Archivierung nach fachlich anerkannten Standards vorgenommen wird und der Zugang nach solchen Standards gewährt wird.
+
+<sup>4</sup> Der Aufwand der SRG wird beim Bedarf nach Artikel 68*a* Absatz 1 Buchstabe a RTVG berücksichtigt.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 33a
+
+**Archive von anderen schweizerischen Programmveranstaltern**[^33a-1]
+
+### (Art. 21 RTVG)
+
+<sup>1</sup> Das BAKOM kann Projekte im Bereich der dauerhaften Erhaltung von Sendungen anderer schweizerischer Programmveranstalter unterstützen.
+
+<sup>2</sup> Sendungen, welche mit Unterstützung des BAKOM dauerhaft erhalten wurden, sind der Öffentlichkeit in geeigneter Form zur privaten und wissenschaftlichen Nutzung zugänglich zu machen, unter Respektierung von Rechten Dritter.
+
+[^33a-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 7. Abschnitt: Konzessionsabgabe
+
+#### Art. 34
+
+**Erhebung der Konzessionsabgabe**
+
+### (Art. 15 und 22 RTVG)
+
+<sup>1</sup> Als Bruttoeinnahmen aus Werbung und Sponsoring gelten alle Erträge, welche im Programm eines konzessionierten Veranstalters von diesem selbst oder von Dritten mit Werbung und Sponsoring erzielt werden.
+
+<sup>2</sup> Die Konzessionsabgabe beträgt pro Kalenderjahr 0,5 Prozent der 500 000 Franken übersteigenden Bruttoeinnahmen. Ist die Abgabe lediglich für einen Teil des Jahres geschuldet, so wird der Freibetrag verhältnismässig gekürzt.
+
+<sup>3</sup> Die Konzessionsabgabe wird auf Grund der im vorangegangenen Kalenderjahr erzielten Bruttoeinnahmen erhoben.
+
+<sup>4</sup> In den ersten beiden Betriebsjahren des Veranstalters bemisst sich die Konzessionsabgabe nach den im Voranschlag budgetierten Bruttoeinnahmen. Erweist sich der Betrag der Abgabe nach Prüfung der tatsächlich in diesen Jahren erzielten Bruttoeinnahmen als zu hoch oder zu niedrig, so wird eine Rückvergütung oder ein Nachbezug verfügt.
+
+<sup>5</sup> Erlischt die Konzession, so wird die Konzessionsabgabe für das Jahr der Einstellung des Sendebetriebs und das vorangegangene Kalenderjahr auf Grund der in diesen Jahren erzielten Bruttoeinnahmen erhoben. Erweist sich der bis zur Einstellung des Sendebetriebs erhobene Betrag als zu hoch oder zu niedrig, so wird eine Rückvergütung oder ein Nachbezug verfügt.
+
+<sup>6</sup> Das BAKOM überprüft die gemeldeten Bruttoeinnahmen und erlässt die Abgabeverfügung. Mit der Überprüfung kann das BAKOM aussenstehende Sachverständige betrauen.
+
+### 2. Kapitel: Leistungsvereinbarung über das Auslandangebot der SRG****
+
+[^tit2-chap2-1]
+
+[^tit2-chap2-1]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+
+### (Art. 28 Abs. 1 RTVG)
+
+#### Art. 35
+
+Die Vereinbarung zwischen dem Bundesrat und der SRG über das publizistische Angebot für das Ausland wird in Form einer Leistungsvereinbarung für jeweils vier Jahre abgeschlossen.
+
+### 3. Kapitel: Andere Veranstalter mit Leistungsauftrag
+
+#### Art. 36
+
+**Komplementäre nicht gewinnorientierte Radioprogramme**
+
+### (Art. 38 Abs. 1 Bst. b RTVG)
+
+<sup>1</sup> Ein komplementäres nicht gewinnorientiertes Radioprogramm muss sich thematisch, kulturell und musikalisch von anderen konzessionierten Radioprogrammen unterscheiden, die im fraglichen Versorgungsgebiet zu empfangen sind. Insbesondere muss ein solches Programm die sprachlichen und kulturellen Minderheiten im Versorgungsgebiet berücksichtigen.
+
+<sup>2</sup> In einem solchen Radioprogramm ist die Ausstrahlung von Werbung nicht zulässig, mit Ausnahme von Eigenwerbung, die überwiegend der Publikumsbindung dient, einschliesslich Hinweisen auf Medienpartnerschaften im Sinne von Artikel 22 Absatz 6. Die Konzession kann die Ausstrahlung von Werbung für Veranstalter vorsehen, die in einem Versorgungsgebiet mit weniger als 75 000 Einwohnern und Einwohnerinnen ab 15 Jahren einen besonderen Beitrag zur Ausbildung von Medienschaffenden leisten.
+
+#### Art. 37
+
+[^37-1]
+
+[^37-1]: Aufgehoben durch Ziff. I der V vom 25. Mai 2016, mit Wirkung seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 38
+
+**Versorgungsgebiete**[^38-1]
+
+### (Art. 39 Abs. 1 RTVG)
+
+Die Anzahl und die Ausdehnung der Versorgungsgebiete, in denen Konzessionen erteilt werden, sowie die Verbreitungsart sind festgelegt:
+
+- a. in Anhang 1 für Radioveranstalter;
+- b. in Anhang 2 für Fernsehveranstalter.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)).
+
+#### Art. 39
+
+**Festlegung des Abgabenanteils**[^39-1]
+
+### (Art. 40 RTVG)
+
+<sup>1</sup>
+
+Der jährliche Abgabenanteil entspricht:
+
+- a. bei Veranstaltern von komplementären nicht gewinnorientierten Radioprogrammen: höchstens 80 Prozent ihres Betriebsaufwands;
+- b. bei Radio- und Fernsehveranstaltern, die ihren Leistungsauftrag aufgrund der Besonderheiten des Versorgungsgebiets nur mit einem besonders hohen Aufwand erfüllen können: höchstens 80 Prozent ihres Betriebsaufwands;
+- c. bei den übrigen Radio- und Fernsehveranstaltern: höchstens 70 Prozent ihres Betriebsaufwands.
+
+<sup>2</sup> Der Höchstwert wird in der Konzession festgehalten.
+
+<sup>3</sup> Das UVEK überprüft die Abgabenanteile der Veranstalter in der Regel nach fünf Jahren und legt sie gegebenenfalls neu fest.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+
+#### Art. 40
+
+**Verwaltung der Abgabenanteile durch den Bund**[^40-1]
+
+### (Art. 68*a* und 109*a* RTVG)
+
+<sup>1</sup> Die Saldi der vom Bund eingenommenen Abgabenanteile nach den Artikeln 68*a* und 109*a* Absätze 1 und 2 RTVG werden in der Bilanz des Bundes ausgewiesen.[^40-2]
+
+<sup>2</sup> Das BAKOM veröffentlicht den Ertrag und die Verwendung der Abgabenanteile nach Absatz 1.
+
+<sup>3</sup> Nicht verwendeter Ertrag wird bei der nächsten Festlegung der Höhe der Abgabetarife berücksichtigt.[^40-3]
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+[^40-3]: Eingefügt durch Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+
+#### Art. 41
+
+**Pflichten des Konzessionärs**
+
+### (Art. 41 Abs. 1 RTVG)
+
+<sup>1</sup>
+
+Programmveranstalter mit einer Konzession mit Abgabenanteil[^41-1] müssen erstellen:
+
+- a. eine Geschäftsordnung, aus der die Aufgabenverteilung und die Verantwortlichkeiten hervorgehen;
+- b. ein Redaktionsstatut; und
+- c. ein Leitbild, welches die Vorkehrungen zur Erfüllung des Leistungsauftrags beschreibt.
+
+<sup>2</sup> Das UVEK kann in der Konzession weitere Pflichten festlegen, die der Wahrung der Meinungs- und Angebotsvielfalt, dem Schutz der redaktionellen Unabhängigkeit oder der Sicherstellung der Erfüllung des Leistungsauftrags dienen. Namentlich kann es die Einrichtung einer beratenden Programmkommission oder in Gebieten mit nur einem Veranstalter mit Abgabenanteil eine repräsentative Trägerschaft verlangen.
+
+<sup>3</sup> Das UVEK kann in der Konzession die Ausstrahlung bestimmter Sendungsarten untersagen, welche der Erfüllung des Leistungsauftrages zuwiderlaufen.
+
+[^41-1]: Ausdruck gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 42
+
+**Programmproduktion des Konzessionärs**
+
+### (Art. 44 Abs. 1 Bst. a RTVG)
+
+Das während der Hauptsendezeit ausgestrahlte Programm eines Veranstalters mit Leistungsauftrag muss in der Regel überwiegend im Versorgungsgebiet produziert werden.
+
+#### Art. 43
+
+**Konzessionierungsverfahren**
+
+### (Art. 45 Abs. 1 RTVG)
+
+<sup>1</sup> Das BAKOM führt die Ausschreibungsverfahren durch.
+
+<sup>2</sup>
+
+Die öffentliche Ausschreibung einer Konzession muss mindestens enthalten:
+
+- a. Ausdehnung des Versorgungsgebiets und Art der Verbreitung;
+- b. Umschreibung des Leistungsauftrags;
+- c. bei Konzessionen nach Artikel 38 RTVG: Höhe des jährlichen Abgabenanteils sowie dessen Höchstanteil an den Betriebskosten des Veranstalters;
+- d. Dauer der Konzession;
+- e. Zuschlagskriterien.
+
+<sup>3</sup> Der Bewerber muss alle für die Prüfung der Bewerbung erforderlichen Angaben einreichen. Ist die Bewerbung unvollständig oder mit mangelhaften Angaben versehen, so kann das BAKOM nach Gewährung einer Nachfrist auf eine Behandlung der Bewerbung verzichten.
+
+<sup>4</sup> Das BAKOM leitet alle für die Beurteilung der Bewerbung erheblichen Unterlagen an die interessierten Kreise weiter. Der Bewerber kann ein überwiegendes privates Interesse geltend machen und verlangen, dass bestimmte Angaben von der Weiterleitung ausgenommen werden. Im Anschluss an das Verfahren erhält der Bewerber Gelegenheit, zu den Äusserungen der interessierten Kreise Stellung zu nehmen.
+
+<sup>5</sup> Treten zwischen Veröffentlichung der Ausschreibung und Konzessionserteilung ausserordentliche Veränderungen ein, so kann die Konzessionsbehörde das Verfahren anpassen, sistieren oder abbrechen.
+
+#### Art. 44
+
+**Konzessionen für Programme von kurzer Dauer**[^44-1]
+
+### (Art. 45 Abs. 2 RTVG)
+
+<sup>1</sup> Das BAKOM kann Konzessionen für die Veranstaltung von lokalen oder regionalen Programmen von kurzer Dauer erteilen, die drahtlos-terrestrisch verbreitet werden. Ein Programm darf an höchstens 30 Tagen innerhalb eines Zeitraums von höchstens 60 Tagen verbreitet werden.
+
+<sup>2</sup> Ein Veranstalter erhält pro Kalenderjahr höchstens eine solche Konzession.
+
+<sup>3</sup> Konzessionen für Programme von kurzer Dauer werden ohne Ausschreibung auf Gesuch hin erteilt, wenn voraussichtlich nicht mehr Veranstalter interessiert sind, als Frequenzen verfügbar sind.
+
+<sup>4</sup> Solche Konzessionen können namentlich erteilt werden aus Anlass eines bedeutenden Ereignisses im Versorgungsgebiet, zur Unterstützung der Unterrichts- und Ausbildungstätigkeit oder im Rahmen der Jugendarbeit.
+
+[^44-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+### 4. Kapitel:**** Leistungsvereinbarung mit einer Nachrichtenagentur von nationaler Bedeutung
+
+[^tit2-chap4-1]
+
+[^tit2-chap4-1]: Eingefügt durch Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+
+### (Art. 68*a* Abs. 1 Bst. b RTVG)
+
+#### Art. 44a
+
+<sup>1</sup> Das UVEK kann mit einer Nachrichtenagentur von nationaler Bedeutung auf Gesuch hin eine Leistungsvereinbarung zur Sicherstellung von regionaler Berichterstattung sowie zuverlässigen Basisdienstleistungen für alle Sprachregionen abschliessen.
+
+<sup>2</sup> Der Bund kann sich an den ungedeckten Kosten der förderberechtigten Dienstleistungen mit höchstens vier Millionen Franken pro Jahr beteiligen.[^44a-1]
+
+<sup>3</sup> Die Unterstützung kann gewährt werden, wenn die Agentur eine nach Sparten gegliederte Rechnung führt und diese Rechnung den Nachweis der ungedeckten Kosten der förderberechtigten Sparten ermöglicht.
+
+<sup>4</sup> Sie wird aus dem Ertrag der Abgabe für Radio und Fernsehen finanziert.
+
+<sup>5</sup> Die Leistungsvereinbarung wird jeweils für eine Dauer von höchstens zwei Jahren abgeschlossen.
+
+<sup>6</sup> Die Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^44a-2] sind anwendbar.
+
+[^44a-1]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^44a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+## 3. Titel: Übertragung und Aufbereitung von Programmen
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 45
+
+**Ausreichende Qualität der Verbreitung**
+
+### (Art. 55 Abs. 1 und 59 Abs. 3 RTVG)
+
+<sup>1</sup> Zugangsberechtigte Programme und verbreitungspflichtige gekoppelte Dienste nach Artikel 46 dieser Verordnung müssen zeitverzugslos, unverändert und vollständig verbreitet werden.
+
+<sup>2</sup> Das UVEK regelt die technischen Anforderungen an eine ausreichende Qualität der Verbreitung von zugangsberechtigten Programmen und von verbreitungspflichtigen gekoppelten Diensten über drahtlos-terrestrische Netze (Art. 55 Abs. 1 RTVG) und über Leitungen (Art. 59 Abs. 3 RTVG). Es berücksichtigt dabei internationale Normen und Empfehlungen. Je nach Art des Programms und der Verbreitung kann es unterschiedliche Qualitätsstufen vorsehen.
+
+#### Art. 46
+
+**Verbreitungspflicht für gekoppelte Dienste**
+
+### (Art. 55 Abs. 3, 59 Abs. 6 und 60 Abs. 4 RTVG)
+
+<sup>1</sup>
+
+Verbreitet eine Fernmeldedienstanbieterin ein zugangsberechtigtes Programm, so sind damit auch die folgenden vom Veranstalter angebotenen gekoppelten Dienste zu verbreiten:
+
+- a. schmalbandige Datenübertragung in Schrift und Bild;
+- b. mehrere Tonkanäle;
+- c. Steuersignal für die analoge oder digitale Aufnahmemöglichkeit;
+- d.[^46-1] Dienste für Sinnesbehinderte im Sinne der Artikel 7 Absätze 3 und 4 und 24 Absatz 3 RTVG;
+- e. programmbegleitende Zusatzinformationen für Radio;
+- f. Dolby Digital;
+- g. Informationen für den elektronischen Programmführer.
+
+<sup>2</sup> Verbreitet eine Fernmeldedienstanbieterin ein nicht zugangsberechtigtes Programm, so sind auch die damit gekoppelten Dienste für Sinnesbehinderte im Sinne der Artikel 7 Absatz 3 und 24 Absatz 3 RTVG zu verbreiten.
+
+<sup>3</sup> Das UVEK kann technische Vorschriften erlassen und für bestimmte Technologien Ausnahmen von der Verbreitungspflicht für gekoppelte Dienste vorsehen.
+
+[^46-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 2. Kapitel: Drahtlos-terrestrische Programmverbreitung
+
+### 1. Abschnitt: Nutzung von Funkfrequenzen
+
+#### Art. 47
+
+**Nutzung von Funkfrequenzen für die Verbreitung von Radio- und Fernsehprogrammen**
+
+### (Art. 54 Abs. 4 RTVG und Art. 24 Abs. 1<sup>bis</sup> FMG)
+
+<sup>1</sup> Der Bundesrat erlässt Richtlinien für die Nutzung von Funkfrequenzen, welche nach dem nationalen Frequenzzuweisungsplan (Art. 25 Fernmeldegesetz vom 30. April 1997[^47-1]) ganz oder teilweise für die Verbreitung von Radio- und Fernsehprogrammen vorgesehen sind, und für die Erteilung von Funkkonzessionen für solche Frequenzen.
+
+<sup>2</sup> Vor dem Erlass der Richtlinien werden die Eidgenössische Kommunikationskommission und die interessierten Kreise angehört.
+
+<sup>3</sup> Funkkonzessionen für die Nutzung von Frequenzen nach Absatz 1 dürfen erst öffentlich ausgeschrieben bzw. erteilt werden, wenn das UVEK gestützt auf die Richtlinien nach Absatz 1 die Einzelheiten der konkreten Frequenznutzung festgelegt hat.
+
+[^47-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+
+#### Art. 48
+
+**Kostenorientierte Entschädigung der Verbreitung**
+
+### (Art. 55 Abs. 2 RTVG)
+
+<sup>1</sup>
+
+Als anrechenbare Kosten für die Berechnung der kostenorientierten Entschädigung nach Artikel 55 Absatz 2 RTVG gelten die Kosten der Fernmeldedienstanbieterin, die in einem ursächlichen Zusammenhang mit der Verbreitung des betreffenden Programms stehen (relevante Kosten). Diese umfassen:
+
+- a. die Zusatzkosten der vom Veranstalter in Anspruch genommenen Teile der Anlage; und
+- b. einen verhältnismässigen Anteil an den gemeinsamen Kosten und den Gemeinkosten.
+
+<sup>2</sup>
+
+Die Festlegung der Kosten nach Absatz 1 muss nach folgenden Grundsätzen geschehen:
+
+- a. Die Kosten entsprechen den Aufwendungen und Investitionen einer effizienten Anbieterin.
+- b. Die Anlagen werden an Hand von Buchwerten bewertet.
+- c. Die Abschreibungsdauer trägt der wirtschaftlichen Lebensdauer der Anlagen Rechnung.
+- d. Die für die Berechnung verwendeten Daten müssen transparent sein und aus zuverlässigen Quellen stammen.
+- e. Die Verzinsung des eingesetzten Kapitals erfolgt nach branchenüblichen Ansätzen.
+
+<sup>3</sup> Verbreitet eine Fernmeldedienstanbieterin zugangsberechtigte Programme, so trennt sie diese Tätigkeit buchhalterisch von allfälligen anderen Tätigkeiten und stellt den Aufwand für die Programmverbreitung den Veranstaltern getrennt in Rechnung. Die Fernmeldedienstanbieterin führt die Rechnungslegung nach den anerkannten Grundsätzen der besten Praxis.
+
+### 2. Abschnitt: Unterstützung der Verbreitung von Radioprogrammen
+
+### (Art. 57 RTVG)
+
+#### Art. 49
+
+<sup>1</sup> Ein Beitrag nach Artikel 57 Absatz 1 RTVG wird an Veranstalter von Radioprogrammen mit einem Abgabenanteil ausgerichtet, deren jährlicher Betriebsaufwand für die Verbreitung des Programms und die Zuführung des Sendesignals, gemessen an den versorgten Personen, ausserordentlich hoch ist.
+
+<sup>2</sup> Das UVEK legt fest, ab welchem Aufwand je versorgte Person ein Veranstalter Anrecht auf einen Beitrag hat und welche Leistungen als Aufwand anrechenbar sind.
+
+<sup>3</sup> Der verfügbare Kredit wird im Verhältnis zum Aufwand je versorgte Person auf die beitragsberechtigten Veranstalter aufgeteilt. Grundlage für die Berechnung bildet der Betriebsaufwand für die Verbreitung und die Signalzuführung des Vorjahrs.[^49-1]
+
+<sup>3bis</sup> Ein Beitrag darf höchstens ein Viertel dieses Betriebsaufwands ausmachen. Wird aufgrund dieser Einschränkung nicht der ganze Kredit ausgeschöpft, so wird die verbleibende Summe nach dem Grundsatz von Absatz 3 auf diejenigen beitragsberechtigten Veranstalter aufgeteilt, deren Betriebsaufwand noch nicht zu einem Viertel gedeckt ist.[^49-2]
+
+<sup>4</sup> Steht einem Veranstalter ein Beitrag zu, so legt das BAKOM diesen jährlich in einer Verfügung fest. Liefert der Veranstalter die erforderlichen Angaben im Rahmen der jährlichen Berichterstattung nicht fristgemäss (Art. 27 Abs. 7) oder nicht vollständig, so dass die Angaben bei der Berechnung der Beiträge nach Absatz 3 nicht berücksichtigt werden können, so hat der Veranstalter für das betreffende Jahr kein Anrecht auf einen Beitrag.
+
+<sup>5</sup> In den ersten beiden Betriebsjahren eines Veranstalters bildet dessen budgetierter Aufwand für das Beitragsjahr, hochgerechnet auf ein ganzes Jahr, die Berechnungsgrundlage. Erweist sich ein ausbezahlter Beitrag auf Grund des tatsächlichen Aufwands als zu hoch oder zu niedrig, so wird eine Rückvergütung oder ein im Rahmen der verfügbaren Kredite liegender Nachbezug verfügt.
+
+[^49-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^49-2]: Eingefügt durch Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+### 3. Abschnitt: Investitionsbeiträge für neue Technologien
+
+#### Art. 50
+
+**Förderungswürdige Verbreitungstechnologien**[^50-1]
+
+### (Art. 58 RTVG)
+
+<sup>1</sup> Das BAKOM kann Beiträge an die Einführung von «Terrestrial Digital Audio Broadcasting (T-DAB)» ausrichten.
+
+<sup>2</sup> Das UVEK legt vorgängig fest, ab wann ausreichende anderweitige Finanzierungsmöglichkeiten vorhanden sind. Dabei berücksichtigt es insbesondere die Verfügbarkeit von Empfangsgeräten und deren Nutzung.
+
+<sup>3</sup> Beiträge für eine bestimmte Verbreitungsart können einem Veranstalter während höchstens zehn Jahren ausgerichtet werden.
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 51
+
+**Art und Bemessung der Förderleistungen**[^51-1]
+
+### (Art. 58 RTVG)
+
+<sup>1</sup> Beiträge an die Einführung neuer Verbreitungstechnologien werden nur auf Gesuch hin ausgerichtet.
+
+<sup>2</sup> Sie werden nur an schweizerische Programmveranstalter ausgerichtet.
+
+<sup>3</sup> Die Förderleistung beträgt höchstens 80 Prozent der Kosten für die Verbreitung des Programms. Anrechenbar sind nur Verbreitungskosten, die im Verhältnis zum Nutzen angemessen sind.
+
+<sup>4</sup> Reichen die verfügbaren Mittel des BAKOM nicht aus, um allen Gesuchen zu entsprechen, die die Voraussetzungen erfüllen, so werden alle Beiträge im betreffenden Jahr im gleichen Verhältnis gekürzt. Das UVEK kann eine Prioritätenordnung festlegen.
+
+<sup>5</sup> Das Subventionsgesetz vom 5. Oktober 1990[^51-2] ist anwendbar.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^51-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+### 3. Kapitel: Verbreitung über Leitungen
+
+#### Art. 52
+
+**Programme ausländischer Veranstalter**
+
+### (Art. 59 Abs. 2 RTVG)
+
+<sup>1</sup>
+
+Als ausländische Programme, die nach Artikel 59 Absatz 2 RTVG über Leitungen zu verbreiten sind, kommen Programme in Betracht, die in einer schweizerischen Landessprache ausgestrahlt werden und einen besonderen Beitrag zur Erfüllung des verfassungsrechtlichen Leistungsauftrages namentlich dadurch erbringen, dass sie:
+
+- a. im Rahmen aufwändiger redaktioneller Formate vertieft über gesellschaftliche, politische, wirtschaftliche oder kulturelle Phänomene berichten;
+- b. künstlerischen Filmproduktionen breiten Raum gewähren;
+- c. besondere redaktionelle Beiträge zur Bildung des Publikums liefern;
+- d. besondere redaktionelle Beiträge für jugendliche, alte oder sinnesbehinderte Menschen ausstrahlen; oder
+- e. regelmässig schweizerische Beiträge ausstrahlen oder sich regelmässig mit schweizerischen Themen befassen.
+
+<sup>2</sup> Die ausländischen Programme nach Absatz 1 sowie das Gebiet, in welchem sie über Leitungen verbreitet werden müssen, sind im Anhang aufgeführt.
+
+#### Art. 53
+
+**Höchstzahl der zugangsberechtigten Programme**
+
+### (Art. 59 Abs. 3 und 60 Abs. 2 RTVG)
+
+Die Höchstzahl der nach den Artikeln 59 und 60 RTVG in einem bestimmten Gebiet unentgeltlich über Leitungen zu verbreitenden Programme beträgt:
+
+- a. für die analoge Verbreitung von Radioprogrammen: 25;
+- b. für die digitale Verbreitung von Radioprogrammen: 50;
+- c.[^53-1] …
+- d. für die digitale Verbreitung von Fernsehprogrammen: 30.
+
+[^53-1]: Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+
+#### Art. 54
+
+**Zur Verbreitung verpflichtete Fernmeldedienstanbieterinnen**
+
+### (Art. 59 Abs. 4 RTVG)
+
+<sup>1</sup> Zur Verbreitung verpflichtet sind programmverbreitende Fernmeldedienstanbieterinnen, die mindestens 100 Haushalte erreichen.
+
+<sup>1bis</sup> Das UVEK kann die Pflicht zur analogen Verbreitung der Fernsehprogramme nach den Artikeln 59 und 60 RTVG aufheben, sofern diese digital verbreitet und von einer überwiegenden Mehrheit des Publikums digital empfangen werden. Es kann dies für alle oder für bestimmte Programme sowie für das ganze Land oder für bestimmte Gebiete tun.[^54-1]
+
+<sup>2</sup> …[^54-2]
+
+<sup>3</sup> …[^54-3]
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)).
+[^54-2]: Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^54-3]: Eingefügt durch Ziff. I der V vom 12. März 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)). Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+
+#### Art. 55
+
+[^55-1]
+
+[^55-1]: Aufgehoben durch Ziff. I der V vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+
+### 4. Kapitel: Aufbereitung
+
+#### Art. 56
+
+**Offene Schnittstellen und technische Ausgestaltung**
+
+### (Art. 64 RTVG)
+
+<sup>1</sup> Verwendet die Fernmeldedienstanbieterin ein anderes Verfahren zur Aufbereitung als der Veranstalter, so sind die Programme und die daran gekoppelten Dienste so auszustrahlen, dass das Publikum sie in einer den Anforderungen von Artikel 45 entsprechenden Qualität nutzen kann.
+
+<sup>2</sup> Bestehen internationale Standards für Vorrichtungen oder Dienste, die der Aufbereitung von Programmen dienen oder bezüglich offener Schnittstellen, kann das UVEK diese Standards für verbindlich erklären, soweit dies für die Sicherung der Meinungsvielfalt erforderlich ist.
+
+<sup>3</sup> Die Fernmeldedienstanbieterin hat dem Veranstalter die Verwaltung seiner Kundenbeziehungen zu ermöglichen. Fernmeldedienstanbieterinnen und Veranstalter regeln die technische und die kommerzielle Umsetzung der Verwaltung der Kundenbeziehungen vertraglich. Das UVEK kann technische und administrative Anforderungen erlassen.
+
+<sup>4</sup> Die Fernmeldedienstanbieterin darf Daten, die sie im Zusammenhang mit der Umsetzung von Absatz 3 erhalten hat, nicht zu anderen Zwecken verwenden und insbesondere nicht an andere Geschäftseinheiten, Tochtergesellschaften, Partnerunternehmen und Dritte weitergeben.
+
+## 4. Titel:**** Abgabe für Radio und Fernsehen
+
+[^tit4-1]
+
+[^tit4-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 1. Kapitel: Haushaltabgabe
+
+#### Art. 57
+
+**Höhe der Abgabe**[^57-1]
+
+### (Art. 68*a* RTVG)
+
+Die Abgabe je Haushalt beträgt pro Jahr:
+
+<table>
+<tr><td colspan="2"></td><td>Franken</td></tr>
+<tr><td>a. für einen Privathaushalt</td><td colspan="2">[tab] 335.–</td></tr>
+<tr><td>b. für einen Kollektivhaushalt</td><td colspan="2">[tab] 670.–</td></tr>
+</table>
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+
+#### Art. 58
+
+**Erhebung der Abgabe**
+
+### (Art. 69 RTVG)
+
+<sup>1</sup> Die Erhebungsstelle erhebt die Haushaltabgabe für eine Abgabeperiode von jeweils einem Jahr. Sie legt den Beginn der Abgabeperiode gestaffelt fest.
+
+<sup>2</sup> Jede abgabepflichtige Person kann für den Haushalt, dem sie angehört, Dreimonatsrechnungen verlangen.
+
+<sup>3</sup> Die Erhebungsstelle stellt die Rechnung jeweils im ersten Monat der Rechnungsperiode zu.
+
+<sup>4</sup> Für die Rechnungsstellung stützt sich die Erhebungsstelle auf die Haushaltbildung, welche der Erhebungsstelle zu Beginn des ersten Monats der Abgabeperiode nach Artikel 67 Absatz 3 mitgeteilt wurde.
+
+#### Art. 59
+
+**Fälligkeit, Nachforderung, Rückerstattung und Verjährung**
+
+### (Art. 69 Abs. 3 RTVG)
+
+<sup>1</sup> Die Abgabe wird 60 Tage nach Stellung einer Jahresrechnung und 30 Tage nach Stellung einer Dreimonatsrechnung fällig.
+
+<sup>2</sup> Hat die Erhebungsstelle die Abgabe nicht in Rechnung gestellt oder erweist sich die Rechnung als unrichtig, so fordert sie den betreffenden Betrag nach oder erstattet ihn zurück.
+
+<sup>3</sup> Die Verjährungsfrist für die Abgabe beginnt mit der Fälligkeit der Abgabe und beträgt fünf Jahre.
+
+#### Art. 60
+
+**Gebühren für Dreimonatsrechnungen, Mahnung und Betreibung**
+
+### (Art. 68 RTVG)
+
+<sup>1</sup> Die Erhebungsstelle kann folgende Gebühren in Rechnung stellen:
+
+<table>
+<tr><td></td><td>Franken</td></tr>
+<tr><td>a. für jede Dreimonatsrechnung einen Zuschlag für die Rechnungsstellung in Papierform</td><td>2.–</td></tr>
+<tr><td>b. für eine Mahnung</td><td>5.–</td></tr>
+<tr><td>c. für eine zu Recht angehobene Betreibung</td><td>20.–</td></tr>
+</table>
+
+<sup>2</sup> Die Erhebungsstelle informiert die Haushalte mit jeder Rechnungsstellung über diese Gebühren.
+
+#### Art. 61
+
+**Befreiung von der Abgabepflicht**
+
+### (Art. 69*b* RTVG)
+
+<sup>1</sup> Die Erhebungsstelle überprüft mindestens alle drei Jahre, ob die Voraussetzung für die Befreiung eines Privathaushalts von der Abgabepflicht nach Artikel 69*b* Absatz 1 Buchstabe a RTVG noch gegeben ist. Ist die Voraussetzung nicht mehr gegeben, so erhebt die Erhebungsstelle die Abgabe ab dem Folgemonat nach dem Wegfall.
+
+<sup>2</sup> Die Mitglieder eines Haushaltes sind verpflichtet, der Erhebungsstelle umgehend zu melden, dass die Voraussetzung für die Befreiung des Haushalts von der Abgabepflicht nach Artikel 69*b* Absatz 1 Buchstabe a RTVG nicht mehr gegeben ist.
+
+<sup>3</sup>
+
+Von der Abgabepflicht befreit sind:
+
+- a. das diplomatische Personal, die konsularischen Beamten, das Verwaltungs- und technische Personal sowie das Dienstpersonal der diplomatischen Missionen, der ständigen Missionen oder anderer Vertretungen bei zwischenstaatlichen Organisationen und der durch Berufs-Konsularbeamte geführten konsularischen Posten, wenn sie im Besitz einer Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) sind (Legitimationskarten Typ B, C, D, E, K rot, K blau oder K violett) und die schweizerische Staatsbürgerschaft nicht besitzen;
+- b. die Mitglieder der hohen Direktion (Legitimationskarte Typ B) und hohe Beamtinnen und Beamte (Legitimationskarte Typ C) der institutionellen Begünstigten, die mit dem Bundesrat ein Sitzabkommen abgeschlossen haben, wenn sie den Diplomatenstatus geniessen, im Besitz einer Legitimationskarte des EDA sind und die schweizerische Staatsbürgerschaft nicht besitzen;
+- c. die zur Begleitung einer Person nach Buchstabe a oder b berechtigten Personen mit gleichem Status wie die begleitete Person, wenn sie die schweizerische Staatsbürgerschaft nicht besitzen.
+
+<sup>4</sup> Von der Abgabe befreit sind taubblinde Personen, sofern ihrem Privathaushalt keine abgabepflichtige Person angehört. Die Absätze 1 und 2 gelten sinngemäss.
+
+#### Art. 62
+
+**Vertrag mit der Erhebungsstelle**
+
+### (Art. 69*d* Abs. 1 RTVG)
+
+<sup>1</sup> Für die Übertragung der Erhebung der Haushaltabgabe auf eine Stelle ausserhalb der Bundesverwaltung ist das UVEK zuständig.
+
+<sup>2</sup> Wird eine solche Stelle eingesetzt, so führt diese die offizielle Bezeichnung «*Schweizerische Erhebung**s**stelle für die Radio- und Fernsehabgabe*».
+
+<sup>3</sup> Das UVEK und die Erhebungsstelle regeln die Einzelheiten des Leistungsauftrages und die Entschädigung der Erhebungsstelle in einem Vertrag.
+
+#### Art. 63
+
+**Rechnungslegung und Revision**
+
+### (Art. 69*d* Abs. 2 RTVG)
+
+<sup>1</sup> Die Erhebungsstelle führt ihre Bücher und legt Rechnung nach einem der anerkannten Standards zur Rechnungslegung gemäss Artikel 962*a* des Obligationenrechts (OR)[^63-1] und der Verordnung vom 21. November 2012[^63-2] über die anerkannten Standards zur Rechnungslegung.
+
+<sup>2</sup> Die Erhebungsstelle ist zu einer ordentlichen Revision verpflichtet.
+
+<sup>3</sup> Sie erstellt einen Geschäftsbericht nach Artikel 958 Absatz 2 OR. Die zusätzlichen Anforderungen nach Artikel 961 OR sind anwendbar.
+
+<sup>4</sup> Artikel 961*d* Absatz 1 OR ist für die Erhebungsstelle nicht anwendbar.
+
+[^63-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-2]: [SR 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+
+#### Art. 64
+
+**Berichterstattung und Aufsicht**
+
+### (Art. 69*d* Abs. 2 RTVG)
+
+<sup>1</sup>
+
+Die Erhebungsstelle stellt dem BAKOM jeweils innert 30 Tagen nach Ablauf des ersten, zweiten und dritten Quartals einen Zwischenbericht und nach dem vierten Quartal einen Tätigkeitsbericht zu, die mindestens folgende Angaben enthalten:
+
+- a. Anzahl der abgabepflichtigen Privat- und Kollektivhaushalte;
+- b. Beträge der in Rechnung gestellten und einkassierten Abgaben;
+- c. Anzahl der Rechnungen, Mahnungen, Betreibungen und Verfügungen;
+- d. Befreiungen von der Abgabe aufgrund von Artikel 69*b* und 109*c* RTVG sowie von Artikel 61 Absatz 4;
+- e. Anzahl der beschäftigten Personen der Erhebungsstelle.
+
+<sup>2</sup> Die Erhebungsstelle reicht dem BAKOM den Geschäftsbericht, den umfassenden Revisionsbericht der Revisionsstelle (Artikel 728*b* Absatz 1 OR[^64-1]) und die Abrechnung über die Abgabe spätestens Ende April des Folgejahres ein.
+
+<sup>3</sup> Das BAKOM genehmigt die jährliche Abrechnung über die Abgabe.
+
+<sup>4</sup> Die Erhebungsstelle hat dem BAKOM unentgeltlich Einsicht in alle Akten zu gewähren, die das Amt im Rahmen seiner Aufsichtstätigkeit benötigt. Dazu gehören insbesondere die Buchführung und die Rechnungslegung nach Artikel 63.
+
+<sup>5</sup> Das BAKOM kann bei der Erhebungsstelle vor Ort Nachprüfungen vornehmen, und es kann externe Sachverständige mit der Finanzprüfung beauftragen.
+
+[^64-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 65
+
+**Veröffentlichung von Jahresrechnung, Revisionsbericht und Tätigkeitsbericht**
+
+### (Art. 69*e* Abs. 4 RTVG)
+
+Die Erhebungsstelle veröffentlicht bis spätestens Ende April des Folgejahres die Jahresrechnung (Art. 958 Abs. 2 OR[^65-1]), den Revisionsbericht (Art. 728*b* Abs. 2 OR) sowie den Tätigkeitsbericht mit den Angaben nach Artikel 64 Absatz 1.
+
+[^65-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 66
+
+**Überweisung der Abgabe**
+
+### (Art. 69*e* RTVG)
+
+Die Erhebungsstelle überweist die Erträge an die ihr vom BAKOM mitgeteilten Berechtigten.
+
+#### Art. 67
+
+**Bezug der Daten zu Haushalten**
+
+### (Art. 69*g* RTVG)
+
+<sup>1</sup>
+
+Die Kantone und Gemeinden liefern der Erhebungsstelle:
+
+- a. die Daten nach Artikel 6 Buchstaben a-h, j, o-s und u des Registerharmonisierungsgesetzes vom 23. Juni 2006[^67-1] (RHG);
+- b. andere Daten nach Artikel 7 RHG, welche für die Identifizierung der abgabepflichtigen Personen und die Rechnungsstellung erforderlich sind.
+
+<sup>2</sup> Die Lieferung erfolgt in strukturierter und standardisierter Form über die Informatik- und Kommunikationsplattform des Bundes. Das BAKOM legt in einer Weisung die spezifischen Datenmerkmale gemäss dem amtlichen Katalog (Art. 4 Abs. 4 RHG) fest und bezeichnet die anwendbaren Standards für die Datenlieferungen und für die Bereinigung von mangelhaften Datenlieferungen.
+
+<sup>3</sup> Jeder Kanton sorgt dafür, dass die Daten zu den Haushalten aller in seinem Kantonsgebiet registrierten Personen zentral oder durch die Gemeinden an die Erhebungsstelle geliefert werden.
+
+<sup>4</sup> Die Daten sind der Erhebungsstelle monatlich innerhalb der ersten drei Werktage des Monats zu liefern. Jede Lieferung umfasst die Einträge, die seit der vorangegangenen Lieferung geändert wurden. Einmal pro Jahr muss der Kanton beziehungsweise die Gemeinde zu einem vom BAKOM bestimmten Zeitpunkt den vollen Datenbestand liefern.
+
+[^67-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+
+#### Art. 67a
+
+**Bezug von Daten aus Ordipro**
+
+### (Art. 69*g* RTVG)
+
+<sup>1</sup>
+
+Das EDA stellt der Erhebungsstelle die folgenden Angaben aus dem Informationssystem Ordipro zu jenen Personen zur Verfügung, die nach Artikel 69*b* Absatz 1 Buchstabe b RTVG von der Abgabe befreit werden:
+
+- a. Name und Vorname;
+- b. Wohnadresse;
+- c. Geburtsdatum;
+- d. Legitimationskartendaten;
+- e. Versichertennummer im Sinne von Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^67a-1] über die Alters- und Hinterlassenenversicherung (AHVG).
+
+<sup>2</sup> Die Daten sind der Erhebungsstelle monatlich innerhalb der ersten drei Werktage des Monats über die Informatik- und Kommunikationsplattform des Bundes zu liefern. Jede Lieferung umfasst den vollen Datenbestand zu jedem Datenmerkmal. Das BAKOM bezeichnet in einer Weisung die anwendbaren Standards für die Datenlieferungen und für die Bereinigung von mangelhaften Datenlieferungen.
+
+[^67a-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+### 2. Kapitel: Unternehmensabgabe
+
+#### Art. 67b
+
+**Höhe der Abgabe**[^67b-1]
+
+### (Art. 68*a* Abs. 1 und Art. 70 RTVG)
+
+<sup>1</sup> Der jährliche Mindestumsatz für die Abgabepflicht eines Unternehmens beträgt 500 000 Franken.
+
+<sup>2</sup> Die jährliche Abgabe eines Unternehmens beträgt je Umsatzstufe pro Jahr:
+
+<table>
+<tr><th></th><th>Umsatz in Franken</th><th>Abgabe in Franken</th></tr>
+<tr><td>a. Stufe 1</td><td>[tab] 500 000 bis 749 999</td><td>[tab] 160</td></tr>
+<tr><td>b. Stufe 2</td><td>[tab] 750 000 bis 1 199 999</td><td>[tab] 235</td></tr>
+<tr><td>c. Stufe 3</td><td>[tab] 1 200 000 bis 1 699 999</td><td>[tab] 325</td></tr>
+<tr><td>d. Stufe 4</td><td>[tab] 1 700 000 bis 2 499 999</td><td>[tab] 460</td></tr>
+<tr><td>e. Stufe 5</td><td>[tab] 2 500 000 bis 3 599 999</td><td>[tab] 645</td></tr>
+<tr><td>f. Stufe 6</td><td>[tab] 3 600 000 bis 5 099 999</td><td>[tab] 905</td></tr>
+<tr><td>g. Stufe 7</td><td>[tab] 5 100 000 bis 7 299 999</td><td>[tab] 1 270</td></tr>
+<tr><td>h. Stufe 8</td><td>[tab] 7 300 000 bis 10 399 999</td><td>[tab] 1 785</td></tr>
+<tr><td>i. Stufe 9</td><td>[tab] 10 400 000 bis 14 999 999</td><td>[tab] 2 505</td></tr>
+<tr><td>j. Stufe 10</td><td>[tab] 15 000 000 bis 22 999 999</td><td>[tab] 3 315</td></tr>
+<tr><td>k. Stufe 11</td><td>[tab] 23 000 000 bis 32 999 999</td><td>[tab] 4 935</td></tr>
+<tr><td>l. Stufe 12</td><td>[tab] 33 000 000 bis 49 999 999</td><td>[tab] 6 925</td></tr>
+<tr><td>m. Stufe 13</td><td>[tab] 50 000 000 bis 89 999 999</td><td>[tab] 9 725</td></tr>
+<tr><td>n. Stufe 14</td><td>[tab] 90 000 000 bis 179 999 999</td><td>[tab] 13 665</td></tr>
+<tr><td>o. Stufe 15</td><td>[tab] 180 000 000 bis 399 999 999</td><td>[tab] 19 170</td></tr>
+<tr><td>p. Stufe 16</td><td>[tab] 400 000 000 bis 699 999 999</td><td>[tab] 26 915</td></tr>
+<tr><td>q. Stufe 17</td><td>[tab] 700 000 000 bis 999 999 999</td><td>[tab] 37 790</td></tr>
+<tr><td>r. Stufe 18</td><td>[tab] 1 000 000 000 und mehr</td><td>[tab] 49 925.[^67b-2]</td></tr>
+</table>
+
+[^67b-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
+[^67b-2]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+
+#### Art. 67c
+
+**Unternehmensabgabegruppen**
+
+### (Art. 70 RTVG)
+
+<sup>1</sup> Als Unternehmen im Sinne von Artikel 70 Absatz 2 RTVG gelten auch Unternehmen, die sich ausschliesslich für die Entrichtung der Unternehmensabgabe zusammenschliessen (Unternehmensabgabegruppen). Die Unternehmensabgabegruppe muss aus mindestens 30 Unternehmen bestehen.
+
+<sup>2</sup> Für die Ermittlung des Gesamtumsatzes einer Unternehmensabgabegruppe werden sämtliche Umsätze der Gruppenmitglieder zusammengerechnet.
+
+<sup>3</sup> Die Unternehmensabgabegruppe ist an Stelle ihrer Mitglieder abgabepflichtig. Für die Mithaftung der Gruppenmitglieder gelten die Artikel 15 Absatz 1 Buchstabe c des Mehrwertsteuergesetzes vom 12. Juni 2009[^67c-1] (MWSTG) und 22 der Mehrwertsteuerverordnung vom 27. November 2009[^67c-2] (MWSTV).
+
+<sup>4</sup> Die Bildung, Veränderungen im Bestand, die Auflösung und die Vertretung von Unternehmensabgabegruppen richten sich sinngemäss nach dem Artikel 13 MWSTG sowie nach den Artikeln 15–17, 18 Absätze 1, 2 und 3 Buchstabe a, 19 und 20 Absätze 1 und 2 MWSTV. Gesuche um die Bildung einer Gruppe und um den Eintritt in eine Gruppe sowie Meldungen über den Austritt aus einer Gruppe und die Auflösung einer Gruppe sind der Eidgenössischen Steuerverwaltung (ESTV) spätestens 15 Tage nach Beginn eines Kalenderjahres schriftlich mitzuteilen. Verspätete Mitteilungen werden erst im Folgejahr wirksam.[^67c-3]
+
+<sup>5</sup> Die Aufnahme in eine Unternehmensabgabegruppe setzt voraus, dass das Unternehmen die ESTV schriftlich vom Steuergeheimnis gegenüber der Vertretung der Gruppe entbindet, soweit dies für die Erhebung und den Bezug der Abgabe dienlich ist.
+
+[^67c-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^67c-2]: [SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+[^67c-3]: Fassung gemäss Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+
+#### Art. 67d
+
+**Zusammenschlüsse autonomer Dienststellen von Gemeinwesen**
+
+### (Art. 70 RTVG)
+
+<sup>1</sup> Als Unternehmen im Sinne von Artikel 70 Absatz 2 RTVG gilt auch der Zusammenschluss mehrwertsteuerpflichtiger autonomer Dienststellen eines Gemeinwesens.
+
+<sup>2</sup> Für die Zusammenschlüsse gelten Artikel 12 Absätze 1 und 2 MWSTG[^67d-1] sowie Artikel 12 Absatz 1 MWSTV[^67d-2]. Artikel 67*c* Absätze 2, 4 und 5 sind sinngemäss anwendbar.
+
+<sup>3</sup> Die Abgabepflicht obliegt dem Gemeinwesen, welchem die zusammengeschlossenen Dienststellen angehören.
+
+[^67d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^67d-2]: [SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)
+
+#### Art. 67e
+
+**Rechnungsstellung**
+
+### (Art. 70*a* RTVG)
+
+<sup>1</sup> Die ESTV versendet monatlich elektronische Jahresrechnungen an abgabepflichtige Unternehmen, erstmals im Februar und letztmals im Oktober eines Jahres.
+
+<sup>2</sup> Sobald der ESTV alle Informationen vorliegen, die ihr die Einstufung eines Unternehmens in eine Tarifkategorie ermöglichen, stellt sie dem Unternehmen den Gesamtbetrag der Abgabe mit dem nächsten Rechnungsversand elektronisch in Rechnung.
+
+<sup>3</sup> Hat die ESTV die Abgabe nicht in Rechnung gestellt oder erweist sich die Rechnung als unrichtig, so fordert sie den betreffenden Betrag nach oder erstattet ihn zurück.
+
+#### Art. 67f
+
+**Rückerstattung**[^67f-1]
+
+Unternehmen mit weniger als einer Million Franken Umsatz wird die Abgabe auf Gesuch hin zurückerstattet, sofern sie im Geschäftsjahr, für welches die Abgabe erhoben wurde:
+
+- a. einen Gewinn erzielten, der weniger als das Zehnfache der Abgabe beträgt; oder
+- b. einen Verlust auswiesen.
+
+[^67f-1]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+
+#### Art. 67g
+
+**Überweisung der Abgabe**[^67g-1]
+
+### (Art. 70*a* RTVG)
+
+<sup>1</sup> Die ESTV überweist den Nettoertrag aus der Erhebung der Unternehmensabgabe monatlich an das BAKOM oder stellt diesem bei einem Aufwandüberschuss Rechnung.
+
+<sup>2</sup>
+
+Der Nettoertrag umfasst die im Rechnungsjahr in Rechnung gestellten Abgaben und Verzugszinsen und berücksichtigt ausserdem:
+
+- a. die Debitorenverluste;
+- b. die Betriebskosten der ESTV für die Erhebung der Abgabe;
+- c. die Rückerstattungen nach Artikel 67*f*.
+
+[^67g-1]: Fassung gemäss Ziff. I der V vom 29. Aug. 2018, in Kraft seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+
+#### Art. 67h
+
+**Verzugszins**
+
+### (Art. 70*b* Abs. 1 RTVG)
+
+Verzugszinsen werden von der ESTV ab einem Zinsbetrag von 100 Franken in Rechnung gestellt. Dies gilt nicht, wenn die Forderung im Rahmen des Zwangsvollstreckungsverfahrens geltend gemacht wird. Die Rechnung wird elektronisch gestellt.
+
+#### Art. 67i
+
+**Berichterstattung durch die ESTV**
+
+### (Art. 70*c* Abs. 2 RTVG)
+
+Die ESTV veröffentlicht spätestens Ende April des Folgejahres mindestens Angaben zu:
+
+- a. der Anzahl abgabepflichtiger Unternehmen, nach Tarifkategorie;
+- b. den in Rechnung gestellten, einkassierten und sistierten Forderungen, nach Tarifkategorie;
+- c.[^67i-1] …
+- d. den Debitorenverlusten;
+- e. den in Rechnung gestellten Verzugszinsen;
+- f. den Ermessenseinschätzungen, nach Tarifkategorie;
+- g. den Mahnungen und Betreibungen;
+- h. den Betriebskosten der ESTV für die Erhebung der Abgabe;
+- i. der Anzahl der Zusammenschlüsse (Art. 67*c* und 67*d*) und der Rückerstattungen (Art. 67*f*).
+
+[^67i-1]: Aufgehoben durch Ziff. I der V vom 29. Aug. 2018, mit Wirkung seit 1. Okt. 2018 ([AS 2018 3209](https://fedlex.data.admin.ch/eli/oc/2018/514)).
+
+### 3. Kapitel: Veröffentlichung von Kennzahlen zur Abgabe
+
+#### Art. 67j
+
+<sup>1</sup>
+
+Das BAKOM publiziert jährlich:
+
+- a.
+
+  für die Haushalt- und für die Unternehmensabgabe sowie konsolidiert für beide:
+
+  - 1\. die Gesamteinnahmen der Abgabe,
+  - 2\. die Erhebungskosten;
+
+- b. die Verwendung der Einnahmen nach Verwendungszweck.
+
+<sup>2</sup> Die Erhebungsstelle und die ESTV liefern dem BAKOM die nötigen Angaben.
+
+## 5. Titel: Schutz der Vielfalt und Förderung der Programmqualität
+
+### 1. Kapitel: Zugang zu öffentlichen Ereignissen
+
+#### Art. 68
+
+**Umfang des Kurzberichterstattungsrechts bei öffentlichen Ereignissen**
+
+### (Art. 72 Abs. 1 und 2 RTVG)
+
+<sup>1</sup> Das Recht auf Kurzberichterstattung über ein öffentliches Ereignis in der Schweiz umfasst einen Beitrag von höchstens drei Minuten. Die Dauer der Kurzberichterstattung muss dem Ereignis angepasst sein.
+
+<sup>2</sup> Erstreckt sich ein öffentliches Ereignis über höchstens einen Tag und besteht es aus mehreren Teilen, so bezieht sich der Anspruch auf Kurzberichterstattung nicht auf jeden Teil des Ereignisses, sondern auf seine Gesamtheit. Erstreckt sich ein öffentliches Ereignis über mehr als 24 Stunden, so besteht Anspruch auf eine tägliche Kurzberichterstattung.
+
+<sup>3</sup> Der Kurzbericht darf erst nach Beendigung des öffentlichen Ereignisses oder des in sich abgeschlossenen Teils des Ereignisses ausgestrahlt werden.
+
+#### Art. 69
+
+**Direkter Zugang zu öffentlichen Ereignissen**[^69-1]
+
+### (Art. 72 Abs. 3 Bst. a RTVG)
+
+<sup>1</sup>
+
+Drittveranstalter, die das Recht auf direkten Zugang zu einem öffentlichen Ereignis geltend machen, haben sich rechtzeitig anzumelden:
+
+- a. bei geplanten Ereignissen: mindestens 10 Tage vor Ereignisbeginn;
+- b. bei kurzfristig angesetzten Ereignissen und bei Ereignissen, für die sich das besondere Interesse des Drittveranstalters aufgrund besonderer Umstände erst kurzfristig ergibt: zum frühestmöglichen Zeitpunkt.
+
+<sup>2</sup> Der Organisator des öffentlichen Ereignisses und der über Erstverwertungs- oder Exklusivrechte verfügende Programmveranstalter entscheiden frühestmöglich und bei Ereignissen nach Absatz 1 Buchstabe a mindestens 5 Tage vor Ereignisbeginn über den Zugang.
+
+<sup>3</sup> Falls nicht bereits vertragliche Abmachungen bestehen, wird jenen Drittveranstaltern Vorrang eingeräumt, die eine möglichst umfassende Versorgung in der Schweiz gewährleisten oder die beispielsweise aufgrund ihres Leistungsauftrags oder eines engen Bezugs des Ereignisses zu ihrem Verbreitungsgebiet ein besonderes Interesse an der Berichterstattung über das Ereignis nachweisen.
+
+<sup>4</sup> Wird der Zugang verweigert, so kann der Drittveranstalter dem BAKOM Massnahmen nach Artikel 72 Absatz 4 RTVG beantragen. Er hat dieses Gesuch unverzüglich nach der Verweigerung des Zugangs zu stellen.
+
+<sup>5</sup> Der direkte Zugang von Drittveranstaltern muss so ausgeübt werden, dass die Durchführung des Ereignisses und die Ausübung der Exklusiv- und Erstverwertungsrechte möglichst nicht beeinträchtigt werden.
+
+[^69-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+#### Art. 70
+
+**Signallieferung für die Kurzberichterstattung**
+
+### (Art. 72 Abs. 3 Bst. b RTVG)
+
+<sup>1</sup> Der Organisator des öffentlichen Ereignisses und der über Erstverwertungs- oder Exklusivrechte verfügende Programmveranstalter stellen dem interessierten Drittveranstalter das Signal auf Anfrage hin unverzüglich zur Anfertigung eines Kurzberichtes zur Verfügung. Die Anfrage hat mindestens 48 Stunden vor dem Ereignis zu erfolgen.
+
+<sup>2</sup> Der Drittveranstalter hat die für den Zugang zum Signal entstehenden Kosten abzugelten. Diese beinhalten den technischen und personellen Aufwand sowie eine Entschädigung für zusätzliche Kosten, die mit der Einräumung des Rechts auf Kurzberichterstattung verbunden sind.
+
+#### Art. 71
+
+**Freier Zugang zu Ereignissen von erheblicher gesellschaftlicher Bedeutung**
+
+### (Art. 73 Abs. 1 RTVG)
+
+<sup>1</sup> Der freie Zugang zu einem Ereignis von erheblicher gesellschaftlicher Bedeutung ist gewährleistet, wenn in jeder Sprachregion jeweils mindestens 80 Prozent der Haushalte die Übertragung ohne zusätzliche Ausgaben empfangen können.
+
+<sup>2</sup> Ereignisse von erheblicher gesellschaftlicher Bedeutung sind dem Publikum in der Regel zeitgleich in Teil- oder Gesamtberichterstattung zugänglich zu machen. Eine zeitversetzte Teil- oder Gesamtberichterstattung ist ausreichend, falls dies im öffentlichen Interesse liegt.
+
+<sup>3</sup> Kann ein Veranstalter, der zur Übertragung des Ereignisses einen Exklusivvertrag abgeschlossen hat, den freien Zugang nicht garantieren, so hat er das Übertragungssignal einem oder mehreren andern Programmveranstaltern zu angemessenen Bedingungen zu überlassen.
+
+### 2. Kapitel: Förderung von Aus- und Weiterbildung sowie Medienforschung
+
+#### Art. 72
+
+**Aus- und Weiterbildung von Programmschaffenden**
+
+### (Art. 76 RTVG)
+
+Das BAKOM fördert die Aus- und Weiterbildung von Programmschaffenden in erster Linie durch mehrjährige Leistungsvereinbarungen mit Institutionen, welche kontinuierlich ein bedeutendes Aus- und Weiterbildungsangebot im Bereich des Informationsjournalismus für Radio und Fernsehen führen.
+
+#### Art. 73
+
+**Medienforschung**
+
+### (Art. 77 RTVG)
+
+<sup>1</sup> Für die Unterstützung von Forschungsprojekten im Bereich von Radio und Fernsehen ist in der Regel mindestens die Hälfte des Ertrags aus der Konzessionsabgabe zu verwenden.
+
+<sup>2</sup> Unterstützt werden namentlich wissenschaftliche Forschungsprojekte, deren Ergebnisse Hinweise auf programmliche, gesellschaftliche, wirtschaftliche und technische Entwicklungen bei Radio und Fernsehen liefern und es damit der Verwaltung und der Branche ermöglichen, auf diese Entwicklungen zu reagieren.
+
+<sup>3</sup> Das BAKOM entscheidet über die Vergabe der Beiträge an Forschungsprojekte. Die Beiträge werden in der Regel auf Grund einer öffentlichen Ausschreibung vergeben; das BAKOM kann Schwerpunktthemen vorgeben sowie den Höchstanteil eines Beitrags an den anrechenbaren Kosten eines Forschungsprojekts festlegen.
+
+### 3. Kapitel: Stiftung für Nutzungsforschung
+
+### (Art. 78–81 RTVG)
+
+#### Art. 74
+
+<sup>1</sup> Die Stiftung für Nutzungsforschung (Stiftung) sowie die von ihr beherrschten Unternehmen müssen dem UVEK bis Ende April des Folgejahres einen Jahresbericht sowie die Jahresrechnung einreichen. Das Reglement der Stiftung legt Inhalt und Darstellung der Berichterstattung fest. Die Stiftung und von ihr beherrschte Unternehmen unterliegen der Auskunftspflicht nach Artikel 17 Absatz 1 RTVG.
+
+<sup>2</sup>
+
+Die von der Stiftung nach Artikel 79 Absatz 1 RTVG jährlich zu veröffentlichenden wichtigsten Ergebnisse umfassen mindestens:
+
+- a. die Möglichkeiten zum Empfang von Radio- und Fernsehprogrammen und den Gebrauch dieser Möglichkeiten durch die in der Schweiz wohnhafte Bevölkerung;
+- b. die Nutzung der konzessionierten und anderer Radio- und Fernsehprogramme, die in der Schweiz zu empfangen sind. Die Nutzungsdaten sind auszudrücken in Reichweite, Nutzungsdauer und Marktanteil. Die Aufschlüsselung der Nutzungsdaten nach Wochentagen, Programmgruppen sowie soziodemografischen Merkmalen muss nach Sprachregionen erfolgen. Die Daten der konzessionierten Radio- und Fernsehprogramme sind für deren Versorgungsräume auszuweisen.
+
+<sup>3</sup> Das UVEK regelt die Einzelheiten.
+
+<sup>4</sup>
+
+Das Reglement der Stiftung muss festlegen, welche Daten:
+
+- a. nach Artikel 78 Absatz 2 RTVG als hinreichend für Programmveranstalter und wissenschaftliche Forschung betrachtet werden;
+- b. nach Artikel 79 Absatz 2 RTVG als grundlegende Nutzungsdaten gelten und zu kostendeckenden Preisen abgegeben werden müssen.
+
+## 6. Titel: Unabhängige Beschwerdeinstanz für Radio und Fernsehen
+
+#### Art. 75
+
+**Zusammensetzung**
+
+### (Art. 82 RTVG)
+
+Bei der Wahl der unabhängigen Beschwerdeinstanz sorgt der Bundesrat für eine angemessene Vertretung beider Geschlechter und der verschiedenen Sprachregionen.
+
+#### Art. 76
+
+**Wahl und Beaufsichtigung der Ombudsstellen**
+
+### (Art. 83 Abs. 1 Bst. b und 91 RTVG)
+
+Das Geschäftsreglement der Beschwerdeinstanz (Art. 85 Abs. 2 RTVG) regelt die Einzelheiten der Wahl und Geschäftstätigkeit der drei Ombudsstellen und die Aufsicht über sie.
+
+#### Art. 77
+
+**Verfahrenskosten der Ombudsstellen**
+
+### (Art. 93 Abs. 5 RTVG)
+
+<sup>1</sup> Die Ombudsstellen finanzieren sich durch die Rechnungsstellung nach Artikel 93 Absatz 5 RTVG.
+
+<sup>2</sup> Sie stellen den betroffenen Programmveranstaltern die Verfahrenskosten nach Zeitaufwand in Rechnung.
+
+<sup>3</sup> Es gilt ein Stundenansatz von 230 Franken.[^77-1]
+
+[^77-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+
+## 7. Titel: Verwaltungsgebühren
+
+#### Art. 78
+
+**Grundsatz**
+
+### (Art. 100 RTVG)
+
+<sup>1</sup> Die nach Artikel 100 RTVG erhobene Verwaltungsgebühr bemisst sich nach Zeitaufwand.
+
+<sup>2</sup> Es gilt ein Stundenansatz von 210 Franken.[^78-1]
+
+<sup>3</sup> Für die Festlegung der Konzessionsabgabe wird eine Verwaltungsgebühr erhoben, wenn der Programmveranstalter durch sein Verhalten ausserordentlichen Aufwand verursacht.
+
+<sup>4</sup> Für die Erfassung der Angaben eines meldepflichtigen Veranstalters und der Änderungen der meldepflichtigen Sachverhalte nach Artikel 2 erhebt das BAKOM eine Verwaltungsgebühr, wenn der Veranstalter durch sein Verhalten einen Aufwand verursacht, der die blosse Erfassung übersteigt.
+
+<sup>5</sup> Für die Bearbeitung von Anfragen wird eine Verwaltungsgebühr erhoben, wenn die Anfrage einen ausserordentlichen Aufwand verursacht. Das BAKOM unterrichtet die gebührenpflichtige Person vorgängig über die voraussichtliche Gebühr.
+
+[^78-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5855](https://fedlex.data.admin.ch/eli/oc/2009/712)).
+
+#### Art. 79
+
+**Reduktion der Verwaltungsgebühr**
+
+### (Art. 100 RTVG)
+
+<sup>1</sup> Für die Erteilung, Änderung oder Aufhebung einer Konzession für die Veranstaltung eines Radio- oder Fernsehprogramms gilt ein reduzierter Stundensatz von 84 Franken.[^79-1]
+
+<sup>2</sup>
+
+Die Verwaltungsgebühr nach Absatz 1 kann weiter reduziert und diejenige für die übrigen gebührenpflichtigen Tätigkeiten reduziert werden für:
+
+- a. Programmveranstalter, welchen eine Konzession für die Ausstrahlung eines werbefreien Programms erteilt wurde;
+- b. Programmveranstalter, die nachweisen, dass sie einen Betriebsertrag von weniger als 1 Million Franken haben. Als Betriebsertrag gelten die Einnahmen, die mit der Betriebstätigkeit zusammenhängen, insbesondere Werbe- und Sponsoringeinnahmen sowie Beiträge und Subventionen.
+
+[^79-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5855](https://fedlex.data.admin.ch/eli/oc/2009/712)).
+
+#### Art. 80
+
+**Anwendbarkeit der Allgemeinen Gebührenverordnung**
+
+### (Art. 100 RTVG)
+
+Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^80-1].
+
+[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+## 8. Titel: Schlussbestimmungen
+
+### 1. Kapitel: Vollzug und Aufhebung bisherigen Rechts****
+
+[^tit8-chap1-1]
+
+[^tit8-chap1-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 80a
+
+**Vollzug**[^80a-1]
+
+### (Art. 103 und 104 Abs. 2 RTVG)
+
+[^80a-2]
+
+<sup>1</sup> Das UVEK erlässt die administrativen und technischen Vorschriften.
+
+<sup>2</sup> Das BAKOM kann internationale Vereinbarungen technischen oder administrativen Inhalts abschliessen, die in den Anwendungsbereich dieser Verordnung fallen.[^80a-3]
+
+<sup>3</sup> Das BAKOM kann den Bund in internationalen Gremien vertreten.[^80a-4]
+
+[^80a-1]: Eingefügt durch Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+[^80a-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^80a-3]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^80a-4]: Fassung gemäss Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+#### Art. 81
+
+**Aufhebung bisherigen Rechts**
+
+Die Radio- und Fernsehverordnung vom 6. Oktober 1997[^81-1] wird aufgehoben.
+
+[^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302), [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258), [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20 [3482](https://fedlex.data.admin.ch/eli/oc/2002/516), [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172)[4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
+
+### 2. Kapitel:**** Übergangsbestimmungen zur Änderung vom 25. Mai 2016
+
+[^tit8-chap2-1]
+
+[^tit8-chap2-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 1. Abschnitt: Verwendung des Überschusses aus den Gebührenanteilen
+
+#### Art. 82
+
+**Zur Verfügung stehender Betrag**
+
+### (Art. 109*a* RTVG)
+
+<sup>1</sup> Für die Verwendungszwecke nach Artikel 109*a* Absätze 1 und 2 RTVG stehen 45 Millionen Franken zur Verfügung.
+
+<sup>2</sup> Das BAKOM legt die Beträge fest, die für die verschiedenen Zwecke nach Artikel 84 und 85 zur Verfügung stehen.
+
+#### Art. 83
+
+**Verwendung für die Aus- und Weiterbildung**
+
+### (Art. 109*a* Abs. 1 Bst. a RTVG)
+
+<sup>1</sup> Das BAKOM unterstützt auf Gesuch hin die Aus- und Weiterbildung von Mitarbeitenden von Veranstaltern mit Abgabenanteil. Unterstützt werden Aus- und Weiterbildungen im Bereich der journalistischen Fertigkeiten und Kompetenzen, des Redaktionsmanagements, der Qualitätssicherung sowie im technischen und finanztechnischen Bereich, sofern sie der Erfüllung des Leistungsauftrags dienen.
+
+<sup>2</sup>
+
+Unterstützt werden insbesondere:
+
+- a. Mitarbeitende, die professionelle Angebote externer Aus- und Weiterbildungsinstitutionen sowie journalismus- und mediennaher Institutionen und Organisationen nutzen;
+- b. Veranstalter, die ihren Mitarbeitenden in Zusammenarbeit mit externen Fachpersonen von Aus- und Weiterbildungsinstitutionen sowie von journalismus- und mediennahen Institutionen und Organisationen eine spezifische interne Aus- bzw. Weiterbildung ermöglichen;
+- c. komplementäre nicht gewinnorientierte Radioveranstalter, die kontinuierlich mehrere Praktikantinnen und Praktikanten gleichzeitig ausbilden und dafür entsprechende Fachpersonen angestellt haben;
+- d. spezifische Aus- und Weiterbildungsangebote von Aus und Weiterbildungsinstitutionen sowie von journalismus- und mediennahen Institutionen und Organisationen, die auf die konkreten Bedürfnisse von lokalen und regionalen Veranstaltern mit Abgabenanteil ausgerichtet sind;
+- e. die Organisation von Weiterbildungstagungen in erster Linie im Bereich neuer Medien, welche sich an die Mitarbeitenden der Veranstalter mit Abgabenanteil richten.
+
+<sup>3</sup>
+
+Anrechenbar sind insbesondere, soweit sie nicht durch andere Leistungen der öffentlichen Hand gedeckt sind:
+
+- a. Kurskosten für Angebote nach Absatz 2 Buchstabe a;
+- b. Kosten für externe Fachpersonen nach Absatz 2 Buchstabe b;
+- c. Kosten für Fachpersonen nach Absatz 2 Buchstabe c;
+- d Kosten für die Planung und Durchführung von Ausbildungs- sowie Tagungsangeboten inklusive die Erarbeitung entsprechender Schulungsdokumentationen nach Absatz 2 Buchstaben d und e.
+
+<sup>4</sup> Die Unterstützung beträgt höchstens 80 Prozent der anrechenbaren Kosten.
+
+<sup>5</sup> Das BAKOM legt den zur Verfügung stehenden Betrag periodisch fest und überprüft die Wirksamkeit der verwendeten Mittel.
+
+#### Art. 84
+
+**Verwendung für die Förderung neuer Verbreitungstechnologien**
+
+### (Art. 109*a* Abs. 1 Bst. b RTVG)
+
+<sup>1</sup>
+
+Die Förderleistung zugunsten von Veranstaltern mit Abgabenanteil beträgt höchstens 80 Prozent:
+
+- a. der Entschädigung, die der Veranstalter für die T-DAB-Verbreitung seines Programms leistet;
+- b. der Investitionen, die für die Aufbereitung für neue Verbreitungstechnologien notwendig sind.
+
+<sup>2</sup> Das UVEK bezeichnet die anrechenbaren Aufwendungen nach Absatz 1 Buchstabe b.
+
+<sup>3</sup> Es gelten die Bestimmungen nach Artikel 50 und 51, soweit dieser Artikel keine abweichenden Regeln vorsieht.
+
+#### Art. 85
+
+**Verwendung für digitale Fernsehproduktionsverfahren**
+
+### (Art. 109*a* Abs. 1 Bst. b RTVG)
+
+<sup>1</sup> Die Förderleistung zugunsten von Fernsehveranstaltern mit Abgabenanteil beträgt höchstens 80 Prozent ihrer anrechenbaren Aufwendungen.
+
+<sup>2</sup> Das UVEK bestimmt die förderungswürdigen Fernsehproduktionsverfahren.
+
+<sup>3</sup> Es gelten die Bestimmungen nach Artikel 50 und 51, soweit dieser Artikel keine abweichenden Regeln vorsieht.
+
+### 2. Abschnitt: Ablösung der Empfangsgebühr durch die Abgabe für Radio und Fernsehen
+
+#### Art. 86
+
+**Zeitpunkt der Ablösung**
+
+### (Art. 109*b* Abs. 2 RTVG)
+
+<sup>1</sup> Die Ablösung der Empfangsgebühr durch die Radio- und Fernsehabgabe (Systemwechsel) erfolgt auf den 1. Januar 2019.[^86-1]
+
+<sup>2</sup> Bis zum Systemwechsel erhebt die Schweizerische Erhebungsstelle für Radio- und Fernsehempfangsgebühren (bisherige Gebührenerhebungsstelle) die Empfangsgebühr nach bisherigem Recht (Art. 58–70 und 101 Bundesgesetz vom 24. März 2006 über Radio und Fernsehen [RTVG 2006][^86-2] sowie bisherige Art. 57–67[^86-3]).
+
+<sup>3</sup> Die Abgabe für Radio und Fernsehen wird ab dem Systemwechsel erhoben.
+
+[^86-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
+[^86-2]: [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
+[^86-3]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861), [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749), [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
+
+#### Art. 87
+
+**Letzte Rechnungsstellung der Empfangsgebühr nach bisherigem System**
+
+### (Art. 109*b* Abs. 4 RTVG)
+
+<sup>1</sup> Die Empfangsgebühr wird bis zum Systemwechsel erhoben.
+
+<sup>2</sup> Die bisherige Gebührenerhebungsstelle stellt in den letzten 12 Monaten vor dem Systemwechsel die Gebühr für die jeweils verbleibende Zeit gemäss der bisherigen Staffelung (Artikel 60*a* Absatz 2[^87-1]) in Rechnung.
+
+<sup>3</sup>
+
+Für Rechnungsstellung und Fälligkeit gilt:
+
+- a. Die Rechnungen der ersten Monatsstaffel werden am Anfang des Monats gestellt und innert 30 Tagen fällig;
+- b. Die Rechnungen der letzten drei Monatsstaffeln werden alle am Ende des Vormonats des drittletzten Monats gestellt und Ende des drittletzten Monats fällig;
+- c. Die Rechnungen der übrigen Monatsstaffeln werden am Ende des Vormonats gestellt und Ende des Monats fällig.
+
+[^87-1]: [AS 2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749)
+
+#### Art. 88
+
+**Erste Rechnungsstellung der Haushaltabgabe**
+
+<sup>1</sup> Im ersten Jahr der Erhebung wird die gestaffelte Rechnungsstellung für die Haushaltabgabe nach Artikel 58 Absatz 1 aufgebaut. Die Erhebungsstelle legt verkürzte Abgabeperioden zwischen einem und elf Monaten fest.
+
+<sup>2</sup> Sämtliche Rechnungen nach Absatz 1 werden im ersten Monat der Abgabeperiode gestellt und werden innert 30 Tagen fällig.
+
+<sup>3</sup> Ein Teil der Haushalte erhält bereits eine Rechnung über 12 Monate. Die Fälligkeit richtet sich nach Artikel 59 Absatz 1.
+
+#### Art. 89
+
+**Datenlieferung der Gemeinden und Kantone**
+
+### (Art. 69*g* RTVG)
+
+<sup>1</sup> Die Gemeinden und Kantone beginnen die monatlichen Datenlieferungen an die Erhebungsstelle nach Artikel 67 spätestens 18 Monate nach Inkrafttreten dieser Bestimmung. Die erste Lieferung muss den vollen Datenbestand zu allen Merkmalen umfassen.
+
+<sup>2</sup> Die Erhebungsstelle bestätigt der datenliefernden Behörde, dass die Datenlieferung nach den gesetzlichen Vorgaben und technisch einwandfrei erfolgt ist, oder rügt die aufgetretenen Mängel.
+
+<sup>3</sup>
+
+Ein Beitrag nach Artikel 69*g* Absatz 4 RTVG beträgt einmalig höchstens:
+
+- a. 2000 Franken an eine Gemeinde;
+- b. 25 000 Franken an einen Kanton.
+
+<sup>4</sup>
+
+Voraussetzungen für einen Beitrag nach Absatz 3 sind:
+
+- a. ein Gesuch des Kantons bzw. der Gemeinde an die Erhebungsstelle;
+- b. der Beleg über die effektiven, spezifischen Investitionskosten;
+- c. das Vorliegen einer Bestätigung der Erhebungsstelle nach Absatz 2.
+
+<sup>5</sup> Ohne Beleg nach Absatz 4 Buchstabe b wird ein Pauschalbetrag ausgerichtet. Dieser beträgt je Gemeinde 500 Franken und je Kanton 5000 Franken.
+
+#### Art. 90
+
+**Datenlieferung des EDA**
+
+### (Art. 69*g* RTVG)
+
+Das EDA stellt der Erhebungsstelle die zur Erhebung der Abgabe notwendigen Daten nach Artikel 67*a* spätestens 18 Monate nach Inkrafttreten dieser Bestimmung zur Verfügung.
+
+#### Art. 91
+
+**Datenübergabe zur Befreiung von der Abgabepflicht**
+
+### (Art. 69*b* und 109*b* RTVG)
+
+<sup>1</sup>
+
+Die bisherige Gebührenerhebungsstelle stellt der neuen Erhebungsstelle spätestens 18 Monate nach Inkrafttreten dieser Bestimmung die nachfolgenden Daten zu gebührenbefreiten Personen (bisheriger Art. 64[^91-1]) zur Verfügung, soweit die Daten vorhanden sind:
+
+- a. Name und Vorname;
+- b. Wohnadresse;
+- c. Geburtsdatum;
+- d. Korrespondenzsprache;
+- e. Name und Vorname der Personen, die im selben Privathaushalt wohnen wie die gebührenbefreite Person.
+
+<sup>2</sup> Die Einzelheiten richten sich nach dem bisherigen Artikel 66 Absatz 3[^91-2].
+
+[^91-1]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861)
+[^91-2]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)
+
+#### Art. 92
+
+**Abschluss des Empfangsgebührensystems**
+
+### (Art. 109*b* RTVG)
+
+<sup>1</sup> Ab dem Systemwechsel gelten für Sachverhalte, die sich bis zum Systemwechsel ereignet haben, einschliesslich der Zuständigkeiten, weiterhin die Artikel 68–70 und 101 Absatz 1 RTVG 2006[^92-1] sowie die bisherigen Artikel 57–67[^92-2] dieser Verordnung, soweit dieser Artikel keine abweichenden Regelungen vorsieht.
+
+<sup>2</sup> Nach dem Systemwechsel kann das UVEK die bisherige Gebührenerhebungsstelle oder eine andere externe Stelle für einen begrenzten Zeitraum für die Erhebung der Empfangsgebühren und die damit verbundenen Aufgaben beauftragen.
+
+<sup>3</sup> Die im Zeitpunkt des Systemwechsels offenen Forderungen des Bundes gegenüber gebührenpflichtigen Personen und Betrieben sind weiterhin geschuldet.
+
+<sup>4</sup> Nach Beendigung der Tätigkeit der bisherigen Gebührenerhebungsstelle beziehungsweise einer anderen externen Stelle nach Absatz 2 übernimmt das BAKOM sämtliche Aufgaben in Bezug auf die Erhebung der Empfangsgebühren. Der Rechtsweg richtet sich abweichend von Artikel 69 Absatz 5 RTVG 2006 nach den allgemeinen Bestimmungen über die Bundesrechtspflege, sofern das BAKOM Verfügungen erlässt.
+
+<sup>5</sup> Nach Beendigung der Tätigkeit der bisherigen Gebührenerhebungsstelle übernimmt die neue Erhebungsstelle die Verlustscheine für ausstehende Empfangsgebühren.
+
+<sup>6</sup> Die Verjährungsfrist für die Empfangsgebühren richtet sich weiterhin nach dem bisherigen Artikel 61 Absatz 3[^92-3].
+
+<sup>7</sup> Der Aufwand der externen Stellen und des BAKOM nach den Absätzen 2 und 4 wird aus dem Ertrag der Empfangsgebühren gedeckt. Reicht dieser Ertrag nicht aus, wird der Aufwand aus dem Ertrag der Abgabe gedeckt.
+
+<sup>8</sup> Soweit der Ertrag der Empfangsgebühren die Entschädigungszahlungen nach Absatz 7 übertrifft, fliesst er der SRG zu.
+
+[^92-1]: [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
+[^92-2]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)[6657](https://fedlex.data.admin.ch/eli/oc/2007/861), [2010 5219](https://fedlex.data.admin.ch/eli/oc/2010/749), [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)
+[^92-3]: [AS 2007 787](https://fedlex.data.admin.ch/eli/oc/2007/151)
+
+#### Art. 93
+
+**Einführung der Unternehmensabgabe**
+
+### (Art 109*b* Abs. 5 RTVG)
+
+<sup>1</sup> Fällt der Systemwechsel in die erste Hälfte eines Kalenderjahrs, so erfolgt die Einstufung in die Tarifkategorien gestützt auf den Gesamtumsatz der im Vorvorjahr beendeten Steuerperiode der Mehrwertsteuer.
+
+<sup>2</sup> Im ersten Jahr stellt die ESTV die Abgabe sämtlichen abgabepflichtigen Unternehmen, zu deren Einstufung in eine Tarifkategorie die nötigen Informationen vorliegen, im ersten Monat nach dem Systemwechsel elektronisch in Rechnung. Den übrigen Unternehmen stellt die ESTV elektronisch Rechnung, sobald die entsprechenden Informationen vorliegen.
+
+### 3. Abschnitt: Privathaushalte ohne Empfangsmöglichkeit
+
+#### Art. 94
+
+**Gesuch um Befreiung von der Abgabepflicht**
+
+### (Art 109*c* Abs. 1 RTVG)
+
+<sup>1</sup> Ein Gesuch um Befreiung von der Abgabe kann nach Erhalt der Rechnung jederzeit schriftlich bei der Erhebungsstelle gestellt werden.
+
+<sup>2</sup> Jede Person, die auf der Abgaberechnung aufgeführt ist, kann ein Gesuch stellen. Dieses gilt für alle Mitglieder des betreffenden Haushalts.
+
+<sup>3</sup> Die Erhebungsstelle stellt ein Gesuchsformular zur Verfügung. Das Gesuch kann nur auf diesem Formular gestellt werden. Das BAKOM gibt den Inhalt des Formulars vor.
+
+<sup>4</sup> Wird das Gesuch innert 30 Tagen ab Rechnungsdatum der Jahresrechnung bzw. der ersten Dreimonatsrechnung einer Abgabeperiode gestellt, so erfolgt die Befreiung bei Gutheissung des Gesuchs rückwirkend ab Beginn der betreffenden Abgabeperiode bis zu deren Ablauf. Wird das Gesuch später eingereicht, so erfolgt die Befreiung ab dem Folgemonat bis zum Ablauf der betreffenden Abgabeperiode. Die Erhebungsstelle stellt den volljährigen Personen des Haushaltes eine schriftliche Bestätigung zu.
+
+<sup>5</sup> Für die Behandlung des Gesuchs wird keine Gebühr erhoben.
+
+<sup>6</sup> Die Erhebungsstelle informiert das BAKOM über die von der Abgabe befreiten Haushalte und deren Mitglieder.
+
+<sup>7</sup> Wird ein Haushalt aufgelöst, so erlischt die Befreiung seiner bisherigen Mitglieder von der Abgabepflicht.
+
+#### Art. 95
+
+**Zum Empfang geeignete Geräte**
+
+### (Art. 109*c* Abs. 2 RTVG)
+
+Zum Empfang von Radio- oder Fernsehprogrammen geeignete Geräte sind:
+
+- a. Geräte, die zum Programmempfang bestimmt sind oder ausschliesslich zum Empfang bestimmte Bestandteile enthalten;
+- b. multifunktionale Geräte, falls diese hinsichtlich Vielfalt des empfangbaren Programmangebots und Empfangsqualität den Geräten nach Buchstabe a gleichwertig sind.
+
+#### Art. 96
+
+**Meldung einer Empfangsmöglichkeit**
+
+### (Art. 109*c* Abs. 4 RTVG)
+
+<sup>1</sup> Die Empfangsmöglichkeit nach Artikel 109*c* Absatz 4 RTVG ist der Erhebungsstelle schriftlich zu melden.
+
+<sup>2</sup> Jedes volljährige Mitglied des Privathaushalts ist für die Meldung verantwortlich.
+
+<sup>3</sup> Die Abgabepflicht beginnt am ersten Tag des Monats, der dem Beginn des Bereitstellens oder des Betriebs des Empfangsgerätes folgt.
+
+<sup>4</sup> Die Erhebungsstelle informiert das BAKOM über die neu abgabepflichtigen Haushalte und deren Mitglieder.
+
+### 2*a*. Kapitel:**** Übergangsbestimmung zur Änderung vom 25. Oktober 2017
+
+[^tit8-chap2a-1]
+
+[^tit8-chap2a-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)).
+
+### (Art. 45 Abs. 1<sup>bis</sup> RTVG)
+
+#### Art. 96a
+
+<sup>1</sup> Sofern die Voraussetzungen nach Artikel 44 RTVG erfüllt sind, werden bisherige Konzessionen mit Leistungsauftrag (Art. 38 und 43 RTVG) auf Gesuch des Veranstalters bis 31. Dezember 2024 verlängert.
+
+<sup>2</sup> Das UVEK kann die bisherigen Konzessionen auf den Zeitpunkt, in dem die ursprüngliche Konzession geendet hätte, entschädigungslos abändern oder die Verlängerung verweigern, sofern dies aufgrund von veränderten tatsächlichen oder rechtlichen Verhältnissen erforderlich ist.
+
+### 3. Kapitel: Inkrafttreten
+
+### (Art. 114 Abs. 2 RTVG)
+
+#### Art. 97
+
+[^97-1]
+
+Diese Verordnung tritt am 1. April 2007 in Kraft.
+
+[^97-1]: Ursprünglich: Art. 83
+
+Anhang 1*[^t-1]*
+
+(Art. 38 Bst. a)
+
+## Radioveranstalter mit Leistungsauftrag und Verbreitung im UKW-Band; Planungs- und Betriebsgrundsätze und Versorgungsgebiete
+
+[^t-1]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Juli 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Bereinigt gemäss Ziff. II der V vom 5. Nov. 2014 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)), vom 25. Mai 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)) und vom 25. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)).
+
+### 1 Begriffe
+
+In diesem Anhang bedeuten:
+
+- a. UKW: Ultrakurzwellen (Band II; 87.5–108.0 MHz);
+- a<sup>bis</sup>. DAB+: Digital Audio Broadcasting plus (Digitalradiostandard mit verbesserter Audiocodierung);
+- b. Kernzone: Zone mit signifikantem Hörerpotenzial innerhalb eines lokalen oder regionalen Versorgungsgebietes;
+- c. Agglomerationen: zusammenhängende Gebiete mehrerer Gemeinden mit einer Kernzone; Definition und Umfang auf der Basis der Volkszählung 2000 gemäss Bundesamt für Statistik;
+- d. stationärer Empfang: Empfang mit einem fest installierten Heimempfangsgerät, das an eine Empfangsantenne, eine Gemeinschaftsempfangsantenne oder an eine grössere Kabelverteilanlage angeschlossen ist;
+- e. portabler Empfang: Empfang mit einem tragbaren Gerät innerhalb oder ausserhalb von Gebäuden;
+- f. mobiler Empfang: Empfang mit einem Gerät im fahrenden Fahrzeug mit geeigneter Aussenantenne (rund 1,5 m über Grund).
+
+### 2 Grundsätze für die UKW-Frequenzzuteilung, den Betrieb der UKW-Sendeanlagen und die Messung der Versorgungsqualität
+
+<sup>1</sup> Das Bundesamt für Kommunikation (BAKOM) nimmt die UKW-Frequenzzuteilung gemäss dem internationalen Wellenplan (Genfer Abkommen 84), den massgebenden Empfehlungen der internationalen Fernmeldeunion (ITU) sowie schweizerischen Vorgaben vor. Bei der Frequenzkoordination sind für das BAKOM die Artikel 4 und 5 des Genfer Abkommens 84 massgebend.
+
+<sup>2</sup> Das BAKOM toleriert beim Betrieb von UKW-Sendeanlagen einen maximalen Frequenzhub von +/–75 kHz bei einem maximalen Hubanteil von 10 Prozent im Bereich zwischen +/–75 kHz und +/–85 kHz sowie eine Modulationsleistung (Multiplexleistung) von maximal +3 dBr. Für die Messungen dieser Parameter ist die Empfehlung ITU-R SM.1268-3[^annex1-lvlu1-lvl2-1] der Internationalen Fernmeldeunion anzuwenden.
+
+<sup>2bis</sup> Die Messzeit für den Frequenzhub beträgt minimal 20 Minuten, wobei für die Spitzenwert-Ermittlung je ein Messfenster von maximal 10 Sekunden angewendet wird. Für die kumulative Verteilung ist die Messmethode 1E-5 anzuwenden.
+
+<sup>2ter</sup> Die Messzeit für die Multiplexleistung beträgt minimal 20 Minuten. Der Maximalwert wird in einem gleitenden Messfenster jede Sekunde über 60 Sekunden gemittelt. Die Messung erfolgt während der Aussendung von programmtypischen Inhalten.
+
+<sup>3</sup> Die Versorgungsqualität wird durch das OBB-System (automatische Registrierung der objektiven Beurteilung) gemessen. Die OBB-Messungen erfolgen für den mobilen Empfang. Sie gelten auch für den stationären und den portablen Empfang.
+
+<sup>4</sup> Das BAKOM legt die technischen Parameter des OBB-Systems und den Umfang der Messungen fest. Es unterteilt die Empfangsqualität in fünf Stufen: sehr gut, gut, genügend, schlecht und sehr schlecht.
+
+[^annex1-lvlu1-lvl2-1]: Der Text dieser Empfehlungen kann auf Französisch oder Englisch unter www.itu.int eingesehen werden.
+
+### 3 Verbreitung im Versorgungsgebiet
+
+### 3.1 Technischer Ausbaustand der Senderketten der SRG in ihren Sprachregionen
+
+<sup>1</sup> Die SRG gewährleistet die Verbreitung auf ihren ersten sprachregionalen Senderketten sowie, nach Massgabe der frequenztechnischen Möglichkeiten, auf ihren zweiten und dritten sprachregionalen Senderketten in allen Ortschaften mit über 200 Einwohnerinnen und Einwohnern.
+
+<sup>2</sup> Nach Massgabe der frequenztechnischen Möglichkeiten gewährleistet die SRG die Verbreitung auf ihrer vierten Senderkette im Kanton Graubünden in rätoromanischer Sprache bis zur Bedienung aller Ortschaften mit über 200 Einwohnerinnen und Einwohnern.
+
+<sup>3</sup> In ihren Sprachregionen gewährleistet die SRG den stationären, portablen und mobilen Empfang der sprachregionalen Programme in der Regel in guter oder genügender Qualität.
+
+### 3.2 Technische Bedienung der Versorgungsgebiete durch die lokalen oder regionalen Veranstalter
+
+Veranstalter nach Ziffer 4 gewährleisten in der Kernzone ihrer lokalen oder regionalen Versorgungsgebiete den stationären, portablen und mobilen Empfang in der Regel in guter oder genügender Qualität. Im gesamten lokalen oder regionalen Versorgungsgebiet ist möglichst flächendeckend eine genügende Versorgungs- und Empfangsqualität zu gewährleisten.
+
+### 3.3 Verzicht auf UKW-Frequenzen
+
+<sup>1</sup> Auf Gesuch hin kann die zuständige Behörde den Veranstalter von seiner Pflicht, sein Versorgungsgebiet mittels UKW-Frequenzen zu bedienen, in dem Masse entbinden, als er die betreffende Zone drahtlos-terrestrisch über DAB+ versorgt.
+
+<sup>2</sup> Verzichtet ein Veranstalter auf die Nutzung einzelner UKW-Frequenzen, so werden diese nicht mehr für die Verbreitung von Radioprogrammen vergeben*.*
+
+### 4 Versorgungsgebiete für die drahtlos-terrestrische Verbreitung
+
+Konzessionen für die drahtlos-terrestrische Verbreitung werden an Radioveranstalter mit Leistungsauftrag und Abgabenanteil in folgenden Versorgungsgebieten erteilt:
+
+<table>
+<tr><td colspan="2">1. Region Genf</td></tr>
+<tr><td>Veranstalter:</td><td>1 komplementäres, nicht gewinnorientiertes Programm</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Agglomeration Genf</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Genf</td></tr>
+<tr><td colspan="2">2. Region Arc Lémanique</td></tr>
+<tr><td>Veranstalter:</td><td>4</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Genf und Waadt (ohne Bezirke Pays-d’Enhaut und Aigle); Bezirk La Broye (FR); Gemeinde Villeneuve (VD)</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Genf, Lausanne und Yverdon-les- Bains; Bezirk Vevey; Gemeinden Payerne und Villeneuve; Autobahnen A1 Nyon – Yverdons-les-Bains und A9 Vevey – Vallorbe</td></tr>
+<tr><td colspan="2">3. Region Chablais</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Monthey, Aigle, Pays d’Enhaut und Vevey; Autobahn A9 Ardon – Lausanne-Belmont</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Monthey-Aigle; Gemeinde St-Maurice; Autobahn A9 St-Maurice – Vevey</td></tr>
+<tr><td colspan="2">4. Region Unterwallis</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Unterwallis zwischen Siders und St-Maurice; Autobahn A9 Visp – Aigle</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Sitten und Siders; Gemeinden Martigny, Orsières und Verbier; Autobahn A9 Sitten – Evionnaz</td></tr>
+<tr><td colspan="2">5. Region Oberwallis</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Oberwallis bis Siders, Autobahn A9 Salgesch – Sitten</td></tr>
+<tr><td>Kernzone:</td><td>Rhonetal von Fiesch bis Salgesch; Gemeinden Stalden, Zermatt, Saas-Fee und Leukerbad</td></tr>
+<tr><td colspan="2">6. Region Arc Jurassien</td></tr>
+<tr><td>Veranstalter:</td><td>2</td></tr>
+<tr><td>Konzession 1:</td><td>mit Leistungsauftrag und Abgabenanteil;</td></tr>
+<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für die drei Regionen Kanton Neuenburg, Kanton Jura sowie die Bezirke im Kanton Bern Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen.</td></tr>
+<tr><td>Konzession 2:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Neuenburg und Jura; Bezirke Neuenstadt, Courtelary, Moutier und Biel (BE); Agglomeration Yverdon; Gemeinden rund um den Neuenburgersee, Gemeinden am linken Bielerseeufer zwischen Biel und Neuenstadt</td></tr>
+<tr><td>Kernzone 1:</td><td>Agglomeration Neuenburg; Gemeinden Le Locle und La Chaux-de-Fonds; Val-de-Travers und Val-de-Ruz; Strecken La Chaux-de-Fonds – St. Imier, La Chaux- de-Fonds – Les Bois</td></tr>
+<tr><td>Kernzone 2:</td><td>Gemeinden Pruntrut und Delsberg, Autobahn A16 im Kanton Jura, Strecken Delsberg – La Chaux-de-Fonds, Delsberg – Moutier</td></tr>
+<tr><td>Kernzone 3:</td><td>Gemeinden St-Imier, Tramelan, Tavannes und Moutier; Autobahn A16 Moutier – Péry-Reuchenette; Strecken Sonceboz – La Chaux-de-Fonds, Moutier – Delsberg</td></tr>
+<tr><td colspan="2">7. Region Freiburg (französischsprachiges Programm)</td></tr>
+<tr><td>Veranstalter:</td><td>1 (integrierter Bestandteil eines zweisprachigen Radios)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke La Broye, La Sarine, La Glâne, La Veveyse, La Gruyère (FR), Payerne und Avenches (VD); Agglomeration Freiburg; Bezirk See westlich der Linie Muntelier – Barberêche</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Freiburg, Autobahn A12 Düdingen –Châtel-St-Denis</td></tr>
+<tr><td colspan="2">8. Region Freiburg (deutschsprachiges Programm)</td></tr>
+<tr><td>Veranstalter:</td><td>1 (integraler Bestandteil eines zweisprachigen Radios)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke La Sarine, See und Sense; Autobahn A 12 Thörishaus – Bern-Forsthaus, Autobahn A1 Kerzers – Bern-Forsthaus</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Freiburg; Gemeinden Murten und Kerzers; Autobahn A1 Murten – Bern-Brünnen, Autobahn A12 Freiburg – Thörishaus</td></tr>
+<tr><td colspan="2">9. Region Biel</td></tr>
+<tr><td>Veranstalter:</td><td>1 (zwei parallele Programme in deutscher und französischer Sprache)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Agglomerationen Biel und Grenchen; Bezirke Nidau, Büren, Aarberg (ohne Gemeinde Meikirch), Neuenstadt und Erlach; Gemeinden Kerzers und Fräschels</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Biel; Gemeinde Lyss; Strecke Biel – Neuenstadt</td></tr>
+<tr><td colspan="2">10. Region Bern</td></tr>
+<tr><td>Veranstalter:</td><td>2</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Bern, Fraubrunnen, Konolfingen, Seftigen, Schwarzenburg und Laupen; Gemeinde Meikirch; Autobahn A1 Bern – Koppigen, Autobahn A6 Bern – Thun-Nord</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Bern</td></tr>
+<tr><td colspan="2">11. Region Bern-Stadt</td></tr>
+<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Bern und Fraubrunnen; Gemeinden Meikirch, Frauenkappelen und Kehrsatz; Autobahn A1 Bern – Koppigen, Autobahn A 6 Bern – Thun-Nord</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Bern nordöstlich bis Münchenbuchsee und Schönbühl, südlich bis Köniz/Kehrsatz</td></tr>
+<tr><td colspan="2">12. Region Berner Oberland</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Thun, Niedersimmental, Obersimmental, Saanen, Frutigen, Interlaken und Oberhasli; Autobahn A6 Thun – Bern-Ostring, Gürbetal bis Belp</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Thun und Interlaken, Gemeinden rund um den Thuner- und Brienzersee; Gemeinden Saanen, Gstaad, Schönried, Zweisimmen, Lenk, Adelboden, Frutigen, Kandersteg, Lauterbrunnen, Wengen, Mürren, Grindelwald und Meiringen</td></tr>
+<tr><td colspan="2">13. Region Emmental</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Fraubrunnen, Burgdorf, Trachselwald, Konolfingen, Signau und Entlebuch; Bezirke Wangen und Aarwangen südlich der Kantonsstrasse Herzogenbuchsee – Langenthal; südlicher Teil des Bezirks Willisau, begrenzt durch die Kantonsstrasse Huttwil – Ettiswil; Gemeinde Wolhusen; Autobahn A6/A1 Thun-Nord – Bern-Wankdorf – Schönbühl sowie die östlich davon liegenden Gemeinden im Bezirk Bern</td></tr>
+<tr><td>Kernzone:</td><td>Bezirke Entlebuch, Signau und Trachselwald; Gemeinden Rohrbach, Burgdorf und Oberburg; Strecke Signau – Oberdiessbach</td></tr>
+<tr><td colspan="2">14. Region Solothurn-Olten</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Solothurn ohne Bezirke Thierstein und Dorneck; Bezirke Wangen a. A. und Büren (ohne Gemeinden süd- westlich von Büren a. A.); Bezirke Aarwangen und Fraubrunnen nördlich der Linie Langenthal – Fraubrunnen; Gemeinden Aarau, Aarburg, Rothrist, Oftringen und Zofingen; Autobahn A1 Bern-Wankdorf – Suhr</td></tr>
+<tr><td>Kernzone:</td><td>Jurasüdfuss von Grenchen bis Olten; Gemeinden Herzogenbuchsee, Langenthal, Aarburg, Rothrist, Oftringen und Zofingen; Autobahn A1 Oftringen – Rüdtligen</td></tr>
+<tr><td colspan="2">15. Region Aargau</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Aargau; Bezirke Gösgen, Olten (SO) und Dietikon (ZH); Raum Zürich-Höngg/Altstetten; Strecke Sursee – Zofingen</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Aarau, Lenzburg, Wohlen, Baden –Brugg und Olten – Zofingen (ohne Gemeinden westlich der Linie Trimbach – Rothrist); Gemeinden im Limmattal von Neuenhof bis Spreitenbach; Autobahn A3 von der Verzweigung Birrfeld bis Stein AG</td></tr>
+<tr><td colspan="2">16. Region Aargau-Mitte</td></tr>
+<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Agglomerationen Aarau, Lenzburg, Baden –Brugg und Olten – Zofingen (ohne Gemeinden westlich der Linie Trimbach – Rothrist); Autobahn A1 Aarburg – Wettingen/Baden; Strecke Lenzburg – Wohlen</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Aarau, Lenzburg, Baden – Brugg und Olten – Zofingen (ohne Gemeinden westlich der Linie Trimbach – Rothrist); Autobahn A1 Aarburg – Wettingen/Baden</td></tr>
+<tr><td colspan="2">17. Region Basel</td></tr>
+<tr><td>Veranstalter:</td><td>2</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Basel-Stadt und Basel-Landschaft; Bezirke Dorneck, Thierstein (SO), Rheinfelden und Laufenburg (AG)</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Basel, südlich bis Aesch, östlich bis Rheinfelden; Gemeinden Liestal, Sissach und Gelterkinden; Autobahn A 2 Basel bis und mit Belchentunnel</td></tr>
+<tr><td colspan="2">18. Region Basel-Stadt</td></tr>
+<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet</td><td>Agglomeration Basel ohne Gemeinden südlich der Linie Dornach – Liestal; ohne Gemeinden östlich der Linie Rheinfelden – Gelterkinden; Autobahn A 2 Basel bis und mit Belchentunnel</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Basel, südlich bis Aesch, südöstlich bis Liestal, östlich bis Kaiseraugst</td></tr>
+<tr><td colspan="2">19. Region Innerschweiz West</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Luzern, Ob- und Nidwalden und Zug; Agglomeration Schwyz; Bezirke Küssnacht a. R. und Gersau (SZ); Gemeinden Arth, Lauerz und Steinerberg; Autobahn A2 Beckenried – Altdorf, Strecke Brunnen – Altdorf</td></tr>
+<tr><td>Kernzone:</td><td>Kanton Zug; Agglomerationen Luzern und Schwyz; Autobahn A2 Dagmersellen – Altdorf; Strecken Brunnen – Altdorf, Hergiswil – Brünigpass, Stans – Sarnen, Stans – Engelberg</td></tr>
+<tr><td colspan="2">20. Region Luzern</td></tr>
+<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Agglomeration Luzern; Kanton Obwalden (ohne Gemeinde Lungern)</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Luzern</td></tr>
+<tr><td colspan="2">21. Region Innerschweiz Nord</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Zug, Nidwalden und Schwyz (ohne Bezirke Höfe und March); Ämter Luzern, Willisau, Sursee und Hochdorf (LU); Bezirke Affoltern (ZH) und Muri (AG); Gemeinde Engelberg; Autobahn A2 Beckenried – Altdorf; Strecken Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Sihlbrugg – Adliswil</td></tr>
+<tr><td>Kernzone:</td><td>Kanton Zug; Ämter Luzern und Hochdorf; Bezirke Affoltern, Küssnacht a. R. und Einsiedeln; Agglomeration Schwyz; Autobahn A2 Dagmersellen – Altdorf; Strecken Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Stans – Wolfenschiessen</td></tr>
+<tr><td colspan="2">22. Region Innerschweiz Süd</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Zug, Schwyz, Glarus, Uri; Nidwalden und Obwalden; Ämter Luzern, Sursee, Willisau und Hochdorf (LU); Wahlkreis See-Gaster (SG)</td></tr>
+<tr><td>Kernzone:</td><td>Kantone Zug und Schwyz; Amt Luzern; Gemeinde Glarus; Autobahn A2 von Luzern bis und mit Gotthardtunnel; Strecken Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Stans – Wolfenschiessen, Ziegelbrücke – Linthal, Schwanden – Elm</td></tr>
+<tr><td colspan="2">23. Region Zürich-Glarus</td></tr>
+<tr><td>Veranstalter:</td><td>3</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Zürich und Glarus; Bezirke Höfe und March (SZ); Wahlkreis See-Gaster; Autobahn A1 Zürich – Neuenhof; südliches Freiamt zwischen Bünzen und Auw</td></tr>
+<tr><td>Kernzone:</td><td>Bezirke Zürich, Dietikon, Horgen, Meilen, Uster und Pfäffikon; Bezirke Bülach und Dielsdorf südlich der Linie Steinmaur – Neerach – Teufen; Gemeinden Winterthur, Rapperswil-Jona und Glarus, Autobahn A3/A53 Wollerau – Tuggen – Ziegelbrücke, Strecke Ziegelbrücke – Linthal</td></tr>
+<tr><td colspan="2">24. Region Zürich</td></tr>
+<tr><td>Veranstalter:</td><td>2</td></tr>
+<tr><td>Konzession 1:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Konzession 2:</td><td>komplementäres, nicht gewinnorientiertes Programm mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Zürich, Dietikon, Dielsdorf (ohne Gemeinden nördlich der Linie Otelfingen – Steinmaur – Neerach), Bülach (ohne Gemeinden nördlich von Hochfelden und Bülach bzw. nordöstlich der Linie Bülach – Winkel – Nürensdorf), Pfäffikon (nur Gemeinden Lindau und Effretikon-Illnau), Uster, Meilen (ohne Gemeinden südöstlich von Meilen), Horgen (ohne Gemeinden südöstlich von Hirzel und Horgen) und Affoltern (ohne Gemeinden südlich der Linie Affoltern – Aeugst); Limmattal bis Neuenhof; Autobahn A1 Zürich – Neuenhof</td></tr>
+<tr><td>Kernzone:</td><td>Bezirke Zürich (sowie die umliegenden Gemeinden begrenzt durch Rümlang, Kloten, Bassersdorf, Lindau, Effretikon), Dietikon, Meilen (ohne Gemeinden südöstlich von Meilen), Horgen (ohne Gemeinden südöstlich von Hirzel und Horgen) und Affoltern (ohne Gemeinden südlich der Linie Affoltern – Aeugst); Limmattal bis Neuenhof</td></tr>
+<tr><td colspan="2">25. Region Stadt Zürich</td></tr>
+<tr><td>Veranstalter:</td><td>1 Jugendradio</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Stadt Zürich, Limmattal zwischen Schlieren und Neuenhof</td></tr>
+<tr><td>Kernzone:</td><td>Stadt Zürich</td></tr>
+<tr><td colspan="2">26. Region Winterthur</td></tr>
+<tr><td>Veranstalter</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirk Winterthur</td></tr>
+<tr><td>Kernzone:</td><td>Stadt Winterthur</td></tr>
+<tr><td colspan="2">27. Region Schaffhausen</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Schaffhausen; Bezirke Diessenhofen (TG) und Andelfingen (ZH); Gemeinden nördlich von Eglisau; Strecke Rheinklingen – Eschenz; Autobahn A4 Andelfingen – Winterthur-Wülflingen</td></tr>
+<tr><td>Kernzone:</td><td>Agglomeration Schaffhausen; Bezirk Diessenhofen; Strecke Rheinklingen – Eschenz; Autobahn A4 Schaffhausen – Winterthur-Wülflingen</td></tr>
+<tr><td colspan="2">28. Region Stadt Schaffhausen</td></tr>
+<tr><td>Veranstalter</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Agglomeration Schaffhausen</td></tr>
+<tr><td>Kernzone:</td><td>Stadt Schaffhausen</td></tr>
+<tr><td colspan="2">29. Region Ostschweiz West</td></tr>
+<tr><td>Veranstalter</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für die bedienten Regionen in den Kantonen Zürich/Schaffhausen, Thurgau sowie St. Gallen Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen.</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Thurgau; Bezirke Winterthur, Bülach (ohne Gemeinden nördlich der Linie Eglisau – Glattfelden), Andelfingen, Pfäffikon, Uster und Hinwil (ZH); Wahlkreise Toggenburg, St. Gallen, Wil, Rorschach, See-Gaster (SG); Agglomeration Schaffhausen; Stadt Zürich</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Winterthur, Frauenfeld und Kreuzlingen; Bezirke Pfäffikon, Bülach (ohne Gemeinden nördlich der Linie Eglisau – Glattfelden), Uster (ZH), Münchwilen (TG); Wahlkreis Wil (SG); Gemeinden Weinfelden, Amriswil, Bischofszell, Arbon und Romanshorn; Strecken Winterthur – Andelfingen, Frauenfeld – Kreuzlingen, Frauenfeld – Amriswil, Weinfelden – Kreuzlingen – Amriswil</td></tr>
+<tr><td colspan="2">30. Region Ostschweiz Ost</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
+<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für das Rheintal Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieses Teilgebietes beziehen.</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton St. Gallen; Halbkantone Appenzell; Bezirke Arbon, Bischofszell (TG) und Landquart (GR); Kreise Seewis und Schiers (GR); Strecke Walenstadt – Weesen – Amden</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen St. Gallen und Arbon-Rorschach; Wahlkreise Sarganserland, Werdenberg und Rheintal; Strecke St. Gallen – Appenzell; Gemeinden am linken Ufer des Walensees</td></tr>
+<tr><td colspan="2">31. Region Stadt St. Gallen</td></tr>
+<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, einen besonderen Beitrag zur Ausbildung von Medienschaffenden nach Art. 33 Abs. 2 RTVV zu leisten.</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Stadt St. Gallen</td></tr>
+<tr><td>Kernzone:</td><td>Stadt St. Gallen</td></tr>
+<tr><td colspan="2">32. Region Südostschweiz</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Auflagen:</td><td>a. der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für die Bezirke Maloja, Bernina und Inn Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen; b. der Veranstalter wird konzessionsrechtlich verpflichtet, einen bestimmten Mindestanteil von Sendungen in rätoromanischer und italienischer Sprache zu verbreiten sowie die Zusammenarbeit mit den sprachlich- kulturellen Organisationen Lia Rumantscha und Pro Grigioni Italiano zu pflegen.</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Graubünden und Glarus (ohne Gemeinde Bilten); Autobahn A 13 Landquart – Sargans, Autobahn A3 Sargans – Walenstadt – Walensee</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Chur und St. Moritz; Surselva von Disentis bis Tamins; Hinterrheintal von Thusis bis Tamins; Gemeinden Langwies, Arosa, Klosters, Davos, Lenzerheide, Zernez, Scuol, Tarasp, Samnaun, Poschiavo und Glarus; Strecken Ardez – Ramosch und Tschierv – Müstair</td></tr>
+<tr><td colspan="2">33. Region Sopraceneri</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Sopraceneri, Bezirke Lugano und Moesa (GR); Autobahn A2 Lugano – Chiasso</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Locarno und Bellinzona; Gemeinden rund um den Lago Maggiore bis Landesgrenze; Autobahn A2 Airolo – Monte Ceneri</td></tr>
+<tr><td colspan="2">34. Region Sottoceneri</td></tr>
+<tr><td>Veranstalter:</td><td>1</td></tr>
+<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Sottoceneri; Agglomerationen Locarno und Bellinzona; Autobahn A2 Airolo – Bellinzona</td></tr>
+<tr><td>Kernzone:</td><td>Agglomerationen Lugano und Chiasso-Mendrisio; Autobahn A2 Monte Ceneri – Chiasso</td></tr>
+</table>
+
+Anhang 2*[^t-2]*
+
+(Art. 38 Bst. b)
+
+## Regionale Fernsehveranstalter mit Abgabenanteil; Versorgungsgebiete
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Juli 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Bereinigt gemäss Ziff. II der V vom 15. Juni 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)), der V vom 5. Nov. 2014 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)) und Ziff. I (Ersatz von Ausdrücken) der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+
+### 1 Allgemeine Verbreitungsgrundsätze
+
+Die Verbreitung der Programme von Fernsehveranstaltern mit Abgabenanteil erfolgt über Leitungen nach Artikel 59 Absatz 1 Buchstabe b RTVG. In den in Ziffer 2 ausdrücklich vermerkten Fällen erfolgt die Verbreitung ausserdem nach Artikel 53 Buchstabe b RTVG drahtlos-terrestrisch im digitalen DVB-T-Standard (Digital Video Broadcasting – Terrestrial).
+
+### 2 Versorgungsgebiete
+
+Konzessionen werden an Fernsehveranstalter mit Abgabenanteil in folgenden Versorgungsgebieten erteilt:
+
+<table>
+<tr><td colspan="2">1. Region Genf</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Genf, Bezirk Nyon (VD)</td></tr>
+<tr><td>Verbreitung:</td><td>über Leitungen und digital drahtlos-terrestrisch</td></tr>
+<tr><td colspan="2">2. Region Waadt – Freiburg</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Waadt und Freiburg; Bezirk Monthey (VS); Gemeinde Céligny (GE)</td></tr>
+<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, für den Kanton Freiburg Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieses Teilgebietes beziehen.</td></tr>
+<tr><td colspan="2">3. Region Wallis</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Wallis, Bezirk Aigle (VD)</td></tr>
+<tr><td>Verbreitung:</td><td>über Leitungen und digital drahtlos-terrestrisch</td></tr>
+<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, je für den deutsch- und den französischsprachigen Teil des Versorgungsgebietes Informationsleistungen zu er- bringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten des Teilgebietes beziehen. Die Programme sind im entsprechenden Teilgebiet zu produzieren.</td></tr>
+<tr><td colspan="2">4. Region Arc Jurassien</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Jura und Neuenburg; Bezirke La Neuveville, Courtelary, Moutier (BE), Grandson und Yverdon (VD)</td></tr>
+<tr><td colspan="2">5. Region Bern</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Bern (ohne Bezirke La Neuveville, Courtelary und Moutier); Bezirke Solothurn, Lebern, Wasseramt; Bucheggberg (SO), See, Sense, Greyerz, Saane und La Broye (FR), Avenches und Payerne (VD); Amt Entlebuch (LU)</td></tr>
+<tr><td colspan="2">6. Region Biel/Bienne</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Bezirke Biel/Bienne, Nidau, Erlach, Aarberg, Büren, La Neuveville, Courtelary, Moutier (BE), See (FR); Agglomeration Grenchen</td></tr>
+<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, je für den deutsch- und den französischsprachigen Teil des Versorgungsgebietes Informationsleistungen zu erbringen, welche sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten des Teilgebietes beziehen.</td></tr>
+<tr><td colspan="2">7. Region Basel</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Basel-Stadt und Basel-Landschaft; Bezirke Rheinfelden und Laufenburg (AG), Thierstein und Dorneck (SO)</td></tr>
+<tr><td colspan="2">8. Region Aargau – Solothurn</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Aargau und Solothurn; Bezirke Wangen, Aarwangen (BE), Willisau, Sursee (LU), Dielsdorf und Dietikon (ZH)</td></tr>
+<tr><td colspan="2">9. Region Innerschweiz</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Luzern, Zug, Ob- und Nidwalden, Schwyz und Uri; Bezirke Zofingen, Kulm, Muri (AG) und Affoltern (ZH)</td></tr>
+<tr><td colspan="2">10. Region Zürich-Nordostschweiz</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Zürich, Schaffhausen und Thurgau; Wahlkreis Wil (SG)</td></tr>
+<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, für die Kantone Schaffhausen und Thurgau Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen.</td></tr>
+<tr><td colspan="2">11. Region Ostschweiz</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone St. Gallen, Appenzell Ausserrhoden und Appenzell Innerrhoden; Bezirke Arbon und Bischofszell (TG)</td></tr>
+<tr><td colspan="2">12. Region Südostschweiz</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kantone Graubünden und Glarus; Wahlkreise Sarganserland und Werdenberg (SG)</td></tr>
+<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, für den Kanton Glarus Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieses Teilgebietes beziehen.</td></tr>
+<tr><td>Verbreitung:</td><td>über Leitungen und drahtlos-terrestrisch</td></tr>
+<tr><td colspan="2">13. Region Tessin</td></tr>
+<tr><td>Versorgungsgebiet:</td><td>Kanton Tessin; Bezirk Moesa (GR)</td></tr>
+<tr><td>Verbreitung:</td><td>über Leitungen und drahtlos-terrestrisch</td></tr>
+</table>
+
+Anhang 3*[^t-3]*
+
+(Art. 52 Abs. 2)
+
+## Liste der über Leitungen zu verbreitenden ausländischen Programme
+
+[^t-3]: Fassung gemäss Ziff. II der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
+
+In der gesamten Schweiz:
+
+- – ARTE (digital: ganzes Programm; analog ab 19 Uhr)
+- – 3Sat
+- – TV5
+- – ARD
+- – ORF 1
+- – France 2
+- – Rai Uno
+
+In der Sprache der jeweiligen Sprachregion:
+
+- – Euronews

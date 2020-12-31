@@ -1,0 +1,356 @@
+---
+sr: "642.118.2"
+title: "Ordinanza del DFF dell' 11 aprile 2018 sull'imposta alla fonte nel quadro dell'imposta federale diretta (Ordinanza sull'imposta alla fonte, OIFo)"
+short: OIFo
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
+language: it
+version: 2021-01-01
+adopted: 2018-04-11
+in_force: 2021-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFF sull’imposta alla fonte nel quadro dell’imposta federale diretta
+
+(Ordinanza sull’imposta alla fonte, OIFo)
+
+dell’11 aprile 2018 (Stato 1° gennaio 2021)
+
+Il Dipartimento federale delle finanze (DFF),
+
+visti gli articoli 89 capoverso 2, 92 capoverso 5, 99*a* capoverso 3, 99*b* capoverso 2 e 161 capoverso 1 della legge federale del 14 dicembre 1990[^ingress-1] sull’imposta federale diretta (LIFD); visto l’articolo 1 lettera b dell’ordinanza del 18 dicembre 1991[^ingress-2] su deleghe di competenza al Dipartimento delle finanze per quanto concerne l’imposta federale diretta,
+
+ordina:
+
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Tariffe dell’imposta alla fonte applicabili**
+
+<sup>1</sup>
+
+Per la ritenuta d’imposta alla fonte, alle persone indicate di seguito sono attribuiti i seguenti tariffari:
+
+- a. *tariffario A:* persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che non vivono in comunione domestica con figli o persone bisognose di sostentamento;
+- b. *tariffario B:* coniugi non separati legalmente o di fatto, nel caso in cui uno solo dei coniugi eserciti un’attività lucrativa;
+- c. *tariffario C:* coniugi non separati legalmente o di fatto che esercitano entrambi un’attività lucrativa;
+- d. *tariffario D:* persone che ricevono prestazioni ai sensi dell’articolo 18 capoverso 3 della legge federale del 20 dicembre 1946[^1-1] sull’assicurazione per la vecchiaia e per i superstiti;
+- e. *tariffario E:* persone con imposizione secondo la procedura di conteggio semplificata di cui agli articoli 21–24;
+- f. *tariffario F:* lavoratori frontalieri secondo l’Accordo del 3 ottobre 1974[^1-2] tra la Svizzera e l’Italia relativo all’imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine che risiedono in un Comune italiano di confine e il cui coniuge esercita un’attività lucrativa al di fuori della Svizzera;
+- g. *tariffario G:* persone assoggettate all’imposta alla fonte che percepiscono proventi compensativi di cui all’articolo 3 che non sono versati tramite il datore di lavoro;
+- h. *tariffario H:* persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale;
+- i. *tariffario L:* frontalieri secondo la Convenzione dell’11 agosto 1971[^1-3] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI‑D) che adempiono le condizioni richieste per il tariffario A;
+- j. *tariffario M:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario B;
+- k. *tariffario N:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario C;
+- l. *tariffario P:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario H;
+- m. *tariffario Q:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario G.
+
+<sup>2</sup> L’aliquota per i proventi assoggettati all’imposta alla fonte secondo il capoverso 1 lettere d e g è stabilita nei numeri 1 e 2 dell’allegato.
+
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-2]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410)
+[^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+
+#### Art. 2
+
+**Scadenza e calcolo dell’imposta alla fonte**
+
+<sup>1</sup> L’imposta alla fonte scade al momento del pagamento, del versamento, dell’accreditamento o della compensazione della prestazione imponibile. Il debitore della prestazione imponibile deve trattenere l’imposta alla fonte senza tener conto di eventuali contestazioni (art. 137 LIFD) o pignoramenti del salario.
+
+<sup>2</sup> L’Amministrazione federale delle contribuzioni (AFC) definisce, in collaborazione con i Cantoni, metodi e procedure di calcolo dell’imposta alla fonte applicabili in tutta la Svizzera.
+
+<sup>3</sup> Per il calcolo dell’imposta alla fonte si applica per analogia l’articolo 40 capoverso 3 LIFD.
+
+#### Art. 3
+
+**Proventi compensativi**
+
+Sono assoggettati all’imposta alla fonte tutti i proventi sostitutivi del reddito da attività lucrativa derivanti da un rapporto di lavoro nonché dall’assicurazione malattie, dall’assicurazione contro gli infortuni, dall’assicurazione per l’invalidità e dall’assicurazione contro la disoccupazione. Ne fanno parte in particolare le indennità giornaliere, le indennità, le rendite parziali e le prestazioni in capitale versate in loro vece.
+
+#### Art. 4
+
+**Tassazione ordinaria in caso di rimunerazioni dall’estero**
+
+<sup>1</sup> Se riceve rimunerazioni da un debitore della prestazione imponibile non residente in Svizzera, il contribuente è tassato secondo la procedura ordinaria.
+
+<sup>2</sup>
+
+Tuttavia il contribuente è assoggettato all’imposta alla fonte in Svizzera se:
+
+- a. la rimunerazione della prestazione è a carico di uno stabilimento d’impresa o di una sede fissa del datore di lavoro in Svizzera;
+- b. viene effettuato un distacco di lavoratori tra società collegate e la società con sede in Svizzera è considerata il datore di lavoro effettivo; o
+- c. un prestatore estero di personale fornisce, in violazione dell’articolo 12 capoverso 2 della legge del 6 ottobre 1989[^4-1] sul collocamento, personale a prestito a un’impresa acquisitrice in Svizzera e la rimunerazione della prestazione è a carico di tale impresa acquisitrice.
+
+[^4-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+
+#### Art. 5
+
+**Obblighi di comunicazione**
+
+<sup>1</sup> I datori di lavoro hanno l’obbligo di comunicare all’autorità fiscale competente l’impiego di persone assoggettate all’imposta alla fonte secondo gli articoli 83 o 91 LIFD entro otto giorni dall’inizio della loro attività, utilizzando il modulo apposito.
+
+<sup>2</sup> Se trasmette elettronicamente il conteggio dell’imposta alla fonte, il datore di lavoro può comunicare le nuove assunzioni insieme al conteggio mensile.
+
+<sup>3</sup> I lavoratori devono comunicare al datore di lavoro ogni modifica di un fatto determinante per la riscossione dell’imposta alla fonte. Il datore di lavoro comunica le modifiche all’autorità fiscale competente entro le scadenze di cui ai capoversi 1 e 2.
+
+#### Art. 6
+
+**Provvigione di riscossione**
+
+<sup>1</sup> I Cantoni stabiliscono l’aliquota e le modalità della provvigione di riscossione. Possono graduare la provvigione a seconda della natura e dell’ammontare dei proventi imponibili e a seconda della procedura di conteggio scelta dal debitore della prestazione imponibile.
+
+<sup>2</sup> L’autorità fiscale competente può ridurre o revocare la provvigione di riscossione se il debitore della prestazione imponibile viola gli obblighi procedurali.
+
+#### Art. 7
+
+**Restituzione**
+
+Se il debitore della prestazione imponibile ha effettuato una ritenuta d’imposta alla fonte troppo elevata e ha già consegnato i conteggi alla competente autorità fiscale, questa può restituire la somma eccedente direttamente al contribuente.
+
+#### Art. 8
+
+**Quota dell’imposta federale diretta nel caso dei frontalieri dalla Germania**
+
+Per quanto riguarda le persone assoggettate all’imposta alla fonte sulla base del tariffario L, M, N, P o Q, la quota dell’imposta federale diretta ammonta al 10 per cento dell’importo complessivo dell’imposta alla fonte.
+
+## Sezione 2: Persone fisiche con domicilio o dimora fiscale in Svizzera
+
+#### Art. 9
+
+**Tassazione ordinaria ulteriore obbligatoria**
+
+<sup>1</sup> Una persona è tassata secondo la procedura ordinaria ulteriore ai sensi dell’articolo 89 capoverso 1 lettera a LIFD se il suo reddito lordo da attività lucrativa dipendente ammonta almeno a 120 000 franchi nel corso di un anno fiscale.
+
+<sup>2</sup> Sono considerati reddito lordo da attività lucrativa dipendente i proventi di cui all’articolo 84 capoverso 2 lettere a e b LIFD.
+
+<sup>3</sup> I coniugi con doppio reddito sono tassati secondo la procedura ordinaria ulteriore se il reddito lordo di uno di essi ammonta almeno a 120 000 franchi nel corso di un anno fiscale.
+
+<sup>4</sup> La tassazione ordinaria ulteriore è mantenuta sino alla fine dell’assoggettamento all’imposta alla fonte, anche se il reddito lordo è temporaneamente o durevolmente inferiore all’importo minimo di 120 000 franchi, se i coniugi divorziano oppure si separano legalmente o di fatto.
+
+<sup>5</sup> In caso di assoggettamento inferiore a un anno, l’importo minimo è calcolato secondo l’articolo 40 capoverso 3 LIFD.
+
+#### Art. 10
+
+**Tassazione ordinaria ulteriore su richiesta**
+
+<sup>1</sup> La persona assoggettata all’imposta alla fonte può presentare all’autorità fiscale competente entro il 31 marzo dell’anno successivo a quello fiscale una richiesta scritta di tassazione ordinaria ulteriore. Una volta presentata, la richiesta non può più essere ritirata.
+
+<sup>2</sup> Ai coniugi divorziati o separati legalmente o di fatto che su richiesta sono stati tassati secondo la procedura ordinaria ulteriore di cui all’articolo 89*a* LIFD si applica la tassazione ordinaria ulteriore fino al termine dell’assoggettamento all’imposta alla fonte.
+
+#### Art. 11
+
+**Disciplinamento dei casi di rigore**
+
+<sup>1</sup> Su richiesta delle persone assoggettate all’imposta alla fonte che versano alimenti di cui all’articolo 33 capoverso 1 lettera c LIFD e a cui si applica il tariffario A, B, C o H, al fine di attenuare i casi di rigore nel calcolo dell’imposta alla fonte l’autorità fiscale può riconoscere deduzioni per i figli al massimo fino all’ammontare degli alimenti.
+
+<sup>2</sup> Se nell’applicare uno di questi tariffari sono stati presi in considerazione gli alimenti, la tassazione ordinaria ulteriore è effettuata soltanto se la persona assoggettata all’imposta alla fonte ne fa richiesta. In caso di richiesta di tassazione ordinaria ulteriore, questa è effettuata fino al termine dell’assoggettamento all’imposta alla fonte.
+
+#### Art. 12
+
+**Passaggio dall’imposizione alla fonte alla tassazione ordinaria**
+
+<sup>1</sup>
+
+Una persona precedentemente assoggettata all’imposta alla fonte è tassata secondo la procedura ordinaria per l’intero periodo fiscale se:
+
+- a. ottiene il permesso di domicilio;
+- b. sposa una persona di cittadinanza svizzera o titolare di un permesso di domicilio.
+
+<sup>2</sup> L’imposta alla fonte non è più dovuta a decorrere dal mese successivo al rilascio del permesso di domicilio o al matrimonio. L’imposta trattenuta alla fonte è computata senza interessi.
+
+#### Art. 13
+
+**Passaggio dalla tassazione ordinaria all’imposizione alla fonte**
+
+<sup>1</sup> Se nel corso di un periodo fiscale un reddito è dapprima tassato secondo la procedura ordinaria e successivamente assoggettato all’imposta alla fonte, il contribuente è tassato secondo la procedura ordinaria ulteriore per tutto l’anno e fino al termine dell’assoggettamento all’imposta alla fonte.
+
+<sup>2</sup> Il lavoratore straniero sprovvisto di permesso di domicilio è assoggettato nuovamente all’imposta alla fonte a contare dall’inizio del mese successivo al divorzio o alla separazione legale o di fatto da un coniuge di cittadinanza svizzera o titolare di un permesso di domicilio.
+
+<sup>3</sup> Eventuali pagamenti anticipati effettuati prima del passaggio all’imposizione alla fonte e le imposte trattenute alla fonte sono computati.
+
+## Sezione 3: Persone fisiche senza domicilio o dimora fiscale in Svizzera e persone giuridiche senza sede o amministrazione effettiva in Svizzera
+
+#### Art. 14
+
+**Tassazione ordinaria ulteriore in caso di quasi residenza**
+
+<sup>1</sup> Le persone assoggettate all’imposta secondo l’articolo 5 capoverso 1 LIFD i cui proventi lordi mondiali, compresi i proventi lordi del coniuge, sono di regola imponibili in Svizzera almeno nella misura del 90 per cento (quasi residenza) possono presentare all’autorità fiscale competente entro il 31 marzo dell’anno successivo all’anno fiscale una richiesta scritta di tassazione ordinaria ulteriore. Una volta presentata, la richiesta non può più essere ritirata.
+
+<sup>2</sup> Nell’ambito della procedura di tassazione l’autorità fiscale verifica se la persona assoggettata all’imposta alla fonte nell’anno fiscale soddisfa le condizioni della quasi residenza. A tal fine, determina secondo gli articoli 16–18 e 20–23 LIFD dapprima i proventi lordi mondiali e in seguito la quota dei proventi lordi imponibili in Svizzera.
+
+#### Art. 15
+
+**Tassazione ordinaria ulteriore d’ufficio**
+
+<sup>1</sup> Le competenti autorità fiscali cantonali possono procedere d’ufficio a una tassazione ordinaria ulteriore se dagli atti emerge il fondato sospetto che si è in presenza di una situazione estrema a favore o a sfavore del contribuente.
+
+<sup>2</sup> Per l’avvio di una procedura di tassazione ordinaria ulteriore d’ufficio si applica l’articolo 120 LIFD sulla prescrizione del diritto di tassare.
+
+#### Art. 16
+
+**Artisti, sportivi e conferenzieri**
+
+<sup>1</sup>
+
+Sono considerati introiti giornalieri di artisti, sportivi e conferenzieri domiciliati all’estero i proventi lordi di cui all’articolo 92 capoverso 3 LIFD, divisi per il numero dei giorni di rappresentazione e di prova. Fanno parte degli introiti giornalieri segnatamente:
+
+- a. i proventi lordi, comprensivi delle indennità e dei proventi accessori, nonché le prestazioni in natura; e
+- b. tutte le spese, i costi e le imposte alla fonte pagati dall’organizzatore.
+
+<sup>2</sup> Per i gruppi dove la quota di ogni membro non è nota o è difficile da stabilire, ai fini della determinazione di tale quota è calcolato il reddito medio pro capite giornaliero.
+
+<sup>3</sup> Fanno parte degli introiti giornalieri anche le rimunerazioni che non sono versate direttamente alla persona assoggettata all’imposta alla fonte, bensì a una terza persona.
+
+#### Art. 17
+
+**Creditori ipotecari**
+
+Sono considerati proventi imponibili di creditori ipotecari residenti all’estero i proventi lordi derivanti da crediti secondo l’articolo 94 LIFD. Ne fanno parte anche gli interessi che non sono versati direttamente alla persona assoggettata all’imposta alla fonte, bensì a una terza persona.
+
+#### Art. 18
+
+**Beneficiari di rendite previdenziali domiciliati all’estero**
+
+<sup>1</sup> Fatte salve disposizioni contrarie di accordi internazionali, le rendite dei beneficiari domiciliati all’estero di cui agli articoli 95 e 96 LIFD soggiacciono all’imposta alla fonte.
+
+<sup>2</sup> Se l’imposta alla fonte non viene riscossa perché l’imposizione spetta all’altro Stato contraente, il debitore della prestazione imponibile deve farsi confermare per scritto che il domicilio del beneficiario è all’estero e verificare periodicamente questa situazione.
+
+#### Art. 19
+
+**Beneficiari di prestazioni previdenziali in capitale domiciliati all’estero**
+
+<sup>1</sup> Nonostante le disposizioni di accordi internazionali, le prestazioni in capitale versate a beneficiari domiciliati all’estero di cui agli articoli 95 e 96 LIFD soggiacciono sempre all’imposta alla fonte. Il tariffario è stabilito nel numero 3 dell’allegato.
+
+<sup>2</sup>
+
+L’imposta alla fonte trattenuta è rimborsata senza interessi, se il beneficiario della prestazione in capitale:
+
+- a. presenta alla competente autorità fiscale cantonale la relativa domanda entro tre anni dal versamento della prestazione; e
+- b.
+
+  allega alla domanda una lettera di conferma dell’autorità fiscale competente dell’altro Stato contraente avente diritto secondo cui:
+
+  - 1\. essa è a conoscenza della prestazione in capitale, e
+  - 2\. il beneficiario della prestazione in capitale è una persona residente in tale altro Stato ai sensi della convenzione con la Svizzera per evitare la doppia imposizione.
+
+#### Art. 20
+
+**Importi minimi di riscossione**
+
+Per le persone di cui agli articoli 16–19 l’imposta alla fonte non è riscossa se i proventi lordi imponibili sono inferiori agli importi stabiliti nel numero 4 dell’allegato.
+
+## Sezione 4: Procedura di conteggio semplificata
+
+#### Art. 21
+
+**Diritto applicabile**
+
+Se l’articolo 37*a* LIFD e le disposizioni della presente sezione non prevedono altrimenti, le disposizioni della LIFD sull’imposta alla fonte e le altre disposizioni della presente ordinanza si applicano per analogia alla procedura di conteggio semplificata.
+
+#### Art. 22
+
+**Base per l’imposizione**
+
+L’imposta è riscossa sulla base del salario lordo dichiarato dal datore di lavoro alla cassa di compensazione AVS.
+
+#### Art. 23
+
+**Versamento dell’imposta alla fonte da parte del datore di lavoro**
+
+<sup>1</sup> Le disposizioni dell’ordinanza del 31 ottobre 1947[^23-1] sull’assicurazione per la vecchiaia e per i superstiti relative alla procedura di conteggio semplificata si applicano per analogia al conteggio e al versamento dell’imposta alla fonte alla competente cassa di compensazione AVS.
+
+<sup>2</sup> Se l’imposta non è versata nonostante diffida della cassa di compensazione AVS, quest’ultima ne informa l’autorità fiscale del Cantone in cui ha sede o domicilio il datore di lavoro. L’autorità fiscale riscuote l’imposta conformemente alle prescrizioni della legislazione fiscale.
+
+[^23-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 24
+
+**Versamento dell’imposta alla fonte alle autorità fiscali**
+
+Dopo aver dedotto la provvigione cui ha diritto, la cassa di compensazione AVS versa le imposte incassate all’autorità fiscale del Cantone in cui la persona assoggettata all’imposta alla fonte ha il proprio domicilio.
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 25
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del 19 ottobre 1993[^25-1] sull’imposta alla fonte è abrogata.
+
+[^25-1]: [[RU 1993 3324](https://fedlex.data.admin.ch/eli/oc/1993/3324_3324_3324), [1994 394](https://fedlex.data.admin.ch/eli/oc/1994/394_394_394)[1788](https://fedlex.data.admin.ch/eli/oc/1994/1788_1788_1788), [2001 1055](https://fedlex.data.admin.ch/eli/oc/2001/156), [2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)all. n. 1, [2010 4481](https://fedlex.data.admin.ch/eli/oc/2010/633), [2011 4329](https://fedlex.data.admin.ch/eli/oc/2011/590), [2013 783](https://fedlex.data.admin.ch/eli/oc/2013/156)]
+
+#### Art. 26
+
+**Modifica di un altro atto normativo**
+
+...[^26-1]
+
+[^26-1]: La mod. può essere consultata alla [RU 2018 1829](https://fedlex.data.admin.ch/eli/oc/2018/274).
+
+#### Art. 27
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2021.
+
+Allegato
+
+(art. 1 cpv. 2, 19 cpv. 1 e 20)
+
+## Tariffe dell’imposta alla fonte
+
+- 1\. L’imposta alla fonte delle persone che rientrano nel tariffario D ammonta all’1 per cento dei proventi lordi.
+- 2\. L’imposta alla fonte sui proventi compensativi cui si applica il tariffario G è fissata come segue:
+
+<table>
+<tr><th></th><th>franchi</th></tr>
+<tr><th>fino a 18 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>0.00 0.80;</th></tr>
+<tr><th>per 36 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>144.00 2.50 in più;</th></tr>
+<tr><th>per 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>744.00 4.50 in più;</th></tr>
+<tr><th>per 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>2 094.00 8.00 in più;</th></tr>
+<tr><th>per 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>4 494.00 11.00 in più;</th></tr>
+<tr><th>per 180 000 franchi di proventi lordi annui e per ogni 100 in più</th><th>11 094.00 13.00 in più;</th></tr>
+<tr><th>per 819 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>94 164.00 11.50 in più.</th></tr>
+</table>
+
+- 3. a. Per le persone sole l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
+
+<table>
+<tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
+<tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,35 %</td></tr>
+<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,65 %</td></tr>
+<tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>1,30 %</td></tr>
+<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,70 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>2,00 %</td></tr>
+<tr><td>– per un importo superiore a 150 000 e fino a</td><td>750 000 franchi</td><td>2,60 %</td></tr>
+<tr><td>– per un importo superiore a</td><td>750 000 franchi</td><td>2,30 %</td></tr>
+</table>
+
+- b. Per le persone coniugate l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
+
+<table>
+<tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
+<tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,20 %</td></tr>
+<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,50 %</td></tr>
+<tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>0,90 %</td></tr>
+<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,25 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>2,00 %</td></tr>
+<tr><td>– per un importo superiore a 150 000 e fino a</td><td>900 000 franchi</td><td>2,60 %</td></tr>
+<tr><td>– per un importo superiore a</td><td>900 000 franchi</td><td>2,30 %</td></tr>
+</table>
+
+- 4\. Conformemente all’articolo 20 l’imposta alla fonte non è riscossa se i proventi lordi imponibili sono inferiori a:
+
+<table>
+<tr><td>– per artisti, sportivi e conferenzieri (art. 92 LIFD)</td><td>300 franchi per quanto riguarda le prestazioni versate da un debitore della prestazione imponibile per una manifestazione;</td></tr>
+<tr><td>– per amministratori (art. 93 LIFD)</td><td>300 franchi per quanto riguarda le prestazioni complessive versate da un debitore della prestazione imponibile nel corso di un anno fiscale;</td></tr>
+<tr><td>– per creditori ipotecari (art. 94 LIFD)</td><td>300 franchi per anno fiscale;</td></tr>
+<tr><td>– per beneficiari di rendite (art. 95 e 96 LIFD)</td><td>1000 franchi per anno fiscale.</td></tr>
+</table>

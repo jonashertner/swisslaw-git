@@ -1,0 +1,471 @@
+---
+sr: "172.212.1"
+title: Organisationsverordnung vom 28. Juni 2000 für das Eidgenössische Departement des Innern (OV-EDI)
+short: OV-EDI
+eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
+language: de
+version: 2020-07-01
+adopted: 2000-06-28
+in_force: 2000-08-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20200701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Organisationsverordnung für das Eidgenössische Departement des Innern
+
+(OV-EDI)
+
+vom 28. Juni 2000 (Stand am 1. Juli 2020)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 43 Absatz 2 und 47 Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG) sowie in Ausführung von Artikel 28 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^ingress-2] (RVOV),
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+## 1. Kapitel: Das Departement
+
+#### Art. 1
+
+**Ziele**
+
+<sup>1</sup> Das Eidgenössische Departement des Innern (Departement) fördert die sozialen, gesundheitlichenund kulturellen Rahmenbedingungen für das Wohlbefinden der Einwohnerinnen und Einwohner der Schweiz. Es leistet damit seinen Beitrag für eine gerechte, tolerante und weltoffene Schweiz und deren nachhaltige Prosperität.
+
+<sup>2</sup>
+
+Es verfolgt dabei folgende Ziele:
+
+- a. das körperliche, geistige und soziale Wohlbefinden der Einwohnerinnen und Einwohner der Schweiz fördern und dafür sorgen, dass sie vor Gefahren für ihre Gesundheit und vor sozialen Risiken geschützt sind;
+- b.[^1-1] ...
+- c. Daten und Informationen zum besseren Verständnis der Gesellschaft bereitstellen;
+- d. das kulturelle Erbe und die dokumentarischen Werte der Schweiz erhalten und vermitteln;
+- e. die kulturelle Vielfalt, das künstlerische Schaffen und die Verständigung zwischen den Sprach- und Kulturgemeinschaften fördern;
+- f. Diskriminierungen bekämpfen und die Chancengleichheit fördern;
+- g. das Wohl der Kinder, der Jugendlichen und der Familien fördern;
+- h.[^1-2] die Gesundheit und das Wohlergehen der Tiere gewährleisten.
+
+[^1-1]: Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-2]: Eingefügt durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 2
+
+**Grundsätze der Departementstätigkeit**
+
+Das Departement beachtet bei der Verfolgung seiner Ziele und Aufgaben neben den allgemeinen Grundsätzen der Verwaltungstätigkeit (Art. 11 RVOV) insbesondere folgende Grundsätze:
+
+- a. Es arbeitet eng mit den Kantonen, Gemeinden sowie mit nichtstaatlichen Organisationen, Sozialpartnern und Wirtschaftsverbänden zusammen.
+- b. Es beachtet den Grundsatz der Subsidiarität.
+- c. Es strebt verständliche, gerechte und zukunftsorientierte Lösungen an und achtet auf rasche Verfahren.
+- d. Es sucht die internationale Zusammenarbeit, insbesondere auch auf europäischer Ebene.
+- e. Es verfolgt bei seiner Tätigkeit eine klare und offene Informationspolitik.
+
+## 2. Kapitel: Ämter und andere Verwaltungseinheiten der zentralen Bundesverwaltung
+
+### 1. Abschnitt: Das Generalsekretariat
+
+#### Art. 3
+
+**Funktionen[^3-1]**
+
+<sup>1</sup>
+
+Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt auf Departementsstufe folgende Kernfunktionen wahr:
+
+- a. Es unterstützt die Departementsvorsteherin oder den Departementsvorsteher als Mitglied des Bundesrates und Chefin oder Chef des Departements.
+- b. Es erarbeitet die Strategie und die Planung und stellt das Controlling sowie die Koordination sicher.
+- c. Es besorgt die Informationsbeschaffung, die Informationsplanung und die Kommunikation.
+- d. Es koordiniert die Ressourcenbedürfnisse, stellt Logistikdienste bereit und erbringt Informatikdienstleistungen.
+- e. Es besorgt die Rechtsanwendung, Rechtsprechung und Rechtsberatung und begleitet die Rechtsetzungsarbeiten.
+
+<sup>2</sup>
+
+Darüber hinaus erfüllt das Generalsekretariat folgende besonderen Aufgaben:
+
+- a. Es übt die Aufsicht aus über die dem Bund unterstehenden gemeinnützigen Stiftungen.
+- b. Es instruiert Beschwerden gegen Verfügungen von Ämtern des Departements.
+- c.[^3-2] Es führt die Fachstelle für Rassismusbekämpfung und das Sekretariat der Eidgenössischen Kommission gegen Rassismus.
+
+[^3-1]: Eingefügt durch Anhang 2 Ziff. 2 der Behindertengleichstellungsverordnung vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
+[^3-2]: Fassung gemäss Art. 13 Abs. 2 der V vom 14. Okt. 2009 über Menschenrechts- und Antirassismusprojekte, in Kraft seit 1. Jan. 2010 ([AS 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
+
+#### Art. 3a
+
+**Eidgenössisches Büro für die Gleichstellung von Menschen mit Behinderungen**[^3a-1]
+
+Das Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen erfüllt die Aufgaben nach dem Behindertengleichstellungsgesetz vom 13. Dezember 2002[^3a-2] und der Behindertengleichstellungsverordnung vom 19. November 2003[^3a-3].
+
+[^3a-1]: Eingefügt durch Anhang 2 Ziff. 2 der Behindertengleichstellungsverordnung vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
+[^3a-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^3a-3]: [SR 151.31](https://fedlex.data.admin.ch/eli/cc/2003/668)
+
+### 2. Abschnitt: Gemeinsame Bestimmungen für die Ämter
+
+#### Art. 4
+
+<sup>1</sup> Die Ziele nach den Artikeln 5–13 dienen den Verwaltungseinheiten des Departements als Richtschnur bei der Erfüllung ihrer Aufgaben und bei der Wahrnehmung ihrer Zuständigkeiten, wie sie in der Bundesgesetzgebung festgelegt sind.
+
+<sup>2</sup> Die Vorbereitung von Bundeserlassen und völkerrechtlichen Verträgen im eigenen Aufgabenbereich ist grundsätzlich Sache der einzelnen Ämter; im internationalen Bereich geschieht dies in Absprache mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) und mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF)[^4-1] (Aussenwirtschaft).
+
+<sup>3</sup> Die Ämter erfüllen in ihren Aufgabenbereichen die Vollzugsaufgaben, die ihnen von Bundeserlassen und von völkerrechtlichen Verträgen zugewiesen werden.
+
+<sup>4</sup> Im Bereich ihrer Aufgaben und im Rahmen der aussenpolitischen Ziele der Schweiz vertreten die Ämter, in Absprache mit dem EDA, dem WBF (Aussenwirtschaft) und gegebenenfalls mit anderen Departementen und Bundesämtern, die Schweiz in internationalen Organisationen und wirken in nationalen und internationalen Fachgremien sowie bei der Erarbeitung und dem Vollzug von völkerrechtlichen Verträgen mit.
+
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+
+### 3. Abschnitt: Die Ämter im Einzelnen
+
+#### Art. 5
+
+**Eidgenössisches Büro für die Gleichstellung von Frau und Mann**
+
+<sup>1</sup> Das Eidgenössische Büro für die Gleichstellung von Frau und Mann (EBG) ist die Fachbehörde für die Gleichstellung der Geschlechter.
+
+<sup>2</sup>
+
+Das EBG verfolgt insbesondere folgende Ziele:
+
+- a. jegliche Form direkter oder indirekter Geschlechterdiskriminierung bekämpfen;
+- b. die Gleichstellung der Geschlechter in allen Lebensbereichen fördern und sichern.
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt das EBG folgende Funktionen wahr:
+
+- a. Es wirkt mit bei der Ausarbeitung von Erlassen des Bundes, soweit diese für die Gleichstellung von Bedeutung sind.
+- b. Es bearbeitet gleichstellungspolitische Fragen, arbeitet Empfehlungen an Behörden und Private aus und kann Gutachten erstellen.
+- c. Es informiert und sensibilisiert die Öffentlichkeit, indem es sich an Projekten von gesamtschweizerischer und internationaler Bedeutung beteiligt, Tagungen organisiert, Publikationen herausgibt und eine Dokumentationsstelle führt.
+
+<sup>4</sup>
+
+Darüber hinaus erfüllt das EBG folgende besonderen Aufgaben:
+
+- a. Es prüft Gesuche um Finanzhilfen nach dem Gleichstellungsgesetz vom 24. März 1995[^5-1] und überwacht die Durchführung der Förderungsprogramme.
+- b. Es pflegt den Informationsaustausch mit der Eidgenössischen Kommission für Frauenfragen.
+
+<sup>5</sup> Für Fragen der Gleichstellung von Frau und Mann innerhalb der Bundesverwaltung ist das Eidgenössische Personalamt zuständig.
+
+[^5-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+
+#### Art. 6
+
+**Bundesamt für Kultur**
+
+<sup>1</sup> Das Bundesamt für Kultur (BAK) ist die Fachbehörde für kulturpolitische Grundsatzfragen, für Kulturförderung und für die Erhaltung und Vermittlung kultureller Werte.
+
+<sup>2</sup>
+
+Das BAK verfolgt insbesondere folgende Ziele:
+
+- a. Rahmenbedingungen schaffen und sicherstellen, die ein unabhängiges Kulturschaffen und ein vielfältiges Kulturangebot ermöglichen;
+- b. das kulturelle Erbe erhalten und pflegen, den kulturellen Austausch in der Schweiz und mit dem Ausland unterstützen und die Verständigung zwischen den Sprach- und Kulturgemeinschaften fördern.
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt das BAK folgende Funktionen wahr:
+
+- a. Es gestaltet eine umfassende Kulturpolitik des Bundes und setzt sie um.
+- b. Es gestaltet und vollzieht mit bundeseigenen Gremien und in Zusammenarbeit mit Dritten Fördermassnahmen in allen Sparten des kulturellen Schaffens; hierzu gehören namentlich die Sparten Film, freie und angewandte Kunst sowie Denkmalpflege, Ortsbildschutz und Archäologie.
+- c. Es ist vorbereitend und mitwirkend tätig bei der Erarbeitung der Erlasse im Kulturbereich und beaufsichtigt und koordiniert ihren Vollzug.
+- d.[^6-1] Es regelt den Kulturgütertransfer und führt die Fachstelle.
+- e. Es betreibt und fördert Institutionen, welche der Sammlung, Erhaltung, Erschliessung und Vermittlung von Kulturgut dienen.
+
+<sup>4</sup>
+
+Darüber hinaus erfüllt das BAK folgende besonderen Aufgaben:
+
+- a.[^6-2] ...
+- b. Es fördert die Ausbildung junger Auslandschweizerinnen und ‑schweizer.
+- c. Es unterstützt die kulturelle Minderheit der Jenischen.
+
+[^6-1]: Fassung gemäss Art. 28 der Kulturgütertransferverordnung vom 13. April 2005, in Kraft seit 1. Juni 2005 ([AS 2005 1883](https://fedlex.data.admin.ch/eli/oc/2005/318)).
+[^6-2]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5255](https://fedlex.data.admin.ch/eli/oc/2004/806)).
+
+#### Art. 7
+
+**Schweizerisches Bundesarchiv**
+
+<sup>1</sup> Das Schweizerische Bundesarchiv (BAR) ist die Fachbehörde für die Archivierung der Unterlagen des Bundes.
+
+<sup>2</sup>
+
+Das BAR verfolgt insbesondere folgende Ziele:
+
+- a. die Verwaltungstätigkeiten transparent und nachvollziehbar machen und damit zur Rechtssicherheit und zur Kontinuität und Rationalität der Verwaltungsführung beitragen;
+- b. wertvolle Unterlagen des Bundes oder Unterlagen von gesamtschweizerischer Bedeutung aufbewahren, vermitteln und auswerten, um damit die historische und sozialwissenschaftliche Forschung zu ermöglichen;
+- c. das Archivwesen auf nationaler und internationaler Ebene fördern.
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt das BAR folgende Funktionen wahr:
+
+- a. Es archiviert alle rechtlich, politisch, wirtschaftlich, historisch, sozial oder kulturell wertvollen Unterlagen des Bundes.
+- b. Es sichert die Unterlagen des Bundes, indem es sie übernimmt, konserviert und unter geeigneten Bedingungen aufbewahrt.
+- c. Es entwickelt und fördert die Informationsverwaltung in seinem Kompetenzbereich.
+- d. Es entscheidet über die Archivwürdigkeit der Unterlagen des Bundes auf Grund einer Bestimmung ihres historischen und wissenschaftlichen Wertes.
+- e. Es erschliesst das Archivgut, wertet es aus und vermittelt den Benutzerinnen und Benutzern den Zugang zu den Archiven.
+
+#### Art. 8
+
+**Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz)**
+
+<sup>1</sup> Das Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) ist die Fachbehörde im meteorologischen und klimatologischen Bereich.
+
+<sup>2</sup>
+
+MeteoSchweiz verfolgt insbesondere folgende Ziele:
+
+- a. meteorologische und klimatologische Daten sowie klimarelevante Informationen über die Zusammensetzung der Atmosphäre auf dem Gebiet der Schweiz dauernd und flächendeckend erfassen;
+- b. bei der Erbringung der Dienstleistungen die Bedürfnisse der Landesteile und Sprachregionen berücksichtigen und mit anderen Bundesstellen sowie nationalen und internationalen Institutionen, insbesondere mit den Kantonen, Gemeinden, Hochschulen, der Armee und der Nationalen Alarmzentrale zusammenarbeiten.
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt MeteoSchweiz folgende Funktionen wahr:
+
+- a. Sie erbringt meteorologische und klimatologische Dienstleistungen für die Bedürfnisse der Allgemeinheit. Insbesondere warnt sie vor gefährlichen Wetterereignissen.
+- b. Sie stellt Flugwetterinformationen für den Flugsicherungsdienst bereit.
+- c. Sie erfüllt die Verpflichtungen der Schweiz gegenüber den internationalen meteorologischen und klimatologischen Organisationen.
+- d. Sie arbeitet mit anderen Wetter- und Klimadiensten Europas zusammen.
+- e. Sie erbringt erweiterte Dienstleistungen für individuelle Auftraggeber.
+
+#### Art. 9
+
+**Bundesamt für Gesundheit**
+
+<sup>1</sup> Das Bundesamt für Gesundheit (BAG) ist die Fachbehörde für die menschliche Gesundheit, für die nationale Gesundheitspolitik, für die Mitarbeit der Schweiz in der internationalen Gesundheitspolitik, für die soziale Sicherheit in den Bereichen Krankheit und Unfall sowie für die ihm übertragenen Bereiche des Konsumentenschutzes.[^9-1]
+
+<sup>2</sup>
+
+Das BAG verfolgt insbesondere folgende Ziele:
+
+- a. die Gesundheit im Sinne eines umfassenden körperlichen, geistigen und sozialen Wohlbefindens schützen und fördern;
+- b. neue Bedrohungen für die Gesundheit früh erkennen und zur wirksamen Bewältigung von Krisen jederzeit bereit sein;
+- c. die Bevölkerung und die im Gesundheitsbereich tätigen Kreise mit den nötigen Informationen über Fragen der Gesundheit und der gesundheitlichen Entwicklung versorgen;
+- d. die Konsumentinnen und Konsumenten in seinem Tätigkeitsbereich vor Täuschung schützen;
+- e.[^9-2] die soziale Sicherheit gegenüber den Folgen von Krankheit und Unfall gewährleisten und nachhaltig weiterentwickeln;
+- f.[^9-3] den Zugang der gesamten Bevölkerung zu einer umfassenden medizinischen Betreuung und einer qualitativ guten Pflege bei weiterhin tragbaren Gesundheitskosten sicherstellen.
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt das BAG folgende Funktionen wahr:
+
+- a.
+
+  Es ist vorbereitend und mitwirkend tätig bei der Erarbeitung der Erlasse über das öffentliche Gesundheitswesen wie auch über die soziale Sicherheit gegenüber den Folgen von Krankheit und Unfall und beaufsichtigt und koordiniert ihren Vollzug, insbesondere in folgenden Bereichen:[^9-4]
+
+  - 1\. Überwachung und Bekämpfung übertragbarer, stark verbreiteter oder bösartiger Krankheiten, namentlich auch Prävention von Suchtkrankheiten;
+  - 2\. Strahlenschutz;
+  - 3\. Transplantation von Organen, Geweben und Zellen;
+  - 4\.[^9-5] Fortpflanzungsmedizin unter Vorbehalt der Zuständigkeiten des Eidgenössischen Amtes für Zivilstandswesen und des Bundesamtes für Statistik;
+  - 5\.[^9-6] genetische Untersuchungen beim Menschen unter Vorbehalt der Zuständigkeiten des Bundesamtes für Polizei;
+  - 6\.[^9-7] Forschung am Menschen einschliesslich der Forschung an menschlichen embryonalen Stammzellen;
+  - 7\.[^9-8] Umgang mit Heilmitteln, mit Tabak, anderen Raucherwaren und Tabakerzeugnissen, mit Betäubungsmitteln, mit Organismen und mit Chemikalien;
+  - 8\.[^9-9] Aus-, Weiter- und Fortbildung in den akademischen Medizinalberufen;
+  - 9\.[^9-10] Kranken-, Unfall- und Militärversicherung.
+
+- b.[^9-11] Es steuert die Forschung auf dem Gebiet der Gesundheit, der Kranken-, Unfall- und Militärversicherung und der Aus-, Weiter- und Fortbildung in den akademischen Medizinalberufen.
+- c.[^9-12] Es wirkt mit bei der Steuerung von wichtigen gesundheits- und sozialpolitischen Prozessen und bei der Erarbeitung der dafür notwendigen Grundlagen.
+- d.[^9-13] Es informiert über den Gesundheits-, Konsumenten- und Versicherungsschutz.
+- e. Es überprüft die Wirkung rechtsetzender und anderer Massnahmen auf die Gesundheit.
+- f. Es stellt eine aktive internationale Zusammenarbeit sicher.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-4]: Fassung gemäss Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-5]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-6]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-7]: Eingefügt durch Ziff. I der V vom 15. Dez. 2003 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)). Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-8]: Eingefügt durch Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-9]: Eingefügt durch Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-10]: Eingefügt durch Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-11]: Fassung gemäss Anhang Ziff. 3 der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
+[^9-12]: Fassung gemäss Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-13]: Fassung gemäss Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+
+#### Art. 10
+
+**Bundesamt für Statistik**
+
+<sup>1</sup> Das Bundesamt für Statistik (BFS) ist die Fachbehörde für die amtliche Statistik in der Schweiz.
+
+<sup>2</sup>
+
+Das BFS verfolgt in fachlich unabhängiger Weise und nach wissenschaftlichen Prinzipien insbesondere folgende Ziele:
+
+- a. repräsentative statistische Ergebnisse über den Zustand und die Entwicklung von Bevölkerung, Wirtschaft, Gesellschaft, Raum und Umwelt in der Schweiz produzieren und verbreiten;
+- b. statistische Informationen für die Meinungsbildung in der Bevölkerung, für die Entscheidfindung in Politik und Wirtschaft, für die Planung und für die Evaluation in Staat und Gesellschaft sowie für die Forschung bereitstellen;
+- c. die amtliche Statistik von Bund, Kantonen und Gemeinden koordinieren und harmonisieren.
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt das BFS folgende Funktionen wahr:
+
+- a. Es stellt statistische Informationen für die breite Öffentlichkeit bereit, wertet statistische Daten für spezifische Benützerkreise aus und berät interessierte Kreise in statistischen Fragen.
+- b. Es bereitet die Entscheidungen für eine kohärente Politik im Bereich der öffentlichen Statistik vor und setzt sie um und erstellt das vierjährige statistische Mehrjahresprogramm.
+- c. Es konzipiert, organisiert und realisiert statistische Erhebungen und führt einen statistischen Datenpool.
+- d. Es pflegt eine enge Zusammenarbeit und den Austausch von Wissen mit Wissenschaft und Forschung.
+- e. Es sorgt für die Integration der schweizerischen Statistik in internationale Systeme, insbesondere in das statistische System der Europäischen Union.
+
+#### Art. 11
+
+**Bundesamt für Sozialversicherungen[^11-1]**
+
+<sup>1</sup> Das Bundesamt für Sozialversicherungen (BSV) ist die Fachbehörde für die soziale Sicherheit.
+
+<sup>2</sup>
+
+Das BSV verfolgt insbesondere folgende Ziele:
+
+- a.[^11-2] die soziale Sicherheit gewährleisten gegenüber den Folgen von Alter, Invalidität und Verlust der versorgenden Person sowie bei Erwerbsausfall von Wehr-, Zivildienst- und Zivilschutzpflichtigen.
+- b. die Sozialversicherungen unter Berücksichtigung der gesellschaftlichen und wirtschaftlichen Situation und deren Veränderungen nachhaltig weiterentwickeln;
+- c. die Familien-, Jugend- und Kinderpolitik sowie die Mutterschaft unterstützen und fördern;
+- d.[^11-3] ...
+- e. auf den sozialen Ausgleich zwischen wirtschaftlich unterschiedlich leistungsfähigen Bevölkerungsgruppen hinarbeiten;
+
+<sup>3</sup>
+
+Zur Verfolgung dieser Ziele nimmt das BSV folgende Funktionen wahr:
+
+- a. Es bereitet die Entscheidungen für eine kohärente Politik der Sozialversicherungen in seinem Verantwortungsbereich vor und setzt sie um.
+- b. Es stellt für die Politik Entscheidgrundlagen und Dokumentationen über die soziale Sicherheit bereit und fördert die Forschung in diesem Bereich.
+- c. Es informiert und berät im Bereich der Sozialversicherungen.
+- d. Es fördert im Bereich der Sozialversicherungen die Zusammenarbeit zwischen den interessierten Kreisen. Es koordiniert und harmonisiert die verschiedenen Massnahmen sowohl innerhalb seines Zuständigkeitsbereiches wie auch mit den weiteren sozialpolitischen Massnahmen von Bund, Kantonen und Gemeinden.
+
+[^11-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^11-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^11-3]: Aufgehoben durch Ziff. I der V vom 15. Dez. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+
+#### Art. 12
+
+**Bundesamt für Lebensmittelsicherheit und Veterinärwesen**[^12-1]
+
+<sup>1</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) ist das Kompetenzzentrum des Bundes für die Bereiche Lebensmittelsicherheit, Gebrauchsgegenstände, Ernährung, Tiergesundheit und Tierschutz sowie für den Bereich des Artenschutzes im internationalen Handel.
+
+<sup>2</sup>
+
+Das BLV verfolgt, gestützt auf wissenschaftliche Grundlagen, insbesondere folgende Ziele:
+
+- a. Es sorgt dafür, dass beim Gewinnen von Lebensmitteln, beim Herstellen von Gebrauchsgegenständen sowie bei der Ein- und Ausfuhr dieser Produkte die Qualität gesichert und die Konsumentinnen und Konsumenten geschützt werden.
+- b. Es sorgt dafür, dass die Konsumentinnen und Konsumenten in seinem Tätigkeitsbereich vor Täuschung geschützt werden.
+- c. Es sorgt dafür, dass die Öffentlichkeit informiert wird über ernährungswissenschaftliche Erkenntnisse von allgemeinem Interesse, die namentlich für die Gesundheitsvorsorge und den Gesundheitsschutz von Bedeutung sind.
+- d. Es stellt sicher, dass die Tiere frei sind von Tierseuchen, die auf andere Tiere und auf den Menschen übertragbar sind.
+- e. Es sorgt für den Schutz der Tiere vor Schmerzen, Leiden oder Schäden und für die nachhaltige Nutzung frei lebender Tiere.
+- f. Es unterstützt die Öffnung der Märkte für Lebensmittel, Gebrauchsgegenstände, Tiere und tierische Produkte.
+
+<sup>3</sup> Das BLV ist vorbereitend und mitwirkend tätig bei der Erarbeitung der Erlasse im Bereich der Lebensmittelsicherheit, der Ernährung, der Tiergesundheit, des Tierschutzes sowie des Artenschutzes im internationalen Handel. Es beaufsichtigt und koordiniert ihren Vollzug.
+
+<sup>4</sup> Dem BLV ist als Forschungsanstalt das Institut für Virologie und Immunologie (IVI) unterstellt. Das IVI ist das Kompetenzzentrum des Bundes im Bereich der Tierseuchenbekämpfung. Es befasst sich insbesondere mit der Diagnostik, Überwachung und Kontrolle hoch ansteckender Tierseuchen zur Verhinderung gesundheitlicher und wirtschaftlicher Schäden sowie mit der Registrierung von Impfstoffen für Tiere.
+
+<sup>5</sup> Dem BLV ist die Bundeseinheit für die Lebensmittelkette (BLK) administrativ zugewiesen.[^12-2] Die BLK wird von den Direktorinnen und Direktoren des Bundesamtes für Landwirtschaft und des BLV gemeinsam geführt. Sie unterstützt diese Ämter bei der Aufsicht über den Vollzug der Pflanzengesundheits-, Futtermittel-, Tierseuchen-, Tierschutz- und Lebensmittelgesetzgebung sowie bei der Erarbeitung des nationalen Kontrollplans. Als Koordinationsstelle trägt sie zur Gewährleistung der Lebensmittelsicherheit auf allen Produktionsstufen entlang der Lebensmittelkette bei.[^12-3]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^12-2]: Die Änd. gemäss Anhang 3 Ziff. 1 der V vom 16. Dez. 2016 über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Mai 2017, betrifft nur den französischen und italienischen Text ([AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)).
+[^12-3]: Die Änd. gemäss Anhang 4 Ziff. 1 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020, betrifft nur den französischen und italienischen Text ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+
+#### Art. 13
+
+[^13-1]
+
+[^13-1]: Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 14–15
+
+[^1415-1]
+
+[^1415-1]: Aufgehoben durch Ziff. I der V vom 18. Aug. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4123](https://fedlex.data.admin.ch/eli/oc/2004/606)).
+
+## 3. Kapitel: Verwaltungseinheiten der dezentralen Bundesverwaltung
+
+#### Art. 16
+
+[^16-1]
+
+[^16-1]: Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+
+#### Art. 16a
+
+[^16a-1]
+
+[^16a-1]: Eingefügt durch Art. 13 Ziff. 2 der Organisationsverordnung für das Schweizerische Heilmittelinstitut vom 28. Sept. 2001 ([AS 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)). Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+
+#### Art. 16b und 16c
+
+[^16b16c-1]
+
+[^16b16c-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+
+#### Art. 16d
+
+**Schweizerisches Nationalmuseum**[^16d-1]
+
+Aufgaben und Organisation des Schweizerischen Nationalmuseums (SNM) sind im Museums- und Sammlungsgesetz vom 12. Juni 2009[^16d-2] geregelt.
+
+[^16d-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^16d-2]: [SR 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+
+#### Art. 16e
+
+**Stiftung «Pro Helvetia»**[^16e-1]
+
+<sup>1</sup> Aufgaben und Organisation der Stiftung «Pro Helvetia» sind im Kulturförderungsgesetz vom 11. Dezember 2009[^16e-2] geregelt.
+
+<sup>2</sup> Das Personal der Pro Helvetia wird nach Obligationenrecht[^16e-3] angestellt.
+
+[^16e-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^16e-2]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2012 angepasst.
+[^16e-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 16f
+
+**Swissmedic, Schweizerisches Heilmittelinstitut**[^16f-1]
+
+<sup>1</sup> Das Schweizerische Heilmittelinstitut (Swissmedic) mit Sitz in Bern ist die Aufsichtsbehörde des Bundes für Heilmittel.
+
+<sup>2</sup> Ihre Stellung, ihre Aufgaben, ihre Zuständigkeiten sowie ihre Organisation richten sich nach dem Heilmittelgesetz vom 15. Dezember 2000[^16f-2].
+
+[^16f-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Fassung gemäss Anhang 6 Ziff. II 2 der Arzneimittelverordnung vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
+[^16f-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+#### Art. 16g
+
+**Oberaufsichtskommission Berufliche Vorsorge**[^16g-1]
+
+Aufgaben und Organisation der Oberaufsichtskommission Berufliche Vorsorge sind im Bundesgesetz vom 25. Juni 1982[^16g-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge und im gestützt darauf erlassenen Organisations- und Geschäftsreglement geregelt.
+
+[^16g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)).
+[^16g-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+## 4. Kapitel: Schlussbestimmungen
+
+#### Art. 17
+
+**Geschäftsordnung**
+
+Das Departement erlässt eine Geschäftsordnung im Sinne von Artikel 29 RVOV.
+
+#### Art. 18
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 24. Februar 1988[^18-1] über das Büro für die Gleichstellung von Frau und Mann wird aufgehoben.
+
+[^18-1]: [[AS 1988 408](https://fedlex.data.admin.ch/eli/oc/1988/408_408_408)]
+
+#### Art. 19
+
+**Änderung bisherigen Rechts**
+
+...[^19-1]
+
+[^19-1]: Die Änderungen können unter [AS 2000 1837](https://fedlex.data.admin.ch/eli/oc/2000/282)konsultiert werden.
+
+#### Art. 20
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. August 2000 in Kraft.

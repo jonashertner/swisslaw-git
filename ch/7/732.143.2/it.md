@@ -1,0 +1,372 @@
+---
+sr: "732.143.2"
+title: Ordinanza del 9 giugno 2006 concernente i corpi di guardia degli impianti nucleari (OCGIN)
+short: OCGIN
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
+language: it
+version: 2009-01-01
+adopted: 2006-06-09
+in_force: 2006-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20090101/it/xml/fedlex-data-admin-ch-eli-cc-2006-378-20090101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente i corpi di guardia degli impianti nucleari
+
+(OCGIN)
+
+del 9 giugno 2006 (Stato 1° gennaio 2009)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 22 capoverso 2 lettera b e 23 capoverso 2 della legge federale del 21 marzo 2003[^ingress-1] sull’energia nucleare,
+
+ordina:
+
+[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+La presente ordinanza disciplina i compiti e le competenze dei corpi di guardia degli impianti nucleari (corpi di guardia), il loro equipaggiamento e armamento, la loro organizzazione, come pure quella del personale di guardia esterno, nonché i requisiti delle guardie dal profilo delle qualifiche e dell’idoneità.
+
+## Sezione 2: Compiti e competenze dei corpi di guardia
+
+#### Art. 2
+
+**Compiti**
+
+<sup>1</sup>
+
+I corpi di guardia adempiono in particolare i compiti seguenti:
+
+- a. proteggono gli impianti nucleari da interventi non autorizzati e impediscono alle persone non autorizzate di accedere all’area di sicurezza esterna;
+- b. manovrano i dispositivi tecnici di sicurezza e ne verificano il buon funzionamento;
+- c. verificano, valutano e trattano le notifiche e gli allarmi;
+- d. allertano la polizia e i soccorsi;
+- e. guidano la polizia e i soccorsi all’interno dell’impianto nucleare.
+
+<sup>2</sup> I corpi di guardia assicurano la sorveglianza e la vigilanza sugli impianti nucleari 24 ore su 24.
+
+#### Art. 3
+
+**Competenze**
+
+<sup>1</sup>
+
+Entro il perimetro dell’area di sicurezza esterna, i corpi di guardia hanno facoltà di:
+
+- a. accertare l’identità delle persone;
+- b. perquisire persone e veicoli;
+- c. sequestrare oggetti;
+- d. trattenere persone fino all’arrivo della polizia;
+- e. usare la forza fisica;
+- f. ricorrere all’uso delle armi personali;
+- g. impiegare mezzi da servizio d’ordine;
+- h. utilizzare telecamere di monitoraggio.
+
+<sup>2</sup>
+
+Le misure di cui al capoverso 1 possono essere ordinate e messe in atto soltanto se:
+
+- a. sono necessarie e appropriate all’adempimento del compito;
+- b. non comportano uno svantaggio manifestamente sproporzionato rispetto al risultato perseguito;
+- c. non sono disponibili misure più lievi.
+
+#### Art. 4
+
+**Accertamenti d’identità**
+
+Se l’identità di una persona può essere constatata soltanto a costo di notevoli difficoltà, o se sussistono seri dubbi in merito all’esattezza dei dati o sull’autenticità dei documenti d’identità, l’interessato deve essere consegnato ai competenti organi di polizia.
+
+#### Art. 5
+
+**Perquisizioni**
+
+<sup>1</sup> Possono essere perquisite le persone che portano su di sé armi o altri oggetti pericolosi, o che sono sospettate di farlo. La perquisizione personale comprende la perquisizione degli indumenti, ma chi la effettua si limiterà a tastare la superficie del corpo.
+
+<sup>2</sup> In linea di principio, le perquisizioni personali possono essere effettuate soltanto da persone dello stesso sesso. In caso di pericolo incombente, o se la persona interessata è consenziente, la perquisizione può essere effettuata, eccezionalmente, anche da una persona di sesso opposto.
+
+<sup>3</sup> Le cose, e in particolare i veicoli introdotti, possono essere perquisite se vi è il sospetto che esse o il loro contenuto mettano in pericolo la sicurezza di persone o di impianti nucleari.
+
+#### Art. 6
+
+**Sequestro di oggetti**
+
+<sup>1</sup>
+
+Possono essere sequestrati oggetti che:
+
+- a. rappresentano un pericolo per persone o impianti nucleari;
+- b. sono serviti a commettere un reato ai danni di persone o impianti nucleari;
+- c. dovrebbero o dovevano servire a commettere un reato.
+
+<sup>2</sup> Gli oggetti sequestrati devono essere iscritti in una distinta indicando almeno la designazione degli oggetti sequestrati, l’assegnazione al proprietario nonché motivo, luogo, data e ora del sequestro.
+
+<sup>3</sup> Gli oggetti sequestrati devono essere consegnati alla polizia.
+
+#### Art. 7
+
+**Fermo provvisorio, uso della forza fisica**
+
+<sup>1</sup>
+
+Possono essere fermati coloro che:
+
+- a. compromettono la sicurezza di persone o impianti nucleari; oppure
+- b. vengono colti in flagrante mentre commettono un delitto o un crimine ai danni di persone o impianti nucleari, o che subito dopo si danno alla fuga.
+
+<sup>2</sup> Le persone fermate possono essere ammanettate se fanno resistenza, oppure se sussiste il pericolo che fuggano, aggrediscano altre persone o si feriscano. È ammesso l’uso di manette o di lacci; sono invece vietati mezzi che colpiscono le vie respiratorie.
+
+<sup>3</sup> Nell’uso della forza fisica bisogna tener conto della costituzione fisica e dell’età della persona interessata. Nel limite del possibile, il ferimento di persone e le misure che limitano la respirazione devono essere evitati.
+
+<sup>4</sup> Le persone ferite mediante uso della forza fisica devono essere soccorse e, se necessario, essere assistite da un medico.
+
+<sup>5</sup> Le persone fermate devono essere consegnate senza indugio alla polizia.
+
+#### Art. 8
+
+**Impiego delle armi**
+
+<sup>1</sup> Ogni membro del corpo di guardia è personalmente responsabile dell’uso della sua arma.
+
+<sup>2</sup>
+
+Le armi da fuoco possono essere utilizzate soltanto se:
+
+- a. le guardie o altre persone rischiano direttamente di essere aggredite in modo pericoloso, o vengono effettivamente aggredite in modo pericoloso; oppure
+- b. vengono messi in pericolo dispositivi il cui danneggiamento o mancato funzionamento compromette seriamente la sicurezza dell’impianto nucleare.
+
+<sup>3</sup> Se lo scopo o le circostanze lo permettono, l’uso delle armi da fuoco deve essere preceduto da un chiaro avvertimento.
+
+<sup>4</sup> Si può sparare un colpo mirato soltanto per ridurre la persona interessata in condizioni di non nuocere.
+
+<sup>5</sup> Si deve rinunciare all’uso dell’arma da fuoco se mette esageratamente in pericolo terzi non implicati.
+
+<sup>6</sup> Se l’uso delle armi provoca il ferimento di persone, queste devono ricevere la necessaria assistenza.
+
+<sup>7</sup> L’uso delle armi deve essere in tutti i casi annunciato senza indugio alle autorità di polizia e l’Ispettorato federale della sicurezza nucleare (IFSN).[^8-1]
+
+<sup>8</sup> Le armi impiegate devono essere requisite ai fini delle indagini. Si devono adottare i provvedimenti necessari a proteggere le tracce.
+
+[^8-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+#### Art. 9
+
+**Zona rilevante per la sicurezza esterna**
+
+<sup>1</sup> Nella zona circostante rilevante per la sicurezza esterna, i corpi di guardia possono adottare, d’intesa con la polizia del Cantone di sito, le misure di cui all’articolo 3 capoverso 1 lettere a–f e h.
+
+<sup>2</sup> L’IFSN, sentiti la polizia e il titolare della licenza di costruzione o d’esercizio per l’impianto nucleare (titolare della licenza), delimita la zona rilevante per la sicurezza esterna.[^9-1]
+
+[^9-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+## Sezione 3: Equipaggiamento e armamento dei corpi di guardia
+
+#### Art. 10
+
+**Equipaggiamento e armamento**
+
+<sup>1</sup> I corpi di guardia prestano servizio in uniforme. Gli agenti dei corpi di guardia devono essere manifestamente riconoscibili.
+
+<sup>2</sup> L’equipaggiamento e l’armamento autorizzati per le guardie sono definiti ai punti 1 e 2 dell’appendice.
+
+<sup>3</sup> L’acquisizione di nuovi tipi di arma deve essere preventivamente annunciata all’IFSN.[^10-1]
+
+[^10-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+#### Art. 11
+
+**Mezzi da servizio d’ordine**
+
+<sup>1</sup> I mezzi da servizio d’ordine ammessi in caso di intervento nell’area di sicurezza esterna sono elencati al punto 3 dell’appendice.
+
+<sup>2</sup> I capisquadra o i loro sostituti decidono in merito all’impiego di detti mezzi, ad eccezione dei casi di legittima difesa e di aiuto alla legittima difesa.
+
+<sup>3</sup> L’acquisizione di nuove tipologie di mezzi da servizio d’ordine deve essere preventivamente annunciata all’IFSN.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+#### Art. 12
+
+**Cani di servizio**
+
+<sup>1</sup> I corpi di guardia possono impiegare cani di servizio.
+
+<sup>2</sup> Possono essere impiegati cani di servizio soltanto se conducenti e cani hanno superato gli esami richiesti dalla Società cinofila svizzera, dalla Federazione svizzera dei conducenti di cani di polizia oppure dalla Società svizzera dei conducenti di cani militari.
+
+## Sezione 4: Organizzazione dei corpi di guardia, personale di guardia esterno
+
+#### Art. 13
+
+**Organizzazione**
+
+<sup>1</sup> I corpi di guardia constano del capo del corpo, dei capisquadra e delle guardie.
+
+<sup>2</sup> Il capo del corpo di guardia organizza il corpo di guardia e ne dirige l’intervento.
+
+<sup>3</sup> Il capogruppo comanda il proprio gruppo di guardie nel servizio a turni su ordine del capo del corpo di guardia.
+
+<sup>4</sup> L’IFSN stabilisce per ciascun impianto nucleare l’effettivo minimo di guardie per turno.[^13-1]
+
+[^13-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+#### Art. 14
+
+**Personale di guardia esterno**
+
+<sup>1</sup> I corpi di guardia degli impianti nucleari possono chiedere rinforzi a personale di guardia esterno, in particolare in caso di revisione e di arresto degli impianti.
+
+<sup>2</sup> Il personale di guardia esterno presta servizio senz’arma.
+
+<sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttiva l’impiego di personale di guardia esterno.[^14-1]
+
+[^14-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+## Sezione 5: Qualifiche e idoneità delle guardie
+
+#### Art. 15
+
+**Requisiti delle guardie**
+
+<sup>1</sup>
+
+Il capo del corpo di guardia deve possedere le seguenti qualifiche:
+
+- a. formazione professionale conclusa con l’ottenimento di un attestato federale di capacità ai sensi della legge federale del 13 dicembre 2002[^15-1] sulla formazione professionale, oppure un certificato di fine formazione estero equipollente;
+- b. approfondite conoscenze nel settore della sicurezza esterna;
+- c. idoneità personale e psicofisica all’esercizio della funzione.
+
+<sup>2</sup>
+
+Il capogruppo deve possedere le seguenti qualifiche:
+
+- a. formazione professionale conclusa con l’ottenimento di un attestato federale di capacità ai sensi della legge federale del 13 dicembre 2002 sulla formazione professionale, oppure un certificato di fine formazione estero equipollente;
+- b. conoscenze nel settore della sicurezza esterna;
+- c. idoneità personale e psicofisica all’esercizio della funzione.
+
+<sup>3</sup>
+
+Le guardie devono possedere le seguenti qualifiche:
+
+- a. formazione professionale conclusa con l’ottenimento di un attestato professionale ai sensi della legge federale del 13 dicembre 2002 sulla formazione professionale, oppure un certificato di fine formazione estero equipollente;
+- b. idoneità personale e psicofisica all’esercizio della funzione.
+
+<sup>4</sup> L’IFSN decide caso per caso in merito all’equipollenza dei certificati di fine formazione esteri.[^15-2]
+
+[^15-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^15-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+#### Art. 16
+
+**Idoneità personale**
+
+<sup>1</sup> La verifica dell’idoneità personale serve ad accertare che il candidato possieda le qualità personali necessarie per svolgere l’attività di addetto alla sorveglianza, quali un atteggiamento di base riflessivo e autocritico, scrupolosità, spirito di squadra e attitudine al comando.
+
+<sup>2</sup> Un servizio designato dal titolare della licenza valuta l’idoneità personale. Il servizio comunica il risultato al titolare della licenza, che lo inserisce nella documentazione conformemente all’articolo 37 dell’ordinanza del 9 giugno 2006[^16-1] sulle esigenze per il personale degli impianti nucleari (OEPIN).
+
+<sup>3</sup> Fondandosi sulla valutazione, il titolare della licenza decide in merito all’idoneità personale e inserisce la decisione nella documentazione.
+
+<sup>4</sup> Il titolare della licenza valuta periodicamente l’idoneità personale e annota il risultato nella documentazione.
+
+<sup>5</sup> L’IFSN può consultare la documentazione.[^16-2]
+
+[^16-1]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
+[^16-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+#### Art. 17
+
+**Idoneità psicofisica**
+
+<sup>1</sup> La verifica dell’idoneità psicofisica serve ad accertare che il candidato soddisfi i requisiti dal profilo dello stato di salute, quali una capacità percettiva sufficiente, abilità al lavoro a turni e nessuna dipendenza da sostanze psicotrope.
+
+<sup>2</sup> Un medico di fiducia della SUVA verifica annualmente l’idoneità psicofisica dei membri dei corpi di guardia nell’ambito degli esami preventivi di medicina del lavoro e comunica i risultati alla SUVA.
+
+<sup>3</sup> La SUVA decide in merito all’idoneità psicofisica. La decisione è comunicata in forma scritta al titolare della licenza, che provvede a inserirla nella documentazione conformemente all’articolo 37 OEPIN[^17-1].
+
+<sup>4</sup> L’IFSN può consultare la documentazione.[^17-2]
+
+[^17-1]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
+[^17-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+## Sezione 6: Protezione dei dati
+
+#### Art. 18
+
+<sup>1</sup> L’IFSN può trattare dati personali dei membri dei corpi di guardia, tra cui segnatamente anche dati degni di particolare protezione o profili della personalità ai sensi dell’articolo 3 lettere c e d della legge federale del 19 giugno 1992[^18-1] sulla protezione dei dati, nella misura in cui tali dati risultino necessari, nell’adempimento dei compiti assegnati dalla presente ordinanza, per verificare se i membri dei corpi di guardia adempiono i requisiti richiesti.[^18-2]
+
+<sup>2</sup>
+
+L’IFSN tratta i seguenti dati personali:
+
+- a. cittadinanza;
+- b. data di nascita;
+- c. indirizzo;
+- d. formazione e perfezionamento professionale;
+- e. esperienza professionale;
+- f. valutazione dell’idoneità personale;
+- g. constatazione dell’idoneità psicofisica.
+
+<sup>3</sup> L’IFSN è incaricato di stabilire mediante direttiva le misure da adottare per proteggere i dati elettronici nei confronti di terzi.
+
+<sup>4</sup> Dopo che un membro dei corpi di guardia abbandona il posto o la funzione, oppure porta a termine il mandato, i dati personali sono conservati per 10 anni in modo sicuro. Allo scadere di questo termine i dati vengono distrutti nella misura in cui non vengono custoditi nell’Archivio federale.
+
+[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+
+## Sezione 7: Collaborazione con i Cantoni
+
+#### Art. 19
+
+<sup>1</sup> I titolari di licenza prendono i necessari accordi organizzativi con le autorità cantonali di polizia, in particolare sui mezzi di comunicazione, sui percorsi d’accesso, sull’infrastruttura e sull’azione dei corpi di guardia, fino all’arrivo di un capo intervento della polizia.
+
+<sup>2</sup> I titolari di licenza sono tenuti a fornire indicazioni alla polizia sugli impianti e sulle modifiche apportate alle misure di sicurezza esterne.
+
+<sup>3</sup> La polizia deve essere coinvolta periodicamente nelle esercitazioni dei corpi di guardia o nelle esercitazioni d’emergenza relativi alla sicurezza esterna.
+
+<sup>4</sup> In caso di intervento, la polizia assume il comando nelle questioni di sicurezza esterna. Il capo intervento concorda le misure previste con lo stato maggiore di crisi dell’impianto nucleare.
+
+## Sezione 8: Disposizioni finali
+
+#### Art. 20
+
+**Disposizione transitoria**
+
+L’articolo 15 capoverso 1 lettera a, 2 lettera a e 3 lettera a non si applica ai collaboratori dei corpi di guardia già attivi in un impianto nucleare al momento dell’entrata in vigore della presente ordinanza.
+
+#### Art. 21
+
+La presente ordinanza entra in vigore il 1° luglio 2006.
+
+Appendice
+
+(art. 10 cpv. 2 e 11 cpv. 1)
+
+## 1. Armamento
+
+Le guardie possono avere in dotazione il seguente armamento:
+
+- – arma da fuoco personale;
+- – bastone multiuso della polizia o bastone d’intervento;
+- – spray irritante;
+- – altre armi non letali.
+
+## 2. Equipaggiamento
+
+Le guardie possono disporre in particolare del seguente equipaggiamento:
+
+- – manette e lacci;
+- – giubbotti antiproiettili;
+- – apparecchi radio;
+- – veicoli corazzati.
+
+## 3. Mezzi da servizio d’ordine
+
+Il corpo di guardia può essere dotato dei seguenti mezzi da servizio d’ordine:
+
+- – equipaggiamento da servizio d’ordine;
+- – tubi di lancio polivalenti con proiettili di gomma;
+- – spray irritanti in confezioni grandi.

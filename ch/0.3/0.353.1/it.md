@@ -1,0 +1,521 @@
+---
+sr: "0.353.1"
+title: Convenzione europea di estradizione del 13 dicembre 1957
+eli: "https://fedlex.data.admin.ch/eli/cc/1967/814_854_850"
+language: it
+version: 2016-11-01
+adopted: 1957-12-13
+in_force: 1967-03-20
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/814_854_850/20161101/it/xml/fedlex-data-admin-ch-eli-cc-1967-814_854_850-20161101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/814_854_850/20161101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione europea di estradizione****
+
+RU **1967** 850; FF **1966** I 425[^t-1]
+
+Traduzione
+
+Conchiusa a Parigi il 13 dicembre 1957 Approvata dall’Assemblea federale il 27 settembre 1966[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 20 dicembre 1966 Entrata in vigore per la Svizzera il 20 marzo 1967
+
+(Stato 1° novembre 2016)
+
+[^t-1]: Per gli Stati partecipanti al Secondo Prot. add. del 17 mar. 1978 vedi anche gli art. 3 e 4 di detto Prot. ([RS 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)). Per gli Stati partecipanti al Quarto Prot. add. del 20 sett. 2012 vedi anche gli art. 6 e 8 di detto Prot. ([RS 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
+[^t-2]: [RU 1967 839](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
+
+I Governi firmatari, Membri del Consiglio d’Europa,
+
+considerato che lo scopo del Consiglio d’Europa è di attuare una unione più stretta fra i suoi Membri;
+
+considerato che questo obiettivo può essere conseguito mediante la conclusione di accordi o un’azione comune nel settore del diritto;
+
+convinti che l’accettazione di regole uniformi in materia di estradizione è tale da far progredire siffatta opera di unificazione,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+**Obbligo dell’estradizione**
+
+Le Parti Contraenti si obbligano a estradarsi reciprocamente, secondo le regole e le condizioni stabilite negli articoli seguenti, gli individui perseguiti per un reato o ricercati per l’esecuzione di una pena o di una misura di sicurezza dalle autorità giudiziarie della Parte richiedente.
+
+#### Art. 2
+
+**Reati motivanti l’estradizione**
+
+<sup>1.</sup> Danno luogo all’estradizione i fatti che le leggi della Parte richiedente e della Parte richiesta puniscono con una pena o con una misura di sicurezza privative della libertà di un massimo di almeno un anno o con una pena più severa. Quando la condanna a una pena è stata pronunciata o una misura di sicurezza è stata inflitta sul territorio della Parte richiedente, la sanzione presa deve essere di almeno quattro mesi.
+
+<sup>2.</sup> Se la domanda di estradizione concerne più fatti distinti puniti ciascuno dalla legge della Parte richiedente e della Parte richiesta con una pena o con una misura di sicurezza privative della libertà, ma di cui taluni non adempiono la condizione sulla quota della pena, la Parte richiesta avrà la facoltà di accordare l’estradizione anche per questi ultimi.[^2-1]
+
+<sup>3.</sup> Ciascuna Parte Contraente, la cui legislazione non autorizza l’estradizione per taluni reati indicati nel paragrafo 1 del presente articolo potrà, per quanto la concerne, escludere tali reati dal campo di applicazione della Convenzione.
+
+<sup>4.</sup> Ciascuna Parte Contraente che vorrà prevalersi della facoltà prevista nel paragrafo 3 del presente articolo notificherà al Segretario Generale del Consiglio d’Europa, al momento del deposito del suo strumento di ratificazione o di adesione, un elenco dei reati per i quali l’estradizione è autorizzata o un elenco dei reati per i quali l’estradizione è esclusa, indicando le disposizioni legali che autorizzano o escludono l’estradizione. Il Segretario Generale del Consiglio comunicherà gli elenchi agli altri firmatari.
+
+<sup>5.</sup> Se, successivamente, la legislazione di una Parte Contraente escludesse dall’estradizione altri reati, tale Parte notificherà l’esclusione al Segretario Generale del Consiglio, che ne informerà gli altri firmatari. La notificazione avrà effetto soltanto alla scadenza di un termine di tre mesi dalla data del suo ricevimento da parte del Segretario Generale.
+
+<sup>6.</sup> Ciascuna Parte, che avrà usato della facoltà prevista nei paragrafi 4 e 5 del presente articolo, potrà, in qualsiasi momento, sottoporre all’applicazione della presente Convenzione i reati che sono stati esclusi. Essa notificherà le modificazioni al Segretario Generale del Consiglio, che le comunicherà agli altri firmatari.
+
+<sup>7.</sup> Ciascuna Parte potrà applicare la regola della reciprocità per quanto concerne i reati esclusi dal campo di applicazione della Convenzione in virtù del presente articolo.
+
+[^2-1]: Per gli Stati partecipanti al Secondo Prot. add. del 17 mar. 1978 vedi nondimeno l’art. 1 di detto Prot. ([RS 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)).
+
+#### Art. 3
+
+**Reati politici**[^3-1]
+
+<sup>1.</sup> L’estradizione non sarà concessa, se il reato, per il quale essa è domandata, è considerato dalla Parte richiesta come un reato politico o come un fatto connesso a un siffatto reato.
+
+<sup>2.</sup> La stessa regola sarà applicata, se la Parte richiesta ha motivi seri per credere che la domanda d’estradizione motivata con un reato di diritto comune è stata presentata con lo scopo di perseguire o di punire un individuo per considerazioni di razza, di religione, di nazionalità o di opinioni politiche o che la condizione di questo individuo arrischi di essere aggravata per l’uno o l’altro di questi motivi.
+
+<sup>3.</sup> Per l’applicazione della presente Convenzione, l’attentato alla vita di un Capo di Stato o di un membro della sua famiglia non sarà considerato come reato politico.
+
+<sup>4.</sup> L’applicazione del presente articolo non concernerà gli obblighi che le Parti Contraenti avranno assunto o assumeranno in virtù di qualsiasi altra convenzione internazionale di natura multilaterale.
+
+[^3-1]: Per gli Stati partecipanti al Prot. add. del 15 ott. 1975 vedi nondimeno l’art. 1 di detto Prot. ([RS 0.353.11](https://fedlex.data.admin.ch/eli/cc/1985/719_719_719)).
+
+#### Art. 4
+
+**Reati militari**
+
+L’estradizione per causa di reati militari che non costituiscono reati di diritto comune è esclusa dal campo di applicazione della presente Convenzione.
+
+#### Art. 5
+
+**Reati fiscali**[^5-1]
+
+In materia di tasse e imposte, di dazi e di cambio, l’estradizione sarà concessa, nelle condizioni previste dalla presente Convenzione, soltanto se così è stato deciso fra le Parti Contraenti per ciascun reato o categoria di reati.
+
+[^5-1]: Per gli Stati partecipanti al Secondo Prot. add. del 17 mar. 1978 vedi nondimeno l’art. 2 di detto Prot. ([RS 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)).
+
+#### Art. 6
+
+**Estradizione dei cittadini**
+
+- 1\. a. Ciascuna Parte Contraente avrà la facoltà di rifiutare l’estradizione dei suoi cittadini.
+- b. Ciascuna Parte Contraente potrà, mediante una dichiarazione fatta al momento della firma del deposito dello strumento di ratificazione o di adesione, definire, per quanto la concerne, il termine «cittadini» nel senso della presente Convenzione.
+- c. La qualità di cittadino sarà valutata al momento della decisione di estradizione. Tuttavia, se tale qualità è accertata soltanto fra la decisione e la data prevista per la consegna, la Parte richiesta potrà parimente prevalersi della disposizione della lettera a del presente paragrafo.
+
+<sup>2.</sup> Se la Parte richiesta non procede all’estradizione di un suo cittadino, essa dovrà, su domanda della Parte richiedente, sottoporre il caso alle autorità competenti, affinché, ove occorra, possano essere esercitati perseguimenti giudiziari. A tale scopo, gli inserti, le informazioni e gli oggetti relativi al reato saranno trasmessi gratuitamente per la via prevista nel paragrafo 1 dell’articolo 12. La Parte richiedente sarà informata del seguito che sarà stato dato alla sua domanda.
+
+#### Art. 7
+
+**Luogo del reato**
+
+<sup>1.</sup> La Parte richiesta potrà rifiutarsi di estradare l’individuo richiesto per un reato, che, secondo la sua legislazione, è stato commesso in tutto o in parte sul suo territorio o in un luogo equiparato al suo territorio.
+
+<sup>2.</sup> Qualora il reato motivante la domanda d’estradizione sia stato rimesso fuori del territorio della Parte richiedente, l’estradizione potrà essere rifiutata soltanto se la legislazione della Parte richiesta non autorizza il perseguimento di un reato dello stesso genere commesso fuori del suo territorio o non autorizza l’estradizione per il reato oggetto della domanda.
+
+#### Art. 8
+
+**Perseguimenti in corso per gli stessi fatti**
+
+Una Parte richiesta potrà rifiutare d’estradare un individuo reclamato, se egli è perseguito da essa per i fatti motivanti la domanda di estradizione.
+
+#### Art. 9
+
+**Non bis in idem**[^9-1]
+
+L’estradizione non sarà consentita quando l’individuo reclamato è stato definitivamente giudicato dalle autorità competenti della Parte richiesta per i fatti che motivano la domanda. Essa potrà essere rifiutata se le autorità competenti della Parte richiesta hanno deciso di non aprire un perseguimento penale o di chiuderne uno già avviato per gli stessi fatti.
+
+[^9-1]: Per gli Stati partecipanti al Prot. add. del 15 ott. 1975 vedi nondimeno l’art. 2 di detto Prot. ([RS 0.353.11](https://fedlex.data.admin.ch/eli/cc/1985/719_719_719)).
+
+#### Art. 10
+
+**Prescrizione**[^10-1]
+
+L’estradizione non sarà consentita se la prescrizione dell’azione o della pena è acquisita secondo la legislazione della Parte richiedente o della Parte richiesta.
+
+[^10-1]: Per gli Stati partecipanti al Quarto Prot. add. del 20 sett. 2012 vedi anche l’art. 1 di detto Prot. ([RS 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
+
+#### Art. 11
+
+**Pena capitale**
+
+Se il fatto, per il quale l’estradizione è domandata, è punito con la pena capitale nella legge della Parte richiedente e se, per esso, tale pena non è prevista nella legislazione della Parte richiesta o non vi è generalmente eseguita, l’estradizione potrà essere consentita solo alla condizione che la Parte richiedente dia garanzie, ritenute sufficienti dalla Parte richiesta, che la pena capitale non sarà eseguita.
+
+#### Art. 12
+
+**Domanda e atti a sostegno**[^12-1]
+
+1.[^12-2] La domanda sarà espressa per iscritto e presentata per via diplomatica. Un’altra via potrà essere convenuta mediante accordo diretto fra due o più Parti.[^12-3]
+
+<sup>2.</sup>
+
+A sostegno della domanda sarà prodotto:
+
+- a. l’originale o la copia autentica di una decisione esecutiva di condanna o di un mandato di arresto o di qualsiasi altro atto avente la stessa forza, rilasciato nelle forme prescritte nella legge dalla Parte richiedente;
+- b. un esposto dei fatti, per i quali l’estradizione è domandata. Il tempo e il luogo del loro compimento, la loro qualificazione legale e il riferimento alle disposizioni legali loro applicabili saranno indicate il più esattamente possibile;
+- c. una copia delle disposizioni legali applicabili o, se ciò fosse impossibile, una dichiarazione sul diritto applicabile, come anche il segnalamento il più preciso possibile dell’individuo reclamato e qualsiasi altra informazione atta a determinare la sua identità e la sua cittadinanza.
+
+[^12-1]: Per gli Stati partecipanti al Quarto Prot. add. del 20 sett. 2012 vedi anche l’art. 2 di detto Prot. ([RS 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
+[^12-2]: [RU 2010 5753](https://fedlex.data.admin.ch/eli/oc/2010/812)
+[^12-3]: Per gli Stati partecipanti al Secondo Prot. add. del 17 mar. 1978 vedi anche l’art. 5 di detto Prot. ([RS 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)).
+
+#### Art. 13
+
+**Complemento d’informazioni**
+
+Se le informazioni comunicate dalla Parte richiedente si rivelano insufficienti per permettere alla Parte richiesta di prendere una decisione in applicazione della presente Convenzione, quest’ultima Parte domanderà il complemento d’informazioni necessario e potrà assegnare un termine per l’ottenimento delle stesse.
+
+#### Art. 14
+
+**Regola della specialità**[^14-1]
+
+<sup>1.</sup>
+
+L’individuo che sarà stato consegnato non sarà né perseguito né giudicato né detenuto in vista dell’esecuzione di una pena o di una misura di sicurezza né sottoposto ad altre restrizioni della sua libertà personale per un fatto qualsiasi anteriore alla consegna che non sia quello avente motivato l’estradizione, salvo nei casi seguenti:
+
+- a. se la Parte che l’ha consegnato vi acconsente. Una domanda sarà presentata a tale scopo, corredata degli atti previsti nell’articolo 12 e di un processo verbale giudiziario contenente le dichiarazioni dell’estradato. Questo consenso sarà dato quando il reato per il quale è chiesto implica l’obbligo dell’estradizione conformemente alla presente Convenzione;
+- b. se, avendo avuto la possibilità di farlo, l’individuo estradato non ha lasciato nei 45 giorni successivi alla sua liberazione definitiva, il territorio della Parte alla quale è stato rilasciato o se vi è ritornato dopo averlo lasciato.
+
+<sup>2.</sup> Tuttavia, la Parte richiedente potrà prendere le misure necessarie in vista, da un lato, di un eventuale rinvio dal territorio e, dall’altro lato, di una interruzione della prescrizione conformemente alla sua legislazione, compreso il ricorso a una procedura per contumacia.
+
+<sup>3.</sup> Se la qualificazione data al fatto incriminato è modificata nel corso della procedura, l’individuo estradato sarà perseguito e giudicato soltanto nella misura in cui gli elementi costitutivi del reato nuovamente qualificato permettono l’estradizione.
+
+[^14-1]: Per gli Stati partecipanti al Quarto Prot. add. del 20 sett. 2012 vedi anche l’art. 3 di detto Prot. ([RS 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
+
+#### Art. 15
+
+**Riestradizione a uno Stato terzo**[^15-1]
+
+Salvo nel caso previsto nel paragrafo 1, lettera b dell’articolo 14, il consenso della Parte richiesta sarà necessario per permettere alla Parte richiedente di consegnare a un’altra Parte o a uno Stato terzo l’individuo che gli sarà stato consegnato e che sarebbe ricercato dall’altra Parte o dallo Stato terzo per reati anteriori alla consegna. La Parte richiesta potrà esigere la produzione degli atti previsti nel paragrafo 2 dell’articolo 12.
+
+[^15-1]: Per gli Stati partecipanti al Quarto Prot. add. del 20 sett. 2012 vedi anche l’art. 4 di detto Prot. ([RS 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
+
+#### Art. 16
+
+**Arresto provvisorio**
+
+<sup>1.</sup> In caso d’urgenza, le autorità competenti della Parte richiedente potranno domandare l’arresto provvisorio dell’individuo ricercato; le autorità competenti della Parte richiesta statuiranno sulla domanda conformemente alla loro legge.
+
+<sup>2.</sup> La domanda d’arresto provvisorio indicherà l’esistenza di uno degli atti previsti nel paragrafo 2, lettera a dell’articolo 12 e manifesterà l’intenzione di inviare una domanda d’estradizione; essa menzionerà il reato per il quale l’estradizione sarà domandata, il tempo e il luogo ove è stato commesso e, nella misura del possibile, il segnalamento dell’individuo ricercato.
+
+<sup>3.</sup> La domanda di arresto provvisorio sarà trasmessa alle autorità competenti dalla Parte richiesta sia per via diplomatica, sia direttamente per posta o telegrafo, sia attraverso l’organizzazione internazionale di Polizia criminale (Interpol), sia per qualsiasi altro mezzo lasciante una traccia scritta o ammessa dalla Parte richiesta. L’autorità richiedente sarà informata senza indugio del seguito dato alla domanda.
+
+<sup>4.</sup> L’arresto provvisorio potrà cessare, se, entro 18 giorni dall’arresto, la Parte richiesta non dispone della domanda di estradizione e degli atti menzionati nell’articolo 12; esso non potrà, in alcun caso, superare 40 giorni dal momento dell’arresto. Tuttavia, la liberazione provvisoria è sempre possibile, in quanto la Parte richiesta prenda tutte le misure da essa ritenute necessarie per evitare la fuga dell’individuo richiesto.
+
+<sup>5.</sup> La liberazione provvisoria non impedisce un nuovo arresto né l’estradizione, se la domanda di estradizione perviene ulteriormente.
+
+#### Art. 17
+
+**Concorso di domande**
+
+Se l’estradizione è domandata nel contempo da parecchi Stati, sia per lo stesso fatto, sia per fatti differenti, la Parte richiesta statuirà, tenuto conto di tutte le circostanze e soprattutto della gravità relativa e del luogo dei reati, delle date rispettive delle domande, della cittadinanza dell’individuo richiesto e della possibilità di una ulteriore estradizione a un altro Stato.
+
+#### Art. 18
+
+**Consegna dell’estradato**
+
+<sup>1.</sup> La Parte richiesta comunicherà alla Parte richiedente, per la via prevista nel paragrafo 1 dell’articolo 12, la sua decisione sull’estradizione.
+
+<sup>2.</sup> Qualsiasi rifiuto completo o parziale sarà motivato.
+
+<sup>3.</sup> Nel caso di consenso, la Parte richiedente sarà informata del luogo e della data di consegna e della durata della detenzione subita in vista della estradizione dall’individuo richiesto.
+
+<sup>4.</sup> Riservato il caso previsto nel paragrafo 5 del presente articolo, l’individuo richiesto, se non è stato ricevuto alla data stabilita, potrà essere liberato alla scadenza di un termine di 15 giorni da tale data e sarà, in ogni caso, liberato alla scadenza di un termine di 30 giorni; la Parte richiesta potrà rifiutare di estradarlo per lo stesso fatto.
+
+<sup>5.</sup> Nel caso di forza maggiore che impedisca la consegna o il ricevimento dell’individuo da estradare, la Parte interessata ne informerà l’altra; ambedue si intenderanno su una nuova data di consegna e le disposizioni del paragrafo 4 del presente articolo saranno applicabili.
+
+#### Art. 19
+
+**Consegna rinviata o condizionale**
+
+<sup>1.</sup> La Parte richiesta potrà, dopo avere statuito nella domanda di estradizione, rinviare la consegna dell’individuo richiesto, affinché possa essere perseguito da essa o, se è già stato condannato, affinché possa subire sul suo territorio una pena incorsa per un fatto altro di quello per il quale l’estradizione è domandata.
+
+<sup>2.</sup> Invece di rinviare la consegna, la Parte richiesta potrà rimettere temporaneamente alla Parte richiedente l’individuo richiesto, alle condizioni da determinare di comune intesa fra le Parti.
+
+#### Art. 20
+
+**Consegna di oggetti**
+
+<sup>1.</sup>
+
+A domanda della Parte richiedente, la Parte richiesta sequestrerà e rimetterà, nella misura consentita dalla sua legislazione, gli oggetti:
+
+- a. che possono servire da mezzi di prova; o
+- b. che, provenendo dal reato, sono stati trovati al momento dell’arresto in possesso dell’individuo richiesto o sono scoperti ulteriormente.
+
+<sup>2.</sup> La consegna degli oggetti indicati nel paragrafo 1 del presente articolo sarà effettuata anche qualora l’estradizione già accordata non potesse aver luogo in seguito alla morte o all’evasione dell’individuo richiesto.
+
+<sup>3.</sup> Se i detti oggetti sono suscettibili di sequestro o di confisca sul territorio della Parte richiesta, questa potrà, ai fini di una procedura penale in corso, custodirli temporaneamente o rimetterla sotto condizione di restituzione.
+
+<sup>4.</sup> Sono, tuttavia, riservati i diritti che la Parte richiesta o terzi avrebbero acquisito su questi oggetti. Se vi sono di tali diritti, gli oggetti, terminato il processo, saranno restituiti il più presto possibile e senza spese alla Parte richiesta.
+
+#### Art. 21
+
+**Transito**[^21-1]
+
+<sup>1.</sup> Il transito attraverso il territorio di una delle Parti contraenti sarà consentito, su domanda trasmessa per la via prevista nel paragrafo 1 dell’articolo 12, alla condizione che non si tratti di un reato considerato dalla Parte richiesta del transito come rivestente natura politica o puramente militare nel senso degli articoli 3 e 4 della presente Convenzione.
+
+<sup>2.</sup> Il transito d’un cittadino, nel senso dell’articolo 6, del paese richiesto del transito potrà essere rifiutato.
+
+<sup>3.</sup> Riservate le disposizioni del paragrafo 4 del presente articolo, la produzione degli atti previsti nel paragrafo 2 dell’articolo 12 sarà necessaria.
+
+<sup>4.</sup>
+
+Qualora fosse usata la via aerea, saranno applicate le disposizioni seguenti:
+
+- a. se nessun atterraggio è previsto, la Parte richiedente avvertirà la Parte, di cui sarà sorvolato il territorio, e attesterà l’esistenza di uno degli atti previsti nel paragrafo 2, lettera a dell’articolo 12. Nel caso d’atterraggio fortuito, la notificazione conseguirà gli stessi effetti della domanda d’arresto provvisorio nel senso dell’articolo 16 e la Parte richiedente trasmetterà una domanda regolare di transito;
+- b. se un atterraggio è previsto, la Parte richiedente trasmetterà una domanda regolare di transito.
+
+<sup>5.</sup> Tuttavia, una Parte potrà dichiarare, al momento della firma della presente Convenzione o del deposito del suo strumento di ratificazione o di adesione, che essa accorderà il transito di un individuo soltanto alle stesse condizioni che per l’estradizione o a talune di esse. In questi casi, la regola della reciprocità potrà essere applicata.
+
+<sup>6.</sup> L’individuo richiesto non sarà estradato attraverso un territorio, nel quale vi sarebbe ragione per ritenere che la sua vita o la sua libertà può essere minacciata per motivo della sua razza, religione o cittadinanza o delle sue opinioni politiche.
+
+[^21-1]: Per gli Stati partecipanti al Quarto Prot. add. del 20 sett. 2012 vedi anche l’art. 5 di detto Prot. ([RS 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
+
+#### Art. 22
+
+**Procedura**
+
+Salvo disposizione contraria della presente Convenzione, la legge della Parte richiesta è la sola applicabile alla procedura dell’estradizione e a quella dell’arresto provvisorio.
+
+#### Art. 23
+
+**Lingue da usare**
+
+Gli atti da produrre saranno redatti nella lingua della Parte richiedente o della Parte richiesta. Questa potrà esigere la traduzione in una lingua ufficiale del Consiglio d’Europa da essa scelta.
+
+#### Art. 24
+
+**Spese**
+
+<sup>1.</sup> Le spese cagionate dall’estradizione nel territorio della Parte richiesta saranno a carico di questa Parte.
+
+<sup>2.</sup> Le spese cagionate dal transito attraverso il territorio della Parte richiesta del transito saranno a carico della Parte richiedente.
+
+<sup>3.</sup> Nel caso di estradizione in provenienza da un territorio non metropolitano della Parte richiesta, le spese cagionate dal trasporto fra questo territorio e il territorio metropolitano della Parte richiedente saranno a carico di quest’ultima. La stessa regola vale per le spese cagionate dal trasporto fra il territorio non metropolitano della Parte richiesta e il territorio metropolitano della medesima.
+
+#### Art. 25
+
+**Definizione di «misure di sicurezza»**
+
+Nel senso della presente Convenzione, l’espressione «misure di sicurezza» designa qualsiasi misura privativa di libertà che sia stata ordinata a complemento o in sostituzione di una pena, mediante sentenza di una giurisdizione penale.
+
+#### Art. 26
+
+**Riserve**
+
+<sup>1.</sup> Qualsiasi Parte contraente potrà, al momento della firma della presente Convenzione o del deposito del suo strumento di ratificazione o di adesione, esprimere una riserva su una o più determinate disposizioni della Convenzione.
+
+<sup>2.</sup> Qualsiasi Parte contraente che avesse espresso una riserva la ritirerà non appena le circostanze lo permetteranno. Il ritiro avverrà mediante notificazione al Segretario Generale del Consiglio d’Europa.
+
+<sup>3.</sup> Una Parte contraente che avesse espresso una riserva su una disposizione della Convenzione potrà pretendere l’applicazione della stessa disposizione da un’altra Parte soltanto nella misura in cui essa l’ha accettata.
+
+#### Art. 27
+
+**Campo di applicazione territoriale**
+
+<sup>1.</sup> La presente Convenzione si applicherà ai territori metropolitani delle Parti contraenti.
+
+<sup>2.</sup> Essa è parimente applicabile, per quanto concerne la Francia, all’Algeria[^27-1] e ai dipartimenti d’oltremare, e per quanto concerne il Regno Unito di Gran Bretagna e dell’Irlanda del nord, alle isole del canale e all’isola di Man.
+
+<sup>3.</sup> La Repubblica Federale di Germania potrà estendere l’applicazione della presente Convenzione al Land di Berlino mediante una dichiarazione trasmessa al Segretario Generale del Consiglio d’Europa. Questo la notificherà alle altre Parti.
+
+<sup>4.</sup> Mediante accordo diretto fra due o più Parti Contraenti, il campo di applicazione della presente Convenzione potrà essere esteso, alle condizioni stipulate in tale accordo, a qualsiasi territorio di una di queste Parti altro che quelli indicati nei paragrafi 1, 2 e 3 del presente articolo e di cui una delle Parti assicura le relazioni internazionali. [^27-2] [^27-3]
+
+[^27-1]: L’Algeria è ora uno Stato indipendente.
+[^27-2]: Vedi anche lo Scambio di note del 24 feb./11 mar. 1993 fra la Svizzera e la Francia sull’applicazione della Conv. europea di estradizione del 13 dic. 1957 ai Territori francesi d’oltremare, della Polinesia francese, della Nuova Caledonia e di Wallis e Futuna, come anche alle collettività territoriali di Mayotte e Saint Pierre e Miquelon ([RS 0.353.934.93](https://fedlex.data.admin.ch/eli/cc/1993/2440_2440_2440)). Vedi anche lo scambio di note alla fine del presente testo.
+[^27-3]: Vedi anche lo scambio di lettere del 9/26 gen. 1996 tra la Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord concernente l’estensione del campo di applicazione della Conv. europea di estradizione del 13 dic. 1957 a un certo numero di territori per i quali il Regno Unito assicura le relazioni internazionali ([RS 0.353.936.78](https://fedlex.data.admin.ch/eli/cc/1998/2042_2042_2042)).Vedi anche lo scambio di note alla fine del presente testo.
+
+#### Art. 28
+
+**Relazioni fra la presente Convenzione e gli accordi bilaterali**
+
+<sup>1.</sup> La presente Convenzione abroga, per quanto concerne i territori cui è applicabile, quelle disposizioni dei trattati, convenzioni o accordi bilaterali, che, fra due Parti Contraenti, reggono la materia dell’estradizione.
+
+<sup>2.</sup> Le Parti Contraenti potranno concludere fra esse accordi bilaterali o multilaterali soltanto per completare le disposizioni della presente Convenzione o per agevolare l’applicazione dei principi contenuti in essa.
+
+<sup>3.</sup> Se, fra due o più Parti Contraenti, l’estradizione è praticata sulla base di una legislazione uniforme, le Parti avranno la facoltà di disciplinare i loro rapporti reciproci in materia d’estradizione fondandosi esclusivamente su questo sistema, nonostante le disposizioni della presente Convenzione. Lo stesso principio sarà applicabile fra due o più Parti Contraenti, di cui ciascuna ha in vigore una legge che prevede l’esecuzione sul suo territorio dei mandati di arresto emessi sul territorio dell’altra o delle altre Parti. Le Parti Contraenti che escludono o escluderanno dai loro rapporti reciproci l’applicazione della presente Convenzione conformemente alle disposizioni di questo paragrafo, dovranno, a questo scopo, fare una notificazione al Segretario Generale del Consiglio d’Europa. Questi comunicherà alle altre Parti Contraenti qualsiasi ratificazione ricevuta in virtù del presente paragrafo.
+
+#### Art. 29
+
+**Firma, ratificazione, entrata in vigore**
+
+<sup>1.</sup> La presente Convenzione resterà aperta alla firma dei Membri del Consiglio d’Europa. Essa sarà ratificata e gli strumenti di ratificazione saranno depositati presso il Segretario Generale del Consiglio.
+
+<sup>2.</sup> La Convenzione entrerà in vigore 90 giorni dopo la data del deposito del terzo strumento di ratificazione.
+
+<sup>3.</sup> Essa entrerà in vigore, rispetto a qualsiasi firmatario che la ratificherà ulteriormente, 90 giorni dopo il deposito del suo strumento di ratificazione.
+
+#### Art. 30
+
+**Adesione**
+
+<sup>1.</sup> Il Comitato dei Ministri del Consiglio d’Europa potrà invitare qualsiasi Stato non Membro del Consiglio ad aderire alla presente Convenzione. La risoluzione concernente l’invito soggiace all’accordo unanime dei Membri del Consiglio avente ratificato la Convenzione.
+
+<sup>2.</sup> L’adesione avverrà mediante il deposito, presso il Segretario Generale del Consiglio, di uno strumento di adesione, che esplicherà effetto 90 giorni dopo il suo deposito.
+
+#### Art. 31
+
+**Disdetta**
+
+Qualsiasi Parte Contraente potrà, per quanto la concerne, disdire la presente Convenzione mediante una notificazione al Segretario Generale del Consiglio d’Europa. La disdetta esplicherà effetto sei mesi dopo la data di ricevimento della sua notificazione da parte del Segretario Generale del Consiglio.
+
+#### Art. 32
+
+**Notificazioni**
+
+Il Segretario Generale del Consiglio d’Europa notificherà ai membri del Consiglio e al governo di ciascun Stato avente aderito alla presente Convenzione:
+
+- a. il deposito di qualsiasi strumento di ratificazione o di adesione;
+- b. la data dell’entrata in vigore;
+- c. qualsiasi dichiarazione fatta in applicazione delle disposizioni del paragrafo 1 dell’articolo 6, del paragrafo 5 dell’articolo 21;
+- d. qualsiasi riserva espressa in applicazione delle disposizioni del paragrafo 1 dell’articolo 26;
+- e. il ritiro di qualsiasi riserva effettuato in applicazione delle disposizioni del paragrafo 2 dell’articolo 26;
+- f. qualsiasi notificazione di disdetta ricevuta in applicazione delle disposizioni dell’articolo 31 della presente Convenzione e la data alla quale esplicherà effetto.
+
+*In fede di che*, i sottoscritti, debitamente autorizzati a questo scopo, hanno firmato la presente Convenzione. Fatto a Parigi, il 13 dicembre 1957, in francese e in inglese, i due testi facendo ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio ne invierà copia certificata conforme ai governi firmatari. (Seguono le firme)
+
+Campo d’applicazione il 13 maggio 2013**[^t-3]**
+
+<table>
+<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td colspan="2">Albania<sup>\*</sup></td><td>19 maggio</td><td>1998</td><td>17 agosto</td><td>1998</td></tr>
+<tr><td colspan="2">Andorra<sup>\*</sup></td><td>13 ottobre</td><td>2000</td><td>11 gennaio</td><td>2001</td></tr>
+<tr><td colspan="2">Armenia<sup>\*</sup></td><td>25 gennaio</td><td>2002</td><td>25 aprile</td><td>2002</td></tr>
+<tr><td colspan="2">Austria<sup>\* \*\*</sup> <sup>a</sup></td><td>21 maggio</td><td>1969</td><td>19 agosto</td><td>1969</td></tr>
+<tr><td colspan="2">Azerbaigian<sup>\*</sup></td><td>28 giugno</td><td>2002</td><td>26 settembre</td><td>2002</td></tr>
+<tr><td colspan="2">Belgio<sup>\*</sup> <sup>a</sup></td><td>29 agosto</td><td>1997</td><td>27 novembre</td><td>1997</td></tr>
+<tr><td colspan="2">Bosnia e Erzegovina</td><td>25 aprile</td><td>2005</td><td>24 luglio</td><td>2005</td></tr>
+<tr><td colspan="2">Bulgaria<sup>\*</sup></td><td>17 giugno</td><td>1994</td><td>14 settembre</td><td>1994</td></tr>
+<tr><td colspan="2">Ceca, Repubblica<sup>\*</sup> <sup>a</sup></td><td>15 aprile</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Cipro<sup>\*</sup> <sup>a</sup></td><td>22 gennaio</td><td>1971</td><td>22 aprile</td><td>1971</td></tr>
+<tr><td colspan="2">Corea (Sud)<sup>\*</sup></td><td>29 settembre</td><td>2011 A</td><td>29 dicembre</td><td>2011</td></tr>
+<tr><td colspan="2">Croazia<sup>\*</sup></td><td>25 gennaio</td><td>1995 A</td><td>25 aprile</td><td>1995</td></tr>
+<tr><td colspan="2">Danimarca<sup>\*</sup> <sup>a</sup></td><td>13 settembre</td><td>1962</td><td>12 dicembre</td><td>1962</td></tr>
+<tr><td colspan="2">Estonia<sup>\*</sup></td><td>28 aprile</td><td>1997</td><td>27 luglio</td><td>1997</td></tr>
+<tr><td colspan="2">Finlandia<sup>\*</sup> <sup>a</sup></td><td>12 maggio</td><td>1971 A</td><td>10 agosto</td><td>1971</td></tr>
+<tr><td colspan="2">Francia<sup>\*</sup> <sup>a</sup></td><td>10 febbraio</td><td>1986</td><td>11 maggio</td><td>1986</td></tr>
+<tr><td colspan="2">Georgia<sup>\*</sup></td><td>15 giugno</td><td>2001</td><td>13 settembre</td><td>2001</td></tr>
+<tr><td colspan="2">Germania<sup>\* \*\*</sup> <sup>a</sup></td><td>2 ottobre</td><td>1976</td><td>1° gennaio</td><td>1977</td></tr>
+<tr><td colspan="2">Grecia<sup>\*</sup> <sup>a</sup></td><td>29 maggio</td><td>1961</td><td>27 agosto</td><td>1961</td></tr>
+<tr><td colspan="2">Irlanda<sup>\*</sup> <sup>a</sup></td><td>2 maggio</td><td>1966</td><td>31 luglio</td><td>1966</td></tr>
+<tr><td colspan="2">Islanda<sup>\*</sup></td><td>20 giugno</td><td>1984</td><td>18 settembre</td><td>1984</td></tr>
+<tr><td colspan="2">Israele<sup>\*</sup></td><td>27 settembre</td><td>1967</td><td>26 dicembre</td><td>1967</td></tr>
+<tr><td colspan="2">Italia<sup>\*</sup> <sup>a</sup></td><td>6 agosto</td><td>1963</td><td>4 novembre</td><td>1963</td></tr>
+<tr><td colspan="2">Lettonia<sup>\*</sup> <sup>a</sup></td><td>2 maggio</td><td>1997</td><td>31 luglio</td><td>1997</td></tr>
+<tr><td colspan="2">Liechtenstein<sup>\*</sup></td><td>28 ottobre</td><td>1969 A</td><td>26 gennaio</td><td>1970</td></tr>
+<tr><td colspan="2">Lituania<sup>\*</sup> <sup>a</sup></td><td>20 giugno</td><td>1995</td><td>18 settembre</td><td>1995</td></tr>
+<tr><td colspan="2">Lussemburgo<sup>\*</sup> <sup>a</sup></td><td>18 novembre</td><td>1976</td><td>16 febbraio</td><td>1977</td></tr>
+<tr><td colspan="2">Macedonia<sup>\*</sup></td><td>28 luglio</td><td>1999</td><td>26 ottobre</td><td>1999</td></tr>
+<tr><td colspan="2">Malta<sup>\*</sup> <sup>a</sup></td><td>19 marzo</td><td>1996</td><td>17 giugno</td><td>1996</td></tr>
+<tr><td colspan="2">Moldova<sup>\*</sup></td><td>2 ottobre</td><td>1997</td><td>31 dicembre</td><td>1997</td></tr>
+<tr><td colspan="2">Monaco<sup>\*</sup></td><td>30 gennaio</td><td>2009</td><td>1° maggio</td><td>2009</td></tr>
+<tr><td colspan="2">Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
+<tr><td colspan="2">Norvegia<sup>\*</sup></td><td>19 gennaio</td><td>1960</td><td>18 aprile</td><td>1960</td></tr>
+<tr><td colspan="2">Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>14 febbraio</td><td>1969</td><td>15 maggio</td><td>1969</td></tr>
+<tr><td colspan="2">Aruba</td><td>14 febbraio</td><td>1969</td><td>15 maggio</td><td>1969</td></tr>
+<tr><td colspan="2">Curaçao</td><td>14 febbraio</td><td>1969</td><td>15 maggio</td><td>1969</td></tr>
+<tr><td colspan="2">Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>14 febbraio</td><td>1969</td><td>15 maggio</td><td>1969</td></tr>
+<tr><td colspan="2">Sint Maarten</td><td>14 febbraio</td><td>1969</td><td>15 maggio</td><td>1969</td></tr>
+<tr><td colspan="2">Polonia<sup>\*</sup> <sup>a</sup></td><td>15 giugno</td><td>1993</td><td>13 settembre</td><td>1993</td></tr>
+<tr><td colspan="2">Portogallo<sup>\*</sup> <sup>a</sup></td><td>25 gennaio</td><td>1990</td><td>25 aprile</td><td>1990</td></tr>
+<tr><td colspan="2">Regno Unito<sup>\*</sup></td><td>13 febbraio</td><td>1991</td><td>14 maggio</td><td>1991</td></tr>
+<tr><td colspan="2">Isola di Man</td><td>13 febbraio</td><td>1991</td><td>14 maggio</td><td>1991</td></tr>
+<tr><td colspan="2">Isole del Canale</td><td>13 febbraio</td><td>1991</td><td>14 maggio</td><td>1991</td></tr>
+<tr><td colspan="2">Romania<sup>\*</sup></td><td>10 settembre</td><td>1997</td><td>9 dicembre</td><td>1997</td></tr>
+<tr><td colspan="2">Russia<sup>\* \*\*</sup></td><td>10 dicembre</td><td>1999</td><td>9 marzo</td><td>2000</td></tr>
+<tr><td colspan="2">San Marino<sup>\*</sup></td><td>18 marzo</td><td>2009</td><td>16 giugno</td><td>2009</td></tr>
+<tr><td colspan="2">Serbia<sup>\*</sup></td><td>30 settembre</td><td>2002 A</td><td>29 dicembre</td><td>2002</td></tr>
+<tr><td colspan="2">Slovacchia<sup>\*</sup> <sup>a</sup></td><td>15 aprile</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td colspan="2">Slovenia<sup>\*</sup> <sup>a</sup></td><td>16 febbraio</td><td>1995</td><td>17 maggio</td><td>1995</td></tr>
+<tr><td colspan="2">Spagna<sup>\*</sup> <sup>a</sup></td><td>7 maggio</td><td>1982</td><td>5 agosto</td><td>1982</td></tr>
+<tr><td colspan="2">Sudafrica<sup>\*</sup></td><td>12 febbraio</td><td>2003 A</td><td>13 maggio</td><td>2003</td></tr>
+<tr><td colspan="2">Svezia<sup>\*</sup> <sup>a</sup></td><td>22 gennaio</td><td>1959</td><td>18 aprile</td><td>1960</td></tr>
+<tr><td colspan="2">Svizzera<sup>\*</sup></td><td>20 dicembre</td><td>1966</td><td>20 marzo</td><td>1967</td></tr>
+<tr><td colspan="2">Turchia<sup>\* \*\*</sup></td><td>7 gennaio</td><td>1960</td><td>18 aprile</td><td>1960</td></tr>
+<tr><td colspan="2">Ucraina<sup>\*</sup></td><td>11 marzo</td><td>1998</td><td>9 giugno</td><td>1998</td></tr>
+<tr><td colspan="2">Ungheria<sup>\*</sup> <sup>a</sup></td><td>13 luglio</td><td>1993</td><td>11 ottobre</td><td>1993</td></tr>
+<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni.</td></tr>
+<tr><td>\*\*</td><td colspan="5">Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td><sup>a</sup></td><td colspan="5">Dichiarazione in virtù dell’art. 28 par. 3. (applicazione della D quadro del 13 giu. 2002 relativa al mandato d’arresto europeo e alle procedure di estradizione tra gli Stati membri del UE).</td></tr>
+</table>
+
+[^t-3]: [RU 1967 850](https://fedlex.data.admin.ch/eli/oc/1967/814_854_850)[1154](https://fedlex.data.admin.ch/eli/oc/1967/1120_1160_1154), [1968 1445](https://fedlex.data.admin.ch/eli/oc/1968/1476_1524_1445), [1970 105](https://fedlex.data.admin.ch/eli/oc/1970/101_105_105), [1971 1351](https://fedlex.data.admin.ch/eli/oc/1971/1356_1351_1351),[1977 911](https://fedlex.data.admin.ch/eli/oc/1977/911_911_911)[1657](https://fedlex.data.admin.ch/eli/oc/1977/1657_1657_1657), [1982 889](https://fedlex.data.admin.ch/eli/oc/1982/889_889_889)[2263](https://fedlex.data.admin.ch/eli/oc/1982/2263_2263_2263), [1983 165](https://fedlex.data.admin.ch/eli/oc/1983/165_165_165), [1985 492](https://fedlex.data.admin.ch/eli/oc/1985/492_492_492), [1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)[338](https://fedlex.data.admin.ch/eli/oc/1986/338_338_338)[921](https://fedlex.data.admin.ch/eli/oc/1986/921_921_921),[1989 175](https://fedlex.data.admin.ch/eli/oc/1989/175_175_175), [1990 1171](https://fedlex.data.admin.ch/eli/oc/1990/1171_1171_1171), [1991 1367](https://fedlex.data.admin.ch/eli/oc/1991/1367_1367_1367), [1995 1117](https://fedlex.data.admin.ch/eli/oc/1995/1117_1117_1117)1118, [2004 3949](https://fedlex.data.admin.ch/eli/oc/2004/563), [2007 1383](https://fedlex.data.admin.ch/eli/oc/2007/235)e [2013 1481](https://fedlex.data.admin.ch/eli/oc/2013/346). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+
+Riserve e dichiarazioni
+
+Svizzera**[^t-4]**
+
+*Riserve*
+
+*Articolo 1.* Il Consiglio federale svizzero dichiara che qualsiasi estradizione accordata dalla Svizzera soggiace alla condizione che il prevenuto non sia deferito a un tribunale d’eccezione. Di conseguenza, esso si riserva il diritto di rifiutare l’estradizione:
+
+- a. se vi è la possibilità che il prevenuto, in caso di estradizione, sia deferito a un tribunale di eccezione e se lo Stato richiedente non dia assicurazioni, ritenute sufficienti, che la sentenza sarà pronunciata da un tribunale, al quale le prescrizioni d’organizzazione giudiziaria attribuiscono in modo generale la competenza di pronunciarsi in materia penale;
+- b. se l’estradizione deve servire all’esecuzione di una pena pronunciata da un tribunale di eccezione.
+
+*Articolo 2 paragrafo 2.* Il Consiglio federale dichiara che, se una estradizione è o è stata accordata per un reato passibile d’estradizione secondo il diritto svizzero, la Svizzera può estenderne gli effetti a qualsiasi altro fatto punibile secondo una disposizione di diritto comune della legislazione svizzera.
+
+*Articolo 3 paragrafo 3.* In derogazione all’articolo 3, paragrafo 3, della convenzione, la Svizzera si riserva il diritto di rifiutare anche l’estradizione fondandosi sull’articolo 3, paragrafo 1, quando la stessa è domandata per attentato alla vita di un capo di Stato o di un membro della sua famiglia.
+
+Ad articolo 6
+
+Il Consiglio federale svizzero dichiara che il diritto svizzero autorizza l’estradizione di cittadini svizzeri soltanto alle condizioni restrittive previste nell’articolo 7 della legge federale del 20 marzo 1981[^t-5] sull’assistenza internazionale in materia penale. I reati commessi fuori della Svizzera e repressi secondo la legge svizzera come crimini o delitti possono essere perseguiti e giudicati dalle autorità svizzere se le condizioni legali sono adempiute:
+
+- – quando essi sono stati commessi contro uno svizzero (art. 5 del Codice penale svizzero[^t-6];
+- – quando, secondo il diritto svizzero, essi potrebbero dar luogo a estradizione e sono stati commessi da uno svizzero (art. 6[^t-7] del CP);
+- – quando essi sono stati commessi a bordo di una nave svizzera o di un aeromobile svizzero (art. 4 della LF del 23 set. 1953[^t-8] sulla navigazione marittima sotto bandiera svizzera; art. 97 della LF del 21 dic. 1948[^t-9] sulla navigazione aerea);
+- – quando speciali disposizioni legali lo prevedano per certi reati (art. 202[^t-10] e 240 del CP; art. 19 della LF del 3 ott. 1951[^t-11] sugli stupefacenti; art. 101 della LF del 19 dic. 1958[^t-12] sulla circolazione stradale; art. 16 della LF del 14 mar. 1958[^t-13] su la responsabilità della Confederazione, dei membri delle autorità federali e dei funzionari federali; art. 12 della LF del 26 set. 1958[^t-14] concernente la garanzia dei rischi delle esportazioni).
+
+Conformemente alla legge del 20 marzo 1981[^t-15] sull’assistenza internazionale in materia penale, altri reati commessi all’estero da uno svizzero possono essere repressi in Svizzera a domanda dello Stato in cui essi sono stati commessi, qualora la persona perseguita si trovi in Svizzera e debba quivi rispondere di infrazioni più gravi e la sua assoluzione o l’esecuzione penale in Svizzera escluda il suo ulteriore perseguimento per lo stesso atto nello Stato richiedente.
+
+*Articolo 9*
+
+- a. La Svizzera si riserva il diritto di rifiutare parimente l’estradizione, in derogazione all’articolo 9, se le decisioni motivanti il rifiuto dell’estradizione in virtù di tale articolo sono state pronunciate in uno Stato terzo sul cui territorio il reato è stato commesso.
+- b. La Svizzera si riserva, inoltre, di consentire l’estradizione, contrariamente all’articolo 9, primo periodo, della convenzione, se essa l’ha consentita per altri reati e lo Stato richiedente ha dimostrato che fatti o mezzi di prova nuovi venuti a sua conoscenza giustificano una revisione della decisione motivante il rifiuto dell’estradizione secondo il detto articolo o se la persona ricercata non ha subìto tutta o parte della pena o della misura pronunciata contro di essa mediante tale decisione.
+
+*Articolo 11.* La Svizzera si riserva il diritto di applicare l’articolo 11, per analogia, anche nei casi in cui il diritto della parte richiedente preveda che il prevenuto può, per il fatto che dà luogo all’estradizione, essere tenuto a subire una pena che colpisce la sua integrità corporale o essere sottoposto contro la sua volontà a una misura di questo genere.
+
+*Articolo 14, paragrafo 1 lettera b.* Il Consiglio federale svizzero dichiara che le autorità svizzere considerano la liberazione come definitiva nel senso dell’articolo 14 della convenzione, se essa permette alla persona estradata di circolare liberamente senza violare le regole di condotta e le altre condizioni imposte dall’autorità competente. Secondo le autorità svizzere, l’estradato è sempre ritenuto avere la possibilità di lasciare il territorio di uno Stato nel senso di questa disposizione, quando né una malattia né qualsiasi altra limitazione reale della sua libertà di movimento non lo impediscono di fatto di andarsene.
+
+*Articolo 16, paragrafo 2.* La Svizzera chiede che qualsiasi domanda trasmessale secondo l’articolo 16, paragrafo 2, contenga una breve descrizione dei fatti messi a carico della persona ricercata, comprese le indicazioni essenziali permettenti di valutare la natura del reato dal profilo del diritto di estradizione.
+
+*Articolo 21.* La Svizzera si riserva il diritto di non autorizzare il transito neppure se il fatto messo a carico della persona ricercata è comprensivo dell’articolo 5 della convenzione o costituisce una violazione di prescrizioni limitanti il commercio di merci o istituenti un ordinamento del mercato.
+
+*Articolo 23.* La Svizzera chiede che le domande in materia di estradizione trasmesse alle sue autorità e i loro allegati siano corredati di una traduzione in lingua tedesca, francese o italiana, se esse non sono redatte in una di queste lingue.
+
+*Dichiarazione*
+
+Il 21 agosto 1991 la Svizzera ha notificato al Segretario generale quanto segue:
+
+In riferimento alla riserva formulata dal Portogallo nei confronti dell’articolo 1 della Convenzione europea di estradizione (lettera c), la Svizzera aderisce alla dichiarazione fatta dalla Germania il 4 febbraio 1991 ad essa relativa, nonché alla dichiarazione fatta dall’Austria il 4 giugno 1991.
+
+La citata riserva è compatibile con il senso e lo scopo della Convenzione soltanto se essa non si oppone senza distinzione all’estradizione in tutti i casi in cui può essere comminata una pena di carcerazione perpetua o ordinata una misura di sicurezza. La Svizzera comprende parimenti la riserva nel senso che l’estradizione sarà rifiutata soltanto se, conformemente al diritto dello Stato richiedente, la persona condannata a una pena di carcerazione perpetua non dispone di alcun mezzo che le permetta di ottenere, dopo aver scontato una parte determinata della pena o della misura, l’esame del condono da parte di un tribunale in caso di buona condotta durante il resto della pena. Entrata in vigore: 22 agosto 1991.
+
+Estensione della Convenzione
+
+[^t-4]: Art. 2 del DF del 27 set. 1966 ([RU 1967 839](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)), art. 1 del DF del 21 giu. 1979 ([RU 1982 889](https://fedlex.data.admin.ch/eli/oc/1982/889_889_889)), e [RU 1983 165](https://fedlex.data.admin.ch/eli/oc/1983/165_165_165), [2004 3949](https://fedlex.data.admin.ch/eli/oc/2004/563).
+[^t-5]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^t-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Vedi ora l’art. 7.
+[^t-7]: Ora: l’art. 7.
+[^t-8]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^t-9]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^t-10]: Ora: l’art. 196.
+[^t-11]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^t-12]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^t-13]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^t-14]: [RS 946.11](https://fedlex.data.admin.ch/eli/cc/2009/192)
+[^t-15]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+
+Accordo previsto all’articolo 27 paragrafo 4 della Convenzione, relativo all’estensione della Convenzione alle Antille olandesi e ad Aruba
+
+L’accordo è stato concluso con scambio di note tra i Paesi Bassi [^t-16]<sup>©La\_dichiar®</sup> ed i seguenti Stati:
+
+<table>
+<tr><td>Stati</td><td colspan="2">Scambio di note del</td><td colspan="2">Entrata in vigore</td></tr>
+<tr><td>Cipro</td><td>3 agosto 1993/3 marzo</td><td>1994</td><td>1° giugno</td><td>1994</td></tr>
+<tr><td>Danimarca</td><td>20 gennaio/4 febbraio</td><td>1994</td><td>1° maggio</td><td>1994</td></tr>
+<tr><td>Francia</td><td>30 luglio/2 dicembre</td><td>1993</td><td>1° marzo</td><td>1994</td></tr>
+<tr><td>Italia</td><td>8 giugno/21 dicembre</td><td>1993</td><td>30 dicembre</td><td>1993</td></tr>
+<tr><td>Liechtenstein</td><td>30 giugno/29 settembre</td><td>1993</td><td>1° dicembre</td><td>1993</td></tr>
+<tr><td>Lussemburgo</td><td>20 settembre/22 novembre</td><td>1993</td><td>1° febbraio</td><td>1994</td></tr>
+<tr><td>Norvegia</td><td>26 gennaio/18 febbraio</td><td>1994</td><td>1° maggio</td><td>1994</td></tr>
+<tr><td>Svezia</td><td>8/29 luglio</td><td>1992</td><td>1° ottobre</td><td>1993</td></tr>
+<tr><td>Svizzera</td><td>20/28 ottobre</td><td>1993</td><td>1° gennaio</td><td>1994</td></tr>
+<tr><td>Turchia</td><td>19 gennaio/3 febbraio</td><td>1994</td><td>1° maggio</td><td>1994</td></tr>
+</table>
+
+[^t-16]: La dichiarazione fatta dai Paesi Bassi relativa agli art. 6 e 21 della Conv. ([RU 1989 175](https://fedlex.data.admin.ch/eli/oc/1989/175_175_175)) si applicherà, per quanto concerne l’estradizione dei cittadini olandesi, alle Antille olandesi e ad Aruba soltanto dal momento in cui la Conv. del 21 mar. 1983 sul trasferimento dei condannati ([RS 0.343](https://fedlex.data.admin.ch/eli/cc/1988/761_761_761)) sarà applicabile sia alle Antille olandesi che ad Aruba.

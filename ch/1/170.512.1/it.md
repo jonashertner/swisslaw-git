@@ -1,0 +1,659 @@
+---
+sr: "170.512.1"
+title: "Ordinanza del 7 ottobre 2015 sulle raccolte del diritto federale e sul Foglio federale (Ordinanza sulle pubblicazioni ufficiali, OPubb)"
+short: OPubb
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/670"
+language: it
+version: 2018-01-01
+adopted: 2015-10-07
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/670/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2015-670-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulle raccolte del diritto federale e sul Foglio federale (Ordinanza sulle pubblicazioni ufficiali, OPubb)
+
+del 7 ottobre 2015 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+
+Il Consiglio federale svizzero,
+
+vista la legge del 18 giugno 2004[^ingress-1] sulle pubblicazioni ufficiali (LPubb),
+
+ordina:
+
+[^ingress-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+
+## Capitolo 1: Raccolta ufficiale delle leggi federali
+
+### Sezione 1: Contenuto
+
+#### Art. 1
+
+**Trattati internazionali che contengono norme di diritto e trattati internazionali che non ne contengono**
+
+<sup>1</sup> Contengono norme di diritto i trattati internazionali che prevedono disposizioni ai sensi dell’articolo 22 capoverso 4 della legge del 13 dicembre 2002[^1-1] sul Parlamento.
+
+<sup>2</sup>
+
+Per le seguenti categorie di trattati internazionali l’autorità competente può presumere che non contengano norme di diritto e che non autorizzino ad emanarne (art. 3 cpv. 1 lett. b LPubb):
+
+- a. accordi internazionali ai sensi dell’articolo 10 della legge federale del 19 marzo 1976[^1-2] sulla cooperazione allo sviluppo e l’aiuto umanitario internazionali, se concernono esclusivamente progetti concreti o determinati contributi;
+- b. accordi internazionali ai sensi dell’articolo 13 capoverso 2 della legge federale del 24 marzo 2006[^1-3] sulla cooperazione con gli Stati dell’Europa dell’Est;
+- c. accordi internazionali ai sensi dell’articolo 8 della legge federale del 19 dicembre 2003[^1-4] su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo;
+- d. accordi di esecuzione relativi ad accordi internazionali ai sensi dell’articolo 48*a* capoverso 1 della legge militare del 3 febbraio 1995[^1-5] (LM) sull’istruzione all’estero o con truppe straniere;
+- e. convenzioni internazionali ai sensi dell’articolo 66*b* capoverso 2 LM sull’esecuzione di impieghi di promovimento della pace;
+- f. accordi internazionali ai sensi dell’articolo 109*b* LM sulla cooperazione in materia di armamenti.
+
+[^1-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^1-2]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^1-3]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
+[^1-4]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^1-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 2
+
+**Trattati e risoluzioni internazionali di portata limitata**
+
+I trattati e le risoluzioni internazionali di portata limitata (art. 7*a* cpv. 2 e 3 della legge del 21 marzo 1997[^2-1] sull’organizzazione del Governo e dell’Amministrazione, LOGA) non sono pubblicati nella Raccolta ufficiale delle leggi federali (RU) (art. 3 cpv. 3 LPubb), tranne che:
+
+- a. concernano i diritti e gli obblighi di privati; o
+- b. la pubblicazione sia necessaria per motivi legati alla certezza del diritto o alla trasparenza.
+
+[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 3
+
+**Trattati e risoluzioni internazionali di durata di validità limitata**
+
+I trattati e le risoluzioni internazionali la cui durata di validità non supera i sei mesi sono pubblicati nella RU non appena la loro validità è prorogata oltre tale durata.
+
+#### Art. 4
+
+**Modifiche di trattati e risoluzioni internazionali**
+
+<sup>1</sup> Le modifiche di trattati e risoluzioni internazionali pubblicati nella RU sono pubblicate nella RU in ogni caso.
+
+<sup>2</sup> La pubblicazione può essere limitata alle disposizioni modificate.
+
+#### Art. 5
+
+**Campi d’applicazione dei trattati internazionali multilaterali nonché riserve, dichiarazioni, obiezioni e comunicazioni relative a questi trattati**
+
+<sup>1</sup> La prima pubblicazione di un trattato internazionale multilaterale nella RU è accompagnata dalla pubblicazione del suo campo d’applicazione. Le modifiche del campo d’applicazione sono pubblicate quando sono intervenute cinque modifiche, ma al più tardi tre anni dopo la prima modifica non pubblicata.
+
+<sup>2</sup> Le riserve, dichiarazioni e comunicazioni della Svizzera sono pubblicate nella RU.
+
+<sup>3</sup> Le riserve, dichiarazioni, obiezioni e comunicazioni di altre parti contraenti e le obiezioni della Svizzera sono soltanto menzionate nell’elenco dei campi d’applicazione. Vi è indicato il servizio presso il quale possono esserne ottenuti o consultati i testi.
+
+#### Art. 6
+
+**Allegati**
+
+Un allegato di un testo pubblicato nella RU è pubblicato in ogni caso nella RU se il testo cui appartiene vi rimanda.
+
+#### Art. 7
+
+**Comunicazioni**
+
+Nella RU sono menzionati, sotto forma di comunicazione, segnatamente:
+
+- a. i testi della RU divenuti manifestamente privi di oggetto, ma non formalmente abrogati;
+- b. le ordinanze decadute secondo l’articolo 7*c* capoverso 3 o 4 oppure secondo l’articolo 7*d* capoverso 2 o 3 LOGA[^7-1];
+- c. i testi da rimuovere dalla Raccolta sistematica del diritto federale (RS) che, non essendone obbligatoria la pubblicazione, non sono più pubblicati nella RU e non sono più aggiornati nella RS;
+- d. le denunce e le sospensioni di trattati e risoluzioni internazionali.
+
+[^7-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 8
+
+**Rettifiche formali**
+
+<sup>1</sup> La pubblicazione di rettifiche formali degli errori di cui all’articolo 10 capoverso 1 LPubb riporta il testo della disposizione da rettificare e il testo della disposizione rettificata.
+
+<sup>2</sup>
+
+Gli errori che modificano il senso secondo l’articolo 10 capoverso 1 LPubb sono segnatamente:
+
+- a. gli errori grammaticali, ortografici o di presentazione che hanno un’incidenza sul contenuto;
+- b. gli errori formali quali i rimandi sbagliati o gli errori di tecnica legislativa;
+- c. gli errori di traduzione e le divergenze terminologiche.
+
+<sup>3</sup> Gli errori possono essere oggetto di una rettifica formale soltanto se è certo che l’autorità che ha emanato l’atto ha preso la decisione sulla base del testo corretto o che l’ha presa partendo dal testo corretto.
+
+### Sezione 2: ...
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogato dal n. II dell’O del 17 mag. 2017, con effetto dal 1° lug. 2017 ([RU 2017 3275](https://fedlex.data.admin.ch/eli/oc/2017/340)).
+
+### Sezione 3: Pubblicazione ordinaria
+
+#### Art. 10
+
+**Momento della pubblicazione**
+
+<sup>1</sup> Il termine di cui all’articolo 7 capoverso 1 LPubb non comprende né il giorno della pubblicazione nella RU né quello dell’entrata in vigore.
+
+<sup>2</sup> Se l’atto normativo e i suoi effetti sono di grande portata o è necessario adottare disposizioni d’esecuzione, l’autorità competente provvede, in collaborazione con la CaF, affinché la pubblicazione abbia luogo con sufficiente anticipo.
+
+#### Art. 11
+
+**Inosservanza del termine**
+
+<sup>1</sup> Se l’autorità competente fornisce alla CaF gli atti normativi da pubblicare con un ritardo tale che il termine di cui all’articolo 7 capoverso 1 LPubb non può essere osservato, la CaF le chiede senza indugio di differire la data dell’entrata in vigore.
+
+<sup>2</sup>
+
+Se respinge la richiesta, l’autorità competente espone le ragioni del ritardo nella fornitura:
+
+- a. per gli atti normativi che vanno sottoposti al Consiglio federale: nella proposta che li correda;
+- b. per gli altri atti normativi: comunicandole per scritto alla CaF al più tardi alla firma dell’atto normativo.
+
+<sup>3</sup> Se la data dell’entrata in vigore non è differita, gli atti normativi creano obblighi giuridicamente vincolanti al più presto il giorno successivo a quello della pubblicazione nella RU.
+
+### Sezione 4: Pubblicazione urgente
+
+#### Art. 12
+
+<sup>1</sup> Se un atto normativo è pubblicato nella RU mediante procedura urgente il giorno dell’entrata in vigore, si determina anche l’ora dell’entrata in vigore. In tal caso l’atto normativo crea obblighi giuridicamente vincolanti al più presto al momento della pubblicazione.
+
+<sup>2</sup> La CaF designa come tali sulla piattaforma di pubblicazione gli atti normativi pubblicati mediante procedura urgente.
+
+### Sezione 5: Pubblicazione mediante rimando
+
+#### Art. 13
+
+**Competenza**
+
+<sup>1</sup> La pubblicazione di testi del diritto interno mediante rimando secondo l’articolo 5 capoverso 1 LPubb è ordinata dall’autorità che ha emanato il testo in questione.
+
+<sup>2</sup> La pubblicazione di trattati e risoluzioni internazionali mediante rimando secondo l’articolo 5 capoverso 1 LPubb è ordinata dall’autorità competente della Confederazione.
+
+#### Art. 14
+
+**Modalità**
+
+<sup>1</sup> Le pubblicazioni mediante rimando secondo l’articolo 5 capoverso 1 LPubb figurano nella RU in una pagina distinta.
+
+<sup>2</sup> Le pubblicazioni mediante rimando secondo l’articolo 5 capoverso 2 LPubb figurano nel corpo del testo o nelle note a piè di pagina.
+
+<sup>3</sup>
+
+L’ente presso cui possono essere ottenuti i testi di cui all’articolo 5 capoverso 2 LPubb è indicato con i seguenti elementi:
+
+- a. l’indirizzo Internet dove il testo può essere consultato o ottenuto;
+- b. l’autorità competente oppure, se del caso, altri servizi dove il testo può essere consultato gratuitamente;
+- c. l’indirizzo postale dove il testo può essere ottenuto, se il servizio in questione non dispone di un indirizzo Internet.
+
+#### Art. 15
+
+**Modifiche, rettifiche e abrogazioni**
+
+Le modifiche, rettifiche e abrogazioni dei testi pubblicati mediante rimando sono parimenti menzionate nella RU.
+
+#### Art. 16
+
+**Obblighi dell’autorità competente**
+
+<sup>1</sup>
+
+Nell’ambito della pubblicazione mediante rimando l’autorità competente deve:
+
+- a. provvedere, in caso di modifica di testi di cui all’articolo 5 capoverso 1 LPubb, affinché a partire dalla data dell’entrata in vigore della modifica siano disponibili versioni consolidate di questi testi;
+- b. fornire alla CaF i testi di cui all’articolo 5 capoverso 1 LPubb in forma elettronica e pronti per la stampa al fine di predisporre, in via eccezionale, tirature separate (art. 36);
+- c. provvedere affinché i testi di cui all’articolo 5 capoverso 2 LPubb siano disponibili, dalla data della pubblicazione del rimando nella RU, in qualsiasi momento nelle lingue ufficiali richieste e un’eventuale versione in linea sia accessibile.
+
+<sup>2</sup> L’autorità competente garantisce che il consolidamento dei testi di cui all’articolo 5 capoverso 1 LPubb sia corretto dal punto di vista del contenuto.
+
+### Sezione 6: Pubblicazione straordinaria
+
+#### Art. 17
+
+**Forme**
+
+<sup>1</sup>
+
+La pubblicazione straordinaria di un testo secondo l’articolo 7 capoverso 4 LPubb avviene segnatamente in una o più di una delle forme seguenti:
+
+- a. su una pagina Internet dell’Amministrazione federale diversa dalla piattaforma di pubblicazione;
+- b. attraverso la radio e la televisione da parte della Società svizzera di radiotelevisione e delle altre emittenti radiotelevisive concessionarie;
+- c. mediante la trasmissione alle sedi di consultazione di cui all’articolo 18 LPubb;
+- d. comunicati stampa;
+- e. circolari e altre forme di comunicazione alle persone interessate dal testo, per quanto determinabili singolarmente;
+- f. affissione pubblica;
+- g. notifica diretta in caso di applicazione immediata del testo.
+
+<sup>2</sup> Sono fatte salve le disposizioni particolari del diritto federale sulla forma della pubblicazione straordinaria.
+
+#### Art. 18
+
+**Contenuto**
+
+La pubblicazione straordinaria riproduce il testo integralmente o ne dà il contenuto essenziale.
+
+#### Art. 19
+
+**Procedura**
+
+<sup>1</sup> Se l’accesso alla piattaforma di pubblicazione non è garantito, la CaF informa l’autorità competente che il testo in questione deve essere pubblicato in via straordinaria.
+
+<sup>2</sup> La CaF trasmette il testo alle sedi di consultazione di cui all’articolo 18 LPubb.
+
+<sup>3</sup> Il testo è pubblicato nella RU non appena possibile.
+
+## Capitolo 2: Raccolta sistematica del diritto federale
+
+#### Art. 20
+
+<sup>1</sup> Gli errori che non modificano il senso del testo e che sono rettificati in modo informale secondo l’articolo 12 capoverso 1 LPubb sono segnatamente gli errori grammaticali, ortografici e di presentazione senza incidenza sul contenuto.
+
+<sup>2</sup> Sono adeguate in modo informale le designazioni di unità amministrative che sono modificate in seguito a una decisione di natura organizzativa presa dal Consiglio federale, da un dipartimento o da un ufficio in virtù dell’articolo 8 capoverso 1 LOGA[^20-1]. I dipartimenti segnalano le designazioni da adeguare alla CaF.
+
+[^20-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+## Capitolo 3: Foglio federale
+
+### Sezione 1: Contenuti
+
+#### Art. 21
+
+**Testi sottoposti all’approvazione dell’Assemblea federale**
+
+I testi sottoposti per approvazione all’Assemblea federale, come i trattati o le risoluzioni internazionali (art. 3 LPubb), sono pubblicati nel Foglio federale (FF) unitamente al messaggio che li accompagna. Lo stesso vale per i testi delle costituzioni cantonali.
+
+#### Art. 22
+
+**Testi pubblicati secondo l’articolo 13 capoverso 2 LPubb**
+
+I testi di cui all’articolo 13 capoverso 2 LPubb sono pubblicati se esplicano importanti effetti esterni o se rivestono una notevole importanza generale. Si tratta segnatamente di:
+
+- a. istruzioni emanate in forma di atto normativo dall’Amministrazione federale o da organizzazioni e persone di diritto pubblico o privato cui sono affidati compiti amministrativi, ma che non fanno parte dell’Amministrazione federale;
+- b. direttive del Consiglio federale come le convenzioni sulle prestazioni, le linee guida e gli obiettivi strategici destinati agli enti vicini alla Confederazione e alle organizzazioni e persone di diritto pubblico o privato cui sono affidati compiti amministrativi, ma che non fanno parte dell’Amministrazione federale;
+- c. convenzioni amministrative importanti.
+
+#### Art. 23
+
+**Pubblicazione mediante rimando**
+
+Nel FF sono pubblicati soltanto con il titolo, corredato di un rimando o dell’indicazione dell’ente presso cui possono essere ottenuti (art. 13 cpv. 3 LPubb), segnatamente i testi seguenti:
+
+- a. il messaggio sul preventivo della Confederazione Svizzera e le relative aggiunte;
+- b. il messaggio sul consuntivo della Confederazione Svizzera;
+- c. il rapporto di gestione del Consiglio federale.
+
+### Sezione 2: Menzioni
+
+#### Art. 24
+
+**Menzione delle leggi federali urgenti adottate**
+
+<sup>1</sup> Le leggi federali urgenti adottate sono pubblicate nel FF soltanto con il titolo, il rimando alla RU e l’eventuale indicazione del termine di referendum.
+
+<sup>2</sup> La menzione nel FF appare contemporaneamente alla pubblicazione del testo di legge nella RU.
+
+#### Art. 25
+
+**Menzione degli atti normativi dell’Assemblea federale pubblicati in un secondo tempo**
+
+Gli atti normativi dell’Assemblea federale sono pubblicati dapprima nel FF soltanto con il titolo e la data di adozione se la pubblicazione integrale avviene in un secondo tempo, in particolare perché la corrispondente base legale o il corrispondente trattato internazionale non sono ancora entrati in vigore. In tal caso la pubblicazione prevista in un secondo tempo è menzionata nella RU o nel FF.
+
+## Capitolo 4: Ulteriori testi pubblicati sulla piattaforma di pubblicazione
+
+#### Art. 26
+
+[^26-1]
+
+Oltre ai testi di cui all’articolo 13*a* capoverso 1 LPubb, sulla piattaforma di pubblicazione è pubblicata la banca dati della CaF relativa alle commissioni extraparlamentari.
+
+[^26-1]: Nuovo testo giusta il n. II dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+
+## Capitolo 5: Disposizioni comuni
+
+### Sezione 1: Strumenti di ricerca
+
+#### Art. 27
+
+**Indici**
+
+La CaF pubblica:
+
+- a. un indice sistematico dei testi della RS, completato da un indice alfabetico e da un un elenco dei testi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb;
+- b. un indice analitico relativo al FF;
+- c. un indice comprendente gli atti normativi dell’Unione europea applicabili per la Svizzera.
+
+#### Art. 28
+
+**Motore di ricerca e accesso diretto**
+
+Sulla piattaforma di ricerca i testi sono accessibili segnatamente mediante i seguenti mezzi ausiliari:
+
+- a. un motore di ricerca;
+- b. l’accesso diretto ai testi vigenti della RS attraverso il numero della RS, l’abbreviazione del titolo e l’articolo, specificandone il numero.
+
+### Sezione 2: Dati elettronici
+
+#### Art. 29
+
+**Formato dei dati elettronici**
+
+<sup>1</sup> Sulla piattaforma di pubblicazione i testi sono pubblicati nel formato PDF. I requisiti tecnici sono definiti nel numero 1 dell’allegato.
+
+<sup>2</sup> La CaF può pubblicare i testi in ulteriori formati.
+
+<sup>3</sup> I documenti nel formato PDF contengono la versione determinante dei testi.
+
+<sup>4</sup> I testi della RU, della RS e del FF hanno una presentazione grafica uniforme.
+
+#### Art. 30
+
+**Firma elettronica**
+
+<sup>1</sup> I testi della RU e del FF pubblicati nel formato PDF sulla piattaforma di pubblicazione recano una firma elettronica della CaF. I requisiti tecnici sono definiti nel numero 2 dell’allegato.
+
+<sup>2</sup> La CaF provvede affinché le firme elettroniche possano essere verificate in linea in qualsiasi momento mediante un sistema di convalida.
+
+### Sezione 3: Lingue ufficiali
+
+#### Art. 31
+
+**Edizioni separate per ogni lingua ufficiale**
+
+La RU, la RS e il FF, nonché i relativi indici, sono pubblicati in tre edizioni separate per ogni lingua ufficiale.
+
+#### Art. 32
+
+**Guida per gli utenti della pubblicazione elettronica**
+
+La guida per gli utenti della pubblicazione elettronica deve essere disponibile almeno nelle lingue ufficiali.
+
+#### Art. 33
+
+**Deroghe alla pubblicazione nelle lingue ufficiali**
+
+<sup>1</sup> La CaF decide, d’intesa con l’autorità competente, in merito alle deroghe alla pubblicazione in tutte le lingue ufficiali ai sensi dell’articolo 14 capoverso 2 LPubb.
+
+<sup>2</sup> I testi della GAAC sono pubblicati soltanto nella lingua originale del documento, unitamente a un riassunto nelle altre lingue ufficiali.
+
+### Sezione 4: Modalità di pubblicazione
+
+#### Art. 34
+
+<sup>1</sup> L’indirizzo Internet della piattaforma di pubblicazione è www.dirittofederale.admin.ch. Ogni edizione della RU e del FF rimanda a questo indirizzo.
+
+<sup>2</sup> La RU è pubblicata una volta alla settimana, contemporaneamente al FF. Se si rendono necessarie pubblicazioni urgenti, si pubblicano edizioni supplementari. La RU è pubblicata soltanto nei giorni feriali.
+
+<sup>3</sup> La versione in linea della RS è aggiornata costantemente.
+
+### Sezione 5: Pubblicazioni stampate
+
+#### Art. 35
+
+**Pubblicazioni periodiche**
+
+<sup>1</sup>
+
+La versione stampata è pubblicata secondo una frequenza stabilita dalla CaF in funzione della domanda. La frequenza minima è:
+
+- a. per la RU e il FF: una volta al mese;
+- b. per i complementi alla RS e l’indice analitico relativo al FF: quattro volte all’anno;
+- c. per l’indice sistematico: una volta all’anno.
+
+<sup>2</sup> Le edizioni stampate della RU e del FF sono ottenibili in abbonamento.
+
+<sup>3</sup> L’edizione stampata della RS è ottenibile come raccolta integrale o per singole parti. Gli abbonati ricevono anche i complementi.
+
+#### Art. 36
+
+**Tirature separate**
+
+<sup>1</sup> La CaF assicura che i testi della RU, della RS e del FF, compresi i testi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, possano essere ottenuti in tirature separate.
+
+<sup>2</sup> La CaF pubblica, in funzione della domanda prevedibile, compilazioni di testi della RU, della RS e del FF.
+
+#### Art. 37
+
+**Quantità minima di esemplari stampati**
+
+Della RU e del FF, ma non dei testi in essi pubblicati mediante rimando, sono prodotti almeno tre esemplari stampati. La CaF assicura che siano conservati in almeno tre edifici diversi.
+
+#### Art. 38
+
+**Distribuzione**
+
+Le pubblicazioni secondo la LPubb sono ottenibili presso l’Ufficio federale delle costruzioni e della logistica.
+
+### Sezione 6: Misure volte ad assicurare la pubblicazione tempestiva
+
+#### Art. 39
+
+**Obblighi della CaF e dell’autorità competente**
+
+<sup>1</sup> La CaF assicura la pubblicazione tempestiva dei testi soggetti alla LPubb.
+
+<sup>2</sup> I testi destinati alla pubblicazione devono essere forniti tempestivamente alla CaF in forma elettronica, nella versione definitiva e nelle lingue ufficiali richieste.
+
+<sup>3</sup> I trattati e le risoluzioni internazionali devono inoltre essere forniti tempestivamente, prima della loro entrata in vigore, alla Direzione del diritto internazionale pubblico del Dipartimento federale degli affari esteri, nella lingua originale e, in forma elettronica, nelle lingue ufficiali richieste.
+
+<sup>4</sup> Se la pubblicazione tempestiva di messaggi e rapporti secondo l’articolo 149 della legge del 13 dicembre 2002[^39-1] sul Parlamento non è possibile, l’autorità competente è responsabile della trasmissione di tali testi ai Servizi del Parlamento.
+
+[^39-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+#### Art. 40
+
+**Testi del diritto interno**
+
+L’autorità competente fornisce alla CaF, al più tardi alle scadenze indicate, le seguenti versioni linguistiche dei testi del diritto interno da adottare:
+
+- a. le versioni tedesca e francese dei progetti di atti normativi a proposito dei quali è condotta una consultazione o è elaborato un messaggio: al momento della consultazione degli uffici (art. 4 dell’ordinanza del 25 novembre 1998[^40-1] sull’organizzazione del Governo e dell’Amministrazione, OLOGA);
+- b. le versioni tedesca e francese degli altri progetti di atti normativi e degli altri testi che devono essere pubblicati in virtù della LPubb: al momento dell’avvio della revisione linguistica e giuridica definitiva (e‑circuit);
+- c. la versione italiana dei testi di competenza del Consiglio federale: il giorno in cui esso prende la decisione;
+- d. la versione italiana dei testi di competenza di altre autorità: d’intesa con la CaF.
+
+[^40-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 41
+
+**Trattati e risoluzioni internazionali**
+
+L’autorità competente fornisce alla CaF, al più tardi alle scadenze indicate, le seguenti versioni linguistiche:
+
+- a. le versioni tedesca e francese dei trattati e delle risoluzioni internazionali che il Consiglio federale può concludere autonomamente: al momento dell’avvio della procedura di corapporto (art. 5 OLOGA[^41-1]) in vista dell’approvazione del trattato o della risoluzione;
+- b. le versioni tedesca e francese dei trattati e delle risoluzioni internazionali che saranno applicati provvisoriamente: prima della data dell’applicazione provvisoria;
+- c. le versioni tedesca e francese dei trattati e delle risoluzioni internazionali a proposito dei quali deve essere elaborato un messaggio: al momento dell’avvio della procedura di corapporto (art. 5 OLOGA) in vista dell’adozione del messaggio;
+- d. la versione italiana dei testi di cui alle lettere a–c: d’intesa con la CaF.
+
+[^41-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+### Sezione 7: Momento della pubblicazione
+
+#### Art. 42
+
+<sup>1</sup> Le modifiche della Costituzione federale[^42-1] accettate da Popolo e Cantoni sono pubblicate nella RU contemporaneamente alla pubblicazione del decreto d’accertamento nel FF.
+
+<sup>2</sup> Le leggi federali e i decreti federali sottostanti a referendum sono pubblicati nella RU una volta decorso infruttuosamente il termine di referendum o dopo la loro accettazione in votazione popolare.
+
+<sup>3</sup> Le leggi federali urgenti e le ordinanze dell’Assemblea federale sono pubblicate nella RU immediatamente dopo la loro adozione.
+
+<sup>4</sup> I testi di cui ai capoversi 1–3 la cui data d’entrata in vigore non è ancora stabilita sono pubblicati nella RU immediatamente dopo la decisione d’entrata in vigore.
+
+<sup>5</sup> I trattati internazionali applicati provvisoriamente prima dell’entrata in vigore sono pubblicati appena possibile nella RU una volta decisa l’applicabilità provvisoria.
+
+<sup>6</sup> I testi sottostanti a referendum facoltativo adottati dall’Assemblea federale nella stessa sessione sono pubblicati nel FF contemporaneamente. Sono pubblicati al più presto dieci giorni dopo la votazione finale. Un testo può essere pubblicato prima se necessario per l’entrata in vigore tempestiva.
+
+<sup>7</sup> Un decreto federale semplice non è pubblicato nel FF prima che l’atto normativo che ne costituisce la base legale sia pubblicato nella RU.
+
+[^42-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+### Sezione 8: Sicurezza dei dati e protezione dei dati
+
+#### Art. 43
+
+**Sicurezza dei dati**
+
+<sup>1</sup>
+
+Ai sensi dell’articolo 16*a* LPubb s’intende per:
+
+- a. *autenticità:* la certezza che un testo è stato pubblicato dalla CaF;
+- b. *integrità:* la certezza che un testo non è stato modificato indebitamente o involontariamente dopo la sua pubblicazione.
+
+<sup>2</sup>
+
+La conservazione, l’autenticità e l’integrità dei testi pubblicati sulla piattaforma di pubblicazione sono assicurate segnatamente mediante le seguenti misure:
+
+- a. dei testi pubblicati sulla piattaforma di pubblicazione sono conservati tutti i dati necessari per ripristinare i testi nello stato in cui sono stati pubblicati per la prima volta sulla piattaforma di pubblicazione (dati definitivi); i dati definitivi sono conservati al di fuori delle reti di comunicazione accessibili al pubblico in ubicazioni separate nello spazio; almeno una delle ubicazioni è protetta contro le catastrofi;
+- b. se si constata una divergenza tra i dati definitivi e il testo pubblicato sulla piattaforma di pubblicazione, il testo è ripristinato nel giro di un giorno nello stato in cui è stato pubblicato per la prima volta sulla piattaforma di pubblicazione; sono eccettuati i dati anonimizzati di cui all’articolo 44 capoverso 2;
+- c. i dati sono trasmessi in modo tale che il destinatario possa identificare in modo sicuro la piattaforma di pubblicazione quale mittente.
+
+<sup>3</sup> La CaF adotta le misure tecniche e organizzative necessarie per garantire l’esercizio impeccabile della piattaforma di pubblicazione.
+
+#### Art. 44
+
+**Dati personali degni di particolare protezione nei testi del FF**
+
+<sup>1</sup> I testi di cui all’articolo 13 capoversi 1 lettera g e 2 LPubb che contengono dati personali degni di particolare protezione sono accessibili sulla piattaforma di pubblicazione, e rintracciabili mediante il relativo motore di ricerca, per al massimo sei mesi dalla loro pubblicazione. In casi particolari l’autorità competente può prorogare il termine a un massimo di 12 mesi.
+
+<sup>2</sup> Una volta scaduto il termine di cui al capoverso 1, la CaF provvede affinché i testi non siano più accessibili sulla piattaforma di pubblicazione o che ne sia accessibile soltanto una versione anonimizzata.
+
+<sup>3</sup>
+
+Una persona i cui dati personali degni di particolare protezione sono contenuti in un testo accessibile in linea può chiedere all’autorità competente che tali dati siano rimossi dalla piattaforma di pubblicazione prima della scadenza del termine di cui al capoverso 1, se:
+
+- a. conferma di aver preso atto della pubblicazione; e
+- b. l’anonimizzazione non viola i diritti di terzi.
+
+#### Art. 45
+
+**Dati personali degni di particolare protezione nei testi della RU e della RS**
+
+I dati personali degni di particolare protezione contenuti in testi della RU e della RS, compresi i testi in essi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, sono rimossi se lo ordina l’autorità competente.
+
+#### Art. 46
+
+**Dati personali degni di particolare protezione nelle edizioni stampate e nei dati definitivi**
+
+Nelle edizioni stampate sono mantenute le versioni contenenti dati personali, mentre nei dati definitivi sono mantenute sia le versioni che contengono dati personali sia quelle che non ne contengono.
+
+### Sezione 9: Sfruttamento di dati da parte di terzi
+
+#### Art. 47
+
+**Ottenimento di dati per uso personale**
+
+La consultazione gratuita della piattaforma di pubblicazione secondo l’articolo 19 capoverso 1 LPubb comprende anche lo scaricamento dei testi per uso personale. Per uso personale s’intende anche la citazione o il commento dei testi in lavori o pubblicazioni di natura scientifica.
+
+#### Art. 48
+
+**Ottenimento di dati a fini di sfruttamento**
+
+<sup>1</sup> La CaF mette a disposizione elettronicamente e in forma strutturata i testi della RU, della RS e del FF, ad eccezione dei testi pubblicati mediante rimando. Non vi è diritto a una elaborazione dei dati per esigenze particolari.
+
+<sup>2</sup> Lo scaricamento di dati a fini di sfruttamento è gratuito. Per le forniture di dati sono riscossi emolumenti.
+
+#### Art. 49
+
+**Oneri per lo sfruttamento di dati**
+
+<sup>1</sup>
+
+Per lo sfruttamento di dati secondo l’articolo 48 si applicano le seguenti disposizioni:
+
+- a. il contenuto dei dati non può essere modificato;
+- b. i dati devono essere presentati in modo tale che visivamente si distinguano in modo netto da commenti o da ulteriori aggiunte;
+- c. i dati devono recare la menzione seguente: «Il presente documento non è una pubblicazione ufficiale. Fa unicamente fede la pubblicazione della Cancelleria federale.»;
+- d. devono essere pubblicate anche le indicazioni della CaF sulla qualità dei dati forniti;
+- e. nella pubblicità, sull’imballaggio, sul supporto di dati o nel mezzo elettronico di comunicazione non si deve suscitare l’impressione che si tratti di una pubblicazione ufficiale;
+- f. i dati personali degni di particolare protezione contenuti in testi della RU e della RS, compresi i testi in essi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, devono essere rimossi non appena la CaF non li pubblica più o li pubblica soltanto in forma anonimizzata;
+- g. i dati personali degni di particolare protezione contenuti in testi diversi da quelli di cui alla lettera f non possono essere sfruttati o diffusi.
+
+<sup>2</sup> Chi ha ottenuto dati secondo l’articolo 48 può diffonderli o renderli accessibili contro rimunerazione soltanto in forma elaborata.
+
+<sup>3</sup> In caso di inosservanza degli oneri, la CaF può rifiutare ulteriori forniture di dati.
+
+### Sezione 10: Consultazione e ottenimento dei dati
+
+#### Art. 50
+
+**Consultazione**
+
+<sup>1</sup> I contenuti della piattaforma di pubblicazione possono essere consultati in linea presso le sedi designate dai Cantoni secondo l’articolo 18 LPubb.
+
+<sup>2</sup> Su richiesta, le sedi di consultazione mettono a disposizione una versione stampata dei testi.
+
+<sup>3</sup> Presso le sedi di consultazione possono essere consultate anche le pubblicazioni straordinarie di cui all’articolo 7 capoverso 4 LPubb che sono state loro trasmesse.
+
+<sup>4</sup> Se la piattaforma di pubblicazione subisce un guasto temporaneo, la CaF trasmette su richiesta testi della RU e del FF.
+
+#### Art. 51
+
+**Emolumenti**
+
+Gli emolumenti per l’ottenimento di dati elettronici secondo l’articolo 48 e di prodotti stampati secondo gli articoli 35 e 36 sono disciplinati dall’ordinanza del 19 novembre 2014[^51-1] sugli emolumenti per le pubblicazioni.
+
+[^51-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+
+## Capitolo 6: Disposizioni finali
+
+#### Art. 52
+
+**Esecuzione**
+
+<sup>1</sup>
+
+La CaF designa il servizio responsabile della pubblicazione secondo la LPubb e ne stabilisce le competenze in materia di istruzioni e coordinamento nei confronti delle autorità competenti, segnatamente ai fini:
+
+- a. di una pubblicazione dei testi tempestiva e conforme ai criteri qualitativi;
+- b. della forma di elaborazione, presentazione e trasmissione dei testi;
+- c. della tecnica da utilizzare.
+
+<sup>2</sup>
+
+La CaF gestisce applicazioni specifiche nel settore delle pubblicazioni secondo la LPubb, segnatamente per assicurare:
+
+- a. la tempestività delle pubblicazioni (art. 39‒41);
+- b. la sicurezza dei dati e la protezione dei dati (art. 43‒46).
+
+<sup>3</sup> Essa può aggiornare l’allegato in funzione dello sviluppo tecnologico.
+
+#### Art. 53
+
+**Abrogazione e modifica di altri atti normativi**
+
+<sup>1</sup> L’ordinanza del 17 novembre 2004[^53-1] sulle pubblicazioni ufficiali è abrogata.
+
+<sup>2</sup> ...[^53-2]
+
+[^53-1]: [[RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746), [2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741)art. 8 cpv. 2, [2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)all. n. 1, [2010 2645](https://fedlex.data.admin.ch/eli/oc/2010/351)]
+[^53-2]: La mod. può essere consultata alla [RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670).
+
+#### Art. 54
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2016.
+
+Allegato*[^t-1]*
+
+(art. 29 cpv. 1, 30 cpv. 1 e 52 cpv. 3)
+
+## Requisiti tecnici
+
+[^t-1]: Aggiornato dal n. II 1 dell’O del 23 nov. 2016 sulla firma elettronica ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)) e dal n. I dell’O della CaF dell’8 mar. 2017, in vigore dal 1° gen. 2017 ([RU 2017 709](https://fedlex.data.admin.ch/eli/oc/2017/134)).
+
+### 1 Formato PDF
+
+Il formato PDF di cui all’articolo 29 capoverso 1 va utilizzato nella versione A-1a.
+
+### 2 Firma elettronica
+
+- 2\.1 La firma elettronica di cui all’articolo 30 è un sigillo elettronico regolamentato ai sensi dell’articolo 2 lettera d della legge del 18 marzo 2016[^annexu1-lvlu1-lvl2-1] sulla firma elettronica (FiEle).
+- 2\.2 La validità del certificato deve essere verificata al momento dell’apposizione del sigillo.
+- 2\.3 Il sigillo deve essere provvisto di una marca temporale elettronica qualificata ai sensi dell’articolo 2 lettera j FiEle.
+- 2\.4 Fintanto che non sono realizzati i requisiti tecnici necessari per l’apposizione del sigillo, i testi sono firmati secondo il diritto previgente[^annexu1-lvlu1-lvl2-2].
+
+[^annexu1-lvlu1-lvl2-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^annexu1-lvlu1-lvl2-2]: [RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)

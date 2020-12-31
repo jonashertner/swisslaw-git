@@ -1,0 +1,90 @@
+---
+sr: "172.220.142"
+title: "Ordonnance du 4 juillet 2007 sur l'organe paritaire de la caisse de prévoyance du domaine des EPF (OOP EPF)"
+short: OOP EPF
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/614"
+language: fr
+version: 2009-01-01
+adopted: 2007-07-04
+in_force: 2007-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/614/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-614-20090101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/614/20090101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur l’organe paritaire de la caisse de prévoyance du domaine des EPF
+
+(OOP EPF)
+
+du 4 juillet 2007 (État le 1<sup>er</sup> janvier 2009)
+
+Le Conseil des EPF,
+
+vu l’art. 32*e*, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu l’art. 2, al. 4, de l’ordonnance-cadre du 20 décembre 2000 relative à la loi sur le personnel de la Confédération (ordonnance-cadre LPers)[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-2]: [RS 172.220.11](https://fedlex.data.admin.ch/eli/cc/2001/124)
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance règle la composition, l’élection et l’organisation de l’organe paritaire de la caisse de prévoyance du domaine des EPF (organe paritaire).
+
+#### Art. 2
+
+**Composition, durée du mandat et élection**
+
+<sup>1</sup> L’organe paritaire se compose de neuf représentants de l’employeur et de neuf représentants des employés du domaine des EPF.
+
+<sup>2</sup> La durée du mandat des membres de l’organe paritaire est de quatre ans. Le premier mandat commence le 1<sup>er</sup> janvier 2009.[^2-1]
+
+<sup>3</sup> Seront élus membres de l’organe paritaire des spécialistes qualifiés pour l’exercice de leur tâche. Dans la mesure du possible, les sexes et les langues officielles doivent être représentés équitablement. Des personnes qui ne sont pas assurées auprès de la caisse de prévoyance du domaine des EPF peuvent aussi être élues.
+
+<sup>4</sup> Les représentants de l’employeur sont élus par le Conseil des EPF, sur proposition du président de l’EPF de Zurich, du président de l’EPF de Lausanne et des directeurs des établissements de recherche.[^2-2]
+
+<sup>5</sup>
+
+Les représentants des employés sont désignés comme suit:
+
+- a. les assemblées d’école des deux EPF élisent chacune trois représentants par l’intermédiaire de leurs membres assurés auprès de la caisse de prévoyance du domaine des EPF. Les processus d’élection sont définis par les membres des assemblées d’école des deux EPF assurés auprès de la caisse de prévoyance du domaine des EPF;
+- b. les représentants du personnel des établissements de recherche élisent trois représentants. Le processus d’élection est défini par les représentants du personnel des établissements de recherche.[^2-3]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 1<sup>er</sup> juil. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 3675](https://fedlex.data.admin.ch/eli/oc/2008/479)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 1<sup>er</sup> juil. 2008, en vigueur depuis le 15 août 2008 ([RO 2008 3675](https://fedlex.data.admin.ch/eli/oc/2008/479)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 1<sup>er</sup> juil. 2008, en vigueur depuis le 15 août 2008 ([RO 2008 3675](https://fedlex.data.admin.ch/eli/oc/2008/479)).
+
+#### Art. 3
+
+**Organisation et indemnités**
+
+<sup>1</sup> L’organe paritaire de la caisse de prévoyance du domaine des EPF se constitue lui-même.
+
+<sup>2</sup> La présidence se compose d’un représentant de l’employeur et d’un représentant des employés. A mi-mandat, le président et le vice-président intervertissent leur fonction.
+
+<sup>3</sup> L’organe paritaire édicte un règlement.
+
+<sup>4</sup> Les indemnités versées aux membres de l’organe paritaire sont fixées par la Commission de la caisse de PUBLICA.
+
+#### Art. 4
+
+**Secrétariat**
+
+<sup>1</sup> Le secrétariat est responsable de la bonne marche des affaires et assure la coordination avec PUBLICA.
+
+<sup>2</sup> Il est rattaché administrativement à l’état-major du Conseil des EPF et travaille selon les instructions de l’organe paritaire.
+
+#### Art. 5
+
+**Financement**
+
+Les indemnités versées aux membres de l’organe paritaire sont financées à l’aide de la part du revenu des placements qui revient à la caisse de prévoyance du domaine des EPF; les autres frais, notamment les frais de secrétariat, sont financés par l’employeur.
+
+#### Art. 6
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2007.

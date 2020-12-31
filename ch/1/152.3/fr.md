@@ -1,0 +1,360 @@
+---
+sr: "152.3"
+title: "Loi fédérale du 17 décembre 2004 sur le principe de la transparence dans l'administration (Loi sur la transparence, LTrans)"
+short: LTrans
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
+language: fr
+version: 2014-08-19
+adopted: 2004-12-17
+in_force: 2006-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20140819/fr/xml/fedlex-data-admin-ch-eli-cc-2006-355-20140819-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20140819/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur le principe de la transparence dans l’administration
+
+(Loi sur la transparence, LTrans)
+
+du 17 décembre 2004 (Etat le 19 août 2014)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 12 février 2003[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2003 1807](https://fedlex.data.admin.ch/eli/fga/2003/246)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**But et objet**
+
+La présente loi vise à promouvoir la transparence quant à la mission, l’organisation et l’activité de l’administration. A cette fin, elle contribue à l’information du public en garantissant l’accès aux documents officiels.
+
+#### Art. 2
+
+**Champ d’application à raison de la personne**
+
+<sup>1</sup>
+
+La présente loi s’applique:
+
+- a. à l’administration fédérale;
+- b. aux organismes et personnes de droit public ou de droit privé extérieurs à l’administration fédérale, dans la mesure où ils édictent des actes ou rendent en première instance des décisions au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^2-1];
+- c. aux Services du Parlement.
+
+<sup>2</sup> La présente loi ne s’applique pas à la Banque nationale suisse ni à l’Autorité fédérale de surveillance des marchés financiers.[^2-2]
+
+<sup>3</sup>
+
+Le Conseil fédéral peut soustraire au champ d’application de la loi d’autres unités de l’administration fédérale ainsi que d’autres organismes et personnes extérieurs à l’administration fédérale:
+
+- a. si l’accomplissement des tâches qui leur ont été confiées l’exige;
+- b. si leur soumission à la présente loi portait atteinte à leur capacité de concurrence; ou
+- c. si les tâches qui leur ont été confiées sont d’importance mineure.
+
+[^2-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^2-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+#### Art. 3
+
+**Champ d’application à raison de la matière**
+
+<sup>1</sup>
+
+La présente loi ne s’applique pas:
+
+- a.
+
+  à l’accès aux documents officiels concernant les procédures:
+
+  - 1\. civiles,
+  - 2\. pénales,
+  - 3\. d’entraide judiciaire et administrative internationale,
+  - 4\. de règlement international des différends,
+  - 5\. juridictionnelles de droit public, y compris administratives,
+  - 6\. d’arbitrage;
+
+- b. à la consultation du dossier par une partie dans une procédure administrative de première instance.
+
+<sup>2</sup> L’accès aux documents officiels contenant les données personnelles du demandeur est régi par la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3-1].
+
+[^3-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 4
+
+**Dispositions spéciales réservées**
+
+Sont réservées les dispositions spéciales d’autres lois fédérales:
+
+- a. qui déclarent certaines informations secrètes;
+- b. qui déclarent certaines informations accessibles, à des conditions dérogeant à la présente loi.
+
+#### Art. 5
+
+**Documents officiels**
+
+<sup>1</sup>
+
+On entend par document officiel toute information:
+
+- a. qui a été enregistrée sur un quelconque support;
+- b. qui est détenue par l’autorité dont elle émane ou à laquelle elle a été communiquée, et
+- c. qui concerne l’accomplissement d’une tâche publique.
+
+<sup>2</sup> Sont également réputés documents officiels les documents pouvant être établis par un traitement informatisé simple sur la base d’informations enregistrées satisfaisant aux conditions énoncées à l’al. 1, let. b et c.
+
+<sup>3</sup>
+
+Ne sont pas considérés comme des documents officiels les documents:
+
+- a. qui sont commercialisés par une autorité;
+- b. qui n’ont pas atteint leur stade définitif d’élaboration, ou
+- c. qui sont destinés à l’usage personnel.
+
+## Section 2 Droit d’accès aux documents officiels
+
+#### Art. 6
+
+**Principe de la transparence**
+
+<sup>1</sup> Toute personne a le droit de consulter des documents officiels et d’obtenir des renseignements sur leur contenu de la part des autorités.
+
+<sup>2</sup> Elle peut consulter les documents officiels sur place ou en demander une copie. La législation sur le droit d’auteur est réservée.
+
+<sup>3</sup> Si les documents officiels ont déjà été publiés par la Confédération sur papier ou sous forme électronique, les conditions énoncées aux al. 1 et 2 sont réputées remplies.
+
+#### Art. 7
+
+**Exceptions**
+
+<sup>1</sup>
+
+Le droit d’accès est limité, différé ou refusé, lorsque l’accès à un document officiel:
+
+- a. est susceptible de porter notablement atteinte au processus de la libre formation de l’opinion et de la volonté d’une autorité qui est soumise à la présente loi, d’un autre organe législatif ou administratif ou d’une instance judiciaire;
+- b. entrave l’exécution de mesures concrètes prises par une autorité conformément à ses objectifs;
+- c. risque de compromettre la sûreté intérieure ou extérieure de la Suisse;
+- d. risque de compromettre les intérêts de la Suisse en matière de politique extérieure et ses relations internationales;
+- e. risque de compromettre les relations entre la Confédération et les cantons ou les relations entre cantons;
+- f. risque de compromettre les intérêts de la politique économique ou monétaire de la Suisse;
+- g. peut révéler des secrets professionnels, d’affaires ou de fabrication;
+- h. peut avoir pour effet de divulguer des informations fournies librement par un tiers à une autorité qui en a garanti le secret.
+
+<sup>2</sup> Le droit d’accès est limité, différé ou refusé si l’accès à un document officiel peut porter atteinte à la sphère privée de tiers, à moins qu’un intérêt public à la transparence ne soit exceptionnellement jugé prépondérant.
+
+#### Art. 8
+
+**Cas particuliers**
+
+<sup>1</sup> Le droit d’accès n’est pas reconnu pour les documents officiels afférents à la procédure de co-rapport.
+
+<sup>2</sup> L’accès aux documents officiels n’est autorisé qu’après la décision politique ou administrative dont ils constituent la base.
+
+<sup>3</sup> Le Conseil fédéral peut exceptionnellement déclarer que les documents officiels de la procédure de consultation des offices restent non accessibles après la prise de décision.
+
+<sup>4</sup> L’accès à des documents officiels exprimant une prise de position dans le cadre de négociations en cours ou futures est exclu dans tous les cas.
+
+<sup>5</sup> L’accès aux rapports d’évaluation des prestations fournies par l’administration fédérale et de l’efficacité des mesures prises par cette dernière est garanti.
+
+#### Art. 9
+
+**Protection des données personnelles**
+
+<sup>1</sup> Les documents officiels contenant des données personnelles doivent être si possible rendus anonymes avant qu’ils soient consultés.
+
+<sup>2</sup> Lorsque la demande d’accès porte sur des documents officiels qui ne peuvent pas être rendus anonymes, l’art. 19 LPD[^9-1] est applicable. La procédure d’accès est régie par la présente loi.
+
+[^9-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Section 3 Procédure d’accès aux documents officiels
+
+#### Art. 10
+
+**Demande d’accès**
+
+<sup>1</sup> La demande d’accès à des documents officiels est adressée à l’autorité qui les a produits ou qui les a reçus en tant que destinataire principal de la part de tiers qui ne sont pas soumis à la présente loi.
+
+<sup>2</sup> Le Conseil fédéral peut prévoir une procédure spéciale pour l’accès aux documents officiels des représentations suisses à l’étranger et des missions auprès d’organisations internationales.
+
+<sup>3</sup> La demande doit être formulée de manière suffisamment précise.
+
+<sup>4</sup>
+
+Le Conseil fédéral règle les modalités de la procédure:
+
+- a. il tient compte des besoins particuliers des médias;
+- b. il peut prévoir d’autres modalités d’accès lorsqu’un grand nombre de demandes portent sur les mêmes documents;
+- c. il peut prolonger les délais de traitement des demandes nécessitant un surcroît important de travail.
+
+#### Art. 11
+
+**Droit d’être entendu**
+
+<sup>1</sup> Lorsqu’un tiers dépose une demande portant sur des documents officiels contenant des données personnelles et que l’autorité envisage d’y donner suite, elle consulte la personne concernée et l’invite à se prononcer dans un délai de dix jours.
+
+<sup>2</sup> L’autorité informe la personne entendue de sa prise de position sur la demande d’accès.
+
+#### Art. 12
+
+**Prise de position de l’autorité**
+
+<sup>1</sup> L’autorité prend position aussitôt que possible, mais au plus tard dans un délai de 20 jours à compter de la date de la réception de la demande.
+
+<sup>2</sup> Ce délai peut être exceptionnellement prolongé de 20 jours lorsque la demande d’accès porte sur un grand nombre de documents ou sur des documents complexes ou difficiles à se procurer. Il est prolongé de la durée nécessaire lorsque la demande porte sur des documents officiels contenant des données personnelles.
+
+<sup>3</sup> Lorsque la demande porte sur des documents officiels contenant des données personnelles, l’autorité diffère l’accès jusqu’à droit connu.
+
+<sup>4</sup> L’autorité informe le demandeur, en motivant sommairement sa prise de position, lorsque le délai est prolongé ou le droit d’accès limité ou refusé. La limitation ou le refus du droit d’accès et son motif sont communiqués par écrit.
+
+#### Art. 13
+
+**Médiation**
+
+<sup>1</sup>
+
+Toute personne peut déposer une demande en médiation:
+
+- a. lorsque sa demande d’accès à des documents officiels est limitée, différée ou refusée;
+- b. lorsque l’autorité n’a pas pris position sur sa demande dans les délais;
+- c. lorsque l’autorité, après l’avoir entendue selon l’art. 11, entend accorder l’accès aux documents malgré son opposition.
+
+<sup>2</sup> La demande en médiation est déposée par écrit auprès du Préposé fédéral à la protection des données et à la transparence dans un délai de 20 jours à compter de la date de réception de la prise de position de l’autorité ou à l’échéance des délais fixés à l’autorité pour prendre position.
+
+<sup>3</sup> Lorsque la médiation aboutit, l’affaire est classée.
+
+#### Art. 14
+
+**Recommandation**
+
+Lorsque la médiation n’aboutit pas, le Préposé fédéral à la protection des données et à la transparence établit une recommandation écrite à l’attention des participants à la procédure dans les 30 jours qui suivent la réception de la demande en médiation.
+
+#### Art. 15
+
+**Décision**
+
+<sup>1</sup> Le demandeur ou la personne qui a été entendue peut demander dans les dix jours qui suivent la réception de la recommandation que l’autorité rende une décision selon l’art. 5 PA[^15-1].
+
+<sup>2</sup>
+
+Au surplus, l’autorité rend une décision si, en dérogation à la recommandation:
+
+- a. elle entend limiter, différer ou refuser le droit d’accès;
+- b. elle entend accorder le droit d’accès à un document officiel contenant des données personnelles.
+
+<sup>3</sup> Une décision est rendue dans un délai de 20 jours à compter de la date de réception de la recommandation ou de la requête en décision au sens de l’al. 1.
+
+[^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 16
+
+**Recours**[^16-1]
+
+<sup>1</sup> La procédure de recours est régie par les dispositions générales de la procédure fédérale.
+
+<sup>2</sup> Les autorités de recours ont aussi accès aux documents officiels protégés par le secret.
+
+[^16-1]: Nouvelle teneur selon le ch. 7 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 17
+
+**Emoluments**
+
+<sup>1</sup> L’accès aux documents officiels est en principe soumis au paiement d’un émolument.[^17-1]
+
+<sup>2</sup>
+
+Il n’est pas perçu d’émolument:
+
+- a. pour le règlement des demandes qui occasionnent peu de frais;
+- b. pour la procédure de médiation (art. 13);
+- c. pour la procédure en première instance (art. 15).
+
+<sup>3</sup> Le Conseil fédéral règle les modalités et fixe le tarif des émoluments en fonction des frais effectifs. Les dispositions spéciales prévues dans d’autres lois sont réservées.
+
+<sup>4</sup> La remise de rapports, de brochures ou d’autres imprimés et supports d’information, peut, dans tous les cas, être subordonnée au paiement d’un émolument.
+
+[^17-1]: Erratum du 19 août 2014, ne concerne que le texte italien ([RO 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
+
+## Section 4 Préposé fédéral à la protection des données et à la transparence
+
+#### Art. 18
+
+**Tâches et compétences**
+
+En vertu de la présente loi, le Préposé fédéral à la protection des données et à la transparence (préposé) selon l’art. 26 LPD[^18-1] a en particulier les tâches et compétences suivantes:
+
+- a. conduire la procédure de médiation (art. 13) et formuler une recommandation (art. 14) lorsque la médiation n’aboutit pas;
+- b. informer d’office ou à la demande de particuliers ou d’autorités sur les modalités d’accès à des documents officiels;
+- c. prendre position sur les projets d’actes législatifs fédéraux ou les mesures de la Confédération qui touchent fondamentalement au principe de la transparence.
+
+[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 19
+
+**Evaluation**
+
+<sup>1</sup> Le préposé évalue l’application, l’efficacité et en particulier les coûts engendrés par la mise en œuvre de la présente loi; il en fait régulièrement rapport au Conseil fédéral.
+
+<sup>2</sup> Il soumet au Conseil fédéral un premier rapport sur les coûts de mise en œuvre de la présente loi dans un délai de trois ans à compter de l’entrée en vigueur de celle-ci.
+
+<sup>3</sup> Les rapports du préposé sont publiés.
+
+#### Art. 20
+
+**Droit d’obtenir des renseignements et de consulter les documents**
+
+<sup>1</sup> Le préposé a accès aux documents officiels dans le cadre de la procédure de médiation, même si ceux-ci sont secrets.
+
+<sup>2</sup> Le préposé et son secrétariat sont soumis au secret de fonction dans la même mesure que les autorités dont ils consultent les documents officiels ou dont ils obtiennent des renseignements.
+
+## Section 5 Dispositions finales
+
+#### Art. 21
+
+**Exécution**
+
+Le Conseil fédéral peut notamment édicter des dispositions concernant:
+
+- a. la gestion des documents officiels;
+- b. l’information sur les documents officiels;
+- c. la publication de documents officiels.
+
+#### Art. 22
+
+**Modification du droit en vigueur**
+
+La modification du droit en vigueur est réglée en annexe.
+
+#### Art. 23
+
+**Disposition transitoire**
+
+La présente loi s’applique aux documents officiels qui ont été produits ou reçus par l’autorité après son entrée en vigueur.
+
+#### Art. 24
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> juillet 2006
+
+Annexe
+
+(art. 22)
+
+## Modification du droit en vigueur
+
+Les lois mentionnées ci-après sont modifiées comme suit:
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2006 2319](https://fedlex.data.admin.ch/eli/oc/2006/355).

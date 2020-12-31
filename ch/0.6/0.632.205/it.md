@@ -1,0 +1,42 @@
+---
+sr: "0.632.205"
+title: "Quinto Protocollo del 27 febbraio 1998 allegato all'Accordo generale sugli scambi di servizi"
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/485"
+language: it
+version: 1999-03-01
+adopted: 1998-02-27
+in_force: 1999-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/485/19990301/it/xml/fedlex-data-admin-ch-eli-cc-1999-485-19990301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/485/19990301/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Quinto Protocollo allegato all’Accordo generale sugli scambi di servizi
+
+0.632.205 (Stato 21 dicembre 1999)
+
+Traduzione*[^t-1]*
+
+Approvato dall’Assemblea federale il 23 settembre 1998[^t-2] Entrato in vigore per la Svizzera il 1° marzo 1999
+
+del 27 febbraio 1998 (Stato 21 dicembre 1999)
+
+[^t-1]: RU **1999** 3458; FF **1998** 2729 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: [RU 1999 3457](https://fedlex.data.admin.ch/eli/oc/1999/484)
+
+I Membri dell’Organizzazione mondiale del commercio (qui di seguito denominata «OMC») le cui Liste d’impegni specifici e Liste d’esenzioni dagli obblighi enunciati nell’articolo II dell’Accordo generale sugli scambi di servizi concernenti i servizi finanziari sono allegate al presente protocollo[^ingress-1] (qui di seguito denominati i «Membri interessati»),
+
+*Avendo* proceduto a negoziati conformemente alle disposizioni della Seconda Decisione sui servizi finanziari adottata dal Consiglio degli scambi di servizi il 21 luglio 1995 (S/L/9),
+
+*Convengono* le disposizioni seguenti:
+
+- 1\. Una Lista di impegni specifici e una Lista d’esenzioni dagli obblighi enunciati nell’articolo II concernente i servizi finanziari allegate al presente protocollo per un Membro sostituiranno, all’entrata in vigore del presente protocollo per questo Membro, le sezioni relative ai servizi finanziari della Lista d’impegni specifici e della Lista d’esenzioni dagli obblighi enunciate nell’articolo II di questo Membro.
+- 2\. Il presente protocollo sarà aperto all’accettazione dei Membri interessati fino al 29 gennaio 1999, mediante firma o diversamente.
+- 3\. Il presente protocollo entrerà in vigore trenta giorni dopo la data della sua accettazione da parte di tutti i Membri interessati. Se non è stato accettato da tutti i Membri interessati entro il 30 gennaio 1999, i Membri che l’avranno accettato prima di questa data potranno, nei 30 giorni che seguiranno, prendere una decisione concernente la sua entrata in vigore.
+- 4\. Il presente protocollo sarà depositato presso il Direttore generale dell’OMC. Il Direttore generale dell’OMC consegnerà senza indugio a ogni Membro dell’OMC una copia certificata conforme del presente protocollo e delle notifiche delle accettazioni dello stesso conformemente al paragrafo 3.
+- 5\. Il presente protocollo sarà registrato conformemente alle disposizioni dell’articolo 102 dello Statuto delle Nazioni Unite.
+
+Fatto a Ginevra, il ventisette febbraio millenovecentonovantotto, in un solo esemplare, in lingua francese, inglese e spagnola, i tre testi facenti parimente fede, salvo disposizioni contrarie concernenti le Liste allegate al presente protocollo.
+
+[^ingress-1]: Queste liste non sono pubblicate nella Raccolta ufficiale delle leggi federali. Saranno raccolte in una pubblicazione speciale dal titolo «Suisse – Liste d’engagements spécifiques». Questa pubblicazione sarà disponibile in lingua francese presso l’EDMZ 3003 Berna.

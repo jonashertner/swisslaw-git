@@ -1,0 +1,545 @@
+---
+sr: "211.423.4"
+title: Legge del 25 giugno 1930 sulle obbligazioni fondiarie (LOF)
+short: LOF
+eli: "https://fedlex.data.admin.ch/eli/cc/47/109_113_57"
+language: it
+version: 2015-01-01
+adopted: 1930-06-25
+in_force: 1931-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20150101/it/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20150101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20150101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge sulle obbligazioni fondiarie
+
+(LOF)**[^t-1]**
+
+del 25 giugno 1930 (Stato 1° gennaio 2015)
+
+[^t-1]: Nuovo tit. giusta il n. I della LF del 19 mar. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [FF 1981 III 165](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+in virtù dell’articolo 64 capoverso 2, della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 14 dicembre 1925,
+
+decreta:
+
+[^ingress-1]: [CS **1** 3]
+
+## Capo I: Centrali d’emissione di obbligazioni fondiarie
+
+### I. Scopo e diritto d’emissione
+
+#### Art. 1
+
+<sup>1</sup> Le centrali d’emissione di obbligazioni fondiarie hanno lo scopo di procurare ai proprietari fondiari mutui a lunga scadenza garantiti da pegno immobiliare, al saggio più stabile e ridotto che sia possibile.
+
+<sup>2</sup> Il diritto di emettere obbligazioni fondiarie spetta a due centrali, di cui una è costituita dalle banche cantonali e la seconda dagli altri istituti di credito. Le due centrali hanno però la facoltà di fondersi.
+
+### II. Autorizzazione
+
+#### Art. 2
+
+<sup>1</sup> Per esercitare il diritto d’emettere obbligazioni fondiarie occorre l’autorizzazione del Consiglio federale.
+
+<sup>2</sup> Per ottenere quest’autorizzazione, una centrale deve costituirsi in società anonima o in società cooperativa, essere composta di almeno cinque membri, possedere un capitale di fondazione del quale almeno cinque milioni di franchi siano già versati e far approvare il suo statuto dal Consiglio federale.
+
+### III. Centrale delle banche cantonali
+
+#### Art. 3
+
+[^3-1]
+
+Il diritto d’essere membro della centrale delle banche cantonali spetta ad ogni banca cantonale quale è definita dall’articolo 3 capoverso 4 della legge federale dell’8 novembre 1934[^3-2] sulle banche e le casse di risparmio.
+
+[^3-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 15 feb. 1968 ([RU 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 381](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
+[^3-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+### IV. Centrale degli altri istituti di credito
+
+#### Art. 4
+
+<sup>1</sup> Il diritto di essere membro della centrale delle altre banche spetta ad ogni istituto di credito che abbia la sua sede principale nella Svizzera ed il cui attivo, secondo l’ultimo bilancio compilato e pubblicato in conformità delle prescrizioni del Consiglio federale, si componga per oltre il sessanta per cento di rediti acquistati in operazioni di credito fondiario eseguite nella Svizzera.
+
+<sup>2</sup> Sono considerati come crediti acquistati in operazioni di credito fondiario eseguite nella Svizzera: i collocamenti in titoli ipotecari costituiti su fondi situati nella Svizzera e le obbligazioni fondiarie emesse nella Svizzera; inoltre i mutui di somme fisse a scadenze fisse o disdicibili entro tre mesi almeno, la cui garanzia consista unicamente in titoli ipotecari e in obbligazioni fondiarie emessi nella Svizzera.
+
+<sup>3</sup> È in facoltà di questa centrale di ammettere come membri altri istituti di credito la cui sede principale si trovi nella Svizzera.
+
+<sup>4</sup> I requisiti d’ammissione sono per il rimanente fissati dallo statuto della centrale.
+
+### V. Sfera d’affari
+
+#### Art. 5
+
+[^5-1]
+
+La sfera d’affari della centrale comprende:
+
+- 1\. L’emissione di obbligazioni fondiarie;
+- 2\. Il collocamento del prodotto di quest’emissione
+  - a. in mutui concessi secondo gli articoli 11 e 12;
+  - b. in cartelle di rendita fondiaria fino a concorrenza di un decimo, al massimo, di detto prodotto;
+
+- 3\.[^5-2] Il collocamento di capitale proprio e di capitale di terzi in crediti garantiti da pegno immobiliare fino a concorrenza dei due terzi del loro valore venale e, per le cartelle di rendita fondiaria, del valore di reddito del pegno immobiliare in Svizzera, in effetti pensionabili presso la Banca nazionale svizzera e in obbligazioni di debitori svizzeri trattate su un mercato rappresentativo, in depositi a vista o a termine sia presso loro membri, sia presso altre banche svizzere, come pure in fondi, in vista dell’erezione di locali commerciali in proprio.
+
+[^5-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 15 feb. 1968 ([RU 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 381](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
+[^5-2]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+### VI. Esenzione dall’imposta
+
+#### Art. 6
+
+<sup>1</sup> Le centrali di obbligazioni fondiarie sono esenti dalle imposte dirette della Confederazione, dei Cantoni e dei Comuni; l’esenzione non si estende alle imposte dirette dei Cantoni e dei Comuni sulla proprietà fondiaria.
+
+<sup>2</sup> I mutui concessi dalle centrali secondo gli articoli 11 e 12, come pure gli interessi che essi fruttano non sono sottoposti ad alcuna tassa federale di bollo.
+
+## Capo II: Emissione di obbligazioni fondiarie e concessione di mutui
+
+### I. Obbligazioni fondiarie
+
+### a. Forma
+
+#### Art. 7
+
+[^7-1]
+
+<sup>1</sup> Le obbligazioni fondiarie possono essere emesse sotto forma di titoli di credito, certificati globali o diritti valori. Tali obbligazioni fondiarie sono nominative o al portatore.
+
+<sup>2</sup> Le obbligazioni fondiarie possono essere emesse anche sotto forma di contratti di mutuo scritti.
+
+<sup>3</sup> Se si emettono obbligazioni fondiarie nominative, la centrale tiene un registro in cui vengono iscritti i proprietari e gli usufruttuari, indicandone nomi e indirizzi. Il registro non è pubblico.
+
+<sup>4</sup> L’iscrizione nel registro presuppone un certificato dell’acquisto dell’obbligazione fondiaria in proprietà o della costituzione di un usufrutto.
+
+<sup>5</sup> Nei confronti della centrale è considerato avente diritto chi è iscritto nel registro.
+
+[^7-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+
+### b. Contenuto
+
+#### Art. 8
+
+[^8-1]
+
+Il Consiglio federale può emanare disposizioni concernenti il contenuto delle obbligazioni fondiarie.
+
+[^8-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+
+### c. Attestazione della copertura legale
+
+#### Art. 9
+
+[^9-1]
+
+Prima dell’emissione delle obbligazioni fondiarie, gli organi responsabili attestano l’esistenza della copertura legale.
+
+[^9-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+
+### d. Ammontare dell’emissione
+
+#### Art. 10
+
+[^10-1]
+
+Le centrali devono limitare l’emissione d’obbligazioni fondiarie in modo che il totale dei loro impegni, comprese le obbligazioni fondiarie, non sia superiore a 50 volte il loro capitale proprio. Quest’ultimo concetto è definito nell’ordinanza d’esecuzione.
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 15 feb. 1968 ([RU 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 381](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
+
+### II. Mutui
+
+### a. Requisiti
+
+#### Art. 11
+
+<sup>1</sup> Le centrali concedono ai loro membri, sul prodotto della emissione, dei mutui la cui copertura è fissata in conformità dell’articolo 19.
+
+<sup>2</sup> Esse possono altresì concedere ad altri istituti di credito dei mutui garantiti in conformità dell’articolo 26.
+
+### b. Scadenza e rimborso anticipato
+
+#### Art. 12
+
+<sup>1</sup> La scadenza dei mutui deve coincidere con quella delle obbligazioni fondiarie il cui prodotto ha servito a fare essi mutui.
+
+<sup>2</sup> Questi ultimi possono essere rimborsati prima della loro scadenza a condizione che l’istituto debitore dia in pagamento alla centrale, per un ammontare uguale, delle obbligazioni fondiarie della medesima specie di quelle il cui prodotto aveva servito a fare detti mutui e ch’esso rifonda in pari tempo le spese d’emissione non ancora coperte di queste obbligazioni fondiarie.
+
+### III. Obbligo verso i debitori ipotecari
+
+#### Art. 13
+
+I membri delle centrali e gli altri istituti di credito ai quali queste concedono mutui devono far fruire, in quanto sia possibile, i loro debitori ipotecari dei vantaggi risultanti dall’emissione di obbligazioni fondiarie.
+
+## Capo III: Copertura delle obbligazioni fondiarie e dei mutui
+
+### I. Copertura delle obbligazioni fondiarie presso le centrali
+
+### a. In generale
+
+#### Art. 14
+
+[^14-1]
+
+Le obbligazioni fondiarie e gl’interessi non ancora versati devono, in ogni tempo, essere coperti, presso le centrali, mediante mutui concessi in conformità agli articoli 11 e 12. La parte riservata, come all’articolo 5 numero 2 dev’essere coperta da cartelle di rendita fondiaria; questi titoli sono custoditi ed amministrati dalle centrali.
+
+[^14-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 15 feb. 1968 ([RU 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 381](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
+
+### b. Aumento della copertura
+
+#### Art. 15
+
+Quando la copertura frutti interessi inferiori a quelli delle obbligazioni fondare, essa dev’essere aumentata in proporzione.
+
+### c. Registro dei pegni delle centrali
+
+#### Art. 16
+
+<sup>1</sup> Le centrali devono iscrivere nel registro dei pegni la copertura delle obbligazioni fondiarie che si trova in loro possesso.
+
+<sup>2</sup> Le disposizioni a ciò necessarie sono emanate dal Consiglio federale.
+
+### d. Gestione della copertura
+
+#### Art. 17
+
+<sup>1</sup> Le centrali devono conservare separatamente dagli altri loro valori la copertura iscritta nel registro dei pegni.
+
+<sup>2</sup> Esse hanno l’obbligo di far valere in loro proprio nome, nell’interesse dei creditori di obbligazioni fondiarie, tutti i diritti che derivano da essa copertura.
+
+### e. Diritto di pegno delle obbligazioni fondiarie
+
+#### Art. 18
+
+Le obbligazioni fondiarie fruiscono, tanto per il capitale quanto per gl’interessi non ancora versati, di un diritto di pegno sulla copertura iscritta nel registro dei pegni delle centrali, senza che sia necessario conchiudere uno speciale contratto di pegno e consegnare la copertura ai creditori delle obbligazioni fondiarie o ai loro rappresentanti.
+
+### II. Copertura dei mutui conservata dai membri
+
+### a. In generale
+
+#### Art. 19
+
+<sup>1</sup> I mutui fatti dalle centrali ai loro membri e gl’interessi non ancora versati devono essere in ogni tempo coperti da crediti dei membri verso i loro debitori. Questi crediti devono essere garantiti da pegno immobiliare o da pegno manuale e sono conservati e amministrati dai loro membri.
+
+<sup>2</sup> I pegni immobiliari di questi crediti devono essere situati nella Svizzera e i pegni manuali devono consistere in crediti ipotecari o in obbligazioni fondiarie svizzeri.
+
+### b. Aumento della copertura
+
+#### Art. 20
+
+Quando la copertura fornita da un membro frutti interessi inferiori a quelli dei mutui concessi dalla centrale, essa dev’essere aumentata in proporzione.
+
+### c. Registro di pegni dei membri
+
+#### Art. 21
+
+<sup>1</sup> I membri devono iscrivere in un registro dei pegni la copertura dei mutui che si trova in loro possesso.
+
+<sup>2</sup> Le disposizioni a ciò necessarie sono emanate dal Consiglio federale.
+
+### d. Gestione della copertura
+
+#### Art. 22
+
+<sup>1</sup> I membri devono conservare separatamente dagli altri valori la copertura dei mutui ricevuti iscritta nel loro registro dei pegni.
+
+<sup>2</sup> Essi hanno l’obbligo di far valere in loro nome, nell’interesse della centrale, tutti i diritti derivanti da questa copertura.
+
+### e. Diritto di pegno dei mutui
+
+#### Art. 23
+
+[^23-1]
+
+I mutui fatti dalle centrali, con gli interessi non ancora versati, fruiscono di un diritto di pegno sulla copertura iscritta nel registro di pegni dei membri, senza che sia necessario concludere uno speciale contratto di pegno e consegnare la copertura alle centrali o ai loro rappresentanti o sia necessaria un’iscrizione nel registro fondiario.
+
+[^23-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+
+### f. Rendimento dei conti
+
+#### Art. 24
+
+<sup>1</sup> Il membro debitore d’un mutuo deve presentare il conto di gestione della copertura in suo possesso annualmente a una data prestabilita e inoltre ogni qualvolta la centrale d’emissione lo richieda.
+
+<sup>2</sup> Nessuna indennità gli è assegnata per questa gestione e per l’allestimento del conto.
+
+### III. Copertura completiva
+
+#### Art. 25
+
+<sup>1</sup> Qualora la copertura non raggiunga più l’ammontare prescritto e non se ne possa colmare immediatamente la differenza, la copertura mancante sarà completata sia con contanti, sia con obbligazioni quotate in borsa della Confederazione, dei Cantoni o dei Comuni. In questo caso, le obbligazioni devono essere valutate al novantacinque per cento al più del corso del giorno.
+
+<sup>2</sup> Gli articoli 14 a 23 si applicano altresì alla copertura completiva.
+
+### IV. Mutui a istituti non affiliati
+
+#### Art. 26
+
+<sup>1</sup> Gl’istituti di credito che, senza essere membri di una centrale, desiderano ottenere dei mutui, devono costituire in pegno giusta gli articoli 899 a 901 del Codice civile svizzero[^26-1], presso la centrale, dei crediti ipotecari o dei valori di complemento atti a formare la copertura di obbligazioni fondiarie e rappresentanti almeno il centocinque per cento dei mutui concessi.
+
+<sup>2</sup> La centrale iscriverà nel registro dei pegni i valori di copertura ad essa consegnati.
+
+[^26-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+## Capo IV: Realizzazione del pegno
+
+### I. Specie dell’esecuzione
+
+#### Art. 27
+
+L’esecuzione contro le centrali, per crediti dei possessori di obbligazioni fondiarie, come pure l’esecuzione da parte delle centrali contro i membri costituiti in società anonime o in società cooperative, per crediti derivanti da mutui fatti da esse centrali, non possono avvenire che in via di fallimento. È riservata la protezione dei creditori delle obbligazioni fondiarie e dei mutui conformemente all’articolo 42.
+
+### II. …
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Abrogato dal n. 5 dell’all. della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+
+### III. Grado dei crediti
+
+#### Art. 29
+
+[^29-1]
+
+Indipendentemente dalla data della loro emissione, tutte le obbligazioni fondiarie di una centrale sono garantite nel medesimo grado dalla copertura.
+
+[^29-1]: Nuovo testo giusta il n. 5 dell’all. della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+
+### IV. Comunione di creditori
+
+#### Art. 30
+
+Le norme sulla comunione dei creditori nei prestiti per obbligazioni s’applicano ai creditori di obbligazioni fondiarie. In questo caso, tutti i possessori di crediti contratti con il medesimo saggio d’interesse e le medesime condizioni di rimborso formano una comunione di creditori.
+
+### V. Realizzazione di pegni depositati da istituti non affiliati
+
+#### Art. 31
+
+Se una centrale d’emissione ha concesso un mutuo in conformità dell’articolo 26 può – qualora il debitore non abbia puntualmente adempiti i suoi obblighi e l’intimazione sia rimasta infruttuosa – realizzare col maggior vantaggio possibile i valori costituiti in pegno e prelevare sul ricavo della vendita la somma che gli spetta.
+
+## Capo V: Valutazione dei pegni ipotecari e fissazione dei mutui
+
+### I. Norme sulle valutazioni
+
+#### Art. 32
+
+<sup>1</sup> Le centrali devono emanare, in virtù delle disposizioni che seguono e tenendo conto delle stime ufficiali dei Cantoni, delle norme sul modo di determinare il più esattamente possibile il valore dei fondi gravati da un’ipoteca destinata a servire da copertura. Queste norme richiedono l’approvazione del Consiglio federale.
+
+<sup>2</sup> L’Autorità federale di vigilanza sui mercati finanziari (FINMA) può esigere una nuova stima dei fondi, quando il valore del denaro o le condizioni economiche si siano profondamente modificati.[^32-1]
+
+[^32-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+### II. Base della valutazione
+
+#### Art. 33
+
+<sup>1</sup> Per la valutazione del valore commerciale di un fondo non devono entrare in linea di conto che le sue qualità permanenti.
+
+<sup>2</sup> Trattandosi di un fondo sfruttato principalmente a scopo agricolo o forestale, la valutazione deve essere fatta secondo il reddito medio.
+
+### III. Limiti dei prestiti
+
+### a. Massimi
+
+#### Art. 34
+
+Sono ammessi come copertura di obbligazioni fondiarie o di mutui, con riserva delle ipoteche di grado precedente a garanzia di un capitale e degli interessi:
+
+- 1\. i crediti ipotecari costituiti su fondi sfruttati principalmente a scopo agricolo o forestale, fino al limite di cinque sesti al più del valore del reddito, in quanto questo sia stato valutato, senza però mai superare i due terzi del valore venale;
+- 2\. i crediti ipotecari costituiti su altri fondi, fino al limite di due terzi al più del valore venale.
+
+### b. Riduzioni
+
+#### Art. 35
+
+Trattandosi di terreni fabbricativi, di stabilimenti industriali e di altri fondi il cui reddito abbia un carattere analogo, le norme da emanare in virtù dell’articolo 32 stabiliranno dei limiti di prestito proporzionalmente inferiori e conterranno disposizioni protettive per il caso di deprezzamento del pegno.
+
+### c. Crediti non atti come copertura
+
+#### Art. 36
+
+I crediti costituiti con diritti di pegno su fondi, il cui valore diminuisce in seguito ad uno sfruttamento normale, come le cave e miniere, non sono ammessi come copertura di obbligazioni fondiarie o di mutui.
+
+## Capo VI: Vigilanza e revoca dell’autorizzazione
+
+### I. Rappresentante dei debitori ipotecari
+
+#### Art. 37
+
+Il Consiglio federale ha il diritto di nominare un rappresentante dei debitori ipotecari come membro del consiglio d’amministrazione o della direzione di ciascuna centrale.
+
+### II. Norme per i bilanci
+
+#### Art. 38
+
+Il Consiglio federale determina in quale forma debbano venir compilati e pubblicati i bilanci annuali e i conti dei profitti e delle perdite, come pure i bilanci intermedi delle centrali; determina altresì quali dati debbano contenere i bilanci e quali indicazioni speciali sul movimento d’affari debba fornire il rapporto di gestione.
+
+### III. Verifica delle centrali d’emissione di obbligazioni fondiarie
+
+#### Art. 38a
+
+[^38a-1]
+
+<sup>1</sup> Le centrali d’emissione di obbligazioni fondiarie incaricano una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* capoverso 1 della legge del 16 dicembre 2005[^38a-2] sui revisori di effettuare una verifica conformemente all’articolo 24 della legge del 22 giugno 2007[^38a-3] sulla vigilanza dei mercati finanziari.
+
+<sup>2</sup> Le centrali d’emissione di obbligazioni fondiarie devono sottoporre il loro conto annuale ed eventualmente il loro conto di gruppo alla verifica di un’impresa di revisione sotto sorveglianza statale secondo i principi della revisione ordinaria del Codice delle obbligazioni[^38a-4].
+
+[^38a-1]: Introdotto dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Nuovo testo giusta il n. 3 dell’all. alla L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^38a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^38a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^38a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### IV. Verifica presso i membri
+
+#### Art. 38b
+
+[^38b-1]
+
+<sup>1</sup> Le società di audit dei membri delle centrali d’emissione di obbligazioni fondiarie verificano nell’ambito della loro attività annuale il registro dei pegni e la copertura dei mutui.
+
+<sup>2</sup> Le società di audit presentano un rapporto sulle loro verifiche alle centrali di emissione di obbligazioni fondiarie e alle società di audit da esse incaricate.
+
+[^38b-1]: Introdotto dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+### V. Vigilanza
+
+#### Art. 39
+
+[^39-1]
+
+Gli articoli 33*–*35 e 37 della legge del 22 giugno 2007[^39-2] sulla vigilanza dei mercati finanziari non sono applicabili.
+
+[^39-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^39-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+### VI. Consegna dei valori di copertura
+
+#### Art. 40
+
+[^40-1]
+
+<sup>1</sup> La FINMA può ordinare la consegna dei valori di copertura qualora una centrale o un membro, che ne sia mutuatario, violi reiteratamente e gravemente le prescrizioni o comprometta seriamente la fiducia in essa riposta.
+
+<sup>2</sup> La FINMA può affidare la gestione dei valori di copertura a un incaricato dell’inchiesta, a spese della centrale o del membro, fino al ripristino della situazione conforme.
+
+[^40-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+### VII. Revoca dell’autorizza- zione
+
+[^chapVI-lvlVII-1]
+
+[^chapVI-lvlVII-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+#### Art. 41
+
+[^41-1]
+
+Se la centrale rifiuta reiteratamente di sottoporsi ai provvedimenti ordinati dall’autorità di vigilanza, la FINMA[^41-2] può proporre al Consiglio federale di revocarle l’autorizzazione d’emettere obbligazioni fondiarie.
+
+[^41-1]: Nuovo testo giusta il n. I della LF del 19 mar. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [FF 1981 III 165](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
+[^41-2]: Nuova espr. giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+### VIII. Applica- zione delle disposizioni sull’insolvenza bancaria
+
+#### Art. 42
+
+[^42-1]
+
+Gli articoli 25–37*g* della legge dell’8 novembre 1934[^42-2] sulle banche si applicano per analogia.
+
+[^42-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^42-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 43
+
+[^43-1]
+
+[^43-1]: Abrogato dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+## Capo VII: Responsabili e disposizioni penali
+
+### I. Responsabilità civile
+
+#### Art. 44
+
+Chiunque trasgredisce la presente legge o l’ordinanza d’esecuzione è responsabile del danno cagionato verso i creditori delle obbligazioni fondiarie o dei mutui.
+
+### II. Fattispecie penali
+
+### a. Contravvenzioni
+
+#### Art. 45
+
+[^45-1]
+
+- 1\. Chiunque, senza esserne autorizzato, emette obbligazioni designate col nome di obbligazioni fondiarie,
+- chiunque emette obbligazioni fondiare o riceve mutui per i quali sa che la copertura è insufficiente o manca,
+- è punito, in quanto non ricorrano gli estremi per una pena più severa in virtù del Codice penale svizzero[^45-2], con una multa sino a 50 000 franchi.[^45-3]
+- 2\. Se l’autore ha agito per negligenza, la pena è della multa fino a 30000 franchi.
+
+[^45-1]: Nuovo testo giusta il n. 3 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^45-3]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+
+### b. Inosservanza di prescrizioni d’ordine
+
+#### Art. 46
+
+[^46-1]
+
+<sup>1</sup> Chiunque, intenzionalmente o per negligenza,
+
+- a. emette obbligazioni fondiarie per un importo eccedente quello ammissibile secondo l’articolo 10;
+- b. non si attiene alle norme su la tenuta del registro dei pegni, la conservazione separata della copertura o la compilazione del bilancio e del conto profitti e perdite oppure
+- c. intralcia, impedisce o rende impossibile il regolare andamento di una verificazione contabile o di un altro controllo ufficiale,
+- è punito con una multa disciplinare fino a 5000 franchi.
+
+<sup>2</sup> In caso di infrazione a tenore del capoverso 1 lettera *c*, rimane riservata l’azione penale secondo l’articolo 285 del Codice penale svizzero[^46-2].
+
+[^46-1]: Nuovo testo giusta il n. 3 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^46-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 47
+
+[^47-1]
+
+[^47-1]: Abrogato dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+
+#### Art. 48 e 49
+
+[^4849-1]
+
+[^4849-1]: Abrogati dal n. 3 dell’all. alla LF del 22 mar. 1974 sul diritto penale amministrativo, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+
+## Capo VIII: Disposizioni transitorie e finali
+
+### I. …
+
+#### Art. 50
+
+[^50-1]
+
+[^50-1]: Abrogato dal n. 5 dell’all. della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+
+### II. Obbligazioni fondiarie del diritto cantonale
+
+#### Art. 51
+
+La presente legge non tocca le obbligazioni fondiarie di diritto cantonale emesse prima della sua promulgazione.
+
+### III. Attuazione
+
+#### Art. 52
+
+<sup>1</sup> Il Consiglio federale fissa il giorno dell’attuazione della presente legge.
+
+<sup>2</sup> Con l’attuazione della presente legge sono abrogati gli articoli 916 a 918 del Codice civile svizzero[^52-1]. …[^52-2]
+
+Data dell’entrata in vigore: 1° febbraio 1931[^52-3]
+
+[^52-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^52-2]: Per. abrogato dal n. I della LF del 5 ott. 1967, con effetto dal 15 feb. 1968 ([RU 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 381](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
+[^52-3]: DCF del 23 gen. 1931 (RU **47** 69).

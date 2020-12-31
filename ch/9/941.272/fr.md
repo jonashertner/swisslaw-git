@@ -1,0 +1,175 @@
+---
+sr: "941.272"
+title: "Ordonnance du 21 novembre 2012 sur l'Institut fédéral de métrologie (OIFM)"
+short: OIFM
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/832"
+language: fr
+version: 2021-01-01
+adopted: 2012-11-21
+in_force: 2013-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-832-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur l’Institut fédéral de métrologie
+
+(OIFM)
+
+du 21 novembre 2012 (Etat le 1<sup>er</sup> janvier 2021)
+
+Le Conseil fédéral suisse,
+
+vu les art. 1, al. 3, 3, al. 4 et 5, 4, al. 2, 7, 9, al. 2, et 12, al. 1, de la loi du 17 juin 2011 sur l’Institut fédéral de métrologie (LIFM)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+
+#### Art. 1
+
+**Raison sociale et siège**
+
+<sup>1</sup>
+
+L’Institut fédéral de métrologie (METAS) est inscrit au registre du commerce sous la dénomination suivante:
+
+- Eidgenössisches Institut für Metrologie METAS
+- Institut fédéral de métrologie METAS
+- Istituto federale di metrologia METAS
+- Institut federal da metrologia METAS
+
+<sup>2</sup> Il a son siège à Köniz.
+
+#### Art. 2
+
+**Représentation dans les organisations et associations internationales**
+
+<sup>1</sup> Conformément à la Convention du 20 mai 1875 relative à l’établissement d’un bureau international des poids et mesures (Convention du mètre)[^2-1], METAS représente la Suisse à la Conférence générale des poids et mesures.
+
+<sup>2</sup> Conformément à la Convention du 12 octobre 1955 instituant une Organisation internationale de Métrologie légale[^2-2], il représente la Suisse au sein du comité de l’Organisation internationale de Métrologie légale.
+
+[^2-1]: [RS 0.941.291](https://fedlex.data.admin.ch/eli/cc/2/3_3_3)
+[^2-2]: [RS 0.941.290](https://fedlex.data.admin.ch/eli/cc/1971/1145_1145_1145)
+
+#### Art. 3
+
+**Tâches attribuées contre indemnité**[^3-1]
+
+<sup>1</sup>
+
+METAS exerce les tâches suivantes, qui lui sont confiées contre indemnité:
+
+- a. il entretient le réseau d’observation hydrologique de la Suisse pour l’Office fédéral de l’environnement;
+- b. il fournit des prestations scientifiques et techniques à l’Administration fédérale des douanes; il réalise en particulier des analyses chimiques;
+- c.[^3-2] il fournit des prestations scientifiques et techniques à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires; il fait office en particulier, sous réserve de l’art. 60 de l’ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires[^3-3], de laboratoire national de référence au sens de l’art. 43 de la loi du 20 juin 2014 sur les denrées alimentaires[^3-4];
+- d. il fournit des prestations scientifiques et techniques à l’Office fédéral de la santé publique; il réalise en particulier des analyses chimiques;
+- e.[^3-5] il met à disposition du Service d’accréditation suisse du Secrétariat d’État à l’économie des experts techniques;
+- f.[^3-6] il fournit des prestations scientifiques et techniques à l’Office fédéral des routes; il mène en particulier des études et élabore des méthodes de mesures ayant une application pratique dans le domaine de la circulation routière.
+
+<sup>2</sup> La collaboration est réglée par des contrats de droit public.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5877](https://fedlex.data.admin.ch/eli/oc/2017/638)).
+[^3-2]: Nouvelle teneur selon l’art. 117 ch. 1 de l’O du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)).
+[^3-3]: RS **817****.****042**
+[^3-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3-5]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+[^3-6]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
+
+#### Art. 4
+
+**Instituts désignés**
+
+<sup>1</sup> Après avoir consulté le Conseil de l’Institut, METAS peut confier certaines tâches prévues à l’art. 3, al. 2, let. a à d, LIFM, à des personnes de droit public ou de droit privé (instituts désignés).
+
+<sup>2</sup> L’institut désigné doit garantir le parfait accomplissement de ses tâches. S’agissant des tâches prévues à l’art. 3, al. 2, let. a et b, LIFM, il doit notamment satisfaire aux exigences de l’« Arrangement de reconnaissance mutuelle des étalons nationaux de mesure et des certificats d’étalonnage et de mesurage émis par les laboratoires nationaux de métrologie » du 14 octobre 1999, révisé en octobre 2003[^4-1].
+
+<sup>3</sup>
+
+METAS conclut avec l’institut désigné un contrat de droit public qui règle notamment les points suivants:
+
+- a. les tâches de l’institut désigné;
+- b. la contre-prestation de METAS.
+
+<sup>4</sup>
+
+L’institut désigné est tenu:
+
+- a. de remplir ses tâches conformément aux exigences de l’al. 2;
+- b. d’en rendre compte à METAS.
+
+<sup>5</sup> Il a droit à la contre-prestation convenue avec METAS.
+
+[^4-1]: Le texte de l’Ac. peut être consulté en français et en anglais auprès de l’Institut fédéral de métrologie, Lindenweg 50, 3003 Berne-Wabern ou sur le site www.bipm.org/fr/cipm-mra.
+
+#### Art. 5
+
+**Indemnités des membres du Conseil de l’Institut**
+
+<sup>1</sup>
+
+Les membres du Conseil de l’Institut sont indemnisés comme suit:
+
+- a. indemnité journalière pour une séance pour le président: 2750 francs;
+- b. indemnité journalière pour une séance pour les autres membres: 2200 francs.
+
+<sup>2</sup> L’indemnité journalière pour une séance inclut le travail de préparation de la séance.
+
+<sup>3</sup> Le remboursement des frais est régi par les dispositions pertinentes applicables au personnel de la Confédération.
+
+#### Art. 6
+
+**Rapports de travail du directeur**
+
+<sup>1</sup> Le contrat de travail conclu avec le directeur de METAS prévoit que la cessation de toute collaboration fructueuse avec le chef du département fédéral de justice et police constitue un motif de résiliation ordinaire pour cause de disparition de l’une des conditions d’engagement fixées dans la loi ou dans le contrat de travail au sens de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^6-1].
+
+<sup>2</sup> En cas de résiliation selon l’al. 1, le directeur a droit à une indemnité correspondant à un an de salaire.
+
+<sup>3</sup>
+
+Aucune indemnité n’est versée au directeur:
+
+- a. si un emploi lui est assuré auprès d’un employeur au sens de l’art. 3 LPers;
+- b. s’il perçoit une rente d’invalidité complète de l’assurance-invalidité, de l’assurance-accidents, de l’assurance militaire ou de la prévoyance professionnelle;
+- c. s’il perçoit une rente de vieillesse de la prévoyance professionnelle.
+
+<sup>4</sup> Le directeur qui est engagé auprès d’un employeur au sens de l’art. 3 LPers dans l’année qui suit la résiliation des rapports de travail avec METAS doit rembourser à METAS l’indemnité qu’il a perçue au prorata du nombre de mois de travail déjà effectués au cours de cette année auprès du nouvel employeur.
+
+[^6-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 6a
+
+**Contrat de travail de durée déterminée**[^6a-1]
+
+Un contrat de durée déterminée peut être conclu, pour cinq ans au plus, avec les employés engagés dans des projets financés avec des moyens limités dans le temps.
+
+[^6a-1]: Introduit par le ch. I de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2143](https://fedlex.data.admin.ch/eli/oc/2013/455)).
+
+#### Art. 7
+
+**Modification du droit en vigueur**
+
+La modification du droit en vigueur est réglée en annexe.
+
+#### Art. 8
+
+**Disposition transitoire**
+
+S’agissant des instituts désignés existants, METAS adapte le recours à leurs services à l’art. 4 d’ici au 31 décembre 2013.
+
+#### Art. 9
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
+
+Annexe
+
+(art. 7)
+
+## Modification du droit en vigueur
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832).

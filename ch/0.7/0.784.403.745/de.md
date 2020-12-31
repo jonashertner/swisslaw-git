@@ -1,0 +1,52 @@
+---
+sr: "0.784.403.745"
+title: Briefwechsel vom 19. Juli/26. Oktober 1993 zwischen der Schweiz und Thailand betreffend den Amateurfunk
+eli: "https://fedlex.data.admin.ch/eli/cc/1994/131_131_131"
+language: de
+version: 1993-12-10
+adopted: 1993-10-26
+in_force: 1993-12-10
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/131_131_131/19931210/de/xml/fedlex-data-admin-ch-eli-cc-1994-131_131_131-19931210-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/131_131_131/19931210/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Briefwechsel vom 19. Juli/26. Oktober 1993 zwischen der Schweiz und Thailand betreffend den Amateurfunk
+
+AS **1994** 131
+
+In Kraft getreten am 10. Dezember 1993
+
+(Stand am 10. Dezember 1993)
+
+*Übersetzung*[^ingress-1]
+
+<table>
+<tr><td>Ministerium für auswärtige Angelegenheiten</td><td>Bangkok, den 26. Oktober 1993 Seiner Exzellenz Herrn Blaise Godet Schweizerischer Botschafter Bangkok</td></tr>
+</table>
+
+Exzellenz,
+
+Ich beehre mich, auf den wie folgt lautenden Brief Ihrer Exzellenz vom 19. Juli 1993 Bezug zu nehmen:
+
+- «Ich beehre mich, Sie davon zu unterrichten, dass die schweizerische Regierung den zur Stärkung der freundschaftlichen Beziehungen zwischen den beiden Ländern erfolgenden Abschluss eines Abkommens zwischen der schweizerischen Regierung und der Regierung des Königreichs Thailand vorschlägt, das zum Ziel hätte, die schweizerischen und die thailändischen Amateurfunker zu ermächtigen, im jeweiligen Land ihre Amateurradiostation zu erstellen und zu betreiben. Folgendes wären die Bedingungen des Abkommens:
+- 1. Jedem thailändischen oder schweizerischen Staatsbürger, der aufgrund einer von seiner Verwaltung ausgestellten Konzession ermächtigt ist, eine Amateurfunkstation zu erstellen und zu betreiben, kann in Übereinstimmung mit diesem Abkommen von der zuständigen Verwaltung des anderen Landes eine gleichwertige Konzession ausgestellt werden.
+- 2. Die ausstellende Verwaltung hält sich an die im eigenen Land gültigen Gesetze und Verordnungen und hat das Recht, Konzessionen jederzeit zu ändern, aufzuheben oder zu entziehen, ohne verpflichtet zu sein, diese Entscheidung zu begründen.
+- 3. Jede Partei informiert die Verwaltung, welche die Originalkonzession ausgestellt hat, über Verfehlungen des zu Gast weilenden Funkamateurs.
+- 4. Dieses Abkommen soll den Bedingungen des Radioreglementes der Internationalen Fernmeldeunion (International Telecommunications Union: ITU)[^ingress-2] und den jeweils massgebenden Gesetzen und Verordnungen der beiden Länder entsprechen.
+- 5. Die Bestimmungen eines entsprechenden multilateralen Abkommens, dem sich beide Parteien anschliessen, würden den Bestimmungen dieses Gegenrechtsabkommens übergestellt.
+- 6. Das Abkommen bleibt bis 60 Tage nach dem Datum in Kraft, an welchem eine Partei der anderen schriftlich mitteilt, dass sie das Abkommen beenden will.
+- Falls die Regierung des Königreichs Thailand Obenstehendes annimmt, beehre ich mich, vorzuschlagen, dass die vorliegende Note und die Antwortnote der Regierung des Königreichs Thailand ein Abkommen zwischen den beiden Regierungen bilden, das 45 Tage nach dem Datum der Antwortnote in Kraft treten wird.
+- Ich versichere Sie, Exzellenz, meiner ausgezeichneten Hochachtung.»
+
+Ich beehre mich, Sie davon zu unterrichten, dass die Regierung des Königreichs Thailand den obenstehenden Vorschlag annimmt; die vorliegende Note und Ihre Note bilden so ein Abkommen zwischen der Regierung des Königreichs Thailand und der schweizerischen Regierung.
+
+Ich versichere Sie, Exzellenz, meiner ausgezeichneten Hochachtung.
+
+<table>
+<tr><td></td><td>Prasong Soonsiri Minister für auswärtige Angelegenheiten</td></tr>
+</table>
+
+[^ingress-1]: Übersetzung des englischen Originaltextes.
+[^ingress-2]: [SR 0.784.403](https://fedlex.data.admin.ch/eli/cc/1980/900_900_900-3)

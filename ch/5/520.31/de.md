@@ -1,0 +1,158 @@
+---
+sr: "520.31"
+title: "Verordnung vom 29. Oktober 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSV)"
+short: KGSV
+eli: "https://fedlex.data.admin.ch/eli/cc/2014/616"
+language: de
+version: 2016-01-01
+adopted: 2014-10-29
+in_force: 2015-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/616/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2014-616-20160101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/616/20160101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen
+
+(KGSV)
+
+vom 29. Oktober 2014 (Stand am 1. Januar 2016)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 3 Absatz 5, 9 Absatz 2, 15 Absatz 4 und 21 Absatz 1 des Bundesgesetzes vom 20. Juni 2014[^ingress-1] über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG),
+
+verordnet:
+
+[^ingress-1]: [SR 520.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7608)
+
+#### Art. 1
+
+**Kategorien von Kulturgütern und Kriterien**
+
+<sup>1</sup>
+
+Die Kulturgüter werden in folgende Kategorien eingeteilt:
+
+- a. Kulturgüter von nationaler Bedeutung (A-Objekte);
+- b. Kulturgüter von regionaler Bedeutung (B-Objekte);
+- c. Kulturgüter von lokaler Bedeutung (C-Objekte).
+
+<sup>2</sup>
+
+Bei der Einteilung werden folgende Kriterien berücksichtigt:
+
+- a. architektonische und künstlerische Bedeutung;
+- b. wissenschaftliche und kunstwissenschaftliche Bedeutung;
+- c. ideelle und materielle Bedeutung;
+- d. historische Bedeutung;
+- e. technische Bedeutung;
+- f. bei Bauwerken zusätzlich zu den Buchstaben a–e: Bedeutung im Orts- oder Landschaftsbild und Qualität des Bauwerks unter Einbezug der unmittelbaren Umgebung;
+- g.
+
+  bei Sammlungen zusätzlich zu den Buchstaben a–e:
+
+  - 1\. Wert der Sammlung im Kontext,
+  - 2\. kulturelle Bedeutung und Bekanntheitsgrad,
+  - 3\. Zustand der Objekte und Art der Lagerung.
+
+#### Art. 2
+
+**KGS-Inventar, C-Objekte und Geoportal des Bundes**
+
+<sup>1</sup> Das Kulturgüterschutzinventar mit den A- und den B-Objekten (KGS-Inventar) wird vom Bundesamt für Bevölkerungsschutz (BABS) in Zusammenarbeit mit den Kantonen und der Eidgenössischen Kommission für Kulturgüterschutz erstellt. Es wird periodisch nachgeführt.
+
+<sup>2</sup> Die Kantone regeln die Bezeichnung der C-Objekte.
+
+<sup>3</sup> Das BABS liefert dem Bundesamt für Landestopografie die Daten zu den A‑Objekten. Das Bundesamt für Landestopografie bildet die Daten im Geoportal des Bundes ab.
+
+#### Art. 3
+
+**Information**
+
+Das BABS und die Kantone sorgen dafür, dass Behörden, Fachstellen, Fachorganisationen und die Bevölkerung über Sinn und Zweck der Massnahmen zum Schutz der Kulturgüter informiert werden.
+
+#### Art. 4
+
+**Ausbildung und Personal**
+
+<sup>1</sup>
+
+Die Ausbildung des Kaders des Zivilschutzes, das für den Kulturgüterschutz zuständig ist, sowie der Kulturgüterspezialistinnen und -spezialisten des Zivilschutzes umfasst insbesondere folgende Themen:
+
+- a. die Inventarisierung;
+- b. die Erstellung von Kurzdokumentationen;
+- c. die Evakuationsplanung;
+- d. die Einsatzplanung in Zusammenarbeit mit der Feuerwehr;
+- e. den Einsatz im Fall von Katastrophen.
+
+<sup>2</sup>
+
+Die Ausbildung des Personals kultureller Institutionen umfasst insbesondere:
+
+- a. die Planung von Schutzmassnahmen;
+- b. die Unterstützung und Beratung der Partnerorganisationen des Bevölkerungsschutzes im Fall von Katastrophen.
+
+<sup>3</sup> Das BABS stellt den Kantonen die nötigen Ausbildungsunterlagen zur Verfügung.
+
+#### Art. 5
+
+**Sicherstellungsdokumentationen und fotografische Sicherheitskopien**
+
+<sup>1</sup> Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) legt die Anforderungen an Sicherstellungsdokumentationen und die Einzelheiten der Herstellung, Handhabung, Verarbeitung und Aufbewahrung von fotografischen Sicherheitskopien fest.
+
+<sup>2</sup> Das BABS führt ein zentrales Mikrofilmarchiv zur Aufbewahrung der fotografischen Sicherheitskopien.
+
+<sup>3</sup> Es erwirbt von jedem Verfilmungsprojekt der Kantone eine fotografische Sicherheitskopie in Form einer Positivkopie und bewahrt sie auf.
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4751](https://fedlex.data.admin.ch/eli/oc/2015/780)).
+
+#### Art. 7
+
+**Kennzeichnung**
+
+<sup>1</sup> Das VBS legt die Einzelheiten der technischen Vorgaben für die Herstellung und das Anbringen der Kennzeichen fest.
+
+<sup>2</sup> Es kann den Kantonen die Kennzeichen bereits in Friedenszeiten abgeben.
+
+#### Art. 8
+
+**Bergungsort**
+
+Das BABS vollzieht Staatsverträge nach Artikel 12 Absatz 2 KGSG in enger Zusammenarbeit mit den betroffenen Bundesstellen.
+
+#### Art. 9
+
+**Aufhebung und Änderung anderer Erlasse**
+
+Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
+
+#### Art. 10
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+
+Anhang
+
+(Art. 9)
+
+## Aufhebung und Änderung anderer Erlasse
+
+I
+
+Die Verordnung vom 17. Oktober 1984[^annexu1-lvlu1-1] über den Schutz der Kulturgüter bei bewaffneten Konflikten wird aufgehoben.
+
+II
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+…[^annexu1-lvlu1-2]
+
+[^annexu1-lvlu1-1]: [[AS 1984 1250](https://fedlex.data.admin.ch/eli/oc/1984/1250_1250_1250), [1994 2678](https://fedlex.data.admin.ch/eli/oc/1994/2678_2678_2678), [1995 207](https://fedlex.data.admin.ch/eli/oc/1995/207_207_207)Art. 27, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 42, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.6]
+[^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)konsultiert werden.

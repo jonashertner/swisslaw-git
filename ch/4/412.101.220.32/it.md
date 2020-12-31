@@ -1,0 +1,352 @@
+---
+sr: "412.101.220.32"
+title: Ordinanza della SEFRI del 9 ottobre 2006 sulla formazione professionale di base Cuoca in dietetica/Cuoco in dietetica con attestato federale di capacità (AFC)
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/807"
+language: it
+version: 2013-01-01
+adopted: 2006-10-09
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/807/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2006-807-20130101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/807/20130101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza della SEFRI**** sulla formazione professionale di base Cuoca in dietetica/Cuoco in dietetica con attestato federale di capacità (AFC)
+
+del 9 ottobre 2006 (Stato 1° gennaio 2013)[^t-1]
+
+[^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
+
+<table>
+<tr><td>79004</td><td>Cuoca in dietetica AFC/Cuoco in dietetica AFC</td></tr>
+<tr><td></td><td>Diätköchin EFZ/Diätkoch EFZ</td></tr>
+<tr><td></td><td>Cuisinière en diététique CFC/Cuisinier en diététique CFC</td></tr>
+</table>
+
+La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
+
+visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sulla formazione professionale (LFPr); visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr),
+
+ordina:
+
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+
+## Sezione 1: Oggetto e durata
+
+#### Art. 1
+
+**Denominazione e profilo professionale**
+
+<sup>1</sup> La denominazione professionale è cuoca in dietetica AFC/cuoco in dietetica AFC.
+
+<sup>2</sup> Grazie alla loro formazione di base di cuoco, i cuochi in dietetica AFC dispongono di approfondite conoscenze sulle modalità di preservare e promuovere la salute e il benessere delle persone che si servono della ristorazione collettiva, ospedaliera e negli istituti sanitari nonché nel ramo alberghiero wellness e della salute, offrendo un’alimentazione corrispondente alle loro esigenze.
+
+Mettono in atto misure dietetiche e direttive alimentari prescritte dal medico sotto forma di regimi dietetici e pietanze adeguate alle diverse esigenze e malattie. Impiegano in modo economico le forme specifiche di produzione, i sistemi di distribuzione delle pietanze e i tipi di servizio in vigore.
+
+#### Art. 2
+
+**Durata e inizio della formazione professionale di base; campo d’applicazione della presente ordinanza**
+
+<sup>1</sup> La formazione professionale di base dura quattro anni, i primi tre dei quali corrispondono alla formazione professionale di cuoco.
+
+<sup>2</sup> È ammesso al quarto anno di formazione solo chi ha conseguito l’attestato federale di capacità di cuoco.
+
+<sup>3</sup> L’inizio della formazione professionale di base segue il calendario della relativa scuola professionale.
+
+<sup>4</sup> La presente ordinanza e il relativo piano di formazione valgono per il quarto anno della formazione professionale di base e per la parte della procedura di qualificazione specifica del cuoco in dietetica AFC.
+
+## Sezione 2: Obiettivi ed esigenze
+
+#### Art. 3
+
+**Competenze**
+
+<sup>1</sup> Gli obiettivi ed esigenze della formazione professionale di base nel quarto anno di formazione sono espressi sotto forma di competenze operative secondo gli articoli da 4 a 6.
+
+<sup>2</sup> Essi valgono per tutti i luoghi di formazione.
+
+#### Art. 4
+
+**Competenza professionale**
+
+La competenza professionale comprende conoscenze e capacità nei seguenti ambiti:
+
+- a. alimentazione e dietetica;
+- b. economia aziendale, organizzazione aziendale e forme di produzione.
+
+#### Art. 5
+
+**Competenza metodologica**
+
+La competenza metodologica comprende conoscenze e capacità nei seguenti ambiti:
+
+- a. tecniche di lavoro e risoluzione di problemi;
+- b. approccio reticolare, orientato al processo, a livello teorico e operativo;
+- c. strategie d’informazione e di comunicazione;
+- d. strategie d’apprendimento;
+- e. tecniche creative;
+- f. tecniche di presentazione.
+
+#### Art. 6
+
+**Competenza sociale e personale**
+
+La competenza sociale e personale comprende conoscenze e capacità nei seguenti ambiti:
+
+- a. modo di operare responsabile;
+- b. apprendimento continuo;
+- c. capacità di comunicazione;
+- d. capacità di gestire i conflitti;
+- e. capacità di lavorare in gruppo;
+- f. forme comportamentali;
+- g. capacità di lavorare sotto pressione.
+
+## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
+
+#### Art. 7
+
+<sup>1</sup> All’inizio della formazione, gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente.
+
+<sup>2</sup> Dette prescrizioni e raccomandazioni vengono fornite in tutti i luoghi di formazione e considerate ai fini delle procedure di qualificazione.
+
+## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
+
+#### Art. 8
+
+**Parti svolte dai luoghi di formazione**
+
+<sup>1</sup> La formazione professionale pratica si svolge in media su quattro giorni alla settimana per tutta la durata della formazione professionale di base.
+
+<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 360 lezioni. Esso include 40 lezioni per l’insegnamento dello sport.
+
+<sup>3</sup> I corsi interaziendali hanno una durata complessiva minima di quattro e massima di sei giornate di otto ore.
+
+#### Art. 9
+
+**Lingua d’insegnamento**
+
+<sup>1</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
+
+<sup>2</sup> È raccomandato l’insegnamento bilingue nella lingua nazionale locale e in un’altra lingua nazionale o in inglese.
+
+<sup>3</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
+
+## Sezione 5: Piano di formazione
+
+#### Art. 10
+
+**Piano di formazione**
+
+<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione per il quarto anno della formazione professionale di base, redatto dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+
+<sup>2</sup>
+
+Esso specifica le competenze operative di cui agli articoli da 4 a 6 come segue:
+
+- a. spiega la loro rilevanza per la formazione professionale di base;
+- b. definisce il tipo di comportamento atteso in determinate situazioni di lavoro;
+- c. precisa le competenze operative mediante obiettivi di valutazione concreti;
+- d. rapporta coerentemente le competenze operative alle procedure di qualificazione, di cui precisa le modalità.
+
+<sup>3</sup>
+
+Il piano di formazione stabilisce inoltre:
+
+- a. la struttura curricolare della formazione professionale di base;
+- b. l’organizzazione dei corsi interaziendali e la loro ripartizione sulla durata della formazione di base;
+- c. i campi di qualificazione menzionati nel certificato delle note di cui all’articolo 20 capoverso 3 e rilevanti per le ripetizioni di cui all’articolo 18;
+- d. le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente.
+
+<sup>4</sup> Al piano di formazione è allegato l’elenco della documentazione concernente la realizzazione della formazione professionale di base per cuochi in dietetica AFC con indicazione di titolo, data e centro di distribuzione.
+
+## Sezione 6: Requisiti per gli operatori della formazione nell’azienda di tirocinio
+
+#### Art. 11
+
+**Requisiti professionali minimi richiesti ai formatori**
+
+I requisiti professionali minimi sono soddisfatti se il formatore del quarto anno di formazione possiede una delle seguenti qualifiche:
+
+- a. attestato federale di capacità di cuoco in dietetica e due anni di pratica professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di cuoco dietista qualificato e due anni di pratica professionale nel campo d’insegnamento;
+- c. attestato professionale federale di cuoco d’ospedale, d’istituto sanitario e della ristorazione collettiva;
+- d. diploma di capo cuoco/capo di produzione.
+
+#### Art. 12
+
+**Numero massimo di persone in formazione**
+
+<sup>1</sup>
+
+In un’azienda può svolgere il tirocinio una persona in formazione se:
+
+- a. è occupato al 100 per cento un formatore qualificato; oppure
+- b. sono occupati due formatori qualificati, ciascuno almeno al 60 per cento.
+
+<sup>2</sup> Per ogni altro specialista occupato al 100 per cento o per ogni due specialisti occupati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+
+<sup>3</sup> È considerato specialista il titolare di un attestato di capacità nel campo della persona in formazione o chi dispone di una qualifica equivalente.
+
+<sup>4</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione per le aziende di tirocinio che da più anni svolgono la loro funzione di formazione con un successo superiore alla media.
+
+## Sezione 7: Documentazione dell’apprendimento e delle prestazioni
+
+#### Art. 13
+
+**Documentazione dell’apprendimento nell’azienda**
+
+<sup>1</sup> La persona in formazione tiene una documentazione dell’apprendimento, in cui annota regolarmente i principali lavori eseguiti, le capacità acquisite e le esperienze fatte in azienda.
+
+<sup>2</sup> Il formatore controlla e firma tale documentazione ogni trimestre. La discute con la persona in formazione almeno una volta al semestre.
+
+<sup>3</sup> Il formatore rileva in un rapporto scritto il livello raggiunto dalla persona in formazione.
+
+#### Art. 14
+
+**Documentazione delle prestazioni nella formazione scolastica e nella formazione di base organizzata dalla scuola**
+
+Gli operatori della formazione scolastica e della formazione di base organizzata dalla scuola documentano le prestazioni delle persone in formazione nelle materie insegnate e consegnano loro una pagella alla fine di ogni semestre.
+
+## Sezione 8: Procedura di qualificazione
+
+#### Art. 15
+
+**Ammissione**
+
+<sup>1</sup>
+
+È ammesso alla procedura di qualificazione chi ha superato la procedura di qualificazione di cuoco AFC e ha assolto la formazione professionale di cuoco in dietetica:
+
+- a. secondo le disposizioni della presente ordinanza;
+- b. in un istituto di formazione autorizzato dal Cantone; oppure
+- c. al di fuori di un ciclo di formazione regolare e dimostra di soddisfare i requisiti per l’esame finale.
+
+<sup>2</sup> L’esperienza professionale richiesta di cui all’articolo 32 OFPr è sufficiente per l’ammissione sia alla procedura di qualificazione di cuoco AFC sia a quella di cuoco in dietetica AFC; per l’ammissione alla procedura di qualificazione di cuoco in dietetica AFC devono tuttavia essere stati svolti almeno due anni nel campo del cuoco in dietetica.
+
+#### Art. 16
+
+**Oggetto, durata e svolgimento**
+
+<sup>1</sup> Nella procedura di qualificazione si deve dimostrare di aver acquisito le competenze di cui agli articoli da 4 a 6 durante il quarto anno di formazione.
+
+<sup>2</sup>
+
+Nell’esame finale vengono esaminati i campi di qualificazione sotto elencati nel modo seguente:
+
+- a. lavoro pratico, della durata di circa cinque ore. La persona in formazione deve dimostrare di essere in grado di eseguire, in modo professionalmente corretto e adeguato alle necessità e alla situazione, le attività richieste nell’ambito di un lavoro prestabilito. La documentazione dell’apprendimento, quella dei corsi interaziendali e la letteratura specializzata possono essere consultate come ausilio;
+- b. conoscenze professionali, della durata di circa quattro ore. L’esame è orale oppure sia scritto sia orale.
+
+#### Art. 17
+
+**Superamento**
+
+<sup>1</sup>
+
+L’esame finale è superato se:
+
+- a. per il campo di qualificazione «lavoro pratico» viene attribuito il 4 o una nota superiore; e
+- b. la nota complessiva raggiunge o supera il 4.
+
+<sup>2</sup> La nota complessiva è data dalla media delle note ponderate dei campi di qualificazione dell’esame finale, della nota scolastica ponderata relativa all’insegnamento professionale e della nota ponderata relativa ai corsi interaziendali ed è arrotondata a un decimale.
+
+<sup>3</sup> La nota scolastica relativa all’insegnamento professionale è data dalla media di tutte le note semestrali conseguite nelle due materie: alimentazione e dietetica nonché economia aziendale, organizzazione aziendale e forme di produzione. La nota relativa ai corsi interaziendali è data dalla media delle note ottenute in tutti i corsi valutati.
+
+<sup>4</sup>
+
+Per il calcolo della nota complessiva, le note vengono ponderate come segue:
+
+- a. lavoro pratico: conta doppio;
+- b. conoscenze professionali: conta una volta sola;
+- c. nota dei luoghi di formazione: conta una volta sola,
+  - – nota scolastica relativa all’insegnamento professionale,
+  - – nota relativa ai corsi interaziendali.
+
+#### Art. 18
+
+**Ripetizioni**
+
+<sup>1</sup> La ripetizione della procedura di qualificazione è disciplinata dall’articolo 33 OFPr. Qualora debba essere ripetuto un campo di qualificazione, esso va ripetuto interamente.
+
+<sup>2</sup> Qualora si ripeta la procedura di qualificazione senza frequentare nuovamente la scuola professionale o i corsi interaziendali, restano valide le note dei luoghi di formazione conseguite in precedenza. Se si ripetono l’insegnamento professionale o i corsi interaziendali fanno stato le relative nuove note.
+
+#### Art. 19
+
+**Caso particolare**
+
+Per le persone che hanno assolto la formazione diversamente da quanto disciplinato dalla presente ordinanza, invece della nota dei luoghi di formazione si terrà in considerazione quella del campo di qualificazione «conoscenze professionali» raddoppiata.
+
+## Sezione 9: Attestazioni e titolo
+
+#### Art. 20
+
+**Attestato federale di capacità**
+
+<sup>1</sup> Chi ha superato la procedura di qualificazione, riceve l’attestato federale di capacità (AFC).
+
+<sup>2</sup> L’attestato federale di capacità conferisce al titolare il diritto di avvalersi della designazione legalmente protetta di «cuoca in dietetica AFC/cuoco in dietetica AFC».
+
+<sup>3</sup>
+
+Nel certificato delle note figurano:
+
+- a. la nota complessiva;
+- b. le note di ogni campo di qualificazione e le note dei luoghi di formazione.
+
+## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità per cuochi in dietetica AFC
+
+#### Art. 21
+
+<sup>1</sup>
+
+La Commissione svizzera per lo sviluppo professionale e la qualità per cuochi in dietetica AFC ha la seguente composizione:
+
+- a. sei rappresentanti dell’organizzazione professionale *Hotel & Gastro Union;*
+- b. un rappresentante dei docenti di materie professionali;
+- c. almeno un rappresentante, rispettivamente, della Confederazione e dei Cantoni.
+
+<sup>2</sup> Le regioni linguistiche devono essere adeguatamente rappresentate.
+
+<sup>3</sup> La Commissione non rientra nel campo d’applicazione dell’ordinanza del 3 giugno 1996[^21-1] sulle commissioni. Essa si autocostituisce.
+
+<sup>4</sup>
+
+La Commissione ha i seguenti compiti:
+
+- a. adegua costantemente, ma almeno ogni cinque anni, il piano di formazione di cui all’articolo 10 agli sviluppi economici, tecnologici e didattici. A tal fine tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base. Le modifiche devono essere approvate dai rappresentanti della Confederazione e dei Cantoni;
+- b. richiede alla SEFRI modifiche della presente ordinanza, qualora gli sviluppi osservati interessino disposizioni della stessa, segnatamente le competenze di cui agli articoli da 4 a 6.
+
+[^21-1]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+
+## Sezione 11: Disposizioni finali
+
+#### Art. 22
+
+**Abrogazione del diritto previgente**
+
+<sup>1</sup>
+
+Sono abrogati:
+
+- a. il regolamento del 5 dicembre 1986[^22-1] concernente il tirocinio e l’esame finale di tirocinio per cuochi dietisti;
+- b. il programma del 5 dicembre 1986[^22-2] per l’insegnamento professionale dei cuochi dietisti.
+
+[^22-1]: FF **1987** I 596
+[^22-2]: FF **1987** I 596
+
+#### Art. 23
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di cuoco dietista prima del 1<sup>o</sup> gennaio 2007 la portano a termine in base al diritto previgente.
+
+<sup>2</sup> Fino al 31 dicembre 2009, chi ripete l’esame finale di tirocinio per cuoco dietista viene valutato, su richiesta, in base al diritto previgente.
+
+#### Art. 24
+
+**Entrata in vigore**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2007.
+
+<sup>2</sup> Le disposizioni concernenti la procedura di qualificazione, le attestazioni e il titolo (articoli da 15 a 20) entrano in vigore il 1° gennaio 2008.

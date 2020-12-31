@@ -1,0 +1,976 @@
+---
+sr: "420.11"
+title: "Ordinaziun dals 29 da november 2013 tar la Lescha federala davart la promoziun da la perscrutaziun e da l'innovaziun (Ordinaziun da perscrutaziun e d'innovaziun, O-LPPI)"
+short: O-LPPI
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
+language: rm
+version: 2021-01-01
+adopted: 2013-11-29
+in_force: 2014-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/rm"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Ordinaziun tar la Lescha federala davart la promoziun da la perscrutaziun e da l’innovaziun
+
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+
+(Ordinaziun da perscrutaziun e d’innovaziun, O-LPPI)
+
+dals 29 da november 2013 (versiun dal 1. da schaner 2021)
+
+Il Cussegl federal svizzer,
+
+sa basond sin ils artitgels 10 alinea 4 segunda frasa, 15 alinea 6, 16 alinea 6 segunda frasa, 19 alinea 2 litera d, 23 alinea 2, 29 alinea 2, 47 alinea 1 e 56 da la Lescha federala dals 14 da december 2012[^ingress-1] davart la promoziun da la perscrutaziun e da l’innovaziun (LPPI) sco er sin l’artitgel 1 alinea 5 da la Lescha Innosuisse dals 17 da zercladur 2016[^ingress-2] (LASPI),[^ingress-3]
+
+decretescha:
+
+[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^ingress-3]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+## 1. chapitel Programs da promoziun tematics da las instituziuns per promover la perscrutaziun e da l’Agentura svizra per la promoziun da l’innovaziun****
+
+[^chap1-1]
+
+[^chap1-1]: Expressiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Questa midada è vegnida resguardada en l’entir decret.
+
+### 1. secziun Disposiziuns generalas
+
+(art. 7 al. 3 LPPI)
+
+#### Art. 1
+
+**Princips**
+
+<sup>1</sup> Ils programs da promoziun tematics ston servir ad in interess naziunal.
+
+<sup>2</sup>
+
+Ils programs da promoziun tematics pon vegnir realisads:
+
+- a.
+
+  cun agid dals instruments da promoziun dals suandants organs da promoziun (organs da promoziun):
+
+  - 1\. da las instituziuns per promover la perscrutaziun tenor l’artitgel 4 litera a LPPI,
+  - 2\. da l’Agentura svizra per la promoziun da l’innovaziun (Innosuisse[^1-1]);
+
+- b. cun agid da mesiras spezialas che ston vegnir prendidas en il rom da las cumpetenzas da promoziun dals organs da promoziun.
+
+<sup>3</sup> Ils programs da promoziun tematics èn limitads.
+
+<sup>4</sup> En cas da basegn vegnan fixadas mesiras ch’èn adattadas per evaluar ils programs en il cas singul, en spezial per controllar ils effects.
+
+[^1-1]: Expressiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Questa midada è vegnida resguardada en l’entir decret.
+
+#### Art. 2
+
+**Procedura**
+
+<sup>1</sup> L’incarica da realisar in program da promoziun tematic vegn dada sin fundament dal conclus finanzial respectiv ch’è vegnì prendì da l’Assamblea federala en il rom da las missivas periodicas per promover la furmaziun, la perscrutaziun e l’innovaziun (missivas FPI) tenor l’artitgel 35 alinea 1 litera a LPPI.
+
+<sup>2</sup> En cas urgents po vegnir dumandà per ina incarica er in conclus finanzial cun ina missiva specifica per promover la perscrutaziun e l’innovaziun tenor l’artitgel 35 alinea 1 litera b LPPI.
+
+### 2. secziun Programs naziunals da perscrutaziun dal Fond naziunal svizzer
+
+(art. 10 al. 2 lit. c LPPI)
+
+#### Art. 3
+
+**Noziun, intent ed objects**
+
+<sup>1</sup> Cun ils programs naziunals da perscrutaziun (PNP) dal Fond naziunal svizzer (FNS) duain vegnir lantschads e realisads projects da perscrutaziun ch’èn coordinads in cun l’auter e ch’èn orientads ad ina finamira cuminaivla.
+
+<sup>2</sup>
+
+Sco object dals PNP èn cunzunt adattads problems:
+
+- a. per la soluziun dals quals la perscrutaziun svizra po furnir in agid spezial;
+- b. per la soluziun dals quals èn necessarias contribuziuns da perscrutaziun da differentas disciplinas;
+- c. dals quals la perscrutaziun pli profunda permetta da spetgar entaifer circa 5 onns resultats ch’èn utilisabels per la pratica.
+
+<sup>3</sup> En cas excepziunals motivads po in PNP er vegnir duvrà per crear sistematicamain in potenzial da perscrutaziun supplementar en Svizra.
+
+<sup>4</sup>
+
+Tar la selecziun dals programs vegni er resguardà, sche:
+
+- a. ils resultats spetgads dals programs pon servir sco basa scientifica per decisiuns da la regenza e da l’administraziun;
+- b. il program po vegnir realisà en il rom d’ina collavuraziun internaziunala.
+
+#### Art. 4
+
+**Inoltraziun, examinaziun e priorisaziun da las propostas**
+
+<sup>1</sup> Ils servetschs federals e mintga persuna natirala u giuridica pon inoltrar al Secretariat da stadi per furmaziun, perscrutaziun ed innovaziun (SEFRI) propostas per PNP.
+
+<sup>2</sup> Il SEFRI examinescha periodicamain las propostas inoltradas. El consultescha ils servetschs federals ch’èn represchentads en il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun e fa sin fundament da quai ina glista da prioritads.
+
+<sup>3</sup> El elavura per ils temas d’auta prioritad curtas propostas da program che preciseschan las dumondas respectivas e che preschentan l’incarica da perscrutaziun decisiva ed ulteriuras prescripziuns da program.
+
+#### Art. 5
+
+**Examinaziun da la realisabladad, elavuraziun dals concepts da program[^5-1]**
+
+<sup>1</sup> Il SEFRI incumbensescha il FNS da controllar, sche las propostas da program èn realisablas, e da las concretisar.
+
+<sup>2</sup>
+
+Sa basond sin ils resultats da l’examinaziun da la realisabladad formulescha il FNS, per las propostas consideradas sco realisablas, l’incarica da perscrutaziun en il concept da program en furma da dumondas e da problematicas che sa laschan elavurar scientificamain. En quest connex resguarda el ils suandants puncts centrals dal program pussaivel:
+
+- a. las finamiras ed ils accents dal program;
+- b. la durada da la perscrutaziun che stat en connex cun il program;
+- c. la repartiziun summarica dals meds finanzials sin ils accents;
+- d. l’ambient da retschertga naziunal ed internaziunal;
+- e. ils adressats ed il niz pratic.[^5-2]
+
+<sup>3</sup> Per temas da perscrutaziun economics garantescha il FNS la cooperaziun da l’Innosuisse per elavurar ils concepts da program.[^5-3]
+
+<sup>4</sup> En cas spezials, particularmain per temas socials actuals d’impurtanza naziunala po il SEFRI, per incarica dal Cussegl federal u dal Departament federal d’economia, furmaziun e retschertga (DEFR) sco er divergentamain da la procedura tenor l’artitgel 4 alineas 2 e 3, incumbensar directamain il FNS da controllar la realisabladad d’in program. Per quest intent communitgescha el al FNS las dumondas ed ulteriuras prescripziuns per il program che sto vegnir controllà.
+
+[^5-1]: Versiun tenor la cifra I da l’O dals 30 da sett. 2016, en vigur dapi il 1. da nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^5-2]: Versiun tenor la cifra I da l’O dals 30 da sett. 2016, en vigur dapi il 1. da nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^5-3]: Versiun tenor la cifra I da l’O dals 30 da sett. 2016, en vigur dapi il 1. da nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+
+#### Art. 6
+
+**Examinaziun e tscherna dals programs**
+
+<sup>1</sup> Il SEFRI procura ch’ils servetschs federals ch’èn represchentads en il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun controllian ils concepts da program areguard la relevanza e l’urgenza dals programs per las incumbensas federalas. Ultra da quai po el dumandar ina posiziun dal Cussegl svizzer da la scienza (CSS)[^6-1].[^6-2]
+
+<sup>2</sup> El suttametta periodicamain al DEFR ina tscherna da propostas per novs programs.
+
+<sup>3</sup> Il DEFR propona periodicamain al Cussegl federal da realisar 1 fin 3 PNP. Per quest intent resguarda el il volumen da finanzas cumprovà en la missiva FPI e fixà en la cunvegna da prestaziuns cun il FNS per mintga perioda da contribuziun.
+
+[^6-1]: Expressiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Questa midada è vegnida resguardada en l’entir decret.
+[^6-2]: Versiun tenor la cifra I da l’O dals 30 da sett. 2016, en vigur dapi il 1. da nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+
+#### Art. 7
+
+**Documents da publicaziun e realisaziun dals programs**[^7-1]
+
+<sup>1</sup> Per mintga program elavura il FNS in document da publicaziun tenor la decisiun dal Cussegl federal.
+
+<sup>2</sup> Per mintga program designescha el ina gruppa directiva u installescha in’autra structura directiva adattada.
+
+<sup>3</sup> Per mintga program designescha il SEFRI represchentants da l’administraziun federala (observaturs) ch’èn cumpetents per la transmissiun d’infurmaziuns e per il transfer da savida tranter il program ed ils uffizis respectivs.
+
+<sup>4</sup> Il DEFR approvescha ils documents da publicaziun. El po delegar questa cumpetenza al SEFRI. Ils posts interessads da l’administraziun federala vegnan consultads avant in’approvaziun.
+
+<sup>5</sup> Il FNS fa la publicaziun, evaluescha las propostas da project inoltradas e decida davart ils projects che duain vegnir realisads en il rom dals programs.
+
+[^7-1]: Versiun tenor la cifra I da l’O dals 30 da sett. 2016, en vigur dapi il 1. da nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+
+#### Art. 8
+
+**Rapport, transfer da savida e controlla dals effects**
+
+<sup>1</sup> Il FNS infurmescha regularmain la publicitad e las gruppas en mira da la perscrutaziun, da l’economia e da la societad davart il stadi ed il progress da las lavurs en ils PNP.
+
+<sup>2</sup> El è cumpetent per transmetter ils resultats a las gruppas en mira.
+
+<sup>3</sup> Suenter la terminaziun d’in PNP publitgescha el ina resumaziun dals resultats principals dal program.
+
+<sup>4</sup> El fa in rapport final per mauns dal Cussegl federal, nua ch’el inditgescha quant enavant che las finamiras dal PNP èn vegnidas cuntanschidas.
+
+<sup>5</sup> Suenter avair consultà il FNS decida il SEFRI, sch’i vegn suttamess ad ina controlla dals effects in PNP terminà ubain l’instrument PNP sco tal. Suenter avair consultà il FNS concluda el las modalitads da la controlla e surdat las incumbensas respectivas.
+
+#### Art. 9
+
+**Disposiziuns executivas**
+
+En in’ordinaziun regla il DEFR ils detagls da la procedura che serva a prender invista ed ad examinar ils temas dal PNP sco er per far la controlla dals effects.
+
+### 3. secziun Accents naziunals da perscrutaziun dal FNS
+
+(art. 10 al. 2 lit. c LPPI)
+
+#### Art. 10
+
+**Noziun ed intent**
+
+<sup>1</sup>
+
+In accent naziunal da perscrutaziun (accent da perscrutaziun) vegn definì sco suonda:
+
+- a. el è in project da perscrutaziun d’impurtanza naziunala attribuì ad in champ da perscrutaziun determinà cleramain e limità tematicamain;
+- b. el è affilià ad ina u a pliras instituziuns ospitantas e posseda ina rait da partenaris e d’instituziuns partenarias che sa chattan entaifer u ordaifer il sectur da las scolas autas.
+
+<sup>2</sup> Sco instituziuns ospitantas vegnan en dumonda mo instituts da perscrutaziun en scolas autas.
+
+<sup>3</sup> Instituziuns ospitantas per propi pon esser mo instituziuns che pon ademplir en atgna cumpetenza tut las finamiras da l’accent da perscrutaziun respectiv tenor l’alinea 4.
+
+<sup>4</sup>
+
+La constituziun d’in accent da perscrutaziun ha particularmain las suandantas finamiras:
+
+- a. il mantegniment ed il rinforz persistent da la posiziun da la Svizra en secturs da perscrutaziun ch’èn impurtants strategicamain cun promover ina perscrutaziun da fitg auta qualitad;
+- b. la renovaziun persistenta e l’optimaziun da structuras da perscrutaziun innovativas cun sviluppar capacitads d’instrucziun e da perscrutaziun supplementaras, cun promover la repartiziun da las incumbensas e cun coordinar tranter las instituziuns da perscrutaziun e cun las colliar a las raits internaziunalas;
+- c. la realisaziun d’ina strategia coerenta pertutgant la perscrutaziun, il transfer da savida e da tecnologia, la furmaziun da la generaziun giuvna scientifica sco er la communicaziun scientifica.
+
+#### Art. 11
+
+**Durada**
+
+<sup>1</sup> In accent da perscrutaziun vegn etablì per ina durada maximala da 12 onns.
+
+<sup>2</sup> La durada è repartida en periodas da finanziaziun da maximalmain 4 onns.
+
+#### Art. 12
+
+**Organisaziun**
+
+<sup>1</sup> La direcziun da l’accent da perscrutaziun ch’è domiciliada en l’instituziun ospitanta maina l’accent da perscrutaziun sin plaun organisatoric e scientific.
+
+<sup>2</sup>
+
+En il rom dal contract da l’accent da perscrutaziun (art. 15) prenda ella decisiuns en moda autonoma. Ella ha particularmain l’incumbensa da garantir:
+
+- a. la coordinaziun da tut las instituziuns partenarias e da tut las gruppas da perscrutaders ch’èn participadas a l’accent da perscrutaziun;
+- b. la direcziun scientifica e l’orientaziun generala da l’accent da perscrutaziun;
+- c. la direcziun operativa da l’accent da perscrutaziun sco er l’attribuziun e la controlla dals meds finanzials.
+
+<sup>3</sup> Las instituziuns ospitantas optimeschan e rinforzan lur structuras da perscrutaziun sin ils champs da perscrutaziun respectivs da l’accent da perscrutaziun. Ultra da quai furneschan ellas atgnas contribuziuns per finanziar l’accent da perscrutaziun, particularmain per sia direcziun.
+
+#### Art. 13
+
+**Procedura da selecziun e da decisiun**
+
+<sup>1</sup> Per incumbensa dal DEFR fa il FNS la publicaziun dals accents da perscrutaziun.
+
+<sup>2</sup> La procedura da selecziun e da decisiun sa splega sur 2 stgalims: ils perscrutaders inoltreschan l’emprim skizzas ed alura la dumonda.
+
+<sup>3</sup> Il FNS è responsabel per valitar scientificamain e structuralmain las inoltraziuns tenor las finamiras da l’artitgel 10 alinea 4. Per quest intent consultescha el experts internaziunals.
+
+<sup>4</sup> El recumonda al SEFRI da realisar ina tscherna da dumondas d’accents da perscrutaziun che han in’auta valitaziun scientifica e structurala.
+
+<sup>5</sup>
+
+Il SEFRI è cumpetent per valitar las dumondas sut il punct da vista da la politica da perscrutaziun e da la politica da scola auta. En il rom da la procedura da selecziun e da decisiun:
+
+- a. fa el ils scleriments necessaris e maina las tractativas cun las scolas autas e cun las instituziuns da perscrutaziun involvidas;
+- b. dumonda el la posiziun dals servetschs federals ch’èn represchentads en il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun areguard l’impurtanza dal project per las incumbensas da la Confederaziun;
+- c. dumonda el la posiziun da l’Innosuisse areguard l’impurtanza dal project per la promoziun da l’innovaziun;
+- d. sa perenclegia el cun il FNS areguard las cundiziuns finanzialas e structuralas;
+- e. dumonda el la posiziun dal CSS areguard la valitaziun generala dal project.
+
+<sup>6</sup> El fa ina proposta motivada al DEFR concernent la constituziun d’accents da perscrutaziun.
+
+<sup>7</sup> Il DEFR decida davart ils accents da perscrutaziun che ston vegnir constituids. Per quest intent fixescha el per mintga accent da perscrutaziun las cundiziuns ed il rom finanzial per l’emprima perioda da contribuziun.
+
+#### Art. 14
+
+**Communicaziun da las decisiuns**
+
+<sup>1</sup> Il FNS communitgescha sias disposiziuns davart las dumondas ch’el n’ha betg recumandà da realisar.
+
+<sup>2</sup> Il DEFR communitgescha sias disposiziuns davart las dumondas ch’el ha recumandà al FNS da realisar.
+
+#### Art. 15
+
+**Contract d’accent da perscrutaziun**
+
+<sup>1</sup> Il FNS, las instituziuns ospitantas e la direcziun da l’accent da perscrutaziun concludan in contract d’accent da perscrutaziun per mintga perioda da finanziaziun.
+
+<sup>2</sup> Il FNS suttametta, avant la suttascripziun, il contract al SEFRI per l’approvaziun. Il SEFRI controlla che las regulaziuns previsas vegnian observadas areguard il rom finanzial fixà, areguard las cundiziuns ed ils dretgs sco er las obligaziuns respectivas da las parts participadas.
+
+#### Art. 16
+
+**Realisaziun dals accents da perscrutaziun**
+
+<sup>1</sup> Il FNS finanziescha, accumpogna e surveglia ils accents da perscrutaziun.
+
+<sup>2</sup> Suenter ch’ina perioda da finanziaziun è scadida, decida el davart la prolungaziun dal sustegn sa basond sin ina dumonda da cuntinuar cun la finanziaziun inoltrada da la direcziun da l’accent da perscrutaziun. Ad ina tala dumonda sto esser agiuntada ina brev da las instituziuns ospitantas, en la quala quellas garanteschan lur dotaziun finanziala da l’accent da perscrutaziun e lur plans da svilup structural. Il FNS resguarda en sia decisiun er ils resultats da sia evaluaziun intermediara.
+
+<sup>3</sup> Sch’il FNS beneventa ina dumonda da prolungaziun, vegn concludì in nov contract tenor l’artitgel 15 per la nova perioda da contribuziun.
+
+#### Art. 17
+
+**Monitoring, rapport ed evaluaziun**
+
+<sup>1</sup> Il FNS procura per in monitoring cuntinuà dals accents da perscrutaziun currents. El nominescha in Comité d’accumpagnament internaziunal per il monitoring da mintga accent da perscrutaziun.
+
+<sup>2</sup> El fa in rapport final per mintga accent da perscrutaziun terminà. Quest rapport cuntegna il rendaquint finanzial sco er in rapport davart ils resultats scientifics e structurals. En quest rapport fa el ina valitaziun finala da las finamiras principalas che l’accent da perscrutaziun ha persequità. Per quest intent sa basa el sin ils rapports finals correspundents da la direcziun da l’accent da perscrutaziun sco er sin l’evaluaziun dal Comité d’accumpagnament internaziunal.
+
+<sup>3</sup> Il SEFRI decida, suenter avair consultà il FNS, sch’in accent da perscrutaziun terminà u ina seria d’accents da perscrutaziun terminads u l’instrument da l’accent da perscrutaziun sco tal vegnan suttamess, per incumbensa dal SEFRI, ad ina controlla cumplessiva dals effects, e quai sut la dumonda directiva, sche las finamiras èn vegnidas cuntanschidas. Suenter avair consultà il FNS decida el davart las modalitads d’ina eventuala controlla e surdat las incumbensas respectivas.
+
+#### Art. 18
+
+**Annullaziun d’accents da perscrutaziun**
+
+<sup>1</sup> Sch’il FNS n’approvescha betg ina dumonda da prolungaziun d’in accent da perscrutaziun, propona el al DEFR d’annullar l’accent da perscrutaziun.
+
+<sup>2</sup> Il DEFR decida avant la scadenza d’ina perioda da finanziaziun, sche l’accent da perscrutaziun vegn cuntinuà en ina nova perioda. La procedura da decisiun sa drizza confurm al senn tenor las disposiziuns da l’artitgel 13 alineas 2–7.
+
+<sup>3</sup> Sche las circumstanzas pretendan, po il DEFR decider, sin proposta dal FNS, d’annullar in accent da perscrutaziun durant ina perioda da finanziaziun currenta.
+
+<sup>4</sup> En cas d’ina annullaziun d’in accent da perscrutaziun conceda il FNS ina finanziaziun da finiziun da maximalmain 12 mais.
+
+#### Art. 19
+
+**Procedura**
+
+Il DEFR regla en in’ordinaziun ils detagls da la procedura per publitgar, selecziunar ed evaluar in accent da perscrutaziun.
+
+## 2. chapitel Promoziun da la perscrutaziun tras l’administraziun federala
+
+### 1. secziun Contribuziuns ad instituts da perscrutaziun d’impurtanza naziunala
+
+(art. 15 LPPI)
+
+#### Art. 20
+
+**Procedura da dumonda e d’examinaziun; decisiun**
+
+<sup>1</sup> Ils instituts da perscrutaziun inoltreschan lur dumondas da contribuziuns al SEFRI.
+
+<sup>2</sup>
+
+La dumonda sto cuntegnair:
+
+- a. indicaziuns davart las incumbensas e l’organisaziun da l’institut petent;
+- b. ina descripziun da las activitads actualas e futuras sco er dals motivs, pertge ch’i duai vegnir pajada ina contribuziun federala;
+- c. ina survista dals custs ch’èn necessaris per ademplir las incumbensas, da la situaziun finanziala e da las prestaziuns che vegnan spetgadas da la Confederaziun.
+
+<sup>3</sup> Il DEFR regla la procedura d’examinaziun en in’ordinaziun.
+
+<sup>4</sup> El decida davart las contribuziuns en il rom dal credit disponibel.
+
+#### Art. 21
+
+**Calculaziun da las contribuziuns a favur d’infrastructuras da perscrutaziun e d’instituziuns da perscrutaziun**
+
+<sup>1</sup> Las tariffas da contribuziun tenor l’artitgel 15 alinea 5 LPPI sco er las tariffas da contribuziun ch’èn decisivas en il cas singul valan sco valurs medias per la perioda FRI respectiva.
+
+<sup>2</sup> La participaziun finanziala dals chantuns, d’autras communitads publicas, da las scolas autas e da persunas privatas po avair la furma da prestaziuns en daners u da prestaziuns materialas.
+
+<sup>3</sup> Mo a las scolas autas èsi permess da furnir ina participaziun finanziala exclusivamain tras prestaziuns materialas.
+
+<sup>4</sup> Sch’i vegnan furnidas prestaziuns materialas, ston quellas pudair vegnir cumprovadas ultra da quai cleramain sco entradas da l’infrastructura da perscrutaziun u da l’instituziun da perscrutaziun.
+
+#### Art. 22
+
+**Calculaziun da las contribuziuns a favur dals centers da cumpetenzas tecnologicas**
+
+<sup>1</sup> Las tariffas da contribuziun tenor l’artitgel 15 alinea 5 LPPI sco er las tariffas da contribuziun ch’èn decisivas en il cas singul valan sco valurs medias per la perioda FRI respectiva.
+
+<sup>2</sup> La participaziun finanziala dals chantuns, d’autras communitads publicas, da las scolas autas e da persunas privatas a las contribuziuns da l’economia che resultan da cooperaziuns da perscrutaziun e da svilup pon avair la furma da prestaziuns en daners u da prestaziuns materialas.
+
+<sup>3</sup> Mo a las scolas autas èsi permess da furnir ina participaziun finanziala exclusivamain tras prestaziuns materialas.
+
+<sup>4</sup> Sch’i vegnan furnidas prestaziuns materialas, ston quellas pudair vegnir cumprovadas ultra da quai cleramain sco entradas dal center da cumpetenzas tecnologicas.
+
+<sup>5</sup> Novs champs d’activitad en il senn da l’artitgel 15 alinea 6 LPPI ston sa distinguer dals accents da perscrutaziun existents d’auters instituts da perscrutaziun en scolas autas e ston esser d’impurtanza naziunala.
+
+<sup>6</sup> Cun sviluppar novs champs d’activitad pon vegnir resguardads ils eventuals meds finanzials da perscrutaziun ch’èn vegnids obtegnids sin via cumpetitiva, il mument ch’i vegn calculada la finanziaziun da basa, durant maximalmain duas periodas FRI. L’imputaziun dals meds finanzials da perscrutaziun correspundents premetta che quels possian vegnir attribuids al nov champ d’activitad.
+
+#### Art. 23
+
+**Ulteriuras premissas per contribuziuns als centers da cumpetenzas tecnologicas**
+
+Per conceder contribuziuns a centers da cumpetenzas tecnologicas che fundeschan agens start-ups en il rom da lur incumbensas tenor l’artitgel 15 alinea 4 litera a LPPI u che sa participeschan a la creaziun da tals, valan las suandantas ulteriuras premissas:
+
+- a. il center da cumpetenzas tecnologicas fundescha agens start-ups u sa participescha a lur creaziun mo, sche la tecnologia pertutgada (products u proceduras) è vegnida sviluppada u meglierada en il rom d’in da ses programs da perscrutaziun;
+- b. el fundescha agens start-ups mo, sch’ils partenaris da l’industria ch’èn participads al program da perscrutaziun tenor la litera a renunzian a l’utilisaziun economica da la proprietad intellectuala generada durant il project;
+- c. el n’apporta a favur dal start-up ni prestaziuns en daners ni prestaziuns materialas betg indemnisadas. Percunter po el surdar gratuitamain al start-up respectiv la proprietad intellectuala ch’è vegnida generada dal project da perscrutaziun decisiv sco er ils dretgs d’utilisaziun appartegnents;
+- d. el cumprova en ils quints las entradas che resultan da venditas da patenta, da pajaments da licenza e d’alienaziuns da participaziuns a start-ups e cumprova lur investiziun en il manaschi ordinari.
+
+### 2. secziun Perscrutaziun da l’administraziun federala
+
+(art. 16 LPPI)
+
+#### Art. 24
+
+**Meds finanzials federals a favur da la perscrutaziun da l’administraziun**
+
+<sup>1</sup> Las contribuziuns federalas per realisar programs da perscrutaziun sco er las contribuziuns a favur dals custs da perscrutaziun indirects tenor l’artitgel 39 vegnan fixads en il rom da contracts u da disposiziuns.
+
+<sup>2</sup> En cas da perscrutaziun per incumbensa surpiglia l’administraziun federala ils custs ch’èn necessaris per exequir il contract.
+
+#### Art. 25
+
+**Garanzia da qualitad ed utilisaziun dals resultats da la perscrutaziun da l’administraziun**
+
+<sup>1</sup> Cun decretar sias directivas davart la garanzia da qualitad resguarda il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun ils princips da la garanzia da qualitad dals organs da promoziun.
+
+<sup>2</sup> En ils contracts u en las disposiziuns pertutgant la perscrutaziun da l’administraziun reglan ils servetschs federals ils dretgs vi dals resultats da la perscrutaziun e lur utilisaziun.
+
+## 3. chapitel Promoziun da l’innovaziun
+
+(art. 18–25 LPPI; art. 23 LASPI)[^chap3-1]
+
+#### Art. 26
+
+**La basa per la promoziun da l’innovaziun**
+
+### (art. 18 al. 3 LPPI)
+
+<sup>1</sup> Il SEFRI elavura la basa per la promoziun da l’innovaziun, particularmain la strategia da la politica d’innovaziun, e suttametta quella al Cussegl federal mintga 4 onns en il rom da la missiva FPI.
+
+<sup>2</sup> El sa coordinescha cun l’Innosuisse sco er cun auters servetschs federals e garantescha che l’economia ed ils organs da las scolas autas vegnian integrads adequatamain.[^26-1]
+
+[^chap3-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^26-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+#### Art. 26a
+
+**Sedia da l’Innosuisse**[^26a-1]
+
+### (art. 1 al. 5 LASPI)
+
+La sedia da l’Innosuisse è a Berna.
+
+[^26a-1]: Integrà tras la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+#### Art. 27
+
+**Evaluaziun da la promoziun da l’innovaziun**
+
+### (art. 18 al. 4 LPPI)
+
+<sup>1</sup> Il SEFRI fa l’evaluaziun dals effects e da l’effizienza da la promoziun da l’innovaziun.
+
+<sup>2</sup> El rapporta al Cussegl federal mintga 4 onns il resultat en il rom da la missiva FPI.
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Abolì tras la cifra I da l’O dals 15 da nov. 2017, cun effect dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+#### Art. 29
+
+**Contribuziuns da l’Innosuisse a favur da projects d’innovaziun**
+
+### (art. 19 LPPI)
+
+[^29-1]
+
+L’Innosuisse sustegna projects d’innovaziun cun contribuziuns mo, sch’ils partenaris da realisaziun participads cumprovan ch’ina realisaziun efficazia dals resultats da perscrutaziun d’in project possia vegnir spetgada sin il martgà u per la societad. En quest connex ston vegnir resguardads:
+
+- a. las consequenzas probablas dal project per la cumpetitivitad dals partenaris da realisaziun ubain per l’economia publica;
+- b. la probabla creaziun da valur en Svizra ch’è colliada cun la realisaziun;
+- c. il niz economic u social che resulta probablamain per ils partenaris da realisaziun.
+
+[^29-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+#### Art. 30
+
+**Participaziun dals partenaris da realisaziun**
+
+### (art. 19 al. 2 lit. d LPPI)
+
+<sup>1</sup>
+
+L’Innosuisse po fixar la participaziun dal partenari da realisaziun vi dals custs dal project excepziunalmain a main che 50 pertschient, sche:[^30-1]
+
+- a. la realisaziun dal project è surproporziunalmain ristgada e cumprova a medem temp in potenzial per il success economic surproporziunal u per in niz social fitg aut;
+- b. dals resultats ch’èn da spetgar na po profitar betg mo il partenari da realisaziun, mabain er in vast circul d’utilisaders che n’èn betg participads al project; u
+- c. la participaziun dal partenari da realisaziun, ensemen cun ina finanziaziun da terzas persunas che na pervegn betg da meds finanzials federals, correspunda almain a la mesadad da la participaziun als custs dal project.
+
+<sup>2</sup>
+
+Ultra da quai po ella fixar la participaziun dals partenaris da realisaziun vi dals custs dal project a main che 50 pertschient, sch’i sa tracta d’in project d’innovaziun, al qual sa participeschan unicamain interpresas cun ina quota d’emploiads da maximalmain 500 equivalents a temp cumplain. En quest connex importa la participaziun dals partenaris da realisaziun dentant:
+
+- a. almain 30 pertschient;
+- b.
+
+  almain 20 pertschient en cas da projects che:
+
+  - 1\. contribueschan a la superaziun da la midada structurala, en spezial tras l’elavuraziun da novs models da fatschenta u tras la realisaziun da projects d’investiziun radicals u disruptivs, e
+  - 2\. pretendan da recurrer a prestaziuns da terzs furniturs spezialisads.[^30-2]
+
+[^30-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^30-2]: Integrà tras la cifra I da l’O dals 3 da zer. 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Versiun tenor la cifra I da l’O dals 11 da dec. 2020, en vigur dal 1. da schan. 2021 fin ils 31 da dec. 2022 ([AS 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
+
+#### Art. 31 e 32
+
+[^3132-1]
+
+[^3132-1]: Abolì tras la cifra I da l’O dals 15 da nov. 2017, cun effect dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+## 4. chapitel Contribuziuns per indemnisar ils custs da perscrutaziun indirects
+
+### 1. secziun Disposiziuns generalas
+
+#### Art. 33
+
+**Intent da las contribuziuns a favur dals custs da perscrutaziun indirects**
+
+Las contribuziuns a favur dals custs da perscrutaziun indirects servan ad indemnisar parzialmain ils custs che resultan a las instituziuns tras projects da perscrutaziun che vegnan sustegnids dal FNS, da l’Innosuisse e da l’administraziun federala en il rom da lur promoziun da perscrutaziun e d’innovaziun.
+
+#### Art. 34
+
+**Rapport e controlla**
+
+<sup>1</sup> Per mintga perioda da contribuziun fan il FNS e l’Innosuisse in rapport per mauns dal SEFRI davart lur contribuziuns pajadas a favur dals custs da perscrutaziun indirects. En quest connex explitgeschan els particularmain la repartiziun da las contribuziuns tenor instituziuns, tenor instruments da promoziun e tenor secturs spezials da perscrutaziun.
+
+<sup>2</sup> En il rom da sias incumbensas da controlla examinescha il SEFRI, sche la tariffa maximala da contribuziun che vegn fixada en il conclus da finanziaziun decisiv vegn observada ed approvescha eventualmain il rapport.
+
+<sup>3</sup> Las unitads da l’administraziun federala fan in rapport tenor l’artitgel 52 LPPI.
+
+### 2. secziun Contribuziuns dal FNS a favur dals custs da perscrutaziun indirects
+
+(art. 10 al. 4 segunda frasa LPPI)
+
+#### Art. 35
+
+**Calculaziun e pajament**
+
+<sup>1</sup>
+
+Il FNS calculescha las contribuziuns a favur dals custs da perscrutaziun indirects sin fundament da las contribuziuns da project ch’el ha permess l’onn precedent ed en il rom:
+
+- a. dals credits permess; e
+- b. da la tariffa da contribuziun maximala ch’il parlament ha fixà en il conclus da finanziaziun decisiv.
+
+<sup>2</sup> El permetta las contribuziuns tras ina disposiziun.
+
+<sup>3</sup> Il pajament da las contribuziuns vegn fatg per la mesadad la fin dal 1. e dal 3. quartal da l’onn chalendar.
+
+#### Art. 36
+
+**Reglament**
+
+<sup>1</sup>
+
+Il FNS decretescha in reglament davart las contribuziuns a favur dals custs da perscrutaziun indirects. En quest reglament regla el particularmain:
+
+- a. ils instruments da promoziun che pon autorisar da survegnir contribuziuns a favur dals custs da perscrutaziun indirects;
+- b. la restituziun da contribuziuns a favur dals custs da perscrutaziun indirects en cas motivads sco per exempel, sch’in project na vegn betg realisà.
+
+<sup>2</sup> Il reglament basegna l’approvaziun dal Cussegl federal.
+
+### 3. secziun Contribuziuns da l’Innosuisse a favur dals custs da perscrutaziun indirects
+
+(art. 23 al. 2 LPPI)[^chap4-sec3-1]
+
+#### Art. 37
+
+**Calculaziun, attribuziun e pajament**[^37-1]
+
+<sup>1</sup>
+
+L’Innosuisse calculescha las contribuziuns a favur dals custs da perscrutaziun indirects sin fundament da las contribuziuns da project ch’ella ha permess l’onn chalendar en il rom:
+
+- a. dals credits permess; e
+- b. da la tariffa da contribuziun maximala ch’il parlament ha fixà en il conclus da finanziaziun decisiv.
+
+<sup>2</sup> Ella fixescha l’autezza da las contribuziuns en il rom da l’approvaziun dal project.
+
+<sup>3</sup> Las contribuziuns a favur dals custs da perscrutaziun indirects vegnan pajadas a medem temp sco las contribuziuns per ils custs da perscrutaziun directs.
+
+[^chap4-sec3-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^37-1]: En vigur dapi il 1. da schan. 2017.
+
+#### Art. 38
+
+**Ordinaziun da contribuziuns**[^38-1]
+
+En sia ordinaziun da contribuziuns fixescha l’Innosuisse ils detagls per conceder contribuziuns a favur dals custs da perscrutaziun indirects.
+
+[^38-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+### 4. secziun Contribuziuns a favur dals custs da perscrutaziun indirects en la perscrutaziun da l’administraziun
+
+(art. 16 al. 6 segunda frasa LPPI)
+
+#### Art. 39
+
+<sup>1</sup> L’administraziun federala cumprova separadamain las contribuziuns a favur dals custs da perscrutaziun indirects per las mesiras tenor l’artitgel 16 alinea 2 literas b e c LPPI en sias decisiuns.
+
+<sup>2</sup> Las contribuziuns a favur dals custs da perscrutaziun indirects vegnan calculadas sin basa da la tariffa da contribuziun maximala ch’è vegnida fixada dal parlament per las contribuziuns dal FNS a favur dals custs da perscrutaziun indirects.
+
+<sup>3</sup> Las contribuziuns a favur dals custs da perscrutaziun indirects vegnan pajadas a medem temp sco las contribuziuns per ils custs da perscrutaziun directs.
+
+## 5. chapitel Mesiras per promover l’utilisaziun dals resultats da perscrutaziun sco premissas da promoziun cumplementaras
+
+(art. 27 LPPI)
+
+#### Art. 40
+
+**Mesiras per promover l’utilisaziun dals resultats da perscrutaziun**
+
+<sup>1</sup> Ils organs da promoziun decidan da cas a cas, sch’els vulan cumbinar la concessiun da meds finanzials federals cun cundiziuns davart l’utilisaziun dals resultats da perscrutaziun en il senn da l’artitgel 27 alineas 1 e 2 LPPI.
+
+<sup>2</sup>
+
+Sch’ils organs da perscrutaziun decidan en il senn da l’alinea 1, vegnan applitgadas las suandantas reglas:
+
+- a. ils perscrutaders che obtegnan, exequind lur activitads finanziadas cun meds finanzials federals, resultats relevants dal puntg da vista dal dretg dals bains immaterials ston infurmar l’institut patrun da perscrutaziun en scolas autas;
+- b. ils perscrutaders e lur instituts patruns da perscrutaziun en scolas autas s’obligheschan da na betg pregiuditgar la protecziun da la proprietad intellectuala vi dals resultats da perscrutaziun tras publicaziuns anticipadas u en in’autra moda;
+- c. sche l’institut patrun da perscrutaziun en scolas autas utilisescha ils dretgs dals bains immaterials vi dals resultats da perscrutaziun, paja el ina indemnisaziun adequata als perscrutaders tenor ils princips da l’artitgel 332 alinea 4 dal Dretg d’obligaziuns[^40-1]. Resalvadas restan las disposiziuns da dretg spezial;
+- d. sche l’institut patrun da perscrutaziun en scolas autas na prenda betg mesiras per promover l’utilisaziun dals dretgs dals bains immaterials vi dals resultats da perscrutaziun entaifer in temp che sto vegnir fixà cas per cas suenter che l’infurmaziun è vegnida fatga tras ils perscrutaders, pon quels pretender la retrocessiun da quests dretgs;
+- e. sch’i vegnan obtegnids, en in institut da perscrutaziun en scolas autas, exequind in’activitad ch’è vegnida finanziada cun meds finanzials federals sco er cun meds finanzials da terzas persunas, resultats da perscrutaziun ch’èn relevants or dal puntg da vista dal dretg dals bains immaterials, è l’institut da perscrutaziun en scolas autas participà al gudogn ch’è vegnì realisà utilisond ils dretgs dals bains immaterials almain en la proporziun dals meds finanzials federals cun ils custs totals dal project da perscrutaziun respectiv. L’artitgel 41 resta resalvà.
+
+<sup>3</sup> Sch’in institut patrun da perscrutaziun en scolas autas u in institut da perscrutaziun betg commerzial situà ordaifer il sectur da las scolas autas n’ademplescha betg las obligaziuns ch’èn liadas a la concessiun da meds finanzials federals per l’utilisaziun dals resultats da perscrutaziun, pon ils organs da promoziun reducir las contribuziuns garantidas u pretender enavos las contribuziuns gia pajadas.
+
+[^40-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 41
+
+**Reglamentaziun concernent la proprietad intellectuala ed ils dretgs d’utilisaziun en ils projects d’innovaziun**
+
+<sup>1</sup> L’Innosuisse decida per mintga dumonda, sch’ella vul liar la concessiun da contribuziuns a la cundiziun ch’ils partenaris da perscrutaziun e da realisaziun preschentian ina cunvegna davart la proprietad intellectuala e davart ils dretgs d’utilisaziun.
+
+<sup>2</sup>
+
+Ina cunvegna tenor l’alinea 1 sto cuntegnair il suandant:
+
+- a. ina regulaziun davart ils dretgs da proprietad vi dals resultats dal project d’innovaziun sustegnì;
+- b. ina regulaziun davart l’utilisaziun da la proprietad intellectuala che resulta dal project d’innovaziun sustegnì;
+- c. ina regulaziun davart l’utilisaziun d’ina eventuala proprietad intellectuala ch’è vegnida introducida en il project d’innovaziun sustegnì;
+- d. eventuals dretgs d’indemnisaziun;
+- e. las obligaziuns da tegnair secret ed ils dretgs da publicaziun.
+
+<sup>3</sup> En il sectur da lur bains e da lur prestaziuns da servetsch han ils partenaris da realisaziun almain il dretg d’ina utilisaziun gratuita, betg exclusiva dals resultats dal project d’innovaziun sustegnì. Quest dretg sto vegnir fixà en la cunvegna.
+
+<sup>4</sup> Ils dretgs d’utilisaziun dals partenaris da realisaziun tenor l’alinea 3 pon esser exclusivs, sch’els s’imponan sin il martgà pervia da la situaziun dals partenaris da realisaziun. La cunvegna resguarda ils interess dals partenaris da perscrutaziun.
+
+<sup>5</sup>
+
+Cun fixar ina indemnisaziun per in’utilisaziun exclusiva dals resultats dal project d’innovaziun sustegnì tras in partenari da realisaziun sto vegnir observà en spezial che:
+
+- a. la part finanziala dals partenaris da realisaziun vi da la finanziaziun dal project d’innovaziun sustegnì vegnia resguardada; e
+- b. l’obligaziun d’indemnisar na pregiuditgescha betg l’utilisaziun cun success dals resultats dal project; in’eventuala periclitaziun sto vegnir explitgada dals partenaris da realisaziun.
+
+## 5*a**.* chapitel**** Communicaziun da datas tras instituziuns per promover la perscrutaziun
+
+[^chap5a-1]
+
+[^chap5a-1]: Integrà tras la cifra I da l’O dals 3 da zer. 2016, en vigur dapi il 1. da fan. 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
+
+(art. 9 LPPI)
+
+#### Art. 41a
+
+<sup>1</sup> Per intents da controlla e d’execuziun pon las instituziuns per promover la perscrutaziun render accessiblas a las instituziuns emploiantas tras ina procedura d’invista datas davart las dumondas da contribuziun entradas e davart las decisiuns da promoziun.
+
+<sup>2</sup>
+
+L’instituziun emploianta ha unicamain access a datas davart projects da perscrutaziun ch’ils perscrutaders exequeschan u han l’intenziun d’exequir en questa instituziun. Ella utilisescha las datas per:
+
+- a. posiziuns e confermas che las instituziuns per promover la perscrutaziun dovran per elavurar questas dumondas e per pajar las contribuziuns;
+- b. administrar las contribuziuns;
+- c. evaluar l’utilisaziun da meds da terzs.
+
+<sup>3</sup> Sur la procedura d’invista n’èn accessiblas naginas datas persunalas spezialmain sensiblas e nagins profils da persunalitad en il senn da l’artitgel 3 litera c respectivamain d da la Lescha federala dals 19 da zercladur 1992[^41a-1] davart la protecziun da datas.
+
+[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## 6. chapitel Collavuraziun internaziunala
+
+### 1. secziun Contracts e decleraziuns d’intenziun, participaziun da la Svizra a cooperaziuns internaziunalas
+
+(art. 28 al. 2 LPPI)
+
+#### Art. 42
+
+**Contracts e decleraziuns d’intenziun**
+
+<sup>1</sup> En il rom da la collavuraziun internaziunala da perscrutaziun e d’innovaziun è il DEFR autorisà da far contracts internaziunals d’ina impurtanza restrenschida en il senn da l’artitgel 7*a* alinea 2 da la Lescha dals 21 da mars 1997[^42-1] davart l’organisaziun da la regenza e da l’administraziun. Resalvadas restan las disposiziuns da dretg spezial.
+
+<sup>2</sup> En il rom da sia cumpetenza tenor l’alinea 1 è il DEFR autorisà da far decleraziuns d’intenziun per promover la collavuraziun internaziunala en il sectur da la perscrutaziun e da l’innovaziun, particularmain en il rom da la Cooperaziun europeica en il sectur da la perscrutaziun scientifica e tecnica (COST).
+
+<sup>3</sup> El po surdar las cumpetenzas tenor ils alineas 1 e 2 al SEFRI.
+
+[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 43
+
+**Renovaziun da las delegaziuns svizras en il rom da cooperaziuns internaziunalas**
+
+<sup>1</sup> En il rom dals contracts internaziunals davart la cooperaziun internaziunala en il sectur da la perscrutaziun e da l’innovaziun è il SEFRI autorisà da concluder la reelecziun u la renovaziun da las delegaziuns svizras en ils comités d’organisaziuns internaziunalas, da programs internaziunals e da projects da collavuraziun internaziunals.
+
+<sup>2</sup> El envida ulteriurs servetschs federals ed ils organs da perscrutaziun che, pervia da lur champ d’incumbensas, pudessan avair in interess da seser en las delegaziuns, da proponer ils commembers da las delegaziuns sco er ils experts.
+
+#### Art. 44
+
+[^44-1]
+
+[^44-1]: Abolì tras la cifra I da l’O dals 15 da nov. 2017, cun effect dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+### 2. secziun Contribuziuns per promover la collavuraziun svizra vi da projects d’organisaziuns internaziunalas e vi da programs internaziunals; infurmaziun e cussegliaziun
+
+(art. 29 al. 1 lit. a, b, f e g LPPI)
+
+#### Art. 45
+
+**Intent da las contribuziuns**
+
+<sup>1</sup>
+
+En il rom d’ina instituziun u d’ina organisaziun permettan las contribuziuns als servetschs svizzers interessads:
+
+- a. da sa preparar u da sa participar a projects e programs internaziunals;
+- b. da s’integrar en projects ch’èn da gronda impurtanza per la futura politica svizra da perscrutaziun e d’innovaziun, per la Svizra sco plazza scientifica ubain per la preschientscha da la scienza svizra a l’exteriur;
+- c. da duvrar l’infrastructura d’organisaziuns scientificas internaziunalas.
+
+<sup>2</sup> Resalvads restan ils contracts internaziunals sco er las disposiziuns da dretg spezial, particularmain per la participaziun als programs da perscrutaziun da l’Uniun europeica.
+
+#### Art. 46
+
+**Premissas e calculaziuns da las contribuziuns**
+
+<sup>1</sup>
+
+Las contribuziuns vegnan concedidas a las instituziuns ed a las organisaziuns, sch’il project:
+
+- a. è d’in interess naziunal;
+- b. na po betg vegnir finanzià autramain e sche la participaziun da la Svizra n’è betg pussaivla senza agids finanzials da la Confederaziun;
+- c. vegn purtà d’ina instituziun u d’ina organisaziun che garantescha che las contribuziuns vegnian impundidas en moda effizienta e ch’ils custs administrativs èn bass.
+
+<sup>2</sup> Las contribuziuns vegnan concedidas per maximalmain 5 onns. Ina u pliras prolungaziuns dal sustegn per maximalmain 5 onns èn pussaivlas. Il dretg da survegnir contribuziuns vegn examinà avant mintga prolungaziun.
+
+#### Art. 47
+
+**Proposta**
+
+Las dumondas da contribuziuns ston vegnir inoltradas al SEFRI. Ellas ston cuntegnair las suandantas indicaziuns:
+
+- a. il num dal petent;
+- b. il num da l’instituziun u da l’organisaziun che duai survegnir ina contribuziun;
+- c. ina descripziun dal project u dal program, inclusiv il rom finanzial;
+- d. las atgnas prestaziuns e las ulteriuras participaziuns sco er las ulteriuras funtaunas da finanziaziun e las prestaziuns da terzas persunas;
+- e. ina motivaziun da la participaziun da la Svizra, en spezial las indicaziuns davart l’impurtanza scientifica e davart l’interess dal project per la Svizra;
+- f. la contribuziun da la Confederaziun dumandada.
+
+#### Art. 48
+
+**Consultaziuns**
+
+Il SEFRI consultescha auters uffizis u organs da perscrutaziun che pon esser pertutgads u interessads al project.
+
+#### Art. 49
+
+**Decisiun**
+
+<sup>1</sup> Il SEFRI decida da las contribuziuns fin 1 milliun francs.
+
+<sup>2</sup> Il DEFR decida da las contribuziuns da passa 1 milliun francs. Il SEFRI fa la proposta.
+
+<sup>3</sup> Per contribuziuns da passa 2 milliuns francs sto vegnir dumandà ordavant il consentiment dal Departament federal da finanzas. Sch’i na dat nagina reconciliaziun, decida il Cussegl federal sin proposta dal DEFR.
+
+<sup>4</sup> Las contribuziuns pon vegnir concedidas tras disposiziuns u en il rom da contracts.
+
+#### Art. 50
+
+**Infurmaziun e cussegliaziun**[^50-1]
+
+Il SEFRI po infurmar ils organs da perscrutaziun, las organisaziuns e las interpresas cun sedia en Svizra davart las activitads che vegnan sustegnidas da la Confederaziun e che pertutgan ils programs ed ils projects internaziunals ed als po cussegliar per elavurar e per inoltrar dumondas.
+
+[^50-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+### 3. secziun Contribuziuns per la collavuraziun scientifica bilaterala ordaifer las organisaziuns ed ils programs internaziunals
+
+(art. 29 al. 1 lit. c LPPI)
+
+#### Art. 51
+
+**Princips**
+
+<sup>1</sup> I pon vegnir pajadas contribuziuns ad instituts da perscrutaziun en scolas autas per promover la collavuraziun ed il barat cun ils pajais e cun las regiuns da prioritad da la politica da perscrutaziun e d’innovaziun da la Svizra.
+
+<sup>2</sup> La collavuraziun tranter ils instituts da perscrutaziun en scolas autas svizzers ed esters vegn realisada tras programs da perscrutaziun cuminaivels, tras l’utilisaziun cuminaivla da labors, tras l’attribuziun da diploms universitars cuminaivels, tras la finanziaziun da stipendis per il barat da students e da perscrutaders sco er tras projects punctuals e tras activitads da pilot.
+
+<sup>3</sup> Ils programs ed ils projects vegnan sustegnids, sch’ils pajais partenaris garanteschan la reciprocitad.
+
+<sup>4</sup> Sche l’interess da la politica scientifica d’in project e sia excellenza scientifica giustifitgescha quai per la Svizra, na sto betg vegnir resguardà il princip da la reciprocitad, sch’ils purtaders dals projects ubain las instituziuns che promovan la perscrutaziun mettan a disposiziun ils meds finanzials adequats.
+
+#### Art. 52
+
+**Proceduras per publicaziuns da project cuminaivlas cun ils pajais e las regiuns da prioritad**
+
+<sup>1</sup> Il SEFRI installescha comités directivs naziunals per ils pajais u per las regiuns da prioritad. Quests comités fixeschan, eventualmain en accordanza cun il leading house cumpetent tenor l’alinea 2, l’orientaziun dal program da collavuraziun ord vista naziunala.
+
+<sup>2</sup> Il SEFRI po numnar per mintga pajais u per mintga regiun da prioritad in institut svizzer da perscrutaziun en scolas autas (leading house) che po vegnir incumbensà da coordinar e da realisar il program da collavuraziun. Per quest intent consultescha il SEFRI ordavant la Conferenza dals recturs da las universitads svizras (CRUS) e la Conferenza dals recturs da las scolas autas spezialisadas svizras (CRSAS).[^52-1] Sch’i n’è betg vegnì numnà in leading house per in pajais u per ina regiun da prioritad, prenda il SEFRI las mesiras e las decisiuns necessarias.
+
+<sup>3</sup> Il FNS è cumpetent, per incumbensa dal SEFRI, per la publicaziun dals projects da perscrutaziun cuminaivels en il rom da la collavuraziun scientifica bilaterala sco er per lur evaluaziun, e decida tenor ils criteris da ses reglament da contribuziun davart l’admissiun dals projects en la stretga tscherna.
+
+<sup>4</sup> Las cunvegnas bilateralas cun il pajais partenari reglan la furmaziun da gruppas da lavur cuminaivlas e las incumbensas da quellas. Las gruppas da lavur decidan particularmain davart l’approvaziun u la refusa da las dumondas da project ch’èn vegnidas inoltradas en il rom dals programs.
+
+<sup>5</sup> Il DEFR regla ils detagls da la procedura en in’ordinaziun.
+
+[^52-1]: En vigur dapi il 1. da schan. 2015.
+
+#### Art. 53
+
+**Fixaziun da las contribuziuns, incaricas da prestaziun**
+
+<sup>1</sup> En il rom dals credits permess fixescha il DEFR l’import maximal che po vegnir garantì per la perioda da contribuziun respectiva a mintga program da collavuraziun cun in pajais u cun ina regiun da prioritad per realisar il program.
+
+<sup>2</sup> Il SEFRI fa cun mintga leading house in contract da prestaziuns che fixescha las finamiras da la collavuraziun bilaterala, las prestaziuns ch’il leading house sto furnir e las prescripziuns per il rapport (reporting e controlling). En il contract da prestaziuns po il SEFRI surdar al leading house ina cumpetenza da decisiun per la tscherna da singuls projects e da singulas activitads da pilot.
+
+<sup>3</sup> Ils detagls da las incumbensas dal FNS e las contribuziuns correspundentas vegnan fixads en la cunvegna da prestaziun cun il FNS.
+
+## 7. chapitel Coordinaziun, planisaziun e svilup persistent
+
+### 1. secziun Coordinaziun tras il Cussegl federal
+
+(art. 41 e 42 LPPI)
+
+#### Art. 54
+
+**Politica scientifica exteriura**
+
+<sup>1</sup>
+
+Il SEFRI elavura periodicamain u tenor basegn in rapport per mauns dal Cussegl federal, che correspunda a las prescripziuns tenor l’artitgel 41 alinea 3 LPPI davart il stadi ed il svilup da la politica scientifica exteriura da la Svizra. El resguarda en quest connex:
+
+- a. las obligaziuns da la Svizra or dals contracts internaziunals;
+- b. ils svilups en il spazi da perscrutaziun e d’innovaziun europeic ed extra-europeic;
+- c. las mesiras tenor l’artitgel 29 LPPI ch’èn vegnidas prendidas en il rom da la collavuraziun internaziunala en il sectur da la perscrutaziun e da l’innovaziun.
+
+<sup>2</sup> El coordinescha questa activitad cun ils servetschs ch’èn cumpetents per la politica exteriura dal Departament federal d’affars exteriurs sco er cun ulteriurs servetschs federals interessads e consultescha il FNS e l’Innosuisse particularmain areguard las incumbensas ch’els han survegnì tenor l’artitgel 30 LPPI e tenor l’artitgel 3 alinea 3 LASPI.[^54-1]
+
+<sup>3</sup> Il Cussegl federal prenda enconuschientscha dal rapport tenor l’alinea 1 e concluda las mesiras da coordinaziun necessarias.
+
+[^54-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+#### Art. 55
+
+**Infrastructuras da perscrutaziun**
+
+<sup>1</sup>
+
+Il SEFRI elavura periodicamain u tenor basegn in rapport per mauns dal Cussegl federal davart il stadi ed il svilup da las infrastructuras da perscrutaziun, en spezial dals gronds instituts da perscrutaziun internaziunals sco er d’ulteriuras infrastructuras da perscrutaziun coordinadas sin plaun internaziunal ed a las qualas la Svizra è participada. El resguarda en quest connex:
+
+- a. las obligaziuns da la Svizra or dals contracts internaziunals;
+- b. ils svilups dal spazi da perscrutaziun e d’innovaziun europeic en spezial areguard la constituziun ed il manaschi d’infrastructuras da perscrutaziun coordinadas sin plaun internaziunal;
+- c. las prioritads da svilup dals secturs spezials e da las disciplinas en Svizra en il sectur da la perscrutaziun e da l’innovaziun;
+- d. las prioritads da svilup correspundentas en il sectur da las SPF ed a las ulteriuras scolas autas.
+
+<sup>2</sup> El consultescha ils organs da promoziun, ils servetschs federals pertutgads sco er en cas da basegn il CSS e garantescha che las expertisas scientificas necessarias vegnian realisadas.
+
+<sup>3</sup> Plinavant garantescha el ch’i vegnia fatga in’armonisaziun materiala tranter la planisaziun politica da la perscrutaziun e da l’innovaziun tenor la LPPI e la coordinaziun da la politica da scola auta tenor la Lescha federala dals 30 da settember 2011[^55-1] davart l’agid a las scolas autas e davart la coordinaziun en il sectur da las scolas autas svizras (LASA) en cas, nua ch’igl exista in connex direct cun secturs che chaschunan custs spezialmain gronds tenor la LASA.[^55-2]
+
+<sup>4</sup> Il Cussegl federal prenda enconuschientscha dal rapport e concluda las mesiras da coordinaziun necessarias.
+
+[^55-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^55-2]: En vigur dapi il 1. da schan. 2015.
+
+#### Art. 56
+
+**Projects da promoziun naziunals**
+
+<sup>1</sup> Il DEFR coordinescha la planisaziun e la realisaziun dals projects da promoziun naziunals en il senn da l’artitgel 41 alinea 5 LPPI.
+
+<sup>2</sup> El coordinescha quests projects cun la procedura da planisaziun ordinaria (art. 58 e 59) e garantescha che eventualas propostas da mesiras da promoziun vegnian fatgas en il rom da las missivas FPI periodicas.
+
+#### Art. 57
+
+**Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun federala**
+
+<sup>1</sup>
+
+Il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun consista da represchentants:
+
+- a. dals servetschs federals che adempleschan incumbensas en il sectur da la perscrutaziun da l’administraziun;
+- b. da l’Administraziun federala da finanzas.
+
+<sup>2</sup> Ils commembers tenor l’alinea 1 represchentan las direcziuns dals servetschs federals respectivs. La nominaziun vegn fatga tras ils servetschs federals cumpetents.
+
+<sup>3</sup> A las sesidas dal Comité prendan part represchentants dal FNS, da l’Innosuisse e dal Cussegl da las SPF cun vusch consultativa.
+
+<sup>4</sup> Il secretari da stadi dal SEFRI maina il Comité. El po designar in substitut.
+
+### 2. secziun Planisaziun
+
+(art. 43–48 LPPI)
+
+#### Art. 58
+
+**Programs da plirs onns**
+
+### (art. 45 LPPI)
+
+<sup>1</sup>
+
+Ils organs da perscrutaziun infurmeschan, cun lur programs da plirs onns, davart lur activitads previsas per la proxima perioda da FPI, cunzunt davart:
+
+- a. tge accents e tge prioritads ch’els vulan metter e quant enavant che quels correspundan a l’orientaziun strategica da la politica da perscrutaziun e d’innovaziun da la Confederaziun;
+- b. co ch’els pensan da reparter lur meds finanzials en cumparegliaziun cun lur activitad d’enfin ussa;
+- c. co ch’els vulan coordinar lur activitads a l’intern e cun auters organs da perscrutaziun;
+- d. tge consequenzas persunalas e finanzialas ch’èn da spetgar.
+
+<sup>2</sup> Il SEFRI metta in termin per ils organs da perscrutaziun, entaifer il qual quels ston inoltrar lur programs da plirs onns.
+
+#### Art. 59
+
+**Plan da promoziun annual da las instituziuns per promover la perscrutaziun**
+
+### (art. 48 LPPI)
+
+<sup>1</sup> Cun far il plan da promoziun annual examinescha mintga instituziun per promover la perscrutaziun, sche ses program da plirs onns è valaivel. Las divergenzas da las cunvegnas da prestaziun che sa basan sin ils programs da plirs onns ston vegnir motivadas.
+
+<sup>2</sup> Il plan da promoziun mussa, co ch’ils meds finanzials duain vegnir duvrads l’onn proxim. La preschentaziun vegn fatga en francs ed en procentualas dals custs totals; per cumparegliar vegnan inditgadas las cifras correspundentas dals 2 onns precedents. La promoziun planisada sto vegnir motivada.
+
+### 3. secziun Svilup persistent
+
+(art. 6 al. 3 lit. a LPPI)
+
+#### Art. 60
+
+<sup>1</sup> Ils organs da promoziun pretendan, en il rom da la procedura da dumonda, indicaziuns davart la contribuziun dals projects a favur dal svilup persistent.
+
+<sup>2</sup> Las instituziuns per promover la perscrutaziun e l’administraziun federala infurmeschan, en il rom da lur rapport tenor l’artitgel 52 LPPI, co ch’ellas han resguardà las finamiras da la Confederaziun a favur d’in svilup persistent da la societad, da l’economia e da l’ambient cun ademplir lur activitad da promoziun; l’Innosuisse fa quai en ses rapport da gestiun tenor l’artitgel 7 alinea 1 litera o LASPI.[^60-1]
+
+[^60-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+
+## 8. chapitel Cussegl svizzer da la scienza
+
+(art. 54 e 55 LPPI)
+
+#### Art. 61
+
+<sup>1</sup> Il Cussegl svizzer da la scienza (CSS) è ina cumissiun administrativa permanenta tenor l’artitgel 8*a* alinea 2 da l’Ordinaziun dals 25 da november 1998[^61-1] davart l’organisaziun da la regenza e da l’administraziun. El è attribuì administrativamain al DEFR.
+
+<sup>2</sup> El ha in agen secretariat.
+
+<sup>3</sup> Ils meds finanzials per la gestiun dal CSS vegnan inscrits en il preventiv dal SEFRI.
+
+[^61-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+## 9. chapitel Disposiziuns finalas
+
+#### Art. 62
+
+**Aboliziun e midada d’auters decrets**
+
+<sup>1</sup> L’Ordinaziun da perscrutaziun e d’innovaziun dals 10 da zercladur 1985[^62-1] vegn abolida.
+
+<sup>2</sup> Las ordinaziuns qua sutvart vegnan midadas sco suonda:
+
+...[^62-2]
+
+[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775), [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 cifra 3 [1861](https://fedlex.data.admin.ch/eli/oc/2000/287), [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639)[4871](https://fedlex.data.admin.ch/eli/oc/2004/730), [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169)[4617](https://fedlex.data.admin.ch/eli/oc/2008/644)[5747](https://fedlex.data.admin.ch/eli/oc/2008/794)agiunta cifra 8, [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784), [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)cifra I 8, [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-2]: Las midadas pon vegnir consultadas en la [AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814).
+
+#### Art. 63
+
+**Disposiziuns transitoricas**
+
+<sup>1</sup> Per conceder las contribuziuns da l’Innosuisse a favur dals custs da perscrutaziun indirects, sco er per ils detagls concernent la calculaziun da las contribuziuns, vala, fin l’entrada en vigur da las disposiziuns davart la finanziaziun e davart las contribuziuns federalas tenor il 7. ed 8. chapitel da la LASA[^63-1] e fin il pli tard ils 31 da december 2016, l’artitgel 10*s* alineas 6 e 7 cun agiunta sco er la disposiziun transitorica appartegnenta dals 24 da november 2010[^63-2] da l’Ordinaziun da perscrutaziun e d’innovaziun dals 10 da zercladur 1985.
+
+<sup>2</sup> Fin a l’entrada en vigur dals chapitels 1 fin 5 da la LASA ha l’artitgel 52 alinea 2, segunda frasa, il suandant text:
+
+...[^63-3]
+
+[^63-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-2]: [AS 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
+[^63-3]: Integrà en la disposiziun menziunada fin ils 31 da dec. 2014.
+
+#### Art. 64
+
+**Entrada en vigur**
+
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. da schaner 2014, e quai cun resalva dals alineas 2 e 3.
+
+<sup>2</sup> L’artitgel 55 alinea 3 entra en vigur a medem temp cun ils chapitels 1 fin 5 da la LASA[^64-1].
+
+<sup>3</sup> Ils artitgels 37 e 38 entran en vigur a medem temp cun las disposiziuns davart la finanziaziun e davart las contribuziuns federalas tenor il 7. ed il 8. chapitel da la LASA, il pli tard però il 1. da schaner 2017.
+
+[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)

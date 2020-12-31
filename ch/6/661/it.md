@@ -1,0 +1,932 @@
+---
+sr: "661"
+title: "Legge federale del 12 giugno 1959 sulla tassa d'esenzione dall'obbligo militare (LTEO)"
+short: LTEO
+eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
+language: it
+version: 2019-01-01
+adopted: 1959-06-12
+in_force: 1960-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20190101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20190101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sulla tassa d’esenzione dall’obbligo militare
+
+(LTEO)**[^t-1]**
+
+del 12 giugno 1959 (Stato 1° gennaio 2019) (Stato 1° gennaio 2019)
+
+[^t-1]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 40 capoverso 2 e 59 capoverso 3 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale dell’11 luglio 1958,
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+## Capitolo primo:**** Assoggettamento**** alla tassa
+
+[^chap1-1][^chap1-2]
+
+[^chap1-1]: Nuova espr. giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^chap1-2]: Nuova espr. giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 1
+
+**Principio[^1-2]**[^1-1]
+
+I cittadini svizzeri che non adempiono i loro obblighi militari prestando servizio personale (servizio militare o civile) sono sottoposti a una tassa sostitutiva.
+
+[^1-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^1-2]: I titoli marginali diventano titoli intermedi giusta il n. I della LF del 22 giu. 1979 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 2
+
+**Assoggettati**[^2-1]
+
+<sup>1</sup>
+
+Sono sottoposti alla tassa gli uomini assoggettati agli obblighi militari, domiciliati in Svizzera o all’estero, i quali nel corso di un anno di assoggettamento, corrispondente ad un anno civile:[^2-2]
+
+- a.[^2-3] per più di sei mesi non sono incorporati in una formazione dell’esercito né sono soggetti all’obbligo di prestare servizio civile;
+- b.[^2-4] ...
+- c.[^2-5] non prestano il servizio militare o il servizio civile cui sono tenuti come obbligati al servizio.
+
+<sup>1bis</sup> È inoltre sottoposto alla tassa chiunque presta servizio militare o servizio civile e al momento del proscioglimento non ha prestato il totale obbligatorio dei giorni di servizio.[^2-6]
+
+<sup>2</sup> Non è sottoposto alla tassa chiunque, nell’anno di assoggettamento, ha effettivamente assolto il suo servizio militare[^2-7], benché non sia stato incorporato durante l’intero anno come obbligato al servizio.
+
+[^2-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)). Secondo la medesima disp. i titoli marginali diventano titoli intermedi.
+[^2-2]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^2-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^2-4]: Abrogata dal n. 8 dell’all. della LF del 22 giu. 1990, con effetto dal 1° gen. 1991 ([RU 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 942](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
+[^2-5]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^2-6]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^2-7]: Ora: «il suo servizio militare o il suo servizio civile».
+
+#### Art. 3
+
+**Inizio e durata dell’assoggettamento**[^3-1]
+
+<sup>1</sup> L’assoggettamento alla tassa comincia al più presto all’inizio dell’anno in cui l’assoggettato agli obblighi militari ha compiuto 19 anni. L’assoggettamento termina al più tardi alla fine dell’anno in cui compie 37 anni.
+
+<sup>2</sup> Per gli assoggettati alla tassa conformemente all’articolo 2 capoverso 1 lettera a che non prestano servizio di protezione civile, l’assoggettamento alla tassa inizia nell’anno successivo a quello del reclutamento. Esso dura 11 anni.
+
+<sup>3</sup> Per gli assoggettati alla tassa conformemente all’articolo 2 capoverso 1 lettera a che prestano servizio di protezione civile, l’assoggettamento alla tassa inizia nell’anno successivo a quello in cui hanno iniziato la formazione di base nell’ambito del servizio di protezione civile. Esso dura 11 anni.
+
+<sup>4</sup> Per gli obbligati al servizio che sono assoggettati alla tassa conformemente all’articolo 2 capoverso 1 lettera c e non prestano servizio militare, l’assoggettamento alla tassa inizia nell’anno successivo a quello in cui hanno completato la scuola reclute, ma al più tardi nell’anno in cui hanno compiuto 25 anni. Esso dura fino al termine dell’obbligo di prestare servizio militare.
+
+<sup>5</sup> Per gli obbligati al servizio che sono assoggettati alla tassa conformemente all’articolo 2 capoverso 1 lettera c e non prestano servizio civile, l’assoggettamento alla tassa inizia nell’anno successivo a quello in cui la decisione d’ammissione al servizio civile è passata in giudicato, ma al più tardi nell’anno in cui hanno compiuto 25 anni. Esso dura fino al termine dell’obbligo di prestare servizio civile.
+
+[^3-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 4
+
+**Esenzione dalla tassa[^4-1]**
+
+<sup>1</sup>
+
+È esentato dalla tassa chiunque, nell’anno di assoggettamento:
+
+- a.[^4-2] consegue, per notevole menomazione fisica, mentale o psichica, un reddito imponibile che, dopo deduzione supplementare di prestazioni d’assicurazione di cui all’articolo 12 capoverso 1 lettera c nonché delle spese di sostentamento causate dall’invalidità, non supera di oltre il 100 per cento il minimo vitale ai sensi del diritto in materia di esecuzione per debiti;
+- [tab] a<sup>bis</sup>.[^4-3] è considerato inabile al servizio a causa di una notevole menomazione e percepisce una rendita o un assegno per grandi invalidi dall’assicurazione federale per l’invalidità o dall’assicurazione contro gli infortuni;
+- [tab] a<sup>ter</sup>.[^4-4] è considerato inabile al servizio a causa di una notevole menomazione e non riceve un assegno per grandi invalidi, ancorché ne adempia una delle due esigenze minime;
+- b.[^4-5] è, per un danno cagionato alla sua salute dal servizio militare o dal servizio civile, dichiarato inabile al servizio o è dispensato dallo stesso;
+- c.[^4-6] quale membro dell’Assemblea federale, dovendo essere presente alle sessioni della stessa non ha potuto prestare il servizio militare o il servizio civile cui era tenuto, appartiene al personale militare oppure è esentato dal servizio personale giusta la legislazione sul servizio militare o quella sul servizio civile;
+- d.[^4-7] ...
+- e. ha acquisito o perso la cittadinanza svizzera.[^4-8]
+
+<sup>2</sup> È, inoltre, esentato dalla tassa[^4-9], riservato l’articolo 21 capoverso 2, chiunque, nell’anno di assoggettamento, è sottoposto per almeno 30 giorni al diritto penale militare, perché appartiene a un’impresa posta sotto il regime dell’esercizio di guerra.
+
+<sup>2bis</sup> È pure esentato dalla tassa chiunque ha assolto tutto il servizio prescritto dalla legislazione concernente il servizio militare o quello civile. Tale esenzione non è valevole per gli anni di servizio attivo.[^4-10]
+
+<sup>3</sup> Se l’assoggettato muore durante l’anno di assoggettamento, la tassa non è riscossa.[^4-11]
+
+[^4-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^4-2]: Nuovo testo giusta il n. 1 dell’all. LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
+[^4-3]: Introdotta dal n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^4-4]: Introdotta dal n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^4-5]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^4-6]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^4-7]: Abrogata dal n. 5 dell’all. alla LF del 19 mar. 2010, con effetto dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^4-8]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^4-9]: Nuova espr. giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-10]: Introdotto dal n. I della LF del 17 giu. 1994 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)). Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^4-11]: Introdotto dal n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 4a
+
+**Esenzione degli Svizzeri all’estero dalla tassa militare[^4a-2]**[^4a-1]
+
+<sup>1</sup>
+
+È esentato dalla tassa militare[^4a-3] lo Svizzero all’estero che nell’anno di assoggettamento è domiciliato almeno sei mesi all’estero, sempre che:
+
+- a. all’inizio dell’anno di assoggettamento sia domiciliato all’estero da più di tre anni senza interruzione;
+- b.[^4a-4] durante l’anno di assoggettamento debba prestare servizio militare o servizio civile nello Stato straniero in cui è domiciliato o pagare un tributo corrispondente alla tassa d’esenzione dall’obbligo militare;
+- c.[^4a-5] durante l’anno di assoggettamento, in qualità di cittadino dello Stato straniero in cui ha il suo domicilio, sia a disposizione dell’esercito o del servizio civile di questo Stato, dopo aver prestato i servizi regolamentari.
+
+<sup>2</sup> Se la persona soggetta all’obbligo militare era già stata domiciliata all’estero anteriormente, questi soggiorni all’estero sono computati nel periodo di tre anni, sempre che i soggiorni siano durati ogni volta almeno dodici mesi.[^4a-6]
+
+<sup>3</sup> Non sono esentati gli Svizzeri soggetti all’obbligo militare che pur essendo domiciliati all’estero sono tenuti a notificarsi giusta le disposizioni del servizio militare o civile e che devono adempiervi i loro obblighi di servizio.[^4a-7]
+
+[^4a-1]: Introdotta(o) dal n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^4a-2]: Ora: «tassa».
+[^4a-3]: Ora: «tassa».
+[^4a-4]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^4a-5]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^4a-6]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^4a-7]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+
+#### Art. 5
+
+[^5-1]
+
+[^5-1]: Abrogato dall’art. 3 cpv. 1 della LF del 14 dic. 1973 su la tassa d’esenzione dal servizio militare degli Svizzeri all’estero, con effetto dal 1° gen. 1974 ([RU 1974 795](https://fedlex.data.admin.ch/eli/oc/1974/795_795_795); [FF 1973 I 949](https://fedlex.data.admin.ch/eli/fga/1973/1_1185_1145_949)).
+
+#### Art. 6
+
+**Successione nell’assoggettamento[^6-1]**
+
+<sup>1</sup> Se l’assoggettato alla tassa muore, gli eredi subentrano nei suoi diritti e obblighi; essi rispondono in solido delle tasse ancora dovute. L’erede è liberato dall’obbligo del pagamento, in quanto provi che le tasse superano la sua quota ereditaria, compresi gli acconti ricevuti.
+
+<sup>2</sup> ...[^6-2]
+
+[^6-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^6-2]: Abrogato dal n. I della LF del 22 giu. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 7
+
+****S**ervizio militare e servizio civile[^7-1]**
+
+<sup>1</sup> Il servizio militare comprende i giorni di servizio computabili giusta la legislazione militare.[^7-2]
+
+<sup>1bis</sup> Il servizio civile comprende i giorni di servizio computabili giusta la legislazione sul servizio civile.[^7-3]
+
+<sup>2</sup> ...[^7-4]
+
+<sup>3</sup>
+
+Non sono considerati servizio militare o servizio civile ai sensi della presente legge:[^7-5]
+
+- a.[^7-6] la partecipazione a corsi nell’ambito dell’istruzione tecnica premilitare, al tiro obbligatorio fuori servizio e al corso di tiro per ritardatari;
+- b.[^7-7] la partecipazione a esercizi o corsi di associazioni militari e di «Gioventù e Sport»;
+- c.[^7-8] il servizio compiuto dietro indennità giornaliera oppure nell’ambito di un rapporto di lavoro su base contrattuale.
+
+<sup>4</sup> Se, partecipando a una delle attività enunciate al capoverso 3 lettera a, l’assoggettato agli obblighi militari rimane vittima di un incidente che cagiona un danno alla salute, diviene applicabile l’articolo 4 capoverso 1 lettera b.
+
+[^7-1]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^7-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^7-3]: Introdotto dal n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^7-4]: Abrogato dal n. I della LF del 4 ott. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^7-5]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^7-6]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^7-7]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^7-8]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 8
+
+**Servizio militare o civile non prestato**[^8-1]
+
+<sup>1</sup> Se in un anno successivo a quello in cui ha assolto la scuola reclute l’obbligato al servizio militare non presta il servizio in modo completo, si considera che in tale anno il servizio militare non è stato prestato ai sensi della presente legge.
+
+<sup>2</sup> Se in un anno successivo a quello in cui la decisione d’ammissione al servizio civile è passata in giudicato l’obbligato al servizio civile non presta almeno 26 giorni computabili di servizio, si considera che in tale anno il servizio civile non è stato prestato ai sensi della presente legge.
+
+<sup>3</sup>
+
+La tassa annuale non è dovuta per l’anno in cui l’obbligato al servizio non ha potuto prestare il servizio in modo completo per uno dei seguenti motivi:
+
+- a. per motivi militari, perché chiamato in servizio al fine di coprire il fabbisogno di specialisti nelle formazioni o di quadri nei servizi d’istruzione;
+- b. per motivi legati al servizio civile, se nell’anno di assoggettamento alla tassa non sussisteva alcun obbligo di prestare servizio; e
+- c. poiché sussisteva un pericolo per la sua salute a causa di un’epidemia o di un’epizoozia.
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 9
+
+**Anno di assoggettamento**
+
+<sup>1</sup> Quando nell’anno di assoggettamento sono adempiute le condizioni che la determinano, essa abbraccia l’intera durata del medesimo.
+
+<sup>2</sup> ...[^9-1]
+
+[^9-1]: Abrogato dal n. I della LF del 22 giu. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 9a
+
+**Tassa d’esenzione finale**[^9a-1]
+
+<sup>1</sup> Le persone che prestano servizio militare o servizio civile sottoposte alla tassa secondo l’articolo 2 capoverso 1<sup>bis</sup>, nell’anno del proscioglimento versano una tassa d’esenzione finale se all’adempimento del totale obbligatorio dei giorni di servizio mancano loro più di 15 giorni di servizio militare computabili o più di 25 giorni di servizio civile computabili.
+
+<sup>2</sup>
+
+Per determinare se la tassa d’esenzione finale è dovuta, sono convertiti in giorni di servizio prestati:
+
+- a. le tasse d’esenzione già versate;
+- b. gli anni in cui non sussisteva l’assoggettamento alla tassa per uno dei motivi di cui agli articoli 4, 4*a* o 8 capoverso 3.
+
+<sup>3</sup> Le disposizioni della presente legge, ad eccezione del capitolo settimo, si applicano anche alla tassa d’esenzione finale.
+
+[^9a-1]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
+## Capitolo secondo: Reddito imponibile****
+
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+#### Art. 10
+
+[^10-1]
+
+[^10-1]: Abrogato dal n. I della LF del 17 giu. 1994, con effetto dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+#### Art. 11
+
+**Oggetto della tassa**[^11-1]
+
+La tassa è riscossa, giusta la legislazione sull’imposta federale diretta, sul reddito netto complessivo che l’assoggettato consegue in Svizzera e all’estero.
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+#### Art. 12
+
+**Deduzioni**[^12-1]
+
+<sup>1</sup>
+
+Sono dedotti dal reddito netto:
+
+- a.[^12-2] ...
+- b. le deduzioni sociali secondo le disposizioni vigenti per l’imposta federale diretta, nell’anno di assoggettamento;
+- c. le prestazioni imponibili che l’assoggettato riceve dall’assicurazione militare, dall’assicurazione per l’invalidità, dall’Istituto nazionale svizzero d’assicurazione contro gli infortuni o da un altro istituto d’assicurazione infortuni, malattie o invalidità di diritto pubblico o privato;
+- d.[^12-3] ...
+
+<sup>2</sup> È determinante la situazione dell’assoggettato nel periodo di tassazione dell’imposta su cui si fonda il calcolo della tassa. Se la tassa è fissata su dichiarazione speciale, è determinante la situazione in cui si trovava l’assoggettato alla fine dell’anno di assoggettamento.
+
+[^12-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^12-2]: Abrogata dal n. I della LF del 3 ott. 2008, con effetto dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^12-3]: Abrogata dal n. I della LF del 3 ott. 2008, con effetto dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+## Capitolo terzo: Calcolo della tassa
+
+#### Art. 13
+
+**Aliquota**[^13-1]
+
+<sup>1</sup> La tassa ammonta a 3 franchi per ogni 100 franchi di reddito soggetto alla tassa, ma almeno a 400 franchi.[^13-2]
+
+<sup>2</sup> Per gli invalidi che non sono esentati dalla tassa militare[^13-3] giusta l’articolo 4 capoverso 1 lettera a, la tassa è dimezzata.
+
+[^13-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^13-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^13-3]: Ora: «tassa».
+
+#### Art. 14
+
+[^14-1]
+
+[^14-1]: Abrogato dal n. I della LF del 17 giu. 1994, con effetto dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+#### Art. 15
+
+**Riduzione in funzione dei giorni di servizio prestati nell’anno di assoggettamento**[^15-1]
+
+<sup>1</sup> L’obbligato al servizio militare che nel corso dell’anno di assoggettamento ha prestato più della metà dei giorni di servizio computabili deve la metà della tassa.[^15-2]
+
+<sup>2</sup> L’obbligato al servizio civile che nel corso dell’anno di assoggettamento ha prestato meno di 26, ma almeno 14 giorni computabili di servizio, deve la metà della tassa.
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^15-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 16
+
+[^16-1]
+
+[^16-1]: Abrogato dal n. I della LF del 22 giu. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 17
+
+[^17-1]
+
+[^17-1]: Abrogato dal n. 8 dell’all. della LF del 22 giu. 1990, con effetto dal 1° gen. 1991 ([RU 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882): [FF 1989 II 942](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
+
+#### Art. 18
+
+[^18-1]
+
+[^18-1]: Abrogato dal n. I della LF del 22 giu. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 19
+
+**Riduzione in funzione del numero totale dei giorni di servizio prestati[^19-2]**[^19-1]
+
+<sup>1</sup> La tassa è ridotta in funzione del numero totale dei giorni di servizio computabili che l’assoggettato ha prestato complessivamente sino alla fine dell’anno di assoggettamento.[^19-3]
+
+<sup>2</sup> La riduzione è di un decimo per 50–99 giorni di servizio militare (75–149 giorni di servizio civile) e di un altro decimo per ogni 50 giorni di servizio militare (75 giorni di servizio civile) in più o per una frazione degli stessi.[^19-4]
+
+[^19-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^19-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^19-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^19-4]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+
+#### Art. 20
+
+[^20-1]
+
+[^20-1]: Abrogato dal n. I della LF del 17 giu. 1994, con effetto dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+#### Art. 21
+
+**Aumento della tassa per gli anni di servizio attivo**
+
+<sup>1</sup> L’Assemblea federale può aumentare fino al doppio l’ammontare della tassa per gli anni nei quali la maggior parte delle truppe è chiamata a prestare servizio attivo.[^21-1]
+
+<sup>2</sup> Se l’Assemblea federale fa uso di siffatta facoltà, gli assoggettati di cui all’articolo 4 capoverso 2 devono pagare soltanto il supplemento di tassa.
+
+[^21-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+## Capitolo quarto: Autorità
+
+#### Art. 22
+
+**Organizzazione**
+
+<sup>1</sup> La tassa è riscossa dai Cantoni, sotto la vigilanza della Confederazione.
+
+<sup>2</sup> ...[^22-1]
+
+<sup>3</sup> Ogni Cantone istituisce un’autorità di ricorso indipendente dall’amministrazione. Esso può prevedere un’autorità di ricorso di seconda istanza. Come autorità cantonale di ultima istanza designa un tribunale superiore.[^22-2]
+
+<sup>4</sup> L’organizzazione e la gestione delle autorità cantonali sono disciplinate dal diritto cantonale, riservato il diritto federale. Qualora un Cantone non possa prendere tempestivamente le disposizioni indispensabili, il Consiglio federale emana provvisoriamente le ordinanze necessarie.
+
+<sup>5</sup> Più Cantoni possono convenire di riscuotere la tassa in comune. Essi disciplinano la procedura e l’organizzazione della riscossione della tassa nonché la composizione della commissione di ricorso. In mancanza di un simile disciplinamento, è applicabile la procedura del Cantone competente ai sensi dell’articolo 23.[^22-3]
+
+<sup>6</sup> Per adempiere i loro compiti legali, le autorità incaricate dell’esecuzione della presente legge sono autorizzate a utilizzare sistematicamente il numero d’assicurato dell’assicurazione vecchiaia e superstiti conformemente alle disposizioni della legge federale del 20 dicembre 1946[^22-4] sull’assicurazione per la vecchiaia e per i superstiti.[^22-5]
+
+[^22-1]: Abrogato dal n. I della LF del 4 ott. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^22-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^22-3]: Introdotto dal n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^22-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-5]: Introdotto dal n. 7 dell’all. alla LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+
+#### Art. 23
+
+**Competenza**[^23-1]
+
+<sup>1</sup> La competenza di riscuotere la tassa spetta all’autorità della tassa del Cantone in cui l’assoggettato è domiciliato o notificato conformemente alle prescrizioni militari o del servizio civile il 31 dicembre dell’anno di assoggettamento.
+
+<sup>2</sup> Il Consiglio federale può, in casi speciali, stabilire deroghe alla competenza assegnata dal capoverso 1, allo scopo di semplificare la riscossione della tassa.
+
+[^23-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 24
+
+**Assistenza fra le autorità**
+
+<sup>1</sup> Le autorità incaricate dell’esecuzione della presente legge si prestano gratuitamente assistenza amministrativa.[^24-1]
+
+<sup>2</sup>
+
+Le seguenti autorità e i seguenti uffici trasmettono gratuitamente le notifiche opportune, comunicano le informazioni necessarie e garantiscono la consultazione degli atti alle autorità incaricate dell’esecuzione della presente legge:[^24-2]
+
+- a. le autorità militari della Confederazione e dei Cantoni;
+- b. le autorità della Confederazione preposte al servizio civile e gli uffici regionali del servizio civile;
+- c. le autorità fiscali della Confederazione, dei Cantoni, distretti, circoli e Comuni;
+- d. l’Ufficio centrale di compensazione AVS/AI;
+- e. gli uffici dell’AI cantonali;
+- f. l’assicurazione militare[^24-3];
+- g. i rappresentanti dell’assicurazione obbligatoria contro gli infortuni secondo la legge del 20 marzo 1981[^24-4] sull’assicurazione contro gli infortuni;
+- h. i servizi della protezione civile dei Comuni;
+- i.[^24-5] ...
+- j. gli uffici cantonali delle esecuzioni e dei fallimenti;
+- k.[^24-6] l’Ufficio federale delle assicurazioni sociali;
+- l.[^24-7] gli uffici cantonali e comunali preposti all’assistenza sociale;
+- m.[^24-8] gli uffici del controllo abitanti dei Comuni.[^24-9]
+
+<sup>3</sup> Il Consiglio federale può vincolare altri uffici a fornire l’assistenza amministrativa di cui al capoverso 2.[^24-10]
+
+<sup>4</sup>
+
+Sono trasmessi tutti i dati necessari a stabilire l’assoggettamento alla tassa, l’esenzione dalla tassa nonché la tassazione, l’esazione e il rimborso della tassa, in particolare:
+
+- a. le generalità;
+- b. i dati dei controlli militari e del servizio civile;
+- c. i dati della dichiarazione d’imposta;
+- d. i dati patrimoniali;
+- e. i dati riguardanti un’eventuale riduzione della tassa d’esenzione;
+- f. i dati sulla salute.[^24-11]
+
+<sup>5</sup> I dati possono essere trasmessi singolarmente, mediante liste o su supporti elettronici di dati.[^24-12]
+
+<sup>6</sup> I dati personali e i dispositivi utilizzati per il loro trattamento, quali i supporti di dati, i programmi informatici e la relativa documentazione devono essere protetti da qualsiasi manipolazione, modifica e distruzione non autorizzata nonché dal furto.[^24-13]
+
+[^24-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^24-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^24-3]: Nuova espr. giusta in n. II cpv. 1 lett. d della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^24-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^24-5]: Abrogata dal n. I della LF del 3 ott. 2008, con effetto dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^24-6]: Introdotta dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^24-7]: Introdotta dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^24-8]: Introdotta dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^24-9]: Nuovo testo giusta il n. VI 5 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^24-10]: Introdotto dal n. VI 5 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^24-11]: Introdotto dal n. VI 5 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)). Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^24-12]: Introdotto dal n. VI 5 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^24-13]: Introdotto dal n. VI 5 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+
+## Capitolo quinto: Tassazione e rimedi giuridici
+
+#### Art. 25
+
+**Anno di tassazione**[^25-1]
+
+<sup>1</sup>
+
+La tassa è stabilita ogni anno:
+
+- a. per gli assoggettati domiciliati in Svizzera;
+- b.[^25-2] per le persone soggette all’obbligo militare domiciliate all’estero ma che sono tenute a notificarsi in Svizzera conformemente alle prescrizioni militari o a quelle che reggono il servizio civile e che devono adempiervi i loro obblighi di servizio.
+
+<sup>2</sup> L’anno di tassazione è, di regola, l’anno civile successivo all’anno di assoggettamento.
+
+<sup>3</sup> La tassa delle persone soggette all’obbligo militare che intendono partire all’estero è stabilita e riscossa prima dell’inizio del congedo all’estero.[^25-3]
+
+<sup>4</sup> La tassa delle persone soggette all’obbligo militare domiciliate all’estero è stabilita al loro rientro in Svizzera. È applicabile l’articolo 38.
+
+[^25-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^25-2]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^25-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 26
+
+**Basi di tassazione**[^26-1]
+
+<sup>1</sup> L’autorità di tassazione prende tutti i provvedimenti necessari all’accertamento dell’assoggettamento alla tassa e al calcolo della stessa.
+
+<sup>2</sup> La tassa è calcolata sulla base della tassazione relativa all’imposta federale diretta passata in giudicato.
+
+<sup>3</sup> Qualora non possa essere calcolata secondo il capoverso 2, la tassa è stabilita in base a una dichiarazione speciale secondo l’articolo 12 capoverso 2.
+
+[^26-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 27
+
+**Doveri dell’assoggettato**
+
+<sup>1</sup> A richiesta dell’autorità di tassazione, l’assoggettato deve indicare alla medesima, coscienziosamente, i fatti che possono essere importanti nell’accertamento dell’obbligo di assoggettamento e delle basi di calcolo della tassa.[^27-1]
+
+<sup>2</sup>
+
+A richiesta dell’assoggettato, sono tenuti a dargli attestazioni:
+
+- a. le persone fisiche, le persone giuridiche e le comunità di persone che abbiano o abbiano avuto rapporti contrattuali con l’assoggettato (datori di lavoro, creditori, debitori, amministratori di sostanze, consoci, ecc.): sul rapporto contrattuale comune, come anche sulle pretese e prestazioni reciproche valutabili in danaro;
+- b. le persone giuridiche: sulle loro prestazioni all’assoggettato, in quanto membro od organo della persona giuridica oppure beneficiario d’una fondazione.
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 28
+
+**Notificazione della decisione di tassazione[^28-1]**
+
+<sup>1</sup> La decisione di tassazione è notificata per iscritto all’assoggettato. Questa indica il titolo giuridico dell’assoggettamento alla tassa, le basi di calcolo, l’ammontare della tassa, l’eventuale riduzione della tassa, il termine di pagamento e i rimedi giuridici.[^28-2]
+
+<sup>2</sup> Se l’assoggettato è d’ignota dimora o se egli dimora all’estero e non ha un rappresentante in Svizzera, la decisione può essergli notificata validamente mediante pubblicazione nel Foglio ufficiale del Cantone.[^28-3]
+
+<sup>3</sup> ...[^28-4]
+
+[^28-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^28-2]: Nuovo testo del per. giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^28-3]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^28-4]: Abrogato dal n. I della LF del 22 giu. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+
+#### Art. 29
+
+**Decisione d’esenzione dalla tassa[^29-1]**
+
+<sup>1</sup> L’autorità di tassazione, quando deve determinare se un assoggettato ha diritto all’esenzione dalla tassa per una durata superiore all’anno di assoggettamento, prende una decisione speciale.[^29-2]
+
+<sup>2</sup> Tale decisione, passata che sia in giudicato, rimane valida fintanto che non sopravvengono nuovi fatti decisivi.
+
+[^29-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^29-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 30
+
+**Reclamo[^30-1]**
+
+<sup>1</sup> Contro la decisione di tassazione e la decisione d’esenzione dalla tassa può essere proposto, nel termine di 30 giorni dalla notificazione, un reclamo per iscritto all’autorità di tassazione.[^30-2]
+
+<sup>2</sup> Il reclamo deve contenere delle conclusioni precise e indicare i fatti sui quali è fondato.
+
+<sup>3</sup> Se il reclamo è ammissibile, l’autorità di tassazione riesamina la decisione, senz’essere vincolata dalle conclusioni presentate.
+
+<sup>4</sup> La decisione sul reclamo deve essere motivata; essa indica i rimedi di diritto.
+
+<sup>5</sup> La procedura di reclamo è gratuita; nondimeno, qualunque sia il risultato della procedura, possono essere addossate al reclamante le spese delle indagini che egli avesse abusivamente cagionato.
+
+[^30-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^30-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 31
+
+**Ricorso**
+
+<sup>1</sup> La decisione su reclamo può essere impugnata per iscritto, nel termine di 30 giorni dalla notificazione, mediante ricorso alla commissione cantonale di ricorso. È applicabile, per analogia, l’articolo 30 capoversi 2, 3 e 4.
+
+<sup>2</sup> Le spese di procedura innanzi alla commissione di ricorso sono a carico, di regola, della parte soccombente; se il ricorso è parzialmente ammesso, le spese di procedura sono ridotte, o, in via eccezionale, condonate. Esse sono nondimeno addossate al ricorrente ancorché abbia vinto il ricorso, se, con l’adempiere i suoi obblighi, fosse stato in facoltà sua di conseguire il medesimo risultato nell’istanza precedente.[^31-1]
+
+<sup>2bis</sup> L’ammontare delle tasse di decisione e di cancelleria e delle spese ripetibili è stabilito secondo il diritto cantonale.[^31-2]
+
+<sup>3</sup> Le decisioni pronunciate dalle autorità cantonali di ultima istanza possono essere impugnate con ricorso al Tribunale federale conformemente alla legge del 17 giugno 2005[^31-3] sul Tribunale federale.[^31-4]
+
+[^31-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^31-2]: Introdotto dal n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^31-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^31-4]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 31a
+
+**Sospensione dei termini**[^31a-1]
+
+Alle procedure di reclamo e di ricorso di cui agli articoli 30 e 31 non si applica la sospensione dei termini di cui all’articolo 22*a* della legge federale del 20 dicembre 1968[^31a-2] sulla procedura amministrativa.
+
+[^31a-1]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^31a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## Capitolo sesto: Esazione della tassa
+
+#### Art. 32
+
+**Scadenza**[^32-1]
+
+<sup>1</sup> La tassa scade, di regola, il 1° maggio dell’anno civile successivo all’anno di assoggettamento (termine generale di scadenza).
+
+<sup>2</sup>
+
+Con la notificazione della decisione di tassazione scadono:
+
+- a. la tassa sulle prestazioni in capitale di istituzioni di previdenza;
+- b. la tassa in caso di pagamento di arretrati.
+
+<sup>3</sup>
+
+La tassa scade in ogni caso:
+
+- a. il giorno in cui l’assoggettato che vuol lasciare durevolmente il Paese prende i provvedimenti necessari per la partenza;
+- b.[^32-2] all’atto della dichiarazione di fallimento a carico dell’assoggettato, solo per quanto riguarda le tasse degli anni precedenti alla dichiarazione di fallimento;
+- c. alla morte dell’assoggettato.
+
+<sup>4</sup> Il termine non muta anche se l’assoggettato ha ricevuto a tale data solamente un calcolo provvisorio della tassa oppure se ha presentato un reclamo o un ricorso contro la tassazione.
+
+[^32-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^32-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 32a
+
+**Riscossione provvisoria e riscossione definitiva**[^32a-1]
+
+<sup>1</sup> La tassa è riscossa conformemente alla tassazione. Se alla scadenza la tassazione non è ancora stata operata, la tassa è riscossa provvisoriamente. Determinanti al riguardo sono la dichiarazione d’imposta per l’imposta federale diretta, l’ultima tassazione relativa all’imposta federale diretta, l’ultima tassazione relativa alla tassa d’esenzione o l’importo presumibilmente dovuto.
+
+<sup>2</sup> Le tasse riscosse provvisoriamente sono conteggiate in quelle dovute conformemente alla tassazione definitiva.
+
+<sup>3</sup> Se l’importo riscosso è insufficiente, è chiesta la differenza; le somme eccedenti sono restituite. Per gli interessi si applicano le disposizioni sull’imposta federale diretta.
+
+[^32a-1]: Introdotto dal n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 32b
+
+**Pagamento**[^32b-1]
+
+<sup>1</sup> La tassa deve essere pagata entro 30 giorni dalla scadenza.
+
+<sup>2</sup> Per i pagamenti anticipati effettuati prima della scadenza è versato un interesse rimunerativo conformemente alle disposizioni sull’imposta federale diretta.
+
+[^32b-1]: Introdotto dal n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 32c
+
+**Interesse di mora**[^32c-1]
+
+<sup>1</sup> Il debitore della tassa deve pagare, per gli importi che non ha versato entro il termine stabilito, un interesse di mora. L’interesse è determinato in base alle disposizioni sull’imposta federale diretta.
+
+<sup>2</sup> Se il debitore della tassa, per motivi di cui non deve rispondere, non ha ancora ricevuto il conteggio al momento della scadenza, l’interesse decorre dopo trenta giorni dalla sua notificazione.
+
+[^32c-1]: Introdotto dal n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 33
+
+**Diffida**[^33-1]
+
+Se la tassa, divenuta esecutoria, non è pagata alla scadenza, all’assoggettato viene intimata una diffida nella quale gli è assegnato un termine suppletivo di 15 giorni.
+
+[^33-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 34
+
+**Esecuzione forzata**[^34-1]
+
+<sup>1</sup> Se la tassa, divenuta esecutoria, non è pagata nonostante la diffida, si procede in via esecutiva contro il debitore.
+
+<sup>2</sup> Se il debitore non ha il domicilio in Svizzera o se è stato ordinato il sequestro di beni che gli appartengono, l’esecuzione può essere promossa senza precedente diffida.
+
+<sup>3</sup> Le decisioni di tassazione nonché le decisioni su reclamo e su ricorso, divenute esecutorie, sono equiparate alle sentenze esecutive di cui all’articolo 80 della legge federale dell’11 aprile 1889[^34-2] sulla esecuzione e sul fallimento.
+
+<sup>4</sup> Non è necessario indicare i crediti di tassa negli inventari pubblici, né insinuarli in caso di diffida pubblica ai creditori.
+
+[^34-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^34-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 34a
+
+**Restituzione delle tasse pagate per errore**[^34a-1]
+
+<sup>1</sup> L’assoggettato può chiedere la restituzione di una tassa non dovuta o dovuta solo in parte, che egli ha pagato per errore.
+
+<sup>2</sup> Gli importi restituiti più di trenta giorni dopo il loro versamento fruttano un interesse dalla data di versamento; si applica il tasso applicabile per l’imposta federale diretta.
+
+<sup>3</sup> La domanda di restituzione dev’essere presentata all’autorità cantonale della tassa, entro cinque anni dalla fine dell’anno civile in cui è stato eseguito il versamento. Se l’autorità respinge la domanda, l’interessato può avvalersi dei rimedi giuridici ammessi contro una decisione di tassazione. Il diritto alla restituzione si estingue dieci anni dopo la fine dell’anno del versamento.
+
+[^34a-1]: Introdotto dal n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 35
+
+**Garanzie[^35-1]**
+
+<sup>1</sup> Per gli obbligati al servizio, la concessione e la proroga di un congedo per l’estero dal servizio militare o civile possono essere vincolate al pagamento della tassa dovuta o alla costituzione di garanzie.[^35-2]
+
+<sup>2</sup> Il Consiglio federale emana le norme che devono disciplinare l’applicazione dei provvedimenti di garanzia. Esso vigila affinché gli interessi degli assoggettati non subiscano un pregiudizio sproporzionato.[^35-3]
+
+[^35-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^35-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^35-3]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 36
+
+**Costituzione di garanzie[^36-1]**
+
+<sup>1</sup>
+
+L’autorità incaricata dell’esazione può esigere garanzie per le tasse dell’anno corrente e degli anni anteriori, anche se non siano fissate con decisione passata in giudicato, né scadute:
+
+- a. quando l’esazione sembri pregiudicata;
+- b.[^36-2] quando l’assoggettato non ha domicilio in Svizzera e contravviene alle prescrizioni militari e a quelle che reggono il servizio civile o alle disposizioni sulla tassa d’esenzione applicabili agli assenti dalla Svizzera;
+- c. quando l’assoggettato si appresta ad abbandonare il domicilio in Svizzera.
+
+<sup>2</sup> La richiesta di garanzie deve indicarne la causa giuridica, l’ammontare da garantire e l’ufficio incaricato di riceverle. Essa vale come decreto di sequestro, di cui all’articolo 274 della legge federale dell’11 aprile 1889[^36-3] sulla esecuzione e sul fallimento, ed è parificata a una sentenza esecutiva, di cui all’articolo 80 della medesima legge. L’azione intesa a revocare il sequestro non è ammessa.
+
+<sup>3</sup> Contro la richiesta di garanzie è ammissibile, nel termine di 30 giorni dalla notificazione, il ricorso alla commissione cantonale di ricorso. È applicabile l’articolo 31 capoverso 3.[^36-4]
+
+<sup>4</sup> Il ricorso contro la richiesta di garanzie non ha effetto sospensivo.[^36-5]
+
+[^36-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^36-2]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^36-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^36-4]: Nuovo testo giusta il n. 62 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-5]: Introdotto dal n. 62 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 37
+
+**Proroga e condono**[^37-1]
+
+<sup>1</sup> Se il pagamento entro il termine prescritto della tassa militare e delle spese dovesse essere particolarmente gravoso per l’assoggettato, può essere concessa una proroga del termine oppure la possibilità di pagare a rate. In tali casi si può rinunciare alla riscossione degli interessi.[^37-2]
+
+<sup>2</sup> A istanza scritta dell’interessato, la tassa militare[^37-3] e le spese possono essere condonate, del tutto o in parte, qualora il pagamento avesse conseguenze eccessivamente gravose per l’interessato, in particolare se questi si trova nel bisogno o se possa occorrere che pagando vi abbia a cadere.
+
+[^37-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^37-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^37-3]: Ora: «tassa».
+
+#### Art. 38
+
+**Prescrizione[^38-1]**
+
+<sup>1</sup> La tassa si prescrive in cinque anni. Il termine di prescrizione decorre dalla fine dell’anno civile successivo all’anno in cui la tassazione dell’imposta federale diretta è passata in giudicato. Una tassa sottratta non si prescrive fintanto che non siano prescritte l’azione penale e l’esecuzione della pena. La tassa stabilita sulla base di una dichiarazione speciale si prescrive in cinque anni a decorrere dalla fine dell’anno di assoggettamento.[^38-2]
+
+<sup>2</sup> La prescrizione non comincia, ed è sospesa, durante la procedura di reclamo, o di ricorso, e fintanto che nessuna delle persone tenute al pagamento ha il domicilio in Svizzera.
+
+<sup>3</sup> In ogni caso d’interruzione, incomincia a decorrere una nuova prescrizione.
+
+La prescrizione è interrotta:
+
+- a.[^38-3] ogni volta che sia ordinata la ricerca dell’assoggettato che ha violato l’obbligo di notificazione militare o del servizio civile;
+- b. ogni volta che un atto ufficiale inteso ad accertare, o a esigere, la tassa sia fatto noto a una persona tenuta a pagarla;
+- c. ogni volta che una persona tenuta a pagare la tassa riconosca espressamente il debito.
+
+<sup>4</sup> La sospensione e l’interruzione non possono differire la prescrizione oltre cinque anni.
+
+[^38-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^38-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^38-3]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+
+## Capitolo settimo:**** Rimborso della tassa
+
+[^chap7-1]
+
+[^chap7-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+
+#### Art. 39
+
+<sup>1</sup> La tassa pagata è rimborsata a chi ha prestato il totale obbligatorio dei giorni di servizio militare o civile.
+
+<sup>2</sup>
+
+La tassa è rimborsata:
+
+- a. su domanda dell’obbligato al servizio; o
+- b. d’ufficio, se l’autorità competente viene a conoscenza della prestazione del totale obbligatorio dei giorni di servizio.
+
+<sup>3</sup> La domanda di rimborso può essere presentata all’autorità competente del Cantone che ha riscosso l’ultima tassa. Alla domanda deve essere allegato l’attestato della prestazione del totale obbligatorio dei giorni di servizio.
+
+<sup>4</sup> La decisione sul rimborso della tassa è impugnabile conformemente agli articoli 30 e 31.
+
+<sup>5</sup> Il diritto al rimborso e l’obbligo di rimborsare si prescrivono alla fine del quinto anno dal proscioglimento dall’obbligo di prestare servizio militare o civile. Sono escluse le tasse che alla fine del quinto anno dal proscioglimento non sono ancora state stabilite; in questo caso, il diritto al rimborso e l’obbligo di rimborsare si prescrivono cinque anni dopo che tutte le tasse sono state stabilite.
+
+<sup>6</sup> Nessun interesse è corrisposto per le somme rimborsate.
+
+## Capitolo ottavo: Disposizioni penali
+
+#### Art. 40
+
+**Frode**[^40-1]
+
+Chiunque, al fine di sottrarsi al pagamento di una tassa o di procacciare a sé o a un terzo un altro indebito profitto pecuniario, forma un documento falso o altera un documento vero o forma un documento suppositizio, o fa uso, a scopo d’inganno, di un tale documento formato o alterato da un terzo, è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
+
+[^40-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 41
+
+**Sottrazione**
+
+<sup>1</sup> Chiunque, intenzionalmente, si sottrae al pagamento di una tassa o procaccia a sé o a un terzo un altro indebito profitto pecuniario, è punito con una multa fino a tre volte la tassa sottratta, nonostante la pena incorsa per frode di tassa.
+
+<sup>2</sup> Se la sottrazione è commessa per negligenza, la pena è della multa fino all’ammontare della tassa sottratta.
+
+<sup>3</sup> Il tentativo di sottrazione e la complicità sono punibili.
+
+<sup>4</sup> La sottrazione e la pena applicabile in caso di sottrazione si prescrivono in cinque anni.[^41-1]
+
+<sup>5</sup> L’assoggettato, indipendentemente dalla punibilità di una data persona, è tenuto a pagare o a restituire la tassa non riscossa o rimborsata o condonata a torto. L’esazione complementare è fatta valere mediante decisione di tassazione, con riserva del reclamo e del ricorso.
+
+[^41-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 42
+
+[^42-1]
+
+[^42-1]: Abrogato dal n. I della LF del 17 giu. 1994, con effetto dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+
+#### Art. 43
+
+**Inosservanza di prescrizioni d’ordine**
+
+Chiunque, intenzionalmente o per negligenza, non si conforma, nonostante diffida, a una disposizione della presente legge o di un regolamento d’applicazione, o di una decisione particolare notificatagli in virtù di siffatte disposizioni, è punito con un’ammenda fino a 200 franchi.
+
+#### Art. 44
+
+**Azione penale e giudizio**
+
+<sup>1</sup> L’azione penale e il giudizio delle infrazioni alla presente legge spettano alle autorità del Cantone di tassazione; sono disciplinati dal Codice di procedura penale del 5 ottobre 2007[^44-1].[^44-2]
+
+<sup>2</sup> L’amministrazione cantonale della tassa d’esenzione è competente a giudicare le infrazioni, quando non sono adempiute le condizioni richieste per l’inflizione di una pena privativa della libertà.[^44-3] Ove quell’amministrazione reputi che tali condizioni sono adempiute, essa trasmette gli atti all’autorità cui spetta l’azione penale ordinaria.
+
+<sup>3</sup> L’amministrazione deve notificare per iscritto la decisione amministrativa all’incolpato e informarlo che ha la facoltà di rivolgersi ad essa, nel termine di 30 giorni dalla notificazione, per chiedere una decisione giudiziaria.
+
+<sup>4</sup> Se la decisione giudiziaria è chiesta tempestivamente, l’amministrazione trasmette gli atti al giudice penale. Qualora la decisione giudiziaria non sia chiesta tempestivamente, la decisione amministrativa è equiparata a una sentenza passata in giudicato.[^44-4]
+
+[^44-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^44-2]: Nuovo testo giusta il n. II 20 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^44-3]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^44-4]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+## Capitolo nono: Regolamento dei conti con la Confederazione
+
+#### Art. 45
+
+<sup>1</sup> I Cantoni versano alla Confederazione il gettito lordo della tassa d’esenzione, detratto un emolumento di riscossione, nel termine di 30 giorni dalla fine dell’anno civile di riscossione.[^45-1]
+
+<sup>2</sup> Per gettito lordo, s’intende l’ammontare delle tasse e degli interessi riscossi dai Cantoni in virtù delle loro competenze in materia di tassazione, detratto quello delle tasse che fossero state rimborsate ai sensi dell’articolo 39.[^45-2]
+
+<sup>3</sup> L’emolumento di riscossione ammonta al 20 per cento del gettito lordo della tassa d’esenzione.[^45-3]
+
+[^45-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 327](https://fedlex.data.admin.ch/eli/oc/2000/64); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^45-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^45-3]: Introdotto dal n. I della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 327](https://fedlex.data.admin.ch/eli/oc/2000/64); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+
+## Capitolo decimo: Disposizioni finali e transitorie
+
+#### Art. 46
+
+[^46-1]
+
+L’uso di documenti nella procedura d’applicazione della presente legge non comporta l’obbligo di pagare tasse di bollo cantonali.
+
+[^46-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+
+#### Art. 47
+
+**Competenze del Consiglio federale[^47-1]**
+
+<sup>1</sup> Il Consiglio federale emana le disposizioni d’esecuzione. Disciplina in particolare la tassazione e la riscossione della tassa militare[^47-2] degli assoggettati con congedo per l’estero, nonché la revisione delle decisioni e sentenze passate in giudicato.[^47-3]
+
+<sup>2</sup> Il Consiglio federale può estendere l’applicazione della presente legge ai cittadini di uno Stato straniero, domiciliati in Svizzera, qualora quello Stato sottoponga i cittadini svizzeri a un servizio militare o civile personale o al pagamento di una tassa d’esenzione.[^47-4]
+
+<sup>3</sup> ...[^47-5]
+
+[^47-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
+[^47-2]: Ora: «tassa».
+[^47-3]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777)[2784](https://fedlex.data.admin.ch/eli/oc/1994/2784_2784_2784)art. 1; [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)).
+[^47-4]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^47-5]: Introdotto dal n. I della LF del 22 giu. 1979 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)). Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° gen. 2010 ([RU 2009 1085](https://fedlex.data.admin.ch/eli/oc/2009/170); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+
+#### Art. 48
+
+**Abrogazioni**
+
+<sup>1</sup> A contare dall’entrata in vigore della presente legge, sono abrogate tutte le disposizioni sulla tassa d’esenzione dal servizio militare, a essa contrarie.
+
+<sup>2</sup>
+
+Sono segnatamente abrogate:
+
+- a. la legge federale del 28 giugno 1878[^48-1] sulla tassa d’esenzione dal servizio militare;
+- b. la legge federale del 29 marzo 1901[^48-2] che completa quella del 28 giugno 1878 sulla tassa d’esenzione dal servizio militare;
+- c. il decreto federale del 4 aprile 1946[^48-3] concernente il computo del servizio militare prestato pel calcolo della tassa militare;
+- d. l’articolo 166 dell’Organizzazione militare del 12 aprile 1907[^48-4].
+
+[^48-1]: [CS **5** 151]
+[^48-2]: [CS **5** 155]
+[^48-3]: [CS **5** 184]
+[^48-4]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365), [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a – d, **1952** 339 346 art. 2, **1959** 2125 art. 48 cpv. 2 lett. d, **1961** 241, **1968** 74 n. I, III, **1970** 46, **1972** 1069 art. 15 n. 3, **1975** 11, **1984** 1324, **1990** 1882, **1991** 857 all. n. 10 1412, **1992** 288 all. n. 20 2521 art. 55 n. 3 2392 n. I 2, **1993** 901 all. n. 5 3043 all. n. 2, **1994** 1622 art. 22 cpv. 2, **1997** 2022 art. 72 lett. e. [RU 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 7]
+
+#### Art. 49
+
+**Entrata in vigore[^49-1]**
+
+<sup>1</sup> Il Consiglio federale fissa la data in cui la presente legge entra in vigore.
+
+<sup>2</sup> e <sup>3</sup> ...[^49-2]
+
+Data dell’entrata in vigore: 1° gennaio 1960[^49-3]
+
+[^49-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^49-2]: Abrogati dal n. I della LF del 16 mar. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
+[^49-3]: DCF del 14 dic. 1959
+
+## Disposizioni finali della modifica del 22 giugno 1979****
+
+[^u1-1]
+
+[^u1-1]: [RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913).
+
+II
+
+<sup>1</sup> Il decreto federale del 9 ottobre 1964[^u1-2] sulla tassa d’esenzione dal servizio militare per le classi di landsturm è abrogato.
+
+<sup>2</sup> ...[^u1-3]
+
+III
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore e l’anno di assoggettamento a cui essa è applicabile per la prima volta.[^u1-4]
+
+[^u1-2]: [[RU 1964 914](https://fedlex.data.admin.ch/eli/oc/1964/898_894_914)]
+[^u1-3]: Abrogato dal n. 8 dell’all. alla LF del 22 giu. 1990, con effetto dal 1° gen. 1991 ([RU 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 942](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
+[^u1-4]: Essa si applica per la prima volta per l’anno 1979 (cpv. 2 del DCF del 7 nov. 1979 – RU **1979** 1739).
+
+## Disposizioni finali della modifica del 17 giugno 1994****
+
+[^u2-1]
+
+[^u2-1]: [RU 1994 2777](https://fedlex.data.admin.ch/eli/oc/1994/2777_2777_2777); [FF 1993 II 639](https://fedlex.data.admin.ch/eli/fga/1993/2_730_708_639)
+
+III
+
+<sup>1</sup> Non vi è alcun diritto al rimborso di tasse per le quali il diritto al rimborso era già prescritto prima dell’entrata in vigore della presente legge.
+
+<sup>2</sup> Le tasse degli Svizzeri all’estero per gli anni di assoggettamento completi prima dell’entrata in vigore della presente legge sono riscosse dal Cantone d’origine competente, in collaborazione con le rappresentanze svizzere.
+
+IV
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale determina l’entrata in vigore della presente legge e l’anno di assoggettamento cui essa si applica per la prima volta.[^u2-2]
+
+[^u2-2]: Essa si applica per la prima volta per l’anno 1995 (art. 1 dell’O del 9 nov. 1994 – RU **1994** 2874).
+
+## Disposizioni transitorie della modifica del 16 marzo 2018****
+
+[^u3-1]
+
+[^u3-1]: [RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)
+
+<sup>1</sup> La tassa d’esenzione finale di cui all’articolo 9*a* è riscossa per la prima volta sugli obbligati al servizio che sono prosciolti dall’obbligo di prestare servizio l’anno successivo a quello in cui entra in vigore la presente modifica.
+
+<sup>2</sup> Alle procedure di reclamo e di ricorso pendenti al momento dell’entrata in vigore della presente modifica si applica il diritto anteriore.

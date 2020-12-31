@@ -1,0 +1,584 @@
+---
+sr: "0.814.326"
+title: "Protocole du 24 juin 1998 à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds (avec annexes)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/141"
+language: fr
+version: 2017-05-10
+adopted: 1998-06-24
+in_force: 2003-12-29
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20170510/fr/xml/fedlex-data-admin-ch-eli-cc-2004-141-20170510-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20170510/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds
+
+RO **2004** 1191; FF **2000** 2903
+
+Texte original
+
+Conclu à Aarhus le 24 juin 1998
+
+Approuvé par l’Assemblée fédérale le 19 septembre 2000[^t-1]
+
+Instrument de ratification déposé par la Suisse le 14 novembre 2000
+
+Entré en vigueur pour la Suisse le 29 décembre 2003
+
+(Etat le 10 mai 2017)
+
+[^t-1]: [RO 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
+
+Les Parties,
+
+déterminées à appliquer la Convention sur la pollution atmosphérique transfrontière à longue distance[^ingress-1],
+
+préoccupées par le fait que les émissions de certains métaux lourds sont transportées au-delà des frontières nationales et peuvent causer des dommages aux écosystèmes importants pour l’environnement et l’économie et peuvent avoir des effets nocifs sur la santé,
+
+considérant que la combustion et les procédés industriels sont les principales sources anthropiques d’émissions de métaux lourds dans l’atmosphère,
+
+reconnaissant que les métaux lourds sont des constituants naturels de la croûte terrestre et que de nombreux métaux lourds, sous certaines formes et dans des concentrations appropriées, sont indispensables à la vie,
+
+prenant en considération les données scientifiques et techniques existantes sur les émissions, les processus géochimiques, le transport dans l’atmosphère et les effets sur la santé et l’environnement des métaux lourds, ainsi que sur les techniques antipollution et leur coût,
+
+sachant que des techniques et des méthodes de gestion sont disponibles pour réduire la pollution atmosphérique due aux émissions de métaux lourds,
+
+reconnaissant que les pays de la région de la Commission économique des Nations Unies pour l’Europe (CEE-ONU) connaissent des conditions économiques différentes et que dans certains pays l’économie est en transition,
+
+résolues à prendre des mesures pour anticiper, prévenir ou réduire au minimum les émissions de certains métaux lourds et de leurs composés, compte tenu de l’application de la démarche fondée sur le principe de précaution, telle qu’elle est définie au Principe 15 de la Déclaration de Rio sur l’environnement et le développement,
+
+réaffirmant que les États, conformément à la Charte des Nations Unies[^ingress-2] et aux principes du droit international, ont le droit souverain d’exploiter leurs propres ressources selon leurs propres politiques en matière d’environnement et de développement et le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommages à l’environnement dans d’autres États ou dans des régions ne relevant pas de la juridiction nationale,
+
+conscientes du fait que les mesures prises pour lutter contre les émissions de métaux lourds contribueraient également à la protection de l’environnement et de la santé en dehors de la région de la CEE-ONU, y compris dans l’Arctique et dans les eaux internationales,
+
+notant que la réduction des émissions de métaux lourds particuliers peut contribuer aussi à la réduction des émissions d’autres polluants,
+
+sachant que des mesures nouvelles et plus efficaces pourront être nécessaires pour lutter contre les émissions de certains métaux lourds et les réduire et que, par exemple, les études fondées sur les effets pourront servir de base à l’application de mesures nouvelles,
+
+notant la contribution importante du secteur privé et du secteur non gouvernemental à la connaissance des effets liés aux métaux lourds, des solutions de remplacement et des techniques antipollution disponibles, et les efforts qu’ils déploient pour aider à réduire les émissions de métaux lourds,
+
+tenant compte des activités consacrées à la lutte contre les métaux lourds au niveau national et dans les instances internationales,
+
+sont convenues de ce qui suit:
+
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+#### Art. 1
+
+**Définitions**
+
+Aux fins du présent Protocole,
+
+<sup>1.</sup> on entend par «Convention» la Convention sur la pollution atmosphérique transfrontière à longue distance[^1-1], adoptée à Genève le 13 novembre 1979;
+
+<sup>2.</sup> on entend par «EMEP» le Programme concerté de surveillance continue et d’évaluation du transport à longue distance des polluants atmosphériques en Europe;
+
+<sup>3.</sup> on entend par «Organe exécutif» l’Organe exécutif de la Convention, constitué en application du par. 1 de l’art. 10 de la Convention;
+
+<sup>4.</sup> on entend par «Commission» la Commission économique des Nations Unies pour l’Europe;
+
+<sup>5.</sup> on entend par «Parties», à moins que le contexte ne s’oppose à cette interprétation, les Parties au présent Protocole;
+
+<sup>6.</sup> on entend par «zone géographique des activités de l’EMEP» la zone définie au par. 4 de l’art. 1 du Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif au financement à long terme du Programme concerté de surveillance continue et d’évaluation du transport à longue distance des polluants atmosphériques en Europe[^1-2] (EMEP), adopté à Genève le 28 septembre 1984;
+
+<sup>7.</sup> on entend par «métaux lourds» les métaux ou, dans certains cas, les métalloïdes qui sont stables et ont une masse volumique supérieure à 4,5 g/cm<sup>3</sup> et leurs composés;
+
+<sup>8.</sup> on entend par «émission» un rejet dans l’atmosphère à partir d’une source ponctuelle ou diffuse;
+
+<sup>9.</sup> on entend par «source fixe» tout bâtiment, structure, dispositif, installation ou équipement fixe qui émet ou peut émettre directement ou indirectement dans l’atmosphère un des métaux lourds énumérés à l’annexe I;
+
+<sup>10.</sup>
+
+on entend par «source fixe nouvelle» toute source fixe que l’on commence à construire ou que l’on entreprend de modifier substantiellement à l’expiration d’un délai de deux ans qui commence à courir à la date d’entrée en vigueur:
+
+- i) du présent Protocole, ou
+- ii) d’un amendement à l’annexe I ou II, si la source fixe ne tombe sous le coup des dispositions du présent Protocole qu’en vertu de cet amendement. Il appartient aux autorités nationales compétentes de déterminer si une modification est substantielle ou non, en tenant compte de facteurs tels que les avantages que cette modification présente pour l’environnement;
+
+<sup>11.</sup> on entend par «catégorie de grandes sources fixes» toute catégorie de sources fixes qui est visée à l’annexe II et qui contribue pour au moins 1 % au total des émissions d’un des métaux lourds énumérés à l’annexe I provenant de sources fixes d’une Partie pour l’année de référence fixée conformément à l’annexe I.
+
+[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^1-2]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+
+#### Art. 2
+
+**Objet**
+
+Le présent Protocole a pour objet de lutter contre les émissions de métaux lourds imputables aux activités anthropiques qui sont transportées dans l’atmosphère au-delà des frontières sur de longues distances et sont susceptibles d’avoir des effets nocifs importants sur la santé ou l’environnement, conformément aux dispositions des articles suivants.
+
+#### Art. 3
+
+**Obligations fondamentales**
+
+<sup>1.</sup> Chaque Partie réduit ses émissions annuelles totales dans l’atmosphère de chacun des métaux lourds énumérés à l’annexe I par rapport au niveau des émissions au cours de l’année de référence fixée conformément à cette annexe, en prenant des mesures efficaces adaptées à sa situation particulière.
+
+<sup>2.</sup>
+
+Chaque Partie applique, au plus tard dans les délais spécifiés à l’annexe IV:
+
+- a) les meilleures techniques disponibles, en prenant en considération l’annexe III, à l’égard de chaque source fixe nouvelle entrant dans une catégorie de grandes sources fixes pour laquelle les meilleures techniques disponibles sont définies à l’annexe III;
+- b) les valeurs limites spécifiées à l’annexe V à l’égard de chaque source fixe nouvelle entrant dans une catégorie de grandes sources fixes. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des niveaux d’émission équivalents;
+- c) les meilleures techniques disponibles, en prenant en considération l’annexe III, à l’égard de chaque source fixe existante entrant dans une catégorie de grandes sources fixes pour laquelle les meilleures techniques disponibles sont définies à l’annexe III. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des réductions des émissions équivalentes;
+- d) les valeurs limites spécifiées à l’annexe V à l’égard de chaque source fixe existante entrant dans une catégorie de grandes sources fixes, pour autant que cela soit techniquement et économiquement possible. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des réductions des émissions équivalentes.
+
+<sup>3.</sup> Chaque Partie applique à l’égard des produits des mesures de réglementation conformément aux conditions et dans les délais spécifiés à l’annexe VI.
+
+<sup>4.</sup> Chaque Partie devrait étudier la possibilité d’appliquer à l’égard des produits des mesures de gestion supplémentaires en prenant en considération l’annexe VII.
+
+<sup>5.</sup> Chaque Partie dresse et tient à jour des inventaires des émissions des métaux lourds énumérés à l’annexe I, en utilisant au minimum les méthodes spécifiées par l’Organe directeur de l’EMEP, si elle est située dans la zone géographique des activités de l’EMEP, ou en s’inspirant des méthodes mises au point dans le cadre du plan de travail de l’Organe exécutif, si elle est située en dehors de cette zone.
+
+<sup>6.</sup> Toute Partie qui, après avoir appliqué les par. 2 et 3 ci-dessus, ne parvient pas à se conformer aux dispositions du par. 1 ci-dessus pour l’un des métaux lourds énumérés à l’annexe I est exemptée des obligations qu’elle a contractées au titre du par. 1 ci-dessus pour ce métal lourd.
+
+<sup>7.</sup> Toute Partie dont la superficie totale est supérieure à 6 millions de km<sup>2</sup> est exemptée des obligations qu’elle a contractées au titre des al. b), c) et d) du par. 2 ci-dessus si elle peut démontrer que, huit ans au plus tard après la date d’entrée en vigueur du présent Protocole, elle aura réduit le total de ses émissions annuelles de chacun des métaux lourds énumérés à l’annexe I provenant des catégories de sources spécifiées à l’annexe II d’au moins 50 % par rapport au niveau des émissions provenant de ces catégories au cours de l’année de référence fixée conformément à l’annexe I. Toute Partie qui entend se prévaloir de ce paragraphe doit le préciser au moment où elle signe le présent Protocole ou y adhère.
+
+#### Art. 4
+
+**Échange d’informations et de technologie**
+
+<sup>1.</sup>
+
+Les Parties, conformément à leurs lois, réglementations et pratiques, facilitent l’échange de technologies et de techniques visant à réduire les émissions de métaux lourds, notamment, mais pas exclusivement, les échanges propres à encourager la mise au point de mesures de gestion des produits et l’application des meilleures techniques disponibles, en particulier en s’attachant à promouvoir:
+
+- a) l’échange commercial des technologies disponibles;
+- b) les contacts directs et la coopération dans le secteur industriel, y compris les co-entreprises;
+- c) l’échange d’informations et de données d’expérience;
+- d) l’octroi d’une assistance technique.
+
+<sup>2.</sup> Pour promouvoir les activités spécifiées au par. 1 ci-dessus, les Parties créent des conditions favorables en facilitant les contacts et la coopération entre les organisations et les personnes compétentes qui, tant dans le secteur privé que dans le secteur public, sont à même de fournir une technologie, des services d’études et d’ingénierie, du matériel ou des moyens financiers.
+
+#### Art. 5
+
+**Stratégies, politiques, programmes et mesures**
+
+<sup>1.</sup> Chaque Partie élabore sans retard injustifié des stratégies, politiques et programmes pour s’acquitter des obligations qu’elle a contractées en vertu du présent Protocole.
+
+<sup>2.</sup>
+
+Toute Partie peut, en outre:
+
+- a) appliquer des instruments économiques pour encourager l’adoption de méthodes de réduction des émissions de métaux lourds d’un bon rapport coût-efficacité;
+- b) mettre au point des conventions et des accords volontaires entre l’État et l’industrie;
+- c) encourager une utilisation plus efficiente des ressources et des matières premières;
+- d) encourager l’utilisation de sources d’énergie moins polluantes;
+- e) prendre des mesures pour concevoir et mettre en place des systèmes de transport moins polluants;
+- f) prendre des mesures pour éliminer progressivement certains procédés donnant lieu à l’émission de métaux lourds lorsque des procédés de remplacement applicables à l’échelle industrielle sont disponibles;
+- g) prendre des mesures pour concevoir et employer des procédés plus propres afin de prévenir et de combattre la pollution.
+
+<sup>3.</sup> Les Parties peuvent prendre des mesures plus strictes que celles prévues par le présent Protocole.
+
+#### Art. 6
+
+**Recherche, développement et surveillance**
+
+Les Parties, en mettant l’accent avant tout sur les métaux lourds énumérés à l’annexe I, encouragent la recherche-développement, la surveillance et la coopération en ce qui concerne notamment, mais pas exclusivement:
+
+- a) les émissions, le transport à longue distance et les niveaux des dépôts ainsi que leur modélisation, les niveaux existants dans les milieux biologique et non biologique, l’élaboration de procédures pour harmoniser les méthodes pertinentes;
+- b) les voies de diffusion et les inventaires des polluants dans des écosystèmes représentatifs;
+- c) leurs effets sur la santé et l’environnement, y compris la quantification de ces effets;
+- d) Les meilleures techniques et pratiques disponibles et les techniques antiémissions actuellement employées par les Parties ou en développement;
+- e) la collecte, le recyclage et, au besoin, l’élimination des produits et des déchets contenant un ou plusieurs métaux lourds;
+- f) les méthodes permettant de prendre en considération les facteurs socio-économiques aux fins de l’évaluation de stratégies de lutte différentes;
+- g) une approche fondée sur les effets qui prenne en compte les informations appropriées, y compris celles obtenues au titre des al. a) à f) ci-dessus, sur les niveaux des polluants dans l’environnement, leurs voies de diffusion et leurs effets sur la santé et l’environnement, tels qu’ils ont été mesurés ou modélisés, aux fins de l’élaboration de futures stratégies de lutte optimisées qui tiennent compte également des facteurs économiques et technologiques;
+- h) les solutions de remplacement permettant de renoncer à l’utilisation de métaux lourds dans les produits énumérés aux annexes VI et VII;
+- i) la collecte d’informations sur les concentrations de métaux lourds dans certains produits, le risque d’émissions de ces métaux durant les phases de fabrication, de transformation, de commercialisation, d’utilisation et d’élimi-nation du produit, et les techniques applicables pour réduire ces émissions.
+
+#### Art. 7
+
+**Informations à communiquer**
+
+<sup>1.</sup>
+
+Sous réserve de ses lois visant à préserver le caractère confidentiel de l’information commerciale:
+
+- a) chaque Partie, par l’intermédiaire du Secrétaire exécutif de la Commission, communique à l’Organe exécutif, à intervalles réguliers fixés par les Parties réunies au sein de l’Organe exécutif, des informations sur les mesures qu’elle a prises pour appliquer le présent Protocole;
+- b) chaque Partie située dans la zone géographique des activités de l’EMEP communique à l’EMEP, par l’intermédiaire du Secrétaire exécutif de la Commission, à intervalles réguliers fixés par l’Organe directeur de l’EMEP et approuvés par les Parties à une session de l’Organe exécutif, des informations sur les niveaux des émissions des métaux lourds énumérés à l’annexe I en utilisant au minimum à cet effet les méthodes et la résolution temporelle et spatiale spécifiées par l’Organe directeur de l’EMEP. Les Parties situées en dehors de la zone géographique des activités de l’EMEP mettent à la disposition de l’Organe exécutif des informations analogues si la demande leur en est faite. En outre, chaque Partie, selon qu’il convient, rassemble et communique des informations pertinentes sur ses émissions d’autres métaux lourds, en tenant compte des indications données par l’Organe directeur de l’EMEP et l’Organe exécutif en ce qui concerne les méthodes et la résolution temporelle et spatiale.
+
+<sup>2.</sup> Les informations à communiquer en application de l’al. a) du par. 1 ci-dessus seront conformes à la décision relative à la présentation et à la teneur des communications, que les Parties adopteront à une session de l’Organe exécutif. Les termes de cette décision seront revus, selon qu’il conviendra, pour déterminer tout élément à y ajouter concernant la présentation ou la teneur des informations à communiquer.
+
+<sup>3.</sup> En temps voulu avant chaque session annuelle de l’Organe exécutif, l’EMEP fournit des informations sur le transport à longue distance et les dépôts de métaux lourds.
+
+#### Art. 8
+
+**Calculs**
+
+L’EMEP, en utilisant des modèles et des mesures appropriés, fournit à l’Organe exécutif, en temps voulu avant chacune de ses sessions annuelles, des calculs des flux transfrontières et des dépôts de métaux lourds à l’intérieur de la zone géographique de ses activités. En dehors de la zone géographique des activités de l’EMEP, les Parties à la Convention utiliseront des modèles adaptés à leur situation particulière.
+
+#### Art. 9
+
+**Respect des obligations**
+
+Le respect par chaque Partie des obligations qu’elle a contractées en vertu du présent Protocole est examiné périodiquement. Le Comité d’application créé par la décision 1997/2 adoptée par l’Organe exécutif à sa quinzième session, procède à ces examens et fait rapport aux Parties réunies au sein de l’Organe exécutif conformément aux dispositions de l’annexe de cette décision et à tout amendement y relatif.
+
+#### Art. 10
+
+**Examens par les Parties aux sessions de l’organe exécutif**
+
+<sup>1.</sup> Aux sessions de l’Organe exécutif, les Parties, en application de l’al. a) du par. 2 de l’art. 10 de la Convention, examinent les informations fournies par les Parties, l’EMEP et les autres organes subsidiaires, ainsi que les rapports du Comité d’appli-cation visé à l’art. 9 du présent Protocole.
+
+<sup>2.</sup> Aux sessions de l’Organe exécutif, les Parties examinent régulièrement les progrès accomplis dans l’exécution des obligations énoncées dans le présent Protocole.
+
+<sup>3.</sup> Aux sessions de l’Organe exécutif, les Parties examinent dans quelle mesure les obligations énoncées dans le présent Protocole sont suffisantes et ont l’efficacité voulue.
+
+- a) pour ces examens, il sera tenu compte des meilleures informations scientifiques disponibles sur les effets des dépôts de métaux lourds, des évaluations des progrès technologiques et de l’évolution de la situation économique;
+- b)
+
+  il s’agira, dans le cadre de ces examens et compte tenu des activités de recherche-développement, de surveillance et de coopération entreprises dans le cadre du présent Protocole:
+
+  - i) d’évaluer les progrès accomplis pour se rapprocher de l’objectif du présent Protocole;
+  - ii) d’évaluer si des réductions supplémentaires des émissions allant au-delà des niveaux requis par le présent Protocole se justifient pour réduire davantage les effets nocifs sur la santé ou l’environnement, et
+  - iii) de tenir compte de la mesure dans laquelle une base satisfaisante existe pour l’application d’une approche fondée sur les effets;
+
+- c) les modalités, les méthodes et le calendrier de ces examens sont arrêtés par les Parties à une session de l’Organe exécutif.
+
+<sup>4.</sup> Les Parties, se fondant sur la conclusion de l’examen visé au par. 3 ci-dessus, élaborent, aussi vite que possible après l’achèvement de cet examen, un plan de travail concernant les nouvelles mesures à prendre pour réduire les émissions dans l’atmosphère des métaux lourds énumérés à l’annexe I.
+
+#### Art. 11
+
+**Règlement des différends**
+
+<sup>1.</sup> En cas de différend entre deux ou plus de deux Parties au sujet de l’interprétation ou de l’application du présent Protocole, les Parties concernées s’efforcent de le régler par voie de négociation ou par tout autre moyen pacifique de leur choix. Les parties au différend informent l’Organe exécutif de leur différend.
+
+<sup>2.</sup> Une Partie qui est une organisation d’intégration économique régionale peut faire une déclaration dans le même sens en ce qui concerne l’arbitrage conformément aux procédures visées à l’al. b) ci-dessus.
+
+Lorsqu’elle ratifie, accepte ou approuve le présent Protocole ou y adhère, ou à tout moment par la suite, une Partie qui n’est pas une organisation d’intégration économique régionale peut déclarer dans un instrument écrit soumis au Dépositaire que pour tout différend lié à l’interprétation ou à l’application du Protocole, elle reconnaît comme obligatoire(s) *ipso facto* et sans accord spécial l’un des deux moyens de règlement ci‑après ou les deux à l’égard de toute Partie acceptant la même obligation:
+
+- a) la soumission du différend à la Cour internationale de Justice;
+- b) l’arbitrage conformément aux procédures que les Parties adopteront dès que possible, à une session de l’Organe exécutif, dans une annexe consacrée à l’arbitrage.
+
+<sup>3.</sup> La déclaration faite en application du par. 2 ci-dessus reste en vigueur jusqu’à ce qu’elle expire conformément à ses propres termes ou jusqu’à l’expiration d’un délai de trois mois à compter de la date à laquelle une notification écrite de la révocation de cette déclaration a été déposée auprès du Dépositaire.
+
+<sup>4.</sup> Le dépôt d’une nouvelle déclaration, la notification de la révocation d’une déclaration ou l’expiration d’une déclaration n’affecte en rien la procédure engagée devant la Cour internationale de Justice ou le tribunal arbitral, à moins que les parties au différend n’en conviennent autrement.
+
+<sup>5.</sup> Sauf dans le cas où les parties à un différend ont accepté le même moyen de règlement prévu au par. 2, si, à l’expiration d’un délai de douze mois à compter de la date à laquelle une Partie a notifié à une autre Partie l’existence d’un différend entre elles, les Parties concernées ne sont pas parvenues à régler leur différend par les moyens visés au par. 1 ci-dessus, le différend, à la demande de l’une quelconque des parties au différend, est soumis à conciliation.
+
+<sup>6.</sup> Aux fins du par. 5, une commission de conciliation est créée. Elle est composée de membres désignés, en nombre égal, par chaque Partie concernée ou, lorsque les Parties à la procédure de conciliation font cause commune, par l’ensemble de ces Parties, et d’un président choisi conjointement par les membres ainsi désignés. La commission émet une recommandation que les Parties examinent de bonne foi.
+
+#### Art. 12
+
+**Annexes**
+
+Les annexes du présent Protocole font partie intégrante du Protocole. Les annexes III et VII ont valeur de recommandation.
+
+#### Art. 13
+
+**Amendements au Protocole**
+
+<sup>1.</sup> Toute Partie peut proposer des amendements au présent Protocole.
+
+<sup>2.</sup> Les amendements proposés sont soumis par écrit au Secrétaire exécutif de la Commission, qui les communique à toutes les Parties. Les Parties réunies au sein de l’Organe exécutif examinent les propositions d’amendements à sa session suivante, pour autant que le Secrétaire exécutif les ait transmises aux Parties au moins quatre-vingt-dix jours à l’avance.
+
+<sup>3.</sup> Les amendements au présent Protocole et aux annexes I, II, IV, V et VI sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif et entrent en vigueur à l’égard des Parties qui les ont acceptés le quatre-vingt-dixième jour qui suit la date à laquelle deux tiers des Parties ont déposé leur instrument d’acceptation de ces amendements auprès du Dépositaire. Les amendements entrent en vigueur à l’égard de toute autre Partie le quatre-vingt-dixième jour qui suit la date à laquelle ladite Partie a déposé son instrument d’acceptation des amendements.
+
+<sup>4.</sup> Les amendements aux annexes III et VII sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif. À l’expiration d’un délai de quatre-vingt-dix jours à compter de la date à laquelle le Secrétaire exécutif de la Commission l’a communiqué à toutes les Parties, tout amendement à l’une ou l’autre de ces annexes prend effet à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions du par. 5 ci-après, à condition que seize Parties au moins n’aient pas soumis cette notification.
+
+<sup>5.</sup> Toute Partie qui n’est pas en mesure d’approuver un amendement à l’annexe III ou VII en donne notification au Dépositaire par écrit dans un délai de quatre-vingt-dix jours à compter de la date de la communication de son adoption. Le Dépositaire informe sans retard toutes les Parties de la réception de cette notification. Une Partie peut à tout moment substituer une acceptation à sa notification antérieure et, après le dépôt d’un instrument d’acceptation auprès du Dépositaire, l’amendement à cette annexe prend effet à l’égard de cette Partie.
+
+<sup>6.</sup>
+
+S’il s’agit d’une proposition visant à modifier l’annexe I, VI ou VII en ajoutant un métal lourd, une mesure de réglementation des produits ou un produit ou un groupe de produits au présent Protocole:
+
+- a) l’auteur de la proposition fournit à l’Organe exécutif les informations spécifiées dans la décision 1998/1 de l’Organe exécutif et dans tout amendement y relatif; et
+- b) les Parties évaluent la proposition conformément aux procédures définies dans la décision 1998/1 de l’Organe exécutif et dans tout amendement y relatif.
+
+<sup>7.</sup> Toute décision visant à modifier la décision 1998/1 de l’Organe exécutif est adoptée par consensus par les Parties réunies au sein de l’Organe exécutif et prend effet soixante jours après la date de son adoption.
+
+#### Art. 14
+
+**Signature**
+
+<sup>1.</sup> Le présent Protocole est ouvert à la signature des États membres de la Commission ainsi que des États dotés du statut consultatif auprès de la Commission en vertu du par. 8 de la résolution 36 (IV) du Conseil économique et social du 28 mars 1947, et des organisations d’intégration économique régionale constituées par des États souverains membres de la Commission, ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières visées par le Protocole, sous réserve que les États et les organisations concernés soient Parties à la Convention, à Aarhus (Danemark) les 24 et 25 juin 1998, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 21 décembre 1998.
+
+<sup>2.</sup> Dans les matières qui relèvent de leur compétence, ces organisations d’intégration économique régionale exercent en propre les droits et s’acquittent en propre des responsabilités que le présent Protocole confère à leurs États membres. En pareil cas, les États membres de ces organisations ne sont pas habilités à exercer ces droits individuellement.
+
+#### Art. 15
+
+**Ratification, acceptation, approbation et adhésion**
+
+<sup>1.</sup> Le présent Protocole est soumis à la ratification, à l’acceptation ou à l’approbation des Signataires.
+
+<sup>2.</sup> Le présent Protocole est ouvert à l’adhésion des États et des organisations qui remplissent les conditions énoncées au par. 1 de l’art. 14 à compter du 21 décembre 1998.
+
+#### Art. 16
+
+**Dépositaire**
+
+Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion sont déposés auprès du Secrétaire général de l’Organisation des Nations Unies, qui exerce les fonctions de Dépositaire.
+
+#### Art. 17
+
+**Entrée en vigueur**
+
+<sup>1.</sup> Le présent Protocole entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion auprès du Dépositaire.
+
+<sup>2.</sup> À l’égard de chaque État ou organisation visé au par. 1 de l’art. 14, qui ratifie, accepte ou approuve le présent Protocole ou y adhère après le dépôt du seizième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le Protocole entre en vigueur le quatre-vingt-dixième jour qui suit la date du dépôt par cette Partie de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+
+#### Art. 18
+
+**Dénonciation**
+
+À tout moment après l’expiration d’un délai de cinq ans commençant à courir à la date à laquelle le présent Protocole est entré en vigueur à l’égard d’une Partie, cette Partie peut dénoncer le Protocole par notification écrite adressée au Dépositaire. La dénonciation prend effet le quatre‑vingt‑dixième jour qui suit la date de réception de sa notification par le Dépositaire, ou à toute autre date ultérieure spécifiée dans la notification de la dénonciation.
+
+#### Art. 19
+
+**Textes authentiques**
+
+L’original du présent Protocole, dont les textes anglais, français et russe sont également authentiques, est déposé auprès du Secrétaire général de l’Organisation des Nations Unies.
+
+*En foi de quoi*, les soussignés, à ce dûment autorisés, ont signé le présent Protocole. Fait à Aarhus (Danemark), le vingt-quatre juin mil neuf cent quatre-vingt-dix-huit. (Suivent les signatures)
+
+Annexe I
+
+## Métaux lourds visés au par. 1 de l’art. 3 et année de référence pour l’obligation
+
+<table>
+<tr><td>Métal lourd</td><td>Année de référence</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1990, ou toute autre année entre 1985 et 1995 (inclus) spécifiée par une Partie lors de la ratification, acceptation, approbation ou adhésion.</td></tr>
+<tr><td>Plomb (Pb)</td><td>1990, ou toute autre année entre 1985 et 1995 (inclus) spécifiée par une Partie lors de la ratification, acceptation, approbation ou adhésion.</td></tr>
+<tr><td>Mercure (Hg)</td><td>1990, ou toute autre année entre 1985 et 1995 (inclus) spécifiée par une Partie lors de la ratification, acceptation, approbation ou adhésion.</td></tr>
+</table>
+
+Annexe II
+
+## Catégorie des sources fixes
+
+### I. Introduction
+
+\1. La présente annexe ne vise pas les installations ou parties d’installations utilisées pour la recherche-développement ou la mise à l’essai de produits ou procédés nouveaux.
+
+\2. Les valeurs limites indiquées ci-après se rapportent généralement aux capacités de production ou à la production effective. Lorsqu’un exploitant se livre à plusieurs activités relevant de la même sous-rubrique dans la même installation ou sur le même site, les capacités correspondant à ces activités sont additionnées.
+
+### II. Liste des catégories
+
+<table>
+<tr><th>Catégorie</th><th>Description de la catégorie</th></tr>
+<tr><td>1</td><td>Installations de combustion exigeant un apport thermique nominal net supérieur à 50 MW.</td></tr>
+<tr><td>2</td><td>Installations de grillage ou d’agglomération de minerais (y compris de minerais sulfurés) ou de concentrés d’une capacité supérieure à 150 tonnes/jour d’aggloméré pour le minerai de fer ou le concentré et 30 tonnes/jour d’aggloméré en cas de grillage de cuivre, de plomb ou de zinc ou pour tout traitement de minerais d’or et de mercure.</td></tr>
+<tr><td>3</td><td>Fonderies et aciéries (première ou deuxième fusion, notamment dans des fours à arc), y compris en coulée continue, d’une capacité supérieure à 2,5 tonnes/heure.</td></tr>
+<tr><td>4</td><td>Fonderies de métaux ferreux ayant une capacité de production supérieure à 20 tonnes/jour.</td></tr>
+<tr><td>5</td><td>Installations de production de cuivre, de plomb et de zinc à partir de minerais, de concentrés ou de matières premières de récupération par des procédés métallurgiques, d’une capacité supérieure à 30 tonnes/jour de métal dans le cas d’installations de production primaire et à 15 tonnes/jour dans le cas d’installations de production secondaire ou de toute installation de production primaire de mercure.</td></tr>
+<tr><td>6</td><td>Installations de fusion (affinage, moulages de fonderie, etc.), notamment pour les alliages du cuivre, du plomb et du zinc, y compris les produits de récupération, d’une capacité supérieure à 4 tonnes/jour pour le plomb ou à 20 tonnes/jour pour le cuivre et le zinc.</td></tr>
+<tr><td>7</td><td>Installations de production de clinker de ciment dans des fours rotatifs d’une capacité de production supérieure à 500 tonnes/jour ou dans d’autres fours d’une capacité de production supérieure à 50 tonnes/jour.</td></tr>
+<tr><td>8</td><td>Fabriques de verre au plomb, y compris de fibre de verre, d’une capacité de fusion supérieure à 20 tonnes/jour.</td></tr>
+<tr><td>9</td><td>Installations de production de chlore et de soude caustique par électrolyse utilisant le procédé à cathode de mercure.</td></tr>
+<tr><td>10</td><td>Installations d’incinération de déchets dangereux ou de déchets médicaux d’une capacité supérieure à 1 tonne/heure ou installations de co-incinération de déchets dangereux ou médicaux spécifiés conformément à la législation nationale.</td></tr>
+<tr><td>11</td><td>Installations d’incinération de déchets urbains d’une capacité supérieure à 3 tonnes/heure ou installations de co-incinération de déchets urbains spécifiés conformément à la législation nationale.</td></tr>
+</table>
+
+Annexe III*[^t-2]*
+
+## Meilleures techniques disponibles pour lutter contre les émissions de métaux lourds et de leurs composés provenant des catégories de sources énumérées à l’annexe II
+
+[^t-2]: Nouvelle teneur selon la D n° 2012/6 du 13 déc. 2012, en vigueur depuis le 9 janvier 2014 ([RO 2014 4711](https://fedlex.data.admin.ch/eli/oc/2014/796)).
+
+\1. La présente annexe vise à donner aux Parties des indications pour déterminer les meilleures techniques disponibles applicables aux sources fixes afin de leur permettre de s’acquitter des obligations découlant du Protocole. Une description plus complète de ces meilleures techniques disponibles ainsi que des conseils les concernant sont fournis dans un document d’orientation adopté par les Parties à une session de l’Organe exécutif et peuvent être actualisés selon que de besoin par consensus par les Parties réunies au sein de l’Organe exécutif.
+
+\2. On entend par «meilleures techniques disponibles» (MTD) le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer la base des valeurs limites d’émission (et autres conditions fixées) visant à éviter et, lorsque cela s’avère impossible, à réduire les émissions et leur impact sur l’environnement dans son ensemble:
+
+- a) par «techniques», on entend aussi bien la technologie utilisée que la façon dont l’installation est conçue, construite, entretenue, exploitée et mise hors service;
+- b) par techniques «disponibles», on entend les techniques mises au point sur une échelle permettant de les appliquer dans le secteur industriel pertinent, dans des conditions économiquement et techniquement viables, compte tenu des coûts et des avantages, que ces techniques soient ou non utilisées ou produites sur le territoire de la Partie concernée, pour autant que l’exploitant puisse y avoir accès dans des conditions raisonnables;
+- c) par «meilleures» techniques, on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l’environnement dans son ensemble.
+
+\3. Les critères utilisés pour déterminer les MTD sont les suivants:
+
+- a) l’utilisation d’une technologie peu polluante;
+- b) l’utilisation de substances moins dangereuses;
+- c) la récupération et le recyclage d’une plus grande partie des substances produites et utilisées au cours des opérations ainsi que des déchets le cas échéant;
+- d) les procédés, moyens ou méthodes d’exploitation comparables qui ont été expérimentés avec succès à l’échelle industrielle;
+- e) les progrès technologiques et l’évolution des connaissances scientifiques;
+- f) la nature, les effets et le volume des émissions concernées;
+- g) les dates de mise en service des installations nouvelles ou existantes;
+- h) les délais nécessaires pour mettre en place la meilleure technique disponible;
+- i) la consommation de matières premières (y compris l’eau) et la nature des matières premières utilisées dans le procédé ainsi que l’efficacité énergétique;
+- j) la nécessité de prévenir ou de réduire au minimum l’impact global des émissions sur l’environnement et les risques de pollution de l’environnement;
+- k) la nécessité de prévenir les accidents et de réduire au minimum leurs conséquences sur l’environnement;
+- l) les informations publiées par des organisations nationales et internationales.
+
+La notion de MTD ne vise pas à prescrire une technique ou une technologie particulière, mais à tenir compte des caractéristiques techniques de l’installation concernée, de sa situation géographique et de l’état de l’environnement au niveau local.
+
+\4. L’expérience que l’on a des installations et des produits nouveaux qui font appel à des techniques peu polluantes, ainsi que de la mise à niveau des installations existantes, s’accroît sans cesse; il se peut donc que le document d’orientation mentionné au par. 1 doive être actualisé.
+
+Annexe IV
+
+## Délais d’application des valeurs limites et des meilleures techniques disponibles pour les sources fixes nouvelles et les sources fixés existantes
+
+Les délais d’application des valeurs limites et des meilleures techniques disponibles sont les suivants:
+
+- a) Pour les sources fixes nouvelles: deux ans après la date d’entrée en vigueur du présent Protocole;
+- b) Pour les sources fixes existantes: huit ans après la date d’entrée en vigueur du présent Protocole. Au besoin, ce délai pourra être prolongé pour des sources fixes particulières existantes conformément au délai d’amortissement prévu à cet égard par la législation nationale.
+
+Annexe V
+
+## Valeurs limites aux fins de la lutte contre les émissions provenant de grandes sources fixes
+
+### I. Introduction
+
+\1. Deux types de valeur limite sont importants aux fins de la lutte contre les émissions de métaux lourds:
+
+- – Les valeurs applicables à des métaux lourds ou groupes de métaux lourds particuliers;
+- – Les valeurs applicables aux émissions de particules en général.
+
+\2. En principe, les valeurs limites pour les matières particulaires ne sauraient remplacer les valeurs limites spécifiques pour le cadmium, le plomb et le mercure, car la quantité de métaux associés aux émissions de particules varie d’un procédé à l’autre. Cependant, le respect de ces limites contribue sensiblement à réduire les émissions de métaux lourds en général. En outre, la surveillance des émissions de particules est généralement moins coûteuse que la surveillance de telle ou telle substance, et en général la surveillance continue de différents métaux lourds n’est matériellement pas possible. En conséquence, les valeurs limites pour les particules présentent un grand intérêt pratique et sont également énoncées dans la présente annexe, le plus souvent pour compléter ou remplacer les valeurs limites spécifiques applicables au cadmium, au plomb ou au mercure.
+
+\3. Les valeurs limites, exprimées en mg/m<sup>3</sup>, se rapportent aux conditions normales (volume à 273,15 K, 101,3 kPa, gaz secs) et sont calculées sous forme de valeur moyenne des mesures relevées toutes les heures pendant plusieurs heures d’exploitation, soit 24 heures en règle générale. Les périodes de démarrage et d’arrêt devraient être exclues. La période servant au calcul des moyennes peut, au besoin, être prolongée pour que la surveillance donne des résultats suffisamment précis. En ce qui concerne la teneur en oxygène des rejets de gaz, on appliquera les valeurs données pour certaines grandes sources fixes. Toute dilution, en vue de diminuer les concentrations des polluants dans les gaz rejetés, est interdite. Les valeurs limites pour les métaux lourds s’appliquent aux trois états du métal et de ses composés – solide, gaz et vapeur – exprimés en masse de métal. Lorsqu’on donne des valeurs limites pour les émissions totales, exprimées en g/unité de production ou de capacité, elles correspondent à la somme des émissions de gaz de combustion et des émissions fugaces, calculée en valeur annuelle.
+
+\4. Si un dépassement des valeurs limites données ne peut être exclu, il faut surveiller les émissions ou un paramètre de performance qui indique si un dispositif antipollution est correctement utilisé et entretenu. La surveillance des émissions ou des indicateurs de performance devrait avoir un caractère continu si le débit massique des particules émises est supérieur à 10 kg/h. En cas de surveillance des émissions, les concentrations de polluants atmosphériques dans les effluents canalisés doivent être mesurées de façon représentative. Si les matières particulaires sont surveillées de manière discontinue, les concentrations devraient être mesurées à intervalles réguliers, avec au moins trois relevés indépendants par vérification. Les méthodes de prélèvement et d’analyse d’échantillons de tous les polluants, ainsi que les méthodes de mesure de référence servant à étalonner les systèmes de mesure automatisés, devront être conformes aux normes fixées par le Comité européen de normalisation (CEN) ou par l’Organisation internationale de normalisation (ISO). En attendant la mise au point des normes CEN ou ISO, il y aura lieu d’appliquer les normes nationales. Les normes nationales peuvent aussi être appliquées si elles donnent les mêmes résultats que les normes CEN ou ISO.
+
+\5. En cas de surveillance continue, les valeurs limites sont respectées si aucune des valeurs de concentration moyenne des émissions calculées sur 24 heures ne dépasse la valeur limite ou si la valeur moyenne calculée sur 24 heures du paramètre surveillé ne dépasse pas la valeur corrélée de ce paramètre obtenue à l’occasion d’un essai de fonctionnement au cours duquel le dispositif antipollution était correctement utilisé et entretenu. En cas de surveillance discontinue des émissions, les valeurs limites sont respectées si la moyenne des relevés par vérification ne dépasse pas la valeur limite. Chacune des valeurs limites exprimées par le total des émissions par unité de production ou le total des émissions annuelles est respectée si la valeur surveillée n’est pas dépassée, comme indiqué plus haut.
+
+### II. Valeurs limites particulières pour certaines grandes sources fixes
+
+Combustion de combustibles fossiles (annexe II, catégorie 1):
+
+\6. Les valeurs limites correspondent à une concentration de 6 % de O<sub>2</sub> dans les gaz de combustion pour les combustibles solides et de 3 % de O<sub>2</sub> pour les combustibles liquides.
+
+\7. Valeur limite pour les émissions de particules provenant de combustibles solides et liquides: 50 mg/m<sup>3</sup>.
+
+Ateliers d’agglomération (annexe II, catégorie 2):
+
+\8. Valeur limite pour les émissions de particules: 50 mg/m<sup>3</sup>.
+
+Ateliers de boulettage (annexe II, catégorie 2):
+
+\9. Valeur limite pour les émissions de particules:
+
+- a) Concassage, séchage: 25 mg/m<sup>3</sup>; et
+- b) Boulettage: 25 mg/m<sup>3</sup>; ou
+
+\10. Valeur limite pour le total des émissions de particules: 40 g/Mg de boulettes produites.
+
+Hauts fourneaux (annexe II, catégorie 3):
+
+\11. Valeur limite pour les émissions de particules: 50 mg/m<sup>3</sup>.
+
+Fours à arc (annexe II, catégorie 3):
+
+\12. Valeur limite pour les émissions de particules: 20 mg/m<sup>3</sup>.
+
+Production de cuivre et de zinc, y compris dans les fours “Imperial Smelting“ (annexe II, catégories 5 et 6):
+
+\13. Valeur limite pour les émissions de particules: 20 mg/m<sup>3</sup>.
+
+Production de plomb (annexe II, catégories 5 et 6):
+
+\14. Valeur limite pour les émissions de particules: 10 mg/m<sup>3</sup>.
+
+Industrie du ciment (annexe II, catégorie 7):
+
+\15. Valeur limite pour les émissions de particules: 50 mg/m<sup>3</sup>.
+
+Industrie du verre (annexe II, catégorie 8):
+
+\16. Les valeurs limites correspondent à des concentrations de O<sub>2</sub> dans les gaz de combustion dont la valeur varie selon le type de four: fours à cuve: 8 %; fours à creuset et fours à pot: 13 %.
+
+\17. Valeur limite pour les émissions de plomb: 5 mg/m<sup>3</sup>.
+
+Industrie du chlore et de la soude caustique (annexe II, catégorie 9):
+
+\18. Les valeurs limites se rapportent à la quantité totale de mercure rejetée dans l’atmosphère par une installation, quelle que soit la source d’émission, exprimée en valeur moyenne annuelle.
+
+\19. Les valeurs limites pour les installations existantes produisant du chlore et de la soude caustique seront évaluées par les Parties réunies au sein de l’Organe exécutif deux ans au plus tard après la date d’entrée en vigueur du présent Protocole.
+
+\20. Valeur limite pour les installations nouvelles produisant du chlore et de la soude caustique: 0,01 g Hg/Mg de capacité de production de Cl<sub>2</sub>.
+
+Incinération des déchets urbains, médicaux et dangereux (annexe II, catégories 10 et 11):
+
+\21. Les valeurs limites correspondent à une concentration de 11 % de O<sub>2</sub> dans les gaz de combustion.
+
+\22. Valeur limite pour les émissions de particules:
+
+- a) 10 mg/m<sup>3</sup> pour l’incinération des déchets dangereux et des déchets médicaux;
+- b) 25 mg/m<sup>3</sup> pour l’incinération des déchets urbains;
+
+\23. Valeur limite pour les émissions de mercure:
+
+- a) 0,05 mg/m<sup>3</sup> pour l’incinération des déchets dangereux;
+- b) 0,08 mg/m<sup>3</sup> pour l’incinération des déchets urbains;
+- c) Les valeurs limites pour les émissions de mercure provenant de l’incinération des déchets médicaux seront évaluées par les Parties réunies au sein de l’Organe exécutif deux ans au plus tard après la date d’entrée en vigueur du présent Protocole.
+
+Annexe VI
+
+## Mesures de réglementation des produits
+
+\1. Sauf dispositions contraires de la présente annexe, six mois au plus tard après la date d’entrée en vigueur du présent Protocole, la teneur en plomb de l’essence commercialisée destinée aux véhicules routiers ne devra pas dépasser 0,013 g/l. Les Parties qui commercialisent de l’essence sans plomb contenant moins de 0,013 g/l de ce métal devront s’efforcer de maintenir cette teneur ou de l’abaisser.
+
+\2. Chaque Partie tâchera de faire en sorte que le passage à des carburants dont la teneur en plomb est celle spécifiée au par. 1 ci-dessus se traduise par une réduction globale des effets nocifs sur la santé et l’environnement.
+
+\3. Lorsqu’un État constatera que le fait de limiter la teneur en plomb de l’essence commercialisée conformément au par. 1 ci-dessus entraînerait pour lui de graves problèmes socio-économiques ou techniques ou n’aurait pas d’effets bénéfiques globaux sur l’environnement ou la santé en raison, notamment, de sa situation climatique, il pourra prolonger le délai fixé dans ce paragraphe et le porter à 10 années au maximum; pendant cette période, il pourra commercialiser de l’essence au plomb dont la teneur en plomb ne dépassera pas 0,15 g/l. En pareil cas, l’État devra spécifier, dans une déclaration qui sera déposée en même temps que son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, qu’il a l’intention de prolonger le délai et expliquer par écrit à l’Organe exécutif les raisons de cette prolongation.
+
+\4. Les Parties sont autorisées à commercialiser de petites quantités d’essence au plomb, dont la teneur en plomb ne dépasse pas 0,15 g/l, étant entendu que ces quantités, destinées aux véhicules routiers anciens, ne doivent pas représenter plus de 0,5 % du total de leurs ventes.
+
+\5. Chaque Partie, cinq ans au plus tard après l’entrée en vigueur du présent Protocole ou 10 ans au plus tard pour les pays en transition sur le plan économique qui auront fait part de leur intention d’opter pour un délai de 10 ans dans une déclaration déposée en même temps que leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, doit parvenir à des concentrations qui ne dépassent pas:
+
+- a) 0,05 % en poids de mercure dans les piles et accumulateurs alcalins au manganèse destinés à un usage prolongé dans des conditions extrêmes (p. ex. température inférieure à 0°C ou supérieure à 50°C, risque de chocs); et
+- b) 0,025 % en poids de mercure dans toutes les autres piles et accumulateurs au manganèse.
+
+Les limites ci-dessus peuvent être dépassées pour une application technologique nouvelle ou en cas d’utilisation d’une pile ou d’un accumulateur dans un produit nouveau, si des mesures de garantie raisonnables sont prises pour faire en sorte que la pile ou l’accumulateur mis au point ou le produit obtenu et doté d’une pile ou d’un accumulateur difficile à extraire soit éliminé de façon écologiquement rationnelle. Les piles boutons alcalines au manganèse et autres piles boutons sont également exemptées de cette obligation.
+
+Annexe VII
+
+## Mesures de gestion des produits
+
+\1. La présente annexe vise à donner des indications aux Parties quant aux mesures de gestion des produits.
+
+\2. Les Parties peuvent envisager des mesures appropriées de gestion des produits telles que celles qui sont énumérées ci-après, lorsqu’elles se justifient du fait du risque potentiel d’effets nocifs sur la santé ou l’environnement découlant d’émissions d’un ou de plusieurs des métaux lourds énumérés à l’annexe I, compte tenu de tous les risques et avantages afférents à de telles mesures, en vue de veiller à ce que toute modification apportée aux produits se traduise par une réduction globale des effets nocifs sur la santé et l’environnement:
+
+- a) Le remplacement des produits contenant un ou plusieurs des métaux lourds énumérés à l’annexe I, introduits intentionnellement, si des produits de remplacement appropriés existent;
+- b) La réduction au minimum de la concentration ou le remplacement, dans les produits, d’un ou de plusieurs des métaux lourds énumérés à l’annexe I, introduits intentionnellement;
+- c) La fourniture d’informations sur les produits, y compris leur étiquetage, pour faire en sorte que les utilisateurs soient informés de la présence dans ces produits d’un ou de plusieurs des métaux lourds énumérés à l’annexe I, introduits intentionnellement, et de la nécessité d’utiliser ces produits et de manipuler les déchets avec précaution;
+- d) L’utilisation d’incitations économiques ou d’accords volontaires pour réduire la concentration, dans les produits, des métaux lourds énumérés à l’annexe I, ou les éliminer; et
+- e) L’élaboration et l’application de programmes visant à collecter, recycler ou éliminer les produits contenant l’un quelconque des métaux lourds énumérés à l’annexe I, et ce d’une manière écologiquement rationnelle.
+
+\3. Chaque produit ou groupe de produits visé ci-après contient un ou plusieurs des métaux lourds énumérés à l’annexe I et a donné lieu à l’adoption par au moins une Partie à la Convention de mesures réglementaires ou volontaires tenant dans une large mesure au fait que ce produit contribue aux émissions d’un ou plusieurs des métaux lourds énumérés à l’annexe I. Cependant, on ne dispose pas encore d’infor-mations suffisantes permettant de confirmer que ces produits constituent une source importante pour toutes les Parties, ce qui justifierait leur inclusion à l’annexe VI. Chaque Partie est encouragée à examiner les informations disponibles et, si cet examen la convainc de la nécessité de prendre des mesures de précaution, à appliquer des mesures de gestion des produits telles que celles visées au par. 2 ci-dessus à l’égard d’un ou de plusieurs des produits énumérés ci-après:
+
+- a) Composants électriques contenant du mercure, c’est-à-dire les dispositifs comprenant un ou plusieurs interrupteurs/déclencheurs pour le transfert du courant électrique tels que les relais, thermostats, contacteurs de niveau, manocontacts et autres interrupteurs (les mesures prises comprennent l’interdiction de la plupart des composants électriques contenant du mercure; des programmes volontaires visant à remplacer certains interrupteurs contenant du mercure par des interrupteurs électroniques ou spéciaux; des programmes volontaires de recyclage pour les interrupteurs; et des programmes volontaires de recyclage pour les thermostats);
+- b) Dispositifs de mesure contenant du mercure tels que thermomètres, manomètres, baromètres, jauges de pression, manocontacts et transmetteurs de pression (les mesures prises comprennent l’interdiction des thermomètres contenant du mercure et l’interdiction des instruments de mesure);
+- c) Lampes fluorescentes contenant du mercure (les mesures prises comprennent la diminution de la concentration de mercure dans les lampes grâce à des programmes tant volontaires que réglementaires et à des programmes volontaires de recyclage);
+- d) Amalgames dentaires contenant du mercure (les mesures prises comprennent des mesures volontaires et l’interdiction – avec des dérogations – d’utiliser des amalgames dentaires contenant du mercure ainsi que des programmes volontaires pour encourager la récupération des amalgames dentaires par les services dentaires avant leur rejet et leur évacuation vers les installations de traitement de l’eau);
+- e) Pesticides contenant du mercure, y compris l’enrobage des semences (les mesures prises comprennent l’interdiction de tous les pesticides contenant du mercure, y compris des produits de traitement des semences et l’interdiction d’utiliser du mercure comme désinfectant);
+- f) Peintures contenant du mercure (les mesures prises comprennent l’interdiction de toutes ces peintures, l’interdiction de ces peintures pour une utilisation intérieure ou sur les jouets destinés aux enfants et l’interdiction de l’utilisation du mercure dans les peintures anticorrosion); et
+- g) Piles et accumulateurs contenant du mercure autres que ceux visés à l’annexe VI (les mesures prises comprennent la diminution de la teneur en mercure grâce à des programmes tant volontaires que réglementaires, la perception de taxes et redevances environnementales et des programmes volontaires de recyclage).
+
+Champ d’application le 10 mai 2017**[^t-3]**
+
+<table>
+<tr><th>États parties</th><th>Adhésion (A) Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>30 septembre</td><td>2003</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Autriche\*</td><td>17 décembre</td><td>2003</td><td>16 mars</td><td>2004</td></tr>
+<tr><td>Belgique</td><td>8 juin</td><td>2005</td><td>6 septembre</td><td>2005</td></tr>
+<tr><td>Bulgarie</td><td>28 octobre</td><td>2003</td><td>26 janvier</td><td>2004</td></tr>
+<tr><td>Canada\*</td><td>18 décembre</td><td>1998</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Chypre</td><td>2 septembre</td><td>2004</td><td>1<sup>er</sup> décembre</td><td>2004</td></tr>
+<tr><td>Croatie</td><td>6 septembre</td><td>2007</td><td>5 décembre</td><td>2007</td></tr>
+<tr><td>Danemark</td><td>12 juillet</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Espagne</td><td>21 septembre</td><td>2011</td><td>20 décembre</td><td>2011</td></tr>
+<tr><td>Estonie\*</td><td>24 mars</td><td>2006 A</td><td>22 juin</td><td>2006</td></tr>
+<tr><td>États-Unis</td><td>10 janvier</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Finlande\*</td><td>20 juin</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>France</td><td>26 juillet</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Hongrie</td><td>19 avril</td><td>2005</td><td>18 juillet</td><td>2005</td></tr>
+<tr><td>Lettonie</td><td>9 juin</td><td>2005</td><td>7 septembre</td><td>2005</td></tr>
+<tr><td>Liechtenstein\*</td><td>23 décembre</td><td>2003</td><td>22 mars</td><td>2004</td></tr>
+<tr><td>Lituanie</td><td>28 octobre</td><td>2004</td><td>26 janvier</td><td>2005</td></tr>
+<tr><td>Luxembourg\*</td><td>1<sup>er</sup> mai</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Macédoine</td><td>1<sup>er</sup> novembre</td><td>2010 A</td><td>30 janvier</td><td>2011</td></tr>
+<tr><td>Moldova</td><td>1<sup>er</sup> octobre</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Monaco\*</td><td>13 novembre</td><td>2003 A</td><td>11 février</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>30 décembre</td><td>2011 A</td><td>29 mars</td><td>2012</td></tr>
+<tr><td>Norvège\*</td><td>16 décembre</td><td>1999</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Pays-Bas\* <sup>a</sup></td><td>23 juin</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Portugal</td><td>4 mai</td><td>2017</td><td>2 août</td><td>2017</td></tr>
+<tr><td>République tchèque</td><td>6 août</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Roumanie\*</td><td>5 septembre</td><td>2003</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Royaume-Uni</td><td>6 juillet</td><td>2005</td><td>4 octobre</td><td>2005</td></tr>
+<tr><td>Serbie</td><td>26 mars</td><td>2012 A</td><td>24 juin</td><td>2012</td></tr>
+<tr><td>Slovaquie\*</td><td>30 décembre</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Slovénie</td><td>9 février</td><td>2004</td><td>9 mai</td><td>2004</td></tr>
+<tr><td>Suède</td><td>19 janvier</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Suisse</td><td>14 novembre</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td>Union européenne (UE)</td><td>3 mai</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+</table>
+
+[^t-3]: [RO 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141), [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644), [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493), [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141), [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).

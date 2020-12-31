@@ -1,0 +1,426 @@
+---
+sr: "946.101"
+title: "Ordinanza del 25 ottobre 2006 concernente l'Assicurazione svizzera contro i rischi delle esportazioni (OARE)"
+short: OARE
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/669"
+language: it
+version: 2020-09-01
+adopted: 2006-10-25
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20200901/it/xml/fedlex-data-admin-ch-eli-cc-2006-669-20200901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20200901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente l’Assicurazione svizzera contro i rischi delle esportazioni
+
+(OARE)**[^t-1]**
+
+del 25 ottobre 2006 (Stato 1° settembre 2020) (Stato 1° settembre 2020)
+
+[^t-1]: [RU 2007 1071](https://fedlex.data.admin.ch/eli/oc/2007/182)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 11 capoverso 2, 17 capoverso 2, 29 capoverso 5 e 31 capoverso 5 della legge federale del 16 dicembre 2005[^ingress-1] concernente l’Assicurazione svizzera contro i rischi delle esportazioni (LARE),
+
+ordina:
+
+[^ingress-1]: [RS 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Operazioni di finanziamento connesse a esportazioni**
+
+L’Assicurazione svizzera contro i rischi delle esportazioni (ASRE) può anche assicurare, sulla base dell’articolo 11 capoverso 1 LARE:
+
+- a. operazioni di finanziamento connesse a esportazioni;
+- b. la fornitura di merci e apparecchi all’estero nel quadro di esportazioni.
+
+#### Art. 2
+
+[^2-1]
+
+[^2-1]: Abrogato dal n. I dell’O del 12 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 3
+
+**Origine svizzera o quota di valore aggiunto svizzero**[^3-1]
+
+<sup>1</sup> Una merce è di origine svizzera se è stata totalmente ottenuta o fabbricata sul territorio interno, o se ivi è stata oggetto di lavorazioni o trasformazioni sufficienti, conformemente agli articoli 9–16 dell’ordinanza del 9 aprile 2008[^3-2] sull’attestazione dell’origine non preferenziale delle merci.
+
+<sup>2</sup> Se la merce non è di origine svizzera, la quota di valore aggiunto svizzero è pari ad almeno il 20 per cento del valore della commessa. Per valore aggiunto svizzero si intende la differenza tra il valore della commessa del contratto d’esportazione e il valore delle forniture complementari estere nonché delle forniture di subappaltatori esteri o delle prestazioni estere.[^3-3]
+
+<sup>3</sup>
+
+L’ASRE può accordare l’assicurazione anche se la quota di valore aggiunto svizzero è inferiore al 20 per cento a condizione che ciò corrisponda ai suoi obiettivi secondo l’articolo 5 LARE e ai principi alla base della sua politica secondo l’articolo 6 LARE. A tal fine l’ASRE tiene conto in particolare degli aspetti seguenti:[^3-4]
+
+- a. il valore aggiunto svizzero prodotto in relazione a prestazioni rilevanti ai fini del buon esito dell’esportazione, come la fabbricazione di componenti chiave, la ricerca e lo sviluppo o le prestazioni di ingegneria, progettazione e servizi è sufficientemente importante;
+- b. la quota di valore aggiunto svizzero del fatturato globale dell’esportatore realizzato con le esportazioni in un determinato arco di tempo è adeguata;
+- c. la quota media di valore aggiunto svizzero di tutte le esportazioni di un esportatore assicurate dall’ASRE ed effettuate in un determinato arco di tempo è adeguata;
+- d. sono esportati prodotti di nuova concezione o aperti nuovi mercati.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+[^3-2]: [RS 946.31](https://fedlex.data.admin.ch/eli/cc/2008/271)
+[^3-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+
+#### Art. 4
+
+**Saggio di garanzia massimo**[^4-1]
+
+<sup>1</sup> Il saggio di garanzia massimo è pari al 95 per cento dell’importo assicurato.
+
+<sup>2</sup> ...[^4-2]
+
+<sup>3</sup> Per la garanzia su bond il saggio di garanzia è pari al massimo al 100 per cento dell’importo garantito.[^4-3]
+
+<sup>4</sup> Lo stipulante non può acquistare percentuali di garanzia.[^4-4]
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+[^4-2]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+
+#### Art. 5
+
+**Sussidiarietà**
+
+<sup>1</sup> L’ASRE non assicura rischi assicurabili sul mercato.[^5-1]
+
+<sup>2</sup> Può assicurare rischi assicurabili sul mercato se lo stipulante non dispone di sufficienti offerte assicurative.[^5-2]
+
+<sup>3</sup> La distinzione tra rischi assicurabili sul mercato e rischi non assicurabili sul mercato si ispira alla prassi dell’Unione europea.[^5-3]
+
+<sup>4</sup> L’ASRE pubblica i criteri di distinzione.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+## Sezione 2: Procedura di proposta e di verifica****
+
+[^sec2-1]
+
+[^sec2-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 6
+
+**Proposta di assicurazione**
+
+<sup>1</sup> La proposta di assicurazione può essere limitata a singole offerte assicurative dell’ASRE.
+
+<sup>2</sup> L’ASRE stabilisce i limiti entro i quali si può procedere a una selezione dei rischi nell’ambito delle offerte assicurative.
+
+#### Art. 7
+
+**Impegno di massima dell’assicurazione**
+
+<sup>1</sup> Prima di concludere un contratto di esportazione, il proponente può chiedere all’ASRE un impegno di massima riguardante l’assicurazione.
+
+<sup>2</sup> Mediante l’impegno di massima, l’ASRE garantisce che, salvo cambiamenti importanti delle circostanze di fatto e della situazione giuridica, stipulerà l’assicurazione.
+
+<sup>3</sup> L’impegno di massima concernente l’assicurazione ha una durata limitata. L’ASRE può prolungarlo su richiesta.
+
+#### Art. 8
+
+**Obbligo di informazione e di diligenza**
+
+Il proponente è tenuto:
+
+- a.[^8-1] a fornire all’ASRE tutte le informazioni rilevanti per l’assicurazione, in particolare indicazioni riguardanti la corruzione, gli aspetti ambientali e i diritti umani;
+- b. a esporre i fatti in modo completo ed esatto e a comunicare senza indugio all’ASRE eventuali cambiamenti della fattispecie.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 9
+
+**Basi decisionali**
+
+<sup>1</sup> L’ASRE esamina la proposta sulla base delle indicazioni fornite per scritto dal proponente.
+
+<sup>2</sup> Se lo ritiene necessario per la valutazione del rischio o per l’esame dell’innocuità, può chiedere che il proponente procuri a sue spese informazioni o una perizia.
+
+<sup>3</sup> Può addossare al proponente una parte o la totalità delle spese incorse per le basi decisionali da essa procurate.
+
+## Sezione 3: Stipulazione dell’assicurazione
+
+#### Art. 10
+
+**Conclusione dell’assicurazione**[^10-1]
+
+<sup>1</sup> L’ASRE decide in merito alla conclusione dell’assicurazione non appena è conclusa la procedura di proposta ed esame e il proponente ha comunicato per scritto di aver concluso l’esportazione oppure l’operazione di finanziamento ivi connessa (negozio di base). In fondati casi eccezionali l’ASRE può decidere in merito alla conclusione dell’assicurazione prima che sia stato concluso il negozio di base.
+
+<sup>2</sup> Nella decisione l’ASRE può escludere dall’assicurazione determinati rischi, limitare l’estensione dell’assicurazione oppure assoggettare l’assicurazione a oneri o condizioni.
+
+<sup>3</sup>
+
+Se l’ASRE conclude l’assicurazione mediante contratto di diritto pubblico vale quanto segue:
+
+- a. l’assicurazione è considerata conclusa all’atto dell’invio allo stipulante del contratto d’assicurazione firmato;
+- b. se l’ASRE si discosta dalla proposta o assoggetta l’assicurazione a oneri o condizioni, l’assicurazione è considerata conclusa all’atto della dichiarazione di accettazione da parte dello stipulante del contratto d’assicurazione inviatogli dall’ASRE; l’ASRE fissa un termine per la dichiarazione d’accettazione.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 11
+
+**Esame dei contratti**
+
+<sup>1</sup> Al di fuori di un evento assicurato, l’ASRE esamina i contratti relativi al negozio di base assicurato soltanto in fondati casi eccezionali.
+
+<sup>2</sup> Lo stipulante sopporta i rischi legati a eventuali carenze del contratto relativo al negozio di base (rischio documentale), al diritto applicabile e al foro prorogato.
+
+#### Art. 12
+
+**Valuta**[^12-1]
+
+<sup>1</sup> L’assicurazione è stipulata in franchi svizzeri.
+
+<sup>2</sup> Dietro richiesta può essere stipulata in una valuta estera. L’ASRE definisce le valute estere ammesse e i presupposti.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 13
+
+**Contenuto dell’assicurazione**[^13-1]
+
+<sup>1</sup> L’assicurazione si basa sulle indicazioni fornite per scritto dallo stipulante nell’ambito della procedura di proposta. Esse costituiscono parte integrante dell’assicurazione.
+
+<sup>2</sup>
+
+La decisione o il contratto di diritto pubblico contiene in particolare le indicazioni seguenti:
+
+- a. la documentazione relativa ai fatti determinanti;
+- b. l’oggetto della copertura;
+- c. i rischi assicurati;
+- d. il periodo durante il quale l’assicurazione risponde;
+- e. l’ammontare massimo;
+- f. il diritto dell’ASRE di restringere la copertura e di impartire istruzioni;
+- g. le condizioni di indennizzo;
+- h. i saggi di garanzia;
+- i. gli obblighi dello stipulante e le conseguenze della loro violazione.
+
+<sup>3</sup> L’ASRE definisce le condizioni generali di contratto applicabili alle proprie assicurazioni. Esse costituiscono parte integrante della decisione o del contratto di diritto pubblico.
+
+<sup>4</sup> L’ASRE può obbligare lo stipulante a vigilare per mezzo di misure speciali sul negozio assicurato e a informare in merito al suo andamento.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 14
+
+**Cambiamenti di circostanze**[^14-1]
+
+<sup>1</sup> Lo stipulante deve comunicare senza indugio all’ASRE i cambiamenti importanti delle basi su cui poggia l’assicurazione.
+
+<sup>2</sup> Se un’assicurazione conclusa mediante contratto di diritto pubblico deve essere modificata, l’articolo 10 capoverso 3 si applica per analogia.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+## Sezione 4: Premi
+
+#### Art. 15
+
+**Premi secondo il dispendio e premi assicurativi**
+
+<sup>1</sup>
+
+L’ASRE riscuote:
+
+- a. premi secondo il dispendio in pagamento del lavoro di verifica connesso alle proposte di assicurazione;
+- b. premi assicurativi come controprestazione del rischio assicurato.
+
+<sup>2</sup> Può chiedere che siano versati acconti.
+
+#### Art. 16
+
+**Tariffa dei premi**
+
+<sup>1</sup> La tariffa dei premi tiene conto del modello di rischio previsto per i Paesi membri dell’OCSE e del principio di autonomia finanziaria.
+
+<sup>2</sup> In particolare, la tariffa precisa principi applicabili, tipi di premio, ammontare, supplementi, sconti, incasso e rimborso dei premi.
+
+<sup>3</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^16-1] approva la tariffa dei premi dell’ASRE dopo aver sentito il parere del Dipartimento federale delle finanze (DFF).
+
+[^16-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+
+## Sezione 5: Evento assicurato
+
+#### Art. 17
+
+<sup>1</sup> Lo stipulante deve annunciare all’ASRE il verificarsi di eventi assicurati senza indugio, ma al più tardi entro due anni dal momento in cui si sono verificati. Trattandosi di crediti, il termine inizia a decorrere con l’ultima scadenza annunciata e documentata.
+
+<sup>2</sup> Scaduto il termine previsto al capoverso 1, le pretese nei confronti dell’ASRE sono perente.
+
+<sup>3</sup> Se è possibile realizzare ristrutturazioni atte a scongiurare il verificarsi di un danno o a ridurne le proporzioni, l’ASRE può assicurare retroattivamente ulteriori rischi, in particolare interessi supplementari.
+
+<sup>4</sup>
+
+Per il resto, i diritti e gli obblighi dell’ASRE e dello stipulante sono definiti nei limiti del possibile nelle condizioni generali di contratto e, a titolo complementare, nelle condizioni particolari di contratto; sono definiti segnatamente gli elementi seguenti:[^17-1]
+
+- a. i presupposti del verificarsi di un sinistro;
+- b. la procedura di indennizzo;
+- c. gli obblighi di prova;
+- d. i principi applicabili alla partecipazione ai costi prima e dopo l’indennizzo;
+- e. le competenze e gli obblighi relativi all’esercizio dei diritti;
+- f. i diritti dell’ASRE relativi all’incasso di crediti assicurati in caso di conversione del debito e di ristrutturazione.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+## Sezione 6: Organizzazione dell’ASRE
+
+#### Art. 18
+
+**Nomina e composizione del consiglio d’amministrazione**
+
+<sup>1</sup> Il DEFR allestisce un profilo dei requisiti in cui sono definite le competenze specialistiche necessarie per la nomina nel consiglio d’amministrazione.
+
+<sup>2</sup> Nel nominare i membri del consiglio d’amministrazione, il Consiglio federale tiene conto del profilo dei requisiti e veglia affinché gli interessi della Confederazione siano adeguatamente rappresentati.
+
+<sup>3</sup> ...[^18-1]
+
+[^18-1]: Abrogato dal n. I dell’O del 12 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
+
+#### Art. 19
+
+**Ufficio di revisione**
+
+<sup>1</sup> Se la legge non dispone altrimenti, le disposizioni del diritto della società anonima concernenti l’ufficio di revisione si applicano per analogia alle condizioni di nomina dei revisori, alla durata del mandato di revisore e alla stesura dei rapporti dell’ufficio di revisione.
+
+<sup>2</sup> Il consiglio d’amministrazione può presentare richiesta al Consiglio federale per la revoca dell’ufficio di revisione.
+
+<sup>3</sup> L’ufficio di revisione è indennizzato secondo il dispendio.
+
+#### Art. 20
+
+**Disposizioni d’esecuzione del regolamento del personale**
+
+Il consiglio d’amministrazione può emanare disposizioni d’esecuzione per il regolamento del personale.
+
+## Sezione 7: Finanze
+
+#### Art. 21
+
+**Presentazione dei conti**
+
+<sup>1</sup> Il consiglio d’amministrazione definisce i principi di bilancio e di valutazione dell’ASRE. Le pertinenti disposizioni sulle finanze della Confederazione rappresentano l’esigenza minima.
+
+<sup>2</sup> I singoli principi contabili, i cambiamenti e le conseguenze di tali principi nonché il riferimento a norme contabili riconosciute e i valori di riferimento per le valutazioni devono essere specificati nell’allegato del conto annuale.
+
+<sup>3</sup> Vengono costituiti accantonamenti soltanto per gli obblighi in essere fondati su un evento verificatosi nel passato.
+
+<sup>4</sup> I rischi latenti insiti nell’attività dell’ASRE e suscettibili di generare obblighi in futuro vengono coperti dal capitale proprio. I principi applicabili alla determinazione del capitale proprio necessario a garantire all’ASRE una capacità di rischio duratura e il relativo calcolo sono esposti nell’allegato del conto annuale.
+
+#### Art. 22
+
+**Operazioni assicurative a copertura del rischio del credere**
+
+L’ASRE documenta i risultati previsti all’articolo 29 capoverso 2 LARE in una colonna separata all’interno del conto annuale.
+
+## Sezione 8: Conversioni dei debiti e ristrutturazioni
+
+#### Art. 23
+
+**Accordi di conversione dei debiti e di ristrutturazione**
+
+<sup>1</sup> In caso di coinvolgimento di crediti assicurati in conversioni dei debiti e ristrutturazioni ai sensi dell’articolo 31 LARE, l’ASRE definisce il successivo trattamento dell’insieme del credito. Le competenze della Confederazione rimangono riservate.
+
+<sup>2</sup> Negli accordi di conversione dei debiti ai sensi dell’articolo 7 capoverso 1 LARE o in caso di ristrutturazione, si possono convenire sdebitamenti fino a concorrenza del 100 per cento.
+
+#### Art. 24
+
+**Indennizzo in caso di conversione dei debiti**
+
+<sup>1</sup> In genere, l’indennizzo previsto all’articolo 31 capoverso 4 LARE viene versato in caso di trattamento autonomo dei debiti. La Confederazione non versa alcun indennizzo per l’attuazione di trattamenti debitori raccomandati dal Paris Club o da altri organismi internazionali comparabili di conversione dei debiti a partecipazione svizzera.
+
+<sup>2</sup> L’entità dell’indennizzo è determinata dalla misura in cui il Paese debitore viene liberato dai debiti oltre quanto giustificato in base a una stima realistica della sua solvibilità. L’ASRE viene consultata prima di decidere in merito al trattamento debitorio.
+
+<sup>3</sup> L’indennizzo è ripartito tra l’ASRE e gli stipulanti in proporzione alle loro quote dei crediti coinvolti nel trattamento debitorio.
+
+<sup>4</sup> I mancati proventi da interessi ed eventuali costi generati in caso di rimborso anticipato di averi nell’ambito di una conversione non vengono indennizzati.
+
+#### Art. 25
+
+**Modifica di accordi**
+
+Il DEFR può stipulare autonomamente modifiche di limitata rilevanza ad accordi di conversione dei debiti ai sensi dell’articolo 7 capoverso 1 LARE.
+
+## Sezione 9: Vigilanza
+
+#### Art. 26
+
+**Limite degli impegni**
+
+<sup>1</sup> Il limite di impegno previsto per l’ASRE dall’articolo 33 capoverso 2 LARE viene periodicamente riesaminato e in caso di bisogno adeguato.
+
+<sup>2</sup> Il consiglio d’amministrazione informa tempestivamente circa la necessità di un adeguamento del limite di impegno.
+
+#### Art. 27
+
+**Rendiconto**
+
+Il consiglio d’amministrazione presenta ogni anno un rapporto al DEFR, a destinazione del Consiglio federale, sulla realizzazione degli obiettivi strategici.
+
+#### Art. 28
+
+**Assicurazioni di particolare rilevanza**
+
+<sup>1</sup> Il consiglio d’amministrazione provvede, informando precocemente il DEFR, affinché il Consiglio federale possa impartire istruzioni per eventuali assicurazioni di particolare rilevanza.
+
+<sup>2</sup> Sono di particolare rilevanza le esportazioni con importanti implicazioni economiche, sociali, ecologiche o per la politica dello sviluppo o altre implicazioni di politica estera.
+
+## Sezione 10: Disposizioni finali
+
+#### Art. 29
+
+**Abrogazione del diritto previgente**
+
+Le seguenti ordinanze sono abrogate:
+
+- 1\. ordinanza del 15 giugno 1998[^29-1] sulla garanzia dei rischi delle esportazioni;
+- 2\. ordinanza del DFE del 18 novembre 2002[^29-2] sulla quota minima di valore aggiunto svizzero per le garanzie dei rischi delle esportazioni;
+- 3\. ordinanza del DFE del 1° dicembre 1998[^29-3] sulla designazione di valute per una garanzia supplementare di operazioni in valuta estera;
+- 4\. ordinanza del DFE del 19 agosto 2002[^29-4] concernente la classificazione dei Paesi importatori nelle categorie di Paesi stabilite in relazione alla garanzia dei rischi delle esportazioni;
+- 5\. ordinanza del DFE dell’8 marzo 1999[^29-5] concernente la riscossione di tasse per garanzie dei rischi delle esportazioni da parte delle organizzazioni economiche;
+- 6\. ordinanza del DFE dell’8 marzo 1999[^29-6] concernente la riscossione di una tassa minima per le garanzie dei rischi delle esportazioni.
+
+[^29-1]: [[RU 1998 1624](https://fedlex.data.admin.ch/eli/oc/1998/1624_1624_1624), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 10]
+[^29-2]: [[RU 2002 4347](https://fedlex.data.admin.ch/eli/oc/2002/707)]
+[^29-3]: [[RU 1999 617](https://fedlex.data.admin.ch/eli/oc/1999/91)]
+[^29-4]: [[RU 2002 2782](https://fedlex.data.admin.ch/eli/oc/2002/409), [2004 1269](https://fedlex.data.admin.ch/eli/oc/2004/148)]
+[^29-5]: [[RU 1999 1542](https://fedlex.data.admin.ch/eli/oc/1999/231)]
+[^29-6]: [[RU 1999 1543](https://fedlex.data.admin.ch/eli/oc/1999/232)]
+
+#### Art. 30
+
+**Modifica del diritto previgente**
+
+...[^30-1]
+
+[^30-1]: Le mod. possono essere consultate alla [RU 2006 4403](https://fedlex.data.admin.ch/eli/oc/2006/669)e [4703](https://fedlex.data.admin.ch/eli/oc/2006/724).
+
+#### Art. 31
+
+**Disposizioni transitorie**
+
+<sup>1</sup> I diritti e gli obblighi derivanti da garanzie e impegni accordati prima dell’entrata in vigore della LARE ai sensi dell’articolo 38 LARE passano per forza di legge all’ASRE. L’ASRE può accordare aumenti del valore della commessa e altre modifiche a garanzie esistenti sulla base del diritto previgente.
+
+<sup>2</sup> Dietro richiesta, l’ASRE stipula, sulla base di accordi accettati senza riserve sotto il regime del diritto previgente e la cui validità non è ancora scaduta al momento dell’entrata in vigore della LARE, contratti di assicurazione di portata corrispondente alle assicurazioni date, sempre che le circostanze non abbiano subito cambiamenti importanti. L’ASRE tratta tali contratti secondo la legge federale del 26 settembre 1958[^31-1] concernente la garanzia dei rischi delle esportazioni, a meno che lo stipulante chieda che sia concluso un contratto conformemente al nuovo diritto.
+
+[^31-1]: [[RU 1959 385](https://fedlex.data.admin.ch/eli/oc/1959/391_409_385), [1973 1024](https://fedlex.data.admin.ch/eli/oc/1973/1026_1026_1024),[1978 1985](https://fedlex.data.admin.ch/eli/oc/1978/1985_1985_1985), [1981 56](https://fedlex.data.admin.ch/eli/oc/1981/56_56_56), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 63, [1996 2444](https://fedlex.data.admin.ch/eli/oc/1996/2444_2444_2444). [RU 2006 1801](https://fedlex.data.admin.ch/eli/oc/2006/284)art. 37 cpv. 1]. Vedi ora la LF del 16 dic. 2005 sull’assicurazione contro i rischi delle esportazioni ([RS 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)).
+
+#### Art. 32
+
+**Istituzione dell’ASRE**
+
+<sup>1</sup> Gli attivi e i passivi nonché i diritti e gli obblighi di cui all’articolo 39 capoverso 3 lettera a LARE vengono trasmessi all’ASRE con effetto al 1° gennaio 2007.
+
+<sup>2</sup> Entro il 30 settembre 2007, l’ASRE presenta al Consiglio federale il bilancio iniziale al 1° gennaio 2007.
+
+#### Art. 33
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2007.

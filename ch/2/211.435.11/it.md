@@ -1,0 +1,295 @@
+---
+sr: "211.435.11"
+title: "Ordinanza del DFGP dell' 8 dicembre 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica (OAPuE-DFGP)"
+short: OAPuE-DFGP
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/30"
+language: it
+version: 2018-02-01
+adopted: 2017-12-08
+in_force: 2018-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20180201/it/xml/fedlex-data-admin-ch-eli-cc-2018-30-20180201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFGP sulla realizzazione di atti pubblici e autenticazioni in forma elettronica
+
+(OAPuE-DFGP)
+
+dell’8 dicembre 2017 (Stato 1° febbraio 2018)
+
+Il Dipartimento federale di giustizia e polizia (DFGP),
+
+visti gli articoli 10 capoverso 5, 19 capoverso 3, 20 capoverso 2 e 26 dell’ordinanza del 8 dicembre 2017[^ingress-1] sulla realizzazione di atti pubblici e autenticazioni in forma elettronica (OAPuE),
+
+ordina:
+
+[^ingress-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+<sup>1</sup> La presente ordinanza disciplina gli aspetti tecnici e organizzativi relativi alla realizzazione di atti pubblici e autenticazioni in forma elettronica.
+
+<sup>2</sup>
+
+Disciplina in particolare:
+
+- a. i requisiti tecnici delle interfacce attraverso le quali i dati sui pubblici ufficiali sono trasmessi da altri sistemi al Registro svizzero dei pubblici ufficiali (RegPU);
+- b. la realizzazione di documenti elettronici e l’apposizione di verbali;
+- c. la rappresentazione della firma elettronica del pubblico ufficiale e la procedura per la firma;
+- d. la forma e il contenuto della conferma d’ammissione;
+- e. il richiamo in linea e l’apposizione della conferma d’ammissione;
+- f. l’emissione e l’apposizione del sigillo elettronico del RegPU;
+- g. l’apposizione dell’eventuale sigillo elettronico cantonale supplementare;
+- h. l’oggetto della verifica eseguita dal sistema di validazione.
+
+## Sezione 2: Trasmissione dei dati sul pubblico ufficiale da altri sistemi al RegPU attraverso un’interfaccia
+
+#### Art. 2
+
+**Requisiti tecnici**
+
+### (art. 8 cpv. 4 e art. 20 OAPuE)
+
+I requisiti tecnici posti alle interfacce attraverso le quali i dati sui pubblici ufficiali sono trasmessi da altri sistemi al RegPU sono indicati nell’allegato 1.
+
+#### Art. 3
+
+**Domanda di autorizzare la trasmissione di dati**
+
+### (art. 20 OAPuE)
+
+La domanda di autorizzare la trasmissione di dati deve contenere la prova che i requisiti tecnici di cui all’articolo 2 sono soddisfatti.
+
+## Sezione 3: Realizzazione di documenti elettronici e verbali
+
+#### Art. 4
+
+**Digitalizzazione di un documento cartaceo**
+
+### (art. 11 cpv. 2 lett. a, art. 12 lett. a, art. 13 lett. a e art. 15 lett. a OAPuE)
+
+Nel digitalizzare un documento cartaceo il pubblico ufficiale sceglie le installazioni, gli strumenti ausiliari e le impostazioni, compresa la risoluzione, in modo tale da:
+
+- a. non perdere o modificare informazioni importanti;
+- b. usare per il salvataggio dei dati soltanto lo spazio di memoria necessario.
+
+#### Art. 5
+
+**Pagina di verbale e verbale**
+
+### (art. 10 cpv. 1 lett. b ed e nonché cpv. 3 OAPuE)
+
+<sup>1</sup> La pagina di verbale deve avere il formato DIN A4 verticale.
+
+<sup>2</sup> Il terzo superiore del verbale è destinato al verbale della copia o dell’attestazione e alla firma elettronica del pubblico ufficiale. Il secondo terzo della pagina di verbale resta libero per la conferma d’ammissione. Il terzo inferiore della pagina di verbale resta libero per l’eventuale sigillo cantonale elettronico secondo l’articolo 10 capoverso 3 OAPuE.
+
+<sup>3</sup> L’Ufficio federale di giustizia (UFG) può elaborare e pubblicare modelli di verbale in collaborazione con le organizzazioni professionali dei pubblici ufficiali.
+
+#### Art. 6
+
+**Formati di dati dei documenti elettronici**
+
+### (art. 10 cpv. 1 lett. c OAPuE)
+
+I documenti elettronici devono essere realizzati e salvati in un formato di dati elettronico riconosciuto. I formati di dati riconosciuti sono elencati nell’allegato 2.
+
+## Sezione 4: Rappresentazione in chiaro della firma del pubblico ufficiale e procedura per la firma
+
+#### Art. 7
+
+<sup>1</sup> La firma elettronica del pubblico ufficiale può essere collegata a una rappresentazione in chiaro nel documento. In tal caso deve riportare tutti i cognomi e i nomi del pubblico ufficiale contenuti nel campo «Common Name» (CN) del certificato. I tipi di carattere («font») usati a tal fine devono essere inseriti nel documento.
+
+<sup>2</sup> La firma va inserita nel documento in modo tale che il sigillo elettronico del RegPU relativo alla conferma di ammissione possa essere aggiunto a posteriori.
+
+## Sezione 5: Forma e contenuto della conferma di ammissione
+
+#### Art. 8
+
+**Forma e contenuto tecnico della conferma di ammissione**
+
+### (art. 10 cpv. 2 OAPuE)
+
+<sup>1</sup> Il RegPU mostra in forma di grafico gli elementi in chiaro della conferma di ammissione.
+
+<sup>2</sup> Il sigillo elettronico del RegPU contiene, nella dichiarazione della firma, il numero di serie del certificato che il pubblico ufficiale ha usato per firmare.
+
+## Sezione 6: Richiamo e apposizione della conferma di ammissione
+
+#### Art. 9
+
+**Richiamo in linea della conferma di ammissione**
+
+### (art. 7 cpv. 1 lett. i, art. 10 cpv. 1 lett. e e art. 20 OAPuE)
+
+<sup>1</sup> Il pubblico ufficiale ottiene la conferma d’ammissione dal RegPU da un programma o da un terzo ammesso dall’UFG.
+
+<sup>2</sup> Si identifica avvalendosi di un mezzo d’identificazione di cui all’articolo 7 capoverso 1 lettera i OAPuE, basato su un certificato di un fornitore riconosciuto ai sensi della legge federale del 18 marzo 2016 sui servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitali (FiEle)[^9-1] o da una procedura d’identificazione riconosciuta ai sensi della FiEle.
+
+<sup>3</sup>
+
+Il programma verifica se:
+
+- a. il documento è in un formato di dati riconosciuto secondo l’articolo 6;
+- b. la pagina di verbale è in formato DIN A4 (210 mm in larghezza × 297 mm in altezza) con un margine d’errore di ± 10 mm in larghezza e ± 20 mm in altezza; e
+- c. la firma del pubblico ufficiale presente nel documento è valida.
+
+<sup>4</sup>
+
+In seguito, il programma trasmette al RegPU soltanto le seguenti informazioni:
+
+- a. la firma estratta dal documento corredata di marca temporale;
+- b. il certificato del pubblico ufficiale su cui si basa la firma;
+- c. i dati necessari per l’autentificazione del pubblico ufficiale.
+
+[^9-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+#### Art. 10
+
+**Collegamento al RegPU fornito da terzi**
+
+### (art. 10 cpv. 4 e art. 20 OAPuE)
+
+<sup>1</sup> I requisiti tecnici per il collegamento al RegPU fornito da terzi sono specificati nell’allegato 3.
+
+<sup>2</sup> La domanda di terzi di autorizzarli a trasmettere il collegamento al RegPU contiene indicazioni sul modo in cui sono rispettati i requisiti di cui all’allegato 3.
+
+#### Art. 11
+
+**Condizioni per l’emissione della conferma di ammissione**
+
+Il RegPU emette la conferma di ammissione soltanto se sono soddisfatte le seguenti condizioni:
+
+- a. al momento dell’ottenimento della conferma d’ammissione il pubblico ufficiale è autorizzato secondo il RegPU a realizzare atti pubblici e autenticazioni in forma elettronica;
+- b. la persona si identifica presso il RegPU;
+- c. la persona identificata coincide con la persona per la cui firma va ottenuta la conferma di ammissione.
+
+#### Art. 12
+
+**Emissione della conferma di ammissione**
+
+Il RegPU emette la conferma di ammissione in forma di grafico e in un formato a lettura automatizzata.
+
+#### Art. 13
+
+**Apposizione della conferma di ammissione**
+
+### (art. 10 cpv. 1 lett. e OAPuE)
+
+<sup>1</sup> Il programma utilizzato dal pubblico ufficiale inserisce il grafico prodotto dal RegPU.
+
+<sup>2</sup> Inserisce la parte a lettura automatizzata della conferma d’ammissione nel sigillo elettronico del RegPU.
+
+<sup>3</sup> Crea per il documento una nuova, univoca somma di controllo crittografica e la trasmette al RegPU.
+
+## Sezione 7: Emissione e apposizione del sigillo elettronico del RegPU
+
+#### Art. 14
+
+**Emissione del sigillo**
+
+<sup>1</sup> Il RegPU firma la somma di controllo crittografica, le appone una marca temporale elettronica qualificata ai sensi dell’articolo 2 lettera j FiEle[^14-1] e la restituisce al programma richiedente.
+
+<sup>2</sup> Il sigillo elettronico del RegPU si basa su un certificato intestato all’organizzazione e rilasciato da un prestatore di servizi di certificazione riconosciuto secondo la FiEle; l’organizzazione indicata nel campo «Common Name» dev’essere «Swiss Confederation – Swiss Register of Notaries».
+
+[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+#### Art. 15
+
+**Apposizione del sigillo al documento**
+
+Il programma utilizzato dal pubblico ufficiale appone il sigillo del RegPU al documento e lo salva.
+
+## Sezione 8: Certificati cantonali
+
+#### Art. 16
+
+L’autorità competente trasmette al RegPU i certificati regolamentati che sono o sono stati usati per la realizzazione di sigilli elettronici cantonali secondo l’articolo 10 capoverso 3 OAPuE*.*
+
+## Sezione 9: Oggetto della verifica effettuata dal sistema di validazione
+
+#### Art. 17
+
+Il sistema di validazione verifica le seguenti caratteristiche tecniche di atti pubblici e autenticazioni in forma elettronica secondo gli articoli 10‑16 OAPuE:
+
+- a. il documento è validamente firmato dal pubblico ufficiale conformemente all’articolo 10 capoverso 1 lettera d OAPuE; eventuali firme apportate in precedenza non sono prese in considerazione;
+- b. il documento è corredato di un sigillo elettronico valido del RegPU secondo l’articolo 10 capoverso 2 lettera b OAPuE;
+- c. il sigillo del RegPU contiene, nella dichiarazione della firma, il numero di serie del certificato qualificato del pubblico ufficiale;
+- d. dal momento dell’apposizione della conferma d’ammissione il documento non è più stato modificato o firmato. Sono fatti salvi eventuali sigilli cantonali ai sensi dell’articolo 10 capoverso 3 OAPuE;
+- e. eventuali sigilli cantonali ai sensi dell’articolo 10 capoverso 3 OAPuE sono validi e si basano sul certificato del Cantone depositato nel RegPU.
+
+## Sezione 10: Disposizioni finali
+
+#### Art. 18
+
+**Disposizione transitoria per i terzi**
+
+Fino al 31 dicembre 2022 i pubblici ufficiali che ottengono le conferme di ammissione mediante una procedura di richiamo effettuata da terzi (art. 9 cpv. 1) possono identificarsi presso i terzi invece che presso l’UpReg (art. 11 lett. b).
+
+#### Art. 19
+
+**Disposizione transitoria per la verifica di atti pubblici e autenticazioni in forma elettronica senza conferma di ammissione elettronica**
+
+### (art. 26 OAPuE)
+
+<sup>1</sup> Nel caso di atti pubblici e autenticazioni in forma elettronica senza conferma di ammissione elettronica risalenti al periodo tra il 1° agosto 2013 e il 31 dicembre 2013, gli uffici del registro di commercio e del registro fondiario verificano mediante il sistema di validazione la validità della firma elettronica e la presenza di una marca temporale valida.
+
+<sup>2</sup>
+
+Esaminano inoltre visivamente se:
+
+- a. nel documento elettronico sono riprodotti in modo riconoscibile la firma autografa del pubblico ufficiale e il suo sigillo o timbro;
+- b. il nome del pubblico ufficiale visibile nel documento elettronico corrisponde al nome nella firma elettronica del pubblico ufficiale.
+
+<sup>3</sup> Se l’ufficio del registro ha dubbi sull’abilitazione del pubblico ufficiale a realizzare atti pubblici, ne verifica da sé l’abilitazione oppure richiede al pubblico ufficiale una prova sulla base di un elenco cantonale vincolante o di una conferma rilasciata dall’autorità d’ammissione.
+
+#### Art. 20
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del DFGP del 25 giugno 2013[^20-1] sugli atti pubblici in forma elettronica è abrogata.
+
+[^20-1]: [[RU 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)]
+
+#### Art. 21
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° febbraio 2018.
+
+Allegato 1*[^t-1]*
+
+(art. 2)
+
+## Requisiti tecnici delle interfacce attraverso le quali i dati sui pubblici ufficiali sono trasmessi da altri sistemi al RegPU
+
+[^t-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultata in Internet sul sito www.ufg.admin.ch &gt; Economia &gt; Atti pubblici e autenticazioni in forma elettronica.
+
+Versione 1
+
+Allegato 2
+
+(art. 6)
+
+## Formati elettronici riconosciuti
+
+<table>
+<tr><td>Indicazione del formato dei dati</td><td>Norma tecnica di base[^annex2-lvlu1-1]</td></tr>
+<tr><td>PDF/A-1</td><td>SN EN ISO 19005-1, 2005, Document management – Electronic document file format for long-term preservation –Parte 1: uso di PDF 1.4 (PDF/A-1)</td></tr>
+<tr><td>PDF/A-2</td><td>SN EN ISO 19005-2, 2011, Document management – Electronic document file format for long-term preservation – Parte 2: uso di ISO 32000-1 (PDF/A-2)</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: Le norme tecniche possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch o possono essere consultate presso l’Ufficio federale di giustizia, Bundesrain 20, 3003 Berna.
+
+Allegato 3*[^t-2]*
+
+(art. 10 cpv. 1)
+
+## Requisiti tecnici per la trasmissione dell’accesso al RegPU
+
+[^t-2]: Il testo dell’all. non è pubblicato nella RU. Può essere consultata in Internet sul sito www.ufg.admin.ch &gt; Economia &gt; Atti pubblici e autenticazioni in forma elettronica.
+
+Versione 1

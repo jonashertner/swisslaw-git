@@ -1,0 +1,62 @@
+---
+sr: "0.175.031.63"
+title: Vertrag vom 23. Mai 1979 zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich über die Gegenseitigkeit in Amtshaftungssachen
+eli: "https://fedlex.data.admin.ch/eli/cc/1981/1670_1670_1670"
+language: de
+version: 1981-11-01
+adopted: 1979-05-23
+in_force: 1981-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1670_1670_1670/19811101/de/xml/fedlex-data-admin-ch-eli-cc-1981-1670_1670_1670-19811101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1670_1670_1670/19811101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich über die Gegenseitigkeit in Amtshaftungssachen
+
+AS **1981** 1670; BBl **1980** III 1161
+
+Originaltext
+
+Abgeschlossen am 23. Mai 1979 Von der Bundesversammlung genehmigt am 2. Juni 1981[^t-1] Ratifikationsurkunden ausgetauscht am 13. August 1981 In Kraft getreten am 1. November 1981
+
+(Stand am 1. November 1981)
+
+[^t-1]: [AS 1981 1669](https://fedlex.data.admin.ch/eli/oc/1981/1669_1669_1669)
+
+Die Schweizerische Eidgenossenschaft und die Republik Österreich,
+
+vom Wunsch geleitet, Fragen der Amtshaftung in den beiderseitigen Beziehungen zu regeln,
+
+haben folgendes vereinbart:
+
+#### Art. 1
+
+Angehörige des einen Vertragsstaates können nach den im anderen Vertragsstaat geltenden Rechtsvorschriften auf dem Gebiet der Amtshaftung unter den gleichen Bedingungen Ansprüche geltend machen wie die Angehörigen des anderen Vertragsstaates
+
+#### Art. 2
+
+<sup>(1)</sup> Angehörige der Vertragsstaaten sind
+
+- a) schweizerische Staatsbürger und österreichische Staatsangehörige,
+- b) juristische Personen und andere parteifähige Gebilde, die ihren tatsächlichen und, wenn ein solcher bestimmt ist, ihren satzungsmässigen Sitz in einem Vertragsstaat oder in beiden Vertragsstaaten haben oder, wenn ein Sitz nicht besteht, dort gelegen sind.
+
+<sup>(2)</sup> Die Regierungen der Vertragsstaaten können diesen Vertrag durch Vereinbarung auf Staatenlose ausdehnen, die ihren gewöhnlichen Aufenthalt in einem der beiden Vertragsstaaten haben.
+
+#### Art. 3
+
+<sup>(1)</sup> Dieser Vertrag bedarf der Ratifikation; die Ratifikationsurkunden werden so bald wie möglich in Bern ausgetauscht.
+
+<sup>(2)</sup> Dieser Vertrag tritt am ersten Tag des dritten Monats in Kraft, der auf den Austausch der Ratifikationsurkunden folgt. Er findet Anwendung, wenn das schädigende Verhalten nach dem Inkrafttreten des Vertrages stattgefunden hat.
+
+#### Art. 4
+
+<sup>(1)</sup> Dieser Vertrag wird auf unbestimmte Zeit geschlossen. Er kann jederzeit schriftlich auf diplomatischem Weg gekündigt werden. Die Kündigung wird ein Jahr nach dem Zeitpunkt wirksam, zu dem sie dem anderen Staat notifiziert wurde.
+
+<sup>(2)</sup> Tritt der Vertrag infolge Kündigung ausser Kraft, so gelten seine Bestimmungen für alle Fälle weiter, in denen das schädigende Verhalten vor Ausserkrafttreten des Vertrages stattgefunden hat.
+
+Geschehen zu Wien, am 23. Mai 1979 in zwei Urschriften.
+
+<table>
+<tr><td>Für die Schweizerische Eidgenossenschaft: Keller</td><td>Für die Republik Österreich: Pahr</td></tr>
+</table>

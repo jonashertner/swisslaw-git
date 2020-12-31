@@ -1,0 +1,1205 @@
+---
+sr: "822.11"
+title: "Legge federale del 13 marzo 1964 sul lavoro nell'industria, nell'artigianato e nel commercio (Legge sul lavoro, LL)"
+short: LL
+eli: "https://fedlex.data.admin.ch/eli/cc/1966/57_57_57"
+language: it
+version: 2021-01-01
+adopted: 1964-03-13
+in_force: 1966-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/57_57_57/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1966-57_57_57-20210101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sul lavoro nell’industria, nell’artigianato e nel commercio
+
+(Legge sul lavoro, LL**[^t-1]**)
+
+del 13 marzo 1964 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+
+[^t-1]: Abbreviazione introdotta dal n. I della LF del 21 dic. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2903](https://fedlex.data.admin.ch/eli/oc/2008/398); [FF 2007 3905](https://fedlex.data.admin.ch/eli/fga/2007/609)[3913](https://fedlex.data.admin.ch/eli/fga/2007/611)).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto gli articoli 26, 31<sup>bis</sup> capoverso 2, 34<sup>bis</sup>, 34<sup>ter</sup>, 36, 64, 64<sup>bis</sup>, 85, 103 e 114<sup>bis</sup> della Costituzione federale[^ingress-1] (Cost.);[^ingress-2] visto il messaggio del Consiglio federale del 30 settembre 1960[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [CS **1** 3; [RU 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. A queste disp. corrispondono ora gli art. 63, 87, 92, 95, 110, 117, 122, 177 cpv. 3, 188 cpv. 2 e 190 cpv. 1 (entrato in vigore che sia il relativo DF dell’8 ott. 1999 sulla riforma giudiziaria; [FF 1999 7454](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); art. 188 cpv. 2, 189 cpv. 1, 191 cpv. 3 e 191a cpv. 2) della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Nuovo testo giusta il n. VII 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^ingress-3]: FF **1960** 1313
+
+## I. Campo d’applicazione
+
+### Campo di applicazione aziendale e personale
+
+#### Art. 1
+
+<sup>1</sup> La legge é applicabile, fatti salvi gli articoli 2–4, a tutte le aziende pubbliche e private.[^1-1]
+
+<sup>2</sup> La legge intende per azienda l’ente formato da un datore di lavoro e da uno o più lavoratori, stabilmente o temporaneamente occupati, prescindendo dall’uso di impianti o di locali determinati. Se le condizioni di applicabilità sono adempiute unicamente per singole parti di un’azienda, queste soltanto sono assoggettate alla legge.
+
+<sup>3</sup> La legge é applicabile, per quanto possibile, ai lavoratori occupati in Svizzera da un’azienda stabilita all’estero.
+
+[^1-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Eccezioni circa le aziende
+
+#### Art. 2
+
+<sup>1</sup>
+
+La legge non si applica, salvo l’articolo 3*a*:[^2-1]
+
+- a. alle amministrazioni federali, cantonali e comunali, riservato il capoverso 2;
+- b.[^2-2] alle aziende o parti di aziende soggette alla legislazione federale sul lavoro nelle imprese di trasporti pubblici;
+- c. alle aziende soggette alla legislazione federale sulla navigazione marittima sotto bandiera svizzera;
+- d. alle aziende agricole, compresi i servizi accessori prevalentemente adibiti alla trasformazione o all’utilizzazione dei prodotti dell’azienda principale, né ai centri locali di raccolta del latte né alle aziende connesse che lo lavorano;
+- e. alle aziende prevalentemente adibite alla produzione di piante, riservato il capoverso 3;
+- f. alle aziende di pesca;
+- g. alle economie domestiche private.
+
+<sup>2</sup> Gli istituti di diritto pubblico che sono parificati alle amministrazioni federali, cantonali e comunali, come anche le aziende federali, cantonali e comunali cui la legge é applicabile sono determinati per ordinanza.
+
+<sup>3</sup> Singole disposizioni della legge possono essere dichiarate applicabili, per ordinanza, ad aziende prevalentemente adibite alla produzione di piante, che formano apprendisti, nella misura in cui tale applicazione sia necessaria per la protezione dei medesimi.
+
+<sup>4</sup> Le disposizioni della legge e delle sue ordinanze concernenti l’età minima si applicano alle aziende ai sensi del capoverso 1 lettere d–g.[^2-3]
+
+[^2-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1993, in vigore dal 1° mag. 1994 ([RU 1994 1035](https://fedlex.data.admin.ch/eli/oc/1994/1035_1035_1035); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^2-2]: Nuovo testo giusta il n. II della LF del 17 giu. 2016, in vigore dal 9 dic. 2018 ([RU 2017 3595](https://fedlex.data.admin.ch/eli/oc/2017/397), [2018 3285](https://fedlex.data.admin.ch/eli/oc/2018/531); [FF 2015 3147](https://fedlex.data.admin.ch/eli/fga/2015/1082)).
+[^2-3]: Introdotto dal n. I della LF del 19 mar. 1999, in vigore dal 1° ago. 2000 ([RU 2000 1568](https://fedlex.data.admin.ch/eli/oc/2000/241); FF **1999** 447).
+
+### Eccezioni circa le persone
+
+#### Art. 3
+
+La legge non si applica nemmeno, fatto salvo l’articolo 3*a*:[^3-1]
+
+- a. agli ecclesiastici e altre persone al servizio di chiese né ai membri di case professe, di case madri o d’altre comunità religiose;
+- b. al personale, domiciliato in Svizzera, di amministrazioni pubbliche di Stati esteri o di organizzazioni internazionali;
+- c.[^3-2] agli equipaggi delle imprese svizzere di trasporto aereo;
+- d. ai lavoratori che esercitano un ufficio direttivo elevato, un’attività scientifica o un’attività artistica indipendente;
+- e.[^3-3] ai docenti delle scuole private, né ai docenti, assistenti, educatori, né ai sorveglianti occupati in istituti;
+- f.[^3-4] ai lavoratori a domicilio;
+- g. ai viaggiatori di commercio nel senso della legislazione federale;
+- h.[^3-5] ai lavoratori che sono sottoposti all’accordo del 21 maggio 1954[^3-6] concernente le condizioni di lavoro dei battellieri del Reno.
+
+[^3-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° gen. 2005 ([RU 2002 2547](https://fedlex.data.admin.ch/eli/oc/2002/346); [FF 2001 2837](https://fedlex.data.admin.ch/eli/fga/2001/603)[5429](https://fedlex.data.admin.ch/eli/fga/2001/1022)).
+[^3-2]: Nuovo testo giusta il n. II 2 della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^3-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° gen. 2005 ([RU 2002 2547](https://fedlex.data.admin.ch/eli/oc/2002/346); [FF 2001 2837](https://fedlex.data.admin.ch/eli/fga/2001/603)[5429](https://fedlex.data.admin.ch/eli/fga/2001/1022)).
+[^3-4]: Nuovo testo giusta l’art. 21 n. 2 della LF del 20 mar. 1981 sul lavoro a domicilio, in vigore dal 1° apr. 1983 ([RU 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108); [FF 1980 II 270](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)).
+[^3-5]: Introdotta dal n. II 2 della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^3-6]: [RS 0.747.224.022](https://fedlex.data.admin.ch/eli/cc/1959/961_994_986)
+
+### Disposizioni relative alla protezione della salute
+
+[^lvlI-lvlu4-1]
+
+[^lvlI-lvlu4-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+#### Art. 3a
+
+[^3a-1]
+
+Le disposizioni concernenti la protezione della salute contenute nella presente legge (art. 6, 35 e 36*a*) sono tuttavia applicabili:[^3a-2]
+
+- a.[^3a-3] alle amministrazioni federali, cantonali e comunali;
+- b. ai lavoratori che esercitano una funzione dirigente superiore, un’attività artistica indipendente o un’attività scientifica;
+- c.[^3a-4] ai docenti delle scuole private e ai docenti, assistenti, educatori e ai sorveglianti occupati in istituti.
+
+[^3a-1]: Introdotto dal n. I della LF dell’8 ott. 1993, in vigore dal 1° mag. 1994 ([RU 1994 1035](https://fedlex.data.admin.ch/eli/oc/1994/1035_1035_1035); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^3a-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^3a-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^3a-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° gen. 2005 ([RU 2002 2547](https://fedlex.data.admin.ch/eli/oc/2002/346); [FF 2001 2837](https://fedlex.data.admin.ch/eli/fga/2001/603)[5429](https://fedlex.data.admin.ch/eli/fga/2001/1022)).
+
+### Aziende familiari
+
+#### Art. 4
+
+<sup>1</sup> La legge non é applicabile alle aziende il cui titolare occupa esclusivamente il coniuge o il partner registrato, i parenti in linea retta e i loro coniugi o i loro partner registrati e i propri figliastri.[^4-1]
+
+<sup>2</sup> In un’azienda che, oltre alle persone indicate nel capoverso 1, ne occupa altre, la legge é applicabile solo a queste.
+
+<sup>3</sup> Singole disposizioni della legge possono, per ordinanza, essere dichiarate applicabili ai giovani familiari del titolare dell’azienda, di cui al capoverso 1, in quanto sia richiesto per proteggerne la vita e la salute o salvaguardarne la moralità.
+
+[^4-1]: Nuovo testo giusta l’all. n. 27 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+
+### Prescrizioni speciali per aziende industriali
+
+#### Art. 5
+
+<sup>1</sup> Le disposizioni speciali della presente legge sulle aziende industriali sono applicabili alla singola azienda, o a una sua parte, solo previa decisione d’assoggettamento dell’autorità cantonale.[^5-1]
+
+<sup>2</sup>
+
+Sono industriali le aziende che usano impianti fissi permanenti per produrre, trasformare o trattare dei beni o per generare, trasformare o trasportare energia, purché:
+
+- a. il modo o l’organizzazione del lavoro siano determinati o dall’uso di macchine o di altre apparecchiature tecniche o dall’esecuzione in serie e il personale a ciò occupato consti di almeno sei lavoratori oppure
+- b. il modo o l’organizzazione del lavoro siano essenzialmente determinati da procedimenti automatizzati oppure
+- c. la vita o la salute dei lavoratori siano esposte a pericoli particolari.
+
+[^5-1]: Nuovo testo giusta il n. I 4 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+
+## II. Protezione della salute**** e approvazione dei piani****
+
+[^lvlII-1][^lvlII-2]
+
+[^lvlII-1]: Nuova espressione giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978). Di detta mod. é tenuto conto in tutto il presente testo.
+[^lvlII-2]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+
+### Obblighi del datore di lavoro e del lavoratore
+
+#### Art. 6
+
+[^6-1]
+
+<sup>1</sup> A tutela della salute dei lavoratori, il datore di lavoro deve prendere tutti i provvedimenti, che l’esperienza ha dimostrato necessari, realizzabili secondo lo stato della tecnica e adeguati alle condizioni d’esercizio. Deve inoltre prendere i provvedimenti necessari per la tutela dell’integrità personale dei lavoratori.[^6-2]
+
+<sup>2</sup> Egli deve segnatamente apprestare gli impianti e ordinare il lavoro in modo da preservare il più possibile i lavoratori dai pericoli per la salute e dagli spossamenti.
+
+<sup>2bis</sup> Il datore di lavoro veglia affinché il lavoratore non debba consumare bevande alcoliche o altri prodotti psicotropi nell’esercizio della sua attività professionale. Il Consiglio federale disciplina le eccezioni.[^6-3]
+
+<sup>3</sup> Egli fa cooperare i lavoratori ai provvedimenti sulla protezione della salute nel lavoro. Questi devono secondare il datore di lavoro quanto alla loro applicazione.
+
+<sup>4</sup> I provvedimenti sulla protezione della salute nel lavoro necessari nelle aziende sono definiti mediante ordinanza.
+
+[^6-1]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^6-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^6-3]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Approvazione dei piani e permesso d’esercizio
+
+#### Art. 7
+
+[^7-1]
+
+<sup>1</sup> Chiunque intende costruire o trasformare un’azienda industriale deve proporne i piani all’approvazione dell’autorità cantonale. Questa assume il rapporto dell’Istituto nazionale svizzero di assicurazione contro gli infortuni. Le proposte espressamente designate come istruzioni nel rapporto sono assunte dalle autorità cantonali quali condizioni per l’approvazione dei piani.[^7-2]
+
+<sup>2</sup> L’autorità cantonale approva i piani conformi alle prescrizioni; ove occorra, essa può subordinare l’approvazione a speciali misure protettive.
+
+<sup>3</sup> Prima d’iniziare l’attività aziendale, il datore di lavoro deve chiedere il permesso d’esercizio all’autorità cantonale. L’autorità cantonale dà il permesso d’esercizio se la costruzione e gli impianti dell’azienda risultano conformi ai piani approvati.[^7-3]
+
+<sup>4</sup> Se la costruzione o la trasformazione di un’impresa richiede una decisione d’approvazione dei piani di un’autorità federale, quest’ultima approva i piani secondo la procedura di cui al capoverso 1. La procedura d’eliminazione delle divergenze in seno all’Amministrazione federale di cui agli articoli 62*a* e 62*b* della legge del 21 marzo 1997[^7-4] sull’organizzazione del Governo e dell’Amministrazione si applica ai rapporti e ai corapporti.[^7-5]
+
+[^7-1]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^7-2]: Nuovo testo del secondo e terzo per. giusta il n. I 4 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^7-3]: Nuovo testo del per. giusta il n. I 4 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^7-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^7-5]: Introdotto dal n. 16 I della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+
+### Aziende non industriali
+
+#### Art. 8
+
+[^8-1]
+
+Il Consiglio federale può dichiarare l’articolo 7 applicabile alle aziende non industriali e comportanti pericoli notevoli. Le singole categorie d’aziende sono definite mediante ordinanza.
+
+[^8-1]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+
+## III. Durata del lavoro e del riposo
+
+### 1. Durata del lavoro
+
+### Durata massima settimanale
+
+#### Art. 9
+
+<sup>1</sup>
+
+La durata massima della settimana lavorativa é di:
+
+- a.[^9-1] 45 ore per i lavoratori delle aziende industriali, il personale d’ufficio, gli impiegati tecnici e altri, compreso il personale di vendita delle grandi aziende del commercio al minuto;
+- b. cinquanta ore, per tutti gli altri lavoratori.
+
+<sup>2</sup> …[^9-2]
+
+<sup>3</sup> Per determinate categorie di aziende o di lavoratori, la durata massima della settimana lavorativa può essere prolungata temporaneamente, per ordinanza, di quattro ore al più, purché essa rimanga osservata nella media annuale.
+
+<sup>4</sup> Per determinate categorie di aziende o di lavoratori o per determinate aziende, la Segreteria di Stato dell’economia (SECO)[^9-3] può permettere di prolungare di quattro ore al più la durata massima della settimana lavorativa, nella misura e per il tempo in cui il prolungamento sia giustificato da motivi impellenti.
+
+<sup>5</sup> Se, in una medesima azienda o parte di azienda, personale d’ufficio, impiegati tecnici e altri, compreso il personale di vendita delle grandi aziende del commercio al minuto, sono occupati con lavoratori, per i quali la durata massima della settimana lavorativa é maggiore, tale durata é parimente applicabile a essi.
+
+[^9-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^9-2]: Abrogato dal n. I della LF del 20 mar. 1998, con effetto dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^9-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+### Lavoro diurno e serale
+
+#### Art. 10
+
+[^10-1]
+
+<sup>1</sup> Il lavoro svolto tra le 6 e le 20 é considerato lavoro diurno, quello svolto tra le 20 e le 23 lavoro serale. Il lavoro diurno e il lavoro serale non richiedono alcuna autorizzazione. Dopo aver sentito la rappresentanza dei lavoratori nell’azienda o, in sua assenza, i lavoratori interessati, il datore di lavoro può introdurre il lavoro serale.
+
+<sup>2</sup> Con il consenso della rappresentanza dei lavoratori nell’azienda o, in sua assenza, della maggioranza dei lavoratori interessati, inizio e fine del lavoro diurno e serale dell’azienda possono essere fissati diversamente tra le 5 e le 24. Anche in questo caso il lavoro diurno e serale dell’azienda deve rimanere compreso in uno spazio di 17 ore.
+
+<sup>3</sup> Il lavoro diurno e serale del singolo lavoratore deve rimanere compreso in uno spazio di 14 ore, incluse le pause e lo straordinario.
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Lavoro compensativo
+
+#### Art. 11
+
+Se il lavoro é sospeso per un tempo relativamente breve a cagione di disfunzioni d’esercizio, di vacanze aziendali, di ponti o di circostanze analoghe oppure se un congedo é concesso, su richiesta, a un lavoratore, il datore di lavoro può ordinare la compensazione entro un termine conveniente derogando alla durata massima della settimana lavorativa. La compensazione per singolo lavoratore non può superare, compreso il lavoro straordinario, due ore al giorno, salvo nei giorni liberi e nelle semigiornate libere.
+
+### Condizioni e durata del lavoro straordinario
+
+#### Art. 12
+
+<sup>1</sup>
+
+La durata massima della settimana lavorativa può essere superata, eccezionalmente:
+
+- a. per rispondere all’urgenza o a uno straordinario accumulo di lavoro;
+- b. per compilare un inventario, chiudere i conti o procedere a una liquidazione;
+- c. per prevenire o correggere disfunzioni d’esercizio, nella misura in cui non si possano ragionevolmente pretendere dal datore di lavoro altri provvedimenti.
+
+<sup>2</sup>
+
+Il lavoro straordinario per singolo lavoratore non può superare due ore al giorno, tranne nei giorni feriali liberi o in caso di necessità, né per anno civile superare complessivamente:
+
+- a. le 170 ore per i lavoratori con una durata massima della settimana lavorativa di 45 ore;
+- b. le 140 ore per i lavoratori con una durata massima della settimana lavorativa di 50 ore.[^12-1]
+
+<sup>3</sup> e <sup>4</sup> …[^12-2]
+
+[^12-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^12-2]: Abrogato dal n. I della LF del 20 mar. 1998, con effetto dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Supplemento salariale per il lavoro straordinario
+
+#### Art. 13
+
+<sup>1</sup> Il datore di lavoro deve pagare, per il lavoro straordinario, un supplemento salariale del 25 per cento almeno; tuttavia, esso é pagato al personale d’ufficio, agli impiegati tecnici e altri, compreso il personale di vendita delle grandi aziende del commercio al minuto, solo per il lavoro straordinario che supera le sessanta ore per anno civile.
+
+<sup>2</sup> Se il lavoro straordinario é compensato, con il consenso del lavoratore ed entro un periodo adeguato, mediante un corrispondente congedo, non é pagato alcun supplemento.
+
+#### Art. 14
+
+[^14-1]
+
+[^14-1]: Abrogato dal n. I della LF del 20 mar. 1998, con effetto dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### 2. Durata del riposo
+
+### Pause
+
+#### Art. 15
+
+<sup>1</sup>
+
+Il lavoro giornaliero dev’essere interrotto con pause di almeno:
+
+- a. un quarto d’ora, se dura più di cinque ore e mezzo;
+- b. mezz’ora, se dura più di sette ore;
+- c. un’ora, se dura più di nove ore.
+
+<sup>2</sup> Le pause contano come lavoro, quando al lavoratore non é consentito di lasciare il posto di lavoro.
+
+### Riposo giornaliero
+
+#### Art. 15a
+
+[^15a-1]
+
+<sup>1</sup> Ai lavoratori deve essere garantito un riposo giornaliero di almeno undici ore consecutive.
+
+<sup>2</sup> Il riposo di lavoratori adulti può essere ridotto una volta per settimana fino a otto ore, a condizione che nella media di due settimane venga rispettata la durata di undici ore.
+
+[^15a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Divieto del lavoro notturno
+
+#### Art. 16
+
+[^16-1]
+
+<sup>1</sup> L’occupazione fuori del lavoro aziendale diurno e serale secondo l’articolo 10 (lavoro notturno) é vietata. Rimane salvo l’articolo 17.
+
+[^16-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Deroghe al divieto del lavoro notturno
+
+#### Art. 17
+
+[^17-1]
+
+<sup>1</sup> Le deroghe al divieto del lavoro notturno sono soggette ad autorizzazione.
+
+<sup>2</sup> Il lavoro notturno regolare o periodico é autorizzato se é indispensabile per motivi tecnici o economici.
+
+<sup>3</sup> Il lavoro notturno temporaneo é autorizzato se ne é provato l’urgente bisogno.
+
+<sup>4</sup> Il lavoro notturno tra le 5 e le 6 e tra le 23 e le 24 é autorizzato se ne é provato l’urgente bisogno.
+
+<sup>5</sup> La SECO autorizza il lavoro notturno regolare o periodico; l’autorità cantonale, il lavoro notturno temporaneo.
+
+<sup>6</sup> Il datore di lavoro non può occupare il lavoratore nel lavoro notturno senza il suo consenso.
+
+[^17-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Durata del lavoro notturno
+
+#### Art. 17a
+
+[^17a-1]
+
+<sup>1</sup> In caso di lavoro notturno, la durata del lavoro giornaliero per singolo lavoratore non può superare nove ore e deve essere compresa in uno spazio di dieci ore, pause incluse.
+
+<sup>2</sup> Se il lavoratore é occupato al massimo tre notti consecutive su sette, la durata del lavoro giornaliero può ammontare a dieci ore alle condizioni stabilite nell’ordinanza; essa deve tuttavia rimanere compresa in uno spazio di dodici ore, pause incluse.
+
+[^17a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Supplemento di tempo e supplemento salariale
+
+#### Art. 17b
+
+[^17b-1]
+
+<sup>1</sup> Il datore di lavoro deve accordare un supplemento salariale del 25 per cento almeno al lavoratore che svolge solo temporaneamente un lavoro notturno.
+
+<sup>2</sup> Il lavoratore che svolge regolarmente o periodicamente un lavoro notturno ha diritto a una compensazione di tempo equivalente al 10 per cento della durata del lavoro notturno da lui svolto. Il tempo di riposo compensativo deve essere accordato entro un anno. La compensazione può tuttavia essere accordata sotto forma di supplemento salariale ai lavoratori il cui lavoro, regolarmente svolto all’inizio o alla fine delle ore notturne, non supera un’ora.
+
+<sup>3</sup>
+
+Il tempo di riposo compensativo conformemente al capoverso 2 non deve essere accordato se:
+
+- a. la durata media delle squadre nell’azienda non supera le sette ore, comprese le pause, o
+- b. il lavoratore di notte é occupato solo quattro notti per settimana (settimana di quattro giorni), o
+- c. ai lavoratori sono accordati tempi di riposo compensativi equivalenti, entro un anno, per contratto collettivo di lavoro o per applicazione analogica delle disposizioni di diritto pubblico.
+
+<sup>4</sup> Le regolamentazioni relative al tempo di riposo compensativo, ai sensi del capoverso 3 lettera c, devono essere esaminate dalla SECO che si pronuncia sulla loro equivalenza con il tempo di riposo compensativo legale, ai sensi del capoverso 2.
+
+[^17b-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Visita medica e consulenza
+
+#### Art. 17c
+
+[^17c-1]
+
+<sup>1</sup> Il lavoratore che svolge un lavoro notturno duraturo ha diritto a una visita medica che attesti il suo stato di salute e alla consulenza riguardo al modo di ridurre o evitare i problemi di salute connessi con il suo lavoro.
+
+<sup>2</sup> L’ordinanza disciplina i particolari. Essa può dichiarare obbligatoria la visita medica per determinati gruppi di lavoratori.
+
+<sup>3</sup> Il datore di lavoro assume le spese della visita medica e della consulenza, nella misura in cui non rispondano la cassa malati o un altro assicuratore del lavoratore.
+
+[^17c-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Inidoneità al lavoro notturno
+
+#### Art. 17d
+
+[^17d-1]
+
+Nella misura del possibile, il datore di lavoro deve trasferire il lavoratore giudicato inidoneo al lavoro notturno per motivi di salute a un lavoro diurno analogo, per il quale é idoneo.
+
+[^17d-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Altri provvedimenti in caso di lavoro notturno
+
+#### Art. 17e
+
+[^17e-1]
+
+<sup>1</sup> Se richiesto dalle circostanze, il datore di lavoro che occupa regolarmente personale durante la notte é obbligato a prevedere altri adeguati provvedimenti a tutela dei lavoratori, segnatamente per quanto concerne la sicurezza degli spostamenti per recarsi al lavoro, l’organizzazione del trasporto, le possibilità di riposarsi e di alimentarsi nonché la cura dei figli.
+
+<sup>2</sup> Le autorità competenti possono subordinare a oneri adeguati i permessi concernenti la durata del lavoro.
+
+[^17e-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Divieto del lavoro domenicale
+
+#### Art. 18
+
+[^18-1]
+
+<sup>1</sup> Il lavoro é vietato nell’intervallo che intercorre tra le 23 del sabato e le 23 della domenica. Rimane salvo l’articolo 19.
+
+<sup>2</sup> Con il consenso della rappresentanza dei lavoratori nell’azienda o, in sua assenza, della maggioranza dei lavoratori interessati, l’intervallo di 24 ore fissato nel capoverso 1 può essere anticipato o differito di un’ora al massimo.
+
+[^18-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Deroghe al divieto del lavoro domenicale
+
+#### Art. 19
+
+[^19-1]
+
+<sup>1</sup> Le deroghe al divieto del lavoro domenicale sono soggette ad autorizzazione.
+
+<sup>2</sup> Il lavoro domenicale regolare o periodico é autorizzato se é indispensabile per motivi tecnici o economici.
+
+<sup>3</sup> Il lavoro domenicale temporaneo é autorizzato se ne é provato l’urgente bisogno. Il datore di lavoro accorda al lavoratore un supplemento salariale del 50 per cento.
+
+<sup>4</sup> La SECO autorizza il lavoro domenicale regolare o periodico; l’autorità cantonale, il lavoro domenicale temporaneo.
+
+<sup>5</sup> Il datore di lavoro non può occupare il lavoratore nel lavoro domenicale senza il suo consenso.
+
+<sup>6</sup> I Cantoni possono fissare al massimo quattro domeniche all’anno durante le quali i lavoratori possono essere occupati nei negozi senza autorizzazione.[^19-2]
+
+[^19-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^19-2]: Introdotto dal n. I della LF del 21 dic. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2903](https://fedlex.data.admin.ch/eli/oc/2008/398); [FF 2007 3905](https://fedlex.data.admin.ch/eli/fga/2007/609)[3913](https://fedlex.data.admin.ch/eli/fga/2007/611)).
+
+### Domenica libera e riposo compensativo
+
+#### Art. 20
+
+[^20-1]
+
+<sup>1</sup> Il giorno settimanale di riposo deve cadere in domenica almeno una volta ogni due settimane, immediatamente prima o dopo il riposo giornaliero. Rimane salvo l’articolo 24.
+
+<sup>2</sup> Il lavoro domenicale di una durata massima di cinque ore deve essere compensato mediante tempo libero. Qualora si prolunghi oltre cinque ore, deve essere compensato con un riposo non inferiore a 24 ore consecutive durante un giorno lavorativo, seguente il riposo giornaliero, della settimana precedente o successiva.
+
+<sup>3</sup> Il datore di lavoro può occupare temporaneamente i lavoratori durante il riposo compensativo, se ciò é necessario per impedire il deperimento di beni o per prevenire o correggere disfunzioni d’esercizio; il riposo compensativo deve essere allora accordato entro la settimana successiva.
+
+[^20-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Giorni festivi e cerimonie religiose
+
+#### Art. 20a
+
+[^20a-1]
+
+<sup>1</sup> Il giorno della festa nazionale é parificato alla domenica. I Cantoni possono parificare alla domenica al massimo altri otto giorni festivi all’anno e ripartirli diversamente secondo le regioni.
+
+<sup>2</sup> Il lavoratore é autorizzato a interrompere il lavoro in occasione di giorni festivi religiosi diversi da quelli riconosciuti dai Cantoni. Egli deve tuttavia informare il datore di lavoro con almeno tre giorni di anticipo. É applicabile l’articolo 11.
+
+<sup>3</sup> Su richiesta del lavoratore, il datore di lavoro accorda, per quanto possibile, il tempo necessario per assistere a cerimonie religiose.
+
+[^20a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Semigiornata libera settimanale
+
+#### Art. 21
+
+<sup>1</sup> Se il lavoro settimanale é ripartito su più di cinque giorni, il datore di lavoro deve dare al lavoratore una semigiornata libera per settimana, tranne nelle settimane comprendenti un giorno libero.
+
+<sup>2</sup> Il datore di lavoro, con il consenso del lavoratore, può accordare dette semigiornate in una sol volta per quattro settimane al più, purché la durata massima della settimana lavorativa rimanga osservata nella media.
+
+<sup>3</sup> L’articolo 20 capoverso 3 é applicabile per analogia.[^21-1]
+
+[^21-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Divieto di sostituzione del riposo
+
+#### Art. 22
+
+[^22-1]
+
+Qualora la legge prescriva ore di riposo, le stesse non possono essere sostituite dal pagamento di una somma di denaro o da altre prestazioni, tranne alla cessazione del rapporto di lavoro.
+
+[^22-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### 3. Lavoro continuo****
+
+[^lvlIII-lvl3-1]
+
+[^lvlIII-lvl3-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+#### Art. 23
+
+[^23-1]
+
+[^23-1]: Abrogato dal n. I della LF del 20 mar. 1998, con effetto dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Lavoro continuo
+
+#### Art. 24
+
+[^24-1]
+
+<sup>1</sup> Il lavoro continuo é soggetto ad autorizzazione.
+
+<sup>2</sup> Il lavoro continuo regolare o periodico é autorizzato se é indispensabile per motivi tecnici o economici.
+
+<sup>3</sup> Il lavoro continuo temporaneo é autorizzato se ne é provato l’urgente bisogno.
+
+<sup>4</sup> La SECO autorizza il lavoro continuo regolare o periodico; l’autorità cantonale, il lavoro continuo temporaneo.
+
+<sup>5</sup> L’ordinanza determina a quali condizioni e in quale misura, nel lavoro continuo, la durata massima lavorativa giornaliera e settimanale può essere prolungata e la durata del riposo ripartita diversamente. Di regola, la durata massima della settimana lavorativa deve essere osservata nella media di sedici settimane.
+
+<sup>6</sup> Al lavoro continuo sono inoltre applicabili le prescrizioni sul lavoro notturno e domenicale.
+
+[^24-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### 4. Altre disposizioni****
+
+[^lvlIII-lvl4-1]
+
+[^lvlIII-lvl4-1]: Primitivo avanti art. 26.
+
+### Rotazione
+
+#### Art. 25
+
+[^25-1]
+
+<sup>1</sup> La durata del lavoro deve essere suddivisa in modo tale che il singolo lavoratore non debba lavorare nella stessa squadra per più di sei settimane consecutive.
+
+<sup>2</sup> Durante il lavoro diurno e serale a due squadre, il lavoratore deve prendere parte uniformemente a entrambi i turni, mentre nel caso di lavoro notturno deve partecipare sia al lavoro diurno che a quello notturno.
+
+<sup>3</sup> Con il consenso dei lavoratori interessati e rispettando le condizioni e gli oneri stabiliti dall’ordinanza, é possibile prolungare la durata di sei settimane oppure rinunciare del tutto all’alternanza delle squadre.
+
+[^25-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Altre disposizioni protettive
+
+#### Art. 26
+
+<sup>1</sup> A tutela dei lavoratori e nei limiti della durata massima della settimana lavorativa, possono essere emanate in via d’ordinanza altre disposizioni concernenti il lavoro straordinario, notturno e domenicale, come anche il lavoro a squadre e il lavoro continuo.[^26-1]
+
+<sup>2</sup> La durata massima della settimana lavorativa può, per determinate categorie di aziende o di lavoratori, essere ridotta, per ordinanza, di quanto occorra per tutelare la salute dei lavoratori.
+
+[^26-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Disposizioni speciali per determinate categorie di aziende o di lavoratori
+
+#### Art. 27
+
+<sup>1</sup> Determinate categorie di aziende o di lavoratori possono essere assoggettate, mediante ordinanza, a disposizioni speciali che sostituiscono, totalmente o parzialmente, gli articoli 9–17*a*, 17*b* capoverso 1, 18–20, 21, 24, 25, 31 e 36, in quanto ciò sia necessario data la loro particolare situazione.[^27-1]
+
+<sup>1bis</sup> Le piccole aziende artigianali, in particolare, sono esonerate dall’obbligo d’autorizzazione per il lavoro notturno e domenicale se necessari per la loro attività.[^27-2]
+
+<sup>1ter</sup> Nei punti di vendita e nelle aziende di prestazione di servizi situati nelle stazioni che, in ragione del grosso traffico viaggiatori, sono centri di trasporto pubblico, nonché negli aeroporti i lavoratori possono essere occupati la domenica.[^27-3]
+
+<sup>1quater</sup> Nei negozi delle stazioni di servizio situati nelle aree di servizio autostradali e lungo le strade principali con traffico intenso di viaggiatori e la cui offerta di merci e servizi risponde principalmente ai bisogni dei viaggiatori, i lavoratori possono essere occupati la domenica e durante la notte.[^27-4]
+
+<sup>2</sup>
+
+Dette disposizioni speciali possono essere statuite in particolare per:
+
+- a. gli istituti d’educazione e d’insegnamento, le opere sociali, gli ospedali, le cliniche, i gabinetti medici e le farmacie;
+- b. gli alberghi, i ristoranti, i caffé e le aziende che li approvvigionano in occasione di manifestazioni speciali, come anche le aziende di spettacolo;
+- c. le aziende che servono il turismo o la popolazione rurale;
+- d. le aziende per l’approvvigionamento con merci facilmente deperibili;
+- e. le aziende di trasformazione dei prodotti agricoli e le aziende orticole, non contemplate nell’articolo 2 capoverso 1 lettera *e*;
+- f. le aziende forestali;
+- g. le aziende per l’approvvigionamento con elettricità, gas o acqua;
+- h. le aziende per l’approvvigionamento dei veicoli con carburante o la loro manutenzione e riparazione;
+- i. le redazioni di quotidiani e periodici;
+- k. il personale d’infrastruttura dei trasporti aerei;
+- l. i lavoratori occupati in cantieri o cave che, per la posizione geografica o le condizioni climatiche o tecniche, richiedono un ordinamento particolare della durata del lavoro;
+- m. le persone il cui lavoro consiste precipuamente in semplice presenza o in viaggi o spostamenti.
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^27-2]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^27-3]: Introdotto dal n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2006 ([RU 2006 961](https://fedlex.data.admin.ch/eli/oc/2006/173); [FF 2004 1403](https://fedlex.data.admin.ch/eli/fga/2004/320)[1411](https://fedlex.data.admin.ch/eli/fga/2004/322)).
+[^27-4]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° dic. 2013 ([RU 2013 4081](https://fedlex.data.admin.ch/eli/oc/2013/746); [FF 2011 7991](https://fedlex.data.admin.ch/eli/fga/2011/1553), [2012 287](https://fedlex.data.admin.ch/eli/fga/2012/135)).
+
+### Derogazioni lievi
+
+#### Art. 28
+
+Nei permessi concernenti la durata del lavoro, l’autorità può eccezionalmente prevedere lievi derogazioni alla legge o a una ordinanza, qualora l’applicazione rigorosa suscitasse difficoltà straordinarie e in quanto la maggioranza dei lavoratori interessati o la loro rappresentanza nell’azienda vi acconsenta.
+
+## IV. Disposizione di protezione speciale****
+
+[^lvlIV-1]
+
+[^lvlIV-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### 1. Giovani
+
+### In generale
+
+#### Art. 29
+
+<sup>1</sup> Sono considerati giovani i lavoratori, di ambedue i sessi, fino ai 18 anni compiuti.[^29-1]
+
+<sup>2</sup> Il datore di lavoro deve avere conveniente riguardo per la salute dei giovani e vigilare alla salvaguardia della loro moralità. Egli deve segnatamente provvedere affinché essi non siano eccessivamente affaticati né esposti a influenze nocive nell’azienda.
+
+<sup>3</sup> Al fine di proteggere la vita e la salute dei giovani o di salvaguardarne la moralità, la loro occupazione in determinati lavori può essere, per ordinanza, vietata o subordinata a condizioni speciali.
+
+<sup>4</sup> Il datore di lavoro, assumendo giovani, deve esigere la presentazione di un attestato d’età. Per ordinanza, può essere prescritto anche la presentazione di un certificato medico.
+
+[^29-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2006, in vigore dal 1° gen. 2008 ([RU 2007 4957](https://fedlex.data.admin.ch/eli/oc/2007/691); [FF 2004 6013](https://fedlex.data.admin.ch/eli/fga/2004/1177)).
+
+### Età minima
+
+#### Art. 30
+
+<sup>1</sup> É vietato occupare giovani che non hanno ancora compiuto i 15 anni. Sono riservati i capoversi 2 e 3.
+
+<sup>2</sup>
+
+L’ordinanza determina per quali categorie di aziende o di lavoratori e a quali condizioni:
+
+- a. giovani di oltre 13 anni possono essere incaricati di eseguire commissioni e lavori leggeri;
+- b. giovani minori di 15 anni possono essere occupati in occasione di manifestazioni culturali, artistiche, sportive e pubblicitarie.[^30-1]
+
+<sup>3</sup> I Cantoni, ove l’obbligo scolastico cessa prima del compimento dei 15 anni, possono essere autorizzati per ordinanza a consentire, a determinate condizioni, derogazioni per i giovani prosciolti dall’obbligo scolastico che hanno compiuto i 14 anni.
+
+[^30-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Durata del lavoro e del riposo
+
+#### Art. 31
+
+<sup>1</sup> La durata del lavoro giornaliero dei giovani non può superare quella degli altri lavoratori della stessa azienda o, in difetto, quella ammessa dall’uso locale, né in alcun caso nove ore. L’eventuale lavoro straordinario come pure i corsi obbligatori svolti nel tempo di lavoro sono computati nella durata del lavoro.[^31-1]
+
+<sup>2</sup> Il lavoro diurno dei giovani deve essere compreso in uno spazio di dodici ore, pause incluse. I giovani minori di 16 anni compiuti possono lavorare fino alle 20, mentre i giovani di oltre 16 anni fino alle 22 al massimo. Rimangono salve le disposizioni derogatorie sull’occupazione di giovani ai sensi dell’articolo 30 capoverso 2.[^31-2]
+
+<sup>3</sup> I giovani minori di 16 anni compiuti non possono essere occupati in lavoro straordinario.[^31-3]
+
+<sup>4</sup> Il datore di lavoro non può occupare giovani durante la notte o di domenica. Deroghe possono essere previste per ordinanza, segnatamente nell’interesse della formazione professionale e per l’occupazione di giovani ai sensi dell’articolo 30 capoverso 2.[^31-4]
+
+[^31-1]: Nuovo testo del per. giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^31-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^31-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^31-4]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Doveri speciali del datore di lavoro
+
+#### Art. 32
+
+<sup>1</sup> Se il giovane si ammala o subisce un infortunio o è minacciato nella salute o nella moralità, il datore di lavoro avverte il detentore dell’autorità parentale o il tutore.[^32-1] In attesa delle loro istruzioni, prende le cautele necessarie.
+
+<sup>2</sup> Se il giovane vive nell’economia domestica del datore di lavoro, questi provvede a una nutrizione sufficiente e adeguata all’età e a un alloggio conforme alle esigenze dell’igiene e della morale.
+
+[^32-1]: Nuovo testo giusta l’all. n. 24 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+
+#### Art. 33 e 34
+
+[^3334-1]
+
+[^3334-1]: Abrogati dal n. I della LF del 20 mar. 1998, con effetto dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### 2.**** Donne incinte e madri che allattano****
+
+[^lvlIV-lvl2-1][^lvlIV-lvl2-2]
+
+[^lvlIV-lvl2-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^lvlIV-lvl2-2]: Primitivo avanti art. 33.
+
+### Tutela della salute durante la maternità
+
+#### Art. 35
+
+<sup>1</sup> Il datore di lavoro deve occupare le donne incinte e le madri allattanti in modo e in condizioni di lavoro tali che la loro salute o la salute del bambino non sia pregiudicata.
+
+<sup>2</sup> L’ordinanza può vietare o subordinare a condizioni particolari, per motivi di salute, l’occupazione di donne incinte e madri allattanti in lavori gravosi e pericolosi.
+
+<sup>3</sup> Le donne incinte e le madri allattanti che non possono essere occupate in taluni lavori in base alle prescrizioni del capoverso 2 hanno diritto all’80 per cento del salario e a un’indennità adeguata per la perdita del salario in natura, nella misura in cui il datore di lavoro non possa offrire loro un lavoro equivalente.
+
+### Occupazione durante la maternità
+
+#### Art. 35a
+
+<sup>1</sup> Le donne incinte e la madri allattanti possono essere occupate solo con il loro consenso.
+
+<sup>2</sup> Le donne incinte possono assentarsi dal lavoro mediante semplice avviso. Alle madri allattanti deve essere concesso il tempo necessario all’allattamento.
+
+<sup>3</sup> Le puerpere non possono essere occupate durante le otto settimane dopo il parto; in seguito, e fino alla sedicesima settimana, possono esserlo solo con il loro consenso.
+
+<sup>4</sup> Le donne incinte non possono essere occupate tra le 20 e le 6 nelle otto settimane precedenti il parto.
+
+### Lavoro compensativo e pagamento continuato del salario durante la maternità
+
+#### Art. 35b
+
+<sup>1</sup> Il datore di lavoro é obbligato a offrire, per quanto possibile, alle donne incinte occupate tra le 20 e le 6 un lavoro equivalente tra le 6 e le 20. Tale obbligo sussiste anche per il periodo che intercorre tra l’ottava e la sedicesima settimana dopo il parto.
+
+<sup>2</sup> Le donne occupate tra le 20 e le 6 hanno diritto all’80 per cento del salario, oltre agli eventuali supplementi per il lavoro notturno, e a un’indennità adeguata per il salario in natura venuto a mancare nei periodi fissati dal capoverso 1, qualora non possa essere loro offerto un lavoro equivalente.
+
+### 3. Lavoratori con responsabilità familiari****
+
+[^lvlIV-lvl3-1]
+
+[^lvlIV-lvl3-1]: Tit. introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+#### Art. 36
+
+[^36-1]
+
+<sup>1</sup> Il datore di lavoro, determinando le ore del lavoro e del riposo, deve prestare particolare riguardo ai lavoratori con responsabilità familiari. Sono considerate responsabilità familiari l’educazione dei figli fino all’età di 15 anni e l’assistenza di congiunti o di persone prossime che necessitano di cure.
+
+<sup>2</sup> Tali lavoratori possono essere occupati in un lavoro straordinario solo con il loro consenso. Su richiesta, deve essere accordata loro una pausa meridiana di almeno un’ora e mezzo.
+
+<sup>3</sup> Su presentazione di un certificato medico, il datore di lavoro deve concedere ai lavoratori un congedo per l’assistenza a un familiare o al partner con problemi di salute; il congedo è limitato alla durata necessaria per l’assistenza, ma al massimo a tre giorni per evento.[^36-2]
+
+<sup>4</sup> Salvo che per i figli, il congedo di assistenza ammonta al massimo a dieci giorni all’anno.[^36-3]
+
+[^36-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+[^36-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^36-3]: Introdotto dal n. I 2 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+### 4.**** Altri gruppi di lavoratori
+
+[^lvlIV-lvl4-1]
+
+[^lvlIV-lvl4-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+#### Art. 36a
+
+L’ordinanza può vietare o subordinare a condizioni particolari, per motivi di salute, l’occupazione di altri gruppi di lavoratori in lavori gravosi e pericolosi.
+
+## V. Regolamento aziendale
+
+### Emanazione
+
+#### Art. 37
+
+<sup>1</sup> Ciascuna azienda industriale deve avere un regolamento aziendale.
+
+<sup>2</sup> Per ordinanza, un regolamento aziendale può essere prescritto anche alle aziende non industriali, in quanto tale regolamento sia giustificato dalla natura dell’esercizio o dal numero dei lavoratori.
+
+<sup>3</sup> Le altre aziende non industriali possono darsi un regolamento aziendale, conformandosi al presente capo.
+
+<sup>4</sup> Il regolamento aziendale é convenuto per iscritto fra il datore di lavoro e una delegazione liberamente eletta dai lavoratori o é emanato dal datore di lavoro dopo consultazione con i lavoratori.
+
+### Contenuto
+
+#### Art. 38
+
+[^38-1]
+
+<sup>1</sup> Il regolamento aziendale deve stabilire disposizioni su la protezione della salute nel lavoro e la prevenzione degli infortuni, nonché, in quanto necessario, su l’ordine e il comportamento dei lavoratori nell’azienda; sono ammesse pene disciplinari solamente se sono adeguatamente disciplinate nel regolamento aziendale.
+
+<sup>2</sup> Il regolamento aziendale stabilito per convenzione può contenere anche altre disposizioni concernenti i rapporti fra datore di lavoro ed i lavoratori, tuttavia nella misura soltanto in cui la loro materia non sia disciplinata usualmente, nel rispettivo ramo professionale, per contratto collettivo o per altra convenzione collettiva.
+
+<sup>3</sup> Il contenuto del regolamento aziendale non può contraddire il diritto imperativo né i contratti collettivi vincolanti il datore di lavoro.[^38-2]
+
+[^38-1]: Nuovo testo giusta il n. II art. 5 della LF del 25 giu. 1971 sulla revisione dei tit. X e X<sup>bis</sup> CO (Contratto di lavoro), in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+[^38-2]: Nuovo testo giusta il n. II art. 5 della LF del 25 giu. 1971 sulla revisione dei tit. X e X<sup>bis</sup> CO (Contratto di lavoro), in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+
+### Controllo, effetti
+
+#### Art. 39
+
+<sup>1</sup> Il regolamento aziendale dev’essere sottoposto all’autorità cantonale; se questa accerta che disposizioni del regolamento aziendale non corrispondono alle norme della presente legge, si applica la procedura prevista nell’articolo 51.[^39-1]
+
+<sup>2</sup> Con la pubblicazione nell’azienda, il regolamento aziendale vincola il datore di lavoro e i lavoratori.
+
+[^39-1]: Nuovo testo giusta il n. II art. 5 della LF del 25 giu. 1971 sulla revisione dei tit. X e X<sup>bis</sup> CO (Contratto di lavoro), in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+
+## VI. Esecuzione della legge
+
+### 1. Disposizioni esecutive
+
+#### Art. 40
+
+<sup>1</sup>
+
+Il Consiglio federale é competente a emanare:
+
+- a. disposizioni per ordinanza nei casi espressamente previsti dalla legge;
+- b. disposizioni esecutive intese a precisare singole disposizioni della legge;
+- c. disposizioni amministrative destinate alle autorità di esecuzione e di vigilanza.
+
+<sup>2</sup> Prima di emanare le disposizioni previste nel capoverso 1 lettere *a* e *b* il Consiglio federale consulta i Cantoni, la Commissione federale del lavoro e le organizzazioni economiche interessate.
+
+### 2. Attribuzioni e organizzazione delle autorità
+
+### Cantoni
+
+#### Art. 41
+
+<sup>1</sup> L’esecuzione della legge e delle ordinanze spetta ai Cantoni, riservato l’articolo 42. I Cantoni designano le autorità di esecuzione e l’autorità di ricorso.
+
+<sup>2</sup> I Cantoni presentano al Consiglio federale un rapporto biennale sull’esecuzione.
+
+<sup>3</sup> Nel dubbio sull’applicabilità della legge a un’azienda non industriale o a singoli lavoratori occupati in un’azienda industriale o non industriale, l’autorità cantonale decide.
+
+### Confederazione
+
+#### Art. 42
+
+<sup>1</sup> La Confederazione esercita l’alta vigilanza sull’esecuzione della legge e delle ordinanze da parte dei Cantoni. Essa può dare istruzioni alle autorità cantonali di esecuzione.
+
+<sup>2</sup> La Confederazione prende, inoltre, i provvedimenti esecutivi, che la legge attribuisce espressamente alla sua competenza, e provvede all’esecuzione della legge e delle ordinanze nelle aziende federali, determinate conformemente all’articolo 2 capoverso 2.
+
+<sup>3</sup> Le attribuzioni della Confederazione, previste nei capoversi 1 e 2, sono esercitate dal SECO, per quanto non sono riservate al Consiglio federale o al Dipartimento federale dell’economia, della formazione e della ricerca[^42-1].
+
+<sup>4</sup> Nell’esercizio delle sue attribuzioni, la SECO dispone degli Ispettorati federali del lavoro e del Servizio medico del lavoro. Se necessario, esso può ricorrere a ispettorati specializzati o a periti.
+
+[^42-1]: Nuova espr. giusta il n. I 18 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
+
+### Commissione del lavoro
+
+#### Art. 43
+
+<sup>1</sup> Il Consiglio federale nomina una Commissione federale del lavoro composta di rappresentanti dei Cantoni, di uomini di scienza, di rappresentanti, in numero uguale, delle associazioni dei datori di lavoro e di quelle dei lavoratori, come anche di rappresentanti di altre organizzazioni.
+
+<sup>2</sup> La Commissione federale del lavoro esprime, a destinazione delle autorità federali, il suo parere su questioni legislative ed esecutive. Essa può fare proposte di propria iniziativa.
+
+### Obbligo del segreto
+
+#### Art. 44
+
+[^44-1]
+
+<sup>1</sup> Le persone che sono incaricate di svolgere compiti secondo la presente legge o vi partecipano sono tenute al segreto nei confronti di terzi sui fatti di cui vengono a conoscenza nell’esercizio della loro attività.
+
+<sup>2</sup> Le autorità cantonali incaricate della vigilanza e dell’esecuzione della presente legge e la SECO si prestano reciproca assistenza nell’adempimento dei loro compiti; si scambiano gratuitamente le necessarie informazioni e su richiesta si accordano il diritto di consultare gli atti ufficiali. I fatti segnalati o constatati nell’applicazione della presente prescrizione sottostanno all’obbligo del segreto di cui al capoverso 1.
+
+[^44-1]: Nuovo testo giusta il n. VII 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+
+### Comunicazione di dati
+
+#### Art. 44a
+
+[^44a-1]
+
+<sup>1</sup>
+
+La SECO o la competente autorità cantonale, su domanda scritta motivata, può comunicare dati:
+
+- a. alle autorità di vigilanza e d’esecuzione delle prescrizioni sulla sicurezza del lavoro secondo la legge federale del 20 marzo 1981[^44a-2] sull’assicurazione contro gli infortuni, in quanto lo esiga l’adempimento dei loro compiti;
+- b. ai tribunali e alle autorità istruttorie penali, in quanto lo esiga l’accertamento di un fatto giuridicamente rilevante;
+- c. agli assicurati, in quanto lo esiga l’accertamento di un rischio assicurato;
+- d. al datore di lavoro, in quanto lo esiga la prescrizione di misure nei confronti di una persona;
+- e. agli organi dell’Ufficio federale di statistica in quanto lo esiga l’adempimento dei loro compiti.
+
+<sup>2</sup> I dati possono essere comunicati, su domanda scritta e motivata, ad altre autorità federali, cantonali e comunali o a terzi se la persona interessata ha dato il suo consenso scritto o le circostanze permettono di desumere tale consenso.
+
+<sup>3</sup> I dati possono essere eccezionalmente comunicati quando si tratta di evitare un pericolo per la vita o la salute del lavoratore o di terzi.
+
+<sup>4</sup> La comunicazione di dati resi anonimi, utilizzati segnatamente per la pianificazione, la statistica o la ricerca, può essere effettuata senza il consenso della persona interessata.
+
+<sup>5</sup> Il Consiglio federale può generalizzare la comunicazione di dati non degni di particolare protezione ad autorità o istituzioni, in quanto tali dati siano necessari per l’adempimento dei loro compiti legali. A tale scopo può prevedere una procedura di richiamo.
+
+[^44a-1]: Introdotto dal n. VII 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^44a-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+### Sistemi d’informazione e di documentazione
+
+#### Art. 44b
+
+[^44b-1]
+
+<sup>1</sup> I Cantoni e la SECO gestiscono sistemi d’informazione e di documentazione per l’adempimento dei compiti, conformemente alla presente legge.
+
+<sup>2</sup>
+
+I sistemi d’informazione e di documentazione possono contenere dati degni di particolare protezione concernenti:
+
+- a. lo stato di salute di un singolo lavoratore per quanto concerne gli esami medici, le analisi dei rischi e le perizie previsti dalla presente legge e dalle relative ordinanze;
+- b. i procedimenti amministrativi e penali secondo la presente legge.
+
+<sup>3</sup> Il Consiglio federale determina le categorie dei dati da rilevare e la loro durata di conservazione, il diritto di accesso e di trattamento. Disciplina la collaborazione con gli organi interessati, lo scambio di dati e la sicurezza dei dati.
+
+[^44b-1]: Introdotto dal n. VII 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+
+### 3. Obblighi dei datori di lavoro e dei lavoratori
+
+### Obbligo d’informazione
+
+#### Art. 45
+
+<sup>1</sup> Il datore di lavoro, i suoi lavoratori e le persone, che su mandato del datore di lavoro svolgono compiti in virtù della presente legge, devono fornire alle autorità d’esecuzione e di vigilanza tutte le informazioni che queste necessitano per adempiere i loro compiti.[^45-1]
+
+<sup>2</sup> Il datore di lavoro deve permettere agli organi di esecuzione e di vigilanza l’accesso all’azienda, gli accertamenti e il prelievo di campioni.
+
+[^45-1]: Nuovo testo giusta il n. VII 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+
+### Elenchi e altri atti
+
+#### Art. 46
+
+[^46-1]
+
+Il datore di lavoro deve tenere a disposizione delle autorità d’esecuzione e di vigilanza gli elenchi e gli altri atti, da cui risultano le indicazioni necessarie all’esecuzione della presente legge e delle relative ordinanze. Per il resto sono applicabili le disposizioni della legge federale del 19 giugno 1992[^46-2] sulla protezione dei dati.
+
+[^46-1]: Nuovo testo giusta il n. VII 3 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^46-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### Affissione dell’orario di lavoro e dei permessi concernenti la sua durata
+
+#### Art. 47
+
+[^47-1]
+
+<sup>1</sup>
+
+Il datore di lavoro deve comunicare ai lavoratori, mediante affissione o in un altro modo appropriato:
+
+- a. l’orario di lavoro e le autorizzazioni di lavoro accordate e
+- b. le relative disposizioni di protezione speciale.
+
+<sup>2</sup> L’ordinanza stabilisce quali orari di lavoro devono essere comunicati all’autorità cantonale.
+
+[^47-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Informazione e consultazione dei lavoratori
+
+#### Art. 48
+
+[^48-1]
+
+<sup>1</sup>
+
+I lavoratori o la loro rappresentanza nell’azienda hanno il diritto di essere consultati sulle questioni seguenti:
+
+- a. tutti i casi concernenti la protezione della salute;
+- b. l’organizzazione della durata del lavoro e la pianificazione della griglia oraria;
+- c. i provvedimenti previsti dall’articolo 17*e* in caso di lavoro notturno.
+
+<sup>2</sup> Il diritto di essere consultati comprende quello di essere sentiti su talune questioni e di discuterne, prima che il datore di lavoro prenda una decisione, come anche il diritto alla motivazione della decisione, se quest’ultima non tiene in considerazione, o considera solo parzialmente, le obiezioni dei lavoratori o della loro rappresentanza nell’azienda.
+
+[^48-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+### Domande di permesso
+
+#### Art. 49
+
+<sup>1</sup> Per ottenere un permesso previsto nella legge, il datore di lavoro deve presentare tempestivamente una domanda motivata e corredata degli atti necessari.
+
+<sup>2</sup> Se, a causa d’urgenza, la domanda per un permesso concernente la durata del lavoro non può essere presentata tempestivamente, il datore di lavoro la presenterà il più presto possibile, motivando il ritardo. Nei casi imprevedibili di minima importanza, egli può rinunciare alla presentazione tardiva della domanda.
+
+<sup>3</sup> Per il rilascio dei permessi concernenti la durata del lavoro, può essere riscossa solo una modica tassa di cancelleria.[^49-1]
+
+[^49-1]: Nuovo testo giusta il n. II art. 5 della LF del 25 giu. 1971 sulla revisione dei tit. X e X<sup>bis</sup> CO (Contratto di lavoro), in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+
+### 4. Decisioni e provvedimenti amministrativi
+
+### Decisioni amministrative
+
+#### Art. 50
+
+<sup>1</sup> Le decisioni prese in virtù della legge o di un’ordinanza devono essere comunicate per iscritto. Quelle di rifiuto totale o parziale d’una domanda devono essere motivate e indicare il diritto, i termini e l’autorità di ricorso.
+
+<sup>2</sup> Le decisioni possono essere modificate o abrogate in ogni tempo, se mutano i fatti che le hanno motivate.
+
+### Intervento preliminare in caso d’infrazione
+
+#### Art. 51
+
+<sup>1</sup> In caso d’infrazione alla legge, a una ordinanza o a una decisione, l’autorità cantonale, l’Ispettorato federale del lavoro o il Servizio medico del lavoro rende attento il contravventore e lo richiama al rispetto della norma o della decisione violata.
+
+<sup>2</sup> Se il contravventore non ottempera al richiamo, l’autorità cantonale prende la decisione voluta, sotto comminatoria della pena prevista nell’articolo 292 del Codice penale svizzero[^51-1].
+
+<sup>3</sup> Se una infrazione secondo il capoverso 1 costituisce nel contempo una violazione di un contratto collettivo di lavoro, l’autorità cantonale può considerare, in modo adeguato, i provvedimenti presi dalle parti contraenti per l’applicazione del contratto collettivo.
+
+[^51-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+### Provvedimenti di coercizione amministrativa
+
+#### Art. 52
+
+<sup>1</sup> Se una decisione conforme all’articolo 51 capoverso 2 non é osservata, l’autorità cantonale prende i provvedimenti necessari per ristabilire l’ordine legale.
+
+<sup>2</sup> Se l’inosservanza di una decisione conforme all’articolo 51 capoverso 2 mette gravemente in pericolo la vita o la salute dei lavoratori o il vicinato dell’azienda, l’autorità cantonale può, dopo intimazione scritta, vietare l’uso di locali o d’impianti e, nei casi particolarmente gravi, chiudere l’azienda per un tempo determinato.
+
+### Revoca e rifiuto di permessi concernenti la durata del lavoro
+
+#### Art. 53
+
+<sup>1</sup> Se il datore di lavoro non si conforma a un permesso concernente la durata del lavoro, l’autorità di rilascio può, dopo intimazione scritta e indipendentemente dalla procedura prevista negli articoli 51 e 52, revocargli il permesso e, per quanto é giustificato dalle circostanze, rifiutargli, per un tempo determinato, il rilascio di nuovi permessi.
+
+<sup>2</sup> Se il datore di lavoro abusa della facoltà di ordinare, senza permesso dell’autorità, lavoro straordinario, l’autorità cantonale può togliergli tale facoltà per un tempo determinato.
+
+### Denunce
+
+#### Art. 54
+
+<sup>1</sup> L’autorità competente é tenuta a esaminare le denunce per infrazione alla legge, a un’ordinanza o a una decisione e, se la denuncia é fondata, a procedere conformemente agli articoli 51, 52 e 53.
+
+<sup>2</sup> Se l’autorità competente non interviene o prende provvedimenti insufficienti, l’autorità superiore può essere adita.
+
+### 5. Giurisdizione amministrativa
+
+#### Art. 55
+
+[^55-1]
+
+[^55-1]: Abrogato dall’all. n. 98 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### Ricorso contro le decisioni cantonali
+
+#### Art. 56
+
+<sup>1</sup> Le decisioni dell’autorità cantonale possono essere impugnate davanti all’autorità cantonale di ricorso, entro trenta giorni dalla loro comunicazione.
+
+<sup>2</sup> La decisione sul ricorso, con indicazione dei motivi e dei rimedi di diritto, deve essere comunicata per iscritto al ricorrente e all’autorità che ha emanato la decisione impugnata. Per il rimanente, la procedura é disciplinata dal diritto cantonale.
+
+#### Art. 57
+
+[^57-1]
+
+[^57-1]: Abrogato dall’all. n. 98 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### Diritto di ricorso
+
+#### Art. 58
+
+[^58-1]
+
+Contro le decisioni delle autorità cantonali e federali hanno inoltre diritto di ricorso le associazioni dei datori di lavoro e dei lavoratori interessati.
+
+[^58-1]: Nuovo testo giusta l’all. n. 98 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### 6. Disposizioni penali
+
+### Responsabilità penale del datore di lavoro
+
+#### Art. 59
+
+[^59-1]
+
+<sup>1</sup>
+
+Il datore di lavoro é punibile se viola le prescrizioni in materia di:
+
+- a. protezione della salute nel lavoro e approvazione dei piani, intenzionalmente o per negligenza;
+- b. durata del lavoro e del riposo, intenzionalmente;
+- c. protezione speciale dei giovani o delle donne, intenzionalmente o per negligenza.
+
+<sup>2</sup> É applicabile l’articolo 6 della legge federale del 22 marzo 1974[^59-2] sul diritto penale amministrativo.
+
+[^59-1]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^59-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### Responsabilità penale del lavoratore
+
+#### Art. 60
+
+[^60-1]
+
+<sup>1</sup> Il lavoratore é punibile se viola intenzionalmente le prescrizioni sulla protezione della salute nel lavoro.
+
+<sup>2</sup> Se mette seriamente in pericolo altre persone, é punibile anche la violazione per negligenza.
+
+[^60-1]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+
+### Pene
+
+#### Art. 61
+
+<sup>1</sup> Il datore di lavoro è punito con una pena pecuniaria sino a 180 aliquote giornaliere.[^61-1]
+
+<sup>2</sup> Il lavoratore è punito con la multa.[^61-2]
+
+[^61-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^61-2]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+
+### Codice penale e perseguimento penale
+
+#### Art. 62
+
+<sup>1</sup> Sono riservate le disposizioni speciali del Codice penale svizzero[^62-1].
+
+<sup>2</sup> Il perseguimento penale spetta ai Cantoni.
+
+[^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## VII. Modificazione di leggi federali****
+
+[^lvlVII-1]
+
+[^lvlVII-1]: Le mod. possono essere consultate alla RU**1966** 57.
+
+#### Art. 63
+
+[^63-1]
+
+[^63-1]: Abrogato dal n. II 35 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 64
+
+[^64-1]
+
+[^64-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° ago. 2000 ([RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242); FF **1998** 978).
+
+#### Art. 65
+
+[^65-1]
+
+[^65-1]: Abrogato dal n. II 35 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+#### Art. 66
+
+[^66-1]
+
+[^66-1]: Abrogato dall’art. 28 cpv. 1 della L dell’8 ott. 1971 sulla durata del lavoro, con effetto dal 28 mag. 1972 ([RU 1972 536](https://fedlex.data.admin.ch/eli/oc/1972/604_612_536); [FF 1971 I 279](https://fedlex.data.admin.ch/eli/fga/1971/1_440_455_279)).
+
+#### Art. 67 a 70
+
+[^6770-1]
+
+[^6770-1]: Abrogati dal n. II 35 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+
+## VIII. Disposizioni finali e transitorie
+
+### Riserva del diritto pubblico
+
+#### Art. 71
+
+Sono riservate in particolare:
+
+- a. la legislazione federale sulla formazione professionale, sulla prevenzione degli infortuni e delle malattie professionali e sulla durata del lavoro e del riposo dei conducenti professionali di autoveicoli;
+- b.[^71-1] le prescrizioni federali, cantonali e comunali sui rapporti di lavoro di diritto pubblico; le prescrizioni in materia di protezione della salute e sulla durata del lavoro e del riposo possono tuttavia essere oggetto di deroghe solo nell’interesse dei lavoratori;
+- c. le prescrizioni di polizia federali, cantonali e comunali, segnatamente quelle di polizia edile, del fuoco, sanitaria e delle acque, come anche quelle sul riposo domenicale e sull’orario d’apertura delle aziende di vendita al minuto, dei ristoranti e caffé e delle aziende di spettacolo.
+
+[^71-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° gen. 2005 ([RU 2002 2547](https://fedlex.data.admin.ch/eli/oc/2002/346); [FF 2001 2837](https://fedlex.data.admin.ch/eli/fga/2001/603)[5429](https://fedlex.data.admin.ch/eli/fga/2001/1022)).
+
+### Abrogazione di leggi federali
+
+#### Art. 72
+
+<sup>1</sup>
+
+Con l’entrata in vigore della presente legge, sono abrogate le seguenti leggi federali:
+
+- a. la legge federale del 2 novembre 1898[^72-1] concernente la fabbricazione e la vendita dei fiammiferi;
+- b. la legge federale del 18 giugno 1914[^72-2] sul lavoro nelle fabbriche, riservato il capoverso 2, qui appresso;
+- c. la legge federale del 31 marzo 1922[^72-3] sull’impiego degli adolescenti e delle donne nelle arti e mestieri;
+- d. la legge federale del 26 settembre 1931[^72-4] sul riposo settimanale;
+- e. la legge federale del 24 giugno 1938[^72-5] sull’età minima dei lavoratori.
+
+<sup>2</sup>
+
+Le seguenti disposizioni della legge federale del 18 giugno 1914[^72-6] sul lavoro nelle fabbriche rimangono applicabili alle aziende industriali:
+
+- a.[^72-7] …
+- b. le disposizioni degli articoli 30, 31, 33, 34 e 35 in materia di conciliazione.
+
+[^72-1]: [CS **8** 113]
+[^72-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^72-3]: [CS **8** 200]
+[^72-4]: [CS **8** 121]
+[^72-5]: [CS **8** 211 215]
+[^72-6]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^72-7]: Abrogata dal n. II art. 6 n. 12 della LF del 25 giu. 1971 sulla revisione dei tit. X e X<sup>bis</sup> CO (Contratto di lavoro), con effetto dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+
+### Abrogazione di prescrizioni cantonali
+
+#### Art. 73
+
+<sup>1</sup>
+
+Con l’entrata in vigore della presente legge sono, inoltre, abrogate:
+
+- a. le prescrizioni cantonali concernenti la materia disciplinata dalla medesima;
+- b. le prescrizioni cantonali concernenti le vacanze, riservato il capoverso 2, qui appresso.
+
+<sup>2</sup> Le prescrizioni cantonali prevedenti vacanze più lunghe di quelle stabilite nell’articolo 341<sup>bis</sup> capoverso 1 del Codice delle obbligazioni[^73-1] rimangono in vigore come disposizioni di diritto civile nell’ambito del capoverso 2 del predetto articolo.
+
+<sup>3</sup> Sono riservate le prescrizioni cantonali sulla visita medica dei giovani, nella misura in cui la Confederazione non usa della competenza conferitale nell’articolo 29 capoverso 4.
+
+<sup>4</sup> …[^73-2]
+
+[^73-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). All’art. 341<sup>bis</sup> cpv. 1 e 2, nel testo della presente L ([RU 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 64), corrisponde ora l’art, 329*a* cpv. 1, nel testo del 16 dic. 1983.
+[^73-2]: Abrogato dal n. II 408 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+
+### Entrata in vigore
+
+#### Art. 74
+
+<sup>1</sup> Il Consiglio federale stabilisce la data dell’entrata in vigore della legge. Esso può differire l’entrata in vigore di singole parti o disposizioni.
+
+<sup>2</sup> Il Consiglio federale, se non mette simultaneamente in vigore tutte le disposizioni della legge, determina con l’entrata in vigore delle singole disposizioni se e in quale misura sono abrogate le leggi federali indicate nell’articolo 72 capoverso 1.
+
+Data dell’entrata in vigore: 1° febbraio 1966[^74-1]
+
+[^74-1]: DCF del 14 gen. 1966.
+
+## Disposizione finale della modifica del 20 marzo 1998****
+
+[^u1-1]
+
+[^u1-1]: [RU 2000 1569](https://fedlex.data.admin.ch/eli/oc/2000/242). Abrogate dal n. II 35 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).

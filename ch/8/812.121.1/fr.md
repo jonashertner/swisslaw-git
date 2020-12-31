@@ -1,0 +1,1197 @@
+---
+sr: "812.121.1"
+title: Ordonnance du 25 mai 2011 sur le contrôle des stupéfiants (OCStup)
+short: OCStup
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
+language: fr
+version: 2013-01-01
+adopted: 2011-05-25
+in_force: 2011-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20130101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20130101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le contrôle des stupéfiants
+
+(OCStup)
+
+du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2013)
+
+Le Conseil fédéral suisse,
+
+vu les art. 3, al. 1 et 2, 9, al. 3, et 30, al. 1 et 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+
+## Chapitre 1 Dispositions générales
+
+### Section 1 Objet et champ d’application
+
+#### Art. 1
+
+**Objet et champ d’application**
+
+<sup>1</sup> La présente ordonnance régit l’autorisation et le contrôle des stupéfiants, des substances psychotropes, des précurseurs et des adjuvants chimiques définis à l’art. 2 LStup ainsi que les matières premières et les produits ayant un effet similaire à celui des substances et des préparations au sens de l’art. 7 LStup.
+
+<sup>2</sup> Elle régit l’importation, l’exportation, le transit et le commerce de substances soumises à contrôle. Elle assure la disponibilité des substances soumises à contrôle à des fins médicales et pour la recherche.
+
+<sup>3</sup> Elle s’applique également aux personnes et aux entreprises ayant leur siège en Suisse qui font le commerce à l’étranger de substances soumises à contrôle.
+
+#### Art. 2
+
+**Définitions**
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *transit:* passage de marchandises à travers le territoire douanier;
+- b. *commerce:* entremise rémunérée de substances soumises à contrôle à des personnes autorisées, y compris les activités des courtiers et des agents;
+- c. *fabrication:* toutes les étapes allant de l’extraction à la livraison du produit fini, en passant par la production, la préparation, le traitement, le nettoyage, la transformation, le conditionnement et l’entreposage, ainsi que les contrôles de qualité et la libération des lots;
+- d. *personnes exerçant une profession médicale:* médecins, médecins-dentistes, médecins-vétérinaires et pharmaciens;
+- e. *hôpital:* établissement hospitalier au sens de la LStup;
+- f. *entreprise:* maison au sens de la LStup;
+- g. *prescription:* établissement d’une ordonnance destinée à des patients ou à des détenteurs d’animaux afin de leur permettre de se procurer des médicaments contenant des substances soumises à contrôle. Cette définition correspond à ce que la LStup entend par *prescrire*;
+- h. *substances soumises à contrôle:* stupéfiants, substances psychotropes, précurseurs et adjuvants chimiques définis à l’art. 2 LStup ainsi que matières premières et produits ayant un effet supposé similaire à celui des substances et des préparations au sens de l’art. 7 LStup;
+- i. *pays cible:* pays figurant dans le tableau g.
+
+#### Art. 3
+
+**Tableaux des substances soumises à contrôle**
+
+<sup>1</sup> Le Département fédéral de l’intérieur (DFI) désigne les substances soumises à contrôle et détermine les mesures de contrôle auxquelles elles sont soumises.
+
+<sup>2</sup>
+
+A cet effet, il établit les tableaux suivants:
+
+- a. tableau a: substances soumises à contrôle soumises à toutes les mesures de contrôle;
+- b. tableau b: substances soumises à contrôle soustraites partiellement aux mesures de contrôle;
+- c. tableau c: substances soumises à contrôle pouvant exister en concentration réduite dans des préparations et pouvant être soustraites partiellement aux mesures de contrôle;
+- d. tableau d: substances soumises à contrôle qui sont prohibées;
+- e. tableau e: matières premières et produits ayant un effet supposé similaire à celui des substances et des préparations au sens de l’art. 7, al. 1, LStup et soumis aux mesures de contrôle des stupéfiants figurant dans le tableau a;
+- f. tableau f: précurseurs avec mention de la quantité qui implique un contrôle au sens de la présente ordonnance;
+- g. tableau g: adjuvants chimiques avec mention des pays cibles et de la quantité qui implique un contrôle au sens de la présente ordonnance.
+
+<sup>3</sup> Il fixe la quantité à partir de laquelle les précurseurs sont soumis au contrôle. Il fixe également la quantité à partir de laquelle les adjuvants chimiques sont soumis au contrôle lorsqu’ils sont destinés à un pays cible déterminé.
+
+<sup>4</sup> Le nom des substances soumises à contrôle figurant dans les tableaux a, b et d est accompagné de leur code article international (*Global Trade Identification Number, GTIN*).
+
+<sup>5</sup> Lors de la détermination du pays cible, le DFI prend en compte les demandes selon l’art. 12, par. 10, de la Convention des Nations Unies du 20 décembre 1988 contre le trafic illicite de stupéfiants et de substances psychotropes[^3-1] et les réglementations des principaux partenaires commerciaux de la Suisse.
+
+[^3-1]: [RS 0.812.121.03](https://fedlex.data.admin.ch/eli/cc/2006/76)
+
+#### Art. 4
+
+**Exceptions au champ d’application et aux dispositions particulières**
+
+<sup>1</sup>
+
+Les dispositions de la présente ordonnance ne s’appliquent pas:
+
+- a. aux préparations homéopathiques contenant des substances soumises à contrôle mais dont la dilution est supérieure à D8/C4;
+- b. aux précurseurs et aux adjuvants chimiques intégrés dans des préparations pharmaceutiques ou dans des mélanges dont ils ne peuvent être extraits par des moyens simples.
+
+<sup>2</sup> La présente ordonnance ne s’applique pas à l’acquisition ou à l’utilisation par des autorités ou par leurs mandataires directs de petites quantités de substances soumises à contrôle à des fins analytiques.
+
+<sup>3</sup> Le chap. 6 (contrôle) de la présente ordonnance ne s’applique pas à l’acquisition ou à l’utilisation de substances soumises à contrôle en solution et dans des concentrations inférieures ou égales à 1 mg pour 1 ml à des fins analytiques.
+
+<sup>4</sup> Les adjuvants chimiques sont régis uniquement par les dispositions de l’art. 10 ainsi que, dans la mesure où elles portent sur l’exportation, par les dispositions du chap. 3 et de l’art. 57, al. 2.[^4-1]
+
+<sup>5</sup> Le DFI peut prévoir un contrôle réduit pour certaines substances soumises à contrôle lorsque cela est nécessaire pour ne pas entraver excessivement leur commerce légal. L’étendue des contrôles est réglementée dans les tableaux correspondants.
+
+[^4-1]: [RO 2011 3715](https://fedlex.data.admin.ch/eli/oc/2011/520)
+
+### Section 2 Autorités compétentes en matière d’autorisation
+
+#### Art. 5
+
+**Autorisation d’exploitation**
+
+<sup>1</sup>
+
+L’autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans les tableaux a, b, c et f et des médicaments autorisés contenant des substances soumises à contrôle figurant dans le tableau d est délivrée:
+
+- a. aux personnes et aux entreprises, y compris aux courtiers et aux agents, et à la pharmacie de l’armée: par l’Institut suisse des produits thérapeutiques (institut);
+- b. aux pharmacies, aux hôpitaux, aux instituts scientifiques ainsi qu’aux autorités cantonales et communales: par le canton.
+
+<sup>2</sup> L’autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau e est délivrée par le DFI.
+
+#### Art. 6
+
+**Autorisation pour le traitement avec prescription de diacétylmorphine**
+
+L’autorisation pour le traitement avec prescription de diacétylmorphine est délivrée par l’Office fédéral de la santé publique (OFSP).
+
+#### Art. 7
+
+**Autorisation d’importation ou d’exportation**
+
+Les autorisations d’importation et les autorisations d’exportation sont délivrées par l’institut.
+
+#### Art. 8
+
+**Autorisations exceptionnelles permettant d’utiliser des substances soumises à contrôle figurant dans le tableau d**
+
+L’OFSP peut délivrer des autorisations exceptionnelles permettant d’utiliser des substances soumises à contrôle figurant dans le tableau d.
+
+#### Art. 9
+
+**Autorisations accordées à des organisations nationales ou internationales et à des autorités visées à l’art. 14*a*, al. 1, LStup**
+
+Les autorisations accordées à des organisations nationales ou internationales et à des autorités visées à l’art. 14*a*, al. 1, LStup sont délivrées par le Conseil fédéral.
+
+### Section 3 Devoir de diligence
+
+#### Art. 10
+
+<sup>1</sup> Quiconque cultive, fabrique ou remet de substances soumises à contrôle, ou en fait le commerce, doit s’assurer à chaque transmission que le destinataire est autorisé à se les procurer.
+
+<sup>2</sup> Les autorités compétentes de la Confédération et des cantons ainsi que les associations professionnelles ou faîtières informent les personnes autorisées à fabriquer et à remettre des substances soumises à contrôle ou à en faire le commerce de l’existence d’éventuels abus et les conseillent dans leurs investigations en cas de soupçon.
+
+<sup>3</sup> Si des circonstances font présumer l’existence d’un abus, les personnes responsables procèdent aux investigations nécessaires, le cas échéant avec le concours de l’association professionnelle ou faîtière concernée ou de la personne ayant prescrit le produit, et informent immédiatement l’autorité de contrôle compétente. En pareil cas, la substance soumise à contrôle ne peut être transmise que si les investigations font apparaître que le soupçon est infondé.
+
+<sup>4</sup> En cas de soupçon fondé d’un abus important, les autorités cantonales informent immédiatement l’institut. Celui-ci rassemble les informations et les transmet à l’Office central de lutte contre le trafic illicite des stupéfiants, qui fait partie de l’Office fédéral de la police, (art. 29*b* LStup) et à l’OFSP.
+
+## Chapitre 2 Autorisations d’exploitation ou de culture
+
+### Section 1 Dispositions générales
+
+#### Art. 11
+
+**Régime de l’autorisation**
+
+<sup>1</sup> Quiconque veut fabriquer, se procurer, négocier, importer, exporter ou remettre des substances soumises à contrôle, à l’exception des adjuvants chimiques, ou en faire le commerce doit obtenir préalablement une autorisation d’exploitation.
+
+<sup>2</sup> Quiconque veut cultiver des plantes ou des champignons qui contiennent des substances soumises à contrôle doit obtenir une autorisation de culture.
+
+<sup>3</sup> Les personnes exerçant une profession médicale n’ont pas besoin d’une autorisation d’exploitation en plus de leur autorisation d’exercer.
+
+<sup>4</sup> Les pharmacies n’ont pas besoin d’une autorisation d’exploitation de l’institut pour des actes exceptionnels de distribution de médicaments qui contiennent des substances soumises à contrôle. S’il y a plus de neuf livraisons par année civile, une autorisation d’exploitation est nécessaire.
+
+#### Art. 12
+
+**Conditions**
+
+<sup>1</sup>
+
+Une autorisation d’exploitation est délivrée si la personne ou l’entreprise requérante:
+
+- a. est inscrite au registre principal du registre du commerce;
+- b. garantit que l’entreposage des substances soumises à contrôle est conforme à l’art. 54, et
+- c. désigne une personne responsable des substances soumises à contrôle, à qui il incombe de veiller au respect des dispositions de la législation sur les stupéfiants.
+
+<sup>2</sup>
+
+Une inscription au registre du commerce n’est pas demandée pour:
+
+- a. la pharmacie de l’armée;
+- b. les autorités;
+- c. les hautes écoles;
+- d. les organisations des Nations Unies.
+
+<sup>3</sup> Les autorisations requises pour les traitements basés sur des stupéfiants sont régies par l’ordonnance du 25 mai 2011 relative à l’addiction aux stupéfiants (OAStup)[^12-1].
+
+[^12-1]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+
+#### Art. 13
+
+**Exigences imposées à la personne responsable**
+
+<sup>1</sup>
+
+La personne responsable doit:
+
+- a. exercer une profession médicale ou être titulaire d’un diplôme d’une haute école en sciences naturelles;
+- b. définir par contrat écrit avec le requérant la responsabilité et le temps de présence requis, dans la mesure où elle n’est pas elle-même requérante, et
+- c. être en mesure d’exercer son activité professionnelle sous sa propre responsabilité.
+
+<sup>2</sup> L’autorité compétente peut autoriser comme personnes responsables les titulaires d’un diplôme équivalent délivré par une haute école étrangère pour les professions citées et pour lesquels il a été établi qu’ils possèdent les connaissances requises.
+
+<sup>3</sup> Si l’autorisation d’exploitation ne porte que sur des substances soumises à contrôle figurant dans le tableau f (précurseurs), l’institut peut autoriser comme personnes responsables les titulaires d’un diplôme délivré par une haute école spécialisée ou une école supérieure dans le domaine des sciences naturelles et pour lesquels il a été établi qu’ils possèdent les connaissances requises.
+
+#### Art. 14
+
+**Autorisation de culture**
+
+<sup>1</sup>
+
+Quiconque veut cultiver des plantes ou des champignons qui contiennent des substances soumises à contrôle obtient une autorisation de culture:
+
+- a. s’il est titulaire d’une autorisation d’exploitation, ou
+- b. s’il agit sur mandat d’un titulaire d’une autorisation d’exploitation.
+
+<sup>2</sup> Le requérant doit par ailleurs prouver qu’il dispose d’un système offrant une protection suffisante contre le vol.
+
+<sup>3</sup> Le contrat visé à l’al. 1, let. b, doit être écrit, contenir des indications précises sur la nature et l’étendue de la culture et faire état de l’engagement du mandant à acheter la totalité de la récolte du mandataire.
+
+<sup>4</sup> Si la culture est pratiquée directement par une personne ou une entreprise titulaire d’une autorisation d’exploitation délivrée par l’institut, cette activité peut être mentionnée dans ladite autorisation.
+
+### Section 2 Demande
+
+#### Art. 15
+
+<sup>1</sup>
+
+Les indications suivantes doivent figurer dans la demande d’autorisation:
+
+- a. le nom et le prénom ou, pour les personnes morales, la raison sociale selon le registre du commerce ainsi que le nom, le prénom, la date de naissance et la fonction de la personne responsable des substances soumises à contrôle;
+- b. le domicile ou le siège social ainsi que les lieux d’exploitation (adresses);
+- c. l’énumération des substances soumises à contrôle sur lesquelles porte la demande;
+- d. la nature de l’activité pour laquelle une autorisation est demandée, et
+- e. le lieu éventuel de la culture et de l’entreposage (y compris entrepôt douanier et dépôt franc sous douane).
+
+<sup>2</sup>
+
+Les documents suivants doivent être joints à la demande d’autorisation:
+
+- a. un extrait récent et complet du registre du commerce;
+- b. un extrait du casier judiciaire de la personne responsable, ne datant pas de plus de six mois;
+- c. les diplômes obtenus et les pièces attestant la carrière professionnelle de la personne responsable.
+
+### Section 3 Effet et durée de validité
+
+#### Art. 16
+
+**Effet de l’autorisation d’exploitation**
+
+L’autorisation d’exploitation habilite son titulaire à remettre et à distribuer des substances soumises à contrôle:
+
+- a. aux personnes et aux entreprises titulaires d’une autorisation visée à l’art. 4, al. 1, LStup ou d’une autorisation exceptionnelle visée à l’art. 8, al. 5 à 8, LStup;
+- b. au dirigeant responsable d’une pharmacie ou d’une pharmacie d’hôpital;
+- c. à la personne responsable dans un hôpital titulaire d’une autorisation visée à l’art. 14, al. 1, LStup;
+- d. aux personnes exerçant une profession médicale habilitées à utiliser des substances soumises à contrôle;
+- e. à la personne responsable dans un institut scientifique titulaire d’une autorisation visée à l’art. 14, al. 2, LStup;
+- f. à la personne responsable dans une organisation nationale ou internationale titulaire d’une autorisation visée à l’art 14*a,* al. 1, LStup;
+- g. à la personne responsable au sein d’une autorité de la Confédération, d’un canton ou d’une commune titulaire d’une autorisation visée à l’art. 14*a*, al. 1 ou 1<sup>bis</sup>, LStup.
+
+#### Art. 17
+
+**Portée**
+
+<sup>1</sup> L’autorisation d’exploitation ou de culture est établie au nom du requérant ainsi qu’au nom de la personne responsable.
+
+<sup>2</sup> L’autorisation d’exploitation vaut pour les substances soumises à contrôle ou les tableaux visés à l’art. 3 qui sont indiqués dans l’autorisation.
+
+#### Art. 18
+
+**Durée de validité**
+
+<sup>1</sup> La durée de validité d’une autorisation est de cinq ans au maximum.
+
+<sup>2</sup> Elle peut, sur demande, être renouvelée pour cinq ans. La demande de renouvellement est à présenter au plus tard six mois avant l’expiration de l’autorisation en cours.
+
+<sup>3</sup> Une inspection peut être effectuée avant l’octroi ou avant le renouvellement d’une autorisation.
+
+<sup>4</sup> Les autorités des cantons peuvent prévoir une durée de validité différente dans leur domaine de compétence.
+
+### Section 4 Modifications, extinction et retrait
+
+#### Art. 19
+
+**Notification de modifications**
+
+Le titulaire d’une autorisation d’exploitation ou de culture doit notifier immédiatement à l’autorité compétente toute modification des conditions ayant justifié l’octroi de l’autorisation.
+
+#### Art. 20
+
+**Retrait**
+
+<sup>1</sup>
+
+L’autorité compétente retire l’autorisation temporairement ou définitivement:
+
+- a. si le titulaire de l’autorisation ou la personne responsable a commis une infraction intentionnelle ou des infractions répétées par négligence à la LStup ou aux ordonnances y relatives;
+- b. à la demande du titulaire de l’autorisation.
+
+<sup>2</sup> Elle peut la retirer à tout moment sur la base des art. 6 et 14*a*, al. 2, LStup.
+
+#### Art. 21
+
+**Procédure en cas d’extinction ou de retrait**
+
+<sup>1</sup> En cas d’extinction ou de retrait d’une autorisation, l’autorité compétente surveille la cessation des activités en lien avec la culture ou l’entreposage des substances soumises à contrôle ainsi que leur transmission à des titulaires d’une autorisation d’exploitation et, si nécessaire, ordonne la destruction des substances soumises à contrôle.
+
+<sup>2</sup> Toute décision judiciaire relative à la confiscation de stupéfiants est réservée.
+
+#### Art. 22
+
+**Suspension**
+
+Lorsqu’un requérant fait l’objet d’une enquête pour infraction aux dispositions de la présente ordonnance, l’institut ou l’autorité cantonale compétente peut suspendre la procédure d’autorisation jusqu’au jugement final.
+
+## Chapitre 3 Importation, transit, exportation, commerce international
+
+### Section 1 Dispositions générales
+
+#### Art. 23
+
+**Régime de l’autorisation**
+
+<sup>1</sup> Quiconque veut importer ou exporter des substances soumises à contrôle doit obtenir une autorisation d’importation ou d’exportation.
+
+<sup>2</sup> Une autorisation d’importation ou d’exportation n’est pas requise:
+
+a. pour les substances soumises à contrôle contenues dans des préparations figurant dans le tableau c;
+
+b. pour les substances soumises à contrôle qui doivent être importées ou exportées en solution dans des concentrations inférieures ou égales à 1 mg pour 1 ml à des fins analytiques.
+
+<sup>3</sup> Pour les adjuvants chimiques figurant dans le tableau g, une autorisation d’exportation est requise uniquement pour les pays cibles.
+
+<sup>4</sup> L’institut met à disposition les formulaires de demande requis pour obtenir une autorisation d’importation ou d’exportation.
+
+#### Art. 24
+
+**Condition d’octroi d’une autorisation**
+
+<sup>1</sup>
+
+L’institut ne délivre l’autorisation d’importation ou d’exportation qu’à un requérant titulaire de l’une des autorisations suivantes:
+
+- a. autorisation délivrée par le Conseil fédéral selon l’art. 14*a,* al. 1, LStup;
+- b. autorisation délivrée par le DFI selon l’art. 7, al. 1, LStup;
+- c. autorisation exceptionnelle délivrée par l’OFSP selon l’art. 8, al. 5, 6 et 8, LStup;
+- d. autorisation délivrée par l’institut selon l’art. 4 LStup et l’art. 5 de la présente ordonnance;
+- e. autorisation délivrée par le canton selon les art. 14 et 14*a*, al. 1<sup>bis</sup>, LStup.
+
+<sup>2</sup>
+
+Dans certains cas, l’institut peut délivrer une autorisation d’importation ou d’exportation aux:
+
+- a. pharmaciens;
+- b. médecins;
+- c. médecins-vétérinaires;
+- d. organisations nationales ou internationales dans le cadre de l’aide humanitaire d’urgence.
+
+#### Art. 25
+
+**Portée de l’autorisation**
+
+<sup>1</sup> L’autorisation est délivrée pour une seule importation ou exportation.
+
+<sup>2</sup>
+
+L’institut peut délivrer des autorisations générales d’importation ou d’exportation pour les substances soumises à contrôle figurant dans les tableaux b, f et g pour autant:
+
+- a. que cette délivrance soit compatible avec les dispositions des accords internationaux ratifiés par la Suisse, et
+- b. que le pays de provenance ou de destination accepte ces autorisations.
+
+<sup>3</sup> L’autorisation générale d’importation ou d’exportation est délivrée pour une quantité maximale déterminée et n’est valable que dans le cadre des transactions entre un fournisseur donné et un destinataire donné.
+
+<sup>4</sup> Les autorisations d’importation ou d’exportation non utilisées doivent être retournées sans délai à l’institut à l’expiration de leur durée de validité.
+
+#### Art. 26
+
+**Transmissibilité**
+
+L’autorisation d’importation ou d’exportation n’est pas transmissible.
+
+#### Art. 27
+
+**Trousse d’urgence**
+
+En cas d’urgence, les médecins, les services de sauvetage dirigés par un médecin et les médecins-vétérinaires peuvent, sans autorisation, importer ou, si les autorités compétentes des pays concernés le permettent, exporter une petite quantité de médicaments contenant des substances soumises à contrôle destinés à un usage médical.
+
+#### Art. 28
+
+**Suspension**
+
+La suspension d’autres autorisations est régie par l’art. 22.
+
+### Section 2 Importation
+
+#### Art. 29
+
+**Durée de validité de l’autorisation d’importation**
+
+L’autorisation unique d’importation est valable quatre mois au plus, l’autorisation générale d’importation jusqu’à la fin de l’année civile en cours.
+
+#### Art. 30
+
+**Obligation de notification**
+
+<sup>1</sup> Le titulaire d’une autorisation unique d’importation est tenu de notifier par écrit à l’institut, dans un délai de dix jours ouvrables au plus, la réception de la substance soumise à contrôle. La notification doit inclure la quantité reçue, la date d’importation et le numéro de l’autorisation d’importation délivrée par l’institut.
+
+<sup>2</sup> Le titulaire d’une autorisation générale d’importation est tenu de notifier à l’institut, au plus tard dans les dix jours ouvrables qui suivent la fin de l’année civile, la quantité annuelle de substances soumises à contrôle qu’il a importée.
+
+#### Art. 31
+
+**Etablissement des autorisations d’importation**
+
+<sup>1</sup> L’institut délivre au requérant autant d’exemplaires de l’autorisation unique ou générale d’importation que nécessaire pour lui permettre d’attester son droit d’importation auprès du bureau de douane et de l’autorité compétente du pays d’exportation.
+
+<sup>2</sup> Il informe l’autorité compétente du pays d’exportation en lui adressant un exemplaire de l’autorisation d’importation.
+
+### Section 3 Exportation
+
+#### Art. 32
+
+**Conditions d’octroi d’une autorisation**
+
+<sup>1</sup> L’autorisation d’exportation n’est délivrée que si le requérant présente l’autorisation d’importation du pays de destination.
+
+<sup>2</sup> Seule la preuve de l’importation autorisée doit être apportée pour l’autorisation d’exportation d’adjuvants chimiques figurant dans le tableau g.
+
+<sup>3</sup> L’institut peut délivrer une autorisation d’exportation pour des urgences humanitaires même en l’absence d’autorisation d’importation.
+
+<sup>4</sup> Dans le cas d’urgences humanitaires, l’autorisation d’exportation peut exceptionnellement être demandée dans les trois jours ouvrables suivant l’exportation.
+
+#### Art. 33
+
+**Durée de validité**
+
+<sup>1</sup> L’autorisation unique d’exportation est valable quatre mois au plus, l’autorisation générale d’exportation jusqu’à la fin de l’année civile en cours.
+
+<sup>2</sup> La durée de validité de l’autorisation unique ou générale d’exportation ne peut excéder celle de l’autorisation d’importation du pays de destination.
+
+#### Art. 34
+
+**Obligation de notification**
+
+<sup>1</sup> Le titulaire d’une autorisation unique d’exportation est tenu de notifier par écrit à l’institut, dans un délai de dix jours ouvrables au plus, l’expédition de la substance soumise à contrôle. La notification doit inclure la quantité exportée, la date d’exportation et le numéro de l’autorisation d’exportation délivrée par l’institut.
+
+<sup>2</sup> Le titulaire d’une autorisation générale d’exportation est tenu de notifier à l’institut, au plus tard dans les dix jours ouvrables qui suivent la fin de l’année civile, la quantité annuelle de substances soumises à contrôle qu’il a exportée.
+
+#### Art. 35
+
+**Etablissement de l’autorisation d’exportation**
+
+<sup>1</sup> L’institut délivre au requérant autant d’exemplaires de l’autorisation d’exportation que nécessaire pour lui permettre d’attester son droit d’exportation auprès du bureau de douane.
+
+<sup>2</sup> Il informe l’autorité compétente du pays de destination en lui adressant un exemplaire de l’autorisation d’exportation.
+
+### Section 4 Transit
+
+#### Art. 36
+
+<sup>1</sup> Le transit des substances soumises à contrôle est admis si le transporteur peut prouver que l’expédition vers le pays de destination est conforme aux prescriptions du pays d’origine.
+
+<sup>2</sup> La preuve de la conformité légale de l’expédition vers le pays de destination doit être apportée lors de l’entrée de la marchandise sur le territoire douanier suisse. Dans les cas justifiés, un délai supplémentaire peut être accordé.
+
+<sup>3</sup> Si la preuve ne peut pas être apportée, la marchandise est retenue en application de l’art. 39.
+
+### Section 5 Autorités douanières
+
+#### Art. 37
+
+**Point de passage pour l’importation, l’exportation et le transit**
+
+L’importation, l’exportation et le transit de substances soumises à contrôle doivent être effectués par les bureaux de douane désignés par l’administration des douanes.
+
+#### Art. 38
+
+**Dédouanement**
+
+<sup>1</sup> Le bureau de douane communique à l’institut toute importation et toute exportation de substances soumises à contrôle.
+
+<sup>2</sup> Lors de l’importation sur la base d’une autorisation unique, il confirme l’importation sur l’exemplaire de l’autorisation qui accompagne la marchandise et transmet celui-ci au titulaire de l’autorisation avec la marchandise.
+
+#### Art. 39
+
+**Contrôle par le bureau de douane**
+
+<sup>1</sup> Les bureaux de douane retiennent les envois contenant des substances soumises à contrôle qui ne sont pas munis d’une autorisation d’importation ou d’exportation et les notifient à l’institut. Cette règle ne s’applique pas aux envois visés à l’art. 32, al. 3 et 4.
+
+<sup>2</sup> L’institut établit si une autorisation d’importation ou une autorisation d’exportation a été délivrée ou si les conditions visées à l’art. 32, al. 4, pour une demande postérieure sont remplies.
+
+<sup>3</sup> Si une autorisation valable a été délivrée mais qu’aucun exemplaire n’a été joint à la marchandise, un délai est accordé au transporteur pour la produire. Si l’autorisation est produite, la marchandise peut être libérée.
+
+<sup>2</sup> Si un envoi retenu par le bureau de douane ne peut pas être libéré, l’institut statue sur la saisie, l’utilisation et l’élimination de la marchandise selon l’art. 70 et en informe l’autorité cantonale compétente.
+
+#### Art. 40
+
+**Saisie de substances soumises à contrôle**
+
+<sup>1</sup> L’Office fédéral de la police établit une attestation d’utilisation conforme pour l’exportation ou l’importation de substances soumises à contrôle qui ont été saisies.
+
+<sup>2</sup> L’Office central de lutte contre le trafic illicite des stupéfiants est habilité, sur demande, à autoriser et à organiser la circulation d’échantillons saisis dans le cadre d’une enquête menée avec un pays étranger. A cet effet, il utilise le formulaire d’Interpol pour l’approbation d’un envoi international de drogues saisies. L’office central reçoit un accusé de réception du service de contrôle.
+
+<sup>3</sup> L’office central détermine les indications que doivent livrer les laboratoirescertifiés qui analysent des substances soumises à contrôle.
+
+### Section 6 Voyageurs malades
+
+#### Art. 41
+
+**Importation**
+
+<sup>1</sup> Les voyageurs malades peuvent importer en Suisse, sans autorisation d’importation, la quantité de médicaments contenant des substances soumises à contrôle, hormis des substances du tableau d, nécessaire à leur traitement pour une durée maximale de 30 jours.
+
+<sup>2</sup> Si leur séjour se prolonge au-delà de 30 jours, ils doivent se rendre chez un médecin autorisé à exercer en Suisse pour se faire prescrire les médicaments nécessaires.
+
+#### Art. 42
+
+**Exportation**
+
+<sup>1</sup> Les voyageurs malades peuvent exporter de Suisse, sans autorisation d’exportation, la quantité de médicaments contenant des substances soumises à contrôle, hormis des substances du tableau d, nécessaire à leur traitement pour une durée maximale de 30 jours, si le pays de destination le permet.
+
+<sup>2</sup> Les voyageurs malades se rendant dans un Etat lié par un des accords d’association à Schengen ont le droit d’obtenir de leur médecin traitant un certificat attestant le traitement prescrit. Les accords d’association à Schengen sont énumérés à l’annexe 1.
+
+<sup>3</sup> Le certificat doit être authentifié par le pharmacien qui remet le médicament contenant des substances soumises à contrôle sur ordonnance médicale. Le pharmacien remet immédiatement une copie du certificat authentifié à l’autorité compétente du canton dans lequel le traitement médical a lieu.
+
+<sup>4</sup> Si le médecin traitant est reconnu comme propharmacien selon le droit cantonal et s’il remet lui-même les médicaments prescrits, il remplit entièrement le certificat et en remet immédiatement une copie à l’autorité cantonale compétente.
+
+<sup>5</sup> Le certificat est valable 30 jours au maximum. Un certificat doit être établi pour chaque médicament prescrit contenant des substances soumises à contrôle. Les médicaments contenant des substances soumises à contrôle qui figurent dans le tableau c ne nécessitent pas l’établissement d’un certificat.
+
+<sup>6</sup> L’institut met à disposition, sous forme électronique, le formulaire officiel correspondant au modèle présenté à l’annexe 2.
+
+#### Art. 43
+
+**Centre d’information**
+
+<sup>1</sup> L’institut remplit la fonction de centre d’information international et répond aux questions portant sur l’importation et l’exportation, par des voyageurs malades, de médicaments contenant des substances soumises à contrôle.
+
+<sup>2</sup> Si certains cas particuliers l’exigent, l’institut peut transmettre à l’autorité cantonale compétente, pour examen complémentaire, les demandes des autorités étrangères concernant les certificats visés à l’art. 42. Dans ce cas, l’autorité cantonale compétente fournit directement les informations nécessaires au service étranger qui en a fait la demande.
+
+<sup>3</sup> Au début de l’année, le service cantonal compétent communique à l’institut le nombre de certificats établis durant l’année précédente.
+
+## Chapitre 4 Acquisition et utilisation de stupéfiants par les personnes exerçant une profession médicale, par les hôpitaux, par les instituts, par les organisations et par les autorités
+
+### Section 1 Médecins, médecins-vétérinaires et médecins-dentistes
+
+#### Art. 44
+
+**Acquisition de médicaments contenant des substances soumises à contrôle**
+
+<sup>1</sup> Les médecins, les médecins-dentistes et les médecins-vétérinaires qui exercent leur profession sous leur propre responsabilité peuvent se procurer des médicaments contenant des substances soumises à contrôle auprès d’une pharmacie ou auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation. L’art. 11, al. 4, s’applique à la distribution au cas par cas de médicaments contenant des substances soumises à contrôle.
+
+<sup>2</sup> Ils doivent munir leur commande du *Global Location Nu**m**ber* (GLN) et de leur timbre de médecin.
+
+<sup>3</sup> Ils sont tenus de commander par écrit les médicaments contenant des substances soumises à contrôle figurant dans les tableaux a et d.
+
+<sup>4</sup> Ils sont responsables de la conservation correcte des médicaments contenant des substances soumises à contrôle et doivent documenter leur utilisation.
+
+<sup>5</sup>
+
+Dans les cabinets de groupe et les services de sauvetage, seules les personnes exerçant une profession médicale peuvent commander des médicaments contenant des substances soumises à contrôle. La commande groupée doit contenir:
+
+- a. le nom et l’adresse du cabinet de groupe ou du service de sauvetage;
+- b. le nom et la signature de la personne exerçant une profession médicale qui effectue la commande;
+- c. la date à laquelle la commande a été établie;
+- d. le nom du médicament, son dosage et sa forme galénique;
+- e. la quantité.
+
+#### Art. 45
+
+**Restrictions**
+
+<sup>1</sup> Les médecins, les médecins-dentistes et les médecins-vétérinaires qui n’exercent pas leur profession sous leur propre responsabilité ne peuvent se procurer et utiliser des médicaments contenant des substances soumises à contrôle que dans les limites de la compétence inhérente à leur fonction et sous le contrôle d’un confrère autorisé (art. 9, al. 1, LStup).
+
+<sup>2</sup> S’agissant des médecins et des médecins-vétérinaires, cette restriction s’applique également à la prescription.
+
+#### Art. 46
+
+**Prescription à des patients**
+
+<sup>1</sup> Les médecins ne peuvent prescrire des médicaments contenant des substances soumises à contrôle qu’aux patients qu’ils ont examinés eux-mêmes.
+
+<sup>2</sup> La prescription de substances soumises à contrôle figurant dans les tableaux a et d ne peut être effectuée qu’au moyen de l’ordonnance de stupéfiants prévue à cet effet.
+
+<sup>3</sup> La prescription de médicaments contenant des substances soumises à contrôle figurant dans les tableaux b et c peut être effectuée au moyen de formules d’ordonnances ordinaires.
+
+#### Art. 47
+
+**Ordonnance de stupéfiants**
+
+<sup>1</sup>
+
+L’ordonnance de stupéfiants doit contenir:
+
+- a. le nom, l’adresse, la signature et le timbre du médecin prescripteur;
+- b. le nom, le prénom, la date de naissance et l’adresse du patient;
+- c. la date à laquelle l’ordonnance a été établie;
+- d. le nom du médicament contenant des substances soumises à contrôle, sa forme galénique et son dosage;
+- e. la quantité;
+- f. la posologie.
+
+<sup>2</sup> L’ordonnance de stupéfiants est valable un mois.
+
+<sup>3</sup> La quantité de stupéfiants prescrite ne doit pas dépasser le besoin nécessaire à un traitement d’une durée d’un mois. Si les circonstances le justifient, il est possible de prescrire une quantité destinée à couvrir un traitement de trois mois au maximum. En pareil cas, le médecin prescripteur doit indiquer sur l’ordonnance la durée précise du traitement.
+
+<sup>4</sup> L’ordonnance de stupéfiants doit être signée par le médecin prescripteur; une copie doit être conservée dans le dossier médical du patient.
+
+<sup>5</sup> L’institut fournit, moyennant paiement, les formules officielles des ordonnances de stupéfiants aux cantons, qui les remettent aux médecins habilités.
+
+#### Art. 48
+
+**Ordonnance ordinaire**
+
+La quantité de stupéfiants prescrite ne doit pas dépasser le besoin nécessaire à un traitement d’une durée d’un mois. Si les circonstances le justifient, il est possible de prescrire une quantité destinée à couvrir un traitement de six mois au maximum. En pareil cas, le médecin prescripteur doit indiquer sur l’ordonnance la durée précise du traitement.
+
+#### Art. 49
+
+**Obligation de notifier la prescription de médicaments autorisés contenant des substances soumises à contrôle**
+
+<sup>1</sup>
+
+La notification visée à l’art. 11, al. 1<sup>bis</sup>, LStup doit contenir:
+
+- a. le nom du médicament;
+- b. la quantité;
+- c. le dosage;
+- d. l’indication.
+
+<sup>2</sup> Les prescriptions et utilisations dans le cadre d’essais cliniques autorisés selon la loi fédérale du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^49-1] ne sont pas concernées par l’obligation de notifier.
+
+[^49-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+#### Art. 50
+
+**Prescription et remise pour des animaux**
+
+<sup>1</sup> Les médecins-vétérinaires ne peuvent prescrire des médicaments contenant des substances soumises à contrôle que pour des animaux qu’ils ont examinés eux-mêmes.
+
+<sup>2</sup> Pour les animaux traités en ambulatoire, les médicaments contenant des substances soumises à contrôle qui figurent dans les tableaux a et d ne peuvent être prescrits que sur les ordonnances de stupéfiants.
+
+<sup>3</sup>
+
+La notification visée à l’art. 11, al. 1<sup>bis</sup>, LStup doit contenir:
+
+- a. le nom du médicament;
+- b. la quantité;
+- c. le dosage;
+- d. le nombre d’animaux traités;
+- e. l’indication.
+
+<sup>4</sup> L’institut fournit, moyennant paiement, les ordonnances de stupéfiants aux cantons, qui les remettent aux médecins-vétérinaires habilités.
+
+### Section 2 Pharmaciens
+
+#### Art. 51
+
+**Acquisition et remise**
+
+<sup>1</sup> Les pharmaciens responsables d’une pharmacie ou d’une pharmacie d’hôpital ne peuvent se procurer des substances soumises à contrôle qu’auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation et seulement sur commande écrite.
+
+<sup>2</sup>
+
+Les pharmaciens d’une pharmacie peuvent remettre des médicaments contenant des substances soumises à contrôle sur présentation d’une ordonnance rédigée par:
+
+- a. une personne exerçant une profession médicale qui est autorisée à prescrire des médicaments contenant des substances soumises à contrôle;
+- b. une personne étrangère exerçant une profession médicale qui est autorisée à pratiquer dans la zone frontière et qui est habilitée à utiliser et à prescrire des médicaments contenant des substances soumises à contrôle (art. 10, al. 2, LStup).
+
+<sup>3</sup> Sauf mention contraire du médecin ou du médecin-vétérinaire prescripteur, l’ordonnance de médicaments contenant des substances soumises à contrôle figurant dans les tableaux a et d n’est pas renouvelable.
+
+<sup>4</sup> L’acquisition partielle de médicaments prescrits contenant des substances soumises à contrôle figurant dans les tableaux b et c est possible pendant la durée de validité de l’ordonnance. La quantité remise et le centre de remise doivent être précisés sur l’ordonnance.
+
+#### Art. 52
+
+**Urgences**
+
+<sup>1</sup> En cas d’urgence et s’il est impossible d’obtenir la prescription d’un médecin, le pharmacien responsable peut exceptionnellement remettre sans ordonnance le plus petit emballage commercialisé d’un médicament contenant des substances soumises à contrôle.
+
+<sup>2</sup> Il doit établir un procès-verbal relatif à la remise de médicaments contenant des substances soumises à contrôle figurant dans les tableaux a et b, et de médicaments autorisés contenant des substances soumises à contrôle figurant dans le tableau d en indiquant le nom et l’adresse du destinataire ainsi que le motif pour lequel le médicament a été remis. Ce procès-verbal doit être remis dans les cinq jours à l’autorité cantonale compétente. Le médecin traitant doit être informé simultanément.
+
+### Section 3 Hôpitaux, instituts, organisations et autorités
+
+#### Art. 53
+
+<sup>1</sup> Les hôpitaux, les instituts scientifiques, les organisations nationales ou internationales ainsi que les autorités de la Confédération, des cantons et des communes qui sont autorisés à se procurer et à utiliser des substances soumises à contrôle peuvent se les procurer sur commande écrite auprès d’une entreprise, d’une pharmacie ou d’une pharmacie d’hôpital habilitée.
+
+<sup>2</sup>
+
+Ils désignent une personne responsable des substances soumises à contrôle et lui confient les tâches suivantes:
+
+- a. les commandes;
+- b. l’organisation interne;
+- c. la conservation;
+- d. la délivrance;
+- e. le contrôle.
+
+## Chapitre 5 Entreposage et désignation des stupéfiants
+
+#### Art. 54
+
+**Conservation**
+
+<sup>1</sup> Les substances soumises à contrôle figurant dans les tableaux a, d et e doivent être conservées à l’abri du vol.
+
+<sup>2</sup> Les substances soumises à contrôle figurant dans les tableaux b, c et f doivent être conservées de manière à ne pas être accessibles aux personnes non autorisées.
+
+#### Art. 55
+
+**Désignation et étiquetage**
+
+<sup>1</sup> Les substances soumises à contrôle figurant dans les tableaux a et d ne peuvent être mises dans le commerce en Suisse que sous leur désignation commune internationale (*denom**i**natio communis internationalis*, DCI) ou sous leur nom de marque.
+
+<sup>2</sup> Elles doivent, pour le commerce international, être identifiées par leur désignation DCI ou, à défaut, par le nom figurant dans les accords internationaux ratifiés par la Suisse.
+
+<sup>3</sup> L’inscription des médicaments contenant des substances soumises à contrôle est régie par les dispositions de la législation sur les produits thérapeutiques. Les indications concernant les précautions à prendre et les mises en garde nécessaires à la sécurité des patients doivent figurer dans les notices d’emballage.
+
+<sup>4</sup> Les emballages de médicaments prêts à l’emploi contenant des substances soumises à contrôle figurant dans le tableau a et de médicaments autorisés contenant des substances soumises à contrôle figurant dans le tableau d qui sont destinés à être mis dans le commerce en Suisse doivent être munis d’une vignette. La vignette est délivrée par l’institut. Elle peut être remplacée par une impression conforme en tous points à ladite vignette.
+
+#### Art. 56
+
+**Réclame et information**
+
+<sup>1</sup> Il est interdit de faire de la réclame auprès du public pour des substances soumises à contrôle.
+
+<sup>2</sup> La réclame destinée aux personnes exerçant une profession médicale doit expressément et clairement indiquer que le médicament contenant des substances soumises à contrôle sur lequel porte ladite réclame est un produit thérapeutique soumis à contrôle en vertu de la LStup.
+
+<sup>3</sup> Aucun échantillon des médicaments contenant des substances soumises à contrôle figurant dans les tableaux a, b et d ne peut être remis.
+
+## Chapitre 6 Contrôle
+
+### Section 1 Obligation de documenter
+
+#### Art. 57
+
+**Comptabilité**
+
+<sup>1</sup>
+
+Pour chaque substance soumise à contrôle, la comptabilité tenue en application de l’art. 17 LStup doit contenir les indications suivantes:
+
+- a.
+
+  culture des substances soumises à contrôle:
+
+  - 1\. nature des produits cultivés,
+  - 2\. étendue de la superficie cultivée,
+  - 3\. nature et quantité des substances soumises à contrôle obtenues;
+
+- b.
+
+  fabrication:
+
+  - 1\. stock au début de l’année,
+  - 2\. importation,
+  - 3\. achat en Suisse,
+  - 4\. fabrication,
+  - 5\. exportation,
+  - 6\. vente en Suisse,
+  - 7\. fabrication à partir de substances soumises à contrôle (désignation, indications concernant la base ou le sel), même si le produit final n’est plus soumis à contrôle,
+  - 8\. essais,
+  - 9\. pertes,
+  - 10\. élimination,
+  - 11\. stock à la fin de l’année;
+
+- c.
+
+  commerce:
+
+  - 1\. stock au début de l’année,
+  - 2\. importation,
+  - 3\. achat en Suisse,
+  - 4\. exportation,
+  - 5\. vente en Suisse,
+  - 6\. pertes,
+  - 7\. élimination,
+  - 8\. stock à la fin de l’année;
+
+- d.
+
+  commerce international sans transit par la Suisse, pour chaque opération:
+
+  - 1\. date,
+  - 2\. nom et adresse du fournisseur,
+  - 3\. nom et adresse du destinataire,
+  - 4\. désignation des produits,
+  - 5\. quantités,
+  - 6\. copies des autorisations d’importation ou d’exportation des pays concernés.
+
+<sup>2</sup> Pour les adjuvants chimiques, la comptabilité porte uniquement sur les quantités exportées à destination des pays cibles.
+
+<sup>3</sup> Si la date à laquelle le bulletin de livraison est établi ne correspond pas à celle de la réception des substances soumises à contrôle, seule la date figurant sur le bulletin de livraison doit être inscrite dans la comptabilité.
+
+#### Art. 58
+
+**Bouclement annuel**
+
+<sup>1</sup> La comptabilité doit être bouclée pour la fin de l’année et être déposée à l’institut dans un délai d’un mois. L’institut fournit les formulaires à cet effet.
+
+<sup>2</sup> Si l’institut en fait la demande, des renseignements détaillés sur les indications fournies en application de l’al. 1 doivent lui être communiqués.
+
+#### Art. 59
+
+**Obligation de renseigner**
+
+Si les cantons en font la demande, les titulaires d’une autorisation d’exploitation délivrée par la Confédération doivent communiquer des renseignements sur les livraisons à des titulaires d’une autorisation d’exploitation délivrée par le canton correspondant.
+
+### Section 2 Obligations de notification et de documentation pour les substances soumises à contrôle
+
+#### Art. 60
+
+**Obligation de notification**
+
+<sup>1</sup>
+
+Les personnes et entreprises titulaires d’une autorisation fédérale doivent notifier à l’institut toute sortie de stock de substances soumises à contrôle figurant dans les tableaux a, b, d et e à destination de la Suisse dans les cas suivants:
+
+- a. la livraison de substances soumises à contrôle à des destinataires en Suisse;
+- b. le retour aux fournisseurs de substances soumises à contrôle et de médicaments contenant des substances soumises à contrôle;
+- c. les envois destinés à l’autorité cantonale compétente.
+
+<sup>2</sup> La notification doit intervenir au plus tard le 15 du mois suivant la livraison ou l’envoi.
+
+<sup>3</sup> Les retours de substances soumises à contrôle par des personnes exerçant une profession médicale, des pharmacies, des hôpitaux, des instituts scientifiques et des autorités cantonales et communales à des personnes ou entreprises visées à l’art. 4 LStup doivent être notifiés à l’institut par le destinataire des substances.
+
+<sup>4</sup> Une notification distincte doit être établie pour chaque substance soumise à contrôle et pour chaque médicament contenant des substances soumises à contrôle (forme galénique, dosage et grandeur de l’emballage).
+
+<sup>5</sup> Après consultation des cantons et des milieux intéressés, l’institut peut exonérer provisoirement ou durablement certaines livraisons de l’obligation de notification si le contrôle peut être assuré d’une autre manière.
+
+<sup>6</sup> Les titulaires d’une autorisation d’exploitation délivrée par un canton notifient les mouvements de stock à destination de la Suisse audit canton, s’il le demande.
+
+#### Art. 61
+
+**Teneur et forme de la notification**
+
+<sup>1</sup>
+
+La notification doit contenir les indications suivantes:
+
+- a. la raison sociale du fournisseur, son GLN, le siège ou le domicile de l’entreprise;
+- b. la raison sociale du destinataire, son GLN, le siège ou le domicile de l’entreprise;
+- c. la date de la sortie du stock ou de la comptabilité;
+- d. la désignation de la substance soumise à contrôle livrée ou sortie de la comptabilité et son GTIN;
+- e. la quantité précise, en poids ou en unités.
+
+<sup>2</sup> La notification de préparations magistrales qui contiennent des substances soumises à contrôle doit mentionner le GTIN de la substance soumise à contrôle ainsi que le coefficient de la quantité correspondant au GTIN contenue dans la préparation.
+
+<sup>3</sup> La notification doit être effectuée au moyen du système de notification mis à disposition par l’institut. Celui-ci habilite l’autorité cantonale compétente à accéder directement à ce système.
+
+#### Art. 62
+
+**Documents**
+
+<sup>1</sup> Le fournisseur de substances soumises à contrôle figurant dans les tableaux a, b, d, e et f envoie la marchandise accompagnée d’un bulletin de livraison.
+
+<sup>2</sup> Les retours à des fins de destruction de substances soumises à contrôle figurant dans les tableaux a, d et e doivent également être accompagnés d’un bulletin de livraison.
+
+<sup>3</sup> Les documents, données et supports de données concernant la prescription et le commerce des substances soumises à contrôle doivent être conservés pendant dix ans.
+
+#### Art. 63
+
+**Pharmacies**
+
+<sup>1</sup> Les responsables d’une pharmacie ou d’une pharmacie d’hôpital doivent à tout moment être en mesure de produire les documents attestant l’acquisition et la remise de substances soumises à contrôle.
+
+<sup>2</sup> Les acquisitions doivent être attestées par les bulletins de livraison (art. 62).
+
+<sup>3</sup> Les remises doivent être attestées au moyen des ordonnances de stupéfiants, sauf pour les médicaments contenant des substances soumises à contrôle figurant dans les tableaux b et c.
+
+<sup>4</sup> Les pharmacies doivent tenir une comptabilité conformément à l’art. 57 faisant état de chaque substance soumise à contrôle et de chaque médicament contenant des substances soumises à contrôle, en tenant compte des différents dosages et formes galéniques. Cette règle ne s’applique pas aux médicaments contenant des substances soumises à contrôle figurant dans le tableau c.
+
+#### Art. 64
+
+**Cabinets de médecins, de médecins-dentistes et de médecins‑vétérinaires**
+
+<sup>1</sup> La personne responsable dans un cabinet de médecins, de médecins-dentistes ou de médecins-vétérinaires doit veiller à ce que la procédure d’acquisition de médicaments contenant des substances soumises à contrôle se déroule correctement.
+
+<sup>2</sup> Elle a l’obligation de tenir une comptabilité de l’utilisation des médicaments contenant des substances soumises à contrôle qui sont commandés à titre de réserve.
+
+<sup>3</sup> Si les dispositions cantonales l’autorisent à pratiquer la propharmacie, elle est en outre soumise aux dispositions applicables aux pharmacies (art. 63).
+
+#### Art. 65
+
+**Personne responsable**
+
+<sup>1</sup> La personne responsable dans un hôpital doit être en mesure de produire à tout moment les documents attestant l’acquisition de substances soumises à contrôle et l’utilisation qui en a été faite dans la pharmacie de l’hôpital et dans toutes les unités qui utilisent ces substances.
+
+<sup>2</sup> La personne responsable dans un institut scientifique, une organisation nationale ou internationale, une autorité de la Confédération, du canton ou de la commune doit être en mesure de produire à tout moment les documents attestant l’acquisition de substances soumises à contrôle et l’utilisation qui en a été faite.
+
+## Chapitre 7 Exécution
+
+### Section 1 Institut
+
+#### Art. 66
+
+**Tâches générales**
+
+<sup>1</sup> L’institut exécute la présente ordonnance dans la mesure où aucune autre autorité n’est expressément compétente.
+
+<sup>2</sup>
+
+Il publie des listes des acteurs suivants autorisés à utiliser des substances soumises à contrôle:
+
+- a. entreprises et personnes au sens de l’art. 4, al. 1, LStup et intermédiaires;
+- b. pharmacies;
+- c. médecins, médecins-dentistes et médecins vétérinaires, avec mention le cas échéant de leur habilitation à pratiquer la propharmacie selon les dispositions cantonales;
+- d. hôpitaux;
+- e. instituts scientifiques;
+- f. organisations nationales et internationales;
+- g. services transfrontaliers de sauvetage;
+- h. autorités cantonales et communales.
+
+#### Art. 67
+
+**Contrôle**
+
+<sup>1</sup> L’institut peut charger les autorités cantonales compétentes d’effectuer des contrôles particuliers s’il soupçonne des irrégularités ou contrôler le titulaire de l’autorisation en lieu et place des autorités cantonales si celles-ci ne sont pas en mesure d’effectuer les contrôles.
+
+<sup>2</sup> Il contrôle, en collaboration avec les autorités douanières, le respect des dispositions relatives à l’importation, à l’exportation et au transit de substances soumises à contrôle.
+
+<sup>3</sup> Il peut prélever gratuitement pour analyse des échantillons de substances susceptibles d’être soumises à contrôle. Il délivre une quittance au propriétaire.
+
+<sup>4</sup> Il est habilité à contrôler à tout moment les substances soumises à contrôle stockées sous surveillance douanière, en particulier celles qui sont placées dans des entrepôts douaniers ouverts, dans des entrepôts de marchandises de grande consommation ou dans des dépôts francs sous douane, et à prendre des mesures en cas d’inexactitudes. Il peut mandater à cet effet les autorités cantonales compétentes.
+
+#### Art. 68
+
+**Evaluations**
+
+L’institut établit les évaluations annuelles des besoins en substances soumises à contrôle que la Suisse est tenue de fournir en vertu des accords internationaux ratifiés par elle.
+
+### Section 2 Cantons
+
+#### Art. 69
+
+**Contrôle**
+
+<sup>1</sup> Les cantons exécutent la présente ordonnance dans le cadre de leur compétence et contrôlent les échanges entre les acteurs autorisés à utiliser des substances soumises à contrôle.
+
+<sup>2</sup> Ils peuvent prélever gratuitement pour analyse des échantillons de substances soumises à contrôle. Le prélèvement d’échantillons donne lieu à la délivrance d’une quittance au propriétaire.
+
+<sup>3</sup> Les personnes chargées des contrôles ne peuvent pas exercer simultanément une activité comme personne responsable au sens de l’art. 12, al. 1, let. c.
+
+#### Art. 70
+
+**Elimination de substances soumises à contrôle**
+
+<sup>1</sup> Les cantons éliminent de façon appropriée les substances soumises à contrôle figurant dans les tableaux a, d et e qui sont altérées, périmées, inutilisées ou saisies.
+
+<sup>2</sup> L’autorité cantonale compétente surveille l’élimination des substances soumises à contrôle figurant dans les tableaux b, c, f et g. La traçabilité doit être garantie.
+
+<sup>3</sup> Les frais liés à l’élimination sont à la charge du titulaire de l’autorisation, du propriétaire ou du détenteur des substances.
+
+### Section 3 DFI et OFSP
+
+#### Art. 71
+
+**DFI**
+
+<sup>1</sup> Le DFI exécute la présente ordonnance en ce qui concerne les matières premières et les produits ayant un effet supposé similaire à celui des substances et des préparations figurant dans le tableau e.
+
+<sup>2</sup> Si des matières premières ou des produits ayant un effet supposé similaire à celui des substances et des préparations font leur apparition sur le marché ou s’il y a lieu de soupçonner que des matières premières et des produits connus ont un effet similaire à celui des substances et des préparations, le DFI, sur demande de l’institut, procède sans délai à leur inscription sur le tableau e.
+
+<sup>3</sup> Après vérification de l’institut et sur demande de celui-ci, il attribue à un autre tableau ou biffe du tableau des stupéfiants les matières premières et les produits.
+
+#### Art. 72
+
+**OFSP**
+
+<sup>1</sup> L’OFSP exécute la présente ordonnance en ce qui concerne les substances soumises à contrôle figurant dans le tableau d, dans la mesure où celles-ci ne sont pas utilisées comme principes actifs dans un médicament autorisé.
+
+<sup>2</sup> Dans le domaine du contrôle des stupéfiants, il assume vis-à-vis de l’Organisation des Nations Unies la fonction d’agence nationale de contrôle du cannabis selon l’art. 28 de la Convention unique sur les stupéfiants de 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^72-1].
+
+[^72-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+
+### Section 4 Collaboration et transmission des données
+
+#### Art. 73
+
+**Collaboration**
+
+Les autorités de la Confédération et des cantons chargées de l’exécution de la présente ordonnance collaborent, notamment en se communiquant réciproquement les données nécessaires dans le cadre des autorisations et des contrôles.
+
+#### Art. 74
+
+**Système de conservation des dossiers**
+
+L’institut exploite un système interne de conservation des dossiers dans lequel il enregistre les données en relation avec les autorisations délivrées et les notifications reçues. Le système peut également contenir des données relatives aux poursuites administratives et pénales.
+
+#### Art. 75
+
+**Traitement des données**
+
+<sup>1</sup> L’autorité cantonale compétente transmet à l’institut les données complètes relatives aux personnes exerçant une profession médicale, aux hôpitaux et aux instituts scientifiques habilités à se procurer, entreposer, prescrire, utiliser ou remettre des substances soumises à contrôle. Les médecins reconnus comme propharmaciens font l’objet d’une mention spéciale.
+
+<sup>2</sup> L’institut définit la forme et les délais de transmission des données visées à l’al. 1.
+
+#### Art. 76
+
+**Collaboration entre l’Office fédéral de la police et l’institut**
+
+<sup>1</sup> L’institut communique à l’Office fédéral de la police les renseignements qui lui sont nécessaires pour remplir les tâches lui incombant dans le cadre de la répression du trafic illicite de substances soumises à contrôle.
+
+<sup>2</sup> L’Office fédéral de la police renseigne l’institut sur les constatations et observations en rapport avec la LStup.
+
+#### Art. 77
+
+**Collaboration entre le DFI et l’institut**
+
+<sup>1</sup> Le DFI et l’institut collaborent dans le cadre de leurs tâches de contrôle et se tiennent mutuellement informés en permanence.
+
+<sup>2</sup> Le DFI transmet à l’institut les données complètes relatives à tous les titulaires d’une autorisation qui sont habilités à se procurer, négocier, importer, exporter, fabriquer, remettre ou mettre dans le commerce des substances soumises à contrôle figurant dans le tableau e. Il notifie toute modification à l’institut.
+
+#### Art. 78
+
+**Collaboration entre l’OFSP et l’institut**
+
+<sup>1</sup> L’OFSP et l’institut collaborent dans l’exécution de leurs tâches de contrôle et se tiennent mutuellement informés en permanence.
+
+<sup>2</sup> L’OFSP transmet à l’institut les données complètes relatives à tous les titulaires d’une autorisation qui sont habilités à se procurer, négocier, importer, exporter, cultiver, fabriquer, remettre ou mettre dans le commerce des substances soumises à contrôle figurant dans le tableau d. Il notifie toute modification à l’institut.
+
+#### Art. 79
+
+**Echanges internationaux**
+
+<sup>1</sup> L’institut veille à ce que les notifications imposées par les accords internationaux parviennent aux organes compétents dans les délais prescrits.
+
+<sup>2</sup> Il publie les notifications et informations prévues par les accords internationaux ratifiés par la Suisse.
+
+<sup>3</sup>
+
+Il peut, avec l’accord des organes et autorités ci-dessous, traiter des documents par voie électronique, pour autant que la protection et la sécurité des données soient assurées, émanant:
+
+- a. de l’Organe international de contrôle des stupéfiants (OICS) selon l’art. 1, par. 1, let. a, de la Convention unique sur les stupéfiants de 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^79-1];
+- b. de l’Office des Nations Unies contre la drogue et le crime (UNODC) selon l’art. 29 de la Charte des Nations Unies[^79-2] du 10 septembre 2002;
+- c. des autorités compétentes des pays concernés;
+- d. de la Direction générale des douanes.
+
+[^79-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^79-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+### Section 5 Emoluments
+
+#### Art. 80
+
+<sup>1</sup> Les émoluments perçus par l’institut sont calculés conformément à l’ordonnance du 22 juin 2006 sur les émoluments des produits thérapeutiques[^80-1].
+
+<sup>2</sup> L’institut peut exonérer des organisations à caractère humanitaire, des organisations internationales et des autorités de l’obligation de verser des émoluments si cela n’a pas été prévu dans l’autorisation du Conseil fédéral.
+
+<sup>3</sup> Les émoluments perçus par le DFI et l’OFSP sont calculés conformément aux art. 38 à 40 de l’OAStup[^80-2].
+
+[^80-1]: [RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
+[^80-2]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+
+## Chapitre 8 Organisations nationales et internationales
+
+#### Art. 81
+
+**Conditions d’octroi d’une autorisation**
+
+Le Conseil fédéral peut octroyer pour une durée de cinq ans à une organisation nationale ou internationale l’autorisation visée à l’art. 14*a*, al. 1, LStup pour des médicaments autorisés contenant des substances soumises à contrôle si cette organisation:
+
+- a. est active dans le domaine humanitaire et a un mandat médical;
+- b. est active au niveau international;
+- c. garantit que les médicaments contenant des substances soumises à contrôle ne sont pas remis en Suisse;
+- d. désigne une personne responsable;
+- e. est en mesure d’attester que les substances soumises à contrôle peuvent être conservées conformément à l’art. 54.
+
+#### Art. 82
+
+**Devoirs**
+
+<sup>1</sup> Les organisations nationales ou internationales titulaires d’une autorisation selon l’art. 81 sont habilitées à se procurer des stupéfiants uniquement auprès d’une personne ou d’une entreprise autorisée à faire le commerce de stupéfiants.
+
+<sup>2</sup> Elles ont l’obligation de tenir une comptabilité des substances soumises à contrôle conformément à l’art. 57.
+
+#### Art. 83
+
+**Contrôle**
+
+<sup>1</sup> L’organisation nationale ou internationale titulaire d’une autorisation délivrée par le Conseil fédéral (art. 14*a*, al. 1, LStup) est tenue de mener un contrôle spécifique de ses stocks au sens de l’art. 57 pour chaque médicament autorisé contenant des substances soumises à contrôle de nature et dosage similaires, mais aussi, à la fin de l’année, de remettre à l’institut un inventaire conforme à l’art. 58.
+
+<sup>2</sup> L’institut vérifie l’exactitude du contrôle des stocks. Il est habilité à cet effet à pénétrer dans les locaux d’entreposage et à vérifier les stocks de médicaments contenant des substances soumises à contrôle.
+
+## Chapitre 9 Sanctions
+
+#### Art. 84
+
+**Infractions**
+
+En application de l’art. 22, al. 1, let. d, LStup, est puni quiconque, intentionnellement ou par négligence:
+
+- a. enfreint l’obligation de notifier visée à l’art. 49, al. 1;
+- b. enfreint l’obligation de notifier visée à l’art. 50, al. 3;
+- c. en qualité de pharmacien responsable, remet un médicament contenant des substances soumises à contrôle figurant dans les tableaux a, b ou d en dehors d’un cas d’urgence visé à l’art. 52;
+- d.
+
+  en qualité de pharmacien responsable, remet un médicament contenant des substances soumises à contrôle figurant dans les tableaux a, b ou d dans un cas d’urgence et a omis l’une des formalités suivantes:
+
+  - 1\. établir un procès-verbal indiquant le nom et l’adresse du destinataire ainsi que le motif pour lequel le médicament a été remis,
+  - 2\. remettre ce procès-verbal à l’autorité cantonale compétente dans les cinq jours,
+  - 3\. informer simultanément le médecin traitant lors de la remise du procès-verbal à l’autorité cantonale compétente (art. 52, al. 2).
+
+#### Art. 85
+
+**Ouverture de la poursuite pénale en cas d’infraction**
+
+<sup>1</sup> Si des substances soumises à contrôle sont retenues à la douane (art. 40, al. 1) et si l’examen effectué par l’institut (art. 40, al. 2) établit que le soupçon de violation des dispositions de la présente ordonnance est fondé, ou s’il n’est pas possible de prouver que l’envoi a été effectué de manière conforme aux prescriptions du pays de destination au moment de l’entrée de la marchandise sur le territoire douanier suisse, l’institut transmet le dossier à l’autorité cantonale chargée de poursuivre les infractions (art. 28 LStup).
+
+<sup>2</sup> Les substances soumises à contrôle confisquées lors de la poursuite d’infractions (art. 69 du code pénal[^85-1]) peuvent être utilisées à des fins légales ou être éliminées conformément à l’art. 70.
+
+<sup>3</sup> Le produit de la vente éventuelle de substances soumises à contrôle qui ont été confisquées est dévolu à l’autorité chargée du contrôle des stupéfiants, à moins qu’il ne soit attribué à l’ancien propriétaire en vertu de la décision du juge.
+
+[^85-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+## Chapitre 10 Dispositions finales
+
+#### Art. 86
+
+**Abrogation du droit en vigueur**
+
+Les ordonnances suivantes sont abrogées:
+
+- 1\. l’ordonnance du 29 mai 1996 sur les stupéfiants[^86-1];
+- 2\. l’ordonnance de Swissmedic du 12 décembre 1996 sur les stupéfiants[^86-2];
+- 3\. l’ordonnance du 29 mai 1996 sur les précurseurs[^86-3];
+- 4\. l’ordonnance de Swissmedic du 8 novembre 1996 sur les précurseurs[^86-4];
+- 5 l’ordonnance du 13 septembre 1930 concernant la police des stupéfiants dans l’armée[^86-5];
+- 6\. l’arrêté du Conseil fédéral du 5 juillet 1963 concernant les stupéfiants nécessaires à la Croix-Rouge suisse[^86-6];
+- 7\. l’arrêté du Conseil fédéral du 30 décembre 1953 concernant les stupéfiants nécessaires au Comité international de la Croix-Rouge[^86-7].
+
+[^86-1]: [[RO 1996 1679](https://fedlex.data.admin.ch/eli/oc/1996/1679_1679_1679), [2001 3133](https://fedlex.data.admin.ch/eli/oc/2001/470), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch. I 1, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 38, [2008 5577](https://fedlex.data.admin.ch/eli/oc/2008/772)[5583](https://fedlex.data.admin.ch/eli/oc/2008/773)]
+[^86-2]: [[RO 1997 273](https://fedlex.data.admin.ch/eli/oc/1997/273_273_273), [2001 3146](https://fedlex.data.admin.ch/eli/oc/2001/471), [2005 4961](https://fedlex.data.admin.ch/eli/oc/2005/678), [2010 4099](https://fedlex.data.admin.ch/eli/oc/2010/599)]
+[^86-3]: [[RO 1996 1705](https://fedlex.data.admin.ch/eli/oc/1996/1705_1705_1705), [2001 3152](https://fedlex.data.admin.ch/eli/oc/2001/473), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 39]
+[^86-4]: [[RO 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), [2010 1293](https://fedlex.data.admin.ch/eli/oc/2010/186)]
+[^86-5]: [RS **5** 326]
+[^86-6]: [[RO 1963 603](https://fedlex.data.admin.ch/eli/oc/1963/599_603_619)]
+[^86-7]: [[RO 1953 1338](https://fedlex.data.admin.ch/eli/oc/1953/1309_1338_1382)]
+
+#### Art. 87
+
+**Modifications du droit en vigueur**
+
+Les ordonnances ci-après sont modifiées comme suit:
+
+…[^87-1]
+
+[^87-1]: Les mod. peuvent être consultées au [RO 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362).
+
+#### Art. 88
+
+**Dispositions transitoires**
+
+<sup>1</sup> La Croix-Rouge Suisse et le Comité International de la Croix-Rouge conservent l’autorisation de se procurer, de conserver et d’exporter des médicaments contenant des substances soumises à contrôle dont ils sont titulaires lors de l’entrée en vigueur de la présente ordonnance moyennant le respect des conditions à caractère contraignant énoncées dans la présente ordonnance. Ils disposent de deux ans à compter de l’entrée en vigueur de la présente ordonnance pour déposer une demande d’autorisation en vertu de l’art. 81.
+
+<sup>2</sup> Les autorisations délivrées avant l’entrée en vigueur de la présente ordonnance restent valables.
+
+#### Art. 89
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2011, sous réserve de l’al. 2.
+
+<sup>2</sup> L’art. 60 entre en vigueur le 1<sup>er</sup> janvier 2013 pour les substances soumises à contrôle figurant dans le tableau b.
+
+Annexe 1
+
+(art. 42, al. 2)
+
+## Accords d’association à Schengen
+
+Les accords d’association à Schengen comprennent les accords suivants:
+
+- a. Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvlu1-1];
+- b. Accord du 26 octobre 2004 sous forme d’échange de lettres entre le Conseil de l’Union européenne et la Confédération suisse concernant les Comités qui assistent la Commission européenne dans l’exercice de ses pouvoirs exécutifs[^annex1-lvlu1-2];
+- c. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’Etat responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex1-lvlu1-3];
+- d. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume du Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex1-lvlu1-4];
+- e. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvlu1-5].
+
+[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annex1-lvlu1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annex1-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annex1-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+
+Annexe 2
+
+(art. 42, al. 6)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/fr/xml/image/image1.png)
+
+Verso du certificat
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20130101/fr/xml/image/image2.png)

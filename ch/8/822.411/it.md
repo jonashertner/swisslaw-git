@@ -1,0 +1,188 @@
+---
+sr: "822.411"
+title: "Ordinanza del 6 settembre 2006 concernente i provvedimenti in materia di lotta contro il lavoro nero (Ordinanza contro il lavoro nero, OLN)"
+short: OLN
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/72"
+language: it
+version: 2008-01-01
+adopted: 2006-09-06
+in_force: 2008-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/72/20080101/it/xml/fedlex-data-admin-ch-eli-cc-2007-72-20080101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/72/20080101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente i provvedimenti in materia di lotta contro il lavoro nero
+
+(Ordinanza contro il lavoro nero, OLN)
+
+del 6 settembre 2006 (Stato 1° gennaio 2008)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 37*a* e 83 capoverso 1 secondo periodo della legge federale del 14 dicembre 1990[^ingress-1] sull’imposta federale diretta (LIFD); visti gli articoli 11 capoverso 4 e 32 capoverso 1 della legge federale del 14 dicembre 1990[^ingress-2] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID); visti gli articoli 3 capoverso 3, 4 capoverso 2, 7 capoverso 3, 12 capoversi 1 e 5, 16 capoversi 1–3 nonché 17 capoverso 3 della legge del 17 giugno 2005[^ingress-3] contro il lavoro nero (LLN),
+
+ordina:
+
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^ingress-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^ingress-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+
+#### Art. 1
+
+**Procedura di conteggio semplificata per le assicurazioni sociali e le imposte**
+
+### (art. 2 e 3 LLN)
+
+<sup>1</sup> I datori di lavoro che intendono conteggiare i salari dei loro lavoratori secondo la procedura semplificata di cui agli articoli 2 e 3 LLN devono annunciarsi alla cassa di compensazione AVS all’inizio di un rapporto di lavoro.
+
+<sup>2</sup> Il passaggio dalla procedura di conteggio ordinaria a quella semplificata, o viceversa, può avvenire unicamente all’inizio di un anno civile. Il datore di lavoro deve annunciare alla cassa di compensazione AVS la sua intenzione di cambiare procedura entro la fine dell’anno civile precedente.
+
+<sup>3</sup> I datori di lavoro che non adempiono i loro obblighi di pagamento e di collaborazione possono essere esclusi dalla procedura di conteggio semplificata.
+
+<sup>4</sup> La cassa di compensazione AVS trasmette senza indugio l’annuncio di un datore di lavoro secondo il capoverso 1 al competente assicuratore contro gli infortuni.
+
+<sup>5</sup> Le casse di compensazione AVS ricevono per la riscossione dell’imposta alla fonte una provvigione del 10 per cento dell’ammontare complessivo dell’imposta alla fonte incassata.
+
+#### Art. 2
+
+**Organo cantonale di controllo**
+
+### (art. 4 LLN)
+
+<sup>1</sup> I Cantoni forniscono all’organo di controllo di cui all’articolo 4 LLN le risorse necessarie all’adempimento dei suoi compiti.
+
+<sup>2</sup> I Cantoni provvedono affinché le persone incaricate dei controlli dispongano delle conoscenze e delle competenze necessarie in materia di controllo del mercato del lavoro.
+
+<sup>3</sup> L’organo cantonale di controllo coordina la propria attività con quella di altri organismi di controllo, della Commissione tripartita di cui all’articolo 360*b* del Codice delle obbligazioni[^2-1] (CO) e degli organi paritetici istituiti mediante contratto collettivo di lavoro.
+
+<sup>4</sup> I Cantoni possono prevedere che l’organo di controllo sia incaricato dell’esecuzione della LLN come pure della legge federale dell’8 ottobre 1999[^2-2] sui lavoratori distaccati in Svizzera.
+
+<sup>5</sup> I Cantoni rilasciano alle persone incaricate dei controlli un documento che attesti la loro funzione.
+
+[^2-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+
+#### Art. 3
+
+**Delega delle attività di controllo**
+
+### (art. 4 LLN)
+
+<sup>1</sup> I Cantoni possono delegare attività di controllo a terzi. Essi disciplinano in una convenzione sulle prestazioni quali attività di controllo sono delegate e l’ammontare dell’indennizzo.
+
+<sup>2</sup> Un organo paritetico a cui sono state delegate attività di controllo può controllare unicamente le aziende che sottostanno al contratto collettivo di lavoro in base al quale esso è stato istituito.
+
+#### Art. 4
+
+**Informazioni e documenti**
+
+### (art. 7 LLN)
+
+<sup>1</sup> Le persone incaricate dei controlli possono esigere dai datori di lavoro, dai lavoratori dipendenti e dalle persone che esercitano un’attività lucrativa indipendente le informazioni e i documenti che attestano l’osservanza degli obblighi di annuncio e di autorizzazione conformemente al diritto in materia di stranieri nonché degli obblighi di annuncio e di conteggio conformemente al diritto in materia di assicurazioni sociali e di imposte alla fonte.
+
+<sup>2</sup>
+
+I documenti di cui al capoverso 1 comprendono in particolare:
+
+- a. i documenti che attestano le ore di lavoro effettuate dai lavoratori;
+- b. i documenti che indicano il tipo di rapporti contrattuali tra le persone coinvolte e la data d’inizio di tali rapporti;
+- c. i rendiconti individuali ai sensi dell’articolo 323*b* CO[^4-1] e i giustificativi di versamento del salario.
+
+[^4-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 5
+
+**Importo minimo per il reddito che dev’essere annunciato**
+
+### (art. 12 cpv. 1 LLN)
+
+Conformemente all’articolo 12 capoverso 1 LLN, le autorità fiscali cantonali avvisano le casse cantonali di compensazione se accertano che non è stato dichiarato un reddito annuale proveniente da un’attività lucrativa dipendente superiore all’importo di cui all’articolo 34*d* capoverso 1 dell’ordinanza del 31 ottobre 1947[^5-1] sull’assicurazione per la vecchiaia e per i superstiti.
+
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 6
+
+**Lista dei datori di lavoro sanzionati**
+
+### (art. 13 cpv. 3 LLN)
+
+<sup>1</sup> La Segreteria di Stato dell’economia (SECO) rende accessibile, mediante procedura di richiamo, una lista delle sanzioni pronunciate dalle autorità cantonali nei confronti di datori di lavoro relative all’esclusione dagli appalti pubblici o alla riduzione degli aiuti finanziari.
+
+<sup>2</sup> Le decisioni sono cancellate dalla lista al termine del periodo per cui le sanzioni sono state pronunciate.
+
+#### Art. 7
+
+**Emolumenti**
+
+### (art. 16 cpv. 1 LLN)
+
+<sup>1</sup> Le persone controllate che hanno violato gli obblighi di annuncio e di autorizzazione ai sensi dell’articolo 6 LLN sono tenute a versare un emolumento.
+
+<sup>2</sup> Gli emolumenti sono calcolati in base a una tariffa oraria massima di 150 franchi per le attività delle persone incaricate dei controlli e comprendono inoltre le spese causate all’organo di controllo. L’importo dell’emolumento deve essere proporzionale all’onere del controllo necessario per constatare l’infrazione.
+
+#### Art. 8
+
+**Finanziamento da parte della Confederazione**
+
+### (art. 16 cpv. 2 e 3 LLN)
+
+<sup>1</sup>
+
+I Cantoni presentano ogni anno alla SECO un conteggio in cui si attestano:
+
+- a. le spese complessive da loro sostenute nell’ambito dell’esecuzione della LLN;
+- b. l’importo totale degli emolumenti percepiti in applicazione della LLN;
+- c. l’importo totale delle multe incassate nell’ambito delle sanzioni di cui all’articolo 10 capoverso 1 LLN.
+
+<sup>2</sup> Le spese dei controlli sostenute dai Cantoni che non sono coperte con gli emolumenti né compensate dalle multe sono assunte per metà dalla Confederazione.
+
+<sup>3</sup>
+
+La Confederazione addebita alle istituzioni enumerate qui di seguito la parte delle spese a suo carico nel seguente modo:
+
+- a. al Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti l’importo equivalente ai supplementi riscossi nel corso del corrispondente anno civile in virtù dell’articolo 14<sup>bis</sup> della legge federale del 20 dicembre 1946[^8-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), previa deduzione della quota spettante alle casse di compensazione AVS;
+- b. al Fondo di compensazione dell’assicurazione contro la disoccupazione l’importo equivalente ai supplementi riscossi nel corso del corrispondente anno civile in virtù dell’articolo 6 della legge federale del 25 giugno 1982[^8-2] sull’assicurazione contro la disoccupazione in combinato disposto con l’articolo 14<sup>bis</sup> LAVS;
+- c. all’Istituto nazionale svizzero di assicurazione contro gli infortuni un ottavo delle spese a carico della Confederazione;
+- d. alla cassa suppletiva ai sensi dell’articolo 72 della legge federale del 20 marzo 1981[^8-3] sull’assicurazione contro gli infortuni un ottavo delle spese a carico della Confederazione.
+
+[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 9
+
+**Protezione dei dati**
+
+### (art. 17 LLN)
+
+<sup>1</sup> L’organo cantonale di controllo di cui all’articolo 17 capoverso 1 LLN e le autorità cantonali di cui all’articolo 17 capoverso 2 LLN sono autorizzati a consultare, registrare, modificare e distruggere i dati menzionati in tali disposizioni.
+
+<sup>2</sup> Essi sono responsabili della sicurezza dei dati personali che hanno elaborato. Nei rispettivi campi, adottano le misure tecniche e organizzative appropriate per proteggere i dati personali da qualsiasi trattamento non autorizzato.
+
+<sup>3</sup> I dati personali devono essere distrutti cinque anni dopo essere stati raccolti oppure allo scadere della sanzione se al termine dei cinque anni è ancora valida una sanzione nei confronti del datore di lavoro interessato. Sono fatti salvi termini di conservazione dei dati più lunghi previsti da altre legislazioni.
+
+<sup>4</sup> I terzi a cui sono state delegate attività di controllo sottostanno alle stesse disposizioni in materia di protezione dei dati applicabili agli organi cantonali di controllo e alle autorità cantonali.
+
+#### Art. 10
+
+**Modifica del diritto vigente**
+
+La modifica del diritto vigente è disciplinata nell’allegato.
+
+#### Art. 11
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2008.
+
+Allegato
+
+(art. 10)
+
+## Modifica del diritto vigente
+
+..[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)

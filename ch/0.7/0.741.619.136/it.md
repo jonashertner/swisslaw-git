@@ -1,0 +1,237 @@
+---
+sr: "0.741.619.136"
+title: Accordo del 17 dicembre 1953 tra il Dipartimento federale delle poste e delle ferrovie e il Ministro dei trasporti della Repubblica federale di Germania concernente il trasporto professionale di persone e di cose con autoveicoli (con All.)
+eli: "https://fedlex.data.admin.ch/eli/cc/1954/434_449_333"
+language: it
+version: 1954-02-01
+adopted: 1953-12-17
+in_force: 1954-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/19540201/it/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-19540201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/19540201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo tra il Dipartimento federale delle poste e delle ferrovie e il Ministro dei trasporti della Repubblica federale di Germania concernente il trasporto professionale di persone e di cose con autoveicoli
+
+RU **1954** 333
+
+Traduzione*[^t-1]*
+
+Conchiuso il 17 dicembre 1953 Data dell’entrata in vigore: 1° febbraio 1954
+
+[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+
+Il Dipartimento federale delle poste e delle ferrovie da una parte, e il Ministro dei trasporti della Repubblica federale di Germania dall’altra,
+
+hanno convenuto quanto segue circa i trasporti professionali di persone e di cose con autoveicoli:
+
+## I. Trasporti di persone
+
+#### § 1
+
+**Trasporti occasionali con torpedoni**
+
+<sup>(1)</sup>
+
+Le imprese che si occupano del trasporto occasionale con torpedoni e che hanno la loro sede in uno dei due Stati contraenti non hanno bisogno di un’autorizzazione speciale per eseguire escursioni e noleggi sul territorio dell’altro Stato contraente, sempre che le seguenti condizioni previste nell’accordo sulla «libertà della strada» siano adempiute:
+
+- a. le stesse persone sono trasportate con lo stesso veicolo su un percorso circolare che s’inizia e termina nel Paese d’immatricolazione del veicolo.
+- b. Le stesse persone sono trasportate con le stesso veicolo in partenza da un porto marittimo o da un aeroporto del Paese d’immatricolazione del veicolo, a destinazione di un porto marittimo o di un aeroporto dell’altro Stato contraente, a condizione tuttavia che il veicolo rientri vuoto nel Paese di partenza.
+
+<sup>(2)</sup> I vettori sono tenuti a portar con sé soltanto un permesso del Paese di residenza che li autorizzi a varcare il confine per circolare nell’altro Stato contraente. Il permesso è rilasciato ai vettori svizzeri soltanto se essi offrono le necessarie garanzie personali e se la loro impresa adempie le condizioni prescritte in materia di sicurezza e di capacità di trasporto; ai vettori germanici esso è rilasciato solo se essi possiedono l’autorizzazione prevista nella legislazione tedesca.
+
+<sup>(3)</sup> La durata di validità del permesso non deve oltrepassare la fine dell’anno civile.
+
+<sup>(4)</sup> Gli Stati contraenti si comunicheranno reciprocamente, a domanda, informazioni circa i permessi rilasciati.
+
+#### § 2
+
+**Altri trasporti occasionali con torpedoni**
+
+<sup>(1)</sup> Per qualsiasi altro trasporto occasionale (turistico), eseguito con torpedoni che non adempiono le prescrizioni del § 1, è necessaria l’autorizzazione dell’altro Stato contraente.
+
+<sup>(2)</sup> Il vettore deve presentare la domanda d’autorizzazione, in due esemplari (secondo il modulo previsto nell’Allegato 1), all’autorità competente del suo Paese. L’autorizzazione potrà essere concessa solo con il consenso del Paese di residenza.
+
+#### § 3
+
+**Trasporti occasionali eseguiti con vetture da turismo (tassì e vetture da rimessa)**
+
+<sup>(1)</sup> Le limitazioni previste nel § 1, primo capoverso, lettere a e b, non sono applicabili ai trasporti eseguiti con vetture da turismo (tassì e vetture da rimessa). 1 trasporti con tassì e con vetture da rimessa sono tuttavia autorizzati solo se il vettore è in possesso del permesso del suo Paese di residenza, previsto nel § 1, secondo capoverso, e se egli si astiene dal caricare nuovi viaggiatori nell’altro Stato contraente.
+
+<sup>(2)</sup> Il divieto di caricare nuovi viaggiatori nell’altro Stato contraente non si applica ai vettori residenti in una zona di 10 km dalle due parti del confine, sempreché si tratti di trasporti ordinati e da eseguire entro un raggio massimo di 5 km dall’una o dall’altra parte del confine, e i viaggiatori non siano depositati nell’altro Stato contraente.
+
+#### § 4
+
+**Servizi internazionali di linea (eccettuati i trasporti in transito)**
+
+<sup>(1)</sup> Per i servizi internazionali di linea, i vettori devono essere in possesso della concessione prevista nelle disposizioni legali di ciascuno dei due Stati contraenti e rilasciata dalle autorità competenti.
+
+<sup>(2)</sup> La concessione è rilasciata solo se le autorità competenti dei due Stati contraenti sono d’accordo sulla necessità e sull’opportunità di un servizio di linea, e sotto riserva di reciprocità. La stessa norma vale per la soppressione di una linea esistente.
+
+<sup>(3)</sup> Le domande concernenti l’istituzione di un servizio internazionale di linea devono essere presentate, per il percorso situato nell’altro Stato, all’autorità competente del Paese di residenza del richiedente; esse sono trasmesse immediatamente all’altro Stato contraente, con il parere dell’autorità superiore in materia di trasporti del Paese di residenza.
+
+#### § 5
+
+**Servizi di linea in transito**
+
+<sup>(1)</sup> Sono considerati servizi di linea in transito, nel senso del presente Accordo, i trasporti che partono da uno dei due Paesi per attraversare l’altro, a destinazione di un terzo Stato, senza che passeggeri siano caricati o depositati sul territorio del Paese attraversato.
+
+<sup>(2)</sup> Al rilascio di autorizzazioni valevoli per questi servizi di linea in transito è applicabile la legislazione nazionale del Paese attraversato. Le domande devono essere presentate all’autorità competente del Paese di residenza del richiedente; esse sono trasmesse immediatamente all’altro Stato contraente, con il parere dell’autorità superiore in materia di trasporti del Paese di residenza.
+
+#### § 6
+
+**Applicazione alle ferrovie e alla posta**
+
+Le disposizioni del presente Accordo sono parimente applicabili agli autoveicoli delle amministrazioni ferroviarie e postali di ambedue gli Stati contraenti; sono riservate le speciali disposizioni legali in vigore nei due Stati.
+
+## II. Trasporti di merci
+
+#### § 7
+
+**Trasporti internazionali di merci e trasporti in transito**
+
+I vettori di imprese di trasporto delle merci che hanno la loro sede in uno dei due Stati contraenti devono essere in possesso di un permesso del loro Paese di residenza per eseguire, conformemente all’accordo sulla «libertà della strada», trasporti internazionali di merci in transito e altri.
+
+#### § 8
+
+**Condizioni richieste per il rilascio dei permessi**
+
+Il permesso è rilasciato ai trasportatori svizzeri solo se essi offrono le necessarie garanzie personali e se le loro imprese adempiono le condizioni prescritte in materia di sicurezza e di capacità di trasporto; ai vettori germanici esso è rilasciato solo se essi possiedono l’autorizzazione prevista dalla legislazione germanica.
+
+#### § 9
+
+**Numero e genere dei permessi**
+
+<sup>(1)</sup> Per ogni autocarro deve essere rilasciato un permesso speciale. Il numero dei permessi non deve superare un determinato contingente che è fissato per ciascun Stato contraente a 250. Per i rimorchi non è richiesto il permesso.
+
+<sup>(2)</sup>
+
+I due Stati contraenti sono liberi di rilasciare siffatti permessi:
+
+- a. a titolo permanente (valevoli al massimo sino alla fine dell’anno civile);
+- b. per un periodo limitato (per diversi viaggi durante un periodo limitato di tempo dell’anno civile in corso);
+- c. per un solo viaggio.
+
+<sup>(3)</sup> Il numero dei permessi rilasciati contemporaneamente in ciascun Stato contraente non deve superare il numero di 250. Il numero dei permessi potrà essere fissato di nuovo in ogni tempo, secondo il bisogno.
+
+#### § 10
+
+**Deroghe al regime del permesso**
+
+Il permesso non è necessario nei seguenti casi:
+
+- a. per i trasporti di masserizie (traslochi completi) e i trasporti di cadaveri eseguiti con autoveicoli specialmente attrezzati allo scopo e che servono esclusivamente a siffatti trasporti;
+- b. per i trasporti di merci destinate a fiere o a esposizioni e che sono ricondotte nel Paese di provenienza;
+- c. per i trasporti di cavalli da corsa o di automobili da corsa, che partecipano a manifestazioni sportive.
+
+#### § 11
+
+**Autorità competenti**
+
+I permessi sono rilasciati, nella Svizzera, dal Dipartimento federale delle poste e delle ferrovie1) e, nella Repubblica federale di Germania, dalle autorità superiori in materia di trasporti nei diversi Stati (Länder). Il testo dei permessi dei due Paesi corrisponderà, per quanto possibile, a quello del modulo previsto nell’Allegato 2.
+
+#### § 12
+
+**Tariffe per il trasporto di merci**
+
+All’atto del rilascio dei permessi, i vettori devono impegnarsi ad applicare le tariffe per il trasporto delle merci valevoli negli Stati contraenti.
+
+#### § 13
+
+**Divieto di eseguire trasporti interni**
+
+E vietato ai vettori di uno Stato contraente di caricare merci nell’altro Stato contraente per trasportarle in una località dello stesso Stato.
+
+#### § 14
+
+**Piccolo traffico di confine**
+
+Il presente Accordo non è applicabile ai trasporti eseguiti con autocarri autorizzati secondo le disposizioni concernenti il piccolo traffico di confine.
+
+## III. Disposizioni comuni
+
+#### § 15
+
+**Legislazione nazionale**
+
+I vettori sono tenuti a osservare le prescrizioni in materia di polizia, di circolazione stradale e di dogana in vigore nello Stato contraente.
+
+#### § 16
+
+**Ritiro del permesso**
+
+Il permesso può essere ritirato in ogni tempo, segnatamente in seguito a infrazioni agli obblighi del presente Accordo o alle prescrizioni del § 15.
+
+#### § 17
+
+**Applicazione al territorio di Berlino**
+
+Il presente Accordo è parimente applicabile per il territorio di Berlino se, entro il termine di 3 mesi dalla sua entrata in vigore, il Ministro dei trasporti della Repubblica federale di Germania non trasmette comunicazione contraria al Dipartimento federale delle poste e delle ferrovie[^17-1].
+
+[^17-1]: Ora: Dipartimento federale dei trasporti delle comunicazioni e delle energie.
+
+#### § 18
+
+**Durata dell’Accordo**
+
+Il presente Accordo entra in vigore il I’ febbraio 1954 e sarà applicabile fino al 31 dicembre 1954. Esso sarà prorogato tacitamente di anno in anno, purché non sia disdetto da uno Stato contraente entro il 30 settembre.
+
+Bonn, 17 dicembre 1953
+
+<table>
+<tr><td>Per il Dipartimento federale delle poste e delle ferrovie, riservata l’approvazione del Capo del Dipartimento</td><td>Per il Ministro dei trasporti della Repubblica federale di Germania, riservata la sua approvazione</td></tr>
+<tr><td>Joseph Haenni</td><td>Arthur Pukall</td></tr>
+</table>
+
+Allegato 1
+
+## Modulo di domanda d’autorizzazione
+
+secondo il § 2 dell’Accordo del 17 dicembre 1953 tra la Svizzera e la Germania concernente il trasporto professionale di persone e di cose con autoveicoli.
+
+(Nome e sede dell’impresa)
+
+Domanda l’autorizzazione di eseguire il
+
+(data)
+
+con il suo (suoi) veicolo(I)
+
+(marca, targa d’immatricolazione)
+
+non adempie le condizioni del § 1 dell’Accordo, secondo il quale
+
+- a. le stesse persone devono essere trasportate con lo stesso veicolo su un percorso circolare che ha inizio e fine nel Paese d’immatricolazione del veicolo;
+- b. le stesse persone devono essere trasportate con lo stesso veicolo in partenza da un porto marittimo o da un aeroporto del Paese d’immatricolazione del veicolo, a destinazione di un porto marittimo o di un aeroporto dell’altro Stato contraente, a condizione tuttavia che il veicolo rientri vuoto nel Paese di partenza.
+
+19
+
+(firme del richiedente)
+
+Notificazione d’autorizzazione
+
+- a. delle autorità germaniche per domande di vettori svizzeri:
+- b. delle autorità svizzere per domande di vettori germanici:
+
+Allegalo 2
+
+PERMESSO N.
+
+per il trasporto internazionale di merci a destinazione della Repubblica federale di Germania, o in transito attraverso detto Paese, giusta il § 7 e seguenti dell’Accordo del 17 dicembre 1953 tra la Svizzera e la Germania concernente il trasporto professionale di persone e di cose con autoveicoli.
+
+Detentore del veicolo:
+
+residente a:
+
+Autocarro:
+
+(genere del veicolo, marca, targa d’immatricolazione)
+
+Valevole dal 195 al 195
+
+- 1\. Il permesso vale solo per il detentore sopra indicato e non è trasferibile. Esso permette solo il trasporto di cose a destinazione dello Stato contraente, o in transito attraverso detto Paese. t vietato al vettore di caricare, nell’altro Stato contraente, merci destinate a essere scaricate nello stesso.
+- 2\. Il permesso deve accompagnare i trasporti per i quali esso è rilasciato. Il titolare deve presentarlo spontaneamente a ogni passaggio del confine, nonché a richiesta delle autorità competenti.
+- 3\. Il titolare del permesso deve osservare le prescrizioni dello Stato contraente in materia di polizia, di circolazione stradale e di dogana e conformarsi inoltre alle prescrizioni tariffali.
+- 4\. Per i trasporti in transito, possono essere utilizzate solo le strade internazionali riservate a tale scopo.
+- 5\. Il permesso può essere ritirato in ogni tempo.

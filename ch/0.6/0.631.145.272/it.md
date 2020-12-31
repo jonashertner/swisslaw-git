@@ -1,0 +1,156 @@
+---
+sr: "0.631.145.272"
+title: Convenzione doganale del 15 gennaio 1958 concernente i pezzi di ricambio per la riparazione dei carri EUROP
+eli: "https://fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633"
+language: it
+version: 1984-02-01
+adopted: 1958-01-15
+in_force: 1961-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/19840201/it/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-19840201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/19840201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Convenzione doganale concernente i pezzi di ricambio per la riparazione dei carri EUROP
+
+0.631.145.272 (Stato 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+
+Traduzione*[^t-2]*
+
+Conchiusa a Ginevra il 15 gennaio 1958 Approvata dall’Assemblea federale il 10 marzo 1960[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 7 luglio 1960 Entrata in vigore per la Svizzera il 1° gennaio 1961
+
+[^t-1]: [RU 1960 1633](https://fedlex.data.admin.ch/eli/oc/1960/1573_1633_1633); FF **1960** I 705 ediz. ted. 725 ediz. franc.
+[^t-2]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-3]: [RU 1960 1081](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
+
+Le parti contraenti,
+
+animate dal desiderio d’agevolare l’impiego di carri EUROP fra le amministrazioni ferroviarie che se ne valgono in comune,
+
+hanno convenuto le disposizioni seguenti:
+
+## Capo I Disposizioni generali
+
+#### Art. 1
+
+Secondo la presente convenzione, sono considerati
+
+- a. «diritti e tasse d’importazione»: i dazi doganali e ogni diritto o tassa esigibile a cagione dell’importazione;
+- b. «carri EUROP»: i carri ferroviari adoperati in comune secondo l’ordinamento all’uopo convenuto dalle amministrazioni ferroviarie interessate;
+- c. «amministrazione proprietaria»: l’amministrazione ferroviaria cui tali carri appartengono, oppure se si tratta di carri appartenenti alla Società europea per il finanziamento di materiale ferroviario (EUROFIMA), cui tali carri siano stati concessi a titolo di locazione‑vendita o altro analogo;
+- d. «amministrazione usuaria»: ogni amministrazione ferroviaria partecipante all’impiego in comune dei carri EUROP, in quanto se ne valga sulla sua rete.
+
+#### Art. 2
+
+L’amministrazione usuaria può montare, su vagoni EUROP, dei pezzi di ricambio provenienti dalla sue scorte, purchè
+
+- a. tali pezzi siano stati assoggettati, nel suo paese, ai diritti e tasse interni o, se occorre, a quelli d’importazione;
+- b. il montaggio non implichi la restituzione di diritti o tasse, nè la concessione, in tutto o in parte, di altre agevolezze previste nel caso d’esportazione.
+
+#### Art. 3
+
+La riparazione dei carri EUROP, operata da un’amministrazione usuaria con pezzi di ricambio provenienti dalle sue scorte, non dà luogo all’assoggettamento di tali carri, che passino il confine, a formalità o tassazione qualsiasi, qualora il costo dei pezzi di ricambio e le spese di montaggio siano a carico di quell’amministrazione.
+
+#### Art. 4
+
+<sup>1</sup> I pezzi di ricambio provenienti dalle riserve delle amministrazioni proprietarie, adoperati per la riparazione di carri EUROP da un’amministrazione usuaria, sono ammessi nel Paese di questa in franchigia temporanea di diritti e tasse d’importazione, purchè
+
+- a. tali pezzi siano stati assoggettati, nel paese dell’amministrazione proprietaria, ai diritti e tasse interni e, se occorre, a quelli d’importazione;
+- b. l’invio di tali pezzi all’amministrazione usuaria non abbia dato luogo alla restituzione di diritti e tasse, nè alla concessione, in tutto o in parte, delle agevolezze d’esportazione eventualmente previste.
+
+<sup>2</sup> La procedura sarà determinata dalle autorità doganali del paese dell’amministrazione usuaria, di concerto con questa.
+
+## Capo II Disposizioni finali
+
+#### Art. 5
+
+<sup>1</sup>
+
+I paesi membri della Commissione economica per l’Europa, e quelli che vi sono ammessi a titolo consultivo, conformemente al paragrafo 8 del mandato conferito alla medesima, possono divenire Parti contraenti della presente Convenzione:
+
+- a. firmandola;
+- b. ratificandola, dopo averla firmata con riserva di ratificazione;
+- c. aderendovi.
+
+<sup>2</sup> La Convenzione è aperta alla firma sino al 20 febbraio 1958. A contare da tale giorno, essa è aperta all’adesione.
+
+<sup>3</sup> La ratificazione o adesione si opera mediante il deposito d’uno strumento presso il Segretario generale dell’Organizzazione delle Nazioni Unite.
+
+#### Art. 6
+
+<sup>1</sup> La presente Convenzione entra in vigore il 1° gennaio dell’anno successivo a quello in cui tutti i paesi menzionati nel paragrafo 1 dell’articolo 5, le cui amministrazioni ferroviarie si valgono in comune dei carri EUROP da un momento precedente l’apertura della presente Convenzione alla firma, l’abbiano firmata senza riserva di ratificazione oppure abbiano depositati i loro strumenti di ratificazione o d’adesione.
+
+<sup>2</sup> Per ciascun paese che vi aderisca dopo il giorno previsto nel paragrafo 1, la presente Convenzione entra in vigore il trentesimo giorno successivo al deposito dello strumento di ratificazione.
+
+#### Art. 7
+
+<sup>1</sup> Ogni Parte contraente può disdire la presente Convenzione, mediante notificazione indirizzata al Segretario generale dell’Organizzazione delle Nazioni Unite.
+
+<sup>2</sup> La disdetta ha effetto sei mesi dopo il giorno in cui sia stata notificata al Segretario generale.
+
+#### Art. 8
+
+La presente Convenzione cessa d’avere effetto, se, in qualunque momento successivo alla sua entrata in vigore, il numero delle Parti contraenti sia stato inferiore a tre per un periodo continuato di dodici mesi.
+
+#### Art. 9
+
+<sup>1</sup> Ogni controversia, tra due o parecchie Parti contraenti, concernente l’interpretazione o l’applicazione della presente Convenzione sarà al possibile composta mediante negoziato tra le Parti in litigio.
+
+<sup>2</sup> Ogni controversia che non sia stata accomodata mediante negoziato sarà sottoposta all’arbitrato, se una qualsiasi delle Parti contraenti in litigio ne faccia istanza, e sarà per conseguenza rimessa in uno o più arbitri eletti di comune accordo dalle medesime. Qualora queste non s’accordino sulla scelta dell’arbitro o degli arbitri nei tre mesi che seguono l’istanza d’arbitrato, una qualsiasi di loro potrà domandare al Segretario generale dell’Organizzazione delle Nazioni Unite di designare un arbitro unico, nel quale sarà rimessa la controversia.
+
+<sup>3</sup> La sentenza dell’arbitro o degli arbitri designati secondo il paragrafo 2 è obbligatoria per le Parti contraenti in litigio.
+
+#### Art. 10
+
+Non è ammessa alcuna riserva circa alla presente Convenzione.
+
+#### Art. 11
+
+<sup>1</sup> Ogni Parte contraente può proporre uno o parecchi emendamenti alla presente Convenzione. Il testo del disegno d’emendamento è comunicato al Segretario generale dell’Organizzazione delle Nazioni Unite, il quale lo comunicherà a tutte le Parti contraenti e agli altri paesi indicati nel paragrafo 1 dell’articolo 5.
+
+<sup>2</sup> Ogni disegno d’emendamento, trasmesso in conformità del capoverso 1, è considerato accolto, qualora non sia contrastato da alcuna Parte contraente, nel termine di sei mesi a contare dal giorno in cui fu trasmesso.
+
+<sup>3</sup> Il Segretario generale, come prima sia possibile, notifica a tutte le Parti contraenti, se al disegno d’emendamento sia stata mossa alcuna obiezione. In quest’ultimo caso, l’emendamento è considerato respinto e non avrà luogo. Qualora non sia stata mossa alcuna obiezione, l’emendamento entra in vigore per tutte le Parti contraenti, tre mesi dopo il decorso del termine di sei mesi previsto nel paragrafo 2.
+
+#### Art. 12
+
+Oltre le notificazioni considerate nell’articolo 11, il Segretario generale dell’Organizzazione delle Nazioni Unite notifica ai paesi indicati nel paragrafo 1 dell’articolo 5:
+
+- a. le firme, le ratificazioni e le adesioni, secondo l’articolo 5;
+- b. i giorni in cui la presente Convenzione entra in vigore secondo l’articolo 6;
+- c. le disdette secondo l’articolo 7;
+- d. l’abrogazione della presente Convenzione, secondo l’articolo 8;
+- e. l’entrata in vigore di ogni emendamento secondo l’articolo 11.
+
+#### Art. 13
+
+Dopo il 20 febbraio 1958, il testo originale della presente Convenzione sarà depositato presso il Segretario generale dell’Organizzazione delle Nazioni Unite, il quale ne trasmetterà delle copie autenticate a ciascun paese indicato nel paragrafo 1 dell’articolo 5.
+
+*In fede di che,* i sottoscritti*,* a ciò debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Ginevra, il quindici di gennaio millenovecentocinquantotto, in un solo esemplare, in lingua francese. (Seguono le firme)
+
+Campo d’applicazione della convenzione il 1° aprile 1984
+
+<table>
+<tr><th colspan="2">Stati partecipanti</th><th>Ratificazione Firma senza riserva di ratificazione (Fi)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td colspan="2">Austria</td><td>3 marzo</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Belgio</td><td>10 settembre</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Danimarca</td><td>5 febbraio</td><td>1958 Fi</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Francia</td><td>19 agosto</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Germania</td><td>21 ottobre</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Italia</td><td>8 marzo</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Lussemburgo</td><td>19 febbraio</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Paesi Bassi\*</td><td>7 maggio</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="2">Svizzera</td><td>7 luglio</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>\*</td><td colspan="5">Dichiarazioni, vedi qui di seguito.</td></tr>
+</table>
+
+## Dichiarazioni
+
+Paesi Bassi
+
+La firma vale per il Regno in Europa.
+
+Svizzera
+
+La Convenzione s’applica parimenti al Principato del Liechtenstein fintantoché esso sarà vincolato alla Svizzera da un trattato d’unione doganale.

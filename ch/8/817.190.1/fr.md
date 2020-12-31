@@ -1,0 +1,1622 @@
+---
+sr: "817.190.1"
+title: "Ordonnance du DFI du 23 novembre 2005 concernant l'hygiène lors de l'abattage d'animaux (OHyAb)"
+short: OHyAb
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/816"
+language: fr
+version: 2020-07-01
+adopted: 2005-11-23
+in_force: 2006-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/816/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-816-20200701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/816/20200701/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DFI concernant l’hygiène lors de l’abattage d’animaux
+
+(OHyAb)
+
+du 23 novembre 2005 (Etat le 1<sup>er</sup> juillet 2020)
+
+Le Département fédéral de l’intérieur (DFI)*[^ingress-1]*,
+
+vu les art. 4, al. 4, 16, al. 5, 27, al. 4, 30, al. 2, 31, al. 7, 34, al. 1, 38, al. 3, et 40 de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV)[^ingress-2], vu l’art. 303 de l’ordonnance du 27 juin 1995 sur les épizooties[^ingress-3],[^ingress-4]
+
+arrête:
+
+[^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^ingress-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^ingress-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+## Section 1 Exigences applicables aux abattoirs et aux établissements de traitement du gibier****
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+#### Art. 1
+
+**…[^1-1]**
+
+Les abattoirs et établissements de traitement du gibier[^1-2] doivent satisfaire aux exigences fixées à l’annexe 1.
+
+[^1-1]: Abrogé par le ch. I de l’O du DFI du 16 déc. 2016, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^1-2]: Nouvelle expression selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Il a été tenu compte de cette mod. aux disp. mentionnées dans ce RO.
+
+#### Art. 2
+
+[^2-1]
+
+[^2-1]: Abrogé par le ch. II 3 de l’O du 16 mai 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+
+## Section 2 Règles d’hygiène dans les abattoirs et établissements de traitement du gibier
+
+#### Art. 3
+
+Les règles d’hygiène à respecter dans les abattoirs et établissements de traitement du gibier sont fixées à l’annexe 3.
+
+## Section 3 Exécution du contrôle des animaux avant l’abattage
+
+#### Art. 4
+
+Le contrôle des animaux avant l’abattage est réglementé à l’annexe 4.
+
+## Section 4 Exécution du contrôle des viandes
+
+#### Art. 5
+
+**Préparation de la carcasse**
+
+<sup>1</sup> Quiconque pratique l’abattage d’animaux doit présenter au contrôle des viandes les carcasses et les parties de la carcasse à contrôler conformément à l’annexe 5.
+
+<sup>2</sup> Les organes doivent être présentés avec les ganglions lymphatiques correspondants lorsque ceux-ci sont soumis au contrôle.
+
+<sup>3</sup> Pour des spécialités gastronomiques, le vétérinaire officiel[^5-1] peut autoriser de cas en cas des dérogations au mode de présentation.
+
+[^5-1]: Nouvelle expression selon l’annexe 2 ch. 3 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> avril 2007 ([RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 6
+
+**Contrôle**
+
+<sup>1</sup> Le vétérinaire officiel contrôle la carcasse et les parties de celle-ci conformément aux instructions de l’annexe 6.
+
+<sup>2</sup>
+
+Au besoin, il élargit le contrôle, notamment:
+
+- a. en prélevant des échantillons pour des analyses de laboratoire;
+- b. en incisant d’autres parties de la carcasse et leurs ganglions lymphatiques.
+
+<sup>2bis</sup> Si les conditions de salubrité et de congélation fixées à l’annexe 7, ch. 1.3.2, sont remplies, les porcs domestiques ne sont pas soumis au prélèvement d’échantillons destiné à l’analyse de détection des trichinelles.[^6-1]
+
+<sup>3</sup> Quand la présente ordonnance ne prescrit pas de procédure, le vétérinaire officiel applique les méthodes de contrôle scientifiquement reconnues et éprouvées, notamment celles qui sont arrêtées au niveau international.
+
+<sup>4</sup> Au cours du contrôle, des précautions doivent être prises pour éviter les contaminations.
+
+<sup>5</sup> Lorsque plusieurs vétérinaires officiels participent au contrôle de la carcasse et des parties d’un animal, tous les résultats s’écartant de l’état normal doivent être communiqués à la personne qui effectue l’évaluation finale.
+
+<sup>6</sup> Pour des spécialités gastronomiques, le vétérinaire officiel peut autoriser au cas par cas des dérogations aux procédures de contrôle.[^6-2]
+
+[^6-1]: Introduit par le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+[^6-2]: Introduit par le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)).
+
+#### Art. 7
+
+**Décision**
+
+<sup>1</sup> Après examen de toutes les informations pertinentes et vérification des motifs de contestation prévus à l’annexe 7, le vétérinaire officiel décide si les carcasses et les abats sont propres à la consommation.
+
+<sup>2</sup>
+
+Il peut:
+
+- a. ordonner que les carcasses ou les parties de carcasses impropres à la consommation soient dénaturées ou marquées de manière particulière;
+- b.[^7-1] assortir de charges l’utilisation de la viande provenant d’animaux accidentés qui ont été abattus en dehors d’un abattoir ou d’un établissement de traitement du gibier.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+#### Art. 8
+
+**Estampillage de la viande**
+
+<sup>1</sup>
+
+La salubrité est déclarée:
+
+- a. au moyen d’une estampille de salubrité apposée
+  - 1\.[^8-1] sur chaque quartier ou chacun des six morceaux issus d’animaux des espèces équine et bovine; cette disposition n’est pas applicable à la viande d’animaux de l’espèce bovine âgés de moins de 6 semaines,
+  - 2\. sur chaque demi-carcasse issue d’autre bétail de boucherie; pour les agneaux, les cabris et les porcelets entiers, une estampille de salubrité suffit,
+  - 3\. sur chaque carcasse de gibier, à l’exception des lièvres et du gibier plumes;
+
+- b. au moyen d’un certificat de salubrité dont le modèle figure à l’annexe 8 pour ce qui concerne la viande de volailles domestiques, de lapins domestiques, d’oiseaux coureurs, de lièvres et de gibier à plumes.
+
+<sup>2</sup> L’estampille de salubrité peut aussi être apposée avant que les résultats d’analyses soient disponibles, si le vétérinaire officiel s’assure que la viande provenant de l’animal en question ne sera mise sur le marché que si lesdits résultats sont satisfaisants.
+
+<sup>3</sup> L’estampille de salubrité peut être apposée à l’encre ou par le feu. La forme de l’estampille et le libellé du texte sont fixés à l’annexe 9.
+
+<sup>4</sup> Seules des couleurs indélébiles, bien visibles et admises par l’ordonnance du 23 novembre 2005 sur les additifs[^8-2] peuvent être utilisées pour les estampillages de salubrité et pour tous les marquages non officiels.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+[^8-2]: [[RO 2005 6191](https://fedlex.data.admin.ch/eli/oc/2005/806). [RO 2007 2977](https://fedlex.data.admin.ch/eli/oc/2007/401)art. 7]. Voir actuellement l’O du 22 juin 2007 ([RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)).
+
+## Section 5 Organisation et technique
+
+#### Art. 9
+
+**Temps disponible pour le contrôle des viandes**
+
+<sup>1</sup> Dans les abattoirs et les établissements de traitement du gibier où le travail s’effectue à la chaîne, l’établissement doit régler la cadence de telle sorte que, pour chaque carcasse et les parties qui en sont issues, le laps de temps disponible pour le contrôle des viandes soit au minimum de:[^9-1]
+
+<table>
+<tr><td>a. pour les animaux de l’espèce bovine âgés de plus de six semaines:</td><td colspan="2">4 minutes;</td></tr>
+<tr><td>b. pour les animaux de l’espèce bovine âgés de moins de six semaines:</td><td colspan="2">2 minutes;</td></tr>
+<tr><td>c. pour les animaux des espèces ovine et caprine:</td><td colspan="2">1 minute;</td></tr>
+<tr><td>d. pour les animaux de l’espèce porcine (sans prélèvement d’échantillons pour l’examen de recherche des trichinelles):</td><td colspan="2">1 minute;</td></tr>
+<tr><td>e. pour les animaux de l’espèce équine (sans prélèvement d’échantillons pour l’examen de recherche des trichinelles):</td><td colspan="2">4 minutes;</td></tr>
+<tr><td>f. pour tout autre bétail de boucherie:</td><td colspan="2">2 minutes;</td></tr>
+<tr><td>g. pour les lièvres et le gibier à plumes:</td><td colspan="2">1 minute;</td></tr>
+<tr><td>h. pour d’autre gibier (sans prélèvement d’échantillons pour l’examen de recherche des trichinelles):</td><td colspan="2">2 minutes;</td></tr>
+<tr><td>[tab] i.pour la volaille domestique et les lapins domestiques:</td><td>2,5 sec.</td></tr>
+</table>
+
+<sup>2</sup> Les laps de temps visés à l’al. 1 sont valables pour le contrôle des carcasses et des parties sans contestations majeures et dans des conditions d’exploitation et d’effectifs favorables.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+#### Art. 10
+
+**Analyse microbiologique des viandes**
+
+<sup>1</sup>
+
+Une analyse microbiologique doit être ordonnée lorsque des lésions pathologiques ou des souillures de la carcasse ou des parties de celle-ci rendent incertaine la décision quant à la salubrité, notamment:
+
+- a. lors de perturbations de l’état général;
+- b. lors de lésions inflammatoires ou de nécroses;
+- c.[^10-1] lorsque les animaux, exception faite du gibier sauvage, ont été éviscérés plus de 45 minutes après l’étourdissement et la mise à mort ou ne l’ont pas été dans les règles de l’art;
+- d. lorsque la saignée est douteuse;
+- e. en cas de suspicion d’infections spécifiques par des micro-organismes pathogènes pour l’homme, telles que les salmonelles p.ex.
+
+<sup>2</sup> L’analyse microbiologique n’est pas requise si la carcasse doit être éliminée comme sous-produit animal pour l’un des motifs de contestation prévus à l’annexe 7.
+
+<sup>3</sup> Le résultat de l’analyse microbiologique des viandes doit être considéré comme l’un des éléments de l’annexe 7 qui doivent être pris en considération pour décider de l’utilisation de la carcasse. Le résultat favorable de l’analyse microbiologique ne suffit pas à lui seul pour déclarer sans autres une carcasse propre à la consommation.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+#### Art. 11
+
+**Formulaires**
+
+Les formulaires suivants doivent être utilisés:
+
+- a. rapport officiel de prélèvement d’échantillons selon le modèle figurant à l’annexe 10;
+- b. contestation lors du contrôle des animaux avant l’abattage et lors du contrôle des viandes selon le modèle figurant à l’annexe 11;
+- c. rapport d’inspection selon le modèle figurant à l’annexe 12;
+- d. certificat sanitaire délivré à l’issue du contrôle des animaux avant l’abattage, lorsque ce contrôle est effectué dans le troupeau de provenance selon le modèle figurant à l’annexe 13;
+- e.[^11-1] déclaration attestant l’examen du gibier sauvage selon le modèle figurant à l’annexe 14.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+## Section 6 Dispositions finales
+
+#### Art. 12
+
+**Dispositions transitoires**
+
+<sup>1</sup> En dérogation à l’art. 9, al. 1, let. a et b, et aux annexes 5, ch. 1 et 2, et 6, ch. 1 et 2, la limite d’âge des animaux de l’espèce bovine est fixée à 6 mois jusqu’au 31 décembre 2006.
+
+<sup>2</sup> Jusqu’au 31 décembre 2006, on pourra utiliser, à la place de l’estampille de salubrité (annexe 9), l’estampille du contrôle des viandes selon le modèle figurant à l’annexe 5 de l’ordonnance du 3 mars 1995 sur le contrôle des viandes[^12-1].
+
+[^12-1]: [[RO 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
+
+#### Art. 13
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 3 mars 1995 sur le contrôle des viandes[^13-1] est abrogée.
+
+[^13-1]: [[RO 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
+
+#### Art. 14
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
+
+Annexe 1*[^t-1]*
+
+(art. 1)
+
+## Exigences applicables aux abattoirs et aux établissements de traitement du gibier
+
+[^t-1]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) et le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+
+### 1 Exigences générales
+
+### 1.1 Équipement des locaux
+
+<sup>1</sup> Les locaux d’abattage et les locaux où sont entreposés les carcasses, les abats et la viande non emballés doivent être équipés:
+
+- a. de *sols* imperméables et imputrescibles, qui permettent à l’eau provenant des postes de travail et des emplacements d’entreposage de s’écouler facilement vers les bouches d’évacuation des eaux, et qui sont faciles à nettoyer et à désinfecter;
+- b.
+
+  de *murs* avec un revêtement clair, résistant, lavable, lisse et imperméable, faciles à nettoyer et à désinfecter:
+
+  - 1\. jusqu’à la hauteur maximale où s’effectue le travail dans les locaux d’abattage, mais jusqu’à une hauteur d’au moins 3 mètres,
+  - 2\. jusqu’à la hauteur maximale du stockage dans les locaux de réfrigération,
+  - 3\. jusqu’à la hauteur maximale où s’effectue le travail dans les autres locaux, mais jusqu’à une hauteur d’au moins 2 mètres;
+
+- c. de *coins* et de *lignes de jonction des murs et du sol* arrondis ou conçus de sorte que la saleté ne puisse s’y accumuler;
+- d.
+
+  de *bouches d’évacuation des eaux*, siphonnées de manière à éviter les odeurs, et qui seront:
+
+  - 1\. recouvertes d’une grille au sens du ch. 1.10 lorsqu’ils sont au sol, ou
+  - 2\. directement reliées aux installations produisant des eaux résiduaires.
+
+<sup>2</sup> Les sols, les murs et les plafonds doivent être faciles à nettoyer et à désinfecter.
+
+<sup>3</sup> Les exigences de l’al. 1 s’appliquent par analogie aux couloirs servant au déplacement des carcasses et des abats non emballés. Les couloirs ne doivent pas être utilisés comme emplacement d’entreposage.
+
+<sup>4</sup> Les éventuels matériaux d’isolation du bâtiment doivent être imputrescibles et inodores. Ils doivent être protégés de façon à ne pouvoir être endommagés lors des nettoyages.
+
+<sup>5</sup> Les portes, les rebords et les cadres de fenêtres, les conduites et autres éléments de construction doivent être également enduits d’un revêtement lavable et clair, lisse, résistant et imperméable. Ils doivent être construits de façon à réduire le plus possible les dépôts de poussière et de saleté.
+
+### 1.2 Eau
+
+<sup>1</sup> L’approvisionnement en eau potable froide et en eau potable chaude ou en vapeur d’eau potable doit être garanti dans tous les locaux où s’effectue le traitement des carcasses et des abats.
+
+<sup>2</sup> L’eau non potable peut être utilisée uniquement là où elle ne risque pas d’entrer en contact avec les carcasses et les abats, p. ex. pour la production de vapeur à des fins techniques, la lutte contre les incendies ou le refroidissement des agrégats de réfrigération. Les conduites d’eau non potable doivent être spécialement marquées.
+
+### 1.3 Éclairage
+
+Les locaux doivent être éclairés, soit par la lumière du jour, soit par de la lumière artificielle. L’intensité lumineuse minimale doit être la suivante:
+
+<table>
+<tr><td></td><td>Lux</td></tr>
+<tr><td>a. dans les locaux de travail</td><td>220</td></tr>
+<tr><td>b. dans les locaux de réfrigération et de surgélation</td><td>110</td></tr>
+<tr><td>c. dans les locaux de stabulation</td><td>110</td></tr>
+<tr><td>d. aux postes où s’effectue le contrôle des viandes</td><td>540</td></tr>
+<tr><td>e. aux postes où s’effectue le contrôle des animaux avant l’abattage, dans le local de stabulation sanitaire, dans le local de réfrigération sanitaire ou dans les secteurs correspondants</td><td>220</td></tr>
+</table>
+
+### 1.4 Ventilation
+
+Les locaux doivent disposer d’une ventilation adéquate. Au besoin, ils seront équipés d’un système d’évacuation des buées.
+
+### 1.5 Agrégats de réfrigération
+
+Les locaux de réfrigération et de surgélation doivent également être équipés:
+
+- a. d’agrégats atteignant et maintenant les températures prescrites pour les viandes;
+- b. d’un thermomètre; dans les locaux de plus de 200 m<sup>3</sup>: d’un thermomètre enregistreur.
+
+### 1.6 Dispositif de nettoyage des mains
+
+<sup>1</sup> Un dispositif de nettoyage des mains doit être installé à proximité de chaque poste de travail.
+
+<sup>2</sup> Ce dispositif doit être pourvu:
+
+- a.
+
+  de robinets:
+
+  - 1\. qui ne peuvent être actionnés ni à la main ni avec le bras,
+  - 2\. qui dispensent de l’eau courante froide et chaude ou de l’eau prémélangée à la température appropriée;
+
+- b. de distributeurs de savon et de désinfectant;
+- c. d’un système hygiénique de séchage des mains; les essuie-mains jetables doivent être placés dans un distributeur; les essuie-mains utilisés doivent être jetés dans un récipient adéquat.
+
+### 1.7 Nettoyage et désinfection des outils
+
+Près des postes de travail doivent se trouver des dispositifs appropriés au nettoyage des outils qui sont entrés en contact avec les carcasses et les abats, notamment les couteaux et les scies, et, pour la désinfection, de l’eau chaude d’une température d’au moins 82 °C ou d’un autre système ayant un effet équivalent.
+
+### 1.8 Installations et outils
+
+<sup>1</sup> Les installations et les outils (tables de découpe, plateaux de découpe amovibles, récipients, bandes transporteuses, scies, etc.) doivent être pourvus de surfaces lisses, faciles à nettoyer et à désinfecter là où ils entrent en contact avec les carcasses et les abats.
+
+<sup>2</sup> Les installations et les outils doivent être utilisés de façon à ce que les carcasses et les abats n’entrent en contact ni avec le sol ni avec les murs ni avec les portes ou les éléments de construction.
+
+<sup>3</sup> Les surfaces galvanisées ne sont admises que si les carcasses et les abats n’entrent pas en contact avec elles.
+
+<sup>4</sup> Le bois ne peut être utilisé que dans des locaux où les carcasses et les abats sont emballés.
+
+### 1.9 Élimination des sous-produits animaux
+
+<sup>1</sup> Des installations parfaitement hygiéniques servant à l’élimination des sous-produits animaux solides et liquides doivent être disponibles.
+
+<sup>2</sup> Les locaux, les récipients, les conduites ainsi que les systèmes d’évacuation doivent être disposés de manière à ce que les sous-produits animaux ne souillent ni les carcasses ni les abats.
+
+<sup>3</sup> Pour collecter les sous-produits animaux, on disposera:
+
+- a. de récipients étanches en matière résistant à la corrosion, faciles à nettoyer, ou
+- b. d’un local spécial pour les grandes quantités ou l’entreposage.
+
+<sup>4</sup> Les récipients et les locaux destinés à recevoir des sous-produits animaux doivent pouvoir être fermés à clé afin d’empêcher les personnes non autorisées d’y accéder. Ces sous-produits doivent être réfrigérés s’ils ne sont pas évacués chaque jour. Leur identification est régie par l’annexe 4, ch. 11, de l’ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux[^annex1-lvlu1-lvl1-lvl19-1] [^annex1-lvlu1-lvl1-lvl19-2].
+
+<sup>5</sup> Un emplacement clos se trouvant dans l’enceinte de l’abattoir ou de l’établissement de traitement du gibier sert à entreposer les déchets du métabolisme (fumier, contenu de la panse, de l’estomac, des intestins) lorsque ceux-ci ne sont pas évacués chaque jour. Cet emplacement doit être aménagé de sorte que les carcasses et les abats ne subissent pas d’effets dommageables. Il doit être drainé et protégé contre les oiseaux et les animaux indésirables.
+
+[^annex1-lvlu1-lvl1-lvl19-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex1-lvlu1-lvl1-lvl19-2]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+### 1.10 Eaux résiduaires
+
+<sup>1</sup> Pour séparer les matières solides des eaux résiduaires, les abattoirs et établissements de traitement du gibier doivent disposer soit d’un équipement permettant une pré-épuration des eaux résiduaires (système de flottation ou de filtrage) soit de bouches d’évacuation des eaux au sol munies de grilles dont les ouvertures ne dépassent pas 1 cm<sup>2</sup>.
+
+<sup>2</sup> Les matières solides doivent être éliminées conformément à l’ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux[^annex1-lvlu1-lvl1-lvl110-1].
+
+[^annex1-lvlu1-lvl1-lvl110-1]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+### 2 Exigences générales applicables aux grands établissements
+
+### 2.1 Aménagement de l’enceinte
+
+<sup>1</sup> Par des aménagements, tels que des murs, des clôtures ou des portails, l’établissement doit pouvoir empêcher que des personnes non autorisées n’aient accès à l’enceinte de l’abattoir.
+
+<sup>2</sup> Deux installations de nettoyage et de désinfection devront se trouver dans l’enceinte ou dans un lieu à proximité facilement accessible:
+
+- a. l’une, pour les véhicules destinés au transport d’animaux;
+- b. l’autre, pour les véhicules destinés au transport de viandes.
+
+<sup>3</sup> Le transbordement des animaux et des viandes requiert les installations séparées suivantes:
+
+- a. des rampes ou une plate-forme élévatrice permettant de décharger les animaux;
+- b. un quai pour les véhicules de transport avec des aires de réception et de triage pour le chargement des viandes. Ce quai doit permettre d’éviter les souillures et les altérations des viandes par la poussière, la chaleur ou d’autres influences nuisibles; il doit être séparé de la rampe de déchargement des animaux.
+
+### 2.2 Infrastructure de base
+
+<sup>1</sup> Dans un grand établissement, des locaux distincts sont exigés pour:
+
+- a. l’hébergement des animaux (local d’attente et local de stabulation);
+- b. l’abattage, avec deux locaux séparés pour
+  - 1\. l’étourdissement et la saignée,
+  - 2\. l’éviscération et la poursuite de l’habillage;
+
+- c. le traitement des abats;
+- d. le conditionnement et l’emballage des abats pour autant que ces opérations soient prévues;
+- e. l’entreposage des viandes (local de réfrigération et de surgélation);
+- f. l’entreposage de matériaux de conditionnement et d’emballage et d’auxiliaires technologiques;
+- g. l’entreposage du matériel de nettoyage et de désinfection;
+- h. l’entreposage des pièces de rechange, des outils et du matériel technique, tel que les lubrifiants;
+- i. le personnel (vestiaires, toilettes);
+- j. l’élimination des sous-produits animaux;
+- k. les contrôles et les mesures officiels.
+
+<sup>2</sup> …
+
+<sup>3</sup> Les opérations visées à l’al. 1, let. b, c et d peuvent être séparées dans l’espace ou le temps.
+
+### 2.3 Installations pour le personnel
+
+<sup>1</sup> Le personnel doit disposer de vestiaires, de dispositifs de nettoyage des mains, de douches et de toilettes.
+
+<sup>2</sup> Les locaux doivent être équipés:
+
+- a. de sols imperméables, de murs lisses et lavables;
+- b. d’endroits de rangement séparés pour les vêtements personnels et les vêtements de travail ou d’un centre de distribution des vêtements;
+- c. de dispositifs de nettoyage des mains équipés conformément à l’annexe 1, ch. 1.6; l’installation d’essuie-mains en tissu avec dérouleur automatique est néanmoins autorisée.
+
+<sup>3</sup> Les toilettes ne doivent pas communiquer directement avec les locaux de travail ni avec les entrepôts.
+
+<sup>4</sup> Un local particulier ou un emplacement particulier doit être réservé, dans l’abattoir, pour le nettoyage des tabliers et des bottes.
+
+### 3 Exigences générales applicables aux établissements de faible capacité
+
+<sup>1</sup> Un établissement de faible capacité doit disposer des locaux et des installations suivants:
+
+- a. un local d’abattage;
+- b. un local de réfrigération;
+- c.
+
+  des locaux distincts ou, si le volume suffit, des armoires dans un local prévu à cet effet pour ranger:
+
+  - 1\. les matériaux d’emballage ainsi que les auxiliaires technologiques,
+  - 2\. le matériel de nettoyage et de désinfection,
+  - 3\. les pièces de rechange, les outils et le matériel technique tel que les lubrifiants;
+
+- d. un vestiaire et des toilettes sans communication directe avec le local d’abattage;
+- e. des récipients d’élimination des sous-produits animaux.
+
+<sup>2</sup> Les locaux mentionnés à l’al. 1, let. b, c et d, peuvent être situés à l’extérieur de l’abattoir ou de l’établissement de traitement du gibier.
+
+<sup>3</sup> La surface au sol du local d’abattage doit être de 25 m<sup>2</sup> au moins lors de toute nouvelle construction. La distance entre les murs doit être de 3,5 m au moins. Cette règle n’est pas applicable aux locaux servant exclusivement à l’abattage de volailles et de lapins ou au traitement du gibier sauvage ou d’élevage mis à mort.
+
+### 4 Exigences particulières applicables aux abattoirs de bétail de boucherie et de gibier d’élevage****
+
+[^annex1-lvlu1-lvl4-1]
+
+[^annex1-lvlu1-lvl4-1]: Nouvelle expression selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)). Il a été tenu compte de cette mod. dans tout le texte.
+
+### 4.1 Grands établissements
+
+### 4.1.1 Hébergement des animaux
+
+Les rampes, les locaux d’attente, les locaux de stabulation et les couloirs d’amenée doivent être pourvus:
+
+- a. de sols non glissants, résistants et imperméables, faciles à nettoyer et à désinfecter;
+- b. de murs lisses dont le revêtement est résistant, imperméable, facile à nettoyer et à désinfecter;
+- c. de sols rainurés pour les déchets du métabolisme dans les locaux de stabulation;
+- d. d’installations facilitant le contrôle des animaux avant l’abattage et l’identification des animaux et/ou des groupes d’animaux;
+- e. d’une évacuation séparée des eaux résiduaires qui ne mette pas en danger la sécurité des denrées alimentaires.
+
+### 4.1.2 Locaux supplémentaires
+
+<sup>1</sup> Des locaux ou des emplacements séparés par une cloison sont requis:
+
+- a. pour le traitement des têtes;
+- b. pour la vidange et le nettoyage des estomacs et des intestins;
+- c. pour le traitement des estomacs et des intestins.
+
+<sup>2</sup> Lorsque plus d’une chaîne d’abattage fonctionnent dans le même local, leur séparation adéquate doit être assurée pour éviter une contamination croisée. Les opérations doivent être séparées dans l’espace ou dans le temps.
+
+<sup>3</sup> Si dans le local où s’effectuent l’échaudage, l’épilage, le grattage et le brûlage des porcs, des animaux d’autres espèces animales sont abattus en même temps, l’emplacement servant à ces opérations doit être séparé:
+
+- a. par un espace de 5 m au moins, ou
+- b. par une cloison d’au moins 3 m de haut.
+
+<sup>4</sup> L’autorité cantonale compétente peut autoriser que la vidange et le nettoyage des estomacs et des intestins soient effectués dans le même local que l’abattage avec une séparation de celui-ci dans le temps.
+
+### 4.1.3 Installations supplémentaires
+
+<sup>1</sup> Une grille de réception doit être installée à l’emplacement où tombent les animaux adultes de l’espèce bovine après avoir été étourdis.
+
+<sup>2</sup> Un convoyeur transportera les carcasses vers les postes de travail après l’étourdissement et la saignée, puis dans les locaux de réfrigération.
+
+### 4.1.4 Locaux et installations pour les contrôles et mesures officiels
+
+<sup>1</sup> Les locaux et les installations suivants permettront d’exécuter les contrôles et les mesures officiels:
+
+- a. pour isoler les animaux malades ou suspects: un local de stabulation sanitaire que l’on peut fermer à clef ou un emplacement à part dans le local de stabulation, doté de bouches d’évacuation des eaux indépendantes;
+- b. un emplacement abrité pour le contrôle des animaux avant l’abattage;
+- c. dans les abattoirs disposant d’une chaîne automatique de déplacement des carcasses, un convoyeur parallèle, partant du poste de contrôle, destiné aux carcasses qui doivent subir des contrôles supplémentaires;
+- d. un local de réfrigération sanitaire que l’on peut fermer à clef ou des compartiments équivalents que l’on peut fermer à clef pour la conservation des carcasses contestées et mises sous séquestre;
+- e. selon le volume des abattages, soit un bureau suffisamment équipé que l’on peut fermer à clef, soit un poste de travail avec un compartiment que l’on peut fermer à clef pour y mettre le matériel servant aux contrôles et les documents administratifs, ainsi qu’une armoire pour les vêtements de travail.
+
+<sup>2</sup> Si l’abattage d’animaux malades ou suspectés de maladie ne peut être effectué dans des abattoirs spécialement prévus à cet effet ou effectué à d’autres moments que les abattages ordinaires, il faut prévoir un local d’abattage sanitaire.
+
+<sup>3</sup> Les postes de contrôle des viandes doivent être pourvus:
+
+- a. d’un dispositif de nettoyage des mains;
+- b. d’un dispositif de désinfection des couteaux;
+- c. d’un interrupteur de la chaîne, lorsque les carcasses sont déplacées automatiquement;
+- d. d’une plate-forme avec élévateur si elle permet de faciliter le contrôle des viandes.
+
+### 4.2 Établissements de faible capacité
+
+### 4.2.1 Locaux ou emplacements supplémentaires
+
+Un local particulier ou un emplacement particulier est requis pour la vidange des estomacs et des intestins.
+
+### 4.2.2 Installations supplémentaires
+
+Les installations suivantes sont requises:
+
+- a. un dispositif pour nettoyer les véhicules de transport, s’il n’est pas disponible ailleurs;
+- b. un dispositif pour suspendre les carcasses;
+- c. un aménagement dans le local de réfrigération pour conserver séparément les carcasses et les parties mises sous séquestre.
+
+### 5 Exigences particulières applicables aux abattoirs de volaille domestique et d’oiseaux coureurs
+
+<sup>1</sup> Dans les grands abattoirs de volaille, les activités suivantes doivent être effectuées dans un local qui leur est destiné:
+
+- a. sortir les animaux de leurs contenants de transport, effectuer le contrôle avant l’abattage et les préparer à l’étourdissement;
+- b. les étourdir, les saigner et les déplumer ou les dépouiller;
+- c. les éviscérer et poursuivre l’habillage, y compris l’ajout de condiments aux carcasses entières de volaille;
+- d. expédier les viandes.
+
+<sup>2</sup> Dans les grands abattoirs, les personnes s’occupant de la volaille vivante ou de la plumaison doivent avoir un vestiaire et des toilettes distincts de ceux des autres employés.
+
+<sup>3</sup> Les personnes s’occupant de la volaille vivante ou de la plumaison doivent avoir un vestiaire et des toilettes distincts de ceux des autres employés. Les carcasses doivent être conduites par des ouvertures réduites permettant leur passage d’un local à l’autre et leur arrivée dans le local d’abattage. Les autres passages entre ces locaux doivent être dotés de portes à fermeture automatique.
+
+<sup>4</sup> Des installations fermant à clé doivent être prévues pour l’entreposage frigorifique des viandes mises sous séquestre.
+
+### 6 Exigences particulières applicables aux établissements de traitement du gibier
+
+<sup>1</sup> La réception et l’entreposage du gibier non dépouillé ou non plumé doivent être séparés dans l’espace ou le temps du dépouillement et de la plumaison. Le local d’entreposage doit être réfrigéré.
+
+<sup>2</sup> La viande non emballée doit être entreposée séparément dans l’espace ou le temps du gibier non dépouillé ou non plumé et de la viande emballée.
+
+<sup>3</sup> Ces règles sont également applicables aux établissements qui ne disposent pas d’un local d’abattage.
+
+Annexe 2*[^t-2]*
+
+(art. 2)
+
+[^t-2]: Abrogée par le ch. II 3 de l’O du 16 mai 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+
+Annexe 3*[^t-3]*
+
+(art. 3)
+
+## Règles d’hygiène à respecter dans les abattoirs et les établissements de traitement du gibier
+
+[^t-3]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 29 oct. 2008 ([RO 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) et le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+
+### 1 Règles d’hygiène générales
+
+### 1.1 Hygiène du personnel
+
+<sup>1</sup> Les personnes occupées aux opérations d’abattage ou qui sont en présence de carcasses et d’abats non emballés doivent:
+
+- a. porter des chaussures faciles à nettoyer, des vêtements de travail clairs ainsi qu’une coiffe;
+- b. mettre des vêtements de travail propres au début de chaque journée de travail, et les changer dans le courant de la journée s’ils sont très salis;
+- c.
+
+  se laver soigneusement les mains:
+
+  - 1\. au début et à chaque reprise du travail,
+  - 2\. chaque fois qu’elles ont été souillées,
+  - 3\. après avoir touché des animaux malades, des carcasses ou des parties d’animaux malades qui ont été abattus.
+
+<sup>2</sup> Il est interdit de manger, de boire et de fumer dans les secteurs réservés au travail.
+
+<sup>3</sup> Ces prescriptions sont applicables par analogie aux visiteurs des abattoirs et établissements de traitement du gibier.
+
+### 1.2 Utilisation des installations et des outils
+
+<sup>1</sup> Les installations et les outils doivent être réservés aux activités afférentes à l’abattage et au traitement des carcasses et des abats.
+
+<sup>2</sup> Les sols, les murs et les plates-formes ne doivent pas entrer en contact avec des carcasses et des abats.
+
+<sup>3</sup> Les récipients contenant des carcasses ou des abats ne doivent pas entrer en contact avec le sol.
+
+<sup>4</sup> Les outils, notamment les couteaux, doivent être conservés en un endroit propre.
+
+<sup>5</sup> L’affûtage des couteaux doit être effectué dans un emplacement particulier.
+
+### 1.3 Nettoyage des locaux, des installations et des outils
+
+<sup>1</sup> Les locaux, à l’exception des locaux de réfrigération et de surgélation, les installations et les outils doivent être nettoyés et désinfectés à la fin de chaque journée de travail; les outils, notamment les couteaux et les scies, doivent l’être en outre chaque fois qu’ils ont été souillés.
+
+<sup>2</sup> Lorsque le poste de travail a été fortement souillé par l’abattage d’un animal ou par des matières potentiellement pathogènes, il doit être soigneusement nettoyé et si nécessaire désinfecté avant que le travail ne reprenne.
+
+<sup>3</sup> Lors du nettoyage d’installations, d’outils et de tabliers, il faut prendre garde à ne pas souiller les carcasses, les abats ou d’autres denrées alimentaires.
+
+### 2 Règles d’hygiène particulières: abattage de bétail de boucherie et de gibier d’élevage
+
+### 2.1 Activités dans les abattoirs
+
+<sup>1</sup> Seules les activités afférentes à l’abattage sont autorisées dans les locaux d’un abattoir.
+
+<sup>2</sup> Sont autorisés en outre:
+
+- a. la découpe des carcasses en demi-carcasses, quartiers et six morceaux;
+- b. le traitement des abats, leur conditionnement et leur emballage;
+
+<sup>3</sup> L’abattage d’animaux de différentes espèces dans le même abattoir doit être séparé dans l’espace ou dans le temps.
+
+### 2.2 Abattage
+
+Lors de l’abattage, il faut enlever de la carcasse les parties qui:
+
+- a. ne sont pas admises comme denrées alimentaires;
+- b. sont à présenter séparément au contrôle des viandes;
+
+### 2.3 Règles d’hygiène
+
+<sup>1</sup> Les animaux doivent être saignés. Chez les animaux autres que les moutons et les chèvres, la trachée et l’œsophage doivent rester intacts lors de la saignée.
+
+<sup>2</sup> Les carcasses, à l’exception de celles de porcs, doivent être dépouillées. Si les porcs ne sont pas dépouillés, ils doivent être épilés. Le vétérinaire officiel peut permettre des dérogations dans des cas particuliers pour des spécialités gastronomiques.
+
+<sup>3</sup> Lors du dépouillement, la viande ne doit entrer en contact
+
+- a. ni avec la partie externe de la peau;
+- b. ni avec les mains et les appareils qui ont traité la partie externe de la peau.
+
+<sup>4</sup> Lors du dépouillement, les mamelles en lactation ne doivent pas être incisées; la carcasse ne doit pas être souillée par du lait ou du colostrum.
+
+<sup>5</sup> Des mesures doivent être prises pour éviter le déversement du tractus digestif pendant l’éviscération et pour assurer que l’éviscération soit terminée aussi vite que possible après l’étourdissement.
+
+<sup>6</sup> S’ils sont destinés à une transformation ultérieure en tant que denrées alimentaires:
+
+- a. les estomacs doivent être nettoyés et blanchis;
+- b. les intestins doivent être vidés et nettoyés;
+- c. les têtes et les pieds doivent être dépouillés ou blanchis et épilés.
+
+<sup>6bis</sup> En dérogation à l’al. 6, let. a, les estomacs des veaux destinés à la production de présure doivent seulement être vidés.
+
+<sup>7</sup> Les viscères de la cavité abdominale doivent être retirés dès que possible du secteur «propre» de l’abattoir.
+
+<sup>8</sup> Les carcasses doivent être exemptes de toute contamination fécale. Toute contamination visible doit être éliminée par le parage.
+
+<sup>9</sup> Les contaminations de la viande par l’eau d’échaudage doivent être évitées. Les carcasses de porcs doivent être échaudées avec de l’eau potable.
+
+<sup>10</sup> Si un abattoir ne dispose pas d’un local d’abattage sanitaire, les locaux utilisés pour l’abattage sanitaire doivent être nettoyés et désinfectés après chaque utilisation.
+
+### 2.4 Manipulations interdites lors de l’abattage
+
+<sup>1</sup> Les carcasses et les abats ne doivent pas être:
+
+- a. nettoyés à l’aide d’un linge ou d’autres matériaux servant au nettoyage, mis à part les serviettes jetables en papier;
+- b. …
+- c. immergés dans de l’eau stagnante avant le contrôle des viandes.
+
+<sup>2</sup> Les carcasses, à l’exception des carcasses de porcs, ne doivent pas être douchées avant le contrôle des viandes.
+
+### 3 Règles d’hygiène particulières: abattage d’autres espèces animales
+
+### 3.1 Volaille domestique, lapins domestiques et oiseaux coureurs
+
+<sup>1</sup> Les contenants utilisés pour la livraison d’animaux vivants à l’abattoir doivent être constitués de matériaux résistant à la corrosion, faciles à nettoyer et à désinfecter; aussitôt après déchargement et au besoin avant chaque réutilisation, ils doivent être nettoyés, lavés et désinfectés.
+
+<sup>2</sup> L’intestin doit être enlevé de manière à ne pas souiller la carcasse. Il doit être éliminé dès que possible de la partie «propre» de l’abattoir.
+
+<sup>3</sup> Après l’éviscération et le contrôle des viandes, les animaux abattus doivent être nettoyés et réfrigérés dès que possible jusqu’à une température ne dépassant pas 4 °C, à moins que la découpe ne soit effectuée à chaud.
+
+<sup>4</sup> Lorsque les carcasses sont soumises à un processus de réfrigération par immersion, toutes les précautions doivent être prises pour éviter leur contamination, en tenant compte de paramètres tels que le poids de la carcasse, la température, le volume et la direction du flux de l’eau et le temps de réfrigération. L’équipement doit être entièrement vidé, nettoyé et désinfecté chaque fois que cela est nécessaire et au moins une fois par jour.
+
+### 3.2 Gibier sauvage
+
+### 3.2.1 Généralités
+
+<sup>1</sup> Le gibier sauvage doit être saigné le plus rapidement possible après avoir été mis à mort; les estomacs et les intestins doivent être retirés. Les estomacs et les intestins des lièvres et du gibier à plumes peuvent n’être retirés que dans l’établissement de traitement (d’abattage), si cela n’entraîne pas un retard injustifié.
+
+<sup>2</sup> La réfrigération doit commencer dans un délai raisonnable suivant la mise à mort et atteindre dans toute la viande une température ne dépassant pas 7 °C, 4 °C dans le cas des lièvres et du gibier à plumes. Tout amoncellement est interdit pendant le transport vers l’établissement de traitement. Si les conditions climatiques le permettent, la réfrigération active n’est pas nécessaire.
+
+<sup>3</sup> Lorsqu’un examen de recherche des trichinelles est prescrit, la tête (à l’exception des défenses) et le diaphragme doivent accompagner le corps et être présentés au vétérinaire officiel.
+
+### 3.2.2 Contrôle du gibier sauvage
+
+<sup>1</sup> Le corps et les viscères éventuellement retirés doivent être examinés dès que possible après la mise à mort. L’attention doit porter sur les caractéristiques anormales observées avant la mise à mort, trouvées lors de l’examen ou faisant suspecter une contamination de l’environnement.
+
+<sup>2</sup> Un certificat (annexe 14) doit être délivré à l’issue de l’examen.
+
+<sup>3</sup> Le gibier sauvage doit être transporté à l’établissement de traitement du gibier comme suit:
+
+- a. Si aucune caractéristique anormale n’a été constatée lors de l’examen visé à l’al. 1, la tête et les viscères ne doivent pas accompagner le corps, sauf si cela est prescrit pour l’examen de recherche des trichinelles.
+- b. Si l’examen visé à l’al. 1 révèle des caractéristiques anormales, la tête, à l’exception des défenses, et les viscères, à l’exception de l’estomac et des intestins, doivent accompagner le corps.
+- c. Si l’examen visé à l’al. 1 n’a pas pu être effectué, la tête à l’exception des défenses, des bois ou des cornes, ainsi que les viscères, à l’exception de l’estomac et des intestins, doivent accompagner le corps.
+
+### 3.3 Poissons
+
+<sup>1</sup> Les surfaces, l’équipement et le matériel avec lesquels les poissons entrent en contact doivent être faits d’un matériau approprié résistant à la corrosion, lisse et facile à nettoyer. Leur revêtement doit être solide et non toxique.
+
+<sup>2</sup> Dès que possible après leur sortie de l’eau, les poissons doivent être placés à l’abri de toute contamination et être protégés contre les effets du soleil ou de toute autre source de chaleur. Lorsqu’ils sont lavés, l’eau doit être propre.
+
+<sup>3</sup> Les poissons doivent être manipulés et entreposés de façon à éviter qu’ils ne soient meurtris ou endommagés d’une autre manière.
+
+<sup>4</sup> Les poissons qui ne sont pas conservés vivants doivent être réfrigérés dès que possible avec de la glace obtenue à partir d’eau potable. Toutefois, lorsque la réfrigération n’est pas possible immédiatement après la capture, les poissons doivent être débarqués dès que possible et être réfrigérés dans des locaux appropriés.
+
+<sup>5</sup> Les poissons doivent être étêtés et/ou éviscérés dès que possible après la capture et de manière hygiénique. Après quoi, ils doivent être lavés immédiatement et abondamment à l’eau propre. Dans ce cas, les viscères et les parties pouvant constituer un danger pour la santé de l’être humain doivent être retirés au plus vite et être conservés à l’écart des produits destinés à la consommation humaine.
+
+<sup>6</sup> Quiconque remet des poissons doit les examiner ou les faire examiner visuellement quant à la présence de parasites. Les poissons atteints d’un parasitisme sous-cutané ou musculaire marqué ou de parasites transmissibles à l’homme ne peuvent être remis pour être utilisés comme denrées alimentaires.
+
+### 3.4 Autres animaux
+
+<sup>1</sup> Les abattoirs dans lesquels les grenouilles sont préparées doivent disposer d’un local réservé à l’entreposage et au lavage des grenouilles vivantes, à leur abattage et leur saignée. Les grenouilles et les escargots doivent être emportés vivants dans un établissement équipé pour leur traitement et y être mis à mort. Dans le cas contraire, ils sont impropres à la consommation.
+
+<sup>2</sup> Après la mise à mort, l’hépatopancréas des escargots doit être enlevé et ne doit pas être remis en tant que denrée alimentaire.
+
+<sup>3</sup> Immédiatement après leur préparation, les cuisses de grenouille doivent être abondamment lavées à l’eau potable courante puis réfrigérées sans délai à une température approchant celle de la glace fondante, congelées ou transformées.
+
+<sup>4</sup> Les crustacés, les mollusques, les échinodermes et les tuniciers vivants remis directement au consommateur doivent être maintenus à une température qui n’affecte pas les caractéristiques de viabilité et de sécurité des aliments.
+
+<sup>5</sup> Pour le reste, les crustacés, mollusques, échinodermes et tuniciers sont soumis aux réglementations du ch. 3.3.
+
+Annexe 4*[^t-4]*
+
+(art. 4)
+
+## Contrôle des animaux avant l’abattage
+
+[^t-4]: Mise à jour selon l’annexe 2 ch. 3 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> avril 2007 ([RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+
+### 1 Exécution
+
+<sup>1</sup> Lors du contrôle des animaux avant l’abattage, il faut vérifier:
+
+- a. si le document d’accompagnement ou la déclaration sanitaire a été remis et s’il concorde avec l’identification de l’animal;
+- b. si le document d’accompagnement ou la déclaration sanitaire laisse suspecter des caractéristiques contestables chez l’animal;
+- c. si l’état général de l’animal est perturbé et si l’animal présente des symptômes de maladies ou de blessures;
+- d. s’il y a une suspicion d’épizootie, notamment de zoonose;
+- e. si des indices laissent supposer que les dispositions relatives aux traitements médicamenteux ou à l’administration de substances interdites n’ont pas été respectées;
+- f. si les dispositions de la protection des animaux sont prises en considération;
+- g. si l’animal ne présente pas de souillures manifestes;
+- h. si d’autres constatations laissent supposer que la santé publique ou la santé animale pourraient être compromises.
+
+<sup>2</sup> Outre le contrôle des animaux avant l’abattage, le vétérinaire officiel doit effectuer un examen clinique de tous les animaux que le personnel de l’abattoir ou l’auxiliaire officiel a écartés.
+
+<sup>3</sup> Les systèmes de contrôle de qualité des unités d’élevage qui se rapportent à des animaux clairement identifiés peuvent être pris en considération.
+
+<sup>4</sup> Lorsque le contrôle des animaux avant l’abattage a été effectué dans le troupeau de provenance et lorsque l’examen global et le contrôle de la déclaration sanitaire (annexe 13) ne font rien suspecter de particulier, aucun contrôle supplémentaire n’est requis.
+
+### 2 Mesures résultant du contrôle des animaux avant l’abattage
+
+<sup>1</sup> Suivant le résultat du contrôle des animaux avant l’abattage, le vétérinaire officiel peut ordonner qu’un animal:
+
+- a. soit signalé en vue d’un examen plus approfondi lors du contrôle des viandes;
+- b. soit préventivement isolé;
+- c. soit abattu dans un autre local ou dans le même local que les autres animaux, mais à un autre moment;
+- d. soit immédiatement abattu;
+- e. ne soit abattu qu’après un temps de repos indiqué;
+- f. ne soit provisoirement pas abattu pour raison d’épizootie ou de suspicion d’épizootie;
+- g. soit tué et que le cadavre soit éliminé comme un sous-produit animal, ou
+- h. soit nettoyé avant l’abattage.
+
+<sup>2</sup> Les chevaux peuvent être abattus même en l’absence d’une déclaration sanitaire. Cette dernière doit toutefois être présentée après coup au vétérinaire officiel. Dans le cas contraire, la carcasse et les abats doivent être déclarés impropres à la consommation. Ces exigences s’appliquent également en cas d’abattage des chevaux en dehors de l’abattoir.
+
+Annexe 5*[^t-5]*
+
+(art. 5, al. 1, et 12, al. 1)
+
+## Préparation de la carcasse pour le contrôle des viandes
+
+[^t-5]: Mise à jour selon le ch. II de l’O du DFI du 15 nov. 2006 ([RO 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), l’annexe 2 ch. 3 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public; [RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), le ch. II al. 1 de l’O du DFI du 29 oct. 2008 ([RO 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) et le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+
+### 1 Animaux de l’espèce bovine, âgés de plus de huit mois
+
+- **1.1** **La carcasse doit être présentée comme suit:**
+- 1\.1.1 la carcasse: sans la tête, dépouillée, complètement éviscérée, les membres sectionnés au-dessus du canon (*os metacarpale* et *os metatarsale*), sans la queue; en demi-carcasses, quartiers ou en six morceaux;
+- 1\.1.2 la tête: dépouillée, la langue dégagée de façon à permettre un examen visuel de la muqueuse de la bouche et de l’arrière-bouche; pour les animaux d’un poids mort égal ou inférieur à 150 kg, le dépouillement de la tête et le dégagement de la langue ne sont pas nécessaires;
+- 1\.1.3 le museau, s’il a été détaché de la tête;
+- 1\.1.4 la queue: avec les muscles correspondants;
+- 1\.1.5 la trachée et l’œsophage, le poumon, le péricarde non ouvert, le cœur non ouvert et le diaphragme;
+- 1\.1.6 le foie;
+- 1\.1.7 la rate;
+- 1\.1.8 les reins: dégagés de leur capsule et de leur enveloppe graisseuse;
+- 1\.1.9 les pré-estomacs et l’estomac avec le mésentère;
+- 1\.1.10 l’intestin avec le mésentère ainsi que l’anus;
+- 1\.1.11 la mamelle: non dépouillée dans la région des sinus lactifères;
+- 1\.1.12 les organes génitaux femelles.
+- 1\.1.13 les pieds, s’ils sont destinés à être utilisés comme denrées alimentaires.
+- **1.2** **Les parties de la carcasse ci-dessous peuvent être enlevées avant le contrôle des viandes:**
+- 1\.2.1 le sang;
+- 1\.2.2 les yeux (seulement chez les animaux jusqu’à 12 mois), les paupières, les conduits auditifs externes;
+- 1\.2.3 la peau;
+- 1\.2.4 les cornes;
+- 1\.2.5 les pieds, s’ils ne sont pas destinés à être utilisés comme denrées alimentaires;
+- 1\.2.6 la moelle épinière et la dure-mère *(Dura mater)*;
+- 1\.2.7 le thymus;
+- 1\.2.8 la vésicule biliaire;
+- 1\.2.9 la mamelle, si elle n’est pas destinée à être utilisée comme denrée alimentaire;
+- 1\.2.10 les organes génitaux mâles.
+
+### 2 Animaux de l’espèce bovine âgés de moins de huit mois
+
+- **2.1** **La carcasse doit être présentée comme suit:**
+- 2\.1.1 la carcasse: sans la tête, dépouillée, éviscérée, avec ou sans les reins et leur enveloppe graisseuse, les membres sectionnés au-dessus du canon (*os metacarpale* et *os metatarsale*), sans la queue; en demi-carcasses;
+- 2\.1.2 la tête: dépouillée ou non;
+- 2\.1.3 la queue: avec les muscles correspondants;
+- 2\.1.4 les pieds, s’ils sont destinés à être utilisés comme denrées alimentaires;
+- 2\.1.5 la trachée et l’œsophage, le poumon, le péricarde non ouvert et le diaphragme;
+- 2\.1.6 le thymus;
+- 2\.1.7 le foie;
+- 2\.1.8 la rate;
+- 2\.1.9 les reins: dégagés de leur capsule et de leur enveloppe graisseuse;
+- 2\.1.10 les pré-estomacs et l’estomac avec le mésentère;
+- 2\.1.11 l’intestin avec le mésentère ainsi que l’anus.
+- **2.2** **Les parties de la carcasse ci-dessous peuvent être enlevées avant le contrôle des viandes:**
+- 2\.2.1 le sang;
+- 2\.2.2 les yeux, les paupières, les conduits auditifs externes;
+- 2\.2.3 la peau;
+- 2\.2.4 les pieds, s’ils ne sont pas destinés à être utilisés comme denrées alimentaires;
+- 2\.2.5 la moelle épinière;
+- 2\.2.6 la vésicule biliaire;
+- 2\.2.7 les organes génitaux mâles et femelles.
+
+### 3 Animaux des espèces ovine et caprine, gibier d’élevage, autre bétail de boucherie (non cités aux ch. 1, 2, 4 et 5)
+
+- **3.1** **La carcasse doit être présentée comme suit:**
+- 3\.1.1 la carcasse: sans la tête ou avec la tête lorsque les animaux sont âgés de moins de 12 mois (si la tête reste à la carcasse: sans les yeux, les paupières, les conduits auditifs externes), dépouillée, éviscérée, avec ou sans les reins dégagés de leur capsule et de leur enveloppe graisseuse, les membres sectionnés au-dessus du canon (*os metacarpale* et *os metatars**a**le*), avec ou sans la queue; non fendue ou en demi-carcasses;
+- 3\.1.2 la tête: si elle est séparée de la carcasse, dépouillée ou non; avec les yeux si les animaux sont âgés de plus de 12 mois;
+- 3\.1.3 le cas échéant la queue;
+- 3\.1.4 la trachée et l’œsophage, le poumon non soufflé, le cœur non ouvert et le diaphragme;
+- 3\.1.5 le foie;
+- 3\.1.6 la rate;
+- 3\.1.7 les reins: dégagés de leur capsule et de leur enveloppe graisseuse s’ils ont été retirés de la carcasse;
+- 3\.1.8 les pré-estomacs et l’estomac avec le mésentère;
+- 3\.1.9 l’intestin avec le mésentère ainsi que l’anus;
+- 3\.1.10 la mamelle des femelles adultes;
+- 3\.1.11 les organes génitaux femelles.
+- **3.2** **Les parties de la carcasse ci-dessous peuvent être enlevées avant le contrôle des viandes:**
+- 3\.2.1 le sang;
+- 3\.2.2 les yeux des animaux de moins de 12 mois, les paupières, les conduits auditifs externes;
+- 3\.2.3 la peau;
+- 3\.2.4 les cornes ou les bois;
+- 3\.2.5 les pieds;
+- 3\.2.6 la moelle épinière;
+- 3\.2.7 la vésicule biliaire;
+- 3\.2.8 la mamelle si elle n’est pas destinée à être utilisée comme denrée alimentaire;
+- 3\.2.9 les organes génitaux mâles.
+
+### 4 Animaux de l’espèce porcine
+
+- **4.1** **La carcasse doit être présentée comme suit:**
+- 4\.1.1 la carcasse: avec ou sans la tête, éviscérée, avec ou sans les reins dégagés de leur capsule et de leur enveloppe graisseuse, épilée ou sans la couenne, sans les onglons, avec la queue; en demi-carcasses, quartiers ou en six morceaux; les truies: sans les mamelles; les truies et les verrats adultes: les membres sectionnés au-dessus du canon (*os metacarpale* et *os met**a**tar**sale*);
+- 4\.1.2 la tête: séparée ou non de la carcasse, sans les yeux, les paupières, les conduits auditifs externes;
+- 4\.1.3 la trachée et l’œsophage, le poumon, le péricarde non ouvert et le diaphragme;
+- 4\.1.4 le foie;
+- 4\.1.5 la rate;
+- 4\.1.6 les reins: dégagés de leur capsule et de leur enveloppe graisseuse;
+- 4\.1.7 l’estomac avec le mésentère;
+- 4\.1.8 l’intestin avec le mésentère ainsi que l’anus;
+- 4\.1.9 les mamelles des truies;
+- 4\.1.10 les organes génitaux femelles;
+- 4\.1.11 la couenne, si l’on a procédé au dépouillage.
+- **4.2** **Les parties de la carcasse ci-dessous peuvent être enlevées avant le contrôle des viandes:**
+- 4\.2.1 le sang;
+- 4\.2.2 les yeux, les paupières, les conduits auditifs externes;
+- 4\.2.3 les soies;
+- 4\.2.4 les onglons ou les pieds de truies et de verrats adultes;
+- 4\.2.5 la moelle épinière;
+- 4\.2.6 la vésicule biliaire;
+- 4\.2.7 les organes génitaux mâles.
+- 4\.2.8 les mamelles des truies, si elles ne sont pas destinées à être utilisées comme denrées alimentaires.
+
+### 5 Animaux de l’espèce équine
+
+- **5.1** **La carcasse doit être présentée comme suit:**
+- 5\.1.1 la carcasse: dépouillée, sans la tête, complètement éviscérée, les membres sectionnés au-dessus du canon (*os metacarpale* et *os metatarsale*), sans la queue; en demi-carcasses, quartiers ou en six morceaux;
+- 5\.1.2 la tête: dépouillée, la langue dégagée de façon à permettre un examen visuel de la muqueuse de la bouche et de l’arrière-bouche; le cas échéant fendue selon le plan médian pour un examen de recherche de la morve;
+- 5\.1.3 la queue avec les muscles correspondants;
+- 5\.1.4 la trachée fendue, l’œsophage, le poumon, le péricarde non ouvert et le diaphragme;
+- 5\.1.5 le foie;
+- 5\.1.6 la rate;
+- 5\.1.7 les reins: dégagés de leur capsule et de leur enveloppe graisseuse;
+- 5\.1.8 l’estomac avec le mésentère;
+- 5\.1.9 l’intestin avec le mésentère ainsi que l’anus;
+- 5\.1.10 la mamelle;
+- 5\.1.11 les organes génitaux femelles.
+- **5.2** **Les parties de la carcasse ci-dessous peuvent être enlevées avant le contrôle des viandes:**
+- 5\.2.1 le sang;
+- 5\.2.2 les yeux;
+- 5\.2.3 la peau;
+- 5\.2.4 la graisse de la crinière;
+- 5\.2.5 les pieds;
+- 5\.2.6 la moelle épinière;
+- 5\.2.7 les organes génitaux mâles.
+
+### 6 Volaille domestique, lapins domestiques et oiseaux coureurs
+
+- **6.1** **La carcasse doit être présentée comme suit:**
+- 6\.1.1 la carcasse: déplumée/dépouillée et ouverte de manière à pouvoir inspecter les viscères et les cavités corporelles. Si les viscères ont été enlevés de la carcasse, ils doivent rester attribuables à la carcasse dont ils proviennent.
+- **6.2** **Les parties suivantes de la carcasse peuvent être enlevées avant le contrôle des viandes:**
+- 6\.2.1 le sang;
+- 6\.2.2 la tête;
+- 6\.2.3 la peau/les plumes;
+- 6\.2.4 les pieds.
+
+### 7 Gibier sauvage
+
+- **7.1** **La carcasse doit être présentée comme suit:**
+- 7\.1.1 la carcasse: déplumée/dépouillée et ouverte de manière à pouvoir inspecter les viscères et les cavités corporelles. Si les viscères ont été enlevés de la carcasse, ils doivent rester attribuables à la carcasse dont ils proviennent. Si le vétérinaire officiel l’exige, la tête et la colonne vertébrale doivent être fendues.
+- **7.2** **Les parties suivantes de la carcasse peuvent être enlevées avant le contrôle des viandes:**
+- 7\.2.1 le sang;
+- 7\.2.2 la tête, sauf celle des sangliers;
+- 7\.2.3 la peau/les plumes;
+- 7\.2.4 les pieds;
+- 7\.2.5 les viscères de la cavité thoracique et abdominale si un contrôle a été effectué conformément à l’art. 21 de l’ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes.
+
+Annexe 6*[^t-6]*
+
+(art. 6, al. 1, et 12, al. 1)
+
+## Instructions pour le contrôle des viandes
+
+[^t-6]: Mise à jour selon le ch. II de l’O du DFI du 15 nov. 2006 ([RO 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)), l’annexe 2 ch. 3 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public; [RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)), le ch. II al. 1 de l’O du DFI du 29 oct. 2008 ([RO 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) et le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+
+<table>
+<tr><th></th><th>Parties anatomiques</th><th></th><th>à effectuer</th></tr>
+<tr><td>1</td><td colspan="3">Animaux de l’espèce bovine âgés de plus de huit mois</td></tr>
+<tr><td>1.1</td><td>tête, museau</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>gorge (muqueuse de la bouche et de l’arrière-bouche)</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>ganglions lymphatiques sous-maxillaires, rétropharyngiens et parotidiens *(Lnn. retropharynge**a**les, mandibulares et parotidei)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td></td><td>masséters externes *(M. masseter)*</td><td></td><td>examen visuel, deux larges incisions parallèles à la mandibule</td></tr>
+<tr><td></td><td>masséters internes *(M. pterygoideus lat. et med.)*</td><td></td><td>examen visuel, une large incision</td></tr>
+<tr><td></td><td>langue</td><td></td><td>dégagement, examen visuel, palpation</td></tr>
+<tr><td></td><td>anneau lymphatique pharyngien, amygdales</td><td></td><td>examen visuel, ablation Si la tête des animaux d’un poids mort égal ou inférieur à 150 kg n’est pas dépouillée, mais est destinée à l’échaudage et à l’épilage, elle doit faire l’objet d’un examen visuel attentif. Des examens plus approfondis ne sont pas nécessaires si l’examen de la carcasse et des autres parties n’a révélé aucune altération pathologique ni présence de cysticerques.</td></tr>
+<tr><td>1.2</td><td>poumons</td><td></td><td>examen visuel, palpation, si les poumons sont destinés à être utilisés comme denrées alimentaires: la trachée et les principales ramifications bronchiques doivent être ouvertes longitudinalement et les poumons incisés en leur tiers terminal perpendiculairement à leur grand axe</td></tr>
+<tr><td></td><td>ganglions bronchiques *(Lnn. bifurcationis, Lnn. eparteri**a**les)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td></td><td>ganglions médiastinaux *(Lnn. mediastinales)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td></td><td>trachée</td><td></td><td>examen visuel, si les poumons sont destinés à être utilisés comme denrées alimentaires: ouverture longitudinale</td></tr>
+<tr><td></td><td>œsophage</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.3</td><td>péricarde</td><td></td><td>ouverture, examen visuel</td></tr>
+<tr><td></td><td>cœur et sang</td><td></td><td>examen visuel, larges incisions longitudinales du cœur, ouverture des deux ventricules</td></tr>
+<tr><td>1.4</td><td>diaphragme</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.5</td><td>foie</td><td></td><td>examen visuel, palpation, incision de la surface gastrique du foie *(Facies visceralis)* et de la base du lobe de Spigel *(Processus caud**a**tus)*, vider les canaux biliaires visibles; pour les animaux d’un poids mort égal ou inférieur à 150 kg, les incisions du foie ne sont pas nécessaires.</td></tr>
+<tr><td></td><td>ganglions rétrohépatiques *(Lnn. portales)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td>1.6</td><td>estomac et intestin</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>mésentère ganglions lymphatiques stomacaux et mésentériques *(Lnn. gastrici, Lnn. mesenterici craniales et ca**u**dales)*</td><td></td><td>examen visuel examen visuel, palpation et si nécessaire incision</td></tr>
+<tr><td>1.7</td><td>rate</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.8</td><td>reins</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.9</td><td>plèvre</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>péritoine</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.10</td><td>organes génitaux (excepté le pénis, s’il a déjà été évacué)</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.11</td><td>mamelle et sécrétions</td><td></td><td></td></tr>
+<tr><td></td><td>chez la vache:</td><td></td><td>si la mamelle est destinée à être utilisée comme denrée alimentaire: examen visuel, chaque moitié de la mamelle est ouverte par une longue et profonde incision jusqu’aux sinus lactifères</td></tr>
+<tr><td></td><td>ganglions mammaires *(Lnn. supramammarii)* chez la vache:</td><td></td><td>si la mamelle est destinée à être utilisée comme denrée alimentaire: examen visuel, incision</td></tr>
+<tr><td>1.12</td><td>tissu musculaire, adipeux et conjonctif</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.13</td><td>os, articulations, gaines tendineuses</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>surface de fente de la colonne vertébrale</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.14</td><td>surface de fente de la colonne vertébrale</td><td></td><td>examen visuel</td></tr>
+<tr><td>1.15</td><td>pieds</td><td></td><td>si les pieds sont destinés à être utilisés comme denrées alimentaires: examen visuel</td></tr>
+<tr><td>2</td><td colspan="3">Animaux de l’espèce bovine âgés de moins de huit mois</td></tr>
+<tr><td>2.1</td><td>tête</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>gorge (muqueuse de la bouche et de l’arrière-bouche)</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>ganglions lymphatiques rétropharyngiens *(Lnn. retropharyngeales)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td></td><td>langue</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>anneau lymphatique pharyngien, amygdales</td><td></td><td>examen visuel, ablation Si la tête n’est pas dépouillée, mais est destinée à l’échaudage et à l’épilage, elle doit faire l’objet d’un examen visuel attentif. Des examens plus approfondis ne sont pas nécessaires si l’examen de la carcasse et des autres parties n’a révélé aucune altération pathologique.</td></tr>
+<tr><td>2.2</td><td>poumons</td><td></td><td>examen visuel, palpation si les poumons sont destinés à être utilisés comme denrées alimentaires: la trachée et les principales ramifications bronchiques doivent être ouvertes longitudinalement et les poumons incisés en leur tiers terminal perpendiculairement à leur grand axe</td></tr>
+<tr><td></td><td>ganglions bronchiques *(Lnn. bifurcationis, Lnn. eparteri**a**les)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td></td><td>ganglions médiastinaux *(Lnn. mediastinales)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td></td><td>trachée</td><td></td><td>examen visuel si les poumons sont destinés à être utilisés comme denrées alimentaires: ouverture longitudinale</td></tr>
+<tr><td></td><td>œsophage</td><td></td><td>examen visuel</td></tr>
+<tr><td>2.3</td><td>péricarde</td><td></td><td>ouverture, examen visuel</td></tr>
+<tr><td></td><td>cœur et sang</td><td></td><td>examen visuel, incisions longitudinales du cœur, ouverture des deux ventricules</td></tr>
+<tr><td>2.4</td><td>diaphragme</td><td></td><td>examen visuel</td></tr>
+<tr><td>2.5</td><td>foie</td><td></td><td>examen visuel, palpation, incision si nécessaire</td></tr>
+<tr><td></td><td>ganglions rétrohépatiques *(Lnn. portales)*</td><td></td><td>examen visuel, incision</td></tr>
+<tr><td>2.6</td><td>estomac et intestin</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>mésentère</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>ganglions lymphatiques stomacaux et mésentériques *(Lnn. gastrici, Lnn. mesenterici craniales et ca**u**dales)*</td><td></td><td>examen visuel, palpation et si nécessaire incision</td></tr>
+<tr><td>2.7</td><td>rate</td><td></td><td>examen visuel, palpation si nécessaire</td></tr>
+<tr><td>2.8</td><td>reins</td><td></td><td>examen visuel, si nécessaire incision des reins et de leurs ganglions lymphatiques *(Lnn. renales)*</td></tr>
+<tr><td>2.9</td><td>plèvre</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>péritoine</td><td></td><td>examen visuel</td></tr>
+<tr><td>2.10</td><td>région ombilicale</td><td></td><td>examen visuel, palpation, incision en cas de doute</td></tr>
+<tr><td>2.11</td><td>tissu musculaire, adipeux et conjonctif</td><td></td><td>examen visuel</td></tr>
+<tr><td>2.12</td><td>os, articulations, gaines tendineuses</td><td></td><td>examen visuel</td></tr>
+<tr><td>2.13</td><td>articulations du tarse</td><td></td><td>examen visuel, incision en cas de suspicion</td></tr>
+<tr><td>2.14</td><td>surface de fente de la colonne vertébrale</td><td></td><td>examen visuel</td></tr>
+<tr><td>2.15</td><td>pieds</td><td></td><td>si les pieds sont destinés à être utilisés comme denrées alimentaires: examen visuel</td></tr>
+<tr><td>3</td><td colspan="3">Animaux des espèces ovine et caprine, gibier d’élevage, autre bétail de boucherie (non cités aux ch. 1, 2, 4 et 5)</td></tr>
+<tr><td>3.1</td><td>tête</td><td></td><td>examen visuel (sauf si la tête – y compris la langue et le cerveau – est exclue de l’utilisation comme denrée alimentaire)</td></tr>
+<tr><td>3.2</td><td>poumons</td><td></td><td>examen visuel, palpation, incision</td></tr>
+<tr><td></td><td>ganglions bronchiques *(Lnn. bifurcationis, Lnn. eparteri**a**les)*</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>trachée</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>œsophage</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.3</td><td>péricarde</td><td></td><td>examen visuel, incision en cas de doute</td></tr>
+<tr><td></td><td>cœur et sang</td><td></td><td>examen visuel, incision du cœur en cas de doute</td></tr>
+<tr><td>3.4</td><td>diaphragme</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.5</td><td>foie</td><td></td><td>examen visuel, palpation, incision de la surface gastrique du foie *(L**o**bus principalis)* pour examiner les canaux biliaires</td></tr>
+<tr><td></td><td>ganglions rétrohépatiques *(Lnn. portales)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td>3.6</td><td>estomac et intestin</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>mésentère ganglions lymphatiques stomacaux et mésentériques *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.7</td><td>rate</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.8</td><td>reins</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.9</td><td>plèvre</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>péritoine</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.10</td><td>organes génitaux (excepté le pénis, s’il a déjà été évacué)</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.11</td><td>mamelle et ganglions lymphatiques de celle-ci chez les femelles adultes</td><td></td><td>si la mamelle est destinée à être utilisée comme denrée alimentaire: examen visuel</td></tr>
+<tr><td>3.12</td><td>région ombilicale chez les jeunes animaux</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td>3.13</td><td>tissu musculaire, adipeux et conjonctif</td><td></td><td>examen visuel</td></tr>
+<tr><td>3.14</td><td>os, articulations, gaines tendineuses</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>surface de fente de la colonne vertébrale</td><td></td><td>examen visuel</td></tr>
+<tr><td>4</td><td colspan="3">Animaux de l’espèce porcine</td></tr>
+<tr><td>4.1</td><td>tête</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>gorge</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>ganglions lymphatiques sous-maxillaires *(Lnn. mandibulares)*</td><td></td><td>incision, examen visuel</td></tr>
+<tr><td>4.2</td><td>poumons</td><td></td><td>examen visuel, palpation, si les poumons sont destinés à être utilisés comme denrées alimentaires: la trachée et les principales ramifications bronchiques doivent être ouvertes longitudinalement et les poumons incisés en leur tiers terminal perpendiculairement à leur grand axe</td></tr>
+<tr><td></td><td>ganglions bronchiques *(Lnn. bifurcationis et eparteriales)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>ganglions médiastinaux *(Lnn. mediastinales)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>trachée</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>œsophage</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.3</td><td>péricarde</td><td></td><td>ouverture, examen visuel</td></tr>
+<tr><td></td><td>cœur et sang</td><td></td><td>examen visuel, incisions longitudinales du cœur, ouverture des deux ventricules</td></tr>
+<tr><td>4.4</td><td>diaphragme</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.5</td><td>foie</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>ganglions rétrohépatiques et pancréatiques *(Lnn. portales)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td>4.6</td><td>estomac et intestin</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>mésentère</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>ganglions lymphatiques stomacaux et mésentériques *(Lnn. gastrici, Lnn. mesenterici craniales et ca**u**dales)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td>4.7</td><td>rate</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.8</td><td>reins</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.9</td><td>plèvre</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>péritoine</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.10</td><td>organes génitaux (excepté le pénis, s’il a déjà été évacué)</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.11</td><td>mamelle et ganglions lymphatiques de celle-ci *(Lnn. supramammarii)*</td><td></td><td>examen visuel; chez la truie, si les mamelles sont destinées à être utilisées comme denrées alimentaires: examen visuel et incision des ganglions lymphatiques</td></tr>
+<tr><td>4.12</td><td>région ombilicale chez les porcelets</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td>4.13</td><td>tissu musculaire, adipeux et conjonctif</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.14</td><td>musculature</td><td></td><td>prélèvement d’échantillons pour l’examen de recherche des trichinelles</td></tr>
+<tr><td>4.15</td><td>os, articulations, gaines tendineuses</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>surface de fente de la colonne vertébrale</td><td></td><td>examen visuel</td></tr>
+<tr><td>4.16</td><td>couenne</td><td></td><td>examen visuel</td></tr>
+<tr><td>5</td><td colspan="3">Animaux de l’espèce équine</td></tr>
+<tr><td>5.1</td><td>tête</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>gorge (muqueuse de la bouche et de l’arrière-bouche) le cas échéant: larynx</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>muqueuse des cavités nasales, des sinus et de leurs ramifications</td><td></td><td>év. examen visuel après avoir ôté la cloison nasale</td></tr>
+<tr><td></td><td>langue</td><td></td><td>dégagement, examen visuel, palpation</td></tr>
+<tr><td></td><td>ganglions lymphatiques sous-maxillaires, rétropharyngiens et parotidiens *(Lnn. mandibulares, retropharyngeales et parotidei)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>amygdales</td><td></td><td>ablation</td></tr>
+<tr><td>5.2</td><td>poumons</td><td></td><td>examen visuel, palpation, si les poumons sont destinés à être utilisés comme denrées alimentaires: la trachée et les principales ramifications bronchiques doivent être ouvertes longitudinalement et les poumons incisés en leur tiers terminal perpendiculairement à leur grand axe</td></tr>
+<tr><td></td><td>ganglions bronchiques *(Lnn. bifurcationis, Lnn. bronchiales)*</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>trachée</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>œsophage</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.3</td><td>péricarde</td><td></td><td>ouverture, examen visuel</td></tr>
+<tr><td></td><td>cœur et sang</td><td></td><td>examen visuel, incisions longitudinales du cœur, ouverture des deux ventricules</td></tr>
+<tr><td>5.4</td><td>diaphragme</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.5</td><td>foie</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td></td><td>ganglions rétrohépatiques et pancréatiques *(Lnn. portales)*</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.6</td><td>estomac et intestin</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>mésentère</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>ganglions lymphatiques stomacaux et mésentériques *(Lnn. gastrici, Lnn. mesenterici craniales et caudales)*</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.7</td><td>rate</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.8</td><td>reins</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.9</td><td>plèvre</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>péritoine</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.10</td><td>organes génitaux (excepté le pénis, s’il a déjà été évacué)</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.11</td><td>mamelle et ganglions de celle-ci *(Lnn. supramammarii)*</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.12</td><td>région ombilicale chez les poulains</td><td></td><td>examen visuel, palpation</td></tr>
+<tr><td>5.13</td><td>tissu musculaire, adipeux et conjonctif</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.14</td><td>musculature</td><td></td><td>prélèvement d’échantillons pour l’examen de recherche des trichinelles</td></tr>
+<tr><td>5.15</td><td>os, articulations, gaines tendineuses</td><td></td><td>examen visuel</td></tr>
+<tr><td></td><td>surface de fente de la colonne vertébrale</td><td></td><td>examen visuel</td></tr>
+<tr><td>5.16</td><td>chevaux à robe grise ou blanche contrôles supplémentaires pour le dépistage de la mélanose et des mélanomata:</td><td></td><td></td></tr>
+<tr><td></td><td>reins (doivent être dégagés)</td><td></td><td>incision au travers de l’organe tout entier</td></tr>
+<tr><td></td><td>muscles de l’épaule</td><td></td><td>examen visuel, au-dessous du cartilage scapulaire, l’attache d’une épaule étant distendue</td></tr>
+<tr><td></td><td>ganglions lymphatiques des épaules *(Lnn. subrhomboidei)*</td><td></td><td>examen visuel</td></tr>
+<tr><td>6</td><td colspan="3">Volaille domestique/lapins domestiques</td></tr>
+<tr><td>6.1</td><td>Toutes les carcasses et les parties de celles-ci</td><td></td><td>examen visuel</td></tr>
+<tr><td>6.2</td><td>viscères et cavités corporelles d’un échantillon représentatif d’animaux</td><td></td><td>contrôle quotidien par un vétérinaire officiel</td></tr>
+<tr><td>6.3</td><td>échantillon aléatoire, dans chaque lot d’une même origine, de parties d’animaux ou d’animaux entiers déclarés impropres à la consommation lors du contrôle des viandes</td><td></td><td>examen approfondi par un vétérinaire officiel</td></tr>
+<tr><td>6.4</td><td></td><td></td><td>S’il existe des raisons de suspecter que la viande des animaux en question pourrait être impropre à la consommation, le vétérinaire officiel effectue les examens complémentaires nécessaires.</td></tr>
+<tr><td>7</td><td colspan="3">Gibier sauvage</td></tr>
+<tr><td></td><td colspan="3">Le contrôle doit prendre en considération la déclaration du chasseur visée à l’annexe 14, ch. 1 et 2, et, en outre, en cas de présentation incomplète, les indications fournies par la personne formée visées à l’annexe 14, ch. 3. Les lièvres et le gibier à plumes font l’objet d’un contrôle par sondage, tant qu’il n’y a pas de suspicion particulière.</td></tr>
+<tr><td>7.1</td><td>carcasse, cavité et, si nécessaire, organes</td><td></td><td>examen visuel pour le dépistage des anomalies visées à l’annexe 7, ch. 3.1 ainsi que d’autres anomalies organoleptiques; en cas de présomptions sérieuses, une analyse de recherche de substances étrangères est ordonnée et tout le gibier de la même origine est mis sous séquestre jusqu’à l’obtention des résultats</td></tr>
+<tr><td>7.2</td><td>organes</td><td></td><td>examen visuel et, si nécessaire, palpation</td></tr>
+<tr><td>7.3</td><td>musculature</td><td></td><td>prélèvement d’échantillons pour l’examen de recherche de trichinelles chez les animaux des espèces équine, porcine, les ours et les ragondins</td></tr>
+</table>
+
+Annexe 7*[^t-7]*
+
+(art. 6, al. 2<sup>bis</sup>, 7, al. 2, et 10, al. 2 et 3)
+
+## Motifs de contestation et mesures à prendre lors du contrôle des viandes
+
+[^t-7]: Mise à jour selon le ch. I des O du DFI du 12 nov. 2012 ([RO 2012 6847](https://fedlex.data.admin.ch/eli/oc/2012/826)), du 20 juin 2014 ([RO 2014 2239](https://fedlex.data.admin.ch/eli/oc/2014/374)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)) et le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2531](https://fedlex.data.admin.ch/eli/oc/2020/462)).
+
+### 1 Animaux des espèces bovine, ovine, caprine, porcine ou équine, autre bétail de boucherie et gibier d’élevage
+
+### 1.1 Carcasse entière impropre à la consommation
+
+La carcasse et les parties de celle-ci, y compris le sang, sont à éliminer comme sous-produits animaux lors des constats suivants:
+
+- 1\.1.1
+
+  épizooties hautement contagieuses (constat clinique ou anatomopathologique):
+
+  - a. fièvre aphteuse;
+  - b. stomatite vésiculeuse;
+  - c. maladie vésiculeuse du porc;
+  - d. peste bovine;
+  - e. peste des petits ruminants;
+  - f. péripneumonie contagieuse bovine;
+  - g. dermatitis nodularis;
+  - h. fièvre de la Vallée du Rift;
+  - i. …
+  - j. clavelée et variole caprine;
+  - k. peste équine;
+  - l. peste porcine africaine;
+  - m. peste porcine classique;
+
+- 1\.1.2 autres maladies infectieuses (constat clinique ou anatomopathologique):
+  - a. rage;
+  - b. atteintes encéphalomyélitiques équines visées au titre 3, chap. 4, section 9*a*, de l’ordonnance du 27 juin 1995 sur les épizooties[^annex7-lvlu1-lvl1-lvl11-1];
+  - c. morve;
+  - d. fièvre charbonneuse;
+  - e. charbon symptomatique;
+  - f. brucelloses *(Brucella abortus, Brucella melitensis, Brucella suis)* [seulement lors de la mise en évidence de l’agent infectieux];
+  - g. tuberculose (*Mycobacterium bovis, Mycobacterium caprae* et *Mycobacterium tuberculosis*);
+  - h. salmonellose, pour autant que l’agent infectieux ait été mis en évidence dans la musculature ou dans les organes destinés à être utilisés comme denrées alimentaires (à l’exception de l’intestin);
+  - i. encéphalopathie spongiforme transmissible;
+  - j. tremblante;
+  - k. actinobacillose ou actinomycose généralisées;
+  - l. lymphadénite généralisée;
+  - m. tétanos;
+  - n. rouget cutané du porc;
+  - o. botulisme;
+  - p. listériose;
+  - q. paratuberculose;
+
+- 1\.1.3
+
+  maladies parasitaires:
+
+  - a. infestation généralisée par des sarcosporidies;
+  - b. infestation généralisée par des cysticerques vivants ou morts dans la musculature;
+  - c. infestation par des trichinelles (lors de détection par méthode directe ou par sérologie).
+
+- 1\.1.4
+
+  autres maladies:
+
+  - a. symptômes cliniques ou anatomopathologiques de pyohémie, septicémie, toxémie, bactériémie ou virémie;
+  - b. tumeurs;
+  - c. abcès sur plusieurs parties anatomiques;
+  - d. blessures graves sur plusieurs parties anatomiques;
+  - e. amaigrissement prononcé (infiltrations aqueuses des tissus conjonctifs et adipeux ainsi que de la moelle osseuse et de la musculature);
+
+- 1\.1.5
+
+  lésions aiguës avec perturbation de l’état général à cause de pathologies inflammatoires, notamment à cause d’inflammations touchant:
+
+  - a. les poumons;
+  - b. le cœur et le péricarde;
+  - c. le péritoine ou la plèvre;
+  - d. l’estomac;
+  - e. les intestins;
+  - f. les reins;
+  - g. l’utérus;
+  - h. la mamelle;
+  - i. le nombril;
+  - j. plus d’une articulation;
+  - k. les gaines synoviales;
+  - l. le tissu conjonctif (phlegmons).
+
+- 1\.1.6
+
+  non-conformités liées à la mise à mort ou à l’abattage:
+
+  - a. animaux péris;
+  - b. animaux abattus à l’agonie;
+  - c. animaux mort-nés ou à naître;
+  - d. animaux qui n’ont pas été soumis au contrôle des animaux avant l’abattage;
+  - e. animaux dont certaines parties de la carcasse n’ont pas été soumises au contrôle des viandes;
+  - f. animaux abattus avant l’âge de sept jours;
+  - g. carcasses contenant du matériel à risque spécifié d’encéphalopathies spongiformes transmissibles (lorsque ce matériel n’a pas été enlevé malgré les injonctions du vétérinaire officiel vétérinaire; la colonne vertébrale fait exception);
+  - h. animaux qui n’ont pas été saignés ou insuffisamment saignés;
+  - i. carcasses fortement souillées notamment par des matières fécales, ayant subi un échaudage excessif ou contenant des corps étrangers;
+
+- 1\.1.7 viandes présentant de nettes anomalies de couleur, d’odeur, notamment une odeur sexuelle prononcée, de consistance, de saveur ou d’apparence (altérations pathophysiologiques);
+- 1\.1.8
+
+  substances étrangères et traitements:
+
+  - a. dépassement d’une valeur limite;
+  - b. intoxication aiguë;
+  - c. mise en évidence d’une substance interdite;
+  - d. carcasses ou parties de celles-ci ayant subi un traitement physique ou de substances décontaminantes interdit.
+
+[^annex7-lvlu1-lvl1-lvl11-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+
+### 1.2 Parties de la carcasse impropres à la consommation
+
+Lorsqu’il n’y a pas de contestation selon le ch. 1.1 et lors des constats ci-dessous ne mettant en cause que certaines parties, seules ces parties sont à éliminer comme sous-produits animaux:
+
+- 1\.2.1 mamelle et organes internes, lors de rickettsiose;
+- 1\.2.2 testicules, lors de *Brucella ovis*;
+- 1\.2.3 mamelles, tractus génital et sang lorsque les animaux ont présenté une réaction positive ou douteuse au test de dépistage de la brucellose, même si aucune lésion de ce type n’est constatée;
+- 1\.2.4 foie et reins d’animaux originaires de régions dont l’environnement est considéré comme contaminé par des métaux lourds;
+- 1\.2.5 parties anatomiques ou organes avec des lésions pathologiques;
+- 1\.2.6
+
+  organes avec des lésions d’origine parasitaire:
+
+  - a. échinocoques et autres cysticerques;
+  - b. douves;
+  - c. vers pulmonaires;
+  - d. ectoparasites;
+  - e. ascarides;
+
+- 1\.2.7
+
+  parties anatomiques ou organes avec les lésions suivantes:
+
+  - a. blessures récentes, fractures;
+  - b. infiltrations séreuses;
+  - c. lymphadénite localisée;
+  - d. lésions purulentes localisées et abcès;
+  - e. tumeurs;
+  - f. adhérences du tissu conjonctif;
+  - g. altérations prononcées de la couenne;
+  - h. souillures localisées ou corps étrangers;
+  - i. sang contaminé par le contenu de l’estomac ou d’autres substances, sang qui peut présenter un risque pour la santé en raison de l’état de santé de l’animal de boucherie;
+  - j. altérations répugnantes;
+  - k. dépassement d’une valeur limite dans un organe déterminé.
+
+- 1\.2.8 morceau de viande où la puce électronique a été implantée, si l’on ne réussit pas à l’enlever.
+
+### 1.3 Traitement obligatoire de la carcasse avant son utilisation comme denrée alimentaire
+
+- 1\.3.1 Carcasses atteintes de cysticerques (*Cyticercus bovis* et *Cyticercus ce**l**lulosae*; vivants ou morts), sous réserve du ch. 1.1.3, let. b:
+- Elles doivent être entreposées pendant un jour à la température de 0 à 2 °C, puis pendant 5 jours à la température de –20 °C.
+- 1\.3.2 Traitement par congélation selon la méthode de congélation 1
+  - a. Les viandes introduites à l’état congelé doivent être conservées dans cet état.
+  - b. L’équipement technique et l’alimentation en énergie de la chambre frigorifique doivent être tels que la température voulue puisse être atteinte très rapidement et maintenue dans toutes les parties de la chambre frigorifique et de la viande.
+  - c. Tous les emballages isolants doivent être enlevés avant la congélation, sauf en ce qui concerne la viande qui, lors de l’introduction dans la chambre frigorifique, a déjà atteint, dans toutes ses parties, la température voulue ou la viande qui est emballée de manière telle que l’emballage n’empêche pas qu’elle atteigne la température voulue dans le délai précisé.
+  - d. Les lots doivent être conservés séparément et sous clé dans la chambre frigorifique.
+  - e. La date et l’heure d’arrivée de chaque lot dans la chambre frigorifique doivent être enregistrées.
+  - f. La température dans la chambre frigorifique ne doit pas être supérieure à –25 °C. Elle doit être mesurée à l’aide d’appareils thermoélectriques étalonnés et constamment enregistrée. Elle ne doit pas être mesurée directement dans le courant d’air froid. Les instruments doivent être conservés sous clé. Les graphiques des températures doivent porter l’indication des numéros de données du registre de l’inspection des viandes à l’introduction ainsi que de la date et de l’heure du début et de la fin de la congélation et être conservés un an.
+  - g. Les pièces de viande dont le diamètre ou l’épaisseur ne dépasse pas 25 cm doivent être congelées pendant au moins 240 heures consécutives et celles dont le diamètre ou l’épaisseur est compris entre 25 cm et 50 cm pendant au moins 480 heures consécutives. Les pièces de viande dont le diamètre ou l’épaisseur est supérieur à ces dimensions ne doivent pas être soumises à ce procédé de congélation. La durée de congélation se calcule à partir du moment où la température mentionnée à la let. f est atteinte dans la chambre de congélation.
+
+- 1\.3.3 Traitement par congélation selon la méthode de congélation 2
+
+Les dispositions générales des let. a à e du ch. 1.3.2 (méthode 1) sont observées et les combinaisons de temps et de température suivantes appliquées:
+
+- a.
+
+  Les pièces de viande d’un diamètre ou d’une épaisseur ne dépassant pas 15 cm doivent être congelées selon l’une des combinaisons de temps et de température suivantes:
+
+  - – 20 jours à –15 °C;
+  - – 10 jours à –23 °C;
+  - – 6 jours à –29 °C.
+
+- b.
+
+  Les pièces de viande dont le diamètre ou l’épaisseur est compris entre 15 et 50 cm doivent être congelées selon l’une des combinaisons de temps et de température suivantes:
+
+  - – 30 jours à –15 °C;
+  - – 20 jours à –25 °C;
+  - – 12 jours à –29 °C.
+
+La température dans la chambre frigorifique ne peut pas être supérieure au niveau de la température d’inactivation des larves de trichinelles choisie. Elle doit être mesurée à l’aide d’appareils thermoélectriques étalonnés et constamment enregistrée. Elle ne doit pas être mesurée directement dans le courant d’air froid. Les instruments doivent être conservés sous clé. Les graphiques des températures doivent porter l’indication des numéros de données du registre de l’inspection des viandes à l’introduction ainsi que de la date et de l’heure du début et de la fin de la congélation et être conservés un an.
+
+S’il utilise des tunnels de congélation et qu’il ne suit pas scrupuleusement les procédures décrites aux ch. 1.3.2. et 1.3.3, l’exploitant de l’établissement du secteur alimentaire doit être capable de prouver à l’autorité compétente que la méthode de remplacement utilisée est efficace pour tuer les parasites du genre *Trichinella* dans la viande de porc.
+
+- 1\.3.4 Traitement par congélation selon la méthode de congélation 3
+
+Le traitement consiste en une congélation ou lyophilisation commerciale de la viande conformément aux combinaisons de temps et de température précisées, la température étant contrôlée au cœur de chaque morceau de viande.
+
+- a.
+
+  Les dispositions générales des let. a à e du ch. 3.1.2 (méthode 1) sont observées et les combinaisons de temps et de température suivantes appliquées:
+
+  - – 106 heures à –18 °C;
+  - – 82 heures à –21 °C;
+  - – 63 heures à –23,5 °C;
+  - – 48 heures à –26 °C;
+  - – 35 heures à –29 °C;
+  - – 22 heures à –32 °C;
+  - – 8 heures à –35 °C;
+  - – ½ heure à –37 °C.
+
+- b. La température doit être mesurée au moyen d’appareils thermoélectriques étalonnés et constamment enregistrée. La sonde du thermomètre est placée au centre d’un morceau de viande d’une dimension qui n’est pas inférieure à celle du morceau de viande le plus épais à congeler. Ce morceau de viande doit être placé à l’endroit le moins favorable de la chambre frigorifique, ni à proximité immédiate de l’équipement de refroidissement, ni directement dans le courant d’air froid. Les instruments doivent être conservés sous clé. Les graphiques des températures doivent porter l’indication des numéros de données du registre de l’inspection des viandes à l’introduction ainsi que de la date et de l’heure du début et de la fin de la congélation et être conservés un an.
+
+### 2 Lapins domestiques, volaille domestique et oiseaux coureurs
+
+### 2.1 Carcasse entière impropre à la consommation
+
+La carcasse et les parties de celle-ci, y compris le sang, sont à éliminer comme sous-produits animaux lors des constats suivants:
+
+- 2\.1.1
+
+  épizooties:
+
+  - a. myxomatose;
+  - b. peste aviaire classique;
+  - c. maladie de Newcastle;
+  - d. salmonellose;
+
+- 2\.1.2 maladies infectieuses généralisées et lésions chroniques causées par des micro-organismes (y compris les champignons) qui peuvent causer des maladies chez l’homme;
+- 2\.1.3 parasitisme sous-cutané ou musculaire marqué et parasitisme systémique;
+- 2\.1.4
+
+  autres maladies généralisées:
+
+  - a. tumeurs multiples;
+  - b. lésions importantes;
+  - c. épanchements de sang multiples;
+  - d. ascite;
+  - e. cachexie;
+
+- 2\.1.5 viandes présentant de nettes anomalies de couleur, d’odeur, de consistance, de saveur ou d’apparence;
+- 2\.1.6
+
+  non-conformités liées à la mise à mort ou à l’abattage:
+
+  - a. animaux péris;
+  - b. animaux qui n’ont pas été soumis au contrôle des animaux avant l’abattage;
+  - c. animaux dont certaines parties de la carcasse n’ont pas été soumises au contrôle des viandes;
+  - d. animaux qui n’ont pas été saignés ou insuffisamment saignés;
+  - e. carcasses souillées ou ayant subi un échaudage excessif;
+
+- 2\.1.7
+
+  substances étrangères et traitements:
+
+  - a. dépassement d’une valeur limite;
+  - b. intoxication aiguë;
+  - c. détection d’une substance interdite;
+  - d. carcasses ou parties de celles-ci ayant subi un traitement physique interdit.
+
+### 2.2 Parties de la carcasse impropres à la consommation
+
+Lorsqu’il n’y a pas de contestations selon le ch. 2.1 et lorsque des lésions ou des contaminations sont constatées sur certaines parties seulement sans que l’utilisation du reste de la viande soit mise en cause, seules ces parties sont à éliminer comme sous-produits animaux.
+
+### 3 Gibier sauvage
+
+### 3.1 Carcasse entière impropre à la consommation
+
+La carcasse et les parties de celle-ci, y compris le sang, sont à éliminer comme sous-produits animaux lorsque l’on constate:
+
+- 3\.1.1 la présence généralisée de tumeurs ou d’abcès dans différents organes internes ou muscles;
+- 3\.1.2 la présence d’arthrite, d’orchite, une altération pathologique du foie ou de la rate, une inflammation des intestins ou de la région ombilicale;
+- 3\.1.3 la présence de corps étrangers ne résultant pas de l’activité de chasse dans les cavités corporelles, en particulier à l’intérieur de l’estomac et des intestins ou dans l’urine, lorsque la couleur de la plèvre ou du péritoine présente une altération;
+- 3\.1.4 parasitisme sous-cutané ou musculaire marqué et parasitisme systémique;
+- 3\.1.4*a* l’infestation par des trichinelles (lors de détection par méthode directe ou par sérologie);
+- 3\.1.5 la formation d’une importante quantité de gaz dans le tractus gastro-intestinal avec altération de la couleur des organes internes;
+- 3\.1.6 la présence de fortes anomalies de couleur, de consistance ou d’odeur dans la musculature ou les organes;
+- 3\.1.7 la présence de vieilles fractures ouvertes;
+- 3\.1.8 un état d’émaciation ou un œdème généralisé ou localisé;
+- 3\.1.9 des adhérences récentes d’organes sur la plèvre ou le péritoine;
+- 3\.1.10 d’autres altérations importantes évidentes, telles que la putréfaction;
+- 3\.1.11 des signes indiquant que l’animal a péri indépendamment de la chasse.
+
+### 3.2 Parties de la carcasse impropres à la consommation
+
+Lorsqu’il n’y a pas de contestation selon le ch. 3.1 et lorsque des lésions ou des contaminations sont constatées sur certaines parties seulement sans que l’utilisation du reste de la viande soit mise en cause, seules ces parties sont à éliminer comme sous-produits animaux.
+
+Annexe 8
+
+(art. 8, al. 1, let. b)
+
+## Certificat de salubrité
+
+Vétérinaire officiel
+
+Abattoir
+
+Numéro
+
+Espèce animale
+
+Nombre de carcasses
+
+Poids
+
+Le vétérinaire officiel soussigné atteste que les carcasses désignées ci-dessus sont propres à la consommation.
+
+<table>
+<tr><td>Établi le</td><td>à</td><td>Signature</td></tr>
+</table>
+
+Estampille de salubrité
+
+Annexe 9*[^t-8]*
+
+(art. 8, al. 3, et 12, al. 2)
+
+## Estampille de salubrité
+
+[^t-8]: Mise à jour selon le ch. II de l’O du DFI du 15 nov. 2006 ([RO 2006 4811](https://fedlex.data.admin.ch/eli/oc/2006/740)) et le ch. II al. 2 de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+L’estampille de salubrité doit se présenter comme suit:
+
+- 1\.
+
+  Forme de l’estampille:
+
+  - a. Viande propre à la consommation: oval
+  - b. et c. …
+
+- 2\.
+
+  Dimension de l’estampille:
+
+  - a. Largeur: au moins 6,5 cm
+  - b. Hauteur: au moins 4,5 cm
+
+- 3\. Informations figurant sur l’estampille:
+- Une combinaison de lettres et de chiffres indiquant le pays, le numéro de contrôle de l’abattoir et, le cas échéant, un numéro se référant au vétérinaire officiel.
+- 4\.
+
+  Corps des caractères:
+
+  - a. Hauteur des lettres: au moins 0,8 cm
+  - b. Hauteur des chiffres: au moins 1 cm
+
+Pour la viande issue des porcs qui n’ont pas été soumis à un examen à l’égard des trichinelles et qui proviennent d’établissements au sens de l’art. 31, al. 4, de l’ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes[^annex9-lvlu1-1], l’estampille de salubrité est ovale, a une largeur de 4,5 cm et une hauteur de 2,7 cm et contient le numéro d’agrément de l’établissement. L’utilisation des estampilles du contrôle des viandes au sens de l’annexe 5 de l’ordonnance du 3 mars 1995 sur le contrôle des viandes[^annex9-lvlu1-2] reste admise.
+
+[^annex9-lvlu1-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^annex9-lvlu1-2]: [[RO 1995 1703](https://fedlex.data.admin.ch/eli/oc/1995/1703_1703_1703)]
+
+Annexe 10
+
+(art. 11, let. a)
+
+Recto
+
+<table>
+<tr><td colspan="3">Canton:</td></tr>
+<tr><td colspan="3">Rapport officiel de prélèvement d’échantillons</td></tr>
+<tr><td>Commune</td><td></td><td></td></tr>
+<tr><td>Abattoir</td><td></td><td>Numéro de contrôle</td></tr>
+<tr><td>Espèce animale</td><td></td><td></td></tr>
+<tr><td>Age</td><td></td><td></td></tr>
+<tr><td>Sexe</td><td></td><td></td></tr>
+<tr><td>Identification de l’animal</td><td></td><td></td></tr>
+<tr><td>Unité d’élevage, N<sup>o</sup> BDTA</td><td></td><td></td></tr>
+<tr><td>Désignation de l’échantillon</td><td></td><td>**pour AMV\***</td></tr>
+<tr><td>Identification de l’échantillon</td><td></td><td></td></tr>
+<tr><td>Motif du prélèvement</td><td></td><td></td></tr>
+<tr><td>Analyse demandée</td><td></td><td>**AMV\***</td></tr>
+<tr><td>Quantité prélevée</td><td></td><td></td></tr>
+<tr><td>Valeur de l’échantillon</td><td></td><td></td></tr>
+<tr><td>Type d’emballage</td><td></td><td></td></tr>
+<tr><td>Prescriptions pour le transport</td><td></td><td></td></tr>
+<tr><td>Laboratoire d’analyses</td><td></td><td></td></tr>
+<tr><td>Carcasse/parties mises sous séquestre</td><td></td><td></td></tr>
+<tr><td>Lieu, date, heure:</td><td></td><td></td></tr>
+<tr><td colspan="3">L’échantillon a été prélevé en présence du soussigné qui confirme l’exactitude du rapport de prélèvement: Pour l’établissement:</td></tr>
+<tr><td colspan="3">Vétérinaire officiel:</td></tr>
+<tr><td colspan="2">Remarques et indications supplémentaires: voir au verso</td><td></td></tr>
+</table>
+
+<table>
+<tr><td>Voies de droit: voir au verso</td><td>\* Analyse microbiologique des viandes</td></tr>
+</table>
+
+Annexe 11*[^t-9]*
+
+(art. 11, let. b)
+
+Recto
+
+<table>
+<tr><td colspan="8">Canton:</td></tr>
+<tr><td colspan="8">Contestation lors du contrôle des animaux avant l’abattage et lors du contrôle des viandes</td></tr>
+<tr><td>Commune</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td>Abattoir</td><td colspan="3"></td><td colspan="4">Numéro de contrôle</td></tr>
+<tr><td>Espèce animale</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td>Age</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td>Sexe</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td>Identification de l’animal</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td>Unité d’élevage, n<sup>o</sup> BDTA</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td>**Contestation:**</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td></td><td></td><td colspan="2">Carcasse</td><td colspan="4">Parties</td></tr>
+<tr><td>**Mesures immédiates:**</td><td>Mise sous séquestre</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
+<tr><td></td><td>Autre</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
+<tr><td></td><td>Date:</td><td colspan="2"></td><td colspan="4">Visa:</td></tr>
+<tr><td>**Décision:**</td><td>Libération sans charges</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
+<tr><td></td><td>Traitement</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
+<tr><td></td><td>Élimination comme sous-produits animaux</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
+<tr><td>**Motifs** (voir au verso)</td><td>Autre</td><td colspan="2">◻</td><td colspan="4">◻</td></tr>
+<tr><td colspan="3">Accusé de réception: Pour l’établissement: Lieu, date, heure:</td><td colspan="5">Vétérinaire officiel: Lieu, date, heure:</td></tr>
+<tr><td colspan="5">Annonce à l’autorité cantonale</td><td>Oui</td><td>Non</td><td></td></tr>
+<tr><td colspan="5">Autres remarques et indications voir au verso</td><td>Oui</td><td>Non</td><td></td></tr>
+</table>
+
+Voies de droit: voir au verso
+
+(opposition dans les 10 jours auprès du service désigné par le canton)
+
+[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+Annexe 12*[^t-10]*
+
+(art. 11, let. c)
+
+Canton:
+
+Rapport d’inspection
+
+Commune:
+
+<table>
+<tr><td colspan="11">Abattoir</td><td colspan="14">Vétérinaire officiel</td></tr>
+<tr><td colspan="11">Numéro de contrôle (N° BDTA):</td><td colspan="14">Nom:</td></tr>
+<tr><td colspan="11">Établissement:</td><td colspan="14">Prénom:</td></tr>
+<tr><td colspan="11">Adresse:</td><td colspan="14">Adresse:</td></tr>
+<tr><td colspan="11">NPA/Lieu:</td><td colspan="14">NPA/Lieu:</td></tr>
+<tr><td colspan="11">Tél.:</td><td colspan="14">Tél.:</td></tr>
+<tr><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td colspan="5">Révisions</td><td colspan="4"></td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="3">Autorisation d’exploiter</td><td colspan="4"></td><td colspan="4"></td><td colspan="5">Révisions</td><td colspan="4"></td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="4">bovin</td><td colspan="2">mouton</td><td colspan="4">chèvre</td><td colspan="3">porc</td><td colspan="3">cheval</td><td colspan="4">volaille</td><td colspan="2">autres</td></tr>
+<tr><td colspan="2">Étourdissement\*</td><td colspan="4"></td><td colspan="2"></td><td colspan="4"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">Cadence\*\*</td><td colspan="4"></td><td colspan="2"></td><td colspan="4"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
+<tr><td colspan="4">\* P = pistolet à tige perforante</td><td colspan="7">D = dioxyde de carbone</td><td colspan="7"></td></tr>
+<tr><td colspan="4">E = électrique (manuel)</td><td colspan="7">R = électrique (restrainer)</td><td colspan="7"></td></tr>
+<tr><td colspan="4">\*\* Nbre d’animaux par heure</td><td colspan="7"></td><td colspan="7"></td></tr>
+</table>
+
+<table>
+<tr><td colspan="2">Évaluation lors de l’inspection</td><td colspan="2">en ordre</td><td></td><td>remarques</td></tr>
+<tr><td colspan="2">Personnel</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Enceinte, clôture</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td>Nettoyage et désinfection</td><td>véhicules de transport des animaux</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td></td><td>véhicules de transport des viandes</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Rampes pour animaux/locaux de stabulation</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Local d’abattage</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Cadences d’abattage</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Installations pour l’étourdissement</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Vidange de l’estomac/des intestins</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Traitement des abats</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Locaux de réfrigération et de surgélation</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Expédition</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Locaux du personnel</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Entrepôts de matériel</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Locaux/install. pour les sous-produits animaux</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+<tr><td colspan="2">Locaux/install. pour les contrôles officiels</td><td>Oui</td><td>Non</td><td></td><td></td></tr>
+</table>
+
+[^t-10]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 29 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+
+Annexe 13*[^t-11]*
+
+(art. 11, let. d)
+
+Recto
+
+## Certificat sanitaire délivré à l’issue du contrôle des animaux avant l’abattage, lorsque ce contrôle est effectué dans le troupeau de provenance
+
+[^t-11]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 29 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5173](https://fedlex.data.admin.ch/eli/oc/2008/724)).
+
+Vétérinaire officiel
+
+Certificat N<sup>o</sup>
+
+\1. Identification des animaux
+
+Espèce
+
+Nombre d’animaux
+
+Marquage
+
+\2. Provenance des animaux
+
+Adresse de l’unité d’élevage
+
+Numéro BDTA
+
+\3. Destination des animaux
+
+Abattoir
+
+Moyen de transport
+
+\4. Autres informations utiles
+
+\5. Déclaration
+
+Le vétérinaire soussigné déclare:
+
+- – que les animaux désignés ci-dessus ont été soumis le … (jour) à … (heure) à un contrôle des animaux avant l’abattage et ont été jugés sains;
+- – que les registres et documents concernant ces animaux sont conformes aux exigences légales et n’empêchent pas de procéder à l’abattage des animaux;
+- – en cas d’abattage d’un animal accidenté ou de gibier d’élevage, que la mise à mort et l’éviscération ont été effectuées le … (jour) à … (heure) dans le respect des règles d’hygiène.
+
+<table>
+<tr><td>Établi le</td><td>à</td><td>Signature</td></tr>
+</table>
+
+Sceau officiel
+
+Annexe 14*[^t-12]*
+
+(art. 11, let. e)
+
+## Déclaration accompagnant la remise de gibier sauvage à des fins alimentaires
+
+[^t-12]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1637](https://fedlex.data.admin.ch/eli/oc/2017/168)).
+
+### 1 Informations générales
+
+Espèce animale
+
+Identification
+
+Nom et adresse du chasseur
+
+Moment de la mise à mort
+
+Lieu de la mise à mort
+
+### 2 Procès-verbal de chasse
+
+Le soussigné atteste:
+
+- a. que l’animal n’a présenté aucun comportement anormal avant sa mise à mort;
+- b. qu’il n’y a aucune suspicion de contamination de l’environnement, et
+- c. qu’il n’y a eu aucun événement au cours de la chasse qui pourrait avoir des répercussions dangereuses pour la sécurité des denrées alimentaires.
+
+<table>
+<tr><td>Établi à</td><td>le</td><td>Signature</td></tr>
+</table>
+
+### 3 Déclaration relative à l’examen effectué après la mise à mort
+
+- [tab] Nom et adresse de la personne formée
+- [tab] Le soussigné confirme:
+- A. [F0A3] que le corps de l’animal et les viscères ne présentent aucune caractéristique indiquant que la viande pourrait comporter un risque sanitaire;
+
+ou
+
+- B. [F0A3] que le corps de l’animal, présentant les anomalies suivantes, doit faire l’objet d’un contrôle des viandes officiel avant d’être remis, le cas échéant, comme denrée alimentaire.
+
+<table>
+<tr><td>Émis à</td><td>le</td><td>Signature</td></tr>
+</table>

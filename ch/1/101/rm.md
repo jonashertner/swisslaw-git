@@ -1,0 +1,3021 @@
+---
+sr: "101"
+title: "Constituziun federala da la Confederaziun svizra dals 18 d'avrigl 1999"
+short: Cst.
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
+language: rm
+version: 2021-01-01
+adopted: 1999-04-18
+in_force: 2000-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/rm"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Constituziun federala da la Confederaziun svizra
+
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+
+dals 18 d’avrigl 1999 (versiun dal 1. da schaner 2021)
+
+**Preambel**
+
+En num da Dieu il Tutpussant!
+
+Il pievel svizzer ed ils chantuns,
+
+en lur responsabladad envers la creaziun,
+
+cun l’intenziun da renovar la lia, per mantegnair la libertad e la democrazia, l’independenza e la pasch en solidaritad ed avertadad vers il mund,
+
+cun la voluntad da viver lur varietad en l’unitad en toleranza e respect vicendaivel,
+
+conscients da las prestaziuns communablas e da la responsabladad envers las generaziuns futuras,
+
+savend che liber è be quel che dovra sia libertad e che la fermezza dal pievel sa mesira vi dal bainstar dals flaivels,
+
+sa dattan la sequenta constituziun:*[^ingress-1]*
+
+[^ingress-1]: Acceptà en la votaziun dal pievel dals 18 d’avr. 1999 (COF dals 18 da dec. 1998, COCF dals 11 d’avust 1999 – [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), **1999** 162 [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
+
+## 1. titel Disposiziuns generalas
+
+#### Art. 1
+
+**Confederaziun svizra**
+
+Il pievel svizzer ed ils chantuns Turitg, Berna, Lucerna, Uri, Sviz, Sursilvania e Sutsilvania, Glaruna, Zug, Friburg, Soloturn, Basilea-Citad e Basilea-Champagna, Schaffusa, Appenzell Dadens ed Appenzell Dador, Son Gagl, Grischun, Argovia, Turgovia, Tessin, Vad, Vallais, Neuchâtel, Genevra e Giura furman la Confederaziun svizra.
+
+#### Art. 2
+
+**Intent**
+
+<sup>1</sup> La Confederaziun svizra protegia la libertad ed ils dretgs dal pievel e mantegna l’independenza e la segirezza dal pajais.
+
+<sup>2</sup> Ella promova la prosperitad communabla, il svilup persistent, la coesiun interna e la varietad culturala dal pajais.
+
+<sup>3</sup> Ella procura per in’egualitad da schanzas uschè gronda sco pussaivel tranter las burgaisas ed ils burgais.
+
+<sup>4</sup> Ella s’engascha per il mantegniment persistent da las basas natiralas da la vita e contribuescha ad in urden internaziunal paschaivel e gist.
+
+#### Art. 3
+
+**Chantuns**
+
+Ils chantuns èn suverans, sche lur suveranitad na vegn betg limitada da la Constituziun federala; els exerciteschan tut ils dretgs che n’èn betg attribuids a la Confederaziun.
+
+#### Art. 4
+
+**Linguas naziunalas**
+
+Las linguas naziunalas èn il tudestg, il franzos, il talian ed il rumantsch.
+
+#### Art. 5
+
+**Princips da l’activitad dal stadi da dretg**
+
+<sup>1</sup> Il dretg è la basa ed il limit da l’activitad dal stadi.
+
+<sup>2</sup> L’activitad dal stadi sto esser en l’interess public ed en proporziun a l’intent.
+
+<sup>3</sup> Ils organs dal stadi e las persunas privatas ageschan tenor la buna fai.
+
+<sup>4</sup> La Confederaziun ed ils chantuns resguardan il dretg internaziunal.
+
+#### Art. 5a
+
+**Subsidiaritad**[^5a-1]
+
+Tar l’attribuziun e tar l’adempliment d’incumbensas dal stadi sto vegnir resguardà il princip da la subsidiaritad.
+
+[^5a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 6
+
+**Responsabladad individuala e sociala**
+
+Mintga persuna porta la responsabladad per sasezza e contribuescha tenor sias pussaivladads ad ademplir las incumbensas en il stadi ed en la societad.
+
+## 2. titel Dretgs fundamentals, dretgs dals burgais e finamiras socialas
+
+### 1. chapitel Dretgs fundamentals
+
+#### Art. 7
+
+**Dignitad umana**
+
+La dignitad da l’uman è da respectar e da proteger.
+
+#### Art. 8
+
+**Egualitad giuridica**
+
+<sup>1</sup> Tuts umans èn eguals avant la lescha.
+
+<sup>2</sup> Nagin na dastga vegnir discriminà, particularmain betg pervia da l’origin, da la razza, da la schlattaina, da la vegliadetgna, da la lingua, da la posiziun sociala, da la moda da viver, da la persvasiun religiusa, filosofica u politica u pervia d’in impediment corporal, spiertal u psichic.
+
+<sup>3</sup> Um e dunna han ils medems dretgs. La lescha procura per lur egualitad giuridica ed effectiva, spezialmain en quai che pertutga la famiglia, la scolaziun e la lavur. Um e dunna han il dretg da la medema paja per ina lavur equivalenta.
+
+<sup>4</sup> La lescha prevesa mesiras per eliminar ils dischavantatgs da persunas impedidas.
+
+#### Art. 9
+
+**Protecziun cunter arbitrariadad e mantegniment da la buna fai**
+
+Mintga persuna ha il dretg da vegnir tractada dals organs dal stadi senza arbitrariadad e tenor la buna fai.
+
+#### Art. 10
+
+**Dretg da la vita e da la libertad**
+
+<sup>1</sup> Mintga uman ha il dretg da la vita. La paina da mort è scumandada.
+
+<sup>2</sup> Mintga uman ha il dretg da la libertad persunala, particularmain da l’integritad corporala e spiertala e da la libertad da sa mover.
+
+<sup>3</sup> La tortura e mintg’autra sort da tractament e chasti crudaivel, inuman u degradant èn scumandadas.
+
+#### Art. 11
+
+**Protecziun dals uffants e giuvenils**
+
+<sup>1</sup> Uffants e giuvenils han il dretg d’ina protecziun particulara da lur integritad e d’ina promoziun da lur svilup.
+
+<sup>2</sup> Els fan diever da lur dretgs en il rom da lur capacitad da giuditgar.
+
+#### Art. 12
+
+**Dretg d’agid en situaziuns da basegn**
+
+Tgi ch’è en ina situaziun da basegn e n’è betg abel d’avair quità per sasez ha il dretg da quel agid, quell’assistenza e quels meds ch’èn indispensabels per in’existenza degna d’in uman.
+
+#### Art. 13
+
+**Protecziun da la sfera privata**
+
+<sup>1</sup> Mintga persuna ha il dretg dal respect da sia vita privata e da famiglia, da sia abitaziun sco er da sia correspundenza e da ses traffic da posta e da telecommunicaziun.
+
+<sup>2</sup> Mintga persuna ha il dretg d’esser protegida cunter l’abus da sias datas persunalas.
+
+#### Art. 14
+
+**Dretg da matrimoni e famiglia**
+
+Il dretg da matrimoni e famiglia è garantì.
+
+#### Art. 15
+
+**Libertad da cretta e conscienza**
+
+<sup>1</sup> La libertad da cretta e conscienza è garantida.
+
+<sup>2</sup> Mintga persuna ha il dretg da tscherner libramain sia religiun e sia persvasiun filosofica e da las confessar individualmain u en cuminanza cun auters.
+
+<sup>3</sup> Mintga persuna ha il dretg da sa participar ad ina cuminanza religiusa u d’appartegnair ad ina tala e da suandar in’instrucziun religiusa.
+
+<sup>4</sup> Nagin na dastga vegnir sfurzà da sa participar ad ina cuminanza religiusa u d’appartegnair ad ina tala, d’ademplir in’acziun religiusa u da suandar ina instrucziun religiusa.
+
+#### Art. 16
+
+**Libertad d’opiniun e d’infurmaziun**
+
+<sup>1</sup> La libertad d’opiniun e d’infurmaziun è garantida.
+
+<sup>2</sup> Mintga persuna ha il dretg da furmar, d’exprimer e da derasar libramain sia opiniun.
+
+<sup>3</sup> Mintga persuna ha il dretg da retschaiver libramain infurmaziuns, da sa procurar quellas or da funtaunas generalmain accessiblas e da las derasar.
+
+#### Art. 17
+
+**Libertad da las medias**
+
+<sup>1</sup> La libertad da la pressa, dal radio e da la televisiun sco er d’autras furmas da derasaziun publica da producziuns ed infurmaziuns tras meds da telediffusiun è garantida.
+
+<sup>2</sup> La censura è scumandada.
+
+<sup>3</sup> Il secret da redacziun è garantì.
+
+#### Art. 18
+
+**Libertad da lingua**
+
+La libertad da lingua è garantida.
+
+#### Art. 19
+
+**Dretg d’instrucziun da scola fundamentala**
+
+Il dretg d’instrucziun suffizienta e gratuita da scola fundamentala è garantì.
+
+#### Art. 20
+
+**Libertad da la scienza**
+
+La libertad da l’instrucziun e perscrutaziun scientifica è garantida.
+
+#### Art. 21
+
+**Libertad da l’art**
+
+La libertad da l’art è garantida.
+
+#### Art. 22
+
+**Libertad da reuniun**
+
+<sup>1</sup> La libertad da reuniun è garantida.
+
+<sup>2</sup> Mintga persuna ha il dretg d’organisar radunanzas, da prender part a radunanzas u da star davent da talas.
+
+#### Art. 23
+
+**Libertad d’associaziun**
+
+<sup>1</sup> La libertad d’associaziun è garantida.
+
+<sup>2</sup> Mintga persuna ha il dretg da furmar associaziuns, da sa participar u d’appartegnair a talas u da far part da las activitads d’associaziuns.
+
+<sup>3</sup> Nagin na dastga vegnir sfurzà da sa participar u d’appartegnair ad in’associaziun.
+
+#### Art. 24
+
+**Libertad da domicil**
+
+<sup>1</sup> Svizras e Svizzers han il dretg da sa domiciliar en tge lieu dal pajais ch’els vulan.
+
+<sup>2</sup> Els han il dretg d’abandunar la Svizra u da returnar en Svizra.
+
+#### Art. 25
+
+**Protecziun cunter l’expulsiun, l’extradiziun ed il repatriament**
+
+<sup>1</sup> Svizras e Svizzers na dastgan betg vegnir expulsads da la Svizra; els dastgan vegnir extradids ad in’autoritad estra be cun lur consentiment.
+
+<sup>2</sup> Fugitivs na dastgan betg vegnir repatriads u extradids en in stadi nua ch’els vegnan persequitads.
+
+<sup>3</sup> Nagin na dastga vegnir repatrià en in stadi nua che smanatscha tortura u in’autra sort da tractament u chasti crudaivel ed inuman.
+
+#### Art. 26
+
+**Garanzia da la proprietad**
+
+<sup>1</sup> La proprietad è garantida.
+
+<sup>2</sup> Expropriaziuns e restricziuns da la proprietad sumegliantas ad in’expropriaziun vegnan indemnisadas cumplainamain.
+
+#### Art. 27
+
+**Libertad economica**
+
+<sup>1</sup> La libertad economica è garantida.
+
+<sup>2</sup> Ella cumpiglia particularmain la tscherna libra da la professiun sco er l’access liber ad in’activitad da gudogn da l’economia privata ed a l’execuziun libra da quella.
+
+#### Art. 28
+
+**Libertad sindicala**
+
+<sup>1</sup> Las lavurantas ed ils lavurants, las patrunas ed ils patruns sco er lur organisaziuns han il dretg da s’alliar per proteger lur interess, da furmar associaziuns e da sa participar u da star davent da talas.
+
+<sup>2</sup> Dispitas èn da reglar tenor pussaivladad sin via da tractativas u da mediaziun.
+
+<sup>3</sup> Il dretg da chauma ed il dretg d’exclusiun èn admess, sch’els pertutgan las relaziuns da lavur e na s’opponan betg a las obligaziuns da mantegnair la pasch da la lavur u da manar tractativas da mediaziun.
+
+<sup>4</sup> La lescha po scumandar la chauma a tschertas categorias da persunas.
+
+#### Art. 29
+
+**Garanzias generalas da procedura**
+
+<sup>1</sup> Mintga persuna ha, en proceduras avant instanzas giudizialas ed administrativas, il dretg d’in tractament egual e gist sco er d’in giudicament entaifer in termin commensurà.
+
+<sup>2</sup> Las partidas han il dretg d’attenziun giuridica.
+
+<sup>3</sup> Mintga persuna che na dispona betg dals meds necessaris ha il dretg d’ina procedura gratuita, sche sia dumonda da dretg ha ina schanza da success. Uschenavant che quai è necessari per mantegnair ses dretgs, ha ella ultra da quai il dretg d’ina assistenza gratuita d’in defensur.
+
+#### Art. 29a
+
+**Garanzia da la via giudiziala**[^29a-1]
+
+En cas da dispitas giuridicas ha mintga persuna il dretg da vegnir giuditgada tras in’autoritad giudiziala. En cas excepziunals pon la Confederaziun ed ils chantuns excluder tras lescha il giudicament giudizial.
+
+[^29a-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 –[AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 30
+
+**Proceduras giudizialas**
+
+<sup>1</sup> Mintga persuna, da la quala ina chaussa sto vegnir giuditgada en ina procedura giudiziala, ha il dretg d’ina dretgira stabilida da la lescha, cumpetenta, independenta e nunpartischanta. Dretgiras d’excepziun èn scumandadas.
+
+<sup>2</sup> La persuna, cunter la quala i vegn purtà in plant civil, ha il dretg che la chaussa vegnia giuditgada da la dretgira da ses lieu da domicil. La lescha po prevair in’autra instanza giudiziala.
+
+<sup>3</sup> La debatta giudiziala e la pronunzia da la sentenzia èn publicas. La lescha po prevair excepziuns.
+
+#### Art. 31
+
+**Privaziun da la libertad**
+
+<sup>1</sup> Ina persuna dastga vegnir privada da la libertad sulettamain en ils cas previs da la lescha sezza e mo en la furma prescritta en quella.
+
+<sup>2</sup> Mintga persuna che vegn privada da la libertad ha il dretg da vegnir infurmada immediat ed en ina lingua chapaivla davart ils motivs da la privaziun da la libertad e davart ses dretgs. Ella sto avair la pussaivladad da far valair ses dretgs. Ella ha oravant tut il dretg da laschar orientar ses confamigliars pli stretgs.
+
+<sup>3</sup> Mintga persuna messa en arrest d’inquisiziun ha il dretg da vegnir manada immediat avant ina derschadra u in derschader. La derschadra u il derschader decida, sche la persuna vegn tegnida vinavant en arrest u sch’ella vegn laschada libra. Mintga persuna en arrest d’inquisiziun ha il dretg d’ina sentenzia entaifer in termin commensurà.
+
+<sup>4</sup> Mintga persuna che vegn privada da la libertad senza l’ordra d’ina dretgira, ha da tut temp il dretg d’appellar ad ina dretgira. Quella decida uschè speditivamain sco pussaivel davart la legalitad da la privaziun da la libertad.
+
+#### Art. 32
+
+**Procedura penala**
+
+<sup>1</sup> Mintga persuna vala sco innocenta fin che la condemnaziun ha vigur legala.
+
+<sup>2</sup> Mintga persuna accusada ha il dretg da vegnir infurmada uschè spert ed uschè detagliadamain sco pussaivel davart las inculpaziuns cunter ella. Ella sto avair la pussaivladad da far valair ils dretgs da defensiun, dals quals ella ha il dretg.
+
+<sup>3</sup> Mintga persuna sentenziada ha il dretg da far examinar la sentenzia d’ina dretgira superiura. Resalvads èn ils cas, en ils quals il Tribunal federal decida sco suletta instanza.
+
+#### Art. 33
+
+**Dretg da petiziun**
+
+<sup>1</sup> Mintga persuna ha il dretg d’inoltrar petiziuns a las autoritads; quai na dastga betg chaschunar dischavantatgs ad ella.
+
+<sup>2</sup> Las autoritads han da prender conuschientscha da las petiziuns.
+
+#### Art. 34
+
+**Dretgs politics**
+
+<sup>1</sup> Ils dretgs politics èn garantids.
+
+<sup>2</sup> La garanzia dals dretgs politics protegia la furmaziun libra da la voluntad e la votaziun nunfalsifitgada.
+
+#### Art. 35
+
+**Effect dals dretgs fundamentals**
+
+<sup>1</sup> Ils dretgs fundamentals ston avair in effect sin l’entir urden giuridic.
+
+<sup>2</sup> Tgi che ha d’exequir incumbensas statalas, ha da respectar ils dretgs fundamentals ed è obligà da contribuir che quels vegnian realisads.
+
+<sup>3</sup> Las autoritads procuran ch’ils dretgs fundamentals daventian er efficazis tranter persunas privatas, uschenavant ch’els èn adattads per quest intent.
+
+#### Art. 36
+
+**Restricziuns dals dretgs fundamentals**
+
+<sup>1</sup> Restricziuns dals dretgs fundamentals dovran ina basa legala. Restricziuns engrevgiantas ston esser previsas en la lescha sezza. Exceptads èn cas d’in privel serius, direct che n’è betg d’evitar en autra maniera.
+
+<sup>2</sup> Restricziuns da dretgs fundamentals ston esser giustifitgadas tras in interess public u tras la protecziun da dretgs fundamentals da terzas persunas.
+
+<sup>3</sup> Restricziuns da dretgs fundamentals ston esser en proporziun.
+
+<sup>4</sup> Il cuntegn essenzial dals dretgs fundamentals è inviolabel.
+
+### 2. chapitel Dretg da burgais e dretgs politics
+
+#### Art. 37
+
+**Dretgs da burgais**
+
+<sup>1</sup> Burgaisa svizra u burgais svizzer è tgi che posseda il dretg da burgais d’ina vischnanca ed il dretg da burgais dal chantun.
+
+<sup>2</sup> Nagin na dastga vegnir privilegià u pregiuditgà pervia da ses dretgs da burgais. Exceptadas èn prescripziuns davart ils dretgs politics en vischnancas da burgais e corporaziuns sco er davart la participaziun a la facultad da talas, uschenavant che la legislaziun chantunala na prevesa nagut auter.
+
+#### Art. 38
+
+**Acquist e perdita dals dretgs da burgais**
+
+<sup>1</sup> La Confederaziun regla l’acquist e la perdita dals dretgs da burgais tras derivanza, maridaglia ed adopziun. Ella regla ultra da quai la perdita dal dretg da burgais svizzer per auters motivs sco er la renatiralisaziun.
+
+<sup>2</sup> La Confederaziun decretescha prescripziuns minimalas davart la natiralisaziun da persunas estras tras ils chantuns e dat la permissiun da natiralisaziun.
+
+<sup>3</sup>
+
+Ella facilitescha la natiralisaziun da:
+
+- a. persunas estras da la terza generaziun;
+- b. uffants senza naziunalitad.[^38-1]
+
+[^38-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi ils 12 da favr. 2017 (COF dals 30 da sett. 2016, COCF dals 13 d’avr. 2017 – [AS 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [BBl 2015 769](https://fedlex.data.admin.ch/eli/fga/2015/62)[1327](https://fedlex.data.admin.ch/eli/fga/2015/132), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+
+#### Art. 39
+
+**Diever dals dretgs politics**
+
+<sup>1</sup> La Confederaziun regla il diever dals dretgs politics en fatgs federals, ils chantuns reglan quel en fatgs chantunals e communals.
+
+<sup>2</sup> Ins fa diever dals dretgs politics al lieu da domicil. La Confederaziun ed ils chantuns pon prevair excepziuns.
+
+<sup>3</sup> Nagin na dastga far diever da ses dretgs politics en pli ch’in chantun.
+
+<sup>4</sup> Ils chantuns pon prevair che novs immigrads obtegnan il dretg da votar en fatgs chantunals e communals pir suenter in termin da spetga da maximalmain trais mais suenter la domiciliaziun.
+
+#### Art. 40
+
+**Svizras e Svizzers a l’exteriur**
+
+<sup>1</sup> La Confederaziun promova las relaziuns da las Svizras e dals Svizzers a l’exteriur in tranter l’auter e cun la Svizra. Ella po sustegnair organisaziuns che persequiteschan questa finamira.
+
+<sup>2</sup> La Confederaziun decretescha prescripziuns davart ils dretgs e duairs da las Svizras e dals Svizzers a l’exteriur, oravant tut davart il diever dals dretgs politics en la Confederaziun, l’adempliment dal duair da prestar servetsch militar u da cumpensaziun, il sustegn da persunas en basegn sco er en il sectur da las assicuranzas socialas.
+
+### 3. chapitel Finamiras socialas
+
+#### Art. 41
+
+<sup>1</sup>
+
+Cumplettond la responsabladad persunala e l’iniziativa privata s’engaschan la Confederaziun ed ils chantuns per che:
+
+- a. mintga persuna haja part da la segirezza sociala;
+- b. mintga persuna obtegnia la tgira necessaria per sia sanadad;
+- c. famiglias vegnian protegidas e promovidas sco cuminanzas da creschids ed uffants;
+- d. persunas ablas da lavurar possian segirar lur existenza tras ina lavur ch’ellas exequeschan sut cundiziuns commensuradas;
+- e. persunas che tschertgan abitaziuns possian chattar per els e per lur famiglia in’abitaziun adattada per cundiziuns acceptablas;
+- f. uffants e giuvenils sco er persunas en la vegliadetgna da lavur possian giudair ina scolaziun ed instrucziun sco er ina furmaziun supplementara tenor lur abilitads;
+- g. uffants e giuvenils vegnian promovids en lur svilup a persunas independentas e socialmain responsablas e vegnian sustegnids en lur integraziun sociala, culturala e politica.
+
+<sup>2</sup> La Confederaziun ed ils chantuns s’engaschan che mintga persuna saja assicurada cunter las consequenzas economicas da vegliadetgna, invaliditad, malsogna, accident, dischoccupaziun, maternitad, dal daventar orfen, vaiv u vaiva.
+
+<sup>3</sup> Els sa stentan da cuntanscher las finamiras socialas en il rom da lur cumpetenzas constituziunalas e da lur meds disponibels.
+
+<sup>4</sup> Da las finamiras socialas na pon ins betg deducir dretgs directs da prestaziuns dal stadi.
+
+## 3. titel Confederaziun, chantuns e vischnancas
+
+### 1. chapitel Relaziun tranter la Confederaziun ed ils chantuns
+
+### 1. partiziun Incumbensas da la Confederaziun e dals chantuns
+
+#### Art. 42
+
+**Incumbensas da la Confederaziun**
+
+<sup>1</sup> La Confederaziun ademplescha las incumbensas che la vegnan attribuidas da la Constituziun federala.
+
+<sup>2</sup> …[^42-1]
+
+[^42-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 43
+
+**Incumbensas dals chantuns**
+
+Ils chantuns determineschan tge incumbensas ch’els accumpleschan en il rom da lur cumpetenzas.
+
+#### Art. 43a
+
+**Princips per attribuir ed ademplir incumbensas dal stadi**[^43a-1]
+
+<sup>1</sup> La Confederaziun surpiglia mo las incumbensas che surpassan las pussaivladads dals chantuns u che dovran ina regulaziun unitara tras la Confederaziun.
+
+<sup>2</sup> La communitad che profitescha d’ina prestaziun dal stadi porta ils custs da questa prestaziun.
+
+<sup>3</sup> La communitad che porta ils custs d’ina prestaziun dal stadi po decider davart questa prestaziun.
+
+<sup>4</sup> Las prestaziuns da basa ston esser accessiblas a tut las persunas en moda cumparegliabla.
+
+<sup>5</sup> Las incumbensas dal stadi ston vegnir ademplidas a moda raziunala ed adequata als basegns.
+
+[^43a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+### 2. partiziun Collavuraziun da la Confederaziun e dals chantuns
+
+#### Art. 44
+
+**Princips**
+
+<sup>1</sup> La Confederaziun ed ils chantuns sustegnan in l’auter tar l’adempliment da lur incumbensas ed els collavuran ensemen.
+
+<sup>2</sup> Els concedan in a l’auter respect ed assistenza. Els prestan in a l’auter assistenza administrativa e giudiziala.
+
+<sup>3</sup> Dispitas tranter ils chantuns u tranter chantuns e la Confederaziun vegnan sche pussaivel regladas tras tractativas u mediaziuns.
+
+#### Art. 45
+
+**Cooperaziun al process da furmaziun da la voluntad da la Confederaziun**
+
+<sup>1</sup> Ils chantuns coopereschan en il rom da la Constituziun federala a la furmaziun da la voluntad da la Confederaziun, oravant tut tar la legislaziun.
+
+<sup>2</sup> La Confederaziun infurmescha ils chantuns ad ura e detagliadamain davart ses projects; ella consultescha ils chantuns, sche lur interess èn pertutgads.
+
+#### Art. 46
+
+**Realisaziun dal dretg federal**
+
+<sup>1</sup> Ils chantuns realiseschan il dretg federal en il rom da la Constituziun federala e da las leschas.
+
+<sup>2</sup> La Confederaziun ed ils chantuns pon fixar communablamain ch’ils chantuns cuntanschian tschertas finamiras tar la realisaziun dal dretg federal e ch’els exequeschian per quest intent programs che la Confederaziun sustegna finanzialmain.[^46-1]
+
+<sup>3</sup> La Confederaziun lascha als chantuns ina libertad creativa uschè gronda sco pussaivel e tegna quint da lur particularitads chantunalas.[^46-2]
+
+[^46-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 47
+
+**Autonomia dals chantuns**
+
+<sup>1</sup> La Confederaziun protegia l’autonomia dals chantuns.
+
+<sup>2</sup> Ella lascha als chantuns suffizientamain atgnas incumbensas e respecta lur autonomia d’organisaziun. Ella als lascha funtaunas da finanziaziun suffizientas e contribuescha ch’els disponian dals meds finanzials necessaris per ademplir lur incumbensas.[^47-1]
+
+[^47-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 48
+
+**Contracts interchantunals**
+
+<sup>1</sup> Ils chantuns pon far contracts tranter els ed er crear organisaziuns ed instituziuns communablas. Els pon oravant tut ademplir communablamain incumbensas d’interess regiunal.
+
+<sup>2</sup> La Confederaziun po sa participar a tals projects en il rom da sias cumpetenzas.
+
+<sup>3</sup> Ils contracts interchantunals na dastgan betg cuntrafar al dretg ed als interess da la Confederaziun e n’er betg als dretgs d’auters chantuns. Els èn da communitgar a la Confederaziun.
+
+<sup>4</sup>
+
+Tras in contract interchantunal pon ils chantuns autorisar organs interchantunals da decretar disposiziuns cun normas da dretg che realiseschan in contract interchantunal, premess ch’il contract:
+
+- a. saja vegnì approvà tenor la medema procedura che vala per la legislaziun;
+- b. fixeschia ils princips directivs da las disposiziuns.[^48-1]
+
+<sup>5</sup> Ils chantuns resguardan il dretg interchantunal.[^48-2]
+
+[^48-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 48a
+
+**Decleraziun cun vigur lianta ed obligaziun da participaziun**[^48a-1]
+
+<sup>1</sup>
+
+Sin dumonda da chantuns interessads po la Confederaziun declerar contracts interchantunals sco generalmain liants u obligar tscherts chantuns da sa participar a contracts interchantunals en ils suandants champs d’incumbensas:
+
+- a. execuziun da chastis e da mesiras;
+- b.[^48a-2] fatgs da scola areguard ils secturs numnads en l’artitgel 62 alinea 4;
+- c.[^48a-3] scolas autas chantunalas;
+- d. indrizs culturals d’impurtanza surregiunala;
+- e. economisaziun da rument;
+- f. sereneras;
+- g. traffic d’aglomeraziun;
+- h. medischina da perfecziun e clinicas spezialas;
+- i. instituziuns per l’integraziun e per l’assistenza d’invalids.
+
+<sup>2</sup> La decleraziun cun vigur lianta succeda per regla en furma d’in conclus federal.
+
+<sup>3</sup> La lescha fixescha las premissas per la decleraziun cun vigur lianta e per l’obligaziun da participaziun e regla la procedura.
+
+[^48a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48a-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-3]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 49
+
+**Precedenza ed observaziun dal dretg federal**
+
+<sup>1</sup> Il dretg federal è superiur al dretg chantunal cuntrari.
+
+<sup>2</sup> La Confederaziun surveglia ch’ils chantuns observian il dretg federal.
+
+### 3. partiziun Vischnancas
+
+#### Art. 50
+
+<sup>1</sup> L’autonomia da las vischnancas è garantida en il rom dal dretg chantunal.
+
+<sup>2</sup> La Confederaziun resguarda en sias acziuns ils effects pussaivels sin las vischnancas.
+
+<sup>3</sup> Ella resguarda latiers la situaziun particulara da las citads e da las aglomeraziuns sco er da las regiuns muntagnardas.
+
+### 4. partiziun Garanzias federalas
+
+#### Art. 51
+
+**Constituziuns chantunalas**
+
+<sup>1</sup> Mintga chantun sa procura ina constituziun democratica. Quella dovra il consentiment dal pievel e sto vegnir revedida, sch’ina maioritad da las votantas e dals votants pretenda quai.
+
+<sup>2</sup> Las constituziuns chantunalas dovran l’approvaziun da la Confederaziun. Quella dat la garanzia, sch’ellas n’èn betg cuntrarias al dretg federal.
+
+#### Art. 52
+
+**Urden constituziunal**
+
+<sup>1</sup> La Confederaziun protegia l’urden constituziunal dals chantuns.
+
+<sup>2</sup> Ella intervegn, sche l’urden en in chantun è disturbà u smanatschà e sch’il chantun pertutgà na po betg proteger sez ses urden e n’er betg cun l’agid d’auters chantuns.
+
+#### Art. 53
+
+**Existenza e territori dals chantuns**
+
+<sup>1</sup> La Confederaziun protegia l’existenza ed il territori dals chantuns.
+
+<sup>2</sup> Midadas vi da l’existenza dals chantuns dovran il consentiment dals votants e dals chantuns pertutgads e suenter er il consentiment dal pievel e dals chantuns.
+
+<sup>3</sup> Midadas da territori tranter ils chantuns dovran il consentiment dals votants e dals chantuns pertutgads sco er l’approvaziun tras l’Assamblea federala en furma d’in conclus federal.
+
+<sup>4</sup> Cun contracts tranter els pon ils chantuns reglar rectificaziuns da cunfins.
+
+### 2. chapitel Cumpetenzas
+
+### 1. partiziun Relaziuns cun l’exteriur
+
+#### Art. 54
+
+**Affars exteriurs**
+
+<sup>1</sup> Ils affars exteriurs èn chaussa da la Confederaziun.
+
+<sup>2</sup> La Confederaziun s’engascha per mantegnair l’independenza da la Svizra e per sia prosperitad; ella contribuescha oravant tut a mitigiar la miseria e la povradad en il mund, a respectar ils dretgs umans ed a promover la democrazia, a la convivenza paschaivla dals pievels sco er a mantegnair il fundament natiral da la vita.
+
+<sup>3</sup> La Confederaziun respecta las cumpetenzas dals chantuns e defenda lur interess.
+
+#### Art. 55
+
+**Cooperaziun dals chantuns a decisiuns da la politica exteriura**
+
+<sup>1</sup> Ils chantuns coopereschan tar la preparaziun da decisiuns da la politica exteriura che pertutgan lur cumpetenzas u lur interess essenzials.
+
+<sup>2</sup> La Confederaziun infurmescha ils chantuns ad ura e detagliadamain e consultescha els.
+
+<sup>3</sup> Las posiziuns dals chantuns èn da muntada particulara, sch’els èn pertutgads en lur cumpetenzas. En quests cas coopereschan ils chantuns a moda adattada a las tractativas internaziunalas.
+
+#### Art. 56
+
+**Relaziuns dals chantuns cun l’exteriur**
+
+<sup>1</sup> Ils chantuns pon far contracts cun l’exteriur en ils secturs da lur cumpetenzas.
+
+<sup>2</sup> Quests contracts na dastgan betg cuntrafar ni al dretg ed als interess da la Confederaziun ni als dretgs d’auters chantuns. Ils chantuns han d’infurmar la Confederaziun avant la conclusiun dals contracts.
+
+<sup>3</sup> Ils chantuns pon avair contact direct cun autoritads estras subordinadas; en ils ulteriurs cas succedan las relaziuns dals chantuns cun l’exteriur tras l’intermediaziun da la Confederaziun.
+
+### 2. partiziun Segirezza, defensiun naziunala, protecziun civila
+
+#### Art. 57
+
+**Segirezza**
+
+<sup>1</sup> La Confederaziun ed ils chantuns procuran en il rom da lur cumpetenzas per la segirezza dal pajais e per la protecziun da la populaziun.
+
+<sup>2</sup> Els coordineschan lur stentas sin il sectur da la segirezza interna.
+
+#### Art. 58
+
+**Armada**
+
+<sup>1</sup> La Svizra ha in’armada. Questa è organisada tenor il princip da milissa.
+
+<sup>2</sup> L’armada serva per impedir guerras e gida a mantegnair la pasch; ella defenda il pajais e sia populaziun. Ella sustegna las autoritads civilas en cas da resistenza cunter grondas smanatschas da la segirezza interna ed en cas d’autras situaziuns extraordinarias. La lescha po prevair ulteriuras incumbensas.
+
+<sup>3</sup> Las acziuns da l’armada èn chaussa da la Confederaziun.[^58-1]
+
+[^58-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 59
+
+**Servetsch militar e servetsch da cumpensaziun**
+
+<sup>1</sup> Mintga Svizzer è obligà da far servetsch militar. La lescha prevesa in servetsch civil da cumpensaziun.
+
+<sup>2</sup> Per dunnas svizras è il servetsch militar facultativ.
+
+<sup>3</sup> Svizzers che na prestan ni servetsch militar ni servetsch da cumpensaziun, han da pajar ina taxa. Quella vegn pretendida da la Confederaziun e fixada ed incassada dals chantuns.
+
+<sup>4</sup> La Confederaziun decretescha prescripziuns davart la cumpensaziun commensurada da la perdita da gudogn.
+
+<sup>5</sup> Persunas che prestan servetsch militar u servetsch da cumpensaziun e pateschan donn vi da la sanadad u perdan la vita, han per els u per lur confamigliars il dretg d’in sustegn commensurà da la Confederaziun.
+
+#### Art. 60
+
+**Organisaziun, instrucziun ed equipament da l’armada**
+
+<sup>1</sup> La legislaziun militara sco er l’organisaziun, l’instrucziun e l’equipament da l’armada suttastattan a la Confederaziun.
+
+<sup>2</sup> …[^60-1]
+
+<sup>3</sup> La Confederaziun po surpigliar indrizs militars dals chantuns cunter ina indemnisaziun commensurada.
+
+[^60-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 61
+
+**Protecziun civila**
+
+<sup>1</sup> La legislaziun davart la protecziun civila da persunas e bains cunter las consequenzas da conflicts armads è chaussa da la Confederaziun.
+
+<sup>2</sup> La Confederaziun decretescha prescripziuns davart l’engaschament da la protecziun civila en cas da catastrofas e da situaziuns d’urgenza.
+
+<sup>3</sup> Ella po declerar il servetsch da protecziun sco obligatoric per ils umens. Per las dunnas è quest servetsch facultativ.
+
+<sup>4</sup> La Confederaziun decretescha prescripziuns davart la cumpensaziun commensurada da la perdita dal gudogn.
+
+<sup>5</sup> Persunas che pateschan donn vi da la sanadad u che perdan la vita ademplind il servetsch da protecziun, han per els u per lur confamigliars il dretg d’in sustegn commensurà da la Confederaziun.
+
+### 3. partiziun Scolaziun, perscrutaziun e cultura
+
+#### Art. 61a
+
+**Spazi da furmaziun svizzer**[^61a-1]
+
+<sup>1</sup> En il rom da lur cumpetenzas procuran la Confederaziun ed ils chantuns communablamain per in’auta qualitad e permeabilitad dal spazi da furmaziun svizzer.
+
+<sup>2</sup> La Confederaziun ed ils chantuns coordineschan lur sforzs e garanteschan lur collavuraziun tras organs communabels e tras autras mesiras.
+
+<sup>3</sup> Ademplind lur incumbensas[^61a-2] s’engaschan la Confederaziun ed ils chantuns che las vias da furmaziun generala e da furmaziun professiunala chattian ina renconuschientscha equivalenta en la societad.
+
+[^61a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^61a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+
+#### Art. 62
+
+**Fatgs da scola[^62-1]\***
+
+<sup>1</sup> Ils chantuns èn cumpetents per ils fatgs da scola.
+
+<sup>2</sup> Els procuran per ina instrucziun fundamentala suffizienta ch’è averta a tut ils uffants. L’instrucziun fundamentala è obligatorica ed è suttamessa a la direcziun u a la surveglianza dal stadi. L’instrucziun fundamentala a las scolas publicas è gratuita.[^62-2]
+
+<sup>3</sup> Ils chantuns procuran per ina scolaziun speziala suffizienta da tut ils uffants e giuvenils impedids, maximalmain fin al 20avel anniversari.[^62-3]
+
+<sup>4</sup> Sch’i na dat nagina armonisaziun dals fatgs da scola en ils secturs da la vegliadetgna da cumenzar la scola, da l’obligaziun d’ir a scola, da la durada e da las finamiras dals stgalims da furmaziun, dals passadis d’in stgalim a l’auter sco er da la renconuschientscha da diploms, decretescha la Confederaziun las prescripziuns necessarias.[^62-4]
+
+<sup>5</sup> La Confederaziun regla il cumenzament da l’onn da scola.[^62-5]
+
+<sup>6</sup> Tar la preparaziun da decrets federals che concernan la cumpetenza dals chantuns vegn attribuì in pais spezial a la cooperaziun dals chantuns.[^62-6]
+
+[^62-1]: <sup>\*</sup> Cun disposiziun transitorica.
+[^62-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^62-4]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-5]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-6]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 63
+
+**Furmaziun professiunala**[^63-1]
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart la furmaziun professiunala.
+
+<sup>2</sup> Ella promova la diversitad e la permeabilitad da la purschida en il sectur da la furmaziun professiunala.
+
+[^63-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 63a
+
+**Scolas autas**[^63a-1]
+
+<sup>1</sup> La Confederaziun maina las scolas politecnicas federalas. Ella po stabilir, surpigliar u manar ulteriuras scolas autas ed autras instituziuns dal sectur da las scolas autas.
+
+<sup>2</sup> Ella sustegna las scolas autas chantunalas e po pajar contribuziuns ad autras instituziuns dal sectur da las scolas autas ch’ella ha renconuschì.
+
+<sup>3</sup> La Confederaziun ed ils chantuns procuran communablamain per la coordinaziun e per la garanzia da la qualitad en ils fatgs da las scolas autas da la Svizra. En quest connex resguardan la Confederaziun ed ils chantuns l’autonomia da las scolas autas e lur differentas instituziuns purtadras e fan attenziun da tractar en moda eguala instituziuns cun incumbensas egualas.
+
+<sup>4</sup> Per ademplir lur incumbensas fan la Confederaziun ed ils chantuns contracts e delegheschan tschertas cumpetenzas ad organs communabels. La lescha regla las cumpetenzas che pon vegnir delegadas a quests organs e fixescha ils princips da l’organisaziun e las proceduras da la coordinaziun.
+
+<sup>5</sup> Sche la Confederaziun ed ils chantuns na cuntanschan betg las finamiras communablas tras coordinaziun, decretescha la Confederaziun prescripziuns davart ils stgalims da studi, davart ils passadis d’in stgalim a l’auter, davart la furmaziun supplementara e davart la renconuschientscha d’instituziuns e da diploms. Ultra da quai po la Confederaziun liar il sustegn da las scolas autas a princips da finanziaziun unitars e far depender il sustegn da la repartiziun da las incumbensas tranter las scolas autas en secturs che chaschunan custs spezialmain auts.
+
+[^63a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 64
+
+**Perscrutaziun**
+
+<sup>1</sup> La Confederaziun promova la perscrutaziun scientifica e l’innovaziun.[^64-1]
+
+<sup>2</sup> Ella po far depender la promoziun particularmain da la cundiziun che la qualitad e la coordinaziun sajan garantidas.[^64-2]
+
+<sup>3</sup> Ella po fabritgar, surpigliar u manar centers da perscrutaziun.
+
+[^64-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 64a
+
+**Furmaziun supplementara**[^64a-1]
+
+<sup>1</sup> La Confederaziun fixescha ils princips davart la furmaziun supplementara.
+
+<sup>2</sup> Ella po promover la furmaziun supplementara.
+
+<sup>3</sup> La lescha fixescha ils secturs ed ils criteris.
+
+[^64a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 65
+
+**Statistica**
+
+<sup>1</sup> La Confederaziun rimna las datas statisticas necessarias davart il stadi ed il svilup da la populaziun, da l’economia, da la societad, da la furmaziun, da la perscrutaziun, dal territori e da l’ambient en Svizra.[^65-1]
+
+<sup>2</sup> Ella po decretar prescripziuns davart l’armonisaziun e la direcziun da registers uffizials per limitar ils sforzs per las retschertgas.
+
+[^65-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 66
+
+**Contribuziuns da furmaziun[^66-1]**
+
+<sup>1</sup> La Confederaziun po conceder als chantuns contribuziuns a lur custs per contribuziuns da scolaziun a studentas ed a students da scolas autas e d’autras instituziuns dal sectur da la furmaziun superiura. Ella po promover l’armonisaziun interchantunala da las contribuziuns da scolaziun e fixar princips per pajar talas.[^66-2]
+
+<sup>2</sup> Ella po ultra da quai prender atgnas mesiras per promover la furmaziun; quai succeda sco cumplettaziun da las mesiras chantunalas e resguardond la suveranitad chantunala da scola.
+
+[^66-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^66-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 67
+
+**Promoziun d’uffants e da giuvenils[^67-1]**
+
+<sup>1</sup> Tar l’adempliment da lur incumbensas tegnan la Confederaziun ed ils chantuns quint dals basegns spezials da promoziun e protecziun dals uffants e giuvenils.
+
+<sup>2</sup> En cumplettaziun da mesiras chantunalas po la Confederaziun sustegnair la lavur cun uffants e cun giuvenils ordaifer la scola.[^67-2]
+
+[^67-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-2]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+
+#### Art. 67a
+
+**Furmaziun musicala**[^67a-1]
+
+<sup>1</sup> La Confederaziun ed ils chantuns promovan la furmaziun musicala, particularmain tar uffants e giuvenils.
+
+<sup>2</sup> En il rom da lur cumpetenzas s’impegnan els per ina instrucziun musicala d’auta qualitad en las scolas. Sch’ils chantuns n’èn betg buns da coordinar ina armonisaziun da las finamiras da la furmaziun en las scolas, prenda la Confederaziun las directivas necessarias.
+
+<sup>3</sup> En cooperaziun cun ils chantuns determinescha la Confederaziun princips per l’access da la giuventetgna al far musica e per la promoziun da talents musicals.
+
+[^67a-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi ils 23 da sett. 2012 (COF dals 15 da mars 2012, COCF dals 29 da schan. 2013 – [AS 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [BBl 2009 613](https://fedlex.data.admin.ch/eli/fga/2009/122), [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1), [2012 3443](https://fedlex.data.admin.ch/eli/fga/2012/452)[6899](https://fedlex.data.admin.ch/eli/fga/2012/1001), [2013 1135](https://fedlex.data.admin.ch/eli/fga/2013/166)).
+
+#### Art. 68
+
+**Sport**
+
+<sup>1</sup> La Confederaziun promova il sport, oravant tut la scolaziun.
+
+<sup>2</sup> Ella maina ina scola da sport.
+
+<sup>3</sup> Ella po decretar prescripziuns davart il sport da giuvenils e declerar sco obligatorica l’instrucziun da sport en scola.
+
+#### Art. 69
+
+**Cultura**
+
+<sup>1</sup> Ils chantuns èn responsabels per il sectur da la cultura.
+
+<sup>2</sup> La Confederaziun po sustegnair stentas culturalas ch’èn d’interess per l’entira Svizra e po promover l’art e la musica, oravant tut sin il sectur da la scolaziun.
+
+<sup>3</sup> Tar l’adempliment da sias incumbensas prenda ella resguard da la varietad culturala e linguistica dal pajais.
+
+#### Art. 70
+
+**Linguas**
+
+<sup>1</sup> Las linguas uffizialas da la Confederaziun èn il tudestg, il franzos ed il talian. En il contact cun persunas da lingua rumantscha è er il rumantsch lingua uffiziala da la Confederaziun.
+
+<sup>2</sup> Ils chantuns determineschan lur linguas uffizialas. Per mantegnair l’enclegientscha tranter las cuminanzas linguisticas, respectan els la cumposiziun linguistica istorica e resguardan las minoritads linguisticas tradiziunalas.
+
+<sup>3</sup> La Confederaziun ed ils chantuns promovan la communicaziun ed il barat tranter las cuminanzas linguisticas.
+
+<sup>4</sup> La Confederaziun sustegna ils chantuns plurilings tar l’adempliment da lur incumbensas spezialas.
+
+<sup>5</sup> La Confederaziun sustegna mesiras dals chantuns Grischun e Tessin per mantegnair e promover la lingua rumantscha e taliana.
+
+#### Art. 71
+
+**Film**
+
+<sup>1</sup> La Confederaziun po promover la producziun svizra da films e la cultura da film.
+
+<sup>2</sup> Ella po decretar prescripziuns per promover la varietad e la qualitad da la purschida da films.
+
+#### Art. 72
+
+**Baselgia e stadi**
+
+<sup>1</sup> Ils chantuns èn cumpetents per reglar la relaziun tranter baselgia e stadi.
+
+<sup>2</sup> La Confederaziun ed ils chantuns pon prender mesiras en il rom da lur cumpetenzas per mantegnair la pasch publica tranter ils commembers da las differentas cuminanzas religiusas.
+
+<sup>3</sup> Igl è scumandà da construir minarets.[^72-1]
+
+[^72-1]: Acceptà en la votaziun dal pievel dals 29 da nov. 2009, en vigur dapi ils 29 da nov. 2009 (COF dals 12 da zer. 2009, COCF dals 5 da matg 2010 – [AS 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [BBl 2008 6851](https://fedlex.data.admin.ch/eli/fga/2008/1174)[7603](https://fedlex.data.admin.ch/eli/fga/2008/1294), [2009 4381](https://fedlex.data.admin.ch/eli/fga/2009/776), [2010 3437](https://fedlex.data.admin.ch/eli/fga/2010/606)).
+
+### 4. partiziun Ambient e planisaziun dal territori
+
+#### Art. 73
+
+**Persistenza**
+
+La Confederaziun ed ils chantuns han en mira ina relaziun equilibrada persistenta tranter la natira e sia capacitad da regeneraziun d’ina vart e da sia utilisaziun tras l’uman da l’autra vart.
+
+#### Art. 74
+
+**Protecziun da l’ambient**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart la protecziun da l’uman e da ses ambient natiral cunter effects nuschaivels u mulestus.
+
+<sup>2</sup> Ella procura che tals effects vegnian impedids. Ils custs per l’impediment e per la dismessa van a quint dals chaschunaders.
+
+<sup>3</sup> Ils chantuns èn cumpetents per l’execuziun da las prescripziuns, sche la lescha na la resalva betg a la Confederaziun.
+
+#### Art. 75
+
+**Planisaziun dal territori**
+
+<sup>1</sup> La Confederaziun fixescha ils princips per ina planisaziun dal territori. Questa è chaussa dals chantuns e serva a l’utilisaziun cunvegnenta ed economica dal terren ed a l’urbanisaziun ordinada dal pajais.
+
+<sup>2</sup> La Confederaziun promova e coordinescha las stentas dals chantuns e collavura cun quels.
+
+<sup>3</sup> Ademplind lur incumbensas prendan la Confederaziun ed ils chantuns resguard dals basegns da la planisaziun dal territori.
+
+#### Art. 75a
+
+**Mesiraziun**[^75a-1]
+
+<sup>1</sup> La mesiraziun naziunala è chaussa da la Confederaziun.
+
+<sup>2</sup> La Confederaziun decretescha prescripziuns davart la mesiraziun uffiziala.
+
+<sup>3</sup> Ella po decretar prescripziuns davart l’armonisaziun d’infurmaziuns uffizialas che concernan il funs ed il terren.
+
+[^75a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 75b
+
+**Abitaziuns secundaras[^75b-2]\**[^75b-1]*
+
+<sup>1</sup> La quota d’abitaziuns secundaras è limitada a maximalmain 20 pertschient da l’effectiv total d’unitads d’abitar e da la surfatscha d’auzada brutta che vegn utilisada per intents d’abitar en ina vischnanca.
+
+<sup>2</sup> La lescha oblighescha las vischnancas da publitgar mintga onn lur plan da quotas d’emprimas abitaziuns ed il stadi detaglià da sia execuziun.
+
+[^75b-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 17 da zer. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^75b-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 76
+
+**Auas**
+
+<sup>1</sup> La Confederaziun procura en il rom da sias cumpetenzas per in’utilisaziun spargnusa e la protecziun da las resursas d’aua sco er per il cumbat cunter las consequenzas nuschaivlas da l’aua.
+
+<sup>2</sup> Ella fixescha ils princips davart il mantegniment e l’utilisaziun da las resursas d’aua, davart il diever da las auas per producir energia e per intents da sfradentar sco er davart autras intervenziuns en la circulaziun da l’aua.
+
+<sup>3</sup> Ella decretescha prescripziuns davart la protecziun da las auas, la garanzia da la quota commensurada da l’aua restanta, las construcziuns en connex cun las auas, la segirezza dals implants da serra e davart las influenzas da las precipitaziuns atmosfericas.
+
+<sup>4</sup> Ils chantuns disponan da las resursas d’aua. En il rom da la legislaziun federala pon els incassar taxas per l’utilisaziun da las auas. La Confederaziun ha il dretg d’utilisar las auas per sias interpresas da transport; ella paja per quest intent ina taxa ed ina indemnisaziun.
+
+<sup>5</sup> Davart ils dretgs vi da resursas d’aua internaziunalas e davart las taxas colliadas cun quests dretgs decida la Confederaziun cun agid dals chantuns pertutgads. Sche plirs chantuns na pon betg sa cunvegnir davart ils dretgs vi da resursas d’aua interchantunalas, decida la Confederaziun.
+
+<sup>6</sup> Ademplind sias incumbensas resguarda la Confederaziun ils interess dals chantuns dals quals deriva l’aua.
+
+#### Art. 77
+
+**Guaud**
+
+<sup>1</sup> La Confederaziun procura ch’il guaud possia ademplir sias funcziuns da protecziun, da niz e da recreaziun.
+
+<sup>2</sup> Ella fixescha ils princips per la protecziun dal guaud.
+
+<sup>3</sup> Ella promova las mesiras per il mantegniment dal guaud.
+
+#### Art. 78
+
+**Protecziun da la natira e da la patria**
+
+<sup>1</sup> Per la protecziun da la natira e da la patria èn cumpetents ils chantuns.
+
+<sup>2</sup> Ademplind sias incumbensas resguarda la Confederaziun ils interess da la protecziun da la natira e da la patria. Ella ha quità da cuntradas, da maletgs dal lieu, da lieus istorics sco er da monuments da natira e da cultura; ella mantegna quels en lur furma integrala, sche l’interess public pretenda quai.
+
+<sup>3</sup> Ella po sustegnair las stentas da la protecziun da la natira e da la patria ed acquistar u segirar tras contract u tras expropriaziun objects da muntada per l’entira Svizra.
+
+<sup>4</sup> Ella decretescha prescripziuns per la protecziun da la fauna e flora e per mantegnair lur spazis da viver en la varietad natirala. Ella protegia las spezias periclitadas da l’extincziun.
+
+<sup>5</sup> Palids e cuntradas da palì da bellezza particulara e da muntada per l’entira Svizra èn protegidas. En quellas na dastgan vegnir construids nagins stabiliments, ed igl è er scumandà da far midadas dal terren. Ina excepziun èn installaziuns che servivan gia avant a la protecziun u a l’utilisaziun agricula da las palids e da las cuntradas da palì.
+
+#### Art. 79
+
+**Pestga e chatscha**
+
+La Confederaziun fixescha ils princips per l’execuziun da la pestga e da la chatscha, spezialmain per mantegnair la varietad da las spezias da peschs, dals mamifers selvadis e dals utschels.
+
+#### Art. 80
+
+**Protecziun dals animals**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart la protecziun dals animals.
+
+<sup>2</sup>
+
+Ella regla particularmain:
+
+- a. il tegnair e tgirar animals;
+- b. ils experiments cun animals e las intervenziuns vi da l’animal viv;
+- c. il niz d’animals;
+- d. l’import d’animals e da products d’animals;
+- e. il commerzi cun animals ed ils transports d’animals;
+- f. il mazzar animals.
+
+<sup>3</sup> Ils chantuns èn cumpetents per l’execuziun da las prescripziuns, sche la lescha na resalva betg quella a la Confederaziun.
+
+### 5. partiziun Ovras publicas e traffic
+
+#### Art. 81
+
+**Ovras publicas**
+
+La Confederaziun po realisar e metter en funcziun ovras publicas u sustegnair lur realisaziun en l’interess da l’entir pajais u d’ina gronda part da quel.
+
+#### Art. 81a
+
+**Traffic public**[^81a-1]
+
+<sup>1</sup> La Confederaziun ed ils chantuns procuran per ina purschida suffizienta da traffic public sin via, sin l’aua, cun la viafier e cun telefericas en tut las regiuns dal pajais. En quest connex stoi vegnir tegnì quint en moda adequata dal transport da rauba cun la viafier.
+
+<sup>2</sup> Ils custs dal traffic public vegnan cuvrids per ina part cunvegnenta tras ils pretschs pajads da las utilisadras e dals utilisaders dal traffic public.
+
+[^81a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+
+#### Art. 82
+
+**Traffic sin via**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart il traffic sin via.
+
+<sup>2</sup> Ella exequescha la surveglianza suprema da las vias d’impurtanza per l’entira Svizra; ella po fixar tgeninas vias da transit che ston esser avertas per il traffic.
+
+<sup>3</sup> Il diever da las vias publicas è gratuit. L’Assamblea federala po permetter excepziuns.
+
+#### Art. 83
+
+**Infrastructura stradala**[^83-1]
+
+<sup>1</sup> La Confederaziun ed ils chantuns procuran per ina infrastructura stradala suffizienta en tut las regiuns dal pajais.
+
+<sup>2</sup> La Confederaziun garantescha la realisaziun e l’utilisabladad d’ina rait da vias naziunalas. Ella construescha, maina e mantegna las vias naziunalas. Ella surpiglia ils custs respectivs. Ella po delegar questas incumbensas cumplettamain u parzialmain a purtaders publics, privats u maschadads.
+
+[^83-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+
+#### Art. 84
+
+**Transit da las Alps[^84-1]\***
+
+<sup>1</sup> La Confederaziun protegia il territori da las Alps da las consequenzas negativas dal traffic da transit. Ella limitescha las grevezzas tras il traffic da transit per ch’ellas na sajan betg nuschaivlas ni per ils umans, ni per ils animals, ni per las plantas e n’er betg per lur spazis da viver.
+
+<sup>2</sup> Il traffic da martganzia transalpin da cunfin a cunfin succeda cun la viafier. Il Cussegl federal prenda las mesiras necessarias. Excepziuns èn be admissiblas, sch’ellas èn indispensablas. Ellas ston vegnir definidas pli detagliadamain en ina lescha.
+
+<sup>3</sup> La capacitad da las vias da transit en il territori da las Alps na dastga betg vegnir augmentada. Questa restricziun na vala betg per vias da sviament che distgargian ils lieus dal traffic da transit.
+
+[^84-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 85
+
+**Taxa sin il traffic da camiuns pesants[^85-1]\***
+
+<sup>1</sup> La Confederaziun po incassar sin il traffic da camiuns pesants ina taxa dependenta da la prestaziun e dal consum da carburant, uschenavant ch’il traffic da camiuns pesants chaschuna custs a la generalitad che n’èn betg cuvrids d’autras prestaziuns u taxas.
+
+<sup>2</sup> Il retgav net che resulta da la taxa vegn duvrà per cuvrir ils custs che stattan en connex cun il traffic terrester.[^85-2]
+
+<sup>3</sup> Ils chantuns vegnan participads al retgav net. Tar la calculaziun da las parts èn da resguardar particularmain ils effects da la taxa sin las regiuns muntagnardas e periferas.
+
+[^85-1]: <sup>\*</sup> Cun disposiziun transitorica.
+[^85-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+
+#### Art. 85a
+
+**Taxa per l’utilisaziun da las vias naziunalas**[^85a-1]
+
+La Confederaziun incassescha ina taxa per l’utilisaziun da las vias naziunalas cun vehichels a motor e cun chars annexs che n’èn betg suttamess a la taxa sin il traffic da camiuns pesants.
+
+[^85a-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+
+#### Art. 86
+
+**Impundaziun da taxas per incumbensas ed expensas en connex cun il traffic sin via[^86-2]\**[^86-1]*
+
+<sup>1</sup> Las vias naziunalas sco er las contribuziuns a mesiras per meglierar l’infrastructura da traffic en citads ed aglomeraziuns en connex cun il traffic sin via vegnan finanziadas sur in fond.
+
+<sup>2</sup>
+
+Al fond vegnan assegnads ils suandants meds finanzials:
+
+- a. il retgav net da la taxa per l’utilisaziun da las vias naziunalas tenor l’artitgel 85*a*;
+- b. il retgav net da la taglia speziala da consum tenor l’artitgel 131 alinea 1 litera d;
+- c. il retgav net dal supplement tenor l’artitgel 131 alinea 2 litera a;
+- d. il retgav net da la taxa tenor l’artitgel 131 alinea 2 litera b;
+- e. ina part dal retgav net da la taglia da consum sin tut ils carburants, cun excepziun dals carburants d’aviatica, tenor l’artitgel 131 alinea 1 litera e; la part importa 9 pertschient dals meds finanzials tenor la litera c e 9 pertschient da la mesadad dal retgav net da la taglia da consum sin tut ils carburants, cun excepziun dals carburants d’aviatica, maximalmain però 310 milliuns francs per onn; la lescha regla l’indexaziun da quest import;
+- f. per regla 10 pertschient dal retgav net da la taglia da consum sin tut ils carburants, cun excepziun dals carburants d’aviatica, tenor l’artitgel 131 alinea 1 litera e;
+- g. ils retgavs da la finanziaziun speziala tenor l’alinea 3 litera g e da contribuziuns dals chantuns per cumpensar custs supplementars che resultan da l’integraziun da novs trajects en la rait da vias naziunalas;
+- h. ulteriurs meds finanzials assegnads tras la lescha che stattan en connex cun il traffic sin via.
+
+<sup>3</sup>
+
+Per las suandantas incumbensas ed expensas en connex cun il traffic sin via vegn manada ina finanziaziun speziala:
+
+- a. las contribuziuns a mesiras per promover il traffic cumbinà ed il transport da vehichels a motor accumpagnads;
+- b. las contribuziuns als custs per las vias principalas;
+- c. las contribuziuns ad ovras da protecziun cunter forzas da la natira ed a mesiras da la protecziun da l’ambient e da la cuntrada che daventan necessarias pervia dal traffic sin via;
+- d. las contribuziuns generalas als custs dals chantuns per vias ch’èn avertas per il traffic da vehichels a motor;
+- e. las contribuziuns als chantuns senza vias naziunalas;
+- f. la perscrutaziun e l’administraziun;
+- g. las contribuziuns al fond tenor l’alinea 2 litera g.
+
+<sup>4</sup> A la finanziaziun speziala vegn bunifitgada la mesadad dal retgav net da la taglia da consum sin tut ils carburants, cun excepziun dals carburants d’aviatica, tenor l’artitgel 131 alinea 1 litera e minus ils meds finanzials tenor l’alinea 2 litera e.
+
+<sup>5</sup> Sch’il basegn è cumprovà en la finanziaziun speziala e sch’i duai vegnir furmada ina retenziun adequata en la finanziaziun speziala, ston ils retgavs da la taglia da consum tenor l’artitgel 131 alinea 1 litera d vegnir assegnads a la finanziaziun speziala empè al fond.
+
+[^86-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018, al. 2 lit. g e 3 lit. g en vigur dapi il 1. da schan. 2020 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^86-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 87
+
+**Viafiers ed ulteriurs meds da traffic[^87-1]\***
+
+La legislaziun davart il traffic da viafier, las pendicularas, la navigaziun sco er davart l’aviatica e l’astronautica è chaussa da la Confederaziun.
+
+[^87-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 87a
+
+**Infrastructura da viafier[^87a-2]\**[^87a-1]*
+
+<sup>1</sup> La Confederaziun surpiglia la chargia principala da la finanziaziun da l’infrastructura da viafier.
+
+<sup>2</sup>
+
+L’infrastructura da viafier vegn finanziada sur in fond. Al fond vegnan attribuids ils suandants meds finanzials:
+
+- a. maximalmain dus terzs dal retgav che resulta da la taxa sin il traffic da camiuns pesants tenor l’artitgel 85;
+- b. il retgav che resulta da l’augment da la taglia sin la plivalur tenor l’artitgel 130 alinea 3<sup>bis</sup>;
+- c. 2,0 pertschient da las entradas che resultan da la taglia federala directa da las persunas natiralas;
+- d. 2300 milliuns francs per onn da las finanzas federalas generalas; la lescha regla l’indexaziun da quest import.
+
+<sup>3</sup> Ils chantuns sa participeschan en moda adequata a la finanziaziun da l’infrastructura da viafier. La lescha regla ils detagls.
+
+<sup>4</sup> La lescha po prevair ina finanziaziun cumplementara tras terzas persunas.
+
+[^87a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^87a-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 87b
+
+**Impundaziun da taxas per incumbensas ed expensas en connex cun il traffic aviatic**[^87b-1]
+
+La mesadad dal retgav net da la taglia da consum sin carburants d’aviatica ed il supplement sin la taglia da consum sin ils carburants d’aviatica vegnan utilisads per las suandantas incumbensas ed expensas en connex cun il traffic aviatic:
+
+- a. las contribuziuns a mesiras da la protecziun da l’ambient che daventan necessarias pervia dal traffic aviatic;
+- b. las contribuziuns a mesiras da segirezza per proteger il traffic aviatic cunter acts illegals, en spezial attentats terroristics e rapiments, uschenavant che questas mesiras n’èn betg chaussa d’autoritads statalas;
+- c. las contribuziuns a mesiras per promover in aut nivel da segirezza tecnica en il traffic aviatic.
+
+[^87b-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+
+#### Art. 88
+
+**Sendas, vias da viandar e vias da velo**[^88-1]
+
+<sup>1</sup> La Confederaziun fixescha ils princips per raits da sendas, da vias da viandar e da vias da velo.
+
+<sup>2</sup> Ella po sustegnair e coordinar mesiras dals chantuns e da terzas persunas per crear e mantegnair talas raits sco er concernent l’infurmaziun davart questas raits. En quest connex respecta ella las cumpetenzas dals chantuns.
+
+<sup>3</sup> Ademplind sias incumbensas resguarda ella talas raits. Ella remplazza vias ch’ella ha d’eliminar.
+
+[^88-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2018, en vigur dapi ils 23 da sett. 2018 (COF dals 13 da mars 2018, COCF dals 21 da schan. 2019 – [AS 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [BBl 2016 1791](https://fedlex.data.admin.ch/eli/fga/2016/385), [2017 5901](https://fedlex.data.admin.ch/eli/fga/2017/1639), [2018 1859](https://fedlex.data.admin.ch/eli/fga/2018/685), [2019 1311](https://fedlex.data.admin.ch/eli/fga/2019/279)).
+
+### 6. partiziun Energia e communicaziun
+
+#### Art. 89
+
+**Politica d’energia**
+
+<sup>1</sup> La Confederaziun ed ils chantuns s’engaschan en il rom da lur cumpetenzas per in provediment d’energia suffizient, diversifitgà, segir, economic ed ecologicamain acceptabel sco er per in consum d’energia spargnus e raziunal.
+
+<sup>2</sup> La Confederaziun fixescha ils princips per l’utilisaziun da l’energia indigena e regenerabla e per in consum d’energia spargnus e raziunal.
+
+<sup>3</sup> La Confederaziun decretescha prescripziuns davart il consum d’energia da stabiliments, vehichels ed apparats. Ella promova il svilup da tecnicas d’energia, spezialmain en ils secturs dal spargnar energia e da las energias regenerablas.
+
+<sup>4</sup> Per mesiras che pertutgan il consum d’energia en edifizis èn cumpetents oravant tut ils chantuns.
+
+<sup>5</sup> La Confederaziun tegna quint en sia politica d’energia da las stentas dals chantuns e da las vischnancas sco er da l’economia; ella resguarda las relaziuns en las singulas regiuns dal pajais e quai ch’è economicamain supportabel.
+
+#### Art. 90
+
+**Energia nucleara[^90-1]\***
+
+La legislaziun sin il champ da l’energia nucleara è chaussa da la Confederaziun.
+
+[^90-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 91
+
+**Transport d’energia**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart il transport e la furniziun da l’energia electrica.
+
+<sup>2</sup> La legislaziun davart conducts da bischens per transportar carburants u combustibels liquids u en furma da gas è chaussa da la Confederaziun.
+
+#### Art. 92
+
+**Posta e telecommunicaziun**
+
+<sup>1</sup> Ils fatgs da posta e telecommunicaziun èn chaussa da la Confederaziun.
+
+<sup>2</sup> La Confederaziun procura per in provediment suffizient ed ad in pretsch raschunaivel da servetschs da posta e da telecommunicaziun en tut las parts dal pajais. Las tariffas vegnan fixadas tenor princips unitars.
+
+#### Art. 93
+
+**Radio e televisiun**
+
+<sup>1</sup> La legislaziun davart radio e televisiun sco er davart autras furmas da telediffusiun publica da represchentaziuns ed infurmaziuns suttastat a la Confederaziun.
+
+<sup>2</sup> Il radio e la televisiun contribueschan a la furmaziun ed al svilup cultural, a la furmaziun libra da l’opiniun sco er al divertiment. Els resguardan las atgnadads dal pajais ed ils basegns dals chantuns. Els preschentan ils eveniments a moda correcta ed reflecteschan adequatamain la diversitad da las opiniuns.
+
+<sup>3</sup> L’independenza dal radio e da la televisiun sco er l’autonomia en la furmaziun dals programs èn garantidas.
+
+<sup>4</sup> Igl è da prender resguard da la situaziun e dals pensums d’autras medias, oravant tut da la pressa.
+
+<sup>5</sup> Protestas concernent programs pon vegnir inoltradas ad ina instanza da recurs independenta per il giudicament.
+
+### 7. partiziun Economia
+
+#### Art. 94
+
+**Princips da l’urden economic**
+
+<sup>1</sup> La Confederaziun ed ils chantuns sa tegnan al princip da la libertad economica.
+
+<sup>2</sup> Els defendan ils interess da l’economia svizra cumplessiva e contribueschan cun l’economia privata a la prosperitad ed a la segirezza economica da la populaziun.
+
+<sup>3</sup> En il rom da lur cumpetenzas procuran els per cundiziuns da basa favuraivlas per l’economia privata.
+
+<sup>4</sup> Divergenzas dal princip da la libertad economica, surtut er mesiras che sa drizzan cunter la concurrenza, èn be admessas, sch’ellas èn previsas en la Constituziun federala u fundadas tras dretgs da regals chantunals.
+
+#### Art. 95
+
+**Activitad da gudogn en l’economia privata[^95-1]\***
+
+<sup>1</sup> La Confederaziun po decretar prescripziuns davart l’activitad da gudogn en l’economia privata.
+
+<sup>2</sup> Ella procura per in spazi economic omogen en Svizra. Ella garantescha che persunas cun ina scolaziun scientifica u cun in diplom d’ina scola federala, chantunala u renconuschì d’in chantun possian exequir lur professiun en l’entira Svizra.
+
+<sup>3</sup>
+
+Per proteger l’economia publica, la proprietad privata ed ils acziunaris ed er en il senn d’ina gestiun persistenta d’interpresas definescha la lescha directivas per las societads d’aczias svizras, quotadas en Svizra u a l’exteriur, tenor ils princips suandants:
+
+- a. La radunanza generala votescha mintga onn davart la summa totala da las remuneraziuns (daners e valur da las prestaziuns materialas) per il cussegl d’administraziun, per la direcziun generala e per il cussegl consultativ. Ella elegia mintga onn il president dal cussegl d’administraziun e mintga singul commember dal cussegl d’administraziun e da la cumissiun da remuneraziun sco er in represchentant independent da las persunas cun il dretg da votar. Las cassas da pensiun voteschan en l’interess da lur persunas assicuradas e rendan transparent co ch’ellas han votà. Ils acziunaris pon votar electronicamain sin distanza; els na pon betg vegnir represchentads d’in commember d’in organ da la societad u d’in depositari.
+- b. Ils commembers dals organs da la societad na survegnan naginas indemnisaziuns da partenza u autras indemnisaziuns, naginas remuneraziuns anticipadas, naginas premias per cumpras e venditas d’interpresas e nagins contracts supplementars da consulenza u da lavur cun societads da la medema gruppa. La gestiun da la societad na dastga betg vegnir delegada ad ina persuna giuridica.
+- c. Ils statuts regleschan l’import dals credits, emprests e rentas als commembers dals organs da la societad, sco er lur plans da reussida, ils plans da participaziun, il dumber permiss da mandats ordaifer il concern sco er la durada dals contracts da lavur dals commembers da la direcziun generala.
+- d. La violaziun da las disposiziuns tenor las literas a–c vegn sancziunada cun in chasti da detenziun fin a trais onns e cun in chasti pecuniar fin a sis remuneraziuns annualas.[^95-2]
+
+[^95-1]: <sup>\*</sup> Cun disposiziun transitorica.
+[^95-2]: Acceptà en la votaziun dal pievel dals 3 da mars 2013, en vigur dapi ils 3 da mars 2013 (COF dals 15 da nov. 2012 e dals 30 d’avr. 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+
+#### Art. 96
+
+**Politica da concurrenza**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns cunter consequenzas economicamain u socialmain nuschaivlas da cartels e d’autras restricziuns da la concurrenza.
+
+<sup>2</sup>
+
+Ella prenda mesiras:
+
+- a. per impedir abus en la furmaziun dals pretschs tras interpresas ed organisaziuns da dretg privat u da dretg public cun ina posiziun dominanta sin il martgà;
+- b. cunter la concurrenza illoiala.
+
+#### Art. 97
+
+**Protecziun da consumentas e consuments**
+
+<sup>1</sup> La Confederaziun prenda mesiras per proteger las consumentas ed ils consuments.
+
+<sup>2</sup> Ella decretescha prescripziuns davart ils meds giuridics che stattan a disposiziun a las organisaziuns dals consuments. Sin il sectur da la legislaziun federala davart la concurrenza illoiala han questas organisaziuns ils medems dretgs sco las federaziuns professiunalas ed economicas.
+
+<sup>3</sup> Ils chantuns prevesan per dispitas fin ad ina tscherta valur ina procedura da mediaziun u ina procedura giudiziala simpla e speditiva. Il Cussegl federal fixescha il limit da la valur en lita.
+
+#### Art. 98
+
+**Bancas ed assicuranzas**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart las bancas e la bursa; latiers tegna ella quint da l’incumbensa e da la situaziun speziala da las bancas chantunalas.
+
+<sup>2</sup> Ella po decretar prescripziuns davart prestaziuns da servetsch finanzialas sin auters secturs.
+
+<sup>3</sup> Ella decretescha prescripziuns davart las assicuranzas privatas.
+
+#### Art. 99
+
+**Politica monetara**
+
+<sup>1</sup> Ils fatgs monetars suttastattan a la Confederaziun; ella suletta ha il dretg d’emetter munaida e bancnotas.
+
+<sup>2</sup> La Banca naziunala svizra fa sco banca centrala independenta ina politica monetara che serva als interess generals dal pajais; ella vegn administrada cun la cooperaziun e sut la surveglianza da la Confederaziun.
+
+<sup>3</sup> La Banca naziunala svizra furma ord ses retgavs reservas monetaras suffizientas; ina part da questas reservas vegn fatga cun aur.
+
+<sup>4</sup> Il retgav net da la Banca naziunala svizra va per almain dus terzs als chantuns.
+
+#### Art. 100
+
+**Politica da conjunctura**
+
+<sup>1</sup> La Confederaziun prenda mesiras per segirar in svilup equilibrà da la conjunctura, particularmain per prevegnir e cumbatter la dischoccupaziun e la chareschia.
+
+<sup>2</sup> Ella resguarda il svilup economic da las singulas regiuns dal pajais. Ella collavura cun ils chantuns e cun l’economia.
+
+<sup>3</sup> En ils fatgs monetars e da credit, en l’economia exteriura e sin il sectur da las finanzas publicas po ella divergiar dal princip da la libertad economica, sche quai è necessari.
+
+<sup>4</sup> La Confederaziun, ils chantuns e las vischnancas resguardan la situaziun da la conjunctura en lur politica d’entradas e d’expensas.
+
+<sup>5</sup> Per stabilisar la conjunctura po la Confederaziun incassar temporarmain supplements u conceder rabats sin taxas e taglias previsas dal dretg federal. Ils meds incassads en questa maniera èn da bloccar. Suenter ch’els vegnan dads liber, vegnan taxas e taglias directas restituidas individualmain, las taxas e taglias indirectas vegnan duvradas per conceder rabats u per procurar lavur.
+
+<sup>6</sup> La Confederaziun po obligar las interpresas da furmar reservas per procurar lavur; ella conceda per la paja levgiaments da taglias e po er obligar ils chantuns da far il medem. Suenter che questas reservas èn vegnidas dadas libras decidan las interpresas libramain davart lur diever en il rom dals intents previs da la lescha.
+
+#### Art. 101
+
+**Politica d’economia da l’exteriur**
+
+<sup>1</sup> La Confederaziun defenda ils interess da l’economia svizra en l’exteriur.
+
+<sup>2</sup> En cas spezials po ella prender mesiras per proteger l’economia indigena. Sch’i fa da basegn po ella divergiar dal princip da la libertad economica.
+
+#### Art. 102
+
+**Provediment dal pajais[^102-1]\***
+
+<sup>1</sup> La Confederaziun segirescha il provediment dal pajais cun bains e servetschs necessaris per viver en cas da smanatschas da la politica da pussanza u da guerras sco er en situaziuns da grevas mancanzas che l’economia na po betg dumagnar be cun agens meds. Ella prenda las mesiras preventivas.
+
+<sup>2</sup> Sch’i fa da basegn po ella divergiar dal princip da la libertad economica.
+
+[^102-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 103
+
+**Politica da structura[^103-1]\***
+
+La Confederaziun po sustegnair regiuns dal pajais economicamain smanatschadas sco er promover branschas economicas e professiuns, sche mesiras raschunaivlas da l’agen agid na bastan betg per segirar lur existenza. Sch’i fa basegn po ella divergiar dal princip da la libertad economica.
+
+[^103-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 104
+
+**Agricultura**
+
+<sup>1</sup>
+
+La Confederaziun procura che l’agricultura prestia cun ina producziun persistenta ed orientada vers il martgà ina contribuziun essenziala per:
+
+- a. in provediment segir da la populaziun;
+- b. il mantegniment da la basa da viver natirala e per la tgira d’ina cuntrada cultivada;
+- c. l’urbanisaziun decentralisada dal pajais.
+
+<sup>2</sup> Cumplettond l’agen agid ch’ins po pretender da l’agricultura e, sche necessari er divergiond dal princip da la libertad economica, promova la Confederaziun ils manaschis purils che cultiveschan il terren.
+
+<sup>3</sup>
+
+Ella fixescha mesiras per che l’agricultura possia ademplir sias incumbensas multifaras. Ella ha particularmain las sequentas cumpetenzas ed incumbensas:
+
+- a. Ella cumplettescha l’entrada dals purs cun pajaments directs per realisar ina indemnisaziun commensurada per las prestaziuns furnidas, cun la premissa ch’ina prestaziun ecologica saja cumprovada.
+- b. Ella promova furmas da producziun cun impuls economics avantagius che resguardan spezialmain la natira, l’ambient ed ils animals.
+- c. Ella decretescha prescripziuns concernent la decleraziun da l’origin, da la qualitad, da la metoda da producziun e da la procedura d’elavuraziun per victualias.
+- d. Ella protegia l’ambient da donns chaschunads dal diever exagerà da fertilisaders, da chemicalias e d’autras materias auxiliaras.
+- e. Ella po promover la perscrutaziun, la cussegliaziun e la scolaziun agricula ed er prestar agids d’investiziun.
+- f. Ella po decretar prescripziuns per consolidar la proprietad funsila dals purs.
+
+<sup>4</sup> Ella metta a disposiziun per quest intent meds finanzials liads a l’intent dal sectur agricul e meds generals da la Confederaziun.
+
+#### Art. 104a
+
+**Segirezza alimentara**[^104a-1]
+
+Per garantir il provediment da la populaziun cun victualias stgaffescha la Confederaziun premissas per:
+
+- a. la garanzia da la basa per la producziun agricula, en spezial il terren cultivabel;
+- b. ina producziun da victualias ch’è adattada a las cundiziuns localas e che dovra las resursas en moda effizienta;
+- c. in’agricultura ed in’economia alimentara ch’èn orientadas al martgà;
+- d. relaziuns commerzialas transcunfinalas che gidan a sviluppar en moda persistenta l’agricultura e l’economia alimentara;
+- e. in diever da victualias che spargna resursas.
+
+[^104a-1]: Acceptà en la votaziun dal pievel dals 24 da sett. 2017, en vigur dapi ils 24 da sett. 2017 (COF dals 14 da mars 2017, COCF dals 30 da nov. 2017 – [AS 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [BBl 2014 6135](https://fedlex.data.admin.ch/eli/fga/2014/1287), [2015 5753](https://fedlex.data.admin.ch/eli/fga/2015/1320), [2017 2495](https://fedlex.data.admin.ch/eli/fga/2017/484)[7829](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
+
+#### Art. 105
+
+**Alcohol**
+
+La legislaziun davart la fabricaziun, l’import, la purificaziun e la vendita da vinars suttastat a la Confederaziun. Ella tegna particularmain quint dals effects nuschaivels dal consum d’alcohol.
+
+#### Art. 106
+
+**Gieus per daners**[^106-1]
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart ils gieus per daners, tegnend quint dals interess dals chantuns.
+
+<sup>2</sup> Per installar e per manar bancas da gieu è necessaria ina concessiun da la Confederaziun. Tar la surdada da concessiuns resguarda la Confederaziun las cundiziuns regiunalas. Ella incassescha ina taxa sin bancas da gieu che dependa dal retgav; la taxa na dastga betg surpassar 80 pertschient dal retgav brut da gieu. Questa taxa è destinada a l’assicuranza per vegls, survivents ed invaliditad.
+
+<sup>3</sup>
+
+Ils chantuns èn cumpetents per permetter e per survegliar:
+
+- a. ils gieus per daners accessibels ad in dumber illimità da persunas en plirs lieus ed en ils quals i vegn tratg la sort u procedì en moda sumeglianta; exceptads èn ils sistems da jackpot da las bancas da gieu;
+- b. las scumessas da sport;
+- c. ils gieus d’inschign.
+
+<sup>4</sup> Ils alineas 2 e 3 vegnan er applitgads per ils gieus per daners purschids a basa da la telecommunicaziun.
+
+<sup>5</sup> La Confederaziun ed ils chantuns tegnan quint dals privels en connex cun ils gieus per daners. Tras la legislaziun e tras mesiras da surveglianza garanteschan els ina protecziun adequata, resguardond en quest connex las differentas caracteristicas dals gieus sco er la furma ed il lieu da la purschida.
+
+<sup>6</sup> Ils chantuns garanteschan ch’ils retgavs nets dals gieus tenor l’alinea 3 literas a e b vegnian duvrads dal tuttafatg per intents d’utilitad publica, en spezial en ils secturs da la cultura, dals fatgs socials e dal sport.
+
+<sup>7</sup> La Confederaziun ed ils chantuns sa coordineschan per ademplir lur incumbensas. Perquai stgaffescha la lescha in organ cuminaivel che sa cumpona mintgamai per la mesadad da commembers dals organs executivs da la Confederaziun e dals chantuns.
+
+[^106-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 29 da sett. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [BBl 2009 7019](https://fedlex.data.admin.ch/eli/fga/2009/1248), [2010 7961](https://fedlex.data.admin.ch/eli/fga/2010/1467), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+
+#### Art. 107
+
+**Armas e material da guerra**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns cunter il diever abusiv d’armas, d’accessoris d’armas e da muniziun.
+
+<sup>2</sup> Ella decretescha prescripziuns davart la fabricaziun, l’acquist e la vendita sco er davart l’import, l’export ed il transit da material da guerra.
+
+### 8. partiziun Abitar, lavur, segirezza sociala e sanadad
+
+#### Art. 108
+
+**Promoziun da la construcziun d’abitaziuns e da la proprietad d’abitaziuns**
+
+<sup>1</sup> La Confederaziun promova la construcziun d’abitaziuns ed er l’acquist da proprietad d’abitaziuns e da chasas destinadas al diever persunal da privats sco er l’activitad da purtaders ed organisaziuns per la construcziun d’abitaziuns d’util public.
+
+<sup>2</sup> Ella promova oravant tut l’acquist e l’avertura da terren per la construcziun d’abitaziuns, la raziunalisaziun e la reducziun dals pretschs per la construcziun d’abitaziuns sco er la reducziun dals custs d’abitar.
+
+<sup>3</sup> Ella po decretar prescripziuns davart l’avertura da terren per la construcziun d’abitaziuns e davart la raziunalisaziun da la construcziun.
+
+<sup>4</sup> Ella resguarda particularmain ils interess da famiglias, d’attempads, da persunas basegnusas e d’impedids.
+
+#### Art. 109
+
+**Fatgs da fittanza**
+
+<sup>1</sup> La Confederaziun po decretar prescripziuns cunter ils abus en ils fatgs da fittanza, surtut cunter tschains da fittanza abusivs, sco er davart la pussaivladad da protestar cunter disditgas abusivas e davart la prolungaziun limitada da relaziuns da fittanza.
+
+<sup>2</sup> Ella po decretar prescripziuns davart la decleraziun cun vigur lianta da contracts da fittanza generals. Tals contracts dastgan be vegnir declerads sco generalmain liants, sch’els tegnan quint a moda commensurada dals interess motivads da minoritads sco er da las differenzas regiunalas e sch’els na pregiuditgeschan betg l’egualitad da dretg.
+
+#### Art. 110
+
+**Lavur[^110-1]\***
+
+<sup>1</sup>
+
+La Confederaziun po decretar prescripziuns davart:
+
+- a. la protecziun da las lavurantas e dals lavurants;
+- b. la relaziun tranter patruns e lavurants, particularmain davart la reglamentaziun communabla da dumondas da manaschi e fatgs professiunals;
+- c. l’intermediaziun da lavur;
+- d. la decleraziun cun vigur lianta da contracts da lavur collectivs.
+
+<sup>2</sup> Contracts da lavur collectivs dastgan vegnir declerads sco generalmain liants, sch’els tegnan quint a moda commensurada dals interess motivads da minoritads sco er da las differenzas regiunalas e sch’els na pregiuditgeschan betg la libertad sindicala.
+
+<sup>3</sup> Il 1. d’avust è il di da la festa naziunala. Concernent il dretg da lavur è el egual a las dumengias ed è pajà.
+
+[^110-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 111
+
+**Prevenziun per vegls, survivents ed invalids**
+
+<sup>1</sup> La Confederaziun prenda mesiras per ina prevenziun suffizienta per vegls, survivents ed invalids. Quella sa basa sin trais pitgas, numnadamain sin l’assicuranza federala per vegls, survivents ed invalids, sin la prevenziun professiunala e sin la prevenziun individuala.
+
+<sup>2</sup> La Confederaziun procura che l’assicuranza per vegls, survivents ed invalids sco er la prevenziun professiunala possian ademplir lur intents permanentamain.
+
+<sup>3</sup> Ella po obligar ils chantuns da liberar da la taglia las instituziuns da l’assicuranza federala per vegls, survivents ed invalids sco er da la prevenziun professiunala e conceder als assicurads ed a lur patrunas e patruns levgiaments da taglia sin contribuziuns e dretgs ch’els pon pretender.
+
+<sup>4</sup> En collavuraziun cun ils chantuns promova ella la prevenziun individuala, particularmain cun mesiras da la politica fiscala e da la politica da proprietad.
+
+#### Art. 112
+
+**Assicuranza da vegls, survivents ed invalids**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart l’assicuranza da vegls, survivents ed invalids.
+
+<sup>2</sup>
+
+Ella observa ils suandants princips:
+
+- a. L’assicuranza è obligatorica.
+- a<sup>bis</sup>.[^112-1] Ella conceda prestaziuns finanzialas e materialas.
+- b. Las rentas han da cuvrir commensuradamain il basegn d’existenza.
+- c. La renta maximala correspunda sin il pli al dubel da la renta minimala.
+- d. Las rentas vegnan adattadas almain da tut al svilup dals pretschs.
+
+<sup>3</sup>
+
+L’assicuranza vegn finanziada:
+
+- a. tras contribuziuns dals assicurads; latiers pajan las patrunas ed ils patruns la mesadad da las contribuziuns per lur lavurantas e lavurants;
+- b.[^112-2] tras prestaziuns da la Confederaziun.
+
+<sup>4</sup> Las prestaziuns da la Confederaziun muntan sin il pli la mesadad da las expensas.[^112-3]
+
+<sup>5</sup> Las prestaziuns da la Confederaziun vegnan cuvridas en emprima lingia ord il retgav net da la taglia sin tubac, da la taglia sin vinars e da la taxa sin bancas da gieus.
+
+<sup>6</sup> …[^112-4]
+
+[^112-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 112a
+
+**Prestaziuns supplementaras**[^112a-1]
+
+<sup>1</sup> La Confederaziun ed ils chantuns pajan prestaziuns supplementaras a persunas, tar las qualas las prestaziuns da l’assicuranza per vegls, survivents ed invalids na cuvran betg il basegn d’existenza.
+
+<sup>2</sup> La lescha fixescha la dimensiun da las prestaziuns supplementaras sco er las incumbensas e las cumpetenzas da la Confederaziun e dals chantuns.
+
+[^112a-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 112b
+
+**Promoziun da l’integraziun d’invalids[^112b-2]\**[^112b-1]*
+
+<sup>1</sup> La Confederaziun promova l’integraziun d’invalids cun pajar prestaziuns finanzialas e materialas. Per quest intent po ella utilisar ils meds da l’assicuranza d’invalids.
+
+<sup>2</sup> Ils chantuns promovan l’integraziun d’invalids, spezialmain tras contribuziuns vi da la construcziun e vi da la gestiun d’instituziuns che servan ad abitar ed a lavurar.
+
+<sup>3</sup> La lescha fixescha las finamiras, ils princips ed ils criteris da l’integraziun.
+
+[^112b-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112b-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 112c
+
+**Agid als attempads ed als impedids[^112c-2]\**[^112c-1]*
+
+<sup>1</sup> Ils chantuns procuran per l’agid e per la tgira dals attempads e dals impedids a chasa.
+
+<sup>2</sup> La Confederaziun sustegna stentas per tut la Svizra en favur dals attempads e dals impedids a chasa. Per quest intent po ella impunder meds finanzials da l’assicuranza da vegls, survivents ed invalids.
+
+[^112c-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112c-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 113
+
+**Prevenziun professiunala[^113-1]\***
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart la prevenziun professiunala.
+
+<sup>2</sup>
+
+Ella observa ils suandants princips:
+
+- a. La prevenziun professiunala pussibilitescha ensemen cun l’assicuranza da vegls, survivents ed invalids da mantegnair il nivel da viver anteriur a moda commensurada.
+- b. La prevenziun professiunala è obligatorica per lavurantas e lavurants; la lescha po prevair excepziuns.
+- c. Las patrunas ed ils patruns assicureschan lur lavurantas e lavurants tar ina instituziun da prevenziun; sche necessari dat la Confederaziun ad els la pussaivladad d’assicurar las lavurantas ed ils lavurants tar ina instituziun da prevenziun federala.
+- d. Persunas cun gudogn independent pon s’assicurar voluntarmain tar ina instituziun da prevenziun.
+- e. Per tschertas gruppas da persunas cun gudogn independent po la prevenziun professiunala vegnir declerada sco obligatorica, saja quai generalmain u per singulas ristgas.
+
+<sup>3</sup> La prevenziun professiunala vegn finanziada tras las contribuziuns dals assicurads; latiers pajan las patrunas ed ils patruns almain la mesadad da las contribuziuns da lur lavurantas e lavurants.
+
+<sup>4</sup> Las instituziuns da prevenziun ston satisfar a las pretensiuns minimalas dal dretg federal; per la schliaziun d’incumbensas spezialas po la Confederaziun prevair mesiras applitgablas en tut la Svizra.
+
+[^113-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+#### Art. 114
+
+**Assicuranza da dischoccupads**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart l’assicuranza da dischoccupads.
+
+<sup>2</sup>
+
+Ella observa ils suandants princips:
+
+- a. L’assicuranza conceda ina cumpensaziun commensurada da l’acquist e sustegna mesiras destinadas per impedir e cumbatter la dischoccupaziun.
+- b. La participaziun è obligatorica per lavurantas e lavurants; la lescha po prevair excepziuns.
+- c. Persunas cun gudogn independent pon s’assicurar voluntarmain.
+
+<sup>3</sup> L’assicuranza vegn finanziada tras las contribuziuns dals assicurads; latiers pajan las patrunas e patruns la mesadad da las contribuziuns per lur lavurantas e lavurants.
+
+<sup>4</sup> La Confederaziun ed ils chantuns furneschan prestaziuns finanzialas en cas da relaziuns extraordinarias.
+
+<sup>5</sup> La Confederaziun po decretar prescripziuns davart il provediment dals dischoccupads.
+
+#### Art. 115
+
+**Sustegniment da persunas basegnusas**
+
+Persunas basegnusas vegnan sustegnidas da lur chantun da domicil. La Confederaziun regla las excepziuns e las cumpetenzas.
+
+#### Art. 116
+
+**Supplements da famiglias ed assicuranza da maternitad**
+
+<sup>1</sup> Ademplind sias incumbensas resguarda la Confederaziun ils basegns da la famiglia. Ella po sustegnair mesiras per la protecziun da la famiglia.
+
+<sup>2</sup> Ella po decretar prescripziuns davart ils supplements da famiglia e manar ina cassa federala da cumpensaziun.
+
+<sup>3</sup> Ella instituescha in’assicuranza da maternitad. Er persunas che na pon betg giudair las prestaziuns da l’assicuranza pon vegnir obligadas da pajar contribuziuns.
+
+<sup>4</sup> La Confederaziun po declerar sco obligatorica la participaziun a cassas da cumpensaziun per famiglias e l’assicuranza da maternitad, saja quai generalmain u per singulas gruppas da la populaziun; ella po far dependentas sias prestaziuns da prestaziuns commensuradas dals chantuns.
+
+#### Art. 117
+
+**Assicuranza da malsauns e cunter accidents**
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart l’assicuranza da malsauns e cunter accidents.
+
+<sup>2</sup> Ella po declerar sco obligatorica l’assicuranza da malsauns e cunter accidents, saja quai generalmain u per singulas gruppas da la populaziun.
+
+#### Art. 117a
+
+**Provediment medicinal da basa**[^117a-1]
+
+<sup>1</sup> En il rom da lur cumpetenzas procuran la Confederaziun ed ils chantuns che tuts hajan access ad in provediment medicinal da basa suffizient e d’auta qualitad. Els renconuschan e promovan la medischina da famiglia sco cumponenta essenziala da quest provediment da basa.
+
+<sup>2</sup>
+
+La Confederaziun decretescha prescripziuns davart:
+
+- a. la scolaziun e la furmaziun supplementara per professiuns dal provediment medicinal da basa e las pretensiuns per pratitgar questas professiuns;
+- b. l’indemnisaziun adequata da las prestaziuns da la medischina da famiglia.
+
+[^117a-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COF dals 19 da sett. 2013, COCF dals 18 d’avust 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670), [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
+
+#### Art. 118
+
+**Protecziun da la sanadad**
+
+<sup>1</sup> En il rom da sias cumpetenzas prenda la Confederaziun mesiras per proteger la sanadad.
+
+<sup>2</sup>
+
+Ella decretescha prescripziuns davart:
+
+- a. la manipulaziun da victualias sco er da medicaments, meds narcotics, organissems, chemicalias ed objects che pon periclitar la sanadad;
+- b. il cumbat cunter malsognas d’umans u d’animals transmissiblas e fitg derasadas u privlusas;
+- c. la protecziun cunter radis ionisants.
+
+#### Art. 118a
+
+**Medischina cumplementara**[^118a-1]
+
+En il rom da lur cumpetenzas procuran la Confederaziun ed ils chantuns ch’i vegnia tegnì quint da la medischina cumplementara.
+
+[^118a-1]: Acceptà en la votaziun dal pievel dals 17 da matg 2009, en vigur dapi ils 17 da matg 2009 (COF dals 3 d’oct. 2008, COCF dals 21 d’oct. 2009 – [AS 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [BBl 2005 6001](https://fedlex.data.admin.ch/eli/fga/2005/966), [2006 7591](https://fedlex.data.admin.ch/eli/fga/2006/947), [2008 8229](https://fedlex.data.admin.ch/eli/fga/2008/1400), [2009 7539](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
+
+#### Art. 118b
+
+**Perscrutaziun vi da l’uman**[^118b-1]
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart la perscrutaziun vi da l’uman, uschenavant che la protecziun da sia dignitad e da sia persunalitad pretendan quai. En quest connex preserva ella la libertad da la perscrutaziun e tegna quint da l’impurtanza da la perscrutaziun per la sanadad e per la societad.
+
+<sup>2</sup>
+
+Per la perscrutaziun biologica e medicinala vi da l’uman resguarda ella ils princips suandants:
+
+- a. mintga project da perscrutaziun premetta che la persuna che sa participescha a quest project u che la persuna ch’è autorisada tenor lescha da far quai haja dà ses consentiment suenter esser vegnida infurmada suffizientamain. La lescha po prevair excepziuns. Ina refusa è en mintga cas lianta;
+- b. ils ristgs e las grevezzas per la persuna che sa participescha ad in project da perscrutaziun na dastgan betg star en ina disproporziun cun il niz che resulta da quest project;
+- c. in project da perscrutaziun dastga vegnir realisà cun persunas incapablas da giuditgar sulettamain, sche enconuschientschas equivalentas na pon betg vegnir cuntanschidas cun persunas capablas da giuditgar. Sch’il project da perscrutaziun na lascha betg spetgar in niz direct per las persunas incapablas da giuditgar, dastgan ils ristgs e las grevezzas esser mo minimals;
+- d. ina examinaziun independenta dal project da perscrutaziun sto confermar che la protecziun da las persunas che sa participeschan a quest project è garantida.
+
+[^118b-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2010, en vigur dapi ils 7 da mars 2010 (COF dals 25 da sett. 2009, COCF dals 15 d’avr. 2010 – [AS 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [BBl 2007 6713](https://fedlex.data.admin.ch/eli/fga/2007/1025), [2009 6649](https://fedlex.data.admin.ch/eli/fga/2009/1171), [2010 2625](https://fedlex.data.admin.ch/eli/fga/2010/455)).
+
+#### Art. 119
+
+**Medischina da reproducziun e tecnologia da gens sin il sectur uman**
+
+<sup>1</sup> L’uman è protegì dal diever abusiv da la medischina da reproducziun e da la tecnologia da gens.
+
+<sup>2</sup>
+
+La Confederaziun decretescha prescripziuns davart il tractament da schermenza e dal patrimoni genetic da l’uman. Ella procura per la protecziun da la dignitad dals umans, da la persunalitad e da la famiglia ed observa particularmain ils suandants princips:
+
+- a. Tuts geners da clonar ed intervenziuns en il patrimoni genetic da cellas sexualas e d’embrios èn scumandads.
+- b. Schermenzas e patrimonis genetics na umans na dastgan betg vegnir transferids en schermenzas umanas u vegnir unids cun quellas.
+- c.[^119-1] Las proceduras da reproducziun cun agid da la medischina dastgan be vegnir applitgadas, sche la sterilitad u il privel dal transferiment d’ina greva malsogna na po betg vegnir eliminà autramain, dentant betg per obtegnair tschertas qualitads tar l’uffant u per far perscrutaziuns; la fructificaziun da cellas d’ov umanas ordaifer il corp da la dunna è permessa be sut las cundiziuns fixadas da la lescha; ordaifer il corp da la dunna dastg’ins sviluppar mo tantas cellas d’ov umanas ad embrios sco quai ch’ins dovra per la reproducziun cun agid da la medischina.
+- d. La donaziun d’embrios e tuts geners da maternitads fittadas èn scumandads.
+- e. Cun schermenzas umanas e cun products ord embrios na dastga betg vegnir fatg commerzi.
+- f. Il patrimoni genetic d’ina persuna dastga sulettamain vegnir analisà, registrà u palesà, sche la persuna pertutgada dat il consentiment u sche la lescha prescriva quai.
+- g. Mintga persuna ha access a las datas davart ses origin genetic.
+
+[^119-1]: Acceptà en la votaziun dal pievel dals 14 da zer. 2015, en vigur dapi ils 14 da zer. 2015 (COF dals 12 da dec. 2014, COCF dals 21 d’avust 2015 – [AS 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075), [2014 9675](https://fedlex.data.admin.ch/eli/fga/2014/2098), [2015 6313](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
+
+#### Art. 119a
+
+**Medischina da transplantaziun**[^119a-1]
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns sin il sectur da la transplantaziun d’organs, tessids e cellas. Ella procura en quest connex per la protecziun da la dignitad umana, da la persunalitad e da la sanadad.
+
+<sup>2</sup> Ella fixescha oravant tut ils criteris per in’attribuziun gista dals organs.
+
+<sup>3</sup> La donaziun d’organs, da tessids e da cellas d’umans è gratuita. Il commerzi cun organs umans è scumandà.
+
+[^119a-1]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan 2000 (COF dals 26 da zer. 1998, COCF dals 23 da mars 1999 – [AS 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [BBl 1997 III 653](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557), **1998** 3473, **1999** 2912 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+
+#### Art. 120
+
+**Tecnologia da gens en il sectur betg uman[^120-1]\***
+
+<sup>1</sup> L’uman e ses ambient èn protegids dal diever abusiv da la tecnologia da gens.
+
+<sup>2</sup> La Confederaziun decretescha prescripziuns davart il tractament da la schermenza e dal patrimoni genetic d’animals, da plantas ed d’auters organissems; ella tegna quint da la dignitad da las creatiras sco er da la segirezza dals umans, dals animals e da l’ambient e protegia la varietad genetica da las spezias dals animals e da las plantas.
+
+[^120-1]: <sup>\*</sup> Cun disposiziun transitorica.
+
+### 9. partiziun Dimora e domicil da persunas estras
+
+#### Art. 121
+
+**Legislaziun en il sectur da las persunas estras e dals fatgs d’asil[^121-1]\* [^121-2]**
+
+<sup>1</sup> La legislaziun davart l’entrada, la partenza, la dimora ed il domicil da persunas estras sco er davart la concessiun d’asil suttastat a la Confederaziun.
+
+<sup>2</sup> Las persunas estras pon vegnir expulsadas da la Svizra, sch’ellas pericliteschan la segirezza dal pajais.
+
+<sup>3</sup>
+
+Ellas perdan lur dretg da dimora sco er las pretensiuns da dretg che stattan en connex cun lur dimora en Svizra, independentamain da lur status tenor il dretg da persunas estras, sch’ellas:
+
+- a. èn vegnidas sentenziadas cun vigur legala pervia d’in delict da mazzament intenziunà, pervia d’ina violaziun u pervia d’in auter delict sexual grev, pervia d’in auter delict da violenza sco rapina, pervia da commerzi cun umans, pervia da commerzi cun drogas u pervia d’in delict d’infracziun; u
+- b. han retratg en moda abusiva prestaziuns da las assicuranzas socialas u da l’agid social.[^121-3]
+
+<sup>4</sup> Il legislatur precisescha ils causals tenor l’alinea 3. El po cumplettar la glista cun ulteriurs causals.[^121-4]
+
+<sup>5</sup> Las persunas estras che perdan – tenor ils alineas 3 e 4 – lur dretg da dimora sco er tut las pretensiuns da dretg che stattan en connex cun lur dimora en Svizra ston vegnir expulsadas da l’autoritad cumpetenta or da la Svizra e ston vegnir chastiadas cun in scumond d’entrar en Svizra da 5 fin 15 onns. En cas da repetiziun sto il scumond d’entrar en Svizra vegnir fixà a 20 onns.[^121-5]
+
+<sup>6</sup> Tgi che violescha il scumond d’entrar en Svizra u tgi ch’entra en autra moda u maniera illegalmain en Svizra, è culpabel. Il legislatur decretescha las disposiziuns correspundentas.[^121-6]
+
+[^121-1]: <sup>\*</sup> Cun disposiziun transitorica.
+[^121-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121-3]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-5]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-6]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+
+#### Art. 121a
+
+**Regulaziun da l’immigraziun[^121a-2]\**[^121a-1]*
+
+<sup>1</sup> La Svizra regla en moda autonoma l’immigraziun da persunas estras.
+
+<sup>2</sup> Il dumber da permissiuns a persunas estras per la dimora en Svizra vegn limità cun dumbers maximals e cun contingents annuals. Ils dumbers maximals valan per tut las permissiuns dal dretg da persunas estras inclusiv ils fatgs d’asil. Il dretg da survegnir ina dimora durabla, da pudair reunir la famiglia e da survegnir prestaziuns socialas po vegnir limità.
+
+<sup>3</sup> Ils dumbers maximals ed ils contingents annuals per persunas estras cun activitad da gudogn ston s’orientar tenor ils interess economics globals da la Svizra, respectond il princip da priorisar las Svizras ed ils Svizzers. En quest connex ston vegnir resguardadas las cunfinarias ed ils cunfinaris. Ils criteris decisivs per conceder permissiuns da dimora èn en spezial la dumonda d’in patrun, l’abilitad da s’integrar ed ina basa d’existenza suffizienta ed independenta.
+
+<sup>4</sup> I na dastgan vegnir fatgs nagins contracts internaziunals che cuntrafan a quest artitgel.
+
+<sup>5</sup> La lescha regla ils detagls.
+
+[^121a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121a-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
+### 10. partiziun Dretg civil, dretg penal, metrologia
+
+#### Art. 122
+
+**Dretg civil**[^122-1]
+
+<sup>1</sup> La legislaziun concernent il dretg civil ed il dretg da process civil suttastat a la Confederaziun.
+
+<sup>2</sup> Ils chantuns èn cumpetents per l’organisaziun da las dretgiras e la giurisdicziun en fatgs civils, uschenavant che la lescha na prevesa nagut auter.
+
+[^122-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 123
+
+**Dretg penal**[^123-1]
+
+<sup>1</sup> La legislaziun concernent il dretg penal ed il dretg da process penal suttastat a la Confederaziun.
+
+<sup>2</sup> Ils chantuns èn cumpetents per l’organisaziun da las dretgiras, la giurisdicziun en fatgs penals sco er per l’execuziun penala e l’execuziun da mesiras, uschenavant che la lescha na prevesa nagut auter.
+
+<sup>3</sup>
+
+La Confederaziun po decretar prescripziuns davart l’execuziun da chastis e da mesiras. Ella po conceder contribuziuns als chantuns per:
+
+- a. la construcziun da stabiliments;
+- b. meglieraziuns da l’execuziun da chastis e da mesiras;
+- c. instituziuns ch’exequeschan mesiras educativas en favur d’uffants, giuvenils e giuvens creschids.[^123-2]
+
+[^123-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. d’avr. 2003 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 24 da sett. 2002 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^123-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 123a
+
+[^123a-1]
+
+<sup>1</sup> Sch’in delinquent sexual u violent vegn resguardà sco extremamain privlus e considerà sco indifferent a la terapia en las expertisas ch’èn necessarias per la sentenzia giudiziala, sto el vegnir internà a vita duranta, pervia da la gronda ristga da recidiva. Relaschada anticipada e congedi èn exclus.
+
+<sup>2</sup> Novas expertisas pon vegnir fatgas mo, sche novas enconuschientschas scientificas cumprovan ch’il delinquent po vegnir guarì e ch’el na represchenta alura betg pli in privel per la publicitad. L’autoritad ch’ha dismess l’internament sin fundament da questas novas expertisas sto surpigliar la responsabladad per ina recidiva dal delinquent.
+
+<sup>3</sup> Tut las expertisas necessarias per giuditgar ils delinquents sexuals e violents ston vegnir fatgas duas spezialists independents vicendaivlamain e cun experientscha, e quai resguardond tut ils elements impurtants per il giudicament.
+
+[^123a-1]: Acceptà en la votaziun dal pievel dals 8 da favr. 2004, en vigur dapi ils 8 da favr. 2004 (COF dals 20 da zer. 2003, COCF dals 21 d’avr. 2004 – [AS 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [BBl 2000 3336](https://fedlex.data.admin.ch/eli/fga/2000/693), [2001 3433](https://fedlex.data.admin.ch/eli/fga/2001/638), [2003 4434](https://fedlex.data.admin.ch/eli/fga/2003/678), [2004 2199](https://fedlex.data.admin.ch/eli/fga/2004/404)).
+
+#### Art. 123b
+
+**Nunscadenza da la persecuziun penala e dal chasti tar delicts sexuals e pornografics vi d’uffants avant lur pubertad**[^123b-1]
+
+La persecuziun da delicts sexuals u pornografics vi d’uffants che n’èn betg anc en la pubertad ed il chasti per tals delicts na scadan betg.
+
+[^123b-1]: Acceptà en la votaziun dal pievel dals 30 da nov. 2008, en vigur dapi ils 30 da nov. 2008 (COF dals 13 da zer. 2008, COCF dals 23 da schan. 2009 – [AS 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [BBl 2006 3657](https://fedlex.data.admin.ch/eli/fga/2006/386), [2007 5369](https://fedlex.data.admin.ch/eli/fga/2007/758), [2008 5245](https://fedlex.data.admin.ch/eli/fga/2008/935), [2009 605](https://fedlex.data.admin.ch/eli/fga/2009/121)).
+
+#### Art. 123c
+
+**Mesira suenter delicts sexuals cun uffants u cun persunas inablas da sa defender u da giuditgar**[^123c-1]
+
+Tgi ch’è vegnì sentenzià, perquai ch’el ha violà l’integritad sexuala d’in uffant u d’ina persuna dependenta, perda definitivamain il dretg da pratitgar in’activitad professiunala u onurara cun persunas minorennas u dependentas.
+
+[^123c-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COCF dals 20 da favr. 2014 – [AS 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [BBl 2009 7021](https://fedlex.data.admin.ch/eli/fga/2009/1249), [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670), [2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)[1779](https://fedlex.data.admin.ch/eli/fga/2014/304)).
+
+#### Art. 124
+
+**Agid a victimas**
+
+Confederaziun e chantuns procuran che persunas ch’èn vegnidas pregiuditgadas tras in delict en lur integritad corporala, psichica u sexuala, obtegnian agid e vegnian er indemnisadas commensuradamain, sch’ellas èn vegnidas en difficultads economicas pervia dal delict.
+
+#### Art. 125
+
+**Metrologia**
+
+La legislaziun davart la metrologia è chaussa da la Confederaziun.
+
+### 3. chapitel Urden da finanzas
+
+#### Art. 126
+
+**Gestiun da las finanzas**[^126-1]
+
+<sup>1</sup> La Confederaziun tegna en equiliber a lunga vista sias expensas ed entradas.
+
+<sup>2</sup> L’import maximal da las expensas cumplessivas ch’èn d’approvar en il preventiv sa drizza tenor las entradas stimadas, resguardond la situaziun economica.
+
+<sup>3</sup> En cas d’in basegn extraordinari da pajaments po vegnir augmentà commensuradamain l’import maximal tenor l’alinea 2. Davart in augment concluda l’Assamblea federala tenor l’artitgel 159 alinea 3 litera c.
+
+<sup>4</sup> Sche las expensas cumplessivas che sa mussan en il quint dal stadi surpassan l’import maximal tenor l’alinea 2 u 3, èn las expensas supplementaras da cumpensar durant ils onns sequents.
+
+<sup>5</sup> La lescha regla ils detagls.
+
+[^126-1]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001, en vigur dapi ils 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+
+#### Art. 127
+
+**Princips da l’imposiziun da taglia**
+
+<sup>1</sup> La furmaziun da las taglias, particularmain il circul dals pajataglia, l’object da la taglia e la calculaziun da quella, è da reglar en ses princips en la lescha sezza.
+
+<sup>2</sup> Uschenavant ch’il gener da taglia permetta quai, èn d’observar oravant tut ils princips da la generalitad e da la regularitad da l’imposiziun da taglia sco er il princip da l’imposiziun tenor la capacitad economica.
+
+<sup>3</sup> L’imposiziun dubla da taglia tranter ils chantuns è scumandada. La Confederaziun prenda las mesiras necessarias.
+
+#### Art. 128
+
+**Taglias directas[^128-1]\***
+
+<sup>1</sup>
+
+La Confederaziun po incassar ina taglia directa:
+
+- a. da maximalmain 11,5 pertschient sin l’entrada da persunas natiralas;
+- b.[^128-2] da maximalmain 8,5 pertschient sin il retgav net da las persunas giuridicas;
+- c.[^128-3] …
+
+<sup>2</sup> Fixond las tariffas resguarda la Confederaziun las grevezzas fiscalas da las taglias directas dals chantuns e da las vischnancas.
+
+<sup>3</sup> Tar la taglia sin l’entrada da las persunas natiralas vegnan gulivadas periodicamain las consequenzas da la progressiun fraida.
+
+<sup>4</sup> La taglia vegn fixada ed incassada dals chantuns. Dal retgav brut da taglia van almain 17 pertschient als chantuns. Questa procentuala po vegnir reducida fin a 15 pertschient, sch’ils effects da la gulivaziun da finanzas pretendan quai.[^128-4]
+
+[^128-1]: <sup>\*</sup> Cun disposiziun transitorica.
+[^128-2]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-3]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-4]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 129
+
+**Armonisaziun da taglia**
+
+<sup>1</sup> La Confederaziun fixescha ils princips da l’armonisaziun da las taglias directas da la Confederaziun, dals chantuns e da las vischnancas; ella resguarda las stentas dals chantuns per in’armonisaziun da taglia.
+
+<sup>2</sup> L’armonisaziun s’extenda a l’obligaziun da pajar taglia, a l’object ed a la fixaziun temporara da las taglias, al dretg da procedura ed al dretg penal fiscal. Exclus da l’armonisaziun èn particularmain las tariffas da taglia, ils pes da taglia ed ils imports libers da la taglia.
+
+<sup>3</sup> La Confederaziun po decretar prescripziuns cunter la concessiun d’avantatgs fiscals nungiustifitgads.
+
+#### Art. 130
+
+**Taglia sin la plivalur[^130-2]\**[^130-1]*
+
+<sup>1</sup> La Confederaziun po incassar ina taglia sin la plivalur cun ina taxa normala da maximalmain 6,5 pertschient ed ina taxa reducida d’almain 2,0 pertschient sin furniziuns d’objects e sin prestaziuns da servetsch inclusiv per agen diever sco er sin imports.
+
+<sup>2</sup> La lescha po fixar per la taxaziun da las prestaziuns dal sectur d’alloschament ina taxa tranter la taxa reducida e la taxa normala.[^130-3]
+
+<sup>3</sup> Sche la finanziaziun da l’assicuranza per vegls, survivents ed invalids n’è betg pli garantida pervia dal svilup da la structura da vegliadetgna, po la taxa normala vegnir auzada cun ina lescha federala per maximalmain 1 pertschient e la taxa reducida per maximal 0,3 pertschient.[^130-4]
+
+<sup>3bis</sup> Per finanziar l’infrastructura da viafier vegnan augmentadas las tariffas per 0,1 puncts procentuals.[^130-5]
+
+<sup>4</sup> 5 pertschient dal retgav betg lià ad in intent vegn impundì per la reducziun da las premias en l’assicuranza da malsauns a favur da las classas d’entradas bassas, sch’i na vegn betg fixada tras la lescha in’autra utilisaziun per distgargiar las classas d’entradas bassas.
+
+[^130-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^130-2]: <sup>\*</sup> Cun disposiziun transitorica.
+[^130-3]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2027 importa la taxa speziala per prestaziuns dal sectur d’alloschament 3,7 % (art. 25 al. 4 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
+[^130-4]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2030 importan las taxas da la taglia sin la plivalur 7,7 % (taxa normala) e 2,5 % (taxa reducida) (art. 25 al. 1 e 2 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
+[^130-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+
+#### Art. 131
+
+**Taglias spezialas da consum[^131-1]\***
+
+<sup>1</sup>
+
+La Confederaziun po incassar taglias spezialas da consum sin:
+
+- a. tubac e products da tubac;
+- b. vinars;
+- c. biera;
+- d. automobils e lur elements;
+- e. petroli, auters ielis minerals, gas natiral ed ils products che vegnan gudagnads a chaschun da lur elavuraziun, sco er sin carburants.
+
+<sup>2</sup>
+
+Ultra da quai po ella incassar:
+
+- a. in supplement sin la taglia da consum sin tut ils carburants, cun excepziun dals carburants d’aviatica;
+- b. ina taxa, sch’i vegnan duvrads per il vehichel a motor auters meds da propulsiun ch’ils carburants tenor l’alinea 1 litera e.[^131-2]
+
+<sup>2bis</sup> Sch’ils meds finanzials na bastan betg per ademplir las incumbensas en connex cun il traffic aviatic ch’èn previsas en l’artitgel 87*b*, incassescha la Confederaziun in supplement sin la taglia da consum sin ils carburants d’aviatica.[^131-3]
+
+<sup>3</sup> Ils chantuns obtegnan 10 pertschient dal retgav net or da l’imposiziun da taglia sin vinars. Quests meds èn d’applitgar per cumbatter ils motivs e las consequenzas dal consum da substanzas che chaschunan dependenza.
+
+[^131-1]: <sup>\*</sup> Cun disposiziun transitorica.
+[^131-2]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-3]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+
+#### Art. 132
+
+**Taglia da bul e taglia anticipada**
+
+<sup>1</sup> La Confederaziun po incassar ina taglia da bul sin vaglias, quittanzas da premias d’assicuranza e sin auters documents dal traffic commerzial; exclus da la taglia èn documents en connex cun fatgs funsils u ipotecars.
+
+<sup>2</sup> La Confederaziun po incassar ina taglia anticipada sin il retgav da facultads moviblas da chapital, sin gudogns da lottaria sco er sin prestaziuns d’assicuranzas. 10 pertschient dal retgav da taglia van als chantuns.[^132-1]
+
+[^132-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 133
+
+**Dazis**
+
+La legislaziun davart ils dazis ed autras taxas sin la martganzia che va suror ils cunfins suttastat a la Confederaziun.
+
+#### Art. 134
+
+**Exclusiun da taglias chantunalas e communalas**
+
+Quai che la legislaziun federala inditgescha sco object da la taglia sin la plivalur, da las taglias spezialas da consum, da la taglia da bul e da la taglia anticipada u quai ch’ella declera sco liber da taglias, na dastga betg vegnir engrevgià dals chantuns e da las vischnancas cun taglias sumegliantas.
+
+#### Art. 135
+
+**Gulivaziun da finanzas e da grevezzas**[^135-1]
+
+<sup>1</sup> La Confederaziun decretescha prescripziuns davart ina gulivaziun da finanzas e da grevezzas commensurada tranter la Confederaziun ed ils chantuns sco er tranter ils chantuns.
+
+<sup>2</sup>
+
+La gulivaziun da finanzas e da grevezzas duai spezialmain:
+
+- a. reducir las differenzas tranter ils chantuns areguard la capacitad finanziala;
+- b. garantir als chantuns resursas finanzialas minimalas;
+- c. gulivar grevezzas finanzialas sproporziunadas dals chantuns chaschunadas da lur cundiziuns geologicas, topograficas u socio-demograficas;
+- d. promover la collavuraziun interchantunala cun gulivar las grevezzas;
+- e. mantegnair la cumpetitivitad fiscala dals chantuns sin plaun naziunal ed internaziunal.
+
+<sup>3</sup> Ils meds per la gulivaziun da las resursas vegnan mess a disposiziun dals chantuns cun bleras resursas e da la Confederaziun. Las prestaziuns dals chantuns cun bleras resursas muntan almain a dus terzs e maximal ad 80 pertschient da las prestaziuns da la Confederaziun.
+
+[^135-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+## 4. titel Pievel e chantuns
+
+### 1. chapitel Disposiziuns generalas
+
+#### Art. 136
+
+**Dretgs politics**
+
+<sup>1</sup> Tut las Svizras e tut ils Svizzers che han accumplì il 18avel onn e che n’èn betg mess sut avugà pervia da malsogna u flaivlezza da spiert, disponan dals dretgs politics en fatgs federals. Tuts han ils medems dretgs e duairs politics.
+
+<sup>2</sup> Els pon sa participar a las elecziuns dal Cussegl naziunal ed a las votaziuns federalas e dastgan lantschar e suttascriver iniziativas dal pievel e referendums en fatgs federals.
+
+#### Art. 137
+
+**Partidas politicas**
+
+Las partidas politicas gidan a furmar l’opiniun e la voluntad dal pievel.
+
+### 2. chapitel Iniziativa e referendum
+
+#### Art. 138
+
+**Iniziativa dal pievel per ina revisiun totala da la Constituziun federala**
+
+<sup>1</sup> 100 000 votantas e votants pon proponer, aifer 18 mais dapi la publicaziun uffiziala da lur iniziativa, ina revisiun totala da la Constituziun federala.[^138-1]
+
+<sup>2</sup> Questa proposta è da suttametter al pievel per la votaziun.
+
+[^138-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+
+#### Art. 139
+
+**Iniziativa dal pievel per ina revisiun parziala da la Constituziun federala**[^139-1]
+
+<sup>1</sup> 100 000 votantas e votants pon pretender ina revisiun parziala da la Constituziun federala, e quai entaifer 18 mais dapi la communicaziun uffiziala da lur iniziativa.
+
+<sup>2</sup> L’iniziativa dal pievel per ina revisiun parziala da la Constituziun federala po avair la furma d’ina proposta generala u d’in sboz elavurà.
+
+<sup>3</sup> Sche l’iniziativa violescha l’unitad da la furma, l’unitad da la materia u disposiziuns obligantas dal dretg internaziunal, vegn ella declerada sco cumplettamain u parzialmain nunvalaivla da l’Assamblea federala.
+
+<sup>4</sup> Sche l’Assamblea federala va d’accord cun ina iniziativa en furma d’ina proposta generala, elavura ella la revisiun parziala en il senn da l’iniziativa e la suttametta a la votaziun dal pievel e dals chantuns. Sch’ella refusa l’iniziativa, suttametta ella questa a la votaziun dal pievel; il pievel decida, sch’igl è da dar suatientscha a l’iniziativa. Sch’il pievel accepta l’iniziativa, elavura l’Assamblea federala in project correspundent.
+
+<sup>5</sup> Ina iniziativa en furma d’in sboz elavurà vegn suttamessa a la votaziun dal pievel e dals chantuns. L’Assamblea federala recumonda d’acceptar u da refusar l’iniziativa. Ella po confruntar l’iniziativa cun ina cuntraproposta.
+
+[^139-1]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+
+#### Art. 139a
+
+[^139a-1]
+
+[^139a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Quest art. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+
+#### Art. 139b
+
+**Procedura en cas da la votaziun davart ina iniziativa cun ina cuntraproposta**[^139b-1]
+
+<sup>1</sup> Las votantas ed ils votants decidan il medem mument davart l’iniziativa e davart la cuntraproposta.[^139b-2]
+
+<sup>2</sup> Els pon acceptar domadus projects en votaziun. En la dumonda decisiva pon els inditgar, a qual project ch’els dessan la preferenza en il cas che domadus vegnan acceptads.
+
+<sup>3</sup> Cur ch’ina midada da la constituziun vegn acceptada, ma che in project obtegna en la dumonda decisiva la maioritad da las vuschs dal pievel e l’auter la maioritad da las vuschs dals chantuns, alura entra en vigur quel project, tar il qual la summa da la procentuala da las vuschs dal pievel e da las vuschs dals chantuns en la dumonda decisiva è pli auta.
+
+[^139b-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, entrada en vigur dals al. 2 e 3 il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)). L’al. 1 n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+[^139b-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+
+#### Art. 140
+
+**Referendum obligatoric**
+
+<sup>1</sup>
+
+Al pievel ed als chantuns vegnan preschentadas per la votaziun:
+
+- a. las midadas da la Constituziun federala;
+- b. la participaziun ad organisaziuns per la segirezza collectiva u a cuminanzas supranaziunalas;
+- c. las leschas federalas decleradas sco urgentas che n’han nagina basa constituziunala e che han ina durada da validitad che surpassa in onn; talas leschas federalas ston vegnir preschentadas per la votaziun entaifer in onn suenter l’acceptaziun tras l’Assamblea federala.
+
+<sup>2</sup>
+
+Al pievel vegnan suttamessas per la votaziun:
+
+- a. las iniziativas dal pievel per ina revisiun totala da la Constituziun federala;
+- a<sup>bis</sup>.[^140-1] …
+- b.[^140-2] las iniziativas dal pievel per ina revisiun parziala da la Constituziun federala en furma d’ina proposta generala, las qualas èn vegnidas refusadas da l’Assamblea federala;
+- c. la dumonda, sch’i saja da realisar ina revisiun totala da la Constituziun federala, en cas ch’ils dus cussegls n’èn betg da la medema opiniun.
+
+[^140-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Questa lit. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+[^140-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+
+#### Art. 141
+
+**Referendum facultativ**
+
+<sup>1</sup>
+
+Sche 50 000 votantas e votants u otg chantuns pretendan aifer 100 dis dapi la publicaziun uffiziala in votaziun davart in decret, alura vegnan suttamess a la votaziun dal pievel:[^141-1]
+
+- a. leschas federalas;
+- b. leschas federalas decleradas sco urgentas cun ina durada da validitad che surpassa in onn;
+- c. conclus federals, sche la constituziun u la lescha prevesan quai;
+- d. contracts internaziunals che
+  - 1\. èn da durada illimitada e nunvisabels,
+  - 2\. prevesan la participaziun ad in’organisaziun internaziunala,
+  - 3\.[^141-2] cuntegnan disposiziuns impurtantas che fixeschan normas da dretg u da las qualas la realisaziun pretenda il decret da leschas federalas.
+
+<sup>2</sup> …[^141-3]
+
+[^141-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-2]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-3]: Abolì en la votaziun dal pievel dals 9 da favr. 2003, cun effect dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+
+#### Art. 141a
+
+**Realisaziun da contracts internaziunals**[^141a-1]
+
+<sup>1</sup> Sch’il conclus d’approvaziun d’in contract internaziunal è suttamess al referendum obligatoric, po l’Assamblea federala integrar en quel las midadas constituziunalas che servan a la realisaziun dal contract.
+
+<sup>2</sup> Sch’il conclus d’approvaziun d’in contract internaziunal è suttamess al referendum facultativ, po l’Assamblea federala integrar en quel las midadas legalas che servan a la realisaziun dal contract.
+
+[^141a-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, en vigur dapi il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+
+#### Art. 142
+
+**Maioritads necessarias**
+
+<sup>1</sup> Ils projects suttamess a la votaziun dal pievel èn acceptads, sch’els obtegnan la maioritad da las vuschs da las votantas e dals votants (maioritad dal pievel).
+
+<sup>2</sup> Ils projects suttamess a la votaziun dal pievel e dals chantuns èn acceptads, sch’els obtegnan la maioritad dal pievel e la maioritad dals chantuns.
+
+<sup>3</sup> Il resultat da la votaziun dal pievel en il chantun vala sco vusch dal chantun.
+
+<sup>4</sup> Ils chantuns Sursilvania, Sutsilvania, Basilea-Citad, Basilea-Champagna, Appenzell Dador ed Appenzell Dadens han mintgamai ina mesa vusch da chantun.
+
+## 5. titel Las autoritads federalas
+
+### 1. chapitel Disposiziuns generalas
+
+#### Art. 143
+
+**Elegibladad**
+
+En il Cussegl naziunal, en il Cussegl federal ed en il Tribunal federal èn elegibels tut las votantas e tut ils votants.
+
+#### Art. 144
+
+**Incumpatibilitads**
+
+<sup>1</sup> Ils commembers dal Cussegl naziunal, dal Cussegl dals chantuns, dal Cussegl federal e dal Tribunal federal na pon betg appartegnair a medem temp ad in’autra autoritad.
+
+<sup>2</sup> Ils commembers dal Cussegl federal e las derschadras ed ils derschaders dal Tribunal federal en uffizi cumplain na dastgan betg ademplir in’autra funcziun da la Confederaziun u d’in chantun e na dastgan exequir nagin’activitad da gudogn.
+
+<sup>3</sup> La lescha po prevair ulteriuras incumpatibilitads.
+
+#### Art. 145
+
+**Durada d’uffizi**
+
+Ils commembers dal Cussegl naziunal e dal Cussegl federal sco er la chanceliera u il chancelier da la Confederaziun vegnan elegids per quatter onns. Ils commembers dal Tribunal federal vegnan elegids per ina durada da sis onns.
+
+#### Art. 146
+
+**Responsabladad dal stadi**
+
+La Confederaziun è responsabla per ils donns che ses organs chaschunan encunter il dretg exequind lur activitads uffizialas.
+
+#### Art. 147
+
+**Procedura da consultaziun**
+
+Ils chantuns, las partidas politicas ed ils circuls interessads vegnan envidads da prender posiziun tar la preparaziun da decrets impurtants e d’auters projects da gronda muntada sco er tar impurtants contracts da dretg internaziunal.
+
+### 2. chapitel Assamblea federala
+
+### 1. partiziun Organisaziun
+
+#### Art. 148
+
+**Posiziun**
+
+<sup>1</sup> L’Assamblea federala exequescha la pussanza suprema da la Confederaziun, cun la resalva dals dretgs dal pievel e dals chantuns.
+
+<sup>2</sup> L’Assamblea federala sa cumpona da duas chombras, dal Cussegl naziunal e dal Cussegl dals chantuns; las duas chombras han las medemas cumpetenzas.
+
+#### Art. 149
+
+**Cumposiziun ed elecziun dal Cussegl naziunal**
+
+<sup>1</sup> Il Cussegl naziunal sa cumpona da 200 deputads dal pievel.
+
+<sup>2</sup> Ils deputads vegnan elegids dal pievel en in’elecziun directa tenor il princip dal proporz. Mintga quatter onns ha lieu in’elecziun per la renovaziun totala.
+
+<sup>3</sup> Mintga chantun furma in circul electoral.
+
+<sup>4</sup> Ils mandats vegnan repartids sin ils chantuns tenor il dumber da la populaziun. Mintga chantun ha il dretg d’almain in mandat.
+
+#### Art. 150
+
+**Cumposiziun ed elecziun dal Cussegl dals chantuns**
+
+<sup>1</sup> Il Cussegl dals chantuns sa cumpona dals 46 deputads dals chantuns.
+
+<sup>2</sup> Ils chantuns Sursilvania, Sutsilvania, Basilea-Citad, Basilea-Champagna, Appenzell dador ed Appenzell dadens elegian mintgamai ina deputada u in deputà; ils auters chantuns elegian mintgamai dus deputads.
+
+<sup>3</sup> L’elecziun en il Cussegl dals chantuns vegn reglada dals chantuns.
+
+#### Art. 151
+
+**Sessiuns**
+
+<sup>1</sup> Ils cussegliers sa radunan regularmain a sessiuns. La lescha regla la convocaziun a las sessiuns.
+
+<sup>2</sup> Ils cussegliers vegnan convocads a sessiuns extraordinarias, sch’in quart dals commembers d’in cussegl u sch’il Cussegl federal pretendan quai.
+
+#### Art. 152
+
+**Presidi**
+
+Mintga cussegl elegia or da ses mez in president sco er l’emprim ed il segund vicepresident per la durada d’in onn. Ina reelecziun per l’onn proxim è exclusa.
+
+#### Art. 153
+
+**Cumissiuns parlamentaras**
+
+<sup>1</sup> Mintga cussegl instituescha cumissiuns or da ses mez.
+
+<sup>2</sup> La lescha po prevair cumissiuns communablas.
+
+<sup>3</sup> La lescha po attribuir a tschertas cumissiuns singulas cumpetenzas che n’èn betg da natira legislativa.
+
+<sup>4</sup> Per ademplir lur incumbensas han las cumissiuns il dretg d’infurmaziun, d’invista e d’inquisiziun. Lur dimensiun vegn reglada da la lescha.
+
+#### Art. 154
+
+**Fracziuns**
+
+Ils commembers da l’Assamblea federala pon furmar fracziuns.
+
+#### Art. 155
+
+**Servetschs dal parlament**
+
+L’Assamblea federala dispona dals servetschs dal parlament. Ella po consultar posts da servetsch da l’administraziun federala. La lescha regla ils detagls.
+
+### 2. partiziun Procedura
+
+#### Art. 156
+
+**Deliberaziun separada**
+
+<sup>1</sup> Il Cussegl naziunal ed il Cussegl dals chantuns delibereschan separadamain.
+
+<sup>2</sup> Las decisiuns da l’Assamblea federala pretendan la concordanza dals dus cussegls.
+
+<sup>3</sup>
+
+La lescha prevesa disposiziuns per garantir ch’i dettia – en cas da divergenzas tranter las duas chombras – cunvegnas davart:
+
+- a. la valaivladad u la nunvalaivladad parziala d’ina iniziativa dal pievel;
+- b.[^156-1] la realisaziun d’ina iniziativa dal pievel ch’è vegnida acceptada dal pievel en furma d’ina proposta generala;
+- c.[^156-2] la realisaziun d’in conclus federal ch’il pievel ha approvà per iniziar ina revisiun totala da la Constituziun federala;
+- d. il preventiv u in supplement a tal.[^156-3]
+
+[^156-1]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-3]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003, entrada en vigur da las lit. a e d il 1. d’avust 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003, COF dals 19 da zer. 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+
+#### Art. 157
+
+**Deliberaziun communabla**
+
+<sup>1</sup>
+
+Il Cussegl naziunal ed il Cussegl dals chantuns delibereschan communablamain sco Assamblea federala plenara sut la direcziun da la presidenta u dal president dal Cussegl naziunal per:
+
+- a. far elecziuns;
+- b. decider davart conflicts da cumpetenza tranter las autoritads supremas da la Confederaziun;
+- c. pronunziar grazias.
+
+<sup>2</sup> L’Assamblea federala plenara sa raduna ultra da quai per d’occasiuns spezialas e per prender enconuschientscha da decleraziuns dal Cussegl federal.
+
+#### Art. 158
+
+**Publicitad da las sedutas**
+
+Las sedutas dals cussegls èn publicas. La lescha po prevair excepziuns.
+
+#### Art. 159
+
+**Quorum e maioritad necessaria**
+
+<sup>1</sup> Ils cussegls pon deliberar valaivlamain, sche la maioritad da lur commembers è preschenta.
+
+<sup>2</sup> En ils dus cussegls ed en l’Assamblea federala plenara decida la maioritad dals cussegliers.
+
+<sup>3</sup>
+
+Il consentiment da la maioritad dals commembers da mintgin dals dus cussegls dovran dentant:
+
+- a. la decleraziun d’urgenza da leschas federalas;
+- b. las disposiziuns da subvenziun sco er credits impegnativs e limits da pajaments che han per consequenza novas expensas unicas da pli che 20 milliuns francs u novas expensas periodicas da pli che 2 milliuns francs;
+- c.[^159-1] l’augment da las expensas cumplessivas en cas d’in basegn extraordinari da pajaments tenor l’artitgel 126 alinea 3.
+
+<sup>4</sup> Cun in’ordinaziun po l’Assamblea federala adattar a la chareschia ils imports tenor l’alinea 3 litera b.[^159-2]
+
+[^159-1]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001, en vigur dapi ils 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-2]: Acceptà en la votaziun dal pievel dals 2 da dec. 2001 (COF dals 22 da zer. 2001, COCF dals 4 da favr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+
+#### Art. 160
+
+**Dretg d’iniziativa e dretg da proposta**
+
+<sup>1</sup> Mintga commember dals cussegls, mintga fracziun, mintga cumissiun parlamentara e mintga chantun ha il dretg d’inoltrar iniziativas a l’Assamblea federala.
+
+<sup>2</sup> Ils commembers dals cussegls ed il Cussegl federal han il dretg da far propostas tar in affar en consultaziun.
+
+#### Art. 161
+
+**Scumond d’instrucziuns**
+
+<sup>1</sup> Ils commembers da l’Assamblea federala vuschan senza instrucziuns.
+
+<sup>2</sup> Els preschentan publicamain lur relaziuns cun gruppas d’interess.
+
+#### Art. 162
+
+**Immunitad**
+
+<sup>1</sup> Ils commembers da l’Assamblea federala e dal Cussegl federal sco er la chanceliera federala u il chancelier federal na pon betg vegnir fatgs responsabels giuridicamain per lur expectoraziuns en ils cussegls ed en lur organs.
+
+<sup>2</sup> La lescha po prevair ulteriuras furmas d’immunitad ed extender quellas sin ulteriuras persunas.
+
+### 3. partiziun Cumpetenzas
+
+#### Art. 163
+
+**Furma dals decrets da l’Assamblea federala**
+
+<sup>1</sup> L’Assamblea federala decretescha disposiziuns legalas en la furma da leschas federalas u d’ordinaziuns.
+
+<sup>2</sup> Ils ulteriurs decrets vegnan fatgs en furma da conclus federals. In conclus federal che n’è betg suttamess al referendum è in conclus federal simpel.
+
+#### Art. 164
+
+**Legislaziun**
+
+<sup>1</sup>
+
+Tut las disposiziuns legalas impurtantas èn da decretar en la furma d’ina lescha federala. Latiers tutgan spezialmain las disposiziuns fundamentalas davart:
+
+- a. il diever dals ils dretgs politics;
+- b. las restricziuns da dretgs constituziunals;
+- c. ils dretgs e las obligaziuns da persunas;
+- d. il circul dals contribuents sco er l’object e la calculaziun da taxas;
+- e. las incumbensas e las prestaziuns da la Confederaziun;
+- f. las obligaziuns dals chantuns tar la realisaziun e l’execuziun dal dretg federal;
+- g. l’organisaziun e la procedura da las autoritads federalas.
+
+<sup>2</sup> Cumpetenzas legislativas pon vegnir attribuidas tras lescha federala, sche quai na vegn betg exclus da la Constituziun federala.
+
+#### Art. 165
+
+**Legislaziun en cas d’urgenza**
+
+<sup>1</sup> Ina lescha federala che na supporta betg in retardament per entrar en vigur po vegnir declerada urgenta da la maioritad da mintga cussegl e vegnir messa en vigur immediatamain. Sia validitad è da limitar temporalmain.
+
+<sup>2</sup> Sche la votaziun dal pievel vegn pretendida pertutgant ina lescha federala declerada urgenta, perda la lescha sia vigur in onn suenter l’acceptaziun tras l’Assamblea federala, sch’ella na vegn betg acceptada dal pievel entaifer quest termin.
+
+<sup>3</sup> Ina lescha federala declerada urgenta che n’ha betg ina basa constituziunala perda sia vigur in onn suenter l’acceptaziun tras l’Assamblea federala, sch’ella na vegn betg acceptada dal pievel e dals chantuns entaifer quest termin. Sia validitad è da limitar temporalmain.
+
+<sup>4</sup> Ina lescha federala declerada urgenta che n’è betg vegnida acceptada en la votaziun dal pievel na po betg vegnir renovada.
+
+#### Art. 166
+
+**Relaziuns cun l’exteriur e contracts internaziunals**
+
+<sup>1</sup> L’Assamblea federala sa participescha a la furmaziun da la politica exteriura e surveglia la tgira da las relaziuns cun l’exteriur.
+
+<sup>2</sup> Ella approva ils contracts internaziunals, cun excepziun dals contracts ch’il Cussegl federal ha la cumpetenza da concluder sin basa da la lescha u d’in contract internaziunal.
+
+#### Art. 167
+
+**Finanzas**
+
+L’Assamblea federala concluda las expensas da la Confederaziun, fixescha il preventiv ed approva il quint dal stadi.
+
+#### Art. 168
+
+**Elecziuns**
+
+<sup>1</sup> L’Assamblea federala elegia ils commembers dal Cussegl federal, la chanceliera federala u il chancelier federal, las derschadras ed ils derschaders dal Tribunal federal sco er il general.
+
+<sup>2</sup> La lescha po autorisar l’Assamblea federala da far u da legalisar ulteriuras elecziuns.
+
+#### Art. 169
+
+**Surveglianza suprema**
+
+<sup>1</sup> L’Assamblea federala ha la surveglianza suprema sur dal Cussegl federal e l’administraziun federala, las dretgiras federalas ed ils auters purtaders d’incumbensas da la Confederaziun.
+
+<sup>2</sup> L’obligaziun da mantegnair il secret professiunal na pon ins betg opponer a las delegaziuns spezialas da las cumissiuns da surveglianza previsas da la lescha.
+
+#### Art. 170
+
+**Examinaziun da l’efficacitad**
+
+L’Assamblea federala procura per l’examinaziun da l’efficacitad da las mesiras da la Confederaziun.
+
+#### Art. 171
+
+**Incumbensas al Cussegl federal**
+
+L’Assamblea federala po dar incumbensas al Cussegl federal. La lescha regla ils detagls, oravant tut ils instruments, cun ils quals l’Assamblea federala po influenzar il sectur da cumpetenza dal Cussegl federal.
+
+#### Art. 172
+
+**Relaziuns tranter la Confederaziun ed ils chantuns**
+
+<sup>1</sup> L’Assamblea federala procura per la tgira da las relaziuns tranter la Confederaziun ed ils chantuns.
+
+<sup>2</sup> Ella garantescha las constituziuns chantunalas.
+
+<sup>3</sup> Ella approva ils contracts dals chantuns tranter els e cun l’exteriur, sch’il Cussegl federal u in chantun fan protesta.
+
+#### Art. 173
+
+**Ulteriuras incumbensas e cumpetenzas**
+
+<sup>1</sup>
+
+L’Assamblea federala ha ultra da quai las sequentas incumbensas e cumpetenzas:
+
+- a. Ella prenda mesiras per mantegnair la segirezza externa, l’independenza e la neutralitad da la Svizra.
+- b. Ella prenda mesiras per mantegnair la segirezza interna.
+- c. Sche circumstanzas extraordinarias pretendan quai, po ella decretar ordinaziuns u conclus federals simpels per ademplir las incumbensas tenor las letras a e b.
+- d. Ella cumonda il servetsch activ e mobilisescha per quest intent l’armada u parts da questa.
+- e. Ella prenda mesiras per realisar il dretg federal.
+- f. Ella decida davart la valaivladad d’iniziativas dal pievel reussidas.
+- g. Ella cooperescha tar las planisaziuns impurtantas da l’activitad dal stadi.
+- h. Ella decida davart singuls acts, sch’ina lescha federala prevesa quai explicitamain.
+- i. Ella decida en conflicts da cumpetenzas tranter las autoritads federalas supremas.
+- k. Ella decida en dumondas da grazia e davart l’amnestia.
+
+<sup>2</sup> L’Assamblea federala tracta ultra da quai fatschentas che stattan en la cumpetenza da la Confederaziun e che n’èn betg attribuidas ad in’autra autoritad.
+
+<sup>3</sup> La lescha po attribuir ulteriuras incumbensas e cumpetenzas a l’Assamblea federala.
+
+### 3. chapitel Cussegl federal ed administraziun federala
+
+### 1. partiziun Organisaziun e procedura
+
+#### Art. 174
+
+**Cussegl federal**
+
+Il Cussegl federal è l’autoritad directiva ed executiva suprema da la Confederaziun.
+
+#### Art. 175
+
+**Cumposiziun ed elecziun**
+
+<sup>1</sup> Il Cussegl federal sa cumpona da set commembers.
+
+<sup>2</sup> Ils commembers dal Cussegl federal vegnan elegids da l’Assamblea federala suenter mintga renovaziun totala dal Cussegl naziunal.
+
+<sup>3</sup> Ils commembers dal Cussegl federal vegnan elegids da l’Assamblea federala or da tut ils burgais svizzers ch’èn elegibels sco commembers dal Cussegl naziunal per la durada da quatter onns.[^175-1]
+
+<sup>4</sup> Latiers sto vegnir procurà che las regiuns dal pajais e las regiuns linguisticas vegnian represchentadas adequatamain.[^175-2]
+
+[^175-1]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan. 2000 (COF dals 9 d’oct. 1998, COCF dals 2 da mars 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236), **1998** 4800, **1999** 2475 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-2]: Acceptà en la votaziun dal pievel dals 7 da favr. 1999, en vigur dapi il 1. da schan. 2000 (COF dals 9 d’oct. 1998, COCF dals 2 da mars 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236), **1998** 4800, **1999** 2475 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+
+#### Art. 176
+
+**Presidi**
+
+<sup>1</sup> La presidenta u il president da la Confederaziun presidiescha il Cussegl federal.
+
+<sup>2</sup> La presidenta u il president da la Confederaziun e la vicepresidenta u il vicepresident dal Cussegl federal vegnan elegids da l’Assamblea federala or dals commembers dal Cussegl federal per ina perioda d’in onn.
+
+<sup>3</sup> La reelecziun per l’onn proxim è exclusa. La presidenta u il president da la Confederaziun na po betg vegnir elegì sco vicepresidenta u sco vicepresident per l’onn proxim.
+
+#### Art. 177
+
+**Princip colleghial e departamental**
+
+<sup>1</sup> Il Cussegl federal decida sco collegi.
+
+<sup>2</sup> Per la preparaziun e l’execuziun vegnan las fatschentas dal Cussegl federal repartidas sin ils singuls commembers tenor departaments.
+
+<sup>3</sup> Als departaments u a las unitads administrativas suttamessas ad els vegnan surdadas las fatschentas per in’execuziun autonoma; la protecziun giuridica sto esser garantida.
+
+#### Art. 178
+
+**Administraziun federala**
+
+<sup>1</sup> Il Cussegl federal dirigia l’administraziun federala. El procura per in’organisaziun cunvegnenta ed in adempliment correct e tenor plan da las incumbensas.
+
+<sup>2</sup> L’administraziun federala è dividida en departaments; mintgin da quels vegn dirigì d’in commember dal Cussegl federal.
+
+<sup>3</sup> Incumbensas administrativas pon vegnir surdadas tras la lescha ad organisaziuns e persunas da dretg public u da dretg privat che stattan ordaifer l’administraziun federala.
+
+#### Art. 179
+
+**Chanzlia federala**
+
+La Chanzlia federala è il post da stab general dal Cussegl federal. Ella vegn dirigida d’ina chanceliera u d’in chancelier.
+
+### 2. partiziun Cumpetenzas
+
+#### Art. 180
+
+**Politica guvernamentala**
+
+<sup>1</sup> Il Cussegl federal determinescha las finamiras ed ils meds da sia politica guvernamentala. El planisescha e coordinescha las activitads dal stadi.
+
+<sup>2</sup> El infurmescha la publicitad a temp e detagliadamain davart sia activitad, uschenavant ch’i na s’opponan betg interess publics u privats predominants.
+
+#### Art. 181
+
+**Dretg d’iniziativa**
+
+Il Cussegl federal suttametta a l’Assamblea federala ils sbozs per ses decrets.
+
+#### Art. 182
+
+**Legislaziun ed execuziun**
+
+<sup>1</sup> Il Cussegl federal decretescha disposiziuns legalas en furma d’ordinaziuns, sch’el è autorisà da la constituziun u da la lescha.
+
+<sup>2</sup> El procura per l’execuziun da la legislaziun, dals conclus da l’Assamblea federala e da las sentenzias da las autoritads giudizialas da la Confederaziun.
+
+#### Art. 183
+
+**Finanzas**
+
+<sup>1</sup> Il Cussegl federal elavura il plan da finanzas ed il preventiv e prepara il quint dal stadi.
+
+<sup>2</sup> El procura per in’economia da finanzas correcta.
+
+#### Art. 184
+
+**Relaziuns cun l’exteriur**
+
+<sup>1</sup> Il Cussegl federal s’occupa da las fatschentas cun l’exteriur, resguardond ils dretgs da cooperaziun da l’Assamblea federala; el represchenta la Svizra vers l’exteriur.
+
+<sup>2</sup> El suttascriva ils contracts e ratifitgescha quels. El suttametta quels a l’Assamblea federala per l’approvaziun.
+
+<sup>3</sup> Il Cussegl federal po decretar ordinaziuns e disposiziuns, sche quai è necessari per mantegnair ils interess dal pajais. Ordinaziuns èn da limitar temporalmain.
+
+#### Art. 185
+
+**Segirezza externa ed interna**
+
+<sup>1</sup> Il Cussegl federal prenda mesiras per mantegnair la segirezza externa, l’independenza e la neutralitad da la Svizra.
+
+<sup>2</sup> El prenda mesiras per mantegnair la segirezza interna.
+
+<sup>3</sup> Sa basond directamain sin quest artitgel, po el decretar ordinaziuns e disposiziuns per cumbatter grevs disturbis gia succedids u imminents che smanatschan l’urden public u la segirezza interna u externa. Talas ordinaziuns èn da limitar temporalmain.
+
+<sup>4</sup> En cas urgents po el mobilisar truppas. Sch’el mobilisescha dapli che 4000 members da l’armada per il servetsch activ u sch’ins po presumar che quest engaschament duria dapli che trais emnas, sto vegnir convocada immediatamain l’Assamblea federala.
+
+#### Art. 186
+
+**Relaziuns tranter la Confederaziun ed ils chantuns**
+
+<sup>1</sup> Il Cussegl federal tgira las relaziuns da la Confederaziun cun ils chantuns e collavura cun quels.
+
+<sup>2</sup> El approva ils decrets dals chantuns là nua che l’execuziun dal dretg federal pretenda quai.
+
+<sup>3</sup> El po protestar cunter contracts dals chantuns tranter els u cun l’exteriur.
+
+<sup>4</sup> El surveglia ch’il dretg federal e las constituziuns chantunalas sco er ils contracts dals chantuns vegnian observads e prenda las mesiras necessarias.
+
+#### Art. 187
+
+**Ulteriuras incumbensas e cumpetenzas**
+
+<sup>1</sup>
+
+Il Cussegl federal ha ultra da quai las suandantas incumbensas e cumpetenzas:
+
+- a. El surveglia l’administraziun federala ed instituziuns incumbensadas da la Confederaziun.
+- b. El rapporta regularmain a l’Assamblea federala davart sia gestiun e davart il stadi da la Svizra.
+- c. El fa las elecziuns che na cumpetan betg ad in’autra autoritad.
+- d. El tracta recurs, sche la lescha prevesa quai.
+
+<sup>2</sup> La lescha po surdar al Cussegl federal ulteriuras incumbensas e cumpetenzas.
+
+### 4. chapitel**** Tribunal federal ed autras autoritads giudizialas
+
+[^tit5-chap4-1]
+
+[^tit5-chap4-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, en vigur dapi il 1. da schan. 2007 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 8 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+#### Art. 188
+
+**Status dal Tribunal federal**
+
+<sup>1</sup> Il Tribunal federal è l’autoritad giudiziala suprema da la Confederaziun.
+
+<sup>2</sup> La lescha regla l’organisaziun e la procedura.
+
+<sup>3</sup> Il tribunal è autonom.
+
+#### Art. 189
+
+**Cumpetenzas dal Tribunal federal**
+
+<sup>1</sup>
+
+Il Tribunal federal giuditgescha dispitas pervia da violaziun:
+
+- a. dal dretg federal;
+- b. dal dretg internaziunal;
+- c. dal dretg interchantunal;
+- d. da dretgs chantunals constituziunals;
+- e. da l’autonomia communala e d’autras garanzias dals chantuns en favur da corporaziuns da dretg public;
+- f . da disposiziuns federalas e chantunalas davart il dretgs politics.
+
+<sup>1bis</sup> …[^189-1]
+
+<sup>2</sup> El giuditgescha dispitas tranter la Confederaziun ed ils chantuns u tranter chantuns.
+
+<sup>3</sup> La lescha po motivar ulteriuras cumpetenzas dal Tribunal federal.
+
+<sup>4</sup> Acts da l’Assamblea federala e dal Cussegl federal na pon betg vegnir contestads tar il Tribunal federal. La lescha fixescha las excepziuns.
+
+[^189-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2003 (COF dals 4 d’oct. 2002, COCF dals 25 da mars 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abolì en la votaziun dal pievel dals 27 da sett. 2009, cun effect dapi ils 27 da sett. 2009 (COF dals 19 da dec. 2008, COCF dal 1. da dec. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Quest al. n’è mai entrà en vigur en la versiun dal COF dals 4 d’oct. 2002.
+
+#### Art. 190
+
+**Dretg decisiv**
+
+Leschas federalas ed il dretg internaziunal èn decisivs per il Tribunal federal e per las autras autoritads incaricadas d’applitgar il dretg.
+
+#### Art. 191
+
+**Access al Tribunal federal**
+
+<sup>1</sup> La lescha garantescha l’access al Tribunal federal.
+
+<sup>2</sup> Per dispitas che na pertutgan betg ina dumonda da dretg d’impurtanza fundamentala po ella prevair in limit da la valur en lita.
+
+<sup>3</sup> Per tscherts champs spezials po la lescha excluder l’access al Tribunal federal.
+
+<sup>4</sup> Per recurs evidentamain nunfundads po la lescha prevair ina procedura simplifitgada.
+
+#### Art. 191a
+
+**Ulteriuras autoritads giudizialas da la Confederaziun**[^191a-1]
+
+<sup>1</sup> La Confederaziun instituescha in tribunal penal; quest giuditgescha en emprima instanza cas penals che la lescha attribuescha a la giurisdicziun da la Confederaziun. La lescha po motivar ulteriuras cumpetenzas dal Tribunal penal federal.
+
+<sup>2</sup> La Confederaziun instituescha autoritads giudizialas per giuditgar dispitas dal dretg public or da la sfera da cumpetenza da l’administraziun federala.
+
+<sup>3</sup> La lescha po prevair ulteriuras autoritads giudizialas da la Confederaziun.
+
+[^191a-1]: Acceptà en la votaziun dal pievel dals 12 da mars 2000, entrada en vigur da l’al. 1 il 1. d’avr. 2003, entrada en vigur dals al. 2 e 3 il 1. da sett. 2005 (COF dals 8 d’oct. 1999, COCF dals 17 da matg 2000, COF dals 24 da sett. 2002 e dals 2 da mars 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2004 4787](https://fedlex.data.admin.ch/eli/fga/2004/845)).
+
+#### Art. 191b
+
+**Autoritads giudizialas dals chantuns**
+
+<sup>1</sup> Ils chantuns institueschan autoritads giudizialas per giuditgar dispitas dal dretg civil e dal dretg public sco er da cas penals.
+
+<sup>2</sup> Els pon instituir autoritads giudizialas communablas.
+
+#### Art. 191c
+
+**Independenza giudiziala**
+
+Las autoritads giudizialas èn independentas en lur activitad da giurisdicziun ed obligadas sulettamain al dretg.
+
+## 6. titel Revisiun da la Constituziun federala e da las disposiziuns transitoricas
+
+### 1. chapitel Revisiun
+
+#### Art. 192
+
+**Princip**
+
+<sup>1</sup> La Constituziun federala po vegnir revedida da tut temp entiramain u parzialmain.
+
+<sup>2</sup> Là nua che la Constituziun federala e la legislaziun che sa basa sin ella na fixeschan betg insatge auter, succeda la revisiun sin via legislativa.
+
+#### Art. 193
+
+**Revisiun totala**
+
+<sup>1</sup> La revisiun totala da la Constituziun federala po vegnir proponida dal pievel u dad in dals dus cussegls u po vegnir concludida da l’Assamblea federala.
+
+<sup>2</sup> Sche l’iniziativa vegn dal pievel u sch’ils dus cussegls na van betg d’accord, decida il pievel, sch’i saja da realisar ina revisiun totala.
+
+<sup>3</sup> Sch’il pievel accepta ina revisiun totala, vegnan domadus cussegls elegids da nov.
+
+<sup>4</sup> Las disposiziuns obligantas dal dretg internaziunal na dastgan betg vegnir violadas.
+
+#### Art. 194
+
+**Revisiun parziala**
+
+<sup>1</sup> Ina revisiun parziala da la Constituziun federala po vegnir pretendida dal pievel u vegnir concludida da l’Assamblea federala.
+
+<sup>2</sup> Ina revisiun parziala da la Constituziun federala sto mantegnair l’unitad da la materia e na dastga betg violar disposiziuns obligantas dal dretg internaziunal.
+
+<sup>3</sup> Ina iniziativa dal pievel per ina revisiun parziala da la Constituziun federala sto ultra da quai mantegnair l’unitad da la furma.
+
+#### Art. 195
+
+**Entrada en vigur**
+
+La Constituziun federala revedida entiramain u parzialmain va en vigur suenter ch’ella è vegnida acceptada dal pievel e dals chantuns.
+
+### 2. chapitel Disposiziuns transitoricas
+
+#### Art. 196
+
+**Disposiziuns transitoricas da la Constituziun federala dals 18 da december 1998 davart ina nova Constituziun federala[^196-1]**
+
+### Disposiziun transitorica tar l’art. 84 (Transit da las Alps)
+
+[^196-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2002, en vigur dapi ils 3 da mars 2002 (COF dals 5 d’oct. 2001, COCF dals 26 d’avr. 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230)[5731](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+
+Il transferiment dal transport da rauba da transit sin la viafier sto esser terminà 10 onns suenter l’acceptaziun da l’iniziativa dal pievel per proteger il territori da las Alps dal traffic da transit.
+
+### Disposiziun transitorica tar l’art. 85 (Pauschala sin il traffic da camiuns pesants)
+
+<sup>1</sup> La Confederaziun incassescha ina taxa annuala sin ils vehichels a motor svizzers ed esters e sin ils chars annexs cun ina paisa totala da mintgamai pli che 3,5 tonnas per duvrar las vias ch’èn avertas per il traffic general.
+
+<sup>2</sup> Questa taxa importa:
+
+<table>
+<tr><th></th><th>fr.</th></tr>
+<tr><td>a. per camiuns e camiuns-tracturs</td><td>[tab]</td></tr>
+<tr><td>– da pli che 3,5 fin 12 tonnas</td><td>650</td></tr>
+<tr><td>– da pli che 12 fin 18 tonnas</td><td>2000</td></tr>
+<tr><td>– da pli che 18 fin 26 tonnas</td><td>3000</td></tr>
+<tr><td>– da pli che 26 tonnas</td><td>4000</td></tr>
+<tr><td>b. per chars annexs</td><td></td></tr>
+<tr><td>– da pli che 3,5 fin 8 tonnas</td><td>650</td></tr>
+<tr><td>– da pli che 8 fin 10 tonnas</td><td>1500</td></tr>
+<tr><td>– da pli che 10 tonnas</td><td>2000</td></tr>
+<tr><td>c. per autocars</td><td>650</td></tr>
+</table>
+
+<sup>3</sup> Las tariffas da la taxa pon vegnir adattadas cun ina lescha federala, sch’ils custs dal traffic sin las vias giustifitgeschan quai.
+
+<sup>4</sup> Ultra da quai po il Cussegl federal adattar cun in’ordinaziun las categorias da tariffas a partir da 12 tonnas tenor l’alinea 2 a midadas eventualas da las categorias da paisa en la Lescha federala dals 19 da december 1958[^196-subdivu2-1] davart il traffic sin via.
+
+<sup>5</sup> Il Cussegl federal fixescha tariffas graduadas correspundentamain per vehichels che n’èn betg en circulaziun en Svizra durant l’entir onn; el resguarda las expensas per l’incassament.
+
+<sup>6</sup> Il Cussegl federal regla l’execuziun. El po fixar tariffas per categorias particularas da vehichels tenor il senn da l’alinea 2, liberar tscherts vehichels da la taxa e prender mesiras particularas, spezialmain per viadis en il cirquit dals cunfins. Vehichels immatriculads a l’exteriur na dastgan tras quai betg esser privilegiads envers vehichels svizzers. Il Cussegl federal po prevair multas per violaziuns dal dretg. Ils chantuns incasseschan la taxa per ils vehichels immatriculads en Svizra.
+
+<sup>7</sup> Da questa taxa po vegnir desistì entiramain u parzialmain cun disposiziuns legalas.
+
+<sup>8</sup> Questa disposiziun vala fin a l’entrada en vigur da la Lescha dals 19 da december 1997[^196-subdivu2-2] davart il traffic cun camiuns pesants.
+
+[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+
+### Disposiziuns transitoricas tar l’art. 86 (Impundaziun da taxas per incumbensas ed expensas en connex cun il traffic sin via), tar l’art. 87 (Viafiers ed ulteriurs meds da traffic) e tar l’art. 87a (Infrastructura da viafier)**
+
+[^196-subdivu3-1]
+
+[^196-subdivu3-1]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+
+<sup>1</sup> Ils gronds projects da viafier cumpiglian la nova viafier transversala da las Alps (NVTA), la VIAFIER 2000, la colliaziun da la Svizra da l’ost e dal vest a la rait da viafier europeica d’auta prestaziun sco er la meglieraziun da las mesiras da protecziun cunter la canera lung ils trajects da viafier cun mesiras activas e passivas.
+
+<sup>2</sup> Fin che la tschainsida e la restituziun dal pajament anticipà dal fond tenor l’artitgel 87*a* alinea 2 n’è betg terminada, vegnan ils meds finanzials tenor l’artitgel 86 alinea 2 litera e assegnads a la finanziaziun speziala dal traffic sin via tenor l’artitgel 86 alinea 4 empè al fond tenor l’artitgel 86 alinea 2.[^196-subdivu3-2]
+
+<sup>2bis</sup> Il Cussegl federal po utilisar ils meds finanzials tenor l’alinea 2 fin ils 31 da december 2018 per finanziar l’infrastructura da viafier e suenter per tschainsir e per restituir il pajament anticipà dal fond tenor l’artitgel 87*a* alinea 2. Ils meds finanzials vegnan calculads tenor l’artitgel 86 alinea 2 litera e.[^196-subdivu3-3]
+
+<sup>2ter</sup> La procentuala tenor l’artitgel 86 alinea 2 litera f vala suenter 2 onns dapi l’entrada en vigur da questa disposiziun. Avant importa ella 5 pertschient.[^196-subdivu3-4]
+
+<sup>3</sup> Ils gronds projects da viafier tenor l’alinea 1 vegnan finanziads sur il fond tenor l’artitgel 87*a* alinea 2.[^196-subdivu3-5]
+
+<sup>4</sup> Ils quatter gronds projects da viafier tenor l’alinea 1 vegnan decretads en furma da leschas federalas. Per mintga grond project cumplessiv èn da cumprovar il basegn e la realisabilitad. Tar il project da la NVTA furman las singulas fasas da construcziun ina part da la lescha federala. L’Assamblea federala conceda ils meds finanzials necessaris cun credits d’impegn. Il Cussegl federal approva las etappas da construcziun e fixescha il plan da termins.
+
+<sup>5</sup> Questa disposiziun vala fin al mument da la terminaziun da las lavurs da construcziun e da la finanziaziun (restituziun dals pajaments anticipads) dals gronds projects da viafier menziunads en l’alinea 1.
+
+[^196-subdivu3-2]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-3]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-4]: Acceptà en la votaziun dal pievel dals 12 da favr. 2017, en vigur dapi il 1. da schan. 2018 (COF dals 30 da sett. 2016, COCF dals 10 da nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+
+### Disposiziun transitorica tar l’art. 90 (Energia nucleara)
+
+Fin ils 23 da settember 2000 na vegn betg dà permissiuns generalas, da construcziun, da metter en funcziun u da manaschi per novs implants per producir energia nucleara.
+
+### Disposiziun transitorica tar l’art. 95 (Activitad da gudogn en l’economia privata)
+
+Fin al decret d’ina legislaziun federala èn ils chantuns obligads da renconuscher vicendaivlamain ils attestats finals da scolaziun.
+
+### Disposiziun transitorica tar l’art. 102 (Provediment dal pajais)
+
+<sup>1</sup> La Confederaziun garantescha il provediment dal pajais cun granezza da paun e farina per far paun.
+
+<sup>2</sup> Questa disposiziun transitorica resta en vigur fin il pli tard ils 31 da december 2003.
+
+### Disposiziun transitorica tar l’art. 103 (Politica da structura)
+
+Ils chantuns pon mantegnair durant maximalmain 10 onns a partir da l’entrada en vigur da la constituziun las reglamentaziuns existentas che fan dependenta l’avertura da manaschis dal basegn per garantir l’existenza da parts considerablas d’in tschert rom da hotellaria.
+
+### 8.** …
+
+[^196-subdivu8-1]
+
+[^196-subdivu8-1]: Dapi ils 11 da mars 2012 ha l’art. 106 ina nova versiun.
+
+### Disposiziun transitorica tar l’art. 110 al. 3 (Di da la festa naziunala)
+
+<sup>1</sup> Il Cussegl federal regla ils detagls fin che la legislaziun federala midada va en vigur.
+
+<sup>2</sup> Il di da la festa naziunala na vegn betg quintà tar il dumber dals firads tenor l’artitgel 18 alinea 2 da la Lescha da lavur dals 13 da mars 1964[^196-subdivu9-1].
+
+[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+
+### 10.** …
+
+[^196-subdivu10-1]
+
+[^196-subdivu10-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+### Disposiziun transitorica tar l’art. 113 (Prevenziun professiunala)
+
+Assicurads ch’appartegnan a la generaziun d’entrada e na disponan per quest motiv betg dal temp da contribuziun cumplain, duain obtegnair la protecziun minimala prescritta da la lescha e quai mintgamai tenor l’autezza da lur entrada da gudogn entaifer 10 fin 20 onns suenter l’entrada en vigur da la lescha.
+
+### 12.** …
+
+[^196-subdivu12-1]
+
+[^196-subdivu12-1]: Dapi ils 2 da dec. 2001 ha l’art. 126 ina nova versiun.
+
+### 13.** Disposiziun transitorica tar l’art. 128 (Durada da l’imposiziun da taglia)
+
+[^196-subdivu13-1]
+
+[^196-subdivu13-1]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+
+La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
+
+### 14.** Disposiziun transitorica tar l’art. 130 (Taglia sin la plivalur)**
+
+[^196-subdivu14-1][^196-subdivu14-2]
+
+[^196-subdivu14-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu14-2]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+
+<sup>1</sup> La taglia sin la plivalur po vegnir incassada fin la fin da l’onn 2035.[^196-subdivu14-3]
+
+<sup>2</sup> Per garantir la finanziaziun da l’assicuranza d’invaliditad auza il Cussegl federal las tariffas da la taglia sin la plivalur dal 1. da schaner 2011 fin ils 31 da december 2017 sco suonda: …
+
+<sup>3</sup> Il retgav che resulta da l’augment tenor l’alinea 2 vegn attribuì cumplainamain al fond da cumpensaziun da l’assicuranza d’invaliditad.[^196-subdivu14-4]
+
+<sup>4</sup> Per garantir la finanziaziun da l’infrastructura da viafier auza il Cussegl federal las tariffas da taglia tenor l’artitgel 25 da la Lescha federala dals 12 da zercladur 2009[^196-subdivu14-5] davart la taglia sin la plivalur a partir dal 1. da schaner 2018 per 0,1 puncts procentuals, sch’il termin tenor l’alinea 1 vegn prolungà fin maximalmain ils 31 da december 2030.[^196-subdivu14-6]
+
+<sup>5</sup> Il retgav che resulta da l’augment tenor l’alinea 4 vegn attribuì cumplainamain al fond tenor l’artitgel 87*a*.[^196-subdivu14-7]
+
+[^196-subdivu14-3]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu14-4]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-5]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^196-subdivu14-6]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-7]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+
+### 15.** …
+
+[^196-subdivu15-1]
+
+[^196-subdivu15-1]: Abolì en la votaziun dal pievel dals 4 da mars 2018, cun effect dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+
+### 16.** …
+
+[^196-subdivu16-1]
+
+[^196-subdivu16-1]: Abolì en la votaziun dal pievel dals 28 da nov. 2004, cun effect dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+#### Art. 197
+
+**Disposiziuns transitoricas suenter l’acceptaziun da la Constituziun federala dals 18 d’avrigl 1999**[^197-1]
+
+### Adesiun da la Svizra a l’ONU
+
+[^197-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2002, en vigur dapi ils 3 da mars 2002 (COF dals 5 d’oct. 2001, COCF dals 26 d’avr. 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230)[5731](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+
+<sup>1</sup> La Svizra aderescha a l’Organisaziun da las Naziuns Unidas.
+
+<sup>2</sup> Il Cussegl federal vegn autorisà da drizzar al secretari general da l’Organisaziun da las Naziuns Unidas (ONU) ina dumonda da la Svizra da vegnir recepida en questa organisaziun ed in’explicaziun davart l’adempliment da las obligaziuns cuntegnidas en la Charta da las Naziuns Unidas[^197-subdivu1-1].
+
+[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+### 2.** Disposiziun transitorica tar l’art. 62 (Fatgs da scola)
+
+[^197-subdivu2-1]
+
+[^197-subdivu2-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu2-2] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns surpiglian ils chantuns las prestaziuns da fin uss da l’assicuranza d’invalids vi da la scolaziun speziala (inclusiv l’educaziun prescolara pedagogic-curativa tenor l’artitgel 19 da la Lescha federala dals 19 da zercladur 1959[^197-subdivu2-3] davart l’assicuranza d’invalids), fin ch’els disponan da concepts da scolaziun speziala ch’èn approvads dal chantun, almain dentant durant trais onns.
+
+[^197-subdivu2-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
+[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+### 3.** Disposiziun transitorica tar l’art. 83 (Vias naziunalas)
+
+[^197-subdivu3-1]
+
+[^197-subdivu3-1]: L’art. 83 ha ussa ina nova versiun. Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+Ils chantuns construeschan las vias naziunalas ch’èn enumeradas en il conclus federal dals 21 da zercladur 1960[^197-subdivu3-2] davart la rait da las vias naziunalas (stadi tar l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu3-3] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns) tenor las prescripziuns e sut la surveglianza suprema da la Confederaziun. La Confederaziun ed ils chantuns portan communablamain ils custs. La part dals custs dals singuls chantuns sa drizza tenor la grevezza che las vias naziunalas muntan per els, tenor lur interess per talas vias e tenor lur capacitad finanziala.
+
+[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/eli/cc/1960/872_912_900)
+[^197-subdivu3-3]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
+
+### 4.** Disposiziun transitorica tar l’art. 112b (Promoziun da l’integraziun d’invalids)
+
+[^197-subdivu4-1]
+
+[^197-subdivu4-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu4-2] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns surpiglian ils chantuns las prestaziuns da fin uss da l’assicuranza d’invalids vi da stabiliments, chasas da dimora e lavuratoris, fin ch’els disponan da concepts approvads dal chantun en favur dals invalids, che reglan la concessiun da contribuziuns vi da la construcziun e vi da la gestiun d’instituziuns che dattan accoglientscha a persunas extrachantunalas, almain dentant durant trais onns.
+
+[^197-subdivu4-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
+
+### 5.** Disposiziuns transitoricas tar l’art. 112c (Agid als attempads ed als impedids)
+
+[^197-subdivu5-1]
+
+[^197-subdivu5-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2008 (COF dals 3 d’oct. 2003, COCF dals 26 da schan. 2005, COCF dals 7 da nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+
+Las prestaziuns da fin uss tenor l’artitgel 101<sup>bis</sup> da la Lescha federala dals 20 da december 1946[^197-subdivu5-2] davart l’assicuranza per vegls e survivents per l’agid e per la tgira dals attempads e dals impedids a chasa vegnan pajadas vinavant dals chantuns fin a l’entrada en vigur d’ina regulaziun chantunala da finanziaziun per l’agid e per la tgira a chasa.
+
+[^197-subdivu5-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+### 7.** Disposiziun transitorica tar l’art. 120 (Tecnologia da gens en il sectur betg uman)
+
+[^197-subdivu6-1]
+
+[^197-subdivu6-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2005, en vigur dapi ils 27 da nov. 2005 (COF dals 17 da zer. 2005, COCF dals 19 da schan. 2006 – [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
+
+L’agricultura svizra n’utilisescha nagins organissems modifitgads geneticamain durant tschintg onns suenter che questa disposiziun constituziunala è vegnida acceptada. En spezial na dastgan ni vegnir importads ni vegnir mess en circulaziun:
+
+- a. plantas, parts da plantas e semenza modifitgadas geneticamain ch’èn ablas da sa multiplitgar e ch’èn destinadas per vegnir utilisadas or en il liber tar l’agricultura, tar l’orticultura u tar la selvicultura;
+- b. animals modifitgads geneticamain ch’èn destinads per la producziun da victualias e d’auters products agriculs.
+
+### 8.** Disposiziun transitorica tar l’art. 121 (Dimora e domicil da persunas estras)
+
+[^197-subdivu7-1]
+
+[^197-subdivu7-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2010, en vigur dapi ils 28 da nov. 2010 (COF dals 18 da zer. 2010, COCF dals 17 da mars 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+
+Il legislatur sto definir ed agiuntar ils causals tenor artitgel 121 alinea 3 e decretar las prescripziuns penalas davart l’entrada illegala tenor artitgel 121 alinea 6 entaifer maximalmain 5 onns dapi l’acceptanza da l’artitgel 121 alineas 3–6 tras il pievel ed ils chantuns.
+
+### 9.** Disposiziun transitorica tar l’art. 75b (Abitaziuns secundaras)
+
+[^197-subdivu8-1]
+
+[^197-subdivu8-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi ils 11 da mars 2012 (COF dals 17 da zer. 2011, COCF dals 20 da zer. 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+
+<sup>1</sup> Sche la legislaziun correspundenta n’entra betg en vigur entaifer dus onns suenter che l’artitgel 75*b* è vegnì acceptà, decretescha il Cussegl federal in’ordinaziun cun las disposiziuns executivas necessarias davart la construcziun, davart la vendita e davart l’inscripziun en il register funsil.
+
+<sup>2</sup> Permissiuns da construcziun per abitaziuns secundaras, che vegnan concedidas tranter il 1. da schaner da l’onn che suonda l’acceptaziun da l’artitgel 75*b* e la data che las disposiziuns executivas entran en vigur, èn nunvalaivlas.
+
+### 10.** Disposiziun transitorica tar l’art. 95 al. 3
+
+[^197-subdivu9-1]
+
+[^197-subdivu9-1]: Acceptà en la votaziun dal pievel dals 3 da mars 2013, en vigur dapi ils 3 da mars 2013 (COF dals 15 da nov. 2012 e dals 30 d’avr. 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+
+Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal las disposiziuns executivas necessarias entaifer in onn suenter che l’alinea 3 da l’artitgel 95 è vegnì acceptà dal pievel e dals chantuns.
+
+### 11.** Disposiziun transitorica tar l’art. 121a (Regulaziun da l’immigraziun)
+
+[^197-subdivu10-1]
+
+[^197-subdivu10-1]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi ils 9 da favr. 2014 (COF dals 27 da sett. 2013, COCF dals 13 matg 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+
+<sup>1</sup> Contracts internaziunals che s’opponan a l’artitgel 121*a* ston vegnir tractads da nov ed adattads entaifer 3 onns suenter ch’el è vegnì acceptà tras il pievel ed ils chantuns.
+
+<sup>2</sup> Sche la legislaziun executiva n’è betg anc entrada en vigur 3 onns suenter che l’artitgel 121*a* è vegnì acceptà tras il pievel ed ils chantuns, decretescha il Cussegl federal per quest termin a maun d’ina ordinaziun las disposiziuns executivas transitoricas.
+
+Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu10-2]
+
+[^197-subdivu10-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+
+## Disposiziuns finalas dal Conclus federal dals 18 da december 1998 davart ina nova Constituziun federala
+
+II
+
+<sup>1</sup> La Constituziun federala da la Confederaziun svizra dals 29 da matg 1874[^u1-1] vegn abrogada.
+
+<sup>2</sup> Las sequentas disposiziuns da la Constituziun federala ch’èn da transferir en il dretg legal valan vinavant fin al mument che las disposiziuns legalas correspundentas entran en vigur:
+
+a. Art. 32<sup>quater</sup> al. 6*[^u1-2]*
+
+Il commerzi ambulant cun bavrondas alcoholicas sco er la vendita ambulanta da talas èn scumandads.
+
+b. Art. 36<sup>quinquies</sup> al.1 emprima construcziun, 2 segunda–davosa construcziun e 4 segunda construcziun*[^u1-3]*
+
+<sup>1</sup> La Confederaziun incassa sin vehichels e chars annexs svizzers cun ina paisa totala fin a mintgamai 3,5 tonnas ina taxa annuala da 40 francs per il diever da las vias naziunalas d’emprima e segunda classa. …
+
+<sup>2</sup> … Il Cussegl federal po liberar tscherts vehichels da la taxa e prender reglamentaziuns spezialas, oravant tut per viadis en ils territoris da cunfins. Tras quai na dastgan ils vehichels immatriculads a l’ester betg vegnir privilegiads envers ils vehichels svizzers. Il Cussegl federal po prevair multas per ils surpassaments. Ils chantuns incassan la taxa per ils vehichels immatriculads en Svizra e surveglian l’observaziun da las prescripziuns tar tut ils vehichels.
+
+<sup>4</sup> … La lescha po extender la taxa sin ulteriuras categorias da vehichels che na suttastattan betg a la taxa per il traffic da camiuns pesants.
+
+c. Art. 121<sup>bis</sup> al. 1, 2 ed al. 3 emprima e segunda construcziun*[^u1-4]*
+
+<sup>2</sup> La maioritad absoluta vegn eruida separadamain per mintga dumonda. Dumondas senza resposta na vegnan betg consideradas.
+
+<sup>3</sup> Sche tant l’iniziativa sco er la cuntraproposta vegnan acceptadas, decida il resultat da la dumonda decisiva. I entra en vigur il project che cuntanscha dapli vuschs dal pievel e dals chantuns tar questa dumonda. …
+
+III
+
+Midadas da la Constituziun federala dals 29 da matg 1874 vegnan adattadas formalmain a la nova Constituziun federala tras l’Assamblea federala. La decisiun correspundenta na suttastat betg al referendum.
+
+IV
+
+<sup>1</sup> Quest conclus vegn suttamess a la votaziun dal pievel e dals chantuns.
+
+<sup>2</sup> L’Assamblea federala determinescha l’entrada en vigur.
+
+<sup>1</sup> Decida l’Assamblea federala ina cuntraproposta, vegnan preschentads als votants sin il medem cedel da votar trais dumondas. Mintga votant po declerar senza restricziun:
+
+- 1\. sch’el preferescha l’iniziativa dal pievel al dretg en vigur;
+- 2\. sch’el preferescha la cuntraproposta al dretg en vigur;
+- 3\. tgenin dals dus projects che duai entrar en vigur, sche pievel e chantuns duessan dar la preferenza a domadus projects avant il dretg en vigur.
+
+[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544), [1951 606](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619), [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065), [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)[768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804)[770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806), [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234)[912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933), [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498), [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)[1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717)[1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888), [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93), [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714), [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653), [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329)[905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905)[907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907), [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)[1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684), [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)[1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049)[1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455), [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721), [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205), [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713)[715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)[2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)[2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230), [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)[1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578), [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678), [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380), [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)[1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244), [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138), [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)[444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151)[658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658)[659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659)[1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025)[1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)[1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648), [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282)[1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352), [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246)[247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247)[1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122), [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)[1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)[3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041), [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258)[263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263)[265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265)[267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267)[1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097)[1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455), [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490)[1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)[1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492)[2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502), [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918)[2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031), [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)[743](https://fedlex.data.admin.ch/eli/oc/1999/111)[1239](https://fedlex.data.admin.ch/eli/oc/1999/168)[1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
+[^u1-2]: Art. 105
+[^u1-3]: Art. 86 al. 2
+[^u1-4]: Guardar ussa: art. 139*b*.

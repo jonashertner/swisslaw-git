@@ -1,0 +1,81 @@
+---
+sr: "0.631.252.916.323"
+title: Arrangement du 24 mai 2000 entre le Conseil fédéral suisse et le Gouvernement fédéral autrichien concernant la création de bureaux à contrôles nationaux juxtaposés au passage frontière de Rheineck/Gaissau
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/250"
+language: fr
+version: 2000-07-01
+adopted: 2000-05-24
+in_force: 2000-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/250/20000701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-250-20000701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/250/20000701/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Arrangement entre le Conseil fédéral suisse et le Gouvernement fédéral autrichien concernant la création de bureaux à contrôles nationaux juxtaposés au passage frontière de Rheineck/Gaissau
+
+0.631.252.916.323 (Etat le 17 juin 2003)
+
+RO **2003** 1608
+
+Traduction*[^t-1]*
+
+Conclu le 24 mai 2000
+
+Entré en vigueur le 1<sup>er</sup> juillet 2000
+
+(Etat le 17 juin 2003)
+
+[^t-1]: Le texte original allemand est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
+
+le Conseil fédéral suisse et le Gouvernement fédéral autrichien,
+
+vu l’art. 1, al. 3, de la Convention du 2 septembre 1963 entre la Confédération suisse et la République d’Autriche relative à la création de bureaux à contrôles nationaux juxtaposés et aux contrôles dans les véhicules en cours de route[^ingress-1],
+
+ont conclu l’arrangement suivant:
+
+[^ingress-1]: [RS 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
+
+#### Art. 1
+
+<sup>1</sup> Des bureaux à contrôles nationaux juxtaposés sont créés, en territoire autrichien, au passage frontière de Rheineck/Gaissau.
+
+<sup>2</sup> Au sens de l’art. 4, al. 1, de la Convention du 2 septembre 1963, le bureau de contrôle suisse est rattaché à la commune de Rheineck.
+
+#### Art. 2
+
+<sup>1</sup> La zone pour le contrôle comprend
+
+- a.
+
+  les installations et locaux utilisés en commun par les agents des deux Etats, à savoir:
+
+  - – un secteur de la route L19, mesurant 125 mètres à partir de la frontière sur le pont franchissant le Vieux Rhin en direction de Gaissau jusqu’au bâtiment des douanes utilisé en commun, y compris l’emplacement officiel;
+  - – le secteur de la piste cyclable à partir de la frontière sur le pont de la piste cyclable franchissant le Vieux Rhin en direction de Gaissau jusqu’au bâtiment douanier utilisé en commun, y compris l’emplacement officiel;
+  - – le bien-fonds englobant le bâtiment des douanes, la partie attenante de la Fingstrasse et la place de stationnement sise à côté de celle-ci;
+  - – le local de vérification, le local pour les activités sociales et les sanitaires ainsi que la salle de chauffage et le dépôt;
+  - – le local situé au sud-ouest dans le bâtiment des douanes Rheinstrasse n<sup>o</sup> 3;
+
+- b)
+
+  les parties du bâtiment des douanes réservées à l’usage exclusif des agents suisses, à savoir:
+
+  - – au rez-de-chaussée, les locaux de bureaux dans la partie ouest;
+  - – au sous-sol, le local des archives dans la partie sud-ouest.
+
+<sup>2</sup> Aux fins de se soutenir mutuellement dans l’exploitation quotidienne, notamment en cas de menace ou de mise en danger de mort d’organes effectuant leur service, de parties présentes ou de tiers non concernés, les agents des Etats contractants sont en droit de se prêter mutuellement assistance même dans les installations, immeubles et leurs parties qu’ils sont usuellement seuls à utiliser.
+
+#### Art. 3
+
+<sup>1</sup> Le présent Arrangement est soumis à approbation conformément à la législation interne des Etats contractants et il entre en vigueur le premier jour du deuxième mois qui suit le mois au cours duquel la signature a été apposée. Simultanément est abrogé l’arrangement du 27 octobre 1967 concernant la création de bureaux à contrôles nationaux juxtaposés au passage frontière de Gaissau/Rheineck[^3-1].
+
+<sup>2</sup> Le présent Arrangement est conclu pour une durée indéterminée. Chacune des Parties contractantes peut le dénoncer, par écrit, par la voie diplomatique. L’arran-gement prend fin six mois après réception de la dénonciation par l’autre Partie contractante.
+
+Fait à Vienne, le 24 mai 2000, en deux exemplaires originaux en langue allemande.
+
+<table>
+<tr><td>Pour le Conseil fédéral suisse:</td><td>Pour le Gouvernement fédéral autrichien:</td></tr>
+<tr><td>Claudio Caratsch</td><td>Christian Prosl</td></tr>
+</table>
+
+[^3-1]: [[RO 1968 20](https://fedlex.data.admin.ch/eli/oc/1968/20_20_21)]

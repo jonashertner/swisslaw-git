@@ -1,0 +1,378 @@
+---
+sr: "412.101.221.37"
+title: Verordnung des SBFI vom 14. September 2010 über die berufliche Grundbildung Baupraktikerin/Baupraktiker mit eidgenössischem Berufsattest (EBA)
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/759"
+language: de
+version: 2018-01-01
+adopted: 2010-09-14
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/759/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2010-759-20180101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/759/20180101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des SBFI über die berufliche Grundbildung Baupraktikerin/Baupraktiker mit eidgenössischem Berufsattest (EBA)
+
+vom 14. September 2010 (Stand am 1. Januar 2018)
+
+<table>
+<tr><td>51007</td><td>Baupraktikerin EBA/Baupraktiker EBA Aide-maçonne AFP/Aide-maçon AFP Aiuto muratrice CFP/Aiuto muratore CFP</td></tr>
+</table>
+
+Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
+
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+
+verordnet:*[^ingress-4]*
+
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-4]: Fassung gemäss Ziff. I 99 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## 1. Abschnitt: Gegenstand und Dauer
+
+#### Art. 1
+
+**Berufsbild**
+
+Baupraktikerinnen und Baupraktiker auf Stufe EBA beherrschen namentlich folgende Tätigkeiten und zeichnen sich durch folgende Haltungen aus:
+
+- a. Sie erbringen im Team vielfältige handwerkliche Leistungen auf der Baustelle.
+- b. Sie berücksichtigen bei der Arbeit die Vorschriften der Arbeitssicherheit, des Gesundheits- und Umweltschutzes.
+- c. Sie erbringen ihre Leistungen anforderungsgerecht und wirtschaftlich.
+
+#### Art. 2
+
+**Dauer und Beginn**
+
+<sup>1</sup> Die berufliche Grundbildung dauert 2 Jahre.
+
+<sup>2</sup> Der Beginn der beruflichen Grundbildung richtet sich nach dem Schuljahr der zuständigen Berufsfachschule.
+
+## 2. Abschnitt: Ziele und Anforderungen
+
+#### Art. 3
+
+**Handlungskompetenzen**
+
+<sup>1</sup> Die Ziele und Anforderungen der beruflichen Grundbildung werden in Form von Handlungskompetenzen nach den Artikeln 4–6 beschrieben.
+
+<sup>2</sup> Sie gelten für alle Lernorte.
+
+#### Art. 4
+
+**Fachkompetenz**
+
+Die Fachkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden Bereichen:
+
+- a. Ausführungsgrundlagen;
+- b. Ausführung;
+- c. Auftragsüberwachung.
+
+#### Art. 5
+
+**Methodenkompetenz**
+
+Die Methodenkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden Bereichen:
+
+- a. Arbeitstechniken;
+- b. Arbeitssicherheit und Gesundheitsschutz;
+- c. Umweltschutz und Ressourcenbewusstsein;
+- d. prozessorientiertes, vernetztes Denken und Handeln;
+- e. Lernstrategien;
+- f. Problemlösungs- und Kreativitätsfähigkeit.
+
+#### Art. 6
+
+**Sozial- und Selbstkompetenz**
+
+Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden Bereichen:
+
+- a. eigenverantwortliches Handeln;
+- b. Lernbereitschaft;
+- c. Informationsbereitschaft;
+- d. Teamfähigkeit;
+- e. Umgangsformen und Kommunikationsfähigkeit;
+- f. Integrität.
+
+## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
+
+#### Art. 7
+
+[^7-1]
+
+<sup>1</sup> Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz, insbesondere zur Gefahrenkommunikation (Gefahrensymbole, Piktogramme, Gebotszeichen) in diesen drei Bereichen, ab und erklären sie ihnen.
+
+<sup>2</sup> Diese Vorschriften und Empfehlungen werden an allen Lernorten vermittelt und in den Qualifikationsverfahren berücksichtigt.
+
+<sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
+
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4 Absatz 4 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+
+<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+[^7-1]: Fassung gemäss Ziff. II 99 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+
+## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
+
+#### Art. 8
+
+**Anteile der Lernorte**
+
+<sup>1</sup> Die Bildung in beruflicher Praxis erfolgt über die ganze Dauer der beruflichen Grundbildung im Durchschnitt an 4 Tagen pro Woche.
+
+<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht erfolgt in 720 Lektionen. Davon entfallen auf den Sportunterricht 80 Lektionen.
+
+<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt mindestens 45 und höchstens 50 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung finden keine überbetrieblichen Kurse mehr statt.
+
+#### Art. 9
+
+**Unterrichtssprache**
+
+<sup>1</sup> Unterrichtssprache ist in der Regel die Landessprache des Schulortes.
+
+<sup>2</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
+
+<sup>3</sup> Die Kantone können andere Unterrichtssprachen zulassen.
+
+## 5. Abschnitt: Bildungsplan und Allgemeinbildung
+
+#### Art. 10
+
+**Bildungsplan**
+
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan vor, der von der zuständigen Organisation der Arbeitswelt erlassen und vom SBFI genehmigt wird.
+
+<sup>2</sup>
+
+Der Bildungsplan hat folgenden Inhalt[^10-1]:
+
+- a. Er führt die Inhalte der Grundbildung sowie die Bestimmungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz aus und bestimmt, an welchen Lernorten welche Handlungskompetenzen vermittelt und gelernt werden.
+- b. Er beinhaltet die Lektionentafel der Berufsfachschule.
+- c. Er bezeichnet die Trägerschaft der überbetrieblichen Kurse und legt deren Organisation und Aufteilung über die Dauer der beruflichen Grundbildung fest.
+- d. Er bezieht die Handlungskompetenzen konsistent auf das Qualifikationsverfahren und beschreibt dessen System.
+
+<sup>3</sup> Dem Bildungsplan angefügt ist die Liste der Unterlagen zur Umsetzung der beruflichen Grundbildung mit Titel, Datum und Bezugsquelle.
+
+[^10-1]: Fassung vom 9. April 2014, in Kraft seit 1. September 2014
+
+#### Art. 11
+
+**Allgemeinbildung**
+
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
+
+#### Art. 12
+
+**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+
+Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+
+- a. Maurerin oder Maurer EFZ mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet;
+- b. gelernte Maurerin oder gelernter Maurer mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet;
+- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Baupraktikerin oder des Baupraktikers EBA und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
+- d. einschlägiger Abschluss der höheren Berufsbildung.
+
+#### Art. 13
+
+**Höchstzahl der Lernenden**
+
+<sup>1</sup>
+
+In einem Betrieb darf eine lernende Person ausgebildet werden, wenn:
+
+- a. eine entsprechend qualifizierte Berufsbildnerin oder ein entsprechend qualifizierter Berufsbildner zu 100 Prozent beschäftigt wird; oder
+- b. zwei entsprechend qualifizierte Berufsbildnerinnen oder entsprechend qualifizierte Berufsbildner zu je mindestens 60 Prozent beschäftigt werden.
+
+<sup>2</sup> Tritt eine lernende Person in das letzte Jahr der beruflichen Grundbildung ein, so kann eine weitere lernende Person ihre Bildung beginnen.
+
+<sup>3</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von 2 Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
+
+<sup>4</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis, ein eidgenössisches Berufsattest oder eine gleichwertige Qualifikation verfügt.
+
+<sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+## 7. Abschnitt: Lern- und Leistungsdokumentation
+
+#### Art. 14
+
+**Im Betrieb**
+
+<sup>1</sup> Die lernende Person führt eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten, die erworbenen Fähigkeiten und ihre Erfahrungen im Betrieb festhält.
+
+<sup>2</sup> Die Berufsbildnerin oder der Berufsbildner kontrolliert, bespricht und unterzeichnet die Lerndokumentation einmal pro Quartal.
+
+<sup>3</sup> Sie oder er hält am Ende jedes Semesters den Bildungsstand der lernenden Person in einem Bildungsbericht fest.
+
+#### Art. 15
+
+**In der schulischen Bildung und in der schulisch organisierten Grundbildung**
+
+Die Anbieter der schulischen Bildung und die Anbieter schulisch organisierter Grundbildungen dokumentieren die Leistungen der Lernenden in den unterrichteten Bereichen und stellen ihnen am Ende jedes Semesters ein Zeugnis aus.
+
+#### Art. 16
+
+**Im überbetrieblichen Kurs**
+
+<sup>1</sup> Die Anbieter der überbetrieblichen Kurse dokumentieren die Leistungen der Lernenden in der Form von Kompetenznachweisen nach jedem überbetrieblichen Kursmodul.
+
+<sup>2</sup> Diese Kompetenznachweise werden in Noten ausgedrückt und fliessen ein in die Berechnung der Erfahrungsnote nach Artikel 20 Absatz 3.
+
+## 8. Abschnitt: Qualifikationsverfahren
+
+#### Art. 17
+
+**Zulassung**
+
+Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung erworben hat:
+
+- a. nach den Bestimmungen dieser Verordnung;
+- b. in einer vom Kanton dafür zugelassenen Bildungsinstitution; oder
+- c.
+
+  ausserhalb eines geregelten Bildungsganges und:
+
+  - 1\. die nach Artikel 32 BBV erforderliche berufliche Erfahrung erworben hat,
+  - 2\. von dieser beruflichen Erfahrung mindestens 2 Jahre im Bereich der Baupraktikerin und des Baupraktikers EBA erworben hat, und
+  - 3\. glaubhaft macht, den Anforderungen der Abschlussprüfung (Art. 19) gewachsen zu sein.
+
+#### Art. 18
+
+**Gegenstand der Qualifikationsverfahren**
+
+In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen nach den Artikeln 4–6 erworben worden sind.
+
+#### Art. 19
+
+**Umfang und Durchführung des Qualifikationsverfahrens mit Abschlussprüfung**
+
+<sup>1</sup>
+
+Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie folgt geprüft:
+
+- a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 12 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht sowie umweltgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
+- b. Berufskenntnisse, im Umfang von 1 1/2 Stunden schriftlich und 1/2 Stunde mündlich. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^19-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+
+<sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+
+#### Art. 20
+
+**Bestehen, Notenberechnung, Notengewichtung**
+
+<sup>1</sup>
+
+Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
+
+- a. der Qualifikationsbereich «praktische Arbeit» mit der Note 4 oder höher bewertet wird; und
+- b. die Gesamtnote 4 oder höher erreicht wird.
+
+<sup>2</sup>
+
+Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel der gewichteten Noten aus der Summe der Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung sowie der gewichteten Erfahrungsnote. Dabei gilt folgende Gewichtung:
+
+- a. praktische Arbeit: 50 %;
+- b. Berufskenntnisse: 10 %;
+- c. Allgemeinbildung: 20 %;
+- d. Erfahrungsnote: 20 %.
+
+<sup>3</sup>
+
+Die Erfahrungsnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der Noten für:
+
+- a. den berufskundlichen Unterricht;
+- b. die überbetrieblichen Kurse.
+
+<sup>4</sup> Die Note für den berufskundlichen Unterricht ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe aller Semesterzeugnisnoten des berufskundlichen Unterrichts.
+
+<sup>5</sup> Die Note für die überbetrieblichen Kurse ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der benoteten Kompetenznachweise.
+
+#### Art. 21
+
+**Wiederholungen**
+
+<sup>1</sup> Die Wiederholung des Qualifikationsverfahrens richtet sich nach Artikel 33 BBV. Muss ein Qualifikationsbereich wiederholt werden, so ist er in seiner Gesamtheit zu wiederholen.
+
+<sup>2</sup> Wird die Abschlussprüfung ohne erneuten Besuch der Berufsfachschule wiederholt, so wird die bisherige Note beibehalten. Wird der berufskundliche Unterricht während mindestens 2 Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+<sup>3</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursmodulen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kursmodule wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+#### Art. 22
+
+**Spezialfall**
+
+<sup>1</sup> Hat eine lernende Person die Vorbildung ausserhalb der geregelten beruflichen Grundbildung erworben und die Abschlussprüfung nach dieser Verordnung absolviert, so entfällt die Erfahrungsnote.
+
+<sup>2</sup>
+
+Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichtet:
+
+- a. praktische Arbeit: 50 %;
+- b. Berufskenntnisse: 30 %;
+- c. Allgemeinbildung: 20 %.
+
+## 9. Abschnitt: Ausweise und Titel
+
+#### Art. 23
+
+<sup>1</sup> Wer ein Qualifikationsverfahren erfolgreich durchlaufen hat, erhält das eidgenössische Berufsattest EBA.
+
+<sup>2</sup> Das Berufsattest berechtigt, den gesetzlich geschützten Titel «Baupraktikerin EBA» oder «Baupraktiker EBA» zu führen.
+
+<sup>3</sup>
+
+Ist das Berufsattest mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so werden im Notenausweis aufgeführt:
+
+- a. die Gesamtnote;
+- b. die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter dem Vorbehalt von Artikel 22 Absatz 1, die Erfahrungsnote.
+
+## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität
+
+#### Art. 24
+
+<sup>1</sup>
+
+Die Schweizerische Kommission für Berufsentwicklung und Qualität für Baupraktikerin und Baupraktiker EBA sowie Maurerin und Maurer EFZ setzt sich zusammen aus:
+
+- a. 5–7 Vertreterinnen oder Vertretern des Schweizerischen Baumeisterverbandes (SBV);
+- b. 2 Vertreterinnen oder Vertretern der Fachlehrerschaft;
+- c. je 1 Vertreterin oder 1 Vertreter der Arbeitnehmerorganisationen gemäss Landesmantelvertrag;
+- d. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+
+<sup>2</sup> Die Sprachregionen müssen gebührend vertreten sein.
+
+<sup>3</sup> Die Kommission konstituiert sich selbst.
+
+<sup>4</sup>
+
+Sie hat insbesondere folgende Aufgaben[^24-1]:
+
+- a. Sie überprüft die Bildungsverordnung und den Bildungsplan laufend, mindestens aber alle fünf Jahre, auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen. Dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
+- b. Sie ersucht die zuständige Organisation der Arbeitswelt, dem SBFI Änderungen der Verordnung zu beantragen, sofern die beobachteten Entwicklungen eine Änderung der Verordnung erfordern.
+- c. Sie stellt der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans, sofern die beobachteten Entwicklungen eine Anpassung des Bildungsplans erfordern.
+- d. Sie nimmt Stellung zu den Instrumenten für die Validierung von Bildungsleistungen.
+- e. Sie nimmt Stellung zu Instrumenten zur Förderung der Qualität der beruflichen Grundbildung, insbesondere zu den Ausführungsbestimmungen über die Qualifikationsverfahren.
+
+[^24-1]: Fassung vom 9. April 2014, in Kraft seit 1. September 2014
+
+## 11. Abschnitt: Schlussbestimmungen
+
+#### Art. 25
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2011 in Kraft.
+
+<sup>2</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 17–23) treten am 1. Januar 2013 in Kraft.
+
+<sup>3</sup> Die Änderung vom 9. April 2014 tritt am 1. September 2014 in Kraft[^25-1].
+
+[^25-1]: Eingefügt am 9. April 2014

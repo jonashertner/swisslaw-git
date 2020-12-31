@@ -1,0 +1,478 @@
+---
+sr: "916.443.106"
+title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI)"
+short: EDAV-DS-EDI
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
+language: de
+version: 2021-01-01
+adopted: 2015-11-18
+in_force: 2016-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EDI über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten
+
+(EDAV-DS-EDI)
+
+vom 18. November 2015 (Stand am 1. Januar 2021) (Stand am 1. Januar 2021)
+
+Das Eidgenössische Departement des Innern (EDI),
+
+gestützt auf die Artikel 5 Absätze 2 und 3, 8 Absatz 3, 13 Absatz 1, 15 Absatz 1, 20 Absatz 2, 21 Absatz 3, 30 Absatz 2, 38 Absatz 2, 39, 85 Absatz 1 Buchstabe a und 96 Absatz 2 der Verordnung vom 18. November 2015[^ingress-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV‑DS),
+
+verordnet:
+
+[^ingress-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+
+#### Art. 1
+
+**Harmonisierte Ein- und Durchfuhrbedingungen**
+
+### (Art. 2 Abs. 1, 5 Abs. 1 und 2 und 38 Abs. 1 und 2 EDAV-DS)
+
+Die massgebenden Erlasse der Europäischen Union (EU) über die harmonisierten Ein- und Durchfuhrbedingungen sind in Anhang 1 aufgeführt.
+
+#### Art. 2
+
+**Zusätzliche Gesundheitsgarantien**
+
+### (Art. 5 Abs. 3 EDAV-DS)
+
+<sup>1</sup>
+
+Für die Einfuhr sind die folgenden zusätzlichen Gesundheitsgarantien zu erbringen:
+
+- a. für Tiere der Rindergattung: eine Garantie, dass die Tiere frei von Infektiöser boviner Rhinotracheitis und Infektiöser pustulöser Vulvovaginitis (IBR/IPV) sind;
+- b. für Tiere der Schweinegattung: eine Garantie, dass die Tiere frei von der Aujeszky’schen Krankheit sind;
+- c. für Hühnervögel*,* Gänsevögel und Laufvögel: eine Garantie, dass die Tiere nicht gegen die Newcastle-Krankheit geimpft worden sind;
+- d.
+
+  für Bruteier von Tieren nach Buchstabe c: eine Garantie, dass diese aus Herden stammen, deren Tiere:
+
+  - 1\. nicht geimpft worden sind,
+  - 2\. mit einem inaktivierten Impfstoff geimpft worden sind, oder
+  - 3\. mindestens 30 Tage vor der Gewinnung der Bruteier geimpft worden sind, falls die Impfung mit einem lebenden Impfstoff vorgenommen wurde.
+
+<sup>2</sup> Die Gesundheitsgarantien nach Absatz 1 Buchstaben a und b werden nur anerkannt, wenn die Voraussetzungen nach Anhang 2 erfüllt sind.
+
+#### Art. 3
+
+**Tierprodukte mit erhöhtem tierseuchenpolizeilichem oder lebensmittelhygienischem Risiko**
+
+### (Art. 8 Abs. 1 Bst. a und 3 EDAV-DS)
+
+Die Tierprodukte mit erhöhtem tierseuchenpolizeilichem oder lebensmittelhygienischem Risiko nach Artikel 8 Absatz 1 Buchstabe a EDAV-DS sind in Anhang 3 aufgeführt.
+
+#### Art. 4
+
+**Verwendungsvorbehalt für Fleisch aus Staaten ohne Verbot von hormonellen Stoffen als Leistungsförderer**
+
+### (Art. 9 Abs. 2 Bst. b und 30 Abs. 2 EDAV-DS)
+
+Der Verwendungsvorbehalt in den Verkaufs- und Lieferdokumenten von Rindfleisch nach Artikel 9 EDAV-DS muss wie folgt lauten:
+
+«Rindfleisch aus Staaten ohne Verbot von hormonellen Stoffen als Leistungsförderer muss im Zollgebiet verwendet werden. Die Ausfuhr ist verboten. Es sind insbesondere die Auflagen nach den Artikeln 9 und 30 der Verordnung über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten einzuhalten.»
+
+#### Art. 5
+
+**Mitführen von Tierprodukten im Reiseverkehr**
+
+### (Art. 13 und 39 Bst. a EDAV-DS)
+
+Die tierseuchenpolizeilichen Ein- und Durchfuhrbedingungen für Tierprodukte, die zum Eigengebrauch im Reiseverkehr mitgeführt werden, sind in Anhang 4 aufgeführt.
+
+#### Art. 6
+
+**Pflicht zur grenztierärztlichen Kontrolle**[^6-1]
+
+### (Art. 15 und 39 Bst. b EDAV-DS)
+
+Die Positionen des Zolltarifs und die zusammengesetzten Produkte, bei denen bei der Ein- und Durchfuhr eine grenztierärztliche Kontrolle der Sendungen vorgeschrieben ist, richten sich nach den Artikeln 4 und 6 sowie den Anhängen I und II der Entscheidung 2007/275/EG[^6-2].
+
+[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1669](https://fedlex.data.admin.ch/eli/oc/2017/172)).
+[^6-2]: Entscheidung 2007/275/EG der Kommission vom 17. April 2007 mit Verzeichnissen von Tieren und Erzeugnissen, die gemäss den Richtlinien 91/496/EWG und 97/78/EG des Rates an Grenzkontrollstellen zu kontrollieren sind, ABl. L 116 vom 4.5.2007, S. 9; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1196, ABl. L 197 vom 22.7.2016, S. 10.
+
+#### Art. 7
+
+**Kennzeichnung der äussersten Verpackung von Tierprodukten**
+
+### (Art. 20 und 39 Bst. d EDAV-DS)
+
+Die massgebenden Erlasse der EU über die Kennzeichnung der äussersten Verpackung von Tierprodukten sind in Anhang 5 aufgeführt.
+
+#### Art. 8
+
+**Gesundheitsbescheinigungen**
+
+### (Art. 21 und 39 Bst. d EDAV-DS)
+
+Die formalen Anforderungen an die Gesundheitsbescheinigungen sind in Anhang 6 aufgeführt.
+
+#### Art. 9
+
+**Quarantänestationen**
+
+### (Art. 85 Abs. 1 Bst. a EDAV-DS)
+
+Die Anforderungen an die Quarantänestationen sind in Anhang 7 aufgeführt.
+
+#### Art. 10
+
+**Grenzkontrollstellen**
+
+### (Art. 96 Abs. 2 EDAV-DS)
+
+Die Anforderungen an die Räume, Einrichtungen und Anlagen von zugelassenen Grenzkontrollstellen sind in Anhang 8 aufgeführt.
+
+#### Art. 11
+
+**Nachführung der Anhänge**
+
+Das BLV führt die Anhänge 2, 3, 4 und 7 entsprechend der internationalen oder der technischen Entwicklung nach.
+
+#### Art. 12
+
+**Aufhebung eines anderen Erlasses**
+
+Die Verordnung des EDI vom 16. Mai 2007[^12-1] über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten wird aufgehoben.
+
+[^12-1]: [[AS 2007 2717](https://fedlex.data.admin.ch/eli/oc/2007/359), [2008 4443](https://fedlex.data.admin.ch/eli/oc/2008/615)[5273](https://fedlex.data.admin.ch/eli/oc/2008/743), [2009 1619](https://fedlex.data.admin.ch/eli/oc/2009/236), [2010 5097](https://fedlex.data.admin.ch/eli/oc/2010/737), [2012 461](https://fedlex.data.admin.ch/eli/oc/2012/62)[807](https://fedlex.data.admin.ch/eli/oc/2012/124)[1607](https://fedlex.data.admin.ch/eli/oc/2012/233)[3469](https://fedlex.data.admin.ch/eli/oc/2012/391)[6439](https://fedlex.data.admin.ch/eli/oc/2012/767)[6883](https://fedlex.data.admin.ch/eli/oc/2012/831), [2013 801](https://fedlex.data.admin.ch/eli/oc/2013/162)[1061](https://fedlex.data.admin.ch/eli/oc/2013/233)[1263](https://fedlex.data.admin.ch/eli/oc/2013/283)[2129](https://fedlex.data.admin.ch/eli/oc/2013/453)[2343](https://fedlex.data.admin.ch/eli/oc/2013/493)[2697](https://fedlex.data.admin.ch/eli/oc/2013/549)[3265](https://fedlex.data.admin.ch/eli/oc/2013/625)[4089](https://fedlex.data.admin.ch/eli/oc/2013/749)[4139](https://fedlex.data.admin.ch/eli/oc/2013/762)Ziff. I 2, [2014 391](https://fedlex.data.admin.ch/eli/oc/2014/58)[705](https://fedlex.data.admin.ch/eli/oc/2014/149)[1265](https://fedlex.data.admin.ch/eli/oc/2014/271)[2469](https://fedlex.data.admin.ch/eli/oc/2014/433)[3017](https://fedlex.data.admin.ch/eli/oc/2014/509)[3139](https://fedlex.data.admin.ch/eli/oc/2014/531)[3191](https://fedlex.data.admin.ch/eli/oc/2014/541)[4517](https://fedlex.data.admin.ch/eli/oc/2014/754), [2015 561](https://fedlex.data.admin.ch/eli/oc/2015/86)[565](https://fedlex.data.admin.ch/eli/oc/2015/87)[633](https://fedlex.data.admin.ch/eli/oc/2015/100)[725](https://fedlex.data.admin.ch/eli/oc/2015/124)[931](https://fedlex.data.admin.ch/eli/oc/2015/167)[1141](https://fedlex.data.admin.ch/eli/oc/2015/230)[1211](https://fedlex.data.admin.ch/eli/oc/2015/241)[2405](https://fedlex.data.admin.ch/eli/oc/2015/449)[2707](https://fedlex.data.admin.ch/eli/oc/2015/508)[2911](https://fedlex.data.admin.ch/eli/oc/2015/546)[4193](https://fedlex.data.admin.ch/eli/oc/2015/701)[4989](https://fedlex.data.admin.ch/eli/oc/2015/817)]
+
+#### Art. 13
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2016 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 1)
+
+## Massgebende Erlasse der EU über die harmonisierten Ein- und Durchfuhrbedingungen
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 31. Okt. 2016 ([AS 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Juni 2017 ([AS 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), vom 29. Dez. 2017 ([AS 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), vom 27. Sept. 2018 ([AS 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 25. Juli 2019 ([AS 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), vom 22. Aug. 2019 ([AS 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), vom 12. Nov. 2019 ([AS 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 23. Dez. 2019 ([AS 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 26. Nov. 2020 ([AS 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)) und vom 30. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)).
+
+<table>
+<tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
+<tr><td>1. Richtlinie 88/407/EWG</td><td>Richtlinie 88/407/EWG des Rates vom 14. Juni 1988 zur Festlegung der tierseuchenrechtlichen Anforderungen an den innergemeinschaftlichen Handelsverkehr mit gefrorenem Samen von Rindern und an dessen Einfuhr, ABl. L 194 vom 22.7.1988, S. 10; zuletzt geändert durch Durchführungsbeschluss 2011/629/EU, ABl. L 247 vom 24.9.2011, S. 22.</td></tr>
+<tr><td>2. Richtlinie 89/556/EWG</td><td>Richtlinie 89/556/EWG des Rates vom 25. September 1989 über viehseuchenrechtliche Fragen beim innergemeinschaftlichen Handel mit Embryonen von Hausrindern und ihrer Einfuhr aus Drittländern, ABl. L 302 vom 19.10.1989, S. 1; zuletzt geändert durch Richtlinie 2008/73/EG, ABl. L 219 vom 14.8.2008, S. 40.</td></tr>
+<tr><td>3. Richtlinie 90/429/EWG</td><td>Richtlinie 90/429/EWG des Rates vom 26. Juni 1990 zur Festlegung der tierseuchenrechtlichen Anforderungen an den innergemeinschaftlichen Handelsverkehr mit Samen von Schweinen und an dessen Einfuhr, ABl. L 224 vom 18.8.1990, S. 62; zuletzt geändert durch Durchführungsverordnung (EU) Nr. 176/2012, ABl. L 61 vom 2.3.2012, S. 1.</td></tr>
+<tr><td>4. ...</td><td></td></tr>
+<tr><td>5. Richtlinie 92/65/EWG</td><td>Richtlinie 92/65/EWG des Rates vom 13. Juli 1992 über die tierseuchenrechtlichen Bedingungen für den Handel mit Tieren, Samen, Eizellen und Embryonen in der Gemeinschaft sowie für ihre Einfuhr in die Gemeinschaft, soweit sie diesbezüglich nicht den spezifischen Gemeinschaftsregelungen nach Anhang A Abschnitt I der Richtlinie 90/425/EWG unterliegen, ABl. L 268 vom 14.9.1992, S. 54; zuletzt geändert durch Durchführungsbeschluss (EU) 2019/1206, ABl. L 190 vom 16.7.2019, S. 11.</td></tr>
+<tr><td>6. Richtlinie 92/118/EWG</td><td>Richtlinie 92/118/EWG des Rates vom 17. Dezember 1992 über die tierseuchenrechtlichen und gesundheitlichen Bedingungen für den Handel mit Erzeugnissen tierischen Ursprungs in der Gemeinschaft sowie für ihre Einfuhr in die Gemeinschaft, soweit sie diesbezüglich nicht den spezifischen Gemeinschaftsregelungen nach Anhang A Kapitel I der Richtlinie 89/662/EWG und – in Bezug auf Krankheitserreger – der Richtlinie 90/425/EWG unterliegen, ABl. L 62 vom 15.3.1993, S. 49; zuletzt geändert durch Richtlinie 2004/41/EG in der Fassung gemäss ABl. L 195 vom 2.6.2004, S. 12.</td></tr>
+<tr><td>[tab] 7.–9. ...</td><td></td></tr>
+<tr><td>10. Richtlinie 96/22/EG</td><td>Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG, ABl. L 125 vom 23.5.1996, S. 3; zuletzt geändert durch Richtlinie 2008/97/EG, ABl. L 318 vom 28.11.2008, S. 9.</td></tr>
+<tr><td>11. ...</td><td></td></tr>
+<tr><td>12. Entscheidung 2000/572/EG</td><td>Entscheidung 2000/572/EG der Kommission vom 8. September 2000 zur Festlegung der Veterinärbedingungen und der Veterinärbescheini-gungen für die Einfuhr von Hackfleisch/Faschiertem und Fleischzu-bereitungen aus Drittländern und zur Aufhebung der Entscheidung 97/29/EG, ABl. L 240 vom 23.9.2000, S. 19; zuletzt geändert durch Durchführungsbeschluss (EU) 2017/622, ABl. L 89 vom 1.4.2017, S. 11.</td></tr>
+<tr><td>13. Verordnung (EG) Nr. 999/2001</td><td>Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien, ABl. L 147 vom 31.5.2001, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1593, ABl. L 360 vom 30.10.2020, S. 13.</td></tr>
+<tr><td>14. Verordnung (EG) Nr. 178/2002</td><td>Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. L 31 vom 1.2.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1243, ABl. L 198 vom 25.7.2019, S. 241.</td></tr>
+<tr><td>15. Entscheidung 2002/805/EG</td><td>Entscheidung 2002/805/EG der Kommission vom 15. Oktober 2002 über Schutzmassnahmen betreffend für die Tierernährung bestimmte und aus der Ukraine eingeführte Erzeugnisse tierischen Ursprungs, Fassung gemäss ABl. L 278 vom 16.10.2002, S. 24.</td></tr>
+<tr><td>16. Richtlinie 2002/99/EG</td><td>Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs, ABl. L 18 vom 23.1.2003, S. 11; zuletzt geändert durch Durchführungsbeschluss 2013/417/EU, ABl. L 206 vom 2.8.2013, S. 13.</td></tr>
+<tr><td>17. Entscheidung 2002/994/EG</td><td>Entscheidung 2002/994/EG der Kommission vom 20. Dezember 2002 über Schutzmassnahmen betreffend aus China eingeführte Erzeugnisse tierischen Ursprungs, ABl. L 348 vom 21.12.2002, S. 154; zuletzt geändert durch Durchführungsbeschluss (EU) 2015/1068, ABl. L 174 vom 3.7.2015, S. 30.</td></tr>
+<tr><td>18. ...</td><td></td></tr>
+<tr><td>19. Entscheidung 2003/459/EG</td><td>Entscheidung 2003/459/EG der Kommission vom 20. Juni 2003 mit Massnahmen zum Schutz gegen Affenpocken, Fassung gemäss ABl. L 154 vom 21.6.2003, S. 112.</td></tr>
+<tr><td>20. Entscheidung 2003/779/EG</td><td>Entscheidung 2003/779/EG der Kommission vom 31. Oktober 2003 zur Festlegung der Veterinärbedingungen und des Veterinärzeugnisses für die Einfuhr von Tierdärmen aus Drittländern, ABl. L 285 vom 1.11.2003, S. 38; zuletzt geändert durch Entscheidung 2004/414/EG, ABl. L 151 vom 30.4.2004, S. 65.</td></tr>
+<tr><td>21. ...</td><td></td></tr>
+<tr><td>22. Verordnung (EG) Nr. 2160/2003</td><td>Verordnung (EG) Nr. 2160/2003 des Europäischen Parlaments und des Rates vom 17. November 2003 zur Bekämpfung von Salmonellen und bestimmten anderen durch Lebensmittel übertragbaren Zoonoseerregern, ABl. L 325 vom 12.12.2003, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 517/2013, ABl. L 158 vom 10.6.2013, S. 1.</td></tr>
+<tr><td>23. Entscheidung 2003/845/EG</td><td>Entscheidung 2003/845/EG der Kommission vom 5. Dezember 2003 über Schutzmassnahmen bei der Einfuhr bestimmter Tiere sowie von Sperma, Eizellen und Embryonen dieser Tiere aus Albanien, der ehemaligen jugoslawischen Republik Mazedonien sowie Serbien und Montenegro angesichts von Ausbrüchen der Blauzungenkrankheit, Fassung gemäss ABl. L 321 vom 6.12.2003, S. 61.</td></tr>
+<tr><td>24. ...</td><td></td></tr>
+<tr><td>25. Verordnung (EG) Nr. 136/2004</td><td>Verordnung (EG) Nr. 136/2004 der Kommission vom 22. Januar 2004 mit Verfahren für die Veterinärkontrollen von aus Drittländern eingeführten Erzeugnissen an den Grenzkontrollstellen der Gemeinschaft, ABl. L 21 vom 28.1.2004, S. 11; zuletzt geändert durch Durchführungsverordnung (EU) Nr. 494/2014, ABl. L 139 vom 14.5.2014, S. 11.</td></tr>
+<tr><td>26. Entscheidung 2004/225/EG</td><td>Entscheidung 2004/225/EG der Kommission vom 2. März 2004 über Schutzmassnahmen im Zusammenhang mit bestimmten lebenden Tieren und tierischen Erzeugnissen mit Ursprung in oder Herkunft aus Albanien, Fassung gemäss ABl. L 68 vom 6.3.2004, S. 34.</td></tr>
+<tr><td>27. Richtlinie 2004/68/EG</td><td>Richtlinie 2004/68/EG des Rates vom 26. April 2004 zur Festlegung der Veterinärbedingungen für die Einfuhr und die Durchfuhr bestimmter lebender Huftiere in bzw. durch die Gemeinschaft, zur Änderung der Richtlinien 90/426/EWG und 92/65/EWG und zur Aufhebung der Richtlinie 72/462/EWG, ABl. L 139 vom 30.4.2004, S. 321; zuletzt geändert durch Durchführungsbeschluss Nr. 2012/253/EU, ABl. L 125 vom 12.5.2012, S. 51.</td></tr>
+<tr><td>28. Verordnung (EG) Nr. 852/2004</td><td>Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene, ABl. L 139 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 219/2009, ABl. L 87 vom 31.3.2009, S. 109.</td></tr>
+<tr><td>29. Verordnung (EG) Nr. 853/2004</td><td>Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) 2019/1243, ABl. L 198 vom 25.7.2019, S. 241.</td></tr>
+<tr><td>30. ...</td><td></td></tr>
+<tr><td>[tab] 30*a*.Verordnung (EG) Nr. 1/2005</td><td>Verordnung (EG) Nr. 1/2005 des Rates vom 22. Dezember 2004 über den Schutz von Tieren beim Transport und damit zusammenhängenden Vorgängen sowie zur Änderung der Richtlinien 64/432/EWG und 93/119/EG und der Verordnung (EG) Nr. 1255/97, ABl. L 3 vom 5.1.2005, S. 1; geändert durch Verordnung (EU) 2017/625, ABl. L 95 vom 7.4.2017, S. 1.</td></tr>
+<tr><td>31. ...</td><td></td></tr>
+<tr><td>32. Entscheidung 2005/290/EG</td><td>Entscheidung 2005/290/EG der Kommission vom 4. April 2005 über vereinfachte Veterinärbescheinigungen für die Einfuhr von Rindersperma und frischem Schweinefleisch aus Kanada sowie zur Änderung der Entscheidung 2004/639/EG, ABl. L 93 vom 12.4.2005, S. 34; zuletzt geändert durch Durchführungsbeschluss 2011/630/EU, ABl. L 247 vom 24.9.2011, S. 32.</td></tr>
+<tr><td>33. Verordnung (EG) Nr. 2073/2005</td><td>Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005 über mikrobiologische Kriterien für Lebensmittel, ABl. L 338 vom 22.12.2005, S. 1; zuletzt geändert durch Verordnung (EU) 2020/205, ABl. L 43 vom 17.2.2020, S. 63.</td></tr>
+<tr><td>34. Verordnung (EG) Nr. 2074/2005</td><td>Verordnung (EG) Nr. 2074/2005 der Kommission vom 5. Dezember 2005 zur Festlegung von Durchführungsvorschriften für bestimmte unter die Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates fallende Erzeugnisse und für die in den Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vorgesehenen amtlichen Kontrollen, zur Abweichung von der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates und zur Änderung der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004, ABl. L 338 vom 22.12.2005, S. 27; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1139, ABl. L 180 vom 4.7.2019, S. 12.</td></tr>
+<tr><td>35. Entscheidung 2006/168/EG</td><td>Entscheidung 2006/168/EG der Kommission vom 4. Januar 2006 zur Festlegung der Veterinärbedingungen und Veterinärbescheinigungen für die Einfuhr von Rinderembryonen in die Gemeinschaft und zur Aufhebung der Entscheidung 2005/217/EG, ABl. L 57 vom 28.2.2006, S. 19; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2216, ABl. L 438 vom 28.12.2020, S. 57.</td></tr>
+<tr><td>36. Entscheidung 2006/27/EG</td><td>Entscheidung 2006/27/EG der Kommission vom 16. Januar 2006 über Sondervorschriften für die Einfuhr von zum Verzehr bestimmtem Fleisch und Fleischerzeugnissen von Equiden aus Mexiko, Fassung gemäss ABl. L 19 vom 24.1.2006, S. 30.</td></tr>
+<tr><td>37. Entscheidung 2006/146/EG</td><td>Entscheidung 2006/146/EG der Kommission vom 21. Februar 2006 über Schutzmassnahmen gegenüber Flughunden, Hunden und Katzen mit Herkunft aus Malaysia (Halbinsel) und Australien, Fassung gemäss ABl. L 55 vom 25.2.2006, S. 44.</td></tr>
+<tr><td>38. Entscheidung 2006/199/EG</td><td>Entscheidung 2006/199/EG der Kommission vom 22. Februar 2006 mit Sonderbedingungen für die Einfuhr von Fischereierzeugnissen aus den Vereinigten Staaten von Amerika, Fassung gemäss ABl. L 71 vom 10.3.2006, S. 17.</td></tr>
+<tr><td>39. Richtlinie 2006/88/EG</td><td>Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten, ABl. L 328 vom 24.11.2006, S. 14; zuletzt geändert durch Durchführungsrichtlinie 2014/22/EU, ABl. L 44 vom 14.2.2014, S. 45.</td></tr>
+<tr><td>40. ...</td><td></td></tr>
+<tr><td>41. Entscheidung 2007/25/EG</td><td>Entscheidung 2007/25/EG der Kommission vom 22. Dezember 2006 hinsichtlich bestimmter Massnahmen zum Schutz gegen die hoch pathogene Aviäre Influenza und zur Regelung der Verbringung von Heimvögeln, die von ihren Besitzern aus Drittländern mitgeführt werden, ABl. L 8 vom 13.1.2007, S. 29; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2107, ABl. L 425 vom 16.12.2020, S. 103.</td></tr>
+<tr><td>42. Entscheidung 2007/82/EG</td><td>Entscheidung 2007/82/EG der Kommission vom 2. Februar 2007 über Dringlichkeitsmassnahmen zur Aussetzung der Einfuhr von zum Verzehr bestimmten Fischereierzeugnissen aus der Republik Guinea, Fassung gemäss ABl. L 28 vom 3.2.2007, S. 25.</td></tr>
+<tr><td>43. Entscheidung 2007/453/EG</td><td>Entscheidung 2007/453/EG der Kommission vom 29. Juni 2007 zur Festlegung des BSE-Status von Mitgliedstaaten, Drittländern oder Gebieten davon nach ihrem BSE-Risiko, ABl. L 172 vom 30.6.2007, S. 84; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2212, ABl. L 438 vom 28.12.2020, S. 44.</td></tr>
+<tr><td>44. Entscheidung 2007/642/EG</td><td>Entscheidung 2007/642/EG der Kommission vom 4. Oktober 2007 über Sofortmassnahmen für die Einfuhr von zum Verzehr bestimmten Fischereierzeugnissen aus Albanien, Fassung gemäss ABl. L 260 vom 5.10.2007, S. 21.</td></tr>
+<tr><td>45. Entscheidung 2007/777/EG</td><td>Entscheidung 2007/777/EG der Kommission vom 29. November 2007 zur Festlegung der Tiergesundheits- und Hygienebedingungen und der Musterveterinärbescheinigungen für die Einfuhr bestimmter Fleischerzeugnisse und behandelter Mägen, Blasen und Därme für den menschlichen Verzehr aus Drittländern sowie zur Aufhebung der Entscheidung 2005/432/EG, ABl. L 312 vom 30.11.2007, S. 49; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2213, ABl. L 438 vom 28.12.2020, S. 48.</td></tr>
+<tr><td>46. Entscheidung 2008/636/EG</td><td>Entscheidung 2008/636/EG der Kommission vom 22. Juli 2008 zur Festlegung der Liste von Drittländern, aus denen die Mitgliedstaaten Einfuhren von Eizellen und Embryonen von Schweinen zulassen, Fassung gemäss ABl. L 206 vom 2.8.2008, S. 32.</td></tr>
+<tr><td>47. ...</td><td></td></tr>
+<tr><td>48. Entscheidung 2008/698/EG</td><td>Entscheidung 2008/698/EG der Kommission vom 8. August 2008 über die vorübergehende Zulassung und die Einfuhr registrierter Pferde aus Südafrika in die Gemeinschaft, Fassung gemäss ABl. L 235 vom 2.9.2008, S. 16.</td></tr>
+<tr><td>49. Verordnung (EG) Nr. 798/2008</td><td>Verordnung (EG) Nr. 798/2008 der Kommission vom 8. August 2008 zur Erstellung einer Liste von Drittländern, Gebieten, Zonen und Kompartimenten, aus denen die Einfuhr von Geflügel und Geflügel-erzeugnissen in die Gemeinschaft und ihre Durchfuhr durch die Gemeinschaft zugelassen ist, und zur Festlegung der diesbezüglichen Veterinärbescheinigungen, ABl. L 226 vom 23.8.2008, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2205, ABl. L 438 vom 28.12.2020, S. 11.</td></tr>
+<tr><td>50. ...</td><td></td></tr>
+<tr><td>51. Entscheidung 2008/946/EG</td><td>Entscheidung 2008/946/EG der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates in Bezug auf Quarantänevorschriften für Tiere in Aquakultur, Fassung gemäss ABl. L 337 vom 16.12.2008, S. 94.</td></tr>
+<tr><td>52. Verordnung (EG) Nr. 1251/2008</td><td>Verordnung (EG) Nr. 1251/2008 der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Bedingungen und Bescheinigungsvorschriften für das Inverkehrbringen und die Einfuhr in die Gemeinschaft von Tieren in Aquakultur und Aquakulturerzeugnissen sowie zur Festlegung einer Liste von Überträgerarten, ABl. L 337 vom 16.12.2008, S. 41; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2202, ABl. L 438 vom 28.12.2020, S. 1.</td></tr>
+<tr><td>53. Verordnung (EG) Nr. 1252/2008</td><td>Verordnung (EG) Nr. 1252/2008 der Kommission vom 12. Dezember 2008 zur Abweichung von der Verordnung (EG) Nr. 1251/2008 und zur Aussetzung der Einfuhr von Sendungen bestimmter Tiere in Aquakultur aus Malaysia in die Gemeinschaft, Fassung gemäss ABl. L 337 vom 16.12.2008, S. 76.</td></tr>
+<tr><td>54. Verordnung (EG) Nr. 119/2009</td><td>Verordnung (EG) Nr. 119/2009 der Kommission vom 9. Februar 2009 zur Erstellung einer Liste von Drittländern und Teilen von Drittländern für die Einfuhr von Fleisch von wildlebenden Hasenartigen, bestimmten wildlebenden Landsäugetieren und Nutzkaninchen in die Gemeinschaft und für die Durchfuhr derartigen Fleisches durch die Gemeinschaft sowie zur Festlegung der diesbezüglichen Veterinärbescheinigungen, ABl. L 39 vom 10.2.2009, S. 12; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2206, ABl. L 438 vom 28.12.2020, S. 15.</td></tr>
+<tr><td>55. Verordnung (EG) Nr. 1069/2009</td><td>Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte), ABl. L 300 vom 14.11.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1009, ABl. L 170 vom 25.6.2019, S. 1.</td></tr>
+<tr><td>56. Richtlinie 2009/156/EG</td><td>Richtlinie 2009/156/EG des Rates vom 30. November 2009 zur Festlegung der tierseuchenrechtlichen Vorschriften für das Verbringen von Equiden und für ihre Einfuhr aus Drittländern, ABl. L 192 vom 23.7.2010, S. 1; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1840, ABl. L 280 vom 18.10.2016, S. 33.</td></tr>
+<tr><td>57. Richtlinie 2009/158/EG</td><td>Richtlinie 2009/158/EG des Rates vom 30. November 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern, ABl. L 343 vom 22.12.2009, S. 74; zuletzt geändert durch Durchführungsbeschluss 2011/879/EU, ABl. L 343 vom 23.12.2011, S. 105.</td></tr>
+<tr><td>58. ...</td><td></td></tr>
+<tr><td>59. Verordnung (EU) Nr. 206/2010</td><td>Verordnung (EU) Nr. 206/2010 der Kommission vom 12. März 2010 zur Erstellung von Listen der Drittländer, Gebiete und Teile davon, aus denen das Verbringen bestimmter Tiere und bestimmten frischen Fleisches in die Europäische Union zulässig ist, und zur Festlegung der diesbezüglichen Veterinärbescheinigungen, ABl. L 73 vom 20.3.2010, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2204, ABl. L 438 vom 28.12.2020, S. 7.</td></tr>
+<tr><td>60. Verordnung (EU) Nr. 605/2010</td><td>Verordnung (EU) Nr. 605/2010 der Kommission vom 2. Juli 2010 zur Festlegung der Veterinärbedingungen und Veterinärbescheinigungen für das Verbringen von Milcherzeugnissen und Rohmilch zum menschlichen Verzehr in die Europäische Union, ABl. L 175 vom 10.7.2010, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2207, ABl. L 438 vom 28.12.2020, S. 18.</td></tr>
+<tr><td>61. Beschluss 2010/381/EU</td><td>Beschluss 2010/381/EU der Kommission vom 8. Juli 2010 über Sofortmassnahmen für aus Indien eingeführte Sendungen mit zum menschlichen Verzehr bestimmten Aquakulturerzeugnissen, ABl. L 174 vom 9.7.2010, S. 51; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1774, ABl. L 271 vom 6.10.2016, S. 7.</td></tr>
+<tr><td>62. ...</td><td></td></tr>
+<tr><td>63. Beschluss 2010/472/EU</td><td>Beschluss 2010/472/EU der Kommission vom 26. August 2010 über die Einfuhr von Samen, Eizellen und Embryonen von Schafen und Ziegen in die Union, ABl. L 228 vom 31.8.2010, S. 74; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2217, ABl. L 438 vom 28.12.2020, S. 60.</td></tr>
+<tr><td>64. Verordnung (EU) Nr. 142/2011</td><td>Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1720, ABl. L 386 vom 18.11.2020, S. 6.</td></tr>
+<tr><td>65. Beschluss 2011/163/EU</td><td>Beschluss 2011/163/EU der Kommission vom 16. März 2011 zur Genehmigung der von Drittländern gemäss Artikel 29 der Richtlinie 96/23/EG des Rates vorgelegten Pläne, ABl. L 70 vom 17.3.2011, S. 40; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2218, ABl. L 438 vom 28.12.2020, S. 63.</td></tr>
+<tr><td>66. Durchführungsbeschluss 2011/630/EU</td><td>Durchführungsbeschluss 2011/630/EU der Kommission vom 20. September 2011 über die Einfuhr von Rindersperma in die Europäische Union, ABl. L 247 vom 24.9.2011, S. 32; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2215, ABl. L 438 vom 28.12.2020, S. 54.</td></tr>
+<tr><td>67. Verordnung (EU) Nr. 28/2012</td><td>Verordnung (EU) Nr. 28/2012 der Kommission vom 11. Januar 2012 mit Bescheinigungsanforderungen für die Einfuhr in und die Durchfuhr durch die Europäische Union bestimmter zusammengesetzter Erzeugnisse und zur Änderung der Entscheidung 2007/275/EG und der Verordnung (EG) Nr. 1162/2009, ABl. L 12 vom 14.1.2012, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2124, ABl. L 321 vom 12.12.2019, S. 73.</td></tr>
+<tr><td>68. Durchführungsbeschluss 2012/137/EU</td><td>Durchführungsbeschluss 2012/137/EU der Kommission vom 1. März 2012 über die Einfuhr von Samen von Hausschweinen in die Europäische Union, ABl. L 64 vom 3.3.2012, S. 29; geändert durch Durchführungsbeschluss (EU) 2020/2214, ABl. L 438 vom 28.12.2020, S. 51.</td></tr>
+<tr><td>69. Durchführungsverordnung (EU) Nr. 139/2013</td><td>Durchführungsverordnung (EU) Nr. 139/2013 der Kommission vom 7. Januar 2013 zur Festlegung der Veterinärbedingungen für die Einfuhr bestimmter Vogelarten in die Union sowie der dafür geltenden Quarantänebedingungen, Fassung gemäss ABl. L 47 vom 20.2.2013, S. 1.</td></tr>
+<tr><td>70. Durchführungsverordnung (EU) Nr. 577/2013</td><td>Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates, ABl. L 178 vom 28.6.2013, S. 109; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2016, ABl. L 415 vom 10.12.2020, S. 39.</td></tr>
+<tr><td>71. Durchführungsverordnung (EU) Nr. 743/2013</td><td>Durchführungsverordnung (EU) Nr. 743/2013 der Kommission vom 31. Juli 2013 mit Schutzmassnahmen in Bezug auf die Einfuhr von zum menschlichen Verzehr bestimmten Muscheln aus der Türkei, ABl. L 205 vom 1.8.2013, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2017/2369, ABl. L 337 vom 19.12.2017, S. 26.</td></tr>
+<tr><td>72. Durchführungs-beschluss 2013/503/EU</td><td>Durchführungsbeschluss 2013/503/EU der Kommission vom 11. Oktober 2013 zur Anerkennung von Teilen der Union als frei von Varroose bei Bienen und zur Festlegung zusätzlicher, für den Handel innerhalb der Union und für Einfuhren erforderlicher Garantien zum Schutz des varroosefreien Status dieser Gebiete, ABl. L 273 vom 15.10.2013, S. 38; zuletzt geändert durch Durchführungsbeschluss (EU) 2019/1895, ABl. L 291 vom 12.11.2019, S. 54.</td></tr>
+<tr><td>[tab] 73.–77. ...</td><td></td></tr>
+<tr><td>78. Durchführungsverordnung (EU) 2015/262</td><td>Durchführungsverordnung (EU) 2015/262 der Kommission vom 17. Februar 2015 zur Festlegung von Vorschriften gemäss den Richtlinien 90/427/EWG und 2009/156/EG des Rates in Bezug auf die Methoden zur Identifizierung von Equiden (Equidenpass-Verordnung), Fassung gemäss ABl. L 59 vom 3.3.2015, S. 1.</td></tr>
+<tr><td>79. Durchführungsbeschluss (EU) 2015/1901</td><td>Durchführungsbeschluss (EU) 2015/1901 der Kommission vom 20. Oktober 2015 zur Festlegung von Vorschriften für Bescheinigungen sowie einer Mustergesundheitsbescheinigung für die Einfuhr von Sendungen mit lebenden Tieren und tierischen Erzeugnissen aus Neuseeland in die Union sowie zur Aufhebung der Entscheidung 2003/56/EG, Fassung gemäss ABl. L 277 vom 22.10.2015, S. 32.</td></tr>
+<tr><td>80. ...</td><td></td></tr>
+<tr><td>81. Durchführungs-verordnung (EU) 2016/6</td><td>Durchführungsverordnung (EU) 2016/6 der Kommission vom 5. Januar 2016 mit besonderen Bedingungen für die Einfuhr von Lebens- und Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall im Kernkraftwerk Fukushima und zur Aufhebung der Durchführungsverordnung (EU) Nr. 322/2014, ABl. L 3 vom 6.1.2016, S. 5; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1787, ABl. L 272 vom 25.10.2019, S. 140.</td></tr>
+<tr><td>82. Durchführungs-verordnung (EU) 2016/759</td><td>Durchführungsverordnung (EU) 2016/759 der Kommission vom 28. April 2016 zur Erstellung der Listen der Drittländer, Teile von Drittländern und Gebiete, aus denen die Mitgliedstaaten die Verbringung bestimmter Erzeugnisse tierischen Ursprungs für den menschlichen Verzehr in die Union zulassen, zur Festlegung der Bescheinigungsanforderungen, zur Änderung der Verordnung (EG) Nr. 2074/2005 und zur Aufhebung der Entscheidung 2003/812/EG, ABl. L 126 vom 14.5.2016, S. 13; zuletzt geändert durch Verordnung (EU) 2019/2124, ABl. L 321 vom 12.12.2019, S. 73.</td></tr>
+<tr><td>[tab] 82*a*. Durchführungsbeschluss (EU) 2016/1918</td><td>Durchführungsbeschluss (EU) 2016/1918 der Kommission vom 28. Oktober 2016 mit bestimmten Schutzmassnahmen in Bezug auf Chronic Wasting Disease, ABl. L 296 vom 1.11.2016, S. 21; geändert durch Durchführungsbeschluss (EU) 2017/2181, ABl. L 307 vom 23.11.2017, S. 58.</td></tr>
+<tr><td>83. Verordnung (EU) 2017/185</td><td>Verordnung (EU) 2017/185 der Kommission vom 2. Februar 2017 zur Festlegung von Übergangsmassnahmen für die Anwendung gewisser Bestimmungen der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 29 vom 3.2.2017, S. 21.</td></tr>
+<tr><td>84. ...</td><td></td></tr>
+<tr><td>85. ...</td><td></td></tr>
+<tr><td>86. Durchführungs-beschluss (EU) 2018/320</td><td>Durchführungsbeschluss (EU) 2018/320 der Kommission vom 28. Februar 2018 über bestimmte Massnahmen zum Schutz der Tiergesundheit beim Handel mit Salamandern innerhalb der Union und bei der Verbringung solcher Tiere in die Union im Hinblick auf den Pilz Batrachochytrium salamandrivorans, ABl. L 62 vom 5.3.2018, S. 18; geändert durch Durchführungsbeschluss (EU) 2019/1998, ABl. L 310 vom 2.12.2019, S. 35.</td></tr>
+<tr><td>87. ...</td><td></td></tr>
+<tr><td>88. Durchführungsverordnung (EU) 2018/659</td><td>Durchführungsverordnung (EU) 2018/659 der Kommission vom 12. April 2018 über die Bestimmungen für den Eingang lebender Equiden sowie von Sperma, Eizellen und Embryonen von Equiden in die Union, ABl. L 110 vom 30.4.2018, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2203, ABl. L 438 vom 28.12.2020, S. 4.</td></tr>
+<tr><td>89. Durchführungsbeschluss (EU) 2019/294</td><td>Durchführungsbeschluss (EU) 2019/294 der Kommission vom 18. Februar 2019 zur Festlegung der Liste der für die Einfuhr von Hunden, Katzen und Frettchen in die Union zugelassenen Gebiete und Drittländer sowie der Mustertiergesundheitsbescheinigung für eine solche Einfuhr, Fassung gemäss ABl. L 48 vom 20.2.2019, S. 41.</td></tr>
+<tr><td>90. Verordnung (EU) 2019/759</td><td>Verordnung (EU) 2019/759 der Kommission vom 13. Mai 2019 mit Übergangsmassnahmen zur Anwendung der hygienerechtlichen Anforderungen für die Einfuhr von Lebensmitteln, die sowohl Erzeugnisse pflanzlichen Ursprungs als auch Verarbeitungserzeugnisse tierischen Ursprungs enthalten (zusammengesetzte Erzeugnisse), Fassung gemäss ABl. L 125 vom 14.5.2019, S. 11.</td></tr>
+<tr><td>91. Durchführungsbeschluss (EU) 2019/1351</td><td>Durchführungsbeschluss (EU) 2019/1351 der Kommission vom 19. August 2019 zur Festlegung besonderer Bedingungen für die Einfuhr in die Union und die Durchfuhr durch die Union von Fleischerzeugnissen und behandelten Mägen, Blasen und Därmen von Schweinen mit Ursprung in der Republik Serbien nach Auftreten der Afrikanischen Schweinepest in diesem Land und zur Änderung des Durchführungsbeschlusses 2013/426/EU, Fassung gemäss ABl. L 216I vom 20.8.2019, S. 1.</td></tr>
+<tr><td>92. Delegierte Verordnung (EU) 2019/625</td><td>Delegierte Verordnung (EU) 2019/625 der Kommission vom 4. März 2019 zur Ergänzung der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an den Eingang von Sendungen bestimmter für den menschlichen Verzehr bestimmter Tiere und Waren in die Union, Fassung gemäss ABl. L 131 vom 17.5.2019, S. 18.</td></tr>
+<tr><td>93. Durchführungs- verordnung (EU) 2019/626</td><td>Durchführungsverordnung (EU) 2019/626 der Kommission vom 5. März 2019 betreffend die Listen der Drittländer oder Drittlandsgebiete, aus denen der Eingang bestimmter für den menschlichen Verzehr bestimmter Tiere und Waren in die Europäische Union zugelassen ist, zur Änderung der Durchführungsverordnung (EU) 2016/759 in Bezug auf diese Listen, ABl. L 131 vom 17.5.2019, S. 31; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2209, ABl. L 438 vom 28.12.2020, S. 24.</td></tr>
+<tr><td>94. Durchführungsverordnung (EU) 2019/628</td><td>Durchführungsverordnung (EU) 2019/628 der Kommission vom 8. April 2019 zu den Mustern amtlicher Bescheinigungen für bestimmte Tiere und Waren und zur Änderung der Verordnung (EG) Nr. 2074/2005 und der Durchführungsverordnung (EU) 2016/759 in Bezug auf diese Musterbescheinigungen, Fassung gemäss ABl. L 131 vom 17.5.2019, S. 101.</td></tr>
+<tr><td>95. Durchführungs- verordnung (EU) 2020/1641</td><td>Durchführungsverordnung (EU) 2020/1641 der Kommission vom 5. November 2020 über die Einfuhr lebender, gekühlter, tiefgefrorener oder verarbeiteter Muscheln, Stachelhäuter, Manteltiere und Meeresschnecken für den menschlichen Verzehr aus den Vereinigten Staaten von Amerika, Fassung gemäss ABl. L 370 vom 6.11.2020, S. 4.</td></tr>
+<tr><td>96. Durchführungs- verordnung (EU) 2020/2208</td><td>Durchführungsverordnung (EU) 2020/2208 der Kommission vom 22. Dezember 2020 zur Berücksichtigung des Vereinigten Königreichs als Drittland, aus dem die Einfuhr von Sendungen mit Heu und Stroh in die Union zugelassen ist, Fassung gemäss ABl. L 438 vom 28.12.2020, S. 21.</td></tr>
+</table>
+
+Anhang 2*[^t-2]*
+
+(Art. 2 Abs. 2)
+
+## Voraussetzungen für die Anerkennung von Gesundheitsgarantien
+
+[^t-2]: Bereinigt gemäss Ziff. I der V des BLV vom 11. Juli 2016 ([AS 2016 2557](https://fedlex.data.admin.ch/eli/oc/2016/403)) und vom 13. Okt. 2016, in Kraft seit 15. Okt. 2016 ([AS 2016 3441](https://fedlex.data.admin.ch/eli/oc/2016/580)).
+
+### 1 Gesundheitsgarantien für Tiere der Rindergattung
+
+Die Gesundheitsgarantien nach Artikel 2 Absatz 1 Buchstabe a werden nur anerkannt, wenn die Anforderungen nach den Artikeln 2 und 3 der Entscheidung 2004/558/EG[^annex2-lvlu1-lvl1-1] erfüllt sind.
+
+[^annex2-lvlu1-lvl1-1]: Entscheidung 2004/558/EG der Kommission vom 15. Juli 2004 zur Umsetzung der Richtlinie 64/432/EWG des Rates hinsichtlich ergänzender Garantien im innergemeinschaftlichen Handel mit Rindern in Bezug auf die infektiöse bovine Rhinotracheitis und der Genehmigung der von einigen Mitgliedstaaten vorgelegten Tilgungsprogramme, ABl. L 249 vom 23.7.2004, S. 20; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1101, ABl. L 182 vom 7.7.2016, S. 51.
+
+### 2 Gesundheitsgarantien für Tiere der Schweinegattung
+
+Die Gesundheitsgarantien nach Artikel 2 Absatz 1 Buchstabe b werden nur anerkannt, wenn die Anforderungen nach Artikel 1 der Entscheidung 2008/185/EG[^annex2-lvlu1-lvl2-1] erfüllt sind.
+
+[^annex2-lvlu1-lvl2-1]: Entscheidung 2008/185/EG der Kommission vom 21. Februar 2008 zur Festlegung zusätzlicher Garantien für den innergemeinschaftlichen Handel mit Schweinen hinsichtlich der Aujeszky-Krankheit und der Kriterien für die Informationsübermittlung, ABl. L 59 vom 4.3.2008, S. 19; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1782, ABl. L 272 vom 7.10.2016, S. 90.
+
+Anhang 3*[^t-3]*
+
+(Art. 3)
+
+## Tierprodukte mit erhöhtem tierseuchenpolizeilichem oder lebensmittelhygienischem Risiko
+
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)).
+
+Tierprodukte mit erhöhtem tierseuchenpolizeilichem oder lebensmittelhygienischem Risiko nach Artikel 8 Absatz 1 Buchstabe a EDAV-DS sind Tierprodukte, für die eines der folgenden Begleitdokumente erforderlich ist:
+
+- 1\. Bescheinigung für die Einfuhr oder Durchfuhr von rohem Heimtierfutter zur Abgabe an den Endverbraucher oder die Endverbraucherin oder von tierischen Nebenprodukten zur Verfütterung an Pelztiere nach Anhang XV Kapitel 3 Buchstabe D der Verordnung (EU) Nr. 142/2011[^annex3-lvlu1-1].
+- 2\. Bescheinigung für die Einfuhr oder Durchfuhr von tierischen Nebenprodukten zur Verwendung bei der Herstellung von Heimtierfutter nach Anhang XV Kapitel 3 Buchstabe F der Verordnung (EU) Nr. 142/2011.
+- 2a. Bescheinigung für die Einfuhr oder Durchfuhr von unbehandelten Blutprodukten, ausgenommen von Equiden, zur Herstellung von Folgeprodukten für Verwendungszwecke ausserhalb der Futtermittelkette für Nutztiere nach Anhang XV Kapitel 4 Buchstabe C der Verordnung (EU) Nr. 142/2011; nicht als Tierprodukte mit erhöhtem tierseuchenpolizeilichen oder lebensmittelhygienischem Risiko gelten jedoch Blutprodukte, bei denen die Auflagen gemäss Fussnote 4 in der Bescheinigung nicht zum Tragen kommen.
+- 3\. Bescheinigung für die Einfuhr oder Durchfuhr von tierischen Nebenprodukten zur Verwendung ausserhalb der Futtermittelkette oder für Handelsmuster nach Anhang XV Kapitel 8 der Verordnung (EU) Nr. 142/2011.
+- 4\. Bescheinigung für die Einfuhr oder Durchfuhr von nicht zum menschlichen Verzehr bestimmten ausgeschmolzenen Fetten für bestimmte Verwendungszwecke ausserhalb der Futtermittelkette nach Anhang XV Kapitel 10 Buchstabe B der Verordnung (EU) Nr. 142/2011.
+- 5\. Bescheinigung für die Einfuhr oder Durchfuhr von nicht zum menschlichen Verzehr bestimmten Fettderivaten zur Verwendung ausserhalb der Futtermittelkette nach Anhang XV Kapitel 14 Buchstabe A der Verordnung (EU) Nr. 142/2011.
+- 6\. Bescheinigung für die Einfuhr oder Durchfuhr von nicht zum menschlichen Verzehr bestimmten Fettderivaten zur Verwendung als Futtermittel oder ausserhalb der Futtermittelkette nach Anhang XV Kapitel 14 Buchstabe B der Verordnung (EU) Nr. 142/2011.
+- 7\. Mustererklärung für die Einfuhr von Knochen und Knochenprodukten (ausgenommen Knochenmehl), Hörnern und Hornprodukten (ausgenommen Hornmehl) sowie Hufen und Hufprodukten (ausgenommen Hufmehl), die nicht zur Verwendung als Futtermittel-Ausgangserzeugnisse, organische Düngemittel oder Bodenverbesserungsmittel bestimmt sind, nach Anhang XV Kapitel 16 der Verordnung (EU) Nr. 142/2011.
+- 8\. Bescheinigung für die Einfuhr oder Durchfuhr von Hörnern und Hornprodukten (ausser Hornmehl) sowie Hufen und Hufprodukten (ausser Hufmehl), die zur Herstellung von organischen Düngemitteln oder Bodenverbesserungsmitteln bestimmt sind, nach Anhang XV Kapitel 18 der Verordnung (EU) Nr. 142/2011.
+- 9\. Bescheinigung für die Einfuhr von nicht zum menschlichen Verzehr bestimmter Gelatine zur Verwendung in der Fotoindustrie nach Anhang XV Kapitel 19 der Verordnung (EU) Nr. 142/2011.
+
+[^annex3-lvlu1-1]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/797, ABl. L 194 vom 18.6.2020, S. 1.
+
+Anhang 4*[^t-4]*
+
+(Art. 5)
+
+## Mitführen von Tierprodukten im Reiseverkehr
+
+[^t-4]: Fassung gemäss Ziff. I Abs. 2 der V des BLV vom 13. Juli 2020, in Kraft seit 15. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)).
+
+I. Nicht ein- oder durchgeführt werden dürfen:
+
+- a. tierische Nebenprodukte sowie tierische Samen, Eizellen und Embryonen zu Zuchtzwecken, bei denen nach Artikel 6 eine grenztierärztliche Kontrolle vorgeschrieben ist, mit Ausnahme von medizinischer Spezialnahrung für Tiere nach Ziffer III Ziffer 1; und
+- b. die folgenden Lebensmittel, mit Ausnahme von Lebensmitteln nach Ziffer II und der Einfuhr nach Ziffer III Ziffer 4:
+
+<table>
+<tr><th>Zolltarifnummer</th><th>Bezeichnung</th><th>Geltungsbereich</th></tr>
+<tr><td>1. ex Kapitel 2</td><td>Fleisch und geniessbare Schlachtnebenprodukte</td><td>Alle ausser Froschschenkel</td></tr>
+<tr><td>2. 0401–0406</td><td>Milch und Molkereiprodukte</td><td>Alle</td></tr>
+<tr><td>3. 0504</td><td>Därme, Blasen und Mägen von anderen Tieren als Fischen</td><td>Alle</td></tr>
+<tr><td>4. 1501</td><td>Schweinefett, einschliesslich Schweineschmalz, und Geflügelfett</td><td>Alle</td></tr>
+<tr><td>5. 1502</td><td>Fette von Tieren der Rinder-, Schaf- oder Ziegengattung</td><td>Alle</td></tr>
+<tr><td>6. 1503</td><td>Schmalzstearin, Schmalzöl, Oleostearin, Oleomargarin und Talgöl</td><td>Alle</td></tr>
+<tr><td>7. 1506</td><td>Andere tierische Fette und Öle und ihre Fraktionen</td><td>Alle</td></tr>
+<tr><td>8. 1601</td><td>Würste und ähnliche Erzeugnisse aus Fleisch, Schlachtnebenprodukten oder Blut; Nahrungsmittelzubereitungen auf der Grundlage dieser Erzeugnisse</td><td>Alle</td></tr>
+<tr><td>9. 1602</td><td>Andere Zubereitungen und Konserven aus Fleisch, Schlachtnebenprodukten oder Blut</td><td>Alle</td></tr>
+<tr><td>10. 1702.1100 1702.1900</td><td>Lactose und Lactosesirup</td><td>Alle</td></tr>
+<tr><td>11. ex 1901</td><td>Malzextrakt; Nahrungsmittelzubereitungen aus Mehl, Grütze, Griess, Stärke oder Malzextrakt</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>12. ex 1902</td><td>Teigwaren wie Spaghetti, Makkaroni, Nudeln, Lasagne, Gnocchi, Ravioli oder Cannelloni; Couscous</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>13. ex 1905 90</td><td>Brot und andere gewöhnliche Backwaren, Kuchen, Biscuits und andere Backwaren; Hostien, leere Oblatenkapseln der für Arzneiwaren verwendeten Art, Siegeloblaten, getrocknete Teigblätter aus Mehl oder Stärke und ähnliche Waren</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>14. ex 2004, ex 2005</td><td>Gemüse, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>15. ex 2103</td><td>Zubereitungen zum Herstellen von Gewürzsaucen und zubereitete Gewürzsaucen; zusammengesetzte Würzmittel</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>16. ex 2104</td><td>Zubereitungen zum Herstellen von Suppen oder Brühen; zubereitete Suppen oder Brühen; zusammengesetzte homogenisierte Nahrungsmittelzubereitungen</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>17. ex 2105</td><td>Speiseeis</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+<tr><td>18. ex 2106</td><td>Nahrungsmittelzubereitungen, anderweit weder genannt noch inbegriffen</td><td>Nur Fleisch, Fleischerzeugnisse, Milch oder Milchprodukte enthaltende Zubereitungen</td></tr>
+</table>
+
+II. Uneingeschränkt ein- oder durchgeführt werden dürfen:
+
+- a. Fleischextrakte und Fleischkonzentrate;
+- b. für Endkonsumentinnen und -konsumenten abgepackte Fleischbrühen und Suppenaromen;
+- c.
+
+  die folgenden Lebensmittel, sofern sie kein Fleisch und keine Fleisch-erzeugnisse enthalten:
+
+  - 1\. Teigwaren,
+  - 2\. Brot, Kuchen, Biscuits und andere Backwaren,
+  - 3\. Schokolade,
+  - 4\. Süsswaren einschliesslich Süssigkeiten,
+  - 5\. mit Fisch gefüllte Oliven,
+  - 6\. für Endkonsumentinnen und -konsumenten abgepackte Nahrungsergänzungsmittel die keine unverarbeiteten tierischen Produkte enthalten;
+
+- d.
+
+  andere zusammengesetzte Lebensmittel, sofern sie:
+
+  - – weder Fleisch, Fleischerzeugnisse, Milch noch Milchprodukte enthalten, und
+  - – zu weniger als der Hälfte aus Eiprodukten oder Fischereierzeugnissen bestehen.
+
+III. Folgende Tierprodukte dürfen nur in den nachstehend aufgeführten Mengen ein- oder durchgeführt werden:
+
+<table>
+<tr><td>Produkt</td><td>Herkunft</td><td>Bedingungen</td></tr>
+<tr><td>1. Säuglingsmilchpulver, Säuglingsnahrung und medizinische Spezialnahrung für Mensch oder Tier, wenn: – die Produkte bei Raumtemperatur haltbar sind; – es sich um verpackte Markenprodukte zum direkten Verkauf an Endkonsumentinnen und ‑konsumenten handelt; und – die Packung nicht geöffnet ist, ausser sie ist gegenwärtig in Gebrauch.</td><td>Färöer, Grönland</td><td>höchstens 10 kg pro Person bzw. mitgeführtem Tier</td></tr>
+<tr><td>[tab]</td><td>Andere Drittstaaten</td><td>höchstens 2 kg pro Person bzw. mitgeführtem Tier</td></tr>
+<tr><td>2. Frische, ausgenommene Fische und Fischereierzeugnisse.</td><td>Färöer, Grönland</td><td>Ohne Gewichtsbeschränkung</td></tr>
+<tr><td>[tab]</td><td>Andere Drittstaaten</td><td>höchstens 20 kg pro Person oder ein ganzer, ausgenommener Fisch ohne Gewichtsbeschränkung pro Person</td></tr>
+<tr><td>3. Lebensmittel, die nicht in Ziffer I, II oder III Ziffern 1 und 2 aufgeführt sind, wie Eier, Honig, Froschschenkel, Gelatine, Landschnecken (nicht lebend), Insekten (nicht lebend) oder Kollagen.</td><td>Färöer, Grönland</td><td>höchstens 10 kg pro Person</td></tr>
+<tr><td>[tab]</td><td>Andere Drittstaaten</td><td>höchstens 2 kg pro Person</td></tr>
+<tr><td>4. Lebensmittel, die in Ziffer I Buchstabe b aufgeführt sind, sowie tierische Nebenprodukte, die zur Verfütterung an Heimtiere bestimmt sind.</td><td>Färöer, Grönland</td><td>höchstens 10 kg pro Person</td></tr>
+</table>
+
+Anhang 5
+
+(Art. 7)
+
+## Massgebende Erlasse der EU über die Kennzeichnung der äussersten Verpackung von Tierprodukten
+
+<table>
+<tr><th>EU-Erlass</th><th>Massgebende Bestimmungen</th></tr>
+<tr><th>Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs; ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) Nr. 1137/2014, ABl. L 307 vom 28.10.2014, S. 28.</th><th>Anhang II</th></tr>
+</table>
+
+Anhang 6
+
+(Art. 8)
+
+## Formale Anforderungen an die Gesundheitsbescheinigungen
+
+- 1 Die Vertreterin oder der Vertreter der zuständigen Behörde des Versandstaats oder des Unternehmens, die oder der eine Gesundheitsbescheinigung ausstellt, muss die Gesundheitsbescheinigung unterzeichnen und mit einem amtlichen Stempel versehen. Dies gilt bei mehrseitigen Gesundheitsbescheinigungen für jede Seite. Die Unterschrift und der Stempel müssen eine andere Farbe als die übrigen Angaben haben. Der Name und die Amtsbezeichnung der unterzeichnenden Person sind in einem gut leserlichen Aufdruck in Druckbuchstaben beizufügen.
+- 2 Die Gesundheitsbescheinigungen müssen inhaltlich und äusserlich dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde. Sie müssen vollständig ausgefüllt und dürfen nur für einen einzigen Bestimmungsbetrieb ausgestellt sein.
+- 3 Die Gesundheitsbescheinigungen müssen in deutscher, französischer, italienischer oder englischer Sprache und bei Durchfuhrsendungen nach den EU-Mitgliedstaaten, Island und Norwegen zusätzlich in einer Amtssprache des Bestimmungsstaates ausgestellt sein, oder es muss ihnen eine beglaubigte Übersetzung in die betreffende Sprache beiliegen.
+- 4
+
+  Die Gesundheitsbescheinigungen müssen bestehen aus:
+
+  - a. einem einzigen Blatt Papier;
+  - b. zwei oder mehr Seiten, die Teil eines zusammenhängenden, nicht zu trennenden Blattes Papier sind; oder
+  - c. einer Reihe nummerierter Seiten, auf denen jeweils angegeben ist, dass es sich um eine bestimmte Seite einer endlichen Reihe handelt (z. B. «Seite 2 von 4 Seiten»).
+
+- 5 Die Gesundheitsbescheinigungen müssen eine individuelle Identifizierungsnummer tragen. Besteht eine Gesundheitsbescheinigung aus einer Reihe von Seiten, so ist die Identifizierungsnummer auf jeder Seite anzugeben.
+- 6 Allfällige Änderungen sind durch Streichungen und mit Unterschrift und Stempel der ausstellenden Person zu kennzeichnen.
+- 7 Die Gesundheitsbescheinigungen müssen ausgestellt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörde des Versandstaats verlässt.
+
+Anhang 7
+
+(Art. 9)
+
+## Anforderungen an die Quarantänestationen
+
+- 1
+
+  Die Quarantänestationen müssen:
+
+  - a. unter dauernder Kontrolle und in der Verantwortung der amtlichen Tierärztin oder des amtlichen Tierarztes stehen; und
+  - b. genügend weit von Orten entfernt sein, wo sich Tierhaltungen mit Tieren befinden, die für die entsprechenden Tierseuchen empfänglich sind.
+
+- 2
+
+  Sie müssen verfügen über:
+
+  - a. leicht zu reinigende und zu desinfizierende Anlagen, die das Ent- und Beladen der verschiedenen Transportmittel sowie die Kontrolle, die Versorgung und die Pflege der Tiere ermöglichen und deren Fläche, Beleuchtung, Be- und Entlüftung und Versorgungsbereich der Zahl der unterzubringenden Tiere gerecht wird;
+  - b. ausreichend grosse Räume für die Unterbringung der Tiere sowie Umkleideräume, Duschen und Toiletten für das Personal, das mit der Durchführung der Kontrollen beauftragt ist;
+  - c. einen angemessenen Raum und angemessene Einrichtungen für die Entnahme und die Bearbeitung der Proben für die Routinekontrollen;
+  - d. Anlagen und Vorrichtungen für die Unterbringung, die Fütterung, das Tränken, die Pflege und gegebenenfalls die Schlachtung oder Tötung der Tiere;
+  - e. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES; und
+  - f. Reinigungs- und Desinfektionsmittel, -geräte und -vorrichtungen.
+
+Anhang 8
+
+(Art. 10)
+
+## Anforderungen an die Räume, Einrichtungen und Anlagen von zugelassenen Grenzkontrollstellen
+
+### 1 Für Tiere zugelassene Grenzkontrollstellen
+
+-
+
+  Die Grenzkontrollstellen müssen verfügen über:
+
+  - a. eine eigens dem Transport lebender Tiere vorbehaltene Zufahrt;
+  - b. leicht zu reinigende und zu desinfizierende Anlagen, die das Ent- und Beladen der verschiedenen Transportmittel sowie die Kontrolle, die Versorgung und die Pflege der Tiere ermöglichen und deren Fläche, Beleuchtung, Be- und Entlüftung und Versorgungsbereich der Zahl der zu kontrollierenden Tiere gerecht wird;
+  - c. ausreichend grosse Räume für die Unterbringung, Kontrolle und Beschlagnahme von Tieren sowie Umkleideräume, Duschen und Toiletten für das Personal, das mit der Durchführung der Kontrollen beauftragt ist;
+  - d. einen angemessenen Raum und angemessene Einrichtungen für die Entnahme und die Bearbeitung der Proben für die Routinekontrollen;
+  - e. die Dienste eines Labors, das in der Lage ist, spezielle Analysen der an dieser Grenzkontrollstelle entnommenen Proben durchzuführen;
+  - f. die Dienste eines in unmittelbarer Nähe gelegenen Betriebs, der mit Anlagen und Vorrichtungen für die Unterbringung, die Fütterung, das Tränken, die Pflege und gegebenenfalls die Schlachtung der Tiere ausgestattet ist;
+  - g. angemessene Anlagen für den Fall, dass die Grenzkontrollstellen als Warte- oder Umladestationen für Tiere genutzt werden, sodass diese abgeladen, getränkt, gefüttert, gegebenenfalls ordnungsgemäss untergebracht und gepflegt oder erforderlichenfalls an Ort und Stelle auf eine Weise getötet werden können, die ihnen unnötiges Leiden erspart;
+  - h. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES; und
+  - i. Reinigungs- und Desinfektionsmittel, -geräte und -vorrichtungen.
+
+### 2 Für Tierprodukte zugelassene Grenzkontrollstellen
+
+- 2\.1 Die Grenzkontrollstellen müssen so gebaut sein, dass ein angemessenes Hygieneniveau gewährleistet ist und Kreuzkontaminationen vermieden werden.
+- 2\.2
+
+  Die Räume der Grenzkontrollstelle, in denen Tierprodukte entladen, untersucht oder gelagert werden, müssen genügend gross sein und Folgendes aufweisen:
+
+  - a. glatte, abwaschbare Wände, die zusammen mit den Böden leicht zu reinigen und zu desinfizieren sind, sowie ein angemessenes Abflusssystem;
+  - b. leicht zu reinigende Decken;
+  - c. angemessene natürliche oder künstliche Beleuchtung; und
+  - d. angemessene Heiss- und Kaltwasserzufuhr in allen Untersuchungsräumen.
+
+- 2\.3 Grenzkontrollstellen bei der gleichen Zollstelle müssen in angemessener Arbeitsentfernung zueinander stehen.
+- 2\.4 Grenzkontrollstellen, die zur Abfertigung gekühlter, gefrorener oder bei Umgebungstemperatur haltbarer Produkte zugelassen sind, müssen in der Lage sein, Produkte in jeder Temperaturkategorie zur gleichen Zeit und in angemessenen Mengen zu lagern. Der Grenztierärztin oder dem Grenztierarzt muss jederzeit so viel Lagerraum wie nötig zur Verfügung stehen.
+- 2\.5 Für zur menschlichen Ernährung bestimmte Produkte, für die bestimmte Temperaturauflagen gelten, muss der Übergang vom Transport- zum Entladebereich nach draussen abgeschirmt oder abgedichtet sein.
+- 2\.6
+
+  Die Grenzkontrollstellen müssen verfügen über:
+
+  - a. ein Büro mit allen erforderlichen Kommunikationsmitteln, einschliesslich Telefon, Telefax, TRACES-Terminal und Fotokopiergerät, allen für die Durchführung der Kontrollen erforderlichen Dokumenten und Nachschlagewerken und einem Archivraum mit genügend Kapazität zur Aufbewahrung der Kontrollunterlagen;
+  - b. Sozialräume, einschliesslich Umkleideräume, Toiletten und Handwaschbecken für das Personal, die zusätzlich nur von anderen an amtlichen Kontrollen beteiligten Personen benutzt werden dürfen;
+  - c. einen geschlossenen oder überdachten Bereich zum Entladen von Transportmitteln;
+  - d. einen Kontrollraum, in dem Produkte kontrolliert und Proben für weitere Untersuchungen entnommen werden können; der Probenahmebereich kann sich innerhalb des Kontrollraums befinden;
+  - e. geeignete Lagerräume oder -bereiche, in denen beschlagnahmte Sendungen unter amtstierärztlicher Kontrolle gleichzeitig gekühlt, gefroren und bei Umgebungstemperatur gelagert werden können, bis die Ergebnisse etwaiger Laboruntersuchungen oder anderer Untersuchungen vorliegen;
+  - f. angemessene Räume und Einrichtungen für die Entnahme und die Bearbeitung der Proben für die Routinekontrollen;
+  - g. die Dienste eines Labors, das in der Lage ist, die Untersuchung der an dieser Grenzkontrollstelle entnommenen Proben durchzuführen;
+  - h. Räume und Kühleinrichtungen zur Lagerung der entnommenen Proben von Sendungen sowie der Tierprodukte, die von der verantwortlichen Grenztierärztin oder vom verantwortlichen Grenztierarzt nicht freigegeben worden sind;
+  - i. Kühlräume und Einrichtungen, die getrennt sind für Lebensmittel und andere Tierprodukte und für die verschiedenen Temperaturkategorien;
+  - j. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES;
+  - k. die Dienste eines Betriebs, der in der Lage ist, die in der Verordnung vom 25. Mai 2011[^annex8-lvlu1-lvl2-1] über die Entsorgung von tierischen Nebenprodukten vorgesehenen Behandlungen durchzuführen;
+  - l. an geeigneten Orten aufbewahrte Reinigungs- und Desinfektionsmittel, -geräte und ‑vorrichtungen oder Vergabe der Reinigungs- und Desinfektionsarbeiten an eine unabhängige Reinigungsfirma, wobei die Wirksamkeit der Arbeiten nachweislich dokumentiert sein muss; und
+  - m. Vorrichtungen, in denen Proben unter kontrollierten Temperaturbedingungen vor ihrer Weitersendung zum Labor vorübergehend gelagert werden können, sowie geeignete Transportbehälter für diese Proben.
+
+[^annex8-lvlu1-lvl2-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)

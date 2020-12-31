@@ -1,0 +1,1763 @@
+---
+sr: "172.220.114"
+title: Ordinanza del 27 agosto 2001 sul personale del Tribunale federale (OPersTF)
+short: OPersTF
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
+language: it
+version: 2021-01-01
+adopted: 2001-08-27
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-487-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul personale del Tribunale federale
+
+(OPersTF)
+
+del 27 agosto 2001 (Stato 1° gennaio 2021)
+
+Il Tribunale federale svizzero,
+
+visto l’articolo 37 capoverso 2 della legge federale del 24 marzo 2000[^ingress-1] sul personale federale (LPers),
+
+ordina:
+
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+## Sezione 1: Disposizioni generali
+
+### (art. 2 LPers)
+
+#### Art. 1
+
+<sup>1</sup> La presente ordinanza disciplina i rapporti di lavoro del personale[^1-1] del Tribunale federale. Circolari e direttive la completano.[^1-2]
+
+<sup>2</sup> L’ordinanza del 3 luglio 2001[^1-3] sul personale federale è applicabile nella misura in cui la presente ordinanza vi si riferisce.
+
+<sup>3</sup>
+
+La presente ordinanza non si applica:
+
+- a. al personale assoggettato al codice delle obbligazioni (CO)[^1-4] (art. 6 cpv. 5 e 6 LPers);
+- b. agli apprendisti assoggettati alla legge federale del 19 aprile 1978[^1-5] sulla formazione professionale.
+
+[^1-1]: Le designazioni delle funzioni contenute in questa O valgono indistintamente per le persone dei due sessi.
+[^1-2]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^1-3]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^1-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1-5]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)all. n. 1 e art. 25 cpv. 2, **1998** 1822 art. 2, **1999** 2374 n. I 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Ora: la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+
+## Sezione 2: Politica del personale
+
+#### Art. 2
+
+**Sviluppo e formazione del personale**
+
+### (art. 4 cpv. 2 lett. b LPers)
+
+<sup>1</sup> La politica del personale e dei quadri è intesa ad ampliare e rafforzare le competenze di tutti gli impiegati e a garantire la mobilità professionale. Gli impiegati sono messi in grado di partecipare attivamente ai cambiamenti necessari e di condividerli.
+
+<sup>2</sup> Gli impiegati sono tenuti ad acquisire una formazione conforme alle loro capacità e alle esigenze del proprio compito, come pure ad adeguarsi ai cambiamenti.
+
+<sup>3</sup> Il datore di lavoro sopporta i costi per la formazione seguita dagli impiegati nel suo interesse e mette a disposizione il tempo necessario.
+
+<sup>4</sup> Il datore di lavoro può imporre agli impiegati di sopportare, totalmente o in parte, i costi della formazione acquisita nel loro interesse e di prendere a loro carico, totalmente o in parte, il tempo necessario.
+
+<sup>5</sup>
+
+Il datore di lavoro può chiedere agli impiegati di rimborsare i costi di formazione sostenuti se:
+
+- a. interrompono la formazione; o
+- b. sciolgono il rapporto di lavoro nei due anni successivi alla conclusione della formazione e non rimangono alle dipendenze della Confederazione.[^2-1]
+
+<sup>6</sup> Il segretariato generale propone corsi o stages di formazione. Ai cancellieri, con la loro partecipazione, è proposto un programma specifico di formazione continua.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del TF del 22 giu. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3775](https://fedlex.data.admin.ch/eli/oc/2012/432)).
+
+#### Art. 3
+
+**Parità di trattamento fra uomo e donna; protezione della personalità**
+
+### (art. 4 cpv. 2 lett. d e g LPers)
+
+<sup>1</sup> Gli impiegati non possono essere avvantaggiati né svantaggiati a causa del loro sesso o del loro modo di vita.
+
+<sup>2</sup> I quadri tutelano la dignità della donna e dell’uomo sul posto di lavoro e prendono misure adeguate per prevenire ogni forma di molestia sessuale e di lesione della personalità.
+
+<sup>3</sup> Il Servizio del personale provvede a un’informazione adeguata del personale in merito alla legge federale del 24 marzo 1995[^3-1] sulla parità dei sessi. Le persone interessate si rivolgono al Servizio del personale in caso di problemi in quest’ambito.
+
+[^3-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+
+#### Art. 4
+
+**Servizio medico e provvedimenti d’integrazione[^4-1]**
+
+### (art. 4 cpv. 2 lett. g LPers)
+
+<sup>1</sup> Per accertamenti medici e misure di medicina del lavoro, il Tribunale federale ricorre alle prestazioni del servizio medico designato dal Dipartimento federale delle finanze (DFF).[^4-2]
+
+<sup>2</sup> Nel caso di impedimento al lavoro dovuto a malattia o infortunio dell’impiegato, si ricorrerà a tutte le possibilità sensate e opportune per reintegrare la persona interessata nel mondo del lavoro (provvedimenti d’integrazione). Nell’effettuare gli accertamenti possono essere coinvolti servizi specializzati idonei.[^4-3]
+
+<sup>3</sup> L’impiegato può essere obbligato a partecipare ai provvedimenti d’integrazione.[^4-4]
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del TF del 21 ago. 2008, in vigore dal 1° lug. 2008 ([RU 2008 4299](https://fedlex.data.admin.ch/eli/oc/2008/608)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^4-3]: Introdotto dal n. I dell’O del TF del 21 ago. 2008, in vigore dal 1° lug. 2008 ([RU 2008 4299](https://fedlex.data.admin.ch/eli/oc/2008/608)).
+[^4-4]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 5
+
+**Responsabilità familiari e impegni sociali**
+
+### (art. 4 cpv. 2 lett. i LPers)
+
+<sup>1</sup> Nella misura consentita dalle esigenze di servizio, le condizioni di lavoro sono disciplinate in modo da consentire agli impiegati di assumere le proprie responsabilità familiari e i propri impegni sociali.
+
+<sup>2</sup> Il Tribunale federale offre posti di lavoro a tempo parziale.
+
+#### Art. 6
+
+**Informazione**
+
+### (art. 4 cpv. 2 lett. k LPers)
+
+<sup>1</sup> I superiori e i collaboratori si scambiano le informazioni sui loro rispettivi compiti in modo tempestivo e adatto ai bisogni.
+
+<sup>2</sup> Il segretariato generale informa il personale in modo esaustivo e tempestivo sulle questioni di portata generale.
+
+## Sezione 3: Colloquio con il collaboratore e valutazione del personale
+
+#### Art. 7
+
+**Scopo**
+
+### (art. 4 cpv. 3 LPers)
+
+<sup>1</sup> Il colloquio contribuisce allo sviluppo delle attitudini del collaboratore; esso consente di comunicargli il riconoscimento e la critica e di verificare la sua situazione lavorativa. Durante il colloquio il collaboratore fornisce al superiore riscontri sul suo modo di gestire.
+
+<sup>2</sup> La valutazione del personale costituisce la base per l’evoluzione dello stipendio, attuata in funzione degli obiettivi convenuti in materia di prestazione e comportamento.
+
+#### Art. 8
+
+**Principi**
+
+### (art. 4 cpv. 3 LPers)
+
+<sup>1</sup> Ogni anno i superiori effettuano un colloquio con ogni collaboratore e una valutazione del personale.
+
+<sup>2</sup> I collaboratori sono informati sui principi determinanti per il colloquio, la valutazione e lo stipendio.
+
+<sup>3</sup> Il segretariato generale sviluppa gli strumenti appropriati.
+
+#### Art. 9
+
+**Livelli di valutazione**[^9-1]
+
+### (art. 4 cpv. 3 LPers)
+
+Le prestazioni del personale sono valutate secondo i seguenti quattro livelli:
+
+A+: molto buono: supera chiaramente le aspettative;
+
+A: buono: risponde pienamente alle aspettative;
+
+B:[^9-2] sufficiente: risponde in larga misura alle aspettative;
+
+C: insufficiente: non risponde alle aspettative.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del TF del 3 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 3961](https://fedlex.data.admin.ch/eli/oc/2009/507)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+
+## Sezione 4: Resoconto
+
+### (art. 5 LPers)
+
+#### Art. 10
+
+Il Servizio del personale raccoglie periodicamente, all’intenzione degli organi superiori e dell’Assemblea federale, i dati specifici sull’adempimento degli obiettivi della LPers e ne assicura il resoconto.
+
+## Sezione 5: Costituzione, modifica e risoluzione del rapporto di lavoro
+
+#### Art. 11
+
+**Messa a concorso**
+
+### (art. 7 LPers)
+
+<sup>1</sup> In generale, i posti vacanti sono messi a concorso. Come messa a pubblico concorso vale la pubblicazione nel bollettino dei posti vacanti della Confederazione.
+
+<sup>2</sup>
+
+Il datore di lavoro può rinunciare al pubblico concorso:
+
+- a. per posti di durata determinata fino a un anno;
+- b. per posti che saranno occupati internamente;
+- c. per motivi importanti;
+- d.[^11-1] per posti che saranno occupati nel quadro della reintegrazione professionale di collaboratori ammalati o infortunati e nel quadro dell’integrazione di persone disabili.
+
+<sup>3</sup> In via eccezionale può essere previsto un altro tipo di messa a concorso.
+
+[^11-1]: Introdotta dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 12
+
+**Accesso ai posti**
+
+### (art. 8 cpv. 3 LPers)
+
+Le funzioni del segretario generale e del suo sostituto sono riservate alle persone di cittadinanza svizzera.
+
+#### Art. 13
+
+**Contratto di lavoro**
+
+### (art. 8 LPers)
+
+<sup>1</sup> Il rapporto di lavoro è costituito mediante contratto scritto.
+
+<sup>2</sup>
+
+Il contratto contiene almeno:
+
+- a. i nomi delle parti contraenti;
+- b. l’inizio e la durata del rapporto di lavoro;
+- c. la funzione o il settore d’attività;
+- d. il luogo di lavoro e le condizioni di trasferimento;
+- e. il periodo di prova;
+- f. il tasso d’occupazione;
+- g.[^13-1] la classe di stipendio e lo stipendio;
+- h. l’istituto e il piano di previdenza;
+- i. eventuali obblighi di garantire regolarmente il lavoro nel fine settimana, di notte o un servizio di picchetto.
+
+<sup>3</sup> Il datore di lavoro può modificare il settore di attività e il luogo di lavoro senza disdire il contratto di lavoro, se tali misure sono necessarie per ragioni di servizio e ragionevolmente esigibili. La disdetta non è necessaria neppure se, nel quadro di una riorganizzazione, l’impiegato è integrato in un’altra unità.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 14
+
+**Periodo di prova**
+
+### (art. 8 LPers)
+
+<sup>1</sup> Se il contratto non dispone altrimenti, i primi tre mesi sono considerati periodo di prova. In casi giustificati esso può essere fissato o prolungato a sei mesi al massimo.
+
+<sup>2</sup> Il periodo di prova è fissato a sei mesi per i cancellieri, gli altri collaboratori scientifici e i responsabili dei servizi.
+
+<sup>3</sup> Per i rapporti di lavoro di durata determinata o in caso di mutazioni interne, il datore di lavoro può rinunciare, totalmente o in parte, al periodo di prova.
+
+#### Art. 15
+
+**Rapporti di lavoro di durata determinata**
+
+### (art. 9 cpv. 1 e 2 LPers)
+
+<sup>1</sup> Non possono essere costituiti rapporti di lavoro di durata determinata allo scopo di eludere la protezione dai licenziamenti ai sensi dell’articolo 10 LPers o l’obbligo di effettuare una messa a pubblico concorso.[^15-1]
+
+<sup>2</sup> e <sup>3</sup> ...[^15-2]
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^15-2]: Abrogati dal n. I dell’O del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)). Vedi anche la disp. trans. di detta mod. all’art. 89*a*.
+
+#### Art. 16
+
+**Passaggi all’amministrazione federale**
+
+### (art. 12 LPers)
+
+<sup>1</sup> Gli impiegati che passano a un’unità amministrativa della Confederazione devono disdire il contratto di lavoro con il Tribunale federale.
+
+<sup>2</sup> Le parti concordano il termine di trasferimento. In caso di disaccordo sono determinanti i termini di disdetta dell’articolo 12 capoversi 2 e 3 LPers.
+
+<sup>3</sup> Se il nuovo contratto di lavoro succede ininterrottamente a quello precedente, le disposizioni di protezione dalla disdetta dell’articolo 336*c* CO[^16-1] sono applicabili anche durante il periodo di prova convenuto.
+
+<sup>4</sup> Se il passaggio a un’unità amministrativa della Confederazione è temporaneo, il contratto di lavoro non deve essere disdetto. Le parti concordano le modalità del trasferimento temporaneo.
+
+[^16-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 17
+
+**Modifica del contratto di lavoro**
+
+### (art. 8 cpv. 1 e art. 13 LPers)
+
+<sup>1</sup> Ogni modifica del contratto richiede la forma scritta.
+
+<sup>2</sup> In difetto di un accordo sulla modifica del contratto quest’ultimo deve essere disdetto secondo le disposizioni dell’articolo 10 LPers, fatto salvo l’articolo 13 capoverso 3 LPers.[^17-1]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 17a
+
+**Termini di disdetta**[^17a-1]
+
+### (art. 12 cpv. 2 LPers)
+
+<sup>1</sup>
+
+Nel periodo di prova il rapporto di lavoro può essere disdetto ordinariamente:
+
+- a. durante i primi tre mesi con un preavviso di sette giorni;
+- b. a partire dal quarto mese per la fine del mese che segue la disdetta.
+
+<sup>2</sup>
+
+Dopo il periodo di prova il rapporto di lavoro può essere disdetto ordinariamente per la fine del mese. Occorre rispettare i seguenti termini minimi di preavviso:
+
+- a. due mesi nel primo anno di servizio;
+- b. tre mesi a partire dal secondo fino al nono anno di servizio compreso;
+- c. quattro mesi a partire dal decimo anno di servizio.
+
+<sup>3</sup> A seconda dei singoli casi, il datore di lavoro può accordare all’impiegato un termine di disdetta più breve se nessun interesse essenziale vi si oppone.
+
+[^17a-1]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 18
+
+**Risoluzione del rapporto di lavoro per colpa**
+
+### (art. 19 cpv. 1 e 2 LPers)
+
+<sup>1</sup>
+
+La risoluzione del rapporto di lavoro è considerata come dovuta a una colpa se:
+
+- a.
+
+  il contratto è sciolto dal datore di lavoro:
+
+  - 1\. per violazione di importanti obblighi legali o contrattuali,
+  - 2\. per continue o ripetute gravi mancanze nelle prestazioni o nel comportamento, nonostante un avvertimento scritto,
+  - 3\. per mancanza di disponibilità ad eseguire un altro lavoro ragionevolmente esigibile;
+
+- b. l’impiegato rifiuta un lavoro equivalente e ragionevolmente esigibile presso un datore di lavoro ai sensi dell’articolo 3 LPers.
+
+<sup>2</sup>
+
+La risoluzione del rapporto di lavoro è anche considerata come dovuta a una colpa se il contratto è sciolto dal datore di lavoro:
+
+- a. per incapacità o mancanza di disponibilità nell’effettuare il lavoro convenuto nel contratto di lavoro;
+- b. per circostanze, date le quali non si può pretendere in buona fede la continuazione del rapporto di lavoro.
+
+<sup>3</sup> Per ragioni importanti il datore di lavoro può stabilire che, nei casi previsti al capoverso 2, la disdetta è considerata non dovuta a una colpa.
+
+#### Art. 18a
+
+**Disdetta in caso d’impedimento al lavoro per malattia o infortunio**[^18a-1]
+
+### (art. 10 cpv. 3 e 12 cpv. 2 LPers)
+
+<sup>1</sup> In caso d’impedimento al lavoro per malattia o infortunio, una volta decorso il periodo di prova il datore di lavoro può disdire il rapporto di lavoro in via ordinaria al più presto per la fine di un periodo di impedimento al lavoro di almeno due anni.[^18a-2]
+
+<sup>2</sup> Se un motivo di disdetta secondo l’articolo 10 capoversi 3 e 4 LPers esisteva già prima dell’inizio dell’impedimento al lavoro per malattia o infortunio, il datore di lavoro può disdire il rapporto di lavoro prima del termine del periodo di cui al capoverso 1 invocando siffatto motivo, a condizione che il motivo di disdetta sia stato comunicato all’impiegato prima dell’inizio dell’impedimento al lavoro. È fatta salva la disdetta fondata sull’articolo 10 capoverso 3 lettera c LPers, a condizione che l’incapacità o l’inattitudine sia dovuta a motivi di salute.
+
+<sup>3</sup> Se l’impiegato si rifiuta di collaborare ai provvedimenti d’integrazione di cui all’articolo 4 capoverso 3 oppure non segue le prescrizioni mediche secondo l’articolo 67 capoverso 4, il datore di lavoro può disdire il rapporto di lavoro prima del termine del periodo di cui al capoverso 1, a condizione che esista un motivo di disdetta secondo l’articolo 10 capoversi 3 e 4 LPers.
+
+<sup>4</sup> Il datore di lavoro può disdire per inattitudine, prima del termine del periodo di cui al capoverso 1, il rapporto di lavoro di un impiegato nei confronti del quale l’assicurazione per l’invalidità ha riconosciuto una permanente incapacità parziale al lavoro, a condizione che gli sia offerto un lavoro ragionevolmente esigibile. La disdetta può essere data al più presto con effetto dall’inizio del versamento della rendita d’invalidità.
+
+[^18a-1]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)). Vedi anche la disp. trans. di detta mod. all’art. 89*a*.
+[^18a-2]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+
+#### Art. 19
+
+**Nomina per la durata dalla funzione**[^19-1]
+
+### (art. 14 LPers; art. 26 LTF)
+
+<sup>1</sup> Il rinnovo della nomina del segretario generale e del suo sostituto interviene al più tardi sei mesi prima della fine della durata della funzione. Il Tribunale federale decide liberamente sul rinnovo della nomina.
+
+<sup>2</sup> Il segretario generale e il suo sostituto possono disdire ordinariamente il rapporto di lavoro con un preavviso di sei mesi.
+
+<sup>3</sup> Per motivi gravi, il contratto di lavoro può essere disdetto immediatamente.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 20
+
+**Limite d’età**[^20-1]
+
+### (art. 10 cpv. 2 LPers)
+
+[^20-2]
+
+In singoli casi e d’intesa con la persona interessata, il rapporto di lavoro può essere prolungato oltre l’età ordinaria di pensionamento fino al 70° anno d’età al massimo.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del TF del 17 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 639](https://fedlex.data.admin.ch/eli/oc/2011/99)).
+[^20-2]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+
+#### Art. 21
+
+**Carriera dei cancellieri**
+
+Le condizioni d’assunzione e la carriera dei cancellieri sono disciplinate mediante direttiva.
+
+## Sezione 6: Stipendio
+
+#### Art. 22
+
+**Classi di stipendio**
+
+### (art. 15 LPers)
+
+Lo stipendio è fissato nell’ambito delle classi di stipendio ai sensi dell’articolo 36 dell’ordinanza del 3 luglio 2001[^22-1] sul personale federale (livello di valutazione A).
+
+[^22-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+#### Art. 23
+
+**Stipendio iniziale**
+
+### (art. 15 LPers)
+
+<sup>1</sup> Lo stipendio iniziale è stabilito in base alla formazione, all’esperienza e alla situazione sul mercato del lavoro.
+
+<sup>2</sup> In caso di cambiamento di funzione sono applicabili per analogia le direttive del Dipartimento federale delle finanze concernenti la fissazione degli stipendi.
+
+#### Art. 24
+
+**Stipendio in caso di occupazione a tempo parziale**
+
+### (art. 15 LPers)
+
+<sup>1</sup> Lo stipendio, l’indennità di residenza e gli assegni degli impiegati a tempo parziale corrispondono al loro tasso d’occupazione. Sono fatti salvi gli articoli 36 e 36*a*.[^24-1]
+
+<sup>2</sup> Se l’impiego è irregolare, si può convenire con gli impiegati un salario giornaliero, medio oppure orario.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5957](https://fedlex.data.admin.ch/eli/oc/2008/821)).
+
+#### Art. 24a
+
+**Stipendio in caso di capacità di rendimento ridotta**[^24a-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup>
+
+Qualora la capacità di rendimento dell’impiegato sia ridotta a causa di problemi di salute, le parti possono convenire una modifica del contratto di lavoro, secondo cui:
+
+- a. è applicato un tasso di occupazione più elevato rispetto a quello fissato nel contratto di lavoro per l’adempimento dei compiti; lo stipendio e l’indennità di residenza restano invariati;
+- b. per il medesimo tasso di occupazione, sono versati uno stipendio e un’indennità di residenza meno elevati, corrispondenti alla capacità di rendimento.
+
+<sup>2</sup> Il datore di lavoro verifica periodicamente la modifica del contratto di lavoro. Quest’ultima deve essere annullata non appena l’impiegato raggiunge nuovamente la capacità di rendimento richiesta per l’adempimento dei compiti.
+
+[^24a-1]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 25
+
+**Evoluzione dello stipendio**[^25-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup> L’importo massimo della classe di stipendio funge da base di calcolo per l’evoluzione dello stipendio in funzione della prestazione e dell’esperienza.
+
+<sup>2</sup>
+
+Sino all’importo massimo della classe di stipendio 26, lo stipendio viene aumentato annualmente come segue:
+
+- a. 0,5 per cento in caso di prestazioni sufficienti;
+- b.[^25-2] 3 per cento in caso di buone prestazioni;
+- c. 4 per cento in caso di prestazioni molto buone.[^25-3]
+
+<sup>3</sup>
+
+Al di sopra dell’importo massimo della classe di stipendio 26 lo stipendio viene aumentato annualmente sino all’importo massimo della classe di stipendio come segue:[^25-4]
+
+- a.[^25-5] 2 per cento in caso di buone prestazioni;
+- b. 3 per cento in caso di prestazioni molto buone.[^25-6]
+
+<sup>4</sup> Se i crediti attribuiti al datore di lavoro non sono sufficienti, gli aumenti previsti sono ridotti in modo corrispondente, principalmente per gli stipendi più alti.[^25-7]
+
+<sup>5</sup> e <sup>6</sup> ... [^25-8]
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del TF del 3 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 3961](https://fedlex.data.admin.ch/eli/oc/2009/507)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^25-3]: Nuovo testo giusta il n. I dell’O del TF del 19 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4105](https://fedlex.data.admin.ch/eli/oc/2015/688)).
+[^25-4]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^25-5]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^25-6]: Nuovo testo giusta il n. I dell’O del TF del 19 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4105](https://fedlex.data.admin.ch/eli/oc/2015/688)).
+[^25-7]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^25-8]: Abrogati dal n. I dell’O del TF del 18 dic. 2018, con effetto dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+
+#### Art. 26
+
+**Adeguamento straordinario dello stipendio in caso di nuovi compiti o di nuova valutazione della funzione**
+
+### (art. 15 LPers)
+
+<sup>1</sup> Se lo stipendio eccede la classe alla quale la funzione è attribuita, può essere ridotto all’importo massimo di questa classe di stipendio dopo due anni.
+
+<sup>2</sup> In vece di una riduzione dello stipendio e d’intesa con l’impiegato, la compensazione del rincaro può essere soppressa finché lo stipendio non eccede più l’importo massimo della classe di stipendio giustificata in base alla valutazione della funzione.
+
+<sup>3</sup> Se lo stipendio è troppo basso rispetto agli altri stipendi, può essere adattato. L’importo massimo della classe di stipendio corrispondente non può essere superato.
+
+#### Art. 27
+
+**Versamento**
+
+### (art. 15 LPers)
+
+Lo stipendio è versato in tredici parti.
+
+#### Art. 28
+
+**Indennità di residenza**[^28-1]
+
+### (art. 15 LPers)
+
+È versata l’indennità di residenza corrispondente a quella stabilita dal Consiglio federale per i rispettivi luoghi di servizio.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del TF del 21 ago. 2008, in vigore dal 1° lug. 2008 ([RU 2008 4299](https://fedlex.data.admin.ch/eli/oc/2008/608)).
+
+#### Art. 29
+
+**Compensazione del rincaro e aumento reale dello stipendio**[^29-1]
+
+### (art. 16 LPers)
+
+<sup>1</sup> Il Tribunale federale versa una compensazione del rincaro e un aumento reale dello stipendio corrispondenti a quelli stabiliti dal Consiglio federale per il personale dell’amministrazione generale della Confederazione.
+
+<sup>2</sup> L’indennità di residenza e gli assegni familiari sono adattati in modo corrispondente a quelli dell’amministrazione generale della Confederazione.[^29-2]
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del TF del 2 giu. 2008, in vigore dal 2 giu. 2008 ([RU 2008 2921](https://fedlex.data.admin.ch/eli/oc/2008/403)).
+[^29-2]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5957](https://fedlex.data.admin.ch/eli/oc/2008/821)).
+
+#### Art. 30
+
+**Indennità**
+
+### (art. 15 LPers)
+
+<sup>1</sup>
+
+Possono essere versate indennità per:
+
+- a. il lavoro domenicale e notturno ordinato;
+- b. il servizio di picchetto.
+
+<sup>2</sup> I principi del Dipartimento federale delle finanze sono applicati per analogia.[^30-1]
+
+[^30-1]: Introdotto dal n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 31
+
+**Misure particolari**
+
+### (art. 15 LPers)
+
+<sup>1</sup> Prestazioni corrispondenti ripetutamente al livello di valutazione C comportano misure di sviluppo delle attitudini, l’attribuzione a un posto meno esigente o altre misure appropriate. I casi sociali gravi sono tenuti adeguatamente in considerazione.
+
+<sup>2</sup> Qualora la valutazione globale risulti insufficiente, a partire dalla classe di stipendio 29 lo stipendio viene ridotto. La riduzione è dell’1 per cento per il primo anno e del 2 per cento dal secondo anno.[^31-1]
+
+<sup>3</sup> Se nonostante le misure adottate le prestazioni non migliorano, il rapporto di lavoro è disdetto.[^31-2]
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^31-2]: Introdotto dal n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+## Sezione 7: Retribuzioni speciali
+
+#### Art. 32
+
+**Indennità di funzione**
+
+### (art. 15 LPers)
+
+<sup>1</sup> Un’indennità di funzione può essere versata per compiti particolarmente esigenti ma che non giustificano un’attribuzione duratura a una classe di stipendio superiore*.*
+
+<sup>2</sup> L’indennità di funzione non deve superare la differenza tra l’importo massimo previsto dal contratto di lavoro e l’importo massimo della classe di stipendio della funzione superiore.
+
+<sup>3</sup> Le basi di calcolo del Dipartimento federale delle finanze sono applicate per analogia.
+
+#### Art. 33
+
+**Premi di risultato sotto forma di premi per prestazioni**[^33-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup> Prestazioni particolari possono essere onorate con premi di risultato sotto forma di premi unici per prestazioni fino al 6 per cento dell’importo massimo della classe di stipendio.
+
+<sup>2</sup> Quale ricompensa per prestazioni particolari possono essere corrisposti piccoli premi in natura.
+
+<sup>3</sup> I premi possono essere assegnati anche a gruppi di impiegati.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del TF del 3 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 3961](https://fedlex.data.admin.ch/eli/oc/2009/507)).
+
+#### Art. 34
+
+**Premi di risultato sotto forma di premi di riconoscimento**[^34-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup> Qualora lo stipendio abbia raggiunto l’importo massimo della classe di stipendio, può essere corrisposto un premio di risultato sotto forma di premio di riconoscimento, a condizione che le prestazioni corrispondano al livello di valutazione A+.
+
+<sup>2</sup> Il premio di riconoscimento ammonta al massimo al 5 per cento dell’importo massimo della classe di stipendio.
+
+<sup>3</sup> Non sussiste alcun diritto al premio di riconoscimento. Ogni anno, esso è oggetto di una nuova decisione.
+
+<sup>4</sup> I premi di riconoscimento possono essere assegnati, al massimo, al 18 per cento dei cancellieri e al 18 per cento degli altri impiegati.
+
+[^34-1]: Nuovo testo giusta il n. I dell’O del TF del 3 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 3961](https://fedlex.data.admin.ch/eli/oc/2009/507)).
+
+#### Art. 35
+
+**Indennità in funzione del mercato del lavoro**
+
+### (art. 15 LPers)
+
+Per acquisire e mantenere personale particolarmente qualificato e indurlo a rimanere, può essere versata un’indennità in funzione del mercato del lavoro fino al 20 per cento dell’importo massimo della classe di stipendio.
+
+#### Art. 36
+
+**Diritto all’assegno familiare**[^36-1]
+
+### (art. 31 cpv. 1 e 2 LPers)
+
+L’assegno familiare è versato fino a che il figlio ha compiuto i 18 anni d’età. Per i figli in formazione e i figli incapaci al guadagno (art. 7 della LF del 6 ottobre 2000[^36-2] sulla parte generale del diritto delle assicurazioni sociali), l’assegno familiare è versato al massimo fino al compimento del 25° anno d’età.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5957](https://fedlex.data.admin.ch/eli/oc/2008/821)).
+[^36-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 36a
+
+**Prestazioni complementari all’assegno familiare**[^36a-1]
+
+Il Tribunale federale versa prestazioni complementari all’assegno familiare di importo uguale a quelle versate nell’amministrazione generale della Confederazione.
+
+[^36a-1]: Introdotto dal n. I dell’O del TF del 20 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5957](https://fedlex.data.admin.ch/eli/oc/2008/821)).
+
+#### Art. 36b
+
+**Assegno per l’assistenza a congiunti**[^36b-1]
+
+La metà dell’importo dell’assegno previsto per ogni ulteriore figlio fino al compimento del 16° anno d’età può essere versato all’impiegato:
+
+- a. il cui coniuge o partner in unione domestica registrata è impedito durevolmente di esercitare un’attività lucrativa a causa di grave malattia;
+- b. che provvede al sostegno di parenti prossimi su ordine dell’autorità.
+
+[^36b-1]: Introdotto dal n. I dell’O del TF del 20 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5957](https://fedlex.data.admin.ch/eli/oc/2008/821)).
+
+## Sezione 8: Valutazione
+
+#### Art. 37
+
+**Valutazione della funzione**
+
+### (art. 15 LPers)
+
+<sup>1</sup> Ogni funzione è valutata e attribuita a una classe di stipendio.
+
+<sup>2</sup> I criteri determinanti per la valutazione sono la formazione preliminare chiesta, l’entità dei compiti e delle esigenze, come pure le responsabilità e i rischi inerenti alla funzione.
+
+<sup>3</sup> Il capo del personale prepara la valutazione. Egli applica le direttive del Dipartimento federale delle finanze per analogia e può chiedere il parere dell’Ufficio federale del personale.
+
+## Sezione 9: Tempo di lavoro, vacanze, congedi
+
+#### Art. 38
+
+**Tempo di lavoro**
+
+### (art. 17 LPers)
+
+<sup>1</sup> Per gli impiegati a tempo pieno la durata settimanale del lavoro è, in media, di 42 ore. Per gli impiegati a tempo parziale essa si riduce in funzione del tasso d’occupazione. Sono fatte salve le deroghe al disciplinamento applicabili ai quadri.
+
+<sup>2</sup> Se l’esercizio lo permette, agli impiegati sottoposti alla registrazione del tempo di lavoro sono offerte differenti forme di durata del lavoro. Esse si basano di norma sull’orario di lavoro mobile.
+
+<sup>3</sup> Agli impiegati sottoposti alla registrazione del tempo di lavoro, il datore di lavoro offre un tempo di lavoro tra le 40 e le 44 ore settimanali con compensazione delle ore in più o in meno mediante supplemento o riduzione di giorni di vacanza o di stipendio. Ai cancellieri sono offerti corrispondenti modelli di lavoro che prevedono giorni di vacanza supplementari contro riduzione dello stipendio.
+
+<sup>4</sup> Agli impiegati che hanno convenuto l’orario di lavoro basato sulla fiducia e che si dichiarano disposti a fornire ore supplementari senza compensazione del tempo di lavoro può essere concessa la stessa indennità riconosciuta al personale dell’amministrazione generale della Confederazione.[^38-1]
+
+<sup>5</sup> D’intesa con il datore di lavoro gli impiegati possono svolgere una parte del loro lavoro in telelavoro (lavoro mobile e lavoro a domicilio).[^38-2]
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del TF del 23 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2009 353](https://fedlex.data.admin.ch/eli/oc/2009/62)).
+[^38-2]: Introdotto dal n. I dell’O del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4965](https://fedlex.data.admin.ch/eli/oc/2020/882)).
+
+#### Art. 39
+
+**Lavoro aggiuntivo e lavoro supplementare**
+
+### (art. 17 LPers)
+
+<sup>1</sup> Su proposta dei quadri e per un periodo limitato, possono essere ordinati un lavoro aggiuntivo e un lavoro supplementare in caso di sovraccarico eccezionale di lavoro o di lavoro urgente.
+
+<sup>2</sup> In generale, il lavoro aggiuntivo e il lavoro supplementare devono essere compensati con un periodo di tempo libero della stessa durata.
+
+<sup>3</sup> Se non è possibile effettuare la compensazione con un periodo di tempo libero, i giorni di compensazione possono essere riportati sul prossimo anno civile oppure, in casi giustificati, sostituiti mediante versamento di un’indennità in contanti.
+
+<sup>4</sup>
+
+L’indennità ammonta:
+
+- a. al 100 per cento dello stipendio convertito in salario orario, per lavoro aggiuntivo che non eccede la durata settimanale massima del lavoro di 45 ore;
+- b. al 125 per cento dello stipendio convertito in salario orario, per lavoro supplementare che eccede la durata settimanale massima del lavoro di 45 ore.
+
+<sup>5</sup> Ogni anno civile possono essere sostituite mediante indennità in contanti complessivamente non più di 150 ore di lavoro aggiuntivo e supplementare.
+
+<sup>6</sup> Sul prossimo anno civile possono essere riportate complessivamente non più di 100 ore di lavoro aggiuntivo e supplementare.
+
+<sup>7</sup> Per gli impiegati a tempo parziale i capoversi 4–6 si applicano proporzionalmente al tasso d’occupazione.
+
+#### Art. 40
+
+**Giorni di libero**
+
+### (art. 17 LPers)
+
+<sup>1</sup>
+
+Se l’anno civile comprende:
+
+- a. meno di 63 domeniche e giorni festivi, i giorni di libero mancanti vengono compensati;
+- b. più di 63 domeniche e giorni festivi, i giorni supplementari sono computati sulle vacanze*.*
+
+<sup>2</sup> A Losanna sono considerati giorni festivi il Capodanno, il 2 gennaio, il Venerdì Santo, il Lunedì di Pasqua, l’Ascensione, il Lunedì di Pentecoste, il 1° agosto (giorno della Festa nazionale), il Lunedì della Festa federale di ringraziamento, il Natale e il giorno di Santo Stefano. Il personale ha libero anche il pomeriggio della vigilia di Natale e il pomeriggio di san Silvestro.[^40-1]
+
+<sup>3</sup> A Lucerna sono considerati giorni festivi il Capodanno, il 2 gennaio, il Venerdì Santo, il Lunedì di Pasqua, l’Ascensione, il Lunedì di Pentecoste, il Corpus Domini, il 1° agosto (giorno della Festa nazionale), l’Assunzione di Maria, il 2 ottobre, Ognissanti, l’Immacolata Concezione, il Natale e il giorno di Santo Stefano. Il personale ha libero anche una mezza giornata in occasione del giovedì grasso e del lunedì grasso, come pure il pomeriggio della vigilia di Natale e il pomeriggio di san Silvestro.[^40-2]
+
+<sup>4</sup> Per gli impiegati del Tribunale federale che lavorano altrove valgono le prescrizioni federali in vigore per le relative sedi.[^40-3]
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^40-2]: Introdotto dal n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^40-3]: Introdotto dal n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 41
+
+**Vacanze**
+
+### (art. 17 LPers)
+
+<sup>1</sup>
+
+Ogni anno civile gli impiegati hanno diritto a:
+
+- a. sei settimane di vacanza fino all’anno civile incluso in cui compiono il 20° anno d’età;
+- b. cinque settimane di vacanza a partire dall’anno civile in cui compiono il 21° anno d’età;
+- c. sei settimane di vacanza a partire dall’anno civile in cui compiono il 50° anno d’età;
+- d. sette settimane di vacanza a partire dall’anno civile in cui compiono il 60° anno d’età.
+
+<sup>2</sup> Le vacanze devono essere stabilite in modo da non pregiudicare l’andamento del lavoro e da consentire all’impiegato di riposare.
+
+<sup>3</sup> Di principio, le vacanze devono essere prese nel corso dell’anno civile in cui nasce il diritto. Se ciò non è possibile, esse devono essere prese l’anno successivo.
+
+<sup>4</sup>
+
+Le vacanze sono ridotte in proporzione alla durata delle assenze se durante un anno civile l’impiegato è assente dal lavoro più di:
+
+- a.[^41-1] 90 giorni complessivi di calendario per malattia, infortunio o servizio obbligatorio; nel calcolo della riduzione non è tenuto conto dei primi 90 giorni di assenza. Sono considerati giorni di assenza i giorni in cui l’impiegato non ha lavorato secondo il proprio tasso di occupazione;
+- b. 30 giorni per congedo non pagato.[^41-2]
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^41-2]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 42
+
+**Congedi**
+
+### (art. 17 LPers)
+
+<sup>1</sup> Gli impiegati che devono o vogliono sospendere in casi particolari il lavoro, devono presentare una domanda di congedo pagato, parzialmente pagato o non pagato.
+
+<sup>2</sup> Nell’esame della domanda vengono considerati in modo adeguato il motivo e la situazione sul mercato del lavoro. Anche le prestazioni e il comportamento possono essere presi in considerazione.
+
+<sup>3</sup> Inoltre, le direttive del Dipartimento federale delle finanze sono applicabili per analogia.
+
+## Sezione 10: Altre prestazioni del datore di lavoro
+
+#### Art. 43
+
+**Apparecchi di lavoro, materiale**
+
+### (art. 18 cpv. 1 LPers)
+
+<sup>1</sup> Gli impiegati ricevono gli apparecchi di lavoro e il materiale necessari.
+
+<sup>2</sup> Può essere corrisposta un’indennità agli impiegati che, d’intesa con il datore di lavoro, utilizzano apparecchi di lavoro e materiale propri.
+
+#### Art. 44
+
+**Indumenti da lavoro**
+
+### (art. 18 cpv. 1 e art. 21 cpv. 1 lett. c LPers)
+
+Gli uscieri e i collaboratori della soprintendenza dell’immobile portano un indumento da lavoro. Esso è fornito loro gratuitamente.
+
+#### Art. 45
+
+**Spese**
+
+### (art. 18 cpv. 2 LPers)
+
+<sup>1</sup> Agli impiegati sono rimborsate le spese supplementari sostenute nell’esercizio della loro professione.
+
+<sup>2</sup>
+
+I tassi stabiliti dal Dipartimento federale delle finanze sono analogicamente applicabili per:
+
+- a. i pasti, l’alloggio e i viaggi;
+- b. i viaggi di servizio all’estero;
+- c. la partecipazione a conferenze internazionali;
+- d. il trasloco per motivi di servizio;
+- e. le spese di rappresentanza.
+
+#### Art. 46
+
+**Premi di fedeltà**[^46-1]
+
+### (art. 32 lett. b LPers)
+
+<sup>1</sup> Un premio di fedeltà può essere attribuito dopo dieci anni d’impiego e, in seguito, dopo ogni ulteriore 5° anno d’impiego.[^46-2]
+
+<sup>2</sup>
+
+Il premio di fedeltà consiste in:
+
+- a. metà di uno stipendio mensile dopo il 10° e il 15° anno d’impiego;
+- b. uno stipendio mensile dopo il 20° anno e in seguito dopo ogni 5° anno d’impiego.[^46-3]
+
+<sup>3</sup> Il premio di fedeltà viene in linea di principio corrisposto in contanti. D’intesa con il superiore e a titolo eccezionale gli impiegati lo possono prendere sotto forma di congedo pagato.
+
+<sup>4</sup> Il premio può essere rifiutato totalmente o in parte agli impiegati le cui prestazioni o il cui comportamento sono soltanto parzialmente soddisfacenti.
+
+<sup>5</sup> Per determinare il numero degli anni d’impiego sono presi in considerazione, indipendentemente dal tasso d’occupazione, i rapporti di lavoro ininterrotti presso unità amministrative della Confederazione. Il periodo di tirocinio secondo la legge del 13 dicembre 2002[^46-4] sulla formazione professionale non è preso in considerazione.[^46-5]
+
+[^46-1]: Nuovo testo giusta il n. I dell’O del TF del 3 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 3961](https://fedlex.data.admin.ch/eli/oc/2009/507)).
+[^46-2]: Nuovo testo giusta il n. I dell’O del TF del 19 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4105](https://fedlex.data.admin.ch/eli/oc/2015/688)).
+[^46-3]: Nuovo testo giusta il n. I dell’O del TF del 19 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4105](https://fedlex.data.admin.ch/eli/oc/2015/688)).
+[^46-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^46-5]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)). Vedi anche la disp. trans. di detta mod. all’art. 89*a*.
+
+#### Art. 47
+
+**Proposte di miglioramento**
+
+### (art. 32 lett. c LPers)
+
+<sup>1</sup> Mediante misure appropriate, i quadri sostengono un comportamento innovativo e promuovono l’attuazione di proposte di miglioramento.
+
+<sup>2</sup> Le proposte attuate possono essere ricompensate con un premio in contanti o con altre prestazioni di uguale controvalore.
+
+#### Art. 48
+
+**Sostegno di infrastrutture a favore del personale**
+
+### (art. 32 lett. e LPers)
+
+[^48-1]
+
+<sup>1</sup>
+
+Per agevolare le condizioni o l’organizzazione individuale del lavoro, il datore di lavoro può sostenere infrastrutture a favore del personale, come:
+
+- a. la custodia dei bambini, complementare alla custodia assicurata dalla famiglia;
+- b. ristoranti per il personale, locali ricreativi e altre strutture intese a mantenere e migliorare le prestazioni degli impiegati.
+
+<sup>2</sup> Le condizioni favorevoli accordate sui capitali a risparmio depositati presso la Cassa di risparmio del personale federale sono rette dalle disposizioni dei relativi istituti.[^48-2]
+
+<sup>3</sup> Il datore di lavoro può sostenere le iniziative destinate a promuovere i contatti tra gli impiegati attivi e pensionati.
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^48-2]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 49
+
+**Spese di procedura e ripetibili**
+
+### (art. 18 cpv. 2 LPers)
+
+<sup>1</sup>
+
+Il datore di lavoro rimborsa le spese di procedura e le ripetibili agli impiegati coinvolti in un procedimento civile o penale in seguito all’esercizio della loro attività di servizio, se:
+
+- a. il procedimento è in relazione con l’attività di servizio;
+- b. l’atto non è stato commesso né per negligenza grave né intenzionalmente; e
+- c. la Confederazione ha un interesse allo svolgimento del processo.
+
+<sup>2</sup> Fintanto che la decisione non sia cresciuta in giudicato, sono fornite unicamente garanzie di pagamento. Per motivi importanti le spese possono essere eccezionalmente rimborsate prima della crescita in giudicato della decisione.
+
+#### Art. 50
+
+**Versamento di indennità**
+
+### (art. 19 LPers)
+
+<sup>1</sup>
+
+Se il datore di lavoro disdice i rapporti di lavoro senza che agli impiegati sia imputata una colpa, hanno diritto a un’indennità, fatto salvo il capoverso 4:
+
+- a. gli impiegati che rivestono una funzione altamente specializzata, per la quale la domanda è inesistente o molto debole;
+- b. gli impiegati il cui rapporto di lavoro presso un datore di lavoro ai sensi dell’articolo 3 LPers è durato ininterrottamente per 20 anni;
+- c. gli impiegati con almeno 50 anni d’età.
+
+<sup>2</sup> Se al segretario generale o al suo supplente non è rinnovata la nomina, senza che gli sia imputata una colpa, egli ha diritto a un’indennità conformemente all’articolo 51 capoverso 1.
+
+<sup>3</sup>
+
+Hanno diritto ad altre indennità ai sensi dell’articolo 19 capoverso 4 LPers in caso di risoluzione del rapporto di lavoro, fatto salvo il capoverso 4:[^50-1]
+
+- a. in singoli casi i quadri superiori;
+- b. gli impiegati ai quali si applica un piano sociale.
+
+<sup>4</sup>
+
+Non è corrisposta alcuna indennità se:
+
+- a. i rapporti di lavoro proseguono presso un datore di lavoro ai sensi dell’articolo 3 LPers;
+- b.[^50-2] ...
+- c. il rapporto di lavoro è risolto per colpa della persona interessata (art. 18).
+
+<sup>5</sup> Le persone assunte presso un datore di lavoro ai sensi dell’articolo 3 LPers entro un anno dalla risoluzione del rapporto di lavoro devono restituire totalmente o in parte l’indennità di cui ai capoversi 1 e 2.[^50-3]
+
+[^50-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^50-2]: Abrogata dal n. I dell’O del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^50-3]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 51
+
+**Importo delle indennità**
+
+### (art. 19 cpv. 5 LPers)
+
+[^51-1]
+
+<sup>1</sup> L’indennità di cui all’articolo 50 capoversi 1, 2 e 3 corrisponde almeno a uno stipendio mensile e al massimo a uno stipendio annuale.[^51-2]
+
+<sup>2</sup> ...[^51-3]
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^51-2]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^51-3]: Abrogato dal n. I dell’O del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 52
+
+**Prestazioni in caso d’impegno in organizzazioni internazionali**
+
+### (art. 17 e 18 cpv. 2 Lpers)
+
+Per promuovere l’impegno degli impiegati presso organizzazioni internazionali, possono essere accordate, in particolare, le seguenti prestazioni:
+
+- a. un congedo pagato, parzialmente pagato o non pagato della durata massima di cinque anni;
+- b. l’assunzione di costi straordinari connessi all’impiego, nella misura in cui non sono sopportati, con prestazioni corrispondenti, dall’organizzazione internazionale.
+
+## Sezione 10*a*:**** Previdenza professionale
+
+[^sec10a-1]
+
+[^sec10a-1]: Introdotta dal n. I dell’O del TF del 21 ago. 2008, in vigore dal 1° lug. 2008 ([RU 2008 4299](https://fedlex.data.admin.ch/eli/oc/2008/608)).
+
+#### Art. 52a
+
+**Salario assicurabile**
+
+### (art. 32*g* cpv. 5 LPers)
+
+<sup>1</sup> Sono assicurati presso PUBLICA, nel quadro delle disposizioni regolamentari, lo stipendio e le componenti dello stipendio di cui all’allegato 2 dell’ordinanza del 3 luglio 2001[^52a-1] sul personale federale.
+
+<sup>2</sup> Se, secondo l’articolo 26 capoverso 2, a un impiegato non viene versata alcuna indennità di rincaro, oppure se, secondo l’articolo 67 capoverso 2 o 3, il salario di un impiegato viene ridotto, il salario assicurabile precedente resta invariato fintanto che l’indennità di rincaro è di nuovo versata o il diritto al salario in caso di malattia o di infortunio si estingue.
+
+<sup>3</sup> ...[^52a-2]
+
+<sup>4</sup> Nel caso di misure legate a ristrutturazioni secondo l’articolo 77, il salario assicurabile è determinato in funzione del piano sociale.
+
+[^52a-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^52a-2]: Abrogato dal n. I dell’O del TF del 29 giu. 2015, con effetto dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+
+#### Art. 52b
+
+**Comunicazione**
+
+Il salario assicurabile è comunicato a PUBLICA quale stipendio determinante dal servizio del personale del Tribunale federale.
+
+#### Art. 52c
+
+**Partecipazione al riscatto**
+
+### (art. 32 lett. a LPers)
+
+Il datore di lavoro può partecipare al riscatto regolamentare finanziandolo mediante i propri crediti per il personale se, in occasione di una nuova assunzione, la previdenza sembra inadeguata rispetto all’importanza della funzione e delle qualifiche della persona da assumere.
+
+#### Art. 52d
+
+**Congedo**
+
+### (art. 17 e 31 cpv. 5 LPers)
+
+<sup>1</sup> In caso di congedo non pagato o parzialmente pagato la copertura assicurativa rimane immutata per almeno due mesi.
+
+<sup>2</sup> Se il datore di lavoro accorda un congedo non pagato o parzialmente pagato di più di due mesi, prima dell’inizio di tale congedo conviene con l’impiegato se e come continueranno a sussistere l’assicurazione e l’obbligo di pagare i contributi a partire dal terzo mese di congedo.
+
+<sup>3</sup> Se dal terzo mese di congedo non assume più i suoi contributi o i premi di rischio, il datore di lavoro comunica il congedo a PUBLICA. La persona assicurata può mantenere la copertura assicurativa avuta finora pagando, oltre ai contributi di risparmio, anche i contributi di risparmio del datore di lavoro e i premi di rischio, o limitare l’assicurazione alla copertura dei rischi di morte e invalidità.
+
+<sup>4</sup> I contributi dovuti dall’impiegato durante il suo congedo sono dedotti dal suo salario alla ripresa del lavoro.
+
+#### Art. 52d<sup>bis</sup>
+
+**Continuazione della previdenza in seguito alla riduzione dello stipendio**[^52dbis-1]
+
+<sup>1</sup> Se lo stipendio assicurabile di un impiegato che ha compiuto il 58° anno d’età è diminuito al massimo della metà, l’impiegato può mantenere, dietro sua richiesta, la previdenza per la copertura assicurativa precedente (art. 33*a* della LF del 25 giugno 1982[^52dbis-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, LPP) pagando, oltre ai propri contributi di risparmio, anche i contributi di risparmio del datore di lavoro e il premio di rischio sulla quota del guadagno finora assicurato corrispondente alla riduzione dello stipendio.
+
+<sup>2</sup> In caso di adeguamenti generali dello stipendio, segnatamente di aumenti reali dello stipendio e correzioni generali di classificazione, i contributi versati non sono adeguati alla quota corrispondente alla riduzione dello stipendio.
+
+<sup>3</sup> Se la riduzione dello stipendio assicurato è effettuata nell’interesse del datore di lavoro, questo può finanziare a carico dei crediti per il personale i contributi di risparmio e il premio di rischio per la continuazione della previdenza, al massimo in ragione del 50 per cento. La partecipazione ai costi può essere limitata nel tempo.
+
+[^52dbis-1]: Introdotto dal n. I dell’O del TF del 17 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 639](https://fedlex.data.admin.ch/eli/oc/2011/99)).
+[^52dbis-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 52d<sup>ter</sup>
+
+**Continuazione della previdenza dopo il compimento del 65° anno d’età**[^52dter-1]
+
+Se il datore di lavoro e l’impiegato convengono il proseguimento del rapporto di lavoro oltre il 65° anno d’età, l’impiegato può richiedere la continuazione della previdenza per la vecchiaia fino alla cessazione dell’attività lucrativa, ma al massimo fino al compimento del 70° anno d’età (art. 33*b* LPP[^52dter-2]). In questo caso il datore di lavoro finanzia i contributi di risparmio del datore di lavoro.
+
+[^52dter-1]: Introdotto dal n. I dell’O del TF del 17 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 639](https://fedlex.data.admin.ch/eli/oc/2011/99)).
+[^52dter-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 52e
+
+**Invalidità professionale**
+
+### (art. 32j cpv. 2 LPers)
+
+<sup>1</sup>
+
+Il servizio competente chiede a PUBLICA il versamento di una prestazione d’invalidità professionale per un impiegato, se:[^52e-1]
+
+- a. ha raggiunto il 50° anno d’età;
+- b. il servizio medico constata, su richiesta del datore di lavoro, che per motivi di salute l’impiegato è incapace di esercitare o può esercitare soltanto parzialmente l’attività esercitata finora o un’altra attività ragionevolmente esigibile da lui;
+- c. vi è una decisione passata in giudicato dell’ufficio AI competente che esclude il diritto a una rendita o che prevede soltanto una rendita parziale; e
+- d. i provvedimenti d’integrazione ai sensi dell’articolo 4 capoverso 2 sono stati infruttuosi senza che vi fosse colpa dell’impiegato.
+
+<sup>2</sup> Le modalità del diritto alla prestazione di invalidità professionale nonché il genere e l’importo della stessa sono disciplinati nel Regolamento di previdenza per gli impiegati e i beneficiari di rendite della Cassa di previdenza della Confederazione (RPIC).
+
+[^52e-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 52f
+
+**Rendita transitoria**
+
+### (art. 32k cpv. 2 LPers)
+
+<sup>1</sup> Se una persona percepisce una rendita transitoria intera o una mezza rendita transitoria secondo il RPIC, il datore di lavoro assume una parte dei costi per il finanziamento della rendita transitoria effettivamente percepita. L’importo della partecipazione del datore di lavoro è disciplinato nell’allegato 1 dell’ordinanza del 3 luglio 2001[^52f-1] sul personale federale.
+
+<sup>2</sup> Il diritto alla partecipazione del datore di lavoro non sussiste se la durata del rapporto di lavoro che precede immediatamente il pensionamento è inferiore a cinque anni.
+
+[^52f-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+## Sezione 11: Altri obblighi del personale
+
+#### Art. 53
+
+**Luogo di residenza**
+
+### (art. 21 cpv. 1 lett. a e art. 24 cpv. 2 lett. a LPers)
+
+<sup>1</sup> Gli impiegati devono poter raggiungere il Tribunale in un tempo ragionevole.
+
+<sup>2</sup> Il responsabile della soprintendenza dell’immobile e il suo sostituto sono tenuti a risiedere nell’alloggio di servizio a loro attribuito.
+
+#### Art. 54
+
+**Alloggio di servizio**
+
+### (art. 21 cpv. 1 lett. b LPers)
+
+I principi del Dipartimento federale delle finanze concernenti l’utilizzazione di alloggi di servizio e la relativa indennità sono applicabili per analogia.
+
+#### Art. 55
+
+**Occupazioni accessorie**
+
+### (art. 23 LPers)
+
+<sup>1</sup>
+
+Per esercitare cariche pubbliche e altre attività fuori del rapporto di lavoro con la Confederazione è necessaria un’autorizzazione se:
+
+- a. l’attività è retribuita, oppure
+- b. l’attività impegna gli impiegati in misura tale da diminuire le loro prestazioni nel quadro dei rispettivi rapporti di lavoro con la Confederazione, oppure
+- c. il tipo di attività rischia di generare un conflitto con gli interessi di servizio.
+
+<sup>2</sup> Per esercitare cariche pubbliche come pure attività nell’interesse del Tribunale federale può essere accordato un congedo pagato fino a 15 giorni.
+
+<sup>3</sup> Per gli impiegati a tempo parziale è necessaria un’autorizzazione solo per i motivi di cui al capoverso 1 lettere b e c.
+
+<sup>4</sup> Gli impiegati informano l’autorità competente sui fatti che possono far sorgere l’obbligo di autorizzazione.
+
+#### Art. 56
+
+**Obbligo di fornire tutto o parte del reddito ricavato da attività a favore di terzi**
+
+### (art. 21 cpv. 2 LPers)
+
+<sup>1</sup> L’autorizzazione di esercitare un’attività accessoria può essere gravata dell’obbligo di fornire al datore di lavoro una parte del reddito corrispondente.
+
+<sup>2</sup> Se l’attività esercitata a favore di terzi riveste un notevole interesse per la Confederazione, gli impiegati possono essere esentati totalmente o in parte dall’obbligo di fornire il reddito corrispondente.
+
+#### Art. 57
+
+**Accettazione di vantaggi**
+
+### (art. 21 cpv. 3 LPers)
+
+<sup>1</sup> Vantaggi esigui, conformi agli usi sociali, in particolare ricevuti nell’ambito di visite ufficiali, non sono considerati omaggi o altri vantaggi ai sensi dell’articolo 21 capoverso 3 LPers.
+
+<sup>2</sup> In caso di dubbio gli impiegati chiarificano con i propri superiori la liceità dell’accettazione di un vantaggio.
+
+#### Art. 58
+
+**Segreto professionale e d’ufficio**
+
+### (art. 22 LPers)
+
+<sup>1</sup> Gli impiegati sono tenuti a non divulgare le questioni professionali o giudiziarie che devono essere mantenute segrete per la loro natura o in virtù di disposizioni legali speciali.
+
+<sup>2</sup> L’obbligo di mantenere il segreto professionale e d’ufficio continua a sussistere anche dopo la cessazione del rapporto di lavoro.
+
+<sup>3</sup> Gli impiegati possono deporre in giudizio come parti, testimoni, persone informate sui fatti o periti giudiziari intorno a constatazioni attinenti ai loro compiti fatte in virtù di questi ultimi o nell’esercizio delle loro funzioni solo previa autorizzazione scritta dell’autorità competente secondo l’articolo 84 e 85. L’autorizzazione non è necessaria se le deposizioni concernono fatti che giustificano un obbligo di denuncia o di segnalazione degli impiegati secondo l’articolo 302 del Codice di procedura penale[^58-1] o l’articolo 22*a* capoversi 1 e 2 LPers.[^58-2]
+
+<sup>4</sup> Restano riservati gli articoli 150–156 in relazione con l’articolo 162 capoverso 1 lettera c della legge federale del 13 dicembre 2002[^58-3] sull’Assemblea federale.[^58-4]
+
+[^58-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^58-2]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^58-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^58-4]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 59
+
+[^59-1]
+
+[^59-1]: Abrogato dal n. I dell’O del TF del 20 nov. 2006, con effetto dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+## Sezione 12: Violazione degli obblighi professionali
+
+#### Art. 60
+
+**Inchiesta amministrativa**
+
+### (art. 25 LPers)
+
+<sup>1</sup> L’inchiesta amministrativa è intesa ad accertare se sussiste una situazione che richiede, nell’interesse pubblico, un intervento d’ufficio.
+
+<sup>2</sup> L’inchiesta amministrativa non è diretta contro una determinata persona.
+
+<sup>3</sup> L’inchiesta amministrativa è condotta da organi d’inchiesta non operanti nel settore in causa. Essa può essere affidata a persone esterne al Tribunale federale.
+
+<sup>4</sup> La procedura è retta dalla legge federale del 20 dicembre 1968[^60-1] sulla procedura amministrativa.
+
+[^60-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 61
+
+**Inchiesta disciplinare**
+
+### (art. 25 LPers)
+
+<sup>1</sup> Con l’apertura dell’inchiesta disciplinare è designata la persona incaricata di svolgerla. L’inchiesta può essere affidata a persone esterne al Tribunale federale.
+
+<sup>2</sup> La procedura disciplinare di prima istanza è disciplinata dalla legge federale del 20 dicembre 1968[^61-1] sulla procedura amministrativa.
+
+<sup>3</sup> L’inchiesta disciplinare termina con la cessazione del rapporto di lavoro.
+
+<sup>4</sup> Se la violazione di obblighi professionali conduce simultaneamente a un’inchiesta disciplinare e a un procedimento penale, la decisione in merito a misure disciplinari è rinviata fino al termine del procedimento penale. Per motivi importanti la decisione in merito a misure disciplinari può essere emessa prima della fine del procedimento penale.
+
+[^61-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 62
+
+**Misure disciplinari**
+
+### (art. 25 LPers)
+
+<sup>1</sup> Le misure disciplinari possono essere pronunciate solo al termine di un’inchiesta.
+
+<sup>2</sup>
+
+Contro gli impiegati che violano i loro obblighi professionali per colpa possono essere pronunciate le seguenti misure disciplinari:
+
+- a. avvertimento;
+- b.[^62-1] ...
+- c. modifica dell’ambito di attività.
+
+<sup>3</sup>
+
+Contro gli impiegati che violano i loro obblighi professionali intenzionalmente o per negligenza grave possono inoltre essere pronunciate le misure disciplinari seguenti:
+
+- a. riduzione dello stipendio fino al 10 per cento, per un anno al massimo;
+- b. multa fino a <sup>1</sup>/<sub>5</sub> dello stipendio mensile lordo;
+- c.[^62-2] cambiamento della durata del lavoro.
+
+[^62-1]: Abrogata dal n. I dell’O del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^62-2]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 63
+
+**Prescrizione**
+
+### (art. 25 LPers)
+
+<sup>1</sup> La responsabilità disciplinare degli impiegati si prescrive un anno dopo che la violazione degli obblighi professionali è stata scoperta e in ogni caso tre anni dopo l’ultima violazione.
+
+<sup>2</sup> La prescrizione è sospesa finché è in corso un procedimento penale promosso per il medesimo fatto oppure finché sono pendenti ricorsi proposti in una procedura disciplinare.
+
+#### Art. 64
+
+**Responsabilità civile**
+
+### (art. 25 LPers)
+
+La responsabilità degli impiegati per danni da loro causati alla Confederazione o a un terzo, come pure la procedura intesa alla riparazione di questo danno, sono determinate secondo la legge del 14 marzo 1958[^64-1] sulla responsabilità.
+
+[^64-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 65
+
+**Responsabilità penale**
+
+### (art. 25 LPers)
+
+<sup>1</sup> Se una violazione degli obblighi professionali può entrare in considerazione anche in quanto infrazione punibile secondo il diritto penale federale o cantonale, gli atti, con i verbali d’interrogatorio, sono trasmessi al Ministero pubblico della Confederazione.
+
+<sup>2</sup> L’apertura di un procedimento penale contro gli impiegati è disciplinata dall’articolo 7 dell’ordinanza del 30 dicembre 1958[^65-1] concernente la legge sulla responsabilità.
+
+[^65-1]: [RS 170.321](https://fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498)
+
+#### Art. 66
+
+**Sospensione dal servizio**
+
+### (art. 26 LPers)
+
+<sup>1</sup>
+
+In via cautelare, l’impiegato può essere immediatamente sospeso dalla sua attività o trasferito a un’altra funzione, segnatamente se:
+
+- a. sono constatati o supposti fatti gravi di natura penale o disciplinare, oppure
+- b. sono rilevate irregolarità ripetute, oppure
+- c. è ostacolato un procedimento in corso.
+
+<sup>2</sup> Simultaneamente, possono essere ridotti o soppressi lo stipendio e altre prestazioni.
+
+#### Art. 66a
+
+**Sospensione dopo disdetta**[^66a-1]
+
+### (art. 25 LPers)
+
+<sup>1</sup> Il servizio competente che ha disdetto il rapporto di lavoro può sospendere l’impiegato dal lavoro qualora non sia più data la necessaria fiducia.
+
+<sup>2</sup> L’impiegato deve notificare il reddito sostitutivo conseguito presso un altro datore di lavoro o mandante. Tale reddito è dedotto dallo stipendio.
+
+[^66a-1]: Introdtto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+## Sezione 13: Misure a favore del personale
+
+#### Art. 67
+
+**Diritto allo stipendio in caso di malattia o infortunio**[^67-1]
+
+### (art. 29 LPers)
+
+<sup>1</sup> In caso di impedimento al lavoro per malattia o infortunio, il datore di lavoro versa lo stipendio totale secondo gli articoli 15 e 16 LPers durante dodici mesi.
+
+<sup>2</sup> Scaduto questo periodo il datore di lavoro paga il 90 per cento dello stipendio durante dodici mesi. L’importo dello stipendio ridotto non deve essere inferiore alle prestazioni dell’assicurazione obbligatoria contro gli infortuni oppure alle prestazioni della Cassa pensioni della Confederazione (PUBLICA), alle quali il dipendente avrebbe diritto in caso di invalidità.
+
+<sup>3</sup> In casi eccezionali debitamente motivati il pagamento continuato dello stipendio secondo il capoverso 2 può essere prolungato fino al termine degli accertamenti medici o fino al versamento di una rendita, al massimo tuttavia durante ulteriori dodici mesi. Le prestazioni finanziarie dell’assicurazione per l’invalidità e di PUBLICA sono computate alla continuazione del pagamento dello stipendio.
+
+<sup>4</sup> Le prestazioni secondo i capoversi 1–3 sono concesse dietro presentazione di un certificato medico. L’autorità competente può chiedere che l’impiegato sia esaminato da un medico di fiducia o dal servizio medico.
+
+<sup>5</sup> Se un impiegato è impedito al lavoro per malattia o infortunio e nei dodici mesi prima dell’inizio dell’assenza è stato impedito al lavoro per malattia o infortunio per almeno 30 giorni complessivi, la durata di quest’assenza è computata nel periodo di cui al capoverso 1.
+
+<sup>6</sup> Se un impiegato riprende a lavorare temporaneamente dopo l’inizio dell’impedimento al lavoro, i periodi di cui ai capoversi 1–3 sono prorogati del numero di giorni in cui è prestata l’intera durata giornaliera del lavoro convenuta e sono soddisfatti i requisiti fissati nella descrizione del posto.
+
+<sup>7</sup> Se il rapporto di lavoro di un impiegato è disdetto in virtù dell’articolo 18*a* capoverso 4, l’obbligo al pagamento dello stipendio secondo i capoversi 1 e 2 continua a sussistere per la durata prevista dal contratto disdetto. In tal caso sono computati lo stipendio percepito in virtù del nuovo rapporto di lavoro nonché le prestazioni finanziarie dell’assicurazione per l’invalidità e di PUBLICA.
+
+<sup>8</sup> Allo scadere dei periodi di cui ai capoversi 1–3 non esiste più alcun diritto allo stipendio, indipendentemente dall’esistenza del rapporto di lavoro.
+
+<sup>9</sup> In caso di rapporti di lavoro di durata determinata, la continuazione del pagamento dello stipendio secondo i capoversi 1 e 2 termina al più tardi con la conclusione del rapporto di lavoro.
+
+[^67-1]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+
+#### Art. 67a
+
+**Prestazioni in caso di malattia e infortunio durante i viaggi di servizio all’estero**[^67a-1]
+
+### (art. 29 LPers)
+
+In caso di malattia o infortunio durante i viaggi di servizio all’estero, il datore di lavoro assume le spese non coperte dalle assicurazioni private degli impiegati per le prestazioni che in Svizzera sono rimborsate nel quadro della legge federale del 18 marzo 1994[^67a-2] sull’assicurazione malattie e della legge federale del 20 marzo 1981[^67a-3] sull’assicurazione contro gli infortuni.
+
+[^67a-1]: Introdotto dal n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^67a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^67a-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+#### Art. 68
+
+**Riduzione del diritto allo stipendio**
+
+### (art. 29 LPers)
+
+<sup>1</sup> Gli assegni sociali sono versati per intero anche durante il pagamento continuato dello stipendio secondo l’articolo 67 capoversi 2 e 3; in seguito, essi sono soppressi.
+
+<sup>2</sup> La riduzione secondo l’articolo 67 non interviene se l’attività deve essere sospesa a causa di un infortunio professionale o di una malattia professionale equiparabile a un infortunio professionale.
+
+<sup>3</sup> Il diritto allo stipendio è ridotto o soppresso se l’impiegato ha causato una malattia o un infortunio intenzionalmente o per negligenza grave oppure si è esposto consapevolmente a un rischio eccezionale o ha affrontato un’impresa temeraria.
+
+<sup>4</sup> Il diritto allo stipendio può essere ridotto o, in casi gravi, soppresso se l’impiegato, senza valido motivo, si rifiuta di collaborare ai provvedimenti d’integrazione di cui all’articolo 4.[^68-1]
+
+[^68-1]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 69
+
+**Computo delle prestazioni delle assicurazioni sociali sullo stipendio**
+
+### (art. 29 cpv. 3 LPers)
+
+<sup>1</sup> Le prestazioni dell’assicurazione militare, dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA) o di un’altra assicurazione obbligatoria contro gli infortuni sono computate sullo stipendio al quale l’impiegato ha diritto in caso di malattia o infortunio. Le rendite e le indennità giornaliere dell’assicurazione per l’invalidità sono computate nella misura in cui, aggiunte allo stipendio comprensivo delle prestazioni computate dell’assicurazione militare, della SUVA o di un’altra assicurazione obbligatoria contro gli infortuni, superano lo stipendio al quale l’impiegato aveva diritto prima della riduzione.
+
+<sup>2</sup> Il diritto è ridotto secondo i principi dell’istituto assicurativo se la persona soggiorna in uno stabilimento ospedaliero a spese dell’assicurazione militare, della SUVA o di un’altra assicurazione obbligatoria contro gli infortuni oppure dell’assicurazione per l’invalidità.
+
+#### Art. 70
+
+**Servizio militare, servizio di protezione civile e servizio civile**
+
+### (art. 29 cpv. 1 LPers)
+
+<sup>1</sup> In caso di interruzione del lavoro per servizio militare e servizio di protezione civile svizzeri obbligatori come pure per la durata del servizio civile, è versato lo stipendio integrale. Le indennità per perdita di guadagno previste dalla legge spettano al datore di lavoro.
+
+<sup>2</sup> Se durante il servizio è percepito un supplemento di soldo, lo stipendio è ridotto dell’importo corrispondente.
+
+<sup>3</sup> Per la durata dell’istruzione di base può essere chiesta la restituzione dello stipendio, nella misura in cui eccede l’importo dell’indennità per perdita di guadagno, se il rapporto di lavoro è durato meno di quattro anni.
+
+<sup>4</sup> In caso di servizio volontario lo stipendio può essere versato al massimo durante 10 giorni lavorativi all’anno.
+
+<sup>5</sup> Gli assegni sociali sono versati integralmente.
+
+#### Art. 71
+
+**Pagamento continuato dello stipendio in caso di maternità**
+
+### (art. 29 cpv. 1 LPers)
+
+<sup>1</sup> In caso d’interruzione del lavoro dovuta a maternità, lo stipendio integrale e gli assegni sociali sono versati all'impiegata durante quattro mesi.[^71-1]
+
+<sup>2</sup> Su domanda, il lavoro può essere interrotto al più presto un mese prima della data prevista per il parto.
+
+<sup>3</sup> D’intesa con il servizio competente, l’impiegata può beneficiare della metà del congedo di maternità sotto forma di una riduzione del tasso d’occupazione. Se il padre del bambino è pure impiegato presso il Tribunale federale, i genitori possono ripartirsi la riduzione del tempo di lavoro.
+
+[^71-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 71a
+
+**Riduzione del tasso di occupazione dopo una nascita o un’adozione**[^71a-1]
+
+<sup>1</sup> Dopo la nascita o l’adozione di un figlio, i genitori hanno diritto a una riduzione del tasso di occupazione del 20 per cento al massimo, sempreché ciò non renda necessaria alcuna modifica organizzativa. Il nuovo tasso di occupazione non può essere tuttavia inferiore al 60 per cento.
+
+<sup>2</sup> Il diritto alla riduzione del tasso di occupazione deve essere fatto valere entro 12 mesi dalla nascita o dall’adozione.
+
+<sup>3</sup> Il lavoro con il tasso di occupazione ridotto inizia al più tardi il primo giorno successivo al periodo di 12 mesi di cui al capoverso 2 e ha validità a tempo indeterminato.
+
+[^71a-1]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 72
+
+**Pagamento continuato dello stipendio in caso di adozione**
+
+### (art. 17 cpv. 4 LPers)
+
+[^72-1]
+
+<sup>1</sup> In caso d’interruzione del lavoro dovuta ad accoglimento di bambini in tenera età per la cura e l’educazione in vista di un’adozione, lo stipendio è versato durante due mesi.[^72-2]
+
+<sup>2</sup> Se entrambi i genitori adottivi lavorano presso l’Amministrazione federale, il diritto al versamento dello stipendio si applica solo a uno di loro. Essi possono ripartirsi liberamente i due mesi d’interruzione del lavoro.[^72-3]
+
+<sup>3</sup> Sono fatti salvi i disciplinamenti cantonali.[^72-4]
+
+[^72-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^72-2]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^72-3]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^72-4]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 73
+
+**Pagamento continuato dello stipendio in caso di decesso**
+
+### (art. 29 cpv. 2 LPers)
+
+<sup>1</sup> In caso di decesso dell’impiegato, i superstiti ricevono <sup>1</sup>/<sub>6</sub> dello stipendio annuale.
+
+<sup>2</sup> L’assegno per l’assistenza a congiunti secondo l’articolo 36*b* è versato in ugual misura.[^73-1]
+
+[^73-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5957](https://fedlex.data.admin.ch/eli/oc/2008/821)).
+
+#### Art. 74
+
+**Prestazioni in caso di infortunio professionale**
+
+### (art. 29 cpv. 1 LPers)
+
+Le prestazioni in caso di infortunio professionale sono determinate secondo l’articolo 63 dell’ordinanza del 3 luglio 2001[^74-1] sul personale federale, applicabile per analogia.
+
+[^74-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+
+#### Art. 75
+
+**Versamento di indennità**
+
+### (art. 18 cpv. 2 LPers)
+
+<sup>1</sup> Un’indennità può essere versata al personale incaricato di partecipare a conferenze o altre manifestazioni all’estero, che, senza propria colpa, abbia subìto un danno patrimoniale.
+
+<sup>2</sup> L’indennizzo è stabilito d’intesa con il Dipartimento federale delle finanze.
+
+#### Art. 76
+
+**Prescrizione**
+
+### (art. 34 LPers)
+
+I termini di prescrizione per pretese derivanti dal rapporto di lavoro sono disciplinati dagli articoli 127 e 128 CO[^76-1].
+
+[^76-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+## Sezione 14: Ristrutturazioni e riorganizzazioni****
+
+[^sec14-1]
+
+[^sec14-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 77
+
+**Misure in caso di ristrutturazioni e riorganizzazioni[^77-1]**
+
+### (art. 10, 19 e 31 LPers)
+
+[^77-2]
+
+<sup>1</sup> Le ristrutturazioni e riorganizzazioni sono attuate in modo socialmente sostenibile.[^77-3]
+
+<sup>2</sup>
+
+Le seguenti misure sono prioritarie rispetto alla risoluzione del rapporto di lavoro:
+
+- a.[^77-4] l’occupazione degli impiegati in un altro posto ragionevolmente accettabile;
+- b.[^77-5] ...
+- c. la riconversione e il perfezionamento professionali;
+- d. il pensionamento anticipato.
+
+<sup>3</sup> Gli impiegati che presumibilmente non potranno più essere occupati in seno all’unità amministrativa devono essere informati in merito al più tardi sei mesi prima di un eventuale licenziamento.[^77-6]
+
+<sup>4</sup> Gli impiegati sostengono gli sforzi del datore di lavoro. Collaborano attivamente alle misure intraprese e danno prova di spirito d’iniziativa, in particolare nella ricerca di un nuovo posto di lavoro.
+
+<sup>5</sup> La Commissione amministrativa è competente per elaborare e sottoscrivere il piano sociale con le parti sociali.[^77-7]
+
+[^77-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^77-2]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^77-3]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)). La correzione del 29 gen. 2019 concerne soltanto il testo francese ([RU 2019 419](https://fedlex.data.admin.ch/eli/oc/2019/71)).
+[^77-4]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^77-5]: Abrogata dal n. I dell’O del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^77-6]: Nuovo testo giusta il n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+[^77-7]: Nuovo testo giusta il n. I dell’O del TF del 24 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 2995](https://fedlex.data.admin.ch/eli/oc/2004/380)).
+
+#### Art. 78
+
+**Prestazioni in caso di pensionamento anticipato nell’ambito di ristrutturazioni e riorganizzazioni[^78-1]**
+
+### (art. 31 cpv. 5 LPers)
+
+[^78-2]
+
+<sup>1</sup>
+
+Nell’ambito di ristrutturazioni e riorganizzazioni, gli impiegati possono essere pensionati anticipatamente al più presto a partire dai 55 anni d’età compiuti in quanto non abbiano rifiutato un’altra occupazione adeguata:[^78-3]
+
+- a. se il loro posto è soppresso, oppure
+- b. se il loro campo d’attività subisce profonde modifiche, oppure
+- c. se la misura interviene nel quadro di un’azione di solidarietà con impiegati più giovani, i cui posti sono soppressi.
+
+<sup>2</sup> L’impiegato che al momento del pensionamento anticipato ha un’età compresa fra i 55 e i 62 anni riceve una rendita di vecchiaia pari a quella cui avrebbe avuto diritto in caso di pensionamento dopo il 63° anno d’età e una rendita transitoria integralmente finanziata dal datore di lavoro.[^78-4]
+
+<sup>2bis</sup> Se ha già compiuto il 63° anno d’età, oltre alla rendita regolamentare di vecchiaia l’impiegato riceve anche la rendita transitoria integralmente finanziata dal datore di lavoro.[^78-5]
+
+<sup>3</sup> Il Tribunale federale rimborsa a PUBLICA la parte non finanziata, al momento del pensionamento anticipato, delle prestazioni secondo i capoversi 2 e 2<sup>bis</sup>.[^78-6]
+
+<sup>4</sup> Altre prestazioni possono essere elargite nei casi di rigore.
+
+[^78-1]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^78-2]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^78-3]: Nuovo testo giusta il n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+[^78-4]: Nuovo testo giusta il n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+[^78-5]: Introdotto dal n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+[^78-6]: Nuovo testo giusta il n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+
+#### Art. 78a
+
+**Prestazioni in caso di risoluzione del rapporto di lavoro di comune intesa**[^78a-1]
+
+### (art. 19 cpv. 3 e 31 cpv. 5 LPers)
+
+Il datore di lavoro può fornire le prestazioni di cui all’articolo 78 all’impiegato che ha compiuto il 60° anno d’età se:
+
+- a. il rapporto di lavoro è sciolto di comune intesa per motivi di politica aziendale o del personale; e
+- b. non sussiste alcun motivo di disdetta secondo l’articolo 10 capoverso 3 o 4 LPers.
+
+[^78a-1]: Introdotto dal n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+
+## Sezione 15: Partecipazione e collaborazione con le parti sociali
+
+#### Art. 79
+
+**Parti sociali**[^79-1]
+
+### (art. 33 LPers)
+
+<sup>1</sup> La partecipazione e la collaborazione delle parti sociali in merito a questioni concernenti il personale, in particolare nel quadro di ristrutturazioni, sono garantite principalmente mediante un’informazione tempestiva ed esauriente, la possibilità di prendere posizione e, per quanto necessario, mediante l’intavolazione di trattative.
+
+<sup>2</sup> Le parti sociali sono informate in modo tempestivo ed esaustivo in merito a tutte le questioni importanti riguardanti il personale. Sono per lo meno consultate negli ambiti previsti all’art. 33 cpv. 2 LPers.
+
+<sup>3</sup> Le parti sociali del Tribunale federale sono le associazioni del personale della Confederazione riconosciute.
+
+<sup>4</sup> Nella misura in cui il Tribunale federale riprende sostanzialmente un regolamento dell’amministrazione federale, le informazioni e le consultazioni si limitano alla delegazione del personale del Tribunale federale.
+
+[^79-1]: Nuovo testo giusta il n. I dell’O del TF del 24 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 2995](https://fedlex.data.admin.ch/eli/oc/2004/380)).
+
+#### Art. 80
+
+**Delegazione del personale**
+
+### (art. 33 cpv. 4 LPers)
+
+<sup>1</sup> Per assicurare la collaborazione è istituita una delegazione del personale.
+
+<sup>2</sup>
+
+L’attività della delegazione del personale è di principio di natura consultiva. Essa si indirizza agli organi amministrativi competenti. La delegazione del personale si esprime:
+
+- a. sulle questioni concernenti il personale in generale o determinate categorie di impiegati;
+- b. sulle semplificazioni o sui miglioramenti dei metodi di lavoro come pure sugli interventi edilizi;
+- c. sulle questioni relative alla salute e alla formazione.
+
+#### Art. 80a
+
+**Commissione di conciliazione conformemente alla legge federale sulla parità dei sessi**[^80a-1]
+
+<sup>1</sup> La commissione di conciliazione secondo la legge federale del 24 marzo 1995[^80a-2] sulla parità dei sessi si compone di quattro membri. Essa conta un numero uguale di donne e di uomini.
+
+<sup>2</sup> Il datore di lavoro è rappresentato da due collaboratori scientifici del Segretariato generale di sesso diverso. La delegazione del personale designa due membri di cui almeno uno al proprio interno e almeno un cancelliere o una cancelliera. Il capo del personale funge da presidente.
+
+<sup>3</sup> La procedura è retta per analogia dalle norme dell’ordinanza del 10 dicembre 2004[^80a-3] sulla commissione di conciliazione secondo la legge sulla parità dei sessi.
+
+[^80a-1]: Introdotto dal n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^80a-2]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^80a-3]: [RS 172.327.1](https://fedlex.data.admin.ch/eli/cc/2005/124)
+
+## Sezione 15*a*:**** Protezione dei dati
+
+[^sec15a-1]
+
+[^sec15a-1]: Introdotta dal n. I dell’O del TF del 17 ago. 2012, in vigore dal 17 ago. 2012 ([RU 2012 5413](https://fedlex.data.admin.ch/eli/oc/2012/620)).
+
+#### Art. 80b
+
+**Protezione dei dati personali**[^80b-1]
+
+### (art. 27 LPers)
+
+Per il trattamento dei dati personali dei candidati, degli impiegati e degli ex dipendenti del Tribunale federale sono applicabili per analogia le disposizioni dell’ordinanza del 22 novembre 2017[^80b-2] sulla protezione dei dati personali del personale federale, fatte salve le disposizioni derogatorie di cui alla presente sezione.
+
+[^80b-1]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^80b-2]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+
+#### Art. 80c
+
+**Conservazione, archiviazione e distruzione**[^80c-1]
+
+<sup>1</sup> I dossier di candidatura cartacei sono restituiti ai candidati non assunti. Eccezione fatta per la lettera di candidatura, gli altri dati sono distrutti entro tre anni dal termine della procedura di candidatura. Sono fatti salvi accordi particolari con i candidati.
+
+<sup>2</sup> I dossier personali, comprese le valutazioni delle prestazioni e le decisioni basate su di esse nonché i risultati dei test della personalità e dei test di valutazione delle potenzialità, sono conservati per dieci anni dopo la cessazione del rapporto di lavoro. Essi vengono poi distrutti se non sono più necessari e se non sono considerati di valore archivistico giusta l’articolo 4 capoverso 1 dell’ordinanza del Tribunale federale del 27 settembre 1999[^80c-2] relativa all’applicazione della legge sull’archiviazione.
+
+[^80c-1]: Nuovo testo giusta il n. I dell’O del TF del 18 dic. 2018, in vigore dal 1° mar. 2019 ([RU 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
+[^80c-2]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+
+#### Art. 80d
+
+**Utilizzazione dell’infrastruttura elettronica**
+
+### (art. 25*b* cpv. 2 LTF)
+
+[^80d-1]
+
+Per l’utilizzazione dell’infrastruttura elettronica sono applicabili per analogia le disposizioni dell’ordinanza del 22 febbraio 2012[^80d-2] sul trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica della Confederazione.
+
+[^80d-1]: L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^80d-2]: [RS 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+
+#### Art. 80e
+
+**Incaricato della protezione dei dati**
+
+### (art. 11*a* LPD e art. 23 OLPD)
+
+<sup>1</sup>
+
+L’incaricato della protezione dei dati del Tribunale federale è:
+
+- a. il responsabile della protezione dei dati ai sensi dell’articolo 11*a* capoverso 5 lettera e della legge federale del 19 giugno 1992[^80e-1] sulla protezione dei dati (LPD) e degli articoli 12*a* e 12*b* dell’ordinanza del 14 giugno 1993[^80e-2] relativa alla legge federale sulla protezione dei dati (OLPD);
+- b. il consulente per la protezione dei dati giusta l’articolo 23 OLPD.
+
+<sup>2</sup> A livello tecnico e professionale, egli esercita la sua funzione in modo indipendente.
+
+<sup>3</sup> Gli impiegati del Tribunale federale possono in ogni momento ricorrere alla consulenza dell’incaricato della protezione dei dati del Tribunale federale.
+
+[^80e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^80e-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+## Sezione 16: ...
+
+#### Art. 81
+
+[^81-1]
+
+[^81-1]: Abrogato dal n. I dell’O del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+## Sezione 17: Competenze
+
+#### Art. 82
+
+**Corte plenaria**[^82-1]
+
+La Corte plenaria è competente per la conclusione, la modifica e la rescissione dei rapporti di lavoro del segretario generale e del suo sostituto.
+
+[^82-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 83
+
+[^83-1]
+
+[^83-1]: Abrogato dal n. I dell’O del TF del 20 nov. 2006, con effetto dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 84
+
+**Commissione amministrativa**
+
+<sup>1</sup>
+
+La Commissione amministrativa è competente per le questioni concernenti i cancellieri e i collaboratori scientifici direttamente sottoposti al segretario generale.[^84-1] Decide in particolare in materia di:
+
+- a. assunzione (art. 13);
+- b. modifica o risoluzione dei rapporti di lavoro (art. 17 e 18);
+- c. aumenti salariali, indennità di funzione, premi per prestazioni, premi di riconoscimento e indennità in funzione del mercato del lavoro (art. 25, 26, 32, 33, 34 e 35);
+- d. valutazione della funzione (art. 37);
+- e. domande di congedo (art. 42);
+- f. rifiuti di premi di fedeltà (art. 46);
+- g. versamento di indennità (art. 50, 51 e 52);
+- h. autorizzazione per esercitare occupazioni accessorie (art. 55);
+- i. liberazione dal segreto professionale e d’ufficio (art. 58);
+- j. apertura di inchieste amministrative e disciplinari e misure disciplinari (art. 60, 61 e 62);
+- k. trasmissione di atti al Ministero pubblico della Confederazione (art. 65).
+
+<sup>2</sup> La Commissione amministrativa può delegare competenze al segretario generale.
+
+[^84-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 85
+
+**Segretario generale**
+
+Il segretario generale è competente per le questioni concernenti gli altri impiegati.
+
+#### Art. 86
+
+**Diritto di proposta**
+
+<sup>1</sup>
+
+Nelle questioni concernenti il personale dispongono di un diritto di proposta:
+
+- a. la Commissione amministrativa per la nomina del segretario generale e del suo sostituto;
+- b.[^86-1] …
+- c.[^86-2] le Corti per l’assunzione e l’attribuzione dei loro cancellieri;
+- d. i presidenti delle Corti per i propri collaboratori;
+- e.[^86-3] …
+- f. i responsabili dei servizi per i propri collaboratori.
+
+<sup>2</sup> …[^86-4]
+
+[^86-1]: Abrogata dal n. I dell’O del TF del 20 nov. 2006, con effetto dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^86-2]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^86-3]: Abrogata dal n. I dell’O del TF del 20 nov. 2006, con effetto dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+[^86-4]: Abrogata dal n. I dell’O del TF del 20 nov. 2006, con effetto dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+#### Art. 87
+
+**Disposizioni d’esecuzione**
+
+<sup>1</sup> La Commissione amministrativa emana le direttive concernenti le condizioni di assunzione, lo stipendio iniziale e la carriera dei cancellieri (art. 21 e 23).[^87-1]
+
+<sup>2</sup>
+
+La Commissione amministrativa e il segretario generale emanano, nei rispettivi settori di competenza, le circolari e le direttive in applicazione della presente ordinanza, concernenti segnatamente:
+
+- a. la formazione continua dei cancellieri (art. 2 cpv. 6);
+- b. i premi per prestazioni e i premi di riconoscimento (art. 33 e 34);
+- c. le differenti forme di durata del lavoro e l’orario di lavoro mobile (art. 38);
+- d. il riporto delle vacanze all’anno successivo (art. 41 cpv. 3);
+- e. i congedi (art. 42);
+- f. gli indumenti da lavoro (art. 44);
+- g. le occupazioni accessorie (art. 55);
+- h. l’obbligo di fornire tutto o parte del reddito ricavato da attività a favore di terzi (art. 56);
+- i. il versamento di indennità in relazione con impieghi all’estero (art. 75);
+- j. la delegazione del personale (art. 80).
+
+[^87-1]: Nuovo testo giusta il n. I dell’O del TF del 20 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
+
+## Sezione 18: Disposizioni finali
+
+#### Art. 88
+
+**Modifica del diritto previgente**
+
+…[^88-1]
+
+[^88-1]: Le mod. possono essere consultate alla [RU 2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487).
+
+#### Art. 89
+
+**Disposizioni introduttive e transitorie**
+
+<sup>1</sup> I rapporti di servizio vigenti sono convertiti in rapporti di lavoro sottoposti al nuovo diritto dal 1° gennaio 2002, conformemente all’ordinanza di conversione OFLPers del 3 luglio 2001[^89-1], applicabile per analogia.
+
+<sup>2</sup> È fatto salvo il periodo amministrativo del segretario generale e dei cancellieri nominati funzionari. Queste persone rimangono sottoposte fino al termine dell’anno 2002 alle disposizioni precedenti concernenti la cessazione del rapporto di servizio. La conversione di questi rapporti di servizio interverrà il 1° gennaio 2003, si sensi dell’articolo 2 capoversi 2 e 3 dell’ordinanza di conversione OF-LPers.
+
+<sup>3</sup> I cambiamenti di funzione e le misure salariali per il 1° gennaio 2002 sono retti dal nuovo diritto.
+
+<sup>4</sup> Se la classe di stipendio è modificata unicamente in seguito al passaggio dal vecchio al nuovo sistema salariale, è garantito lo stipendio attuale aumentato della compensazione del rincaro.
+
+[^89-1]: [[RU 2001 1846](https://fedlex.data.admin.ch/eli/oc/2001/285). [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. I 7]
+
+#### Art. 89a
+
+**Disposizioni transitorie della modifica del 24 giugno 2013**[^89a-1]
+
+<sup>1</sup> I contratti di lavoro dei cancellieri conclusi secondo l’articolo 15 capoverso 2 per una durata di cinque anni sono mantenuti per una durata massima di un anno a partire dall’entrata in vigore della modifica del 24 giugno 2013. I cancellieri che non ottengono un contratto di durata indeterminata possono esigere che il contratto di lavoro di cinque anni duri fino al suo termine.
+
+<sup>2</sup> Per il calcolo del premio di fedeltà secondo l’articolo 46 capoverso 5, gli anni d’impiego riconosciuti prestati prima dell’entrata in vigore della modifica del 24 giugno 2013 sono conteggiati secondo il diritto anteriore.
+
+<sup>3</sup> In caso di uscita e reintegrazione di un impiegato in un’unità amministrativa di cui all’articolo 2 LPers dopo l’entrata in vigore della modifica del 24 giugno 2013, per il calcolo del premio di fedeltà non si tiene più conto degli anni d’impiego prestati in precedenza.
+
+<sup>4</sup> Se, prima dell’entrata in vigore della modifica del 24 giugno 2013, l’impiegato era impedito al lavoro per malattia o infortunio, la durata dell’impedimento al lavoro è computata nel periodo di due anni secondo l’articolo 18*a*.
+
+<sup>5</sup> Se l’impiegato riprende il lavoro almeno a metà tempo durante un minimo di tre mesi secondo l’articolo 67 capoverso 5 del diritto anteriore soltanto dopo l’entrata in vigore della modifica del 24 giugno 2013, l’impedimento al lavoro non è interrotto.
+
+[^89a-1]: Introdotto dal n. I dell’O del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
+
+#### Art. 89b
+
+**Disposizione transitoria della modifica del 29 giugno 2015**[^89b-1]
+
+La partecipazione del datore di lavoro al finanziamento della rendita transitoria degli impiegati che hanno compiuto il 59° anno d’età al momento dell’entrata in vigore della modifica del 29 giugno 2015 e che saranno pensionati anticipatamente al più tardi entro il 31 luglio 2017 è retta dal diritto anteriore.
+
+[^89b-1]: Introdotto dal n. I dell’O del TF del 29 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2339](https://fedlex.data.admin.ch/eli/oc/2015/436)).
+
+#### Art. 90
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2002.

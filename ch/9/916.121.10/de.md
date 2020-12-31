@@ -1,0 +1,418 @@
+---
+sr: "916.121.10"
+title: "Verordnung vom 7. Dezember 1998 über die Ein- und Ausfuhr von Gemüse, Obst und Gartenbauerzeugnissen (VEAGOG)"
+short: VEAGOG
+eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
+language: de
+version: 2021-01-01
+adopted: 1998-12-07
+in_force: 1999-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Ein- und Ausfuhr von Gemüse, Obst und Gartenbauerzeugnissen
+
+(VEAGOG)
+
+vom 7. Dezember 1998 (Stand am 1. Januar 2021)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 10, 21 Absätze 2 und 4, 177, 180 Absatz 3, 181 Absatz 3 und 185 Absatz 3 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1], auf Artikel 15 Absatz 2 des Zollgesetzes vom 18. März 2005[^ingress-2] sowie auf Artikel 3 des Bundesgesetzes vom 25. Juni 1982[^ingress-3] über aussenwirtschaftliche Massnahmen,[^ingress-4]
+
+verordnet:
+
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-3]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^ingress-4]: Fassung gemäss Anhang 4 Ziff. 51 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Anwendungsbereich**[^1-1]
+
+Diese Verordnung regelt die Einfuhr von frischem Gemüse und frischem Obst, Tiefkühlgemüse, Schnittblumen, Mostobst und Obsterzeugnissen sowie von Obstgehölzen nach Anhang 1 Ziffern 7, 8 und 10–13 der Agrareinfuhrverordnung vom 26. Oktober 2011[^1-2] und die Ausfuhr von frischem Gemüse und frischem Obst nach Anhang 1.
+
+[^1-1]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^1-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+
+#### Art. 2
+
+**Generaleinfuhrbewilligung**[^2-1]
+
+Die Generaleinfuhrbewilligung (GEB) ist in Artikel 1 der Agrareinfuhrverordnung vom 26. Oktober 2011[^2-2] geregelt.
+
+[^2-1]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^2-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+
+#### Art. 3
+
+**Besondere Voraussetzung für die Zuteilung eines Zollkontingentsanteils**[^3-1]
+
+Zollkontingentsanteile werden nur Personen zugeteilt, die in der betreffenden Branche gewerbsmässig Waren einführen. Ausgenommen sind Einfuhren im Rahmen des Zollkontingents Nummer 104 nach Anhang 2 der Freihandelsverordnung vom 8. März 2002[^3-2].
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Nov. 2004 ([AS 2004 3443](https://fedlex.data.admin.ch/eli/oc/2004/456)).
+[^3-2]: [**2002** 1158, **2004** 4599 4971, **2005** 569, **2006** 867 Anhang Ziff. 3 2901 2995 Anhang 4 Ziff. II 8 4659, **2007** 1469 Anhang 4 Ziff. 22 2273 3417. [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)Art. 7]. Siehe heute: die Freihandelsverordnung 1 vom 18. Juni 2008 ([SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)).
+
+## 2. Kapitel: Marktordnungen
+
+### 1. Abschnitt: Frisches Obst und frisches Gemüse
+
+#### Art. 4
+
+**Zeitliche Aufteilung der Zollkontingente**
+
+<sup>1</sup>
+
+Frisches Gemüse und frisches Obst können zum Kontingentszollansatz (KZA) eingeführt werden, ohne dass das Bundesamt für Landwirtschaft (BLW) Zollkontigentsteilmengen für die Einfuhr freigibt:[^4-1]
+
+- a. während der Periode, für die nach Anhang 1 des Zolltarifes[^4-2] kein Ausserkontingentszollansatz (AKZA) festgelegt ist;
+- b.[^4-3] in den Perioden, für die nach Anhang 1 des Zolltarifes ein AKZA festgelegt wird (Bewirtschaftungsperiode), ab und bis zu den vom BLW[^4-4] bestimmten Daten. Diese werden aufgrund des voraussichtlichen Angebots an gleichartiger Schweizer Ware handelsüblicher Qualität festgelegt. Als gleichartig gelten ungeachtet der Art ihrer Verpackung Waren, die in der gleichen Tarifnummer, innerhalb derselben Gruppe nach Anhang 2 und allenfalls innerhalb der gleichen statistischen Sonderausscheidung aufgeführt sind.
+
+<sup>2</sup> Ausserhalb der Perioden nach Absatz 1 Buchstaben a und b können frisches Gemüse und frisches Obst zum KZA eingeführt werden, sofern das BLW Zollkontingentsteilmengen freigibt.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)).
+[^4-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^4-3]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^4-4]: Ausdruck gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 5
+
+**Freigabe von Zollkontingentsteilmengen**
+
+<sup>1</sup> Das BLW gibt Zollkontingentsteilmengen für die Einfuhr nach Massgabe der Nachfrage frei, wenn das Angebot an gleichartiger Schweizer Ware handelsüblicher Qualität den geschätzten wöchentlichen Bedarf nicht zu decken vermag. Bei der Freigabe ist die statistische Sonderausscheidung als Kriterium für die Gleichartigkeit auf Waren der Tarifnummern 0705.1911 und 0709.9941 beschränkt.[^5-1]
+
+<sup>2</sup> Es gibt keine Zollkontingentsteilmengen für die Einfuhr frei, wenn das Angebot an gleichartiger Schweizer Ware handelsüblicher Qualität den geschätzten wöchentlichen Bedarf zu decken vermag. In dieser Zeit kommt der reduzierte AKZA nach Anhang 1 der Agrareinfuhrverordnung vom 26. Oktober 2011[^5-2] zur Anwendung. Er kann vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF)[^5-3] geändert werden.[^5-4]
+
+<sup>3</sup>
+
+In Abweichung von Absatz 2 kann das BLW Zollkontingentsteilmengen für die Einfuhr freigeben:
+
+- a.[^5-5] wenn das Angebot an Schweizer Obst oder Schweizer Gemüse den Bedarf der Verarbeitungsindustrie für die Herstellung von Produkten der Tarifnummern 0710/0713, 0811/0813, 2001/2009, 2202 und 2208/2209 sowie der Kapitel 16, 19 und 21 nicht decken kann;
+- b. vom 1. April bis zum 14. Juni bis zu 2500 t Äpfel der Tarifnummern 0808.1022 und 0808.1032, um die Angebotsvielfalt zu vergrössern.[^5-6]
+
+[^5-1]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^5-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^5-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^5-4]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^5-5]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+[^5-6]: Fassung gemäss Ziff. I der V vom 12. Jan. 2000, in Kraft seit 1. März 2000 ([AS 2000 392](https://fedlex.data.admin.ch/eli/oc/2000/81)).
+
+#### Art. 6
+
+**Verteilung der Zollkontingentsteilmengen**
+
+<sup>1</sup>
+
+Das BLW verteilt die nach Artikel 5 Absatz 1 für die Einfuhr freigegebenen Zollkontingentsteilmengen wie folgt:
+
+- a.[^6-1] bei Tomaten, Salatgurken, Setzzwiebeln, Witloof-Zichorien und Äpfeln: gemäss den Marktanteilen der Berechtigten; der Marktanteil einer oder eines Berechtigten ist ihr oder sein prozentualer Anteil an der Summe aus den Einfuhrmengen zum KZA und zum AKZA und den rechtmässig geltend gemachten Inlandleistungen aller Berechtigten im Vorjahr; die Berechtigten können ihre Inlandleistung innerhalb der vom BLW festgelegten Frist anmelden;
+- b. bei den übrigen Waren: nach Massgabe der Einfuhren der Berechtigten zum KZA und zum AKZA im Vorjahr.[^6-2]
+
+<sup>2</sup> Die nach Artikel 5 Absatz 3 Buchstabe a für die Einfuhr freigegebenen Zollkontingentsteilmengen werden anteilsmässig auf Grund der beantragten Mengen zugeteilt.[^6-3] Das BLW kann die Zuteilung der Zollkontingentsanteile an Auflagen binden, welche sicherstellen, dass die eingeführte Ware industriell verarbeitet wird. Gemäss der anteilsmässigen Verteilung auf Grund der beantragten Mengen getätigte Einfuhren werden bei der Verteilung nach den Kriterien von Absatz 1 nicht berücksichtigt.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Nov. 2004 ([AS 2004 3443](https://fedlex.data.admin.ch/eli/oc/2004/456)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juni 2002 ([AS 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
+
+#### Art. 7
+
+**Zu Beginn der Bewirtschaftungsperiode auf Handelsstufe vorhandene landwirtschaftliche Erzeugnisse**[^7-1]
+
+<sup>1</sup>
+
+Als zu Beginn der Bewirtschaftungsperiode vorhanden im Sinne von Artikel 15 des Zollgesetzes vom 18. März 2005 gelten Warenmengen an frischem Obst und frischem Gemüse, die vorhanden sind:
+
+- a. zu Beginn der Bewirtschaftungsperiode;
+- b. am Tag nach dem in Artikel 4 Absatz 1 Buchstabe b festgelegten Datum; oder
+- c. am Tag nach Ablauf der zeitlich befristeten Freigabe ohne Zuteilung (Anhang 2 der VEAGOG-Freigabeverordnung vom 12. Jan. 2000[^7-2]).
+
+<sup>2</sup> Von der Menge nach Absatz 1 werden Warenmengen abgezogen, die sich im Verkaufsraum für den Endverbrauch von Detailgeschäften befinden.
+
+<sup>3</sup> Vorräte auf Handelsstufe, die nicht innerhalb von zwei Tagen aufgebraucht werden, sind nach Artikel 55 der Zollverordnung vom 1. November 2006[^7-3] neu anzumelden.[^7-4]
+
+[^7-1]: Fassung gemäss Anhang 4 Ziff. 51 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^7-2]: [SR 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)
+[^7-3]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^7-4]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
+
+#### Art. 7a
+
+**Anrechnung von zu Beginn der Bewirtschaftungsperiode auf Handelsstufe vorhandenen landwirtschaftlichen Erzeugnissen an Zollkontingentsanteile**[^7a-1]
+
+<sup>1</sup> Die anmeldepflichtige Person nach Artikel 55 der Zollverordnung vom 1. November 2006[^7a-2], die Inhaberin oder Inhaber von Zollkontingentsanteilen ist, kann in der nicht bewirtschafteten Periode eingeführte landwirtschaftliche Erzeugnisse, die zu Beginn der Bewirtschaftungsperiode auf Handelsstufe bei ihr noch vorhanden sind, auf den Beginn des entsprechenden Zeitpunkts nach Artikel 7 Absatz 1 ihrem Zollkontingentsanteil anrechnen lassen.
+
+<sup>2</sup> Die Inhaberin oder der Inhaber von Zollkontingentsanteilen muss die anzurechnende Warenmenge vor dem Einreichen der Zollanmeldung nach Artikel 59 der Zollverordnung vom 1. November 2006 über die gesicherte Internetanwendung abbuchen.
+
+[^7a-1]: Eingefügt durch Anhang 4 Ziff. 51 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^7a-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+
+#### Art. 8
+
+[^8-1]
+
+[^8-1]: Aufgehoben durch Ziff. I der V vom 14. Nov. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
+
+#### Art. 9
+
+**Konformitätskontrolle für die Ausfuhr**[^9-1]
+
+<sup>1</sup> Die Ausfuhr von Waren nach Anhang 1 muss den Normen entsprechen, die in der Verordnung der Europäischen Gemeinschaft nach Anhang 1 festgehalten oder anerkannt sind. Sie untersteht der Konformitätskontrolle.[^9-2]
+
+<sup>2</sup> Der Exporteur ist verpflichtet, rechtzeitig an die nach Artikel 20 beauftragte Organisation den Kontrollort und die Tarifnummer des Produktes, die Produktemenge sowie den vorgesehenen Versandzeitpunkt anzumelden.
+
+<sup>3</sup> Das BLW kann Anhang 1 dem jeweiligen geltenden Stand der Verordnung der Europäischen Gemeinschaft anpassen und die betroffenen Waren bezeichnen.[^9-3]
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juni 2002 ([AS 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
+[^9-2]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^9-3]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+
+### 2. Abschnitt: Tiefkühlgemüse
+
+#### Art. 10
+
+**Erhöhung des Zollkontingents**
+
+Das BLW kann das Zollkontingent Nummer 16 vorübergehend erhöhen:
+
+- a.[^10-1] ...
+- b. bei nachgewiesenen Ernteausfällen von Schweizer Konserven- und Tiefkühlgemüse;
+- c. für die Zuteilung einer Mindestmenge an Erstgesuchsteller.
+
+[^10-1]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)).
+
+#### Art. 11
+
+**Zuteilung der Zollkontingentsanteile**[^11-1]
+
+Das BLW teilt die Zollkontingentsanteile nach folgenden Kriterien zu:
+
+- a. 35 Prozent entsprechend den Einfuhren zum KZA und AKZA während dreier Jahre bis zum 30. September vor Beginn der Kontingentsperiode;
+- b. 65 Prozent nach Massgabe der mittels Beleg nachgewiesenen oder auf Grund eines Verarbeitungsauftrags während dreier Jahre bis zum 30. September vor Beginn der Kontingentsperiode getätigten Inlandübernahmen von frischem, zur Verarbeitung bestimmtem Schweizer Gemüse. Das BLW legt die Frist fest, innerhalb derer die Inlandübernahmen mitzuteilen sind.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Okt. 2006 ([AS 2006 2527](https://fedlex.data.admin.ch/eli/oc/2006/391)).
+
+### 3. Abschnitt: Schnittblumen
+
+#### Art. 12
+
+**Zollkontingent**[^12-1]
+
+<sup>1</sup> Die Kontingentsperiode dauert jeweils vom 1. Mai bis zum 25. Oktober.
+
+<sup>2</sup> Auf eine Regelung zur Verteilung des Zollkontingents Nr. 13 wird verzichtet*.*
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)).
+
+#### Art. 13 und 14
+
+[^1314-1]
+
+[^1314-1]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)).
+
+### 4. Abschnitt: Mostobst und Obsterzeugnisse
+
+#### Art. 15
+
+**Erhöhung der Zollkontingente**
+
+<sup>1</sup> Das WBF kann die Zollkontingente Nummer 20 und 21 bei ungenügender Versorgung des inländischen Marktes vorübergehend erhöhen.
+
+<sup>2</sup> Das BLW gibt die zusätzlichen Mengen unter Berücksichtigung der jeweiligen Marktbedürfnisse frei.
+
+<sup>3</sup> Die Verteilung der zusätzlichen Mengen erfolgt nach denselben Kriterien wie bei den Zollkontingenten.
+
+#### Art. 16
+
+**Zuteilung der Anteile an den Zollkontingenten Nummer 20 und 21**[^16-1]
+
+Die Anteile an den Zollkontingenten Nummer 20 und 21 werden nach der Reihenfolge der Annahme der Zollanmeldungen zugeteilt.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+
+#### Art. 17
+
+[^17-1]
+
+[^17-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+
+### 5. Abschnitt: Obstgehölze
+
+#### Art. 18
+
+[^18-1]
+
+[^18-1]: Aufgehoben durch Ziff. I der V vom 26. Juni 2002, mit Wirkung seit 1. Okt. 2002 ([AS 2002 2509](https://fedlex.data.admin.ch/eli/oc/2002/335)).
+
+#### Art. 18a
+
+**Freigabe des Zollkontingents Obstgehölze**[^18a-1]
+
+<sup>1</sup> Das Zollkontingent Nummer 104 (Obstgehölze) nach Anhang 3 der Freihandelsverordnung 1 vom 18. Juni 2008[^18a-2] wird in mehreren Tranchen zeitlich gestaffelt frei- gegeben. Das BLW kann den Beginn der Perioden ändern, damit dieser nicht auf einen staatlich anerkannten Feiertag, einen Samstag oder einen Sonntag fällt.
+
+<sup>2</sup> Das Zollkontingent wird in folgenden Teilmengen für die Einfuhr freigegeben:
+
+<table>
+<tr><td>Zollkontingentsteilmenge</td><td>Periode für die Einfuhr zum KZA</td></tr>
+<tr><td>20 000 Pflanzen</td><td>2. Februar bis 31. Dezember</td></tr>
+<tr><td>20 000 Pflanzen</td><td>2. März bis 31. Dezember</td></tr>
+<tr><td>10 000 Pflanzen</td><td>3. November bis 31. Dezember</td></tr>
+<tr><td>10 000 Pflanzen</td><td>30. November bis 31. Dezember.[^18a-3]</td></tr>
+</table>
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 8. März 2002 ([AS 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)). Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Febr. 2010 ([AS 2009 6361](https://fedlex.data.admin.ch/eli/oc/2009/775)).
+[^18a-2]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
+[^18a-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+
+## 3. Kapitel: Vollzugsbestimmungen
+
+### 1. Abschnitt: Aufgaben und Kompetenzen
+
+#### Art. 19
+
+**BLW**[^19-1]
+
+Das BLW legt die Daten nach den Artikeln 4 Absatz 1 Buchstabe b, 6 Absatz 1 Buchstabe a und 11 Buchstabe b sowie die Zollkontingentsteilmengen nach Artikel 5 Absätze 1 und 3 Buchstabe b in einer Verordnung fest. Es veröffentlicht den Inhalt dieser Verordnung und deren Änderungen auf seiner Website. Der Text der jeweiligen Verordnungsänderungen wird in der Amtlichen Sammlung des Bundesrechts nicht veröffentlicht. Der vollständige Text der Verordnungsänderungen kann beim BLW eingesehen oder bezogen werden.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)).
+
+#### Art. 20
+
+**Konformitätskontrollstelle**
+
+<sup>1</sup> Das BLW beauftragt eine private Organisation mit der Kontrolle der Konformität mit den Normen der Europäischen Gemeinschaft.[^20-1]
+
+<sup>2</sup> Der Leistungsauftrag wird mittels Vertrag für einen Zeitraum von höchstens vier Jahren erteilt. Es besteht kein Rechtsanspruch auf ein Mandat für die Durchführung der Konformitätskontrollen.
+
+<sup>3</sup> Die Kosten der Konformitätskontrolle werden vom BLW und von der Organisation getragen.
+
+<sup>4</sup> Um die Kontrollkosten zu decken, ist die Organisation ermächtigt, Gebühren zu erheben. Diese müssen für alle Gebührenpflichtigen gleich hoch sein.
+
+<sup>5</sup> Das BLW beaufsichtigt die mit der Durchführung der Kontrolle beauftragte Organisation.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juni 2002 ([AS 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
+
+### 2. Abschnitt: Notwendige Daten
+
+#### Art. 21
+
+**Datenerhebung**[^21-1]
+
+Die Kantone sind für die Erhebung der Daten nach Artikel 49 der Agrareinfuhrverordnung vom 26. Oktober 2011[^21-2] verantwortlich.
+
+[^21-1]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^21-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+
+#### Art. 22
+
+**Koordinationsstellen**
+
+<sup>1</sup> Das BLW kann andere Stellen mit der Koordination der Tätigkeit der Kantone nach Artikel 21 beauftragen und ihnen weitere Aufgaben zuteilen.
+
+<sup>2</sup> Es kann die Koordinationsstellen mit der Erhebung der Daten nach Artikel 49 der Agrareinfuhrverordnung vom 26. Oktober 2011[^22-1] beauftragen.[^22-2]
+
+<sup>3</sup> Der Leistungsauftrag wird mittels Vertrag für einen Zeitraum von höchstens vier Jahren erteilt. Es besteht kein Rechtsanspruch auf den Abschluss eines Leistungsauftrages.
+
+<sup>4</sup> Das BLW kann dafür Entschädigungen leisten.
+
+<sup>5</sup> Es beaufsichtigt die Stellen nach Absatz 1.
+
+[^22-1]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^22-2]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+
+### 3. Abschnitt: Verwaltungsmassnahmen
+
+#### Art. 23
+
+[^23-1]
+
+Inhaberinnen und Inhaber einer GEB, die die Auflagen nach Artikel 6 Absatz 2 nicht einhalten, müssen auf der eingeführten Ware den AKZA entrichten.
+
+[^23-1]: Fassung gemäss Anhang 4 Ziff. 51 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+
+### 4. Abschnitt: Schlussbestimmungen
+
+#### Art. 24
+
+**Vollzug**
+
+Das BLW vollzieht diese Verordnung.
+
+#### Art. 24a
+
+**Übergangsbestimmung zur Änderung vom 11. November 2020**[^24a-1]
+
+In Abweichung von Artikel 16 erfolgt die Zuteilung der Anteile am Zollkontingent Nummer 21 für die Kontingentsperiode 2021 in Form der Versteigerung.
+
+[^24a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
+
+#### Art. 25
+
+[^25-1]
+
+[^25-1]: Aufgehoben durch Ziff. IV 65 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 26
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 1999 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 1 und 9)
+
+## Gemüse und Obst
+
+[^t-1]: Ursprünglich: Anhang 2. Fassung gemäss Ziff. I der V des BLW vom 20. Dez. 2016, in Kraft seit 1. Febr. 2017 ([AS 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)).
+
+Die Vermarktungsnormen der Europäischen Union für die unten aufgeführten Waren sind in der Durchführungsverordnung (EU) Nr. 543/2011[^annex1-lvlu1-1] festgelegt.
+
+<table>
+<tr><th>Tarifnummer</th><th>Warenbezeichnung</th></tr>
+<tr><td>0702</td><td>Tomaten, frisch oder gekühlt</td></tr>
+<tr><td>0703</td><td>Speisezwiebeln, Schalotten, Knoblauch, Lauch und andere Gemüse der *Allium*-Arten, frisch oder gekühlt</td></tr>
+<tr><td>0704</td><td>Kohl, Blumenkohl, Kohlrabi, Wirsingkohl und ähnliche geniessbare Kohlarten der Gattung *Brassica*, frisch oder gekühlt</td></tr>
+<tr><td>0705</td><td>Salate (*Lactuca sativa*) und Chicorée (*C**i**chorium*-Arten), frisch oder gekühlt</td></tr>
+<tr><td>0706</td><td>Karotten und Speisemöhren, Speiserüben, rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche geniessbare Wurzeln, frisch oder gekühlt</td></tr>
+<tr><td>0707</td><td>Gurken und Cornichons, frisch oder gekühlt</td></tr>
+<tr><td>0708</td><td>Hülsenfrüchte, auch ausgelöst, frisch oder gekühlt</td></tr>
+<tr><td>ex 0709</td><td>Anderes Gemüse, frisch oder gekühlt, ausgenommen nicht gezüchtete Pilze der Position 0709.5900, Früchte der Gattungen *Capsicum* oder *Pimenta* der Position 0709.6090, Oliven der Position 0709.9200, Zuckermais und Kapern der Position 0709.9999 sowie essbare Sprossen aus gekeimten Samen der Position 0709</td></tr>
+<tr><td>ex 0802</td><td>Andere Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder enthäutet, ausgenommen bittere Mandeln der Position 0802.1100, Mandeln ohne Schale der Position 0802.1200, Haselnüsse ohne Schale der Position 0802.22, Walnüsse ohne Schale der Position 0802.32, Pistazien der Positionen 0802.51 und 0802.52, Macadamia-Nüsse der Positionen 0802.61 und 0802.62, Kolanüsse (Cola spp.) der Position 0802.7000, Arekanüsse der Position 0802.8000 sowie andere Schalenfrüchte der Position 0802.90</td></tr>
+<tr><td>ex 0803.1000</td><td>Mehlbananen, frisch</td></tr>
+<tr><td>0804.2010</td><td>Feigen, frisch</td></tr>
+<tr><td>0804.3000</td><td>Ananas</td></tr>
+<tr><td>0804.4000</td><td>Avocadofrüchte</td></tr>
+<tr><td>0804.5000</td><td>Guaven, Mangofrüchte und Mangostanfrüchte</td></tr>
+<tr><td>0805</td><td>Zitrusfrüchte, frisch</td></tr>
+<tr><td>0806.1011–0806.1012</td><td>Tafeltrauben, frisch</td></tr>
+<tr><td>0807</td><td>Melonen (einschliesslich Wassermelonen) und Papaya-Früchte, frisch</td></tr>
+<tr><td>0808</td><td>Äpfel, Birnen und Quitten, frisch</td></tr>
+<tr><td>0809</td><td>Aprikosen, Kirschen, Pfirsiche (einschliesslich Brugnolen und Nektarinen), Pflaumen und Schlehen, frisch</td></tr>
+<tr><td>0810</td><td>Andere Früchte, frisch</td></tr>
+<tr><td>ex 0910.9900</td><td>Thymian, frisch oder gekühlt</td></tr>
+<tr><td>ex 1211.9000</td><td>Basilikum, Melisse, Pfefferminze, *Origanum vulgare* (Dost/Oregano/wilder Majoran), Rosmarin, Salbei, frisch oder gekühlt</td></tr>
+<tr><td>ex 1212.9299</td><td>Johannisbrot, frisch</td></tr>
+</table>
+
+[^annex1-lvlu1-1]: Durchführungsverordnung (EU) Nr. 543/2011 der Kommission vom 7. Juni 2011 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates für die Sektoren Obst und Gemüse und Verarbeitungserzeugnisse aus Obst und Gemüse, Fassung gemäss ABl. L 157 vom 15.6.2011, S. 1.
+
+Anhang 2*[^t-2]*
+
+(Art. 4)
+
+<table>
+<tr><td>Marktordnung Tarifnummern-Gruppe (Bezeichnung)</td><td>Tarifnummer</td></tr>
+<tr><td>Frisches Gemüse und frisches Obst</td><td></td></tr>
+<tr><td>1. Gruppe (Tomaten)</td><td>0702.0030/0039 0702.0090/0099</td></tr>
+<tr><td>2. Gruppe (Lollo)</td><td>0705.1930/1939 0705.1940/1949</td></tr>
+<tr><td>3. Gruppe (Bohnen)</td><td>0708.2041/2049 0708.2091/2099</td></tr>
+<tr><td>4. Gruppe (Stangensellerie)</td><td>0709.4010/4019 0709.4020/4029</td></tr>
+</table>
+
+[^t-2]: Ursprünglich Anhang 3. Eingefügt durch Ziff. II Abs. 2 der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2527](https://fedlex.data.admin.ch/eli/oc/2006/391)).

@@ -1,0 +1,53 @@
+---
+sr: "0.748.131.934.920"
+title: "Scambio di note del 12/29 febbraio 1996 che costituisce il complemento n. 3 allegato II (capitolato d'oneri) della Convenzione franco-svizzera del 4 luglio 1949 relativa alla costruzione e all'esercizio dell'aeroporto di Basilea-Mulhouse a Blotzheim"
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/1225_1225_1225"
+language: it
+version: 1996-02-28
+adopted: 1996-02-12
+in_force: 1996-02-28
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1225_1225_1225/19960228/it/xml/fedlex-data-admin-ch-eli-cc-1996-1225_1225_1225-19960228-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1225_1225_1225/19960228/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Scambio di note del 12/ 29 febbraio 1996
+
+0.748.131.934.920 (Stato il 1° aprile 1997)?[^t-1]?
+
+che costituisce il complemento n. 3 allegato II (capitolato d’oneri) della Convenzione franco-svizzera del 4 luglio 1949 relativa alla costruzione e all’esercizio dell’aeroporto di Basilea-Mulhouse a Blotzheim
+
+Entrata in vigore il 29 febbraio 1966
+
+(Stato il 1° aprile 1997)
+
+[^t-1]: [RU 1996 1225](https://fedlex.data.admin.ch/eli/oc/1996/1225_1225_1225)
+
+Traduzione*[^ingress-1]*
+
+<table>
+<tr><td>Dipartimento federale degli affari esteri</td><td>29 febbraio 1996 Ambasciata di Francia Berna</td></tr>
+</table>
+
+Il Dipartimento federale degli affari esteri presenta i suoi complimenti all’Ambasciata di Francia e si pregia riferirsi alla nota del 12 febbraio 1996 del seguente tenore:
+
+- «L’Ambasciata di Francia presenta i suoi complimenti al Dipartimento federale degli affari esteri e, a nome del proprio Governo, si pregia comunicare quanto segue:
+- Con decisione del 25 gennaio 1996 il Consiglio d’amministrazione dell’aeroporto di Basilea Mulhouse, ai fini della prosecuzione dell’ampliamento del detto aeroporto, ha proposto ai Governi francese e svizzero l’allestimento di un complemento al capitolato d’oneri allegato alla Convenzione franco-svizzera del 4 luglio 1949[^ingress-2] relativa alla costruzione e all’esercizio dell’aeroporto di Basilea-Mulhouse. Tale proposta si fonda sull’articolo 19 della Convenzione relativa alla revisione dei capitolati d’oneri e sull’articolo 9 di quest’ultimo che disciplina le estensioni e le condizioni di allestimento e di messa in servizio di opere e istallazioni supplementari.
+- All’uopo i Governi francese e svizzero ritengono che ciascun Paese abbia adempiuto appieno gli impegni stipulati in virtù dell’allegato III alla Convenzione, come emendati mediante scambio di note del 25 febbraio 1971[^ingress-3].
+-
+
+  Pertanto i due Governi adottano le seguenti disposizioni:
+
+  - 1) Tenuto conto delle prospettive di sviluppo del traffico aereo, occorre proseguire l’estensione dell’aeroporto e le relative istallazioni. L’estensione massima sarà portata a 850 ettari onde incentivare le attività aeronautiche e consentire la costruzione di una nuova pista di 2600 metri circa di lunghezza, parallela a quella principale.
+  - 2) L’Aeroporto dovrà fornire i fondi necessari all’attuazione dell’opera, con riserva delle disposizioni dell’articolo 2 paragrafo 2 della Convenzione franco-svizzera del 4 luglio 1949 indipendentemente da eventuali partecipazioni dei due Stati o delle rispettive collettività territoriali.
+
+- L’Ambasciata di Francia sarebbe riconoscente se il Dipartimento federale degli affari esteri confermasse l’accordo del Governo svizzero. La presente nota e quella di risposta del Dipartimento federale degli affari esteri costituiranno così il complemento 3 al capitolato d’oneri allegato alla Convenzione franco-svizzera del 4 luglio 1949».
+
+Il Dipartimento federale degli affari esteri si pregia confermare all’Ambasciata di Francia che il Consiglio federale svizzero approva quanto precede.
+
+Il Dipartimento federale degli affari esteri coglie l’occasione per rinnovare all’Ambasciata di Francia l’assicurazione della sua alta considerazione.
+
+[^ingress-1]: Il testo originale è pubblicato sotto lo stesso numero nell'ediz. franc. della presente Raccolta.
+[^ingress-2]: RS **0**
+[^ingress-3]:

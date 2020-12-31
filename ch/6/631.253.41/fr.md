@@ -1,0 +1,54 @@
+---
+sr: "631.253.41"
+title: Ordonnance du 26 mars 1965 mettant en vigueur le règlement relatif à la clôture douanière des bâtiments du Rhin
+eli: "https://fedlex.data.admin.ch/eli/cc/1965/234_238_234"
+language: fr
+version: 1965-04-01
+adopted: 1965-03-26
+in_force: 1965-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/234_238_234/19650401/fr/xml/fedlex-data-admin-ch-eli-cc-1965-234_238_234-19650401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/234_238_234/19650401/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance mettant en vigueur le règlement relatif à la clôture douanière des bâtiments du Rhin
+
+du 26 mars 1965 (État le 1<sup>er</sup> avril 1995)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 66, al. 2, de la loi fédérale du 28 septembre 1923[^ingress-1] sur le registre des bateaux,
+
+arrête:
+
+[^ingress-1]: [RS 747.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8907)**.** A la disp. mentionnée correspond actuellement l’art. 56 de la LF du 3 oct. 1975 sur la navigation intérieure ([RS 747.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8912)).
+
+#### Art. 1
+
+Le règlement relatif à la clôture douanière des bâtiments du Rhin, dans sa version revisée et adoptée par la Commission centrale du Rhin à la date du 21 novembre 1963[^1-1] est mis en vigueur sur le Rhin, entre la frontière suisse et le pont «Mittlere Rheinbrücke» à Bâle, avec effet au 1<sup>er</sup> avril 1965, conformément au texte ci-annexé[^1-2].
+
+[^1-1]: [RS 631.253.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7898)
+[^1-2]: [RS 631.253.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7898)
+
+#### Art. 2
+
+Le Département fédéral des finances[^2-1] est habilité à déclarer obligatoires pour la Suisse les résolutions de la Commission centrale pour la navigation du Rhin concernant la modification des annexes du règlement visé à l’article premier ci-dessus.
+
+[^2-1]: Nouvelle dénomination selon l’art. 1 de l’ACF du 23 avr. 1980 concernant l’adaptation des disp. du droit fédéral aux nouvelles dénominations des départements et des offices (non publié).
+
+#### Art. 3
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 1965. Sont abrogées à la même date:
+
+- a. l’ordonnance du 8 août 1950[^3-1] concernant la clôture douanière des bâtiments du Rhin;
+- b. l’ordonnance du 13 décembre 1957[^3-2] mettant en vigueur un complément au règlement concernant la clôture douanière des bâtiments du Rhin;
+- c. les ordonnances concernant la modification des annexes dudit règlement, des 5 mai 1955[^3-3], 10 juillet 1959[^3-4], 7 février 1961[^3-5], 23 novembre 1961[^3-6] et 28 juillet 1962[^3-7].
+
+[^3-1]: [RO **1950** II 740]
+[^3-2]: [[RO 1957 1060](https://fedlex.data.admin.ch/eli/oc/1957/1047_1060_1084)]
+[^3-3]: [[RO 1955 560](https://fedlex.data.admin.ch/eli/oc/1955/542_560_)]
+[^3-4]: [[RO 1959 599](https://fedlex.data.admin.ch/eli/oc/1959/577_599_577)]
+[^3-5]: [[RO 1961 114](https://fedlex.data.admin.ch/eli/oc/1961/112_114_118)]
+[^3-6]: [[RO 1961 1048](https://fedlex.data.admin.ch/eli/oc/1961/1025_1048_1069)]
+[^3-7]: [[RO 1962 931](https://fedlex.data.admin.ch/eli/oc/1962/890_931_932)]

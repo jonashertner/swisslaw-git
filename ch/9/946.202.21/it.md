@@ -1,0 +1,825 @@
+---
+sr: "946.202.21"
+title: "Ordinanza del 21 agosto 2013 sul controllo dei composti chimici utilizzabili a scopi civili e militari (Ordinanza sul controllo dei composti chimici, OCCC)"
+short: OCCC
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
+language: it
+version: 2020-06-01
+adopted: 2013-08-21
+in_force: 2013-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20200601/it/xml/fedlex-data-admin-ch-eli-cc-2013-580-20200601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sul controllo dei composti chimici utilizzabili a scopi civili e militari
+
+(Ordinanza sul controllo dei composti chimici, OCCC)
+
+del 21 agosto 2013 (Stato 1° giugno 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 4, 11 e 22 capoverso 1 della legge del 13 dicembre 1996[^ingress-1] sul controllo dei beni a duplice impiego,
+
+ordina:
+
+[^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Scopo e campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza disciplina l’attuazione della Convenzione del 13 gennaio 1993[^1-1] sulle armi chimiche (CAC).
+
+<sup>2</sup> La presente ordinanza si applica ai composti chimici di cui all’allegato (tabelle dei composti chimici).
+
+<sup>3</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) aggiorna le tabelle dei composti chimici se lo esigono gli obblighi internazionali della Svizzera.
+
+[^1-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 2
+
+**Definizioni**
+
+Nella presente ordinanza si intende per:
+
+- a. *produzione*: formazione di un composto chimico mediante una reazione chimica o biochimica oppure un processo biologico;
+- b. *lavorazione*: processo fisico, come la formulazione, l’estrazione o la purificazione, in cui un composto chimico non è trasformato in un altro composto chimico;
+- c. *consumo*: trasformazione di un composto chimico in un altro composto chimico mediante una reazione chimica o biochimica oppure un processo biologico;
+- d. *sito d’impianti:* più impianti situati nel medesimo luogo;
+- e. *impianto:* settore autonomo comprendente una o più unità;
+- f. *unità*: installazione per la produzione, la lavorazione o il consumo di un composto chimico, comprese le attrezzature a ciò necessarie;
+- g. *composti DOC:* tutti i composti chimici organici secondo la definizione conforme allo stato delle conoscenze scientifiche, eccettuati i polimeri con un peso molecolare superiore a 1 000 e i composti chimici formati unicamente da idrocarburi o da carbonio e metalli;
+- h. *composto PSF*: composto DOC che contiene uno o più tra gli elementi fosforo, zolfo o fluoro, e che non figura nelle tabelle;
+- i *sottoprodotto inevitabile:* composto chimico che si forma per effetto di una reazione chimica o biochimica oppure di un processo biologico, in mancanza di un adeguato procedimento alternativo;
+- j. *Stato contraente:* Stato che ha ratificato la CAC[^2-1];
+- k. *Paese di origine:* Paese in cui un composto chimico è stato prodotto;
+- l. *Paese di provenienza*: Paese in cui è avvenuto l’ultimo sdoganamento di un composto chimico.
+
+[^2-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 3
+
+**Rappresentanze diplomatiche o consolari e organizzazioni internazionali**
+
+Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzazioni internazionali in Svizzera e nel Principato del Liechtenstein sono equiparate a importazioni rispettivamente esportazioni ai sensi della presente ordinanza e sottostanno ai medesimi obblighi d’autorizzazione e dichiarazione.
+
+## Capitolo 2: Competenze
+
+#### Art. 4
+
+**Autorizzazioni**[^4-1]
+
+<sup>1</sup> Il Consiglio federale rilascia le autorizzazioni ai sensi dell’articolo 11 su proposta del DEFR.
+
+<sup>2</sup> La Segreteria di Stato dell’economia (SECO) approva le domande di autorizzazioni singole in assenza di indizi di uno dei motivi di rifiuto di cui all’articolo 6 della legge del 13 dicembre 1996 sul controllo dei beni a duplice impiego o all’articolo 20 capoverso 1 della presente ordinanza.
+
+<sup>3</sup> Essa respinge le domande di autorizzazione in presenza di uno dei motivi di rifiuto di cui all’articolo 6 della legge sul controllo dei beni a duplice impiego o all’articolo 20 della presente ordinanza.
+
+<sup>4</sup> Per l’esame materiale delle domande di autorizzazione, essa può consultare altre unità della Confederazione, segnatamente il Laboratorio Spiez, nonché organizzazioni e associazioni specializzate come pure periti.
+
+<sup>5</sup> Negli altri casi essa decide d’intesa con le unità competenti del Dipartimento federale degli affari esteri (DFAE), del Dipartimento federale della difesa, della protezione della popolazione e dello sport e del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni e dopo aver sentito il Servizio delle attività informative della Confederazione. In mancanza di accordo, decide il Consiglio federale su proposta del DEFR.
+
+[^4-1]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+
+#### Art. 5
+
+**Dichiarazioni**
+
+<sup>1</sup> Il Laboratorio Spiez riceve le dichiarazioni ai sensi della presente ordinanza, le esamina secondo le direttive della SECO e le classifica conformemente alle disposizioni della CAC[^5-1].
+
+<sup>2</sup> Stabilisce il termine per l’inoltro delle dichiarazioni e fornisce i moduli necessari.
+
+[^5-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 6
+
+**Autorità nazionale CAC**
+
+<sup>1</sup> L’attuazione della CAC[^6-1] in Svizzera è di competenza di un gruppo di lavoro costituito all’interno dell’Amministrazione federale e denominato «Autorità nazionale CAC».
+
+<sup>2</sup> L’Autorità nazionale CAC è il corrispondente nazionale per l’Organizzazione per la proibizione delle armi chimiche[^6-2] (OPAC) secondo l’articolo VII paragrafo 4 CAC, per gli Stati contraenti, per le associazioni nonché per le ditte soggette ad obblighi di autorizzazione, dichiarazione o ispezione ai sensi della CAC.
+
+<sup>3</sup> L’Autorità nazionale CAC è formata da rappresentanti della SECO, dello Stato maggiore dell’esercito e del Laboratorio Spiez.
+
+<sup>4</sup> La direzione dell’Autorità nazionale CAC spetta alla Direzione politica del DFAE.
+
+<sup>5</sup> I membri del gruppo di lavoro si riuniscono almeno una volta all’anno.
+
+[^6-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^6-2]: www.opcw.org
+
+## Capitolo 3: Divieti
+
+#### Art. 7
+
+**Composti chimici della tabella 1 presenti come prodotti intermedi o sottoprodotti**
+
+<sup>1</sup> Sono vietati i composti chimici della tabella 1 che si formano come prodotti intermedi o sottoprodotti. Fanno eccezione i composti chimici della tabella 1 che si formano come prodotti intermedi e la cui velocità di reazione è così elevata da renderne impossibile la separazione anche cambiando o interrompendo il processo.
+
+<sup>2</sup> Se un composto chimico della tabella 1 si forma come sottoprodotto inevitabile, una concentrazione totale inferiore allo 0,5 per cento in peso è considerata quantità nulla.
+
+#### Art. 8
+
+**Divieto di importazione e di esportazione di composti chimici della tabella 1**
+
+<sup>1</sup> L’importazione di composti chimici della tabella 1 da Stati non contraenti come pure l’esportazione verso questi ultimi sono vietate. Il divieto vale anche per miscele con composti chimici della tabella 1, indipendentemente dalla loro concentrazione.
+
+<sup>2</sup> Se un composto chimico della tabella 1 si forma come sottoprodotto inevitabile, una concentrazione totale inferiore allo 0,5 per cento in peso è considerata quantità nulla.
+
+#### Art. 9
+
+**Divieto di riesportazione di composti chimici della tabella 1**
+
+La riesportazione di composti chimici della tabella 1 è vietata.
+
+#### Art. 10
+
+**Divieto di importazione e di esportazione di composti chimici della tabella 2**
+
+<sup>1</sup> L’importazione di composti chimici della tabella 2 da Stati non contraenti come pure l’esportazione verso questi ultimi sono vietate.
+
+<sup>2</sup>
+
+Il divieto suddetto vale anche per miscele con composti chimici della tabella 2. Fanno eccezione:
+
+- a. le miscele con composti chimici della tabella 2A, se questi sono presenti in quantità inferiore all’1 per cento in peso;
+- b. le miscele con composti chimici della tabella 2B, se questi sono presenti in quantità inferiore al 10 per cento in peso;
+- c. i prodotti contenenti composti chimici della tabella 2 come ingredienti abituali e che sono imballati per la vendita al dettaglio e destinati ad un uso personale, oppure i prodotti contenenti composti chimici della tabella 2 come ingredienti abituali e che sono imballati per uso individuale.
+
+## Capitolo 4: Obblighi di autorizzazione
+
+### Sezione 1: Produzione, lavorazione e consumo
+
+#### Art. 11
+
+**Composti chimici della tabella 1**
+
+<sup>1</sup> La produzione, la lavorazione e il consumo di composti chimici della tabella 1 sono soggetti ad autorizzazione.
+
+<sup>2</sup>
+
+L’autorizzazione può essere rilasciata:
+
+- a. per le finalità di un impianto statale su scala ridotta connesse alla ricerca, alla medicina o alla farmaceutica, oppure alla sicurezza;
+- b. per le finalità degli impianti connessi alla ricerca, alla medicina o alla farmaceutica, se il quantitativo totale annuo per impianto è di 10 kg al massimo.
+
+<sup>3</sup>
+
+La domanda deve essere inoltrata alla SECO almeno 200 giorni prima che l’attività soggetta ad autorizzazione sia avviata per la prima volta, e deve contenere le indicazioni seguenti:
+
+- a. nome e indirizzo del richiedente;
+- b. una descrizione tecnica dettagliata dell’unità e delle sue parti interessate;
+- c. una descrizione dell’attività prevista.
+
+<sup>4</sup>
+
+Sono esenti dall’obbligo di autorizzazione la lavorazione e il consumo di composti chimici della tabella 1 ai seguenti scopi, se il quantitativo totale annuo per impianto è di 100 g al massimo:
+
+- a. per le finalità connesse alla ricerca, alla medicina o alla farmaceutica;
+- b. per le finalità connesse alla sicurezza di un impianto dell’Amministrazione federale centrale.[^11-1]
+
+[^11-1]: Introdotto dal n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 12
+
+**Limitazioni quantitative**
+
+<sup>1</sup> Per finalità connesse alla protezione dai composti chimici tossici e dalle armi chimiche, il Laboratorio Spiez può produrre annualmente un quantitativo massimo totale di 10 kg di composti chimici della tabella 1, come pure trattare, consumare o immagazzinare composti chimici della tabella 1.
+
+<sup>2</sup> Il quantitativo di composti chimici della tabella 1 che si può produrre, immagazzinare o importare in Svizzera complessivamente in un anno è di al massimo 1 t.
+
+### Sezione 2: Importazione, esportazione e transito
+
+#### Art. 13
+
+**Composti chimici della tabella 1**
+
+<sup>1</sup> L’importazione di composti chimici della tabella 1 da Stati contraenti come pure l’esportazione verso questi ultimi sono soggette ad autorizzazione. L’obbligo di autorizzazione vale anche per miscele con composti chimici della tabella 1, indipendentemente dalla loro concentrazione.
+
+<sup>2</sup> Se un composto chimico della tabella 1 si forma come sottoprodotto inevitabile, una sua concentrazione totale inferiore allo 0,5 per cento in peso è considerata quantità nulla.
+
+<sup>3</sup>
+
+La domanda ai sensi del capoverso 1 va inoltrata alla SECO almeno 40 giorni prima dell’importazione o dell’esportazione e deve contenere le indicazioni seguenti:
+
+- a. la denominazione chimica con il numero del *Chemical Abstract Service* (numero CAS)[^13-1] e il quantitativo esatto del composto chimico;
+- b. nome e indirizzo del consumatore finale;
+- c. una descrizione dettagliata della prevista utilizzazione del composto chimico;
+- d. la conferma che il composto chimico sarà utilizzato esclusivamente per finalità connesse alla ricerca o alla sicurezza, alla medicina o alla farmaceutica;
+- e. la conferma che il composto chimico non sarà riesportato.
+
+<sup>4</sup> In caso di esportazione l’esportatore è tenuto a far certificare dal Paese di destinazione le indicazioni di cui al capoverso 3.
+
+[^13-1]: Si tratta del numero di identificazione delle sostanze stabilito dal *Chemical Abstract Service* (www.cas.org).
+
+#### Art. 14
+
+**Composti chimici della tabella 2**
+
+<sup>1</sup>
+
+L’esportazione di composti chimici della tabella 2 è soggetta ad autorizzazione. Sono esenti da autorizzazione le esportazioni di:
+
+- a. composti chimici della tabella 2B verso Stati contraenti, se i composti chimici costituiscono campioni di merce e il quantitativo totale per partita è inferiore a 100 g;
+- b. miscele con composti chimici della tabella 2A, se questi sono presenti in quantità inferiore all’1 per cento in peso;
+- c. miscele con composti chimici della tabella 2B, se questi sono presenti in quantità inferiore al 30 per cento in peso.
+
+<sup>2</sup> ...[^14-1]
+
+<sup>3</sup> La SECO può chiedere la conferma al richiedente che il composto chimico non sarà riesportato.
+
+[^14-1]: Abrogato dal n. I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 15
+
+**Composti chimici della tabella 3**
+
+<sup>1</sup>
+
+L’esportazione di composti chimici della tabella 3 è soggetta ad autorizzazione. Sono esenti da autorizzazione le esportazioni di:
+
+- a. composti chimici della tabella 3, se essi costituiscono campioni di merce e il quantitativo totale per partita è inferiore a 1 kg;
+- b. miscele con composti chimici della tabella 3, se questi sono presenti in quantità inferiore al 30 per cento in peso.
+
+<sup>2</sup>
+
+Se l’esportazione è destinata a uno Stato non contraente, la domanda va inoltrata alla SECO unitamente a un certificato del Paese di destinazione che contenga le indicazioni seguenti:[^15-1]
+
+- a. la denominazione chimica con il numero CAS e il quantitativo esatto del composto chimico;
+- b. nome e indirizzo del consumatore finale;
+- c. una descrizione dettagliata della prevista utilizzazione del composto chimico;
+- d. la conferma che il composto chimico sarà utilizzato esclusivamente per finalità non vietate dalla CAC[^15-2];
+- e.[^15-3] la conferma che il composto chimico non sarà riesportato.
+
+<sup>3</sup> ... [^15-4]
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^15-3]: Introdotta dal n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-4]: Abrogato dal n. I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 16
+
+**Prove interlaboratorio**
+
+<sup>1</sup> L’importazione da Stati contraenti e l’esportazione verso questi ultimi di campioni analitici contenenti composti chimici delle tabelle 1 o 2A possono essere autorizzate se finalizzate al controllo della qualità dei laboratori (prove interlaboratorio) da parte di organizzazioni internazionali o istituti scientifici riconosciuti.
+
+<sup>2</sup> Il divieto di riesportazione di cui all’articolo 9 non è applicabile.
+
+#### Art. 17
+
+**Esportazione esente da autorizzazione**
+
+<sup>1</sup> Chi esporta composti chimici figuranti nei capitoli 28–30 (voci di tariffa 3002.1100–9000), 34, 36–40 e 81 della tariffa doganale[^17-1] non soggetti ad autorizzazione di esportazione è tenuto ad apporre la menzione «esente da autorizzazione» sulla dichiarazione di esportazione.[^17-2]
+
+<sup>2</sup> Su richiesta della SECO, l’esportatore deve poter provare in qualsiasi momento la regolarità dell’esportazione in esenzione da autorizzazione. L’obbligo della prova cessa dieci anni dopo l’imposizione doganale.
+
+[^17-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
+[^17-2]: Nuovo testo giusta l’all. 3 n. 15 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+
+#### Art. 18
+
+**Transito**
+
+<sup>1</sup> Gli agenti di dogana possono fermare per accertamenti i trasporti di composti chimici in transito.
+
+<sup>2</sup> Il transito è consentito unicamente se l’esportazione è conforme alle prescrizioni del Paese di origine o del Paese di provenienza.
+
+<sup>3</sup> All’entrata nel territorio doganale l’impresa incaricata del transito è tenuta a presentare la prova della conformità secondo il capoverso 2. In casi motivati, d’intesa con le autorità competenti la prova può essere presentata successivamente.
+
+<sup>4</sup> La SECO vieta il transito se vi è motivo di ritenere che quest’ultimo contravvenga alle disposizioni della CAC[^18-1].
+
+<sup>5</sup> L’uscita da un deposito doganale aperto, da un deposito di merci di gran consumo o da un deposito franco doganale è equiparata al transito.
+
+[^18-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+### Sezione 3: Procedura
+
+#### Art. 19
+
+**Domande di autorizzazione**
+
+<sup>1</sup> Le domande di autorizzazione vanno inoltrate mediante il modulo emesso dalla SECO.
+
+<sup>2</sup> I certificati del Paese di destinazione di cui agli articoli 13 capoverso 4 e 15 capoverso 2 possono essere redatti in tedesco, francese, italiano o in inglese. Le traduzioni da altre lingue devono essere autenticate.[^19-1]
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 20
+
+**Rifiuto delle autorizzazioni**
+
+<sup>1</sup> Se l’attività prevista è in contrasto con la CAC[^20-1] l’autorizzazione non viene concessa.
+
+<sup>2</sup>
+
+Il permesso generale d’esportazione (PG) non viene concesso se nei due anni che precedono l’inoltro della domanda il richiedente o un membro dei suoi organi è stato oggetto di una condanna passata in giudicato per infrazioni:
+
+- a. alla legge del 13 dicembre 1996 sul controllo dei beni a duplice impiego;
+- b. alle disposizioni in materia di esportazione, importazione e transito della legge del 13 dicembre 1996[^20-2] sul materiale bellico, della legge del 21 marzo 2003[^20-3] sull’energia nucleare o della legge federale del 25 giugno 1982[^20-4] sulle misure economiche esterne.
+
+[^20-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^20-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^20-3]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^20-4]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+
+#### Art. 21
+
+**Autorizzazioni singole**
+
+<sup>1</sup> La SECO può rilasciare un’autorizzazione singola per l’importazione e l’esportazione di composti chimici che figurano nelle tabelle dei composti chimici ad una persona fisica o giuridica avente domicilio o sede in territorio doganale svizzero oppure in una enclave doganale svizzera.
+
+<sup>2</sup> L’autorizzazione singola non è trasferibile.
+
+<sup>3</sup> È valida due anni. La sua validità può essere prorogata una volta di due anni.[^21-1]
+
+<sup>4</sup> L’autorizzazione singola può essere vincolata a condizioni ed oneri.
+
+<sup>5</sup>
+
+La SECO revoca l’autorizzazione se:
+
+- a non sussistono più i presupposti per il rilascio;
+- b. le condizioni e gli oneri vincolati all’autorizzazione non sono adempiuti.
+
+[^21-1]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+
+#### Art. 22
+
+**Permesso generale d’esportazione**
+
+<sup>1</sup> Ad una persona fisica o giuridica iscritta al registro di commercio svizzero o del Liechtenstein la SECO può rilasciare un PG per l’esportazione di composti chimici delle tabelle 2B e 3.
+
+<sup>2</sup> Un PG può essere rilasciato anche per prove interlaboratorio ai sensi dell’articolo 16.
+
+<sup>3</sup> Un PG non è trasferibile.
+
+<sup>4</sup> È valido due anni.
+
+<sup>5</sup>
+
+La SECO revoca il permesso se:
+
+- a non sussistono più i presupposti per il rilascio;
+- b. le condizioni e gli oneri ad esso vincolati non sono adempiuti.
+
+#### Art. 23
+
+**Presupposti per il rilascio di un PG**
+
+Un PG può essere rilasciato se i composti chimici sono destinati a consumatori finali con sede o domicilio in uno Stato contraente della CAC[^23-1] e se il richiedente può dimostrare che:
+
+- a. l’attività del consumatore finale è compatibile con la CAC;
+- b. svolge in modo regolamentare le sue attività transfrontaliere; e
+- c. assicura l’attuazione di controlli affidabili in seno all’azienda all’atto dell’esportazione.
+
+[^23-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 24
+
+**Oneri a carico dei titolari di un PG**
+
+Il titolare di un PG deve adempiere agli oneri seguenti:
+
+- a. indicare il numero del PG nella dichiarazione doganale;
+- b. apporre sui documenti commerciali relativi all’esportazione l’indicazione «Questi beni sottostanno ai controlli internazionali delle esportazioni» o un’indicazione ad essa equivalente per contenuto;
+- c. conservare per dieci anni a decorrere dalla data dell’imposizione doganale tutti i documenti essenziali in relazione all’esportazione e, dietro richiesta, presentarli alle autorità competenti.
+
+## Capitolo 5: Obblighi di dichiarazione
+
+### Sezione 1: Produzione, lavorazione e consumo
+
+#### Art. 25
+
+**Composti chimici della tabella 1**
+
+<sup>1</sup>
+
+Il Laboratorio Spiez e il titolare di un’autorizzazione ai sensi dell’articolo 11 sono tenuti a dichiarare al Laboratorio Spiez quanto segue:
+
+- a produzione, lavorazione e consumo di composti chimici della tabella 1 dell’anno civile precedente, indicando i quantitativi esatti, inclusi i quantitativi immagazzinati;
+- b. tutte le modifiche apportate all’unità nell’anno civile precedente;
+- c. prima della fine dell’anno: le attività previste nell’anno civile successivo.
+
+<sup>2</sup> Le modifiche dell’unità previste vanno dichiarate al Laboratorio Spiez almeno 200 giorni prima della loro realizzazione.
+
+#### Art. 26
+
+**Composti chimici della tabella 2**
+
+<sup>1</sup>
+
+La produzione, la lavorazione e il consumo di composti chimici della tabella 2 vanno dichiarati al Laboratorio Spiez ogni anno, se in uno dei tre anni civili precedenti in sito d’impianti sono stati superati i quantitativi seguenti, o se ciò è previsto per l’anno civile successivo:
+
+- a. 1 kg di un composto chimico della tabella 2A contrassegnato con «\*»;
+- b. 100 kg di un composto chimico della tabella 2A non contrassegnato con «\*»;
+- c. 1 t di un composto chimico della tabella 2B.
+
+<sup>2</sup>
+
+Le dichiarazioni annuali comprendono:
+
+- a. all’inizio dell’anno, una dichiarazione sulle attività svolte durante l’anno civile precedente;
+- b. prima della fine dell’anno, una dichiarazione sulle attività previste nell’anno civile successivo.
+
+<sup>3</sup>
+
+Le dichiarazioni devono contenere le indicazioni seguenti:
+
+- a. una descrizione del sito d’impianti, la sua esatta ubicazione con l’indirizzo e la denominazione della ditta che lo gestisce;
+- b. l’indicazione di tutti gli impianti all’interno del sito d’impianti in cui è stata svolta o è prevista un’attività soggetta a dichiarazione secondo il capoverso 1, con le esatte ubicazioni e la denominazione delle ditte che li gestiscono, nonché l’indicazione delle loro attività principali e delle loro capacità di produzione relative ai composti chimici dichiarati;
+- c. l’esatta denominazione dei composti chimici, con l’indicazione dei loro quantitativi e degli usi previsti;
+- d. in caso di attività soggette a dichiarazione: il periodo in cui verranno svolte.
+
+<sup>4</sup> Se dopo l’inoltro della dichiarazione ai sensi del capoverso 2 lettera b si pianifica un’attività supplementare, quest’ultima va dichiarata almeno dieci giorni prima del suo inizio.
+
+#### Art. 27
+
+**Composti chimici della tabella 2 presenti in miscele e come prodotti intermedi o sottoprodotti**
+
+<sup>1</sup>
+
+Gli obblighi di dichiarazione di cui all’articolo 26 valgono anche per i composti chimici:
+
+- a.
+
+  della tabella 2A in miscele, se:
+
+  - 1\. presenti in quantità inferiore al 10 per cento in peso e se il quantitativo totale è superiore a 10 kg,
+  - 2\. presenti in quantità superiore al 10 per cento in peso e se il quantitativo totale è superiore a 1 kg;
+
+- b. della tabella 2A, se presenti soltanto come sottoprodotti o prodotti intermedi, se immediatamente distrutti e se in un qualsiasi momento nel corso del processo la loro concentrazione è superiore all’1 per cento in peso;
+- c. della tabella 2B in miscele, se presenti in quantità superiore al 30 per cento in peso;
+- d. della tabella 2B, presenti soltanto come sottoprodotti o prodotti intermedi e immediatamente distrutti, se in un qualsiasi momento nel corso del processo la loro concentrazione è superiore al 30 per cento in peso.
+
+<sup>2</sup> Fanno eccezione i prodotti intermedi la cui velocità di reazione è così elevata da renderne impossibile la separazione anche cambiando o interrompendo il processo.
+
+#### Art. 28
+
+**Composti chimici della tabella 3**
+
+<sup>1</sup> La produzione di composti chimici della tabella 3 va dichiarata al Laboratorio Spiez ogni anno se nell’anno civile precedente in un sito d’impianti ne sono state prodotte più di 30 t, o se ciò è previsto per l’anno civile successivo.
+
+<sup>2</sup>
+
+Le dichiarazioni annuali comprendono:
+
+- a. all’inizio dell’anno, una dichiarazione sulle attività svolte durante l’anno civile precedente;
+- b. prima della fine dell’anno, una dichiarazione sulle attività previste nell’anno civile successivo.
+
+<sup>3</sup>
+
+Le dichiarazioni devono contenere le indicazioni seguenti:
+
+- a. una descrizione del sito d’impianti, la sua esatta ubicazione con l’indirizzo e la denominazione della ditta che lo gestisce;
+- b. l’indicazione di tutti gli impianti all’interno del sito d’impianti in cui sono state prodotte o si prevede di produrre più di 30 t di un composto chimico della tabella 3, con le esatte ubicazioni e la denominazione delle ditte che li gestiscono, nonché l’indicazione delle loro attività principali;
+- c. l’esatta denominazione dei composti chimici, con l’indicazione approssimativa dei quantitativi di produzione e degli usi previsti.
+
+<sup>4</sup> Se dopo l’inoltro della dichiarazione ai sensi del capoverso 2 lettera b si pianifica un’attività supplementare, quest’ultima va dichiarata almeno dieci giorni prima del suo inizio.
+
+#### Art. 29
+
+**Composti chimici della tabella 3 presenti in miscele e come prodotti intermedi o sottoprodotti**
+
+<sup>1</sup>
+
+Gli obblighi di dichiarazione di cui all’articolo 28 valgono anche per i composti chimici:
+
+- a. in miscele, se presenti in quantità superiore al 30 per cento in peso;
+- b. presenti soltanto come prodotti intermedi o sottoprodotti anche se immediatamente distrutti, se in un qualsiasi momento nel corso del processo la loro concentrazione è superiore al 30 per cento in peso.
+
+<sup>2</sup> Fanno eccezione i prodotti intermedi la cui velocità di reazione è così elevata da renderne impossibile la separazione anche cambiando o interrompendo il processo.
+
+#### Art. 30
+
+**Siti d’impianti che producono composti DOC**
+
+<sup>1</sup>
+
+I produttori di composti DOC sono tenuti a dichiarare ogni anno al Laboratorio Spiez:
+
+- a. in quale sito d’impianti nell’anno civile precedente sono state prodotte complessivamente più di 200 t di composti DOC;
+- b. in quale impianto o in quali impianti del sito d’impianti oggetto della dichiarazione, nell’anno civile precedente sono state prodotte più di 30 t di un composto PSF.
+
+<sup>2</sup> I siti d’impianti che producono esclusivamente esplosivi o idrocarburi non devono essere oggetto di dichiarazione.
+
+<sup>3</sup>
+
+Le dichiarazioni devono contenere le indicazioni seguenti:
+
+- a. una descrizione del sito d’impianti;
+- b. le sue attività principali;
+- c. la sua esatta ubicazione con l’indirizzo;
+- d. la denominazione della ditta che lo gestisce.
+
+### Sezione 2: Importazione ed esportazione
+
+#### Art. 31
+
+**Importazione ed esportazione di composti chimici della tabella 1**
+
+<sup>1</sup> Ad inizio anno il titolare di un’autorizzazione ai sensi dell’articolo 21 o 22 è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici della tabella 1 effettivamente importati ed esportati nell’anno civile precedente, indicando i Paesi di provenienza e di destinazione.
+
+<sup>2</sup> Per le miscele va indicata la quantità presente di composto chimico soggetto ad autorizzazione.
+
+#### Art. 32
+
+**Importazione ed esportazione di composti chimici delle tabelle 2 e 3**
+
+<sup>1</sup>
+
+All’inizio dell’anno il titolare di un’autorizzazione ai sensi dell’articolo 21 o 22 è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici delle tabelle 2 e 3 effettivamente esportati nell’anno civile precedente, indicando i Paesi di destinazione, se i quantitativi seguenti vengono superati:
+
+- a. 1 kg di un composto chimico della tabella 2A contrassegnato con «\*»;
+- b. 100 kg di un composto chimico della tabella 2A non contrassegnato con «\*»;
+- c 100 kg di un composto chimico della tabella 2B;
+- d. 100 kg di un composto chimico della tabella 3.
+
+<sup>2</sup>
+
+All’inizio dell’anno è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici delle tabelle 2 e 3 effettivamente importati nell’anno civile precedente, indicando i Paesi di provenienza, se i quantitativi seguenti vengono superati:
+
+- a. 1 kg di un composto chimico della tabella 2A contrassegnato con «\*»;
+- b. 100 kg di un composto chimico della tabella 2A non contrassegnato con «\*»;
+- c 100 kg di un composto chimico della tabella 2B;
+- d. 100 kg di un composto chimico della tabella 3.
+
+<sup>3</sup> Per le miscele va indicato il peso effettivo del composto chimico soggetto ad autorizzazione.
+
+### Sezione 3: Misure di protezione
+
+#### Art. 33
+
+**Agenti per il controllo dell’ordine pubblico**
+
+<sup>1</sup> L’acquisizione di sostanze irritanti utilizzate in caso di disordini e di missioni speciali, nonché l’acquisizione di agenti chimici da utilizzare a fini di coercizione di polizia, vanno dichiarate al Laboratorio Spiez entro dieci giorni dall’acquisizione indicando la denominazione chimica dei componenti attivi e il numero CAS.
+
+<sup>2</sup>
+
+Non sono da dichiarare gli agenti che come componenti attivi contengono unicamente le seguenti sostanze:
+
+- a. CS, o-clorobenzilidenemalodinitrile, n. CAS 2698-41-1;
+- b. CN, ω-cloroacetofenone, n. CAS 532-27-4;
+- c. capsaicina, n. CAS 404-86-4;
+- d. capsaicina sintetica, vanillilammide dell’acido pelargonico, n. CAS 2444-46-4.
+
+#### Art. 34
+
+**Programmi e misure di protezione dalle armi chimiche**
+
+Ogni anno vanno dichiarati al Laboratorio Spiez i programmi e le misure di protezione dalle armi chimiche attuati durante l’anno civile precedente.
+
+## Capitolo 6: Obblighi in materia d’ispezione
+
+#### Art. 35
+
+**Ispezioni**
+
+<sup>1</sup> L’OPAC può verificare le dichiarazioni ai sensi degli articoli 3, 25, 26, 28 e 30–34 nel quadro di ispezioni in loco.
+
+<sup>2</sup> L’OPAC può verificare le dichiarazioni concernenti la produzione di composti chimici della tabella 1 anche mediante un’apposita strumentazione installata in loco.
+
+#### Art. 36
+
+**Svolgimento delle ispezioni**
+
+<sup>1</sup> Le ispezioni sono svolte da rappresentanti della OPAC (squadra ispettiva).
+
+<sup>2</sup> La squadra ispettiva è coadiuvata da personale dell’Autorità nazionale CAC (gruppo d’accompagnamento). Il gruppo d’accompagnamento opera in stretta collaborazione con i rappresentanti del sito d’impianti.
+
+<sup>3</sup> Il gruppo d’accompagnamento è diretto dalla SECO. Le ispezioni a unità militari sono dirette dallo Stato maggiore dell’esercito. Il potere decisionale spetta alla direzione del gruppo d’accompagnamento.
+
+<sup>4</sup> La direzione del gruppo d’accompagnamento prende i provvedimenti necessari ai fini dello svolgimento dell’ispezione e provvede alla tutela di interessi legittimi.
+
+#### Art. 37
+
+**Compiti del gruppo d’accompagnamento**
+
+<sup>1</sup>
+
+Il gruppo di accompagnamento svolge, tra gli altri, i compiti seguenti:
+
+- a. provvede affinché al settore ispezionato siano arrecati soltanto i disagi inevitabili ai fini dell’ispezione;
+- b. provvede alla tutela di dati e impianti confidenziali;
+- c. provvede alla classificazione delle informazioni accessibili;
+- d. decide d’intesa con i rappresentanti del sito d’impianti quali informazioni confidenziali debbano essere accessibili alla squadra ispettiva;
+- e. provvede, dietro richiesta dei rappresentanti del sito d’impianti, affinché nel rapporto non vengano menzionate informazioni confidenziali;
+- f. definisce in collaborazione con la squadra ispettiva procedure e modalità operative volte alla tutela di parti di unità e oggetti sensibili;
+- g. decide in merito ai ricorsi e alle eventuali misure che ne derivano;
+- h. riceve il rapporto con le constatazioni provvisorie della squadra ispettiva e provvede affinché questo sia a disposizione dei rappresentanti del sito d’impianti.
+
+<sup>2</sup> In materia di responsabilità per danni riconducibili ad un comportamento illecito da parte di rappresentanti della Confederazione in seno al gruppo d’accompagnamento, si applica la legge del 14 marzo 1958[^37-1] sulla responsabilità.
+
+[^37-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+
+#### Art. 38
+
+**Accordi d’ispezione**
+
+<sup>1</sup> La direzione del gruppo d’accompagnamento stipula accordi concernenti ispezioni ricorrenti delle unità in cui sono prodotti composti chimici della tabella 1.
+
+<sup>2</sup> Prima della stipulazione dell’accordo consulta un rappresentante del sito d’impianti.
+
+#### Art. 39
+
+**Annuncio di ispezioni e obbligo di cooperazione**
+
+<sup>1</sup> Quando l’OPAC annuncia un’ispezione, la direzione del gruppo d’accompagnamento informa senza indugio i responsabili del sito d’impianti. Comunica i tempi e i luoghi dell’ispezione, la composizione della squadra ispettiva nonché i nomi dei membri del gruppo d’accompagnamento.
+
+<sup>2</sup>
+
+In caso di ispezione i rappresentanti del sito d’impianti sono tenuti a cooperare, provvedendo in particolare a:
+
+- a. designare una persona autorizzata a impartire le istruzioni interne necessarie per lo svolgimento dell’ispezione e dotata di facoltà decisionali;
+- b. informare la squadra ispettiva sul sito d’impianti interessato, sulle attività che vi si svolgono, sulle misure di sicurezza necessarie ai fini dell’ispezione nonché sui pertinenti aspetti amministrativi e logistici;
+- c. mettere a disposizione della squadra ispettiva e del gruppo d’accompagnamento installazioni di telecomunicazione, locali di lavoro dotati di corrente elettrica e mezzi di trasporto da utilizzare all’interno del sito d’impianti, se ciò è necessario ai fini di un regolare svolgimento dell’ispezione;
+- d. garantire l’assistenza necessaria all’adempimento del mandato ispettivo;
+- e. su richiesta della squadra ispettiva, prelevare campioni e fotografare oggetti o edifici all’interno del sito d’impianti, o assistere il gruppo d’accompagnamento nello svolgimento di queste attività;
+- f. su richiesta della squadra ispettiva e in presenza di quest’ultima, effettuare analisi o prestare assistenza in relazione a tale attività, se ciò è necessario per lo svolgimento dell’ispezione e non vi si oppongono considerazioni di sicurezza;
+- g. dimostrare alla squadra ispettiva, esibendo la documentazione necessaria o in altro modo, che le parti e gli oggetti del sito d’impianti ai quali è stato negato l’accesso nel corso dell’ispezione o dell’inchiesta non sono stati e non sono impiegati per scopi vietati ai sensi della CAC[^39-1];
+- h. contribuire alla verifica di quanto accertato in via provvisoria dall’ispezione e al chiarimento di eventuali dubbi;
+- i. fornire alle autorità federali le informazioni necessarie alla definizione e alla stipulazione di accordi d’ispezione.
+
+<sup>3</sup> I rappresentanti del complesso industriale assumono i costi loro derivanti dallo svolgimento dell’ispezione. Possono chiedere un rimborso all’OPAC. La domanda va inoltrata alla SECO.
+
+<sup>4</sup> Se nel quadro di ispezioni i rappresentanti del sito d’impianti subiscono danni provocati da terzi, la Confederazione, nei limiti delle sue competenze legali, li assiste nell’attuazione delle loro pretese giuridiche.
+
+[^39-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+#### Art. 40
+
+**Prerogative in materia d’ispezione**
+
+<sup>1</sup>
+
+Se necessario ai fini dello svolgimento delle ispezioni ai sensi degli articoli VI e IX CAC[^40-1], la squadra ispettiva è in particolare autorizzata a:
+
+- a. accedere a terreni e locali e ispezionarli durante gli orari d’esercizio e di lavoro usuali;
+- b. utilizzare un’attrezzatura approvata ai sensi della CAC tenuto conto delle prescrizioni di sicurezza vigenti nell’unità;
+- c. intervistare il personale;
+- d. esaminare documenti, incartamenti e registrazioni;;
+- e. prelevare campioni, previo accordo del rappresentante del complesso industriale o della direzione del gruppo d’accompagnamento;
+- f. analizzare all’interno del complesso industriale i campioni mediante l’attrezzatura approvata oppure farli analizzare da un laboratorio designato dall’OPAC;
+- g. installare in unità in cui sono prodotti composti chimici della tabella 1 strumentazione per la sorveglianza continua, se ciò non ostacola il funzionamento delle unità interessate, e depositarvi fotografie, piani e altri documenti.
+
+<sup>2</sup>
+
+Se necessario ai fini dello svolgimento delle ispezioni ai sensi dell’articolo IX CAC, la squadra ispettiva è inoltre autorizzata in particolare a:
+
+- a. accedere a terreni e locali e ispezionarli anche al di fuori degli orari d’esercizio e di lavoro usuali;
+- b. richiedere dati relativi a tutti i movimenti di veicoli del complesso industriale adibiti a trasporto via terra, acqua o aria;
+- c. sorvegliare e ispezionare i veicoli di trasporto che lasciano il complesso industriale, eccettuate le automobili private.
+
+[^40-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+
+## Capitolo 7: Disposizioni penali
+
+#### Art. 41
+
+Secondo l’articolo 15 della legge del 13 dicembre 1996 sul controllo dei beni a duplice impiego, è punito con la multa fino a 100 000 franchi chiunque:
+
+- a intenzionalmente o per negligenza trasgredisce gli obblighi di dichiarazione di cui agli articoli 3, 25, 26, 28 e 30–34;
+- b. impedisce le ispezioni di cui all’articolo 35 o si rifiuta di adempiere agli obblighi di cooperazione di cui all’articolo 39 in occasione di dette ispezioni.
+
+## Capitolo 8: Disposizioni finali
+
+#### Art. 42
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 17 ottobre 2007[^42-1] sul controllo dei prodotti chimici è abrogata.
+
+[^42-1]: [[RU 2007 5057](https://fedlex.data.admin.ch/eli/oc/2007/710), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 23]
+
+#### Art. 43
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° ottobre 2013.
+
+Allegato*[^t-1]*
+
+(art. 1 cpv. 2 e 3)
+
+## Tabelle dei composti chimici****
+
+[^annexu1-lvlu1-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 24 feb. 2020, in vigore dal 1° giu. 2020 ([RU 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)).
+[^annexu1-lvlu1-1]: Determinanti per i controlli sono le denominazioni dei composti chimici. Un composto non può essere identificato unicamente alla luce del numero CAS. Diverse iscrizioni nelle tabelle si riferiscono a «categorie» comprendenti centinaia di sostanze simili sotto il profilo della struttura.
+
+(cfr. anche il numero di controllo 1C350 dell’allegato 2 parte 2 dell’ordinanza del 3 giugno 2016[^annexu1-lvlu1-2] sul controllo dei beni a duplice impiego)
+
+<table>
+<tr><th>Tabella 1A</th><th>Composti chimici tossici</th><th>N. CAS</th></tr>
+<tr><td>1.</td><td>Alchile (Me, Et, n-Pr o i-Pr) fosfonofluoridati di O-alchile (≤ C<sub>10</sub>, compreso il cicloalchile)</td><td></td></tr>
+<tr><td></td><td>Ad es. Sarin: metilfosfonofluoridato di O-isopropile</td><td>107-44-8</td></tr>
+<tr><td></td><td>Soman: metilfosfonofluoridato di O-pinacolile</td><td>96-64-0</td></tr>
+<tr><td>2.</td><td>N, N-dialchile (Me, Et, n-Pr o i-Pr) fosforamidocianidati di O-alchile (≤ C<sub>10</sub>, compreso il cicloalchile)</td><td></td></tr>
+<tr><td></td><td>Ad es. Tabun: N, N-dimetilfosforamidocianidati di O-etile</td><td>77-81-6</td></tr>
+<tr><td>3.</td><td>Alchile (Me, Et, n-Pr o i-Pr) fosfonotiolati di O-alchile (H o ≤ C<sub>10</sub>, compreso il cicloalchile) e di S-2-dialchile (Me, Et, n-Pr o i-Pr) amminoetile (Me, Et, n-Pr o i-Pr) e sali alchilati o protonati corrispondenti</td><td></td></tr>
+<tr><td></td><td>Ad es. VX: metilfosfonotiolati di O-etile e di S-2-diisopropilamminoetile</td><td>50782-69-9</td></tr>
+<tr><td>4.</td><td>Iprite allo zolfo:</td><td></td></tr>
+<tr><td></td><td>Solfuro di 2-cloroetile e di clorometile</td><td>2625-76-5</td></tr>
+<tr><td></td><td>Iprite: solfuro di bis-(2-cloroetile)</td><td>505-60-2</td></tr>
+<tr><td></td><td>Bis (2-cloretiltio) metano</td><td>63869-13-6</td></tr>
+<tr><td></td><td>Sesquiprite (Q): 1,2-bis (2-cloretiltio) etano</td><td>3563-36-8</td></tr>
+<tr><td></td><td>1,3-bis-(2-cloretiltio)-n-propano</td><td>63905-10-2</td></tr>
+<tr><td></td><td>1,4-bis-(2-cloretiltio)-n-butano</td><td>142868-93-7</td></tr>
+<tr><td></td><td>1,5-bis-(2-cloretiltio)-n-pentano</td><td>142868-94-8</td></tr>
+<tr><td></td><td>Ossido di bis (2-cloroetiltiometile)</td><td>63918-90-1</td></tr>
+<tr><td></td><td>Iprite-O: ossido di bis (2-cloroetiltioetile)</td><td>63918-89-8</td></tr>
+<tr><td>5.</td><td>Lewisiti:</td><td></td></tr>
+<tr><td></td><td>Lewisite 1: 2-clorovinildicloroarsina</td><td>541-25-3</td></tr>
+<tr><td></td><td>Lewisite 2: bis (2-chlorovinil) cloroarsina</td><td>40334-69-8</td></tr>
+<tr><td></td><td>Lewisite 3: tris (2-clorvinil) arsina</td><td>40334-70-1</td></tr>
+<tr><td>6.</td><td>Ipriti all’azoto:</td><td></td></tr>
+<tr><td></td><td>HN1: bis (2-cloroetil) etilammina</td><td>538-07-8</td></tr>
+<tr><td></td><td>HN1: bis (2-cloroetil) metilammina</td><td>51-75-2</td></tr>
+<tr><td></td><td>HN3: tris (2-cloroetil) ammina</td><td>555-77-1</td></tr>
+<tr><td>7.</td><td>Saxitossina</td><td>35523-89-8</td></tr>
+<tr><td>8.</td><td>Ricina</td><td>9009-86-3</td></tr>
+<tr><td>13.</td><td>Р-alchil (H o ≤C10, incl. cicloalchil) N-(1-(dialchil(≤C10, incl. cicloalchil)ammino))alchilidene(H o ≤C10, incl. cicloalchil) fluoruri fosfonammidici e sali alchilati o protonati corrispondenti Ad es.</td><td></td></tr>
+<tr><td></td><td>N-(1-(di-n-decilammino)-n-decilidene)-P-decilfosfonammidofluoruro</td><td>2387495-99-8</td></tr>
+<tr><td></td><td>Metil-(1-(dietilammino)etilidene)fosfonammidofluoruro</td><td>2387496-12-8</td></tr>
+<tr><td>14.</td><td>O-alchil (H o ≤C10, incl. cicloalchil) N-(1-(dialchil(≤C10, incl. cicloalchil)ammino)) alchilidene (H o ≤C10, incl. cicloalchil) fosforammidofluoruri e sali alchilati o protonati corrispondenti Ad es.</td><td></td></tr>
+<tr><td></td><td>O-n-decil N-(1-(di-n-decilammino)-n-decilidene)fosforammidofluoruro</td><td>2387496-00-4</td></tr>
+<tr><td></td><td>Metil (1-(dietilammino)etilidene)fosforammidofluoruro</td><td>2387496-04-8</td></tr>
+<tr><td></td><td>Etil (1-(dietilammino)etilidene)fosforammidofluoruro</td><td>2387496-06-0</td></tr>
+<tr><td>15.</td><td>Metil-(bis(dietilammino)metilene)fosfonammidofluoruro</td><td>2387496-14-0</td></tr>
+<tr><td>16.</td><td>Carbammati (quaternari e bisquaternari di dimetilcarbamoilossipiridine) Quaternari di dimetilcarbamoilossipiridine: 1-[N,N-dialchil(≤C10)-N-(n-(idrossi, ciano, acetossi)alchil(≤C10)) ammonio]-n-[N-(3-dimetilcarbamossia-α-picolinil)-N,N-dialchil(≤C10) ammonio]decano dibromuro (n=1-8) Ad es.</td><td></td></tr>
+<tr><td></td><td>1-[N,N-dimetil-N-(2-idrossi)etilammonio]-10-[N-(3-dimetilcarbamossi-α-picolinil)-N,N-dimetilammonio]decano dibromuro</td><td>77104-62-2</td></tr>
+<tr><td></td><td>Bisquaternari di dimetilcarbamoilossipiridine:1,n-Bis[N-(3-dimetilcarbamossi-α-picolil)-N,N-dialchil(≤C10) ammonio]-alcano-(2,(n-1)-dione) dibromuro (n=2-12) Ad es. 1,10-Bis[N-(3-dimetilcarbamossi-α-picolil)-N-etil-N-metilammonio]decano-2,9-dione dibromuro</td><td>77104-00-8</td></tr>
+</table>
+
+<table>
+<tr><th>Tabella 1B</th><th>Precursori</th><th colspan="2">N. CAS</th></tr>
+<tr><td>9.</td><td colspan="2">Difluoruri di alchile (Me, Et, n-Pr o i-Pr) fosfonile</td><td></td></tr>
+<tr><td></td><td colspan="2">Ad es. DF: difluoruro di metilfosfonile</td><td>676-99-3</td></tr>
+<tr><td>10.</td><td colspan="2">Alchile (Me, Et, n-Pr o i-Pr) fosfoniti di O-alchile (H o ≤ C<sub>10</sub>, compreso il cicloalchile) e di O-2-dialchile (Me, Et, n-Pr o i-Pr) amminoetile e sali alchilati o protonati corrispondenti</td><td></td></tr>
+<tr><td></td><td colspan="2">Ad es. QL: metilfosfonite di O-etile e di O-2-diisopropilamminoetile</td><td>57856-11-8</td></tr>
+<tr><td>11.</td><td colspan="2">Cloro Sarin:</td><td></td></tr>
+<tr><td></td><td colspan="2">metilfosfonocloridato di O-isopropile</td><td>1445-76-7</td></tr>
+<tr><td>12.</td><td colspan="2">Cloro Soman:</td><td></td></tr>
+<tr><td></td><td colspan="2">metilfosfonocloridato di O-pinacolile</td><td>7040-57-5</td></tr>
+</table>
+
+<table>
+<tr><th>Tabella 2A</th><th colspan="2">Composti chimici tossici</th><th>N. CAS</th></tr>
+<tr><td>1.</td><td>Amitono: fosforotioato di O,O-dietile e di S-[2-(dietilammino) etile] e sali alchilati o protonati corrispondenti</td><td colspan="2">78-53-5</td></tr>
+<tr><td>2.</td><td>PFIB: 1,1,3,3,3-pentafluoro-2-(triflurometil)-1-propene</td><td colspan="2">382-21-8</td></tr>
+<tr><td>3.</td><td>BZ: benzilato di 3-chinuclidinile\*</td><td colspan="2">6581-06-2</td></tr>
+</table>
+
+<table>
+<tr><th>Tabella 2B</th><th colspan="2">Precursori</th><th>N. CAS</th></tr>
+<tr><td>4.</td><td>Composti chimici, tranne quelli che figurano nella tabella 1, contenenti un atomo di fosforo legato a un gruppo metile, etile o propile (normale o iso), ma non ad altri atomi di carbonio</td><td colspan="2"></td></tr>
+<tr><td></td><td>Ad es. Dicloruro di metilfosfonile</td><td colspan="2">676-97-1</td></tr>
+<tr><td></td><td>Metilfosfonato di dimetile</td><td colspan="2">756-79-6</td></tr>
+<tr><td></td><td>*Eccezione:* Fonofos: etilditiofosfonato di O-etile e di S-fenile</td><td colspan="2">944-22-9</td></tr>
+<tr><td>5.</td><td>Dialogenuri N,N-dialchil (Me, Et, n-Pr o i-Pr)-fosforamidici</td><td colspan="2"></td></tr>
+<tr><td>6.</td><td>N, N-dialchil (Me, Et, n-Pr o i-Pr)-fosforamidati di dialchile (Me, Et, n-Pr o i-Pr)</td><td colspan="2"></td></tr>
+<tr><td>7.</td><td>Tricloruro di arsenico</td><td colspan="2">7784-34-1</td></tr>
+<tr><td>8.</td><td>Acido 2,2-difenil-2-idrossiacetico</td><td colspan="2">76-93-7</td></tr>
+<tr><td>9.</td><td>Chinuclidin-3-olo</td><td colspan="2">1619-34-7</td></tr>
+<tr><td>10.</td><td>Cloruri di N, N-2-dialchil (Me, Et, n-Pr o i-Pr) amminoetile e sali protonati corrispondenti</td><td colspan="2"></td></tr>
+<tr><td>11.</td><td>N, N-2-dialchil (Me, Et, n-Pr o i-Pr) amminoetanolo e i sali protonati corrispondenti</td><td colspan="2"></td></tr>
+<tr><td></td><td>*Eccezioni*:</td><td colspan="2"></td></tr>
+<tr><td></td><td>N, N-dimetilamminoetanolo e sali protonati corrispondenti</td><td colspan="2">108-01-0</td></tr>
+<tr><td></td><td>N, N-dietilamminoetanolo e sali protonati corrispondenti</td><td colspan="2">100-37-8</td></tr>
+<tr><td>12.</td><td>N, N-2-dialchil (Me, Et, n-PR o i-Pr) amminoetantiolo e sali protonati corrispondenti</td><td colspan="2"></td></tr>
+<tr><td>13.</td><td>Tiodiglicole: solfuro di bis (2-idrossietile)</td><td colspan="2">111-48-8</td></tr>
+<tr><td>14.</td><td>Alcol pinacolilico: 3,3-dimetilbutan-2-olo</td><td colspan="2">464-07-3</td></tr>
+</table>
+
+<table>
+<tr><th>Tabella 3A</th><th colspan="2">Composti chimici tossici</th><th>N. CAS</th></tr>
+<tr><td>1.</td><td>Fosgene: dicloruro di carbonile</td><td colspan="2">75-44-5</td></tr>
+<tr><td>2.</td><td>Cloruro di cianogeno</td><td colspan="2">506-77-4</td></tr>
+<tr><td>3.</td><td>Acido cianidrico</td><td colspan="2">74-90-8</td></tr>
+<tr><td>4.</td><td>Cloropicrina: tricloronitrometano</td><td colspan="2">76-06-2</td></tr>
+</table>
+
+<table>
+<tr><th>Tabella 3B</th><th>Precursori</th><th colspan="2">N. CAS</th></tr>
+<tr><td>5.</td><td colspan="2">Ossicloruro di fosforo</td><td>10025-87-3</td></tr>
+<tr><td>6.</td><td colspan="2">Tricloruro di fosforo</td><td>7719-12-2</td></tr>
+<tr><td>7.</td><td colspan="2">Pentacloruro di fosforo</td><td>10026-13-8</td></tr>
+<tr><td>8.</td><td colspan="2">Fosfito di trimetile</td><td>121-45-9</td></tr>
+<tr><td>9.</td><td colspan="2">Fosfito di trietile</td><td>122-52-1</td></tr>
+<tr><td>10.</td><td colspan="2">Fosfito di dimetile</td><td>868-85-9</td></tr>
+<tr><td>11.</td><td colspan="2">Fosfito di dietile</td><td>762-04-9</td></tr>
+<tr><td>12.</td><td colspan="2">Monocloruro di zolfo</td><td>10025-67-9</td></tr>
+<tr><td>13.</td><td colspan="2">Dicloruro di zolfo</td><td>10545-99-0</td></tr>
+<tr><td>14.</td><td colspan="2">Cloruro di tionile</td><td>7719-09-7</td></tr>
+<tr><td>15.</td><td colspan="2">Etildietanolammina</td><td>139-87-7</td></tr>
+<tr><td>16.</td><td colspan="2">Metildietanolammina</td><td>105-59-9</td></tr>
+<tr><td>17.</td><td colspan="2">Trietanolammina</td><td>102-71-6</td></tr>
+</table>
+
+[^annexu1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)

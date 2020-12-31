@@ -1,0 +1,263 @@
+---
+sr: "171.211"
+title: "Ordinanza dell'Assemblea federale del 18 marzo 1988 concernente la legge sulle indennità parlamentari"
+eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
+language: it
+version: 2014-09-01
+adopted: 1988-03-18
+in_force: 1988-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20140901/it/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20140901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20140901/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’Assemblea federale concernente la legge sulle indennità parlamentari****
+
+del 18 marzo 1988 (Stato 1° settembre 2014)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 14 della legge del 18 marzo 1988[^ingress-1] sulle indennità parlamentari (LI),[^ingress-2]
+
+decreta:
+
+[^ingress-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O dell’AF dell’8 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1287](https://fedlex.data.admin.ch/eli/fga/2004/295)[1297](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+
+#### Art. 1 e 2
+
+[^12-1]
+
+[^12-1]: Abrogati giusta il n. I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+
+#### Art. 3
+
+**Indennità per vitto e pernottamento**[^3-1]
+
+<sup>1</sup> L’indennità per il vitto è di 115[^3-2] franchi il giorno e quella di pernottamento di 180[^3-3] franchi.
+
+<sup>2</sup> L’indennità di pernottamento è versata per ogni pernottamento tra due giorni di seduta consecutivi. Non è versata se il parlamentare abita a una distanza di 30 minuti al massimo (percorsa con un mezzo di trasporto pubblico) o in un raggio di dieci chilometri in linea d’aria. Il parlamentare che non ha diritto a un’indennità di pernottamento può beneficiarne eccezionalmente, su richiesta, per le spese di pernottamento sostenute nell’ambito della sua attività parlamentare.[^3-4]
+
+<sup>2bis</sup> La Delegazione amministrativa dell’Assemblea federale (Delegazione amministrativa) stabilisce indennità specifiche per parlamentari domiciliati all’estero al momento della loro elezione. Tiene adeguatamente conto della distanza dal luogo di domicilio.[^3-5]
+
+<sup>3</sup>
+
+Per le attività all’estero, l’indennità per il vitto e quella di pernottamento ammontano complessivamente a 395[^3-6] franchi il giorno. La Delegazione amministrativa[^3-7] può stabilire indennità più elevate:
+
+- a. per singoli Paesi e città, se le circostanze lo richiedono;
+- b. in singoli casi motivati, su presentazione dei giustificativi.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^3-2]: Nuova indennità giusta il n. I lett. d dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-3]: Nuova indennità giusta il n. I lett. e dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-4]: Nuovo testo giusta il n. I dell’O dell’AF del 21 mar. 2014, in vigore dal 1° set. 2014 ([RU 2015 1135](https://fedlex.data.admin.ch/eli/oc/2015/228); [FF 2013 6873](https://fedlex.data.admin.ch/eli/fga/2013/1542)[6879](https://fedlex.data.admin.ch/eli/fga/2013/1544)).
+[^3-5]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2011 (Parlamentari con domicilio all’estero), in vigore dal 5 dic. 2011 ([RU 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 7761](https://fedlex.data.admin.ch/eli/fga/2010/1644)[7767](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+[^3-6]: Nuova indennità giusta il n. I lett. f dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-7]: Nuova espr. giusta il n. I dell’O dell’AF del 18 mar. 2011 (Parlamentari con domicilio all’estero), in vigore dal 5 dic. 2011 ([RU 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 7761](https://fedlex.data.admin.ch/eli/fga/2010/1644)[7767](https://fedlex.data.admin.ch/eli/fga/2010/1646)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 4
+
+**Indennità per spese di viaggio**[^4-1]
+
+<sup>1</sup>
+
+Quale contributo forfettario a copertura delle spese di viaggio all’interno del Paese il parlamentare riceve:
+
+- a. un abbonamento generale di 1<sup>a</sup> classe delle imprese svizzere di trasporto; oppure
+- b. un importo corrispondente al prezzo pagato dalla Confederazione per l’abbonamento generale.
+
+<sup>1bis</sup> La Delegazione amministrativa stabilisce indennità specifiche per parlamentari domiciliati all’estero al momento della loro elezione. Tiene adeguatamente conto della distanza dal luogo di domicilio.[^4-2]
+
+<sup>2</sup> Al parlamentare che viaggia con il proprio veicolo a motore sono rimborsate le tasse di parcheggio. La Confederazione copre i danni causati al veicolo durante le trasferte.
+
+<sup>3</sup> In casi speciali, la Confederazione può versare ai parlamentari un contributo supplementare a copertura delle spese di viaggio effettive, in particolare per i voli di linea interni da e per Berna. La concessione e l’importo di tale contributo sono decisi dalla Delegazione amministrativa.
+
+<sup>4</sup>
+
+La Confederazione procura i biglietti necessari per i viaggi effettuati per partecipare a manifestazioni all’estero. Se il parlamentare organizza il viaggio individualmente, la Confederazione gli rimborsa le seguenti spese:
+
+- a. per i viaggi che possono essere effettuati con un volo di linea: la metà del prezzo pagato dalla Confederazione per un biglietto d’aereo in business class;
+- b. per gli altri viaggi: il prezzo di un biglietto ferroviario di prima classe a partire dalla frontiera svizzera.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^4-2]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2011 (Parlamentari con domicilio all’estero), in vigore dal 5 dic. 2011 ([RU 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 7761](https://fedlex.data.admin.ch/eli/fga/2010/1644)[7767](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+
+#### Art. 5
+
+**Disposizioni comuni per la diaria e per le indennità per il vitto, il pernottamento e le spese di viaggio nonché per l’indennità di percorso**[^5-1]
+
+<sup>1</sup> Il parlamentare che, senza esserne stato incaricato dall’Ufficio o da una commissione, partecipa, su invito di un’autorità federale, a un congresso o a un’altra manifestazione da questa organizzata, ha diritto a un’indennità per il vitto, il pernottamento e le spese di viaggio nonché all’indennità di percorso, ma non alla diaria.
+
+<sup>2</sup> L’indennità per il vitto, il pernottamento e le spese di viaggio non è versata se la Confederazione mette a disposizione mezzi di trasporto nonché vitto e alloggio. Non sono tuttavia conteggiati i pasti offerti occasionalmente dalla Confederazione.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+
+#### Art. 6
+
+**Indennità di percorso**[^6-1]
+
+<sup>1</sup> L’indennità di percorso consta di due terzi di risarcimento spese e un terzo di risarcimento per perdita di guadagno. È versata sotto forma di importo forfettario per singolo viaggio.
+
+<sup>2</sup> Questo importo è calcolato di regola una volta per legislatura in base alla durata del viaggio effettuato mediante i mezzi di trasporto pubblici.
+
+<sup>3</sup> L’indennità di percorso ammonta a 22.50[^6-2] franchi per ogni quarto d’ora di viaggio tra il domicilio e Berna che superi la durata di un’ora e mezzo.
+
+<sup>3bis</sup> La Delegazione amministrativa stabilisce indennità specifiche per parlamentari domiciliati all’estero al momento della loro elezione. Tiene adeguatamente conto della distanza dal luogo di domicilio.[^6-3]
+
+<sup>4</sup> La Delegazione amministrativa approva le indennità di percorso calcolate dai Servizi del Parlamento e decide nei casi particolari.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^6-2]: Nuova indennità giusta il n. I lett. g dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^6-3]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2011 (Parlamentari con domicilio all’estero), in vigore dal 5 dic. 2011 ([RU 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 7761](https://fedlex.data.admin.ch/eli/fga/2010/1644)[7767](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+
+#### Art. 7
+
+**Indennità di previdenza**[^7-1]
+
+<sup>1</sup> L’indennità di previdenza ammonta annualmente al 16 per cento dell’importo massimo di cui all’articolo 8 capoverso 1 della legge federale del 25 giugno 1982[^7-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP). Il parlamentare finanzia tale indennità in ragione di un quarto.
+
+<sup>2</sup>
+
+La prestazione della cassa di previdenza di cui all’articolo 7 capoverso 3 LI è versata come segue:
+
+- a. se il parlamentare lascia il Parlamento prima dei 60 anni, il suo avere è trasferito all’istituto di libero passaggio da lui designato;
+- b. se il parlamentare lascia il Parlamento tra i 60 e i 65 anni, il suo avere è esigibile ed è versato a titolo di capitale di vecchiaia; se il parlamentare continua ad esercitare un’attività lucrativa, il suo avere può essere trasferito a titolo di prestazione d’uscita all’istituto di previdenza presso cui è assicurato;
+- c. dopo il compimento dei 65 anni, l’avere è versato al parlamentare a titolo di capitale di vecchiaia;
+- d. in caso di morte, l’avere è versato a titolo di capitale di decesso ai beneficiari secondo l’articolo 7*b* capoverso 4 della presente ordinanza.
+
+<sup>3</sup> I contributi del parlamentare alla cassa di previdenza di cui all’articolo 7 capoverso 3 LI sono deducibili dal reddito per le imposte dirette federali, cantonali e comunali. Le prestazioni versate dalla cassa di previdenza costituiscono un reddito imponibile della previdenza.
+
+<sup>4</sup> Mediante l’indennità di previdenza, sia la Confederazione sia il parlamentare soddisfanno l’obbligo di contribuzione alla previdenza professionale per il reddito derivante dall’esercizio del mandato parlamentare.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O dell’AF dell’8 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1287](https://fedlex.data.admin.ch/eli/fga/2004/295)[1297](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+[^7-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 7a
+
+**Previdenza in caso di invalidità**[^7a-1]
+
+<sup>1</sup> In caso di invalidità il parlamentare riceve una rendita.
+
+<sup>2</sup> Per stabilire il grado di invalidità e l’inizio del diritto alla rendita sono determinanti gli articoli 28 e 29 della legge federale del 19 giugno 1959[^7a-2] sull’assicurazione per l’invalidità e le relative disposizioni di esecuzione.
+
+<sup>3</sup> La rendita intera di invalidità ammonta annualmente al 250 per cento dell’importo massimo della rendita di vecchiaia annua secondo l’articolo 34 della legge federale del 20 dicembre 1946[^7a-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS). Sono computate eventuali prestazioni di invalidità versate da istituti di previdenza professionale o, se il parlamentare esercita un’attività indipendente, da forme di previdenza individuale vincolata riconosciute (pilastro 3a).
+
+[^7a-1]: Introdotto dal n. I dell’O dell’AF del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)6243).
+[^7a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^7a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 7b
+
+**Previdenza in caso di decesso**[^7b-1]
+
+<sup>1</sup> In caso di decesso del parlamentare, le persone da lui designate ricevono una prestazione in capitale.
+
+<sup>2</sup> Il capitale garantito in caso di decesso è pari all’importo massimo della rendita di vecchiaia annua secondo l’articolo 34 LAVS[^7b-2] moltiplicato per il numero di anni corrispondenti alla differenza tra il 65° anno di età e l’età del parlamentare il giorno del decesso. L’età il giorno del decesso corrisponde alla differenza tra l’anno civile in corso e l’anno di nascita.
+
+<sup>3</sup> Se il parlamentare esercita un’attività indipendente, sono computate le prestazioni versate da istituti di previdenza professionale o da forme di previdenza individuale vincolata riconosciute (pilastro 3a). Le prestazioni di rendita sono prese in considerazione al loro valore capitalizzato.
+
+<sup>4</sup> L’ordine dei beneficiari è retto dall’articolo 15 capoversi 1 lettera b e 2 dell’ordinanza del 3 ottobre 1994[^7b-3] sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità.
+
+[^7b-1]: Introdotto dal n. I dell’O dell’AF del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)6243).
+[^7b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7b-3]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+
+#### Art. 8
+
+**Malattia o infortunio all’estero**[^8-1]
+
+<sup>1</sup>
+
+La Confederazione conclude un’assicurazione che, in caso di malattia o infortunio all’estero nell’ambito di un’attività parlamentare, fornisce al parlamentare almeno le prestazioni seguenti:
+
+- a. 30 000 franchi al minimo per le spese di rimpatrio in Svizzera;
+- b. 100 000 franchi al minimo per le spese inerenti alle cure mediche e all’ospedalizzazione;
+- c. un anticipo di 30 000 franchi al minimo per le spese di ospedalizzazione.
+
+<sup>2</sup> Le prestazioni dell’assicurazione di cui al capoverso 1 vengono ridotte in ragione dell’ammontare delle prestazioni fornite dall’assicurazione personale del parlamentare contro le malattie e gli infortuni.
+
+<sup>3</sup> Il diritto del parlamentare alle prestazioni sussiste direttamente nei confronti dell’assicurazione.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’AF dell’8 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1287](https://fedlex.data.admin.ch/eli/fga/2004/295)[1297](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+
+#### Art. 8a
+
+**Importo sostitutivo della diaria**[^8a-1]
+
+<sup>1</sup> Il diritto all’importo sostitutivo della diaria persa nasce all’insorgenza della malattia o al verificarsi dell’infortunio e sussiste per 730 giorni civili al massimo. Si estingue al sorgere del diritto a una rendita di invalidità.
+
+<sup>2</sup> Durante i primi 30 giorni civili il parlamentare ha diritto a un importo pari al 100 per cento della diaria persa. Dal 31° giorno civile ha diritto all’80 per cento della diaria persa.
+
+<sup>3</sup> La parlamentare in congedo maternità ha diritto a un importo pari al 100 per cento della diaria persa.
+
+<sup>4</sup> Il parlamentare che fa valere un diritto al versamento di un importo sostitutivo di più di cinque diarie deve produrre un certificato medico.
+
+[^8a-1]: Introdotto dal n. I dell’O dell’AF del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)6243).
+
+#### Art. 8b
+
+**Aiuto transitorio**[^8b-1]
+
+<sup>1</sup> L’aiuto transitorio non può superare il 100 per cento dell’importo massimo della rendita di vecchiaia annua secondo l’articolo 34 LAVS[^8b-2].
+
+<sup>2</sup> Il reddito del mandato parlamentare secondo l’articolo 8*a* capoverso 1 lettera a della legge federale del 18 marzo 1988 sulle indennità parlamentari si determina in base alla retribuzione annua e alla somma media delle diarie versate ai parlamentari durante l’anno civile precedente.
+
+[^8b-1]: Introdotto dal n. I dell’O dell’AF del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)6243).
+[^8b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 9
+
+**Assegno di presidenza e di vicepresidenza**
+
+<sup>1</sup> L’assegno ai presidenti dei due Consigli è di 44 000[^9-1] franchi e quello ai vicepresidenti di 11 000[^9-2] franchi.
+
+<sup>2</sup> L’assegno compensa i disborsi e le spese insorte nell’esercizio del mandato. Le spese per la partecipazione a sedute all’estero e per l’accompagnamento di delegazioni parlamentari estere in Svizzera sono indennizzate a parte.
+
+[^9-1]: Nuova indennità giusta il n. I lett. h dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^9-2]: Nuova indennità giusta il n. I lett. i dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+
+#### Art. 10
+
+**Contributi ai gruppi parlamentari**[^10-1]
+
+<sup>1</sup> Il contributo di base è di 144 500 franchi e il contributo per membro di 26 800 franchi.
+
+<sup>2</sup> Ogni anno i gruppi parlamentari presentano entro fine marzo alla Delegazione amministrativa un resoconto sull’impiego dei contributi nell’esercizio precedente.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O dell’AF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6571](https://fedlex.data.admin.ch/eli/oc/2009/810); [FF 2009 5381](https://fedlex.data.admin.ch/eli/fga/2009/1108)[5389](https://fedlex.data.admin.ch/eli/fga/2009/1110)).
+
+#### Art. 11
+
+**Spese di rappresentanza e periti**
+
+<sup>1</sup> I presidenti dei due Consigli amministrano il credito per le spese di rappresentanza.
+
+<sup>2</sup> I periti e le altre persone consultate dalle commissioni e dalle delegazioni ricevono di norma la stessa indennità dei parlamentari, sempreché non diano informazioni nel loro proprio interesse.[^11-1] Per perizie e consulenza peritale permanente è convenuta per scritto un’indennità che tenga conto dell’onere lavorativo, della difficoltà e dell’importanza del mandato. È tenuto conto delle tariffe comparabili delle associazioni professionali. La Delegazione amministrativa può stabilire altre indennità, segnatamente per periti stranieri e in casi speciali.[^11-2]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O dell’AF del 20 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1219](https://fedlex.data.admin.ch/eli/oc/2008/224); [FF 2008 109](https://fedlex.data.admin.ch/eli/fga/2008/52)[121](https://fedlex.data.admin.ch/eli/fga/2008/56)).
+[^11-2]: Nuovo testo del per. giusta il n. I dell’O dell’AF del 20 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1219](https://fedlex.data.admin.ch/eli/oc/2008/224); [FF 2008 109](https://fedlex.data.admin.ch/eli/fga/2008/52)[121](https://fedlex.data.admin.ch/eli/fga/2008/56)).
+
+#### Art. 12
+
+**Restrizioni**[^12-2]
+
+<sup>1</sup> Le retribuzioni, le indennità e i contributi di cui agli articoli 2 e 3*a* della legge del 18 marzo 1988 sulle indennità parlamentari e agli articoli 7, 9 e 10 della presente ordinanza sono proporzionalmente aumentate o ridotte in caso di entrata in funzione o di dimissioni nel corso dell’anno parlamentare.
+
+<sup>2</sup> Le retribuzioni e le indennità sono adeguatamente ridotte se il parlamentare non partecipa ai lavori consiliari e commissionali per un trimestre o più e la sua assenza non è dovuta a malattia o infortunio.
+
+[^12-2]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+
+#### Art. 13
+
+**Referendum e entrata in vigore**[^13-1]
+
+<sup>1</sup> Il presente decreto, di obbligatorietà generale[^13-2], non sottostà al referendum in virtù dell’articolo 14 capoverso 1 della legge del 18 marzo 1988 sulle indennità parlamentari.
+
+<sup>2</sup> Esso entra in vigore simultaneamente alla legge del 18 marzo 1988[^13-3] sulle indennità parlamentari.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^13-2]: Ora: O dell’AF (art. 163 cpv. 1 Cost. – [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^13-3]: Questa L è entrata in vigore il 1° lug. 1988.

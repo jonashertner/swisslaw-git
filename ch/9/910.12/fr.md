@@ -1,0 +1,677 @@
+---
+sr: "910.12"
+title: "Ordonnance du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés (Ordonnance sur les AOP et les IGP)"
+eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
+language: fr
+version: 2021-01-01
+adopted: 1997-05-28
+in_force: 1997-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20210101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la protection des appellations d’origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés****
+
+(Ordonnance sur les AOP et les IGP)[^t-1]
+
+du 28 mai 1997 (Etat le 1<sup>er</sup> janvier 2021)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+Le Conseil fédéral suisse,
+
+vu les art. 14, al. 1, let. d, 16, al. 1 et 2, et 177 de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-1], vu l’art. 41*a* de la loi du 4 octobre 1991 sur les forêts (LFo)[^ingress-2],[^ingress-3]
+
+arrête:
+
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Principe**
+
+<sup>1</sup> Les appellations d’origine et les indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés (produits) qui sont inscrites dans le registre fédéral sont protégées.[^1-1]
+
+<sup>2</sup> Elles ne peuvent être utilisées qu’aux conditions fixées par la présente ordonnance. Elles peuvent être utilisées par tout opérateur commercialisant des produits qui sont conformes au cahier des charges correspondant.[^1-2]
+
+<sup>2bis</sup> Les denrées alimentaires issues de produits agricoles sont assimilées, à toutes les étapes de la transformation, aux produits agricoles transformés.[^1-3]
+
+<sup>3</sup> Les appellations de vins sont régies par l’ordonnance du 14 novembre 2007 sur le vin[^1-4].[^1-5]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^1-3]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^1-4]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+
+#### Art. 1a
+
+**Produits sylvicoles et produits sylvicoles transformés**[^1a-1]
+
+On entend par:
+
+- a. *produit**s sylvicoles*: le bois rond;
+- b. *produits sylvicoles transformés*: les produits bruts ou rabotés issus du sciage.
+
+[^1a-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 2
+
+**Appellation d’origine**[^2-1]
+
+<sup>1</sup>
+
+Peut être enregistré comme appellation d’origine le nom d’une région, d’un lieu ou, dans des cas exceptionnels, d’un pays qui sert à désigner un produit:[^2-2]
+
+- a. originaire de cette région, de ce lieu ou de ce pays;
+- b. dont la qualité ou les caractères sont dus essentiellement ou exclusivement au milieu géographique comprenant les facteurs naturels et les facteurs humains, et
+- c. qui est produit, transformé et élaboré dans une aire géographique délimitée.
+
+<sup>2</sup> Les dénominations traditionnelles des produits qui remplissent les conditions fixées à l’al. 1 peuvent être enregistrées comme appellations d’origine.[^2-3]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 3
+
+**Indication géographique**[^3-1]
+
+<sup>1</sup>
+
+Peut être enregistré comme indication géographique le nom d’une région, d’un lieu ou, dans des cas exceptionnels, d’un pays qui sert à désigner un produit:[^3-2]
+
+- a. originaire de cette région, de ce lieu ou de ce pays;
+- b. dont une qualité déterminée, la réputation ou une autre caractéristique peut être attribuée à cette origine géographique, et
+- c. qui est produit, transformé ou élaboré dans une aire géographique délimitée.
+
+<sup>2</sup> Les dénominations traditionnelles des produits qui remplissent les conditions fixées à l’al. 1 peuvent être enregistrées comme indications géographiques.[^3-3]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 4
+
+**Nom générique**
+
+<sup>1</sup> Un nom générique ne peut être enregistré comme appellation d’origine ou indication géographique.
+
+<sup>2</sup> Par nom générique, on entend la dénomination d’un produit qui, bien que se rapportant au lieu où ce produit a été initialement élaboré ou commercialisé, est devenue un nom commun qui le désigne.
+
+<sup>3</sup> Pour déterminer si un nom est devenu générique, on tient compte de tous les facteurs entrant en ligne de compte, notamment de l’opinion des producteurs et des consommateurs, particulièrement dans la région où le nom a son origine.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+
+#### Art. 4a
+
+**Dénominations homonymes**[^4a-1]
+
+<sup>1</sup> Lorsqu’une demande d’enregistrement concerne une dénomination identique à une dénomination déjà enregistrée et que la dénomination homonyme à enregistrer donne à penser au public que les produits sont originaires d’une autre région ou d’un autre lieu, cette dénomination ne doit pas être enregistrée, bien qu’il s’agisse de la dénomination exacte de la région ou du lieu dont les produits sont originaires.[^4a-2]
+
+<sup>2</sup> L’utilisation de la dénomination homonyme enregistrée ultérieurement doit être bien différenciée de l’utilisation de la dénomination déjà enregistrée, afin d’assurer un traitement équitable aux producteurs concernés et de ne pas induire en erreur les consommateurs.
+
+[^4a-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^4a-2]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 4b
+
+**Nom d’une variété végétale ou d’une race animale**[^4b-1]
+
+<sup>1</sup> Un nom ne peut être enregistré comme appellation d’origine ou comme indication géographique lorsqu’il correspond au nom d’une variété végétale ou d’une race animale et est susceptible d’induire le consommateur en erreur quant à la véritable origine du produit.
+
+<sup>2</sup> Tout risque de tromperie est notamment exclu si la dénomination est l’homonyme d’une variété végétale ou d’une race animale locale qui n’a pas quitté son bassin d’origine ou s’il est possible de faire modifier le nom de la variété végétale ou de la race animale.[^4b-2]
+
+[^4b-1]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^4b-2]: Nouvelle teneur selon le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
+
+## Section 2 Procédure d’enregistrement
+
+#### Art. 5
+
+**Qualité pour déposer la demande**[^5-1]
+
+<sup>1</sup> Tout groupement de producteurs représentatif d’un produit peut déposer à l’Office fédéral de l’agriculture (OFAG) une demande d’enregistrement.
+
+<sup>2</sup>
+
+Pour les produits agricoles et les produits agricoles transformés, un groupement est réputé représentatif si les conditions suivantes sont remplies:
+
+- a. ses membres produisent, transforment ou élaborent au moins la moitié du volume du produit;
+- b. au moins 60 % des producteurs, 60 % des transformateurs et 60 % des élaborateurs du produit sont membres;
+- c. la démonstration est faite que le groupement fonctionne selon des principes démocratiques.
+
+<sup>3</sup> Pour les produits végétaux et les produits végétaux transformés, seuls les exploitants qui produisent une quantité significative de la matière première sont pris en compte dans le calcul des 60 % en vertu de l’al. 2, let. b.
+
+<sup>4</sup>
+
+Pour les produits sylvicoles et les produits sylvicoles transformés, un groupement est réputé représentatif si les conditions suivantes sont remplies:
+
+- a. si ses membres produisent, transforment ou élaborent au moins la moitié du volume du produit;
+- b. si ses membres représentent au moins 60 % de la surface forestière et 60 % des transformateurs;
+- c. si la démonstration est faite que le groupement fonctionne selon des principes démocratiques.
+
+<sup>5</sup>
+
+Pour une appellation d’origine, le groupement doit réunir des producteurs de tous les stades, à savoir selon la nature du produit:
+
+- a. ceux qui produisent la matière première;
+- b. ceux qui transforment le produit;
+- c. ceux qui élaborent le produit.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+
+#### Art. 6
+
+**Contenu de la demande**
+
+<sup>1</sup> La demande doit prouver que les conditions fixées par la présente ordonnance pour l’obtention de l’appellation d’origine ou de l’indication géographique sont remplies.
+
+<sup>2</sup>
+
+Elle contient en particulier:
+
+- a. le nom du groupement demandeur et la preuve de sa représentativité;
+- b. l’appellation d’origine ou l’indication géographique à enregistrer;
+- c. les éléments prouvant que la dénomination n’est pas générique;
+- d. les éléments prouvant que le produit provient de l’aire géographique au sens de l’art. 2 ou 3 (dossier historique et traçabilité);
+- e. les éléments justifiant le lien avec le milieu géographique ou avec l’origine géographique au sens de l’art. 2 ou 3 (typicité du produit liée au terroir);
+- f. la description des méthodes locales, loyales et constantes si elles existent;
+- g.[^6-1]
+
+  un résumé contenant:
+
+  - – le nom, l’adresse et la composition du groupement demandeur,
+  - – le nom du produit,
+  - – la protection demandée,
+  - – le type de produit dont il s’agit,
+  - – la preuve de la représentativité du groupement demandeur,
+  - – la preuve que la dénomination n’est pas générique,
+  - – le dossier historique,
+  - – la typicité du produit liée au terroir,
+  - – la description des méthodes locales, loyales et constantes,
+  - – les éléments principaux du cahier des charges (l’aire géographique, la description du produit et de ses principales caractéristiques, la description de la méthode d’obtention du produit, l’organisme de certification, l’étiquetage et la traçabilité).
+
+<sup>3</sup> Elle est assortie d’un cahier des charges et de la preuve que la demande a été acceptée par l’assemblée des représentants du groupement.[^6-2]
+
+[^6-1]: Introduite par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^6-2]: Nouvelle teneur selon le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
+
+#### Art. 7
+
+**Cahier des charges**
+
+<sup>1</sup>
+
+Le cahier des charges comprend:
+
+- a. le nom du produit comprenant l’appellation d’origine ou l’indication géographique;
+- b. la délimitation de l’aire géographique;
+- c.[^7-1] la description du produit, notamment ses matières premières et ses principales caractéristiques physiques, chimiques, microbiologiques et organoleptiques; pour les produits sylvicoles et les produits sylvicoles transformés, il comprend la description de l’essence forestière et des caractéristiques physiques ou d’autres caractéristiques intrinsèques;
+- d. la description de la méthode d’obtention du produit;
+- e. la désignation d’un ou de plusieurs organismes de certification ainsi que les exigences minimales relatives au contrôle;
+- f.[^7-2] …
+
+<sup>2</sup>
+
+Il peut également comprendre:
+
+- a. les éléments spécifiques de l’étiquetage;
+- b. la description de la forme distinctive du produit si elle existe;
+- c. les éléments relatifs au conditionnement, lorsque le groupement demandeur peut justifier que le conditionnement doit avoir lieu dans l’aire géographique délimitée afin de sauvegarder la qualité du produit et d’assurer la traçabilité ou le contrôle.[^7-3]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^7-2]: Abrogée par le ch. I de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^7-3]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+
+#### Art. 8
+
+**Consultation**[^8-1]
+
+L’OFAG invite également les autorités cantonales et fédérales concernées à donner leur avis.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 8a
+
+**Procédure d’enregistrement des dénominations étrangères**[^8a-1]
+
+<sup>1</sup> Lorsque la demande d’enregistrement émane d’un groupement d’un pays tiers, elle doit répondre aux conditions requises aux art. 5 à 7 et comprendre les éléments prouvant que la dénomination en question est protégée dans son pays d’origine.
+
+<sup>2</sup> Dans le cas d’une dénomination désignant une aire géographique transfrontalière ou d’une dénomination traditionnelle liée à une aire géographique transfrontalière, plusieurs groupements peuvent présenter une demande conjointe.
+
+<sup>3</sup> La demande est adressée à l’OFAG directement par le groupement demandeur ou par le biais des autorités du pays tiers concerné dans une des trois langues officielles ou accompagnée d’une traduction certifiée conforme à l’une de ces langues. Si la demande est adressée dans une autre langue, l’OFAG peut ordonner une traduction.
+
+<sup>4</sup> Lorsque l’orthographe originale de la dénomination n’utilise pas de caractères latins, cette dernière doit être accompagnée d’une transcription en caractères latins.
+
+<sup>5</sup> L’OFAG prend l’avis des autorités fédérales concernées.[^8a-2]
+
+[^8a-1]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^8a-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 9
+
+**Décision et publication**
+
+<sup>1</sup> L’OFAG statue sur la conformité de la demande aux exigences des art. 2 à 7.[^9-1]
+
+<sup>2</sup> S’il admet la demande, celle-ci est publiée, avec les éléments principaux du cahier des charges, dans la Feuille officielle suisse du commerce.
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 10
+
+**Opposition**
+
+<sup>1</sup>
+
+Peuvent faire opposition contre l’enregistrement:
+
+- a. toute personne justifiant d’un intérêt digne de protection;
+- b.[^10-1] les cantons, s’il s’agit d’une dénomination suisse, d’une dénomination transfrontalière au sens de l’art. 8*a*, al. 2, ou d’une dénomination étrangère totalement ou partiellement homonyme d’une entité géographique cantonale.
+
+<sup>2</sup> L’opposition est adressée par écrit à l’OFAG dans les trois mois suivant la date de la publication de la demande d’enregistrement.
+
+<sup>3</sup>
+
+Peuvent être invoqués notamment les motifs d’opposition suivants:
+
+- a. la dénomination ne remplit pas les conditions fixées à l’art. 2 ou 3;
+- b. la dénomination est un nom générique;
+- c. le groupement n’est pas représentatif;
+- d.[^10-2] l’enregistrement envisagé risque de porter préjudice à une marque ou à une dénomination totalement ou partiellement homonyme utilisée depuis longtemps.
+
+[^10-1]: Nouvelle teneur selon le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+
+#### Art. 11
+
+**Décision sur opposition**[^11-1]
+
+L’OFAG statue sur l’opposition, après avoir consulté les autorités fédérales et cantonales concernées.
+
+[^11-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 12
+
+**Enregistrement et publication**
+
+<sup>1</sup>
+
+La dénomination est inscrite au registre des appellations d’origine et des indications géographiques:
+
+- a. si aucune opposition n’a été déposée dans les délais;
+- b.[^12-1] si les éventuelles oppositions ou recours ont été rejetés.
+
+<sup>2</sup> L’enregistrement est publié dans la Feuille officielle suisse du commerce.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+
+#### Art. 13
+
+**Registre**
+
+<sup>1</sup> L’OFAG tient le registre des appellations d’origine et des indications géographiques.
+
+<sup>2</sup>
+
+Le registre contient:
+
+- a. la dénomination, la mention AOP (appellation d’origine protégée) ou IGP (indication géographique protégée) et son numéro;
+- b. le nom du groupement;
+- c. le cahier des charges;
+- d. la date de l’enregistrement;
+- e. la date de la publication de l’enregistrement.
+
+<sup>3</sup> Toute personne est autorisée à consulter le registre et à en obtenir des extraits.
+
+#### Art. 14
+
+**Modification du cahier des charges**
+
+<sup>1</sup> Les modifications du cahier des charges font l’objet de la même procédure que celle prévue pour les enregistrements.
+
+<sup>2</sup>
+
+Les modifications suivantes du cahier des charges font l’objet d’une procédure simplifiée:
+
+- a. désignation d’un nouvel organisme de certification ou suppression d’un tel organisme;
+- b. modification des éléments spécifiques de l’étiquetage;
+- c. modification de la description de l’aire géographique si les entités géographiques sont renommées, notamment en cas de fusion de communes.[^14-1]
+
+<sup>3</sup> En procédure simplifiée, il est renoncé à la prise d’avis prévue à l’art. 8 et à la publication de la décision prévue à l’art. 9; la procédure d’opposition prévue aux art. 10 et 11 ne s’applique pas.[^14-2]
+
+[^14-1]: Nouvelle teneur selon le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
+[^14-2]: Introduit par le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
+
+## Section 2*a* Procédure de radiation****
+
+[^sec2a-1]
+
+[^sec2a-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+
+#### Art. 15
+
+[^15-1]
+
+<sup>1</sup>
+
+L’OFAG radie l’enregistrement d’une dénomination protégée:
+
+- a. sur demande, si la dénomination protégée n’est plus utilisée ou si l’ensemble des utilisateurs et les cantons concernés n’ont plus d’intérêt au maintien de l’enregistrement de la dénomination;
+- b. s’il est constaté que le respect du cahier des charges de la dénomination protégée n’est plus assuré pour des raisons justifiées;
+- c.[^15-2] si elle n’est plus protégée dans son pays d’origine conformément à l’art. 8*a*.
+
+<sup>2</sup> Au préalable, l’OFAG consulte les autorités cantonales et fédérales concernées, pour autant qu’il s’agisse d’une dénomination suisse ou d’une dénomination transfrontalière au sens de l’art. 8*a*, al. 2. Il entend les parties en vertu de l’art. 30*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^15-3].[^15-4]
+
+<sup>3</sup> La radiation est publiée dans la Feuille officielle suisse du commerce.
+
+[^15-1]: Abrogé par le ch. I 10 de l’O du 10 déc. 1998 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)).
+[^15-2]: Introduite par le ch. I de lֹ’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)).
+[^15-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 déc. 2018, en vigueur depuis le 1er fév. 2019 (RO 2019 155).
+
+## Section 3 Protection
+
+#### Art. 16
+
+**Interdiction d’utiliser les mentions AOC, AOP ou IGP ou des mentions similaires**[^16-1]
+
+<sup>1</sup> Les mentions «appellation d’origine contrôlée», «appellation d’origine protégée» et «indication géographique protégée» ainsi que leur abréviation respective (AOC, AOP, IGP) ne peuvent être utilisées pour les produits dont la dénomination n’a pas été enregistrée conformément à la présente ordonnance.[^16-2]
+
+<sup>2</sup> Est également interdite l’utilisation de mentions similaires à celles citées à l’al. 1 ou portant à confusion.
+
+<sup>3</sup> Les al. 1 et 2 s’appliquent également aux produits dont la dénomination a été enregistrée, mais pas certifiée conformément à l’art. 18.[^16-3]
+
+<sup>4</sup> Sont réservées les dénominations étrangères enregistrées dans leur pays d’origine.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 16a
+
+**Mention AOC, AOP ou IGP**[^16a-1]
+
+<sup>1</sup> Les mentions «appellation d’origine contrôlée», «appellation d’origine protégée» et «indication géographique protégée» ou leur abréviation respective (AOC, AOP, IGP) doivent figurer dans une langue officielle sur l’étiquetage des produits dont la dénomination a été enregistrée conformément à la présente ordonnance.
+
+<sup>2</sup> Les mentions et abréviations visées à l’al. 1 sont facultatives pour les produits dont la dénomination a été enregistrée conformément à l’art. 8*a*.
+
+[^16a-1]: Introduit par le ch. I de l’O du 14 nov. 2007 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)). Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 17
+
+**Étendue de la protection**
+
+<sup>1</sup>
+
+L’utilisation commerciale directe ou indirecte d’une dénomination protégée est interdite:
+
+- a. pour tout produit comparable non conforme au cahier des charges;
+- b. pour tout produit non comparable si cette utilisation exploite la réputation de la dénomination protégée.
+
+<sup>2</sup>
+
+L’al. 1 vaut notamment:
+
+- a. si la dénomination enregistrée est imitée ou évoquée;
+- b. si elle est traduite;
+- c. si elle est accompagnée d’une formule telle que «genre», «type», «méthode», «façon», «imitation», «selon la recette» ou d’une expression similaire;
+- d. si la provenance du produit est indiquée;
+- e.[^17-1] ...
+
+<sup>3</sup>
+
+Sont également interdits:
+
+- a. toute indication fausse ou fallacieuse quant à la véritable origine du produit, sa provenance, sa méthode de production, sa nature ou ses qualités substantielles figurant sur le conditionnement, l’emballage, la publicité ou les documents se rapportant au produit;
+- b. toute utilisation d’un récipient ou d’un emballage de nature à créer une impression erronée sur l’origine du produit;
+- c.[^17-2] tout recours à la forme distinctive du produit selon l’art. 7, al. 2, let. b.
+
+<sup>4</sup>
+
+Toute référence à l’utilisation d’un produit bénéficiant d’une dénomination protégée comme ingrédient ou composant au sein ou à proximité de la dénomination spécifique d’un produit transformé est interdite:
+
+- a. si le produit transformé contient d’autres ingrédients ou composants comparables à ceux bénéficiant de la dénomination protégée, ou
+- b. si l’ingrédient ou le composant ne confère pas de caractéristique substantielle au produit transformé.[^17-3]
+
+<sup>5</sup> Si, dans les cas qui ne sont pas interdits en vertu de l’al. 4, il est fait référence à l’utilisation d’un produit bénéficiant d’une dénomination protégée, l’apposition graphique d’une mention en vertu de l’art. 16*a* ne doit pas donner à penser à tort que c’est le produit transformé, et non son ingrédient ou son composant, qui bénéficie de la dénomination protégée*.*[^17-4]
+
+[^17-1]: Introduite par le ch. I de lֹ’O du 29 oct. 2014 ([RO 2014 3903](https://fedlex.data.admin.ch/eli/oc/2014/667)). Abrogée par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+[^17-3]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^17-4]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+
+#### Art. 17a
+
+**Produits non conformes au cahier des charges**[^17a-1]
+
+<sup>1</sup> Les produits qui ne remplissent pas les conditions liées à l’utilisation d’une appellation d’origine ou d’une indication géographique enregistrée, mais qui étaient commercialisés légalement sous cette dénomination au moins cinq ans avant la publication de la demande d’enregistrement, peuvent encore être fabriqués, conditionnés et étiquetés selon l’ancien droit pendant deux ans à compter de la date de la publication de l’enregistrement. Ils peuvent encore être commercialisés pendant trois ans à partir de cette date.
+
+<sup>2</sup> Lorsque le cahier des charges est modifié selon l’art. 14, al. 1, les produits peuvent encore être fabriqués, conditionnés, étiquetés et commercialisés selon l’ancien droit pendant deux ans à compter de la date de la publication des modifications.
+
+[^17a-1]: Introduit par le ch. I de l’O du 12 janv. 2000 ([RO 2000 379](https://fedlex.data.admin.ch/eli/oc/2000/73)). Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+## Section 4 Contrôle et exécution****
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 18
+
+**Désignation de l’organisme de certification**
+
+<sup>1</sup> Celui qui utilise une appellation d’origine ou une indication géographique doit confier à un organisme de certification défini dans le cahier des charges le contrôle de la production, de la transformation ou de l’élaboration du produit.
+
+<sup>1bis</sup> Le nom ou le numéro de code de l’organisme de certification doit être indiqué sur l’étiquette ou l’emballage du produit bénéficiant d’une AOP ou d’une IGP.[^18-1]
+
+<sup>2</sup> Le Département fédéral de l’économie, de la formation et de la recherche[^18-2] fixe les exigences minimales relatives au contrôle.[^18-3]
+
+[^18-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^18-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles (RO **20****04** 4937).
+[^18-3]: Introduit par le ch. I 10 de l’O du 10 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
+
+#### Art. 19
+
+**Exigences et charges auxquelles doivent satisfaire les organismes de certification**[^19-1]
+
+<sup>1</sup> Les organismes de certification qui souhaitent exercer une activité conformément à la présente ordonnance doivent obtenir l’autorisation de l’OFAG.
+
+<sup>2</sup>
+
+L’OFAG octroie l’autorisation sur demande, si les organismes de certification remplissent les conditions suivantes:
+
+- a. ils sont accrédités pour leur activité conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^19-2]; pour chaque dénomination pour laquelle ils exercent le contrôle, les organismes de certification doivent être au bénéfice de l’extension du champ d’accréditation;
+- b. ils disposent d’une structure organisationnelle et d’une procédure de certification et de contrôle permettant de fixer notamment les critères que les exploitations soumises au contrôle d’un organisme de certification doivent observer comme charges, ainsi qu’un plan de mesures applicable si des irrégularités sont constatées;
+- c. ils offrent des garanties d’objectivité et d’impartialité adéquates, et disposent de personnel qualifié ainsi que des ressources nécessaires pour s’acquitter de leurs tâches;
+- d.
+
+  ils disposent d’une procédure et de modèles écrits qu’ils utilisent pour les tâches suivantes:
+
+  - 1\. mise sur pied d’une stratégie fondée sur l’évaluation des risques pour le contrôle des entreprises,
+  - 2\. échange d’informations avec d’autres organismes de certification ou des tiers mandatés par ces derniers et avec les autorités d’exécution,
+  - 3\. observation des directives édictées par l’OFAG en vertu de l’art. 21*a*, al. 5, en cas d’irrégularités,
+  - 4\. respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^19-3].
+
+<sup>3</sup> Les organismes de certification doivent en outre satisfaire aux exigences fixées par le Département fédéral de l’économie, de la formation et de la recherche en vertu de l’art. 18, al. 2.
+
+<sup>4</sup> L’OFAG peut suspendre ou retirer l’autorisation d’un organisme de certification si celui-ci ne satisfait pas aux exigences et charges. Il informe immédiatement le Service d’accréditation Suisse de sa décision.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^19-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^19-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 19a
+
+**Organismes de certification étrangers**[^19a-1]
+
+<sup>1</sup> Après avoir consulté le Service d’accréditation Suisse, l’OFAG reconnaît les organismes de certification étrangers qui veulent exercer des activités sur le territoire suisse, si ces organismes prouvent qu’ils ont une qualification équivalente à celle exigée en Suisse.[^19a-2]
+
+<sup>2</sup>
+
+Les organismes de certification étrangers doivent notamment:
+
+- a. remplir les exigences prévues à l’art. 19, al. 2;
+- b. connaître la législation suisse pertinente;
+- c. avoir leur siège social en Suisse.
+
+<sup>3</sup> Lors du dépôt d’une demande de reconnaissance, ils doivent attester que les exigences des al. 1 et 2 sont remplies.
+
+<sup>4</sup> L’art. 18, al. 3, de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^19a-3] est réservé.
+
+<sup>5</sup>
+
+L’OFAG peut accorder la reconnaissance pour une durée limitée et la subordonner à des charges. Il peut notamment imposer à l’organisme de certification étranger les charges suivantes:
+
+- a. accepter les contrôles de l’OFAG portant sur les activités exercées en Suisse et coopérer à ces contrôles;
+- b. donner à l’OFAG des informations détaillées sur les activités exercées en Suisse;
+- c. utiliser les données et les informations recueillies à l’occasion des contrôles uniquement à des fins de contrôle et respecter la réglementation suisse relative à la protection des données;
+- d. discuter au préalable avec l’OFAG toute modification des faits pertinents pour la reconnaissance;
+- e. contracter une assurance responsabilité civile appropriée ou constituer des réserves suffisantes.
+
+<sup>6</sup> Il peut annuler la reconnaissance si les exigences, les obligations et les charges ne sont pas remplies.
+
+[^19a-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^19a-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^19a-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+#### Art. 20
+
+**Dénonciation des irrégularités**[^20-1]
+
+Les organismes de certification signalent à l’OFAG, aux chimistes cantonaux compétents et aux groupements les irrégularités constatées lors des contrôles.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+
+#### Art. 21
+
+**Exécution par l’OFAG**[^21-1]
+
+<sup>1</sup> L’OFAG exécute la présente ordonnance conformément à la législation sur l’agriculture lorsqu’il ne s’agit pas de denrées alimentaires.
+
+<sup>2</sup>
+
+Il est en outre chargé:
+
+- a. de tenir une liste des organismes de certification accrédités ou reconnus dans le domaine d’application de la présente ordonnance;
+- b. d’enregistrer les infractions constatées et les sanctions infligées;
+- c. de surveiller les organismes de certification (art. 19 et 19*a*).
+
+<sup>3</sup> Il peut faire appel à des experts.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+#### Art. 21a
+
+**Surveillance des organismes de certification**[^21a-1]
+
+<sup>1</sup>
+
+L’activité de surveillance de l’OFAG comprend notamment:
+
+- a. l’évaluation de la procédure interne de l’organisme de certification pour les contrôles, l’administration et la vérification des dossiers de contrôle quant au respect des exigences de la présente ordonnance;
+- b. la vérification de la procédure dans le cas de situations de non-conformité, de contestation et de recours.
+
+<sup>2</sup> L’OFAG coordonne son activité de surveillance avec celle du SAS.
+
+<sup>3</sup> Dans le cadre de son activité de surveillance, il veille à ce que les exigences des art. 19 et 19*a*, al. 2, soient respectées.
+
+<sup>4</sup> ...[^21a-2]
+
+<sup>5</sup> Il peut édicter des instructions à l’intention des organismes de certification. Les instructions comprennent également un catalogue destiné à l’harmonisation des procédures des organismes de certification en cas d’irrégularités.
+
+[^21a-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^21a-2]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+
+#### Art. 21b
+
+**Inspection annuelle des organismes de certification**[^21b-1]
+
+<sup>1</sup> L’OFAG procède à une inspection annuelle auprès des organismes de certification autorisés en Suisse conformément aux art. 19 et 19*a*, dans la mesure où cela n’est pas garanti dans le cadre de l’accréditation.
+
+<sup>2</sup>
+
+À cette occasion, il contrôle notamment si l’organisme de certification dispose d’une procédure et de modèles écrits, et qu’il les utilise, pour les tâches suivantes:
+
+- a. mise sur pied d’une stratégie basée sur les risques pour le contrôle des entreprises;
+- b. échange d’informations avec d’autres organismes de certification ou des tiers mandatés par ces derniers et avec les autorités chargées des tâches d’exécution;
+- c. application et suivi des mesures prises en vertu de l’art. 21*a*, al. 5, dans le cas d’irrégularités ou d’infractions;
+- d. respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^21b-2].
+
+[^21b-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^21b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 21c
+
+**Exécution par les cantons**[^21c-1]
+
+<sup>1</sup> Les organes cantonaux de contrôle des denrées alimentaires exécutent la section 3 conformément à la législation sur les denrées alimentaires, sous réserve de l’art. 21.
+
+<sup>2</sup> Ils signalent à l’OFAG et aux organismes de certification les irrégularités constatées.
+
+[^21c-1]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+
+## Section 5 Dispositions finales
+
+#### Art. 22
+
+[^22-1]
+
+[^22-1]: Abrogé par l’annexe ch. 5 de l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+
+#### Art. 23
+
+**Dispositions transitoires de la modification du 14 novembre 2007**[^23-1]
+
+<sup>1</sup> Les demandes d’enregistrement pendantes au moment de l’entrée en vigueur de la modification du 14 novembre 2007 sont examinées selon le nouveau droit.
+
+<sup>2</sup> Les produits agricoles et les produits agricoles transformés des dénominations enregistrées peuvent être étiquetés en dérogation à l’art. 16*a* selon l’ancien droit jusqu’au 1<sup>er</sup> juin 2008 et mis en circulation jusqu’à la date limite de consommation.
+
+<sup>3</sup> L’ancien art. 17*a* est applicable à toutes les dénominations enregistrées, pour lesquelles le délai transitoire n’est pas échu.
+
+[^23-1]: Abrogé par le ch. III al. 2 ch. 2 de l’O du 27 mars 2002 ([RO 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
+
+#### Art. 23a
+
+**Dispositions transitoires relatives à la modification du 11 novembre 2020**[^23a-1]
+
+<sup>1</sup> L’art. 5, al. 3, n’est pas applicable aux dénominations déjà enregistrées, avant l’entrée en vigueur de la modification du 11 novembre 2020.
+
+<sup>2</sup> Les produits des dénominations enregistrées peuvent être étiquetés en dérogation à l’art. 18, al. 1<sup>bis</sup>, selon l’ancien droit jusqu’au 31 décembre 2021.
+
+<sup>3</sup> Les organismes suisses de certification qui sont accrédités conformément à l’art. 19, al. 2, let. a, et qui exerçaient déjà, avant l’entrée en vigueur de la modification du 11 novembre 2020, des activités dans le cadre de la présente ordonnance sont considérés comme des organismes de certification autorisés conformément à l’art. 19, al. 1.
+
+[^23a-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+
+#### Art. 24
+
+**Modification du droit en vigueur**
+
+…[^24-1]
+
+[^24-1]: La mod. peut être consultée au [RO 1997 1198](https://fedlex.data.admin.ch/eli/oc/1997/1198_1198_1198).
+
+#### Art. 25
+
+[^25-1]
+
+[^25-1]: Abrogé par le ch. I de l’O du 12 janv. 2000, avec effet au 1<sup>er</sup> janv. 2000 ([RO 2000 379](https://fedlex.data.admin.ch/eli/oc/2000/73)).
+
+#### Art. 26
+
+**Entrée en vigueur**[^26-1]
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 1997
+
+[^26-1]: Nouvelle teneur selon le ch. III al. 2 ch. 2 de l’O du 27 mars 2002, en vigueur depuis le 1<sup>er</sup> mai 2002 ([RO 2002 573](https://fedlex.data.admin.ch/eli/oc/2002/131)).
+
+Annexe*[^t-2]*
+
+[^t-2]: Abrogée par le ch. I 10 de l’O du 7 déc. 1998, avec effet au 1<sup>er</sup> janv. 1999 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).

@@ -1,0 +1,1038 @@
+---
+sr: "725.11"
+title: Loi fédérale du 8 mars 1960 sur les routes nationales (LRN)
+short: LRN
+eli: "https://fedlex.data.admin.ch/eli/cc/1960/525_569_555"
+language: fr
+version: 2021-01-01
+adopted: 1960-03-08
+in_force: 1960-06-21
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur les routes nationales
+
+(LRN**[^t-1]**)
+
+du 8 mars 1960 (Etat le 1<sup>er</sup> janvier 2021)
+
+[^t-1]: Abréviation introduite par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu les art. 81[^ingress-1], 82[^ingress-2], 83[^ingress-3], 86[^ingress-4] et 197, ch. 3, de la Constitution[^ingress-5],[^ingress-6] vu le message du Conseil fédéral du 3 juillet 1959[^ingress-7],
+
+arrête:
+
+[^ingress-1]: Cette disp. correspond à l’art. 23 de la Cst du 29 mai 1874 (RS **1** 3).
+[^ingress-2]: Cette disp. correspond à l’art. 37 de la Cst du 29 mai 1874 ([RO 1958 800](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806)).
+[^ingress-3]: Cette disp. correspond à l’art. 36<sup>bis</sup> de la Cst du 29 mai 1874 ([RO 1958 800](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806), [1983 444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444)).
+[^ingress-4]: Cette disp. correspond à l’art. 36<sup>ter</sup> de la Cst du 29 mai 1874 ([RO 1983 444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1996 1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)).
+[^ingress-5]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-6]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^ingress-7]: [FF 1959 II 97](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)
+
+## Chapitre 1 Dispositions générales
+
+### I. Routes nationales
+
+#### Art. 1
+
+<sup>1</sup> Les voies de communication les plus importantes présentant un intérêt pour la Suisse en général seront déclarées routes nationales par l’Assemblée fédérale.
+
+<sup>2</sup> Les routes nationales sont de première, de deuxième ou de troisième classe.
+
+### 1. Routes nationales de première classe
+
+#### Art. 2
+
+Les routes nationales de première classe sont exclusivement ouvertes aux véhicules à moteur et ne sont accessibles qu’à certains points. Elles sont pourvues, dans les deux directions, de bandes de roulement séparées et n’ont pas de croisements au même niveau.
+
+### 2. Routes nationales de deuxième classe
+
+#### Art. 3
+
+Les autres routes nationales qui sont exclusivement ouvertes aux véhicules à moteur et ne sont accessibles qu’à certains points appartiennent à la deuxième classe. Elles n’ont en général pas de croisements au même niveau.
+
+### 3. Routes nationales de troisième classe
+
+#### Art. 4
+
+<sup>1</sup> Les routes nationales de troisième classe sont également ouvertes à d’autres usagers. Lorsque les circonstances le permettent, les traversées de localités et les croisements au même niveau doivent être évités.
+
+<sup>2</sup> Le Conseil fédéral peut limiter leur accès à des points déterminés.
+
+### 4. Modification du classement
+
+#### Art. 4a
+
+[^4a-1]
+
+Le Conseil fédéral peut, après avoir consulté le canton concerné, modifier le classement d’une route nationale décidé par l’Assemblée fédérale, notamment si cela est nécessaire pour des raisons inhérentes au trafic.
+
+[^4a-1]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2259](https://fedlex.data.admin.ch/eli/oc/2015/422); [FF 2012 593](https://fedlex.data.admin.ch/eli/fga/2012/191)).
+
+### II. Principes à suivre pour l’aménagement des routes nationales
+
+#### Art. 5
+
+<sup>1</sup> Les routes nationales doivent satisfaire aux exigences supérieures de la technique en matière de circulation; elles doivent, en particulier, garantir un trafic sûr et économique.
+
+<sup>2</sup> Si ces exigences entrent en conflit avec d’autres intérêts importants, notamment de la défense nationale, de l’utilisation économique du sol, de l’aménagement national ou de la protection des eaux, de la nature et des sites, il y aura lieu de déterminer ceux qui doivent l’emporter.
+
+### III. Délimitation
+
+### 1. En général
+
+#### Art. 6
+
+Les routes nationales comprennent outre la chaussée, toutes les installations nécessaires à l’aménagement rationnel des routes, notamment les ouvrages d’art, les jonctions, les places de stationnement, les signaux, les installations pour l’utilisation et l’entretien des routes, les plantations, ainsi que les talus dont l’exploitation ne peut pas être attendue des riverains.
+
+### 2. Installations annexes
+
+#### Art. 7
+
+[^7-1]
+
+<sup>1</sup> Partout où l’accès latéral des routes nationales est interdit, des installations pourront être aménagées le long de la route, selon le besoin, pour servir à la vente des carburants, des lubrifiants et de l’électricité, et permettre aux usagers de la route de se ravitailler, de se restaurer et de se loger.[^7-2]
+
+<sup>2</sup> Le Conseil fédéral édicte les règles fondamentales régissant les installations annexes.
+
+<sup>3</sup> Sous réserve de la législation fédérale et de l’approbation des projets par les autorités fédérales, il appartient aux cantons d’accorder le droit de construire, d’agrandir et d’exploiter des installations annexes.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 15 nov. 1972 ([RO 1972 2661](https://fedlex.data.admin.ch/eli/oc/1972/2607_2661_2441); [FF 1971 I 1126](https://fedlex.data.admin.ch/eli/fga/1971/1_1104_1126_843)).
+[^7-2]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+
+### 3. Aires de repos
+
+#### Art. 7a
+
+[^7a-1]
+
+<sup>1</sup> Les aires de repos permettent aux usagers de la route de se reposer pour une courte durée. Elles peuvent être équipées d’installations de remise de carburants alternatifs – en particulier l’électricité – et de petites installations mobiles destinées au ravitaillement et à la restauration.
+
+<sup>2</sup> La construction d’installations pour la remise de carburants alternatifs est régie par le droit cantonal. La Confédération ne participe pas aux coûts de construction et d’exploitation de ces installations.
+
+<sup>3</sup> Le Conseil fédéral établit les principes régissant les aires de repos.
+
+[^7a-1]: Introduit par l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+
+### IV. Souveraineté et propriété
+
+#### Art. 8
+
+<sup>1</sup> Les routes nationales sont placées sous l’autorité de la Confédération en matière routière et lui appartiennent.[^8-1]
+
+<sup>2</sup> Les installations annexes au sens de l’art. 7 appartiennent aux cantons.[^8-2]
+
+[^8-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^8-2]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### V. Transfert de propriété et reprise de projets en cas d’adaptation du réseau des routes nationales
+
+#### Art. 8a
+
+[^8a-1]
+
+<sup>1</sup> Lorsque des routes existantes sont intégrées dans le réseau des routes nationales, leur propriété est transférée sans indemnisation à la Confédération à la date de l’ajout.
+
+<sup>2</sup> Lorsque des routes nationales existantes sont supprimées du réseau des routes nationales ou remplacées par une route nationale qui suit un autre tracé, leur propriété est transférée sans indemnisation au canton concerné à la date de la suppression ou à celle de la mise en service de la nouvelle route.
+
+<sup>3</sup> Lorsqu’il existe un projet cantonal bénéficiant d’une autorisation exécutoire pour une route intégrée au réseau des routes nationales, l’Assemblée fédérale décide si la Confédération reprend ce projet. L’autorisation cantonale vaut approbation des plans au sens de l’art. 26. Les coûts du projet enregistrés jusqu’à l’intégration de la route dans le réseau des routes nationales sont pris en charge par les cantons.
+
+<sup>4</sup> Les cantons sont tenus d’achever et de financer les projets de construction, d’aménagement et d’entretien en cours au moment de l’intégration des routes dans le réseau des routes nationales.
+
+<sup>5</sup> L’art. 62*a* s’applique par analogie aux al. 1 à 3.
+
+[^8a-1]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2259](https://fedlex.data.admin.ch/eli/oc/2015/422); [FF 2012 593](https://fedlex.data.admin.ch/eli/fga/2012/191)).
+
+## Chapitre 2 Construction des routes nationales
+
+### A. Planification, programme de développement stratégique et projets généraux****
+
+[^chap2-lvlA-1]
+
+[^chap2-lvlA-1]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+
+### I. Planification
+
+### 1. Objet
+
+#### Art. 9
+
+[^9-1]
+
+La planification détermine les régions qui doivent être reliées par les routes nationales, ainsi que les tracés généraux et les types de routes entrant en considération.
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+
+### 2. Compétence
+
+#### Art. 10
+
+[^10-1]
+
+La planification sera établie par l’office compétent (office), en collaboration avec les services fédéraux et cantonaux intéressés.
+
+[^10-1]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+
+### 3. Décision
+
+#### Art. 11
+
+<sup>1</sup> L’Assemblée fédérale fixe définitivement, sur la proposition du Conseil fédéral, le tracé général et le type des routes nationales à construire.
+
+<sup>2</sup> Le Conseil fédéral fixe le programme de construction après avoir consulté les cantons.
+
+### I<sup>bis</sup>. Programme de développement stratégique
+
+#### Art. 11a
+
+[^11a-1]
+
+<sup>1</sup> Les routes nationales sont aménagées progressivement dans le cadre d’un programme de développement stratégique. A cet égard, le Conseil fédéral tient compte en particulier des modules 1 à 4 du programme[^11a-2] d’élimination des goulets d’étranglement du réseau des routes nationales.
+
+<sup>2</sup> Tous les quatre ans, le Conseil fédéral présente à l’Assemblée fédérale un rapport sur l’avancement de l’aménagement, sur les adaptations requises du programme de développement stratégique et sur la prochaine étape d’aménagement prévue.
+
+[^11a-1]: Introduit par l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^11a-2]: [FF 2014 2365](https://fedlex.data.admin.ch/eli/fga/2014/448)
+
+### I<sup>ter</sup>. Etapes d’aménagement du réseau des routes nationales
+
+#### Art. 11b
+
+[^11b-1]
+
+<sup>1</sup> Les actes relatifs aux diverses étapes d’aménagement sont édictés sous la forme d’un arrêté fédéral. Les arrêtés fédéraux sont sujets au référendum.
+
+<sup>2</sup> Dans les messages relatifs aux étapes d’aménagement, le Conseil fédéral présente en particulier les coûts subséquents.
+
+[^11b-1]: Introduit par l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+
+### II. Etablissement des projets généraux
+
+### 1. Objet
+
+#### Art. 12
+
+Les routes nationales doivent figurer dans les projets généraux. Les plans indiqueront notamment les tracés des routes, les points d’accès et les aménagements pour les croisements.
+
+### 2. Compétence
+
+#### Art. 13
+
+Les projets généraux sont établis par l’office[^13-1], en collaboration avec les services fédéraux et cantonaux intéressés.
+
+[^13-1]: Nouvelle dénomination selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Il a été tenu compte de cette mod. dans tout le texte.
+
+### 3. Libre disposition des terrains nécessaires à la construction
+
+### a. Etablissement des zones réservées
+
+#### Art. 14
+
+<sup>1</sup> En vue d’assurer la libre disposition des terrains nécessaires à la construction des routes nationales, le département compétent (département)[^14-1] peut, après avoir pris l’avis des cantons, créer des zones réservées.
+
+<sup>2</sup> Là où les zones à réserver au projet peuvent être assurées par le droit cantonal, l’application de ce droit est réservée lors de la réalisation du réseau des routes nationales tel qu’il a été décidé[^14-2].[^14-3]
+
+<sup>3</sup> La fixation des zones doit être rendue publique dans les communes. Cette décision peut faire l’objet d’un recours devant le Tribunal administratif fédéral.[^14-4]
+
+<sup>4</sup> Les plans mis au point seront déposés auprès des communes pour y être consultés. Cette fixation des zones entre en force dès sa publication.
+
+[^14-1]: Nouvelle dénomination selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Il a été tenu compte de cette mod. dans tout le texte.
+[^14-2]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/831_872_858), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^14-3]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^14-4]: Nouvelle teneur de la phrase selon l’annexe ch. 68 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### b. Effets
+
+#### Art. 15
+
+<sup>1</sup> Dans ces zones, aucune construction nouvelle et aucune transformation augmentant la valeur des bâtiments ne pourront être faites sans autorisation. Le Conseil fédéral a le pouvoir de subordonner à une autorisation d’autres mesures relatives à la propriété foncière de nature à entraver ou à renchérir l’acquisition future de terrain.
+
+<sup>2</sup> Les cantons peuvent prendre, aux frais du contrevenant, les mesures nécessaires au rétablissement de l’état antérieur conforme au droit, indépendamment des poursuites pénales qui pourraient être dirigées contre lui.
+
+### c. Conditions auxquelles des autorisations de construire peuvent être accordées. Compétence
+
+#### Art. 16
+
+<sup>1</sup> Des travaux de construction à l’intérieur des zones réservées peuvent être autorisés s’ils ne rendent pas la construction de la route plus difficile ou plus onéreuse et s’ils ne nuisent pas à la fixation des alignements.
+
+<sup>2</sup> Les autorités désignées par les cantons statuent sur les demandes d’autorisation de construire. L’autorité cantonale entend l’office avant de délivrer l’autorisation.[^16-1] Ce dernier est habilité à user de toutes les voies de recours prévues par le droit fédéral et le droit cantonal contre les décisions rendues par les autorités cantonales en application de la présente loi ou de ses dispositions d’exécution.[^16-2]
+
+<sup>3</sup> …[^16-3]
+
+[^16-1]: Nouvelle teneur de la phrase selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^16-2]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^16-3]: Abrogé par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### d. Suppression de zones réservées
+
+#### Art. 17
+
+[^17-1]
+
+<sup>1</sup> La décision définissant une zone réservée est caduque dès l’entrée en force de la décision fixant les alignements, mais au plus tard après cinq ans; ce délai peut être prolongé de trois ans au plus. La caducité d’une zone réservée n’empêche pas la création d’une nouvelle zone couvrant en tout ou en partie le périmètre de l’ancienne.
+
+<sup>2</sup> Le département supprime la zone réservée pour les variantes d’un tracé s’il est établi que ces variantes ne seront pas exécutées.
+
+<sup>3</sup> La décision doit être publiée dans les communes concernées, avec indication du délai de recours.
+
+[^17-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### e. Indemnité. Procédure de fixation
+
+#### Art. 18
+
+<sup>1</sup> Les restrictions à la propriété foncière par la création de zones réservées ne donnent droit à une indemnité que si elles ont les mêmes effets qu’une expropriation.
+
+<sup>2</sup> L’intéressé doit annoncer ses prétentions par écrit à l’autorité compétente au sens de l’art. 21.[^18-1] Si les prétentions sont entièrement ou partiellement contestées, la procédure est régie par la loi fédérale du 20 juin 1930 sur l’expropriation (LEx)[^18-2].[^18-3]
+
+[^18-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^18-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18-3]: Nouvelle teneur de la phrase selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 4. Mise au point et approbation des projets généraux
+
+### a. Procédure
+
+#### Art. 19
+
+<sup>1</sup> L’office soumettra les projets généraux aux cantons intéressés. Ceux-ci inviteront les communes et, le cas échéant, les propriétaires fonciers touchés par la construction de la route à se prononcer. Les cantons remettront leurs propositions, accompagnées des préavis des autorités communales, à l’office.
+
+<sup>2</sup> L’office mettra au point, en collaboration avec les services fédéraux et les cantons intéressés, les projets généraux en se fondant sur les propositions reçues.
+
+### b. Approbation des projets généraux
+
+#### Art. 20
+
+<sup>1</sup> Les projets généraux sont soumis à l’approbation du Conseil fédéral.
+
+<sup>2</sup> Dans le cadre de l’achèvement du réseau des routes nationales tel qu’il a été décidé[^20-1], le Conseil fédéral fixe de manière définitive, lors de l’approbation des projets généraux, le tracé particulier des routes nationales dans les villes et le point où une route nationale hors de ville devient une route nationale urbaine.[^20-2]
+
+[^20-1]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 912](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^20-2]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2259](https://fedlex.data.admin.ch/eli/oc/2015/422); [FF 2012 593](https://fedlex.data.admin.ch/eli/fga/2012/191)).
+
+### B. Projets définitifs
+
+### 1. Etablissement des projets définitifs
+
+#### Art. 21
+
+[^21-1]
+
+<sup>1</sup> Les projets définitifs renseignent sur le genre, l’ampleur et l’emplacement de l’ouvrage et de ses installations annexes, sur les détails de sa structure technique et sur les alignements.
+
+<sup>2</sup>
+
+Sont compétents pour l’établissement des projets définitifs:
+
+- a. en ce qui concerne l’achèvement du réseau des routes nationales tel qu’il a été décidé[^21-2]: les cantons, en collaboration avec l’office et les services fédéraux intéressés;
+- b. en ce qui concerne la construction de nouvelles routes nationales ou l’aménagement de routes nationales existantes: l’office.
+
+<sup>3</sup> Le Conseil fédéral fixe les exigences relatives aux projets définitifs et aux plans.
+
+[^21-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^21-2]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/831_872_858), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+
+### 2. Emprises
+
+### a. Fixation des alignements
+
+#### Art. 22
+
+Les projets définitifs doivent fixer les alignements des deux côtés de la route projetée. Lors de cette fixation, il sera notamment tenu compte des exigences de la sécurité du trafic et de celles de l’hygiène des habitations, ainsi que de la nécessité d’un élargissement éventuel de la route dans l’avenir.
+
+### b*.* Effets
+
+#### Art. 23
+
+<sup>1</sup> Il est interdit d’élever, sans autorisation, de nouvelles constructions entre les alignements et d’y transformer des immeubles existants, même s’ils ne débordent que partiellement sur les alignements. Les travaux nécessités par l’entretien d’un immeuble ne sont pas considérés comme des transformations au sens de la présente disposition.
+
+<sup>2</sup> Les cantons peuvent prendre, aux frais du contrevenant, les mesures nécessaires au rétablissement de l’état antérieur conforme au droit, indépendamment des poursuites pénales qui pourraient être dirigées contre lui.
+
+### c. Conditions auxquelles des autorisations de construire peuvent être accordées. Compétence
+
+#### Art. 24
+
+<sup>1</sup> Sous réserve de dispositions cantonales plus rigoureuses, des travaux de construction doivent être autorisés à l’intérieur des alignements lorsqu’ils ne portent pas atteinte à des intérêts publics au sens de l’art. 22.
+
+<sup>2</sup> Les autorités désignées par les cantons statuent sur les demandes d’autorisation de construire. L’autorité cantonale entend l’office avant de délivrer l’autorisation.[^24-1] Ce dernier est habilité à user de toutes les voies de recours prévues par le droit fédéral et le droit cantonal contre les décisions rendues par les autorités cantonales en application de la présente loi ou de ses dispositions d’exécution.[^24-2]
+
+<sup>3</sup> …[^24-3]
+
+[^24-1]: Nouvelle teneur de la phrase selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^24-2]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^24-3]: Abrogé par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### d. Indemnité. Procédure de fixation
+
+#### Art. 25
+
+<sup>1</sup> La restriction de la propriété foncière par des alignements ne donne droit à une indemnité que si elle a les mêmes effets qu’une expropriation.
+
+<sup>2</sup> Le droit à l’indemnité et le montant de cette dernière sont déterminés d’après les conditions existant au moment où la restriction de la propriété prend effet (art. 29).
+
+<sup>3</sup> L’intéressé doit annoncer ses prétentions par écrit à l’autorité compétente dans les cinq ans qui suivent le jour où la restriction de la propriété a pris effet.[^25-1] Si les prétentions sont entièrement ou partiellement contestées, la procédure est régie par la LEx[^25-2].[^25-3]
+
+[^25-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^25-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^25-3]: Nouvelle teneur de la phrase selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 3. Procédure d’approbation des plans
+
+### a. Principe
+
+#### Art. 26
+
+[^26-1]
+
+<sup>1</sup> Les plans relatifs aux projets définitifs sont soumis à l’approbation du département.
+
+<sup>2</sup> L’approbation des plans couvre toutes les autorisations requises par le droit fédéral.
+
+<sup>3</sup> Aucune autorisation ni aucun plan relevant du droit cantonal ne sont requis. Le droit cantonal est pris en compte dans la mesure où il n’entrave pas de manière disproportionnée la construction et l’exploitation des routes nationales.
+
+[^26-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### b. Droit applicable
+
+#### Art. 26a
+
+[^26a-1]
+
+<sup>1</sup> La procédure d’approbation des plans est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^26a-2], pour autant que la présente loi n’en dispose pas autrement.
+
+<sup>2</sup> Si une expropriation est nécessaire, la LEx[^26a-3] s’applique au surplus.
+
+[^26a-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^26a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^26a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+### 4. Procédure ordinaire
+
+### a. Ouverture
+
+#### Art. 27
+
+[^27-1]
+
+La demande d’approbation des plans doit être adressée au département avec les documents requis. Ce dernier vérifie si le dossier est complet et, au besoin, le fait compléter.
+
+[^27-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### b. Piquetage
+
+#### Art. 27a
+
+[^27a-1]
+
+<sup>1</sup> Avant la mise à l’enquête de la demande, les modifications requises par l’ouvrage projeté doivent être marquées sur le terrain par un piquetage et pour les bâtiments par des gabarits.
+
+<sup>2</sup> Les objections émises contre le piquetage ou la pose de gabarits doivent être adressées sans retard au département, mais au plus tard à l’expiration du délai de mise à l’enquête.
+
+[^27a-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### c. Consultation, publication et mise à l’enquête
+
+#### Art. 27b
+
+[^27b-1]
+
+<sup>1</sup> Le département transmet la demande aux cantons concernés et les invite à se prononcer dans les trois mois. Si la situation le justifie, il peut exceptionnellement prolonger ce délai.
+
+<sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
+
+<sup>3</sup> ...[^27b-2]
+
+[^27b-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^27b-2]: Abrogé par l’annexe ch. 9 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### d. Avis personnel
+
+#### Art. 27c
+
+[^27c-1]
+
+[^27c-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Abrogé par l’annexe ch. 9 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### e. Opposition
+
+#### Art. 27d
+
+[^27d-1]
+
+<sup>1</sup> Quiconque a qualité de partie en vertu de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^27d-2] peut faire opposition auprès du département pendant le délai de mise à l’enquête contre le projet définitif ou les alignements qui y sont fixés.[^27d-3] Toute personne qui n’a pas fait opposition est exclue de la suite de la procédure.
+
+<sup>2</sup> Quiconque a qualité de partie en vertu de la LEx[^27d-4] peut faire valoir toutes les demandes visées à l’art. 33 LEx pendant le délai de mise à l’enquête.[^27d-5]
+
+<sup>3</sup> Les communes font valoir leurs intérêts par voie d’opposition.
+
+[^27d-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^27d-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^27d-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^27d-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^27d-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 202, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### f. Elimination des divergences au sein de l’administration fédérale
+
+#### Art. 27e
+
+[^27e-1]
+
+La procédure d’élimination des divergences au sein de l’administra-tion fédérale est régie par l’art. 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^27e-2].
+
+[^27e-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^27e-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+### 5. Décision d’approbation des plans. Durée de validité. Recours
+
+#### Art. 28
+
+[^28-1]
+
+<sup>1</sup> Lorsqu’il approuve les plans, le département statue également sur les oppositions en matière d’expropriation.
+
+<sup>2</sup> Il peut approuver des projets par étapes pour autant que ce traitement n’affecte pas l’évaluation de l’ensemble.
+
+<sup>3</sup> L’approbation des plans est caduque si la réalisation du projet de construction n’a pas commencé dans les cinq ans suivant l’entrée en force de la décision.
+
+<sup>4</sup> Si des raisons majeures le justifient, le département peut prolonger de trois ans au plus la durée de validité de sa décision. Toute prolongation est exclue si les conditions déterminantes de fait ou de droit ont changé sensiblement depuis l’entrée en force de la décision.
+
+<sup>5</sup> …[^28-2]
+
+[^28-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^28-2]: Abrogé par l’annexe ch. 68 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### 6. Procédure simplifiée
+
+#### Art. 28a
+
+[^28a-1]
+
+<sup>1</sup>
+
+La procédure simplifiée d’approbation des plans s’applique:
+
+- a. aux projets qui affectent un espace limité et ne concernent qu’un ensemble restreint et bien défini de personnes;
+- b. aux constructions et installations dont la modification n’altère pas sensiblement l’aspect extérieur du site, n’affecte pas les intérêts dignes de protection de tiers et n’a que des effets minimes sur l’aménagement du territoire et sur l’environnement;
+- c. aux constructions et installations qui seront démontées après trois ans au plus.
+
+<sup>2</sup> Le département peut ordonner le piquetage. La demande n’est ni publiée, ni mise à l’enquête. Le département soumet le projet aux intéressés, qui peuvent faire opposition dans un délai de 30 jours, sauf s’ils ont donné auparavant leur accord écrit. Il peut solliciter l’avis des cantons et des communes. Il leur accorde un délai raisonnable pour se prononcer.
+
+<sup>3</sup> Au surplus, la procédure ordinaire est applicable. En cas de doute, cette dernière est appliquée.
+
+[^28a-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### 7. Mise à l’enquête des plans d’alignements
+
+[^chap2-lvlB-lvl7-1]
+
+[^chap2-lvlB-lvl7-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+#### Art. 29
+
+Les plans d’alignements approuvés en même temps que les projets d’exécution seront publiés et déposés dans les communes pour y être consultés. Cette publication leur donne force obligatoire.
+
+### C. Acquisition de terrain et mesures en faveur de l’utilisation du sol
+
+### I. Acquisition de terrain
+
+### 1. Procédés d’acquisition
+
+#### Art. 30
+
+<sup>1</sup> Si le terrain nécessaire à la construction des routes nationales ne peut pas être acquis de gré à gré, il le sera par une procédure de remembrement ou d’expropriation.
+
+<sup>2</sup> La procédure d’expropriation ne sera applicable que si les efforts faits en vue d’acquérir le terrain de gré à gré ou par un remembrement ont échoué.
+
+### 2. Acquisition de terrain par la procédure de remembrement
+
+#### Art. 31
+
+<sup>1</sup> La procédure de remembrement sous forme de remaniement parcellaire de terrains agricoles, de forêts ou de terrains à bâtir est applicable si elle est dans l’intérêt de la construction de la route ou si elle est nécessaire pour que le sol auquel la construction de la route porte atteinte puisse être utilisé et exploité conformément à sa destination.
+
+<sup>2</sup>
+
+Les mesures à prendre dans la procédure de remembrement peuvent consister:
+
+- a. en l’emploi, dans l’entreprise de remembrement, de biens-fonds du domaine public;
+- b. en des réductions équitables de la surface des biens-fonds compris dans le remembrement. Le terrain obtenu de cette façon pour la construction de la route est bonifié à sa valeur vénale à l’entreprise de remembrement;
+- c. en l’emploi de terrain d’un prix correspondant à la plus-value résultant, pour le reste des biens-fonds, des améliorations foncières dues à la construction de la route;
+- d. en d’autres procédures prévues par le droit cantonal.
+
+### 3. Compétence
+
+#### Art. 32
+
+<sup>1</sup> L’acquisition de terrain incombe aux autorités compétentes.[^32-1]
+
+<sup>2</sup> Les cantons ordonnent, dans les limites des prescriptions ci-après, la procédure en matière de remembrement. Pour les remaniements parcellaires de biens-fonds et de forêts, sont réservées les dispositions de la législation fédérale sur l’amélioration de l’agriculture et le maintien de la population paysanne, ainsi que de la législation fédérale concernant la haute surveillance de la Confédération sur la police des forêts.
+
+[^32-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### 4. Prescriptions particulières concernant la procédure de remaniements parcellaires de bien-fonds et de forêts
+
+### a. Etablissement d’avant-projets de remembrement
+
+#### Art. 33
+
+<sup>1</sup> S’il y a lieu d’envisager des remaniements parcellaires de biens-fonds ou de forêts, des avant-projets de remaniement seront établis si possible en même temps que les projets routiers généraux. Ces avant-projets indiqueront notamment les limites probables des régions à inclure dans le remembrement, le réseau des dévestitures à créer et les ouvrages hydrauliques les plus importants.
+
+<sup>2</sup> Les avant-projets seront établis par les cantons. L’office exerce la haute surveillance, d’entente avec l’Office fédéral des améliorations foncières[^33-1] et les autres services fédéraux intéressés.
+
+[^33-1]: Actuellement «Office fédéral de l’agriculture».
+
+### b. Remaniements parcellaires selon l’art. 703 du code civil
+
+#### Art. 34
+
+Un délai convenable peut être imparti aux propriétaires fonciers pour se prononcer sur un remaniement parcellaire de biens-fonds ou de forêts selon l’art. 703 du code civil suisse[^34-1].La décision concernant les frais de remembrement à mettre au compte de la construction de la route devra être publiée.
+
+[^34-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### c. Approbation des projets de nouvelle répartition
+
+#### Art. 35
+
+Les projets de nouvelle répartition des terres seront soumis par les cantons à l’approbation de l’office. Celui-ci examinera si la répartition ne nuit pas aux travaux routiers et les autorités compétentes veilleront à l’observation des dispositions relatives aux subventions.
+
+### 5. Droit d’ordonner les remembrements
+
+#### Art. 36
+
+<sup>1</sup> Les remembrements nécessités par la construction de la route peuvent être ordonnés par le gouvernement cantonal.
+
+<sup>2</sup> Le département peut accorder un délai raisonnable au gouvernement cantonal. Si ce dernier n’ordonne pas le remembrement dans ce délai, la procédure ordinaire, qui comprend l’expropriation, est appliquée.[^36-1]
+
+[^36-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### 6. Envoi en possession anticipé
+
+#### Art. 37
+
+L’autorité cantonale compétente décide l’envoi en possession anticipé du terrain nécessaire si les travaux de construction de la route doivent commencer avant la clôture de la procédure de remembrement. Au préalable, les intéressés seront entendus et les mesures utiles pour l’estimation du sol devront être prises.
+
+### 7. Frais
+
+#### Art. 38
+
+<sup>1</sup> Les frais supplémentaires de remembrement occasionnés par la construction de la route dans une région où des remembrements seraient nécessaires sont à la charge du compte de la route. Tous les frais de nouveaux remembrements occasionnés par la construction de la route dans des régions où les remembrements ont déjà été exécutés ou dans les régions de fermes isolées sont à la charge du compte de la route.
+
+<sup>2</sup> Le Département statue dans chaque cas, d’entente avec les départements fédéraux intéressés, sur la mise en compte des frais.
+
+### 8. Expropriation. Procédures de conciliation et d’estimation. Envoi en possession anticipé
+
+[^chap2-lvlC-lvlI-lvl8-1]
+
+[^chap2-lvlC-lvlI-lvl8-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 39
+
+[^39-1]
+
+<sup>1</sup> Les autorités compétentes disposent du droit d’expropriation. Les cantons peuvent déléguer leur droit d’expropriation aux communes.[^39-2]
+
+<sup>2</sup> Après clôture de la procédure d’approbation des plans, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^39-3].[^39-4]
+
+<sup>3</sup> ...[^39-5]
+
+<sup>4</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
+
+[^39-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+[^39-2]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^39-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^39-4]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^39-5]: Abrogé par l’annexe ch. 9 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### II. Mesures pour l’utilisation du sol
+
+#### Art. 40
+
+[^40-1]
+
+Lorsque le terrain nécessaire à la construction de la route a été acquis de gré à gré ou par expropriation, les autorités compétentes doivent aussi remédier, par des mesures appropriées, aux inconvénients résultant du fait que des biens-fonds sont coupés ou fractionnés.
+
+[^40-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### D. Construction et aménagement des routes nationales****
+
+[^chap2-lvlD-1]
+
+[^chap2-lvlD-1]: Anciennement avant l'art. 41. Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### I. Compétences
+
+#### Art. 40a
+
+[^40a-1]
+
+Sont compétents:
+
+- a. en ce qui concerne l’achèvement du réseau des routes nationales tel qu’il a été décidé[^40a-2]: les cantons;
+- b. en ce qui concerne la construction de nouvelles routes nationales et l’aménagement de routes nationales existantes: l’office.
+
+[^40a-1]: Introduit par le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^40a-2]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/831_872_858), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+
+### II. Construction
+
+### 1. Méthodes, adjudication et surveillance des travaux
+
+[^chap2-lvlD-lvlII-lvl1-1]
+
+[^chap2-lvlD-lvlII-lvl1-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 41
+
+<sup>1</sup> Les routes nationales seront construites d’après les méthodes techniques les plus modernes et selon des considérations économiques.
+
+<sup>2</sup> Les autorités compétentes adjugent et surveillent les travaux. Le Conseil fédéral fixe les principes qui doivent être appliqués par les cantons.[^41-1]
+
+[^41-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### 2. Mesures de protection pendant la construction
+
+#### Art. 42
+
+<sup>1</sup> Les autorités compétentes prennent les mesures nécessaires pour assurer la sécurité des travaux de construction, mettre les personnes et les biens à l’abri des dangers et protéger les riverains contre les nuisances qu’ils ne peuvent être tenus de tolérer.[^42-1]
+
+<sup>2</sup> Si des installations publiques, telles que chemins, conduites et autres ouvrages analogues, sont touchées par les travaux de construction, des mesures seront prises pour qu’elles puissent continuer d’être utilisées conformément à l’intérêt public.
+
+<sup>3</sup> L’utilisation économique de la propriété foncière devra être assurée pendant la construction de la route.
+
+[^42-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### 3. Ouverture à la circulation
+
+#### Art. 43
+
+Les routes nationales ne devront être ouvertes à la circulation qu’au moment où l’état des travaux et les mesures de sécurité prises permettront un trafic sans danger et lorsque l’utilisation économique de la propriété foncière contiguë sera assurée.
+
+### III. Aménagement des constructions dans le domaine des routes nationales
+
+[^chap2-lvlD-lvlIII-1]
+
+[^chap2-lvlD-lvlIII-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 44
+
+<sup>1</sup> Une autorisation est nécessaire pour exécuter des travaux touchant les routes nationales, tels que la construction, la modification et le déplacement de croisements d’autres voies de communication, de cours d’eau, de téléphériques, de conduites et autres ouvrages analogues, ainsi que d’accès de routes et de chemins aux routes nationales. Ils ne doivent porter atteinte ni à la route, ni à son aménagement futur éventuel.
+
+<sup>2</sup> Le Conseil fédéral règle la procédure et désigne les autorités compétentes. Les propriétaires d’installations de transport existantes devront pouvoir exprimer leur avis au cours de la procédure. Sont réservées les dispositions de la loi fédérale du 24 juin 1902[^44-1] concernant les installations électriques à faible et à fort courant.
+
+<sup>3</sup> Les autorités compétentes peuvent prendre, aux frais du contrevenant, les mesures nécessaires au rétablissement de l’état antérieur conforme au droit, indépendamment des poursuites pénales qui pourraient être dirigées contre lui.[^44-2]
+
+[^44-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^44-2]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### IV. Répartition des frais de déplacement, de croisements et ouvrages d’accès
+
+### 1. Nouvelles installations
+
+[^chap2-lvlD-lvlIV-lvl1-1]
+
+[^chap2-lvlD-lvlIV-lvl1-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 45
+
+<sup>1</sup> Si une route nationale porte atteinte à des voies de communication, conduites ou autres installations analogues, ou si elle subit une atteinte par le fait de l’établissement de tels ouvrages, les frais de toutes les mesures nécessaires pour supprimer l’atteinte sont à la charge de celui qui exécute les nouveaux travaux. Les dispositions de la législation sur les télécommunications sont réservées.[^45-1]
+
+<sup>2</sup> Si une nouvelle route publique est reliée à une route nationale existante, les intéressés doivent convenir de la répartition des frais.
+
+[^45-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### 2. Transformation de croisements
+
+[^chap2-lvlD-lvlIV-lvl2-1]
+
+[^chap2-lvlD-lvlIV-lvl2-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 46
+
+<sup>1</sup> Si des croisements de routes nationales avec d’autres voies publiques doivent être améliorés par des ouvrages nouveaux, tous ceux qui assument la charge de la construction de la route doivent contribuer aux frais de construction et d’entretien de ces ouvrages dans la mesure où ils sont exigés par le développement du trafic.
+
+<sup>2</sup> Les frais des transformations de croisements entre des routes nationales et des voies ferrées se répartissent selon les dispositions de la loi fédérale du 20 décembre 1957[^46-1] sur les chemins de fer.
+
+[^46-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+
+### 3. Régle-mentation exceptionnelle des frais. Décision en cas de différends
+
+[^chap2-lvlD-lvlIV-lvl3-1]
+
+[^chap2-lvlD-lvlIV-lvl3-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 47
+
+<sup>1</sup> Les art. 45, al. 1, et 46, al. 1, ne sont pas applicables dans la mesure où des accords divergents concernant les frais ont été ou seront conclus entre les intéressés.
+
+<sup>2</sup> L’office statue sur les contestations relatives à la répartition des frais.[^47-1] Est réservée l’action de droit administratif prévue à l’art. 116, let. a ou b, de la loi fédérale d’organisation judiciaire du 16 décembre 1943[^47-2] pour les contestations opposant la Confédération et des cantons, ou des cantons entre eux.[^47-3]
+
+[^47-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^47-2]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7, [2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310)ch. III. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la L du 17 juin 2005 sur le Tribunal fédéral ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^47-3]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 3 fév. 1993 sur les autorités dont les décisions peuvent être déférées au TF ou au TFA, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
+
+### V. Répartition des frais d’adaptation à des ouvrages militaires
+
+[^chap2-lvlD-lvlV-1]
+
+[^chap2-lvlD-lvlV-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 48
+
+Le Conseil fédéral fixe les principes de la mise en compte des frais de travaux d’adaptation que doivent subir les ouvrages militaires du fait de la construction de routes nationales.
+
+## Chapitre 3 Entretien et exploitation des routes nationales****
+
+[^chap3-1]
+
+[^chap3-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### I. Entretien et exploitation
+
+### 1. Principe
+
+#### Art. 49
+
+[^49-1]
+
+Les routes nationales et leurs installations techniques doivent être entretenues et exploitées selon des principes économiques de telle façon qu’un trafic sûr et fluide soit garanti et que les routes puissent autant que possible être empruntées sans restriction.
+
+[^49-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### 2. Compétence
+
+#### Art. 49a
+
+[^49a-1]
+
+<sup>1</sup> L’entretien et l’exploitation des routes nationales relèvent de la compétence de la Confédération.
+
+<sup>2</sup> Elle conclut avec les cantons ou des organismes responsables constitués par eux des accords sur les prestations relatifs à l’exécution de l’entretien courant et des travaux d’entretien ne faisant pas l’objet d’un projet. Si pour certaines unités territoriales aucun canton ou aucun organisme responsable n’est prêt à conclure un accord sur les prestations, la Confédération peut confier l’exécution de ces travaux à des tiers. Dans des cas dûment motivés, la Confédération peut exploiter elle-même tout ou partie de certaines unités territoriales.
+
+<sup>3</sup> Le Conseil fédéral édicte des dispositions précisant notamment la délimitation des unités territoriales, l’étendue des prestations et leur indemnisation. Il détermine l’attribution des unités territoriales.
+
+[^49a-1]: Introduit par le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### II. Exploitation des installations annexes
+
+#### Art. 50
+
+[^50-1]
+
+L’exploitation des installations annexes est soumise, notamment, aux prescriptions concernant la police du commerce et de l’industrie, l’hygiène publique et la police des auberges. Si les nécessités du trafic ou des intérêts d’ordre général l’exigent, le département peut édicter d’autres prescriptions.
+
+[^50-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 15 nov. 1972 ([RO 1972 2661](https://fedlex.data.admin.ch/eli/oc/1972/2607_2661_2441); [FF 1971 I 1126](https://fedlex.data.admin.ch/eli/fga/1971/1_1104_1126_843)).
+
+### III. Mesures pour assurer la sécurité de la circulation
+
+### 1. Interdiction des installations diminuant la visibilité
+
+#### Art. 51
+
+<sup>1</sup> Les plantations, les clôtures, les dépôts de matériaux et les installations qui compromettent la circulation en diminuant la visibilité sont interdits à l’intérieur des alignements; s’ils existent déjà, ils doivent être enlevés à la demande du propriétaire de la route.
+
+<sup>2</sup> Une indemnité convenable est versée pour le dommage en résultant. Si elle ne peut être convenue, la commission d’estimation la fixe conformément à l’art. 64 LEx[^51-1].[^51-2]
+
+[^51-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^51-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 2. Installations de protection
+
+#### Art. 52
+
+<sup>1</sup> Les propriétaires fonciers doivent tolérer les installations temporaires destinées à protéger les routes contre les dommages causés par les phénomènes naturels et qu’il est nécessaire d’aménager en dehors de la route.
+
+<sup>2</sup> Une indemnité convenable est versée pour le dommage en résultant. Si elle ne peut être convenue, la commission d’estimation la fixe conformément à l’art. 64 LEx[^52-1].[^52-2]
+
+[^52-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^52-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 3. Interdiction de publicité
+
+#### Art. 53
+
+<sup>1</sup> Toute réclame et toute annonce sont interdites aux abords des routes nationales, conformément à la loi fédérale du 19 décembre 1958[^53-1] sur la circulation routière.
+
+<sup>2</sup> Le Conseil fédéral arrête des dispositions d’exécution particulières en ce qui concerne les routes nationales.
+
+[^53-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+## Chapitre 4 Haute surveillance de la Confédération
+
+### I. Haute surveillance
+
+#### Art. 54
+
+[^54-1]
+
+<sup>1</sup> L’achèvement du réseau des routes nationales tel qu’il a été décidé[^54-2] est placé sous la haute surveillance de la Confédération.
+
+<sup>2</sup> Si les circonstances l’exigent, le Conseil fédéral veille à ce que les cantons concernés exécutent en commun l’établissement des projets et les travaux de construction.
+
+[^54-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^54-2]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/831_872_858), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+
+### II. Substitution
+
+#### Art. 55
+
+[^55-1]
+
+<sup>1</sup>
+
+Par décision du Conseil fédéral, la Confédération peut assumer tout ou partie des tâches qui incombent à un canton en vertu de la présente loi:
+
+- a. si le canton le demande et s’il n’est réellement pas en mesure d’assumer les tâches en question;
+- b. si cela est nécessaire pour assurer l’exécution de l’ouvrage et que le canton se refuse à exécuter les tâches dans un délai convenable à fixer par le Conseil fédéral.
+
+<sup>2</sup> Dans ces cas également, les frais sont répartis selon les dispositions de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire[^55-2].
+
+[^55-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^55-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+
+## Chapitre 5 …
+
+#### Art. 56 à 58
+
+[^5658-1]
+
+[^5658-1]: Abrogés par le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+#### Art. 59
+
+[^59-1]
+
+[^59-1]: Abrogé par l’art. 40 de la LF du 22 mars 1985 concernant l’utilisation du produit des droits d’entrée sur les carburants, avec effet au 1<sup>er</sup> janv. 1985 ([RO 1985 834](https://fedlex.data.admin.ch/eli/oc/1985/834_834_834); [FF 1984 I 993](https://fedlex.data.admin.ch/eli/fga/1984/1_986_993_800)).
+
+## Chapitre 6 Dispositions d’exécution, transitoires et finales
+
+### I. Exécution de la loi
+
+### 1. Par le Conseil fédéral
+
+#### Art. 60
+
+[^60-1]
+
+<sup>1</sup> Le Conseil fédéral édicte les dispositions d’exécution et veille à leur application.
+
+<sup>2</sup> Il prend en particulier les mesures nécessaires pour assurer l’établissement de projets conformes aux règles de l’art, une exécution économique des travaux, un contrôle suffisant de la construction ainsi qu’un entretien et une exploitation adéquats.
+
+[^60-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### 2. Par les cantons
+
+#### Art. 61
+
+<sup>1</sup> Les cantons règlent, dans les limites de la présente loi, la compétence pour l’exécution des tâches qui leur sont imposées, ainsi que la procédure.
+
+<sup>2</sup> Les cantons sont tenus d’édicter des prescriptions complémentaires dans la mesure où l’exécution de la présente loi l’exige. …[^61-1] Elles peuvent être édictées par voie d’ordonnance.
+
+<sup>3</sup> Si un canton n’a pas pris en temps utile les dispositions qu’exige l’application de la présente loi, le Conseil fédéral édicte provisoirement, en son lieu et place, les ordonnances nécessaires et porte le fait à la connaissance de l’Assemblée fédérale.
+
+[^61-1]: 2<sup>e</sup> phrase abrogée par le ch. II 32 de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, avec effet au 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+
+### I*a*. Traités internationaux
+
+#### Art. 61a
+
+[^61a-1]
+
+Le Conseil fédéral peut de sa propre compétence conclure des traités internationaux lorsque des ouvrages transfrontaliers sont réalisés dans le cadre d’un raccordement de routes nationales et de routes étrangères à grand débit.
+
+[^61a-1]: Introduit par le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+
+### I*b*. Prestations commerciales
+
+#### Art. 61b
+
+[^61b-1]
+
+<sup>1</sup>
+
+L’office peut fournir des prestations commerciales à des tiers pour autant que ces prestations remplissent les conditions suivantes:
+
+- a. elles sont liées étroitement à ses tâches principales;
+- b. elles n’entravent pas l’exécution de ses tâches principales;
+- c. elles n’exigent pas d’importantes ressources matérielles et humaines supplémentaires.
+
+<sup>2</sup> Les prestations commerciales sont fournies à des prix permettant au moins de couvrir les coûts calculés sur la base d’une comptabilité analytique. Le département peut autoriser des dérogations pour certaines prestations à condition qu’elles n’entrent pas en concurrence avec le secteur privé.
+
+[^61b-1]: Introduit par l'annexe ch. 3 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708)[5011](https://fedlex.data.admin.ch/eli/oc/2010/709); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+
+### II. Dispositions transitoires relatives à la modification du 18 juin 1999
+
+#### Art. 62
+
+[^62-1]
+
+<sup>1</sup> Les demandes qui ont été mises à l’enquête avant l’entrée en vigueur de la présente modification sont régies par les anciennes règles de procédure.
+
+<sup>2</sup> Les recours pendants sont également régis par les anciennes règles de procédure.
+
+[^62-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
+
+### II*a*. Dispositions transitoires relatives à la modification du 6 octobre 2006
+
+#### Art. 62a
+
+[^62a-1]
+
+<sup>1</sup> La propriété des routes nationales est transférée sans indemnisation à la Confédération à l’entrée en vigueur de la modification du 6 octobre 2006[^62a-2].
+
+<sup>2</sup> Le Conseil fédéral détermine les biens-fonds et désigne les droits réels limités, les conventions de droit public, les obligations contractuelles et les décisions qui sont transférés à la Confédération à l’entrée en vigueur de la modification du 6 octobre 2006. Le département peut rectifier cette répartition par voie de décision dans un délai de 15 ans à compter de l’entrée en vigueur de la modification du 6 octobre 2006.
+
+<sup>3</sup> Le Conseil fédéral établit le régime de propriété et règle les conséquences en matière d’indemnités pour les surfaces, les centres d’entretien et les centres de police qui deviennent entièrement ou partiellement inutiles pour les routes nationales. L’obligation de verser des indemnités est limitée à 15 ans.
+
+<sup>4</sup> Les droits de propriété immobilière et les droits réels limités transférés à la Confédération sont immatriculés au registre foncier ou passent à la Confédération sans qu’aucun émolument ne soit perçu.
+
+<sup>5</sup> Le Conseil fédéral désigne les tronçons à construire dans le cadre de l’achèvement du réseau des routes nationales tel qu’il a été décidé[^62a-3]. Les cantons restent propriétaires de ces tronçons jusqu’à ce qu’ils soient ouverts à la circulation.
+
+<sup>6</sup> Lors du transfert de propriété, les cantons remettent à la Confédération les documents, plans et banques de données correspondant à l’état d’exécution atteint. Les cantons archivent les actes historiques pour une durée indéterminée et les justificatifs comptables conformément aux dispositions légales.
+
+<sup>7</sup> Le Conseil fédéral règle la compétence concernant l’exécution des projets d’aménagement et d’entretien qui sont en cours au moment de l’entrée en vigueur de la modification du 6 octobre 2006.
+
+[^62a-1]: Introduit par le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^62a-2]: [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
+[^62a-3]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/831_872_858), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+
+### Disposition transitoire relative à la modification du 30 septembre 2016
+
+#### Art. 63
+
+[^63-1]
+
+Les autorisations de construire relatives aux projets repris par la Confédération, à savoir le contournement de Näfels de la N 17 Niederurnen–Glarus et les contournements du Locle et de La Chaux-de-Fonds de la N 20 Le Locle (Frontière)–La Chaux-de-Fonds–Tunnel de la Vue des Alpes–Neuchâtel et Thielle–Murten sont considérées comme valables, en dérogation à l’art. 28, al. 3, même si leur durée de validité a expiré au moment de l’entrée en vigueur de l’arrêté fédéral du 10 décembre 2012 sur le réseau des routes nationales[^63-2].
+
+[^63-1]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^63-2]: [FF 2013 2343](https://fedlex.data.admin.ch/eli/fga/2013/460), [2016 8119](https://fedlex.data.admin.ch/eli/fga/2016/1956)
+
+### III. Modification de lois
+
+#### Art. 64
+
+…[^64-1]
+
+[^64-1]: Les mod. peuvent être consultées au [RO 1960 569](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555).
+
+### IV. Récusation des membres et suppléants des commissions d’estimation
+
+#### Art. 65
+
+L’art. 22, al. 1, let. *c,* de la loi fédérale d’organisation judiciaire du 16 décembre 1943[^65-1] n’est pas applicable à la récusation des membres et des suppléants des commissions d’estimation.
+
+[^65-1]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7, [2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310)ch. III. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1].
+
+### V. Entrée en vigueur
+
+#### Art. 66
+
+Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
+
+Date de l’entrée en vigueur: 21 juin 1960[^66-1]
+
+[^66-1]: ACF du 13 juin 1960

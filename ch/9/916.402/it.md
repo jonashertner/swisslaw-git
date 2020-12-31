@@ -1,0 +1,498 @@
+---
+sr: "916.402"
+title: "Ordinanza del 16 novembre 2011 concernente la formazione, il perfezionamento e l'aggiornamento delle persone impiegate nel settore veterinario pubblico"
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/803"
+language: it
+version: 2012-06-01
+adopted: 2011-11-16
+in_force: 2012-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/803/20120601/it/xml/fedlex-data-admin-ch-eli-cc-2011-803-20120601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/803/20120601/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico
+
+del 16 novembre 2011 (Stato 1° giugno 2012) (Stato 1° giugno 2012)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 2 e 3 numero 1 della legge del 1° luglio 1966[^ingress-1] sulle epizoozie; visto l’articolo 41 capoverso 1 della legge del 9 ottobre 1992[^ingress-2] sulle derrate alimentari; visto l’articolo 32 capoverso 4 della legge federale del 16 dicembre 2005[^ingress-3] sulla protezione degli animali,
+
+ordina:
+
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina le esigenze previste per la formazione, il perfezionamento e l’aggiornamento delle seguenti persone, che svolgono funzioni nell’ambito del settore veterinario pubblico:
+
+- a. i veterinari cantonali;
+- b. i veterinari ufficiali dirigenti;
+- c. i veterinari ufficiali;
+- d. gli esperti ufficiali;
+- e. gli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni;
+- f. gli assistenti specializzati ufficiali incaricati di altri compiti.
+
+#### Art. 2
+
+**Principi**
+
+<sup>1</sup> Chiunque svolge una funzione di cui all’articolo 1 deve essere titolare dell’attestato di capacità richiesto. Le persone di cui all’articolo 1 lettere b–f devono disporre dell’attestato di capacità richiesto al più tardi tre anni dopo aver assunto tale funzione.
+
+<sup>2</sup> I veterinari cantonali devono almeno essere titolari dell’attestato di capacità di veterinario ufficiale.
+
+<sup>3</sup> L’attestato di capacità è rilasciato a chi ha seguito con successo il perfezionamento e ha superato l’esame.
+
+<sup>4</sup> Chiunque svolge una funzione di cui all’articolo 1 non può esercitare altre attività che possono comportare un conflitto di interessi.
+
+<sup>5</sup> Il grado di occupazione delle persone di cui all’articolo 1 lettere b e c deve essere almeno del 30 per cento.
+
+#### Art. 3
+
+**Compiti**
+
+<sup>1</sup> Il veterinario cantonale dirige il servizio veterinario cantonale.
+
+<sup>2</sup> I veterinari ufficiali svolgono tutti i compiti nell’ambito del settore veterinario pubblico. I veterinari ufficiali dirigenti esercitano inoltre compiti inerenti alla gestione.
+
+<sup>3</sup> Gli esperti ufficiali svolgono compiti nell’ambito del settore veterinario pubblico che non devono necessariamente essere eseguiti dai veterinari ufficiali.
+
+<sup>4</sup> Gli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni svolgono, nell’ambito del settore veterinario pubblico, compiti concernenti il controllo degli animali da macello e il controllo delle carni secondo l’ordinanza del 23 novembre 2005[^3-1] concernente la macellazione e il controllo delle carni. Essi sono posti sotto la sorveglianza di un veterinario ufficiale.
+
+<sup>5</sup> Gli assistenti specializzati ufficiali incaricati di altri compiti svolgono compiti, nell’ambito del settore veterinario pubblico, che non sono riservati né ai veterinari ufficiali né agli esperti ufficiali o agli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni. Essi sono posti sotto la sorveglianza di un veterinario ufficiale.
+
+[^3-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+
+#### Art. 4
+
+**Supplenza**
+
+<sup>1</sup> Chiunque sostituisce una persona di cui all’articolo 1 lettere a, c, e oppure f deve soddisfare le stesse esigenze dal profilo del perfezionamento e dell’aggiornamento.
+
+<sup>2</sup> Chiunque sostituisce una persona di cui all’articolo 1 lettera b oppure d deve disporre di qualifiche sufficienti per svolgere il compito corrispondente.
+
+#### Art. 5
+
+**Trasferimento di compiti a veterinari non ufficiali**
+
+Il veterinario cantonale può affidare a veterinari non ufficiali il controllo degli animali da macello e il controllo delle carni da svolgere nelle aziende con un’esigua capacità produttiva secondo l’articolo 3 lettera l dell’ordinanza del 23 novembre 2005[^5-1] concernente la macellazione e il controllo delle carni nonché, in casi motivati, affidare loro eccezionalmente altri compiti, se tali veterinari dispongono delle qualifiche sufficienti per svolgerli.
+
+[^5-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+
+## Sezione 2: Formazione, perfezionamento, aggiornamento
+
+#### Art. 6
+
+**Formazione**
+
+<sup>1</sup>
+
+Chiunque intende assumere una funzione di cui all’articolo 1 lettere a–c deve disporre di:
+
+- a. un diploma federale in medicina veterinaria; oppure
+- b. un diploma estero riconosciuto in medicina veterinaria conformemente all’articolo 15 della legge del 23 giugno 2006[^6-1] sulle professioni mediche.
+
+<sup>2</sup> Chiunque intende assumere la funzione di esperto ufficiale deve disporre di un diploma in una professione medica secondo la legge sulle professioni mediche oppure avere concluso uno studio universitario o di scuola universitaria professionale a livello di master, riconosciuto dalla commissione d’esame del settore veterinario pubblico (commissione d’esame; art. 15).
+
+<sup>3</sup> Chiunque intende assumere la funzione di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni deve avere concluso una formazione professionale di base nel settore agroalimentare. La commissione d’esame può riconoscere altre formazioni professionali di base.
+
+<sup>4</sup> Chiunque intende assumere la funzione di assistente specializzato ufficiale incaricato di altri compiti deve avere concluso una formazione professionale di base.
+
+[^6-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+#### Art. 7
+
+**Perfezionamento**
+
+<sup>1</sup> Il perfezionamento consta di una parte pratica e di una parte teorica. I contenuti e le esigenze del perfezionamento sono disciplinati nell’allegato 1.
+
+<sup>2</sup>
+
+Se una persona prova di avere già raggiunto gli obiettivi del perfezionamento, la commissione d’esame può dispensarla del tutto o in parte:
+
+- a. dalla parte pratica del perfezionamento;
+- b. dalla parte teorica del perfezionamento;
+- c. dalle prove d’esame.
+
+#### Art. 8
+
+**Centri di perfezionamento**
+
+<sup>1</sup> Le conoscenze pratiche e teoriche devono essere acquisite nei centri di perfezionamento riconosciuti dalla commissione d’esame.
+
+<sup>2</sup> I centri di perfezionamento sono tenuti a basare l’insegnamento sugli obiettivi definiti dalla commissione d’esame.
+
+<sup>3</sup> Tali centri devono garantire un’assistenza sufficiente alle persone che seguono un perfezionamento.
+
+#### Art. 9
+
+**Aggiornamento**
+
+Le persone impiegate nel settore veterinario pubblico devono aggiornare le loro conoscenze partecipando regolarmente a corsi di aggiornamento e tenersi al corrente sugli ultimi sviluppi della situazione. Esse sono obbligate a partecipare ogni anno ad almeno un’attività di aggiornamento che soddisfi i criteri stabiliti dalla commissione d’esame.
+
+## Sezione 3: Esami
+
+#### Art. 10
+
+**Iscrizione, ammissione e materie d’esame**
+
+L’iscrizione e l’ammissione alle prove d’esame nonché le materie d’esame sono disciplinate nell’allegato 1.
+
+#### Art. 11
+
+**Svolgimento delle prove d’esame**
+
+Le prove d’esame si svolgono in presenza della commissione d’esame o di esperti da essa designati.
+
+#### Art. 12
+
+**Assegnazione delle note**
+
+<sup>1</sup> Per ogni prova d’esame viene assegnata una nota. Le note vengono comunicate per scritto al termine di tutte le prove d’esame.
+
+<sup>2</sup>
+
+Le prestazioni sono valutate come segue:
+
+- 6 = molto bene
+- 5 = bene
+- 4 = sufficiente
+- 3 = insufficiente
+- 2 = male
+- 1 = molto male.
+
+<sup>3</sup> I mezzi punti sono ammessi.
+
+<sup>4</sup> Sommando le singole note viene calcolata la nota media.
+
+<sup>5</sup> Se la media delle note raggiunge almeno 4,0 l’esame è superato, a condizione che non siano state assegnate note inferiori al 3 o non più di una nota inferiore al 4.
+
+#### Art. 13
+
+**Ripetizione**
+
+Una prova d’esame non superata può essere ripetuta due volte.
+
+#### Art. 14
+
+**Mezzi illeciti**
+
+<sup>1</sup> La commissione d’esame può dichiarare non superato l’esame se per l’ammissione a una prova d’esame o durante una prova d’esame sono stati utilizzati mezzi illeciti.
+
+<sup>2</sup> Nel caso di cui al capoverso 1 l’esame può essere ripetuto una volta. Una prova d’esame non superata in caso di ripetizione dell’esame può essere ripetuta una sola volta.
+
+## Sezione 4: Commissione d’esame
+
+#### Art. 15
+
+**Organizzazione**
+
+<sup>1</sup> Il Consiglio federale istituisce una commissione d’esame.
+
+<sup>2</sup> La commissione d’esame è composta al massimo di 15 membri. L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^15-1], i veterinari cantonali e i veterinari ufficiali devono essere rappresentati almeno da una persona.
+
+<sup>3</sup> L’USAV assume la presidenza e si occupa del segretariato.
+
+<sup>4</sup> La commissione d’esame può deliberare validamente se è presente la maggioranza dei suoi membri. In caso di parità, il voto del presidente è preponderante.
+
+[^15-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 16
+
+**Compiti e competenze**
+
+<sup>1</sup>
+
+La commissione d’esame ha i seguenti compiti:
+
+- a. è responsabile del budget e delle finanze;
+- b. stabilisce gli obiettivi del perfezionamento e li adegua alle nuove conoscenze acquisite;
+- c. riconosce i centri di perfezionamento e le attività di perfezionamento;
+- d. stabilisce i criteri che devono soddisfare le attività di aggiornamento;
+- e. riconosce le attività di perfezionamento svolte all’estero;
+- f. accorda le dispense di cui all’articolo 7 capoverso 2;
+- g. nell’ambito delle sue competenze secondo l’allegato 1 decide in merito all’ammissione dei candidati alle prove d’esame;
+- h. rilascia gli attestati di capacità;
+- i. redige un rapporto annuale destinato all’USAV e ai Cantoni.
+
+<sup>2</sup> Essa può offrire attività di perfezionamento e di aggiornamento.
+
+#### Art. 17
+
+**Indennità**
+
+<sup>1</sup> I membri della commissione d’esame sono indennizzati conformemente all’ordinanza del 25 novembre 1998[^17-1] sull’organizzazione del Governo e dell’Amministrazione.
+
+<sup>2</sup> Gli esperti sono indennizzati, per analogia, secondo la categoria di indennizzo S3 di cui al numero 1.1 dell’allegato 2 dell’ordinanza del 25 novembre 1998 sull’organizzazione del Governo e dell’Amministrazione.
+
+[^17-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+## Sezione 5: Finanziamento
+
+#### Art. 18
+
+<sup>1</sup> Le tasse d’esame e le tasse per il perfezionamento sono fissate nell’articolo 24*a* dell’ordinanza del 30 ottobre 1985[^18-1] sulle tasse dell’USAV.
+
+<sup>2</sup> I costi scoperti del perfezionamento e dell’aggiornamento sono assunti in parti uguali dalla Confederazione e dai Cantoni.
+
+<sup>3</sup> La partecipazione finanziaria di ogni Cantone è calcolata in parti uguali in funzione della popolazione e del numero delle unità di bestiame grosso.
+
+[^18-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+
+## Sezione 6: Disposizioni finali
+
+#### Art. 19
+
+**Abrogazione e modifica del diritto vigente**
+
+L’abrogazione e la modifica del diritto vigente sono disciplinate nell’allegato 2.
+
+#### Art. 20
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Gli attestati di capacità che sono stati rilasciati secondo l’ordinanza del 24 gennaio 2007[^20-1] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico rimangono validi.
+
+<sup>2</sup> Alle persone che hanno iniziato il perfezionamento prima dell’entrata in vigore della presente ordinanza è applicabile l’articolo 6 dell’ordinanza del 24 gennaio 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico.
+
+<sup>3</sup> Le persone che, al momento dell’entrata in vigore della presente ordinanza, si trovano a tre anni al massimo dall’età ordinaria che dà diritto alla rendita AVS non devono svolgere attività di perfezionamento.
+
+<sup>4</sup> I veterinari cantonali che erano già in carica il 1° aprile 2007 non devono svolgere attività di perfezionamento.
+
+<sup>5</sup> Le persone che, al momento dell’entrata in vigore della presente ordinanza, svolgono una funzione di cui all’articolo 1 lettere b–f devono aver superato l’esame del loro perfezionamento al più tardi entro tre anni dall’entrata in vigore della presente ordinanza.
+
+<sup>6</sup> L’USAV e i veterinari cantonali possono procedere, entro il 31 marzo 2012, ai riconoscimenti di cui all’articolo 20 capoverso 4 dell’ordinanza del 24 gennaio 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico.
+
+[^20-1]: [[RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)]
+
+#### Art. 21
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2012.
+
+Allegato 1*[^t-1]*
+
+(art. 7 cpv. 1 e 10)
+
+## Disposizioni in materia di perfezionamento
+
+[^t-1]: Aggiornato dal n. I dell'O del 9 mag. 2012, in vigore dal 1° giu. 2012 ([RU 2012 2853](https://fedlex.data.admin.ch/eli/oc/2012/333)).
+
+### 1 Veterinari ufficiali
+
+### 1.1 Perfezionamento
+
+<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di veterinario ufficiale deve aver frequentato un corso di perfezionamento pratico di almeno 80 giorni lavorativi. In particolare deve:
+
+- a. avere svolto almeno 10 giorni lavorativi di attività amministrativa e di controllo in uno o in diversi servizi veterinari cantonali;
+- b. avere verificato in allevamenti di animali, in macelli e in altre aziende se le prescrizioni rilevanti per il settore veterinario pubblico sono rispettate; e
+- c. avere effettuato complessivamente almeno 30 giorni lavorativi in un’azienda di macellazione, in un’azienda di sezionamento, in un’azienda di trasformazione delle derrate alimentari, presso un posto d’ispezione frontaliero per il controllo delle carni fresche o in un’azienda di produzione primaria, di cui almeno 10 devono essere svolti in un’azienda di macellazione; l’attività deve essere in particolare incentrata sulla verifica della gestione della sicurezza delle derrate alimentari, comprese la salute e la protezione degli animali.
+
+<sup>2</sup> Inoltre la persona in questione deve aver frequentato un corso di perfezionamento teorico nel quale vengono impartite le seguenti nozioni:
+
+- a. legislazione sulle epizoozie, sulle derrate alimentari, sulla protezione degli animali e in materia di agenti terapeutici, comprese la procedura amministrativa e la procedura penale;
+- b. conoscenze in materia di epizoozie, di epidemiologia e di igiene delle derrate alimentari nonché di etologia e di protezione degli animali;
+- c. gestione della qualità nella produzione primaria, durante la macellazione, il sezionamento e nell’eliminazione dei sottoprodotti di origine animale; e
+- d. comunicazione e metodologia della formazione.
+
+<sup>3</sup> Le conoscenze teoriche vengono di regola acquisite durante la formazione specializzata in salute pubblica veterinaria (SPV) presso una facoltà di medicina veterinaria o durante un corso di perfezionamento riconosciuto dalla commissione d’esame che permette di esercitare un’attività veterinaria ufficiale.
+
+<sup>4</sup> La persona che segue un perfezionamento deve essere assistita da un veterinario ufficiale.
+
+### 1.2 Esame
+
+L’esame viene valutato assegnando sei note e comprende:
+
+- a. una prova scritta d’esame per verificare le conoscenze sulla legislazione in materia di epizoozie;
+- b. una prova scritta d’esame per verificare le conoscenze sulla legislazione in materia di derrate alimentari nell’ambito della produzione primaria o della macellazione nonché sulla legislazione in materia di agenti terapeutici;
+- c. una prova scritta d’esame per verificare le conoscenze sulla legislazione in materia di protezione degli animali;
+- d. la valutazione pratica di un effettivo di animali dopo un controllo in un’azienda;
+- e. l’esecuzione pratica del controllo degli animali da macello e del controllo delle carni; e
+- f. una prova orale d’esame per verificare le conoscenze relative alla sfera di competenza dei veterinari ufficiali.
+
+### 1.3 Iscrizione all’esame
+
+<sup>1</sup> Chiunque intende sostenere una prova d’esame di cui al numero 1.2 lettere a–c e f invia alla commissione d’esame l’iscrizione all’esame.
+
+<sup>2</sup> All’iscrizione all’esame di cui al capoverso 1 occorre allegare:
+
+- a. l’attestato che certifica la fine degli studi;
+- b. i giustificativi del perfezionamento teorico o la dispensa da parte della commissione d’esame.
+
+<sup>3</sup> La commissione d’esame decide circa l’ammissione del candidato alle prove d’esame di cui al numero 1.2 lettere a–c e f.
+
+<sup>4</sup> Chiunque intende sostenere la prova d’esame di cui al numero 1.2 lettere d ed e invia l’iscrizione all’esame al veterinario cantonale nel cui Cantone si svolge la prova d’esame.
+
+<sup>5</sup> All’iscrizione all’esame di cui al capoverso 4 occorre allegare il giustificativo del perfezionamento pratico o la dispensa da parte della commissione d’esame.
+
+<sup>6</sup> Il veterinario cantonale decide circa l’ammissione del candidato alle prove d’esame di cui al numero 1.2 lettere d ed e.
+
+### 2 Veterinari ufficiali dirigenti
+
+### 2.1 Perfezionamento
+
+Chiunque intende ottenere l’attestato di capacità di veterinario ufficiale dirigente deve:
+
+- a. essere titolare dell’attestato di capacità di veterinario ufficiale;
+- b. avere svolto per almeno due anni la funzione di veterinario ufficiale;
+- c. avere svolto un perfezionamento pratico di almeno 25 giorni lavorativi che gli ha consentito di farsi un’idea dell’attività amministrativa dell’USAV oppure di uno o diversi servizi cantonali;
+- d. avere svolto un perfezionamento teorico sulla gestione del personale, sulla gestione aziendale e sulla gestione delle situazioni di crisi; e
+- e. avere svolto un perfezionamento teorico inerente alla legislazione sulle epizoozie, sulle derrate alimentari, sulla protezione degli animali e sugli agenti terapeutici nonché in materia di procedura amministrativa, di procedura penale e di comunicazione.
+
+### 2.2 Esame
+
+L’esame viene valutato assegnando tre note e comprende:
+
+- a. un lavoro scritto, da redigere in 14 giorni, su una problematica inerente all’applicazione della legislazione in materia di epizoozie, di derrate alimentari o di protezione degli animali;
+- b. la valutazione di una fattispecie basandosi su un dossier; e
+- c. una prova orale d’esame per verificare le conoscenze relative alla sfera di competenza del veterinario ufficiale dirigente.
+
+### 2.3 Iscrizione all’esame
+
+<sup>1</sup> Chiunque intende sostenere l’esame di cui al numero 2.2 invia alla commissione d’esame l’iscrizione all’esame.
+
+<sup>2</sup> All’iscrizione all’esame occorre allegare:
+
+- a. l’attestato che certifica la fine degli studi nonché gli attestati di capacità già ottenuti che sono richiesti dalla presente ordinanza;
+- b. i giustificativi del perfezionamento teorico e pratico o la dispensa da parte della commissione d’esame.
+
+<sup>3</sup> La commissione d’esame decide circa l’ammissione del candidato all’esame.
+
+### 3 Esperti ufficiali
+
+### 3.1 Perfezionamento
+
+<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di esperto ufficiale deve avere svolto un perfezionamento pratico. Il perfezionamento comprende almeno 30 giorni lavorativi di attività amministrativa e di controllo e fornisce le conoscenze sulla procedura relativa ai compiti esecutivi nel rispettivo settore specifico.
+
+<sup>2</sup> Deve avere inoltre frequentato un perfezionamento teorico nel quale vengono impartite, nel rispettivo settore specifico e per i principali tipi di aziende in questione, nozioni inerenti alla legislazione sulle epizoozie, sulle derrate alimentari, sulla protezione degli animali e in materia di agenti terapeutici, comprese la procedura amministrativa e penale, nonché conoscenze tecniche approfondite.
+
+<sup>3</sup> La persona che segue un perfezionamento deve essere assistita da un veterinario ufficiale.
+
+### 3.2 Esame
+
+L’esame viene valutato assegnando tre note e comprende:
+
+- a. una prova scritta d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico;
+- b. una prova orale d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico; e
+- c. una prova pratica d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico.
+
+### 3.3 Iscrizione all’esame
+
+<sup>1</sup> Chiunque intende sostenere una prova d’esame di cui al numero 3.2 lettere a e b invia alla commissione d’esame l’iscrizione all’esame.
+
+<sup>2</sup> All’iscrizione all’esame di cui al capoverso 1 occorre allegare:
+
+- a. l’attestato che certifica la fine degli studi;
+- b. i giustificativi del perfezionamento teorico o la dispensa da parte della commissione d’esame.
+
+<sup>3</sup> La commissione d’esame decide circa l’ammissione del candidato alle prove d’esame di cui al numero 3.2 lettere a e b.
+
+<sup>4</sup> Chiunque intende sostenere la prova d’esame di cui al numero 3.2 lettera c invia l’iscrizione all’esame al veterinario cantonale nel cui Cantone si svolge la prova d’esame.
+
+<sup>5</sup> All’iscrizione all’esame di cui al capoverso 4 occorre allegare il giustificativo del perfezionamento pratico o la dispensa da parte della commissione d’esame.
+
+<sup>6</sup> Il veterinario cantonale decide circa l’ammissione del candidato alla prova d’esame di cui al numero 3.2 lettera c.
+
+### 4 Assistenti specializzati ufficiali
+
+### 4.1 Assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni
+
+### 4.1.1 Perfezionamento
+
+<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni deve avere svolto un perfezionamento pratico e teorico di 20 giorni lavorativi nonché una fase di approfondimento delle conoscenze acquisite di 80 giorni lavorativi concernente:
+
+- a. gli elementi fondamentali della legislazione in materia di derrate alimentari, epizoozie e protezione degli animali, per quanto siano importanti per il controllo degli animali da macello e il controllo delle carni;
+- b. l’anatomia e le alterazioni patologiche, per quanto siano importanti per il controllo degli animali da macello e il controllo delle carni;
+- c. la tecnica e l’igiene della macellazione; e
+- d. le procedure di controllo degli animali da macello e di controllo delle carni.
+
+<sup>2</sup> Il perfezionamento pratico e teorico sono posti sotto la direzione di un veterinario ufficiale.
+
+<sup>3</sup> Durante gli 80 giorni di approfondimento delle conoscenze acquisite, le persone in fase di perfezionamento possono svolgere, sotto la sorveglianza di un veterinario ufficiale, le attività previste nell’articolo 57 dell’ordinanza del 23 novembre 2005[^annex1-lvlu1-lvl4-lvl41-lvl411-1] concernente la macellazione e il controllo delle carni.
+
+[^annex1-lvlu1-lvl4-lvl41-lvl411-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+
+### 4.1.2 Perfezionamento specifico dell’azienda
+
+La persona in fase di perfezionamento deve frequentare un perfezionamento supplementare inerente ai processi di lavoro specifici dell’azienda in cui lavora.
+
+### 4.1.3 Esame
+
+L’esame viene valutato assegnando tre note e comprende:
+
+- a. una prova scritta d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico;
+- b. una prova orale d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico; e
+- c. il controllo pratico degli animali da macello e il controllo delle carni di due specie animali.
+
+### 4.1.4 Iscrizione all’esame
+
+<sup>1</sup> Chiunque intende sostenere l’esame di cui al numero 4.1.3 invia alla commissione d’esame l’iscrizione all’esame.
+
+<sup>2</sup> All’iscrizione all’esame occorre allegare:
+
+- a. l’attestato che certifica la fine degli studi o la conclusione della formazione professionale di base;
+- b. i giustificativi del perfezionamento teorico e pratico o la dispensa da parte della commissione d’esame.
+
+<sup>3</sup> La commissione d’esame decide circa l’ammissione del candidato all’esame.
+
+### 4.2 Assistenti specializzati ufficiali incaricati di altri compiti
+
+### 4.2.1 Perfezionamento
+
+<sup>1</sup> Chiunque intende ottenere l’attestato di capacità di assistente specializzato ufficiale incaricato di altri compiti deve avere svolto un perfezionamento di almeno 30 giorni lavorativi:
+
+<sup>2</sup> Il perfezionamento di cui al capoverso 1 comprende:
+
+- a. un perfezionamento pratico e teorico concernente la procedura amministrativa generale;
+- b. un perfezionamento pratico e teorico per acquisire le conoscenze tecniche necessarie per effettuare i controlli nel settore specifico in questione; e
+- c. un perfezionamento teorico per acquisire le conoscenze degli elementi fondamentali della legislazione sulle epizoozie, sulle derrate alimentari, sulla protezione degli animali e in materia di agenti terapeutici, le conoscenze dei principi inerenti ai sistemi di garanzia della qualità, della stesura di rapporti di controllo nonché degli aspetti psicologici di cui occorre tenere conto durante l’esecuzione dei controlli.
+
+### 4.2.2 Esame
+
+L’esame viene valutato assegnando tre note e comprende:
+
+- a. una prova scritta d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico;
+- b. una prova orale d’esame per verificare le conoscenze del candidato nel rispettivo settore specifico; e
+- c. l’esecuzione pratica di un controllo e la stesura di un rapporto di controllo nel rispettivo settore specifico.
+
+### 4.2.3 Iscrizione all’esame
+
+<sup>1</sup> Chiunque intende sostenere l’esame di cui al numero 4.2.2 invia alla commissione d’esame l’iscrizione all’esame.
+
+<sup>2</sup> All’iscrizione all’esame occorre allegare:
+
+- a. l’attestato che certifica la fine degli studi o la conclusione della formazione professionale di base;
+- b. i giustificativi del perfezionamento teorico e pratico o la dispensa da parte della commissione d’esame.
+
+<sup>3</sup> La commissione d’esame decide circa l’ammissione del candidato all’esame.
+
+Allegato 2
+
+(art. 19)
+
+I
+
+## Abrogazione del diritto vigente
+
+L’ordinanza del 24 gennaio 2007[^annex2-lvlu1-1] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico è abrogata.
+
+II
+
+[^annex2-lvlu1-1]: [[RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)]
+
+## Modifica del diritto vigente
+
+Le seguenti ordinanze sono modificate come segue:
+
+…[^annex2-lvlu2-1]
+
+[^annex2-lvlu2-1]: Le mod. possono essere consultate alla RU**2011** 5803.

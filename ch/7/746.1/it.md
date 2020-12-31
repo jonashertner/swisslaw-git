@@ -1,0 +1,782 @@
+---
+sr: "746.1"
+title: "Legge federale del 4 ottobre 1963 sugli impianti di trasporto in condotta di combustibili e carburanti liquidi o gassosi (Legge sugli impianti di trasporto in condotta, LITC)"
+short: LITC
+eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
+language: it
+version: 2021-01-01
+adopted: 1963-10-04
+in_force: 1964-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20210101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sugli impianti di trasporto in condotta di combustibili e carburanti liquidi o gassosi
+
+(Legge sugli impianti di trasporto in condotta, LITC**[^t-1]**)
+
+del 4 ottobre 1963 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+
+[^t-1]: Abbreviazione introdotta dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto gli articoli 23, 24<sup>quater</sup>, 26<sup>bis</sup>, 64 e 64<sup>bis</sup> della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 28 settembre 1962[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [CS **1** 3; [RU 1961 498](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498),[1976 711](https://fedlex.data.admin.ch/eli/oc/1976/711_711_711)]. Queste disp. corrispondono agli art. 81, 91, 122 e 123 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Nuovo testo giusta l’all. n. 21 alla L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001, in vigore dal 1° gen. 2017 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+[^ingress-3]: FF **1962** 1365
+
+## I. Disposizioni generali
+
+### Campo d’applicazione
+
+[^lvlI-lvlu1-1]
+
+[^lvlI-lvlu1-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 1
+
+<sup>1</sup> La presente legge si applica alle condotte per il trasporto del petrolio greggio, del gas naturale, di altri combustibili e carburanti liquidi o gassosi designati dal Consiglio federale, e agli impianti che servono al loro esercizio come le pompe e i serbatoi (detti complessivamente qui di seguito «impianti»).
+
+<sup>2</sup>
+
+Essa è interamente applicabile:
+
+- a. alle condotte aventi un diametro e una pressione d’esercizio maggiori di quelli stabiliti dal Consiglio federale;
+- b. alle condotte che traversano i confini della Svizzera, in quanto non siano considerate nella lettera a, eccettuate le condotte di distribuzione del gas urbano nell’ambito esclusivo della zona economica dell’impresa che lo fornisce.
+
+<sup>3</sup> Le condotte che non adempiono le condizioni stabilite nel capoverso 2 soggiacciono all’ordinamento speciale previsto nel capo IV.
+
+<sup>4</sup> Il Consiglio federale può esentare dalla legge le condotte brevi, segnatamente quelle che sono parti costitutive d’impianti di deposito, travaso, trattamento o impiego di combustibili e di carburanti.
+
+<sup>5</sup> ...[^1-1]
+
+[^1-1]: Abrogato dall’all. n. 78 alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### 1. Approvazione dei piani
+
+#### Art. 2
+
+[^2-1]
+
+<sup>1</sup> Gli impianti di trasporto in condotta secondo l’articolo 1 capoverso 2 possono essere costruiti o modificati unicamente con l’approvazione dei piani da parte dell’autorità di vigilanza.
+
+<sup>2</sup> La procedura di approvazione dei piani è retta dalla legge federale del 20 dicembre 1968[^2-2] sulla procedura amministrativa, per quanto la presente legge non vi deroghi.[^2-3]
+
+<sup>2bis</sup> Se sono necessarie espropriazioni, si applicano inoltre le disposizioni della legge federale del 20 giugno 1930[^2-4] sull’espropriazione (LEspr).[^2-5]
+
+<sup>3</sup> Con l’approvazione dei piani sono rilasciate tutte le autorizzazioni necessarie secondo il diritto federale.
+
+<sup>4</sup> Non è necessaria alcuna autorizzazione o piano del diritto cantonale. Va tenuto conto del diritto cantonale per quanto esso non limiti in modo sproporzionato l’adempimento dei compiti dell’esercente di un impianto di trasporto in condotta (impresa).
+
+[^2-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^2-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^2-3]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^2-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-5]: Introdotto dall’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 2. Condizioni
+
+### a. In generale
+
+[^lvlI-lvl2-lvla-1]
+
+[^lvlI-lvl2-lvla-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 3
+
+<sup>1</sup>
+
+L’approvazione dei piani va rifiutata oppure, se basta una misura meno radicale, va concessa con condizioni restrittive o oneri:[^3-1]
+
+- a. se la costruzione o l’esercizio dell’impianto ponesse in pericolo persone, beni o diritti importanti; in particolare, se vi fosse pericolo d’inquinamento delle acque o risultasse notevolmente pregiudicato il paesaggio;
+- b. se fosse perturbata un’opera pubblica esistente, ovvero impedita o notevolmente intralciata l’attuazione di un’opera progettata, quando un interesse pubblico prevalente esiga che siano rispettate;
+- c. se si opponga un interesse pubblico notevole alla creazione o alla tutela di quartieri d’abitazione o di zone industriali, fatto valere dal Cantone;
+- d. se è necessario alla sicurezza del Paese o al mantenimento dell’indipendenza o della neutralità della Svizzera, oppure a evitare una dipendenza economica contraria all’interesse generale del Paese;
+- e. [^3-2] quando l’impresa richiedente non soddisfa le condizioni dell’articolo 4, oppure
+- f. se altre cause imperative di diritto pubblico l’esigono.
+
+<sup>2</sup> L’approvazione dei piani non può essere né rifiutata né concessa con condizioni restrittive o oneri per ragioni diverse da quelle di cui al capoverso 1.[^3-3]
+
+[^3-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^3-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^3-3]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### b. Impresa estera
+
+#### Art. 4
+
+[^4-1]
+
+Un’impresa estera deve avere un’amministrazione e una direzione dell’esercizio residenti in Svizzera, nonché un’organizzazione aziendale che garantisca il rispetto del diritto svizzero.
+
+[^4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 5 a 9
+
+[^59-1]
+
+[^59-1]: Abrogati dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+
+### 3. Diritto di espropriazione
+
+#### Art. 10
+
+[^10-1]
+
+All’impresa che domanda un’approvazione dei piani spetta il diritto di espropriazione.
+
+[^10-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 4. Diritto all’incrocio delle vie di comunicazione
+
+[^lvlI-lvl4-1]
+
+[^lvlI-lvl4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 11
+
+<sup>1</sup> L’impresa è legittimata, mediante un’equa indennità, a incrociare le vie di comunicazione, sempreché, durante e dopo l’esecuzione dell’incrocio, siano presi i provvedimenti di sicurezza per evitare ogni disturbo al traffico e non sia pregiudicata la pianificazione delle vie di comunicazione. Durante la costruzione dell’incrocio, il traffico può essere limitato solo nella misura in cui sia necessario alla realizzazione dei lavori.[^11-1]
+
+<sup>2</sup> Le controversie circa l’adempimento delle condizioni stabilite nel capoverso 1 e l’ammontare dell’indennità sono decise secondo la LEspr.
+
+[^11-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 12
+
+[^12-1]
+
+[^12-1]: Abrogato dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+
+### 5. Obbligo di trasporto
+
+[^lvlI-lvl5-1]
+
+[^lvlI-lvl5-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 13
+
+<sup>1</sup> L’impresa[^13-1] è tenuta ad assumere mediante contratto il trasporto per terzi nei limiti delle possibilità tecniche e delle esigenze economiche dell’esercizio e purché il terzo offra una rimunerazione adeguata.
+
+<sup>2</sup> In caso di divergenze, sull’obbligo di concludere un contratto e sulle condizioni contrattuali decide l’Ufficio federale dell’energia (Ufficio federale).[^13-2]
+
+<sup>3</sup> Sulle pretese di diritto civile derivanti dal contratto decidono i tribunali civili.[^13-3]
+
+[^13-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^13-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^13-3]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 14 e 15
+
+[^1415-1]
+
+[^1415-1]: Abrogati dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+
+## II. Vigilanza, costruzione ed esercizio
+
+### 1. Vigilanza
+
+### 1. Principio
+
+#### Art. 16
+
+<sup>1</sup> La costruzione, il mantenimento e l’esercizio degli impianti secondo l’articolo 1 capoverso 2 soggiacciono alla vigilanza della Confederazione.
+
+<sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (Dipartimento) può estendere questa vigilanza alla costruzione, alla manutenzione e all’esercizio di altri impianti di trasporto in condotta, in quanto appartengano alla Confederazione o a un istituto federale.[^16-1]
+
+[^16-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 2. Competenza
+
+#### Art. 17
+
+[^17-1]
+
+<sup>1</sup> L’autorità di vigilanza è l’Ufficio federale. Ai fini della vigilanza, può farsi assistere dai Cantoni e da associazioni private.
+
+<sup>2</sup> Il Dipartimento istituisce una commissione per le questioni concernenti la sicurezza degli impianti di trasporto in condotta.
+
+[^17-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 3. Contenuto
+
+#### Art. 18
+
+[^18-1]
+
+L’Ufficio federale ordina le misure necessarie per la protezione delle persone, dei beni e dei diritti importanti. A questo scopo, può ordinare che l’equipaggiamento dell’impianto sia conforme allo sviluppo tecnico.
+
+[^18-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 4. Controllo
+
+#### Art. 19
+
+<sup>1</sup> Le persone cui è affidato il controllo della costruzione e dell’esercizio hanno il diritto d’accedere in ogni tempo a tutte le parti dell’impianto e di ricevere tutte le informazioni desiderate.
+
+<sup>2</sup> Le persone e il materiale necessari al controllo devono essere forniti loro gratuitamente.
+
+### 5. Rapporto di gestione e indicazione statistiche
+
+#### Art. 20
+
+Le imprese di trasporto in condotta devono presentare ogni anno all’Ufficio federale[^20-1] il rapporto di gestione, con il conto annuale e il bilancio, e fornire alla stessa le indicazioni statistiche necessarie.
+
+[^20-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+
+### 2. Costruzione
+
+### 1. Procedura ordinaria di approvazione dei piani
+
+### a. Introduzione
+
+#### Art. 21
+
+[^21-1]
+
+La domanda di approvazione dei piani va presentata, con la documentazione necessaria, all’Ufficio federale. Questo esamina se la documentazione è completa e, se del caso, chiede di completarla.
+
+[^21-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### b. Picchettamento
+
+#### Art. 21a
+
+[^21a-1]
+
+<sup>1</sup> Prima del deposito pubblico della domanda, l’impresa deve mettere in evidenza sul terreno, mediante picchettamento, il tracciato degli impianti di trasporto in condotta.
+
+<sup>2</sup> Le obiezioni contro il picchettamento devono essere presentate subito, al più tardi però entro il termine di deposito dei piani, presso l’Ufficio federale.
+
+[^21a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### c. Consultazione, pubblicazione e deposito dei piani
+
+#### Art. 21b
+
+[^21b-1]
+
+<sup>1</sup> L’Ufficio federale trasmette la domanda ai Cantoni interessati invitandoli a esprimere il loro parere entro tre mesi. In casi motivati tale termine può eccezionalmente essere prorogato.
+
+<sup>2</sup> La domanda deve essere pubblicata negli organi ufficiali dei Cantoni e dei Comuni interessati e depositata pubblicamente durante 30 giorni.
+
+<sup>3</sup> ...[^21b-2]
+
+[^21b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^21b-2]: Abrogato dall’all. n. 15 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### d. ...
+
+#### Art. 22
+
+[^22-1]
+
+[^22-1]: Abrogato dall’all. n. 15 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### e. Opposizione
+
+#### Art. 22a
+
+[^22a-1]
+
+<sup>1</sup> Chi ha qualità di parte secondo le disposizioni della legge federale del 20 dicembre 1968[^22a-2] sulla procedura amministrativa può, durante il termine di deposito dei piani, fare opposizione presso l’Ufficio federale.[^22a-3] Se non fa opposizione, è escluso dal seguito della procedura.
+
+<sup>2</sup> Chi ha qualità di parte secondo le disposizioni della LEspr[^22a-4] può, durante il termine di deposito dei piani, far valere tutte le istanze di cui all’articolo 33 LEspr.[^22a-5]
+
+<sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
+
+[^22a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^22a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22a-3]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^22a-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^22a-5]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### f. Eliminazione delle divergenze nella Amministrazione federale
+
+#### Art. 22b
+
+[^22b-1]
+
+La procedura di eliminazione delle divergenze nell’Amministrazione federale è disciplinata dall’articolo 62*b* della legge del 21 marzo 1997[^22b-2] sull’organizzazione del Governo e dell’Amministrazione.
+
+[^22b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^22b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+### 2. Approvazione dei piani; durata di validità, ricorso
+
+#### Art. 23
+
+[^23-1]
+
+<sup>1</sup> Con l’approvazione dei piani l’Ufficio federale decide simultaneamente anche circa le opposizioni relative al diritto di espropriazione.
+
+<sup>2</sup> L’approvazione dei piani decade se entro un anno dal passaggio in giudicato della decisione non è stato dato inizio all’esecuzione del progetto di costruzione. Per gravi motivi, l’Ufficio federale può prorogare adeguatamente la durata di validità dell’approvazione.
+
+<sup>3</sup> ...[^23-2]
+
+[^23-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^23-2]: Abrogato dall’all. n. 78 alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); FF **2001** [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+
+### 3. Procedura semplificata
+
+#### Art. 24
+
+[^24-1]
+
+<sup>1</sup>
+
+La procedura semplificata di approvazione dei piani è applicata a:
+
+- a. progetti limitati localmente e che concernono pochi interessati chiaramente individuabili;
+- b. impianti di trasporto in condotta la cui modifica o trasformazione della destinazione non alterano in maniera sostanziale l’aspetto esterno, non ledono interessi degni di protezione di terzi e hanno soltanto ripercussioni insignificanti sulla pianificazione del territorio e sull’ambiente;
+- c. impianti di trasporto in condotta che sono rimossi entro tre anni al più tardi.
+
+<sup>2</sup> Ai piani particolareggiati che si basano su un progetto già approvato si applica la procedura semplificata.
+
+<sup>3</sup> L’Ufficio federale può ordinare il picchettamento. La domanda non è né pubblicata né depositata pubblicamente. L’Ufficio federale sottopone il progetto agli interessati, sempreché non abbiano dato precedentemente il loro consenso per scritto; questi possono fare opposizione entro 30 giorni. L’Ufficio federale può chiedere un parere a Cantoni e Comuni. Impartisce un termine adeguato a tal fine.
+
+<sup>4</sup> Per il rimanente si applicano le disposizioni sulla procedura ordinaria. In caso di dubbio è eseguita la procedura ordinaria.
+
+[^24-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 4. Inizio della costruzione
+
+[^lvlII-lvl2-lvl4-1]
+
+[^lvlII-lvl2-lvl4-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 25
+
+La costruzione non può essere incominciata prima dell’approvazione definitiva dei piani.
+
+### 5. Procedura di conciliazione e di stima; immissione in possesso anticipata
+
+[^lvlII-lvl2-lvl5-1]
+
+[^lvlII-lvl2-lvl5-1]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+#### Art. 26
+
+[^26-1]
+
+<sup>1</sup> Dopo la conclusione della procedura di approvazione dei piani è eseguita, se necessario, la procedura di conciliazione e di stima dinanzi alla Commissione federale di stima (Commissione di stima) secondo le disposizioni della LEspr[^26-2].[^26-3]
+
+<sup>2</sup> ...[^26-4]
+
+<sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva di approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
+
+[^26-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^26-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^26-3]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^26-4]: Abrogato dall’all. n. 15 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 6. Misure di protezione durante la costruzione
+
+[^lvlII-lvl2-lvl6-1]
+
+[^lvlII-lvl2-lvl6-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 27
+
+<sup>1</sup> L’impresa[^27-1] prende le misure necessarie alla sicurezza della costruzione, delle persone, dei beni e dei diritti importanti, e per evitare ai vicini le molestie che non si possa ragionevolmente pretendere abbiano a sopportare.
+
+<sup>2</sup> Ove i lavori di costruzione tocchino opere pubbliche, come vie di comunicazione, altre condotte e simili impianti, l’impresa deve vegliare affinché siano mantenute all’uso in conformità del pubblico interesse.
+
+<sup>3</sup> Durante la costruzione, dev’essere assicurata l’utilizzazione economica della proprietà fondiaria.
+
+[^27-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+
+### 7. Progetti di costruzione di terzi
+
+#### Art. 28
+
+[^28-1]
+
+La costruzione e la modifica di edifici e impianti di terzi può essere autorizzata unicamente previo consenso dell’Ufficio federale, se:
+
+- a. incrocia impianti di trasporto in condotta;
+- b. potrebbe compromettere la sicurezza d’esercizio dell’impianto di trasporto in condotta.
+
+[^28-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 8. Spese
+
+[^lvlII-lvl2-lvl8-1]
+
+[^lvlII-lvl2-lvl8-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+#### Art. 29
+
+<sup>1</sup> Se un nuovo impianto di trasporto in condotta pregiudica vie di comunicazione, condotte o altri impianti, o se nuove opere di questo genere pregiudicano un impianto di trasporto in condotta già esistente, le spese dei provvedimenti necessari ad eliminare il pregiudizio sono, salvo patto contrario, a carico della nuova opera.
+
+<sup>2</sup> Le contestazioni derivanti dall’applicazione di questa norma sono trattate secondo la procedura prevista dalla LEspr[^29-1].[^29-2]
+
+[^29-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^29-2]: Nuovo testo giusta l’all. n. 15 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+
+### 3. Esercizio
+
+### 1. Autorizzazione d’esercizio
+
+#### Art. 30
+
+[^30-1]
+
+<sup>1</sup> Per l’esercizio di impianti di trasporto in condotta occorre l’autorizzazione dell’Ufficio federale.
+
+<sup>2</sup>
+
+L’autorizzazione d’esercizio è rilasciata se:
+
+- a. l’impianto di trasporto in condotta è conforme alla presente legge, alle disposizioni d’esecuzione e all’approvazione dei piani;
+- b. l’impresa dispone del personale necessario per un esercizio sicuro dell’impianto e per la riparazione immediata dei danni;
+- c. è stata conclusa l’assicurazione di responsabilità civile prescritta.
+
+[^30-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 2. Efficacia operativa e sicurezza dell’esercizio
+
+#### Art. 31
+
+[^31-1]
+
+Gli impianti di trasporto in condotta vanno mantenuti in uno stato di efficacia operativa e di conformità alle esigenze di sicurezza.
+
+[^31-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 3. Guasti
+
+#### Art. 32
+
+<sup>1</sup> Quando l’impianto cessi d’essere stagno, l’impresa deve prendere immediatamente tutte le misure opportune per evitare o restringere il danno e rimuovere al più presto il danno o il pericolo di danni.
+
+<sup>2</sup> L’Ufficio federale e il posto d’allarme designato dal Governo cantonale ne devono essere avvisati senza indugio.
+
+### 4. Sospensione dell’esercizio
+
+#### Art. 32a
+
+[^32a-1]
+
+<sup>1</sup> Qualora le condizioni menzionate nell’articolo 30 capoverso 2 non siano più soddisfatte, l’esercizio dev’essere sospeso; la sospensione va notificata all’Ufficio federale.
+
+<sup>2</sup> L’Ufficio federale può ordinare la sospensione dell’esercizio, segnatamente in caso di grave o ripetuta inosservanza delle prescrizioni della presente legge, delle disposizioni di esecuzione, dell’approvazione dei piani o delle sue stesse istruzioni.
+
+<sup>3</sup> Prima di prendere la sua decisione, l’Ufficio federale consulta i Cantoni interessati e l’impresa.
+
+[^32a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 5. Smantellamento dell’impianto
+
+#### Art. 32b
+
+[^32b-1]
+
+Qualora un impianto cessi l’esercizio, l’impresa deve smantellarlo a sue spese e ristabilire lo stato anteriore, nella misura in cui lo esiga l’interesse pubblico.
+
+[^32b-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 6. Proprietà
+
+#### Art. 32c
+
+[^32c-1]
+
+Salvo disposizione contraria, l’impianto di trasporto in condotta è di proprietà dell’impresa cui è stata concessa l’autorizzazione d’esercizio.
+
+[^32c-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+## III. Responsabilità civile e assicurazione
+
+### 1. Responsabilità civile
+
+### a. Principio
+
+#### Art. 33
+
+<sup>1</sup> Se per l’esercizio di un impianto di trasporto in condotta, ovvero per un difetto o una manipolazione difettosa d’un simile impianto non in esercizio, una persona rimane uccisa o lesa nella salute, oppure è recato un danno materiale, l’impresa ne è responsabile. Se l’impianto non gli appartiene, il proprietario risponde con lui solidalmente.
+
+<sup>2</sup> L’impresa o il proprietario è liberato dalla responsabilità qualora provi che il danno è stato cagionato da evento naturale straordinario, da avvenimento bellico o da colpa grave del danneggiato, sempreché non vi sia colpa da parte sua o di persona per la quale debba rispondere.
+
+<sup>3</sup> La responsabilità per danni alla merce trasportata si determina secondo le norme del Codice delle obbligazioni[^33-1].
+
+[^33-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### b. Risarcimento, riparazione, ecc.
+
+#### Art. 34
+
+Il modo e la misura del risarcimento, il pagamento di una indennità a titolo di riparazione, la responsabilità di più persone e il regresso tra obbligati si determinano secondo le disposizioni del Codice delle obbligazioni[^34-1] concernenti gli atti illeciti.
+
+[^34-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### 2. Assicurazione sulla responsabilità civile
+
+### a. Principio
+
+#### Art. 35
+
+<sup>1</sup> L’impresa è tenuta a stipulare con un’impresa d’assicurazione, ammessa a operare in Svizzera, un’assicurazione per coprire i rischi assicurabili della sua responsabilità civile secondo gli articoli 33 e 34.
+
+<sup>2</sup>
+
+L’assicurazione deve coprire, per ogni sinistro, i diritti dei danneggiati fino a una somma di almeno:
+
+- a. 10 milioni di franchi, se si tratta d’impianto di trasporto in condotta di combustibili o di carburanti liquidi;
+- b. 5 milioni di franchi, se si tratta d’impianto di trasporto in condotta di combustibili o carburanti gassosi.
+
+<sup>3</sup> Queste somme possono essere ristrette o aumentate nell’approvazione dei piani[^35-1], secondo che l’interesse pubblico lo permetta, rispettivamente lo esiga.
+
+<sup>4</sup> L’Ufficio federale può esentare interamente o in parte dall’obbligo di stipulare un’assicurazione, qualora sia prestata in altro modo una garanzia equivalente.
+
+<sup>5</sup> La Confederazione e i Cantoni non sono tenuti ad assicurarsi per gli impianti che esercitano.
+
+[^35-1]: Nuova denominazione giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029). Di detta modifica è stato tenuto conto in tutto il presente testo.
+
+### b. Sospensione e cessazione dell’assicurazione
+
+#### Art. 36
+
+La sospensione e la cessazione dell’assicurazione devono essere notificate dall’assicuratore all’Ufficio federale. Esse hanno effetto 30 giorni dopo che questa ne abbia avuto notizia, sempreché nel frattempo non sia stata stipulata una nuova assicurazione.
+
+### c. Azione contro l’assicuratore; eccezioni; regresso
+
+#### Art. 37
+
+<sup>1</sup> Il danneggiato ha un’azione diretta contro l’assicuratore, nei limiti della copertura assicurata.
+
+<sup>2</sup> Le eccezioni derivanti dal contratto d’assicurazione o dalla legge federale del 2 aprile 1908[^37-1] sul contratto d’assicurazione non sono opponibili al danneggiato.
+
+<sup>3</sup> L’assicuratore ha il regresso contro lo stipulante, nella misura in cui avrebbe diritto di negare o ridurre la sua prestazione secondo il contratto d’assicurazione o la legge federale del 2 aprile 1908 sul contratto d’assicu-razione.
+
+[^37-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+### d. Pluralità di danneggiati
+
+#### Art. 38
+
+<sup>1</sup> Se le pretese dei danneggiati superano la copertura assicurata, il diritto dei singoli verso l’assicuratore è ridotto proporzionatamente al rapporto fra detta copertura e il totale delle pretese.
+
+<sup>2</sup> Il danneggiato che propone per primo l’azione e l’assicuratore convenuto possono chiedere al giudice adito di invitare gli altri danneggiati a promuovere presso di lui la loro azione entro un determinato termine, indicando loro le conseguenze di un’omissione. Il giudice decide sulla ripartizione dell’indennità d’assicurazione. Nella ripartizione, le pretese avanzate nel termine stabilito devono essere soddisfatte per prime, senza riguardo alle rimanenti.
+
+<sup>3</sup> L’assicuratore che, ignaro delle altre pretese, ha pagato in buona fede a un danneggiato una somma superiore a quella che proporzionatamente gli spettava, è liberato dai suoi obblighi verso gli altri danneggiati fino a concorrenza della somma pagata.
+
+### 3. Disposizioni comuni
+
+### a. Prescrizione
+
+#### Art. 39
+
+[^39-1]
+
+<sup>1</sup> L’azione di risarcimento o di riparazione per danni cagionati da un impianto di trasporto in condotta si prescrive secondo le disposizioni del Codice delle obbligazioni[^39-2] concernenti gli atti illeciti.
+
+<sup>2</sup> Il regresso tra le persone civilmente responsabili d’un evento dannoso e il regresso dell’assicuratore si prescrivono in tre anni dal giorno in cui la prestazione è stata interamente fornita e il responsabile è noto.
+
+[^39-1]: Nuovo testo giusta l’all. n. 13 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^39-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### b. ...
+
+#### Art. 40
+
+[^40-1]
+
+[^40-1]: Abrogato dell’all. n. 21 alla L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2017 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+
+## IV. Impianti sottoposti alla vigilanza dei Cantoni
+
+### 1. Principio
+
+#### Art. 41
+
+[^41-1]
+
+Gli impianti non considerati nell’articolo 1 capoverso 2 e non esentati dalla presente legge in virtù dell’articolo 1 capoverso 4 sono sottoposti, oltre che alle disposizioni del presente capo, soltanto a quelle sull’obbligo di trasporto (art. 13), sulla responsabilità civile e sull’assicurazione (capo III), sulle pene e sulle misure amministrative (capo V) e alle prescrizioni di sicurezza da emanarsi dal Consiglio federale.
+
+[^41-1]: Nuovo testo giusta l’all. n. II 11 alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+
+### 2. Obbligo d’una licenza
+
+#### Art. 42
+
+<sup>1</sup> La costruzione e l’esercizio di impianti secondo l’articolo 41, in quanto non soggiacciano alla vigilanza della Confederazione in virtù dell’articolo 16 capoverso 2, sono sottoposti all’obbligo di una licenza del Governo cantonale o d’un ufficio da esso designato.
+
+<sup>2</sup> La licenza non può essere negata né sottoposta a condizioni o a oneri restrittivi, se non nei casi previsti nell’articolo 3 capoverso 1 lettere a a d. Sono riservati le condizioni e gli oneri che servono all’applicazione di altre norme legali.
+
+### 3. Vigilanza e alta vigilanza
+
+#### Art. 43
+
+Gli impianti con licenza cantonale secondo l’articolo 42 soggiacciono alla vigilanza del Cantone e all’alta vigilanza della Confederazione.
+
+## V. Pene e misure amministrative****
+
+[^lvlV-1]
+
+[^lvlV-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+
+### 1. Danneggiamento di impianti di trasporti in condotta e perturbamento dell’esercizio
+
+#### Art. 44
+
+<sup>1</sup> Chiunque intenzionalmente guasta un impianto di trasporto in condotta e con ciò, in particolare cagionando un inquinamento o altro dannoso perturbamento delle acque aperte o del sottosuolo, mette scientemente in pericolo la vita o la salute delle persone o cosa altrui di notevole valore, è punito con la reclusione o la detenzione.
+
+<sup>2</sup> Chiunque intenzionalmente impedisce, perturba o pone in pericolo l’esercizio di un impianto di trasporto in condotta d’interesse pubblico è punito con la detenzione, sempreché non sia applicabile il capoverso 1.
+
+<sup>3</sup> La pena è della detenzione o della multa se il colpevole ha agito per negligenza.
+
+### 2. Infrazioni della legge
+
+#### Art. 45
+
+<sup>1.</sup> Chiunque dà informazioni inesatte o incomplete per ottenere un’approvazione dei piani, chiunque, senz’esserne autorizzato, incomincia o prosegue la costruzione d’un impianto di trasporto in condotta oppure un’opera di cui all’articolo 28, chiunque, senz’esserne autorizzato, imprende o prosegue l’esercizio d’un impianto di trasporto in condotta, chiunque non osserva le condizioni o gli oneri attenenti a un’approvazione dei piani, oppure l’obbligo di stipulare un’assicurazione o di fornire garanzie, chiunque, cessando d’essere stagno un impianto di trasporto in condotta, non provvede immediatamente ai rimedi e agli avvisi previsti nell’articolo 32, è punito, ove abbia agito con intenzione, né il fatto costituisca un reato più grave, con l’arresto o con la multa fino a 20 000 franchi. Il tentativo e la complicità sono punibili.
+
+Se le condizioni o gli oneri inosservati sono stati posti per tutelare la sicurezza del Paese, l’indipendenza o la neutralità della Svizzera o per evitare una dipendenza economica incompatibile con l’interesse generale del Paese, può essere pronunciata la detenzione.
+
+<sup>2.</sup> La pena è della multa fino a 10 000 franchi, se il colpevole ha agito per negligenza.
+
+<sup>3.</sup> Il Consiglio federale può comminare le stesse pene per le infrazioni delle disposizioni d’applicazione.
+
+<sup>4.</sup> ...[^45-1]
+
+[^45-1]: Abrogato dall’all. n. 14 al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+
+### 2a Altre disposizioni penali
+
+#### Art. 45a
+
+[^45a-1]
+
+Le disposizioni speciali della legge federale del 22 marzo 1974[^45a-2] sul diritto penale amministrativo (art. 14 a 18) sono applicabili.
+
+[^45a-1]: Introdotto dall’all. n. 14 al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### 3. Disposizioni generali
+
+#### Art. 46
+
+[^46-1]
+
+<sup>1</sup> Le disposizioni generali del Codice penale svizzero[^46-2] si applicano alle infrazioni di cui all’articolo 44.
+
+<sup>2</sup> Le disposizioni generali della legge federale del 22 marzo 1974[^46-3] sul diritto penale amministrativo (art. 2 a 13) si applicano alle infrazioni di cui agli articoli 45 e 45<sup>a</sup>.
+
+[^46-1]: Nuovo testo giusta l’all. n. 14 al DPA, in vigore dal 1° gen. 1975 ([RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^46-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### 3a Procedura e competenza
+
+#### Art. 46a
+
+[^46a-1]
+
+<sup>1</sup> Le infrazioni previste nell’articolo 44 soggiacciono alla giurisdizione penale federale.
+
+<sup>2</sup> Le infrazioni di cui agli articoli 45 e 45<sup>a</sup> sono perseguite e giudicate dall’Ufficio federale, secondo le norme procedurali della legge federale del 22 marzo 1974[^46a-2]. sul diritto penale amministrativo
+
+[^46a-1]: Introdotto dall’all. n. 14 al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^46a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### 4. Misure amministrative
+
+#### Art. 47
+
+<sup>1</sup> Qualora, nonostante un avvertimento, non sia osservata, nel termine stabilito, una decisione dell’Ufficio federale, questa può eseguirla o farla eseguire a spese dell’inadempiente, senza pregiudizio dell’azione penale.
+
+<sup>2</sup> ...[^47-1]
+
+[^47-1]: Abrogato dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+
+### 5. Trattamento di dati personali
+
+#### Art. 47a
+
+[^47a-1]
+
+<sup>1</sup> Le autorità incaricate dell’esecuzione trattano i dati personali necessari all’applicazione della presente legge, compresi i dati relativi ai procedimenti amministrativi e penali e alle sanzioni secondo gli articoli 44 e seguenti.
+
+<sup>2</sup> Possono conservare tali dati in forma elettronica e, se necessario per l’esecuzione unitaria della presente legge, scambiarseli.
+
+[^47a-1]: Introdotto dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+## VI. Disposizioni transitorie e finali
+
+### 1. Diritto transitorio
+
+### a. Principio
+
+#### Art. 48
+
+<sup>1</sup> La presente legge è applicabile, a contare dall’entrata in vigore, anche agli impianti di trasporto in condotta in costruzione o in esercizio, riservati gli articoli 49 e 50.
+
+<sup>2</sup> Qualora una misura presa in virtù dell’articolo 49 o 50 equivalga a un’espropriazione, è dovuta un’indennità. Circa la pretesa d’indennità decide il Tribunale federale.
+
+### b. Impianti con licenza o concessione cantonale
+
+#### Art. 49
+
+<sup>1</sup> I diritti acquisiti in virtù d’una licenza o d’una concessione cantonale sono riconosciuti conformemente al capoverso 2.
+
+<sup>2</sup> Il titolare d’una licenza o d’una concessione cantonale è esente, durante la validità della stessa ma non oltre 50 anni dal momento dell’entrata in vigore della presente legge, dall’obbligo di chiedere una concessione federale. Nel termine di 2 anni da quel momento, egli deve conformarsi alle prescrizioni dell’articolo 4. I diritti e gli obblighi del titolare d’una licenza o d’una concessione di costruire e di esercitare un impianto di trasporto in condotta, conferita dal Cantone prima dell’entrata in vigore della presente legge, non possono essere modificati a suo svantaggio in virtù della stessa, se non per cause imperative d’interesse pubblico.
+
+<sup>3</sup> Nel termine di 3 mesi dall’entrata in vigore della presente legge, i Cantoni trasmettono al Dipartimento tutti i documenti circa gli impianti considerati nell’articolo 1 capoverso 2 da essi autorizzati o conceduti.
+
+### c*.* Impianti senza licenza o concessione cantonale
+
+#### Art. 50
+
+<sup>1</sup> L’impresa per il quale non sia stata accordata una licenza o una concessione cantonale, deve, entro tre mesi dall’entrata in vigore della presente legge, presentare, all’ufficio competente per l’impianto del quale si tratta, una domanda di licenza o di concessione, corredata di tutte le indicazioni necessarie.
+
+<sup>2</sup> Fino alla decisione sulla domanda, l’impresa può proseguire la costruzione o l’esercizio, salvo disposizione contraria dell’autorità competente ad accordare la licenza o la concessione.
+
+<sup>3</sup> La licenza o la concessione dev’essere accordata, sempreché non ostino cause imperative d’interesse pubblico.
+
+### 2. Disposizioni transitorie relative alla modifica del 18 giugno 1999
+
+#### Art. 51
+
+[^51-1]
+
+<sup>1</sup> Le concessioni esistenti al momento dell’entrata in vigore della presente modifica non sono rinnovate alla loro scadenza. Gli impianti possono essere tenuti in esercizio.
+
+<sup>2</sup> Le domande di concessione pendenti divengono prive d’oggetto.
+
+<sup>3</sup> Le domande di approvazione dei piani pendenti al momento dell’entrata in vigore della presente legge sono giudicate secondo il nuovo diritto.
+
+<sup>4</sup> Ai ricorsi pendenti si applica il diritto procedurale previgente.
+
+<sup>5</sup> Se, per ragioni di cui il concessionario non è tenuto a rispondere, deve essere sospeso o limitato l’esercizio di un impianto di trasporto in condotta per cui una concessione è stata accordata prima dell’entrata in vigore della presente legge, la Confederazione versa al concessionario un’adeguata indennità per il danno che ne risulta.
+
+[^51-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+
+### 3. Esecuzione
+
+#### Art. 52
+
+<sup>1</sup> Il Consiglio federale stabilisce il giorno dell’entrata in vigore della presente legge.
+
+<sup>2</sup>
+
+Esso emana le necessarie prescrizioni d’applicazione, che indicano segnatamente:[^52-1]
+
+- 1\. gli uffici federali incaricati dell’esecuzione, i loro compiti e la loro collaborazione con gli altri uffici interessati;
+- 2\. i requisiti che gli impianti devono avere a tutela delle persone, delle cose e dei diritti importanti;
+- 3\.[^52-2] la procedura di approvazione dei piani;
+- 4\.[^52-3] le tasse per l’attività dell’Ufficio federale.
+
+<sup>3</sup> I Cantoni regolano, in quanto occorra, le competenze per i compiti loro assegnati e la procedura applicabile.
+
+Data dell’entrata in vigore: 1° marzo 1964[^52-4].
+
+[^52-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^52-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^52-3]: <sup>75</sup> Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
+[^52-4]: DCF del 25 feb. 1964.

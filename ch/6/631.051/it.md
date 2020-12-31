@@ -1,0 +1,246 @@
+---
+sr: "631.051"
+title: Ordinanza del 18 ottobre 2006 sulla Cassa di previdenza del personale delle dogane
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/256"
+language: it
+version: 2018-01-01
+adopted: 2006-10-18
+in_force: 2007-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/256/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2007-256-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/256/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla Cassa di previdenza del personale delle dogane
+
+del 18 ottobre 2006 (Stato 1° gennaio 2018)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 93 capoverso 2 della legge del 18 marzo 2005[^ingress-1] sulle dogane,
+
+ordina:
+
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Forma giuridica e scopo**
+
+<sup>1</sup> La Cassa di previdenza del personale delle dogane (Cassa di previdenza) è un fondo speciale della Confederazione. Il suo patrimonio, a destinazione vincolata, è di proprietà della Confederazione Svizzera.
+
+<sup>2</sup> Lo scopo della Cassa di previdenza è di migliorare la situazione sociale degli impiegati dell’Amministrazione federale delle dogane (AFD) e delle loro famiglie, in particolare di alleviare le difficoltà finanziarie in cui sono incorsi senza grave colpa.[^1-1]
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 2
+
+**Prestazioni finanziarie**
+
+La Cassa di previdenza fornisce prestazioni finanziare sotto forma di:
+
+- a. prestiti, esclusi i mutui ipotecari;
+- b. contributi alle spese d’istruzione dei figli di destinatari di prestazioni;
+- c. contributi alle spese di malattia dei destinatari di prestazioni e dei loro familiari;
+- d. contributi per altri scopi che la commissione (art. 7 lett. a) reputa degni di essere sostenuti.
+
+#### Art. 3
+
+**Abitazioni di vacanza**[^3-1]
+
+La Cassa di previdenza può mettere a disposizione abitazioni di vacanza a condizioni favorevoli. L’esercizio delle abitazioni di vacanza deve coprire le spese.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 4
+
+**Condizioni**
+
+<sup>1</sup>
+
+Su domanda, possono beneficiare di prestazioni della Cassa di previdenza:
+
+- a.[^4-1] le persone impiegate a tempo indeterminato presso l’AFD con un grado d’occupazione di almeno il 50 per cento;
+- b. in via eccezionale anche le persone impiegate a tempo determinato o con un grado d’occupazione inferiore al 50 per cento;
+- c. i pensionati, le vedove, i vedovi e gli orfani, sempre che le circostanze lo giustifichino.
+
+<sup>1bis</sup> Oltre alle persone di cui al capoverso 1, su richiesta possono beneficiare delle prestazioni di cui all’articolo 3 anche i collaboratori di autorità e organizzazioni che adempiono compiti di diritto pubblico e che garantiscono la reciprocità per le prestazioni di cui all’articolo 3.[^4-2]
+
+<sup>2</sup>
+
+Le prestazioni finanziarie sono versate soltanto alle persone che:
+
+- a. non possono usufruire del tutto o in maniera sufficiente di altre prestazioni legali o contrattuali; e
+- b. sono disposte a collaborare e acconsentono ad una consulenza preliminare.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 (RU **2017**7531).
+[^4-2]: Introdotto dal n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 5
+
+**Principi della fornitura di prestazioni**
+
+<sup>1</sup> La Cassa di previdenza fornisce le proprie prestazioni in funzione di criteri sociali, e provvede a un impiego efficace ed economico.
+
+<sup>2</sup> ...[^5-1]
+
+[^5-1]: Abrogato n. I dell’O del 1° dic. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 6
+
+**Provenienza dei fondi e tenuta dei conti**
+
+<sup>1</sup>
+
+La Cassa di previdenza finanzia:
+
+- a. le proprie prestazioni finanziarie con i fondi generali della Confederazione, le donazioni e i lasciti nonché con il patrimonio di cui all’articolo 14 capoverso 1 lettera a;
+- b. le proprie abitazioni di vacanza con i redditi locativi, le donazioni e i lasciti nonché il patrimonio conformemente all’articolo 14 capoverso 1 lettera b.
+
+<sup>2</sup> Tiene conti separati per le prestazioni finanziarie e per le abitazioni di vacanza. I conti comprendono il conto economico, il bilancio e l’inventario.
+
+## Sezione 2: Organi e procedure
+
+#### Art. 7
+
+**Organi**
+
+Gli organi della Cassa di previdenza sono:
+
+- a. la Commissione;
+- b. il Segretariato.
+
+#### Art. 8
+
+**Commissione**
+
+<sup>1</sup>
+
+La commissione si compone:
+
+- a. del presidente;
+- b. di quattro membri;
+- c. di quattro membri supplenti.
+
+<sup>2</sup> Il direttore generale delle dogane nomina il presidente, due membri e due membri supplenti, e designa uno dei membri come vicepresidente.[^8-1]
+
+<sup>3</sup> I partner sociali designano due membri e due membri supplenti.[^8-2]
+
+<sup>4</sup> I membri e i membri supplenti sono nominati per un periodo amministrativo di quattro anni. La durata della carica è limitata a dodici anni.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 9
+
+**Compiti della Commissione**
+
+<sup>1</sup>
+
+La Commissione:
+
+- a. sbriga tutti gli affari che non ha delegato al Segretariato;
+- b. decide in merito all’impiego dei fondi, per quanto non abbia delegato al segretariato tale competenza;
+- c. adotta un regolamento e altre disposizioni d’esecuzione;
+- d. elabora il preventivo, il rapporto di gestione e il conto annuale;
+- e.[^9-1] richiede annualmente al direttore generale delle dogane i fondi necessari per le prestazioni finanziarie di cui all’articolo 6 capoverso 1 lettera a.
+
+<sup>2</sup> Dimostra, nel rapporto di gestione, la portata e il valore delle prestazioni fornite dalla Cassa di previdenza nell’anno in rassegna.[^9-2]
+
+<sup>3</sup> I richiedenti possono esigere che la loro domanda venga sottoposta alla Commissione per decisione, qualora essa non sia stata accolta dal Segretariato o lo sia stata solo parzialmente.
+
+<sup>4</sup> Il regolamento, il rapporto di gestione e il conto annuale sottostanno all’approvazione del Dipartimento federale delle finanze (DFF). Il preventivo sottostà all’approvazione del direttore generale delle dogane.[^9-3]
+
+[^9-1]: Introdotta dal n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^9-3]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 10
+
+**Compiti del Segretariato**
+
+Il Segretariato gestisce gli affari della Cassa di previdenza su incarico della Commissione e conformemente al regolamento.
+
+#### Art. 11
+
+**Spese amministrative e di personale**[^11-1]
+
+<sup>1</sup> L’AFD mette gratuitamente a disposizione il personale necessario per l’adempimento dei compiti cui agli articoli 2 e 13 e si assume le spese amministrative che ne derivano.
+
+<sup>2</sup> Tutte le spese per l’adempimento dei compiti di cui all’articolo 3 sono coperte esclusivamente con le entrate provenienti dalla locazione dalle abitazioni di vacanza.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 12
+
+**Gestione del patrimonio**
+
+<sup>1</sup> Il patrimonio in contanti della Cassa di previdenza è gestito separatamente dall’Amministrazione federale delle finanze (art. 52 cpv. 2 della LF del 7 ott. 2005[^12-1] sulle finanze della Confederazione).
+
+<sup>2</sup> La rimunerazione del patrimonio in contanti della Cassa di previdenza è retta dall’articolo 70 capoverso 2 dell’ordinanza del 5 aprile 2006[^12-2] sulle finanze della Confederazione.
+
+<sup>3</sup> Se vende immobili o abitazioni dati in locazione alla Cassa di previdenza, la Confederazione accredita a quest’ultima un’adeguata parte delle spese che questa ha assunto al posto della Confederazione per i grandi lavori di manutenzione e d’ampliamento.
+
+[^12-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^12-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+
+#### Art. 13
+
+**Ufficio di revisione**
+
+<sup>1</sup> L’ufficio di revisione è la sezione «Revisione interna» dell’AFD.[^13-1]
+
+<sup>2</sup>
+
+L’ufficio di revisione:
+
+- a. verifica se la contabilità e il conto annuale sono conformi alle prescrizioni legali, al regolamento della Cassa di previdenza e alle altre disposizioni d’esecuzione;
+- b. può consultare tutta la documentazione necessaria e richiedere informazioni verbali e scritte agli organi della Cassa di previdenza;
+- c.[^13-2] riferisce alla Commissione, al direttore generale delle dogane e al DFF in merito ai risultati della verifica.
+
+<sup>3</sup> È fatta salva la vigilanza finanziaria da parte del Controllo federale delle finanze.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+## Sezione 3: Disposizioni finali
+
+#### Art. 14
+
+**Trasferimento del patrimonio in contanti**
+
+<sup>1</sup>
+
+All’entrata in vigore della presente ordinanza il patrimonio in contanti della Cassa di previdenza è ripartito in un patrimonio per:
+
+- a. le prestazioni di cui all’articolo 6 capoverso 1 lettera a;
+- b. le prestazioni di cui all’articolo 6 capoverso 1 lettera b.
+
+<sup>2</sup> Il bilancio di apertura è presentato al DFF per approvazione.[^14-1]
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 15
+
+**Abrogazione del diritto vigente**
+
+L’ordinanza del 1° luglio 1992[^15-1] sulla Cassa di previdenza del personale delle dogane è abrogata.
+
+[^15-1]: [[RU 1992 1330](https://fedlex.data.admin.ch/eli/oc/1992/1330_1330_1330)]
+
+#### Art. 15a
+
+**Disposizione transitoria della modifica del 1° dicembre 2017**[^15a-1]
+
+I membri della Commissione che sono stati nominati o designati prima dell’entrata in vigore della modifica del 1° dicembre 2017 rimangono in funzione sino alla fine della durata del mandato.
+
+[^15a-1]: Introdotto dal n. I dell’O del 1° dic. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7531](https://fedlex.data.admin.ch/eli/oc/2017/816)).
+
+#### Art. 16
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° maggio 2007.

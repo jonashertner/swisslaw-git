@@ -1,0 +1,502 @@
+---
+sr: "941.210.4"
+title: Verordnung des EJPD vom 30. Januar 2015 über Atemalkoholmessmittel (AAMV)
+short: AAMV
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/88"
+language: de
+version: 2016-10-01
+adopted: 2015-01-30
+in_force: 2015-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/88/20161001/de/xml/fedlex-data-admin-ch-eli-cc-2015-88-20161001-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/88/20161001/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EJPD über Atemalkoholmessmittel
+
+(AAMV)
+
+vom 30. Januar 2015 (Stand am 1. Oktober 2016)
+
+Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
+
+gestützt auf die Artikel 5 Absatz 2, 8 Absatz 2, 16 Absatz 2, 24 Absatz 3 und 33 der Messmittelverordnung vom 15. Februar 2006[^ingress-1] (MessMV),
+
+verordnet:
+
+[^ingress-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Verordnung regelt:
+
+- a. die Anforderungen an Atemalkoholmessmittel;
+- b. die Verfahren für das Inverkehrbringen dieser Messmittel;
+- c. die Verfahren zur Erhaltung der Messbeständigkeit dieser Messmittel.
+
+#### Art. 2
+
+**Geltungsbereich**
+
+Dieser Verordnung unterstehen:
+
+- a.
+
+  Atemalkoholtestgeräte, die eingesetzt werden für die Feststellung:
+
+  - 1\. der Missachtung des Alkoholverbots nach Artikel 63 Absatz 1 der Verordnung vom 11. Februar 2004[^2-1] über den militärischen Strassenverkehr (VMSV) und des Verbots, unter Alkoholeinfluss zu fahren, nach Artikel 63 Absatz 2 VMSV,
+  - 2\.[^2-2] der Angetrunkenheit nach Artikel 1 der Verordnung der Bundesversammlung vom 15. Juni 2012[^2-3] über Alkoholgrenzwerte im Strassenverkehr,
+  - 3\.[^2-4] der Missachtung des Verbots, unter Alkoholeinfluss zu fahren, nach Artikel 2*a* der Verkehrsregelnverordnung vom 13. November 1962[^2-5] (VRV),
+  - 4\. der Dienstunfähigkeit wegen Alkohol nach Artikel 14 der Verordnung vom 4. November 2009[^2-6] über die sicherheitsrelevanten Tätigkeiten im Eisenbahnbereich,
+  - 5\.[^2-7] der Dienstunfähigkeit wegen Alkohol nach Artikel 47*d* der Seilbahnverordnung vom 21. Dezember 2006[^2-8],
+  - 6\. der Fahrunfähigkeit wegen Alkoholeinflusses nach Artikel 24*a* des Bundesgesetzes vom 3. Oktober 1975[^2-9] über die Binnenschifffahrt,
+  - 7\. der Überschreitung der erlaubten Blut- oder Atemalkoholkonzentration nach Artikel 6.01 Absatz 3 der Bodensee-Schifffahrts-Ordnung vom 17. März 1976[^2-10],
+  - 8\. der Angetrunkenheit nach Artikel 90<sup>bis</sup> des Luftfahrtgesetzes vom 21. Dezember 1948[^2-11];
+
+- b.[^2-12]
+
+  Atemalkoholmessgeräte, die eingesetzt werden für die Feststellung:
+
+  - 1\. der Missachtung des Alkoholverbots nach Artikel 63 Absatz 1 VMSV und des Verbots, unter Alkoholeinfluss zu fahren, nach Artikel 63 Absatz 2 VMSV,
+  - 2\. der Angetrunkenheit nach Artikel 1 und der qualifizierten Alkoholkonzentrationen nach Artikel 2 der Verordnung der Bundesversammlung über Alkoholgrenzwerte im Strassenverkehr,
+  - 3\. der Missachtung des Verbots, unter Alkoholeinfluss zu fahren, nach Artikel 2*a* VRV;
+
+- c. Alkohol-Wegfahrsperren, die eingesetzt werden sollen, um festzustellen, ob eine Person, die nach der Änderung vom 15. Juni 2012 des Strassenverkehrsgesetzes vom 19. Dezember 1958 nur ein Fahrzeug führen darf, das mit einer Alkohol-Wegfahrsperre ausgerüstet ist, unter Alkoholeinfluss steht.
+
+[^2-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+[^2-2]: Fassung gemäss Ziff. I der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+[^2-3]: [SR 741.13](https://fedlex.data.admin.ch/eli/cc/2015/493)
+[^2-4]: Fassung gemäss Ziff. I der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+[^2-5]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^2-6]: [SR 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^2-7]: Fassung gemäss Ziff. I der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+[^2-8]: [SR 743.011](https://fedlex.data.admin.ch/eli/cc/2007/14)
+[^2-9]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^2-10]: [SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338)
+[^2-11]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^2-12]: Fassung gemäss Ziff. I der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+
+#### Art. 3
+
+**Begriffe**
+
+In dieser Verordnung bedeuten:
+
+- a. *Alkohol:* Ethanol;
+- b. *Atemalkoholmessmittel*: Atemalkoholtestgerät, Atemalkoholmessgerät oder Alkohol-Wegfahrsperre;
+- c.[^3-1] *Atemalkoholtestgerät:* Messmittel, das die Massenkonzentration von Alkohol in menschlichem Atem bestimmt;
+- d. *Atemalkoholmessgerät:* Messmittel, das die Massenkonzentration von Alkohol in menschlichem Atem unter kontrollierten Probenahmebedingungen in redundanter Art bestimmt und anzeigt;
+- e. *Alkohol-Wegfahrsperre:* Messmittel, das die Massenkonzentration von Alkohol in menschlichem Atem bestimmt und bei Überschreiten der vorgegebenen Massenkonzentration das Starten des damit ausgerüsteten Fahrzeuges verhindert;
+- f. *Atemalkoholkonzentration:* Masse Alkohol pro ausgeatmetes Atem-Volumen, angegeben in mg/l.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+
+## 2. Abschnitt: Atemalkoholtestgeräte
+
+#### Art. 4
+
+**Grundlegende Anforderungen**
+
+Atemalkoholtestgeräte müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 1 der vorliegenden Verordnung erfüllen.
+
+#### Art. 5
+
+**Verfahren für das Inverkehrbringen**
+
+Atemalkoholtestgeräte bedürfen einer ordentlichen Zulassung durch das Eidgenössische Institut für Metrologie (METAS) und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 2 Ziffer 1 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle.
+
+#### Art. 6
+
+**Verfahren zur Erhaltung der Messbeständigkeit**
+
+Atemalkoholtestgeräte müssen folgenden Verfahren zur Erhaltung der Messbeständigkeit unterzogen werden:
+
+- a. Nacheichung nach Anhang 7 Ziffer 1 MessMV und nach Anhang 2 Ziffer 1 der vorliegenden Verordnung jährlich durch das METAS oder eine ermächtigte Eichstelle;
+- b. Instandhaltung nach Anhang 7 Ziffer 7 MessMV und nach Anhang 2 Ziffer 2 der vorliegenden Verordnung mindestens jährlich durch eine Fachperson; und
+- c. Justierung nach Anhang 7 Ziffer 8 MessMV und nach Anhang 2 Ziffer 3 der vorliegenden Verordnung mindestens halbjährlich durch eine Fachperson.
+
+#### Art. 7
+
+**Fehlergrenzen bei Kontrollen**
+
+Bei Beanstandungen im Sinne von Artikel 29 Absatz 1 MessMV oder bei der nachträglichen Kontrolle gelten die in Anhang 1 Ziffer 4 festgelegten Fehlergrenzen.
+
+## 3. Abschnitt: Atemalkoholmessgeräte
+
+#### Art. 8
+
+**Grundlegende Anforderungen**
+
+Atemalkoholmessgeräte müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 3 der vorliegenden Verordnung erfüllen.
+
+#### Art. 9
+
+**Verfahren für das Inverkehrbringen**
+
+Atemalkoholmessgeräte bedürfen einer ordentlichen Zulassung durch das METAS und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 4 Ziffer 1 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle.
+
+#### Art. 10
+
+**Verfahren zur Erhaltung der Messbeständigkeit**
+
+Atemalkoholmessgeräte müssen folgenden Verfahren zur Erhaltung der Messbeständigkeit unterzogen werden:
+
+- a. Nacheichung nach Anhang 7 Ziffer 1 MessMV und nach Anhang 4 Ziffer 1 der vorliegenden Verordnung jährlich durch das METAS oder eine ermächtigte Eichstelle;
+- b. Instandhaltung nach Anhang 7 Ziffer 7 MessMV und nach Anhang 4 Ziffer 2 der vorliegenden Verordnung mindestens jährlich durch eine Fachperson; und
+- c. Justierung nach Anhang 7 Ziffer 8 MessMV und nach Anhang 4 Ziffer 3 der vorliegenden Verordnung mindestens jährlich durch eine Fachperson.
+
+#### Art. 11
+
+**Fehlergrenzen bei Kontrollen**
+
+Bei Beanstandungen im Sinne von Artikel 29 Absatz 1 MessMV oder bei der nachträglichen Kontrolle gelten die in Anhang 3 Ziffer 4 festgelegten Fehlergrenzen.
+
+## 4. Abschnitt: Alkohol-Wegfahrsperren
+
+#### Art. 12
+
+**Grundlegende Anforderungen**
+
+Alkohol-Wegfahrsperren müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 5 der vorliegenden Verordnung erfüllen.
+
+#### Art. 13
+
+**Verfahren für das Inverkehrbringen**
+
+Alkohol-Wegfahrsperren bedürfen einer ordentlichen Zulassung durch das METAS und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 6 Ziffer 1 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle.
+
+#### Art. 14
+
+**Verfahren zur Erhaltung der Messbeständigkeit**
+
+Alkohol-Wegfahrsperren müssen folgenden Verfahren zur Erhaltung der Messbeständigkeit unterzogen werden:
+
+- a. Instandhaltung nach Anhang 7 Ziffer 7 MessMV und nach Anhang 6 Ziffer 2 der vorliegenden Verordnung mindestens jährlich durch eine Fachperson; und
+- b. Justierung nach Anhang 7 Ziffer 8 MessMV und nach Anhang 6 Ziffer 3 der vorliegenden Verordnung mindestens halbjährlich durch eine Fachperson.
+
+#### Art. 15
+
+**Fehlergrenzen bei Kontrollen**
+
+Bei Beanstandungen im Sinne von Artikel 29 Absatz 1 MessMV oder bei der nachträglichen Kontrolle gelten die in Anhang 5 Ziffer 4 festgelegten Fehlergrenzen.
+
+## 5. Abschnitt: Verlängerung oder Verkürzung von Fristen der Verfahren zur Erhaltung der Messbeständigkeit
+
+#### Art. 16
+
+Das METAS kann die Fristen der Verfahren zur Erhaltung der Messbeständigkeit von Atemalkoholmessmitteln für einzelne Bauarten bestimmter Herstellerinnen verlängern oder verkürzen, wenn die messtechnischen Eigenschaften der verwendeten Messmittel dies erlauben oder verlangen.
+
+## 6. Abschnitt: Schlussbestimmungen
+
+#### Art. 17
+
+**Aufhebung eines anderen Erlasses**
+
+Die Verordnung des EJPD vom 28. Mai 2011[^17-1] über Atemalkoholmessmittel wird aufgehoben.
+
+[^17-1]: [[AS 2011 3275](https://fedlex.data.admin.ch/eli/oc/2011/431), [2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)Ziff. I 5, [2014 475](https://fedlex.data.admin.ch/eli/oc/2014/84)]
+
+#### Art. 18
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Konformitätsbescheinigungen für Atemalkoholtestgeräte, die nach den Bestimmungen der Verordnung des EJPD vom 28. Mai 2011[^18-1] über Atemalkoholmessmittel ausgestellt wurden, bleiben bis zu ihrem Ablauf gültig.
+
+<sup>2</sup> Nach Ablauf der Gültigkeit der Konformitätsbescheinigungen nach Absatz 1 müssen die Atemalkoholtestgeräte neu nach Artikel 5 in Verkehr gebracht werden.
+
+[^18-1]: [[AS 2011 3275](https://fedlex.data.admin.ch/eli/oc/2011/431), [2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)Ziff. I 5, [2014 475](https://fedlex.data.admin.ch/eli/oc/2014/84)]
+
+#### Art. 18a
+
+**Übergangsbestimmung zur Änderung vom 4. Juli 2016**[^18a-1]
+
+Das bisherige Recht gilt für Atemalkoholtestgeräte, die:
+
+- a. im Geltungsbereich nach Artikel 2 Buchstabe a Ziffern 4–8 zur Bestimmung der Blutalkoholkonzentration eingesetzt werden, solange die jeweiligen Vorschriften die massgebenden Werte in g/kg oder ‰ (Promille) festlegen;
+- b. die Massenkonzentration von Alkohol in menschlichem Atem bestimmen und über den Umrechnungsfaktor von 2000 l/kg in einen Massengehalt Blutalkohol in g/kg oder ‰ (Promille) umrechnen und anzeigen; und
+- c. deutlich als Geräte zur Bestimmung der Blutalkoholkonzentration gekennzeichnet sind.
+
+[^18a-1]: Eingefügt durch Ziff. I der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+
+#### Art. 19
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. März 2015 in Kraft.
+
+Anhang 1[^t-1]
+
+(Art. 4 und 7)
+
+## Spezifische Anforderungen an Atemalkoholtestgeräte
+
+[^t-1]: Bereinigt gemäss Ziff. II der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+
+### 1 Anforderungen an den Aufbau und die messtechnischen Eigenschaften
+
+- Atemalkoholtestgeräte müssen die Anforderungen der Norm SN EN 15964[^annex1-lvlu1-lvl1-1] und dieses Anhangs an den Aufbau und die messtechnischen Eigenschaften erfüllen.
+
+[^annex1-lvlu1-lvl1-1]: Norm SN EN 15964: 2011, Atemalkohol-Testgeräte zur Mehrfachverwendung – Anforderungen und Prüfverfahren. Die Norm kann beim Eidgenössischen Institut für Metrologie, 3003 Bern kostenlos eingesehen oder gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch bezogen werden.
+
+### 2 Messbereiche
+
+- Der Mindestmessbereich für Atemalkoholtestgeräte ist in Tabelle 1 angegeben.
+
+Tabelle 1
+
+<table>
+<tr><th>Messgrösse</th><th>Messbereich</th></tr>
+<tr><td>Atemalkoholkonzentration</td><td>(0,025 … 1,50) mg/l bei 34 °C und Umgebungsdruck</td></tr>
+</table>
+
+### 3 Nennbetriebsbedingungen
+
+- Die Werte der Nennbetriebsbedingungen sind von der Herstellerin wie folgt anzugeben:
+- 3\.1
+
+  Für die klimatischen und mechanischen Einflussgrössen:
+
+  - – Mindesttemperaturbereich von –5 °C bis 40 °C für die klimatische Umgebung;
+  - – mechanische Umgebungsklasse M1;
+  - – elektromagnetische Umgebungsklasse E1.
+
+- 3\.2
+
+  Für die Einflussgrössen der elektrischen Leistung:
+
+  - – Spannungs- und Frequenzbereich für die Wechselspannungsversorgung;
+  - – Grenzwerte der Gleichspannungsversorgung.
+
+- 3\.3 Für den Umgebungsdruck:
+- Mindest- und Höchstwerte des Umgebungsdrucks: p<sub>min</sub> ≤ 860 hPa bzw. p<sub>max</sub> ≥ 1060 hPa.
+
+### 4 Fehlergrenzen
+
+-
+
+  Unter den Nennbetriebsbedingungen nach Ziffer 3 gelten die folgenden Fehlergrenzen:
+
+  - – Atemalkoholkonzentration ≤ 0,20 mg/l: höchste erlaubte Abweichung 0,02 mg/l;
+  - – Atemalkoholkonzentration &gt; 0,20 mg/l: 10 % des Wertes.
+
+Anhang 2[^t-2]
+
+(Art. 5 und 6)
+
+## Ersteichung und Verfahren zur Erhaltung der Messbeständigkeit für Atemalkoholtestgeräte
+
+[^t-2]: Bereinigt gemäss Ziff. II der V des EJPD vom 4. Juli 2016, in Kraft seit 1. Oktober 2016 ([AS 2016 2841](https://fedlex.data.admin.ch/eli/oc/2016/463)).
+
+### 1 Erst- und Nacheichung
+
+- 1\.1 Atemalkoholtestgeräte werden unter Laborbedingungen geeicht. Die Eichfehlergrenzen betragen die Hälfte der nach Anhang 1 Ziffer 4 definierten Fehlergrenzen unter Nennbetriebsbedingungen. Das METAS bestimmt das Vorgehen bei der Nacheichung im Einzelfall aufgrund der Bauart eines Messmittels.
+- 1\.2 Für die Erzeugung der Alkoholgemische muss die Methode nach Dubowski, wie sie in der Empfehlung OIML R 126[^annex2-lvlu1-lvl1-1] beschrieben ist, angewendet werden.
+
+[^annex2-lvlu1-lvl1-1]: Recommandation Internationale OIML R 126, Ethylomètres, Edition 2012. Der Text der Norm kann in französischer oder englischer Sprache beim Eidgenössischen Institut für Metrologie, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter www.oiml.org/fr/publications/recommandations/ abgerufen werden.
+
+### 2 Instandhaltung
+
+- 2\.1 Die Informationen über die Funktionsweise von Atemalkoholtestgeräten enthalten nach Anhang 1 Ziffer 9.3 MessMV insbesondere detaillierte Angaben über die Instandhaltungspflicht der Verwenderin, alle Instandhaltungsarbeiten, deren Intervalle und der Nachweis, dass sie durchgeführt wurden.
+- 2\.2 Alle Instandhaltungsarbeiten gemäss den Informationen über die Funktionsweise sind korrekt durchzuführen. Dabei sind sowohl Umfang als auch Termine einzuhalten.
+- 2\.3 Alle Instandhaltungsarbeiten sind mit Hilfe eines Instandhaltungsdokuments nachzuweisen. Es muss insbesondere die Geräteidentifikation, das Datum, die ausgeführten Arbeiten, die Person, welche die Instandhaltung durchgeführt hat, die verwendeten Mess- und Prüfmittel und die Unterschrift enthalten.
+- 2\.4 Spezielle Mess- und Prüfmittel, die bei der Instandhaltung der Atemalkoholtestgeräte zur Anwendung kommen, müssen auf nationale Normale rückführbar sein.
+
+### 3 Justierung
+
+- 3\.1 Die Justierung von Atemalkoholtestgeräten muss mit einem Alkoholgemisch, das einer Massenkonzentration von Alkohol im Atem von 0,4 mg/l entspricht, erfolgen.
+- Wird das Alkoholgemisch gemäss der Methode nach Ziffer 1.2 erzeugt, ist ein zertifiziertes Alkohol-Wasser-Gemisch mit 1,03 g/l Alkohol in Wasser zu verwenden.
+- 3\.2 Alternativ darf direkt ein von einer akkreditierten Gasherstellerin zertifiziertes Referenzgasgemisch von 225 µmol/mol Alkohol in Stickstoff verwendet werden. Für die Anwendung dieser trockenen Methode ist die Kenntnis des Wassereinflusses auf das Messprinzip des Atemalkoholtestgerätes Voraussetzung. Dieser Einfluss muss gegebenenfalls vom Atemalkoholtestgerät automatisch berücksichtigt und korrigiert werden.
+
+Anhang 3
+
+(Art. 8 und 11)
+
+## Spezifische Anforderungen an Atemalkoholmessgeräte
+
+### 1 Anforderungen an den Aufbau und die messtechnischen Eigenschaften
+
+- Atemalkoholmessgeräte müssen die Anforderungen der Empfehlung OIML R 126[^annex3-lvlu1-lvl1-1] und dieses Anhangs an den Aufbau und die messtechnischen Eigenschaften erfüllen.
+
+[^annex3-lvlu1-lvl1-1]: Recommandation Internationale OIML R 126, Ethylomètres, Edition 2012. Der Text der Norm kann in französischer oder englischer Sprache beim Eidgenössischen Institut für Metrologie, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter www.oiml.org/en/publications/recommandations/ abgerufen werden.
+
+### 2 Messbereiche
+
+- Der Mindestmessbereich für Atemalkoholmessgeräte ist in Tabelle 2 angegeben.
+
+Tabelle 2
+
+<table>
+<tr><th>Messgrösse</th><th>Messbereich</th></tr>
+<tr><td>Atemalkoholkonzentration</td><td>(0,00 … 2,00) mg/l bei 34 °C und Umgebungsdruck</td></tr>
+</table>
+
+### 3 Nennbetriebsbedingungen
+
+- Die Werte der Nennbetriebsbedingungen sind von der Herstellerin wie folgt anzugeben:
+- 3\.1
+
+  Für die klimatischen und mechanischen Einflussgrössen:
+
+  - – Mindesttemperaturbereich von –10 °C bis 40 °C für die klimatische Umgebung;
+  - – mechanische Umgebungsklasse M1;
+  - – elektromagnetische Umgebungsklasse E1.
+
+- 3\.2
+
+  Für die Einflussgrössen der elektrischen Leistung:
+
+  - – Spannungs- und Frequenzbereich für die Wechselspannungsversorgung;
+  - – Grenzwerte der Gleichspannungsversorgung.
+
+- 3\.3 Für den Umgebungsdruck:
+- Mindest- und Höchstwerte des Umgebungsdrucks: p<sub>min</sub> ≤ 860 hPa bzw. p<sub>max</sub> ≥ 1060 hPa.
+
+### 4 Fehlergrenzen
+
+- 4\.1
+
+  Unter den Nennbetriebsbedingungen nach Ziffer 3 gelten die folgenden Fehlergrenzen:
+
+  - – Atemalkoholkonzentration ≤ 0,40 mg/l: höchste erlaubte Abweichung 0,03 mg/l;
+  - – Atemalkoholkonzentration &gt; 0,40 mg/l: 7,5 % des Wertes.
+
+### 5 Sonstige Anforderungen
+
+- 5\.1 Redundanz
+- Jeder Messwert muss unmittelbar bei der Erhebung durch ein geeignetes unabhängiges Messverfahren bestätigt werden.
+-
+
+  Die Bestätigung ist insbesondere erbracht, wenn:
+
+  - – die Abweichung zwischen den Messwerten zweier unabhängiger Verfahren derselben Atemalkoholprobe zwei Drittel der Fehlergrenzen nach Ziffer 4 nicht überschreitet, wobei der tiefere Wert massgebend ist; oder
+  - – der Messwert eines Verfahrens innerhalb von zwei Minuten durch die Messung eines von einer akkreditierten Gasherstellerin zertifizierten Referenzgasgemischs verifiziert wird, wobei die Abweichung des Messwertes vom Wert der Referenzprobe zwei Drittel der Fehlergrenzen nach Ziffer 4 nicht überschreiten darf.
+
+- 5\.2 Sicherheitsabzug
+- Sofern ein automatischer Sicherheitsabzug vorgenommen wird, muss dieser durch die Verwenderin eingestellt werden können.
+- 5\.3 Messablauf
+- Das Messgerät und seine Ablaufsteuerung durch die Software müssen einen Messablauf nach der Strassenverkehrskontrollverordnung vom 28. März 2007[^annex3-lvlu1-lvl5-1] und der Verordnung des ASTRA vom 22. Mai 2008[^annex3-lvlu1-lvl5-2] zur Strassenverkehrskontrollverordnung erlauben.
+- 5\.4 Mundalkohol
+- Das Messgerät muss Mundalkohol gemäss Ziffer 6.3.4 der Empfehlung OIML R 126 erkennen, anzeigen und die Messung abbrechen.
+- 5\.5 Rundung
+- Das Messergebnis wird erst nach Anwendung eines allfälligen Sicherheitsabzugs gemäss Ziffer 5.3 der Empfehlung OIML R 126 gerundet.
+- 5\.6 Software-Sicherheit
+- Die Software muss die Anforderungen an die Sicherheit erfüllen, wie sie im WELMEC Software Leitfaden 7.2[^annex3-lvlu1-lvl5-3] für den Fall Typ P und die Risikoklasse B definiert sind.
+- 5\.7 Datenanzeige und Datenspeicherung
+- Die Anzeige der Messergebnisse hat die Anforderungen nach Anhang 1 Ziffer 10 MessMV zu erfüllen.
+- Die Messergebnisse vor und nach allfälliger Anwendung des Sicherheitsabzuges sowie der allfällige Sicherheitsabzug müssen angezeigt, eindeutig zugeordnet und dauerhaft aufgezeichnet werden können.
+- Die für die Ermittlung des Messergebnisses relevanten Daten, insbesondere alle Messwerte, müssen ebenfalls aufgezeichnet werden.
+- Messergebnisse, die im Gerät gespeichert werden und einer Probandin oder einem Probanden zugeordnet werden können, müssen dauerhaft gelöscht werden können.
+
+[^annex3-lvlu1-lvl5-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^annex3-lvlu1-lvl5-2]: [SR 741.013.1](https://fedlex.data.admin.ch/eli/cc/2008/352)
+[^annex3-lvlu1-lvl5-3]: WELMEC Software Guide 7.2 Issue 5, Edition 2012. Der Text des Leitfadens kann in englischer und deutscher Sprache beim Eidgenössischen Institut für Metrologie, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter www.welmec.org/latest/guides/72.html abgerufen werden.
+
+Anhang 4
+
+(Art. 9 und 10)
+
+## Ersteichung und Verfahren zur Erhaltung der Messbeständigkeit für Atemalkoholmessgeräte
+
+### 1 Erst- und Nacheichung
+
+- 1\.1 Atemalkoholmessgeräte werden unter Laborbedingungen geeicht. Die Eichfehlergrenzen betragen zwei Drittel der nach Anhang 3 Ziffer 4 definierten Fehlergrenzen unter Nennbetriebsbedingungen. Das METAS bestimmt das Vorgehen bei der Nacheichung im Einzelfall aufgrund der Bauart eines Messmittels.
+- 1\.2 Für die Erzeugung der Alkoholgemische muss die Methode nach Dubowski, wie sie in der Empfehlung OIML R 126[^annex4-lvlu1-lvl1-1] beschrieben ist, angewendet werden.
+
+[^annex4-lvlu1-lvl1-1]: Recommandation Internationale OIML R 126, Ethylomètres, Edition 2012. Der Text der Norm kann in französischer oder englischer Sprache beim Eidgenössischen Institut für Metrologie, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter www.oiml.org/fr/publications/recommandations/ abgerufen werden.
+
+### 2 Instandhaltung
+
+- 2\.1 Die Informationen über die Funktionsweise von Atemalkoholmessgeräten enthalten nach Anhang 1 Ziffer 9.3 MessMV insbesondere detaillierte Angaben über die Instandhaltungspflicht der Verwenderin, alle Instandhaltungsarbeiten, deren Intervalle und der Nachweis, dass sie durchgeführt wurden.
+- 2\.2 Alle Instandhaltungsarbeiten gemäss den Informationen über die Funktionsweise sind korrekt durchzuführen. Dabei sind sowohl Umfang als auch Termine einzuhalten.
+- 2\.3 Alle Instandhaltungsarbeiten sind mit Hilfe eines Instandhaltungsdokuments nachzuweisen. Es muss insbesondere die Geräteidentifikation, das Datum, die ausgeführten Arbeiten, die Person, welche die Instandhaltung durchgeführt hat, die verwendeten Mess- und Prüfmittel und die Unterschrift enthalten.
+- 2\.4 Spezielle Mess- und Prüfmittel, die bei der Instandhaltung der Atemalkoholmessgeräte zur Anwendung kommen, müssen auf nationale Normale rückführbar sein.
+
+### 3 Justierung
+
+- 3\.1 Die Justierung von Atemalkoholmessgeräten muss mit einem Alkoholgemisch, das einer Massenkonzentration von Alkohol in Atem von 0,4 mg/l entspricht, erfolgen.
+- 3\.2 Wird das Alkoholgemisch gemäss der Methode nach Ziffer 1.2 erzeugt, ist ein zertifiziertes Alkohol-Wasser-Gemisch mit 1,03 g/l Alkohol in Wasser zu verwenden.
+- 3\.3 Alternativ darf direkt ein von einer akkreditierten Gasherstellerin zertifiziertes Referenzgasgemisch von 225 µmol/mol Alkohol in Stickstoff verwendet werden. Für die Anwendung dieser trockenen Methode ist die Berücksichtigung des Wassereinflusses auf das Messprinzip des Atemalkoholmessgerätes Voraussetzung. Dieser Einfluss muss gegebenenfalls vom Atemalkoholmessgerät automatisch berücksichtigt und korrigiert werden.
+
+Anhang 5
+
+(Art. 12 und 15)
+
+## Spezifische Anforderungen an Alkohol-Wegfahrsperren
+
+### 1 Anforderungen an den Aufbau und die messtechnischen Eigenschaften
+
+- Alkohol-Wegfahrsperren müssen die Anforderungen der Norm SN EN 50436‑1[^annex5-lvlu1-lvl1-1] und dieses Anhangs an den Aufbau und die messtechnischen Eigenschaften erfüllen.
+
+[^annex5-lvlu1-lvl1-1]: Norm SN EN 50436-1: 2014, Alkohol-Interlocks – Prüfverfahren und Anforderungen an das Betriebsverhalten – Teil 1: Geräte für Programme mit Trunkenheitsfahrern. Die Norm kann beim Eidgenössischen Institut für Metrologie, 3003 Bern kostenlos eingesehen oder gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch bezogen werden.
+
+### 2 Messbereiche
+
+- Der Mindestmessbereich für Alkohol-Wegfahrsperren ist in Tabelle 3 angegeben.
+
+Tabelle 3
+
+<table>
+<tr><th>Messgrösse</th><th>Messbereich</th></tr>
+<tr><td>Atemalkoholkonzentration</td><td>(0,00 … 1,50) mg/l bei 34 °C und Umgebungsdruck</td></tr>
+</table>
+
+### 3 Nennbetriebsbedingungen
+
+- Die Werte der Nennbetriebsbedingungen sind von der Herstellerin wie folgt anzugeben:
+- 3\.1
+
+  Für die klimatischen und mechanischen Einflussgrössen:
+
+  - – Mindesttemperaturbereich von –5 °C bis 40 °C für die klimatische Umgebung;
+  - – mechanische Umgebungsklasse M1;
+  - – elektromagnetische Umgebungsklasse E1.
+
+- 3\.2
+
+  Für die Einflussgrössen der elektrischen Leistung:
+
+  - – Spannungs- und Frequenzbereich für die Wechselspannungsversorgung;
+  - – Grenzwerte der Gleichspannungsversorgung.
+
+- 3\.3 Für den Umgebungsdruck:
+- Mindest- und Höchstwerte des Umgebungsdrucks: p<sub>min</sub> ≤ 860 hPa bzw. p<sub>max</sub> ≥ 1060 hPa.
+
+### 4 Fehlergrenzen
+
+-
+
+  Unter den Nennbetriebsbedingungen nach Ziffer 3 gelten die folgenden Fehlergrenzen:
+
+  - – Atemalkoholkonzentration ≤ 0,20 mg/l: höchste erlaubte Abweichung 0,02 mg/l;
+  - – Atemalkoholkonzentration &gt; 0,20 mg/l: 10 % des Wertes.
+
+Anhang 6
+
+(Art. 13 und 14)
+
+## Ersteichung und Verfahren zur Erhaltung der Messbeständigkeit für Alkohol-Wegfahrsperren
+
+### 1 Ersteichung
+
+- 1\.1 Alkohol-Wegfahrsperren werden unter Laborbedingungen erstgeeicht. Die Eichfehlergrenzen betragen die Hälfte der nach Anhang 5 Ziffer 4 definierten Fehlergrenzen unter Nennbetriebsbedingungen. Das METAS bestimmt das Vorgehen bei der Nacheichung im Einzelfall aufgrund der Bauart eines Messmittels.
+- 1\.2 Für die Erzeugung der Alkoholgemische muss die Methode nach Dubowski, wie sie in der Empfehlung OIML R 126[^annex6-lvlu1-lvl1-1] beschrieben ist, angewendet werden.
+
+[^annex6-lvlu1-lvl1-1]: Recommandation Internationale OIML R 126, Ethylomètres, Edition 2012. Der Text der Norm kann in französischer oder englischer Sprache beim Eidgenössischen Institut für Metrologie, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter www.oiml.org/fr/publications/recommandations/ abgerufen werden.
+
+### 2 Instandhaltung
+
+- 2\.1 Die Informationen über die Funktionsweise von Alkohol-Wegfahrsperren enthalten nach Anhang 1 Ziffer 9.3 MessMV insbesondere detaillierte Angaben über die Instandhaltungspflicht der Verwenderin, alle Instandhaltungsarbeiten, deren Intervalle und der Nachweis, dass sie durchgeführt wurden.
+- 2\.2 Alle Instandhaltungsarbeiten gemäss den Informationen über die Funktionsweise sind korrekt durchzuführen. Dabei sind sowohl Umfang als auch Termine einzuhalten.
+- 2\.3 Alle Instandhaltungsarbeiten sind mit Hilfe eines Instandhaltungsdokuments nachzuweisen. Es muss insbesondere die Geräteidentifikation, das Datum, die ausgeführten Arbeiten, die Person, welche die Instandhaltung durchgeführt hat, die verwendeten Mess- und Prüfmittel und die Unterschrift enthalten.
+- 2\.4 Spezielle Mess- und Prüfmittel, die bei der Instandhaltung der Alkohol-Wegfahrsperren zur Anwendung kommen, müssen auf nationale Normale rückführbar sein.
+
+### 3 Justierung
+
+- 3\.1 Die Justierung von Alkohol-Wegfahrsperren muss mit einem Alkoholgemisch, das einer Massenkonzentration von Alkohol in Atem von 0,4 mg/l entspricht, erfolgen.
+- Wird das Alkoholgemisch gemäss der Methode nach Ziffer 1.2 erzeugt, ist ein zertifiziertes Alkohol-Wasser-Gemisch mit 1,03 g/l Alkohol in Wasser zu verwenden.
+- 3\.2 Alternativ darf direkt ein von einer akkreditierten Gasherstellerin zertifiziertes Referenzgasgemisch von 225 µmol/mol Alkohol in Stickstoff verwendet werden. Für die Anwendung dieser trockenen Methode ist die Berücksichtigung des Wassereinflusses auf das Messprinzip der Alkohol-Wegfahrsperre Voraussetzung. Dieser Einfluss muss gegebenenfalls vom Messmittel automatisch berücksichtigt und korrigiert werden.

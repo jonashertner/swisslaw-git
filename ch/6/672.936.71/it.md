@@ -1,0 +1,150 @@
+---
+sr: "672.936.71"
+title: Ordinanza del 15 ottobre 2008 concernente la Convenzione svizzero-britannica di doppia imposizione
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/137"
+language: it
+version: 2008-12-22
+adopted: 2008-10-15
+in_force: 2008-12-22
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/137/20081222/it/xml/fedlex-data-admin-ch-eli-cc-2009-137-20081222-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/137/20081222/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la Convenzione svizzero-britannica di doppia imposizione
+
+del 15 ottobre 2008 (Stato 22 dicembre 2008)
+
+Il Consiglio federale svizzero,
+
+visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione della Convenzione dell’8 dicembre 1977[^ingress-2] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna ed Irlanda del Nord intesa a evitare la doppia imposizione in materia di imposte sul reddito (Convenzione),
+
+ordina:
+
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^ingress-2]: [RS 0.672.936.712](https://fedlex.data.admin.ch/eli/cc/1978/1465_1465_1465)
+
+## Sezione 1: Scambio di informazioni generale
+
+#### Art. 1
+
+<sup>1</sup> Per la trasmissione alle autorità del Regno Unito delle informazioni previste nell’articolo 25 paragrafo 1 lettere a e b della Convenzione è competente, per quanto concerne la Svizzera, l’Amministrazione federale delle contribuzioni (AFC). Richieste di informazioni da parte britannica pervenute ad altre autorità devono essere trasmesse all’AFC.
+
+<sup>2</sup> L’AFC decide sulle contestazioni che dovessero sorgere a causa della trasmissione di tali informazioni.
+
+<sup>3</sup> La decisione dell’AFC può essere impugnata conformemente alle disposizioni generali della procedura federale.
+
+## Sezione 2: Scambio di informazioni in caso di frode fiscale o violazioni analoghe
+
+#### Art. 2
+
+**Esame preliminare della richiesta**
+
+<sup>1</sup> Le richieste dell’autorità competente del Regno Unito concernente lo scambio di informazioni in caso di frode fiscale o violazioni analoghe ai sensi dell’articolo 25 paragrafo 1 lettera c della Convenzione vengono esaminate in via preliminare dall’AFC.
+
+<sup>2</sup> Se una richiesta non può essere soddisfatta, l’AFC ne informa la competente autorità britannica. Quest’ultima può completare la sua richiesta.
+
+<sup>3</sup> Se dall’esame preliminare risulta che le condizioni di cui all’articolo 25 paragrafo 1 lettera c della Convenzione e alle pertinenti disposizioni dello scambio di note del 26 giugno 2007 sono adempiute, l’AFC informa della presentazione della richiesta e delle informazioni richieste la persona che in Svizzera dispone delle relative informazioni (detentore delle informazioni). Il resto del contenuto della richiesta non è comunicato al detentore delle informazioni.
+
+<sup>4</sup> L’AFC chiede contemporaneamente al detentore delle informazioni di trasmetterle le informazioni e d’invitare la persona interessata a designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
+
+#### Art. 3
+
+**Ottenimento delle informazioni**
+
+<sup>1</sup> Se il detentore delle informazioni trasmette all’AFC le informazioni richieste, quest’ultima le esamina ed emette una decisione finale.
+
+<sup>2</sup> Se il detentore delle informazioni o la persona interessata oppure il mandatario autorizzato a ricevere le notificazioni non acconsente a fornire le informazioni richieste, l’AFC emette nei confronti del detentore delle informazioni una decisione con la quale esige il più presto possibile, ma in ogni caso entro tre mesi, la consegna delle informazioni indicate nella richiesta del Regno Unito.
+
+#### Art. 4
+
+**Diritti della persona interessata**
+
+<sup>1</sup> L’AFC notifica parimenti alla persona interessata la decisione indirizzata al detentore delle informazioni nonché copia della richiesta della competente autorità del Regno Unito, a meno che non venga espressamente chiesta la segretezza.
+
+<sup>2</sup> Se la persona interessata non ha designato un mandatario autorizzato a ricevere le notificazioni, la notificazione deve essere eseguita dalla competente autorità britannica secondo il diritto del Regno Unito. Contemporaneamente, l’AFC fissa alla persona un termine per acconsentire allo scambio di informazioni o per designare un mandatario autorizzato a ricevere le notificazioni.
+
+<sup>3</sup> La persona interessata può partecipare alla procedura e consultare gli atti. La consultazione degli atti può essere negata soltanto per documenti e atti procedurali per i quali esistono motivi di segretezza oppure se lo esige l’articolo 25 della Convenzione.
+
+<sup>4</sup> Oggetti, documenti e atti che sono stati consegnati all’AFC o che quest’ultima si è procurata possono essere utilizzati ai fini dell’applicazione del diritto fiscale svizzero solo dopo che la decisione finale sia passata in giudicato. È fatto salvo l’articolo 9 capoverso 4.
+
+#### Art. 5
+
+**Misure coercitive**
+
+<sup>1</sup> Se le informazioni richieste nella decisione non sono fornite all’AFC entro il termine fissato, possono essere prese misure coercitive. Al riguardo si può procedere al sequestro di oggetti, documenti e atti in forma scritta o su supporti elettronici di dati nonché alla perquisizione domiciliare.
+
+<sup>2</sup> Le misure coercitive devono essere ordinate dal direttore dell’AFC o dal suo sostituto. Devono essere eseguite da impiegati dell’Ufficio particolarmente istruiti a tale scopo e possono essere sequestrati soltanto oggetti, documenti e atti che potrebbero essere importanti per l’ottenimento delle informazioni richieste.
+
+<sup>3</sup> Se vi è pericolo nel ritardo e se una misura non può essere ordinata tempestivamente, l’impiegato particolarmente istruito a tale scopo può di sua iniziativa eseguire una misura coercitiva. La misura deve essere approvata entro tre giorni dal direttore dell’AFC o dal suo sostituto.
+
+<sup>4</sup> Le autorità di polizia dei Cantoni e dei Comuni sostengono l’AFC nell’esecuzione delle misure coercitive.
+
+#### Art. 6
+
+**Perquisizione di locali**
+
+<sup>1</sup> Si può procedere alla perquisizione di locali soltanto se è probabile che in essi si trovino gli oggetti, i documenti e gli atti che sono in relazione con la richiesta di scambio di informazioni.
+
+<sup>2</sup> L’esecuzione della perquisizione è disciplinata nell’articolo 49 della legge federale del 22 marzo 1974[^6-1] sul diritto penale amministrativo.
+
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+#### Art. 7
+
+**Sequestro di oggetti, documenti e atti**
+
+<sup>1</sup> La perquisizione di oggetti, documenti e atti deve essere effettuata con il massimo riguardo per la sfera privata.
+
+<sup>2</sup> Al possessore degli oggetti, dei documenti e degli atti o al detentore delle informazioni deve essere data l’occasione di esprimersi sulla portata della perquisizione prima dell’esecuzione della stessa. Il detentore delle informazioni deve collaborare alle operazioni di localizzazione e identificazione degli oggetti, dei documenti e degli atti.
+
+<sup>3</sup> Il possessore o il detentore delle informazioni deve assumersi le spese che risultano dalle misure coercitive.
+
+#### Art. 8
+
+**Esecuzione semplificata**
+
+<sup>1</sup> Se la persona interessata acconsente a fornire le informazioni alla competente autorità del Regno Unito, informa l’AFC. Questo consenso è irrevocabile.
+
+<sup>2</sup> L’AFC constata per scritto il consenso e chiude la procedura con la trasmissione delle informazioni alla competente autorità britannica.
+
+<sup>3</sup> Se il consenso riguarda solo una parte delle informazioni, i rimanenti oggetti, documenti e atti vengono procurati conformemente agli articoli 5–7 e trasmessi sulla base di una decisione finale.
+
+#### Art. 9
+
+**Chiusura della procedura**
+
+<sup>1</sup> L’AFC emette una decisione finale motivata. Vi si pronuncia sull’esistenza di una frode fiscale o di violazioni analoghe e decide in merito alla trasmissione di oggetti, documenti e atti alla competente autorità del Regno Unito.
+
+<sup>2</sup> La decisione è notificata alla persona interessata per il tramite del suo mandatario autorizzato a ricevere le notificazioni.
+
+<sup>3</sup> Se non è stato designato alcun mandatario autorizzato a ricevere le notificazioni, la notificazione avviene con pubblicazione nel Foglio federale.
+
+<sup>4</sup> Una volta che la decisione finale è passata in giudicato, le informazioni trasmesse alla competente autorità britannica possono essere utilizzate dall’AFC.
+
+#### Art. 10
+
+**Rimedi giuridici**
+
+<sup>1</sup> La decisione finale dell’AFC relativa alla trasmissione delle informazioni può essere impugnata con ricorso conformemente alle disposizioni generali della procedura federale.
+
+<sup>2</sup> Anche il detentore delle informazioni è autorizzato a ricorrere, per quanto faccia valere interessi propri.
+
+<sup>3</sup> Ogni decisione anteriore alla decisione finale, compresa quella relativa a misure coercitive, è immediatamente esecutoria e può essere impugnata solo congiuntamente alla decisione finale.
+
+## Sezione 3: Disposizioni finali
+
+#### Art. 11
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 23 aprile 1975[^11-1] concernente la Convenzione svizzero-britannica di doppia imposizione è abrogata.
+
+[^11-1]: [[RU 1975 851](https://fedlex.data.admin.ch/eli/oc/1975/851_851_851), [1978 1554](https://fedlex.data.admin.ch/eli/oc/1978/1554_1554_1554), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 54]
+
+#### Art. 12
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 22 dicembre 2008.

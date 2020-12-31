@@ -1,0 +1,639 @@
+---
+sr: "442.1"
+title: "Bundesgesetz vom 11. Dezember 2009 über die Kulturförderung (Kulturförderungsgesetz, KFG)"
+short: KFG
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
+language: de
+version: 2017-01-01
+adopted: 2009-12-11
+in_force: 2012-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20170101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über die Kulturförderung
+
+(Kulturförderungsgesetz, KFG)
+
+vom 11. Dezember 2009 (Stand am 1. Januar 2017)
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 67*a* Absätze 1 und 3, 69 Absatz 2 und 70 Absatz 3 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaften des Bundesrats vom 8. Juni 2007 zum Kulturförderungsgesetz[^ingress-3] und zum Pro-Helvetia-Gesetz[^ingress-4],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^ingress-3]: [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)
+[^ingress-4]: [BBl 2007 4857](https://fedlex.data.admin.ch/eli/fga/2007/683)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Dieses Gesetz regelt:
+
+- a.
+
+  die Kulturförderung des Bundes in den Bereichen:
+
+  - 1\. Bewahrung des kulturellen Erbes,
+  - 2\. Kunst- und Kulturschaffen einschliesslich Nachwuchsförderung,
+  - 3\. Vermittlung von Kunst und Kultur,
+  - 4\. Austausch zwischen den kulturellen und sprachlichen Gemeinschaften in der Schweiz,
+  - 5\. Kulturaustausch mit dem Ausland;
+
+- b. die Organisation der Stiftung Pro Helvetia.
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup>
+
+Die Kulturförderung des Bundes nach den folgenden Spezialgesetzen bleibt vorbehalten:
+
+- a. Nationalbibliotheksgesetz vom 18. Dezember 1992[^2-1];
+- b. Museums- und Sammlungsgesetz vom 12. Juni 2009[^2-2];
+- c. Bundesgesetz vom 6. Oktober 1995[^2-3] über Finanzhilfen für die Erhaltung und Förderung der rätoromanischen und italienischen Sprache und Kultur;
+- d. Filmgesetz vom 14. Dezember 2001[^2-4];
+- e. Kulturgütertransfergesetz vom 20. Juni 2003[^2-5];
+- f. Bundesgesetz vom 1. Juli 1966[^2-6] über den Natur- und Heimatschutz;
+- g.[^2-7] Schweizerschulengesetz vom 21. März 2014[^2-8].
+
+<sup>2</sup> Von diesem Vorbehalt ausgenommen sind die Finanzierungsbestimmungen nach Artikel 27 dieses Gesetzes.
+
+[^2-1]: [SR 432.21](https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773)
+[^2-2]: [SR 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^2-3]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514). [AS 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. I].
+[^2-4]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^2-5]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^2-6]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^2-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^2-8]: [SR 418.0](https://fedlex.data.admin.ch/eli/cc/2014/771)
+
+#### Art. 3
+
+**Ziele**
+
+Die Kulturförderung des Bundes hat zum Ziel:
+
+- a. den Zusammenhalt und die kulturelle Vielfalt in der Schweiz zu stärken;
+- b. ein vielfältiges und qualitativ hochstehendes Kulturangebot zu fördern;
+- c. günstige Rahmenbedingungen für Kulturschaffende sowie für kulturelle Institutionen und Organisationen zu schaffen;
+- d. der Bevölkerung den Zugang zur Kultur zu ermöglichen und zu erleichtern;
+- e. das schweizerische Kulturschaffen im Ausland bekannt zu machen.
+
+#### Art. 4
+
+**Subsidiarität**
+
+Der Bund ergänzt in seinem Zuständigkeitsbereich die kulturpolitischen Aktivitäten der Kantone, Städte und Gemeinden.
+
+#### Art. 5
+
+**Koordination und Zusammenarbeit**
+
+<sup>1</sup> Der Bund nimmt bei der Festlegung seiner kulturpolitischen Schwerpunkte Rücksicht auf die Kulturpolitik der Kantone, Städte und Gemeinden und arbeitet soweit erforderlich mit ihnen zusammen.
+
+<sup>2</sup> Er kann mit anderen öffentlich-rechtlichen und privaten Akteuren der Kulturförderung zusammenarbeiten sowie privatrechtlichen Körperschaften beitreten.
+
+## 2. Kapitel: Kulturförderung
+
+### 1. Abschnitt: Allgemeine Voraussetzungen
+
+#### Art. 6
+
+**Gesamtschweizerisches Interesse**
+
+<sup>1</sup> Der Bund unterstützt unter Vorbehalt von Artikel 12 nur Projekte, Institutionen und Organisationen, an denen ein gesamtschweizerisches Interesse besteht.[^6-1]
+
+<sup>2</sup>
+
+Ein gesamtschweizerisches Interesse liegt insbesondere vor, wenn:
+
+- a. ein Kulturgut für die Schweiz oder für die verschiedenen Sprach- und Kulturgemeinschaften der Schweiz von wesentlicher Bedeutung ist;
+- b. ein Projekt überregionale Auswirkungen, insbesondere Auswirkungen in mehreren Sprachregionen hat;
+- c. das künstlerische Talent einer Person im Hinblick auf eine nationale oder internationale Kunstkarriere herausragend ist;
+- d. eine Organisation einen wesentlichen Beitrag zur Vernetzung von Kulturschaffenden oder kulturell tätigen Laien aus verschiedenen Sprachregionen oder Gegenden der Schweiz leistet;
+- e. ein Projekt wesentlich zur Innovation des Kunstschaffens oder der Kulturvermittlung beiträgt;
+- f. ein kultureller Anlass einzigartig ist und nationale oder internationale Ausstrahlung aufweist;
+- g. ein Projekt wesentlich zum nationalen oder internationalen Kulturaustausch beiträgt.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+#### Art. 7
+
+**Öffentlich zugängliche Projekte**
+
+Der Bund unterstützt nur Projekte, die öffentlich zugänglich sind.
+
+#### Art. 8
+
+**Priorisierung**
+
+Der Bund unterstützt bevorzugt Projekte, die:
+
+- a. der Bevölkerung den Zugang zur Kultur ermöglichen oder erleichtern;
+- b. einen besonderen Beitrag zur Bewahrung oder Entwicklung der kulturellen oder sprachlichen Vielfalt leisten.
+
+### 2. Abschnitt: Förderungs- und Unterstützungsmassnahmen
+
+#### Art. 9
+
+**Soziale Sicherheit der Kulturschaffenden**[^9-1]
+
+<sup>1</sup>
+
+Der Bund und die Stiftung Pro Helvetia überweisen einen prozentualen Anteil ihrer Finanzhilfen für Kulturschaffende an:
+
+- a. die Pensionskasse der Person, welche die Finanzhilfe erhält; oder
+- b. eine andere Vorsorgeform nach Artikel 82 Absatz 2 des Bundesgesetzes vom 25. Juni 1982[^9-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge dieser Person.
+
+<sup>2</sup> Der Bundesrat legt den prozentualen Anteil fest.
+
+[^9-1]: Dieser Art. ist am 1. Jan. 2013 in Kraft getreten ([AS 2012 6077](https://fedlex.data.admin.ch/eli/oc/2012/716)).
+[^9-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 9a
+
+**Kulturelle Teilhabe**[^9a-1]
+
+Der Bund kann Vorhaben zur Stärkung der Teilhabe der Bevölkerung am kulturellen Leben unterstützen.
+
+[^9a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+#### Art. 10
+
+**Massnahmen zur Bewahrung des kulturellen Erbes**
+
+<sup>1</sup> Der Bund kann Museen, Sammlungen und Netzwerke Dritter zur Bewahrung des kulturellen Erbes unterstützen, insbesondere durch Finanzhilfen an die Betriebs- und Projektkosten. Er kann bei Ausstellungen von gesamtschweizerischer Bedeutung Beiträge an die Versicherungsprämien für Leihgaben leisten.
+
+<sup>2</sup> Der Bund unterstützt nur Museen und Sammlungen, die über ein Sammlungskonzept verfügen.
+
+#### Art. 11
+
+**Nachwuchsförderung**
+
+Der Bund kann den kulturellen und künstlerischen Nachwuchs durch Massnahmen fördern, die dem Erwerb und der Vertiefung der erforderlichen Erfahrungen dienen.
+
+#### Art. 12
+
+**Förderung der musikalischen Bildung**
+
+<sup>1</sup> Der Bund fördert in Ergänzung zu kantonalen und kommunalen Bildungsmassnahmen die musikalische Bildung.
+
+<sup>2</sup> Er fördert die Aus- und Weiterbildung von Leiterinnen und Leitern sowie das Angebot an Musiklagern und Musikkursen für Kinder und Jugendliche. Dazu führt er das Programm «Jugend und Musik».[^12-1]
+
+<sup>3</sup> Er kann den Vollzug des Programms «Jugend und Musik» auf Dritte übertragen.[^12-2]
+
+[^12-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+#### Art. 12a
+
+**Tarife an Musikschulen**[^12a-1]
+
+<sup>1</sup> Musikschulen, die von Kantonen oder Gemeinden unterstützt werden, sehen für alle Kinder und Jugendlichen bis zum Abschluss der Sekundarstufe II Tarife vor, die deutlich unter den Tarifen für Erwachsene liegen.
+
+<sup>2</sup> Sie berücksichtigen bei der Festlegung der Tarife die wirtschaftliche Situation der Eltern oder anderer Unterhaltspflichtiger sowie den erhöhten Ausbildungsbedarf musikalisch Begabter.
+
+[^12a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+#### Art. 13
+
+**Preise**,** Auszeichnungen und Ankäufe**
+
+Der Bund kann:
+
+- a. Preise verleihen;
+- b. herausragende künstlerische Leistungen und kulturelle Verdienste auszeichnen;
+- c. Kunstwerke erwerben.
+
+#### Art. 14
+
+**Unterstützung kultureller Organisationen**
+
+Der Bund kann Organisationen von Kulturschaffenden und von kulturell tätigen Laien unterstützen.
+
+#### Art. 15
+
+**Lese- und Literaturförderung**[^15-1]
+
+Der Bund kann Massnahmen treffen, die der Förderung des Lesens und der Literatur dienen.
+
+[^15-1]: Fassung gemäss Anhang Ziff. 16 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+
+#### Art. 16
+
+**Kulturelle Anlässe und Projekte**
+
+<sup>1</sup> Der Bund kann kulturelle Anlässe durchführen oder sich an deren Organisation und Finanzierung beteiligen.
+
+<sup>2</sup>
+
+Er kann Projekte unterstützen, die:
+
+- a. im Rahmen von einmaligen Anlässen einen kulturellen Beitrag leisten und ein breites Publikum ansprechen; oder
+- b. besonders innovativ und geeignet sind, neue kulturelle Impulse zu geben.
+
+#### Art. 17
+
+**Unterstützung der Fahrenden**
+
+Der Bund kann Massnahmen treffen, um den Fahrenden eine ihrer Kultur entsprechende Lebensweise zu ermöglichen.
+
+#### Art. 18
+
+**Beitrag für die Stadt Bern**
+
+Der Bund kann der Stadt Bern für ihre besonderen kulturellen Leistungen, die sie als Sitz der Bundesversammlung und des Bundesrates erbringt, einen Beitrag entrichten.
+
+#### Art. 19
+
+**Förderung der Kunstvermittlung**
+
+Der Bund kann Massnahmen treffen, um dem Publikum ein Werk oder eine künstlerische Darbietung näherzubringen.
+
+#### Art. 20
+
+**Künstlerisches Schaffen**
+
+Der Bund fördert das künstlerische Schaffen, namentlich durch:
+
+- a. Werkbeiträge;
+- b. Aufträge;
+- c. Projektbeiträge.
+
+#### Art. 21
+
+**Unterstützung des Kulturaustauschs**
+
+<sup>1</sup> Der Bund kann den Kulturaustausch im Inland unterstützen.
+
+<sup>2</sup> Er kann die Schweizer Kulturen im Ausland vorstellen und den Austausch mit anderen Kulturen unterstützen.
+
+<sup>3</sup> Er kann in wichtigen Kulturzentren der Welt und in Ländern, mit denen die Schweiz besonderen Austausch pflegt, eigene Kultureinrichtungen führen.
+
+### 3. Abschnitt: Zuständigkeit und Koordination
+
+#### Art. 22
+
+**Internationale Zusammenarbeit**
+
+Der Bundesrat kann zur Förderung der internationalen Beziehungen völkerrechtliche oder privatrechtliche Verträge abschliessen über:
+
+- a. die kulturelle Zusammenarbeit;
+- b. die finanzielle Beteiligung an internationalen Kulturförderungsmassnahmen.
+
+#### Art. 23
+
+**Unterstützungsmassnahmen**
+
+<sup>1</sup> Für die Massnahmen nach den Artikeln 9*a*, 10, 12–15, 16 Absätze 1 und 2 Buchstabe a, 17 und 18 sowie die damit in unmittelbarem Zusammenhang stehenden Vermittlungsmassnahmen ist das Bundesamt für Kultur zuständig.[^23-1]
+
+<sup>2</sup> Für die Massnahmen nach den Artikeln 11, 16 Absatz 2 Buchstabe b, 19, 20 und 21 ist die Stiftung Pro Helvetia zuständig (Art. 31–45).
+
+[^23-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+#### Art. 24
+
+**Koordination der Massnahmen im Ausland**
+
+Das Eidgenössische Departement des Innern (EDI) und das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) sprechen ihre kulturellen Aktivitäten im Ausland ab und regeln die Einzelheiten ihrer Zusammenarbeit.
+
+### 4. Abschnitt: Formen der Unterstützung und Verfahren
+
+#### Art. 25
+
+**Finanzhilfen und andere Formen der Unterstützung**
+
+<sup>1</sup> Finanzhilfen werden im Rahmen der bewilligten Kredite als nicht rückzahlbare Geldleistungen, Defizitgarantien, Zinszuschüsse, Bürgschaften, Sachleistungen oder bedingt rückzahlbare Darlehen ausgerichtet.
+
+<sup>2</sup> Eine Unterstützung kann auch durch Beratung oder Abgabe von Empfehlungen sowie durch die Übernahme von Patronaten oder durch andere nicht geldwerte Leistungen erfolgen.
+
+<sup>3</sup> Finanzhilfen können auch durch einen Leistungsvertrag im Sinne von Artikel 16 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^25-1] gewährt werden.
+
+[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+#### Art. 26
+
+**Verfahrensrechtliche Bestimmungen**
+
+<sup>1</sup> Das Verfahren für Finanzhilfen von über 100 000 Franken richtet sich, unter Vorbehalt von Absatz 2, nach den allgemeinen Bestimmungen der Bundesrechtspflege. Bei Beschwerden gegen Finanzhilfen bis und mit 100 000 Franken kommt ein vereinfachtes und verkürztes Verfahren zur Anwendung, mit dem der Verwaltungsaufwand und die Kosten deutlich niedriger ausfallen.
+
+<sup>2</sup> In Beschwerdeverfahren ist die Rüge der Unangemessenheit unzulässig.
+
+### 5. Abschnitt: Finanzierung und Steuerung
+
+#### Art. 27
+
+**Schwerpunkte der Kulturförderung und Finanzierung**
+
+<sup>1</sup> Der Bundesrat unterbreitet der Bundesversammlung für jeweils vier Jahre eine Botschaft zur Finanzierung der Kulturförderung des Bundes; darin bestimmt er seine Schwerpunkte für diesen Zeitraum.
+
+<sup>2</sup> Der Bund hört die Kantone, Städte und Gemeinden sowie die interessierten Kreise vorgängig an.
+
+<sup>3</sup>
+
+Die Bundesversammlung bewilligt folgende Zahlungsrahmen und Verpflichtungskredite:
+
+- a.[^27-1] je einen Zahlungsrahmen für die Massnahmen nach den Artikeln 9*a*, 10, 12–15, 16 Absätze 1 und 2 Buchstabe a, 17 und 18 sowie für die Massnahmen nach den Artikeln 11, 16 Absatz 2 Buchstabe b und 19–21;
+- b. die Zahlungsrahmen für die spezialgesetzlichen Förderungsbereiche;
+- c. einen Rahmenkredit nach Artikel 16*a* des Bundesgesetzes vom 1. Juli 1966[^27-2] über den Natur- und Heimatschutz für den Bereich Heimatschutz und Denkmalpflege.
+
+[^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^27-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+#### Art. 28
+
+**Förderungskonzepte**
+
+<sup>1</sup> Das EDI erlässt Förderungskonzepte für einzelne Bereiche der Kulturförderung nach den Artikeln 9*a*, 10, 12–15, 16 Absätze 1 und 2 Buchstabe a, 17 und 18.[^28-1]
+
+<sup>2</sup> Die Förderungskonzepte legen die Förderungsziele, die Förderungsinstrumente und die massgeblichen Kriterien für die Förderung fest.
+
+<sup>3</sup> Sie werden in Form einer Verordnung und in der Regel für die Geltungsdauer der Finanzierungsbeschlüsse nach Artikel 27 Absatz 3 erlassen.
+
+[^28-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+
+#### Art. 29
+
+**Fachbehörde und Koordination**
+
+<sup>1</sup> Das Bundesamt für Kultur setzt als Fachbehörde die Kulturpolitik des Bundes um und koordiniert die Aktivitäten der zuständigen Bundesstellen.
+
+<sup>2</sup> Das EDI und das EDA koordinieren ihre Aktivitäten im Rahmen der internationalen Kulturpolitik.
+
+#### Art. 30
+
+**Statistik und Evaluation**
+
+<sup>1</sup> Das Bundesamt für Statistik führt eine Kulturstatistik. Diese gibt insbesondere Auskunft über die Subventionen der öffentlichen Hand und die Beiträge von Privaten an die Kultur.
+
+<sup>2</sup> Der Bund überprüft periodisch die Wirksamkeit seiner Kulturpolitik und der getroffenen Förderungsmassnahmen.
+
+<sup>3</sup> Die Ergebnisse der Überprüfung werden veröffentlicht. Das Bundesamt für Kultur gibt den interessierten Kreisen Gelegenheit, zu den Ergebnissen Stellung zu nehmen.
+
+## 3. Kapitel: Stiftung Pro Helvetia
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 31
+
+**Rechtsform und Sitz**
+
+<sup>1</sup> Die Stiftung Pro Helvetia (Stiftung) ist eine öffentlich-rechtliche Stiftung mit eigener Rechtspersönlichkeit.
+
+<sup>2</sup> Sie organisiert sich selber und führt eine eigene Rechnung.
+
+<sup>3</sup> Sie hat ihren Sitz in Bern.
+
+#### Art. 32
+
+**Aufgaben**
+
+<sup>1</sup> Die Stiftung fördert die Vielfalt des künstlerischen Schaffens, macht das Schweizer Kunst- und Kulturschaffen bekannt, fördert die Volkskultur und pflegt den kulturellen Austausch.
+
+<sup>2</sup> Die Stiftung erfüllt ihre Aufgaben autonom.
+
+### 2. Abschnitt: Organe und Personal
+
+#### Art. 33
+
+**Organe**
+
+Die Organe der Stiftung sind:
+
+- a. der Stiftungsrat;
+- b. die Geschäftsleitung;
+- c. die Revisionsstelle.
+
+#### Art. 34
+
+**Stiftungsrat**
+
+<sup>1</sup> Der Stiftungsrat besteht aus sieben bis neun fachkundigen Mitgliedern.
+
+<sup>2</sup> Der Bundesrat wählt die Präsidentin oder den Präsidenten und die übrigen Mitglieder des Stiftungsrats für eine Amtsdauer von vier Jahren. Er strebt eine angemessene Vertretung der vier Sprachregionen an. Jedes Mitglied kann einmal wieder gewählt werden.
+
+<sup>3</sup> Der Bundesrat kann die Mitglieder des Stiftungsrats aus wichtigen Gründen abberufen.
+
+<sup>4</sup> Die Mitglieder des Stiftungsrats wahren die Interessen der Stiftung. Bei einem Interessenkonflikt tritt das betreffende Mitglied in den Ausstand. Dauerhafte Interessenkonflikte schliessen eine Mitgliedschaft aus.
+
+<sup>5</sup>
+
+Der Stiftungsrat hat folgende Aufgaben:
+
+- a. Er sorgt für die Umsetzung der vom Bundesrat festgelegten strategischen Ziele und erstattet dem Bundesrat Bericht über deren Erreichung.
+- b. Er verabschiedet das Budget.
+- c. Er nimmt den Geschäftsbericht ab und veröffentlicht diesen nach Genehmigung durch den Bundesrat.
+- d. Er ernennt die Direktorin oder den Direktor.
+- e. Er ernennt auf Antrag der Direktorin oder des Direktors die übrigen Mitglieder der Geschäftsleitung.
+- f. Er überwacht die Geschäftsführung.
+- g. Er wählt die Mitglieder der Fachkommission.
+- h. Er erlässt, unter Vorbehalt der Genehmigung durch den Bundesrat, die Anstellungsbedingungen.
+- i. Er erlässt die Geschäftsordnung und die Beitragsverordnung der Stiftung.
+
+<sup>6</sup> Für das Honorar der Mitglieder des Stiftungsrats und für weitere mit diesen Personen vereinbarte Vertragsbedingungen gilt Artikel 6*a* des Bundespersonalgesetzes vom 24. März 2000[^34-1] (BPG) sinngemäss.
+
+[^34-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 35
+
+**Geschäftsleitung**
+
+<sup>1</sup> Die Geschäftsleitung ist das operative Organ. Sie erfüllt alle Aufgaben, die keinem anderen Organ zugewiesen sind.
+
+<sup>2</sup> Die Mitglieder der Geschäftsleitung wahren die Interessen der Stiftung. Bei einem Interessenkonflikt tritt das betreffende Mitglied in den Ausstand. Dauerhafte Interessenkonflikte schliessen eine Mitgliedschaft aus.
+
+<sup>3</sup>
+
+Die Direktorin oder der Direktor steht der Geschäftsleitung vor. Sie oder er:
+
+- a. stellt das Personal der Stiftung an;
+- b. vertritt die Stiftung nach aussen;
+- c. entscheidet auf Antrag der Fachkommission über erhebliche Finanzhilfen und über wichtige stiftungseigene Programme; vom Antrag abweichende Entscheide sind zu begründen.
+
+<sup>4</sup> Die Einzelheiten werden in der Geschäftsordnung geregelt.
+
+#### Art. 36
+
+**Revisionsstelle**
+
+<sup>1</sup> Die Revisionsstelle wird vom Bundesrat gewählt.
+
+<sup>2</sup> Der Prüfauftrag, die Stellung, Befähigung, Unabhängigkeit, Amtsdauer und Berichterstattung der Revisionsstelle richten sich, unter Vorbehalt von Absatz 3, sinngemäss nach den Artikeln 727–731*a* des Obligationenrechts[^36-1].
+
+<sup>3</sup> Die Revisionsstelle erstattet dem Stiftungsrat und dem Bundesrat Bericht über das Ergebnis der Prüfung.
+
+<sup>4</sup> Der Bundesrat kann die Revisionsstelle aus wichtigen Gründen abberufen.
+
+[^36-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 37
+
+**Fachkommission**
+
+<sup>1</sup> Die Fachkommission besteht aus höchstens dreizehn Mitgliedern.
+
+<sup>2</sup> Die Mitglieder der Fachkommission werden für vier Jahre gewählt. Sie können einmal wiedergewählt werden.
+
+<sup>3</sup> Die Fachkommission begutachtet Gesuche um Gewährung erheblicher Finanzhilfen und wichtige stiftungseigene Programme.
+
+<sup>4</sup> Organisation und Arbeitsweise der Fachkommission werden in der Geschäftsordnung der Stiftung geregelt.
+
+#### Art. 38
+
+**Geschäftsstelle**
+
+<sup>1</sup> Die Stiftung verfügt über eine Geschäftsstelle in der Schweiz und Aussenstellen im Ausland.
+
+<sup>2</sup> Die Geschäftsstelle entscheidet ohne Antrag der Fachkommission über nicht erhebliche Finanzhilfen und über stiftungseigene Programme von geringer Bedeutung.
+
+#### Art. 39
+
+**Personal**
+
+<sup>1</sup> Das Personal der Stiftung und die Mitglieder der Geschäftsleitung werden privatrechtlich angestellt.
+
+<sup>2</sup> Die Stiftung berücksichtigt bei ihrer Personalpolitik die Artikel 4 und 5 BPG[^39-1].
+
+<sup>3</sup> Für den Lohn der Direktorin oder des Direktors und der übrigen Mitglieder der Geschäftsleitung sowie für weitere mit diesen Personen vereinbarte Vertragsbedingungen gilt Artikel 6*a* BPG sinngemäss.
+
+<sup>4</sup> Entlöhnung, Nebenleistungen und weitere Vertragsbedingungen werden im Personalreglement geregelt.
+
+<sup>5</sup> Das Personal der Stiftung ist bei der Pensionskasse des Bundes (PUBLICA) versichert.
+
+[^39-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+### 3. Abschnitt: Finanzen
+
+#### Art. 40
+
+**Finanzierung**
+
+<sup>1</sup> Die Stiftung verfügt über ein unantastbares Stiftungsvermögen von 100 000 Franken.
+
+<sup>2</sup> Der Bund gewährt der Stiftung im Rahmen der nach Artikel 27 Absatz 3 Buchstabe a bewilligten Mittel jährliche Beiträge.
+
+<sup>3</sup> Zuwendungen von dritter Seite, die nicht mit besonderer Zweckbestimmung verbunden sind, werden zum Stiftungsvermögen geschlagen.
+
+#### Art. 41
+
+**Tresorerie**
+
+<sup>1</sup> Die liquiden Mittel der Stiftung werden von der Eidgenössischen Finanzverwaltung im Rahmen der zentralen Tresorerie verwaltet.
+
+<sup>2</sup> Die Eidgenössische Finanzverwaltung gewährt der Stiftung zur Sicherstellung der Zahlungsbereitschaft im Rahmen ihrer Aufgabenerfüllung nach Artikel 23 Absatz 2 Darlehen zu marktkonformen Bedingungen.
+
+<sup>3</sup> Die Einzelheiten werden in einem öffentlich-rechtlichen Vertrag zwischen dem Bund und der Stiftung geregelt.
+
+#### Art. 42
+
+**Rechnungslegung**
+
+<sup>1</sup> Mit der Rechnungslegung der Stiftung sollen die Vermögens-, die Finanz- und die Ertragslage den tatsächlichen Verhältnissen entsprechend dargestellt werden.
+
+<sup>2</sup> Die Rechnungslegung folgt den Grundsätzen der Wesentlichkeit, der Verständlichkeit, der Stetigkeit und der Bruttodarstellung und orientiert sich an allgemein anerkannten Standards.
+
+<sup>3</sup> Die aus den Rechnungslegungsgrundsätzen abgeleiteten Bilanzierungs- und Bewertungsregeln sind offenzulegen.
+
+<sup>4</sup> Der Bundesrat kann Vorschriften zur Rechnungslegung erlassen.
+
+#### Art. 43
+
+**Steuern**
+
+<sup>1</sup> Die Stiftung ist von der Besteuerung durch Bund, Kantone und Gemeinden befreit.
+
+<sup>2</sup>
+
+Vorbehalten bleiben folgende Bundessteuern:
+
+- a. die Mehrwertsteuer;
+- b. die Verrechnungssteuer;
+- c. die Stempelabgaben.
+
+### 4. Abschnitt: Wahrung der Bundesinteressen
+
+#### Art. 44
+
+**Aufsicht**
+
+<sup>1</sup> Die Stiftung untersteht der Aufsicht des Bundesrats.
+
+<sup>2</sup> Der Bundesrat übt seine Aufsichtsfunktion insbesondere durch die Wahl des Stiftungsrats, die Genehmigung des Geschäftsberichts und des Personalreglements sowie durch die Entlastung des Stiftungsrats aus.
+
+#### Art. 45
+
+**Strategische Ziele**
+
+<sup>1</sup> Der Bundesrat legt für jeweils vier Jahre die strategischen Ziele der Stiftung fest. Er sorgt dafür, dass der Stiftungsrat vorher angehört wird. Er achtet auf die operative und künstlerische Freiheit der Stiftung.
+
+<sup>2</sup> Er überprüft jährlich die Erreichung der strategischen Ziele gestützt auf den Bericht des Stiftungsrats und allfällige weitere Abklärungen.
+
+## 4. Kapitel: Schlussbestimmungen
+
+#### Art. 46
+
+**Vollzug**
+
+Der Bundesrat erlässt die Ausführungsbestimmungen.
+
+#### Art. 47
+
+**Aufhebung und Änderung bisherigen Rechts**
+
+Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
+
+#### Art. 48
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Inkrafttreten: 1. Januar 2012[^48-1] Art. 9: 1. Januar 2013[^48-2]
+
+[^48-1]: BRB vom 20. Dez. 2011
+[^48-2]: V vom 7. Nov. 2012
+
+Anhang
+
+(Art. 47)
+
+## Aufhebung und Änderung bisherigen Rechts
+
+I
+
+Folgende Erlasse werden aufgehoben:
+
+- 1\. Bundesgesetz vom 19. Dezember 2003[^annexu1-lvlu1-1] über die Ausrichtung von Finanzhilfen an die Stiftung Bibliomedia;
+- 2\. Bundesgesetz vom 20. März 2008[^annexu1-lvlu1-2] über die Ausrichtung von Finanzhilfen an das Verkehrshaus der Schweiz;
+- 3\. Bundesgesetz vom 16. Dezember 2005[^annexu1-lvlu1-3] über die Ausrichtung von Finanzhilfen an den Verein Memoriav;
+- 4\. Bundesbeschluss vom 22. Dezember 1887[^annexu1-lvlu1-4] betreffend die Förderung und Hebung der schweizerischen Kunst;
+- 5\. Bundesbeschluss vom 18. Dezember 1917[^annexu1-lvlu1-5] betreffend die Förderung und Hebung der angewandten (industriellen und gewerblichen) Kunst;
+- 6\. Bundesgesetz vom 17. Dezember 1965[^annexu1-lvlu1-6] betreffend die Stiftung Pro Helvetia;
+- 7\. Bundesgesetz vom 7. Oktober 1994[^annexu1-lvlu1-7] betreffend die Stiftung «Zukunft für Schweizer Fahrende».
+
+II
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+…[^annexu1-lvlu1-8]
+
+[^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
+[^annexu1-lvlu1-2]: [[AS 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]
+[^annexu1-lvlu1-3]: [[AS 2006 1255](https://fedlex.data.admin.ch/eli/oc/2006/219)]
+[^annexu1-lvlu1-4]: [BS **4** 199]
+[^annexu1-lvlu1-5]: [BS **4** 212; [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 6]
+[^annexu1-lvlu1-6]: [[AS 1966 665](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685), [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821), [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)Anhang 3 Ziff. 10, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 42]
+[^annexu1-lvlu1-7]: [[AS 1996 3040](https://fedlex.data.admin.ch/eli/oc/1996/3040_3040_3040)]
+[^annexu1-lvlu1-8]: Die Änderungen können unter [AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854)konsultiert werden.

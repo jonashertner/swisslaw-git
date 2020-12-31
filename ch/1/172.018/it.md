@@ -1,0 +1,143 @@
+---
+sr: "172.018"
+title: "Ordinanza del 14 agosto 1991 sull'attuazione di programmi e progetti ecologici d'importanza globale nei Paesi in sviluppo"
+eli: "https://fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856"
+language: it
+version: 1999-07-01
+adopted: 1991-08-14
+in_force: 1991-08-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856/19990701/it/xml/fedlex-data-admin-ch-eli-cc-1991-1856_1856_1856-19990701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1856_1856_1856/19990701/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sull’attuazione di programmi e progetti ecologici d’importanza globale nei Paesi in sviluppo
+
+del 14 agosto 1991 (Stato 1° luglio 1999)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 102 numero 5 della Costituzione federale[^ingress-1]; visto l’articolo 61 capoverso 2 della legge sull’organizzazione dell’amministrazione[^ingress-2],
+
+ordina:
+
+[^ingress-1]: [CS **1** 3]. Vedi ora l’art. 182 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362), [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)appendice n. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora «la LF sull’organizzazione del Governo e dell’Amministrazione» ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina l’attuazione dei provvedimenti previsti nell’ambito del credito quadro per il finanziamento, nei Paesi in sviluppo, di programmi e progetti ecologici di importanza globale. Essa stabilisce segnatamente le competenze decisionali e finanziarie in quanto non disciplinate in altri atti normativi.
+
+#### Art. 2
+
+**Competenze dei singoli servizi federali**
+
+<sup>1</sup>
+
+I servizi federali competenti per la pianificazione e l’attuazione dei provvedimenti sono:
+
+- a. la Direzione della cooperazione allo sviluppo e dell’aiuto umanitario (DSA) per le azioni bilaterali e multibilaterali, compresi i contributi a programmi coordinati sul piano internazionale, ma delimitati regionalmente, nonché per provvedimenti a favore della partecipazione dei Paesi in sviluppo a conferenze internazionali e negoziati per convenzioni internazionali.
+- b. L’Ufficio federale dell’ambiente, delle foreste e del paesaggio (UFAFP) per contributi a fondi multilaterali, compresa la facilitazione globale per l’ambiente della Banca mondiale.
+
+<sup>2</sup> Il Segretariato di Stato dell’economia (Seco)[^2-1] è competente per i negoziati concernenti contributi a fondi della Banca mondiale e delle banche regionali di sviluppo nel campo globale ambientale.
+
+[^2-1]: Nuova denominazione giusta l’art. 21 n. 1 dell’O del 17 nov. 1999, in vigore dal 1° lug. 1999 ([RU 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Di detta modificazione è stato tenuto conto in tutto il presente testo.
+
+#### Art. 3
+
+**Collaborazione tra i diversi servizi federali**
+
+<sup>1</sup> Per i contributi a fondi multilaterali, giusta l’articolo 2 capoverso 1 lettera b, l’UFAFP agisce d’intesa con la Direzione delle organizzazioni internazionali (DOI).
+
+<sup>2</sup>
+
+Per le decisioni concernenti il finanziamento dei provvedimenti è necessario il consenso dei seguenti servizi federali:
+
+- a. l’UFAFP e la DOI per provvedimenti giusta l’articolo 2 capoverso 1 lettera a;
+- b. la DSA per azioni giusta l’articolo 2 capoverso 1 lettera b;
+- c. il Seco per provvedimenti di politica economica e commerciale, nonché per la partecipazione a programmi e fondi della Banca mondiale e di banche regionali di sviluppo.
+
+<sup>3</sup> Il Seco conduce i negoziati con la Banca mondiale e le banche regionali di sviluppo giusta l’articolo 2 capoverso 2, d’intesa con l’UFAFP, la DOI e la DSA.
+
+#### Art. 4
+
+**Concezione globale**
+
+La concezione globale del contributo svizzero alla collaborazione internazionale con i Paesi in sviluppo nel campo dei problemi ecologici globali è compito comune della DOI, della DSA, dell’UFSFP e del Seco, nonché dell’Amministrazione federale delle finanze (AFF). Il coordinamento per lo svolgimento dei compiti della concezione globale è assicurato a turni di un anno dalla DOI e dall’UFAFP.
+
+#### Art. 5
+
+**Integrazione nel preventivo, amministrazione e controllo dei mezzi finanziari**
+
+<sup>1</sup> I crediti annui destinati al finanziamento dei provvedimenti bilaterali e multibilaterali sono integrati nel preventivo della DSA e quelli destinati a contributi a fondi multilaterali in quello dell’UFAFP.
+
+<sup>2</sup> Ogni ufficio federale competente esegue esso stesso i controlli delle quote del credito quadro che gli sono assegnate.
+
+<sup>3</sup> La DSA elabora semestralmente un compendio consolidato degli impegni e delle spese per la totalità del credito quadro. L’UFAFP fornisce all’uopo i dati necessari sui mezzi finanziari da esso amministrati.
+
+#### Art. 6
+
+**Competenze finanziarie**
+
+<sup>1</sup> Il Consiglio federale decide circa i provvedimenti il cui costo supera i 20 milioni di franchi.[^6-1]
+
+<sup>2</sup> Il Dipartimento preposto all’Ufficio federale competente decide, d’intesa con il Dipartimento federale delle finanze, circa i provvedimenti compresi tra i 5 milioni e i 20 milioni di franchi.[^6-2]
+
+<sup>3</sup> L’Ufficio federale competente decide circa i provvedimenti il cui costo è inferiore ai 5 milioni di franchi.[^6-3]
+
+<sup>4</sup> Sono fatte salve le competenze degli altri servizi federali conformemente all’articolo 3.
+
+[^6-1]: Nuovo testo giusta il n. I 12 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
+[^6-2]: Nuovo testo giusta il n. I 12 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
+[^6-3]: Nuovo testo giusta il n. I 12 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
+
+#### Art. 7
+
+**Sorpassi di spesa**
+
+I dipartimenti o i servizi federali competenti possono decidere, nell’ambito delle loro attribuzioni finanziarie, spese supplementari se il costo dell’esecuzione dei provvedimenti decisi non supera di più di un quarto la quota prevista.
+
+#### Art. 8
+
+**Modificazioni**
+
+I servizi federali competenti possono, in caso di bisogno, modificare un provvedimento se non ne risulta un sorpasso di spesa.
+
+#### Art. 9
+
+**Forma delle decisioni**
+
+I provvedimenti, i sorpassi di spesa e le modificazioni sono oggetto di decisioni scritte debitamente motivate.
+
+#### Art. 10
+
+**Autorizzazione**
+
+I capi di dipartimento o direttori competenti sono abilitati, nel quadro delle loro competenze finanziarie, ad autorizzare le spese necessarie in nome del Consiglio federale.
+
+#### Art. 11
+
+**Esecuzione**
+
+<sup>1</sup> I servizi federali competenti possono affidare l’esecuzione dei provvedimenti ad altri servizi o a compartecipanti esterni all’amministrazione federale.
+
+<sup>2</sup> I servizi federali competenti possono concludere accordi di diritto privato o pubblico per l’esecuzione di provvedimenti, fatto salvo lo stanziamento dei crediti necessari.
+
+<sup>3</sup> Il personale necessario all’esecuzione può essere impiegato e i posti di lavoro corrispondenti creati a carico del credito quadro.
+
+#### Art. 12
+
+**Controllo dell’utilizzazione dei mezzi finanziari**
+
+<sup>1</sup> I servizi federali competenti controllano l’utilizzazione dei fondi.
+
+<sup>2</sup> Onde giustificare l’utilizzazione dei fondi, se necessario questi servizi federali emanano, in collaborazione con l’Ufficio federale delle finanze, linee direttive specifiche.
+
+#### Art. 13
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 15 agosto 1991.

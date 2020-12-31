@@ -1,0 +1,395 @@
+---
+sr: "941.212"
+title: "Ordinanza del DFGP del 19 marzo 2006 sugli impianti di misurazione e gli strumenti di misurazione di liquidi diversi dall'acqua (OLDDA)"
+short: OLDDA
+eli: "https://fedlex.data.admin.ch/eli/cc/2006/247"
+language: it
+version: 2021-01-01
+adopted: 2006-03-19
+in_force: 2006-10-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/247/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-247-20210101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/247/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFGP sugli impianti di misurazione e gli strumenti di misurazione di liquidi diversi dall’acqua
+
+(OLDDA)[^t-1]
+
+del 19 marzo 2006 (Stato 1° gennaio 2021)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 20 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4625](https://fedlex.data.admin.ch/eli/oc/2020/826)).
+
+Il Dipartimento federale di giustizia e polizia (DFGP),
+
+visti gli articoli 5 capoverso 2, 8 capoverso 2, 11 capoverso 2, 24 capoverso 3 e 33 dell’ordinanza del 15 febbraio 2006[^ingress-1] sugli strumenti di misurazione (ordinanza sugli strumenti di misurazione),[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
+[^ingress-2]: Nuovo testo giusta il n. I 7 dell’O del DFGP del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+
+#### Art. 1
+
+**Oggetto**[^1-1]
+
+La presente ordinanza disciplina:
+
+- a. i requisiti degli impianti di misurazione e degli strumenti di misurazione di liquidi diversi dall’acqua;
+- b. le procedure per l’immissione di tali impianti e di tali strumenti sul mercato;
+- c. le procedure per il mantenimento della stabilità di misurazione di tali impianti e di tali strumenti.
+
+[^1-1]: Nuovo testo giusta il n. I 7 dell’O del DFGP del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+La presente ordinanza si applica agli strumenti[^2-1] e agli impianti destinati alla misurazione continua e dinamica di quantità (volumi o masse) di liquidi diversi dall’acqua.
+
+[^2-1]: Nuovo termine giusta il n. I 7 dell’O del DFGP del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 3
+
+**Definizioni**
+
+Ai sensi della presente ordinanza s’intende per:
+
+- a. *contatore:* strumento inteso a misurare in modo continuato, a memorizzare e a visualizzare la quantità del liquido che passa, in condizioni d’esercizio, attraverso il trasduttore di misurazione in un condotto chiuso e a pieno carico;
+- b. *calcolatore:* la parte del contatore che riceve i segnali in uscita dal o dai trasduttori di misurazione e da eventuali strumenti di misurazione associati e indica i risultati della misurazione;
+- c. *strumento di misurazione associato:* strumento che è collegato al calcolatore e misura determinate grandezze caratteristiche del liquido allo scopo di operare una correzione o una conversione;
+- d.
+
+  *dispositivo di conversione:* la parte del calcolatore, composta di strumenti di misurazione associati, che, tenendo conto delle caratteristiche del liquido, per esempio temperatura o densità, determinate mediante strumenti di misurazione associati o immagazzinate in una memoria, converte automaticamente:
+
+  - 1\. il volume del liquido determinato in condizioni di misurazione in un volume in condizioni di base o in una massa; oppure
+  - 2\. la massa del liquido determinata in condizioni di misurazione in un volume in condizioni di misurazione o in un volume in condizioni di base.
+
+- e. *impianto di misurazione:* impianto che include il contatore stesso e tutti i dispositivi necessari a garantire una corretta misurazione o intesi ad agevolare le operazioni di misurazione.
+
+#### Art. 4
+
+**Condizioni di riferimento**
+
+Come condizioni di riferimento (condizioni di base) per la determinazione di quantità di liquido valgono:
+
+<table>
+<tr><td>a. pressione</td><td>101 325 Pa;</td></tr>
+<tr><td>b. temperatura</td><td>20 °C in generale; 15 °C per i combustibili e i carburanti;</td></tr>
+<tr><td>c. massa volumetrica di riferimento dei pesi campione</td><td>8000 kg/m<sup>3</sup>.</td></tr>
+</table>
+
+#### Art. 5
+
+**Obbligo d’indicazione del volume alla temperatura di riferimento**
+
+<sup>1</sup> Nel commercio di combustibili e carburanti liquidi in base al volume, la quantità del liquido oggetto della transazione (volume) e il prezzo unitario devono essere riferiti e dichiarati alla temperatura di 15 °C. Le pertinenti tabelle che figurano nelle norme di cui all’allegato 1 servono di base a tale conversione.
+
+<sup>2</sup> L’obbligo d’indicazione della quantità a 15 °C conformemente al capoverso 1 non si applica alla vendita di carburanti, nelle quantità usuali, ai consumatori finali operata nei distributori.
+
+#### Art. 6
+
+**Requisiti essenziali**
+
+Gli impianti di misurazione di liquidi devono soddisfare i requisiti essenziali di cui all’allegato 1 dell’ordinanza sugli strumenti di misurazione e all’allegato 2 della presente ordinanza.
+
+#### Art. 7
+
+**Procedure per l’immissione sul mercato**
+
+La conformità degli impianti di misurazione di liquidi ai requisiti essenziali secondo l’articolo 6 è valutata e attestata, a scelta del fabbricante, secondo una delle seguenti procedure, che figurano nell’allegato 2 dell’ordinanza sugli strumenti di misurazione:
+
+- a. l’esame del tipo (modulo B), seguito dalla dichiarazione di conformità al tipo basata sulla verifica del prodotto (modulo F);
+- b. l’esame del tipo (modulo B), seguito dalla dichiarazione di conformità al tipo basata sulla garanzia di qualità del processo di produzione (modulo D);
+- c. la dichiarazione di conformità basata sulla garanzia di qualità totale e sull’esame del progetto (modulo H1);
+- d. la dichiarazione di conformità basata sulla verifica di un unico prodotto (modulo G).
+
+#### Art. 8
+
+**Procedure per il mantenimento della stabilità di misurazione**
+
+<sup>1</sup> Gli impianti di misurazione di liquidi devono essere presentati a un ufficio di verificazione cantonale per la verificazione successiva conformemente all’allegato 7 numero 1 dell’ordinanza sugli strumenti di misurazione.
+
+<sup>1bis</sup> Nel caso di distributori di carburante, la prima verificazione successiva deve essere effettuata nel corso dell’anno successivo a quello stampato sulla targa segnaletica.[^8-1]
+
+<sup>2</sup>
+
+La durata di validità della verificazione successiva è di:
+
+- a. un anno, per gli impianti di misurazione che devono essere smontati in servizio;
+- b. un anno, per gli impianti di misurazione con compensazione della temperatura, con sistema di rilevamento dei gas o separatore di gas;
+- c. due anni, per tutti i distributori di carburante;
+- d. due anni, per tutti gli altri impianti di misurazione.
+
+<sup>3</sup> L’Istituto federale di metrologia[^8-2] può, per singoli tipi, prolungare o abbreviare tali termini, se le caratteristiche metrologiche degli strumenti utilizzati lo consentono o lo esigono.[^8-3]
+
+<sup>4</sup> Fuori del campo di misurazione prestabilito, gli impianti di misurazione sono considerati non controllati ufficialmente.
+
+[^8-1]: Introdotto dal n. I dell’O del DFGP del 20 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4625](https://fedlex.data.admin.ch/eli/oc/2020/826)).
+[^8-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-3]: Nuovo testo giusta il n. I dell’O del DFGP del 20 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4625](https://fedlex.data.admin.ch/eli/oc/2020/826)).
+
+#### Art. 9
+
+**Obblighi dell’utilizzatore**
+
+Oltre alla responsabilità di cui all’articolo 21 capoverso 1 dell’ordinanza sugli strumenti di misurazione, l’utilizzatore è responsabile:
+
+- a. di far osservare le istruzioni del fabbricante relative all’installazione e alla messa in servizio del strumento di misurazione;
+- b. della manutenzione degli strumenti di misurazione e della revisione periodica delle loro parti sottoposte a usura, a invecchiamento e a insudiciamento.
+
+#### Art. 10
+
+**Errori massimi tollerati in caso di controlli**
+
+In caso di contestazione ai sensi dell’articolo 29 capoverso 1 dell’ordinanza sugli strumenti di misurazione o in occasione dei controlli ufficiali di strumenti di misurazione fuori della verificazione, gli errori massimi tollerati corrispondono al doppio di quelli definiti nell’allegato 2 della presente ordinanza.
+
+#### Art. 11
+
+**Abrogazione del diritto vigente**
+
+L’ordinanza del 1° dicembre 1986[^11-1] sugli apparecchi di misurazione per liquidi altri che l’acqua è abrogata.
+
+[^11-1]: [[RU 1987 216](https://fedlex.data.admin.ch/eli/oc/1987/216_216_216), [1997 2761](https://fedlex.data.admin.ch/eli/oc/1997/2761_2761_2761)n. II lett. c]
+
+#### Art. 12
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Gli impianti di misurazione di liquidi che sono stati sottoposti alla verificazione prima dell’entrata in vigore della presente ordinanza possono essere sottoposti alla verificazione successiva.
+
+<sup>2</sup> Gli impianti di misurazione di liquidi che sono stati ammessi secondo il diritto previgente possono ancora essere immessi sul mercato e sottoposti alla verificazione iniziale conformemente all’allegato 5 numero 2 dell’ordinanza sugli strumenti di misurazione per dieci anni a decorrere dell’entrata in vigore della presente ordinanza. Potranno essere sottoposti alla verificazione successiva anche dopo che sono trascorsi i dieci anni.
+
+#### Art. 13
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 30 ottobre 2006.
+
+Allegato 1
+
+(art. 5 cpv. 1)
+
+## Tabelle di conversione dei combustibili e carburanti liquidi
+
+- – Recommandation Internationale OIML[^annex1-lvlu1-1] R 63: Tables de mesure du pétrole, (1994);
+- – Internationale Norm ISO 91-1:1992[^annex1-lvlu1-2]: Mineralölmesstafeln; Teil 1: Auf Bezugstemperatur von 15 °C und 60 °F basierende Tafeln.
+
+[^annex1-lvlu1-1]: OIML: Organisation Internationale de Métrologie Légale. L’Istituto federale di metrologia (METAS), 3003 Berna-Wabern, fornisce informazioni sulle raccomandazioni dell’OIML.
+[^annex1-lvlu1-2]: L’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch, fornisce informazioni sulle norme menzionate nel presente all.
+
+Allegato 2[^t-2]
+
+(art. 6)
+
+## Requisiti specifici degli impianti destinati alla misurazione continua e dinamica di quantità di liquidi diversi dall’acqua
+
+[^t-2]: Aggiornato dall’art. 14 dell’O del DFGP del 5 ott. 2010 sulla determinazione del tenore alcolico ([RU 2010 4595](https://fedlex.data.admin.ch/eli/oc/2010/664)) e dal n. II dell’O del DFGP del 20 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4625](https://fedlex.data.admin.ch/eli/oc/2020/826)).
+
+### A Definizioni
+
+Condizioni di base
+
+Condizioni specifiche in cui è convertita la quantità di liquido misurata alle condizioni di misurazione.
+
+Distributore di carburante
+
+Impianto di misurazione per il rifornimento in carburante di veicoli a motore, piccole imbarcazioni e piccoli aeromobili.
+
+Impianto self-service
+
+Impianto che consente al cliente di utilizzare autonomamente un impianto di misurazione per acquistare liquidi per il proprio uso personale.
+
+Dispositivo self-service
+
+Dispositivo specifico che è parte di un impianto self-service e consente a uno o più impianti di misurazione di funzionare in tale impianto self-service.
+
+Quantità minima misurata (QMM)
+
+La più piccola quantità di liquido per la quale la misurazione dell’impianto è accettabile sotto il profilo metrologico.
+
+Indicazione diretta
+
+Indicazione del volume o della massa corrispondente al misurando che lo strumento è in grado di misurare fisicamente.
+
+L’indicazione diretta può essere convertita nell’indicazione in un’altra grandezza mediante un dispositivo di conversione.
+
+Impianto di misurazione interrompibile
+
+Impianto di misurazione nel quale il flusso del liquido può essere interrotto facilmente e rapidamente.
+
+Campo di portata
+
+Il campo tra la portata minima *Q**<sub>min</sub>* e la portata massima *Q**<sub>max</sub>*.
+
+### B Requisiti metrologici
+
+### 1 Condizioni di funzionamento nominali
+
+- 1\.1 Il fabbricante deve specificare le condizioni di funzionamento nominali relative al campo di portata dello strumento.
+-
+
+  Il campo di portata deve rispettare le seguenti condizioni:
+
+  - a. il campo di portata di un impianto di misurazione deve rientrare nel campo di portata di ciascuno dei suoi elementi, in particolare in quello del contatore;
+  - b. contatore e impianto di misurazione:
+
+Tabella 1
+
+<table>
+<tr><th>Tipo di impianto di misurazione</th><th>Tipo di liquido</th><th>Rapporto minimo *Q**<sub>max</sub>**/Q**<sub>min</sub>*</th></tr>
+<tr><td>Distributore di carburante</td><td>diverso da gas liquefatto</td><td>10:1</td></tr>
+<tr><td></td><td>gas liquefatto</td><td>5:1</td></tr>
+<tr><td>Impianto di misurazione</td><td>liquidi criogenici</td><td>5:1</td></tr>
+<tr><td>Impianto di misurazione su condotta e impianto di misurazione per il carico di navi</td><td>tutti i liquidi</td><td>appropriato alle necessità</td></tr>
+<tr><td>Tutti gli altri impianti di misurazione</td><td>tutti i liquidi</td><td>4:1</td></tr>
+</table>
+
+- 1\.2
+
+  Il fabbricante deve specificare nelle condizioni di funzionamento nominali le proprietà del liquido da misurare con lo strumento, indicando la denominazione o il tipo del liquido o le sue caratteristiche peculiari, per esempio:
+
+  - – il campo della temperatura;
+  - – il campo della pressione;
+  - – il campo della densità;
+  - – il campo della viscosità.
+
+- 1\.3 Il fabbricante deve specificare le condizioni di funzionamento nominali relative all’alimentazione elettrica: il valore nominale della tensione di alimentazione in corrente alternata o i limiti della tensione di alimentazione in corrente continua.
+- 1\.4 Il fabbricante deve specificare le condizioni di base per le quantità convertite.
+
+### 2 Errori massimi tollerati
+
+- 2\.1 Per le quantità di almeno 2 L, gli errori massimi tollerati nell’indicazione sono i seguenti:
+
+Tabella 2
+
+<table>
+<tr><th></th><th colspan="5">Classe di accuratezza</th></tr>
+<tr><th></th><th>0,3</th><th>0,5</th><th>1,0</th><th>1,5</th><th>2,5</th></tr>
+<tr><td>A Impianti di misurazione</td><td>0,3 %</td><td>0,5 %</td><td>1,0 %</td><td>1,5 %</td><td>2,5 %</td></tr>
+<tr><td>B Contatori</td><td>0,2 %</td><td>0,3 %</td><td>0,6 %</td><td>1,0 %</td><td>1,5 %</td></tr>
+</table>
+
+- 2\.2 Per le quantità inferiori a 2 L, gli errori massimi tollerati nell’indicazione sono i seguenti:
+
+Tabella 3
+
+<table>
+<tr><th>Volume misurato V</th><th>Errori massimi tollerati</th></tr>
+<tr><td>V &lt; 0,1 L</td><td>4 × il valore indicato nella tabella 2, riferito a 0,1 L</td></tr>
+<tr><td>0,1 L ≤ V &lt; 0,2 L</td><td>4 × il valore indicato nella tabella 2</td></tr>
+<tr><td>0,2 L ≤ V &lt; 0,4 L</td><td>2 × il valore indicato nella tabella 2, riferito a 0,4 L</td></tr>
+<tr><td>0,4 L ≤ V &lt; 1 L</td><td>2 × il valore indicato nella tabella 2</td></tr>
+<tr><td>1 L ≤ V &lt; 2 L</td><td>il valore indicato nella tabella 2, riferito a 2 L</td></tr>
+</table>
+
+- 2\.3
+
+  Indipendentemente dalla quantità misurata, il valore assoluto degli errori massimi tollerati è pari al maggiore dei seguenti due valori:
+
+  - – il valore assoluto degli errori massimi tollerati indicati nella tabella 2 o 3;
+  - – il valore assoluto degli errori massimi tollerati per la quantità minima misurata *E**<sub>min</sub>*.
+
+- 2\.4.1 Per le quantità minime misurate pari o superiori a 2 L, valgono le seguenti condizioni:
+- *Condizione 1*
+- *E**<sub>min</sub>* soddisfa la condizione: *E**<sub>min</sub>* ≥ 2×*R*, dove *R* è la più piccola divisione di scala del dispositivo indicatore.
+- *Condizione 2*
+-
+
+  *E**<sub>min</sub>* è dato dall’equazione: *E**<sub>min</sub>* = (2×*QMM*)×(A/100), dove:
+
+  - – *QMM* è la quantità minima misurata;
+  - – A è il valore numerico specificato nella tabella 2 lettera A.
+
+- 2\.4.2 Per le quantità minime misurate inferiori a 2 L, vale la condizione 1 del numero 2.4.1, ed *E**<sub>min</sub>* è pari al doppio del valore specificato nella tabella 3 che si riferisce alla tabella 2 lettera A.
+- 2\.5 Conversione dell’indicazione
+- In caso di conversione dell’indicazione, gli errori massimi tollerati sono quelli riportati nella tabella 2 lettera A.
+- 2\.6 Dispositivo di conversione
+- In caso di conversione dell’indicazione mediante un dispositivo di conversione, gli errori massimi tollerati sono pari a ± (A–B), dove A e B sono i valori secondo la tabella 2.
+-
+
+  Sottounità del dispositivo di conversione che possono essere sottoposte separatamente a prova:
+
+  - a. Calcolatore
+  - L’errore massimo tollerato, positivo o negativo, per quanto concerne le indicazioni delle quantità di liquido applicabili al calcolo, è pari a un decimo dell’errore massimo tollerato secondo la tabella 2 lettera A;
+  - b. Strumenti di misurazione associati
+  - Gli strumenti di misurazione associati devono avere un’accuratezza almeno pari a quella dei valori riportati nella tabella 4:
+
+Tabella 4
+
+<table>
+<tr><th>Errori massimi tollerati per la misurazione della</th><th colspan="5">Classe di accuratezza dell’impianto di misurazione</th></tr>
+<tr><th></th><th>0,3</th><th>0,5</th><th>1,0</th><th>1,5</th><th>2,5</th></tr>
+<tr><td>temperatura</td><td>± 0,3 °C</td><td colspan="3">± 0,5 °C</td><td>± 1,0 °C</td></tr>
+<tr><td>pressione</td><td></td><td colspan="3">meno di 1 MPa: ± 50 kPa da 1 a 4 MPa: ± 5 % più di 4 MPa: ± 200 kPa</td><td></td></tr>
+<tr><td>densità</td><td>± 1 kg/m<sup>3</sup></td><td colspan="3">± 2 kg/m<sup>3</sup></td><td>± 5 kg/m<sup>3</sup></td></tr>
+</table>
+
+- Detti valori si applicano all’indicazione delle grandezze caratteristiche del liquido visualizzate dal dispositivo di conversione;
+  - c. Accuratezza della funzione di calcolo
+  - L’errore massimo tollerato, positivo o negativo, nel calcolo di ciascuna grandezza caratteristica del liquido è pari a due quinti del valore secondo la lettera b.
+
+- 2\.7 Il requisito di cui al numero 2.6 lettera a si applica a qualsiasi calcolo, non solo alla conversione.
+
+### 3 Immunità elettromagnetica
+
+- 3\.1
+
+  L’influenza di un’interferenza elettromagnetica su un impianto di misurazione deve essere tale che:
+
+  - – la variazione del risultato della misurazione non superi il valore di variazione critico secondo il numero 3.2;
+  - – l’indicazione del risultato della misurazione mostri una variazione momentanea che non può essere interpretata, memorizzata o trasmessa come un risultato valido della misurazione; oppure
+  - – se la variazione del risultato della misurazione supera il valore di variazione critico, l’impianto di misurazione debba consentire di ricuperare il risultato della misurazione immediatamente antecedente al superamento del valore di variazione critico e di interrompere il flusso del liquido.
+
+- 3\.2 Il valore di variazione critico è il maggiore dei due valori seguenti: un quinto degli errori massimi tollerati per una determinata quantità misurata o *E**<sub>min</sub>*.
+
+### 4 Durabilità
+
+- Dopo l’esecuzione di una prova appropriata che tiene conto del periodo di tempo stimato dal fabbricante, deve essere soddisfatto il seguente criterio:
+- dopo la prova di durabilità, la variazione del risultato della misurazione rispetto al risultato della misurazione iniziale non deve superare il valore per i contatori specificato nella tabella 2 lettera B.
+
+### 5 Idoneità
+
+- 5\.1 Per ogni quantità misurata relativa alla medesima misurazione e nel caso in cui i dispositivi hanno le medesime divisioni di scala, le indicazioni fornite dai vari dispositivi non devono differire fra loro in misura superiore a una divisione di scala. Nel caso in cui i dispositivi hanno divisioni di scala differenti, lo scarto non deve superare il valore di una divisione della scala più elevata.
+- Negli impianti self-service tuttavia le divisioni di scala del dispositivo indicatore principale e quelle degli elementi del dispositivo self-service devono essere le stesse, per cui i risultati della misurazione non possono differire l’uno dall’altro.
+- 5\.2 Non deve essere possibile deviare la quantità misurata in normali condizioni d’impiego, a meno che tale deviazione sia evidente.
+- 5\.3
+
+  La percentuale d’aria o di gas presente nel liquido non deve portare a uno scarto superiore ai valori seguenti:
+
+  - – 0,5 % per i liquidi diversi dai liquidi potabili e per i liquidi con una viscosità di 1 mPa·s al massimo; oppure
+  - – 1 % per i liquidi potabili e per i liquidi con una viscosità superiore a 1 mPa·s.
+
+- Non è tuttavia necessario che lo scarto ammissibile sia inferiore all’1 % della quantità minima misurata.
+- 5\.4 *Strumenti destinati alle transazioni commerciali di vendita diretta*
+- 5\.4.1 Gli impianti di misurazione destinati alle transazioni commerciali di vendita diretta devono essere muniti di un dispositivo di azzeramento dell’indicatore. Non deve essere possibile deviare la quantità misurata.
+- 5\.4.2 L’indicazione della quantità su cui si basa la transazione deve permanere fino al momento in cui tutte le parti della transazione hanno accettato il risultato della misurazione.
+- 5\.4.3 Gli impianti di misurazione destinati alle transazioni commerciali di vendita diretta devono essere interrompibili.
+- 5\.4.4 La percentuale d’aria o di gas presente nel liquido non deve portare a uno scarto superiore ai valori di cui al numero 5.3.
+- 5\.5 *Distributori di carburante*
+- 5\.5.1 Durante una misurazione non deve essere possibile riazzerare l’indicatore del distributore di carburante.
+- 5\.5.2 Deve essere possibile avviare una nuova misurazione soltanto dopo l’avvenuto azzeramento dell’indicatore.
+- 5\.5.3 Se l’impianto di misurazione è munito di un indicatore del prezzo, la differenza tra il prezzo indicato e il prezzo calcolato in base al prezzo unitario e alla quantità indicata non deve essere superiore al prezzo corrispondente a *E**<sub>min</sub>*. Non è tuttavia richiesto che tale differenza sia inferiore alla più piccola unità monetaria.
+
+### 6 Interruzione dell’alimentazione elettrica
+
+- Gli impianti di misurazione devono essere muniti o di un gruppo elettrogeno d’emergenza atto a garantire l’integrità di tutte le funzioni di misurazione in caso d’interruzione della fonte principale d’alimentazione elettrica o di dispositivi atti a memorizzare e indicare i dati presenti per consentire la conclusione della transazione in corso, e di dispositivi atti ad arrestare il flusso del liquido nel momento in cui s’interrompe la fonte principale d’alimentazione elettrica.
+
+### 7 Messa in servizio
+
+Tabella 5
+
+<table>
+<tr><th>Classe di accuratezza</th><th>Tipo di impianto di misurazione</th></tr>
+<tr><td>0,3</td><td>Impianti di misurazione su condotta Impianti di misurazione per determinare la quantità di alcol</td></tr>
+<tr><td>0,5</td><td>Tutti gli impianti di misurazione non indicati specificamente in altra parte della presente tabella, in particolare: – distributori di carburante (tranne gas liquefatti); – impianti di misurazione su autobotti per liquidi a bassa viscosità (≤ 20 mPa·s); – impianti di misurazione per caricare o scaricare navi cisterna, autocisterne e vagone cisterna <sup>a</sup>; – impianti di misurazione per il latte; – impianti di misurazione per il rifornimento di aeromobili.</td></tr>
+<tr><td>1,0</td><td>Impianti di misurazione per gas liquefatti a pressione misurati a temperature ≥ –10 °C; Impianti di misurazione di norma classificati nella classe 0,3 o 0,5, ma utilizzati per liquidi: – la cui temperatura è inferiore a –10 °C o superiore a +50 °C; – la cui viscosità è superiore a 1000 mPa·s; – la cui portata volumetrica massima non è superiore a 20 L/h.</td></tr>
+<tr><td>1,5</td><td>Impianti di misurazione per biossido di carbonio liquefatto; Impianti di misurazione per gas liquefatti a pressione misurati a temperature inferiori a –10 °C (tranne liquidi criogenici).</td></tr>
+<tr><td>2,5</td><td>Impianti di misurazione per liquidi criogenici (temperature inferiori a –153 °C).</td></tr>
+<tr><td colspan="2"><sup>a</sup> Gli impianti di misurazione per caricare o scaricare navi cisterna, autocisterne e vagoni cisterna possono appartenere alla classe di accuratezza 0,3, se utilizzati per la riscossione delle accise sugli oli minerali. Il fabbricante può tuttavia indicare per un determinato impianto di misurazione una classe di accuratezza migliore.</td></tr>
+</table>
+
+### 8 Unità di misura
+
+- Le quantità misurate sono indicate in ml, cm<sup>3</sup>, L o l, m<sup>3</sup>, g, kg o t.

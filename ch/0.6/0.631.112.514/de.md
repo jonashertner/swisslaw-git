@@ -1,0 +1,382 @@
+---
+sr: "0.631.112.514"
+title: Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Schlussprotokoll und Anhängen)
+eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
+language: de
+version: 2020-10-06
+adopted: 1923-03-29
+in_force: 1924-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20201006/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20201006-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20201006/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Vertrag zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet
+
+BS **11** 160; BBl **1923** II 374
+
+Originaltext
+
+Abgeschlossen am 29. März 1923 Von der Bundesversammlung genehmigt am 21. Dezember 1923[^t-1] Ratifikationsurkunden ausgetauscht am 28. Dezember 1923 In Kraft getreten am 1. Januar 1924
+
+(Stand am 6. Oktober 2020)
+
+[^t-1]: AS **39** 550
+
+Der Schweizerische Bundesrat und Seine Durchlaucht der regierende Fürst von Liechtenstein,
+
+vom Wunsche beseelt, die zwischen der Schweiz und dem Fürstentum Liechtenstein bestehenden freundschaftlichen Beziehungen fester und inniger zu gestalten,
+
+und in der Absicht, einen Vertrag über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet, unter Vorbehalt der souveränen Hoheitsrechte Seiner Durchlaucht des Fürsten von Liechtenstein, zu schliessen,
+
+haben zu diesem Zwecke als Bevollmächtigte ernannt:
+
+(Es folgen die Namen der Bevollmächtigten)
+
+die, nachdem sie ihre Vollmachten in guter und gehöriger Form befunden haben, über folgende Bestimmungen übereingekommen sind:
+
+## Erster Abschnitt Allgemeine Bestimmungen
+
+#### Art. 1
+
+Gebiet des Fürstentums Liechtenstein wird an das schweizerische Zollgebiet angeschlossen und bildet einen Bestandteil des schweizerischen Zollgebietes.
+
+An der schweizerisch-liechtensteinischen Grenze dürfen daher während der Dauer dieses Vertrages von keiner Seite Abgaben erhoben sowie Beschränkungen und Verbote der Ein- und Ausfuhr erlassen werden, sofern solche nicht im Verkehr von Kanton zu Kanton als zulässig erklärt werden.
+
+#### Art. 2
+
+Alle Abgaben, die in Anwendung der nach Artikel 4 dieses Vertrages im Fürstentum geltenden Bundesgesetzgebung und der nach Artikel 7 geltenden Staatsverträge erhoben werden, sowie die in Anwendung eidgenössischen Rechtes ausgesprochenen Bussen sind in schweizerischer Währung zu entrichten.
+
+Die Schweizerische Eidgenossenschaft ihrerseits wird die nach Massgabe dieses Vertrages dem Fürstentum zu bezahlenden Beträge ebenfalls in schweizerischer Währung entrichten.
+
+#### Art. 3
+
+Der schriftliche Verkehr zwischen den eidgenössischen und den fürstlich liechtensteinischen Behörden kann direkt und ohne Inanspruchnahme des diplomatischen Weges erfolgen, soweit er die Anwendung des gegenwärtigen Vertrages beschlägt.
+
+## Zweiter Abschnitt Die in Liechtenstein anwendbare Bundesgesetzgebung
+
+#### Art. 4
+
+Von diesen Bestimmungen bleiben ausgenommen alle diejenigen Vorschriften der Bundesgesetzgebung, durch welche eine Beitragspflicht des Bundes begründet wird.
+
+Zufolge des Zollanschlusses finden im Fürstentum Liechtenstein in gleicher Weise Anwendung wie in der Schweiz die zur Zeit des Inkrafttretens dieses Vertrages geltenden und während dessen Dauer in Rechtswirksamkeit tretenden Bestimmungen:
+
+- 1\. der gesamten schweizerischen Zollgesetzgebung;
+- 2\. der übrigen Bundesgesetzgebung, soweit der Zollanschluss ihre Anwendung bedingt.
+
+#### Art. 5
+
+Das Fürstentum Liechtenstein wird, sofern es der Schweizerische Bundesrat als notwendig erachten sollte, für das Gebiet des Fürstentums
+
+Die Schweizerische Eidgenossenschaft wird, falls das Fürstentum Liechtenstein seinerseits vorher den Willen bekunden sollte, die in gegenwärtigem Artikel angeführten Gesetzesbestimmungen für das liechtensteinische Gebiet anzuerkennen und die erwähnten internationalen Vereinbarungen im Fürstentum anzuwenden, zu einer entsprechenden Regelung jederzeit Hand bieten.
+
+- 1\. die Bundesgesetzgebung über gewerbliches, literarisches und künstlerisches Eigentum sowie alle andern bei ihrer Handhabung subsidiär anwendbaren bundesgesetzlichen Erlasse für das Gebiet des Fürstentums in Kraft setzen und die gemäss diesen Gesetzen und den auf sie bezüglichen eidgenössischen Verordnungen sich ergebende Zuständigkeit der Bundesbehörden auch für das liechtensteinische Landesgebiet anerkennen;
+- 2\. die internationalen Übereinkünfte über gewerbliches, literarisches und künstlerisches Eigentum, denen die Schweiz angehört sowie die von der Schweiz über diese Rechtsgebiete mit andern Ländern getroffenen Sondervereinbarungen im Sinne des Artikels 7 des Vertrages zur Anwendung bringen.
+
+#### Art. 6
+
+In Ansehung der gemäss den Artikeln 4 und 5 im Fürstentum anzuwendenden Gesetzgebung kommt dem Fürstentum Liechtenstein die gleiche Rechtsstellung zu wie den schweizerischen Kantonen.
+
+#### Art. 7
+
+Kraft des gegenwärtigen Vertrages finden im Fürstentum Liechtenstein in gleicher Weise Anwendung wie in der Schweiz die von dieser mit dritten Staaten abgeschlossenen Handels- und Zollverträge, wobei die Schweiz ihre aus bestehenden Verträgen sich ergebenden Verpflichtungen vorbehält.
+
+#### Art. 8
+
+Das Fürstentum Liechtenstein wird während der Geltungsdauer dieses Vertrages mit keinem dritten Staate selbständig Handels- oder Zollverträge abschliessen.
+
+Das Fürstentum Liechtenstein ermächtigt die Schweizerische Eidgenossenschaft, es bei Unterhandlungen mit dritten Staaten über den Abschluss von Handels- und Zollverträgen, die während der Geltungsdauer des gegenwärtigen Vertrages stattfinden, zu vertreten und diese Verträge mit Wirksamkeit für das Fürstentum abzuschliessen.
+
+Bei Handels- und Zollverträgen mit Österreich ist die fürstliche Regierung vor Abschluss der Verträge anzuhören.
+
+#### Art. 8<sup>bis</sup>
+
+[^8bis-1]
+
+Das Recht des Fürstentums Liechtenstein, selbst Vertragsstaat internationaler Übereinkommen oder Mitgliedstaat internationaler Organisationen zu werden, denen die Schweiz angehört, wird durch diesen Vertrag nicht eingeschränkt.
+
+Gehört die Schweiz solchen Übereinkommen oder Organisationen nicht an, bedarf die Mitgliedschaft des Fürstentums Liechtenstein einer besonderen Vereinbarung zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein.[^8bis-2]
+
+[^8bis-1]: Eingefügt durch Art. 1 des Vertrages vom 26. Nov. 1990, von der BVers genehmigt am 21. Juni 1991 und in Kraft seit 28. Aug. 1991 ([AS 1991 2212](https://fedlex.data.admin.ch/eli/oc/1991/2212_2212_2212)[2211](https://fedlex.data.admin.ch/eli/oc/1991/2211_2211_2211); [BBl 1991 I 597](https://fedlex.data.admin.ch/eli/fga/1991/1_597_573_473)).
+[^8bis-2]: Eingefügt durch Art. 1 des Vertrages vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 und in Kraft seit 1. Mai 1995 ([AS 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+
+#### Art. 9
+
+Diemit dem Inkrafttreten dieses Vertrages im Fürstentum Liechtenstein anwendbaren bundesrechtlichen Erlasse sind in Anlage I, die in Liechtenstein anwendbaren Staatsverträge in Anlage II des vorliegenden Vertrages angeführt.
+
+Die Fürstliche Regierung wird diese Bestimmungen vor dem Inkrafttreten des Vertrages auf geeignete Weise öffentlich bekanntmachen.
+
+#### Art. 10
+
+Alle Ergänzungen und Abänderungen der in Anlage I erwähnten Bundesgesetzgebung und der in Anlage II erwähnten Staatsverträge werden vom Schweizerischen Bundesrate der Fürstlichen Regierung mitgeteilt und von ihr ebenfalls öffentlich bekanntgemacht.
+
+Das nämliche Verfahren findet statt mit Bezug auf die während der Dauer dieses Vertrages in Rechtswirksamkeit tretenden Bundesgesetze, Bundesbeschlüsse und Verordnungen, die unter Artikel 4 dieses Vertrages fallen, sowie mit Bezug auf die Staatsverträge, welche die Schweizerische Eidgenossenschaft als Bevollmächtigte des Fürstentums Liechtenstein während der Dauer des vorliegenden Vertrages mit dritten Staaten abschliessen wird.
+
+## Dritter Abschnitt Der Zolldienst
+
+#### Art. 11
+
+Der Zollschutz der liechtensteinisch-österreichischen Grenze wird durch die schweizerische Zollverwaltung übernommen ...[^11-1]
+
+[^11-1]: Satzteil aufgehoben durch Art. 1 des Vertrages vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 ([AS 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+
+#### Art. 12
+
+Die Fürstliche Regierung wird auf Wunsch der schweizerischen Zollbehörden dafür Sorge tragen, dass durch Grenzsteine und ähnliche Hilfsmittel der Verlauf der Grenze gegen Vorarlberg leicht sichtbar gemacht wird.
+
+#### Art. 13
+
+Die im Fürstentum Liechtenstein zu errichtenden Zollämter werden als «Schweizerische Zollämter im Fürstentum Liechtenstein» bezeichnet und mit den Wappen der beiden Staaten versehen.
+
+#### Art. 14
+
+Die im Fürstentum Liechtenstein zu errichtenden Zollämter und Wachtposten sowie die Zollstrassen werden von der schweizerischen Oberzolldirektion unter Mitteilung an die Fürstliche Regierung festgesetzt.
+
+#### Art. 15
+
+Für die Zollabfertigung im Bahnverkehr von und nach dem Fürstentum werden auf den Stationen Schaan-Vaduz und Nendeln Zollämter errichtet.
+
+Die schweizerische Zollverwaltung wird die Abfertigungsbefugnisse dieser Zollämter nach den Bedürfnissen des Verkehrs festsetzen.
+
+Bei den auf dem Gebiete des Fürstentums nicht haltenden Schnellzügen findet die Zollabfertigung in Buchs statt.
+
+Die Haltestelle Schaanwald wird aufgehoben.
+
+#### Art. 16
+
+Die Fürstliche Regierung wird die erforderlichen Zollamtsgebäude beschaffen und diese in benützungsfähigem Zustande erhalten.
+
+Die Kosten der Einrichtung, Beheizung und Beleuchtung der Diensträume fallen zu Lasten der schweizerischen Zollverwaltung.
+
+#### Art. 17
+
+Die schweizerische Zollverwaltung trägt die Kosten für die Unterbringung der Grenzwache.
+
+Sollte die schweizerische Zollverwaltung sich die notwendigen Unterkunftsräume für das Grenzwachtpersonal nicht beschaffen können, so wird die Fürstliche Regierung für die Unterkunft besorgt sein. In diesem Falle wird die schweizerische Zollverwaltung für die in Anspruch genommenen Räumlichkeiten eine dem ortsüblichen Mietzins entsprechende Entschädigung entrichten.
+
+#### Art. 18
+
+Alle Behörden des Fürstentums Liechtenstein werden den schweizerischen Zollbeamten und Angestellten bei ihren Dienstverrichtungen den nämlichen Beistand gewähren wie die kantonalen Behörden auf schweizerischem Gebiet.
+
+## Vierter Abschnitt Das Zollpersonal
+
+#### Art. 19
+
+Die Zollbeamten und -angestellten im Fürstentum Liechtenstein werden von den schweizerischen Behörden ernannt, besoldet und entlassen. Sie unterstehen in allen Dienstangelegenheiten, insbesondere bezüglich der Disziplin, ausschliesslich den schweizerischen Behörden.
+
+Die Fürstliche Regierung wird die Zollbeamten und -angestellten, die im Gebiete des Fürstentums ihren Dienst ausüben, mit Legitimationen versehen.
+
+#### Art. 20
+
+Die schweizerischen Grenzwächter tragen auch im Fürstentum Liechtenstein Uniform und Bewaffnung des schweizerischen Grenzwachtkorps.
+
+#### Art. 21
+
+Jede Änderung im Bestande des im Fürstentum Liechtenstein tätigen schweizerischen Personals wird der Fürstlichen Regierung mitgeteilt. Von dieser geäusserte begründete Bedenken gegen die Stationierung eines Beamten oder Angestellten im Gebiete des Fürstentums werden von der schweizerischen Zollverwaltung berücksichtigt.
+
+Ebenso werden die schweizerischen Behörden allfälligen von der Fürstlichen Regierung aus öffentlichen Rücksichten gestellten Begehren um Versetzung von im Gebiete des Fürstentums stationierten Beamten und Angestellten tunlichst Rücksicht tragen.
+
+#### Art. 22
+
+Die im Fürstentum Liechtenstein stationierten schweizerischen Beamten und Angestellten sind, sofern sie das Schweizerbürgerrecht besitzen, von allen Steuern und Personalleistungen befreit mit Ausnahme:
+
+- 1\. der indirekten Steuern,
+- 2\. der Grundsteuern.
+
+#### Art. 23
+
+Die im Fürstentum Liechtenstein stationierten schweizerischen Beamten und Angestellten und ihre mit ihnen in gemeinsamem Haushalte lebenden Angehörigen, soweit sie schweizerische Staatsangehörige sind, haben ihren zivilrechtlichen Wohnsitz in Buchs.
+
+#### Art. 24
+
+Strafbare Handlungen, die im Fürstentum Liechtenstein von dort stationierten schweizerischen Beamten und Angestellten schweizerischer Nationalität und von in gemeinsamem Haushalte mit ihnen lebenden Angehörigen schweizerischer Nationalität begangen worden sind, werden von denjenigen Behörden verfolgt und beurteilt, die zur Verfolgung und Beurteilung zuständig wären, wenn die strafbaren Handlungen im Bezirke Werdenberg verübt worden wären. In diesen Fällen findet das im Kanton St. Gallen geltende Straf- und Strafprozessrecht Anwendung.
+
+Die Fürstliche Regierung wird den Angeschuldigten oder Verurteilten auf Requisition der zuständigen schweizerischen Behörde oder gegebenenfalls von sich aus verhaften lassen; sie hat ihn aber in jedem Falle unverzüglich den schweizerischen Behörden zu übergeben.
+
+Die fürstlichen Behörden haben ferner die zur Sicherung erforderlichen Massnahmen zu treffen und den zuständigen schweizerischen Behörden jede erbetene Rechtshilfe zu gewähren.
+
+Die zur Verfolgung solcher strafbarer Handlungen zuständigen schweizerischen Behörden sind nach vorheriger Anzeige an die Fürstliche Regierung befugt, das Gebiet des Fürstentums Liechtenstein zu betreten und daselbst Amtshandlungen vorzunehmen.
+
+Auf die Angehörigen des schweizerischen Grenzwachtkorps findet dieser Artikel keine Anwendung, unter Vorbehalt von Artikel 25 Absatz 4.
+
+#### Art. 25
+
+Strafbare Handlungen, welche im Gebiete des Fürstentums Liechtenstein von dort stationierten Angehörigen des schweizerischen Grenzwachtkorps begangen worden sind, werden von dem vom Schweizerischen Bundesrate als zuständig erklärten schweizerischen Militärgericht verfolgt und beurteilt.
+
+Die Organe der schweizerischen Militärjustiz sind berechtigt, zum Zwecke der Verfolgung solcher strafbarer Handlungen nach vorheriger Anzeige an die Fürstliche Regierung das Gebiet des Fürstentums zu betreten und daselbst Amtshandlungen vorzunehmen.
+
+Die fürstlichen Gerichtsbehörden sind den schweizerischen Militärgerichten gegenüber zur Gewährung von Rechtshilfe verpflichtet wie die kantonalen Gerichte auf schweizerischem Gebiet.
+
+Hinsichtlich der im eidgenössischen Militärstrafrecht nicht vorgesehenen strafbaren Handlungen findet Artikel 24 auch auf die Angehörigen des Grenzwachtkorps Anwendung.
+
+#### Art. 26
+
+Liechtensteinische Staatsangehörige können in einer von der Zollverwaltung zu bestimmenden Zahl im schweizerischen Zolldienste angestellt werden, mit Ausnahme des Dienstes im Grenzwachtkorps.
+
+Die schweizerische Zollverwaltung behält sich vor, die im schweizerischen Zolldienste angestellten liechtensteinischen Staatsangehörigen auch ausserhalb des Gebietes des Fürstentums zu verwenden.
+
+## Fünfter Abschnitt Verfolgung und Bestrafung von Widerhandlungen gegen die in Liechtenstein anwendbare Bundesgesetzgebung
+
+#### Art. 27
+
+Widerhandlungen gegen die kraft dieses Vertrages im Gebiete des Fürstentums Liechtenstein anwendbare Bundesgesetzgebung werden nach Massgabe des Bundesgesetzes vom 30. Juni 1849[^27-1] betreffend das Verfahren bei Übertretung fiskalischer und polizeilicher Bundesgesetze verfolgt und beurteilt, sofern in der Bundesgesetzgebung dieses Verfahren vorgesehen ist.
+
+Als Appellationsinstanz nach Artikel 17 Absatz 5[^27-2] des Bundesgesetzes vom 30. Juni 1849 wird das Kantonsgericht des Kantons St. Gallen als Kassationsgericht nach Artikel 18[^27-3] der Kassationshof des schweizerischen Bundesgerichtes bestimmt.
+
+[^27-1]: [AS **I** 87, **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^27-2]: Heute gilt Art. 80 VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^27-3]: Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+
+#### Art. 28
+
+Diejenigen Widerhandlungen gegen die kraft dieses Vertrages im Fürstentum Liechtenstein anwendbare Bundesgesetzgebung, die nicht nach Massgabe des Bundesgesetzes vom 30. Juni 1849[^28-1] betreffend das Verfahren bei Übertretung fiskalischer und polizeilicher Bundesgesetze zu verfolgen sind, werden durch das fürstliche Landgericht beurteilt, sofern die Beurteilung solcher Widerhandlungen entweder unmittelbar durch die Bundesgesetzgebung den kantonalen Gerichten zugewiesen ist oder durch Beschluss des Bundesrates oder einer von ihm bezeichneten Behörde dem fürstlichen Landgerichte überwiesen wird.
+
+Gegen die vom fürstlichen Landgericht ausgefällten Urteile findet die Appellation an das Kantonsgericht des Kantons St. Gallen in Anwendung des sanktgallischen Strafprozessrechtes[^28-2] statt.
+
+Das Rechtsmittel der Kassationsbeschwerde nach Artikel 160ff. des Bundesgesetzes vom 22. März 1893/6. Oktober 1911 betreffend die Organisation der Bundesrechtspflege[^28-3] bleibt vorbehalten.
+
+[^28-1]: [AS **I** 87, **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^28-2]: Ab 1. Jan. 2011 gilt die Schweizerische Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^28-3]: [AS **28** 129 408, **37** 717, [43 439](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)Art. 80 Abs. 2, [44 711](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 509](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)Art. 16 Bst. c und am Schluss, SchlB Änd. vom 20. Juni 1947 685 Art. 342 Abs. 2 Ziff. 4. BS **3** 531 Art.169]. Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+
+#### Art. 29
+
+In den in den Artikeln 27 und 28 genannten Fällen sind die Rechte und Pflichten der fürstlichen Behörden die gleichen wie diejenigen der kantonalen Behörden.
+
+#### Art. 30
+
+Die Zuständigkeit des Bundesstrafgerichts bleibt vorbehalten, soweit sie nach Massgabe der gestützt auf Artikel 4 dieses Vertrages im Fürstentum Liechtenstein geltenden Bundesgesetzgebung gegeben ist.
+
+#### Art. 31
+
+Mit Beziehung auf die Vollstreckung der Strafen, welche nach Massgabe der kraft des gegenwärtigen Vertrages im Gebiete des Fürstentums Liechtenstein anwendbaren Bundesgesetzgebung ausgesprochen worden sind, kommt dem Fürstentum die gleiche Rechtsstellung zu wie den schweizerischen Kantonen.
+
+#### Art. 32
+
+Das Recht der Begnadigung steht hinsichtlich der Strafen, welche in Anwendung der kraft des gegenwärtigen Vertrages im Gebiete des Fürstentums Liechtenstein geltenden Bundesgesetzgebung ausgefällt worden sind, ausschliesslich den eidgenössischen Behörden zu.
+
+## Sechster Abschnitt Handhabung der Fremdenpolizei
+
+[^chapVI-1]
+
+[^chapVI-1]: Siehe auch den Rahmenvertrag 3. Dez. 2008 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Zusammenarbeit im Bereich des Visumverfahrens, der Einreise und des Aufenthalts sowie über die polizeiliche Zusammenarbeit im Grenzraum ([SR 0.360.514.2](https://fedlex.data.admin.ch/eli/cc/2009/151)).
+
+#### Art. 33
+
+Die Schweizerische Eidgenossenschaft erklärt sich bereit, auf die Ausübung der fremdenpolizeilichen Grenzkontrolle an der liechtensteinisch-schweizerischen Grenze zu verzichten, sofern und solange das Fürstentum Liechtenstein dafür Sorge trägt, dass die Umgehung der schweizerischen Vorschriften über Fremdenpolizei, Niederlassung, Aufenthalt usw. vermieden wird.
+
+Die schweizerischen Zollorgane werden solchenfalls die fremdenpolizeiliche Grenzkontrolle an der liechtensteinisch-vorarlbergischen Grenze auf Grund von Vereinbarungen der beiden Regierungen unentgeltlich durchführen.
+
+Sollte indessen durch besondere, vom Schweizerischen Bundesrate nicht verlangte Massnahmen der Liechtensteinischen Regierung das Zollpersonal für die Durchführung der Grenzkontrolle vermehrt werden müssen, so hat die Fürstliche Regierung die daraus entstehenden Kosten zu tragen.
+
+Die endgültige Entscheidung darüber, ob die vom Fürstentum Liechtenstein gemäss Absatz 1 dieses Artikels getroffenen Massnahmen genügend sind, steht ausschliesslich dem Schweizerischen Bundesrate zu.
+
+Über die Ausführung dieses Artikels werden sich die beiden Regierungen sowohl im allgemeinen wie bei Anständen im einzelnen Fall verständigen.
+
+#### Art. 34
+
+Die Schweizerische Eidgenossenschaft behält sich vor, die fremdenpolizeiliche Grenzkontrolle wieder an der schweizerisch-liechtensteinischen-Grenze vorzunehmen, wenn die vom Fürstentum Liechtenstein getroffenen Massnahmen vom Bundesrate als ungenügend erachtet werden.
+
+Das Fürstentum Liechtenstein verpflichtet sich, der Schweizerischen Eidgenossenschaft solchenfalls die Kosten zu ersetzen, welche daraus entstehen, dass die fremdenpolizeiliche Grenzkontrolle an der schweizerisch-liechtensteinischen Grenze durchgeführt werden muss.
+
+## Siebenter Abschnitt Finanzielle Leistungen des Bundes an das Fürstentum Liechtenstein
+
+#### Art. 35
+
+<sup>1.</sup> Als Anteil an den Einnahmen aus den Zöllen und Gebühren, die in Anwendung der nach diesem Vertrag im Fürstentum Liechtenstein geltenden Bundesgesetzgebung erhoben werden, wird dem Fürstentum Liechtenstein auf den Kopf seiner Wohnbevölkerung der gleiche Betrag vergütet, wie er sich für die Schweiz ergibt, wenn die Einnahmen der schweizerischen Zollverwaltung abzüglich ihrer Ausgaben durch die Gesamtzahl der Wohnbevölkerung der Schweiz und Liechtensteins geteilt werden.[^35-1]
+
+<sup>2.</sup> Als Einnahmen der Zollverwaltung gelten die in der Staatsrechnung der Schweizerischen Eidgenossenschaft des Jahres, für das der Anteil entrichtet wird, unter dem Titel «Zollverwaltung» ausgewiesenen Einnahmenbeträge, einschliesslich der Anteile des Fürstentums Liechtenstein, jedoch ohne die Einnahmenbeträge für Untermieten und Zoll- und Monopolbussen. Als Ausgaben der Zollverwaltung gelten die in der Staatsrechnung der Schweizerischen Eidgenossenschaft unter dem Titel «Zollverwaltung» ausgewiesenen Ausgabenbeträge.
+
+Als Wohnbevölkerung gilt die Bevölkerung, wie sie nach dem Ergebnis der jeweiligen letzten Volkszählung als in der Schweiz bzw. in Liechtenstein wohnhaft ermittelt wurde.[^35-2]
+
+In der Anteilsumme sind inbegriffen allfällige Beiträge des Bundes, die durch die übernommene Bundesgesetzgebung begründet würden, aber gemäss Artikel 4 Absatz 2 hiervor im Fürstentum nicht ausgerichtet werden, unter Vorbehalt von Artikel 37 des Vertrages.
+
+[^35-1]: Fassung gemäss Art. 1 der Vereinb. vom 24. Sept. 1964, in Kraft seit 1. Jan. 1962 ([AS 1964 855](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
+[^35-2]: Fassung gemäss Art. 1 der Vereinb. vom 24. Sept. 1964, in Kraft seit 1. Jan. 1962 ([AS 1964 855](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
+
+#### Art. 36
+
+[^36-1]
+
+Die in Artikel 35 Absatz 1 vorgesehene Berechnungsweise des liechtensteinischen Anteils an den Einnahmen aus den Zöllen und Gebühren und des Beitrages an die Kosten der Zollverwaltung kann, sofern eine wesentliche Änderung der massgebenden Tatsachenverhältnisse es erfordert, durch Vereinbarung zwischen den beiden Regierungen abgeändert werden.
+
+[^36-1]: Fassung gemäss Art. 1 des Vertrages vom 22. Nov. 1950, von der BVers genehmigt am 5. April 1951, in Kraft seit 21. Juni 1951 ([AS 1952 118](https://fedlex.data.admin.ch/eli/oc/1952/118_119_119)[117](https://fedlex.data.admin.ch/eli/oc/1952/117_117_117)).
+
+#### Art. 37
+
+[^37-1]
+
+Über die aus dem Fürstentum Liechtenstein aufgrund des Bundesgesetzes vom 27. Juni 1973[^37-2] über die Stempelabgaben eingehenden Einnahmen führt die Eidgenössische Steuerverwaltung besondere Rechnung. Alljährlich wird auf Schluss des Kalenderjahres über diese Einnahmen abgerechnet und der Fürstlichen Regierung der Betrag der reinen Einnahmen, vermindert um den Verwaltungskostenanteil, ausbezahlt. Der Verwaltungskostenanteil der Schweizerischen Eidgenossenschaft setzt sich zusammen aus 1 Prozent der reinen Einnahmen sowie einer fixen Jahrespauschale von 30 000 Franken.
+
+[^37-1]: Fassung gemäss Art. 1 des Vertrages vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 und in Kraft seit 1. Mai 1995 ([AS 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+[^37-2]: [SR 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+
+## Achter Abschnitt Übergangs- und Schlussbestimmungen
+
+#### Art. 38
+
+Das Fürstentum Liechtenstein wird vor dem Inkrafttreten dieses Vertrages die Ausführungsbestimmungen erlassen, welche zur Vollziehung der in Liechtenstein anwendbaren Bundesgesetzgebung notwendig sind. Dieselben unterliegen der Genehmigung des Bundesrates insoweit, als für die entsprechenden kantonalen Ausführungsbestimmungen eine solche Genehmigung vorgesehen ist.
+
+#### Art. 39
+
+Die schweizerische Zollverwaltung wird die erforderlichen Ausführungsbestimmungen zu diesem Vertrage erlassen.
+
+#### Art. 40
+
+Die Fürstliche Regierung verpflichtet sich, während der Übergangszeit alle von den Schweizerischen Zollbehörden zur Verhinderung der spekulativen Wareneinfuhr ins Fürstentum und der Umgehung der eidgenössischen Vorschriften über Einfuhrverbot fremder Silbermünzen und Noten verlangten Sicherungsmassregeln anzuordnen.
+
+#### Art. 41
+
+Der gegenwärtige Vertrag wird auf die Dauer von fünf Jahren abgeschlossen.
+
+Sofern keiner der hohen vertragschliessenden Teile ein Jahr vor Ablauf dieser Frist seine Absicht bekanntgegeben hat, den Vertrag zu künden, bleibt dieser auch nach Ablauf der fünf Jahre ohne weiteres in Kraft bestehen, wobei beiden Teilen das Recht zukommt, den Vertrag jederzeit auf ein Jahr zu künden.
+
+#### Art. 42
+
+Änderungen dieses Vertrages können im gegenseitigen Einverständnis auch ohne förmliche Kündigung vereinbart werden.
+
+#### Art. 43
+
+Streitfragen, die sich auf die Auslegung des gegenwärtigen Vertrages beziehen, sind, sofern sie nicht auf diplomatischem Weg erledigt werden können, einem Schiedsgericht zur Beurteilung zu unterbreiten. Tritt dieser Fall ein, so bestellt jede der vertragschliessenden Parteien einen Schiedsrichter. Wenn sich die beiden Schiedsrichter über die Streitfrage nicht einigen können, so bestellen sie selbst einen Obmann.
+
+#### Art. 44
+
+Der gegenwärtige Vertrag wird ratifiziert, und es soll der Austausch der Ratifikationsurkunden baldmöglichst in Bern stattfinden.
+
+#### Art. 45
+
+Der gegenwärtige Vertrag tritt auf den 1. Januar 1924 in Kraft.
+
+*Zu Urkund dessen* haben die Bevollmächtigten den gegenwärtigen Vertrag mit ihren Unterschriften und ihren Siegeln versehen. Geschehen in Bern, in doppelter Ausfertigung, am neunundzwanzigsten März neunzehnhundertunddreiundzwanzig (29. März 1923). Für die Schweizerische Eidgenossenschaft: Motta Für das Fürstentum Liechtenstein: E. Beck
+
+Schlussprotokoll
+
+I. ...[^t-2]
+
+II. Die vertragschliessenden Teile sind sich ferner darüber einig, dass die Sömmerung liechtensteinischen Viehs in Vorarlbergeralpen in Anwendung des Artikels 75 Absatz 3 der Vollziehungsverordnung vom 30. August 1920[^t-3] zum Bundesgesetz betreffend die Bekämpfung von Tierseuchen grundsätzlich gestattet sein soll, unter Vorbehalt der Durchführung der vom Fürstentum Liechtenstein gemäss vorliegendem Vertrage übernommenen Vorschriften der Bundesgesetzgebung.
+
+Sofern das in Vorarlbergeralpen untergebrachte liechtensteinische Sömmerungsvieh infolge dieser Vorschriften beim Heimtrieb sich einer Quarantäne unterziehen muss, besteht Einverständnis darüber, dass diese Quarantäne, wenn die erforderlichen seuchenpolizeilichen Vorbedingungen hierzu vorhanden sind, auf liechtensteinischem Gebiete durchgeführt wird.
+
+III. Es besteht Einverständnis darüber, dass auf die Erhebung von Stempelabgaben auf Grund der eidgenössischen Stempelgesetzgebung im Fürstentum Liechtenstein in denjenigen Fällen verzichtet wird, wo dieser Erhebung bestimmte, vor dem 27. Januar 1923 eingegangene Verpflichtungen der Fürstlichen Regierung entgegenstehen.
+
+IV. Die Fürstliche Regierung wird der Eidgenössischen Oberzolldirektion innert nützlicher Frist die erforderlichen Nachweise dafür erbringen, dass die ihr gemäss den Artikeln 16, 38 und 40 des vorstehenden Vertrages obliegenden Verpflichtungen bis zum 1. Januar 1924 erfüllt sein werden. Sollten auf diesen Zeitpunkt hin die in den vorerwähnten drei Artikeln genannten Voraussetzungen nach Auffassung des Schweizerischen Bundesrates nicht gegeben sein, so ist er berechtigt, bis zu deren Vorliegen das Inkrafttreten des Vertrages hinauszuschieben.
+
+Bern, den neunundzwanzigsten März neunzehnhundertunddreiundzwanzig (29. März 1923).
+
+<table>
+<tr><td>Für die Schweizerische Eidgenossenschaft: Motta</td><td>Für das Fürstentum Liechtenstein: E. Beck</td></tr>
+</table>
+
+[^t-2]: Aufgehoben durch Notenaustausch vom 29. Juni 2009/10. Dez. 2010, in Kraft seit 10. Dez. 2010 ([AS 2010 6409](https://fedlex.data.admin.ch/eli/oc/2010/903)).
+[^t-3]: [BS **9** 273; [AS 1948 731](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676), **1949** II 1058, **1950** II 1523, [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10), [1954 252](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144), [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)Art. 6 Abs. 2, [1959 2178](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)Art. 7 Abs. 2 Ziff. 2, [1961 399](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420), [1964 142](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [AS 1967 2042](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)Art. 62.6 Abs. 1]. Siehe heute die Tierseuchenverordnung vom 27. Juni 1995 ([SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)).
+
+Anlagen[^t-4]
+
+<table>
+<tr><td>**Anlage I**</td><td>– Liste der bundesrechtlichen Erlasse,</td></tr>
+<tr><td>**Anlage II**</td><td>– Liste der Staatsverträge,</td></tr>
+<tr><td></td><td>die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
+</table>
+
+[^t-4]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 6. Oktober 2020 (Stand: 30. Juni 2020), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4559](https://fedlex.data.admin.ch/eli/oc/2020/805)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.631 konsultiert werden.

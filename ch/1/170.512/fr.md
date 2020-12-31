@@ -1,0 +1,432 @@
+---
+sr: "170.512"
+title: "Loi fédérale du 18 juin 2004 sur les recueils du droit fédéral et la Feuille fédérale (Loi sur les publications officielles, LPubl)"
+short: LPubl
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
+language: fr
+version: 2018-11-26
+adopted: 2004-06-18
+in_force: 2005-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20181126/fr/xml/fedlex-data-admin-ch-eli-cc-2004-745-20181126-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur les recueils du droit fédéral et la Feuille fédérale
+
+(Loi sur les publications officielles, LPubl)
+
+du 18 juin 2004 (Etat le 26 novembre 2018)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 173, al. 2, de la Constitution (Cst.)[^ingress-1], vu le message du Conseil fédéral du 22 octobre 2003[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)
+
+## Section 1 Dispositions générales****
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 1
+
+**Objet[^1-1]**
+
+La présente loi régit la publication par la Chancellerie fédérale:[^1-2]
+
+- a. des recueils du droit fédéral (Recueil officiel du droit fédéral, RO et Recueil systématique du droit fédéral, RS);
+- b. de la Feuille fédérale (FF);
+- c.[^1-3] d’autres textes présentant un lien avec la législation.
+
+[^1-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^1-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^1-3]: Introduite par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 1a
+
+**Publication en ligne**[^1a-1]
+
+<sup>1</sup> La publication au sens de la présente loi est effectuée de manière centralisée sur une plate-forme en ligne accessible au public (plate-forme).
+
+<sup>2</sup> …[^1a-2]
+
+[^1a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^1a-2]: Entre en vigueur ultérieurement.
+
+## Section 2 Recueil officiel du droit fédéral
+
+#### Art. 2
+
+**Actes de la Confédération**
+
+Sont publiés dans le RO:
+
+- a. la Constitution;
+- b. les lois fédérales;
+- c. les ordonnances de l’Assemblée fédérale;
+- d. les ordonnances du Conseil fédéral;
+- e. les autres actes normatifs édictés par des autorités fédérales ainsi que par des organisations ou des personnes de droit public ou de droit privé qui sont chargées de tâches administratives mais ne font pas partie de l’administration fédérale;
+- f. les arrêtés fédéraux sujets au référendum;
+- g. les arrêtés fédéraux portant approbation de traités internationaux;
+- h. les arrêtés fédéraux simples, si l’Assemblée fédérale le décide.
+
+#### Art. 3
+
+**Traités et décisions de droit international[^3-1]**
+
+<sup>1</sup>
+
+Sont publiés dans le RO, pour autant qu’ils lient la Suisse:
+
+- a. les traités et décisions de droit international qui sont soumis au référendum en vertu de l’art. 140, al. 1, let. b, Cst., ou qui sont sujets au référendum en vertu de l’art. 141, al. 1, let. d, Cst.;
+- b. les autres traités et décisions de droit international qui contiennent des règles de droit ou qui autorisent à en édicter.[^3-2]
+
+<sup>2</sup> Le Conseil fédéral peut décider qu’un traité ou une décision qui ne contiennent pas de règles de droit sont publiés dans le RO.
+
+<sup>3</sup> Le Conseil fédéral détermine les conditions auxquelles les traités et décisions de portée mineure ou dont la durée de validité ne dépasse pas six mois ne sont pas publiés dans le RO.[^3-3]
+
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^3-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^3-3]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 4
+
+**Conventions entre Confédération et cantons et conventions intercantonales[^4-1]**
+
+Sont publiées dans le RO:
+
+- a. les conventions entre la Confédération et les cantons, qui contiennent des règles de droit ou autorisent à en édicter;
+- b. d’autres conventions entre la Confédération et les cantons, si le Conseil fédéral le décide;
+- c.[^4-2] les conventions intercantonales auxquelles la Confédération a donné force obligatoire générale (art. 48*a* Cst.).
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^4-2]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 5
+
+**Publication sous la forme d’un renvoi**[^5-1]
+
+<sup>1</sup>
+
+Les textes visés aux art. 2 à 4 qui, en raison de leur caractère particulier, ne se prêtent pas à la publication dans le RO n’y sont mentionnés que par leur titre et par l’adjonction d’une référence ou du nom de l’organisme auprès duquel ils peuvent être obtenus, notamment:
+
+- a. s’ils ne touchent qu’un nombre restreint de personnes;
+- b. s’ils ont un caractère technique et ne s’adressent qu’à des spécialistes;
+- c. s’ils doivent être publiés dans un format qui n’est pas adapté à une publication dans le RO; ou
+- d. s’ils doivent être publiés ailleurs que dans le RO en vertu d’une loi fédérale ou d’une ordonnance de l’Assemblée fédérale.
+
+<sup>2</sup> Les textes visés aux art. 2 à 4 qui sont publiés dans un autre organe de publication accessible gratuitement en Suisse sont mentionnés dans le RO uniquement par leur titre et par une référence à cet organe ou par le nom de l’organisme auprès duquel ils peuvent être obtenus.
+
+<sup>3</sup> Les art. 6 à 10 et 14 sont applicables.
+
+[^5-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016, sauf la ph. introductive de l’al. 1 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 6
+
+**Dérogation au principe de la publication obligatoire**[^6-1]
+
+<sup>1</sup> Ne sont pas publiés dans le RO les actes de la Confédération ainsi que les traités et décisions de droit international qui doivent être tenus secrets pour préserver la sécurité intérieure ou extérieure de la Suisse ou en raison d’obligations internationales.
+
+<sup>2</sup> Dans la mesure où les textes visés à l’al. 1 contiennent des obligations individuelles, les dispositions les concernant ne lient que les personnes auxquelles elles ont été communiquées.
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 7
+
+**Publication ordinaire, urgente et extraordinaire**[^7-1]
+
+<sup>1</sup> Les textes visés aux art. 2 à 4 sont publiés dans le RO au moins cinq jours avant leur entrée en vigueur.
+
+<sup>2</sup> Les traités et décisions au sens des art. 3 et 4 dont la date d’entrée en vigueur n’est pas encore connue au moment de leur approbation, sont publiés dès que cette date est connue.
+
+<sup>3</sup> Exceptionnellement, un texte peut être publié au plus tard le jour de son entrée en vigueur (publication urgente) si cela est nécessaire pour lui permettre de déployer pleinement ses effets.
+
+<sup>4</sup> Si la plate-forme n’est pas disponible, la publication s’effectue par d’autres moyens (publication extraordinaire).
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 8
+
+**Effets juridiques de la publication**
+
+<sup>1</sup> Les obligations juridiques inscrites dans les textes visés aux art. 2 à 4 naissent dès que les textes en question ont été publiés conformément aux dispositions de la présente section.
+
+<sup>2</sup> Si un acte est publié dans le RO après son entrée en vigueur, les obligations qui y sont inscrites ne naissent que le jour qui suit la publication. L’art. 7, al. 3, est réservé.
+
+<sup>3</sup> Si un acte est publié selon la procédure extraordinaire, la personne concernée est en droit de prouver qu’elle n’avait pas connaissance de l’acte considéré et qu’elle ne pouvait pas en avoir connaissance malgré le devoir de diligence qui lui incombait.
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 10
+
+**Corrections formelles**
+
+<sup>1</sup>
+
+La Chancellerie fédérale corrige dans le RO les erreurs qui entraînent un changement de sens ainsi que les formulations qui ne correspondent pas aux décisions prises par l’autorité:
+
+- a. lorsqu’elles concernent un acte de la Confédération, pour autant qu’il ne s’agisse pas d’un acte de l’Assemblée fédérale: sous sa propre responsabilité;
+- b. lorsqu’elles concernent un traité ou une décision de droit international: avec l’accord des autres parties contractantes.[^10-1]
+
+<sup>2</sup> La correction des erreurs figurant dans les actes édictés par l’Assemblée fédérale est régie par les art. 57, al. 1<sup>bis</sup>, et 58 de la loi du 13 décembre 2002 sur le Parlement[^10-2].[^10-3]
+
+<sup>3</sup> La Chancellerie fédérale corrige dans le RO, avec l’accord de la Commission de rédaction de l’Assemblée fédérale, les erreurs qui sont survenues dans un acte de l’Assemblée fédérale pendant le processus de publication.[^10-4]
+
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^10-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^10-3]: Nouvelle teneur selon le ch. II de la LF du 15 juin 2018 (Modifications diverses du droit parlementaire), en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^10-4]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+## Section 3 Recueil systématique du droit fédéral
+
+#### Art. 11
+
+**Contenu**[^11-1]
+
+Le RS est une collection consolidée, classée par matières et mise à jour en permanence, comprenant:
+
+- a. les textes publiés dans le RO, à l’exception des arrêtés fédéraux portant approbation de traités ou décisions de droit international et ne contenant pas de règles de droit;
+- b. les constitutions cantonales.
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 12
+
+**Corrections et adaptations sans procédure formelle**
+
+<sup>1</sup> La Chancellerie fédérale corrige dans le RS, sans procédure formelle, les erreurs qui n’entraînent aucun changement de sens.
+
+<sup>2</sup> Elle adapte dans le RS, sans procédure formelle, les indications telles que les dénominations des unités administratives, les renvois, les références et les abréviations.
+
+<sup>3</sup> La correction des erreurs figurant dans les actes édictés par l’Assemblée fédérale est régie par l’art. 58 de la loi du 13 décembre 2002 sur le Parlement[^12-1].
+
+[^12-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+## Section 4 Feuille fédérale
+
+#### Art. 13
+
+<sup>1</sup>
+
+Sont publiés dans la Feuille fédérale:
+
+- a. les messages et les projets du Conseil fédéral concernant les actes de l’Assemblée fédérale;
+- b.[^13-1] les rapports et les projets des commissions de l’Assemblée fédérale concernant les actes de l’Assemblée fédérale, et les avis afférents du Conseil fédéral;
+- c.[^13-2] …
+- d. les arrêtés fédéraux relatifs aux modifications constitutionnelles et les arrêtés fédéraux portant approbation des traités internationaux visés à l’art. 140, al. 1, let. b, Cst.;
+- e. les lois fédérales ainsi que les arrêtés fédéraux sujets au référendum;
+- f. les arrêtés fédéraux simples qui ne sont pas publiés dans le RO en vertu de l’art. 2, let. h;
+- f<sup>bis</sup>.[^13-3] les instructions du Conseil fédéral;
+- g. les autres textes qui doivent être publiés en vertu de la législation fédérale.
+
+<sup>2</sup>
+
+Peuvent en outre être publiés dans la Feuille fédérale:
+
+- a. les rapports, avis ou conventions du Conseil fédéral, des commissions de l’Assemblée fédérale ou des tribunaux fédéraux qui ne sont pas publiés en vertu de l’al. 1;
+- b. les décisions et communications du Conseil fédéral;
+- c. les décisions, instructions et communications de l’administration fédérale ainsi que d’organisations ou de personnes de droit public ou privé qui sont chargées de tâches administratives mais ne font pas partie de l’administration fédérale.[^13-4]
+
+<sup>3</sup> Dans les cas appropriés, la publication d’un texte peut se limiter à la mention du titre et à l’adjonction d’une référence ou de l’organisme auprès duquel il peut être obtenu (art. 5).
+
+<sup>4</sup> L’art. 10 s’applique par analogie à la correction des textes.
+
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^13-2]: Abrogée par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^13-3]: Introduite par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^13-4]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+## Section 4*a***** Autres textes publiés sur la plate-forme
+
+[^sec4a-1]
+
+[^sec4a-1]: Introduite par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 13a
+
+<sup>1</sup>
+
+Sont également publiés sur la plate-forme les textes suivants:
+
+- a.[^13a-1] …
+- b.[^13a-2] les documents relatifs aux procédures de consultation au sens de la loi du 18 mars 2005 sur la consultation[^13a-3];
+- c. les versions antérieures du droit fédéral;
+- d. les traductions des publications officielles, en particulier en langues romanche ou anglaise.
+
+<sup>2</sup> Le Conseil fédéral peut prévoir la publication sur la plate-forme d’autres textes présentant un lien avec la législation.
+
+[^13a-1]: Entre en vigueur ultérieurement.
+[^13a-2]: Nouvelle teneur selon le ch. III de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^13a-3]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+
+## Section 5 Dispositions communes
+
+#### Art. 14
+
+**Langues de publication[^14-1]**
+
+<sup>1</sup> La publication a lieu simultanément dans les langues officielles que sont l’allemand, le français et l’italien. Dans le cas des actes, les trois versions font foi.
+
+<sup>2</sup>
+
+Le Conseil fédéral peut décider que les textes dont la publication se limite à la mention du titre et à l’adjonction d’une référence ou du nom de l’organisme auprès duquel ils peuvent être obtenus, ne seront pas publiés dans les trois langues officielles ou ne seront pas traduits dans les langues officielles, à condition que:
+
+- a. les dispositions contenues dans ces textes n’imposent pas directement des obligations aux personnes concernées; ou
+- b. les personnes concernées utilisent ces textes uniquement dans la langue originale.
+
+<sup>3</sup> La Chancellerie fédérale peut décider que les décisions ou communications émanant soit de l’administration fédérale soit d’une organisation ou d’une personne de droit public ou de droit privé (art. 13, al. 2) ne seront publiées que dans la langue officielle de la région linguistique concernée, pour autant qu’elles revêtent une importance exclusivement locale.
+
+<sup>4</sup> La traduction des documents relatifs aux procédures de consultation est régie par la législation sur la procédure de consultation[^14-2].[^14-3]
+
+<sup>5</sup> La publication des textes en langue romanche est régie par l’art. 11 de la loi du 5 octobre 2007 sur les langues[^14-4].[^14-5]
+
+<sup>6</sup> Les textes publiés sur la plate-forme qui sont de portée majeure ou d’intérêt international peuvent être publiés dans d’autres langues, en particulier en anglais.[^14-6]
+
+[^14-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-2]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)et **172.061.1**
+[^14-3]: Introduit par le ch. III de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^14-4]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^14-5]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-6]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 14a
+
+**Actes de l’Assemblée fédérale**[^14a-1]
+
+<sup>1</sup> La Chancellerie fédérale publie, dans la FF et le RO, les actes de l’Assemblée fédérale dans les trois langues officielles, conformément à la version définitive adoptée par les conseils.
+
+<sup>2</sup> Elle est uniquement habilitée à y ajouter les informations relatives au délai référendaire, à l’échéance du délai référendaire et à l’entrée en vigueur, à compléter les renvois manquants au RO, à la FF et au RS, ainsi qu’à procéder à des modifications purement formelles.
+
+[^14a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 15
+
+**Version faisant foi**[^15-1]
+
+<sup>1</sup> Pour les actes de la Confédération, pour les conventions entre la Confédération et les cantons et pour les conventions intercantonales (art. 2 et 4), la version publiée dans le RO fait foi. Si un texte est publié sous forme de renvoi, la version à laquelle il est renvoyé fait foi.
+
+<sup>2</sup> La version publiée sur la plate-forme fait foi.
+
+<sup>3</sup> Les traités et décisions de droit international précisent quelle version fait foi.
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 16
+
+**Version imprimée**[^16-1]
+
+<sup>1</sup> Les textes publiés sur la plate-forme peuvent être obtenus sous forme imprimée.
+
+<sup>2</sup> Le Conseil fédéral détermine les conditions auxquelles il y a lieu d’établir, à des fins de commercialisation, des éditions périodiques imprimées des textes publiés sur la plate-forme.
+
+<sup>3</sup> Le Conseil fédéral détermine le nombre minimal d’exemplaires imprimés des textes publiés dans le RO et dans la FF qu’il y a lieu d’établir, et leurs dépositaires.
+
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 16a
+
+**Sécurité des données**[^16a-1]
+
+Le Conseil fédéral arrête les mesures garantissant l’authenticité, l’intégrité et la conservation des textes publiés sur la plate-forme ainsi que le bon fonctionnement de celle-ci, en tenant compte de l’état de la technique.
+
+[^16a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 16b
+
+**Protection des données**[^16b-1]
+
+<sup>1</sup> Les publications au sens de la présente loi peuvent contenir des données personnelles; elles peuvent contenir en particulier des données sensibles au sens de l’art. 3, let. c, de la loi fédérale du 19 juin 1992 sur la protection des données[^16b-2], lorsque cela est nécessaire en vertu d’une obligation de publication prévue par une loi fédérale.
+
+<sup>2</sup> Les textes contenant des données sensibles ne doivent pas rester accessibles en ligne au public plus longtemps ni contenir davantage d’informations que cela n’est nécessaire au regard de leur finalité.
+
+<sup>3</sup> Le Conseil fédéral arrête les autres mesures qui sont nécessaires pour garantir la protection des données sensibles qui font l’objet d’une publication en ligne, en tenant compte de l’état de la technique.
+
+[^16b-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^16b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 17
+
+[^17-1]
+
+[^17-1]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 18
+
+**Consultation**[^18-1]
+
+Peuvent être consultés dans les bureaux de la Chancellerie fédérale et dans ceux des services désignés par les cantons:
+
+- a. le contenu de la plate-forme;
+- b. les textes faisant l’objet d’une publication extraordinaire (art. 7, al. 4), qui ne sont pas encore publiés dans le RO.
+
+[^18-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 19
+
+**Emoluments**[^19-1]
+
+<sup>1</sup> La consultation de la plate-forme et la consultation au sens de l’art. 18 sont gratuites.
+
+<sup>2</sup> Le Conseil fédéral fixe les émoluments exigibles pour la remise des textes imprimés et des données électroniques visées par la présente loi.
+
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 19a
+
+**Tiers diffuseurs**[^19a-1]
+
+Le Conseil fédéral peut prévoir des conditions spéciales applicables aux tiers diffuseurs, en particulier des obligations liées à l’utilisation des données.
+
+[^19a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+## Section 6 Dispositions finales
+
+#### Art. 19b
+
+**Exécution**[^19b-1]
+
+<sup>1</sup> La Chancellerie fédérale gère la plate-forme.
+
+<sup>2</sup> Elle exécute les autres tâches prévues par la présente loi, dans la mesure où elles ne relèvent pas d’une autre unité administrative.
+
+[^19b-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+
+#### Art. 20
+
+**Abrogation du droit en vigueur**
+
+La loi du 21 mars 1986 sur les publications officielles[^20-1] est abrogée.
+
+[^20-1]: [[RO 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)]
+
+#### Art. 21
+
+**Modification du droit en vigueur**
+
+Les lois mentionnées ci-après sont modifiées comme suit:
+
+…[^21-1]
+
+[^21-1]: Les mod. peuvent être consultées au [RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745).
+
+#### Art. 22
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2005[^22-1]
+
+[^22-1]: ACF du 17 nov. 2004

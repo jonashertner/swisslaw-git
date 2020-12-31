@@ -1,0 +1,72 @@
+---
+sr: "0.192.122.742.1"
+title: Briefwechsel vom 26. Oktober/12. Dezember 1994 zwischen der Schweizerischen Eidgenossenschaft und der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr über den Status der internationalen Beamten schweizerischer Nationalität hinsichtlich der schweizerischen Sozialversicherungen (AHV/IV/EO und ALV)
+eli: "https://fedlex.data.admin.ch/eli/cc/1997/662_662_662"
+language: de
+version: 1996-07-03
+adopted: 1994-12-12
+in_force: 1996-07-03
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/662_662_662/19960703/de/xml/fedlex-data-admin-ch-eli-cc-1997-662_662_662-19960703-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/662_662_662/19960703/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Briefwechsel vom 26. Oktober/12. Dezember 1994 zwischen der Schweizerischen Eidgenossenschaft und der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr über den Status der internationalen Beamten schweizerischer Nationalität hinsichtlich der schweizerischen Sozialversicherungen (AHV/IV/EO und ALV)
+
+(Stand am 1. Oktober 1997)0.192.122.742.1Nicht löschen bitte "[^t-1] " !!
+
+Von der Bundesversammlung genehmigt am 4. März 1996[^t-2] In Kraft getreten am 3. Juli 1996
+
+(Stand am 1. Oktober 1997)
+
+[^t-1]: [AS 1997 662](https://fedlex.data.admin.ch/eli/oc/1997/662_662_662); [BBl 1995 IV 761](https://fedlex.data.admin.ch/eli/fga/1995/4_761_749_697)
+[^t-2]: Art. 1 Abs. 1 Bst. s des BB vom 4. März 1996 ([AS 1997 609](https://fedlex.data.admin.ch/eli/oc/1997/609_609_609)).
+
+Übersetzung*[^ingress-1]*
+
+<table>
+<tr><td>Der Vorsteher</td><td>Bern, den 26. Oktober 1994</td></tr>
+<tr><td>des Eidgenössischen Departementes</td><td></td></tr>
+<tr><td>für auswärtige Angelegenheiten</td><td></td></tr>
+<tr><td></td><td>Herrn Claude Mossu</td></tr>
+<tr><td></td><td>Generaldirektor</td></tr>
+<tr><td></td><td>der Zwischenstaatlichen Organisation</td></tr>
+<tr><td></td><td>für den internationalen Eisenbahnverkehr</td></tr>
+<tr><td></td><td>Genf</td></tr>
+</table>
+
+Herr Generaldirektor
+
+Ich habe die Ehre, mich im Anschluss an die Gespräche, welche zwischen Vertretern der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr in Bern (nachfolgend «Organisation» genannt) sowie der anderen internationalen Organisationen mit Sitz in der Schweiz einerseits und meinem Departement andererseits im Zusammenhang mit einem Urteil des Eidgenössischen Versicherungsgerichts vom 25. Februar 1991 stattgefunden haben, an Sie zu wenden. Gemäss diesem Entscheid bleibt ein internationaler Beamter schweizerischer Nationalität, der aufgrund von Artikel 1 Absatz 2 lit. b des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG)[^ingress-2] wegen unzumutbarer Doppelbelastung von der Versicherungspflicht ausgenommen ist, der Arbeitslosenversicherung angeschlossen und ist zur Zahlung der entsprechenden Beiträge verpflichtet. Unter Berufung auf die Freiheit und Unabhängigkeit, welche die internationalen Organisationen und ihre Beamten im Gaststaat geniessen – und welche die Schweiz in keiner Weise in Frage zu stellen gedenkt –, sowie auf das grundlegende Prinzip der Gleichbehandlung der Beamten hat Ihre Organisation, gestützt auch auf das besondere Statut, das ihr in der Schweiz aufgrund des mit dem Schweizerischen Bundesrat abgeschlossenen Abkommens vom 10. Februar 1988[^ingress-3] zusteht, erklärt, dass sie in eine solche Unterstellung nicht einwilligen könne.
+
+Ich habe die Ehre, Ihnen im Namen des Schweizerischen Bundesrates vorzuschlagen, dass mit Wirkung ab 1. Januar 1994 die Beamten Ihrer Organisation, welche die schweizerische Nationalität besitzen, vom Gaststaat nicht mehr als obligatorisch in der Alters- und Hinterlassenenversicherung (AHV), der Invalidenversicherung (IV), der Erwerbsersatzordnung (EO) und der Arbeitslosenversicherung (ALV) versichert betrachtet werden, sofern sie einem durch die Organisation vorgesehenen Vorsorgesystem angeschlossen sind. Sie werden die Möglichkeit haben, auf freiwilliger Basis entweder der AHV/IV/EO/ALV oder einzig der ALV beizutreten, wobei es sich versteht, dass ein solcher individueller Beitritt keine zwingenden finanziellen Verpflichtungen der Organisation nach sich zieht. Die Beamten müssen zu diesem Zweck ein Beitrittsgesuch bei der Ausgleichskasse ihres Wohnsitzkantons stellen – dies innerhalb einer Frist von drei Monaten ab ihrem Anschluss an ein von der Organisation vorgesehenes Vorsorgesystem oder, was die bereits im Dienst der Organisation stehenden Beamten betrifft, innerhalb von sechs Monaten vom Zeitpunkt Ihrer Antwort auf dieses Schreiben an gerechnet.
+
+Ich habe im weiteren die Ehre, Ihnen vorzuschlagen, dass die in der Schweiz wohnhaften Ehegatten schweizerischer oder ausländischer Nationalität von internationalen Beamten nicht mehr obligatorisch bei der AHV/IV/EO versichert sind, sofern sie zum Zeitpunkt des Anschlusses des internationalen Beamten an das von der Organisation vorgesehene Vorsorgesystem keine Erwerbstätigkeit ausüben oder sobald sie später eine solche Erwerbstätigkeit aufgeben. Sie werden die Möglichkeit haben, auf freiwilliger Basis der AHV/IV/EO beizutreten. Zu diesem Zweck müssen sie ein Beitrittsgesuch bei der Ausgleichskasse ihres Wohnsitzkantons stellen – dies innerhalb einer Frist von drei Monaten ab Anschluss des internationalen Beamten an ein von der Organisation vorgesehenes Vorsorgesystem bzw. innerhalb von drei Monaten ab Beendigung ihrer Erwerbstätigkeit oder wiederum, im Falle des bereits im Dienst der Organisation stehenden Beamten, innerhalb von sechs Monaten vom Zeitpunkt Ihrer Antwort auf dieses Schreiben an gerechnet. Die vorhin beschriebene Regelung ist ebenfalls auf die Ehegatten ohne entsprechende Vorrechte und Immunitäten von ausländischen internationalen Beamten anwendbar, welch letztere von der Sozialversicherungspflicht aufgrund von Artikel 1 Absatz 2 lit. a) AHVG ausgenommen sind.
+
+Die Versicherten werden zu jedem Zeitpunkt die gesamte Versicherungsdeckung, die sie gewählt haben, per Ende des laufenden Monats kündigen können. Die in der AHV/IV/EO/ALV Versicherten werden allerdings auch lediglich die AHV/IV/EO kündigen und ihre Zugehörigkeit zur ALV behalten können. Die Kündigung gilt für die gesamte Dauer des Anstellungsverhältnisses des internationalen Beamten im Dienste der Organisation. Vorbehältlich der in diesem Schreiben vorgesehenen besonderen Bedingungen bleiben die Bestimmungen der AHV/IV/EO/ALV auf sie anwendbar. Diejenigen Versicherten, welche ihre Verpflichtungen nicht innert den vorgeschriebenen Fristen erfüllen, werden nach erfolgter Mahnung ausgeschlossen.
+
+Die Organisation übermittelt dem Eidgenössischen Departement für auswärtige Angelegenheiten eine Liste der Beamten schweizerischer Nationalität, welche, per 1. Januar 1994, einem von der Organisation vorgesehenen Vorsorgesystem angehören, und wird schriftlich jeden Ein- oder Austritt eines schweizerischen Beamten in das besagte oder aus dem besagten System melden.
+
+Ich wäre Ihnen verbunden, wenn Sie mir mitteilen könnten, ob Sie mit dieser Vorgehensweise einverstanden sind. Ist dies der Fall, so bildet dieses Schreiben zusammen mit Ihrer Antwort ein Abkommen mittels Briefwechsels. Dieses wird am Tag in Kraft treten, an welchem die Bundesbehörden den Abschluss der dafür notwendigen verfassungsmässigen Prozeduren notifizieren. Bis zu diesem Termin wird es, mit Wirkung ab 1. Januar 1994, provisorisch angewendet werden.
+
+Das Abkommen kann beiderseits, unter Einhaltung einer Kündigungsfrist von zwölf Monaten, mit Wirkung ab dem ersten Tag eines Kalenderjahres schriftlich gekündigt werden.
+
+Ich versichere Sie, Herr Generaldirektor, meiner ausgezeichneten Hochachtung.
+
+<table>
+<tr><td></td><td>Flavio Cotti Bundesrat</td></tr>
+</table>
+
+Im Namen der Organisation stimme ich den in Ihrem Brief enthaltenen Bestimmungen zu. Demzufolge bilden Ihr Brief und der meinige ein Abkommen auf dem Wege des Briefwechsels. Dieses wird am Tag in Kraft treten, an dem die Bundesbehörden den Abschluss der dazu notwendigen verfassungsmässigen Voraussetzungen notifizieren. Bis zu diesem Zeitpunkt wird es, mit Wirkung vom 1. Januar 1994 an, provisorisch angewendet werden.
+
+Ich versichere Sie, Herr Bundesrat, meiner ausgezeichneten Hochachtung.
+
+<table>
+<tr><td></td><td>Der Präsident des Verwaltungsausschusses</td></tr>
+<tr><td></td><td>H. G. Gern</td></tr>
+</table>
+
+[^ingress-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+[^ingress-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^ingress-3]: [SR 0.192.122.742](https://fedlex.data.admin.ch/eli/cc/1988/842_842_842)

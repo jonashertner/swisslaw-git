@@ -1,0 +1,404 @@
+---
+sr: "0.732.031.1"
+title: Amendement du 8 juillet 2005 de la Convention du 26 octobre 1979 sur la protection physique des matières nucléaires
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/286"
+language: fr
+version: 2020-05-20
+adopted: 2005-07-08
+in_force: 2016-05-08
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20200520/fr/xml/fedlex-data-admin-ch-eli-cc-2016-286-20200520-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20200520/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Amendement de la Convention du 26 octobre 1979 sur la protection physique des matières nucléaires
+
+RO **2016** 1487; FF **2008** 1041
+
+*Texte original*
+
+Conclu à Vienne le 8 juillet 2005
+
+Approuvé par l’Assemblée fédérale le 13 juin 2008[^t-1]
+
+Instrument de ratification déposé par la Suisse le 15 octobre 2008
+
+Entré en vigueur pour la Suisse le 8 mai 2016
+
+(Etat le 20 mai 2020)
+
+[^t-1]: [RO 2016 1485](https://fedlex.data.admin.ch/eli/oc/2016/285)
+
+\1. Le Titre de la Convention sur la protection physique des matières nucléaires*[^t-2]*, adoptée le 26 octobre 1979 (ci-après dénommée «la Convention») est remplacé par le titre suivant:
+
+**Convention sur la prote****c****tion physique des matières nucléaires et des installations nucléaires**
+
+\2. Le préambule de la Convention est remplacé par le texte suivant:
+
+Les États parties à la présente Convention,
+
+reconnaissant le droit de tous les États à développer et à utiliser les applications de l’énergie nucléaire à des fins pacifiques et leur intérêt légitime pour les avantages qui peuvent en découler,
+
+convaincus de la nécessité de faciliter la coopération internationale et le transfert de technologies nucléaires pour les applications pacifiques de l’énergie nucléaire,
+
+ayant à l’esprit que la protection physique est d’une importance vitale pour la protection de la santé du public, la sûreté, l’environnement et la sécurité nationale et internationale,
+
+ayant à l’esprit les buts et principes de la Charte des Nations Unies[^t-3] concernant le maintien de la paix et de la sécurité internationales et la promotion de relations de bon voisinage et d’amitié, et de la coopération entre les États,
+
+considérant qu’aux termes du par. 4 de l’art. 2 de la Charte des Nations Unies, les «Membres de l’Organisation s’abstiennent, dans leurs relations internationales, de recourir à la menace ou à l’emploi de la force, soit contre l’intégrité territoriale ou l’indépendance politique de tout État, soit de toute autre manière incompatible avec les buts des Nations Unies»,
+
+rappelant la Déclaration sur les mesures visant à éliminer le terrorisme international annexée à la résolution 49/60 adoptée par l’Assemblée générale des Nations Unies le 9 décembre 1994,
+
+désireux d’écarter les risques qui pourraient découler du trafic illicite, de l’obtention et de l’usage illicites de matières nucléaires, et du sabotage de matières et installations nucléaires, et notant que la protection physique desdites matières et installations contre de tels actes est devenue un motif de préoccupation accrue aux niveaux national et international,
+
+profondément préoccupés par la multiplication dans le monde entier des actes de terrorisme sous toutes ses formes et manifestations et par les menaces que font peser le terrorisme international et le crime organisé,
+
+estimant que la protection physique joue un rôle important d’appui aux objectifs de non-prolifération nucléaire et de lutte contre le terrorisme,
+
+désireux de contribuer par le biais de la présente Convention à renforcer dans le monde entier la protection physique des matières nucléaires et des installations nucléaires utilisées à des fins pacifiques,
+
+convaincus que les infractions relatives aux matières et installations nucléaires sont un motif de grave préoccupation et qu’il est urgent de prendre des mesures appropriées et efficaces, ou de renforcer les mesures existantes, pour assurer la prévention, la découverte et la répression de ces infractions,
+
+désireux de renforcer davantage la coopération internationale en vue de prendre, conformément à la législation nationale de chaque État partie et à la présente Convention, des mesures efficaces pour assurer la protection physique des matières et installations nucléaires,
+
+convaincus que la présente Convention devrait compléter l’utilisation, l’entreposage et le transport sûrs des matières nucléaires et l’exploitation sûre des installations nucléaires,
+
+reconnaissant qu’il existe des recommandations formulées au niveau international en matière de protection physique, qui sont mises à jour périodiquement et peuvent fournir à tout moment des orientations quant aux moyens actuels de parvenir à des niveaux efficaces de protection physique,
+
+reconnaissant également que la protection physique efficace des matières nucléaires et des installations nucléaires utilisées à des fins militaires relève de la responsabilité de l’État possédant de telles matières nucléaires et installations nucléaires, et étant entendu que lesdites matières et installations font et continueront de faire l’objet d’une protection physique rigoureuse,
+
+sont convenus de ce qui suit:
+
+\3. Dans l’art. premier de la Convention, après le par. c) sont ajoutés deux nouveaux paragraphes libellés comme suit:
+
+- d) par «installation nucléaire», il faut entendre une installation (y compris les bâtiments et équipements associés) dans laquelle des matières nucléaires sont produites, traitées, utilisées, manipulées, entreposées ou stockées définitivement, si un dommage causé à une telle installation ou un acte qui perturbe son fonctionnement peut entraîner le relâchement de quantités significatives de rayonnements ou de matières radioactives;
+- e) par «sabotage», il faut entendre tout acte délibéré dirigé contre une installation nucléaire ou des matières nucléaires en cours d’utilisation, en entreposage ou en cours de transport, qui est susceptible, directement ou indirectement, de porter atteinte à la santé et à la sécurité du personnel ou du public ou à l’environnement en provoquant une exposition à des rayonnements ou un relâchement de substances radioactives.
+
+\4. Après l’Art. 1 de la Convention est ajouté un nouvel Art. 1 A libellé comme suit:
+
+Art. 1 A
+
+Les objectifs de la présente Convention sont d’instaurer et de maintenir dans le monde entier une protection physique efficace des matières nucléaires utilisées à des fins pacifiques et des installations nucléaires utilisées à des fins pacifiques, de prévenir et de combattre les infractions concernant de telles matières et installations dans le monde entier, et de faciliter la coopération entre les États parties à cette fin.
+
+\5. L’Art. 2 de la Convention est remplacé par le texte suivant:
+
+\1. La présente Convention s’applique aux matières nucléaires utilisées à des fins pacifiques en cours d’utilisation, en entreposage et en cours de transport et aux installations nucléaires utilisées à des fins pacifiques, étant entendu, toutefois, que les dispositions des art. 3 et 4 et du par. 4 de l’art. 5 de la présente Convention ne s’appliquent à de telles matières nucléaires qu’en cours de transport nucléaire international.
+
+\2. La responsabilité de l’élaboration, de la mise en oeuvre et du maintien d’un système de protection physique sur le territoire d’un État partie incombe entièrement à cet État.
+
+\3. Indépendamment des engagements expressément contractés par les États parties en vertu de la présente Convention, rien dans la présente Convention ne doit être interprété comme limitant les droits souverains d’un État.
+
+- 4\. a) Rien dans la présente Convention ne modifie les autres droits, obligations et responsabilités qui découlent pour les États parties du droit international, en particulier des buts et principes de la Charte des Nations Unies et du droit humanitaire international.
+- b) Les activités des forces armées en période de conflit armé, au sens donné à ces termes en droit humanitaire international, qui sont régies par ce droit ne sont pas régies par la présente Convention, et les activités menées par les forces armées d’un État dans l’exercice de leurs fonctions officielles, en tant qu’elles sont régies par d’autres règles de droit international, ne sont pas non plus régies par la présente Convention.
+- c) Rien dans la présente Convention n’est considéré comme une autorisation licite de recourir ou de menacer de recourir à la force contre des matières ou des installations nucléaires utilisées à des fins pacifiques.
+- d) Rien dans la présente Convention n’excuse ou ne rend licites des actes par ailleurs illicites, ni n’empêche l’exercice de poursuites en vertu d’autres lois.
+
+\5. La présente Convention ne s’applique pas à des matières nucléaires utilisées ou conservées à des fins militaires ou à une installation nucléaire contenant de telles matières.
+
+\6. Après l’Art. 2 de la Convention est ajouté un nouvel Art. 2 A libellé comme suit:
+
+Art. 2 A
+
+\1. Chaque État partie élabore, met en oeuvre et maintient un système approprié de protection physique des matières et installations nucléaires sous sa juridiction ayant pour objectifs:
+
+- a) de protéger les matières nucléaires en cours d’utilisation, en entreposage et en cours de transport contre le vol et l’obtention illicite par d’autres moyens;
+- b) d’assurer l’application de mesures rapides et complètes destinées à localiser et, s’il y a lieu, récupérer des matières nucléaires manquantes ou volées; lorsque les matières sont situées en dehors de son territoire, cet État partie agit conformément aux dispositions de l’art. 5;
+- c) de protéger les matières et installations nucléaires contre le sabotage;
+- d) d’atténuer ou de réduire le plus possible les conséquences radiologiques d’un sabotage.
+
+\2. Pour la mise en oeuvre du par. 1, chaque État partie:
+
+- a) établit et maintient un cadre législatif et réglementaire pour régir la protection physique;
+- b) crée ou désigne une ou plusieurs autorités compétentes chargées de mettre en oeuvre le cadre législatif et réglementaire;
+- c) prend toute autre mesure appropriée nécessaire pour assurer la protection physique des matières et installations nucléaires.
+
+\3. Pour la mise en oeuvre des obligations visées aux par. 1 et 2, chaque État partie, sans préjudice des autres dispositions de la présente Convention, applique pour autant qu’il soit raisonnable et faisable les principes fondamentaux de protection physique des matières et installations nucléaires ci-après:
+
+*Principe fondamental A:* Responsabilité de l’État
+
+La responsabilité de l’élaboration, de la mise en oeuvre et du maintien d’un système deprotection physique sur le territoire d’un État incombe entièrement à cet État.
+
+*Principe fondamental B:* Responsabilités pendant un transport international
+
+La responsabilité d’un État pour assurer la protection adéquate des matières nucléaires s’étend au transport international de ces dernières jusqu’à ce qu’elle ait été transférée en bonne et dueforme à un autre État, de manière appropriée.
+
+*Principe fondamental C:* Cadre législatif et réglementaire
+
+L’État est chargé d’établir et de maintenir un cadre législatif et réglementaire pour la protection physique. Ce cadre devrait inclure l’élaboration de prescriptions de protection physique pertinentes et la mise en place d’un système d’évaluation et d’agrément ou prévoir d’autres procédures pour la délivrance des autorisations. Il devrait en outre comporter un système d’inspection des installations nucléaires et du transport de matières nucléaires, destiné à s’assurer que les prescriptions pertinentes et les conditions d’agrément ou des autres documents d’autorisation sont respectées et à mettre en place des moyens pour les faire appliquer, incluant des sanctions efficaces.
+
+*Principe fondamental D:* Autorité compétente
+
+L’État devrait créer ou désigner une autorité compétente chargée de mettre en oeuvre le cadre législatif et réglementaire et dotée des pouvoirs, des compétences et des ressources financières et humaines adéquats pour assumer les responsabilités qui lui ont été confiées. L’État devrait prendre des mesures pour veiller à ce qu’il y ait une réelle indépendance entre les fonctions de l’autorité nationale compétente et celles de tout autre organisme chargé de la promotion ou de l’utilisation de l’énergie nucléaire.
+
+*Principe fondamental E:* Responsabilité des détenteurs d’agréments
+
+Les responsabilités en matière de mise en oeuvre des différents éléments composant le système de protection physique sur le territoire d’un État devraient être clairement définies. L’État devrait s’assurer que la responsabilité de la mise en oeuvre de la protection physique des matières ou des installations nucléaires incombe en premier lieu aux détenteurs d’agréments pertinents ou d’autres documents d’autorisation (par exemple les exploitants ou les expéditeurs).
+
+*Principe fondamental F:* Culture de sécurité
+
+Toutes les entités impliquées dans la mise en oeuvre de la protection physique devraient accorder la priorité requise à la culture de sécurité, à son développement et à son maintien, nécessaires pour assurer sa mise en oeuvre effective à tous les échelons de chacune de ces entités.
+
+*Principe fondamental G:* Menace
+
+La protection physique dans un État devrait être fondée sur l’évaluation actuelle de la menace faite par l’État.
+
+*Principe fondamental H:* Approche graduée
+
+Les prescriptions concernant la protection physique devraient être établies selon une approche graduée qui tienne compte de l’évaluation actuelle de la menace, de l’attractivité relative, de la nature des matières et des conséquences qui pourraient résulter de l’enlèvement non autorisé de matières nucléaires et d’un acte de sabotage contre des matières nucléaires ou des installations nucléaires.
+
+*Principe fondamental I:* Défense en profondeur
+
+Les prescriptions nationales concernant la protection physique devraient être l’expression d’un concept reposant sur plusieurs niveaux et modalités de protection (qu’ils soient structurels ou techniques, concernant le personnel ou organisationnels) qui doivent être surmontés ou contournés par un agresseur pour atteindre ses objectifs.
+
+*Principe fondamental J:* Assurance de la qualité
+
+Une politique et des programmes d’assurance de la qualité devraient être établis et mis en oeuvre en vue d’assurer que les prescriptions définies pour toutes les activités importantes en matière de protection physique sont respectées.
+
+*Principe fondamental K*: Plans d’urgence
+
+Des plans d’urgence destinés à répondre à un enlèvement non autorisé de matières nucléaires ou à un acte de sabotage visant des installations ou des matières nucléaires ou de tentatives en ce sens devraient être préparés et testés de manière appropriée par tous les détenteurs d’autorisation et les autorités concernées.
+
+*Principe fondamental L:* Confidentialité
+
+L’État devrait établir les prescriptions à respecter pour préserver la confidentialité des informations, dont la divulgation non autorisée pourrait compromettre la protection physique des matières et des installations nucléaires.
+
+- 4\. a) Les dispositions du présent article ne s’appliquent pas à toute matière nucléaire dont l’État partie décide raisonnablement qu’elle n’a pas à être soumise au système de protection physique établi conformément au par. 1, compte tenu de sa nature, de sa quantité et de son attractivité relative, des conséquences radiologiques potentielles et autres conséquences de tout acte non autorisé dirigé contre elle et de l’évaluation actuelle de la menace la concernant.
+- b) Une matière nucléaire qui n’est pas soumise aux dispositions du présent article en vertu de l’al. a) devrait être protégée conformément à des pratiques de gestion prudente.
+
+\7. L’Art. 5 de la Convention est remplacé par le texte suivant:
+
+\1. Les États parties désignent et s’indiquent mutuellement, directement ou par l’intermédiaire de l’Agence internationale de l’énergie atomique, leurs correspondants pour les questions relevant de la présente Convention.
+
+\2. En cas de vol, de vol qualifié ou de toute autre obtention illicite de matières nucléaires, ou de menace vraisemblable d’un tel acte, les États parties apportent leur coopération et leur aide dans toute la mesure possible, conformément à leur législation nationale, pour la récupération et la protection desdites matières, à tout État qui en fait la demande. En particulier:
+
+- a) un État partie prend les dispositions nécessaires pour informer aussitôt que possible les autres États qui lui semblent concernés de tout vol, vol qualifié ou autre obtention illicite de matières nucléaires, ou de menace vraisemblable d’un tel acte, et pour informer, selon qu’il convient, l’Agence internationale de l’énergie atomique et les autres organisations internationales pertinentes;
+- b)
+
+  ce faisant, et selon qu’il convient, les États parties concernés échangent des informations entre eux ou avec l’Agence internationale de l’énergie atomique et les autres organisations internationales pertinentes afin de protéger les matières nucléaires menacées, de vérifier l’intégrité du conteneur de transport ou de récupérer les matières nucléaires illicitement enlevées, et:
+
+  - i) coordonnent leurs efforts par la voie diplomatique et par d’autres moyens prévus d’un commun accord,
+  - ii) se prêtent assistance, si la demande en est faite,
+  - iii) assurent la restitution des matières nucléaires volées ou manquantes qui ont été récupérées par suite des événements susmentionnés.
+
+Les modalités de mise en oeuvre de cette coopération sont arrêtées par les États parties concernés.
+
+\3. En cas d’acte de sabotage de matières nucléaires ou d’une installation nucléaire, ou de menace vraisemblable d’un tel acte, les États parties coopèrent dans toute la mesure possible, conformément à leur législation nationale ainsi qu’aux obligations pertinentes qui leur incombent en vertu du droit international, selon les modalités suivantes:
+
+- a) si un État partie a connaissance d’une menace vraisemblable de sabotage de matières ou d’une installation nucléaires dans un autre État, il décide des dispositions à prendre pour en informer aussitôt que possible ce dernier et, selon qu’il convient, l’Agence internationale de l’énergie atomique et les autres organisations internationales pertinentes, afin d’empêcher le sabotage;
+- b) en cas de sabotage de matières ou d’une installation nucléaires dans un État partie et si celui-ci estime que d’autres États sont susceptibles d’être touchés par un événement de nature radiologique, sans préjudice des autres obligations qui lui incombent en vertu du droit international, il prend les dispositions nécessaires pour informer aussitôt que possible l’autre ou les autres États susceptibles d’être touchés par un événement de nature radiologique et, selon qu’il convient, l’Agence internationale de l’énergie atomique et les autres organisations internationales pertinentes, afin de réduire le plus possible ou d’atténuer les conséquences radiologiques de cet acte de sabotage;
+- c) si, compte tenu des al. a) et b), un État partie demande une assistance, chaque État partie auquel une telle demande est adressée détermine rapidement et fait savoir à celui qui requiert l’assistance, directement ou par l’intermédiaire de l’Agence internationale de l’énergie atomique, s’il est en mesure de fournir l’assistance requise, ainsi que la portée et les conditions de l’assistance qui pourrait être octroyée;
+- d) la coordination des activités de coopération visées aux al. a), b) et c) est assurée par la voie diplomatique et par d’autres moyens prévus d’un commun accord. Les modalités de mise en oeuvre de cette coopération sont définies par les États parties concernés de manière bilatérale ou multilatérale.
+
+\4. Les États parties coopèrent et se consultent, en tant que de besoin, directement ou par l’intermédiaire de l’Agence internationale de l’énergie atomique et d’autres organisations internationales pertinentes, en vue d’obtenir des avis sur la conception, le maintien et l’amélioration des systèmes de protection physique des matières nucléaires en cours de transport international.
+
+\5. Un État partie peut consulter les autres États parties et coopérer avec eux, en tant que de besoin, directement ou par l’intermédiaire de l’Agence internationale de l’énergie atomique et d’autres organisations internationales pertinentes, en vue d’obtenir leurs avis sur la conception, le maintien et l’amélioration de son système national de protection physique des matières nucléaires en cours d’utilisation, en entreposage et en cours de transport sur le territoire national et des installations nucléaires.
+
+\8. L’Art. 6 de la Convention est remplacé par le texte suivant:
+
+\1. Les États parties prennent les mesures appropriées compatibles avec leur législation nationale pour protéger le caractère confidentiel de toute information qu’ils reçoivent à titre confidentiel en vertu des dispositions de la présente Convention d’un autre État partie ou à l’occasion de leur participation à une activité exécutée en application de la présente Convention. Lorsque des États parties communiquent confidentiellement des informations à des organisations internationales ou à des États qui ne sont pas parties à la présente Convention, des mesures sont prises pour faire en sorte que la confidentialité de ces informations soit protégée. Un État partie qui a reçu des informations à titre confidentiel d’un autre État partie ne communique ces informations à des tiers qu’avec le consentement de cet autre État partie.
+
+\2. Les États parties ne sont pas tenus par la présente Convention de fournir des informations que leur législation nationale ne permet pas de communiquer ou qui compromettraient leur sécurité nationale ou la protection physique des matières ou installations nucléaires.
+
+\9. Le par. 1 de l’Art. 7 de la Convention est remplacé par le texte suivant:
+
+\1. Le fait de commettre intentionnellement l’un des actes suivants:
+
+- a) le recel, la détention, l’utilisation, le transfert, l’altération, la cession ou la dispersion de matières nucléaires, sans l’autorisation requise, et entraînant ou pouvant entraîner la mort ou des blessures graves pour autrui ou des dommages substantiels aux biens ou à l’environnement;
+- b) le vol simple ou le vol qualifié de matières nucléaires;
+- c) le détournement ou toute autre appropriation indue de matières nucléaires;
+- d) un acte consistant à transporter, envoyer ou déplacer des matières nucléaires vers ou depuis un État sans l’autorisation requise;
+- e) un acte dirigé contre une installation nucléaire, ou un acte perturbant le fonctionnement d’une installation nucléaire, par lequel l’auteur provoque intentionnellement ou sait qu’il peut provoquer la mort ou des blessures graves pour autrui ou des dommages substantiels aux biens ou à l’environnement par suite de l’exposition à des rayonnements ou du relâchement de substances radioactives, à moins que cet acte ne soit entrepris en conformité avec le droit national de l’État partie sur le territoire duquel l’installation nucléaire est située;
+- f) le fait d’exiger des matières nucléaires par la menace, le recours à la force ou toute autre forme d’intimidation;
+- g)
+
+  la menace:
+
+  - i) d’utiliser des matières nucléaires dans le but de causer la mort ou des blessures graves à autrui ou des dommages substantiels aux biens ou à l’environnement ou de commettre l’infraction décrite à l’al. e), ou
+  - ii) de commettre une des infractions décrites aux al. b) et e) dans le but de contraindre une personne physique ou morale, une organisation internationale ouun État à faire ou à s’abstenir de faire un acte;
+
+- h) la tentative de commettre l’une des infractions décrites aux al. a) à e);
+- i) le fait de participer à l’une des infractions décrites aux al. a) à h);
+- j) le fait pour une personne d’organiser la commission d’une infraction visée aux al. a) à h) ou de donner l’ordre à d’autres personnes de la commettre;
+- k)
+
+  un acte qui contribue à la commission de l’une des infractions décrites aux al. a) à h) par un groupe de personnes agissant de concert. Un tel acte est intentionnel et:
+
+  - i) soit vise à faciliter l’activité criminelle ou à servir le but criminel du groupe, lorsque cette activité ou ce but supposent la commission d’une infraction visée aux al. a) à g),
+  - ii) soit est fait en sachant que le groupe a l’intention de commettre une infraction visée aux al. a) à g);
+
+est considéré par chaque État partie comme une infraction punissable en vertu de son droit national.
+
+\10. Après l’Art. 11 de la Convention sont ajoutés deux nouveaux articles, Art. 11 A et Art. 11 B libellés comme suit:
+
+Art. 11 A
+
+Aux fins de l’extradition ou de l’entraide judiciaire entre États parties, aucune des infractions visées à l’art. 7 n’est considérée comme une infraction politique, ou connexe à une infraction politique, ou inspirée par des mobiles politiques. En conséquence, une demande d’extradition ou d’entraide judiciaire fondée sur une telle infraction ne peut être refusée pour la seule raison qu’elle concerne une infraction politique, une infraction connexe à une infraction politique ou une infraction inspirée par des mobiles politiques.
+
+Art. 11 B
+
+Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d’extradition ou d’entraide judiciaire si l’État partie requis a des raisons sérieuses de croire que la demande d’extradition pour les infractions visées à l’art. 7 ou la demande d’entraide concernant de telles infractions a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité, d’origine ethnique ou d’opinions politiques, ou que donner suite à cette demande porterait préjudice à la situation de cette personne pour l’une quelconque de ces considérations.
+
+\11. Après l’Art. 13 de la Convention est ajouté un nouvel Art. 13 A libellé comme suit:
+
+Art. 13 A
+
+Rien dans la présente Convention n’affecte le transfert de technologie nucléaire à des fins pacifiques qui est entrepris en vue de renforcer la protection physique des matières et installations nucléaires.
+
+\12. Le par. 3 de l’Art. 14 de la Convention est remplacé par le texte suivant:
+
+\3. Lorsqu’une infraction concerne des matières nucléaires en cours d’utilisation, en entreposage ou en cours de transport sur le territoire national et que tant l’auteur présumé del’infraction que les matières nucléaires concernées demeurent sur le territoire de l’État partie où l’infraction a été commise, ou lorsqu’une infraction concerne une installation nucléaire et que l’auteur présumé de l’infraction demeure sur le territoire de l’État partie où l’infraction a été commise, rien dans la présente Convention n’est interprété comme impliquant pour cet État partie de fournir des informations sur les procédures pénales relatives à cette infraction.
+
+\13. L’Art. 16 de la Convention est remplacé par le texte suivant:
+
+\1. Le dépositaire convoque une conférence des États parties cinq ans après l’entrée en vigueur de l’amendement adopté le 8 juillet 2005 afin d’examiner l’application de la présente Convention et de procéder à son évaluation en ce qui concerne le préambule, la totalité du dispositif et les annexes compte tenu de la situation existant à ce moment-là.
+
+\2. Par la suite, à des intervalles de cinq ans au moins, la majorité des États parties peut obtenir la convocation de conférences ultérieures ayant le même objectif, en soumettant au dépositaire une proposition à cet effet.
+
+\14. La note b/ de l’annexe II de la Convention est remplacée par le texte suivant:
+
+<sup>b/</sup> Matières non irradiées dans un réacteur ou matières irradiées dans un réacteur donnant un niveau de rayonnement égal ou inférieur à 1 gray/heure (100 rads/heure) à 1 mètre de distance sans écran.
+
+\15. La note e/ de l’annexe II de la Convention est remplacée par le texte suivant:
+
+<sup>e/</sup> Les autres combustibles qui en vertu de leur teneur originelle en matières fissiles sont classés dans la catégorie I ou dans la catégorie II avant irradiation peuvent entrer dans la catégorie directement inférieure si le niveau de rayonnement du combustible dépasse 1 gray/heure (100 rads/heure) à 1 mètre de distance sans écran.
+
+[^t-2]: [RS 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
+[^t-3]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+Champ d’application le 20 mai 2020[^t-4]
+
+<table>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>26 avril</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Algérie</td><td>25 avril</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Allemagne</td><td>21 octobre</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>17 décembre</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Arabie Saoudite</td><td>21 janvier</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Argentine</td><td>15 novembre</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Arménie</td><td>22 mai</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Australie</td><td>17 juillet</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Autriche</td><td>18 septembre</td><td>2006</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Azerbaïdjan</td><td>31 mars</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Bahreïn</td><td>9 juin</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Bangladesh</td><td>4 juillet</td><td>2017</td><td>4 juillet</td><td>2017</td></tr>
+<tr><td>Belgique\*</td><td>22 janvier</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Bénin</td><td>18 septembre</td><td>2019</td><td>18 octobre</td><td>2019</td></tr>
+<tr><td>Bolivie</td><td>18 septembre</td><td>2017</td><td>18 septembre</td><td>2017</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>21 juin</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Botswana</td><td>15 septembre</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Bulgarie</td><td>17 mars</td><td>2006</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Burkina Faso</td><td>7 août</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Cameroun</td><td>1<sup>er</sup> avril</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Canada</td><td>3 décembre</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Chili</td><td>12 mars</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Chine</td><td>14 septembre</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Chypre</td><td>27 février</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Colombie</td><td>18 février</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>[tab] Communauté européenne de l’énergie atomique (CEEA/EURATOM)</td><td>16 décembre</td><td>2015 A</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Comores</td><td>18 novembre</td><td>2019</td><td>18 novembre</td><td>2019</td></tr>
+<tr><td>Corée (Sud)</td><td>29 mai</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Costa Rica</td><td>4 mai</td><td>2017</td><td>4 mai</td><td>2017</td></tr>
+<tr><td>Côte d’Ivoire</td><td>10 février</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Croatie</td><td>11 septembre</td><td>2006</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Cuba</td><td>16 septembre</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Danemark\*</td><td>19 mai</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Groënland</td><td>24 octobre</td><td>2017</td><td>24 octobre</td><td>2017</td></tr>
+<tr><td>Îles Féroé</td><td>24 octobre</td><td>2017</td><td>24 octobre</td><td>2017</td></tr>
+<tr><td>Djibouti</td><td>22 avril</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>El Salvador</td><td>20 décembre</td><td>2016</td><td>20 décembre</td><td>2016</td></tr>
+<tr><td>Émirats arabes unis</td><td>31 juillet</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Équateur</td><td>27 septembre</td><td>2017</td><td>27 septembre</td><td>2017</td></tr>
+<tr><td>Érythrée</td><td>13 mars</td><td>2020</td><td>12 avril</td><td>2020</td></tr>
+<tr><td>Espagne</td><td>9 novembre</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Estonie</td><td>24 février</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Eswatini</td><td>28 septembre</td><td>2016</td><td>28 octobre</td><td>2016</td></tr>
+<tr><td>États-Unis</td><td>31 juillet</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Fidji</td><td>22 juin</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Finlande</td><td>17 juin</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>France</td><td>1<sup>er</sup> février</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Gabon</td><td>20 mars</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Ghana</td><td>12 décembre</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Grèce</td><td>13 décembre</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Géorgie</td><td>5 avril</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Hongrie</td><td>4 décembre</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Îles Marshall</td><td>30 mars</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Inde</td><td>19 septembre</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Indonésie</td><td>27 mai</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Irlande</td><td>22 septembre</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Islande</td><td>27 octobre</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Israël\*</td><td>16 mars</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Italie</td><td>8 juillet</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Jamaïque</td><td>10 janvier</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Japon</td><td>27 juin</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Jordanie</td><td>7 octobre</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Kazakhstan</td><td>26 avril</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Kenya</td><td>1<sup>er</sup> août</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Kirghizistan</td><td>26 septembre</td><td>2016</td><td>26 septembre</td><td>2016</td></tr>
+<tr><td>Koweït</td><td>1<sup>er</sup> avril</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Lesotho</td><td>19 septembre</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Lettonie</td><td>23 novembre</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Libye</td><td>19 juillet</td><td>2006</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Liechtenstein</td><td>13 octobre</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Lituanie</td><td>19 mai</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Luxembourg</td><td>24 février</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Macédoine du Nord</td><td>25 novembre</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Madagascar</td><td>3 mars</td><td>2017</td><td>3 mars</td><td>2017</td></tr>
+<tr><td>Mali</td><td>27 janvier</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Malte</td><td>16 septembre</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Maroc</td><td>10 décembre</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Mauritanie</td><td>28 février</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Mexique</td><td>1<sup>er</sup> août</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Moldova</td><td>22 décembre</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Monaco</td><td>18 septembre</td><td>2017</td><td>18 septembre</td><td>2017</td></tr>
+<tr><td>Monténégro</td><td>1<sup>er</sup> avril</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Myanmar</td><td>6 décembre</td><td>2016</td><td>5 janvier</td><td>2017</td></tr>
+<tr><td>Namibie</td><td>16 août</td><td>2017</td><td>16 août</td><td>2017</td></tr>
+<tr><td>Nauru</td><td>14 juin</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Nicaragua</td><td>8 avril</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Niger</td><td>28 mai</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Nigéria</td><td>4 mai</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Norvège</td><td>20 août</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Nouvelle-Zélande\*</td><td>18 mars</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Ouzbékistan</td><td>7 février</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Pakistan</td><td>24 mars</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Palestine</td><td>11 janvier</td><td>2018</td><td>10 février</td><td>2018</td></tr>
+<tr><td>Panama</td><td>25 juillet</td><td>2018</td><td>25 juillet</td><td>2018</td></tr>
+<tr><td>Paraguay</td><td>11 mars</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>17 avril</td><td>2011</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Pologne</td><td>1<sup>er</sup> juin</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Portugal</td><td>26 novembre</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Pérou</td><td>27 mars</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Qatar</td><td>11 novembre</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Roumanie</td><td>6 février</td><td>2007</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Royaume-Uni</td><td>8 avril</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Île de Man</td><td>8 avril</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Russie</td><td>19 septembre</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>République dominicaine</td><td>22 septembre</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>République tchèque</td><td>30 décembre</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>11 novembre</td><td>2019</td><td>11 novembre</td><td>2019</td></tr>
+<tr><td>Saint-Marin</td><td>18 février</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Sainte-Lucie</td><td>8 novembre</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Sénégal</td><td>18 juillet</td><td>2017</td><td>18 juillet</td><td>2017</td></tr>
+<tr><td>Serbie</td><td>30 mars</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Seychelles</td><td>9 janvier</td><td>2006</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Singapour</td><td>22 octobre</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Slovaquie</td><td>7 mars</td><td>2013</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Slovénie</td><td>1<sup>er</sup> septembre</td><td>2009</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Suisse</td><td>15 octobre</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Suède</td><td>23 mars</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Syrie<sup>\*</sup></td><td>5 décembre</td><td>2019</td><td>4 janvier</td><td>2020</td></tr>
+<tr><td>Tadjikistan</td><td>10 juillet</td><td>2014</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Tchad</td><td>16 septembre</td><td>2019</td><td>16 octobre</td><td>2019</td></tr>
+<tr><td>Thaïlande</td><td>19 juin</td><td>2018</td><td>19 juillet</td><td>2018</td></tr>
+<tr><td>Tunisie</td><td>7 juin</td><td>2010</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Turkménistan</td><td>22 septembre</td><td>2005</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Turquie\*</td><td>8 juillet</td><td>2015</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Ukraine</td><td>24 décembre</td><td>2008</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Uruguay</td><td>8 avril</td><td>2016</td><td>8 mai</td><td>2016</td></tr>
+<tr><td>Vietnam</td><td>3 novembre</td><td>2012</td><td>8 mai</td><td>2016</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): www.iaea.org/ &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Pour la partie européenne des Pays-Bas.</td></tr>
+</table>
+
+[^t-4]: [RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286), [2017 2541](https://fedlex.data.admin.ch/eli/oc/2017/236). [2018 1203](https://fedlex.data.admin.ch/eli/oc/2018/186), [2020 1869](https://fedlex.data.admin.ch/eli/oc/2020/383). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).

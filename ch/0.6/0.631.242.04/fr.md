@@ -1,0 +1,8317 @@
+---
+sr: "0.631.242.04"
+title: Convention du 20 mai 1987 relative à un régime de transit commun (avec appendices et prot. add.)
+eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
+language: fr
+version: 2021-01-01
+adopted: 1987-05-20
+in_force: 1988-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Convention relative à un régime de transit commun****
+
+RO **1988** 308;FF **1987** II1459[^t-1]
+
+Texte original
+
+Conclue le 20 mai 1987
+
+Approuvée par l’Assemblée fédérale le 8 octobre 1987[^t-2]
+
+Instrument de ratification déposé par la Suisse le 28 octobre 1987
+
+Entrée en vigueur le 1<sup>er</sup> janvier 1988
+
+(Etat le 1<sup>er</sup> janvier 2021)
+
+[^t-1]: Cette Conv. comprenait primitivement les parties contractantes suivantes: la CEE, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse. La République d’Autriche, la République de Finlande et le Royaume de Suède ont adhéré aux Communautés européennes le 1<sup>er</sup> janv. 1995 et, depuis cette date, ne sont plus des parties contractantes autonomes à la Conv. La Pologne, la Slovaquie, la Tchéquie et la Hongrie ont adhéré à la Conv. le 1<sup>er</sup> juil. 1996 ([RO 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Suite à leur adhésion à l’UE, ces 4 pays ne sont plus des parties contractantes autonomes à la Conv. depuis le 1<sup>er</sup> mai 2004. Sont également parties contractantes la République de Croatie depuis le 1<sup>er</sup> juil. 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la République de Turquie depuis le 1<sup>er</sup> déc. 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), la Macédoine depuis le 1<sup>er</sup> juil 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et la Serbie depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
+[^t-2]: Art. 1 al. 1 let. b de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
+
+La République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède, la Confédération suisse (ci-après dénommés «pays de l’AELE») et la Communauté économique européenne (ci-après dénommée «Communauté»),
+
+considérant les accords de libre-échange conclus entre la Communauté et chacun des pays de l’AELE,
+
+considérant la déclaration commune adoptée par les ministres des pays de l’AELE et des États membres de la Communauté et la Commission des Communautés européennes à Luxembourg le 9 avril 1984 et visant à créer un espace économique européen notamment pour la simplification des formalités aux frontières et des règles d’origine,
+
+considérant la convention relative à la simplification des formalités dans les échanges de marchandises[^ingress-1], conclue entre les pays de l’AELE et la Communauté, instaurant un document administratif unique à utiliser dans ces échanges,
+
+considérant que l’introduction de ce document unique utilisé dans le cadre d’un régime de transit commun pour le transport des marchandises entre la Communauté et les pays de l’AELE et entre les pays de l’AELE eux-mêmes conduira à des simplifications,
+
+considérant que la façon la mieux appropriée de parvenir à cet objectif est d’étendre aux pays de l’AELE qui ne l’appliquent pas le régime de transit qui s’applique actuellement aux transports de marchandises à l’intérieur de la Communauté, entre la Communauté et la Suisse ou l’Autriche, et entre la Suisse et l’Autriche,
+
+considérant également le «*Nordic transit order*» appliqué entre la Finlande, la Norvège et la Suède,
+
+ont décidé de conclure la convention suivante:
+
+[^ingress-1]: [RS 0.631.242.03](https://fedlex.data.admin.ch/eli/cc/1988/301_301_301)
+
+## Dispositions générales
+
+#### Art. 1
+
+<sup>1.</sup> La présente convention prévoit des mesures pour le transport des marchandises en transit entre la Communauté et les pays de transit commun, ainsi qu’entre les pays de transit commun eux-mêmes, y compris, le cas échéant, les marchandises transbordées, réexpédiées ou entreposées, et introduit à cet effet un régime de transit commun quelles que soient l’espèce et l’origine des marchandises.[^1-1]
+
+<sup>2.</sup> Sans préjudice des dispositions de la présente convention et en particulier de celles concernant la garantie, les marchandises circulant à l’intérieur de la Communauté sont réputées être placées sous le régime du transit de l’Union.[^1-2]
+
+<sup>3.</sup> Sous réserve des dispositions des art. 7 à 12, les modalités de ce régime de transit commun sont définies aux appendices I et II.
+
+<sup>4.</sup> Les déclarations et documents de transit utilisés aux fins de ce régime de transit commun doivent être conformes et être établis selon les dispositions de l’appendice III.
+
+[^1-1]: Mise à jour linguistique par l’art. 1 par. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^1-2]: Mise à jour linguistique par l’art. 1 par. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+#### Art. 2
+
+[^2-1]
+
+<sup>1.</sup> Le régime de transit commun est décrit ci-après comme comportant une procédure T1 ou une procédure T2, selon le cas.
+
+<sup>2.</sup> La procédure T1 peut être appliquée à toutes les marchandises transportées conformément aux dispositions de l’article 1<sup>er</sup>, paragraphe 1.
+
+<sup>3.</sup>
+
+La procédure T2 ne s’applique aux marchandises transportées conformément aux dispositions de l’art. 1, par. 1:
+
+- a)[^2-2] dans la Communauté:
+-
+
+  que lorsque les marchandises sont des marchandises de l’Union. On entend par marchandises de l’Union les marchandises qui relèvent d’une des catégories suivantes:
+
+  - – les marchandises entièrement obtenues dans le territoire douanier de la Communauté, sans apport de marchandises importées de pays ou territoires situés hors du territoire douanier de la Communauté;
+  - – les marchandises entrant dans le territoire douanier de la Communauté en provenance de pays ou territoires situés hors de ce territoire et mises en libre pratique;
+  - – les marchandises obtenues ou produites dans le territoire douanier de la Communauté, soit à partir de marchandises visées au deuxième tiret exclusivement, soit à partir de marchandises visées aux premier et deuxième tirets;
+
+- toutefois, sans préjudice de la présente convention ou d'autres accords conclus par la Communauté, ne sont pas considérées comme marchandises de l’Union, les marchandises qui, bien que remplissant les conditions prévues par l'un des trois tirets qui précédent, sont réintroduites sur le territoire douanier de la Communauté après avoir été exportées hors de ce territoire.
+- b)[^2-3] dans un pays de transit commun:
+- que lorsque les marchandises sont arrivées dans ce pays sous la procédure «T2» et sont réexpédiées dans les conditions particulières prévues à l’art. 9.
+
+<sup>4.</sup> Les dispositions particulières prévues par la présente convention et relatives au placement des marchandises sous la procédure T2 s’appliquent également à la délivrance des documents établissant le statut douanier de marchandises de l’Union, et les marchandises couvertes par un document de ce type seront traitées de la même manière que les marchandises transportées sous le couvert de la procédure T2, étant toutefois entendu que le document établissant le statut douanier de marchandises de l’Union peut ne pas accompagner celles-ci.[^2-4]
+
+[^2-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^2-2]: Mise à jour par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^2-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^2-4]: Mise à jour linguistique par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+#### Art. 3
+
+[^3-1]
+
+<sup>1.</sup>
+
+Aux fins de la présente convention, on entend par:
+
+- a)[^3-2] «transit»: un régime de circulation en vertu duquel des marchandises sont transportées, sous contrôle des autorités compétentes d’une partie contractante à une autre partie contractante ou à la même partie contractante, en franchissant au moins une frontière;
+- b)[^3-3] «pays»: tout pays de transit commun, tout État membre de la Communauté ou tout autre État ayant adhéré à la présente Convention;
+- c) «pays tiers»: tout État qui n’est pas partie contractante à la présente convention;
+- d)[^3-4] «pays de transit commun»: tout pays, autre qu’un État membre de la Communauté, qui est partie contractante à la présente Convention.
+
+<sup>2.</sup> ...[^3-5]
+
+<sup>3.</sup> Dans l’application des règles énoncées dans la présente convention pour les procédures «T1» ou «T2», les pays de transit commun[^3-6] et la Communauté et ses États membres ont les mêmes droits et les mêmes obligations.
+
+[^3-1]: Nouvelle teneur selon l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1994 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^3-2]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^3-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^3-4]: Introduite par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^3-5]: Abrogé par par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, avec effet pour la Suisse au 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^3-6]: Nouvelle expression selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+#### Art. 4
+
+[^4-1]
+
+<sup>1.</sup> La présente convention ne fait pas obstacle à l’application de tout autre accord international concernant le régime de transit, sans préjudice des limitations de cette application à l’égard des transports de marchandises d’un point à un autre de la Communauté et des limitations à la délivrance des documents servant à établir le statut douanier de marchandises de l’Union[^4-2].
+
+<sup>2.</sup>
+
+La présente convention ne fait pas non plus obstacle:
+
+- a) à la circulation des marchandises s’effectuant dans le cadre d’une procédure d’importation temporaire et
+- b) aux arrangements concernant le trafic frontalier.
+
+[^4-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^4-2]: Nouvelle expression selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+#### Art. 5
+
+En l’absence d’un accord entre les parties contractantes et un pays tiers visant à rendre applicable la procédure T1 ou T2 à la traversée de ce pays tiers par des marchandises circulant entre les parties contractantes, cette procédure ne s’applique aux transports empruntant le territoire du pays tiers considéré que pour autant que la traversée de ce dernier s’effectue sous le couvert d’un titre de transport unique établi sur le territoire d’une partie contractante, l’effet dudit régime étant suspendu sur le territoire du pays tiers.
+
+#### Art. 6
+
+[^6-1]
+
+Sous réserve que soit garantie l’application des mesures auxquelles sont assujetties les marchandises, les pays ont la faculté d’instaurer entre eux, par voie d’arrangements bilatéraux ou multilatéraux dans le cadre de la procédure T1 ou T2, des procédures simplifiées conformes à des critères à établir, en tant que de besoin dans l’appendice I[^6-2], et applicables à certains trafics ou à des entreprises déterminées. Ces arrangements sont notifiés à la Commission des Communautés européennes et aux autres pays.
+
+[^6-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^6-2]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000, en vigueur pour la Suisse depuis le 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)).
+
+## Application du régime du transit
+
+#### Art. 7
+
+[^7-1]
+
+<sup>1.</sup> Sous réserve de toute disposition particulière de la présente Convention, les bureaux compétents des pays de transit commun sont habilités à assumer les fonctions de bureaux de douane de départ, de passage, de destination et de garantie.[^7-2]
+
+<sup>2.</sup> Les bureaux compétents des États membres de la Communauté sont habilités à accepter des déclarations «T1» ou «T2» pour le transit vers un bureau de douane de destination situé dans un pays de transit commun. Sous réserve de toute disposition particulière de la présente Convention, ils attestent également le statut douanier de marchandises de l’Union pour ces marchandises.[^7-3]
+
+<sup>3.</sup> Lorsque plusieurs envois de marchandises sont réunis et chargés sur un moyen de transport unique, et sont expédiés en tant que groupage dans le cadre d’une opération «T1» ou «T2» par un même titulaire du régime pour être acheminés ensemble d’un même bureau de douane de départ à un même bureau de douane de destination et livrés à un même destinataire, une partie contractante peut exiger que, sauf dans des cas exceptionnels dûment justifiés, ces envois figurent sur une même déclaration «T1» ou «T2» avec les listes d’articles correspondantes.[^7-4]
+
+<sup>4.</sup> Sans préjudice des obligations liées à la justification éventuelle du statut douanier de marchandises de l’Union, les personnes qui accomplissent les formalités d’exportation dans un bureau frontière de douane d’une partie contractante peuvent ne pas placer les marchandises sous la procédure T1 ou T2, quel que soit le régime douanier sous lequel les marchandises seront placées au bureau frontière de douane voisin.[^7-5]
+
+<sup>5.</sup> Sans préjudice des obligations liées à la justification éventuelle du statut douanier de marchandises de l’Union, le bureau frontière de douane de la partie contractante où sont accomplies les formalités d’exportation peut refuser le placement des marchandises sous la procédure T1 ou T2 si cette procédure doit prendre fin dans le bureau frontière de douane voisin.[^7-6]
+
+[^7-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^7-2]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^7-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^7-4]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^7-5]: Mise à jour linguistique par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^7-6]: Mise à jour linguistique par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+#### Art. 8
+
+Les marchandises acheminées sous le couvert d’une procédure[^8-1] T1 ou T2 ne peuvent faire l’objet d’aucune adjonction, soustraction ou substitution notamment lorsque les envois sont fractionnés, transbordés ou groupés.
+
+[^8-1]: Nouvelle teneur selon l’art. 1 ch. 4 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000, en vigueur pour la Suisse depuis le 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)).
+
+#### Art. 9
+
+[^9-1]
+
+<sup>1.</sup> Les marchandises introduites dans un pays de transit commun[^9-2] sous la procédure T2 et susceptibles d’être réexpédiées sous cette même procédure demeurent sous le contrôle permanent de l’administration douanière de ce pays afin que soient garanties leur identité et leur intégrité.
+
+<sup>2.</sup> Lorsque ces marchandises sont réexpédiées au départ d’un pays de transit commun après avoir été placées, dans ce pays de transit commun, sous un régime douanier autre qu’un régime de transit ou d’entrepôt, une procédure «T2» ne peut être appliquée.[^9-3]
+
+Toutefois, cette disposition ne s’applique pas aux marchandises admises temporairement en vue d’être présentées dans une exposition, foire ou manifestation publique analogue et qui n’ont pas subi de manipulations autres que celles qui étaient nécessaires à leur conservation en l’état ou qui consistaient à fractionner les envois.
+
+<sup>3.</sup>
+
+Lorsque des marchandises sont réexpédiées au départ d’un pays de transit commun[^9-4] après avoir été placées sous un régime d’entrepôt, la procédure T2 ne peut être appliquée qu’aux conditions suivantes:
+
+- – La durée de l’entreposage ne doit pas avoir dépassé cinq ans; toutefois, en ce qui concerne les marchandises des chap. 1 à 24 de la nomenclature pour la classification des marchandises dans les tarifs douaniers (convention internationale relative au système harmonisé de désignation et de codification des marchandises du 14 juin 1983[^9-5]), cette durée est limitée à six mois.
+- – Les marchandises doivent avoir été placées dans des emplacements réservés et ne pas avoir subi de manipulations autres que celles nécessaires à leur conservation en l’état ou qui consistaient à fractionner les envois, sans remplacer l’emballage.
+- – Les manipulations doivent avoir été effectuées sous surveillance douanière.
+
+<sup>4.</sup> Toute déclaration «T2» acceptée ou tout document établissant le statut douanier de marchandises de l’Union délivré par un bureau compétent d’un pays de transit commun porte une référence à la déclaration «T2» ou au document attestant le statut douanier de marchandises de l’Union correspondant sous le couvert duquel les marchandises sont entrées dans le pays de transit commun et comporter toutes les mentions particulières figurant sur ceux-ci.[^9-6]
+
+[^9-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^9-2]: Nouvelle expression selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^9-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^9-4]: Nouvelle expression selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^9-5]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^9-6]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+#### Art. 10
+
+[^10-1]
+
+<sup>1.</sup> Sauf dispositions contraires du par. 2 ou des appendices, toute opération T1 ou T2 doit être couverte par une garantie valable pour toutes les parties contractantes concernées par l’opération en question.
+
+<sup>2.</sup>
+
+Les dispositions du paragraphe 1 s’appliquent sans préjudice du droit:
+
+- a) des parties contractantes de convenir entre elles de renoncer à la garantie pour les opérations T1 ou T2 impliquant uniquement leurs territoires;
+- b)[^10-2] d’une des parties contractantes de ne pas exiger de garantie pour la partie d’une opération T1 ou T2 entre le bureau de douane de départ et le premier bureau douane de passage.
+
+<sup>3.</sup> ...[^10-3]
+
+[^10-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^10-2]: Mise à jour linguistique par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^10-3]: Abrogé par l’art. 1 ch. 6 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000, avec effet pour la Suisse au 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)).
+
+#### Art. 11
+
+[^11-1]
+
+<sup>1.</sup> En règle générale, l’identification des marchandises est assurée par scellement.
+
+<sup>2.</sup>
+
+Le scellement s’effectue:
+
+- a)[^11-2] par capacité, lorsque le moyen de transport ou le conteneur a été agréé en application d’autres dispositions ou reconnu apte par le bureau de douane de départ;
+- b) par colis dans les autres cas.
+
+<sup>3.</sup>
+
+Le bureau de douane de départ considère qu’un moyen de transport et des conteneurs sont aptes au scellement dans les conditions suivantes:
+
+- a) le moyen de transport ou le conteneur peut être scellé de manière simple et efficace;
+- b) le moyen de transport ou le conteneur est construit de telle façon que lorsque des marchandises sont extraites ou introduites, l’extraction ou l’introduction laisse des traces visibles, les scellés sont brisés ou montrent des signes de manipulation irrégulière, ou un système de surveillance électronique enregistre l’extraction ou l’introduction;
+- c) le moyen de transport ou le conteneur ne contient aucun espace caché permettant de dissimuler des marchandises;
+- d) les espaces réservés aux marchandises sont facilement accessibles pour l’inspection effectuée par les autorités douanières.[^11-3]
+
+<sup>4.</sup> Le bureau de douane de départ[^11-4] peut dispenser du scellement lorsque, compte tenu d’autres mesures éventuelles d’identification, la description des marchandises dans les données de la déclaration de transit ou dans les documents complémentaires permet leur identification.[^11-5]
+
+[^11-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^11-2]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^11-3]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^11-4]: Nouvelle expression selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^11-5]: Nouvelle teneur selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)).
+
+#### Art. 12
+
+<sup>1.</sup> et 2. ...[^12-1]
+
+<sup>3.</sup> Le titulaire du régime ou son représentant habilité est tenu de fournir, à la demande des services nationaux compétents pour les statistiques de transit, tout renseignement se rapportant à la déclaration T1 ou T2 nécessaire à l’élaboration de ces statistiques.[^12-2]
+
+[^12-1]: Abrogés par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, avec effet pour la Suisse au 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^12-2]: Mise à jour linguistique par l’art. 1 ch. 9 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+## Assistance administrative
+
+#### Art. 13
+
+[^13-1]
+
+<sup>1.</sup> Les autorités compétentes des pays concernés se communiquent mutuellement toutes informations dont elles disposent et qui ont leur importance à l’effet de s’assurer de la bonne application de la présente convention.
+
+<sup>2.</sup> En tant que besoin, les autorités compétentes des pays concernés se communiquent mutuellement les constatations, documents, rapports, procès-verbaux et renseignements relatifs aux transports effectués sous la procédure T1 ou T2 ainsi qu’aux irrégularités et infractions à ce régime.
+
+En outre, elle se communiquent en tant que de besoin les constatations faites à l’égard des marchandises pour lesquelles l’assistance administrative est prévue et qui ont fait l’objet d’un entreposage.
+
+<sup>3.</sup>
+
+En cas de soupçons d’irrégularité ou d’infraction se rapportant à des marchandises introduites dans un pays en provenance d’un autre pays ou ayant transité par un pays ou ayant fait l’objet d’un entreposage, les autorités compétentes des pays concernés se communiquent mutuellement, sur demande, tous renseignements concernant:
+
+- a)[^13-2]
+
+  les conditions d’acheminement de ces marchandises:
+
+  - – lorsque celles-ci sont arrivées dans le pays faisant l’objet de la demande, sous le couvert d’une procédure T1 ou T2 ou d’un document établissant le statut douanier de marchandises de l’Union, quel que soit leur mode de réexpédition, ou
+  - – lorsqu’elles ont été réexpédiées de ce pays sous le couvert d’une procédure T1 ou T2 ou d’un document établissant le statut douanier de marchandises de l’Union, quel que soit leur mode d’introduction;
+
+- b)[^13-3] les conditions d’entreposage de ces marchandises lorsque celles-ci sont arrivées dans le pays faisant l’objet de la demande sous le couvert d’une procédure T2 ou d’un document établissant le statut douanier de marchandises de l’Union ou lorsqu’elles ont été réexpédiées de ce pays sous le couvert d’une procédure T2 ou d’un document établissant le statut douanier de marchandises de l’Union.
+
+<sup>4.</sup> Toute demande effectuée au titre des par. 1 à 3 spécifie le ou les cas auxquels elle se réfère.
+
+<sup>5.</sup> Si l’autorité compétente d’un pays sollicite une assistance qu’elle-même ne serait pas en mesure de fournir en cas de demande, elle mentionnera cet élément dans sa demande. La suite à donner à une telle demande sera laissée à la discrétion de l’autorité compétente à laquelle la demande aura été adressée.
+
+<sup>6.</sup> Toute information obtenue en application des par. 1 à 3 ne doit être utilisée qu’aux fins de la présente convention et recevoir dans le pays bénéficiaire la même protection que celle dont les informations de même nature jouissent en vertu du droit national de ce pays. L’information ainsi obtenue ne peut être utilisée à d’autres fins qu’avec le consentement écrit de l’autorité compétente qui l’a communiquée et sous réserve de toute restriction prescrite par ladite autorité.
+
+[^13-1]: Nouvelle teneur selon l’annexe de la Recommandation n<sup>o</sup> 1/91 de la Commission mixte CEE-AELE du 19 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
+[^13-2]: Mise à jour linguistique par l’art. 1 ch. 11 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^13-3]: Mise à jour linguistique par l’art. 1 ch. 11 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+## Recouvrement des créances****
+
+[^lvlu4-1]
+
+[^lvlu4-1]: Introduit par l’Ac. du 22 nov. 1996, approuvé par l’Ass. féd. le 7 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1997 1055](https://fedlex.data.admin.ch/eli/oc/1997/1055_1055_1055)[1054](https://fedlex.data.admin.ch/eli/oc/1997/1054_1054_1054); [FF 1995 III 325](https://fedlex.data.admin.ch/eli/fga/1995/3_337_325_317)).
+
+#### Art. 13<sup>bis</sup>
+
+Les autorités compétentes des pays concernés se portent assistance mutuelle afin d’assurer le recouvrement des créances, lorsque celles-ci sont liées à une opération T 1 ou T 2, conformément aux dispositions de l’appendice IV.
+
+## La commission mixte
+
+#### Art. 14
+
+<sup>1.</sup> Il est établi une commission mixte au sein de laquelle toutes les parties contractantes de la présente convention doivent être représentées.
+
+<sup>2.</sup> La commission mixte se prononce d’un commun accord.
+
+<sup>3.</sup> La commission mixte se réunit en fonction des besoins et au moins une fois par an. Toute partie contractante peut demander la convocation d’une réunion.
+
+<sup>4.</sup> La commission mixte établit son règlement intérieur, qui contient, entre autres dispositions, les modalités de convocation des réunions, de désignation de son président et de définition du mandat de ce dernier.
+
+<sup>5.</sup> La commission mixte peut décider d’instituer tout sous-comité ou groupe de travail susceptible de l’assister dans l’exercice de ses fonctions.
+
+#### Art. 15
+
+<sup>1.</sup> La commission mixte est responsable de la gestion et de la bonne application de la présente convention. À cet effet, elle est informée régulièrement par les parties contractantes de l’expérience acquise dans l’application de la présente convention, formule des recommandations et, dans les cas prévus au par. 3, arrête des décisions.
+
+<sup>2.</sup>
+
+Elle recommande notamment:
+
+- a) les amendements à apporter à la présente convention, autres que ceux visés au paragraphe 3;
+- b) toute autre mesure en vue de son application.
+
+<sup>3.</sup> Les parties contractantes donnent effet, conformément à leur propre législation, aux décisions prises au titre des points a) à d).[^15-1] [^15-2]
+
+La commission mixte arrête par voie de décision:
+
+- a) les amendements aux appendices;
+- b)[^15-3] ...
+- c) les autres amendements à la présente convention rendus nécessaires par les amendements des appendices;
+- d)[^15-4] les mesures transitoires[^15-5] requises en cas d’adhésion de nouveaux États membres à la Communauté;
+- e)[^15-6] les invitations à adresser à des pays tiers, au sens de l’art. 3, par. 1, point c), en vue de leur adhésion à la présente convention conformément à l’art. 15<sup>bis</sup>.
+
+<sup>4.</sup> Si le représentant d’une partie contractante au sein de la commission mixte a accepté une décision sous réserve de l’accomplissement d’exigences constitutionnelles, cette décision entre en vigueur, si elle ne contient pas de date spécifique, le premier jour du deuxième mois suivant la notification de la levée de la réserve.
+
+<sup>5.</sup> Les décisions de la commission mixte visées au par. 3, point e), invitant des pays tiers à adhérer à la présente convention sont transmises au Secrétariat général du Conseil des Communautés européennes, qui les communique aux pays tiers concernés avec un texte de la convention en vigueur à cette date.[^15-7]
+
+<sup>6.</sup> À partir de la date visée au par. 5, les pays tiers concernés peuvent être représentés par des observateurs au sein de la commission mixte, des sous-comités et des groupes de travail.[^15-8]
+
+[^15-1]: Nouvelle teneur de la phrase selon l’art. 1 ch. 3 de la D no 3/97 de la Commission mixte du 23 juil. 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1998 258](https://fedlex.data.admin.ch/eli/oc/1998/258_258_258)).
+[^15-2]: Nouvelle teneur selon l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1994 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^15-3]: Abrogée par l’art. 1 ch. 12 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000, avec effet pour la Suisse au 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)).
+[^15-4]: Anciennement let. e.
+[^15-5]: Voir la D 4/94 du 8 déc. 1994 ([RS 0.631.242.044](https://fedlex.data.admin.ch/eli/cc/1995/527_527_527)).
+[^15-6]: Anciennement let. f.
+[^15-7]: Introduit par l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)). Nouvelle teneur selon l’art. 1 ch. 4 de la D n<sup>o</sup> 3/97 de la Commission mixte du 23 juil. 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1998 258](https://fedlex.data.admin.ch/eli/oc/1998/258_258_258)).
+[^15-8]: Introduit par l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1994 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+
+## Adhésion des pays tiers****
+
+[^lvlu6-1]
+
+[^lvlu6-1]: Introduit par l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1994 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+
+#### Art. 15<sup>bis</sup>
+
+[^15bis-1]
+
+<sup>1.</sup> Tout pays tiers auquel une invitation est adressée à cet effet par le dépositaire de la convention, sur décision de la commission mixte, peut devenir partie contractante à la présente convention.
+
+<sup>2.</sup> Le pays tiers invité devient partie contractante à la présente convention en déposant un instrument d’adhésion auprès du Secrétariat général du Conseil des Communautés européennes. À cet instrument est jointe une traduction de la convention dans la ou les langues officielles du pays tiers adhérent.
+
+<sup>3.</sup> L’adhésion prend effet le premier jour du deuxième mois qui suit le dépôt de l’instrument d’adhésion.
+
+<sup>4.</sup> Le dépositaire notifie à toutes les parties contractantes la date de dépôt de l’instrument d’adhésion ainsi que la date à laquelle l’adhésion prend effet.
+
+<sup>5.</sup> Les recommandations et décisions visées à l’art. 15, par. 2 et 3, qui sont adoptées par la commission mixte entre la date visée au par. 1 du présent article et la date à laquelle une adhésion prend effet sont également communiquées au pays tiers invité par l’intermédiaire du Secrétariat général du Conseil des Communautés européennes.
+
+Une déclaration portant acceptation de ces actes est insérée soit dans l’instrument d’adhésion, soit dans un instrument séparé déposé auprès du Secrétariat général du Conseil des Communautés européennes dans un délai de six mois suivant la communication. Si cette déclaration n’est pas déposée dans ce délai, l’adhésion est considérée comme nulle.
+
+[^15bis-1]: Introduit par l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1994 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+
+## Dispositions diverses et dispositions finales
+
+#### Art. 16
+
+Chaque partie contractante arrête les mesures appropriées pour assurer l’application effective et harmonieuse des dispositions de la présente convention, compte tenu de la nécessité de réduire autant que possible les formalités imposées aux opérateurs et de résoudre à la satisfaction mutuelle toute difficulté pouvant résulter de l’application desdites dispositions.
+
+#### Art. 17
+
+Les parties contractantes s’informent mutuellement des dispositions qu’elles prennent en vue de l’application de la présente convention.
+
+#### Art. 18
+
+Les dispositions de la présente convention ne font pas obstacle aux interdictions ou restrictions d’importation, d’exportation ou de transit des marchandises, édictées par les parties contractantes ou par les États membres de la Communauté et justifiées pour des raisons d’ordre public, de sécurité publique et de moralité publique, de protection de la santé et de la vie des personnes, des animaux ou des plantes, de protection des trésors nationaux possédant une valeur artistique, historique ou archéologique, ou de protection de la propriété industrielle ou commerciale.
+
+#### Art. 19
+
+[^19-1]
+
+Les appendices à la présente convention font partie intégrante de cette dernière.
+
+[^19-1]: Nouvelle teneur selon l’art. 1 ch. 5 de la D n<sup>o</sup> 3/97 de la Commission mixte du 23 juil. 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1998 258](https://fedlex.data.admin.ch/eli/oc/1998/258_258_258)).
+
+#### Art. 20
+
+<sup>1.</sup> La présente convention s’applique, d’une part, aux territoires où le traité instituant la Communauté économique européenne est d’application et selon les conditions prévues par ledit traité et, d’autre part, aux territoires des pays de transit commun[^20-1].
+
+<sup>2.</sup> La présente convention s’applique également à la Principauté de Liechtenstein aussi longtemps que celle-ci est liée à la Confédération suisse par un traité d’union douanière[^20-2].
+
+[^20-1]: Nouvelle expression selon l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^20-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+
+#### Art. 21
+
+Toute partie contractante peut dénoncer la présente convention moyennant un préavis de douze mois adressé par écrit au dépositaire, qui en donnera notification à toutes les autres parties contractantes.
+
+#### Art. 22
+
+<sup>1.</sup> La présente convention entre en vigueur le 1<sup>er</sup> janvier 1988, pour autant que les parties contractantes déposent leurs instruments d’acceptation, avant le 1<sup>er</sup> novembre 1987, auprès du Secrétariat général du Conseil des Communautés européennes qui fait office de dépositaire.
+
+<sup>2.</sup> Si la présente convention n’entre pas en vigueur le 1<sup>er</sup> janvier 1988, elle entrera en vigueur le premier jour du second mois suivant le dépôt du dernier instrument d’acceptation.
+
+<sup>3.</sup> Le dépositaire notifie la date du dépôt de l’instrument d’acceptation de chaque partie contractante et la date d’entrée en vigueur de la présente convention.
+
+#### Art. 23
+
+<sup>1.</sup> Les accords du 30 novembre 1972 et du 23 novembre 1972[^23-1], conclus respectivement par l’Autriche et la Suisse avec la Communauté sur l’application de la réglementation relative au transit communautaire, ainsi que l’accord du 12 juillet 1977[^23-2] sur l’extension de l’application de la réglementation relative au transit communautaire cessent de produire leurs effets dès l’entrée en vigueur de la présente convention.
+
+<sup>2.</sup> Les accords visés au paragraphe 1 continuent toutefois de s’appliquer aux opérations T1 ou T2 ayant commencé avant l’entrée en vigueur de la présente convention.
+
+<sup>3.</sup> Le «*Nordic transit order*» appliqué entre la Finlande, la Norvège et la Suède[^23-3] cesse de produire ses effets à partir de la date d’entrée en vigueur de la présente convention.
+
+[^23-1]: [[RO 1974 281](https://fedlex.data.admin.ch/eli/oc/1974/281_281_281), [1977 981](https://fedlex.data.admin.ch/eli/oc/1977/981_981_981)[987](https://fedlex.data.admin.ch/eli/oc/1977/987_987_987)[2182](https://fedlex.data.admin.ch/eli/oc/1977/2182_2182_2182)[2184](https://fedlex.data.admin.ch/eli/oc/1977/2184_2184_2184), [1978 807](https://fedlex.data.admin.ch/eli/oc/1978/807_807_807)[815](https://fedlex.data.admin.ch/eli/oc/1978/815_815_815), [1979 2107](https://fedlex.data.admin.ch/eli/oc/1979/2102_2107_2107)[2119](https://fedlex.data.admin.ch/eli/oc/1979/2114_2119_2119), [1980 647](https://fedlex.data.admin.ch/eli/oc/1980/647_647_647)[651](https://fedlex.data.admin.ch/eli/oc/1980/651_651_651)[1828](https://fedlex.data.admin.ch/eli/oc/1980/1828_1828_1828)[1833](https://fedlex.data.admin.ch/eli/oc/1980/1833_1833_1833)[2104](https://fedlex.data.admin.ch/eli/oc/1980/2104_2104_2104), [1981 2113](https://fedlex.data.admin.ch/eli/oc/1981/2113_2113_2113), [1982 1198](https://fedlex.data.admin.ch/eli/oc/1982/1198_1198_1198)[1202](https://fedlex.data.admin.ch/eli/oc/1982/1202_1202_1202)[2015](https://fedlex.data.admin.ch/eli/oc/1982/2015_2015_2015), [1983 320](https://fedlex.data.admin.ch/eli/oc/1983/320_320_320)[1839](https://fedlex.data.admin.ch/eli/oc/1983/1839_1839_1839), [1984 1574](https://fedlex.data.admin.ch/eli/oc/1984/1574_1574_1574)[1575](https://fedlex.data.admin.ch/eli/oc/1984/1575_1575_1575), [1985 858](https://fedlex.data.admin.ch/eli/oc/1985/858_858_858), [1986 609](https://fedlex.data.admin.ch/eli/oc/1986/609_609_609)[620](https://fedlex.data.admin.ch/eli/oc/1986/620_620_620)[747](https://fedlex.data.admin.ch/eli/oc/1986/747_747_747), [1987 503](https://fedlex.data.admin.ch/eli/oc/1987/503_503_503)].
+[^23-2]: [[RO 1978 235](https://fedlex.data.admin.ch/eli/oc/1978/235_235_235)]
+[^23-3]: [[RO 1986 2035](https://fedlex.data.admin.ch/eli/oc/1986/2035_2035_2035), [RO 1986 2042](https://fedlex.data.admin.ch/eli/oc/1986/2042_2042_2042), [RO 1986 2028](https://fedlex.data.admin.ch/eli/oc/1986/2028_2028_2028)]
+
+#### Art. 24
+
+La présente convention, qui est établie en un exemplaire unique en langues allemande, anglaise, danoise, espagnole, française, grecque, italienne, néerlandaise, portugaise, finnoise, islandaise, norvégienne et suédoise, chaque texte faisant également foi, est déposée dans les archives du Secrétariat général du Conseil des Communautés européennes, qui en adresse une copie conforme à chaque partie contractante.
+
+Fait à Interlaken, le vingt mai de l’année mil neuf cent quatre-vingt-sept. (Suivent les signatures)
+
+Appendice I*[^t-3]*
+
+## Procédures de transit commun
+
+[^t-3]: Nouvelle teneur selon l’art. 1 ch. 2 de la D n° 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Mis à jour par l’art. 1 ch. 1 et 2 de la D n<sup>o</sup> 1/2017 de la Commission mixte UE-AELE du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) et l’art. 1 ch. 1 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019, en vigueur depuis le 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+
+### Titre I Dispositions générales
+
+### Chapitre I Objet et champ d’application de la procédure et définitions
+
+#### Art. 1
+
+**Objet**
+
+<sup>1.</sup> Le présent appendice fixe les modalités du régime de transit commun, conformément à l’art. 1<sup>er</sup>, par. 3, de la convention.
+
+<sup>2.</sup> Sauf indication contraire, les dispositions du présent appendice s’appliquent aux opérations effectuées sous le régime de transit commun.
+
+#### Art. 2
+
+**Non-application du régime de transit commun aux envois postaux**
+
+Le régime de transit commun ne s’applique pas aux envois par la poste (y compris les colis postaux) effectués conformément aux statuts de l’Union postale universelle, lorsque les marchandises sont transportées par les titulaires de droits et obligations découlant de ces statuts ou pour leur compte.
+
+#### Art. 3
+
+**Définitions**
+
+Aux fins de la présente Convention, on entend par:
+
+- a) «autorités douanières»:
+- les administrations douanières chargées de l’application de la convention et toute autre autorité habilitée en droit national à appliquer la convention;
+- b) «personne»:
+- une personne physique, une personne morale ou une association de personnes reconnue, en droit de l’Union, en droit national ou en droit d’un pays de transit commun, comme ayant la capacité d’accomplir des actes juridiques sans avoir le statut de personne morale;
+- c) «déclaration de transit»:
+- l’acte par lequel une personne manifeste, dans les formes et modalités prescrites, la volonté de placer une marchandise sous le régime de transit commun;
+- d) «document d’accompagnement transit»:
+- le document imprimé par des procédés informatiques de traitement des données pour accompagner les marchandises et basé sur les énonciations de la déclaration de transit;
+- e) «déclarant»:
+- la personne qui dépose une déclaration de transit en son nom propre ou celle au nom de laquelle une telle déclaration est déposée;
+- f) «titulaire du régime»:
+- la personne qui dépose la déclaration de transit ou celle au nom de laquelle ladite déclaration est déposée;
+- g) «bureau de douane de départ»:
+- le bureau de douane où la déclaration de transit est acceptée;
+- h) «bureau de douane de passage»:
+- le bureau de douane compétent pour le point d’entrée sur le territoire douanier d’une partie contractante lorsque les marchandises circulent sous le régime de transit commun, ou
+- le bureau de douane compétent pour le point de sortie du territoire douanier d’une partie contractante lorsque les marchandises quittent ce territoire au cours d’une opération de transit en franchissant une frontière entre cette partie contractante et un pays tiers;
+- i) «bureau de douane de destination»:
+- le bureau de douane où les marchandises placées sous le régime de transit commun sont présentées en vue de mettre fin au régime;
+- j) «numéro de référence maître (master reference number – MRN)»:
+- le numéro d’enregistrement attribué à une déclaration de transit par l’autorité douanière compétente au moyen de procédés informatiques de traitement des données;
+- k) «bureau de douane de garantie»:
+- le bureau de douane où les autorités compétentes de chaque pays décident que des garanties doivent être déposées;
+- l) «dette»:
+- l’obligation incombant à une personne d’acquitter le montant des droits à l’importation ou à l’exportation et autres impositions exigibles en ce qui concerne des marchandises placées sous le régime de transit commun;
+- m) «débiteur»:
+- toute personne tenue au paiement de la dette;
+- n) «mainlevée d’une marchandise»:
+- l’acte par lequel les autorités douanières mettent à disposition une marchandise aux fins prévues par le régime de transit commun sous lequel elle est placée;
+- o)
+
+  «personne établie sur le territoire douanier d’une partie contractante»:
+
+  - – s’agissant d’une personne physique, toute personne qui a sa résidence normale dans le territoire douanier d’une partie contractante,
+  - – s’agissant d’une personne morale ou d’une association de personnes, toute personne qui y a son siège légal, son administration centrale ou un établissement stable dans le territoire douanier d’une partie contractante;
+
+- p) «procédés informatiques de traitement des données»:
+-
+
+  les échanges électroniques d’informations entre les opérateurs économiques et les autorités douanières, entre les autorités douanières et entre ces dernières et d’autres agences ou institutions gouvernementales, européennes ou des pays de transit commun concernées, dans un format agréé et défini à des fins de traitement et de stockage automatisés de données après réception par l’un des moyens suivants:
+
+  - i) échange de données informatisé,
+  - ii) échange d’ordinateur à ordinateur,
+  - iii) transfert informatisé de données structurées par messages ou services normalisés d’un environnement de traitement informatique à un autre sans intervention humaine,
+  - iv) introduction en ligne de données dans des systèmes informatiques douaniers de stockage et de traitement déclenchant des réponses en ligne;
+
+- q) «échange de données informatisé» («EDI»):
+- la transmission informatisée de données structurées selon des normes de message agréées entre un système informatique et un autre;
+- r) «système de transit électronique»:
+- un système électronique utilisé pour l’échange de données informatisé dans le cadre du régime de transit commun;
+- s) «message normalisé»:
+- une structure prédéfinie pour la transmission informatisée de données;
+- t) «données à caractère personnel»:
+- toutes les informations relatives à une personne identifiée ou identifiable;
+- u) «installation de transport fixe»:
+- les moyens de transport (p. ex. pipelines et lignes électriques) utilisés pour acheminer en continu des marchandises;
+- v) «plan de continuité des opérations»:
+- la procédure fondée sur l’utilisation de documents papier établis pour permettre le dépôt de la déclaration de transit et le suivi de l’opération de transit lorsque la procédure basée sur les procédés informatiques de traitement des données ne peut être mise en œuvre.
+
+### Chapitre II Dispositions générales sur le régime de transit commun
+
+#### Art. 4
+
+**Système informatique relatif au régime**
+
+<sup>1.</sup> Le système de transit électronique est utilisé pour accomplir les formalités douanières afférentes au régime de transit commun, sauf disposition contraire du présent appendice.
+
+<sup>2.</sup>
+
+Les parties contractantes adoptent d’un commun accord les mesures destinées à l’application du système de transit électronique, qui établissent:
+
+- a) les règles définissant et régissant les messages à échanger entre les bureaux de douane, nécessaires à l’application de la législation douanière;
+- b) l’ensemble commun de données et le modèle de messages de données à échanger en vertu de la législation douanière.
+
+#### Art. 5
+
+**Utilisation du système de transit électronique**
+
+<sup>1.</sup> Les autorités compétentes utilisent le système de transit électronique pour échanger des informations aux fins du régime de transit commun, sauf disposition contraire du présent appendice.
+
+<sup>2.</sup> Les parties contractantes utilisent le réseau commun de communication/interface commune des systèmes (CCN/CSI) de l’Union européenne pour les échanges d’informations visés au par. 1.
+
+La participation financière des pays de transit commun, l’accès des pays de transit commun au CCN/CSI et les questions connexes sont définis d’un commun accord entre l’Union et chacun des pays de transit commun.
+
+#### Art. 6
+
+**Sécurité des données**
+
+<sup>1.</sup> Les parties contractantes déterminent les conditions pour l’accomplissement des formalités par des procédés informatiques de traitement des données, qui comprennent notamment des mesures de contrôle de la source des données, ainsi que de protection des données contre la destruction accidentelle ou illicite, la perte accidentelle, l’altération ou l’accès non autorisé.
+
+<sup>2.</sup> Outre les mesures visées au par. 1, les autorités compétentes définissent et maintiennent des modalités de sécurité appropriées concernant le fonctionnement efficace, fiable et sûr du système de transit électronique.
+
+<sup>3.</sup> Les modifications et l’effacement de données sont enregistrés avec l’indication de la finalité de la modification ou de l’effacement, de son moment précis et de la personne qui procède à ce traitement.
+
+La donnée originelle ou toute donnée qui a fait l’objet d’un traitement est conservée pendant une période de trois années civiles au moins à partir de la fin de l’année au cours de laquelle cette donnée a été enregistrée, ou pendant une période plus longue si d’autres pays l’exigent.
+
+<sup>4.</sup> Les autorités compétentes contrôlent périodiquement la sécurité des données.
+
+<sup>5.</sup> Les autorités compétentes concernées s’informent mutuellement de tout soupçon de violation de la sécurité.
+
+#### Art. 7
+
+**Protection des données à caractère personnel**
+
+<sup>1.</sup> Les parties contractantes utilisent les données à caractère personnel échangées en application de la convention uniquement aux fins prévues par le régime de transit commun et pour tout régime douanier ou dépôt temporaire suivant le régime de transit commun.
+
+Cette restriction n’empêche pas l’utilisation de ces données par les autorités douanières à des fins d’analyse de risque et d’investigation durant l’opération de transit commun ainsi que de poursuite judiciaire consécutivement à cette opération de transit commun. Lorsque ces données sont utilisées à ces fins, les autorités douanières qui ont livré lesdites informations en sont informées sans délai.
+
+<sup>2.</sup> Les parties contractantes veillent à ce que le traitement des données à caractère personnel échangées dans le cadre de l’application de la convention soit réalisé conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil[^annexI-lvlu1-titI-chapII-7-1].
+
+<sup>3.</sup> Chaque partie contractante prend les mesures nécessaires pour garantir le respect du présent article.
+
+[^annexI-lvlu1-titI-chapII-7-1]: Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) (JO L 119 du 4.5.2016, p. 1).
+
+### Chapitre III Obligations du titulaire du régime et du transporteur ou du destinataire des marchandises circulant sous le régime de transit commun
+
+#### Art. 8
+
+**Obligations du titulaire du régime et du transporteur ou du destinataire des marchandises circulant sous le régime de transit commun**
+
+<sup>1.</sup>
+
+Le titulaire du régime est tenu de:
+
+- a) présenter les marchandises intactes et les informations nécessaires au bureau de douane de destination, dans le délai prescrit et dans le respect des mesures d’identification prises par les autorités douanières;
+- b) respecter les dispositions douanières relatives au régime de transit commun;
+- c) sauf disposition contraire de la convention, constituer une garantie afin d’assurer le paiement du montant de toute dette qui peut naître en rapport avec les marchandises.
+
+<sup>2.</sup> Le transporteur ou le destinataire des marchandises qui accepte celles-ci en sachant qu’elles circulent sous le régime de transit commun est tenu aussi de les présenter intactes au bureau de douane de destination dans le délai prescrit et dans le respect des mesures d’identification prises par les autorités douanières.
+
+### Chapitre IV Garanties
+
+#### Art. 9
+
+**Système informatique relatif aux garanties**
+
+Des procédés informatiques de traitement des données sont mis en place aux fins de l’échange et du stockage des informations relatives aux garanties.
+
+#### Art. 10
+
+**Obligation de constituer une garantie**
+
+<sup>1.</sup> Le titulaire du régime fournit une garantie afin d’assurer le paiement de la dette qui peut naître en rapport avec les marchandises placées sous le régime de transit commun.
+
+<sup>2.</sup>
+
+La garantie prend les formes suivantes:
+
+- a) soit une garantie isolée, couvrant une seule opération;
+- b) soit, par mesure de simplification prévue à l’art. 55, par. 1, point a, une garantie globale couvrant plusieurs opérations sous la forme de l’engagement d’une caution.
+
+<sup>3.</sup> Toutefois, les autorités douanières peuvent refuser le mode de garantie proposé lorsque celui-ci est incompatible avec le bon fonctionnement du régime de transit commun.
+
+#### Art. 11
+
+**Formes de la garantie isolée**
+
+<sup>1.</sup>
+
+La garantie isolée peut être constituée comme suit:
+
+- a) par le dépôt d’espèces;
+- b) par l’engagement d’une caution;
+- c) par titres.
+
+<sup>2.</sup> Dans le cas visé au par. 1, point c), la garantie isolée est constituée par l’engagement d’une caution.
+
+#### Art. 12
+
+**Caution**
+
+<sup>1.</sup> La caution visée à l’art. 10, par. 2, point b) et à l’art. 11, par. 1, point b), et à l’art. 11 par. 2, est une tierce personne établie dans la partie contractante où la garantie est constituée et agréée par les autorités douanières exigeant la garantie.
+
+Dans son engagement, la caution élit domicile ou désigne un mandataire dans chacun des pays des parties contractantes concernées par l’opération de transit commun.
+
+<sup>2.</sup> La caution s’engage par écrit à payer le montant garanti de la dette. L’engagement de la caution couvre aussi, dans les limites du montant garanti, les montants de dette exigibles par suite de contrôles effectués a posteriori.
+
+<sup>3.</sup> Les autorités douanières peuvent refuser d’agréer une caution qui ne leur semble pas assurer d’une manière certaine le paiement de la dette dans les délais prescrits.
+
+#### Art. 13
+
+**Dispense de garantie**
+
+<sup>1.</sup>
+
+Aucune garantie n’est exigée dans les situations suivantes:
+
+- a) en ce qui concerne les marchandises acheminées par voie aérienne, lorsqu’il est recouru au régime de transit sur la base d’un document électronique de transport en tant que déclaration de transit pour le transport aérien;
+- b) en ce qui concerne les marchandises transportées sur le Rhin, les voies rhénanes, le Danube ou les voies danubiennes;
+- c) en ce qui concerne les marchandises transportées par l’intermédiaire d’une installation de transport fixe;
+- d) en ce qui concerne les marchandises acheminées par voie ferrée ou aérienne, lorsqu’il est recouru au régime de transit sur support papier pour les marchandises acheminées par voie ferrée ou aérienne.
+
+<sup>2.</sup> Dans les cas visés au par. 1, point d), la dispense de garantie ne s’applique qu’aux autorisations de recours au régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée ou aérienne, qui ont été accordées avant le 1<sup>er</sup> mai 2016. Cette dispense est applicable jusqu’au 1<sup>er</sup> mai 2019 ou, pour les autorisations dont la durée de validité est limitée, jusqu’à la fin de cette période, la date la plus proche étant retenue.
+
+### Chapitre V Dispositions diverses
+
+#### Art. 14
+
+**Statut juridique des documents et écritures**
+
+<sup>1.</sup> Indépendamment du support, les documents délivrés et les écritures conservées conformément à la réglementation du pays dans lequel ils ont été délivrés ou détenus, et les mesures prises ou acceptées par les autorités compétentes d’un pays ont, sur le territoire des autres pays, des effets juridiques identiques à ceux produits dans le pays où ils ont été délivrés ou conservés.
+
+<sup>2.</sup> Les résultats des inspections effectuées dans le cadre du régime de transit commun par les autorités compétentes d’un pays ont la même force juridique dans les autres pays que les résultats des inspections effectuées par les autorités compétentes de chacun de ces pays.
+
+#### Art. 15
+
+**Liste des bureaux de douane compétents pour les opérations de transit commun**
+
+Chaque pays introduit dans le système informatique géré par la Commission européenne (ci-après dénommée «Commission») la liste ainsi que le numéro d’identification, les attributions, les jours et heures d’ouverture des bureaux compétents pour les opérations de transit commun. Toute modification doit également être introduite dans le système informatique.
+
+La Commission communique cette information à tous les pays au moyen de ce système informatique.
+
+#### Art. 16
+
+**Bureau centralisateur**
+
+Lorsqu’un pays a créé un bureau centralisateur responsable de la gestion et du suivi du régime de transit commun ainsi que de la réception et de la transmission des documents relatifs à cette procédure, il en informe la Commission.
+
+La Commission communique cette information aux autres pays.
+
+#### Art. 17
+
+**Infractions et sanctions**
+
+Les pays prennent les dispositions nécessaires pour lutter contre toute infraction ou toute irrégularité et les sanctionner de manière effective, proportionnée et dissuasive.
+
+### Titre II Fonctionnement du régime
+
+### Chapitre I Garantie isolée
+
+#### Art. 18
+
+**Calcul du montant de la garantie isolée**
+
+Une garantie isolée constituée conformément à l’art. 10, par. 2, point a), couvre le montant de la dette susceptible de naître, calculé sur la base des taux les plus élevés des droits applicables aux marchandises du même type. Pour ce calcul, les marchandises de l’Union transportées en application de la convention sont considérées comme des marchandises non Union.
+
+#### Art. 19
+
+**Garantie isolée constituée par un dépôt en espèces**
+
+<sup>1.</sup> Une garantie isolée constituée par un dépôt en espèces ou tout autre moyen de paiement assimilé est fournie d’une façon conforme aux dispositions du pays de départ dans lequel la garantie est exigée.
+
+<sup>2.</sup> Une garantie isolée constituée par un dépôt en espèces fournie dans une des parties contractantes est valable dans toutes les parties contractantes. Elle est remboursée lorsque le régime est apuré.
+
+<sup>3.</sup> La constitution d’une garantie par dépôt en espèces ou tout autre moyen de paiement assimilé n’ouvre pas droit à paiement d’intérêts par les autorités douanières.
+
+#### Art. 20
+
+**Garantie isolée constituée sous la forme d’un engagement de caution**
+
+<sup>1.</sup> L’engagement de la caution aux fins de la constitution d’une garantie isolée est établi au moyen du formulaire figurant à l’annexe C1 de l’appendice III. Cet engagement est conservé au bureau de douane de garantie pendant sa durée de validité.
+
+<sup>2.</sup> Lorsque les dispositions législatives, réglementaires et administratives nationales le requièrent, ou en vertu des usages, chaque pays peut autoriser l’engagement d’une caution visé au par. 1 sous une autre forme, pour autant qu’il entraîne des effets juridiques identiques à ceux de l’engagement figurant dans le formulaire.
+
+<sup>3.</sup> Il est interdit au titulaire du régime de modifier ce code d’accès.
+
+Pour chaque engagement, le bureau de douane de garantie communique au titulaire du régime les informations suivantes:
+
+- a) le numéro de référence de la garantie;
+- b) un code d’accès associé au numéro de référence de la garantie.
+
+#### Art. 21
+
+**Garantie isolée par titres**
+
+<sup>1.</sup> L’engagement de la caution aux fins de la constitution d’une garantie isolée par titres est établi au moyen du formulaire figurant à l’annexe C2 de l’appendice III. Cet engagement est conservé au bureau de douane de garantie pendant sa durée de validité.
+
+L’art. 20, par. 2, est applicable *mutatis mutandis*.
+
+<sup>2.</sup> Les titres sont établis par une caution au moyen du formulaire figurant à l’annexe C3 de l’appendice III et émis au profit des personnes ayant l’intention d’être les titulaires du régime. Ces titres sont valables dans toutes les parties contractantes.
+
+Chaque titre porte sur un montant de 10 000 EUR, dont la caution est responsable. La période de validité des titres est d’un an à partir de leur date d’émission.
+
+<sup>3.</sup> La caution fournit au bureau de douane de garantie tout détail requis concernant les titres de garantie isolée qu’elle a émis.
+
+<sup>4.</sup> Il est interdit à la personne ayant l’intention d’être le titulaire du régime de modifier ce code d’accès.
+
+Pour chaque titre, la caution communique à la personne ayant l’intention d’être le titulaire du régime les informations suivantes:
+
+- a) le numéro de référence de la garantie;
+- b) un code d’accès associé au numéro de référence de la garantie.
+
+<sup>5.</sup> La personne ayant l’intention d’être le titulaire du régime dépose au bureau de douane de départ un nombre de titres correspondant au multiple de 10 000 EUR nécessaire pour couvrir l’intégralité du montant de la dette susceptible de naître.
+
+<sup>6.</sup> Lorsqu’une déclaration de transit sur support papier est acceptée conformément à l’art. 26, par. 1, point b), les titres sont remis sous format papier et conservés au bureau de douane de départ. Ce bureau de douane communique le numéro d’identification de chaque titre au bureau de douane de garantie indiqué sur le titre.
+
+#### Art. 22
+
+**Agrément de l’engagement**
+
+L’engagement de la caution est agréé par le bureau de douane de garantie, qui notifie ledit agrément à la personne tenue de fournir la garantie.
+
+#### Art. 23
+
+**Révocation de l’agrément de la caution ou de l’engagement et résiliation de l’engagement**
+
+<sup>1.</sup> Le bureau de douane de garantie peut révoquer à tout moment l’agrément de la caution ou l’agrément de l’engagement de la caution. Dans ce cas, il le notifie à la caution et à la personne tenue de fournir la garantie.
+
+La révocation de l’agrément de la caution ou de l’engagement de caution prend effet le 16<sup>e</sup> jour suivant la date à laquelle la décision relative à la révocation est reçue ou réputée reçue par la caution.
+
+<sup>2.</sup> La caution peut résilier son engagement à tout moment. Dans ce cas, elle le notifie au bureau de douane de garantie.
+
+La résiliation de l’engagement de la caution ne concerne pas les marchandises qui, au moment où la résiliation prend effet, ont déjà été placées et se trouvent encore sous un régime de transit commun en vertu de l’engagement résilié.
+
+La résiliation de son engagement par la caution prend effet le 16<sup>e</sup> jour suivant la date à laquelle la résiliation est notifiée par la caution au bureau de douane de garantie.
+
+<sup>3.</sup> Les autorités douanières du pays dont relève le bureau de douane de garantie introduisent dans le système informatique visé à l’art. 9 les informations concernant la révocation de l’agrément d’une caution, de l’agrément d’un engagement de la caution ou la résiliation par une caution, ainsi que la date de prise d’effet de ladite révocation ou résiliation.
+
+### Chapitre II Moyens de transport et déclarations
+
+#### Art. 24
+
+**Déclaration de transit et moyen de transport**
+
+<sup>1.</sup> Chaque déclaration de transit ne contient que des marchandises placées sous le régime de transit commun qui sont acheminées ou doivent être acheminées d’un bureau de douane de départ à un bureau de douane de destination sur un moyen de transport unique, dans un conteneur ou dans un colis.
+
+Toutefois, une seule déclaration de transit peut inclure des marchandises acheminées ou devant être acheminées d’un bureau de douane de départ à un bureau de douane de destination dans plusieurs conteneurs ou dans plusieurs colis lorsque les conteneurs ou les colis sont chargés sur un moyen de transport unique.
+
+<sup>2.</sup>
+
+Pour l’application du présent article, sont considérés comme constituant un moyen de transport unique, à condition qu’ils transportent des marchandises acheminées ensemble:
+
+- a) un véhicule routier accompagné de sa ou de ses remorques ou semi-remorques;
+- b) une rame de voitures ou de wagons de chemin de fer;
+- c) les bateaux constituant un ensemble unique.
+
+<sup>3.</sup> Lorsque, aux fins du régime de transit commun, un moyen de transport unique est utilisé pour le chargement de marchandises auprès de plusieurs bureaux de douane de départ comme pour le déchargement auprès de plusieurs bureaux de douane de destination, des déclarations de transit distinctes sont déposées pour chacun des envois.
+
+#### Art. 25
+
+**Déclarations de transit au moyen de procédés informatiques de traitement des données**
+
+Les énonciations et la structure des données de la déclaration de transit figurent dans les annexes A1, A2 et B6 de l’appendice III.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), les énonciations et la structure des données de la déclaration de transit figurent dans les annexes A1*bis* et B6*bis* de l’appendice III.
+
+#### Art. 26
+
+**Déclarations de transit sur support papier**
+
+<sup>1.</sup>
+
+L’autorité douanière accepte une déclaration de transit sur support papier dans les cas suivants:
+
+- a) lorsque les marchandises sont transportées par des voyageurs qui n’ont pas un accès direct au système de transit électronique, selon les modalités décrites à l’art. 27;
+- b)
+
+  lorsque le plan de continuité des opérations est appliqué, conformément à l’annexe II, en cas de panne temporaire:
+
+  - i) du système de transit électronique,
+  - ii) du système informatique utilisé par les titulaires du régime pour déposer la déclaration de transit commun au moyen de procédés informatiques de traitement des données,
+  - iii) de la connexion électronique entre le système informatique utilisé par les titulaires du régime pour déposer la déclaration de transit commun au moyen de procédés informatiques de traitement des données et le système de transit électronique;
+
+- c) lorsqu’un pays de transit commun en décide ainsi.
+
+<sup>2.</sup> Dans le cadre de l’application du par. 1, points a) et c), les autorités douanières veillent à ce que les données de transit soient enregistrées dans le système de transit électronique et échangées entre les autorités douanières au moyen de ce système.
+
+<sup>3.</sup> L’acceptation d’une déclaration de transit sur support papier visée au par. 1, points b) ii) et b) iii), est soumise à l’approbation des autorités douanières.
+
+#### Art. 27
+
+**Déclaration de transit pour voyageurs**
+
+Dans les cas visés à l’art. 26, par. 1, point a), le voyageur établit la déclaration de transit sur support papier conformément aux art. 5 et 6 et à l’annexe B6 de l’appendice III.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), dans les cas visés à l’art. 26, par. 1, point a), le voyageur établit la déclaration de transit sur support papier conformément aux art. 5 et 6 et à l’annexe B6*bis* de l’appendice III.
+
+#### Art. 28
+
+**Envois mixtes**
+
+Un envoi peut comprendre à la fois des marchandises devant être placées sous la procédure T1 et des marchandises devant être placées sous la procédure T2, sous réserve que chaque article soit marqué en conséquence dans la déclaration de transit en utilisant les codes «T1», «T2» ou «T2F».
+
+#### Art. 29
+
+**Authentification de la déclaration de transit et responsabilité du titulaire du régime**
+
+<sup>1.</sup> La déclaration de transit est authentifiée par le déclarant.
+
+<sup>2.</sup>
+
+Le dépôt auprès des autorités douanières d’une déclaration de transit par le titulaire du régime rend ce titulaire responsable:
+
+- a) de l’exactitude et du caractère complet des informations fournies dans la déclaration de transit;
+- b) de l’authenticité, de l’exactitude et de la validité des documents accompagnant la déclaration de transit;
+- c) du respect de l’ensemble des obligations inhérentes au placement des marchandises sous le régime de transit commun indiquées dans la déclaration de transit.
+
+#### Art. 29<sup>bis</sup>
+
+**Dépôt d’une déclaration de transit préalablement à la présentation des marchandises**
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), une déclaration de transit peut être déposée avant la présentation prévue des marchandises au bureau de douane de départ. Si les marchandises ne sont pas présentées dans les 30 jours suivant le dépôt de la déclaration de transit, ladite déclaration est réputée ne pas avoir été déposée.
+
+### Chapitre III Formalités au bureau de douane de départ
+
+#### Art. 30
+
+**Dépôt et acceptation de la déclaration de transit**
+
+<sup>1.</sup> La déclaration de transit est déposée au bureau de douane de départ.
+
+<sup>2.</sup> Le bureau de douane de départ peut, à la demande du déclarant, autoriser que les marchandises soient présentées en dehors des heures d’ouverture officielles ou en tout autre lieu.
+
+Ce bureau de douane de départ accepte la déclaration de transit pour autant que les conditions suivantes soient remplies:
+
+- a) qu’elle contienne toutes les données nécessaires aux fins du régime de transit commun conformément à l’annexe II de l’appendice III;
+- b) qu’elle soit accompagnée de tous les documents requis;
+- c) que les marchandises auxquelles la déclaration de transit renvoie aient été présentées aux services douaniers pendant les heures d’ouverture officielles.
+
+<sup>3.</sup> Les autorités douanières peuvent permettre de ne pas présenter les documents visés au par. 1, point b), au bureau de douane de départ. Dans ce cas, ces documents sont en la possession du déclarant et à la disposition des autorités douanières.
+
+#### Art. 31
+
+**Rectification d’une déclaration de transit**
+
+<sup>1.</sup> Le déclarant est autorisé, sur demande, à rectifier une ou plusieurs des énonciations de la déclaration de transit après son acceptation par les autorités douanières. La rectification n’a pas pour effet de faire porter la déclaration de transit sur des marchandises autres que celles qui en ont fait initialement l’objet.
+
+<sup>2.</sup>
+
+Une telle rectification ne peut pas être autorisée si elle est demandée après que:
+
+- a) les autorités douanières ont informé le déclarant de leur intention de procéder à un examen des marchandises;
+- b) les autorités douanières ont constaté l’inexactitude des énonciations de la déclaration en douane;
+- c) les autorités douanières ont octroyé la mainlevée aux marchandises.
+
+#### Art. 32
+
+**Invalidation d’une déclaration de transit**
+
+<sup>1.</sup> Toutefois, lorsque le bureau de douane de départ a informé le déclarant de son intention de procéder à un examen des marchandises, la demande d’invalidation de la déclaration en douane ne peut être acceptée avant que cet examen n’ait eu lieu.
+
+À la demande du déclarant, le bureau de douane de départ invalide une déclaration de transit déjà acceptée dans l’un des cas suivants:
+
+- a) lorsqu’il est assuré que les marchandises sont placées immédiatement sous un autre régime douanier;
+- b) lorsqu’il est assuré que, par suite de circonstances particulières, le placement des marchandises sous le régime douanier pour lequel elles ont été déclarées ne se justifie plus.
+
+<sup>2.</sup>
+
+La déclaration de transit ne peut être invalidée après octroi de la mainlevée des marchandises, sauf:
+
+- a) lorsque les marchandises en libre pratique dans une partie contractante ont été déclarées par erreur pour un régime de transit commun et que leur statut douanier de marchandises se trouvant en libre pratique dans cette même partie contractante a été démontré par la suite;
+- b) lorsque les marchandises ont été déclarées par erreur dans plus d’une déclaration en douane.
+
+#### Art. 33
+
+**Itinéraire des mouvements sous le régime de transit commun**
+
+<sup>1.</sup> Les marchandises placées sous le régime de transit commun sont acheminées au bureau de douane de destination par un itinéraire économiquement justifié.
+
+<sup>2.</sup> Lorsque le bureau de douane de départ ou le déclarant le juge nécessaire, ledit bureau de douane fixe un itinéraire pour les mouvements de marchandises pendant le régime de transit commun en tenant compte de toutes les informations utiles communiquées par le déclarant.
+
+Lorsqu’il fixe un itinéraire, le bureau de douane introduit dans le système de transit électronique au moins l’indication des pays par lesquels le transit doit avoir lieu.
+
+#### Art. 34
+
+**Délai de présentation des marchandises**
+
+<sup>1.</sup>
+
+Le bureau de douane de départ fixe le délai imparti pour la présentation des marchandises au bureau de douane de destination, en tenant compte des éléments suivants:
+
+- a) l’itinéraire;
+- b) le moyen de transport;
+- c) la législation en matière de transports ou tous autres actes législatifs qui pourraient avoir une incidence sur la fixation d’un délai;
+- d) toute information pertinente communiquée par le titulaire du régime.
+
+<sup>2.</sup> Lorsque le délai est fixé par le bureau de douane de départ, il lie les autorités douanières des pays sur le territoire desquels les marchandises sont introduites au cours d’une opération de transit commun; ces autorités ne peuvent modifier ce délai.
+
+#### Art. 35
+
+**Vérification d’une déclaration de transit et contrôle des marchandises**
+
+<sup>1.</sup>
+
+Aux fins de la vérification de l’exactitude des énonciations contenues dans une déclaration de transit qui a été acceptée, le bureau de douane de départ peut:
+
+- a) procéder à un examen de la déclaration et des documents d’accompagnement;
+- b) exiger du déclarant qu’il leur fournisse d’autres documents;
+- c) examiner les marchandises;
+- d) prélever des échantillons en vue de l’analyse ou d’un examen approfondi des marchandises.
+
+<sup>2.</sup> Le bureau de douane de départ vérifie l’existence et la validité de la garantie.
+
+<sup>3.</sup> L’examen des marchandises prévu au par. 1, point c), est effectué pendant les heures d’ouverture officielles dans les lieux désignés à cette fin par le bureau de douane de départ. Toutefois, les autorités douanières peuvent, à la demande du déclarant, procéder à l’examen des marchandises en dehors des heures d’ouverture officielles ou en tout autre lieu.
+
+#### Art. 36
+
+**Identification des scellés**
+
+Le bureau de douane de départ enregistre dans le système de transit électronique le nombre de scellés apposés par ce bureau de douane et les identifiants de chaque scellé.
+
+#### Art. 37
+
+**Aptitude au scellement**
+
+Les véhicules routiers, remorques, semi-remorques ou conteneurs agréés au transport de marchandises sous scellement douanier conformément à un accord international auquel l’Union et les pays de transit commun sont parties contractantes sont également présumés aptes au scellement.
+
+#### Art. 38
+
+**Caractéristiques des scellés douaniers**
+
+<sup>1.</sup>
+
+Les scellés douaniers présentent au moins les caractéristiques essentielles et les spécifications techniques suivantes:
+
+- a)
+
+  caractéristiques essentielles des scellés:
+
+  - i) rester intacts et solidement fixés dans des conditions normales d’utilisation,
+  - ii) être facilement vérifiables et reconnaissables,
+  - iii) être fabriqués de telle sorte que tout bris, manipulation irrégulière ou dépose laisse des traces visibles à l’œil nu,
+  - iv) être conçus pour un usage unique ou, pour les scellés à usage multiple, être conçus de manière que chaque pose soit clairement identifiée par une indication unique,
+  - v) être revêtus d’identifiants uniques permanents, facilement lisibles et qui portent un numéro spécifique;
+
+- b)
+
+  spécifications techniques:
+
+  - i) la forme et les dimensions des scellés peuvent varier en fonction du type de scellement utilisé, mais les dimensions sont conçues de façon que les marques d’identification soient facilement lisibles,
+  - ii) les marques d’identification des scellés sont infalsifiables et difficilement reproductibles,
+  - iii) la matière utilisée permet à la fois d’éviter des cassures accidentelles et d’empêcher une falsification ou une réutilisation indécelables.
+
+<sup>2.</sup> Lorsque les scellés ont été certifiés par un organisme compétent conformément à la norme internationale ISO 17712:2013 – «Conteneurs pour le transport des marchandises – Scellés mécanique», ceux-ci sont réputés satisfaire aux exigences prévues au par. 1.
+
+Pour les transports conteneurisés, des scellés comportant des éléments de haute sécurité sont utilisés dans toute la mesure du possible.
+
+<sup>3.</sup> Les parties contractantes peuvent, d’un commun accord, décider d’utiliser des dispositifs et techniques de sécurité communs.
+
+Le scellé douanier porte les indications suivantes:
+
+- a) le mot «douane», dans l’une des langues officielles de l’Union ou des pays de transit commun, ou une abréviation correspondante;
+- b) un code pays, sous la forme du code pays ISO alpha-2 identifiant le pays dans lequel le scellé a été apposé.
+
+<sup>4.</sup> Chaque pays notifie à la Commission les modèles de scellés douaniers qu’il utilise. La Commission met ces informations à la disposition de tous les pays.
+
+<sup>5.</sup> Lorsqu’un scellé doit être enlevé pour permettre une inspection douanière, l’autorité douanière s’efforce de réapposer, le cas échéant, un scellé douanier présentant des éléments de sécurité au moins équivalents et indique les modalités de cette opération, notamment le nouveau numéro de scellé, sur les documents relatifs à la cargaison.
+
+<sup>6.</sup> Les scellés douaniers conformes à l’annexe II de l’appendice 1 à la Convention, telle que modifiée par la décision n<sup>o</sup> 1/2008, peuvent continuer à être utilisés jusqu’à épuisement des stocks ou jusqu’au 1<sup>er</sup> mai 2019, la date la plus proche étant retenue.
+
+#### Art. 39
+
+**Mesures d’identification autres que le scellement**
+
+<sup>1.</sup> Par dérogation à l’art. 11, par. 1, de la convention, le bureau de douane de départ peut décider de ne pas procéder au scellement des marchandises placées sous le régime de transit commun et de se fier plutôt à la désignation des marchandises figurant dans la déclaration de transit ou dans les documents complémentaires, pour autant que la désignation soit suffisamment détaillée pour permettre une identification aisée des marchandises et indique leur quantité et leur nature ainsi que des particularités telles que les numéros de série des marchandises.
+
+<sup>2.</sup>
+
+Par dérogation à l’art. 11, par. 1, de la convention, à moins que le bureau de douane de départ n’en décide autrement, ni le moyen de transport ni les différents colis contenant les marchandises ne seront scellés lorsque:
+
+- a) les marchandises sont acheminées par voie aérienne, et que soit les étiquettes sont apposées sur chaque envoi portant le numéro de la lettre de transport aérien qui l’accompagne, soit l’envoi constitue une unité de chargement sur laquelle est indiqué le numéro de la lettre de transport aérien qui l’accompagne;
+- b) les marchandises sont acheminées par voie ferrée et que des mesures d’identification sont appliquées par les entreprises de chemins de fer.
+
+#### Art. 40
+
+**Mainlevée des marchandises aux fins du régime de transit commun**
+
+<sup>1.</sup> Seules les marchandises qui ont été scellées conformément à l’art. 11, par. 1, 2 et 3, de la convention ou pour lesquelles d’autres mesures d’identification ont été prises conformément à l’art. 11, par. 4, de la convention et à l’art. 39 du présent appendice sont placées sous le régime de transit commun.
+
+<sup>2.</sup> Ces énonciations sont établies à partir des données, le cas échéant rectifiées, figurant dans la déclaration de transit.
+
+Lors de la mainlevée des marchandises, le bureau de douane de départ transmet les énonciations de l’opération de transit commun:
+
+- a) au bureau de douane de destination déclaré;
+- b) à chaque bureau de douane de passage déclaré.
+
+<sup>3.</sup> Le bureau de douane de départ notifie au titulaire du régime le placement des marchandises sous le régime de transit commun.
+
+#### Art. 41
+
+**Document d’accompagnement transit et liste d’articles**
+
+<sup>1.</sup> Le bureau de douane de départ délivre un document d’accompagnement transit au déclarant. Le document d’accompagnement transit est établi au moyen du formulaire figurant à l’annexe A3 de l’appendice III et comprend les énonciations figurant à l’annexe A4 de l’appendice III.
+
+<sup>2.</sup> Le cas échéant, le document d’accompagnement transit est complété par une liste d’articles présentée sur le formulaire figurant à l’annexe A5 de l’appendice III et comprend les énonciations figurant à l’annexe A6 de l’appendice III. La liste d’articles fait partie intégrante du document d’accompagnement transit.
+
+<sup>3.</sup> À partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578 de la Commission, le bureau de douane de départ délivre au déclarant un document d’accompagnement transit complété par une liste d’articles. La liste d’articles fait partie intégrante du document d’accompagnement transit.
+
+Le document d’accompagnement transit est établi au moyen du formulaire figurant à l’annexe A3 bis de l’appendice III et comprend les énonciations figurant à l’annexe A4 bis de l’appendice III. La liste d’articles est fournie en utilisant le formulaire figurant à l’annexe A5 bis de l’appendice III et comprend les énonciations figurant à l’annexe A6 bis de l’appendice III.
+
+Le document d’accompagnement transit et la liste d’articles sont établis sur support papier.
+
+### Chapitre IV Formalités à accomplir en cours de transport
+
+#### Art. 42
+
+**Présentation du document d’accompagnement transit**
+
+Le document d’accompagnement transit, ainsi que le MRN de la déclaration de transit et les autres documents qui accompagnent les marchandises, sont présentés à toute réquisition des autorités douanières.
+
+#### Art. 43
+
+**Présentation des marchandises acheminées sous le régime de transit commun au bureau de douane de passage**
+
+<sup>1.</sup> Les marchandises, ainsi que le document d’accompagnement transit avec le MRN correspondant, sont présentées à chaque bureau de douane de passage.
+
+<sup>2.</sup> Le bureau de douane de passage enregistre le passage des marchandises à la frontière sur la base des énonciations de l’opération de transit commun transmises par le bureau de douane de départ. Ce passage est notifié par les bureaux de douane de passage au bureau de douane de départ.
+
+<sup>3.</sup> Les bureaux de douane de passage peuvent inspecter les marchandises. Toute inspection des marchandises est réalisée en se fondant en particulier sur les énonciations de l’opération de transit commun transmises par le bureau de douane de départ.
+
+<sup>4.</sup> Lorsque les marchandises sont acheminées en empruntant un bureau de douane de passage autre que celui qui est déclaré, le bureau de douane de passage emprunté demande les énonciations de l’opération de transit commun au bureau de douane de départ et notifie à ce dernier le passage des marchandises à la frontière.
+
+<sup>5.</sup> Les par. 1, 2 et 4 ne s’appliquent pas aux transports de marchandises par voie ferrée, pour autant que le bureau de douane de passage puisse vérifier par d’autres moyens que les marchandises ont passé la frontière. Cette vérification n’a lieu qu’en cas de besoin. Elle peut être effectuée a posteriori.
+
+#### Art. 44
+
+**Incidents survenant au cours de la circulation de marchandises sous le couvert d’une opération de transit commun**
+
+<sup>1.</sup> Lorsque les autorités douanières sur le territoire desquelles se trouve le moyen de transport considèrent que l’opération de transit commun concernée peut se poursuivre, elles visent, après avoir pris toutes les mesures qu’elles jugent nécessaires, les annotations faites par le transporteur sur le document d’accompagnement transit.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), le transporteur présente sans retard indu après l’incident les marchandises et le document d’accompagnement transit, ainsi que le MRN de la déclaration de transit, à l’autorité douanière la plus proche du pays sur le territoire duquel se trouve le moyen de transport, dans les cas visés aux points a) à f) du premier alinéa.
+
+Lorsque les autorités douanières sur le territoire desquelles se trouve le moyen de transport considèrent que l’opération de transit commun concernée peut se poursuivre, elles prennent toutes les mesures qu’elles jugent nécessaires et enregistrent les informations pertinentes concernant les incidents visés au premier alinéa du présent paragraphe dans le système de transit électronique visé à l’art. 4.
+
+Le transporteur est tenu d’annoter le document d’accompagnement transit et de présenter sans retard indu après l’incident les marchandises ainsi que ce document à l’autorité douanière la plus proche du pays sur le territoire duquel se trouve le moyen de transport, dans les cas suivants:
+
+- a) le transporteur est obligé de s’écarter de l’itinéraire prescrit conformément à l’art. 33, par. 2, en raison de circonstances indépendantes de sa volonté;
+- b) les scellés sont brisés ou manipulés irrégulièrement au cours d’une opération de transport pour des raisons indépendantes de la volonté du transporteur;
+- c) sous la surveillance de l’autorité douanière, les marchandises sont transférées d’un moyen de transport à un autre moyen de transport;
+- d) un péril imminent nécessite le déchargement immédiat, partiel ou total, du moyen de transport scellé;
+- e) un incident se produit, qui est susceptible de compromettre la capacité du titulaire du régime ou du transporteur à s’acquitter de ses obligations;
+- f) un des éléments constituant un moyen de transport unique visé à l’art. 24, par. 2, a été modifié.
+
+<sup>2.</sup>
+
+Dans les cas énoncés ci-dessous, le transporteur est dispensé de présenter à l’autorité douanière visée au par. 1 les marchandises et le document d’accompagnement transit comportant les annotations nécessaires:
+
+- a) incidents visés au par. 1, point c), si les marchandises sont transférées à partir d’un moyen de transport qui n’est pas scellé;
+- b) incidents visés au par. 1, point f), lorsqu’un ou plusieurs wagons ou voitures sont retirés d’une rame de voitures ou de wagons de chemin de fer en raison de problèmes techniques;
+- c) incidents visés au par. 1, point f), si l’unité de traction d’un véhicule routier est modifiée sans que ses remorques ou semi-remorques ne soient modifiées.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), le transporteur est dispensé de présenter les marchandises et le document d’accompagnement transit, ainsi que le MRN de la déclaration de transit, à l’autorité douanière visée au par. 1 pour autant que le titulaire du régime, ou le transporteur pour le compte du titulaire du régime, fournisse dans les cas suivants des informations utiles concernant l’incident à ladite autorité douanière:
+
+- a) incidents visés au par. 1, point c), si les marchandises sont transférées à partir d’un moyen de transport qui n’est pas scellé;
+- b) incidents visés au par. 1, point f), si un ou plusieurs wagons ou voitures sont retirés d’une rame de voitures ou de wagons de chemin de fer en raison de problèmes techniques;
+- c) incidents visés au par. 1, point f), si l’unité de traction d’un véhicule routier est modifiée sans que ses remorques ou semi-remorques ne soient modifiées.
+
+<sup>3.</sup> Les informations pertinentes contenues dans le document d’accompagnement transit relatives aux incidents visés au par. 1 sont introduites dans le système de transit électronique par les autorités douanières au bureau de douane de passage ou au bureau de douane de destination selon le cas.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), les informations pertinentes concernant les incidents visés au par. 1 sont introduites dans le système de transit électronique par l’autorité douanière la plus proche du pays sur le territoire duquel se trouve le moyen de transport.
+
+### Chapitre V Formalités au bureau de douane de destination
+
+#### Art. 45
+
+**Présentation des marchandises placées sous le régime de transit commun au bureau de douane de destination**
+
+<sup>1.</sup> La présentation a lieu pendant les heures d’ouverture officielles. Toutefois, le bureau de douane de destination peut, à la demande de l’intéressé, autoriser que la présentation ait lieu en dehors des heures d’ouverture officielles ou en tout autre lieu.
+
+Lorsque des marchandises placées sous un régime de transit commun arrivent au bureau de douane de destination, les éléments suivants sont présentés à ce bureau de douane:
+
+- a) les marchandises;
+- b) le document d’accompagnement transit;
+- c) toute information demandée par le bureau de douane de destination.
+
+<sup>2.</sup> Lorsque la présentation a eu lieu après l’expiration du délai fixé par le bureau de douane de départ conformément à l’art. 34, par. 1, le titulaire du régime est considéré comme ayant respecté le délai lorsque lui-même ou le transporteur prouve à la satisfaction du bureau de destination que le retard ne lui est pas imputable.
+
+<sup>3.</sup> Le bureau de douane de destination conserve le document d’accompagnement transit.
+
+Le bureau de douane de destination effectue généralement des contrôles douaniers sur la base des énonciations de la déclaration de transit commun transmise par le bureau de douane de départ.
+
+<sup>4.</sup>
+
+Lorsque le régime de transit commun a pris fin, qu’aucune irrégularité n’a été constatée par le bureau de douane de destination, et que le titulaire du régime présente le document d’accompagnement transit, ledit bureau de douane vise ce document à la demande du titulaire du régime afin de fournir une preuve alternative conformément à l’art. 51, par. 1. Le visa est constitué du cachet de ce bureau de douane, de la signature du fonctionnaire, de la date et du texte suivant:
+
+- – «Preuve alternative – 99202».
+
+<sup>5.</sup> Il peut être mis fin au régime de transit commun dans un bureau de douane autre que celui indiqué dans la déclaration de transit. Ce bureau de douane est alors considéré comme le bureau de douane de destination.
+
+#### Art. 46
+
+**Récépissé**
+
+<sup>1.</sup> À la demande de la personne qui présente les marchandises au bureau de douane de destination, ce bureau de douane vise un récépissé qui atteste la présentation des marchandises et du document d’accompagnement transit audit bureau de douane.
+
+Le récépissé contient une référence au MRN de la déclaration de transit.
+
+<sup>2.</sup> Le récépissé est établi au moyen du formulaire figurant à l’annexe B10 de l’appendice III et est préalablement rempli par la personne concernée.
+
+<sup>3.</sup> Le récépissé ne peut servir de preuve alternative de la fin du régime de transit commun au sens de l’art. 51, par. 1.
+
+#### Art. 47
+
+**Notification de l’arrivée de marchandises sous le régime de transit commun et résultats du contrôle**
+
+<sup>1.</sup> Le bureau de douane de destination notifie l’arrivée des marchandises au bureau de douane de départ le jour où les marchandises et le document d’accompagnement transit sont présentés conformément à l’art. 45, par. 1.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), le bureau de douane de destination notifie l’arrivée des marchandises au bureau de douane de départ le jour où les marchandises et le document d’accompagnement transit, ainsi que le MRN de la déclaration de transit, sont présentés conformément à l’art. 45, par. 1.
+
+<sup>2.</sup> Lorsque l’opération de transit commun prend fin dans un bureau de douane autre que celui indiqué dans la déclaration de transit, le bureau de douane considéré comme étant le bureau de douane de destination conformément à l’art. 45, par. 5, notifie l’arrivée au bureau de douane de départ le jour où les marchandises et le document d’accompagnement transit sont présentés conformément à l’art. 45, par. 1.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), lorsque l’opération de transit commun prend fin dans un bureau de douane autre que celui indiqué dans la déclaration de transit, le bureau de douane considéré comme étant le bureau de douane de destination conformément à l’art. 45, par. 5, notifie l’arrivée au bureau de douane de départ le jour où les marchandises et le document d’accompagnement transit, ainsi que le MRN de la déclaration de transit, sont présentés conformément à l’art. 45, par. 1.
+
+Le bureau de douane de départ notifie l’arrivée au bureau de douane de destination indiqué dans la déclaration de transit.
+
+<sup>3.</sup> La notification de l’arrivée visée aux par. 1 et 2 n’est pas considérée comme la preuve que le régime de transit de commun a pris fin correctement.
+
+<sup>4.</sup> Le bureau de douane de destination notifie les résultats du contrôle au bureau de douane de départ, au plus tard le troisième jour suivant celui où les marchandises sont présentées au bureau de douane de destination ou dans un autre lieu conformément à l’art. 45, par. 1. Dans des cas exceptionnels, ce délai peut être prolongé jusqu’à six jours.
+
+<sup>5.</sup> Par dérogation au par. 4 du présent article, lorsque des marchandises sont reçues par un destinataire agréé, tel que visé à l’art. 87, le bureau de douane de départ en est informé au plus tard le sixième jour suivant celui où les marchandises ont été livrées au destinataire agréé.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), lorsque les marchandises sont acheminées par chemin de fer et que plusieurs wagons ou voitures sont retirés d’une rame de voitures ou de wagons de chemin de fer en raison de problèmes techniques, tels que visés à l’art. 44, par. 2, point b), le bureau de douane de sortie en est informé au plus tard le douzième jour suivant celui où la première partie des marchandises a été présentée.
+
+### Chapitre VI Formalités relatives à la fin du régime
+
+#### Art. 48
+
+**Fin et apurement du régime**
+
+<sup>1.</sup> Le régime de transit commun prend fin et les obligations du titulaire du régime sont remplies lorsque les marchandises placées sous le régime et les informations requises sont à la disposition du bureau de douane de destination, conformément à la législation douanière.
+
+<sup>2.</sup> Le régime de transit commun est apuré par les autorités douanières, lorsque celles-ci sont en mesure d’établir, sur la base d’une comparaison entre les données disponibles au bureau de douane de départ et celles disponibles au bureau de douane de destination, que le régime a pris fin correctement.
+
+#### Art. 49
+
+**Procédure de recherche pour les marchandises acheminées sous le régime de transit commun**
+
+<sup>1.</sup> Si le bureau de douane de départ n’a pas reçu les résultats du contrôle dans les six jours conformément à l’art. 47, par. 4, ou à l’art. 47, par. 5, à compter de la réception de la notification de l’arrivée des marchandises, ce bureau de douane demande sans délai les résultats du contrôle au bureau de douane de destination qui a envoyé la notification de l’arrivée des marchandises.
+
+Le bureau de douane de destination envoie les résultats du contrôle sans délai après réception de la demande adressée par le bureau de douane de départ.
+
+<sup>2.</sup>
+
+Si l’autorité douanière du pays de départ n’a pas encore reçu les informations qui permettent d’apurer le régime de transit commun ou de recouvrer la dette, celle-ci demande les informations en question au titulaire du régime ou, lorsque des énonciations suffisantes sont disponibles à destination, au bureau de douane de destination, dans les cas suivants:
+
+- a) le bureau de douane de départ n’a pas reçu la notification de l’arrivée des marchandises à l’expiration du délai de présentation des marchandises fixé conformément à l’art. 34;
+- b) le bureau de douane de départ n’a pas reçu les résultats du contrôle demandés conformément au par. 1;
+- c) le bureau de douane de départ constate que la notification de l’arrivée des marchandises ou les résultats du contrôle ont été envoyés par erreur.
+
+<sup>3.</sup> L’autorité douanière du pays de départ adresse des demandes d’informations conformément au par. 2, point a), dans un délai de sept jours à compter de l’expiration du délai visé audit paragraphe et des demandes d’informations conformément au par. 2, point b), dans un délai de sept jours à compter de l’expiration du délai applicable visé au par. 1.
+
+Toutefois, si, avant l’expiration de ces délais, l’autorité douanière du pays de départ est informée du fait que le régime de transit commun n’a pas correctement pris fin, ou soupçonne que tel est le cas, elle transmet la demande sans retard.
+
+<sup>4.</sup> Les réponses aux demandes formulées conformément au par. 2 sont transmises dans un délai de 28 jours à compter de la date à laquelle la demande a été envoyée.
+
+<sup>5.</sup> Si, à la suite d’une demande présentée conformément au par. 2, le bureau de douane de destination n’a pas fourni suffisamment d’informations pour que le régime de transit commun soit apuré, l’autorité douanière du pays de départ demande au titulaire du régime de fournir ces informations, au plus tard 28 jours après l’engagement de la procédure de recherche.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), si, à la suite d’une demande présentée conformément au par. 2, le bureau de douane de destination n’a pas fourni suffisamment d’informations pour que le régime de transit commun soit apuré, l’autorité douanière du pays de départ demande au titulaire du régime de fournir ces informations, au plus tard 35 jours après l’engagement de la procédure de recherche.
+
+Le titulaire du régime répond à cette demande dans un délai de 28 jours à partir de la date à laquelle elle a été envoyée.
+
+<sup>6.</sup> Si les informations fournies dans sa réponse par le titulaire du régime conformément au par. 5 ne sont pas suffisantes pour apurer le régime de transit commun, mais que l’autorité douanière du pays de départ estime qu’elles sont suffisantes pour poursuivre la procédure de recherche, cette autorité transmet sans retard une demande d’informations complémentaires au bureau de douane concerné.
+
+Le bureau de douane répond à cette demande dans un délai de 40 jours à partir de la date à laquelle elle a été envoyée.
+
+<sup>7.</sup> Lorsqu’au cours des étapes de la procédure de recherche exposées aux par. 1 à 6, il est établi que le régime de transit commun a pris fin correctement, l’autorité douanière du pays de départ apure le régime de transit commun et en informe sans délai le titulaire du régime, ainsi que, le cas échéant, toute autorité douanière qui aurait engagé une action en recouvrement.
+
+<sup>8.</sup> Lorsque, au cours des étapes la procédure de recherche exposées aux par. 1 à 6, il est établi que le régime de transit commun ne peut pas être apuré, l’autorité douanière du pays de départ statue sur l’existence d’une dette.
+
+En cas de naissance d’une dette, l’autorité douanière du pays de départ prend les mesures suivantes:
+
+- a) identification du débiteur;
+- b) détermination de l’autorité douanière chargée de la notification de la dette.
+
+#### Art. 50
+
+**Demande de transfert du recouvrement de la dette**
+
+<sup>1.</sup> Lorsque, au cours de la procédure de recherche, et avant l’expiration du délai visé à l’art. 114, par. 2, l’autorité douanière du pays de départ obtient la preuve que le lieu où se sont produits les faits ayant fait naître la dette est situé dans un autre pays, celle-ci communique immédiatement et, en tout état de cause, dans ce délai, toutes les informations dont elle dispose à l’autorité douanière compétente dans ce lieu.
+
+<sup>2.</sup> L’autorité douanière compétente dans ce lieu accuse réception de ces informations et indique à l’autorité douanière du pays de départ si elle est compétente pour le recouvrement. Si elle n’a pas reçu ces informations dans un délai de 28 jours, l’autorité douanière du pays de départ reprend la procédure de recherche ou engage l’action en recouvrement sans délai.
+
+#### Art. 51
+
+**Preuve alternative de la fin du régime de transit commun**
+
+<sup>1.</sup>
+
+Le régime de transit commun est considéré comme ayant correctement pris fin lorsque le titulaire du régime présente, à la satisfaction de l’autorité douanière du pays de départ, l’un des documents ci-après identifiant les marchandises:
+
+- a) un document certifié par les autorités douanières du pays de destination qui identifie les marchandises et constate que celles-ci ont été présentées au bureau de douane de destination, ou ont été livrées à un destinataire agréé visé à l’art. 87;
+- b) un document ou une écriture douanière, certifié par l’autorité douanière d’un pays, qui établit que les marchandises ont physiquement quitté le territoire douanier de la partie contractante;
+- c) un document douanier délivré dans un pays tiers où les marchandises sont placées sous un régime douanier;
+- d) un document établi dans un pays tiers, visé ou autrement certifié par l’autorité douanière de ce pays, établissant que les marchandises sont considérées comme étant en libre circulation dans ledit pays.
+
+<sup>2.</sup> En lieu et place des documents visés au par. 1, des copies de ces documents certifiées conformes par l’organisme qui a visé les documents originaux, par l’autorité du pays tiers concerné ou par l’autorité d’un pays peuvent être fournies à titre de preuves.
+
+#### Art. 52
+
+**Vérification et assistance administrative**
+
+<sup>1.</sup> Les autorités douanières compétentes peuvent procéder à des contrôles a posteriori des informations fournies et de tous documents, formulaires, autorisations ou données en lien avec l’opération de transit commun afin de vérifier que les annotations, les informations échangées et les cachets sont authentiques. Ces contrôles sont effectués en cas de doute sur l’exactitude et l’authenticité des informations fournies ou en cas de soupçon de fraude. Ils peuvent également être effectués sur la base d’une analyse de risque ou par sondage.
+
+<sup>2.</sup> L’autorité douanière compétente qui reçoit une demande de contrôle a posteriori y répond sans retard.
+
+<sup>3.</sup> Lorsque l’autorité douanière compétente du pays de départ adresse une demande à l’autorité douanière compétente pour effectuer un contrôle a posteriori des informations relatives à l’opération de transit commun, les conditions fixées à l’art. 48, par. 2, pour apurer le régime de transit sont considérées comme n’ayant pas été respectées tant que l’authenticité et l’exactitude des données n’ont pas été confirmées.
+
+### Chapitre VII Régime de transit commun pour le transport de marchandises par l’intermédiaire d’une installation de transport fixe
+
+#### Art. 53
+
+**Régime de transit commun pour le transport de marchandises par l’intermédiaire d’une installation de transport fixe**
+
+<sup>1.</sup> Lorsque les marchandises transportées par l’intermédiaire d’une installation de transport fixe entrent sur le territoire douanier d’une partie contractante par cette installation, ces marchandises sont réputées être placées sous le régime de transit commun lorsqu’elles entrent sur ce territoire.
+
+<sup>2.</sup> Lorsque les marchandises se trouvent déjà sur le territoire douanier d’une partie contractante et sont transportées par l’intermédiaire d’une installation de transport fixe, ces marchandises sont réputées être placées sous le régime du transit commun lorsqu’elles sont placées dans l’installation de transport fixe.
+
+<sup>3.</sup> Aux fins du régime de transit commun, lorsque les marchandises sont transportées par l’intermédiaire d’installations de transport fixes, le titulaire du régime est l’exploitant de l’installation de transport fixe établi dans la partie contractante par le territoire de laquelle les marchandises entrent sur le territoire douanier des parties contractantes dans le cas visé au par. 1, ou l’exploitant de l’installation de transport fixe établie dans la partie contractante où la circulation débute dans le cas visé au par. 2.
+
+Le titulaire du régime de transit et l’autorité douanière se mettent d’accord sur les méthodes de surveillance douanière des marchandises transportées.
+
+<sup>4.</sup> Aux fins de l’application de l’art. 8, par. 2, l’exploitant de l’installation de transport fixe établi dans un pays à travers le territoire duquel les marchandises circulent par l’intermédiaire d’une installation de transport fixe est considéré comme le transporteur.
+
+<sup>5.</sup>
+
+Sans préjudice des dispositions du par. 8, le régime de transit commun est réputé avoir pris fin dès lors que la mention correspondante est inscrite dans les écritures commerciales du destinataire ou de l’exploitant de l’installation de transport fixe certifiant que les marchandises transportées par l’intermédiaire d’une installation de transport fixe:
+
+- a) sont arrivées à l’installation du destinataire;
+- b) sont acceptées dans le réseau de distribution du destinataire, ou
+- c) ont quitté le territoire douanier des parties contractantes.
+
+<sup>6.</sup> Lorsque des marchandises transportées par l’intermédiaire d’une installation de transport fixe entre deux parties contractantes sont réputées placées sous le régime de transit commun, conformément aux dispositions du par. 2, et empruntent, au cours de leur trajet, le territoire d’un pays de transit commun où ce régime n’est pas utilisé pour les transports par l’intermédiaire d’une installation de transport fixe, ledit régime est suspendu pendant la traversée de ce territoire.
+
+<sup>7.</sup> Lorsque des marchandises sont transportées par l’intermédiaire d’une installation de transport fixe depuis un pays de transit commun où le régime de transit commun n’est pas utilisé pour les transports par l’intermédiaire d’une installation de transport fixe, à destination d’une partie contractante où ce régime est utilisé, ledit régime est réputé commencer au moment où les marchandises pénètrent sur le territoire de cette dernière partie contractante.
+
+<sup>8.</sup> Lorsque des marchandises sont transportées par l’intermédiaire d’une installation de transport fixe depuis une partie contractante où le régime de transit commun est utilisé pour les transports par l’intermédiaire d’une installation de transport fixe, à destination d’un pays de transit commun où ce régime n’est pas utilisé, ledit régime est réputé prendre fin au moment où les marchandises quittent le territoire de la partie contractante où le régime est utilisé.
+
+#### Art. 54
+
+**Application facultative du régime de transit commun aux transports de marchandises par l’intermédiaire d’une installation de transport fixe**
+
+Un pays de transit commun peut décider de ne pas appliquer le régime de transit commun aux transports de marchandises par l’intermédiaire d’une installation de transport fixe. Cette décision est communiquée à la Commission, qui en informe les autres pays.
+
+### Titre III Simplifications utilisées pour le régime de transit commun
+
+### Chapitre I Dispositions générales en matière de simplifications
+
+#### Art. 55
+
+**Types de simplifications en matière de transit**
+
+<sup>1.</sup>
+
+Sur demande, les autorités douanières peuvent autoriser l’une des simplifications suivantes:
+
+- a) l’utilisation d’une garantie globale ou d’une dispense de garantie;
+- b) l’utilisation de scellés d’un modèle spécial, lorsque le scellement est requis pour assurer l’identification des marchandises placées sous le régime de transit commun;
+- c) le statut d’expéditeur agréé, qui permet au titulaire de l’autorisation de placer des marchandises sous le régime de transit commun sans présenter lesdites marchandises en douane;
+- d) le statut de destinataire agréé, qui permet au titulaire de l’autorisation de recevoir des marchandises acheminées sous le régime de transit commun dans un lieu agréé et de mettre fin au régime conformément à l’art. 48, par. 1;
+- e) le recours au régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne;
+- f) le recours au régime de transit commun sur support papier spécifique pour les marchandises acheminées par voie ferrée;
+- g) l’application d’autres procédures simplifiées fondées sur l’art. 6 de la convention;
+- h) le régime de transit commun sur la base d’un document électronique de transport en tant que déclaration de transit pour le transport aérien;
+- i) l’utilisation d’une déclaration en douane comportant des exigences réduites en matière de données en vue du placement des marchandises sous le régime de transit commun.
+
+<sup>2.</sup>
+
+Les autorisations prévues au par. 1, point i), en ce qui concerne l’utilisation d’une déclaration en douane comportant des exigences réduites en matière de données en vue du placement de marchandises sous le régime de commun sont accordées pour:
+
+- a) le transport de marchandises par voie ferrée;
+- b) le transport de marchandises par voie aérienne lorsqu’un document électronique de transport n’est pas utilisé en tant que déclaration de transit.
+
+<sup>3.</sup> Jusqu’aux dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, visées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), le régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne visé au par. 1, point e), et le régime de transit commun sur support papier spécifique pour les marchandises acheminées par voie ferrée visé au par. 1, point f), sont applicables. Après ces dates, ces régimes de transit commun ne s’appliquent pas.
+
+...
+
+Jusqu’aux dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), la simplification visée au par. 1, point i), ne s’applique pas.
+
+#### Art. 56
+
+**Champ d’application territorial des autorisations de simplification**
+
+<sup>1.</sup> Les simplifications visées à l’art. 55, par. 1, points b) et c), ne s’appliquent qu’aux opérations de transit commun commençant dans la partie contractante où l’autorisation de ces simplifications est accordée.
+
+<sup>2.</sup> La simplification visée à l’art. l’art. 55, par. 1, point d), ne s’applique qu’aux opérations de transit commun prenant fin dans la partie contractante où l’autorisation de cette simplification est accordée.
+
+<sup>3.</sup> Les simplification visées à l’art. 55, para. 1, point e) et h), s’appliquent aux parties contractantes mentionnées dans l’autorisation de la simplification.
+
+<sup>4.</sup> Les simplifications visées à l’art. 55, par. 1, points a), f) et i), s’appliquent à toutes les parties contractantes.
+
+#### Art. 57
+
+**Conditions générales relatives aux autorisations de simplification**
+
+<sup>1.</sup>
+
+L’autorisation visée à l’art. 55, para. 1, point a), est accordée aux demandeurs remplissant les conditions suivantes:
+
+- a) le demandeur est établi sur le territoire douanier d’une partie contractante;
+- b) le demandeur n’a pas commis d’infractions graves ou répétées à la législation douanière et aux dispositions fiscales, y compris des infractions pénales graves liées à son activité économique;
+- c) le demandeur recourt régulièrement au régime de transit commun ou respecte des normes pratiques en matière de compétence ou de qualifications professionnelles directement liées à l’activité exercée.
+
+<sup>2.</sup>
+
+Les autorisations visées à l’art. 55, par. 1, points b), c), d) et i), sont accordées aux demandeurs remplissant les conditions suivantes:
+
+- a) le demandeur est établi sur le territoire douanier d’une partie contractante;
+- b) le demandeur déclare qu’il utilisera régulièrement le régime de transit commun;
+- c) le demandeur n’a pas commis d’infractions graves ou répétées à la législation douanière et aux dispositions fiscales, y compris des infractions pénales graves liées à son activité économique;
+- d) le demandeur démontre qu’il exerce un niveau élevé de contrôle sur ses opérations et les mouvements de marchandises au moyen d’un système de gestion des écritures commerciales et, le cas échéant, des documents relatifs au transport, permettant d’exercer les contrôles douaniers nécessaires;
+- e) le demandeur respecte des normes pratiques en matière de compétences ou de qualifications professionnelles directement liées aux activités exercées.
+
+<sup>3.</sup>
+
+Les autorisations visées à l’art. 55, para. 1, point e), sont accordées aux demandeurs remplissant les conditions suivantes:
+
+- a) dans le cas du régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne, le demandeur est une compagnie aérienne et est établi sur le territoire douanier d’une partie contractante;
+- b) ...
+- c) le demandeur recourt régulièrement au régime de transit commun ou l’autorité douanière compétente sait qu’il est en mesure de remplir les obligations liées à ce régime, et
+- d) le demandeur n’a pas commis d’infractions graves ou répétées à la législation douanière et fiscale.
+
+<sup>4.</sup>
+
+Les autorisations visées à l’art. 55, para. 1, point f), sont accordées aux demandeurs remplissant les conditions suivantes:
+
+- a) le demandeur est une entreprise de chemin de fer;
+- b) le demandeur est établi sur le territoire douanier d’une partie contractante;
+- c) le demandeur recourt régulièrement au régime de transit commun ou l’autorité douanière compétente sait qu’il est en mesure de remplir les obligations liées à ce régime, et
+- d) le demandeur n’a pas commis d’infractions graves ou répétées à la législation douanière et fiscale.
+
+<sup>5.</sup>
+
+Les autorisations visées à l’art. 55, par. 1, point h), sont accordées aux demandeurs remplissant les conditions suivantes:
+
+- a) le demandeur est établi sur le territoire douanier d’une partie contractante;
+- b) le demandeur déclare qu’il utilisera régulièrement le régime de transit commun;
+- c) le demandeur n’a pas commis d’infractions graves ou répétées à la législation douanière et aux dispositions fiscales, y compris des infractions pénales graves liées à son activité économique;
+- d) le demandeur démontre qu’il exerce un niveau élevé de contrôle sur ses opérations et les mouvements de marchandises au moyen d’un système de gestion des écritures commerciales et, le cas échéant, des documents relatifs au transport, permettant d’exercer les contrôles douaniers nécessaires;
+- e) le demandeur respecte des normes pratiques en matière de compétences ou de qualifications professionnelles directement liées aux activités exercées;
+- f) le demandeur assure un nombre significatif de vols entre les aéroports des parties contractantes;
+- g) le demandeur démontre qu’il sera en mesure de veiller à ce que les énonciations du document électronique de transport soient disponibles au bureau de douane de départ à l’aéroport de départ et au bureau de douane de destination à l’aéroport de destination et à ce que ces énonciations soient les mêmes au bureau de douane de départ et au bureau de douane de destination.
+
+<sup>6.</sup> Les autorisations ne sont accordées que si l’autorité douanière estime être en mesure de superviser le régime de transit commun et d’effectuer des contrôles sans effort administratif disproportionné par rapport aux besoins de la personne concernée.
+
+#### Art. 58
+
+**Vérification des conditions d’autorisation**
+
+Les autorités douanières vérifient les conditions à respecter par le titulaire d’une autorisation. Elles vérifient également le respect des obligations découlant de l’autorisation. Lorsque le titulaire de l’autorisation est établi depuis moins de trois ans, l’autorité douanière procède à une vérification minutieuse concernant ledit titulaire durant la première année suivant la date à laquelle l’autorisation a été octroyée.
+
+#### Art. 59
+
+**Contenu de la demande d’autorisation**
+
+<sup>1.</sup> La demande d’autorisation d’utiliser les simplifications est datée et signée. Les parties contractantes fixent les modalités de dépôt de la demande.
+
+<sup>2.</sup> La demande comporte les éléments permettant aux autorités douanières de s’assurer du respect des conditions d’octroi des simplifications demandées.
+
+#### Art. 60
+
+**Responsabilité du demandeur**
+
+La personne qui sollicite l’utilisation des simplifications est responsable, en vertu des dispositions en vigueur dans les parties contractantes et sans préjudice de l’application éventuelle de dispositions pénales:
+
+- a) de l’exactitude et du caractère complet des informations fournies dans la demande;
+- b) de l’authenticité, de l’exactitude et de la validité des documents accompagnant la demande.
+
+#### Art. 61
+
+**Autorités douanières compétentes pour octroyer l’autorisation**
+
+<sup>1.</sup> Les demandes de simplification visées à l’art. 55, para. 1, point c), sont présentées aux autorités douanières compétentes pour octroyer l’autorisation dans le pays où les opérations de transit commun doivent débuter.
+
+<sup>2.</sup> Les demandes de simplification visées à l’art. 55, para. 1, point d), sont présentées aux autorités douanières compétentes pour octroyer l’autorisation dans le pays où les opérations de transit commun doivent prendre fin.
+
+<sup>3.</sup> Les demandes de simplification visées à l’art. 55, par. 1, points a), b), e), f), h) et i), sont présentées aux autorités douanières compétentes pour le lieu où demandeur tient sa comptabilité principale à des fins douanières ou le lieu où celle-ci est disponible, et où est exercée une partie au moins des activités devant être couvertes par l’autorisation.
+
+La comptabilité principale du demandeur porte sur les écritures et documents nécessaires aux autorités douanières pour octroyer l’autorisation.
+
+<sup>4.</sup> Par dérogation au par. 3, premier alinéa, lorsque le demandeur sollicite la simplification visée à l’art. 55, par. 1, point b), qui est destinée à être utilisée dans le cadre d’une autorisation de simplification visée à l’art. 55, par. 1, point c), la demande d’utilisation de scellés d’un modèle spécial visée à l’art. 55, par. 1, point b), peut être présentée à l’autorité douanière compétente pour arrêter une décision dans le pays où les opérations de transit commun de l’expéditeur agréé visées à l’art. 55, par. 1, point c), doivent débuter.
+
+#### Art. 62
+
+**Acceptation ou rejet des demandes, et octroi des autorisations**
+
+<sup>1.</sup> Les demandes sont acceptées ou rejetées, et les autorisations sont octroyées conformément aux dispositions en vigueur dans les parties contractantes.
+
+<sup>2.</sup> La décision comportant le rejet de la demande est motivée et est communiquée au demandeur conformément aux délais et modalités en vigueur dans la partie contractante concernée.
+
+#### Art. 63
+
+**Contenu de l’autorisation**
+
+<sup>1.</sup> L’autorisation et une ou plusieurs copies certifiées, si nécessaire, sont remises au titulaire de l’autorisation.
+
+<sup>2.</sup> L’autorisation précise les conditions dans lesquelles les simplifications sont utilisées et en définit les modalités de fonctionnement et de contrôle.
+
+#### Art. 64
+
+**Date de prise d’effet de l’autorisation**
+
+<sup>1.</sup> L’autorisation prend effet à la date à laquelle le demandeur la reçoit ou est réputé l’avoir reçue, et est exécutoire par les autorités douanières à compter de cette date.
+
+À moins que la législation douanière n’en dispose autrement, la validité de l’autorisation n’est pas limitée dans le temps.
+
+<sup>2.</sup>
+
+L’autorisation prend effet à une date différente de la date à laquelle le demandeur la reçoit ou est réputé l’avoir reçue dans les cas suivants:
+
+- a) lorsque l’autorisation a des conséquences favorables pour le demandeur et que celui-ci a demandé une date de prise d’effet différente, auquel cas l’autorisation prend effet à la date demandée par le demandeur pour autant qu’elle soit postérieure à la date à laquelle elle aurait été applicable en vertu du par. 1;
+- b) lorsqu’une autorisation antérieure a été délivrée pour une durée limitée et que l’unique objectif de la décision actuelle est de prolonger sa validité, auquel cas l’autorisation prend effet à compter du jour suivant la date d’expiration de la période de validité de l’autorisation antérieure;
+- c) lorsque les effets de l’autorisation sont subordonnés à l’accomplissement de certaines formalités par le demandeur, auquel cas l’autorisation prend effet à compter de la date à laquelle le demandeur reçoit ou est réputé avoir reçu la notification de l’autorité douanière compétente indiquant que les formalités ont été accomplies d’une manière satisfaisante.
+
+#### Art. 65
+
+**Annulation, révocation et modification des autorisations**
+
+<sup>1.</sup> Le titulaire de l’autorisation est tenu d’informer les autorités douanières de tout événement survenu après l’octroi de l’autorisation et susceptible d’avoir une incidence sur son maintien ou son contenu.
+
+<sup>2.</sup>
+
+Les autorités douanières peuvent annuler une autorisation lorsque toutes les conditions suivantes sont réunies:
+
+- a) l’autorisation a été accordée sur la base d’éléments inexacts ou incomplets;
+- b) le titulaire de l’autorisation connaissait ou devait raisonnablement connaître le caractère inexact ou incomplet des éléments;
+- c) la décision d’autorisation aurait été différente si les éléments avaient été exacts et complets.
+
+<sup>3.</sup>
+
+Une autorisation est révoquée ou modifiée lorsque, dans des cas autres que ceux visés au par. 2:
+
+- a) une ou plusieurs des conditions fixées pour l’octroi de l’autorisation ne sont pas ou plus respectées, ou
+- b) le titulaire de l’autorisation en fait la demande.
+
+<sup>4.</sup> Le titulaire de l’autorisation est informé de l’annulation, de la révocation ou de la modification de l’autorisation conformément aux délais et modalités en vigueur dans la partie contractante.
+
+<sup>5.</sup> L’annulation d’une autorisation prend effet à compter de la date à laquelle l’autorisation initiale a pris effet, à moins que la décision arrêtée en application de la législation douanière n’en dispose autrement.
+
+<sup>6.</sup> La révocation ou la modification d’une autorisation prend effet à la date à laquelle elle est reçue ou réputée reçue par le demandeur. Toutefois, dans des cas exceptionnels et dans la mesure où les intérêts légitimes du titulaire de l’autorisation l’exigent, les autorités douanières peuvent reporter la date de prise d’effet de la révocation ou de la modification conformément aux délais en vigueur dans les parties contractantes. La date de prise d’effet est indiquée sur la décision de révocation ou de modification de l’autorisation.
+
+#### Art. 66
+
+**Réexamen d’une autorisation**
+
+<sup>1.</sup>
+
+L’autorité douanière compétente pour octroyer l’autorisation la réexamine dans les cas suivants:
+
+- a) lorsque des modifications ayant une incidence sur l’autorisation ont été apportées à la législation applicable;
+- b) lorsque cela s’avère nécessaire à la suite du suivi effectué;
+- c) lorsque cela se révèle nécessaire en raison des informations communiquées par le titulaire de l’autorisation conformément à l’art. 65, par. 1, ou par d’autres autorités.
+
+<sup>2.</sup> L’autorité douanière compétente pour octroyer l’autorisation transmet les résultats du réexamen au titulaire de l’autorisation.
+
+#### Art. 67
+
+**Suspension d’une autorisation**
+
+<sup>1.</sup>
+
+L’autorité douanière compétente pour octroyer l’autorisation suspend l’autorisation au lieu de l’annuler, de la révoquer ou de la modifier, lorsque:
+
+- a) l’autorité douanière concernée estime qu’il existerait des motifs suffisants pour annuler, révoquer ou modifier l’autorisation, mais qu’on ne dispose pas encore de tous les éléments nécessaires pour se prononcer sur l’annulation, la révocation ou la modification;
+- b) l’autorité douanière concernée considère que les conditions de l’autorisation ne sont pas remplies ou que le titulaire de l’autorisation ne respecte pas les obligations qu’impose cette autorisation et qu’il est approprié de permettre au titulaire de l’autorisation de prendre des mesures en vue de garantir le respect des conditions ou des obligations;
+- c) le titulaire de l’autorisation demande cette suspension car il est temporairement dans l’incapacité de remplir les conditions fixées dans l’autorisation ou de respecter les obligations imposées par ladite autorisation.
+
+<sup>2.</sup> Dans les cas visés au par. 1, points b) et c), le titulaire de l’autorisation notifie à l’autorité douanière compétente pour octroyer l’autorisation les mesures qu’il s’engage à prendre pour garantir le respect des conditions ou des obligations ainsi que le délai qui lui est nécessaire pour prendre ces mesures.
+
+#### Art. 68
+
+**Période de suspension d’une autorisation**
+
+<sup>1.</sup> La période de suspension fixée par l’autorité douanière compétente correspond à la période nécessaire à ladite autorité douanière pour déterminer si les conditions en vue d’une annulation, d’une révocation ou d’une modification sont remplies.
+
+Toutefois, lorsque l’autorité douanière estime que le titulaire de la décision est susceptible de ne pas satisfaire aux critères énoncés à l’art. 57, par. 1, point b), l’autorisation est suspendue jusqu’à ce qu’il soit vérifié si une infraction grave ou des infractions répétées ont été commises par l’une des personnes suivantes:
+
+- a) le titulaire de l’autorisation;
+- b) la personne responsable de l’entreprise titulaire de l’autorisation concernée ou exerçant le contrôle de sa gestion;
+- c) la personne responsable des affaires douanières au sein de l’entreprise titulaire de l’autorisation concernée.
+
+<sup>2.</sup> Dans les cas visés à l’art. 67, par. 1, points b) et c), la période de suspension fixée par l’autorité douanière compétente pour octroyer l’autorisation correspond à la période notifiée par le titulaire de l’autorisation conformément à l’art. 67, par. 2. La période de suspension peut, le cas échéant, être à nouveau prolongée à la demande du titulaire de l’autorisation.
+
+La période de suspension peut être à nouveau prolongée de la période de temps nécessaire à l’autorité douanière compétente pour vérifier que les mesures garantissent le respect des conditions ou des obligations; cette période de temps ne dépasse pas 30 jours.
+
+<sup>3.</sup> Lorsque, à la suite de la suspension d’une autorisation, l’autorité douanière compétente pour octroyer l’autorisation entend annuler, révoquer ou modifier ladite autorisation conformément à l’art. 65, la période de suspension, fixée conformément aux par. 1 et 2 du présent article, est prolongée, le cas échéant, jusqu’à ce que la décision relative à l’annulation, à la révocation ou à la modification prenne effet.
+
+#### Art. 69
+
+**Fin de la suspension d’une autorisation**
+
+<sup>1.</sup>
+
+La suspension d’une autorisation prend fin à l’expiration de la période de suspension sauf si, avant l’expiration de ladite période, l’une des situations suivantes se présente:
+
+- a) la suspension est retirée sur la base du fait que, dans les cas visés à l’art. 67, par. 1, point a), il n’existe pas de raisons pour annuler, révoquer ou modifier l’autorisation conformément à l’art. 65, auquel cas la suspension prend fin à la date du retrait;
+- b) la suspension est retirée sur la base du fait que, dans les cas visés à l’art. 67, par. 1, points b) et c), le titulaire de l’autorisation a pris, à la satisfaction de l’autorité douanière compétente pour octroyer l’autorisation, les mesures nécessaires en vue de garantir le respect des conditions établies pour l’autorisation ou des obligations qui lui incombent au titre de ladite autorisation, auquel cas la suspension prend fin à la date du retrait;
+- c) la décision suspendue est annulée, révoquée ou modifiée, auquel cas la suspension prend fin à la date d’annulation, de révocation ou de modification.
+
+<sup>2.</sup> L’autorité douanière compétente pour octroyer l’autorisation informe le titulaire de l’autorisation de la fin de la suspension.
+
+#### Art. 70
+
+*Abrogé*
+
+#### Art. 71
+
+**Réexamen des autorisations déjà en vigueur au 1<sup>er</sup> mai 2016**
+
+<sup>1.</sup> Les autorisations octroyées sur la base de l’art. 44, par. 1, points a), b), d), e) et f) i) et ii), (seulement la procédure simplifiée – niveau 1) de l’appendice I de la convention, telle que modifiée par la décision n<sup>o</sup> 1/2008, qui sont valables à la date du 1<sup>er</sup> mai 2016 et qui n’ont pas une durée de validité limitée, sont réexaminées au plus tard le 1<sup>er</sup> mai 2019.
+
+<sup>2.</sup>
+
+Les autorisations octroyées sur la base de l’art. 44, par. 1, point a), b), d) et e), de l’appendice I de la Convention, telle que modifiée par la décision n<sup>o</sup> 1/2008 du 16 juin 2008, qui sont valables à la date du 1<sup>er</sup> mai 2016 restent valables selon les conditions suivantes:
+
+- a) pour les autorisations ayant une durée de validité limitée, jusqu’à la fin de cette période, ou jusqu’au 1<sup>er</sup> mai 2019, la date la plus proche étant retenue;
+- b) pour toutes les autres autorisations, jusqu’à ce que l’autorisation soit réexaminée.
+
+<sup>3.</sup> Les décisions qui font suite au réexamen révoquent les autorisations réexaminées et, le cas échéant, accordent de nouvelles autorisations. Ces décisions sont notifiées sans retard au titulaire de l’autorisation.
+
+#### Art. 72
+
+**Conservation des dossiers par les autorités douanières**
+
+<sup>1.</sup> Les autorités douanières conservent les demandes et les pièces qui leur sont jointes ainsi qu’une copie de toute autorisation délivrée.
+
+<sup>2.</sup> Lorsqu’une demande est rejetée ou qu’une autorisation est annulée, révoquée, modifiée ou suspendue, la demande et, selon le cas, la décision de rejet de la demande ou d’annulation, de révocation, de modification ou de suspension de l’autorisation, ainsi que les différentes pièces qui leur sont jointes, sont conservées pendant une durée d’au moins trois ans à compter de la fin de l’année civile au cours de laquelle la demande a été rejetée ou l’autorisation a été annulée, révoquée, modifiée ou suspendue.
+
+#### Art. 73
+
+**Validité des scellés déjà utilisés au 1<sup>er</sup> mai 2016**
+
+Les scellés douaniers visés à l’art. 38 et les scellés d’un modèle spécial visés à l’art. 82 conformes à l’annexe II de l’appendice I de la Convention modifiée par la décision n<sup>o</sup> 1/2008 du 16 juin 2008 peuvent continuer à être utilisés jusqu’à épuisement des stocks ou jusqu’au 1<sup>er</sup> mai 2019, la date la plus proche étant retenue.
+
+### Chapitre II Garantie globale et dispense de garantie
+
+#### Art. 74
+
+**Montant de référence**
+
+<sup>1.</sup> Sauf disposition contraire de l’art. 75, le montant de la garantie globale est égal au montant de référence établi par le bureau de douane de garantie.
+
+<sup>2.</sup> Le montant de référence de la garantie globale correspond au montant de la dette qui est susceptible de devenir exigible à l’occasion de chaque opération de transit commun à l’égard de laquelle la garantie a été constituée, au cours de la période comprise entre le placement des marchandises sous le régime de transit commun et le moment où ce régime est apuré.
+
+Aux fins de ce calcul, il est tenu compte des taux les plus élevés des droits à l’importation ou à l’exportation et autres impositions exigibles applicables aux marchandises du même type dans le pays du bureau de douane de garantie, et les marchandises de l’Union transportées conformément à la convention sont considérées comme des marchandises non Union.
+
+Lorsque le bureau de douane de garantie ne dispose pas des informations nécessaires pour déterminer le montant de référence, ce montant est fixé à 10 000 EUR pour chaque opération de transit.
+
+<sup>3.</sup> Le bureau de douane de garantie fixe le montant de référence en coopération avec le titulaire du régime. Lors de la détermination du montant de référence, le bureau de douane de garantie fixe ce montant sur la base des données relatives aux marchandises placées sous le régime de transit commun au cours des 12 mois précédents et sur une estimation du volume des opérations prévues tel qu’il ressort, en particulier, de la documentation commerciale et comptable du titulaire du régime.
+
+<sup>4.</sup> Le bureau de douane de garantie procède à un examen du montant de référence, de sa propre initiative ou à la suite d’une demande du titulaire du régime, et l’adapte si nécessaire.
+
+<sup>5.</sup> Chaque titulaire du régime veille à ce que le montant qui est déjà exigible ou susceptible de l’être n’excède pas le montant de référence.
+
+Lorsque le montant de référence ne suffit plus pour couvrir ses opérations, l’intéressé en informe le bureau de douane de garantie.
+
+<sup>6.</sup> Le contrôle du montant de référence qui couvre le montant de la dette susceptible de devenir exigible à l’égard des marchandises placées sous le régime de transit commun est assuré, pour chaque opération de transit commun, à l’aide du système informatique visé à l’art. 4, par. 1, au moment du placement des marchandises sous le régime de transit commun.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), les autorités douanières assurent le suivi de la garantie.
+
+<sup>7.</sup> Pour les marchandises placées sous le régime de transit commun au moyen de la simplification visée à l’art. 55, par. 1, point f), pendant la période entre la date d’expiration de la dispense visée à l’art. 13, par. 2, et les dates de déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, le suivi de la garantie est assuré par une procédure d’audit régulière et appropriée.
+
+#### Art. 75
+
+**Niveau de la garantie globale**
+
+<sup>1.</sup> Le titulaire du régime peut être autorisé à fournir une garantie globale d’un montant réduit ou à bénéficier d’une dispense de garantie.
+
+<sup>2.</sup>
+
+Le montant de la garantie globale est réduit à:
+
+- a)
+
+  50 % du montant de référence déterminé conformément à l’art. 74, lorsque les conditions suivantes sont remplies:
+
+  - i) le demandeur utilise un système comptable qui est compatible avec les principes généralement admis en matière comptable appliqués dans la partie contractante où la comptabilité est tenue, autorise les contrôles douaniers par audit et conserve un historique des données qui fournit une piste d’audit à partir du moment où les données entrent dans le dossier,
+  - ii) le demandeur dispose d’une organisation administrative qui correspond au type et à la taille de l’entreprise et qui est adaptée à la gestion des flux de marchandises, et d’un système de contrôle interne permettant de prévenir, de déceler et de corriger les erreurs, ainsi que de prévenir et de détecter les transactions illégales ou irrégulières,
+  - iii) le demandeur ne fait pas l’objet d’une procédure de faillite,
+  - iv) au cours des trois dernières années précédant la présentation de la demande, le demandeur a rempli ses obligations financières en matière de paiement au titre d’une dette recouvrée à l’importation ou à l’exportation de marchandises ou en rapport avec l’importation ou l’exportation de marchandises,
+  - v) le demandeur apporte la preuve, sur la base des écritures et des informations disponibles pour les trois dernières années précédant la présentation de la demande, qu’il dispose d’une capacité financière suffisante pour s’acquitter de ses obligations et remplir ses engagements eu égard au type et au volume de son activité commerciale, notamment qu’il n’a pas d’actifs nets négatifs, sauf si ceux-ci peuvent être couverts,
+  - vi) ...
+
+- b)
+
+  30 % du montant de référence déterminé conformément à l’art. 74, lorsque les conditions suivantes sont remplies:
+
+  - i) le demandeur utilise un système comptable qui est compatible avec les principes généralement admis en matière comptable appliqués dans la partie contractante où la comptabilité est tenue, autorise les contrôles douaniers par audit et conserve un historique des données qui fournit une piste d’audit à partir du moment où les données entrent dans le dossier,
+  - ii) le demandeur dispose d’une organisation administrative qui correspond au type et à la taille de l’entreprise et qui est adaptée à la gestion des flux de marchandises, et d’un système de contrôle interne permettant de prévenir, de déceler et de corriger les erreurs, ainsi que de prévenir et de détecter les transactions illégales ou irrégulières,
+  - iii) le demandeur veille à ce que le personnel concerné ait pour instruction d’informer les autorités douanières en cas de difficulté à se conformer aux exigences et établit des procédures permettant d’informer les autorités douanières de telles difficultés,
+  - iv) le demandeur ne fait pas l’objet d’une procédure de faillite,
+  - v) au cours des trois dernières années précédant la présentation de la demande, le demandeur a rempli ses obligations financières en matière de paiement au titre d’une dette recouvrée à l’importation ou à l’exportation ou en rapport avec l’importation ou l’exportation de marchandises,
+  - vi) le demandeur apporte la preuve, sur la base des écritures et des informations disponibles pour les trois dernières années précédant la présentation de la demande, qu’il dispose d’une capacité financière suffisante pour s’acquitter de ses obligations et remplir ses engagements eu égard au type et au volume de son activité commerciale, notamment qu’il n’a pas d’actifs nets négatifs, sauf si ceux-ci peuvent être couverts,
+  - vii) ...
+
+- c)
+
+  0 % du montant de référence déterminé conformément à l’art. 74, lorsque les conditions suivantes sont remplies:
+
+  - i) le demandeur utilise un système comptable qui est compatible avec les principes généralement admis en matière comptable appliqués dans la partie contractante où la comptabilité est tenue, autorise les contrôles douaniers par audit et conserve un historique des données qui fournissent une piste d’audit à partir du moment où les données entrent dans le dossier,
+  - ii) le demandeur permet à l’autorité douanière un accès physique à ses systèmes comptables et, le cas échéant, à ses écritures commerciales et à ses documents relatifs au transport,
+  - iii) le demandeur dispose d’un système logistique qui identifie les marchandises en libre pratique dans la partie contractante et les marchandises de pays tiers et indique, le cas échéant, leur localisation,
+  - iv) le demandeur dispose d’une organisation administrative qui correspond au type et à la taille de l’entreprise et qui est adaptée à la gestion des flux de marchandises, et d’un système de contrôle interne permettant de prévenir, de déceler et de corriger les erreurs, ainsi que de prévenir et de détecter les transactions illégales ou irrégulières,
+  - v) le cas échéant, le demandeur dispose de procédures satisfaisantes de gestion des licences et des autorisations accordées conformément aux mesures de politique commerciale ou concernant les échanges de produits agricoles,
+  - vi) le demandeur dispose de procédures satisfaisantes d’archivage de ses écritures et de ses informations, et de protection contre la perte de données,
+  - vii) le demandeur veille à ce que le personnel concerné ait pour instruction d’informer les autorités douanières en cas de difficulté à se conformer aux exigences et établit des procédures permettant d’informer les autorités douanières de telles difficultés;
+  - viii) le demandeur a mis en place des mesures de sécurité adaptées afin de protéger son système informatique contre toute intrusion non autorisée et de sécuriser sa documentation,
+  - ix) le demandeur ne fait pas l’objet d’une procédure de faillite,
+  - x) au cours des trois dernières années précédant la présentation de la demande, le demandeur a rempli ses obligations financières en matière de paiement au titre d’une dette recouvrée à l’importation ou à l’exportation ou en rapport avec l’importation ou l’exportation de marchandises;
+  - xi) le demandeur apporte la preuve, sur la base des écritures et des informations disponibles pour les trois dernières années précédant la présentation de la demande, qu’il dispose d’une capacité financière suffisante pour s’acquitter de ses obligations et remplir ses engagements eu égard au type et au volume de son activité commerciale, notamment qu’il n’a pas d’actifs nets négatifs, sauf si ceux-ci peuvent être couverts,
+  - xii) ...
+
+<sup>3.</sup> Lorsqu’elles vérifient si le demandeur dispose de la capacité financière suffisante aux fins de l’octroi d’une autorisation d’utiliser une garantie globale d’un montant réduit ou de bénéficier d’une dispense de garantie, comme l’exigent le par. 2, point a) v), le par. 2, point b) vi), et le par. 2, point c) xi), les autorités douanières prennent en compte l’aptitude du demandeur à remplir ses obligations relatives au paiement de ses dettes et des autres impositions susceptibles de naître, non couvertes par cette garantie.
+
+Si les circonstances le justifient, les autorités douanières peuvent prendre en compte le risque de naissance de ces dettes, compte tenu de la nature et du volume des activités économiques en rapport avec les douanes du demandeur et du type de marchandises pour lequel la garantie est exigée.
+
+#### Art. 76
+
+**Modalités de la garantie globale et de la dispense de garantie**
+
+Sur demande de la personne ayant fourni la garantie, le bureau de douane de garantie attribue à ladite garantie un ou plusieurs codes d’accès supplémentaire à l’usage de cette personne ou de ses représentants.
+
+Le bureau de douane de garantie communique au titulaire du régime les informations suivantes:
+
+- a) le numéro de référence de la garantie;
+- b) un code d’accès associé au numéro de référence de la garantie.
+
+#### Art. 77
+
+**Interdiction temporaire du recours à la garantie globale ou à la garantie d’un montant réduit, y compris à une dispense de garantie**
+
+Les circonstances particulières, les fraudes avérées en grande quantité et les règles de procédure relatives à l’interdiction temporaire de la garantie globale ou de la garantie globale d’un montant réduit, y compris d’une dispense de garantie, sont définies à l’annexe I.
+
+Le recours à la garantie globale ou à la garantie globale d’un montant réduit, y compris à une dispense de garantie, peut être interdit temporairement, dans les cas suivants:
+
+- a) dans des circonstances particulières;
+- b) pour les marchandises qui ont fait l’objet de fraudes avérées en grande quantité impliquant le recours à la garantie.
+
+#### Art. 78
+
+**Acte de cautionnement**
+
+<sup>1.</sup> La garantie globale prend la forme d’un engagement de caution et est constituée au moyen du formulaire figurant à l’annexe C4 de l’appendice III. La preuve de cet engagement est conservé par le bureau de douane de garantie pendant la période de validité de la garantie.
+
+<sup>2.</sup> L’art. 20, par. 2, et l’art. 22 s’appliquent *mutatis mutandis*.
+
+#### Art. 79
+
+**Certificats de garantie globale ou de dispense de garantie**
+
+<sup>1.</sup> Sur la base de l’autorisation, le bureau de douane de garantie délivre au titulaire du régime un ou plusieurs certificats de garantie globale établis au moyen du formulaire dont le modèle figure à l’annexe C5 de l’appendice III ou un ou plusieurs certificats de dispense de garantie établis au moyen du formulaire dont le modèle figure à l’annexe C6 de l’appendice III, qui permettent audit titulaire de justifier soit d’une garantie globale, soit d’une dispense de garantie dans le cadre de l’application de l’art. 26, par. 1, point b).
+
+<sup>2.</sup> La durée de validité d’un certificat est limitée à deux ans. Toutefois, cette durée peut faire l’objet de la part du bureau de douane de garantie d’une seule prorogation n’excédant pas deux ans.
+
+#### Art. 80
+
+**Révocation et résiliation de l’autorisation d’une garantie globale ou révocation et résiliation de l’engagement de la caution**
+
+<sup>1.</sup> L’art. 23, par. 1 et 2, s’applique mutatis mutandis à la révocation et à la résiliation de l’autorisation d’une garantie globale ou à la révocation et à la résiliation de l’engagement de la caution.
+
+<sup>2.</sup> La révocation de l’autorisation d’une garantie globale ou d’une dispense de garantie par les autorités douanières ou la révocation de la décision par laquelle le bureau de douane de garantie a accepté l’engagement de la caution ou la résiliation de son engagement par la caution, et sa date d’effet sont introduites dans le système visé à l’art. 9 par le bureau de douane de garantie.
+
+<sup>3.</sup> À la date d’effet de la révocation ou de la résiliation visée au par. 1, aucun certificat de garantie globale ou certificat de dispense de garantie émis pour l’application de l’art. 26, par. 1, point b), n’est utilisé pour le placement de marchandises sous le régime de transit commun et est restitué sans délai au bureau de douane de garantie par le titulaire du régime.
+
+Chaque pays communique à la Commission les éléments d’identification des certificats en cours de validité qui n’ont pas été restitués ou qui ont été déclarés volés, perdus ou falsifiés. La Commission en informe les autres pays.
+
+### Chapitre III Utilisation de scellés d’un modèle spécial
+
+#### Art. 81
+
+**Autorisation d’utilisation de scellés d’un modèle spécial**
+
+<sup>1.</sup> Les autorisations prévues à l’art. 55, par. 1, point b), en ce qui concerne l’utilisation de scellés d’un modèle spécial sur les moyens de transport, les conteneurs ou les colis utilisés pour le régime de transit commun sont accordées lorsque les autorités douanières approuvent les scellés indiqués dans la demande d’autorisation.
+
+<sup>2.</sup> L’autorité douanière accepte, dans le cadre de l’autorisation, les scellés d’un modèle spécial approuvés par les autorités douanières d’un autre pays, à moins qu’elle ne dispose d’informations indiquant que lesdits scellés ne conviennent pas à des fins douanières.
+
+#### Art. 82
+
+**Formalités liées à l’utilisation de scellés d’un modèle spécial**
+
+<sup>1.</sup> Les scellés d’un modèle spécial remplissent les exigences énoncées à l’art. 38, par. 1.
+
+Lorsque les scellés ont été certifiés par un organisme compétent conformément à la norme internationale ISO 17712:2013 – «Conteneurs pour le transport des marchandises – Scellés mécaniques», ceux-ci sont réputés remplir ces exigences.
+
+Pour les transports conteneurisés, des scellés comportant des éléments de haute sécurité sont utilisés dans toute la mesure du possible.
+
+<sup>2.</sup>
+
+Le scellé d’un modèle spécial porte l’une des mentions suivantes:
+
+- a) le nom de la personne autorisée à l’utiliser conformément à l’art. 55, par. 1, point b);
+- b) une abréviation ou un code correspondant sur la base duquel l’autorité douanière du pays de départ peut identifier la personne concernée.
+
+<sup>3.</sup> Le titulaire du régime indique le nombre de scellés d’un modèle spécial et les identifiants de chacun d’eux dans la déclaration de transit et appose les scellés au plus tard lors du placement des marchandises sous le régime de transit commun.
+
+<sup>4.</sup> Les scellés d’un modèle spécial conformes à l’annexe II de l’appendice I de la Convention, telle que modifiée par la décision n<sup>o</sup> 1/2008 peuvent continuer à être utilisés jusqu’à épuisement des stocks ou jusqu’au 1<sup>er</sup> mai 2019, la date la plus proche étant retenue.
+
+#### Art. 83
+
+**Surveillance douanière lors de l’utilisation de scellés d’un modèle spécial**
+
+Si nécessaire, les parties contractantes peuvent, d’un commun accord, établir une numérotation commune et définir l’utilisation de technologies et de dispositifs communs en matière de sécurité.
+
+L’autorité douanière:
+
+- a) notifie à la Commission et aux autorités douanières des autres parties contractantes les scellés d’un modèle spécial utilisés et les scellés d’un modèle spécial qu’elle a décidé de ne pas autoriser pour des raisons d’irrégularités ou de défaillances techniques;
+- b) examine les scellés d’un modèle spécial qu’elle a agréés et qui sont utilisés, lorsqu’elle est informée de la décision d’une autre autorité de ne pas agréer un scellé donné d’un modèle spécial;
+- c) mène une consultation mutuelle en vue de parvenir à une évaluation commune;
+- d) contrôle l’utilisation des scellés d’un modèle spécial par les personnes agréées conformément à l’art. 81.
+
+### Chapitre IV Statut d’expéditeur agréé
+
+#### Art. 84
+
+**Autorisations relatives au statut d’expéditeur agréé aux fins du placement de marchandises sous le régime de transit commun**
+
+Le statut d’expéditeur agréé visé à l’art. 55, par. 1, point c), n’est accordé qu’aux demandeurs qui sont autorisés à constituer une garantie globale ou à utiliser une dispense de garantie visée à l’art. 55, par. 1, point a).
+
+#### Art. 85
+
+**Contenu de l’autorisation relative au statut d’expéditeur agréé**
+
+L’autorisation précise notamment:
+
+- a) le ou les bureaux de douane de départ compétents pour les opérations de transit commun à effectuer;
+- b) le délai dont disposent les autorités douanières après le dépôt de la déclaration de transit par l’expéditeur agréé afin de procéder éventuellement à un contrôle des marchandises avant leur mainlevée;
+- c) les mesures d’identification à prendre; à cet effet, les autorités douanières peuvent exiger que les moyens de transport ou les colis soient munis de scellés d’un modèle spécial admis par les autorités douanières comme répondant aux caractéristiques de l’art. 82 et destinés à être apposés par l’expéditeur agréé;
+- d) les catégories ou mouvements de marchandises exclus;
+- e) les mesures de fonctionnement et de contrôle auxquelles l’expéditeur agréé doit se conformer; le cas échéant, les éventuelles conditions particulières liées au régime de transit applicables au-delà de l’horaire normal de travail du ou des bureaux de douane de départ.
+
+#### Art. 86
+
+**Placement des marchandises sous le régime de transit commun par un expéditeur agréé**
+
+<sup>1.</sup> Lorsqu’un expéditeur agréé a l’intention de placer des marchandises sous le régime de transit commun, il dépose une déclaration de transit au bureau de douane de départ. L’expéditeur agréé ne commence l’opération de transit commun avant l’expiration du délai fixé dans l’autorisation visée à l’art. 55, par. 1, point c).
+
+<sup>2.</sup>
+
+L’expéditeur agréé introduit les informations suivantes dans le système de transit électronique:
+
+- a) l’itinéraire lorsqu’un itinéraire a été fixé conformément à l’art. 33, par. 2;
+- b) le délai, fixé conformément à l’art. 34, dans lequel les marchandises sont présentées au bureau de douane de destination;
+- c) le nombre de scellés et les identifiants de chacun d’eux, le cas échéant.
+
+<sup>3.</sup> L’expéditeur agréé ne peut imprimer un document d’accompagnement transit qu’après réception de la notification, par le bureau de douane de départ, du placement des marchandises sous le régime de transit commun.
+
+À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), l’expéditeur agréé peut imprimer un document d’accompagnement transit pour autant qu’il ait reçu la notification, par le bureau de douane de départ, du placement des marchandises sous le régime de transit commun.
+
+### Chapitre IV Statut de destinataire agréé
+
+#### Art. 87
+
+**Autorisations relatives au statut de destinataire agréé aux fins de la réception de marchandises circulant sous le régime de transit commun**
+
+Le statut de destinataire agréé visé à l’art. 55, par. 1, point d), n’est accordé qu’aux demandeurs qui déclarent qu’ils recevront régulièrement des marchandises placées sous le régime de transit commun.
+
+#### Art. 88
+
+**Formalités relatives à des marchandises acheminées sous le régime de transit commun reçues par un destinataire agréé**
+
+<sup>1.</sup>
+
+Lorsque les marchandises arrivent dans un lieu précisé dans l’autorisation visée à l’art. 55, par. 1, point d), le destinataire agréé:
+
+- a) notifie sans délai au bureau de douane de destination l’arrivée des marchandises et l’informe de toute irrégularité ou de tout incident survenus pendant le transport;
+- b) ne décharge les marchandises qu’après avoir obtenu l’autorisation du bureau de douane de destination;
+- c) inscrit sans retard dans ses écritures, après le déchargement, les résultats de l’inspection, ainsi que toute autre information utile concernant le déchargement;
+- d) notifie au bureau de douane de destination les résultats de l’inspection des marchandises et l’informe de toute irrégularité, au plus tard le troisième jour suivant la date à laquelle il a reçu l’autorisation de décharger les marchandises.
+
+<sup>2.</sup> Lorsque le bureau de douane de destination a reçu notification de l’arrivée des marchandises dans les locaux du destinataire agréé, il informe le bureau de douane de départ de l’arrivée desdites marchandises.
+
+<sup>3.</sup> Lorsque le bureau de douane de destination a reçu les résultats de l’inspection des marchandises visés au par. 1, point d), il communique les résultats du contrôle au bureau de douane de départ, au plus tard le sixième jour suivant la date à laquelle les marchandises ont été livrées au destinataire agréé.
+
+#### Art. 89
+
+**Contenu de l’autorisation**
+
+<sup>1.</sup>
+
+L’autorisation précise notamment:
+
+- a) le ou les bureaux de douane de destination compétents pour les marchandises que le destinataire agréé reçoit;
+- b) le délai dans lequel le destinataire agréé doit recevoir du bureau de douane de destination l’autorisation de décharger les marchandises;
+- c) les catégories ou mouvements de marchandises exclus;
+- d) les mesures de fonctionnement et de contrôle auxquelles le destinataire agréé doit se conformer; le cas échéant, les éventuelles conditions particulières liées au régime de transit applicables au-delà de l’horaire normal de travail du ou des bureaux de douane de destination.
+
+<sup>2.</sup> Les autorités douanières déterminent dans l’autorisation si le destinataire agréé peut disposer sans intervention du bureau de douane de destination de la marchandise dès son arrivée.
+
+#### Art. 90
+
+**Fin du régime du transit commun pour les marchandises reçues par un destinataire agréé**
+
+<sup>1.</sup> Le titulaire du régime est réputé avoir rempli ses obligations et le régime de transit commun est réputé prendre fin conformément à l’art. 48, par. 1, lorsque les marchandises ont été présentées intactes au destinataire agréé, comme le prévoit l’art. 55, par. 1, point d), dans le lieu précisé dans l’autorisation, en respectant le délai fixé conformément à l’art. 34.
+
+<sup>2.</sup> À la demande du transporteur, le destinataire agréé délivre un récépissé qui atteste l’arrivée des marchandises dans un lieu précisé dans l’autorisation visée à l’art. 55, par. 1, point d), du présent appendice et fait mention du MRN de l’opération de transit commun. Ce récépissé est établi au moyen du formulaire figurant à l’annexe B10 de l’appendice III.
+
+### Chapitre VI Régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée
+
+### Section 1 Dispositions générales relatives au recours au régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée
+
+#### Art. 91
+
+**Lettre de voiture CIM comme déclaration de transit en vue de recourir au régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée**
+
+La lettre de voiture CIM est considérée comme une déclaration de transit sur support papier en vue de recourir au régime de transit commun pour les marchandises acheminées par voie ferrée, pour autant qu’elle soit utilisée pour des opérations de transport effectuées par des entreprises de chemin de fer qui coopèrent entre elles.
+
+#### Art. 92
+
+**Bureaux de comptabilité des entreprises de chemin de fer agréées et contrôle douanier**
+
+<sup>1.</sup> Les entreprises de chemin de fer agréées tiennent des écritures dans leurs bureaux de comptabilité et utilisent le système commun mis en place dans ces bureaux afin de détecter des irrégularités.
+
+<sup>2.</sup> L’autorité douanière du pays dans lequel l’entreprise de chemin de fer agréée est établie dispose d’un accès aux données conservées dans le bureau de comptabilité de ladite entreprise.
+
+<sup>3.</sup> Aux fins du contrôle douanier, l’entreprise de chemin de fer agréée met, dans le pays de destination, toutes les lettres de voiture CIM utilisées comme déclaration de transit en vue de recourir au régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée à la disposition de l’autorité douanière du pays de destination, conformément à toute disposition définie de commun accord avec cette autorité.
+
+#### Art. 93
+
+**Titulaire du régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée et ses obligations**
+
+<sup>1.</sup>
+
+Le titulaire du régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée est:
+
+- a) soit une entreprise de chemin de fer agréée établie dans un pays et qui accepte de transporter des marchandises sous le couvert d’une lettre de voiture CIM comme déclaration de transit en vue de recourir au régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée, et qui remplit la case 58b de la lettre de voiture CIM en cochant la case «oui» et en indiquant son code UIC;
+- b) soit, lorsque l’opération de transport débute à l’extérieur du territoire douanier des parties contractantes et que les marchandises sont introduites sur ledit territoire douanier, toute autre entreprise de chemin de fer agréée qui est établie dans un pays et au nom de laquelle la case 58b est remplie par une entreprise de chemin de fer d’un pays tiers.
+
+<sup>2.</sup> Le titulaire de ce régime assume la responsabilité de la déclaration implicite selon laquelle les entreprises de chemin de fer subséquentes ou de remplacement participant à l’opération de transit commun sur support papier remplissent également les conditions du régime de transit commun sur support papier pour le transport des marchandises par voie ferrée.
+
+#### Art. 94
+
+**Obligations des entreprises de chemin de fer agréées**
+
+<sup>1.</sup> Les marchandises sont successivement prises en charge et transportées par différentes entreprises de chemin de fer agréées au niveau national et les entreprises de chemin de fer concernées se déclarent solidairement responsables auprès de l’autorité douanière de toute dette éventuelle.
+
+<sup>2.</sup> Nonobstant les obligations du titulaire du régime visées à l’art. 8, d’autres entreprises de chemin de fer agréées qui prennent en charge les marchandises durant l’opération de transport et qui sont mentionnées dans la case 57 de la lettre de voiture CIM sont également responsables de la bonne application du recours au régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée.
+
+<sup>3.</sup>
+
+Les entreprises de chemin de fer agréées qui coopèrent entre elles utilisent un système établi d’un commun accord pour détecter les irrégularités et vérifier la circulation des marchandises, et assument la responsabilité:
+
+- a) du règlement séparé des coûts de transport sur la base des informations qui doivent être mises à disposition pour chaque opération de transit commun pour les marchandises acheminées par voie ferrée et chaque mois pour les entreprises de chemin de fer agréées indépendantes concernées dans chaque pays;
+- b) de la ventilation des coûts de transport pour chaque pays sur le territoire duquel les marchandises sont introduites au cours de l’opération de transit commun sur support papier pour les marchandises acheminées par voie ferrée, et
+- c) du paiement de la part correspondante des coûts supportés par chacune des entreprises de chemin de fer agréée coopérante.
+
+#### Art. 95
+
+**Étiquette**
+
+Les entreprises de chemin de fer agréées font en sorte que les marchandises transportées sous le régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée soient identifiées par des étiquettes munies d’un pictogramme dont le modèle figure à l’annexe B11 de l’appendice III.
+
+Les étiquettes sont apposées ou directement imprimées sur la lettre de voiture CIM ainsi que sur le wagon s’il s’agit d’un chargement complet ou sur le ou les colis dans les autres cas.
+
+L’étiquette visée au premier alinéa peut être remplacée par l’apposition d’un cachet reproduisant le pictogramme figurant à l’annexe B11 de l’appendice III.
+
+#### Art. 96
+
+**Modification du contrat de transport**
+
+les entreprises de chemin de fer agréées ne peuvent procéder à l’exécution du contrat modifié qu’avec l’accord préalable du bureau de douane de départ.
+
+Dans tous les autres cas, les entreprises de chemin de fer agréées peuvent exécuter le contrat modifié. L’entreprise concernée informe sans retard le bureau de douane de départ de la modification apportée.
+
+En cas de modification du contrat de transport, ayant pour effet de faire terminer:
+
+- a) à l’intérieur du territoire douanier d’une partie contractante un transport qui devait se terminer à l’extérieur de celui-ci, ou
+- b) à l’extérieur du territoire douanier d’une partie contractante un transport qui devait se terminer à l’intérieur de celui-ci,
+
+### Section 2 Circulation des marchandises entre les parties contractantes
+
+#### Art. 97
+
+**Utilisation de la lettre de voiture CIM**
+
+<sup>1.</sup> Lorsqu’un transport auquel le régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée est applicable débute et doit se terminer à l’intérieur du territoire des parties contractantes, la lettre de voiture CIM est présentée au bureau de douane de départ.
+
+<sup>2.</sup> Le code «T2» ou «T2F» est authentifié par le cachet du bureau de douane de départ.
+
+Le bureau de douane de départ appose, de façon apparente, dans la case réservée à la douane des exemplaires n<sup>o</sup> 1, n<sup>o</sup> 2 et n<sup>o</sup> 3 de la lettre de voiture CIM:
+
+- a) le code «T1», si les marchandises circulent sous la procédure T1;
+- b) le code «T2» ou «T2F», selon le cas, lorsque les marchandises circulent sous la procédure T2 et que, conformément aux dispositions de l’Union, l’apposition de ce code est obligatoire.
+
+<sup>3.</sup> Hormis les cas visés au par. 2, les marchandises qui circulent d’un point à un autre de l’Union en traversant le territoire d’un ou de plusieurs pays de transit commun, ainsi que les marchandises qui circulent au départ de l’Union à destination d’un pays de transit commun, sont placées, selon les modalités déterminées par chaque État membre de l’Union européenne, pour l’ensemble du trajet à parcourir depuis la gare de départ jusqu’à la gare de destination, sous la procédure T2 sans qu’il y ait lieu de présenter au bureau de douane de départ la lettre de voiture CIM relative à ces marchandises.
+
+Lorsque des marchandises sont acheminées d’un point à un autre de l’Union en empruntant un ou plusieurs pays de transit commun, il n’y a pas lieu d’apposer les étiquettes visées à l’art. 95.
+
+<sup>4.</sup> Les marchandises dont le transport débute dans un pays de transit commun sont considérées comme circulant sous la procédure T1. Toutefois, si les marchandises doivent circuler sous la procédure T2, conformément aux dispositions de l’art. 2 par. 3, point b), de la convention, le bureau de douane de départ indique sur l’exemplaire n<sup>o</sup> 3 de la lettre de voiture CIM que les marchandises auxquelles ce document se rapporte circulent sous la procédure T2. À cette fin, il appose de façon apparente le code «T2» ou «T2F», selon le cas, ainsi que le cachet du bureau de douane de départ et la signature du fonctionnaire compétent dans la case réservée à la douane. Dans le cas des marchandises circulant sous la procédure T1, le code «T1» ne doit pas être apposé sur ledit document.
+
+<sup>5.</sup> Tous les exemplaires de la lettre de voiture CIM sont restitués à l’intéressé.
+
+<sup>6.</sup> Chaque pays de transit commun a la faculté de prévoir que les marchandises circulant sous la procédure T1 peuvent être transportées sous cette procédure sans qu’il y ait lieu de présenter au bureau de douane de départ la lettre de voiture CIM.
+
+<sup>7.</sup> En ce qui concerne les marchandises visées aux par. 2, 3 et 5, le bureau de douane compétent pour la gare de destination assume le rôle de bureau de douane de destination. Toutefois, lorsque les marchandises sont mises en libre pratique ou placées sous un autre régime dans une gare intermédiaire, le bureau de douane compétent pour cette gare assume le rôle de bureau de douane de destination.
+
+#### Art. 98
+
+**Mesures d’identification**
+
+À moins que le bureau de douane de départ n’en décide autrement, en règle générale et compte tenu des mesures d’identification appliquées par les entreprises de chemin de fer agréées, ce bureau de douane ne procède pas au scellement des moyens de transport ou des différents colis individuels contenant les marchandises.
+
+#### Art. 99
+
+**Formalités au bureau de douane de passage**
+
+Lorsque le régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée s’applique, aucune formalité n’est à accomplir au bureau de douane de passage.
+
+#### Art. 100
+
+**Formalités au bureau de douane de destination**
+
+<sup>1.</sup> Le bureau de douane de destination renvoie l’exemplaire 2 de la lettre de voiture CIM à l’entreprise de chemin de fer agréée après y avoir apposé son cachet et conserve l’exemplaire n<sup>o</sup> 3 de la lettre de voiture CIM.
+
+Lorsque les marchandises placées sous le régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée arrivent au bureau de douane de destination, les éléments suivants sont présentés audit bureau de douane par l’entreprise de chemin de fer agréée:
+
+- a) les marchandises;
+- b) les exemplaires n<sup>o</sup> 2 et n<sup>o</sup> 3 de la lettre de voiture CIM.
+
+<sup>2.</sup> Le bureau de douane compétent pour la gare de destination assume le rôle de bureau de douane de destination.
+
+Toutefois, lorsque les marchandises sont mises en libre pratique ou placées sous un autre régime douanier dans une gare intermédiaire, le bureau de douane compétent pour cette gare assume le rôle de bureau de douane de destination.
+
+<sup>3.</sup> Dans le cas visé à l’art. 97, par. 3, aucune formalité n’est à accomplir au bureau de douane de destination.
+
+### Section 3 Circulation des marchandises à destination ou en provenance de pays tiers
+
+#### Art. 101
+
+**Circulation des marchandises à destination de pays tiers**
+
+<sup>1.</sup> Lorsqu’un transport débute à l’intérieur du territoire d’une partie contractante et doit se terminer dans un pays tiers, les art. 97 et 98 s’appliquent.
+
+<sup>2.</sup> Le bureau de douane compétent pour la gare frontière par laquelle les marchandises placées sous le régime de transit commun sur support papier pour les marchandises acheminées par chemin de fer quittent le territoire d’une partie contractante assume le rôle de bureau de douane de destination.
+
+<sup>3.</sup> Aucune formalité n’est à accomplir à ce bureau de douane.
+
+#### Art. 102
+
+**Circulation des marchandises en provenance de pays tiers**
+
+<sup>1.</sup> Le bureau de douane compétent pour la gare frontière par laquelle les marchandises placées sous le régime de transit commun sur support papier pour les marchandises acheminées par voie ferrée entrent sur le territoire d’une partie contractante assume le rôle de bureau de douane de départ pour un transport qui débute dans un pays tiers et doit se terminer à l’intérieur du territoire d’une partie contractante.
+
+Aucune formalité n’est à accomplir à ce bureau de douane.
+
+<sup>2.</sup> Le bureau de douane compétent pour la gare de destination assume le rôle de bureau de douane de destination. Toutefois, lorsque les marchandises sont mises en libre pratique ou placées sous un autre régime douanier dans une gare intermédiaire, le bureau de douane compétent pour cette gare assume le rôle de bureau de douane de destination.
+
+Les formalités prévues à l’art. 100 sont à accomplir à ce bureau de douane.
+
+#### Art. 103
+
+**Circulation de marchandises traversant le territoire des parties contractantes**
+
+<sup>1.</sup> Lorsqu’un transport débute et doit se terminer dans un pays tiers, les bureaux de douane assumant le rôle de bureau de douane de départ et celui de bureau de douane de destination sont ceux visés respectivement à l’art. 101, par. 2, et à l’art. 102, par. 1.
+
+<sup>2.</sup> Aucune formalité n’est à accomplir aux bureaux de douane de départ et de destination.
+
+#### Art. 104
+
+**Statut douanier des marchandises**
+
+Les marchandises faisant l’objet d’un transport visé à l’art. 102, par. 1, ou à l’art. 103, par. 1, sont considérées comme circulant sous la procédure T1, à moins que le statut douanier de marchandises de l’Union ne soit établi conformément aux dispositions de l’appendice II.
+
+### Section 4 Autres dispositions
+
+#### Art. 105
+
+**Listes de chargement**
+
+<sup>1.</sup> Dans le cas d’une lettre de voiture CIM portant sur plusieurs wagons ou conteneurs, les listes de chargement, établies au moyen du formulaire figurant à l’annexe B4 de l’appendice III, peuvent être utilisées.
+
+La liste de chargement est munie du numéro du wagon auquel se rapporte la lettre de voiture CIM ou, le cas échéant, du numéro du conteneur renfermant les marchandises.
+
+<sup>2.</sup> Pour les transports débutant à l’intérieur du territoire des parties contractantes et portant à la fois sur des marchandises circulant sous la procédure T1 et sur des marchandises circulant sous la procédure T2, des listes de chargement distinctes sont établies.
+
+Les numéros d’ordre des listes de chargement se rapportant à chacun des deux types de marchandises sont indiqués dans la case réservée à la désignation des marchandises de la lettre de voiture CIM.
+
+<sup>3.</sup> Les listes de chargement accompagnant la lettre de voiture CIM font partie intégrante de celle-ci et produisent les mêmes effets juridiques.
+
+<sup>4.</sup> L’original des listes de chargement est authentifié par le cachet de la gare expéditrice.
+
+#### Art. 106
+
+**Champ d’application des procédures standard et des procédures sur support papier pour le transport combiné rail-route**
+
+<sup>1.</sup> Dans le cas des opérations de transport combiné rail-route, les dispositions des art. 91 à 105 n’excluent pas la possibilité d’utiliser les procédures définies au titre II. Les dispositions des art. 92 et 95 s’appliquent néanmoins.
+
+<sup>2.</sup> Dans les cas visés au par. 1, une référence à la ou aux déclarations de transit utilisées est portée, de façon apparente, au moment de l’établissement de la lettre de voiture CIM, dans la case réservée aux énonciations des documents d’accompagnement.
+
+Cette référence comporte l’indication du type de déclaration de transit, du bureau de douane de départ, de la date et du numéro d’enregistrement de chaque déclaration de transit utilisée.
+
+En outre, l’exemplaire n<sup>o</sup> 2 de la lettre de voiture CIM est authentifié par l’entreprise de chemin de fer compétente pour la dernière gare concernée par l’opération de transit commun. Cette entreprise de chemin de fer authentifie la lettre de voiture CIM après s’être assurée que le transport des marchandises est couvert par la ou les déclarations de transit auxquelles il est fait référence.
+
+<sup>3.</sup> Lorsqu’un transport combiné rail-route de marchandises circulant sous le couvert d’une ou de plusieurs déclarations de transit selon la procédure définie au titre II est accepté par les entreprises de chemins de fer dans une gare ferroviaire et est acheminé sur wagons, les entreprises de chemins de fer assument la responsabilité du paiement de la dette en cas d’infractions ou d’irrégularités commises pendant le parcours ferroviaire, dans le cas où il n’y aurait pas de garantie valable dans le pays où l’infraction ou l’irrégularité a été ou est réputée avoir été commise et dans la mesure où il ne serait pas possible de recouvrer ces montants à charge du titulaire du régime.
+
+#### Art. 107
+
+**Expéditeur et destinataire agréés**
+
+<sup>1.</sup> Lorsqu’il n’est pas nécessaire de présenter la lettre de voiture CIM comme déclaration de transit ni les marchandises au bureau de douane de départ pour les marchandises devant être placées, par un expéditeur agréé, conformément à l’art. 55, par. 1, point c), sous le régime du transit commun sur support papier pour les marchandises acheminées par voie ferrée, le bureau de douane de départ prend les mesures nécessaires pour faire en sorte que les exemplaires n<sup>o</sup> 1, n<sup>o</sup> 2 et n<sup>o</sup> 3 de la lettre de voiture CIM soient munis du code «T1», «T2» ou «T2F», selon le cas.
+
+<sup>2.</sup> Lorsque les marchandises arrivent au lieu d’un destinataire agréé comme le prévoit l’art. 55, par. 1, point d), les autorités douanières peuvent prévoir, par dérogation à l’art. 88, que les exemplaires n<sup>o</sup> 2 et n<sup>o</sup> 3 de la lettre de voiture CIM soient remis directement au bureau de douane de destination par l’entreprise de chemin de fer agréée ou par l’entreprise de transport.
+
+### Chapitre VII Régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne et régime de transit commun sur la base d’un document électronique de transport en tant que déclaration de transit pour le transport aérien
+
+#### Art. 108
+
+**Manifeste comme déclaration de transit en vue de recourir au régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne**
+
+<sup>1.</sup> Une compagnie aérienne peut être autorisée à utiliser le manifeste douanier comme déclaration de transit si le contenu de ce manifeste correspond en substance au formulaire établi à l’appendice 3 de l’annexe 9 de la convention relative à l’aviation civile internationale[^annexI-lvlu1-titIII-chapVII-108-1], conclue à Chicago le 7 décembre 1944.
+
+<sup>2.</sup> L’autorisation visée à l’art. 55, point e), portant sur le régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne indique la forme du manifeste et les aéroports de départ et de destination pour les opérations de transit commun. La compagnie aérienne agréée conformément à l’art. 55, par. 1, point e), pour ce régime transmet une copie authentifiée conforme de cette autorisation aux autorités douanières compétentes de chacun des aéroports concernés.
+
+<sup>3.</sup> Lorsqu’une opération de transport concerne à la fois des marchandises qui circulent sous la procédure T1 et des marchandises qui circulent sous la procédure T2 entre un territoire fiscal spécial et une autre partie du territoire douanier de l’Union qui n’est pas un territoire fiscal spécial, ces marchandises sont reprises sur des manifestes séparés.
+
+[^annexI-lvlu1-titIII-chapVII-108-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+
+#### Art. 109
+
+**Formalités à accomplir par la compagnie aérienne**
+
+<sup>1.</sup>
+
+La compagnie aérienne consigne les informations suivantes dans un manifeste:
+
+- a) le code «T1», lorsque les marchandises circulent sous la procédure T1;
+- b) le code «T2» ou «T2F», selon le cas, lorsque les marchandises circulent sous la procédure T2 et que, conformément aux dispositions de l’Union, l’apposition de ce code est obligatoire;
+- c) le nom de la compagnie aérienne qui transporte les marchandises;
+- d) le numéro du vol;
+- e) la date du vol;
+- f) l’aéroport de départ et l’aéroport de destination.
+
+<sup>2.</sup>
+
+Outre les informations requises au par. 1, la compagnie aérienne consigne dans le manifeste considéré, pour chaque envoi, les informations suivantes:
+
+- a) le numéro de la lettre de transport aérien;
+- b) le nombre de colis;
+- c) la désignation commerciale des marchandises comprenant les énonciations nécessaires à leur identification;
+- d) la masse brute.
+
+<sup>3.</sup> En cas de groupage de marchandises, leur désignation dans le manifeste est remplacée, le cas échéant, par la mention «Consolidation», éventuellement sous une forme abrégée. Dans ce cas, les lettres de transport aérien se rapportant aux envois repris sur le manifeste comportent la désignation commerciale des marchandises comprenant les énonciations nécessaires à leur identification. Ces lettres de transport aérien sont jointes au manifeste.
+
+<sup>4.</sup> La compagnie aérienne date et signe le manifeste.
+
+<sup>5.</sup> Le manifeste est présenté au moins en deux exemplaires aux autorités douanières compétentes de l’aéroport de départ qui en conservent un exemplaire.
+
+<sup>6.</sup> Un exemplaire du manifeste est présenté aux autorités douanières compétentes de l’aéroport de destination.
+
+#### Art. 110
+
+**Vérification d’une liste de manifestes utilisés comme déclaration de transit sur support papier pour les marchandises acheminées par voie aérienne**
+
+<sup>1.</sup> Les autorités douanières compétentes de chaque aéroport de destination authentifient chaque mois une liste des manifestes établis par les compagnies aériennes, qui leur ont été présentés au cours du mois précédent, et la transmettent aux autorités douanières de chaque aéroport de départ.
+
+<sup>2.</sup>
+
+Cette liste comprend au moins les informations suivantes pour chaque manifeste:
+
+- a) le numéro du manifeste;
+- b) le code l’identifiant comme déclaration de transit, conformément à l’art. 109, par. 1, points a) et b);
+- c) le nom de la compagnie aérienne qui a transporté les marchandises;
+- d) le numéro du vol, et
+- e) la date du vol.
+
+<sup>3.</sup> L’autorisation visée à l’art. 55, par. 1, point e), relative au régime de transit commun sur support papier pour les marchandises acheminées par voie aérienne peut également prévoir que les compagnies aériennes transmettent elles-mêmes la liste visée au par. 1 du présent article aux autorités douanières compétentes de chaque aéroport de départ.
+
+<sup>4.</sup> En cas de constatation d’irrégularités par rapport aux indications des manifestes figurant dans la liste, les autorités douanières compétentes de l’aéroport de destination en informent les autorités douanières compétentes de l’aéroport de départ, ainsi que l’autorité douanière compétente qui a délivré l’autorisation, en se référant notamment aux lettres de transport aérien se rapportant aux marchandises ayant donné lieu à ces constatations.
+
+#### Art. 111
+
+Abrogé
+
+#### Art. 111<sup>bis</sup>
+
+**Consultation préalable à l’autorisation d’utiliser un document électronique de transport en tant que déclaration de transit pour le transport aérien**
+
+<sup>1.</sup> Après avoir vérifié que les conditions énoncées à l’art. 57, par. 4, pour l’octroi de l’autorisation d’utilisation d’un document électronique de transport en tant que déclaration de transit pour le transport aérien visée à l’art. 55, par. 1, point h), sont remplies, l’autorité douanière compétente pour octroyer l’autorisation consulte l’autorité douanière dans les aéroports de départ et de destination.
+
+Lorsque, à la suite de l’examen visé au premier alinéa, l’autorité douanière consultée établit que le demandeur ne remplit pas un ou plusieurs des critères et conditions nécessaires pour octroyer l’autorisation, les résultats, dûment documentés et justifiés, sont transmis à l’autorité douanière compétente pour octroyer l’autorisation.
+
+<sup>2.</sup> Le délai de consultation est de quarante-cinq jours à compter de la date de communication, par l’autorité douanière compétente pour octroyer l’autorisation, des conditions qui doivent être examinées par l’autorité douanière consultée.
+
+<sup>3.</sup>
+
+Le délai fixé pour la consultation conformément au par. 1 peut être prolongé par l’autorité douanière compétente pour octroyer l’autorisation dans chacun des cas suivants:
+
+- a) lorsque, en raison de la nature des examens à effectuer, l’autorité consultée demande davantage de temps;
+- b) lorsque le demandeur procède à des ajustements afin de garantir le respect des conditions et des critères visés au par. 1 et les communique à l’autorité douanière compétente pour octroyer l’autorisation, qui en informe l’autorité douanière consultée.
+
+<sup>4.</sup> Si l’autorité douanière consultée ne répond pas dans le délai fixé pour la consultation conformément au par. 2, les conditions sur lesquelles a porté la consultation sont présumées remplies.
+
+<sup>5.</sup> La procédure de consultation définie aux par. 1 à 4 peut également être appliquée aux fins de réexamen et de suivi d’une autorisation.
+
+#### Art. 111<sup>ter</sup>
+
+**Formalités liées à l’utilisation d’un document électronique de transport en tant que déclaration de transit pour le transport aérien**
+
+<sup>1.</sup> Les marchandises sont admises sous le régime de transit commun lorsque les énonciations du document électronique de transport ont été mises à la disposition du bureau de douane de départ à l’aéroport, conformément aux moyens définis dans l’autorisation.
+
+<sup>2.</sup>
+
+Lorsque les marchandises doivent être placées sous le régime de transit commun, le titulaire de la procédure inscrit les codes appropriés en regard des articles correspondants du document électronique de transport:
+
+- a) «T1» – marchandises n’ayant pas le statut douanier de marchandises de l’Union, qui sont placées sous le régime de transit commun;
+- b) «T2» – marchandises ayant le statut douanier de marchandises de l’Union, qui sont placées sous le régime de transit commun.
+- c) «T2F» – marchandises ayant le statut douanier de marchandises de l’Union, qui circulent entre une partie du territoire douanier de l’Union où les dispositions de la directive 2006/112/CE du Conseil[^annexI-lvlu1-titIII-chapVII-111ter-1] ou de la directive 2008/118/CE du Conseil[^annexI-lvlu1-titIII-chapVII-111ter-2] ne s’appliquent pas et un pays de transit commun;
+- d) «C» – marchandises de l’Union qui ne sont pas placées sous un régime de transit;
+- e) «TD» – marchandises qui sont déjà placées sous un régime de transit;
+- f) «X» – marchandises de l’Union dont l’exportation est terminée et la sortie confirmée et qui ne sont pas placées sous un régime de transit.
+
+<sup>3.</sup> Le régime de transit commun prend fin lorsque les marchandises sont présentées au bureau de douane de destination à l’aéroport, et que les énonciations du document électronique de transport ont été mises à la disposition de ce bureau de douane conformément aux moyens définis dans l’autorisation.
+
+<sup>4.</sup> Le titulaire du régime notifie sans délai aux bureaux de douane de départ et de destination toutes les infractions et irrégularités.
+
+<sup>5.</sup> Le régime de transit commun est réputé être apuré sauf si les autorités douanières ont été informées ou ont constaté que le régime n’a pas pris fin correctement.
+
+[^annexI-lvlu1-titIII-chapVII-111ter-1]: Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (JO L 347 du 11.12.2006, p. 1).
+[^annexI-lvlu1-titIII-chapVII-111ter-2]: Directive 2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d’accise et abrogeant la directive 92/12/CEE (JO L 9 du 14.1.2009, p. 12).
+
+### Titre IV Dette et recouvrement
+
+### Chapitre I Dette et débiteur
+
+#### Art. 112
+
+**Naissance de la dette**
+
+<sup>1.</sup>
+
+Une dette naît, au sens de l’art. 3, par. l, par suite:
+
+- a) soit de la soustraction des marchandises au régime de transit commun;
+- b) soit de l’inobservation d’une des conditions régissant le placement des marchandises sous le régime de transit commun ou l’utilisation du régime de transit commun.
+
+<sup>2.</sup> Les marchandises sont considérées comme irrémédiablement perdues lorsqu’elles sont rendues inutilisables par quiconque.
+
+La dette s’éteint de l’une des manières suivantes:
+
+- a)
+
+  lorsque la dette est née en vertu du par. 1, point a) ou b), et que les conditions suivantes sont réunies:
+
+  - i) le manquement ayant donné lieu à la naissance de la dette n’a pas eu de conséquence réelle sur le fonctionnement correct et il ne constituait pas une tentative de manœuvre,
+  - ii) toutes les formalités nécessaires pour régulariser la situation de la marchandise sont accomplies a posteriori;
+
+- b) lorsque la soustraction des marchandises au régime de transit commun ou l’inobservation d’une des conditions régissant le placement des marchandises sous le régime de transit commun ou l’utilisation du régime de transit commun résulte de leur destruction totale ou de leur perte irrémédiable du fait de la nature même des marchandises ou d’un cas fortuit ou de force majeure, ou encore par suite d’une instruction des autorités douanières.
+
+<sup>3.</sup>
+
+La dette naît au moment où:
+
+- a) les marchandises ont été soustraites au régime de transit commun ou au moment où les conditions requises pour l’utilisation du régime de transit commun n’étaient pas remplies ou ont cessé d’être remplies;
+- b) une déclaration en douane a été acceptée en vue du placement des marchandises sous un régime de transit commun, lorsqu’il apparaît a posteriori qu’une des conditions régissant le placement de ces marchandises sous ce régime n’était pas réellement satisfaite.
+
+#### Art. 113
+
+**Identification du débiteur**
+
+<sup>1.</sup>
+
+Le débiteur est l’une des personnes suivantes:
+
+- a) la personne qui devait satisfaire aux conditions régissant le placement des marchandises sous le régime de transit commun ou l’utilisation du régime de transit commun;
+- b) toute personne qui savait ou devait raisonnablement savoir qu’une condition découlant de la convention n’était pas respectée et qui a agi pour le compte de la personne qui était tenue de respecter cette condition ou qui a participé à l’acte ayant donné lieu au non-respect de cette condition;
+- c) toute personne qui a acquis ou détenu les marchandises en cause et qui savait ou devait raisonnablement savoir, au moment où elle a acquis ou reçu ces marchandises, qu’une condition découlant de la convention ou de la législation douanière n’était pas respectée;
+- d) le titulaire du régime.
+
+<sup>2.</sup> Dans le cas visé à l’art. 112, par. 1, point b), le débiteur est la personne qui doit satisfaire aux conditions régissant le placement ou l’utilisation des marchandise sous le régime de transit commun.
+
+<sup>3.</sup> Lorsqu’une déclaration en douane en vue du placement des marchandises sous le régime de transit commun est établie et lorsque d’éventuelles informations requises en vertu de la législation douanière sur les conditions fixées pour le placement des marchandises sous ce régime douanier sont fournies aux autorités douanières, conduisant à la naissance d’une dette, la personne qui a fourni les données nécessaires à l’établissement de la déclaration en douane, en sachant ou en devant raisonnablement savoir que ces données étaient fausses, est également débitrice.
+
+<sup>4.</sup> Lorsque plusieurs personnes sont redevables du montant correspondant à une dette, elles sont tenues conjointement et solidairement au paiement de ce montant.
+
+#### Art. 114
+
+**Lieu de naissance de la dette**
+
+<sup>1.</sup>
+
+La dette prend naissance:
+
+- a) au lieu où se produisent les faits qui font naître cette dette;
+- b) s’il n’est pas possible de déterminer ce lieu, la dette prend naissance au lieu où les autorités douanières constatent que les marchandises se trouvent dans une situation ayant fait naître une dette.
+
+<sup>2.</sup> la dette naît soit dans le pays dont dépend le dernier bureau de douane de passage notifiant le passage à la frontière au bureau de douane de départ ou, à défaut, dans le pays dont dépend le bureau de douane de départ.
+
+Si les marchandises ont été placées sous un régime de transit commun qui n’a pas été apuré et que le lieu où la dette prend naissance ne peut pas être déterminé conformément au par. 1, points a) et b), du présent article dans les délais suivants:
+
+- a) sept mois à compter de la date limite à laquelle les marchandises auraient dû être présentées au bureau de douane de destination, sauf si, avant l’expiration de ce délai, une demande de transfert du recouvrement de la dette visée à l’art. 50 a été adressée à l’autorité compétente du lieu où se sont produits, selon les éléments de preuve obtenus par l’autorité douanière du pays de départ, les faits ayant fait naître la dette, auquel cas ce délai est prolongé d’une période maximale d’un mois;
+- b) un mois à compter de l’expiration du délai visé à l’art. 49, par. 4, imparti au titulaire du régime pour répondre à une demande d’obtention des informations nécessaires à l’apurement du régime, si l’arrivée des marchandises n’a pas été notifiée à l’autorité douanière du pays de départ et que le titulaire du régime a fourni des informations insuffisantes ou n’a pas fourni d’informations;
+
+<sup>3.</sup> Les autorités douanières visées à l’art. 116, par. 1, sont celles du pays où la dette a pris naissance ou est réputée avoir pris naissance conformément au présent article.
+
+#### Art. 115
+
+**Demande de transfert du recouvrement de la dette**
+
+<sup>1.</sup> Lorsque les autorités compétentes qui ont notifié la dette obtiennent des éléments de preuve concernant le lieu où s’est produit le fait ayant fait naître la dette, celles-ci suspendent la procédure de recouvrement et communiquent immédiatement et, en tout état de cause, dans le délai prescrit, tous les documents nécessaires aux autorités douanières compétentes dans ce lieu, y compris une copie authentifiée des éléments de preuve.
+
+<sup>2.</sup> Les autorités compétentes dans ce lieu accusent réception de la demande et indiquent aux autorités compétentes qui ont notifié la dette si elles sont compétentes pour le recouvrement. Si aucune réponse n’est reçue dans un délai de 28 jours, les autorités compétentes qui avaient notifié la dette réactivent immédiatement l’action en recouvrement qu’elles avaient engagée.
+
+### Chapitre II Actions à l’égard du débiteur ou de la caution
+
+#### Art. 116
+
+**Action à l’égard du débiteur**
+
+<sup>1.</sup>
+
+Les autorités douanières compétentes engagent l’action en recouvrement dès qu’elles sont en mesure:
+
+- a) de calculer le montant de la dette, et
+- b) de déterminer le débiteur.
+
+<sup>2.</sup> Ces autorités notifient le montant de la dette au débiteur selon les modalités et dans les délais en vigueur dans les parties contractantes.
+
+<sup>3.</sup> Tout montant de dette qui a fait l’objet de la notification visée au par. 2 est acquitté par le débiteur selon les modalités et dans les délais en vigueur dans les parties contractantes.
+
+#### Art. 117
+
+**Action à l’égard de la caution**
+
+<sup>1.</sup> Sous réserve du par. 4, la responsabilité de la caution est engagée aussi longtemps que le montant de la dette est susceptible de devenir exigible.
+
+<sup>2.</sup> Lorsque le régime de transit commun n’est pas apuré, les autorités douanières du pays de départ donnent notification à la caution du non-apurement du régime, dans un délai de neuf mois à compter de la date à laquelle les marchandises auraient dû être présentées au bureau de douane de destination.
+
+<sup>3.</sup> Lorsque le régime de transit commun n’est pas apuré, les autorités douanières déterminées conformément à l’art. 114 donnent notification à la caution qu’elle est ou pourra être redevable des sommes dont elle répond à l’égard de l’opération de transit commun concernée, dans un délai de trois ans à compter de la date d’acceptation de la déclaration de transit. Cette notification précise le MRN et la date de la déclaration de transit, le nom du bureau de douane de départ, le nom du titulaire du régime et le montant des sommes en jeu.
+
+<sup>4.</sup> La caution se trouve libérée de ses engagements lorsque l’une ou l’autre des notifications visées aux par. 2 et 3 n’a pas été effectuée dans les délais prévus.
+
+<sup>5.</sup> Lorsque l’une ou l’autre de ces notifications a été envoyée, la caution est informée du recouvrement de la dette ou de l’apurement du régime.
+
+#### Art. 118
+
+**Échange d’informations et coopération en vue du recouvrement**
+
+Sans préjudice de l’art. 13<sup>bis</sup> de la convention, les pays se prêtent mutuellement assistance afin de déterminer les autorités compétentes pour le recouvrement en application de l’art. 114 du présent appendice.
+
+Ces autorités informent le bureau de douane de départ et le bureau de douane de garantie de tous les cas de naissance d’une dette en relation avec des déclarations de transit qui ont été acceptées par le bureau de douane de départ, ainsi que des actions entreprises en vue du recouvrement auprès du débiteur. En outre, elles informent le bureau de douane de départ de la perception des droits et autres impositions, afin de permettre au bureau de douane d’apurer l’opération de transit.
+
+Annexe I de l’appendice I
+
+## Application de l’art. 77
+
+### Interdiction temporaire du recours à la garantie globale d’un montant réduit ou du recours à la garantie globale
+
+- 1\. Situations dans lesquelles le recours à la garantie globale d’un montant réduit ou le recours à la garantie globale peut être interdit temporairement
+- 1\.1 Interdiction temporaire de recourir à la garantie globale d’un montant réduit
+- Par «circonstances particulières», au sens de l’art. 77, point a), on entend une situation dans laquelle il est établi pour un nombre significatif de cas impliquant plusieurs titulaires du régime et mettant en péril le bon fonctionnement du régime que, malgré l’application éventuelle des art. 65 ou 80, la garantie globale ou la garantie globale d’un montant réduit visée à l’art. 75, points a) et b), n’est plus à même d’assurer le paiement dans le délai prévu des dettes nées à la suite de la soustraction au régime de transit commun de certains types de marchandises.
+- 1\.2 Interdiction temporaire de recourir à la garantie globale
+- Par «fraudes avérées en grande quantité», au sens de l’art. 77, point b), on entend une situation dans laquelle il est établi que, malgré l’application éventuelle de l’art. 65 ou 80, la garantie globale ou la garantie globale d’un montant réduit visée à l’art. 75, points a) et b), n’est plus à même d’assurer le paiement dans le délai prévu des dettes nées à la suite de la soustraction au régime de transit commun de certains types de marchandises. À cet égard, il convient de tenir compte de l’ampleur de ces soustractions et des conditions dans lesquelles elles sont effectuées, notamment lorsqu’elles résultent des activités d’une criminalité organisée au plan international.
+- 2\. Procédure décisionnelle pour interdire temporairement le recours à la garantie globale d’un montant réduit ou le recours à la garantie globale
+- 2\.1 La décision de la commission mixte d’interdire temporairement le recours à la garantie globale ou à la garantie globale d’un montant réduit en application de l’art. 77, point a) ou b) (ci-après dénommée «décision»), est prise conformément à la procédure suivante:
+- 2\.1.1 La décision peut être prise à la demande d’une ou de plusieurs parties contractantes.
+- 2\.1.2 Lorsqu’une telle demande est formulée, les parties contractantes s’informent mutuellement des constatations qu’elles ont établies et examinent si les conditions définies sous les points 1.1. ou 1.2. sont remplies.
+- 2\.2 Si les parties contractantes considèrent que ces conditions sont remplies, un projet de décision est soumis à la commission mixte pour adoption par la voie de la procédure écrite décrite au point 2.3.
+- 2\.3 La partie contractante qui assure la présidence de la commission mixte transmet le projet de décision aux autres parties contractantes.
+- Si la partie contractante qui assure la présidence de la commission mixte n’a pas reçu d’objection par lettre des autres parties contractantes dans un délai de trente jours, à compter de la date d’expédition du projet de décision, la décision est adoptée. La partie contractante qui assure la présidence de la commission mixte informe les autres parties contractantes de l’adoption de la décision.
+- Si des objections sont communiquées dans le délai prévu par une ou plusieurs parties contractantes à la partie contractante qui assure la présidence de la commission mixte, celle-ci en informe les autres parties contractantes.
+- 2\.4 Chaque partie contractante assure la publication de la décision.
+- 2\.5 L’effet de la décision est limité à une période de douze mois. La commission mixte peut toutefois en décider la reconduction ou l’abrogation après un nouvel examen par les parties contractantes.
+- 3\. Mesures permettant d’alléger les conséquences financières de l’interdiction de garantie globale
+-
+
+  Les titulaires d’une autorisation de garantie globale peuvent, à leur demande, lorsque cette garantie globale est temporairement interdite conformément à l’art. 77, bénéficier d’une garantie isolée à laquelle s’appliquent cependant les dispositions particulières suivantes:
+
+  - – la garantie isolée fait l’objet d’un acte de cautionnement spécifique qui ne couvre que les types de marchandises visés dans la décision;
+  - – cette garantie isolée ne peut être utilisée qu’auprès du bureau de douane de départ identifié dans l’acte de cautionnement;
+  - – elle peut être utilisée pour couvrir plusieurs opérations, simultanées ou successives, pour autant que le total des montants en jeu pour les opérations engagées et pour lesquelles le régime n’est pas apuré, ne dépasse pas le montant de référence de la garantie isolée. Dans ce cas, le bureau de douane de garantie attribue pour une garantie un code d’accès initial au titulaire du régime. Celui-ci peut attribuer un ou plusieurs codes d’accès à cette garantie pour être utilisé par lui-même ou ses représentants;
+  - – chaque fois que le régime est apuré pour une opération de transit commun couverte par cette garantie isolée, le montant correspondant à l’opération en cause est libéré et peut être réutilisé pour couvrir une autre opération, dans la limite du montant de la garantie.
+
+- 4\. Dérogation à la décision d’interdiction temporaire de recourir à la garantie globale ou à la garantie globale d’un montant réduit
+- 4\.1 Tout titulaire de régime peut être autorisé à recourir à la garantie globale ou à la garantie globale d’un montant réduit pour placer sous le régime de transit commun des marchandises auxquelles s’applique la décision d’interdiction temporaire s’il démontre qu’aucune dette n’est née pour les types de marchandises en cause dans le cadre des opérations de transit commun qu’il a engagées au cours des deux années précédant la décision ou, si des dettes sont nées pendant cette période, s’il démontre qu’elles ont été intégralement acquittées dans le délai prévu par le débiteur ou par la caution.
+- Pour obtenir l’autorisation de recourir à la garantie globale temporairement interdite, le titulaire du régime satisfait en outre aux conditions définies à l’art. 75, par. 2, point b).
+- 4\.2 Les art. 59 à 72 sont applicables *mutatis mutandis* aux demandes et aux autorisations relatives aux dérogations visées au point 4.1.
+- 4\.3
+
+  Lorsque les autorités compétentes accordent la dérogation, elles apposent en case 8 du certificat de garantie globale le texte suivante:
+
+  - – UTILISATION NON LIMITEE – 99209.»
+
+Annexe II de l’appendice I
+
+## Plan de continuité des opérations pour le transit commun
+
+### Chapitre I Dispositions générales
+
+- 1\.
+
+  La présente annexe établit les dispositions particulières relatives au recours au plan de continuité des opérations, conformément à l’art. 26, par. 1, de l’appendice I, pour les titulaires du régime, y compris les expéditeurs agréés, en cas de panne temporaire:
+
+  - – du système de transit électronique;
+  - – du système informatique utilisé par les titulaires du régime pour déposer la déclaration de transit commun au moyen de procédés informatiques de traitement des données, ou
+  - – de la connexion électronique entre le système informatique utilisé par les titulaires du régime pour déposer la déclaration de transit commun au moyen de procédés informatiques de traitement des données et le système de transit électronique.
+
+- 2\. Déclarations de transit
+- 2\.1
+
+  La déclaration de transit papier utilisée dans le cadre d’un plan de continuité des opérations est reconnaissable par toutes les parties concernées par l’opération de transit afin d’éviter des problèmes au bureau de douane de passage, au bureau de douane de destination et lors de l’arrivée dans les locaux du destinataire agréé. Pour cette raison, les documents utilisés sont limités de la manière suivante:
+
+  - – un document administratif unique (DAU), ou
+  - – un DAU imprimé sur un papier ordinaire par le système informatique de l’opérateur économique comme prévu à l’annexe B6 de l’appendice III; à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), un DAU imprimé sur un papier ordinaire par le système informatique de l’opérateur économique comme prévu à l’annexe B6*bis* de l’appendice III, ou
+  - – un document d’accompagnement transit (TAD), complété si nécessaire par la liste d’articles (Lol); à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), un document d’accompagnement transit (TAD), complété par la liste d’articles (LoI).
+
+- 2\.2 La déclaration de transit peut être complétée par un ou plusieurs formulaires complémentaires à l’aide du formulaire figurant à l’appendice 3 de l’annexe I de la convention sur la simplification des formalités dans les échanges de marchandises conclue à Interlaken le 20 mai 1987 («la convention DAU»). Les formulaires font partie intégrante de la déclaration. Des listes de chargement établies conformément à l’annexe B5 de l’appendice III et au moyen du formulaire figurant à l’annexe B4 de l’appendice III peuvent être utilisées en lieu et place des formulaires complémentaires, comme partie descriptive de la déclaration de transit établie par écrit, dont elles font partie intégrante.
+- À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), des listes de chargement établies conformément à l’annexe B5<sup>bis</sup> de l’appendice III et au moyen du formulaire figurant à l’annexe B4*bis* de l’appendice III peuvent être utilisées en lieu et place des formulaires complémentaires, comme partie descriptive de la déclaration de transit établie par écrit, dont elles font partie intégrante.
+- 2\.3 Aux fins de l’application du point 2.1 de la présente annexe, la déclaration de transit est complétée conformément à l’ annexe B6 de l’appendice III.
+- À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), aux fins de l’application du point 2.1 de la présente annexe, la déclaration de transit est complétée conformément à l’annexe B6*bis* de l’appendice III.
+
+### Chapitre II Modalités d’application
+
+- 3\. Indisponibilité du système de transit électronique
+- 3\.1
+
+  Les modalités d’application sont les suivantes:
+
+  - – la déclaration de transit est complétée et présentée au bureau de douane de départ accompagnée des exemplaires n<sup>os</sup> 1, 4 et 5 du DAU conformément à la convention DAU ou accompagnée de deux exemplaires du TAD, complétés si nécessaire par la Lol, conformément aux annexes A3, A4, A5 et A6 de l’appendice III; à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), la déclaration de transit est complétée et présentée au bureau de douane de départ accompagnée des exemplaires n<sup>os</sup> 1, 4 et 5 du DAU conformément à la convention DAU ou accompagnée de deux exemplaires du TAD, complétés si nécessaire par la Lol, conformément aux annexes A3*bis*, A4*bis*, A5*bis* et A6*bis* de l’appendice III;
+  - – la déclaration de transit est enregistrée dans la case C à l’aide d’un système de numérotation différent de celui du système de transit électronique;
+  - – le plan de continuité des opérations est mentionné sur les copies de la déclaration de transit avec l’un des cachets à l’aide des formulaires figurant à l’annexe B7 de l’appendice III, dans la case A du document administratif unique (DAU) ou à la place du MRN et du code à barres pour le TAD;
+  - – l’expéditeur agréé remplit toutes les obligations et conditions concernant les inscriptions à porter dans la déclaration et l’utilisation du cachet spécial visé aux points 22 à 25 de la présente annexe, en utilisant respectivement les cases C et D;
+  - – la déclaration de transit est visée par le bureau de douane de départ en cas de procédure normale ou par l’expéditeur agréé lorsque l’art. 84 de l’appendice I s’applique.
+
+- 3\.2 Lorsqu’il est décidé d’appliquer le plan de continuité des opérations, toute donnée de transit accompagnée du NRL ou du MRN attribué à l’opération de transit est supprimée du système de transit électronique sur la base des informations fournies par une personne qui a saisi ces données de transit dans le système de transit électronique.
+- 3\.3 L’autorité douanière vérifie le recours au plan de continuité des opérations afin d’éviter son utilisation abusive.
+- 4\. Indisponibilité du système informatisé utilisé par les titulaires du régime pour présenter les données de la déclaration de transit commun au moyen de procédés informatiques de traitement des données ou de la connexion électronique entre ledit système informatisé et le système de transit électronique
+- Les dispositions du point 3 de la présente annexe sont appliquées.
+- Le titulaire du régime informe l’autorité douanière lorsque son système informatisé ou la connexion électronique entre ledit système informatisé et le système de transit électronique sont à nouveau disponibles.
+- 5\. Indisponibilité du système informatisé de l’expéditeur agréé ou de la connexion entre ledit système informatisé et le système de transit électronique
+-
+
+  En cas d’indisponibilité du système informatisé de l’expéditeur agréé ou de la connexion électronique entre ledit système informatisé et le système de transit électronique, la procédure suivante s’applique:
+
+  - – les dispositions du point 4 de la présente annexe sont appliquées;
+  - – lorsqu’un expéditeur agréé effectue plus de 2 % par an de ses déclarations en ayant recours au plan de continuité des opérations, une révision de l’autorisation est effectuée afin d’évaluer si les conditions sont encore réunies.
+
+- 6\. Saisie de données par l’autorité douanière
+- Dans les cas visés aux points 4 et 5 de la présente annexe, l’autorité douanière peut toutefois permettre au titulaire du régime de présenter la déclaration de transit en un exemplaire (en utilisant le DAU ou le TAD) au bureau de douane de départ afin qu’elle soit traitée par le système de transit électronique.
+
+### Chapitre III Fonctionnement de la procédure
+
+- 7\. Modalités de la garantie isolée par caution
+- Lorsque le bureau de douane de départ est différent du bureau de douane de garantie aux fins de l’opération de transit, ce dernier conserve une copie de l’engagement de la caution. L’original est présenté par le titulaire du régime au bureau de douane de départ où il est conservé. En tant que de besoin, le bureau de douane de départ peut en demander la traduction dans la langue ou dans une des langues officielles du pays concerné.
+- 8\. Signature de la déclaration de transit et engagement du titulaire du régime
+-
+
+  La signature de la déclaration de transit par le titulaire du régime engage sa responsabilité en ce qui concerne:
+
+  - – l’exactitude des indications figurant dans la déclaration;
+  - – l’authenticité des documents présentés;
+  - – le respect de l’ensemble des obligations inhérentes au placement des marchandises sous le régime de transit.
+
+- 9\. Mesures d’identification
+-
+
+  En cas d’application de l’art. 36, par. 7, de l’appendice I, le bureau de douane de départ indique dans la case «D. Contrôle par le bureau de départ» de la déclaration de transit, au regard de la rubrique relative aux «Scellés apposés», la mention suivante:
+
+  - – Dispense – 99201.
+
+- 10\. Annotation de la déclaration de transit et mainlevée des marchandises
+  - – Le bureau de douane de départ annote les exemplaires de la déclaration de transit en fonction des résultats de la vérification.
+  - – Lorsque les résultats de la vérification sont conformes à la déclaration, le bureau de douane de départ donne la mainlevée des marchandises et en mentionne la date sur les exemplaires de la déclaration de transit.
+
+- 11\. Le transport des marchandises placées sous le régime de transit commun s’effectue sous le couvert des exemplaires n<sup>os</sup> 4 et 5 du DAU ou sous le couvert du TAD remis au titulaire du régime par le bureau de douane de départ. L’exemplaire n<sup>o</sup> 1 du DAU et le TAD sont conservés au bureau de douane de départ.
+- 12\. Bureau de douane de passage
+- 12\.1 Le transporteur présente un avis de passage établi sur un formulaire figurant à l’annexe B8 de l’appendice III à chaque bureau de douane de passage, qui le conserve. Au lieu de l’avis de passage, une photocopie de l’exemplaire n<sup>o</sup> 4 du DAU ou du TAD peut être présentée et conservée par le bureau de douane de passage.
+- 12\.2 Lorsque le transport s’effectue en empruntant un bureau de douane de passage autre que celui déclaré, le bureau de douane de passage effectif informe le bureau de douane de départ.
+- 13\. Présentation au bureau de douane de destination
+- 13\.1 Le bureau de douane de destination enregistre les exemplaires de la déclaration de transit, y mentionne la date d’arrivée et les annote en fonction du contrôle effectué.
+- 13\.2 Une opération de transit peut prendre fin dans un bureau de douane autre que celui prévu dans la déclaration de transit. Ce bureau devient alors le bureau de douane de destination effectif.
+-
+
+  Si le bureau de douane de destination effectif relève d’une partie contractante différente de celle dont relève le bureau de douane déclaré, le bureau de douane effectif fait figurer dans la case «I. Contrôle par le bureau de douane de destination» de la déclaration de transit, en sus des mentions usuelles incombant au bureau de douane de destination, la mention suivante:
+
+  - – Différences: bureau de douane où les marchandises ont été présentées ... (numéro de référence du bureau de douane) – 99203.
+
+- 13\.3
+
+  Dans le cas visé au point 13.2, deuxième alinéa, de la présente annexe, lorsque la déclaration de transit porte la mention suivante, le bureau de douane de destination effectif garde la marchandise sous son contrôle et ne peut en permettre la disposition pour une autre destination que la partie contractante dont relève le bureau de douane de départ, sans l’autorisation expresse de celui-ci:
+
+  - – Sortie de l’Union soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> ... – 99204.
+
+- 14\. Récépissé
+- Le récépissé peut être établi sur le modèle figurant au verso de l’exemplaire n<sup>o</sup> 5 du DAU ou sur le formulaire prévu à l’annexe B10 de l’appendice III.
+- 15\. Renvoi de l’exemplaire n<sup>o</sup> 5 du DAU ou du TAD.
+- L’autorité de douane compétente de la partie contractante de destination renvoie l’exemplaire n<sup>o</sup> 5 du DAU à l’autorité douanière de la partie contractante de départ sans tarder et dans un délai maximal de huit jours à compter de la fin du régime. Lorsque le TAD est utilisé, c’est la copie du TAD présenté qui est renvoyée dans les mêmes conditions que l’exemplaire n<sup>o</sup> 5.
+- 16\. Information du titulaire du régime et preuves alternatives de la fin du régime
+- En l’absence du retour des exemplaires visés au point 15 de la présente annexe à l’autorité douanière de la partie contractante de départ, au terme d’un délai de trente jours à compter de la date d’expiration du délai de présentation des marchandises au bureau de douane de destination, ladite autorité en informe le titulaire du régime, en l’invitant à apporter la preuve que le régime a pris fin correctement.
+- 17\. Procédure de recherche
+- 17\.1 Lorsque, au terme d’un délai de soixante jours à compter de la date d’expiration du délai de présentation des marchandises au bureau de douane de destination, le bureau de douane de départ ne dispose pas de la preuve que le régime a pris fin correctement, l’autorité douanière de la partie contractante de départ demande immédiatement les informations nécessaires à l’apurement du régime. Lorsque, au cours de l’une des phases de la procédure de recherche, il est établi que le régime de transit commun ne peut pas être apuré, l’autorité douanière de la partie contractante de départ établit les conditions de naissance de la dette.
+-
+
+  En cas de naissance d’une dette, l’autorité douanière de la partie contractante de départ prend les mesures suivantes:
+
+  - – identification du débiteur;
+  - – détermination des autorités douanières chargées de la notification de la dette.
+
+- 17\.2 Si, avant l’expiration de ces délais, l’autorité douanière de la partie contractante de départ est informée du fait que le régime de transit commun n’a pas correctement pris fin, ou soupçonne que tel est le cas, elle transmet la demande sans tarder.
+- 17\.3 La procédure de recherche est également engagée lorsqu’il apparaît ultérieurement que la preuve de la fin du régime de transit commun a été falsifiée et que le recours à cette procédure est nécessaire pour parvenir aux objectifs du point 17.1 de la présente annexe.
+- 18\. Garantie – Montant de référence
+- 18\.1 Aux fins de l’application de l’art. 74 de l’appendice I, le titulaire du régime s’assure que les montants engagés, compte tenu des opérations pour lesquelles le régime n’a pas pris fin, n’excèdent pas le montant de référence.
+- 18\.2 Lorsque le montant de référence s’avère insuffisant pour couvrir ses opérations de transit, le titulaire du régime est tenu de le signaler au bureau de douane de garantie.
+- 19\. Certificats de garantie globale, certificats de dispense de garantie et titres de garantie isolée
+- 19\.1
+
+  Les documents suivants sont présentés au bureau de douane de départ:
+
+  - – un certificat de garantie globale, établi sur le formulaire prévu à l’annexe C5 de l’appendice III;
+  - – des certificats de dispense de garantie, établis sur le formulaire prévu à l’annexe C6 de l’appendice III;
+  - – un titre de garantie isolée, établi sur le formulaire prévu à l’annexe C3 de l’appendice III.
+
+- 19\.2 La déclaration de transit doit faire référence aux certificats et au titre.
+- 19\.3 La durée de validité d’un certificat de garantie globale ou d’un certificat de dispense de garantie n’excède pas deux ans. Toutefois, cette durée peut faire l’objet de la part du bureau de douane de garantie d’une seule prorogation n’excédant pas deux ans.
+- 19\.4 À la date d’effet de la révocation d’une autorisation de constitution d’une garantie globale ou de la révocation et de la résiliation d’un engagement de caution dans le cas d’une garantie globale, aucun certificat émis ne peut plus être utilisé pour le placement de marchandises sous le régime de transit commun et est restitué sans délai au bureau de douane de garantie par le titulaire du régime.
+- 19\.5 Chaque pays fournit à la Commission des informations sur les éléments d’identification des certificats en cours de validité qui n’ont pas été restitués ou qui ont été déclarés volés, perdus ou falsifiés. La Commission en informe les autres pays en conséquence.
+- 20\. Listes de chargement spéciales
+- 20\.1 L’autorité douanière peut accepter la déclaration de transit complétée par des listes de chargement qui ne respectent pas toutes les exigences établies à l’annexe B5 de l’appendice III.
+- À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), l’autorité douanière peut accepter la déclaration de transit complétée par des listes de chargement qui ne respectent pas toutes les exigences établies à l’annexe B5<sup>bis</sup> de l’appendice III.
+-
+
+  Ces listes ne peuvent être utilisées que:
+
+  - – si elles sont émises par des entreprises dont les écritures sont basées sur un système de traitement électronique des données;
+  - – si elles sont conçues et remplies de façon qu’elles puissent être exploitées sans difficultés par l’autorité douanière;
+  - – si elles incluent, pour chaque article, les informations requises en vertu de l’annexe B5 de l’appendice III; à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), elles incluent, pour chaque article, les informations requises en vertu de l’annexe B5<sup>bis</sup> de l’appendice III.
+
+- 20\.2 Peut également être autorisée, l’utilisation, en tant que listes de chargement visées au point 20.1 de la présente annexe, de listes descriptives qui sont établies aux fins de l’accomplissement des formalités d’expédition/d’exportation, même si ces listes sont émises par des entreprises dont les écritures ne sont pas basées sur un système de traitement électronique des données.
+- 20\.3 Le titulaire du régime dont les écritures sont basées sur un système de traitement électronique des données et qui utilise déjà des listes de chargement spéciales peut les utiliser également pour les opérations de transit commun ne portant que sur un seul type de marchandises, si cette facilité est rendue nécessaire compte tenu du système du titulaire du régime.
+- 21\. Utilisation de scellés d’un modèle spécial
+- Le titulaire du régime indique dans la case «D. Contrôle par le bureau de départ» de la déclaration de transit, en regard de la rubrique «Scellés apposés», le nombre de scellés apposés et l’identifiant de chacun de ceux-ci.
+- 22\. Expéditeur agréé – Préauthentification et formalités au départ
+- 22\.1
+
+  Pour l’application des points 3 et 5 de la présente annexe, l’autorisation prévoit que la case «C. Bureau de départ» des formulaires de déclaration de transit est:
+
+  - – munie au préalable du cachet du bureau de douane de départ et de la signature d’un fonctionnaire dudit bureau, ou
+  - – revêtue par l’expéditeur agréé d’un cachet spécial agréé par l’autorité compétente et établie sur le formulaire figurant à l’annexe B9 de l’appendice III. Ce cachet peut être préimprimé sur les formulaires lorsque cette tâche est confiée à une imprimerie agréée à cet effet.
+
+- L’expéditeur agréé est tenu de compléter cette case en y indiquant la date de l’expédition des marchandises et d’attribuer à la déclaration de transit un numéro conformément aux règles prévues à cet effet dans l’autorisation.
+- 22\.2 L’autorité douanière peut prescrire l’utilisation de formulaires revêtus d’un signe distinctif destiné à les individualiser.
+- 23\. Expéditeur agréé — Mesures de garde du cachet
+- L’expéditeur agréé est tenu de prendre toutes les mesures nécessaires pour assurer la garde des cachets spéciaux ou des formulaires revêtus du cachet du bureau de douane de départ ou d’un cachet spécial.
+- Il informe l’autorité douanière des mesures de sécurité appliquées conformément au premier alinéa.
+- 23\.1 En cas d’utilisation abusive par qui que ce soit de formulaires munis au préalable du cachet du bureau de douane de départ ou revêtus d’un cachet spécial, l’expéditeur agréé répond, sans préjudice des actions pénales, du paiement des droits et autres impositions devenus exigibles dans un pays déterminé et afférents aux marchandises transportées accompagnées de ces formulaires, à moins qu’il ne démontre à l’autorité douanière qui l’a agréé qu’il a pris les mesures visées au point 23.
+- 24\. Expéditeur agréé – Mentions obligatoires
+- 24\.1
+
+  Au plus tard au moment de l’expédition des marchandises, l’expéditeur agréé complète la déclaration de transit en indiquant, le cas échéant, dans la case n<sup>o</sup> 44 l’itinéraire contraignant fixé conformément à l’art. 33, par. 2, de l’appendice I et, dans la case «D. Contrôle par le bureau de départ», le délai fixé conformément à l’art. 34 de l’appendice I dans lequel les marchandises sont présentées au bureau de douane de destination, les mesures d’identification appliquées ainsi que la mention suivante:
+
+  - – Expéditeur agréé – 99206
+
+- 24\.2 Lorsque l’autorité compétente de la partie contractante de départ procède aux contrôles au départ d’une expédition, elle appose son visa dans la case «D. Contrôle par le bureau de départ» de la déclaration de transit.
+- 24\.3 Après expédition, l’exemplaire n 1 du DAU ou le TAD est remis sans tarder au bureau de douane de départ conformément aux règles prévues à cet effet dans l’autorisation. Les autres exemplaires accompagnent les marchandises dans les conditions prévues au point 11 de la présente annexe.
+- 25\. Expéditeur agréé – Dispense de signature
+- 25\.1 L’expéditeur agréé peut être autorisé par l’autorité douanière à ne pas signer les déclarations de transit comportant le cachet spécial figurant dans la partie II, chapitre II, de la présente annexe, qui sont établies par le système de traitement électronique des données. Cette autorisation peut être accordée à condition que l’expéditeur agréé ait, au préalable, remis à l’autorité douanière un engagement écrit par lequel il se reconnaît le titulaire du régime pour toutes opérations de transit effectuées sous le couvert de déclarations de transit munies du cachet spécial.
+- 25\.2
+
+  Les déclarations de transit établies selon le point 25.1 de la présente annexe portent, dans la case réservée à la signature du titulaire du régime, la mention suivante:
+
+  - – Dispense de signature – 99207.
+
+- 26\. Destinataire agréé – Obligations
+- 26\.1 Lorsque les marchandises arrivent dans un lieu précisé dans l’autorisation, le destinataire agréé en informe sans tarder le bureau de douane de destination. Il mentionne la date d’arrivée, l’état des scellés apposés et toute irrégularité constatée sur les exemplaires n<sup>o</sup> 4 et n<sup>o</sup> 5 du DAU ou sur le TAD, qui accompagnaient les marchandises, et les remet au bureau de douane de destination conformément aux dispositions prévues dans l’autorisation.
+- 26\.2 Le bureau de douane de destination appose sur les exemplaires n<sup>o</sup> 4 et n<sup>o</sup> 5 du DAU ou sur le TAD les annotations prévues au point 13 de la présente annexe.
+
+Appendice II*[^t-4]*
+
+## Statut douanier de marchandises de l’Union et dispositions relatives à l’euro
+
+[^t-4]: Nouvelle teneur selon l’art. 1 ch. 5 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Mis à jour par les art. 1 ch. 3 des D n<sup>o</sup> 1/2016 du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)) et n<sup>o</sup> 1/2017 du 5 déc. 2017 de la Commission mixte UE-AELE ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), et l’art. 1 ch. 2 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019, en vigueur depuis le 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+
+#### Art. 1
+
+Le présent appendice fixe les modalités d’application de la convention et de l’appendice I relatives au statut douanier de marchandises de l’Union et à l’utilisation de l’euro.
+
+### Titre I Preuve du statut douanier de marchandieses de l’Union
+
+### Chapitre I Champ d’application
+
+#### Art. 2
+
+<sup>1.</sup> La preuve du statut douanier de marchandises de l’Union ne peut être apportée conformément au présent titre que lorsque les marchandises auxquelles elle se rapporte sont transportées directement d’une partie contractante à une autre.
+
+Sont considérées comme transportées directement d’une partie contractante à une autre:
+
+- a) les marchandises dont le transport s’effectue sans emprunt du territoire d’un pays tiers;
+- b) les marchandises dont le transport s’effectue avec emprunt du territoire d’un ou de plusieurs pays tiers, pour autant que la traversée de ces derniers pays s’effectue sous le couvert d’un titre de transport unique, établi dans une partie contractante.
+
+<sup>2.</sup>
+
+Le présent titre ne s’applique pas aux marchandises:
+
+- a) qui sont destinées à être exportées hors des parties contractantes, ou
+- b)
+
+  qui sont transportées sous le régime du transport international des marchandises sous le couvert de carnets TIR à moins que:
+
+  - – les marchandises devant être déchargées sur le territoire d’une partie contractante soient transportées avec des marchandises à décharger dans un pays tiers, ou
+  - – les marchandises soient transportées du territoire d’une partie contractante à celui d’une autre en passant par un pays tiers.
+
+<sup>3.</sup> Le présent titre est applicable aux envois par la poste (y compris les colis postaux) expédiés d’un bureau de poste d’une partie contractante à un bureau de poste d’une autre partie contractante.
+
+#### Art. 2<sup>bis</sup>
+
+Abrogé
+
+### Chapitre II Preuve du statut douanier de marchandises de l’Union
+
+#### Art. 3
+
+**Bureau compétent**
+
+Au sens du présent chapitre, on entend par «bureau compétent», les autorités compétentes pour attester le statut douanier de marchandises de l’Union.
+
+#### Art. 4
+
+**Dispositions générales**
+
+<sup>1.</sup> La preuve du statut douanier de marchandises de l’Union ne circulant pas sous la procédure T2 peut être apportée au moyen d’un des documents prévus au présent chapitre*.*
+
+<sup>2.</sup>
+
+Pour autant que les conditions pour sa délivrance soient remplies, le document utilisé aux fins de justifier le statut douanier de marchandises de l’Union peut être délivré a posteriori. Dans ce cas, il est revêtu de la mention suivante en rouge:
+
+- – Délivré a posteriori – 99210.
+
+### Section 1 Document T2L
+
+#### Art. 5
+
+**Définition**
+
+<sup>1.</sup> La preuve du statut douanier de marchandises de l’Union est, aux conditions ci‑après, apportée par la production d’un document T2L.
+
+<sup>2.</sup> Un document T2L doit porter le code «T2L» ou «T2LF».
+
+#### Art. 6
+
+**Formulaire à utiliser**
+
+<sup>1.</sup> Le document T2L est établi au moyen d’un formulaire conforme à l’un des modèles figurant dans la convention DAU.
+
+<sup>2.</sup> Ce formulaire peut être complété, s’il y a lieu, par un ou plusieurs formulaires complémentaires conformes aux modèles figurant dans la convention DAU, qui font partie intégrante du document T2L.
+
+<sup>3.</sup> Des listes de chargement, établies conformément au modèle figurant à l’annexe B4 de l’appendice III, peuvent être utilisées, en lieu et place des formulaires complémentaires, comme partie descriptive du document T2L, dont ils font partie intégrante.
+
+<sup>4.</sup> Les formulaires visés aux par. 1 à 3 sont remplis conformément à l’annexe B5<sup>bis</sup> de l’appendice III. Ils sont imprimés et remplis dans une des langues officielles des parties contractantes acceptées par les autorités compétentes.
+
+#### Art. 7
+
+**Listes de chargement spéciales**
+
+<sup>1.</sup> Les autorités compétentes peuvent autoriser toute personne répondant aux conditions de l’art. 57 de l’appendice I à utiliser en tant que listes de chargement des listes qui ne répondent pas à toutes les conditions de l’appendice III.
+
+<sup>2.</sup>
+
+L’utilisation de telles listes ne peut être autorisée que:
+
+- a) si elles sont émises par des entreprises dont les écritures sont basées sur un système intégré de traitement électronique ou automatique des données.
+- b) si elles sont conçues et remplies de façon qu’elles puissent être exploitées sans difficultés par les autorités compétentes;
+- c) si elles mentionnent pour chaque article, les informations requises en vertu de l’annexe B5<sup>bis</sup> de l’appendice III.
+
+<sup>3.</sup> Peut également être autorisée, l’utilisation en tant que listes de chargement visées au par. 1, de listes descriptives qui sont établies aux fins de l’accomplissement des formalités d’expédition/d’exportation, même si ces listes sont émises par des opérateurs économiques dont les écritures ne sont pas basées sur un système intégré de traitement électronique ou automatique des données.
+
+#### Art. 8
+
+**Délivrance d’un document T2L**
+
+<sup>1.</sup> Sous réserve des dispositions de l’art. 19, le document T2L est émis en un seul exemplaire.
+
+<sup>2.</sup> Ces documents sont remis à l’intéressé dès que les formalités concernant l’expédition des marchandises vers le pays de destination ont été accomplies.
+
+Le document T2L et, le cas échéant, le ou les formulaires complémentaires utilisés ou la ou les listes de chargement utilisés sont, à la demande de l’intéressé, visés par le bureau compétent. Le visa doit comporter les mentions suivantes à faire figurer, dans la mesure du possible, dans la case «C. Bureau de départ» de ces documents:
+
+- a) pour le document T2L, le nom et le cachet du bureau compétent, la signature d’un fonctionnaire dudit bureau, la date du visa et soit un numéro d’enregistrement, soit le numéro de la déclaration d’expédition ou d’exportation, si une telle déclaration est nécessaire;
+- b) pour le formulaire complémentaire ou la liste de chargement, le numéro figurant sur le document T2L. Ce numéro doit être apposé soit au moyen d’un cachet comportant le nom du bureau compétent, soit à la main. Dans ce dernier cas, il doit être accompagné du cachet officiel dudit bureau.
+
+### Section 2 Documents commerciaux
+
+#### Art. 9
+
+**Facture et document de transport**
+
+<sup>1.</sup> La preuve du statut douanier de marchandises de l’Union est, conformément aux conditions visées ci-après, apportée par la production de la facture ou du document de transport relatif à ces marchandises.
+
+<sup>2.</sup> La facture ou le document de transport visé au par. 1 doit au moins mentionner le nom et l’adresse complète de l’expéditeur/exportateur ou de l’intéressé si celui-ci n’est pas l’expéditeur/exportateur, le nombre, la nature, les marques et numéros des colis, la désignation des marchandises ainsi que la masse brute en kilogrammes, et, le cas échéant, les numéros des conteneurs.
+
+L’intéressé doit apposer, de façon apparente dans ledit document, le sigle «T2L» ou «T2LF» accompagné de sa signature manuscrite.
+
+<sup>3.</sup> Lorsque les formalités sont accomplies au moyen de systèmes informatisés publics ou privés, les autorités compétentes autorisent les intéressées qui le demandent à remplacer la signature prévue au par. 2 par une autre technique d’identification pouvant éventuellement reposer sur l’utilisation de codes et ayant les mêmes conséquences juridiques que la signature manuscrite.
+
+Cette facilité n’est accordée que si les conditions techniques et administratives fixées par les autorités compétentes sont remplies.
+
+<sup>4.</sup> La facture ou le document de transport dûment complété et signé par l’intéressé est, à la demande de celui-ci, visé par le bureau compétent si la valeur des marchandises est supérieure à 15 000 EUR. Ce visa doit comporter le nom et le cachet du bureau compétent, la signature d’un fonctionnaire dudit bureau, la date du visa et soit un numéro d’enregistrement, soit le numéro de la déclaration d’expédition ou d’exportation, si une telle déclaration est nécessaire.
+
+<sup>5.</sup> Les dispositions du présent article ne s’appliquent que si la facture ou le document de transport concerne exclusivement des marchandises de l’Union.
+
+<sup>6.</sup> Pour l’application de la présente convention, la facture ou le document de transport répondant aux conditions et aux formalités visées aux par. 2 à 5 vaut document T2L.
+
+<sup>7.</sup> Pour l’application de l’art. 9 par. 4 de la convention, le bureau de douane d’un pays de transit commun sur le territoire duquel des marchandises sont entrées sous le couvert d’une facture ou d’un document de transport valant document T2L peut joindre au document T2 ou T2L qu’il délivre pour ces marchandises une copie ou photocopie certifiée conforme de cette facture ou de ce document de transport.
+
+#### Art. 10
+
+**Manifeste maritime**
+
+<sup>1.</sup> La preuve du statut douanier de marchandises de l’Union est, conformément aux conditions visées ci-après, apportée par le manifeste de la compagnie maritime relatif à ces marchandises.
+
+<sup>2.</sup>
+
+Le manifeste comporte au moins les indications suivantes:
+
+- a) le nom et l’adresse complète de la compagnie maritime;
+- b) l’identité du navire;
+- c) le lieu et la date du chargement des marchandises;
+- d) le lieu du déchargement des marchandises.
+
+Le manifeste comporte en outre pour chaque envoi:
+
+- a) la référence au connaissement maritime ou autre document commercial;
+- b) le nombre, la nature, les marques et les numéros des colis;
+- c) la désignation des marchandises selon leur appellation commerciale usuelle comprenant les énonciations nécessaires à leur identification;
+- d) la masse brute en kilogrammes;
+- e) le cas échéant, les numéros des conteneurs;
+- f)
+
+  les indications suivantes relatives au statut des marchandises:
+
+  - – le sigle «C» (équivalant à «T2L») ou le sigle «F» (équivalant à «T2LF») pour les marchandises de l’Union dont le statut douanier peut être justifié,
+  - – le sigle «N» pour les autres marchandises.
+
+<sup>3.</sup> Le manifeste dûment complété et signé par la compagnie maritime est, à la demande de celle-ci, visé par les autorités compétentes. Ce visa doit comporter le nom et le cachet du bureau compétent, la signature d’un fonctionnaire dudit bureau et la date du visa.
+
+#### Art. 11
+
+Abrogé
+
+### Section 3 Autres preuves propres à certaines opérations
+
+#### Art. 12
+
+**Transport sous couvert de carnets TIR ou de carnets ATA**
+
+<sup>1.</sup> Lorsque les marchandises sont transportées sous le couvert d’un carnet TIR, dans un des cas visés à l’art. 2, par. 2, point b) ou sous le couvert d’un carnet ATA, le déclarant peut, en vue de justifier le statut douanier de marchandises de l’Union et sous réserve des dispositions de l’art. 2, apposer de façon apparente dans la case réservée à la désignation des marchandises, le sigle «T2L» ou «T2LF» accompagné de sa signature sur tous les volets concernés du carnet utilisé, avant la présentation de celui-ci au visa du bureau de douane de départ. Le sigle «T2L» ou le sigle «T2LF» doit, sur tous les volets où il a été apposé, être authentifié par l’apposition du cachet du bureau de douane de départ accompagné de la signature du fonctionnaire compétent.
+
+<sup>2.</sup> Dans le cas où le carnet TIR ou le carnet ATA comprend à la fois des marchandises de l’Union et des marchandises non Union, ces deux catégories de marchandises doivent être indiquées séparément et le sigle «T2L» ou le sigle «T2LF» doit être apposé de manière à concerner clairement les seules marchandises de l’Union.
+
+#### Art. 13
+
+**Marchandises contenues dans les bagages transportés par un passager**
+
+Dans la mesure où doit être établi le statut douanier de marchandises de l’Union des marchandises contenues dans des bagages transportés par un passager ou contenues dans leurs bagages personnels, ces marchandises, pour autant qu’elles ne soient pas destinées à des fins commerciales, sont considérées comme ayant le statut douanier de marchandises de l’Union:
+
+- a) lorsqu’elles sont déclarées comme marchandises ayant le statut douanier de marchandises de l’Union sans qu’il n’existe aucun doute quant à la sincérité de cette déclaration;
+- b) dans les autres cas, selon les modalités visées au présent chapitre.
+
+### Section 4 Preuve du statut douanier de marchandises de l’Union apportée par un émetteur agréé
+
+#### Art. 14
+
+**Émetteur agréé**
+
+<sup>1.</sup> Les autorités compétentes de chaque pays peuvent autoriser toute personne, ci‑après dénommée «Émetteur agréé», répondant aux conditions prévues à l’art. 57, par. 1, par. 2, point d), et par. 6 de l’appendice I et qui entend justifier le statut douanier de marchandises de l’Union au moyen d’un document T2L conformément à l’art. 6 ou au moyen d’un des documents prévus par les art. 9 à 11 et, ci-après dénommés «documents commerciaux», à utiliser ces documents sans devoir les présenter au visa du bureau compétent.
+
+<sup>2.</sup> Les dispositions des art. 59, 60, de l’art. 61, par. 3, des art. 62 à 69 et de l’art. 72 de l’appendice I s’appliquent mutatis mutandis à l’autorisation visée au par. 1.
+
+#### Art. 15
+
+**Contenu de l’autorisation**
+
+L’autorisation détermine notamment:
+
+- a) le bureau chargé de la préauthentification, au sens de l’art. 16, par. 1, point a), des formulaires utilisés aux fins de l’établissement des documents concernés;
+- b) les conditions dans lesquelles l’émetteur agréé doit justifier l’utilisation desdits formulaires;
+- c) les catégories ou mouvements de marchandises exclus;
+- d) le délai et les conditions dans lesquels l’émetteur agréé informe le bureau compétent en vue de lui permettre de procéder éventuellement à un contrôle avant le départ des marchandises.
+
+#### Art. 16
+
+**Préauthentification et formalités au départ**
+
+<sup>1.</sup>
+
+L’autorisation stipule que le recto des documents commerciaux concernés ou la case «C. Bureau de départ» figurant au recto des formulaires utilisés aux fins de l’émission du document T2L et, le cas échéant, du ou des formulaires complémentaires est:
+
+- a) muni au préalable de l’empreinte du cachet du bureau visé à l’art. 15, par. 1, point a) et de la signature d’un fonctionnaire dudit bureau, ou
+- b) revêtu par l’émetteur agréé de l’empreinte du cachet spécial en métal admis par les autorités compétentes et conforme au modèle figurant à l’annexe B9 de l’appendice III. L’empreinte de ce cachet peut être préimprimée sur les formulaires lorsque cette impression est confiée à une imprimerie agréée à cet effet.
+
+<sup>2.</sup> L’émetteur agréé est tenu de prendre toutes les mesures nécessaires pour assurer la garde des cachets spéciaux ou des formulaires revêtus du cachet du bureau de douane de départ ou d’un cachet spécial.
+
+Il informe les autorités compétentes des mesures de sécurité appliquées en vertu de l’alinéa précédent.
+
+<sup>3.</sup> En cas d’utilisation abusive par qui que ce soit de formulaires munis au préalable de l’empreinte du cachet de l’autorité compétente ou revêtus de l’empreinte du cachet spécial, l’émetteur agréé répond, sans préjudice des actions pénales, du paiement des droits et autres impositions devenus exigibles dans un pays déterminé et afférents aux marchandises transportées accompagnées de ces formulaires, à moins qu’il démontre aux autorités compétentes qui l’ont agréé qu’il a pris les mesures visées au par. 2.
+
+<sup>4.</sup>
+
+Au plus tard au moment de l’expédition des marchandises, l’émetteur agréé est tenu de remplir le formulaire et de le signer. Il doit en outre indiquer dans la case «D. Contrôle par le bureau de départ» du document T2L ou dans un endroit apparent du document commercial utilisé, le nom du bureau compétent, la date d’établissement du document ainsi que la mention suivante:
+
+- – Émetteur agréé.
+
+#### Art. 17
+
+**Dispense de signature**
+
+<sup>1.</sup> L’émetteur agréé peut être autorisé à ne pas apposer de signature sur les documents T2L ou sur les documents commerciaux utilisés, revêtus de l’empreinte du cachet spécial visé à l’annexe B9 de l’appendice III et établis au moyen d’un système intégré de traitement électronique ou automatique des données. Cette autorisation peut être accordée à condition que l’émetteur agréé ait, au préalable, remis à ces autorités un engagement écrit par lequel il se reconnaît responsable des conséquences juridiques de l’émission de tous documents T2L ou de tous documents commerciaux munis de l’empreinte du cachet spécial.
+
+<sup>2.</sup>
+
+Les documents T2L ou les documents commerciaux établis selon les dispositions du par. 1 doivent porter, au lieu de la signature de l’émetteur agréé, la mention suivante:
+
+- – Dispense de signature.
+
+#### Art. 18
+
+**Manifeste maritime transmis par échange de données**
+
+<sup>1.</sup> Les autorités compétentes de chaque pays peuvent autoriser les compagnies maritimes à n’établir le manifeste servant à justifier le statut douanier de marchandises de l’Union que, au plus tard, le lendemain du départ du navire et, en tous les cas, avant l’arrivée du navire au port de destination.
+
+<sup>2.</sup>
+
+L’autorisation visée au par. 1 n’est accordée qu’aux compagnies maritimes internationales qui:
+
+- a) remplissent les conditions de l’art. 57, par. 1, par. 2, point d et par. 6, de l’appendice I; toutefois, par dérogation à l’art. 57, par. 1, point a), les compagnies maritimes peuvent ne pas être établies dans une partie contractante si elles y disposent d’un bureau régional, et
+- b) utilisent des systèmes d’échange électronique de données pour transmettre les informations entre les ports de départ et de destination dans les territoires des parties contractantes, et
+- c) opèrent un nombre significatif de voyages entre les pays selon des itinéraires reconnus.
+
+<sup>3.</sup> Dès réception de la demande, les autorités compétentes du pays où la compagnie maritime est établie notifient cette demande aux autres pays sur le territoire respectif desquels sont situés les ports de départ et de destination prévus.
+
+Si aucune objection n’est reçue dans les 45 jours de la date de la notification, les autorités compétentes accordent, la procédure simplifiée décrite au par. 4.
+
+Cette autorisation est valable dans les pays concernés et ne s’applique qu’aux opérations effectuées entre les ports visés par ladite autorisation.
+
+<sup>4.</sup>
+
+La simplification s’applique comme suit:
+
+- a) le manifeste au port de départ est transmis par système d’échange électronique de données au port de destination;
+- b) la compagnie maritime porte sur le manifeste les indications figurant au par. 2 de l’art. 10;
+- c) une édition du manifeste transmis par système d’échange électronique de données est présentée, sur demande, au plus tard le jour ouvrable qui suit le départ du navire aux autorités compétentes du port de départ et, en tous les cas, avant l’arrivée du navire au port de destination;
+- d) une édition du manifeste transmis par échange de données est présentée aux autorités compétentes du port de destination;
+- e) les autorités compétentes du port de départ effectuent par système d’audit des contrôles sur la base d’une analyse des risques;
+- f) les autorités compétentes du port de destination effectuent par système d’audit des contrôles sur la base d’une analyse des risques et, si nécessaire, transmettent des détails des manifestes aux autorités compétentes du port de départ, aux fins de vérification.
+
+<sup>5.</sup>
+
+Sans préjudice des dispositions du Titre IV de l’appendice I:
+
+- – la compagnie maritime notifie aux autorités compétentes toute infraction ou irrégularité;
+- – les autorités compétentes du port de destination notifient dès que possible toute infraction ou irrégularité aux autorités compétentes du port de départ, ainsi qu’à l’autorité de délivrance de l’autorisation.
+
+#### Art. 18<sup>bis</sup>
+
+**Manifeste douanier des marchandises**
+
+<sup>1.</sup> Les autorités compétentes de chaque pays peuvent autoriser les compagnies maritimes à apporter la preuve du statut douanier de marchandises de l’Union au moyen d’un manifeste douanier des marchandises relatif aux marchandises transmis par échange de données informatisé.
+
+<sup>2.</sup> L’autorisation visée au par. 1 n’est accordée qu’aux compagnies maritimes qui satisfont aux exigences prévues à l’art. 57, par. 1, points a) et b), et par. 2, point d), de l’appendice I.
+
+<sup>3.</sup> Les émetteurs autorisés à établir la preuve du statut douanier de marchandises de l’Union au moyen d’un manifeste de compagnie maritime tel que défini à l’art. 10 peuvent émettre également le manifeste douanier des marchandises visé au présent article.
+
+<sup>4.</sup> Le manifeste douanier des marchandises comporte au moins les indications mentionnées à l’art. 10, par. 2.».
+
+#### Art. 19
+
+**Obligation d’établir une copie**
+
+L’émetteur agréé est tenu d’établir une copie de chaque document T2L ou de chaque document commercial délivré au titre de la présente section. Les autorités compétentes déterminent les modalités selon lesquelles ladite copie est présentée aux fins de contrôle et conservée pendant au moins trois ans.
+
+#### Art. 20
+
+**Contrôles auprès de l’émetteur agréé**
+
+Les autorités compétentes peuvent effectuer auprès des émetteurs agréés tout contrôle qu’elles estiment utile. Ceux-ci sont tenus de prêter leur assistance à cet effet et de fournir les renseignements nécessaires.
+
+### Chapitre III Assistance mutuelle
+
+#### Art. 21
+
+Les autorités compétentes des pays se prêtent mutuellement assistance pour le contrôle de l’authenticité et de l’exactitude des documents, ainsi que de la régularité des modalités qui, conformément aux dispositions du présent chapitre, sont utilisés aux fins de la preuve du statut douanier de marchandises de l’Union[^annexII-lvlu1-titI-chapIII-21-1].
+
+[^annexII-lvlu1-titI-chapIII-21-1]: Nouvelle expression selon l’art. 1 ch. 3 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+### Titre I*bis* Dispositions concernant la non-modification du statut douanier de marchandises de l’Union pour les marchandises transportées via un corridor T2
+
+#### Art. 21bis
+
+**Présomption de statut douanier de marchandises de l’Union**
+
+<sup>1.</sup>
+
+Les marchandises ayant le statut douanier de marchandises de l’Union qui sont acheminées par voie ferrée peuvent circuler, sans faire l’objet d’un régime douanier, d’un point à l’autre du territoire douanier de l’Union et être transportées avec passage par le territoire d’un pays de transit commun sans modification de leur statut douanier dans les cas suivants:
+
+- a) le transport des marchandises s’effectue sous le couvert d’un titre de transport unique délivré dans un État membre de l’Union européenne;
+- b) le titre de transport unique contient le visa suivant: «corridor T2»;
+- c) le transit par un pays de transit commun fait l’objet d’une surveillance au moyen d’un système électronique dans ce pays de transit commun, et
+- d) l’entreprise de chemin de fer concernée est autorisée, par le pays de transit commun dont le territoire est emprunté, à utiliser la procédure corridor T2.
+
+<sup>2.</sup> Le pays de transit commun tient la commission mixte visée à l’art. 14 de la convention ou un groupe de travail mis en place par cette commission sur la base du par. 5 dudit article informés des modalités concernant le système de surveillance électronique et des entreprises de chemin de fer qui sont autorisées à faire usage de la procédure visée au par. 1 du présent article.
+
+### Titre II Dispositions relatives à l’euro
+
+#### Art. 22
+
+<sup>1.</sup> La contre-valeur en monnaies nationales des montants en euros visés dans la présente convention est calculée sur la base des taux de conversion en vigueur le premier jour ouvrable du mois d’octobre avec effet au 1<sup>er</sup> janvier de l’année suivante.
+
+Si, pour une monnaie nationale donnée, ce taux n’est pas disponible, le taux à appliquer pour cette monnaie est celui du premier jour pour lequel un taux a été publié après le premier jour ouvrable d’octobre. Si un taux n’a pas été publié après le premier jour ouvrable du mois d’octobre, le taux à appliquer est celui du dernier jour avant cette date, pour lequel un taux a été publié.
+
+<sup>2.</sup> La contre-valeur de l’euro à prendre en considération pour l’application du par. 1 est celle applicable à la date de l’acceptation de la déclaration de transit commun couverte par le ou les titres de garantie isolée, conformément à l’art. 30, par. 2 de l’appendice I.
+
+Appendice III*[^t-5]*
+
+## Déclaration de transit et formulaires en cas d’utilisation de procédés informatiques de traitement des données
+
+[^t-5]: Nouvelle teneur selon l’art. 1 ch. 6 et 7 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Mis à jour par les art. 1 des D n<sup>o</sup> 3/2012 de la Commission mixte UE-AELE du 26 juin 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n<sup>o</sup> 4/2012 du 26 juin 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n<sup>o</sup> 1/2013 du 1<sup>er</sup> juil. 2013 ([RO 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n<sup>o</sup> 2/2013 du 7 nov. 2015 ([RO 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et n<sup>o</sup> 4/2015 du 26 nov. 2015 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), l’art. 1 ch. 4 à 6 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), l’art. 1 ch. 5 de la D n<sup>o</sup> 1/2017 du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 3 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) et l’art. 1 de la D n° 1/2018 de la Commission mixte UE-AELE du 4 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Selon l’art. 2 de cette D, l’utilisation des formulaires liés à la garantie qui figurent aux annexes C1 à C6 de l’appendice III de la convention, dans leur version applicable la veille de l’entrée en vigueur de la présente D, peut se poursuivre, sous réserve des adaptations géographiques nécessaires, pendant un an à partir de l’entrée en vigueur de la présente décision.
+
+#### Art. 1
+
+Le présent appendice reprend les dispositions, formulaires et modèles nécessaires à l’établissement des déclarations, du document d’accompagnement transit et des autres documents utilisés aux fins du régime de transit commun conformément aux appendices I et II.
+
+### Titre I Déclaration de transit et formulaires nécessaires à la transmission électronique de données
+
+#### Art. 2
+
+**Déclaration de transit**
+
+La déclaration de transit visée à l’art. 21, par. 1, de l’appendice I est conforme à la structure et aux indications figurant à l’annexe A1 en utilisant les codes figurant à l’annexe A2.
+
+#### Art. 3
+
+**Document d’accompagnement transit**
+
+Le document d’accompagnement transit est fourni au moyen du formulaire figurant à l’annexe A3. Il est établi et utilisé conformément aux notes explicatives de l’annexe A4.
+
+#### Art. 4
+
+**Liste d’articles**
+
+La liste d’articles est fournie au moyen du formulaire figurant à l’annexe A5. Elle est établie et utilisée conformément aux notes explicatives de l’annexe A6.
+
+### Titre II Formulaires utilisés pour:
+
+**– établir la preuve du statut douanier de marchandises de l’union**
+
+**– la déclaration de transit pour voyageurs**
+
+**– le plan de continuité des opérations pour le transit**
+
+#### Art. 5
+
+<sup>1.</sup> Les formulaires sur lesquels sont établis les documents attestant le statut douanier de marchandises de l’Union sont établis au moyen du formulaire figurant aux appendices 1 à 4 de l’annexe I de la convention DAU.
+
+<sup>2.</sup> Les formulaires sur lesquels sont établies les déclarations de transit pour voyageur ou les déclarations de transit dans le cadre de l’application du plan de continuité des opérations pour le transit sont établis au moyen du formulaire figurant à l’appendice 1 de l’annexe I de la convention DAU.
+
+<sup>3.</sup>
+
+Les données figurant dans les formulaires doivent apparaître par un procédé autocopiant:
+
+- a) dans le cas des appendices 1 et 3, sur les exemplaires indiqués à l’appendice 1 de l’annexe II de la convention DAU;
+- b) dans le cas des appendices 2 et 4, sur les exemplaires indiqués à l’appendice 2 de l’annexe II de la convention DAU.
+
+<sup>4.</sup> Dans les deux cas, il convient d’utiliser, le cas échéant, les codes des annexes A2, B1, B3 et B6.
+
+Les formulaires sont remplis et utilisés:
+
+- a) comme document attestant le statut douanier de marchandises de l’Union, conformément à la notice figurant à l’annexe B2;
+- b) comme déclaration de transit pour le voyageur ou pour le plan de continuité des opérations pour le transit, conformément à la notice figurant à l’annexe B6.
+
+#### Art. 6
+
+<sup>1.</sup> Les formulaires sont imprimés conformément à la convention DAU, annexe II, art. 2.
+
+<sup>2.</sup> Les parties contractantes peuvent imprimer dans le coin supérieur gauche du formulaire une marque d’identification de la partie contractante concernée. Elles peuvent également imprimer les mots «TRANSIT COMMUN» à la place des mots «TRANSIT DE L’UNION». La présence de cette indication ou de cette impression ne doit pas empêcher l’acceptation de la déclaration, lorsque ce formulaire est présenté dans une autre partie contractante.
+
+### Titre III Formulaires autres que le document administratif unique et le document d’accompagnement transit
+
+#### Art. 7
+
+**Listes de chargement**
+
+<sup>1.</sup> Le formulaire utilisé pour l’établissement de la liste de chargement est fourni au moyen du formulaire figurant à l’annexe B4. Il est rempli conformément à la notice figurant à l’annexe B5.
+
+<sup>2.</sup> Le papier à utiliser pour le formulaire de la liste de chargement est un papier collé pour écritures pesant au moins 40 grammes au mètre carré et sa résistance doit être telle que, à l’usage normal, il n’accuse ni déchirures ni chiffonnage. La couleur du papier est laissée au choix des intéressés.
+
+<sup>3.</sup> Le format est de 210 millimètres sur 297, une tolérance maximale de 5 millimètres en moins et de 8 millimètres en plus étant admise en ce qui concerne la longueur.
+
+#### Art. 8
+
+**Avis de passage**
+
+Le formulaire utilisé pour l’établissement de l’avis de passage dans le cadre de l’application de l’art. 22 de l’appendice I est fourni au moyen du formulaire figurant à l’annexe B8 de cet appendice.
+
+#### Art. 9
+
+**Récépissés**
+
+Le récépissé est fourni au moyen du formulaire figurant à l’annexe B10.
+
+#### Art. 10
+
+**Titre de garantie isolée**
+
+<sup>1.</sup> Le formulaire utilisé pour l’établissement du titre de garantie isolé, est conforme au modèle figurant à l’annexe C3.
+
+<sup>2.</sup> Le papier à utiliser pour le formulaire de titre de garantie isolée est un papier sans pâtes mécaniques, collé pour écritures et pesant au moins 55 grammes au mètre carré. Il est revêtu d’une impression de fond guilloché de couleur rouge rendant apparentes toutes falsifications par des moyens mécaniques ou chimiques. Le papier est de couleur blanche.
+
+<sup>3.</sup> Le format est de 148 sur 105 millimètres.
+
+<sup>4.</sup> Le formulaire de titre de garantie isolée doit être revêtu d’une mention indiquant le nom et l’adresse de l’imprimeur ou d’un sigle permettant son identification et porter, en outre, un numéro d’identification destiné à l’individualiser.
+
+<sup>5.</sup> En ce qui concerne les titres de garantie isolée, la langue à utiliser est déterminée par les autorités compétentes du pays dont relève le bureau de garantie.
+
+#### Art. 11
+
+**Certificat de garantie globale ou de dispense de garantie**
+
+<sup>1.</sup> Les formulaires utilisés pour l’établissement du certificat de garantie globale ou de dispense de garantie ci-après dénommés «le certificat», sont conformes aux modèles figurant aux annexes C5 et C6. Ils sont remplis conformément à la notice figurant à l’annexe C7.
+
+<sup>2.</sup>
+
+Le papier à utiliser pour le formulaire de certificat est un papier de couleur blanche, sans pâtes mécaniques et pesant au moins 100 grammes au mètre carré. Il est revêtu au recto et au verso d’une impression de fond guilloché, rendant apparentes toutes falsifications par moyens mécaniques ou chimiques. Cette impression est:
+
+- – de couleur verte pour les certificats de garantie;
+- – de couleur bleu pâle pour les certificats de dispense de garantie.
+
+<sup>3.</sup> Le format est de 210 sur 148 millimètres.
+
+<sup>4.</sup> Il appartient aux parties contractantes de procéder ou de faire procéder à l’impression des formulaires de certificat. Chaque certificat doit porter un numéro d’ordre permettant son identification.
+
+#### Art. 12
+
+**Dispositions communes au Titre III**
+
+<sup>1.</sup> Le formulaire doit être rempli à la machine à écrire ou par un procédé mécanographique ou similaire. Les formulaires visés sous les art. 7 et 8 peuvent également être remplis de façon lisible à la main; dans ce dernier cas, ils doivent être remplis à l’encre et en caractères d’imprimerie.
+
+<sup>2.</sup> Le formulaire doit être établi dans une des langues officielles des parties contractantes acceptée par les autorités compétentes du pays de départ. Ces dispositions ne sont pas applicables aux titres de garantie isolée.
+
+<sup>3.</sup> En tant que de besoin, les autorités compétentes d’un autre pays dans lequel le formulaire doit être présenté peuvent en demander la traduction dans la langue officielle ou dans une des langues officielles de ce pays.
+
+<sup>4.</sup> En ce qui concerne le certificat de garantie globale ou de dispense de garantie, la langue à utiliser est déterminée par les autorités compétentes du pays dont relève le bureau de garantie.
+
+<sup>5.</sup> Le formulaire ne doit comporter ni grattages ni surcharges. Les modifications qui y sont apportées doivent être effectuées en biffant les indications erronées et en ajoutant, les cas échéant, les indications voulues. Toute modification ainsi opérée doit être approuvée par son auteur et visée expressément par les autorités compétentes.
+
+<sup>6.</sup> Une partie contractante peut, sous réserve de l’accord préalable des autres parties contractantes et dans la mesure où cela ne porte pas préjudice à la bonne application de la convention, appliquer aux formulaires visés au présent titre des mesures particulières destinées à en augmenter la sécurité.
+
+Annexe A1 de l’appendice III
+
+## Note explicative relative à l’utilisation des déclarations de transit au moyen de l’échange de messages informatiques normalisés
+
+### (Déclaration de transit EDI)
+
+### Titre I Généralités
+
+La déclaration de transit EDI est présentée électroniquement, sauf lorsque la convention en dispose autrement.
+
+La déclaration de transit EDI repose sur les éléments d’information figurant dans la convention du 20 mai 1987 relative à la simplification de formalités dans les échanges de marchandises et correspondant aux différentes cases du document administratif unique (DAU), définis dans la présente annexe et l’annexe B1, en y associant un code ou en les remplaçant par un code s’il y a lieu.
+
+La présente annexe contient les exigences particulières de base qui s’appliquent lorsque les formalités sont effectuées par échange de messages EDI normalisés. En outre, les codes additionnels présentés dans l’annexe A2 sont applicables. L’annexe B1 s’applique à la déclaration de transit EDI, sauf indication contraire figurant dans la présente annexe ou dans l’annexe A2.
+
+La structure et le contenu détaillés de la déclaration de transit EDI suivent les spécifications techniques que les autorités compétentes communiquent au titulaire du régime afin de garantir le fonctionnement correct du système. Ces spécifications reposent sur les exigences exposées dans la présente annexe.
+
+La présente annexe décrit la structure de l’échange d’informations. La déclaration de transit EDI est organisée en groupes contenant des données (attributs). Les attributs sont regroupés de manière à former des ensembles logiques cohérents dans le cadre du message. Une indentation du groupe de données signale que celui-ci fait lui-même partie d’un groupe de données de niveau supérieur.
+
+S’il y a lieu, le numéro de la case correspondante du DAU est indiqué.
+
+Le terme «nombre» dans l’explication concernant un groupe de données indique combien de fois ce groupe peut être répété dans la déclaration de transit EDI.
+
+Le terme «type/longueur» dans l’explication concernant un attribut précise les exigences en matière de type et de longueur de la donnée. Les codes relatifs au type de donnée sont les suivants:
+
+- a alphabétique
+- n numérique
+- an alphanumérique
+
+Le nombre qui suit le code indique la longueur de donnée autorisée. Les conventions suivantes s’appliquent:
+
+Les deux points éventuels précédant l’indication de la longueur signifient que la donnée n’a pas de longueur fixe mais qu’elle peut comporter jusqu’au nombre de caractères indiqué. Une virgule dans la longueur du champ indique que l’attribut peut contenir des décimaux; dans ce cas, le chiffre précédant la virgule indique la longueur totale de l’attribut et le chiffre qui suit la virgule indique le nombre maximal de décimaux.
+
+### Titre II Indications à porter dans les déclarations de transit et structure de la déclaration de transit EDI
+
+### Chapitre I Indications requises
+
+La présente annexe contient l’ensemble des données, basées sur celles introduites dans la Convention «DAU», susceptibles d’être exigées par les différents pays.
+
+### Chapitre II Structure
+
+### A. Liste des groupes de données
+
+Opération de transit
+
+Opérateur expéditeur
+
+Opérateur destinataire
+
+Article de marchandises
+
+- – Opérateur expéditeur
+- – Opérateur destinataire
+- – Conteneurs
+- – Colis
+- – Références administratives antérieures
+- – Documents/certificats produits
+- – Mentions spéciales
+
+Bureau de douane de départ
+
+Opérateur titulaire du régime
+
+Représentant
+
+Bureau de douane de passage
+
+Bureau de douane de destination
+
+Opérateur destinataire agréé
+
+Résultat du contrôle
+
+Scellés apposés
+
+- – Marques des scellés
+
+Garantie
+
+- – Référence de la garantie
+  - – Limite de validité UE
+  - – Limite de validité non UE
+
+### B. Éléments d’information figurant sur la déclaration de transit
+
+<table>
+<tr><td colspan="2">Opération de transit</td><td></td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">NRL</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..22.</td></tr>
+</table>
+
+Le numéro de référence local (NRL) doit être utilisé. Il est défini à l’échelle nationale et attribué par l’utilisateur en accord avec les autorités compétentes afin d’identifier chaque déclaration.
+
+<table>
+<tr><td colspan="2">Type de déclaration</td><td>(case n<sup>o</sup> 1)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..5</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+Les mentions sont les suivantes:
+
+- 1) marchandises appelées à circuler sous la procédure T2:
+- T2 ou T2F
+- 2) marchandises appelées à circuler sous la procédure T1:
+- T1
+- 3) envois visés à l’art. 28 de l’appendice I:
+- T-
+
+<table>
+<tr><td colspan="2">Nombre total d’articles</td><td>(case n<sup>o</sup> 5)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..5</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Nombre total de colis</td><td>(case n<sup>o</sup> 6)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..7</td></tr>
+</table>
+
+Cet attribut est facultatif. Le nombre total de colis équivaut à la somme «Nombre de colis» + «Nombre d’unités» augmentée d’une unité pour chaque marchandise déclarée «en vrac».
+
+<table>
+<tr><td colspan="2">Pays d’expédition</td><td>(case n<sup>o</sup> 15a)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Pays d’expédition/d’exportation d’où les marchandises sont expédiées/exportées
+
+Cet attribut est utilisé si un seul pays d’expédition est déclaré. Le code pays figurant dans l’annexe A2 doit alors être utilisé. Dans ce cas, l’attribut «Pays d’expédition» du groupe de données «ARTICLE DE MARCHANDISES» ne peut pas être utilisé. Si plusieurs pays de d’expédition sont déclarés, l’attribut correspondant du groupe de données «OPÉRATION DE TRANSIT» ne peut pas être utilisé. Dans ce cas, l’attribut «Pays d’expédition» du groupe de données «ARTICLE DE MARCHANDISES» est utilisé.
+
+<table>
+<tr><td colspan="2">Pays de destination</td><td>(case n<sup>o</sup> 17a)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Indiquer le nom du pays concerné.
+
+Cet attribut est utilisé si un seul pays de destination est déclaré. Le code pays figurant dans l’annexe A2 doit alors être utilisé. Dans ce cas, l’attribut «Pays de destination» du groupe de données «ARTICLE DE MARCHANDISES» ne peut pas être utilisé. Si plusieurs pays de destination sont déclarés, l’attribut correspondant du groupe de données «OPÉRATION DE TRANSIT» ne peut pas être utilisé. Dans ce cas, l’attribut «Pays de destination» du groupe de données «ARTICLE DE MARCHANDISES» est utilisé.
+
+<table>
+<tr><td colspan="2">Identité au départ</td><td>(case n<sup>o</sup> 18)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..27</td></tr>
+</table>
+
+Indiquer l’identité, par exemple, le (ou les) numéro(s) d’immatriculation ou le nom du moyen de transport (camion, navire, wagon de chemin de fer, avion) sur lequel les marchandises sont chargées lors de leur présentation au bureau de douane de départ, au moyen des codes prévus à cet effet. Par exemple, s’il y a utilisation d’un véhicule tracteur et d’une remorque ayant une immatriculation différente, indiquer le numéro d’immatriculation du véhicule tracteur et celui de la remorque.
+
+Toutefois, lorsque des marchandises sont transportées dans des conteneurs destinés à être acheminés par véhicules routiers, les autorités compétentes peuvent autoriser le titulaire du régime à ne pas remplir cette case, si la situation logistique au point de départ est susceptible d’empêcher que soit fournie l’identité du moyen de transport au moment d’établir la déclaration de transit et si les parties contractantes sont en mesure de garantir que les informations requises sur ces moyens de transport seront insérées par la suite dans la case 55.
+
+En cas d’envoi par installations de transport fixes, ne rien indiquer dans cette case en ce qui concerne le numéro d’immatriculation.
+
+<table>
+<tr><td colspan="2">Identité au départ LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Nationalité au départ</td><td>(case n<sup>o</sup> 18)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant à l’annexe A2 doit être utilisé.
+
+Indiquer la nationalité du moyen de transport (camion, navire, wagon de chemin de fer, avion) sur lequel les marchandises sont chargées lors de leur présentation au bureau de douane départ, (ou celle du moyen assurant la propulsion de l’ensemble, s’il y a plusieurs moyens de transport), au moyen des codes prévus à cet effet. Par exemple, s’il y a utilisation d’un véhicule tracteur et d’une remorque ayant une immatriculation différente, indiquer la nationalité du véhicule tracteur.
+
+Toutefois, lorsque des marchandises sont transportées dans des conteneurs destinés à être acheminés par véhicules routiers, les autorités compétentes peuvent autoriser le titulaire du régime à ne pas remplir cette case, si la situation logistique au point de départ est susceptible d’empêcher que soit fournie la nationalité du moyen de transport au moment d’établir la déclaration de transit et si les parties contractantes sont en mesure de garantir que les informations requises sur ces moyens de transport seront insérées par la suite dans la case 55.
+
+En cas d’envoi par installations de transport fixes ou de transport ferroviaire, ne pas indiquer la nationalité.
+
+Dans les autres cas, la déclaration de la nationalité est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Conteneurs</td><td>(case n<sup>o</sup> 19)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n1</td></tr>
+</table>
+
+Mentionner, conformément aux codes prévus à cet effet, les indications nécessaires concernant la situation présumée au passage de la frontière de la partie contractante où se situe le bureau de douane de départ, telle qu’elle est connue au moment du placement des marchandises sous le régime de transit commun.
+
+Les codes suivants sont utilisés:
+
+0: non
+
+1: oui.
+
+<table>
+<tr><td colspan="2">Nationalité au passage de la frontière</td><td>(case n<sup>o</sup> 21)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Cette case est obligatoire en ce qui concerne la nationalité
+
+Toutefois, en cas de transport ferroviaire ou par installations fixes, ne rien indiquer en ce qui concerne la nationalité.
+
+Le code pays figurant dans l’annexe A2 est utilisé.
+
+<table>
+<tr><td colspan="2">Identité au passage de la frontière</td><td>(case n<sup>o</sup> 21)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..27</td></tr>
+</table>
+
+Indiquer le genre (camion, navire, wagon de chemin de fer, avion, etc.), suivi de l’identité, par exemple le numéro d’immatriculation ou le nom du moyen de transport actif (c’est-à-dire, moyen de transport assurant la propulsion) présumé utilisé au passage de la frontière à la sortie de la partie contractante où se situe le bureau de douane de départ, puis le code correspondant à sa nationalité telle qu’elle est connue au moment du placement des marchandises sous le régime de transit commun, en utilisant le code approprié.
+
+Dans le cas du transport combiné ou s’il y a plusieurs moyens de transport, le moyen de transport actif est celui qui assure la propulsion de l’ensemble. Par exemple, si un camion est sur un navire de mer, le moyen de transport actif est le navire; si tracteur et remorque, le moyen de transport actif est le tracteur, etc.
+
+Toutefois, en cas de transport ferroviaire ou par installations fixes, ne rien indiquer en ce qui concerne le numéro d’immatriculation
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Identité au passage de la frontière LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Type de transport au passage de la frontière</td><td>(case n<sup>o</sup> 21)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..2</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Mode de transport à la frontière</td><td>(case n<sup>o</sup> 25)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..2</td></tr>
+</table>
+
+Indiquer, conformément aux codes prévus à cet effet, le mode de transport correspondant au moyen de transport actif avec lequel les marchandises sont présumées quitter le territoire de la partie contractante où se situe le bureau de douane de départ.
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Mode de transport intérieur</td><td>(case n<sup>o</sup> 26)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..2</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes. Elle doit se faire conformément à la note explicative relative à la case n<sup>o</sup> 25 présentée dans l’annexe A2.
+
+<table>
+<tr><td colspan="2">Lieu de chargement</td><td>(case n<sup>o</sup> 27)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Code de localisation agréée</td><td>(case n<sup>o</sup> 30)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+Cet attribut ne peut pas être utilisé si le groupe de données «RÉSULTAT DU CONTRÔLE» est utilisé. Dans le cas contraire, l’utilisation de l’attribut est facultative. Si l’attribut est utilisé, il convient d’indiquer avec précision, sous forme codée, l’endroit où les marchandises peuvent être examinées. Les attributs «Localisation agréée des marchandises»/«Code de localisation agréée», «Localisation autorisée des marchandises» et «Bureau de douaneannexe» ne peuvent pas être utilisés en même temps.
+
+<table>
+<tr><td colspan="2">Localisation agréée des marchandises</td><td>(case n<sup>o</sup> 30)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut ne peut pas être utilisé si le groupe de données «RÉSULTAT DU CONTRÔLE» est utilisé. Dans le cas contraire, l’utilisation de l’attribut est facultative. Si l’attribut est utilisé, il convient d’indiquer avec précision l’endroit où les marchandises peuvent être examinées. Les attributs «Localisation agréée des marchandises»/«Code de localisation agréée», «Localisation autorisée des marchandises» et «Bureau de douane annexe» ne peuvent pas être utilisés en même temps.
+
+<table>
+<tr><td colspan="2">Localisation agréée des marchandises LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Localisation autorisée des marchandises</td><td>(case n<sup>o</sup> 30)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative si le groupe de données «RÉSULTAT DU CONTRÔLE» est utilisé. Si l’attribut est utilisé, il convient d’indiquer avec précision l’endroit où les marchandises peuvent être examinées. Si le groupe de données «RÉSULTAT DU CONTRÔLE» n’est pas utilisé, l’attribut ne peut pas l’être non plus. Les attributs «Localisation agréée des marchandises»/«Code de localisation agréée», «Localisation autorisée des marchandises» et «Bureau de douane annexe» ne peuvent pas être utilisés en même temps.
+
+<table>
+<tr><td colspan="2">Bureau de douane annexe</td><td>(case n<sup>o</sup> 30)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+Cet attribut ne peut pas être utilisé si le groupe de données «RÉSULTAT DU CONTRÔLE» est utilisé. Dans le cas contraire, l’utilisation de l’attribut est facultative. Si l’attribut est utilisé, il convient d’indiquer avec précision l’endroit où les marchandises peuvent être examinées. Les attributs «Localisation agréée des marchandises»/«Code de localisation agréée», «Localisation autorisée des marchandises» et «Bureau de douane annexe» ne peuvent pas être utilisés en même temps.
+
+<table>
+<tr><td colspan="2">Masse brute totale</td><td>(case n<sup>o</sup> 35)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..11,3</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Code langue du document d’accompagnement transit</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue du document d’accompagnement transit.
+
+<table>
+<tr><td colspan="2">Indicateur langue de dialogue au départ</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+L’utilisation du code langue figurant dans l’annexe A2 est facultative. Si cet attribut n’est pas utilisé, le système utilisera la langue par défaut du bureau de douane de départ.
+
+<table>
+<tr><td colspan="2">Date de la déclaration</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n8</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Lieu de la déclaration</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Lieu de la déclaration LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) du champ à contenu libre correspondant.
+
+<table>
+<tr><td colspan="2">Opérateur expéditeur</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsqu’un seul expéditeur est déclaré. Dans ce cas, le groupe de données «OPÉRATEUR expéditeur» du groupe de données «ARTICLE DE MARCHANDISES» ne peut pas être utilisé.
+
+<table>
+<tr><td colspan="2">Nom</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Rue et numéro</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Pays</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Code postal</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..9</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Ville</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">NAD LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue du nom et de l’adresse (NAD LNG).
+
+<table>
+<tr><td colspan="2">Numéro d’identification</td><td>(case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Opérateur destinataire</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsqu’un seul destinataire est déclaré et que l’attribut «Pays de destination» du groupe de données «OPÉRATION DE TRANSIT» indique un «pays» tel que défini dans la convention relative à un régime de transit commun. Dans ce cas, le groupe de données «OPÉRATEUR destinataire» du groupe «ARTICLE DE MARCHANDISES» ne peut pas être utilisé.
+
+<table>
+<tr><td colspan="2">Nom</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Rue et numéro</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Pays</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Code postal</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..9</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Ville</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">NAD LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue du nom et de l’adresse (NAD LNG).
+
+<table>
+<tr><td colspan="2">Numéro d’identification</td><td>(case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Article de marchandises</td><td></td></tr>
+<tr><td>Nombre:</td><td colspan="2">999</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">Type de déclaration</td><td>(ex case n<sup>o</sup> 1)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..5</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque le code «T-» a été utilisé pour l’attribut «Type de déclaration» du groupe de données «OPÉRATION DE TRANSIT». Dans le cas contraire, cet attribut ne peut pas être utilisé.
+
+<table>
+<tr><td colspan="2">Pays d’expédition</td><td>(ex case n<sup>o</sup> 15a)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Pays d’expédition/d’exportation d’où les marchandises sont expédiées/exportées
+
+Cet attribut est utilisé si plusieurs pays d’expédition sont déclarés. Les codes pays figurant dans l’annexe A 2 doivent être utilisés. L’attribut «Pays d’expédition» du groupe de données «OPÉRATION DE TRANSIT» ne peut pas être utilisé. Si un seul pays d’expédition est déclaré, l’attribut correspondant du groupe de données «OPÉRATION DE TRANSIT» doit être utilisé.
+
+<table>
+<tr><td colspan="2">Pays de destination</td><td>(ex case n<sup>o</sup> 17a)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Cet attribut est utilisé si plusieurs pays de destination sont déclarés. Les codes pays figurant dans l’annexe A2 doivent être utilisés. L’attribut «Pays de destination» du groupe de données «OPÉRATION DE TRANSIT» ne peut pas être utilisé. Si un seul pays de destination est déclaré, l’attribut correspondant du groupe de données «OPÉRATION DE TRANSIT» doit être utilisé.
+
+<table>
+<tr><td colspan="2">Désignation textuelle</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..140</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+Indiquer dans tous les cas l’appellation commerciale usuelle des marchandises; cette appellation doit comprendre les énonciations nécessaires à l’identification des marchandises; lorsque l’attribut «Code marchandises» doit être remplie, cette appellation doit être exprimée dans des termes suffisamment précis pour permettre le classement des marchandises. Cet attribut doit également contenir les indications requises par des réglementations spécifiques éventuelles (accises, etc.). En cas d’utilisation de conteneurs, les marques d’identification de ces derniers doivent en outre être indiquées dans cette case.
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Désignation textuelle LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) du champ à contenu libre correspondant.
+
+<table>
+<tr><td colspan="2">Article n°</td><td>(case n<sup>o</sup> 32)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..5</td></tr>
+</table>
+
+Indiquer le numéro d’ordre de l’article en cause par rapport au nombre total des articles déclarés dans les formulaires utilisés tels que définis à l’attribut «Nombre total d’articles».
+
+Cet attribut est utilisé même si la valeur «1» a été utilisée pour l’attribut «Nombre total d’articles» du groupe de données «OPÉRATION DE TRANSIT». Dans ce cas, «1» est également utilisé pour cet attribut. Chaque numéro d’article est unique pour toute la déclaration.
+
+<table>
+<tr><td colspan="2">Code des marchandises</td><td>(case n<sup>o</sup> 33)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..8</td></tr>
+</table>
+
+Cet attribut doit comporter au moins 4 chiffres et jusqu’à 8 chiffres.
+
+Cette case doit être complétée lorsquela déclaration de transit est établie, par la même personne, simultanément ou suite à une déclaration en douane comportant l’indication du code «marchandise».
+
+Indiquer le code correspondant aux marchandises en cause.
+
+Cette case doit également être remplie sur les déclarations de transit T2 et T2F établies dans un pays de transit commun uniquement si la déclaration de transit précédente contient l’indication du code «marchandises».
+
+Indiquer alors le code figurant sur les exemplaires de cette déclaration.
+
+Dans les autres cas, cette case est à usage facultatif.
+
+<table>
+<tr><td colspan="2">Masse brute</td><td>(case n<sup>o</sup> 35)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..11,3</td></tr>
+</table>
+
+Indiquer la masse brute, exprimée en kilogrammes des marchandises décrites dans l’attribut correspondant. La masse brute correspond à la masse cumulée des marchandises et de tous leurs emballages à l’exclusion des conteneurs et de tout autre matériel de transport.
+
+Cet attribut est facultatif lorsque des marchandises d’espèces différentes reprises sur une même déclaration sont conditionnées ensemble d’une manière telle qu’il est impossible d’attribuer une masse brute à chaque espèce de marchandise.
+
+<table>
+<tr><td colspan="2">Masse nette</td><td>(case n<sup>o</sup> 38)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..11,3</td></tr>
+</table>
+
+Indiquer la masse nette, exprimée en kilogrammes, des marchandises décrites dans l’attribut correspondant. La masse nette correspond à la masse des marchandises elles-mêmes sans aucun emballage.
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Opérateur expéditeur</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données ne peut pas être utilisé lorsqu’un seul expéditeur est déclaré. Dans ce cas, c’est le groupe de données «OPÉRATEUR expéditeur» apparaissant dans la partie «OPÉRATION DE TRANSIT» qui est utilisé.
+
+<table>
+<tr><td colspan="2">Nom</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Rue et numéro</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Pays</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Code postal</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..9</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Ville</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">NAD LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue du nom et de l’adresse (NAD LNG).
+
+<table>
+<tr><td colspan="2">Numéro d’Identification</td><td>(ex case n<sup>o</sup> 2)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Opérateur destinataire</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsque plusieurs destinataires sont déclarés et que l’attribut «Pays de destination» de la partie «ARTICLE DE MARCHANDISES» indique un «pays» tel que défini dans la convention relative à un régime de transit commun. Lorsqu’un seul destinataire est déclaré, le groupe de données «OPÉRATEUR destinataire» de la partie «ARTICLE DE MARCHANDISES» ne peut pas être utilisé.
+
+<table>
+<tr><td colspan="2">Nom</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Rue et numéro</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Pays</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Code postal</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..9</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Ville</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">NAD LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue du nom et de l’adresse (NAD LNG).
+
+<table>
+<tr><td colspan="2">Numéro d’Identification</td><td>(ex case n<sup>o</sup> 8)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Conteneurs</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+</table>
+
+Ce groupe de données est utilisé si l’attribut «Conteneurs» du groupe de données «OPÉRATION DE TRANSIT» contient le code «1».
+
+<table>
+<tr><td colspan="2">Numéros des conteneurs</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..11</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Colis</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">Marques & numéros des colis</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..42</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Nature des colis» contient d’autres codes figurant dans l’annexe A2 que ceux utilisés pour «Vrac» (VQ, VG, VL, VY, VR ou VO) ou «Marchandises non emballées» (NE, NF, NG). Son utilisation est facultative si l’attribut «Nature des colis» contient un des codes susmentionnés.
+
+<table>
+<tr><td colspan="2">Marques & numéros des colis LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Nature des colis</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an2</td></tr>
+</table>
+
+Les codes emballages prévus dans l’annexe A2 doivent être utilisés.
+
+<table>
+<tr><td colspan="2">Nombre de colis</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..5</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Nature des colis» contient d’autres codes figurant dans l’annexe A2 que ceux utilisés pour «Vrac» (VQ, VG, VL, VY, VR ou VO) ou pour «Marchandises non emballées» (NE, NF, NG). Il ne peut pas être utilisé si l’attribut «Nature des colis» contient un des codes susmentionnés.
+
+<table>
+<tr><td colspan="2">Nombre d’unités</td><td>(case n<sup>o</sup> 31)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..5</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Nature des colis» contient un code figurant dans l’annexe A2 signifiant «Marchandises non emballées» (NE). Dans le cas contraire, il ne peut pas être utilisé.
+
+<table>
+<tr><td colspan="2">Références administratives antérieures</td><td>(case n<sup>o</sup> 40)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">9</td></tr>
+</table>
+
+Indiquer la référence du régime douanier précédent ou des documents douaniers correspondants.
+
+Ce groupe de données est, entre autre, utilisé lorsque l’attribut «Type de déclaration» des parties «OPÉRATION DE TRANSIT» ou «ARTICLE DE MARCHANDISES» contient les codes «T2» ou «T2F» et que le pays du bureau de douane de départ est un pays de transit commun tel que défini dans la convention relative à un régime de transit commun.
+
+<table>
+<tr><td colspan="2">Type du document précédent</td><td>(case n<sup>o</sup> 40)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..6</td></tr>
+</table>
+
+Lorsque le groupe de données est utilisé, au moins un code de document précédent figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Référence du document précédent</td><td>(case n<sup>o</sup> 40)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..20</td></tr>
+</table>
+
+La référence du document précédent doit être utilisée.
+
+<table>
+<tr><td colspan="2">Référence du document précédent LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) du champ à contenu libre correspondant.
+
+<table>
+<tr><td colspan="2">Informations complémentaires</td><td>(case n<sup>o</sup> 40)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..26</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative pour les parties contractantes.
+
+<table>
+<tr><td colspan="2">Informations complémentaires LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 doit être utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Documents/Certificats produits</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+</table>
+
+Indiquer les mentions requises en fonction des réglementations spécifiques éventuellement applicables dans le pays d’expédition/d’exportation, ainsi que les numéros de référence des documents produits à l’appui de la déclaration (ceci peut comprendre, le cas échéant, le numéro des licences/autorisations d’exportation, les données concernant les réglementations vétérinaires et phytosanitaires, le numéro du connaissement, etc.).
+
+L’utilisation de ce groupe de données est facultative pour les parties contractantes. Si ce groupe est utilisé, il doit comporter au moins un des attributs suivants.
+
+<table>
+<tr><td colspan="2">Type du document</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..3</td></tr>
+</table>
+
+Le code figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Référence du document</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..20</td></tr>
+<tr><td colspan="2">Référence du document LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Informations complémentaires</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..26</td></tr>
+<tr><td colspan="2">Informations complémentaires LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Mentions spéciales</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+</table>
+
+L’utilisation de ce groupe de données est facultative pour les parties contractantes. Si ce groupe est utilisé, il doit comporter les attributs «Code mentions spéciales» ou «Texte».
+
+<table>
+<tr><td colspan="2">Code mentions spéciales</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..3</td></tr>
+</table>
+
+Le code figurant dans l’annexe A2 est utilisé.
+
+<table>
+<tr><td colspan="2">Exportation de l’UE</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n1</td></tr>
+</table>
+
+Si la case «Code mentions spéciales» contient les codes «DG0» ou «DG1», les attributs «Exportation de la UE» ou «Exportation du pays» doivent être utilisés (ils ne peuvent pas être utilisées en même temps). Dans le cas contraire, l’attribut ne peut pas être utilisé. Lorsqu’il l’est, les codes suivants doivent être utilisés:
+
+0 = non
+
+1 = oui.
+
+<table>
+<tr><td colspan="2">Exportation du pays</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Si la case «Code mentions spéciales» contient les codes «DG0» ou «DG1», les attributs «Exportation de l’UE» ou «Exportation du pays» doivent être utilisés (ils ne peuvent pas être utilisées en même temps). Dans le cas contraire, l’attribut ne peut pas être utilisé. Lorsqu’il l’est, les codes pays figurant dans l’annexe A2 doivent être utilisés.
+
+<table>
+<tr><td colspan="2">Texte</td><td>(case n<sup>o</sup> 44)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..70</td></tr>
+<tr><td colspan="2">Texte LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre est utilisé.
+
+<table>
+<tr><td colspan="2">Bureau de douane de départ</td><td>(case C)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">Numéro de référence</td><td>(case C)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an8</td></tr>
+</table>
+
+Le code figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Titulaire du régime</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">Numéro d’identification</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque le groupe de données «Contrôle du résultat» contient le code A3 ou lorsque l’attribut «NRG» est utilisé.
+
+<table>
+<tr><td colspan="2">Nom</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Numéro d’identification» est utilisé et que les autres attributs de ce groupe de données ne sont pas déjà connus par le système.
+
+<table>
+<tr><td colspan="2">Rue et numéro</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Numéro d’identification» est utilisé et que les autres attributs de ce groupe de données ne sont pas déjà connus par le système.
+
+<table>
+<tr><td colspan="2">Pays</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant dans l’annexe A2 est utilisé lorsque l’attribut «Numéro d’identification» est utilisé et que les autres attributs de ce groupe de données ne sont pas déjà connus par le système.
+
+<table>
+<tr><td colspan="2">Code postal</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..9</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Numéro d’identification» est utilisé et que les autres attributs de ce groupe de données ne sont pas déjà connus par le système.
+
+<table>
+<tr><td colspan="2">Ville</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Numéro d’identification» est utilisé et que les autres attributs de ce groupe de données ne sont pas déjà connus par le système.
+
+<table>
+<tr><td colspan="2">NAD LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue du nom et de l’adresse (NAD LNG) lorsque les champs à contenu libre correspondants sont utilisés.
+
+<table>
+<tr><td colspan="2">Représentant</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsque le titulaire du régime a recours à un représentant habilité.
+
+<table>
+<tr><td colspan="2">Nom</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Pouvoirs</td><td>(case n<sup>o</sup> 50)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a ..35</td></tr>
+</table>
+
+L’utilisation de cet attribut est facultative.
+
+<table>
+<tr><td colspan="2">Pouvoirs LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue figurant dans l’annexe A2 est utilisé pour définir la langue (LNG) lorsque le champ à contenu libre correspondant est utilisé.
+
+<table>
+<tr><td colspan="2">Bureau de douane de passage</td><td>(case n<sup>o</sup> 51)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">9</td></tr>
+</table>
+
+Mentionner le bureau de douane d’entrée prévu dans chaque partie contractante dont il est prévu d’emprunter le territoire ou, lorsque le transport doit emprunter un territoire autre que celui des parties contractantes, le bureau de douane de sortie par lequel le transport quitte le territoire des parties contractantes.
+
+Ce groupe de données doit être utilisé au moins une fois si plusieurs parties contractantes sont déclarées au départ et à l’arrivée.
+
+<table>
+<tr><td colspan="2">Numéro de référence</td><td>(case n<sup>o</sup> 51)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an8</td></tr>
+</table>
+
+Le code figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Bureau de douane de destination</td><td>(case n<sup>o</sup> 53)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">Numéro de référence</td><td>(case n<sup>o</sup> 53)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an8</td></tr>
+</table>
+
+Le code figurant dans l’annexe A2 doit être utilisé.
+
+Seule la structure du code est indiquée dans l’annexe A2; les bureaux de douane de destination figurent dans la liste des bureaux compétents (LBD sur le site EUROPA) pour les opérations de transit commun.
+
+<table>
+<tr><td colspan="2">Opérateur destinataire agréé</td><td>(case n<sup>o</sup> 53)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données peut être utilisé pour indiquer que les marchandises seront livrées à un destinataire agréé.
+
+<table>
+<tr><td colspan="2">Numéro d’identification destinataire agréé</td><td>(case n<sup>o</sup> 53)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..17</td></tr>
+</table>
+
+Cet attribut est utilisé.
+
+<table>
+<tr><td colspan="2">Résultat du contrôle</td><td>(case D)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsqu’un expéditeur agréé introduit la déclaration.
+
+<table>
+<tr><td colspan="2">Code du résultat du contrôle</td><td>(case D)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an2</td></tr>
+</table>
+
+Le code A3 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Date limite</td><td>(case D)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n8</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Scellés apposés</td><td>(case D)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsqu’un expéditeur agréé, dont l’autorisation prévoit l’utilisation de scellés, introduit une déclaration ou lorsqu’un titulaire du régime est autorisé à utiliser des scellés d’un modèle spécial.
+
+<table>
+<tr><td colspan="2">Nombre de scellés</td><td>(case D)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n ..4</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Marques des scellés</td><td>(case D)</td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+</table>
+
+Ce groupe de données est utilisé.
+
+<table>
+<tr><td colspan="2">Marques des scellés</td><td>(case D)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..20</td></tr>
+</table>
+
+Cet attribut doit être utilisé.
+
+<table>
+<tr><td colspan="2">Marques des scellés LNG</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code langue (LNG) figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Garantie</td><td></td></tr>
+<tr><td>Nombre:</td><td colspan="2">9</td></tr>
+</table>
+
+Ce groupe de données doit être utilisé.
+
+<table>
+<tr><td colspan="2">Type de garantie</td><td>(case n<sup>o</sup> 52)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an1</td></tr>
+</table>
+
+Le code figurant dans l’annexe A2 doit être utilisé.
+
+<table>
+<tr><td colspan="2">Référence de la garantie</td><td></td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+</table>
+
+Ce groupe de données est utilisé lorsque la case «Type de garantie» contient le code «0», «1», «2», «4» ou «9».
+
+<table>
+<tr><td colspan="2">NRG</td><td>(case n<sup>o</sup> 52)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..24</td></tr>
+</table>
+
+Cet attribut est utilisé pour indiquer le numéro de référence de la garantie (NRG) si l’attribut «Type de garantie» contient le code «0», «1», «2», «4» ou «9». Dans ce cas, l’attribut «Autre référence de garantie» n’est pas utilisé.
+
+Le «numéro de référence de la garantie» (NRG) attribué par le bureau de douane de garantie pour identifier chaque garantie est structuré comme suit:
+
+<table>
+<tr><th>Champ</th><th>Contenu</th><th>Type de champ</th><th>Exemple</th></tr>
+<tr><td>1</td><td>Deux derniers chiffres de l’année d’acceptation de la garantie (AA)</td><td>Numérique 2</td><td>97</td></tr>
+<tr><td>2</td><td>Identifiant du pays où la garantie est présentée (code pays ISO alpha 2)</td><td>Alphabétique 2</td><td>IT</td></tr>
+<tr><td>3</td><td>Identifiant unique de l’acceptation donnée par le bureau de douane de garantie par année et par pays</td><td>Alphanumérique 12</td><td>1234AB788966</td></tr>
+<tr><td>4</td><td>Chiffre de contrôle</td><td>Alphanumérique 1</td><td>8</td></tr>
+<tr><td>5</td><td>Identifiant du titre de garantie isolée (1 lettre + 6 digits) ou NUL pour les autres types de garantie</td><td>Alphanumérique 7</td><td>A001017</td></tr>
+</table>
+
+Les champs 1 et 2 sont remplis comme indiqué ci-dessus.
+
+Le champ 3 doit être rempli avec un identifiant unique par année et par pays de l’acceptation de la garantie attribué par le bureau de douane de garantie. Les administrations nationales qui souhaitent inclure le numéro de référence du bureau de douane de garantie dans le NRG peuvent utiliser jusqu’aux six premiers caractères du code pour introduire le code national du bureau de douane de garantie
+
+Le champ 4 doit être rempli avec une valeur servant de chiffre de contrôle pour les champs 1 à 3 du NRG. Il permet de déceler une erreur lors de la saisie des premiers quatre champs du NRG.
+
+Le champ 5 ne sera rempli que lorsque le NRG concerne une garantie isolée par titres enregistrée dans le système de transit électronique. Dans ce cas, ce champ doit être rempli avec le numéro d’identification de chaque titre.
+
+<table>
+<tr><td colspan="2">Autre référence de garantie</td><td>(case n<sup>o</sup> 52)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an ..35</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «Type de garantie» contient un autre code que «0», «1», «2», «4» ou «9». Dans ce cas, l’attribut «NRG» n’est pas utilisé.
+
+<table>
+<tr><td colspan="2">Code d’accès</td><td></td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">an4</td></tr>
+</table>
+
+Cet attribut est utilisé lorsque l’attribut «NRG» est utilisé; à défaut, cette donnée est utilisée de manière facultative par chaque pays. En fonction du type de garantie, l’attribut est alloué par le bureau de douane de garantie, la caution ou le titulaire du régime et utilisé pour sécuriser une garantie spécifique.
+
+<table>
+<tr><td colspan="2">Limite de validité UE</td><td></td></tr>
+<tr><td>Nombre:</td><td colspan="2">1</td></tr>
+<tr><td colspan="2">Non valable pour l’UE</td><td>(case n<sup>o</sup> 52)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">n1</td></tr>
+</table>
+
+Les codes suivants doivent être utilisés:
+
+0 non
+
+1 oui
+
+<table>
+<tr><td colspan="2">Limite de validité non UE</td><td></td></tr>
+<tr><td>Nombre:</td><td colspan="2">99</td></tr>
+<tr><td colspan="2">Non valable pour les autres parties contractantes</td><td>(case n<sup>o</sup> 52)</td></tr>
+<tr><td>Type/longueur:</td><td colspan="2">a2</td></tr>
+</table>
+
+Le code pays figurant dans l’annexe A2 est utilisé pour indiquer la partie contractante. Le code d’un État membre de l’Union européenne ne peut pas être utilisé.
+
+Annexe A2 de l’appendice III
+
+## Codes additionnels pour le système de transit électronique
+
+La présente annexe sera supprimée à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+### 1. Codes pays (CNT)
+
+<table>
+<tr><td>Champ</td><td>Contenu</td><td>Type de champ</td><td>Exemple</td></tr>
+<tr><td>1</td><td>Code pays ISO alpha-2</td><td>Alphabétique 2</td><td>IT</td></tr>
+</table>
+
+Le «Code pays ISO alpha-2» est spécifié dans ISO-3166-1 de 1997 et les mises à jour postérieures appliquées.
+
+### 2. Code langue
+
+La codification appliquée est la codification ISO alpha-2 définie dans la norme ISO‑639:1988.
+
+### 3. Code des marchandises (COM)
+
+<table>
+<tr><td>Champ</td><td>Contenu</td><td>Type de champ</td><td>Exemple</td></tr>
+<tr><td>1</td><td>Code du système harmonisé à six chiffres (SH6)</td><td>Numérique 6 (aligné à gauche)</td><td>010290</td></tr>
+</table>
+
+Les six chiffres du système harmonisé (SH6) doivent être utilisés. Le code des marchandises peut être étendu à huit chiffres pour un usage national.
+
+### 4. ...
+
+### 5. Codes emballage
+
+(Recommandation UN/ECE n<sup>o</sup> 21/rév. 8.1 du 12 juillet 2010)
+
+<table>
+<tr><td colspan="2">Aérosol</td><td colspan="2">AE</td></tr>
+<tr><td colspan="2">Ampoule non protégée</td><td colspan="2">AM</td></tr>
+<tr><td colspan="2">Ampoule protégée</td><td colspan="2">AP</td></tr>
+<tr><td colspan="2">Atomiseur</td><td colspan="2">AT</td></tr>
+<tr><td colspan="2">Sac</td><td colspan="2">BG</td></tr>
+<tr><td colspan="2">Sac, contenant souple</td><td colspan="2">FX</td></tr>
+<tr><td colspan="2">Sac de jute/toile («gunny bag»)</td><td colspan="2">GY</td></tr>
+<tr><td colspan="2">Sac «jumbo»</td><td colspan="2">JB</td></tr>
+<tr><td colspan="2">Sac de grande taille</td><td colspan="2">ZB</td></tr>
+<tr><td colspan="2">Sac mutliplis</td><td colspan="2">MB</td></tr>
+<tr><td colspan="2">Sac en papier</td><td colspan="2">5M</td></tr>
+<tr><td colspan="2">Sac en papier multiplis</td><td colspan="2">XJ</td></tr>
+<tr><td colspan="2">Sac en papier multiplis, résistant à l’eau</td><td colspan="2">XK</td></tr>
+<tr><td colspan="2">Sac plastique</td><td colspan="2">EC</td></tr>
+<tr><td colspan="2">Sac en film de plastique</td><td colspan="2">XD</td></tr>
+<tr><td colspan="2">Sac de polyéthylène («polybag»)</td><td colspan="2">44</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac souple («big bag»)</td><td colspan="2">43</td></tr>
+<tr><td colspan="2">Sac en textile</td><td colspan="2">5L</td></tr>
+<tr><td colspan="2">Sac en textile, étanche aux pulvérulents</td><td colspan="2">XG</td></tr>
+<tr><td colspan="2">Sac en textile, résistant à l’eau</td><td colspan="2">XH</td></tr>
+<tr><td colspan="2">Sac en textile, sans revêtement intérieur ni doublure</td><td colspan="2">XF</td></tr>
+<tr><td colspan="2">Sac de manutention («tote»)</td><td colspan="2">TT</td></tr>
+<tr><td colspan="2">Sac en tissu de plastique</td><td colspan="2">5H</td></tr>
+<tr><td colspan="2">Sac en tissu de plastique, étanche aux pulvérulents</td><td colspan="2">XB</td></tr>
+<tr><td colspan="2">Sac en tissu de plastique, résistant à l’eau</td><td colspan="2">XC</td></tr>
+<tr><td colspan="2">Sac en tissu de plastique, sans revêtement intérieur ni doublure</td><td colspan="2">XA</td></tr>
+<tr><td colspan="2">Balle comprimée</td><td colspan="2">BL</td></tr>
+<tr><td colspan="2">Balle non comprimée</td><td colspan="2">BN</td></tr>
+<tr><td colspan="2">Bille</td><td colspan="2">AL</td></tr>
+<tr><td colspan="2">Ballon non protégé</td><td colspan="2">BF</td></tr>
+<tr><td colspan="2">Ballon protégé</td><td colspan="2">BP</td></tr>
+<tr><td colspan="2">Barre</td><td colspan="2">BR</td></tr>
+<tr><td colspan="2">Baril</td><td colspan="2">BA</td></tr>
+<tr><td colspan="2">Tonneau en bois</td><td colspan="2">2C</td></tr>
+<tr><td colspan="2">Tonneau en bois, à bonde</td><td colspan="2">QH</td></tr>
+<tr><td colspan="2">Tonneau en bois, à dessus amovible</td><td colspan="2">QJ</td></tr>
+<tr><td colspan="2">Barres en ballot, botte, faisceau</td><td colspan="2">BZ</td></tr>
+<tr><td colspan="2">Cuvette</td><td colspan="2">BM</td></tr>
+<tr><td colspan="2">Corbeille</td><td colspan="2">BK</td></tr>
+<tr><td colspan="2">Corbeille avec anse, en carton</td><td colspan="2">HC</td></tr>
+<tr><td colspan="2">Corbeille avec anse, en plastique</td><td colspan="2">HA</td></tr>
+<tr><td colspan="2">Corbeille avec anse, en bois</td><td colspan="2">HB</td></tr>
+<tr><td colspan="2">Ceinture</td><td colspan="2">B4</td></tr>
+<tr><td colspan="2">Bac</td><td colspan="2">BI</td></tr>
+<tr><td colspan="2">Bloc</td><td colspan="2">OK</td></tr>
+<tr><td colspan="2">Planche («board»)</td><td colspan="2">BD</td></tr>
+<tr><td colspan="2">Planches («boards») en ballot, botte, faisceau</td><td colspan="2">BY</td></tr>
+<tr><td colspan="2">Bobine</td><td colspan="2">BB</td></tr>
+<tr><td colspan="2">Pièce</td><td colspan="2">BT</td></tr>
+<tr><td colspan="2">Bouteille à gaz</td><td colspan="2">GB</td></tr>
+<tr><td colspan="2">Bouteille non protégée, bulbeuse</td><td colspan="2">BS</td></tr>
+<tr><td colspan="2">Bouteille non protégée, cylindrique</td><td colspan="2">BO</td></tr>
+<tr><td colspan="2">Bouteille protégée, bulbeuse</td><td colspan="2">BV</td></tr>
+<tr><td colspan="2">Bouteille protégée, cylindrique</td><td colspan="2">BQ</td></tr>
+<tr><td colspan="2">Casier à bouteilles</td><td colspan="2">BC</td></tr>
+<tr><td colspan="2">Caisse</td><td colspan="2">BX</td></tr>
+<tr><td colspan="2">Caisse en aluminium</td><td colspan="2">4B</td></tr>
+<tr><td colspan="2">Caisse CHEP (Commonwealth Handling Equipment Pool), Eurobox</td><td colspan="2">DH</td></tr>
+<tr><td colspan="2">Caisse en panneaux de fibres</td><td colspan="2">4G</td></tr>
+<tr><td colspan="2">Caisse pour liquides</td><td colspan="2">BW</td></tr>
+<tr><td colspan="2">Caisse en bois naturel</td><td colspan="2">4C</td></tr>
+<tr><td colspan="2">Caisse en plastique</td><td colspan="2">4H</td></tr>
+<tr><td colspan="2">Caisse en plastique expansé</td><td colspan="2">QR</td></tr>
+<tr><td colspan="2">Caisse en plastique rigide</td><td colspan="2">QS</td></tr>
+<tr><td colspan="2">Caisse en contreplaqué</td><td colspan="2">4D</td></tr>
+<tr><td colspan="2">Caisse en bois reconstitué</td><td colspan="2">4F</td></tr>
+<tr><td colspan="2">Caisse en acier</td><td colspan="2">4A</td></tr>
+<tr><td colspan="2">Caisse en bois naturel, ordinaire</td><td colspan="2">QP</td></tr>
+<tr><td colspan="2">Caisse en bois naturel, à panneaux étanches aux pulvérulents</td><td colspan="2">QQ</td></tr>
+<tr><td colspan="2">Baquet («bucket»)</td><td colspan="2">BJ</td></tr>
+<tr><td colspan="2">Vrac, gaz (à 1 031 mbar et 15 °C)</td><td colspan="2">VG</td></tr>
+<tr><td colspan="2">Vrac, gaz liquéfié (à température et pression anormales)</td><td colspan="2">VQ</td></tr>
+<tr><td colspan="2">Vrac, liquide</td><td colspan="2">VL</td></tr>
+<tr><td colspan="2">Vrac, débris métalliques</td><td colspan="2">VS</td></tr>
+<tr><td colspan="2">Vrac, solide, particules fines («poudres»)</td><td colspan="2">VY</td></tr>
+<tr><td colspan="2">Vrac, solide, particules granuleuses («grains»)</td><td colspan="2">VR</td></tr>
+<tr><td colspan="2">Vrac, solide, particules grosses («nodules»)</td><td colspan="2">VO</td></tr>
+<tr><td colspan="2">Bouquet</td><td colspan="2">BH</td></tr>
+<tr><td colspan="2">Ballot</td><td colspan="2">BE</td></tr>
+<tr><td colspan="2">Ballot, en bois</td><td colspan="2">8C</td></tr>
+<tr><td colspan="2">Barrique</td><td colspan="2">BU</td></tr>
+<tr><td colspan="2">Casier à bière</td><td colspan="2">CG</td></tr>
+<tr><td colspan="2">Cage CHEP (Commonwealth Handling Equipment Pool)</td><td colspan="2">DG</td></tr>
+<tr><td colspan="2">Roll</td><td colspan="2">CW</td></tr>
+<tr><td colspan="2">Bidon cylindrique</td><td colspan="2">CX</td></tr>
+<tr><td colspan="2">Bidon rectangulaire</td><td colspan="2">CA</td></tr>
+<tr><td colspan="2">Bidon avec anse et bec verseur</td><td colspan="2">CD</td></tr>
+<tr><td colspan="2">Bidon («canister»)</td><td colspan="2">CI</td></tr>
+<tr><td colspan="2">Bâche</td><td colspan="2">CZ</td></tr>
+<tr><td colspan="2">Châssis</td><td colspan="2">AV</td></tr>
+<tr><td colspan="2">Bonbonne non protégée</td><td colspan="2">CO</td></tr>
+<tr><td colspan="2">Bonbonne protégée</td><td colspan="2">CP</td></tr>
+<tr><td colspan="2">Carte («card»)</td><td colspan="2">CM</td></tr>
+<tr><td colspan="2">Carte à plat («flatbed»)</td><td colspan="2">FW</td></tr>
+<tr><td colspan="2">Coffre de marin</td><td colspan="2">CT</td></tr>
+<tr><td colspan="2">Cartouche</td><td colspan="2">CQ</td></tr>
+<tr><td colspan="2">Bac</td><td colspan="2">CS</td></tr>
+<tr><td colspan="2">Caisse («case, car»)</td><td colspan="2">7A</td></tr>
+<tr><td colspan="2">Bac isotherme</td><td colspan="2">EI</td></tr>
+<tr><td colspan="2">Caisse à claire-voie</td><td colspan="2">SK</td></tr>
+<tr><td colspan="2">Bac en acier</td><td colspan="2">SS</td></tr>
+<tr><td colspan="2">Caisse palette</td><td colspan="2">ED</td></tr>
+<tr><td colspan="2">Caisse palette en carton</td><td colspan="2">EF</td></tr>
+<tr><td colspan="2">Caisse palette en métal</td><td colspan="2">EH</td></tr>
+<tr><td colspan="2">Caisse palette en plastique</td><td colspan="2">EG</td></tr>
+<tr><td colspan="2">Caisse palette en bois</td><td colspan="2">EE</td></tr>
+<tr><td colspan="2">Caisse en bois</td><td colspan="2">7B</td></tr>
+<tr><td colspan="2">Foudre</td><td colspan="2">CK</td></tr>
+<tr><td colspan="2">Coffre</td><td colspan="2">CH</td></tr>
+<tr><td colspan="2">Bidon à lait</td><td colspan="2">CC</td></tr>
+<tr><td colspan="2">Blister double coque</td><td colspan="2">AI</td></tr>
+<tr><td colspan="2">Cantine</td><td colspan="2">CF</td></tr>
+<tr><td colspan="2">Cercueil</td><td colspan="2">CJ</td></tr>
+<tr><td colspan="2">Glène</td><td colspan="2">CL</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre</td><td colspan="2">6P</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec caisse extérieure en aluminium</td><td colspan="2">YR</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec fût extérieur en aluminium</td><td colspan="2">YQ</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec emballage extérieur en plastique expansé</td><td colspan="2">YY</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec fût extérieur en carton</td><td colspan="2">YW</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec caisse extérieure en carton</td><td colspan="2">YX</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec fût extérieur en contreplaqué</td><td colspan="2">YT</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec emballage extérieur en plastique rigide</td><td colspan="2">YZ</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec caisse extérieure en acier</td><td colspan="2">YP</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec fût extérieur en acier</td><td colspan="2">YN</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec panier extérieur en osier</td><td colspan="2">YV</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en verre avec caisse extérieure en bois</td><td colspan="2">YS</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique</td><td colspan="2">6H</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec caisse extérieure en aluminium</td><td colspan="2">YD</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec fût extérieur en aluminium</td><td colspan="2">YC</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec fût extérieur en carton</td><td colspan="2">YJ</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec caisse extérieure en carton</td><td colspan="2">YK</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec fût extérieur en plastique</td><td colspan="2">YL</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec caisse extérieure en contreplaqué</td><td colspan="2">YH</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec fût extérieur en contreplaqué</td><td colspan="2">YG</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec caisse extérieure en plastique rigide</td><td colspan="2">YM</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec caisse extérieure en acier</td><td colspan="2">YB</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec fût extérieur en acier</td><td colspan="3">YA</td></tr>
+<tr><td colspan="2">Emballage composite, récipient en plastique avec caisse extérieure en bois</td><td colspan="3">YF</td></tr>
+<tr><td colspan="2">Cornet</td><td colspan="3">AJ</td></tr>
+<tr><td colspan="2">Conteneur souple</td><td colspan="3">1F</td></tr>
+<tr><td colspan="2">Conteneur, gallon</td><td colspan="3">GL</td></tr>
+<tr><td colspan="2">Conteneur métallique</td><td colspan="3">ME</td></tr>
+<tr><td colspan="2">Conteneur, sans autre précision qu’équipement de transport</td><td colspan="3">CN</td></tr>
+<tr><td colspan="2">Conteneur extérieur</td><td colspan="3">OU</td></tr>
+<tr><td colspan="2">Étui</td><td colspan="3">CV</td></tr>
+<tr><td colspan="2">Cadre</td><td colspan="3">CR</td></tr>
+<tr><td colspan="2">Casier à bière</td><td colspan="2">CB</td></tr>
+<tr><td colspan="2">Carton pour vrac</td><td colspan="2">DK</td></tr>
+<tr><td colspan="2">Casier en plastique pour vrac</td><td colspan="2">DL</td></tr>
+<tr><td colspan="2">Casier en bois pour vrac</td><td colspan="2">DM</td></tr>
+<tr><td colspan="2">Harasse</td><td colspan="2">FD</td></tr>
+<tr><td colspan="2">Cageot</td><td colspan="2">FC</td></tr>
+<tr><td colspan="2">Casier en métal</td><td colspan="2">MA</td></tr>
+<tr><td colspan="2">Casier à lait</td><td colspan="2">MC</td></tr>
+<tr><td colspan="2">Caisse en carton, à plusieurs niveaux</td><td colspan="2">DC</td></tr>
+<tr><td colspan="2">Casier en plastique, à plusieurs niveaux</td><td colspan="2">DA</td></tr>
+<tr><td colspan="2">Casier en bois, à plusieurs niveaux</td><td colspan="2">DB</td></tr>
+<tr><td colspan="2">Cagette («shallow crate»)</td><td colspan="2">SC</td></tr>
+<tr><td colspan="2">Casier en bois</td><td colspan="2">8B</td></tr>
+<tr><td colspan="2">Manne</td><td colspan="2">CE</td></tr>
+<tr><td colspan="2">Coupe</td><td colspan="2">CU</td></tr>
+<tr><td colspan="2">Cylindre</td><td colspan="2">CY</td></tr>
+<tr><td colspan="2">Dame-jeanne non protégée</td><td colspan="2">DJ</td></tr>
+<tr><td colspan="2">Dame-jeanne protégée</td><td colspan="2">DP</td></tr>
+<tr><td colspan="2">Générateur aérosol</td><td colspan="2">DN</td></tr>
+<tr><td colspan="2">Fût</td><td colspan="2">DR</td></tr>
+<tr><td colspan="2">Fût en aluminium</td><td colspan="2">1B</td></tr>
+<tr><td colspan="2">Fût en aluminium, à dessus non amovible</td><td colspan="2">QC</td></tr>
+<tr><td colspan="2">Fût en aluminium, à dessus amovible</td><td colspan="2">QD</td></tr>
+<tr><td colspan="2">Fût en carton</td><td colspan="2">1G</td></tr>
+<tr><td colspan="2">Fût en fer</td><td colspan="2">DI</td></tr>
+<tr><td colspan="2">Fût en plastique</td><td colspan="2">IH</td></tr>
+<tr><td colspan="2">Fût en plastique, à dessus non amovible</td><td colspan="2">QF</td></tr>
+<tr><td colspan="2">Fût en plastique, à dessus amovible</td><td colspan="2">QG</td></tr>
+<tr><td colspan="2">Fût en contreplaqué</td><td colspan="2">1D</td></tr>
+<tr><td colspan="2">Fût en acier</td><td colspan="2">1A</td></tr>
+<tr><td colspan="2">Fût en acier, à dessus non amovible</td><td colspan="2">QA</td></tr>
+<tr><td colspan="2">Fût en acier, à dessus amovible</td><td colspan="2">QB</td></tr>
+<tr><td colspan="2">Fût en bois</td><td colspan="3">1 W</td></tr>
+<tr><td colspan="2">Enveloppe</td><td colspan="3">EN</td></tr>
+<tr><td colspan="2">Enveloppe en acier</td><td colspan="3">SV</td></tr>
+<tr><td colspan="2">Glène</td><td colspan="3">FP</td></tr>
+<tr><td colspan="2">Futaille</td><td colspan="3">FI</td></tr>
+<tr><td colspan="2">Flacon</td><td colspan="3">FL</td></tr>
+<tr><td colspan="2">Sac «Flexibag»</td><td colspan="3">FB</td></tr>
+<tr><td colspan="2">Flexitank</td><td colspan="3">FE</td></tr>
+<tr><td colspan="2">Barquette pour aliments («foodtainer»)</td><td colspan="3">FT</td></tr>
+<tr><td colspan="2">Coffret</td><td colspan="3">FO</td></tr>
+<tr><td colspan="2">Châssis</td><td colspan="3">FR</td></tr>
+<tr><td colspan="2">Poutrelle</td><td colspan="3">GI</td></tr>
+<tr><td colspan="2">Poutrelles en ballot, botte, faisceau</td><td colspan="3">GZ</td></tr>
+<tr><td colspan="2">Panier</td><td colspan="3">HR</td></tr>
+<tr><td colspan="2">Crochet («hanger»)</td><td colspan="3">HN</td></tr>
+<tr><td colspan="2">Tonneau</td><td colspan="3">HG</td></tr>
+<tr><td colspan="2">Lingot</td><td colspan="3">IN</td></tr>
+<tr><td colspan="2">Lingots en ballot, botte, faisceau</td><td colspan="3">IZ</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac</td><td colspan="3">WA</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en aluminium</td><td colspan="3">WD</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, en aluminium</td><td colspan="3">WL</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en aluminium, pour remplissage ou vidange sous pression supérieure à 10 kPa (0,1 bar) 10 kpa (0,1 bar)</td><td colspan="3">WH</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en matériaux composites</td><td colspan="3">ZS</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, en matériau composite, avec récipient intérieur en plastique souple</td><td colspan="3">ZR</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en matériau composite, avec récipient intérieur en plastique souple, pour remplissage ou vidange sous pression</td><td colspan="3">ZP</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac solide, en matériau composite, avec récipient intérieur en plastique souple</td><td colspan="3">ZM</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, en matériau composite, avec récipient intérieur en plastique rigide</td><td colspan="3">ZQ</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en matériau composite, avec récipient intérieur en plastique rigide, pour remplissage ou vidange sous pression</td><td colspan="3">ZN</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac solide, en matériau composite, avec revêtement intérieur en plastique rigide</td><td colspan="3">ZL</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en panneaux de fibres</td><td colspan="3">ZT</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, souple</td><td colspan="3">ZU</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, métallique</td><td colspan="3">WF</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, métallique</td><td colspan="3">WM</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en métal autre que l’acier</td><td colspan="2">ZV</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, métallique, pour remplissage ou vidange sous pression supérieure à 10 kPa (0,1 bar) 10 kPa (0,1 bar)</td><td colspan="2">WJ</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en bois naturel</td><td colspan="2">ZW</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en bois naturel, avec doublure</td><td colspan="2">WU</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en papier multiplis</td><td colspan="2">ZA</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en papier multiplis, résistant à l’eau</td><td colspan="2">ZC</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en film de plastique</td><td colspan="2">WS</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en contreplaqué</td><td colspan="2">ZX</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en contreplaqué, avec doublure</td><td colspan="2">WY</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en bois reconstitué</td><td colspan="2">ZY</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en bois reconstitué, avec doublure</td><td colspan="2">WZ</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en plastique rigide</td><td colspan="2">AA</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, en plastique rigide, autoportant</td><td colspan="2">ZK</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en plastique rigide, autoportant, pour remplissage ou vidange sous pression</td><td colspan="2">ZH</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac solide, en plastique rigide, autoportant</td><td colspan="2">ZF</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, en plastique rigide, avec équipement de structure</td><td colspan="2">ZJ</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en plastique rigide, avec équipement de structure, pour remplissage ou vidange sous pression</td><td colspan="2">ZG</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac solide, en plastique rigide, avec équipement de structure</td><td colspan="2">ZD</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en acier</td><td colspan="2">WC</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac liquide, en acier</td><td colspan="2">WK</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en acier, pour remplissage ou vidange sous pression supérieure à 10 kpa (0,1 bar) (0,1 bar)</td><td colspan="2">WG</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en textile sans revêtement intérieur ni doublure</td><td colspan="2">WT</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en textile, avec revêtement intérieur</td><td colspan="2">WV</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en textile, avec revêtement intérieur et doublure</td><td colspan="2">WX</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en textile, avec doublure</td><td colspan="2">WW</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en tissu de plastique, avec revêtement intérieur</td><td colspan="2">WP</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en tissu de plastique, avec revêtement intérieur et doublure</td><td colspan="2">WR</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en tissu de plastique, avec doublure</td><td colspan="2">WQ</td></tr>
+<tr><td colspan="2">Grand récipient pour vrac, en tissu de plastique, sans revêtement intérieur ni doublure</td><td colspan="2">WN</td></tr>
+<tr><td colspan="2">Jarre</td><td colspan="2">JR</td></tr>
+<tr><td colspan="2">Jerricane cylindrique</td><td colspan="2">JY</td></tr>
+<tr><td colspan="2">Jerricane en plastique</td><td colspan="2">3H</td></tr>
+<tr><td colspan="2">Jerricane en plastique, à dessus non amovible</td><td colspan="2">QM</td></tr>
+<tr><td colspan="2">Jerricane en plastique, à dessus amovible</td><td colspan="3">QN</td></tr>
+<tr><td colspan="2">Jerricane rectangulaire</td><td colspan="3">JC</td></tr>
+<tr><td colspan="2">Jerricane en acier</td><td colspan="3">3A</td></tr>
+<tr><td colspan="2">Jerricane en acier, à dessus non amovible</td><td colspan="3">QK</td></tr>
+<tr><td colspan="2">Jerricane en acier, à dessus amovible</td><td colspan="3">QL</td></tr>
+<tr><td colspan="2">Cruche</td><td colspan="3">JG</td></tr>
+<tr><td colspan="2">Sac en jute</td><td colspan="3">JT</td></tr>
+<tr><td colspan="2">Tonnelet</td><td colspan="3">KG</td></tr>
+<tr><td colspan="2">Boîte à outils (kit)</td><td colspan="3">KI</td></tr>
+<tr><td colspan="2">Cadre («liftvan»)</td><td colspan="3">LV</td></tr>
+<tr><td colspan="2">Grume</td><td colspan="3">LG</td></tr>
+<tr><td colspan="2">Grumes en ballot, botte, faisceau</td><td colspan="3">LZ</td></tr>
+<tr><td colspan="2">Lot</td><td colspan="3">LT</td></tr>
+<tr><td colspan="2">Case en bois (lug)</td><td colspan="3">LU</td></tr>
+<tr><td colspan="2">Bagage</td><td colspan="3">LE</td></tr>
+<tr><td colspan="2">Natte</td><td colspan="3">MT</td></tr>
+<tr><td colspan="2">Boîte d’allumettes</td><td colspan="3">MX</td></tr>
+<tr><td colspan="2">Définition commune</td><td colspan="3">ZZ</td></tr>
+<tr><td colspan="2">Boîtes gigognes</td><td colspan="3">NS</td></tr>
+<tr><td colspan="2">Filet</td><td colspan="3">NT</td></tr>
+<tr><td colspan="2">Filet tubulaire, en plastique</td><td colspan="3">NU</td></tr>
+<tr><td colspan="2">Filet tubulaire, en textile</td><td colspan="3">NV</td></tr>
+<tr><td colspan="2">Non disponible</td><td colspan="3">NA</td></tr>
+<tr><td colspan="2">Octabin</td><td colspan="3">OT</td></tr>
+<tr><td colspan="2">Colis («package»)</td><td colspan="3">PK</td></tr>
+<tr><td colspan="2">Emballage en carton, avec trous de préhension</td><td colspan="3">IK</td></tr>
+<tr><td colspan="2">Emballage de présentation, en carton</td><td colspan="3">IB</td></tr>
+<tr><td colspan="2">Emballage de présentation, en métal</td><td colspan="3">ID</td></tr>
+<tr><td colspan="2">Emballage de présentation, en plastique</td><td colspan="3">IC</td></tr>
+<tr><td colspan="2">Emballage de présentation, en bois</td><td colspan="3">IA</td></tr>
+<tr><td colspan="2">Emballage tubulaire</td><td colspan="3">IF</td></tr>
+<tr><td colspan="2">Emballage, enrobé dans du papier</td><td colspan="3">IG</td></tr>
+<tr><td colspan="2">Emballage à fenêtre</td><td colspan="3">IE</td></tr>
+<tr><td colspan="2">Paquet</td><td colspan="3">PA</td></tr>
+<tr><td colspan="2">Seau</td><td colspan="2">PL</td></tr>
+<tr><td colspan="2">Palette</td><td colspan="2">PX</td></tr>
+<tr><td colspan="2">Palette, 100 cm × 110 cm</td><td colspan="2">AH</td></tr>
+<tr><td colspan="2">Palette, AS 4068-1993</td><td colspan="2">OD</td></tr>
+<tr><td colspan="2">Palette-caisse («pallet-box»), boîte non sertie doublée d’une palette</td><td colspan="2">PB</td></tr>
+<tr><td colspan="2">Palette CHEP (Commonwealth Handling Equipment Tool) 100 cm × 120 cm</td><td colspan="2">OC</td></tr>
+<tr><td colspan="2">Palette CHEP (Commonwealth Handling Equipment Tool) 40 cm × 60 cm</td><td colspan="2">OA</td></tr>
+<tr><td colspan="2">Palette CHEP (Commonwealth Handling Equipment Tool) 80 cm × 120 cm</td><td colspan="2">OB</td></tr>
+<tr><td colspan="2">Palette ISO T11</td><td colspan="2">OE</td></tr>
+<tr><td colspan="2">Palette modulaire, rehausses de dimensions 80 cm × 100 cm</td><td colspan="2">PD</td></tr>
+<tr><td colspan="2">Palette modulaire, rehausses de dimensions 80 cm × 120 cm</td><td colspan="2">PE</td></tr>
+<tr><td colspan="2">Palette modulaire, rehausses de dimensions 80 cm × 60 cm</td><td colspan="2">AF</td></tr>
+<tr><td colspan="2">Palette, housse thermorétractable</td><td colspan="2">AG</td></tr>
+<tr><td colspan="2">Palette en carton ondulé lourd («tri-wall»)</td><td colspan="2">TW</td></tr>
+<tr><td colspan="2">Palette en bois</td><td colspan="2">8A</td></tr>
+<tr><td colspan="2">Cuvette («pan»)</td><td colspan="2">P2</td></tr>
+<tr><td colspan="2">Colis («parcel»)</td><td colspan="2">PC</td></tr>
+<tr><td colspan="2">Parc («pen»)</td><td colspan="2">PF</td></tr>
+<tr><td colspan="2">Pièce</td><td colspan="2">PP</td></tr>
+<tr><td colspan="2">Tuyau</td><td colspan="2">PI</td></tr>
+<tr><td colspan="2">Tuyaux en ballot, botte, faisceau</td><td colspan="2">PV</td></tr>
+<tr><td colspan="2">Pichet</td><td colspan="2">PH</td></tr>
+<tr><td colspan="2">Planche</td><td colspan="2">PN</td></tr>
+<tr><td colspan="2">Planches («planks») en ballot, botte, faisceau</td><td colspan="2">PZ</td></tr>
+<tr><td colspan="2">Plaque</td><td colspan="2">PG</td></tr>
+<tr><td colspan="2">Plaques en ballot, botte, faisceau</td><td colspan="2">PY</td></tr>
+<tr><td colspan="2">Plate-forme, poids et dimension non spécifiés</td><td colspan="2">OF</td></tr>
+<tr><td colspan="2">Pichet</td><td colspan="2">PT</td></tr>
+<tr><td colspan="2">Sachet («pouch»)</td><td colspan="2">PO</td></tr>
+<tr><td colspan="2">Flein</td><td colspan="2">PJ</td></tr>
+<tr><td colspan="2">Rayonnage («rack»)</td><td colspan="2">RK</td></tr>
+<tr><td colspan="2">Penderie mobile</td><td colspan="2">RJ</td></tr>
+<tr><td colspan="2">Réceptacle en carton</td><td colspan="2">AB</td></tr>
+<tr><td colspan="2">Réceptacle en verre</td><td colspan="2">GR</td></tr>
+<tr><td colspan="2">Réceptacle en métal</td><td colspan="3">MR</td></tr>
+<tr><td colspan="2">Réceptacle en papier</td><td colspan="3">AC</td></tr>
+<tr><td colspan="2">Réceptacle en plastique</td><td colspan="3">PR</td></tr>
+<tr><td colspan="2">Réceptacle, enrobage en plastique</td><td colspan="3">MW</td></tr>
+<tr><td colspan="2">Réceptacle en bois</td><td colspan="3">AD</td></tr>
+<tr><td colspan="2">Filet à fruits</td><td colspan="3">RT</td></tr>
+<tr><td colspan="2">Touret</td><td colspan="3">RL</td></tr>
+<tr><td colspan="2">Bague</td><td colspan="3">RG</td></tr>
+<tr><td colspan="2">Tige</td><td colspan="3">RD</td></tr>
+<tr><td colspan="2">Tiges en ballot, botte, faisceau</td><td colspan="3">RZ</td></tr>
+<tr><td colspan="2">Rouleau</td><td colspan="3">RO</td></tr>
+<tr><td colspan="2">Poutrelle</td><td colspan="3">SH</td></tr>
+<tr><td colspan="2">Sac («sack»)</td><td colspan="3">SA</td></tr>
+<tr><td colspan="2">Sac multicorde</td><td colspan="3">MS</td></tr>
+<tr><td colspan="2">Coffre de marin</td><td colspan="3">SE</td></tr>
+<tr><td colspan="2">Assortiment («set»)</td><td colspan="3">SX</td></tr>
+<tr><td colspan="2">Feuille</td><td colspan="3">ST</td></tr>
+<tr><td colspan="2">Feuille, enrobage en plastique</td><td colspan="3">SP</td></tr>
+<tr><td colspan="2">Tôle</td><td colspan="3">SM</td></tr>
+<tr><td colspan="2">Tôles en ballot, botte, faisceau</td><td colspan="3">SZ</td></tr>
+<tr><td colspan="2">Emballage thermorétractable</td><td colspan="3">SW</td></tr>
+<tr><td colspan="2">Luge («skid»)</td><td colspan="3">SI</td></tr>
+<tr><td colspan="2">Feuille calandrée</td><td colspan="3">SB</td></tr>
+<tr><td colspan="2">Manchon</td><td colspan="3">SY</td></tr>
+<tr><td colspan="2">Feuille-palette</td><td colspan="3">SL</td></tr>
+<tr><td colspan="2">Dévidoir («spindle»)</td><td colspan="3">SD</td></tr>
+<tr><td colspan="2">Dévidoir («spool»)</td><td colspan="3">SO</td></tr>
+<tr><td colspan="2">Valise</td><td colspan="3">SU</td></tr>
+<tr><td colspan="2">Tablette</td><td colspan="3">T1</td></tr>
+<tr><td colspan="2">Conteneur-citerne, générique</td><td colspan="3">TG</td></tr>
+<tr><td colspan="2">Citerne cylindrique</td><td colspan="3">TY</td></tr>
+<tr><td colspan="2">Citerne rectangulaire</td><td colspan="3">TK</td></tr>
+<tr><td colspan="2">Caisse à thé</td><td colspan="3">TC</td></tr>
+<tr><td colspan="2">Feuillette</td><td colspan="2">TI</td></tr>
+<tr><td colspan="2">Boîte en fer-blanc</td><td colspan="2">TN</td></tr>
+<tr><td colspan="2">Plateau</td><td colspan="2">PU</td></tr>
+<tr><td colspan="2">Plateau contenant des articles empilés à plat</td><td colspan="2">GU</td></tr>
+<tr><td colspan="2">Plateau en carton, un niveau, sans couvercle</td><td colspan="2">DV</td></tr>
+<tr><td colspan="2">Plateau en plastique, un niveau, sans couvercle</td><td colspan="2">DS</td></tr>
+<tr><td colspan="2">Plateau en polystyrène, un niveau, sans couvercle</td><td colspan="2">DU</td></tr>
+<tr><td colspan="2">Plateau en bois, un niveau, sans couvercle</td><td colspan="2">DT</td></tr>
+<tr><td colspan="2">Plateau rigide, empilable, à couvercle (CEN TS 14482: 2002)</td><td colspan="2">IL</td></tr>
+<tr><td colspan="2">Plateau en carton, deux niveaux, sans couvercle</td><td colspan="2">DY</td></tr>
+<tr><td colspan="2">Plateau en plastique, deux niveaux, sans couvercle</td><td colspan="2">DW</td></tr>
+<tr><td colspan="2">Plateau en bois, deux niveaux, sans couvercle</td><td colspan="2">DX</td></tr>
+<tr><td colspan="2">Malle</td><td colspan="2">TR</td></tr>
+<tr><td colspan="2">Faisceau</td><td colspan="2">TS</td></tr>
+<tr><td colspan="2">Baquet («tub»)</td><td colspan="2">TB</td></tr>
+<tr><td colspan="2">Baquet avec couvercle</td><td colspan="2">TL</td></tr>
+<tr><td colspan="2">Tôle</td><td colspan="2">TU</td></tr>
+<tr><td colspan="2">Tube déformable</td><td colspan="2">TD</td></tr>
+<tr><td colspan="2">Tube à embout</td><td colspan="2">TV</td></tr>
+<tr><td colspan="2">Tubes en ballot, botte, faisceau</td><td colspan="2">TZ</td></tr>
+<tr><td colspan="2">Tonne</td><td colspan="2">TO</td></tr>
+<tr><td colspan="2">Pneumatique</td><td colspan="2">TE</td></tr>
+<tr><td colspan="2">Libre (animal)</td><td colspan="2">UC</td></tr>
+<tr><td colspan="2">Unité</td><td colspan="2">UN</td></tr>
+<tr><td colspan="2">Marchandises non emballées</td><td colspan="2">NE</td></tr>
+<tr><td colspan="2">Non emballé ni conditionné, plusieurs unités</td><td colspan="2">NG</td></tr>
+<tr><td colspan="2">Non emballé ni conditionné, une seule unité</td><td colspan="2">NF</td></tr>
+<tr><td colspan="2">Emballage sous vide</td><td colspan="2">VP</td></tr>
+<tr><td colspan="2">Vrac, liquide</td><td colspan="2">VK</td></tr>
+<tr><td colspan="2">Cuve</td><td colspan="2">VA</td></tr>
+<tr><td colspan="2">Véhicule</td><td colspan="2">VN</td></tr>
+<tr><td colspan="2">Fiole</td><td colspan="2">VI</td></tr>
+<tr><td colspan="2">Bonbonne clissée</td><td colspan="2">WB</td></tr>
+</table>
+
+### 6. Code document précédent
+
+Les codes applicables sont les suivants:
+
+- T2a = Déclaration de transit concernant une procédure de transit commun relative à des marchandises de l’Union.
+- T2F = Déclaration de transit concernant une procédure de transit commun relative à des marchandises de l’Union provenant de ou allant vers une partie du territoire douanier de l’Union qui n’applique pas les règles de l’Union relatives à la taxe sur la valeur ajoutée.
+- T2CIM = Marchandises de l’Union transportées sous le couvert d’une lettre de voiture CIM .
+- T2TIR = Marchandises de l’Union transportées sous le couvert d’un carnet TIR.
+- T2ATA = Marchandises de l’Union transportées sous le couvert d’un carnet ATA.
+- T2L = Document administratif unique certifiant le statut douanier des marchandises de l’Union.
+- T2LF = Document administratif unique certifiant le statut douanier des marchandises de l’Union dans les échanges entre parties du territoire douanier de l’Union qui appliquent les règles de l’Union relatives à la taxe sur la valeur ajoutée et parties dudit territoire qui ne les appliquent pas.
+- T1 = Déclaration de transit concernant une procédure de transit commun relative à des marchandises non Union.
+- \*...... .................................................................................
+- \* tout autre document précédent (an..5)
+
+### 7. Codes documents/Certificats produits
+
+(codes numériques extraits du répertoire UN pour l’échange électronique de données pour l’administration, le commerce et le transport 1997b: liste de codes pour l’élément donnée 1001, «Nom du document/message, codé»).
+
+<table>
+<tr><td>Certificat de conformité</td><td>2</td></tr>
+<tr><td>Certificat de qualité</td><td>3</td></tr>
+<tr><td>Certificat de circulation des marchandises A.TR.1</td><td>18</td></tr>
+<tr><td>Liste de conteneurs</td><td>235</td></tr>
+<tr><td>Liste de colisage</td><td>271</td></tr>
+<tr><td>Facture *pro forma*</td><td>325</td></tr>
+<tr><td>Facture commerciale</td><td>380</td></tr>
+<tr><td>Feuille de route émise par un transitaire</td><td>703</td></tr>
+<tr><td>Connaissement principal</td><td>704</td></tr>
+<tr><td>Connaissement</td><td>705</td></tr>
+<tr><td>Connaissement émis par un transitaire</td><td>714</td></tr>
+<tr><td>Lettre de voiture SMGS (fer)</td><td>722</td></tr>
+<tr><td>Lettre de voiture pour les transports routiers</td><td>730</td></tr>
+<tr><td>Lettre de transport aérien</td><td>740</td></tr>
+<tr><td>Lettre de transport aérien principal</td><td>741</td></tr>
+<tr><td>Bulletin d’expédition (colis postaux)</td><td>750</td></tr>
+<tr><td>Document de transport multimodal/combiné (terme générique)</td><td>760</td></tr>
+<tr><td>Manifeste de chargement</td><td>785</td></tr>
+<tr><td>Bordereau</td><td>787</td></tr>
+<tr><td>Déclaration d’expédition formulaire T</td><td>820</td></tr>
+<tr><td>Déclaration d’expédition formulaire T1</td><td>821</td></tr>
+<tr><td>Déclaration d’expédition formulaire T2</td><td>822</td></tr>
+<tr><td>Déclaration d’expédition formulaire T2L</td><td>825</td></tr>
+<tr><td>Déclaration de marchandises pour exportation</td><td>830</td></tr>
+<tr><td>Certificat phytosanitaire</td><td>851</td></tr>
+<tr><td>Certificat de salubrité</td><td>852</td></tr>
+<tr><td>Certificat vétérinaire</td><td>853</td></tr>
+<tr><td>Certificat d’origine (terme générique)</td><td>861</td></tr>
+<tr><td>Déclaration d’origine</td><td>862</td></tr>
+<tr><td>Certificat d’origine préférentiel</td><td>864</td></tr>
+<tr><td>Certificat d’origine «formule A»› (SPG</td><td>865</td></tr>
+<tr><td>Licence d’importation</td><td>911</td></tr>
+<tr><td>Déclaration de la cargaison (à l’arrivée)</td><td>933</td></tr>
+<tr><td>Permis d’embargo</td><td>941</td></tr>
+<tr><td>Formulaire TIF</td><td>951</td></tr>
+<tr><td>Carnet TIR</td><td>952</td></tr>
+<tr><td>Certificat de circulation des marchandises d’origine EUR 1</td><td>954</td></tr>
+<tr><td>Carnet ATA</td><td>955</td></tr>
+<tr><td>Autres</td><td>ZZZ</td></tr>
+</table>
+
+### 8. Codes des modes de transport, postes et autres envois
+
+A. Code à un chiffre (obligatoire)
+
+B. Code à deux chiffres (deuxième chiffre facultatif pour les parties contractantes).
+
+<table>
+<tr><td>A.</td><td>B.</td><td>Dénomination:</td></tr>
+<tr><td>1</td><td>10</td><td>Transport maritime</td></tr>
+<tr><td></td><td>12</td><td>Wagon de chemin de fer sur navire de mer</td></tr>
+<tr><td></td><td>16</td><td>Véhicule routier à moteur sur navire de mer</td></tr>
+<tr><td></td><td>17</td><td>Remorque ou semi-remorque sur navire de mer</td></tr>
+<tr><td></td><td>18</td><td>Bateau de navigation intérieure sur navire de mer</td></tr>
+<tr><td>2</td><td>20</td><td>Transport par chemin de fer</td></tr>
+<tr><td></td><td>23</td><td>Véhicule routier sur wagon de chemin de fer</td></tr>
+<tr><td>3</td><td>30</td><td>Transport par route</td></tr>
+<tr><td>4</td><td>40</td><td>Transport par air</td></tr>
+<tr><td>5</td><td>50</td><td>Envois postaux</td></tr>
+<tr><td>7</td><td>70</td><td>Installations de transport fixes</td></tr>
+<tr><td>8</td><td>80</td><td>Transport par navigation intérieure</td></tr>
+<tr><td>9</td><td>90</td><td>Propulsion propre</td></tr>
+</table>
+
+### 9. Code mentions spéciales
+
+Les codes suivants sont applicables:
+
+- DG0 = Exportation d’un pays de transit commun soumise à des restrictions ou exportation de l’Union soumise à des restrictions
+- DG1 = Exportation d’un pays de transit commun soumise à des droits de douane ou exportation de l’Union soumise à des droits de douane
+- DG2 = Exportation
+
+Des codes mentions spéciales additionnels peuvent également être définis au niveau du domaine national.
+
+### 10. Codes types de la garantie
+
+La liste des codes applicables est la suivante:
+
+<table>
+<tr><th>Situation</th><th>Code</th><th>Autres indications</th></tr>
+<tr><td>En cas de dispense de garantie (art. 53 de l’appendice I)</td><td>0</td><td>– numéro de certificat de dispense de garantie</td></tr>
+<tr><td>En cas de garantie globale</td><td>1</td><td>– numéro de certificat de garantie globale – bureau de douane de garantie</td></tr>
+<tr><td>En cas de garantie isolée par caution</td><td>2</td><td>– référence de l’acte de cautionnement – bureau de douane de garantie</td></tr>
+<tr><td>En cas de garantie isolée en espèces</td><td>3</td><td>[tab]</td></tr>
+<tr><td>En cas de garantie isolée par titres</td><td>4</td><td>– numéro du titre de garantie isolée</td></tr>
+<tr><td>En cas de dispense de garantie (art. 11 de l’appendice I)</td><td>6</td><td>[tab]</td></tr>
+<tr><td>En cas de dispense de garantie sur la base d’un agrément (art. 10(2)(a) de la Convention)</td><td>A.</td><td>[tab]</td></tr>
+<tr><td>En cas de dispense de garantie pour le parcours entre le bureau de douane de départ et le bureau de douane de passage (art. 10(2)(b) de la Convention)</td><td>7</td><td>[tab]</td></tr>
+<tr><td>En cas de garantie isolée du type repris sous le point 3 de l’annexe I de l’appendice I</td><td>9</td><td>– référence à l’acte de cautionnement – bureau de de douane de garantie</td></tr>
+</table>
+
+Indication des pays
+
+Les codes retenus pour la case 51 sont applicables
+
+### 11. Numéro de référence du bureau de douane (COR)
+
+<table>
+<tr><th>Champ</th><th>Contenu</th><th>Type de champ</th><th>Exemple</th></tr>
+<tr><td>1</td><td>Identifiant du pays auquel le bureau de douane appartient (voir CNT)</td><td>Alphabétique 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Numéro national du bureau de douane</td><td>Alphanumérique 6</td><td>0830AB</td></tr>
+</table>
+
+Le champ 1 est rempli comme indiqué ci-dessus.
+
+Le champ 2 doit être rempli librement avec un code alphanumérique composé de six caractères. Ces six caractères permettent aux administrations nationales de définir une hiérarchie entre les bureaux de douane, s’il y a lieu.
+
+Les bureaux de douane de destination figurent dans la liste des bureaux compétents (LBD sur le site EUROPA) pour les opérations de transit commun.
+
+Annexe A3 de l’appendice III
+
+## Modèle de document d’accompagnement transit
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image1.png)
+
+Annexe A4 de l’appendice III
+
+## Notes explicatives et éléments d’informations (données) du document d’accompagnement transit
+
+Le papier à utiliser pour le document d’accompagnement transit peut être de couleur verte.
+
+Le document d’accompagnement transit est imprimé sur la base des données fournies par la déclaration de transit, éventuellement rectifiée par le titulaire du régime ou vérifiée par le bureau de douane de départ, complétées par:
+
+### 1. Le MRN (numéro de référence maître)
+
+L’information est présentée sous une forme alphanumérique à 18 caractères selon le modèle suivant:
+
+<table>
+<tr><td>Champ</td><td>Contenu</td><td>Type de champ</td><td>Exemple</td></tr>
+<tr><td>1</td><td>Deux derniers chiffres de l’année d’acceptation officielle du mouvement de transit (AA)</td><td>Numérique 2</td><td>97</td></tr>
+<tr><td>2</td><td>Identifiant du pays de départ du mouvement (code pays ISO alpha)</td><td>Alphabétique 2</td><td>IT</td></tr>
+<tr><td>3</td><td>Identifiant unique pour le mouvement de transit par année et par pays</td><td>Alphanumérique 13</td><td>9876AB8890123</td></tr>
+<tr><td>4</td><td>Chiffre de contrôle</td><td>Alphanumérique 1</td><td>5</td></tr>
+</table>
+
+Les champs 1 et 2 sont remplis comme indiqué ci-dessus.
+
+Le champ 3 doit être rempli avec un code identifiant l’opération de transit. La manière de remplir ce champ relève de la compétence des administrations nationales mais chaque opération de transit traitée dans l’année dans le pays concerné doit être identifiée par un numéro unique.
+
+Les administrations nationales qui souhaitent inclure le numéro de référence des autorités douanières dans le NRM peuvent utiliser jusqu’aux six premiers caractères du code.
+
+Le champ 4 doit recevoir une valeur servant de chiffre de contrôle pour le NRM. Il permet de déceler une erreur lors de la saisie du numéro complet.
+
+Le NRM est également imprimé sous la forme de code à barres à l’aide du standard «code 128», en utilisant le jeu de caractères «B».
+
+### 2.
+
+Case n<sup>o</sup> 3:
+
+- – première subdivision: numéro de série de la feuille imprimée;
+- – deuxième subdivision: nombre total des feuilles imprimées (y compris les listes d’articles);
+- – ne doit pas être utilisée lorsqu’il n’y a qu’un seul article.
+
+### 3. Dans l’espace situé à droite de la case n<sup>o</sup> 8:
+
+Le nom et l’adresse du bureau de douane auquel l’exemplaire de renvoi du document d’accompagnement doit être adressé lorsque le plan de continuité des opérations pour le transit est utilisé.
+
+Toute référence au «principal obligé» s’entend comme faite au «titulaire du régime.
+
+### 4.
+
+Case C:
+
+- – le nom du bureau de douane de départ;
+- – le numéro de référence du bureau de douane de départ;
+- – la date d’acceptation de la déclaration de transit;
+- – le nom et le numéro d’agrément de l’expéditeur agréé (s’il y a lieu).
+
+### 5.
+
+Case D:
+
+- – le résultat du contrôle;
+- – les scellés posés ou l’indication «– –» identifiant la «Dispense – 99201»;
+- – la mention «Itinéraire obligatoire», s’il y a lieu.
+
+Le document d’accompagnement transit ne fait l’objet d’aucune modification, adjonction ou suppression, sauf indication contraire de la présente convention.
+
+### 6. Formalités en cours de route
+
+Entre le moment où les marchandises ont quitté le bureau de douane de départ et celui où elles arrivent au bureau de douane de destination, il se peut que certaines mentions doivent être ajoutées sur le document d’accompagnement transit qui accompagne les marchandises. Ces mentions concernent l’opération de transport et doivent être ajoutées sur cet exemplaire par le transporteur responsable du moyen de transport sur lequel les marchandises se trouvent chargées, au fur et à mesure du déroulement des opérations. Ces mentions peuvent être portées à la main de façon lisible. Dans ce cas, cet exemplaire doit être complété à l’encre et en caractères majuscules d’imprimerie.
+
+Le transporteur ne peut procéder au transbordement qu’après avoir obtenu l’autorisation des autorités compétentes du pays où le transbordement doit avoir lieu.
+
+Lorsqu’elles estiment que l’opération de transit commun peut se poursuivre normalement, et après avoir pris le cas échéant les mesures nécessaires, ces autorités visent les documents d’accompagnement transit.
+
+Les autorités douanières du bureau de douane de passage ou du bureau de douane de destination, selon le cas, ont l’obligation d’intégrer dans le système les données ajoutées sur le document d’accompagnement transit. Les données peuvent aussi être introduites par le destinataire agréé.
+
+Ces mentions se rapportent aux cases suivantes:
+
+- – Transbordements: utiliser la case N<sup>o</sup> 55
+
+Case 55: Transbordements
+
+Les trois premières lignes de cette case sont à remplir par le transporteur lorsque, au cours de l’opération considérée, les marchandises en cause sont transbordées d’un moyen de transport sur un autre ou d’un conteneur à un autre.
+
+Toutefois, lorsque les marchandises sont transportées dans des conteneurs destinés à être acheminés par véhicules routiers, les autorités douanières peuvent autoriser le titulaire du régime à ne pas remplir la case 18, si la situation logistique au point de départ est susceptible d’empêcher que soient fournies l’identité et la nationalité du moyen de transport au moment d’établir la déclaration de transit et si ces autorités sont en mesure de garantir que les informations requises sur ces moyens de transport sont insérées par la suite dans la case 55.
+
+Autres incidents: utiliser la case 56
+
+Case 56: Autres incidents au cours du transport
+
+Case à compléter conformément aux obligations existant en matière de transit.
+
+En outre, lorsque les marchandises ont été chargées sur une semi-remorque et que seul le véhicule tracteur est changé en cours de transport (sans qu’il y ait manipulation ou transbordement des marchandises), indiquer dans cette case le numéro d’immatriculation et la nationalité du nouveau véhicule tracteur. En pareil cas, le visa des autorités compétentes n’est pas nécessaire.
+
+Annexe A5 de l’appendice III
+
+## Modèle de liste d’articles
+
+<table>
+<tr><td colspan="4">Liste d’articles</td><td colspan="5">BdDép:</td><td>MRN</td></tr>
+<tr><td colspan="2">Feuille A</td><td></td><td></td><td colspan="5">Date:</td><td></td></tr>
+<tr><td>Art. n<sup>o</sup> (32)</td><td colspan="4">Marque/numéros (31.1)</td><td>Nombre/nature (31.2)</td><td colspan="2">N<sup>o</sup> Conteneur (31.3)</td><td colspan="2">Désignation des marchandises (31.4)</td></tr>
+<tr><td>Régime (1/3)</td><td colspan="4">Code marchandises (33)</td><td>Code sensibilité (31.5)</td><td colspan="2">Quantité sensible (31.6)</td><td colspan="2">Déclaration sommaire/ Document précédent (40)</td></tr>
+<tr><td>Pays d’expédition/ d’exportation (15)</td><td colspan="4">Pays de destination (17)</td><td>Masse brute (kg) (35)</td><td colspan="2">Masse nette (kg) (38)</td><td colspan="2">Mentions spéciales/ Documents produits/ Certificats et autorisations (44)</td></tr>
+<tr><td colspan="7">Expéditeur / Exportateur (2)</td><td colspan="3">Destinataire (8)</td></tr>
+</table>
+
+Annexe A6 de l’appendice III
+
+## Notes explicatives et éléments d’information (données) de la liste d’articles
+
+Lorsqu’un mouvement concerne plusieurs articles, la feuille A de la liste d’articles est toujours imprimée par le système informatique et est jointe à l’exemplaire du document d’accompagnement transit.
+
+Les cases de la liste d’articles peuvent être agrandies verticalement.
+
+Les éléments d’information suivants doivent être imprimés:
+
+- 1\.
+
+  dans la case d’identification (coin supérieur gauche):
+
+  - a) liste d’articles
+  - b) numéro de série de la feuille et nombre total de feuilles (document d’accompagnement transit inclus);
+
+- 2\. BdDép – nom du bureau de douane de départ;
+- 3\. date – date d’acceptation de la déclaration de transit;
+- 4\. NRM – numéro de référence maître:
+- 5\.
+
+  dans les différentes cases de la partie «Article de marchandises», les éléments d’information suivants doivent être imprimés:
+
+  - a) Article n<sup>o</sup> – numéro de série de l’article en question,
+  - b) Régime – si le statut des marchandises est uniforme dans toute la déclaration, cette case n’est pas utilisée,
+  - c) en cas d’envoi mixte, le statut réel, T 1, T 2 ou T2F est imprimé.
+
+Annexe B1 de l’appendice III
+
+## Codes à utiliser sur les formulaires servant à l’établissement des déclarations de transit
+
+La présente annexe sera supprimée à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+### A – Indications relatives aux différentes cases
+
+Case 19: Conteneur
+
+Les codes applicables sont les suivants:
+
+0: marchandises non transportées en conteneurs;
+
+1: marchandises transportées en conteneurs.
+
+Case 27: Lieu de chargement/déchargement
+
+Codes à arrêter par les parties contractantes.
+
+Case 33: Code marchandise
+
+Première subdivision
+
+Indiquer le code se rapportant aux marchandises, composé au moins des six chiffres du système harmonisé de désignation et de codification des marchandises. Dans l’Union, toutefois, indiquer les huit chiffres de la nomenclature combinée lorsqu’une disposition de l’Union le prévoit..
+
+Autres subdivisions
+
+A remplir, le cas échéant, conformément à toute autre codification spécifique des parties contractantes (en commençant immédiatement après la première subdivision).
+
+Case 51: Bureaux de passage prévus
+
+Codes pays
+
+Le code pays est constitué du code ISO alpha-2 pays (ISO 3166-1).
+
+Les codes applicables sont les suivants:
+
+AT Autriche
+
+BE Belgique
+
+BG Bulgarie
+
+CH Suisse
+
+CY Chypre
+
+CZ République tchèque
+
+DE Allemagne
+
+DK Danemark
+
+EE Estonie
+
+ES Espagne
+
+FI Finlande
+
+FR France
+
+GB Royaume-Uni
+
+GR Grèce
+
+HR Croatie
+
+HU Hongrie
+
+IE Irlande
+
+IS Islande
+
+IT Italie
+
+LT Lituanie
+
+LU Luxembourg
+
+LV Lettonie
+
+MK Macédoine du Nord
+
+MT Malte
+
+NL Pays-Bas
+
+NO Norvège
+
+PL Pologne
+
+PT Portugal
+
+RO Roumanie
+
+RS Serbie
+
+SE Suède
+
+SI Slovénie
+
+SK Slovaquie
+
+TR Turquie
+
+Case 53: Bureau de destination (et pays)
+
+Les codes retenus pour la case 51 sont applicables.
+
+### B – Code des références linguistiques
+
+Voir annexe B6, Titre III
+
+Annexe B2 de l’appendice III
+
+## Notice d’utilisation des formulaires à employer pour attester le statut douanier de marchandises de l’union
+
+### A. Dispositions générales
+
+\1. Lorsque la justification du statut douanier de marchandises de l’Union est nécessaire en vertu de la convention, il est fait usage d’un formulaire conforme à l’exemplaire 4 du modèle figurant à l’appendice 1 de l’annexe I de la convention DAU ou à l’exemplaire 4/5 du modèle figurant à l’appendice 2 de l’annexe I de la convention DAU. Ce formulaire est complété, le cas échéant, d’un ou de plusieurs formulaires conformes à l’exemplaire 4 ou à l’exemplaire 4/5 du modèle figurant respectivement aux appendices 3 et 4 de l’annexe I de la convention DAU.
+
+\2. Seules les cases désignées dans la partie supérieure du formulaire sous la rubrique «Note importante» sont à remplir par l’intéressé.
+
+\3. Les formulaires doivent être remplis à la machine à écrire ou par un procédé mécanographique ou similaire. Ils peuvent être également remplis de façon lisible à la main, à l’encre et en caractères majuscules d’imprimerie.
+
+\4. Ils ne doivent comporter ni grattage, ni surcharge. Les modifications éventuelles doivent être effectuées en biffant les indications erronées et en ajoutant, le cas échéant, les indications voulues. Toute modification ainsi opérée doit être approuvée par son auteur et visée par les autorités compétentes. Ces dernières peuvent, le cas échéant, exiger la présentation d’un nouveau formulaire.
+
+\5. Les espaces non utilisés dans les cases à remplir par l’intéressé doivent être bâtonnés de façon à éviter toute inscription ultérieure.
+
+### B. Indications relatives aux différentes cases
+
+Case 1: Déclaration
+
+Dans la troisième subdivision, porter, selon le cas, le sigle «T2L» ou le sigle «T2LF».
+
+En cas d’utilisation de formulaires complémentaires, la troisième subdivision de la case 1 du ou des formulaires utilisés doit être complétée par l’indication, selon le cas, du sigle «T2Lbis» ou «T2LFbis».
+
+Case 2: Expéditeur/Exportateur
+
+Cette case est facultative pour les parties contractantes. Indiquer les nom et prénom ou la raison sociale ainsi que l’adresse complète de l’intéressé. En ce qui concerne le numéro d’identification, la notice peut être complétée par les pays concernés (numéro d’identification attribué à l’intéressé par les autorités compétentes pour des raisons fiscales, statistiques ou autres). En cas de groupage, les parties contractantes peuvent prévoir que la mention suivante:
+
+- – Divers – 99211
+
+soit indiquée dans cette case et que la liste des expéditeurs soit jointe à la déclaration.
+
+Case 3: Formulaires
+
+Indiquer le numéro d’ordre du formulaire parmi le nombre total de formulaires utilisés.
+
+Exemples: Si le document T2L est établi sur un seul formulaire, indiquer 1/1; si le document T2L comporte un formulaire complémentaire T2Lbis, indiquer sur le document T2L: 1/2, et sur le formulaire complémentaire: 2/2; si le document T2L comporte deux formulaires complémentaires T2Lbis, indiquer sur le document T2L: 1/3; sur le premier document T2Lbis: 2/3 et sur le deuxième 2Lbis: 3/3.
+
+Case 4: Listes de chargement
+
+Indiquer le nombre de listes de chargement jointes.
+
+Case 5: Articles
+
+Indiquer le nombre total des articles mentionnés sur le document T2L.
+
+Case 14: Déclarant/représentant
+
+Indiquer le nom ou la raison sociale ainsi que l’adresse complète de l’intéressé conformément aux dispositions en vigueur. En cas d’identité entre l’intéressé et l’expéditeur identifié en case 2, indiquer la mention suivante:
+
+- – Expéditeur – 99213
+
+En ce qui concerne le numéro d’identification, la notice pourra être complétée par les pays concernés (numéro d’identification attribué à l’intéressé par les autorités compétentes pour des raisons fiscales, statistiques ou autres).
+
+Case 31: Colis et désignation des marchandises – marques et numéros – numéro du conteneur
+
+Indiquer les marques, numéros, nombre et nature des colis ou bien, dans le cas de marchandises non emballées, le nombre de ces marchandises faisant l’objet du document, ou selon le cas, las mention suivante:
+
+- – Vrac – 99212
+
+Indiquer dans tous les cas l’appellation commerciale usuelle des marchandises; cette appellation doit comprendre les énonciations nécessaires à l’identification des marchandises; lorsque la case 33 «Code marchandises» doit être remplie, cette appellation doit être exprimée dans des termes suffisamment précis pour permettre le classement des marchandises. Cette case doit également contenir les indications requises par des réglementations spécifiques éventuelles (accises, etc.). En cas d’utilisation de conteneurs, les marques d’identification de ces derniers doivent en outre être indiquées dans cette case.
+
+Case 32: Article N°
+
+Indiquer le numéro d’ordre de l’article en cause par rapport au nombre total des articles figurant sur le document T2L et sur les formulaires complémentaires ou les listes de chargement joints, tel que défini à la case N<sup>o</sup> 5.
+
+Lorsque le document T2L ne porte que sur un seul article, les parties contractantes peuvent ne pas exiger que cette case soit remplie, le chiffre 1 ayant dû être indiqué dans la case 5.
+
+Case 33: Code marchandises
+
+Cette case doit être remplie sur les documents T2L établis dans un pays de transit commun uniquement si la déclaration de transit ou le document précédent contient l’indication du code marchandises.
+
+Case 35: Masse brute
+
+Indiquer la masse brute, exprimée en kilogrammes, des marchandises décrites à la case 31 correspondante. La masse brute correspond à la masse cumulée des marchandises et de tous leurs emballages à l’exclusion des conteneurs et de tout autre matériel de transport.
+
+Lorsqu’un document T2L concerne plusieurs espèces de marchandises, il suffit que la masse brute totale soit indiquée dans la première case 35, les autres cases 35 n’étant pas remplies.
+
+Case 38: Masse nette
+
+Cette case ne doit être complétée dans les pays de transit commun que si la déclaration de transit ou le document précédent contient l’indication de la masse nette. Indiquer la masse nette, exprimée en kilogrammes, des marchandises décrites dans la case 31 correspondante. La masse nette correspond à la masse des marchandises elles-mêmes sans aucun emballage.
+
+Case 40: Déclaration sommaire/document précédent
+
+Indiquer la nature, le numéro, la date et le bureau de délivrance de la déclaration ou du document précédent sur la base duquel le T2L est établi.
+
+Case 44: Mentions spéciales/documents produits/certificats et autorisations
+
+Cette case ne doit être complétée dans les pays de transit commun que si la déclaration de transit ou le document précédent contient des indications dans ladite case. Ces indications doivent être reproduites sur le document T2L.
+
+Case 54: Lieu et date, signature et nom du déclarant ou de son représentant
+
+Sous réserve d’éventuelles dispositions particulières en ce qui concerne l’utilisation de l’informatique, l’original de la signature manuscrite de la personne intéressée, suivie de ses nom et prénom, doit figurer sur le document T2L. Lorsque l’intéressé est une personne morale, le signataire doit faire suivre sa signature et son nom de l’indication de sa qualité.
+
+### C. Code des références linguistiques
+
+Voir annexe B6, Titre III
+
+Annexe B3 de l’appendice III
+
+## Codes à utiliser sur les formulaires servant à attester le statut douanier de marchandises de l’union
+
+### A. Indications relatives aux différentes cases
+
+Case 33: Code marchandise
+
+Première subdivision
+
+Indiquer le code se rapportant aux marchandises, composé au moins des six chiffres du système harmonisé de désignation et de codification des marchandises. Dans l’Union, toutefois, indiquer les huit chiffres de la nomenclature combinée lorsqu’une disposition de l’Union le prévoit.
+
+Autres subdivisions
+
+Remplir, le cas échéant, conformément à toute autre codification spécifique des parties contractantes (en commençant immédiatement après la première subdivision).
+
+### B. Codes des références linguistiques
+
+Voir annexe B6, Titre III
+
+Annexe B4 de l’appendice III
+
+<table>
+<tr><td colspan="3">Liste de chargement</td><td colspan="3"></td><td></td></tr>
+<tr><td>Numéro d’ordre</td><td>Marques, numéros, nombre et nature des colis, désignation des marchandises</td><td colspan="2">Pays d’expédition/ d’exportation</td><td>Masse brute (kg)</td><td colspan="2">Réservé à l’administration</td></tr>
+</table>
+
+<table>
+<tr><td></td><td>(Signature)</td></tr>
+</table>
+
+Annexe B5 de l’appendice III
+
+## Notice relative à la liste de chargement
+
+### Titre I Remarques générales
+
+### 1. Définition
+
+La liste de chargement visée à l’art. 7 de l’appendice III est un document répondant aux caractéristiques de la présente annexe.
+
+### 2. Forme des listes de chargement
+
+- 2\.1 Seul le recto du formulaire peut être utilisé comme liste de chargement.
+- 2\.2 Les listes de chargement comportent:
+- a) l’intitulé «Liste de chargement»;
+- b) un cadre de 70 millimètres sur 55 millimètres divisé en une partie supérieure de 70 millimètres sur 15 millimètres et une partie inférieure de 70 millimètres sur 40 millimètres;
+- c)
+
+  dans l’ordre ci-après, des colonnes dont l’en-tête est libellé comme suit:
+
+  - – numéro d’ordre,
+  - – marques, numéros, nombre et nature des colis, désignation des marchandises,
+  - – pays d’expédition/d’exportation,
+  - – masse brute en kilogrammes,
+  - – réservé à l’administration.
+
+- Les intéressés peuvent adapter à leurs besoins la largeur de ces colonnes. Toutefois, la colonne intitulée «réservé à l’administration» doit avoir une largeur de 30 millimètres au moins. Les intéressés peuvent, en outre, disposer librement des espaces autres que ceux visés aux points a), b) et c).
+- 2\.3 Immédiatement au-dessous de la dernière inscription, une ligne horizontale doit être tracée et les espaces non utilisés doivent être bâtonnés de façon à rendre impossible toute adjonction ultérieure.
+
+### Titre II Indications à porter dans les différentes rubriques
+
+### 1. Cadre
+
+- 1\.1 Partie supérieure.
+- Lorsque la liste de chargement est jointe à une déclaration de transit, le titulaire du régime appose dans la partie supérieure le sigle «T1», «T2» ou «T2F».
+- 1\.2 Partie inférieure.
+- Les éléments repris au par. 4 du titre III ci-dessous doivent figurer dans cette partie du cadre.
+
+### 2. Colonnes
+
+- 2\.1 Numéro d’ordre.
+- Chaque article repris sur la liste de chargement doit être précédé d’un numéro d’ordre.
+- 2\.2 Marques, numéros, nombre et nature des colis; désignation des marchandises.
+- Lorsque la liste de chargement est jointe à une déclaration de transit, les informations requises sont fournies conformément aux annexes B1 et B6 de cet appendice. Doivent y figurer les informations qui dans la déclaration de transit figurent dans les cases 31 «colis et désignation des marchandises», 44 «Mentions spéciales/Documents produits/Certificats et autorisations» et, le cas échéant, 33 «code des marchandises» et 38 «masse nette».
+- Lorsque la liste de chargement est jointe à un document T2L, les informations requises sont fournies conformément aux annexes B2 et B3 de cet appendice.
+- 2\.3 Pays d’expédition/d’exportation.
+- Indiquer le nom du pays d’où les marchandises sont expédiées/exportées.
+- 2\.4 Masse brute (kg).
+- Indiquer les mentions figurant en case 35 du DAU (voir annexes B2 et B6 de cet appendice).
+
+### Titre III Utilisation des listes de chargement
+
+\1. Il n’est pas possible pour une même déclaration de transit de joindre à la fois une ou des listes de chargement et un ou des formulaires complémentaires.
+
+\2. En cas d’utilisation de listes de chargement, les cases 15 «Pays d’expédition/ d’exportation», 32 «Numéro de l’article», 33 «Code des marchandises», 35 «Masse brute (kg)», 38 «Masse nette (kg)» et, le cas échéant, 44 «Mentions spéciales/Documents produits/Certificats et autorisations» du formulaire de déclaration de transit sont bâtonnées et la case 31 «Colis et désignation des marchandises» ne peut pas être remplie en ce qui concerne l’indication des marques, numéros, nombre et nature des colis et désignation des marchandises. Une référence au numéro d’ordre et au sigle des différentes listes de chargement est apposée dans la case n<sup>o</sup> 31 «Colis et désignation des marchandises» du formulaire de déclaration de transit utilisé.
+
+\3. La liste de chargement est produite dans le même nombre d’exemplaires que la déclaration de transit à laquelle elle se rapporte.
+
+\4. Lors de l’enregistrement de la déclaration de transit, la liste de chargement est munie du même numéro d’enregistrement que les formulaires de la déclaration de transit auxquels elle se rapporte. Ce numéro doit être apposé soit au moyen d’un cachet comportant le nom du bureau de douane de départ, soit à la main. Dans ce dernier cas, il est accompagné du cachet officiel du bureau de douane de départ.
+
+La signature d’un fonctionnaire du bureau de douane de départ est facultative.
+
+\5. Lorsque plusieurs listes de chargement sont jointes à un même formulaire utilisé aux fins de la procédure T1 ou T2, elles doivent porter un numéro d’ordre attribué par le titulaire du régime; le nombre de listes de chargement jointes est indiqué dans la case 4 «Listes de chargement» dudit formulaire.
+
+\6. Les dispositions des par. 1 à 5 s’appliquent mutatis mutandis lorsque la liste de chargement est jointe à un document T2L.
+
+Annexe B6 de l’appendice III
+
+## Notice d’utilisation des formulaires servant a l’établissement des déclarations de transit
+
+### Titre I Remarques générales
+
+Dans le cadre de l’application de l’art. 22 de l’appendice I, le formulaire visé à l’appendice 1 de l’annexe I de la convention DAU doit être utilisé pour placer des marchandises sous le régime de transit commun conformément à la convention DAU, Annexe II, Appendice 3, TITRE PREMIER.
+
+Dans les cas où la réglementation (notamment l’art. 12, par. 1 de la présente convention et l’art. 37, par. 4 de l’appendice I) rend nécessaire l’établissement de copies supplémentaires des exemplaires de la déclaration de transit, le titulaire du régime peut utiliser à cet effet et en tant que de besoin des exemplaires supplémentaires ou des photocopies de ces exemplaires.
+
+Ces exemplaires supplémentaires ou ces photocopies doivent être signés par le titulaire du régime, présentés aux autorités compétentes et visés par ces dernières dans les mêmes conditions que le document unique lui-même. Sans préjudice de mentions particulières prévues par la réglementation, ils sont identifiés comme des «copies» et sont acceptés par les autorités compétentes au même titre que les documents originaux dès lors que leur qualité et leur lisibilité sont jugées satisfaisantes par lesdites autorités.
+
+### Titre II Indications à porter dans les différentes cases
+
+### I. Formalités dans le pays de départ
+
+Case 1: Déclaration
+
+Les mentions à faire figurer dans la troisième sous-case sont les suivantes:
+
+- 1)
+
+  marchandises appelées à circuler sous la procédure T2:
+
+  - [tab] T2 ou T2F
+
+- 2)
+
+  marchandises appelées à circuler sous la procédure T1:
+
+  - [tab] T1
+
+- 3)
+
+  envois visés à l’art. 28 de l’appendice I:
+
+  - T Dans ce cas, l’espace laissé libre derrière le sigle T doit être barré.
+  - T1 Marchandises n’ayant pas le statut douanier de marchandises de l’Union, qui sont placées sous le régime de transit commun.
+  - T2 Marchandises ayant le statut douanier de marchandises de l’Union, qui sont placées sous le régime de transit commun.
+  - T2F Marchandises ayant le statut douanier de marchandises de l’Union, qui circulent entre une partie du territoire douanier de l’Union où les dispositions de la directive 2006/112/CE du Conseil\* ou de la directive 2008/118/CE du Conseil\*\* ne s’appliquent pas et un pays de transit commun.
+  - \* Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (JO UE L 347 du 11.12.2006, p. 1).
+  - \*\* Directive 2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d’accise et abrogeant la directive 92/12/CEE (JO UE L 9 du 14.1.2009, p. 12).
+
+Case 2: Expéditeur/Exportateur
+
+Cette case est facultative pour les parties contractantes.
+
+Indiquer les nom et prénom ou la raison sociale ainsi que l’adresse complète de l’intéressé. En ce qui concerne le numéro d’identification, la notice peut être complétée par les parties contractantes (numéro d’identification attribué à l’intéressé par les autorités compétentes pour des raisons fiscales, statistiques ou autres).
+
+En cas de groupage, les parties contractantes peuvent prévoir que la mention suivante:
+
+- – Divers – 99211
+
+soit indiquée dans cette case et que la liste des expéditeurs soit jointe à la déclaration de transit.
+
+Case 3: Formulaires
+
+Indiquer le numéro d’ordre de la liasse et le nombre total de liasses de formulaires et de formulaires complémentaires utilisés. Par exemple, si un formulaire et deux formulaires complémentaires sont présentés, indiquer 1/3 sur le formulaire, 2/3 sur le premier formulaire complémentaire et 3/3 sur le second formulaire complémentaire.
+
+Lorsque la déclaration ne porte que sur un seul article (c’est-à-dire lorsqu’une seule case «désignation des marchandises» doit être remplie), ne rien indiquer dans la case 3, mais indiquer le ch. 1 dans la case 5.
+
+Lorsque deux liasses de quatre exemplaires sont utilisées au lieu d’une liasse de huit exemplaires, ces deux liasses sont réputées n’en constituer qu’une seule.
+
+Case 4: Nombre de listes de chargement
+
+Mentionner en chiffres le nombre de listes de chargement éventuellement jointes ou le nombre de listes descriptives de nature commerciale autorisées par les autorités compétentes.
+
+Case 5: Articles
+
+Indiquer le nombre total des articles figurant sur la déclaration de transit.
+
+Case 6: Total colis
+
+Cette case est facultative pour les parties contractantes. Indiquer le nombre total de colis composant l’envoi en question.
+
+Case 8: Destinataire
+
+Indiquer le nom et prénom ou la raison sociale ainsi que l’adresse complète de la ou des personne(s) ou société(s) à laquelle (auxquelles) les marchandises doivent être livrées. En cas de groupage, les parties contractantes peuvent prévoir que la mention prévue sous la case 2 soit indiquée dans cette case et que la liste des destinataires soit jointe à la déclaration de transit.
+
+Les parties contractantes peuvent permettre que cette case ne soit pas remplie lorsque le destinataire est établi en dehors du territoire des parties contractantes.
+
+L’indication du numéro d’identification n’est pas obligatoire à ce stade.
+
+Case 15: Pays d’expédition/d’exportation
+
+Case 15a
+
+Indiquer le nom du pays d’où les marchandises sont expédiées/exportées.
+
+Case 17: Pays de destination
+
+Case 17a
+
+Indiquer le nom du pays concerné.
+
+Case 18: Identité et nationalité du moyen de transport au départ
+
+Indiquer l’identité, par exemple, le (ou les) numéro(s) d’immatriculation ou le nom du moyen de transport (camion, navire, wagon de chemin de fer, avion) sur lequel les marchandises sont chargées lors de leur présentation au bureau de douane de départ, suivie de la nationalité de ce moyen de transport (ou celle du moyen assurant la propulsion de l’ensemble, s’il y a plusieurs moyens de transport), au moyen des codes prévus à cet effet. Par exemple, s’il y a utilisation d’un véhicule tracteur et d’une remorque ayant une immatriculation différente, indiquer le numéro d’immatriculation du véhicule tracteur et celui de la remorque, ainsi que la nationalité du véhicule tracteur.
+
+Toutefois, lorsque des marchandises sont transportées dans des conteneurs destinés à être acheminés par véhicules routiers, les autorités compétentes peuvent autoriser le titulaire du régime à ne pas remplir cette case, si la situation logistique au point de départ est susceptible d’empêcher que soient fournies l’identité et la nationalité du moyen de transport au moment d’établir la déclaration de transit et si les parties contractantes sont en mesure de garantir que les informations requises sur ces moyens de transport seront insérées par la suite dans la case 55.
+
+En cas d’envoi par installations de transport fixes, ne rien indiquer dans cette case en ce qui concerne le numéro d’immatriculation ou la nationalité. En cas de transport ferroviaire, ne pas indiquer la nationalité.
+
+Dans les autres cas, la déclaration de la nationalité est facultative pour les parties contractantes.
+
+Case 19: Conteneur (Ctr)
+
+Cette case est facultative pour les parties contractantes.
+
+Mentionner, conformément aux codes prévus à cet effet, les indications nécessaires concernant la situation présumée au passage de la frontière de la partie contractante où se situe le bureau de douane de départ, telle qu’elle est connue au moment du placement des marchandises sous le régime de transit commun.
+
+Case 21: Identité et nationalité du moyen de transport actif franchissant la frontière
+
+Cette case est facultative pour les parties contractantes en ce qui concerne l’identité.
+
+Cette case est obligatoire en ce qui concerne la nationalité.
+
+Toutefois, en cas de transport ferroviaire ou par installations fixes, ne rien indiquer en ce qui concerne le numéro d’immatriculation ou la nationalité.
+
+Indiquer le genre (camion, navire, wagon de chemin de fer, avion, etc.), suivi de l’identité, par exemple le numéro d’immatriculation ou le nom du moyen de transport actif (c’est-à-dire, moyen de transport assurant la propulsion) présumé utilisé au passage de la frontière à la sortie de la partie contractante où se situe le bureau de douane de départ, puis le code correspondant à sa nationalité telle qu’elle est connue au moment du placement des marchandises sous le régime de transit commun, en utilisant le code approprié.
+
+Dans le cas du transport combiné ou s’il y a plusieurs moyens de transport, le moyen de transport actif est celui qui assure la propulsion de l’ensemble. Par exemple, si un camion est sur un navire de mer, le moyen de transport actif est le navire; si tracteur et remorque, le moyen de transport actif est le tracteur, etc.
+
+Case 25: Mode de transport à la frontière
+
+Cette case est facultative pour les parties contractantes.
+
+Indiquer, conformément aux codes prévus à cet effet, le mode de transport correspondant au moyen de transport actif avec lequel les marchandises sont présumées quitter le territoire de la partie contractante où se situe le bureau de douane de départ.
+
+Case 27: Lieu de chargement
+
+Cette case est facultative pour les parties contractantes.
+
+Indiquer, le cas échéant sous forme de code, lorsque cela est prévu, le lieu de chargement des marchandises tel qu’il est connu lors du placement des marchandises sous le régime de transit commun, sur le moyen de transport actif par lequel elles doivent franchir la frontière de la partie contractante où se situe le bureau de douane de départ.
+
+Case 31: Colis et désignation des marchandises – marques et numéros – numéro(s) conteneur(s) – nombre et nature
+
+Indiquer les marques, numéros, nombre et nature des colis ou bien, dans le cas de marchandises non emballées, le nombre de ces marchandises faisant l’objet de la déclaration, ou, selon le cas, une des mentions suivantes:
+
+- – Vrac – 99212
+
+Indiquer dans tous les cas l’appellation commerciale usuelle des marchandises; cette appellation doit comprendre les énonciations nécessaires à l’identification des marchandises; lorsque la case 33 «Code marchandises» doit être remplie, cette appellation doit être exprimée dans des termes suffisamment précis pour permettre le classement des marchandises. Cette case doit également contenir les indications requises par des réglementations spécifiques éventuelles (accises, etc.). En cas d’utilisation de conteneurs, les marques d’identification de ces derniers doivent en outre être indiquées dans cette case.
+
+Case 32: Numéro de l’article
+
+Indiquer le numéro d’ordre de l’article en cause par rapport au nombre total des articles déclarés dans les formulaires utilisés tels que définis à la case 5.
+
+Lorsque la déclaration ne porte que sur un seul article, les parties contractantes peuvent ne pas exiger que cette case soit remplie, le ch. 1 ayant dû être indiqué dans la case 5.
+
+Case 33: Code «marchandises»
+
+Cette case doit être complétée lorsque:
+
+- – la déclaration de transit est établie, par la même personne, simultanément ou suite à une déclaration en douane comportant l’indication du code «marchandise»;
+- [tab] ou
+- – la convention en prévoit l’usage obligatoire.
+
+Indiquer le code correspondant aux marchandises en cause.
+
+Cette case doit également être remplie sur les déclarations de transit T2 et T2F établies dans un pays de transit commun uniquement si la déclaration de transit précédente contient l’indication du code «marchandises».
+
+Indiquer alors le code figurant sur les exemplaires de cette déclaration.
+
+Dans les autres cas, cette case est à usage facultatif.
+
+Case 35: Masse brute
+
+Indiquer la masse brute, exprimée en kilogrammes des marchandises décrites dans la case 31 correspondante. La masse brute correspond à la masse cumulée des marchandises et de tous leurs emballages à l’exclusion des conteneurs et de tout autre matériel de transport.
+
+Lorsque la déclaration concerne plusieurs espèces de marchandises, il suffit que la masse brute totale soit indiquée dans la première case 35, les autres cases 35 n’étant pas remplies
+
+Case 38: Masse nette
+
+Cette case est facultative pour les parties contractantes. Indiquer la masse nette, exprimée en kilogrammes, des marchandises décrites dans la case 31 correspondante. La masse nette correspond à la masse des marchandises elles-mêmes sans aucun emballage.
+
+Case 40: Déclaration sommaire/document précédent
+
+Indiquer la référence du régime douanier précédent précédent ou des documents douaniers correspondants. Si plus d’une référence doit être mentionnée, les parties contractantes peuvent prévoir que la mention suivante:
+
+- – Divers – 99211
+
+soit indiquée dans cette case et que la liste des références en cause soit jointe à la déclaration de transit.
+
+Case 44: Mentions spéciales, documents produits, certificats et autorisations
+
+Indiquer les mentions requises en fonction des réglementations spécifiques éventuellement applicables dans le pays d’expédition/d’exportation, ainsi que les numéros de référence des documents produits à l’appui de la déclaration, ou toute référence supplémentaire jugée nécessaire en ce qui concerne la déclaration ou les marchandises couvertes par la déclaration (cela peut comprendre, le cas échéant, le numéro des licences/autorisations d’exportation, les données concernant les réglementations vétérinaires et phytosanitaires, le numéro du connaissement). La sous-case «Code mention spéciale (MS)» ne doit pas être remplie.
+
+Case 50: Titulaire du régime et représentant habilité, lieu, date et signature
+
+Mentionner les nom et prénoms ou la raison sociale, ainsi que l’adresse complète du titulaire du régime ainsi que, le cas échéant, le numéro d’identification qui lui a été attribué par les autorités compétentes. Mentionner, le cas échéant, les nom et prénoms ou la raison sociale du représentant habilité qui signe pour le titulaire du régime.
+
+Sous réserve d’éventuelles dispositions particulières en ce qui concerne l’utilisation du système de transit électronique, l’original de la signature manuscrite de la personne intéressée doit figurer sur l’exemplaire appelé à rester au bureau de douane de départ. Lorsque l’intéressé est une personne morale, le signataire doit faire suivre sa signature de l’indication de ses nom, prénom et qualité.
+
+Case 51: Bureau de passage prévu (et pays)
+
+Mentionner le bureau de douane d’entrée prévu dans chaque partie contractante dont il est prévu d’emprunter le territoire ou, lorsque le transport doit emprunter un territoire autre que celui des parties contractantes, le bureau de douane de sortie par lequel le transport quitte le territoire des parties contractantes.
+
+Les bureaux de douane de passage figurent dans la liste des bureaux compétents pour les opérations de transit commun. Indiquer ensuite, après le nom du bureau de douane, le code relatif au pays concerné.
+
+Case 52: Garantie
+
+Indiquer, conformément aux codes prévus à cet effet, le type de garantie ou de dispense de garantie utilisé pour l’opération considérée puis, en tant que de besoin, le numéro du certificat de garantie globale ou de dispense de garantie ou le numéro du titre de garantie isolée et, le cas échéant, le bureau de douane de garantie.
+
+Si la garantie globale, la dispense de garantie ou la garantie isolée par caution n’est pas valable pour toutes les parties contractantes, ajouter après «non valable pour» la ou les partie(s) contractante(s) concernée(s) conformément aux codes prévus à cet effet.
+
+Case 53: Bureau de destination (et pays)
+
+Mentionner le nom du bureau de douane où les marchandises doivent être représentées pour mettre fin à l’opération de transit. Les bureaux de douane de destination figurent dans la liste des bureaux compétents (LBD sur le site EUROPA) pour les opérations de transit commun.
+
+Après le nom du bureau, indiquer le code relatif au pays concerné.
+
+### II. Formalités en cours de route
+
+Entre le moment où les marchandises ont quitté le bureau de douane de départ et celui où elles arrivent au bureau de douane de destination, il se peut que certaines mentions doivent être ajoutées sur les exemplaires n<sup>o</sup> 4 et 5 de la déclaration de transit qui accompagnent les marchandises. Ces mentions concernent l’opération de transport et doivent être ajoutées sur ces exemplaires par le transporteur responsable du moyen de transport sur lequel les marchandises se trouvent chargées, au fur et à mesure du déroulement des opérations. Ces mentions peuvent être portées à la main de façon lisible. Dans ce cas, ces exemplaires doivent être complétés à l’encre et en caractères majuscules d’imprimerie.
+
+Ces mentions se rapportent aux cases suivantes:
+
+- – Transbordements: utiliser la case N<sup>o</sup> 55
+
+Case 55: Transbordements
+
+Les trois premières lignes de cette case sont à remplir par le transporteur lorsque, au cours de l’opération considérée, les marchandises en cause sont transbordées d’un moyen de transport sur un autre ou d’un conteneur à un autre.
+
+Le transporteur ne peut procéder au transbordement qu’après avoir obtenu l’autorisation des autorités compétentes du pays où le transbordement doit avoir lieu.
+
+Lorsqu’elles estiment que l’opération de transit commun peut se poursuivre normalement, et après avoir pris le cas échéant les mesures nécessaires, ces autorités visent les exemplaires n<sup>o</sup> 4 et 5 de la déclaration de transit.
+
+- – Autres incidents: utiliser la case 56
+
+Case 56: Autres incidents au cours du transport
+
+Case à compléter conformément aux obligations existant en matière de transit.
+
+En outre, lorsque les marchandises ont été chargées sur une semi-remorque et que seul le véhicule tracteur est changé en cours de transport (sans qu’il y ait manipulation ou transbordement des marchandises), indiquer dans cette case le numéro d’immatriculation et la nationalité du nouveau véhicule tracteur. En pareil cas, le visa des autorités compétentes n’est pas nécessaire.
+
+### Titre III Tableau des références linguistiques et de leurs codes
+
+<table>
+<tr><th></th><th colspan="2">Mentions linguistiques</th><th colspan="2">Codes</th></tr>
+<tr><td>BG</td><td colspan="2">Ограничена валидност</td><td colspan="2">Validité limitée – 99200</td></tr>
+<tr><td>CS</td><td colspan="2">Omezená platnost</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Begrænset gyldighed</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Beschränkte Geltung</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Piiratud kehtivus</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Περιορισμένη ισχύς</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Validez limitada</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Validité limitée</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Valjanost ograničena</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Validità limitata</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Ierobežots derīgums</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Galiojimas apribotas</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Korlátozott érvényű</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Ограничено важење</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Validità limitata</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Beperkte geldigheid</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Ograniczona ważność</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Validade limitada</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Validitate limitată</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Ограничена важност</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Omejena veljavnost</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Obmedzená platnosť</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Voimassa rajoitetusti</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Begränsad giltighet</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Limited validity</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Takmarkað gildissvið</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Begrenset gyldighet</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Sınırlı geçerli</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Освободено</td><td colspan="2">Dispense – 99201</td></tr>
+<tr><td>CS</td><td colspan="2">Osvobození</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Fritaget</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Befreiung</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Loobumine</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Απαλλαγή</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Dispensa</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Dispense</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Oslobođeno</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Dispensa</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Derīgs bez zīmoga</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Leista neplombuoti</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Mentesség</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Изземање</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Tneħħija</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Vrijstelling</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Zwolnienie</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Dispensa</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Dispensă</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Ослобођење</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Opustitev</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Oslobodenie</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Vapautettu</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Befrielse</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Waiver</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Undanþegið</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Fritak</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Vazgeçme</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Алтернативно доказателство</td><td colspan="2">Preuve alternative – 99202</td></tr>
+<tr><td>CS</td><td colspan="2">Alternativní důkaz</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Alternativt bevis</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Alternativnachweis</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Alternatiivsed tõendid</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Εναλλακτική απόδειξη</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Prueba alternativa</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Preuve alternative</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Alternativni dokaz</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Prova alternativa</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Alternatīvs pierādījums</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Alternatyvusis įrodymas</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Alternatív igazolás</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Алтернативен доказ</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Prova alternattiva</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Alternatief bewijs</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Alternatywny dowód</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Prova alternativa</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Probă alternativă</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Алтернативни доказ</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Alternativno dokazilo</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Alternatívny dôkaz</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Vaihtoehtoinen todiste</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Alternativt bevis</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Alternative proof</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Önnur sönnun</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Alternativt bevis</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Alternatif Kanıt</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Различия: митническо учреждение, където стоките са представени (наименование и страна)</td><td colspan="2">Différences: marchandises présentées au bureau de douane .......(nom et pays) – 99203</td></tr>
+<tr><td>CS</td><td colspan="2">Nesrovnalosti: úřad, kterému bylo zboží předloženo ......... (název a země)</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Forskelle: det sted, hvor varerne blev frembudt ......... (navn og land)</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ......... (Name und Land)</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Erinevused: asutus, kuhu kaup esitati ......... (nimi ja riik)</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ......... (΄Ονομα και χώρα)</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Diferencias: mercancías presentadas en la oficina ......... (nombre y país)</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Différences: marchandises présentées au bureau de douane ......... (nom et pays)</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Razlike: Carinarnica kojoj je roba podnesena ... (naziv i zemlja)</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Differenze: ufficio al quale sono state presentate le merci ......... (nome e paese)</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Atšķirības: muitas iestāde, kurā preces tika uzrādītas (nosaukums un valsts)</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Skirtumai: įstaiga, kuriai pateiktos prekės (pavadinimas ir valstybė)</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Eltérések: hivatal, ahol az áruk bemutatása megtörtént ......... (név és ország)</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Разлики: Испостава каде стоките се ставени на увид ...... (назив и земја)</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż)</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Verschillen: kantoor waar de goederen zijn aangebracht ......... (naam en land)</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Niezgodności: urząd w którym przedstawiono towar ......... (nazwa i kraj)</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Diferenças: mercadorias apresentadas na estãncia ......... (nome e país)</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Diferenţe: mărfuri prezentate la biroul vamal ......... (nume şi ţara) ò</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Разлике: царински орган којем је предата роба ...... (назив и земља)</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Razlike: urad, pri katerem je bilo blago predloženo ......... (naziv in država)</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Nezrovnalosti: úrad, ktorému bol tovar dodaný ......... (názov a krajina)</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Muutos: toimipaikka, jossa tavarat esitetty ......... (nimi ja maa)</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Avvikelse: tullkontor där varorna anmäldes ......... (namn och land)</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Differences: office where goods were presented ......... (name and country)</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Breying: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land)</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Forskjell: det tollsted hvor varene ble fremlagt ......... (navn og land)</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Değişiklikler: Eşyanın sunulduğu idare ......... (adı ve ülkesi)</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Излизането от ............... подлежи на ограничения или такси съгласно Регламент/Директива/Решение № ...,</td><td colspan="2">Sortie de ......... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n° ... – 99204</td></tr>
+<tr><td>CS</td><td colspan="2">Výstup ze ......... podléhá omezením nebo dávkám podle nařízení/ směrnice/rozhodnutí č ...</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Udpassage fra ......... undergivet restriktioner eller afgifter i henhold til forordning/direktiv/afgørelse nr. ...</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Ausgang aus ......... – gemäss Verordnung/Richtlinie/Beschluss Nr. ... Beschränkungen oder Abgaben unterworfen</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Väljumine ......... on aluseks piirangutele ja/või maksudele vastavalt määrusele/direktiivile/otsusele nr. ...</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Η έξοδος από ......... υποβάλλεται σε περιοριορισμούς ή σε επιβαρύνσεις από τον Κανονισμό/την Οδηγία/την Απόφαση αριθ. ...</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Salida de ......... sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/Decisión no ...</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Sortie de ......... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n° ...</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Izlaz iz ... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br. ...</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Uscita dalla ......... soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/decisione n. ...</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Izvešana no ........., piemērojot ierobežojumus vai maksājumus saskaņā ar Regulu/Direktīvu/Lēmumu No ...,</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Išvežimui iš ......... taikomi apribojimai arba mokesčiai, nustatytiReglamentu/Direktyva/Sprendimu Nr. ...,</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">A kilépés ......... területéről a ... rendelet/irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Излез од ............предмет на ограничувања или давачки согласно Уредба/Директива/Решение № .......</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Ħruġ mill-......... suġġett għall-restrizzjonijiet jew ħlasijiet taħt Regola/Direttiva/Deċiżjoni Nru...</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Bij uitgang uit de ......... zijn de beperkingen of heffingen van Verordening/ Richtlijn/Besluit nr. ... van toepassing</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Wyprowadzenie z......... podlega ograniczeniom lub opłatom zgodnie z ozporządzeniem/dyrektywą/decyzją nr ...</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Saída da ......... sujeita a restrições ou a imposições pelo(a) Regulamento/ Directiva/Decisão n.° ...</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Ieşire din ......... supusă restricţiilor sau impunerilor în temeiul Regulamentului/Directivei/Deciziei nr ...</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Излаз из ............... подлеже ограничењима или дажбинама на основу Уредбе/Директиве/Одлуке бр...</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Iznos iz ......... zavezan omejitvam ali obveznim dajatvam na podlagi uredbe/direktive/odločbe št ...</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Výstup z......... podlieha obmedzeniam alebo platbám podľa nariadenia/smernice/rozhodnutia č ...."</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">......... vientiin sovelletaan asetuksen/ direktiivin ./päätöksen N:o ... mukaisia rajoituksia tai maksuja</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Utförsel från ......... underkastad restriktioner eller avgifter i enlighet med förordning/direktiv/beslut nr ...</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Exit from ......... subject to restrictions or charges under Regulation/Directive/ Decision No ...</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Útflutningur frá ......... háð takmörkunum eða gjöldum samkvæmt reglugerð/ fyrirmælum/ákvörðun nr. ...</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Utførsel fra ......... underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/vedtak nr. ...</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Eşyanın .........’dan çıkışı ..... No.lu Tüzük/Direktif/Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Одобрен изпращач</td><td colspan="2">Expéditeur agréé – 99206</td></tr>
+<tr><td>CS</td><td colspan="2">Schválený odesílatel</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Godkendt afsender</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Zugelassener Versender</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Volitatud kaubasaatja</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Εγκεκριμένος αποστολέας</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Expedidor autorizado</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Expéditeur agréé</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Ovlašteni pošiljatelj</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Speditore autorizzato</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Atzītais nosūtītājs</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Įgaliotas siuntėjas</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Engedélyezett feladó</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Овластен испраќач</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Awtorizzat li jibgħat</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Toegelaten afzender</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Upoważniony nadawca</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Expedidor autorizado</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Expeditor agreat</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Овлашћени пошиљалац</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Pooblaščeni pošiljatelj</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Schválený odosielateľ</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Valtuutettu lähettäjä</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Godkänd avsändare</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Authorised consignor</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Viðurkenndur sendandi</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Autorisert avsender</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">İzinli Gönderici</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Освободен от подпис</td><td colspan="2">Dispense de signature – 99207</td></tr>
+<tr><td>CS</td><td colspan="2">Podpis se nevyžaduje</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Fritaget for underskrift</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Freistellung von der Unterschriftsleistung</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Allkirjanõudest loobutud</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Δεν απαιτείται υπογραφή</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Dispensa de firma</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Dispense de signature</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Oslobođeno potpisa</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Dispensa dalla firma</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Derīgs bez paraksta</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Leista nepasirašyti</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Aláírás alól mentesítve</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Изземање од потпис</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Firma mhux meħtieġa</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Van ondertekening vrijgesteld</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Zwolniony ze składania podpisu</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Dispensada a assinatura</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Dispensă de semnătură</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Ослобођено од потписа</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Opustitev podpisa</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Oslobodenie od podpisu</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Vapautettu allekirjoituksesta</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Befrielse från underskrift</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Signature waived</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td>Oslobođeno potpisa</td><td></td></tr>
+<tr><td>IS</td><td colspan="2">Undanþegið undirskrift</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Fritatt for underskrift</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">İmzadan Vazgeçme</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ</td><td colspan="2">GARANTIE GLOBALE INTERDITE – 99208</td></tr>
+<tr><td>CS</td><td colspan="2">ZÁKAZ GLOBÁLNÍ ZÁRUKY</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">FORBUD MOD SAMLET KAUTION</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">GESAMTBÜRGSCHAFT UNTERSAGT</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">ÜLDTAGATISE KASUTAMINE KEELATUD</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">GARANTÍA GLOBAL PROHIBIDA</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">GARANTIE GLOBALE INTERDITE</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">ZABRANJENO ZAJEDNIČKO JAMSTVO</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">GARANZIA GLOBALE VIETATA</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">VISPĀRĒJS GALVOJUMS AIZLIEGTS</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">ÖSSZKEZESSÉG TILALMA</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">MHUX PERMESSA GARANZIJA KOMPRENSIVA</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">DOORLOPENDE ZEKERHEID VERBODEN</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">GARANTIA GLOBAL PROIBIDA</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">GARANŢIA GLOBALĂ INTERZISĂ</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">PREPOVEDANO SKUPNO ZAVAROVANJE</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">ZÁKAZ CELKOVEJ ZÁRUKY</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">YLEISVAKUUDEN KÄYTTÖ KIELLETTY</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">SAMLAD SÄKERHET FÖRBJUDEN</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">COMPREHENSIVE GUARANTEE PROHIBITED</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">ALLSHERJARTRYGGING BÖNNUÐ</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">FORBUD MOT BRUK AV UNIVERSALGARANTI</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">KAPSAMLI TEMINAT YASAKLANMISTIR</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ</td><td colspan="2">UTILISATION NON LIMITEE – 99209</td></tr>
+<tr><td>CS</td><td colspan="2">NEOMEZENÉ POUŽITÍ</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">UBEGRÆNSET ANVENDELSE</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">UNBESCHRÄNKTE VERWENDUNG</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">PIIRAMATU KASUTAMINE</td><td colspan="2"></td></tr>
+<tr><td>ΕL</td><td colspan="2">ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">UTILIZACIÓN NO LIMITADA</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">UTILISATION NON LIMITEE</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">NEOGRANIČENA UPORABA</td><td></td></tr>
+<tr><td>IT</td><td colspan="2">UTILIZZAZIONE NON LIMITATA</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">NEIEROBEŽOTS IZMANTOJUMS</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">NEAPRIBOTAS NAUDOJIMAS</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">UŻU MHUX RISTRETT</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">GEBRUIK ONBEPERKT</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">NIEOGRANICZONE KORZYSTANIE</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">UTILIZAÇÃO ILIMITADA</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">UTILIZARE NELIMITATĂ</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">НЕОГРАНИЧЕНА УПОТРЕБА</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">NEOMEJENA UPORABA</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">NEOBMEDZENÉ POUŽITIE</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">KÄYTTÖÄ EI RAJOITETTU</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">OBEGRÄNSAD ANVÄNDNING</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">UNRESTRICTED USE</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">ÓTAKMÖRKUÐ NOTKUN</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">UBEGRENSET BRUK</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">KISITLANMAMIS KULLANIM</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Издаден впоследствие</td><td colspan="2">Délivré a posteriori – 99210</td></tr>
+<tr><td>CS</td><td colspan="2">Vystaveno dodatečně</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Udstedt efterfølgende</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Nachträglich ausgestellt</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Välja antud tagasiulatuvalt</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">Εκδοθέν εκ των υστέρων</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Expedido a posteriori</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Délivré *a posteriori*</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Izdano naknadno</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Rilasciato a posteriori</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Izsniegts retrospektīvi</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Retrospektyvusis išdavimas</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Kiadva visszamenőleges hatállyal</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Дополнително издадено</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Maħruġ b’mod retrospettiv</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Achteraf afgegeven</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Wystawione retrospektywnie</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Emitido a posteriori</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Eliberat ulterior</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Накнадно издато</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Izdano naknadno</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Vyhotovené dodatočne</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Annettu jälkikäteen</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Utfärdat i efterhand</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Issued retroactively</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Útgefið eftir á</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Utstedt i etterhånd</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Sonradan Düzenlenmiştir</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Разни</td><td colspan="2">Divers – 99211</td></tr>
+<tr><td>CS</td><td colspan="2">Různí</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Diverse</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Verschiedene</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Erinevad</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">διάφορα</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Varios</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Divers</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Razni</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Vari</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Dažādi</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Įvairūs</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Többféle</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Различни</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Diversi</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Diverse</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Różne</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Diversos</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Diverse</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Разно</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Razno</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Rôzni</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Useita</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Flera</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Various</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Ýmis</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Diverse</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Çeşitli</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Насипно</td><td colspan="2">Vrac – 99212</td></tr>
+<tr><td>CS</td><td colspan="2">Volnĕ loženo</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Bulk</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Lose</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Pakendamata</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">χύμα</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">A granel</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Vrac</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Rasuto</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Alla rinfusa</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Berams</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Nesupakuota</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Ömlesztett</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Рефус</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Bil-kwantitá</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Los gestort</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Luzem</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">A granel</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Vrac</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Расуто</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Razsuto</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Voľne</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Irtotavaraa</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Bulk</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Bulk</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Vara í lausu</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Bulk</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Dökme</td><td colspan="2"></td></tr>
+<tr><td>BG</td><td colspan="2">Изпращач</td><td colspan="2">Expéditeur – 99213</td></tr>
+<tr><td>CS</td><td colspan="2">Odesílatel</td><td colspan="2"></td></tr>
+<tr><td>DA</td><td colspan="2">Afsender</td><td colspan="2"></td></tr>
+<tr><td>DE</td><td colspan="2">Versender</td><td colspan="2"></td></tr>
+<tr><td>EE</td><td colspan="2">Saatja</td><td colspan="2"></td></tr>
+<tr><td>EL</td><td colspan="2">αποστολέας</td><td colspan="2"></td></tr>
+<tr><td>ES</td><td colspan="2">Expedidor</td><td colspan="2"></td></tr>
+<tr><td>FR</td><td colspan="2">Expéditeur</td><td colspan="2"></td></tr>
+<tr><td>HR</td><td colspan="2">Pošiljatelj</td><td colspan="2"></td></tr>
+<tr><td>IT</td><td colspan="2">Speditore</td><td colspan="2"></td></tr>
+<tr><td>LV</td><td colspan="2">Nosūtītājs</td><td colspan="2"></td></tr>
+<tr><td>LT</td><td colspan="2">Siuntėjas</td><td colspan="2"></td></tr>
+<tr><td>HU</td><td colspan="2">Feladó</td><td colspan="2"></td></tr>
+<tr><td>MK</td><td colspan="2">Испраќач</td><td colspan="2"></td></tr>
+<tr><td>MT</td><td colspan="2">Min jikkonsenja</td><td colspan="2"></td></tr>
+<tr><td>NL</td><td colspan="2">Afzender</td><td colspan="2"></td></tr>
+<tr><td>PL</td><td colspan="2">Nadawca</td><td colspan="2"></td></tr>
+<tr><td>PT</td><td colspan="2">Expedidor</td><td colspan="2"></td></tr>
+<tr><td>RO</td><td colspan="2">Expeditor</td><td colspan="2"></td></tr>
+<tr><td>RS</td><td colspan="2">Пошиљалац</td><td colspan="2"></td></tr>
+<tr><td>SL</td><td colspan="2">Pošiljatelj</td><td colspan="2"></td></tr>
+<tr><td>SK</td><td colspan="2">Odosielateľ</td><td colspan="2"></td></tr>
+<tr><td>FI</td><td colspan="2">Lähettäjä</td><td colspan="2"></td></tr>
+<tr><td>SV</td><td colspan="2">Avsändare</td><td colspan="2"></td></tr>
+<tr><td>EN</td><td colspan="2">Consignor</td><td colspan="2"></td></tr>
+<tr><td>IS</td><td colspan="2">Sendandi</td><td colspan="2"></td></tr>
+<tr><td>NO</td><td colspan="2">Avsender</td><td colspan="2"></td></tr>
+<tr><td>TR</td><td colspan="2">Gönderici</td><td colspan="2"></td></tr>
+</table>
+
+### Titre IV Remarques relatives aux formulaires complémentaires
+
+A. Les formulaires complémentaires ne peuvent être utilisés qu’en cas de déclaration comprenant plusieurs articles (voir case N<sup>o</sup> 5). Ils doivent être présentés conjointement avec un formulaire visé à l’appendice 1 de l’annexe I de la convention DAU.
+
+B. Les remarques visées aux titres I et II ci-avant s’appliquent également aux formulaires complémentaires.
+
+Toutefois:
+
+- – le sigle «T1bis», «T2bis» ou «T2Fbis» doit être porté dans la troisième subdivision de la case 1, selon la procédure de transit commun applicable aux marchandises en cause;
+- – les cases 2 et 8 du formulaire complémentaire visé à l’appendice 3 de l’annexe I de la convention DAU est à usage facultatif pour les parties contractantes et ne doit comporter que le nom et le numéro d’identification éventuel de la personne concernée.
+
+C. En cas d’utilisation de formulaires complémentaires:
+
+- – les cases «Colis et désignation des marchandises» du formulaire complémentaire qui ne sont pas utilisées doivent être biffées de façon à empêcher toute utilisation ultérieure;
+- – les cases 32 «Numéro de l’article», 33 «Code des marchandises», 35 «Masse brute kg)», 38 «Masse nette (kg)» et 44 «Mentions spéciales/Documents produits/Certificats et autorisations» du formulaire de déclaration de transit utilisé sont bâtonnées et la case 31 «Colis et désignation des marchandises» ne peut pas être remplie en ce qui concerne l’indication des marques, numéros, nombre et nature des colis et désignation des marchandises. Une référence au numéro d’ordre et au sigle des différents formulaires complémentaires est apposée dans la case n<sup>o</sup> 31 «Colis et désignation des marchandises» du formulaire de déclaration de transit utilisé.
+
+Annexe B7 de l’appendice III
+
+## Modèles des cachets utilisés pour le plan de continuité des opérations
+
+### 1. Cachet n<sup>o</sup> 1
+
+<table>
+<tr><td>**PROCEDURE DE SECOURS NSTI** TRANSIT DE L’UNION/TRANSIT COMMUN *AUCUNE DONNEE DISPONIBLE DANS LE SYSTÈME* *ENGAGEE LE* *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_* *(Date/heure)*</td></tr>
+</table>
+
+(dimensions: 26×59 mm)
+
+### 2. Cachet n<sup>o</sup> 2
+
+<table>
+<tr><td>**PLAN DE CONTINUITE DES OPERATIONS** TRANSIT DE L’UNION/TRANSIT COMMUN *AUCUNE DONNEE DISPONIBLE DANS LE SYSTÈME* *ENGAGEE LE* *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_* *(Date/heure)*</td></tr>
+</table>
+
+(dimensions: 26×59 mm)
+
+Annexe B8 de l’appendice III
+
+## TC10 – AVIS DE PASSAGE
+
+<table>
+<tr><td colspan="4">TC 10 – AVIS DE PASSAGE Identification du moyen de transport....</td><td></td><td></td></tr>
+<tr><td colspan="2">DECLARATION DE TRANSIT</td><td></td><td colspan="3">NUMERO DE REFERENCE DU BUREAU DE DOUANE DE PASSAGE PREVU</td></tr>
+<tr><td>Nature (T1, T2 ou T2F) et numéro</td><td colspan="2">Numéro de référence du bureau de douane de départ</td><td colspan="3"></td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="3">RESERVE À L’ADMINISTRATION</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="3">Date de transit ................................. ................................. (Signature) Cachet officiel</td></tr>
+</table>
+
+Annexe B9 de l’appendice III
+
+## Modèle d’un cachet spécial utilisé par un expéditeur agréé
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image2.png)
+
+- 1\. Les armoiries ou tous autres signes ou lettres caractérisant le pays
+- 2\. Numéro de référence du bureau de douane de départ
+- 3\. Numéro de la déclaration
+- 4\. Date
+- 5\. Expéditeur agréé
+- 6\. Numéro de l’autorisation
+
+Annexe B10 de l’appendice III
+
+## TC 11 – RECEPISSE
+
+<table>
+<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
+</table>
+
+Annexe B11 de l’appendice III
+
+## Étiquette
+
+(transit par chemin de fer)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image4.png)
+
+Annexe C1 de l’appendice III
+
+## Engagement de la caution – garantie isolée
+
+### I. Engagement de la caution
+
+\1. Le (la) soussigné(e) (1)
+
+domicilié à (2)
+
+se rend caution solidaire au bureau de garantie de
+
+à concurrence d’un montant maximal de
+
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3), la Principauté d’Andorre et la République de Saint-Marin (4) pour tout montant pour lequel la personne constituant la présente garantie (5):
+
+est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (6), en ce qui concerne les marchandises décrites ci-dessous faisant l’objet de l’opération douanière suivante (7):
+
+Désignation des marchandises:
+
+\2. Le (la) soussigné(e) s’oblige à effectuer, à la première demande écrite des autorités compétentes des pays visés au point 1, le paiement des sommes demandées, sans pouvoir le différer au-delà d’un délai de trente jours à compter de la date de la demande, à moins qu’il (elle) ou toute autre personne intéressée n’établisse avant l’expiration de ce délai, à la satisfaction des autorités douanières, que le régime particulier, autre que le régime de la destination particulière, a été apuré, que la surveillance douanière des marchandises à destination particulière ou le dépôt temporaire ont pris fin de manière appropriée ou, dans le cas des opérations autres que les régimes particuliers et le dépôt temporaire, que la situation des marchandises a été régularisée.
+
+Les autorités compétentes peuvent, à la demande du (de la) soussigné(e) et pour toutes raisons reconnues valables, proroger au-delà du délai de trente jours, à compter de la date de la demande de paiement, le délai dans lequel le (la) soussigné(e) est tenu(e) d’effectuer le paiement des sommes demandées. Les frais résultant de l’octroi de ce délai supplémentaire, notamment les intérêts, doivent être calculés de telle façon que leur montant soit équivalent à celui qui serait exigé à cet effet sur le marché monétaire et financier national.
+
+\3. Le présent engagement est valable à compter du jour de son approbation par le bureau de garantie. Le (la) soussigné(e) reste responsable du paiement de la dette ayant pris naissance au cours de l’opération douanière, couverte par le présent engagement, ayant débuté avant la date de prise d’effet d’une révocation ou d’une résiliation de l’acte de cautionnement, même si le paiement en est exigé ultérieurement.
+
+\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (8) dans chacun des pays visés au point 1, à:
+
+<table>
+<tr><td>Pays</td><td>Nom et prénom ou raison sociale et adresse complète</td></tr>
+</table>
+
+Le (la) soussigné(e) reconnaît que toutes correspondances, significations et plus généralement toutes formalités ou procédures relatives au présent engagement adressées ou accomplies par écrit à l’un des domiciles élus seront acceptées et dûment remises à lui-même (elle-même).
+
+Le (la) soussigné(e) reconnaît la compétence des juridictions respectives des lieux où il (elle) a fait élection de domicile.
+
+Le (la) soussigné(e) s’engage à maintenir l’élection de domicile ou, s’il (si elle) est conduit(e) à modifier l’un ou plusieurs des domiciles élus, à en informer au préalable le bureau de garantie.
+
+Fait à , le
+
+(Signature) (9)
+
+### II. Approbation du bureau de garantie
+
+Bureau de garantie
+
+Engagement de la caution approuvé le pour couvrir l’opération douanière ayant donné lieu à la déclaration en douane/déclaration de dépôt temporaire n<sup>o</sup> du (10)
+
+(cachet et signature)
+
+- (1) Nom et prénom ou raison sociale.
+- (2) Adresse complète.
+- (3) Supprimer le nom/les noms de l’État/des États sur le territoire duquel/ desquels la garantie ne peut pas être utilisée.
+- (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (5) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (6) S’applique en ce qui concerne les impositions dues en rapport avec l’importation ou l’exportation des marchandises lorsque la garantie est utilisée aux fins du placement de marchandises sous le régime du transit de l’Union/commun ou susceptible d’être utilisée dans plusieurs États membres.
+- (7)
+
+  Indiquer l’une des opérations douanières suivantes:
+
+  - a) dépôt temporaire;
+  - b) régime du transit de l’Union/régime de transit commun;
+  - c) régime de l’entrepôt douanier;
+  - d) régime d’admission temporaire en exonération totale des droits à l’importation;
+  - e) régime du perfectionnement actif;
+  - f) régime de la destination particulière;
+  - g) mise en libre pratique dans le cadre d’une déclaration en douane normale sans report de paiement;
+  - h) mise en libre pratique dans le cadre d’une déclaration normale avec report de paiement;
+  - i) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’art. 166 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union (JO L 269 du 10.10.2013, p. 1);
+  - j) mise en libre pratique au titre d’une déclaration en douane déposée conformément à l’art. 182 du règlement (UE) n<sup>o</sup> 952/2013;
+  - k) régime d’admission temporaire en exonération partielle des droits à l’importation;
+  - l) autre – Préciser le type d’opération.
+
+- (8) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés mutatis mutandis. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
+- (9) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution pour le montant de ...» (le montant doit être indiqué en toutes lettres).
+- (10) À compléter par le bureau dans lequel les marchandises ont été placées sous le régime ou étaient en dépôt temporaire.
+
+Annexe C2 de l’appendice III
+
+## Engagement de la caution – garantie isolée par titres
+
+### I. Engagement de la caution
+
+\1. Le (la) soussigné(e) (1)
+
+domicilié(e) à (2)
+
+se rend caution solidaire au bureau de garantie de
+
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la République de Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, la Principauté d’Andorre et la République de Saint-Marin (3), pour tout montant pour lequel le titulaire du régime constituant la présente garantie est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions, en ce qui concerne l’importation ou l’exportation de marchandises placées sous le régime du transit commun ou de l’Union, pour lesquelles le (la) soussigné(e) s’est engagé(e) à émettre des titres de garantie isolée d’un montant maximal de 10 000 EUR par titre.
+
+\2. Le (la) soussigné(e) s’oblige à effectuer, à la première demande écrite des autorités compétentes des pays visés au point 1, le paiement des sommes demandées à concurrence d’un montant maximal de 10 000 EUR par titre de garantie isolée, sans pouvoir le différer au-delà d’un délai de trente jours à compter de la date de la demande, à moins qu’il (elle) ou toute autre personne intéressée n’établisse avant l’expiration de ce délai, à la satisfaction des autorités douanières, que l’opération a été apurée.
+
+Les autorités compétentes peuvent, à la demande du (de la) soussigné(e) et pour toutes raisons reconnues valables, proroger au-delà du délai de trente jours, à compter de la date de la demande de paiement, le délai dans lequel le (la) soussigné(e) est tenu(e) d’effectuer le paiement des sommes demandées. Les frais résultant de l’octroi de ce délai supplémentaire, notamment les intérêts, doivent être calculés de telle façon que leur montant soit équivalent à celui qui serait exigé à cet effet sur le marché monétaire et financier national.
+
+\3. Le présent engagement est valable à compter du jour de son approbation par le bureau de garantie. Le (la) soussigné(e) reste responsable du paiement de la dette ayant pris naissance au cours de l’opération du transit commun/de l’Union, couverte par le présent engagement, ayant débuté avant la date de prise d’effet d’une révocation ou d’une résiliation de l’acte de cautionnement, même si le paiement en est exigé ultérieurement.
+
+\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (4) dans chacun des pays visés au point 1, à:
+
+<table>
+<tr><td>Pays</td><td>Nom et prénom ou raison sociale et adresse complète</td></tr>
+</table>
+
+Le (la) soussigné(e) reconnaît que toutes correspondances, significations et plus généralement toutes formalités ou procédures relatives au présent engagement adressées ou accomplies par écrit à l’un des domiciles élus seront acceptées et dûment remises à lui-même (elle-même).
+
+Le (la) soussigné(e) reconnaît la compétence des juridictions respectives des lieux où il (elle) a fait élection de domicile.
+
+Le (la) soussigné(e) s’engage à maintenir l’élection de domicile ou, s’il (si elle) est conduit(e) à modifier l’un ou plusieurs des domiciles élus, à en informer au préalable le bureau de garantie.
+
+Fait à , le
+
+(Signature) (5)
+
+### II. Approbation du bureau de garantie
+
+Bureau de garantie
+
+Engagement de la caution approuvé le
+
+(cachet et signature)
+
+- (1) Nom et prénom ou raison sociale.
+- (2) Adresse complète.
+- (3) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (4) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés *mutatis mutandis*. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
+- (5) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution».
+
+Annexe C3 de l’appendice III
+
+## Titre de garantie isolée
+
+*(Recto)*
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image5.png)
+
+*(Verso)*
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image6.png)
+
+Normes techniques applicables au titre
+
+Le titre est imprimé sur papier sans pâtes mécaniques, collé pour écritures et pesant au moins 55 grammes par mètre carré. Il est revêtu d’une impression de fond guillochée, de couleur rouge, permettant de faire apparaître toute falsification à l’aide de moyens mécaniques ou chimiques. Le papier est de couleur blanche.
+
+Le format est de 148×105 millimètres.
+
+Le titre est revêtu d’une mention indiquant le nom et l’adresse de l’imprimeur ou d’un signe permettant l’identification de celui-ci et d’un numéro d’identification.
+
+Annexe C4 de l’appendice III
+
+## Engagement de la caution – garantie globale
+
+### I. Engagement de la caution
+
+\1. Le (la) soussigné(e) (1)
+
+domicilié(e) à (2)
+
+se rend caution solidaire au bureau de garantie de
+
+à concurrence d’un montant maximal de
+
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de l’Irlande, de la République hellénique, du Royaume d’Espagne, de la République française, de la République de Croatie, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3) la Principauté d’Andorre et la République de Saint-Marin (4), pour tout montant pour lequel la personne constituant la présente garantie (5)
+
+est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (6) susceptible de naître et/ou ayant pris naissance en ce qui concerne les marchandises faisant l’objet des opérations douanières mentionnées au point 1bis et/ou 1ter.
+
+Le montant maximal de la garantie se compose d’un montant de
+
+- a) représentant 100/50/30 % (7) de la partie du montant de référence correspondant à un montant destiné à couvrir des dettes douanières et d’autres impositions susceptibles de naître, équivalent à la somme des montants figurant au point 1bis;
+- et
+- b) représentant 100/30 % (7) de la partie du montant de référence correspondant à un montant destiné à couvrir des dettes douanières et d’autres impositions ayant pris naissance, équivalent à la somme des montants figurant au point 1ter,
+
+1bis. Les montants qui constituent le montant de référence correspondant à un montant destiné à couvrir les dettes douanières et, le cas échéant, d’autres impositions susceptibles de naître sont indiqués ci-après pour chacune des finalités énumérées ci-dessous (8):
+
+- a) dépôt temporaire – ...;
+- b) régime du transit de l’Union/régime de transit commun – ...;
+- c) régime de l’entrepôt douanier – ...;
+- d) régime d’admission temporaire en exonération totale des droits à l’importation – ...;
+- e) régime du perfectionnement actif – ...;
+- f) régime de la destination particulière – ...;
+- g) autre (préciser le type d’opération) – ...
+
+1ter. Les montants qui constituent le montant de référence correspondant à un montant destiné à couvrir les dettes douanières et, le cas échéant, d’autres impositions ayant pris naissance sont indiqués ci-après pour chacune des finalités énumérées ci-dessous (8):
+
+- a) mise en libre pratique dans le cadre d’une déclaration en douane normale sans report de paiement – ...;
+- b) mise en libre pratique dans le cadre d’une déclaration en douane normale avec report de paiement – ...;
+- c) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’art. 166 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union – ...;
+- d) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’art. 182 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union – ...;
+- e) régime d’admission temporaire en exonération partielle des droits à l’importation – ...;
+- f) régime de la destination particulière – ... (9),
+- g) autre (préciser le type d’opération) – ...
+
+\2. Le (la) soussigné(e) s’oblige à effectuer, à la première demande écrite des autorités compétentes des pays visés au point 1, le paiement des sommes demandées à concurrence du montant maximal susmentionné, sans pouvoir le différer au-delà d’un délai de trente jours à compter de la date de la demande, à moins qu’il (elle) ou toute autre personne intéressée n’établisse avant l’expiration de ce délai, à la satisfaction des autorités douanières, que le régime particulier, autre que le régime de la destination particulière, a été apuré, que la surveillance douanière des marchandises à destination particulière ou le dépôt temporaire ont pris fin de manière appropriée ou, dans le cas des opérations autres que les régimes particuliers, que la situation des marchandises a été régularisée.
+
+Les autorités compétentes peuvent, à la demande du (de la) soussigné(e) et pour toutes raisons reconnues valables, proroger au-delà du délai de trente jours, à compter de la date de la demande de paiement, le délai dans lequel le (la) soussigné(e) est tenu(e) d’effectuer le paiement des sommes demandées. Les frais résultant de l’octroi de ce délai supplémentaire, notamment les intérêts, doivent être calculés de telle façon que leur montant soit équivalent à celui qui serait exigé à cet effet sur le marché monétaire et financier national.
+
+Ce montant ne peut être diminué des sommes déjà payées en vertu du présent engagement que lorsque le (la) soussigné(e) est invité(e) à payer une dette ayant pris naissance au cours d’une opération douanière ayant débuté avant la réception de la demande de paiement précédente ou dans les trente jours qui suivent celle-ci.
+
+\3. Le présent engagement est valable à compter du jour de son approbation par le bureau de garantie. Le (la) soussigné(e) reste responsable du paiement de la dette née au cours de l’opération douanière, couverte par le présent engagement, ayant débuté avant la date de prise d’effet d’une révocation ou d’une résiliation de l’acte de cautionnement, même si le paiement en est exigé ultérieurement.
+
+\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (10) dans chacun des pays visés au point 1, à:
+
+<table>
+<tr><td>Pays</td><td>Nom et prénom ou raison sociale et adresse complète</td></tr>
+</table>
+
+Le (la) soussigné(e) reconnaît que toutes correspondances, significations et plus généralement toutes formalités ou procédures relatives au présent engagement adressées ou accomplies par écrit à l’un des domiciles élus seront acceptées et dûment remises à lui-même (elle-même).
+
+Le (la) soussigné(e) reconnaît la compétence des juridictions respectives des lieux où il (elle) a fait élection de domicile.
+
+Le (la) soussigné(e) s’engage à maintenir l’élection de domicile ou, s’il (si elle) est conduit(e) à modifier l’un ou plusieurs des domiciles élus, à en informer au préalable le bureau de garantie.
+
+Fait à, , le
+
+(Signature) (11)
+
+### II. Approbation du bureau de garantie
+
+Bureau de garantie
+
+Engagement de la caution accepté le
+
+(cachet et signature)
+
+- (1) Nom et prénom ou raison sociale.
+- (2) Adresse complète.
+- (3) Supprimer le nom/les noms du/des pays sur le territoire duquel/desquels la garantie ne peut pas être utilisée.
+- (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (5) Nom et prénom ou raison sociale et adresse complète de la personne constituant la garantie.
+- (6) S’applique en ce qui concerne les autres impositions dues en rapport avec l’importation ou l’exportation des marchandises lorsque la garantie est utilisée aux fins du placement de marchandises sous le régime du transit de l’Union/ commun ou susceptible d’être utilisée dans plusieurs États membres ou une seule partie contractante.
+- (7) Biffer les mentions inutiles.
+- (8) Les régimes autres que le transit commun s’appliquent uniquement dans l’Union.
+- (9) Pour les montants déclarés dans une déclaration en douane aux fins du régime de la destination particulière.
+- (10) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés *mutatis mutandis*. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
+- (11) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution pour le montant de ...» (le montant doit être indiqué en toutes lettres).
+
+Annexe C5 de l’appendice III
+
+## TC31 CERTIFICAT DE GARANTIE GLOBALE
+
+*(Recto)*
+
+<table>
+<tr><td>1. Valable jusqu’au</td><td colspan="2">Jour</td><td>Mois</td><td>Année</td><td>2. Numéro</td></tr>
+<tr><td>3. Titulaire du régime (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
+<tr><td>4. Caution (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
+<tr><td>5. Bureau de douane de garantie (numéro de référence)</td><td colspan="5"></td></tr>
+<tr><td>6. Montant de référence Code «monnaie»</td><td colspan="3">En chiffres:</td><td colspan="2">En lettres:</td></tr>
+<tr><td colspan="6">7. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci‑dessus a constitué une garantie globale valable pour les opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE – MACEDOINE DU NORD – NORVÈGE – SERBIE – SUISSE – TURQUIE – ROYAUME-UNI – ANDORRE<sup>(</sup>\*<sup>)</sup> – SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">8. Mentions particulières</td></tr>
+<tr><td colspan="2">9. Délai de validité prolongé jusqu’au jj/mm/aa inclus Fait à , (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td><td colspan="4">Fait à , (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td></tr>
+</table>
+
+- <sup>(</sup>\*<sup>)</sup> Uniquement pour les opérations de transit de l’Union
+
+*(Verso)*
+
+\10. Personnes habilitées à signer les déclarations de transit de l’Union/commun pour le titulaire du régime
+
+<table>
+<tr><td>11. Nom, prénom et spécimen de signature de la personne habilitée</td><td>12. Signature du titulaire du régime<sup>1</sup></td><td>11. Nom, prénom et spécimen de signature de la personne habilitée</td><td>12. Signature du titulaire du régime<sup>1</sup></td></tr>
+</table>
+
+- <sup>1</sup> Lorsque le titulaire du régime est une personne morale, le signataire dans la case n<sup>o</sup> 12 doit faire suivre sa signature de l’indication de ses nom, prénom et qualité.
+
+Annexe C6 de l’appendice III
+
+## TC33 – Certificat de dispense de garantie
+
+*(Recto)*
+
+<table>
+<tr><td>1. Valable jusqu’au</td><td colspan="2">Jour</td><td>Mois</td><td>Année</td><td>2. Numéro</td></tr>
+<tr><td>3. Titulaire du régime (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
+<tr><td>4. Bureau de douane de garantie (numéro de référence)</td><td colspan="5"></td></tr>
+<tr><td>5. Montant de référence Code «monnaie»</td><td colspan="3">En chiffres:</td><td colspan="2">En lettres:</td></tr>
+<tr><td colspan="6">6. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci-dessus bénéficie d’une dispense de garantie pour couvrir ses opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE, MACEDOINE DU NORD, NORVÈGE, SERBIE, SUISSE, TURQUIE, ROYAUME-UNI, ANDORRE<sup>(</sup>\*<sup>)</sup>, SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. Mentions particulières</td></tr>
+<tr><td colspan="2">8. Délai de validité prolongé jusqu’au jj/mm/aa inclus Fait , le (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td><td colspan="4">Fait , le (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td></tr>
+</table>
+
+- <sup>(</sup>\*<sup>)</sup> Uniquement pour les opérations de transit de l’Union
+
+*(Verso)*
+
+\9. Personnes habilitées à signer les déclarations de transit de l’Union/commun pour le titulaire du régime
+
+<table>
+<tr><td>10. Nom, prénom et spécimen de signature de la personne habilitée</td><td>11. Signature du titulaire du régime\*</td><td>10. Nom, prénom et spécimen de signature de la personne habilitée</td><td>11. Signature du titulaire du régime\*</td></tr>
+</table>
+
+- \* Lorsque le titulaire du régime est une personne morale, le signataire dans la case n<sup>o</sup> 11 doit faire suivre sa signature de l’indication de ses nom, prénom et qualité.»
+
+Annexe C7 de l’appendice III
+
+## Notice relative aux certificats de garantie globale et de dispense de garantie
+
+### 1. Mentions à porter au recto des certificats
+
+Après la délivrance du certificat, il ne peut être fait aucune modification, adjonction ou suppression aux mentions figurant dans les cases 1 à 8 du certificat de garantie globale et dans les cases 1 à 7 du certificat de dispense de garantie.
+
+### 1.1 Code «monnaie»
+
+Les pays portent dans la case 6 du certificat de garantie globale et la case 5 du certificat de dispense de garantie le code ISO ALPHA 3 (code ISO 4217) de la monnaie utilisée.
+
+### 1.2 Mentions particulières
+
+Lorsque le titulaire du régime s’est engagé à ne déposer la déclaration de transit qu’auprès d’un seul bureau de douane de départ, le nom de ce bureau de douane est porté en lettres majuscules en case 8 du certificat de garantie globale ou en case 7 du certificat de dispense de garantie.
+
+### 1.3 Annotation des certificats en cas de prorogation du délai de validité
+
+En cas de prorogation de la durée de validité du certificat, le bureau de douane de garantie annote la case 9 du certificat de garantie globale ou la case 8 du certificat de dispense de garantie.
+
+### 2. Mentions à porter au verso des certificats. Personnes habilitées à signer les déclarations de transit
+
+- 2\.1 Au moment de la délivrance du certificat ou à tout autre moment pendant la durée de validité dudit certificat, le titulaire du régime désigne sous sa responsabilité au verso du certificat les personnes qu’il a habilitées à signer les déclarations de transit. Chaque désignation comporte l’indication du nom et du prénom de la personne habilitée, accompagnée du spécimen de sa signature. Toute inscription d’une personne habilitée doit être appuyée par la signature du titulaire du régime. La faculté est laissée au titulaire du régime de bâtonner les cases qu’il ne désire pas utiliser.
+- 2\.2 Le titulaire du régime peut à tout moment annuler l’inscription du nom d’une personne habilitée, portée au verso du certificat.
+- 2\.3 Toute personne inscrite au verso d’un certificat présenté à un bureau de douane de départ est le représentant habilité du titulaire du régime.
+
+### 3. Utilisation du certificat en cas de dérogation à l’interdiction de garantie globale
+
+- [tab] Les modalités et mentions figurent au point 4 de l’annexe IV de l’appendice I.
+
+Appendice III<sup>bis</sup> *[^t-6]*
+
+## Déclarations de transit, documents d’accompagnement transit et autres documents
+
+[^t-6]: Introduit par l’art. 1 ch. 4, 6 et 7 de la D n<sup>o</sup> 1/2017 de la Commission mixte UE-AELE du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Mis à jour par l’art. 1 ch. 4 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019, en vigueur depuis le 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+
+Le présent appendice s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+#### Art. 1
+
+Le présent appendice reprend les dispositions, formulaires et modèles nécessaires à l’établissement des déclarations, des documents d’accompagnement transit et des autres documents utilisés aux fins du régime de transit commun conformément aux appendices I et II.
+
+### Titre I Déclaration de transit et formulaires en cas d’utilisation de procédés informatiques de traitement des données
+
+#### Art. 2
+
+**Déclaration de transit**
+
+La déclaration de transit visée à l’art. 25 de l’appendice I comporte les éléments de données précisés à l’annexe B6*bis* et est conforme aux formats utilisant les codes tous deux définis à l’annexe A1*bis*.
+
+#### Art. 3
+
+**Document d’accompagnement transit**
+
+Le document d’accompagnement transit est fourni au moyen du formulaire figurant à l’annexe A3*bis*. Il est établi et utilisé conformément aux notes explicatives de l’annexe A4*bis*.
+
+#### Art. 4
+
+**Liste d’articles**
+
+La liste d’articles est présentée sur le formulaire figurant à l’annexe A5*bis*. Elle est établie et utilisée conformément aux notes explicatives de l’annexe A6*bis*.
+
+### Titre II Formulaires utilisés pour:
+
+**– établir la preuve du statut douanier de marchandises de l’Union,**
+
+**– la déclaration de transit pour voyageurs,**
+
+**– le plan de continuité des opérations pour le transit**
+
+#### Art. 5
+
+<sup>1.</sup> Les formulaires sur lesquels sont établis les documents attestant le statut douanier de marchandises de l’Union sont fournis au moyen du formulaire figurant aux appendices 1 à 4 de l’annexe I de la convention DAU.
+
+<sup>2.</sup> Les formulaires sur lesquels sont établis les déclarations de transit pour voyageur ou les déclarations de transit dans le cadre de l’application du plan de continuité des opérations pour le transit sont fournis au moyen du formulaire figurant à l’appendice 1 de l’annexe I de la convention DAU.
+
+<sup>3.</sup>
+
+Les données figurant dans les formulaires doivent apparaître par un procédé autocopiant:
+
+- a) dans le cas des appendices 1 et 3, sur les exemplaires indiqués à l’appendice 1 de l’annexe II de la convention DAU;
+- b) dans le cas des appendices 2 et 4, sur les exemplaires indiqués à l’appendice 2 de l’annexe II de la convention DAU.
+
+<sup>4.</sup> Dans les deux cas, il convient d’utiliser, le cas échéant, les codes des annexes A1*bis* et B3.
+
+Les formulaires sont remplis et utilisés:
+
+- a) comme document attestant le statut douanier de marchandises de l’Union, conformément à la notice figurant à l’annexe B2;
+- b) comme déclaration de transit pour le voyageur ou pour le plan de continuité des opérations pour le transit, conformément à la notice figurant à l’annexe B6.
+
+#### Art. 6
+
+<sup>1.</sup> Les formulaires sont imprimés conformément à la convention DAU, annexe II, art. 2.
+
+2 Les parties contractantes peuvent imprimer dans le coin supérieur gauche du formulaire une marque d’identification de la partie contractante concernée. Elles peuvent également imprimer les mots «TRANSIT COMMUN» à la place des mots «TRANSIT DE L’UNION». La présence de cette indication ou de cette impression ne doit pas empêcher l’acceptation de la déclaration, lorsque ce formulaire est présenté dans une autre partie contractante.
+
+### Titre III Formulaires autres que le document administratif unique et le document d’accompagnement transit
+
+#### Art. 7
+
+**Listes de chargement**
+
+<sup>1.</sup> Le formulaire utilisé pour l’établissement de la liste de chargement est fourni au moyen du formulaire figurant à l’annexe B4. Il est rempli conformément à la notice figurant à l’annexe B5.
+
+<sup>2.</sup> Le papier à utiliser pour le formulaire de la liste de chargement est un papier collé pour écritures pesant au moins 40 grammes au mètre carré et sa résistance doit être telle que, à l’usage normal, il n’accuse ni déchirures ni chiffonnage. La couleur du papier est laissée au choix des intéressés.
+
+<sup>3.</sup> Le format est de 210 millimètres sur 297, une tolérance maximale de 5 millimètres en moins et de 8 millimètres en plus étant admise en ce qui concerne la longueur.
+
+#### Art. 8
+
+**Avis de passage**
+
+Le formulaire utilisé pour l’établissement de l’avis de passage dans le cadre de l’application de l’art. 21 de l’appendice I est fourni au moyen du formulaire figurant à l’annexe B8 de cet appendice.
+
+#### Art. 9
+
+**Récépissés**
+
+Le récépissé est fourni au moyen du modèle de formulaire figurant à l’annexe B10.
+
+#### Art. 10
+
+**Garantie isolée**
+
+<sup>1.</sup> Le formulaire utilisé pour l’établissement du titre de garantie isolée est conforme au modèle figurant à l’annexe C3.
+
+<sup>2.</sup> Le formulaire est imprimé sur papier sans pâtes mécaniques, collé pour écritures et pesant au moins 55 grammes par mètre carré. Il est revêtu d’une impression de fond guilloché de couleur rouge rendant apparentes toutes falsifications par des moyens mécaniques ou chimiques. Le papier est de couleur blanche.
+
+<sup>3.</sup> Le format est de 148 sur 105 millimètres.
+
+<sup>4.</sup> Le formulaire de titre de garantie isolée doit être revêtu d’une mention indiquant le nom et l’adresse de l’imprimeur ou d’un sigle permettant son identification et porter, en outre, un numéro d’identification destiné à l’individualiser.
+
+<sup>5.</sup> En ce qui concerne les titres de garantie isolée, la langue à utiliser est déterminée par les autorités compétentes du pays dont relève le bureau de garantie.
+
+#### Art. 11
+
+**Certificat de garantie globale ou de dispense de garantie**
+
+<sup>1.</sup> Les formulaires utilisés pour l’établissement du certificat de garantie globale ou de dispense de garantie ci-après dénommés «le certificat» sont conformes aux modèles figurant aux annexes C5 et C6. Ils sont remplis conformément à la notice figurant à l’annexe C7.
+
+<sup>2.</sup>
+
+Le papier à utiliser pour le formulaire de certificat est un papier de couleur blanche, sans pâtes mécaniques et pesant au moins 100 grammes au mètre carré. Il est revêtu au recto et au verso d’une impression de fond guilloché, rendant apparentes toutes falsifications par moyens mécaniques ou chimiques. Cette impression est:
+
+- – de couleur verte pour les certificats de garantie,
+- – de couleur bleu pâle pour les certificats de dispense de garantie.
+
+<sup>3.</sup> Le format est de 210 sur 148 millimètres.
+
+<sup>4.</sup> Il appartient aux parties contractantes de procéder ou de faire procéder à l’impression des formulaires de certificat. Chaque certificat comporte un numéro d’ordre permettant son identification.
+
+#### Art. 12
+
+**Dispositions communes au titre III**
+
+<sup>1.</sup> Le formulaire doit être rempli à la machine à écrire ou par un autre procédé mécanographique ou similaire. Les formulaires visés sous les articles 7 et 8 peuvent également être remplis de façon lisible à la main; dans ce dernier cas, ils doivent être remplis à l’encre et en caractères d’imprimerie.
+
+<sup>2.</sup> Le formulaire doit être établi dans une des langues officielles des parties contractantes acceptée par les autorités compétentes du pays de départ. Ces dispositions ne sont pas applicables aux titres de garantie isolée.
+
+<sup>3.</sup> En tant que de besoin, les autorités compétentes d’un autre pays dans lequel le formulaire doit être présenté peuvent en demander la traduction dans la langue officielle ou dans une des langues officielles de ce pays.
+
+<sup>4.</sup> En ce qui concerne le certificat de garantie globale ou de dispense de garantie, la langue à utiliser est déterminée par les autorités compétentes du pays dont relève le bureau de garantie.
+
+<sup>5.</sup> Le formulaire ne doit comporter ni grattages ni surcharges. Les modifications qui y sont apportées doivent être effectuées en biffant les indications erronées et en ajoutant, le cas échéant, les indications voulues. Toute modification ainsi opérée doit être approuvée par son auteur et visée expressément par les autorités compétentes.
+
+<sup>6.</sup> Une partie contractante peut, sous réserve de l’accord préalable des autres parties contractantes et dans la mesure où cela ne porte pas préjudice à la bonne application de la convention, appliquer aux formulaires visés au présent titre des mesures particulières destinées à en augmenter la sécurité.».
+
+Annexe A1<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Formats et codes des exigences communes en matière de données pour les déclarations de Transit
+
+La présente annexe s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), à l’exception des éléments de données relatifs à un document électronique de transport en tant que déclaration de transit visé à l’art. 55, par. 1, point h), de l’appendice I, qui s’appliqueront au plus tard à partir du 1<sup>er</sup> mai 2018.
+
+### Titre I Généralités
+
+\1. Les formats, les codes et, le cas échéant, la structure des éléments de données figurant dans la présente annexe sont applicables dans le cadre des exigences en matière de données pour les déclarations de transit, précisées à l’annexe B6*bis*.
+
+\2. Les formats, les codes et, le cas échéant, la structure des éléments de données figurant dans la présente annexe sont applicables aux déclarations de transit établies au moyen d’un procédé informatique de traitement des données ainsi qu’aux déclarations sur support papier.
+
+\3. Les formats des éléments de données sont exposés au titre II.
+
+\4. Lorsque les informations contenues dans une déclaration de transit dont il est question à l’annexe B6*bis* du présent appendice se présentent sous la forme de codes, la liste des codes prévue au titre II est applicable.
+
+\5. Le terme «type/longueur» dans l’explication concernant un attribut précise les exigences en matière de type et de longueur de la donnée. Les codes relatifs au type de donnée sont les suivants:
+
+- a alphabétique
+- n numérique
+- an alphanumérique
+
+Le nombre qui suit le code indique la longueur de donnée autorisée. Les conventions suivantes s’appliquent:
+
+Les deux points éventuels précédant l’indication de la longueur signifient que la donnée n’a pas de longueur fixe mais qu’elle peut comporter jusqu’au nombre de caractères indiqué. Une virgule dans la longueur du champ indique que l’attribut peut contenir des décimaux; dans ce cas, le chiffre précédant la virgule indique la longueur totale de l’attribut et le chiffre qui suit la virgule indique le nombre maximal de décimaux.
+
+Exemples de formats et de longueurs de champs:
+
+- a1 1 caractère alphabétique, longueur fixe
+- n2 2 caractères numériques, longueur fixe
+- an3 3 caractères alphanumériques, longueur fixe
+- a..4 jusqu’à 4 caractères alphabétiques
+- n..5 jusqu’à 5 caractères numériques
+- an..6 jusqu’à 6 caractères alphanumériques
+- n..7,2 jusqu’à 7 caractères numériques, dont un maximum de 2 décimales, un séparateur flottant étant autorisé.
+
+\6. La cardinalité au niveau générique figurant dans le tableau du titre II de la présente annexe indique combien de fois l’élément de données peut être utilisé au niveau générique dans une déclaration de transit.
+
+\7. La cardinalité au niveau de l’article figurant dans le tableau du titre II de la présente annexe indique combien de fois l’élément de données peut être répété eu égard à l’article en question de la déclaration.
+
+\8. Les codes nationaux peuvent être utilisés par les pays pour les éléments de données suivants: 1/11 «Procédure ou régime complémentaire», 2/2 «Mentions spéciales» et 2/3 «Documents produits, certificats et autorisations, références complémentaires». Les pays communiquent à la Commission la liste des codes nationaux utilisés pour ces éléments de données. La Commission publie la liste de ces codes.
+
+### Titre II Formats et cardinalité des exigences communes en matière de données pour les déclarations de Transit
+
+<table>
+<tr><th>Numéro d’ordre de l’E.D.</th><th>Intitulé de l’E.D.</th><th>Format de l’E.D. (type/longueur)</th><th>Liste des codes dans le titre III (O/N)</th><th>Cardinalité niveau générique</th><th>Cardinalité niveau article</th><th>Notes</th></tr>
+<tr><td>1/2</td><td>Type de déclaration supplémentaire</td><td>a1</td><td>O</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/3</td><td>Déclaration de transit</td><td>an..5</td><td>O</td><td>1x</td><td>1x</td><td></td></tr>
+<tr><td>1/4</td><td>Formulaires</td><td>n..4</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/5</td><td>Listes de chargement</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/6</td><td>Numéro d’article de marchandise</td><td>n...5</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>1/8</td><td>Signature/authentification</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/9</td><td>Nombre total d’articles</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>2/1</td><td>Déclaration simplifiée/Documents précédents</td><td>*Type du document précédent:* an ..3 + *Référence du document précédent:* an ..35+ *Identifiant de l’article de marcha**n**dise:* n..5</td><td>O</td><td>9999x</td><td>99x</td><td></td></tr>
+<tr><td>2/2</td><td>Mentions spéciales</td><td>*Version codée (codes de l’Union):* n1 + an4 OU *(codes nationaux):* a1 +an4 OU *Description libre:* an..512</td><td>O</td><td></td><td>99x</td><td>Les codes sont précisés au titre III.</td></tr>
+<tr><td>2/3</td><td>Documents produits, certificats et autorisations, références complémentaires</td><td>*Type du document (codes de l’Union):* a1 + an3 OU *(codes nationaux):* n1+an3+ *Référence de document:* an..35</td><td>O</td><td>1x</td><td>99x</td><td></td></tr>
+<tr><td>3/1</td><td>Exportateur</td><td>*Nom:* an..70 + *Rue et numéro:* an..70 + *Pays:* a2 + *Code postal:* an..9 + *Ville:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Code pays: la codification alphabétique des pays et territoires est fondée sur la norme ISO codes alpha 2 (a2) en vigueur. En cas de groupages, si des déclarations en douane sur support papier sont utilisées, le code «00200» peut être utilisé en association avec une liste des exportateurs conformément aux notes relatives à l’E.D. 3/1 «Exportateur» figurant au titre III de l’annexe B6<sup>bis</sup> de l’appendice III<sup>bis</sup>.</td></tr>
+<tr><td>3/2</td><td>Numéro d’identification de l’exportateur</td><td>an..17</td><td>N</td><td>2x</td><td>2x</td><td>Pour les États membres de l’Union européenne, le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union. Pour les pays de transit commun – le numéro EORI dans l’Union (pour autant qu’il ait été attribué et soit valide au moment du dépôt de la déclaration) et le numéro d’identification de l’opérateur dans un pays de transit commun.</td></tr>
+<tr><td>3/9</td><td>Destinataire</td><td>*Nom:* an..70 + *Rue et numéro:* an..70 + *Pays:* a2 + *Code postal:* an..9 + *Ville:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Le code pays tel que défini pour l’E.D. 3/1 Exportateur est utilisé. En cas de groupages, si des déclarations en douane sur support papier sont utilisées, le code «00200» peut être utilisé en association avec une liste des destinataires conformément aux notes relatives à l’E.D. 3/9 «Destinataire» figurant au titre III de l’annexe B6*bis* de l’appendice III.</td></tr>
+<tr><td>3/10</td><td>Numéro d’identification du destinataire</td><td>an..17</td><td>N</td><td>2x</td><td>2x</td><td>Le numéro d’identification tel que défini pour l’E.D. 3/2 «Numéro d’identification de l’exportateur» est utilisé.</td></tr>
+<tr><td>3/19</td><td>Représentant</td><td>*Nom:* an..70 + *Rue et numéro:* an..70 + *Pays:* a2 + *Code postal:* an..9 + *Ville:* an..35</td><td>N</td><td>1x</td><td></td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé.</td></tr>
+<tr><td>3/20</td><td>Numéro d’identification du représentant</td><td>an..17</td><td>N</td><td>2x</td><td></td><td>Le numéro d’identification tel que défini pour l’E.D. 3/2 «Numéro d’identification de l’exportateur» est utilisé.</td></tr>
+<tr><td>3/21</td><td>Code de statut du représentant</td><td>n1</td><td>O</td><td>1x</td><td></td><td></td></tr>
+<tr><td>3/22</td><td>Titulaire du régime de transit</td><td>*Nom:* an..70 + *Rue et numéro:* an..70 + *Pays:* a2 + *Code postal:* an..9 + *Ville:* an..35</td><td>N</td><td>1x</td><td></td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé.</td></tr>
+<tr><td>3/23</td><td>Numéro d’identification du titulaire du régime de transit</td><td>an..17</td><td>N</td><td>2x</td><td></td><td>Le numéro d’identification tel que défini pour l’E.D. 3/2 «Numéro d’identification de l’exportateur» est utilisé.</td></tr>
+<tr><td>3/37</td><td>Numéro d’identification d’autres acteurs de la chaîne d’approvisionnement</td><td>*Code rôle:* a..3 + *Identifiant:* an..17</td><td>O</td><td>99x</td><td>99x</td><td>Les codes rôles pour les autres acteurs de la chaîne d’approvisionnement sont définis au titre II. Le numéro d’identification tel que défini pour l’E.D. 3/2 «Numéro d’identification de l’exportateur» est utilisé.</td></tr>
+<tr><td>5/4</td><td>Date de la déclaration</td><td>n8 (aaaammjj)</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>5/5</td><td>Lieu de la déclaration</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>5/6</td><td>Bureau de destination (et pays)</td><td>an8</td><td>N</td><td>1x</td><td></td><td>La structure de l’identifiant du bureau de douane est définie au titre III.</td></tr>
+<tr><td>5/7</td><td>Bureau de passage prévu (et pays)</td><td>an8</td><td>N</td><td>9x</td><td></td><td>L’identifiant du bureau de douane est conforme à la structure définie pour l’E.D. 5/6 Bureau de destination (et pays).</td></tr>
+<tr><td>5/8</td><td>Code du pays de destination</td><td>a2</td><td>N</td><td>1x</td><td></td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé.</td></tr>
+<tr><td>5/21</td><td>Lieu de chargement</td><td>*Codé:* an..17 OU *Description libre:* a2 *(code pays)* + an..35 (lieu)</td><td>N</td><td>1x</td><td></td><td>Lorsque le lieu de chargement est codé conformément au Locode/ONU, l’information est le Locode/ONU tel que défini au titre III pour l’E.D. 5/6 Bureau de destination (et pays). Lorsque le lieu de chargement n’est pas codé conformément au Locode/ONU, le pays où le lieu de chargement est situé est identifié par le code tel que défini pour l’E.D. 3/1 «Exportateur».</td></tr>
+<tr><td>5/23</td><td>Localisation des marchandises</td><td>*Pays:* a2 + *Type de lieu:* a1 + *Qualifiant de l’identification:* a1 + Codé: *Identification du lieu:* an..35 + *Identifiant supplémentaire:* n..3 OU Description libre: *Rue et numéro:* an..70 + *Code postal:* an..9 + *Ville:* an..35</td><td>O</td><td>1x</td><td></td><td>La structure des codes est définie au titre III.</td></tr>
+<tr><td>6/1</td><td>Masse nette (kg)</td><td>n..16,6</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>6/5</td><td>Masse brute (kg)</td><td>n..16,6</td><td>N</td><td>1x</td><td>1x</td><td></td></tr>
+<tr><td>6/8</td><td>Désignation des marchandises</td><td>an..512</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>6/9</td><td>Type de colis</td><td></td><td>N</td><td></td><td>99x</td><td>La liste des codes correspond à la version la plus récente de la recommandation n<sup>o</sup> 21 de la CEE/ONU.</td></tr>
+<tr><td>6/10</td><td>Nombre de colis</td><td>n..8</td><td>N</td><td></td><td>99x</td><td></td></tr>
+<tr><td>6/11</td><td>Marques d’expédition</td><td>an..512</td><td>N</td><td></td><td>99x</td><td></td></tr>
+<tr><td>6/13</td><td>Code CUS</td><td>an8</td><td>N</td><td></td><td>1x</td><td>Code attribué dans l’inventaire douanier européen des substances chimiques (ECICS).</td></tr>
+<tr><td>6/14</td><td>Code des marchandises – Code NC</td><td>an..8</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>6/18</td><td>Total des colis</td><td>n..8</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>7/1</td><td>Transbordement</td><td>*Lieu de transbordement:* Pays: a2 + *Type de lieu:* a1 + *Qualifiant de l’identification:* a1 + Codé: *Identification du lieu:* an..35 + *Identifiant supplémentaire:* n..3 OU Description libre: *Rue et numéro:* an..70 + *Code postal:* an..9 + *Ville:* an..35 + Identité des moyens de transport neufs *Type d’identification:* n2 + *Numéro d’identification:* an..35 + *Nationalité des moyens de transport neufs:* a2 + *Indicateur de la conteneurisation ou non de l’envoi:* n1</td><td>N</td><td>1x</td><td></td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé. Le lieu de transbordement est conforme à la structure de l’E.D. 5/23 Localisation des marchandises. L’identité du moyen de transport est conforme à la structure de l’E.D. 7/7 Identité du moyen de transport au départ. La nationalité du moyen de transport est conforme à la structure de l’E.D. 7/8 Nationalité du moyen de transport au départ. Pour l’indicateur de conteneurisation des marchandises, les codes prévus par l’E.D. 7/2 «Conteneur» au titre III sont utilisés.</td></tr>
+<tr><td>7/2</td><td>Conteneur</td><td>n1</td><td>O</td><td>1x</td><td></td><td></td></tr>
+<tr><td>7/4</td><td>Mode de transport à la frontière</td><td>n1</td><td>O</td><td></td><td></td><td></td></tr>
+<tr><td>7/5</td><td>Mode de transport intérieur</td><td>n1</td><td>N</td><td>1x</td><td>1x</td><td>Les codes prévus au titre III concernant l’.E.D. 7/4 «Mode de transport à la frontière» sont utilisés.</td></tr>
+<tr><td>7/7</td><td>Identité du moyen de transport au départ</td><td>*Type d’identification:* n2 + *Numéro d’identification:* an..35</td><td>O</td><td>1x</td><td>1x</td><td></td></tr>
+<tr><td>7/8</td><td>Nationalité du moyen de transport au départ</td><td>a2</td><td>N</td><td>1x</td><td>1x</td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé.</td></tr>
+<tr><td>7/10</td><td>Numéro d’identification du conteneur</td><td>an..17</td><td>N</td><td>9999x</td><td>9999x</td><td></td></tr>
+<tr><td>7/14</td><td>Identité du moyen de transport actif franchissant la frontière</td><td>*Type d’identification:* n2 + *Numéro d’identification:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Les codes définis pour l’E.D. 7/7 «Identité du moyen de transport au départ» sont utilisés pour le type d’identification.</td></tr>
+<tr><td>7/15</td><td>Nationalité du moyen de transport actif franchissant la frontière</td><td>a3</td><td>N</td><td>1x</td><td>1x</td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé.</td></tr>
+<tr><td>7/18</td><td>Numéro de scellé</td><td>*Numéro des scellés:* n..4 + *Identifiant de scellé:* an..20</td><td>N</td><td>1x 9999x</td><td>1x 9999x</td><td></td></tr>
+<tr><td>7/19</td><td>Autres incidents au cours du transport</td><td>an..512</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>8/2</td><td>Type de garantie</td><td>an1</td><td>O</td><td>9x</td><td></td><td></td></tr>
+<tr><td>8/3</td><td>Référence de la garantie</td><td>*NRG:* an..24 + *Code d’accès:* an..4 + *Code devise:* a3 + *Montant de dette:* n..16,2 + *Bureau de douane de garantie:* an8</td><td>N</td><td>99x</td><td></td><td>Les codes devises ISO-alpha-3 (ISO 4217) sont utilisés pour la monnaie. L’identifiant du bureau de douane est conforme à la structure définie pour l’E.D. 5/6 Bureau de destination (et pays).</td></tr>
+<tr><td>8/4</td><td>Garantie non valable pour</td><td>a2</td><td>N</td><td>99x</td><td></td><td>Le code pays tel que défini pour l’E.D. 3/1 «Exportateur» est utilisé.</td></tr>
+</table>
+
+### Titre III Codes liés aux exigences communes en matière de données dans une déclaration de Transit
+
+Le présent titre contient les codes qu’il convient d’utiliser sur les déclarations de transit électroniques et sur support papier normales.
+
+1/2. Type de déclaration supplémentaire
+
+- D pour le dépôt d’une déclaration de transit, conformément à l’art. 29<sup>bis</sup> de l’appendice I de la convention.
+
+1/3. Déclaration de transit
+
+Codes à utiliser dans le contexte du transit:
+
+- T Envois composites comprenant à la fois des marchandises qui ont le statut douanier de marchandises de l’Union et des marchandises qui n’ont pas le statut douanier de marchandises de l’Union, placées sous le régime de transit commun.
+- T1 Marchandises n’ayant pas le statut douanier de marchandises de l’Union, qui sont placées sous le régime de transit commun.
+- T2 Marchandises ayant le statut douanier de marchandises de l’Union, qui sont placées sous le régime de transit commun.
+- T2F Marchandises ayant le statut douanier de marchandises de l’Union, qui circulent entre une partie du territoire douanier de l’Union où les dispositions de la directive 2006/112/CE du Conseil[^annexu1-lvlu1-titIII-1] ou de la directive 2008/118/CE du Conseil[^annexu1-lvlu1-titIII-2] ne s’appliquent pas et un pays de transit commun;
+- C Marchandises de l’Union, qui ne sont pas placées sous un régime de transit commun dans le cadre de l’application de l’art. 55, par. 1, point h), de l’appendice I.
+- TD Marchandises déjà placées sous un régime de transit dans le cadre de l’application de l’art. 55, par. 1, point h), de l’appendice I.
+- X Marchandises de l’Union à exporter, qui ne sont pas placées sous un régime de transit dans le cadre de l’application de l’art. 55, par. 1, point h), de l’appendice I.
+
+2/1. Déclaration simplifiée/Documents précédents
+
+Cet élément de données se compose de codes alphanumériques.
+
+Chaque code est composé de trois éléments différents. Le premier élément (an..3), représenté par des chiffres ou par des lettres ou par une combinaison de chiffres et de lettres, sert à distinguer la nature du document. Le deuxième élément (an..35) représente les données indispensables pour reconnaître le document, soit son numéro d’identification, soit une autre référence reconnaissable. Le troisième élément (an..5) permet d’identifier l’article du document précédent auquel il est fait référence.
+
+Lorsqu’une déclaration en douane est déposée sur support papier, les trois éléments sont séparés par un tiret (–).
+
+\1. Le premier élément (an..3):
+
+Choisissez l’abréviation du document utilisé dans la «liste des abréviations des documents» ci-dessous.
+
+Liste des abréviations des documents
+
+(codes numériques extraits du répertoire des Nations unies pour l’échange électronique de données pour l’administration, le commerce et le transport 2014b: liste de codes pour l’élément de données 1001, «Nom du document/message, codé»).
+
+<table>
+<tr><td>Liste de conteneurs</td><td>235</td></tr>
+<tr><td>Bon de livraison</td><td>270</td></tr>
+<tr><td>Liste de colisage</td><td>271</td></tr>
+<tr><td>Facture pro forma</td><td>325</td></tr>
+<tr><td>Déclaration de dépôt temporaire</td><td>337</td></tr>
+<tr><td>Déclaration sommaire d’entrée</td><td>355</td></tr>
+<tr><td>Facture commerciale</td><td>380</td></tr>
+<tr><td>Lettre de transport «fille» (house air waybill)</td><td>703</td></tr>
+<tr><td>Connaissement principal (master bill of lading)</td><td>704</td></tr>
+<tr><td>Connaissement (bill of lading)</td><td>705</td></tr>
+<tr><td>Connaissement maritime émis par un transitaire ou un transporteur public sans navires (NVOCC) (house bill of lading)</td><td>714</td></tr>
+<tr><td>Lettre de voiture ferroviaire</td><td>720</td></tr>
+<tr><td>Lettre de voiture pour les transports routiers</td><td>730</td></tr>
+<tr><td>Lettre de transport aérien (air waybill)</td><td>740</td></tr>
+<tr><td>Lettre de transport aérien principal (master air waybill)</td><td>741</td></tr>
+<tr><td>Bulletin d’expédition (colis postaux)</td><td>750</td></tr>
+<tr><td>Document de transport multimodal/combiné</td><td>760</td></tr>
+<tr><td>Manifeste de chargement</td><td>785</td></tr>
+<tr><td>Bordereau</td><td>787</td></tr>
+<tr><td>Déclaration de transit de l’Union – envois composites (T)</td><td>820</td></tr>
+<tr><td>Déclaration de transit (T1)</td><td>821</td></tr>
+<tr><td>Déclaration de transit (T2)</td><td>822</td></tr>
+<tr><td>Déclaration de transit (T2F)</td><td>T2F</td></tr>
+<tr><td>Preuve du statut douanier de marchandises de l’Union T2L</td><td>825</td></tr>
+<tr><td>Preuve du statut douanier de marchandises de l’Union T2LF</td><td>T2G</td></tr>
+<tr><td>Carnet TIR</td><td>952</td></tr>
+<tr><td>Carnet ATA</td><td>955</td></tr>
+<tr><td>Référence/date de l’inscription dans les écritures du déclarant</td><td>CLE</td></tr>
+<tr><td>Bulletin d’information INF3</td><td>IF3</td></tr>
+<tr><td>Déclaration simplifiée</td><td>SDE</td></tr>
+<tr><td>Déclaration MRN</td><td>MRN</td></tr>
+<tr><td>Manifeste de chargement – Procédure simplifiée</td><td>MNS</td></tr>
+<tr><td>Divers</td><td>ZZZ</td></tr>
+</table>
+
+\2. Le deuxième élément (an..35):
+
+Le numéro d’identification du document utilisé ou une autre référence reconnaissable de celui-ci est à insérer ici.
+
+Si le NRM est désigné comme le document précédent, le numéro de référence doit avoir la structure suivante:
+
+<table>
+<tr><th>Champ</th><th>Contenu</th><th>Format</th><th>Exemples</th></tr>
+<tr><td>1</td><td>Deux derniers chiffres de l’année d’acceptation officielle de la déclaration (AA)</td><td>n2</td><td>15</td></tr>
+<tr><td>2</td><td>Identifiant du pays où la déclaration de transit est déposée (code pays alpha 2)</td><td>a2</td><td>RO</td></tr>
+<tr><td>3</td><td>Identifiant unique pour le message par année et par pays</td><td>an12</td><td>9876AB889012</td></tr>
+<tr><td>4</td><td>Identifiant de la procédure</td><td>a1</td><td>B</td></tr>
+<tr><td>5</td><td>Chiffre de contrôle</td><td>an1</td><td>5</td></tr>
+</table>
+
+Les champs 1 et 2 sont remplis comme indiqué ci-dessus.
+
+Le champ 3 est rempli avec un identifiant pour le message en question. La manière de remplir ce champ relève de la compétence des pays, mais chaque message traité dans l’année dans le pays concerné doit être identifié par un numéro unique en ce qui concerne la procédure en question.
+
+Les pays qui souhaitent inclure le numéro de référence du bureau de douane compétent dans le NRM peuvent utiliser jusqu’aux six premiers caractères pour le représenter.
+
+Le champ 4 est rempli avec un identifiant de la procédure définie dans le tableau ci-dessous.
+
+Le champ 5 reçoit une valeur servant de chiffre de contrôle pour le NRM. Il permet de déceler une erreur lors de la saisie du numéro complet.
+
+Codes à utiliser dans le champ 4 – identifiant de la procédure:
+
+<table>
+<tr><th>Code</th><th>Procédure</th></tr>
+<tr><td>A</td><td>Exportation uniquement</td></tr>
+<tr><td>B</td><td>Déclarations sommaires de sortie et d’exportation</td></tr>
+<tr><td>C</td><td>Déclaration sommaire de sortie uniquement</td></tr>
+<tr><td>D</td><td>Notification de réexportation</td></tr>
+<tr><td>E</td><td>Expédition de marchandises concernant des territoires fiscaux spéciaux</td></tr>
+<tr><td>J</td><td>Déclaration de transit uniquement</td></tr>
+<tr><td>K</td><td>Déclaration de transit et déclaration sommaire de sortie</td></tr>
+<tr><td>L</td><td>Déclaration de transit et déclaration sommaire d’entrée</td></tr>
+<tr><td>M</td><td>Preuve du statut douanier de marchandises de l’Union</td></tr>
+<tr><td>R</td><td>Déclaration d’importation uniquement</td></tr>
+<tr><td>S</td><td>Déclaration d’importation et déclaration sommaire d’entrée</td></tr>
+<tr><td>T</td><td>Déclaration sommaire d’entrée uniquement</td></tr>
+<tr><td>U</td><td>Déclaration de dépôt temporaire</td></tr>
+<tr><td>W</td><td>Déclaration de dépôt temporaire et déclaration sommaire d’entrée</td></tr>
+</table>
+
+\3. Le troisième élément (an..5):
+
+Le numéro d’article des marchandises en question tel que fourni dans l’E.D. 1/6. «Numéro d’article de marchandise» sur le document précédent.
+
+Exemple:
+
+l’article en question était le 5<sup>e</sup> sur le document de transit T1 (document précédent) auquel le bureau de destination a attribué le numéro «238544». Le code sera par conséquent «821-238544-5». [«821» pour le régime de transit, «238544» pour le numéro d’enregistrement du document (ou le MRN pour les opérations NSTI) et «5» pour le numéro d’article].
+
+Lorsque, dans le cas de déclarations de transit sur support papier, il convient de saisir plus d’une référence et que les pays prévoient que des informations codées soient utilisées, le code 00200 tel que défini dans l’E.D. 2/2 Mentions spéciales est applicable.
+
+2/2 Mentions spéciales.
+
+Des mentions spécifiques qui ressortissent du domaine douanier sont codées sous forme d’un code numérique à cinq chiffres. Ce code figure à la suite de la mention concernée sauf si la législation des parties contractantes prévoit que ce code se substitue au texte.
+
+Les codes «00200» et «00300» sont utilisés uniquement dans le cas de déclarations de transit sur support papier, s’il y a lieu.
+
+Les codes «20100», «20200» et «20300» sont utilisés uniquement dans le cas de déclarations de transit électroniques et sur support papier, s’il y a lieu.
+
+<table>
+<tr><th>Base juridique</th><th>Objet</th><th>Mention spéciale</th><th>Code</th></tr>
+<tr><td>Annexe B6*bis*, Titre III</td><td>Plusieurs documents ou parties</td><td>«Divers»</td><td>00200</td></tr>
+<tr><td>Annexe B6*bis*, Titre III</td><td>Identité entre le déclarant et l’expéditeur</td><td>«Expéditeur»</td><td>00300</td></tr>
+<tr><td>Art. 18 de la convention</td><td>Exportation d’une partie contractante ou exportation de l’Union soumise à des restrictions</td><td></td><td>20 100</td></tr>
+<tr><td>Art. 18 de la convention</td><td>Exportation d’une partie contractante ou exportation de l’Union soumise à des droits de douane</td><td></td><td>20 200</td></tr>
+<tr><td>Art. 18 de la convention</td><td>Exportation</td><td>«Exportation»</td><td>20 300</td></tr>
+</table>
+
+2/3. Documents produits, certificats et autorisations, références complémentaires
+
+- a) Les documents, certificats et autorisations de parties contractantes ou internationaux produits à l’appui de la déclaration de transit, ainsi que les références complémentaires, sont indiqués sous la forme d’un code défini au titre II, suivi soit par un numéro d’identification, soit par une autre référence reconnaissable. La liste des documents, certificats, autorisations et références complémentaires ainsi que de leurs codes respectifs est reprise dans la base de données TARIC.
+- b) Les documents, certificats et autorisations nationaux produits à l’appui de la déclaration de transit, ainsi que les références complémentaires, sont indiqués sous la forme d’un code défini au titre II, éventuellement suivi soit par un numéro d’identification, soit par une autre référence reconnaissable. Les quatre caractères constituant les codes sont établis selon la nomenclature propre à chaque pays.
+
+3/1. «Exportateur»
+
+En cas de groupages, si des déclarations de transit sur support papier sont utilisées et si les pays prévoient le recours à des informations codées, le code 00200 tel que défini pour l’E.D. 2/2 «Mentions spéciales» est applicable.
+
+3/2. «Numéro d’identification de l’exportateur»
+
+Pour les États membres de l’Union européenne, indiquer le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union.
+
+Pour les pays de transit commun – indiquer à la fois: le numéro EORI délivré dans l’Union et le numéro d’identification de l’opérateur délivré dans un pays de transit commun. Si le numéro EORI n’a pas été attribué, indiquer seulement le numéro d’identification de l’opérateur dans un pays de transit commun.
+
+3/9. «Destinataire»
+
+En cas de groupages, si des déclarations de transit sur support papier sont utilisées et si les pays prévoient le recours à des informations codées, le code 00200 tel que défini pour l’E.D. 2/2 «Mentions spéciales» est applicable.
+
+3/10. Numéro d’identification du destinataire
+
+Pour les États membres de l’Union européenne, indiquer le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union.
+
+Pour les pays de transit commun – indiquer à la fois: le numéro EORI délivré dans l’Union et le numéro d’identification de l’opérateur délivré dans un pays de transit commun. Si le numéro EORI n’a pas été attribué, indiquer seulement le numéro d’identification de l’opérateur dans un pays de transit commun.
+
+3/20. Numéro d’identification du représentant.
+
+Pour les États membres de l’Union européenne, indiquer le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union.
+
+Pour les pays de transit commun – indiquer à la fois: le numéro EORI délivré dans l’Union et le numéro d’identification de l’opérateur délivré dans un pays de transit commun. Si le numéro EORI n’a pas été attribué, indiquer seulement le numéro d’identification de l’opérateur dans un pays de transit commun.
+
+3/21 Code de statut du représentant
+
+Pour désigner le statut du représentant, un des codes suivants (n1) est à insérer devant le nom et l’adresse complète:
+
+- 2 Représentant – représentation directe (le représentant en douane agit au nom et pour le compte d’une autre personne)
+- 3 Représentant – représentation indirecte (le représentant en douane agit en son nom propre, mais pour le compte d’une autre personne)
+
+Lorsque cet élément de données est imprimé sur support papier, il sera inséré entre crochets (par exemple: [2] ou [3]).
+
+3/22. Titulaire du régime de transit
+
+Pour les États membres de l’Union européenne, indiquer le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union.
+
+Pour les pays de transit commun – indiquer à la fois: le numéro EORI délivré dans l’Union et le numéro d’identification de l’opérateur délivré dans un pays de transit commun. Si le numéro EORI n’a pas été attribué, indiquer seulement le numéro d’identification de l’opérateur dans un pays de transit commun.
+
+3/37. Numéros d’identification d’autres acteurs de la chaîne d’approvisionnement
+
+Cet élément de données se compose de deux éléments:
+
+\1. Code rôle
+
+Les intervenants suivants peuvent être déclarés:
+
+<table>
+<tr><th>Code rôle</th><th>Intervenant</th><th>Description</th></tr>
+<tr><td>CS</td><td>Groupeur</td><td>Transitaire combinant des plus petits envois en un seul envoi plus important (dans le cadre d’un processus de groupage) qui est envoyé à une contrepartie qui reproduit l’activité du groupeur en divisant l’envoi groupé en ses éléments initiaux.</td></tr>
+<tr><td>MF</td><td>Fabricant</td><td>Intervenant fabriquant les marchandises.</td></tr>
+<tr><td>FW</td><td>Transitaire</td><td>Intervenant organisant l’expédition des marchandises.</td></tr>
+<tr><td>WH</td><td>Entrepositaire</td><td>Intervenant prenant en charge la responsabilité des marchandises entrant en entrepôt.</td></tr>
+</table>
+
+\2. Numéro d’identification de l’intervenant
+
+La structure de ce numéro est identique à celle décrite pour l’E.D. 3/2 Numéro d’identification de l’exportateur.
+
+5/6. Bureau de destination (et pays).
+
+Les codes à utiliser (an8) respectent la structure suivante:
+
+- – les deux premiers caractères (a2) servent à déterminer le pays en utilisant le code pays mentionné pour le numéro d’identification de l’exportateur,
+- – les six caractères suivants (an6) représentent le bureau concerné dans ce pays. Dans ce contexte, il est suggéré d’adopter la structure suivante:
+
+les trois premiers caractères (an3) représenteraient le nom du lieu Locode/ONU[^annexu1-lvlu1-titIII-3] suivi d’une subdivision alphanumérique nationale (an3). Au cas où cette subdivision ne serait pas utilisée, il conviendrait d’insérer «000».
+
+Exemple: BEBRU000: BE = ISO 3166 pour la Belgique, BRU = nom du lieu Locode/ONU pour la ville de Bruxelles, 000 pour la non-utilisation de la subdivision.
+
+5/23. Localisation des marchandises.
+
+Utiliser les codes pays ISO alpha 2 dans le champ 1 de l’E.D. 3/1 «Exportateur».
+
+Pour le type de lieu, utiliser les codes indiqués ci-dessous:
+
+- A Lieu désigné
+- B Lieu autorisé
+- C Lieu agréé
+- D Divers
+
+Pour la détermination du lieu, utiliser l’un des identifiants indiqués ci-dessous:
+
+<table>
+<tr><th>Qualificateur</th><th>Identifiant</th><th>Description</th></tr>
+<tr><td>U</td><td>Locode/ONU</td><td>Utiliser les codes définis dans la liste des codes de Locode/ONU par pays.</td></tr>
+<tr><td>V</td><td>Identifiant du bureau de douane</td><td>Utiliser les codes mentionnés sous D.E. 5/6 Bureau de destination et pays.</td></tr>
+<tr><td>W</td><td>Coordonnées GPS</td><td>Degrés décimaux avec utilisation de nombres négatifs pour indiquer le sud et l’ouest. Exemples: 44,424896°/8,774792° ou 50,838068°/4,381508°</td></tr>
+<tr><td>X</td><td>Le numéro EORI dans l’Union ou un numéro d’identification unique d’un pays tiers reconnu par l’Union ou le numéro d’identification de l’opérateur dans les pays de transit commun</td><td>Utiliser le numéro d’identification mentionné dans la description de l’E.D. 3/2 Numéro d’identification de l’exportateur. Si l’opérateur économique dispose de plusieurs locaux, le numéro est complété par un identifiant unique pour le lieu en question.</td></tr>
+<tr><td>Y</td><td>Numéro de l’autorisation</td><td>Indiquer le numéro d’autorisation du lieu en question, c’est‑à‑dire de l’autorisation relative au statut d’expéditeur agréé. Si l’autorisation porte sur plusieurs locaux, le numéro d’autorisation est complété par un identifiant unique pour le lieu en question.</td></tr>
+</table>
+
+Si le code «X» ou «Y» est utilisé pour identifier le lieu et que plusieurs lieux sont associés au numéro EORI ou au numéro d’autorisation en question, il peut être recouru à un identifiant supplémentaire pour permettre l’identification certaine du lieu.
+
+7/2. Conteneur
+
+- 0 Marchandises non transportées en conteneurs
+- 1 Marchandises transportées en conteneurs.
+
+7/4. Mode transport à la frontière
+
+Les codes à utiliser sont les suivants:
+
+<table>
+<tr><th>Code</th><th>Description</th></tr>
+<tr><td>2</td><td>Transport par chemin de fer</td></tr>
+<tr><td>3</td><td>Transport par route</td></tr>
+<tr><td>4</td><td>Transport par air</td></tr>
+<tr><td>5</td><td>Courrier (Mode de transport actif inconnu)</td></tr>
+<tr><td>7</td><td>Installations de transport fixes</td></tr>
+<tr><td>8</td><td>Transport par navigation intérieure</td></tr>
+<tr><td>9</td><td>Mode inconnu (c. à d. propulsion propre)</td></tr>
+</table>
+
+7/7 Identité du moyen de transport au départ
+
+Identité du moyen de transport au départ
+
+<table>
+<tr><th>Code</th><th>Description</th></tr>
+<tr><td>20</td><td>Numéro du wagon</td></tr>
+<tr><td>30</td><td>Plaque minéralogique du véhicule routier</td></tr>
+<tr><td>40</td><td>Numéro de vol IATA</td></tr>
+<tr><td>41</td><td>Numéro d’immatriculation de l’aéronef</td></tr>
+<tr><td>81</td><td>Nom du bateau de navigation intérieure</td></tr>
+</table>
+
+8/2 Type de garantie
+
+Codes concernant la garantie
+
+Les codes à utiliser sont les suivants:
+
+<table>
+<tr><th>Description</th><th>Code</th></tr>
+<tr><td>En cas de dispense de garantie (art. 75, par. 2, point c), de l’appendice I)</td><td>0</td></tr>
+<tr><td>En cas de garantie globale (art. 75, par. 1, et 2, points a) et b), de l’appendice I)</td><td>1</td></tr>
+<tr><td>En cas de garantie isolée sous forme d’engagement d’une caution (art. 20 de l’appendice I)</td><td>2</td></tr>
+<tr><td>En cas de garantie isolée en espèces (art. 19 de l’appendice I)</td><td>3</td></tr>
+<tr><td>En cas de garantie isolée par titres (art. 21 de l’appendice I)</td><td>4</td></tr>
+<tr><td>En cas de dispense de garantie pour le parcours entre le bureau de douane de départ et le bureau de douane de passage (art. 10, par. 2, point b), de la convention)</td><td>7</td></tr>
+<tr><td>En cas de garantie isolée du type repris sous le point 3 de l’annexe I de l’appendice I</td><td>9</td></tr>
+<tr><td>En cas de dispense de garantie pour les marchandises transportées par l’intermédiaire d’une installation de transport fixe (art. 13, par. 1, point c), de l’appendice I)</td><td>C</td></tr>
+<tr><td>En cas de dispense de garantie sur la base d’un agrément (art. 10, par. 2, point a), de la convention)</td><td>A</td></tr>
+<tr><td>En cas de dispense de garantie pour les marchandises placées sous le régime de transit commun conformément à l’art. 13, par. 1, point a), de l’appendice I</td><td>H</td></tr>
+</table>
+
+[^annexu1-lvlu1-titIII-1]: Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (JO L 347 du 11.12.2006, p. 1).
+[^annexu1-lvlu1-titIII-2]: Directive 2008/118/CE du Conseil du 16 décembre 2008 relative au régime général d’accise et abrogeant la directive 92/12/CEE (JO L 9 du 14.1.2009, p. 12).
+[^annexu1-lvlu1-titIII-3]: Recommandation n° 16 sur le Locode/ONU – CODE DES PORTS ET AUTRES LIEUX.
+
+### Titre IV Références linguistiques et codes correspondants
+
+<table>
+<tr><th>Mentions linguistiques</th><th>Codes</th></tr>
+<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς ES Validez limitada FR Validité limitée HR Valjanost ograničena IT Validità limitata LV Ierobežots derīgums LT Galiojimas apribotas HU Korlátozott érvényű MK Ограничено важење MT Validità limitata NL Beperkte geldigheid PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SL Omejena veljavnost SK Obmedzená platnosť FI Voimassa rajoitetusti SV Begränsad giltighet EN Limited validity IS Takmarkað gildissvið NO Begrenset gyldighet TR Sınırlı Geçerli</td><td>Validité limitée – 99200</td></tr>
+<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή ES Dispensa FR Dispense HR Oslobođeno IT Dispensa LV Derīgs bez zīmoga LT Leista neplombuoti HU Mentesség MK Изземање MT Tneħħija NL Vrijstelling PL Zwolnienie PT Dispensa RO Dispensă RS Ослобођење SL Opustitev SK Upustenie FI Vapautettu SV Befrielse EN Waiver IS Undanþegið NO Fritak TR Vazgeçme</td><td>Dispense – 99201</td></tr>
+<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη ES Prueba alternativa FR Preuve alternative HR Alternativni dokaz IT Prova alternativa LV Alternatīvs pierādījums LT Alternatyvusis įrodymas HU Alternatív igazolás MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SL Alternativno dokazilo SK Alternatívny dôkaz FI Vaihtoehtoinen todiste SV Alternativt bevis EN Alternative proof IS Önnur sönnun NO Alternativt bevis TR Alternatif Kanıt</td><td>Preuve alternative – 99202</td></tr>
+<tr><td>BG Различия: митническо учреждение, където стоките са представени (наименование и страна CS Nesrovnalosti: úřad, kterému bylo zboží předloženo ... (název a země) DA Forskelle: det sted, hvor varerne blev frembudt ... (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ... (Name und Land) EE Erinevused: asutus, kuhu kaup esitati ... (nimija riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ... (Όνομα και χώρα) ES Diferencias: mercancías presentadas en la oficina ... (nombre y país) FR Différences: marchandises présentées au bureau ... (nom et pays) HR Razlike:Carinarnica kojoj je roba podnesena ... (naziv i zemlja) IT Differenze: ufficio al quale sono state presentate le merci ... (nome e paese) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas (nosaukums un valsts) LT Skirtumai: įstaiga, kuriai pateiktos prekės (pavadinimas ir valstybė) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént ... (név és ország) MK Разлики: Испостава каде стоките се ставени на увид ... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ... (naam en land) PL Niezgodności: urząd, w którym przedstawiono towar ... (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ... (nome e país) RO Diferenţe: mărfuri prezentate la biroul vamal ... (nume şi ţara) RS Разлике: царински орган којем је предата роба ... (назив и земља) SL Razlike: urad, pri katerem je bilo blago predloženo ... (naziv in država) SK Rozdiely: úrad, ktorému bol tovar predložený ... (názov a krajina) FI Muutos: toimipaikka, jossa tavarat esitetty ... (nimi ja maa) SV Avvikelse: tullkontor där varorna anmäldes ... (namn och land) EN Differences: office where goods were presented ...... (name and country) IS Breying: tollstjóraskrifstofa þar sem vörum var framvísað ...... (nafn og land) NO Forskjell: det tollsted hvor varene ble fremlagt ... (navn og land) TR Değişiklikler: Eşyanın sunulduğu idare ... (adı ve ülkesi).</td><td>Différences: marchandises présentées au bureau ... (nom et pays) – 99203</td></tr>
+<tr><td>BG Излизането от ... подлежи на ограничения или такси съгласно Регламент/Директива/Решение № ..., CS Výstup ze ... podléhá omezením nebo dávkám podle nařízení/směrnice/rozhodnutí č. ... DA Udpassage fra ... undergivet restriktioner eller afgifter i henhold til forordning/direktiv/ afgørelse nr. ... DE Ausgang aus ... – gemäss Verordnung/Richtlinie/Beschluss Nr. ... Beschränkungen oder Abgaben unterworfen. EE Väljumine ... on aluseks piirangutele ja/või maksudele vastavalt määrusele/direktiivile/otsusele nr ... EL Η έξοδος από ... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. ... ES Salida de ... sometida a restricciones o imposiciones en virtud del (de la) Reglamento/ Directiva/Decisión no ... FR Sortie de ... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> ... HR Izlaz iz ... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br ... IT Uscita dal ... soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/ direttiva/decisione n. ... LV Izvešana no ..., piemērojot ierobežojumus vai maksājumus saskaņā ar Regulu/Direktīvu/ Lēmumu Nr. ..., LT Išvežimui iš ... taikomi apribojimai arba mokesčiai, nustatyti Reglamentu/Direktyva/Sprendimu Nr. ..., HU A kilépés ... területéről a ... rendelet/ irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik MK Излез од ... предмет на ограничувања или давачки согласно Уредба/ Директива/Решение № ... MT Ħruġ mill-... suġġett għall restrizzjonijiet jew ħlasijiet taħt Regola/Direttiva/Deċiżjoni Nru ... NL Bij uitgang uit de ... zijn de beperkingen of heffingen van Verordening/Richtlijn/Besluit nr. ... van toepassing. PL Wyprowadzenie z ... podlega ograniczeniom lub opłatom zgodnie z rozporządzeniem/ dyrektywą/decyzją nr ... PT Saída da ... sujeita a restrições ou a imposições pelo(a) Regulamento/Directiva/Decisão n.º ... RO Ieşire din ... supusă restricţiilor sau impunerilor în temeiul Regulamentului/Directivei/ Deciziei nr ... RS Излаз из ... подлеже ограничењима или дажбинама на основу Уредбе/ Директиве/Одлуке бр ... SL Iznos iz ... zavezan omejitvam ali obveznim dajatvam na podlagi Uredbe/Direktive/ Odločbe št. ... SK Výstup z ... podlieha obmedzeniam alebo platbám podľa nariadenia/smernice/rozhodnutia č. ... FI ... vientiin sovelletaan asetuksen/direktiivin/ päätöksen N:o ... mukaisia rajoituksia tai maksuja SV Utförsel från ... underkastad restriktioner eller avgifter i enlighet med förordning/direktiv/ beslut nr ... EN Exit from ... subject to restrictions or charges under Regulation/Directive/Decision No ... IS Útflutningur frá ... háð takmörkunum eða gjöldum samkvæmt reglugerð/fyrirmælum/ ákvörðun nr. ... NO Utførsel fra ... underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/ vedtak nr. ... TR Eşyanın ...’dan çıkışı ... No.lu Tüzük/ Direktif / Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td>Sortie de ... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> ... – 99204</td></tr>
+<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας ES Expedidor autorizado FR Expéditeur agréé HR Ovlašteni pošiljatelj IT Speditore autorizzato LV Atzītais nosūtītājs LT Įgaliotas siuntėjas HU Engedélyezett feladó MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SL Pooblaščeni pošiljatelj SK Schválený odosielateľ FI Valtuutettu lähettäjä SV Godkänd avsändare EN Authorised consignor IS Viðurkenndur sendandi NO Autorisert avsender TR İzinli Gönderici.</td><td>Expéditeur agréé – 99206</td></tr>
+<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή ES Dispensa de firma FR Dispense de signature HR Oslobođeno potpisa IT Dispensa dalla firma LV Derīgs bez paraksta LT Leista nepasirašyti HU Aláírás alól mentesítve MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SL Opustitev podpisa SK Upustenie od podpisu FI Vapautettu allekirjoituksesta SV Befrielse från underskrift EN Signature waived IS Undanþegið undirskrift NO Fritatt for underskrift TR İmzadan Vazgeçme</td><td>Dispense de signature – 99207</td></tr>
+<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET KAUTION DE GESAMTBÜRGSCHAFT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ ES GARANTÍA GLOBAL PROHIBIDA FR GARANTIE GLOBALE INTERDITE HR ZABRANJENO ZAJEDNIČKO JAMSTVO IT GARANZIA GLOBALE VIETATA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA HU ÖSSZKEZESSÉG TILALMA MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SK ZÁKAZ CELKOVEJ ZÁRUKY FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY SV SAMLAD SÄKERHET FÖRBJUDEN EN COMPREHENSIVE GUARANTEE PROHIBITED IS ALLSHERJARTRYGGING BÖNNUÐ NO FORBUD MOT BRUK AV UNIVERSALGARANTI TR KAPSAMLI TEMİNAT YASAKLANMIŞTIR.</td><td>GARANTIE GLOBALE INTERDITE – 99208</td></tr>
+<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE ΕL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ ES UTILIZACIÓN NO LIMITADA FR UTILISATION NON LIMITÉE HR NEOGRANIČENA UPORABA IT UTILIZZAZIONE NON LIMITATA LV NEIEROBEŽOTS IZMANTOJUMS LT NEAPRIBOTAS NAUDOJIMAS HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SL NEOMEJENA UPORABA SK NEOBMEDZENÉ POUŽITIE FI KÄYTTÖÄ EI RAJOITETTU SV OBEGRÄNSAD ANVÄNDNING EN UNRESTRICTED USE IS ÓTAKMÖRKUÐ NOTKUN NO UBEGRENSET BRUK TR KISITLANMAMIŞ KULLANIM</td><td>UTILISATION NON LIMITÉE – 99209</td></tr>
+<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων ES Expedido a posteriori FR Délivré a posteriori HR Izdano naknadno IT Rilasciato a posteriori LV Izsniegts retrospektīvi LT Retrospektyvusis išdavimas HU Kiadva visszamenőleges hatállyal MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SL Izdano naknadno SK Vyhotovené dodatočne FI Annettu jälkikäteen SV Utfärdat i efterhand EN Issued retroactively IS Útgefið eftir á NO Utstedt i etterhånd TR Sonradan Düzenlenmiştir</td><td>Délivré a posteriori – 99210</td></tr>
+<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα ES Varios FR Divers HR Razni IT Vari LV Dažādi LT Įvairūs HU Többféle MK Различни MT Diversi NL Diversen PL Różne PT Diversos RO Diverse RS Разно SL Razno SK Rôzne FI Useita SV Flera EN Various IS Ýmis NO Diverse TR Çeşitli</td><td>Divers – 99211</td></tr>
+<tr><td>BG Насипно CS Volnĕ loženo DA Bulk DE Unverpackte Waren EE Mahtkaup EL Χύμα ES A granel FR Vrac HR Rasuto IT Alla rinfusa LV Berams LT Nesupakuota HU Ömlesztett MK Рефус MT Bil-kwantitá NL Los gestort PL Luzem PT A granel RO Vrac RS Расуто SL Razsuto SK Voľne ložené FI Irtotavaraa SV Bulk EN Bulk IS Vara í lausu NO Bulk TR Dökme</td><td>Vrac – 99212</td></tr>
+<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας ES Expedidor FR Expéditeur HR Pošiljatelj IT Speditore LV Nosūtītājs LT Siuntėjas HU Feladó MK Испраќач MT Min jikkonsenja NL Afzender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SL Pošiljatelj SK Odosielateľ FI Lähettäjä SV Avsändare EN Consignor IS Sendandi NO Avsender TR Gönderici</td><td>Expéditeur – 99213</td></tr>
+</table>
+
+Annexe A3<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Document d’accompagnement transit
+
+Le présent appendice s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+Modèle de document d’accompagnement transit
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image7.png)
+
+Annexe A4<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Notes et éléments d’information (données) du document d’accompagnement transit
+
+La présente annexe s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+L’acronyme «BCP» («plan de continuité des opérations») utilisé dans la présente annexe fait référence aux situations dans lesquelles le plan de continuité des opérations défini à l’art. 26 de l’appendice I, s’applique.
+
+Le papier à utiliser pour le document d’accompagnement transit peut être de couleur verte.
+
+Le document d’accompagnement transit est imprimé sur la base des données fournies par la déclaration de transit, éventuellement rectifiée par le titulaire du régime de transit et/ou vérifiée par le bureau de douane de départ, complétées comme suit:
+
+### 1. Case MRN
+
+Le MRN doit être imprimé sur la première page et sur toutes les listes d’articles sauf si ces formulaires sont utilisés dans le cadre du BCP, auquel cas aucun MRN n’est attribué.
+
+Le «MRN» est également imprimé sous la forme d’un code-barres à l’aide du «code 128» standard, en utilisant le jeu de caractères «B».
+
+### 2. Case Formulaires (1/4)
+
+- – première subdivision: numéro d’ordre de la feuille imprimée,
+- – deuxième subdivision: nombre total des feuilles imprimées (y compris les listes d’articles),
+- – ne doit pas être utilisée en présence d’un seul article.
+
+### 3. Dans l’espace prévu sous la case Numéro de référence/RUE (2/4)
+
+le nom et l’adresse du bureau de douane auquel un exemplaire du document d’accompagnement transit doit être adressé au cas où le BCP est utilisé.
+
+### 4. Case Bureau de départ (C)
+
+- – le nom du bureau de douane de départ,
+- – le numéro de référence du bureau de douane de départ,
+- – la date d’acceptation de la déclaration de transit,
+- – le nom et le numéro d’agrément de l’expéditeur agréé (s’il y a lieu).
+
+### 5. Case Contrôle par le bureau de départ (D)
+
+- – le résultat du contrôle,
+- – les scellés apposés ou l’indication «– –» identifiant la «Dispense – 99201»,
+- – la mention «Itinéraire obligatoire», s’il y a lieu.
+
+Le document d’accompagnement transit ne fait l’objet d’aucune modification, adjonction ou suppression, sauf indication contraire de la convention.
+
+### 6. Formalités en cas d’incidents survenant au cours de la circulation des marchandises
+
+La procédure suivante est applicable aussi longtemps que le NSTI permet aux autorités douanières d’enregistrer ces informations directement dans le système.
+
+Entre le moment où les marchandises ont quitté le bureau de douane de départ et celui où elles arrivent au bureau de douane de destination, il se peut que certaines mentions doivent être ajoutées sur le document d’accompagnement transit qui accompagne les marchandises. Ces mentions concernent l’opération de transport et sont ajoutées sur cet exemplaire par le transporteur responsable du moyen de transport sur lequel les marchandises se trouvent chargées, au fur et à mesure du déroulement des opérations. Ces éléments d’information peuvent être portés à la main de façon lisible. En pareil cas, ils doivent être inscrits à l’encre et en caractères majuscules d’imprimerie.
+
+Le transporteur ne peut procéder au transbordement qu’après avoir obtenu l’autorisation des autorités douanières du pays où le transbordement doit avoir lieu.
+
+Lorsqu’elles estiment que l’opération de transit commun peut se poursuivre normalement, et après avoir pris le cas échéant les mesures nécessaires, ces autorités visent les documents d’accompagnement transit.
+
+Les autorités douanières du bureau de douane de passage ou du bureau de douane de destination, selon le cas, ont l’obligation d’intégrer dans le système les données ajoutées sur le document d’accompagnement transit. Les données peuvent aussi être introduites par le destinataire agréé.
+
+Ces mentions se rapportent aux cases et activités suivantes:
+
+- – Transbordement: utiliser la case 7/1.
+
+Case Transbordement (7/1)
+
+Les trois premières lignes de cette case sont à remplir par le transporteur lorsque, au cours de l’opération considérée, les marchandises en cause sont transbordées d’un moyen de transport sur un autre ou d’un conteneur à un autre.
+
+Toutefois, lorsque les marchandises sont transportées dans des conteneurs destinés à être acheminés par véhicules routiers, les autorités douanières peuvent autoriser le titulaire du régime de transit à ne pas remplir la case 7/7-7/8, si la situation logistique au point de départ est susceptible d’empêcher que soient fournies l’identité et la nationalité du moyen de transport au moment d’établir la déclaration de transit et si ces autorités sont en mesure de garantir que les informations requises sur ces moyens de transport seront insérées par la suite dans la case 7/1.
+
+- – Autres incidents: utiliser la case 7/19.
+
+Case Autres incidents au cours du transport (7/19)
+
+Il convient de compléter la case conformément aux obligations existantes en matière de transit.
+
+En outre, lorsque les marchandises ont été chargées sur une semi-remorque et que seul le véhicule tracteur est changé en cours de transport (sans qu’il y ait manipulation ou transbordement des marchandises), indiquer dans cette case le numéro d’immatriculation et la nationalité du nouveau véhicule tracteur. En pareil cas, le visa des autorités douanières n’est pas nécessaire.
+
+Annexe A5<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Liste d’articles
+
+La présente annexe s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+Modèle de liste d’articles
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image8.png)
+
+Annexe A6<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Notes et éléments d’information (données) de la liste d’articles
+
+La présente annexe s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+L’acronyme «BCP» («plan de continuité des opérations») utilisé dans la présente annexe fait référence aux situations dans lesquelles le plan de continuité des opérations défini à l’art. 26 de l’appendice I, s’applique.
+
+Les cases de la liste d’articles peuvent être agrandies verticalement. Outre les dispositions des notes explicatives des annexes A1*bis* et B6*bis*, les données suivantes doivent être imprimées, le cas échéant en utilisant les codes appropriés:
+
+(1) Case MRN – définie à l’annexe A3*bis*. Le MRN doit être imprimé sur la première page et sur toutes les listes d’articles sauf si ces formulaires sont utilisés dans le cadre du BCP, auquel cas aucun MRN n’est attribué.
+
+(2) Dans les différentes cases de la partie «article de marchandises», les données suivantes doivent être imprimées:
+
+- a) Case Type de déclaration (1/3) – si le statut des marchandises pour l’ensemble de la déclaration est uniforme; la case n’est pas utilisée; en cas d’envoi composite, le statut réel, T1, T2 ou T2F, est imprimé.
+- b)
+
+  Case Formulaires (1/4):
+
+  - – première subdivision: numéro d’ordre de la feuille imprimée,
+  - – deuxième subdivision: nombre total des feuilles imprimées.
+
+- c) Case Art. N<sup>o</sup> (1/6) – numéro d’ordre de l’article en question.
+- d) Case Code mode p. frais tr. (4/2) – introduire le code du mode de paiement des frais de transport.
+
+Annexe B2<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Exigences communes en matière de données pour le T2L/T2LF en tant que preuve du statut douanier de marchandises de l’Union
+
+La présente annexe s’appliquera à partir de la date du déploiement du système relatif à la preuve du statut douanier de l’Union visé à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+### Titre I Généralités
+
+\1. Les éléments de données qui doivent être fournis pour le T2L/T2LF en tant que preuve du statut douanier de marchandises de l’Union sont indiqués dans le tableau des exigences en matière de données. Les dispositions spécifiques à chaque élément de données comme détaillé au titre I de l’appendice II ne portent pas préjudice au statut des éléments de données défini dans le tableau des exigences en matière de données.
+
+\2. Le symbole «A», «B» ou «C» mentionnés dans le tableau ci-dessous ne préjuge pas du fait que certaines données ne sont collectées que lorsque les circonstances le justifient. Elles peuvent être complétées par des conditions ou clarifications figurant dans les notes jointes aux exigences en matière de données.
+
+\3. Les formats, les codes et, le cas échéant, la structure des exigences en matière de données décrites dans la présente annexe sont précisés à l’annexe B3<sup>bis</sup>.
+
+### Titre II Symboles
+
+Symboles dans les cellules:
+
+<table>
+<tr><th>Symbole</th><th>Description du symbole</th></tr>
+<tr><td>A</td><td>Obligatoire: données qui sont exigées par chaque pays.</td></tr>
+<tr><td>B</td><td>Facultatif pour les pays: données que les pays peuvent décider d’exiger ou non.</td></tr>
+<tr><td>C</td><td>Facultatif pour les déclarants: données que les déclarants peuvent décider de fournir mais qui ne peuvent pas être exigées par les pays.</td></tr>
+<tr><td>X</td><td>Élément de données exigé au niveau de l’article d’une preuve de statut douanier de marchandises de l’Union. Les informations saisies au niveau de l’article de marchandises ne sont valables que pour les articles de marchandises en question.</td></tr>
+<tr><td>Y</td><td>Élément de données exigé au niveau générique d’une preuve de statut douanier de marchandises de l’Union. Les informations saisies au niveau générique sont valables pour l’ensemble des articles de marchandises déclarés.</td></tr>
+</table>
+
+La combinaison des symboles «X» et «Y» signifie que l’élément de données en question peut être fourni par le déclarant à tous les niveaux concernés.
+
+### Titre III
+
+### Section I Tableau des exigences en matière de données
+
+(les notes relatives au présent tableau sont indiquées entre parenthèses)
+
+### Groupe 1 – Information sur le message (y compris codes de procédure)
+
+<table>
+<tr><th>N<sup>o</sup> E.D.</th><th>N<sup>o</sup> case</th><th>Intitulé de l’E.D.</th><th>T2L/T2LF</th></tr>
+<tr><td>1/3</td><td>1/3</td><td>Type de preuve du statut douanier</td><td>A XY</td></tr>
+<tr><td>1/4</td><td>3</td><td>Formulaires</td><td>B (1) (2) Y</td></tr>
+<tr><td>1/5</td><td>4</td><td>Listes de chargement</td><td>B (1) Y</td></tr>
+<tr><td>1/6</td><td>32</td><td>Numéro d’article de marchandise</td><td>A (2) X</td></tr>
+<tr><td>1/8</td><td>54</td><td>Signature/authentification</td><td>A Y</td></tr>
+<tr><td>1/9</td><td>5</td><td>Nombre total d’articles</td><td>B (1) Y</td></tr>
+</table>
+
+### Groupe 2 – Références des messages, documents, certificats et autorisations
+
+<table>
+<tr><th>N<sup>o</sup> E.D.</th><th>N<sup>o</sup> case</th><th>Intitulé de l’E.D.</th><th>T2L/T2LF</th></tr>
+<tr><td>2/1</td><td>40</td><td>Déclaration simplifiée/Documents précédents</td><td>A XY</td></tr>
+<tr><td>2/2</td><td>44</td><td>Informations supplémentaires</td><td>A XY</td></tr>
+<tr><td>2/3</td><td>44</td><td>Documents produits, certificats et autorisations. Références complémentaires</td><td>A (7) XY</td></tr>
+<tr><td>2/5</td><td></td><td>NRL</td><td>A Y</td></tr>
+</table>
+
+### Groupe 3 – Intervenants
+
+<table>
+<tr><th>N<sup>o</sup> E.D.</th><th>N<sup>o</sup> case</th><th>Intitulé de l’E.D.</th><th>T2L/T2LF</th></tr>
+<tr><td>3/1</td><td>2</td><td>Exportateur</td><td>A (13) (51) XY</td></tr>
+<tr><td>3/2</td><td>2 (n<sup>o</sup>)</td><td>Numéro d’identification de l’exportateur</td><td>A (52) XY</td></tr>
+<tr><td>3/20</td><td>14 (n<sup>o</sup>)</td><td>Numéro d’identification du représentant</td><td>A Y</td></tr>
+<tr><td>3/21</td><td>14</td><td>Code de statut du représentant</td><td>A Y</td></tr>
+<tr><td>3/43</td><td></td><td>Numéro d’identification de la personne qui demande la preuve du statut douanier de marchandises de l’Union</td><td>A Y</td></tr>
+</table>
+
+### Groupe 5 – Dates/Heures/Périodes/Lieux/Pays/Régions
+
+<table>
+<tr><th>N<sup>o</sup> E.D.</th><th>N<sup>o</sup> case</th><th>N<sup>o</sup> de l’E.D.</th><th>T2L/T2LF</th></tr>
+<tr><td>5/4</td><td>50,54</td><td>Date de la déclaration</td><td>B (1) Y</td></tr>
+<tr><td>5/5</td><td>50,54</td><td>Lieu de la déclaration</td><td>B (1) Y</td></tr>
+<tr><td>5/28</td><td></td><td>Période de validité demandée pour la preuve</td><td>A Y</td></tr>
+</table>
+
+### Groupe 6 – Identification des marchandises
+
+<table>
+<tr><th>N<sup>o</sup> E.D.</th><th>N<sup>o</sup> case</th><th>Intitulé de l’E.D.</th><th>T2L/T2LF</th></tr>
+<tr><td>6/1</td><td>38</td><td>Masse nette (kg)</td><td>A (23) X</td></tr>
+<tr><td>6/5</td><td>35</td><td>Masse brute (kg)</td><td>A XY</td></tr>
+<tr><td>6/8</td><td>31</td><td>Désignation des marchandises</td><td>A X</td></tr>
+<tr><td>6/9</td><td>31</td><td>Type de colis</td><td>A X</td></tr>
+<tr><td>6/10</td><td>31</td><td>Nombre de colis</td><td>A X</td></tr>
+<tr><td>6/11</td><td>31</td><td>Marques d’expédition</td><td>A X</td></tr>
+<tr><td>6/14</td><td>33(1)</td><td>Code des marchandises – Code NC</td><td>A (23) X</td></tr>
+<tr><td>6/18</td><td>6</td><td>Total des colis</td><td>B Y</td></tr>
+</table>
+
+### Groupe 7 – Informations relatives au transport (modes, moyens et équipements)
+
+<table>
+<tr><th>N<sup>o</sup> E.D.</th><th>N<sup>o</sup> case</th><th>N<sup>o</sup> de l’E.D.</th><th>T2L/T2LF</th></tr>
+<tr><td>7/2</td><td>19</td><td>Conteneur</td><td>A Y</td></tr>
+<tr><td>7/10</td><td>31</td><td>Numéro d’identification du conteneur</td><td>A XY</td></tr>
+</table>
+
+### Section II Notes
+
+<table>
+<tr><th>Numéro de la note</th><th>Description de la note</th></tr>
+<tr><td>(1)</td><td>Les pays ne peuvent exiger cet élément de données que pour la procédure sur support papier.</td></tr>
+<tr><td>(2)</td><td>Lorsque la déclaration sur support papier ne porte que sur un seul article de marchandises, les pays peuvent prévoir que rien ne sera indiqué dans cette case, le chiffre «1» ayant dû être indiqué dans la case n<sup>o</sup> 5.</td></tr>
+<tr><td>(7)</td><td>Les pays peuvent dispenser le déclarant de cette obligation dans la mesure et dans les cas où leurs systèmes leur permettent de déduire cette information automatiquement et sans ambiguïté des autres données de la déclaration.</td></tr>
+<tr><td>(13)</td><td>Pour les États membres de l’Union européenne – cette information n’est obligatoire que dans les cas où le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union n’est pas fourni. Lorsque le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers est communiqué, le nom et l’adresse ne sont pas fournis, à moins qu’il soit fait usage d’une déclaration sur support papier.</td></tr>
+<tr><td>(23)</td><td>Ne doit être rempli que lorsque la réglementation des pays de transit commun le prévoit.</td></tr>
+<tr><td>(51)</td><td>Pour les pays de transit commun – cette information est obligatoire.</td></tr>
+<tr><td>(52)</td><td>Pour les pays de transit commun – cette information est obligatoire. Le numéro EORI délivré par l’Union et le numéro d’identification de l’opérateur délivré par un pays de transit commun sont fournis. Si le numéro EORI n’a pas été attribué, seul le numéro d’identification de l’opérateur dans un pays de transit commun est fourni.</td></tr>
+</table>
+
+### Titre IV Notes relatives aux exigences en matière de données
+
+### Section I Introduction
+
+Les descriptions et notes figurant dans le présent titre s’appliquent aux éléments de données visés dans le tableau des exigences en matière de données au titre III, chapitre 3, section 1, de la présente annexe.
+
+### Section II Exigences en matière de données
+
+1/3. Type de preuve du statut douanier
+
+Indiquer le code correspondant:
+
+1/4. Formulaires
+
+Indiquer le numéro d’ordre de la liasse parmi le nombre total de liasses utilisées (formulaires et formulaires complémentaires confondus). Par exemple, si un formulaire et deux formulaires complémentaires sont présentés, indiquer «1/3» sur le formulaire, «2/3» sur le premier formulaire complémentaire et «3/3» sur le second formulaire complémentaire.
+
+Lorsque la preuve du statut est établie à partir de deux ensembles de quatre exemplaires au lieu d’un ensemble à huit exemplaires, ces deux ensembles sont réputés n’en constituer qu’un seul en ce qui concerne le nombre de formulaires.
+
+1/5. Listes de chargement
+
+Mentionner en chiffres le nombre de listes de chargement éventuellement jointes ou le nombre de listes descriptives de nature commerciale, telles qu’autorisées par l’autorité compétente.
+
+1/6. Numéro d’article de marchandise
+
+Numéro de l’article par rapport au nombre total d’articles contenus dans la preuve du statut douanier de marchandises de l’Union, s’il y a plus d’un article de marchandise.
+
+1/8. Signature/authentification
+
+Signature ou autre authentification de la preuve du statut douanier de marchandises de l’Union.
+
+1/9. Nombre total d’articles
+
+Nombre total d’articles de marchandises indiqués dans la preuve du statut douanier de marchandises de l’Union concernée. Les articles de marchandises sont définis comme les marchandises mentionnées dans une preuve du statut douanier de marchandises de l’Union qui ont en commun toutes les données possédant l’attribut «X» dans le tableau des exigences en matière de données du titre III, chapitre 3, section 1, de la présente annexe.
+
+2/1. Déclaration simplifiée/Documents précédents
+
+Le cas échéant, entrer la référence de la déclaration en douane sur la base de laquelle la preuve du statut est délivrée.
+
+Lorsque le MRN de la déclaration en douane de mise en libre pratique est fourni et que la preuve du statut douanier de marchandises de l’Union ne concerne pas tous les articles de marchandises de la déclaration en douane, indiquer les numéros des articles dans la déclaration en douane.
+
+2/2. Mentions spéciales
+
+Indiquer le code correspondant:
+
+2/3. Documents produits, certificats et autorisations, références complémentaires
+
+- a) Numéro d’identification ou de référence des documents, certificats et autorisations de l’Union ou internationaux produits à l’appui de la preuve du statut et références complémentaires.
+- Indiquer, selon les codes prévus à cet effet, d’une part, les mentions requises en fonction des réglementations spécifiques éventuellement applicables et, d’autre part, les données de référence des documents produits à l’appui de la preuve du statut, ainsi que les références complémentaires.
+- b) Numéro d’identification ou de référence des documents, certificats et autorisations nationaux produits à l’appui de la preuve du statut et références complémentaires.
+- Le cas échéant, indiquer le numéro d’autorisation d’émetteur agréé.
+
+2/5. NRL
+
+Le numéro de référence local (NRL) doit être utilisé. Il est défini à l’échelle nationale et attribué par le déclarant en accord avec les autorités compétentes afin d’identifier chaque preuve.
+
+3/1. Exportateur
+
+Indiquer les nom et prénom ou la raison sociale et l’adresse complète de la personne intéressée.
+
+3/2 Numéro d’identification de l’exportateur
+
+Pour les États membres de l’Union européenne – indiquer le numéro EORI.
+
+Pour les pays de transit commun – indiquer le numéro EORI délivré par l’Union et le numéro d’identification de l’opérateur délivré par un pays de transit commun. Si le numéro EORI n’a pas été attribué, seul le numéro d’identification de l’opérateur dans un pays de transit commun est fourni.
+
+3/20. Numéro d’identification du représentant
+
+Cette donnée est exigée en cas de différence par rapport à l’E.D. 3/43 Numéro d’identification de la personne qui demande la preuve du statut douanier de marchandises de l’Union.
+
+Pour les États membres de l’Union européenne – indiquer le numéro EORI.
+
+Pour les pays de transit commun – indiquer le numéro EORI délivré par l’Union et le numéro d’identification de l’opérateur délivré par un pays de transit commun. Si le numéro EORI n’a pas été attribué, seul le numéro d’identification de l’opérateur dans un pays de transit commun est fourni.
+
+3/21. Code de statut du représentant
+
+Indiquer le code prévu à cet effet désignant le statut du représentant.
+
+3/43. Numéro d’identification de la personne qui demande la preuve du statut douanier de marchandises l’Union
+
+Pour les États membres de l’Union européenne – indiquer le numéro EORI.
+
+Pour les pays de transit commun – indiquer le numéro EORI délivré par l’Union et le numéro d’identification de l’opérateur délivré par un pays de transit commun. Si le numéro EORI n’a pas été attribué, seul le numéro d’identification de l’opérateur dans un pays de transit commun est fourni.
+
+5/4. Date de la déclaration
+
+Date à laquelle la preuve du statut a été délivrée et, le cas échéant, signée ou autrement authentifiée.
+
+5/5. Lieu de la déclaration
+
+Lieu où la preuve du statut a été délivrée.
+
+5/28. Période de validité demandée pour la preuve
+
+Indiquer la période de validité demandée pour la preuve du statut douanier de marchandises de l’Union, exprimée en jours.
+
+6/1. Masse nette (kg)
+
+Indiquer la masse nette, exprimée en kilogrammes, pour chaque article de marchandise. La masse nette correspond à la masse propre des marchandises dépouillées de tous leurs emballages.
+
+Lorsque la masse nette est supérieure à 1 kg, et comporte une fraction d’unité (kg), il est permis de procéder à l’arrondissement suivant:
+
+- – de 0,001 à 0,499: arrondissement à l’unité inférieure (kg),
+- – de 0,5 à 0,999: arrondissement à l’unité supérieure (kg).
+
+Lorsque la masse nette est inférieure à 1 kg, il convient de l’indiquer sous la forme «0,» suivie de jusqu’à 6 décimales, en éliminant tous les «0» à la fin de la quantité (par exemple 0,123 pour un paquet de 123 grammes, 0,00304 pour un paquet de 3 grammes et 40 milligrammes ou 0,000654 pour un paquet de 654 milligrammes).
+
+6/5. Masse brute (kg)
+
+La masse brute est le poids des marchandises, y compris l’emballage mais à l’exclusion du matériel de transport.
+
+Lorsque la masse brute est supérieure à 1 kg, et comporte une fraction d’unité (kg), il est permis de procéder à l’arrondissement suivant:
+
+- – de 0,001 à 0,499: arrondissement à l’unité inférieure (kg),
+- – de 0,5 à 0,999: arrondissement à l’unité supérieure (kg).
+
+Lorsque la masse brute est inférieure à 1 kg, il convient de l’indiquer sous la forme «0,» suivie de jusqu’à 6 décimales, en éliminant tous les «0» à la fin de la quantité (par exemple 0,123 pour un paquet de 123 grammes, 0,00304 pour un paquet de 3 grammes et 40 milligrammes ou 0,000654 pour un paquet de 654 milligrammes).
+
+Dans la mesure du possible, l’opérateur économique peut indiquer ce poids au niveau de l’article de marchandises.
+
+6/8. Désignation des marchandises
+
+Indiquer la désignation commerciale usuelle des marchandises. Lorsque le code des marchandises doit être fourni, cette désignation doit être exprimée en des termes suffisamment précis pour permettre le classement des marchandises.
+
+6/9. Type de colis
+
+Indiquer le code précisant le type de colis.
+
+6/10. Nombre de colis
+
+Nombre total de colis fondé sur la plus petite unité d’emballage extérieur. Il s’agit du nombre de colis distincts, emballés de telle manière qu’il ne soit pas possible de les séparer sans en défaire l’emballage, ou du nombre de pièces dans le cas de marchandises non emballées.
+
+Cette information n’est pas nécessaire dans le cas de marchandises en vrac.
+
+6/11. Marques d’expédition
+
+Description libre des marques et numéros figurant sur les unités de transport ou les colis.
+
+6/14. Code des marchandises – Code NC
+
+Indiquer le code se rapportant aux marchandises, composé au moins des six chiffres du système harmonisé de désignation et de codification des marchandises. Le code des marchandises peut être étendu à huit chiffres pour un usage national.
+
+7/2. Conteneur
+
+Indiquer, selon le code prévu à cet effet, la situation présumée au passage de la frontière de la partie contractante, sur la base des informations disponibles au moment de la présentation de la demande de preuve.
+
+7/10. Numéro d’identification du conteneur
+
+Marques (lettres et/ou numéros) d’identification du conteneur de transport.
+
+Pour les modes de transport autres que le transport aérien, un conteneur est une boîte conçue pour le transport de marchandises, renforcée, empilable et pouvant être transbordée horizontalement ou verticalement.
+
+Pour le transport aérien, les conteneurs sont des boîtes spéciales conçues pour le transport de marchandises, renforcées et pouvant être transbordées horizontalement ou verticalement.
+
+Dans le cadre du présent élément de données, les caisses mobiles et semi-remorques utilisées pour le transport routier et ferroviaire sont considérées comme des conteneurs.
+
+S’il y a lieu, pour les conteneurs couverts par la norme ISO 6346, l’identifiant (préfixe) attribué par le Bureau international des containers et du transport intermodal (BIC) est également fourni en plus du numéro d’identification des conteneurs.
+
+Pour les caisses mobiles et les semi-remorques, le code des unités de chargement intermodales (UCI) tel qu’introduit par la norme EN 13044 est utilisé.
+
+Annexe B3<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Formats et codes des exigences communes en matière de données pour le T2L/T2LF en tant que preuve du statut douanier de marchandises de l’Union
+
+La présente annexe s’appliquera à partir de la date du déploiement du système relatif à la preuve du statut douanier de l’Union visé à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+### Titre I Généralités
+
+\1. Les formats, les codes et, le cas échéant, la structure des éléments de données figurant dans la présente annexe sont applicables dans le cadre des exigences en matière de données pour les preuves du statut douanier de marchandises de l’Union précisées au titre III de l’annexe B2*bis*.
+
+\2. Les formats, les codes et, le cas échéant, la structure des éléments de données définis dans la présente annexe s’appliquent à la preuve du statut douanier de marchandises de l’Union sur support papier.
+
+\3. Les formats des éléments de données sont exposés au titre II de la présente annexe.
+
+\4. Lorsque les informations contenues dans la preuve du statut douanier de marchandises de l’Union dont il est question au titre III de l’annexe B2*bis* se présentent sous la forme de codes, la liste des codes prévue au titre III de la présente annexe est applicable.
+
+\5. Le terme «type/longueur» dans l’explication concernant un attribut précise les exigences en matière de type et de longueur de la donnée. Les codes relatifs au type de donnée sont les suivants:
+
+- a alphabétique
+- n numérique
+- an alphanumérique
+
+Le nombre qui suit le code indique la longueur de donnée autorisée. Les conventions suivantes s’appliquent:
+
+Les deux points éventuels précédant l’indication de la longueur signifient que la donnée n’a pas de longueur fixe mais qu’elle peut comporter jusqu’au nombre de caractères indiqué. Une virgule dans la longueur du champ indique que l’attribut peut contenir des décimaux; dans ce cas, le chiffre précédant la virgule indique la longueur totale de l’attribut et le chiffre qui suit la virgule indique le nombre maximal de décimaux.
+
+Exemples de formats et de longueurs de champs:
+
+- a1 1 caractère alphabétique, longueur fixe
+- n2 2 caractères numériques, longueur fixe
+- an3 3 caractères alphanumériques, longueur fixe
+- a..4 jusqu’à 4 caractères alphabétiques
+- n..5 jusqu’à 5 caractères numériques
+- an..6 jusqu’à 6 caractères alphanumériques
+- n..7,2 jusqu’à 7 caractères numériques, dont un maximum de 2 décimales, un séparateur flottant étant autorisé.
+
+\6. La cardinalité au niveau générique figurant dans le tableau du titre II de la présente annexe indique combien de fois l’élément de données peut être utilisé au niveau générique dans une preuve du statut douanier de marchandises de l’Union.
+
+\7. La cardinalité au niveau de l’article figurant dans le tableau du titre II de la présente annexe indique combien de fois l’élément de données peut être répété en lien avec l’article dans la preuve du statut douanier de marchandises de l’Union en question.
+
+### Titre II Formats et cardinalité des exigences communes en matière de données pour la preuve du statut douanier de marchandises de l’Union
+
+<table>
+<tr><th>Numéro d’ordre de l’E.D.</th><th>Intitulé de l’E.D.</th><th>Format de l’E.D. (type/longueur)</th><th>Liste des codes dans le titre III (O/N)</th><th>Cardinalité niveau générique</th><th>Cardinalité niveau article</th><th>Notes</th></tr>
+<tr><td>1/3</td><td>Type de preuve du statut douanier</td><td>an..5</td><td>O</td><td>1x</td><td>1x</td><td></td></tr>
+<tr><td>1/4</td><td>Formulaires</td><td>n..4</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/5</td><td>Listes de chargement</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/6</td><td>Numéro d’article de marchandise</td><td>n..5</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>1/8</td><td>Signature/authentification</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>1/9</td><td>Nombre total d’articles</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>2/1</td><td>Déclaration simplifiée/Documents précédents</td><td>*Catégorie de document:* a1 + *Type du document précédent:* an..3 + *Référence du document précédent:* an..35 + *Identifiant de l’article de marchandise:* n..5</td><td>O</td><td>9999x</td><td>99x</td><td></td></tr>
+<tr><td>2/2</td><td>Mentions spéciales</td><td>*Version codée (codes de l’Union):* n1 + an4 OU *(codes nationaux):* a1 + an4 OU *Description libre:* an..512</td><td>Ja</td><td></td><td>99x</td><td>Les codes sont précisés au titre III.</td></tr>
+<tr><td>2/3</td><td>Documents produits, certificats et autorisations, références complémentaires</td><td>*Type de document (codes de l’Union):* a1 + an3 OU *(codes nationaux):* n1 + an3 + *Référence de document:* an..35</td><td>O</td><td>1x</td><td>99x</td><td></td></tr>
+<tr><td>2/5</td><td>NRL</td><td>an..22</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>3/1</td><td>Exportateur</td><td>*Nom:* an..70 + *Rue et numéro:* an..70 + *Pays:* a2 + *Code postal:* an..9 + *Ville:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Code pays: la codification alphabétique pour les pays et territoires est fondée sur la norme ISO codes alpha 2 (a2) en vigueur pour autant qu’elle soit compatible avec les dispositions du règlement (UE) n<sup>o</sup> 1106/2012 de la Commission du 27 novembre 2012 portant application du règlement (CE) n<sup>o</sup> 471/2009 du Parlement européen et du Conseil concernant les statistiques communautaires relatives au commerce extérieur avec les pays tiers, en ce qui concerne la mise à jour de la nomenclature des pays et territoires. La Commission publie régulièrement des règlements mettant à jour la liste des codes pays. En cas de groupages, si des preuves sur support papier sont utilisées, le code 00200 peut être utilisé en association avec une liste des exportateurs conformément aux notes relatives à l’E.D. 3/1 Exportateur figurant au titre III de l’annexe B2<sup>bis</sup> de l’appendice III<sup>bis</sup>.</td></tr>
+<tr><td>3/2</td><td>Numéro d’identification de l’exportateur</td><td>an..17</td><td>N</td><td>1x</td><td>1x</td><td></td></tr>
+<tr><td>3/20</td><td>Numéro d’identification du représentant</td><td>an..17</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>3/21</td><td>Code de statut du représentant</td><td>n1</td><td>O</td><td>1x</td><td></td><td></td></tr>
+<tr><td>3/43</td><td>Numéro d’identification de la personne qui demande la preuve du statut douanier de marchandises de l’Union</td><td>an..17</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>5/4</td><td>Date de la déclaration</td><td>n8 (aaaammjj)</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>5/5</td><td>Lieu de la déclaration</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>5/28</td><td>Période de validité demandée pour la preuve</td><td>n..3</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>6/1</td><td>Masse nette (kg)</td><td>n..16,6</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>6/5</td><td>Masse brute (kg)</td><td>n..16,6</td><td>N</td><td>1x</td><td>1x</td><td></td></tr>
+<tr><td>6/8</td><td>Désignation des marchandises</td><td>an..512</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>6/9</td><td>Type de colis</td><td>an..2</td><td>N</td><td></td><td>99x</td><td>La liste des codes correspond à la version la plus récente de la recommandation n<sup>o</sup> 21 de la CEE/ONU.</td></tr>
+<tr><td>6/10</td><td>Nombre de colis</td><td>n..8</td><td>N</td><td></td><td>99x</td><td></td></tr>
+<tr><td>6/11</td><td>Marques d’expédition</td><td>an..512</td><td>N</td><td></td><td>99x</td><td></td></tr>
+<tr><td>6/14</td><td>Code des marchandises – Code NC</td><td>an..8</td><td>N</td><td></td><td>1x</td><td></td></tr>
+<tr><td>6/18</td><td>Total des colis</td><td>n..8</td><td>N</td><td>1x</td><td></td><td></td></tr>
+<tr><td>7/2</td><td>Conteneur</td><td>n1</td><td>O</td><td>1x</td><td></td><td></td></tr>
+<tr><td>7/10</td><td>Numéro d’identification du conteneur</td><td>an..17</td><td>N</td><td>9999x</td><td>9999x</td><td></td></tr>
+</table>
+
+### Titre III Codes liés aux exigences communes en matière de données pour les preuves du statut douanier de marchandises de l’Union
+
+Le présent titre contient les codes qu’il convient d’utiliser sur des preuves du statut douanier de marchandises de l’Union sur support papier.
+
+1/3. Type de preuve du statut douanier
+
+Codes à utiliser dans le contexte des documents T2L
+
+- T2L Preuve établissant le statut douanier de marchandises de l’Union.
+- T2LF Document probant établissant le statut douanier de marchandises de l’Union expédiées à destination de, en provenance de ou entre territoires fiscaux spéciaux.
+- T2LSM Document probant établissant le statut des marchandises à destination de Saint-Marin, en application de l’art. 2 de la décision n<sup>o</sup> 4/92 du comité de coopération CEE – Saint-Marin du 22 décembre 1992.
+
+2/1. Déclaration simplifiée/Documents précédents
+
+Cet élément de données se compose de codes alphanumériques.
+
+Chaque code est composé de trois éléments différents. Le premier élément (an..3), représenté par des chiffres ou par des lettres ou par une combinaison de chiffres et de lettres, sert à distinguer la nature du document. Le deuxième élément (an..35) représente les données indispensables pour reconnaître le document, soit son numéro d’identification, soit une autre référence reconnaissable. Le troisième élément (an..5) permet d’identifier l’article du document précédent auquel il est fait référence.
+
+Lorsqu’une déclaration en douane est déposée sur support papier, les trois éléments sont séparés par un tiret (–).
+
+\1. Le premier élément (an..3):
+
+Choisissez l’abréviation du document utilisé dans la «liste des abréviations des documents» ci-dessous.
+
+Liste des abréviations des documents
+
+(codes numériques extraits du répertoire des Nations unies pour l’échange électronique de données pour l’administration, le commerce et le transport 2014b: liste de codes pour l’élément de données 1001, «Nom du document/message, codé»).
+
+<table>
+<tr><td>Liste de conteneurs</td><td>235</td></tr>
+<tr><td>Bon de livraison</td><td>270</td></tr>
+<tr><td>Liste de colisage</td><td>271</td></tr>
+<tr><td>Facture pro forma</td><td>325</td></tr>
+<tr><td>Déclaration de dépôt temporaire</td><td>337</td></tr>
+<tr><td>Déclaration sommaire d’entrée</td><td>355</td></tr>
+<tr><td>Facture commerciale</td><td>380</td></tr>
+<tr><td>Lettre de transport «fille» (house air waybill)</td><td>703</td></tr>
+<tr><td>Connaissement principal (master bill of lading)</td><td>704</td></tr>
+<tr><td>Connaissement (bill of lading)</td><td>705</td></tr>
+<tr><td>Connaissement maritime émis par un transitaire ou un transporteur public sans navires (NVOCC) (house bill of lading)</td><td>714</td></tr>
+<tr><td>Lettre de voiture ferroviaire</td><td>720</td></tr>
+<tr><td>Lettre de voiture pour les transports routiers</td><td>730</td></tr>
+<tr><td>Lettre de transport aérien (air waybill)</td><td>740</td></tr>
+<tr><td>Lettre de transport aérien principal (master air waybill)</td><td>741</td></tr>
+<tr><td>Bulletin d’expédition (colis postaux)</td><td>750</td></tr>
+<tr><td>Document de transport multimodal/combiné</td><td>760</td></tr>
+<tr><td>Manifeste de chargement</td><td>785</td></tr>
+<tr><td>Bordereau</td><td>787</td></tr>
+<tr><td>Déclaration de transit de l’Union – envois composites (T)</td><td>820</td></tr>
+<tr><td>Déclaration de transit (T1)</td><td>821</td></tr>
+<tr><td>Déclaration de transit (T2)</td><td>822</td></tr>
+<tr><td>Déclaration de transit (T2F)</td><td>T2F</td></tr>
+<tr><td>Preuve du statut douanier de marchandises de l’Union T2L</td><td>825</td></tr>
+<tr><td>Preuve du statut douanier de marchandises de l’Union T2LF</td><td>T2G</td></tr>
+<tr><td>Carnet TIR</td><td>952</td></tr>
+<tr><td>Carnet ATA</td><td>955</td></tr>
+<tr><td>Référence/date de l’inscription dans les écritures du déclarant</td><td>CLE</td></tr>
+<tr><td>Bulletin d’information INF3</td><td>IF3</td></tr>
+<tr><td>Déclaration simplifiée</td><td>SDE</td></tr>
+<tr><td>Déclaration MRN</td><td>MRN</td></tr>
+<tr><td>Manifeste de chargement – Procédure simplifiée</td><td>MNS</td></tr>
+<tr><td>Divers</td><td>ZZZ</td></tr>
+</table>
+
+\2. Le deuxième élément (an..35):
+
+Le numéro d’identification du document utilisé ou une autre référence reconnaissable de celui-ci est à insérer ici.
+
+\3. Le troisième élément (an..5):
+
+Le numéro d’article des marchandises en question tel que fourni dans l’E.D. 1/6. «Numéro d’article de marchandise» sur le document précédent.
+
+2/2. Mentions spéciales
+
+Des mentions spécifiques qui ressortissent du domaine douanier sont codées sous forme d’un code numérique à cinq chiffres. Ce code figure à la suite de la mention concernée sauf si la législation des parties contractantes prévoit que ce code se substitue au texte.
+
+<table>
+<tr><th>Base juridique</th><th>Objet</th><th>Mention spéciale</th><th>Code</th></tr>
+<tr><td>Annexe B2*bis*, Titre III</td><td>Plusieurs documents ou parties</td><td>«Divers»</td><td>00200</td></tr>
+<tr><td>Annexe B2*bis*, Titre III</td><td>Identité entre le déclarant et l’expéditeur</td><td>«Expéditeur»</td><td>00300</td></tr>
+<tr><td>Annexe B2*bis*, Titre III</td><td>Identité entre le déclarant et l’exportateur</td><td>«Exportateur»</td><td>00400</td></tr>
+<tr><td>Annexe B2*bis*, Titre III</td><td>Identité entre le déclarant et le destinataire</td><td>«Destinataire»</td><td>00500</td></tr>
+<tr><td>Annexe B2*bis*, Titre III</td><td>Demande d’allongement de la période de validité de la preuve du statut douanier de marchandises de l’Union</td><td>«Allongement de la période de validité de la preuve du statut douanier de marchandises de l’Union»</td><td>40100</td></tr>
+</table>
+
+2/3. Documents produits, certificats et autorisations, références complémentaires
+
+- a) Les documents, certificats et autorisations des parties contractantes ou internationaux produits à l’appui de la preuve du statut douanier de marchandises de l’Union, ainsi que les références complémentaires, doivent être indiqués sous la forme d’un code défini au Titre II, suivi soit par un numéro d’identification, soit par une autre référence reconnaissable. La liste des documents, certificats, autorisations et références complémentaires ainsi que de leurs codes respectifs est reprise dans la base de données TARIC.
+- b) Les documents, certificats et autorisations nationaux produits à l’appui de la preuve du statut douanier de marchandises de l’Union, ainsi que les références complémentaires, doivent être indiqués sous la forme d’un code défini au Titre II, éventuellement suivi soit par un numéro d’identification, soit par une autre référence reconnaissable. Les quatre caractères constituant les codes sont établis selon la nomenclature propre à chaque pays.
+
+3/2. Code de statut du représentant
+
+Pour désigner le statut du représentant, un des codes suivants (n1) est à insérer devant le nom et l’adresse complète:
+
+- 2 Représentant – représentation directe (le représentant en douane agit au nom et pour le compte d’une autre personne)
+- 3 Représentant – représentation indirecte (le représentant en douane agit en son nom propre, mais pour le compte d’une autre personne)
+
+Lorsque cet élément de données est imprimé sur support papier, il sera inséré entre crochets (par exemple: [2] ou [3]).
+
+7/2. Conteneur
+
+- 0 Marchandises non transportées en conteneurs
+- 1 Marchandises transportées en conteneurs.
+
+Annexe B5<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Notice relative à la liste de chargement
+
+Sauf dispositions contraires, la présente annexe s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6).
+
+### Titre I Généralités
+
+### 1. Définition
+
+La liste de chargement visée à l’art. 7 de l’appendice III est un document répondant aux caractéristiques de la présente annexe.
+
+### 2. Forme des listes de chargement
+
+- 2\.1. Seul le recto du formulaire peut être utilisé comme liste de chargement.
+- 2\.2.
+
+  Les listes de chargement comportent:
+
+  - a) l’intitulé «Liste de chargement»;
+  - b) un cadre de 70 millimètres sur 55 millimètres divisé en une partie supérieure de 70 millimètres sur 15 millimètres et une partie inférieure de 70 millimètres sur 40 millimètres;
+  - c)
+
+    dans l’ordre ci-après, des colonnes dont l’en-tête est libellé comme suit:
+
+    - – numéro d’ordre,
+    - – marques, numéros, nombre et nature des colis, désignation des marchandises,
+    - – pays d’expédition/exportation,
+    - – masse brute en kilogrammes,
+    - – réservé à l’administration.
+
+- Les intéressés peuvent adapter à leurs besoins la largeur de ces colonnes. Toutefois, la colonne intitulée «réservé à l’administration» doit avoir une largeur de 30 millimètres au moins. Les intéressés peuvent, en outre, disposer librement des espaces autres que ceux visés aux points a), b) et c).
+- 2\.3. Immédiatement au-dessous de la dernière inscription, une ligne horizontale doit être tracée et les espaces non utilisés doivent être bâtonnés de façon à rendre impossible toute adjonction ultérieure.
+
+### Titre II Indications à porter dans les différentes rubriques
+
+### 1. Cadre
+
+- 1\.1. Partie supérieure
+- Lorsque la liste de chargement est jointe à une déclaration de transit, le titulaire du régime de transit appose dans la partie supérieure le sigle «T1», «T2» ou «T2F».
+- Lorsque la liste de chargement est jointe à un document T2L, l’intéressé appose dans la partie supérieure le sigle «T2L» ou le sigle «T2LF».
+- 1\.2 Partie inférieure
+- Les éléments repris au par. 4 du titre III ci-dessous doivent figurer dans cette partie du cadre.
+
+### 2. Colonnes
+
+- 2\.1 Numéro d’ordre
+- Chaque article repris sur la liste de chargement doit être précédé d’un numéro d’ordre.
+- 2\.2 Marques, numéros, nombre et nature des colis; désignation des marchandises
+- Lorsque la liste de chargement est jointe à une déclaration de transit, les informations requises sont fournies conformément aux annexes B1 et B6<sup>bis</sup> de l’appendice III. Doivent y figurer les informations qui dans la déclaration de transit figurent dans les cases 31 «Colis et désignation des marchandises», 44 «Mentions spéciales/Documents produits/Certificats et autorisations» et, le cas échéant, 33 «Code des marchandises» et 38 «Masse nette».
+- Lorsque la liste de chargement est jointe à un document T2L, les informations requises sont fournies conformément à l’annexe B2<sup>bis</sup> a de l’appendice III<sup>bis</sup>.
+- 2\.3. Pays d’expédition/exportation
+- Indiquer le nom du pays d’où les marchandises sont expédiées/exportées.
+- 2\.4. Masse brute (kg)
+- Indiquer les mentions figurant en case 35 du DAU (voir annexes B2<sup>bis</sup> a et B6<sup>bis</sup> de cet appendice).
+
+### Titre III Utilisation des listes de chargement
+
+\1. Il n’est pas possible pour une même déclaration de transit de joindre à la fois une ou plusieurs listes de chargement et un ou plusieurs formulaires complémentaires.
+
+\2. En cas d’utilisation de listes de chargement, les cases 15 «Pays d’expédition/ d’exportation», 32 «Numéro de l’article», 33 «Code des marchandises», 35 «Masse brute (kg)», et, le cas échéant, 44 «Mentions spéciales/Documents produits/Certificats et autorisations» du formulaire de déclaration de transit sont bâtonnées et la case 31 «Colis et désignation des marchandises» ne peut pas être remplie en ce qui concerne l’indication des marques, numéros, nombre et nature des colis et désignation des marchandises. Une référence au numéro d’ordre et au sigle des différentes listes de chargement est apposée dans la case 31 «Colis et désignation des marchandises» du formulaire de déclaration de transit utilisé.
+
+\3. La liste de chargement est produite dans le même nombre d’exemplaires que la déclaration de transit à laquelle elle se rapporte.
+
+\4. Lors de l’enregistrement de la déclaration de transit, la liste de chargement doit être munie du même numéro d’enregistrement que les formulaires de la déclaration de transit auxquels elle se rapporte. Ce numéro doit être apposé soit au moyen d’un cachet comportant le nom du bureau de douane de départ, soit à la main. Dans ce dernier cas, il est accompagné du cachet officiel du bureau de douane de départ.
+
+La signature d’un fonctionnaire du bureau de douane de départ est facultative.
+
+\5. Lorsque plusieurs listes de chargement sont jointes à un même formulaire utilisé aux fins de la procédure T1 ou T2, elles doivent porter un numéro d’ordre attribué par le titulaire du régime de transit; le nombre de listes de chargement jointes est indiqué dans la case 4 «Listes de chargement» dudit formulaire.
+
+\6. Les dispositions des par. 1 à 5 s’appliquent *mutatis mutandis* lorsque la liste de chargement est jointe à un document T2L.
+
+Annexe B6<sup>bis</sup> de l’appendice III<sup>bis</sup>
+
+## Exigences communes en matière de données dans une déclaration de transit
+
+La présente annexe s’appliquera à partir de la date de mise à niveau du système NSTI visé à l’annexe de la décision d’exécution (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), à l’exception des éléments de données relatifs à un document électronique de transport en tant que déclaration de transit visé à l’art. 55, par. 1, point h), de l’appendice I, qui s’appliqueront au plus tard à partir du 1<sup>er</sup> mai 2018.
+
+### Titre I Généralités
+
+\1. Les éléments de données pouvant être fournis pour chaque régime de transit figurent dans le tableau des exigences en matière de données. Les dispositions spécifiques à chaque élément de données comme détaillé au titre III ne portent pas préjudice au statut des éléments de données défini dans le tableau des exigences en matière de données.
+
+\2. Les éléments de données s’appliquent aux déclarations de transit établies au moyen d’un procédé informatique de traitement des données ainsi qu’aux déclarations sur support papier.
+
+\3. Il existe trois types de déclaration de transit: la déclaration de transit normale, la déclaration de transit comportant des exigences réduites en matière de données et le document électronique de transport en tant que déclaration de transit. Les dispositions qui s’appliquent à toutes les situations où l’élément de donnée considéré est exigé sont incluses dans la rubrique «Tous types de déclarations de transit». Lorsque les exigences en matière de données ne se rapportent qu’à un ou des types spécifiques de déclaration de transit, la rubrique appropriée est «déclaration de transit normale», «déclaration de transit normale et déclaration de transit comportant des exigences réduites en matière de données» ou «document électronique de transport en tant que déclaration de transit».
+
+\4. Le symbole «A», «B» ou «C» mentionnés dans le tableau ci-dessous ne préjuge pas du fait que certaines données ne sont collectées que lorsque les circonstances le justifient. Elles peuvent être complétés par des conditions ou clarifications figurant dans les notes jointes aux exigences en matière de données.
+
+\5. Les formats, les codes et, le cas échéant, la structure des exigences en matière de données décrites dans la présente annexe sont précisés à l’annexe A1*bis*.
+
+### Titre II Symboles
+
+Symboles dans les cellules:
+
+- Symbole Description du symbole
+- A Obligatoire: données qui sont exigées par chaque pays
+- B Facultatif pour les pays: données que les pays peuvent décider d’exiger ou non.
+- C Facultatif pour les déclarants: données que les déclarants peuvent décider de fournir mais qui ne peuvent pas être exigées par les pays.
+- X Élément de données exigé au niveau de l’article de marchandises de la déclaration de transit. Les informations saisies au niveau de l’article de marchandises ne sont valables que pour les articles de marchandises en question.
+- Y Élément de données exigé au niveau générique de la déclaration de transit. Les informations saisies au niveau générique sont valables pour l’ensemble des articles de marchandises déclarés.
+
+La combinaison des symboles «X» et «Y» signifie que l’élément de données en question peut être fourni par le déclarant à tous les niveaux concernés.
+
+### Titre III
+
+### Section I Tableau des exigences en matière de données
+
+(les notes relatives au présent tableau sont indiquées entre parenthèses)
+
+### Groupe 1 – Information sur le message (y compris codes de procédure)
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>N° case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>1/2</td><td>Type de déclaration supplémentaire</td><td>1/2</td><td>A Y</td><td>A Y</td><td></td></tr>
+<tr><td>1/3</td><td>Déclaration de déclaration de transit</td><td>1/3</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
+<tr><td>1/4</td><td>Formulaires</td><td>3</td><td>B (1) (2) Y</td><td>B (1) (2) Y</td><td></td></tr>
+<tr><td>1/5</td><td>Listes de chargement</td><td>4</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
+<tr><td>1/6</td><td>Numéro d’article de marchandise</td><td>32</td><td>A (2) X</td><td>A (2) X</td><td></td></tr>
+<tr><td>1/8</td><td>Signature/authentification</td><td>54</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
+<tr><td>1/9</td><td>Nombre total d’articles</td><td>5</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
+</table>
+
+### Groupe 2 – Références des messages, documents, certificats et autorisations
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>N° case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>2/1</td><td>Déclaration simplifiée/ Documents précédents</td><td>40</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
+<tr><td>2/2</td><td>Mentions spéciales</td><td>44</td><td>A XY</td><td>A XY</td><td>A X</td></tr>
+<tr><td>2/3</td><td>Documents produits, certificats et autorisations. Références complémentaires</td><td>44</td><td>A (7) XY</td><td>A (7) XY</td><td>A X</td></tr>
+</table>
+
+### Groupe 3 – Intervenants
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>N° case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>3/1</td><td>Exportateur</td><td>2</td><td>B XY</td><td></td><td></td></tr>
+<tr><td>3/2</td><td>Numéro d’identification de l’exportateur</td><td>2 (nº)</td><td>B XY</td><td></td><td></td></tr>
+<tr><td>3/9</td><td>Destinataire</td><td>8</td><td>A (12) (51) XY</td><td>A (12) (51) XY</td><td>A (12) (51) XY</td></tr>
+<tr><td>3/10</td><td>Numéro d’identification du destinataire</td><td>8 (nº )</td><td>B XY</td><td>B XY</td><td>B XY</td></tr>
+<tr><td>3/19</td><td>Représentant</td><td>14</td><td>A (13) (51) Y</td><td>A (13) Y</td><td>A (13) Y</td></tr>
+<tr><td>3/20</td><td>Numéro d’identification du représentant</td><td>14 (n<sup>o</sup>)</td><td>A (52) Y</td><td>A (52) Y</td><td>A (52) Y</td></tr>
+<tr><td>3/21</td><td>Code de statut du représentant</td><td>14</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
+<tr><td>3/22</td><td>Titulaire du régime de transit</td><td>50</td><td>A (13) (51) Y</td><td>A (13) Y</td><td>A (13) Y</td></tr>
+<tr><td>3/23</td><td>Numéro d’identification du titulaire du régime de transit</td><td>50(n<sup>o</sup>)</td><td>A (52) Y</td><td>A (52) Y</td><td>A (52) Y</td></tr>
+<tr><td>3/37</td><td>Numéros d’identification d’autres acteurs de la chaîne d’approvisionnement</td><td>44</td><td>C XY</td><td>C XY</td><td>C XY</td></tr>
+</table>
+
+### Groupe 5 – Dates/Heures/Périodes/Lieux/Pays/Régions
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>N° case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>5/4</td><td>Date de la déclaration</td><td>50,54</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
+<tr><td>5/5</td><td>Lieu de la déclaration</td><td>50,54</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
+<tr><td>5/6</td><td>Bureau de destination (et pays)</td><td>53</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
+<tr><td>5/7</td><td>Bureaux de passage prévus (et pays)</td><td>51</td><td>A Y</td><td>A Y</td><td></td></tr>
+<tr><td>5/8</td><td>Code du pays de destination</td><td>17a</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
+<tr><td>5/21</td><td>Lieu de chargement</td><td>27</td><td>B Y</td><td>B Y</td><td>B Y</td></tr>
+<tr><td>5/23</td><td>Localisation des marchandises</td><td>30</td><td>A Y (23)</td><td>A Y (23)</td><td></td></tr>
+</table>
+
+### Groupe 6 – Identification des marchandises
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>N° case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>6/1</td><td>Masse nette (kg)</td><td>38</td><td>A (23) X</td><td></td><td></td></tr>
+<tr><td>6/5</td><td>Masse brute (kg)</td><td>35</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
+<tr><td>6/8</td><td>Désignation des marchandises</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
+<tr><td>6/9</td><td>Type de colis</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
+<tr><td>6/10</td><td>Nombre de colis</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
+<tr><td>6/11</td><td>Marques d’expédition</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
+<tr><td>6/13</td><td>Code CUS</td><td>31</td><td>C X</td><td>C X</td><td>C X</td></tr>
+<tr><td>6/14</td><td>Code des marchandises – Code NC</td><td>33</td><td>A (37) X</td><td>A (37) X</td><td>A (37) X</td></tr>
+<tr><td>6/18</td><td>Total des colis</td><td>6</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
+</table>
+
+### Groupe 7 – Informations relatives au transport (modes, moyens et équipements)
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>Nº case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>7/1</td><td>Transbordement</td><td>55</td><td>A (38) Y</td><td>A (38) Y</td><td></td></tr>
+<tr><td>7/2</td><td>Conteneur</td><td>19</td><td>A Y</td><td>A Y</td><td></td></tr>
+<tr><td>7/4</td><td>Mode de transport à la frontière</td><td>25</td><td>A (39) Y</td><td>A (39) Y</td><td></td></tr>
+<tr><td>7/5</td><td>Mode de transport intérieur</td><td>26</td><td>B (40) Y</td><td></td><td></td></tr>
+<tr><td>7/7</td><td>Identité du moyen de transport au départ</td><td>18(1)</td><td>A (43) (44) (45) XY</td><td>A (43) (44) (45) XY</td><td>A XY</td></tr>
+<tr><td>7/8</td><td>Nationalité du moyen de transport au départ</td><td>18(2)</td><td>A (46) (44) (45) XY</td><td></td><td></td></tr>
+<tr><td>7/10</td><td>Numéro d’identification du conteneur</td><td>31</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
+<tr><td>7/14</td><td>Identité du moyen de transport actif franchissant la frontière</td><td>21(1)</td><td>B (46) XY</td><td></td><td></td></tr>
+<tr><td>7/15</td><td>Nationalité du moyen de transport actif franchissant la frontière</td><td>21(2)</td><td>A (46) XY</td><td></td><td></td></tr>
+<tr><td>7/18</td><td>Numéro de scellé</td><td>D</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
+<tr><td>7/19</td><td>Autres incidents au cours du transport</td><td>56</td><td>A (38) Y</td><td>A (38) Y</td><td></td></tr>
+</table>
+
+### Groupe 8 – Autres éléments de données (données statistiques, garanties, données tarifaires)
+
+<table>
+<tr><th>N° E.D.</th><th>Intitulé de l’E.D.</th><th>N° case</th><th>Déclaration de transit normale</th><th>Déclaration de transit comportant des exigences réduites en matière de données</th><th>Document électronique de transport en tant que déclaration de transit</th></tr>
+<tr><td>8/2</td><td>Type de garantie</td><td>52</td><td>A Y</td><td>A Y</td><td></td></tr>
+<tr><td>8/3</td><td>Référence de la garantie</td><td>52</td><td>A Y</td><td>A Y</td><td></td></tr>
+<tr><td>8/4</td><td>Garantie non valable pour</td><td>52</td><td>A Y</td><td>A Y</td><td></td></tr>
+</table>
+
+### Section II Notes
+
+<table>
+<tr><th>Numéro de la note</th><th>Description de la note</th></tr>
+<tr><td>(1)</td><td>Les pays ne peuvent exiger cet élément de données que pour la procédure sur support papier.</td></tr>
+<tr><td>(2)</td><td>Lorsque la déclaration sur support papier ne porte que sur un seul article de marchandises, les pays peuvent prévoir que rien ne sera indiqué dans cette case, le chiffre «1» ayant dû être indiqué dans la case n<sup>o</sup> 5.</td></tr>
+<tr><td>(7)</td><td>Les pays peuvent dispenser le déclarant de cette obligation dans la mesure et dans les cas où leurs systèmes leur permettent de déduire cette information automatiquement et sans ambiguïté des autres données de la déclaration.</td></tr>
+<tr><td>(12)</td><td>Pour les États membres de l’Union européenne, cette information n’est obligatoire que dans les cas où le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union de la personne concernée n’est pas fourni. Lorsque le numéro EORI ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union est communiqué, le nom et l’adresse ne sont pas fournis.</td></tr>
+<tr><td>(13)</td><td>Pour les États membres de l’Union européenne – cette information n’est obligatoire que dans les cas où le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers et reconnu par l’Union n’est pas fourni. Lorsque le numéro EORI délivré dans l’Union ou le numéro d’identification unique délivré par un pays tiers est communiqué, le nom et l’adresse ne sont pas fournis, à moins qu’il soit fait usage d’une déclaration sur support papier.</td></tr>
+<tr><td>(23)</td><td>Ne doit être rempli que lorsque la réglementation des parties contractantes le prévoit.</td></tr>
+<tr><td>(37)</td><td>Cette subdivision est complétée: – lorsqu’une déclaration de transit est établie par la même personne, simultanément ou suite à une déclaration en douane comportant l’indication du code des marchandises ou – lorsque la réglementation des parties contractantes le prévoit.</td></tr>
+<tr><td>(38)</td><td>Cette donnée n’est nécessaire qu’en cas de déclarations sur support papier.</td></tr>
+<tr><td>(39)</td><td>Les pays peuvent renoncer à cette exigence pour les modes de transport autres que le chemin de fer.</td></tr>
+<tr><td>(40)</td><td>Cette donnée n’est pas fournie lorsque les formalités d’exportation sont effectuées au point de sortie du territoire douanier des parties contractantes.</td></tr>
+<tr><td>(43)</td><td>Ne pas utiliser en cas d’envoi par installations fixes.</td></tr>
+<tr><td>(44)</td><td>Lorsque les marchandises sont transportées dans des unités de transport multimodal, comme des conteneurs, des caisses mobiles et des semi-remorques, les autorités douanières peuvent autoriser le titulaire du régime du transit à ne pas fournir cette donnée si la situation logistique au point de départ est susceptible d’empêcher que soient fournies l’identité et la nationalité du moyen de transport au moment du placement des marchandises sous le régime du transit, pour autant que les unités de transport multimodal soient revêtues de numéros uniques et que ces numéros soient indiqués dans l’E.D. 7/10 Numéro d’identification du conteneur.</td></tr>
+<tr><td>(45)</td><td>Dans les cas suivants, les pays renoncent à l’obligation de porter cette donnée sur une déclaration de transit déposée au bureau de douane de départ en ce qui concerne le moyen de transport sur lequel les marchandises se trouvent directement chargées: – lorsque la situation logistique ne permet pas que cet élément de données soit fourni et que le titulaire du régime de transit a le statut AEOC dans l’Union ou un statut similaire dans un pays de transit commun, et – lorsque les informations correspondantes peuvent être retrouvées si nécessaire par les autorités douanières par l’intermédiaire des écritures du titulaire du régime de transit.</td></tr>
+<tr><td>(46)</td><td>Ne pas utiliser en cas d’envoi par installations fixes ou par transport ferroviaire.</td></tr>
+<tr><td>(51)</td><td>Pour les pays de transit commun – cette information est obligatoire.</td></tr>
+<tr><td>(52)</td><td>Pour les pays de transit commun – cette information est obligatoire. Le numéro EORI délivré dans l’Union et le numéro d’identification de l’opérateur délivré dans un pays de transit commun sont fournis. Si le numéro EORI n’a pas été attribué, seul le numéro d’identification de l’opérateur dans un pays de transit commun est fourni. Si un destinataire est situé dans un pays tiers, cet E.D. n’est pas requis.</td></tr>
+</table>
+
+### Titre IV Notes relatives aux exigences en matière de données
+
+### Section I Introduction
+
+Les descriptions et notes figurant dans le présent titre s’appliquent aux éléments de données visés dans le tableau des exigences en matière de données au titre III, section I, de la présente annexe.
+
+### Section II Exigences en matière de données
+
+1/2. Type de déclaration supplémentaire
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Indiquer le code correspondant.
+
+1/3. Déclaration de transit
+
+Tous types de déclarations de transit
+
+Indiquer le code correspondant.
+
+1/4. Formulaires
+
+Tous types de déclarations de transit
+
+En cas d’utilisation de déclarations sur support papier, indiquer le numéro d’ordre de la liasse parmi le nombre total de liasses utilisées (formulaires et formulaires complémentaires confondus). Par exemple, si un formulaire et deux formulaires complémentaires sont présentés, indiquer «1/3» sur le formulaire, «2/3» sur le premier formulaire complémentaire et «3/3» sur le second formulaire complémentaire.
+
+1/5. Listes de chargement
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+En cas d’utilisation de déclarations sur support papier, mentionner en chiffres le nombre de listes de chargement éventuellement jointes ou le nombre de listes descriptives de nature commerciale telles qu’autorisées par l’autorité compétente.
+
+1/6. Numéro d’article de marchandise
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Numéro de l’article par rapport au nombre total d’articles contenus dans la déclaration de transit, s’il y a plus d’un article de marchandise.
+
+1/8. Signature/authentification
+
+Tous types de déclarations de transit
+
+Signature ou autre authentification de la déclaration de transit.
+
+En ce qui concerne la déclaration sur support papier, l’original de la signature manuscrite de la personne intéressée suivie de ses nom et prénom figure sur l’exemplaire de la déclaration appelé à rester au bureau de douane de départ. Lorsque la personne intéressée n’est pas une personne physique, le signataire doit faire suivre sa signature et ses nom et prénom de l’indication de sa qualité.
+
+1/9. Nombre total d’articles
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Nombre total d’articles de marchandises déclarés dans la déclaration de transit concernée. Les articles de marchandises sont définis comme les marchandises mentionnées dans une déclaration qui ont en commun toutes les données possédant l’attribut «X» dans le tableau des exigences en matière de données du titre III, section I, de la présente annexe.
+
+2/1. Déclaration simplifiée/Documents précédents
+
+Tous types de déclarations de transit
+
+Indiquer la référence du dépôt temporaire, du régime douanier précédent ou du document douanier correspondant.
+
+Si, dans le cadre des déclarations de transit sur support papier, plus d’une référence doit être mentionnée, les pays peuvent prévoir que le code prévu à cet effet soit indiqué dans cette case et que la liste des références en cause soit jointe à la déclaration de transit.
+
+2/2. Mentions spéciales
+
+Tous types de déclarations de transit
+
+Indiquer le code correspondant.
+
+2/3. Documents produits, certificats et autorisations, références complémentaires
+
+Tous types de déclarations de transit
+
+Numéro d’identification ou de référence des documents, certificats et autorisations des parties contractantes ou internationaux produits à l’appui de la déclaration et références complémentaires.
+
+Indiquer, selon les codes prévus à cet effet, d’une part, les mentions requises en fonction des réglementations spécifiques éventuellement applicables et, d’autre part, les données de référence des documents produits à l’appui de la déclaration, ainsi que les références complémentaires.
+
+Document électronique de transport en tant que déclaration de transit
+
+Cet élément de données comprend le type et la référence du document de transport utilisé en tant que déclaration de transit.
+
+Il contient en outre la référence au numéro d’autorisation correspondant du titulaire du régime de transit. Cette information doit être fournie, à moins qu’elle puisse être déduite sans ambiguïté des autres éléments de données tels que le numéro EORI du titulaire de l’autorisation.
+
+3/1. Exportateur
+
+Déclaration de transit
+
+Indiquer les nom et prénom ou la raison sociale ainsi que l’adresse complète de l’expéditeur.
+
+En cas de groupage, si des déclarations de transit sur support papier sont utilisées, les pays peuvent prévoir que le code prévu à cet effet sera utilisé, la liste des expéditeurs devant être jointe à la déclaration.
+
+3/2. Numéro d’identification de l’exportateur
+
+Déclaration de transit
+
+Indiquer le numéro EORI de l’expéditeur ou le numéro d’identification de l’opérateur délivré dans un pays de transit commun.
+
+3/9. Destinataire
+
+Tous types de déclarations de transit
+
+Indiquer les nom et prénom ou la raison sociale ainsi que l’adresse complète du destinataire.
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+En cas de groupage, si des déclarations de transit sur support papier sont utilisées, les pays peuvent prévoir que le code prévu à cet effet soit indiqué dans cette case, la liste des destinataires devant être jointe à la déclaration.
+
+3/10. Numéro d’identification du destinataire
+
+Tous types de déclarations de transit
+
+Indiquer le numéro EORI ou le numéro d’identification de l’opérateur délivré dans un pays de transit commun.
+
+3/19. Représentant
+
+Tous types de déclarations de transit
+
+Cette donnée est exigée en cas de différence par rapport à l’E.D. 3/17 Déclarant ou, le cas échéant, à l’E.D. 3/22 Titulaire du régime de transit.
+
+3/20. Numéro d’identification du représentant
+
+Tous types de déclarations de transit
+
+Cette donnée est exigée en cas de différence par rapport à l’E.D. 3/18 Numéro d’identification du déclarant ou, le cas échéant, à l’E.D. 3/23 Numéro d’identification du titulaire du régime de transit.
+
+Indiquer le numéro EORI de la personne concernée ou le numéro d’identification de l’opérateur délivré dans un pays de transit commun.
+
+3/21. Code de statut du représentant
+
+Tous types de déclarations de transit
+
+Indiquer le code prévu à cet effet désignant le statut du représentant.
+
+3/22. Titulaire du régime de transit
+
+Tous types de déclarations de transit
+
+Indiquer les nom et prénom ou la raison sociale ainsi que l’adresse complète du titulaire du régime de transit. Mentionner, le cas échéant, les nom et prénom ou la raison sociale du représentant habilité qui dépose la déclaration de transit pour le compte du titulaire du régime.
+
+En cas d’utilisation de déclarations de transit sur support papier, l’original de la signature manuscrite de la personne intéressée doit figurer sur l’exemplaire de la déclaration sur support papier appelé à rester au bureau de douane de départ.
+
+3/23. Numéro d’identification du titulaire du régime de transit
+
+Tous types de déclarations de transit
+
+Indiquer le numéro EORI du titulaire du régime de transit ou le numéro d’identification de l’opérateur délivré dans un pays de transit commun.
+
+3/37. N<sup>o</sup> d’identification d’autres acteurs de la chaîne d’approvisionnement
+
+Tous types de déclarations de transit
+
+Numéro d’identification unique attribué à un opérateur économique d’un pays tiers dans le cadre d’un programme de partenariat dans le domaine commercial élaboré conformément au cadre de normes visant à sécuriser et à faciliter le commerce mondial de l’Organisation mondiale des douanes qui est reconnu par l’Union et d’autres parties contractantes.
+
+L’identifiant de la partie concernée est précédé d’un code rôle précisant son rôle dans la chaîne d’approvisionnement.
+
+5/4. Date de la déclaration
+
+Tous types de déclarations de transit
+
+Date à laquelle la déclaration a été délivrée et, le cas échéant, signée ou autrement authentifiée.
+
+5/5. Lieu de la déclaration
+
+Tous types de déclarations de transit
+
+Lieu de délivrance de la déclaration sur support papier.
+
+5/6. Bureau de destination (et pays)
+
+Tous types de déclarations de transit
+
+Indiquer, selon le code prévu à cet effet, le numéro de référence du bureau de douane où l’opération de transit prend fin.
+
+5/7. Bureaux de passage prévus (et pays)
+
+Tous types de déclarations de transit
+
+Indiquer le code du bureau de douane compétent prévu pour le point d’entrée sur le territoire d’une partie contractante lorsque les marchandises circulent sous le régime de transit, ou le bureau de douane compétent pour le point de sortie du territoire d’une partie contractante lorsque les marchandises quittent ce territoire au cours d’une opération de transit en franchissant une frontière entre cette partie contractante et un pays tiers.
+
+Indiquer, selon le code prévu à cet effet, les numéros de référence des bureaux de douane concernés.
+
+5/8. Code du pays de destination
+
+Tous types de déclarations de transit
+
+Indiquer, selon le code prévu à cet effet, le dernier pays de destination des marchandises.
+
+Le pays de la dernière destination connue est défini comme le dernier pays connu, au moment de la mainlevée, pour être celui où les marchandises doivent être livrées.
+
+5/21. Lieu de chargement
+
+Tous types de déclarations de transit
+
+Indiquer, selon le code prévu à cet effet le cas échéant, le lieu de chargement des marchandises sur le moyen de transport actif par lequel elles doivent franchir la frontière de la partie contractante.
+
+5/23. Localisation des marchandises
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Indiquer, selon le code prévu à cet effet, l’endroit où les marchandises peuvent être examinées. La localisation est suffisamment précise pour permettre au bureau de douane d’effectuer le contrôle physique des marchandises.
+
+6/1. Masse nette (kg)
+
+Déclaration de transit
+
+Indiquer la masse nette, exprimée en kilogrammes, des marchandises concernées par l’article de marchandise de la déclaration en question. La masse nette correspond à la masse propre des marchandises dépouillées de tous leurs emballages.
+
+Lorsque la masse nette est supérieure à 1 kg, et comporte une fraction d’unité (kg), il est permis de procéder à l’arrondissement suivant:
+
+- – de 0,001 à 0,499: arrondissement à l’unité inférieure (kg),
+- – de 0,5 à 0,999: arrondissement à l’unité supérieure (kg).
+
+Lorsque la masse nette est inférieure à 1 kg, il convient de l’indiquer sous la forme «0,» suivie de jusqu’à 6 décimales, en éliminant tous les «0» à la fin de la quantité (par exemple 0,123 pour un paquet de 123 grammes, 0,00304 pour un paquet de 3 grammes et 40 milligrammes ou 0,000654 pour un paquet de 654 milligrammes).
+
+6/5. Masse brute (kg)
+
+Tous types de déclarations de transit
+
+La masse brute est le poids des marchandises correspondant à la déclaration, y compris l’emballage mais à l’exclusion du matériel de transport.
+
+Lorsque la masse brute est supérieure à 1 kg, et comporte une fraction d’unité (kg), il est permis de procéder à l’arrondissement suivant:
+
+- – de 0,001 à 0,499: arrondissement à l’unité inférieure (kg),
+- – de 0,5 à 0,999: arrondissement à l’unité supérieure (kg).
+
+Lorsque la masse brute est inférieure à 1 kg, il convient de l’indiquer sous la forme «0,» suivie de jusqu’à 6 décimales, en éliminant tous les «0» à la fin de la quantité (par exemple 0,123 pour un paquet de 123 grammes, 0,00304 pour un paquet de 3 grammes et 40 milligrammes ou 0,000654 pour un paquet de 654 milligrammes).
+
+Indiquer la masse brute, exprimée en kilogrammes, des marchandises concernées par l’article de marchandise en question.
+
+Si la déclaration comporte plusieurs articles de marchandises, qui concernent des marchandises conditionnées ensemble d’une manière telle qu’il est impossible de déterminer la masse brute des marchandises relevant de tout article de marchandise, la masse brute totale doit uniquement être saisie au niveau générique.
+
+Lorsqu’une déclaration de transit sur support papier concerne plusieurs articles de marchandises, il suffit que la masse brute totale soit indiquée dans la première case n<sup>o</sup> 35, les autres cases n<sup>o</sup> 35 n’étant pas remplies.
+
+6/8. Description de la marchandise
+
+Tous types de déclarations de transit
+
+Il s’agit d’une désignation commerciale usuelle des marchandises en langage clair, qui soit suffisamment précise pour permettre aux autorités douanières d’identifier les marchandises. Lorsque le code SH doit être fourni, cette désignation doit être exprimée en des termes suffisamment précis pour permettre le classement des marchandises.
+
+6/13. Code CUS
+
+Tous types de déclarations de transit
+
+Le numéro CUS (Customs Union and Statistics) est l’identifiant attribué dans l’inventaire douanier européen des substances chimiques (ECICS) à des substances et préparations chimiques principalement.
+
+Le déclarant peut fournir ce code sur une base volontaire lorsqu’aucune mesure TARIC n’existe pour les marchandises concernées, à savoir dans les cas où la communication de ce code représenterait une charge moindre par rapport à une description textuelle complète du produit.
+
+6/14. Code des marchandises – Code NC
+
+Tous types de déclarations de transit
+
+Cette subdivision est complétée par le code de marchandise composé au moins des six chiffres du système harmonisé de désignation et de codification des marchandises. Le code des marchandises peut être étendu à huit chiffres pour un usage national.
+
+6/18. Total des colis
+
+Tous types de déclarations de transit
+
+Indiquer en chiffres le nombre total de colis composant l’envoi en question.
+
+6/20. Colis
+
+Tous types de déclarations de transit
+
+Informations sur le type et le nombre total de colis fondées sur la plus petite unité d’emballage extérieur. Le nombre total de colis correspond au nombre de colis distincts, emballés de telle manière qu’il ne soit pas possible de les séparer sans en défaire l’emballage, ou du nombre de pièces dans le cas de marchandises non emballées.
+
+Des informations sur le nombre total de colis ne sont pas nécessaires dans le cas de marchandises en vrac.
+
+Ces informations contiennent également la description libre des marques et numéros figurant sur les unités de transport ou les colis.
+
+7/1. Transbordement
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Les trois premières lignes de cette case sont à remplir par le transporteur lorsque, au cours de l’opération de transit, les marchandises en cause sont transbordées d’un moyen de transport sur un autre ou d’un conteneur à un autre.
+
+7/2. Conteneur
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Indiquer, selon le code prévu à cet effet, la situation présumée au passage de la frontière de la partie contractante, sur la base des informations disponibles au moment de l’accomplissement des formalités de transit.
+
+7/4. Mode de transport à la frontière
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Indiquer, selon le code prévu à cet effet, la nature du mode de transport correspondant au moyen de transport actif avec lequel les marchandises sont présumées quitter le territoire douanier de la partie contractante.
+
+7/5. Mode transport intérieur
+
+Déclaration de transit
+
+Indiquer, selon le code prévu à cet effet, la nature du mode de transport à l’arrivée.
+
+7/7. Identité du moyen de transport au départ
+
+Tous types de déclarations de transit
+
+Indiquer l’identité du moyen de transport sur lequel les marchandises sont directement chargées lors des formalités de transit (ou celle du moyen assurant la propulsion de l’ensemble s’il y a plusieurs moyens de transport). Pour l’utilisation d’un véhicule tracteur et d’une remorque ayant une immatriculation différente, indiquer le numéro d’immatriculation du véhicule tracteur et celui de la remorque, ainsi que la nationalité du véhicule tracteur.
+
+En fonction du moyen de transport concerné, les mentions suivantes pourront être indiquées en ce qui concerne l’identité:
+
+<table>
+<tr><th>Moyen de transport</th><th>Méthode d’identification</th></tr>
+<tr><td>Transport par navigation intérieure</td><td>Nom du navire</td></tr>
+<tr><td>Transport par air</td><td>Numéro et date du vol (En cas d’absence de numéro de vol, indiquer le numéro d’immatriculation de l’aéronef)</td></tr>
+<tr><td>Transport par route</td><td>Numéro d’immatriculation du véhicule</td></tr>
+<tr><td>Transport par chemin de fer</td><td>Numéro du wagon</td></tr>
+</table>
+
+7/8. Nationalité du moyen de transport au départ
+
+Déclaration de transit
+
+Indiquer, selon le code prévu à cet effet, la nationalité du moyen de transport (ou celle du moyen assurant la propulsion de l’ensemble s’il y a plusieurs moyens de transport) sur lequel les marchandises sont directement chargées lors des formalités de transit. S’il y a utilisation d’un véhicule tracteur et d’une remorque de nationalités différentes, indiquer la nationalité du véhicule tracteur.
+
+Lorsque les marchandises sont transportées au moyen d’un véhicule tracteur et d’une remorque, indiquer la nationalité du véhicule tracteur et celle de la remorque. Si la nationalité du véhicule tracteur n’est pas connue, indiquer la nationalité de la remorque.
+
+7/10. Numéro d’identification du conteneur
+
+Tous types de déclarations de transit
+
+Marques (lettres et/ou numéros) d’identification du conteneur de transport.
+
+Pour les modes de transport autres que le transport aérien, un conteneur est une boîte conçue pour le transport de marchandises, renforcée, empilable et pouvant être transbordée horizontalement ou verticalement.
+
+Pour le transport aérien, les conteneurs sont des boîtes spéciales conçues pour le transport de marchandises, renforcées et pouvant être transbordées horizontalement ou verticalement.
+
+Dans le cadre du présent élément de données, les caisses mobiles et semi-remorques utilisées pour le transport routier et ferroviaire sont considérées comme des conteneurs.
+
+S’il y a lieu, pour les conteneurs couverts par la norme ISO 6346, l’identifiant (préfixe) attribué par le Bureau international des containers et du transport intermodal (BIC) est également fourni en plus du numéro d’identification des conteneurs.
+
+Pour les caisses mobiles et les semi-remorques, le code des unités de chargement intermodales (UCI) tel qu’introduit par la norme EN 13044 est utilisé.
+
+7/14. Identité du moyen de transport actif franchissant la frontière
+
+Déclaration de transit
+
+Indiquer l’identité du moyen de transport actif franchissant la frontière de la partie contractante.
+
+En cas de transport combiné ou s’il y a plusieurs moyens de transport, le moyen de transport actif est celui qui assure la propulsion de l’ensemble. Par exemple, s’il s’agit d’un camion sur un navire de mer, le moyen de transport actif est le navire. S’il s’agit d’un tracteur et d’une remorque, le moyen de transport actif est le tracteur.
+
+En fonction du moyen de transport concerné, les mentions suivantes sont indiquées en ce qui concerne l’identité:
+
+<table>
+<tr><th>Moyen de transport</th><th>Méthode d’identification</th></tr>
+<tr><td>Navigation intérieure</td><td>Nom du navire</td></tr>
+<tr><td>Transport par air</td><td>Numéro et date du vol (En cas d’absence de numéro de vol, indiquer le numéro d’immatriculation de l’aéronef)</td></tr>
+<tr><td>Transport par route</td><td>Numéro d’immatriculation du véhicule</td></tr>
+<tr><td>Transport par chemin de fer</td><td>Numéro du wagon</td></tr>
+</table>
+
+7/15. Nationalité du moyen de transport actif franchissant la frontière
+
+Déclaration de transit
+
+Indiquer, selon le code prévu à cet effet, la nationalité du moyen de transport actif franchissant la frontière de la partie contractante.
+
+En cas de transport combiné ou s’il y a plusieurs moyens de transport, le moyen de transport actif est celui qui assure la propulsion de l’ensemble. Par exemple, s’il s’agit d’un camion sur un navire de mer, le moyen de transport actif est le navire. S’il s’agit d’un tracteur et d’une remorque, le moyen de transport actif est le tracteur.
+
+7/18. Numéro de scellé
+
+Tous types de déclarations de transit
+
+Cette information est fournie lorsqu’un expéditeur agréé, dont l’autorisation prévoit l’utilisation de scellés d’un modèle spécial, introduit une déclaration ou lorsqu’un titulaire du régime de transit est autorisé à utiliser des scellés d’un modèle spécial.
+
+7/19. Autres incidents au cours du transport
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Case à compléter conformément aux obligations existantes en matière de transit commun.
+
+En outre, lorsque, les marchandises ayant été chargées sur une semi-remorque, un changement du seul véhicule tracteur intervient en cours de transport (sans qu’il y ait donc manipulation ou transbordement des marchandises), indiquer dans cette case le numéro d’immatriculation du nouveau véhicule tracteur. En pareil cas, le visa des autorités compétentes n’est pas nécessaire.
+
+8/2. Type de garantie
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Indiquer, selon les codes prévus à cet effet, le type de garantie utilisé pour l’opération de transit.
+
+8/3. Référence de la garantie
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Indiquer le numéro de référence de la garantie et, le cas échéant, le code d’accès et le bureau de douane de garantie.
+
+8/4. Garantie non valable pour
+
+Déclaration de transit et déclaration de transit comportant des exigences réduites en matière de données
+
+Lorsqu’une garantie n’est pas valable pour une, plusieurs ou toutes les parties contractantes, ajouter après «Non valable pour» les codes correspondant à la ou les parties contractantes concernées.
+
+Appendice IV*[^t-7]*
+
+## Assistance mutuelle pour le recouvrement des créances
+
+[^t-7]: Introduit par l’Ac. du 22 nov. 1996, approuvé par l’Ass. féd. le 7 déc. 1995 ([RO 1997 1055](https://fedlex.data.admin.ch/eli/oc/1997/1055_1055_1055)[1054](https://fedlex.data.admin.ch/eli/oc/1997/1054_1054_1054); [FF 1995 III 325](https://fedlex.data.admin.ch/eli/fga/1995/3_337_325_317)). Mis à jour par l’art. 6 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) et l’art. 1 ch. 7 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+
+### Objet
+
+#### Art. 1
+
+Le présent appendice fixe les règles en vue d’assurer le recouvrement dans chaque pays des créances visées à l’art. 3 qui sont nées dans un autre pays. Les dispositions d’application figurent à l’annexe I du présent appendice.
+
+### Définitions
+
+#### Art. 2
+
+Dans le présent appendice, on entend par:
+
+- – «autorité requérante», l’autorité compétente d’un pays qui formule une demande d’assistance relative à une créance visée à l’art. 3;
+- – «autorité requise», l’autorité compétente d’un pays à laquelle une demande d’assistance est adressée.
+
+### Champ d’application
+
+#### Art. 3
+
+Le présent appendice s’applique:
+
+- a) à toutes les créances se rapportant à une dette visée à l’art. 3, point l) de l’appendice I qui sont exigibles en liaison avec une opération de transit commun commencée après l’entrée en vigueur du présent appendice;
+- b) aux frais et intérêts relatifs au recouvrement des créances visées ci-dessus.
+
+### Communication et utilisation des renseignements
+
+#### Art. 4
+
+<sup>1.</sup> Sur demande de l’autorité requérante, l’autorité requise lui communique les renseignements qui lui sont utiles pour le recouvrement des créances.
+
+Pour se procurer ces renseignements, l’autorité requise exerce les pouvoirs prévus par les dispositions législatives, réglementaires ou administratives applicables pour le recouvrement des créances similaires nées dans le pays où elle a son siège.
+
+<sup>2.</sup> La demande de renseignements indique le nom et l’adresse de la personne sur laquelle portent les renseignements à fournir ainsi que la nature et le montant de la créance au titre de laquelle la demande est formulée.
+
+<sup>3.</sup>
+
+L’autorité requise n’est pas tenue de transmettre des renseignements:
+
+- a) qu’elle ne serait pas en mesure d’obtenir pour le recouvrement des créances similaires nées dans le pays où elle a son siège;
+- b) qui révéleraient un secret commercial, industriel ou professionnel, ou
+- c) dont la communication serait de nature à porter atteinte à la sécurité ou à l’ordre public de ce pays.
+
+<sup>4.</sup> L’autorité requise informe l’autorité requérante des motifs qui s’opposent à ce que la demande de renseignements soit satisfaite.
+
+<sup>5.</sup> Toute information obtenue en application du présent article ne doit être utilisée qu’aux fins de la présente convention et recevoir dans le pays bénéficiaire la même protection que celle dont les informations de même nature jouissent en vertu du droit national de ce pays. L’information ainsi obtenue ne peut être utilisée à d’autres fins qu’avec le consentement écrit de l’autorité compétente qui l’a communiquée et sous réserve de toute restriction prescrite par ladite autorité.
+
+<sup>6.</sup> La demande de renseignements est établie au moyen du formulaire figurant à l’annexe II du présent appendice.
+
+### Notification
+
+#### Art. 5
+
+<sup>1.</sup> Sur demande de l’autorité requérante, l’autorité requise procède à la notification au destinataire, selon les règles de droit en vigueur pour la notification des actes correspondants dans le pays où elle a son siège, de tous actes et décisions, y compris judiciaires, relatifs à une créance et/ou à son recouvrement, émanant du pays où l’autorité requérante a son siège.
+
+<sup>2.</sup> La demande de notification indique le nom et l’adresse du destinataire, la nature et l’objet de l’acte ou de la décision à notifier et, le cas échéant, le nom et l’adresse du débiteur et la créance visée dans l’acte ou la décision, ainsi que tout autre renseignement utile.
+
+<sup>3.</sup> L’autorité requise informe sans délai l’autorité requérante de la suite donnée à la demande de notification et plus particulièrement de la date à laquelle la décision ou l’acte a été transmis au destinataire.
+
+<sup>4.</sup> La demande de notification est établie au moyen du formulaire figurant à l’annexe III du présent appendice..
+
+### Exécution des demandes de recouvrement
+
+#### Art. 6
+
+<sup>1.</sup> Sur demande de l’autorité requérante, l’autorité requise procède, selon les dispositions législatives, réglementaires ou administratives applicables pour le recouvrement des créances similaires nées dans le pays où elle a son siège, au recouvrement des créances faisant l’objet d’un titre qui en permet l’exécution.
+
+<sup>2.</sup> À cette fin, toute créance faisant l’objet d’une demande de recouvrement est traitée comme une créance du pays où l’autorité requise a son siège, sauf application de l’art. 12.
+
+#### Art. 7
+
+<sup>1.</sup> La demande de recouvrement d’une créance que l’autorité requérante adresse à l’autorité requise doit être accompagnée d’un exemplaire officiel ou d’une copie certifiée conforme du titre qui en permet l’exécution, émis dans le pays où l’autorité requérante a son siège et, le cas échéant, de l’original ou d’une copie certifiée conforme d’autres documents nécessaires pour le recouvrement.
+
+<sup>2.</sup>
+
+L’autorité requérante ne peut formuler une demande de recouvrement que:
+
+- a) si la créance et/ou le titre qui en permet l’exécution ne sont pas contestés dans le pays où elle a son siège;
+- b) lorsqu’elle a mis en œuvre, dans le pays où elle a son siège, la procédure de recouvrement susceptible d’être exercée sur la base du titre visé au par 1 et que les mesures prises n’ont pas abouti au paiement intégral de la créance;
+- c) si le montant de la créance est supérieur à 1500 euros. La contre-valeur en monnaies nationales des montants en euros visés au présent appendice est calculée conformément aux dispositions de l’art. 22 de l’appendice II.
+
+<sup>3.</sup> La demande de recouvrement indique le nom et l’adresse de la personne concernée, la nature de la créance, le montant du principal et des intérêts et frais dus et tous autres renseignements utiles.
+
+<sup>4.</sup> La demande de recouvrement contient en outre une déclaration de l’autorité requérante précisant la date à partir de laquelle l’exécution est possible selon les règles de droit en vigueur dans le pays où elle a son siège et confirmant que les conditions prévues au par. 2 sont réunies.
+
+<sup>5.</sup> L’autorité requérante adresse à l’autorité requise, dès qu’elle en a connaissance, tous renseignements utiles se rapportant à l’affaire qui a motivé la demande de recouvrement.
+
+#### Art. 8
+
+Le titre permettant l’exécution du recouvrement de la créance est, le cas échéant et selon les dispositions en vigueur dans le pays où l’autorité requise a son siège, homologué, reconnu, complété ou remplacé par un titre permettant son exécution sur son territoire.
+
+L’homologation, la reconnaissance, le complément ou le remplacement du titre doivent intervenir dans les meilleurs délais suivant la réception de la demande de recouvrement. Ils ne peuvent être refusés dès lors que le titre, permettant l’exécution dans le pays où l’autorité requérante a son siège, est régulier en la forme.
+
+Au cas où l’accomplissement de l’une de ces formalités donne lieu à un examen ou à une contestation portant sur la créance et/ou le titre permettant l’exécution émis par l’autorité requérante, l’art. 12 s’applique.
+
+#### Art. 9
+
+<sup>1.</sup> Le recouvrement est effectué dans la monnaie du pays où l’autorité requise a son siège.
+
+<sup>2.</sup> L’autorité requise peut, si les dispositions législatives, réglementaires ou administratives en vigueur dans le pays où elle a son siège le permettent, et après avoir consulté l’autorité requérante, octroyer au redevable un délai de paiement ou autoriser un paiement échelonné. Les intérêts perçus par l’autorité requise du fait de ce délai de paiement sont à transférer à l’autorité requérante.
+
+Est également à transférer à l’autorité requérante tout autre intérêt perçu pour paiement tardif en vertu des dispositions législatives, réglementaires ou administratives en vigueur dans le pays où l’autorité requise a son siège.
+
+#### Art. 10
+
+Les créances à recouvrer ne jouissent d’aucun privilège dans le pays où l’autorité requise a son siège.
+
+#### Art. 11
+
+L’autorité requise informe sans délai l’autorité requérante des suites qu’elle a données à la demande de recouvrement.
+
+### Actions en contestation
+
+#### Art. 12
+
+<sup>1.</sup> Si, au cours de la procédure de recouvrement, la créance et/ou le titre permettant l’exécution de son recouvrement émis dans le pays où l’autorité requérante a son siège sont contestés par un intéressé, l’action est portée par celui-ci devant l’instance compétente du pays où l’autorité requérante a son siège, conformément aux règles de droit en vigueur dans ce dernier. Cette action doit être notifiée par l’autorité requérante à l’autorité requise. Elle peut en outre être notifiée par l’intéressé à l’autorité requise.
+
+<sup>2.</sup> Dès que l’autorité requise a reçu la notification visée au par. 1, soit de la part de l’autorité requérante, soit de la part de l’intéressé, elle suspend la procédure d’exécution dans l’attente de la décision de l’instance compétente en la matière. Si elle l’estime nécessaire et sans préjudice de l’art. 13, elle peut recourir à des mesures conservatoires pour garantir le recouvrement dans la mesure où les dispositions législatives ou réglementaires en vigueur dans le pays où elle a son siège le permettent pour des créances similaires.
+
+<sup>3.</sup> Lorsque la contestation porte sur les mesures d’exécution prises dans le pays où l’autorité requise a son siège, l’action est portée devant l’instance compétente de ce pays, conformément à ses dispositions législatives et réglementaires.
+
+<sup>4.</sup> Lorsque l’instance compétente devant laquelle l’action a été portée, conformément au paragraphe 1, est un tribunal judiciaire ou administratif, la décision de ce tribunal, pour autant qu’elle soit favorable à l’autorité requérante et qu’elle permette le recouvrement de la créance dans le pays où l’autorité requérante a son siège, constitue le «titre permettant l’exécution» au sens des art. 6, 7 et 8 et le recouvrement de la créance est effectué sur la base de cette décision.
+
+### Mesures conservatoires
+
+#### Art. 13
+
+<sup>1.</sup> Sur demande motivée de l’autorité requérante, l’autorité requise prend des mesures conservatoires pour garantir le recouvrement d’une créance dans la mesure où les dispositions législatives ou réglementaires en vigueur dans le pays où elle a son siège le permettent.
+
+<sup>2.</sup> Pour la mise en œuvre du par. 1, l’art. 6, l’art. 7, par. 1, 3 et 5 et les art. 8, 11, 12 et 14 s’appliquent mutatis mutandis.
+
+<sup>3.</sup> La demande de prise de mesures conservatoires est établie au moyen du formulaire figurant à l’annexe IV du présent appendice..
+
+### Exceptions
+
+#### Art. 14
+
+L’autorité requise informe l’autorité requérante des motifs qui s’opposent à ce que la demande d’assistance soit satisfaite.
+
+L’autorité requise n’est pas tenue:
+
+- a) d’accorder l’assistance prévue aux art. 6 à 13 si le recouvrement de la créance est de nature, en raison de la situation du redevable, à susciter de graves difficultés d’ordre économique ou social dans le pays où elle a son siège;
+- b) d’accepter le recouvrement d’une créance si elle estime qu’il peut porter atteinte à l’ordre public ou léser les intérêts essentiels du pays dans lequel elle a son siège;
+- c) de procéder au recouvrement de la créance lorsque l’autorité requérante n’a pas épuisé, sur le territoire du pays où elle a son siège, les voies d’exécution de ladite créance.
+
+#### Art. 15
+
+<sup>1.</sup> Les questions concernant la prescription sont régies exclusivement par les règles de droit en vigueur dans le pays où l’autorité requérante a son siège.
+
+<sup>2.</sup> Les actes de recouvrement qui sont effectués par l’autorité requise conformément à la demande d’assistance et qui, s’ils avaient été effectués par l’autorité requérante, auraient eu pour effet de suspendre ou d’interrompre la prescription selon les règles de droit en vigueur dans le pays où l’autorité requérante a son siège, sont considérés, en ce qui concerne cet effet, comme ayant été accomplis dans ce dernier pays.
+
+### Confidentialité
+
+#### Art. 16
+
+Les documents et renseignements communiqués à l’autorité requise pour l’application du présent appendice ne peuvent être communiqués par celle-ci:
+
+- a) qu’à la personne visée dans la demande d’assistance;
+- b) qu’aux personnes et autorités chargées du recouvrement des créances et aux seules fins de celui-ci;
+- c) qu’aux autorités judiciaires saisies des affaires concernant le recouvrement des créances.
+
+### Langues
+
+#### Art. 17
+
+Les demandes d’assistance et les pièces annexées sont accompagnées d’une traduction dans la langue officielle ou dans l’une des langues officielles du pays où l’autorité requise a son siège ou dans une langue acceptable par cette autorité.
+
+### Frais en matière d’assistance
+
+#### Art. 18
+
+Les pays renoncent de part et d’autre à toute restitution des frais résultant de l’assistance mutuelle qu’ils se prêtent en application du présent appendice.
+
+Toutefois, le pays où l’autorité requérante a son siège demeure responsable, à l’égard du pays où l’autorité requise a son siège, des conséquences pécuniaires d’actions reconnues non justifiées quant à la réalité de la créance ou à la validité du titre émis par l’autorité requérante.
+
+### Autorités habilitées
+
+#### Art. 19
+
+Les pays se communiquent la liste des autorités habilitées à formuler des demandes d’assistance ou à les recevoir, ainsi que toute modification éventuelle de cette liste.
+
+#### Art. 20 à 22
+
+(Le présent appendice ne contient pas d’art. 20 à 22)
+
+### Dispositions diverses
+
+#### Art. 23
+
+Les dispositions du présent appendice ne font pas obstacle à l’application de l’assistance mutuelle plus étendue que certains pays s’accordent ou s’accorderaient en vertu d’accords ou d’arrangements, y compris dans le domaine de la notification des actes judiciaires ou extrajudiciaires.
+
+#### Art. 24 à 26
+
+(Le présent appendice ne contient pas d’art. 24 à 26)
+
+Annexe I de l’appendice IV
+
+## Dispositions d’application
+
+### Titre I Champ d’application
+
+#### Art. 1
+
+<sup>1.</sup> La présente annexe détermine les modalités pratiques d’application de l’appendice IV.
+
+<sup>2.</sup> La présente annexe fixe également les modalités pratiques relatives à la conversion et au transfert des sommes recouvrées.
+
+### Titre II Demande de renseignements
+
+#### Art. 2
+
+<sup>1.</sup> La demande de renseignements visée à l’art. 4 de l’appendice IV est établie par écrit au moyen du formulaire figurant à l’annexe II. Elle porte le cachet officiel de l’autorité requérante et est signée par un agent de cette dernière dûment autorisé à formuler une telle demande.
+
+<sup>2.</sup> L’autorité requérante mentionne dans sa demande de renseignements, le cas échéant, toute autre autorité requise à laquelle est adressée une demande de renseignements similaire.
+
+#### Art. 3
+
+Lorsque l’autorité requérante a connaissance de la détention par une tierce personne de biens appartenant à l’une ou l’autre des personnes désignées à l’alinéa précédent, la demande peut également viser ce tiers détenteur.
+
+La demande de renseignements peut viser:
+
+- a) soit le débiteur;
+- b) soit toute autre personne tenue au paiement de la créance en application des dispositions en vigueur dans le pays où l’autorité requérante a son siège.
+
+#### Art. 4
+
+L’autorité requise accuse réception par écrit (par exemple par courrier électronique ou par télécopie) de la demande de renseignements dans les plus brefs délais et en tout état de cause, dans les sept jours suivant celui de cette réception.
+
+#### Art. 5
+
+<sup>1.</sup> L’autorité requise transmet à l’autorité requérante les renseignements demandés au fur et à mesure de leur obtention.
+
+<sup>2.</sup> Au cas où tout ou partie des renseignements n’ont pu être obtenus dans les délais raisonnables compte tenu du cas d’espèce, l’autorité requise en informe l’autorité requérante, en indiquant les raisons de cette situation.
+
+En tout état de cause, à l’expiration d’un délai de six mois à compter de la date de l’accusé de réception de la demande, l’autorité requise informe l’autorité requérante du résultat des recherches qu’elle a effectuées aux fins de l’obtention des renseignements demandés.
+
+Compte tenu des informations qui lui sont communiquées par l’autorité requise, l’autorité requérante peut demander à cette dernière de poursuivre ses recherches. Cette demande doit être faite par écrit (par exemple par courrier électronique ou par télécopie) dans un délai de deux mois à compter de la réception de la communication du résultat des recherches effectuées par l’autorité requise. Elle est traitée par l’autorité requise selon les dispositions prévues pour la demande initiale.
+
+#### Art. 6
+
+Lorsqu’elle décide de ne pas donner une suite favorable à la demande de renseignements qui lui a été adressée, l’autorité requise communique par écrit à l’autorité requérante les motifs qui s’opposent à cette demande en se référant expressément aux dispositions spécifiques de l’art. 4 de l’appendice IV qu’elle invoque. Cette communication doit être faite par l’autorité requise dès qu’elle a arrêté sa décision, et en tout état de cause avant l’expiration d’un délai de six mois à compter de la date d’accusé de réception de la demande.
+
+#### Art. 7
+
+L’autorité requérante peut à tout moment retirer la demande de renseignements qu’elle a transmise à l’autorité requise. La décision de retrait est communiquée par écrit (par exemple par courrier électronique ou par télécopie) à l’autorité requise.
+
+### Titre III Demande de notification
+
+#### Art. 8
+
+La demande de notification visée à l’art. 5 de l’appendice IV est établie par écrit en double exemplaire au moyen du formulaire figurant en annexe III. Elle porte le cachet officiel de l’autorité requérante et est signée par un agent de cette dernière dûment autorisé à formuler une telle demande.
+
+À la demande visée au premier alinéa doit être joint en double exemplaire l’acte (ou la décision) dont la notification est demandée.
+
+#### Art. 9
+
+La demande de notification peut viser toute personne physique ou morale qui, conformément aux dispositions en vigueur dans le pays où l’autorité requérante a son siège, doit avoir connaissance d’un acte ou d’une décision la concernant.
+
+#### Art. 10
+
+<sup>1.</sup> Dès réception de la demande de notification, l’autorité requise prend les mesures nécessaires en vue de procéder à la notification conformément aux dispositions en vigueur dans le pays où elle a son siège.
+
+<sup>2.</sup> L’autorité requise informe l’autorité requérante de la date de la notification dès que celle-ci a été effectuée. Cette information s’effectue par le renvoi à l’autorité requérante de l’un des exemplaires de sa demande dûment complété par l’établissement de l’attestation figurant au verso.
+
+### Titre IV Demande de recouvrement et/ou de prise de mesures conservatoires
+
+#### Art. 11
+
+<sup>1.</sup> La demande de recouvrement et/ou de prise de mesures conservatoires visée aux art. 6 et 13 de l’appendice IV est établie par écrit au moyen du formulaire figurant en annexe IV. Elle contient une déclaration attestant que les conditions prévues par l’appendice IV pour l’engagement de la procédure d’assistance mutuelle en la matière sont remplies, porte le cachet officiel de l’autorité requérante et est signée par un agent de cette dernière dûment autorisé à formuler une telle demande.
+
+<sup>2.</sup> Le titre exécutoire à joindre à la demande de recouvrement et/ou de prise de mesures conservatoires peut être délivré globalement pour plusieurs créances dès lors qu’il concerne une même personne.
+
+Pour l’application des art. 12 à 19, l’ensemble des créances faisant l’objet d’un même titre exécutoire sont considérées comme constituant une créance unique.
+
+#### Art. 12
+
+<sup>1.</sup>
+
+La demande de recouvrement et/ou de prise de mesures conservatoires peut viser:
+
+- a) soit le débiteur lui-même;
+- b) soit toute autre personne tenue au paiement de la créance en application des dispositions en vigueur dans le pays où l’autorité requérante a son siège.
+
+<sup>2.</sup> Le cas échéant, l’autorité requérante indique à l’autorité requise les biens des personnes visées au par. 1 qui, à sa connaissance, sont détenus par une tierce personne.
+
+#### Art. 13
+
+<sup>1.</sup> L’autorité requérante indique les montants de la créance à recouvrer à la fois dans la monnaie du pays où elle a son siège et dans la monnaie du pays où l’autorité requise a son siège.
+
+<sup>2.</sup> Le taux de change à utiliser aux fins de l’application du par. 1 est le dernier cours de vente constaté sur le ou les marchés de change les plus représentatifs du pays où l’autorité requérante a son siège à la date où la demande est signée.
+
+#### Art. 14
+
+L’autorité requise accuse réception par écrit (par exemple par courrier électronique ou par télécopie) de la demande de recouvrement et/ou de prise de mesures conservatoires dans les plus brefs délais et en tout état de cause dans les sept jours suivant celui de sa réception.
+
+#### Art. 15
+
+Au cas où tout ou partie de la créance ne peut être recouvrée dans des délais raisonnables, compte tenu du cas d’espèce, l’autorité requise en informe l’autorité requérante, en indiquant les raisons de cette situation. Il en est de même au cas où la prise de mesures conservatoires ne peut intervenir dans des délais raisonnables compte tenu du cas d’espèce.
+
+En tout état de cause, à l’expiration d’un délai d’un an à compter de la date d’accusé de réception de la demande, l’autorité requise informe l’autorité requérante du résultat de la procédure de recouvrement et/ou de prise de mesures conservatoires qu’elle a engagée.
+
+Compte tenu des informations qui lui sont communiquées par l’autorité requise, l’autorité requérante peut demander à cette dernière de poursuivre la procédure de recouvrement et/ou de prise de mesures conservatoires qu’elle a engagée. Cette demande doit être faite par écrit (par exemple par courrier électronique ou par télécopie) dans un délai de deux mois à compter de la réception de la communication du résultat de la procédure de recouvrement et/ou de la prise de mesures conservatoires engagée par l’autorité requise. Elle est traitée par l’autorité requise selon les dispositions prévues pour la demande initiale.
+
+#### Art. 16
+
+Toute action en contestation de créance ou du titre permettant l’exécution de son recouvrement qui est intentée dans le pays où l’autorité requérante a son siège est notifiée par écrit (par exemple par courrier électronique ou par télécopie) par l’autorité requérante à l’autorité requise immédiatement après qu’elle a été informée de cette action.
+
+#### Art. 17
+
+<sup>1.</sup> Si la demande de recouvrement et/ou de prise de mesures conservatoires devient sans objet par suite du paiement de la créance, de l’annulation de celle-ci ou pour toute autre raison, l’autorité requérante en informe immédiatement par écrit (par exemple par courrier électronique ou par télécopie) l’autorité requise afin que cette dernière mette fin à l’action qu’elle a entreprise.
+
+<sup>2.</sup> Lorsque le montant de la créance qui a fait l’objet de la demande de recouvrement et/ou de prise de mesures conservatoires se trouve modifié pour quelque raison que ce soit, l’autorité requérante en informe immédiatement par écrit (par exemple par courrier électronique ou par télécopie) l’autorité requise.
+
+Si la modification consiste en une diminution du montant de la créance, l’autorité requise continue l’action qu’elle a entreprise en vue du recouvrement et/ou de la prise de mesures conservatoires, cette action étant toutefois limitée à la somme restant à percevoir. Si, au moment où l’autorité requise est informée de la diminution de la créance, le recouvrement du montant initial a déjà été effectué par elle sans que la procédure de transfert visée à l’art. 18 ait été engagée, l’autorité requise procède au remboursement du trop-perçu à l’ayant droit.
+
+Si la modification consiste en une augmentation du montant de la créance, l’autorité requérante adresse dans les meilleurs délais à l’autorité requise une demande complémentaire de recouvrement et/ou de prise de mesures conservatoires. Cette demande complémentaire est, dans toute la mesure du possible, traitée par l’autorité requise conjointement avec la demande initiale de l’autorité requérante. Lorsque, compte tenu de l’état d’avancement de la procédure en cours, la jonction de la demande complémentaire à la demande initiale est impossible, l’autorité requise n’est tenue de donner suite à la demande complémentaire que si elle porte sur un montant égal ou supérieur à celui visé à l’art. 7 de l’appendice IV.
+
+<sup>3.</sup> Pour la conversion dans la monnaie du pays où l’autorité requise a son siège du montant modifié de la créance, l’autorité requérante fait usage du taux de change utilisé dans sa demande initiale.
+
+#### Art. 18
+
+Toute somme recouvrée par l’autorité requise, y compris le cas échéant les intérêts visés à l’art. 9, par. 2, de l’appendice IV, fait l’objet d’un transfert à l’autorité requérante dans la monnaie du pays où l’autorité requise a son siège. Ce transfert doit intervenir dans le mois suivant la date à laquelle le recouvrement a été effectué.
+
+#### Art. 19
+
+Abstraction faite des sommes éventuellement perçues par l’autorité requise au titre des intérêts visés à l’art. 9, par. 2, de l’appendice IV, la créance est réputée recouvrée à proportion du recouvrement du montant exprimé dans la monnaie nationale du pays où l’autorité requise a son siège sur la base du taux de change visé à l’art. 13, par. 2.
+
+### Titre V Dispositions générales et finales
+
+#### Art. 20
+
+<sup>1.</sup> Une demande d’assistance peut être formulée par l’autorité requérante soit pour une créance unique, soit pour plusieurs créances, dès lors que celles-ci sont à la charge d’une même personne.
+
+<sup>2.</sup> Les renseignements prévus aux annexes II, III et IV peuvent être fournis sur des documents établis sur papier vierge par des moyens informatiques à condition qu’ils respectent les conditions de forme des formulaires figurant dans ces annexes.
+
+#### Art. 21
+
+Les renseignements et autres éléments communiqués par l’autorité requise à l’autorité requérante sont établis dans la langue officielle ou l’une des langues officielles du pays où l’autorité requise a son siège.
+
+Annexe II de l’appendice IV
+
+(art. 4 de l’appendice IV)
+
+Convention du 20 mai 1987 relative à un régime de transit commun
+
+<table>
+<tr><td>(Désignation de l’autorité requérante, adresse, numéro de téléphone, courrier électronique, comptes bancaires, etc.)</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>(Lieu et date d’envoi de la demande)</td></tr>
+<tr><td></td><td></td><td>(No du dossier de l’autorité requérante)</td></tr>
+<tr><td>A</td><td></td><td>(Réservé à l’autorité à qui la demande est adressée)</td></tr>
+<tr><td>(Nom de l’autorité à qui la demande est adressée, boîte postale, lieu, etc.)</td><td></td><td></td></tr>
+</table>
+
+**Demande de renseignements**
+
+<table>
+<tr><td>Je soussigné</td><td></td><td>, agissant en tant qu’agent dûment autorisé par l’autorité</td></tr>
+<tr><td></td><td>(nom et qualité)</td><td></td></tr>
+</table>
+
+requérante désignée ci-dessus, demande par la présente l’obtention des renseignements indiqués ci-après conformément aux dispositions de l’art. 4 de l’appendice IV de la Convention.
+
+<table>
+<tr><td colspan="4">Informations relatives à la personne concernée<sup>1</sup></td><td>Informations relatives à la ou aux créances</td><td colspan="3">Renseignements demandés</td></tr>
+<tr><td>a)</td><td>Nom et adresse</td><td>{</td><td>connus<sup>2</sup> présumés<sup>2</sup></td><td>– Montant de la ou des créances (y compris éventuellement les intérêts et frais)</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Informations utiles concernant la personne désignée ci-dessus – débiteur principal – codébiteur – tiers débiteur</td><td>– Nature exacte de la ou des créances [tab] – Autres indications</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Autres autorités requises</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Signature)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Cachet officiel)</td></tr>
+<tr><td><sup>1</sup></td><td colspan="4">Personne physique ou morale</td><td colspan="3"></td></tr>
+<tr><td><sup>2</sup></td><td colspan="4">Biffer la mention inutile</td><td colspan="3"></td></tr>
+</table>
+
+Annexe III de l’appendice IV
+
+(art. 5 de l’appendice IV)
+
+Convention du 20 mai 1987 relative à un régime de transit commun
+
+<table>
+<tr><td></td><td></td><td>(Recto)</td></tr>
+<tr><td>(Désignation de l’autorité requérante, adresse, numéro de téléphone, courrier électronique, comptes bancaires, etc.)</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>(Lieu et date d’envoi de la demande)</td></tr>
+<tr><td></td><td></td><td>(No du dossier de l’autorité requérante)</td></tr>
+<tr><td>A</td><td></td><td>(Réservé à l’autorité à qui la demande est adressée)</td></tr>
+<tr><td>(Nom de l’autorité à qui la demande est adressée, boîte postale, lieu, etc.)</td><td></td><td></td></tr>
+</table>
+
+Demande de notification
+
+<table>
+<tr><td>Je soussigné</td><td></td><td>, agissant en tant qu’agent dûment autorisé par l’autorité</td></tr>
+<tr><td></td><td>(nom et qualité)</td><td></td></tr>
+</table>
+
+requérante désignée ci-dessus, demande par la présente la notification, conformément à l’art. 5 de l’appendice IV de la Convention de l’acte/de la décision<sup>1</sup> ci-après.
+
+<table>
+<tr><td colspan="4">Informations relatives à la personne concernée<sup>2</sup></td><td>Nature et objet de l’acte (ou de la décision) à notifier</td><td>Informations relatives à la ou aux créances</td><td colspan="3">Autres renseignements</td></tr>
+<tr><td>a)</td><td>Nome et adresse</td><td>{</td><td>connus<sup>1</sup> présumés<sup>1</sup></td><td>[tab]</td><td>– Montant de la ou des créances (y compris éven- tuellement les intérêts et frais)</td><td colspan="3">[tab]</td></tr>
+<tr><td>b)</td><td colspan="3">Nom et adresse du débiteur principal si différents de ceux du destinataire</td><td>[tab]</td><td>– Nature exacte de la ou des créances</td><td colspan="3"></td></tr>
+<tr><td>c)</td><td colspan="3">Autres informations</td><td></td><td>– Autres indications</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Signature)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Cachet officiel)</td></tr>
+<tr><td><sup>1</sup></td><td colspan="5">Biffer la mention inutile</td><td colspan="3"></td></tr>
+<tr><td><sup>2</sup></td><td colspan="5">Personne physique ou morale</td><td colspan="3"></td></tr>
+</table>
+
+*(Verso)*
+
+Attestation
+
+Le soussigné certifie:
+
+- – que l’acte/la décision[^t-8] joint(e) à la demande figurant au recto a été notifié(e) au destinataire visé dans ladite demande en date du . La notification a été effectuée dans les conditions indiquées ci-après [^t-9]:
+- – que l’acte/la décision[^t-10] joint(e) à la demande figurant au recto n’a pu être notifié(e) au destinataire visé dans ladite demande pour les motifs suivants:
+
+<table>
+<tr><td></td><td></td><td>(Date)</td></tr>
+<tr><td></td><td></td><td>(Signature)</td></tr>
+<tr><td></td><td></td><td>(Cachet officiel)</td></tr>
+</table>
+
+[^t-8]: Biffer la mention inutile
+[^t-9]: Indiquer avec précision si la notification a été faite au destinataire en personne ou selon une autre procédure.
+[^t-10]: Biffer la mention inutile
+
+Annexe IV de l’appendice IV
+
+(art. 6 à 13 de l’appendice IV)
+
+Convention du 20 mai 1987 relative à un régime de transit commun
+
+<table>
+<tr><td>(Désignation de l’autorité requérante, adresse, numéro de téléphone, courrier électronique, comptes bancaires, etc.)</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>(Lieu et date d’envoi de la demande)</td></tr>
+<tr><td></td><td></td><td>(No du dossier de l’autorité requérante)</td></tr>
+<tr><td>A</td><td></td><td>(Réservé à l’autorité à qui la demande est adressée)</td></tr>
+<tr><td>(Nom de l’autorité à qui la demande est adressée, boîte postale, lieu, etc.)</td><td></td><td></td></tr>
+</table>
+
+Demande de recouvrement/Prise de mesures conservatoires<sup>1</sup>
+
+<table>
+<tr><td>Je soussigné</td><td></td><td>, agissant en tant qu’agent dûment autorisé par l’autorité</td></tr>
+<tr><td></td><td>(nom et qualité)</td><td></td></tr>
+</table>
+
+requérante désignée ci-dessus, demande par la présente
+
+- – le recouvrement de la ou des créances faisant l’objet du titre exécutoire ci-annexé conformément aux dispositions de l’art. 7 de l’appendice IV de la Convention; les conditions de l’art. 7 par. 2, al. a) et b) sont remplies<sup>1</sup>;
+- – la prise de mesures conservatoires, conformément aux dispositions de l’art. 13 de l’appendice IV de la Convention, à l’égard de la personne indiquée ci-dessous concernant la ou les créances faisant l’objet du titre exécutoire ci-annexé; je joins à la présente une demande motivée<sup>1</sup>.
+
+<table>
+<tr><td colspan="4">Informations relatives à la personne concernée<sup>2</sup></td><td colspan="11">Informations relatives à la ou aux créances</td></tr>
+<tr><td colspan="4"></td><td>Nature exacte de la ou des créances</td><td colspan="3">Montant exprimé dans la monnaie du pays où l’autorité requérante a son siège</td><td colspan="3">Montant exprimé dans la monnaie du pays où l’autorité requise a son siège</td><td>Taux de change utilisé</td><td colspan="3">Autres renseignements</td></tr>
+<tr><td>a)</td><td>Nome et adresse</td><td>{</td><td>connus<sup>1</sup> présumés<sup>1</sup></td><td></td><td colspan="6">Montant du principal<sup>3</sup></td><td></td><td colspan="3">Date à partir de laquelle l’exécution est possible</td></tr>
+<tr><td>b)</td><td colspan="3">Autres informations utiles:</td><td></td><td colspan="6">Montant des intérêts jusqu’au jour de la signature de la présente<sup>3</sup></td><td></td><td colspan="3">Délai de prescription</td></tr>
+<tr><td></td><td colspan="3">– débiteur principal – codébiteur – tiers détenteur</td><td></td><td colspan="6">Montant des frais jusqu’au jour de la signature de la présente<sup>3</sup></td><td></td><td colspan="3">Biens du débiteur détenus par une tierce personne</td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td colspan="2">Total</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">(Signature)<sup>1</sup></td></tr>
+<tr><td colspan="7">Détail des documents joints</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">(Cachet officiel)</td></tr>
+<tr><td><sup>1</sup></td><td colspan="14">Biffer la mention inutile</td></tr>
+<tr><td><sup>2</sup></td><td colspan="14">Personne physique ou morale</td></tr>
+<tr><td><sup>3</sup></td><td colspan="14">En cas de titre exécutoire global, indiquer le montant des créances de nature différente.</td></tr>
+</table>
+
+Champ d’application le 1<sup>er</sup> février 2016**[^t-11]**
+
+<table>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Islande <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Macédoine du Nord</td><td>28 mai</td><td>2015 A</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
+<tr><td>Norvège <sup>a</sup></td><td>31 juillet</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Serbie</td><td>9 décembre</td><td>2015 A</td><td>1<sup>er</sup> février</td><td>2016</td></tr>
+<tr><td>Suisse <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Turquie</td><td>1<sup>er</sup> décembre</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td>Union européenne <sup>b</sup></td><td>15 juin</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td colspan="5"><sup>a</sup> Membre de l’AELE.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaque, Slovénie, Suède.</td></tr>
+</table>
+
+[^t-11]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).

@@ -1,0 +1,459 @@
+---
+sr: "512.38"
+title: Verordnung vom 29. Oktober 2003 über den Militärsport
+short: VATT
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
+language: de
+version: 2020-02-01
+adopted: 2003-10-29
+in_force: 2004-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2003-584-20200201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20200201/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über den Militärsport****
+
+vom 29. Oktober 2003 (Stand am 1. Februar 2020)[^t-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 16 Absatz 2 Buchstabe c und 30 Absatz 1 des Sportförderungsgesetzes vom 17. Juni 2011[^ingress-1] und auf die Artikel 41 Absatz 3, 51 Absatz 4, 62 Absatz 3 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2],[^ingress-3]
+
+verordnet:
+
+[^ingress-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Militärsport für Angehörige der Armee**[^1-1]
+
+<sup>1</sup> Der Militärsport soll die körperliche und die militärische Leistungsfähigkeit sowie die Kameradschaft von Angehörigen der Armee fördern.
+
+<sup>2</sup> Die Truppe führt hierzu Kurse und Wettkämpfe durch oder nimmt daran teil.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 2
+
+**Militärdienst für die Leistungsentwicklung im Spitzensport**[^2-1]
+
+Spitzensportlerinnen und Spitzensportlern soll der Militärdienst die Möglichkeit bieten, ihre Leistungen zu entwickeln.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 3
+
+**Zuständigkeit**
+
+<sup>1</sup> Die ausserdienstliche Kurs- und Wettkampftätigkeit der Truppe untersteht der Gruppe Verteidigung.
+
+<sup>2</sup> Die Gruppe Verteidigung ist verantwortlich für die Militärdienste für die Leistungsentwicklung im Spitzensport. Das Bundesamt für Sport berät und unterstützt die Gruppe Verteidigung in den sportlichen Belangen.[^3-1]
+
+[^3-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+## 2. Kapitel: Ausserdienstliche Kurs- und Wettkampftätigkeit
+
+### 1. Abschnitt: Armeemeisterschaften und Armeewettkampf im Schiessen
+
+#### Art. 4
+
+**Durchführung**
+
+<sup>1</sup> Die Gruppe Verteidigung kann jährlich Armeemeisterschaften durchführen.
+
+<sup>2</sup> Der Armeewettkampf im Schiessen findet im Rahmen des Eidgenössischen Schützenfestes statt.
+
+<sup>3</sup> Die Gruppe Verteidigung bezeichnet die Kommandanten.
+
+#### Art. 5
+
+**Teilnahme**[^5-1]
+
+<sup>1</sup> Es können Angehörige der Armee, ehemalige Angehörige der Armee und Angehörige des Grenzwachtkorps teilnehmen.
+
+<sup>2</sup> Für die einzelnen Teilnehmergruppen können bei der Ausschreibung Kontingente bestimmt werden.
+
+<sup>3</sup> Die Teilnahme ist längstens bis zur Vollendung des 65. Altersjahres möglich.[^5-2]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)).
+[^5-2]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 5a
+
+[^5a-1]
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 4. Juni 2010 ([AS 2010 2667](https://fedlex.data.admin.ch/eli/oc/2010/356)). Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 6
+
+**Organisationskosten**
+
+Die Organisationskosten sind im Rahmen der budgetierten und bewilligten Kredite abzurechnen.
+
+### 2. Abschnitt: Conseil International du Sport Militaire****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 7
+
+**CISM-Tätigkeiten**
+
+<sup>1</sup> Die Schweiz nimmt als Mitglied des Conseil International du Sport Militaire (CISM) an dessen Wettkämpfen teil.[^7-1]
+
+<sup>2</sup> Zur Vorbereitung auf CISM-Wettkämpfe können Trainingskurse durchgeführt werden.
+
+<sup>3</sup> Die Gruppe Verteidigung bezeichnet den Delegationschef und wählt die schweizerischen Delegierten sowie die Vertreterinnen und Vertreter in den verschiedenen Komitees und Kommissionen.
+
+<sup>4</sup> …[^7-2]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-2]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 8
+
+**Durchführung von CISM-Wettkämpfen in der Schweiz**
+
+Für die Durchführung von Wettkämpfen des CISM in der Schweiz sind dessen Wettkampfbestimmungen massgebend.
+
+### 3. Abschnitt: Internationale Wettkampftätigkeit der Armee
+
+#### Art. 9
+
+**Internationale militärsportliche Grossanlässe**
+
+Als internationale militärsportliche Grossanlässe gelten:
+
+- a. Patrouille des Glaciers (PDG);
+- b.[^9-1] …
+- c. Swiss Tank Challenge (STC);
+- d. Swiss Air Force Competition (SAFC).
+
+[^9-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 10
+
+**Durchführung**
+
+Die Gruppe Verteidigung bezeichnet die Organisatoren.
+
+#### Art. 11
+
+**Teilnahme**
+
+<sup>1</sup> Die internationalen militärsportlichen Grossanlässe stehen allen Angehörigen der Armee offen.[^11-1]
+
+<sup>2</sup> Die Organisatoren können Gästekategorien für Angehörige ausländischer Armeen, ehemalige Angehörige der Armee sowie Angehörige des Grenzwachtkorps und der Polizeikorps bilden.[^11-2]
+
+<sup>2bis</sup> An der PDG können zudem zivile Wettkämpferinnen und Wettkämpfer zur Teilnahme zugelassen werden. Als zivile Wettkämpferinnen und Wettkämpfer gelten auch Angehörige der Armee, Angehörige ausländischer Armeen, ehemalige Angehörige der Armee sowie Angehörige des Grenzwachtkorps und der Polizeikorps, sobald sie das 65. Altersjahr vollendet haben.[^11-3]
+
+<sup>3</sup> Für die einzelnen Teilnehmergruppen können bei der Ausschreibung Kontingente bestimmt werden.[^11-4]
+
+<sup>4</sup> Die Teilnahme ist längstens bis zur Vollendung des 65. Altersjahres möglich. Diese Altersgrenze gilt nicht für zivile Wettkämpferinnen und Wettkämpfer der PDG.[^11-5]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+[^11-3]: Eingefügt durch Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+[^11-4]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^11-5]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)). Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 21](https://fedlex.data.admin.ch/eli/oc/2020/7)).
+
+#### Art. 12
+
+**Organisationskosten**
+
+Die Organisationskosten sind im Rahmen der budgetierten und bewilligten Kredite abzurechnen.
+
+#### Art. 13
+
+**Teilnahme ausländischer Armeedelegationen**
+
+Die Gruppe Verteidigung entscheidet im Rahmen der bewilligten Kredite über die Einladung ausländischer Armeedelegationen zu Wettkämpfen in der Schweiz.
+
+#### Art. 14
+
+**Teilnahme an Meisterschaften ausländischer Armeen**
+
+<sup>1</sup> Die Gruppe Verteidigung entscheidet im Rahmen der bewilligten Kredite über die Teilnahme von Delegationen der Armee an Meisterschaften ausländischer Armeen.
+
+<sup>2</sup> …[^14-1]
+
+[^14-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+### 4. Abschnitt: Freiwillige Militärsportkurse
+
+#### Art. 15
+
+**Durchführung**
+
+<sup>1</sup> Die Gruppe Verteidigung kann freiwillige Sommer- und Wintermilitärsportkurse durchführen. Die Daten der Kurse werden jährlich im Kurstableau veröffentlicht.
+
+<sup>2</sup> Diese Kurse dienen der Verbesserung der allgemeinen Kondition und der Vermittlung aktueller sporttechnischer Kenntnisse. Die Ausbildung hat in praktischer und theoretischer Form zu erfolgen.
+
+<sup>3</sup> Die Kurse dauern höchstens fünf Tage, die Kadervorkurse höchstens zwei Tage.
+
+#### Art. 16
+
+**Kursteilnehmerinnen und Kursteilnehmer[^16-1]**
+
+<sup>1</sup> Die Militärsportkurse stehen allen Angehörigen der Armee offen.
+
+<sup>2</sup> Wenn freie Plätze zur Verfügung stehen, können auch ehemalige Angehörige der Armee, die das 65. Altersjahr noch nicht vollendet haben, gegen Kostenbeteiligung teilnehmen.[^16-2]
+
+<sup>3</sup> …[^16-3]
+
+<sup>4</sup> Pro Jahr dürfen ein Sommer- und ein Wintermilitärsportkurs, höchstens jedoch zwei freiwillige Kurse nach den Artikeln 15 und 17 besucht werden.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^16-3]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+### 5. Abschnitt: Freiwillige Gebirgskurse
+
+#### Art. 17
+
+**Durchführung**
+
+<sup>1</sup> Das Kompetenzzentrum Gebirgsdienst der Armee kann freiwillige Sommer- und Wintergebirgskurse durchführen. Die Daten der Kurse werden jährlich im Kurstableau veröffentlicht.
+
+<sup>2</sup> Es vermittelt in diesen Kursen Teile der Gebirgsausbildung. Die Ausbildung hat in praktischer und theoretischer Form zu erfolgen.
+
+<sup>3</sup> Die Kurse dauern höchstens fünf Tage, die Kadervorkurse höchstens zwei Tage.
+
+#### Art. 18
+
+**Teilnahme**
+
+<sup>1</sup> Die Kurse stehen allen Angehörigen der Armee offen, die über eine entsprechende militärische Ausbildung verfügen.
+
+<sup>2</sup> Wenn freie Plätze zur Verfügung stehen, können auch ehemalige Angehörige der Armee, die das 65. Altersjahr noch nicht vollendet haben, gegen Kostenbeteiligung teilnehmen.[^18-1]
+
+<sup>3</sup> …[^18-2]
+
+<sup>4</sup> Pro Jahr dürfen ein Sommer- und ein Wintergebirgskurs, höchstens jedoch zwei freiwillige Kurse nach den Artikeln 15 und 17 besucht werden.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^18-2]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+### 6. Abschnitt: Militärwettkämpfe an kantonalen Schützenfesten
+
+#### Art. 19
+
+**Durchführung**
+
+Im Rahmen von kantonalen Schützenfesten können Militärwettkämpfe durchgeführt werden.
+
+#### Art. 20
+
+**Teilnahme**[^20-1]
+
+Die Teilnahme ist längstens bis zur Vollendung des 65. Altersjahres möglich.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 21
+
+**Beitrag des Bundes**
+
+Der Bund richtet im Rahmen der bewilligten Kredite pro teilnehmenden Angehörigen der Armee zehn Franken an die Kosten der Verpflegung aus.
+
+### 7. Abschnitt: Personal für die Organisation der Kurse und Wettkämpfe
+
+#### Art. 22
+
+**Rekrutierung der Funktionärinnen und Funktionäre sowie des Dienstpersonals**
+
+<sup>1</sup> Für Kurse und Wettkämpfe sind als Funktionärinnen und Funktionäre sowie als Dienstpersonal Angehörige der Armee einzusetzen. Diese können den Dienst auch freiwillig leisten.
+
+<sup>2</sup> Ehemalige Angehörige der Armee können längstens bis zur Vollendung des 65. Altersjahres nach Bedarf als freiwillige Funktionärinnen oder Funktionäre sowie als Dienstpersonal beigezogen werden.[^22-1]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 23
+
+**Rahmenbedingungen für Funktionärinnen und Funktionäre sowie Dienstpersonal**
+
+<sup>1</sup> Werden für die Organisation Funktionärinnen und Funktionäre sowie Dienstpersonal aus einer im Dienst stehenden Truppe eingesetzt und von dieser verpflegt, so kann die reduzierte Pensionsverpflegungsentschädigung für höchstens vier Tage verrechnet werden.
+
+<sup>2</sup> Werden für die Organisation ganze Truppeneinheiten, Truppenkörper oder Schulen eingesetzt, so sind die betreffenden Angehörigen der Armee von der truppeneigenen Küche zu verpflegen.
+
+### 8. Abschnitt: Sold, Anrechnung, Material und Versicherung****
+
+[^chap2-sec8-1]
+
+[^chap2-sec8-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 23a
+
+**Sold und Anrechnung**[^23a-1]
+
+<sup>1</sup> Angehörige der Armee, die im Rahmen eines Grundausbildungsdienstes oder eines Fortbildungsdienstes der Truppe an Tätigkeiten nach diesem Kapitel teilnehmen, erhalten für die entsprechenden Tage Sold.
+
+<sup>2</sup> Die übrigen Angehörigen der Armee erhalten für jährlich insgesamt höchstens zehn Tage der Teilnahme an Tätigkeiten nach diesem Kapitel Sold. Die Teilnahme am Armeewettkampf im Schiessen und an Militärwettkämpfen an kantonalen Schützenfesten wird nicht besoldet.
+
+<sup>3</sup> Angehörigen der Armee, die ihre Ausbildungsdienstpflicht noch nicht erfüllt haben, werden die besoldeten Tage an die Ausbildungsdienstpflicht angerechnet, soweit sie diese nicht im Rahmen von freiwilligen Diensten leisten.
+
+<sup>4</sup>
+
+Keinen Anspruch auf Sold haben:
+
+- a. ehemalige Angehörige der Armee;
+- b. übrige Teilnehmerinnen und Teilnehmer.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 24
+
+**Armeematerial**
+
+<sup>1</sup> Die Armee stellt das Armeematerial, das für die Kurs- oder Wettkampforganisation benötigt wird, kostenlos zur Verfügung.
+
+<sup>2</sup> Für internationale militärsportliche Grossanlässe entscheidet die Gruppe Verteidigung über die Materialabgabe.
+
+#### Art. 25
+
+**Privatmaterial**
+
+<sup>1</sup> Für an Kursen oder Wettkämpfen verwendetes privates Material wird keine Entschädigung ausgerichtet.
+
+<sup>2</sup> Verlust, Ersatz und Reparatur von privaten Sport- und Wettkampfausrüstungsgegenständen sowie von weiterem Privatmaterial gehen zu Lasten der Eigentümerin oder des Eigentümers.
+
+#### Art. 26
+
+**Militärversicherung**
+
+Wer als Angehöriger der Armee oder als ehemaliger Angehöriger der Armee an den ausserdienstlichen Tätigkeiten nach dieser Verordnung teilnimmt oder mitwirkt, ist im Rahmen des Bundesgesetzes vom 19. Juni 1992[^26-1] über die Militärversicherung versichert.
+
+[^26-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+#### Art. 27
+
+**Unfallversicherung**
+
+Die Gruppe Verteidigung schliesst im Einvernehmen mit der Eidgenössischen Finanzverwaltung eine Unfallversicherung ab für nicht militärversicherte Personen, die an ausserdienstlichen Tätigkeiten nach dieser Verordnung teilnehmen dürfen.
+
+## 2*a*. Kapitel:**** Spitzensport im Militärdienst
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 27a
+
+**Selektion**
+
+<sup>1</sup> Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport legt die sportlichen Kriterien für die Selektion als Sportsoldat oder CISM-Soldat fest. Es konsultiert dazu vorgängig den Dachverband des Schweizer Sports und die jeweiligen nationalen Sportverbände.
+
+<sup>2</sup> Die Gruppe Verteidigung entscheidet auf Antrag der jeweiligen nationalen Sportverbände über die Selektion der Sportsoldaten und der CISM-Soldaten.
+
+#### Art. 27b
+
+**Militärdienste**
+
+<sup>1</sup> Sportsoldaten können die Spitzensport-Rekrutenschule absolvieren.
+
+<sup>2</sup>
+
+Sportsoldaten und CISM-Soldaten sowie Angehörige der Armee, die als deren Trainer, Trainerinnen, Betreuer, Betreuerinnen, Funktionäre oder Funktionärinnen eingesetzt werden, können jährlich:[^27b-1]
+
+- a. höchstens 30 Tage besoldeten Militärdienst im Rahmen von Fortbildungsdiensten der Truppe mit Anrechnung an die Ausbildungsdienstpflicht für den Spitzensport nutzen;
+- b. zusätzlich höchstens 100 Tage besoldeten Militärdienst ohne Anrechnung an die Ausbildungsdienstpflicht leisten.
+
+<sup>3</sup> Auf Sportsoldaten und CISM-Soldaten, die als Zeitmilitär angestellt sind, sind die Absätze 1 und 2 nicht anwendbar.
+
+<sup>4</sup> Angehörige der Armee, die im Stab Kompetenzzentrum Sport der Armee oder im Fachstab Sport eingeteilt sind, können zur tageweisen Leistung der Wiederholungskurse aufgeboten werden.[^27b-2]
+
+<sup>5</sup> Der Militärdienst wird waffenlos geleistet.[^27b-3]
+
+[^27b-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+
+#### Art. 27c
+
+**Training und Wettkämpfe**
+
+Im Rahmen der Militärdienste nach Artikel 27*b* oder der Anstellung als Zeitmilitär können:
+
+- a. Sportsoldaten die Vorbereitungstage für internationale Wettkämpfe (wie Olympische Spiele, Welt- und Europameisterschaften) sowie die Wettkämpfe absolvieren;
+- b. CISM-Soldaten Trainingskurse für CISM-Wettkämpfe sowie die CISM-Wettkämpfe absolvieren.
+
+#### Art. 27d
+
+**Zuteilung oder Zuweisung**[^27d-1]
+
+<sup>1</sup>
+
+Auf Gesuch hin können der Armee Personen als Trainer, Trainerinnen, Betreuer, Betreuerinnen, Funktionäre oder Funktionärinnen von Sportsoldaten oder CISM-Soldaten zugeteilt oder zugewiesen werden, wenn sie:
+
+- a. über eine entsprechende, von ihrem nationalen Sportverband vorgegebene Ausbildung verfügen;
+- b. von ihrem nationalen Sportverband anerkannt und langfristig für diese Funktion vorgesehen sind.
+
+<sup>2</sup>
+
+Nach Absatz 1 zugeteilte und zugewiesene Personen:
+
+- a. leisten den Militärdienst waffenlos;
+- b. absolvieren eine minimale militärische Grundausbildung;
+- c. werden am Ende dieser Ausbildung zum Soldaten befördert, sofern sie nicht bereits einen schweizerischen militärischen Grad tragen;
+- d. können nicht für die Übernahme eines höheren Grades vorgeschlagen und befördert, jedoch bei Bedarf zum Fachoffizier oder zur Fachoffizierin ernannt werden;
+- e. können längstens bis zum Ende des Jahres, in dem sie das 65. Altersjahr vollenden, jährlich höchstens 100 Tage besoldeten Militärdienst leisten.
+
+[^27d-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+
+## 3. Kapitel: Schlussbestimmungen
+
+#### Art. 28
+
+[^28-1]
+
+[^28-1]: Aufgehoben durch Ziff. II 38 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+#### Art. 29
+
+**Vollzug**
+
+<sup>1</sup>
+
+Die Gruppe Verteidigung vollzieht diese Verordnung und erlässt die nötigen Weisungen. Sie legt insbesondere die Einzelheiten fest über:
+
+- a. die Trainingskurs- und Wettkampftätigkeit von Kadern sowie Wettkämpferinnen und Wettkämpfern in den verschiedenen Disziplinen des CISM;
+- b. die Einladung von ausländischen Armeedelegationen und die Abrechnung der anrechenbaren Kosten;
+- c. die Teilnahme an Meisterschaften ausländischer Armeen, die Selektion, Abkommandierung und die Abrechnung der anrechenbaren Kosten;
+- d. die Organisation und Teilnahme an Militärwettkämpfen an kantonalen Schützenfesten;
+- e.[^29-1] …
+
+<sup>2</sup>
+
+Sie bezeichnet eine zentrale Stelle, die verantwortlich ist für:
+
+- a. die Steuerung des Bedarfs an ausserdienstlichen Kurs- und Wettkampftätigkeiten der Truppe;
+- b. die Einhaltung der Vorschriften über die Besoldung und die Anrechnung an die Ausbildungsdienstpflicht von ausserdienstlichen Kurs- und Wettkampftätigkeiten der Truppe.[^29-2]
+
+<sup>3</sup> Sie erstattet dem Chef der Armee jährlich Bericht über die ausserdienstlichen Kurs- und Wettkampftätigkeiten der Truppe und beurteilt darin deren weiteren Bedarf und Nutzen für die Armee.[^29-3]
+
+[^29-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-2]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^29-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+
+#### Art. 30
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 28. Februar 1996[^30-1] über die ausserdienstliche Tätigkeit der Truppe wird aufgehoben.
+
+[^30-1]: [[AS 1996 1026](https://fedlex.data.admin.ch/eli/oc/1996/1026_1026_1026), [1999 1295](https://fedlex.data.admin.ch/eli/oc/1999/174)]
+
+#### Art. 31
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2004 in Kraft.

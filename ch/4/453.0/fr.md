@@ -1,0 +1,860 @@
+---
+sr: "453.0"
+title: Ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées (OCITES)
+short: OCITES
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
+language: fr
+version: 2020-01-01
+adopted: 2013-09-04
+in_force: 2013-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la circulation des espèces de faune et de flore protégées
+
+(OCITES)
+
+du 4 septembre 2013 (Etat le 1<sup>er</sup> janvier 2020)
+
+Le Conseil fédéral suisse,
+
+vu la loi fédérale du 16 mars 2012 sur la circulation des espèces de faune et de flores protégées (LCITES)[^ingress-1], vu l’art. 9, al. 2, de la loi du 20 juin 1986 sur la chasse (LChP)[^ingress-2] et l’art. 6, al. 3, de la loi fédérale du 21 juin 1991 sur la pêche (LFSP)[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-2]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^ingress-3]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup>
+
+La présente ordonnance est applicable:
+
+- a. aux animaux et aux plantes d’espèces protégées au sens de la LCITES, à leurs parties et aux produits obtenus à partir de ces animaux et de ces plantes;
+- b. aux animaux d’espèces pour lesquelles la LChP exige une autorisation de la Confédération pour leur importation, leur transit ou leur exportation, ainsi qu’à leurs parties et aux produits obtenus de ces animaux, et
+- c. aux poissons et écrevisses d’espèces, races et variétés étrangères au pays pour l’importation et l’introduction dans les eaux suisses desquels la LFSP exige une autorisation de la Confédération.
+
+<sup>2</sup> Les hybrides jusqu’à la quatrième génération (F4) d’animaux inscrits aux annexes I à III de la convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction (CITES)[^1-1] sont considérés comme des animaux d’espèces inscrites aux annexes I à III CITES.
+
+[^1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 2
+
+**Lots**
+
+Par lot, on entend plusieurs spécimens d’animaux ou de plantes qui sont transportés à l’aide du même moyen de transport, qui proviennent d’un même expéditeur et qui sont destinés à un même destinataire.
+
+## Chapitre 2 Obligations relatives à l’importation, au transit à l’exportation de spécimens
+
+#### Art. 3
+
+**Autorisations et certificats de l’état d’exportation ou de l’État de réexportation**
+
+<sup>1</sup>
+
+Les spécimens des espèces inscrites aux annexes I à III de la CITES[^3-1] ne peuvent être importés en Suisse ou transiter par la Suisse que sur présentation d’un des documents suivants:
+
+- a. autorisation d’exportation délivrée par l’État d’exportation;
+- b. certificat de réexportation délivré par l’État de réexportation;
+- c. certificat visé à l’art. VII, al. 2, CITES, délivré par l’organe de gestion de la CITES de l’État d’exportation ou de l’État de réexportation, attestant qu’il s’agit d’un spécimen pré-convention;
+- d. certificat visé à l’art. VII, al. 5, CITES délivré par l’organe de gestion de la CITES de l’État d’exportation.
+
+<sup>2</sup> L’autorisation ou le certificat doit prouver entièrement l’origine des spécimens couverts inscrits aux annexes I à III CITES. L’original ou une traduction de celui-ci légalisée par une autorité officielle doit être libellé soit dans l’une des langues officielles de la Suisse, soit en anglais ou en espagnol.
+
+[^3-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 4
+
+**Personne responsable des documents**
+
+Quiconque importe, fait transiter ou exporte des spécimens visés à l’art. 1, al. 1, veille à fournir tous les documents requis.
+
+#### Art. 5
+
+**Déclaration**
+
+<sup>1</sup> Le Département fédéral de l’intérieur (DFI) définit dans une ordonnance les spécimens visés à l’art. 1, al. 1, let. a et b, qui doivent être déclarés au moment de leur importation, de leur transit et de leur exportation. S’il s’agit d’animaux pouvant être chassés au sens de la LChP et destinés au lâcher, seule leur importation doit être déclarée.
+
+<sup>2</sup> Les spécimens doivent être déclarés à l’Administration fédérale des douanes (AFD) au moyen de la déclaration prescrite par la législation douanière. Si les spécimens sont importés dans une enclave douanière suisse, transitent par une telle enclave ou sont exportés depuis une telle enclave, la déclaration doit être effectuée à l’un des postes de contrôle désignés par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^5-1].
+
+<sup>3</sup> Les autorisations requises par la LCITES et la LChP ainsi que les autorisations et certificats visés à l’art. 3 doivent être joints à la déclaration destinée à l’AFD ou au poste de contrôle désigné par l’OSAV.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 6
+
+**Personnes assujetties à l’obligation de déclarer**
+
+<sup>1</sup>
+
+Sont assujetties à l’obligation de déclarer:
+
+- a. les personnes visées à l’art. 26 de la loi du 18 mars 2005 sur les douanes (LD)[^6-1];
+- b.
+
+  les personnes:
+
+  - 1\. qui importent des spécimens dans une enclave douanière suisse;
+  - 2\. qui font transiter des spécimens par une enclave douanière suisse, ou
+  - 3\. qui exportent des spécimens depuis une enclave douanière suisse.
+
+<sup>2</sup>
+
+Les personnes assujetties à l’obligation de déclarer doivent:
+
+- a. veiller à ce que les spécimens soumis à déclaration soient déclarés à l’AFD ou au poste de contrôle désigné par l’OSAV;
+- b. présenter les documents nécessaires et fournir, sur demande, des renseignements sur l’identité et l’origine des spécimens;
+- c. présenter les lots à l’organe chargé de les contrôler;
+- d. veiller, en cas de contrôle physique, à déballer, préparer et présenter les lots au contrôle, puis à réemballer et à charger les lots contrôlés, et
+- e. mettre gratuitement à la disposition des organes de contrôle qui en font la demande le personnel auxiliaire ou les moyens techniques nécessaires au travail desdits organes, notamment pour l’examen des animaux dangereux.
+
+[^6-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 7
+
+**Saisie dans le système d’information des données relatives aux importations**
+
+Quiconque importe à titre professionnel des spécimens d’espèces inscrites aux annexes I à III CITES[^7-1] qui seront réexportés, doit saisir les informations relatives à ces importations dans le système d’information visé à l’art. 21 LCITES et gérer ces informations.
+
+[^7-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+## Chapitre 3 Autorisations
+
+### Section 1 Autorisations d’importation, de transit ou d’exportation de spécimens d’espèces de faune et de flore protégées inscrites aux annexes I à III CITES
+
+#### Art. 8
+
+**Conditions générales d’octroi des autorisations**
+
+<sup>1</sup> Une autorisation d’importation, de transit ou d’exportation de spécimens d’espèces inscrites aux annexes I à III CITES[^8-1] n’est délivrée que si les conditions fixées aux art. III à VI CITES sont remplies. Les autorités compétentes sont définies aux art. 40, al. 1, et 42.
+
+<sup>2</sup> Les conditions d’octroi des autorisations applicables aux spécimens d’une espèce animale inscrite à l’annexe I CITES qui sont élevés en captivité à des fins commerciales et aux spécimens d’une espèce végétale inscrite à l’annexe I CITES qui sont reproduits artificiellement à des fins commerciales, sont fixées à l’art. IV CITES et s’appliquent en vertu de l’art. VII, al. 4, CITES.
+
+<sup>3</sup> Les conditions d’octroi des autorisations pour les espèces animales inscrites à l’annexe I CITES dont la survie dépend essentiellement de leur détention en captivité, sont fixées à l’art. III CITES. Ces conditions doivent être remplies même si les animaux sont élevés en captivité. Le DFI définit par voie d’ordonnance les espèces animales concernées.
+
+<sup>4</sup> Pour les espèces inscrites aux annexes I à III CITES qui sont particulièrement menacées ou qui font fréquemment l’objet d’un commerce illégal, l’OSAV peut exiger la présentation de documents et d’informations supplémentaires prouvant la légalité de la circulation des spécimens.
+
+[^8-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 9
+
+**Conditions supplémentaires d’octroi des autorisations d’importation**
+
+L’autorisation d’importer des spécimens d’espèces inscrites aux annexes I à III CITES[^9-1] n’est délivrée que si, en plus de celles qui sont fixées à l’art. 8, sont remplies les conditions suivantes:
+
+- a. pour pouvoir importer des animaux vivants dont la détention est soumise à autorisation conformément à l’art. 7, al. 3, de la loi du 16 décembre 2005 sur la protection des animaux (LPA)[^9-2] ou à l’art. 10 LChP: obligation de disposer d’une autorisation de détenir ces animaux;
+- b. pour pouvoir importer des animaux vivants d’espèces inscrites dans l’annexe I CITES prélevés dans la nature: les installations d’hébergement de ces animaux chez le destinataire doivent être conformes aux recommandations émises par le comité d’experts (art. 42);
+- c. pour pouvoir importer du caviar: obligation de prouver que son exportation du pays d’origine ne remonte pas à plus de 18 mois.
+
+[^9-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^9-2]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+
+#### Art. 10
+
+**Conditions supplémentaires d’octroi des autorisations d’exportation ou de réexportation**
+
+<sup>1</sup>
+
+L’autorisation d’exporter des spécimens d’espèces inscrites aux annexes I à III CITES[^10-1] n’est délivrée que si, en plus des conditions fixées à l’art. 8, la preuve est apportée que:
+
+- a. les spécimens ont été acquis légalement;
+- b. les spécimens sont des descendants de spécimens qui circulent ou qui circulaient légalement.
+
+<sup>2</sup> L’autorisation de réexporter des spécimens d’espèces inscrites aux annexes I à III CITES n’est délivrée que si, en plus des conditions fixées à l’art. 8, la preuve est apportée que les spécimens ont été importés conformément aux dispositions de la LCITES et aux dispositions de la présente ordonnance.
+
+<sup>3</sup> S’il s’agit de caviar, il faut que son exportation du pays d’origine ne remonte pas à plus de 18 mois.
+
+[^10-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 11
+
+**Spécimens pré-convention**
+
+<sup>1</sup> L’autorisation d’importer des spécimens d’espèces inscrites aux annexes I à III CITES[^11-1] qui ont été acquis avant que la CITES ne leur soit applicable (spécimens dits pré-convention), n’est délivrée que sur présentation d’un certificat de l’autorité de gestion de la CITES du pays de provenance attestant qu’il s’agit d’un spécimen pré-convention.
+
+<sup>2</sup> L’autorisation de réexporter de tels spécimens n’est délivrée que si le requérant apporte la preuve qu’un certificat de l’autorité de gestion de la CITES du pays de provenance attestant qu’il s’agit d’un spécimen pré-convention a été présenté au moment de l’importation.
+
+<sup>3</sup> Le certificat attestant qu’il s’agit d’un spécimen pré-convention, nécessaire pour exporter de tels spécimens, n’est délivré que si le requérant apporte une preuve suffisante que les spécimens ont été acquis avant que la CITES ne leur soit applicable.
+
+[^11-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 12
+
+**Autorisations d’importation de longue durée**
+
+<sup>1</sup> Le DFI définit dans une ordonnance les catégories de spécimens visés à l’art. 1, al. 1, let. a, pour lesquels il est délivré une autorisation d’importation de longue durée.
+
+<sup>2</sup>
+
+L’OSAV délivre l’autorisation d’importation de longue durée si le requérant:
+
+- a. a son siège social sur le territoire douanier suisse ou dans une enclave douanière suisse, et
+- b. fournit la garantie qu’il respecte les dispositions de la LCITES et de la présente ordonnance.
+
+#### Art. 13
+
+**Certificats délivrés par l’OSAV permettant plusieurs franchissements de la frontière**
+
+<sup>1</sup>
+
+L’OSAV délivre des certificats permettant plusieurs franchissements de la frontière:
+
+- a. qui attestent que le requérant est le propriétaire des animaux vivants concernés, inscrits aux annexes I à III CITES[^13-1] (certificat de propriété), si les animaux vivent dans son ménage et sont identifiés individuellement;
+- b.
+
+  pour des animaux vivants inscrits aux annexes I à III CITES appartenant à un cirque, si les animaux sont identifiés individuellement et:
+
+  - 1\. s’ils ont été acquis avant que la convention ne leur soit applicable, ou
+  - 2\. s’ils ont été élevés en captivité;
+
+- c.
+
+  pour les spécimens d’espèces inscrites aux annexes I à III CITES appartenant à une exposition itinérante:
+
+  - 1\. si les spécimens ont été acquis avant que la convention ne leur soit applicable, ou
+  - 2\. s’il s’agit de spécimens d’animaux élevés en captivité ou de plantes reproduites artificiellement;
+
+- d. qui attestent que le requérant est le propriétaire des instruments de musique fabriqués à partir de spécimens d’animaux ou de plantes d’espèces inscrites aux annexes I à III CITES, si les instruments peuvent être identifiés de manière univoque;
+- e. pour les animaux vivants d’espèces visées à l’art. 1, al. 1, let. a, qui ne sont pas mentionnées aux annexes I à III CITES.
+
+<sup>2</sup> Les spécimens doivent avoir été acquis conformément aux dispositions de la LCITES et aux dispositions de la présente ordonnance.
+
+<sup>3</sup> Le propriétaire des spécimens doit avoir son domicile ou siège social en Suisse.
+
+<sup>4</sup> Les animaux vivants sont enregistrés à l’OSAV.
+
+<sup>5</sup> Les certificats sont l’équivalent d’une autorisation d’importation, de transit ou d’exportation. Ils ne sont pas transmissibles.
+
+<sup>6</sup> La durée de validité des certificats est de 3 ans au plus.
+
+[^13-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 14
+
+**Certificats délivrés par des organes de gestion CITES étrangers et pour plusieurs franchissements de la frontière**
+
+Les certificats délivrés par un organe de gestion CITES étranger pour plusieurs franchissements de frontière équivalent à des autorisations d’importation, de transit ou d’exportation de spécimens d’espèces inscrites aux annexes I à III CITES[^14-1].
+
+[^14-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 15
+
+**Procédure d’autorisation simplifiée pour l’exportation et la réexportation**
+
+L’OSAV peut prévoir une procédure d’autorisation simplifiée[^15-1] pour l’exportation ou la réexportation de spécimens d’espèces inscrites aux annexes I à III CITES:
+
+- a. si la circulation de ces spécimens n’a pas de conséquences négatives ou n’a que des conséquences négatives négligeables sur la préservation de l’espèce concernée, et
+- b. si le requérant est enregistré à l’OSAV.
+
+[^15-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+### Section 2 Autorisations d’importation de spécimens vivants d’espèces non domestiquées de mammifères, d’oiseaux, de reptiles et d’amphibiens qui peuvent être facilement confondus avec des spécimens d’espèces inscrites aux annexes I à III CITES
+
+#### Art. 16
+
+L’autorisation visée à l’art. 7, al. 1, let. b, requise pour pouvoir importer des spécimens vivants d’espèces non domestiquées de mammifères, d’oiseaux, de reptiles et d’amphibiens dont la détention est soumise à autorisation conformément à l’art. 7, al. 3, LPA[^16-1] ou à l’art. 10 LChP, n’est délivrée que si le requérant dispose d’une autorisation de détenir ces animaux.
+
+[^16-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+
+### Section 3 Autorisations d’importation, de transit et d’exportation prescrites par la LChP et la LFSP
+
+#### Art. 17
+
+**Demandes**
+
+Les demandes visant à obtenir une autorisation au sens des art. 9, al. 1, let. a et c, LChP ou 6, al. 1, let. a, LFSP doivent être adressées à l’OSAV.
+
+#### Art. 18
+
+**Autorisations d’importation, de transit et d’exportation d’animaux d’espèces protégées par la LChP**
+
+<sup>1</sup> Les autorisations d’importation, de transit et d’exportation d’animaux indigènes d’espèces protégées par la LChP, de parties de ces animaux ou de produits tirés de ces animaux (art. 9, al. 1, let. a, LChP) ne sont délivrées que si un certificat de l’autorité de la chasse et de la protection de la nature du pays d’origine atteste que les animaux ont été acquis légalement.
+
+<sup>2</sup> Pour pouvoir importer des animaux vivants destinés à l’élevage dont la détention requiert une autorisation visée à l’art. 7, al. 3, LPA[^18-1] ou à l’art. 10 LChP, le requérant doit disposer, non seulement du certificat visé à l’al. 1, mais aussi d’une autorisation de les détenir.
+
+<sup>3</sup> Pour pouvoir importer des animaux vivants destinés au lâcher, le requérant doit disposer, non seulement du certificat visé à l’al. 1, mais aussi d’une attestation de l’Office fédéral de l’environnement (OFEV) confirmant que sont remplies les conditions applicables au lâcher fixées à l’art. 8, al. 1, de l’ordonnance du 29 février 1988 sur la chasse[^18-2].
+
+[^18-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^18-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+
+#### Art. 19
+
+**Autorisations d’importer des animaux d’espèces pouvant être chassées au sens de la LChP**
+
+En ce qui concerne les animaux indigènes destinés au lâcher et appartenant à des espèces pouvant être chassées au sens de la LChP (art. 9, al. 1, let. c, LChP), leur importation est autorisée si l’OFEV confirme:
+
+- a. que l’autorité compétente pour la chasse et la protection de la nature et du paysage du canton auquel ils sont destinés a donné son accord;
+- b. qu’il est garanti que la sous-espèce des animaux qu’il est prévu d’importer est identique à celle des représentants indigènes de l’espèce;
+- c. que les animaux ont été capturés, élevés, transportés et préparés au lâcher de manière à pouvoir survivre en liberté;
+- d. que les conditions de vie et les mesures de protection dans la région où les animaux seront lâchés permettront la formation et le maintien d’une population d’animaux pouvant être chassés, et
+- e. que l’importation ne nuit pas au maintien de la diversité biologique.
+
+#### Art. 20
+
+**Autorisations d’importer des poissons et écrevisses étrangers au pays, y compris leurs œufs**
+
+Les poissons et les écrevisses, y compris leurs œufs, qui sont réputés étrangers au pays conformément à l’art. 6, al. 1, de l’ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche (OLFP)[^20-1] et qui ne bénéficient pas de l’exemption d’autorisation visée à l’art. 8, al. 1, OLFP, peuvent être importés si l’OFEV confirme que les conditions fixées à l’art. 6, al. 2, LFSP sont remplies.
+
+[^20-1]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+
+### Section 4 Retrait des autorisations et des certificats
+
+#### Art. 21
+
+L’OSAV peut retirer une autorisation, une autorisation de longue durée ou un certificat:
+
+- a. si les conditions de sa délivrance ne sont plus réunies;
+- b. en cas de violation réitérée de la LCITES ou de ses dispositions d’exécution, ou
+- c. en cas de violation grave de la LCITES ou de ses dispositions d’exécution.
+
+## Chapitre 4 Exceptions aux régimes de déclaration et d’autorisation
+
+#### Art. 22
+
+**Objets à usage personnel et effets de déménagement**
+
+<sup>1</sup> S’il s’agit de spécimens non vivants d’espèces protégées au sens de la LCITES, les autorisations visées à l’art. 7 LCITES, les autorisations et certificats visés à l’art. 3 et les déclarations visées à l’art. 5 ne sont pas nécessaires si la preuve est apportée qu’il s’agit d’objets à usage personnel ou d’effets de déménagement et que leur origine est légale. Le devoir de déclaration prescrit par la législation douanière demeure réservé.
+
+<sup>2</sup> Par objet à usage personnel, on entend un spécimen non vivant utilisé au quotidien comme objet personnel par son possesseur ou son propriétaire et porté sur lui ou emporté avec lui dans ses déplacements.
+
+<sup>3</sup> Par effet de déménagement, on entend un spécimen non vivant importé, exporté ou passé en transit en raison d’un changement de domicile. Est assimilé à un effet de déménagement tout spécimen non vivant qui est importé, exporté ou passé en transit par une personne qui a séjourné une année au moins hors de son pays de domicile.
+
+<sup>4</sup>
+
+La dérogation prévue à l’al. 1 n’est pas applicable:
+
+- a. aux spécimens d’espèces inscrites à l’annexe I CITES[^22-1] s’ils ont été acquis par leur propriétaire hors de son pays de résidence habituelle et s’ils sont importés dans ce pays;
+- b.
+
+  aux spécimens d’espèces inscrites à l’annexe II CITES:
+
+  - 1\. s’ils ont été acquis par leur propriétaire hors de son pays de résidence habituelle,
+  - 2\. s’ils sont importés dans le pays de résidence habituelle du propriétaire,
+  - 3\. s’ils ont été prélevés dans la nature dans le pays où ils ont été acquis, et
+  - 4\. si le pays dans lequel les spécimens ont été prélevés dans la nature subordonne leur exportation à un permis d’exportation.
+
+<sup>5</sup> L’al. 4 n’est pas applicable aux spécimens pré-convention.
+
+<sup>6</sup> Sur recommandation de la conférence des Parties visée à l’art. XI CITES, le DFI peut définir des quantités maximales admises pour certains spécimens non vivants d’espèces inscrites aux annexes I à III CITES qui entrent dans le cadre des exceptions prévues à l’al. 1.
+
+[^22-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 23
+
+**Échanges entre institutions scientifiques**
+
+<sup>1</sup>
+
+Les autorisations visées à l’art. 7, al. 1, let. a, LCITES, les autorisations et certificats visés à l’art. 3 et les déclarations visées à l’art. 5 ne sont pas requis pour les prêts, donations ou échanges de spécimens d’animaux ou de plantes conservés et de spécimens de plantes vivantes inscrites aux annexes I à III CITES[^23-1], lorsque ces échanges sont faits à des fins non commerciales entre institutions scientifiques conformément à l’art. VII, al. 6, CITES et pour autant:
+
+- a. que les institutions scientifiques concernées soient agréées par l’OSAV, et
+- b. que les spécimens soient munis d’une étiquette délivrée par l’organe de gestion CITES compétent.
+
+<sup>2</sup> L’obligation de déclaration prescrite par la législation douanière est réservée.
+
+[^23-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 24
+
+**Agrément d’institutions scientifiques établies en Suisse**
+
+<sup>1</sup>
+
+L’OSAV agrée comme institutions scientifiques:
+
+- a. les institutions accessibles au public et dirigées selon des principes scientifiques;
+- b. les instituts des Hautes écoles;
+- c. les instituts de recherche de la Confédération et les institutions scientifiques équivalentes.
+
+<sup>2</sup>
+
+Pour être agréées, les institutions doivent remplir les conditions suivantes:
+
+- a. elles doivent disposer d’une collection permanente de spécimens d’animaux ou de plantes inscrits aux annexes I à III CITES[^24-1];
+- b. cette collection doit être utilisée principalement à des fins de recherche ou d’enseignement et être publiquement accessible à ces fins;
+- c. la légalité de la circulation des spécimens d’espèces inscrites aux annexes I à III CITES doit être attestée par les étiquettes, les catalogues ou d’autres relevés. Si de tels spécimens sont cédés pour une durée déterminée ou indéterminée, l’institution doit tenir un registre de ces cessions.
+
+<sup>3</sup> L’OSAV peut subordonner l’agrément de l’institution à des conditions ou charges supplémentaires destinées à éviter toute utilisation commerciale des spécimens.
+
+[^24-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 25
+
+**Procédure d’agrément**
+
+<sup>1</sup> L’agrément a une validité de deux ans. L’OSAV le renouvelle automatiquement aussi longtemps que les conditions sont remplies.
+
+<sup>2</sup> L’OSAV peut retirer l’agrément s’il en est fait un usage abusif.
+
+#### Art. 26
+
+**Agrément d’institutions scientifiques étrangères**
+
+<sup>1</sup> Les institutions scientifiques étrangères enregistrées auprès de l’organe de gestion CITES de leur pays sont réputées agréées.
+
+<sup>2</sup> Les institutions établies dans des États non Parties à la CITES[^26-1] peuvent être agréées par l’OSAV après consultation du Secrétariat de la convention.
+
+[^26-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 27
+
+**Dérogations au régime d’autorisation pour certaines espèces inscrites aux annexes II et III CITES**
+
+Le DFI peut prévoir des dérogations au régime d’autorisation applicable à l’importation et au transit de spécimens d’espèces inscrites aux annexes II et III CITES[^27-1], si les conditions prévues à l’art. 8, al. 2, LCITES sont remplies.
+
+[^27-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+## Chapitre 5 Exécution
+
+### Section 1 Contrôles et mesures en Suisse
+
+#### Art. 28
+
+<sup>1</sup> Si les organes de contrôle constatent l’absence de documents valables ou que la preuve de la légalité de la circulation des spécimens fait défaut, ils séquestrent les spécimens. Ils peuvent accorder à la personne responsable un délai approprié pour lui permettre de présenter les documents requis ou d’apporter la preuve que la circulation des spécimens est légale.
+
+<sup>2</sup> Si, au terme du délai qui a été accordé, les documents requis n’ont pas été présentés ou que la preuve de la légalité de la circulation n’ait pas été apportée, l’OSAV confisque les spécimens.
+
+<sup>3</sup> Si les organes de contrôle constatent que le registre des spécimens fait défaut, ils peuvent ordonner l’établissement d’un registre en bonne et due forme et accorder à cet effet un délai approprié.
+
+### Section 2 Contrôles et mesures lors de l’importation, du transit et de l’exportation
+
+#### Art. 29
+
+**Tâches de l’AFD et du service de contrôle désigné par l’OSAV**
+
+<sup>1</sup>
+
+L’AFD:
+
+- a. annonce à l’organe de contrôle compétent les lots présentés à l’importation, si un contrôle visé à l’art. 30, al. 1, est prescrit, et
+- b. perçoit les émoluments qui frappent les lots présentés à l’importation, à l’exception des émoluments pour le contrôle des plantes vivantes en provenance de l’Union européenne (art. 40, al. 2, let. c).
+
+<sup>2</sup>
+
+Si l’importation, le transit ou l’exportation sont effectués via une enclave douanière suisse, l’organe de contrôle désigné par l’OSAV:
+
+- a. effectue les contrôles visés aux art. 30 à 32;
+- b. prend les mesures visées aux art. 34 à 36, et
+- c. veille à ce que les émoluments soient payés.
+
+#### Art. 30
+
+**Contrôle des lots destinés à l’importation**
+
+<sup>1</sup> Le DFI définit dans une ordonnance, d’une part, les spécimens à déclarer qui doivent faire l’objet d’un contrôle documentaire au moment de leur importation, et d’autre part, en précisant dans quels cas, les spécimens qui doivent en outre faire l’objet d’un contrôle d’identité et d’un contrôle physique.
+
+<sup>2</sup> Les lots qui ne sont pas contrôlés à l’emplacement officiel doivent être présentés à l’organe de contrôle compétent dans un délai de deux jours ouvrables à compter de leur déclaration, si l’OSAV l’a ordonné. Un lot peut être modifié avant le contrôle uniquement dans la mesure où cette modification est nécessaire pour assurer le bien-être des animaux ou des plantes.
+
+<sup>3</sup> L’OSAV peut convenir avec les destinataires agréés visés à l’art. 101 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^30-1] et avec les entreposeurs visés à l’art. 52, al. 1, LD[^30-2] des contrôles à effectuer et du lieu où ces contrôles seront effectués. La convention doit définir les modalités qui régissent l’entreposage des spécimens jusqu’au moment du contrôle ainsi que les informations à enregistrer.
+
+<sup>4</sup> En accord avec l’AFD, l’OSAV peut déléguer aux organes des douanes le contrôle des documents et des lots.
+
+[^30-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^30-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+
+#### Art. 31
+
+**Contrôle des lots en transit**
+
+Les organes de contrôle contrôlent les lots en transit par sondage ou en cas de soupçon.
+
+#### Art. 32
+
+**Contrôle des lots destinés à l’exportation**
+
+<sup>1</sup> S’il s’agit de lots destinés à l’exportation, l’AFD effectue un contrôle des documents. Si elle estime que l’exportation est conforme au droit applicable, elle l’atteste.
+
+<sup>2</sup> Si les lots sont exportés depuis une enclave douanière suisse, le contrôle des documents est effectué par le service de contrôle désigné par l’OSAV.
+
+<sup>3</sup> Les organes de contrôle peuvent effectuer un contrôle d’identité et un contrôle physique.
+
+#### Art. 33
+
+**Ports francs et entrepôts douaniers ouverts**
+
+<sup>1</sup> Les lots provenant d’un pays étranger qui sont entreposés dans un port franc ou un entrepôt douanier ouvert sont contrôlés selon les dispositions applicables aux lots destinés à l’importation.
+
+<sup>2</sup> La personne assujettie à l’obligation de déclarer doit déclarer les lots à l’AFD au moment de leur entreposage et présenter les autorisations et certificats requis.
+
+<sup>3</sup> Les lots entreposés et ceux qui doivent être sortis de l’entrepôt sont contrôlés par sondage ou en cas de soupçon. Les contrôles peuvent comprendre un contrôle documentaire, un contrôle d’identité et un contrôle physique.
+
+<sup>4</sup> Le contrôle des lots qui quittent un port franc ou un entrepôt douanier ouvert pour être transportés à l’étranger est régi par l’art. 32, al. 1 et 3. La personne assujettie à l’obligation de déclarer doit présenter les autorisations et certificats requis à l’AFD lors de la déclaration en vue de la procédure de transit.
+
+#### Art. 34
+
+**Contestations**
+
+Les lots non réglementaires font l’objet d’une contestation par les organes de contrôle. Font notamment l’objet d’une contestation:
+
+- a. les lots pour lesquels les documents requis font défaut ou sont incomplets;
+- b. les lots pour lesquels il existe un soupçon fondé qu’ils contiennent des spécimens visés à l’art. 1, al. 1, let a ou b, qui sont illégalement en circulation, ou
+- c. les lots qui n’ont pas été déclarés ou qui n’ont pas été présentés aux organes de contrôle.
+
+#### Art. 35
+
+**Refoulement, libération sous réserve**
+
+Exceptionnellement, les organes de contrôle peuvent ordonner le refoulement du lot ou sa libération sous réserve, si le lot ou les documents qui l’accompagnent ne s’écartent que de manière marginale de leur état réglementaire.
+
+#### Art. 36
+
+**Séquestre**
+
+<sup>1</sup>
+
+Les organes de contrôle séquestrent les spécimens:
+
+- a. dans les cas visés à l’art. 15, al. 1, let. a à e, LCITES;
+- b. lorsque l’autorisation requise par la LChP fait défaut et qu’un refoulement ne soit pas défendable pour des raisons de protection des animaux, ou si les spécimens n’ont pas été déclarés ou qu’ils n’ont pas été présentés aux organes de contrôle.
+
+<sup>2</sup> Ils séquestrent les spécimens inscrits à l’annexe I CITES[^36-1] et les animaux vivants qui transitent par des aéroports nationaux si ces spécimens ou ces animaux font l’objet d’une contestation.
+
+<sup>3</sup> Ils peuvent accorder à la personne responsable un délai approprié pour lui permettre de remédier à l’irrégularité qui a entraîné la contestation.
+
+[^36-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 37
+
+**Libération**
+
+L’OSAV libère le lot séquestré lorsqu’il a été remédié à l’irrégularité qui a entraîné la contestation.
+
+#### Art. 38
+
+**Confiscation**
+
+L’OSAV confisque les spécimens:
+
+- a. dans les cas visés à l’art. 16, al. 1, LCITES;
+- b. lorsque l’autorisation exigée par la LChP n’a pas été présentée dans le délai prescrit ou que les spécimens n’ont pas été présentés aux organes de contrôle.
+
+### Section 3 Spécimens séquestrés et spécimens confisqués
+
+#### Art. 39
+
+<sup>1</sup> Les spécimens séquestrés sont entreposés ou hébergés temporairement par les organes de contrôle dans une structure désignée par l’OSAV ou dans un autre lieu approprié.
+
+<sup>2</sup> Les spécimens vivants séquestrés qui meurent sont utilisés à l’une des fins prévues dans un tel cas par l’OSAV ou sont détruits, pour autant que leur propriétaire ait rempli une déclaration de renonciation.
+
+<sup>3</sup>
+
+Les spécimens confisqués:
+
+- a. sont renvoyés par l’OSAV dans l’État d’exportation après consultation et aux frais de cet État;
+- b. sont transportés par l’OSAV dans une structure désignée par lui ou dans un autre lieu approprié et compatible avec les buts de la CITES[^39-1];
+- c. sont aliénés, dans la mesure où cela est autorisé par la CITES, ou
+- d. sont détruits, s’il est impossible de les renvoyer dans l’État d’exportation ou de les aliéner et qu’il soit impossible ou peu judicieux de les entreposer ou de les héberger.
+
+<sup>4</sup> Si les spécimens confisqués sont aliénés, le produit sera utilisé pour soutenir des projets de recherche ou des projets de mise en œuvre conformes aux buts de la CITES, si possible dans le pays d’origine des spécimens en question.
+
+<sup>5</sup> Si les spécimens séquestrés ou confisqués doivent être détruits, leur destruction doit respecter les dispositions de l’ordonnance du 25 mai 2011 sur l’élimination des sous-produits animaux[^39-2].
+
+[^39-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^39-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+
+### Section 4 Organisation de l’exécution
+
+#### Art. 40
+
+**OSAV**
+
+<sup>1</sup> L’OSAV est l’organe de gestion au sens de l’art. IX, al. 1, let. a, CITES[^40-1].
+
+<sup>2</sup>
+
+L’OSAV:
+
+- a. entretient des relations avec les autres États contractants et avec le Secrétariat de la CITES (art. IX, al. 2, CITES);
+- b. fixe les heures durant lesquelles l’OSAV ainsi que les organisations et les personnes de droit public ou de droit privé mandatées pour des tâches d’exécution effectuent les contrôles;
+- c. perçoit les émoluments qui frappent le contrôle des plantes vivantes en provenance de l’Union européenne;
+- d. organise des cours de formation, de formation qualifiante et de formation continue pour les organes de contrôle et peut, à cette fin, faire appel à d’autres services, et
+- e.
+
+  édicte des directives techniques sur:
+
+  - 1\. les modalités du contrôle des documents, du contrôle d’identité et du contrôle physique,
+  - 2\. les formulaires à utiliser,
+  - 3\. les modalités de transmission des informations et des dossiers,
+  - 4\. les modalités de l’archivage, et
+  - 5\. les modalités du compte rendu à l’OSAV.
+
+- f. informe le public sur la mise en œuvre de la CITES et favorise par ses informations la prise de conscience des enjeux de la protection des espèces dans les échanges internationaux, et
+- g. peut désigner des experts auxquels les organes de contrôle peuvent faire appel au besoin.
+
+<sup>3</sup> Après avoir consulté l’Office fédéral de l’agriculture, l’OSAV édicte des instructions à l’attention du Service phytosanitaire fédéral visé à l’art. 102 de l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^40-2].[^40-3]
+
+[^40-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^40-2]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^40-3]: Nouvelle teneur selon l’annexe 8 ch. 1 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+
+#### Art. 41
+
+**Organes de contrôle**
+
+<sup>1</sup>
+
+Les organes de contrôle sont:
+
+- a. l’OSAV;
+- b. le Service phytosanitaire fédéral;
+- c. l’AFD;
+- d. les services vétérinaires cantonaux, les vétérinaires, les organisations et les personnes de droit public ou de droit privé auxquels le DFI a confié des tâches d’exécution.
+
+<sup>2</sup> L’AFD peut faire appel aux autres organes de contrôle visés à l’al. 1 pour l’exécution de la présente ordonnance.
+
+#### Art. 42
+
+**Comité d’experts**
+
+<sup>1</sup> Le comité d’experts visé à l’art. 19 LCITES est la Commission fédérale pour les affaires relatives à la convention sur la conservation des espèces.
+
+<sup>2</sup> La commission comprend neuf membres au maximum; elle se compose d’experts en zoologie, en botanique, en détention des animaux sauvages et en protection des espèces de faune et de flore. Le Conseil fédéral désigne le président.
+
+## Chapitre 6 Émoluments et coûts
+
+#### Art. 43
+
+**Émoluments**
+
+Les émoluments sont fixés dans l’ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’OSAV[^43-1].
+
+[^43-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+
+#### Art. 44
+
+**Coûts liés aux mesures prises suite à une contestation**
+
+<sup>1</sup> Les coûts occasionnés par les mesures prises suite à une contestation sont supportés par la personne responsable. Ils comprennent notamment les coûts de l’entreposage ou de l’hébergement des spécimens contestés et les coûts de leur élimination, qui sont dus jusqu’au jour où la décision de confiscation ou de libération est prise ou jusqu’au jour où le propriétaire remet une déclaration de renonciation.
+
+<sup>2</sup> Si les spécimens contestés subissent des dommages durant leur entreposage ou leur hébergement sans qu’il y ait eu de comportement fautif de la part des organes de contrôle, ces dommages sont supportés par la personne responsable.
+
+#### Art. 45
+
+**Garanties de paiement**
+
+<sup>1</sup>
+
+Le dépôt d’une caution peut être exigé de la personne responsable à titre de garantie de paiement:
+
+- a. des frais de l’identification des spécimens en cas de soupçon de dénomination incorrecte de l’espèce animale ou végétale;
+- b. des frais de l’entreposage ou de l’hébergement des spécimens contestés.
+
+<sup>2</sup> Les spécimens contrôlés peuvent être retenus par l’organe de contrôle jusqu’au paiement des émoluments et des frais ou jusqu’à l’obtention de la garantie de paiement.
+
+## Chapitre 7 Système d’information
+
+### Section 1 Dispositions générales
+
+#### Art. 46
+
+**Exploitation du système d’information**
+
+L’OSAV assure l’exploitation du système d’information visé à l’art. 21 LCITES (système d’information).
+
+#### Art. 47
+
+**But du système d’information**
+
+<sup>1</sup>
+
+Le système d’information est utilisé par l’OSAV, par le Service phytosanitaire fédéral et par les organisations et les personnes de droit public ou de droit privé auxquelles des tâches d’exécution ont été confiées afin qu’ils puissent traiter les données qui sont nécessaires dans le cadre de l’exécution de la LCITES et de la présente ordonnance:
+
+- a. pour mener les procédures d’autorisation;
+- b. pour effectuer les contrôles, et
+- c. pour faire appliquer les décisions.
+
+<sup>2</sup> Le système d’information permet au requérant de déposer et de suivre électroniquement ses demandes d’autorisation de réexportation.
+
+### Section 2 Contenu du système d’information et droits d’accès
+
+#### Art. 48
+
+**Saisie des données dans le système d’information**
+
+Les données contenues dans le système d’information sont saisies:
+
+- a. par l’OSAV;
+- b. par le Service phytosanitaire fédéral;
+- c. par les organisations et les personnes de droit public ou de droit privé auxquelles des tâches d’exécution ont été confiées;
+- d. par les personnes et les entreprises qui importent à titre professionnel des spécimens d’espèces inscrites aux annexes I à III CITES[^48-1] qui seront réexportés;
+- e. par les personnes et les entreprises qui déposent des demandes d’autorisation de réexportation par l’intermédiaire du système d’information.
+
+[^48-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 49
+
+**Données relatives à l’importation et au transit**
+
+<sup>1</sup>
+
+Le système d’information contient les données suivantes relatives à l’importation et au transit de spécimens:
+
+- a.
+
+  données relatives aux demandes d’autorisation pendantes:
+
+  - 1\. informations sur l’importateur (nom, prénom, ou nom de l’entreprise, adresse, téléphone, courriel),
+  - 2\. informations sur le fournisseur (nom et adresse),
+  - 3\. informations sur le lieu de destination du lot,
+  - 4\. informations sur l’espèce animale ou végétale (dénomination de l’espèce animale ou végétale, type et quantité de marchandise et informations sur la provenance de la marchandise),
+  - 5\. annexes aux demandes d’autorisation;
+
+- b. autorisations délivrées et demandes d’autorisation rejetées;
+- c. décisions relatives aux mesures administratives;
+- d. informations relatives aux spécimens confisqués, et
+- e. données relatives aux importations saisies dans le système d’information en application de l’art. 7.
+
+<sup>2</sup> Les collaborateurs de l’OSAV chargés de l’exécution de la LCITES ont accès en ligne aux données visées à l’al.1. Ils sont autorisés à saisir, à consulter et à traiter ces données.
+
+<sup>3</sup> Les collaborateurs du Service phytosanitaire fédéral chargés de l’exécution de la LCITES ainsi que les organisations et les personnes de droit public ou de droit privé auxquelles des tâches d’exécution de la LCITES ont été confiées peuvent consulter en ligne les données visées à l’al. 1, let. b, dans la mesure où ils en ont besoin pour accomplir leurs tâches. Ils peuvent saisir dans le système d’information les décisions émises dans le cadre du contrôle des lots destinés à l’importation ou au transit et consulter ces décisions en ligne.
+
+<sup>4</sup> Les personnes et les entreprises qui importent à titre professionnel des spécimens inscrits aux annexes I à III CITES[^49-1] qui seront réexportés peuvent consulter en ligne les données visées à l’al. 1, let. e, qu’elles ont elles-mêmes saisies.
+
+[^49-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
+#### Art. 50
+
+**Données relatives aux exportations et aux réexportations**
+
+<sup>1</sup>
+
+Le système d’information contient les données suivantes relatives aux exportations et aux réexportations de spécimens:
+
+- a.
+
+  données relatives aux demandes d’autorisation pendantes:
+
+  - 1\. informations sur l’exportateur (nom, prénom, ou nom de l’entreprise, adresse, téléphone, courriel),
+  - 2\. informations sur l’importateur dans le pays de destination (nom, prénom, ou nom de l’entreprise, adresse),
+  - 3\. informations sur l’espèce animale ou végétale (dénomination de l’espèce animale ou végétale, type et quantité de marchandise et informations sur la provenance de la marchandise),
+  - 4\. en cas de réexportation: informations supplémentaires attestant la légalité des spécimens importés (n<sup>o</sup> du passavant, n<sup>o</sup> du certificat);
+
+- b. autorisations délivrées et demandes d’autorisation rejetées;
+- c. décisions relatives aux mesures administratives;
+- d. informations sur les spécimens confisqués.
+
+<sup>2</sup> Les collaborateurs de l’OSAV chargés de l’exécution de la LCITES ont accès en ligne aux données visées à l’al. 1. Ils sont autorisés à saisir, à consulter et à traiter ces données.
+
+<sup>3</sup> Le DFI définit dans une ordonnance les organes de gestion CITES des autres États et les organisations internationales ou supranationales qui ont accès en ligne aux autorisations d’exportation et de réexportation délivrées.
+
+<sup>4</sup> Les requérants qui déposent leurs demandes d’autorisation de réexportation par l’intermédiaire du système d’information peuvent consulter en ligne les données relatives à leurs demandes qui sont pendantes et les données relatives aux autorisations de réexportation qui leur ont été délivrées.
+
+### Section 3 Traitement électronique des demandes d’autorisation de réexportation
+
+#### Art. 51
+
+**Déroulement**
+
+<sup>1</sup> Pour que leurs demandes d’autorisation de réexportation puissent être traitées électroniquement, les requérants doivent saisir les données relatives à leurs importations dans le système d’information. Ces données sont vérifiées et validées par l’OSAV pour pouvoir être ensuite utilisées dans le système d’information.
+
+<sup>2</sup> Les requérants peuvent consulter en ligne les données relatives à leurs importations. Ils peuvent effectuer des demandes d’autorisation de réexportation directement dans le système d’information sur la base des données qu’ils ont eux-mêmes saisies.
+
+<sup>3</sup> Ils peuvent saisir et modifier leurs données dans le système d’information lorsqu’ils établissent leur demande d’autorisation. Ils ont notamment accès en ligne aux données relatives aux destinataires de leurs spécimens, et peuvent traiter ces données.
+
+<sup>4</sup>
+
+Les autorisations de réexportation délivrées par l’OSAV sont établies:
+
+- a. par l’OSAV lui-même, ou
+- b. par une chambre de commerce reliée au système d’information, à laquelle le requérant a attribué la tâche d’établir ces autorisations, à condition que l’OSAV ait autorisé cette attribution.
+- [tab] <sup>5</sup> Les autorisations de réexportation établies par une chambre de commerce ne peuvent être imprimées qu’une seule fois à la chambre de commerce. Son représentant signe l’autorisation de réexportation.
+
+#### Art. 52
+
+**Accès au système d’information par un tiers dans le cadre du traitement de la demande des certificats de réexportation**
+
+<sup>1</sup> Les requérants peuvent confier la gestion de leurs données dans le système d’information à d’autres personnes.
+
+<sup>2</sup> Les chambres de commerce reliées au système d’information peuvent consulter en ligne les autorisations de réexportation qu’elles établissent, à condition que l’OSAV ait autorisé l’attribution de cette tâche à ces chambres de commerce.
+
+<sup>3</sup> L’accès au système d’information est donné aux requérants, aux tiers mandatés et aux chambres de commerce au moyen de certificats électroniques ainsi que de noms d’utilisateur et de mots de passe individuels.
+
+### Section 4 Protection des données, sécurité informatique, archivage et suppression des données
+
+#### Art. 53
+
+**Protection des données**
+
+L’OSAV veille à ce que les dispositions relatives à la protection des données soient respectées. Il édicte un règlement interne fixant les mesures organisationnelles et techniques appropriées pour protéger les données.
+
+#### Art. 54
+
+**Droits des personnes concernées**
+
+<sup>1</sup> Les droits des personnes dont les données sont traitées dans le système d’information, notamment les droits d’accès, de rectification et de suppression, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^54-1].
+
+<sup>2</sup> Si la personne concernée veut faire valoir ses droits, elle doit produire une pièce d’identité et adresser une demande écrite à l’OSAV.
+
+[^54-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 55
+
+**Rectification des données**
+
+La rectification des données erronées incombe à la personne qui les a saisies dans le système d’information.
+
+#### Art. 56
+
+**Sécurité informatique**
+
+Les mesures destinées à garantir la sécurité informatique sont régies par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^56-1].
+
+[^56-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+#### Art. 57
+
+**Archivage et suppression des données**
+
+<sup>1</sup> L’archivage des données est régi par les dispositions de la loi du 26 juin 1998 sur l’archivage[^57-1].
+
+<sup>2</sup> Les données relatives aux autorisations délivrées et aux spécimens confisqués ne sont pas supprimées. Les données relatives aux demandes d’autorisation rejetées et aux décisions administratives sont conservées 30 ans avant d’être supprimées.
+
+[^57-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+## Chapitre 8 Dispositions pénales
+
+#### Art. 58
+
+Les infractions aux art. 3, al. 1, et 30, al. 2, sont punissables conformément à l’art. 26, al. 5, LCITES.
+
+## Chapitre 9 Dispositions finales
+
+#### Art. 59
+
+**Abrogation et modification d’autres actes**
+
+L’abrogation et la modification d’autres actes sont réglées dans l’annexe.
+
+#### Art. 60
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2013.
+
+Annexe
+
+(art. 59)
+
+## Abrogation ou modification d’autres actes
+
+I
+
+L’ordonnance du 18 avril 2007 sur la conservation des espèces[^annexu1-lvlu1-1] est abrogée.
+
+II
+
+Les ordonnances suivantes sont modifiées comme suit:
+
+…[^annexu1-lvlu1-2]
+
+[^annexu1-lvlu1-1]: [[RO 2007 2661](https://fedlex.data.admin.ch/eli/oc/2007/351), [2008 4619](https://fedlex.data.admin.ch/eli/oc/2008/645), [2011 553](https://fedlex.data.admin.ch/eli/oc/2011/82)]
+[^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601).

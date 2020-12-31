@@ -1,0 +1,71 @@
+---
+sr: "0.632.315.201.11"
+title: "Arrangement sous forme d'un échange de lettres du 19 juin 2000 entre la Confédération suisse et la République de Macédoine relatif au commerce des produits agricoles (avec annexes)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/25-2"
+language: fr
+version: 2002-05-01
+adopted: 2000-06-19
+in_force: 2002-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20020501/fr/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20020501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Arrangement sous forme d’un échange de lettres entre la Confédération suisse et la République de Macédoine relatif au commerce des produits agricoles
+
+RO **2004** 401; FF **2001** 918
+
+Traduction*[^t-1]*
+
+Conclu à Zurich le 19 juin 2000 Approuvé par l’Assemblée fédérale le 14 mars 2001[^t-2] Entré en vigueur le 1<sup>er</sup> mai 2002
+
+(Etat le 1<sup>er</sup> mai 2002)
+
+[^t-1]: Traduction du texte original anglais.
+[^t-2]: Art. 1 al. 1 let. b de l’AF du 14 mars 2001 ([RO 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
+
+Milijana B. Danevska Chef de la délégation macédonienne
+
+<table>
+<tr><td></td><td>Pascal Couchepin</td></tr>
+<tr><td></td><td>Chef de la délégation suisse</td></tr>
+<tr><td></td><td>Zurich, le 19 juin 2000</td></tr>
+</table>
+
+Monsieur,
+
+J’ai l’honneur d’accuser réception de votre lettre de ce jour dont toute la teneur est la suivante:
+
+«J’ai l’honneur de me référer aux négociations portant sur l’Arrangement relatif au commerce des produits agricoles entre la Confédération suisse (ci-après dénommée la Suisse) et la République de Macédoine (ci-après dénommée la Macédoine), qui ont eu lieu dans le cadre des négociations en vue de la conclusion d’un Accord de libre-échange entre les pays de l’AELE et la Macédoine[^ingress-1], et dont le but est notamment l’application de l’art. 12 de cet Accord.
+
+Par la présente, je vous confirme que ces négociations ont eu pour résultats:
+
+- I. des concessions tarifaires accordées par la Suisse à la Macédoine conformément à l’Annexe I de la présente lettre;
+- II. des concessions tarifaires accordées par la Macédoine à la Suisse conformément à l’Annexe II de la présente lettre;
+- III. aux fins de la mise en œuvre des dispositions des Annexes I et II, l’Annexe III de la présente lettre fixe les règles d’origine et les méthodes de coopération administrative;
+- IV. les Annexes I à III font partie intégrante du présent Arrangement.
+
+En outre, la Suisse et la Macédoine examineront toutes les difficultés qui pourraient surgir à propos de leurs échanges de produits agricoles et s’efforceront d’y apporter des solutions appropriées. Les parties à cet Accord poursuivront leurs efforts en vue d’une libéralisation progressive des échanges agricoles, dans le cadre de leurs poli- tiques respectives et de leurs obligations internationales.
+
+Le présent Arrangement s’applique également à la Principauté de Liechtenstein aussi longtemps que ce pays est lié à la Confédération suisse par le Traité d’union douanière[^ingress-2] du 29 mars 1923.
+
+Cet Arrangement sera approuvé par les Parties contractantes selon leurs propres procédures. Il entrera en vigueur ou sera appliqué provisoirement à la même date que l’Accord entre les pays de l’AELE et la Macédoine.
+
+Cet Arrangement restera en vigueur aussi longtemps que le demeurera l’Accord de libre-échange entre les pays de l’AELE et la Macédoine.
+
+Une dénonciation, de la part de la Macédoine ou de la Suisse, de l’Accord de libre-échange mettra fin à cet Arrangement; celui-ci deviendra caduc à la même date que l’Accord de libre-échange.
+
+Je vous serais obligé de bien vouloir me confirmer l’accord de la Macédoine sur le contenu de la présente lettre.»
+
+J’ai l’honneur de vous confirmer l’accord de mon Gouvernement sur le contenu de cette lettre.
+
+Je vous prie d’agréer, Monsieur, l’expression de ma très haute considération.
+
+<table>
+<tr><td></td><td>Pour la République de Macédoine:</td></tr>
+<tr><td></td><td>Milijana B. Danevska</td></tr>
+</table>
+
+[^ingress-1]: [RS 0.632.315.201.1](https://fedlex.data.admin.ch/eli/cc/2004/25)
+[^ingress-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)

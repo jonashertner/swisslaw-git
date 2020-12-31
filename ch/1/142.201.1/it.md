@@ -1,0 +1,153 @@
+---
+sr: "142.201.1"
+title: Ordinanza del DFGP del 13 agosto 2015 concernente i permessi e le decisioni preliminari nel diritto in materia di stranieri sottoposti alla procedura di approvazione
+short: OA-DFGP
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
+language: it
+version: 2021-01-01
+adopted: 2015-08-13
+in_force: 2015-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-518-20210101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DFGP concernente i permessi e le decisioni preliminari nel diritto in materia di stranieri sottoposti alla procedura di approvazione
+
+(Ordinanza del DFGP concernente l’approvazione, OA-DFGP)**[^t-1]**
+
+del 13 agosto 2015 (Stato 1° gennaio 2021)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 28 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+
+Il Dipartimento federale di giustizia e polizia (DFGP),
+
+visti gli articoli 30 capoverso 2 e 99 della legge federale del 16 dicembre 2005[^ingress-1] sugli stranieri e la loro integrazione (LStrI)[^ingress-2]; visto l’articolo 85 dell’ordinanza del 24 ottobre 2007[^ingress-3] sull’ammissione, il soggiorno e l’attività lucrativa (OASA),
+
+ordina:
+
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^ingress-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+#### Art. 1
+
+**Soggiorno con attività lucrativa**[^1-1]
+
+Sono sottoposte per approvazione alla Segreteria di Stato della migrazione (SEM):
+
+- a.
+
+  le decisioni preliminari delle autorità preposte al mercato del lavoro riguardanti cittadini di Stati non membri dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS) e vertenti su:
+
+  - 1\. il rilascio di un permesso di soggiorno di breve durata in virtù dell’articolo 19 capoverso 1 OASA,
+  - 2\. il rilascio di un permesso di dimora in virtù dell’articolo 20 capoverso 1 OASA;
+
+- b. il rilascio e il rinnovo dei permessi di soggiorno di breve durata se l’autorizzazione di svolgere un’attività lucrativa è concessa per quattro mesi al massimo alle condizioni di cui all’articolo 19 capoverso 4 lettera a OASA.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+
+#### Art. 2
+
+**Soggiorno senza attività lucrativa di cittadini di Stati non membri dell’UE o dell’AELS**
+
+È sottoposto per approvazione alla SEM il rilascio dei seguenti permessi a cittadini di Stati non membri dell’UE o dell’AELS:
+
+- a. il permesso di dimora per allievi, studenti, dottorandi, postdottorandi, ospiti accademici, persone che beneficiano di un congedo sabbatico e titolari di una borsa di studio della Confederazione, se cittadini di Paesi associati a un elevato rischio di compromissione della sicurezza interna o esterna della Svizzera o di elusione delle prescrizioni legali in materia di soggiorno; la SEM stila l’elenco di tali Paesi e lo aggiorna regolarmente;
+- b. il permesso di dimora per cura medica, se al momento della presentazione della domanda è presumibile che il soggiorno si protrarrà per un anno o più (art. 29 LStrI);
+- c. il permesso di dimora per redditieri (art. 28 LStrI);
+- d. il permesso di dimora per affiliati in vista d’adozione (art. 48 LStrI);
+- e. il permesso di dimora in vista di preparare il matrimonio, se al momento della presentazione della domanda è presumibile che il soggiorno si protrarrà per un anno o più.
+
+#### Art. 3
+
+**Rilascio dei permessi di soggiorno di breve durata, di dimora e di domicilio in casi particolari**
+
+Sono sottoposti per approvazione alla SEM:
+
+- a. il rilascio di un permesso di dimora a uno straniero privo di un passaporto nazionale valido;
+- b.[^3-1] il rilascio di un permesso di dimora a uno straniero che ha violato in modo grave o ripetuto la sicurezza e l’ordine pubblici in Svizzera o all’estero, li espone a pericolo o costituisce una minaccia per la sicurezza interna o esterna della Svizzera;
+- c. il rilascio di un permesso di dimora o di domicilio dopo la revoca passata in giudicato della cittadinanza svizzera;
+- d. il rilascio anticipato del permesso di domicilio in virtù dell’articolo 34 capoversi 3 e 4 LStrI;
+- e. il rilascio immediato del permesso di domicilio a professori;
+- f.[^3-2] il rilascio di un permesso di dimora in virtù dell’articolo 8 della Convenzione del 4 novembre 1950[^3-3] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali;
+- g.[^3-4] il rilascio di un permesso di dimora in sostituzione di un permesso di domicilio revocato (art. 63 cpv. 2 LStrI).
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^3-2]: Introdotta dal n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^3-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^3-4]: Introdotta dal n. I dell’O del DFGP del 28 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+
+#### Art. 4
+
+**Proroga del permesso di dimora in casi particolari**
+
+Sono sottoposte per approvazione alla SEM:
+
+- a. la proroga del permesso di dimora se lo straniero non è più in grado di ottenere la proroga del suo passaporto nazionale;
+- b.
+
+  la proroga del permesso di dimora di un cittadino di uno Stato non membro dell’UE o dell’AELS ammesso provvisoriamente in Svizzera (allievo, studente, dottorando, postdottorando, ospite accademico o persona che beneficia di un congedo sabbatico) nei casi seguenti:
+
+  - 1\.[^4-1] è presumibile che il soggiorno ai fini di formazione o formazione continua si protrarrà per oltre otto anni (art. 23 cpv. 3 OASA),
+  - 2\. l’interessato non dedica più o non è più in grado di dedicare ai suoi studi il tempo abitualmente necessario per portarli a termine, oppure
+  - 3\. sussistono indizi fondati che indicano che l’interessato, cambiando ripetutamente l’obiettivo della formazione, tenta di stabilirsi durevolmente in Svizzera;
+
+- c.[^4-2] la proroga del permesso di dimora di uno straniero che attenta in modo grave o ripetuto alla sicurezza e all’ordine pubblici in Svizzera o all’estero, li mette in pericolo o rappresenta una minaccia per la sicurezza interna o esterna della Svizzera;
+- d.[^4-3] la proroga del permesso di dimora dopo lo scioglimento dell’unione coniugale o dopo il decesso del coniuge svizzero o straniero (art. 50 LStrI; art. 77 OASA);
+- e.[^4-4] la proroga del permesso di dimora di un cittadino di uno Stato membro dell’UE o dell’AELS e dei membri della sua famiglia che hanno il diritto di rimanere in Svizzera (art. 4 all. I dell’Acc. del 21 giu. 1999[^4-5] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone [ALC]);
+- f.[^4-6] la proroga del permesso di dimora del figlio di un cittadino di uno Stato membro dell’UE o dell’AELS che ha esercitato un’attività economica in Svizzera o del suo coniuge allo scopo di portare a termine la propria formazione (art. 3 par. 6 all. I ALC) nonché la proroga del permesso di dimora del genitore che ne ha effettivamente la custodia;
+- g.[^4-7] la proroga del permesso di dimora di un cittadino di uno Stato non membro dell’UE o dell’AELS, se questa persona fa parte di un’economia domestica che nel corso dei tre anni precedenti la scadenza del titolo di soggiorno ha ottenuto prestazioni di aiuto sociale per un importo pari o superiore a 50 000 franchi nel caso di un’economia domestica di una sola persona o a 80 000 franchi nel caso di un’economia domestica di più persone.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-4]: Introdotta dal n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^4-6]: Introdotta dal n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-7]: Introdotta dal n. I dell’O del DFGP del 28 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+
+#### Art. 5
+
+**Deroghe alle condizioni d’ammissione**
+
+### (art. 30 cpv. 2 LStrI)
+
+Sono sottoposti per approvazione alla SEM:
+
+- a. il rilascio di un permesso di dimora ai figli stranieri di cittadini svizzeri (art. 29 OASA);
+- b. il rilascio di un permesso di dimora a Svizzeri svincolati dalla loro cittadinanza (art. 30 OASA);
+- c. il rilascio di un permesso di dimora a persone che soggiornano irregolarmente in Svizzera per acquisire una formazione professionale di base (art. 30*a* OASA);
+- d. il rilascio di un permesso di dimora in casi personali particolarmente gravi (art. 31 OASA);
+- e. il rilascio di un permesso di soggiorno di breve durata o di un permesso di dimora per tutelare importanti interessi pubblici (art. 32 OASA);
+- f. il rilascio di un permesso di dimora a minori affiliati (art. 33 OASA);
+- g. il rilascio di un permesso di soggiorno di breve durata alle vittime o ai testimoni della tratta di esseri umani (art. 36 OASA);
+- h. il rilascio di un permesso di dimora nell’ambito della protezione extraprocessuale dei testimoni (art. 36*a* OASA);
+- i. il rilascio di un permesso di soggiorno di breve durata o di un permesso di dimora a stranieri che erano già stati titolari di un permesso di dimora o di domicilio (riammissione di stranieri; art. 49 OASA);
+- j. il rilascio di un permesso di soggiorno di breve durata o di un permesso di dimora a stranieri che tornano in Svizzera dopo aver assolto il servizio militare all’estero (art. 51 OASA);
+- k. il rilascio di un permesso di dimora a corrispondenti e a giornalisti che lavorano per mass media con sede all’estero in virtù dell’articolo 43 capoverso 1 lettera f OASA.
+
+#### Art. 6
+
+**Ricongiungimento familiare di cittadini di Stati non membri dell’UE o dell’AELS**
+
+È sottoposto per approvazione alla SEM il rilascio dei seguenti permessi in vista del ricongiungimento familiare di cittadini di Stati non membri dell’UE o dell’AELS:
+
+- a. il permesso di dimora dopo lo scadere del termine per il ricongiungimento familiare in virtù degli articoli 47 LStrI e 73 OASA;
+- b. il permesso di dimora ai parenti in linea discendente maggiori di 18 anni di un cittadino svizzero o del suo coniuge (art. 42 cpv. 2 LStrI);
+- c. il permesso di dimora ai parenti in linea ascendente di un cittadino svizzero o del suo coniuge (art. 42 cpv. 2 LStrI);
+- d.[^6-1] il permesso di dimora ai discendenti maggiori di 21 anni di un cittadino di uno Stato membro dell’UE o dell’AELS o del suo coniuge (art. 3 par. 1 e 2 lett. a Allegato I ALC[^6-2]);
+- e. il permesso di dimora ai discendenti di età compresa tra 18 e 21 anni di un cittadino di uno Stato membro dell’UE o dell’AELS o del suo coniuge, purché prima del deposito della domanda questi discendenti non abbiano risieduto regolarmente e durevolmente in uno Stato membro dell’UE o dell’AELS (art. 3 par. 1 e 2 lett. a all. I ALC);
+- f. il permesso di dimora agli ascendenti di un cittadino di uno Stato membro dell’UE o dell’AELS o del suo coniuge (art. 3 par. 1 e 2 lett. b all. I ALC);
+- g.[^6-3] il permesso di dimora ai genitori di un cittadino minorenne di uno Stato membro dell’UE o dell’AELS se ne hanno effettivamente la custodia e dispongono di mezzi finanziari sufficienti (art. 24 par. 1 all. I ALC; ricongiungimento familiare rovesciato).
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^6-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^6-3]: Introdotta dal n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+
+#### Art. 7
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° settembre 2015

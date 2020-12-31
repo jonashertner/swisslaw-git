@@ -1,0 +1,158 @@
+---
+sr: "173.413.4"
+title: "Règlement du 28 septembre 2011 du Tribunal fédéral des brevets relatif à l'information (RInfo-TFB)"
+short: RInfo-TFB
+eli: "https://fedlex.data.admin.ch/eli/cc/2011/895"
+language: fr
+version: 2013-04-01
+adopted: 2011-09-28
+in_force: 2012-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/895/20130401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-895-20130401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/895/20130401/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Règlement du Tribunal fédéral des brevets relatif à l’information
+
+(RInfo-TFB)
+
+du 28 septembre 2011 (État le 1<sup>er</sup> avril 2013)
+
+Le Tribunal fédéral des brevets,
+
+vu l’art. 20, al. 3, let. a, de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets (LTFB)[^ingress-1],
+
+arrête le règlement suivant:
+
+[^ingress-1]: [RS 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+Le présent règlement régit l’information du public sur l’activité du Tribunal fédéral des brevets (le Tribunal).
+
+#### Art. 2
+
+**Principe**
+
+<sup>1</sup> Le Tribunal informe de manière ouverte et transparente.
+
+<sup>2</sup> Le président du Tribunal est compétent pour l’information.
+
+## Section 2 Information d’office
+
+#### Art. 3
+
+**Prononcé et publication des décisions**
+
+<sup>1</sup> Le Tribunal publie ses décisions finales sur Internet dix jours après leur envoi aux parties. Les décisions d’instruction peuvent être publiées. Le Tribunal peut mettre ses décisions à la disposition du public sous forme imprimée.
+
+<sup>2</sup> Les décisions importantes sont précédées d’un regeste dans les trois langues officielles. Si la décision est rendue en romanche, le regeste doit également être rédigé dans cette langue.[^3-1]
+
+<sup>3</sup> La publication est effectuée sous une forme non anonyme, à moins que la protection d’intérêts privés ou publics n’exige de la rendre anonyme. Elle peut être rendue anonyme d’office. S’agissant d’intérêts privés, les décisions sont rendues anonymes s’il en est fait la demande et si cela semble justifié.[^3-2]
+
+[^3-1]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 677](https://fedlex.data.admin.ch/eli/oc/2013/124)).
+[^3-2]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 677](https://fedlex.data.admin.ch/eli/oc/2013/124)).
+
+## Section 3 Information sur demande
+
+#### Art. 4
+
+Quiconque souhaite un renseignement doit en faire la demande au président du Tribunal. Celui-ci répond directement ou transmet la demande à l’organe compétent.
+
+## Section 4 Chronique de l’activité judiciaire
+
+#### Art. 5
+
+**Principe**
+
+Quiconque tient la chronique de l’activité judiciaire du Tribunal est tenu de prendre en considération les intérêts dignes de protection des participants à la procédure, en particulier leur sphère privée.
+
+#### Art. 6
+
+**Accréditation**
+
+<sup>1</sup> Les journalistes qui entendent tenir régulièrement la chronique de l’activité judiciaire du Tribunal pour les médias paraissant ou établis en Suisse peuvent demander leur accréditation par écrit au président.
+
+<sup>2</sup>
+
+L’accréditation est accordée si:
+
+- a. le requérant est déjà accrédité auprès du Tribunal fédéral, du Tribunal pénal fédéral ou du Tribunal administratif fédéral; la demande doit être accompagnée d’une attestation de cette accréditation, d’un curriculum vitae et d’une photographie;
+- b.[^6-1] le requérant entend tenir régulièrement la chronique de l’activité judiciaire du Tribunal fédéral des brevets et remplit les conditions d’inscription au registre professionnel; la demande doit être accompagnée d’un curriculum vitæ et d’une photographie, ainsi que d’un dossier contenant la carte de journaliste, une attestation de l’employeur ou tout autre document équivalent.
+
+<sup>3</sup> L’accréditation peut être refusée lorsqu’il existe des doutes fondés que celui qui la sollicite n’est pas digne de confiance.
+
+[^6-1]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+
+#### Art. 7
+
+**Durée et révocation de l’accréditation**
+
+<sup>1</sup> L’accréditation est accordée pour une période de quatre ans ou, si celle-ci a déjà commencé, pour la durée restante. Les journalistes doivent demander à temps le renouvellement de leur accréditation.
+
+<sup>2</sup> Le président révoque l’accréditation lorsque les conditions de son octroi ne sont plus remplies.
+
+#### Art. 8
+
+**Carte de légitimation**
+
+<sup>1</sup> Les journalistes accrédités reçoivent une carte de légitimation.
+
+<sup>2</sup> La carte de légitimation doit être rendue immédiatement après la révocation ou l’expiration de l’accréditation.
+
+#### Art. 9
+
+**Prestations du Tribunal[^9-1]**
+
+<sup>1</sup>
+
+Le Tribunal fournit aux journalistes accrédités les prestations suivantes:[^9-2]
+
+- a. la communication des dates des audiences publiques;
+- b. sur demande, la communication des faits concernant des affaires pour lesquelles des débats publics sont inscrits à l’ordre du jour;
+- c. la remise des décisions publiées avec regestes;
+- d. la remise des décisions qui, du point de vue des journalistes ou du Tribunal, présentent un intérêt particulier pour le public;
+- e. sur demande, les renseignements sur l’avancement de la procédure, pour autant que le président ait donné son accord;
+- f. la remise du rapport de gestion avant sa publication;
+- g.[^9-3] la remise de communiqués de presse.
+
+<sup>2</sup> Les décisions prévues à l’al. 1, let. c sont remises avant leur publication sur Internet; le cas échéant, un embargo est imposé.[^9-4]
+
+<sup>3</sup> La remise de décisions prévue à l’al. 1, let. d a lieu en même temps que l’envoi des décisions aux parties; un embargo est imposé.[^9-5]
+
+[^9-1]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+[^9-2]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+[^9-3]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+[^9-4]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+[^9-5]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+
+#### Art. 10
+
+**Embargo**
+
+<sup>1</sup> Le tribunal peut imposer un embargo sur la chronique de l’activité judiciaire.[^10-1]
+
+<sup>2</sup> En règle générale, l’embargo prend fin à midi le septième jour suivant l’envoi des décisions aux parties (jour de l’envoi non compris).
+
+<sup>3</sup> L’embargo est caduc lorsque, avant son échéance, le public a déjà eu connaissance du contenu de la décision par une autre source d’information.
+
+[^10-1]: Nouvelle teneur selon le ch. I du R du TFB du 12 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 675](https://fedlex.data.admin.ch/eli/oc/2013/123)).
+
+#### Art. 11
+
+**Sanctions**
+
+<sup>1</sup> Les journalistes accrédités qui enfreignent les dispositions du présent règlement de manière fautive peuvent faire l’objet d’un avertissement.
+
+<sup>2</sup> Dans les cas graves, l’accréditation peut être provisoirement suspendue ou définitivement révoquée.
+
+## Section 5 Disposition finale
+
+#### Art. 12
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2012.

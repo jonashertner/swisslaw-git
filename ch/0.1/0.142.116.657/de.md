@@ -1,0 +1,104 @@
+---
+sr: "0.142.116.657"
+title: Abkommen vom 2. September 1993 zwischen der Regierung der Schweizerischen Eidgenossenschaft und der Regierung der Russischen Föderation über den Austausch von Stagiaires
+eli: "https://fedlex.data.admin.ch/eli/cc/1993/2900_2900_2900"
+language: de
+version: 1993-09-02
+adopted: 1993-09-02
+in_force: 1993-09-02
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2900_2900_2900/19930902/de/xml/fedlex-data-admin-ch-eli-cc-1993-2900_2900_2900-19930902-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2900_2900_2900/19930902/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zwischen der Regierung der Schweizerischen Eidgenossenschaft und der Regierung der Russischen Föderation über den Austausch von Stagiaires
+
+AS **1993** 2900
+
+Originaltext
+
+Abgeschlossen am 2. September 1993 In Kraft getreten am 2. September 1993
+
+(Stand am 2. September 1993)
+
+Die Regierung der Schweizerischen Eidgenossenschaft und die Regierung der Russischen Föderation,
+
+nachstehend «die Vertragsschliessenden Seiten» genannt,
+
+haben folgende Vereinbarungen getroffen:
+
+#### Art. 1
+
+<sup>1</sup> Die Vertragsschliessenden Seiten erklären ihr Einverständnis zum Austausch von schweizerischen und russischen Bürgern zum Zwecke der beruflichen und sprachlichen Weiterbildung.
+
+<sup>2</sup> Dieses Abkommen findet Anwendung auf Bürger der Schweizerischen Eidgenossenschaft und Bürger der Russischen Föderation beiderlei Geschlechts, die für eine begrenzte Zeit im anderen Land – in der Schweiz bzw. in Russland – eine Stelle im erlernten Beruf antreten.
+
+<sup>3</sup> Das Abkommen gilt für alle Berufe, deren Ausübung nicht ausdrücklich schweizerischen bzw. russischen Staatsbürgern vorbehalten ist. Für Berufe, deren Ausübung der Bewilligung bedarf, ist diese zusätzlich einzuholen.
+
+#### Art. 2
+
+Die für die Durchführung dieses Abkommens zuständigen Behörden, weiter «die zuständigen Behörden» genannt, sind
+
+- – in der Schweiz das Bundesamt für Industrie, Gewerbe und Arbeit[^2-1] in Bern;
+- – in Russland der Föderative Migrationsdienst Russlands in Moskau.
+
+[^2-1]: Heute: Staatssekretariat für Migration (SEM) (siehe [AS 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
+
+#### Art. 3
+
+Stagiaires sind Personen, die mindestens 18 Jahre alt und in der Regel das 30. Altersjahr nicht überschritten haben. Sie sollen über eine abgeschlossene berufliche Ausbildung verfügen und gesundheitlich zu entsprechender Arbeit tauglich sein.
+
+#### Art. 4
+
+Die Stagiairesbewilligung wird in der Regel für eine Dauer von bis zu 12 Monaten erteilt. Sie kann von den zuständigen Behörden um höchstens 6 Monate verlängert werden.
+
+#### Art. 5
+
+<sup>1</sup> Die zuständigen Behörden können die Stellensuche von Stagiaires unterstützen.
+
+<sup>2</sup> Ein Gesuch ist mit allen notwendigen Angaben an die zuständige Behörde des Heimatlandes zu richten. Diese prüft, ob das Gesuch den Voraussetzungen dieses Abkommens entspricht und leitet es anschliessend an die zuständige Behörde des Gastlandes weiter.
+
+<sup>3</sup> Die erforderliche Stagiairebewilligung wird entsprechend den nationalen Bestimmungen des Gastlandes über die Ein- und Ausreise, den Aufenthalt und die Erwerbstätigkeit für Ausländer erteilt.
+
+#### Art. 6
+
+<sup>1</sup> Der Stagiaireaufenthalt findet auf der Grundlage eines zwischen dem Stagiaire und dem Arbeitgeber vereinbarten Arbeitsvertrags statt. Dieser hat den arbeitsrechtlichen Bestimmungen des Gastlandes zu entsprechen.
+
+<sup>2</sup>
+
+Der Arbeitsvertrag hat neben den allgemeinen Anstellungsbedingungen insbesondere zu regeln:
+
+- – Die Einrichtung einer Arbeitsentschädigung nach den in Gesamtarbeitsverträgen festgelegten Tarifen; fehlen solche Gesamtarbeitsverträge, richtet sich die Entschädigung nach berufs- und ortsüblichen Sätzen. Der Lohn muss der Arbeitsleistung entsprechen und dem Stagiaires ermöglichen, für seinen Lebensunterhalt aufzukommen.
+- – Die Versicherung gegen die wirtschaftlichen Folgen von Krankheit, Unfall, Invalidität und Tod.
+- – Die Bezahlung der Reise- und Unterkunftskosten des Stagiaire.
+
+#### Art. 7
+
+Die Stagiaires dürfen keine andere Stelle annehmen oder keine andere Erwerbstätigkeit ausüben als die, für die die Bewilligung erteilt ist. Die zuständige Behörde kann in begründeten Fällen die Genehmigung zum Stellenwechsel erteilt.
+
+#### Art. 8
+
+<sup>1</sup> Die Zahl der Stagiaires, die von jeder der Vertragsschliessenden Seiten zugelassen werden können, darf in einem Kalenderjahr 200 nicht überschreiten.
+
+<sup>2</sup> Dieses Kontingent kann jährlich ohne Rücksicht auf die Dauer der im Vorjahr erteilten Bewilligungen voll in Anspruch genommen werden. Falls das in Absatz 1 bestimmte Kontingent von einer der Vertragsschliessenden Seiten nicht ausgeschöpft wird, kann die andere Vertragsschliessende Seite aufgrund dieser Tatsache das vereinbarte Kontingent nicht einschränken. Nicht benützte Einheiten des Kontingents können nicht auf das folgende Jahr übertragen werden. Eine Verlängerung der Dauer des Stagiaireverhältnisses nach Artikel 4 gilt nicht als neue Zulassung.
+
+<sup>3</sup> Die im Rahmen des in Absatz 1 bestimmten Kontingents erteilten Stagiairebewilligungen werden unabhängig von der Arbeitsmarktlage des Gastlandes erteilt.
+
+<sup>4</sup> Eine Änderung des Kontingents für das folgende Jahr können die Vertragsschliessenden Seiten bis spätestens 1. Juli des laufenden Jahres vereinbart.
+
+#### Art. 9
+
+<sup>1</sup> Das vorliegende Abkommen tritt mit dem Zeitpunkt seiner Unterzeichnung in Kraft.
+
+<sup>2</sup> Das Abkommen wird für unbestimmte Zeit geschlossen.
+
+<sup>3</sup> Es kann von jeder Seite schriftlich gekündigt werden. Jede der Vertragsschliessenden Seiten kann das Abkommen kündigen, wenn sie die andere Vertragsschliessende Seite sechs Monate vor der Kündigung, jedoch bis spätestens am 1. Juli des laufenden Jahres, davon schriftlich benachrichtigt. Im Falle einer Kündigung bleiben die aufgrund dieses Abkommens erteilten Bewilligungen für die Zeitdauer, für die sie erteilt worden sind, in Kraft.
+
+<sup>4</sup> Alle Änderungen und Ergänzungen zu diesem Abkommen werden bei Bedarf zwischen den Vertragsschliessenden Seiten schriftlich vereinbart und gelten als integrierender Bestandteil des Abkommens.
+
+Unterzeichnet in Bern, am 2. September 1993 in zweifacher Ausfertigung in deutscher und russischer Sprache, beide Texte sind gleichermassen verbindlich.
+
+<table>
+<tr><td>Für die Regierung der Schweizerischen Eidgenossenschaft: Flavio Cotti</td><td>Für die Regierung der Russischen Föderation: Andrey V. Kozyrev</td></tr>
+</table>

@@ -1,0 +1,160 @@
+---
+sr: "946.201"
+title: Loi fédérale du 25 juin 1982 sur les mesures économiques extérieures
+eli: "https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923"
+language: fr
+version: 2007-05-01
+adopted: 1982-06-25
+in_force: 1983-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923/20070501/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1923_1923_1923-20070501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1923_1923_1923/20070501/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur les mesures économiques extérieures
+
+[^t-1]¶ (Etat le 1<sup>er</sup> mai 2007)
+
+946.201
+
+du 25 juin 1982 (Etat le 1<sup>er</sup> mai 2007)
+
+[^t-1]: [RO 1982 1923](https://fedlex.data.admin.ch/eli/oc/1982/1923_1923_1923)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu la compétence de la Confédération en matière de relations extérieures, vu les art. 28 et 29 de la constitution[^ingress-1], vu le message du Conseil fédéral du 7 décembre 1981[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS **1** 3]. Aux dispositions mentionnées correspondent actuellement les art. 101 et 133 de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: [FF 1982 I 65](https://fedlex.data.admin.ch/eli/fga/1982/1_61_65_57)
+
+#### Art. 1
+
+**Protection contre les effets des mesures prises à l’étranger ou des conditions extraordinaires qui y règnent**
+
+Si des mesures prises à l’étranger ou si des conditions extraordinaires régnant à l’étranger ont, sur le trafic des marchandises, des services ou des paiements de la Suisse avec l’étranger, des effets tels que des intérêts économiques suisses essentiels s’en trouvent affectés, le Conseil fédéral peut, aussi longtemps que les circonstances l’exigent:
+
+- a. surveiller l’importation, l’exportation et le transit des marchandises, ainsi que le trafic des services, les soumettre au régime de l’autorisation, les limiter ou les interdire;
+- b. réglementer le trafic des paiements avec certains pays et, au besoin, ordonner la perception de taxes en vue de compenser les perturbations dans le domaine des prix ou de la monnaie ou qui affectent le trafic des marchandises, des services et des paiements.
+
+#### Art. 2
+
+**Application provisoire d’accords**
+
+Afin de sauvegarder des intérêts économiques suisses essentiels, le Conseil fédéral peut appliquer provisoirement des accords non sujets au référendum qui touchent le trafic des marchandises, des services et des paiements. En cas d’urgence, l’application provisoire d’accords qui prévoient l’adhésion à une organisation internationale est aussi possible.
+
+#### Art. 3
+
+**Exécution d’accords; obtention et preuve de l’origine**[^3-1]
+
+<sup>1</sup> Le Conseil fédéral édicte les prescriptions nécessaires à l’exécution des accords sur le trafic des marchandises, des services et des paiements.
+
+<sup>2</sup> Il édicte des prescriptions sur l’obtention et la preuve de l’origine de marchandises.
+
+[^3-1]: Nouvelle teneur selon le ch. 20 de l'annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+
+#### Art. 4
+
+**Collaboration d’organisations et d’institutions**
+
+<sup>1</sup> Le Conseil fédéral et les départements peuvent confier l’exécution de mesures fondées sur l’art. 1 et l’application d’accords sur le trafic des marchandises, des services et des paiements, à des organisations ou institutions, en particulier à celles qui appartiennent à l’économie privée.
+
+<sup>2</sup> A cet effet, ces organisations et institutions sont soumises à la surveillance et aux instructions du Conseil fédéral ou des unités administratives qu’il désigne.
+
+<sup>3</sup> Les organes et les employés de ces organisations et institutions sont soumis aux dispositions légales sur la responsabilité pénale et financière et le secret de fonction des fonctionnaires fédéraux.
+
+#### Art. 5
+
+**Emoluments**
+
+Le Conseil fédéral peut percevoir des émoluments aux fins de couvrir les frais d’exécution et autoriser les organisations et institutions chargées de l’exécution des mesures à effectuer cette perception. Les tarifs de ces émoluments doivent être approuvés par le Département compétent.
+
+#### Art. 6
+
+**Protection juridique**
+
+<sup>1</sup> Le Conseil fédéral peut prévoir que le recours interjeté contre les décisions prises en vertu des prescriptions d’exécution de la présente loi sera précédé d’une procédure d’opposition.
+
+<sup>2</sup> ...[^6-1]
+
+<sup>3</sup> ...[^6-2]
+
+[^6-1]: Abrogé par le ch. 141 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^6-2]: Introduit par le ch. 64 de l’annexe à la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogé par le ch. 141 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+
+#### Art. 7
+
+**Dispositions pénales[^7-1]**
+
+<sup>1</sup> Celui qui enfreint intentionnellement ou par négligence les prescriptions d’exécution de la présente loi sera puni d’une amende de 100 000 francs au plus. Si l’infraction est intentionnelle, le juge pourra prononcer en outre, dans les cas graves, une peine d’emprisonnement d’une année au plus.
+
+<sup>2</sup> La tentative et la complicité sont punissables. Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^7-2] sont applicables.
+
+<sup>3</sup> L’action pénale se prescrit dans tous les cas par 7 ans.[^7-3]
+
+<sup>4</sup> Les infractions à la loi fédérale du 1<sup>er</sup> octobre 1925 sur les douanes[^7-4] seront jugées uniquement selon les dispositions pénales et de procédure de cette loi, même si l’infraction constitue en même temps un acte punissable en vertu du présent article.
+
+<sup>5</sup> Les infractions aux prescriptions sur l’obtention et la preuve de l’origine des marchandises sont poursuivies selon les dispositions pénales édictées par le Conseil fédéral. Ce dernier peut prévoir une peine d’emprisonnement pour la falsification de certificats d’origine et les actes similaires.[^7-5]
+
+<sup>6</sup> La poursuite pénale fondée sur les dispositions spéciales du code pénal suisse[^7-6] est réservée dans tous les cas.
+
+[^7-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^7-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^7-3]: Nouvelle teneur selon le ch. I 4 de la LF du 24 mars 2006 relative à la nouvelle réglementation concernant le rapport sur la politique économique extérieure, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1797](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+[^7-4]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793), [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la loi du 18 mars 2005 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^7-5]: Nouvelle teneur selon le ch. 20 de l'annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^7-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 8
+
+**Procédure pénale**
+
+La poursuite pénale et le jugement des infractions sont du ressort de la juridiction pénale fédérale. L’art. 7, al. 4 à 6 est réservé.
+
+#### Art. 9
+
+**Audition de commissions consultatives**
+
+<sup>1</sup> Le Conseil fédéral institue une Commission de la politique économique[^9-1]. Il l’entend sur les questions importantes de politique économique extérieure.
+
+<sup>2</sup> Les questions touchant aussi la coopération internationale au développement sont traitées lors de séances communes, qui réunissent la commission consultative pour la politique économique extérieure et la commission pour la coopération internationale au développement.
+
+[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+
+#### Art. 10
+
+**Rapport et approbation**
+
+<sup>1</sup> Le Conseil fédéral renseigne au moins une fois par an l’Assemblée fédérale sur des questions importantes touchant la politique économique extérieure. Toutefois, l’Assemblée fédérale n’approuve la gestion que lors de l’examen du rapport annuel d’activité du Conseil fédéral.
+
+<sup>2</sup> En outre, le Conseil fédéral présente un rapport à l’Assemblée fédérale dans les six mois, lorsqu’il a pris des dispositions en vertu de l’art. 1 de la présente loi, ou qu’il a appliqué des accords à titre provisoire en vertu de l’art. 2. Se fondant sur ce rapport, l’Assemblée fédérale décide si ces dispositions doivent rester en vigueur, être complétées ou modifiées et de l’approbation des accords.
+
+<sup>3</sup> Dans ses rapports, le Conseil fédéral peut aussi soumettre à l’approbation de l’Assemblée fédérale d’autres accords sur le trafic des marchandises, des services et des paiements.
+
+<sup>4</sup>
+
+Aux rapports sur la politique économique extérieure sont joints les rapports annuels fondés sur:
+
+- a. l’art. 13, al. 1, de la loi du 9 octobre 1986 sur le tarif des douanes[^10-1];
+- b. l’art. 6*a* de la loi fédérale du 13 décembre 1974 sur l’importation et l’exportation de produits agricoles transformés[^10-2];
+- c. l’art. 4, al. 2, de l’arrêté du 9 octobre 1981 sur les préférences tarifaires[^10-3].[^10-4]
+
+[^10-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^10-2]: [RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^10-3]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^10-4]: Introduit par le ch. I 4 de la LF du 24 mars 2006 relative à la nouvelle réglementation concernant le rapport sur la politique économique extérieure, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1797](https://fedlex.data.admin.ch/eli/fga/2006/162)).
+
+#### Art. 11
+
+**Dispositions finales**
+
+<sup>1</sup> Les prescriptions d’exécution de l’arrêté fédéral du 28 juin 1972 sur les mesures économiques extérieures[^11-1] restent en vigueur, à moins qu’elles ne soient abrogées avant l’expiration de cet arrêté.
+
+<sup>2</sup> La présente loi est soumise au référendum facultatif.
+
+<sup>3</sup> Elle entre en vigueur le 1<sup>er</sup> janvier 1983.
+
+[^11-1]: [[RO 1972 2474](https://fedlex.data.admin.ch/eli/oc/1972/2422_2474_2251)]

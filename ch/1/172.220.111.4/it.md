@@ -1,0 +1,1349 @@
+---
+sr: "172.220.111.4"
+title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del personale federale (OPDPers)
+short: OPDPers
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
+language: it
+version: 2018-01-01
+adopted: 2017-11-22
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20180101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla protezione dei dati personali del personale federale
+
+(OPDPers)
+
+del 22 novembre 2017 (Stato 1° gennaio 2018)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 27, 27*d* capoverso 6 e 28 capoverso 1<sup>quater</sup> della legge del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visto l’articolo 6 della legge federale del 24 marzo 2000[^ingress-2] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri,
+
+ordina:
+
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+
+## Capitolo 1: Disposizioni generali
+
+### Sezione 1: Principi
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup>
+
+La presente ordinanza disciplina il trattamento dei dati personali dei candidati, degli impiegati e degli ex impiegati dell’Amministrazione federale di cui all’articolo 1 capoverso 1 dell’ordinanza del 3 luglio 2001[^1-1] sul personale federale, escluso il settore dei PF, nonché di quelli:
+
+- a. del personale sottoposto al diritto delle obbligazioni[^1-2] (art. 6 cpv. 5 e art. 6 LPers);
+- b. del personale del Dipartimento federale degli affari esteri (DFAE) non trasferibile e impiegato all’estero sulla base di un contratto di diritto privato;
+- c. delle persone in formazione che sottostanno alla legge del 13 dicembre 2002[^1-3] sulla formazione professionale;
+- d. del personale secondo l’ordinanza del 2 dicembre 2005[^1-4] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario (OPers-PRA).
+
+<sup>2</sup> Il capitolo 4 della presente ordinanza è applicabile inoltre alle persone che hanno stipulato un mandato o sono state assunte mediante un contratto di fornitura di personale a prestito con l’Amministrazione federale nonché ai consoli onorari.
+
+<sup>3</sup> La presente ordinanza non è applicabile nei casi in cui la legge federale del 3 ottobre 2008[^1-5] sui sistemi d’informazione militari e l’ordinanza del 16 dicembre 2009[^1-6] sui sistemi d’informazione militari dispongono altrimenti sul trattamento dei dati personali di candidati o di impiegati ed ex impiegati del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).
+
+[^1-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^1-4]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^1-5]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^1-6]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+
+#### Art. 2
+
+**Informazione degli impiegati**
+
+Gli impiegati sono informati prima dell’introduzione o della modifica di un sistema d’informazione o di una raccolta di dati.
+
+#### Art. 3
+
+**Consulenza agli impiegati**
+
+Gli impiegati possono far capo ai consulenti per la protezione dei dati della loro unità amministrativa o del loro dipartimento.
+
+### Sezione 2: Protezione dei dati e sicurezza dei dati
+
+#### Art. 4
+
+**Sicurezza dei dati**
+
+<sup>1</sup> I dati su supporto cartaceo sono conservati sotto chiave.
+
+<sup>2</sup> Per i sistemi d’informazione contemplati dalla presente ordinanza, l’Ufficio federale del personale (UFPER) può emanare istruzioni. Esse disciplinano segnatamente le misure organizzative e tecniche atte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
+
+<sup>3</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale e i responsabili delle unità amministrative dell’Amministrazione federale adottano nel proprio ambito le misure organizzative e tecniche atte a garantire la sicurezza dei dati personali.
+
+#### Art. 5
+
+**Diritto d’accesso, di rettifica e di cancellazione**
+
+<sup>1</sup> Le persone interessate possono far valere il proprio diritto d’accesso alle informazioni, di rettifica e di cancellazione dei dati presso la Consulenza sociale del personale dell’Amministrazione federale (CSPers) o il servizio medico. Sono fatti salvi gli articoli 15, 27 e 60.
+
+<sup>2</sup> I dati inesatti sono rettificati d’ufficio.
+
+### Sezione 3: Comunicazione di dati
+
+#### Art. 6
+
+**Pubblicazione**
+
+<sup>1</sup> I direttori degli uffici assicurano che gli impiegati siano informati della prevista pubblicazione dei loro dati relativi all’attività professionale in intranet, in un organo di pubblicazione interno o su un albo.
+
+<sup>2</sup> L’informazione indica la natura della pubblicazione prevista e menziona che gli impiegati che si oppongono alla pubblicazione possono segnalarlo per scritto in qualsiasi momento.
+
+<sup>3</sup> La pubblicazione di dati personali degni di particolare protezione necessita del consenso scritto della persona interessata.
+
+#### Art. 7
+
+**Comunicazione dei dati a terzi**
+
+<sup>1</sup> Nessun dato può essere comunicato a terzi, in particolare ai nuovi datori di lavoro, agli istituti bancari, agli istituti di credito e ai locatori senza il consenso scritto della persona interessata. Chi comunica dati si assicura previamente che la persona interessata abbia dato il proprio consenso.
+
+<sup>2</sup> Il consenso della persona interessata è considerato dato se essa ha designato un’altra persona quale referenza per eventuali informazioni sul proprio conto.
+
+<sup>3</sup> La comunicazione dei dati si limita alle informazioni necessarie allo scopo della domanda.
+
+<sup>4</sup> Le disposizioni del presente articolo si applicano anche all’impiegato che cambia unità all’interno dell’Amministrazione federale. È fatto salvo l’articolo 35.
+
+## Capitolo 2: Dossier di candidatura
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 8
+
+**Candidatura**
+
+<sup>1</sup> I candidati possono presentare il loro dossier di candidatura in forma cartacea o elettronica.
+
+<sup>2</sup> Le unità amministrative possono digitalizzare i dossier di candidatura presentati in forma cartacea.
+
+#### Art. 9
+
+**Contenuto**
+
+<sup>1</sup> Il dossier di candidatura può contenere dati personali degni di particolare protezione e profili della personalità, in particolare nel curriculum vitae.
+
+<sup>2</sup> Esso può contenere, in particolare, i dati elencati nell’allegato 1.
+
+#### Art. 10
+
+**Trattamento dei dati**
+
+<sup>1</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale e le persone responsabili della selezione dei candidati elaborano nel loro ambito i dati dei dossier di candidatura, per quanto sia necessario all’adempimento dei loro compiti.
+
+<sup>2</sup> Al termine della procedura di candidatura, i dati dei candidati assunti sono trasferiti nel dossier personale (art. 19−23) e nel sistema d’informazione per la gestione dei dati del personale (art. 30−38).
+
+<sup>3</sup> I dossier di candidatura cartacei sono restituiti ai candidati non assunti. Eccezion fatta per la lettera di candidatura, gli altri dati sono distrutti entro tre mesi. Sono fatti salvi accordi particolari con i candidati. La durata di conservazione di un dossier può essere prorogata se ciò è necessario per il trattamento di un ricorso secondo l’articolo 13 capoverso 2 della legge federale del 24 marzo 1995[^10-1] sulla parità dei sessi.
+
+[^10-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+
+#### Art. 11
+
+**Test della personalità**
+
+<sup>1</sup>
+
+Il consenso esplicito dei candidati è necessario per i seguenti accertamenti:
+
+- a. l’esecuzione di test della personalità;
+- b. la richiesta di referenze;
+- c. la richiesta di perizie grafologiche.
+
+<sup>2</sup>
+
+Prima dell’esecuzione dei test della personalità i candidati devono essere informati su:
+
+- a. lo scopo dei test;
+- b. l’utilizzazione dei risultati dei test; e
+- c. la cerchia di persone che viene informata su questi risultati.
+
+### Sezione 2: Sistema d’informazione per il reclutamento di collaboratori
+
+#### Art. 12
+
+**Scopo**
+
+Il sistema d’informazione per il reclutamento di collaboratori (sistema di reclutamento elettronico) serve a mettere a concorso i posti di lavoro e a semplificare il processo di candidatura.
+
+#### Art. 13
+
+**Struttura**
+
+<sup>1</sup> Il sistema di reclutamento elettronico è costituito dall’applicazione e-Disposition e dal modulo per la gestione delle candidature.
+
+<sup>2</sup> Con l’applicazione e-Disposition vengono redatti e pubblicati i bandi di concorso.
+
+<sup>3</sup> Nel modulo per la gestione delle candidature sono registrati i posti da mettere a concorso, con le informazioni necessarie, e sono trattati i dati dei candidati.
+
+#### Art. 14
+
+**Diritti d’accesso**
+
+<sup>1</sup> La persona responsabile in seno al dipartimento assegna su richiesta delle unità amministrative i diritti d’accesso ai loro servizi del personale e ai centri di prestazione di servizi in materia di personale.
+
+<sup>2</sup> I servizi del personale e i centri di prestazione di servizi in materia di personale assegnano per ogni singolo caso i diritti d’accesso alle persone responsabili della selezione dei candidati.
+
+#### Art. 15
+
+**Diritto d’accesso, di rettifica e di cancellazione**
+
+In caso di candidatura elettronica il candidato stesso può esercitare nel sistema di reclutamento elettronico il diritto d’accesso alle informazioni, di rettifica e di cancellazione dei dati.
+
+#### Art. 16
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi e le modifiche al sistema di reclutamento elettronico sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 17
+
+**Responsabilità**
+
+<sup>1</sup> L’UFPER è responsabile del sistema di reclutamento elettronico.
+
+<sup>2</sup> Le unità amministrative sono responsabili del trattamento dei dati nel loro ambito; è fatta salva la responsabilità dei dipartimenti per i propri centri di prestazione di servizi in materia di personale.
+
+#### Art. 18
+
+**Distruzione dei dati**
+
+I servizi del personale e i centri di prestazione di servizi in materia di personale distruggono i dati del sistema di reclutamento elettronico al più tardi tre mesi dopo la conclusione della procedura di candidatura. È fatto salvo l’articolo 10 capoversi 2 e 3.
+
+## Capitolo 3: Dossier personale
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 19
+
+**Contenuto**
+
+<sup>1</sup>
+
+Il dossier personale può contenere le seguenti categorie di dati personali degni di particolare protezione:
+
+- a. indicazioni sulla persona, la sua famiglia e i suoi congiunti;
+- b. informazioni contenute nella documentazione di candidatura;
+- c. dati sullo stato di salute per quanto attiene al rapporto di lavoro, in particolare certificati medici nonché dati sulle assenze a seguito di malattia o infortunio, referti del servizio medico, valutazioni di idoneità e dati del case management;
+- d. indicazioni sulle prestazioni, le competenze e il potenziale;
+- e. attestati di lavoro;
+- f. atti procedurali e decisioni delle autorità, in particolare pignoramenti del salario, decisioni del Servizio specializzato per i controlli di sicurezza relativi alle persone, estratti di sentenze giudiziarie per determinare il diritto agli assegni familiari, atti sulle controversie derivanti dal rapporto di lavoro nonché atti concernenti inchieste disciplinari;
+- g. comunicazioni per l’assicurazione per la vecchiaia e per i superstiti (AVS), l’assicurazione per l’invalidità (AI), l’indennità per perdita di guadagno (IPG), gli assegni familiari, l’assicurazione contro la disoccupazione, la INSAI o un’altra assicurazione contro gli infortuni, PUBLICA, l’assicurazione militare (assicurazioni sociali), nonché decisioni di tali assicurazioni;
+- h. per gli impiegati del DFAE in servizio all’estero o soggetti all’obbligo di trasferimento e i loro congiunti: appartenenza religiosa e dati sullo stato di salute.
+
+<sup>2</sup> I dati contenuti nel dossier personale sono elencati nell’allegato 2.
+
+#### Art. 20
+
+**Trattamento dei dati**
+
+Iservizi del personale, i centri di prestazione di servizi in materia di personale e i superiori responsabili elaborano i dati del dossier personale, per quanto sia necessario all’adempimento dei loro compiti.
+
+#### Art. 21
+
+**Responsabilità**
+
+Le unità amministrative sono responsabili della protezione dei dati; è fatta salva la responsabilità dei dipartimenti i cui centri di prestazione di servizi in materia di personale hanno accesso ai dossier personali.
+
+#### Art. 22
+
+**Trasmissione del dossier in caso di passaggio a un’altra unità amministrativa**
+
+Se un impiegato passa a un’altra unità amministrativa, il dossier personale non è trasmesso alla nuova unità amministrativa. Qualsiasi deroga deve essere convenuta con l’impiegato.
+
+#### Art. 23
+
+**Conservazione, archiviazione e distruzione**
+
+<sup>1</sup> I dati del dossier personale sono conservati per dieci anni dopo la cessazione del rapporto di lavoro. Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
+
+<sup>2</sup> I risultati dei test della personalità e dei test di valutazione delle potenzialità sono conservati per cinque anni e poi distrutti.
+
+<sup>3</sup> Le valutazioni delle prestazioni e le decisioni basate su una valutazione sono conservate per cinque anni. Esse possono essere conservate eccezionalmente più a lungo se una controversia concernente pretese derivanti dal rapporto di lavoro lo giustifica. In un simile caso sono conservati al più tardi fino alla conclusione della procedura e poi distrutti.
+
+### Sezione 2: Sistema d’informazione per i dossier personali
+
+#### Art. 24
+
+**Scopo**
+
+Il sistema d’informazione per i dossier personali (sistema d’informazione dossier personale elettronico) serve ad amministrare, gestire e archiviare elettronicamente i dati personali degli impiegati.
+
+#### Art. 25
+
+**Dati ripresi dal sistema d’informazione per la gestione dei dati del personale**
+
+I dati non degni di particolare protezione possono essere ripresi dal sistema d’informazione per la gestione dei dati del personale.
+
+#### Art. 26
+
+**Diritti d’accesso**
+
+<sup>1</sup> Le persone responsabili in seno al dipartimento assegnano su richiesta delle unità amministrative i diritti d’accesso ai loro servizi del personale e centri di prestazione di servizi in materia di personale.
+
+<sup>2</sup> I servizi del personale e i centri di prestazione di servizi in materia di personale, se necessario, possono assegnare un diritto d’accesso ai superiori.
+
+#### Art. 27
+
+**Diritto d’accesso alle informazioni**
+
+I servizi del personale consentono agli impiegati che ne fanno richiesta di accedere ai propri dati nel sistema d’informazione dossier personale elettronico.
+
+#### Art. 28
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi e le modifiche al sistema d’informazione dossier personale elettronico sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 29
+
+**Responsabilità**
+
+<sup>1</sup> L’UFPER è responsabile del sistema d’informazione dossier personale elettronico.
+
+<sup>2</sup> Le unità amministrative sono responsabili del trattamento dei dati nel loro ambito; è fatta salva la responsabilità dei dipartimenti per i propri centri di prestazione di servizi in materia di personale. I servizi responsabili garantiscono la correttezza dei dati.
+
+## Capitolo 4: Sistema d’informazione per la gestione dei dati del personale
+
+#### Art. 30
+
+**Scopo**
+
+Il sistema d’informazione per la gestione dei dati del personale (SIGDP) serve all’adempimento dei seguenti compiti:
+
+- a. la gestione centralizzata dei dati personali degli impiegati e la loro utilizzazione da parte delle unità amministrative;
+- b. il trattamento dei dati concernenti il salario e l’esecuzione di valutazioni, simulazioni di budget e pianificazioni delle spese per il personale;
+- c. la gestione dei dati utili al promovimento dei quadri e allo sviluppo delle capacità gestionali.
+
+#### Art. 31
+
+**Contenuto**
+
+<sup>1</sup>
+
+Il SIGDP può contenere le seguenti categorie di dati personali degni di particolare protezione:
+
+- a. indicazioni relative alla persona, alla sua famiglia e ai suoi congiunti, in particolare i dati personali, dati sull’affiliazione a organizzazioni di lavoratori per la riscossione delle quote sociali, sulle occupazioni accessorie soggette all’obbligo di autorizzazione e sulle cariche pubbliche;
+- b. dati sullo stato di salute per quanto attiene al rapporto di lavoro, in particolare dati sulle assenze a seguito di malattia o infortunio;
+- c. indicazioni sulle prestazioni, le competenze e il potenziale, in particolare sul livello di valutazione e le competenze linguistiche;
+- d. indicazioni derivanti da atti procedurali e decisioni delle autorità, in particolare riguardanti pignoramenti del salario, assegni familiari, crediti salariali, indennità di partenza;
+- e. indicazioni derivanti da decisioni delle assicurazioni sociali, in particolare riguardanti conteggi e una ridotta capacità di guadagno;
+
+<sup>2</sup> I dati contenuti nel SIGDP sono elencati nell’allegato 3.
+
+#### Art. 32
+
+**Struttura**
+
+Il SIGDP è costituito dai seguenti elementi:
+
+- a. gestione dell’organizzazione per la rappresentazione della struttura organizzativa e funzionale del personale;
+- b. amministrazione del personale per la gestione dei dati personali degli impiegati;
+- c. contabilità del personale per il conteggio e il versamento degli stipendi degli impiegati;
+- d. rilevazione delle presenze del personale per la gestione del tempo di lavoro;
+- e. gestione dei costi del personale per la pianificazione e il controllo della gestione dei costi del personale;
+- f. sviluppo del personale per la pianificazione della carriera e dello sviluppo degli impiegati;
+- g. gestione dei viaggi per la rilevazione e il conteggio dei viaggi, compresi i relativi costi e spese.
+
+#### Art. 33
+
+**Trattamento dei dati**
+
+<sup>1</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale, i servizi finanziari, i servizi responsabili del supporto tecnico e i settori specializzati dell’UFPER elaborano i dati del SIGDP, per quanto sia necessario all’adempimento dei loro compiti.
+
+<sup>2</sup> Gli impiegati possono elaborare i loro dati, più precisamente i dati personali, i dati riferiti agli orari di presenza, le spese, le coordinate bancarie e le competenze, purché abbiano il diritto di accedervi.
+
+<sup>3</sup> I superiori possono accedere ai dati dei loro collaboratori e autorizzarli, purché abbiano diritto di accedervi; si tratta in particolare dei dati riferiti agli orari di presenza, alle spese e alle competenze.
+
+<sup>4</sup> La portata delle autorizzazioni al trattamento dei dati è disciplinata nell’allegato 3.
+
+#### Art. 34
+
+**Comunicazione dei dati**
+
+<sup>1</sup>
+
+I dati contenuti nel SIGDP, compresi i dati personali degni di particolare protezione, possono essere trasmessi ad altri sistemi d’informazione a condizione che:
+
+- a. l’altro sistema d’informazione sia dotato di una base legale per la comunicazione dei dati e di una base legale formale per la comunicazione di dati personali degni di particolare protezione;
+- b. l’altro sistema d’informazione sia stato notificato all’Incaricato federale della protezione dei dati e della trasparenza, ad eccezione delle collezioni di dati di cui all’articolo 18 dell’ordinanza del 14 giugno 1993[^34-1] relativa alla legge federale sulla protezione dei dati;
+- c. l’altro il sistema d’informazione sia dotato di un regolamento per il trattamento dei dati;
+- d. non sussistano elevati requisiti di sicurezza per i dati degli impiegati.
+
+<sup>2</sup> I dati, purché disponibili, vengono comunicati tramite l’archivio centralizzato delle identità conformemente all’articolo 13 dell’ordinanza del 19 ottobre 2016[^34-2] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione (OIAM).
+
+<sup>3</sup> La comunicazione dei dati può avvenire attraverso un elenco di destinatari.
+
+<sup>4</sup> Le unità amministrative possono riprendere dal SIGDP i dati non degni di particolare protezione dei loro impiegati ai fini dell’amministrazione del personale nel loro ambito.
+
+[^34-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-2]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+
+#### Art. 35
+
+**Trasferimento del diritto al trattamento dei dati**
+
+Quando un impiegato cambia unità all’interno dell’Amministrazione federale, il diritto al trattamento di tutti i dati che lo riguardano nel SIGDP è soppresso per l’unità amministrativa di provenienza e trasferito alla nuova unità.
+
+#### Art. 36
+
+**Conservazione, archiviazione e distruzione dei dati**
+
+<sup>1</sup> I dati dell’impiegato che lascia l’Amministrazione federale o decede sono conservati per dieci anni nel SIGDP.
+
+<sup>2</sup> Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
+
+#### Art. 37
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi e le modifiche al SIGDP sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 38
+
+**Responsabilità**
+
+<sup>1</sup> L’UFPER è responsabile del SIGDP.
+
+<sup>2</sup> Le unità amministrative sono responsabili del trattamento dei dati nel loro ambito; è fatta salva la responsabilità dei dipartimenti per i propri centri di prestazione di servizi in materia di personale. I servizi responsabili garantiscono la correttezza dei dati.
+
+## Capitolo 5: Sistema d’informazione per il controllo della gestione del personale
+
+#### Art. 39
+
+**Scopo**
+
+L’UFPER gestisce un sistema d’informazione per il controllo della gestione del personale.
+
+#### Art. 40
+
+**Contenuto**
+
+<sup>1</sup>
+
+Il sistema d’informazione per il controllo della gestione del personale contiene le seguenti categorie di dati degni di particolare attenzione:
+
+- a. dati sullo stato di salute per quanto attiene al rapporto di lavoro, in particolare dati sulle assenze a seguito di malattia o infortunio;
+- b. indicazioni sulle prestazioni e le competenze.
+
+<sup>2</sup> I dati per il sistema d’informazione per il controllo della gestione del personale vengono ripresi dal SIGDP. Non possono essere modificati.
+
+<sup>3</sup>
+
+I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
+
+- a. dai sistemi d’informazione per l’esecuzione dei processi di supporto alle finanze e alla logistica conformemente agli articoli 42–47 dell’ordinanza del 5 aprile 2006[^40-1] sulle finanze della Confederazione;
+- b. dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* della legge federale del 3 ottobre 2008[^40-2] sui sistemi d’informazione militari;
+- c. dal sistema d’informazione concernente il personale della Farmacia dell’esercito conformemente agli articoli 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> dell’ordinanza del 16 dicembre 2009[^40-3] sui sistemi d’informazione militari (OSIM);
+- d. dal sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa conformemente agli articoli 72*j*–72*j*<sup>sexies</sup> OSIM;
+- e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-4] sul trattamento dei dati personali nell’Amministrazione federale delle dogane.
+
+<sup>4</sup> I dati contenuti nel sistema d’informazione per il controllo della gestione del personale sono elencati nell’allegato 4.
+
+[^40-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^40-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^40-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-4]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+
+#### Art. 41
+
+**Struttura**
+
+Il sistema d’informazione per il controllo della gestione del personale è costituito dai seguenti elementi:
+
+- a. gestione dell’organizzazione;
+- b. amministrazione del personale;
+- c. contabilità del personale;
+- d. rilevazione delle presenze del personale;
+- e. gestione dei costi del personale;
+- f. sviluppo del personale;
+- g. calcolo delle spese di viaggio.
+
+#### Art. 42
+
+**Trattamento dei dati**
+
+<sup>1</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale, i servizi finanziari, i settori specializzati dell’UFPER e i servizi responsabili del supporto tecnico elaborano i dati, per quanto sia necessario all’adempimento dei loro compiti.
+
+<sup>2</sup> La portata delle autorizzazioni al trattamento dei dati è disciplinata nell’allegato 4.
+
+#### Art. 43
+
+**Conservazione, archiviazione e distruzione**
+
+<sup>1</sup> I dati sono conservati per dieci anni nel sistema d’informazione per il controllo della gestione del personale.
+
+<sup>2</sup> Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
+
+#### Art. 44
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi al sistema d’informazione per il controllo della gestione del personale sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 45
+
+**Responsabilità**
+
+<sup>1</sup> L’UFPER è responsabile del sistema d’informazione per il controllo della gestione del personale.
+
+<sup>2</sup> Le unità amministrative sono responsabili del trattamento dei dati nel loro ambito; è fatta salva la responsabilità dei dipartimenti per i propri centri di prestazione di servizi in materia di personale.
+
+## Capitolo 6: Sistema d’informazione per la piattaforma didattica della Confederazione
+
+#### Art. 46
+
+**Scopo**
+
+Il sistema d’informazione per la piattaforma didattica della Confederazione (LMS Confederazione) serve all’adempimento dei seguenti compiti nell’ambito della formazione e della formazione continua:
+
+- a. registrazione e pubblicazione dei progetti in materia di formazione;
+- b. pianificazione e svolgimento della formazione;
+- c. gestione dei processi di formazione;
+- d. verifica della formazione;
+- e. gestione delle competenze;
+- f. archiviazione del materiale didattico in formato digitale (ad es. documenti, programmi di studio, video didattici, test online);
+- g. comunicazione tra i docenti e i partecipanti ai corsi;
+- h. esecuzione di sondaggi online per le valutazioni.
+
+#### Art. 47
+
+**Contenuto**
+
+I dati contenuti nella piattaforma LMS Confederazione sono elencati nell’allegato 5.
+
+#### Art. 48
+
+**Trattamento dei dati**
+
+I dati sono elaborati dai partecipanti ai corsi, dalle persone responsabili della formazione e della gestione, dai responsabili e dagli amministratori dei corsi, dalle persone responsabili del supporto tecnico nonché dai docenti, per quanto sia necessario all’adempimento dei loro compiti.
+
+#### Art. 49
+
+**Raccolta dei dati**
+
+Gli organi competenti raccolgono i dati per la piattaforma LMS Confederazione presso:
+
+- a. i partecipanti ai corsi;
+- b. l’archivio centralizzato delle identità conformemente all’articolo 13 OIAM[^49-1].
+
+[^49-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+
+#### Art. 50
+
+**Conservazione, archiviazione e distruzione**
+
+<sup>1</sup> I dati dell’impiegato che lascia l’Amministrazione federale o decede sono conservati per dieci anni nella piattaforma LMS Confederazione.
+
+<sup>2</sup> Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
+
+#### Art. 51
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi alla piattaforma LMS Confederazione sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati dall’UFPER per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 52
+
+**Responsabilità**
+
+L’UFPER è responsabile per la piattaforma LMS Confederazione.
+
+## Capitolo 7: Fascicoli della Consulenza sociale del personale dell’Amministrazione federale
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 53
+
+**Contenuto**
+
+I dati contenuti nei fascicoli della CSPers sono elencati nell’allegato 6.
+
+#### Art. 54
+
+**Conservazione, archiviazione e distruzione**
+
+<sup>1</sup> Dopo la conclusione dei casi, i dati dei fascicoli sono conservati presso la CSPers.
+
+<sup>2</sup>
+
+Il termine di conservazione dei dati è di cinque anni per:
+
+- a. le consulenze e il supporto nell’ambito lavorativo, sociale, della salute e delle finanze;
+- b. la gestione dei casi (*case management*).
+
+<sup>3</sup>
+
+Esso è di dieci anni per:
+
+- a. le consulenze e il supporto nell’ambito della gestione dei redditi e dell’estinzione dei debiti;
+- b. le decisioni in merito alle domande di prestazioni conformemente all’ordinanza del 18 dicembre 2002[^54-1] concernente il fondo di soccorso del personale federale;
+- c. l’attribuzione di fondi per l’integrazione professionale delle persone con disabilità nell’Amministrazione federale.
+
+<sup>4</sup> Le richieste di attribuzione di fondi secondo il capoverso 3 lettera c sono conservate presso l’UFPER per dieci anni dopo la conclusione dell’attribuzione.
+
+<sup>5</sup> Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
+
+[^54-1]: [RS 172.222.023](https://fedlex.data.admin.ch/eli/cc/2003/58)
+
+### Sezione 2: Sistema d’informazione della CSPers
+
+#### Art. 55
+
+**Scopo**
+
+Il sistema d’informazione della CSPers serve ad amministrare, gestire e archiviare elettronicamente i dati delle persone che le si rivolgono.
+
+#### Art. 56
+
+**Diritti d’accesso**
+
+La CSPers assegna nel singolo caso alle persone e ai servizi di cui all’articolo 27*d* capoverso 4 LPers un diritto d’accesso limitato a livello temporale e materiale.
+
+#### Art. 57
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi e le modifiche al sistema d’informazione della CSPers sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 58
+
+**Responsabilità**
+
+La CSPers è responsabile del sistema d’informazione della CSPers.
+
+## Capitolo 8: Dati relativi alla salute
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 59
+
+**Contenuto dei documenti medici**
+
+I documenti medici possono contenere in particolare i dati elencati nell’allegato 7.
+
+#### Art. 60
+
+**Diritto d’accesso alle informazioni**
+
+Se ritiene che le informazioni contenute nei documenti medici possano essere pregiudizievoli per l’impiegato, il servizio medico può comunicare i dati a un medico di fiducia designato dall’impiegato.
+
+#### Art. 61
+
+**Comunicazione di dati a terzi**
+
+<sup>1</sup> Soltanto le conclusioni tratte da constatazioni mediche del servizio medico sono comunicate al servizio del personale. Il contenuto dei documenti medici è comunicato al servizio del personale o a terzi soltanto se l’impiegato ha dato il suo consenso scritto.
+
+<sup>2</sup> Se l’impiegato non dà il suo consenso, il servizio giuridico dell’UFPER conformemente all’articolo 28 capoverso 3 LPers rappresenta il servizio designato ad autorizzare la comunicazione di dati relativi alla salute e di documenti medici.
+
+#### Art. 62
+
+**Conservazione, archiviazione e distruzione**
+
+<sup>1</sup> I documenti medici dei candidati e degli impiegati sono conservati presso il servizio medico.
+
+<sup>2</sup> I documenti medici degli impiegati sono conservati per 40 anni dopo la cessazione del rapporto di lavoro.
+
+<sup>3</sup> I documenti medici dei candidati che non sono stati assunti sono conservati al massimo per dieci anni.
+
+<sup>4</sup> Le unità amministrative informano il servizio medico sulla cessazione del rapporto di lavoro degli impiegati e sulla non assunzione di candidati.
+
+<sup>5</sup> Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
+
+### Sezione 2: Sistema d’informazione del servizio medico
+
+#### Art. 63
+
+**Scopo**
+
+Il sistema d’informazione del servizio medico serve ad amministrare, gestire e archiviare elettronicamente i documenti medici degli impiegati e dei candidati.
+
+#### Art. 64
+
+**Diritti d’accesso**
+
+Il servizio medico assegna nel singolo caso ai suoi collaboratori, a seconda della loro funzione e del loro ruolo nell’applicazione, un diritto d’accesso limitato a livello temporale e materiale.
+
+#### Art. 65
+
+**Verbalizzazione**
+
+<sup>1</sup> Gli accessi e le modifiche al sistema informatico del servizio medico sono costantemente verbalizzati.
+
+<sup>2</sup> I verbali sono conservati per un anno.
+
+<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
+
+#### Art. 66
+
+**Responsabilità**
+
+Il servizio medico è responsabile del sistema informatico del servizio medico.
+
+## Capitolo 9: Disposizioni finali
+
+#### Art. 67
+
+**Abrogazione e modifica di altri atti normativi**
+
+L’abrogazione e la modifica di altri atti normativi è disciplinata nell’allegato 8.
+
+#### Art. 68
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2018.
+
+Allegato 1
+
+(art. 9 cpv. 2)
+
+## Dati del dossier di candidatura
+
+Fotografia
+
+Intestazione
+
+Titolo
+
+Nome
+
+Cognome
+
+Data di nascita
+
+Indirizzo e-mail
+
+Password
+
+Lingua per la corrispondenza
+
+Prima lingua
+
+Via
+
+NPA
+
+Luogo
+
+Paese
+
+Telefono
+
+Lettera di candidatura
+
+Curriculum vitae
+
+Attestati, diplomi, referenze
+
+Altri documenti
+
+Allegato 2
+
+(art. 19 cpv. 2)
+
+## Dati del dossier personale
+
+### 1 Reclutamento del personale
+
+- 1\.1 Dossier di candidatura
+- 1\.2 Documentazione di assunzione
+- 1\.3 Documenti rilevanti ai fini della sicurezza
+
+### 2 Gestione del personale
+
+- 2\.1 Dati personali e dati relativi alla famiglia e ai congiunti
+- 2\.2 Descrizioni dei posti
+- 2\.3 Certificati
+- 2\.4 Tempo di lavoro
+- 2\.5 Impiego del personale
+- 2\.6 Atti disciplinari
+- 2\.7 Autorizzazioni
+- 2\.8 Cariche pubbliche e occupazioni accessorie
+
+### 3 Retribuzione del personale
+
+- 3\.1 Stipendio / assegni
+- 3\.2 Spese
+- 3\.3 Premi
+- 3\.4 Prestazioni accessorie allo stipendio / agevolazioni
+- 3\.5 Cura dei figli da parte di terzi
+
+### 4 Assicurazioni sociali
+
+- 4\.1 AVS / AI / IPG / AD
+- 4\.2 INSAI / assicurazione contro gli infortuni
+- 4\.3 Assegni familiari
+- 4\.4 Publica
+- 4\.5 Assicurazione militare
+
+### 5 Salute
+
+- 5\.1 Attestato d’idoneità all’entrata
+- 5\.2 Valutazione dell’idoneità medica
+- 5\.3 Certificati medici
+- 5\.4 Autorizzazioni per medici e assicurazioni
+- 5\.5 Richieste / pareri del servizio medico
+- 5\.6 Durata delle assenze dovute a malattia e infortunio
+
+### 6 Assicurazioni in generale
+
+- 6\.1 Documentazione su casi di responsabilità civile
+- 6\.2 Danni agli effetti personali
+
+### 7 Sviluppo del personale
+
+- 7\.1 Formazione e formazione continua
+- 7\.2 Misure di sviluppo
+- 7\.3 Qualifiche
+- 7\.4 Competenze sociali e professionali
+- 7\.5 Risultati dei test della personalità e dei test di valutazione delle potenzialità
+- 7\.6 Sviluppo dei quadri
+- 7\.7 Formazione professionale di base
+
+### 8 Uscita / passaggio
+
+- 8\.1 Disdetta da parte del datore di lavoro
+- 8\.2 Disdetta da parte del collaboratore
+- 8\.3 Pensionamento
+- 8\.4 Decesso
+- 8\.5 Formalità d’uscita
+- 8\.6 Formalità del passaggio
+
+### 9 Particolari categorie del personale
+
+Allegato 3
+
+(art. 31 cpv. 2 e 33 cpv. 4)
+
+## Sistema d’informazione per la gestione dei dati del personale (SIGDP)
+
+### 1 Portata dell’autorizzazione al trattamento dei dati
+
+### 1.1 Tabella
+
+<table>
+<tr><td>Descrizione</td><td>UFIT− CCRU (supporto)</td><td>Settore UFPER</td><td>UFIT−CCSAP (supporto)</td><td>Centri di prestazione di servizi</td><td>Servizi del personale</td><td>Servizi finanziari</td><td>Collaboratori</td><td>Superiori</td></tr>
+<tr><td>Mutazione</td><td>M1)</td><td>S</td><td>M2)</td><td>M</td><td>M</td><td>S</td><td>S, M3)</td><td>S, G</td></tr>
+<tr><td>Scopo</td><td>4</td><td>4</td><td>5</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1, 3</td></tr>
+<tr><td>Portata</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td><td>D</td><td>E</td></tr>
+</table>
+
+### 1.2 Legenda della tabella
+
+### 1.2.1 Descrizione
+
+- CCRU Centro di competenza delle risorse umane
+- UFIT − CCSAP Ufficio federale dell’informatica e della telecomunicazione – soluzioni economico-aziendali (SAP)
+
+### 1.2.2 Mutazione
+
+- G Approvazione
+- M Mutazione
+- M1) Mutazione solo su mandato scritto dell’unità amministrativa
+- M2) Mutazione solo per emergenze aziendali
+- M3) Mutazione solo mediante il portale RU
+- S Visualizzazione
+
+### 1.2.3 Scopo
+
+- 1 Gestione del personale
+- 2 Controllo della gestione
+- 3 Approvazione
+- 4 Supporto della gestione
+- 5 Gestione tecnica
+
+### 1.2.4 Portata
+
+- A Intera Amministrazione federale
+- B Più settori contabili su mandato
+- C Proprio settore contabile
+- D Dati propri
+- E Dati di collaboratori subordinati
+
+### 2 Dati rilevati
+
+### 2.1 Gestione dell’organizzazione
+
+Oggetto (posto, posto in organico)
+
+Collegamento
+
+Descrizione verbale
+
+Stato maggiore
+
+Inquadramento salariale
+
+Vacante
+
+Caratteristiche della contabilizzazione
+
+Tempo di lavoro
+
+Gruppo / cerchia di collaboratori
+
+Obsoleto
+
+Ripartizione dei costi
+
+Informazioni supplementari legate al luogo
+
+Indirizzo
+
+Rivalutazione posto in organico
+
+Categoria del personale
+
+### 2.2 Amministrazione del personale
+
+Misure in materia di personale
+
+Attribuzione organizzativa
+
+Dati relativi alla persona
+
+Intestazione
+
+Orario di lavoro teorico
+
+Retribuzione di base
+
+Coordinate bancarie
+
+Elementi del contratto
+
+Osservanza dei termini
+
+Famiglia / congiunti
+
+Formazione
+
+Altri / precedenti datori di lavoro
+
+Procure
+
+Dati interni all’azienda
+
+Statistiche
+
+Funzioni aziendali
+
+Assicurazione sociale in Svizzera
+
+Dati fiscali in Svizzera
+
+Supplemento attribuzione organizzativa in Svizzera
+
+Prestiti di documenti
+
+Statuto di soggiorno, indicazione della data
+
+Affiliazioni
+
+Servizio militare / civile
+
+Comunicazione
+
+Messaggi
+
+Famiglia in Svizzera
+
+Misure complementari
+
+Occupazione accessoria
+
+Indennità di residenza / Ufficio
+
+Impostazione *Employee self services* per il giustificativo di retribuzione
+
+Spese di formazione e formazione continua in Svizzera
+
+Ruolo / professione / rifatturazione
+
+### 2.3 Contabilità del personale
+
+Stato del conteggio
+
+Versamenti esterni
+
+Retribuzioni e deduzioni ricorrenti
+
+Pagamento complementare
+
+Ripartizione dei costi
+
+Assicurazioni
+
+Prestiti / mutui
+
+Previdenza professionale in Svizzera
+
+Informazioni sulla rilevazione delle presenze
+
+Versamenti di prestiti / mutui
+
+Cassa pensioni, dati base
+
+Cassa pensioni, valori individuali
+
+Diritti all’estero
+
+Retribuzione di base, informazioni supplementari
+
+### 2.4 Rilevazione delle presenze del personale
+
+Foglio del tempo di lavoro, valori predefiniti
+
+Indennità monte ore
+
+Assenze
+
+Presenze
+
+Supplenze
+
+Disponibilità
+
+Monte ore assenze
+
+Monte ore presenze
+
+Giustificativi retribuzione
+
+Eventi
+
+Direttive trasferimento tempi
+
+Correzione monte ore
+
+Calendario annuale
+
+Calendario mensile
+
+Approvazioni
+
+### 2.5 Gestione dei costi del personale
+
+Pianificazione dei costi del personale
+
+Pianificazione dei costi
+
+Gruppi di prestazioni
+
+### 2.6 Sviluppo del personale
+
+Qualifiche
+
+Valutazioni
+
+### 2.7 Calcolo delle spese di viaggio
+
+Privilegi concernenti i viaggi
+
+Date dei viaggi
+
+Spese di viaggio
+
+Allegato 4
+
+(art. 42 cpv. 2)
+
+## Sistema d’informazione per il controllo della gestione del personale
+
+### 1 Portata dell’autorizzazione al trattamento dei dati
+
+### 1.1 Tabella
+
+<table>
+<tr><td>Descrizione</td><td>UFIT−CCRU (supporto)</td><td>Settore UFPER</td><td>UFIT−CCSAP (supporto)</td><td>Servizi del personale / Controller RU</td><td>Servizi finanziari / Controller FI</td></tr>
+<tr><td>Caricamento / visualizzazione dei dati</td><td>S</td><td>S</td><td>D/S</td><td>S</td><td>S</td></tr>
+<tr><td>Scopo</td><td>Controllo della gestione</td><td>Controllo della gestione</td><td>Controllo della gestione</td><td>Controllo della gestione</td><td>Controllo della gestione</td></tr>
+<tr><td>Portata</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td></tr>
+</table>
+
+### 1.2 Legenda della tabella
+
+### 1.2.1 Descrizione
+
+- CCRU Centro di competenza delle risorse umane
+- UFIT − CCSAP Ufficio federale dell’informatica e della telecomunicazione – soluzioni economico-aziendali (SAP)
+
+### 1.2.2 Caricamento / visualizzazione dei dati
+
+- D Caricamento dei dati
+- S Visualizzazione
+
+### 1.2.3 Scopo
+
+- Controllo della gestione
+
+### 1.2.4 Portata
+
+- A Intera Amministrazione federale
+- B Proprio settore contabile
+- C Soltanto controllo della gestione dei costi del personale nel proprio settore contabile
+
+### 2 Dati rilevati
+
+### 2.1 Gestione dell’organizzazione
+
+Oggetto (posto, posto in organico)
+
+Collegamento
+
+Descrizione verbale
+
+Stato maggiore
+
+Inquadramento salariale
+
+Vacante
+
+Caratteristiche della contabilizzazione
+
+Tempo di lavoro
+
+Gruppo / cerchia di collaboratori
+
+Obsoleto
+
+Informazioni supplementari legate al luogo
+
+Indirizzo
+
+Rivalutazione posto in organico
+
+Categoria del personale
+
+### 2.2 Amministrazione del personale
+
+Misure in materia di personale
+
+Attribuzione organizzativa
+
+Dati relativi alla persona
+
+Intestazione
+
+Orario di lavoro teorico
+
+Retribuzione di base
+
+Elementi del contratto
+
+Formazione
+
+Dati interni all’azienda
+
+Statistiche
+
+Funzioni aziendali
+
+Assicurazione sociale in Svizzera
+
+Supplemento attribuzione organizzativa in Svizzera
+
+Prestiti di documenti
+
+Indicazione della data
+
+Comunicazione
+
+Misure complementari
+
+Indennità di residenza / ufficio
+
+Ruolo / professione / compensazione
+
+### 2.3 Contabilità del personale
+
+Stato del conteggio
+
+Retribuzioni e deduzioni ricorrenti
+
+Pagamento complementare
+
+Ripartizione dei costi
+
+Previdenza professionale in Svizzera
+
+Informazioni sulla rilevazione delle presenze
+
+Versamenti di prestiti / mutui
+
+Cassa pensioni, dati di base
+
+Cassa pensioni, valori individuali
+
+Diritti all’estero
+
+Retribuzione di base, informazioni supplementari
+
+Crediti preventivati, categorie di credito
+
+### 2.4 Rilevazione delle presenze del personale
+
+Indennità monte ore
+
+Assenze
+
+Presenze
+
+Supplenze
+
+Disponibilità
+
+Monte ore assenze
+
+Monte ore presenze
+
+Eventi
+
+Correzione monte ore
+
+Accantonamenti
+
+### 2.5 Gestione dei costi del personale
+
+Pianificazione dei costi del personale
+
+Pianificazione dei costi
+
+Gruppi di prestazioni
+
+### 2.6 Sviluppo del personale
+
+Qualifiche
+
+Valutazioni
+
+### 2.7 Conteggio delle spese di viaggio
+
+Date dei viaggi
+
+Spese di viaggio
+
+Allegato 5
+
+(art. 47)
+
+## Sistema d’informazione per la piattaforma didattica della Confederazione (LMS Confederazione)
+
+### Dati personali
+
+- 1\. Numero personale\*
+- 2\. Cognome\*
+- 3\. Nome\*
+- 4\. Sesso\*
+- 5\. Data di nascita
+- 6\. Lingua per la corrispondenza\*
+- 7\. Indirizzo e-mail dell’ufficio\*
+- 8\. Unità organizzativa\*
+- 9\. Indirizzo di servizio\*
+- 10\. Funzione\*
+- 11\. Identificativi personali locali\*
+- 12\. Numero di cellulare (facoltativo e indicato dalla persona interessata)
+- 13\. Successo nell’apprendimento («test adempiuto/non adempiuto»)
+- 14\. Progressi nell’apprendimento (non iniziato / iniziato / concluso)
+- 15\. Corsi completati
+- 16\. Iscrizione a corsi / cancellazioni / partecipazione a corsi
+- 17\. Capacità e competenze acquisite a seguito dei corsi completati
+- 18\. Ruolo(i) nella piattaforma LMS (partecipante, docente, amministratore del corso)
+- \* dati ottenuti dall’archivio centralizzato delle identità
+
+Allegato 6
+
+(art. 53)
+
+## Dati dei fascicoli della Consulenza sociale del personale dell’Amministrazione federale (CSPers)
+
+### 1 Dati di base
+
+- 1\.1 Dati personali
+- 1\.2 Relazioni
+- 1\.3 Rapporto di lavoro
+- 1\.4 Rendite
+- 1\.5 Settori della consulenza
+
+### 2 Dati relativi ai casi concreti
+
+- 2\.1 Registro
+- 2\.2 Analisi della situazione
+- 2\.3 Dati di base del *case management*
+- 2\.4 Piano d’integrazione (compresa la valutazione nell’ambito del *case manag**e**ment* della CSPers)
+- 2\.5 Continuazione del pagamento dello stipendio / incapacità lavorativa
+- 2\.6 Attribuzione di fondi per l’integrazione professionale
+- 2\.7 Domanda al fondo di soccorso del personale federale
+
+Allegato 7
+
+(art. 59)
+
+## Dati dei documenti medici
+
+### 1 Dati di base
+
+- 1\.1 Dati personali (cognome, nome, data di nascita, numero AVS, professione, qualifica, funzione, superiore ecc.)
+- 1\.2 Medici, ospedali
+- 1\.3 Categorie professionali
+- 1\.4 Servizi e luoghi di servizio
+- 1\.5 Assunzione dei costi
+
+### 2 Dati relativi ai casi concreti
+
+- 2\.1 Corrispondenza (servizi, rapporti medici, collaboratori o loro rappresentanti, ad es. avvocato, sindacato ecc.)
+- 2\.2 Registrazione delle prestazioni
+- 2\.3 Fissazione dei termini
+- 2\.4 Risultati delle analisi
+- 2\.5 Diagnosi
+- 2\.6 Idoneità medica
+
+Allegato 8
+
+(art. 67)
+
+## Abrogazione e modifica di altri atti normativi
+
+I
+
+L’ordinanza del 26 ottobre 2011[^annex8-lvlu1-1] sulla protezione dei dati personali del personale federale è abrogata.
+
+II
+
+Gli atti normativi qui appresso sono modificati come segue:
+
+...[^annex8-lvlu1-2]
+
+[^annex8-lvlu1-1]: [[RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786), [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378)[2209](https://fedlex.data.admin.ch/eli/oc/2013/467)n. III, [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
+[^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793).

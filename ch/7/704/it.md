@@ -1,0 +1,217 @@
+---
+sr: "704"
+title: Legge federale del 4 ottobre 1985 sui percorsi pedonali e i sentieri (LPS)
+short: LPS
+eli: "https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506"
+language: it
+version: 1996-02-01
+adopted: 1985-10-04
+in_force: 1987-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/19960201/it/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-19960201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sui percorsi pedonali ed i sentieri
+
+(LPS)
+
+del 4 ottobre 1985 (Stato 1° febbraio 1996)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 37<sup>quater</sup> della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 26 settembre 1983[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [[RU 1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678)]
+[^ingress-2]: FF **1983** IV l
+
+## Sezione 1: Scopo e definizioni
+
+#### Art. 1
+
+**Scopo**
+
+Scopo della presente legge è la pianificazione, la sistemazione e il mantenimento di reti comunicanti di percorsi pedonali e sentieri.
+
+#### Art. 2
+
+**Reti di percorsi pedonali**
+
+<sup>1</sup> Le reti di percorsi pedonali sono generalmente situate all’interno delle località.
+
+<sup>2</sup> Queste reti comprendono percorsi pedonali, zone pedonali, vie residenziali e simili, tra loro opportunamente collegati. Marciapiedi e strisce pedonali possono servire da raccordo.
+
+<sup>3</sup> I percorsi pedonali allacciano e collegano in particolare i quartieri residenziali, i luoghi di lavoro, le scuole materne e le scuole, le fermate dei trasporti pubblici, gli edifici pubblici, i luoghi di ricreazione e d’acquisto.
+
+#### Art. 3
+
+**Reti di sentieri**
+
+<sup>1</sup> Le reti di sentieri, destinate soprattutto allo svago, sono generalmente situate all’esterno delle località.
+
+<sup>2</sup> Queste reti comprendono sentieri e passeggiate tra loro opportunamente collegati. Altri tracciati, segnatamente tratti di percorsi pedonali e strade poco frequentate, possono servire da raccordo. Per quanto possibile si includeranno tratti di percorsi storici.
+
+<sup>3</sup> I sentieri permettono di raggiungere in particolare le zone di distensione e svago, i siti panoramici (belvedere, rive, ecc.), i monumenti, le fermate dei trasporti pubblici come pure le installazioni turistiche.
+
+## Sezione 2: Pianificazione, sistemazione e preservazione
+
+#### Art. 4
+
+**Allestimento di piani**
+
+<sup>1</sup>
+
+I Cantoni:
+
+- a. allestiscono piani per le reti di percorsi pedonali e sentieri esistenti o previsti;
+- b. rivedono periodicamente i piani ed all’occorrenza li modificano.
+
+<sup>2</sup> Essi determinano gli effetti giuridici dei piani e ne disciplinano la procedura d’allestimento e di modificazione.
+
+<sup>3</sup> Le persone, le organizzazioni e i servizi federali interessati partecipano alla procedura.
+
+#### Art. 5
+
+**Coordinamento**
+
+I Cantoni coordinano le loro reti di percorsi pedonali e sentieri con quelle dei Cantoni limitrofi, come pure con le attività d’incidenza territoriale dei Cantoni e della Confederazione.
+
+#### Art. 6
+
+**Sistemazione e preservazione**
+
+<sup>1</sup>
+
+I Cantoni:
+
+- a. provvedono alla sistemazione, alla manutenzione ed alla segnalazione di percorsi pedonali e sentieri;
+- b. assicurano su questi percorsi e sentieri la libera circolazione, possibilmente senza pericoli;
+- c. provvedono affinché ne sia assicurato giuridicamente il pubblico accesso.
+
+<sup>2</sup> Nell’adempimento degli altri compiti loro assegnati, tengono conto di percorsi pedonali e sentieri.
+
+#### Art. 7
+
+**Sostituzione**
+
+<sup>1</sup> I percorsi pedonali e sentieri indicati nei piani possono essere soppressi, integralmente o parzialmente, soltanto se adeguatamente sostituiti con percorsi o sentieri esistenti o nuovi, tenendo conto delle condizioni locali.
+
+<sup>2</sup>
+
+Percorsi pedonali e sentieri vengono sostituiti in particolare se:
+
+- a. non sono più liberamente accessibili;
+- b. sono stati danneggiati da scavi, ricoperti o altrimenti interrotti;
+- c. su lunghi tratti vi è un’intensa circolazione o vengono aperti alla circolazione dei veicoli; o
+- d. lunghi tratti sono rivestiti con materiale inadeguato ai pedoni.
+
+<sup>3</sup> I Cantoni disciplinano, per il loro territorio, la procedura di soppressione e determinano gli obbligati alla sostituzione.
+
+#### Art. 8
+
+**Collaborazione di organizzazioni private specializzate**
+
+<sup>1</sup> Per la pianificazione, la sistemazione e la preservazione delle reti di percorsi pedonali e sentieri, Confederazione e Cantoni si rivolgono ad organizzazioni private che promuovono soprattutto percorsi pedonali e sentieri (organizzazioni private specializzate).
+
+<sup>2</sup> Essi possono delegare a queste organizzazioni determinati compiti.
+
+#### Art. 9
+
+**Considerazione di altri interessi**
+
+Confederazione e Cantoni tengono conto anche degli interessi dell’agricoltura, dell’economia forestale, della protezione della natura e del paesaggio, nonché della difesa nazionale.
+
+## Sezione 3: Compiti speciali della Confederazione
+
+#### Art. 10
+
+**Nell’ambito delle proprie competenze**
+
+<sup>1</sup>
+
+Nell’adempimento dei loro compiti, i servizi federali tengono conto delle reti di percorsi pedonali e sentieri indicate nei piani, giusta l’articolo 4, o le sostituiscono adeguatamente. A tal fine:
+
+- a. progettano e costruiscono di conseguenza le proprie opere ed installazioni;
+- b. vincolano il rilascio di concessioni e di permessi a condizioni ed oneri, oppure lo negano;
+- c. vincolano la concessione di sussidi a condizioni, oppure la negano.
+
+<sup>2</sup> Le spese dovute alla necessità di rispettare o di sostituire percorsi pedonali e sentieri o loro tratti sono addebitate al credito d’opera in questione oppure sussidiate nella medesima percentuale delle altre spese relative a tale opera.
+
+#### Art. 11
+
+**Consulenza ai Cantoni**
+
+Per la pianificazione, la sistemazione, la preservazione e la sostituzione di reti di percorsi pedonali e sentieri la Confederazione può assistere i Cantoni fornendo loro consulenza tecnica e documentazione.
+
+#### Art. 12
+
+**Aiuto alle organizzazioni private specializzate**
+
+La Confederazione può sussidiare le attività, giusta l’articolo 8, di organizzazioni private specializzate d’importanza nazionale.
+
+## Sezione 4: Organizzazione e protezione giuridica
+
+#### Art. 13
+
+**Servizi tecnici**
+
+I Cantoni designano i propri servizi tecnici preposti ai percorsi pedonali ed ai sentieri.
+
+#### Art. 14
+
+**Legittimazione a ricorrere**
+
+<sup>1</sup>
+
+Nelle procedure federali e cantonali, indipendentemente da altre disposizioni in materia, sono pure legittimati a ricorrere:
+
+- a. i Comuni, se la decisione interessa il loro territorio;
+- b. le organizzazioni specializzate d’importanza nazionale[^14-1], riconosciute dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni[^14-2].
+
+<sup>2</sup> Contro le decisioni dell’autorità federale hanno facoltà di ricorso anche i Cantoni.
+
+<sup>3</sup> Qualora la procedura comporti un diritto di ricorso ai sensi del capoverso 1, l’autorità comunica la propria decisione ai Comuni e alle organizzazioni specializzate tramite notifica scritta o pubblicazione nel Foglio federale o nell’organo ufficiale del Cantone. I Comuni e le organizzazioni che non hanno interposto ricorso possono intervenire nell’ulteriore fase procedurale soltanto se la decisione è modificata a favore di un’altra parte ed esse ne risultano lese.[^14-3]
+
+<sup>4</sup> Se il diritto federale o cantonale prevede l’attuazione di una procedura d’opposizione prima dell’emanazione della decisione, Comuni e organizzazioni sono legittimati al ricorso soltanto se hanno partecipato a questa procedura d’opposizione in qualità di parti. In tal caso la domanda va pubblicata secondo quanto disposto dal capoverso 3.[^14-4]
+
+<sup>5</sup> Il capoverso 3 non è applicabile se sul progetto si decide nell’ambito della procedura prevista dalla legge federale del 20 giugno 1930[^14-5] sull’espropriazione.[^14-6]
+
+[^14-1]: Vedi l’art. 1 dell’O del DATEC del 16 apr. 1993 ([RS 704.5](https://fedlex.data.admin.ch/eli/cc/1993/1702_1702_1702)).
+[^14-2]: La designazione dell’unità amministrativa è stata adattata dall’art. 4*a* dell’O del 15 giu. 1998 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^14-3]: Introdotto dal n. II 2 della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214)224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^14-4]: Introdotto dal n. II 2 della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214)224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+[^14-5]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^14-6]: Introdotto dal n. II 2 della LF del 24 mar. 1995, in vigore dal 1° feb. 1996 ([RU 1996 214](https://fedlex.data.admin.ch/eli/oc/1996/214_214_214)224; [FF 1991 III 897](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)).
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 15
+
+**Termine per l’allestimento dei piani**
+
+<sup>1</sup> I Cantoni provvedono affinché i piani, giusta l’articolo 4 capoverso 1, siano allestiti entro tre anni dall’entrata in vigore della presente legge.
+
+<sup>2</sup> Il Consiglio federale può differire questa scadenza in via eccezionale per singole regioni.
+
+#### Art. 16
+
+**Disposizioni transitorie**
+
+<sup>1</sup> I governi cantonali designano le reti di percorsi pedonali e sentieri alle quali la presente legge è applicabile fino all’entrata in vigore dei piani, giusta l’articolo 4 capoverso 1. La designazione è vincolante per tutte le autorità federali e cantonali.
+
+<sup>2</sup> I governi cantonali possono prendere altre disposizioni provvisorie fintantoché il diritto cantonale non designi le autorità competenti.
+
+#### Art. 17
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: il 1° gennaio 1987[^17-1]
+
+[^17-1]: DCF del 26 nov. 1986 (RU **1986** 2510).

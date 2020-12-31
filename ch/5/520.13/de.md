@@ -1,0 +1,83 @@
+---
+sr: "520.13"
+title: Verordnung vom 21. August 2013 über die Koordination des Wetterdienstes
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/603"
+language: de
+version: 2013-10-01
+adopted: 2013-08-21
+in_force: 2013-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/603/20131001/de/xml/fedlex-data-admin-ch-eli-cc-2013-603-20131001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/603/20131001/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Koordination des Wetterdienstes
+
+vom 21. August 2013 (Stand am 1. Oktober 2013)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 2 Absatz 1 und Artikel 7 des Bundesgesetzes vom 18. Juni 1999[^ingress-1] über die Meteorologie und Klimatologie, auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2] und auf Artikel 75 Absatz 1 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^ingress-3],
+
+verordnet:
+
+[^ingress-1]: [SR 429.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6936)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+
+#### Art. 1
+
+**Zusammenarbeit**
+
+Die zivilen und militärischen Stellen des Bundes, die mit der Beschaffung, Auswertung und Verbreitung von Wetterdaten und -informationen beauftragt sind, arbeiten zusammen.
+
+#### Art. 2
+
+**Koordination**
+
+<sup>1</sup> Das Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) sorgt in Zusammenarbeit mit dem Bundesamt für Bevölkerungsschutz (BABS) und der Armee für die Koordination der Versorgung der Schweiz mit Wetterinformationen in besonderen und ausserordentlichen Lagen.
+
+<sup>2</sup> MeteoSchweiz koordiniert die Beschaffung von Erfassungs-, Übertragungs- und Auswertesystemen für den Wetterdienst im Einvernehmen mit dem koordinierten Wetterdienst der Gruppe Verteidigung des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) und dem BABS.
+
+#### Art. 3
+
+**Ausschuss «Koordinierter Bereich Wetter»**
+
+<sup>1</sup> Der Ausschuss *«*Koordinierter Bereich Wetter*»* (ASKBW) trifft die notwendigen vorsorglichen Massnahmen, um die Versorgung der Schweiz mit Wetterinformationen in besonderen und ausserordentlichen Lagen sicherzustellen.
+
+<sup>2</sup>
+
+Der ASKBW besteht aus:
+
+- a. der Direktorin oder dem Direktor von MeteoSchweiz;
+- b. einer Vertreterin oder einem Vertreter des BABS;
+- c. einer Vertreterin oder einem Vertreter des koordinierten Wetterdienstes der Gruppe Verteidigung des VBS.
+
+<sup>3</sup> Das Geschäftsreglement kann vorsehen, dass weitere Vertreterinnen oder Vertreter der Stellen nach Absatz 2 im ASKBW Einsitz nehmen können.
+
+<sup>4</sup> Die Direktorin oder der Direktor von MeteoSchweiz hat den Vorsitz.
+
+<sup>5</sup> Dem ASKBW steht eine Geschäftsstelle für administrative Aufgaben zur Verfügung. Die Geschäftsstelle wird durch MeteoSchweiz gestellt.
+
+#### Art. 4
+
+**Fachtechnische Ausbildung und Unterstützung der Formationen des militärischen Wetterdienstes**
+
+<sup>1</sup> MeteoSchweiz berät und unterstützt die Armee bei der fachtechnischen Ausbildung der Formationen des militärischen Wetterdienstes.
+
+<sup>2</sup> Soweit es die militärischen Bedürfnisse verlangen und die dienstlichen Verhältnisse zulassen, stellt MeteoSchweiz der Armee in normalen Lagen die notwendigen Fachleute und Einrichtungen sowie das notwendige Fachwissen zur Verfügung und erstellt bei Bedarf Expertisen.
+
+#### Art. 5
+
+**Aufhebung bisherigen Rechts**
+
+Die Verordnung vom 26. Februar 1975[^5-1] über die Koordination des Wetterdienstes und des Lawinendienstes im Rahmen der Gesamtverteidigung wird aufgehoben.
+
+[^5-1]: [[AS 1975 437](https://fedlex.data.admin.ch/eli/oc/1975/437_436_436)]
+
+#### Art. 6
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Oktober 2013 in Kraft.

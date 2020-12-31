@@ -1,0 +1,75 @@
+---
+sr: "0.742.140.345.42"
+title: "Accord du 23 juillet 1955 entre la Confédération suisse et la République italienne concernant le financement de travaux en vue du développement et de l'électrification de certaines lignes des «Ferrovie italiane dello Stato» accédant à la Suisse"
+eli: "https://fedlex.data.admin.ch/eli/cc/1957/195_199_209"
+language: fr
+version: 1957-03-05
+adopted: 1955-07-23
+in_force: 1957-03-05
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/195_199_209/19570305/fr/xml/fedlex-data-admin-ch-eli-cc-1957-195_199_209-19570305-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/195_199_209/19570305/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre la Confédération suisse et la République italienne concernant le financement de travaux en vue du développement et de l’électrification de certaines lignes des «Ferrovie italiane dello Stato» accédant à la Suisse
+
+RO **1957** 199; FF **1955** II 479
+
+Texte original
+
+Conclu le 23 juillet 1955 Approuvé par l’Assemblée fédérale le 30 septembre 1955[^t-1] Instruments de ratification échangés le 1<sup>er</sup> mars 1957 Entré en vigueur le 1<sup>er</sup> mars 1957
+
+[^t-1]: [RO 1957 197](https://fedlex.data.admin.ch/eli/oc/1957/193_197_207)
+
+La Confédération suisse, d’une part, et la République italienne, d’autre part,
+
+tenant compte de l’intérêt que le développement et l’électrification de certaines lignes de chemin de fer d’Italie accédant à la Suisse présentent pour les relations ferroviaires italo–suisses et le trafic de transit, se sont consultées dans le cadre des rapports de collaboration et d’amitié qui ont toujours heureusement caractérisé les relations entre les deux pays et sont convenues des dispositions suivantes:
+
+#### Art. 1
+
+Le gouvernement italien s’engage à mettre les chemins de fer italiens en mesure de réaliser, dans un délai de 4–6 ans dès l’entrée en vigueur du présent accord et dans l’ordre adopté ci‑dessous ou simultanément, les projets de travaux mentionnés dans la convention passée le 23 juillet 1955[^1-1] entre les Chemins de fer fédéraux suisses (CFF) et les *Ferrovie italiane dello Stato* (FS), concernant le financement de travaux en vue du développement et de l’électrification de certaines lignes de chemins de fer de l’Italie accédant à la Suisse.
+
+En outre, le Gouvernement italien s’engage à mettre en mesure les FS, en ce qui a trait à l’électrification des lignes mentionnées sous ch. 4 et 5, à adapter leurs installations aux exigences de lignes de trains de marchandises bien équipées.
+
+Ces projets concernent:
+
+- 1\. Construction de la double voie entre Gallarate et Arona, y compris l’électrification de la deuxième voie;
+- 2\. Achèvement des travaux d’agrandissement à la gare de Domodossola dans le cadre de la convention existante à ce sujet;
+- 3\. Electrification de la ligne Pino (fr.) – Luino (courant alternatif monophasé à 15 kV, 16 2/3 périodes), sur la base d’un contrat particulier à conclure entre les deux administrations;
+- 4\. Electrification de la ligne Alessandria – Novara – Oleggio – Arona;
+- 5\. Electrification des lignes Oleggio – Sesto Calende – Luino et Laveno – Gallarate, y compris l’extension de la gare de Luino;
+- 6\. Agrandissement des centrales hydro–électriques destinées à alimenter les lignes à électrifier susmentionnées et achat de locomotives destinées à l’exploitation de ces lignes.
+
+[^1-1]: [[RO 1957 202](https://fedlex.data.admin.ch/eli/oc/1957/198_202_212)]
+
+#### Art. 2
+
+Le Gouvernement suisse s’engage à autoriser le financement des travaux de développement et d’électrification mentionnés à l’article premier par un prêt des CFF aux FS de 200 millions de francs suisses.
+
+#### Art. 3
+
+Les conditions de financement prévues à l’article précédent sont fixées par une convention, passée entre les CFF et les FS.
+
+#### Art. 4
+
+Le transfert du prêt sera effectué par le service réglementé des paiements, soit par l’intermédiaire de l’Accord de paiement italo‑suisse en vigueur. Le service des amortissements et des intérêts sera effectué en dehors de tout service réglementé des paiements, soit en francs suisses libres.
+
+#### Art. 5
+
+L’Etat italien se porte garant du remboursement du capital et du service des intérêts du prêt mentionné ci‑dessus.
+
+#### Art. 6
+
+Les deux gouvernements s’engagent à prendre toutes mesures propres à développer le trafic ferroviaire entre les deux pays et le trafic de transit par Chiasso, Domodossola et Luino. Ces points frontières ne seront soumis en aucun cas à un régime moins favorable que celui appliqué aux autres points frontières par chacun des deux pays. Les deux gouvernements s’abstiendront de toute mesure discriminatoire, notamment en ce qui concerne les formalités de contrôle. Ils s’engagent en outre à prendre dans leur trafic réciproque toutes les mesures adéquates pour que les opérations de douane, de police de frontière et d’administration puissent s’effectuer dans les plus brefs délais et dans les meilleures conditions.
+
+#### Art. 7
+
+Le présent Accord entrera en vigueur dès l’échange des instruments de ratification.
+
+Fait à Rome, en deux exemplaires, le 23 juillet 1955.
+
+<table>
+<tr><td>Pour la Confédération suisse:</td><td>Pour la République italienne:</td></tr>
+<tr><td>M. lklé</td><td>A. Cattani</td></tr>
+</table>

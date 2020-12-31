@@ -1,0 +1,301 @@
+---
+sr: "0.748.127.196.41"
+title: Accord du 24 janvier 2000 le Conseil fédéral suisse et le Gouvernement de la République du Pérou relatif au trafic aérien de lignes (avec annexe)
+eli: "https://fedlex.data.admin.ch/eli/cc/2003/391"
+language: fr
+version: 2001-03-23
+adopted: 2000-01-24
+in_force: 2001-03-23
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/391/20010323/fr/xml/fedlex-data-admin-ch-eli-cc-2003-391-20010323-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/391/20010323/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre le Conseil fédéral suisse et le Gouvernement de la République du Pérou relatif au trafic aérien de lignes
+
+RO **2003** 2555
+
+Traduction*[^t-1]*
+
+Conclu le 24 janvier 2000
+
+Entré en vigueur par échange de notes le 23 mars 2001
+
+(Etat le 12 août 2003)
+
+[^t-1]: Le texte original allemand est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
+
+Le Conseil fédéral suisse et le Gouvernement de la République du Pérou
+
+(ci-après «les Parties contractantes»);
+
+désireux de promouvoir un système de transport aérien international basé sur la concurrence entre les compagnies d’aviation sur un marché soumis à un minimum d’interventions et de réglementations étatiques;
+
+désireux de faciliter le développement du transport aérien international;
+
+désireux de permettre aux entreprises d’offrir au public (passagers et expéditeurs de fret) un éventail de prestations aux tarifs les plus bas, qui ne soient pas discriminatoires et ne découlent pas de l’utilisation abusive d’une position dominante, et soucieux d’encourager chaque entreprise à établir et à introduire des prix innovatifs et concurrentiels;
+
+désireux de garantir le plus haut niveau de sûreté et de sécurité dans le transport aérien international, et réaffirmant leur profonde préoccupation au sujet des actes ou des menaces dirigés contre la sûreté des aéronefs et qui mettent en danger la sécurité des personnes ou des biens, affectent les opérations du transport aérien et minent la confiance du public dans la sûreté de l’aviation civile; et
+
+en tant que parties à la Convention relative à l’aviation civile internationale[^ingress-1], ouverte à la signature à Chicago le 7 décembre 1944,
+
+sont convenus de ce qui suit:
+
+[^ingress-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+
+#### Art. 1
+
+**Définitions**
+
+\2) L’Annexe du présent Accord fait partie intégrante de celui-ci. Toute référence à l’Accord concerne également l’Annexe, à moins qu’une disposition contraire ne le prévoie expressément.
+
+\1) Pour l’application du présent Accord et de son Annexe:
+
+- a) l’expression «Accord» signifie le présent Accord, y compris les annexes et les modifications apportées;
+- b) l’expression «Convention de Chicago» signifie la Convention relative à l’aviation civile internationale, ouverte à la signature à Chicago le 7 décembre 1944, et inclut toute annexe adoptée conformément à l’art. 90 de cette Convention et tout amendement aux annexes ou à la Convention, conformément aux art. 90 et 94, pour autant que ces annexes et amendements soient applicables pour les deux Parties contractantes;
+- c) l’expression «Autorités aéronautiques» signifie, en ce qui concerne la Suisse, l’Office fédéral de l’aviation civile et, en ce qui concerne la République du Pérou, le Ministre des transports, de la communication, du logement et de la construction, représenté par la Direction générale de l’aviation ou, dans les deux cas, toute personne ou tout organisme autorisé à exercer les fonctions qui sont actuellement attribuées aux dites autorités;
+- d) l’expression «Entreprise désignée» signifie une entreprise de transport aérien que l’une des Parties contractantes a désignée, conformément à l’art. 6 du présent Accord, pour exploiter les services aériens convenus;
+- e) l’expression «Territoire» signifie les terres et les eaux territoriales adjacentes, placées sous la souveraineté, la juridiction, la protection ou l’administration d’une Partie, conformément à sa constitution et/ou à ses lois;
+- f) les expressions «Services aériens», «Services aériens internationaux», «Entreprise de transport aérien» et «Escales non commerciales» ont le sens qui leur est donné à l’art. 96 de la Convention;
+- g) l’expression «Tarif» signifie les prix qui doivent être payés pour le transport des passagers, des bagages et des marchandises, et les conditions dans lesquelles ils s’appliquent, y compris les commissions et autres rémunérations supplémentaires pour l’émission ou la vente de titres de transport, excepté les rémunérations et conditions relatives au transport des envois postaux.
+
+#### Art. 2
+
+**Octroi de droits**
+
+\1) Chaque Partie contractante accorde à l’autre Partie les droits spécifiés au présent Accord en vue d’exploiter des services aériens internationaux de lignes sur les routes spécifiées aux tableaux figurant à l’Annexe. Ces services et ces routes sont dénommés ci-après «services convenus» et «routes spécifiées»
+
+\3) Aucune disposition du présent article ne conférera à l’entreprise désignée d’une Partie contractante le droit d’embarquer contre rémunération, sur le territoire de l’autre Partie contractante, des passagers, des bagages, des marchandises et des envois postaux destinés à un autre point du territoire de cette autre Partie contractante.
+
+\4) Si par suite d’un conflit armé, de troubles ou de développements politiques, voire de circonstances spéciales et inhabituelles, l’entreprise désignée d’une Partie contractante n’est pas à même d’exploiter un service sur ses routes normales, l’autre Partie contractante s’efforcera de faciliter la poursuite de l’exploitation de ce service en rétablissant ces routes de façon appropriée, notamment en accordant pour cette période les droits nécessaires pour faciliter une exploitation viable.
+
+\2) Sous réserve des dispositions du présent Accord, l’entreprise désignée de chaque Partie contractante jouira, dans l’exploitation de services aériens internationaux de lignes:
+
+- a) du droit de survoler, sans y atterrir, le territoire de l’autre Partie contractante;
+- b) du droit de faire des escales non commerciales sur ledit territoire;
+- c) du droit d’embarquer et de débarquer sur ledit territoire, aux points spécifiés à l’Annexe du présent Accord, des passagers, des bagages, des marchandises et des envois postaux à destination ou en provenance de points sur le territoire de l’autre Partie contractante;
+- d) du droit d’embarquer et de débarquer sur le territoire de pays tiers, aux points spécifiés à l’Annexe du présent Accord, des passagers, des bagages, des marchandises et des envois postaux à destination ou en provenance des points spécifiés à l’Annexe du présent Accord et situés sur le territoire de l’autre Partie contractante.
+
+#### Art. 3
+
+**Exercice des droits**
+
+\1) Chaque Partie contractante accordera aux entreprises désignées des possibilités égales et équitables pour exploiter en concurrence les services aériens internationaux auxquels se rapporte le présent Accord.
+
+\2) Chaque Partie contractante autorisera les entreprises désignées à fixer les fréquences et les capacités des services aériens internationaux qu’elles offrent sur la base de considérations commerciales et axées sur le marché. En conséquence de ce droit, aucune Partie contractante ne peut restreindre unilatéralement le volume du trafic, la fréquence ou la régularité des services ou le ou les types d’avions utilisés par les entreprises désignées de cette autre Partie contractante; cela ne s’applique pas aux restrictions motivées par des raisons de douane ou par des impératifs techniques, opérationnels ou écologiques, soumises à des conditions semblables et conformément à l’art. 15 de la Convention.
+
+#### Art. 4
+
+**Application des lois et règlements**
+
+\1) Les lois et règlements d’une Partie contractante régissant sur son territoire l’entrée et la sortie des aéronefs affectés à la navigation aérienne internationale ou les vols de ces aéronefs au-dessus dudit territoire s’appliqueront à l’entreprise désignée de l’autre Partie contractante.
+
+\2) Les lois et règlements d’une Partie contractante régissant sur son territoire l’entrée, le séjour et la sortie des passagers, équipages, bagages, marchandises ou envois postaux – tels que ceux qui concernent les formalités d’entrée, de sortie, d’émigration et d’immigration, la douane et les mesures sanitaires – s’appliqueront aux passagers, équipages, bagages, marchandises ou envois postaux transportés par les aéronefs de l’entreprise désignée de l’autre Partie contractante pendant que ceux-là se trouvent sur ledit territoire.
+
+\3) Aucune Partie contractante n’aura le droit d’accorder de préférence à sa propre entreprise par rapport à l’entreprise désignée de l’autre Partie contractante dans l’application des lois et règlements mentionnés au présent article.
+
+#### Art. 5
+
+**Sûreté de l’aviation**
+
+\1) Conformément à leurs droits et obligations en vertu du droit international, les Parties contractantes réaffirment que leur obligation mutuelle de protéger l’aviation civile contre les actes d’intervention illicite, pour en assurer la sûreté, fait partie intégrante du présent Accord. Sans limiter la portée de leurs droits et obligations en vertu du droit international, les Parties contractantes agissent en particulier conformément aux dispositions de la Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs[^5-1], signée à Tokyo le 14 septembre 1963, de la Convention pour la répression de la capture illicite d’aéronefs[^5-2], signée à La Haye le 16 décembre 1970, ainsi que de la Convention pour la répression d’actes illicites dirigés contre la sécurité de l’aviation civile[^5-3], signée à Montréal le 23 septembre 1971, du Protocole additionnel pour la répression des actes illicites de violence dans les aéroports servant à l’aviation civile internationale[^5-4], signé à Montréal le 24 février 1988 et de toute autre convention ou protocole relatif à la sûreté de l’aviation civile auquel les Parties contractantes adhéreront.
+
+\2) Les Parties contractantes s’accordent mutuellement, sur demande, toute l’assistance nécessaire pour prévenir les actes de capture illicite d’aéronefs civils et autres actes illicites dirigés contre la sécurité de ces aéronefs, de leurs passagers et de leurs équipages, des aéroports et des installations et services de navigation aérienne, ainsi que toute autre menace pour la sûreté de l’aviation civile.
+
+\3) Les Parties contractantes, dans leurs rapports mutuels, se conforment aux dispositions relatives à la sûreté de l’aviation qui ont été établies par l’Organisation de l’aviation civile internationale et qui sont désignées comme Annexes à la Convention, dans la mesure où ces dispositions s’appliquent aux Parties contractantes; elles exigent des exploitants d’aéronefs immatriculés par elles, ou des exploitants d’aéronefs qui ont le siège principal de leur exploitation ou leur résidence permanente sur leur territoire, et des exploitants d’aéroports situés sur leur territoire, qu’ils se conforment à ces dispositions relatives à la sûreté de l’aviation.
+
+\4) Chaque Partie contractante convient que ces exploitants d’aéronefs sont invités à observer les dispositions relatives à la sûreté de l’aviation dont il est question au ch. 3 du présent article et que l’autre Partie contractante prescrit pour l’entrée sur le territoire, la sortie du territoire ou le séjour sur le territoire de cette autre Partie contractante. Chaque Partie contractante veille à ce que des mesures adéquates soient appliquées effectivement sur son territoire pour protéger les aéronefs et pour assurer l’inspection des passagers, des équipages, des bagages à main, des bagages, du fret et des provisions de bord, avant et pendant l’embarquement ou le chargement. Chaque Partie contractante examine aussi favorablement toute demande que lui adresse l’autre Partie contractante en vue d’obtenir que des mesures spéciales de sûreté raisonnables soient prises pour faire face à une menace particulière.
+
+\5) En cas d’incident ou de menace d’incident de capture illicite d’aéronefs civils ou d’autres actes illicites dirigés contre la sécurité de ces aéronefs, de leurs passagers et équipages, des aéroports ou des installations et services de navigation aérienne, les Parties contractantes s’entraident en facilitant les communications et en prenant toutes les mesures appropriées pour mettre fin avec rapidité et sécurité à cet incident ou à cette menace d’incident.
+
+[^5-1]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
+[^5-2]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
+[^5-3]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
+[^5-4]: [RS 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
+
+#### Art. 6
+
+**Désignation et autorisation d’exploitation**
+
+\1) Chaque Partie contractante aura le droit de désigner autant entreprises de transport aérien qu’elle souhaite pour exploiter les services convenus. Cette désignation fera l’objet d’une notification écrite transmise par voie diplomatique à l’autre Partie contractante.
+
+\2) Sous réserve des dispositions des ch. 3 et 4 du présent article, les autorités aéronautiques qui ont reçu la notification de désignation accorderont sans retard à l’entreprise désignée par l’autre Partie contractante l’autorisation d’exploitation nécessaire.
+
+\3) Les autorités aéronautiques d’une Partie contractante pourront exiger que l’entreprise désignée par l’autre Partie contractante prouve qu’elle est à même de satisfaire aux conditions prescrites par les lois et règlements normalement appliqués par lesdites autorités, qui régissent l’exploitation des services aériens internationaux, conformément aux dispositions de la Convention.
+
+\4) Chaque Partie contractante aura le droit de refuser d’accorder l’autorisation d’exploitation prévue au ch. 2 du présent article ou d’imposer telles conditions qui lui semblent nécessaires pour l’exercice des droits spécifiés à l’art. 2 du présent Accord, lorsque ladite Partie contractante ne possède pas la preuve que le siège principal de l’entreprise se trouve sur le territoire de la Partie contractante qui désigne l’entreprise et que celle-ci est en possession d’une licence de transporteur aérien.
+
+#### Art. 7
+
+**Révocation de l’autorisation d’exploitation**
+
+\2) Un tel droit ne pourra être exercé qu’après consultation avec l’autre Partie contractante, à moins que la révocation, la suspension ou l’imposition des conditions prévues au ch. 1 du présent article ne soient immédiatement nécessaires pour éviter de nouvelles infractions aux lois et règlements.
+
+\1) Chaque Partie contractante aura le droit de révoquer, de suspendre ou de limiter une autorisation d’exploitation pour l’exercice des droits spécifiés à l’art. 2 du présent Accord, par l’entreprise désignée de l’autre Partie contractante, ou de soumettre l’exercice de ces droits aux conditions qu’elle jugera nécessaires, si:
+
+- a) cette entreprise ne peut pas prouver que son siège principal se trouve sur le territoire de la Partie contractante l’ayant désignée ou que l’entreprise dispose d’une licence de transporteur aérien accordée par ladite Partie contractante, ou si
+- b) cette entreprise n’a pas observé ou a gravement enfreint les lois et règlements de la Partie contractante qui a accordé ces droits, ou si
+- c) cette entreprise n’exploite pas les services convenus dans les conditions prescrites par le présent Accord.
+
+#### Art. 8
+
+**Sécurité**
+
+\1) Chaque Partie contractante reconnaîtra la validité, pour l’exploitation du trafic aérien prévue dans le présent Accord, des certificats de capacité et autres émis ou reconnus par l’autre Partie contractante et encore valables lorsque les exigences auxquelles répondent ces certificats correspondent au moins aux exigences minimales en vigueur conformément à la Convention. Chaque Partie contractante peut toutefois refuser de reconnaître, pour les vols au-dessus de son territoire, la validité des certificats de capacité et autres délivrés à ses propres ressortissants ou reconnus valables par l’autre Partie contractante.
+
+\2) Chaque Partie contractante peut demander des consultations sur les normes de sécurité appliquées par l’autre Partie contractante aux installations aéroportuaires, aux membres d’équipage, aux aéronefs et aux opérations de l’entreprise désignée. Si à la suite de telles consultations une des Parties découvre que l’autre n’adopte ni n’assure effectivement le suivi de normes de sécurité et d’exigences dans ces domaines qui soient au moins égales aux normes minimales en vigueur conformément à la Convention, elle avisera l’autre Partie contractante de ses conclusions et des démarches estimées nécessaires pour se conformer à ces normes minimales, et l’autre Partie contractante prendra les mesures correctives qui s’imposent. Au cas où l’autre Partie contractante manque à s’exécuter dans un délai approprié, les dispositions relatives à la révocation ou à la suspension de l’autorisation d’exploitation seront applicables.
+
+#### Art. 9
+
+**Exonération des droits et taxes**
+
+\1) Les aéronefs employés en service international par l’entreprise désignée d’une Partie contractante, ainsi que leurs équipements normaux, leurs réserves de carburants et lubrifiants et leurs provisions de bord, y compris les denrées alimentaires, les boissons et les tabacs, seront exonérés, à l’entrée dans le territoire de l’autre Partie contractante, de tout droit et de toute taxe, à condition que ces équipements, réserves et provisions demeurent à bord des aéronefs jusqu’à leur réexportation.
+
+\3) Les équipements normaux de bord, ainsi que les produits et approvisionnements se trouvant à bord des aéronefs employés par l’entreprise désignée d’une Partie contractante ne pourront être déchargés sur le territoire de l’autre Partie contractante qu’avec le consentement des autorités douanières de ce territoire. En ce cas, ils pourront être placés sous la surveillance desdites autorités jusqu’à ce qu’ils soient réexportés ou aient reçu une autre destination conformément aux règlements douaniers.
+
+\4) Les exemptions prévues au présent article seront également applicables lorsque l’entreprise désignée d’une Partie contractante aura conclu des arrangements avec une ou plusieurs entreprises sur la location ou le transfert, dans le territoire de l’autre Partie contractante, des articles spécifiés aux ch. 1 et 2 du présent article, à condition que ladite ou lesdites entreprises bénéficient pareillement de telles exemptions de cette autre Partie contractante.
+
+\2) Seront également exonérés de ces mêmes droits et taxes, à l’exception des redevances perçues en raison de services rendus:
+
+- a) les provisions de bord embarquées sur le territoire d’une Partie contractante dans les limites fixées par les autorités de ladite Partie contractante et destinées à la consommation à bord des aéronefs employés en service international par l’entreprise désignée de l’autre Partie contractante;
+- b) les pièces de rechange et les équipements normaux de bord importés sur le territoire d’une Partie contractante pour l’entretien ou la réparation des aéronefs employés en service international, ainsi que le matériel publicitaire;
+- c) les carburants et lubrifiants destinés au ravitaillement des aéronefs employés en service international par l’entreprise désignée d’une Partie contractante, même lorsque ces approvisionnements doivent être utilisés sur la partie du trajet effectuée au-dessus du territoire de la Partie contractante sur lequel ils ont été embarqués;
+- d) les documents qui sont nécessaires à l’entreprise désignée par une Partie contractante, y compris les billets de passage, les lettres de transport aérien et le matériel de publicité, ainsi que tout véhicule, matériel et équipement qui sera utilisé par l’entreprise désignée pour des besoins commerciaux et opérationnels à l’intérieur de l’aéroport, à la condition que ce matériel et équipement servent au transport des passagers et du fret.
+
+#### Art. 10
+
+**Taxes d’utilisation**
+
+\1) Chaque Partie contractante s’efforcera de veiller à ce que les taxes d’utilisation qui sont imposées ou qui peuvent être imposées par ses autorités compétentes à l’entreprise désignée de l’autre Partie contractante soient équitables et raisonnables. Ces taxes seront fondées sur des principes reconnus de saine économie.
+
+\2) Les taxes payées pour l’utilisation des aéroports et des installations et services de navigation aérienne offerts par une Partie contractante à l’entreprise désignée de l’autre Partie contractante ne seront pas supérieures à celles qui doivent être payées par les aéronefs nationaux affectés à des services internationaux réguliers.
+
+#### Art. 11
+
+**Activités commerciales**
+
+\1) L’entreprise désignée d’une Partie contractante aura le droit de maintenir des représentations adéquates sur le territoire de l’autre Partie contractante. Ces représentations pourront inclure du personnel commercial, opérationnel et technique, composé de personnes transférées ou engagées sur place.
+
+\2) Pour l’activité commerciale, le principe de la réciprocité est applicable. Les autorités compétentes de chaque Partie contractante accorderont l’appui nécessaire à un bon fonctionnement des représentations de l’entreprise désignée de l’autre Partie contractante.
+
+\3) En particulier, chaque Partie contractante accorde à l’entreprise désignée de l’autre Partie contractante le droit de participer à la vente de titres de transport aérien sur son territoire, soit directement, soit à la discrétion de l’entreprise, par l’intermédiaire de ses agents. Chaque entreprise aura le droit de vendre de tels titres de transport, et quiconque sera libre de les acheter, en monnaie de ce territoire ou en devises étrangères librement convertibles.
+
+\4) Les entreprises de chaque Partie contractante seront autorisées à payer en monnaie locale leurs dépenses locales, y compris l’achat de carburant, dans le territoire de l’autre Partie contractante. Elles auront toute latitude, sur ce territoire, pour payer de telles dépenses en devises librement convertibles, conformément à la réglementation locale.
+
+\5) Lorsqu’elle exploite ou offre des services autorisés sur les routes convenues, chaque entreprise désignée de l’une des Partie contractante peut conclure des arrangements de marketing tels que des accords de réservation de capacité (blocked-space), des accords de partage de code (code-sharing) ou d’autres arrangements de coopération
+
+\6) Indépendamment de toute autre disposition du présent Accord, les entreprises et les fournisseurs indirects de transport de marchandises des deux Parties contractantes sont habilités à recourir, en rapport avec l’exploitation des services aériens, au transport terrestre de marchandises de et vers un point quelconque des territoires des Parties contractantes ou d’autres Etats, y compris le transport de et vers tous les aéroports disposant d’équipements douaniers et, le cas échéant, avec le droit de transporter des marchandises sous scellés douaniers dans le cadre des lois et prescriptions applicables. Ces marchandises, transportées par voie terrestre ou aérienne, ont accès au contrôle et aux équipements douaniers des aéroports. Les entreprises peuvent accomplir elles-mêmes les transports terrestres ou les faire exécuter par d’autres entreprises, liées à elles par des accords; cela s’applique également aux transports terrestres accomplis par d’autres entreprises et par des fournisseurs indirects de transport de marchandises. De tels transports peuvent être offerts à un tarif unique de transit pour le transport combiné par voie aérienne et terrestre, à condition que l’expéditeur ne soit pas induit en erreur sur cet état de fait.
+
+- a) avec une ou des entreprises de chaque Partie contractante;
+- b) avec une ou des entreprises d’un Etat tiers, à condition que cet Etat tiers autorise ou permette des arrangements analogues entre les entreprises de l’autre Partie contractante et d’autres entreprises sur des services de, vers et via un tel Etat tiers; et à la condition que toutes les entreprises parties à cet arrangement 1) disposent de l’autorisation appropriée et 2) remplissent les conditions normalement applicables avec de tels arrangements.
+
+#### Art. 12
+
+**Conversion et transfert de recettes**
+
+Chaque entreprise désignée aura le droit de convertir au taux de change officiel et de transférer dans son pays les excédents de recettes sur les dépenses découlant du transport de passagers, de bagages, de marchandises et d’envois postaux. Si le service des paiements entre les Parties contractantes est réglé par un accord spécial, celui-ci sera applicable.
+
+#### Art. 13
+
+**Tarifs**
+
+\1) Chaque Partie contractante admettra que toute entreprise désignée fixe pour les services aériens des tarifs selon les conditions commerciales du marché. L’intervention des parties se limitera
+
+\2) Chaque Partie contractante peut exiger des entreprises désignées de l’autre Partie qu’elles notifient ou soumettent à ses autorités aéronautiques les tarifs fixés à destination ou à partir de son territoire. La notification ou la soumission ne peut être exigée plus de 30 jours avant la date proposée pour l’entrée en vigueur de ces tarifs. Dans des cas particuliers, elle peut intervenir dans un délai plus court que celui qui prévaut normalement. Les tarifs peuvent en tout temps être appliqués après la notification ou la soumission, sauf s’ils ont été refusés par les deux Parties. Aucune Partie ne pourra exiger des entreprises de l’autre Partie qu’elles lui notifient ou soumettent les tarifs appliqués au public par les affréteurs, sauf si cette démarche est nécessaire pour obtenir des informations sur une base non-discriminatoire.
+
+\3) Les Parties contractantes ne prendront aucune mesure unilatérale afin d’empêcher l’introduction ou le maintien d’un tarif proposé ou appliqué a) par une entreprise de chaque Partie contractante pour le trafic aérien international entre les territoires des deux Parties ou b) par une entreprise d’une Partie contractante pour le trafic aérien international entre le territoire de l’autre Partie et un pays tiers, y compris, dans les deux cas, des transports s’appuyant sur un accord interline ou intraline. Si l’une des Parties estime qu’un tarif n’est pas conforme aux considérations énoncées au premier alinéa du présent article, elle peut demander l’ouverture de négociations et notifier à l’autre Partie les raisons de son désaccord dans les délais les plus brefs possibles. De telles négociations auront lieu au plus tard 30 jours après réception de la requête et les Parties coopéreront afin de se procurer les informations nécessaires pour trouver une solution raisonnable aux problèmes. Si elles s’entendent au sujet d’un tarif qui a fait l’objet d’une notification de désaccord, chacune d’elles s’efforcera de mettre cette entente à exécution. En l’absence d’accord mutuel, le tarif sera appliqué ou il restera en vigueur.
+
+\4) Nonobstant les dispositions des ch. 1 à 3 ci-dessus, chaque entreprise désignée aura le droit d’appliquer tout tarif offert sur le marché.
+
+- a) à faire obstacle à des tarifs ou à des pratiques exagérément discriminatoires;
+- b) à protéger les consommateurs contre des tarifs exagérément élevés ou restrictifs obtenus grâce à l’abus d’une position dominante; et
+- c) à protéger les entreprises contre des tarifs maintenus artificiellement bas grâce à des subsides gouvernementaux directs ou indirects ou à des aides.
+
+#### Art. 14
+
+**Soumission des horaires**
+
+\1) L’entreprise désignée d’une Partie contractante soumettra ses horaires à l’approbation des autorités aéronautiques de l’autre Partie contractante au moins trente jours avant la mise en exploitation des services convenus. La même réglementation s’appliquera également à tout changement d’horaire ultérieur.
+
+\2) L’entreprise désignée d’une Partie contractante devra requérir l’autorisation des autorités aéronautiques de l’autre Partie contractante pour les vols supplémentaires qu’elle veut effectuer sur les services convenus en dehors des horaires approuvés. En règle générale, une telle demande sera faite au moins deux jours ouvrables avant le début du vol.
+
+#### Art. 15
+
+**Statistiques**
+
+Les autorités aéronautiques des Parties contractantes se communiqueront, sur demande, des statistiques périodiques ou d’autres renseignements analogues relatifs au trafic sur les services convenus.
+
+#### Art. 16
+
+**Consultations**
+
+Chaque Partie contractante pourra, à tout moment, demander par voie diplomatique des consultations concernant la réalisation, l’interprétation, l’application ou la modification du présent Accord. De telles consultations devront commencer dans un délai de soixante jours à partir de la date à laquelle l’autre Partie contractante aura reçu la demande écrite, à moins que les Parties contractantes n’en soient convenues autrement. Si la Partie requérante estime que des négociations immédiates sont nécessaires pour éviter à son entreprise un dommage irréparable qui la menacerait, elles peuvent commencer dans les 30 jours à partir de la date à laquelle l’autre Partie contractante aura reçu la demande.
+
+#### Art. 17
+
+**Règlement des différends**
+
+\1) Tout différend survenant à propos du présent Accord, qui ne pourrait être réglé par la voie de négociations directes ou par la voie diplomatique, sera soumis, à la requête de l’une des Parties contractantes, à un tribunal arbitral.
+
+\2) Dans un tel cas, chaque Partie contractante désignera un arbitre et les deux arbitres désigneront un président qui sera ressortissant d’un Etat tiers. Si, dans un délai de deux mois après que l’une des Parties contractantes a désigné son arbitre, l’autre Partie contractante ne désigne pas le sien ou si, au cours du mois suivant la désignation du deuxième arbitre, les deux arbitres ne se mettent pas d’accord sur le choix du président, chaque Partie contractante pourra demander au président du Conseil de l’Organisation de l’aviation civile internationale de procéder aux désignations nécessaires. Si le président de ce Conseil est un ressortissant de l’une des Parties contractantes, la désignation incombera au doyen des vice-présidents non disqualifiés par leur nationalité.
+
+\3) Le tribunal arbitral déterminera sa propre procédure et décidera de la répartition des frais résultant de cette procédure.
+
+\4) Les Parties contractantes se conformeront à toute décision rendue en vertu du présent article.
+
+#### Art. 18
+
+**Modifications**
+
+\1) Si l’une des Parties contractantes juge souhaitable de modifier une disposition quelconque du présent Accord, une telle modification, si elle est agréée entre les Parties contractantes, sera appliquée provisoirement dès le jour de sa signature et entrera en vigueur dès que les Parties contractantes se seront notifié l’accomplissement de leurs formalités constitutionnelles.
+
+\2) Des modifications de l’Annexe du présent Accord pourront être convenues directement entre les autorités aéronautiques des Parties contractantes. Elles seront appliquées provisoirement dès le jour où elles auront été convenues et entreront en vigueur lorsqu’elles auront été confirmées par un échange de notes diplomatiques.
+
+\3) Dans le cas de la conclusion d’une convention générale multilatérale relative au transport aérien, liant chacune des Parties contractantes, le présent Accord serait amendé afin d’être rendu conforme aux dispositions de cette convention.
+
+#### Art. 19
+
+**Dénonciation**
+
+\1) Chaque Partie contractante pourra, à tout moment, notifier par écrit à l’autre Partie contractante sa décision de dénoncer le présent Accord. Cette notification sera communiquée simultanément à l’Organisation de l’aviation civile internationale. L’Accord prendra fin à minuit (là où l’autre Partie contractante a reçu la notification) immédiatement avant le terme de l’année qui suit la réception de la notification par l’autre Partie, à moins que la dénonciation ait été retirée entre-temps d’un commun accord.
+
+\2) A défaut d’accusé de réception de la part de l’autre Partie contractante, la notification sera réputée lui être parvenue quatorze jours après la date à laquelle l’Organisation de l’aviation civile internationale en aura reçu communication.
+
+#### Art. 20
+
+**Enregistrement**
+
+Le présent Accord et tout amendement ultérieur seront enregistrés auprès de l’Organisation de l’aviation civile internationale.
+
+#### Art. 21
+
+**Entrée en vigueur**
+
+Le présent Accord entrera en vigueur dès que les Parties contractantes se seront notifié l’accomplissement de leurs formalités constitutionnelles qui permettent la conclusion et l’entrée en vigueur des accords internationaux. A son entrée en vigueur, le présent Accord abroge l’Accord du 23 novembre 1956 relatif aux services aériens[^21-1] entre les Parties contractantes.
+
+[^21-1]: [[RO 1959 654](https://fedlex.data.admin.ch/eli/oc/1959/632_654_634)]
+
+*En foi de quoi,* les soussignées, dûment autorisés à cet effet par leur Gouvernement respectif, ont signé le présent Accord. Fait à Lima, le 24 janvier 2000, en langues allemande, espagnole et anglaise, les trois textes faisant également foi. En cas de divergence de réalisation, d’interprétation ou d’application, le texte anglais prévaut. Pour le Conseil fédéral suisse: Pour le Gouvernement de la République du Pérou: Eric Martin Alberto Pandolfi Arbulú
+
+Annexe
+
+## Tableaux des routes
+
+Tableau I
+
+Routes sur lesquelles les entreprises désignées par la Suisse peuvent exploiter des services aériens:
+
+<table>
+<tr><td>Points de départ</td><td>Points intermédiaires</td><td>Points au Pérou</td><td>Points au-delà</td></tr>
+<tr><td>Points en Suisse</td><td>tout point</td><td>Points</td><td>tout point</td></tr>
+</table>
+
+Tableau II
+
+Routes sur lesquelles l’entreprise désignée par la Répuiblique du Pérou peut exploiter des services aériens:
+
+<table>
+<tr><td>Points de départ</td><td>Points intermédiaires</td><td>Points en Suisse</td><td>Points au-delà de la Suisse</td></tr>
+<tr><td>Points au Pérou</td><td>tout point</td><td>Points</td><td>tout point</td></tr>
+</table>

@@ -1,0 +1,1211 @@
+---
+sr: "631.013"
+title: Ordinanza dell’UDSC del 4 aprile 2007 sulle dogane (OD-UDSC)
+short: OD-UDSC
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/253"
+language: it
+version: 2018-12-01
+adopted: 2007-04-04
+in_force: 2007-05-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/253/20181201/it/xml/fedlex-data-admin-ch-eli-cc-2007-253-20181201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/253/20181201/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’AFD sulle dogane
+
+(OD-AFD)
+
+del 4 aprile 2007 (Stato 1° dicembre 2018)
+
+L’Amministrazione federale delle dogane (AFD),
+
+visti gli articoli 24 capoverso 4, 25 capoverso 3, 28 capoverso 2, 29 capoverso 1, 33 capoverso 2, 40 capoversi 1 e 3, 56 capoverso 1, 66 capoverso 1, 71, 73 capoverso 3 e 100 capoverso 2 della legge del 18 marzo 2005[^ingress-1] sulle dogane (LD); in esecuzione dell’ordinanza del 1° novembre 2006[^ingress-2] sulle dogane (OD),
+
+ordina:
+
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+
+## Titolo 1: Obbligo doganale
+
+#### Art. 1
+
+**Materiale bellico e materiale della protezione civile**[^1-1]
+
+### (art. 8 cpv. 2 lett. m LD; art. 29 OD)
+
+Sono considerate materiale bellico della Confederazione e materiale della protezione civile della Confederazione e dei Cantoni le merci destinate alla difesa nazionale, alla protezione della popolazione in caso di catastrofi, situazioni d’emergenza e conflitti armati nonché alla relativa formazione, nella misura in cui tali merci:
+
+- a. sono acquistate dalla Confederazione, dai Cantoni o da imprese parastatali e dichiarate per l’immissione in libera pratica;
+- b. non servono esclusivamente ai bisogni dell’Amministrazione; e
+- c. non sono importate allo scopo di essere vendute nel territorio doganale.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 2
+
+**Spese per la distruzione di merci nel territorio doganale**
+
+### (art. 11 cpv. 4, 12 cpv. 3 e 13 cpv. 4 LD; art. 39 OD)
+
+Le spese per la distruzione di merci nel territorio doganale sono assunte dal richiedente.
+
+## Titolo 2: Procedura d’imposizione doganale
+
+### Capitolo 1: Sorveglianza del traffico merci
+
+#### Art. 3
+
+**Forma della dichiarazione sommaria**
+
+### (art. 24 cpv. 4 LD)
+
+<sup>1</sup> La dichiarazione sommaria deve essere presentata in forma cartacea o elettronica. Fanno eccezione le merci del traffico turistico.
+
+<sup>2</sup> ...[^3-1]
+
+[^3-1]: Abrogato dal n. I dell’O dell’AFD del 18 ott. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 4
+
+**Termine per la dichiarazione doganale**
+
+### (art. 25 cpv. 1 LD)
+
+<sup>1</sup> Le merci presentate in dogana e dichiarate sommariamente devono essere dichiarate presso l’ufficio doganale dalla persona soggetta all’obbligo di dichiarazione al più tardi il giorno lavorativo seguente la presentazione in dogana.
+
+<sup>2</sup> L’ufficio doganale può modificare il termine secondo le sue condizioni d’esercizio.
+
+#### Art. 5
+
+**Predichiarazione**
+
+### (art. 19 cpv. 1 lett. b, 25 cpv. 3 e 69 lett. b LD)
+
+<sup>1</sup>
+
+La persona soggetta all’obbligo di dichiarazione può dichiarare le merci presso l’ufficio doganale:
+
+- a. in caso di introduzione della merce nel territorio doganale: al più presto il giorno lavorativo precedente;
+- b. in caso di asportazione della merce dal territorio doganale: al più presto quattro giorni lavorativi prima.[^5-1]
+
+<sup>2</sup> Le merci che possono essere importate o esportate solo in quantità limitate (contingenti doganali) possono essere dichiarate al più presto il giorno in cui sono presentate in dogana. L’ufficio doganale può prevedere ulteriori restrizioni al fine di garantire il rispetto della legislazione doganale e dei disposti federali di natura non doganale.
+
+<sup>3</sup> Se la dichiarazione doganale è presentata prima dell’introduzione delle merci nel territorio doganale, l’importo del dazio è calcolato in base alla natura, alla quantità e allo stato delle merci nel momento in cui le stesse vengono condotte oltre il confine doganale.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 20 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4933](https://fedlex.data.admin.ch/eli/oc/2015/806)).
+
+### Capitolo 2: Forma della dichiarazione doganale
+
+### Sezione 1:**** Disposizioni generali
+
+[^tit2-chap2-sec1-1]
+
+[^tit2-chap2-sec1-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 6
+
+**Principio**
+
+### (art. 28 cpv. 2 LD)
+
+<sup>1</sup> La dichiarazione doganale è presentata elettronicamente, sempre che la presente ordinanza non preveda un’altra forma.
+
+<sup>2</sup>
+
+La dichiarazione doganale elettronica è effettuata:
+
+- a. nel sistema «e-dec» o «NCTS» (sezione 2);
+- b. nell’applicazione Internet «e-dec web» (sezione 3); oppure
+- c.[^6-1] mediante un terminale di dichiarazione (sezione 3*a*).
+
+[^6-1]: Introdotta dal n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 6a
+
+**Dichiarazione di merci destinate all’esportazione e immagazzinate in depositi doganali aperti o depositi franchi doganali**[^6a-1]
+
+### (art. 28 cpv. 2 LD)
+
+Le merci imposte all’esportazione e successivamente immagazzinate in un deposito doganale aperto o in deposito franco doganale non possono essere dichiarate all’esportazione nel sistema «NCTS».
+
+[^6a-1]: Introdotto dal n. I dell’O dell’AFD del 20 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4933](https://fedlex.data.admin.ch/eli/oc/2015/806)).
+
+#### Art. 6b
+
+**Dichiarazione sommaria di entrata e di uscita ai fini della sicurezza**[^6b-1]
+
+### (art. 112*t* OD)
+
+[^6b-2]
+
+La dichiarazione sommaria di entrata e di uscita ai fini della sicurezza è effettuata in forma elettronica secondo gli articoli 7–9 e 11–17*a*.
+
+[^6b-1]: Originario 6*a*.
+[^6b-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 7
+
+**Lingua**
+
+### (art. 28 LD)
+
+La dichiarazione doganale deve essere redatta in una lingua ufficiale della Confederazione.
+
+### Sezione 2:**** Dichiarazione doganale elettronica nei sistemi «e-dec» e «NCTS»****
+
+[^tit2-chap2-sec2-1][^tit2-chap2-sec2-2]
+
+[^tit2-chap2-sec2-1]: Originaria avanti l’art. 7.
+[^tit2-chap2-sec2-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 8
+
+**Autorizzazione a utilizzare i sistemi «e-dec» e «NCTS»**[^8-1]
+
+### (art. 28 cpv. 2 LD)
+
+<sup>1</sup>
+
+La Direzione generale delle dogane (DGD) autorizza la persona soggetta all’obbligo di dichiarazione a utilizzare, dietro richiesta scritta, il sistema «e-dec», il sistema «NCTS» o entrambi i sistemi per la dichiarazione doganale elettronica, a condizione che tale persona:
+
+- a. abbia sede o domicilio nel territorio doganale;
+- b. disponga dell’infrastruttura informatica necessaria;
+- c. fornisca una garanzia per i presumibili tributi; e
+- d. garantisca lo svolgimento regolare della procedura e in particolare la sicurezza dei dati.
+
+<sup>2</sup>
+
+La DGD può autorizzare la persona soggetta all’obbligo di dichiarazione con sede o domicilio all’estero nei pressi del confine a utilizzare il sistema «e-dec» per la dichiarazione doganale all’importazione se tale persona soddisfa le condizioni di cui al capoverso 1 lettere b–d e:
+
+- a. dispone di un recapito nel territorio doganale; e
+- b. provvede affinché l’AFD possa accedere, dal territorio doganale, ai dati e documenti da conservare conformemente agli articoli 94–98 OD.
+
+<sup>3</sup>
+
+La DGD può autorizzare la persona soggetta all’obbligo di dichiarazione con sede o domicilio nel territorio doganale estero a utilizzare i sistemi «e-dec» e «NCTS Esportazione» per la dichiarazione doganale all’esportazione se tale persona soddisfa le condizioni di cui al capoverso 1 lettere b e d e:
+
+- a. dispone di uffici nell’area di un ufficio a controlli nazionali abbinati; e
+- b. provvede affinché l’AFD possa accedere, dal territorio doganale, ai dati e documenti da conservare conformemente agli articoli 94–98 OD.
+
+<sup>4</sup> Se la DGD autorizza la persona soggetta all’obbligo di dichiarazione a effettuare la dichiarazione doganale elettronica nel sistema «e-dec», nel sistema «NCTS» o in entrambi i sistemi, tale persona deve dichiarare in questi sistemi le merci presentate in dogana e dichiarate sommariamente. Altre forme di dichiarazione sono ammesse solamente se l’AFD non può offrire la possibilità della dichiarazione doganale in questi sistemi.
+
+<sup>5</sup> Il capoverso 1 lettera a non è applicabile per le dichiarazioni doganali in transito.
+
+<sup>6</sup> Al più tardi dieci giorni dopo aver ricevuto la documentazione completa, la DGD decide se autorizzare la richiesta e, se del caso, attribuisce alla persona soggetta all’obbligo di dichiarazione un numero della ditta.[^8-2]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^8-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 23 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
+
+#### Art. 9
+
+**Revoca dell’autorizzazione**[^9-1]
+
+### (art. 28 cpv. 2 LD)
+
+L’AFD revoca l’autorizzazione a utilizzare il sistema «e-dec», il sistema «NCTS» o entrambi i sistemi se la persona: [^9-2]
+
+- a. non soddisfa più le condizioni per l’autorizzazione;
+- b. non adempie alle esigenze e alle condizioni connesse con l’autorizzazione; oppure
+- c.[^9-3] commette una grave infrazione o ripetute infrazioni contro il diritto federale, sempre che la relativa esecuzione competa all’AFD.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^9-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+[^9-3]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 10
+
+**Notifica di persone che allestiscono dichiarazioni doganali**[^10-1]
+
+### (art. 28 cpv. 2 e 109 cpv. 1 LD)
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve notificare alla DGD i collaboratori che sono autorizzati ad allestire dichiarazioni doganali nei sistemi «e-dec» e «NCTS» nonché i numeri personali loro attribuiti.
+
+<sup>2</sup> Essa deve notificare immediatamente alla DGD eventuali cambiamenti.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 11
+
+**Identificazione delle persone che allestiscono dichiarazioni doganali**[^11-1]
+
+### (art. 28 cpv. 2 LD)
+
+Le persone che allestiscono dichiarazioni doganali nei sistemi «e-dec» e «NCTS» devono indicare nella dichiarazione doganale il numero della ditta e il numero personale attribuiti.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 12
+
+**Trasmissione dei dati**
+
+### (art. 28 cpv. 2 LD)
+
+<sup>1</sup> La DGD comunica alla persona soggetta all’obbligo di dichiarazione l’indirizzo elettronico al quale trasmettere i dati.
+
+<sup>2</sup> Essa fornisce le indicazioni tecniche necessarie per garantire che i dati siano trasmessi in modo sicuro ai sistemi «e-dec» e «NCTS».[^12-1]
+
+<sup>3</sup> La persona soggetta all’obbligo di dichiarazione non ha accesso ai dati memorizzati elettronicamente dall’AFD.
+
+<sup>4</sup> La dichiarazione doganale elettronica è considerata non presentata fintanto che il sistema «e-dec» o «NCTS» non ha confermato l’avvenuta ricezione dei dati.[^12-2]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^12-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 13
+
+**Esclusione della responsabilità**
+
+### (art. 28 cpv. 2 LD)
+
+L’AFD non è responsabile:
+
+- a. delle conseguenze dei guasti tecnici, a condizione che tali guasti non siano dovuti a grave negligenza da parte dell’AFD; oppure
+- b. dei danni indiretti e successivi in relazione con il trattamento elettronico dei dati.
+
+#### Art. 14
+
+**Manutenzione e sviluppo ulteriore dei sistemi «e-dec» e «NCTS»[^14-1]**
+
+### (art. 28 cpv. 2 LD)
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve mantenere la propria infrastruttura informatica in uno stato che soddisfi le esigenze dell’AFD.
+
+<sup>2</sup> La DGD comunica per tempo i cambiamenti dei sistemi «e-dec» e «NCTS» alla persona soggetta all’obbligo di dichiarazione. Quest’ultima deve operare i cambiamenti entro il termine impartito.[^14-2]
+
+[^14-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^14-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 15
+
+**Spese**[^15-1]
+
+### (art. 28 cpv. 2 LD)
+
+La persona soggetta all’obbligo di dichiarazione si assume le spese di:
+
+- a. acquisto, funzionamento e manutenzione della propria infrastruttura informatica; e
+- b. allacciamento, funzionamento e manutenzione delle linee per la trasmissione dei dati ai sistemi «e-dec» e «NCTS».
+
+[^15-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 16
+
+**Accettazione della dichiarazione doganale**[^16-1]
+
+### (art. 33 cpv. 2 LD)
+
+La dichiarazione doganale è considerata accettata se ha superato con successo l’esame sommario da parte del sistema «e-dec» o «NCTS». Il sistema aggiunge alla dichiarazione doganale elettronica la data e l’ora di accettazione.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 17
+
+**Selezione all’importazione[^17-1]**
+
+### (art. 35 e 40 LD)
+
+[^17-2]
+
+<sup>1</sup> Dopo l’accettazione della dichiarazione doganale, il sistema «e-dec» procede a una selezione sulla base di un’analisi dei rischi.[^17-3]
+
+<sup>2</sup> Se il risultato della selezione è «bloccato», la persona soggetta all’obbligo di dichiarazione deve presentare all’ufficio doganale una copia della dichiarazione doganale e i documenti di scorta necessari. Le merci possono essere sgomberate solamente se sono state liberate dall’ufficio doganale.
+
+<sup>3</sup> Se il risultato della selezione è «libero con», la persona soggetta all’obbligo di dichiarazione deve presentare all’ufficio doganale una copia della dichiarazione doganale e i documenti di scorta necessari. Le merci sono considerate liberate.
+
+<sup>4</sup> Se il risultato della selezione è «libero senza» o «libero senza / con DNND», la persona soggetta all’obbligo di dichiarazione deve presentare all’ufficio doganale gli eventuali documenti di transito e autorizzazioni nonché gli eventuali certificati o conferme necessari per l’esecuzione dei disposti federali di natura non doganale. Per l’AFD le merci sono considerate liberate.[^17-4]
+
+<sup>5</sup>
+
+Se le merci soggiacciono a disposti federali di natura non doganale, indipendentemente dal risultato della selezione la persona soggetta all’obbligo di dichiarazione deve:
+
+- a. consegnare le merci agli organi di controllo competenti; oppure
+- b.[^17-5] provare che le esigenze basate sui disposti federali di natura non doganale sono adempiute.[^17-6]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^17-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+[^17-3]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^17-4]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^17-5]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+[^17-6]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 17a
+
+**Selezione all’esportazione**[^17a-1]
+
+### (art. 25 cpv. 1, 35 cpv. 1 e 40 cpv. 1 LD)
+
+<sup>1</sup> Dopo l’accettazione della dichiarazione doganale, il sistema «e-dec» o «NCTS Esportazione» procede a una selezione sulla base di un’analisi dei rischi.
+
+<sup>2</sup> Se il risultato della selezione è «bloccato», la persona soggetta all’obbligo di dichiarazione deve presentare all’ufficio doganale una copia della dichiarazione doganale, gli eventuali documenti di scorta e le prove dell’origine che devono essere autenticate dalla dogana. Le merci possono essere sgomberate solamente se sono state liberate dall’ufficio doganale.
+
+<sup>3</sup> Se il risultato della selezione è «libero», le merci sono considerate liberate e possono essere sgomberate immediatamente.
+
+<sup>4</sup> Se il risultato della selezione è «libero» e devono essere autenticate prove dell’origine, la persona soggetta all’obbligo di dichiarazione deve presentarle all’ufficio doganale prima dello sgombero delle merci. L’ufficio doganale può chiedere ulteriori documenti di scorta.
+
+[^17a-1]: Introdotto dal n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 18
+
+**Caratterizzazione dei documenti di scorta**
+
+### (art. 25 cpv. 1 e 28 cpv. 2 LD)
+
+La persona soggetta all’obbligo di dichiarazione deve contrassegnare i documenti di scorta in modo tale che possano inequivocabilmente essere attribuiti alla corrispondente dichiarazione doganale.
+
+#### Art. 19
+
+**Termini per la presentazione dei documenti all’importazione[^19-1]**
+
+### (art. 25 cpv. 1 e 35 cpv. 1 LD)
+
+<sup>1</sup>
+
+Se la dichiarazione doganale viene effettuata prima della presentazione in dogana, la persona soggetta all’obbligo di dichiarazione deve presentare i documenti (art. 17) all’ufficio doganale dopo la comunicazione del risultato della selezione:
+
+- a. al più tardi due ore di apertura dello sportello dopo la presentazione in dogana, se il risultato della selezione è «bloccato»;
+- b. al più tardi il giorno lavorativo seguente la presentazione in dogana, se il risultato della selezione è «libero».
+
+<sup>2</sup>
+
+Se la dichiarazione doganale viene effettuata dopo la presentazione in dogana, la persona soggetta all’obbligo di dichiarazione deve presentare i documenti (art. 17) all’ufficio doganale dopo la comunicazione del risultato della selezione:
+
+- a. al più tardi due ore di apertura dello sportello dopo la dichiarazione doganale, se il risultato della selezione è «bloccato»;
+- b. al più tardi il giorno lavorativo seguente la dichiarazione doganale, se il risultato della selezione è «libero».
+
+<sup>3</sup> L’ufficio doganale può modificare il termine secondo le sue condizioni d’esercizio.
+
+<sup>4</sup> Sono fatti salvi gli articoli 38–41.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 19a
+
+**Termini per la presentazione dei documenti all’esportazione**[^19a-1]
+
+### (art. 25 cpv. 1 e 35 cpv. 1 LD)
+
+<sup>1</sup>
+
+Se il risultato della selezione è «bloccato», la persona soggetta all’obbligo di dichiarazione deve presentare i documenti di cui all’articolo 17*a* all’ufficio doganale:
+
+- a. al più tardi due ore di apertura dello sportello dopo la comunicazione del risultato della selezione nel sistema «e-dec»;
+- b. entro 24 ore dopo la comunicazione del risultato della selezione nel sistema «NCTS».
+
+<sup>2</sup> L’ufficio doganale può modificare il termine secondo le sue condizioni d’esercizio.
+
+<sup>3</sup> Sono fatti salvi gli articoli 38–41.
+
+[^19a-1]: Introdotto dal n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 20
+
+**Termine per la presentazione di una nuova dichiarazione doganale**
+
+### (art. 19 cpv. 2 lett. a, 25 cpv. 1 e 35 cpv. 2 LD)
+
+<sup>1</sup> Se constata un’inesattezza o una lacuna nella dichiarazione doganale, l’ufficio doganale può chiedere alla persona soggetta all’obbligo di dichiarazione di rettificare o completare la dichiarazione doganale.
+
+<sup>2</sup> La persona soggetta all’obbligo di dichiarazione deve presentare la dichiarazione doganale rettificata o completata al più tardi il decimo giorno lavorativo seguente il rifiuto della dichiarazione inesatta o incompleta. In casi motivati, l’ufficio doganale può prorogare questo termine.[^20-1]
+
+<sup>3</sup> Se la persona soggetta all’obbligo di dichiarazione non presenta la dichiarazione doganale rettificata o completata entro il termine, l’ufficio doganale può imporre d’ufficio le merci. All’importazione esso applica l’aliquota di dazio e le basi di calcolo più elevate applicabili alle merci in questione.[^20-2]
+
+[^20-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 apr. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2119](https://fedlex.data.admin.ch/eli/oc/2008/306)).
+[^20-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 23 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
+
+#### Art. 20a
+
+**Notifica della decisione d’imposizione**[^20a-1]
+
+### (art. 38 LD; art. 92 OD)
+
+<sup>1</sup> La decisione d’imposizione è pubblicata nel sistema «e-dec» o «NCTS» e da quel momento è considerata notificata. Il sistema registra immediatamente il momento in cui la persona soggetta all’obbligo di dichiarazione scarica la decisione d’imposizione.
+
+<sup>2</sup> ... [^20a-2]
+
+<sup>3</sup> Nel sistema «NCTS Esportazione» l’Amministrazione delle dogane rilascia la decisione d’imposizione in forma cartacea.
+
+[^20a-1]: Introdotto dal n. I dell’O dell’AFD del 27 feb. 2009 ([RU 2009 1147](https://fedlex.data.admin.ch/eli/oc/2009/187)). Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^20a-2]: Abrogato dal n. I dell’O dell’AFD del 18 ott. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 20b
+
+**Restituzione della decisione d’imposizione**[^20b-1]
+
+### (art. 174 OD)
+
+<sup>1</sup> Se una decisione d’imposizione elettronica deve essere restituita, la decisione d’imposizione già notificata è annullata nel sistema «e-dec» e contrassegnata in quanto tale. L’annullamento è comunicato alla persona soggetta all’obbligo di dichiarazione.
+
+<sup>2</sup> Se la decisione d’imposizione è stata rilasciata in forma cartacea, la persona soggetta all’obbligo di dichiarazione deve restituirla all’ufficio doganale che ha imposto la merce al più tardi il giorno lavorativo successivo all’annullamento.
+
+[^20b-1]: Introdotto dal n. I dell’O dell’AFD del 27 feb. 2009 ([RU 2009 1147](https://fedlex.data.admin.ch/eli/oc/2009/187)). Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+### Sezione 3:**** Dichiarazione doganale elettronica nell’applicazione Internet «e-dec web»
+
+[^tit2-chap2-sec3-1]
+
+[^tit2-chap2-sec3-1]: Introdotta dal n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 20c
+
+**Principio**
+
+### (art. 28 e 33 LD)
+
+Chi non utilizza i sistemi «e-dec» e «NCTS» per la dichiarazione doganale deve utilizzare, per la dichiarazione doganale all’importazione e all’esportazione, l’applicazione Internet «e-dec web».
+
+#### Art. 20d
+
+**Procedura**
+
+### (art. 28 e 33 LD)
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve dichiarare le merci nell’applicazione Internet «e-dec web» e stampare la dichiarazione doganale.
+
+<sup>2</sup> La persona soggetta all’obbligo di dichiarazione presenta la dichiarazione doganale, la merce presentata in dogana e i documenti di scorta all’ufficio doganale.
+
+<sup>3</sup> L’ufficio doganale sottopone la dichiarazione doganale a esame sommario e la accetta. Conferma l’accettazione della dichiarazione doganale nell’applicazione Internet «e-dec web».
+
+<sup>4</sup> La decisione d’imposizione è pubblicata nell’applicazione Internet «e-dec web». L’articolo 20*b* si applica per analogia.
+
+### Sezione 3*a*:**** Dichiarazione elettronica e dichiarazione doganale elettronica effettuata mediante un terminale di dichiarazione
+
+[^tit2-chap2-sec3a-1]
+
+[^tit2-chap2-sec3a-1]: Introdotta dal n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 20e
+
+**Campo d’applicazione**
+
+### (art. 24, 28 e 33 LD)
+
+<sup>1</sup>
+
+La dichiarazione elettronica e la dichiarazione doganale elettronica mediante un terminale di dichiarazione sono ammesse solo presso valichi di confine appositamente segnalati per:
+
+- a.
+
+  le merci accompagnate da un documento di transito internazionale conformemente a uno dei seguenti accordi internazionali:
+
+  - 1\. Convenzione del 20 maggio 1987[^20e-1] relativa ad un regime comune di transito,
+  - 2\. Convenzione doganale del 14 novembre 1975[^20e-2] concernente il trasporto internazionale di merci con libretti TIR;
+
+- b.
+
+  le merci accompagnate da un libretto A.T.A. conformemente a uno dei seguenti accordi internazionali:
+
+  - 1\. Convenzione doganale del 6 dicembre 1961[^20e-3] concernente libretti A.T.A. per l’ammissione temporanea delle merci,
+  - 2\. allegato A della Convenzione del 26 giugno 1990[^20e-4] relativa all’ammissione temporanea;
+
+- c. le merci di imprese che operano nel traffico locale e che dispongono di un’autorizzazione dell’ufficio doganale competente;
+- d. i mezzi di trasporto di cui all’articolo 25 capoverso 1 lettere b, e o f, con i quali vengono introdotte nel territorio doganale solo merci per le quali è consentita la dichiarazione doganale verbale.
+
+<sup>2</sup> Le merci di cui al capoverso 1 lettere a–c possono essere introdotte nel territorio doganale solo con un mezzo di trasporto ammesso alla circolazione stradale secondo l’articolo 25 capoverso 1 lettere b, e o f.
+
+[^20e-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^20e-2]: [RS 0.631.252.512](https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281)
+[^20e-3]: [RS 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
+[^20e-4]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+
+#### Art. 20f
+
+**Procedura**
+
+### (art. 24, 25 e 28 cpv. 1 lett. a LD)
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione registra sul terminale di dichiarazione la targa di controllo del mezzo di trasporto, dichiara le merci trasportate e conferma la completezza dei dati forniti.
+
+<sup>2</sup>
+
+La persona soggetta all’obbligo di dichiarazione riceve l’indicazione:
+
+- a. di presentare le merci senza indugio e intatte all’ufficio doganale indicato; oppure
+- b. che le merci sono liberate.
+
+<sup>3</sup> Per le merci di cui all’articolo 20*e* capoverso 1 lettera a numero 1 e per i mezzi di trasporto di cui all’articolo 20*e* capoverso 1 lettera d, la dichiarazione è considerata come dichiarazione doganale ai sensi dell’articolo 25 LD.
+
+<sup>4</sup> Per tutte le altre merci di cui all’articolo 20*e*, la dichiarazione è considerata come dichiarazione sommaria ai sensi dell’articolo 24 LD.
+
+#### Art. 20g
+
+**Accettazione della dichiarazione doganale**
+
+### (art. 33 cpv. 2 LD)
+
+Per le merci di cui all’articolo 20*e* capoverso 1 lettera a numero 1 e per i mezzi di trasporto di cui all’articolo 20*e* capoverso 1 lettera d, la dichiarazione doganale è considerata accettata quando il terminale di dichiarazione conferma la ricezione dei dati.
+
+### Sezione 4:**** Dichiarazione doganale in forma cartacea
+
+[^tit2-chap2-sec4-1]
+
+[^tit2-chap2-sec4-1]: Originaria Sez. 3
+
+#### Art. 21
+
+**Campo d’applicazione**[^21-1]
+
+### (art. 28 cpv. 1 lett. b LD)
+
+La dichiarazione doganale in forma cartacea è ammessa:
+
+- a.
+
+  in caso di immissione in libera pratica (art. 48 LD) di:[^21-2]
+
+  - 1\. merci per capi di Stato e per servizi diplomatici, consolari e internazionali e loro membri (art. 6 OD),
+  - 2\. bare con salme, urne cinerarie e accessori funebri (art. 7 OD),
+  - 3\. premi di onore, oggetti ricordo e doni d’onore (art. 8 OD), sempre che non soggiacciano a tributi,
+  - 4\. mezzi legali di pagamento, carte valori, manoscritti, documenti commerciali, documenti privi di valore collezionistico, valori di bollo ufficiali e titoli di trasporto (art. 13 OD),
+  - 5\. masserizie di trasloco, corredi nuziali e oggetti ereditati (art. 14–16 OD),
+  - 6\. merci donate a organizzazioni riconosciute di utilità pubblica e opere assistenziali o persone nel bisogno (art. 17 OD),
+  - 7\. oggetti per l’insegnamento e la ricerca (art. 19 OD),
+  - 8\. oggetti d’arte e d’esposizione per i musei (art. 20 OD),
+  - 9\. strumenti e apparecchi per l’esame e il trattamento di pazienti in ospedali o case di cura (art. 21 OD),
+  - 10\. studi e opere di artisti svizzeri che soggiornano temporaneamente all’estero a scopo di studio (art. 22 OD),
+  - 11\. merci del traffico nella zona di confine (art. 23 OD; art. 24*a*),
+  - 12\. uva e vino di fondi della zona di confine (art. 24 OD), sempre che non soggiacciano a tributi,
+  - 13\. merci del traffico di mercato (art. 25 OD), sempre che non soggiacciano a tributi,
+  - 14\. modelli e campioni di merci (art. 27 OD), sempre che non soggiacciano a tributi,
+  - 15\. imballaggi indigeni (art. 28 OD),
+  - 16\. materiale bellico della Confederazione (art. 29 OD),
+  - 17\. oggetti d’uso personale (art. 63 e all. 1 OD), sempre che non soggiacciano a tributi,
+  - 18\. invii regalo (art. 1 dell’O del DFF del 4 apr. 2007[^21-3] sulle dogane), sempre che non soggiacciano a tributi,
+  - 19\. merci delle zone franche dell’Alta Savoia e del Paese di Gex, sempre che siano oggetto di un’autorizzazione della Direzione delle dogane di Ginevra,
+  - 20\. altre merci in quantità esigue, sempre che non soggiacciano a tributi e non siano destinate al commercio;
+
+- b.[^21-4] …
+- c. in caso di assegnazione di merci al regime di ammissione temporanea (art. 58 LD);
+- d. in caso di assegnazione di merci al regime del perfezionamento attivo secondo il regime di non riscossione semplificato e di restituzione semplificato (art. 59 LD; art. 168 cpv. 3 OD);
+- e.[^21-5] in caso di assegnazione al regime d’esportazione (art. 61 LD) di merci secondo la lettera a, ad eccezione dei numeri 7–9, 15, 16 e 19;
+- f. in caso di assegnazione al regime d’esportazione (art. 61 LD) di tabacchi manufatti che beneficiano della restituzione o della sospensione dell’imposta sul tabacco;
+- g. in singoli casi eccezionali con un’autorizzazione straordinaria della DGD o della direzione di circondario.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^21-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 23 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
+[^21-3]: [RS 631.011](https://fedlex.data.admin.ch/eli/cc/2007/251)
+[^21-4]: Abrogata dal n. I dell’O dell’AFD del 25 feb. 2015, con effetto dal 1° mag. 2015 ([RU 2015 853](https://fedlex.data.admin.ch/eli/oc/2015/161)).
+[^21-5]: Nuovo testo giusta il n. I dell’O dell’AFD del 23 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
+
+#### Art. 22
+
+**Requisiti formali**
+
+### (art. 28 cpv. 1 lett. b e 32 cpv. 2 LD)
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve compilare il modulo o documento ufficiale prescritto per il corrispondente regime doganale e apporvi il proprio nome completo nonché la propria firma.[^22-1]
+
+<sup>2</sup> Se il modulo o documento ufficiale è compilato a mano, occorre scrivere in stampatello e con penna stilografica o a sfera.
+
+<sup>3</sup> La persona soggetta all’obbligo di dichiarazione deve autenticare con la propria firma le rettifiche o i completamenti eventualmente necessari nella dichiarazione doganale.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 23
+
+**Compilazione della dichiarazione doganale da parte dell’AFD**
+
+### (art. 28 cpv. 1 lett. b LD)
+
+<sup>1</sup> Se la persona soggetta all’obbligo di dichiarazione non è in grado di compilare la dichiarazione doganale, l’ufficio doganale può, eccezionalmente e dietro pagamento di una tassa, compilare il modulo ufficiale.
+
+<sup>2</sup> La persona soggetta all’obbligo di dichiarazione deve attestare l’esattezza della dichiarazione apponendovi la propria firma.
+
+#### Art. 23a
+
+**Utilizzazione della cassetta delle dichiarazioni**[^23a-1]
+
+### (art. 28 cpv. 1 lett. b LD)
+
+Chi importa merci del traffico turistico deve depositare la dichiarazione doganale in una cassetta delle dichiarazioni autorizzata dall’AFD, se non è possibile o non è ammessa la dichiarazione doganale verbale o in un’altra forma di manifestazione della volontà.
+
+[^23a-1]: Introdotto dal n. I dell’O dell’AFD del 10 dic. 2012 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)). Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 24
+
+**Accettazione della dichiarazione doganale in forma cartacea**[^24-1]
+
+### (art. 33 cpv. 2 LD)
+
+La dichiarazione doganale in forma cartacea è considerata accettata se:
+
+- a. l’ufficio doganale vi ha apposto il timbro a data e la firma; oppure
+- b. la persona soggetta all’obbligo di dichiarazione l’ha depositata in una cassetta delle dichiarazioni di cui all’articolo 23*a*.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 24a
+
+**Predichiarazione nel traffico rurale di confine**[^24a-1]
+
+### (art. 25 cpv. 1 e 3, 28 cpv. 1 e 2 nonché 43 cpv. 1 lett. a LD; art. 118 OD)
+
+<sup>1</sup>
+
+Il gestore che intende sollecitare la franchigia doganale o la riduzione dei tributi doganali per prodotti greggi del suolo, uva o vino deve dichiarare anticipatamente, per scritto e mediante il modulo previsto a tal fine, all’ufficio doganale indicato sul certificato di reddito (art. 118 cpv. 1 lett. b OD):
+
+- a. la natura e la quantità delle merci; e
+- b. l’ora e il luogo del passaggio di frontiera.
+
+<sup>2</sup> La predichiarazione può essere trasmessa via fax o elettronicamente oppure consegnata direttamente all’ufficio doganale. Essa vale come dichiarazione doganale.
+
+<sup>3</sup> La dichiarazione doganale è considerata accettata ai sensi dell’articolo 33 capoverso 2 LD nel momento in cui giunge, debitamente compilata, all’ufficio doganale.
+
+<sup>4</sup> La predichiarazione deve giungere all’ufficio doganale al più tardi due ore prima dell’importazione; ciò vale anche per le merci importate al di fuori degli orari d’apertura dell’ufficio doganale. L’importazione delle merci dichiarate deve avvenire entro un’ora dall’orario d’importazione indicato nella predichiarazione.
+
+<sup>5</sup> Il gestore deve informare l’ufficio doganale in merito a tutti i cambiamenti relativi all’ora o al luogo del passaggio di frontiera nonché alla natura e alla quantità delle merci dichiarate. La notifica dei cambiamenti può avvenire per scritto o telefonicamente e deve giungere all’ufficio doganale prima dell’importazione delle merci. Per i cambiamenti notificati telefonicamente, l’ufficio doganale può chiedere una conferma scritta o la successiva presentazione di una prova.
+
+<sup>6</sup> Il gestore deve annunciare, mediante il modulo previsto a tal fine, l’identità dei propri impiegati e collaboratori; deve contemporaneamente indicare se dette persone sono abilitate a effettuare la predichiarazione di cui al presente articolo.
+
+[^24a-1]: Introdotta dal n. I dell’O dell’AFD dell’11 apr. 2008, in vigore dal 1° mag. 2008 ([RU 2008 1811](https://fedlex.data.admin.ch/eli/oc/2008/267)).
+
+### Sezione 5:**** Dichiarazione doganale verbale
+
+[^tit2-chap2-sec5-1]
+
+[^tit2-chap2-sec5-1]: Originaria Sez. 4.
+
+#### Art. 25
+
+**Campo d’applicazione**
+
+### (art. 28 cpv. 1 lett. c LD)
+
+<sup>1</sup>
+
+La dichiarazione doganale verbale è ammessa per:[^25-1]
+
+- a. le merci del traffico turistico;
+- b.[^25-2] i mezzi di trasporto per i quali l’allegato C della Convenzione del 26 giugno 1990[^25-3] relativa all’ammissione temporanea non richiede né una dichiarazione doganale né una garanzia;
+- c.[^25-4] i rimorchi esteri destinati al trasporto di cose che beneficiano dell’ammissione temporanea per trasporti transfrontalieri conformemente all’articolo 34 capoverso 3 OD;
+- d.[^25-5] il pesce fresco pescato nelle acque confinarie (art. 26 OD);
+- e.[^25-6] i mezzi di trasporto esteri ammessi alla circolazione, impiegati per uso proprio nel territorio doganale da persone con domicilio al di fuori del territorio doganale al massimo per un anno e dichiarati nel regime di ammissione temporanea;
+- f.[^25-7] i mezzi di trasporto svizzeri ammessi alla circolazione, introdotti nel territorio doganale estero nel regime di ammissione temporanea.
+
+<sup>2</sup>
+
+L’ufficio doganale può escludere dalla dichiarazione doganale verbale la persona soggetta all’obbligo di dichiarazione se:
+
+- a. le merci non devono essere messe in libera pratica secondo il diritto doganale; oppure
+- b. le condizioni d’esercizio dell’ufficio doganale o i disposti federali di natura non doganale lo richiedono.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^25-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+[^25-3]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^25-4]: Introdotta dal n. I dell’O dell’AFD del 16 dic. 2010 ([RU 2011 5](https://fedlex.data.admin.ch/eli/oc/2011/3)). Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^25-5]: Introdotta dal n. I dell’O dell’AFD del 23 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
+[^25-6]: Introdotta dal n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+[^25-7]: Introdotta dal n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 26
+
+**Accettazione della dichiarazione doganale verbale**
+
+### (art. 33 cpv. 2 LD)
+
+La dichiarazione doganale verbale è considerata accettata nel momento in cui l’ufficio doganale la riceve.
+
+### Sezione 6:**** Dichiarazione doganale presso un passaggio verde
+
+[^tit2-chap2-sec6-1]
+
+[^tit2-chap2-sec6-1]: Originaria Sez. 5.
+
+#### Art. 27
+
+**Passaggio verde**
+
+### (art. 28 cpv. 1 lett. d LD)
+
+Se le condizioni d’esercizio dell’ufficio doganale lo consentono, la direzione di circondario può autorizzare un passaggio verde per la dichiarazione doganale.
+
+#### Art. 28
+
+**Utilizzo del passaggio verde**
+
+### (art. 28 cpv. 1 lett. d e 33 cpv. 2 LD)
+
+<sup>1</sup>
+
+La persona soggetta all’obbligo di dichiarazione può utilizzare il passaggio verde solamente se porta con sé merci del traffico turistico che:
+
+- a. sono esenti da dazio;
+- b. non soggiacciono a restrizioni o divieti; e
+- c. non soggiacciono all’obbligo di certificati o autorizzazioni.
+
+<sup>2</sup> L’utilizzo del passaggio verde vale come dichiarazione doganale. La dichiarazione è considerata accettata all’atto del passaggio.
+
+<sup>3</sup> Se introduce nel territorio doganale o asporta da esso merci diverse da quelle di cui al capoverso 1, la persona soggetta all’obbligo di dichiarazione deve dichiarare le merci secondo le disposizioni generali della legislazione doganale.
+
+### Sezione 7:**** Dichiarazione doganale verde a vista nel traffico stradale
+
+[^tit2-chap2-sec7-1]
+
+[^tit2-chap2-sec7-1]: Originaria Sez. 6.
+
+#### Art. 29
+
+**Dichiarazione doganale verde a vista**[^29-1]
+
+### (art. 28 cpv. 1 lett. d LD)
+
+L’AFD può consentire la dichiarazione doganale verde a vista per i mezzi di trasporto impiegati privatamente nel traffico stradale.
+
+[^29-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 30
+
+**Impiego della dichiarazione doganale verde a vista**
+
+### (art. 28 cpv. 1 lett. d e 33 cpv. 2 LD)
+
+<sup>1</sup>
+
+Il conducente può impiegare la dichiarazione doganale verde a vista solamente se è alla guida di un mezzo di trasporto ammesso alla circolazione stradale secondo l’articolo 25 capoverso 1 lettera b, e o f e se tutte le merci trasportate:[^30-1]
+
+- a. sono merci del traffico turistico;
+- b. sono esenti da dazio;
+- c. non soggiacciono a restrizioni o divieti; e
+- d. non soggiacciono all’obbligo di certificati o autorizzazioni.
+
+<sup>2</sup> Il conducente deve posizionare la dichiarazione doganale verde a vista sul parabrezza in modo tale che sia ben visibile dal personale dell’AFD.
+
+<sup>3</sup> L’impiego della dichiarazione doganale verde a vista vale come dichiarazione doganale. Al passaggio del confine doganale la dichiarazione è considerata accettata.
+
+<sup>4</sup> Se introduce nel territorio doganale o asporta da esso merci diverse da quelle di cui al capoverso 1, il conducente deve dichiarare le merci secondo le disposizioni generali della legislazione doganale.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+### Sezione 8:**** Targa verde di dichiarazione doganale per mezzi di trasporto pubblici
+
+[^tit2-chap2-sec8-1]
+
+[^tit2-chap2-sec8-1]: Originaria Sez. 7.
+
+#### Art. 31
+
+**Targa verde di dichiarazione doganale**
+
+### (art. 28 cpv. 1 lett. d LD)
+
+<sup>1</sup> Se le condizioni d’esercizio dell’ufficio doganale lo consentono, la direzione di circondario può autorizzare le imprese di trasporto concessionarie ad apporre targhe verdi di dichiarazione doganale ai mezzi di trasporto pubblici.
+
+<sup>2</sup> Se l’apposizione delle targhe verdi di dichiarazione doganale non è possibile, la direzione di circondario può autorizzare l’informazione delle persone soggette all’obbligo di dichiarazione anche in altri modi, in particolare diffondendo un annuncio via altoparlante.
+
+<sup>3</sup> Le esigenze e le condizioni sono stabilite nell’autorizzazione.
+
+#### Art. 32
+
+**Impiego di un mezzo di trasporto pubblico con targa verde di dichiarazione doganale**
+
+### (art. 28 cpv. 1 lett. d e 33 cpv. 2 LD)
+
+<sup>1</sup>
+
+La persona soggetta all’obbligo di dichiarazione può impiegare un mezzo di trasporto pubblico con targa verde di dichiarazione doganale solamente se porta con sé merci del traffico turistico che:
+
+- a. sono esenti da dazio;
+- b. non soggiacciono a restrizioni o divieti; e
+- c. non soggiacciono all’obbligo di certificati o autorizzazioni.
+
+<sup>2</sup> L’impiego di un mezzo di trasporto pubblico con targa verde di dichiarazione doganale vale come dichiarazione doganale.
+
+<sup>3</sup> La dichiarazione doganale è considerata accettata quando il mezzo di trasporto pubblico lascia l’ultima fermata prima del confine doganale.
+
+<sup>4</sup> I capoversi 1–3 si applicano per analogia ai mezzi di trasporto pubblici nei quali la persona soggetta all’obbligo di dichiarazione è stata informata in altro modo circa le disposizioni di cui al capoverso 1.
+
+### Sezione 9:**** Dichiarazione doganale su strade doganali con cartello di dichiarazione doganale
+
+[^tit2-chap2-sec9-1]
+
+[^tit2-chap2-sec9-1]: Originaria Sez. 8.
+
+#### Art. 33
+
+**Cartello di dichiarazione doganale**
+
+### (art. 28 cpv. 1 lett. d LD)
+
+Se le condizioni d’esercizio dell’ufficio doganale lo consentono, la direzione di circondario può autorizzare la presenza di cartelli di dichiarazione doganale su determinate strade doganali.
+
+#### Art. 34
+
+**Utilizzazione di una strada doganale con cartello «Nulla da dichiarare»**
+
+### (art. 28 cpv. 1 lett. d e 33 cpv. 2 LD)
+
+<sup>1</sup>
+
+Le strade doganali con cartello «Nulla da dichiarare» possono essere utilizzate solo se le merci del traffico turistico trasportate:
+
+- a. sono esenti da dazio;
+- b. non soggiacciono a restrizioni o divieti; e
+- c. non soggiacciono all’obbligo di certificati o autorizzazioni.
+
+<sup>2</sup> Le merci di cui al capoverso 1 possono essere condotte oltre il confine doganale solo con un mezzo di trasporto impiegato privatamente secondo l’articolo 25 capoverso 1 lettera b, e o f. [^34-1]
+
+<sup>3</sup> Il passaggio del confine doganale vale come dichiarazione doganale. Al passaggio del confine doganale la dichiarazione è considerata accettata.
+
+<sup>4</sup>
+
+Se introduce nel territorio doganale o asporta da esso merci diverse da quelle di cui al capoverso 1, la persona soggetta all’obbligo di dichiarazione deve:
+
+- a. utilizzare un ufficio doganale aperto per il traffico merci; e
+- b. dichiarare le merci secondo le disposizioni generali della legislazione doganale.
+
+[^34-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 35
+
+**Utilizzazione di una strada doganale con cartello «Nulla da dichiarare / Merci da dichiarare»**
+
+### (art. 28 cpv. 1 lett. d e 33 cpv. 2 LD)
+
+<sup>1</sup> L’utilizzazione, al di fuori degli orari d’apertura dell’ufficio doganale, di una strada doganale con il cartello «Nulla da dichiarare / Merci da dichiarare» è ammessa solamente con merci del traffico turistico.
+
+<sup>2</sup>
+
+Il passaggio del confine doganale vale come dichiarazione doganale, se le merci:
+
+- a. sono esenti da dazio;
+- b. non soggiacciono a restrizioni o divieti; e
+- c. non soggiacciono all’obbligo di certificati o autorizzazioni.
+
+<sup>3</sup> Le merci di cui al capoverso 2 possono essere condotte oltre il confine doganale solo con un mezzo di trasporto impiegato privatamente secondo l’articolo 25 capoverso 1 lettera b, e o f. [^35-1]
+
+<sup>4</sup> Al passaggio del confine doganale la dichiarazione è considerata accettata.
+
+<sup>5</sup> Se introduce nel territorio doganale o asporta da esso merci diverse da quelle di cui al capoverso 2, la persona soggetta all’obbligo di dichiarazione deve dichiarare le merci secondo le disposizioni generali della legislazione doganale.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+### Capitolo 3: Liberazione e sgombero di merci
+
+#### Art. 36
+
+**Documento di riferimento**
+
+### (art. 40 cpv. 1 LD)
+
+Lo sgombero delle merci può essere autorizzato sulla base:
+
+- a. del documento di riferimento timbrato dall’ufficio doganale;
+- b. del documento di trasporto timbrato dall’ufficio doganale;
+- c.[^36-1] del documento di riferimento non timbrato relativo alle merci liberate dal sistema «e-dec», «NCTS Esportazione» o dall’applicazione Internet «e-dec web»;
+- d.[^36-2] dell’indicazione del terminale di dichiarazione secondo cui le merci sono liberate (art. 20*f* cpv. 2 lett. b).
+
+[^36-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+[^36-2]: Introdotta dal n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 37
+
+**Termine per lo sgombero delle merci**
+
+### (art. 40 cpv. 3 LD)
+
+<sup>1</sup> La persona soggetta all’obbligo di dichiarazione deve sgomberare le merci liberate al più tardi il giorno lavorativo seguente la liberazione.
+
+<sup>2</sup> Se le condizioni d’esercizio lo consentono, l’ufficio doganale può, su richiesta, prorogare il termine.
+
+### Capitolo 4: Procedura semplificata per la spedizione e la ricezione
+
+#### Art. 38
+
+**Termine per la dichiarazione doganale**
+
+### (art. 25 cpv. 1 e 42 cpv. 1 lett. a e d LD)
+
+<sup>1</sup> Il destinatario autorizzato deve dichiarare presso l’ufficio doganale di controllo le merci presentate in dogana e dichiarate sommariamente al più tardi il trentesimo giorno seguente la presentazione in dogana.[^38-1]
+
+<sup>2</sup> Per il rimanente si applica l’articolo 4 capoverso 2.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 39
+
+**Modalità di pagamento**
+
+### (art. 42 cpv. 1 lett. a e d nonché 73 cpv. 3 LD; art. 15 cpv. 1 lett. a dell’O del DFF del 4 apr. 2007 sulle dogane)
+
+[^39-1]
+
+Nell’ambito della procedura accentrata di conteggio dell’AFD (PCD), lo speditore autorizzato o il destinatario autorizzato deve pagare l’obbligazione doganale mediante fattura e non in contanti.
+
+[^39-1]: [RS 631.011](https://fedlex.data.admin.ch/eli/cc/2007/251)
+
+#### Art. 40
+
+**Termine per la presentazione della dichiarazione doganale e dei necessari documenti di scorta**
+
+### (art. 25 cpv. 1, 35 nonché 42 cpv. 1 lett. a e d LD)
+
+<sup>1</sup>
+
+Dopo la comunicazione del risultato della selezione, lo speditore autorizzato o il destinatario autorizzato deve presentare all’ufficio doganale di controllo i documenti di cui all’articolo 17 o 17*a*: [^40-1]
+
+- a. prima del controllo doganale, in caso di intervento dell’ufficio doganale di controllo ai sensi dell’articolo 108 o 112 OD;
+- b. al più tardi il giorno lavorativo seguente la comunicazione del risultato della selezione, negli altri casi.
+
+<sup>2</sup> Se le condizioni d’esercizio lo consentono, nei casi di cui al capoverso 1 lettera b l’ufficio doganale di controllo può, su richiesta, prorogare il termine.
+
+[^40-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 10 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
+
+#### Art. 41
+
+**Documento di riferimento**
+
+### (art. 40 cpv. 1 nonché 42 cpv. 1 lett. a e d LD)
+
+Lo sgombero delle merci è autorizzato sulla base:
+
+- a. della liberazione elettronica da parte dell’ufficio doganale di controllo o del documento di riferimento indicato nel rapporto d’accettazione, dopo un intervento dell’ufficio doganale ai sensi dell’articolo 108 o 112 OD;
+- b. di una prova della regolare imposizione, negli altri casi.
+
+### Capitolo 5: Regime nazionale di transito
+
+#### Art. 42
+
+**Genere di sigillo**
+
+### (art. 49 cpv. 2 lett. b LD; art. 153 cpv. 1 OD)
+
+Il suggellamento avviene:
+
+- a. per volume, a condizione che l’ufficio doganale consideri idoneo al suggellamento il mezzo di trasporto; oppure
+- b. per collo.
+
+#### Art. 43
+
+**Spese di suggellamento**
+
+### (art. 49 cpv. 2 lett. b LD; art. 153 cpv. 1 OD)
+
+La persona soggetta all’obbligo di dichiarazione si assume le spese di suggellamento.
+
+#### Art. 44
+
+**Conclusione del regime di transito**
+
+### (art. 49 cpv. 3 LD; art. 155 cpv. 1 OD)
+
+Il regime di transito è considerato concluso se le merci sono regolarmente introdotte nel territorio doganale estero o in un deposito franco doganale oppure immesse in un altro regime doganale.
+
+#### Art. 45
+
+**Scadenza del termine di validità**
+
+### (art. 49 cpv. 3 LD; art. 155 cpv. 1 OD)
+
+Se il documento di transito non può essere scaricato a causa di un incidente o per forza maggiore, il regime di transito viene comunque concluso. Occorre fornire una prova ufficiale dell’impedimento.
+
+#### Art. 46
+
+**Prova dell’identità**
+
+### (art. 49 cpv. 4 LD)
+
+Se il regime di transito per merci che sono già state asportate dal territorio doganale non è concluso regolarmente, l’AFD può subordinare la prova dell’identità alla presentazione di un documento ufficiale, in particolare la decisione di imposizione di un’autorità doganale estera.
+
+### Capitolo 6: Regime di deposito doganale
+
+### Sezione 1: Depositi doganali aperti
+
+#### Art. 47
+
+**Termine per l’inserimento nell’inventario**
+
+### (art. 56 cpv. 1 LD)
+
+Al più tardi il giorno lavorativo seguente la presentazione in dogana, il depositario deve inserire nell’inventario le merci presentate in dogana e dichiarate sommariamente.
+
+#### Art. 48
+
+**Contenuto dell’inventario**
+
+### (art. 56 cpv. 1 LD)
+
+<sup>1</sup> L’inventario deve contenere le indicazioni di cui all’articolo 184 capoverso 1 OD.[^48-1]
+
+<sup>2</sup> Gli articoli 184 capoversi 2–4 e 185 LD si applicano per analogia.[^48-2]
+
+[^48-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 20 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4933](https://fedlex.data.admin.ch/eli/oc/2015/806)).
+[^48-2]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+### Sezione 2: Depositi per merci di gran consumo
+
+#### Art. 49
+
+**Merci ammesse**
+
+### (art. 55 cpv. 1 LD)
+
+Sono considerate merci di gran consumo le merci in quantità pari ad almeno 10 000 chilogrammi di massa netta che, a causa delle loro proprietà fisiche uniformi, sono atte a essere trasbordate e trasportate sfuse.
+
+#### Art. 50 e 51
+
+[^5051-1]
+
+[^5051-1]: Abrogati dal n. I dell’O dell’AFD del 18 ott. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+### Capitolo 7: Regime di ammissione temporanea
+
+#### Art. 52
+
+**Prova dell’identità**
+
+### (art. 58 cpv. 3 LD)
+
+Se il regime di ammissione temporanea per merci che sono già state asportate dal territorio doganale non è concluso regolarmente, l’AFD può subordinare la prova dell’identità alla presentazione di un documento ufficiale, in particolare la decisione di imposizione dell’autorità doganale estera.
+
+#### Art. 53
+
+**Proroga del termine di validità**
+
+### (art. 30 cpv. 2 OD)
+
+Il termine di validità della dichiarazione doganale è prorogato ogni volta al massimo di un anno.
+
+#### Art. 54
+
+**Cavalli**[^54-1]
+
+### (art. 30 cpv. 3 OD)
+
+L’identità dei cavalli condotti oltre il confine doganale o che si trovano sotto vigilanza doganale deve essere provata mediante un passaporto per equidi.
+
+[^54-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+#### Art. 55
+
+**Presentazione della nuova dichiarazione doganale in un secondo momento**[^55-1]
+
+### (art. 162 cpv. 3 OD)
+
+In deroga all’articolo 162 capoverso 3 OD, la nuova dichiarazione doganale può essere presentata entro 30 giorni civili dal trasferimento di proprietà della merce se:
+
+- a. la merce è stata precedentemente dichiarata in forma cartacea e imposta allo scopo d’impiego per la vendita incerta;
+- b. la nuova dichiarazione doganale viene presentata entro il termine di validità della dichiarazione doganale precedente; e
+- c. la presentazione in un secondo momento non comporta alcuna riduzione dei tributi o l’elusione di disposti federali di natura non doganale.
+
+[^55-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 18 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
+
+### Capitolo 8: Autorizzazioni per il perfezionamento attivo e passivo
+
+#### Art. 56
+
+**Rilascio di autorizzazioni da parte della DGD**
+
+### (art. 59 e 60 LD; art. 165–173 OD)
+
+<sup>1</sup> Per le domande di rilascio di un’autorizzazione il richiedente deve utilizzare il modulo di richiesta disponibile in Internet. Egli può utilizzare anche i propri modelli, a condizione che contengano tutte le indicazioni necessarie.
+
+<sup>2</sup> Le indicazioni di cui al capoverso 1 non sono necessarie per le richieste di rinnovo di un’autorizzazione.
+
+<sup>3</sup> Le richieste, munite di una firma valida, devono essere inviate per posta o telefax alla DGD.
+
+#### Art. 57
+
+**Rilascio di autorizzazioni da parte degli uffici doganali**
+
+### (art. 59 e 60 LD; art. 165–173 OD)
+
+Gli uffici doganali rilasciano le autorizzazioni relative al perfezionamento attivo e passivo per le merci e i generi di perfezionamento menzionati nell’allegato.
+
+### Capitolo 9:**** Depositi doganali aperti
+
+[^tit2-chap9-1]
+
+[^tit2-chap9-1]: Introdotto dal n. I dell’O dell’AFD del 20 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4933](https://fedlex.data.admin.ch/eli/oc/2015/806)).
+
+### (art. 66 cpv. 1 LD)
+
+#### Art. 57a
+
+Al più tardi il giorno lavorativo seguente la presentazione in dogana, il depositario deve inserire nell’inventario le merci sensibili presentate in dogana e dichiarate sommariamente.
+
+## Titolo 3: Riscossione dei tributi doganali
+
+#### Art. 58
+
+**Rinuncia alla riscossione dei tributi doganali**
+
+### (art. 71 LD)
+
+<sup>1</sup> Si rinuncia alla riscossione dei tributi doganali che non superano 5 franchi per decisione d’imposizione.
+
+<sup>2</sup>
+
+Fanno eccezione:
+
+- a. le merci del traffico turistico;
+- b. i casi in cui la mancata riscossione è sfruttata in modo abusivo.
+
+#### Art. 59
+
+**Competenza per il condono di tributi doganali**
+
+### (art. 86 LD)
+
+La DGD decide circa il condono di tributi doganali.
+
+#### Art. 60
+
+**Spese per la distruzione di merci**
+
+### (art. 86 LD; art. 220 OD)
+
+Le spese per la distruzione di merci sono assunte dal richiedente.
+
+## Titolo 4: Competenze del personale dell’AFD
+
+(art. 100 cpv. 2 LD)
+
+#### Art. 61
+
+Le competenze di cui agli articoli 101, 102 capoversi 1 e 2 nonché 103–105 LD spettano a:
+
+- a. i membri del Corpo delle guardie di confine;
+- b.[^61-1] i collaboratori delle Sezioni antifrode doganale delle direzioni di circondario e della divisione Cause penali della DGD;
+- c. i collaboratori dell’AFD incaricati dei controlli ai sensi degli articoli 30 e 31 LD nonché della visita ai sensi dell’articolo 36 LD.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O dell’AFD del 16 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2011 5](https://fedlex.data.admin.ch/eli/oc/2011/3)).
+
+## Titolo 5: Disposizioni finali
+
+#### Art. 62
+
+**Diritto previgente: abrogazione**
+
+I seguenti atti normativi sono abrogati:
+
+- 1\. ordinanza della Direzione generale delle dogane del 19 novembre 1987[^62-1] concernente le merci di deposito privato;
+- 2\. regolamento della Direzione generale delle dogane del 25 ottobre 1967[^62-2] concernente il trattamento doganale di materiale di protezione civile importato dalla Confederazione.
+
+[^62-1]: [[RU 1987 2668](https://fedlex.data.admin.ch/eli/oc/1987/2668_2668_2668)]
+[^62-2]: Testo, disponibile solo in tedesco e francese, non pubblicato nella RU.
+
+#### Art. 63
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° maggio 2007.
+
+Allegato
+
+(art. 57)
+
+## Rilascio di autorizzazioni da parte degli uffici doganali
+
+Gli uffici doganali autorizzano il perfezionamento delle merci menzionate qui appresso, a condizione che l’imposizione sia effettuata conformemente alla procedura prescritta dagli articoli 1 e 2 dell’ordinanza del DFF del 4 aprile 2007[^annexu1-lvlu1-1] concernente il traffico di perfezionamento:
+
+<table>
+<tr><td>Merce</td><td>Generi di perfezionamento</td></tr>
+<tr><td>a. Merci private di ogni genere</td><td>Perfezionamento di ogni genere</td></tr>
+<tr><td>b. Merci commerciali di ogni genere</td><td>Riparazione; restauro; lavorazione della superficie come stampa, laccatura, levigatura, fustellatura, o simili</td></tr>
+<tr><td>c. Macchine, apparecchi, software</td><td>Modifica, aggiornamento</td></tr>
+<tr><td>d. Mezzi di trasporto di ogni genere (compresi gli accessori)</td><td>Lavori di carrozzeria, trasformazione, montaggio o simili</td></tr>
+</table>
+
+[^annexu1-lvlu1-1]: [RS 631.016](https://fedlex.data.admin.ch/eli/cc/2007/254)

@@ -1,0 +1,128 @@
+---
+sr: "0.192.110.32"
+title: Zweites Zusatzprotokoll vom 15. Dezember 1956 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
+eli: "https://fedlex.data.admin.ch/eli/cc/1966/789_814_805"
+language: de
+version: 2004-03-17
+adopted: 1956-12-15
+in_force: 1965-11-29
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20040317/de/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20040317-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20040317/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Zweites Zusatzprotokoll zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
+
+0.192.110.32 (Stand am 20. Juli 2004)Nicht löschen bitte "[^t-1] " !!
+
+Übersetzung
+
+Bestimmungen für die Mitglieder der Europäischen Kommission für Menschenrechte
+
+Abgeschlossen in Paris am 15. Dezember 1956 Von der Bundesversammlung genehmigt am 20. September 1965[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 29. November 1965 In Kraft getreten für die Schweiz am 29. November 1965
+
+(Stand am 20. Juli 2004)
+
+[^t-1]: [AS 1966 789](https://fedlex.data.admin.ch/eli/oc/1966/789_814_805); [BBl 1965 I 437](https://fedlex.data.admin.ch/eli/fga/1965/1_437_445_381)
+[^t-2]: [AS 1966 777](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
+
+Die Unterzeichnerregierungen, Mitglieder des Europarates,
+
+in der Erwägung, dass gemäss Artikel 59 der am 4. November 1950[^ingress-1] in Rom unterzeichneten Konvention zum Schutze der Menschenrechte und Grundfreiheiten die Mitglieder der Europäischen Kommission für Menschenrechte (nachstehend als «Kommission» bezeichnet) bei der Wahrnehmung ihrer Aufgaben die in Artikel 40 der Satzung des Europarates[^ingress-2] und in den auf Grund dieses Artikels abgeschlossenen Abkommen vorgesehenen Vorrechte und Immunitäten geniessen;
+
+in der Erwägung, dass es erforderlich ist, diese Vorrechte und Immunitäten in einem Zusatzprotokoll zu dem am 2. September 1949[^ingress-3] in Paris unterzeichneten Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates zu bestimmen und näher zu umschreiben,
+
+sind wie folgt übereingekommen:
+
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-2]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^ingress-3]: [SR 0.192.110.3](https://fedlex.data.admin.ch/eli/cc/1966/779_805_797)
+
+#### Art. 1
+
+Die Mitglieder der Kommission geniessen bei der Wahrnehmung ihrer Aufgaben und auf ihren Reisen zu den Tagungsorten und zurück folgende Vorrechte und Immunitäten:
+
+- a. Immunität von Festnahme oder Haft und von der Beschlagnahme ihres persönlichen Gepäcks und für in ihrer amtlichen Eigenschaft vorgenommene Handlungen, einschliesslich ihrer mündlichen und schriftlichen Äusserungen, Immunität von jeder Gerichtsbarkeit;
+- b. Unverletzlichkeit aller Papiere und Schriftstücke;
+- c. Befreiung für sich selbst und für ihre Ehegatten von Einwanderungsbeschränkungen und allen Formalitäten der Ausländerregistrierung in den in Wahrnehmung ihrer Aufgaben von ihnen besuchten oder durchreisten Ländern.
+
+#### Art. 2
+
+<sup>1.</sup> Die Reisen der Mitglieder der Kommission zu den Tagungsorten der Kommission und zurück dürfen durch keinerlei Beschränkungen verwaltungsmässiger oder sonstiger Art behindert werden.
+
+<sup>2.</sup>
+
+Die Mitglieder der Kommission erhalten für die Zollabfertigung und Devisenkontrolle:
+
+- a. von ihrer eigenen Regierung dieselben Erleichterungen, die den hohen Beamten, die sich in dienstlichem Auftrag vorübergehend ins Ausland begeben, gewährt werden;
+- b. von den Regierungen der anderen Mitgliedstaaten dieselben Erleichterungen, die den Vertretern ausländischer Regierungen, die sich in dienstlichem Auftrag vorübergehend in diesen Ländern aufhalten, gewährt werden.
+
+#### Art. 3
+
+Um den Mitgliedern der Kommission volle Redefreiheit und volle Unabhängigkeit bei der Wahrnehmung ihrer Aufgaben zu sichern, wird ihnen Immunität von der Gerichtsbarkeit bezüglich der mündlichen oder schriftlichen Äusserungen und der von ihnen in Wahrnehmung ihrer Aufgaben vorgenommenen Handlungen auch für die Zeit nach Ablauf ihrer Amtszeit gewährt.
+
+#### Art. 4
+
+Die Vorrechte und Immunitäten werden den Mitgliedern der Kommission nicht zu ihrem persönlichen Vorteil gewährt, sondern um ihnen zu ermöglichen, ihre Aufgaben in voller Unabhängigkeit wahrzunehmen. Die Kommission ist allein befugt, die Immunität ihrer Mitglieder aufzuheben; sie hat nicht nur das Recht, sondern auch die Pflicht, die Immunität eines ihrer Mitglieder in allen Fällen aufzuheben, in denen nach ihrer Auffassung diese Immunität verhindern würde, dass dem Recht Nachachtung verschafft wird, und in denen die Immunität ohne Beeinträchtigung des Zwecks, für den sie gewährt wird, aufgehoben werden kann.
+
+#### Art. 5
+
+Dieses Protokoll liegt für die Mitglieder des Europarates zur Unterzeichnung auf; sie können Vertragsparteien werden,
+
+Die Ratifikationsurkunden werden beim Generalsekretär des Europarates hinterlegt.
+
+- a. indem sie es ohne Vorbehalt der Ratifizierung unterzeichnen oder
+- b. indem sie es unter Vorbehalt der Ratifizierung unterzeichnen und später ratifizieren.
+
+#### Art. 6
+
+<sup>1.</sup> Dieses Protokoll tritt in Kraft, sobald es von drei Mitgliedern des Europarates gemäss Artikel 5 entweder ohne Vorbehalt der Ratifizierung unterzeichnet oder ratifiziert worden ist.
+
+<sup>2.</sup> Für jedes Mitglied, das es später entweder ohne Vorbehalt der Ratifizierung unterzeichnet oder ratifiziert, tritt dieses Protokoll mit dem Tage der Unterzeichnung oder der Hinterlegung der Ratifikationsurkunde in Kraft.
+
+#### Art. 7
+
+Der Generalsekretär des Europarates notifiziert den Mitgliedern des Rates den Zeitpunkt des Inkrafttretens dieses Protokolls und die Namen der Mitglieder, die es entweder ohne Vorbehalt der Ratifizierung unterzeichnet oder ratifiziert haben.
+
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Paris am 15. Dezember 1956 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einem einzigen Exemplar, das im Archiv des Europarates hinterlegt wird. Der Generalsekretär übermittelt allen Unterzeichnerregierungen beglaubigte Abschriften. (Es folgen die Unterschriften)
+
+Geltungsbereich des Zweiten Zusatzprotokolls am 17. März 2004
+
+<table>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>4. Juni</td><td>1998 U</td><td>4. Juni</td><td>1998</td></tr>
+<tr><td>Belgien</td><td>7. September</td><td>1961</td><td>7. September</td><td>1961</td></tr>
+<tr><td>Dänemark</td><td>15. Dezember</td><td>1956 U</td><td>15. Dezember</td><td>1956</td></tr>
+<tr><td>Deutschland</td><td>7. Juli</td><td>1960</td><td>7. Juli</td><td>1960</td></tr>
+<tr><td>Finnland</td><td>11. Dezember</td><td>1989</td><td>11. Dezember</td><td>1989</td></tr>
+<tr><td>Frankreich</td><td>10. März</td><td>1978</td><td>10. März</td><td>1978</td></tr>
+<tr><td>Griechenland</td><td>2. Februar</td><td>1961</td><td>2. Februar</td><td>1961</td></tr>
+<tr><td>Irland</td><td>21. September</td><td>1967</td><td>21. September</td><td>1967</td></tr>
+<tr><td>Island</td><td>15. Dezember</td><td>1956 U</td><td>15. Dezember</td><td>1956</td></tr>
+<tr><td>Italien</td><td>4. Juni</td><td>1958</td><td>4. Juni</td><td>1958</td></tr>
+<tr><td>Kroatien</td><td>11. Oktober</td><td>1997</td><td>11. Oktober</td><td>1997</td></tr>
+<tr><td>Lettland</td><td>15. Januar</td><td>1998 U</td><td>15. Januar</td><td>1998</td></tr>
+<tr><td>Liechtenstein</td><td>11. Dezember</td><td>1979</td><td>11. Dezember</td><td>1979</td></tr>
+<tr><td>Luxemburg</td><td>8. Januar</td><td>1960</td><td>8. Januar</td><td>1960</td></tr>
+<tr><td>Malta</td><td>6. Mai</td><td>1969</td><td>6. Mai</td><td>1969</td></tr>
+<tr><td>Niederlande\*</td><td>29. April</td><td>1957 U</td><td>29. April</td><td>1957</td></tr>
+<tr><td>Norwegen</td><td>15. Dezember</td><td>1956 U</td><td>15. Dezember</td><td>1956</td></tr>
+<tr><td>Österreich</td><td>13. November</td><td>1958 U</td><td>13. November</td><td>1958</td></tr>
+<tr><td>Polen</td><td>22. April</td><td>1993</td><td>22. April</td><td>1993</td></tr>
+<tr><td>Portugal</td><td>6. Juli</td><td>1982</td><td>6. Juli</td><td>1982</td></tr>
+<tr><td>Rumänien</td><td>4. Oktober</td><td>1994 U</td><td>4. Oktober</td><td>1994</td></tr>
+<tr><td>Russland</td><td>28. Februar</td><td>1996 U</td><td>28. Februar</td><td>1996</td></tr>
+<tr><td>San Marino</td><td>22. März</td><td>1989</td><td>22. März</td><td>1989</td></tr>
+<tr><td>Schweden</td><td>15. Dezember</td><td>1956 U</td><td>15. Dezember</td><td>1956</td></tr>
+<tr><td>Schweiz</td><td>29. November</td><td>1965</td><td>29. November</td><td>1965</td></tr>
+<tr><td>Slowakei</td><td>15. Juli</td><td>1997</td><td>15. Juli</td><td>1997</td></tr>
+<tr><td>Slowenien</td><td>8. November</td><td>1994</td><td>8. November</td><td>1994</td></tr>
+<tr><td>Spanien</td><td>23. Juni</td><td>1989</td><td>23. Juni</td><td>1989</td></tr>
+<tr><td>Tschechische Republik</td><td>30. Mai</td><td>1995</td><td>30. Mai</td><td>1995</td></tr>
+<tr><td>Türkei</td><td>7. Januar</td><td>1960</td><td>7. Januar</td><td>1960</td></tr>
+<tr><td>Ungarn</td><td>12. Januar</td><td>1996</td><td>12. Januar</td><td>1996</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>8. Juli</td><td>1958</td><td>8. Juli</td><td>1958</td></tr>
+<tr><td>Zypern</td><td>30. November</td><td>1967</td><td>30. November</td><td>1967</td></tr>
+<tr><td colspan="5">\* Erklärung siehe hiernach. Die Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz.</td></tr>
+</table>

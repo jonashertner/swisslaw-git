@@ -1,0 +1,243 @@
+---
+sr: "513.12"
+title: "Ordinanza del 21 maggio 2008 sullo stato maggiore del Consiglio federale Centrale nazionale d'allarme (OSMCN)"
+short: OSMCN
+eli: "https://fedlex.data.admin.ch/eli/cc/2008/351"
+language: it
+version: 2021-01-01
+adopted: 2008-05-21
+in_force: 2008-06-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-351-20210101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20210101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sullo Stato maggiore del Consiglio federale Centrale nazionale d’allarme
+
+(OSMCN)**[^t-1]**
+
+del 21 maggio 2008 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 4 capoverso 2 dell’organizzazione dell’esercito del 18 marzo 2016[^ingress-1],[^ingress-2]
+
+ordina:
+
+[^ingress-1]: [RS 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+
+#### Art. 1
+
+**Oggetto e campo d’applicazione**
+
+<sup>1</sup> La presente ordinanza disciplina i compiti, l’organizzazione, l’istruzione e la chiamata in servizio dello stato maggiore del Consiglio federale Centrale nazionale d’allarme (Stato maggiore).
+
+<sup>2</sup> Salvo disposizioni particolari della presente ordinanza, è applicabile il pertinente diritto militare.
+
+#### Art. 2
+
+**Posizione**
+
+Lo Stato maggiore è subordinato all’Ufficio federale della protezione della popolazione (UFPP).
+
+#### Art. 3
+
+**Compito**[^3-1]
+
+<sup>1</sup> Lo Stato maggiore coadiuva l’UFPP nello svolgimento dei suoi compiti.
+
+<sup>2</sup> L’UFPP definisce la missione dello Stato maggiore in caso d’impiego.
+
+[^3-1]: Nuovo testo giusta l’all. 3 n. II 4 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+
+#### Art. 4
+
+**Centrale nazionale d’allarme**
+
+La CENAL:
+
+- a.[^4-1] ...
+- b. provvede ai preparativi per l’impiego dello Stato maggiore;
+- c.[^4-2] ...
+- d. tiene i controlli di corpo per lo Stato maggiore;
+- e. mette a disposizione, a condizione che sia disponibile una persona idonea, il comandante dello Stato maggiore.
+
+[^4-1]: Abrogata dall’all. 3 n. II 4 dell’O dell’11 nov. 2020 sulla protezione della popolazione, con effetto dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^4-2]: Abrogata dall’all. 3 n. II 4 dell’O dell’11 nov. 2020 sulla protezione della popolazione, con effetto dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+
+#### Art. 5
+
+**Comando**
+
+<sup>1</sup> Il comandante dello Stato maggiore è nominato dal Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) su proposta dell’UFPP.
+
+<sup>2</sup>
+
+Egli dirige:
+
+- a. lo Stato maggiore;
+- b.[^5-1] il comando degli impianti di condotta protetti.
+
+<sup>3</sup> Per quanto attiene alle mutazioni della funzione o del grado di membri dello Stato maggiore, egli è equiparato al comandante di una grande formazione.
+
+<sup>4</sup> Nel servizio d’assistenza e in servizio attivo, egli trasmette all’esercito il servizio sanitario, l’approvvigionamento dello Stato maggiore e la protezione degli impianti di condotta protetti.[^5-2]
+
+[^5-1]: Nuovo testo giusta l’all. 3 n. II 4 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^5-2]: Nuovo testo giusta l’all. 3 n. II 4 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+
+#### Art. 6
+
+**Effettivo regolamentare**
+
+Il DDPS determina l’effettivo regolamentare dello Stato maggiore.
+
+#### Art. 7
+
+**Incorporazione**
+
+<sup>1</sup> I dipendenti dell’UFPP soggetti all’obbligo di prestare servizio militare la cui funzione civile corrisponde a una particolare funzione dello Stato maggiore (funzione specifica dello SM) sono incorporati nello Stato maggiore in tale funzione specifica. Essi possono essere vincolati contrattualmente a prestare i necessari servizi d’istruzione entro due anni dall’incorporazione.[^7-1]
+
+<sup>2</sup>
+
+Su richiesta del comandante possono essere incorporati nello Stato maggiore:
+
+- a. le persone soggette all’obbligo di prestare servizio militare che dispongono delle conoscenze necessarie per assumere una funzione specifica di stato maggiore;
+- b.[^7-2] i dipendenti dell’UFPP soggetti all’obbligo di prestare servizio militare la cui funzione civile non corrisponde a una funzione specifica dello Stato maggiore;
+- c. le persone soggette all’obbligo di prestare servizio militare necessarie per raggiungere l’effettivo regolamentare di funzioni non specifiche di stato maggiore.
+
+<sup>3</sup> Per l’incorporazione di persone soggette all’obbligo di prestare servizio militare in funzioni specifiche di stato maggiore, in deroga all’articolo 72 capoverso 2 lettera b numero 1 dell’ordinanza del 22 novembre 2017[^7-3] sull’obbligo di prestare servizio militare (OOPSM), devono essere assolti i servizi d’istruzione citati nell’appendice alla presente ordinanza.[^7-4]
+
+<sup>4</sup> I membri dello Stato maggiore restano incorporati nell’Arma o nel servizio ausiliario al quale appartenevano prima dell’incorporazione.
+
+<sup>5</sup> In deroga all’articolo 109 capoverso 3 OOPSM, la durata dell’incorporazione nello Stato maggiore di capitani e ufficiali superiori per i quali non è previsto un perfezionamento dipende dalle esigenze dello Stato maggiore.[^7-5]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^7-3]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^7-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^7-5]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+
+#### Art. 8
+
+**Attribuzione e assegnazione**
+
+Allo Stato maggiore possono essere attribuite o assegnate persone di cui all’articolo 6 della legge militare del 3 febbraio 1995[^8-1] a partire dal compimento del diciottesimo anno d’età.
+
+[^8-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 9
+
+**Istruzione**
+
+<sup>1</sup> Il comandante dello Stato maggiore stabilisce anno per anno i servizi d’istruzione dello Stato maggiore e la loro durata d’intesa con il direttore dell’UFPP e comunica tempestivamente le date ai membri dello Stato maggiore soggetti all’obbligo di prestare servizio.[^9-1]
+
+<sup>2</sup> Egli svolge i servizi d’istruzione.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+
+#### Art. 10
+
+**Chiamata in servizio**
+
+<sup>1</sup>
+
+Il comandante dello Stato maggiore chiama in servizio i membri dello Stato maggiore:
+
+- a. per svolgere servizi d’istruzione;
+- b. per prestare interventi in caso d’emergenza d’intesa con il direttore dell’UFPP.
+
+<sup>2</sup> Egli può obbligare membri dello stato maggiore a garantire la loro raggiungibilità anche fuori servizio.
+
+<sup>3</sup> La chiamata in servizio per svolgere esercitazioni d’allarme ed interventi può avvenire tramite qualunque mezzo di comunicazione appropriato.
+
+<sup>4</sup> Il comandante dello Stato maggiore può, se necessario, ordinare lo svolgimento del servizio in abiti civili.
+
+#### Art. 11
+
+**Adempimento dei servizi d’istruzione**
+
+I membri dello Stato maggiore soggetti all’obbligo militare svolgono il servizio d’istruzione nella loro funzione:
+
+- a. in seno allo Stato maggiore;
+- b. in un altro stato maggiore del Consiglio federale;
+- c. in formazioni dell’esercito, presso scuole, in corsi ed esercitazioni, durante la preparazione di esercitazioni e nell’ambito di eventi della cooperazione nazionale per la sicurezza.
+
+#### Art. 12
+
+**Differimento del servizio**[^12-1]
+
+Indipendentemente dalla prestazione di servizio secondo l’articolo 11, le domande di differimento del servizio dei membri dello Stato maggiore sono trattate e giudicate dal comandante. Sono applicabili le istruzioni dell’Aggruppamento Difesa sulle procedure di differimento del servizio.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+
+#### Art. 13
+
+**Promozione**[^13-1]
+
+Per la promozione in funzioni specifiche di stato maggiore di suoi membri soggetti all’obbligo militare, in deroga all’articolo 72 capoverso 2 lettera b numero 1 OOPSM[^13-2], devono essere assolti i servizi d’istruzione citati nell’appendice alla presente ordinanza.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^13-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 14
+
+**Controlli militari**[^14-1]
+
+In deroga all’articolo 4 capoverso 2 e all’allegato 1 numero 1.8.98 dell’ordinanza del 16 dicembre 2009[^14-2] sui sistemi d’informazione militari, i dati dei membri dello Stato maggiore concernenti le conoscenze particolari acquisite nella vita civile, come lingue o formazione particolare, possono essere rilevati senza previo consenso delle persone interessate.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^14-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+
+#### Art. 15
+
+**Esecuzione**
+
+Il DDPS è incaricato dell’esecuzione della presente ordinanza.
+
+#### Art. 16
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 27 novembre 2000[^16-1] sullo Stato maggiore del Consiglio federale Centrale nazionale d’allarme è abrogata.
+
+[^16-1]: [[RU 2001 11](https://fedlex.data.admin.ch/eli/oc/2001/3)]
+
+#### Art. 17
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 15 giugno 2008.
+
+Allegato*[^t-2]*
+
+(art. 7 cpv. 3 e 13)
+
+## Incorporazione e promozione dei membri dello Stato maggiore soggetti all’obbligo di prestare servizio militare in funzioni specifiche di stato maggiore
+
+[^t-2]: Nuovo testo giusta il n. II dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+
+### 1 Disposizioni generali
+
+- 1\.1 Per le funzioni specifiche di stato maggiore non indicate nella seguente tabella valgono le condizioni di promozione e incorporazione statuite dall’OOPSM[^annexu1-lvlu1-lvl1-1].
+- 1\.2 A seconda della provenienza o della futura funzione dei partecipanti, il comandante dello Stato maggiore, d’intesa con lo stato maggiore di condotta dell’esercito, invece di un corso di stato maggiore può prevedere un servizio di uguale durata in seno all’Amministrazione nell’interesse della CENAL.
+
+[^annexu1-lvlu1-lvl1-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+### 2 Funzioni specifiche di stato maggiore
+
+Per i gradi esposti di seguito devono essere assolti i seguenti servizi d’istruzione:
+
+<table>
+<tr><th>Grado</th><th>Funzione</th><th>Servizio d’istruzione</th></tr>
+<tr><td>1. ten o I ten</td><td>Specialista</td><td>C SM I, parte 1</td></tr>
+<tr><td>2. cap o magg</td><td>Specialista o esperto/a</td><td>C SM I, parte 2</td></tr>
+<tr><td>3. maggiore</td><td>sost cdt</td><td>C cond II, parte 1</td></tr>
+<tr><td>4. magg o ten col</td><td>Specialista, esperto/a o capo intervento</td><td>C SM II, parte 1/2</td></tr>
+<tr><td>5. ten col</td><td>sost cdt</td><td>C cond II, parte 2</td></tr>
+<tr><td>6. col</td><td>cdt</td><td>C cond II</td></tr>
+<tr><td colspan="3">Legenda: ten tenente I ten primo tenente cap capitano magg maggiore ten col tenente colonnello col colonnello C SM Corso di Stato maggiore C cond Corso di condotta</td></tr>
+</table>

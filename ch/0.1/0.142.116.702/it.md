@@ -1,0 +1,119 @@
+---
+sr: "0.142.116.702"
+title: "Accordo del 19 maggio 2011 tra il Consiglio federale svizzero e il Governo di Saint Lucia sulla soppressione reciproca dell'obbligo del visto per i titolari di un passaporto diplomatico, ufficiale o di servizio"
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/440"
+language: it
+version: 2012-07-11
+adopted: 2011-05-19
+in_force: 2012-07-11
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/440/20120711/it/xml/fedlex-data-admin-ch-eli-cc-2012-440-20120711-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/440/20120711/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo tra il Consiglio federale svizzero e il Governo di Saint Lucia sulla soppressione reciproca dell’obbligo del visto per i titolari di un passaporto diplomatico, ufficiale o di servizio
+
+RU **2012** 3807
+
+Traduzione*[^t-1]*
+
+Concluso il 19 maggio 2011 Entrato in vigore mediante scambio di note l’11 luglio 2012
+
+(Stato 11 luglio 2012)
+
+[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+
+Il Consiglio federale svizzero e il Governo di Saint Lucia,
+
+(detti in seguito «Parti contraenti»),
+
+nell’intento di agevolare la circolazione fra la Svizzera e Saint Lucia (dette in seguito «gli Stati») dei titolari di un passaporto diplomatico, ufficiale o di servizio,
+
+animati dal desiderio di rafforzare la collaborazione reciproca fondata sulla fiducia e sulla solidarietà,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+**Personale diplomatico e consolare accreditato**
+
+<sup>1.</sup> I cittadini di ciascuno Stato che sono titolari di un passaporto diplomatico, ufficiale o di servizio nazionale valido e sono membri di una missione diplomatica, di un posto consolare o di una missione permanente del loro Stato presso un’organizzazione con cui è stato stipulato un accordo di sede possono entrare nel territorio dell’altro Stato e soggiornarvi senza visto per la durata delle loro funzioni. Lo Stato accreditante notifica anticipatamente per via diplomatica allo Stato accreditatore il titolo e la funzione delle persone summenzionate.
+
+<sup>2.</sup> I familiari delle persone di cui al paragrafo 1 beneficiano delle medesime agevolazioni a condizione che siano cittadini dello Stato accreditante, che siano titolari di un passaporto diplomatico, ufficiale o di servizio nazionale valido, che vivano nella stessa economia domestica e che lo Stato accreditatore li riconosca come familiari autorizzati a vivere con le persone di cui al paragrafo 1.
+
+#### Art. 2
+
+**Altri motivi di viaggio**
+
+<sup>1.</sup> I cittadini di ciascuno Stato che sono titolari di un passaporto diplomatico, ufficiale o di servizio nazionale valido e non sono contemplati dal paragrafo 1 dell’articolo 1 possono entrare nell’altro Stato, soggiornarvi fino a 90 giorni nell’arco di 180 giorni oppure uscirne senza visto, purché non vi esercitino un’attività lucrativa indipendente o salariata.
+
+<sup>2.</sup> Per le persone che entrano nel territorio svizzero dopo aver transitato attraverso uno o più Stati che applicano integralmente le disposizioni dell’acquis di Schengen sull’attraversamento delle frontiere e sui visti, il termine di 90 giorni decorre dalla data in cui è stata attraversata la frontiera esterna dello spazio composti da tali Stati.
+
+#### Art. 3
+
+**Rispetto della legislazione nazionale**
+
+Durante il loro soggiorno, i cittadini di ciascuno Stato rispettano le regolamentazioni in materia di entrata e soggiorno, come pure la legislazione nazionale vigente sul territorio dell’altro Stato.
+
+#### Art. 4
+
+**Rifiuto d’entrata**
+
+Le autorità competenti di ciascuna Parte contraente si riservano il diritto di rifiutare l’entrata o il soggiorno nel proprio territorio ai cittadini dell’altro Stato contemplati dagli articoli 1 e 2 del presente Accordo, per ragioni di protezione della sicurezza nazionale, di ordine pubblico, di salute pubblica o per altri gravi motivi.
+
+#### Art. 5
+
+**Notifica dei documenti pertinenti**
+
+<sup>1.</sup> Le autorità competenti delle Parti contraenti si scambiano per via diplomatica i facsimile dei loro passaporti entro 30 giorni dalla firma del presente Accordo.
+
+<sup>2.</sup> La Parte contraente che modifica i propri passaporti invia all’altra Parte contraente i nuovi facsimile unitamente a tutte le informazioni rilevanti sull’utilizzo dei documenti, al più tardi 30 giorni prima della loro introduzione.
+
+#### Art. 6
+
+**Risoluzione delle controversie**
+
+<sup>1.</sup> Le autorità competenti delle Parti contraenti si consultano sui problemi che possono derivare dall’applicazione o dall’interpretazione del presente Accordo.
+
+<sup>2.</sup> Le Parti contraenti risolvono per via diplomatica tutte le controversie derivanti dall’applicazione o dall’interpretazione del presente Accordo.
+
+#### Art. 7
+
+**Modifiche**
+
+Le Parti contraenti possono notificarsi per via diplomatica le modifiche al presente Accordo da esse convenute. Le modifiche entrano in vigore il giorno della ricezione della seconda notifica con la quale le Parti contraenti si comunicano di aver espletato le necessarie procedure interne.
+
+#### Art. 8
+
+**Clausola di non incidenza**
+
+Il presente Accordo lascia impregiudicati gli obblighi delle Parti contraenti derivanti dalle convenzioni internazionali cui hanno aderito, in particolare la Convenzione di Vienna del 18 aprile 1961[^8-1] sulle relazioni diplomatiche e la Convenzione di Vienna del 24 aprile 1963[^8-2] sulle relazioni consolari.
+
+[^8-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^8-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+
+#### Art. 9
+
+**Entrata in vigore**
+
+Il presente Accordo è concluso a tempo indeterminato. Entra in vigore 30 giorni dopo la ricezione dell’ultima notifica scritta con la quale le Parti contraenti si comunicano di aver espletato le necessarie procedure interne previste dalla loro legislazione nazionale.
+
+#### Art. 10
+
+**Sospensione**
+
+Ciascuna Parte contraente può sospendere integralmente o parzialmente l’applicazione delle disposizioni del presente Accordo per ragioni di protezione della sicurezza nazionale, di ordine pubblico, di salute pubblica o per altri gravi motivi. Tale sospensione è notificata senza indugio per via diplomatica all’altra Parte contraente ed entra in vigore il giorno in cui quest’ultima riceve la notifica. La Parte contraente che ha sospeso l’applicazione del presente Accordo informa senza indugio l’altra Parte contraente non appena i motivi della sospensione non sussistono più.
+
+#### Art. 11
+
+**Denuncia**
+
+Ciascuna Parte contraente può notificare in qualsiasi momento all’altra Parte contraente per via diplomatica la sua decisione di denunciare il presente Accordo. La denuncia dell’Accordo ha effetto 30 giorni dopo la ricezione della notifica da parte dell’altra Parte contraente.
+
+Fatto a Castries, il 19 maggio 2011, in due esemplari nelle lingue tedesca e inglese, entrambi i testi facenti parimenti fede. In caso di divergenze d’interpretazione, è utilizzato il testo inglese.
+
+<table>
+<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo di Saint Lucia:</td></tr>
+<tr><td>Markus-Alexander Antonietti</td><td>Lenard Montoute</td></tr>
+</table>

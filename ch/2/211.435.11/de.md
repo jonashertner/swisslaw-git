@@ -1,0 +1,295 @@
+---
+sr: "211.435.11"
+title: Verordnung des EJPD vom 8. Dezember 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen (EÖBV-EJPD)
+short: EÖBV-EJPD
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/30"
+language: de
+version: 2018-02-01
+adopted: 2017-12-08
+in_force: 2018-02-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20180201/de/xml/fedlex-data-admin-ch-eli-cc-2018-30-20180201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EJPD über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen
+
+(EÖBV-EJPD)
+
+vom 8. Dezember 2017 (Stand am 1. Februar 2018)
+
+Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
+
+gestützt auf die Artikel 10 Absatz 5, 19 Absatz 3, 20 Absatz 2 und 26 der Verordnung vom 8. Dezember 2017[^ingress-1] über die elektronische öffentliche Beurkundung (EÖBV),
+
+verordnet:
+
+[^ingress-1]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+
+## 1. Abschnitt: Gegenstand
+
+#### Art. 1
+
+<sup>1</sup> Diese Verordnung regelt die technischen und organisatorischen Aspekte der Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen.
+
+<sup>2</sup>
+
+Sie regelt insbesondere:
+
+- a. die technischen Anforderungen an Schnittstellen, über die Daten über Urkundspersonen aus anderen Systemen an das Schweizerische Register der Urkundspersonen (UPReg) geliefert werden;
+- b. das Erstellen elektronischer Dokumente und das Anbringen von Verbalen;
+- c. die Darstellung der elektronischen Signatur der Urkundsperson und den Signiervorgang;
+- d. die Form und den Inhalt der Zulassungsbestätigung;
+- e. das Abrufen und Anbringen der Zulassungsbestätigung;
+- f. die Ausgabe und das Anbringen des elektronischen Siegels des UPReg;
+- g. das Anbringen des allfälligen zusätzlichen kantonalen elektronischen Siegels;
+- h. den Gegenstand der Prüfung, die das Validatorsystem durchführt.
+
+## 2. Abschnitt: Lieferung der Daten über Urkundspersonen aus anderen Systemen über eine Schnittstelle an das UPReg
+
+#### Art. 2
+
+**Technische Anforderungen**
+
+### (Art. 8 Abs. 4 und Art. 20 EÖBV)
+
+Die technischen Anforderungen an Schnittstellen zum UPReg, über die Daten über Urkundspersonen aus anderen Systemen geliefert werden, sind im Anhang 1 aufgeführt.
+
+#### Art. 3
+
+**Gesuch um Bewilligung, Daten zu liefern**
+
+### (Art. 20 EÖBV)
+
+Das Gesuch um Bewilligung, Daten zu liefern, muss den Nachweis enthalten, dass die technischen Anforderungen nach Artikel 2 erfüllt sind.
+
+## 3. Abschnitt: Erstellen elektronischer Dokumente und Verbale
+
+#### Art. 4
+
+**Einleseneines Papierdokuments**
+
+### (Art. 11 Abs. 2 Bst. a, Art. 12 Bst. a, Art. 13 Bst. a und Art. 15 Bst. a EÖBV)
+
+Beim Einlesen eines Papierdokuments wählt die Urkundsperson die Einrichtungen, Hilfsmittel und Einstellungen, einschliesslich der Auflösung, so, dass:
+
+- a. keine wesentlichen Informationen verlorengehen oder verändert werden;
+- b. nur so viel Speicherplatz wie nötig beansprucht wird.
+
+#### Art. 5
+
+**Verbalseite und Verbal**
+
+### (Art. 10 Abs. 1 Bst. b und e sowie Abs. 3 EÖBV)
+
+<sup>1</sup> Die Verbalseite muss das Seitenformat DIN A4 hoch aufweisen.
+
+<sup>2</sup> Der obere Drittel der Verbalseite ist für das Ausfertigungs- oder Beglaubigungsverbal und für die elektronische Signatur der Urkundsperson bestimmt. Der mittlere Drittel der Verbalseite bleibt frei für die Zulassungsbestätigung. Der untere Drittel der Verbalseite bleibt frei für das allfällige kantonale elektronische Siegel nach Artikel 10 Absatz 3 EÖBV.
+
+<sup>3</sup> Das Bundesamt für Justiz (BJ) kann in Zusammenarbeit mit den Berufsverbänden der Urkundspersonen Musterverbale erstellen und veröffentlichen.
+
+#### Art. 6
+
+**Dateiformate der elektronischen Dokumente**
+
+### (Art. 10 Abs. 1 Bst. c EÖBV)
+
+Elektronische Dokumente müssen in einem anerkannten elektronischen Dateiformat erstellt und gespeichert werden. Die anerkannten Dateiformate sind im Anhang 2 aufgeführt.
+
+## 4. Abschnitt: Sichtbare Darstellung der Signatur der Urkundsperson und Signiervorgang
+
+#### Art. 7
+
+<sup>1</sup> Die elektronische Signatur der Urkundsperson kann mit einer im Dokument sichtbaren Darstellung verknüpft werden. In diesem Fall muss diese alle im Feld «Common Name» (CN) des Zertifikats enthaltenen Namen und Vornamen der Urkundsperson enthalten. Die dabei verwendeten Schriften müssen in das Dokument eingefügt werden.
+
+<sup>2</sup> Die Signatur muss so in das Dokument eingefügt werden, dass das zur Zulassungsbestätigung gehörende elektronische Siegel des UPReg in einem nachfolgenden Schritt hinzugefügt werden kann.
+
+## 5. Abschnitt: Form und Inhalt der Zulassungsbestätigung
+
+#### Art. 8
+
+**Form und technischer Inhalt der Zulassungsbestätigung**
+
+### (Art. 10 Abs. 2 EÖBV)
+
+<sup>1</sup> Das UPReg gibt die sichtbaren Elemente der Zulassungsbestätigung als Grafik aus.
+
+<sup>2</sup> Das elektronische Siegel des UPReg enthält in der Signaturerklärung die Seriennummer des Zertifikats, das die Urkundsperson zum Signieren verwendet hat.
+
+## 6. Abschnitt: Abrufen und Anbringen der Zulassungsbestätigung
+
+#### Art. 9
+
+**Abrufen der Zulassungsbestätigung**
+
+### (Art. 7 Abs. 1 Bst. i, Art. 10 Abs. 1 Bst. e und Art. 20 EÖBV)
+
+<sup>1</sup> Die Urkundsperson ruft die Zulassungsbestätigung über ein Programm oder über einen vom BJ zugelassenen Dritten beim UPReg ab.
+
+<sup>2</sup> Sie identifiziert sich dabei mittels eines Identifikationsmittels nach Artikel 7 Absatz 1 Buchstabe i EÖBV, basierend auf Zertifikaten von einer nach dem Bundesgesetz vom 18. März 2016[^9-1] über die elektronische Signatur (ZertES) anerkannten Anbieterin oder auf einem nach ZertES anerkannten Identifikationsverfahren.
+
+<sup>3</sup>
+
+Das eingesetzte Programm überprüft, ob:
+
+- a. das Dokument ein anerkanntes Dateiformat nach Artikel 6 aufweist;
+- b. die Verbalseite das Seitenformat DIN A4 (210 mm breit × 297 mm hoch) mit zulässigen Abweichungen von ± 10 mm Breite und ± 20 mm Höhe aufweist; und
+- c. die im Dokument angebrachte Signatur der Urkundsperson gültig ist.
+
+<sup>4</sup>
+
+Es übermittelt dem UPReg danach nur die folgenden Informationen:
+
+- a. die aus dem Dokument extrahierte Signatur mit Zeitstempel;
+- b. das der Signatur zugrunde liegende Zertifikat der Urkundsperson;
+- c. die zur Authentifizierung der Urkundsperson notwendigen Daten.
+
+[^9-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+#### Art. 10
+
+**Vermittlung des Zugriffs auf das UPReg durch Dritte**
+
+### (Art. 10 Abs. 4 und Art. 20 EÖBV)
+
+<sup>1</sup> Die technischen Anforderungen für die Vermittlung des Zugriffs auf das UPReg sind im Anhang 3 aufgeführt.
+
+<sup>2</sup> Das Gesuch von Dritten um Bewilligung, den Zugriff auf das UPReg zu vermitteln, enthält Angaben, wie die Vorgaben gemäss Anhang 3 erfüllt sind.
+
+#### Art. 11
+
+**Voraussetzungen für die Ausgabe der Zulassungsbestätigung**
+
+Das UPReg gibt die Zulassungsbestätigung nur aus, wenn die folgenden Bedingungen erfüllt sind:
+
+- a. Die Urkundsperson ist im Zeitpunkt des Bezugs der Zulassungsbestätigung gemäss dem UPReg befugt, elektronische öffentliche Urkunden oder elektronische Beglaubigungen zu erstellen.
+- b. Die Person identifiziert sich gegenüber dem UPReg.
+- c. Die identifizierte Person ist identisch mit der Person, für deren Signatur die Zulassungsbestätigung bezogen werden soll.
+
+#### Art. 12
+
+**Ausgabe der Zulassungsbestätigung**
+
+Das UPReg gibt die Zulassungsbestätigung als Grafik sowie in maschinenlesbarer Form aus.
+
+#### Art. 13
+
+**Anbringen der Zulassungsbestätigung**
+
+### (Art. 10 Abs. 1 Bst. e EÖBV)
+
+<sup>1</sup> Das von der Urkundsperson eingesetzte Programm fügt die vom UPReg ausgegebene Grafik ein.
+
+<sup>2</sup> Es fügt den maschinenlesbaren Teil der Zulassungsbestätigung in das elektronische Siegel des UPReg ein.
+
+<sup>3</sup> Es erstellt eine neue eindeutige kryptografische Prüfsumme für das Dokument und übermittelt diese an das UPReg.
+
+## 7. Abschnitt: Ausgabe und Anbringen des elektronischen Siegels des UPReg
+
+#### Art. 14
+
+**Ausgabe des Siegels**
+
+<sup>1</sup> Das UPReg signiert die kryptografische Prüfsumme, fügt ihr einen qualifizierten elektronischen Zeitstempel nach Artikel 2 Buchstabe j ZertES[^14-1] bei und gibt sie an das aufrufende Programm zurück.
+
+<sup>2</sup> Das elektronische Siegel des UPReg beruht auf einem auf die Organisation lautenden Zertifikat einer nach ZertES anerkannten Anbieterin von Zertifizierungsdiensten; als Organisation ist im Feld Common Name «Swiss Confederation – Swiss Register of Notaries» anzugeben.
+
+[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+
+#### Art. 15
+
+**Anbringen des Siegels an das Dokument**
+
+Das von der Urkundsperson eingesetzte Programm fügt das Siegel des UPReg in das Dokument ein und speichert dieses so ab.
+
+## 8. Abschnitt: Kantonale Zertifikate
+
+#### Art. 16
+
+Die zuständige Behörde stellt dem UPReg die geregelten Zertifikate zu, die zum Erstellen kantonaler elektronischer Siegel nach Artikel 10 Absatz 3 EÖBV verwendet werden oder wurden.
+
+## 9. Abschnitt: Gegenstand der Prüfung, die das Validatorsystem durchführt
+
+#### Art. 17
+
+Das Validatorsystem prüft folgende technische Eigenschaften elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen nach den Artikeln 10–16 EÖBV:
+
+- a. Das Dokument ist von der Urkundsperson gültig nach Artikel 10 Absatz 1 Buchstabe d EÖBV signiert; allfällig vorgängig angebrachte Signaturen werden dabei nicht beachtet*.*
+- b. Das Dokument trägt ein gültiges elektronisches Siegel des UPReg nach Artikel 10 Absatz 2 Buchstabe b EÖBV.
+- c. Das Siegel des UPReg enthält in der Signaturerklärung die Seriennummer des qualifizierten Zertifikats der Urkundsperson*.*
+- d. Das Dokument ist seit dem Anbringen der Zulassungsbestätigung nicht mehr verändert oder signiert worden. Ausgenommen sind allfällig angebrachte kantonale Siegel nach Artikel 10 Absatz 3 EÖBV.
+- e. Allfällige kantonale Siegel nach Artikel 10 Absatz 3 EÖBV sind gültig und beruhen auf dem beim UPReg hinterlegten Zertifikat des Kantons.
+
+## 10. Abschnitt: Schlussbestimmungen
+
+#### Art. 18
+
+**Übergangsbestimmung für Dritte**
+
+Urkundspersonen, die Zulassungsbestätigungen über einen Dritten abrufen (Art. 9 Abs. 1), können sich bis zum 31. Dezember 2022 statt gegenüber dem UPReg (Art. 11 Bst. b) gegenüber dem Dritten identifizieren.
+
+#### Art. 19
+
+**Übergangsbestimmung für die Überprüfung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ohne elektronische Zulassungsbestätigung**
+
+### (Art. 26 EÖBV)
+
+<sup>1</sup> Bei elektronischen öffentlichen Urkunden und elektronischen Beglaubigungen ohne elektronische Zulassungsbestätigung, die zwischen dem 1. August 2013 und dem 31. Dezember 2013 erstellt worden sind, prüfen die Handelsregister- und die Grundbuchämter mit dem Validatorsystem die Gültigkeit der elektronischen Signatur und das Vorhandensein eines gültigen Zeitstempels.
+
+<sup>2</sup>
+
+Zusätzlich prüfen sie visuell, ob:
+
+- a. im elektronischen Dokument die Handunterschrift der Urkundsperson sowie deren Siegel oder Stempel erkennbar abgebildet sind;
+- b. der im elektronischen Dokument sichtbare Name der Urkundsperson mit dem Namen in der elektronischen Signatur der Urkundsperson übereinstimmt.
+
+<sup>3</sup> Hat das betreffende Registeramt Zweifel an der Berechtigung der Urkundsperson, Beurkundungen vorzunehmen, so überprüft es die Berechtigung selber oder verlangt von der Urkundsperson einen Nachweis aufgrund eines verbindlichen kantonalen Verzeichnisses oder einer Bestätigung der Zulassungsbehörde.
+
+#### Art. 20
+
+**Aufhebung eines anderen Erlasses**
+
+Die Verordnung des EJPD vom 25. Juni 2013[^20-1] über die elektronische öffentliche Beurkundung wird aufgehoben.
+
+[^20-1]: [[AS 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)]
+
+#### Art. 21
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Februar 2018 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 2)
+
+## Technische Anforderungen an Schnittstellen, über die dem UPReg Daten über Urkundspersonen aus anderen Systemen geliefert werden
+
+[^t-1]: Der Anhang wird in der AS nicht veröffentlicht. Er kann im Internet beim Bundesamt für Justiz unter www.bj.admin.ch &gt; Wirtschaft &gt; Elektronische öffentliche Urkunden und elektronische Beglaubigungen konsultiert werden.
+
+***Version 1***
+
+Anhang 2
+
+(Art. 6)
+
+## Anerkannte elektronische Dateiformate
+
+<table>
+<tr><td>Bezeichnung des Dateiformats</td><td>Zugrunde liegende technische Norm[^annex2-lvlu1-1]</td></tr>
+<tr><td>PDF/A-1</td><td>SN EN ISO 19005-1, 2005, Dokumentenmanagement – Elektronisches Dokumentendateiformat für Langzeitarchivierung – Teil 1: Verwendung von PDF 1.4 (PDF/A-1)</td></tr>
+<tr><td>PDF/A-2</td><td>SN EN ISO 19005-2, 2011, Dokumenten-Management – Elektronisches Dokumenten-Dateiformat für die Langzeitarchivierung – Teil 2: Anwendung der ISO 32000-1 (PDF/A-2)</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: Die technischen Normen kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch oder eingesehen werden beim Bundesamt für Justiz, Bundesrain 20, 3003 Bern.
+
+Anhang 3*[^t-2]*
+
+(Art. 10 Abs. 1)
+
+## Technische Anforderungen zur Vermittlung des Zugriffs auf das UPReg
+
+[^t-2]: Der Anhang wird in der AS nicht veröffentlicht. Er kann im Internet beim Bundesamt für Justiz unter www.bj.admin.ch &gt; Wirtschaft &gt; Elektronische öffentliche Urkunden und elektronische Beglaubigungen konsultiert werden.
+
+***Version 1***

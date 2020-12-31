@@ -1,0 +1,1964 @@
+---
+sr: "0.451.47"
+title: Abkommen vom 15. August 1996 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel (mit Anhängen)
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
+language: de
+version: 2019-07-02
+adopted: 1996-08-15
+in_force: 1999-11-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20190702/de/xml/fedlex-data-admin-ch-eli-cc-2004-420-20190702-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20190702/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Abkommen zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel
+
+AS **2004** 3249
+
+Übersetzung
+
+Abgeschlossen in Den Haag am 15. August 1996
+
+Von der Schweiz unterzeichnet am 15. Oktober 1996[^t-1]
+
+In Kraft getreten für die Schweiz am 1. November 1999
+
+(Stand am 2. Juli 2019)
+
+[^t-1]: Ohne Ratifikationsvorbehalt.
+
+Die Vertragsparteien –
+
+eingedenk dessen, dass das Übereinkommen zur Erhaltung der wandernden wildlebenden Tierarten von 1979[^ingress-1] ermutigt, auf internationaler Ebene gemeinsame Massnahmen zum Schutz wandernder Tierarten zu treffen;
+
+sowie eingedenk dessen, dass die erste Tagung der Konferenz der Vertragsparteien, die im Oktober 1985 in Bonn stattfand, das zuständige Sekretariat anwies, geeignete Massnahmen zur Ausarbeitung eines Abkommens über westpaläarktische Anatidae zu ergreifen;
+
+in der Erwägung, dass die wandernden Wasservögel einen wichtigen Bestandteil der biologischen Vielfalt unserer Erde ausmachen, und dem Geist des Übereinkommens über die Biologische Vielfalt von 1992[^ingress-2] und der Agenda 21 entsprechend zum Nutzen der heutigen und künftigen Generationen erhalten bleiben sollen;
+
+im Bewusstsein des wirtschaftlichen, sozialen und kulturellen Nutzens sowie des Erholungswerts, der mit der Entnahme aus der Natur bestimmter wandernder Wasservogelarten verbunden ist, sowie der umweltbezogenen, ökologischen, genetischen, wissenschaftlichen, ästhetischen, freizeitbezogenen, kulturellen, erzieherischen, sozialen und wirtschaftlichen Werte der wandernden Wasservögel ganz allgemein;
+
+überzeugt, dass jegliche Entnahme aus der Natur von wandernden Wasservögeln im Sinne der Nachhaltigkeit und unter Berücksichtigung der Erhaltungssituation der jeweiligen Art in ihrem gesamten Verbreitungsgebiet sowie ihrer biologischen Eigenheiten erfolgen muss;
+
+im Bewusstsein dessen, dass die wandernden Wasservögel besonders gefährdet sind, weil sie bei ihrer Wanderung weite Strecken zurücklegen und auf Netze von Feuchtgebieten angewiesen sind, die ständig kleiner werden und Schaden leiden durch menschliche Eingriffe, die dem Grundsatz der nachhaltigen Nutzung nicht entsprechen, wie er im Übereinkommen von 1971[^ingress-3] über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel, von internationaler Bedeutung festgehalten wird;
+
+in Anerkennung der Notwendigkeit, unverzüglich Massnahmen zu ergreifen, um den Rückgang der wandernden Wasservogelarten und ihrer Lebensräume im geographischen Raum der Wanderrouten der Wasserzugvögel Afrikas und Eurasiens zu stoppen;
+
+überzeugt, dass der Abschluss eines multilateralen Abkommens und seine Umsetzung durch koordinierte, abgesprochene Massnahmen erheblich zu einem wirksamen Schutz der wandernden Wasservögel und ihrer Lebensräume beitragen und sich auch auf weitere Arten der Tier- und Pflanzenwelt günstig auswirken werden;
+
+im Wissen darum, dass für die wirksame Umsetzung eines solchen Abkommens gewisse Arealstaaten bei Forschung und Ausbildung, bei der Überwachung der wandernden Wasservogelarten und ihrer Lebensräume, beim Management dieser Lebensräume und bei der Schaffung oder Verbesserung wissenschaftlicher und administrativer Einrichtungen zur Durchführung dieses Abkommens unterstützt werden müssen,
+
+sind wie folgt übereingekommen:
+
+[^ingress-1]: [SR 0.451.46](https://fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354)
+[^ingress-2]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-3]: [SR 0.451.45](https://fedlex.data.admin.ch/eli/cc/1976/1139_1139_1139)
+
+#### Art. I
+
+**Geltungsbereich, Begriffsbestimmungen und Auslegung**
+
+<sup>1.</sup> Der geographische Geltungsbereich dieses Abkommens ist das Gebiet der Wandersysteme der wandernden Wasservögel Afrikas und Eurasiens, wie es in Anhang 1 dieses Abkommens festgehalten und im Folgenden als «Abkommensgebiet» bezeichnet wird.
+
+<sup>2.</sup>
+
+Im Sinne dieses Abkommens:
+
+- (a) bedeutet «Übereinkommen» das Übereinkommen zur Erhaltung der wandernden wildlebenden Tierarten von 1979;
+- (b) bedeutet «Sekretariat des Übereinkommens» die gemäss Artikel IX des Übereinkommens eingerichtete Stelle;
+- (c) bedeutet «Wasservögel» diejenigen Vogelarten, die ökologisch zumindest während eines Teiles ihres Jahreszyklus auf Feuchtgebiete angewiesen sind, deren Verbreitungsgebiet (Areal) sich ganz oder teilweise innerhalb des Abkommensgebiets befindet und die in Anhang 2 dieses Abkommens aufgeführt sind;
+- (d) bedeutet «Sekretariat des Abkommens» die gemäss Artikel VI Absatz 7 Buchstabe b dieses Abkommens eingerichtete Stelle;
+- (e) bedeutet «Vertragsparteien», sofern aus dem Zusammenhang nichts anderes hervorgeht, die Vertragsparteien dieses Abkommens;
+- (f) bedeutet «anwesende und abstimmende Vertragsparteien» die anwesenden Vertragsparteien, die eine Ja-Stimme oder Nein-Stimme abgegeben haben; bei der Bestimmung der Mehrheit werden die Stimmenthaltungen beim Auszählen der abgegebenen Stimmen nicht mitgezählt.
+- (g) Im Weiteren haben die in Artikel I Absatz 1 Buchstaben (a) bis (k) des Übereinkommens festgelegten Begriffe in diesem Abkommen *mutatis m**u**tandis* dieselbe Bedeutung.
+
+<sup>3.</sup> Dieses Abkommen ist ein Abkommen im Sinne des Artikels IV Absatz 3 des Übereinkommens.
+
+<sup>4.</sup> Die Anhänge zu diesem Abkommen sind integrierender Bestandteil desselben. Jede Bezugnahme auf das Abkommen bedeutet auch eine Bezugnahme auf seine Anhänge.
+
+#### Art. II
+
+**Wesentliche Grundsätze**
+
+<sup>1.</sup> Die Vertragsparteien ergreifen koordinierte Massnahmen, um den Fortbestand oder die Wiederherstellung einer günstigen Erhaltungssituation der wandernden Wasservogelarten zu gewährleisten. Zu diesem Zweck wenden sie innerhalb ihres jeweiligen Hoheitsgebiets die in Artikel III vorgeschriebenen Massnahmen an, sowie die spezifischen Massnahmen, die im Aktionsplan in Artikel IV vorgesehen sind.
+
+<sup>2.</sup> Bei der Durchführung der in Absatz 1 vorgeschriebenen Massnahmen sollen die Vertragsparteien das Vorsorgeprinzip berücksichtigen.
+
+#### Art. III
+
+**Allgemeine Erhaltungsmassnahmen**
+
+<sup>1.</sup> Die Vertragsparteien treffen Massnahmen zur Erhaltung der wandernden Wasservögel, wobei sie gefährdete Arten sowie solche mit ungünstiger Erhaltungssituation besonders berücksichtigen.
+
+<sup>2.</sup>
+
+Zu diesem Zweck werden die Vertragsparteien:
+
+- (a) gefährdeten wandernden Wasservogelarten im Abkommensgebiet den gleichen strengen Schutz gewähren, der in Artikel III Absätze 4 und 5 des Übereinkommens vorgesehen ist;
+- (b) sicherstellen, dass sich jegliche Nutzung von wandernden Wasservögeln auf eine Beurteilung abstützt, die auf den besten verfügbaren Kenntnissen über ihre Ökologie und dem Grundsatz der nachhaltigen Nutzung dieser Arten und der ökologischen Systeme, von denen sie abhängen, beruht;
+- (c) in Verbindung mit den in Artikel IX Buchstaben (a) und (b) des Abkommens aufgeführten, sich mit der Erhaltung der Habitate befassenden Gremien, die auf ihrem Hoheitsgebiet gelegenen Stätten und Habitate der wandernden Wasservögel bestimmen und Schutz, Management, Sanierung und Wiederherstellung dieser Stätten fördern;
+- (d) ihre Anstrengungen koordinieren, um zu gewährleisten, dass innerhalb des gesamten Verbreitungsgebiets der jeweiligen Wasserzugvogelart ein Netz geeigneter Habitate erhalten bleibt oder gegebenenfalls wiederhergestellt wird, insbesondere dort, wo Feuchtgebiete sich über das Hoheitsgebiet mehr als einer Vertragspartei erstrecken;
+- (e) Probleme untersuchen, die sich wahrscheinlich aus menschlichen Tätigkeiten ergeben oder ergeben werden und sich bemühen, korrigierende Massnahmen, einschliesslich solcher zur Sanierung, Wiederherstellung und zum Ausgleich für den Verlust von Habitaten zu ergreifen;
+- (f) in Notlagen, die eine grenzüberschreitende konzertierte Aktion erfordern, und bei der Bestimmung der wandernden Wasservogelarten, die in diesen Fällen am stärksten gefährdet sind, zusammenarbeiten; sie werden auch bei der Ausarbeitung von Dringlichkeitsverfahren, die in solchen Notlagen einen verstärkten Schutz dieser Arten gewährleisten, sowie von Richtlinien, die jeder beteiligten Vertragspartei helfen sollen, solchen Notlagen zu begegnen, mitarbeiten;
+- (g) die absichtliche Einbürgerung nichtheimischer wandernder Wasservogelarten verbieten und alle geeigneten Massnahmen ergreifen, um einer unbeabsichtigten Auswilderung solcher Arten zuvorzukommen, falls diese Einbürgerung oder Auswilderung der Erhaltungssituation wildlebender Pflanzen und Tiere schaden sollte; wenn nichtheimische wandernde Wasservogelarten bereits eingebürgert worden sind, treffen die Vertragsparteien alle geeigneten Massnahmen, um zu verhindern, dass diese Arten zu einer potentiellen Bedrohung für heimische Arten werden;
+- (h) die Erforschung der Biologie und Ökologie der wandernden Wasservögel einschliesslich der Harmonisierung der Forschungs- und Überwachungsmethoden und gegebenenfalls der Einrichtung gemeinsamer oder kooperativer Forschungs- und Überwachungsprogramme in die Wege leiten oder unterstützen;
+- (i) ihren Ausbildungsbedarf vor allem in Bezug auf die Untersuchungen von wandernden Wasservögeln, ihre Überwachung und ihre Beringung sowie das Management von Feuchtgebieten überprüfen, um vorrangige Themen und Bereiche für die Ausbildung zu bestimmen und bei der Entwicklung und Durchführung geeigneter Ausbildungsprogramme mitzuarbeiten;
+- (j) Programme entwickeln und durchführen, die zur besseren Bewusstseinsbildung beitragen und Verständnis fördern für die Probleme der Erhaltung der wandernden Wasservögel im Allgemeinen und die spezifischen Zielsetzungen und Bestimmungen dieses Abkommens im Besonderen;
+- (k) Informationen und Ergebnisse von Forschungs-, Überwachungs-, Erhaltungs- und Bildungsprogrammen austauschen;
+- (l) zusammenarbeiten, um gemeinsam besser in der Lage zu sein, das Abkommen umzusetzen, insbesondere auf den Gebieten der Forschung und Überwachung.
+
+#### Art. IV
+
+**Aktionsplan und Leitlinien für Erhaltungsmassnahmen**
+
+<sup>1.</sup>
+
+Ein Aktionsplan ist diesem Abkommen als Anhang 3 beigefügt. In diesem Aktionsplan werden unter den nachstehenden Rubriken die Massnahmen festgelegt, welche die Vertragspartner in Bezug auf vorrangige Arten und Probleme in Übereinstimmung mit den in Artikel III vorgesehenen allgemeinen Erhaltungsmassnahmen ergreifen müssen:
+
+- (a) Artenschutz;
+- (b) Habitatschutz;
+- (c) Steuerung menschlicher Tätigkeiten;
+- (d) Forschung und Überwachung;
+- (e) Bildung und Information;
+- (f) Durchführung.
+
+<sup>2.</sup> Der Aktionsplan wird auf jeder ordentlichen Tagung der Versammlung der Vertragsparteien unter Berücksichtigung der Leitlinien für Erhaltungsmassnahmen überprüft.
+
+<sup>3.</sup> Änderungen des Aktionsplans werden von der Versammlung der Vertragsparteien unter Berücksichtigung von Artikel III beschlossen.
+
+<sup>4.</sup> Die Leitlinien für Erhaltungsmassnahmen werden der Versammlung der Vertragsparteien auf ihrer ersten Tagung zur Annahme unterbreitet und in regelmässigen Abständen überprüft.
+
+#### Art. V
+
+**Durchführung und Finanzierung**
+
+<sup>1.</sup>
+
+Jede Vertragspartei:
+
+- (a) bestimmt eine oder mehrere Behörden zur Durchführung dieses Abkommens, die unter anderem alle Tätigkeiten überwacht (überwachen), die für die Erhaltungssituation derjenigen wandernden Wasservogelarten von Belang sein könnten, zu deren Arealstaaten die Vertragspartei gehört;
+- (b) bestimmt eine Anlaufstelle für die anderen Vertragsparteien und übermittelt unverzüglich deren Bezeichnung und Adresse dem Sekretariat des Abkommens zur sofortigen Weiterleitung an die anderen Vertragsparteien;
+- (c) bereitet für jede ordentliche Tagung der Versammlung der Vertragsparteien ab der zweiten Tagung einen Bericht über die von ihr getroffenen Massnahmen zur Durchführung des Abkommens vor, insbesondere in Bezug auf die von ihr unternommenen Erhaltungsmassnahmen. Die Form dieses Berichts wird auf der ersten Tagung der Versammlung der Vertragsparteien festgelegt und nach Bedarf an einer darauf folgenden Tagung der Versammlung der Vertragsparteien revidiert. Jeder Bericht wird dem Sekretariat spätestens einhundertzwanzig Tage vor der ordentlichen Tagung der Versammlung der Vertragsparteien, für die er erarbeitet wurde, unterbreitet, und das Sekretariat des Abkommens stellt allen anderen Vertragsparteien umgehend eine Kopie des Berichtes zu.
+- 2\. (a) Jede Vertragspartei leistet einen Beitrag zum Budget des Abkommens gemäss dem von den Vereinten Nationen festgelegten Beitragsschlüssel. Keine Vertragspartei, die ein Arealstaat ist, kann zu einem Beitrag verpflichtet werden, der höher ist als 25 % des Gesamtbudgets. Keine Organisation der regionalen Wirtschaftsintegration kann verpflichtet werden, mehr als 2,5 % der Verwaltungskosten beizutragen.
+- (b) Beschlüsse betreffend das Budget und eventuelle Änderungen des Beitragsschlüssels werden von der Versammlung der Vertragsparteien durch Konsens gefasst.
+
+<sup>3.</sup> Die Versammlung der Vertragsparteien kann einen aus freiwilligen Beiträgen der Vertragsparteien oder aus anderen Quellen gespeisten Fonds für Erhaltungsmassnahmen einrichten, um damit die Überwachung, Forschung, Ausbildung sowie Projekte zur Erhaltung – einschliesslich Schutz und Management – der wandernden Wasservögel zu finanzieren.
+
+<sup>4.</sup> Die Vertragsparteien werden ermutigt, anderen Vertragsparteien auf multilateraler oder bilateraler Basis Unterstützung bei der Ausbildung sowie auf finanzieller und technischer Ebene zu gewähren, um ihnen bei der Einhaltung der Bestimmungen dieses Abkommens zu helfen.
+
+#### Art. VI
+
+**Versammlung der Vertragsparteien**
+
+<sup>1.</sup> Die Versammlung der Vertragsparteien ist das Beschlussgremium dieses Abkommens.
+
+<sup>2.</sup> Spätestens ein Jahr nach Inkrafttreten dieses Abkommens beruft der Verwahrer in Konsultation mit dem Sekretariat des Übereinkommens eine Tagung der Versammlung der Vertragsparteien ein. In der Folge beruft das Sekretariat des Abkommens in Konsultation mit dem Sekretariat des Übereinkommens mindestens alle drei Jahre eine ordentliche Tagung der Versammlung der Vertragsparteien , sofern diese nichts anderes beschliesst. Diese Tagungen sollen nach Möglichkeit in Verbindung mit den ordentlichen Tagungen der Konferenz der Vertragsparteien des Übereinkommens abgehalten werden.
+
+<sup>3.</sup> Auf schriftliches Verlangen von mindestens einem Drittel der Vertragsparteien beruft das Sekretariat des Abkommens eine ausserordentliche Tagung der Versammlung der Vertragsparteien ein.
+
+<sup>4.</sup> Die Vereinten Nationen, ihre Sonderorganisationen, die Internationale Atomenergie-Organisation, Staaten, die nicht Vertragsparteien dieses Abkommens sind, und die Sekretariate internationaler Übereinkommen, die sich unter anderem mit der Erhaltung – einschliesslich Schutz und Management – der wandernden Wasservögel befassen, können durch Beobachter auf Tagungen der Versammlung der Vertragsparteien vertreten sein. Jede Stelle und jedes Gremium, die in den oben erwähnten Bereichen oder in der Erforschung der wandernden Wasservögel fachlich qualifiziert sind, können ebenfalls durch Beobachter auf den Tagungen der Versammlung der Vertragsparteien vertreten sein, insofern sich nicht mindestens ein Drittel der anwesenden Vertragsparteien dagegen ausspricht.
+
+<sup>5.</sup> Nur die Vertragsparteien haben ein Stimmrecht. Jede Vertragspartei hat eine Stimme, aber Organisationen der regionalen Wirtschaftsintegration , die Vertragsparteien dieses Abkommens sind, üben in den in ihre Zuständigkeit fallenden Angelegenheiten ihr Stimmrecht mit einer Stimmenzahl aus, die der Anzahl ihrer Mitgliedstaaten entspricht, die Vertragsparteien des Abkommens sind. Die Organisationen der regionalen Wirtschaftsintegration üben ihr Stimmrecht nicht aus, wenn ihre Mitgliedstaaten ihr Stimmrecht ausüben, und umgekehrt.
+
+<sup>6.</sup> Sofern in diesem Abkommen nichts anderes vorgesehen ist, werden die Beschlüsse der Versammlung der Vertragsparteien durch Konsens oder, wenn kein Konsens erzielt werden kann, mit Zweidrittelmehrheit der anwesenden und abstimmenden Vertragsparteien angenommen.
+
+<sup>7.</sup>
+
+Auf ihrer ersten Tagung wird die Versammlung der Vertragsparteien:
+
+- (a) ihre Geschäftsordnung durch Konsens annehmen;
+- (b) innerhalb des Sekretariats des Übereinkommens ein Sekretariat des Abkommens zur Wahrnehmung der in Artikel VIII aufgeführten Sekretariatsaufgaben einsetzen;
+- (c) den in Artikel VII vorgesehenen Fachausschuss einsetzen;
+- (d) eine Form für die nach Artikel V Absatz 1 Buchstabe (c) vorzubereitenden Berichte bestimmen;
+- (e) Kriterien für die Bestimmung von Notlagen annehmen, die sofortige Erhaltungsmassnahmen erforderlich machen, und die Art und Weise der Aufgabenverteilung zur Umsetzung dieser Massnahmen festlegen.
+
+<sup>8.</sup>
+
+Auf jeder ordentlichen Tagung wird die Versammlung der Vertragsparteien:
+
+- (a) tatsächliche und mögliche Veränderungen der Erhaltungssituation der wandernden Wasservögel und der für ihr Überleben wichtigen Habitate sowie die Faktoren, die sich darauf auswirken könnten, erörtern;
+- (b) Fortschritte und etwaige Schwierigkeiten im Zusammenhang mit der Durchführung dieses Abkommens prüfen;
+- (c) einen Haushaltsplan annehmen und alle Angelegenheiten erörtern, die sich auf die finanziellen Regelungen für dieses Abkommen beziehen;
+- (d) alle Fragen betreffend das Sekretariat des Abkommens und die Zusammensetzung des Fachausschusses behandeln;
+- (e) einen Bericht annehmen, der den Vertragsparteien dieses Abkommens und der Konferenz der Vertragsparteien des Übereinkommens zugestellt wird;
+- (f) Zeit und Ort der nächsten Tagung bestimmen.
+
+<sup>9.</sup> Auf jeder Tagung kann die Versammlung der Vertragsparteien
+
+- (a) den Vertragsparteien für notwendig und zweckdienlich erachtete Empfehlungen unterbreiten;
+- (b) spezifische Massnahmen zur Verbesserung der Wirksamkeit dieses Abkommens und gegebenenfalls im Sinne von Artikel VII Absatz 4 Sofortmassnahmen ergreifen;
+- (c) Vorschläge zur Änderung dieses Abkommens prüfen und darüber beschliessen;
+- (d) den Aktionsplan in Übereinstimmung mit Artikel IV Absatz 3 dieses Abkommens ändern;
+- (e) die Nebenorgane einsetzen, die sie zur Unterstützung bei der Durchführung dieses Abkommens für notwendig erachtet, insbesondere zur Koordinierung mit Gremien, die im Rahmen anderer internationaler Verträge, Übereinkommen und Abkommen geschaffen wurden, falls es mit ihren geographischen und taxonomischen Geltungsbereichen Überschneidungen gibt;
+- (f) zu allen weiteren Angelegenheiten im Zusammenhang mit der Durchführung dieses Abkommens Beschlüsse fassen.
+
+#### Art. VII
+
+**Fachausschuss**
+
+<sup>1.</sup> Das Verfahren für die Ernennung der Sachverständigen, die Dauer ihres Mandats und das Verfahren für die Ernennung des Vorsitzenden des Fachausschusses werden von der Versammlung der Vertragsparteien bestimmt. Der Vorsitzende kann höchstens vier Beobachter aus internationalen staatlichen und nichtstaatlichen Fachgremien zulassen.
+
+Der Fachausschuss besteht aus:
+
+- (a) neun Sachverständigen, die gemäss einer ausgewogenen geographischen Verteilung verschiedene Regionen des Abkommensgebiets vertreten;
+- (b) einem Vertreter der Internationalen Union für die Erhaltung der Natur und der natürlichen Hilfsquellen (IUCN), einem Vertreter des Internationalen Büros für Wasservogel- und Feuchtgebietforschung (IWRB) und einem Vertreter des Internationalen Jagdrats zur Erhaltung des Wildes (CIC);
+- (c) je einem Sachverständigen aus folgenden Bereichen: Agrarwirtschaft, Management der Wildbestände, Umweltrecht.
+
+<sup>2.</sup> Sofern die Versammlung der Vertragsparteien nichts anderes beschliesst, werden die Sitzungen des Fachausschusses vom Sekretariat des Abkommens einberufen; sie finden jeweils anlässlich der Tagung der Versammlung der Vertragsparteien und mindestens einmal zwischen den ordentlichen Tagungen der Vertragsparteien statt.
+
+<sup>3.</sup>
+
+Der Fachausschuss:
+
+- (a) sorgt für die fachlich-wissenschaftliche Beratung und Unterrichtung der Versammlung der Vertragsparteien und – über das Sekretariat des Abkommens – der einzelnen Vertragsparteien;
+- (b) legt der Versammlung der Vertragsparteien Empfehlungen zum Aktionsplan, zur Durchführung des Abkommens und zu künftigen Forschungsarbeiten vor;
+- (c) bereitet für jede ordentliche Tagung der Versammlung der Vertragsparteien einen Tätigkeitsbericht vor, der dem Sekretariat des Abkommens jeweils mindestens einhundertzwanzig Tage vor der betreffenden Tagung eingereicht und von diesem umgehend in Abschrift an die Vertragsparteien weitergeleitet wird;
+- (d) führt alle weiteren Aufgaben aus, die ihm von der Versammlung der Vertragsparteien übertragen werden.
+
+<sup>4.</sup> Sofern nach Meinung des Fachausschusses eine Notlage eingetreten ist, die den Beschluss von Sofortmassnahmen erfordert, um eine Verschlechterung der Erhaltungssituation einer oder mehrerer wandernder Wasservogelarten zu verhindern, kann dieser das Sekretariat des Abkommens ersuchen, sofort eine Sitzung der betroffenen Vertragsparteien einzuberufen. Diese treten dann so bald wie möglich zusammen, um umgehend einen Mechanismus für den Schutz der Arten zu schaffen, die als besonders stark bedroht bestimmt worden sind. Wenn auf einer solchen Sitzung eine Empfehlung angenommen wurde, unterrichten die Vertragsparteien einander und das Sekretariat des Abkommens über die Massnahmen, die sie zur Umsetzung der Empfehlung getroffen haben, oder über die Gründe, die ihre Umsetzung verhindert haben.
+
+<sup>5.</sup> Der Fachausschuss kann nach Bedarf Arbeitsgruppen für konkrete Aufgaben einsetzen.
+
+#### Art. VIII
+
+**Sekretariat des Abkommens**
+
+Das Sekretariat des Abkommens hat folgende Aufgaben:
+
+- (a) Es organisiert und betreut die Tagungen der Versammlung der Vertragsparteien sowie die Sitzungen des Fachausschusses.
+- (b) Es führt die Beschlüsse aus, die ihm von der Versammlung der Vertragsparteien zugewiesen werden.
+- (c) Es fördert und koordiniert in Übereinstimmung mit den Beschlüssen der Versammlung der Vertragsparteien die im Rahmen dieses Abkommens durchgeführten Tätigkeiten einschliesslich des Aktionsplans.
+- (d) Es hält die Verbindungen mit den nicht zu den Vertragsparteien gehörenden Arealstaaten aufrecht, erleichtert die Koordinierung zwischen den Vertragsparteien und mit internationalen und nationalen Organisationen, deren Tätigkeiten mittelbar oder unmittelbar für die Erhaltung – einschliesslich Schutz und Management – der wandernden Wasservögel von Belang sind.
+- (e) Es sammelt Informationen, die der Zielerreichung und der Durchführung dieses Abkommens förderlich sind, wertet sie aus und sorgt für eine angemessene Verbreitung dieser Informationen.
+- (f) Es macht die Versammlung der Vertragsparteien auf alle Fragen aufmerksam, die mit den Zielen dieses Abkommens im Zusammenhang stehen.
+- (g) Es leitet Kopien der Berichte der in Artikel V Absatz 1 Buchstabe (a) bezeichneten Behörden und des Fachausschusses zusammen mit Kopien der nach Buchstabe (h) dieses Artikels vorzulegenden Berichten mindestens sechzig Tage vor Beginn der jeweiligen ordentlichen Tagung der Versammlung der Vertragsparteien an jede Vertragspartei weiter.
+- (h) Es bereitet jedes Jahr und für jede ordentliche Tagung der Versammlung der Vertragsparteien Berichte über die Arbeit des Sekretariats und die Durchführung des Abkommens vor.
+- (i) Es verwaltet den Haushalt für das Abkommen und gegebenenfalls den Fonds für Erhaltungsmassnahmen.
+- (j) Es unterrichtet die Öffentlichkeit über dieses Abkommen und seine Ziele.
+- (k) Es nimmt alle weiteren Aufgaben wahr, die ihm im Rahmen des Abkommens oder von der Versammlung der Vertragsparteien übertragen werden.
+
+#### Art. IX
+
+**Beziehungen zu internationalen Gremien, die sich mit wandernden Wasservögeln und ihren Habitaten befassen**
+
+Das Sekretariat des Abkommens konsultiert
+
+- (a) regelmässig das Sekretariat des Übereinkommens und gegebenenfalls die für die Sekretariatsaufgaben zuständigen Gremien im Rahmen von Abkommen, die nach Artikel IV Absätze 3 und 4 des Übereinkommens geschlossen wurden und die für wandernde Wasservögel von Belang sind, sowie des Übereinkommens von 1971 über Feuchtgebiete, insbesondere als Lebensraum für Wasser- und Watvögel, von internationaler Bedeutung, des Übereinkommens von 1973[^IX-1] über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen, des Afrikanischen Übereinkommens von 1968 über die Erhaltung der Natur und der natürlichen Hilfsquellen, des Übereinkommens von 1979[^IX-2] über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume sowie des Übereinkommens von 1992 über die biologische Vielfalt im Hinblick darauf, dass die Versammlung der Vertragsparteien mit den Vertragsparteien dieser Übereinkünfte in allen Angelegenheiten von gemeinsamem Interesse zusammenarbeitet, insbesondere bei der Ausarbeitung und Durchführung des Aktionsplans;
+- (b) die Sekretariate anderer einschlägiger Übereinkommen und sonstiger völkerrechtlicher Übereinkünfte in Bezug auf alle Fragen von gemeinsamem Interesse;
+- (c) sonstige Organisationen, die im Bereich der Erhaltung – einschliesslich Schutz und Management – der wandernden Wasservögel und ihrer Lebensräume sowie in den Bereichen Forschung, Bildung und Bewusstseinsbildung zuständig sind.
+
+[^IX-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^IX-2]: [SR 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+
+#### Art. X
+
+**Änderung des Abkommens**
+
+<sup>1.</sup> Dieses Abkommen kann auf jeder ordentlichen oder ausserordentlichen Tagung der Versammlung der Vertragsparteien geändert werden.
+
+<sup>2.</sup> Änderungen können von jeder Vertragspartei vorgeschlagen werden.
+
+<sup>3.</sup> Der Wortlaut jeder vorgeschlagenen Änderung samt Begründung wird dem Sekretariat des Abkommens mindestens einhundertfünfzig Tage vor Eröffnung der Tagung zugestellt. Das Sekretariat leitet den Vertragsparteien Kopien davon umgehend weiter. Stellungnahmen der Vertragsparteien zum Wortlaut werden dem Sekretariat des Abkommens mindestens sechzig Tage vor Eröffnung der Tagung eingereicht. So bald wie möglich nach Ablauf dieses Termins übermittelt das Sekretariat den Vertragsparteien alle bis zu diesem Tag eingegangenen Stellungnahmen.
+
+<sup>4.</sup> Änderungen dieses Abkommens mit Ausnahme von Änderungen des Anhangs werden mit Zweidrittelmehrheit der anwesenden und abstimmenden Vertragsparteien beschlossen und treten für die Vertragsparteien, die sie angenommen haben, am dreissigsten Tag nach dem Zeitpunkt in Kraft, zu dem zwei Drittel der Vertragsparteien, die zum Zeitpunkt der Beschlussfassung über die Änderung Vertragsparteien waren, ihre Annahmeurkunden zu der Änderung beim Verwahrer hinterlegt haben. Für jede Vertragspartei, die eine Annahmeurkunde nach dem Zeitpunkt hinterlegt, zu dem zwei Drittel der Vertragsparteien ihre Annahmeurkunden hinterlegt haben, tritt die Änderung am dreissigsten Tag nach Hinterlegung ihrer Annahmeurkunde in Kraft.
+
+<sup>5.</sup> Weitere Anhänge und Änderungen von Anhängen werden mit Zweidrittelmehrheit der anwesenden und abstimmenden Vertragsparteien beschlossen und treten für alle Vertragsparteien mit Ausnahme derjenigen, die nach Absatz 6 dieses Artikels einen Vorbehalt angebracht haben, am neunzigsten Tag nach der Beschlussfassung durch die Versammlung der Vertragsparteien in Kraft.
+
+<sup>6.</sup> Während des in Absatz 5 dieses Artikels vorgesehenen Zeitraums von neunzig Tagen kann jede Vertragspartei durch schriftliche Notifikation an den Verwahrer einen Vorbehalt in Bezug auf einen weiteren Anhang oder eine Änderung eines Anhangs anbringen. Ein solcher Vorbehalt kann jederzeit durch schriftliche Notifikation an den Verwahrer zurückgezogen werden; der weitere Anhang oder die Änderung tritt dann am dreissigsten Tag nach Rückzug des Vorbehalts für die betreffende Vertragspartei in Kraft.
+
+#### Art. XI
+
+**Auswirkung dieses Abkommens auf internationale Übereinkommen und sonstige gesetzliche Vorschriften**
+
+<sup>1.</sup> Dieses Abkommen berührt in keiner Weise die Rechte und Verpflichtungen einer Vertragspartei aufgrund derzeit geltender internationaler Verträge, Übereinkommen oder Abkommen.
+
+<sup>2.</sup> Dieses Abkommen berührt nicht das Recht der Vertragsparteien, strengere Massnahmen zur Erhaltung der wandernden Wasservögel und ihrer Lebensräume aufrechtzuerhalten oder einzuführen.
+
+#### Art. XII
+
+**Beilegung von Streitigkeiten**
+
+<sup>1.</sup> Jede Streitigkeit zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens wird durch Verhandlungen zwischen den streitenden Vertragsparteien beigelegt.
+
+<sup>2.</sup> Kann die Streitigkeit nicht nach Absatz 1 dieses Artikels beigelegt werden, so können die Vertragsparteien sie in gegenseitigem Einvernehmen einem Schiedsgericht, insbesondere dem Haager Ständigen Schiedshof, vorlegen; die Vertragsparteien, welche die Streitigkeit dem Schiedsgericht vorlegen, sind an den Schiedsspruch gebunden.
+
+#### Art. XIII
+
+**Unterzeichnung, Ratifikation, Annahme, Genehmigung, Beitritt**
+
+<sup>1.</sup>
+
+Dieses Abkommen liegt für jeden Arealstaat, gleichviel ob seiner Hoheitsgewalt unterstehende Gebiete im Abkommensgebiet liegen oder nicht, und für jede Organisation der regionalen Wirtschaftsintegration, unter deren Mitgliedern mindestens ein Arealstaat ist, zur Unterzeichnung auf. Diese kann erfolgen:
+
+- (a) durch Unterzeichnung ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung oder
+- (b) durch Unterzeichnung vorbehaltlich der Ratifikation, Annahme oder Genehmigung mit nachfolgender Ratifikation, Annahme oder Genehmigung.
+
+<sup>2.</sup> Dieses Abkommen liegt bis zum Tag seines Inkrafttretens in Den Haag zur Unterzeichnung auf.
+
+<sup>3.</sup> Dieses Abkommen steht vom Tag seines Inkrafttretens an allen in Absatz 1 dieses Artikels genannten Arealstaaten und Organisationen der regionalen Wirtschaftsintegration zum Beitritt offen.
+
+<sup>4.</sup> Die Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden werden beim Verwahrer dieses Abkommens hinterlegt.
+
+#### Art. XIV
+
+**Inkrafttreten**
+
+<sup>1.</sup> Dieses Abkommen tritt am ersten Tag des dritten Monats nach dem Zeitpunkt in Kraft, zu dem mindestens vierzehn Arealstaaten oder Organisationen der regionalen Wirtschaftsintegration, die mindestens sieben aus Afrika und sieben aus Eurasien einschliessen, es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnet oder nach Artikel XIII ihre Ratifikations-, Annahme- oder Genehmigungsurkunde hinterlegt haben.
+
+<sup>2.</sup> Für einen Arealstaat oder eine Organisation der regionalen Wirtschaftsintegration, die nach dem Zeitpunkt, zu dem die für das Inkrafttreten erforderliche Zahl von Arealstaaten und Organisationen der Wirtschaftsintegration das Abkommen ohne Vorbehalt unterzeichnet oder es gegebenenfalls ratifiziert, angenommen oder genehmigt haben,
+
+tritt dieses Abkommen am ersten Tag des dritten Monats in Kraft, der auf den Zeitpunkt folgt, zu dem dieser Staat oder diese Organisation es ohne Vorbehalt unterzeichnet oder eine Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde hinterlegt haben.
+
+- (a) dieses Abkommen ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
+- (b) es ratifizieren, annehmen oder genehmigen, oder
+- (c) ihm beitreten,
+
+#### Art. XV
+
+**Vorbehalte**
+
+Allgemeine Vorbehalte zu diesem Abkommen sind nicht zulässig. Jedoch kann jeder Staat oder Organisation der regionalen Wirtschaftsintegration bei der Unterzeichnung ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung beziehungsweise bei der Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde einen besonderen Vorbehalt in Bezug auf eine bestimmte, dem Abkommen unterliegende Art oder auf eine konkrete Bestimmung des Aktionsplans anbringen. Ein solcher Vorbehalt kann vom Staat oder von der Organisation der regionalen Wirtschaftsintegration, die ihn angebracht haben, jederzeit durch schriftliche Notifikation an den Verwahrer zurückgezogen werden; dieser Staat oder diese Organisation sind nicht vor Ablauf von dreissig Tagen seit dem Zeitpunkt, zu dem der Vorbehalt zurückgezogen wurde, durch die Bestimmungen gebunden, die Gegenstand des Vorbehalts waren.
+
+#### Art. XVI
+
+**Kündigung**
+
+Eine Vertragspartei kann dieses Abkommen jederzeit durch eine an den Verwahrer gerichtete schriftliche Notifikation kündigen. Die Kündigung wird zwölf Monate nach Eingang der Notifikation beim Verwahrer wirksam.
+
+#### Art. XVII
+
+**Verwahrer**
+
+<sup>1.</sup> Die Urschrift dieses Abkommens, die in englischer, arabischer, französischer und russischer Sprache abgefasst ist, wobei jede Fassung gleichermassen verbindlich ist, wird bei der Regierung des Königreichs der Niederlande als Verwahrer hinterlegt. Der Verwahrer übermittelt allen in Artikel XIII Absatz 1 dieses Abkommens bezeichneten Staaten und Organisationen der regionalen Wirtschaftsintegration sowie dem Sekretariat des Abkommens, sobald es eingerichtet ist, beglaubigte Abschriften dieser Fassungen.
+
+<sup>2.</sup> Sogleich nach Inkrafttreten dieses Abkommens übermittelt der Verwahrer dem Sekretariat der Vereinten Nationen eine beglaubigte Abschrift zur Registrierung und Veröffentlichung gemäss Artikel 102 der Charta der Vereinten Nationen[^XVII-1].
+
+<sup>3.</sup> Der Verwahrer übermittelt allen Staaten und allen Organisationen der regionalen Wirtschaftsintegration, die dieses Abkommen unterzeichnet haben oder ihm beigetreten sind, sowie dem Sekretariat des Abkommens den Wortlaut jedes Vorbehalts, jedes weiteren Anhangs und jeder Änderung des Abkommens oder seiner Anhänge.
+
+Der Verwahrer unterrichtet alle Staaten und alle Organisationen der regionalen Wirtschaftsintegration, die dieses Abkommen unterzeichnet haben oder ihm beigetreten sind, sowie das Sekretariat des Abkommens über:
+
+- (a) jede Unterzeichnung,
+- (b) jede Hinterlegung einer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde,
+- (c) den Zeitpunkt des Inkrafttretens des Abkommens und jedes weiteren Anhangs sowie jeder Änderung des Abkommens oder seiner Anhänge,
+- (d) jeden Vorbehalt betreffend einen neuen Anhang oder eine Änderung eines Anhangs,
+- (e) jede Notifikation des Rückzugs eines Vorbehalts,
+- (f) jede Notifikation der Kündigung des Abkommens.
+
+[^XVII-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Den Haag am fünfzehnten August Neunzehnhundertsechsundneunzig. (Es folgen die Unterschriften)
+
+Anhang 1
+
+## Bestimmung des Abkommensgebiets
+
+Die Grenzen des Abkommensgebiets werden wie folgt festgelegt: vom Nordpol in Richtung Süden entlang des 130. westlichen Längengrads bis zum 75. nördlichen Breitengrad; von dort in Richtung Osten und Südosten über den Viscount Melville Sund, Prince Regent Inlet, den Golf von Boothia, das Foxe Becken, den Foxe Kanal und die Hudsonstrasse bis zu einem im nordwestlichen Atlantik gelegenen Punkt, dessen Koordinaten 60° nördliche Breite und 60° westliche Länge sind; von dort gegen Südosten durch den nordwestlichen Atlantik bis zu einem Punkt dessen Koordinaten 50° nördliche Breite und 30° westliche Länge sind; von dort entlang dem 30. westlichen Längengrad bis zum 10. nördlichen Breitengrad; von dort gegen Südosten bis zur Schnittstelle des Äquators mit dem 20. westlichen Längengrad; von dort gegen Süden entlang dem 20. westlichen Längengrad bis zum 40. südlichen Breitengrad; von dort gegen Osten entlang dem 40. südlichen Breitengrad bis zum 60. östlichen Längengrad; von dort gegen Norden entlang dem 60. östlichen Längengrad bis zum 35. nördlichen Breitengrad; von dort gegen Nordosten, in einem Grosskreisbogen bis zu einem im westlichen Altai gelegenen Punkt, dessen Koordinaten 49° nördliche Breite und 87° 27’ östliche Länge sind; von dort in einem Grosskreisbogen durch Zentralsibirien bis an die Küste des Nördlichen Eismeeres bei 130° östlicher Breite; von dort entlang dem 130. östlichen Breitengrad bis zum Nordpol. Das Abkommensgebiet ist auf der beiliegenden Karte eingezeichnet.
+
+### Karte des Abkommensgebiet****
+
+[^annex1-lvlu1-lvlu1-1]
+
+[^annex1-lvlu1-lvlu1-1]: Die Karte wird in der AS nicht veröffentlicht.
+
+Anhang 2*[^t-2]*
+
+## Wasservogelarten, auf die sich dieses Abkommen bezieht****
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Fassung gemäss Änd. vom 8. Dez. 2018, in Kraft seit 9. März 2019 ([AS 2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217)).
+[^annex2-lvlu1-1]: Mit Resolution 6.1 der MoP6 2015 wurde eine neue taxonomische Ordnung gestützt auf das «Handbook of the Birds of the World» (2014) übernommen. Dies führt zu weitreichenden Änderungen bei den wissenschaftlichen Bezeichnungen. Die Anhänge 2 und 3, sowie die Tabelle 1 wurden entsprechend angepasst.
+
+<table>
+<tr><td colspan="2">Familie ANATIDAE (Entenverwandte)</td></tr>
+<tr><td>Dendrocygna viduata</td><td>Witwenpfeifgans</td></tr>
+<tr><td>Dendrocygna bicolor</td><td>Gelbbrustpfeifgans</td></tr>
+<tr><td>Thalassornis leuconotus</td><td>Weissrückenpfeifgans Weissrückenente</td></tr>
+<tr><td>Oxyura maccoa</td><td>Maccoaente</td></tr>
+<tr><td>Oxyura leucocephala</td><td>Weisskopfruderente</td></tr>
+<tr><td>Cygnus olor</td><td>Höckerschwan</td></tr>
+<tr><td>Cygnus cygnus</td><td>Singschwan</td></tr>
+<tr><td>Cygnus columbianus</td><td>Zwergschwan</td></tr>
+<tr><td>Branta bernicla</td><td>Ringelgans</td></tr>
+<tr><td>Branta leucopsis</td><td>Weisswangengans</td></tr>
+<tr><td>Branta ruficollis</td><td>Rothalsgans</td></tr>
+<tr><td>Anser anser</td><td>Graugans</td></tr>
+<tr><td>Anser fabalis</td><td>Saatgans</td></tr>
+<tr><td>Anser brachyrhynchus</td><td>Kurzschnabelgans</td></tr>
+<tr><td>Anser albifrons</td><td>Blässgans</td></tr>
+<tr><td>Anser erythropus</td><td>Zwerggans</td></tr>
+<tr><td>Clangula hyemalis</td><td>Eisente</td></tr>
+<tr><td>Somateria spectabilis</td><td>Prachteiderente</td></tr>
+<tr><td>Somateria mollissima</td><td>Eiderente</td></tr>
+<tr><td>Polysticta stelleri</td><td>Scheckente</td></tr>
+<tr><td>Melanitta fusca</td><td>Samtente</td></tr>
+<tr><td>Melanitta nigra</td><td>Trauerente</td></tr>
+<tr><td>Bucephala clangula</td><td>Schellente</td></tr>
+<tr><td>Mergellus albellus</td><td>Zwergsäger</td></tr>
+<tr><td>Mergus merganser</td><td>Gänsesäger</td></tr>
+<tr><td>Mergus serrator</td><td>Mittelsäger</td></tr>
+<tr><td>Alopochen aegyptiaca</td><td>Nilgans</td></tr>
+<tr><td>Tadorna tadorna</td><td>Brandgans</td></tr>
+<tr><td>Tadorna ferruginea</td><td>Rostgans</td></tr>
+<tr><td>Tadorna cana</td><td>Graukopfkasarka</td></tr>
+<tr><td>Plectropterus gambensis</td><td>Sporengans</td></tr>
+<tr><td>Sarkidiornis melanotos</td><td>Glanzente</td></tr>
+<tr><td>Nettapus auritus</td><td>Afrikanische Zwergente</td></tr>
+<tr><td>Marmaronetta angustirostris</td><td>Marmelente</td></tr>
+<tr><td>Netta rufina</td><td>Kolbenente</td></tr>
+<tr><td>Netta erythrophthalma</td><td>Rotaugenente</td></tr>
+<tr><td>Aythya ferina</td><td>Tafelente</td></tr>
+<tr><td>Aythya nyroca</td><td>Moorente</td></tr>
+<tr><td>Aythya fuligula</td><td>Reiherente</td></tr>
+<tr><td>Aythya marila</td><td>Bergente</td></tr>
+<tr><td>Spatula querquedula</td><td>Knäckente</td></tr>
+<tr><td>Spatula hottentota</td><td>Hottentottenente</td></tr>
+<tr><td>Spatula clypeata</td><td>Löffelente</td></tr>
+<tr><td>Mareca strepera</td><td>Schnatterente</td></tr>
+<tr><td>Mareca penelope</td><td>Pfeifente</td></tr>
+<tr><td>Anas undulata</td><td>Gelbschnabelente</td></tr>
+<tr><td>Anas platyrhynchos</td><td>Stockente</td></tr>
+<tr><td>Anas capensis</td><td>Fahlente</td></tr>
+<tr><td>Anas erythrorhyncha</td><td>Rotschnabelente</td></tr>
+<tr><td>Anas acuta</td><td>Spiessente</td></tr>
+<tr><td>Anas crecca</td><td>Krickente</td></tr>
+<tr><td colspan="2">Familie PODICIPEDIDAE (Lappentaucher)</td></tr>
+<tr><td>Tachybaptus ruficollis</td><td>Zwergtaucher</td></tr>
+<tr><td>Podiceps grisegena</td><td>Rothalstaucher</td></tr>
+<tr><td>Podiceps cristatus</td><td>Haubentaucher</td></tr>
+<tr><td>Podiceps auritus</td><td>Ohrentaucher</td></tr>
+<tr><td>Podiceps nigricollis</td><td>Schwarzhalstaucher</td></tr>
+<tr><td colspan="2">Familie PHOENICOPTERIDAE (Flamingos)</td></tr>
+<tr><td>Phoenicopterus roseus</td><td>Rosaflamingo</td></tr>
+<tr><td>Phoeniconaias minor</td><td>Zwergflamingo</td></tr>
+<tr><td colspan="2">Familie PHAETHONTIDAE (Tropikvögel)</td></tr>
+<tr><td>Phaethon aethereus</td><td>Rotschnabel-Tropikvogel</td></tr>
+<tr><td>Phaethon rubricauda</td><td>Rotschwanz-Tropikvogel</td></tr>
+<tr><td>Phaethon lepturus</td><td>Weissschwanz-Tropikvogel</td></tr>
+<tr><td colspan="2">Familie RALLIDAE (Rallen)</td></tr>
+<tr><td>Sarothrura elegans</td><td>Tropfenralle</td></tr>
+<tr><td>Sarothrura boehmi</td><td>Böhmralle</td></tr>
+<tr><td>Sarothrura ayresi</td><td>Spiegelralle</td></tr>
+<tr><td>Rallus aquaticus</td><td>Wasserralle</td></tr>
+<tr><td>Rallus caerulescens</td><td>Kapralle</td></tr>
+<tr><td>Crex egregia</td><td>Steppenralle</td></tr>
+<tr><td>Crex crex</td><td>Wachtelkönig</td></tr>
+<tr><td>Porzana porzana</td><td>Tüpfelsumpfhuhn</td></tr>
+<tr><td>Zapornia flavirostra</td><td>Mohrenralle</td></tr>
+<tr><td>Zapornia parva</td><td>Kleines Sumpfhuhn</td></tr>
+<tr><td>Zapornia pusilla</td><td>Zwergsumpfhuhn</td></tr>
+<tr><td>Amaurornis marginalis</td><td>Graukehl-Sumpfhuhn</td></tr>
+<tr><td>Porphyrio alleni</td><td>Bronzesultanshuhn</td></tr>
+<tr><td>Gallinula chloropus</td><td>Teichhuhn</td></tr>
+<tr><td>Gallinula angulata</td><td>Zwergteichhuhn</td></tr>
+<tr><td>Fulica cristata</td><td>Kammblässhuhn</td></tr>
+<tr><td>Fulica atra</td><td>Blässhuhn</td></tr>
+<tr><td colspan="2">Familie GRUIDAE (Kraniche)</td></tr>
+<tr><td>Balearica regulorum</td><td>Südafrikanischer Kronenkranich</td></tr>
+<tr><td>Balearica pavonina</td><td>Kronenkranich</td></tr>
+<tr><td>Leucogeranus leucogeranus</td><td>Schneekranich</td></tr>
+<tr><td>Bugeranus carunculatus</td><td>Klunkerkranich</td></tr>
+<tr><td>Anthropoides paradiseus</td><td>Paradieskranich</td></tr>
+<tr><td>Anthropoides virgo</td><td>Jungfernkranich</td></tr>
+<tr><td>Grus grus</td><td>Kranich/Graukranich</td></tr>
+<tr><td colspan="2">Familie GAVIIDAE (Seetaucher)</td></tr>
+<tr><td>Gavia stellata</td><td>Sterntaucher</td></tr>
+<tr><td>Gavia arctica</td><td>Prachttaucher</td></tr>
+<tr><td>Gavia immer</td><td>Eistaucher</td></tr>
+<tr><td>Gavia adamsii</td><td>Gelbschnabeltaucher</td></tr>
+<tr><td colspan="2">Familie SPHENISCIDAE (Pinguine)</td></tr>
+<tr><td>Spheniscus demersus</td><td>Brillenpinguin</td></tr>
+<tr><td colspan="2">Familie CICONIIDAE (Störche)</td></tr>
+<tr><td>Leptoptilos crumenifer</td><td>Marabu</td></tr>
+<tr><td>Mycteria ibis</td><td>Nimmersatt</td></tr>
+<tr><td>Anastomus lamelligerus</td><td>Mohrenklaffschnabel</td></tr>
+<tr><td>Ciconia nigra</td><td>Schwarzstorch</td></tr>
+<tr><td>Ciconia abdimii</td><td>Abdimstorch</td></tr>
+<tr><td>Ciconia microscelis</td><td>Afrikanischer Wollhalsstorch</td></tr>
+<tr><td>Ciconia ciconia</td><td>Weissstorch</td></tr>
+<tr><td colspan="2">Familie THRESKIORNITHIDAE (Ibisse)</td></tr>
+<tr><td>Platalea alba</td><td>Afrikanischer Löffler/ Rosenfusslöffler</td></tr>
+<tr><td>Platalea leucorodia</td><td>Löffler</td></tr>
+<tr><td>Threskiornis aethiopicus</td><td>Heiliger Ibis</td></tr>
+<tr><td>Geronticus eremita</td><td>Waldrapp</td></tr>
+<tr><td>Plegadis falcinellus</td><td>Sichler</td></tr>
+<tr><td colspan="2">Familie ARDEIDAE (Reiher)</td></tr>
+<tr><td>Botaurus stellaris</td><td>Rohrdommel</td></tr>
+<tr><td>Ixobrychus minutus</td><td>Zwergdommel</td></tr>
+<tr><td>Ixobrychus sturmii</td><td>Graurückendommel</td></tr>
+<tr><td>Nycticorax nycticorax</td><td>Nachtreiher</td></tr>
+<tr><td>Ardeola ralloides</td><td>Rallenreiher</td></tr>
+<tr><td>Ardeola idae</td><td>Dickschnabelreiher</td></tr>
+<tr><td>Ardeola rufiventris</td><td>Rotbauchreiher</td></tr>
+<tr><td>Bubulcus ibis</td><td>Kuhreiher</td></tr>
+<tr><td>Ardea cinerea</td><td>Graureiher</td></tr>
+<tr><td>Ardea melanocephala</td><td>Schwarzhalsreiher</td></tr>
+<tr><td>Ardea purpurea</td><td>Purpurreiher</td></tr>
+<tr><td>Ardea alba</td><td>Silberreiher</td></tr>
+<tr><td>Ardea brachyrhyncha</td><td>Afrikamittelreiher</td></tr>
+<tr><td>Egretta ardesiaca</td><td>Glockenreiher</td></tr>
+<tr><td>Egretta vinaceigula</td><td>Braunkehlreiher</td></tr>
+<tr><td>Egretta garzetta</td><td>Seidenreiher</td></tr>
+<tr><td>Egretta gularis</td><td>Küstenreiher</td></tr>
+<tr><td colspan="2">Familie BALAENICIPITIDAE (Schuhschnabel)</td></tr>
+<tr><td>Balaeniceps rex</td><td>Schuhschnabel</td></tr>
+<tr><td colspan="2">Familie PELECANIDAE (Pelikane)</td></tr>
+<tr><td>Pelecanus crispus</td><td>Krauskopfpelikan</td></tr>
+<tr><td>Pelecanus rufescens</td><td>Rötelpelikan</td></tr>
+<tr><td>Pelecanus onocrotalus</td><td>Rosapelikan</td></tr>
+<tr><td colspan="2">Familie FREGATIDAE (Fregattvögel)</td></tr>
+<tr><td>Fregata ariel</td><td>Arielfregattvogel</td></tr>
+<tr><td>Fregata minor</td><td>Bindenfregattvogel</td></tr>
+<tr><td colspan="2">Familie SULIDAE (Tölpel)</td></tr>
+<tr><td>Morus bassanus</td><td>Basstölpel</td></tr>
+<tr><td>Morus capensis</td><td>Kaptölpel</td></tr>
+<tr><td>Sula dactylatra</td><td>Maskentölpel</td></tr>
+<tr><td colspan="2">Familie PHALACROCORACIDAE (Kormorane)</td></tr>
+<tr><td>Microcarbo coronatus</td><td>Wahlberg**s**charbe</td></tr>
+<tr><td>Microcarbo pygmaeus</td><td>Zwergscharbe</td></tr>
+<tr><td>Phalacrocorax aristotelis</td><td>Krähenscharbe</td></tr>
+<tr><td>Phalacrocorax carbo</td><td>Kormoran</td></tr>
+<tr><td>Phalacrocorax capensis</td><td>Kapkormoran</td></tr>
+<tr><td>Phalacrocorax nigrogularis</td><td>Sokotrakormoran</td></tr>
+<tr><td>Phalacrocorax neglectus</td><td>Küstenscharbe</td></tr>
+<tr><td colspan="2">Familie BURHINIDAE (Triele)</td></tr>
+<tr><td>Burhinus senegalensis</td><td>Senegaltriel</td></tr>
+<tr><td colspan="2">Familie PLUVIANIDAE (Krokodilwächter)</td></tr>
+<tr><td>Pluvianus aegyptius</td><td>Krokodilwächter</td></tr>
+<tr><td colspan="2">Familie HAEMATOPODIDAE (Austernfischer)</td></tr>
+<tr><td>Haematopus moquini</td><td>Schwarzer Austernfischer</td></tr>
+<tr><td>Haematopus ostralegus</td><td>Austernfischer</td></tr>
+<tr><td colspan="2">Familie RECURVIROSTRIDAE (Säbelschnäblerverwandte)</td></tr>
+<tr><td>Recurvirostra avosetta</td><td>Säbelschnäbler</td></tr>
+<tr><td>Himantopus himantopus</td><td>Stelzenläufer</td></tr>
+<tr><td colspan="2">Familie CHARADRIIDAE (Regenpfeiferverwandte)</td></tr>
+<tr><td>Pluvialis squatarola</td><td>Kiebitzregenpfeifer</td></tr>
+<tr><td>Pluvialis apricaria</td><td>Goldregenpfeifer</td></tr>
+<tr><td>Pluvialis fulva</td><td>Tundra-Goldregenpfeifer</td></tr>
+<tr><td>Eudromias morinellus</td><td>Mornellregenpfeifer</td></tr>
+<tr><td>Charadrius hiaticula</td><td>Sandregenpfeifer</td></tr>
+<tr><td>Charadrius dubius</td><td>Flussregenpfeifer</td></tr>
+<tr><td>Charadrius pecuarius</td><td>Hirtenregenpfeifer</td></tr>
+<tr><td>Charadrius tricollaris</td><td>Dreibandregenpfeifer</td></tr>
+<tr><td>Charadrius forbesi</td><td>Braunstirnregenpfeifer</td></tr>
+<tr><td>Charadrius marginatus</td><td>Weissstirnregenpfeifer</td></tr>
+<tr><td>Charadrius alexandrinus</td><td>Seeregenpfeifer</td></tr>
+<tr><td>Charadrius pallidus</td><td>Rotbandregenpfeifer</td></tr>
+<tr><td>Charadrius mongolus</td><td>Mongolenregenpfeifer</td></tr>
+<tr><td>Charadrius leschenaultii</td><td>Wüstenregenpfeifer</td></tr>
+<tr><td>Charadrius asiaticus</td><td>Wermutregenpfeifer</td></tr>
+<tr><td>Vanellus vanellus</td><td>Kiebitz</td></tr>
+<tr><td>Vanellus spinosus</td><td>Spornkiebitz</td></tr>
+<tr><td>Vanellus albiceps</td><td>Langspornkiebitz/Weissscheitelkiebitz</td></tr>
+<tr><td>Vanellus lugubris</td><td>Trauerkiebitz</td></tr>
+<tr><td>Vanellus melanopterus</td><td>Schwarzflügelkiebitz</td></tr>
+<tr><td>Vanellus coronatus</td><td>Kronenkiebitz</td></tr>
+<tr><td>Vanellus senegallus</td><td>Senegalkiebitz</td></tr>
+<tr><td>Vanellus superciliosus</td><td>Rotbrustkiebitz</td></tr>
+<tr><td>Vanellus gregarius</td><td>Steppenkiebitz</td></tr>
+<tr><td>Vanellus leucurus</td><td>Weissschwanzkiebitz</td></tr>
+<tr><td colspan="2">Familie SCOLOPACIDAE (Schnepfenverwandte)</td></tr>
+<tr><td>Numenius phaeopus</td><td>Regenbrachvogel</td></tr>
+<tr><td>Numenius tenuirostris</td><td>Dünnschnabelbrachvogel</td></tr>
+<tr><td>Numenius arquata</td><td>Grosser Brachvogel</td></tr>
+<tr><td>Limosa lapponica</td><td>Pfuhlschnepfe</td></tr>
+<tr><td>Limosa limosa</td><td>Uferschnepfe</td></tr>
+<tr><td>Arenaria interpres</td><td>Steinwälzer</td></tr>
+<tr><td>Calidris tenuirostris</td><td>Grosser Knutt</td></tr>
+<tr><td>Calidris canutus</td><td>Knutt</td></tr>
+<tr><td>Calidris pugnax</td><td>Kampfläufer</td></tr>
+<tr><td>Calidris falcinellus</td><td>Sumpfläufer</td></tr>
+<tr><td>Calidris ferruginea</td><td>Sichelstrandläufer</td></tr>
+<tr><td>Calidris temminckii</td><td>Temminckstrandläufer</td></tr>
+<tr><td>Calidris alba</td><td>Sanderling</td></tr>
+<tr><td>Calidris alpina</td><td>Alpenstrandläufer</td></tr>
+<tr><td>Calidris maritima</td><td>Meerstrandläufer</td></tr>
+<tr><td>Calidris minuta</td><td>Zwergstrandläufer</td></tr>
+<tr><td>Scolopax rusticola</td><td>Waldschnepfe</td></tr>
+<tr><td>Gallinago stenura</td><td>Stiftbekassine</td></tr>
+<tr><td>Gallinago media</td><td>Doppelschnepfe</td></tr>
+<tr><td>Gallinago gallinago</td><td>Bekassine</td></tr>
+<tr><td>Lymnocryptes minimus</td><td>Zwergschnepfe</td></tr>
+<tr><td>Phalaropus lobatus</td><td>Odinshühnchen</td></tr>
+<tr><td>Phalaropus fulicarius</td><td>Thorshühnchen</td></tr>
+<tr><td>Xenus cinereus</td><td>Terekwasserläufer</td></tr>
+<tr><td>Actitis hypoleucos</td><td>Flussuferläufer</td></tr>
+<tr><td>Tringa ochropus</td><td>Waldwasserläufer</td></tr>
+<tr><td>Tringa erythropus</td><td>Dunkler Wasserläufer</td></tr>
+<tr><td>Tringa nebularia</td><td>Grünschenkel</td></tr>
+<tr><td>Tringa totanus</td><td>Rotschenkel</td></tr>
+<tr><td>Tringa glareola</td><td>Bruchwasserläufer</td></tr>
+<tr><td>Tringa stagnatilis</td><td>Teichwasserläufer</td></tr>
+<tr><td colspan="2">Familie DROMADIDAE (Reiherläufer)</td></tr>
+<tr><td>Dromas ardeola</td><td>Reiherläufer</td></tr>
+<tr><td colspan="2">Familie GLAREOLIDAE (Brachschwalbenverwandte)</td></tr>
+<tr><td>Glareola pratincola</td><td>Rotflügelbrachschwalbe</td></tr>
+<tr><td>Glareola nordmanni</td><td>Schwarzflügelbrachschwalbe</td></tr>
+<tr><td>Glareola ocularis</td><td>Madagaskarbrachschwalbe</td></tr>
+<tr><td>Glareola nuchalis</td><td>Halsbandbrachschwalbe</td></tr>
+<tr><td>Glareola cinerea</td><td>Weissachselbrachschwalbe</td></tr>
+<tr><td colspan="2">Familie LARIDAE (Möwen, Seeschwalben)</td></tr>
+<tr><td>Anous stolidus</td><td>Noddiseeschwalbe</td></tr>
+<tr><td>Anous tenuirostris</td><td>Schlankschnabelnoddi</td></tr>
+<tr><td>Rynchops flavirostris</td><td>Afrikascherenschnabel</td></tr>
+<tr><td>Hydrocoloeus minutus</td><td>Zwergmöwe</td></tr>
+<tr><td>Xema sabini</td><td>Schwalbenmöwe</td></tr>
+<tr><td>Rissa tridactyla</td><td>Dreizehenmöwe</td></tr>
+<tr><td>Larus genei</td><td>Dünnschnabelmöwe</td></tr>
+<tr><td>Larus ridibundus</td><td>Lachmöwe</td></tr>
+<tr><td>Larus hartlaubii</td><td>Hartlaubmöwe</td></tr>
+<tr><td>Larus cirrocephalus</td><td>Graukopfmöwe</td></tr>
+<tr><td>Larus ichthyaetus</td><td>Fischmöwe</td></tr>
+<tr><td>Larus melanocephalus</td><td>Schwarzkopfmöwe</td></tr>
+<tr><td>Larus hemprichii</td><td>Hemprichmöwe</td></tr>
+<tr><td>Larus leucopthalmus</td><td>Weissaugenmöwe</td></tr>
+<tr><td>Larus audouinii</td><td>Korallenmöwe</td></tr>
+<tr><td>Larus canus</td><td>Sturmmöwe</td></tr>
+<tr><td>Larus dominicanus</td><td>Dominikanermöwe</td></tr>
+<tr><td>Larus fuscus</td><td>Heringsmöwe</td></tr>
+<tr><td>Larus argentatus</td><td>Silbermöwe</td></tr>
+<tr><td>Larus armenicus</td><td>Armenienmöwe</td></tr>
+<tr><td>Larus michahellis</td><td>Mittelmeermöwe</td></tr>
+<tr><td>Larus cachinnans</td><td>Steppenmöwe</td></tr>
+<tr><td>Larus glaucoides</td><td>Polarmöwe</td></tr>
+<tr><td>Larus hyperboreus</td><td>Eismöwe</td></tr>
+<tr><td>Larus marinus</td><td>Mantelmöwe</td></tr>
+<tr><td>Onychoprion fuscatus</td><td>Russseeschwalbe</td></tr>
+<tr><td>Onychoprion anaethetus</td><td>Zügelseeschwalbe</td></tr>
+<tr><td>Sternula albifrons</td><td>Zwergseeschwalbe</td></tr>
+<tr><td>Sternula saundersi</td><td>Orientseeschwalbe</td></tr>
+<tr><td>Sternula balaenarum</td><td>Damaraseeschwalbe</td></tr>
+<tr><td>Gelochelidon nilotica</td><td>Lachseeschwalbe</td></tr>
+<tr><td>Hydroprogne caspia</td><td>Raubseeschwalbe</td></tr>
+<tr><td>Chlidonias hybrida</td><td>Weissbartseeschwalbe</td></tr>
+<tr><td>Chlidonias leucopterus</td><td>Weissflügelseeschwalbe</td></tr>
+<tr><td>Chlidonias niger</td><td>Trauerseeschwalbe</td></tr>
+<tr><td>Sterna dougallii</td><td>Rosenseeschwalbe</td></tr>
+<tr><td>Sterna hirundo</td><td>Flussseeschwalbe</td></tr>
+<tr><td>Sterna repressa</td><td>Weisswangenseeschwalbe</td></tr>
+<tr><td>Sterna paradisaea</td><td>Küstenseeschwalbe</td></tr>
+<tr><td>Sterna vittata</td><td>Antipodenseeschwalbe</td></tr>
+<tr><td>Thalasseus bengalensis</td><td>Rüpellseeschwalbe</td></tr>
+<tr><td>Thalasseus sandvicensis</td><td>Brandseeschwalbe</td></tr>
+<tr><td>Thalasseus maximus</td><td>Königsseeschwalbe</td></tr>
+<tr><td>Thalasseus bergii</td><td>Eilseeschwalbe</td></tr>
+<tr><td colspan="2">Familie STERCORARIIDAE (Raubmöwen)</td></tr>
+<tr><td>Stercorarius longicaudus</td><td>Falkenraubmöwe</td></tr>
+<tr><td>Catharacta skua</td><td>Skua</td></tr>
+<tr><td>Familie ALCIDAE (Alken)</td><td></td></tr>
+<tr><td>Fratercula arctica</td><td>Papageitaucher</td></tr>
+<tr><td>Cepphus grylle</td><td>Gryllteiste</td></tr>
+<tr><td>Alca torda</td><td>Tordalk</td></tr>
+<tr><td>Alle alle</td><td>Krabbentaucher</td></tr>
+<tr><td>Uria lomvia</td><td>Dickschnabellumme</td></tr>
+<tr><td>Uria aalge</td><td>Trottellumme</td></tr>
+</table>
+
+Anhang 3*[^t-3]*
+
+## Aktionsplan
+
+[^t-3]: Fassung gemäss Änd. vom 8. Dez. 2018, in Kraft seit 9. März 2019 ([AS 2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217)). Bereinigt gemäss Berichtigung vom 2. Juli 2019 ([AS 2019 2015](https://fedlex.data.admin.ch/eli/oc/2019/371)).
+
+### 1 Geltungsbereich
+
+- 1\.1 Der Aktionsplan gilt für die Bestände der wandernden Wasservögel, die in der Tabelle 1 dieses Anhangs aufgeführt sind (in der Folge «Tabelle 1» genannt).
+- 1\.2 Die Tabelle 1 ist integrierender Bestandteil dieses Anhangs. Jeder Bezug auf den Aktionsplan ist auch ein Bezug auf Tabelle 1.
+
+### 2 Artenschutz
+
+- 2\.1 *Rechtliche Massnahmen*
+- 2\.1.1
+
+  Die Vertragsparteien mit Beständen, die in Kolonne A von Tabelle 1 dieses Aktionsplans aufgeführt werden, kümmern sich um den Schutz dieser Bestände nach Artikel III Absatz 2 Buchstabe (a) des Abkommens. Die Vertragsparteien sollen insbesondere und unter Vorbehalt von Absatz 2.1.3 dieses Anhangs:
+
+  - a) die Entnahme von Vögeln und Eiern dieser Bestände auf ihrem Hoheitsgebiet verbieten;
+  - b) vorsätzliche Störungen verbieten, insofern diese Störungen für die Erhaltung der betreffenden Bestände von Bedeutung sind; und
+  - c) Besitz, Nutzung von und Handel mit Vögeln dieser Bestände und ihren Eiern, wenn diese in Zuwiderhandlung zum unter Buchstaben a festgehaltenen Verbot entnommen worden sind, sowie Besitz, Nutzung von und Handel mit leicht identifizierbaren Teilen oder Produkten dieser Vögel und ihrer Eier verbieten.
+
+- Ausnahmsweise kann für Bestände, die in den Kategorien 2 und 3 der Kolonne A aufgehführt und mit einem Sternchen versehen sind, sowie für die Bestände der Kategorie 4 der Kolonne A die Jagd auf nachhaltige Weise[^annex3-lvlu1-lvl2-1] weitergeführt werden. Die nachhaltige Nutzung wird im Rahmen eines internationalen Aktionsplans nach Art erfolgen, mit dessen Hilfe die Vertragsparteien danach streben, die Grundsätze einer adaptiven Entnahmebewirtschaftung umzusetzen[^annex3-lvlu1-lvl2-2]. Diese Nutzung unterliegt zumindest denselben rechtlichen Bestimmungen, die gemäss Absatz 2.1.2 dieses Anhangs für die Entnahme aus der Natur von Vögeln aller Bestände gelten, die unter Kolonne B der Tabelle 1 genannt werden.
+- 2\.1.2
+
+  Die Vertragsparteien mit in Tabelle 1 aufgeführten Beständen regeln die Entnahme von Vögeln und Eiern aller Bestände, die unter Kolonne B der Tabelle 1 genannt werden. Das Ziel dieser Regelung ist es, diese Bestände zu erhalten oder dazu beizutragen, dass für sie eine günstige Erhaltungssituation wiederhergestellt wird, und sicherzustellen, dass nach den besten verfügbaren Erkenntnissen betreffend Populationsdynamik jegliche Entnahme aus der Natur oder sonstige Nutzung dieser Vögel oder Eier nachhaltig ist. Diese Regelung wird insbesondere und unter Vorbehalt der Bestimmungen in Absatz 2.1.3 dieses Anhangs:
+
+  - a) die Entnahme aus der Natur von Vögeln aus den betreffenden Beständen während der verschiedenen Brutphasen und der Aufzucht der Jungen und während ihrer Rückkehr zu den Brutstätten verbieten, insofern diese Entnahme aus der Natur einen ungünstigen Einfluss auf die Erhaltungssituation der betreffenden Bestände haben würde;
+  - b)
+
+    Art und Weise der Entnahme aus der Natur regeln und namentlich sämtliche Arten der systematischen Entnahme aus der Natur sowie sämtlicher Hilfsmittel verbieten, die zu massiven Zerstörungen sowie zum lokalen Verschwinden oder zu erheblichen Beeinträchtigungen von Populationen einer Art zur Folge haben können, darunter:
+
+    - – Schlingen,
+    - – Leimruten,
+    - – Haken,
+    - – als Lockmittel verwendete geblendete oder verstümmelte lebende Vögel,
+    - – Tonbandgeräte und andere elektronische Geräte,
+    - – elektrische Geräte, die töten oder betäuben können,
+    - – künstliche Lichtquellen,
+    - – Spiegel und andere blendende Vorrichtungen,
+    - – Vorrichtungen zur Beleuchtung der Ziele,
+    - – Visiervorrichtungen für das Schiessen bei Nacht mit elektronischem Bildverstärker oder Bildumwandler,
+    - – Sprengstoffe,
+    - – Netze,
+    - – Fallen,
+    - – Gift,
+    - – vergiftete oder betäubende Köder,
+    - – halbautomatische oder automatische Waffen, deren Magazin mehr als zwei Patronen aufnehmen kann,
+    - – Flugzeuge, Motorfahrzeuge oder Boote, die eine Geschwindigkeit von mehr als 5 km/h erreichen (18 km/h auf hoher See),
+
+  - die Vertragsparteien können Ausnahmen von den in Absatz 2.1.2 (b) dieses Anhangs genannten Verboten gewähren, um die Nutzung zur Deckung des Nahrungsbedarfs erlauben, unter der Voraussetzung allerdings, dass diese Nutzung nachhaltig erfolgt;
+  - c) die Grenzen der Entnahme aus der Natur soweit angebracht festlegen und geeignete Kontrollen einsetzen, um sicherzustellen, dass diese Grenzen eingehalten werden; und
+  - d) Besitz und Nutzung von und Handel mit Vögeln der betreffenden Bestände und ihren Eiern verbieten, die unter Missachtung der in den Bestimmungen dieses Absatz festgelegten Verboten aus der Natur entnommen werden, sowie Besitz und Nutzung von und Handel mit Teilen dieser Vögel und ihrer Eier.
+
+- 2\.1.3
+
+  Wenn es keine anderen zufrieden stellenden Lösungen gibt, können die Vertragsparteien Ausnahmen von den in Absatz 2.1.1 und 2.1.2 erlassenen Verboten zulassen, unter Vorbehalt der Bestimmungen in Artikel III Absatz 5 des Übereinkommens, und zwar aus folgenden Gründen:
+
+  - a) um wichtige Schäden an Kulturen, Gewässern und Fischereigebieten zu verhindern;
+  - b) im Interesse der Flugsicherung, der Gesundheit und der öffentlichen Sicherheit oder aus anderen zwingenden Gründen des öffentlichen Interesses, einschliesslich sozialer oder wirtschaftlicher Gründe, oder zum Wohl der Umwelt;
+  - c) zu Zwecken der Forschung und Bildung, der Wiederherstellung sowie für die dafür notwendige Aufzucht;
+  - d) um unter strikter Kontrolle selektiv und in einem beschränkten Rahmen die Entnahme aus der Natur, den Besitz oder jegliche andere fachgemässe Nutzung gewisser Vögel in kleinen Mengen zu erlauben; und
+  - e) mit dem Ziel, die Verbreitung oder das Überleben der betreffenden Bestände zu verbessern.
+
+- Diese Ausnahmen werden in ihrem Inhalt und ihren zeitlichen und räumlichen Grenzen genau festgelegt und dürfen den in Tabelle 1 aufgeführten Beständen keinen Schaden zufügen. Die Vertragsparteien informieren das Sekretariat des Abkommens so schnell wie möglich über jede Ausnahme, die sie aufgrund dieser Bestimmung zugelassen haben.
+- 2\.2 *Aktionsplan nach Art*
+- 2\.2.1 Die Vertragsparteien arbeiten zusammen, um die internationalen Aktionspläne nach Art vorrangig für die Bestände auszuarbeiten und zu verwirklichen, die in Kategorie 1 der Kolonne A der Tabelle 1 aufgeführt sind, sowie für die mit einem Sternchen gekennzeichneten Bestände in Kolonne A der Tabelle 1. Das Sekretariat des Abkommens koordiniert die Ausarbeitung, Harmonisierung und Verwirklichung dieser Pläne.
+- 2\.2.2 Die Vertragsparteien bereiten nationale Aktionspläne nach Art vor und verwirklichen sie, um die allgemeine Erhaltungssituation der in Kolonne A von Tabelle 1 aufgeführten Bestände zu verbessern. Solche Pläne enthalten spezielle Bestimmungen für die mit einem Sternchen bezeichneten Bestände. Wenn angebracht, sollte das Problem, dass Jäger Vögel aufgrund falscher Identifizierung versehentlich töten, erwogen werden.
+- 2\.3 *Dringliche Massnahmen*
+- Falls an irgendeinem Ort des Abkommensgebiets besonders ungünstige oder gefährliche Bedingungen auftreten sollten, arbeiten die Vertragsparteien wenn immer möglich und angebracht zusammen, um dringliche Massnahmen für die Bestände zu entwickeln und durchzuführen, die in Tabelle 1 aufgeführt werden.
+- 2\.4 *Wiederansiedlung*
+- Die Vertragsparteien wenden grösste Wachsamkeit auf, wenn auf Tabelle 1 aufgeführte Bestände in Teilen ihres herkömmlichen Verbreitungsgebiets wiederangesiedelt werden, nachdem sie von dort verschwunden sind. Die Vertragsparteien bemühen sich, einen detaillierten Wiederansiedlungsplan auszuarbeiten und zu befolgen, der sich auf sachdienliche wissenschaftliche Studien abstützt. Die Wiederansiedlungspläne sollten ein integrierender Bestandteil der nationalen Aktionspläne und gegebenenfalls der internationalen Aktionspläne nach Art darstellen. Ein Wiederansiedlungsplan sollte eine Umweltverträglichkeitsprüfung enthalten; er soll umfassend verbreitet werden. Die Vertragsparteien informieren das Sekretariat des Abkommens im Voraus über jedes Wiederansiedlungsprogramm für in Tabelle 1 aufgeführte Bestände.
+- 2\.5 *Einbringungen*
+- 2\.5.1 Die Vertragsparteien verbieten die Einbringung nicht heimischer Tier- und Pflanzenarten in die Umwelt, die den in Tabelle 1 aufgeführten wandernden Wasservögelbeständen schaden könnten.
+- 2\.5.2 Die Vertragsparteienstellen sicher, dass entsprechende Vorsichtsmassnahmen getroffen werden, um zu vermeiden, dass versehentlich gefangene Tiere entweichen, die zu nichtheimischen Arten gehören und die den in Tabelle 1 aufgeführten Beständen schaden könnten.
+- 2\.5.3 Falls es durchführbar und angebracht ist, treffen die Vertragsparteien Massnahmen, einbegriffen Entnahmemassnahmen, damit nicht heimische Arten und ihre Hybriden, die bereits auf ihrem Gebiet eingebracht wurden, nicht zu einer möglichen Bedrohung für die in Tabelle 1 aufgeführten Bestände werden.
+
+[^annex3-lvlu1-lvl2-1]: «Nachhaltige Nutzung» bedeutet, dass Bestandteile der biologischen Vielfalt in einer Weise und in einem Ausmass genutzt werden, die nicht zum langfristigen Rückgang der biologischen Vielfalt führen, wodurch ihr Potenzial erhalten bleibt, die Bedürfnisse und Wünsche heutiger und künftiger Generationen zu erfüllen.
+[^annex3-lvlu1-lvl2-2]: Die adaptive Entnahmebewirtschaftung ist ein periodisches Verfahren zur Reglementierung der Jagd, das auf einer Beobachtung der Populationen und Lebensräume, einem Monitoring der Entnahmen aus der Natur, einer Analyse der Daten und der Definition reglementarischer Optionen beruht.
+
+### 3 Erhaltung der Habitate
+
+- 3\.1 *Inventar der Habitate*
+- 3\.1.1 Die Vertragsparteien erstellen und veröffentlichen, falls angebracht in Verbindung mit den geeigneten internationalen Organisationen, nationale Inventare der auf ihrem Gebiet existierenden Habitate, die für die in Tabelle 1 aufgeführten Bestände wichtig sind.
+- 3\.1.2 Die Vertragsparteien bemühen sich, vorrangig alle Stätten zu benennen, die für die in Tabelle 1 aufgeführten Beständen von internationaler oder nationaler Bedeutung sind.
+- 3\.2 *Erhaltung von Gebieten*
+- 3\.2.1 Die Vertragsparteien bemühen sich, weiterhin Schutzgebiete zur Erhaltung der Habitate zu schaffen, die für die in Tabelle 1 aufgeführten Bestände wichtig sind, und für diese Gebiete Managementpläne auszuarbeiten und anzuwenden.
+- 3\.2.2 Die Vertragsparteien bemühen sich um einen besonderen Schutz der Feuchtgebiete, die hinsichtlich der internationalen Bedeutung international anerkannte Kriterien erfüllen.
+- 3\.2.3
+
+  Die Vertragsparteien bemühen sich, alle Feuchtgebiete auf ihrem Territorium rationell und nachhaltig zu nutzen. Sie bemühen sich insbesondere, die Beeinträchtigung und den Verlust von Habitaten von in Tabelle 1 aufgeführten Beständen zu verhindern, indem sie entsprechende Verordnungen, Normen und Kontrollmassnahmen einführen. Sie bemühen sich insbesondere:
+
+  - a) in Übereinstimmung mit internationalen Normen angemessene vorschriftsmässige Massnahmen in Bezug auf den Einsatz von chemischen Produkten in der Landwirtschaft, die Schädlingsbekämpfung und die Abwasserbeseitigung zu treffen, mit dem Ziel, die ungünstigen Einflüsse dieser Praktiken auf die in Tabelle 1 aufgeführten Bestände auf das Minimum zu reduzieren;
+  - b) eine Dokumentation in den jeweiligen Sprachen vorzubereiten und zu verbreiten, in der die entsprechenden gültigen Verordnungen, Normen und Kontrollmassnahmen und ihre Vorteile für die Bevölkerung und die Pflanzen- und Tierwelt beschrieben werden.
+
+- 3\.2.4 Die Vertragsparteien bemühen sich, auf den Ökosystemen basierende Strategien für die Erhaltung der Habitate aller in Tabelle 1 aufgeführten Bestände auszuarbeiten, einbegriffen die Habitate von verstreuten Beständen.
+- 3\.3 *Sanierung und Wiederherstellung*
+- Wenn immer es durchführbar und angebracht ist, bemühen sich die Vertragsparteien, Zonen zu sanieren und wiederherzustellen, die früher für die in Tabelle 1 aufgeführten Bestände wichtig waren; dazu gehören Zonen, die beispielsweise durch Klimaveränderungen, hydrologische Veränderungen, die Landwirtschaft, die Verbreitung invasiver exotischer Wasservogelarten, natürliche Sukzession, unkontrollierte Brände, unnachhaltige Nutzung, Eutrophierung oder Verschmutzung beeinträchtigt wurden.
+
+### 4 Steuerung menschlicher Tätigkeiten
+
+- 4\.1 *Jagd*
+- 4\.1.1 Die Vertragsparteien arbeiten zusammen, damit ihre Jagdgesetze das Prinzip der nachhaltigen Nutzung umsetzen, wie dies im vorliegenden Aktionsplan vorgesehen ist, unter Berücksichtigung des gesamten geographischen Verbreitungsgebiets der betreffenden Wasservogelbestände und ihrer biologischen Eigenheiten.
+- 4\.1.2 Das Sekretariat des Abkommens wird von den Vertragsparteien laufend über ihre jeweilige Gesetzgebung über die Jagd der in Tabelle 1 aufgeführten Bestände informiert.
+- 4\.1.3 Die Vertragsparteien arbeiten zusammen, um ein zuverlässiges und aufeinander abgestimmtes System für die Sammlung von Daten über die Entnahmen aus der Natur zu entwickeln, damit die jährliche Entnahme unter den in Tabelle 1 aufgeführten Beständen überprüft werden kann. Wenn die Information vorhanden ist, legen sie dem Sekretariat des Abkommens für jeden Bestand Schätzungen über die gesamten jährlichen Entnahmen vor.
+- 4\.1.4 Die Vertragsparteien bemühen sich, den Gebrauch von Bleischrot für die Jagd in den Feuchtgebieten gemäss von ihnen selbst beschlossenen und veröffentlichen Zeitplänen so rasch als möglich zu unterbinden.
+- 4\.1.5[^annex3-lvlu1-lvl4-1] …
+- 4\.1.6 Die Vertragsparteien entwickeln und setzen Massnahmen ein, um die illegalen Entnahmen aus der Natur zu reduzieren und im Rahmen des Möglichen ganz zu unterbinden.
+- 4\.1.7 Falls notwendig, ermutigen die Vertragsparteien die Jäger, auf lokaler, nationaler und internationaler Ebene ihre eigenen Verbände oder Organisationen zu schaffen, um ihre Aktivitäten zu koordinieren und das Konzept der nachhaltigen Nutzung zu verwirklichen.
+- 4\.1.8 Die Vertragsparteien ermutigen falls notwendig obligatorischen Fähigkeitsprüfungen für Jäger, die unter anderem auch die Identifizierung von Vögeln abdecken.
+- 4\.2 *Ökotourismus*
+- 4\.2.1 Ausser wenn es sich um zentrale Zonen von Schutzgebieten handelt, fördern die Vertragsparteien wenn angebracht die Ausarbeitung von Programmen, in denen alle Beteiligten zusammenarbeiten, um einen passenden und angebrachten Ökotourismus in den Feuchtgebieten zu entwickeln, in denen in Tabelle 1 aufgeführte Beständen konzentriert sind.
+- 4\.2.2 Die Vertragsparteien bemühen sich, in Zusammenarbeit mit den geeigneten internationalen Organisationen Kosten, Vorteile und andere Konsequenzen zu prüfen, die aus dem Ökotourismus in den Feuchtgebieten entstehen können, in denen in Tabelle 1 aufgeführte und dafür ausgewählte Bestände konzentriert sind. Sie übermitteln das Resultat jeglicher so durchgeführten Überprüfung dem Sekretariat des Abkommens.
+- 4\.3 *Sonstige menschliche Tätigkeiten*
+- 4\.3.1 Die Vertragsparteien prüfen die Verträglichkeit von Projekten, die zwischen den in Tabelle 1 aufgeführten Beständen, die sich in den in Absatz 3.2 erwähnten Gebieten befinden, und menschlichen Interessen Konflikte herbeiführen könnten, und sie sorgen dafür, dass die Resultate dieser Prüfungen der Öffentlichkeit zugänglich gemacht werden.
+- 4\.3.2 Die Vertragsparteien bemühen sich, Informationen über die verschiedenen Schäden insbesondere an den Kulturen und in Fischereigebieten zu sammeln, die von den in Tabelle 1 aufgeführten Beständen hervorgerufen wurden, und übermitteln dem Sekretariat des Abkommens einen Bericht über die erreichten Resultate.
+- 4\.3.3 Die Vertragsparteien arbeiten zusammen, um die passenden Techniken zu ermitteln, um die Auswirkungen der von in Tabelle 1 aufgeführten Bestände hervorgerufenen Schäden, insbesondere an den Kulturen und in Fischereigebieten, auf ein Minimum zu reduzieren oder zu verringern.
+- 4\.3.4 Die Vertragsparteien arbeiten zusammen, um Bewirtschaftungspläne nach Art für Bestände zu entwickeln, die vor allem an den Kulturen und in Fischereigebieten bedeutende Schäden hervorrufen. Das Sekretariat des Abkommens koordiniert die Entwicklung und Abstimmung dieser Pläne.
+- 4\.3.5 Die Vertragsparteien ermutigen im Rahmen des Möglichen, dass in der Planung und dem Bau von Anlagen hohe Umweltnormen angewandt werden, um deren Auswirkungen auf die in Tabelle 1 aufgeführten Bestände auf ein Minimum zu verringern. Sie sollten Massnahmen in Betracht ziehen, um die Auswirkungen bereits bestehender Anlagen auf ein Minimum zu verringern, falls es offensichtlich wird, dass diese einen ungünstigen Einfluss auf die betreffenden Bestände haben.
+- 4\.3.6 Falls die menschlichen Störungen die Erhaltungssituation der in Tabelle 1 aufgeführten Wasservogelbestände bedrohen, bemühen sich die Vertragsparteien, Massnahmen zur Verringerung dieser Bedrohung zu treffen. Besondere Aufmerksamkeit ist dabei dem Problem der menschlichen Störungen in Brutkolonien von koloniebrütenden Wasservogelarten zu schenken, insbesondere in Kolonien, die sich in beliebten Erholungsgebieten befinden. Passende Massnahmen könnten unter anderem beinhalten, dass innerhalb der Schutzgebiete Zonen geschaffen werden, die frei sind von jeglicher Störung und zu denen der Zutritt der Öffentlichkeit verboten ist.
+- 4\.3.7 Die Vertragsparteien werden dringend aufgefordert, auf nationaler Ebene oder im Rahmen Regionaler Fischereiorganisationen (RFOs) und kompetenter internationaler Organisationen zweckdienliche Massnahmen zu ergreifen, um die Auswirkungen der Fischerei[^annex3-lvlu1-lvl4-2] auf wandernde Wasservögel auf ein Minimum zu verringern, und nach Möglichkeit innerhalb dieser Gremien zusammenzuarbeiten, um die Sterblichkeit in Gebieten inner- wie ausserhalb ihrer nationalen Gerichtsbarkeit zu vermindern; insbesondere sind geeignete Massnahmen gegen versehentliche Tötung und gegen Beifang durch den Einsatz von Fischereigeräten einschliesslich Stellnetzen, Langleinen und Schleppnetzen zu ergreifen.
+- 4\.3.8 Die Vertragsparteien werden ferner dringend aufgefordert, auf nationaler Ebene oder im Rahmen Regionaler Fischereiorganisationen (RFOs) und kompetenter internationaler Organisationen zweckdienliche Massnahmen zu ergreifen, um die Auswirkungen der Fischerei auf wandernde Wasservögel, insbesondere die Folgen unnachhaltiger Fischereimethoden, welche zu einem Rückgang des Nahrungsangebots für wandernde Wasservögel führen, auf ein Minimum zu verringern.
+- 4\.3.9 Die Vertragsparteien sorgen für die Erarbeitung und die wirksame Durchführung von geeigneten gesetzlichen Verschmutzungskontrollen in Übereinstimmung mit internationalen Normen und rechtlichen Übereinkünften, namentlich im Hinblick auf auslaufendes Öl, Löschungen sowie Ablagerung von festen Abfällen, um deren Auswirkungen auf die in Tabelle 1 aufgeführten Bestände auf ein Minimum zu verringern.
+- 4\.3.10 Die Parteien erarbeiten geeignete Massnahmen, um auf Inseln und Inselchen die Bedrohung brütender wandernder Wasservögel durch nicht heimische Landraubtiere im Idealfall zu eliminieren oder zumindest zu vermindern. Die Massnahmen sollen sich auf Eventualfallplanungen zur Verhinderung von Invasionen, auf dringliche Massnahmen zur Eliminierung eingeführter Raubtiere sowie auf Wiederherstellungsprogramme für Inseln beziehen, wo sich Raubtierpopulationen bereits etabliert haben.
+- 4\.3.11 Die Vertragsparteien werden dringend aufgefordert, geeignete Massnahmen zu erarbeiten, um Bedrohungen für wandernde Wasservögel durch die Aquakultur zu bewältigen, unter anderem durch Umweltverträglichkeitsprüfungen von Anlagen und insbesondere von neuen Anlagen oder von Vergrösserungen bestehender Anlagen, die für Wasservögel wichtige Feuchtgebiete gefährden und die mit Beeinträchtigungen wie Verschmutzung (z.B. durch Rückstände von in der Aquakultur eingesetzten Arzneimitteln oder Überdüngung), Verlust von Habitaten, Verhedderungsgefahren sowie Einführungen nicht heimischer und potenziell invasiver Arten verbunden sind.
+- 4\.3.12 Die Vertragsparteien, das Sekretariat des Abkommens und der Fachausschuss arbeiten gegebenenfalls zusammen, um zusätzliche Angaben zu beschaffen, die die Art und den Umfang der Auswirkungen von Angelblei auf Wasservögel illustrieren, und diese Angaben zu berücksichtigen, dies in Anbetracht der Tatsache, dass Blei generell eine Gefahr für die Umwelt darstellt und schädliche Auswirkungen auf die Wasservögel hat. Die Vertragsparteien suchen gegebenenfalls nach Alternativen für Angelblei und berücksichtigen dabei deren Auswirkungen auf die Wasservögel und die Wasserqualität.
+
+[^annex3-lvlu1-lvl4-1]: Fassung gemäss Beschluss vom 18. Mai 2012, in Kraft seit 16. Aug. 2012.
+[^annex3-lvlu1-lvl4-2]: Der Begriff Fischerei schliesst die Aquakultur mit ein und bezieht sich sowohl auf Meeres- oder Süsswasserfische als auch auf Krustentiere und Weichtiere (z.B. Muscheln, Schnecken und Kopffüsser).
+
+### 5 Forschung und Überwachung
+
+- 5\.1 Die Vertragsparteien bemühen sich, Feldforschungen in wenig bekannten Zonen durchzuführen, in denen es bedeutende Konzentrationen von in Tabelle 1 aufgeführten Beständen geben könnte. Die Resultate dieser Forschungen werden weit verbreitet.
+- 5\.2 Die Vertragsparteien bemühen sich, für in Tabelle 1 aufgeführte Bestände ein regelmässiges Monitoring durchzuführen. Dessen Resultate werden veröffentlicht oder an die entsprechenden Organisationen übermittelt, um eine Überprüfung der Erhaltungssituation und -Tendenzen dieser Bestände zu ermöglichen.
+- 5\.3 Die Vertragsparteien arbeiten zusammen, um die Tendenzen der Vogelbestände besser zu bewerten und somit einen Indikator für die Erhaltungssituation dieser Bestände zu haben.
+- 5\.4 Die Vertragsparteien arbeiten zusammen, um die Wanderrouten aller in Tabelle 1 aufgeführten Bestände zu bestimmen, indem sie die verfügbaren Kenntnisse über die Verteilung dieser Bestände während und ausserhalb der Brutperioden sowie über die Resultate der Zählungen nutzen und an koordinierten Beringungsprogrammen teilnehmen.
+- 5\.5 Die Vertragsparteien bemühen sich, gemeinsame Forschungsprojekte über Ökologie und Dynamik der in Tabelle 1 aufgeführten Bestände und ihre Habitate durchzuführen und zu unterstützen, damit ihre spezifischen Bedürfnisse sowie die am ehesten angebrachten Verfahren zu ihrer Erhaltung und ihrem Management festgelegt werden können.
+- 5\.6 Die Vertragsparteien bemühen sich, Studien über die Auswirkungen des Verschwindens und die Beeinträchtigung von Feuchtgebieten sowie der Störungen auf die Aufnahmekapazität der von den in Tabelle 1 aufgeführten Bestände benutzten Feuchtgebiete sowie über die Wandergewohnheiten (Muster) dieser Bestände durchzuführen.
+- 5\.7 Die Vertragsparteien bemühen sich, Studien über die Verträglichkeit von Jagd und Handel auf die in Tabelle 1 aufgeführten Bestände und über die Bedeutung dieser Nutzformen für die lokale und nationale Wirtschaft durchzuführen.
+- 5\.8 Die Vertragsparteien bemühen sich, mit den kompetenten internationalen Organisationen zusammenzuarbeiten und Forschungs- und Überwachungsprojekte zu unterstützen.
+
+### 6 Bildung und Information
+
+- 6\.1 Die Vertragsparteien stellen gegebenenfalls Bildungsprogramme auf, damit das mit der Durchführung des Aktionsplans betraute Personal über die Kenntnisse verfügt, die für eine effiziente Durchführung notwendig sind.
+- 6\.2 Die Vertragsparteien arbeiten unter sich und mit dem Sekretariat des Abkommens zusammen, um Bildungsprogramme zu entwickeln und die verfügbare Dokumentation untereinander auszutauschen.
+- 6\.3 Die Vertragsparteien bemühen sich, Informationsprogramme, ‑Dokumentation und -Mechanismen zu entwickeln, um der allgemeinen Öffentlichkeit die Ziele, Bestimmungen und den Inhalt des Aktionsplans besser bewusst zu machen. Besondere Aufmerksamkeit soll in diesem Zusammenhang denen geschenkt werden, die inmitten von und rund um wichtige Feuchtgebiete wohnen, die diese Gebiete nutzen (Jäger, Fischer, Touristen, usw.), sowie den lokalen Behörden und andern Entscheidungsträgern.
+- 6\.4 Die Vertragsparteien bemühen sich, in der Öffentlichkeit spezielle Sensibilisierungskampagnen für die Erhaltung der in Tabelle 1 aufgeführten Bestände durchzuführen.
+
+### 7 Durchführungsmassnahmen
+
+- 7\.1 Bei der Durchführung dieses Aktionsplans geben die Vertragsparteien falls angebracht den in Kolonne A von Tabelle 1 aufgeführten Beständen den Vorrang.
+- 7\.2 Falls mehrere Bestände derselben in Tabelle 1 aufgeführten Art sich auf dem Territorium einer Vertragspartei aufhalten, wendet diese Vertragspartei die Erhaltungsmassnahmen an, die dem Bestand oder den Beständen mit der ungünstigsten Erhaltungssituation entsprechen.
+- 7\.3
+
+  Das Sekretariat des Abkommens – zusammen mit dem Fachausschuss und der Unterstützung von Experten der Arealstaaten – koordiniert die Ausarbeitung von Erhaltungsleitlinien, gemäss Artikel IV Absatz 4 des Abkommens, um den Vertragsparteien bei der Durchführung des Aktionsplans zu helfen. Das Sekretariat des Abkommens sieht dazu, dass diese Leitlinien wenn möglich mit denen kohärent sind, die im Rahmen anderer internationaler Vertragswerke genehmigt werden. Die Erhaltungsleitlinien haben die Einführung der nachhaltigen Nutzung zum Ziel. Sie beziehen sich unter anderem auf:
+
+  - a) Aktionspläne für einzelne Arten (Artenaktionspläne);
+  - b) dringliche Massnahmen;
+  - c) die Vorbereitung von Gebietsinventaren und Managementmethoden der Habitate;
+  - d) Jagdpraktiken;
+  - e) Handel mit wandernden Wasservögeln;
+  - f) Tourismus;
+  - g) Massnahmen zur Verringerung von Ernteschäden;
+  - h) ein Protokoll zur Überwachung der Wasservögel.
+
+- 7\.4
+
+  In Übereinstimmung mit dem Fachausschuss und den Vertragsparteien bereitet das Sekretariat des Abkommens eine Reihe von internationalen Studien vor, die zur Durchführung des Aktionsplans notwendig sind, insbesondere über:
+
+  - a) die Erhaltungssituation der Bestände und ihre Tendenzen;
+  - b) die Informationslücken in den Feldstudien;
+  - c) die von jedem Bestand benutzten Netze von Gebieten, einbegriffen die Prüfung des Schutzzustands jedes Gebiets sowie die Managementmassnahmen, die in jedem Fall ergriffen werden;
+  - d) die Gesetzgebungen nach den im Anhang 2 dieses Abkommens aufgeführten Arten, die sich auf Jagd und Handel in jedem Land beziehen;
+  - e) das Stadium der Vorbereitung und Verwirklichung der Aktionspläne nach Art;
+  - f) die Wiedereinrichtungsprojekte;
+  - g) die Situation von eingebrachten nicht heimischen Wasservogelarten und ihrer Hybriden.
+
+- 7\.5
+
+  Das Sekretariat des Abkommens sorgt dafür, dass die in Absatz 7.4 aufgeführten Studien in den folgenden Zeitabständen aktualisiert werden:
+
+  - a) zu jeder Tagung der Versammlung der Vertragsparteien;
+  - b) zu jeder zweiten Tagung der Versammlung der Vertragsparteien;
+  - c) zu jeder zweiten Tagung der Versammlung der Vertragsparteien;
+  - d) zu jeder dritten Tagung der Versammlung der Vertragsparteien;
+  - e) zu jeder zweiten Tagung der Versammlung der Vertragsparteien;
+  - f) zu jeder dritten Tagung der Versammlung der Vertragsparteien;
+  - g) zu jeder zweiten Tagung der Versammlung der Vertragsparteien.
+
+- 7\.6 Der Fachausschuss überprüft die gemäss Absatz 7.3 und 7.4. erarbeiteten Leitlinien und Studien und bereitet Entwürfe für Empfehlungen und Resolutionen zu ihrer Verwirklichung, ihrem Inhalt und ihrer Anwendung vor, die den Tagungen der Versammlung der Vertragsparteien unterbreitet werden.
+- 7\.7 Das Sekretariat des Abkommens überprüft regelmässig die Mechanismen, die geeignet sind, für die Verwirklichung des Aktionsplans zusätzliche Ressourcen (Kredite und technische Hilfe) zu beschaffen, und unterbreitet der Versammlung der Vertragsparteien an jeder ordentlichen Tagung einen Bericht dazu.
+
+Tabelle 1*[^t-4]*
+
+## Status der Populationen wandernder Wasservögel
+
+[^t-4]: Die Tabelle 1 «Status der Populationen wandernder Wasservögel» ist Teil des Aktionsplans gemäss Anhang 3 dieses Abkommens.
+
+### Erläuterungen zum Schlüssel
+
+Der folgende Schlüssel für die Tabelle 1 ist die Basis für die Umsetzung des Aktionsplans.
+
+Kolonne A
+
+<table>
+<tr><td>Kategorie 1:</td><td>(a) Arten, die in Anhang 1 des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten erwähnt werden, (b) Arten, die gemäss der neuesten Zusammenfassung von BirdLife International unter den bedrohten Arten der IUCN Red List of Threatened Species aufgeführt werden, oder (c) Bestände mit weniger als ungefähr 10 000 Vögeln;</td></tr>
+<tr><td>Kategorie 2:</td><td>Bestände mit zwischen ungefähr 10 000 und ungefähr 25 000 Vögeln;</td></tr>
+<tr><td>Kategorie 3:</td><td>Bestände mit zwischen ungefähr 25 000 und ungefähr 100 000 Vögeln, die als bedroht angesehen werden, wegen: (a) einer Konzentration auf eine kleine Zahl von Gebieten zu irgendeinem Zeitpunkt ihres Jahreszyklus, (b) ihrer Abhängigkeit von einem Habitatstyp, der stark bedroht ist, (c) Anzeichen eines langfristigen Schwundes, (d) Anzeichen grosser Schwankungen in der Bedeutung oder der Tendenz eines Bestandes, oder (e) Anzeichen eines starken, kurzfristigen Schwundes;</td></tr>
+<tr><td>Kategorie 4:</td><td>Arten, die gemäss der neuesten Zusammenfassung von BirdLife International unter den potenziell bedrohten Arten der IUCN Red List of Threatened Species aufgeführt werden, die aber die Kriterien für eine Einteilung in die obigen Kategorien 1, 2 oder 3 nicht erfüllen und für die ein internationales Vorgehen angezeigt ist.</td></tr>
+</table>
+
+Für die in obigen Kategorien 2, 3 und 4 aufgeführten Arten, siehe Absatz 2.1.1 des Aktionsplans gemäss Anhang 3 des Abkommens.
+
+Kolonne B
+
+<table>
+<tr><td>Kategorie 1:</td><td>Bestände mit zwischen ungefähr 25 000 und ungefähr 100 000 Vögeln, die die Kriterien der Kolonne A nicht erfüllen;</td></tr>
+<tr><td>Kategorie 2:</td><td>Bestände mit mehr als ungefähr 100 000 Vögeln, die die Kriterien der Kolonne A nicht erfüllen und aus folgenden Gründen besondere Aufmerksamkeit erfordern: (a) eine Konzentration auf eine kleine Zahl von Gebieten zu irgendeinem Zeitpunkt ihres Jahreszyklus, (b) ihre Abhängigkeit von einem Habitatstyp, der stark bedroht ist, (c) Anzeichen eines langfristigen Schwundes, (d) Anzeichen grosser Schwankungen in der Bedeutung oder der Tendenz eines Bestandes, oder (e) Anzeichen eines starken, kurzfristigen Schwundes.</td></tr>
+</table>
+
+Kolonne C
+
+<table>
+<tr><td>Kategorie 1:</td><td>Bestände mit mehr als ungefähr 100 000 Vögeln, die geeignet sind, weitgehend von einer internationalen Zusammenarbeit zu profitieren, und die die Kriterien der Kolonnen A und B nicht erfüllen.</td></tr>
+</table>
+
+### Überprüfung der Tabelle 1
+
+Die gegenwärtige Tabelle wird:
+
+- (a) gemäss Artikel VII Absatz 3 Buchstabe b dieses Abkommens regelmässig vom Fachausschuss geprüft; und
+- (b) wenn notwendig, von der Versammlung der Vertragsparteien gemäss Artikel VI Absatz 9 Buchstabe d dieses Abkommens in Anbetracht der aus dieser Prüfung entstandenen Empfehlungen abgeändert.
+
+### Definition geografischer Begriffe, die zur Beschreibung von Gebieten verwendet werden
+
+In Bezug auf die Verbreitungsgebiete von Wasservögeln ist festzuhalten, dass diese Gebiete nur biologische, aber keine politischen Abgrenzungen kennen und dass biologische und politische Abgrenzungen einander nur in sehr seltenen Fällen präzise entsprechen. Die verwendeten Beschreibungen der Verbreitungsgebiete haben keinerlei politische Bedeutung und sind lediglich als allgemeine Angabe zu verstehen. Konzise und kartografierte Angaben zu den Verbreitungsgebieten von Wasservögeln bietet das Portal des Netzwerks kritischer Gebiete (Critical Site Network, CSN) unter folgender Adresse: http://wow.wetlands.org/informationflyway/ criticalsitenetworktool/tabid/1349/language/en-US/Default.aspx.
+
+<table>
+<tr><td>Nordafrika:</td><td>Ägypten, Algerien, Lybien, Marokko, Tunesien.</td></tr>
+<tr><td>Westafrika:</td><td>Benin, Burkina Faso, Cabo Verde, Côte d’Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Kamerun, Liberia, Mali, Mauretanien, Niger, Nigeria, Senegal, Sierra Leone, Togo, Tschad.</td></tr>
+<tr><td>Ostafrika:</td><td>Äthiopien, Burundi, Dschibuti, Eritrea, Kenia, Ruanda, Somalia, Sudan, Südsudan, Uganda, Vereinigte Republik Tansania.</td></tr>
+<tr><td>Nordwestafrika:</td><td>Algerien, Marokko, Tunesien.</td></tr>
+<tr><td>Nordostafrika:</td><td>Ägypten, Äthiopien, Dschibuti, Eritrea, Somalia, Sudan, Südsudan.</td></tr>
+<tr><td>Südliches Afrika:</td><td>Angola, Botswana, Eswatini, Lesotho, Malawi, Mosambik, Namibia, Südafrika, Sambia, Simbabwe.</td></tr>
+<tr><td>Zentralafrika:</td><td>Äquatorialguinea, Demokratische Republik Kongo, Gabun, Kamerun, Kongo, São Tomé und Principe, Zentralafrikanische Republik.</td></tr>
+<tr><td>Subsahara-Afrika:</td><td>Alle afrikanischen Staaten südlich der Sahara.</td></tr>
+<tr><td>Tropisches Afrika:</td><td>Subsahara-Afrika ohne Eswatini, Lesotho, Namibia und Südafrika.</td></tr>
+<tr><td>Westpaläarktis:</td><td>Gemäss Definition in Handbook of the Birds of Europe, the Middle East and North Africa (Cramp & Simmons 1977).</td></tr>
+<tr><td>Nordwesteuropa:</td><td>Belgien, Dänemark, Deutschland, Finnland, Frankreich, Irland, Island, Luxemburg, Niederlande, Norwegen, Schweden, Vereinigtes Königreich Grossbritannien und Nordirland.</td></tr>
+<tr><td>Westeuropa:</td><td>Nordwesteuropa mit Portugal und Spanien.</td></tr>
+<tr><td>Nordosteuropa:</td><td>Nördlicher Teil der Russischen Föderation westlich des Urals.</td></tr>
+<tr><td>Nordeuropa:</td><td>Nordwesteuropa und Nordosteuropa gemäss obiger Definition.</td></tr>
+<tr><td>Osteuropa:</td><td>Belarus, Russische Föderation westlich des Urals, Ukraine.</td></tr>
+<tr><td>Mitteleuropa:</td><td>Deutschland, Estland, Lettland, Liechtenstein, Litauen, Österreich, Polen, Russische Föderation am Golf von Finnland und Kaliningrad, Schweiz, Slowakei, Tschechische Republik, Ungarn.</td></tr>
+<tr><td>Südwesteuropa:</td><td>Italien, Malta, mediterranes Frankreich, Portugal, San Marino, Spanien.</td></tr>
+<tr><td>Südosteuropa:</td><td>Albanien, Armenien, Bosnien -Herzegowina, Bulgarien, Nordmazedonien, Kroatien, Georgien, Griechenland, Moldova, Montenegro, Rumänien, Serbien, Slowenien, Türkei, Zypern.</td></tr>
+<tr><td>Südeuropa:</td><td>Südwesteuropa und Südosteuropa gemäss obiger Definition.</td></tr>
+<tr><td>Nordatlantik:</td><td>Färöer, Grönland, Irland, Island, nordwestliche Küste der Russischen Föderation, Norwegen, Spitzbergen, Vereinigtes Königreich Grossbritannien und Nordirland.</td></tr>
+<tr><td>Ostatlantik:</td><td>Europäische und nordafrikanische Atlantikküste von Nordnorwegen bis Marokko.</td></tr>
+<tr><td>Westsibirien:</td><td>Russische Föderation östlich des Urals bis zum Jenissei und südlich bis zur Grenze Kasachstans.</td></tr>
+<tr><td>Mittelsibirien:</td><td>Russische Föderation vom Jenissei bis zum östlichen Ende der Taimyr-Halbinsel und südlich bis zum Altaigebirge.</td></tr>
+<tr><td>Westliches Mittelmeer:</td><td>Algerien, Frankreich, Italien, Malta, Marokko, Monaco, Portugal, San Marino, Spanien, Tunesien.</td></tr>
+<tr><td>Östliches Mittelmeer:</td><td>Ägypten, Albanien, Arabische Republik Syrien, Bosnien-Herzegowina, Nordmazedonien, Griechenland, Israel, Kroatien, Libanon, Lybien, Montenegro, Serbien, Slowenien, Türkei, Zypern.</td></tr>
+<tr><td>Schwarzes Meer:</td><td>Armenien, Bulgarien, Georgien, Moldova, Rumänien, Russische Föderation, Türkei, Ukraine.</td></tr>
+<tr><td>Kaspisches Meer:</td><td>Aserbaidschan, Islamische Republik Iran, Kasachstan, Südwesten der Russischen Föderation, Turkmenistan, Usbekistan.</td></tr>
+<tr><td>Südwestasien:</td><td>Arabische Republik Syrien, Bahrain, Irak, Islamische Republik Iran, Israel, Jemen, Jordanien, Kasachstan, Katar, Kuwait, Libanon, Oman, Osttürkei, Saudi-Arabien, Turkmenistan, Usbekistan, Vereinigte Arabische Emirate.</td></tr>
+<tr><td>Golf:</td><td>Golf von Oman und Arabisches Meer westlich des Golfs von Aden, Persischer Golf.</td></tr>
+<tr><td>Westasien:</td><td>Anrainerstaaten des Kaspischen Meeres und westlicher Teil der Russischen Föderation östlich des Urals.</td></tr>
+<tr><td>Zentralasien:</td><td>Afghanistan, Kasachstan, Kirgisistan, Tadschikistan, Turkmenistan, Usbekistan.</td></tr>
+<tr><td>Südasien:</td><td>Bangladesch, Bhutan, Indien, Malediven, Nepal, Pakistan, Sri Lanka.</td></tr>
+<tr><td>Indischer Ozean:</td><td>Komoren, Madagaskar, Mauritius, Seychellen.</td></tr>
+</table>
+
+### Schlüssel für Abkürzungen und Symbole
+
+<table>
+<tr><td>Br Brutbestände</td><td>Wi Winterbestände</td></tr>
+<tr><td>N: Nord</td><td>O: Ost</td></tr>
+<tr><td>S: Süd</td><td>W: West</td></tr>
+<tr><td>NO: Nordost</td><td>NW: Nordwest</td></tr>
+<tr><td>SO: Südost</td><td>SW: Südwest</td></tr>
+<tr><td colspan="2">(): Erhaltungssituation des Bestandes nicht bekannt. Erhaltungssituation geschätzt</td></tr>
+<tr><td colspan="2">\*: Ausnahmsweise und einzig für Bestände, die in den Kategorien 2 und 3 der Kolonne A aufgeführt und mit einem Sternchen versehen sind, kann die Jagd auf nachhaltiger Basis weitergeführt werden. Diese nachhaltige Nutzung muss im Rahmen der besonderen Bestimmungen eines internationalen Aktionsplans nach Art erfolgen, welcher die Umsetzung der Grundsätze einer adaptiven Entnahmebewirtschaftung (siehe Absatz 2.1.1 von Anhang 3 des Abkommens).</td></tr>
+</table>
+
+Bemerkungen
+
+\1. Die zur Erstellung von Tabelle 1 benutzten Daten zu den Beständen entsprechen wenn immer möglich der Anzahl Vögel der möglichen Brutbestände im Abkommensgebiet. Die Erhaltungssituation wird aufgrund der besten zur Verfügung stehenden und veröffentlichten Schätzungen der Bestände festgelegt.
+
+\2. Die in der Tabelle verwendeten Abkürzungen (Br) oder (Wi) erlauben einzig eine Identifizierung der Bestände. Sie machen keine Angaben zu saisonbedingten Einschränkungen der durchgeführten Aktionen in Bezug auf diese Bestände im Sinne des Abkommens und des Aktionsplans.
+
+\3. Die zur Identifizierung der Bestände verwendeten Kurzbeschreibungen stützen sich auf die Beschreibungen der neuesten Ausgabe von *Waterbird Population Est**i**mates.*
+
+\4. Angaben zu Brutgebieten und Überwinterungsgebieten werden mit einem Schrägstrich (/) getrennt.
+
+\5. Sind die Bestände einer Art in Tabelle 1 unter mehreren Kategorien aufgeführt, so beziehen sich die Verpflichtungen aus dem Aktionsplan auf die aufgeführte Kategorie mit den strengsten Kriterien.
+
+<table>
+<tr><th>Bestände</th><th>A</th><th>B</th><th>C</th></tr>
+<tr><td colspan="4">Familie ANATIDAE (Entenverwandte)</td></tr>
+<tr><td>*Dendrocygna viduata* (Witwenpfeifgans (-ente))</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika (von Senegal bis Tschad)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Ostafrika und südliches Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Dendrocygna bicolor* (Gelbbrustpfeifgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika (von Senegal bis Tschad)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Ostafrika und südliches Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Thalassornis leuconotus leuconotus* (Weissrückenpfeifgans/Weissrückenente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Ostafrika und südliches Afrika</td><td>2\*</td><td></td><td></td></tr>
+<tr><td>*Oxyura maccoa* (Maccoaente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Oxyura leucocephala* (Weisskopf-Ruderente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westliches Mittelmeer (Spanien und Marokko)</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Algerien und Tunesien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Östliches Mittelmeer, Türkei und Südwestasien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Cygnus olor* (Höckerschwan)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest-Kontinentaleuropa und Mitteleuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Schwarzes Meer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– West- und Zentralasien/Kaspisches Meer</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Cygnus cygnus* (Singschwan)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island/Grossbritannien und Irland</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Nordwest-Kontinentaleuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– N-Europa und W-Sibirien/Schwarzes Meer und östliches Mittelmeer</td><td>2</td><td></td><td></td></tr>
+<tr><td>– West- und Mittelsibirien/Kaspisches Meer</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Cygnus columbianus bewickii* (Zwergschwan)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien und NO-Europa/Nordwesteuropa</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Nordsibirien/Kaspisches Meer</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Branta bernicla bernicla* (Ringelgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Westeuropa</td><td></td><td>2b</td><td></td></tr>
+<tr><td>*Branta bernicla hrota* (Hellbäuchige Ringelgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Spitzbergen/Dänemark und Grossbritannien</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Kanada und Grönland/Irland</td><td>3a</td><td></td><td></td></tr>
+<tr><td>*Branta leucopsis* (Weisswangengans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostgrönland/Schottland und Irland</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Spitzbergen/Südwestschottland</td><td>3a</td><td></td><td></td></tr>
+<tr><td>– Russland/Deutschland und Niederlande</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Branta ruficollis* (Rothalsgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordsibirien/Schwarzes Meer und Kaspisches Meer</td><td>1a/1b/3a</td><td></td><td></td></tr>
+<tr><td>*Anser anser anser* (Graugans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island/Grossbritannien und Irland</td><td></td><td>1</td><td></td></tr>
+<tr><td>– NW-Europa/Südwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mitteleuropa/Nordafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Anser anser rubrirostris* (Graugans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Türkei</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westsibirien/Kaspisches Meer und Irak</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Anser fabalis fabalis* (Waldsaatgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordosteuropa/Nordwesteuropa</td><td>3c\*</td><td></td><td></td></tr>
+<tr><td>*Anser fabalis johanseni* (Saatgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– West- und Mittelsibirien/Turkmenistan bis W‑China</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Anser fabalis rossicus* (Tundrasaatgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– West- und Mittelsibirien/NO- und SW-Europa</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Anser brachyrhynchus* (Kurzschnabelgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– O-Grönland und Island/Grossbritannien</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Spitzbergen/Nordwesteuropa</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Anser albifrons albifrons* (Blässgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– NW-Sibirien und NO-Europa/Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/Mitteleuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/Schwarzes Meer und Türkei</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordsibirien/Kaspisches Meer und Irak</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Anser albifrons flavirostris* (Grönländische Blässgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Grönland/Irland & Grossbritannien</td><td>2\*</td><td></td><td></td></tr>
+<tr><td>*Anser erythropus* (Zwerggans)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa und W-Sibirien/Schwarzes Meer und Kaspisches Meer</td><td>1a/1b/2</td><td></td><td></td></tr>
+<tr><td>– Fennoskandien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Clangula hyemalis* (Eisente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island und Grönland (Br)</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Nordeuropa (Br)</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Somateria spectabilis* (Prachteiderente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostgrönland, NO-Europa und Westsibirien</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Somateria mollissima mollissima* (Eiderente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Baltikum, Dänemark und Niederlande</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Norwegen und Russland</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Somateria mollissima borealis* (Eiderente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Spitzbergen und Franz-Josef-Land (Br)</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Polysticta stelleri* (Scheckente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Nordosteuropa</td><td>1a/1b</td><td></td><td></td></tr>
+<tr><td>*Melanitta fusca* (Samtente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien und N-Europa/NW-Europa</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Kaspisches Meer</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Melanitta nigra* (Trauerente)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Sibirien und N-Europa/W-Europa und NW‑Afrika</td><td></td><td>2a</td><td></td></tr>
+<tr><td>*Bucephala clangula clangula* (Schellente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest- und Mitteleuropa (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordosteuropa/Adria</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien und Nordosteuropa/Schwarzes Meer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westsibirien/Kaspisches Meer</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Mergellus albellus* (Zwergsäger)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest- und Mitteleuropa (Wi)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Nordosteuropa/Schwarzes Meer und östliches Mittelmeer</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Südwestasien</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Mergus merganser merganser* (Gänsesäger)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest- und Mitteleuropa (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordosteuropa/Schwarzes Meer</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Kaspisches Meer</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Mergus serrator* (Mittelsäger)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest- und Mitteleuropa (Wi)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Nordosteuropa/Schwarzes Meer und Mittelmeer</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Südwest- und Zentralasien</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Alopochen aegyptiaca* (Nilgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Östliches und südliches Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Tadorna tadorna* (Brandgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westasien/Kaspisches Meer und Mittlerer Osten</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Tadorna ferruginea* (Rostgans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwestafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Östliches Mittelmeer und Schwarzes Meer/Nordostafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westasien und Kaspisches Meer/Iran und Irak</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Tadorna cana* (Graukopfkasarka)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Plectropterus gambensis gambensis* (Sporengans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Ostafrika (Sudan bis Sambia)</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Plectropterus gambensis niger* (Sporengans)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Sarkidiornis melanotos* (Glanzente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika und Ostafrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Nettapus auritus* (Afrikanische Zwergente/ Rotbrustzwerggans</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Marmaronetta angustirostris* (Marmelente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westliches Mittelmeer/westl. Mittelmeer und Westafrika</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Östliches Mittelmeer</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Südwestasien</td><td>1a/1b/3c</td><td></td><td></td></tr>
+<tr><td>*Netta rufina* (Kolbenente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südwest- und Mitteleuropa/westliches Mittelmeer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und östliches Mittelmeer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– West- und Zentralasien/Südwestasien</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Netta erythrophthalma brunnea* (Rotaugenente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika und Ostafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Aythya ferina* (Tafelente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordosteuropa/Nordwesteuropa</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– Mittel- und NO-Europa/Schwarzes Meer und Mittelmeer</td><td>1b[^annexu1-lvlu1-lvlu4-1]</td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Südwestasien</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Aythya nyroca* (Moorente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westliches Mittelmeer/Nord- und Westafrika</td><td>1a/1c</td><td></td><td></td></tr>
+<tr><td>– Osteuropa/östliches Mittelmeer und Sahelzone</td><td>1a</td><td></td><td></td></tr>
+<tr><td>– Westasien/SW-Asien und NO-Afrika</td><td>1a</td><td></td><td></td></tr>
+<tr><td>*Aythya fuligula* (Reiherente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mitteleuropa, Schwarzes Meer und Mittelmeer (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien und NO-Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Aythya marila marila* (Bergente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/Westeuropa</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Westsibirien/Schwarzes Meer und Kaspisches Meer</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Spatula querquedula* (Knäckente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien und Europa/Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien, NO- und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Spatula hottentota* (Hottentottenente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Becken des Tschadsees</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Ostafrika (südlich von N-Sambia)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Südliches Afrika (nördlich von S-Sambia)</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Spatula clypeata* (Löffelente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest- und Mitteleuropa (Wi)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– W-Sibirien, NO- und O-Europa/S-Europa und Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– W-Sibirien/SW-Asien, NO- und Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Mareca strepera strepera* (Schnatterente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordosteuropa/Schwarzes Meer und Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien und NO-Afrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Mareca penelope* (Pfeifente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien und NO-Europa/NW-Europa</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– W-Sibirien und NO-Europa/Schwarzes Meer und Mittelmeer</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Westsibirien/SW-Asien und NO-Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Anas undulata undulata* (Gelbschnabelente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Anas platyrhynchos platyrhynchos* (Stockente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordeuropa/westliches Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Osteuropa/Schwarzes Meer und östliches Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/Südwestasien</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Anas capensis* (Fahlente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika (Rifttal)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Becken des Tschadsees</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (nördlich von Angola und Sambia)</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Anas erythrorhyncha* (Rotschnabelente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Madagaskar</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Anas acuta* (Spiessente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa</td><td></td><td>1</td><td></td></tr>
+<tr><td>– W-Sibirien, NO- und O-Europa/S-Europa und Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien und Ostafrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Anas crecca crecca* (Krickente)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– W-Sibirien und NO-Europa/Schwarzes Meer und Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien und NO-Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td colspan="4">Familie PODICIPEDIDAE (Lappentaucher)</td></tr>
+<tr><td>*Tachybaptus ruficollis ruficollis* (Zwergtaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa und Nordwestafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Podiceps grisegena grisegena* (Rothalstaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa (Wi)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Wi)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Kaspisches Meer (Wi)</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Podiceps cristatus cristatus* (Haubentaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwest- und Westeuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Kaspisches Meer und Südwestasien (Wi)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Podiceps cristatus infuscatus* (Haubentaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika (Äthiopien bis N-Sambia)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Podiceps auritus auritus* (Ohrentaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa (mit grossem Schnabel)</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>– Nordosteuropa (mit kleinem Schnabel)</td><td>1b/2</td><td></td><td></td></tr>
+<tr><td>– Kaspisches Meer und Südasien (Wi)</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Podiceps nigricollis nigricollis* (Schwarzhalstaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/Süd- und Westeuropa sowie Nordafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westasien/Südwest- und Südasien</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Podiceps nigricollis gurneyi* (Schwarzhalstaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>2</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie PHOENICOPTERIDAE (Flamingos)</td></tr>
+<tr><td>*Phoenicopterus roseus* (Rosaflamingo)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>3a</td><td></td><td></td></tr>
+<tr><td>– Ostafrika</td><td>3a/3c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (bis Madagaskar)</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Westliches Mittelmeer</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Östliches Mittelmeer</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Südwest- und Südasien</td><td></td><td>2a</td><td></td></tr>
+<tr><td>*Phoeniconaias minor* (Zwergflamingo)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>3a</td><td></td><td></td></tr>
+<tr><td>– Ostafrika</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (bis Madagaskar)</td><td>4</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie PHAETHONTIDAE (Tropikvögel)</td></tr>
+<tr><td>*Phaethon aethereus aethereus* (Rotschnabel-Tropikvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südatlantik</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Phaethon aethereus indicus* (Rotschnabel-Tropikvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Persischer Golf, Golf von Aden, Rotes Meer</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Phaethon rubricauda rubricauda* (Rotschnabel-Tropikvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Indischer Ozean</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Phaethon lepturus lepturus* (Weissschwanz-Tropikvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westlicher Indischer Ozean</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Familie RALLIDAE (Rallen)</td></tr>
+<tr><td>*Sarothrura elegans reichenovi* (Tropfenralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– S-Westafrika bis Zentralafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Sarothrura elegans elegans* (Tropfenralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO- und Ostafrika sowie südliches Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Sarothrura boehmi* (Böhm-Ralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentralafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Sarothrura ayresi* (Spiegelralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Äthiopien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Rallus aquaticus aquaticus* (Wasserralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa und Nordafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Rallus aquaticus korejewi* (Wasserralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Südwestasien</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Rallus caerulescens* (Kapralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Crex egregia* (Steppenralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Crex crex* (Wachtelkönig)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa und Westasien/Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Porzana porzana* (Tüfelsumpfhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa / Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Zapornia flavirostra* (Mohrenralle)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Zapornia parva* (Kleines Sumpfhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– West-Eurasien/Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Zapornia pusilla intermedia* (Zwergsumpfhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Amaurornis marginalis* (Graukehl-Sumpfhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td>(2)</td><td></td><td></td></tr>
+<tr><td>*Porphyrio alleni* (Bronzesultanshuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Gallinula chloropus chloropus* (Teichhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa und Nordafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– West- und Südwestasien</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Gallinula angulata* (Zwergteichhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Fulica cristata* (Kammblässhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Spanien und Marokko</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Fulica atra atra* (Blässhuhn)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa (Wi)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Südwestasien (Wi)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td colspan="4">Familie GRUIDAE (Kraniche)</td></tr>
+<tr><td>*Balearica regulorum regulorum* (Südafrikanischer Kronenkranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (nördlich von Angola und S‑Simbabwe)</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Balearica regulorum gibbericeps* (Südafrikanischer Kronenkranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika (von Kenia bis Mosambik)</td><td>1b/2</td><td></td><td></td></tr>
+<tr><td>*Balearica pavonina pavonina* (Kronenkranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika (von Senegal bis Tschad)</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Balearica pavonina ceciliae* (Kronenkranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika (von Sudan bis Uganda)</td><td>1b/3c</td><td></td><td></td></tr>
+<tr><td>*Leucogeranus leucogeranus* (Schneekranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Iran (Wi)</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Bugeranus carunculatus* (Klunkerkranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentralafrika und südliches Afrika</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Anthropoides paradiseus* (Paradieskranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südlichstes Afrika</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Anthropoides virgo* (Jungfernkranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer (Ukraine)/Nordostafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td></tr>
+<tr><td>– Kalmückien/Nordostafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Grus grus grus* (Kranich/Graukranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa/Iberien und Marokko</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordost- und Mitteleuropa/Nordafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Osteuropa/Türkei, Mittlerer Osten und NO‑Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/Südasien</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Grus grus archibaldi* (Kranich)</td><td></td><td></td><td></td></tr>
+<tr><td>– Türkei und Georgien (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie GAVIIDAE (Seetaucher)</td></tr>
+<tr><td>*Gavia stellata* (Sterntaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa (Wi)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Kaspisches Meer, Schwarzes Meer und östliches Mittelmeer (Wi)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Gavia arctica arctica* (Prachttaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa und Westsibirien/Europa</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Mittelsibirien/Kaspisches Meer</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Gavia immer* (Eistaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa (Wi)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Gavia adamsii* (Gelbschnabeltaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa (Wi)</td><td>1c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie SPHENISCIDAE (Pinguine)</td></tr>
+<tr><td>*Spheniscus demersus* (Brillenpinguin)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1b/3c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie CICONIIDAE (Störche)</td></tr>
+<tr><td>*Leptoptilos crumenifer* (Marabu)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Mycteria ibis* (Nimmersatt)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika (ohne Madagaskar)</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Anastomus lamelligerus lamelligerus* (Mohrenklaffschnabel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Ciconia nigra* (Schwarzstorch)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Südwesteuropa/Westafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Mittel- und Osteuropa/Subsahara-Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Ciconia abdimii* (Abdim-Storch)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika und SW-Arabien</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Ciconia microscelis* (Afrikanischer Wollhalsstorch)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Ciconia ciconia ciconia* (Weissstorch)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Westliches Europa und Nordwestafrika/Subsahara-Afrika</td><td></td><td>2b</td><td></td></tr>
+<tr><td>– Mittel- und Osteuropa/Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westasien/Südwestasien</td><td>3c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie THRESKIORNITHIDAE (Ibisse)</td></tr>
+<tr><td>*Platalea alba* (Afrikanischer Löffler/Rosenfusslöffler)</td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Subsahara-Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Platalea leucorodia leucorodia* (Löffler)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa/westliches Mittelmeer und Westafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Mittel- und SO-Europa/Mittelmeer und tropisches Afrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Westasien/Südwest- und Südasien</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Platalea leucorodia balsaci* (Löffler)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Westafrikas (Mauretanien)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Platalea leucorodia archeri* (Löffler)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer und Somalia</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Threskiornis aethiopicus* (Heiliger Ibis)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Irak und Iran</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Geronticus eremita* (Waldrapp)</td><td></td><td></td><td></td></tr>
+<tr><td>– Marokko</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Südwestasien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Plegadis falcinellus* (Sichler)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer/Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Südwestasien/Ostafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td colspan="4">Familie ARDEIDAE (Reiher)</td></tr>
+<tr><td>*Botaurus stellaris stellaris* (Rohrdommel)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Europa, NW-Afrika (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Mittel- und O-Europa, Schwarzes Meer und östliches Mittelmeer (Br)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Südwestasien (Wi)</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Botaurus stellaris capensis* (Rohrdommel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Ixobrychus minutus minutus* (Zwergdommel)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Europa, NW-Afrika/Subsahara-Afrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Mittel- und O-Europa, Schwarzes Meer und östliches Mittelmeer/Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– West- und Südwestasien/Subsahara-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Ixobrychus minutus payesii* (Zwergdommel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Ixobrychus sturmii* (Graurückendommel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Nycticorax nycticorax nycticorax* (Nachtreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika und Madagaskar</td><td></td><td></td><td>1</td></tr>
+<tr><td>– W-Europa, NW-Afrika (Br)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Mittel- und O-Europa/Schwarzes Meer und östliches Mittelmeer (Br)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westasien/SW-Asien und NO-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Ardeola ralloides ralloides* (Rallenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– SW-Europa, NW-Afrika (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Mittel- und O-Europa, Schwarzes Meer und östliches Mittelmeer (Br)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– West- und Südwestasien/Subsahara-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Ardeola ralloides paludivaga* (Rallenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika und Madagaskar</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Ardeola idae* (Dickschnabelreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Madagaskar und Aldabra/Zentral- und Ostafrika</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Ardeola rufiventris* (Rotbauchreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentralafrika, östliches und südliches Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Bubulcus ibis ibis* (Kuhreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Tropisches Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Südwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordwestafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Östliches Mittelmeer und Südwestasien</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Ardea cinerea cinerea* (Graureiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nord- und Westeuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mittel- und Osteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– West- und Südwestasien (Br)</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Ardea melanocephala* (Schwarzhalsreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Ardea purpurea purpurea* (Purpurreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Tropisches Afrika</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>– Westeuropa und westliches Mittelmeer/Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Osteuropa, Schwarzes Meer und westliches Mittelmeer/Subsahara-Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Südwestasien</td><td>(2)</td><td></td><td></td></tr>
+<tr><td>*Ardea alba alba* (Silberreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-, Mittel- und SO-Europa/Schwarzes Meer und Mittelmeer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westasien/Südwestasien</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Ardea alba melanorhynchos* (Silberreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika und Madagaskar</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Ardea brachyrhyncha* (Afrikamittelreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Egretta ardesiaca* (Glockenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Egretta vinaceigula* (Braunkehlreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Zentralafrika</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Egretta garzetta garzetta* (Seidenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Westeuropa, NW-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mittel- und östliches Europa, Schwarzes Meer, östliches Mittelmeer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westasien/SW-Asien, NO- und Ostafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Egretta gularis gularis* (Küstenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Egretta gularis schistacea* (Küstenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordostafrika und Rotes Meer</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Südwestasien und Südasien</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Egretta gularis dimorpha* (Küstenreiher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Ostafrikas</td><td>2</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie BALAENICIPITIDAE (Schuhschnabel)</td></tr>
+<tr><td>*Balaeniceps rex* (Schuhschnabel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Tropisches Zentralafrika</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie PELECANIDAE (Pelikane)</td></tr>
+<tr><td>*Pelecanus crispus* (Krauskopfpelikan)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Wi)</td><td>1a/1c</td><td></td><td></td></tr>
+<tr><td>– Südwestasien und Südasien (Wi)</td><td>1a/2</td><td></td><td></td></tr>
+<tr><td>*Pelecanus rufescens* (Rötelpelikan)</td><td></td><td></td><td></td></tr>
+<tr><td>– Tropisches Afrika und SW-Arabien</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Pelecanus onocrotalus* (Rosapelikan)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Ostafrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Europa und Westasien (Br)</td><td>1a</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie FREGATIDAE (Fregattvögel)</td></tr>
+<tr><td>*Fregata ariel iredalei* (Arielfregattvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westlicher Indischer Ozean</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Fregata minor aldabrensis* (Bindenfregattvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westlicher Indischer Ozean</td><td>2</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie SULIDAE (Tölpel)</td></tr>
+<tr><td>*Morus bassanus* (Basstölpel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordatlantik</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Morus capensis* (Kaptölpel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Sula dactylatra melanops* (Maskentölpel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westlicher Indischer Ozean</td><td>3c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie PHALACROCORACIDAE (Kormorane)</td></tr>
+<tr><td>*Microcarbo coronatus* (Wahlberg-Scharbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Südwestafrikas</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Microcarbo pygmaeus* (Zwergscharbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– South-west Asia</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Phalacrocorax aristotelis desmarestii* (Krähenscharbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Östliches Mittelmeer (Kroatien, Adriatisches Meer) (Br)</td><td>[tab] 1c</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>*Phalacrocorax carbo carbo* (Kormoran)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Phalacrocorax carbo sinensis* (Kormoran)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nord- und Mitteleuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– West- und Südwestasien</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Phalacrocorax carbo lucidus* (Kormoran)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Westafrikas</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Zentral- und Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Küste des südlichen Afrikas</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Phalacrocorax capensis* (Kapkormoran)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste des südlichen Afrikas</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Phalacrocorax nigrogularis* (Sokotrakormoran)</td><td></td><td></td><td></td></tr>
+<tr><td>– Arabische Küste</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– Golf von Aden, Sokotra, Arabisches Meer</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Phalacrocorax neglectus* (Küstenscharbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Südwestafrikas</td><td>1b/2</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie BURHINIDAE (Triele)</td></tr>
+<tr><td>*Burhinus senegalensis* (Senegaltriel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Nordost- und Ostafrika</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie PLUVIANIDAE (Krokodilwächter)</td></tr>
+<tr><td>*Pluvianus aegyptius* (Krokodilwächter)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Ostafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Unteres Kongobecken</td><td>1c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie HAEMATOPODIDAE (Austernfischer)</td></tr>
+<tr><td>*Haematopus moquini* (Schwarzer Austernfischer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste des südlichen Afrikas</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Haematopus ostralegus ostralegus* (Austernfischer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/Süd- und Westeuropa sowie NW-Afrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Haematopus ostralegus longipes* (Austernfischer)</td><td></td><td></td><td></td></tr>
+<tr><td>– SO-Europa und W-Asien/SW-Asien und NO‑Afrika</td><td>4</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie RECURVIROSTRIDAE (Säbelschnäblerverwandte)</td></tr>
+<tr><td>*Recurvirostra avosetta* (Säbelschnäbler)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Ostafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Westeuropa und Nordwestafrika (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Südosteuropa, Schwarzes Meer und Türkei (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– West- und Südwestasien/Ostafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Himantopus himantopus himantopus* (Stelzenläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Subsahara-Afrika (ohne südlichen Teil)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Südliches Afrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– SW-Europa und Nordwestafrika/Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mitteleuropa und östliches Mittelmeer/ N‑Zentralafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– W-, Zentral- und SW-Asien/SW-Asien und NO‑Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td colspan="4">Familie CHARADRIIDAE (Regenpfeiferverwandte)</td></tr>
+<tr><td>*Pluvialis squatarola squatarola* (Kiebitzregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Sibirien /W-Europa und W-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mittel- und Ostsibirien/SW-Asien und südliches Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Pluvialis apricaria apricaria* (Goldregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Grossbritannien, Irland, Dänemark, Deutschland und Baltikum (Br)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Pluvialis apricaria altifrons* (Goldregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island und Färöer/Ostatlantikküste</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordeuropa/Westeuropa und NW-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordsibirien/Kaspisches Meer und Kleinasien</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Pluvialis fulva* (Pazifischer Goldregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Mittelsibirien/S- und SW-Asien, NO-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Eudromias morinellus* (Mornellregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/Nordwestafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Asien, Mittlerer Osten</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Charadrius hiaticula hiaticula* (Sandregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/Europa und Nordafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Charadrius hiaticula psammodromus* (Sandregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Kanada, Grönland und Island/W- und S-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Charadrius hiaticula tundrae* (Sandregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa und Sibirien/SW-Asien, Ost- und südliches Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Charadrius dubius curonicus* (Flussregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa und Nordwestafrika/Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– West- und Südwestasien/Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Charadrius pecuarius* (Hirtenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Westafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Charadrius tricollaris* (Dreibandregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika und Ostafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Charadrius forbesi* (Braunstirn-Regenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– West- und Zentralafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Charadrius marginatus hesperius* (Weissstirn-Regenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Charadrius marginatus mechowi* (Weissstirn-Regenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Inneres Ost- und Zentralafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Charadrius alexandrinus alexandrinus* (Seeregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa und westliches Mittelmeer/Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und östliches Mittelmeer/östliche Sahelzone</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– SW- und Zentralasien/SW-Asien und NO-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Charadrius pallidus pallidus* (Rotband-Regenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Charadrius pallidus venustus* (Rotband-Regenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Charadrius mongolus pamirensis* (Mongolenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Zentralasien/SW-Asien und Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Charadrius leschenaultii leschenaultii* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentralasien/Ostafrika und südliches Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Charadrius leschenaultii columbinus* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Türkei und SW-Asien/östliches Mittelmeer und Rotes Meer</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Charadrius leschenaultii scythicus* (Wüstenregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Kaspisches Meer und SW-Asien/Arabien und NO‑Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Charadrius asiaticus* (Wermutregenpfeifer)</td><td></td><td></td><td></td></tr>
+<tr><td>– SO-Europa und Westasien/Ostafrika und Süd-Zentralafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Vanellus vanellus* (Kiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/W-Asien/Europa, N-Afrika und SW‑Asien</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Vanellus spinosus* (Spornkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Vanellus albiceps* (Langspornkiebitz/Weissscheitelkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– West- und Zentralafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Vanellus lugubris* (Trauerkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Westafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Zentral- und Ostafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Vanellus melanopterus minor* (Schwarzflügelkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Vanellus coronatus coronatus* (Kronenkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika und südliches Afrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>– Zentralafrika</td><td>(1c)</td><td></td><td></td></tr>
+<tr><td>– Südwestafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Vanellus senegallus senegallus* (Senegalkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Vanellus senegallus lateralis* (Senegalkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ost- und Südostafrika</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>*Vanellus superciliosus* (Rotbrustkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– West- und Zentralafrika</td><td>(1c)</td><td></td><td></td></tr>
+<tr><td>*Vanellus gregarius* (Steppenkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentralasien/S, SW Asien, NO Afrika</td><td>1a/1b/2</td><td></td><td></td></tr>
+<tr><td>*Vanellus leucurus* (Weissschwanzkiebitz)</td><td></td><td></td><td></td></tr>
+<tr><td>– SW-Asien/SW-Asien und NO-Afrika</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentralasiatische Republiken/Südasien</td><td></td><td></td><td></td></tr>
+<tr><td>– Zentral- & SW-Asien/NO-Afrika, SW- & S‑Asien</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Familie SCOLOPACIDAE (Schnepfenverwandte)</td></tr>
+<tr><td>*Numenius phaeopus phaeopus* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/Westafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Westsibirien/südliches Afrika und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Numenius phaeopus islandicus* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island, Färöer und Schottland/Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Numenius phaeopus alboaxillaris* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– N Kaspisches Meer/Ostafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Numenius phaeopus rogachevae* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Mittelsibirien (Br)</td><td>[tab]</td><td>[tab]</td><td>[tab] (1)</td></tr>
+<tr><td>*Numenius tenuirostris* (Dünnschnabelrachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Mittelsibirien/Mittelmeer und SW-Asien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Numenius arquata arquata* (Grosser Brachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/Europa, Nord- und Westafrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Numenius arquata suschkini* (Grosser Brachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südosteuropa und Südwestasien (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Numenius arquata orientalis* (Grosser Brachvogel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien/SW-Asien, O-Afrika und südliches Afrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Limosa lapponica lapponica* (Pfuhlschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/Westeuropa</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Limosa lapponica taymyrensis* (Pfuhlschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien/West- und Südwestafrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Mittelsibirien/S- und SW-Asien sowie Ostafrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Limosa limosa limosa* (Uferschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa, NW- und Westafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Osteuropa/Zentral- und Ostafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– W-Zentralasien/SW-Asien und Ostafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Limosa limosa islandica* (Uferschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island/Westeuropa</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Arenaria interpres interpres* (Steinwälzer)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Kanada und Grönland/W-Europa und NW‑Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nordeuropa/Westafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– West- und Mittelsibirien/SW-Asien, Ostafrika und südliches Afrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Calidris tenuirostris* (Andyrknutt/Grosser Knutt)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostsibirien/SW-Asien und W-Südasien</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>*Calidris canutus canutus* (Knutt)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordsibirien/Westafrika und südliches Afrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Calidris canutus islandica* (Knutt)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Kanada und Grönland/Westeuropa</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Calidris pugnax* (Kampfläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa und Westsibirien/Westafrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Nordsibirien/SW-Asien, O-Afrika und südliches Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Calidris falcinellus falcinellus* (Sumpfläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/SW-Asien und Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Calidris ferruginea* (Sichelstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westsibirien/Westafrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Mittelsibirien/SW-Asien, O-Afrika und südliches Afrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Calidris temminckii* (Temminckstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Fennoskandia/Nord- und Westafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– NO-Europa und W-Sibirien/SW-Asien und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Calidris alba alba* (Sanderling)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europäischer Ostatlantik, Westafrika und südliches Afrika (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Südwestasien, Ostafrika und südliches Afrika (Wi)</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Calidris alpina alpina* (Alpenstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa und NW-Sibirien/W-Europa und NW‑Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Calidris alpina arctica* (Alpenstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Grönland/Westafrika</td><td>3a</td><td></td><td></td></tr>
+<tr><td>*Calidris alpina schinzii* (Alpenstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island und Grönland/NW- und Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Grossbritannien und Irland/SW-Europa und NW‑Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Baltikum/SW-Europa und NW-Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Calidris alpina centralis* (Alpenstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Mittelsibirien/SW-Asien und NO-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Calidris maritima* (Meerstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Europa und W-Sibirien (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– NO-Kanada und N-Grönland (Br)</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Calidris minuta* (Zwergstrandläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Europa/S-Europa, Nord- und Westafrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>– Westsibirien/SW-Asien, O-Afrika und südliches Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Scolopax rusticola* (Waldschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/Süd- und Westeuropa sowie Nordafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/Südwestasien (Kaspisches Meer)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Gallinago stenura* (Stiftbekassine)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordsibirien/Südasien und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Gallinago media* (Doppelschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Skandinavien/wahrscheinlich Westafrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Westsibirien und NO-Europa/Südwestafrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Gallinago gallinago gallinago* (Bekassine)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa/Süd- und Westeuropa sowie NW-Afrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Westsibirien/Südwestasien und Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Gallinago gallinago faeroeensis* (Bekassine)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island, Färöer und Nordschottland/Irland</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Lymnocryptes minimus* (Zwergschnepfe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/S- und W-Europa sowie Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien und NO-Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Phalaropus lobatus* (Odinshühnchen)</td><td></td><td></td><td></td></tr>
+<tr><td>– West-Eurasien/Arabisches Meer</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Phalaropus fulicarius* (Thorswassertreter/Thorshühnchen)</td><td></td><td></td><td></td></tr>
+<tr><td>– Kanada und Grönland/afrikanische Atlantikküste</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Xenus cinereus* (Terekwasserläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa und W-Sibirien/SW-Asien, Ostafrika und südliches Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Actitis hypoleucos* (Flussuferläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– West- und Zentraleuropa/Westafrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– O-Europa &W-Sibirien/Zentralafrika, O- und S‑Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Tringa ochropus* (Waldwasserläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/S- und W-Europa sowie Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien, NO- und Ostafrika</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>*Tringa erythropus* (Dunkler Wasserläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Europa/S-Europa, Nord- und Westafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Westsibirien/SW-Asien, NO- und Ostafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Tringa nebularia* (Grünschenkel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa/SW-Europa, NW-Afrika und Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westsibirien/SW-Asien, O-Afrika und südliches Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Tringa totanus totanus* (Rotschenkel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordeuropa (Br)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Mittel- und Osteuropa (Br)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Grossbritannien und Irland/Grossbritannien, Irland und Frankreich</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Tringa totanus robusta* (Rotschenkel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island und Färöer/Westeuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Tringa totanus ussuriensis* (Rotschenkel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westasien/SW-Asien, NO- und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Tringa glareola* (Bruchwasserläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwesteuropa/Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– NO-Europa und W-Sibirien/Ostafrika und südliches Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Tringa stagnatilis* (Teichwasserläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Osteuropa/West- und Zentralafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Westasien/SW-Asien, Ostafrika und südliches Afrika</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Familie DROMADIDAE (Reihenläufer)</td></tr>
+<tr><td>*Dromas ardeola* (Reiherläufer)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nordwestlicher Indischer Ozean, Rotes Meer und Golf</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Familie GLAREOLIDAE (Brachschwalbenverwandte)</td></tr>
+<tr><td>*Glareola pratincola pratincola* (Rotflügelbrachschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa und NW-Afrika/Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und O-Mittelmeer/östliche Sahelzone</td><td>2</td><td></td><td></td></tr>
+<tr><td>– SW-Asien/SW-Asien und NO-Afrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Glareola nordmanni* (Schwarzflügelbrachschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– SO-Europa und Westasien/südliches Afrika</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Glareola ocularis* (Madagaskarbrachschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Madagaskar/Ostafrika</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Glareola nuchalis nuchalis* (Halsbandbrachschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ost- und Zentralafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Glareola nuchalis liberiae* (Halsbandbrachschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Glareola cinerea* (Weissachselbrachschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– SO-Westafrika und Zentralafrika</td><td>(2)</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie LARIDAE (Möwen, Seeschwalben)</td></tr>
+<tr><td>*Anous stolidus plumbeigularis* (Noddiseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer und Golf von Aden</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Anous tenuirostris tenuirostris* (Kleine Noddiseeschwalbe/Schlankschnabelnoddi)</td><td></td><td></td><td></td></tr>
+<tr><td>– Von den Inseln des Indischen Ozeans bis Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Rynchops flavirostris* (Afrikascherenschnabel)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Westafrikas und Zentralafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Ostafrika und südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Hydrocoloeus minutus* (Zwergmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Mittel- und O-Europa/SW-Europa und westliches Mittelmeer</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westasien/östliches Mittelmeer, Schwarzes Meer und Kaspisches Meer</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>*Xema sabini sabini* (Schwalbenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Kanada und Grönland/SO-Atlantik</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Rissa tridactyla tridactyla* (Dreizehenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Arktis, von NO-Kanada bis Novaya Semlya/ N-Atlantik</td><td>[tab] 1b</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>*Larus genei* (Dünnschnabelmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Br)</td><td></td><td>2a/(2c)</td><td></td></tr>
+<tr><td>– West-, Südwest- und Südasien (Br)</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus ridibundus* (Lachmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Europa/W-Europa, westliches Mittelmeer, Westafrika</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Osteuropa/Schwarzes Meer und östliches Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westasien/SW-Asien und NO-Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Larus hartlaubii* (Hartlaubmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste Südwestafrikas</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Larus cirrocephalus poiocephalus* (Graukopfmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Zentral-, Ost- und Südafrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Larus ichthyaetus* (Fischmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Kaspisches Meer/ Südwestasien</td><td>3a</td><td></td><td></td></tr>
+<tr><td>*Larus melanocephalus* (Schwarzkopfmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa, Mittelmeer und NW-Afrika</td><td></td><td>2a</td><td></td></tr>
+<tr><td>*Larus hemprichii* (Hemprich-Möwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer, Golf, Arabien und Ostafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>*Larus leucophthalmus* (Weissaugenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer und benachbarte Küsten</td><td>1a</td><td></td><td></td></tr>
+<tr><td>*Larus audouinii* (Korallenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Mittelmeer/Nord- und Westküste Afrikas</td><td>1a/3a</td><td></td><td></td></tr>
+<tr><td>*Larus canus canus* (Sturmmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– NW- und Mitteleuropa /Atlantikküste und Mittelmeer</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus canus heinei* (Sturmmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa und W-Sibirien/Schwarzes Meer und Kaspisches Meer</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus dominicanus vetula* (Dominikanermöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Küste des südlichen Afrikas</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Westküste Afrikas</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Larus fuscus fuscus* (Heringsmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa/Schwarzes Meer, SW-Asien und Ostafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Larus fuscus graellsii* (Heringsmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa/Mittelmeer und Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus fuscus intermedius* (Heringsmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– S-Skandinavien, Niederlande, Ebrodelta, Spanien</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus fuscus heuglini* (Tundramöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– NO-Europa und W-Sibirien/SW-Asien und NO‑Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Larus fuscus barabensis* (Heringsmöwe, Steppe Gull)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südwestsibirien/Südwestasien</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Larus argentatus argentatus* (Silbermöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nord- und Nordwesteuropa</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Larus argentatus argenteus* (Silbermöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island und Westeuropa</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Larus armenicus* (Gelbfuss-Silbermöwe/Armenienmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Armenien, Osttürkei und NW-Iran</td><td>3a/3c</td><td></td><td></td></tr>
+<tr><td>*Larus michahellis* (Mittelmeermöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Mittelmeer, Iberien und Marokko</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus cachinnans* (Steppenmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und Westasien/SW-Asien, NO‑Afrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus glaucoides glaucoides* (Polarmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Grönland/Island und Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Larus hyperboreus hyperboreus* (Eismöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Spitzbergen und N-Russland (Br)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Larus hyperboreus leuceretes* (Eismöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Kanada, Grönland und Island (Br)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Larus marinus* (Mantelmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Nord- und Westeuropa</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Onychoprion fuscatus nubilosa* (Russseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer, Golf von Aden, östlich des Pazifiks</td><td></td><td>2a</td><td></td></tr>
+<tr><td>*Onychoprion anaethetus melanopterus* (Zügelseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Onychoprion anaethetus antarcticus* (Zügelseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer, O-Afrika, Persischer Golf, Arabisches Meer bis W-Indien</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westlicher Indischer Ozean</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Sternula albifrons albifrons* (Zwergseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa nördlich des Mittelmeers (Br)</td><td>2</td><td></td><td></td></tr>
+<tr><td>– W-Mittelmeer/W-Afrika (Br)</td><td>3b/3c</td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und O-Mittelmeer (Br)</td><td>3b/3c</td><td></td><td></td></tr>
+<tr><td>– Kaspisches Meer (Br)</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Sternula albifrons guineae* (Zwergseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Sternula saundersi* (Orientseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Südasien, Rotes Meer, Golf und Ostafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Sternula balaenarum* (Damaraseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Namibia und Südafrika/Atlantikküste bis Ghana</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>*Gelochelidon nilotica nilotica* (Lachseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa/Westafrika</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und östliches Mittelmeer/Ostafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– West- und Zentralasien/Südwestasien</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Hydroprogne caspia* (Raubseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Westafrika (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Baltikum (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Kaspisches Meer (Br)</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Chlidonias hybrida hybrida* (Weissbartseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa und Nordwestafrika (Br)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Schwarzes Meer und östliches Mittelmeer (Br)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Kaspisches Meer (Br)</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Chlidonias hybrida delalandii* (Weissbartseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika (von Kenia bis Tansania)</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (von Malawi und Sambia bis Südafrika)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Chlidonias leucopterus* (Weissflügel-Seeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Osteuropa und Westasien/Afrika</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Chlidonias niger niger* (Trauerseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Europa und Westasien/afrikanische Atlantikküste</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Sterna dougallii dougallii* (Rosenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika & Madagaskar</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Ostafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Europa (Br)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Sterna dougallii gracilis* (Rosenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Seychellen und Maskarenen</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Nördliches Arabisches Meer (Oman)</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Sterna hirundo hirundo* (Flussseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Süd- und Westeuropa (Br)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Nord- und Osteuropa (Br)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Westasien (Br)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>*Sterna repressa* (Weisswangenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– W-Südasien, Rotes Meer, Golf und Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Sterna paradisaea* (Küstenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– West-Eurasien (Br)</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Sterna vittata vittata* (Antipodenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Prinz-Edward-Inseln, Marioninseln, Crozet‑Inseln und Kerguelen/Südafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Sterna vittata tristanensis* (Antipodenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Tristan da Cunha und Gough-Insel/Südafrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Sterna vittata sanctipauli* (Antipodenseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Amsterdam und St Paul/Südafrika</td><td>[tab] 1c</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>*Thalasseus bengalensis bengalensis* (Rüpell-Seeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Golf/Südasien</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Rotes Meer/Ostafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Thalasseus bengalensis emigratus* (Rüpell-Seeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Mittelmeer/Küste Nordwest- und Westafrikas</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Thalasseus sandvicensis sandvicensis* (Brandseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westeuropa/Westafrika</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Schwarzes Meer und Mittelmeer (Br)</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– West- und Zentralasien/Südwest- und Südasien</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Thalasseus maximus albidorsalis* (Königsseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Westafrika (Br)</td><td></td><td>2a</td><td></td></tr>
+<tr><td>*Thalasseus bergii bergii* (Eilseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Südliches Afrika (von Angola bis Mosambik)</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Madagaskar & Mosambik/südliches Afrika</td><td>1c</td><td></td><td></td></tr>
+<tr><td>*Thalasseus bergii velox* (Eilseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Rotes Meer und Nordostafrika</td><td>2</td><td></td><td></td></tr>
+<tr><td>*Thalasseus bergii thalassinus* (Eilseeschwalbe)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostafrika und Seychellen</td><td>1c</td><td></td><td></td></tr>
+<tr><td colspan="4">Familie STERCORARIIDAE (Raubmöwen)</td></tr>
+<tr><td>*Stercorarius longicaudus longicaudus* (Kleine Raubmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Europa & W-Sibirien/S-Atlantik</td><td>[tab]</td><td>[tab]</td><td>[tab] 1</td></tr>
+<tr><td>*Catharacta skua* (Grosse Raubmöwe)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Europa / N-Atlantik</td><td>[tab]</td><td>[tab] 1</td><td>[tab]</td></tr>
+<tr><td colspan="4">Familie ALCIDAE (Alken)</td></tr>
+<tr><td>*Fratercula arctica* (Papageitaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Von Hudson Bay und Maine ostwärts bis S‑Grönland, Island, Bäreninsel, Norwegen bis S‑Nowaja Semlja</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– NO-Kanada, N-Grönland bis Jan Mayen, Spitzbergen, N-Nowaja Semlja</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– Färöer, S-Norwegen und Schweden, Grossbritannien, Irland, NW-Frankreich</td><td>1b</td><td></td><td></td></tr>
+<tr><td>*Cepphus grylle grylle* (Gryllteiste)</td><td></td><td></td><td></td></tr>
+<tr><td>– Ostsee</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Cepphus grylle mandtii* (Gryllteiste)</td><td></td><td></td><td></td></tr>
+<tr><td>– Arktisches O-Nordamerika bis Grönland, Jan Mayen und Spitzbergen ostwärts über Sibirien bis Alaska</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Cepphus grylle arcticus* (Gryllteiste)</td><td></td><td></td><td></td></tr>
+<tr><td>– N-Amerika, S-Grönland, Grossbritannien, Irland, Skandinavien, Weisses Meer</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Cepphus grylle islandicus* (Gryllteiste)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island</td><td>3c</td><td></td><td></td></tr>
+<tr><td>*Cepphus grylle faeroeensis* (Gryllteiste)</td><td></td><td></td><td></td></tr>
+<tr><td>– Färöer</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>*Alca torda torda* (Tordalk)</td><td></td><td></td><td></td></tr>
+<tr><td>– O-Nordamerika, Grönland, östlich von Ostsee und Weissem Meer</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Alca torda islandica* (Tordalk)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island, Färöer, Grossbritannien, Irland, Helgoland, NW-Frankreich</td><td>4</td><td></td><td></td></tr>
+<tr><td>*Alle alle alle* (Krabbentaucher)</td><td></td><td></td><td></td></tr>
+<tr><td>– Hohe Arktis, von Baffin-Insel bis Novaya Semlya</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Uria lomvia lomvia* (Dickschnabellumme)</td><td></td><td></td><td></td></tr>
+<tr><td>– O-Nordamerika, Grönland, östlich von Severnaja Semlja</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Uria aalge aalge* (Trottellumme)</td><td></td><td></td><td></td></tr>
+<tr><td>– Island, Färöer, Schottland, S-Norwegen, Baltikum</td><td></td><td>2c</td><td></td></tr>
+<tr><td>*Uria aalge albionis* (Trottellumme)</td><td></td><td></td><td></td></tr>
+<tr><td>– Irland, S-Grossbritannien, Frankreich, Iberien, Helgoland</td><td></td><td></td><td>1</td></tr>
+<tr><td>*Uria aalge hyperborea* (Trottellumme)</td><td></td><td></td><td></td></tr>
+<tr><td>– Spitzbergen, von N-Norwegen bis Nowaja Semlja</td><td></td><td></td><td>1</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvlu4-1]: Am 18. Februar 2019 legte die Schweiz einen Vorbehalt gemäss Artikel X des Abkommens vor, da das interne Genehmigungsverfahren für diese Änderung, wie es an der 7. Sitzung der Sitzung der Vertragsparteien des Abkommens angenommen wurde, nicht abgeschlossen werden konnte.
+
+Geltungsbereich am 21. März 2019**[^t-5]**
+
+<table>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Ägypten</td><td>4. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Albanien</td><td>20. Juni</td><td>2001 B</td><td>1. September</td><td>2001</td></tr>
+<tr><td>Algerien</td><td>4. Juli</td><td>2006 B</td><td>1. Oktober</td><td>2006</td></tr>
+<tr><td>Äquatorialguinea</td><td>3. Oktober</td><td>2002 B</td><td>1. Januar</td><td>2003</td></tr>
+<tr><td>Äthiopien</td><td>3. November</td><td>2009 B</td><td>1. Februar</td><td>2010</td></tr>
+<tr><td>Belarus\*</td><td>15. Januar</td><td>2016 B</td><td>1. April</td><td>2016</td></tr>
+<tr><td>Belgien</td><td>3. März</td><td>2006</td><td>1. Juni</td><td>2006</td></tr>
+<tr><td>Benin</td><td>26. Oktober</td><td>1999 U</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Botsuana</td><td>22. August</td><td>2017 B</td><td>1. November</td><td>2017</td></tr>
+<tr><td>Bulgarien\*</td><td>23. November</td><td>1999</td><td>1. Februar</td><td>2000</td></tr>
+<tr><td>Burkina Faso</td><td>1. Juli</td><td>2013 B</td><td>1. Oktober</td><td>2013</td></tr>
+<tr><td>Burundi</td><td>25. Juli</td><td>2014 B</td><td>1. Oktober</td><td>2014</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1. März</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Deutschland</td><td>9. Dezember</td><td>1998</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Dschibuti</td><td>31. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Estland\*</td><td>1. August</td><td>2008 B</td><td>1. November</td><td>2008</td></tr>
+<tr><td>Eswatini</td><td>23. Oktober</td><td>2012 B</td><td>1. Januar</td><td>2013</td></tr>
+<tr><td>Europäische Union</td><td>27. Juli</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Finnland\*</td><td>29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Frankreich</td><td>30. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
+<tr><td>Gabun</td><td>10. September</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Gambia</td><td>12. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Georgien</td><td>28. Mai</td><td>2001 B</td><td>1. August</td><td>2001</td></tr>
+<tr><td>Ghana</td><td>25. Juli</td><td>2005 B</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Guinea</td><td>4. März</td><td>1999 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Guinea-Bissau</td><td>14. August</td><td>2006 B</td><td>1. November</td><td>2006</td></tr>
+<tr><td>Irland</td><td>30. Mai</td><td>2003</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Island\*</td><td>21. März</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Israel</td><td>14. August</td><td>2002 B</td><td>1. November</td><td>2002</td></tr>
+<tr><td>Italien</td><td>1. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
+<tr><td>Jordanien</td><td>12. März</td><td>1997 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Kenia</td><td>9. März</td><td>2001 B</td><td>1. Juni</td><td>2001</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>30. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Kroatien</td><td>26. Juni</td><td>2000 B</td><td>1. September</td><td>2000</td></tr>
+<tr><td>Lettland\*</td><td>21. Oktober</td><td>2005 B</td><td>1. Januar</td><td>2006</td></tr>
+<tr><td>Libanon</td><td>30. September</td><td>2002 B</td><td>1. Dezember</td><td>2002</td></tr>
+<tr><td>Libyen</td><td>31. März</td><td>2005 B</td><td>1. Juni</td><td>2005</td></tr>
+<tr><td>Litauen</td><td>23. August</td><td>2004 B</td><td>1. November</td><td>2004</td></tr>
+<tr><td>Luxemburg</td><td>12. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
+<tr><td>Madagaskar</td><td>12. Oktober</td><td>2006 B</td><td>1. Januar</td><td>2007</td></tr>
+<tr><td>Mali</td><td>18. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Marokko</td><td>24. September</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Mauretanien</td><td>25. Februar</td><td>2015 B</td><td>1. Mai</td><td>2015</td></tr>
+<tr><td>Mauritius</td><td>26. Oktober</td><td>2000 B</td><td>1. Januar</td><td>2001</td></tr>
+<tr><td>Moldau\*</td><td>17. Januar</td><td>2001 B</td><td>1. April</td><td>2001</td></tr>
+<tr><td>Monaco</td><td>15. Juni</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Montenegro</td><td>1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
+<tr><td>Niederlande</td><td>15. August</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Niger</td><td>31. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Nigeria</td><td>13. April</td><td>2004 B</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Nordmazedonien</td><td>1. November</td><td>1999 B</td><td>1. Februar</td><td>2000</td></tr>
+<tr><td>Norwegen</td><td>25. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
+<tr><td>Portugal</td><td>11. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Ruanda</td><td>11. Juni</td><td>2014 B</td><td>1. September</td><td>2014</td></tr>
+<tr><td>Rumänien</td><td>4. Juli</td><td>2000</td><td>1. Oktober</td><td>2000</td></tr>
+<tr><td>Schweden\*</td><td>5. Oktober</td><td>1998 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Schweiz</td><td>15. Oktober</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Senegal</td><td>27. April</td><td>1999 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Serbien</td><td>13. Dezember</td><td>2018 B</td><td>1. März</td><td>2019</td></tr>
+<tr><td>Simbabwe</td><td>8. März</td><td>2012 B</td><td>1. Juni</td><td>2012</td></tr>
+<tr><td>Slowakei\*</td><td>23. April</td><td>2001 B</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Slowenien</td><td>23. Juli</td><td>2003 B</td><td>1. Oktober</td><td>2003</td></tr>
+<tr><td>Spanien</td><td>30. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Südafrika</td><td>1. Januar</td><td>2002</td><td>1. April</td><td>2002</td></tr>
+<tr><td>Sudan</td><td>31. Dezember</td><td>1996 U</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Syrien</td><td>30. Mai</td><td>2003 B</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Tansania</td><td>31. August</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Togo</td><td>22. März</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Tschad</td><td>1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
+<tr><td>Tschechische Republik\*</td><td>23. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
+<tr><td>Tunesien</td><td>26. April</td><td>2005 B</td><td>1. Juli</td><td>2005</td></tr>
+<tr><td>Uganda</td><td>22. September</td><td>2000 B</td><td>1. Dezember</td><td>2000</td></tr>
+<tr><td>Ukraine</td><td>18. Oktober</td><td>2002</td><td>1. Januar</td><td>2003</td></tr>
+<tr><td>Ungarn\*</td><td>17. Dezember</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
+<tr><td>Usbekistan</td><td>30. Januar</td><td>2004 B</td><td>1. April</td><td>2004</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Gibraltar</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Guernsey</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Insel Man</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Jersey</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>22. Februar</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>15. Oktober</td><td>2018 B</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Zypern</td><td>19. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Aussenministeriums der Niederlande https://treatydatabase.overheid.nl/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern (in Französisch und Englisch) bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Mit einem Vorbehalt betreffend Grönland.</td></tr>
+</table>
+
+[^t-5]: [AS 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420), [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125)[3335](https://fedlex.data.admin.ch/eli/oc/2006/522), [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181), [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889), [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330), **2017** 2537, [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).

@@ -1,0 +1,203 @@
+---
+sr: "171.117"
+title: "Ordinanza dell'Assemblea federale del 28 settembre 2012 sulle relazioni internazionali del Parlamento (ORInt)"
+short: ORInt
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/613"
+language: it
+version: 2019-12-02
+adopted: 2012-09-28
+in_force: 2012-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20191202/it/xml/fedlex-data-admin-ch-eli-cc-2012-613-20191202-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’Assemblea federale sulle relazioni internazionali del Parlamento
+
+(ORInt)
+
+del 28 settembre 2012 (Stato 2 dicembre 2019)
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visto l’articolo 60 della legge del 13 dicembre 2002[^ingress-1] sul Parlamento; visto il rapporto della Commissione della politica estera del Consiglio degli Stati del 12 maggio 2011[^ingress-2]; visto il parere del Consiglio federale del 10 giugno 2011[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-2]: [FF 2011 5783](https://fedlex.data.admin.ch/eli/fga/2011/982)
+[^ingress-3]: Non pubblicato nel FF.
+
+#### Art. 1
+
+**Commissioni della politica estera**
+
+<sup>1</sup> Le Commissioni della politica estera (CPE) curano le relazioni con i parlamenti di altri Stati sempre che non sia designata a tale scopo una delegazione permanente di cui all’articolo 4 o una delegazione non permanente secondo l’articolo 5.
+
+<sup>2</sup> Per adempiere questo compito, le CPE dispongono di un credito annuo nell’ambito del preventivo dell’Assemblea federale.
+
+<sup>3</sup> Per le visite all’estero, le CPE istituiscono delegazioni non permanenti. Di norma le delegazioni non permanenti della Commissione del Consiglio nazionale si compongono di al massimo otto membri della Commissione e quelle della Commissione del Consiglio degli Stati di al massimo sei membri della Commissione. Di norma, le delegazioni non permanenti comuni alle due Commissioni si compongono di al massimo otto membri delle CPE.
+
+<sup>4</sup> Ognuna delle CPE designa fra i propri membri quelli chiamati a far parte delle delegazioni non permanenti. È tenuto adeguatamente conto della forza dei gruppi parlamentari.
+
+<sup>5</sup> Le CPE coordinano tra di loro le proprie attività volte a curare le relazioni con i parlamenti di altri Stati e le coordinano con gli altri organi dell’Assemblea federale attivi a livello internazionale.
+
+#### Art. 2
+
+**Delegazioni permanenti in assemblee parlamentari internazionali**
+
+L’Assemblea federale è rappresentata da delegazioni permanenti nelle seguenti assemblee parlamentari internazionali:
+
+- a. Unione interparlamentare (UIP);
+- b. Assemblea parlamentare del Consiglio d’Europa (AP-CdE);
+- c. Comitato parlamentare dell’Associazione europea di libero scambio;
+- d. Assemblea parlamentare della francofonia (APF);
+- e. Assemblea parlamentare dell’Organizzazione per la sicurezza e la cooperazione in Europa (AP-OSCE);
+- f. Assemblea parlamentare dell’Organizzazione del trattato dell’Atlantico del Nord (AP-NATO).
+
+#### Art. 3
+
+**Relazioni con il Parlamento europeo**
+
+<sup>1</sup> La delegazione nel Comitato parlamentare dell’AELS cura anche le relazioni con il Parlamento europeo (Delegazione AELS/UE).
+
+<sup>2</sup> I presidenti delle CPE e della Delegazione AELS/UE hanno il diritto di curare le relazioni con il Parlamento europeo.
+
+3 Se i Servizi del Parlamento non sono in grado di svolgere essi stessi i lavori necessari possono rivolgersi alla Direzione degli affari europei (DAE)[^3-1] e al punto di contatto alla Missione svizzera presso l’UE a Bruxelles.
+
+<sup>4</sup> A fini di coordinamento, le CPE si incontrano una volta all’anno con la Delegazione AELS/UE per discutere delle relazioni con il Parlamento europeo.
+
+<sup>5</sup> Sempre che non riferisca essa stessa in merito, la Delegazione AELS/UE sottopone di norma un corapporto alle CPE sulle questioni di politica europea trattate dall’Assemblea federale.
+
+[^3-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+
+#### Art. 4
+
+**Delegazioni permanenti per le relazioni con i parlamenti degli Stati limitrofi**
+
+L’Assemblea federale cura le relazioni con i Parlamenti degli Stati limitrofi per mezzo delle seguenti delegazioni permanenti:
+
+- a. Delegazione per le relazioni con il Bundestag;
+- b. Delegazione per le relazioni con il Parlamento austriaco;
+- c. Delegazione per le relazioni con il Parlamento francese;
+- d. Delegazione per le relazioni con il Parlamento italiano;
+- e. Delegazione per le relazioni con il Landtag del Principato del Liechtenstein.
+
+#### Art. 5
+
+**Delegazioni non permanenti**
+
+<sup>1</sup>
+
+L’Assemblea federale può inviare delegazioni non permanenti:
+
+- a. presso altre istituzioni e conferenze parlamentari internazionali;
+- b. per la cura dei contatti bilaterali con parlamenti di Stati terzi.
+
+<sup>2</sup>
+
+Le delegazioni non permanenti vengono istituite:
+
+- a. dal presidente della Camera interessata se la delegazione si compone di uno o due membri della stessa Camera;
+- b. dall’Ufficio della Camera interessata se la delegazione si compone di più di due membri della stessa Camera;
+- c. dai presidenti delle due Camere se la delegazione si compone di al massimo due membri del Consiglio nazionale e due membri del Consiglio degli Stati;
+- d. dalla Conferenza di coordinamento, se la delegazione si compone di più di due membri del Consiglio nazionale e di più di due membri del Consiglio degli Stati.
+
+#### Art. 6
+
+**Composizione delle delegazioni permanenti**
+
+<sup>1</sup>
+
+Le delegazioni permanenti in assemblee parlamentari internazionali si compongono come segue:
+
+- a. *UIP:* di cinque membri del Consiglio nazionale e di tre membri del Consiglio degli Stati; se un membro della delegazione è impedito, il presidente della delegazione può designare un sostituto scelto nello stesso gruppo parlamentare del membro da sostituire;
+- b. *AP-CdE:* di quattro membri del Consiglio nazionale e di due membri del Consiglio degli Stati; quali membri supplenti vengono designati quattro membri del Consiglio nazionale e due membri del Consiglio degli Stati;
+- c. *Delegazione presso il Parlamento europeo e il* *Comitato parlamentare dell’Associazione europea di libero scambio* *AELS:* di tre membri del Consiglio nazionale e di due membri del Consiglio degli Stati; quali membri supplenti vengono designati tre membri del Consiglio nazionale e due membri del Consiglio degli Stati;
+- d. *APF:* di tre membri del Consiglio nazionale e di due membri del Consiglio degli Stati; quali membri supplenti vengono designati tre membri del Consiglio nazionale e due membri del Consiglio degli Stati; la delegazione è composta esclusivamente di parlamentari di lingua francese;
+- e. *AP-OSCE:* di tre membri del Consiglio nazionale e di tre membri del Consiglio degli Stati; quali membri supplenti vengono designati un membro del Consiglio nazionale e un membro del Consiglio degli Stati;
+- f. *AP-NATO:* di due membri del Consiglio nazionale e di due membri del Consiglio degli Stati; quali membri supplenti vengono designati un membro del Consiglio nazionale e un membro del Consiglio degli Stati; di regola, la delegazione è composta dei presidenti e dei vicepresidenti delle Commissioni della politica di sicurezza delle due Camere; di regola, quali membri supplenti vengono designati gli ex presidenti di queste Commissioni.
+
+<sup>2</sup> Le delegazioni permanenti per le relazioni con i parlamenti degli Stati limitrofi si compongono di tre membri del Consiglio nazionale e di due membri del Consiglio degli Stati. Quali membri supplenti vengono designati tre membri del Consiglio nazionale e due membri del Consiglio degli Stati. Nella nomina delle delegazioni si tengono in considerazione le conoscenze linguistiche dei membri della delegazione.
+
+#### Art. 7
+
+**Organizzazione**
+
+<sup>1</sup> Le delegazioni si costituiscono da sé. Esse designano per un biennio un presidente e un vicepresidente.
+
+<sup>2</sup> I membri delle delegazioni di cui all’articolo 2 lettere b–f possono farsi rappresentare unicamente da membri supplenti.
+
+<sup>3</sup> Le delegazioni decidono a maggioranza dei membri votanti.
+
+#### Art. 8
+
+**Compiti**
+
+<sup>1</sup> Su mandato dell’Assemblea federale, le delegazioni permanenti nelle assemblee parlamentari internazionali prendono parte alle attività di queste ultime. Si attengono ai regolamenti e alla prassi dell’assemblea parlamentare internazionale in questione.
+
+<sup>2</sup> Le delegazioni permanenti per le relazioni con i parlamenti degli Stati limitrofi si incontrano periodicamente, entro i limiti dei mezzi finanziari a loro disposizione, con le delegazioni dei loro Paesi partner.
+
+<sup>3</sup> Tengono conto delle disposizioni vigenti nei parlamenti dei Paesi partner e della prassi usuale per la cura delle relazioni con altri Stati.
+
+<sup>4</sup> Le delegazioni di cui ai capoversi 1 e 2 coordinano le loro attività con quelle delle CPE. Una rappresentanza comune di tutte le delegazioni discute i temi importanti con le CPE almeno una volta all’anno.
+
+<sup>5</sup> I presidenti delle delegazioni e delle CPE coordinano le attività delle delegazioni e delle commissioni nell’ambito di una conferenza annuale.
+
+#### Art. 9
+
+**Rapporto**
+
+<sup>1</sup> Almeno una volta nella legislatura, le CPE presentano alle Camere un rapporto scritto sulle attività delle delegazioni di cui all’articolo 1.
+
+<sup>2</sup> Ogni anno, le delegazioni permanenti nelle assemblee parlamentari internazionali presentano alle Camere un rapporto scritto sulla loro attività. Tali rapporti sono sottoposti all’esame preliminare delle CPE o, nel caso del rapporto della delegazione nell’AP-NATO, delle Commissioni della politica di sicurezza.
+
+<sup>3</sup> Almeno una volta nella legislatura, le delegazioni permanenti di cui all’articolo 4, rappresentate dal loro presidente, presentano alle Camere un rapporto scritto sulle loro attività. Tali rapporti sono sottoposti all’esame preliminare delle CPE.
+
+#### Art. 9a
+
+**Registro pubblico delle trasferte ufficiali all’estero dei parlamentari**[^9a-1]
+
+<sup>1</sup> I Servizi del Parlamento tengono un registro pubblico delle trasferte all’estero che i parlamentari compiono a spese dell’Assemblea federale in virtù della presente ordinanza.
+
+<sup>2</sup>
+
+Il registro contiene i seguenti dati:
+
+- a. l’elenco delle trasferte, con indicazione dell’organo responsabile, del motivo, della destinazione e del nome dei parlamentari che vi partecipano;
+- b. i costi annuali delle trasferte per ogni organo.
+
+[^9a-1]: Introdotto dal n. II dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+
+#### Art. 10
+
+**Contributi**
+
+Il contributo che la Svizzera deve versare per la partecipazione a un’assemblea parlamentare internazionale è a carico della Confederazione.
+
+#### Art. 11
+
+**Mandato presso il Consiglio d’Europa**
+
+Di norma, il mandato dei membri della delegazione presso l’Assemblea parlamentare del Consiglio d’Europa comincia e termina con l’anno parlamentare del Consiglio d’Europa. Il mandato dei delegati che lasciano l’Assemblea federale termina il più tardi alla fine della sessione successiva dell’Assemblea parlamentare.
+
+#### Art. 12
+
+**Partecipazione a delegazioni del Consiglio federale**
+
+I parlamentari possono essere invitati da un consigliere federale a partecipare in Svizzera o all’estero a una visita bilaterale o a una conferenza. A tal fine ricevono una diaria. Le altre spese sono a carico del Consiglio federale.
+
+#### Art. 13
+
+**Diritto previgente: abrogazione**
+
+L’ordinanza del 3 ottobre 2003[^13-1] sulle delegazioni parlamentari è abrogata.
+
+[^13-1]: [[RU 2003 3617](https://fedlex.data.admin.ch/eli/oc/2003/513)]
+
+#### Art. 14
+
+**Entrata in vigore**
+
+La presente ordinanza dell’Assemblea federale entra in vigore il 1° ottobre 2012.

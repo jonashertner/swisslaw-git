@@ -1,0 +1,97 @@
+---
+sr: "958.2"
+title: Ordonnance du 30 novembre 2018 concernant la reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse
+eli: "https://fedlex.data.admin.ch/eli/cc/2018/689"
+language: fr
+version: 2018-11-30
+adopted: 2018-11-30
+in_force: 2018-11-30
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20181130/fr/xml/fedlex-data-admin-ch-eli-cc-2018-689-20181130-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20181130/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse
+
+du 30 novembre 2018 (Etat le 30 novembre 2018)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 184, al. 3, de la Constitution[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+#### Art. 1
+
+**Obligation d’obtenir une reconnaissance pour les plates-formes de négociation étrangères**
+
+<sup>1</sup>
+
+En complément et indépendamment de l’obligation d’obtenir une reconnaissance conformément à l’art. 41 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^1-1], les plates-formes de négociation ayant leur siège à l’étranger doivent, à compter du 1<sup>er</sup> janvier 2019, aussi obtenir préalablement une reconnaissance de l’Autorité fédérale de surveillance des marchés financiers (FINMA) lorsque:
+
+- a. des titres de participation de sociétés ayant leur siège en Suisse sont négociés sur ces plates-formes de négociation ou lorsque ces plates-formes de négociation permettent de négocier de tels titres de participations, et que
+- b. les titres de participation visés à la let. a sont cotés à une bourse en Suisse ou négociés sur une plate-forme de négociation en Suisse.
+
+<sup>2</sup>
+
+Une bourse étrangère n’a pas besoin de reconnaissance pour la négociation de certains titres de participation visés à l’al. 1 lorsque:
+
+- a. ces titres de participation sont admis à la négociation ou cotés à la bourse correspondante à l’étranger avec un accord exprès de la société émettrice donné avant le 30 novembre 2018;
+- b. ces titres de participations y ont été admis à la négociation ou cotés avant le 30 novembre 2018, et que
+- c. la société émettrice assume les obligations liées à l’admission à la négociation ou à la cotation à la bourse correspondante à l’étranger.
+
+<sup>3</sup> La reconnaissance d’une plate-forme de négociation étrangère est caduque dès que le siège de celle-ci se situe dans une juridiction visée à l’art. 3, al. 3.
+
+[^1-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+
+#### Art. 2
+
+**Procédure**
+
+<sup>1</sup>
+
+La FINMA octroie la reconnaissance sur demande lorsque la plate-forme de négociation étrangère:
+
+- a. est soumise à une réglementation et à une surveillance appropriées, et
+- b. n’a pas son siège dans une juridiction qui soumet ses participants au marché à des règles restreignant la négociation, sur des plates-formes de négociation suisses, de titres de participation de sociétés ayant leur siège en Suisse et ainsi entrave de manière substantielle la négociation de tels titres de participation sur des plates-formes de négociation suisses.
+
+<sup>2</sup> Elle peut aussi reconnaître une plate-forme de négociation étrangère qui n’a pas déposé de demande dès lors que cette plate-forme de négociation remplit les exigences visées à l’al. 1.
+
+#### Art. 3
+
+**Information des plates-formes de négociation concernées et publication de listes**
+
+<sup>1</sup> La FINMA informe les plates-formes de négociation concernées de la présente ordonnance jusqu’au 31 décembre 2018.
+
+<sup>2</sup> Elle publie une liste de toutes les plates-formes de négociations étrangères reconnues.
+
+<sup>3</sup> Le Département fédéral des finances publie une liste des juridictions visées à l’art. 2, al. 1, let. b.
+
+#### Art. 4
+
+**Autorisation provisoire de participants étrangers**
+
+<sup>1</sup> Dans le cadre de l’exécution de l’art. 40 LIMF[^4-1], la FINMA peut, dans certains cas, octroyer aux requérants une autorisation provisoire pour la participation aux plates-formes de négociations suisses valable jusqu’à la fin de la procédure d’autorisation, mais au maximum une année.
+
+<sup>2</sup> Les participants titulaires d’une autorisation provisoire doivent remplir les obligations d’enregistrer et de déclarer énoncées aux art. 38 et 39 LIMF au plus tard à compter du 1<sup>er</sup> août 2019; les faits survenus entre le 1<sup>er</sup> janvier 2019 et le 31 juillet 2019 et entraînant ces obligations doivent faire l’objet d’un enregistrement et d’une déclaration rétroactifs au plus tard le 1<sup>er</sup> octobre 2019.
+
+[^4-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+
+#### Art. 5
+
+**Relation de la présente ordonnance avec la loi sur la surveillance des marchés financiers**
+
+Cette ordonnance est réputée loi sur les marchés financiers au sens de l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^5-1].
+
+[^5-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 6
+
+**Entrée en vigueur et durée de validité**
+
+La présente ordonnance entre en vigueur le 30 novembre 2018 à 20 heures[^6-1] et a effet jusqu’au 31 décembre 2021.
+
+[^6-1]: Publication urgente du 30 novembre 2018 au sens de l’art 7, al. 3, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).

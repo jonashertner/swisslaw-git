@@ -1,0 +1,1695 @@
+---
+sr: "952.02"
+title: "Ordinanza del 30 aprile 2014 sulle banche e le casse di risparmio (Ordinanza sulle banche, OBCR)"
+short: OBCR
+eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
+language: it
+version: 2020-01-01
+adopted: 2014-04-30
+in_force: 2015-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20200101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulle banche e le casse di risparmio
+
+(Ordinanza sulle banche, OBCR)
+
+del 30 aprile 2014 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+
+Il Consiglio federale svizzero,
+
+vista la legge dell’8 novembre 1934[^ingress-1] sulle banche (LBCR)
+
+ordina:
+
+[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+## Capitolo 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto**[^1-1]
+
+La presente ordinanza disciplina segnatamente:
+
+- a.
+
+  per le banche e le persone di cui all’articolo 1*b* LBCR:
+
+  - 1\. le condizioni per l’autorizzazione all’esercizio dell’attività,
+  - 2\. le esigenze poste all’organizzazione,
+  - 3\. i requisiti in materia di presentazione dei conti;
+
+- b.
+
+  per le banche:
+
+  - 1\. la garanzia dei depositi,
+  - 2\. il trasferimento e la liquidazione degli averi non rivendicati;
+
+- c. per le banche di rilevanza sistemica: la pianificazione d’emergenza e il miglioramento delle loro possibilità di risanamento e di liquidazione.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 2
+
+**Banche**
+
+### (art. 1 cpv. 1 LBCR)
+
+<sup>1</sup> ...[^2-1]
+
+<sup>2</sup>
+
+Le banche sono suddivise dall’Autorità federale di vigilanza sui mercati finanziari (FINMA) nelle categorie di cui all’allegato 3 in base ai seguenti criteri: [^2-2]
+
+- a. totale di bilancio;
+- b. patrimoni gestiti;
+- c. depositi privilegiati;
+- d. fondi propri minimi.[^2-3]
+
+<sup>3</sup> Ogni banca rientra nella categoria di cui soddisfa almeno tre di questi criteri.[^2-4]
+
+[^2-1]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^2-3]: Introdotto dal n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^2-4]: Introdotto dal n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+
+#### Art. 3
+
+**Non banche**
+
+### (art. 1 cpv. 2 LBCR)
+
+Gli enti e istituti di diritto pubblico, come pure le casse di cui siffatti enti e istituti di diritto pubblico garantiscono integralmente gli impegni, non sono considerati banche o persone di cui all’articolo 1*b* LBCR[^3-1] anche se accettano depositi del pubblico a titolo professionale.
+
+[^3-1]: Nuova espr. giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+
+#### Art. 3a
+
+**Società del gruppo importanti**[^3a-1]
+
+### (art. 2<sup>bis</sup> LBCR)
+
+Le funzioni di una società del gruppo sono importanti per le attività soggette ad autorizzazione se sono necessarie al mantenimento di processi operativi rilevanti, in particolare nell’ambito della gestione della liquidità, della tesoreria, della gestione dei rischi, dell’amministrazione dei dati di base e della contabilità, del personale, delle tecnologie dell’informazione, del commercio e del regolamento, nonché del diritto e della «compliance».
+
+[^3a-1]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+#### Art. 4
+
+**Settore finanziario**
+
+### (art. 3*c* cpv. 1 lett. b LBCR)
+
+<sup>1</sup>
+
+È attivo nel settore finanziario chiunque:
+
+- a. fornisce o procura servizi finanziari, in particolare effettua per conto proprio o per conto di terzi operazioni di deposito o di credito, commercia valori mobiliari, investe capitali o gestisce patrimoni;
+- b. detiene partecipazioni qualificate prevalentemente in imprese attive nel settore finanziario (società holding); o
+- c.[^4-1] è una società del gruppo importante secondo l’articolo 3*a*.
+
+<sup>2</sup> L’attività delle imprese di assicurazione (settore assicurativo) è equiparata all’attività nel settore finanziario sempreché la presente ordinanza o l’ordinanza del 1° giugno 2012[^4-2] sui fondi propri (OFoP) non prevedano regolamentazioni derogative per queste imprese.
+
+[^4-1]: Introdotta dal n. III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^4-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 5
+
+**Depositi del pubblico**
+
+### (art. 1 cpv. 2 LBCR)
+
+<sup>1</sup> Sono considerati depositi del pubblico gli impegni nei confronti della clientela, eccettuati quelli di cui ai capoversi 2 e 3.
+
+<sup>2</sup>
+
+Non sono considerati depositi del pubblico i depositi:
+
+- a. di banche svizzere ed estere o di altre imprese sottoposte a vigilanza statale;
+- b. di azionisti o soci che vantano una partecipazione qualificata nei confronti del debitore;
+- c. di persone legate per motivi economici o familiari a quelle di cui alla lettera b;
+- d. di investitori istituzionali aventi una tesoreria professionale;
+- e. di lavoratori attivi o pensionati, qualora i fondi siano depositati presso il datore di lavoro; o
+- f.
+
+  presso associazioni, fondazioni o società cooperative sempre che:
+
+  - 1\. non esercitino alcuna attività nel settore finanziario,
+  - 2\. abbiano scopi ideali o di mutuo soccorso e utilizzino i depositi esclusivamente a tale fine,
+  - 3\. la scadenza dei depositi sia di almeno sei mesi.
+
+<sup>3</sup>
+
+Non sono considerati depositi:
+
+- a. i fondi ricevuti come controprestazione in virtù di un contratto relativo al trasferimento di proprietà o alla prestazione di servizi, oppure consegnati a titolo di garanzia;
+- b.[^5-1]
+
+  i prestiti in obbligazioni e altri titoli emessi secondo criteri unitari e in grande numero o diritti aventi la medesima funzione ma non incorporati in un titolo (diritti-valori), se al momento dell’offerta i creditori vengono informati, in una delle forme di cui all’articolo 64 capoverso 3 della legge del 15 giugno 2018[^5-2] sui servizi finanziari, su:
+
+  - 1\. il nome, la sede e l’oggetto sociale dell’emittente con una breve descrizione di tale oggetto,
+  - 2\. il tasso d’interesse, il prezzo di emissione, il termine di sottoscrizione, la data di liberazione, la durata e le condizioni di rimborso,
+  - 3\. l’ultimo conto annuale e l’ultimo conto di gruppo con la relazione di revisione e, se il bilancio risale a più di sei mesi, le chiusure intermedie dell’emittente e del garante, sempre che siano disponibili,
+  - 4\. le garanzie costituite,
+  - 5\. la rappresentanza degli obbligazionisti, se contenuta nelle condizioni di investimento.
+
+- c.[^5-3]
+
+  i saldi avere su conti clienti di commercianti di valori mobiliari o metalli preziosi, di amministratori di beni o imprese simili se servono unicamente per operazioni di clienti e se:
+
+  - 1\. su detti conti non viene versato alcun interesse, e
+  - 2\. non si tratta di conti clienti di commercianti di valori mobiliari: l’esecuzione avviene entro 60 giorni;
+
+- d. i fondi la cui accettazione è vincolata ad un contratto di assicurazione sulla vita, di previdenza professionale o di altre forme previdenziali riconosciute conformemente all’articolo 82 della legge federale del 25 giugno 1982[^5-4] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
+- e. i fondi di modico importo attribuiti a un mezzo o a un sistema di pagamento che servono unicamente per l’acquisto futuro di beni o servizi e non producono interessi;
+- f. i fondi il cui rimborso e la cui remunerazione sono garantiti da una banca (garanzia del rischio di insolvenza).
+
+[^5-1]: Nuovo testo giusta l’all. 11 n. 2 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^5-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-3]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
+[^5-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 6
+
+**Carattere professionale**[^6-1]
+
+<sup>1</sup> Agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo periodo più di 20 depositi del pubblico oppure si presta pubblicamente ad accettarli, anche se il numero dei depositi ottenuti è inferiore a 20.
+
+<sup>2</sup>
+
+Non agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo periodo più di 20 depositi del pubblico oppure si presta pubblicamente ad accettarli, se:
+
+- a. accetta depositi del pubblico per un importo complessivo pari al massimo a un milione di franchi;
+- b. non effettua operazioni sulle differenze di interesse; e
+- c.
+
+  prima che effettuino il deposito, informa i depositanti per scritto o in un’altra forma che consenta la prova per testo che:
+
+  - 1\. egli non soggiace alla vigilanza della FINMA, e
+  - 2\. il deposito non è incluso nella garanzia dei depositi.[^6-2]
+
+<sup>3</sup> ...[^6-3]
+
+<sup>4</sup> Chiunque superi il valore soglia di cui al capoverso 2 lettera a deve notificarlo alla FINMA entro dieci giorni e presentarle una domanda di autorizzazione secondo le prescrizioni della LBCR entro 30 giorni. Se l’obiettivo di protezione della LBCR lo impone, la FINMA può vietare al richiedente di accettare ulteriori depositi del pubblico finché non si sarà pronunciata sulla domanda di autorizzazione.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-3]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 7
+
+**Pubblicità**
+
+### (art. 1 cpv. 2, 6*a* cpv. 3 LBCR)
+
+Le persone che non sono legittimate ad accettare depositi del pubblico a titolo professionale non possono fare pubblicità a tale scopo in nessuna forma.
+
+#### Art. 7a
+
+**Obbligo di informazione delle persone di cui all’articolo 1*b* LBCR**[^7a-1]
+
+### (art. 1*b* LBCR)
+
+<sup>1</sup>
+
+Le persone di cui all’articolo 1*b* LBCR informano i propri clienti in modo comprensibile e completo, per scritto o in un’altra forma che consenta la prova per testo:
+
+- a. dei rischi inerenti al proprio modello aziendale, alle proprie prestazioni di servizio e alle tecnologie utilizzate;
+- b. del fatto che per i depositi del pubblico non è prevista la garanzia dei depositi secondo il capo tredicesimo LBCR.
+
+<sup>2</sup> Le informazioni vanno date ai clienti, lasciando loro tempo sufficiente per comprenderle, in vista della conclusione del contratto.
+
+<sup>3</sup> Le informazioni inerenti ai rischi di cui al capoverso 1 lettera a e all’assenza di garanzia dei depositi di cui al capoverso 1 lettera b non possono figurare unicamente nelle condizioni generali.
+
+<sup>4</sup> Se le informazioni sono messe a disposizione in forma elettronica, le persone di cui all’articolo 1*b* LBCR sono tenute ad assicurare che queste possano essere consultate, scaricate e registrate in ogni momento su un supporto di dati durevole.
+
+<sup>5</sup> Per supporto di dati durevole si intende un supporto cartaceo o qualsiasi altro mezzo che consenta la memorizzazione e la riproduzione inalterata di un’informazione.
+
+[^7a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+## Capitolo 2: Autorizzazioni
+
+### Sezione 1: Indicazioni su persone e titolari di partecipazioni nella domanda di autorizzazione e mutamento dei fatti****
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 8
+
+**Indicazioni su persone e titolari di partecipazioni**
+
+### (art. 1*b*, 3 cpv. 2 lett. c e c<sup>bis ,</sup> 5 e 6 LBCR)
+
+[^8-1]
+
+<sup>1</sup>
+
+La domanda di autorizzazione per l’apertura di una nuova banca o persona di cui all’articolo 1*b* LBCR deve contenere in particolare le seguenti indicazioni e i seguenti documenti sulle persone incaricate dell’amministrazione e della direzione giusta l’articolo 3 capoverso 2 lettera c LBCR nonché sui titolari di partecipazioni qualificate conformemente all’articolo 3 capoverso 2 lettera c<sup>bis</sup> LBCR:
+
+- a.
+
+  per le persone fisiche:
+
+  - 1\. indicazioni riguardanti nazionalità, domicilio, partecipazioni qualificate ad altre società, procedimenti giudiziari e amministrativi pendenti,
+  - 2\. un curriculum vitae firmato dalla persona interessata,
+  - 3\. referenze,
+  - 4\. un estratto del casellario giudiziale;
+
+- b.
+
+  per le società:
+
+  - 1\. gli statuti,
+  - 2\. un estratto del registro di commercio o un’attestazione corrispondente,
+  - 3\. una descrizione dell’attività, della situazione finanziaria e, all’occorrenza, della struttura del gruppo,
+  - 4\. indicazioni su procedimenti giudiziari e amministrativi conclusi o pendenti.
+
+<sup>2</sup> Le persone che detengono una partecipazione qualificata devono consegnare alla FINMA una dichiarazione nella quale precisano se detengono la partecipazione per proprio conto o a titolo fiduciario per conto di terzi e se su questa partecipazione hanno concesso opzioni o diritti simili.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 8a
+
+**Mutamento dei fatti**[^8a-1]
+
+### (art. 1*b* e 3 cpv. 1, 2 e 3 LBCR)
+
+<sup>1</sup> Le banche e le persone di cui all’articolo 1*b* LBCR comunicano alla FINMA ogni mutamento dei fatti su cui si fonda l’autorizzazione.
+
+<sup>2</sup> Se il mutamento è di grande importanza, per proseguire la propria attività esse devono ottenere previamente l’autorizzazione della FINMA.
+
+[^8a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+### Sezione 2: Organizzazione delle banche****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 9
+
+**Campo di attività**
+
+### (art. 3 cpv. 2 lett. a LBCR)
+
+<sup>1</sup> La banca deve descrivere esattamente negli statuti, nel contratto di società o nei regolamenti il proprio campo di attività e l’estensione geografica dello stesso.
+
+<sup>2</sup> Il campo di attività e la sua estensione geografica devono essere adeguati alle possibilità finanziarie e all’organizzazione amministrativa della banca.
+
+#### Art. 10
+
+**Direzione effettiva**
+
+### (art. 3 cpv. 2 lett. d LBCR)
+
+La direzione effettiva della banca deve situarsi in Svizzera. Sono fatte salve le istruzioni generali e le decisioni riguardanti la vigilanza sui gruppi, sempre che la banca faccia parte di un gruppo operante nel settore finanziario sottoposto ad un’adeguata vigilanza su base consolidata da parte delle autorità estere di vigilanza.
+
+#### Art. 11
+
+**Organi**
+
+### (art. 3 cpv. 2 lett. a LBCR)
+
+<sup>1</sup> Se lo scopo sociale o l’importanza degli affari esige l’istituzione di un organo responsabile della direzione superiore, della vigilanza e del controllo, quest’ultimo deve constare di almeno 3 membri.
+
+<sup>2</sup> Nessun membro dell’organo responsabile della direzione superiore, della vigilanza e del controllo di una banca può far parte dell’organo al quale è affidata la direzione.
+
+<sup>3</sup> In casi speciali, la FINMA può autorizzare un’eccezione subordinandola a determinate condizioni.
+
+#### Art. 12
+
+**Separazione delle funzioni e gestione dei rischi**
+
+### (art. 3 cpv. 2 lett. a, 3*f* e 3*g* LBCR)
+
+[^12-1]
+
+<sup>1</sup> La banca provvede ad una efficace separazione interna tra operazioni di credito, commercio, gestione patrimoniale e esecuzione delle transazioni. In singoli casi fondati la FINMA può autorizzare eccezioni o ordinare la separazione di ulteriori funzioni.
+
+<sup>2</sup> La banca disciplina in un regolamento o in direttive interne i principi della gestione dei rischi nonché la competenza e la procedura di autorizzazione per gli affari a rischio. Essa deve in particolare rilevare, limitare e sorvegliare i rischi di mercato, di credito, di insolvenza, di liquidazione, di liquidità e di immagine, nonché i rischi operativi e giuridici.
+
+<sup>2bis</sup> La banca garantisce, sia a livello di singolo istituto sia a livello di gruppo, che siano conclusi nuovi contratti o apportate modifiche a contratti esistenti che sottostanno al diritto estero o prevedono un foro estero soltanto se la controparte riconosce il differimento della disdetta di contratti di cui all’articolo 30*a* LBCR.[^12-2]
+
+<sup>3</sup> La documentazione interna della banca riguardante le decisioni e la sorveglianza relative agli affari a rischio deve essere allestita in modo tale da consentire alla società di audit di esprimere un giudizio attendibile sull’attività.
+
+<sup>4</sup> La banca provvede a istituire un efficace sistema di controllo interno. In particolare istituisce un organo di revisione interno indipendente dalla direzione. In singoli casi fondati la FINMA può esonerare la banca dall’obbligo di istituire un organo di revisione interno.
+
+[^12-1]: Nuovo testo del rimando giusta l’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^12-2]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+#### Art. 13
+
+**Obbligo di notifica dei titolari di partecipazioni qualificate**
+
+### (art. 3 cpv. 5 e 6 LBCR)
+
+<sup>1</sup> Entro 60 giorni dalla chiusura dell’esercizio, la banca inoltra alla FINMA un elenco dei titolari di partecipazioni qualificate al proprio capitale.
+
+<sup>2</sup> L’elenco contiene indicazioni sull’identità dei titolari di partecipazioni qualificate e sulla quota detenuta il giorno di chiusura dell’esercizio, nonché eventuali cambiamenti rispetto all’anno precedente.
+
+- [tab] <sup>3</sup> Le indicazioni e i documenti secondo l’articolo 8 devono essere forniti inoltre per i titolari di partecipazioni qualificate che non erano stati notificati in precedenza.
+
+#### Art. 14
+
+**Banchieri privati**
+
+### (art. 3 cpv. 3 LBCR)
+
+I banchieri privati devono inserire nel contratto di società o in un regolamento interno le disposizioni concernenti l’organizzazione della loro banca.
+
+### Sezione 2*a*:**** Organizzazione delle persone di cui all’articolo 1*b* LBCR
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Introdotta dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 14a
+
+**Forma giuridica, sede e attività principale**
+
+### (art. 1*b* e 3 cpv. 2 lett. d LBCR)
+
+<sup>1</sup>
+
+Le persone di cui all’articolo 1*b* LBCR rivestono una delle seguenti forme giuridiche:
+
+- a. società anonima;
+- b. società in accomandita per azioni;
+- c. società a garanzia limitata.
+
+<sup>2</sup> Esse devono avere sede ed esercitare la loro amministrazione effettiva in Svizzera.
+
+#### Art. 14b
+
+**Sfera degli affari**
+
+### (art. 1*b* cpv. 3 lett. a e 3 cpv. 2 lett. a LBCR)
+
+<sup>1</sup> Le persone di cui all’articolo 1*b* LBCR devono descrivere esattamente negli statuti o in un regolamento la propria sfera degli affari e l’estensione geografica della stessa.
+
+<sup>2</sup> La sfera degli affari e la sua estensione geografica devono essere adeguate alle possibilità finanziarie e all’organizzazione amministrativa della persona.
+
+#### Art. 14c
+
+**Direzione**
+
+### (art. 1*b* cpv. 3 lett. d e 3 cpv. 2 lett. d LBCR)
+
+<sup>1</sup> Le persone di cui all’articolo 1*b* LBCR devono essere effettivamente dirette dalla Svizzera.
+
+<sup>2</sup> Le persone incaricate della direzione devono avere il loro domicilio in un luogo dal quale possono esercitare effettivamente la gestione.
+
+#### Art. 14d
+
+**Organi**
+
+### (art. 1*b* e 3 cpv. 2 lett. a LBCR)
+
+<sup>1</sup> Se lo scopo sociale o l’importanza degli affari di una persona di cui all’articolo 1*b* LBCR esige l’istituzione di un organo responsabile della direzione superiore, della vigilanza e del controllo, quest’ultimo deve constare di almeno tre membri.
+
+<sup>2</sup> Almeno un terzo dei membri dell’organo responsabile della direzione superiore, della vigilanza e del controllo deve essere indipendente dalla direzione.
+
+<sup>3</sup> Le persone fisiche e giuridiche che partecipano a una persona di cui all’articolo 1*b* LBCR con almeno il 10 per cento dei diritti di voto o del capitale oppure che possono influenzarne notevolmente in altro modo l’attività (titolari di partecipazioni qualificate), devono godere di buona reputazione e fornire la garanzia che tale influsso non venga esercitato a danno di un’attività prudente e solida.
+
+<sup>4</sup> In casi speciali, la FINMA può autorizzare eccezioni alle disposizioni dei capoversi 1 e 2 subordinandole a determinate condizioni.
+
+#### Art. 14e
+
+**Compliance e gestione dei rischi**
+
+### (art. 1*b* cpv. 3 lett. b e 3 cpv. 2 lett. a, 3*f* e 3*g* LBCR)
+
+<sup>1</sup> La persona di cui all’articolo 1*b* LBCR garantisce che le prescrizioni giuridiche e aziendali vengano rispettate («compliance») e provvede a un’efficace individuazione, valutazione, gestione e sorveglianza dei rischi collegati alla sua attività (gestione dei rischi) nonché a un efficace sistema di controllo interno.
+
+<sup>2</sup> Stabilisce in documentazioni e direttive interne come soddisfare i requisiti di cui al capoverso 1.
+
+<sup>3</sup> Gli organi competenti in materia di sorveglianza della compliance e di gestione dei rischi devono essere internamente indipendenti dall’attività orientata al conseguimento di un profitto.
+
+<sup>4</sup> La persona di cui all’articolo 1*b* LBCR può delegare la sorveglianza della compliance e la gestione dei rischi a terzi, se questi dispongono delle capacità, delle conoscenze e dell’esperienza indispensabili a tale scopo nonché delle autorizzazioni necessarie. Istruisce e sorveglia accuratamente i terzi di cui si avvale.
+
+<sup>5</sup>
+
+In singoli casi la FINMA può allentare i requisiti di cui al capoverso 3 nei confronti delle persone di cui all’articolo 1*b* LBCR, se queste:
+
+- a. conseguono un reddito lordo inferiore a 1,5 milioni di franchi;
+- b. forniscono la prova di avere un modello aziendale a basso rischio.
+
+#### Art. 14f
+
+**Custodia di depositi del pubblico**
+
+### (art. 1*b* cpv. 3 lett. b LBCR)
+
+<sup>1</sup>
+
+Le persone di cui all’articolo 1*b* LBCR devono:
+
+- a. custodire separatamente dai fondi propri i depositi del pubblico che hanno accettato; o
+- b. registrare nelle loro scritture contabili tali depositi in modo tale da poterli presentare in ogni tempo separatamente dai loro fondi propri; in questo caso, devono sottoporsi a una revisione ordinaria ai sensi dell’articolo 727 CO.
+
+<sup>2</sup>
+
+I depositi del pubblico possono essere custoditi:
+
+- a. quali depositi a vista presso una banca o una persona di cui all’articolo 1*b* LBCR;
+- b. quali attività liquide di elevata qualità della categoria 1 di cui all’articolo 15*a* dell’ordinanza del 30 novembre 2012[^14f-1] sulla liquidità (OLiq).
+
+<sup>3</sup> Tali depositi devono essere custoditi nella valuta in cui i clienti possono esercitare il loro diritto alla restituzione.
+
+<sup>4</sup> Se sono considerati depositi del pubblico, i valori patrimoniali fondati sulla cifratura digitale devono essere custoditi nella forma nella quale sono stati accettati.
+
+[^14f-1]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+
+#### Art. 14g
+
+**Conflitti d’interesse**
+
+### (art. 1*b* LBCR)
+
+<sup>1</sup> Le persone di cui all’articolo 1*b* LBCR adottano provvedimenti organizzativi adeguati per evitare conflitti d’interesse che possono risultare dalla fornitura dei loro servizi o per escludere che tali conflitti arrechino pregiudizio ai clienti.
+
+<sup>2</sup> Se non può escludere un pregiudizio nei confronti del cliente, la persona di cui all’articolo 1*b* LBCR glielo comunica.
+
+### Sezione 3: Esigenze in materia di capitale
+
+#### Art. 15
+
+**Capitale minimo in caso di fondazione di una nuova banca**
+
+### (art. 3 cpv. 2 lett. b LBCR)
+
+<sup>1</sup> Il capitale minimo ammonta a 10 milioni di franchi. Deve essere interamente liberato.
+
+<sup>2</sup> Se la fondazione avviene mediante conferimenti in natura, una società di audit abilitata verifica il valore degli attivi e la somma dei passivi.
+
+#### Art. 16
+
+**Capitale minimo in caso di trasformazione di un’impresa in una banca**
+
+### (art. 3 cpv. 2 lett. b LBCR)
+
+[^16-1]
+
+<sup>1</sup> In caso di trasformazione di un’impresa in una banca, il capitale interamente liberato può essere inferiore a 10 milioni di franchi se i fondi propri di base di qualità primaria ai sensi dell’articolo 21 OFoP[^16-2] raggiungono questo importo, tenuto conto delle correzioni di cui agli articoli 31–40 OFoP. La FINMA decide al riguardo di caso in caso.
+
+<sup>2</sup> Ai conferimenti in natura si applica per analogia l’articolo 15 capoverso 2.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^16-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 17
+
+**Eccezioni alle prescrizioni in materia di capitale minimo**
+
+In casi particolari la FINMA può autorizzare eccezioni alle prescrizioni in materia di capitale minimo di cui agli articoli 15 e 16, segnatamente se:
+
+- a. la banca è affiliata a un’organizzazione centrale che ne garantisce gli impegni;
+- b. l’organizzazione centrale di cui alla lettera a e le banche affiliate soddisfano su base consolidata le prescrizioni in materia di fondi propri e di ripartizione dei rischi;
+- c. la direzione dell’organizzazione centrale di cui alla lettera a può impartire alle banche affiliate istruzioni vincolanti.
+
+#### Art. 17a
+
+**Capitale minimo di persone di cui all’articolo 1b LBCR**[^17a-1]
+
+### (art. 1*b* cpv. 3 lett. c e 3 cpv. 2 lett. b LBCR)
+
+<sup>1</sup> Il capitale minimo delle persone di cui all’articolo 1*b* LBCR ammonta al 3 per cento dei depositi del pubblico accettati secondo l’articolo 5, ma almeno a 300 000 franchi. Deve essere interamente liberato e mantenuto durevolmente. Non può essere prestato ai titolari di partecipazioni qualificate o a persone fisiche o giuridiche ad essi correlate, né investito in partecipazioni dominate da queste ultime.
+
+<sup>2</sup> La FINMA disciplina i dettagli e in singoli casi può inasprire le esigenze in materia di capitale minimo, se questo appare giustificato in virtù dei rischi collegati all’attività.
+
+<sup>3</sup> Le disposizioni dell’OFoP[^17a-2] e dell’OLiq[^17a-3] non si applicano alle persone di cui all’articolo 1*b* LBCR.
+
+[^17a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^17a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17a-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+
+### Sezione 4: Fattispecie transfrontaliere
+
+#### Art. 18
+
+**Autorizzazione suppletiva**
+
+### (art. 3<sup>ter</sup> LBCR)
+
+Le domande di autorizzazione suppletiva presentate da banche o persone di cui all’articolo 1*b* LBCR sotto dominio straniero ai sensi dell’articolo 3<sup>ter</sup> LBCR devono contenere le indicazioni di cui all’articolo 8.
+
+#### Art. 19
+
+**Reciprocità in caso di istituti sotto dominio straniero**
+
+### (art. 3<sup>bis</sup> cpv. 1 lett. a LBCR)
+
+<sup>1</sup>
+
+La reciprocità è garantita in particolare se:
+
+- a. persone con sede o domicilio in Svizzera possono aprire nello Stato estero banche o persone di cui all’articolo 1*b* LBCR, che si tratti di società indipendenti, di succursali o di agenzie; e
+- b. le banche o persone di cui all’articolo 1*b* LBCR aperte nello Stato estero non soggiacciono, nella loro attività, a disposizioni manifestamente più restrittive di quelle applicate alle banche estere in Svizzera.
+
+<sup>2</sup> Nel caso di una rappresentanza permanente di una banca estera giusta l’articolo 3<sup>bis</sup> capoverso 1 LBCR, la reciprocità è garantita se le banche o persone di cui all’articolo 1*b* LBCR svizzere possono aprire nello Stato estero rappresentanze permanenti che svolgano funzioni analoghe.
+
+#### Art. 20
+
+**Notifica di avvio dell’attività all’estero**
+
+### (art. 3 cpv. 7 LBCR)
+
+<sup>1</sup>
+
+La notifica che la banca o persona di cui all’articolo 1*b* LBCR deve trasmettere alla FINMA prima di avviare la propria attività all’estero deve contenere tutte le indicazioni e i documenti necessari alla valutazione dell’attività, e segnatamente:
+
+- a. un piano d’attività che descriva in particolare il genere di attività previste e la struttura organizzativa;
+- b. l’indirizzo dell’ufficio all’estero;
+- c. il nome delle persone incaricate dell’amministrazione e della direzione;
+- d. la società di audit;
+- e. l’autorità di vigilanza nel Paese ospitante.
+
+<sup>2</sup> La banca o persona di cui all’articolo 1*b* LBCR deve pure notificare la cessazione o qualsivoglia modifica significativa della sua attività all’estero nonché il cambiamento di società di audit o di autorità di vigilanza.
+
+## Capitolo 3: Gruppi finanziari e conglomerati finanziari
+
+#### Art. 21
+
+**Unità economica e obbligo di assistenza**
+
+### (art. 3*c* cpv. 1 lett. c LBCR)
+
+<sup>1</sup> Le imprese formano un’unità economica se una delle imprese partecipa direttamente o indirettamente con oltre la metà dei diritti di voto o del capitale alle altre imprese o se le domina in altro modo.
+
+<sup>2</sup>
+
+Un obbligo di assistenza può risultare in particolare a motivo:
+
+- a. di interrelazioni personali o finanziarie;
+- b. dell’utilizzazione della medesima ditta;
+- c. della presenza unitaria sul mercato; o
+- d. di lettere di patronage.
+
+#### Art. 22
+
+**Società di gruppo**
+
+### (art. 3*c* cpv. 1 lett. c LBCR)
+
+Le società di gruppo sono imprese legate da un’unità economica o da un obbligo di assistenza.
+
+#### Art. 23
+
+**Portata della vigilanza sui gruppi e sui conglomerati**
+
+### (art. 3*e* LBCR)
+
+<sup>1</sup> La vigilanza su di un gruppo da parte della FINMA si estende a tutte le società del gruppo finanziario attive nel settore finanziario ai sensi dell’articolo 4 capoverso 1. La vigilanza sui conglomerati si estende alle società di gruppo la cui attività quali imprese di assicurazione ai sensi dell’articolo 4 capoverso 2 è equiparata all’attività nel settore finanziario.
+
+<sup>2</sup> La FINMA può, in casi motivati, escludere le società di gruppo del settore finanziario dalla vigilanza su base consolidata o dichiararne il contenuto solo parzialmente applicabile a tali società, segnatamente se una società di gruppo non è significativa ai fini della vigilanza su base consolidata.
+
+<sup>3</sup> La FINMA può includere totalmente o parzialmente nella vigilanza su base consolidata ai sensi del capoverso 1 l’impresa del settore finanziario dominata da gruppi finanziari o da conglomerati finanziari sottoposti alla sua vigilanza e da terzi.
+
+#### Art. 24
+
+**Contenuto della vigilanza su base consolidata**
+
+### (art. 3*g* LBCR)
+
+<sup>1</sup>
+
+Nell’ambito della vigilanza su base consolidata la FINMA verifica segnatamente se il gruppo finanziario:
+
+- a. è organizzato in maniera adeguata;
+- b. dispone di un adeguato sistema interno di controllo;
+- c. rileva, limita e sorveglia in maniera adeguata i rischi vincolati alla sua attività;
+- d. è diretto da persone che offrono la garanzia di un’attività ineccepibile;
+- e. osserva la separazione personale tra l’organo incaricato della direzione e l’organo responsabile della direzione superiore, della vigilanza e del controllo ai sensi dell’articolo 11;
+- f. osserva le prescrizioni in materia di fondi propri e di ripartizione dei rischi;
+- g. dispone di liquidità adeguate;
+- h. applica correttamente le prescrizioni sulla presentazione dei conti;
+- i. dispone di una società di audit riconosciuta, indipendente e competente.
+
+<sup>2</sup> Per la vigilanza su base consolidata sui conglomerati finanziari, la FINMA può prescindere dal capoverso 1 per tener conto delle peculiarità del settore assicurativo.
+
+#### Art. 24a
+
+**Persone di cui all’articolo 1*b* LBCR**[^24a-1]
+
+### (art. 1*b* LBCR)
+
+<sup>1</sup> Se più persone di cui all’articolo 1*b* LBCR formano un gruppo ai sensi dell’articolo 22, il valore soglia di 100 milioni di franchi previsto per depositi del pubblico secondo l’articolo 1*b* LBCR deve essere calcolato per l’intero gruppo.
+
+<sup>2</sup> Se sono palesemente indipendenti dalle altre società del gruppo, la FINMA può considerare esterne al gruppo singole persone di cui all’articolo 1*b* LBCR.
+
+<sup>3</sup> L’indipendenza può segnatamente essere data in presenza di modelli o scopi aziendali nettamente diversi.
+
+[^24a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+## Capitolo 4: Presentazione dei conti
+
+### Sezione 1: Chiusura contabile singola
+
+#### Art. 25
+
+**Conto annuale**
+
+### (art. 6 cpv. 1 lett. a, 6*b* cpv. 1 e 3 LBCR)
+
+<sup>1</sup>
+
+La banca allestisce un conto annuale. Vi espone la propria situazione economica in modo:
+
+- a. che i terzi possano farsene un’opinione fondata (chiusura singola statutaria con presentazione attendibile); oppure
+- b. da presentare un quadro fedele, secondo il principio della rappresentazione veritiera e corretta (chiusura singola statutaria secondo il principio della rappresentazione veritiera e corretta).
+
+<sup>2</sup>
+
+Nell’ambito della chiusura singola statutaria secondo il principio della rappresentazione veritiera e corretta non si applicano le disposizioni del CO[^25-1] riguardanti:
+
+- a. l’effettuazione di ammortamenti e rettifiche di valore supplementari nonché la rinuncia allo scioglimento di ammortamenti e rettifiche di valore che non sono più giustificati (art. 960*a* cpv. 4 CO);
+- b. la costituzione di accantonamenti per il risanamento di immobilizzazioni materiali e per misure volte a garantire durevolmente la prosperità dell’impresa (art. 960*e* cpv. 3 n. 2 e 4 CO);
+- c. lo scioglimento di accantonamenti che non sono più giustificati (art. 960*e* cpv. 4 CO).
+
+<sup>3</sup> Il conto annuale si compone del bilancio, del conto economico, del prospetto delle variazioni del capitale proprio, del conto dei flussi di tesoreria e dell’allegato. Le banche che allestiscono una chiusura singola statutaria con presentazione attendibile sono dispensate dall’allestimento di un conto dei flussi di tesoreria.
+
+<sup>4</sup>
+
+L’articolo 962 capoverso 1 numero 2 CO non si applica alle società cooperative a condizione che:
+
+- a la società cooperativa sia affiliata a un’organizzazione centrale che ne garantisce gli impegni;
+- b. l’organizzazione centrale di cui alla lettera a allestisca e pubblichi un conto di gruppo, ai sensi degli articoli 33–41 o secondo una norma contabile internazionale riconosciuta dalla FINMA, che integra tutte le società cooperative affiliate; e
+- c. nessun titolo di partecipazione sia quotato in borsa.
+
+<sup>5</sup> Le persone ai sensi dell’articolo 962 capoverso 2 CO possono chiedere un conto annuale secondo il principio della rappresentazione corretta e veritiera se la banca non allestisce un conto di gruppo ai sensi degli articoli 33–41 o in base a una norma contabile internazionale riconosciuta dalla FINMA.
+
+[^25-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 26
+
+**Fondamenti e principi**
+
+### (art. 6 cpv. 3, 6*b* cpv. 1 LBCR)
+
+<sup>1</sup> I fondamenti per l’allestimento del conto annuale sono i principi della continuità di esercizio (art. 958*a* CO[^26-1]) e della correlazione temporale e materiale (art. 958*b* cpv. 1 CO).
+
+<sup>2</sup>
+
+L’allestimento del conto annuale è retto in particolare dai seguenti principi:
+
+- a. registrazione regolare delle operazioni;
+- b. chiarezza e comprensibilità;
+- c. completezza;
+- d. affidabilità;
+- e. essenzialità delle indicazioni;
+- f. prudenza;
+- g. continuità nella presentazione e valutazione;
+- h. divieto della compensazione tra attivi e passivi e tra costi e ricavi;
+- i. ottica economica.
+
+[^26-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 27
+
+**Valutazione e registrazione**
+
+### (art. 6 cpv. 3, 6*b* cpv. 1 e 3 LBCR)
+
+<sup>1</sup> Gli attivi sono di norma iscritti a bilancio al loro costo di acquisto dedotti gli ammortamenti o le rettifiche di valore; i debiti sono iscritti al loro valore nominale. La FINMA stabilisce quali poste di bilancio possono essere iscritte in deroga. Non sono ammesse riserve di fluttuazione ai sensi dell’articolo 960*b* capoverso 2 CO[^27-1].
+
+<sup>2</sup> Gli attivi, i debiti e le operazioni fuori bilancio sono di norma valutati singolarmente, in quanto siano essenziali e non siano abitualmente valutati per gruppi a causa della loro affinità. Le partecipazioni, le immobilizzazioni materiali e i valori immateriali sono in ogni caso valutati singolarmente.
+
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 28
+
+**Articolazione minima**
+
+### (art. 6 cpv. 3, 6*b* cpv. 3 LBCR)
+
+L’articolazione del conto annuale è retta dall’allegato 1.
+
+#### Art. 29
+
+**Relazione annuale**
+
+### (art. 6 cpv. 1 lett. b, 6*b* cpv. 1 LBCR)
+
+La relazione annuale della banca è retta dall’articolo 961*c* CO[^29-1].
+
+[^29-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 30
+
+**Contenuto del rapporto di gestione**
+
+### (art. 6*b* cpv. 1 LBCR)
+
+Il rapporto di gestione ai sensi dell’articolo 6 capoverso 1 LBCR contiene la relazione riassuntiva dell’ufficio di revisione.
+
+#### Art. 31
+
+**Chiusura intermedia**
+
+### (art. 6 cpv. 2, 6*b* cpv. 1 e 3 LBCR)
+
+<sup>1</sup> La banca allestisce semestralmente una chiusura intermedia che si compone del bilancio e del conto economico. La chiusura intermedia deve essere allestita secondo gli stessi fondamenti e principi applicati al conto annuale.
+
+<sup>2</sup> La chiusura intermedia delle banche i cui titoli di partecipazione o titoli di debito sono quotati in borsa contiene inoltre il prospetto delle variazioni del capitale proprio e un allegato succinto. La FINMA stabilisce il contenuto dell’allegato succinto nelle disposizioni di esecuzione.
+
+#### Art. 32
+
+**Pubblicazione**
+
+### (art. 6*a*, 6*b* cpv. 1 e 3 LBCR)
+
+<sup>1</sup> Il rapporto di gestione deve essere reso accessibile al pubblico entro quattro mesi e le chiusure intermedie entro due mesi dalla data della chiusura. Devono essere messi a disposizione in forma stampata.
+
+<sup>2</sup> Il rapporto di gestione e le chiusure intermedie devono essere inoltrati alla FINMA. La FINMA disciplina nelle disposizioni di esecuzione il numero di esemplari, le modalità e il termine di inoltro del rapporto di gestione e delle chiusure intermedie.
+
+<sup>3</sup> La FINMA può prorogare i termini su richiesta della banca.
+
+<sup>4</sup> I banchieri privati sono esonerati dall’obbligo di pubblicazione se la loro pubblicità si riferisce unicamente all’attività di amministratori di beni o di commercianti di valori mobiliari e non comprende l’accettazione di depositi.
+
+### Sezione 2: Conto di gruppo
+
+#### Art. 33
+
+**Conto di gruppo**
+
+### (art. 6 cpv. 1 lett. c, 6*b* cpv. 1 LBCR)
+
+<sup>1</sup> Il conto di gruppo è allestito secondo il principio della rappresentazione corretta e veritiera (art. 25 cpv. 1 lett. b) e si compone del bilancio, del conto economico, del prospetto delle variazioni del capitale proprio, del conto dei flussi di tesoreria e dell’allegato.
+
+<sup>2</sup> Al conto di gruppo si applicano i fondamenti e i principi dell’articolo 26. Deve inoltre essere allestito secondo il metodo del consolidamento integrale.
+
+<sup>3</sup> Gli attivi e i passivi sono valutati e registrati nel conto di gruppo ai sensi dell’articolo 27.
+
+#### Art. 34
+
+**Obbligo di allestimento di un conto di gruppo**
+
+### (art. 6 cpv. 1 lett. c, 6*b* cpv. 1 e 2 LBCR)
+
+<sup>1</sup>
+
+La banca allestisce un conto di gruppo in aggiunta al suo conto annuale se:
+
+- a. controlla una o più imprese;
+- b. può influenzare l’attività di un’impresa al punto da diventarne il principale beneficiario; o
+- c. assume a titolo principale i rischi legati all’attività di un’altra impresa.
+
+<sup>2</sup> La società holding allestisce un conto di gruppo ove sia la società capogruppo di un gruppo finanziario ai sensi dell’articolo 3*c* LBCR.
+
+<sup>3</sup>
+
+La banca o la società holding controlla un’impresa se:
+
+- a. dispone direttamente o indirettamente della maggioranza dei voti in seno all’organo supremo;
+- b. ha direttamente o indirettamente il diritto di nominare o di revocare la maggioranza dei membri dell’organo superiore di direzione o di amministrazione; o
+- c. può esercitare un’influenza dominante in altro modo rispetto alle lettere a e b.
+
+<sup>4</sup>
+
+La banca o la società holding non consolida un’impresa controllata se:
+
+- a. non partecipa al risultato presente o futuro dell’impresa controllata, non ne trae altri vantaggi e non assume rischi legati all’attività dell’impresa;
+- b. beneficiari del vantaggio derivante dall’attività dell’impresa controllata sono terzi indipendenti, i quali si assumono i rischi in forma esclusiva;
+- c. la remunerazione monetaria o non monetaria che le perviene dal rapporto con tale impresa controllata è conforme al mercato e corrisponde alla prestazione di servizi.
+
+<sup>5</sup> L’allestimento del conto di gruppo non può essere delegato a un’impresa controllata.
+
+#### Art. 35
+
+**Eccezioni all’obbligo di allestimento di un conto di gruppo**
+
+### (art. 6*b* cpv. 1–3 LBCR)
+
+<sup>1</sup>
+
+Non devono essere consolidate:
+
+- a. le partecipazioni a imprese non significative sotto il profilo dell’informazione finanziaria o della situazione di rischio;
+- b. le partecipazioni significative, ma assunte senza intenzioni strategiche, che la banca può dimostrare di rivendere o liquidare entro 12 mesi.
+
+<sup>2</sup> Le partecipazioni di cui al capoverso 1 lettera b devono essere riportate nell’allegato al conto di gruppo. Il loro mancato consolidamento deve essere motivato.
+
+<sup>3</sup>
+
+Un sottogruppo incluso nel conto consolidato di una società capogruppo non deve allestire un proprio conto di gruppo se il conto consolidato della società capogruppo:
+
+- a. è allestito e verificato conformemente alla presente ordinanza o a una norma contabile internazionale riconosciuta dalla FINMA; e
+- b. è accessibile al pubblico.
+
+<sup>4</sup> In casi motivati la FINMA può esigere l’allestimento di un conto di sottogruppo e la sua pubblicazione.
+
+#### Art. 36
+
+**Agevolazioni nell’allestimento di un conto di gruppo**
+
+### (art. 6*b* cpv. 2 e 3 LBCR)
+
+<sup>1</sup>
+
+La banca è esonerata dall’allestimento di un conto dei flussi di tesoreria nel conto annuale e di una relazione annuale a livello di società singola se:
+
+- a. allestisce un conto di gruppo ai sensi degli articoli 33–41 o in base a una norma contabile internazionale riconosciuta dalla FINMA e lo pubblica unitamente alla relazione annuale del gruppo; oppure
+- b. in qualità di società consolidata ai sensi dell’articolo 34 appartiene a un gruppo finanziario sottoposto alla vigilanza della FINMA che adempie le condizioni di cui alla lettera a.
+
+<sup>2</sup> L’esonero ai sensi del capoverso 1 lettera b non si applica se i titoli di partecipazione della banca sono quotati in borsa.
+
+<sup>3</sup>
+
+La FINMA stabilisce nelle disposizioni di esecuzione:
+
+- a. quali indicazioni possono essere omesse nel conto annuale se viene allestito un conto di gruppo;
+- b. in quale misura la pubblicazione di una chiusura intermedia a livello di gruppo esonera dalla pubblicazione della chiusura intermedia a livello di società singola.
+
+<sup>4</sup>
+
+Le persone ai sensi dell’articolo 961*d* capoverso 2 CO[^36-1] possono chiedere:
+
+- a. un conto annuale completo e una relazione annuale;
+- b. la pubblicazione di una chiusura intermedia a livello di società singola.
+
+[^36-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 37
+
+**Articolazione minima**
+
+Nelle disposizioni di esecuzione la FINMA stabilisce le prescrizioni particolari riguardanti l’articolazione del conto di gruppo. Al riguardo, tiene conto delle particolarità dell’attività bancaria.
+
+#### Art. 38
+
+**Relazione annuale di gruppo**
+
+La relazione annuale di gruppo è retta dall’articolo 961*c* CO[^38-1].
+
+[^38-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 39
+
+**Contenuto del rapporto di gestione**
+
+### (art. 6*b* cpv. 1 e 3 LBCR)
+
+<sup>1</sup> Oltre al conto annuale, alla relazione annuale e al conto di gruppo, il rapporto di gestione contiene le relazioni riassuntive dell’ufficio di revisione.
+
+<sup>2</sup> Se la società capogruppo è una società holding, la pubblicazione del conto annuale non è obbligatoria.
+
+#### Art. 40
+
+**Chiusura intermedia**
+
+### (art. 6 cpv. 2, 6*b* cpv. 1 e 3 LBCR)
+
+<sup>1</sup> Le banche e le società holding che devono allestire un conto di gruppo allestiscono semestralmente una chiusura intermedia consolidata.
+
+<sup>2</sup> La chiusura intermedia consolidata si compone dei medesimi elementi della chiusura intermedia a livello di società singola ai sensi dell’articolo 31 e poggia sugli stessi fondamenti e principi applicati al conto di gruppo.
+
+#### Art. 41
+
+**Pubblicazione**
+
+### (art. 6*a* cpv. 1–3, 6*b* cpv. 1 e 3 LBCR)
+
+La pubblicazione del rapporto di gestione e della chiusura intermedia è retta dall’articolo 32.
+
+### Sezione 3: Disposizioni di esecuzione relative alla presentazione dei conti
+
+#### Art. 42
+
+### (art. 6b cpv. 3 e 4 LBCR)
+
+La FINMA precisa le disposizioni della presente ordinanza in materia di presentazione dei conti, in particolare riguardo:
+
+- a. alla composizione e alla valutazione delle poste del conto annuale e del conto di gruppo;
+- b. alle particolarità del conto di gruppo;
+- c. alla pubblicazione di indicazioni non previste dalla norma contabile internazionale applicata dalla banca e riconosciuta dalla FINMA, ma necessarie alla valutazione della situazione economica.
+
+## Capitolo 5: Garanzia dei depositi delle banche****
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 43
+
+**Piano di pagamento**
+
+### (art. 37*j* LBCR)
+
+<sup>1</sup> L’incaricato dell’inchiesta, l’incaricato del risanamento o il liquidatore del fallimento (mandatario) nominato dalla FINMA allestisce un piano di pagamento indicante i crediti allibrati che sono considerati garantiti ai sensi dell’articolo 37*h* capoverso 1 LBCR e non sono pagati secondo l’articolo 37*b* LBCR (piano di pagamento).
+
+<sup>2</sup> Il mandatario non è tenuto a verificare i crediti allibrati da inserire nel piano di pagamento. I crediti manifestamente ingiustificati non sono iscritti nel piano di pagamento.
+
+<sup>3</sup> In presenza di indizi secondo i quali la contabilità non è stata tenuta in modo regolare, il mandatario può sollecitare i depositanti a comprovare la legittimità del loro credito. La FINMA disciplina i dettagli.
+
+#### Art. 44
+
+**Pagamento dei depositi garantiti**
+
+### (art. 37*j* cpv. 1 LBCR)
+
+<sup>1</sup> Il mandatario paga ai depositanti i depositi garantiti in base al piano di pagamento, non appena il responsabile della garanzia dei depositi gli versa l’importo ai sensi dell’articolo 37*i* capoverso 2 LBCR.
+
+<sup>2</sup> Se questo importo non è sufficiente al pagamento di tutti i crediti iscritti nel piano di pagamento, i singoli importi sono versati proporzionalmente.
+
+## Capitolo 6: Averi non rivendicati
+
+### Sezione 1: Definizione
+
+#### Art. 45
+
+### (art. 37l cpv. 4 LBCR)
+
+<sup>1</sup> Gli averi si considerano non rivendicati se durante 10 anni dall’ultimo contatto la banca o persona di cui all’articolo 1*b* LBCR non ha più potuto stabilire un contatto con il cliente, con i suoi successori legali (aventi diritto) o con una persona che ha ricevuto una procura.
+
+<sup>2</sup> L’ultimo contatto è quello che risulta dagli atti della banca o persona di cui all’articolo 1*b* LBCR.
+
+<sup>3</sup> Gli averi trasferiti a un’altra banca o persona di cui all’articolo 1*b* LBCR in vista della liquidazione di una banca banca o persona di cui all’articolo 1*b* LBCR si considerano non rivendicati già prima della scadenza dei 10 anni se la banca o persona di cui all’articolo 1*b* LBCR trasferente fornisce la prova di avere intrapreso tutti i passi necessari al ripristino del contatto con l’avente diritto.
+
+### Sezione 2: Trasferimento
+
+#### Art. 46
+
+**Contratto di trasferimento**
+
+### (art. 37*l* cpv. 2 LBCR)
+
+<sup>1</sup>
+
+Costituiscono elementi del contratto scritto mediante il quale gli averi non rivendicati sono trasferiti da una banca o persona di cui all’articolo 1*b* LBCR a un’altra banca o persona di cui all’articolo 1*b* LBCR (contratto di trasferimento):
+
+- a. il nome dell’avente diritto o altre indicazioni che consentono di identificarlo; e
+- b. l’elenco degli averi che sono attribuiti all’avente diritto e che vengono trasferiti.
+
+<sup>2</sup>
+
+La banca o persona di cui all’articolo 1*b* LBCR trasferente mette a disposizione della banca o persona di cui all’articolo 1*b* LBCR assuntrice i seguenti documenti:
+
+- a. giustificativi relativi all’ultimo contatto avuto con l’avente diritto;
+- b. documentazione relativa al rapporto contrattuale con l’avente diritto.
+
+<sup>3</sup> I costi che risultano dal trasferimento di averi non rivendicati non possono essere coperti con tali averi.
+
+#### Art. 47
+
+**Obblighi della banca o persona di cui all’articolo 1*b* LBCR assuntrice**
+
+### (art. 3 cpv. 2 lett. a e 37*l* cpv. 1 LBCR)
+
+<sup>1</sup>
+
+La banca o persona di cui all’articolo 1*b* LBCR assuntrice deve:
+
+- a. disporre di un’organizzazione adeguata per la custodia e l’amministrazione di averi non rivendicati; e
+- b. essere in grado in ogni momento di attribuire all’avente diritto gli averi non rivendicati che le sono stati trasferiti, sempreché le informazioni disponibili lo consentano.
+
+<sup>2</sup> La banca o persona di cui all’articolo 1*b* LBCR assuntrice raggruppa gli averi non rivendicati di un medesimo avente diritto che più banche le hanno trasferito.
+
+<sup>3</sup> La banca o la persona di cui all’articolo 1*b* LBCR che per la prima volta assume averi non rivendicati da un’altra banca o persona di cui all’articolo 1*b* LBCR lo notifica alla FINMA.
+
+<sup>4</sup> Se gli averi non rivendicati sono registrati in una banca dati centrale degli averi non rivendicati (banca dati), la banca assuntrice o la persona di cui all’articolo 1*b* LBCR vi annota il trasferimento e vi indica la propria ditta.
+
+#### Art. 48
+
+**Obbligo della banca o persona di cui all’articolo 1*b* LBCR trasferente**
+
+### (art. 37*l* cpv. 1 LBCR)
+
+La banca o persona di cui all’articolo 1*b* LBCR trasferente rinvia alla banca o persona di cui all’articolo 1*b* LBCR assuntrice o alla banca dati le persone che avanzano pretese sugli averi trasferiti.
+
+### Sezione 3: Pubblicazione
+
+#### Art. 49
+
+**Obbligo e contenuto**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> Mediante appello pubblico le banche o persone di cui all’articolo 1*b* LBCR invitano gli aventi diritto a comunicare entro il termine di un anno (termine di comunicazione) le pretese su averi che non sono rivendicati da 50 anni.
+
+<sup>2</sup> La pubblicazione non è necessaria per averi non superiori a 500 franchi.
+
+<sup>3</sup>
+
+La pubblicazione contiene le seguenti indicazioni, sempre che siano disponibili e non vi si opponga un interesse manifesto dell’avente diritto:
+
+- a. l’indirizzo al quale deve essere inoltrata la comunicazione;
+- b. il nome, la data di nascita e la nazionalità oppure la ditta dell’avente diritto e l’ultimo domicilio o sede conosciuti in Svizzera;
+- c. i numeri di conto o di libretto, nella misura in cui le indicazioni disponibili non appaiano sufficienti per identificare l’avente diritto.
+
+<sup>4</sup>
+
+La pubblicazione deve menzionare espressamente che:
+
+- a. alle condizioni di cui all’articolo 53 capoverso 3, la banca o persona di cui all’articolo 1*b* LBCR può fatturare alla persona che fa valere una pretesa i costi risultanti dalla verifica della comunicazione;
+- b. le pretese si estinguono con la liquidazione degli averi.
+
+#### Art. 50
+
+**Mezzo di pubblicazione**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> L’appello ai sensi dell’articolo 49 è pubblicato nel Foglio ufficiale svizzero di commercio (FUSC).
+
+<sup>2</sup> Invece della pubblicazione nel FUSC le banche o persone di cui all’articolo 1*b* LBCR possono pubblicare gli appelli su una piattaforma elettronica centrale da loro organizzata e gestita.
+
+<sup>3</sup> La banca o persona di cui all’articolo 1*b* LBCR pubblica l’appello anche su un altro mezzo di comunicazione se le circostanze del singolo caso fanno ritenere che, per rintracciare gli aventi diritto, sia opportuna la pubblicazione anche su tale mezzo.
+
+<sup>4</sup> Essa tiene conto al riguardo dell’ultimo domicilio, luogo di soggiorno o sede conosciuti della persona avente diritto.
+
+<sup>5</sup> La pubblicazione può raggruppare più averi non rivendicati.
+
+#### Art. 51
+
+**Ripetizione della pubblicazione**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+Se prima della conclusione della liquidazione (art. 57) emergono nuove informazioni sugli aventi diritto, la banca o persona di cui all’articolo 1*b* LBCR adegua l’appello e lo pubblica nuovamente. Dalla ripubblicazione decorre un nuovo termine di comunicazione della durata di un anno.
+
+#### Art. 52
+
+**Costi di pubblicazione**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> I costi della pubblicazione sono coperti con agli averi non rivendicati oggetto della pubblicazione.
+
+<sup>2</sup> Essi devono essere proporzionati agli averi non rivendicati.
+
+#### Art. 53
+
+**Verifica delle comunicazioni**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> Conformemente alle disposizioni legali e contrattuali determinanti nel singolo caso, la banca o persona di cui all’articolo 1*b* LBCR verifica la fondatezza delle pretese comunicate sugli averi non rivendicati.
+
+<sup>2</sup> Se all’atto della verifica la banca o persona di cui all’articolo 1*b* LBCR constata che la pretesa è fondata, gli averi corrispondenti non sono più considerati non rivendicati.
+
+<sup>3</sup> La banca o persona di cui all’articolo 1*b* LBCR può esigere dalla persona che fa valere una pretesa il rimborso dei costi risultanti dalla verifica della comunicazione se la pretesa è manifestamente infondata e la persona non può far valere alcun collegamento con gli averi rivendicati.
+
+<sup>4</sup> La banca o persona di cui all’articolo 1*b* LBCR documenta i risultati delle sue verifiche in maniera da garantirne la tracciabilità.
+
+### Sezione 4: Liquidazione
+
+#### Art. 54
+
+**Procedura**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup>
+
+La banca o persona di cui all’articolo 1*b* LBCR liquida gli averi non rivendicati:
+
+- a. in assenza di una comunicazione, al più tardi due anni dopo la scadenza del termine di comunicazione;
+- b. in presenza di una comunicazione, al più tardi due anni dopo la constatazione dell’infondatezza delle pretese avanzate.
+
+<sup>2</sup> La banca o persona di cui all’articolo 1*b* LBCR offre di consegnare alla Confederazione gli averi non rivendicati che non sono realizzabili o non hanno valore di liquidazione. Essa può distruggerli se la Confederazione li rifiuta.
+
+#### Art. 55
+
+**Verbale della decisione di liquidazione**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> La banca o persona di cui all’articolo 1*b* LBCR tiene un verbale della propria decisione di liquidare gli averi non rivendicati.
+
+<sup>2</sup>
+
+Il verbale contiene:
+
+- a. la documentazione della verifica ai sensi dell’articolo 53;
+- b. un elenco degli averi da liquidare;
+- c. indicazioni sulla procedura di liquidazione prevista.
+
+#### Art. 56
+
+**Verbale di liquidazione**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> La banca o persona di cui all’articolo 1*b* LBCR tiene un verbale di liquidazione.
+
+<sup>2</sup>
+
+Per ogni avere il verbale indica in particolare:
+
+- a. il genere di liquidazione;
+- b. il ricavato della liquidazione;
+- c. i costi di liquidazione.
+
+#### Art. 57
+
+**Ricavato della liquidazione e conclusione della liquidazione**
+
+### (art. 37*m* cpv. 2–4 LBCR)
+
+<sup>1</sup> I costi della liquidazione sono coperti anzitutto con il ricavato della stessa.
+
+<sup>2</sup> Almeno una volta all’anno la banca o persona di cui all’articolo 1*b* LBCR versa il ricavato netto della liquidazione all’Amministrazione federale delle finanze.
+
+<sup>3</sup> Con questo versamento la liquidazione è considerata conclusa.
+
+<sup>4</sup> Le pretese degli aventi diritto si estinguono con la conclusione della liquidazione. Le pretese su averi non rivendicati che non sono realizzabili si estinguono con la loro consegna alla Confederazione o con la distruzione.
+
+<sup>5</sup> Se dopo la liquidazione, ma prima del versamento, un avente diritto fa valere pretese sugli averi liquidati, tali pretese vertono esclusivamente sul ricavato della liquidazione.
+
+<sup>6</sup> Se gli averi non rivendicati sono registrati in una banca dati, la banca o persona di cui all’articolo 1*b* LBCR vi annota la conclusione della liquidazione.
+
+#### Art. 58
+
+**Conservazione degli atti**
+
+### (art. 37*l* e 37*m* cpv. 4 LBCR)
+
+La banca o persona di cui all’articolo 1*b* LBCR liquidante conserva conformemente alle disposizioni legali applicabili la documentazione relativa all’assunzione e alla liquidazione degli averi nonché al versamento del ricavato della liquidazione alla Confederazione.
+
+#### Art. 59
+
+**Liquidazione senza previa pubblicazione**
+
+### (art. 37*m* cpv. 1 e 4 LBCR)
+
+<sup>1</sup> Gli articoli 54–57 si applicano per analogia alla liquidazione di averi non rivendicati che possono essere liquidati senza previa pubblicazione in virtù dell’articolo 37*m* capoverso 1 secondo periodo della LBCR.
+
+<sup>2</sup> Il valore di siffatti averi è calcolato in funzione del valore globale degli averi non rivendicati di un medesimo avente diritto che sono allibrati, custoditi o amministrati dalla banca o persona di cui all’articolo 1*b* LBCR.
+
+## Capitolo 7: Disposizioni speciali per le banche di rilevanza sistemica
+
+### Sezione 1: Pianificazione d’emergenza
+
+#### Art. 60
+
+**Piano d’emergenza**
+
+### (art. 8, 9 cpv. 2 lett. d e 10 cpv. 2 LBCR)
+
+<sup>1</sup> La banca di rilevanza sistemica garantisce che in caso di rischio d’insolvenza le sue funzioni di rilevanza sistemica secondo l’articolo 8 LBCR siano mantenute senza interruzione, indipendentemente dalle altre parti della banca. Essa prende le misure necessarie al riguardo.
+
+<sup>2</sup> In un piano d’emergenza la banca descrive le misure necessarie e prova alla FINMA di essere in grado, secondo le esperienze generali e lo stato attuale delle conoscenze, di adempiere gli obblighi di cui al capoverso 1 primo periodo.
+
+<sup>3</sup> Entro tre anni dalla constatazione della loro rilevanza sistemica da parte della BNS, le banche di rilevanza sistemica non attive a livello internazionale secondo l’articolo 124*a* OFoP[^60-1] devono elaborare un piano svizzero d’emergenza attuabile. In casi motivati la FINMA può prorogare tale termine. Le misure del piano d’emergenza devono essere applicate a titolo preliminare in quanto sia necessario per mantenere senza interruzione le funzioni di rilevanza sistemica.[^60-2]
+
+<sup>4</sup> La banca di rilevanza sistemica deve aggiornare il piano d’emergenza entro la fine del secondo trimestre di ogni anno e presentarlo alla FINMA. Gli aggiornamenti devono essere presentati anche qualora intervengano modifiche che comportano una rielaborazione o su richiesta della FINMA.
+
+[^60-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^60-2]: Nuovo testo giusta il n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+
+#### Art. 61
+
+**Verifica del piano d’emergenza**
+
+### (art. 10 cpv. 2 LBCR)
+
+<sup>1</sup>
+
+La FINMA verifica le misure del piano d’emergenza in merito alla loro efficacia in caso di rischio d’insolvenza della banca. Al riguardo tiene conto del grado di applicazione preliminare delle misure ai sensi dell’articolo 60 capoverso 3. Verifica segnatamente se:
+
+- a. il mantenimento delle funzioni di rilevanza sistemica è garantito sul piano tecnico e organizzativo, tenendo conto del tempo a disposizione, dei costi, degli ostacoli giuridici e dei mezzi necessari;
+- b. le relazioni giuridiche ed economiche all’interno del gruppo finanziario, in particolare le garanzie e i finanziamenti interni, e le relazioni simili con clienti e altri terzi non ostacolano il mantenimento delle funzioni di rilevanza sistemica;
+- c. la pianificazione del capitale e della liquidità destinati a mantenere le funzioni di rilevanza sistemica prevede una dotazione di fondi propri e di liquidità sufficiente per attuare il piano d’emergenza;
+- d. sono previsti processi adeguati per l’operabilità delle funzioni di rilevanza sistemica come pure l’infrastruttura necessaria a tale scopo ed è garantito in ogni momento l’accesso alle risorse necessarie, indipendentemente dalle parti della banca senza rilevanza sistemica;
+- e. le risorse di personale necessarie al mantenimento delle funzioni di rilevanza sistemica, comprese quelle di conduzione e di controllo, sono messe a disposizione;
+- f. tutti i contratti inerenti al mantenimento delle funzioni di rilevanza sistemica all’interno del gruppo finanziario, in particolare le garanzie e i finanziamenti interni, nonché tutti i contratti simili conclusi con clienti e altri terzi, inclusi i relativi documenti d’affari, sono registrati e tale elenco è aggiornato periodicamente;
+- g. il piano d’emergenza è compatibile con le più importanti leggi ed esigenze in materia di vigilanza all’estero.
+
+<sup>2</sup> La capacità globale di liquidazione fa parte della verifica del piano svizzero d’emergenza se è determinante per la sua attuazione.[^61-1]
+
+[^61-1]: Introdotto dal n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+
+#### Art. 62
+
+**Eliminazione delle lacune e adozione di misure**
+
+### (art. 10 cpv. 2 LBCR)
+
+<sup>1</sup> Se il piano d’emergenza non soddisfa le esigenze relative alla prova di mantenimento delle funzioni di rilevanza sistemica in caso di rischio d’insolvenza, la FINMA accorda alla banca un congruo termine per eliminare le lacune riscontrate. Al riguardo la FINMA può fornire direttive concrete.
+
+<sup>2</sup>
+
+Se la banca non elimina le lacune entro il termine impartito, la FINMA accorda un termine suppletivo. Se le lacune non sono eliminate entro questo secondo termine, la FINMA può in particolare ordinare le seguenti misure:
+
+- a. costituzione in Svizzera di un soggetto giuridico indipendente al quale possano essere trasferite le funzioni di rilevanza sistemica;
+- b. adeguamento della struttura giuridica e operativa della banca affinché le funzioni di rilevanza sistemica possano essere separate in breve tempo;
+- c. trasferimento dell’infrastruttura e delle prestazioni di servizio necessarie al mantenimento delle funzioni di rilevanza sistemica in una società gestita in modo centralizzato all’interno del gruppo finanziario o in un’unità esterna al gruppo finanziario.
+
+#### Art. 63
+
+**Attivazione del piano d’emergenza**
+
+### (art. 25 e 26 LBCR)
+
+<sup>1</sup> Se le condizioni di cui all’articolo 25 capoverso 1 LBCR sono soddisfatte, la FINMA può, sulla base del piano d’emergenza, ordinare le misure di protezione e di insolvenza previste dal capo undicesimo della LBCR che sono necessarie per garantire le funzioni di rilevanza sistemica.
+
+<sup>2</sup>
+
+Una banca di rilevanza sistemica non adempie le prescrizioni relative ai fondi propri ai sensi dell’articolo 25 capoverso 1 LBCR:
+
+- a.[^63-1] se i fondi propri di base di qualità primaria computabili scendono sotto il 5 per cento delle posizioni ponderate in funzione del rischio; o
+- b. nel caso dell’articolo 42 capoverso 4 OFoP.
+
+[^63-1]: Nuovo testo giusta il n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+
+### Sezione 2: Miglioramento delle possibilità di risanamento e di liquidazione
+
+#### Art. 64
+
+**Piano di stabilizzazione e piano di liquidazione**
+
+### (art. 9, 25 segg. LBCR)
+
+<sup>1</sup> La banca di rilevanza sistemica deve elaborare un piano di stabilizzazione («recovery plan»). La banca vi illustra le misure con le quali intende stabilizzarsi durevolmente in caso di crisi in modo da poter mantenere la sua attività senza interventi da parte dello Stato. Il piano di stabilizzazione necessita dell’approvazione della FINMA.
+
+<sup>2</sup> La FINMA elabora un piano di liquidazione («resolution plan») che indica le modalità per realizzare il risanamento o la liquidazione della banca di rilevanza sistemica su ordine della FINMA. La banca deve fornire alla FINMA le informazioni necessarie al riguardo.
+
+<sup>3</sup> Il piano di stabilizzazione e il piano di liquidazione devono tenere conto delle norme delle autorità di vigilanza estere e delle banche centrali estere in materia di stabilizzazione, risanamento e liquidazione.
+
+<sup>4</sup> La banca di rilevanza sistemica presenta alla FINMA, entro la fine del secondo trimestre di ogni anno, il piano di stabilizzazione e le informazioni necessarie al piano di liquidazione. Tali documenti vanno presentati anche qualora intervengano modifiche che comportano una rielaborazione o su richiesta della FINMA.
+
+<sup>5</sup> Al momento della presentazione, la banca descrive le misure volte a migliorare le possibilità di risanamento e liquidazione in Svizzera e all’estero secondo l’articolo 66 già attuate o previste.
+
+#### Art. 65
+
+**Sconti sui fondi supplementari in grado di assorbire le perdite**[^65-1]
+
+### (art. 10 cpv. 3 LBCR)
+
+<sup>1</sup> La FINMA concede sconti sui fondi supplementari secondo gli articoli 132 e 133 OFoP[^65-2] in quanto la banca di rilevanza sistemica migliori con grande probabilità le sue possibilità di risanamento e liquidazione in Svizzera e all’estero mediante le misure di cui all’articolo 66. Al riguardo la FINMA tiene conto del grado di applicazione delle misure in Svizzera e all’estero.
+
+<sup>2</sup> Ciò non si applica per il rispetto delle esigenze secondo l’articolo 9 capoverso 2 lettera d LBCR[^65-3].
+
+[^65-1]: Nuovo testo giusta il n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^65-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^65-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 66
+
+**Misure volte a migliorare le possibilità di risanamento e liquidazione**
+
+### (art. 10 cpv. 3 LBCR)
+
+Le misure volte a migliorare le possibilità di risanamento e liquidazione della banca possono comprendere in particolare:
+
+- a.
+
+  miglioramenti e decentramento strutturali:
+
+  - 1\. struttura giuridica orientata alle unità («business-aligned legal entities»),
+  - 2\. creazione di unità di prestazioni di servizio giuridicamente autonome,
+  - 3\. soppressione o attenuazione dell’obbligo di fatto di assistenza, in particolare mediante la creazione di una struttura direttiva autonoma,
+  - 4\. riduzione delle asimmetrie geografiche o di bilancio;
+
+- b.[^66-1]
+
+  decentramento finanziario per limitare i rischi di contagio:
+
+  - 1\. riduzione delle partecipazioni al capitale tra le unità giuridiche dello stesso livello,
+  - 2\. limitazione della concessione di crediti e garanzie non garantiti tra unità giuridiche dello stesso livello all’interno del gruppo finanziario,
+  - 3\. creazione di una struttura volta a incentivare un finanziamento interno al gruppo possibilmente vicino al mercato;
+
+- c.
+
+  decentramento operativo per la protezione dei dati e il mantenimento di importanti prestazioni dell’esercizio:
+
+  - 1\. garanzia dell’accesso a e dell’utilizzazione di raccolte di dati, banche dati e mezzi informatici,
+  - 2\. separazione o trasferimento sostenibile delle funzioni essenziali,
+  - 3\. accesso ai sistemi essenziali per l’esercizio dell’attività e la loro ulteriore utilizzazione.
+
+[^66-1]: Nuovo testo giusta l’all. 1 n. 11 dell’Acc. del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+## Capitolo 8: Disposizioni finali
+
+#### Art. 67
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del 17 maggio 1972[^67-1] sulle banche è abrogata.
+
+[^67-1]: [[RU 1972 752](https://fedlex.data.admin.ch/eli/oc/1972/821_832_752), [1989 1772](https://fedlex.data.admin.ch/eli/oc/1989/1772_1772_1772), [1995 253](https://fedlex.data.admin.ch/eli/oc/1995/253_253_253), [1996 45](https://fedlex.data.admin.ch/eli/oc/1996/45_45_45)[3094](https://fedlex.data.admin.ch/eli/oc/1996/3094_3094_3094), [1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)art. 57 n. 1, [1998 16](https://fedlex.data.admin.ch/eli/oc/1998/16_16_16)[2828](https://fedlex.data.admin.ch/eli/oc/1998/2828_2828_2828), [2003 4077](https://fedlex.data.admin.ch/eli/oc/2003/603), [2004 2777](https://fedlex.data.admin.ch/eli/oc/2004/341)[2875](https://fedlex.data.admin.ch/eli/oc/2004/355), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656), [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)all. 7 n. 1, [2008 1199](https://fedlex.data.admin.ch/eli/oc/2008/215)[5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 7, [2009 5279](https://fedlex.data.admin.ch/eli/oc/2009/623), **2011** 931, [2012 5435](https://fedlex.data.admin.ch/eli/oc/2012/628)[5441](https://fedlex.data.admin.ch/eli/oc/2012/629)all. 6 n. 2 [7251](https://fedlex.data.admin.ch/eli/oc/2012/883)art. 32]
+
+#### Art. 68
+
+**Modifica di altri atti normativi**
+
+La modifica di altri atti normativi è disciplinata nell’allegato 2.
+
+#### Art. 69
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Nei primi due esercizi successivi all’entrata in vigore della presente ordinanza le banche possono iscrivere globalmente tra gli attivi come posta negativa le rettifiche di valore ai sensi dell’articolo 27 capoverso 1 sotto forma di importo totale o parziale. La FINMA disciplina i dettagli.
+
+<sup>2</sup> La valutazione singola ai sensi dell’articolo 27 capoverso 2 delle partecipazioni, delle immobilizzazioni materiali e dei valori immateriali deve essere effettuata al più tardi entro il 1° gennaio 2020. Le perdite non realizzate e non registrate devono essere pubblicate nell’allegato al conto annuale.
+
+<sup>3</sup> Le banche di rilevanza sistemica attive a livello internazionale secondo l’articolo 124*a* OFoP[^69-1] devono applicare a titolo preliminare le misure del piano svizzero d’emergenza secondo l’articolo 60 capoverso 3 entro il 31 dicembre 2019 in quanto sia necessario per mantenere senza interruzione le funzioni di rilevanza sistemica. In casi motivati la FINMA può prorogare tale termine.[^69-2]
+
+<sup>4</sup> L’allestimento e la pubblicazione della chiusura intermedia del 2015 sono consentiti secondo il diritto anteriore, tranne quanto stabilito dall’articolo 23*b* capoverso 1 del diritto anteriore.
+
+<sup>5</sup> Per l’attuazione delle misure ai sensi dell’articolo 12 capoverso 2<sup>bis</sup> la FINMA può accordare alle banche termini adeguati tenendo conto degli standard internazionali riconosciuti.[^69-3]
+
+[^69-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^69-2]: Nuovo testo giusta il n. III 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^69-3]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+#### Art. 70
+
+**Entrata in vigore**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2015.
+
+<sup>2</sup> La FINMA può consentire l’applicazione anticipata delle nuove prescrizioni sulla presentazione dei conti conformemente al capitolo 4 per l’esercizio che inizia prima dell’entrata in vigore della presente ordinanza.
+
+Allegato 1
+
+(art. 28)
+
+## Articolazione minima del conto annuale
+
+### A. Bilancio
+
+### 1. Attivi
+
+I seguenti attivi devono figurare separatamente nel bilancio:
+
+1.1 Liquidità
+
+1.2 Crediti nei confronti di banche
+
+1.3 Crediti risultanti da operazioni di finanziamento di titoli
+
+1.4 Crediti nei confronti della clientela
+
+1.5 Crediti ipotecari
+
+1.6 Attività di negoziazione
+
+1.7 Valori di sostituzione positivi di strumenti finanziari derivati
+
+1.8 Altri strumenti finanziari con valutazione «fair value»
+
+1.9 Immobilizzazioni finanziarie
+
+1.10 Ratei e risconti
+
+1.11 Partecipazioni
+
+1.12 Immobilizzazioni materiali
+
+1.13 Valori immateriali
+
+1.14 Altri attivi
+
+1.15 Capitale sociale non versato
+
+1.16 Totale attivi
+
+1.16.1 Totale dei crediti postergati
+
+1.16.1.1 di cui con obbligo di conversione e/o rinuncia al credito
+
+### 2. Passivi
+
+I seguenti passivi devono figurare separatamente nel bilancio:
+
+2.1 Impegni nei confronti di banche
+
+2.2 Impegni risultanti da operazioni di finanziamento di titoli
+
+2.3 Impegni risultanti da depositi della clientela
+
+2.4 Impegni risultanti da attività di negoziazione
+
+2.5 Valori di sostituzione negativi di strumenti finanziari derivati
+
+2.6 Impegni da altri strumenti finanziari con valutazione «fair value»
+
+2.7 Obbligazioni di cassa
+
+2.8 Mutui presso centrali d’emissione di obbligazioni fondiarie e prestiti
+
+2.9 Ratei e risconti
+
+2.10 Altri passivi
+
+2.11 Accantonamenti
+
+2.12 Riserve per rischi bancari generali
+
+2.13 Capitale sociale
+
+2.14 Riserva legale da capitale
+
+2.14.1 di cui riserva da apporti di capitale esenti da imposta
+
+2.15 Riserva legale da utili
+
+2.16 Riserve facoltative da utili
+
+2.17 Proprie quote del capitale (posta negativa)
+
+2.18 Utile riportato / perdita riportata
+
+2.19 Utile / Perdita (risultato del periodo)
+
+2.20 Totale passivi
+
+2.20.1 Totale degli impegni postergati
+
+2.20.1.1 di cui con obbligo di conversione e/o rinuncia al credito
+
+### 3. Operazioni fuori bilancio
+
+3.1 Impegni eventuali
+
+3.2 Impegni irrevocabili
+
+3.3 Impegni di pagamento e di versamento suppletivo
+
+3.4 Crediti di impegno
+
+Nel bilancio o nell’allegato devono figurare anche altre poste significative.
+
+Nel bilancio devono essere indicate le cifre dell’anno precedente.
+
+### B. Conto economico
+
+Le seguenti poste devono figurare separatamente e in forma scalare nel conto economico:
+
+1 Risultato da operazioni su interessi
+
+1.1 Proventi da interessi e sconti
+
+1.2 Proventi da interessi e dividendi delle attività di negoziazione
+
+1.3 Proventi da interessi e dividendi da investimenti finanziari
+
+1.4 Oneri per interessi
+
+1.5 Risultato lordo da operazioni su interessi (1.1 + 1.2 + 1.3 – 1.4)
+
+1.6 Variazioni di rettifiche di valore per rischi di perdita e perdite da operazioni su interessi
+
+1.7 Subtotale: risultato netto da operazioni su interessi (1.5 –/+ 1.6)
+
+2 Risultato da operazioni su commissione e da prestazioni di servizio
+
+2.1 Proventi da commissioni sulle attività di negoziazione titoli e d’investimento
+
+2.2 Proventi da commissioni su operazioni di credito
+
+2.3 Proventi da commissioni sulle altre prestazioni di servizio
+
+2.4 Oneri per commissioni
+
+2.5 Subtotale: risultato da operazioni su commissione e da prestazioni di servizio (2.1 + 2.2 + 2.3 – 2.4)
+
+3 Risultato da attività di negoziazione e dall’opzione «fair value»
+
+4 Altri risultati ordinari
+
+4.1 Risultato da alienazioni di immobilizzazioni finanziarie
+
+4.2 Proventi da partecipazioni
+
+4.3 Risultato da immobili
+
+4.4 Altri proventi ordinari
+
+4.5 Altri oneri ordinari
+
+4.6 Subtotale: altri risultati ordinari (4.1 + 4.2 + 4.3 + 4.4 – 4.5)
+
+5 Costi d’esercizio
+
+5.1 Costi per il personale
+
+5.2 Altri costi d’esercizio
+
+5.3 Subtotale: costi d’esercizio (5.1 + 5.2)
+
+6 Rettifiche di valore su partecipazioni nonché ammortamenti su immobilizzazioni materiali e valori immateriali
+
+7 Variazioni di accantonamenti e altre rettifiche di valore nonché perdite
+
+8 Risultato d’esercizio (1.7 + 2.5 + 3 + 4.6 – 5.3 – 6 –/+ 7)
+
+9 Ricavi straordinari
+
+10 Costi straordinari
+
+11 Variazioni di riserve per rischi bancari generali
+
+12 Imposte
+
+13 Utile / Perdita (risultato del periodo)
+
+Nel bilancio o nell’allegato devono figurare anche altre poste significative.
+
+Nel conto economico devono essere indicate le cifre relative allo stesso periodo dell’anno precedente.
+
+### C. Conto dei flussi di tesoreria
+
+Il conto dei flussi di tesoreria deve indicare le cause delle variazioni di liquidità nell’anno in rassegna sulla base dell’afflusso e del deflusso di fondi.
+
+Il conto dei flussi di tesoreria deve contenere almeno i seguenti elementi:
+
+- – flusso di fondi in base al risultato operativo;
+- – flusso di fondi risultante dalle transazioni sul capitale proprio;
+- – flusso di fondi risultante da cambiamenti nelle partecipazioni, nelle immobilizzazioni materiali e nei valori immateriali;
+- – flusso di fondi risultante dall’attività bancaria.
+
+### D. Prospetto delle variazioni del capitale proprio
+
+Il prospetto delle variazioni del capitale proprio illustra in maniera tabellare per l’esercizio in esame e per ogni elemento essenziale del capitale proprio lo stato iniziale, lo stato finale, il passaggio dallo stato iniziale a quello finale, fermo restando che ogni variazione essenziale per la valutazione della situazione economica va esposta separatamente.
+
+### E. Allegato
+
+L’allegato deve essere strutturato come segue:
+
+- a. indicazione della ditta o del nome, come pure della forma giuridica e della sede della banca;
+- b.
+
+  principi d’iscrizione a bilancio e di valutazione:
+
+  - 1\. indicazione del tipo di chiusura e se del caso del genere di norma contabile internazionale riconosciuta dalla FINMA, nonché dei principi d’iscrizione a bilancio e di valutazione delle singole poste del bilancio e delle operazioni fuori bilancio,
+  - 2\. in caso di primo allestimento di una chiusura singola supplementare secondo il principio della rappresentazione veritiera e corretta: indicazione delle modalità di determinazione dei valori dell’anno precedente e rinvio alla chiusura singola statutaria dell’anno precedente,
+  - 3\. motivazione dei cambiamenti dei principi d’iscrizione a bilancio e di valutazione nell’anno in rassegna, nonché indicazione e spiegazione delle loro ripercussioni, segnatamente sulle riserve latenti,
+  - 4\. indicazioni sulla registrazione delle operazioni,
+  - 5\. indicazioni sul trattamento degli interessi in sofferenza,
+  - 6\. indicazioni sul trattamento delle differenze di conversione di valute estere, sul metodo di conversione utilizzato e sui principali tassi di conversione,
+  - 7\. indicazioni sul trattamento del rifinanziamento delle posizioni assunte nelle attività di negoziazione;
+
+- c. spiegazioni relative alla gestione dei rischi, in particolare al trattamento del rischio di variazione dei tassi d’interesse, di altri rischi di mercato e dei rischi di credito;
+- d. spiegazioni riguardanti il metodo utilizzato per identificare i rischi di insolvenza e per determinare la necessità di rettifiche di valore;
+- e. spiegazioni relative alla valutazione delle coperture dei crediti, in particolare a criteri importanti per la determinazione del valore venale e del valore d’anticipo;
+- f. spiegazioni riguardanti la politica aziendale in caso di ricorso a strumenti finanziari derivati, comprese le spiegazioni riguardanti l’applicazione dell’«hedge accounting»;
+- g. spiegazioni riguardanti eventi importanti successivi alla data di chiusura del bilancio;
+- h. motivi che hanno indotto le dimissioni anticipate dell’ufficio di revisione;
+- i.
+
+  informazioni sul bilancio:
+
+  - 1\. suddivisione delle operazioni di finanziamento dei titoli (attivi e passivi),
+  - 2\. presentazione delle coperture dei crediti e delle operazioni fuori bilancio, nonché dei crediti a rischio,
+  - 3\. suddivisione delle attività di negoziazione e degli altri strumenti finanziari con valutazione «fair value» (attivi e passivi),
+  - 4\. presentazione degli strumenti finanziari derivati (attivi e passivi),
+  - 5\. suddivisione delle immobilizzazioni finanziarie,
+  - 6\. presentazione delle partecipazioni,
+  - 7\. indicazione delle imprese nelle quali la banca detiene direttamente o indirettamente una partecipazione durevole significativa,
+  - 8\. presentazione delle immobilizzazioni materiali,
+  - 9\. presentazione dei valori immateriali,
+  - 10\. suddivisione degli altri attivi e degli altri passivi,
+  - 11\. indicazione degli attivi costituiti in pegno o ceduti per garantire impegni propri e degli attivi che si trovano sotto riserva di proprietà,
+  - 12\. indicazione degli impegni nei confronti di propri istituti di previdenza, nonché numero e genere degli strumenti di capitale proprio della banca detenuti da tali istituti,
+  - 13\. indicazioni sulla situazione economica dei propri istituti di previdenza,
+  - 14\. presentazione dei prodotti strutturati emessi,
+  - 15\. presentazione dei prestiti obbligazionari in corso e dei prestiti obbligatoriamente convertibili in corso,
+  - 16\. presentazione delle rettifiche di valore e degli accantonamenti, nonché delle riserve per rischi bancari generali e delle loro variazioni nel corso dell’anno in rassegna,
+  - 17\. presentazione del capitale sociale,
+  - 18\. numero e valore dei diritti di partecipazione o delle opzioni sugli stessi attribuiti ai membri degli organi di direzione e di amministrazione e ai collaboratori, nonché indicazioni su eventuali piani di partecipazione dei collaboratori,
+  - 19\. indicazione dei crediti e degli impegni nei confronti delle parti correlate,
+  - 20\. indicazione dei titolari di partecipazioni significative,
+  - 21\. indicazioni sulle proprie quote del capitale e sulla composizione del capitale proprio,
+  - 22\. indicazioni ai sensi dell’ordinanza del 20 novembre 2013[^annex1-lvlu1-lvlE-1] contro le retribuzioni abusive nelle società anonime quotate in borsa e dell’articolo 663*c* capoverso 3 CO[^annex1-lvlu1-lvlE-2] per le banche i cui titoli di partecipazione sono quotati,
+  - 23\. presentazione della struttura delle scadenze degli strumenti finanziari,
+  - 24\. presentazione degli attivi e dei passivi, suddivisi in attivi e passivi nazionali ed esteri secondo il principio della localizzazione,
+  - 25\. suddivisione del totale degli attivi per Paesi o per gruppi di Paesi (principio della localizzazione),
+  - 26\. suddivisione del totale degli attivi per solvibilità dei gruppi di Paesi (localizzazione del rischio),
+  - 27\. presentazione degli attivi e dei passivi suddivisi in funzione della valute più significative per la banca;
+
+- j.
+
+  informazioni sulle operazioni fuori bilancio:
+
+  - 28\. suddivisione dei crediti e degli impegni eventuali e spiegazioni,
+  - 29\. suddivisione dei crediti di impegno,
+  - 30\. suddivisione delle operazioni fiduciarie,
+  - 31\. suddivisione dei patrimoni gestiti e presentazione della loro evoluzione;
+
+- k.
+
+  informazioni sul conto economico:
+
+  - 32\. suddivisione del risultato da attività di negoziazione e dall’opzione «fair-value»,
+  - 33\. indicazione di un provento significativo da operazioni di rifinanziamento nella posta Proventi da interessi e sconti, nonché di interessi negativi significativi,
+  - 34\. suddivisione dei costi per il personale,
+  - 35\. suddivisione degli altri costi d’esercizio,
+  - 36\. spiegazioni riguardanti perdite significative, ricavi e costi straordinari, nonché dissoluzioni significative di riserve latenti, di riserve per rischi bancari generali e di rettifiche di valore e accantonamenti liberati,
+  - 37\. indicazione e motivazione di rivalutazioni di partecipazioni e di immobilizzazioni materiali fino a concorrenza del valore di acquisto,
+  - 38\. presentazione del risultato operativo, suddiviso in risultato nazionale ed estero secondo il principio della localizzazione dell’attività,
+  - 39\. presentazione delle imposte correnti e latenti e indicazione dell’aliquota di imposta,
+  - 40\. indicazioni e spiegazioni relative al risultato per ogni diritto di partecipazione nel caso di banche i cui titoli di partecipazione sono quotati.
+
+[^annex1-lvlu1-lvlE-1]: [RS 221.331](https://fedlex.data.admin.ch/eli/cc/2013/782)
+[^annex1-lvlu1-lvlE-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+Allegato 2
+
+(art. 68)
+
+## Modifica di altri atti legislativi
+
+Le ordinanze qui appresso sono modificate come segue:
+
+...[^annex2-lvlu1-1]
+
+[^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273).
+
+Allegato 3*[^t-1]*
+
+(art. 2 cpv. 2 e 3)
+
+## Categorizzazione delle banche
+
+[^t-1]: Introdotto dal n. III 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+
+<table>
+<tr><th>Categoria</th><th colspan="3">Criteri (in mia. di fr.)</th></tr>
+<tr><td>1</td><td>Totale di bilancio</td><td>&gt;</td><td>250</td></tr>
+<tr><td></td><td>Patrimoni gestiti</td><td>&gt;</td><td>1000</td></tr>
+<tr><td></td><td>Depositi privilegiati</td><td>&gt;</td><td>30</td></tr>
+<tr><td></td><td>Fondi propri minimi</td><td>&gt;</td><td>20</td></tr>
+<tr><td>2</td><td>Totale di bilancio</td><td>&gt;</td><td>100</td></tr>
+<tr><td></td><td>Patrimoni gestiti</td><td>&gt;</td><td>500</td></tr>
+<tr><td></td><td>Depositi privilegiati</td><td>&gt;</td><td>20</td></tr>
+<tr><td></td><td>Fondi propri minimi</td><td>&gt;</td><td>2</td></tr>
+<tr><td>3</td><td>Totale di bilancio</td><td>&gt;</td><td>15</td></tr>
+<tr><td></td><td>Patrimoni gestiti</td><td>&gt;</td><td>20</td></tr>
+<tr><td></td><td>Depositi privilegiati</td><td>&gt;</td><td>0,5</td></tr>
+<tr><td></td><td>Fondi propri minimi</td><td>&gt;</td><td>0,25</td></tr>
+<tr><td>4</td><td>Totale di bilancio</td><td>&gt;</td><td>1</td></tr>
+<tr><td></td><td>Patrimoni gestiti</td><td>&gt;</td><td>2</td></tr>
+<tr><td></td><td>Depositi privilegiati</td><td>&gt;</td><td>0,1</td></tr>
+<tr><td></td><td>Fondi propri minimi</td><td>&gt;</td><td>0,05</td></tr>
+<tr><td>5</td><td>Totale di bilancio</td><td>&lt;</td><td>1</td></tr>
+<tr><td></td><td>Patrimoni gestiti</td><td>&lt;</td><td>2</td></tr>
+<tr><td></td><td>Depositi privilegiati</td><td>&lt;</td><td>0,1</td></tr>
+<tr><td></td><td>Fondi propri minimi</td><td>&lt;</td><td>0,05</td></tr>
+</table>

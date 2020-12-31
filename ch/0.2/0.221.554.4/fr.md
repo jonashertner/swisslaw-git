@@ -1,0 +1,71 @@
+---
+sr: "0.221.554.4"
+title: "Acte final de la Conférence de Genève pour l'unification du droit en matière de lettres de change et de billets à ordre, du 7 juin 1930"
+eli: "https://fedlex.data.admin.ch/eli/cc/53/391_394_405"
+language: fr
+version: 1930-06-07
+adopted: 1930-06-07
+in_force: 1930-06-07
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/53/391_394_405/19300607/fr/xml/fedlex-data-admin-ch-eli-cc-53-391_394_405-19300607-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/53/391_394_405/19300607/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Acte final de la Conférence de Genève pour l’unification du droit en matière de lettres de change et de billets à ordre
+
+RS **11** 832; FF **1931** II 341
+
+Texte original*[^t-1]*
+
+Signé à Genève le 7 juin 1930
+
+(Etat le 7 juin 1930)
+
+[^t-1]: Le texte anglais fait également foi.
+
+Les gouvernements de l’Allemagne, de l’Autriche, de la Belgique, du RoyaumeUni de Grande‑Bretagne et d’Irlande du Nord, des Etats‑Unis du Brésil, de la Colombie, du Danemark, de la ville libre de Dantzig, de l’Equateur, de l’Espagne, de la Finlande, de la France, de la Grèce, de la Hongrie, de l’Italie, du Japon, de la Lettonie, du Luxembourg, de la Norvège, des Pays‑Bas, du Pérou, de la Pologne, du Portugal, de la Roumanie, du Siam, de la Suède, de la Suisse, de la Tchécoslovaquie, de la Turquie, du Vénézuéla et de la Yougoslavie,
+
+ayant accepté l’invitation qui leur a été adressée en vertu d’une décision du conseil de la Société des Nations, en date du 14 juin 1929, pour prendre part à une conférence internationale pour l’unification du droit en matière de lettres de change, billets à ordre et chèques,
+
+ont, en conséquence, désigné comme délégués, conseillers techniques et secrétaires:
+
+(Suivent les noms des délégués, conseillers techniques et secrétaires)
+
+à la suite des délibérations consignées aux procès‑verbaux des séances, la Conférence a élaboré, avec les protocoles y relatifs, les trois conventions suivantes:
+
+- 1\. Convention portant loi uniforme sur les lettres de change et billets à ordre[^ingress-1];
+- 2\. Convention destinée à régler certains conflits de lois en matière de lettres de change et de billets à ordre[^ingress-2],
+- 3\. Convention relative au droit de timbre en matière de lettres de change et de billets à ordre[^ingress-3].
+
+La Conférence a également émis les vœux ci‑après:
+
+[^ingress-1]: [RS 0.221.554.1](https://fedlex.data.admin.ch/eli/cc/53/351_351_363)
+[^ingress-2]: [RS 0.221.554.2](https://fedlex.data.admin.ch/eli/cc/53/380_381_392)
+[^ingress-3]: [RS 0.221.554.3](https://fedlex.data.admin.ch/eli/cc/53/386_388_399)
+
+## **I**
+
+La Conférence, dans le but d’éviter que soient adoptés des textes de la loi uniforme dans la même langue, qui présentent des divergences de traduction, émet le vœu que les Etats qui ont la même langue officielle veuillent établir d’un commun accord la traduction officielle de la loi uniforme.
+
+## **II**
+
+La Conférence émet le vœu que les Hautes Parties contractantes se notifient entre elles les listes des jours fériés légaux et des autres jours où le paiement ne peut être exigé dans leurs pays respectifs.
+
+## **III**
+
+La Conférence émet également le vœu que les parties à la Convention, portant loi uniforme sur les lettres de change et billets à ordre[^lvlIII-1], se communiquent entre elles le texte des plus importantes décisions judiciaires intervenues sur leurs territoires respectifs et tombant sous l’application de ladite Convention.
+
+[^lvlIII-1]: [RS 0.221.554.1](https://fedlex.data.admin.ch/eli/cc/53/351_351_363)
+
+## **IV**
+
+La Conférence, considérant le développement que prennent dans la pratique les garanties extra‑camblaires des titres de crédit, émet le vœu que l’Institut international de Rome pour 1’unification du Droit privé mette à l’étude les problèmes concernant la fidéjussion et l’assurance des créances cambiaires en connexion avec le système général de la lettre de change et particulièrement avec l’aval.
+
+## **V**
+
+La Conférence, ayant terminé la première partie du programme de ses travaux, décide de renvoyer à une session ultérieure la discussion des projets de convention relatifs au chèque, et demande au président de la Conférence de fixer, avec l’autorisation du Conseil de la Société des Nations, la date de la seconde session de la présente Conférence qui, autant que possible, devrait avoir lieu dans le courant du mois de janvier 1931.
+
+*En foi de quoi,* les délégués susmentionnés ont signé le présent Acte final. Fait à Genève, le sept juin mil neuf cent trente en un seul exemplaire, qui sera déposé dans les archives du Secrétariat de la Société des Nations[^t-2]. Une copie certifiée conforme sera transmise par les soins du Secrétaire général de la Société à tous les Membres de la Société des Nations et à tous les Etats non membres invités à la Conférence. (Suivent les signatures)
+
+[^t-2]: Après la dissolution de la Société des Nations, le secrétariat général des Nations Unies a été chargé des fonctions mentionnées ici (FF **1946** II 1181 1187 et s.).

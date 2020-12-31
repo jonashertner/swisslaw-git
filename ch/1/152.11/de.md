@@ -1,0 +1,838 @@
+---
+sr: "152.11"
+title: "Verordnung vom 8. September 1999 zum Bundesgesetz über die Archivierung (Archivierungsverordnung, VBGA)"
+short: VBGA
+eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
+language: de
+version: 2021-01-01
+adopted: 1999-09-08
+in_force: 1999-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-371-20210101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20210101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung zum Bundesgesetz über die Archivierung
+
+(Archivierungsverordnung, VBGA)
+
+vom 8. September 1999 (Stand am 1. Januar 2021)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 24 des Archivierungsgesetzes vom 26. Juni 1998[^ingress-1] (Gesetz, BGA),
+
+verordnet:
+
+[^ingress-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+## 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Verordnung regelt die Rechte und Pflichten der anbietepflichtigen und selbstständig archivierenden Stellen nach dem Geltungsbereich des Gesetzes sowie diejenigen des Schweizerischen Bundesarchivs (Bundesarchiv), den Zugang zum Archivgut und die gewerbliche Nutzung des Archivgutes.
+
+<sup>2</sup> Soweit im Folgenden nichts anderes bestimmt ist, gelten die Bestimmungen sinngemäss für die selbstständig archivierenden Stellen.
+
+#### Art. 2
+
+**Geltungsbereich**
+
+### (Art. 1 BGA)
+
+<sup>1</sup> Zum Geltungsbereich gehören die Bundesversammlung, der Bundesrat, die Parlamentsdienste, die Schweizerische Nationalbank sowie die im Anhang 1 aufgeführten Bundesorgane nach Artikel 1 Absatz 1 Buchstaben b–d und g des Gesetzes.
+
+<sup>2</sup> Die dieser Verordnung unterstellten autonomen Anstalten des Bundes und ähnlichen bundeseigenen Institutionen nach Artikel 1 Absatz 1 Buchstabe e des Gesetzes sind in Anhang 2 aufgeführt.
+
+<sup>3</sup> Als Personen des öffentlichen oder privaten Rechts im Sinne von Artikel 1 Absatz 1 Buchstabe h des Gesetzes gelten insbesondere diejenigen Personen oder Institutionen, denen hoheitliche Kompetenzen, namentlich Verfügungskompetenzen, übertragen sind oder die für ihre Vollzugsaufgaben der unmittelbaren und umfassenden Aufsicht des Bundes unterstehen. Das Eidgenössische Departement des Innern bezeichnet in einer Verordnung die entsprechenden Personen und Institutionen.
+
+<sup>4</sup> Das Eidgenössische Departement des Innern kann die Anhänge 1 und 2 nach Anhörung der betroffenen Stellen ändern oder ergänzen.
+
+#### Art. 3
+
+**Nachvollziehbarkeit**
+
+### (Art. 2 Abs. 2 sowie 5 Abs. 2 und 3 BGA)
+
+<sup>1</sup> Die anbietepflichtigen Stellen sorgen für die Nachvollziehbarkeit und Nachweisbarkeit ihrer Geschäftstätigkeit in ihren Unterlagen. Sie treffen die organisatorischen, administrativen und technischen Massnahmen, die für die Bildung und Führung von archivfähigen Unterlagen erforderlich sind.
+
+<sup>2</sup> ...[^3-1]
+
+[^3-1]: Aufgehoben durch Art. 20 Ziff. 2 der GEVER-Verordnung vom 3. April 2019, mit Wirkung seit 1. April 2020 ([AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
+
+## 2. Kapitel: Sicherung der Unterlagen
+
+#### Art. 4
+
+**Eintritt der Anbietepflicht**
+
+### (Art. 6 BGA)
+
+<sup>1</sup> Unterlagen gelten als nicht mehr ständig benötigt und müssen deshalb dem Bundesarchiv angeboten werden, wenn die anbietepflichtige Stelle keinen häufigen, regelmässigen Gebrauch mehr von ihnen macht, jedoch spätestens fünf Jahre nach dem letzten Aktenzuwachs.[^4-1]
+
+<sup>2</sup> Die Frist nach Absatz 1 kann vom Bundesarchiv verlängert werden, wenn die anbietepflichtige Stelle begründet darlegen kann, dass sie die Unterlagen weiterhin benötigt.
+
+<sup>3</sup> Besondere Kategorien von Unterlagen werden unmittelbar nach der Ausfertigung oder Unterzeichnung angeboten bzw. abgeliefert, staatsvertragliche Vereinbarungen über die Direktion für Völkerrecht. Das Bundesarchiv regelt die Einzelheiten in Weisungen.
+
+[^4-1]: Fassung gemäss Art. 20 Ziff. 2 der GEVER-Verordnung vom 3. April 2019, in Kraft seit 1. April 2020 ([AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
+
+#### Art. 5
+
+**Modalitäten der Anbietepflicht und der Ablieferung für anbietepflichtige Stellen**
+
+### (Art. 5, 6 und 7 BGA)
+
+<sup>1</sup> Die anbietepflichtige Stelle sorgt dafür, dass die Unterlagen so aufbereitet sind, dass sie ohne zusätzlichen Aufwand im Hinblick auf ihre Archivwürdigkeit bewertet und gegebenenfalls archiviert werden können.
+
+<sup>2</sup> Die anbietepflichtige Stelle schlägt vor, welche Unterlagen aus rechtlicher und administrativer Sicht archivwürdig sind.
+
+<sup>3</sup> Bedürfnisse nach besonderen Schutzfristen nach Artikel 12 des Gesetzes sind bereits beim Anbieten anzugeben.
+
+<sup>4</sup> Das Bundesarchiv regelt die Einzelheiten der Anbietepflicht und der Ablieferung in Weisungen.
+
+#### Art. 6
+
+**Ermittlung der Archivwürdigkeit**
+
+### (Art. 7 und 8 BGA)
+
+<sup>1</sup> Das Bundesarchiv entscheidet unter Berücksichtigung der Vorschläge der anbietepflichtigen Stelle, ob die Unterlagen dauerhaft archiviert werden sollen. Es beurteilt die angebotenen Unterlagen nach historischen und archivfachlichen Gesichtspunkten.
+
+<sup>2</sup> Besteht zwischen dem Bundesarchiv und der anbietepflichtigen Stelle Uneinigkeit über die Archivwürdigkeit von Unterlagen, so werden diese archiviert.
+
+<sup>3</sup> Das Bundesarchiv legt in Zusammenarbeit mit den selbstständig archivierenden Stellen fest, ob deren Unterlagen archivwürdig sind.
+
+<sup>4</sup> Das Bundesarchiv beurteilt die Archivwürdigkeit der angebotenen Unterlagen innert Jahresfrist. Nimmt es nicht Stellung, so entfällt die Archivierungspflicht. Die Frist kann verlängert werden, wenn das Bundesarchiv darlegt, dass es die Unterlagen nicht fristgerecht bewerten kann.
+
+#### Art. 7
+
+**Selbstständige Archivierung**
+
+### (Art. 4 Abs. 3–5 BGA)
+
+<sup>1</sup> Die Schweizerische Nationalbank und die in Anhang 2 bezeichneten autonomen Anstalten und ähnlichen bundeseigenen Institutionen archivieren ihre Unterlagen selbstständig.
+
+<sup>2</sup> Die weiteren Personen des öffentlichen oder privaten Rechts nach Artikel 1 Absatz 1 Buchstabe h des Gesetzes und nach Artikel 2 Absatz 3 der Verordnung, soweit sie ihnen übertragene Vollzugsaufgaben des Bundes erfüllen, das Bundesstrafgericht, das Bundesverwaltungsgericht sowie die Eidgenössischen Rekurs- und Schiedskommissionen nach Artikel 1 Absatz 1 Buchstabe d des Gesetzes (Anhang 1) teilen dem Bundesarchiv mit, ob sie ihre Unterlagen selbstständig archivieren wollen.[^7-1]
+
+<sup>3</sup> Das Bundesarchiv stimmt der selbstständigen Archivierung im Sinne von Absatz 2 zu, wenn die Voraussetzungen nach Artikel 8 Absatz 1 gegeben sind.
+
+<sup>4</sup> Archivieren die in Absatz 2 genannten Stellen nicht selbstständig, so gilt für sie die Anbietepflicht. Die Kosten für die Archivierung können vom Bundesarchiv in Rechnung gestellt werden.
+
+<sup>5</sup> Selbstständig archivierende Stellen sorgen in ihrem Zuständigkeitsbereich wie Bundesstellen für die Nachvollziehbarkeit und Nachweisbarkeit ihrer Geschäftstätigkeit aufgrund ihrer Unterlagen.
+
+[^7-1]: Fassung gemäss Ziff. IV 2 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3452).
+
+#### Art. 8
+
+**Sicherstellung der einheitlichen Archivierungspraxis**
+
+### (Art. 4 Abs. 3–5 BGA)
+
+<sup>1</sup> Selbstständig archivierende Stellen nach Artikel 1 Absatz 1 Buchstaben d, e und h des Gesetzes treffen mit dem Bundesarchiv eine Vereinbarung über die Bildung der Unterlagen, deren Sicherung, Aufbewahrung und Vermittlung. Sie sorgen für die notwendigen personellen, räumlichen und finanziellen Mittel.
+
+<sup>2</sup> Das Bundesarchiv ist befugt, Registraturen oder Informationsverwaltungsstellen dieser selbstständig archivierenden Stellen zu besichtigen und Erhebungen über den Zustand der dort verwahrten Unterlagen zu machen.
+
+<sup>3</sup> Das Bundesarchiv kann die Zustimmung zur selbstständigen Archivierung widerrufen oder den Widerruf beantragen*,* wenn die Archivierungspflicht nicht oder nicht nach den Grundsätzen des Gesetzes befolgt wird.
+
+<sup>4</sup> Beim Widerruf werden die Kosten für die Übernahme, die weitere Archivierung und die Wiedergutmachung allfällig aufgetretener Schäden von der Stelle getragen, die die Unterlagen produziert.
+
+#### Art. 9
+
+**Vertragliche Verpflichtung bei privatrechtlichen Auftragsverhältnissen**
+
+### (Art. 24 Abs. 2 BGA)
+
+Bei privatrechtlichen Auftragsverhältnissen regelt die den Auftrag erteilende Stelle nach Absprache mit dem Bundesarchiv die Archivierung der Unterlagen vorgängig mittels Vertrag.
+
+## 3. Kapitel: Zugänglichkeit des Archivguts
+
+### 1. Abschnitt: Allgemeines
+
+#### Art. 10
+
+**Grundsätze**
+
+### (Art. 9, 11 und 12 BGA)
+
+<sup>1</sup> Jede Person hat das Recht auf Einsicht in das Archivgut des Bundes nach Ablauf der Schutzfristen nach den Artikeln 9, 11 und 12 des Gesetzes.
+
+<sup>2</sup>
+
+Das Recht auf Einsichtnahme in das Archivgut umfasst insbesondere:
+
+- a. die Konsultation der Findmittel;
+- b. die Konsultation der Unterlagen;
+- c. die fotografische, fotomechanische oder digitale Reproduktion, vorbehältlich konservatorischer Einschränkungen;
+- d. die Wiedergabe und die Weiterverwertung der gewonnenen Informationen, vorbehältlich der Bestimmungen des Persönlichkeitsschutzes, insbesondere des Datenschutzes.
+
+#### Art. 11
+
+**Gebühren**
+
+### (Art. 24 Abs. 1 BGA)
+
+<sup>1</sup> Die Grunddienste des Bundesarchivs wie die Unterstützung beim Ermitteln der Unterlagen und das Gewähren der Einsicht sind unentgeltlich, soweit sie mit einer rationellen Verwaltungsführung vereinbar sind.
+
+<sup>2</sup> Für zusätzliche Dienstleistungen wie zum Beispiel Reproduktionen werden die Kosten entsprechend dem Zeitaufwand und den Materialauslagen in Rechnung gestellt.
+
+<sup>3</sup> Das Eidgenössische Departement des Innern erlässt eine Gebührenverordnung.
+
+#### Art. 12
+
+**Findmittel**
+
+### (Art. 17 Abs. 3 BGA)
+
+<sup>1</sup> Findmittel sind zur Ermittlung von Archivgut frei zugänglich und können vom Bundesarchiv zu diesem Zweck erstellt und publiziert werden.
+
+<sup>2</sup> Findmittel sind Verzeichnisse, Listen, Indices, Karteien, Dateien und andere Hilfsmittel, die den Zugang zum Archivgut ermöglichen, indem sie es aufzählen oder beschreiben.
+
+<sup>3</sup> Findmittel, die als solche besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthalten, dürfen erst nach Ablauf der Schutzfrist publiziert werden. Vor Ablauf der Schutzfrist ist eine Publikation nur nach Massgabe der Artikel 11 und 13 des Gesetzes zulässig.
+
+### 2. Abschnitt: Schutzfristen
+
+#### Art. 13
+
+**Berechnung der Schutzfrist**
+
+### (Art. 10 BGA)
+
+<sup>1</sup> Die Schutzfrist gilt in der Regel für ein ganzes Dossier oder Geschäft.
+
+<sup>2</sup> Massgebend für die Berechnung der Schutzfrist ist das Jahresdatum des jüngsten Dokumentes. Nachträglich beigefügte Dokumente, die für den Geschäftsvorgang keine relevanten Informationen enthalten, zählen für die Fristenberechnung nicht.
+
+<sup>3</sup>
+
+Die zuständige Behörde kann Unterlagen freigeben, obschon diese noch in die Schutzfrist hineinreichen, wenn:
+
+- a. das Schwergewicht der Nachforschung auf Dokumenten liegt, deren Datum sich ausserhalb der Schutzfrist befindet;
+- b. die kontextbezogene Quellenkritik Einsicht in die Gesamtheit der Unterlagen verlangt.
+
+#### Art. 14
+
+**Verlängerte Schutzfrist**
+
+### (Art. 11 und 12 BGA)
+
+<sup>1</sup> Für nach Personennamen erschlossenes Archivgut, das besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, gilt die 50-jährige verlängerte Schutzfrist nach Artikel 11 des Gesetzes, die im Einzelfall nach den Artikeln 11 und 13 des Gesetzes verkürzt oder nach Artikel 12 Absatz 2 des Gesetzes verlängert werden kann.
+
+<sup>2</sup> Liegt ein überwiegendes schutzwürdiges öffentliches oder privates Interesse gegen die Einsichtnahme durch Dritte vor, so kann die ordentliche Schutzfrist nach Artikel 9 des Gesetzes für bestimmte Kategorien von Archivgut oder im Einzelfall verlängert werden. Die verlängerte Schutzfrist beträgt bei Kategorien von Archivgut in der Regel insgesamt 50 Jahre.
+
+<sup>3</sup>
+
+Ein überwiegendes schutzwürdiges öffentliches Interesse gegen die Einsichtnahme liegt vor, wenn die Akteneinsicht geeignet ist:
+
+- a. die innere oder äussere Sicherheit der Eidgenossenschaft zu gefährden;
+- b. die Beziehungen zu ausländischen Staaten, internationalen Organisationen oder zwischen dem Bund und den Kantonen dauernd zu beeinträchtigen;
+- c. die Handlungsfähigkeit des Bundesrats schwerwiegend zu beeinträchtigen.
+
+<sup>4</sup> Ein überwiegendes schutzwürdiges privates Interesse gegen die Einsichtnahme kann insbesondere vorliegen, wenn die Akteneinsicht zu einer vorzeitigen Offenbarung von Berufs- oder Fabrikationsgeheimnissen führt.
+
+<sup>5</sup> Die Bestände mit besonderen Schutzfristen nach Artikel 12 Absatz 1 des Gesetzes sind in Anhang 3 aufgeführt. Die Liste kann vom Eidgenössischen Departement des Innern geändert oder ergänzt werden. Die jeweils aktuellste Liste wird beim Bundesarchiv aufbewahrt und ist öffentlich zugänglich. Der nachgeführte Anhang wird jährlich in der Amtlichen Sammlung veröffentlicht.
+
+### 3. Abschnitt: Eingaben an die Behörde
+
+#### Art. 15
+
+**Gesuche um Einsichtnahme allgemein**
+
+### (Art. 9, 11, 12 und 13 BGA)
+
+<sup>1</sup> Einsichtnahme in das Archivgut kann mündlich oder schriftlich verlangt werden.
+
+<sup>2</sup> Gesuche um Einsichtnahme während der Schutzfrist müssen schriftlich begründet werden.
+
+<sup>3</sup> Bei Gesuchen um Einsichtnahme in Unterlagen, welche noch der Schutzfrist unterliegen, ist gegebenenfalls der Nachweis zu erbringen, dass sie bereits der Öffentlichkeit zugänglich waren, sofern die öffentliche Zugänglichkeit nicht gesetzlich geregelt ist.
+
+#### Art. 16
+
+**Gesuche um Einsichtnahme während der verlängerten Schutzfrist nach Artikel 11 des Gesetzes**
+
+### (Art. 11 BGA)
+
+<sup>1</sup>
+
+Bei Gesuchen um Einsichtnahme während der verlängerten Schutzfrist nach Artikel 11 des Gesetzes genügt der Nachweis, dass:
+
+- a. die Einwilligung der betroffenen Person vorliegt;
+- b. die betroffene Person bereits drei Jahre tot ist.
+
+<sup>2</sup> Handelt es sich um eine nicht-personenbezogene Nachforschung, so genügt eine entsprechende schriftliche Erklärung des Gesuchstellers oder der Gesuchstellerin.
+
+### 4. Abschnitt: Entscheid der Behörde
+
+#### Art. 17
+
+**Verfügungsberechtigung der Behörde**
+
+Die zuständige Behörde verfügt im Rahmen der Bestimmungen des Gesetzes und dieser Verordnung über die Zugänglichkeit aller von ihr erstellten oder empfangenen Unterlagen.
+
+#### Art. 18
+
+**Bewilligung der Einsicht während der Schutzfristen**
+
+### (Art. 9, 11, 12 und 13 BGA)
+
+<sup>1</sup> Die zuständige Behörde bewilligt die Einsichtnahme während der Schutzfrist, wenn die betreffenden Sach- oder Personenunterlagen bereits vor Ablauf der Schutzfrist der Öffentlichkeit zugänglich waren. Vorbehalten bleiben neu aufgetauchte überwiegende schutzwürdige öffentliche oder private Interessen gegen die Einsichtnahme.
+
+<sup>2</sup> Die zuständige Behörde bewilligt die Einsichtnahme während der verlängerten Schutzfrist nach Artikel 11 Absätze 1 und 2 des Gesetzes, wenn die Voraussetzungen nach Artikel 16 Absatz 1 erfüllt sind.
+
+<sup>3</sup>
+
+Die zuständige Behörde kann auf Antrag des Bundesarchivs die Einsichtnahme während der Schutzfrist bewilligen, wenn:
+
+- a.[^18-1] keine gesetzlichen Vorschriften entgegenstehen; und
+- b. keine überwiegenden schutzwürdigen öffentlichen oder privaten Interessen entgegenstehen; oder
+- c. wenn es sich um eine nicht-personenbezogene Nachforschung nach Artikel 11 Absatz 3 des Gesetzes handelt.
+
+<sup>4</sup> Bei Personen der Zeitgeschichte können hinsichtlich ihrer Tätigkeit in der Öffentlichkeit keine überwiegenden privaten Interessen entgegengestellt werden.
+
+[^18-1]: [AS 1999 2858](https://fedlex.data.admin.ch/eli/oc/1999/448)
+
+#### Art. 19
+
+**Auflagen und Bedingungen**
+
+### (Art. 13 Abs. 2 und 3 BGA)
+
+<sup>1</sup> Die verfügende Behörde kann die Bewilligung zur Einsichtnahme während der Schutzfristen an Auflagen und Bedingungen knüpfen; sie kann insbesondere verlangen, dass bestimmte Dossierteile nicht ausgewertet oder Daten anonymisiert werden.
+
+<sup>2</sup> Das Bundesarchiv kann von der einsichtnehmenden Person eine schriftliche Erklärung verlangen, dass sie von den Auflagen und Bedingungen Kenntnis genommen hat.
+
+<sup>3</sup> In besonderen Fällen kann die Behörde verlangen, dass ihr der Text vor der Veröffentlichung vorgelegt wird.
+
+### 5. Abschnitt: Datenschutz; Verfahren
+
+#### Art. 20
+
+**Auskunftsrecht**
+
+### (Art. 15 Abs. 1 und 2 BGA)
+
+<sup>1</sup> Jede Person kann über sie betreffende Daten, die beim Bundesarchiv oder bei den selbstständig archivierenden Stellen archiviert sind, Auskunft verlangen.
+
+<sup>2</sup> Vor der Auskunftserteilung prüft die zuständige Stelle die Identität des Gesuchstellers oder der Gesuchstellerin und entscheidet, ob die Legitimation im Sinne von Absatz 1 gegeben ist.
+
+<sup>3</sup> Einem solchen Auskunftsbegehren wird nicht stattgegeben, wenn die Daten nicht mehr durch den Namen der betroffenen Person erschlossen sind oder wenn die Auskunftserteilung nicht mit einer rationellen Verwaltungsführung vereinbar ist.
+
+<sup>4</sup> Im Übrigen richtet sich das Auskunftsrecht nach der Datenschutzgesetzgebung.
+
+#### Art. 21
+
+**Bestreitungsvermerk**
+
+### (Art. 15 Abs. 3 BGA)
+
+<sup>1</sup> Erhält eine betroffene Person Kenntnis davon, dass in archivierten Unterlagen Angaben über sie enthalten sind, die sie für unrichtig hält, kann sie dies vermerken lassen, nicht aber die Angaben berichtigen.
+
+<sup>2</sup> Der Bestreitungsvermerk ist schriftlich bei der Stelle einzureichen, bei welcher die Einsichtnahme in die Unterlagen erfolgt ist. Er ist als Bestreitung zu kennzeichnen und mit Ort, Datum und Unterschrift der betroffenen Person zu versehen.
+
+<sup>3</sup> Der Bestreitungsvermerk wird den Unterlagen an der entsprechenden Stelle beigefügt.
+
+#### Art. 22
+
+**Verfahren bei Verweigerung der Einsichtnahme und Auskunft**
+
+### (Art. 9 Abs. 1, 11, 13 Abs. 1 und 15 BGA)
+
+<sup>1</sup> Vor einem abweisenden oder nur teilweise gutheissenden Entscheid ist dem Gesuchsteller oder der Gesuchstellerin das rechtliche Gehör zu gewähren. Auf Wunsch wird eine beschwerdefähige Verfügung erlassen.
+
+<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1968[^22-1] über das Verwaltungsverfahren. Vorbehalten bleibt das Verfahren nach Artikel 15 Absatz 1 des Gesetzes.
+
+[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## 4. Kapitel: Gewerbliche Nutzung des Archivguts
+
+#### Art. 23
+
+**Gewerbliche Nutzung von Archivgut durch das Bundesarchiv**
+
+### (Art. 19 BGA)
+
+Das Bundesarchiv kann Archivgut gewerbsmässig nutzen, wenn die hoheitlichen Tätigkeiten nicht behindert werden, wenn Dritte in ihrer gewerblichen Tätigkeit dadurch nicht missbräuchlich benachteiligt werden und wenn der gewerbsmässigen Nutzung keine Urheberrechte entgegenstehen.
+
+#### Art. 24
+
+**Übertragung von Rechten an Archivgut zur gewerblichen Nutzung**
+
+### (Art. 19 BGA)
+
+<sup>1</sup> Das Bundesarchiv kann Dritten Rechte zur gewerbsmässigen Nutzung von Archivgut durch eine Bewilligung übertragen. Grundlage der Bewilligung ist ein schriftliches Gesuch an das Bundesarchiv.
+
+<sup>2</sup>
+
+Die Bewilligung kann erteilt werden, wenn:
+
+- a. eine Vereinbarung über Nutzungsumfang und Höhe der Entschädigung zustande gekommen ist;
+- b. keine entgegenstehenden Rechte tangiert werden; und
+- c. die Nutzungsrechte für die übrigen Benutzerinnen und Benutzer nicht eingeschränkt werden.
+
+<sup>3</sup> Wenn die Nutzungsrechte Institutionen oder Personen übertragen werden, die nicht profitorientiert sind, kann das Bundesarchiv auf eine Entschädigung verzichten.
+
+<sup>4</sup> Die Bewilligung kann mit Auflagen und Bedingungen verbunden werden.
+
+<sup>5</sup> Für die gewerbliche Nutzung von Archivgut von selbstständig archivierenden Stellen ist die Zustimmung des Bundesarchivs erforderlich.
+
+<sup>6</sup> Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1968[^24-1] über das Verwaltungsverfahren.
+
+[^24-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 25
+
+**Ausnahme von der Unveräusserlichkeit von Archivgut**
+
+### (Art. 20 BGA)
+
+Archivgut darf nicht veräussert werden, ausser wenn das Archivgut in zwei oder mehreren identischen Exemplaren vorhanden ist und die Kopien nicht mehr benötigt werden.
+
+## 5. Kapitel: Schlussbestimmungen
+
+#### Art. 26
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Das Reglement vom 15. Juli 1966[^26-1] für das Bundesarchiv wird aufgehoben.
+
+<sup>2</sup> Artikel 15 der Verordnung vom 14. Juni 1993[^26-2] zum Bundesgesetz über den Datenschutz wird aufgehoben.
+
+[^26-1]: [[AS 1966 916](https://fedlex.data.admin.ch/eli/oc/1966/916_942_934), [1973 1591](https://fedlex.data.admin.ch/eli/oc/1973/1591_1591_1591)]
+[^26-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+#### Art. 27
+
+**Änderungen bisherigen Rechts**
+
+...[^27-1]
+
+[^27-1]: Die Änderungen können unter [AS 1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)konsultiert werden.
+
+#### Art. 28
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 2 Abs. 1)
+
+## Liste der Bundesorgane
+
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 31. Okt. 2003 ([AS 2003 4525](https://fedlex.data.admin.ch/eli/oc/2003/670)). Bereinigt durch Ziff. IV 2 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3452), gemäss Anhang Ziff. 1 der V vom 17. Dez. 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen ([AS 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)) und Anhang 2 Ziff. II 1 der Alkoholverordnung vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+
+(Art. 1 Abs. 1 Bst. b–d BGA)
+
+### a. Verwaltungseinheiten der zentralen Bundesverwaltung:
+
+Nach dem Anhang der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^annex1-lvlu1-lvla-1].
+
+[^annex1-lvlu1-lvla-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+### b. Verwaltungseinheiten der dezentralen Bundesverwaltung:
+
+Die Bundeskanzlei
+
+- – Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter[^annex1-lvlu1-lvlb-1]
+
+Eidgenössisches Departement für auswärtige Angelegenheiten
+
+- – Präsenz Schweiz
+
+Eidgenössisches Justiz- und Polizeidepartement
+
+- – Bundesanwaltschaft
+- – Dienst für die Überwachung des Post- und Fernmeldeverkehrs
+- – Schweizerisches Institut für Rechtsvergleichung
+
+Eidgenössisches Finanzdepartement
+
+- – Eidgenössische Finanzkontrolle
+- – Eidgenössische Finanzmarktaufsicht[^annex1-lvlu1-lvlb-2]
+
+Eidgenössische Departement für Wirtschaft, Bildung und Forschung*[^annex1-lvlu1-lvlb-3]*
+
+- – Wettbewerbskommission
+
+Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation
+
+- – Schweizerische Sicherheitsuntersuchungsstelle
+- – Eidgenössische Kommunikationskommission
+
+[^annex1-lvlu1-lvlb-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^annex1-lvlu1-lvlb-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^annex1-lvlu1-lvlb-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
+
+### c.
+
+Formationen der Armee:
+
+- – Armeestab
+- – Grosse Verbände
+- – Truppenkörper
+- – Truppeneinheiten
+
+### d. Schweizerische diplomatische und konsularische Vertretungen
+
+### e. Eidgenössische Rekurs- und Schiedskommissionen
+
+- – Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten
+- – Schiedskommission im Eisenbahnverkehr
+- – Unabhängige Beschwerdeinstanz für Radio und Fernsehen (UBI)
+
+Anhang 2*[^t-2]*
+
+(Art. 2 Abs. 2)
+
+## Liste der autonomen Anstalten und ähnlichen bundeseigenen Institutionen
+
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2002 ([AS 2003 2](https://fedlex.data.admin.ch/eli/oc/2003/2)). Bereinigt gemäss Anhang Ziff. 3 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)) und Anhang Ziff. 1 der V vom 21. Nov. 2012 über das Eidgenössische Institut für Metrologie, in Kraft seit 1. Jan. 2013 ([AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)).
+
+(Art. 1 Abs. 1 Bst. e BGA)
+
+### a.
+
+Selbstständig archivierende Stellen:
+
+- – Die Schweizerische Post
+- – Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz
+- – Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft
+- – Eidgenössische Materialprüfungs- und Forschungsanstalt
+- – Eidgenössische Technische Hochschulen (Lausanne und Zürich)
+- – Paul-Scherrer-Institut
+- – Rat der Eidgenössischen Technischen Hochschulen
+- – Schweizerische Bundesbahnen SBB
+- – Schweizerische Unfallversicherungsanstalt (SUVA)
+- – Swissmedic, Schweizerisches Heilmittelinstitut
+- – Eidgenössisches Nuklearsicherheitsinspektorat
+
+### b.
+
+Anbietepflichtige Stellen:
+
+- – Eidgenössisches Institut für Geistiges Eigentum
+- – Pensionskasse des Bundes PUBLICA
+- – Eidgenössisches Institut für Metrologie METAS
+
+Anhang 3*[^t-3]*
+
+(Art. 14 Abs. 5)
+
+## Liste von Archivgut mit verlängerter Schutzfrist
+
+[^t-3]: Fassung gemäss Ziff. I der V des EDI vom 3. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4939](https://fedlex.data.admin.ch/eli/oc/2020/881)).
+
+(Art. 12 Abs. 1 BGA)
+
+- – Archivgut, das einer verlängerten Schutzfrist von in der Regel 50 Jahren nach Artikel 12 Absatz 1 BGA und Artikel 14 Absatz 5 VBGA unterliegt.
+- – Die Liste kann vom Eidgenössischen Departement des Innern geändert oder ergänzt werden. Die jeweils aktuelle Liste wird im Bundesarchiv aufbewahrt und ist öffentlich zugänglich. Der nachgeführte Anhang wird jährlich in der Amtlichen Sammlung veröffentlicht.
+
+<table>
+<tr><th>Signatur</th><th>Titel</th><th>Bemerkungen</th></tr>
+<tr><td>E1030.2</td><td>Bundeskanzlei: Handakten Karl Huber, Bundeskanzler (1968–1981)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.3</td><td>Bundeskanzlei Handakten Walter Buser, Bundeskanzler (1981–1991)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.4</td><td>Bundeskanzlei: Handakten François Couchepin, Bundeskanzler (1991–1999)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.5</td><td>Bundeskanzlei Handakten Hanna Muralt–Müller, Vizekanzlerin (1991–2005)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.6</td><td>Bundeskanzlei Handakten Achille Casanova, Vizekanzler (1981–2005)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.7</td><td>Bundeskanzlei: Handakten Annemarie Huber–Hotz, Bundeskanzlerin (2000–2007)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.8</td><td>Bundeskanzlei: Handakten Oswald Sigg, Vizekanzler (2005–2009)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.9</td><td>Bundeskanzlei: Handakten Corina Casanova, Bundeskanzlerin (2008–2016)</td><td>50 Jahre</td></tr>
+<tr><td>E1030.11</td><td>Bundeskanzlei: Handakten André Simonazzi, Vizekanzler (2009–)</td><td>50 Jahre</td></tr>
+<tr><td>E1050.3B</td><td>Bundesversammlung: Finanzkommissionen und Finanzdelegation (1993–2000)</td><td>50 Jahre; gilt nur für Ablieferung 2002/114</td></tr>
+<tr><td>E1050.3C</td><td>Bundesversammlung: Finanzkommissionen und Finanzdelegation (2001–)</td><td>50 Jahre; gilt nur für Ablieferung 2006/34</td></tr>
+<tr><td>E1050.7A</td><td>Bundesversammlung: Geschäftsprüfungskommissionen (1969–1994)</td><td>50 Jahre; gilt nur für Ablieferungen 1987/184 und 2011/113 sowie Bände 60 und 61 der Ablieferung 1999/272</td></tr>
+<tr><td>E1050.7B</td><td>Bundesversammlung: Geschäftsprüfungskommissionen (1995–)</td><td>50 Jahre; gilt nur für die Hauptgruppen 6 (Delegation) und 7 (Aufsichtseingaben) sowie die jährlichen Berichte zum Kriegsmaterialexport (Az. 211.513)</td></tr>
+<tr><td>E1050.8</td><td>Bundesversammlung: Militärkommissionen (1946–1991)[^annex3-lvlu1-1]</td><td>50 Jahre; gilt nur, soweit die entsprechenden Unterlagen in den Beständen des VBS der verlängerten Schutzfrist unterstehen</td></tr>
+<tr><td>E1050.31-01A</td><td>Nationalrat: Sicherheitspolitische Kommission (1996–2001)</td><td>50 Jahre</td></tr>
+<tr><td>E1050.32-01A</td><td>Ständerat: Sicherheitspolitische Kommission (1996–2001)</td><td>50 Jahre</td></tr>
+<tr><td>E1060.1</td><td>Parlamentarische Untersuchungskommission des Eidgenössischen Justiz- und Polizeidepartements: Zentrale Ablage (1989–1990)</td><td>50 Jahre</td></tr>
+<tr><td>E1060.1-01</td><td>Parlamentarische Untersuchungskommission des Eidgenössischen Justiz- und Polizeidepartements: Tonaufnahmen und Schlussbericht (1989–1990)</td><td>50 Jahre</td></tr>
+<tr><td>E1060.2</td><td>Parlamentarische Untersuchungskommission des Eidgenössischen Militärdepartements: Zentrale Ablage (1990–1991)</td><td>50 Jahre</td></tr>
+<tr><td>E1060.3</td><td>Parlamentarische Untersuchungskommission der Eidgenössischen Versicherungskasse: Zentrale Ablage (1995–1996)</td><td>50 Jahre</td></tr>
+<tr><td>E1070</td><td>Bundesversammlung: Geschäftsdossiers (1848–2001)</td><td>50 Jahre; gilt nur für Geschäfte betreffend die Aufhebung der Immunität von Mitgliedern der eidgenössischen Räte und des Bundesrates</td></tr>
+<tr><td>E1070-03</td><td>Bundesversammlung: Sicherheitspolitische Kommissionen (1991–2001)</td><td>50 Jahre</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Ratspräsidien; gilt nur für Az. 104</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Geschäftsprüfungskommissionen; gilt nur für Az. 103-05 und für die Ablieferungen 2011/107, 2015/278, 2016/108 und 2017/410</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Geschäftsprüfungs-kommissionen und der Finanzkommissionen; gilt nur für Az. 103-09</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Geschäftsprüfungsdelegation; gilt nur für Az. 103-08, 103-10, 103-11 und 305-04</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Finanzdelegation; gilt nur für Az. 103-02 und 305-03</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der NEAT-Aufsichtsdelegation; gilt nur für Ablieferungen 2010/265, 2011/147, 2012/74, 2012/226, 2014/137, 2015/234, 2017/259 und 2020/5</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>80 Jahre; Unterlagen der Sicherheitspolitischen Kommissionen; gilt nur für Ablieferung 2010/293</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Sicherheitspolitischen Kommissionen; gilt nur für Ablieferung 2010/292</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Kommissionen für Wirtschaft und Abgaben; gilt nur für Ablieferung 2010/296</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Kommissionen für Rechtsfragen; gilt nur für Ablieferung 2010/294</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Gerichtskommission; gilt nur für Az. 302-23</td></tr>
+<tr><td>E1070-04</td><td>Bundesversammlung: Parlamentarische Geschäfte, Räte und Ratsorgane (2001–)</td><td>50 Jahre; Unterlagen der Rehabilitierungskommission; gilt nur für Ablieferung 2010/295</td></tr>
+<tr><td>E1100-01</td><td>Parlamentsdienste: Zentrale Ablage (2000 –)</td><td>50 Jahre; gilt nur für Ablieferung 2016/105 für Unterlagen zu Rekrutierungsverfahren des Bundesrats für Kaderstellen</td></tr>
+<tr><td>E2001E</td><td>Abteilung für politische Angelegenheiten: Zentrale Ablage (1950–1973)</td><td>50 Jahre; gilt nur für Unterlagen aus Mandaten zur Vertretung Fremder Interessen (Az. B.24), mit Ausnahme jener Mandate, die vor 1966 abgeschlossen worden sind</td></tr>
+<tr><td>E2001E-01</td><td>Politische Direktion: Zentrale Ablage (1973–1981)</td><td>50 Jahre; gilt nur für Unterlagen aus Mandaten zur Vertretung Fremder Interessen (Az. B.24), mit Ausnahme jener Mandate, die vor 1966 abgeschlossen worden sind</td></tr>
+<tr><td>E2003-01A</td><td>Abteilung für internationale Organisationen: Fremde Interessen (1950–1972)</td><td>50 Jahre; mit Ausnahme der Unterlagen aus Mandaten, die vor 1966 abgeschlossen worden sind</td></tr>
+<tr><td>E2003-06</td><td>Politische Direktion: Fremde Interessen (1973–1984)</td><td>50 Jahre; mit Ausnahme der Unterlagen aus Mandaten, die vor 1966 abgeschlossen worden sind</td></tr>
+<tr><td>E2006A</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten: Zentrale Ablage des Einheitsregistraturplans EDA (1997–)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 252.0, 252.1, 252.2, 252.3, 252.4, 262.0, 262.1 (nur Ablieferungen 2009/188 und 2018/275), 262.2 (nur Ablieferungen 2009/188, 2011/253 und 2018/275)</td></tr>
+<tr><td>E2010A</td><td>Politische Direktion: Zentrale Ablage (1982–2000)</td><td>50 Jahre; gilt nur für Unterlagen aus Mandaten zur Vertretung Fremder Interessen (Az. B24)</td></tr>
+<tr><td>E2010-03A</td><td>Politische Direktion: Registraturfindmittel (1973–)</td><td>50 Jahre; gilt nur für Ablieferung 2004/444, 2018/54 und 2018/203</td></tr>
+<tr><td>E2012</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten: Taskforce Libyen-Affäre</td><td>50 Jahre</td></tr>
+<tr><td>E2023-01A</td><td>Politische Direktion: Fremde Interessen (1985–)</td><td>50 Jahre</td></tr>
+<tr><td>E2026-20</td><td>Direktion für Entwicklung und Zusammenarbeit: Koordinationsbüro Bamako (1970–)</td><td>50 Jahre; gilt nur für Ablieferung 2013/262</td></tr>
+<tr><td>E2200.[…]</td><td>Schweizerische Vertretung, [Ort]: Zentrale Ablage</td><td>120 Jahre; gilt nur für Unterlagen betreffend Adoptionen, insbesondere unter Az. 123.32 und Az. 141.2 50 Jahre; gilt nur für Unterlagen aus Mandaten zur Vertretung Fremder Interessen (seit 1966, unter Az. 82 und weiteren Az.), mit Ausnahme jener Mandate, die vor 1966 abgeschlossen worden sind</td></tr>
+<tr><td>E2210.7-05</td><td>Ständige Mission der Schweiz bei den internationalen Organisationen, Genf: Zentrale Ablage (1977–1992)</td><td>50 Jahre; gilt nur für Unterlagen der Hauptgruppe 1 (Organisations Internationales, Missions Permanentes)</td></tr>
+<tr><td>E2210.7-06</td><td>Ständige Mission der Schweiz bei den internationalen Organisationen, Genf: Zentrale Ablage (1993–)</td><td>50 Jahre; gilt nur für Unterlagen der Hauptgruppe 1 (Questions État-hôte avec les missions et les organisations internationales)</td></tr>
+<tr><td>E2600-02</td><td>Direktion für Völkerrecht: Unterlagen zur Libyen–Affäre</td><td>50 Jahre</td></tr>
+<tr><td>E3240A</td><td>Direktion der eidgenössischen Bauten: Zentrale Ablage (1848–1995)</td><td>50 Jahre; gilt nur für Unterlagen, die noch in Betrieb stehende Gebäude und Anlagen betreffen</td></tr>
+<tr><td>E3240B</td><td>Amt für Bundesbauten: Zentrale Ablage (1996–1998)</td><td>80 Jahre</td></tr>
+<tr><td>E3240C-04</td><td>Bundesamt für Bauten und Logistik: Bauprojektakten (1999–)</td><td>50 Jahre; gilt nur für Unterlagen unter Planpositionen zu Vertretungen der Schweiz im Ausland</td></tr>
+<tr><td>E3241</td><td>Direktion der eidgenössischen Bauten: Liegenschaftsverträge (1848–1998)</td><td>50 Jahre; gilt nur für Unterlagen, die noch in Betrieb stehende Gebäude und Anlagen betreffen</td></tr>
+<tr><td>E3242</td><td>Direktion der eidgenössischen Bauten: Ingenieurbau (Tiefbau) (1848–1998)</td><td>80 Jahre</td></tr>
+<tr><td>E3322A</td><td>Bundesamt für Statistik: Zentrale Ablage (1999–)</td><td>50 Jahre, gilt nur für Ablieferung 2011/296</td></tr>
+<tr><td>E4001D</td><td>Departementssekretariat des Eidgenössischen Justiz- und Polizeidepartements: Zentrale Ablage (1952–1979)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 006 (Bundesanwaltschaft)</td></tr>
+<tr><td>E4001E</td><td>Generalsekretariat des Eidgenössischen Justiz- und Polizeidepartements: Zentrale Ablage (1979–1984)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 0006 (Bundesanwaltschaft)</td></tr>
+<tr><td>E4002-01</td><td>Stab Bundesrat Abteilung Presse und Funkspruch: Zentrale Ablage (1997–2004)</td><td>50 Jahre; gilt nur für Ablieferungen 2005/385 und 2006/59</td></tr>
+<tr><td>E4002-02</td><td>Stab Bundesrat Abteilung Presse und Funkspruch: Info Regiment 1 (1997–2004)</td><td>50 Jahre; gilt nur für Ablieferungen 2005/80 und 2008/166</td></tr>
+<tr><td>E4005</td><td>Sonderbeauftragter für Staatsschutzakten: Zentrale Ablage (1991–1996)</td><td>50 Jahre; gilt nur für Ablieferungen 1994/79, 1995/1, 1995/41, 1995/44, 1995/304 und 1995/305</td></tr>
+<tr><td>E4005-01</td><td>Sonderbeauftragter für Staatsschutzakten: Datenbank zur Geschäftskontrolle (SOBE) (1991–1996)</td><td>50 Jahre</td></tr>
+<tr><td>E4006</td><td>Arbeitsgruppe Kreis zur Aufarbeitung des Staatsschutzes in der Schweiz: Zentrale Ablage (1990–1993)</td><td>50 Jahre</td></tr>
+<tr><td>E4007D</td><td>Eidgenössischer Datenschutz und Öffentlichkeitsbeauftragter: Zentrale Ablage (2006–)</td><td>50 Jahre; gilt nur für Ablieferung 2014/195 und 2018/274 für Unterlagen unter der Planposition 1-04</td></tr>
+<tr><td>E4010A</td><td>Generalsekretariat des Eidgenössischen Justiz- und Polizeidepartements: Zentrale Ablage (1983–1996)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 405 (Bundesanwaltschaft)</td></tr>
+<tr><td>E4010-01</td><td>Generalsekretariat des eidgenössischen Justiz- und Polizeidepartements: Projektorganisation BASIS (1993–1998)</td><td>50 Jahre; gilt nur für die Dossiers E4010-01#1999/261#182, E4010-01#1999/261#183 und E4010-01#1999/261#185 (Sonderbeauftragter für Staatsschutzakten: Vollzug der Fichen- und Dossiereinsicht)</td></tr>
+<tr><td>E4010-02</td><td>Generalsekretariat des Eidgenössischen Justiz- und Polizeidepartements: Programmorganisation Schengen / Dublin (2007–2009)</td><td>50 Jahre</td></tr>
+<tr><td>E4110-03</td><td>Bundesamt für Justiz: Teilablage Abteilung für internationale Angelegenheiten</td><td>120 Jahre; gilt nur für Adoptionsunterlagen unter Planposition J.016 der Ablieferung 2008/300</td></tr>
+<tr><td>E4113A</td><td>Dienst für kriegsnotrechtliche Sonderfragen: Zentrale Ablage (1963–1983)</td><td>50 Jahre</td></tr>
+<tr><td>E4114A</td><td>Bundesamt für Justiz: Zentrale Ablage (1984–)</td><td>120 Jahre; gilt nur für Adoptionsunterlagen unter Az. 74</td></tr>
+<tr><td>E4114C</td><td>Bundesamt für Justiz: Zentrale Ablage (1999–)</td><td>120 Jahre; gilt nur für Adoptionsunterlagen unter Az. 6.6.6.1 (Internationale Adoption)</td></tr>
+<tr><td>E4160A</td><td>Eidgenössisches Amt für das Zivilstandswesen: Zentrale Ablage (1923–1934)</td><td>120 Jahre; gilt nur für Unterlagen unter der Planposition H.4 (Kindschaftsrecht)</td></tr>
+<tr><td>E4160B</td><td>Eidgenössisches Amt für das Zivilstandswesen: Zentrale Ablage (1935–1947)</td><td>120 Jahre; gilt nur für die Unterlagen unter den Planpositionen J (Kindschaftsrecht) und P (Adoptionen)</td></tr>
+<tr><td>E4160D</td><td>Eidgenössisches Amt für das Zivilstandswesen: Zentrale Ablage (1964–)</td><td>120 Jahre; gilt nur für Adoptionsunterlagen unter der Planposition D 12 der Ablieferungen 1998/170 und 2002/57</td></tr>
+<tr><td>E4161</td><td>Eidgenössisches Amt für das Zivilstandswesen: Parallelakten (1923–)</td><td>120 Jahre; gilt nur für Ablieferung 1994/184 (Kartei zu Adoptionsmitteilungen)</td></tr>
+<tr><td>E4268-02</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informations-System (ISIS) (1994–)</td><td>50 Jahre</td></tr>
+<tr><td>E4268-05</td><td>Bundesamt für Polizei: Dienst für Analyse und Prävention (2000–)</td><td>50 Jahre</td></tr>
+<tr><td>E4268-06</td><td>Bundesamt für Polizei: Ablage Registratur (2000–)</td><td>80 Jahre, gilt nur für Ablieferung 2014/25 50 Jahre; gilt nur für Unterlagen der Hauptgruppe 1 (Vorgangskategorien)</td></tr>
+<tr><td>E4267-02</td><td>Bundesamt für Polizei: Polizeifahndungssystem RIPOL - Système de recherche informatisée de la police</td><td>50 Jahre</td></tr>
+<tr><td>E4268-09</td><td>Bundesamt für Polizei: Informatisiertes Staatsschutz-Informationssystem Neue Technologie (ISIS-NT)</td><td>50 Jahre</td></tr>
+<tr><td>E4270-01</td><td>Eidgenössische Spielbankenkommission: Zentrale Ablage (2000–2010)</td><td>50 Jahre; gilt nur für Ablieferung 2011/105</td></tr>
+<tr><td>E4320B</td><td>Bundesanwaltschaft: Polizeidienst (1931–1959)</td><td>50 Jahre</td></tr>
+<tr><td>E4320C</td><td>Bundesanwaltschaft: Polizeidienst (1960–1999)</td><td>80 Jahre; gilt nur für Ablieferungen 1992/171, 1996/104, 1997/83, 2001/55 und 2006/130</td></tr>
+<tr><td></td><td></td><td>50 Jahre</td></tr>
+<tr><td>E4320-01C</td><td>Bundesanwaltschaft: Fichen, Karteien und Sammlungen des Polizeidienstes (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4320-02C</td><td>Bundesanwaltschaft: Jura-Konflikt (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4320-03C</td><td>Bundesanwaltschaft: Divine Light Zentrum (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4320-04C</td><td>Bundesanwaltschaft: Ablage Gegenoperationen des Polizeidienstes (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4320-05C</td><td>Bundesanwaltschaft: Ablage Internationales des Polizeidienstes (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4320-06C</td><td>Bundesanwaltschaft: Ablage Ungarn des Polizeidienstes (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4320-07C</td><td>Bundesanwaltschaft: Verbindungsbüro des Polizeidienstes (1960–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4321-00</td><td>Bundesanwaltschaft: Registraturfindmittel des Rechtsdienstes (1931–2003)</td><td>50 Jahre</td></tr>
+<tr><td>E4321A</td><td>Bundesanwaltschaft: Rechtsdienst (1931–2003)</td><td>50 Jahre</td></tr>
+<tr><td>E4321-01</td><td>Bundesanwaltschaft: Aktenverwaltungs– und Geschäftskontrollsystem des Rechtsdienstes (REGIRED) (1989–2002)</td><td>50 Jahre</td></tr>
+<tr><td>E4322</td><td>Schweizerisches Zentralpolizeibüro: Datensammlungen und Dokumentationen (1848–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4323A</td><td>Schweizerisches Zentralpolizeibüro: Falschgeld (1848–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4324A</td><td>Schweizerisches Zentralpolizeibüro: Betäubungsmittel (1848–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4326A</td><td>Schweizerisches Zentralpolizeibüro: Interpol-Dienst (1848–1992)</td><td>50 Jahre</td></tr>
+<tr><td>E4327</td><td>Bundesanwaltschaft: Registraturfindmittel und diverse Unterlagen des Polizeidienstes (1935–1992)</td><td>50 Jahre; gilt nur für Staatsschutzakten</td></tr>
+<tr><td>E4333-02</td><td>Bundesanwaltschaft: Diverses Polizei- und Rechtsdienst (1944–2001)</td><td>50 Jahre</td></tr>
+<tr><td>E4333-03</td><td>Bundesanwaltschaft: Geschäftsdossiers und Verfahrensakten (1889–2008)</td><td>50 Jahre; gilt nur für Ablieferung 2019/54</td></tr>
+<tr><td>E4333-04</td><td>Bundesanwaltschaft: Zentrale Ablage (2009–)</td><td>50 Jahre; gilt nur Unterlagen unter den Planpositionen 034.2 (Ausschusssitzungen (operativer Ausschuss)), 23 (Strafverfahren führen), 41 (Passive Rechtshilfe) und für Ablieferung 2019/464</td></tr>
+<tr><td>E4380A</td><td>Eidgenössisches Amt für geistiges Eigentum: Zentrale Ablage (1888–1979)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 162</td></tr>
+<tr><td>E4380B</td><td>Bundesamt für geistiges Eigentum: Zentrale Ablage (1979–1995)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 226.1 (Wiedereinsetzung - einzelne Fälle)</td></tr>
+<tr><td>E4390C</td><td>Bundesamt für Zivilschutz: Zentrale Ablage (1976–2002)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 100.8 (Beziehungen zu anderen Staaten)</td></tr>
+<tr><td>E4390D</td><td>Bundesamt für Zivilschutz: Zentrale Ablage (1997–2005)</td><td>50 Jahre; gilt nur für die Ablieferung 2016/202</td></tr>
+<tr><td>E4390-02</td><td>Bundesamt für Bevölkerungsschutz: Zentrale Ablage (2006–)</td><td>50 Jahre</td></tr>
+<tr><td>E4800.3</td><td>Bundesanwaltschaft: Handakten Rudolf Gerber, Bundesanwalt (1974–1989)</td><td>50 Jahre</td></tr>
+<tr><td>E4800.3-01</td><td>Bundesanwaltschaft: Handakten Rudolf Gerber, Bundesanwalt (1974–1993)</td><td>50 Jahre</td></tr>
+<tr><td>E4800.7</td><td>Bundesanwaltschaft: Handakten Adrian Florian, Adjunkt (1931–2000)</td><td>50 Jahre</td></tr>
+<tr><td>E4800-01</td><td>Bundesanwaltschaft: Handakten Carla del Ponte, Bundesanwältin (1994–1998)</td><td>50 Jahre</td></tr>
+<tr><td>E5001F</td><td>Direktion der eidgenössischen Militärverwaltung: Zentrale Ablage (1959–1971)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5001G</td><td>Direktion der eidgenössischen Militärverwaltung. Zentrale Ablage (1959–1991)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5003-01</td><td>Eidgenössische Militärbibliothek: Dokumentation zu Fragen der Atom-bewaffnung (1945–1996)</td><td>85 Jahre</td></tr>
+<tr><td>E5003-02</td><td>Eidgenössische Militärbibliothek: Diverse Provenienzen Eidgenössisches Militärdepartement (1848–1997)</td><td>50 Jahre; gilt nur für Ablieferung 2009/193</td></tr>
+<tr><td>E5004A</td><td>Generalsekretariat des Eidgenössischen Militärdepartements: Zentrale Ablage (1992–1997)</td><td>80 Jahre; gilt nur für Ablieferung 2015/10</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferung 2014/244</td></tr>
+<tr><td>E5007-01</td><td>Generalsekretariat des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport: Zentrale Ablage (1998–2004)</td><td>80 Jahre; gilt nur für Ablieferungen 2014/115 und 2016/181</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferungen 2010/306, 2015/11 und 2016/180</td></tr>
+<tr><td>E5150A</td><td>Kriegstechnische Abteilung: Zentrale Ablage (1908–1967)</td><td>80 Jahre; gilt nur für Bände 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 der Ablieferung 1968/9</td></tr>
+<tr><td></td><td></td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5150C-01</td><td>Kriegstechnische Abteilung: Zentrale Ablage (1930–1968)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5156B</td><td>Gruppe für Rüstungsdienste: Schiessversuche (1968–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5157-01</td><td>Laboratorium Wimmis: Fachbereichsthemen (1925–1981)</td><td>80 Jahre; gilt nur für Ablieferung 2015/107 für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferung 2013/343</td></tr>
+<tr><td>E5159-01</td><td>Labor Spiez: Zentrale Ablage (2004–)</td><td>50 Jahre; gilt nur für Ablieferung 2005/207</td></tr>
+<tr><td>E5205-01</td><td>Eidgenössische Konstruktionswerkstätte, Thun: Handakten der Direktion (1863–1995)</td><td>80 Jahre; gilt nur für Hauptgruppen 3 (Panzerspezifische Akten / Unterlagen) und 5 (Festungsartillerie)</td></tr>
+<tr><td>E5206</td><td>Eidgenössische Konstruktionswerkstätte, Thun: Datensammlungen und Dokumentationen (1861–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5230-01</td><td>Schweizerische Unternehmung für Waffensysteme: Geschäftsleitung (1996–1999)</td><td>80 Jahre; gilt nur für Hauptgruppen 3 (Panzerspezifische Akten / Unterlagen) und 5 (Festungsartillerie)</td></tr>
+<tr><td>E5301-05</td><td>Untergruppe Personelles der Armee: Personalinformationssystem der Armee (PISA) (1996–2001)</td><td>50 Jahre</td></tr>
+<tr><td>E5301-06</td><td>Personelles der Armee: Personalinformationssystem der Armee PISA2000 (2002–)</td><td>50 Jahre</td></tr>
+<tr><td>E5301-08</td><td>Führungsstab der Armee/Personelles der Armee: Armeeorganisation & Personalsteuerung</td><td>50 Jahre</td></tr>
+<tr><td>E5301-09</td><td>Personelles der Armee: Zentrale Datenbank für die Armeeführung (ZDA 1)</td><td>50 Jahre</td></tr>
+<tr><td>E5303</td><td>Bundesamt für Adjutantur: Personalinformationssystem der Armee (PISA) (1984–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5307-02</td><td>Militärakademie an der ETH Zürich: Handakten A. Stahel, Dozent an der militärischen Führungsschule (2002–2005)</td><td>50 Jahre</td></tr>
+<tr><td>E5360A</td><td>Stab der Gruppe für Ausbildung: Zentrale Ablage (1945–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5460A</td><td>Abteilung für Flugwesen und Fliegerabwehr: Zentrale Ablage (1950–1975)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5460B</td><td>Bundesamt für Militärflugwesen und Fliegerabwehr: Zentrale Ablage (1976–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Unterlagen unter Planposition 446.12</td></tr>
+<tr><td>E5460-01</td><td>Bundesamt für Militärflugwesen und Fliegerabwehr: Elektronische Kriegsführung (1979–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5461A</td><td>Kommando der Flieger- und Fliegerabwehrtruppen: Führung und Einsatz (1968–1976)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5461B</td><td>Kommando der Flieger- und Fliegerabwehrtruppen: Führung und Einsatz (1977–1995)</td><td>50 Jahre; gilt nur für speziell bezeichnete klassifizierte Unterlagen gem. Informationsschutzverordnung vom 1. Mai 1990, Art. 15 Abs. 2</td></tr>
+<tr><td>E5462A</td><td>Kommando der Flieger- und Fliegerabwehrtruppen: Flieger- und Fliegerabwehrnachrichtendienst (1968–1989)</td><td>50 Jahre; gilt nur für speziell bezeichnete klassifizierte Unterlagen gem. Informationsschutzverordnung vom 1. Mai 1990, Art. 15 Abs. 2</td></tr>
+<tr><td>E5465A</td><td>Direktion der Militärflugplätze: Zentrale Ablage (1942–1952)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5465B</td><td>Abteilung für Militärflugplätze: Zentrale Ablage (1968–1971)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5465B-01</td><td>Direktion der Militärflugplätze: Zentrale Ablage (1936–1968)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5465C</td><td>Abteilung für Militärflugplätze: Zentrale Ablage (1972–1979)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5465C-01</td><td>Bundesamt für Militärflugplätze: Diverses (1979–1980)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5465D</td><td>Bundesamt für Militärflugplätze: Zentrale Ablage (1979–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*).</td></tr>
+<tr><td>E5471-02</td><td>Luftwaffe: Zentrale Ablage (1996–)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferung 2004/582</td></tr>
+<tr><td>E5480A</td><td>Abteilung und Waffenchef für Genie: Zentrale Ablage (1910–1950)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5480A-01</td><td>Abteilung für Genie: Teilregistratur Genie und Altablagen (1895–1950)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5480B</td><td>Abteilung für Genie und Festungen: Zentrale Ablage (1968–1979)</td><td>80 Jahre</td></tr>
+<tr><td>E5480C</td><td>Bundesamt für Genie und Festungen: Zentrale Ablage (1979–1995)</td><td>80 Jahre</td></tr>
+<tr><td>E5480-02</td><td>Kommando Festungswachtkorps: Zentrale Ablage (1996–2003)</td><td>50 Jahre</td></tr>
+<tr><td>E5481</td><td>Büro für Befestigungsbauten: Zentrale Ablage (1886–1950)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5485A</td><td>Festungsbüro Sargans: Zentrale Ablage (1938–1964)</td><td>80 Jahre</td></tr>
+<tr><td>E5486A</td><td>Baubüro Sargans: Zentrale Ablage (1939–1947)</td><td>80 Jahre</td></tr>
+<tr><td>E5520A</td><td>Abteilung für Uebermittlungstruppen: Zentrale Ablage (1951–1954)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5522-01</td><td>Untergruppe Führungsunterstützung: Registraturfindmittel (1996–2003)</td><td>50 Jahre</td></tr>
+<tr><td>E5522-02</td><td>Untergruppe Führungsunterstützung: Zentrale Ablage (1996)</td><td>50 Jahre; gilt nur für Ablieferung 2004/445</td></tr>
+<tr><td>E5522-03</td><td>Untergruppe Führungsunterstützung: Zentrale Ablage (1996–2003)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferungen 2004/383, 2004/447 und 2008/221</td></tr>
+<tr><td>E5523-01</td><td>Bundesamt für Unterstützungstruppen (1996–2003): Altablagen des Bundesamts für Unterstützungstruppen und Vorgänger (1943–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2005/261</td></tr>
+<tr><td>E5560C</td><td>Generalstabsabteilung: Zentrale Ablage (1946–1968)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>80 Jahre; gilt nur für Planposition 6 (Festungswesen)</td></tr>
+<tr><td>E5560D</td><td>Stab der Gruppe für Generalstabsdienste: Zentrale Ablage (1964–1995)</td><td>80 Jahre</td></tr>
+<tr><td>E5560D-01</td><td>Untergruppe Ausbildungsführung: Teilregistratur Kommando Generalstabsschulen (1996)</td><td>50 Jahre</td></tr>
+<tr><td>E5560D-03</td><td>Untergruppe Planung: Zentrale Ablage (1996–2003)</td><td>50 Jahre; gilt nur für Ablieferungen 2007/106 und 2007/171</td></tr>
+<tr><td>E5560-01</td><td>Generalstab: Rechtsdienst (1996–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2005/258</td></tr>
+<tr><td>E5560-03</td><td>Untergruppe Logistik: Altablagen diverser Vorläuferorganisationen (1996–2001)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5562</td><td>Militärische Sicherheitsdienste: Zentrale Ablage (1972–1991)</td><td>50 Jahre</td></tr>
+<tr><td>E5563</td><td>Stab der Gruppe für Generalstabsdienste: Projekt 26 (1968–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5563-01</td><td>Stab der Gruppe Generalstabsdienste: Projekt 26 (P-26) – Dokumentation</td><td>50 Jahre</td></tr>
+<tr><td>E5564</td><td>Untergruppe Nachrichtendienst und Abwehr: Verschiedene Unterlagen (1969–1991)</td><td>50 Jahre</td></tr>
+<tr><td>E5565-01</td><td>Nachrichtendienst des Bundes: Informatisiertes Staatsschutz-Informations-System Neue Technologie (ISIS-NT) (2005–)</td><td>50 Jahre</td></tr>
+<tr><td>E5571A</td><td>Generalstab: Bau und Liegenschaftswesen (1996–2003)–</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferung 2003/351</td></tr>
+<tr><td>E5571-02</td><td>Generalstab: Zentrale Ablage Generalstabchef, Stab des Generalstabchefs, Militärprotokoll, Verteidigungsattachés und Zentrale Dienste (1997–2003)</td><td>80 Jahre; gilt nur für Ablieferungen 2010/107, 2010/144, 2017/352 und 2018/320</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferungen 2017/351, 2018/120 und 2019/332</td></tr>
+<tr><td>E5571-03</td><td>Untergruppe Planung: Registraturgemeinschaft mit Generalstab (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2007/166</td></tr>
+<tr><td>E5572-01</td><td>Untergruppe Friedensförderung und Sicherheitskooperation des Generalstabs: Zentrale Ablage (1998–2003)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5610B</td><td>Oberkriegskommissariat: Verwaltung der Waffen- und Schiessplätze (1964–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5671B</td><td>Direktion der Armeemotorfahrzeugparks: Zentrale Ablage (1968–)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5676</td><td>Kriegsmaterialverwaltung: Zentrale Ablage (1875–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5680C</td><td>Zentralstelle für Gesamtverteidigung: Zentrale Ablage (1994–1998)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5715-01</td><td>Grenzbrigade 1: Zentrale Ablage (1938–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5716-01</td><td>Grenzbrigade 3: Zentrale Ablage (1938–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5717-01</td><td>Grenzbrigade 4: Zentrale Ablage (1938–1995)</td><td>50 Jahre; gilt nur für Ablieferung 2003/158</td></tr>
+<tr><td>E5718-01</td><td>Grenzbrigade 5: Zentrale Ablage (1938–1995)</td><td>50 Jahre; gilt nur für Ablieferung 2003/148</td></tr>
+<tr><td>E5719-03</td><td>Grenzbrigade 6: Zentrale Ablage (1938–1995)</td><td>50 Jahre; gilt nur für Ablieferung 2003/162</td></tr>
+<tr><td>E5725</td><td>Flugwaffenbrigade 31: Zentrale Ablage (1968–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5725-01</td><td>Flugwaffenbrigade 31: Büro und Kommando (1968–1981)</td><td>50 Jahre</td></tr>
+<tr><td>E5725-02</td><td>Flugwaffenbrigade 31: Büro und Kommando (1969–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5726-05</td><td>Flugplatzbrigade 32: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/189</td></tr>
+<tr><td>E5727-05</td><td>Fliegerabwehrbrigade 33: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/192</td></tr>
+<tr><td>E5728-01</td><td>Grenzbrigade 2: Zentrale Ablage (1938–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5729-01</td><td>Territorialzone 1: Zentrale Ablage (1970–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5730-04</td><td>Felddivision 8: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2003/464</td></tr>
+<tr><td>E5731</td><td>Territorialzone 2: Zentrale Ablage (1970–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5732</td><td>Gebirgsdivision 10: Zentrale Ablage (1961–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5732-03</td><td>Gebirgsdivision 10: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/285</td></tr>
+<tr><td>E5733</td><td>Gebirgsdivision 12: Zentrale Ablage (1961–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5733-04</td><td>Gebirgsdivision 12: Büro und Stab (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/280</td></tr>
+<tr><td>E5735-01</td><td>Territorialzone 4: Zentrale Ablage (1970–1995)</td><td>50 Jahre; gilt nur für Ablieferung 2003/174</td></tr>
+<tr><td>E5736</td><td>Informatikbrigade 34: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/199</td></tr>
+<tr><td>E5736-01</td><td>Informatikbrigade 34: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/197</td></tr>
+<tr><td>E5737</td><td>Festungsbrigade 13: Zentrale Ablage (1951–1994)</td><td>50 Jahre</td></tr>
+<tr><td>E5737-02</td><td>Festungsbrigade 13: Zentrale Ablage (1951–1997)</td><td>50 Jahre</td></tr>
+<tr><td>E5737-04</td><td>Festungsbrigade 13: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/310</td></tr>
+<tr><td>E5738</td><td>Festungsbrigade 23: Zentrale Ablage (1951–1995)</td><td>50 Jahre; gilt nur für Ablieferung 1999/384</td></tr>
+<tr><td>E5738-01</td><td>Festungsbrigade 23: Zentrale Ablage (1995–2003)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferungen 2004/8 und 2004/308</td></tr>
+<tr><td>E5738-02</td><td>Festungsbrigade 23: Kommando (1951–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5738-03</td><td>Festungsbrigade 23: Büro und Stab (1995–2003)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferung 2004/306</td></tr>
+<tr><td>E5739</td><td>Reduitbrigade 21: Zentrale Ablage (1948–1995)</td><td>50 Jahre; gilt nur für Ablieferung 1999/377</td></tr>
+<tr><td>E5741</td><td>Reduitbrigade 22: Zentrale Ablage (1948–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre</td></tr>
+<tr><td>E5742</td><td>Reduitbrigade 24: Zentrale Ablage (1948–1995)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td></td><td></td><td>50 Jahre; gilt nur für Ablieferung 1999/386</td></tr>
+<tr><td>E5743</td><td>Territorialzone 10: Zentrale Ablage (1970–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5744</td><td>Territorialzone 12: Zentrale Ablage (1970–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5744-01</td><td>Territorialzone 12: Kommando (1970–1995)</td><td>50 Jahre; gilt nur für die Ablieferung 2015/205</td></tr>
+<tr><td>E5747</td><td>Grenzbrigade 11: Zentrale Ablage (1951–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5748</td><td>Grenzbrigade 12: Zentrale Ablage (1951–1995)</td><td>50 Jahre; gilt nur für Ablieferung 1999/385</td></tr>
+<tr><td>E5750-01</td><td>Panzerbrigade 1: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/322</td></tr>
+<tr><td>E5751-01</td><td>Panzerbrigade 2: Büro (1996–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/352</td></tr>
+<tr><td>E5755</td><td>Telecombrigade 40: Zentrale Ablage (1996–2003)</td><td>50 Jahre; gilt nur für Az. 01 (Befehle Kommando Feldtelegrafen- und Telefondienst, Befehlssammlung Telecombrigade 40, Unbrauchbarmachung)</td></tr>
+<tr><td>E5756</td><td>Übermittlungsbrigade 41: Zentrale Ablage (1996–2003)</td><td>50 Jahre; gilt nur für Az. 03-01 (Truppeninformationsdienst), Az. 04-01 (Vorbereitung und Durchführung von Ausbildungsdiensten), Az. 04-06 (Übungen) und Az. 05-01 (Vorbereitung und Durchführung von Ausbildungsdiensten, Teil 1 und 2) in Ablieferung 2004/25</td></tr>
+<tr><td>E5757-05</td><td>Armeetruppen: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Az. 01-03-03-01 (Vorbereitung und Durchführung von Ausbildungsdiensten, Teile 1 und 2) in Ablieferung 2004/24 und für Ablieferung 2004/183</td></tr>
+<tr><td>E5757-06</td><td>Armeetruppen: Militärischer Sicherheitsdienst (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/20</td></tr>
+<tr><td>E5757-07</td><td>Armeetruppen: Büro Flughafenregiment 4 (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/180</td></tr>
+<tr><td>E5758-02</td><td>Festungsbrigade 10: Zentrale Ablage (1951–1997)</td><td>50 Jahre; gilt nur für Ablieferung 2003/171</td></tr>
+<tr><td>E5758-04</td><td>Festungsbrigade 10: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2003/476</td></tr>
+<tr><td>E5759-01</td><td>Mechanisierte Division 1: Zentrale Ablage (1961–1995)</td><td>50 Jahre; gilt nur für Ablieferungen 2003/163 und 2004/339</td></tr>
+<tr><td>E5760-02</td><td>Mechanisierte Division 4: Büro (1961–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5761-04</td><td>Territorialdivision 1: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/325</td></tr>
+<tr><td>E5762-02</td><td>Territorialdivision 4: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/110</td></tr>
+<tr><td>E5762-03</td><td>Territorialdivision 4: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/112</td></tr>
+<tr><td>E5763-02</td><td>Territorialdivision 9: Büro und Stab (1995–1999)</td><td>50 Jahre; gilt nur für Ablieferung 2004/302</td></tr>
+<tr><td>E5764-02</td><td>Territorialbrigade 12: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferungen 2004/297 und 2015/203</td></tr>
+<tr><td>E5765-03</td><td>Territorialbrigade 10: Büro (1995–2003)</td><td>50 Jahre, gilt nur für Ablieferung 2004/300</td></tr>
+<tr><td>E5766-02</td><td>Territorialdivision 2: Büro (1995–1999)</td><td>50 Jahre; gilt nur für Ablieferung 2004/172</td></tr>
+<tr><td>E5766-03</td><td>Territorialdivision 2: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/260</td></tr>
+<tr><td>E5767-01</td><td>Feldarmeekorps 1: Zentrale Ablage (1961–1994)</td><td>50 Jahre</td></tr>
+<tr><td>E5767-04</td><td>Feldarmeekorps 1: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/258</td></tr>
+<tr><td>E5767-05</td><td>Feldarmeekorps 1: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/255</td></tr>
+<tr><td>E5768-02</td><td>Feldarmeekorps 2: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2003/485</td></tr>
+<tr><td>E5768-03</td><td>Feldarmeekorps 2: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/147</td></tr>
+<tr><td>E5769-02</td><td>Gebirgsarmeekorps 3: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/293</td></tr>
+<tr><td>E5769-03</td><td>Gebirgsarmeekorps 3: Zentrale Ablage (1961–1995)</td><td>50 Jahre; gilt nur für Ablieferung 1999/381</td></tr>
+<tr><td>E5769-04</td><td>Gebirgsarmeekorps 3: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/295</td></tr>
+<tr><td>E5772-01</td><td>Felddivision 3: Kommando (1961–1995)</td><td>50 Jahre; gilt nur für Ablieferung 2003/157</td></tr>
+<tr><td>E5772-05</td><td>Felddivision 3: Büro und Stab (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/246</td></tr>
+<tr><td>E5773-05</td><td>Felddivision 5: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2003/313</td></tr>
+<tr><td>E5774-01</td><td>Felddivision 6: Büro (1961–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/123</td></tr>
+<tr><td>E5774-06</td><td>Felddivision 6: Zentrale Ablage (1961–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/125</td></tr>
+<tr><td>E5775-01</td><td>Felddivision 7: Zentrale Ablage (1961–1995)</td><td>50 Jahre</td></tr>
+<tr><td>E5775-03</td><td>Felddivision 7: Zentrale Ablage (1981–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/118</td></tr>
+<tr><td>E5775-04</td><td>Felddivision 7: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/115</td></tr>
+<tr><td>E5776</td><td>Gebirgsdivision 9</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518)*</td></tr>
+<tr><td>E5776-03</td><td>Gebirgsdivision 9: Büro und Stab (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/290</td></tr>
+<tr><td>E5778</td><td>Fliegerbrigade 31: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/187</td></tr>
+<tr><td>E5779-01</td><td>Flieger und Fliegerabwehrpark 35: Zentrale Ablage (1980–1995)</td><td>50 Jahre; gilt nur für Ablieferung 2004/417</td></tr>
+<tr><td>E5782-05</td><td>Feldarmeekorps 4: Zentrale Ablage (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/130</td></tr>
+<tr><td>E5782-06</td><td>Feldarmeekorps 4: Zentrale Ablage (1961–1998)</td><td>50 Jahre</td></tr>
+<tr><td>E5782-07</td><td>Feldarmeekorps 4: Büro (1995–2003)</td><td>50 Jahre; gilt nur für Ablieferung 2004/132</td></tr>
+<tr><td>E5795</td><td>Persönlicher Stab des Generals Guisan: Zentrale Ablage (1939–1945)</td><td>80 Jahre; gilt nur für Unterlagen zu speziell geschützter militärischer Infrastruktur gem. dem Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen, Art. 1 Abs. 1 (SR *510.518*)</td></tr>
+<tr><td>E5850.3</td><td>Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport: Handakten Samuel Schmid, Bundesrat (2001–2008)</td><td>50 Jahre</td></tr>
+<tr><td>E5900-01</td><td>Gruppe Verteidigung: Zentrale Ablage (2004–)</td><td>80 Jahre; gilt nur für die Ablieferungen 2015/82 2015/121 und 2018/44 50 Jahre; gilt nur für die Ablieferungen 2015/62, 2015/63, 2015/89, 2015/90, 2015/104, 2015/128, 2015/173, 2015/212, 2015/223, 2016/274, 2018/43, 2018/173, 2018/209, 2018/318, 2019/124, 2019/128, 2019/287 und 2020/53</td></tr>
+<tr><td>E5900-02</td><td>Diverse Unterlagen verschiedener Teilbereiche Gruppe V (2004–)</td><td>80 Jahre; gilt nur für Ablieferung 2015/126</td></tr>
+<tr><td>E5901-01</td><td>Gruppe Verteidigung: Handakten Chef der Armee, André Blattmann (2009–2016)</td><td>50 Jahre</td></tr>
+<tr><td>E6104</td><td>Kontrollstelle für die Bekämpfung der Geldwäscherei: Zentrale Ablage (1995–2008)</td><td>50 Jahre; gilt nur für Ablieferung 2008/287 und 2014/91</td></tr>
+<tr><td>E6275-01</td><td>Eidgenössisches Personalamt: Zentrale Ablage (2011–)</td><td>80 Jahre, gilt für Unterlagen unter der Planposition 316 (Beratungen)</td></tr>
+<tr><td>E6301B</td><td>Eidgenössische Steuerverwaltung: Handakten Direktor Urs Ursprung (2000–2012)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 1 und 2</td></tr>
+<tr><td>E6302A</td><td>Eidgenössische Steuerverwaltung: Wehropfer und Wehrsteuer (1918–1994)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 1, 61 und 63</td></tr>
+<tr><td>E6302B</td><td>Eidgenössische Steuerverwaltung: Direkte Bundessteuer (1995–)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 61, 62, 63, 64, 65 und 66</td></tr>
+<tr><td>E6304</td><td>Eidgenössische Steuerverwaltung: Amtshilfe USA (AHUSA I) (2008–2009)</td><td>80 Jahre</td></tr>
+<tr><td>E6306</td><td>Eidgenössische Steuerverwaltung: Abteilung für internationales Steuerrecht und Doppelbesteuerungssachen (1918–2011)</td><td>50 Jahre; gilt nur für Planpositionen D3 (Doppelbesteuerungsabkommen), D4 (Vereinbarungen für Sonderfälle), D5 (Besteuerung des diplomatischen und konsularischen Personals), D6 (Internationale Organisationen und ihre Beamten) und D7 (Bestrebungen internationaler Organisationen und Verbände zur Regelung des internationalen Steuerrechts)</td></tr>
+<tr><td>E6310</td><td>Eidgenössische Steuerverwaltung: Warenumsatzsteuer, Ausgleichssteuer, Luxussteuer (1918–1994)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 1-11, 1-12, 2-2 und 3-2</td></tr>
+<tr><td>E6310-01</td><td>Eidgenössische Steuerverwaltung: Mehrwertsteuer (1994–)</td><td>100 Jahre</td></tr>
+<tr><td>E6351G</td><td>Oberzolldirektion: Zentrale Ablage (1960–2000)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 3, 3.00, 3.00-501 bis 3.00-600 und 3.01-601 bis 3.01-615</td></tr>
+<tr><td>E6351H-01</td><td>Oberzolldirektion: Zentrale Ablage (1996–)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 3 (Zollerhebung), 441 (Lenkungsabgaben) und 442 (Automobilsteuer) sowie für Unterlagen unter der Position 62 (Fahndung (SISI))</td></tr>
+<tr><td>E6501</td><td>Bundesamt für Organisation: Betrieblich-organisatorische Bauplanung (1979–1990)</td><td>50 Jahre; gilt nur für Ablieferung 1988/160</td></tr>
+<tr><td>E6503A</td><td>Bundesamt für Informatik: Zentrale Ablage (1990–2001)</td><td>50 Jahre; gilt nur für Ablieferung 2019/250</td></tr>
+<tr><td>E6503-01</td><td>Bundesamt für Informatik und Telekommunikation: Zentrale Ablage (2001–)</td><td>50 Jahre; gilt nur für Ablieferung 2019/251</td></tr>
+<tr><td>E6520-01</td><td>Eidgenössische Bankenkommission: Altablage (1986–2001)</td><td>50 Jahre; gilt für Unterlagen zur Aufsichtstätigkeit über Finanzinstitutionen in Abl. 2014/100</td></tr>
+<tr><td>E6520-02</td><td>Eidgenössische Bankenkommission: Zentrale Ablage (2002–2004)</td><td>50 Jahre; gilt für Unterlagen zur Aufsichtstätigkeit über Finanzinstitutionen in Abl. 2014/99, 2014/106, 2014/122 & 2014/149</td></tr>
+<tr><td>E6521C</td><td>Eidgenössische Bankenkommission: Banken und Sparkassen (1997–2008)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 101, 103, 111.1, 111.3, 112.1, 112.2, 113, 12, 13, 14, 17-2, 182, und 190</td></tr>
+<tr><td>E6600-01</td><td>Staatssekretariat für internationale Finanzfragen: Zentrale Ablage (2012–)</td><td>50 Jahre; gilt nur für Unter-lagen der Hauptgruppe 4 (Bilaterale Interessenvertretung)</td></tr>
+<tr><td>E7259-01</td><td>Eidgenössisches Forschungszentrum Conthey: Zentrale Ablage (1944–2005)</td><td>50 Jahre; gilt nur für Ablieferung 2017/187</td></tr>
+<tr><td>E7310B</td><td>Delegierter für wirtschaftliche Kriegsvorsorge: Zentrale Ablage (1969–1979)</td><td>50 Jahre; gilt nur für Unterlagen unter der Planposition 159.2 (Sitzverlegungen)</td></tr>
+<tr><td>E8003</td><td>Büro für Flugunfalluntersuchungen: Zentrale Ablage (1960–)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 2 (Flugunfälle), 3 (Flugunfälle mit Schlussbericht) und 5 (Grosse Flugunfälle)</td></tr>
+<tr><td>E8003-01</td><td>Schweizerische Sicherheitsuntersuchungsstelle SUST: Zentrale Ablage (2011–)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 21 (Untersuchungen im Bereich Aviatik), 22 (Abgeschlossene Ereignisse ohne Bericht nach Immatrikulation), 23 (Ereignisse schweizerischer Luftfahrzeuge im Ausland nach Immatrikulation), 31 (Untersuchungen im Bereich öffentlicher Verkehr) und 32 (Abgeschlossene Ereignisse ohne Bericht)</td></tr>
+<tr><td>E8003-02</td><td>Unfalluntersuchungsstelle für Bahnen und Schiffe: Zentrale Ablage (2000–2011)</td><td>50 Jahre; gilt nur für Unterlagen unter den Planpositionen 31 (Untersuchungen im Bereich öffentlicher Verkehr) und 32 (Abgeschlossene Ereignisse ohne Bericht)</td></tr>
+<tr><td>E8170D</td><td>Eidgenössisches Amt für Wasserwirtschaft: Zentrale Ablage (1938–1979)</td><td>50 Jahre; gilt nur für Az. 33 (Staumauern, kriegswirt-schaftliche Massnahmen)</td></tr>
+<tr><td>E8171</td><td>Eidgenössisches Amt für Wasserwirtschaft: Teilregistratur Flussbau und Talsperren (1930–1979)</td><td>80 Jahre</td></tr>
+<tr><td>E9020</td><td>Bundesstrafgericht: Zentrale Ablage (2000–)</td><td>50 Jahre; gilt nur für die Ablieferungen 2019/292 und 2019/293</td></tr>
+<tr><td>E9500.52</td><td>Kommission für militärische Landesverteidigung: Zentrale Ablage (1968–1995)</td><td>80 Jahre</td></tr>
+<tr><td>E9500.222</td><td>Aktenkommission und Fondskommission Kinder der Landstrasse: Zentrale Ablage (1928–1993)</td><td>100 Jahre; ausser für die allgemeinen Akten in den Bänden 1-6 der Ablieferung 1993/116</td></tr>
+<tr><td>E9500.233-01</td><td>Wettbewerbskommission: Zentrale Ablage (1997–)</td><td>50 Jahre, gilt nur für Unterlagen unter der Planposition 25 (Selbstanzeige Bonusregelung (Art. 49*a* Abs. 2 KG)</td></tr>
+</table>
+
+[^annex3-lvlu1-1]: Vorbehältlich Art. 7 Abs. 1 der Parlamentsverwaltungsverordnung vom 3. Oktober 2003 ([SR 171.115](https://fedlex.data.admin.ch/eli/cc/2003/512)), d. h. dass die Protokolle der Verhandlungen über rechtsetzende Erlasse nach der Schlussabstimmung, gegebenenfalls nach Ablauf der Referendumsfrist oder der Volksabstimmung, für wissenschaftliche Zwecke und für die Rechtsanwendung zur Verfügung stehen.

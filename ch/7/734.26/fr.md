@@ -1,0 +1,462 @@
+---
+sr: "734.26"
+title: Ordonnance du 25 novembre 2015 sur les matériels électriques à basse tension (OMBT)
+short: OMBT
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/17"
+language: fr
+version: 2016-04-20
+adopted: 2015-11-25
+in_force: 2016-04-20
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/fr/xml/fedlex-data-admin-ch-eli-cc-2016-17-20160420-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20160420/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les matériels électriques à basse tension
+
+(OMBT)
+
+du 25 novembre 2015 (Etat le 20 avril 2016)
+
+Le Conseil fédéral suisse,
+
+vu les art. 3 et 55, al. 3, de la loi fédérale du 24 juin 1902 concernant les installations électriques à faible et à fort courant (LIE)[^ingress-1], en exécution de la loi fédérale du 12 juin 2009 sur la sécurité des produits (LSPro)[^ingress-2], en exécution de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> La présente ordonnance s’applique aux matériels électriques utilisés sous des tensions nominales de 50 V à 1000 V en courant alternatif et de 75 V à 1500 V en courant continu (matériels à basse tension) au sens de la directive 2014/35/UE (directive UE basse tension)[^1-1].
+
+<sup>2</sup>
+
+Elle s’applique également aux matériels électriques:
+
+- a. possédant une tension nominale inférieure à 50 V en courant alternatif et inférieure à 75 V en courant continu;
+- b. énumérés à l’annexe II de la directive UE basse tension, sauf lorsque leur sécurité électrique fait l’objet de dispositions particulières.
+
+<sup>3</sup> Les dispositions de l’ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^1-2] sont réservées.
+
+[^1-1]: Directive 2014/35/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des Etats membres concernant la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension (nouvelle version), version du JO L 96 du 29.3.2014, p. 357.
+[^1-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 2
+
+**Définitions**
+
+<sup>1</sup>
+
+Dans la présente ordonnance, on entend par:
+
+- a. *mise à disposition sur le marché:* toute fourniture, à titre onéreux ou gratuit, de matériel à basse tension destiné à être distribué, consommé ou utilisé sur le marché suisse dans le cadre d’une activité commerciale;
+- b. *mise sur le marché:* la première mise à disposition de matériel à basse tension sur le marché suisse;
+- c. *opérateur économique:* le fabricant, le mandataire, l’importateur et le distributeur;
+- d. *normes harmonisées:* normes harmonisées selon la législation sur la sécurité des produits.
+
+<sup>2</sup> La mise en service de produits à des fins professionnelles dans l’entreprise est assimilée à une mise à disposition sur le marché suisse, si cette dernière n’a pas déjà eu lieu.
+
+<sup>3</sup> Au surplus, les définitions de l’art. 2 de la directive UE basse tension[^2-1] sont applicables, sauf celle de son art. 2, ch. 9. Les équivalences terminologiques répertoriées en annexe de la présente ordonnance sont également applicables.
+
+[^2-1]: Voir la note relative à l’art. 1, al. 1.
+
+#### Art. 3
+
+**Sécurité**
+
+Les matériels à basse tension ne peuvent être mis à disposition sur le marché que s’ils sont conformes aux règles techniques reconnues et qu’ils ne mettent en danger, par un usage conforme à leur affectation, leur entretien et leur utilisation, ni la santé ni la sécurité des personnes, des animaux domestiques ou la sécurité des choses.
+
+## Chapitre 2 Mise à disposition sur le marché de matériels neufs à basse tension
+
+### Section 1 Matériels à basse tension en général
+
+#### Art. 4
+
+**Obligations**
+
+<sup>1</sup> Les obligations des opérateurs économiques sont régis par les articles 6 à 9 de la directive UE basse tension[^4-1] et les annexes I et III qui y sont mentionnées, dans la mesure où ces obligations ne découlent pas de la présente ordonnance. L’Inspection fédérale des installations à courant fort (ESTI) est l’autorité compétente en vertu de ces articles.
+
+<sup>2</sup> L’obligation d’apposer le marquage «CE» ne s’applique pas. Si le marquage «CE» est déjà apposé en conformité avec les prescriptions de l’UE sur des matériels selon l’art. 1, al. 1, il n’est pas nécessaire de l’enlever.
+
+<sup>3</sup>
+
+Un importateur ou un distributeur est considéré comme un fabricant au sens de la présente ordonnance et est soumis aux obligations correspondantes dans les cas suivants:
+
+- a. lorsqu’il met du matériel électrique à basse tension sur le marché sous son propre nom ou sa propre marque, ou
+- b. lorsqu’il modifie du matériel électrique à basse tension déjà mis sur le marché de telle sorte que la conformité de celui-ci avec la présente ordonnance peut en être affectée.
+
+[^4-1]: Voir la note relative à l’art. 1, al. 1.
+
+#### Art. 5
+
+**Exigences essentielles**
+
+<sup>1</sup> Les matériels électriques visés à l’art. 1, al. 1, ne peuvent être mis à disposition sur le marché que s’ils répondent aux objectifs de sécurité figurant à l’annexe I de la directive UE basse tension[^5-1].
+
+<sup>2</sup> Pour les matériels électriques à basse tension visés à l’art. 1, al. 2, et pour les matériels et les domaines énumérés à l’annexe II de la directive UE basse tension, les exigences essentielles prescrites à l’art. 13 sont applicables.
+
+[^5-1]: Voir la note relative à l’art. 1, al, 1.
+
+#### Art. 6
+
+**Identification des matériels**
+
+Les indications suivantes doivent figurer sur le matériel à basse tension, voire sur son emballage ou dans les documents joints lorsqu’elles ne peuvent figurer sur le matériel lui-même:
+
+- a. le numéro de type, de lot ou de série ou tout autre élément permettant l’identification du matériel;
+- b. le nom, le nom commercial ou la marque déposée du fabricant et le cas échéant de l’importateur;
+- c. l’adresse de contact de la personne visée à la lettre b.
+
+#### Art. 7
+
+**Normes techniques**
+
+<sup>1</sup> Les normes techniques[^7-1] appropriées pour concrétiser les exigences essentielles sont désignées conformément à l’art. 6 LSPro.
+
+<sup>2</sup> L’Office fédéral de l’énergie (OFEN) et, lorsque des matériels à basse tension à usage militaire sont visés, les services compétents du Département fédéral de la défense, de la protection de la population et des sports, sont compétents pour désigner ces normes, d’entente avec le Secrétariat d’Etat à l’économie.
+
+[^7-1]: Les listes des titres des normes désignées et leur texte peuvent être obtenus contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+#### Art. 8
+
+**Déclaration de conformité**
+
+<sup>1</sup> Tout opérateur économique qui met à disposition sur le marché un matériel électrique à basse tension doit pouvoir présenter une déclaration de conformité attestant que le matériel répond aux exigences.
+
+<sup>2</sup> Il doit être procédé à une évaluation de la conformité au sens de l’annexe III de la directive UE basse tension[^8-1] pour les matériels visés à l’art. 1, al. 1.
+
+<sup>3</sup> Il y a lieu d’établir une seule déclaration lorsque le matériel électrique à basse tension relève de plusieurs réglementations exigeant une déclaration de conformité. Cette déclaration doit contenir toutes les informations déterminantes pour les réglementations concernées.
+
+<sup>4</sup>
+
+La déclaration de conformité doit:
+
+- a. être rédigée dans une des langues officielles de la Suisse ou en anglais ou être traduite dans l’une de ces langues;
+- b. certifier la conformité du produit aux prescriptions applicables; pour les matériels électriques au sens de l’art. 1, al. 1, la conformité avec le droit de l’UE peut être déclarée conformément à l’annexe IV de la directive UE basse tension;
+- c.
+
+  comprendre dans tous les cas au moins les indications suivantes:
+
+  - 1\. le matériel ou modèle de matériel (avec numéro de produit, numéro de lot, numéro de type ou de série),
+  - 2\. les nom et adresse du fabricant ou de son représentant établi en Suisse;
+  - 3\. une description du matériel à basse tension et des indications sur son identification,
+  - 4\. les prescriptions et normes techniques avec version (EN) ou édition (IEC) ou autres spécifications appliquées,
+  - 5\. les nom et adresse de la personne qui signe la déclaration de conformité pour le fabricant ou pour son représentant établi en Suisse.
+
+<sup>5</sup> Elle doit être mise à jour en continu.
+
+[^8-1]: Voir la note relative à l’art. 1, al. 1.
+
+#### Art. 9
+
+**Conservation de la déclaration de conformité**
+
+La déclaration de conformité doit pouvoir être présentée durant dix ans à compter de la mise sur le marché suisse du matériel électrique à basse tension.
+
+#### Art. 10
+
+**Respect des exigences**
+
+<sup>1</sup> Les matériels à basse tension fabriqués conformément aux normes techniques visées à l’art. 7 sont présumés répondre aux objectifs de sécurité visés par ces normes ou par une partie d’entre elles.
+
+<sup>2</sup> Si ces normes ne sont que partiellement ou pas du tout appliquées, l’opérateur économique doit pouvoir prouver que les matériels à basse tension répondent d’une autre façon aux exigences essentielles.
+
+#### Art. 11
+
+**Informations à joindre au matériel**
+
+<sup>1</sup> Les opérateurs économiques joignent au matériel la notice d’utilisation et les informations nécessaires concernant la sécurité, rédigées au moins dans la ou les langues officielles du lieu où le matériel est mis à disposition sur le marché;
+
+<sup>2</sup> Des symboles peuvent être utilisés lorsqu’ils garantissent une information suffisante.
+
+#### Art. 12
+
+**Dossier technique**
+
+<sup>1</sup> L’opérateur économique doit tenir à disposition le dossier technique afin de permettre à l’organe de contrôle (art. 21 LIE) de vérifier que les exigences essentielles ont bien été respectées.
+
+<sup>2</sup>
+
+Le dossier technique doit être rédigé dans une des langues officielles de la Suisse ou en anglais, et contenir les indications suivantes:
+
+- a. une description générale du matériel;
+- b. les plans d’études ainsi que les schémas et plans d’exécution, en particulier de modules, des sous-ensembles et de circuits;
+- c. les descriptions et explications nécessaires à la compréhension des schémas et plans mentionnés ainsi que du fonctionnement des matériels;
+- d. une liste des normes appliquées intégralement ou en partie ainsi qu’une description des solutions retenues pour assurer la conformité du matériel aux objectifs de sécurité, dans la mesure où les normes désignées n’ont pas été appliquées;
+- e. les résultats des calculs de construction et des tests, y compris une évaluation appropriée des risques;
+- f. les rapports d’essai, le fabricant internes ou établis par des tiers.
+
+<sup>3</sup> Le dossier technique peut être rédigé dans une autre langue si les renseignements nécessaires pour son évaluation sont donnés dans une des langues officielles de la Suisse ou en anglais.
+
+<sup>4</sup> Le dossier technique doit pouvoir être présenté durant dix ans à compter de la mise sur le marché suisse du matériel électrique à basse tension. Lorsque celui-ci est fabriqué en série, le délai court à partir de la date de fabrication du dernier exemplaire.
+
+### Section 2 Matériels à basse tension particuliers
+
+#### Art. 13
+
+**Règles techniques reconnues**
+
+<sup>1</sup> Les matériels à basse tension qui ne sont pas visés par la directive UE basse tension[^13-1] ou qui figurent dans son annexe II ne peuvent être mis sur le marché que s’ils répondent aux règles techniques reconnues.
+
+<sup>2</sup> Les règles techniques reconnues comprennent en particulier les normes internationales harmonisées de la Commission électrotechnique internationale (IEC) et du Comité Européen de Normalisation Electrotechnique (CENELEC) ou, à défaut, les normes suisses[^13-2].
+
+<sup>3</sup> A défaut de normes techniques appropriées, on s’inspirera de normes applicables par analogie ou de directives techniques.
+
+[^13-1]: Voir la note relative à l’art. 1, al, 1.
+[^13-2]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+
+#### Art. 14
+
+**Respect des règles techniques reconnues**
+
+<sup>1</sup> Tout opérateur économique qui met à disposition sur le marché du matériel à basse tension au sens de l’art. 13, al. 1, doit pouvoir démontrer que ledit matériel répond aux règles techniques reconnues.
+
+<sup>2</sup> Pour les matériels électriques dont la tension d’exploitation ne dépasse pas 50 V en courant alternatif ou 75 V en courant continu et dont le courant de régime n’excède pas 2 A, la démonstration n’est obligatoire que si leur fonctionnement particulier ou leurs conditions d’utilisation spéciales peuvent mettre en danger des personnes ou des choses.
+
+## Chapitre 3 Apposition facultative du signe de sécurité
+
+#### Art. 15
+
+**Principe**
+
+<sup>1</sup> L’ESTI gère l’organisme de certification du signe de sécurité facultatif (art. 20).
+
+<sup>2</sup> Quiconque entend mettre à disposition sur le marché un matériel électrique muni du signe de sécurité facultatif doit obtenir une autorisation de l’organe de contrôle.
+
+#### Art. 16
+
+**Conditions d’autorisation**
+
+<sup>1</sup> L’autorisation est octroyée lorsque le fabricant, son représentant établi en Suisse ou un autre opérateur économique apporte la preuve que le matériel répond aux exigences prévues aux art. 5 ou 13.
+
+<sup>2</sup>
+
+La demande d’autorisation doit comporter:
+
+- a. une brève description du matériel;
+- b. la marque de fabrique, le type et les principales caractéristiques techniques;
+- c. la preuve de sa compatibilité électromagnétique au sens des dispositions de l’ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^16-1];
+- d. le rapport d’un organisme d’essai ou l’attestation de conformité d’un organisme d’évaluation de la conformité.
+- [tab] <sup>3</sup> L’organe de contrôle peut par ailleurs demander un échantillon du matériel et les documents techniques qui s’y rapportent.
+
+[^16-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 17
+
+**Laboratoires d’essai et organismes d’évaluation de la conformité**
+
+<sup>1</sup>
+
+Les laboratoires d’essai et les organismes d’évaluation de la conformité qui émettent des rapports ou des attestations doivent:
+
+- a. être accrédités conformément à l’ordonnance du 17 juin 1996[^17-1] sur l’accréditation et sur la désignation; ou
+- b. être reconnus en Suisse en vertu d’accords internationaux, ou
+- c. être habilités à un autre titre par le droit suisse.
+
+<sup>2</sup> Quiconque se réfère à des documents émanant d’un organisme autre que ceux visés à l’al. 1 doit démontrer que les méthodes et qualifications dudit organisme répondent aux exigences suisses (art. 18, al. 2, LETC).
+
+[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 18
+
+**Durée de validité de l’autorisation**
+
+<sup>1</sup> L’autorisation est valable cinq ans au plus.
+
+<sup>2</sup> S’il est saisi d’une demande de modification ou de renouvellement de l’autorisation, l’organe de contrôle décide s’il y a lieu d’exiger une nouvelle attestation.
+
+#### Art. 19
+
+**Retrait de l’autorisation**
+
+L’autorisation est retirée si les conditions d’octroi ne sont plus remplies.
+
+#### Art. 20
+
+**Signe de sécurité**
+
+<sup>1</sup> Le signe de sécurité facultatif a la forme suivante:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/fr/xml/image/image2.png)
+
+<sup>2</sup> S’il est techniquement impossible d’apposer le signe dans la forme définie à l’al. 1, l’organe de contrôle peut autoriser une autre forme d’apposition.
+
+## Chapitre 4 Mise à disposition sur le marché de matériels à basse tension usagés
+
+#### Art. 21
+
+<sup>1</sup> Les matériels à basse tension usagés ne peuvent être mis à disposition sur le marché que s’ils répondent aux exigences en vigueur lors de leur mise sur le marché.
+
+<sup>2</sup> Les matériels à basse tension usagés mis sur le marché suisse pour la première fois sont soumis aux dispositions régissant la mise sur le marché de matériels neufs.
+
+<sup>3</sup> Si des matériels à basse tension usagés sont transformés ou renouvelés et que ces transformations ou renouvellements concernent certains éléments essentiels à la sécurité, lesdits matériels sont soumis, quant à ces transformations ou renouvellements, aux dispositions régissant la mise sur le marché de matériels neufs.
+
+## Chapitre 5 Expositions et présentations
+
+#### Art. 22
+
+Les matériels à basse tension qui ne répondent pas aux exigences requises pour la mise à disposition sur le marché peuvent être exposés ou présentés:
+
+- a. s’il est clairement indiqué qu’il n’a pas été délivré pour ledit matériel une attestation certifiant sa conformité aux exigences légales, et qu’il ne peut donc être mis sur le marché; et
+- b. si les mesures nécessaires à la protection des personnes et des choses ont été prises.
+
+## Chapitre 6 Surveillance du marché et suivi du marché
+
+#### Art. 23
+
+**Surveillance du marché par l’organe de contrôle**
+
+<sup>1</sup> L’organe de contrôle s’assure que des matériels à basse tension mis à disposition sur le marché répondent aux prescriptions de la présente ordonnance.
+
+<sup>2</sup> A cet effet, il procède par sondages et examine les indices qui permettent raisonnablement de penser qu’un matériel ne correspond pas aux prescriptions.
+
+<sup>3</sup> Il peut demander à l’Administration des douanes de lui fournir, pendant un temps déterminé, des renseignements sur les importations de matériels à basse tension clairement désignés.
+
+<sup>4</sup> Les opérateurs économiques sont tenus de mettre à disposition de l’organe de contrôle toutes les informations nécessaires à l’exécution de la surveillance du marché et notamment de désigner sur demande les opérateurs économiques auxquels ils ont acheté ou remis du matériel électrique à basse tension. L’organe de contrôle leur impartit un délai approprié.
+
+#### Art. 24
+
+**Suivi du marchépar les opérateurs économiques**
+
+<sup>1</sup> Les opérateurs économiques vérifient si les matériels à basse tension qu’ils ont mis sur le marché ou mis à disposition sur le marché répondent aux prescriptions de la présente ordonnance, pour autant que cela soit nécessaire en raison des risques que lesdits matériels présentent pour la santé et la sécurité.
+
+<sup>2</sup> Ils procèdent le cas échéant par sondages, examinent les indices qui permettent raisonnablement de penser qu’un matériel ne correspond pas aux prescriptions et documentent leurs démarches à l’intention de l’organe de contrôle et des autres opérateurs économiques.
+
+<sup>3</sup> Lorsqu’ils constatent que du matériel ne répond pas aux prescriptions, ils prennent les mesures qui s’imposent et informent sans tarder l’organe de contrôle des défauts constatées et des mesures prises, pour autant que les risques l’exigent.
+
+#### Art. 25
+
+**Compétences de l’organe de contrôle**
+
+<sup>1</sup>
+
+Dans le cadre de la surveillance du marché, l’organe de contrôle est habilité:
+
+- a.
+
+  en vue d’établir la conformité du matériel:
+
+  - 1\. à exiger les documents et indications nécessaires et à fixer un délai correspondant, et
+  - 2\. à prélever des échantillons.
+
+- b. à pénétrer dans les locaux de l’entreprise pendant les heures de travail normales;
+- c.
+
+  à ordonner que le matériel soit soumis à des essais:
+
+  - 1\. si les documents demandés ne sont pas remis dans le délai fixé ou ne sont pas complets,
+  - 2\. si la conformité aux exigences du matériel électrique à basse tension ne ressort pas suffisamment des preuves requises aux art. 8 ou 14, ou
+  - 3\. s’il y a lieu de douter qu’un matériel électrique à basse tension soit conforme aux documents produits.
+
+<sup>2</sup> Avant d’ordonner un essai, l’organe de contrôle donne à l’opérateur économique la possibilité de s’exprimer.
+
+<sup>3</sup> Pour l’essai, il est mis gratuitement à la disposition de l’organe de contrôle un matériel électrique à basse tension que celui-ci a choisi.
+
+<sup>4</sup> Les frais occasionnés par les essais prévus à l’al. 1, let. c, sont mis à la charge de l’opérateur économique si les documents demandés ne sont pas remis dans le délai imparti, s’ils sont incomplets ou si le contrôle révèle que le matériel n’est pas conforme aux exigences requises.
+
+#### Art. 26
+
+**Mesures**
+
+<sup>1</sup> Si le contrôle ou l’essai révèle une violation des dispositions de la présente ordonnance, l’organe de contrôle prend des mesures conformément à l’art. 10, al. 2 à 5, LSPro.
+
+<sup>2</sup> L’organe de contrôle est compétent pour accorder l’entraide administrative internationale dans les limites de l’art. 22 LETC.
+
+## Chapitre 7 Emoluments et dispositions pénales
+
+#### Art. 27
+
+**Emoluments**
+
+<sup>1</sup>
+
+Conformément aux dispositions du règlement des émoluments applicable, les organes de contrôle perçoivent un émolument et mettent les frais à la charge des personnes concernées:
+
+- a. pour les contrôles, quand il apparaît que le matériel ne répond pas aux prescriptions;
+- b. pour les décisions prises au titre du contrôle des matériels électriques à basse tension.
+
+<sup>2</sup> La présente réglementation s’applique également à l’apposition facultative du signe de sécurité.
+
+#### Art. 28
+
+**Disposition pénale**
+
+Est puni conformément aux peines prévues à l’art. 55 LIE quiconque utilise sans autorisation le signe de sécurité facultatif, qu’il agisse intentionnellement ou par négligence.
+
+## Chapitre 8 Dispositions finales
+
+#### Art. 29
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension est abrogée [^29-1].
+
+[^29-1]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2].
+
+#### Art. 30
+
+**Disposition transitoire**
+
+Les matériels à basse tension mis à disposition sur le marché conformément à la précédente ordonnance en vigueur peuvent continuer d’être mis à disposition sur le marché, s’ils répondent aux exigences essentielles de la précédente ordonnance et qu’ils aient été mis sur le marché avant l’entrée en vigueur de la présente ordonnance.
+
+#### Art. 31
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 20 avril 2016.
+
+Annexe
+
+(art. 2, al. 3)
+
+## Equivalences terminologiques
+
+Pour interpréter correctement la directive UE basse tension[^annexu1-lvlu1-1], à laquelle renvoie la présente ordonnance, on appliquera les équivalences terminologiques suivantes:
+
+- a. Termes allemands
+
+<table>
+<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizerischer Markt</td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>in der Union ansässige Person</td><td>in der Schweiz niedergelassene Person</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+</table>
+
+- b. Termes français
+
+<table>
+<tr><td>UE</td><td>Suisse</td></tr>
+<tr><td>état membre</td><td>Suisse</td></tr>
+<tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
+<tr><td>Marché de l’Union</td><td>Marché suisse</td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>Personne établie dans l’Union</td><td>Personne établie en Suisse</td></tr>
+<tr><td>Importateur</td><td>Importateur</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+</table>
+
+- c. Termes italiens
+
+<table>
+<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><td>Dichiarazione di conformità UE</td><td>Dichiarazione di conformità</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio Federale</td></tr>
+<tr><td>Mercato dell’Unione</td><td>Mercato svizzero</td></tr>
+<tr><td>Persona stabilita nell’Unione</td><td>Persona domiciliata in Svizzera</td></tr>
+<tr><td>Stato membro</td><td>Svizzera</td></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+</table>
+
+[^annexu1-lvlu1-1]: Voir la note relative à l’art. 1, al. 1.

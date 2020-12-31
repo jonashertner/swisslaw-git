@@ -1,0 +1,1605 @@
+---
+sr: "743.011"
+title: Ordinanza del 21 dicembre 2006 sugli impianti a fune adibiti al trasporto di persone (Ordinanza sugli impianti a fune; OIFT)
+short: OIFT
+eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
+language: it
+version: 2020-07-01
+adopted: 2006-12-21
+in_force: 2007-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20200701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20200701/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sugli impianti a fune adibiti al trasporto di persone
+
+(Ordinanza sugli impianti a fune; OIFT)
+
+del 21 dicembre 2006 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 3 capoverso 4, 4 capoverso 1, 8 capoverso 5, 9 capoverso 5, 11 capoverso 3, 26 e 27 della legge del 23 giugno 2006[^ingress-1] sugli impianti a fune (LIFT); visti gli articoli 7 capoverso 2, 18 capoverso 2, 43 e 63 della legge del 20 marzo 2009[^ingress-2] sul trasporto di viaggiatori (LTV); in esecuzione della legge federale del 6 ottobre 1995[^ingress-3] sugli ostacoli tecnici al commercio,[^ingress-4]
+
+ordina:
+
+[^ingress-1]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+## Capitolo 1: Disposizioni generali
+
+### Sezione 1: Oggetto, campo d’applicazione e definizioni****
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza definisce le disposizioni d’esecuzione della LIFT e della LTV per quanto riguarda gli impianti di trasporto a fune. Prevede in particolare disposizioni concernenti:[^1-1]
+
+- a.[^1-2] la procedura di approvazione dei piani e il rilascio della concessione;
+- b. l’autorizzazione d’esercizio, l’organizzazione dello stesso, il personale e la direzione tecnica, l’esercizio, la manutenzione e lo smantellamento dell’impianto a fune;
+- c. la vigilanza;
+- d. gli organismi di valutazione della conformità, le procedure di valutazione della conformità e i requisiti dei periti;
+- e.[^1-3] l’immissione sul mercato di sottosistemi e componenti di sicurezza per impianti a fune;
+- f.[^1-4] la progettazione, la costruzione e la messa in servizio di nuovi impianti a fune.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^1-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^1-3]: Introdotta dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^1-4]: Introdotta dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 2
+
+**Campo d’applicazione**[^2-1]
+
+La presente ordinanza si applica a tutti gli impianti a fune che rientrano nel campo d’applicazione della LIFT.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 3
+
+**Definizioni**[^3-1]
+
+<sup>1</sup> Sono *piccoli impianti a fune* gli impianti a fune autorizzati a trasportare otto persone al massimo per direzione di marcia.
+
+<sup>2</sup> È *professionale* il trasporto di viaggiatori effettuato a scopi di lucro.
+
+<sup>3</sup> Sono *componenti rilevanti per la sicurezza* tutti i componenti dell’impianto il cui guasto o mancato funzionamento minaccia la sicurezza e la salute delle persone.
+
+<sup>4</sup> Si applicano le definizioni di cui all’articolo 3 punti 1–10, 12, 13, 16–18 e 22–27 del regolamento (UE) 2016/424[^3-2] (regolamento UE sugli impianti a fune).[^3-3]
+
+<sup>5</sup> L’*immissione sul mercato* è la prima messa a disposizione di un sottosistema o di un componente di sicurezza sul mercato svizzero.[^3-4]
+
+<sup>6</sup> Il *mandatario* è una persona stabilita in Svizzera che ha ricevuto da un fabbricante il mandato scritto di svolgere per suo conto determinati compiti.[^3-5]
+
+<sup>7</sup> L’*importatore* è una persona stabilita in Svizzera che immette sul mercato svizzero un sottosistema o un componente di sicurezza proveniente dall’estero.[^3-6]
+
+<sup>8</sup> Le definizioni di cui all’articolo 3 punti 19‒21 del regolamento UE sugli impianti a fune sono da intendersi ai sensi della legislazione svizzera in materia di sicurezza dei prodotti e accreditamento.[^3-7]
+
+<sup>9</sup>
+
+Sono *attività rilevanti per la sicurezza*:
+
+- a. l’adozione delle disposizioni necessarie in caso di guasti o incidenti;
+- b. la guida e la sorveglianza delle cabine;
+- c. la sorveglianza dell’imbarco e sbarco dei passeggeri;
+- d. il recupero di passeggeri.[^3-8]
+
+<sup>10</sup> L’*impresa di trasporto a fune* è il titolare dell’autorizzazione di esercizio.[^3-9]
+
+<sup>11</sup> Dispone di *esperienza d’esercizio nel settore degli impianti a fune* chi è addetto all’esercizio e alla manutenzione di tali tipi d’impianto.[^3-10]
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^3-2]: Regolamento (UE) 2016/424 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo agli impianti a fune e che abroga la direttiva 2000/9/CE, versione della GU L 81 del 31.3.2016, pag. 1.
+[^3-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-5]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-6]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-7]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-8]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-9]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3-10]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 3a
+
+**Disposizioni concernenti gli operatori economici**[^3a-1]
+
+<sup>1</sup>
+
+Gli obblighi degli operatori economici riportati di seguito sono retti dalle seguenti disposizioni del regolamento UE sugli impianti a fune[^3a-2]:
+
+- a. fabbricanti: articolo 11;
+- b. mandatari: articolo 12;
+- c. importatori: articolo 13;
+- d. distributori: articolo 14.
+
+<sup>2</sup> I casi in cui gli obblighi dei fabbricanti si applicano agli importatori e ai distributori sono retti dall’articolo 15 del regolamento UE sugli impianti a fune.
+
+<sup>3</sup> L’identificazione degli operatori economici nei confronti delle autorità di vigilanza è retta dall’articolo 16 del regolamento UE sugli impianti a fune.
+
+[^3a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^3a-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+
+### Sezione 2: Impianti soggetti ad autorizzazione cantonale****
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 4
+
+**Autorizzazione cantonale di costruzione e di esercizio**[^4-1]
+
+<sup>1</sup>
+
+Necessitano di un’autorizzazione cantonale di costruzione e di esercizio:
+
+- a. le sciovie;
+- b. i piccoli impianti a fune;
+- c. altri impianti, sempreché non necessitino di una concessione per il trasporto di viaggiatori.
+
+<sup>2</sup> Per attestare la sicurezza occorre presentare all’autorità competente per il rilascio dell’autorizzazione la documentazione di cui all’articolo 12 e all’allegato 1.
+
+<sup>3</sup> Per valutare la sicurezza, l’autorità competente per il rilascio dell’autorizzazione effettua i controlli di cui all’allegato 2.
+
+<sup>4</sup> I Cantoni possono emanare disposizioni complementari e deroghe, purché la LIFT e il regolamento UE sugli impianti a fune[^4-2] lo consentano.[^4-3]
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^4-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+[^4-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 4a
+
+**Autorizzazione cantonale per il trasporto di viaggiatori**[^4a-1]
+
+<sup>1</sup>
+
+Necessitano di un’autorizzazione cantonale per il trasporto di viaggiatori secondo l’articolo 7 capoversi 1 e 2 LTV:
+
+- a. le sciovie;
+- b. i piccoli impianti di trasporto a fune senza funzione di collegamento;
+- c. altri impianti, alle condizioni menzionate all’articolo 7 dell’ordinanza del 4 novembre 2009[^4a-2] sul trasporto di viaggiatori.
+
+<sup>2</sup>
+
+L’autorizzazione non può essere rilasciata se:
+
+- a. vi si oppongono interessi pubblici rilevanti della Confederazione, segnatamente in materia di pianificazione del territorio, di foreste, di protezione della natura e del paesaggio, di protezione del paese oppure di difesa nazionale; oppure
+- b. l’impianto entra in rilevante concorrenza con imprese di trasporto concessionarie.
+
+<sup>3</sup> Di regola l’autorizzazione viene rilasciata insieme all’autorizzazione di costruzione. Deve essere rilasciata al più tardi insieme all’autorizzazione di esercizio.
+
+[^4a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+
+### Sezione 3: Requisiti essenziali, disposizioni complementari, deroghe alle norme tecniche****
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 5
+
+**Requisiti essenziali**
+
+<sup>1</sup> Gli impianti a fune come pure la loro infrastruttura, i loro componenti di sicurezza e i loro sottosistemi devono soddisfare i requisiti essenziali di cui all’allegato II del regolamento UE sugli impianti a fune[^5-1].[^5-2]
+
+<sup>2</sup> L’autorità competente può accogliere le domande di approvazione dei piani o di autorizzazione di costruzione e di autorizzazione d’esercizio sulla base delle prescrizioni e delle norme vigenti alla data di ricevimento della domanda completa.[^5-3]
+
+<sup>3</sup> Componenti di sicurezza e sottosistemi possono essere messi a disposizione sul mercato solo se soddisfano i requisiti essenziali.[^5-4]
+
+<sup>4</sup> L’apposizione della marcatura CE non è obbligatoria. La marcatura CE è ammissibile purché avvenga in conformità con il diritto dell’Unione europea. L’apposizione di ulteriori indicazioni e marcature è disciplinata dall’articolo 21 punti 3 e 4 del regolamento UE sugli impianti a fune.[^5-5]
+
+[^5-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+[^5-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^5-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^5-5]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 6
+
+[^6-1]
+
+[^6-1]: Abrogato dal n. I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 6a
+
+**Deroga alle norme tecniche**[^6a-1]
+
+Chi intende mettere in esercizio impianti a fune o mettere a disposizione sul mercato sottosistemi o componenti di sicurezza che non corrispondono alle norme tecniche atte a concretizzare i requisiti essenziali, deve provare in altro modo che i requisiti essenziali sono adempiuti. Per fornire tale prova occorre dimostrare, mediante un’apposita analisi dei rischi, che il rischio complessivo non aumenta a seguito della deroga.
+
+[^6a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+### Sezione 4: Disposizioni varie****
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 7
+
+**Collegamento di nuove zone**
+
+<sup>1</sup> È possibile collegare attraverso impianti a fune nuove zone di alta montagna e ghiacciai solo se questi si trovano nel comprensorio di più grandi località turistiche e solo se sono particolarmente adatti a questo scopo.
+
+<sup>2</sup> È possibile collegare nuove zone attraverso impianti a fune solo se ciò comporta un’importante valorizzazione del territorio.
+
+<sup>3</sup> È vietato collegare attraverso impianti a fune paesaggi di particolare pregio.
+
+#### Art. 8
+
+**Funi**[^8-1]
+
+<sup>1</sup> D’intesa, per quanto possibile, con il servizio tecnico di controllo del Concordato intercantonale per teleferiche e sciovie non soggette a concessione federale (CITS), il DATEC emana prescrizioni sulla fabbricazione, il controllo, il montaggio e la manutenzione delle funi.
+
+<sup>2</sup> Gli organi di controllo delle funi abilitati a eseguire controlli distruttivi e non distruttivi devono essere accreditati come tali dal Servizio di accreditamento svizzero.
+
+<sup>3</sup> D’intesa, per quanto possibile, con il servizio tecnico di controllo del CITS, il DATEC stabilisce in quali casi occorra rivolgersi a un organo di controllo delle funi accreditato.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 9
+
+[^9-1]
+
+[^9-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 10
+
+**Statistica e pubblicazione dei dati**
+
+<sup>1</sup> I dati destinati alla statistica dei trasporti pubblici sono raccolti conformemente all’ordinanza del 30 giugno 1993[^10-1] sull’esecuzione di rilevazioni statistiche federali.
+
+<sup>2</sup> Le prestazioni d’esercizio, le prestazioni di trasporto e l’effettivo del personale delle imprese di trasporto a fune possono essere resi pubblici.
+
+[^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+
+## Capitolo 2: Costruzione e modifica di impianti a fune soggetti a concessione federale****
+
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+### Sezione 1: Procedura d’approvazione dei piani****
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 11
+
+**Domanda**
+
+<sup>1</sup>
+
+Assieme alla domanda di approvazione dei piani, occorre presentare all’Ufficio federale dei trasporti (UFT):[^11-1]
+
+- a.[^11-2] in merito alla sicurezza, i documenti di cui all’allegato 1;
+- b. per impianti a fune con più di 8 posti a sedere per unità di trasporto, i documenti concernenti i diritti dei disabili;
+- c.[^11-3] per impianti di nuova costruzione, impianti sostitutivi e modifiche di cui all’articolo 2 dell’ordinanza del 19 ottobre 1988[^11-4] concernente l’esame dell’impatto sull’ambiente, un rapporto sull’impatto ambientale secondo l’articolo 10*b* della legge del 7 ottobre 1983[^11-5] sulla protezione dell’ambiente;
+- d.[^11-6] un rapporto concernente il rispetto della pianificazione del territorio, attento in particolare alla conformità con i piani direttori e i piani d’utilizzazione;
+- e. le prove che sono stati acquisiti o assicurati i diritti necessari alla costruzione e all’esercizio dell’impianto;
+- f. i documenti necessari per valutare il rispetto delle altre prescrizioni determinanti; e
+- g. la domanda di concessione.
+
+<sup>2</sup> La documentazione acclusa alla domanda di cui al capoverso 1 consente all’UFT di valutare se le disposizioni sono rispettate e se le condizioni per il rilascio dell’autorizzazione e della concessione sono soddisfatte. Menziona eventuali deroghe alle norme tecniche.
+
+<sup>3</sup> L’UFT può rinunciare a determinati documenti se essi non si rivelano necessari in considerazione del genere di impianto o delle caratteristiche del singolo caso.
+
+<sup>4</sup> In caso di procedura semplificata l’UFT stabilisce di volta in volta l’ampiezza della documentazione da presentare.
+
+<sup>5</sup> Se i documenti sono incompleti o imprecisi, l’UFT accorda al richiedente la possibilità di completarli o riformularli in modo più accurato.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-4]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^11-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^11-6]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 12
+
+**Analisi di sicurezza e rapporto di sicurezza[^12-1]**
+
+<sup>1</sup> L’analisi di sicurezza e il rapporto di sicurezza sono disciplinati dall’articolo 8 del regolamento UE sugli impianti a fune[^12-2].[^12-3]
+
+<sup>2</sup> Il rapporto di sicurezza illustra le misure in grado di ovviare ai rischi e di garantire che l’impianto a fune previsto rispetti le disposizioni di sicurezza e ottenga il relativo attestato (art. 26).
+
+<sup>3</sup> Il rapporto di sicurezza elenca tutti i componenti di sicurezza e i sottosistemi dell’impianto a fune e tutti i componenti dell’infrastruttura rilevanti ai fini della sicurezza.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^12-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+[^12-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 13
+
+**Picchettamento**[^13-1]
+
+<sup>1</sup>
+
+Per il picchettamento si applicano le seguenti disposizioni:
+
+- a. le aree destinate a misure compensatrici secondo l’articolo 18 della legge federale del 1° luglio 1966[^13-2] sulla protezione della natura e del paesaggio sono segnalate;
+- b. i bordi esterni dei fabbricati e delle costruzioni di genio civile appartenenti all’impianto sono segnalati da profili; nel caso dei sostegni, al di fuori delle zone residenziali sono segnalate solo le ubicazioni e gli angoli delle fondazioni.
+
+<sup>2</sup> L’UFT può esigere che l’altezza dei sostegni sia segnalata anche al di fuori delle zone residenziali.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^13-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+
+#### Art. 14
+
+**Costi di pubblicazione**
+
+Il richiedente assume i costi relativi alla pubblicazione della domanda negli organi ufficiali dei Cantoni e dei Comuni.
+
+#### Art. 15
+
+**Termini di disbrigo**
+
+<sup>1</sup>
+
+Di norma, l’UFT tratta la domanda di approvazione dei piani e la domanda di concessione entro:
+
+- a. nove mesi, per la procedura ordinaria di approvazione dei piani;
+- b. 18 mesi, se sono necessarie espropriazioni;
+- c. tre mesi, per la procedura semplificata.
+
+<sup>2</sup> Il termine di disbrigo è calcolato a partire dal momento in cui l’UFT riceve la documentazione completa concernente la domanda.
+
+#### Art. 16
+
+**Valutazione dei documenti da parte dell’UFT**
+
+Nel quadro della procedura di approvazione dei piani, l’UFT valuta la documentazione presentata come segue:
+
+- a. per accertare la sicurezza, esegue i controlli di cui all’allegato 2;
+- b. esamina il rispetto delle altre disposizioni.
+
+#### Art. 17
+
+**Collaudo ecologico**
+
+L’UFT può vincolare l’approvazione dei piani alla condizione di provare, al più tardi entro cinque anni dalla messa in servizio dell’impianto, che le misure richieste a tutela dell’ambiente siano state applicate correttamente e abbiano ottenuto gli effetti desiderati.
+
+#### Art. 18
+
+**Inizio della costruzione**
+
+<sup>1</sup> ...[^18-1]
+
+<sup>2</sup>
+
+Una volta approvati i piani, l’UFT può autorizzare l’inizio immediato della costruzione dell’impianto o di parti dell’impianto, purché:[^18-2]
+
+- a.[^18-3] non vi siano opposizioni inevase;
+- b. il Cantone interessato e i servizi competenti della Confederazione non abbiano sollevato obiezioni; e
+- c. l’inizio dei lavori non comporti alcuna modifica irreversibile.
+
+[^18-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 19
+
+**Decisioni intermedie e decisioni parziali**
+
+A condizione che esista un interesse legittimo, il richiedente può domandare che l’UFT decida in anticipo su singole parti della domanda di approvazione dei piani.
+
+### Sezione 2: Concessione
+
+#### Art. 19a
+
+**Condizioni per il rilascio**[^19a-1]
+
+<sup>1</sup> La concessione può essere rilasciata solo se l’impresa adempie le condizioni per il suo rilascio.
+
+<sup>2</sup> Il richiedente deve provare che dispone dei diritti necessari all’utilizzazione delle vie di comunicazione.
+
+<sup>3</sup>
+
+Per la valutazione dei punti elencati il richiedente deve fornire le seguenti indicazioni:
+
+- a. opportunità dell’offerta: indicazioni sul tipo, l’ubicazione, la capacità di trasporto e la raggiungibilità dell’impianto;
+- b.
+
+  economicità dell’offerta: indicazioni su:
+
+  - 1\. la domanda prevista,
+  - 2\. la domanda sufficiente a coprire i costi d’esercizio,
+  - 3\. l’attrezzatura turistica esistente e quella prevista nell’ambito dell’offerta programmata,
+  - 4\. il finanziamento previsto,
+  - 5\. il risultato economico previsto,
+  - 6\. la copertura dei costi per la manutenzione e l’ammortamento degli edifici, degli impianti e dei veicoli;
+
+- c.
+
+  assenza di situazioni di concorrenza svantaggiose per l’economia pubblica; indicazioni su:
+
+  - 1\. il tipo di offerta di trasporto esistente nella regione e il suo utilizzo,
+  - 2\. un eventuale notevole peggioramento dell’offerta di trasporto esistente imputabile alla nuova offerta.
+
+<sup>4</sup> Il richiedente deve garantire il rispetto delle disposizioni di legge.
+
+[^19a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 20
+
+**Domanda**[^20-1]
+
+<sup>1</sup> Assieme alla domanda di concessione il richiedente deve presentare all’UFT la domanda di approvazione dei piani.
+
+<sup>2</sup>
+
+Con la domanda per il primo rilascio della concessione occorre presentare:
+
+- a. una valutazione della redditività corredata di un piano di investimento e un piano di finanziamento corredato delle relative prove;
+- b. un piano economico e un bilancio di previsione per il quinquennio successivo;
+- c. i rapporti d’esercizio degli ultimi cinque anni;
+- d. altri documenti necessari per valutare se le condizioni per il rilascio della concessione sono soddisfatte.
+
+<sup>3</sup> L’UFT stabilisce nel caso singolo i documenti da presentare secondo il capoverso 2 lettera d.
+
+<sup>4</sup> Determina nel caso singolo in quanti esemplari cartacei deve essere presentata la domanda e in che misura questa deve essere inoltrata in forma elettronica.
+
+<sup>5</sup> Sono applicabili le disposizioni dell’articolo 11 capoversi 3 e 5.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 20a
+
+**Consultazione**[^20a-1]
+
+I Cantoni e le cerchie interessate vengono consultati nell’ambito della procedura di approvazione dei piani.
+
+[^20a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 20b
+
+**Durata**[^20b-1]
+
+<sup>1</sup> La concessione è rilasciata o rinnovata per 40 anni.
+
+<sup>2</sup>
+
+Può essere rilasciata o rinnovata per una durata inferiore se ciò è giustificato da importanti motivi, segnatamente se:
+
+- a. il richiedente lo richiede;
+- b. è prevedibile che le condizioni di rilascio saranno adempiute per un periodo inferiore a 40 anni.
+
+[^20b-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 21
+
+**Rinnovo**[^21-1]
+
+<sup>1</sup> La domanda di rinnovo della concessione deve essere inoltrata all’UFT al più tardi tre mesi prima della scadenza della concessione.
+
+<sup>2</sup> La concessione può essere rinnovata se dalle conoscenze disponibili sulle modifiche dell’impianto o dell’ambiente circostante risulta che al rinnovo non si oppongono interessi pubblici preponderanti.
+
+<sup>3</sup> A tal fine l’UFT consulta il richiedente e i Cantoni interessati.
+
+<sup>4</sup> I Cantoni informano l’UFT su tutti gli elementi che possono essere rilevanti ai fini della valutazione degli interessi pubblici, in particolare sui cambiamenti intervenuti nella pianificazione del territorio dal rilascio della concessione.
+
+<sup>5</sup> L’UFT stabilisce nel caso singolo l’ampiezza della documentazione da accludere alla domanda.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 22
+
+**Modifica**
+
+<sup>1</sup> La concessione può essere modificata alle condizioni cui sottostà il suo rilascio.
+
+<sup>2</sup> L’UFT stabilisce caso per caso l’ampiezza della documentazione da accludere alla domanda.
+
+<sup>3</sup> Un aumento della capacità oraria inferiore al 30 per cento e alle 300 persone non è considerato come una modifica.
+
+<sup>4</sup> Non è necessaria una modifica della concessione se, per al massimo un anno, la prestazione di trasporto è fornita del tutto o in parte con un mezzo di trasporto diverso da quello previsto nella concessione. Su richiesta, l’UFT può prorogare il termine.[^22-1]
+
+[^22-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 23
+
+**Trasferimento**
+
+Su domanda, l’UFT può trasferire la concessione a un’altra persona, previo accordo del titolare, purché questa soddisfi le condizioni previste per il rilascio.
+
+#### Art. 23a
+
+**Contratto d’esercizio**[^23a-1]
+
+<sup>1</sup> Il titolare della concessione può trasferire a terzi singoli diritti e obblighi, in particolare quelli relativi all’esecuzione delle corse, mediante un contratto d’esercizio.
+
+<sup>2</sup> Il titolare continua a essere responsabile nei confronti della Confederazione dell’adempimento degli obblighi.
+
+<sup>3</sup> Se sono trasferiti diritti e obblighi riguardanti un’offerta di trasporto cofinanziata dall’ente pubblico, le prescrizioni relative alla presentazione dei conti di cui all’articolo 35 LTV si applicano anche all’impresa incaricata.
+
+<sup>4</sup> Su richiesta, i contratti d’esercizio sono inviati all’UFT per informazione.
+
+[^23a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 24
+
+**Fine della concessione**[^24-1]
+
+<sup>1</sup> La concessione può essere soppressa su richiesta del suo titolare. Gli obblighi di trasporto, quelli relativi all’orario e all’esercizio valgono fino alla soppressione della concessione.
+
+<sup>2</sup> La concessione è ritirata se le condizioni previste per il suo rilascio non sono più soddisfatte. Può essere ritirata se l’autorizzazione d’esercizio è stata revocata.
+
+<sup>3</sup>
+
+L’autorizzazione si estingue:
+
+- a. alla sua scadenza;
+- b. alla sua soppressione;
+- c. al suo ritiro;
+- d. alla sua revoca;
+- e. tre anni dopo l’estinzione dell’autorizzazione d’esercizio.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 25
+
+**Consultazione dei Cantoni**[^25-1]
+
+<sup>1</sup> Prima del rinnovo, della modifica, del trasferimento, del ritiro o della revoca di una concessione i Cantoni coinvolti devono essere consultati.
+
+<sup>2</sup> La consultazione dei Comuni compete ai Cantoni.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 25a
+
+**Designazione ufficiale**[^25a-1]
+
+<sup>1</sup> L’UFT stabilisce la designazione ufficiale e le iniziali dell’impresa d’intesa con quest’ultima.
+
+<sup>2</sup> La designazione ufficiale e le iniziali dell’impresa sono vincolanti per le pubblicazioni degli orari e delle tariffe.
+
+[^25a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+## Capitolo 3: Esercizio
+
+### Sezione 1: Autorizzazione d’esercizio
+
+#### Art. 26
+
+**Attestato di sicurezza**
+
+<sup>1</sup> Il richiedente è tenuto a dimostrare che l’impianto a fune soddisfa i requisiti essenziali e le altre disposizioni.
+
+<sup>2</sup>
+
+A tal fine:
+
+- a. presenta gli attestati di conformità (art. 28) e i rapporti di periti (art. 29) necessari;
+- b.[^26-1] prova che l’impianto a fune è stato costruito, trasformato o modificato conformemente alle disposizioni (art. 30);
+- c. presenta gli ulteriori documenti di cui all’allegato 3.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 27
+
+**Controlli svolti da organismi indipendenti**
+
+I componenti rilevanti ai fini della sicurezza devono essere controllati da un organismo indipendente; esso verifica che tali componenti soddisfino i requisiti essenziali. Fornisce un attestato di conformità o un rapporto di perizia[^27-1].
+
+[^27-1]: Nuova espressione giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 28
+
+**Attestato di conformità**[^28-1]
+
+<sup>1</sup>
+
+Occorre un attestato di conformità per:
+
+- a. ogni componente di sicurezza;
+- b. ogni sottosistema.
+
+<sup>2</sup>
+
+All’attestato di conformità per un sottosistema devono essere allegati i seguenti documenti tecnici:
+
+- a. le dichiarazioni di conformità per i componenti di sicurezza presenti nel sottosistema;
+- b. un disegno d’insieme del sottosistema che mostri le possibili disposizioni dei componenti di sicurezza al suo interno;
+- c. un elenco delle caratteristiche che definiscono il campo di impiego del sottosistema;
+- d. le istruzioni di funzionamento e di manutenzione, oppure le indicazioni per la loro redazione.
+
+<sup>3</sup> Se necessario, l’autorità competente per il rilascio dell’autorizzazione può richiedere altri documenti, in conformità con l’articolo 11 paragrafo 2 e l’allegato VIII del regolamento UE sugli impianti a fune[^28-2].
+
+<sup>4</sup> I documenti presentati devono essere redatti in una lingua ufficiale della Confederazione oppure in inglese.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^28-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+
+#### Art. 29
+
+**Rapporti di periti**
+
+<sup>1</sup> Occorre un rapporto di perizia per verificare
+
+- a. la convenzione d’utilizzazione[^29-1] e la base del progetto;
+- b. i punti di contatto tra i sottosistemi e tra i sottosistemi e l’infrastruttura;
+- c. le prove della solidità, della resistenza alla fatica e dell’idoneità dei componenti rilevanti ai fini della sicurezza.
+
+<sup>2</sup> Nel redigere il rapporto di perizia secondo il capoverso 1 lettera a devono essere considerate le conclusioni delle perizie sui fattori ambientali.[^29-2]
+
+<sup>3</sup>
+
+Nel caso di trasformazioni e modifiche il rapporto di perizia è necessario unicamente:
+
+- a. per la parte dell’impianto trasformata o modificata;
+- b. se la trasformazione o la modifica può ripercuotersi sul resto dell’impianto o sull’esercizio.[^29-3]
+
+[^29-1]: Nuova espressione giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^29-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^29-3]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 30
+
+**Prova della realizzazione conforme alle prescrizioni e dell’idoneità all’esercizio**[^30-1]
+
+<sup>1</sup>
+
+Il richiedente è tenuto a provare all’autorità competente per il rilascio dell’autorizzazione, fornendo una dichiarazione in merito, che l’impianto a fune nella sua interezza:
+
+- a. è stato realizzato conformemente alle disposizioni; e
+- b. può essere gestito in modo sicuro.
+
+<sup>2</sup> La dichiarazione del richiedente può basarsi sulle dichiarazioni dei costruttori.
+
+<sup>3</sup>
+
+Il richiedente deve provare, fornendo all’autorità competente per il rilascio dell’autorizzazione le dichiarazioni di conformità del fabbricante di cui all’articolo 19 e all’allegato IX del regolamento UE sugli impianti a fune[^30-2], che le parti seguenti sono state realizzate conformemente ai requisiti essenziali di cui all’allegato II del regolamento UE sugli impianti a fune:
+
+- a. i componenti di sicurezza;
+- b. i sottosistemi di cui all’allegato I del regolamento UE sugli impianti a fune.[^30-3]
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^30-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+[^30-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 31
+
+[^31-1]
+
+[^31-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 32
+
+**Modifiche di progetto prima dell’autorizzazione d’esercizio**
+
+<sup>1</sup> Se il progetto è modificato prima dell’autorizzazione d’esercizio, i documenti interessati da tale cambiamento devono essere aggiornati e ripresentati.
+
+<sup>2</sup> In caso di modifica del progetto, l’autorità competente per il rilascio dell’autorizzazione decide se e in che misura debba essere aperta una nuova procedura di approvazione dei piani, oppure una nuova procedura cantonale di autorizzazione.
+
+#### Art. 33
+
+**Controllo da parte dell’autorità competente per il rilascio dell’autorizzazione**
+
+<sup>1</sup> L’autorità competente per il rilascio dell’autorizzazione controlla che siano stati presentati tutti i documenti necessari per l’attestato di sicurezza.[^33-1]
+
+<sup>2</sup>
+
+Controlla, per campionatura e in funzione dei rischi:
+
+- a. i rapporti di periti;
+- b. che i componenti di sicurezza e i sottosistemi siano utilizzati in modo conforme;
+- c. che l’impianto, così come è stato costruito, soddisfi i requisiti essenziali.
+
+[^33-1]: [RU 2010 4011](https://fedlex.data.admin.ch/eli/oc/2010/577)
+
+#### Art. 34
+
+**Trasporto di persone prima del rilascio dell’autorizzazione d’esercizio**
+
+Prima del rilascio dell’autorizzazione d’esercizio possono essere trasportate con un impianto a fune solo le persone che partecipano alla costruzione o alla prova. La premessa è che il costruttore acconsenta.
+
+#### Art. 35
+
+**Annuncio della messa in esercizio**
+
+<sup>1</sup> Prima del rilascio dell’autorizzazione è possibile annunciare pubblicamente la data della messa in esercizio solo a condizione di menzionare esplicitamente che la relativa autorizzazione non è ancora stata ottenuta.
+
+<sup>2</sup> L’autorità competente per il rilascio dell’autorizzazione non è vincolata da tale annuncio.
+
+#### Art. 35a
+
+**Rilascio dell’autorizzazione d’esercizio**[^35a-1]
+
+<sup>1</sup> Le autorizzazioni d’esercizio vengono rilasciate previa domanda.
+
+<sup>2</sup> Esse sono valide a tempo indeterminato.
+
+<sup>3</sup> Le autorizzazioni d’esercizio cantonali possono essere rilasciate a tempo determinato.
+
+[^35a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 36
+
+**Trasformazioni e modifiche dopo il rilascio dell’autorizzazione d’esercizio**[^36-1]
+
+<sup>1</sup> Se l’impresa di trasporto a fune prevede di modificare l’impianto a fune o l’esercizio, è tenuta a presentare previamente una domanda all’autorità competente per il rilascio dell’autorizzazione; fanno eccezione le modifiche di cui all’articolo 36*a*.[^36-2]
+
+<sup>2</sup> L’autorità competente per il rilascio dell’autorizzazione comunica al richiedente la procedura da seguire e la documentazione da presentare.
+
+<sup>3</sup> Se l’approvazione dei piani o l’autorizzazione d’esercizio esistente non contempla modifiche dell’impianto a fune o dell’esercizio, occorre chiedere l’adeguamento della rispettiva autorizzazione oppure il rilascio di una nuova approvazione dei piani e dell’autorizzazione d’esercizio.[^36-3]
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^36-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^36-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 36a
+
+**Modifiche non soggette ad approvazione e ad autorizzazione**[^36a-1]
+
+<sup>1</sup> Le modifiche dell’impianto a fune o dell’esercizio non sono soggette ad approvazione e ad autorizzazione se soddisfano le condizioni di cui all’articolo 15*a* capoverso 1 LIFT e se non sono sostanziali.
+
+<sup>2</sup>
+
+Non sono sostanziali le modifiche tecniche che non incidono sui punti di contatto con il resto dell’impianto né sul calcolo delle funi e che:
+
+- a. interessano esclusivamente un sottosistema;
+- b. interessano un componente infrastrutturale rilevante per la sicurezza, ma non comportano una modifica del sistema portante o del comportamento strutturale; oppure
+- c. non riguardano alcun componente di sicurezza e alcun componente rilevante per la sicurezza.
+
+<sup>3</sup> Le modifiche dell’esercizio non sono sostanziali se non implicano rischi che incidono negativamente sulla sicurezza dell’impianto.
+
+<sup>4</sup> L’attestato di sicurezza di cui all’articolo 26 deve essere tenuto aggiornato.
+
+[^36a-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 37
+
+**Sostituzione di componenti dello stesso tipo**
+
+<sup>1</sup> Se un componente rilevante ai fini della sicurezza è sostituito con un componente dello stesso tipo, il gestore è tenuto a provare che esso è stato costruito conformemente alle disposizioni.
+
+<sup>2</sup> A titolo di prova deve essere presentata una dichiarazione di conformità del fabbricante e, se necessario, un attestato di conformità valido oppure un rapporto di perizia valido e documenti che attestano in modo verificabile che si tratta di un componente dello stesso tipo.[^37-1]
+
+[^37-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 38
+
+[^38-1]
+
+[^38-1]: Abrogato dal n. I dell’O dell’11 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 39
+
+**Trasferimento dell’autorizzazione d’esercizio**[^39-1]
+
+<sup>1</sup> L’autorità competente per il rilascio dell’autorizzazione d’esercizio può trasferirla a un’altra persona. Questa deve farne domanda.
+
+<sup>2</sup> Nella domanda, la persona deve provare il consenso del titolare dell’autorizzazione.
+
+<sup>3</sup>
+
+La domanda, inoltre, deve:
+
+- a. essere corredata dai documenti di cui all’articolo 17 capoverso 3 lettere d ed e LIFT;
+- b. essere corredata dai documenti di cui all’articolo 57 capoverso 1;
+- c. provare che la persona possiede una visione globale dello stato delle costruzioni, degli impianti e dei veicoli.
+
+<sup>4</sup> Il titolare dell’autorizzazione d’esercizio non ha il diritto di affidare la gestione a terzi.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 40
+
+**Fine dell’autorizzazione[^40-1]**
+
+<sup>1</sup> Su richiesta del suo titolare, l’autorizzazione d’esercizio può essere soppressa.
+
+<sup>2</sup> L’autorizzazione d’esercizio può essere revocata conformemente all’articolo 60 capoverso 3.
+
+<sup>3</sup>
+
+L’autorizzazione si estingue:
+
+- a. alla sua scadenza;
+- b. alla sua soppressione;
+- c. alla sua revoca;
+- d. tre anni dopo la sospensione dell’esercizio regolare e professionale.[^40-2]
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^40-2]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+### Sezione 2: Organizzazione dell’esercizio
+
+#### Art. 41
+
+**Requisiti generali**[^41-1]
+
+<sup>1</sup> L’impresa di trasporto a fune è responsabile degli aspetti dell’esercizio e della manutenzione dell’impianto a fune rilevanti per la sicurezza.
+
+<sup>2</sup> L’organizzazione dell’esercizio e della manutenzione dell’impianto a fune (organizzazione dell’esercizio) è adeguata alle dimensioni, alle particolarità tecniche dell’impianto e ai rischi legati alla sua ubicazione; garantisce inoltre uno svolgimento impeccabile dei compiti.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 42 e43
+
+[^4243-1]
+
+[^4243-1]: Abrogati dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 44
+
+**Organizzazione di recupero in linea**
+
+<sup>1</sup> L’impresa di trasporto a fune è tenuta a dimostrare che il recupero in linea è realizzabile in qualsiasi momento, in tutti i regimi d’esercizio ammissibili, rapidamente e in modo sicuro.
+
+<sup>2</sup> A tale scopo effettua apposite esercitazioni almeno una volta all’anno nella misura necessaria.[^44-1]
+
+[^44-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+### Sezione 3: Personale e direzione tecnica
+
+#### Art. 45
+
+**Personale**
+
+<sup>1</sup> L’impresa di trasporto a fune può affidare l’esercizio e la manutenzione esclusivamente a personale formato a tal fine, la cui idoneità è stata verificata e che ha dimestichezza con l’impianto a fune e la sua manovra.
+
+<sup>2</sup> In caso di indizi concreti, l’impresa di trasporto a fune controlla lo stato di salute del personale cui sono affidati compiti rilevanti ai fini della sicurezza.
+
+<sup>3</sup> L’effettivo del personale deve essere in grado di garantire un esercizio sicuro e una manutenzione conforme alle prescrizioni.
+
+<sup>4</sup> ...[^45-1]
+
+[^45-1]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 46
+
+**Direzione tecnica**[^46-1]
+
+<sup>1</sup> Il capotecnico deve possedere le conoscenze e l’esperienza necessarie all’esercizio e alla manutenzione di costruzioni, impianti e veicoli.
+
+<sup>2</sup> Assume la responsabilità operativa per gli aspetti dell’esercizio e della manutenzione dell’impianto a fune rilevanti per la sicurezza nella misura in cui l’impresa di trasporto a fune gli ha attribuito le relative competenze e messo a disposizione le relative risorse.
+
+<sup>3</sup> Non deve subire conseguenze negative a causa del regolare adempimento dei compiti affidatigli nel rapporto d’impiego.
+
+<sup>4</sup> Può assumere anche la funzione di capo dell’esercizio.
+
+<sup>5</sup> Designa il personale addetto all’esercizio e alla manutenzione e attesta che l’istruzione del personale è adeguata. La designazione e le attestazioni devono essere costantemente aggiornate.
+
+<sup>6</sup> l capotecnico può affidare la responsabilità operativa a un sostituto solo nella misura in cui quest’ultimo è stato adeguatamente istruito per le attività corrispondenti e vanta sufficiente esperienza.
+
+<sup>7</sup> In caso di guasti o incidenti, il capotecnico o il suo sostituto prendono le necessarie disposizioni.
+
+[^46-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 46a
+
+**Capitecnici**[^46a-1]
+
+<sup>1</sup>
+
+I capitecnici di impianti soggetti a concessione federale devono:
+
+- a. possedere un attestato professionale federale di specialista degli impianti di trasporto a fune; e
+- b. disporre di due anni di esperienza d’esercizio nel settore degli impianti di trasporto a fune.
+
+<sup>2</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione può riconoscere attestati equivalenti conseguiti all’estero[^46a-2].
+
+[^46a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^46a-2]: I fornitori di servizi che possono avvalersi dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) oppure della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS; [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) devono dichiararsi all’autorità competente in conformità con la procedura stabilita nella legge federale del 14 dicembre 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate ([RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)).
+
+#### Art. 46b
+
+**Sostituti dei capitecnici**[^46b-1]
+
+I sostituti dei capitecnici di impianti soggetti a concessione federale devono:
+
+- a. possedere un attestato professionale federale di specialista degli impianti di trasporto a fune;
+- b. aver svolto una formazione professionale di base nell’industria metalmeccanica, dei macchinari o elettrica, o essere in possesso di un diploma di laurea triennale in ingegneria in ambito tecnico, e disporre di due anni di esperienza d’esercizio nel settore degli impianti di trasporto a fune; oppure
+- c. disporre di quattro anni di esperienza d’esercizio nel settore degli impianti di trasporto a fune.
+
+[^46b-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 46c
+
+**Capitecnici di impianti a fune soggetti ad autorizzazione cantonale**[^46c-1]
+
+Per gli impianti a fune soggetti ad autorizzazione cantonale di costruzione e d’esercizio, i Cantoni emanano prescrizioni concernenti la formazione e l’esperienza d’esercizio dei capitecnici e dei loro sostituti. A tale scopo, consultano preventivamente il servizio tecnico di controllo del CITS e l’associazione Funivie Svizzere.
+
+[^46c-1]: Introdotto dal n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 47
+
+**Doveri delle imprese di trasporto a fune**[^47-1]
+
+<sup>1</sup> L’impresa di trasporto a fune nomina un capotecnico e almeno un suo sostituto e ne comunica i nominativi all’autorità di vigilanza.
+
+<sup>2</sup> Assicura che il capotecnico e il suo sostituto dispongano durevolmente delle conoscenze necessarie nel loro settore di attività; in particolare assicura che siano sempre informati sulle regole riconosciute della tecnica come pure sulle prescrizioni e norme applicabili.
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 47a
+
+**Divieto di esercitare l’attività**[^47a-1]
+
+L’autorità di vigilanza vieta a una persona, a tempo indeterminato, di esercitare l’attività di capotecnico, ovvero di sostituto del capotecnico, se:
+
+- a. le capacità fisiche o psichiche non le consentono più di svolgere un’attività rilevante per la sicurezza;
+- b. la persona in questione soffre di una forma di dipendenza che potrebbe compromettere l’idoneità a svolgere l’attività rilevante per la sicurezza;
+- c. per il suo precedente comportamento, non dà garanzie che in futuro rispetterà le prescrizioni nello svolgimento dell’attività rilevante per la sicurezza.
+
+[^47a-1]: Introdotto dal n. I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+### Sezione 3*a*:**** Capacità di prestare servizio
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 47b
+
+**Autodisciplina e notifica di capacità compromesse**
+
+Se una persona incaricata di svolgere attività rilevanti per la sicurezza ritiene che le proprie capacità siano compromesse in misura tale da renderla incapace di garantire la sicurezza deve:
+
+- a. rinunciare immediatamente a svolgere qualsiasi attività rilevante per la sicurezza;
+- b. notificarlo immediatamente al proprio superiore.
+
+#### Art. 47c
+
+**Interdizione di svolgere attività rilevanti per la sicurezza**
+
+<sup>1</sup> L’impresa deve interdire a una persona incaricata di attività rilevanti per la sicurezza lo svolgimento di tali attività, se tale persona è incapace di prestare servizio a seguito di malattie o infermità fisiche o psichiche, alcolismo o altre forme di dipendenza o per altre ragioni.
+
+<sup>2</sup> I dipendenti di un’impresa non devono consentire che una persona incapace di prestare servizio svolga attività rilevanti per la sicurezza.
+
+#### Art. 47d
+
+**Incapacità di prestare servizio per influsso alcolico o di altre sostanze**
+
+<sup>1</sup>
+
+Una persona che svolge attività rilevanti per la sicurezza è considerata incapace di prestare servizio per influsso alcolico (ebrietà) se:
+
+- a. presenta una concentrazione di alcol nel sangue pari o superiore allo 0,50 per mille; oppure
+- b. ha nell’organismo una quantità di alcol che determina una concentrazione di alcol nel sangue pari o superiore allo 0,50 per mille.
+
+<sup>2</sup> È considerata qualificata ai sensi dell’articolo 87 capoverso 1 della legge federale del 20 dicembre 1957[^47d-1] sulle ferrovie (Lferr) una concentrazione di alcol nel sangue pari o superiore allo 0,80 per mille.
+
+<sup>3</sup>
+
+Una persona è considerata incapace di prestare servizio per influsso di stupefacenti se presenta valori del sangue pari o superiori ai seguenti valori limite:
+
+- a. cannabis (tetraidrocannabinolo) 1,5 µg/L
+- b. eroina/morfina (morfina libera) 15µg/L
+- c. cocaina 15µg/L
+- d. amfetamina 15µg/L
+- e. metamfetamina 15µg/L
+- f. MDEA (metilendiossietilamfetamina) 15µg/L
+- g. MDMA (metilendiossimetilamfetamina) 15µg/L
+
+<sup>4</sup> L’UFT emana una direttiva concernente la prova della presenza di alcol e altre sostanze che diminuiscono l’idoneità a prestare servizio.[^47d-2]
+
+<sup>5</sup> La presenza attestata di una o più delle sostanze di cui al capoverso 3 non è sufficiente per stabilire l’incapacità di prestare servizio se la persona è in grado di provare che assume tali sostanze su prescrizione medica.
+
+<sup>6</sup> L’impresa di trasporto a fune può prevedere disposizioni di diritto del lavoro più rigide per il consumo di alcol.
+
+[^47d-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^47d-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 47e
+
+**Servizio competente per il controllo**
+
+<sup>1</sup> Per il controllo della capacità di prestare servizio sono competenti i servizi di cui all’articolo 18*a* LIFT in combinato disposto con l’articolo 84 Lferr[^47e-1].
+
+<sup>2</sup>
+
+I collaboratori di questi servizi devono soddisfare i seguenti requisiti:
+
+- a. devono essere stati istruiti per l’attività in questione;
+- b. devono far parte della medesima impresa di trasporto a fune della persona da controllare;
+- c. almeno una di queste persone deve essere raggiungibile durante le ore di esercizio;
+- d. nei loro confronti non deve esistere un motivo di ricusazione previsto dall’articolo 10 della legge federale del 20 dicembre 1968[^47e-2] sulla procedura amministrativa.
+
+<sup>3</sup> I collaboratori di questi servizi devono poter attestare con un documento le competenze loro attribuite.
+
+[^47e-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^47e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 47f
+
+**Disposizioni complementari**
+
+Oltre che dalle disposizioni di cui agli articoli 47*b*–47*e*, il controllo della capacità di prestare servizio è disciplinato per analogia dagli articoli 17–25 dell’ordinanza del 4 novembre 2009[^47f-1] sulle attività rilevanti per la sicurezza nel settore ferroviario.
+
+[^47f-1]: [RS 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+
+### Sezione 4: Esercizio e manutenzione
+
+#### Art. 48
+
+**Misure di sicurezza**
+
+<sup>1</sup>
+
+L’impianto a fune può essere messo in funzione solo se:
+
+- a. il capotecnico o il suo sostituto sono costantemente raggiungibili e almeno uno dei due può essere sul posto entro un’ora;
+- b. il personale addetto alla manovra dell’impianto e dei veicoli e all’assistenza ai passeggeri è in servizio; e
+- c. le condizioni meteorologiche lo consentono.
+
+<sup>2</sup> Se la sicurezza non è più garantita il servizio è sospeso.
+
+<sup>3</sup> Le persone che a causa del loro stato o del loro comportamento possono mettere in pericolo l’esercizio dell’impianto o altre persone non sono trasportate.[^48-1]
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 49
+
+**Trasporto di merci pericolose**[^49-1]
+
+Per il trasporto di merci pericolose si applicano le disposizioni:
+
+- a. dell’ordinanza del 31 ottobre 2012[^49-2] sui mezzi di contenimento per merci pericolose; e
+- b. dell’ordinanza del 31 ottobre 2012[^49-3] concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune.
+
+[^49-1]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 31 ott. 2012 concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune, in vigore dal 1° gen. 2013 ([RU 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
+[^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+[^49-3]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+
+#### Art. 50
+
+**Obbligo di registrare**[^50-1]
+
+L’impresa di trasporto a fune conserva la documentazione concernente:
+
+- a. i controlli effettuati e i relativi risultati, i lavori di manutenzione, le ispezioni, le esercitazioni e le misure adottate, compresi i lavori di riparazione e rinnovo (documentazione concernente la manutenzione);
+- b. difetti e guasti determinati in altro modo, avvenimenti particolari e misure adottate;
+- c. le modifiche di cui all’articolo 36*a*;
+- d. i cambiamenti nell’attribuzione delle responsabilità di cui all’articolo 47 capoverso 1.
+
+[^50-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 51
+
+**Principi di manutenzione**
+
+<sup>1</sup> Un impianto a fune deve essere mantenuto in uno stato tale da garantirne la sicurezza, componenti compresi, in qualsiasi momento.[^51-1]
+
+<sup>2</sup>
+
+L’impresa di trasporto a fune pianifica e organizza la manutenzione in modo da:
+
+- a. soddisfare le prescrizioni di legge e le prescrizioni interne all’impresa;
+- b. garantire costantemente ai responsabili una visione globale dello stato delle costruzioni, degli impianti e dei veicoli.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 52
+
+**Pianificazione della manutenzione e rinnovo**[^52-1]
+
+<sup>1</sup> L’impresa di trasporto a fune pianifica gli interventi di manutenzione e di rinnovo in modo da garantire la sicurezza dell’impianto e delle sue parti per la durata d’utilizzazione prevista.
+
+<sup>2</sup> Nel valutare l’impianto occorre verificare la presenza di eventuali divergenze dai requisiti essenziali di cui all’articolo 5 e la misura in cui tali divergenze compromettono la sicurezza dell’impianto.
+
+<sup>3</sup> Le singole parti dell’impianto devono essere verificate tenendo conto del sistema nel suo complesso.
+
+<sup>4</sup> I risultati della pianificazione devono confluire nelle prescrizioni d’esercizio e di manutenzione.
+
+[^52-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 52a
+
+**Prescrizioni d’esercizio e di manutenzione**[^52a-1]
+
+<sup>1</sup> L’impresa di trasporto a fune emana le prescrizioni d’esercizio e le prescrizioni di manutenzione tenendo conto del programma d’esercizio.
+
+<sup>2</sup>
+
+Le prescrizioni d’esercizio e le prescrizioni di manutenzione:
+
+- a. descrivono in termini verificabili in che modo è garantita la sicurezza dell’impianto e delle sue parti per la durata d’utilizzazione prevista;
+- b. stabiliscono, per i diversi componenti dell’impianto, le misure necessarie e la loro scadenza periodica;
+- c. descrivono la funzione dell’impianto a fune e delle sue parti;
+- d. forniscono indicazioni per la manovra e la manutenzione corrette dell’impianto a fune, complete di procedimenti e istruzioni di lavoro.
+
+[^52a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 53
+
+**Controlli**[^53-1]
+
+L’impresa di trasporto a fune fa sì che i controlli previsti nelle prescrizioni d’esercizio e di manutenzione siano svolti puntualmente e in modo professionale.
+
+[^53-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 54
+
+**Ricorso a terzi**
+
+<sup>1</sup> Se l’impresa di trasporto a fune non dispone delle conoscenze e delle apparecchiature necessarie a eseguire determinate attività di manutenzione, delega queste ultime a terzi, la cui competenza professionale è stata comprovata.
+
+<sup>2</sup> Se l’impresa di trasporto a fune si rivolge a terzi, deve disporre anche delle informazioni in mano a questi ultimi.
+
+<sup>3</sup> Se la sorveglianza della manutenzione effettuata internamente all’impresa non è sufficiente, l’autorità di vigilanza può ordinare di ricorrere a terzi.
+
+<sup>4</sup> L’autorità di vigilanza può ordinare che un organo di controllo accreditato esegua un controllo non distruttivo delle funi.[^54-1]
+
+[^54-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+### Sezione 5: Smantellamento dell’impianto a fune
+
+#### Art. 55
+
+<sup>1</sup> Il proprietario di un impianto a fune il cui esercizio sia definitivamente sospeso è tenuto a rimuoverlo.
+
+<sup>2</sup> Se l’impianto a fune si trova in uno stato che non ne consente più l’esercizio, il proprietario è tenuto a rimuovere senza indugio le funi e a presentare all’autorità competente per il rilascio dell’autorizzazione la domanda di smantellarlo.
+
+<sup>3</sup> L’autorità competente per il rilascio dell’autorizzazione decide in che misura vada ripristinato lo stato anteriore.
+
+## Capitolo 4: Vigilanza ed emolumenti
+
+### Sezione 1: Vigilanza
+
+#### Art. 56
+
+**Obbligo di segnalazione e di notifica**
+
+<sup>1</sup> L’impresa di trasporto a fune presenta all’autorità di vigilanza, annualmente e su domanda, i documenti di cui all’articolo 50. L’autorità di vigilanza stabilisce l’ampiezza delle registrazioni da presentare.
+
+<sup>2</sup>
+
+Notifica immediatamente all’autorità di vigilanza:
+
+- a. la fusione, la scissione o lo scioglimento;
+- b. l’apertura di una procedura fallimentare o l’inoltro di un’istanza di sovraindebitamento;
+- c. l’arresto dell’impianto, non appena constata che si protrarrà per oltre un anno.[^56-1]
+
+<sup>3</sup> L’impresa di trasporto a fune, il fabbricante e il responsabile dell’immissione in commercio segnalano entro 30 giorni all’autorità di vigilanza le nuove conoscenze che possono influire sulla sicurezza di un impianto.[^56-2]
+
+<sup>4</sup> In caso di eventi o di nuove conoscenze che possono influire sulla sicurezza di un impianto, il fabbricante e il responsabile dell’immissione in commercio devono segnalare all’autorità di vigilanza eventuali altri impianti interessati a causa dei componenti ivi impiegati.[^56-3]
+
+<sup>5</sup> In caso di eventi, gli impianti a fune che necessitano di una concessione federale sono soggetti all’ordinanza del 17 dicembre 2014[^56-4] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^56-5]
+
+[^56-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^56-2]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^56-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^56-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^56-5]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 57
+
+**Obbligo di conservare**[^57-1]
+
+<sup>1</sup>
+
+Nel corso della durata di vita dell’impianto a fune, l’impresa che lo gestisce conserva i seguenti documenti:
+
+- a. l’analisi di sicurezza e il rapporto di sicurezza;
+- b. l’attestato di sicurezza;
+- c. le prescrizioni d’esercizio;
+- d. la documentazione concernente la manutenzione;
+- e. i documenti e le prove di cui all’articolo 36*a*;
+- f. i documenti di cui all’articolo 37 capoverso 2.
+
+<sup>2</sup> L’impresa è tenuta a conservare durante dieci anni i documenti di cui all’articolo 58.
+
+<sup>3</sup>
+
+Il fabbricante è tenuto a conservare durante almeno 30 anni:
+
+- a. i documenti di cui agli allegati III–VIII del regolamento UE sugli impianti a fune[^57-2];
+- b. i certificati concernenti i materiali e i protocolli dei controlli effettuati nell’ambito della produzione dei componenti rilevanti per la sicurezza.
+
+<sup>4</sup> Se il fabbricante non ha sede in Svizzera, l’obbligo di cui al capoverso 3 incombe all’importatore.
+
+<sup>5</sup> La documentazione deve essere concepita in modo tale che i riferimenti ai relativi componenti siano inequivocabili.
+
+[^57-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^57-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+
+#### Art. 58
+
+**Contabilità**[^58-1]
+
+<sup>1</sup>
+
+Su richiesta, l’impresa di trasporto a fune presenta all’autorità di vigilanza:
+
+- a. il conto d’esercizio;
+- b. il bilancio;
+- c. il conto investimenti e il conto ammortamenti oppure il prospetto degli attivi fissi;
+- d. il piano degli investimenti.
+
+<sup>2</sup> Entro l’apertura dell’esercizio, essa presenta all’autorità di vigilanza i documenti di cui al capoverso 1 lettere b–d.
+
+<sup>3</sup>
+
+Le imprese di trasporto a fune che beneficiano di indennità conformemente all’articolo 49 Lferr[^58-2] o di contributi conformemente all’articolo 56 della stessa legge tengono i libri contabili:
+
+- a. conformemente alle disposizioni della sezione 7 LTV; e
+- b. conformemente alle disposizioni emanate dal DATEC in base all’articolo 35 capoversi 1 e 2 LTV.
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^58-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+
+#### Art. 59
+
+**Vigilanza sulla costruzione, l’esercizio e la manutenzione**[^59-1]
+
+<sup>1</sup>
+
+L’autorità di vigilanza sorveglia il rispetto delle esigenze in materia di sicurezza e di protezione dell’ambiente e delle altre prescrizioni in caso di costruzione, di esercizio e di manutenzione degli impianti a fune, mediante:
+
+- a. la valutazione delle notifiche di cui all’articolo 56 e di altre informazioni rilevanti per la sicurezza;
+- b. lo svolgimento di controlli concernenti la costruzione, l’esercizio e la protezione dell’ambiente;
+- c. l’esecuzione di audit.[^59-2]
+
+<sup>2</sup> In casi fondati, può richiedere prove e perizie, nonché eseguire direttamente controlli per campionatura.[^59-3]
+
+<sup>3</sup> In caso di indizi concreti, può verificare in qualsiasi momento il rispetto delle esigenze in materia di sicurezza per quanto concerne i componenti rilevanti ai fini della sicurezza e i sottosistemi.
+
+<sup>4</sup> Sorveglia il rispetto delle esigenze in materia ambientale in collaborazione con le autorità specializzate.
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^59-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^59-3]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 60
+
+**Misure**[^60-1]
+
+<sup>1</sup> Se constata che un impianto a fune può mettere in pericolo la sicurezza di persone o di beni o che vi sono infrazioni alle prescrizioni oppure indizi concreti in merito, l’autorità di vigilanza esige che l’impresa di trasporto a fune proponga o adotti misure atte a ristabilire la sicurezza e la conformità alle prescrizioni. Se la sicurezza lo impone, può vietare l’esercizio con effetto immediato.[^60-2]
+
+<sup>2</sup> Se le misure proposte dall’impresa di trasporto a fune non sono sufficienti a ristabilire la sicurezza e la conformità alle prescrizioni, l’autorità può esigere che l’impresa proponga misure di più ampia portata oppure può prendere direttamente i provvedimenti adeguati.
+
+<sup>3</sup> Se non è possibile ristabilire la sicurezza e la conformità alle prescrizioni, l’autorità ritira l’autorizzazione d’esercizio.[^60-3]
+
+<sup>4</sup> Se l’autorità di vigilanza constata che un componente infrastrutturale rilevante per la sicurezza, seppur utilizzato in modo conforme, può mettere in pericolo la sicurezza dell’impianto a fune, comunica immediatamente le misure adottate alle altre autorità di vigilanza.[^60-4]
+
+<sup>5</sup> Le autorità di vigilanza possono gestire una banca dati che riporta le misure adottate e i motivi, e informare l’opinione pubblica.
+
+[^60-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^60-2]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^60-3]: Nuovo testo giusta il n. I 7 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^60-4]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 61
+
+**Sorveglianza del mercato**[^61-1]
+
+<sup>1</sup> Le autorità di vigilanza possono controllare i componenti di sicurezza e i sottosistemi immessi sul mercato e, se necessario, prelevare campioni.
+
+<sup>2</sup> Se, a seguito di un controllo, l’autorità di vigilanza constata che un componente di sicurezza o un sottosistema non soddisfa i requisiti essenziali, essa esige che il fabbricante, oppure in via sussidiaria l’importatore o il distributore, adotti misure atte a ristabilire la sicurezza e la conformità alla prescrizioni, oppure che il componente di sicurezza o il sottosistema in oggetto venga ritirato dal mercato.
+
+<sup>3</sup> Se l’autorità di vigilanza constata che un componente di sicurezza o un sottosistema pur soddisfacendo i requisiti essenziali può mettere in pericolo la sicurezza dell’impianto a fune, essa esige che il fabbricante, oppure in via sussidiaria l’importatore o il distributore, adotti misure atte a ristabilire la sicurezza, oppure che il componente di sicurezza o il sottosistema in oggetto venga ritirato dal mercato.
+
+<sup>4</sup> Se le misure proposte non sono sufficienti a ristabilire la sicurezza e la conformità alle prescrizioni, l’autorità di vigilanza può esigere che il fabbricante, l’importatore o il distributore proponga misure di più ampia portata, oppure può prendere direttamente i provvedimenti adeguati.
+
+<sup>5</sup> Le competenze dell’autorità di vigilanza sono inoltre disciplinate dall’articolo 10 capoversi 2–6 e dagli articoli 12–14 della legge federale del 12 giugno 2009[^61-2] sulla sicurezza dei prodotti (LSPro).
+
+<sup>6</sup> Le autorità di vigilanza si tengono costantemente e reciprocamente informate e informano tempestivamente l’organismo di valutazione della conformità interessato nonché la Segreteria di Stato dell’economia.
+
+<sup>7</sup> L’obbligo di collaborazione e di informazione dei fabbricanti, degli importatori e di eventuali altre persone interessate è retto dall’articolo 11 LSPro.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^61-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+### Sezione 2: Emolumenti
+
+#### Art. 62
+
+Gli emolumenti sono disciplinati dall’ordinanza del 25 novembre 1998[^62-1] sugli emolumenti relativi ai compiti dell’Ufficio federale dei trasporti e dalle disposizioni cantonali in merito.
+
+[^62-1]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+
+## Capitolo 5: Organismi di valutazione della conformità, procedura di valutazione della conformità e periti
+
+### Sezione 1: Organismi di valutazione della conformità
+
+#### Art. 63
+
+**Requisiti**
+
+<sup>1</sup>
+
+Per i relativi settori di specializzazione gli organismi di valutazione della conformità devono:
+
+- a. essere titolari di un accreditamento ai sensi dell’ordinanza sull’accreditamento e sulla designazione del 17 giugno 1996[^63-1] e di un’assicurazione di responsabilità civile che garantisca loro una copertura in caso di sinistro di almeno 5 milioni di franchi; oppure
+- b. essere riconosciuti dalla Svizzera nell’ambito di un accordo internazionale ed essere titolari di un’assicurazione di responsabilità civile valida anche in Svizzera.
+
+<sup>2</sup> Chi si fonda sui documenti forniti da un organismo che non figura tra quelli di cui al capoverso 1, deve dimostrare in modo credibile che le procedure applicate da questo organismo e le sue qualifiche rispettano le esigenze svizzere (art. 18 cpv. 2 della LF del 6 ott. 1995 sugli ostacoli tecnici al commercio).
+
+[^63-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 64
+
+**Diritti e doveri**[^64-1]
+
+Gli organismi di valutazione della conformità sono soggetti, per analogia, ai diritti e ai doveri stabiliti dagli allegati III‒VII del regolamento UE sugli impianti a fune[^64-2].
+
+[^64-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^64-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+
+### Sezione 2: Procedura di valutazione della conformità
+
+#### Art. 65
+
+**Sottosistemi e componenti di sicurezza**[^65-1]
+
+<sup>1</sup> Sottosistemi e componenti di sicurezza possono essere immessi sul mercato solo dopo che ne è stata valutata e certificata la conformità.
+
+<sup>2</sup>
+
+A scelta del fabbricante, la valutazione della conformità di sottosistemi e componenti di sicurezza è eseguita secondo una delle procedure di cui all’articolo 18 paragrafo 2 del regolamento UE sugli impianti a fune[^65-2], ossia:
+
+- a.
+
+  esame UE del tipo (modulo B) di cui all’allegato III del regolamento UE sugli impianti a fune, in combinazione con una delle seguenti procedure:
+
+  - 1\. garanzia di qualità del processo di produzione (modulo D) di cui all’allegato IV del regolamento UE sugli impianti a fune, oppure
+  - 2\. verifica del sottosistema o del componente di sicurezza (modulo F) di cui all’allegato V del regolamento UE sugli impianti a fune;
+
+- b. conformità basata sulla verifica di un unico prodotto (modulo G) di cui all’allegato VI del regolamento UE sugli impianti a fune;
+- c. conformità basata sulla garanzia di qualità totale e sull’esame del progetto (modulo H 1) di cui all’allegato VII del regolamento UE sugli impianti a fune.
+
+[^65-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^65-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 4.
+
+#### Art. 66
+
+**Lingua dell’organismo di valutazione della conformità**[^66-1]
+
+I documenti e la corrispondenza relativi alle procedure di valutazione della conformità sono redatti in una lingua ufficiale del Paese in cui è stabilito l’organismo di valutazione della conformità che esegue le procedure di cui all’articolo 65, oppure in una lingua utilizzata da tale organismo.
+
+[^66-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+### Sezione 3:**** Periti
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+
+#### Art. 67
+
+**Requisiti specialistici**
+
+Nel loro settore d’esame i periti devono disporre delle conoscenze specifiche e dell’esperienza adeguate alla complessità del progetto da esaminare e alla sua rilevanza per la sicurezza, in particolare:
+
+- a. devono provare di avere una formazione adeguata; e
+- b. devono aver realizzato o effettuato perizie su oggetti paragonabili a quello in esame.
+
+#### Art. 68
+
+**Indipendenza**
+
+<sup>1</sup> I periti non possono essersi occupati in precedenza, in altra funzione, dell’oggetto dell’autorizzazione.
+
+<sup>2</sup> Devono essere indipendenti nelle loro decisioni; in particolare non possono sottostare a istruzioni a tal proposito e la loro retribuzione non può dipendere dal risultato della valutazione.
+
+#### Art. 68a
+
+**Persone giuridiche**
+
+Le persone giuridiche possono esercitare l’attività di periti se hanno alle loro dipendenze persone che soddisfano i requisiti specialistici e l’esigenza riguardante l’indipendenza.
+
+#### Art. 68b
+
+**Reclutamento e requisiti**
+
+D’intesa per quanto possibile con il servizio tecnico di controllo del CITS, l’UFT emana direttive sul reclutamento, sui requisiti e sui rapporti dei periti.
+
+#### Art. 68c
+
+**Responsabilità e assicurazione**[^68c-1]
+
+<sup>1</sup> Ai periti non è consentito limitare in modo sproporzionato la responsabilità per i loro rapporti.
+
+<sup>2</sup> L’impresa di trasporto a fune concorda con i periti la portata della loro responsabilità e dell’assicurazione di responsabilità civile necessaria.
+
+[^68c-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+## Capitolo 6: Disposizioni penali
+
+#### Art. 69
+
+[^69-1]
+
+A querela di parte, conformemente all’articolo 25*a* capoverso 2 LIFT è punito chi intenzionalmente o per negligenza infrange:
+
+- a. l’articolo 34;
+- b. l’articolo 36 capoverso 1;
+- c. l’articolo 50;
+- d. l’articolo 56 capoversi 1–4;
+- e. l’articolo 57.
+
+[^69-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+## Capitolo 7: Disposizioni finali
+
+### Sezione 1: Abrogazione e modifica del diritto in vigore
+
+#### Art. 70
+
+**Abrogazione del diritto in vigore**
+
+Sono abrogate le seguenti ordinanze:
+
+- a. ordinanza del 10 marzo 1986[^70-1] sulla costruzione e sull’esercizio di funivie e funicolari con concessione federale;
+- b. ordinanza dell’8 novembre 1978[^70-2] sul rilascio della concessione agli impianti a fune;
+- c. ordinanza del 22 marzo 1972[^70-3] sulle funivie esenti dalla concessione federale e le sciovie;
+- d. ordinanza del 24 ottobre 1961[^70-4] sulle funivie sussidiate esenti dalla concessione federale;
+- e. ordinanza del 15 febbraio 1957[^70-5] concernente la prevenzione degli infortuni nella costruzione e nell’esercizio di teleferiche e di funicolari che servono al trasporto di persone sui cantieri e nelle imprese commerciali e industriali.
+
+[^70-1]: [[RU 1986 632](https://fedlex.data.admin.ch/eli/oc/1986/632_632_632), [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 n. 4, [1994 1233](https://fedlex.data.admin.ch/eli/oc/1994/1233_1233_1233)art. 145, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 6, [1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 5, [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)all. II 3 [2538](https://fedlex.data.admin.ch/eli/oc/2000/405)[2777](https://fedlex.data.admin.ch/eli/oc/2000/468), [2005 4957](https://fedlex.data.admin.ch/eli/oc/2005/677)]
+[^70-2]: [[RU 1978 1806](https://fedlex.data.admin.ch/eli/oc/1978/1806_1806_1806), [1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)art. 52 lett. e,[1989 342](https://fedlex.data.admin.ch/eli/oc/1989/342_342_342), [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)I 7, [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)II 50, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 25 [754](https://fedlex.data.admin.ch/eli/oc/1999/116)all n. 4]
+[^70-3]: [[RU 1972 596](https://fedlex.data.admin.ch/eli/oc/1972/664_672_596), [1974 1973](https://fedlex.data.admin.ch/eli/oc/1974/1973_1973_1973), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 5, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)II 27]
+[^70-4]: [[RU 1961 958](https://fedlex.data.admin.ch/eli/oc/1961/921_937_958), [1972 2489](https://fedlex.data.admin.ch/eli/oc/1972/2655_2709_2489)]
+[^70-5]: [[RU 1957 153](https://fedlex.data.admin.ch/eli/oc/1957/143_146_153), [2002 3933](https://fedlex.data.admin.ch/eli/oc/2002/615)]
+
+#### Art. 71
+
+**Modifica di altre ordinanze**
+
+Le seguenti ordinanze sono modificate come segue:
+
+...[^71-1]
+
+[^71-1]: Le mod. possono essere consultate alla [RU 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14).
+
+### Sezione 2: Disposizioni transitorie
+
+#### Art. 72
+
+**Impianti esistenti**[^72-1]
+
+<sup>1</sup> Le concessioni e le autorizzazioni d’esercizio federali rilasciate conformemente al diritto anteriore e le autorizzazioni d’esercizio cantonali rimangono valide.
+
+<sup>2</sup> L’autorità di vigilanza è competente fino al momento in cui l’impianto a fune dispone di un’autorizzazione d’esercizio..
+
+[^72-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+#### Art. 73
+
+**Controlli periodici**
+
+<sup>1</sup>
+
+Per gli impianti e le parti di impianti realizzati prima del 1° gennaio 2007 rimangono applicabili le disposizioni concernenti i controlli periodici di cui ai numeri 94 e 104 e all’allegato 2 delle seguenti ordinanze:[^73-1]
+
+- a. ordinanza dell’11 aprile 1986[^73-2] sulle teleferiche a movimento continuo;
+- b. ordinanza del 12 gennaio 1987[^73-3] sulle seggiovie;
+- c. ordinanza del 18 febbraio 1988[^73-4] sulle funivie a va e vieni;
+- d. ordinanza del 17 giugno 1991[^73-5] sulle funivie.
+
+<sup>2</sup> Per gli impianti titolari di un’autorizzazione cantonale rimangono applicabili le direttive cantonali.
+
+[^73-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^73-2]: [RS 743.121.1](https://fedlex.data.admin.ch/eli/cc/1987/902_902_902)
+[^73-3]: [RS 743.121.2](https://fedlex.data.admin.ch/eli/cc/1988/1634_1634_1634)
+[^73-4]: [RS 743.121.3](https://fedlex.data.admin.ch/eli/cc/1991/82_82_82)
+[^73-5]: [RS 743.121.6](https://fedlex.data.admin.ch/eli/cc/1996/2611_2611_2611)
+
+#### Art. 74
+
+**Disposizioni transitorie concernenti la modifica dell’11 ottobre 2017**[^74-1]
+
+<sup>1</sup> Fino al 20 aprile 2018 le domande di approvazione dei piani, debitamente documentate, possono essere presentate conformemente alle disposizioni applicabili fino all’entrata in vigore della modifica dell’11 ottobre 2017. Nel quadro della procedura di approvazione dei piani e di rilascio dell’autorizzazione d’esercizio, esse saranno valutate conformemente al diritto previgente.
+
+<sup>2</sup> Gli attestati di conformità di componenti di sicurezza rilasciati fino al 20 aprile 2018 secondo la direttiva 2000/9/CE[^74-2] restano validi.
+
+<sup>3</sup> Su domanda, le autorizzazioni d’esercizio rilasciate o rinnovate per una durata inferiore a quella della concessione vengono rinnovate a tempo indeterminato. Restano salve le misure di cui all’articolo 60.
+
+<sup>4</sup> Per i capitecnici riconosciuti come tali prima dell’entrata in vigore della presente ordinanza, la competenza professionale di cui all’articolo 46*a* capoverso 1 è ritenuta comprovata.
+
+[^74-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+[^74-2]: Direttiva 2000/9/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000, relativa agli impianti a fune adibiti al trasporto di persone; GU L 106 del 3.5.2000, pag. 21.
+
+### Sezione 3: Entrata in vigore
+
+#### Art. 75
+
+La presente ordinanza entra in vigore il 1° gennaio 2007.
+
+Allegato 1*[^t-1]*
+
+(art. 4 cpv. 2, 11 cpv. 1 lett. a e 12)
+
+## Documenti da presentare all’autorità competente nel quadro della procedura di approvazione dei piani
+
+[^t-1]: Aggiornato dal n. II dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) e dal n. II cpv. 1 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+<sup>1</sup> Assieme alla domanda di approvazione dei piani, l’impresa di trasporto a fune presenta all’autorità competente per il rilascio dell’autorizzazione i seguenti documenti ai fini della valutazione della sicurezza:
+
+- 1\.
+
+  ubicazione, concezione globale e organizzazione tecnica dell’impianto, con le seguenti indicazioni:
+
+  - a. piani di ubicazione con le indicazioni concernenti le costruzioni previste e le parcelle fondiarie toccate,
+  - b. profilo longitudinale e profili trasversali determinanti, con una valutazione dei tratti paralleli e degli incroci con altri impianti di trasporto, con strade e con linee elettriche,
+  - c. piani d’insieme delle stazioni e dei sostegni con indicazioni concernenti le dimensioni delle costruzioni e lo sfruttamento dello spazio rilevanti, la disposizione dei sottosistemi e la disposizione di scale e passerelle,
+  - d. piani d’insieme dei sostegni o della via di corsa con le parcelle fondiarie toccate e le rispettive distanze limite,
+  - e. profili di spazio libero con gli spazi liberi per le oscillazioni longitudinali e trasversali nelle stazioni e sulla tratta, completi delle distanze dal suolo e delle distanze di sicurezza da rispettare,
+  - f. documenti sugli impianti di alimentazione elettrica (stazioni di trasformazione, linee di alimentazione), incluse le indicazioni concernenti le ripercussioni sull’uomo e sull’ambiente;
+
+- 2\. la convenzione d’utilizzazione;
+- 3\. programma d’esercizio e programma per il recupero dei passeggeri;
+- 4\. rapporto tecnico, completo dell’organizzazione, disposizione e funzione prevista dei principali elementi del sistema (inclusi piani d’insieme di tutti i sottosistemi);
+- 5\. piano e schema elettrico globale dei dispositivi tecnici, in particolare dei dispositivi di sicurezza elettrici;
+- 6\. ...
+- 7\. calcoli concernenti la fune con prove delle tensioni minime e massime, nonché indicazioni concernenti sistema di tensione, rispetto del coefficiente di sicurezza prescritto, coefficiente di attrito alla puleggia motrice e forze di appoggio minime sui sostegni e sui rulli;
+- 8\. perizie di specialisti indipendenti sui fattori ambientali a cui è sottoposto l’impianto a fune, riguardanti in particolare le caratteristiche del suolo, le condizioni del vento e della neve, il rischio di gelo, la situazione delle valanghe, il pericolo di cadute di sassi, di scoscendimenti e di frane nonché il pericolo d’incendio;
+- 9\. organizzazione dei lavori di costruzione dell’impianto e attribuzione delle responsabilità durante la loro realizzazione; in particolare, i nominativi delle persone che, nei confronti dell’impresa di trasporto a fune, sono responsabili dell’impianto in qualità di progettisti, costruttori o periti, specificando le parti di cui ognuno è responsabile;
+- 10\. documenti che comprovano le conoscenze specifiche e l’esperienza dei periti, nonché la loro indipendenza;
+- 11\. elenco dei documenti e delle prove presentati;
+- 12\. analisi di sicurezza;
+- 13\. rapporto di sicurezza;
+- 14\. eventuali analisi dei rischi di cui all’articolo 6*a*.
+
+<sup>2</sup> Al più tardi due mesi prima dell’approvazione dei piani, l’impresa di trasporto a fune presenta all’autorità competente per il rilascio dell’autorizzazione i documenti seguenti per la valutazione della sicurezza:
+
+- 1\. piani statici delle stazioni e dei sostegni;
+- 2\. la base del progetto;
+- 3\. un rapporto di perizia per il controllo del calcolo delle funi, inclusi i parametri rilevanti e i risultati.
+
+<sup>3</sup> Il capoverso 2 numero 3 non si applica alle sciovie a fune bassa.
+
+Allegato 2*[^t-2]*
+
+(art. 4 cpv. 3 e 16 lett. a)
+
+## Controlli svolti dall’autorità competente per il rilascio dell’autorizzazione nel quadro della procedura di approvazione dei piani
+
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+Nel quadro della procedura di approvazione dei piani, sulla base dei documenti presentati l’autorità competente per il rilascio dell’autorizzazione può eseguire i seguenti controlli per verificare la sicurezza, procedendo per campionatura e in funzione dei rischi:
+
+- 1\. il tracciato nel terreno;
+- 2\. le strutture portanti delle stazioni e dei sostegni; nel caso di funicolari, strutture portanti di stazioni, via di corsa e costruzioni di genio civile;
+- 3\. i veicoli e i componenti meccanici;
+- 4\. i sistemi dei dispositivi elettrici di sicurezza;
+- 5\. i posti di comando;
+- 6\. la sala macchine;
+- 7\. gli spazi riservati ai passeggeri;
+- 8\. la protezione contro le intemperie;
+- 9\. le distanze, in caso di tratti paralleli e incroci, da altri impianti di trasporto, da strade o da linee elettriche, le distanze dal suolo e rispetto a oggetti fissi estranei all’impianto e gli spazi liberi per le oscillazioni longitudinali e trasversali dei veicoli lungo la tratta e nelle stazioni;
+- 10\. il rispetto del tempo massimo previsto dal programma per il recupero dei passeggeri;
+- 11\. le perizie sui fattori ambientali;
+- 12\. le sufficienti conoscenze specifiche e la sufficiente esperienza dei periti, nonché la loro indipendenza;
+- 13\. le richieste cantonali per quanto concerne la loro rilevanza dal punto di vista della sicurezza;
+- 14\. il rapporto di sicurezza e i suoi fondamenti;
+- 15\. il rapporto di perizia di cui all’allegato 1.
+
+Allegato 3*[^t-3]*
+
+(art. 26 cpv. 2 lett. c)
+
+## Documenti da presentare all’autorità competente insieme alla domanda di autorizzazione d’esercizio (attestato di sicurezza)
+
+[^t-3]: Aggiornato dal n. II dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)) e dal n. II cpv. 1 dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
+
+Per ottenere l’autorizzazione d’esercizio, l’impresa di trasporto a fune presenta all’autorità competente i seguenti documenti:
+
+- 1\. la relativa domanda;
+- 2\. la base di progetto aggiornata e la convenzione d’utilizzazione;
+- 3\. il programma d’esercizio e il programma per il recupero dei passeggeri, entrambi aggiornati, nonché il piano di recupero dei passeggeri con la prova che il tempo massimo di recupero è rispettato;
+- 4\. la documentazione relativa all’applicazione delle misure previste nel rapporto di sicurezza;
+- 5\. la documentazione relativa all’applicazione delle condizioni previste dalla decisione di approvazione dei piani o dall’autorizzazione cantonale;
+- 6\. i piani d’esecuzione e le prove della solidità e della sicurezza alla fatica nonché dell’idoneità all’impiego dei componenti dell’infrastruttura, il cui guasto possa comportare un pericolo immediato per la vita e l’incolumità fisica delle persone;
+- 7\. una valutazione della conformità con i parametri tecnici dei sottosistemi, con le condizioni e i requisiti specifici dell’impianto così come concretamente realizzato;
+- 8\. documenti che consentano di verificare i punti di contatto tra i sottosistemi e tra sottosistemi e infrastruttura;
+- 9\. il rapporto di prova;
+- 10\. il nome del capotecnico e di un sostituto e la prova che una persona competente ha impartito loro un’istruzione adeguata;
+- 11\. istruzioni d’esercizio esaustive e concretamente applicabili (art. 52*a* cpv. 2 lett. d), e un modello per la documentazione dei lavori di manutenzione, di controllo e di sorveglianza da eseguire periodicamente, nelle lingue richieste dall’impresa di trasporto a fune;
+- 12\. attestati di conformità (art. 28);
+- 13\. rapporti di periti (art. 29);
+- 14\. la prova che l’impianto a fune è stato costruito conformemente alle disposizioni (art. 30).

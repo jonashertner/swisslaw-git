@@ -1,0 +1,254 @@
+---
+sr: "0.741.619.665"
+title: Accord du 20 octobre 2014 entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relatif aux transports internationaux par route
+eli: "https://fedlex.data.admin.ch/eli/cc/2015/74"
+language: fr
+version: 2015-02-21
+adopted: 2014-10-20
+in_force: 2015-02-21
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20150221/fr/xml/fedlex-data-admin-ch-eli-cc-2015-74-20150221-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20150221/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relatif aux transports internationaux par route
+
+RO **2015** 523
+
+Texte original
+
+Conclu le 20 octobre 2014
+
+Entré en vigueur par échange de notes le 21 février 2015
+
+(Etat le 21 février 2015)
+
+Le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie,
+
+ci-après dénommés les Parties contractantes,
+
+désireux de développer et de faciliter, sur une base de réciprocité, les transports routiers de personnes et de marchandises entre les Etats des Parties contractantes ainsi qu’en transit par leur territoire,
+
+sont convenus de ce qui suit:
+
+## I. Champ d’application et définitions
+
+#### Art. 1
+
+Les dispositions du présent accord s’appliquent aux transports routiers internationaux de personnes et de marchandises effectués entre les Etats des Parties contractantes, en transit par leur territoire de même que vers ou au départ de pays tiers au moyen de véhicules immatriculés en Suisse ou dans la Fédération de Russie.
+
+#### Art. 2
+
+Au sens du présent accord, on entend par:
+
+- 1)
+
+  «autorités compétentes»:
+
+  - – en Suisse – le Département fédéral de l’environnement, des transports, de l’énergie et de la communication, Office fédéral des transports, et en ce qui concerne le par. 1 de l’art. 8 du présent accord – l’Office fédéral des routes;
+  - – dans la Fédération de Russie – le Ministère des Transports de la Fédération de Russie, et en ce qui concerne le contrôle du respect des règles de la circulation routière prévu par l’art. 11 du présent accord – le Ministère des Affaires intérieures de la Fédération de Russie.
+
+- En cas de changement de l’une des autorités compétentes, la Partie contractante qui a fait l’objet du changement le notifie à l’autre Partie contractante par voie diplomatique;
+- 2) «transporteur»: toute personne physique ou morale qui, soit en Suisse soit dans la Fédération de Russie, est autorisée à effectuer des transports internationaux par route de personnes et de marchandises conformément aux dispositions légales en vigueur en Suisse ou dans la Fédération de Russie;
+- 3)
+
+  «véhicule»:
+
+  - – pour le transport de marchandises – un camion, un camion avec remorque, un véhicule tracteur ou un véhicule tracteur avec une semi-remorque;
+  - – pour le transport de personnes – un autobus destiné au transport de personnes, comprenant plus de neuf places assises, celle du conducteur comprise, ainsi que, le cas échéant une remorque pour le transport des bagages.
+
+- Le véhicule doit être la propriété du transporteur ou celui-ci doit pouvoir en disposer en vertu d’un contrat de location ou de leasing;
+- 4) «transport régulier de personnes» – le transport de personnes par autobus effectué selon une certaine fréquence et sur la base d’un itinéraire, d’un horaire, de tarifs et d’arrêts pour l’embarquement et le débarquement des personnes concerté à l’avance entre les autorités compétentes des Etats des Parties contractantes;
+- 5) «transport occasionnel de personnes» – le transport de personnes par autobus dont la définition ne correspond pas à celle de «transport régulier de personnes»;
+- 6) «contrôle sanitaire» – un contrôle sanitaire, vétérinaire et phytosanitaire;
+- 7) «autorisation» – un document donnant aux véhicules immatriculés dans l’Etat de l’une des Parties contractantes le droit d’effectuer des courses de transport sur le territoire de l’Etat de l’autre Partie contractante;
+- 8)
+
+  «autorisation spéciale»:
+
+  - – une autorisation unique supplémentaire qui permet aux véhicules appartenant au transporteur domicilié dans l’Etat d’une Partie contractante d’effectuer des courses de transport sur le territoire de l’Etat de l’autre Partie contractante dans les cas prévus à l’art. 8 du présent accord;
+  - – une autorisation unique qui permet au transporteur domicilié dans l’Etat d’une Partie contractante d’effectuer un transport de marchandises au départ du territoire de l’Etat de l’autre Partie contractante vers un pays tiers ou en provenance d’un pays tiers vers le territoire de l’Etat de l’autre Partie contractante.
+
+## II. Transport de personnes
+
+#### Art. 3
+
+<sup>1.</sup> Les autorités compétentes des Etats des Parties contractantes s’accordent, sur la base du principe de réciprocité, sur l’exécution des transports réguliers de personnes effectués sur le tronçon de route situé sur leur territoire respectif.
+
+<sup>2.</sup> Pour le tronçon situé sur territoire suisse, les transports réguliers de personnes sont effectués par les transporteurs des Etats des Parties contractantes sur la base d’une autorisation délivrée par l’autorité compétente suisse.
+
+Pour le tronçon situé sur le territoire de la Fédération de Russie, les transports réguliers de personnes sont effectués par les transporteurs des Etats des Parties contractantes sur la base d’un consentement écrit de l’autorité compétente de la Fédération de Russie.
+
+<sup>3.</sup> Les requêtes relatives à l’organisation et à l’exécution des transports réguliers de personnes doivent être transmises par les autorités compétentes des Etats des Parties contractantes et contenir des informations sur le nom du transporteur, l’itinéraire, l’horaire, les tarifs et les arrêts où le transporteur effectuera l’embarquement et le débarquement des personnes, ainsi que des informations sur la période d’exploitation et la fréquence du transport.
+
+#### Art. 4
+
+<sup>1.</sup> Les transports occasionnels de personnes s’effectuent sur la base d’une autorisation préalable délivrée par les autorités compétentes des Etats des Parties contractantes pour le tronçon du trajet situé sur le territoire de leurs pays.
+
+<sup>2.</sup> Pour chaque transport occasionnel de personnes, il est délivré une autorisation unique donnant le droit d’effectuer un trajet aller et retour, à moins qu’un autre nombre de trajets soit spécifié dans l’autorisation même.
+
+<sup>3.</sup> L’autorisation mentionnée au par. 1 du présent article n’est pas nécessaire pour remplacer un autobus accidenté ou tombé en panne par un autre autobus.
+
+#### Art. 5
+
+<sup>1.</sup>
+
+Les autorisations ne sont pas exigées pour les transports occasionnels de personnes par autobus, si le même groupe de passagers est transporté dans le même autobus, dans les cas suivants:
+
+- 1) lors d’un circuit à portes fermées, dont le point de départ et de retour est situé sur le territoire de l’Etat de la Partie contractante où l’autobus est immatriculé;
+- 2) lors d’un voyage commençant sur le territoire de l’Etat de la Partie contractante où l’autobus est immatriculé et se terminant sur le territoire de l’Etat de l’autre Partie contractante, l’autobus quittant à vide ce territoire;
+- 3) l’autobus entre sur le territoire de l’Etat de l’autre Partie contractante à vide afin de récupérer le groupe de passagers amené antérieurement par ce transporteur.
+
+<sup>2.</sup> Dans le cas de l’exécution des transports occasionnels prévus au par. 1 du présent article, le conducteur doit être en possession d’un document comprenant la liste des passagers dont la forme est agréée par la Commission mixte établie conformément à l’art. 17 du présent accord.
+
+## III. Transport de marchandises
+
+#### Art. 6
+
+<sup>1.</sup> Le transport de marchandises entre les Etats des Parties contractantes ou en transit par leurs territoires, est effectué sur la base des autorisations délivrées par les autorités compétentes des Etats des Parties contractantes, à l’exception des transports mentionnés à l’art. 7 du présent accord.
+
+Une autorisation unique est délivrée pour chaque transport de marchandises, donnant droit à effectuer un transport aller et retour à moins que l’autorisation n’en dispose autrement. L’autorisation est également nécessaire pour le véhicule entrant à vide dans le territoire de l’Etat de l’autre Partie contractante.
+
+<sup>2.</sup> Un transporteur domicilié dans l’Etat d’une des Parties contractantes peut effectuer le transport de marchandises du territoire de l’Etat de l’autre Partie contractante vers le territoire d’un Etat tiers ainsi que du territoire de l’Etat tiers vers le territoire de l’Etat de l’autre Partie contractante à condition de posséder une autorisation spéciale conformément au deuxième tiret du par. 8 de l’art. 2 du présent accord délivrée par les autorités compétentes de l’Etat de l’autre Partie contractante.
+
+<sup>3.</sup> Les autorités compétentes des Etats des Parties contractantes se remettent chaque année gratuitement le nombre convenu d’autorisations en blanc délivrées pour le transport de marchandises. Les autorisations doivent être revêtues de la signature de la personne responsable et du sceau de l’autorité compétente. Les autorisations délivrées au cours de l’année civile sont valables jusqu’au 31 janvier de l’année suivante.
+
+<sup>4.</sup> Les autorités compétentes des Etats des Parties contractantes coordonnent entre elles la procédure d’échange d’autorisations en blanc.
+
+#### Art. 7
+
+<sup>1.</sup> Sont exempts de l’autorisation mentionnée à l’art. 6 du présent accord:
+
+- 1) les transports de marchandises par des véhicules dont le poids total autorisé en charge, y compris la remorque, ne dépasse pas 3,5 tonnes;
+- 2) les transports de médicaments, d’instruments et d’équipements médicaux, ainsi que d’autres marchandises nécessaires en cas de catastrophes naturelles et de transport d’aide humanitaire;
+- 3) les transports d’animaux, de moyens de transport, de matériel et d’équipement destinés à des manifestations sportives;
+- 4) les transports d’objets d’exposition, d’équipement et de matériel destinés à des foires et des expositions;
+- 5) les transports de décors et d’accessoires de théâtre, d’instruments de musique, d’équipements et d’accessoires pour le tournage de films, des émissions de radio et de télévision;
+- 6) les transports funéraires;
+- 7) les transports postaux qui sont effectués dans le cadre d’un régime de service public;
+- 8) les transports de déménagement;
+- 9) les transports de véhicules défectueux ou accidentés.
+
+<sup>2.</sup> Les autorisations mentionnées à l’art. 6 du présent accord ne sont pas non plus requises pour les entrées de véhicules d’assistance technique destinés au remorquage ou au dépannage de véhicules en panne ou accidentés.
+
+<sup>3.</sup> Les exceptions prévues aux ch. 3, 4, 5 du par. 1 du présent article sont appliquées uniquement si les marchandises doivent être retournées dans le territoire de l’Etat de la Partie contractante où le véhicule est immatriculé, ou si les marchandises seront transportées dans le territoire d’un pays tiers.
+
+#### Art. 8
+
+<sup>1.</sup> Si les dimensions et le poids du véhicule (chargé ou non) appartenant au transporteur provenant de l’Etat d’une Partie contractante dépassent les normes établies par la législation de l’Etat de l’autre Partie contractante, le transporteur doit se procurer préalablement une autorisation spéciale délivrée par l’autorité compétente de l’Etat de l’autre Partie contractante sur la base des conditions prévues par la législation de celui-ci.
+
+<sup>2.</sup> Les transports de marchandises dangereuses sur le territoire des Etats des Parties contractantes sont effectués conformément à l’accord européen du 30 septembre 1957 relatif au transport international de marchandises dangereuses par route[^8-1] ainsi qu’à la législation des Etats des Parties contractantes gouvernant de tels transports.
+
+<sup>3.</sup> Pour les transports mentionnés au par. 1 du présent article, les autorités compétentes des Etats des Parties contractantes peuvent prescrire au véhicule un itinéraire obligatoire.
+
+[^8-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+
+## IV. Dispositions générales
+
+#### Art. 9
+
+<sup>1.</sup> Le véhicule qui est immatriculé dans un des Etats des Parties contractantes et effectue un transport international en vertu du présent accord doit être doté des plaques d’immatriculation et des signes distinctifs de son propre Etat.
+
+<sup>2.</sup> Les remorques et semi-remorques peuvent porter des plaques d’immatriculation et des signes distinctifs d’autres Etats à condition que les camions, les véhicules tracteurs et les autobus portent des plaques d’immatriculation et des signes distinctifs des Etats des Parties contractantes.
+
+#### Art. 10
+
+Le transporteur domicilié dans l’Etat d’une Partie contractante n’est pas autorisé à effectuer des transports de personnes ou de marchandises entre deux points situés sur le territoire de l’Etat de l’autre Partie contractante.
+
+#### Art. 11
+
+<sup>1.</sup> Le conducteur du véhicule doit être titulaire d’un permis de conduire national ou international (à condition qu’il soit accompagné par le permis de conduire national approprié) et être en possession des papiers d’immatriculation du véhicule, conformes aux exigences de la Convention du 8 novembre 1968 sur la circulation routière[^11-1].
+
+<sup>2.</sup> L’autorisation de transport et les autres documents requis en vertu des dispositions du présent accord doivent se trouver à bord du véhicule concerné et être présentés à la demande des autorités compétentes des Etats des Parties contractantes habilitées à effectuer le contrôle du transport routier.
+
+[^11-1]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+
+#### Art. 12
+
+<sup>1.</sup> Les transporteurs domiciliés dans les Etats des Parties contractantes effectuant des transports de personnes ou de marchandises dans le cadre du présent accord sont exemptés, sur une base de réciprocité, de taxes, émoluments et paiements liés à la possession et à l’usage du véhicule.
+
+<sup>2.</sup> Les péages et droits d’usage prescrits par la législation nationale des Etats des Parties contractantes pour l’utilisation de l’infrastructure routière tels que les routes, autoroutes, ponts et tunnels situés sur le territoire des Etats des Parties contractantes, peuvent être prélevés sur une base non-discriminatoire auprès des transporteurs des Etats des Parties contractantes.
+
+#### Art. 13
+
+<sup>1.</sup>
+
+Le transporteur est exempté, sur une base de réciprocité, de droits et de taxes de douane pendant le transport effectué sur la base du présent accord dans le cas de:
+
+- 1) combustibles et carburants contenus dans les réservoirs d’un véhicule et prévus par le fabricant de chaque modèle, liés par la technologie et la construction du véhicule au système de combustion de ce véhicule, ainsi que dans le cas de carburant situé dans les réservoirs des remorques et des semi-remorques qui ont été installés par le fabricant et utilisés pour les systèmes de chauffage ou de refroidissement de ce moyen de transport;
+- 2) les lubrifiants en quantité nécessaire à l’exploitation du véhicule durant le transport;
+- 3) les pièces de rechange et outils destinés à la réparation du véhicule en cas de panne ou d’accident survenant pendant le transport international.
+
+<sup>2.</sup> Les outils et pièces de rechange visés au ch. 3 du par. 1 du présent article qui ne sont pas utilisés sont soumis à la réexportation. Les pièces de rechange qui ont été remplacées seront réexportées ou soumises à la procédure de destruction ou à toute autre procédure prévue par la législation douanière de l’Etat de la Partie contractante sur le territoire duquel la réparation a eu lieu.
+
+#### Art. 14
+
+<sup>1.</sup> Les contrôles frontalier, douanier, de transport et sanitaire doivent être effectués conformément aux accords internationaux auxquels la Suisse et la Fédération de Russie ont adhéré. Les questions non prévues par ces accords sont réglées par la législation de l’Etat sur le territoire duquel ledit contrôle est effectué.
+
+<sup>2.</sup> Les contrôles frontalier, douanier, de transport et sanitaire sont effectués en priorité en ce qui concerne le transport des personnes nécessitant une assistance médicale urgente, le transport régulier de personnes et le transport d’animaux, de denrées périssables et de marchandises dangereuses.
+
+#### Art. 15
+
+Le transport de personnes et de marchandises prévu par le présent accord doit préalablement être couvert par une assurance obligatoire de responsabilité civile.
+
+#### Art. 16
+
+<sup>1.</sup> Les transporteurs et les conducteurs de véhicules immatriculés dans les Etats des Parties contractantes sont tenus de respecter les règles de la circulation routière et la législation de l’Etat sur le territoire duquel se trouve le véhicule.
+
+<sup>2.</sup>
+
+En cas de violation des dispositions du présent accord par le transporteur, les autorités compétentes de l’Etat d’une Partie contractante sur le territoire duquel le véhicule est immatriculé, peuvent prendre, à la demande des autorités compétentes de l’Etat de l’autre Partie contractante sur le territoire duquel la violation a été commise, l’une des mesures suivantes:
+
+- 1) donner au transporteur un avertissement écrit selon lequel, en cas d’infraction répétée, l’autorisation qui lui a été délivrée antérieurement sera temporairement suspendue ou définitivement annulée;
+- 2) suspendre temporairement ou annuler définitivement l’autorisation délivrée antérieurement;
+- 3) cesser de délivrer au transporteur de nouvelles autorisations permettant d’effectuer des courses de transport sur le territoire de l’Etat de l’autre Partie contractante.
+
+<sup>3.</sup> Les mesures prises doivent être notifiées aux autorités compétentes de l’Etat de l’autre Partie contractante.
+
+<sup>4.</sup> Les dispositions du présent article n’excluent pas l’application au transporteur et aux conducteurs du véhicule de l’Etat de l’autre Partie contractante des sanctions stipulées par la législation de l’Etat sur le territoire duquel l’infraction a été commise.
+
+## V. Dispositions finales
+
+#### Art. 17
+
+<sup>1.</sup> Les Parties contractantes régleront les questions litigieuses pouvant surgir dans l’interprétation et l’application du présent accord par la voie de négociations ou par voie diplomatique.
+
+<sup>2.</sup> Les autorités compétentes des Etats des Parties contractantes instituent une Commission mixte qui traitera des questions d’interprétation ou d’application du présent accord.
+
+<sup>3.</sup> La Commission mixte se réunit à la demande de l’autorité compétente de l’Etat d’une des Parties contractantes alternativement sur le territoire de l’Etat de chacune des Parties contractantes.
+
+#### Art. 18
+
+Les Parties contractantes peuvent, d’un commun accord, apporter des modifications au présent accord.
+
+#### Art. 19
+
+Les questions qui ne sont régies ni par le présent accord, ni par les accords internationaux auxquels les Parties contractantes ont adhéré seront réglées en vertu de la législation de l’Etat de chaque Partie contractante.
+
+#### Art. 20
+
+Le présent accord n’affecte ni les droits ni les obligations liant les Parties contractantes à d’autres accords internationaux auxquels la Suisse ou la Fédération de Russie ont adhéré.
+
+#### Art. 21
+
+Conformément au désir du Gouvernement de la Principauté du Liechtenstein, les dispositions du présent accord s’appliquent également à ladite Principauté tant que celle-ci est liée à la Suisse par un traité d’union douanière.
+
+#### Art. 22
+
+<sup>1.</sup> Le présent accord entrera en vigueur 30 jours après que les Parties contractantes se seront notifiées, par voie diplomatique l’accomplissement des procédures internes nécessaires à son entrée en vigueur.
+
+<sup>2.</sup> Le présent accord est valable pour une durée indéterminée.
+
+<sup>3.</sup> Chacune des Parties contractantes peut dénoncer le présent accord, moyennant un préavis écrit envoyé par voie diplomatique à l’autre Partie contractante. L’accord prend fin six mois après la date de réception de la notification.
+
+<sup>4.</sup> L’accord entre le Conseil fédéral suisse et le Gouvernement de l’Union des Républiques Socialistes Soviétiques relatif aux transports internationaux par route signé à Berne le 14 avril 1989[^22-1] sera abrogé à la date d’entrée en vigueur du présent accord entre la Suisse et la Fédération de Russie.
+
+Fait à Moscou le 20 octobre 2014 en deux exemplaires, chacun en langues française et russe, les deux textes faisant également foi.
+
+<table>
+<tr><td>Pour le Conseil fédéral suisse:</td><td>Pour le Gouvernement de la Fédération de Russie:</td></tr>
+<tr><td>Pierre Helg</td><td>Nikolay Asaul</td></tr>
+</table>
+
+[^22-1]: [[RO 2001 487](https://fedlex.data.admin.ch/eli/oc/2001/96)]

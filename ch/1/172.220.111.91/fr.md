@@ -1,0 +1,278 @@
+---
+sr: "172.220.111.91"
+title: "Ordonnance du DDPS du 30 novembre 2017 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l'homme et à l'aide humanitaire (OPers-PDHH-DDPS)"
+short: OPers-PDHH-DDPS
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/794"
+language: fr
+version: 2018-01-01
+adopted: 2017-11-30
+in_force: 2018-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-794-20180101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DDPS sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire
+
+(OPers-PDHH-DDPS)
+
+du 30 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+
+Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
+
+vu l’art. 40 de l’ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire (OPers-PDHH)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+
+## Section 1 Objet et champ d’application
+
+#### Art. 1
+
+<sup>1</sup>
+
+La présente ordonnance règle pour les engagements militaires et pour la partie militaire des engagements civils et militaires dans les domaines de la promotion de la paix, du renforcement des droits de l’homme, de l’aide humanitaire et de l’instruction de troupes étrangères à l’étranger:
+
+- a. l’examen d’aptitude des candidats;
+- b. l’instruction du personnel;
+- c. les rapports de travail et les responsabilités.
+
+<sup>2</sup> Dans la mesure où elle ne contient ni n’autorise expressément d’exceptions, elle s’applique aussi obligatoirement au personnel militaire qui suit l’instruction ou accomplit l’engagement.
+
+<sup>3</sup> Les art. 1, al. 1, let. a et b, 2 à 9, 12, 13, al. 2, 14 et 15 s’appliquent aussi aux militaires qui suivent l’instruction ou accomplissent l’engagement dans le cadre du service militaire avec imputation sur la durée totale des services d’instruction ou qui accomplissent un service militaire volontaire.
+
+## Section 2 Examen d’aptitude pour la promotion de la paix
+
+#### Art. 2
+
+**Organisation de l’examen d’aptitude**
+
+<sup>1</sup>
+
+Le centre de compétences SWISSINT peut inviter ou, lorsque les services d’instruction obligatoires n’ont pas été entièrement accomplis, convoquer les candidats pour:
+
+- a. un examen d’aptitude général effectué dans un centre de recrutement;
+- b. un examen d’aptitude propre à la fonction effectué au centre de compétences SWISSINT.
+
+<sup>2</sup> Les commandants des centres de recrutement sont responsables de l’organisation de l’examen d’aptitude général. Le commandant du centre de compétences SWISSINT assume la responsabilité de l’organisation de l’examen d’aptitude propre à la fonction.
+
+<sup>3</sup> Les militaires de formations professionnelles effectuant des engagements techniques spécifiques sont soumis à une sélection supplémentaire et à un examen d’aptitude propre à chaque commandement.
+
+#### Art. 3
+
+**Objet de l’examen d’aptitude**
+
+<sup>1</sup> L’examen d’aptitude a pour but de juger le profil des candidats en fonction des exigences et leurs dispositions générales pour un engagement en service de promotion de la paix.
+
+<sup>2</sup> Les candidats sont soumis à deux types d’examens.
+
+- a.
+
+  un examen général d’aptitude dont le but est d’examiner et d’établir:
+
+  - 1\. leur état de santé,
+  - 2\. leurs aptitudes physiques (endurance, force, rapidité et coordination),
+  - 3\. leur intelligence et leur personnalité (intellect, aptitude à résoudre des problèmes, capacité de concentration, attention, flexibilité, rigueur, confiance en soi, inclinations naturelles),
+  - 4\. leur aptitude psychique (santé psychique, intrépidité, confiance en soi, résistance au stress, stabilité émotionnelle, sociabilité),
+  - 5\. leur compétence sociale (comportement et sensibilité en société et en groupe, esprit communautaire),
+  - 6\. leur potentiel à devenir cadre,
+  - 7\. leurs connaissances linguistiques;
+
+- b.
+
+  un examen d’aptitude propre à la fonction, dont le but est d’examiner et d’établir:
+
+  - 1\. l’existence de certaines conditions personnelles particulières au sens de l’ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)[^3-1],
+  - 2\. l’aptitude à exercer certaines fonctions, au sein de la troupe ou en tant que cadre, selon des critères ne correspondant pas à ceux du profil général défini sous let. a.
+
+[^3-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 4
+
+**Définition des profils d’exigences**
+
+Le centre de compétences SWISSINT:
+
+- a. élabore les profils d’exigences, en collaboration avec le commandement du recrutement du Groupement Défense;
+- b. peut, en collaboration avec le commandement du recrutement du Groupement Défense, prescrire d’autres examens nécessaires pour un engagement dans une zone de mission spécifique.
+
+#### Art. 5
+
+**Lieu et durée de l’examen d’aptitude**
+
+<sup>1</sup> L’examen d’aptitude général a lieu dans un centre régional de recrutement et dure une journée.
+
+<sup>2</sup> L’examen d’aptitude propre à la fonction a lieu au centre de compétences SWISSINT et dure une journée.
+
+<sup>3</sup> L’examen d’aptitude médical du personnel militaire navigant et des parachutistes ainsi que des spécialistes des Forces aériennes a lieu à l’Institut de médecine aéronautique et dure une journée au maximum.
+
+#### Art. 6
+
+**Imputation**
+
+Les jours consacrés à des examens d’aptitude pour le service de promotion de la paix sont, conformément à l’OMi[^6-1], imputés sur la durée totale des services d’instruction, pour autant que ces derniers n’aient pas encore été accomplis intégralement.
+
+[^6-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+## Section 3 Instruction du personnel
+
+#### Art. 7
+
+**Instruction axée sur l’engagement**
+
+<sup>1</sup>
+
+Le futur personnel affecté aux domaines de la promotion de la paix, du renforcement des droits de l’homme, de l’aide humanitaire, et de l’instruction de troupes étrangères à l’étranger est soumis à un examen d’aptitude propre à la fonction, correspondant soit:
+
+- a. à une instruction axée sur l’engagement pour membres du contingent;
+- b. à une instruction axée sur l’engagement pour les collaborateurs engagés à titre individuel.
+
+<sup>2</sup> L’instruction axée sur l’engagement peut être effectuée totalement ou en partie en dehors du centre de compétences SWISSINT.
+
+#### Art. 8
+
+**Imputation**
+
+L’instruction axée sur l’engagement, conformément à l’art. 43, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^8-1], donne droit à la solde et est imputée sur la durée totale des services d’instruction, pour autant que ces derniers n’aient pas encore été accomplis intégralement.
+
+[^8-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 9
+
+**Services d’instruction selon l’OMi**
+
+Si un service d’instruction selon l’OMi[^9-1] coïncide totalement ou partiellement avec un engagement, l’autorité compétente ordonne un déplacement de service pour des raisons militaires.
+
+[^9-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+## Section 4 Rapports de travail et compétences
+
+#### Art. 10
+
+**Rapports de travail**
+
+<sup>1</sup> L’instruction et l’engagement sont réglés dans des contrats de travail séparés.
+
+<sup>2</sup> Le fait d’avoir achevé l’instruction ne donne pas droit à être recruté pour un engagement.
+
+<sup>3</sup> Pendant la durée des rapports de travail, le personnel a le statut de militaire contractuel au sens de l’art. 47, al. 3, LAAM[^10-1], à l’exception des militaires de métier selon l’art. 47, al. 1, LAAM. Les militaires contractuels ne sont pas soumis à l’ordonnance du DDPS du 9 décembre 2003 sur le personnel militaire[^10-2].
+
+[^10-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^10-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+
+#### Art. 11
+
+**Durée de validité du contrat de travail**
+
+<sup>1</sup> Le contrat de travail pour l’instruction est limité à la durée de celle-ci.
+
+<sup>2</sup> Le contrat de travail pour l’engagement concret est limité à la durée de celui-ci. Si l’engagement est de durée indéterminée, la durée du contrat de travail est d’un an au maximum.
+
+<sup>3</sup> Si l’instruction ou l’engagement sont accomplis en partie comme service militaire avec imputation sur la durée totale des services d’instruction, le contrat de travail est conclu pour la durée restante de l’instruction ou de l’engagement.
+
+<sup>4</sup> Le contrat de travail pour l’engagement peut être prolongé une fois d’un commun accord. Le commandement des Opérations du Groupement Défense peut accorder une prolongation supplémentaire dans des cas dûment justifiés.
+
+<sup>5</sup> La durée d’un contrat de travail, ou de contrats de travail qui se succèdent sans interruption, ne doit pas excéder dix ans au total.
+
+#### Art. 12
+
+**Grade militaire**
+
+<sup>1</sup>
+
+Dans le cadre de l’instruction et de l’engagement, le personnel revêt:
+
+- a. le grade qu’il avait jusqu’alors dans l’armée;
+- b. le grade qu’il avait au moment de sa libération des obligations militaires;
+- c. le grade de soldat s’il n’était pas incorporé auparavant dans l’armée.
+
+<sup>2</sup>
+
+Sont réservées:
+
+- a. la nomination au grade d’officier spécialiste selon l’art. 104 LAAM[^12-1];
+- b. l’attribution d’un autre grade pour une durée limitée en vertu de l’art. 76, al. 2, let. c, OMi[^12-2].
+
+[^12-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^12-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 13
+
+**Compétences relatives aux décisions relevant de l’employeur et à l’encadrement du personnel**
+
+<sup>1</sup> Les autorités compétentes pour les décisions de l’employeur sont celles citées à l’art. 2 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^13-1] et dans les dispositions fondées sur cette dernière.
+
+<sup>2</sup> Le commandement des Opérations du Groupement Défense mentionné à l’annexe 1 de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^13-2] est compétent pour l’encadrement du personnel.
+
+[^13-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^13-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 14
+
+**Qualification et proposition**
+
+Les art. 73 et 74 OMi[^14-1] sont applicables par analogie à la qualification et à la proposition du personnel en phase d’instruction et du personnel en engagement.
+
+[^14-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+#### Art. 15
+
+**Annonce du personnel astreint à l’administration compétente de la taxe d’exemption de l’obligation de servir**
+
+Le commandement des Opérations du Groupement Défense annonce l’identité du membre du personnel astreint et la durée de son emploi en tant que militaire à l’administration compétente de la taxe d’exemption de l’obligation de servir.
+
+#### Art. 16
+
+**Jours de travail et jours de repos pendant l’engagement**
+
+<sup>1</sup> Si le contrat de travail ne prévoit pas d’autres dispositions, la semaine de travail de six jours ouvrés et un jour de repos s’applique au lieu d’affectation.
+
+<sup>2</sup> Dans des cas extraordinaires, les personnes revêtant une fonction de commandant ou de chef de mission peuvent déroger provisoirement à cette règle au lieu d’affectation. Les jours de travail supplémentaires accomplis dans ce cadre doivent être compensés par du temps libre de durée équivalente pendant l’engagement.
+
+#### Art. 17
+
+**Vacances**
+
+<sup>1</sup> Si les rapports de travail durent moins d’une année, le droit aux vacances prévu par l’art. 24 OPers-PDHH est réduit proportionnellement.
+
+<sup>2</sup> Le droit aux vacances prévu par le contrat de travail du personnel qui reste employé du DDPS pendant l’engagement est réduit en proportion de la durée de l’engagement, pour autant que des vacances soient prises durant l’engagement conformément à l’OPers-PDHH.
+
+<sup>3</sup> La base de calcul pour le droit proportionnel aux vacances est de douze mois par an et de 30 jours par mois.
+
+<sup>4</sup>
+
+Ne comptent pas comme jours de vacances:
+
+- a. les jours de repos visés à l’art. 16, al. 1;
+- b. les congés prévus à l’art. 26 OPers-PDHH;
+- c. les jours de trajet aller et retour entre la Suisse et le lieu d’affectation, au début et à la fin de l’engagement;
+- d. les jours de trajet aller et retour entre le lieu de congé et le lieu d’affectation.
+
+#### Art. 18
+
+**Congés dévolus aux bagages**
+
+Le personnel a droit à des jours de congé pour faire et défaire ses bagages, au début et à la fin de l’engagement. Ces jours de congé comprennent:
+
+- a. un demi-jour de travail pour les engagements ne dépassant pas 14 jours;
+- b. un jour de travail pour les engagements de 15 à 30 jours;
+- c. un jour et demi de travail pour les engagements de 31 à 120 jours;
+- d. deux jours de travail pour les engagements dépassant 120 jours.
+
+## Section 5 Dispositions finales
+
+#### Art. 19
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du DDPS du 25 août 2009 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire[^19-1] est abrogée.
+
+[^19-1]: [[RO 2009 4773](https://fedlex.data.admin.ch/eli/oc/2009/565), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)ch. I 3]
+
+#### Art. 20
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.

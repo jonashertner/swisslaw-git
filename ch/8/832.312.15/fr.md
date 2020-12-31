@@ -1,0 +1,410 @@
+---
+sr: "832.312.15"
+title: "Ordonnance du 27 septembre 1999 sur les conditions de sécurité régissant l'utilisation des grues (Ordonnance sur les grues)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2000/27"
+language: fr
+version: 2010-07-01
+adopted: 1999-09-27
+in_force: 2000-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/27/20100701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-27-20100701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/27/20100701/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les conditions de sécurité régissant l’utilisation des grues
+
+(Ordonnance sur les grues)
+
+du 27 septembre 1999 (Etat le 1<sup>er</sup> juillet 2010)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 83, al. 1, de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente ordonnance fixe les mesures qui doivent être prises pour assurer la sécurité des travailleurs lors de l’utilisation des grues.[^1-1]
+
+<sup>2</sup> A défaut de réglementation spéciale dans la présente ordonnance, l’ordonnance du 19 décembre 1983 sur la prévention des accidents (OPA)[^1-2] s’applique.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^1-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+
+#### Art. 2
+
+**Grues**[^2-1]
+
+<sup>1</sup>
+
+Sont considérés comme grues au sens de la présente ordonnance les appareils de levage qui présentent les caractéristiques suivantes:
+
+- a. la charge nominale au crochet de la grue est de 1000 kg au moins ou le moment de charge est de 40 000 Nm au moins;
+- b. l’appareil possède un dispositif de levage actionné par un moteur;
+- c. le crochet de la grue peut être déplacé librement à l’horizontale sur un axe au minimum.
+
+<sup>2</sup>
+
+Les grues sont classées dans les catégories suivantes:
+
+- a. les camions-grue comme les grues automobiles, les grues mobiles, les grues sur chenilles, les grues sur remorque, les élévateurs télescopiques et les grues sur rails équipés d’un treuil, de même que les grues de chargement des camions dont le moment de charge dépasse 400 000 Nm ou dont la longueur de flèche est supérieure à 22 m;
+- b. les grues à tour pivotantes comme les grues à tour fixe, les grues à base tournante et les grues à volée variable;
+- c. les autres grues comme les grues à portique, les ponts roulants, les grues à flèche, les grues pivotantes, les élévateurs télescopiques et les grues sur rails non équipés de treuils, de même que les grues de chargement des camions dont le moment de charge est de 400 000 Nm au plus et dont la longueur de la flèche est inférieure ou égale à 22 m.
+
+<sup>3</sup>
+
+Ne sont pas considérés comme grues:
+
+- a. les appareils qui servent au transport de personnes;
+- b. les machines de chantier conçues pour les travaux de terrassement et équipées d’un crochet de suspension.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 3
+
+**Livre de grue et déclaration de conformité[^3-1]**
+
+<sup>1</sup> Chaque grue doit être pourvue d’un livre de grue. Les grues qui ont été mises en circulation après le 31 décembre 1996 doivent en outre être pourvues de la déclaration de conformité du producteur prévue par l’art. 9 de l’ordonnance du 19 mai 2010 sur la sécurité des produits[^3-2]. Ces documents doivent être conservés de façon à pouvoir être consultés sur demande par l’organe d’exécution compétent au sens des art. 47 à 51 OPA[^3-3] (organe d’exécution).[^3-4]
+
+<sup>2</sup>
+
+Le livre de grue doit au moins contenir les données suivantes:
+
+- a. le nom et l’adresse du fabricant;
+- b. l’indication de la série ou du type;
+- c. le numéro de série;
+- d. l’année de fabrication;
+- e. les données techniques de base, en particulier les dimensions, le poids, la capacité de charge et l’état possible d’équipement.
+
+<sup>3</sup>
+
+Doivent en outre être portés dans le livret de grue, dans l’ordre chronologique, avec la date, le nom et la signature:[^3-5]
+
+- a. le résultat des contrôles requis à l’art. 15;
+- b. les travaux de maintenance et les modifications effectuées;
+- c.[^3-6] les emplacements et l’état d’équipement des grues, sauf pour les camions-grue définis à l’art. 2, al. 2, let. a, et pour les grues de chargement des camions, les grues sur rails et les élévateurs télescopiques définis à l’art. 2, al. 2, let. c;
+- d. les événements à caractère exceptionnel qui ont trait à la sécurité de la grue;
+- e. le nom du propriétaire de la grue.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^3-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^3-3]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^3-4]: Nouvelle teneur selon le ch. II 11 de l’annexe 4 à l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+## Chapitre 2 Utilisation des grues
+
+#### Art. 4
+
+**Principes**
+
+<sup>1</sup> Les grues ne peuvent être utilisées qu’en parfait état de service. Elles doivent être transportées, installées, entretenues et démontées de façon à ne mettre personne en danger. Les indications du fabricant doivent être observées.
+
+<sup>2</sup> Le montage et le démontage de grues ainsi que les travaux de maintenance ne peuvent être exécutés que par des personnes formées à cet effet.
+
+<sup>3</sup> Avant d’utiliser des grues à proximité de conduites électriques dénudées ou d’installations ferroviaires, les mesures complémentaires adéquates doivent être convenues avec le propriétaire des conduites électriques ou avec les sociétés de chemins de fer. Si les personnes concernées ne parviennent pas à se mettre d’accord, il convient d’en informer l’organe d’exécution.
+
+<sup>4</sup> Lorsque des obstacles limitent le domaine d’action des grues, des mesures de protection doivent être prises pour éviter les collisions.
+
+<sup>5</sup> Le transport de personnes au moyen de grues qui ne sont pas expressément prévues à cet effet par le fabricant est interdit. Lorsque des circonstances spéciales rendent un tel transport nécessaire, une autorisation préalable au sens de l’art. 69 OPA[^4-1] doit être demandée à la Caisse nationale suisse d’assurance en cas d’accidents (CNA).
+
+[^4-1]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+
+#### Art. 5
+
+**Exigences applicables au personnel conduisant les grues**
+
+<sup>1</sup>
+
+Les travaux de levage au moyen de grues ne peuvent être exécutés que par des personnes qui:
+
+- a. sont en mesure, compte tenu de leur état physique et psychique, de garantir la conduite d’une grue en toute sécurité;
+- b. peuvent se faire comprendre sur le lieu de travail;
+- c. sont instruites sur la manière d’utiliser une grue.
+
+<sup>2</sup>
+
+Les travaux de levage au moyen de camions-grue ou de grues à tour pivotantes ne peuvent être exécutés que par des personnes titulaires de l’un des permis suivants:
+
+- a. permis de grutier;
+- b. permis d’élève grutier pour la période de sélection, si l’élève est accompagné d’une personne possédant un permis de grutier depuis trois ans au moins ou d’un supérieur ayant l’expérience professionnelle requise pour cette tâche;
+- c. permis d’élève grutier pour la période de travaux pratiques, si l’élève est sous la surveillance d’une personne possédant un permis de grutier depuis trois ans au moins ou d’un supérieur ayant l’expérience professionnelle requise pour cette tâche.[^5-1]
+
+<sup>3</sup> Aucun permis n’est nécessaire pour les travaux de levage exécutés dans le cadre des cours de base et des examens.[^5-2]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^5-2]: Introduit par le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 6
+
+**Travaux de levage**
+
+<sup>1</sup> Les charges doivent être assurées pour le levage, arrimées aux crochets des grues (élinguées) et déposées après le levage, de sorte qu’elles ne puissent pas se renverser, tomber ou glisser et par là constituer un danger.
+
+<sup>2</sup> Les systèmes de préhension des charges et les moyens de suspension doivent être adaptés à chaque transport et être en parfait état de service.
+
+<sup>3</sup> Les personnes qui élinguent des charges doivent être instruites sur la manière de procéder.
+
+#### Art. 7
+
+**Grue d’une autre entreprise**
+
+L’entreprise qui se voit mettre une grue à disposition par une autre entreprise répond du respect des prescriptions de la présente ordonnance, à moins que les entreprises concernées n’en conviennent autrement par écrit.
+
+## Chapitre 3 Permis et formation de grutier
+
+### Section 1 Permis de grutier
+
+#### Art. 8
+
+**Catégories**
+
+Le permis de grutier est délivré pour les catégories suivantes:
+
+- a. catégorie A: pour les camions-grue;
+- b.[^8-1] catégorie B: pour les grues à tour pivotantes.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 9
+
+**Octroi du permis d’élève grutier**[^9-1]
+
+<sup>1</sup>
+
+Le permis d’élève grutier est délivré à quiconque:
+
+- a. a atteint l’âge de 17 ans;
+- b. est en mesure, compte tenu de son état physique et psychique, de conduire une grue en toute sécurité et de se faire comprendre sur le lieu de travail; un examen d’embauche au sens de l’art. 72 OPA[^9-2] est exigé pour les jeunes gens âgés de moins de 18 ans.
+
+<sup>2</sup> Les personnes qui entrent en considération pour être formées au métier de grutier, mais dont l’aptitude à exercer cette activité doit encore être évaluée, reçoivent le permis d’élève grutier pour la période de sélection. Ce permis est remis à titre unique, sur demande, et il est valable au maximum pendant deux mois.
+
+<sup>3</sup> Les personnes qui ont terminé avec succès le cours de base au sens de l’art. 12, al. 1, et qui veulent se préparer aux examens reçoivent le permis d’élève grutier pour la période des travaux pratiques. Ce permis est remis à titre unique, sur demande, et il est valable au maximum pendant dix mois. En cas d’échec aux examens, le permis d’élève grutier peut être prolongé au maximum deux fois, à compter de la date de l’examen, à chaque fois pour une durée de six mois.
+
+<sup>4</sup> En cas de maladie, d’accident, de grossesse, de service militaire, de service civil ou de service dans la protection civile, le permis d’élève grutier pour la période des travaux pratiques peut être prolongé de la durée correspondante, sur demande écrite dûment motivée.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^9-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+
+#### Art. 10
+
+**Octroi du permis de grutier**
+
+Le permis de grutier de la catégorie A ou B est délivré aux personnes qui:
+
+- a. sont âgées de 18 ans révolus;
+- b. sont en mesure, compte tenu de leur état physique et psychique, de garantir la conduite d’une grue en toute sécurité;
+- c.[^10-1] ont terminé avec succès la formation de grutier conformément à l’art. 12 ou une formation équivalente.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 11
+
+**Compétence pour l’octroi et le retrait du permis**
+
+<sup>1</sup> Les permis de grutier et d’élève grutier sont délivrés par la CNA.
+
+<sup>2</sup>
+
+La CNA retire le permis lorsque:
+
+- a. les conditions requises pour l’octroi du permis ne sont plus remplies;
+- b. le titulaire du permis contrevient intentionnellement ou par négligence aux prescriptions sur la prévention des accidents.
+
+### Section 2 Formation de grutier
+
+#### Art. 12
+
+**Généralités**[^12-1]
+
+<sup>1</sup> La formation requise pour l’obtention d’un permis de grutier comprend un cours de base et un examen.
+
+<sup>2</sup> Le titulaire du permis de grutier de l’une des catégories peut se présenter à l’examen pour l’obtention du permis de l’autre catégorie sans avoir à suivre un nouveau cours de base.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 13
+
+**Cours de base et examens**[^13-1]
+
+<sup>1</sup>
+
+Les cours de base et les examens portent sur les matières suivantes:
+
+- a. le montage sur le lieu de travail et l’emploi des camions-grue pour les grues de la catégorie A;
+- b. l’emploi des grues à tour pivotantes pour les grues de la catégorie B;
+- c. l’élingage correct des charges, en théorie et en pratique;
+- d. les règles de la sécurité au travail et de la protection de la santé dans l’emploi de grues;
+- e. les droits et les obligations des grutiers;
+- f. la vérification et l’entretien des grues par les grutiers.
+
+<sup>2</sup> L’examen peut être répété deux fois.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 14
+
+**Reconnaissance des cours de base et des examens**[^14-1]
+
+<sup>1</sup> Les établissements de formation qui garantissent qu’ils respectent durablement les conditions visées à l’art. 13 peuvent faire reconnaître leurs cours de base et leurs examens par la Caisse nationale suisse d’assurance en cas d’accidents (CNA).
+
+<sup>2</sup>
+
+Ils doivent présenter à la CNA une demande, rédigée dans l’une des langues officielles de la Suisse, indiquant notamment:
+
+- a. les parties des formations proposées, par catégorie de grues;
+- b. le plan d’études et le règlement du cours de base;
+- c. les matières et le règlement d’examen;
+- d. les qualifications des formateurs;
+- e. les qualifications des experts aux examens;
+- f. l’organisation et le financement des cours de base et des examens.
+
+<sup>3</sup> Si la CNA constate que les conditions de la reconnaissance ne sont plus remplies, elle peut retirer la reconnaissance des cours de base et des examens.
+
+<sup>4</sup> La CNA tient une liste des cours de base et des examens reconnus; cette liste est publique.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+## Chapitre 4 Contrôle
+
+### Section 1 Contrôles des grues
+
+#### Art. 15
+
+<sup>1</sup> L’employeur doit faire contrôler régulièrement, selon les règles reconnues de la technique, si les grues qu’il utilise sont en parfait état de service ou s’assurer que ces contrôles ont été exécutés.
+
+<sup>2</sup> Les contrôles doivent être exécutés par des personnes formées à cet effet.
+
+<sup>3</sup> Pour le contrôle des camions-grue et des grues à tour pivotante, il faut faire appel à un expert en grues au sens de l’art. 16, al. 1.[^15-1]
+
+<sup>4</sup> La commission de coordination édicte des directives sur la fréquence, l’ampleur et la procédure des contrôles.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+### Section 2 Experts en grues
+
+#### Art. 16
+
+**Reconnaissance**
+
+<sup>1</sup>
+
+La CNA reconnaît comme expert en grues les personnes qui:[^16-1]
+
+- a. sont titulaires d’un brevet fédéral d’agent de maintenance ou d’un certificat équivalent;
+- b.[^16-2] peuvent justifier d’une expérience professionnelle de cinq ans au moins dans le domaine du montage, du démontage et de la maintenance de camions-grue ou de grues à tour pivotantes; et
+- c. ont une expérience en électrotechnique et en technique de commande usuelle dans la fabrication de grues.
+
+<sup>2</sup> Les experts en grues sont tenus de suivre une formation continue appropriée dans les domaines qui sont indispensables à l’exercice de leurs tâches, en particulier dans le domaine de la maintenance et dans celui de la technique relative aux grues.
+
+<sup>3</sup>
+
+La CNA peut décider du retrait de la reconnaissance lorsque:
+
+- a. les conditions de la reconnaissance ne sont plus remplies;
+- b. l’expert ne se conforme pas aux prescriptions de la présente ordonnance, en particulier dans l’exercice de ses tâches.
+
+<sup>4</sup> La CNA tient une liste des experts en grues; cette liste est publique.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 17
+
+**Statut vis-à-vis de l’entreprise**
+
+<sup>1</sup> L’employeur doit assurer aux experts en grues les conditions nécessaires à l’accomplissement de leurs tâches. Ceux-ci doivent renseigner l’employeur sur leur activité.
+
+<sup>2</sup> Les experts en grues doivent bénéficier de l’indépendance nécessaire pour s’acquitter de leur tâche. L’accomplissement de leur tâche ne doit entraîner pour eux aucun préjudice.
+
+#### Art. 18
+
+**Statut vis-à-vis de la CNA**
+
+<sup>1</sup> Les experts en grues doivent renseigner la CNA, à sa demande, sur leurs activités de contrôle et tenir leurs documents à disposition. La CNA en informe l’employeur.
+
+<sup>2</sup> La CNA conseille et soutient les experts en grues.
+
+<sup>3</sup> En cas de danger grave et imminent pour la vie et la santé des travailleurs et si l’employeur refuse de prendre les mesures qui s’imposent, les experts en grues doivent immédiatement en aviser la CNA.
+
+#### Art. 18a
+
+**Directives de la commission de coordination**[^18a-1]
+
+La commission de coordination prévue à l’art. 85, al. 2, LAA édicte les directives visées à l’art. 52*a* OPA[^18a-2] en vue de l’application de la présente ordonnance.
+
+[^18a-1]: Introduit par le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+[^18a-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+
+## Chapitre 5 Voies de droit
+
+#### Art. 19
+
+[^19-1]
+
+Les décisions de la CNA prises en application des art. 11, 14 et 16 sont sujettes à recours conformément aux dispositions générales de la procédure fédérale.
+
+[^19-1]: Nouvelle teneur selon le ch. II 98 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+
+## Chapitre 6 Dispositions finales
+
+#### Art. 20
+
+**Dispositions transitoires concernant les conducteurs de grues**
+
+<sup>1</sup> Toute personne ayant acquis, avant l’entrée en vigueur de la présente ordonnance, une expérience professionnelle comme grutier peut obtenir le permis d’élève grutier sans avoir suivi au préalable le cours de base décrit à l’art. 13, al. 1. Si cette personne peut justifier d’une expérience professionnelle de plus de cinq ans, il lui est délivré un permis d’élève grutier valable jusqu’au 31 décembre 2004. On ne peut se présenter à l’examen de grutier qu’après avoir suivi le cours de base de la catégorie correspondante.
+
+<sup>2</sup> Toute personne qui a obtenu, avant le 1<sup>er</sup> juillet 2000, un permis de grutier reconnu par des autorités cantonales ou communales ou un permis équivalent peut demander à la CNA un permis de grutier des catégories A ou B. L’art. 10, let. b, est réservé.[^20-1]
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 21
+
+**Dispositions transitoires concernant les experts en grues**[^21-1]
+
+<sup>1</sup> Toute personne qui aura acquis, avant l’entrée en vigueur de la présente ordonnance, une expérience professionnelle de 25 ans au moins dans les domaines du montage, du démontage et de la maintenance de camions-grue ou de grues à tour pivotantes et une expérience en électrotechnique et en technique de commande usuelle dans la fabrication de grues, est reconnue, sur demande, comme expert en grues par la CNA.
+
+<sup>2</sup> Toute personne qui aura acquis, avant l’entrée en vigueur de la présente ordonnance, une expérience professionnelle de dix ans au moins dans les domaines du montage, du démontage et de la maintenance de camions-grue ou de grues à tour pivotantes et une expérience en électrotechnique et en technique de commande usuelle dans la fabrication de grues, est reconnue, sur demande, sans devoir effectuer un formation complémentaire, comme expert en grues par la CNA jusqu’au 30 juin 2003.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 21a
+
+**Dispositions transitoires de la modification du 5 septembre 2007**[^21a-1]
+
+Les exigences des art. 5, al. 2, et 15, al. 3, s’appliquent à compter du 1<sup>er</sup> janvier 2010 pour les grues sur chenilles, les grues sur remorque, les élévateurs à fourche télescopique et les grues sur rails équipés de treuils, de même que pour les grues de chargement des camions dont le moment de charge dépasse 400 000 Nm ou dont la longueur de la flèche est supérieure à 22 m.
+
+[^21a-1]: Introduit par le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> oct. 2007 ([RO 2007 4445](https://fedlex.data.admin.ch/eli/oc/2007/619)).
+
+#### Art. 22
+
+**Abrogation du droit en vigueur**
+
+L’ordonnance du 22 juin 1951 concernant les mesures destinées à prévenir des accidents dans l’emploi de grues et d’engins de levage[^22-1] est abrogée.
+
+[^22-1]: [[RO 1951 623](https://fedlex.data.admin.ch/eli/oc/1951/625_623_641)[1160](https://fedlex.data.admin.ch/eli/oc/1951/1156_1160_1188)]
+
+#### Art. 23
+
+**Modification du droit en vigueur**
+
+...*[^23-1]*
+
+[^23-1]: La mod. peut être consultée au [RO 2000 166](https://fedlex.data.admin.ch/eli/oc/2000/27).
+
+#### Art. 24
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2000, sous réserve de l’al. 2.
+
+<sup>2</sup> L’art. 5, al. 2, entre en vigueur le 1<sup>er</sup> janvier 2001.

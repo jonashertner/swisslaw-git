@@ -1,0 +1,983 @@
+---
+sr: "817.023.11"
+title: "Verordnung des EDI vom 15. August 2012 über die Sicherheit von Spielzeug (Spielzeugverordnung, VSS)"
+short: VSS
+eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
+language: de
+version: 2019-12-01
+adopted: 2012-08-15
+in_force: 2012-10-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20191201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des EDI über die Sicherheit von Spielzeug
+
+(Spielzeugverordnung, VSS)
+
+vom 15. August 2012 (Stand am 1. Dezember 2019)
+
+Das Eidgenössische Departement des Innern (EDI),
+
+gestützt auf die Artikel 47 Absatz 5, 66 Absatz 4, 92 und 95 Absatz 3 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^ingress-1] (LGV),[^ingress-2]
+
+verordnet:
+
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung gilt für Spielzeug nach Artikel 65 LGV.[^1-1]
+
+<sup>2</sup> Gegenstände nach Anhang 1 Ziffer I gelten nicht als Spielzeug.
+
+<sup>3</sup>
+
+Diese Verordnung gilt nicht für:
+
+- a. Spielzeug nach Anhang 1 Ziffer II;
+- b. gebrauchtes Spielzeug im Sinne von Artikel 1 Absatz 4 des Bundesgesetzes vom 12. Juni 2009[^1-2] über die Produktesicherheit;
+- c. Spielzeug, das auf lokaler Ebene an Basaren, Schulfesten und Ähnlichem in beschränktem Umfang in Verkehr gebracht wird.
+
+[^1-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^1-2]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+
+#### Art. 1<sup>bis</sup>
+
+**Begriffe**[^1bis-1]
+
+<sup>1</sup>
+
+In dieser Verordnung bedeuten:
+
+- a. *Herstellerin*: jede natürliche oder juristische Person, die ein Spielzeug herstellt, entwickelt oder herstellen lässt und dieses Spielzeug unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet;
+- b. *Bevollmächtigte*: jede natürliche oder juristische Person, die von einer Herstellerin schriftlich beauftragt wurde, in ihrem Namen bestimmte Aufgaben wahrzunehmen;
+- c. *Importeurin*: jede natürliche oder juristische Person, die ein Spielzeug aus dem Ausland in Verkehr bringt;
+- d. *Händlerin*: jede natürliche oder juristische Person in der Lieferkette, die ein Spielzeug in Verkehr bringt, mit Ausnahme der Herstellerin oder der Importeurin;
+- e. *Gefahr*: die mögliche Ursache eines Schadens;
+- f. *gefährlich:* etwas, das eine Gefahr darstellt;
+- g. *Risiko*: die Eintrittswahrscheinlichkeit einer Gefahr, die einen Schaden verursacht, und die Schwere des Schadens.
+
+<sup>2</sup> Für die korrekte Auslegung der Ausdrücke, die in der Richtlinie 2009/48/EG[^1bis-2], auf die diese Verordnung verweist, genannt werden, gelten die folgenden Entsprechungen:
+
+<table>
+<tr><td></td><td>Ausdruck in der Richtlinie 2009/48/EG</td><td>Ausdruck in dieser Verordnung</td></tr>
+<tr><td>a.</td><td>Deutsche Ausdrücke:</td><td></td></tr>
+<tr><td></td><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen*</td><td>*Inverkehrbringen / in Verkehr bringen*</td></tr>
+<tr><td></td><td>*Inverkehrbringen*</td><td>*Erstmaliges Inverkehrbringen / erstmalig in Verkehr bringen*</td></tr>
+<tr><td></td><td>*Einführer*</td><td>*Importeur*</td></tr>
+<tr><td></td><td>*Gemisch*</td><td>*Zubereitung*</td></tr>
+<tr><td>b.</td><td>Französische Ausdrücke:</td><td></td></tr>
+<tr><td></td><td>*mise à dispostion sur le marché*</td><td>*mise sur le marché*</td></tr>
+<tr><td></td><td>*mise sur le marché*</td><td>*première mise sur le marché*</td></tr>
+<tr><td></td><td>*mélange*</td><td>*préparation*</td></tr>
+<tr><td>c.</td><td>Italienische Ausdrücke:</td><td></td></tr>
+<tr><td></td><td>*messa a disposizione sul mercato*</td><td>*immissione in commercio*</td></tr>
+<tr><td></td><td>*immissione sul mercato*</td><td>*prima immissione in commercio*</td></tr>
+<tr><td></td><td>*miscela*</td><td>*preparato*</td></tr>
+</table>
+
+[^1bis-1]: Eingefügt durch Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^1bis-2]: Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug, ABl. L 170 vom 30.6.2009, S. 1; zuletzt geändert durch Richtlinie 2015/2017/EU, ABl. L 306 vom 24.11.2015, S. 23.
+
+#### Art. 2
+
+**Importeurin oder Händlerin als Herstellerin**
+
+Die Importeurin oder Händlerin gilt als Herstellerin im Sinne dieser Verordnung und unterliegt den Verpflichtungen für die Herstellerin, wenn sie:
+
+- a. ein Spielzeug unter ihrem eigenen Namen oder ihrer eigenen Marke erstmalig in Verkehr bringt; oder
+- b. ein bereits in Verkehr befindliches Spielzeug so verändert, dass die Möglichkeit besteht, dass dieses die geltenden Anforderungen nicht mehr erfüllt.
+
+## 2. Abschnitt: Sicherheitsanforderungen an Spielzeug
+
+#### Art. 3
+
+<sup>1</sup>
+
+Spielzeug muss die folgenden Sicherheitsanforderungen erfüllen (im Folgenden: Sicherheitsanforderungen):
+
+- a.[^3-1] die allgemeinen Sicherheitsanforderungen nach Artikel 66 Absätze 1–3 LGV; und
+- b. die besonderen Sicherheitsanforderungen nach Anhang 2.
+
+<sup>2</sup> Spielzeug, das in Verkehr gebracht wird, muss die Sicherheitsanforderungen während der vorhersehbaren und normalen Gebrauchsdauer erfüllen.
+
+<sup>3</sup> Bringt die Herstellerin ihr Spielzeug erstmals in Verkehr, so stellt sie sicher, dass das Spielzeug nach den Sicherheitsanforderungen entworfen und hergestellt wurde.
+
+<sup>4</sup>
+
+Hat die Importeurin oder die Händlerin Grund zur Annahme, dass ein Spielzeug die Sicherheitsanforderungen nicht erfüllt, so darf sie dieses Spielzeug nicht in Verkehr bringen, bevor das Spielzeug die Sicherheitsanforderungen erfüllt. Ist mit dem Spielzeug ein Risiko[^3-2] verbunden, so informiert:
+
+- a. die Importeurin: die Herstellerin und die Vollzugsbehörden;
+- b. die Händlerin: die Herstellerin oder Importeurin und die Vollzugsbehörden.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^3-2]: Ausdruck gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)). Diese Änd. wurde in den in der AS aufgeführten Bestimmungen berücksichtigt.
+
+## 3. Abschnitt: Spielzeug auf Handelsmessen und Ausstellungen
+
+#### Art. 4
+
+Spielzeug, das die Bestimmungen dieser Verordnung nicht erfüllt, darf auf Handelsmessen und Ausstellungen ausgestellt und verwendet werden, sofern ein ihm beigefügtes Schild eindeutig anzeigt, dass es den Bestimmungen dieser Verordnung nicht entspricht und dass es erst dann in Verkehr gebracht wird, wenn es den Bestimmungen dieser Verordnung entspricht.
+
+## 4. Abschnitt: Kennzeichnung
+
+#### Art. 5
+
+**Warnhinweise und Gebrauchsanweisung**
+
+<sup>1</sup> Ist es für den sicheren Gebrauch von Spielzeug erforderlich, so sind in Warnhinweisen geeignete Benutzereinschränkungen nach Anhang 3 Teil A anzugeben.
+
+<sup>2</sup> Spielzeug der Kategorien nach Anhang 3 Teil B ist mit den dort angegebenen besonderen Warnhinweisen zu versehen. Die Warnhinweise nach Anhang 3 Teil B Ziffern 2–10 müssen mit dem dortigen Wortlaut verwendet werden.
+
+<sup>3</sup>
+
+Die Warnhinweise sind inhaltlich richtig, deutlich sichtbar, leicht lesbar und verständlich anzubringen:
+
+- a. auf dem Spielzeug selbst, auf einem fest angebrachten Etikett oder auf der Verpackung; und
+- b. falls für den Gebrauch erforderlich: auf der beigefügten Gebrauchsanweisung.
+
+<sup>4</sup> Bei kleinem Spielzeug, das ohne Verpackung verkauft wird, sind die zutreffenden Warnhinweise wenn möglich auf dem Spielzeug selbst anzubringen.
+
+<sup>5</sup> Die für die Entscheidung zum Kauf eines Spielzeugs massgeblichen Warnhinweise müssen auf der Verpackung angegeben oder in anderer Form für die Konsumentinnen und Konsumenten vor dem Kauf klar erkennbar sein. Dies gilt auch für den Fernkauf.
+
+<sup>6</sup> Spielzeug darf nicht mit Warnhinweisen nach Anhang 3 Teil B versehen werden, die dem bestimmungsgemässen Gebrauch des Spielzeugs aufgrund seiner Funktionen, Abmessungen und Eigenschaften widersprechen.
+
+<sup>7</sup> …[^5-1]
+
+<sup>8</sup> Die Herstellerin und die Importeurin stellen sicher, dass dem Spielzeug die Warnhinweise und die Gebrauchsanweisung beigefügt sind, bevor sie ein Spielzeug erstmals in Verkehr bringen.
+
+<sup>9</sup> Die Händlerin überprüft, ob dem Spielzeug die Warnhinweise und die Gebrauchsanweisung beigefügt sind, bevor sie es in Verkehr bringt.
+
+[^5-1]: Aufgehoben durch Ziff. I der V des EDI vom 16. Dez. 2016, mit Wirkung seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 6
+
+**Identifikationskennzeichen**
+
+<sup>1</sup> Spielzeug muss ein Kennzeichen zu seiner Identifikation tragen (z.B. Typen-, Chargen-, Modell- oder Seriennummer). Ist dies aufgrund der Grösse oder Art des Spielzeugs nicht möglich, so können die erforderlichen Informationen auf der Verpackung oder in den dem Spielzeug beigefügten Unterlagen angegeben werden.
+
+<sup>2</sup> Die Herstellerin bringt das Identifikationskennzeichen an.
+
+<sup>3</sup> Die Importeurin stellt sicher, dass das Spielzeug mit dem Identifikationskennzeichen versehen ist, bevor sie es erstmals in Verkehr bringt.
+
+<sup>4</sup> Die Händlerin überprüft, ob das Spielzeug mit dem Identifikationskennzeichen versehen ist, bevor sie es in Verkehr bringt.
+
+#### Art. 7
+
+**Angabe von Namen und Adresse**
+
+<sup>1</sup> Die Herstellerin gibt ihren Namen und ihre Adresse oder eine zentrale Stelle, unter der sie kontaktiert werden kann, entweder auf dem Spielzeug selbst oder, wenn dies nicht möglich ist, auf der Verpackung oder in den dem Spielzeug beigefügten Unterlagen an.
+
+<sup>2</sup> Die Importeurin gibt ihren Namen und ihre Adresse entweder auf dem Spielzeug selbst oder, wenn dies nicht möglich ist, auf der Verpackung oder in den dem Spielzeug beigefügten Unterlagen an. Vorbehalten bleiben internationale Abkommen, die Erleichterungen vorsehen.
+
+<sup>3</sup> Die Importeurin stellt sicher, dass die Angaben der Herstellerin vorhanden sind, bevor sie ein Spielzeug erstmals in Verkehr bringt.
+
+<sup>4</sup> Die Händlerin überprüft, ob die Angaben der Herstellerin und der Importeurin vorhanden sind, bevor sie ein Spielzeug in Verkehr bringt.
+
+## 5. Abschnitt: Konformität
+
+#### Art. 8
+
+**Konformitätsvermutung**
+
+Bei Spielzeug, das mit den in Anhang 4 aufgeführten technischen Normen übereinstimmt, wird vermutet, dass es die Sicherheitsanforderungen erfüllt, soweit diese von diesen Normen abgedeckt sind.
+
+#### Art. 9
+
+**Sicherheitsbewertung**
+
+<sup>1</sup> Die Herstellerin führt eine Sicherheitsbewertung durch, bevor sie ein Spielzeug erstmals in Verkehr bringt.
+
+<sup>2</sup>
+
+Die Sicherheitsbewertung besteht aus:
+
+- a. einer Analyse der Gefahren, die von seinen chemischen, physikalischen, mechanischen und elektrischen Eigenschaften, seiner Entflammbarkeit, seinen Hygieneeigenschaften sowie seiner Radioaktivität ausgehen können;
+- b. einer Bewertung der möglichen Exposition der Benutzerinnen und Benutzer sowie Dritter gegenüber diesen Gefahren.
+
+#### Art. 10
+
+**Technische Unterlagen**
+
+<sup>1</sup> Die Herstellerin erstellt technische Unterlagen zu dem Spielzeug. Sie bewahrt diese zehn Jahre ab dem erstmaligen Inverkehrbringen des Spielzeugs auf. Bei einer Serienfertigung beginnt die Frist mit dem Inverkehrbringen des letzten Exemplars zu laufen.
+
+<sup>2</sup> Die technischen Unterlagen müssen alle Angaben über die Mittel enthalten, mit denen die Herstellerin sicherstellt, dass das Spielzeug die Sicherheitsanforderungen erfüllt. Sie müssen insbesondere die in Anhang 5 aufgeführten Unterlagen enthalten.
+
+<sup>3</sup> Die Herstellerin legt auf Verlangen der Vollzugsbehörde innert 30 Tagen eine Übersetzung der massgeblichen Teile der technischen Unterlagen in einer schweizerischen Amtssprache oder in Englisch vor. Bei Vorliegen eines ernsten und unmittelbaren Risikos kann die Vollzugsbehörde eine kürzere Frist festlegen.
+
+<sup>4</sup> Kommt die Herstellerin ihren Verpflichtungen nach den Absätzen 2 und 3 nicht nach, so kann die Vollzugsbehörde von ihr verlangen, dass sie auf eigene Kosten und innerhalb einer bestimmten Frist von einer Konformitätsbewertungsstelle eine Prüfung durchführen lässt, um die Einhaltung der technischen Normen und die Erfüllung der Sicherheitsanforderungen nachzuweisen.
+
+<sup>5</sup> Die Importeurin stellt sicher, dass die Herstellerin die technischen Unterlagen erstellt hat, bevor sie ein Spielzeug erstmals in Verkehr bringt.
+
+<sup>6</sup> Sie muss während zehn Jahren nach dem Inverkehrbringen des Spielzeugs dafür sorgen, dass sie der Vollzugsbehörde die technischen Unterlagen auf Verlangen vorlegen kann. Bei einer Serienfertigung beginnt die Frist mit dem Inverkehrbringen des letzten Exemplars zu laufen.
+
+#### Art. 11
+
+**Konformitätsbewertungsverfahren**
+
+<sup>1</sup>
+
+Bevor ein Spielzeug erstmals in Verkehr gebracht wird, ist eines der folgenden Konformitätsbewertungsverfahren durchzuführen, mit dem nachgewiesen wird, dass das Spielzeug die Sicherheitsanforderungen erfüllt:
+
+- a. die interne Fertigungskontrolle nach Anhang II Modul A des Beschlusses Nr. 768/2008/EG[^11-1], wenn technische Normen nach Anhang 4 angewendet werden und diese alle Sicherheitsanforderungen abdecken;
+- b.
+
+  die Baumusterprüfung nach Artikel 12 in Verbindung mit dem Verfahren zur Konformitätsfeststellung nach Anhang II Modul C des Beschlusses Nr. 768/2008/EG, wenn:
+
+  - 1\. keine technischen Normen nach Anhang 4 vorhanden sind, die alle Sicherheitsanforderungen für das Spielzeug abdecken,
+  - 2\. technische Normen nach Anhang 4 vorhanden sind, die Herstellerin sie aber nicht oder nur teilweise angewendet hat,
+  - 3\. technische Normen nach Anhang 4 nur mit einem Vorbehalt veröffentlicht worden sind, oder
+  - 4\. die Herstellerin der Ansicht ist, dass Art, Gestaltung, Konstruktion oder Zweckbestimmung des Spielzeugs eine Überprüfung durch Dritte erfordern.
+
+<sup>2</sup> Die Herstellerin führt das Konformitätsbewertungsverfahren durch oder lässt es von einer Konformitätsbewertungsstelle durchführen.
+
+<sup>3</sup> Die Importeurin stellt sicher, dass das Konformitätsbewertungsverfahren durchgeführt worden ist, bevor sie ein Spielzeug erstmals in Verkehr bringt.
+
+[^11-1]: Beschluss Nr. 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates, Fassung gemäss ABl. L 218 vom 13.8.2008, S. 82.
+
+#### Art. 12
+
+**Baumusterprüfung**
+
+<sup>1</sup> Die Herstellerin stellt den Antrag auf Baumusterprüfung nach dem Verfahren von Anhang II Modul B Ziffer 3 des Beschlusses Nr. 768/2008/EG[^12-1]. Der Antrag muss zusätzlich eine Beschreibung des Spielzeugs und die Angabe der Adresse des Herstellungsortes des Spielzeugs enthalten.
+
+<sup>2</sup> Die Baumusterprüfung wird nach den Vorgaben von Anhang II Modul B Ziffer 2 zweiter Strich des Beschlusses Nr. 768/2008/EG durchgeführt.
+
+<sup>3</sup> Die Konformitätsbewertungsstelle führt die Baumusterprüfung durch. Sie bewertet, falls dies erforderlich ist, insbesondere aufgrund der Komplexität des Spielzeugs, gemeinsam mit der Herstellerin die nach Artikel 9 durchgeführte Sicherheitsbewertung.
+
+<sup>4</sup> Die für die Baumusterprüfung einzureichenden technischen Unterlagen und der Schriftverkehr zum Baumusterprüfverfahren werden in einer schweizerischen Amtssprache oder einer anderen von der Konformitätsbewertungsstelle akzeptierten Sprache abgefasst.
+
+[^12-1]: Siehe Fussnote zu Art. 11 Abs. 1 Bst. a.
+
+#### Art. 13
+
+**Baumusterprüfbescheinigung**
+
+<sup>1</sup>
+
+Die Konformitätsbewertungsstelle stellt die Baumusterprüfbescheinigung nach dem Verfahren von Anhang II Modul B Ziffer 6 des Beschlusses Nr. 768/2008/EG[^13-1] aus. Die Baumusterprüfbescheinigung enthält darüber hinaus:
+
+- a.[^13-2] einen Verweis auf diese Verordnung oder auf die Richtlinie 2009/48/EG[^13-3];
+- b. ein Farbfoto und eine Beschreibung des Spielzeugs einschliesslich seiner Abmessungen; und
+- c. eine Liste der durchgeführten Prüfungen mit Verweisen auf die jeweiligen Prüfberichte.
+
+<sup>2</sup>
+
+Die Herstellerin lässt die Baumusterprüfbescheinigung überprüfen:
+
+- a. bei Bedarf, insbesondere bei Änderungen des Fertigungsverfahrens, der Rohstoffe oder der Bestandteile des Spielzeugs;
+- b. mindestens aber alle fünf Jahre.
+
+<sup>3</sup> Erfüllt das Spielzeug die Sicherheitsanforderungen nicht mehr, so wird die Baumusterprüfbescheinigung zurückgezogen.
+
+[^13-1]: Siehe Fussnote zu Art. 11 Abs. 1 Bst. a.
+[^13-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+[^13-3]: Siehe Fussnote zu Art. 1<sup>bis</sup> Abs. 2.
+
+#### Art. 14
+
+**Konformitätserklärung**
+
+<sup>1</sup> Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen, dass das Spielzeug die Sicherheitsanforderungen erfüllt, so stellt die Herstellerin eine Konformitätserklärung aus.
+
+<sup>2</sup> Mit der Ausstellung der Konformitätserklärung übernimmt die Herstellerin die Verantwortung dafür, dass das Spielzeug den Bestimmungen dieser Verordnung entspricht.
+
+<sup>3</sup> Die Konformitätserklärung muss mindestens die in Anhang 6 und die in den anwendbaren Modulen nach Anhang II des Beschlusses Nr. 768/2008/EG[^14-1] angegebenen Elemente umfassen.
+
+<sup>4</sup> Sie muss in einer schweizerischen Amtssprache oder in Englisch abgefasst sein.
+
+<sup>5</sup> Die Herstellerin muss die Konformitätserklärung auf dem neuesten Stand halten.
+
+<sup>6</sup> Sie muss die Konformitätserklärung während zehn Jahren ab dem erstmaligen Inverkehrbringen des Spielzeugs aufbewahren. Bei einer Serienfertigung beginnt die Frist mit dem Inverkehrbringen des letzten Exemplars zu laufen.
+
+<sup>7</sup> Die Importeurin muss eine Kopie der Konformitätserklärung für die Vollzugsbehörden während zehn Jahren nach dem erstmaligen Inverkehrbringen des Spielzeugs bereithalten.
+
+[^14-1]: Siehe Fussnote zu Art. 11 Abs. 1 Bst. a.
+
+#### Art. 15
+
+**Serienfertigung**
+
+<sup>1</sup> Die Herstellerin setzt geeignete Verfahren ein, die sicherstellen, dass auch bei einer Serienfertigung die Bestimmungen dieser Verordnung stets eingehalten werden.
+
+<sup>2</sup> Sie hat Änderungen am Design des Spielzeugs oder an seinen Merkmalen sowie Änderungen der technischen Normen, auf die sie bei der Konformitätserklärung verweist, angemessen zu berücksichtigen.
+
+#### Art. 16
+
+**Lagerung und Transport**
+
+Die Importeurin und die Händlerin stellen sicher, dass die Lagerungs- und die Transportbedingungen das Spielzeug in der Erfüllung der Sicherheitsanforderungen nicht beeinträchtigen.
+
+## 6. Abschnitt: Konformitätsbewertungsstelle
+
+#### Art. 17
+
+<sup>1</sup>
+
+Eine Konformitätsbewertungsstelle muss:
+
+- a. nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^17-1] akkreditiert sein;
+- b. von der Schweiz im Rahmen internationaler Übereinkommen anerkannt sein; oder
+- c. durch das Bundesrecht anderweitig ermächtigt sein.
+
+<sup>2</sup> Wer sich auf die Unterlagen einer Stelle beruft, die keine der Voraussetzungen nach Absatz 1 erfüllt, muss nachweisen, dass die Qualifikation dieser Stelle und die von ihr angewandten Verfahren den Anforderungen nach Artikel 18 Absatz 2 des Bundesgesetzes vom 6. Oktober 1995[^17-2] über die technischen Handelshemmnisse genügen.
+
+<sup>3</sup>
+
+Die Konformitätsbewertungsstellen übermitteln einander folgende Informationen über Ergebnisse von Konformitätsbewertungen von Spielzeug:
+
+- a. von sich aus Informationen über die negativen Ergebnisse;
+- b. auf Verlangen Informationen über die positiven Ergebnisse.
+
+[^17-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## 7. Abschnitt: Bevollmächtigte
+
+#### Art. 18
+
+<sup>1</sup> Die Herstellerin kann schriftlich eine Bevollmächtigte benennen.
+
+<sup>2</sup>
+
+Die Bevollmächtigte nimmt die Aufgaben wahr, die im Auftrag der Herstellerin festgelegt sind. Der Auftrag umfasst mindestens folgende Aufgaben der Bevollmächtigten:
+
+- a. Sie hält die Konformitätserklärung und die technischen Unterlagen für die Vollzugsbehörde während zehn Jahren nach dem erstmaligen Inverkehrbringen des Spielzeugs bereit. Bei einer Serienfertigung beginnt die Frist mit dem Inverkehrbringen des letzten Exemplars zu laufen.
+- b. Sie händigt der Vollzugsbehörde auf deren Verlangen alle erforderlichen Informationen und Unterlagen zum Nachweis der Konformität eines Spielzeugs aus.
+- c. Sie arbeitet mit der Vollzugsbehörde auf deren Verlangen bei allen Massnahmen zur Ausräumung der Risiken, die mit einem Spielzeug verbunden sind, zusammen.
+
+<sup>3</sup>
+
+Der Herstellerin bleibt in jeden Fall verantwortlich dafür, dass:
+
+- a. das Spielzeug die Sicherheitsanforderungen erfüllt; und
+- b. die technischen Unterlagen nach Artikel 10 erstellt werden.
+
+## 8. Abschnitt: Selbstkontrolle
+
+#### Art. 19
+
+**Produktebeobachtung**
+
+<sup>1</sup> Hat die Herstellerin, die Importeurin oder die Händlerin Grund zur Annahme, dass ein von ihr in Verkehr gebrachtes Spielzeug nicht den Bestimmungen dieser Verordnung entspricht, so ergreift sie unverzüglich die erforderlichen Massnahmen, damit das Spielzeug den Bestimmungen dieser Verordnung entspricht, nimmt es falls nötig vom Markt oder ruft es zurück.
+
+<sup>2</sup> Die Herstellerin, die Importeurin oder die Händlerin unterrichtet, wenn mit dem Spielzeug Risiken verbunden sind, unverzüglich die zuständige Vollzugsbehörde und macht dabei ausführliche Angaben, insbesondere darüber, welchen Bestimmungen dieser Verordnung das Spielzeug nicht entspricht, und über die ergriffenen Massnahmen.
+
+#### Art. 20
+
+**Stichproben und Prüfungen**
+
+Die Herstellerin und die Importeurin haben, wenn es angesichts der von einem Spielzeug ausgehenden Risiken zum Schutz der Gesundheit und Sicherheit der Konsumentinnen und Konsumenten angezeigt ist:
+
+- a. von in Verkehr befindlichen Spielzeugen Stichproben durchzuführen und daran Prüfungen vorzunehmen;
+- b. ein Verzeichnis der Beschwerden, der nichtkonformen Spielzeuge und der Spielzeugrückrufe zu führen; und
+- c. die Händlerin über jegliche Überwachung auf dem Laufenden zu halten.
+
+#### Art. 21
+
+**Rückverfolgbarkeit**
+
+<sup>1</sup> Die Importeurin und die Händlerin müssen die Vollzugsbehörden auf deren Verlangen darüber informieren, von wem sie ein Spielzeug bezogen haben.
+
+<sup>2</sup> Die Herstellerin und die Importeurin müssen die Vollzugsbehörden auf deren Verlangen darüber informieren, an wen sie ein Spielzeug abgegeben haben.
+
+<sup>3</sup> Die Herstellerin, die Importeurin und die Händlerin müssen den Vollzugsbehörden die Informationen für einen Zeitraum von zehn Jahren vorlegen können. Diese Frist beginnt für die Herstellerin mit dem erstmaligen Inverkehrbringen und für die Importeurin und die Händlerin mit dem Bezug des Spielzeugs zu laufen.
+
+## 9. Abschnitt: Zusammenarbeit mit der Vollzugsbehörde
+
+#### Art. 22
+
+Die Herstellerin, die Bevollmächtigte, die Importeurin und die Händlerin:
+
+- a. stellen der Vollzugsbehörde auf deren Verlangen alle Informationen und Unterlagen in einer schweizerischen Amtssprache oder in Englisch zur Verfügung, die für den Nachweis, dass das Spielzeug den Bestimmungen dieser Verordnung entspricht, erforderlich sind; und
+- b. arbeiten mit der Vollzugsbehörde auf deren Verlangen bei allen Massnahmen zur Abwendung von Risiken, die mit von ihr in Verkehr gebrachtem Spielzeug verbunden sind, zusammen.
+
+## 10. Abschnitt:**** Nachführen der Anhänge
+
+[^sec10-1]
+
+[^sec10-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 23
+
+<sup>1</sup>
+
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) führt die Anhänge dieser Verordnung wie folgt nach:
+
+- a. die Anhänge 1–3, 5 und 6: entsprechend der in der Europäischen Union jeweils geltenden Fassung der Richtlinie 2009/48/EG[^23-1];
+- b. Anhang 4: entsprechend den international harmonisierten Normen.
+
+<sup>2</sup> Es kann bei seinen Nachführungen Übergangsbestimmungen festlegen.
+
+[^23-1]: Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug, ABl. L 170 vom 30.6.2009, S. 1.
+
+## 11. Abschnitt: Schlussbestimmungen
+
+#### Art. 24
+
+**Aufhebung bisherigen Rechts**
+
+Die Spielzeugverordnung vom 27. März 2002[^24-1] wird aufgehoben.
+
+[^24-1]: [[AS 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173), [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)Ziff. II 4 [6585](https://fedlex.data.admin.ch/eli/oc/2005/815), [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783), [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649), [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449), [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
+
+#### Art. 25
+
+**Übergangbestimmungen**
+
+<sup>1</sup> Spielzeug, das dieser Verordnung nicht entspricht, darf noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> Spielzeug, das den Anforderungen an seine chemischen Eigenschaften nach Anhang 2 Ziffer 3 nicht entspricht, darf noch bis zum 20. Juli 2013 nach bisherigem Recht hergestellt, gekennzeichnet und eingeführt werden. Es kann noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
+
+#### Art. 25a
+
+**Übergangsbestimmungen zur Änderung vom 25. November 2013**[^25a-1]
+
+<sup>1</sup> Spielzeug, das der Änderung vom 25. November 2013 dieser Verordnung nicht entspricht, darf noch bis zum 31. Dezember 2015 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet werden.
+
+<sup>2</sup> Es darf noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25a-1]: Eingefügt durch Ziff. I der V des BAG vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)).
+
+#### Art. 25b
+
+**Übergangsbestimmungen zur Änderung vom 14. September 2015**[^25b-1]
+
+<sup>1</sup> Spielzeug, das der Änderung vom 14. September 2015 nicht entspricht, darf noch bis zum 30. September 2016 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und angepriesen werden.
+
+<sup>2</sup> Es darf noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25b-1]: Eingefügt durch Ziff. I der V des BLV vom 14. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)).
+
+#### Art. 25c
+
+**Übergangsbestimmung zur Änderung vom 16. Dezember 2016**[^25c-1]
+
+Spielzeug, das der Änderung vom 16. Dezember 2016 dieser Verordnung nicht entspricht, darf noch bis zum 30. April 2018 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet werden. Es darf noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25c-1]: Eingefügt durch Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+#### Art. 25d
+
+**Übergangsbestimmungen zur Änderung vom 12. März 2018**[^25d-1]
+
+Spielzeug, das der Änderung vom 12. März 2018 nicht genügt, darf noch bis zum 30. April 2019 nach bisherigem Recht eingeführt und hergestellt werden. Es darf noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25d-1]: Eingefügt durch Ziff. I der V des BLV vom 12. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)).
+
+#### Art. 25e
+
+**Übergangsbestimmungen zur Änderung vom 23. Oktober 2019**[^25e-1]
+
+<sup>1</sup> Spielzeug, das den Anforderungen nach Anhang 2 Ziffer 3 (Ziff. 7, 11 Buchstabe a und 12) der Änderung vom 23. Oktober 2019 nicht entspricht, darf noch bis zum 31. Mai 2020 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> Spielzeug, das den übrigen Anforderungen der Änderung vom 23. Oktober 2019 nicht entspricht, darf noch bis zum 30. November 2020 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet werden. Es darf noch bis zur Erschöpfung der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25e-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+#### Art. 26
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Oktober 2012 in Kraft.
+
+Anhang 1*[^t-1]*
+
+(Art. 1 Abs. 2 und 3 Bst. a)
+
+## Listen von Gegenständen, auf die diese Verordnung nicht anwendbar ist
+
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+### I Gegenstände, die nicht als Spielzeug im Sinne von Artikel 65 LGV gelten
+
+- 1\. dekorative Gegenstände für festliche Anlässe und Feierlichkeiten;
+- 2\.
+
+  Produkte für Sammlerinnen und Sammler, sofern auf dem Produkt oder seiner Verpackung ein sichtbarer und leserlicher Hinweis angebracht ist, wonach das Produkt für Sammlerinnen und Sammler, die mindestens 14 Jahre alt sind, bestimmt ist; zu dieser Kategorie gehören:
+
+  - a. original- und massstabsgetreue Kleinmodelle,
+  - b. Bausätze von original- und massstabsgetreuen Kleinmodellen,
+  - c. Folklore- und Dekorationspuppen und ähnliche Artikel,
+  - d. Nachbildungen von historischem Spielzeug,
+  - e. Nachahmungen echter Schusswaffen;
+
+- 3\. Sportgeräte (einschliesslich Rollschuhe, Inlineskates und Skateboards) für Kinder mit einem Körpergewicht über 20 kg;
+- 4\. Fahrräder mit einer maximalen Sattelhöhe von mehr als 435 mm, gemessen als vertikaler Abstand vom Boden bis hin zum oberen Teil der Sitzfläche, mit dem Sitz in horizontaler Position und mit dem Sitzkissen in seiner kleinsten Einraststellung;
+- 5\. Trottinette (Roller) und andere Fortbewegungsmittel, die als Sportgeräte konzipiert sind oder die für die Fortbewegung auf öffentlichen Strassen oder öffentlichen Wegen bestimmt sind;
+- 6\. elektrisch betriebene Fahrzeuge, die zur Fortbewegung auf öffentlichen Strassen und Wegen oder auf den öffentlichen Trottoirs bestimmt sind;
+- 7\. Wassersportgeräte zur Verwendung in tiefem Wasser und Schwimmlernmittel für Kinder, wie Schwimmsitze und Schwimmhilfen;
+- 8\. Puzzlespiele mit mehr als 500 Teilen;
+- 9\. mit Druckgas betriebene Gewehre und Pistolen, ausgenommen Wassergewehre und -pistolen, sowie Bogen zum Bogenschiessen, die über 120 cm lang sind;
+- 10\. Feuerwerkskörper einschliesslich Amorces (Zündplättchen), die nicht speziell für Spielzeug bestimmt sind;
+- 11\. Produkte und Spiele mit spitz zulaufenden Wurfgeschossen, wie Pfeilspiele, bei denen Pfeile mit Metallspitzen verwendet werden;
+- 12\. funktionelle Lernprodukte wie Kochherde, Bügeleisen und andere funktionelle Produkte, die mit einer Nennspannung von mehr als 24 Volt betrieben und ausschliesslich für didaktische Zwecke zur Verwendung unter Aufsicht einer erwachsenen Person verkauft werden;
+- 13\. Produkte, die für den Unterricht an Schulen und für sonstige Ausbildungssituationen unter der Aufsicht einer erwachsenen Ausbildnerin oder eines erwachsenen Ausbildners bestimmt sind, wie wissenschaftliche Geräte;
+- 14\. elektronische Geräte wie Personalcomputer und Spielkonsolen zum Zugriff auf interaktive Software und angeschlossene Peripheriegeräte, sofern die elektronischen Geräte oder die angeschlossenen Peripheriegeräte nicht speziell für Kinder konzipiert und bestimmt sind und für sich allein einen Spielwert haben, wie speziell konzipierte Personalcomputer, Tastaturen, Joysticks oder Lenkräder;
+- 15\. interaktive Software für Freizeit und Unterhaltung, wie Computerspiele und ihre Speichermedien (etwa CDs);
+- 16\. Nuggis für Säuglinge;
+- 17\. Leuchten, die von Kindern für Spielzeug gehalten werden können;
+- 18\. elektrische Transformatoren für Spielzeug;
+- 19\. Mode-Accessoires für Kinder, die nicht für den Gebrauch beim Spielen gedacht sind.
+
+### II Spielzeug im Sinne von Artikel 65 LGV, für das diese Verordnung nicht gilt
+
+- 1\. Spielplatzgeräte zur öffentlichen Nutzung;
+- 2\. Spielautomaten zur öffentlichen Nutzung;
+- 3\. mit Verbrennungsmotoren ausgerüstete Spielfahrzeuge;
+- 4\. Spielzeugdampfmaschinen;
+- 5\. Schleudern und Steinschleudern.
+
+Anhang 2*[^t-2]*
+
+(Art. 3 Abs. 1 Bst. b)
+
+## Besondere Sicherheitsanforderungen an Spielzeug
+
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V des BAG vom 25. Nov. 2013 ([AS 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), Ziff. II 3 der V des EDI vom 5. Juni 2015 ([AS 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), Ziff. I und II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), der Berichtigung vom 30. Mai 2017 ([AS 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)) und Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+### 1. Physikalische und mechanische Eigenschaften
+
+- 1\. Spielzeug und Spielzeugteile sowie die Befestigungen von Spielzeugen müssen die erforderliche mechanische Festigkeit und gegebenenfalls die erforderliche Standsicherheit aufweisen. Sie müssen Beanspruchungen bei ihrem Gebrauch standhalten können, ohne dass ein Verletzungsrisiko durch Bruch oder Verformung besteht.
+- 2\. Zugängliche Ecken, vorstehende Teile, Seile, Kabel und Befestigungen von Spielzeug sind so zu gestalten und herzustellen, dass das Verletzungsrisiko bei Berührung so gering wie möglich ist.
+- 3\. Spielzeug ist so zu gestalten und herzustellen, dass mit seiner Verwendung kein Risiko verbunden ist bzw. nur das geringstmögliche Risiko, das durch die Bewegung seiner Teile verursacht wird.
+- 4\.
+
+  Vermeidung von Strangulation und Ersticken:
+
+  - a. Spielzeug und Spielzeugteile sind so zu gestalten und herzustellen, dass das Risiko der Strangulation ausgeschlossen ist.
+  - b. Spielzeug und Spielzeugteile sind so zu gestalten und herzustellen, dass das Risiko des Erstickens durch eine Blockierung der Atemwege ausserhalb des Mund- und Nasenraums ausgeschlossen ist.
+  - c. Spielzeug und Spielzeugteile müssen so gross sein, dass sie sich weder im Mund oder Rachen verklemmen noch am Eingang zu den unteren Atemwegen stecken bleiben können, sodass das Risiko des Erstickens durch eine Blockierung der inneren Atemwege ausgeschlossen ist.
+  - d. Spielzeug, das offensichtlich für Kinder unter 36 Monaten bestimmt ist, seine Bestandteile sowie seine abnehmbaren Teile müssen so gross sein, dass sie weder verschluckt noch eingeatmet werden können. Dies gilt auch für anderes Spielzeug, das dazu bestimmt ist, in den Mund genommen zu werden, sowie für dessen Bestandteile und abnehmbaren Teile.
+  - e. Die Verpackung, in der Spielzeug in den Einzelhandel gelangt, ist so zu gestalten und herzustellen, dass das Risiko der Strangulation oder des Erstickens durch eine Blockierung der Atemwege ausserhalb des Mund- und Nasenraums ausgeschlossen ist.
+  - f. Spielzeug, das in Lebensmitteln enthalten ist oder zusammen mit Lebensmitteln angeboten wird, muss gesondert verpackt sein. Diese Verpackung muss so gross sein, dass sie nicht verschluckt oder eingeatmet werden kann.
+  - g. Spielzeugverpackungen gemäss den Buchstaben e und f, die kugelförmig, eiförmig oder ellipsenförmig sind, sowie abnehmbare Teile solcher Verpackungen oder von zylinderförmigen Spielzeugverpackungen mit abgerundeten Enden müssen so gross sein, dass sie weder verschluckt noch eingeatmet werden können und sich weder in Mund oder Rachen verklemmen noch am Eingang zu den unteren Atemwegen stecken bleiben können, sodass das Risiko des Erstickens durch eine Blockierung der inneren Atemwege ausgeschlossen ist.
+  - h. Spielzeug, das mit einem Lebensmittel fest auf eine Weise verbunden ist, dass das Lebensmittel erst verzehrt werden muss, damit das Spielzeug zugänglich wird, ist verboten. Teile von Spielzeug, die auf andere Weise unmittelbar an einem Lebensmittel angebracht sind, müssen die in den Buchstaben c und d genannten Anforderungen erfüllen.
+
+- 5\. Wasserspielzeug ist so zu gestalten und herzustellen, dass das Risiko eines Nachlassens seiner Schwimmfähigkeit und der Fähigkeit, das Kind über Wasser zu halten, bei der für das Spielzeug empfohlenen Benutzungsart so gering wie möglich ist.
+- 6\. Spielzeug, dessen Inneres zugänglich ist und das einen geschlossenen Raum bildet, muss einen Ausgang besitzen, den die vorgesehenen Benutzerinnen und Benutzer leicht von innen öffnen können.
+- 7\. Spielzeug, das zur Verwendung als Fortbewegungsmittel konzipiert ist, ist nach Möglichkeit mit Bremsvorrichtungen zu versehen, die dem Spielzeugtyp angepasst und der Bewegungsenergie des Spielzeugs angemessen sind. Die Benutzerinnen und Benutzer müssen diese Bremsvorrichtungen leicht bedienen können. Mit der Bedienung dürfen weder das Risiko, ins Schleudern zu geraten und zu stürzen, noch Verletzungsrisiken für Benutzerinnen und Benutzer oder für Dritte verbunden sein. Bei elektrisch angetriebenen Aufsitzfahrzeugen ist die bauartbedingte Höchstgeschwindigkeit (repräsentative Betriebsgeschwindigkeit, die ein Spielzeug aufgrund seiner Bauart erreichen kann) derart zu beschränken, dass das Verletzungsrisiko so gering wie möglich ist.
+- 8\. Form und Aufbau von Projektilen sowie die Bewegungsenergie, die diese Projektile erzeugen können, wenn sie von einem dafür vorgesehenen Spielzeug abgeschossen werden, sind so zu gestalten und herzustellen, dass eine Verletzungsgefahr für die Benutzerin oder den Benutzer des Spielzeugs und für Dritte unter Berücksichtigung der Art des Spielzeugs ausgeschlossen ist.
+- 9\.
+
+  Spielzeug ist so herzustellen, dass:
+
+  - a. die höchste und die niedrigste Temperatur, die an allen zugänglichen Aussenseiten entstehen können, bei Berührung keine Verletzung verursacht; und
+  - b. Flüssigkeiten und Gase in dem Spielzeug keine so hohen Temperaturen oder Drücke erreichen, dass sie beim Entweichen – soweit dieses Entweichen für das ordnungsgemässe Funktionieren des Spielzeugs unerlässlich ist – Verbrennungen, Verbrühungen oder sonstige Körperschäden verursachen.
+
+- 10\. Spielzeug, das dafür konzipiert ist, ein Geräusch abzugeben, ist so zu gestalten und herzustellen, dass die Höchstwerte, die seine Impuls- und Dauergeräusche erreichen können, dem Gehör von Kindern nicht schaden.
+- 11\.
+
+  Aktivitätsspielzeug:
+
+  - a.
+
+    Aktivitätsspielzeug ist so herzustellen, dass folgende Risiken so gering wie möglich gehalten werden:
+
+    - 1\. Quetschen oder Einklemmen von Körperteilen,
+    - 2\. Einklemmen von Kleidungsstücken,
+    - 3\. Stürze und Stösse,
+    - 4\. Ertrinken.
+
+  - b. Jede Oberfläche eines Aktivitätsspielzeug, auf der ein oder mehrere Kinder spielen können, muss so gestaltet sein, dass sie das Gewicht dieser Kinder tragen kann.
+
+### 2. Entzündbarkeit
+
+- 1\.
+
+  Spielzeug darf in der Umgebung des Kindes keinen gefährlichen entzündbaren Gegenstand darstellen. Es muss aus Materialien bestehen, die keine Entzündungsgefahr für andere im Spielzeug verwendete Materialien darstellen und die mindestens eine der folgenden Voraussetzungen erfüllen:
+
+  - a. Sie fangen bei direkter Einwirkung einer Flamme, eines Funkens oder einer anderen möglichen Zündquelle kein Feuer.
+  - b. Sie sind schwer entzündbar, d.h. die Flamme erlischt, sobald die Entzündungsursache nicht mehr besteht.
+  - c. Nachdem sie Feuer gefangen haben, brennen sie langsam, sodass sich das Feuer nur langsam ausbreiten kann.
+  - d. Ungeachtet der chemischen Zusammensetzung des Spielzeugs sind sie so gestaltet, dass sie den Abbrand (Verbrennungsprozess) mechanisch verlangsamen.
+
+- 2\. Spielzeug, das aufgrund von für seinen Gebrauch notwendigen Eigenschaften Stoffe oder Zubereitungen enthält, welche die Kriterien für die Einstufung nach Anlage B Ziffer 1 der Richtlinie 2009/48/EG[^annex2-lvlu1-lvl2-1] erfüllen, darf keine Stoffe oder Zubereitungen enthalten, die bei Verlust flüchtiger nicht entzündbarer Bestandteile entzündbar werden können. Solche für den Gebrauch notwendigen Stoffe oder Zubereitungen können insbesondere in Materialien und Ausrüstung für chemische Experimente, im Modellbau, in Modelliermassen für Plastik oder Keramik, in Email sowie in fotografischen und ähnlichen Arbeiten sein.
+- 3\. Spielzeug, ausser Amorces (Zündplättchen), darf bei bestimmungsgemässem oder vorhersehbarem Gebrauch und unter Berücksichtigung des üblichen Verhaltens von Kindern weder explosiv sein noch explosive Teile oder Stoffe enthalten.
+- 4\.
+
+  Spielzeug darf keine Stoffe oder Zubereitungen enthalten, die:
+
+  - a. in vermischtem Zustand entweder durch chemische Reaktionen oder durch Erhitzung explodieren können;
+  - b. durch Vermischung mit oxidierenden (brandfördernden) Stoffen explodieren können; oder
+  - c. flüchtige und an der Luft entzündbare Verbindungen enthalten, die ein entzündbares oder explosives Zubereitung mit Luft bilden können.
+
+[^annex2-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 13 Abs. 1 Bst. a.
+
+### 3. Chemische Eigenschaften
+
+- 1\. Spielzeug darf kein Risiko einer Beeinträchtigung der menschlichen Gesundheit durch Exposition gegenüber den chemischen Stoffen oder Zubereitungen, aus denen es zusammengesetzt ist oder die es enthält, bieten.
+- 2\. Spielzeug, bei dem es sich selbst um Stoffe oder Zubereitungen handelt, muss in Bezug auf die Einstufung, Verpackung und Kennzeichnung bestimmter Stoffe und Zubereitungen der Chemikalienverordnung vom 5. Juni 2015[^annex2-lvlu1-lvl3-1] (ChemV) entsprechen, soweit diese anwendbar ist.
+- 3\. Stoffe, die nach der in Anhang 2 Ziffer 1 ChemV genannten Fassung der Verordnung (EG) Nr. 1272/2008 als karzinogen, mutagen oder reproduktionstoxisch (CMR) der Kategorie 1A, 1B oder 2 eingestuft wurden, dürfen in keinem Teil eines Spielzeugs verwendet werden.
+- 4\. Von Ziffer 3 darf abgewichen werden im Rahmen der Bestimmungen in Anhang II Ziffern III.4 und III.5 der Richtlinie 2009/48/EG[^annex2-lvlu1-lvl3-2].
+- 5\. Die Ziffern 3 und 4 gelten nicht für Spielzeug und Spielzeugteile mit Nickel in rostfreiem Stahl sowie für Spielzeugteile mit Nickel, die elektrischen Strom leiten sollen. Für Spielzeug mit vernickelten Teilen, die während längerer Zeit unmittelbar mit der Haut in Berührung kommen, gilt Artikel 2 Absätze 1 und 2 der Verordnung vom 23. November 2005[^annex2-lvlu1-lvl3-3] über Gegenstände für den Humankontakt.
+- 6\. Die Ziffern 3 und 4 gelten nicht für Materialien, die durch die Bestimmungen der Verordnung (EG) Nr. 1935/2004[^annex2-lvlu1-lvl3-4] abgedeckt werden und die deren Anforderungen entsprechen.
+- 7\.
+
+  Unbeschadet der Anwendung der Ziffern 3 und 4 gelten für Nitrosamine und nitrosierbare Stoffe in Spielzeug für Kinder unter 36 Monaten oder in Spielzeug, das in den Mund genommen werden soll, folgende Grenzwerte in der Migrationsprüfung:
+
+  - a. für Nitrosamine: 0,05 mg/kg
+  - b. für nitrosierbare Stoffe: 1 mg/kg
+
+- 8\. Kosmetikspielzeug wie Spiel-Kosmetik für Puppen muss auch den Vorschriften der Verordnung des EDI vom 16. Dezember 2016[^annex2-lvlu1-lvl3-5] über kosmetische Mittel (VKos) entsprechen.
+- 9\.
+
+  Allergene Duftstoffe:
+
+  - a. Spielzeug darf keinen der folgenden allergenen Duftstoffe enthalten; Spuren dieser Duftstoffe dürfen vorhanden sein, sofern dies auch bei Einhaltung der «Guten Herstellungspraxis» technisch unvermeidbar ist und 100 mg/kg nicht überschritten werden:
+
+<table>
+<tr><th>Nummer</th><th>Allergene Duftstoffe</th><th>CAS[^annex2-lvlu1-lvl3-6]-Nummer</th></tr>
+<tr><td>(1)</td><td>Alantwurzelöl (Inula helenium)</td><td>97676-35-2</td></tr>
+<tr><td>(2)</td><td>Allylisothiocyanat</td><td>57-06-7</td></tr>
+<tr><td>(3)</td><td>Benzylcyanid</td><td>140-29-4</td></tr>
+<tr><td>(4)</td><td>4-tert-Butylphenol</td><td>98-54-4</td></tr>
+<tr><td>(5)</td><td>Chenopodiumöl</td><td>8006-99-3</td></tr>
+<tr><td>(6)</td><td>Cyclamenalkohol</td><td>4756-19-8</td></tr>
+<tr><td>(7)</td><td>Diethylmaleat</td><td>141-05-9</td></tr>
+<tr><td>(8)</td><td>Dihydrocumarin</td><td>119-84-6</td></tr>
+<tr><td>(9)</td><td>2.4-Dihydroxy-3-methylbenzaldehyd</td><td>6248-20-0</td></tr>
+<tr><td>(10)</td><td>3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol)</td><td>40607-48-5</td></tr>
+<tr><td>(11)</td><td>4,6-Dimethyl-8-tert-butylcumarin</td><td>17874-34-9</td></tr>
+<tr><td>(12)</td><td>Dimethylcitraconat</td><td>617-54-9</td></tr>
+<tr><td>(13)</td><td>7,11-Dimethyl-4,6,10-dodecatrien-3-on</td><td>26651-96-7</td></tr>
+<tr><td>(14)</td><td>6,10-Dimethyl-3,5,9-undecatrien-2-on</td><td>141-10-6</td></tr>
+<tr><td>(15)</td><td>Diphenylamin</td><td>122-39-4</td></tr>
+<tr><td>(16)</td><td>Ethylarcylat</td><td>140-88-5</td></tr>
+<tr><td>(17)</td><td>Ficus carica (Feigenblätter), frisch und in Zubereitungen</td><td>68916-52-9</td></tr>
+<tr><td>(18)</td><td>trans-2-Heptenal</td><td>18829-55-5</td></tr>
+<tr><td>(19)</td><td>trans-2-Hexenaldiethylacetal</td><td>67746-30-9</td></tr>
+<tr><td>(20)</td><td>trans-2-Hexenaldimethylacetal</td><td>18318-83-7</td></tr>
+<tr><td>(21)</td><td>Hydroabietylalkohol</td><td>13393-93-6</td></tr>
+<tr><td>(22)</td><td>4-Ethoxyphenol</td><td>622-62-8</td></tr>
+<tr><td>(23)</td><td>6-Isopropyl-2-decahydronaphthalinol</td><td>34131-99-2</td></tr>
+<tr><td>(24)</td><td>7-Methoxycoumarin</td><td>531-59-9</td></tr>
+<tr><td>(25)</td><td>4-Methoxyphenol</td><td>150-76-5</td></tr>
+<tr><td>(26)</td><td>4-(p-Methoxyphenyl)-3-buten-2-on</td><td>943-88-4</td></tr>
+<tr><td>(27)</td><td>1-(p-Methoxyphenyl)-1-penten-3-on</td><td>104-27-8</td></tr>
+<tr><td>(28)</td><td>Methyl-trans-2-buenoat</td><td>623-43-8</td></tr>
+<tr><td>(29)</td><td>6-Methylcumarin</td><td>92-48-8</td></tr>
+<tr><td>(30)</td><td>7-Methylcumarin</td><td>2445-83-2</td></tr>
+<tr><td>(31)</td><td>5-Methyl-2,3-hexandion</td><td>13706-86-0</td></tr>
+<tr><td>(32)</td><td>Costuswurzelöl (Saussurea lappa Clarke)</td><td>8023-88-9</td></tr>
+<tr><td>(33)</td><td>7-Ethoxy-4-methylcumarin</td><td>87-05-8</td></tr>
+<tr><td>(34)</td><td>Hexahydrocumarin</td><td>700-82-3</td></tr>
+<tr><td>(35)</td><td>Perubalsam, roh (Exsudation aus Myroxylon pereirae (Royle) Klotzsch)</td><td>8007-00-9</td></tr>
+<tr><td>(36)</td><td>2-Pentylidencyclohexanon</td><td>25677-40-1</td></tr>
+<tr><td>(37)</td><td>3, 5, 10-Trimethyl-3, 5, 9-undecatrien-2-on</td><td>1117-41-5</td></tr>
+<tr><td>(38)</td><td>Verbenaöl (Lippia citriodora Kunth)</td><td>8024-12-2</td></tr>
+<tr><td>(39)</td><td>Moschus Ambrette (4-tert-Butyl-3-methoxy-2,6-dinitrotoluol</td><td>83-66-9</td></tr>
+<tr><td>(40)</td><td>4-Phenyl-3-buten-2-on</td><td>122-57-6</td></tr>
+<tr><td>(41)</td><td>Amyl-Zimtaldehyd</td><td>122-40-7</td></tr>
+<tr><td>(42)</td><td>Amylcinnamylalkohol</td><td>101-85-9</td></tr>
+<tr><td>(43)</td><td>Benzylalkohol</td><td>100-51-6</td></tr>
+<tr><td>(44)</td><td>Benzylsalicylat</td><td>118-58-1</td></tr>
+<tr><td>(45)</td><td>Cinnamylalkohol</td><td>104-54-1</td></tr>
+<tr><td>(46)</td><td>Zimtaldehyd</td><td>104-55-2</td></tr>
+<tr><td>(47)</td><td>Citral</td><td>5392-40-5</td></tr>
+<tr><td>(48)</td><td>Cumarin</td><td>91-64-5</td></tr>
+<tr><td>(49)</td><td>Eugenol</td><td>97-53-0</td></tr>
+<tr><td>(50)</td><td>Geraniol</td><td>106-24-1</td></tr>
+<tr><td>(51)</td><td>Hydroxycitronellal</td><td>107-75-5</td></tr>
+<tr><td>(52)</td><td>Hydroxymethylpentylcyclohexencarboxaldehyd</td><td>31906-04-4</td></tr>
+<tr><td>(53)</td><td>Isoeugenol</td><td>97-54-1</td></tr>
+<tr><td>(54)</td><td>Eichenmoosextrakt</td><td>90028-68-5</td></tr>
+<tr><td>(55)</td><td>Baummoosextrakt</td><td>90028-67-4</td></tr>
+</table>
+
+- b. Die folgenden allergenen Duftstoffe müssen auf dem Spielzeug, einer daran befestigten Etikette oder auf einem Begleitzettel angegeben werden, wenn sie in Konzentrationen von mehr als 100 mg pro Kilogramm Spielzeug oder Spielzeugteilen zugesetzt werden:
+
+<table>
+<tr><th>Nummer</th><th>Allergene Duftstoffe</th><th>CAS-Nummer</th></tr>
+<tr><td>(1)</td><td>Anisylalkohol</td><td>105-13-5</td></tr>
+<tr><td>(2)</td><td>Benzylbenzoat</td><td>120-51-4</td></tr>
+<tr><td>(3)</td><td>Benzylcinnamat</td><td>103-41-3</td></tr>
+<tr><td>(4)</td><td>Citronellol</td><td>106-22-9</td></tr>
+<tr><td>(5)</td><td>Farnesol</td><td>4602-84-0</td></tr>
+<tr><td>(6)</td><td>Hexylzimtaldehyd</td><td>101-86-0</td></tr>
+<tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
+<tr><td>(8)</td><td>d-Limonen</td><td>5989-27-5</td></tr>
+<tr><td>(9)</td><td>Linalool</td><td>78-70-6</td></tr>
+<tr><td>(10)</td><td>Methylheptincarbonat</td><td>111-12-6</td></tr>
+<tr><td>(11)</td><td>3-Methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)- 3-buten-2-on</td><td>127-51-5</td></tr>
+</table>
+
+- 10\.
+
+  Brettspiele für den Geruchsinn, Kosmetikkoffer und Spiele für den Geschmacksinn:
+
+  - a.
+
+    Die Duftstoffe nach Ziffer 9 Buchstabe a Nummern 41–55 und nach Ziffer 9 Buchstabe b Nummern 1–11 dürfen in Brettspielen für den Geruchsinn, in Kosmetikkoffern sowie in Spielen für den Geschmacksinn verwendet werden, sofern:
+
+    - 1\. diese Duftstoffe klar auf der Verpackung gekennzeichnet sind und die Verpackung mit dem in Anhang 3 Teil B Ziffer 10 genannten Warnhinweis versehen ist,
+    - 2\. die Produkte, die das Kind gemäss der Gebrauchsanweisung herstellen kann, den Anforderungen der VKos[^annex2-lvlu1-lvl3-7] entsprechen, und
+    - 3\. diese Duftstoffe den Bestimmungen über Aromen in Lebensmitteln entsprechen.
+
+  - b. Brettspiele für den Geruchsinn, Kosmetikkoffer und Spiele für den Geschmacksinn dürfen von Kindern unter 36 Monaten nicht verwendet werden. Dieses Spielzeug muss mit einem Warnhinweis nach Anhang 3 Teil B Ziffer 1 versehen sein.
+
+- 11\.
+
+  Grenzwerte für die Migrationsprüfung:
+
+  - a. Unbeschadet der Anwendung der Ziffern 3 und 4 dürfen die folgenden Grenzwerte in der Migrationsprüfung von Spielzeug und Spielzeugbestandteilen nicht überschritten werden:
+
+<table>
+<tr><th>Element oder Verbindung</th><th>mg/kg in trockenen, brüchigen, staubförmigen oder geschmeidigen Spielzeugmaterialien</th><th>mg/kg in flüssigen oder haftenden Spielzeugmaterialien</th><th>mg/kg in abgeschabten Spielzeugmaterialien</th></tr>
+<tr><td>Aluminium</td><td>5625</td><td>1406</td><td>70000</td></tr>
+<tr><td>Antimon</td><td>45</td><td>11,3</td><td>560</td></tr>
+<tr><td>Arsen</td><td>3,8</td><td>0,9</td><td>47</td></tr>
+<tr><td>Barium</td><td>1500</td><td>375</td><td>18750</td></tr>
+<tr><td>Bor</td><td>1200</td><td>300</td><td>15000</td></tr>
+<tr><td>Cadmium</td><td>1,3</td><td>0,3</td><td>17</td></tr>
+<tr><td>Chrom<sup>(3+)</sup></td><td>37,5</td><td>9,4</td><td>460</td></tr>
+<tr><td>Chrom<sup>(6+)</sup></td><td>0,02</td><td>0,005</td><td>0,053</td></tr>
+<tr><td>Cobalt</td><td>10,5</td><td>2,6</td><td>130</td></tr>
+<tr><td>Kupfer</td><td>622,5</td><td>156</td><td>7700</td></tr>
+<tr><td>Blei</td><td>2,0</td><td>0,5</td><td>23</td></tr>
+<tr><td>Mangan</td><td>1200</td><td>300</td><td>15000</td></tr>
+<tr><td>Quecksilber</td><td>7,5</td><td>1,9</td><td>94</td></tr>
+<tr><td>Nickel</td><td>75</td><td>18,8</td><td>930</td></tr>
+<tr><td>Selen</td><td>37,5</td><td>9,4</td><td>460</td></tr>
+<tr><td>Strontium</td><td>4500</td><td>1125</td><td>56000</td></tr>
+<tr><td>Zinn</td><td>15000</td><td>3750</td><td>180000</td></tr>
+<tr><td>Organozinn-Verbindungen</td><td>0,9</td><td>0,2</td><td>12</td></tr>
+<tr><td>Zink</td><td>3750</td><td>938</td><td>46000</td></tr>
+</table>
+
+- b. Diese Grenzwerte gelten nicht für Spielzeug und Bestandteile von Spielzeug, die bei bestimmungsgemässem oder vorhersehbarem Gebrauch und unter Berücksichtigung des üblichen Verhaltens von Kindern durch ihre Zugänglichkeit, ihre Funktion, ihr Volumen oder ihre Masse jegliche Gefahr durch Saugen, Lecken, Verschlucken oder längeren Hautkontakt eindeutig ausschliessen.
+
+- 12\. Unbeschadet der Anwendung der Ziffern 1–3 darf Spielzeug nicht mehr als 0,1 Massenprozent (Summengrenzwert) folgender Phthalsäureester enthalten: Di-(2-ethylhexyl)phthalat (DEHP[^annex2-lvlu1-lvl3-8]), Dibutylphthalat (DBP[^annex2-lvlu1-lvl3-9]), Diisobutylphthalat (DIBP[^annex2-lvlu1-lvl3-10]) und Benzylbutylphthalat (BBP[^annex2-lvlu1-lvl3-11]). Spielzeug, das von Kindern in den Mund genommen werden kann, darf nicht mehr als 0,1 Massenprozent (Summengrenzwert) folgender Phthalsäureester enthalten: Di-isononylphthalat (DINP[^annex2-lvlu1-lvl3-12]), Di-isodecylphthalat (DIDP[^annex2-lvlu1-lvl3-13]) und Di-n-octylphthalat (DNOP[^annex2-lvlu1-lvl3-14]).
+- 13\. Spielzeug und Bestandteile von Spielzeug dürfen nicht mehr als 5 mg/kg frei verfügbares Benzol enthalten.
+- 14\. Spielzeug, einschliesslich Aktivitätsspielzeug, darf nicht in Verkehr gebracht werden, wenn einer seiner Bestandteile aus Kunststoff oder Gummi besteht, der bei normaler oder vernünftigerweise vorhersehbarer Verwendung unmittelbar und länger oder wiederholt für kurze Zeit mit der menschlichen Haut oder der Mundhöhle in Berührung kommt und mehr als 0,5 mg/kg eines der in Anhang 2.9 Ziffer 2 Absatz 1 Buchstabe d der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^annex2-lvlu1-lvl3-15] aufgeführten polyzyklischen aromatischen Kohlenwasserstoffe (PAK) enthält.
+- 15\. Für chemische Stoffe, die in Spielzeug verwendet werden, das zur Verwendung durch Kinder unter 36 Monaten bestimmt ist, oder in anderem Spielzeug, das dazu bestimmt ist, in den Mund genommen zu werden, gelten folgende spezifischen Grenzwerte:
+
+<table>
+<tr><td>Stoff</td><td>CAS-Nummer</td><td>Grenzwert</td></tr>
+<tr><td>TCEP</td><td>115-96-8</td><td>5 mg/kg (Grenzwert für den Gehalt)</td></tr>
+<tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (Grenzwert für den Gehalt)</td></tr>
+<tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (Grenzwert für den Gehalt)</td></tr>
+<tr><td>Bisphenol A</td><td>80-05-7</td><td>0,04 mg/l (Migrationsgrenzwert) entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005[^annex2-lvlu1-lvl3-16]</td></tr>
+<tr><td>Formamid</td><td>75-12-7</td><td>20 µg/m<sup>3</sup> (Emissionsgrenzwert) nach höchstens 28 Tagen ab Beginn der Emissionsprüfungen bei Spielzeugmaterialien aus Schaumstoff, die mehr als 200 mg/kg (Schwellenwert, der sich auf den Gehalt bezieht) enthalten.</td></tr>
+<tr><td>1,2-Benzisothiazol-3(2H)-on</td><td>2634-33-5</td><td>5 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial, entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005</td></tr>
+<tr><td>Reaktionsmasse aus: 5‑Chlor-2-methyl-4-isothiazolin-3-on [EG‑Nr. 247-500-7] und 2-Methyl-2H-isothiazol-3-on [EG-Nr. 220-239-6] (3:1)</td><td>55965-84-9</td><td>1 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial</td></tr>
+<tr><td>5-Chlor-2-methylisothiazolin-3(2H)-on</td><td>26172-55-4</td><td>0,75 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial</td></tr>
+<tr><td>2-Methylisothiazolin-3(2H)-on</td><td>2682-20-4</td><td>0,25 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial</td></tr>
+<tr><td>Phenol</td><td>108-95-2</td><td>5 mg/l (Migrationsgrenzwert) in polymeren Materialien entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005 10 mg/kg (Gehaltsgrenzwert) als Konservierungsmittel entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005</td></tr>
+</table>
+
+[^annex2-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex2-lvlu1-lvl3-2]: Siehe Fussnote zu Art. 13 Abs. 1 Bst. a.
+[^annex2-lvlu1-lvl3-3]: [SR 817.023.41](https://fedlex.data.admin.ch/eli/cc/2005/811)
+[^annex2-lvlu1-lvl3-4]: Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG; Fassung gemäss ABl. L 338 vom 13.11.2004, S. 4.
+[^annex2-lvlu1-lvl3-5]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex2-lvlu1-lvl3-6]: Chemical Abstract Service (CAS)
+[^annex2-lvlu1-lvl3-7]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex2-lvlu1-lvl3-8]: CAS-Nr. 117-81-7; European Inventory of Existing Commercial Chemical Substances (EINECS)-Nr. 204-211-0
+[^annex2-lvlu1-lvl3-9]: CAS-Nr. 84-74-2; EINECS-Nr. 201-557-4
+[^annex2-lvlu1-lvl3-10]: CAS-Nr. 84-69-5; EINECS-Nr. 201-553-2
+[^annex2-lvlu1-lvl3-11]: CAS-Nr. 85-68-7; EINECS-Nr. 201-622-7
+[^annex2-lvlu1-lvl3-12]: CAS-Nr. 28553-12-0 und 68515-48-0; EINECS-Nr. 249-079-5 und 271-090-9
+[^annex2-lvlu1-lvl3-13]: CAS-Nr. 26761-40-0 und 68515-49-1; EINECS-Nr. 247-977-4 und 271-091-4
+[^annex2-lvlu1-lvl3-14]: CAS-Nr. 117-84-0; EINECS-Nr. 204-214-7
+[^annex2-lvlu1-lvl3-15]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex2-lvlu1-lvl3-16]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 4. Elektrische Eigenschaften
+
+- 1\.
+
+  Spannung:
+
+  - a. Bei elektrischem Spielzeug darf die Nennspannung höchstens 24 Volt Gleichspannung oder die entsprechende Wechselspannung betragen. An keinem zugänglichen Teil dürfen 24 Volt Gleichspannung oder die entsprechende Wechselspannung überschritten werden.
+  - b. Die innere Spannung darf 24 Volt Gleichspannung oder die entsprechende Wechselspannung nur dann überschreiten, wenn sichergestellt ist, dass die Kombination von Spannung und Stromstärke auch bei defektem Spielzeug kein Risiko bildet oder keinen schädlichen Stromschlag erzeugen kann.
+
+- 2\. Spielzeugteile, die an einer Stromquelle, die einen Stromschlag verursachen kann, angeschlossen sind oder mit einer Stromquelle in Berührung kommen können, sowie Kabel und andere dem Spielzeug Strom zuführende Leiter müssen gut isoliert und mechanisch geschützt sein, um das Risiko eines Stromschlags auszuschliessen.
+- 3\. Elektrisches Spielzeug ist so zu gestalten und herzustellen, dass an allen direkt zugänglichen Aussenflächen keine Temperaturen entstehen können, die zu Verbrennungen führen.
+- 4\. Bei voraussehbaren Fehlerzuständen muss Spielzeug Schutz vor elektrischen Gefahren bieten, die von einer Stromquelle ausgehen.
+- 5\. Elektrisches Spielzeug muss angemessenen Schutz vor Brandgefahren bieten.
+- 6\. Elektrisches Spielzeug ist so zu gestalten und herzustellen, dass elektrische, magnetische und elektromagnetische Felder und sonstige durch die Betriebsmittel erzeugte Strahlungen auf das für den Betrieb des Spielzeugs notwendige Mass beschränkt werden. Beim Betrieb des Spielzeugs muss ein Sicherheitsniveau eingehalten werden, das dem allgemein anerkannten Stand der Technik und den anwendbaren Massnahmen entspricht.
+- 7\. Spielzeug mit einem elektronischen Steuersystem ist so zu gestalten und herzustellen, dass es auch bei Störungen oder Ausfall des Steuersystems, auch aufgrund äusserer Einflüsse, sicher betrieben werden kann.
+- 8\. Spielzeug ist so zu gestalten und herzustellen, dass von ihm keine Gefahren für die Gesundheit ausgehen und keine Risiken einer Verletzung der Augen oder der Haut durch Laser, Leuchtdioden (LED) oder andere Strahlungen ausgehen.
+- 9\. Der Transformator für elektrisches Spielzeug darf keinen Bestandteil des Spielzeugs bilden.
+
+### 5. Hygiene
+
+- 1\. Spielzeug ist so zu gestalten und herzustellen, dass es die Anforderungen an Hygiene und Sauberkeit erfüllt, damit jegliches Infektions-, Krankheits- oder Kontaminationsrisiko vermieden wird.
+- 2\. Spielzeug, das zur Verwendung durch Kinder unter 36 Monaten bestimmt ist, ist so zu gestalten und herzustellen, dass es gereinigt werden kann. Textilspielzeug muss waschbar sein, es sei denn, es enthält einen Mechanismus, der beschädigt werden könnte, wenn er eingeweicht wird. Das Spielzeug muss die Sicherheitsanforderungen auch nach der gemäss den Anweisungen der Herstellerin durchgeführten Reinigung erfüllen.
+
+### 6. Radioaktivität
+
+- 1\. Spielzeug darf keine radioaktiven Nuklide oder Stoffe in einer Form oder in solchen Anteilen enthalten, welche die Gesundheit eines Kindes beeinträchtigen können.
+- 2\. Im Übrigen gelten die Bestimmungen der Strahlenschutzverordnung vom 22. Juni 1994[^annex2-lvlu1-lvl6-1].
+
+[^annex2-lvlu1-lvl6-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+
+Anhang 3*[^t-3]*
+
+(Art. 5 Abs. 1, 2 und 6)
+
+## Warnhinweise
+
+[^t-3]: Bereinigt gemäss Ziff. I und II Abs. 1 der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
+
+### Vorbemerkung:
+
+Alle Warnhinweise beginnen mit dem Wort «Achtung»[^annex3-lvlu1-lvlu1-1].
+
+[^annex3-lvlu1-lvlu1-1]: Die Warnhinweise können auch mit dem Wort «Warnung» beginnen.
+
+### Teil A Allgemeine Warnhinweise
+
+Wenn es für den sicheren Gebrauch erforderlich ist, sind in Warnhinweisen geeignete Benutzereinschränkungen anzugeben, z.B.:
+
+- – das Mindest- oder Höchstalter der Benutzerin oder des Benutzers
+- – das Mindest- oder Höchstgewicht der Benutzerin oder des Benutzers
+- – die erforderlichen Fähigkeiten der Benutzerin oder des Benutzers
+- – der Hinweis, dass das Spielzeug ausschliesslich unter Aufsicht von Erwachsenen benutzt werden darf.
+
+### Teil B Besondere Warnhinweise und Gebrauchsanweisungen für die Benutzung bestimmter Spielzeugkategorien
+
+### 1. Spielzeug, das nicht zur Verwendung von Kindern unter 36 Monaten bestimmt ist
+
+- 1\.1 Spielzeug, das für Kinder unter 36 Monaten gefährlich sein könnte, muss mit einem Warnhinweis versehen sein, beispielsweise: «Achtung. Nicht für Kinder unter 36 Monaten geeignet.» oder «Achtung. Nicht für Kinder unter drei Jahren geeignet.» oder in Form der folgenden Abbildung:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/de/xml/image/image1.png)
+
+- 1\.2 Dieser Warnhinweis muss ergänzt werden durch einen kurzen Hinweis auf die besonderen Gefahren, die diese Vorsichtsmassregel erforderlich machen. Der ergänzende Hinweis kann auch aus der Gebrauchsanweisung hervorgehen.
+- 1\.3 Diese Ziffer gilt nicht für Spielzeug, das aufgrund seiner Funktion, seiner Abmessungen, seiner Merkmale und Eigenschaften oder aus anderen zwingenden Gründen offensichtlich nicht für Kinder unter 36 Monaten bestimmt sein kann.
+
+### 2. Aktivitätsspielzeug
+
+- 2\.1 Aktivitätsspielzeug ist ein Spielzeug zur Verwendung im Haushalt, dessen tragende Struktur während der Aktivität ortsfest bleibt und das für folgende Aktivitäten von Kindern bestimmt ist: Klettern, Springen, Schwingen, Rutschen, Schaukeln, Drehen, Kriechen oder Krabbeln oder eine Kombination dieser Tätigkeiten.
+- 2\.2 Aktivitätsspielzeug muss mit folgendem Warnhinweis versehen sein:
+- «Achtung. Nur für den Hausgebrauch.»
+- 2\.3 Aktivitätsspielzeug, das an einem Gerüst montiert ist, sowie anderem Aktivitätsspielzeug muss gegebenenfalls eine Gebrauchsanweisung beiliegen, in der darauf hingewiesen wird, dass eine regelmässige Überprüfung und Wartung der wichtigsten Teile (Aufhängung, Befestigung, Verankerung am Boden usw.) notwendig ist und dass bei Unterlassung solcher Kontrollen Kipp- oder Sturzgefahr bestehen kann. Zudem müssen dem Spielzeug Anweisungen für eine sachgerechte Montage beigefügt sein. Diese enthalten Hinweise auf die Teile, von denen bei falscher Montage Gefahren ausgehen können, sowie Angaben darüber, wie die Aufstellungsfläche für das Spielzeug beschaffen sein muss.
+
+### 3. Funktionelles Spielzeug
+
+- 3\.1 Ein funktionelles Spielzeug ist ein Spielzeug, das dieselben Funktionen erfüllt und so benutzt wird wie ein Produkt, ein Gerät oder eine Einrichtung, das oder die zum Gebrauch für Erwachsene bestimmt ist und bei dem oder der es sich um ein massstabsgetreues Kleinmodell eines derartigen Produkts, Geräts oder einer derartigen Einrichtung handeln kann.
+- 3\.2 Funktionelles Spielzeug muss mit folgendem Warnhinweis versehen sein:
+- «Achtung. Benutzung unter unmittelbarer Aufsicht von Erwachsenen.»
+- 3\.3 Die Gebrauchsanweisung für funktionelles Spielzeug muss eine Beschreibung der Vorsichtsmassnahmen enthalten, die bei der Verwendung zu beachten sind. Sie muss auf die Gefahren hinweisen, denen sich Benutzerinnen und Benutzer bei Nichtbeachtung dieser Massnahmen aussetzen. Diese Gefahren sind näher zu bezeichnen. Es handelt sich in der Regel um Gefahren, die von dem Gerät oder Produkt ausgehen können, dessen verkleinertes Modell oder Nachbildung das Spielzeug darstellt. Ferner ist darauf hinzuweisen, dass das Spielzeug ausser Reichweite von Kindern unter einem bestimmten Alter aufbewahrt werden muss. Dieses Alter ist von der Herstellerin festzulegen.
+
+### 4. Chemisches Spielzeug
+
+- 4\.1 Ein chemisches Spielzeug ist ein Spielzeug, das für den direkten Umgang mit chemischen Stoffen und Zubereitungen und für eine altersgemässe Verwendung unter Aufsicht von Erwachsenen bestimmt ist.
+- 4\.2 Die Verpackung von chemischem Spielzeug muss mit folgendem Warnhinweis versehen sein:
+- «Achtung. Nicht geeignet für Kinder unter … Jahren[^annex3-lvlu1-partB-lvl4-1]. Benutzung unter Aufsicht von Erwachsenen.»
+- 4\.3 Die Gebrauchsanweisung für Spielzeug, das gefährliche Stoffe oder Zubereitungen enthält, muss auf den gefährlichen Charakter dieser Stoffe oder Zubereitungen aufmerksam machen. Sie muss eine Beschreibung der von den Benutzerinnen und Benutzern einzuhaltenden Vorsichtsmassnahmen enthalten, die bei der Verwendung zu beachten sind. Sie muss auf die Gefahren hinweisen, denen sich Benutzerinnen und Benutzer bei Nichtbeachtung dieser Massnahmen aussetzen. Die Gefahren sind kurz zu beschreiben. Die erforderlichen Erste-Hilfe-Massnahmen bei schweren Unfällen, die aufgrund der Verwendung dieser Spielzeugart eintreten können, sind aufzuführen. Ferner ist darauf hinzuweisen, dass das Spielzeug ausser Reichweite von Kindern unter einem bestimmten Alter aufbewahrt werden muss. Dieses Alter ist von der Herstellerin festzulegen.
+- 4\.4 Die Bestimmungen in der ChemV[^annex3-lvlu1-partB-lvl4-2] über die Einstufung, Verpackung und Kennzeichnung von Stoffen und Zubereitungen bleiben vorbehalten.
+- 4\.5 Als chemisches Spielzeug gelten insbesondere Kästen für Kunststoff-Vergussarbeiten, Miniaturwerkstätten für Keramik-, Email- und fotografische Arbeiten und vergleichbares Spielzeug, das bei Gebrauch chemische Reaktionen auslöst oder zu vergleichbaren Stoffänderungen führt.
+
+[^annex3-lvlu1-partB-lvl4-1]: Das Alter ist von der Herstellerin festzulegen.
+[^annex3-lvlu1-partB-lvl4-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
+### 5. Schlittschuhe, Rollschuhe, Inline-Skates, Skate-Boards, Trottinette (Roller) und Spielzeugfahrräder für Kinder
+
+- 5\.1 Werden Schlittschuhe, Rollschuhe, Inline-Skates, Skate-Boards, Trottinette (Roller) und Spielzeugfahrräder für Kinder als Spielzeug verkauft, so sind sie mit folgendem Warnhinweis zu versehen:
+- «Achtung. Mit Schutzausrüstung zu benutzen. Nicht im Strassenverkehr zu verwenden.»
+- 5\.2 In der Gebrauchsanweisung ist darauf hinzuweisen, dass das Spielzeug mit Vorsicht zu verwenden ist, da es grosse Geschicklichkeit erfordert, um Unfälle der Benutzerin oder des Benutzers oder Dritter durch Sturz oder Zusammenstoss zu vermeiden. Es sind Angaben zur geeigneten Schutzausrüstung (Schutzhelme, Handschuhe, Knieschützer, Ellbogenschützer usw.) zu machen.
+
+### 6. Wasserspielzeug
+
+- 6\.1 Ein Wasserspielzeug ist ein Spielzeug, das zur Benutzung im flachen Wasser bestimmt und dazu geeignet ist, ein Kind auf dem Wasser zu tragen oder über Wasser zu halten.
+- 6\.2 Wasserspielzeug muss mit folgendem Warnhinweis versehen sein:
+- «Achtung. Nur im flachen Wasser unter Aufsicht von Erwachsenen verwenden.»
+
+### 7. Spielzeug in Lebensmitteln
+
+- Die Verpackung von Spielzeug, das in Lebensmitteln enthalten ist oder zusammen mit Lebensmitteln angeboten wird, muss mit folgendem Warnhinweis versehen sein:
+- «Achtung. Enthält Spielzeug. Beaufsichtigung durch Erwachsene empfohlen.»
+
+### 8. Imitation von Schutzmasken oder -helmen
+
+- Imitationen von Schutzmasken oder -helmen müssen mit folgendem Warnhinweis versehen sein:
+- «Achtung. Dieses Spielzeug bietet keinen Schutz.»
+
+### 9. Spielzeug, das dazu bestimmt ist, mittels Schnüren, Bändern, elastischen Bändern oder Gurten an Wiegen, Kinderbetten oder Kinderwagen befestigt zu werden
+
+- 9\.1 Spielzeug, das dazu bestimmt ist, mittels Schnüren, Bändern, elastischen Bändern oder Gurten an Wiegen, Kinderbetten oder Kinderwagen befestigt zu werden, muss mit folgendem Hinweis versehen sein:
+- «Achtung. Um mögliche Verletzungen durch Verheddern zu verhindern, ist dieses Spielzeug zu entfernen, wenn das Kind beginnt zu versuchen, auf allen Vieren zu krabbeln.»
+- 9\.2 Der Hinweis muss sowohl auf der Verpackung als auch dauerhaft am Spielzeug angebracht sein.
+
+### 10. Verpackung für Duftstoffe in Brettspielen für den Geruchsinn, Kosmetikkoffern und Spielen für den Geschmacksinn
+
+- 10\.1 Ein Brettspiel für den Geruchssinn ist ein Spielzeug, dessen Zweck darin besteht, einem Kind dabei zu helfen, die Erkennung verschiedener Gerüche oder Düfte zu erlernen.
+- 10\.2 Ein Kosmetikkoffer ist ein Spielzeug, dessen Zweck darin besteht, Kindern dabei zu helfen, Produkte wie Parfüme, Seifen, Cremes, Shampoos, Badeschaum, Lippenglanzstifte, Lippenstifte, Make-up, Zahnpasta und Haarpflegemittel herzustellen.
+- 10\.3 Ein Spiel für Geschmacksinn ist ein Spielzeug, dessen Zweck darin besteht, dass Kinder unter Verwendung von Lebensmittelzutaten wie Süssstoffen, Flüssigkeiten, Pulver und Aromen Süssigkeiten oder andere Gerichte herstellen können.
+- 10\.4 Die Verpackung von Duftstoffen in Brettspielen für den Geruchsinn, in Kosmetikkoffern und Spielen für den Geschmacksinn, welche die in Anhang 2 Ziffer 3.9 Buchstabe a Nummern 41–55 und Buchstabe b aufgeführten Duftstoffe enthalten, muss mit folgendem Warnhinweis versehen sein:
+- «Achtung. Enthält Duftstoffe, die Allergien auslösen können».
+
+Anhang 4*[^t-4]*
+
+(Art. 8)
+
+## Technische Normen für die Sicherheit von Spielzeug****
+
+[^annex4-lvlu1-1]
+
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^annex4-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+<table>
+<tr><th>Nummer</th><th>Titel</th></tr>
+<tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sicherheit von Spielzeug – Teil 1: Mechanische und physikalische Eigenschaften</td></tr>
+<tr><td>SN EN 71-2:2011 mit Berichtigung A1:2014</td><td>Sicherheit von Spielzeug – Teil 2: Entflammbarkeit</td></tr>
+<tr><td>SN EN 71-3:2013 mit Berichtigung A3:2018</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
+<tr><td>SN EN 71-4:2013</td><td>Sicherheit von Spielzeug – Teil 4: Experimentierkästen für chemische und ähnliche Versuche</td></tr>
+<tr><td>SN EN 71-5:2016</td><td>Sicherheit von Spielzeug – Teil 5: Chemisches Spielzeug (Sets), ausgenommen Experimentierkästen</td></tr>
+<tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sicherheit von Spielzeug – Teil 7: Fingermalfarben – Anforderungen und Prüfverfahren</td></tr>
+<tr><td>SN EN 71-8:2018</td><td>Sicherheit von Spielzeug – Teil 8: Schaukeln, Rutschen und ähnliches Aktivitätsspielzeug für den häuslichen Gebrauch (Innen- und Aussenbereich)</td></tr>
+<tr><td>SN EN 71-12:2013</td><td>Sicherheit von Spielzeug – Teil 12: Nitrosamine und nitrosierbare Stoffe</td></tr>
+<tr><td>SN EN 71-13:2014</td><td>Sicherheit von Spielzeug – Teil 13: Brettspiele für den Geruchsinn, Kosmetikkoffer und Spiele für den Geschmacksinn</td></tr>
+<tr><td>SN EN 71-14:2018</td><td>Sicherheit von Spielzeug – Teil 14: Trampoline für den häuslichen Gebrauch</td></tr>
+<tr><td>SN EN 62115:2005 mit Änderung A2:2011 und Berichtigung AC:2011 mit Änderung A11:2012 und Berichtigung AC:2013 mit Änderung A12:2015</td><td>Elektrische Spielzeuge – Sicherheit</td></tr>
+</table>
+
+Anhang 5
+
+(Art. 10 Abs. 2)
+
+## Technische Unterlagen
+
+Die technischen Unterlagen müssen insbesondere Folgendes umfassen:
+
+- 1\. eine ausführliche Beschreibung von Gestaltung und Herstellung, einschliesslich einer Liste der in dem Spielzeug verwendeten Bestandteile und Materialien, sowie die Sicherheitsdatenblätter für verwendete chemische Stoffe (erhältlich beim Lieferanten);
+- 2\. die gemäss Artikel 9 durchgeführte(n) Sicherheitsbewertung(en);
+- 3\. eine Beschreibung des angewendeten Konformitätsbewertungsverfahrens;
+- 4\. eine Kopie der Konformitätserklärung;
+- 5\. die Adressen der Herstellungs- und Lagerorte;
+- 6\. eine Kopie der Unterlagen, welche die Herstellerin einer gegebenenfalls beteiligten bezeichneten Stelle übermittelt hat;
+- 7\. Prüfberichte und eine Beschreibung der Mittel, mit denen die Herstellerin die Übereinstimmung der Produktion mit den technischen Normen sicherstellt, falls die Herstellerin das Verfahren der internen Fertigungskontrolle nach Artikel 11 Absatz 1 Buchstabe a durchlaufen hat; und
+- 8\. eine Kopie der Baumusterprüfbescheinigung, eine Beschreibung der Mittel, mit denen die Herstellerin die Übereinstimmung der Produktion mit der in der Baumusterprüfbescheinigung beschriebenen Bauart gewährleistet, sowie eine Kopie der Unterlagen, die die Herstellerin der Konformitätsbewertungsstelle übermittelt hat, falls die Herstellerin gemäss Artikel 11 Absatz 1 Buchstabe b das Spielzeug dem Verfahren der Baumusterprüfung unterzogen und das Verfahren der Konformität mit der Bauart durchlaufen hat.
+
+Anhang 6
+
+(Art. 14 Abs. 3)
+
+## Konformitätserklärung
+
+Die Konformitätserklärung muss mindestens die in den anwendbaren Modulen nach Anhang II des Beschlusses Nr. 768/2008/EG[^annex6-lvlu1-1] angegebenen Elemente sowie die folgenden Elemente enthalten:
+
+- 1\. Nr. … (einmalige Kennnummer des Spielzeugs);
+- 2\. Name und Adresse der Herstellerin oder ihrer Bevollmächtigten;
+- 3\. die Erklärung: «Die alleinige Verantwortung für die Ausstellung dieser Konformitätserklärung trägt die Herstellerin.»;
+- 4\. Gegenstand der Erklärung (Bezeichnung des Spielzeugs zwecks Rückverfolgbarkeit) mit einem Farbfoto, auf dem das Spielzeug hinreichend deutlich zu erkennen ist;
+- 5\. die Erklärung, dass der unter Nummer 4 beschriebene Gegenstand die anwendbaren Bestimmungen erfüllt;
+- 6\. Angabe der anwendbaren technischen Normen, die zugrunde gelegt wurden, oder Angabe der technischen Dokumentationen, mit denen die Konformität erklärt wird (der Spezifikationen, für welche die Konformität erklärt wird);
+- 7\. gegebenenfalls die Erklärung: «Die Konformitätsbewertungsstelle (Name, Kennnummer)… hat… (Beschreibung ihrer Massnahme) und folgende Bescheinigung ausgestellt: …»;
+- 8\. zusätzliche Angaben:
+- Unterzeichnet für und im Namen von:
+- (Ort und Datum der Ausstellung)
+- (Name, Funktion) (Unterschrift).
+
+[^annex6-lvlu1-1]: Siehe Fussnote zu Art. 11 Abs. 1 Bst. a.

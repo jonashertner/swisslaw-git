@@ -1,0 +1,490 @@
+---
+sr: "812.212.5"
+title: Ordonnance du 17 octobre 2001 sur la publicité pour les médicaments (OPuM)
+short: OPuM
+eli: "https://fedlex.data.admin.ch/eli/cc/2001/519"
+language: fr
+version: 2020-01-01
+adopted: 2001-10-17
+in_force: 2002-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/519/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-519-20200101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/519/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la publicité pour les médicaments
+
+(OPuM)
+
+du 17 octobre 2001 (État le 1<sup>er</sup> janvier 2020)
+
+Le Conseil fédéral suisse,
+
+vu l’art. 31, al. 2 et 3, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-1],[^ingress-2]
+
+arrête:
+
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet et champ d’application[^1-1]**
+
+<sup>1</sup> La présente ordonnance règle la publicité destinée aux professionnels et la publicité destinée au public pour les médicaments prêts à l’emploi (médicaments) à usage humain ou vétérinaire.
+
+<sup>1bis</sup> Elle s’applique également, par analogie, à la publicité destinée aux professionnels et à la publicité destinée au public pour les transplants standardisés au sens de l’art. 2, al. 1, let. c, de l’ordonnance du 16 mars 2007 sur la transplantation[^1-2].[^1-3]
+
+<sup>2</sup>
+
+Elle ne s’applique pas:
+
+- a. au matériel d’emballage ni à l’information sur le médicament;
+- b. aux catalogues ni aux listes de prix dans la mesure où ils ne contiennent aucune donnée médicale;
+- c. aux informations générales sur la santé ou les maladies pour autant qu’elles ne se réfèrent ni directement, ni indirectement à des médicaments précis.
+
+[^1-1]: Nouvelle teneur selon l’annexe 7 ch. 3 de l’O du 16 mars 2007 sur la transplantation, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)).
+[^1-2]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^1-3]: Introduit par l’annexe 7 ch. 3 de l’O du 16 mars 2007 sur la transplantation ([RO 2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)). Nouvelle teneur selon le ch. I 5 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
+
+#### Art. 2
+
+**Définitions**
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *publicité pour les médicaments:* toute forme d’information, de prospection ou d’incitation qui vise à encourager la prescription, la remise, la vente, la consommation ou l’utilisation de médicaments;
+- b. *publicité destinée au public:* toute publicité pour les médicaments qui s’adresse au public;
+- c. *publicité destinée aux professionnels:* toute publicité qui s’adresse aux personnes habilitées à prescrire, à remettre ou à utiliser des médicaments à titre professionnel et sous leur propre responsabilité.
+
+## Section 2 Publicité destinée aux professionnels
+
+#### Art. 3
+
+**Destinataires de la publicité destinée aux professionnels**[^3-1]
+
+Les destinataires de la publicité destinée aux professionnels sont, dans les limites de leur habilitation à prescrire, à remettre ou à utiliser des médicaments:
+
+- a. les médecins, les dentistes, les vétérinaires et les chiropraticiens;
+- b. les pharmaciens;
+- c. les droguistes;
+- d. les autres personnes visées aux art. 24 et 25 LPTh;
+- e. les personnes visées à l’art. 52, al. 2, de l’ordonnance du 21 septembre 2018 sur les médicaments (OMéd)[^3-2].
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^3-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+
+#### Art. 4
+
+**Types de publicité destinée aux professionnels**
+
+Sont qualifiés de publicité destinée aux professionnels notamment:[^4-1]
+
+- a. les annonces publiées dans les revues spécialisées et autres imprimés à l’intention des professionnels;
+- b. la publicité apposée sur des objets;
+- c.[^4-2] la publicité diffusée par des médias électroniques tels que des supports d’images, de sons et de données, ou par des applications informatiques;
+- d. la publicité présentée dans le cadre de congrès scientifiques ou de manifestations promotionnelles;
+- e.[^4-3] l’organisation et le soutien financier de manifestations promotionnelles;
+- f.[^4-4] …
+- g. les envois publicitaires et le matériel promotionnel;
+- h. les visites de délégués médicaux;
+- i. les livraisons d’échantillons de médicaments.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^4-4]: Abrogée par l’annexe ch. 1 de l’O du 10 avr. 2019 sur l’intégrité et la transparence dans le domaine des produits thérapeutiques, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 1395](https://fedlex.data.admin.ch/eli/oc/2019/273)).
+
+#### Art. 5
+
+**Exigences relatives à la publicité destinée aux professionnels**
+
+<sup>1</sup> Toutes les données figurant dans la publicité destinée aux professionnels doivent être conformes à la dernière information sur le médicament telle qu’elle a été approuvée par l’Institut suisse des produits thérapeutiques (Swissmedic[^5-1]); la publicité doit en particulier se limiter aux indications et aux possibilités d’emploi reconnues par Swissmedic.
+
+<sup>2</sup> Si l’information sur le médicament n’est pas encore publiée, le titulaire de l’autorisation doit joindre à la publicité destinée aux professionnels le contenu intégral de la dernière information sur le médicament approuvée par Swissmedic.[^5-2]
+
+<sup>3</sup> La publicité destinée aux professionnels doit être formulée en termes précis, pondérés, véridiques et vérifiables. Ils ne doivent pas induire en erreur. Les pièces justificatives doivent être fournies aux professionnels qui les demandent.
+
+<sup>4</sup> La publicité doit être identifiable en tant que telle. La publicité et les textes rédactionnels doivent être clairement séparés.[^5-3]
+
+<sup>5</sup> Les textes publicitaires doivent être conformes à l’état des connaissances scientifiques et s’en faire l’écho. Ils ne peuvent se référer qu’à des essais cliniques réalisés conformément aux règles de bonnes pratiques cliniques et dont les résultats sont publiés ou prêts à l’être, et à des collectes de données, telles des méta-analyses ou des rapports d’expérience pratique publiés dans un média scientifique reconnu s’adressant aux professionnels. Ces publications doivent être citées fidèlement, de manière complète et avec la source exacte. Les textes doivent en outre mentionner que les professionnels peuvent demander à l’entreprise concernée une copie intégrale du rapport d’essais et les références correspondantes.[^5-4]
+
+<sup>6</sup> Les médicaments, indications, dosages, formes pharmaceutiques et emballages peuvent être qualifiés de «nouveauté» durant les 18 mois qui suivent leur première autorisation en Suisse. La publicité doit clairement exprimer en quoi consiste la nouveauté.[^5-5]
+
+<sup>7</sup> La publicité pour les médicaments de la médecine complémentaire doit s’appuyer sur des médias scientifiques reconnus s’adressant aux professionnels ou sur des monographies reconnues dans le domaine de la médecine complémentaire. Les textes publicitaires doivent spécifier l’orientation thérapeutique concernée.[^5-6]
+
+[^5-1]: Nouvelle expression selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+[^5-3]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^5-6]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 5a
+
+**Accès limité à la publicité destinée aux professionnels**[^5a-1]
+
+La publicité destinée aux professionnels ne doit pas être rendue publique sur Internet. L’accès à ce type de publicité doit être restreint par un mot de passe et des moyens techniques appropriés; il est limité aux personnes visées à l’art. 3.
+
+[^5a-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 6
+
+**Indications obligatoires[^6-1]**
+
+Toute publicité doit comporter au moins:
+
+- a. le nom de la préparation (marque);
+- b. les principes actifs avec leur abréviation (DCI/INN ou la désignation de la dernière édition de la Pharmacopée; à défaut, d’autres abréviations généralement reconnues et approuvées par Swissmedic);
+- c. le nom et l’adresse du titulaire de l’autorisation;
+- d. au moins une indication ou une possibilité d’emploi ainsi que la posologie et le mode d’administration;
+- e. un résumé des limitations d’emploi, des effets indésirables et des interactions;
+- f. la catégorie de remise;
+- g.[^6-2] un renvoi à la publication de l’information sur le médicament pour des informations plus détaillées; la source à indiquer est la liste électronique au sens de l’art. 67, al. 3, ou 95*b* LPTh;
+- h. les délais d’attente pour les médicaments destinés à des animaux servant à la production de denrées alimentaires.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 7
+
+**Publicité comparative**
+
+<sup>1</sup> Les comparaisons avec d’autres médicaments ne sont admissibles que si elles sont scientifiquement correctes et si elles se fondent sur des essais cliniques ou des collectes de données équivalents satisfaisant aux exigences prévues à l’art. 5, al. 5.[^7-1]
+
+<sup>2</sup> Si la comparaison se réfère, pour les médicaments à usage humain, à des études réalisées in vitro ou sur des animaux ou, pour les médicaments à usage vétérinaire, à des études qui n’ont pas été pratiquées sur l’espèce à traiter, la publicité doit clairement l’indiquer.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 8
+
+**Publicité de rappel**
+
+Lorsque la publicité comporte uniquement des indications thérapeutiques visant à rappeler la catégorie thérapeutique du médicament, à l’exclusion de toute autre information concernant son utilisation, on peut renoncer aux informations requises à l’art. 6, let. d, e et h.
+
+#### Art. 9
+
+**Publicité de marque**
+
+Lorsque la publicité a pour seule fonction de rappeler une marque, on indiquera exclusivement le nom de la préparation, avec mention ou non du titulaire de l’autorisation et des principes actifs.
+
+#### Art. 10
+
+**Échantillons**
+
+<sup>1</sup> Seul un petit nombre d’échantillons peut être distribué par médicament, par professionnel et par an.[^10-1]
+
+<sup>1bis</sup> Les échantillons ne peuvent être distribués qu’à l’initiative et sur demande écrite du professionnel qui souhaite les recevoir.[^10-2]
+
+<sup>2</sup>
+
+Ils doivent satisfaire aux conditions suivantes:
+
+- a.[^10-3] l’échantillon doit être clairement et durablement désigné comme «échantillon gratuit». Il doit comporter les textes et les données devant figurer sur le récipient et le matériel d’emballage ainsi qu’une notice d’emballage approuvée. S’agissant des médicaments pouvant être mis sur le marché sans notice d’emballage, l’échantillon doit comporter les données devant figurer sur le récipient et le matériel d’emballage;
+- b.[^10-4] ils doivent être remis avec la plus récente information sur le médicament approuvée par Swissmedic ou avec un renvoi à sa publication dans la liste électronique au sens de l’art. 67, al. 3, ou 95*b* LPTh;
+- c.[^10-5] le conditionnement des échantillons doit correspondre au plus petit emballage autorisé.
+
+<sup>3</sup> …[^10-6]
+
+<sup>4</sup> Sont réservées, en ce qui concerne la remise d’échantillons contenant des psychotropes ou des stupéfiants, les dispositions de l’ordonnance du 25 mai 2011 sur le contrôle des stupéfiants[^10-7].[^10-8]
+
+<sup>5</sup> Le titulaire de l’autorisation tient une comptabilité des échantillons remis.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^10-2]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^10-3]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1er janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^10-5]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^10-6]: Abrogé par l’annexe ch. 1 de l’O du 10 avr. 2019 sur l’intégrité et la transparence dans le domaine des produits thérapeutiques, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 1395](https://fedlex.data.admin.ch/eli/oc/2019/273)).
+[^10-7]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^10-8]: Nouvelle teneur selon l’art. 87 ch. 2 de l’O du 25 mai 2011 sur le contrôle des stupéfiants, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)).
+
+#### Art. 11
+
+[^11-1]
+
+[^11-1]: Abrogé par l’annexe ch. 1 de l’O du 10 avr. 2019 sur l’intégrité et la transparence dans le domaine des produits thérapeutiques, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 1395](https://fedlex.data.admin.ch/eli/oc/2019/273)).
+
+#### Art. 12
+
+**Délégués médicaux**
+
+<sup>1</sup> Le titulaire de l’autorisation garantit que les délégués médicaux sont formés de façon adéquate et qu’ils disposent des connaissances suffisantes pour donner tous les renseignements nécessaires. Les délégués médicaux se basent à cet effet sur la littérature scientifique et sur la dernière information approuvée par Swissmedic, qu’ils tiennent à disposition.
+
+<sup>2</sup> Ils sont tenus de transmettre constamment au service compétent du titulaire de l’autorisation toutes les informations relatives à l’utilisation des médicaments dont ils ont connaissance durant leur activité, en particulier les rapports sur des effets indésirables ou des interactions.
+
+#### Art. 13
+
+**Publicité illicite destinée aux professionnels**
+
+La publicité ne doit pas:
+
+- a.[^13-1] utiliser le qualificatif «sûr», sauf si l’information fournie indique clairement à quoi ce qualificatif se réfère;
+- b. affirmer qu’un médicament n’a pas d’effets secondaires ou qu’il est sans danger ou inoffensif;
+- c. donner l’impression d’être un texte rédactionnel;
+- d. affirmer qu’un médicament à usage humain ne provoque pas d’accoutumance.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+## Section 3 Publicité destinée au public
+
+#### Art. 14
+
+**Objet de la publicité destinée au public**[^14-1]
+
+<sup>1</sup> La publicité destinée au public n’est autorisée que pour les médicaments des catégories de remise C, D et E au sens des art. 43, 44 et 88 OMéd[^14-2] et pour les médicaments bénéficiant d’une autorisation cantonale, à moins qu’elle ne soit restreinte ou interdite par d’autres dispositions légales.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^14-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+
+#### Art. 15
+
+**Types de publicité destinée au public**
+
+Sont qualifiés de publicité destinée au public:[^15-1]
+
+- a. les annonces publiées dans les journaux, revues et livres, les prospectus, les affiches, les lettres circulaires, etc.;
+- b. la publicité apposée sur des objets;
+- c.[^15-2] la publicité diffusée par des médias électroniques tels que des supports d’images, de sons et de données, ou par des applications informatiques;
+- d. les présentations publicitaires faites à domicile ou lors de conférences tenues devant des non-spécialistes;
+- e. la publicité faite dans les cabinets médicaux, les cabinets vétérinaires et sur les lieux de remise (vitrines, récipients pour la vente, etc.);
+- f. la remise d’échantillons.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 16
+
+**Exigences relatives à la publicité destinée au public**
+
+<sup>1</sup> Toutes les données figurant dans la publicité destinée au public doivent être conformes à la dernière information sur le médicament telle qu’elle a été approuvée par Swissmedic; la publicité doit en particulier se limiter aux indications et aux possibilités d’emploi reconnues par Swissmedic. Pour les médicaments sans notice d’emballage, le dernier texte approuvé pour l’emballage fait foi.
+
+<sup>2</sup> Les propriétés du médicament doivent être présentées de façon véridique et sans exagération, que ce soit par le texte, l’image ou le son.[^16-1]
+
+<sup>3</sup> La publicité doit être identifiable en tant que telle. Les textes rédactionnels et les annonces publicitaires doivent être clairement séparés.
+
+<sup>4</sup> Les médicaments, indications, dosages, formes pharmaceutiques et emballages ne peuvent être qualifiés de «nouveauté» que durant les 18 mois qui suivent leur première autorisation en Suisse. La publicité doit clairement exprimer en quoi consiste la nouveauté.[^16-2]
+
+<sup>5</sup>
+
+La publicité pour les médicaments des catégories de remise C et D doit clairement les présenter comme des médicaments. Elle doit donner au moins les informations suivantes:[^16-3]
+
+- a. le nom de la préparation (marque) et le nom du titulaire de l’autorisation;
+- b. au moins une indication ou une possibilité d’emploi;
+- c.[^16-4]
+
+  l’avertissement exprès et bien lisible:
+
+  - 1\. pour les médicaments avec notice d’emballage: «Ceci est un médicament autorisé. Lisez la notice d’emballage.»,
+  - 2\. pour les médicaments sans notice d’emballage: «Ceci est un médicament autorisé. Lisez les informations figurant sur l’emballage.»;
+
+- d. les délais d’attente pour les médicaments destinés à des animaux servant à la production de denrées alimentaires.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+
+#### Art. 17
+
+**Avertissement obligatoire pour la publicité relative aux médicaments des catégories de remise C et D diffusée par les médias électroniques**[^17-1]
+
+<sup>1</sup> Les spots télévisés et les publicités cinématographiques doivent être suivis du texte suivant: «Ceci est un médicament autorisé. Demandez conseil à votre spécialiste et lisez la notice d’emballage» si le médicament est accompagné d’une notice ou «Ceci est un médicament autorisé. Demandez conseil à votre spécialiste et lisez les informations figurant sur l’emballage» si le médicament n’a pas de notice.[^17-2] Cet avertissement doit être énoncé de manière claire et audible et apparaître bien lisiblement sur fond neutre, dans une police d’écriture qui occupe au moins un tiers de l’image (pour la publicité cinématographique, la police d’écriture doit être au moins la police usuelle des sous-titres). En cas de publicités muettes, il suffit que l’avertissement soit visible.
+
+<sup>2</sup> Les spots radiophoniques doivent être suivis de l’avertissement suivant: «[Nom de la préparation] est un médicament autorisé. Demandez conseil à votre spécialiste et lisez la notice d’emballage» si le médicament est accompagné d’une notice ou «[Nom de la préparation] est un médicament autorisé. Demandez conseil à votre spécialiste et lisez les informations figurant sur l’emballage» si le médicament n’a pas de notice.[^17-3] Cet avertissement doit être énoncé de manière claire et audible.
+
+<sup>3</sup> Les publicités diffusées par affichage électronique doivent être suivies du texte suivant: «Ceci est un médicament autorisé. Demandez conseil à votre spécialiste et lisez la notice d’emballage» si le médicament est accompagné d’une notice ou «Ceci est un médicament autorisé. Demandez conseil à votre spécialiste et lisez les informations figurant sur l’emballage» si le médicament n’a pas de notice.[^17-4] Cet avertissement doit apparaître pendant au moins cinq secondes, de manière bien lisible sur fond neutre, dans une police d’écriture qui occupe au moins un tiers de l’affichage.
+
+[^17-1]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+
+#### Art. 17a
+
+**Publicité avec le statut de médicament autorisé**[^17a-1]
+
+<sup>1</sup> Toute publicité pour un médicament des catégories de remise C et D doit mentionner son statut de médicament autorisé en utilisant les textes visés aux art. 16, al. 5, let. c, et 17. La représentation graphique figurant en annexe peut y être ajoutée.
+
+<sup>2</sup> Le statut de médicament autorisé ne peut pas être utilisé pour faire la publicité d’un médicament de la catégorie de remise E.
+
+[^17a-1]: Introduit par le ch. I de l’O du 11 mars 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)). Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 17b
+
+**Publicité pour les médicaments bénéficiant d’une autorisation cantonale**[^17b-1]
+
+<sup>1</sup> La publicité pour un médicament bénéficiant d’une autorisation cantonale en vertu de l’art. 9, al. 2, let. f, LPTh doit porter explicitement la mention suivante, imprimée en caractères bien lisibles: «Ce médicament ne bénéficie pas d’une autorisation de l’Institut suisse des produits thérapeutiques (Swissmedic), qui n’a pas vérifié s’il répond aux exigences de qualité, de sécurité et d’efficacité. Il ne peut être remis que dans le canton de [nom du canton].»
+
+<sup>2</sup> L’art. 17 s’applique par analogie à la forme de cette mention obligatoire, qui doit respecter les critères relatifs à la lisibilité, à l’arrière-plan, à la police d’écriture, à la taille des caractères, à la compréhensibilité, à l’affichage et à la durée d’affichage.
+
+[^17b-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 18
+
+**Publicité de marque**
+
+<sup>1</sup> Lorsque la publicité a pour seule fonction de rappeler une marque, on indiquera exclusivement le nom de la préparation, avec mention ou non du titulaire de l’autorisation.[^18-1]
+
+<sup>2</sup> La publicité de marque n’est pas autorisée au cinéma, à la radio et à la télévision.
+
+[^18-1]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+#### Art. 19
+
+**Échantillons destinés au public**[^19-1]
+
+<sup>1</sup> Les échantillons destinés au public doivent être remis gratuitement.
+
+<sup>2</sup> Ils doivent être clairement et durablement désignés comme «échantillon gratuit». Ils doivent répondre aux exigences de Swissmedic concernant les textes et les données figurant sur les récipients et le matériel d’emballage.
+
+<sup>3</sup> Les échantillons de médicaments à usage humain ne doivent pas contenir plus de la dose journalière recommandée.
+
+<sup>4</sup> Les échantillons de médicaments des catégories de remise C et D ne doivent être remis au public que dans les points de remise autorisés. Il est interdit de les offrir en libre-service.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 20
+
+**Restriction de la publicité destinée au public pour certains médicaments à usage humain[^20-1]**
+
+Les médicaments à usage humain, destinés à être administrés oralement et contenant de l’alcool, ne sont autorisés dans la publicité radiophonique et télévisuelle que s’ils contiennent moins de 0,5 g d’alcool pur par dose simple maximale.
+
+[^20-1]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+#### Art. 21
+
+**Publicité illicite destinée au public**
+
+<sup>1</sup>
+
+Sont notamment illicites:
+
+- a. la publicité pour des indications ou des possibilités d’emploi nécessitant un diagnostic ou un traitement médical ou vétérinaire;
+- b. toute publicité envahissante et tapageuse;
+- c. toute publicité donnant l’impression d’être un texte rédactionnel;
+- d. la prise de commandes de médicaments lors de visites de démarchage, d’expositions, de conférences, de voyages publicitaires et autres manifestations de ce type ainsi que le publipostage adressé;
+- e. la remise directe de médicaments à des fins promotionnelles;
+- f.[^21-1] la remise de bons d’achat pour des médicaments;
+- g. toute forme d’encouragement à prendre contact avec le titulaire de l’autorisation;
+- h.[^21-2] la mise sur pied de concours.
+
+<sup>2</sup> Les dispositions de l’al. 1, let. b et d à h, ne s’appliquent pas aux médicaments de la catégorie de remise E.[^21-3]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+[^21-2]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+[^21-3]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+#### Art. 22
+
+**éléments publicitaires illicites**
+
+Sont interdits les éléments qui:
+
+- a. feraient apparaître la consultation médicale ou vétérinaire ou l’intervention chirurgicale comme superflue, en particulier en offrant un diagnostic ou en préconisant un traitement par correspondance;
+- b. suggéreraient que l’effet du médicament est garanti ou laisseraient entendre qu’il n’a pas d’effet indésirable;
+- c. suggéreraient que l’effet du médicament est égal ou supérieur à celui d’un autre traitement ou d’un autre médicament;
+- d. suggéreraient que l’état de bonne santé ordinaire du sujet puisse être amélioré par l’utilisation du médicament;
+- e. suggéreraient que l’état de bonne santé ordinaire du sujet puisse être affecté par la non-utilisation du médicament;
+- f. s’adresseraient principalement ou exclusivement à des enfants ou à des adolescents;
+- g. mentionneraient ou se référeraient à des publications scientifiques, des études cliniques, des expertises, des témoignages ou des recommandations émanant de scientifiques, de professionnels de la santé, de personnalités connues ou de personnes non spécialisées du domaine médico-pharmaceutique;
+- h. représenteraient des personnes en tenue de professionnel de la santé, de droguiste ou de personnel médical auxiliaire, ou des personnes dans l’exercice d’une activité médicale;
+- i. se référeraient à des titres ou à des distinctions trompeurs, inexistants ou non reconnus;
+- j. assimileraient le médicament à une denrée alimentaire ou à un aliment pour animaux, à un produit cosmétique ou à un autre produit de consommation;
+- k. affirmeraient ou suggéreraient que la sécurité ou l’efficacité du médicament est due au fait qu’il s’agit d’un «produit naturel» ou d’un type similaire;
+- l. pourraient faire croire à une anamnèse induisant le sujet à établir un faux autodiagnostic ou le détenteur de l’animal à établir un faux diagnostic;
+- m. utiliseraient de manière abusive, alarmiste ou trompeuse des représentations visuelles d’altérations du corps humain ou animal ou de ses parties, dues à des maladies ou à des lésions ou à l’action d’un médicament;
+- n. mentionneraient le nombre des sujets ou des animaux traités;
+- o. utiliseraient des expressions pouvant susciter la peur.
+- p.[^22-1] …
+
+[^22-1]: Abrogée par le ch. I de l’O du 11 mars 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+
+## Section 4 Contrôle
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+#### Art. 23
+
+**Contrôle préalable**
+
+<sup>1</sup> La publicité destinée au public au sens de l’art. 15, let. a et c, pour les analgésiques, les somnifères, les sédatifs, les laxatifs et les anorexigènes doit être soumise pour autorisation à Swissmedic avant sa diffusion initiale lorsque l’information sur le médicament mentionne un risque d’usage abusif ou de dépendance.[^23-1]
+
+<sup>2</sup> Swissmedic peut obliger le titulaire d’une autorisation qui viole gravement ou de façon répétée les dispositions sur la publicité à lui soumettre, pendant une durée appropriée et sous une forme qu’il déterminera, l’ensemble de ses projets de publicité pour examen et approbation avant leur première utilisation.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+#### Art. 24
+
+**Violation des dispositions sur la publicité**
+
+<sup>1</sup> Toute personne ou organisme peut signaler à Swissmedic les faits qui lui paraissent constituer une violation des dispositions sur la publicité pour les médicaments.
+
+<sup>2</sup> Swissmedic se saisit d’office des cas de violation présumés.
+
+#### Art. 25
+
+**Mesures de contrôle internes du titulaire de l’autorisation**
+
+<sup>1</sup> Le titulaire d’une autorisation désigne une personne responsable de la publicité pour les produits qu’il met sur le marché.
+
+<sup>2</sup> Cette personne doit bénéficier d’une formation ou d’une expérience scientifique, médicale ou spécialisée appropriée en rapport avec les préparations mises sur le marché.
+
+<sup>3</sup>
+
+Elle assume les tâches suivantes:
+
+- a. elle s’assure que la publicité respecte les dispositions applicables;
+- b.[^25-1] elle veille à ce que les instructions de Swissmedic soient respectées entièrement et sans délai;
+- c. elle fournit les documents et les informations exigés par Swissmedic;
+- d. elle garantit que les délégués médicaux de son établissement disposent d’une formation appropriée et respectent les obligations qui leur incombent en vertu de la présente ordonnance;
+- e. elle conserve, durant six mois au moins à compter de la dernière utilisation promotionnelle, chaque publicité diffusée pour un médicament et établit une liste de tous les destinataires, des modes de diffusion et de la date de la première diffusion.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+## Section 5 Dispositions finales
+
+[^sec5-1]
+
+[^sec5-1]: Anciennement avant l’art. 26. Nouvelle teneur selon le ch. I 4 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+#### Art. 25a
+
+**Dispositions transitoires**[^25a-1]
+
+<sup>1</sup> Les publicités diffusées par affichage électronique qui ne satisfont pas à l’art. 17, al. 3, peuvent encore être diffusées jusqu’au 31 octobre 2004.
+
+<sup>2</sup> Les échantillons fabriqués avant l’entrée en vigueur des nouvelles dispositions stipulées à l’art. 10, al. 2, let. a et à l’art. 19, al. 1, peuvent encore être distribués au plus tard jusqu’au 30 juin 2005.
+
+[^25a-1]: Introduit par le ch. I 4 de l’O du 18 août 2004 , en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+#### Art. 25b
+
+**Disposition transitoire relative à la modification du 11 mars 2016**[^25b-1]
+
+La publicité destinée au public relative aux médicaments des catégories de remise C et D peut être faite conformément aux anciens art. 16, al. 5, let. c, et 17 jusqu’au 1<sup>er</sup> avril 2019.
+
+[^25b-1]: Introduit par le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)).
+
+#### Art. 26
+
+**Entrée en vigueur[^26-1]**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
+
+[^26-1]: Introduit par le ch. I 4 de l’O du 18 août 2004 , en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)).
+
+Annexe[^t-1]
+
+(art. 17*a*, al. 1)
+
+## Représentation graphique pour la publicité avec le statut de médicament autorisé
+
+[^t-1]: Introduite par le ch. II de l’O du 11 mars 2016 ([RO 2016 971](https://fedlex.data.admin.ch/eli/oc/2016/170)). Mise à jour selon le ch. II de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3713](https://fedlex.data.admin.ch/eli/oc/2018/592)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/519/20200101/fr/xml/image/image1.png)

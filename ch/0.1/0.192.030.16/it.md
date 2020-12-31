@@ -1,0 +1,93 @@
+---
+sr: "0.192.030.16"
+title: "Risoluzione statutaria (93) 28 del Comitato dei Ministri del Consiglio d'Europa del 14 maggio 1993 sugli accordi parziali e allargati"
+eli: "https://fedlex.data.admin.ch/eli/cc/1995/5257_5257_5257"
+language: it
+version: 1993-05-14
+adopted: 1993-05-14
+in_force: 1993-05-14
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5257_5257_5257/19930514/it/xml/fedlex-data-admin-ch-eli-cc-1995-5257_5257_5257-19930514-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5257_5257_5257/19930514/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Risoluzione statutaria (93) 28 del Comitato dei Ministri del Consiglio d’Europa sugli accordi parziali e allargati
+
+RU **1995** 5257
+
+Traduzione*[^t-1]*
+
+(Adottata dal Comitato dei Ministri il 14 maggio 1993 nel corso della sua 92<sup>a</sup> sessione)
+
+(Stato 14 maggio 1993)
+
+[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+
+Il Comitato dei Ministri,
+
+considerato che conformemente al suo Statuto[^ingress-1] il Consiglio d’Europa è competente in un largo ventaglio di settori nei quali persegue lo scopo di attuare un’unione più stretta fra i suoi Membri;
+
+considerato che gli Accordi parziali, grazie ai quali alcuni Membri possono astenersi dal partecipare ad una linea di condotta scelta da altri Membri, come disposto dalla Risoluzione statutaria adottata dal Comitato dei Ministri il 2 agosto 1951, in occasione della sua 9a seduta, si sono rivelati validi;
+
+considerato che in alcuni casi le questioni trattate dal Consiglio d’Europa vanno oltre i confini geografici del territorio dei suoi Membri e che l’Organizzazione dev’essere pronta ad esaminare qualsiasi proposta di azione congiunta, nell’ambito di un’attività intergovernativa, proveniente da Stati non membri;
+
+considerato che occorre di conseguenza prevedere modalità flessibili e non istituzionali per consentire ad alcuni o a tutti i Membri, nonché agli Stati non membri del Consiglio d’Europa, di condurre congiuntamente un’attività intergovernativa su una base paritaria, nell’ambito di una Accordo parziale, di un Accordo parziale allargato o di un Accordo allargato;
+
+visto il parere favorevole dell’Assemblea parlamentare;
+
+decide quanto segue:
+
+[^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+
+## I. Partecipazione alle attività
+
+Le attività o serie di attività alle quali non tutti i Membri del Consiglio d’Europa intendono associarsi in uno sforzo comune o alle quali si vogliono associare Stati non membri del Consiglio d’Europa possono essere intraprese:
+
+- – da alcuni Stati membri del Consiglio d’Europa, nel quadro di un Accordo parziale;
+- – da alcuni Stati membri del Consiglio d’Europa insieme ad uno o più Stati non membri, nel quadro di un Accordo parziale allargato;
+- – da tutti gli Stati membri del Consiglio d’Europa insieme ad uno o più Stati non membri, nel quadro di un Accordo allargato.
+
+## II. Decisione in merito alla partecipazione
+
+Il Comitato dei Ministri può, alla maggioranza di cui all’articolo 20d dello Statuto del Consiglio d’Europa[^lvlII-1]:
+
+- – autorizzare alcuni Stati membri ad intraprendere un’attività o una serie di attività nell’ambito dell’Organizzazione; detta attività o serie di attività sarà allora adottata soltanto dai rappresentanti che hanno votato in suo favore e l’applicazione sarà limitata in modo corrispondente;
+- – nella sua composizione limitata ai rappresentanti degli Stati membri di un Accordo parziale, invitare ogni Stato non membro ad aderire ad un Accordo parziale o ad alcune delle sue attività;
+- – invitare ogni Stato non membro ad unirsi agli Stati membri del Consiglio d’Europa nella realizzazione di un’attività o di una serie di attività.
+
+[^lvlII-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+
+## III. Bilancio
+
+L’Accordo parziale, l’Accordo parziale allargato o l’Accordo allargato (denominato qui di seguito «l’Accordo») è finanziato per mezzo di un bilancio alimentato dai contributi degli Stati membri e degli Stati non membri che vi partecipano.
+
+L’aliquota per il calcolo dei contributi degli Stati non membri è fissata d’intesa con essi; in generale, quest’aliquota è conforme ai criteri di determinazione dell’aliquota dei contributi versati al bilancio generale del Consiglio d’Europa.
+
+Il bilancio è adottato ogni anno da un organo composto dai rappresentanti nel Comitato dei Ministri degli Stati membri partecipanti all’attività e, se del caso, dai rappresentanti degli Stati non membri che partecipano all’attività, in questo caso autorizzati a votare.
+
+Il Regolamento finanziario si applica, mutatis mutandis, all’adozione e alla gestione del bilancio dell’Accordo.
+
+## IV. Funzionamento dell’Accordo
+
+La decisione con la quale l’Accordo è istituito ne precisa gli organi nonché le modalità specifiche di realizzazione delle attività. Salvo stipulazione contraria nella decisione, le disposizioni generali in vigore al Consiglio d’Europa relative alle strutture, ai mandati e ai metodi di lavoro dei comitati e, segnatamente, il Regolamento interno delle riunioni dei Delegati dei Ministri si applicano, *mutatis mutandis,* agli organi dell’Accordo.
+
+Il segretariato degli organi dell’Accordo è assicurato dal Segretario generale del Consiglio d’Europa.
+
+## V. Nuovi membri e osservatori
+
+Salvo stipulazione contraria nella decisione che istituisce l’Accordo:
+
+- – ogni Stato membro del Consiglio d’Europa può aderire in ogni momento all’Accordo, facendo una dichiarazione in tal senso al Segretario generale;
+- – ogni Stato non membro del Consiglio d’Europa può essere invitato ad aderire ad un Accordo allargato o ad un Accordo parziale allargato, su decisione del Comitato dei Ministri dopo consultazione degli Stati non membri che già vi partecipano;
+- – ogni Stato non membro ed ogni organizzazione internazionale intergovernativa possono essere invitati dal Comitato dei Ministri, dopo consultazione degli Stati non membri che già vi partecipano, a prendere parte, in qualità di osservatori, alle attività di un Accordo parziale, di un Accordo parziale allargato o di un Accordo allargato. Gli osservatori non devono versare alcun contributo al bilancio.
+
+## VI. Comunità europea
+
+La Comunità europea può essere invitata dal Comitato dei Ministri a partecipare ad un Accordo parziale, ad un Accordo parziale allargato o ad un Accordo allargato. Le modalità della sua partecipazione sono esposte nella decisione che la invita a partecipare.
+
+## VII. Disposizioni transitorie
+
+Il presente testo sostituisce la Risoluzione statutaria sugli Accordi parziali adottata dal Comitato dei Ministri il 2 agosto 1951, in occasione della sua 9<sup>a</sup> sessione.
+
+Gli Accordi parziali già stabiliti continueranno a funzionare secondo le loro norme specifiche.

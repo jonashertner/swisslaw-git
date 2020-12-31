@@ -1,0 +1,229 @@
+---
+sr: "0.790.1"
+title: Accordo del 22 aprile 1968 sul salvataggio ed il ricupero dei cosmonauti nonché sulla restituzione degli oggetti lanciati nello spazio extra-atmosferico
+eli: "https://fedlex.data.admin.ch/eli/cc/1970/95_99_99"
+language: it
+version: 2020-06-03
+adopted: 1968-04-22
+in_force: 1969-12-18
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/95_99_99/20200603/it/xml/fedlex-data-admin-ch-eli-cc-1970-95_99_99-20200603-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/95_99_99/20200603/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo sul salvataggio ed il ricupero dei cosmonauti nonché sulla restituzione degli oggetti lanciati nello spazio extra-atmosferico
+
+RU **1970** 99; FF **1969** I 645
+
+Traduzione
+
+Conchiuso a Londra, Mosca e Washington il 22 aprile 1968
+
+Firmato dalla Svizzera il 22 aprile 1968
+
+Approvato dall’Assemblea federale il 2 ottobre 1969[^t-1]
+
+Strumento di ratificazione depositato dalla Svizzera il 18 dicembre 1969
+
+Entrato in vigore per la Svizzera il 18 dicembre 1969
+
+(Stato 3 giugno 2020)
+
+[^t-1]: [RU 1970 89](https://fedlex.data.admin.ch/eli/oc/1970/85_89_89)
+
+Gli Stati partecipi del presente Accordo,
+
+riconosciuta l’importanza considerevole del Trattato[^ingress-1] sulle norme per l’esplorazione e l’utilizzazione, da parte degli Stati, dello spazio extra-atmosferico, compresi la luna e gli altri corpi celesti, che prevede di fornire ai cosmonauti tutta l’assistenza possibile in caso di incidenti di difficoltà o di atterraggi di emergenza, di rimpatriare senza indugio e con le dovute misure di sicurezza i cosmonauti, come pure di restituire gli oggetti lanciati nello spazio extra-atmosferico,
+
+desiderosi di sviluppare e di rendere più effettivi detti obblighi,
+
+desiderosi di promuovere la cooperazione tra gli Stati nel campo dell’esplorazione dell’utilizzazione dello spazio extra-atmosferico,
+
+animati da sentimenti umanitari,
+
+hanno convenuto quanto segue:
+
+[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
+
+#### Art. 1
+
+Ogni Parte contraente che apprende o costata che l’equipaggio di un veicolo spaziale è stato vittima di un incidente, si trova in difficoltà, o ha compiuto un atterraggio di emergenza o involontario nella circoscrizione territoriale di sua competenza, ha ammarato in alto mare o ha compiuto un atterraggio in qualsiasi altro luogo che non è sottoposto alla giurisdizione di uno Stato,
+
+- a. informa immediatamente l’autorità di lancio o, quando non riesca ad identificare detta autorità od a mettersi subitamente in contatto con essa, diffonde immediatamente la notizia con tutti i mezzi appropriati di comunicazione di cui può disporre;
+- b. informa immediatamente il Segretario generale dell’Organizzazione delle Nazioni Unite il quale provvede senza indugio alla diffusione dell’informazione ricevuta, con tutti i mezzi appropriati di comunicazione di cui può disporre.
+
+#### Art. 2
+
+Qualora l’equipaggio di un veicolo spaziale venga a trovarsi, per incidenti, difficoltà o atterraggio di emergenza o involontario, nella circoscrizione territoriale di un’altra Parte contraente, quest’ultima prende immediatamente tutte le misure possibili per garantirne il salvataggio e recare ai cosmonauti l’aiuto necessario. Essa comunica all’autorità di lancio e al Segretario generale dell’Organizzazione delle Nazioni Unite le misure prese e i risultati ottenuti. Se l’intervento dell’autorità di lancio sembra opportuno per accelerare le operazioni di salvataggio o per contribuire notevolmente all’efficacia delle operazioni di ricerca e di salvataggio, detta autorità coopera con la Parte contraente al fine di garantire la riuscita delle operazioni. Quest’ultime sono dirette e sorvegliate dalla Parte contraente, in stretti e continui rapporti con l’autorità di lancio.
+
+#### Art. 3
+
+Le Parti contraenti che apprendono o costatano che l’equipaggio di un veicolo spaziale ha ammarato in alto mare o ha atterrato in qualsiasi altro luogo che non è sottoposto alla giurisdizione di uno Stato, cooperano, se è loro possibile e se si rivela necessario, alle operazioni di ricerca e di salvataggio per garantire un sollecito salvamento dell’equipaggio. Dette Parti comunicano all’autorità di lancio e al Segretario generale dell’Organizzazione delle Nazioni Unite le misure prese e i risultati ottenuti.
+
+#### Art. 4
+
+Qualora l’equipaggio di un veicolo spaziale venga a trovarsi, per incidenti, difficoltà, atterraggio o ammaraggio di emergenza o involontario, nella circoscrizione territoriale di competenza di una Parte contraente o in alto mare, come pure in qualsiasi altro luogo che non è sottoposto alla giurisdizione di uno Stato, esso è immediatamente restituito, con tutte le misure di sicurezza possibili, ai rappresentanti dell’autorità di lancio.
+
+#### Art. 5
+
+<sup>1.</sup> La Parte contraente che apprende o costata che un oggetto spaziale o parti componenti di esso sono caduti sulla Terra nella circoscrizione territoriale di sua competenza, in alto mare o in qualsiasi altro luogo che non è sottoposto alla giurisdizione di uno Stato, deve comunicarlo all’autorità di lancio e al Segretario generale dell’Organizzazione delle Nazioni Unite.
+
+<sup>2.</sup> Se un oggetto spaziale o parti componenti di esso sono rinvenuti nella circoscrizione territoriale di competenza di una Parte contraente, quest’ultima prende, su domanda dell’autorità di lancio e, se richiesta, con la sua cooperazione, le misure che ritiene opportune per il ricupero dell’oggetto o delle sue parti componenti.
+
+<sup>3.</sup> Gli oggetti lanciati nello spazio extra-atmosferico o le parti componenti di essi, rinvenuti oltre i limiti territoriali dell’autorità di lancio, sono restituiti, a richiesta, ai rappresentanti di detta autorità, previo controllo dei dati di identificazione che da essa sono forniti a domanda, o tenuti a loro disposizione.
+
+<sup>4.</sup> Se una Parte contraente ha ragione di ritenere che, nonostante le disposizioni dei numeri 2 e 3 del presente articolo, un oggetto spaziale o parti componenti di esso, rinvenuti nella circoscrizione territoriale di sua competenza o da essa ricuperati in qualsiasi altro luogo, possano essere di per sé pericolosi o deleteri, essa può comunicarlo all’autorità di lancio; quest’ultima prende immediatamente le misure adeguate all’eliminazione di qualsiasi pericolo o danno, secondo le direttive e sotto la sorveglianza della Parte contraente interessata.
+
+<sup>5.</sup> Le spese per l’adempimento degli obblighi concernenti il ricupero e la restituzione di un oggetto spaziale o di sue parti componenti sono a carico dell’autorità di lancio, giusta le disposizioni dei numeri 2 e 3 del presente articolo.
+
+#### Art. 6
+
+Nel presente Accordo l’espressione «autorità di lancio» indica lo Stato responsabile del lancio o, se la responsabilità incombe a un’Organizzazione governativa internazionale, la detta Organizzazione, quando essa dichiari di accettare i diritti e gli obblighi previsti nel presente Accordo e quando la maggioranza degli Stati membri di detta Organizzazione siano Parti contraenti del presente Accordo e del Trattato sulle norme per l’esplorazione e l’utilizzazione, da parte degli Stati, dello spazio extra-atmosferico, compresi la luna e gli altri corpi celesti.
+
+#### Art. 7
+
+<sup>1.</sup> Il presente Accordo è aperto alla firma di tutti gli Stati. A partire dalla sua entrata in vigore, giusta il numero 3 del presente articolo, l’Accordo è aperto in ogni momento all’adesione di qualsiasi Stato che non l’abbia ancora firmato.
+
+<sup>2.</sup> Il presente Accordo è sottoposto alla ratificazione degli Stati firmatari. Gli strumenti di ratificazione e quelli di adesione sono depositati presso i Governi del Regno Unito di Gran Bretagna ed Irlanda del Nord, degli Stati Uniti d’America e dell’Unione Sovietica, designati nel presente Accordo quali Governi depositari.
+
+<sup>3.</sup> Il presente Accordo entra in vigore non appena cinque Governi, compresi quelli designati nel presente Accordo quali Governi depositari, depositano i rispettivi strumenti di ratificazione.
+
+<sup>4.</sup> Il presente Accordo entra successivamente in vigore, per gli Stati che hanno depositato i rispettivi strumenti di ratificazione o di adesione dopo la sua entrata in vigore, il giorno del deposito del rispettivo strumento di ratificazione o di adesione.
+
+<sup>5.</sup> I Governi depositari comunicano immediatamente la data del deposito di ogni strumento di ratificazione del presente Accordo o di adesione allo stesso, come pure il giorno dell’entrata in vigore dell’Accordo e qualsiasi altra informazione, a tutti gli Stati in nome dei quali l’Accordo è stato firmato o l’adesione notificata.
+
+<sup>6.</sup> I Governi depositari registrano il presente Accordo giusta l’articolo 102 della Carta delle Nazioni Unite[^7-1].
+
+[^7-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+
+#### Art. 8
+
+Ogni Stato partecipe del presente Accordo può proporre emendamenti all’Accordo. Gli emendamenti entrano in vigore il giorno della loro accettazione da parte della maggioranza degli Stati contraenti, per ogni Stato contraente che li accetta, e, successivamente, per ciascun altro Stato contraente, il giorno della sua accettazione.
+
+#### Art. 9
+
+Il presente Accordo può essere disdetto da ogni Stato contraente, dopo un anno dalla sua entrata in vigore, mediante notificazione scritta ai Governi depositari. La disdetta ha effetto un anno dopo il giorno della notificazione.
+
+#### Art. 10
+
+Il presente Accordo, i cui testi inglese, russo, spagnolo, francese e cinese fanno ugualmente fede, è depositato negli archivi dei Governi depositari. Detti Governi inviano copie certificate conformi del presente Accordo a tutti i Governi degli Stati firmatari o aderenti.
+
+*In fede di che,* i sottoscritti plenipotenziari, debitamente autorizzati dai loro Governi, hanno firmato il presente Accordo. Fatto a Londra, Mosca e Washington, il 22 aprile 1968, in triplo esemplare. (Seguono le firme)
+
+Campo d’applicazione il 3 giugno 2020**[^t-2]**
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica[^t-3] Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Antigua e Barbuda</td><td>26 dicembre</td><td>1988 S</td><td>1° novembre</td><td>1981</td></tr>
+<tr><td>Argentina</td><td>26 marzo</td><td>1969</td><td>26 marzo</td><td>1969</td></tr>
+<tr><td>Armenia</td><td>28 marzo</td><td>2018 A</td><td>28 marzo</td><td>2018</td></tr>
+<tr><td>Australia</td><td>18 marzo</td><td>1986</td><td>18 marzo</td><td>1986</td></tr>
+<tr><td>Austria</td><td>19 febbraio</td><td>1970</td><td>19 febbraio</td><td>1970</td></tr>
+<tr><td>Bahamas</td><td>11 agosto</td><td>1976 S</td><td>10 luglio</td><td>1973</td></tr>
+<tr><td>Barbados</td><td>20 febbraio</td><td>1969 A</td><td>20 febbraio</td><td>1969</td></tr>
+<tr><td>Belarus</td><td>2 dicembre</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Belgio</td><td>15 aprile</td><td>1977</td><td>15 aprile</td><td>1977</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>15 agosto</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Botswana</td><td>10 aprile</td><td>1969 A</td><td>10 aprile</td><td>1969</td></tr>
+<tr><td>Brasile</td><td>27 febbraio</td><td>1973 A</td><td>27 febbraio</td><td>1973</td></tr>
+<tr><td>Bulgaria</td><td>2 aprile</td><td>1969</td><td>2 aprile</td><td>1969</td></tr>
+<tr><td>Camerun</td><td>10 gennaio</td><td>1969</td><td>10 gennaio</td><td>1969</td></tr>
+<tr><td>Canada</td><td>20 febbraio</td><td>1975</td><td>20 febbraio</td><td>1975</td></tr>
+<tr><td>Ceca, Repubblica</td><td>29 settembre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cile</td><td>8 ottobre</td><td>1981</td><td>8 ottobre</td><td>1981</td></tr>
+<tr><td>Cina</td><td>20 dicembre</td><td>1988 A</td><td>20 dicembre</td><td>1988</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao <sup>b</sup></td><td>13 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Cipro</td><td>17 dicembre</td><td>1970</td><td>17 dicembre</td><td>1970</td></tr>
+<tr><td>Corea (Sud)</td><td>4 aprile</td><td>1969</td><td>4 aprile</td><td>1969</td></tr>
+<tr><td>Croazia</td><td>18 maggio</td><td>1994 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Cuba</td><td>3 aprile</td><td>1984 A</td><td>3 aprile</td><td>1984</td></tr>
+<tr><td>Danimarca</td><td>6 maggio</td><td>1969</td><td>6 maggio</td><td>1969</td></tr>
+<tr><td>Ecuador</td><td>7 marzo</td><td>1969</td><td>7 marzo</td><td>1969</td></tr>
+<tr><td>Egitto</td><td>11 dicembre</td><td>1968</td><td>11 dicembre</td><td>1968</td></tr>
+<tr><td>El Salvador</td><td>19 febbraio</td><td>1970</td><td>19 febbraio</td><td>1970</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>29 giugno</td><td>2018 A</td><td>29 giugno</td><td>2018</td></tr>
+<tr><td>Eswatini</td><td>9 giugno</td><td>1969 A</td><td>9 giugno</td><td>1969</td></tr>
+<tr><td>EUMETSAT</td><td>19 dicembre</td><td>2005</td><td>19 dicembre</td><td>2005</td></tr>
+<tr><td>European Space Agency (ESA)</td><td>25 giugno</td><td>1975</td><td>31 dicembre</td><td>1975</td></tr>
+<tr><td>Figi</td><td>14 luglio</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
+<tr><td>Finlandia</td><td>10 settembre</td><td>1970</td><td>10 settembre</td><td>1970</td></tr>
+<tr><td>Francia</td><td>31 dicembre</td><td>1975 A</td><td>31 dicembre</td><td>1975</td></tr>
+<tr><td>Gabon</td><td>2 aprile</td><td>1969 A</td><td>2 aprile</td><td>1969</td></tr>
+<tr><td>Gambia</td><td>26 luglio</td><td>1968 A</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Germania</td><td>17 febbraio</td><td>1972</td><td>17 febbraio</td><td>1972</td></tr>
+<tr><td>Giappone</td><td>20 giugno</td><td>1983 A</td><td>20 giugno</td><td>1983</td></tr>
+<tr><td>Grecia</td><td>7 luglio</td><td>1975</td><td>7 luglio</td><td>1975</td></tr>
+<tr><td>Guinea-Bissau</td><td>14 ottobre</td><td>1976 A</td><td>14 ottobre</td><td>1976</td></tr>
+<tr><td>Guyana</td><td>30 maggio</td><td>1969</td><td>30 maggio</td><td>1969</td></tr>
+<tr><td>India</td><td>9 luglio</td><td>1979 A</td><td>9 luglio</td><td>1979</td></tr>
+<tr><td>Indonesia</td><td>27 giugno</td><td>1999 A</td><td>27 giugno</td><td>1999</td></tr>
+<tr><td>Iran</td><td>21 dicembre</td><td>1970</td><td>21 dicembre</td><td>1970</td></tr>
+<tr><td>Iraq</td><td>12 marzo</td><td>1970 A</td><td>12 marzo</td><td>1970</td></tr>
+<tr><td>Irlanda</td><td>29 agosto</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Islanda</td><td>4 dicembre</td><td>1969</td><td>4 dicembre</td><td>1969</td></tr>
+<tr><td>Israele</td><td>19 dicembre</td><td>1969</td><td>19 dicembre</td><td>1969</td></tr>
+<tr><td>Italia</td><td>31 marzo</td><td>1978</td><td>31 marzo</td><td>1978</td></tr>
+<tr><td>Kazakstan</td><td>11 luglio</td><td>1998 A</td><td>11 luglio</td><td>1998</td></tr>
+<tr><td>Kuwait\*</td><td>7 giugno</td><td>1972 A</td><td>7 giugno</td><td>1972</td></tr>
+<tr><td>Laos</td><td>27 novembre</td><td>1972</td><td>27 novembre</td><td>1972</td></tr>
+<tr><td>Libano</td><td>31 marzo</td><td>1969</td><td>31 marzo</td><td>1969</td></tr>
+<tr><td>Libia</td><td>10 dicembre</td><td>2009 A</td><td>10 dicembre</td><td>2009</td></tr>
+<tr><td>Lituania</td><td>25 marzo</td><td>2013 A</td><td>25 marzo</td><td>2013</td></tr>
+<tr><td>Madagascar</td><td>11 febbraio</td><td>1969</td><td>11 febbraio</td><td>1969</td></tr>
+<tr><td>Maldive</td><td>3 aprile</td><td>1970</td><td>3 aprile</td><td>1970</td></tr>
+<tr><td>Marocco</td><td>20 novembre</td><td>1970</td><td>20 novembre</td><td>1970</td></tr>
+<tr><td>Maurizio</td><td>16 aprile</td><td>1969 A</td><td>16 aprile</td><td>1969</td></tr>
+<tr><td>Messico</td><td>11 marzo</td><td>1969</td><td>11 marzo</td><td>1969</td></tr>
+<tr><td>Mongolia\*\*</td><td>31 gennaio</td><td>1969</td><td>31 gennaio</td><td>1969</td></tr>
+<tr><td>Montenegro</td><td>9 gennaio</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Nepal</td><td>11 luglio</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Nicaragua</td><td>30 giugno</td><td>2017</td><td>30 giugno</td><td>2017</td></tr>
+<tr><td>Niger</td><td>15 gennaio</td><td>1969</td><td>15 gennaio</td><td>1969</td></tr>
+<tr><td>Nigeria</td><td>26 febbraio</td><td>1973</td><td>26 febbraio</td><td>1973</td></tr>
+<tr><td>Norvegia</td><td>20 aprile</td><td>1970</td><td>20 aprile</td><td>1970</td></tr>
+<tr><td>Nuova Zelanda</td><td>8 luglio</td><td>1969</td><td>8 luglio</td><td>1969</td></tr>
+<tr><td>Paesi Bassi</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td>1981</td></tr>
+<tr><td>Aruba</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td>1981</td></tr>
+<tr><td>Curaçao</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td>1981</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td>1981</td></tr>
+<tr><td>Sint Maarten</td><td>17 febbraio</td><td>1981</td><td>17 febbraio</td><td>1981</td></tr>
+<tr><td>Pakistan</td><td>17 ottobre</td><td>1973 A</td><td>17 ottobre</td><td>1973</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>27 ottobre</td><td>1980 A</td><td>27 ottobre</td><td>1980</td></tr>
+<tr><td>Perù</td><td>21 marzo</td><td>1979 A</td><td>21 marzo</td><td>1979</td></tr>
+<tr><td>Polonia</td><td>14 febbraio</td><td>1969</td><td>14 febbraio</td><td>1969</td></tr>
+<tr><td>Portogallo</td><td>25 marzo</td><td>1970</td><td>25 marzo</td><td>1970</td></tr>
+<tr><td>Qatar</td><td>13 marzo</td><td>2012 A</td><td>13 marzo</td><td>2012</td></tr>
+<tr><td>Regno Unito</td><td>3 dicembre</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Anguilla</td><td>3 dicembre</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Territori sotto la sovranità territoriale del Regno Unito</td><td>3 dicembre</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Romania\*</td><td>28 giugno</td><td>1971</td><td>28 giugno</td><td>1971</td></tr>
+<tr><td>Russia</td><td>3 dicembre</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>13 maggio</td><td>1999 S</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>San Marino</td><td>10 agosto</td><td>1970</td><td>10 agosto</td><td>1970</td></tr>
+<tr><td>Seicelle</td><td>5 gennaio</td><td>1978 A</td><td>5 gennaio</td><td>1978</td></tr>
+<tr><td>Serbia</td><td>27 aprile</td><td>1992 S</td><td>1° marzo</td><td>1971</td></tr>
+<tr><td>Singapore</td><td>10 settembre</td><td>1976 A</td><td>10 settembre</td><td>1976</td></tr>
+<tr><td>Siria</td><td>14 agosto</td><td>1969</td><td>14 agosto</td><td>1969</td></tr>
+<tr><td>Slovenia</td><td>27 maggio</td><td>1992 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Spagna</td><td>26 febbraio</td><td>2001 A</td><td>26 febbraio</td><td>2001</td></tr>
+<tr><td>Stati Uniti</td><td>3 dicembre</td><td>1968</td><td>3 dicembre</td><td>1968</td></tr>
+<tr><td>Sudafrica</td><td>24 settembre</td><td>1969</td><td>24 settembre</td><td>1969</td></tr>
+<tr><td>Svezia</td><td>21 luglio</td><td>1969 A</td><td>21 luglio</td><td>1969</td></tr>
+<tr><td>Svizzera</td><td>18 dicembre</td><td>1969</td><td>18 dicembre</td><td>1969</td></tr>
+<tr><td>Thailandia</td><td>26 maggio</td><td>1969 A</td><td>26 maggio</td><td>1969</td></tr>
+<tr><td>Tonga</td><td>22 giugno</td><td>1971 S</td><td>4 giugno</td><td>1970</td></tr>
+<tr><td>Tunisia</td><td>10 febbraio</td><td>1971</td><td>10 febbraio</td><td>1971</td></tr>
+<tr><td>Turchia\*</td><td>6 dicembre</td><td>2006</td><td>6 dicembre</td><td>2006</td></tr>
+<tr><td>Ucraina</td><td>16 gennaio</td><td>1969</td><td>16 gennaio</td><td>1969</td></tr>
+<tr><td>Ungheria\*\*</td><td>4 giugno</td><td>1969</td><td>4 giugno</td><td>1969</td></tr>
+<tr><td>Uruguay</td><td>25 febbraio</td><td>1969</td><td>25 febbraio</td><td>1969</td></tr>
+<tr><td>Zambia</td><td>20 agosto</td><td>1973 A</td><td>20 agosto</td><td>1973</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Dal 3 dic. 1968 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Dal 25 mar. 1970 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
+</table>
+
+[^t-2]: [RU 1970 99](https://fedlex.data.admin.ch/eli/oc/1970/95_99_99), [1973 597](https://fedlex.data.admin.ch/eli/oc/1973/596_595_597), [1979 1564](https://fedlex.data.admin.ch/eli/oc/1979/1564_1564_1564), [1982 1737](https://fedlex.data.admin.ch/eli/oc/1982/1737_1737_1737), [1985 1692](https://fedlex.data.admin.ch/eli/oc/1985/1692_1692_1692), [1987 1218](https://fedlex.data.admin.ch/eli/oc/1987/1218_1218_1218), [1990 1995](https://fedlex.data.admin.ch/eli/oc/1990/1995_1995_1995), [2005 1631](https://fedlex.data.admin.ch/eli/oc/2005/258), [2010 603](https://fedlex.data.admin.ch/eli/oc/2010/94), [2016 1239](https://fedlex.data.admin.ch/eli/oc/2016/244)e [2020 2817](https://fedlex.data.admin.ch/eli/oc/2020/508). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: Gli strumenti di ratifica, di adesione o le dichiarazioni di successione, sono stati depositati presso i Governi degli Stati Uniti, del Regno Unito e della Federazione Russa, sia simultaneamente, sia in date diverse, sia presso uno, sia presso alcuni dei Governi precitati. Le date si riferiscono alla prima ratifica, adesione o dichiarazione di successione.

@@ -1,0 +1,122 @@
+---
+sr: "0.420.691.1"
+title: Accord du 2 mars 2008 entre le Conseil fédéral suisse et le Gouvernement de la République de Slovénie relatif à la coopération scientifique et technologique
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/411"
+language: fr
+version: 2013-01-01
+adopted: 2008-03-02
+in_force: 2009-05-22
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/411/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-411-20130101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/411/20130101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre le Conseil fédéral suisse et le Gouvernement de la République de Slovénie relatif à la coopération scientifique et technologique
+
+RO **2009** 3195
+
+Texte original
+
+Conclu le 2 mars 2008
+
+Entré en vigueur par échange de notes le 22 mai 2009
+
+(Etat le 1<sup>er</sup> janvier 2013)
+
+Le Conseil fédéral suisse et le Gouvernement de la République de Slovénie
+
+(ci-dessous nommés «les Parties»),
+
+désireux de développer les relations étroites et amicales existant entre leurs deux pays,
+
+conscients du rôle important de la science et de la technologie pour le développement d’économies nationales prospères,
+
+considérant que la coopération scientifique et technologique internationale renforce les liens d’amitié et la compréhension mutuelle entre leurs populations, et favorise le développement scientifique et technologique dans l’intérêt mutuel de leurs deux pays,
+
+considérant les dispositions de coopération scientifique et technologique définies dans la lettre d’intentions signée le 11 juillet 2006,
+
+considérant les lois et réglementations en vigueur dans leur pays respectif,
+
+sont convenus de ce qui suit:
+
+#### Art. 1
+
+**Objectifs**
+
+<sup>1</sup> Les Parties développent la coopération scientifique et technologique entre leurs deux pays sur la base de l’égalité et dans l’intérêt mutuel.
+
+<sup>2</sup> Cette coopération est mise en œuvre notamment par des instituts scientifiques, des sociétés scientifiques, des universités, des agences du gouvernement et d’autres organisations de recherche et de développement.
+
+#### Art. 2
+
+**Champ d’application de la coopération**
+
+La coopération scientifique et technologique visée par le présent Accord peut prendre les formes suivantes:
+
+- a) projets de recherche et de développement scientifique et technologique communs dans des domaines définis conjointement;
+- b) visites et échanges de scientifiques, de spécialistes, de chercheurs et d’experts;
+- c) échanges d’information et de documentation scientifique et technique;
+- d) conférences, symposiums, ateliers et autres rencontres scientifiques communs;
+- e) autres formes de coopération scientifique et technologique définies d’un commun accord entre les Parties.
+
+#### Art. 3
+
+**Coûts**
+
+Les coûts afférents aux activités de coopération visées par le présent Accord sont supportés par les Parties sur une base d’égalité et de réciprocité dans la limite des ressources disponibles.
+
+#### Art. 4
+
+**Assurance médicale**
+
+Les scientifiques, spécialistes, chercheurs et experts participant aux échanges visés par le présent Accord contractent une assurance médicale pour la durée de leur séjour avant d’entrer dans le pays hôte.
+
+#### Art. 5
+
+**Autorités compétentes**
+
+Le Conseil fédéral suisse et le Gouvernement de la République de Slovénie désignent, respectivement, le Secrétariat d’Etat à l’éducation et à la recherche, au Département fédéral de l’intérieur[^5-1], et le Ministère de l’éducation supérieure, de la science et de la technologie de la République de Slovénie comme autorités compétentes pour mettre en œuvre le présent Accord.
+
+[^5-1]: Actuellement: Secrétariat d’Etat à la formation, à la recherche et à l’innovation du Département fédéral de l’économie, de la formation et de la recherche ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+
+#### Art. 6
+
+**Etablissement d’un Comité de travail mixte**
+
+<sup>1</sup> Les autorités compétentes établissent un Comité de travail mixte pour la coopération scientifique et technologique (Comité de travail mixte) composé d’un nombre égal de représentants et d’experts désignés par chaque autorité compétente pour mettre en œuvre le présent Accord.
+
+<sup>2</sup>
+
+Le Comité de travail mixte assume les tâches suivantes:
+
+- a) contrôler le déroulement des activités de coopération visées par le présent Accord;
+- b) identifier des domaines et des modalités de coopération;
+- c) mettre en place des plateformes de coopération, en réglant également les questions financières;
+- d) élaborer des rapports périodiques sur les activités entreprises au titre du présent Accord.
+
+<sup>3</sup> Le Comité de travail mixte se réunit périodiquement tous les deux ans ou à la demande d’une des Parties, alternativement en Suisse et en République de Slovénie.
+
+#### Art. 7
+
+**Amendements**
+
+Le présent Accord peut être amendé ou modifié par écrit d’un commun accord entre les Parties. L’amendement ou la modification dont sont convenues les Parties est effectué par voie d’échange de notes diplomatiques entre les Parties et constituent une partie intégrale du présent Accord.
+
+#### Art. 8
+
+**Règlement des différends**
+
+Tout différend résultant de l’application ou de l’interprétation du présent Accord sera réglé à l’amiable par voie de consultation ou de négociation.
+
+#### Art. 9
+
+**Entrée en vigueur, durée et dénonciation**
+
+<sup>1</sup> Le présent Accord entre en vigueur par voie d’un échange de notes confirmant que les Parties remplissent toutes les exigences légales nécessaires pour l’entrée en vigueur du présent Accord.
+
+<sup>2</sup> Il demeure en vigueur pour une période initiale de cinq ans et sera tacitement reconduit pour une nouvelle période d’un an, sauf préavis de dénonciation écrit signifié par l’une des Parties à l’autre six mois avant le terme de la période en cours.
+
+<sup>3</sup> La dénonciation du présent Accord n’affecte pas la validité ou la durée de tout arrangement spécifique relatif à des activités ou des projets conduits dans le cadre du présent Accord qui ne serait pas arrivé à terme à la date de dénonciation du présent Accord.
+
+*En foi de quoi*, les représentants respectifs des deux Gouvernements ont signé le présent Accord. Fait à Ljubljana, le 2 mars 2008, en deux exemplaires, en langues originales française, slovène et anglaise, les trois versions faisant également foi. En cas de divergence d’interprétation, le texte anglais prévaudra. Pour le Conseil fédéral suisse: Pascal Couchepin Pour le Gouvernement de la République de Slovénie: Mojca Kucler Dolinar

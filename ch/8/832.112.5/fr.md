@@ -1,0 +1,260 @@
+---
+sr: "832.112.5"
+title: "Ordonnance du 3 juillet 2001 concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni (ORPMUE)"
+short: ORPMUE
+eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
+language: fr
+version: 2020-01-01
+adopted: 2001-07-03
+in_force: 2002-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20200101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège****
+
+(ORPMUE)[^t-1]
+
+du 3 juillet 2001 (Etat le 1<sup>er</sup> janvier 2020)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+Le Conseil fédéral suisse,
+
+vu l’art. 66*a*, al. 3, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^ingress-1] (loi, LAMal),
+
+arrête:
+
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 1
+
+**But et champ d’application**
+
+La présente ordonnance règle:
+
+- a.[^1-1] la réduction des primes dans l’assurance obligatoire des soins en faveur des assurés de condition économique modeste qui résident dans un État membre de l’Union européenne[^1-2], en Islande ou en Norvège, et qui perçoivent une rente suisse ainsi qu’en faveur des membres assurés de leur famille;
+- b. le versement des subsides fédéraux pour le financement de la réduction des primes selon la let. a.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^1-2]: Nouvelle expression selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 2
+
+**Organe d’exécution**
+
+L’institution commune exécute la réduction des primes selon l’art. 1, let. a.
+
+#### Art. 3
+
+**Droit et montant des réductions de primes**
+
+<sup>1</sup> Les rentiers assurés ainsi que les membres assurés de leur famille ont droit aux réductions de primes lorsque les primes moyennes selon l’art. 7 dépassent 6 % du revenu déterminant défini à l’art. 6.
+
+<sup>2</sup> Est versé au titre de la réduction des primes le montant qui correspond à la différence entre les primes moyennes et la somme représentant 6 % du revenu déterminant, mais au plus le montant de la prime effectivement applicable au rentier concerné.[^3-1]
+
+<sup>3</sup> N’ont pas droit aux réductions de primes les rentiers dont la fortune nette dépasse 100 000 francs, ou 150 000 francs pour les ménages avec enfants. Les prestations en capital de la caisse de pensions et d’autres institutions de prévoyance doivent être déduites de la fortune prise en considération et comptées au titre des revenus selon l’art. 4, al. 2. Pour les familles, la fortune nette de chaque membre de la famille qui tombe dans le champ d’application de la présente ordonnance est prise en considération.[^3-2]
+
+<sup>4</sup> La fortune nette, la situation familiale et le pays de résidence au 1<sup>er</sup> janvier de l’année pour laquelle des réductions de primes sont demandées sont déterminants. Si la demande est faite au cours d’une année, la fortune nette, la situation familiale et le pays de résidence lors de la naissance du droit aux réductions de primes sont déterminants.
+
+<sup>5</sup> Les revenus qui seront vraisemblablement perçus durant l’année pour laquelle des réductions de primes sont demandées sont déterminants pour le calcul du revenu pris en compte d’après l’art. 4.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+
+#### Art. 4
+
+**Revenu pris en compte**
+
+<sup>1</sup>
+
+Le revenu pris en compte comprend:
+
+- a.[^4-1] l’ensemble des revenus sous forme de rentes;
+- b. les contributions d’entretien;
+- c. les rendements de la fortune des rentiers;
+- d.[^4-2]
+
+  le revenu d’activités lucratives, après déduction:
+
+  - 1\. des intérêts des dettes, à l’exception des intérêts hypothécaires,
+  - 2\. des contributions d’entretien dues.
+
+<sup>2</sup> Si une prestation en capital de la prévoyance professionnelle est versée en lieu et place d’une rente, le montant de la rente qui correspondrait à cette prestation en capital est pris en compte dans le revenu sous forme de rente. Cette rente est calculée en pour-cent de la prestation en capital, le montant du capital brut étant déterminant. Les pourcentages sont calculés en fonction de l’âge de l’assuré au moment de la perception du capital et du taux de conversion applicable conformément à l’art. 14, al. 2, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle, survivants et invalidité[^4-3] selon la formule fixée dans l’annexe. Les rendements de la prestation en capital ne sont pas pris en compte dans les rendements de la fortune visés à l’al. 1, let. c. La prestation en capital n’est prise en compte que dans la mesure où elle est encore présente sous forme de fortune.[^4-4]
+
+<sup>3</sup> Pour les familles, le revenu de chaque membre de la famille qui tombe sous le champ d’application de la présente ordonnance est pris en considération pour la détermination du revenu pris en compte.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^4-2]: Introduite par le ch. I de l’O du 9 nov. 2005 ([RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^4-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 5
+
+**Cours de conversion**[^5-1]
+
+La fortune nette selon l’art. 3, al. 3, et le revenu pris en compte selon l’art. 4 sont convertis en francs suisses selon le cours de conversion de l’Administration fédérale des douanes valable au moment du dépôt de la demande.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 6
+
+**Revenu déterminant**
+
+<sup>1</sup> Pour la fixation du revenu déterminant, le revenu pris en compte visé à l’art. 4 est corrigé en fonction de la différence du pouvoir d’achat entre la Suisse et le pays de résidence du rentier sur la base du pouvoir d’achat dans le pays de résidence.
+
+<sup>2</sup> Le Département fédéral de l’intérieur (département) définit chaque année le facteur de correction pour chaque État membre de l’Union européenne ainsi que pour l’Islande et la Norvège, en se fondant sur les statistiques des organisations internationales.[^6-1]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+#### Art. 7
+
+**Primes moyennes**[^7-1]
+
+Sont déterminantes pour le calcul du droit aux réductions de primes les primes moyennes de l’assurance obligatoire des soins fixées chaque année par le département qui s’appliquent aux rentiers et aux membres assurés de leur famille, par État membre de l’Union européenne ainsi que pour l’Islande et la Norvège.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+#### Art. 8
+
+**Dépôt de la demande**
+
+<sup>1</sup> Les réductions de primes doivent être sollicitées auprès de l’institution commune sur une formule élaborée par celle-ci.
+
+<sup>2</sup> La formule pour la demande doit être commandée auprès de l’institution commune ou des représentations compétentes à l’étranger.
+
+#### Art. 9
+
+**Début et renouvellement du droit**[^9-1]
+
+<sup>1</sup> Les rentiers qui sollicitent des réductions de primes ne peuvent prétendre rétroactivement à ce droit que pour l’année en cours, et au plus pour trois mois. La date déterminante du dépôt de la demande est la date du timbre postal de la formule.
+
+<sup>2</sup> L’institution commune informe chaque année assez tôt les bénéficiaires des réductions de primes que les demandes doivent être renouvelées d’ici au 31 mars. Pour le renouvellement de la demande, la date du timbre postal est déterminante. En cas de demande tardive, le droit prend naissance à la date du timbre postal de la demande de renouvellement.
+
+<sup>3</sup> L’institution commune calcule le montant de la réduction de primes et le communique à l’assureur et à la personne assurée.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 10
+
+**Devoirs de collaboration et d’information**
+
+<sup>1</sup> Les rentiers qui sollicitent des réductions de primes doivent donner à l’institution commune les renseignements nécessaires en toute sincérité et lui présenter les documents requis.
+
+<sup>2</sup> Ils informent sans délai l’institution commune de toute modification concernant leur situation familiale, de tout changement de pays de résidence et de toute modification durable de leur situation financière.
+
+<sup>3</sup> Ils autorisent, si besoin est, les autorités et institutions compétentes à communiquer des renseignements à l’institution commune.
+
+#### Art. 11
+
+**Appréciation des demandes**
+
+<sup>1</sup> L’institution commune examine les demandes déposées et statue sur le droit aux réductions de primes.
+
+<sup>2</sup> Elle peut, si besoin est, prendre des renseignements complémentaires et demander des éclaircissements auprès des rentiers ou des autorités et institutions compétentes.
+
+#### Art. 12
+
+**Nouvelle appréciation des demandes**
+
+L’institution commune examine à nouveau durant l’année le droit aux réductions de primes si la situation familiale ou le pays de résidence du rentier a changé ou si la situation financière s’est modifiée de manière durable.
+
+#### Art. 13
+
+**Extinction du droit aux réductions de primes**[^13-1]
+
+Le droit aux réductions de primes prend fin le jour où les conditions régissant le droit aux réductions de primes ne sont plus remplies. L’institution commune calcule le montant de la réduction de primes jusqu’à ce jour et le communique à l’assureur et à la personne assurée.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 14
+
+**Versement des réductions de primes**
+
+<sup>1</sup> L’institution commune verse aux assureurs le montant annuel des réductions de primes pour chaque rentier.
+
+<sup>2</sup> Les art. 106*b* à 106*e* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^14-1] s’appliquent par analogie au paiement des réductions des primes.[^14-2]
+
+<sup>3</sup> Les montants inférieurs à 50 francs par famille et par année civile ne sont pas versés.
+
+<sup>4</sup> …[^14-3]
+
+[^14-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^14-2]: Nouvelle teneur selon le ch. II 2 de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^14-3]: Abrogé par le ch. II 2 de l’O du 22 juin 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+
+#### Art. 15
+
+**Restitution**[^15-1]
+
+En cas d’extinction du droit aux réductions de primes, l’assureur demande à la personne assurée la différence de prime. Il rembourse à l’institution commune la réduction de primes que la personne assurée a reçue indûment.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+#### Art. 16
+
+**Versement des subsides fédéraux**
+
+<sup>1</sup> Sur requête de l’institution commune, les subsides fédéraux nécessaires pour la réduction des primes sont versés par l’OFSP[^16-1] dans le cadre des crédits alloués.
+
+<sup>2</sup> Les subsides fédéraux non utilisés durant l’année en cours doivent faire l’objet d’un décompte avec les subsides fédéraux de l’année suivante.
+
+[^16-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 17
+
+**Décompte et contrôle de l’utilisation des subsides fédéraux**
+
+<sup>1</sup> L’art. 5, al. 1 et 2, et l’art. 6 de l’ordonnance du 7 novembre 2007 sur les subsides fédéraux destinés à la réduction de primes dans l’assurance-maladie[^17-1] sont applicables par analogie en ce qui concerne le décompte et le contrôle de l’utilisation de ces subsides.[^17-2]
+
+<sup>2</sup> Les données contenues dans la formule nécessaire pour le décompte doivent être différenciées selon les États membres de l’Union européenne, l’Islande et la Norvège, et selon les assureurs.[^17-3]
+
+[^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
+[^17-2]: Nouvelle teneur selon l’art. 9 al. 2 de l’O du 7 nov. 2007 sur les subsides fédéraux destinés à la réduction des primes dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+
+#### Art. 18
+
+**Exécution**
+
+Le département peut édicter des prescriptions plus détaillées pour l’exécution de la présente ordonnance.
+
+#### Art. 19
+
+[^19-1]
+
+[^19-1]: Abrogé par le ch. IV 53 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+
+#### Art. 20
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2002.
+
+## Disposition finale de la modification du 9 novembre 2005****
+
+[^u1-1]
+
+[^u1-1]: [RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819). Abrogée par le ch. I de l’O du 20 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+Annexe*[^t-2]*
+
+(art. 4, al. 2)
+
+## Formule de calcul du pourcentage de la prestation en capital
+
+[^t-2]: Introduite par le ch. II de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+
+v = u \* r(a) / r(p)
+
+- v = pourcentage de la prestation en capital
+- a = âge de l’assuré au moment de la perception de la prestation en capital
+- p = âge ordinaire du droit à la rente vieillesse selon l’art. 21 de la loi du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annexu1-lvlu1-1]
+- u = taux de conversion minimal selon l’art. 14, al. 2, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^annexu1-lvlu1-2]
+- r = rente annuelle selon l’âge de la retraite d’après le «Tableau pour convertir en rentes viagères les prestations en capital» de février 2006 de l’Administration fédérale des contributions[^annexu1-lvlu1-3]
+
+[^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu1-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.

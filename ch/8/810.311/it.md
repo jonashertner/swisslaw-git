@@ -1,0 +1,468 @@
+---
+sr: "810.311"
+title: "Ordinanza del 2 febbraio 2005 concernente la ricerca sulle cellule staminali embrionali (Ordinanza sulle cellule staminali, ORCel)"
+short: ORCel
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/105"
+language: it
+version: 2012-04-01
+adopted: 2005-02-02
+in_force: 2005-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/105/20120401/it/xml/fedlex-data-admin-ch-eli-cc-2005-105-20120401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/105/20120401/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente la ricerca sulle cellule staminali embrionali
+
+(Ordinanza sulle cellule staminali, ORCel)
+
+del 2 febbraio 2005 (Stato 1° aprile 2012) (Stato 1° aprile 2012)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 17 della legge federale del 19 dicembre 2003[^ingress-1] sulle cellule staminali (legge),
+
+ordina:
+
+[^ingress-1]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+
+## Sezione 1: Informazione e consenso della coppia interessata
+
+#### Art. 1
+
+**Esistenza di un embrione soprannumerario**
+
+Se un embrione non può essere utilizzato per causare una gravidanza, il medico che cura una coppia nell’ambito di un metodo di procreazione la informa:
+
+- a. che l’embrione è soprannumerario;
+- b. sui motivi per cui un embrione è diventato soprannumerario; e
+- c. che l’embrione soprannumerario è distrutto se non è utilizzato conformemente alle condizioni fissate dalla legge per derivare cellule staminali in vista della realizzazione di un progetto di ricerca (derivazione di cellule staminali) o per un progetto di ricerca volto a migliorare il processo di derivazione.
+
+#### Art. 2
+
+**Informazione della coppia prima del consenso**
+
+<sup>1</sup>
+
+Se la derivazione di cellule staminali o il progetto di ricerca volto a migliorare il processo di derivazione ha ottenuto l’autorizzazione, il medico informa la coppia oralmente e in forma comprensibile:
+
+- a. sul tipo, lo scopo e l’inizio previsto del progetto di ricerca;
+- b. sui diritti della coppia secondo l’articolo 5 capoverso 3 della legge e i capoversi 3 e 4 del presente articolo;
+- c. sulla gratuità conformemente all’articolo 4 della legge;
+- d. sui provvedimenti previsti nell’articolo 27 per la protezione dei dati personali della coppia;
+- e. che terzi possono acquisire diritti su cellule staminali o su prodotti da esse derivati, in conformità, ad esempio, alla legge del 25 giugno 1954[^2-1] sui brevetti, senza che da ciò derivino pretese per la coppia;
+- f. sulla possibilità di utilizzare le cellule staminali o i prodotti da esse derivati nella ricerca e la prassi cliniche, senza che da ciò derivino pretese per la coppia;
+- g. che le cellule staminali, conformemente all’articolo 9 capoverso 1 lettera c della legge, possono essere cedute per altri progetti di ricerca; e
+- h. sul contenuto della dichiarazione di consenso scritta conformemente all’articolo 3.
+
+<sup>2</sup> Il medico consegna alla coppia un documento esplicativo e un modulo per la dichiarazione di consenso, messi a disposizione dalla persona responsabile del progetto di ricerca (direzione di progetto).
+
+<sup>3</sup> La coppia ha il diritto di porre o far porre domande alla direzione di progetto.
+
+<sup>4</sup> Alla coppia è accordato un adeguato periodo di riflessione per decidere riguardo al consenso.
+
+[^2-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+
+#### Art. 3
+
+**Contenuto della dichiarazione di consenso**
+
+Firmando la dichiarazione di consenso, la coppia conferma di essere stata informata conformemente all’articolo 2 e acconsente che l’embrione soprannumerario sia utilizzato per derivare cellule staminali o per un progetto di ricerca volto a migliorare il processo di derivazione.
+
+#### Art. 4
+
+**Conseguenze del rifiuto o della revoca del consenso**
+
+In caso di rifiuto o revoca del consenso, la coppia, rispettivamente la donna o l’uomo, non subisce alcun pregiudizio durante il seguito del trattamento nell’ambito del metodo di procreazione.
+
+## Sezione 2: Autorizzazione per la derivazione di cellule staminali embrionali
+
+#### Art. 5
+
+**Domanda**
+
+Per ottenere l’autorizzazione di derivare cellule staminali in vista della realizzazione di un progetto di ricerca (art. 7 della legge), è necessario presentare per esame all’Ufficio federale della sanità pubblica (Ufficio federale) i seguenti documenti:
+
+- a. la documentazione completa del progetto di derivazione di cellule staminali, inclusa una prova dell’idoneità degli strumenti di laboratorio;
+- b. la documentazione completa del progetto di ricerca con cellule staminali embrionali, così come è stata presentata alla competente Commissione d’etica conformemente all’articolo 17;
+- c. il preavviso favorevole sul progetto di ricerca della competente Commissione d’etica;
+- d. i motivi, fondati su un estratto del registro di cui all’articolo 18 della legge, per cui le cellule staminali embrionali disponibili in Svizzera non sono ritenute idonee per il progetto di ricerca;
+- e. i dati relativi al numero di embrioni soprannumerari presumibilmente necessari.
+
+#### Art. 6
+
+**Esame della domanda**
+
+<sup>1</sup>
+
+L’Ufficio federale esamina se:
+
+- a. la documentazione è completa;
+- b. le condizioni fissate dalla legge per il rilascio dell’autorizzazione sono adempiute.
+
+<sup>2</sup> L’Ufficio federale può chiedere documenti supplementari alla direzione di progetto.
+
+#### Art. 7
+
+**Termini**
+
+<sup>1</sup> L’Ufficio federale decide entro 60 giorni.
+
+<sup>2</sup> Se l’Ufficio federale chiede documenti supplementari alla direzione di progetto, il termine decorre a partire dalla ricezione dei suddetti documenti; in tal caso comunica alla direzione di progetto l’inizio del termine.
+
+## Sezione 3: Autorizzazione per progetti di ricerca volti a migliorare il processo di derivazione
+
+#### Art. 8
+
+**Domanda**
+
+Per ottenere l’autorizzazione per un progetto di ricerca volto a migliorare il processo di derivazione (art. 8 della legge), è necessario presentare per esame all’Ufficio federale i seguenti documenti:
+
+- a. la documentazione completa del progetto di ricerca, inclusa una prova dell’idoneità degli strumenti di laboratorio;
+- b. una spiegazione dei motivi per cui il progetto permette di ottenere conoscenze sostanziali atte a migliorare il processo di derivazione;
+- c. i motivi per cui non è possibile ottenere conoscenze equivalenti in altro modo, in particolare mediante sperimentazioni con embrioni animali;
+- d. i dati relativi al numero di embrioni soprannumerari presumibilmente necessari;
+- e. il documento esplicativo e il modulo per la dichiarazione di consenso.
+
+#### Art. 9
+
+**Esame della domanda**
+
+<sup>1</sup>
+
+L’Ufficio federale esamina se:
+
+- a. la documentazione è completa;
+- b. il documento esplicativo e il modulo per la dichiarazione di consenso sono completi e comprensibili;
+- c. le condizioni fissate dalla legge per il rilascio dell’autorizzazione sono adempiute.
+
+<sup>2</sup> L’Ufficio federale può chiedere documenti supplementari alla direzione di progetto.
+
+#### Art. 10
+
+**Termini**
+
+<sup>1</sup> L’Ufficio federale decide entro 60 giorni.
+
+<sup>2</sup> Se l’Ufficio federale chiede documenti supplementari alla direzione di progetto, il termine decorre a partire dalla ricezione dei suddetti documenti; in tal caso comunica alla direzione di progetto l’inizio del termine.
+
+## Sezione 4: Autorizzazione per la conservazione di embrioni soprannumerari
+
+#### Art. 11
+
+**Domanda**
+
+Per ottenere l’autorizzazione di conservare embrioni soprannumerari (art. 10 della legge), è necessario presentare per esame all’Ufficio federale i seguenti documenti:
+
+- a. l’autorizzazione rilasciata secondo l’articolo 7 o 8 della legge;
+- b. i motivi per cui la conservazione di embrioni soprannumerari è assolutamente indispensabile;
+- c. una prova delle qualifiche del personale;
+- d. una prova dell’idoneità degli strumenti di laboratorio.
+
+#### Art. 12
+
+**Esame della domanda**
+
+L’Ufficio federale esamina se:
+
+- a. la documentazione è completa;
+- b. le condizioni fissate dalla legge per il rilascio dell’autorizzazione sono adempiute.
+
+## Sezione 5: Autorizzazione per l’importazione di cellule staminali embrionali
+
+#### Art. 13
+
+**Domanda**
+
+Per ottenere l’autorizzazione di importare cellule staminali embrionali (art. 15 della legge), è necessario presentare per esame all’Ufficio federale i seguenti documenti:
+
+- a. la documentazione completa del progetto di ricerca con cellule staminali embrionali, così come è stata presentata alla competente Commissione d’etica conformemente all’articolo 17;
+- b. il preavviso favorevole sul progetto di ricerca della competente Commissione d’etica;
+- c. il numero di cellule staminali embrionali o di linee di cellule staminali necessarie e la loro caratterizzazione conformemente all’articolo 29 capoverso 1 lettera b;
+- d.
+
+  la prova dell’organismo competente secondo la legislazione nazionale dello Stato interessato o di un altro organismo riconosciuto dallo stesso che:
+
+  - 1\. le cellule staminali sono state derivate da embrioni soprannumerari,
+  - 2\. la coppia interessata, dopo essere stata informata, ha dato liberamente il suo consenso all’utilizzazione dell’embrione per scopi di ricerca, e
+  - 3\. la coppia non riceve alcun compenso.
+
+#### Art. 14
+
+**Esame della domanda**
+
+L’Ufficio federale esamina se:
+
+- a. la documentazione è completa;
+- b. le condizioni fissate dalla legge per il rilascio dell’autorizzazione sono adempiute.
+- [tab]
+
+## Sezione 6: Autorizzazione per l’esportazione di cellule staminali embrionali
+
+#### Art. 15
+
+**Domanda**
+
+Per ottenere l’autorizzazione di esportare cellule staminali embrionali (art. 15 della legge), è necessario presentare per esame all’Ufficio federale i seguenti documenti:
+
+- a. denominazione, scopo e luogo di svolgimento del progetto di ricerca con cellule staminali embrionali;
+- b. nome e indirizzo della direzione di progetto;
+- c. il numero di cellule staminali embrionali o di linee di cellule staminali da esportare e la loro caratterizzazione conformemente all’articolo 29 capoverso 1 lettera b;
+- d.
+
+  la prova dell’organismo competente secondo la legislazione nazionale dello Stato interessato o di un altro organismo riconosciuto dallo stesso che:
+
+  - 1\. il progetto permette di ottenere conoscenze essenziali per accertare, curare o impedire gravi malattie o sulla biologia dello sviluppo dell’essere umano, e
+  - 2\. un organismo indipendente dalla direzione di progetto ha avvallato il progetto ritenendolo eticamente sostenibile.
+
+#### Art. 16
+
+**Esame della domanda**
+
+L’Ufficio federale esamina se:
+
+- a. la documentazione è completa;
+- b. le condizioni fissate dalla legge per il rilascio dell’autorizzazione sono adempiute.
+
+## Sezione 7: Preavviso della competente Commissione d’etica e nullaosta al progetto di ricerca
+
+#### Art. 17
+
+**Domanda**
+
+Per ottenere il preavviso su un progetto di ricerca con cellule staminali embrionali (art. 11 della legge), è necessario presentare per esame alla competente Commissione d’etica i seguenti documenti:
+
+- a. la documentazione completa del progetto di ricerca;
+- b. i motivi per cui non è possibile ottenere conoscenze equivalenti in altro modo;
+- c. il documento esplicativo e il modulo per la dichiarazione di consenso, per quanto per il progetto di ricerca debbano essere derivate cellule staminali embrionali.
+
+#### Art. 18
+
+**Esame della domanda**
+
+<sup>1</sup>
+
+La Commissione d’etica esamina se:
+
+- a. la documentazione è completa;
+- b. le condizioni fissate dalla legge per la realizzazione di un progetto di ricerca con cellule staminali embrionali sono adempiute.
+
+<sup>2</sup> Nel caso in cui il progetto di ricerca sia svolto in più centri, è sufficiente che la Commissione d’etica competente per il primo centro rilasci il suo preavviso in procedura ordinaria; le altre commissioni d’etica interessate possono pronunciarsi in procedura semplificata. La direzione di progetto deve presentare il preavviso favorevole della Commissione d’etica competente per il primo centro.
+
+<sup>3</sup> Per valutare il progetto di ricerca, la Commissione d’etica può avvalersi di periti indipendenti e chiedere documenti supplementari alla direzione di progetto.
+
+#### Art. 19
+
+**Termini**
+
+<sup>1</sup> La Commissione d’etica esprime il suo parere entro 30 giorni.
+
+<sup>2</sup> Se la Commissione d’etica si avvale di periti indipendenti o chiede documenti supplementari alla direzione di progetto, il termine decorre a partire dalla ricezione del parere dei periti o dei suddetti documenti; in tal caso comunica alla direzione di progetto l’inizio del termine.
+
+#### Art. 20
+
+**Nullaosta al progetto di ricerca**
+
+<sup>1</sup>
+
+Prima di avviare il progetto di ricerca, la direzione di progetto lo notifica all’Ufficio federale e gli comunica:
+
+- a. il titolo del progetto, per quanto l’Ufficio federale disponga della documentazione relativa al progetto nell’ambito della procedura di autorizzazione conformemente all’articolo 5 o 13;
+- b. la documentazione completa del progetto di ricerca, così come è stata presentata alla competente Commissione d’etica conformemente all’articolo 17, nonché il preavviso favorevole di quest’ultima, per quanto per il progetto di ricerca siano utilizzate cellule staminali embrionali disponibili in Svizzera.
+
+<sup>2</sup> L’Ufficio federale può chiedere documenti supplementari alla direzione di progetto.
+
+<sup>3</sup> Se non vi si oppone, l’Ufficio federale assegna al progetto di ricerca un numero di riferimento entro 15 giorni dalla ricezione della notifica o dei documenti richiesti. Comunica tale numero alla direzione di progetto.
+
+<sup>4</sup> Dopo la comunicazione del numero di riferimento, il progetto di ricerca può essere avviato.
+
+#### Art. 21
+
+**Nuova valutazione e ritiro del preavviso favorevole**
+
+<sup>1</sup> La Commissione d’etica può procedere a una nuova valutazione di un progetto di ricerca e, se del caso, ritirare il suo preavviso favorevole se nuove conoscenze scientifiche e una conseguente modifica della valutazione etica lo esigono.
+
+<sup>2</sup> Essa comunica senza indugio il ritiro del suo preavviso favorevole alla direzione di progetto e all’Ufficio federale.
+
+<sup>3</sup> La Commissione d’etica comunica senza indugio all’Ufficio federale eventuali irregolarità nello svolgimento del progetto di ricerca.
+
+## Sezione 8: Modifiche di progetti
+
+#### Art. 22
+
+<sup>1</sup> Chi deriva cellule staminali embrionali, svolge un progetto di ricerca volto a migliorare il processo di derivazione, conserva embrioni soprannumerari oppure importa o esporta cellule staminali embrionali è tenuto a notificare all’Ufficio federale le modifiche sostanziali che prevede di apportare al progetto interessato.
+
+<sup>2</sup> Chi svolge un progetto di ricerca con cellule staminali embrionali è tenuto a notificare alla Commissione d’etica e all’Ufficio federale le modifiche sostanziali che prevede di apportare al piano di ricerca.
+
+<sup>3</sup> L’Ufficio federale rispettivamente la Commissione d’etica e l’Ufficio federale esprimono il loro parere entro 30 giorni dalla ricezione della notifica.
+
+<sup>4</sup> Un progetto di cui al capoverso 1 può essere proseguito conformemente alle modifiche previste soltanto se l’Ufficio federale rilascia una nuova autorizzazione.
+
+<sup>5</sup> Un progetto di ricerca di cui al capoverso 2 può essere proseguito conformemente al piano di ricerca modificato soltanto se la Commissione d’etica rilascia un nuovo preavviso favorevole e l’Ufficio federale rilascia un nuovo nullaosta al progetto.
+
+## Sezione 9: Obbligo di notifica e di rapporto
+
+#### Art. 23
+
+**Notifica d’interruzione o di conclusione del progetto**
+
+<sup>1</sup> Chi deriva cellule staminali embrionali o svolge un progetto di ricerca volto a migliorare il processo di derivazione è tenuto a notificare entro 15 giorni all’Ufficio federale l’interruzione o la conclusione della derivazione di cellule staminali o del progetto di ricerca.
+
+<sup>2</sup> Chi svolge un progetto di ricerca con cellule staminali embrionali è tenuto a notificarne entro 15 giorni l’interruzione o la conclusione all’Ufficio federale e alla Commissione d’etica.
+
+<sup>3</sup> La notifica dell’interruzione del progetto deve indicarne i motivi.
+
+#### Art. 24
+
+**Rapporto finale**
+
+<sup>1</sup> Chi deriva cellule staminali embrionali o svolge un progetto di ricerca volto a migliorare il processo di derivazione è tenuto a presentare un rapporto all’Ufficio federale entro sei mesi dall’interruzione o dalla conclusione della derivazione di cellule staminali o del progetto.
+
+<sup>2</sup> Chi svolge un progetto di ricerca con cellule staminali embrionali è tenuto a presentare un rapporto all’Ufficio federale e alla Commissione d’etica entro sei mesi dall’interruzione o dalla conclusione del progetto.
+
+<sup>3</sup> Per motivi importanti l’Ufficio federale può abbreviare il termine; può prolungarlo in casi eccezionali su domanda motivata della direzione di progetto.
+
+#### Art. 25
+
+**Contenuto del rapporto finale**
+
+<sup>1</sup> Il rapporto finale deve documentare lo svolgimento e i risultati della derivazione di cellule staminali embrionali, del progetto di ricerca volto a migliorare il processo di derivazione o del progetto di ricerca con cellule staminali embrionali.
+
+<sup>2</sup>
+
+Il rapporto finale sulla derivazione di cellule staminali embrionali deve inoltre contenere:
+
+- a. il numero di embrioni utilizzati; e
+- b. il numero di cellule staminali embrionali o di linee di cellule staminali derivate e la loro caratterizzazione conformemente all’articolo 29 capoverso 1 lettera b.
+
+<sup>3</sup>
+
+Il rapporto finale su un progetto di ricerca volto a migliorare il processo di derivazione deve inoltre contenere:
+
+- a. il numero di embrioni utilizzati;
+- b. il numero di cellule staminali embrionali o di linee di cellule staminali derivate e la loro caratterizzazione conformemente all’articolo 29 capoverso 1 lettera b, per quanto in relazione al progetto in questione siano derivate cellule staminali;
+- c. un riassunto dei risultati positivi e negativi ottenuti.
+
+<sup>4</sup> Il rapporto finale su un progetto di ricerca con cellule staminali embrionali deve inoltre contenere il riassunto dei risultati positivi e negativi ottenuti.
+
+#### Art. 26
+
+**Conservazione di cellule staminali embrionali**
+
+Chi conserva cellule staminali embrionali deve notificare all’Ufficio federale, entro il 1° luglio di ogni anno, il numero di tutte le cellule entrate e uscite, il numero delle linee di cellule staminali depositate e la loro caratterizzazione conformemente all’articolo 29 capoverso 1 lettera b.
+
+## Sezione 10: Protezione dei dati
+
+#### Art. 27
+
+<sup>1</sup> I dati che permettono di identificare la coppia interessata non possono essere trasmessi alle persone che partecipano alla derivazione di cellule staminali e ai progetti di ricerca.
+
+<sup>2</sup> La clinica, che ha eseguito la fecondazione in vitro, assegna un codice all’embrione soprannumerario per anonimizzarlo prima di cederlo per la derivazione di cellule staminali o per un progetto di ricerca volto a migliorare il processo di derivazione.
+
+<sup>3</sup> La clinica conserva per 10 anni i dati della coppia interessata, il documento esplicativo, l’originale della dichiarazione di consenso firmata e la chiave di codifica. Le misure di sicurezza concernenti i dati devono essere conformi allo stato della tecnica.
+
+## Sezione 11: Registro pubblico
+
+#### Art. 28
+
+**Scopo del registro**
+
+Il registro di cui all’articolo 18 della legge serve in particolare per:
+
+- a. cedere cellule staminali embrionali per progetti di ricerca svolti in Svizzera conformemente all’articolo 9 capoverso 1 lettera c della legge;
+- b. valutare se per un progetto di ricerca sono disponibili in Svizzera cellule staminali embrionali idonee;
+- c. offrire una panoramica dei progetti di ricerca in corso o conclusi in Svizzera.
+
+#### Art. 29
+
+**Contenuto del registro**
+
+<sup>1</sup>
+
+Chi deriva cellule staminali embrionali, svolge un progetto di ricerca volto a migliorare il processo di derivazione o un progetto di ricerca con cellule staminali embrionali oppure importa cellule staminali embrionali è tenuto a fornire all’Ufficio federale i seguenti dati:
+
+- a.
+
+  la descrizione del progetto di ricerca nel cui ambito sono derivate o utilizzate le cellule staminali, specificando:
+
+  - 1\. il titolo del progetto,
+  - 2\. lo scopo del progetto,
+  - 3\. il nome e l’indirizzo della direzione di progetto,
+  - 4\. la data d’inizio e la durata prevista del progetto;
+
+- b. la caratterizzazione delle cellule staminali embrionali derivate o utilizzate nell’ambito del progetto, nonché delle linee di cellule staminali utilizzate; per linee di cellule staminali si intendono le cellule pluripotenti prelevate da cellule di un embrione precoce che possono essere coltivate e moltiplicate in vitro per generazioni e sono caratterizzate da un genotipo e un fenotipo stabili.
+
+<sup>2</sup> L’Ufficio federale iscrive nel registro i dati richiesti secondo il capoverso 1 lettera a in caso di rilascio dell’autorizzazione conformemente agli articoli 5, 8 o 13 o di notifica conformemente all’articolo 20.
+
+<sup>3</sup> Pubblica nel registro i riassunti conformemente all’articolo 25 capoversi 3 lettera c e 4.
+
+<sup>4</sup> Può esigere precisazioni sui dati presentati.
+
+## Sezione 12: Emolumenti
+
+#### Art. 30
+
+**Calcolo degli emolumenti**
+
+<sup>1</sup> Gli emolumenti sono calcolati secondo le aliquote previste nell’articolo 31. Nei limiti delle aliquote, gli emolumenti sono stabiliti in base al tempo impiegato e in considerazione delle conoscenze tecniche necessarie.
+
+<sup>2</sup> Per le prestazioni non esplicitamente menzionate nell’articolo 31, l’importo degli emolumenti è calcolato in base al tempo impiegato. La tariffa oraria varia dai 90 ai 200 franchi a seconda delle conoscenze tecniche necessarie e della classe di funzione del personale esecutivo.
+
+#### Art. 31
+
+**Aliquote degli emolumenti**
+
+L’Ufficio federale riscuote segnatamente i seguenti emolumenti:
+
+<table>
+<tr><td></td><td></td><td></td><td>in franchi</td></tr>
+<tr><td></td><td>a.[^31-1]</td><td>autorizzazione per la derivazione di cellule staminali embrionali da embrioni soprannumerari: rilascio, rinnovo, sospensione, revoca</td><td>500–10 000</td></tr>
+<tr><td></td><td>b.[^31-2]</td><td>autorizzazione per un progetto di ricerca volto a migliorare il processo di derivazione: rilascio, rinnovo, sospensione, revoca</td><td>500–10 000</td></tr>
+<tr><td></td><td>c.[^31-3]</td><td>autorizzazione per la conservazione di embrioni soprannumerari: rilascio, rinnovo, sospensione, revoca</td><td>250– 5 000</td></tr>
+<tr><td></td><td>d.[^31-4]</td><td>autorizzazione per l’importazione o l’esportazione di cellule staminali embrionali: rilascio, rinnovo, sospensione, revoca</td><td>500–10 000</td></tr>
+<tr><td></td><td>e.</td><td>ispezione (senza preparazione né rapporto) per giorno</td><td>1 000–20 000</td></tr>
+<tr><td></td><td>f.</td><td>attestazioni, rapporti</td><td>200– 2 000</td></tr>
+</table>
+
+[^31-1]: Nuovo testo giusta il n. I dell'O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1201](https://fedlex.data.admin.ch/eli/oc/2012/178)).
+[^31-2]: Nuovo testo giusta il n. I dell'O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1201](https://fedlex.data.admin.ch/eli/oc/2012/178)).
+[^31-3]: Nuovo testo giusta il n. I dell'O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1201](https://fedlex.data.admin.ch/eli/oc/2012/178)).
+[^31-4]: Nuovo testo giusta il n. I dell'O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1201](https://fedlex.data.admin.ch/eli/oc/2012/178)).
+
+#### Art. 32
+
+**Supplemento**
+
+L’Ufficio federale può riscuotere un supplemento fino al 50 per cento degli emolumenti se:
+
+- a. su domanda, la prestazione è fornita con urgenza o al di fuori del normale orario lavorativo;
+- b. la prestazione è di portata eccezionale o comporta difficoltà particolari.
+
+#### Art. 33
+
+**Spese**
+
+Oltre agli emolumenti, sono fatturate le spese per le singole prestazioni, segnatamente:
+
+- a. gli onorari per i membri delle Commissioni, i periti e gli incaricati;
+- b. le spese per l’assunzione di prove, le analisi scientifiche, gli esami particolari o la ricerca di documenti;
+- c. le spese di viaggio e di trasporto;
+- d. le spese per analisi in laboratori propri o di terzi;
+- e. le spese per lavori che l’Ufficio federale affida a terzi.
+
+## Sezione 13: Moduli
+
+#### Art. 34
+
+L’Ufficio federale può prescrivere l’impiego di moduli per:
+
+- a. la procedura di autorizzazione secondo gli articoli 5, 8, 11, 13 e 15;
+- b. adempiere l’obbligo di notifica e di rapporto secondo gli articoli 20, 23 e 24;
+- c. la rilevazione dei dati nell’ambito del registro pubblico.
+
+## Sezione 14: Entrata in vigore
+
+#### Art. 35
+
+La presente ordinanza entra in vigore il 1° marzo 2005.

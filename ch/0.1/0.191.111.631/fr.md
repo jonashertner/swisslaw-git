@@ -1,0 +1,291 @@
+---
+sr: "0.191.111.631"
+title: "Accord du 3 décembre 2015 entre le Conseil fédéral suisse et le Gouvernement de la République d'Autriche sur la coopération en matière d'affaires consulaires (avec annexes)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2016/199"
+language: fr
+version: 2019-10-15
+adopted: 2015-12-03
+in_force: 2016-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20191015/fr/xml/fedlex-data-admin-ch-eli-cc-2016-199-20191015-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20191015/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Accord entre le Conseil fédéral suisse et le Gouvernement de la République d’Autriche sur la coopération en matière d’affaires consulaires
+
+RO **2016** 1059
+
+Traduction
+
+Conclu le 3 décembre 2015
+
+Entré en vigueur par échange de notes le 1<sup>er</sup> avril 2016
+
+(Etat le 15 octobre 2019)
+
+Le Conseil fédéral suisse, représenté par le Chef du Département fédéral des affaires étrangères, et le Gouvernement de la République d’Autriche, représenté par le Ministre fédéral pour l’Europe, l’intégration et les affaires étrangères,
+
+dénommés ci-après les Parties,
+
+en application de l’art. 8 de la Convention de Vienne du 24 avril 1963 sur les relations consulaires[^ingress-1] («Convention de Vienne»), en vertu duquel des représentations consulaires peuvent également exercer des fonctions consulaires pour le compte d’un État tiers,
+
+animés du désir de fournir aux ressortissants des prestations consulaires efficaces dans un souci de service au citoyen,
+
+souhaitant actualiser et approfondir la coopération en matière consulaire convenue dans l’accord bilatéral du 3 septembre 1979 sur la collaboration dans le domaine consulaire[^ingress-2],
+
+sont convenus de ce qui suit:
+
+[^ingress-1]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^ingress-2]: [[RO 1980 593](https://fedlex.data.admin.ch/eli/oc/1980/593_593_593)]
+
+## Chapitre 1 Dispositions générales
+
+#### Art. 1
+
+**Objet et but**
+
+<sup>1.</sup> Les représentations d’une Partie chargées de tâches consulaires peuvent fournir des prestations consulaires aux ressortissants de l’autre Partie dans le cadre du présent Accord et de son annexe I dans les États de résidence où l’une des deux Parties n’a pas de représentation. Elles peuvent également fournir des prestations consulaires pour le compte de l’autre Partie dans les États de résidence où chacune des deux Parties dispose de représentations assurant des prestations consulaires, mais où il se révèle judicieux de confier la fourniture de ces prestations à l’autre Partie. L’accès des ressortissants à la représentation de leur pays reste toutefois garanti dans tous les cas.
+
+<sup>2.</sup> La liste des États de résidence où ces prestations peuvent être fournies (annexe II) est définie d’un commun accord.
+
+#### Art. 2
+
+**Champ d’application de l’accord**
+
+<sup>1.</sup> Le présent Accord s’applique aux personnes physiques qui possèdent la nationalité de l’une ou l’autre des Parties, conformément au droit de la Partie concernée, ou les deux nationalités.
+
+<sup>2.</sup> Sauf opposition de l’État de résidence, l’Accord s’applique également aux ressortissants de la Principauté de Liechtenstein, dans la mesure où la Suisse fournit pour eux des prestations consulaires en vertu de l’échange de notes daté des 21 et 24 octobre 1919[^2-1].
+
+[^2-1]: Non publié au RO.
+
+#### Art. 3
+
+**Notification du transfert de fonctions consulaires**
+
+L’exercice de fonctions consulaires par une représentation de l’une des Parties pour le compte de l’autre Partie fait l’objet d’une notification appropriée aux autorités de l’État de résidence, conformément à l’art. 8 de la Convention de Vienne.
+
+#### Art. 4
+
+**Relation avec d’autres obligations internationales**
+
+Les obligations internationales des Parties en matière consulaire qui découlent du statut de membre de l’Union européenne ou des accords bilatéraux conclus avec elle sont réservées. Le présent Accord est également sans préjudice des obligations relatives à l’échange d’informations non publiques sur des questions administratives (p. ex. assistance administrative en matière douanière ou fiscale).
+
+## Chapitre 2 Protection consulaire
+
+#### Art. 5
+
+**Principes d’octroi d’une assistance**
+
+<sup>1.</sup> Si un ressortissant de l’une des Parties ne peut raisonnablement pas défendre ses droits et ses intérêts dans l’État de résidence par lui-même ou par l’intermédiaire de tiers ou s’il est dans l’incapacité de le faire en raison de son absence ou pour toute autre cause, la représentation de l’autre Partie peut l’assister dans la protection de ses droits et de ses intérêts (principe de subsidiarité).
+
+<sup>2.</sup> Les fonctions de protection consulaire couvertes par le présent Accord se limitent en règle générale à celles qui nécessitent la comparution personnelle d’un ressortissant des Parties auprès d’une représentation dans l’État de résidence et ne peuvent donc être accomplies uniquement par correspondance. Les représentations de chacune des Parties accordent la protection consulaire aux ressortissants de l’autre Partie dans la même mesure et aux mêmes conditions qu’à leurs propres nationaux. Sauf disposition contraire du présent Accord, la fourniture des prestations et la coopération ont lieu dans le cadre du droit applicable pour celle des Parties qui agit.
+
+<sup>3.</sup> Avant et pendant que s’exerce la protection consulaire, des consultations sont engagées avec les autorités compétentes ou les représentations compétentes de l’État d’origine, à moins que la vie et l’intégrité physique de la personne concernée ne soient menacées.
+
+#### Art. 6
+
+**Assistance dans les relations avec les autorités de l’État de résidence et en cas de privation de liberté**
+
+<sup>1.</sup> La représentation compétente d’une Partie peut notamment demander aux autorités de l’État de résidence d’adopter des mesures provisoires en vue de la sauvegarde des droits et intérêts de la personne concernée ou de s’employer à ce qu’elle soit représentée de manière appropriée devant les tribunaux ou les autres autorités de l’État de résidence, étant entendu que les frais éventuels d’avocat et de procédure sont à la charge de ladite personne.
+
+<sup>2.</sup> Si la représentation compétente de l’une des Parties apprend qu’un ressortissant de l’autre Partie a été arrêté, incarcéré ou placé en détention préventive ou a fait l’objet d’une autre forme de privation de liberté, elle peut se renseigner s’il a été informé de son droit à prendre contact avec la représentation. Elle peut également s’enquérir des motifs de sa privation de liberté. Si jugé opportun ou si la personne concernée le demande, la représentation cherche à entrer en communication avec elle, à lui rendre visite si nécessaire et à faire en sorte que sa défense soit assurée de manière appropriée devant les tribunaux ou les autres autorités de l’État de résidence, étant entendu que les frais éventuels d’avocat et de procédure sont à la charge de ladite personne.
+
+#### Art. 7
+
+**Prêt d’urgence**
+
+<sup>1.</sup> Si un ressortissant de l’autre Partie se trouve en difficulté lors d’un séjour temporaire dans l’État de résidence, les représentations peuvent lui accorder un prêt sans intérêts, moyennant engagement de remboursement, pour financer son rapatriement, l’aider de façon transitoire ou couvrir ses frais d’hospitalisation et de consultation médicale, jusqu’à réception de fonds du pays d’origine ou de virements internationaux.
+
+<sup>2.</sup> Si un ressortissant de l’une des Parties dépourvu de ressources se trouve en difficulté lors d’un séjour temporaire dans l’État de résidence, au point que sa vie ou sa santé semblent gravement menacées, les représentations de l’autre Partie peuvent lui accorder une aide pour financer son rapatriement, l’aider de façon transitoire ou couvrir ses frais d’hospitalisation et de consultation médicale. L’État d’origine rembourse à la Partie assistante l’aide versée.
+
+<sup>3.</sup> À la différence de ce que prescrit l’art. 5, al. 2, les prêts d’urgence et les aides doivent être versés conformément aux dispositions prévues par l’État d’origine.
+
+<sup>4.</sup> Le bénéficiaire du prêt doit signer un reçu ainsi qu’un engagement de remboursement, qui sont transmis aux autorités de l’État d’origine avec une déclaration de cession. L’État d’origine rembourse à la Partie assistante le montant du prêt et se charge de son recouvrement.
+
+#### Art. 8
+
+**Situations de crise et mesures d’évacuation**
+
+<sup>1.</sup> Si, dans une situation de guerre ou de crise ou lors de troubles ou de catastrophes naturelles, une Partie met en place des mesures de protection, elle inclut les ressortissants de l’autre Partie dans le dispositif prévu pour ses propres ressortissants. En cas de mise en place ou de mise en œuvre de mesures d’évacuation, les représentations de chacune des Parties veillent à en faire bénéficier autant que possible les ressortissants de l’autre Partie, étant entendu que toute personne évacuée l’est de sa propre volonté et sous sa seule responsabilité.
+
+<sup>2.</sup> Les autorités compétentes se mettent d’accord dans chaque cas sur les modalités et les frais de l’évacuation.
+
+<sup>3.</sup> Une concertation mutuelle est recherchée dans le cadre de la préparation aux crises et des interventions en cas de crise.
+
+## Chapitre 3 Prestations administratives
+
+#### Art. 9
+
+**Attestations**
+
+Les représentations sont habilitées à délivrer aux ressortissants de l’autre Partie des attestations sur des faits dont elles ont dûment établi la véracité, si ces attestations sont destinées à être utilisées exclusivement dans l’État d’origine de leur bénéficiaire. Les dispositions de la Convention européenne du 7 juin 1968 relative à la suppression de la légalisation des actes établis par les agents diplomatiques ou consulaires[^9-1] sont réservées.
+
+[^9-1]: [RS 0.172.030.3](https://fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207)
+
+#### Art. 10
+
+**Autres prestations de nature administrative**
+
+Les représentations de chacune des Parties peuvent fournir en faveur d’un ressortissant de l’autre Partie d’autres prestations consulaires de nature administrative telles que prévues à l’annexe I.
+
+## Chapitre 4 Finances et émoluments
+
+#### Art. 11
+
+**Émoluments perçus au titre de prestations consulaires et des coûts administratifs ordinaires**
+
+Les représentations perçoivent les émoluments et tarifs consulaires prescrits par les dispositions nationales pertinentes de la Partie concernée.
+
+#### Art. 12
+
+**Traitement des coûts administratifs extraordinaires**
+
+Les frais dont le montant dépasse celui des coûts administratifs normaux et qui ont été consentis dans l’intérêt bien compris d’un ou de plusieurs ressortissants de l’autre Partie font dans chaque cas l’objet d’un décompte entre les autorités compétentes. Le droit de l’État d’origine de se retourner contre son ressortissant ayant occasionné ces frais est réservé.
+
+## Chapitre 5 Autres formes de coopération
+
+#### Art. 13
+
+**Intégration de personnel consulaire de l’une des Parties dans les représentations consulaires de l’autre Partie («embedding»)**
+
+<sup>1.</sup> Les Parties conviennent d’examiner la possibilité d’intégrer des membres de leur personnel dans des représentations de l’autre Partie, si l’une des Parties ne dispose pas d’une présence sur place, mais qu’en raison du volume des activités, un transfert de fonctions consulaires au sens de l’art. 1 ne s’avère pas être la meilleure solution.
+
+<sup>2.</sup> Un comité mixte règle, par convention séparée, les questions relatives aux modalités concrètes de fourniture des prestations, au statut juridique du personnel «intégré» et aux frais liés à l’intégration de personnel.
+
+#### Art. 14
+
+**Formation**
+
+Les autorités compétentes peuvent organiser des formations destinées aux fonctionnaires consulaires de l’autre Partie qui sont chargés de fournir des prestations en matière consulaire. Le comité mixte peut examiner la possibilité de renforcer les synergies dans la formation de fonctionnaires consulaires, par exemple par l’organisation de cours communs.
+
+#### Art. 15
+
+**Gestion des installations**
+
+Les Parties se prêtent réciproquement assistance sur place en mettant à la disposition de l’autre Partie des locaux et d’autres infrastructures en cas de problèmes techniques ou d’infrastructure affectant des bâtiments ou installations existants.
+
+#### Art. 16
+
+**Évaluation**
+
+Les autorités compétentes peuvent procéder à des évaluations communes dans les représentations qui fournissent des prestations consulaires pour l’autre Partie.
+
+## Chapitre 6 Autorités et organes compétents
+
+#### Art. 17
+
+**Implication des représentations compétentes**
+
+En complément des consultations prévues à l’art. 5, al. 3, des échanges réguliers sur les activités ont lieu entre la représentation compétente pour l’État de résidence ou la circonscription consulaire, d’une part, dont les prestations consulaires sont assurées par l’autre Partie dans le cadre du présent Accord, et la représentation sur place, d’autre part, qui fournit des prestations consulaires pour l’autre Partie dans le cadre du présent Accord.
+
+#### Art. 18
+
+**Comité mixte**
+
+<sup>1.</sup> Il est établi un comité mixte, composé de représentants des Parties, qui est chargé de la gestion du présent Accord et veille à son bon fonctionnement. À cet effet, il émet des recommandations et prend des décisions dans les cas prévus par le présent Accord, dans les limites des législations nationales des Parties et des compétences respectives. Il se prononce d’un commun accord. Le comité mixte se réunit à la demande d’une Partie, mais au moins une fois par an. Il peut se doter de règles de procédure/d’un règlement intérieur.
+
+<sup>2.</sup>
+
+Le comité mixte est chargé des missions et attributions suivantes:
+
+- a) mener des discussions et prendre des décisions sur des questions ayant trait à l’application du présent Accord et au choix des États de résidence;
+- b) conclure les conventions de mise en œuvre du présent Accord qui relèvent de sa compétence;
+- c) procéder, sous réserve d’approbation par les autorités compétentes, aux modifications d’ordre technique et administratif du présent Accord ainsi qu’aux modifications et adaptations des annexes;
+- d) assurer l’information réciproque des Parties sur la mise en œuvre du présent Accord et sur les évolutions pertinentes;
+- e) contrôler les finances et le système de tarification.
+
+#### Art. 19
+
+**Autorités compétentes**
+
+<sup>1.</sup>
+
+Les autorités compétentes sont:
+
+- a) pour la Suisse: le Département fédéral des affaires étrangères;
+- b) pour la République d’Autriche: le Ministère fédéral pour l’Europe, l’intégration et les affaires étrangères.
+
+<sup>2.</sup> Les autorités compétentes peuvent s’informer et se consulter réciproquement sur des questions concrètes de mise en œuvre. Elles préparent en outre des conventions pour le comité mixte.
+
+## Chapitre 7 Dispositions finales
+
+#### Art. 20
+
+**Annexes**
+
+Les annexes font partie intégrante du présent Accord.
+
+#### Art. 21
+
+**Entrée en vigueur, modification et dénonciation de l’accord et relation avec l’accord précédent**
+
+<sup>1.</sup> Le présent Accord entre en vigueur le premier jour du troisième mois qui suit la date de réception de la deuxième note diplomatique par laquelle les Parties se notifient mutuellement l’accomplissement des procédures internes d’approbation.
+
+<sup>2.</sup> Les Parties examinent, à la demande de l’une d’elles, la possibilité d’une modification du présent Accord. Le cas échéant, cette modification entre en vigueur conformément à l’al. 1.
+
+<sup>3.</sup> Le présent Accord est conclu pour une durée indéterminée, mais peut être dénoncé en tout temps par note diplomatique. Il cesse de s’appliquer six mois après la date de la note diplomatique.
+
+<sup>4.</sup> Le présent Accord remplace l’accord du 3 septembre 1979 entre la Suisse et l’Autriche sur la collaboration dans le domaine consulaire.
+
+Fait à Belgrade, le 3 décembre 2015 en deux originaux établis en langue allemande.
+
+<table>
+<tr><td>Pour le Conseil fédéral suisse: Didier Burkhalter</td><td>Pour le Gouvernement de la République d’Autriche: Sebastian Kurz</td></tr>
+</table>
+
+Annexe I
+
+## Fonctions consulaires concrètes pouvant être transférées à l’autre Partie
+
+### 1. Prestations consulaires
+
+- a) prise en dépôt de documents et de valeurs;
+- b) délivrance de certificats de vie pour retraités;
+- c) établissement de «laissez-passer» en cas de perte du passeport ou de la carte d’identité.
+
+### 2. Protection consulaire
+
+- a) *assistance générale* et aide aux victimes d’une crise, d’un crime, d’un enlèvement ou d’une prise d’otages ainsi qu’en cas d’enlèvement d’enfants dans un État n’ayant pas ratifié les Conventions de La Haye, informer les services de sauvetage, organiser des rapatriements, fournir les coordonnées de médecins, d’hôpitaux ou de services d’urgence, rendre visite à la personne malade ou blessée à l’hôpital lorsque cela s’avère nécessaire et possible;
+- b) *personnes disparues:* conseiller les proches et leur fournir certaines explications, établir si le lieu où se trouve la personne recherchée est connu. Accessibilité, possibilité de contacts avec la famille ou la représentation la plus proche, interprètes;
+- c) *privation de liberté:* intervenir en faveur d’un traitement conforme à la dignité humaine et du respect des droits fondamentaux de la personne détenue; se renseigner auprès des autorités de l’État de résidence sur les motifs de la privation de liberté, informer la personne détenue sur ses droits à la défense, l’aider à trouver un avocat, lui signaler la possibilité d’un transfèrement dans le pays d’origine, informer, si la personne détenue le souhaite, des proches ou certains tiers de sa privation de liberté; rendre visite en prison à la personne détenue;
+- d) *décès:* trouver les personnes les plus proches et les informer du décès, procéder à des clarifications auprès des autorités et des assurances, obtenir l’acte de décès et les rapports de police et d’autopsie, fournir des adresses de sociétés de pompes funèbres, faire procéder à l’inhumation à l’étranger, apporter une aide pour le rapatriement des restes mortels du défunt, prendre des mesures pour mettre en sûreté des objets personnels ayant appartenu à un ressortissant suisse ou autrichien de passage;
+- e) *prêts d’urgence:* donner des conseils concernant les virements depuis le pays d’origine vers l’étranger; accorder des prêts d’urgence remboursables et des libéralités jusqu’à concurrence des montants maximaux prévus, pour financer le rapatriement, apporter une aide transitoire en attendant la première possibilité de retour ou couvrir les frais d’hospitalisation et de consultation médicale.
+
+### 3. Aide sociale
+
+- a) mettre à disposition des formulaires d’aide sociale de l’État d’origine et lui transmettre les demandes;
+- b) verser des prestations sur la base de garanties de prise en charge des frais par les Parties.
+
+### 4. Gestion de crise
+
+Participation réciproque au dispositif de crise sur place et aux opérations d’évacuation.
+
+### 5. Autres formes de coopération
+
+Les Parties étudieront la possibilité d’une coopération dans le domaine de la saisie des données biométriques et examineront les bases légales nécessaires à cet effet.
+
+Annexe II*[^t-1]*
+
+## Liste des pays d’accueil où le transfert des fonctions consulaires est assuré
+
+[^t-1]: Nouvelle teneur selon l’échange de notes des 25 sept. et 10 oct. 2019, en vigueur depuis le 15 oct. 2019 ([RO 2019 3283](https://fedlex.data.admin.ch/eli/oc/2019/600)).
+
+### A) Prise en charge par l’Autriche
+
+<table>
+<tr><td></td><td>Représentation par l’Ambassade</td><td>Représentation par CoH</td><td>Représentation ad-hoc/d’urgence</td></tr>
+<tr><td>Europe</td><td></td><td>Crète (Grèce) Madère (Portugal)</td><td>Chisinau (Moldavie)</td></tr>
+<tr><td>Afrique</td><td></td><td>Banjul (Gambie)</td><td></td></tr>
+<tr><td>Amérique</td><td></td><td>Scarborough (Tobago) Basseterre (Saint-Christophe et Niévès)</td><td></td></tr>
+</table>
+
+### B) Prise en charge par la Suisse
+
+<table>
+<tr><th></th><th>Représentation par l’Ambassade</th><th>Représentation par Consul honoraire</th><th>Ad-hoc/représentation d’urgence</th></tr>
+<tr><td>Afrique</td><td>Dar-es-Salaam (Tanzanie)</td><td>Bissau (Guinée-Bissau) Freetown (Sierra Leone) Monrovia (Liberia)</td><td></td></tr>
+<tr><td>Amérique</td><td></td><td></td><td>San José (Costa Rica) Port-d’Espagne (Trinité) Maracaibo (Venezuela) Caracas (Venezuela)</td></tr>
+<tr><td>Asie</td><td></td><td></td><td>Bali (Indonésie)</td></tr>
+<tr><td>Océanie</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Fidji)</td><td>Wellington (Nouvelle-Zélande)</td></tr>
+</table>

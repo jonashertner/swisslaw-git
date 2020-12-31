@@ -1,0 +1,126 @@
+---
+sr: "0.142.117.677"
+title: "Accordo del 28 novembre 2003 fra il Consiglio federale svizzero e il Gabinetto dei ministri dell'Ucraina relativo allo scambio di tirocinanti"
+eli: "https://fedlex.data.admin.ch/eli/cc/2009/30"
+language: it
+version: 2008-10-27
+adopted: 2003-11-28
+in_force: 2008-10-27
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/30/20081027/it/xml/fedlex-data-admin-ch-eli-cc-2009-30-20081027-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/30/20081027/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Accordo fra il Consiglio federale svizzero e il Gabinetto dei ministri dell’Ucraina relativo allo scambio di tirocinanti
+
+RS **2009** 189
+
+Traduzione*[^t-1]*
+
+Concluso il 28 novembre 2003 Entrato in vigore mediante scambio di note il 27 ottobre 2008
+
+(Stato 27 ottobre 2008)
+
+[^t-1]: Da testo originale tedesco.
+
+Il Consiglio federale svizzero e il Gabinetto dei Ministri dell’Ucraina
+
+(detti qui di seguito «Parti»),
+
+animati dalla volontà di rafforzare la cooperazione conformemente ai principi del partenariato e del vantaggio reciproco e nell’interesse comune,
+
+hanno convenuto quanto segue:
+
+#### Art. 1
+
+<sup>1.</sup> Il presente Accordo è applicabile allo scambio di cittadini svizzeri e ucraini di ambo i sessi che assumono per un tempo limitato nell’altro Paese un impiego nella professione appresa, allo scopo di perfezionare le proprie conoscenze linguistiche e professionali (detti qui di seguito «tirocinanti»).
+
+<sup>2.</sup> L’impiego può essere assunto in tutte le professioni, salvo in quelle legalmente limitate per gli stranieri nel Paese d’accoglienza. Qualora l’esercizio della professione fosse subordinato a un’autorizzazione, l’interessato dovrà prima chiedere detta autorizzazione.
+
+#### Art. 2
+
+<sup>1.</sup>
+
+Le autorità competenti per il presente Accordo sono:
+
+- – per il Consiglio federale svizzero, il Dipartimento federale di giustizia e polizia (DFGP);
+- – per l’Ucraina, il Ministero del lavoro e della politica sociale dell’Ucraina.
+
+<sup>2.</sup>
+
+Le autorità incaricate dell’applicazione del presente Accordo (dette qui di seguito «autorità competenti») sono:
+
+- – per il Dipartimento federale di giustizia e polizia, l’Ufficio federale dell’immigrazione, dell’integrazione e dell’emigrazione (IMES)[^2-1];
+- – per il Ministero del lavoro e della politica sociale, l’Ufficio statale del lavoro.
+
+[^2-1]: Ora: Segreteria di Stato della migrazione (SEM) (vedi [RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
+
+#### Art. 3
+
+I tirocinanti devono aver compiuto almeno i 18 anni di età e non devono di norma aver superato i 35 anni di età. Essi devono disporre di una formazione professionale completa della durata di almeno due anni attestata dal relativo certificato di fine tirocinio.
+
+#### Art. 4
+
+<sup>1.</sup> Il numero dei tirocinanti ammesso da ciascuna Parte (detto qui di seguito «contingente») non deve superare 50 unità per anno civile.
+
+<sup>2.</sup> Qualora una Parte non utilizzasse il contingente, l’altra Parte non può prevalersene per ridurre il contingente convenuto. Il saldo non utilizzato non può essere riportato sull’anno successivo.
+
+<sup>3.</sup> Il contingente può essere interamente utilizzato, indipendentemente dal numero di tirocinanti che risiedevano sul territorio del Paese d’accoglienza già prima dell’entrata in vigore del presente Accordo.
+
+<sup>4.</sup> La proroga della durata di un tirocinio in virtù dell’articolo 5 capoverso 2 non è considerata una nuova ammissione.
+
+#### Art. 5
+
+<sup>1.</sup> Per ottenere l’autorizzazione per tirocinante, il tirocinante deve inoltrare una domanda all’autorità competente del suo Paese d’origine.
+
+<sup>2.</sup> L’autorizzazione per tirocinante è accordata dall’autorità competente del Paese d’accoglienza di norma per una durata di 12 mesi. Essa può essere prorogata fino a 18 mesi al massimo. I contratti di lavoro vanno altresì conclusi a termine.
+
+<sup>3.</sup> Le autorizzazioni imputate sul contingente sono rilasciate indipendentemente dalla situazione del mercato del lavoro nel Paese d’accoglienza.
+
+#### Art. 6
+
+I tirocinanti non possono svolgere un’attività lucrativa né essere ammessi a un lavoro diversi da quelli indicati nell’autorizzazione. In casi motivati, l’autorità competente del Paese d’accoglienza può autorizzare il tirocinante a cambiare lavoro.
+
+#### Art. 7
+
+<sup>1.</sup> L’assunzione come tirocinante avviene sulla base di un contratto di lavoro firmato tra il tirocinante e il datore di lavoro. Il contratto deve essere conforme alle condizioni di cui all’articolo 5 capoverso 2.
+
+<sup>2.</sup> I tirocinanti fruiscono, in materia di alloggio, condizioni di lavoro e salario, degli stessi diritti e doveri concessi ai lavoratori del Paese d’accoglienza e sanciti dal vigente diritto in materia di lavoro.
+
+<sup>3.</sup> L’autorizzazione è accordata solo qualora le condizioni di impiego convenute con il datore di lavoro siano conformi alla legislazione in materia di lavoro e di assicurazioni sociali del Paese d’accoglienza.
+
+<sup>4.</sup> Salvo disposizioni contrarie nel contratto di lavoro, le spese di viaggio e di alloggio sono a carico del tirocinante.
+
+#### Art. 8
+
+<sup>1.</sup> La necessaria autorizzazione per tirocinante è accordata conformemente alle disposizioni che regolano nel Paese d’accoglienza l’entrata e l’uscita, il soggiorno e l’esercizio di un’attività lucrativa da parte degli stranieri.
+
+<sup>2.</sup> I tirocinanti devono pagare le tasse e gli emolumenti usuali riscossi per l’entrata e il soggiorno nel Paese d’accoglienza.
+
+#### Art. 9
+
+<sup>1.</sup> Le persone che desiderano assumere un impiego di tirocinante devono di norma cercare di propria iniziativa un impiego nell’altro Paese. Le autorità competenti possono, con misure adeguate, assistere i tirocinanti nella ricerca di un posto di lavoro.
+
+<sup>2.</sup> Le domande, corredate di tutte le indicazioni necessarie, vanno inoltrate all’autorità competente del Paese di origine. Dopo aver esaminato se la domanda soddisfa le condizioni, questa autorità la trasmette alle autorità del Paese d’accoglienza.
+
+<sup>3.</sup> Le autorità competenti garantiscono il disbrigo gratuito del collocamento come pure di tutte le formalità attinenti alle autorizzazioni per tirocinanti.
+
+#### Art. 10
+
+<sup>1.</sup> Il presente Accordo ha validità illimitata.
+
+<sup>2.</sup> L’Accordo entra in vigore non appena le Parti si saranno notificate l’avvenuto espletamento delle procedure previste dai rispettivi ordinamenti interni.
+
+<sup>3.</sup> Le Parti possono prevedere modifiche e integrazioni dell’Accordo mediante la firma dei relativi documenti che diverranno parte integrante dell’Accordo e che entreranno in vigore tramite uno scambio di note similmente alla procedura di cui al capoverso 2.
+
+<sup>4.</sup> L’Accordo può essere denunziato per scritto su richiesta di una delle Parti. La denunzia deve essere notificata per via diplomatica mediante preavviso di sei mesi.
+
+<sup>5.</sup> In caso di denunzia le autorizzazioni accordate in virtù del presente Accordo rimangono valide per la durata per la quale sono state rilasciate.
+
+Firmato a Berna, il 28 novembre 2003, in due originali nelle lingue tedesca e ucraina, i due testi facenti ugualmente fede.
+
+<table>
+<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Gabinetto dei Ministri dell’Ucraina:</td></tr>
+<tr><td>Eduard Gnesa</td><td>Volodymyr Y. Yelčenko</td></tr>
+</table>

@@ -1,0 +1,1393 @@
+---
+sr: "520.1"
+title: Lescha federala dals 20 da december 2019 davart la protecziun da la populaziun e davart la protecziun civila (LPPCi)
+short: LPPCi
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
+language: rm
+version: 2021-01-01
+adopted: 2019-12-20
+in_force: 2021-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20210101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20210101/rm"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Lescha federala davart la protecziun da la populaziun e davart la protecziun civila
+
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+
+(LPPCi)
+
+dals 20 da december 2019 (versiun dal 1. da schaner 2021)
+
+L’Assamblea federala da la Confederaziun svizra,
+
+sa basond sin ils artitgels 57 alinea 2 e 61 da la Constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 21 da november 2018[^ingress-2],
+
+concluda:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2019 521](https://fedlex.data.admin.ch/eli/fga/2019/113)
+
+## 1. titel Object
+
+#### Art. 1
+
+Questa lescha regla:
+
+- a. las incumbensas e la collavuraziun da la Confederaziun, dals chantuns e da terzas persunas en il sectur da la protecziun da la populaziun;
+- b. la protecziun civila sco organisaziun partenaria en il sectur da la protecziun da la populaziun, en spezial l’obligaziun da far servetsch da protecziun civila, l’instrucziun e las ovras da protecziun.
+
+## 2. titel Protecziun da la populaziun
+
+### 1. chapitel Intent, collavuraziun ed obligaziuns da terzas persunas
+
+#### Art. 2
+
+**Intent**
+
+La protecziun da la populaziun ha l’intent da proteger la populaziun e sias basas d’existenza en cas d’eveniments da donn da gronda purtada (eveniments gronds), da catastrofas, da situaziuns d’urgenza e da conflicts armads sco er l’intent da gidar a reducir ed a superar eveniments da donn sco er da prender mesiras da prevenziun correspundentas.
+
+#### Art. 3
+
+**Organs directivs, organisaziuns partenarias e terzas persunas**
+
+<sup>1</sup> En il rom da la protecziun da la populaziun collavuran ils organs directivs, las organisaziuns partenarias e terzas persunas in cun l’auter en il sectur da la prevenziun e da la gestiun d’eveniments.
+
+<sup>2</sup>
+
+Las suandantas organisaziuns partenarias collavuran ina cun l’autra:
+
+- a. la polizia, per mantegnair la segirezza e l’urden;
+- b. ils pumpiers, per garantir il salvament ed il cumbat cunter donns;
+- c. il sectur da sanadad, inclusiv ils fatgs da salvament dal servetsch sanitar, per garantir il provediment medicinal da la populaziun;
+- d. ils manaschis tecnics, en spezial per garantir la disponibladad dals bains e dals servetschs indispensabels per la populaziun;
+- e. la protecziun civila, per proteger e per salvar la populaziun, per assister persunas che tschertgan protecziun sco er per sustegnair ils organs directivs ed autras organisaziuns partenarias.
+
+<sup>3</sup>
+
+Per la prevenziun e per la gestiun d’eveniments pon vegnir engaschads ulteriurs posts ed ulteriuras organisaziuns, en spezial:
+
+- a. autoritads;
+- b. interpresas;
+- c. organisaziuns nunguvernamentalas.
+
+#### Art. 4
+
+**Collavuraziun**
+
+En il rom da lur cumpetenzas collavuran la Confederaziun, ils chantuns, ils ulteriurs posts e las ulteriuras organisaziuns in cun l’auter per ademplir las incumbensas tenor questa lescha, e quai en spezial en ils suandants secturs:
+
+- a. svilup concepziunal da la protecziun da la populaziun;
+- b. protecziun cunter periclitaziuns atomaras, biologicas e chemicas (protecziun ABC);
+- c. sistems d’alarm e da communicaziun per la protecziun da la populaziun;
+- d. infurmaziun da las autoritads e da la populaziun;
+- e. instrucziun, perscrutaziun e collavuraziun internaziunala.
+
+#### Art. 5
+
+**Obligaziuns da terzas persunas**
+
+En cas d’alarm è mintga persuna obligada d’observar las ordinaziuns sco er las instrucziuns da cumportament dals posts cumpetents.
+
+### 2. chapitel Incumbensas da la Confederaziun
+
+#### Art. 6
+
+**Incumbensas generalas**
+
+<sup>1</sup> La Confederaziun procura per la coordinaziun da las activitads da las organisaziuns partenarias sco er per lur collavuraziun cun las autras autoritads e cun ils auters posts en il sectur da la politica da segirezza.
+
+<sup>2</sup> Il Cussegl federal regla, tge mesiras che ston vegnir prendidas per proteger ils bains culturals en il sectur dals edifizis e da las installaziuns d’edifizis en vista ad eveniments gronds, a catastrofas, a situaziuns d’urgenza ed a conflicts armads.
+
+<sup>3</sup> El prenda mesiras per rinforzar la protecziun da la populaziun en cas da conflicts armads.
+
+#### Art. 7
+
+**Direcziun e coordinaziun**
+
+<sup>1</sup> La Confederaziun surpiglia la direcziun e la coordinaziun en cas da catastrofas e da situaziuns d’urgenza, sche lur gestiun pertutga sia cumpetenza, sco er en cas da conflicts armads.
+
+<sup>2</sup> En enclegientscha cun ils chantuns pertutgads po ella surpigliar la coordinaziun ed eventualmain la direcziun en cas d’eveniments che pertutgan plirs chantuns, l’entira Svizra u l’exteriur vischin.
+
+<sup>3</sup>
+
+L’organ da coordinaziun da la Confederaziun per la protecziun da la populaziun è il Stab federal Protecziun da la populaziun. Quel ha las suandantas incumbensas:
+
+- a. coordinar las planisaziuns da prevenziun, las preparaziuns e las intervenziuns da las organisaziuns d’intervenziun spezialisadas sco er dals ulteriurs posts e da las ulteriuras organisaziuns;
+- b. garantir l’abilitad da direcziun;
+- c. garantir la communicaziun tranter la Confederaziun, ils chantuns, ils gestiunaris d’infrastructuras criticas e las autoritads d’auters pajais;
+- d. garantir las analisas coordinadas da la situaziun tranter la Confederaziun, ils chantuns, ils gestiunaris d’infrastructuras criticas e las autoritads d’auters pajais;
+- e. garantir il management da las resursas civilas.
+
+<sup>4</sup> Il Cussegl federal regla l’organisaziun dal Stab federal Protecziun da la populaziun. En spezial po el prevair ch’ils chantuns sco er ils ulteriurs posts e las ulteriuras organisaziuns collavurian en il Stab federal Protecziun da la populaziun.
+
+#### Art. 8
+
+**Protecziun d’infrastructuras criticas**
+
+<sup>1</sup> La Confederaziun elavura las basas per proteger las infrastructuras criticas.
+
+<sup>2</sup> L’Uffizi federal da protecziun da la populaziun (UFPP) maina in inventari dals objects d’infrastructuras criticas ed actualisescha regularmain quest inventari.
+
+<sup>3</sup> Il UFPP coordinescha las mesiras da planisaziun e da protecziun dals gestiunaris d’infrastructuras criticas, en spezial las mesiras dals gestiunaris d’infrastructuras criticas d’impurtanza naziunala, e collavura cun els per quest intent.
+
+#### Art. 9
+
+**Avertiment, alarm ed infurmaziun en cas d’eveniments**
+
+<sup>1</sup>
+
+Il UFPP è cumpetent per ils suandants sistems:
+
+- a. sistems per avertir las autoritads da privels smanatschants;
+- b. sistems per alarmar la populaziun en cas d’eveniments;
+- c. sistems per infurmar la populaziun en cas da privels smanatschants ed en cas d’eveniments.
+
+<sup>2</sup> El maina in sistem per alarmar la populaziun.
+
+<sup>3</sup> El maina ulteriurs sistems per derasar infurmaziuns ed instrucziuns da cumportament.
+
+<sup>4</sup> La Confederaziun maina in radio per cas d’urgenza.
+
+<sup>5</sup> La Confederaziun procura ch’ils sistems tenor l’alinea 1 literas b e c sco er tenor ils alineas 2–4 sajan accessibels er per persunas cun impediments.
+
+<sup>6</sup>
+
+Il Cussegl federal po delegar cumpetenzas legislativas al UFPP per reglar:
+
+- a. la derasaziun d’infurmaziuns e d’instrucziuns da cumportament;
+- b. ils aspects tecnics dals sistems per avertir las autoritads sco er per alarmar e per infurmar la populaziun ed ils aspects tecnics dal radio per cas d’urgenza.
+
+#### Art. 10
+
+**Centrala naziunala d’alarm**
+
+<sup>1</sup> Il UFPP maina la Centrala naziunala d’alarm (CENAL).
+
+<sup>2</sup> Il Cussegl federal fixescha las incumbensas da la CENAL. El regla las cumpetenzas, las prescripziuns ed ils andaments concernent l’avertiment, l’alarm e l’infurmaziun.
+
+#### Art. 11
+
+**Labor Spiez**
+
+<sup>1</sup> Il UFPP maina il Labor Spiez per garantir la protecziun ABC.
+
+<sup>2</sup>
+
+Il Labor Spiez è cumpetent en spezial per:
+
+- a. ademplir analisas da referenza ed incumbensas diagnosticas en il sectur ABC;
+- b. sustegnair las finamiras da la Confederaziun en il sectur da la controlla da l’armament e da la nunderasaziun d’armas da destrucziun en massa ABC;
+- c. sustegnair ils posts uffizials tar las acquisiziuns da material ABC;
+- d. sustegnair ils posts uffizials en dumondas concepziunalas da la gestiun d’eveniments ABC;
+- e. analisar las periclitaziuns ABC;
+- f. garantir la perscrutaziun ed il svilup en il sectur ABC.
+
+#### Art. 12
+
+**Organisaziuns d’intervenziun spezialisadas**
+
+<sup>1</sup> La Confederaziun sustegna ils chantuns tras organisaziuns d’intervenziun spezialisadas en il sectur ABC. Ella po sustegnair er auters stadis.
+
+<sup>2</sup> La Confederaziun ed ils chantuns fan cunvegnas da prestaziun per reglar las prestaziuns sco er la disponibladad d’in tal sustegn che las organisaziuns d’intervenziun spezialisadas porschan als chantuns en il sectur ABC.
+
+<sup>3</sup> La Confederaziun po sustegnair las organisaziuns d’intervenziun ABC cun material d’intervenziun.
+
+<sup>4</sup> Ella maina ulteriuras organisaziuns d’intervenziun spezialisadas ordaifer il sectur ABC e las metta a disposiziun als posts pertutgads en cas d’in eveniment.
+
+<sup>5</sup> Il Cussegl federal po delegar cumpetenzas legislativas al UFPP per garantir ch’il material acquistà da la Confederaziun stettia a disposiziun per las intervenziuns.
+
+#### Art. 13
+
+**Perscrutaziun e svilup**
+
+<sup>1</sup> En collavuraziun cun ils chantuns e cun ulteriurs posts procura il UFPP per la perscrutaziun e per il svilup en il sectur la protecziun da la populaziun, en spezial en ils secturs da l’analisa da las periclitaziuns e da las ristgas, dal svilup tecnic sco er da la gestiun da catastrofas e da situaziuns d’urgenza.
+
+<sup>2</sup> En il rom da la perscrutaziun e dal svilup en il sectur da la protecziun da la populaziun collavura il UFPP cun partenaris naziunals ed internaziunals.
+
+### 3. chapitel Incumbensas dals chantuns e da terzas persunas
+
+#### Art. 14
+
+**Incumbensas generalas**
+
+<sup>1</sup> Ils chantuns reglan en spezial l’instrucziun, la direcziun e las intervenziuns da las organisaziuns partenarias da la protecziun da la populaziun sco er dals ulteriurs posts e da las ulteriuras organisaziuns.
+
+<sup>2</sup> Els reglan la collavuraziun interchantunala.
+
+#### Art. 15
+
+**Direcziun e coordinaziun**
+
+Ils chantuns èn cumpetents per las suandantas incumbensas directivas:
+
+- a. nominar organs directivs per garantir l’abilitad da direcziun e la gestiun d’eveniments gronds, da catastrofas e da situaziuns d’urgenza;
+- b. coordinar las planisaziuns da prevenziun, las preparaziuns e las intervenziuns da las organisaziuns partenarias sco er dals ulteriurs posts e da las ulteriuras organisaziuns;
+- c. garantir la disponibladad da la protecziun da la populaziun en vista a conflicts armads.
+
+#### Art. 16
+
+**Avertiment, alarm ed infurmaziun en cas d’eveniments**
+
+<sup>1</sup> En collavuraziun cun la Confederaziun procuran ils chantuns per l’avertiment dals posts cumpetents e per l’alarm da la populaziun.
+
+<sup>2</sup> En collavuraziun cun la Confederaziun procuran els per l’infurmaziun da la populaziun en cas d’eveniments.
+
+#### Art. 17
+
+**Sistem d’alarm d’aua**
+
+<sup>1</sup> Ils gestiunaris d’implants d’accumulaziun cun in sistem d’alarm d’aua tenor l’artitgel 11 da la Lescha federala dal 1. d’october 2010[^17-1] davart ils implants d’accumulaziun procuran per la realisaziun, per il mantegniment e per la renovaziun da las installaziuns architectonicas che tutgan tar il sistem d’alarm d’aua, ma che n’èn betg parts integralas dal sistem tenor l’artitgel 9 alinea 2 da questa lescha.
+
+<sup>2</sup> Il Cussegl federal regla las pretensiuns tecnicas envers ils sistems d’alarm d’aua ed envers las installaziuns architectonicas sco er las cumpetenzas ed ils andaments per l’avertiment e per l’alarm.
+
+<sup>3</sup> El po delegar cumpetenzas legislativas al UFPP per reglar ils aspects tecnics.
+
+[^17-1]: [SR 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+
+### 4. chapitel Sistems da communicaziun cuminaivels da la Confederaziun, dals chantuns e da terzas persunas
+
+#### Art. 18
+
+**Sistem da func mobil da segirezza**
+
+<sup>1</sup> La Confederaziun ed ils chantuns endrizzan e mainan cuminaivlamain in sistem da func mobil da segirezza per la collavuraziun interchantunala e transorganisaziunala da las autoritads e da las organisaziuns da salvament e da segirezza sco er da terzas persunas.
+
+<sup>2</sup> La Confederaziun è cumpetenta per las cumponentas centralas dal sistem da func mobil da segirezza, per las cumponentas decentralas che sa chattan entaifer ses champ da cumpetenza sco er per la segirezza dal provediment d’electricitad.
+
+<sup>3</sup> Ella guarda che l’entir sistem funcziunia.
+
+<sup>4</sup> Ils chantuns èn cumpetents per las cumponentas decentralas dal sistem, per las qualas la Confederaziun n’è betg cumpetenta, sco er per la segirezza da lur provediment d’electricitad.
+
+<sup>5</sup> Il Cussegl federal fixescha las singulas incumbensas e regla ils aspects tecnics. El po delegar cumpetenzas legislativas al UFPP per reglar ils aspects tecnics.
+
+<sup>6</sup> El po fixar termins da realisaziun per ils chantuns e per terzas persunas e far prescripziuns davart la conservaziun da la valur.
+
+<sup>7</sup> Suenter avair consultà ils chantuns decida el davart la terminaziun u davart il remplazzament dal sistem.
+
+#### Art. 19
+
+**Sistem naziunal per in barat da datas segir**
+
+<sup>1</sup> La Confederaziun ed ils chantuns endrizzan e mainan cuminaivlamain in sistem naziunal per in barat da datas segir che permetta ina communicaziun segira tranter la Confederaziun, ils chantuns ed ils gestiunaris d’infrastructuras criticas. Quest sistem sa cumpona da la rait per in barat da datas segir, dal sistem d’access a las datas e dal sistem da communicaziun da datas. El po vegnir utilisà d’ulteriurs sistems.
+
+<sup>2</sup> La Confederaziun è cumpetenta per las cumponentas centralas dal sistem, per las cumponentas decentralas che sa chattan entaifer ses champ da cumpetenza sco er per la segirezza dal provediment d’electricitad.
+
+<sup>3</sup> Ella guarda che l’entir sistem funcziunia.
+
+<sup>4</sup> Ils chantuns èn cumpetents per las cumponentas decentralas dal sistem, per las qualas la Confederaziun n’è betg cumpetenta, en spezial per la segirezza da lur provediment d’electricitad.
+
+<sup>5</sup> Las terzas persunas èn cumpetentas per las cumponentas decentralas dal sistem, per las qualas ni la Confederaziun ni ils chantuns n’èn cumpetents; en spezial èn ellas cumpetentas per la colliaziun da lur raits cun il sistem naziunal e per la segirezza da lur provediment d’electricitad.
+
+<sup>6</sup> Il Cussegl federal fixescha las singulas incumbensas e regla ils aspects tecnics sco er las prescripziuns per ulteriuras utilisaziuns. El po delegar cumpetenzas legislativas al UFPP per reglar ils aspects tecnics.
+
+<sup>7</sup> El po fixar termins da realisaziun per ils chantuns e per terzas persunas e far prescripziuns davart la conservaziun da la valur.
+
+<sup>8</sup> Suenter avair consultà ils chantuns decida el davart la terminaziun u davart il remplazzament dal sistem.
+
+#### Art. 20
+
+**Sistem da communicaziun mobil segir a bindel lad**
+
+<sup>1</sup> La Confederaziun ed ils chantuns pon endrizzar e manar cuminaivlamain in sistem da communicaziun mobil segir a bindel lad per la collavuraziun interchantunala e transorganisaziunala da las autoritads e da las organisaziuns da salvament e da segirezza sco er da terzas persunas.
+
+<sup>2</sup> La Confederaziun è cumpetenta per las cumponentas centralas dal sistem, per las cumponentas decentralas che sa chattan entaifer ses champ da cumpetenza sco er per la segirezza dal provediment d’electricitad.
+
+<sup>3</sup> Ella guarda che l’entir sistem funcziunia.
+
+<sup>4</sup> Ils chantuns èn cumpetents per las cumponentas decentralas dal sistem, per las qualas la Confederaziun n’è betg cumpetenta, sco er per la segirezza da lur provediment d’electricitad.
+
+<sup>5</sup> Il Cussegl federal fixescha las singulas incumbensas e regla ils aspects tecnics. El po delegar cumpetenzas legislativas al UFPP per reglar ils aspects tecnics.
+
+<sup>6</sup> El po fixar termins da realisaziun per ils chantuns e per terzas persunas e far prescripziuns davart la conservaziun da la valur.
+
+<sup>7</sup> Suenter avair consultà ils chantuns decida el davart la terminaziun u davart il remplazzament dal sistem.
+
+<sup>8</sup> La Confederaziun, singuls chantuns e terzas persunas pon realisar in sistem parzial en il rom d’in project da pilot. Il Cussegl federal regla las cundiziuns per in tal project da pilot. Il UFPP procura per la coordinaziun.
+
+#### Art. 21
+
+**Sistem naziunal per analisas da la situaziun coordinadas**
+
+<sup>1</sup> La Confederaziun ed ils chantuns pon endrizzar e manar cuminaivlamain in sistem naziunal per analisas da la situaziun coordinadas che permetta in barat d’infurmaziuns tranter la Confederaziun, ils chantuns e terzas persunas en cas d’eveniments.
+
+<sup>2</sup> La Confederaziun è cumpetenta per las cumponentas centralas dal sistem, per las cumponentas decentralas che sa chattan entaifer ses champ da cumpetenza sco er per la segirezza dal provediment d’electricitad.
+
+<sup>3</sup> Ella guarda che l’entir sistem funcziunia.
+
+<sup>4</sup> Ils chantuns èn cumpetents per las cumponentas decentralas dal sistem, per las qualas la Confederaziun n’è betg cumpetenta, en spezial per ils sistems electronics da preschentaziun da la situaziun e per la segirezza da lur provediment d’electricitad.
+
+<sup>5</sup> Las terzas persunas èn cumpetentas per las cumponentas decentralas dal sistem, per las qualas ni la Confederaziun ni ils chantuns n’èn cumpetents; en spezial èn ellas cumpetentas per ils sistems electronics da preschentaziun da la situaziun e per la segirezza da lur provediment d’electricitad.
+
+<sup>6</sup> Il Cussegl federal fixescha las singulas incumbensas e regla ils aspects tecnics. El po delegar cumpetenzas legislativas al UFPP per reglar ils aspects tecnics.
+
+<sup>7</sup> El po fixar termins da realisaziun per ils chantuns e per terzas persunas e far prescripziuns davart la conservaziun da la valur.
+
+<sup>8</sup> Suenter avair consultà ils chantuns decida el davart la terminaziun u davart il remplazzament dal sistem.
+
+### 5. chapitel Instrucziun
+
+#### Art. 22
+
+<sup>1</sup>
+
+La Confederaziun coordinescha sin plaun naziunal l’instrucziun dals appartegnents da las organisaziuns partenarias en quai che reguarda la collavuraziun. Ella coordinescha ils exercizis tranter las organisaziuns partenarias ed:
+
+- a. ils organs directivs;
+- b. l’armada;
+- c. ils posts e las organisaziuns tenor l’artitgel 3 alinea 3.
+
+<sup>2</sup> Il UFPP procura per las purschidas d’instrucziun da basa e d’instrucziun supplementara per ils organs directivs chantunals.
+
+<sup>3</sup> El procura per l’instrucziun areguard il diever da cumponentas da sistems da communicaziun en il sectur da la protecziun da la populaziun sco er dals sistems per avertir las autoritads e per alarmar ed infurmar la populaziun.
+
+<sup>4</sup> Cun ils chantuns, cun terzas persunas e cun las autoritads cumpetentas da l’exteriur vischin po el concluder d’organisar ulteriuras instrucziuns ed ulteriurs exercizis.
+
+<sup>5</sup> El po porscher ulteriuras instrucziuns en il sectur da la protecziun da la populaziun.
+
+<sup>6</sup> El maina in center d’instrucziun.
+
+<sup>7</sup> Il Cussegl federal regla las cumpetenzas en il sectur da l’instrucziun.
+
+### 6. chapitel Finanziaziun
+
+#### Art. 23
+
+**Sistem da func mobil da segirezza**
+
+<sup>1</sup>
+
+La Confederaziun surpiglia ils custs per:
+
+- a. metter a disposiziun, tegnair en funcziun, garantir il mantegniment sco er conservar la valur da las cumponentas centralas dal sistem da func mobil da segirezza e plinavant ils custs correspundents da las cumponentas decentralas, per las qualas la Confederaziun è cumpetenta;
+- b. metter a disposiziun, tegnair en funcziun, garantir il mantegniment sco er conservar la valur da ses implants da transmissiun e da lur infrastructuras;
+- c. metter a disposiziun ils apparats finals e colliar ils posts da cumond da las autoritads e da las organisaziuns da salvament e da segirezza sin plaun federal.
+
+<sup>2</sup>
+
+Ils chantuns surpiglian ils custs per:
+
+- a. metter a disposiziun, tegnair en funcziun, garantir il mantegniment sco er conservar la valur da las cumponentas decentralas dal sistem da func mobil da segirezza e da las infrastructuras da lur raits parzialas;
+- b. colliar las infrastructuras da lur raits parzialas cun las cumponentas centralas;
+- c. stabilir las colliaziuns redundantas tranter las raits parzialas, uschenavant che quellas n’èn betg ina cumponenta dal sistem naziunal per in barat da datas segir;
+- d. metter a disposiziun ils apparats finals sin plaun chantunal, nun che la Confederaziun haja cumprà quels (art. 76 al. 1);
+- e. colliar ils posts da cumond da las autoritads e da las organisaziuns da salvament e da segirezza sin plaun chantunal.
+
+<sup>3</sup> Il Cussegl federal fixescha ils custs ch’ils gestiunaris da raits parzialas ston surpigliar per il cundiever d’implants da transmissiun da la Confederaziun.
+
+<sup>4</sup> Las terzas persunas surpiglian ils custs da lur apparats finals.
+
+<sup>5</sup> Il Cussegl federal po fixar ch’ils chantuns u terzas persunas ston surpigliar ils custs supplementars ch’els chaschunan a la Confederaziun pervia da retards tar la realisaziun da mesiras da mantegniment u da mesiras da la conservaziun da la valur.
+
+#### Art. 24
+
+**Sistem d’alarm, infurmaziun en cas d’eveniments e radio per cas d’urgenza**
+
+- [tab] <sup>1</sup> La Confederaziun surpiglia ils custs per il sistem d’alarm, per ils sistems d’infurmaziun en cas d’eveniments sco er per il radio per cas d’urgenza.
+- [tab] <sup>2</sup> Ils gestiunaris d’implants d’accumulaziun surpiglian ils custs per tegnair en funcziun e per garantir il mantegniment da las cumponentas decentralas dal sistem d’alarm d’aua. Il Cussegl federal regla ils detagls.
+
+#### Art. 25
+
+**Sistem naziunal per in barat da datas segir, sistem da communicaziun mobil segir a bindel lad e sistem naziunal per analisas da la situaziun coordinadas**
+
+<sup>1</sup>
+
+Per il sistem naziunal per in barat da datas segir, per il sistem da communicaziun mobil segir a bindel lad e per il sistem naziunal per analisas da la situaziun coordinadas surpiglia la Confederaziun ils suandants custs:
+
+- a. tut ils custs da las investiziuns e da la conservaziun da la valur cun caracter d’investiziun da las cumponentas centralas;
+- b. ils custs d’investiziun, da manaschi, da mantegniment, da la conservaziun da la valur en il sectur dal manaschi sco er da la conservaziun da la valur cun caracter d’investiziun da las cumponentas decentralas, per las qualas la Confederaziun è cumpetenta;
+- c. proporziunalmain ils custs da manaschi, da mantegniment sco er da la conservaziun da la valur da las cumponentas centralas.
+
+<sup>2</sup>
+
+Ils chantuns e las terzas persunas pertutgadas surpiglian ils suandants custs:
+
+- a. proporziunalmain ils custs da manaschi, da mantegniment sco er da la conservaziun da la valur da las cumponentas centralas;
+- b. ils custs d’investiziun, da manaschi, da mantegniment, da la conservaziun da la valur en il sectur dal manaschi sco er da la conservaziun da la valur cun caracter d’investiziun da las cumponentas decentralas, per las qualas la Confederaziun n’è betg cumpetenta.
+
+<sup>3</sup> Ils chantuns e las terzas persunas ch’èn participads ad in project da pilot per in sistem da communicaziun mobil segir a bindel lad (art. 20 al. 8) surpiglian ils custs respectivs. Sch’il sistem vegn realisà silsuenter sin plaun naziunal, restituescha la Confederaziun ils custs da las cumponentas centralas als chantuns ed a las terzas persunas participadas. Il Cussegl federal regla ils detagls da la surpigliada dals custs. Per quest intent taidla el ils chantuns.
+
+#### Art. 26
+
+**Instrucziun**
+
+<sup>1</sup> La Confederaziun ed ils chantuns surpiglian ils custs per las instrucziuns tenor l’artitgel 22 che pertutgan lur champs da cumpetenza.
+
+<sup>2</sup> Il Cussegl federal regla ils detagls da la surpigliada dals custs.
+
+#### Art. 27
+
+**Ulteriurs custs**
+
+La Confederaziun surpiglia ils custs per:
+
+- a. las atgnas activas da perscrutaziun e da svilup (art. 13);
+- b. las organisaziuns d’intervenziun spezialisadas (art. 12);
+- c. il material d’intervenziun per las organisaziuns d’intervenziun ABC (art. 12 al. 3);
+- d. las atgnas activitads da la collavuraziun cun ils chantuns, cun las organisaziuns partenarias e cun ils gestiunaris d’infrastructuras criticas (art. 4).
+
+## 3. titel Protecziun civila
+
+### 1. chapitel Incumbensas
+
+#### Art. 28
+
+<sup>1</sup>
+
+La protecziun civila ademplescha las suandantas incumbensas en cas d’eveniments gronds, da catastrofas, da situaziuns d’urgenza e da conflicts armads:
+
+- a. proteger e salvar la populaziun;
+- b. assister persunas che tschertgan protecziun;
+- c. sustegnair ils organs directivs;
+- d. sustegnair autras organisaziuns partenarias;
+- e. proteger ils bains culturals.
+
+<sup>2</sup>
+
+Ella po plinavant vegnir engaschada per:
+
+- a. mesiras preventivas per impedir u per reducir donns;
+- b. lavurs da reparaziun suenter cas da donn;
+- c. intervenziuns a favur da la communitad.
+
+### 2. chapitel Obligaziun da far servetsch da protecziun civila
+
+### 1. secziun Circul da persunas, durada, recrutaziun, relaschada ed exclusiun
+
+#### Art. 29
+
+**Persunas obligadas da far servetsch da protecziun civila**
+
+<sup>1</sup> Obligads da far servetsch da protecziun civila èn tut ils umens cun dretg da burgais svizzer ch’èn abels da far quest servetsch.
+
+<sup>2</sup>
+
+Betg obligà da far servetsch da protecziun civila n’è, tgi che:
+
+- a. è obligà da far servetsch militar u servetsch civil;
+- b. ha absolvì la scola da recrut;
+- c. ha fatg servetsch militar e civil durant almain uschè blers dis, sco quai che la scola da recrut dura;
+- d. è domicilià a l’exteriur.
+
+<sup>3</sup> Il Cussegl federal regla las excepziuns per ils Svizzers a l’exteriur ch’èn domiciliads en l’exteriur vischin (al. 2 lit. d).
+
+#### Art. 30
+
+**Dispensaziun da commembers d’autoritads**
+
+Las suandantas persunas na ston betg far servetsch da protecziun civila, uschè ditg ch’ellas exequeschan lur funcziun:
+
+- a. ils commembers dal Cussegl federal;
+- b. il chancelier federal ed il vicechancelier;
+- c. ils commembers da l’Assamblea federala;
+- d. ils derschaders ordinaris dals tribunals da la Confederaziun;
+- e. ils commembers da las executivas chantunalas;
+- f. ils commembers da las dretgiras chantunalas en uffizi principal;
+- g. ils commembers da las executivas communalas.
+
+#### Art. 31
+
+**Adempliment e durada da l’obligaziun da far servetsch da protecziun civila**
+
+<sup>1</sup> L’obligaziun da far servetsch da protecziun civila sto vegnir ademplida tranter il di che la persuna cumplenescha 18 onns e la fin da l’onn ch’ella cumplenescha 36 onns.
+
+<sup>2</sup> Ella dura 12 onns.
+
+<sup>3</sup> Ella cumenza l’onn che l’instrucziun da basa vegn absolvida, il pli tard dentant l’onn che la persuna cumplenescha 25 onns.
+
+<sup>4</sup> Ella è ademplida suenter totalmain 245 dis da servetsch prestads. I n’exista nagin dretg da far totalmain 245 dis da servetsch.
+
+<sup>5</sup> Per sutuffiziers superiurs e per uffiziers dura l’obligaziun da far servetsch da protecziun civila fin la fin da l’onn ch’els cumpleneschan 40 onns, independentamain dal cumenzament e dals di da servetsch.
+
+<sup>6</sup> Sche la fin da l’obligaziun da far servetsch da protecziun civila croda ensemen cun ina intervenziun en cas d’ina catastrofa u d’ina situaziun d’urgenza, sa prolunghescha l’obligaziun da far servetsch da protecziun civila fin la fin da l’intervenziun.
+
+<sup>7</sup>
+
+Il Cussegl federal po:
+
+- a. prolungar la durada da l’obligaziun da far servetsch da protecziun civila a maximalmain 14 onns ed ordinar che l’obligaziun da far servetsch da protecziun civila cumenzia pli tard, ma l’obligaziun da far servetsch da protecziun civila sto cumenzar il pli tard quel onn che las persunas obligadas da far servetsch da protecziun civila cumpleneschan 23 onns;
+- b. suttametter persunas relaschadas da l’obligaziun da far servetsch da protecziun civila danovamain a l’obligaziun da far servetsch da protecziun civila, e quai fin 5 onns suenter lur relaschada, per pussibilitar d’augmentar da l’effectiv da la protecziun civila, en spezial en cas d’in conflict armà.
+
+<sup>8</sup> Sin dumonda d’in chantun pertutgà d’ina catastrofa u d’ina situaziun d’urgenza da lunga durada po el prolungar l’obligaziun da far servetsch da protecziun civila per maximalmain 100 dis, sche l’obligaziun da far servetsch da protecziun civila finiss – pervia da la catastrofa u pervia da la situaziun d’urgenza – per memia bleras persunas obligadas da far servetsch da protecziun civila il medem mument e sche la capacitad d’intervenziun fiss periclitada pervia da quai.
+
+#### Art. 32
+
+**Obligaziun extendida da far servetsch da protecziun civila en cas da conflicts armads**
+
+En cas da conflicts armads po il Cussegl federal suttametter a l’obligaziun da far servetsch da protecziun civila supplementarmain persunas che n’èn betg pli obligadas da far servetsch militar u servetsch da protecziun civila.
+
+#### Art. 33
+
+**Servetsch da protecziun voluntar**
+
+<sup>1</sup>
+
+Las suandantas persunas pon far voluntarmain servetsch da protecziun civila:
+
+- a. umens ch’èn relaschads da l’obligaziun da far servetsch da protecziun civila;
+- b. umens che n’èn betg pli obligads da far servetsch militar u servetsch da protecziun civila;
+- c. dunnas cun dretg da burgais svizzer a partir dal di ch’ellas cumpleneschan 18 onns;
+- d. persunas estras domiciliadas en Svizra a partir dal di ch’ellas cumpleneschan 18 onns.
+
+<sup>2</sup> Ils chantuns decidan davart l’admissiun. I n’exista nagin dretg da far servetsch da protecziun civila.
+
+<sup>3</sup> Las persunas che fan voluntarmain servetsch da protecziun civila han ils medems dretgs e las medemas obligaziuns sco las persunas ch’èn obligadas da far servetsch da protecziun civila.
+
+<sup>4</sup> Sin dumonda vegnan ellas relaschadas il pli baud suenter 3 onns da l’obligaziun da far servetsch da protecziun civila. Sin basa d’ina dumonda motivada vegnan ellas relaschadas pli baud.
+
+<sup>5</sup> Ellas vegnan relaschadas d’uffizi da l’obligaziun da far servetsch da protecziun civila, cur ch’ellas retiran ina renta da vegliadetgna tenor la Lescha federala dals 20 da december 1946[^33-1] davart l’assicuranza per vegls e survivents.
+
+[^33-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 34
+
+**Recrutaziun**
+
+<sup>1</sup> La recrutaziun serva a giuditgar l’abilitad da far servetsch da protecziun civila. Ella ha lieu a medem temp sco la recrutaziun per l’armada.
+
+<sup>2</sup>
+
+Betg recrutadas per la protecziun civila na vegnan persunas obligadas da far la mustra che:
+
+- a. èn insupportablas per l’armada pervia d’ina sentenzia penala tenor l’artitgel 21 alinea 1 da la Lescha militara dals 3 da favrer 1995[^34-1]; u
+- b. n’èn betg en cas d’ademplir las pretensiuns dal servetsch militar per motivs psichics, perquai ch’ellas mussan particularitads che laschan temair ch’ellas hajan in potenzial da violenza.
+
+[^34-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 35
+
+**Incorporaziun da las persunas obligadas da far servetsch da protecziun civila**
+
+<sup>1</sup> Las persunas obligadas da far servetsch da protecziun civila stattan da princip a disposiziun a lur chantun da domicil. En enclegientscha cun ils chantuns pertutgads pon ellas vegnir attribuidas ad in auter chantun.
+
+<sup>2</sup> Il chantun, al qual ina persuna obligada da far servetsch da protecziun civila è attribuida, decida davart l’incorporaziun.
+
+<sup>3</sup> Las persunas obligadas da far servetsch da protecziun civila che sa domicilieschan a l’exteriur vegnan registradas en la reserva da persunal. Cur ch’ellas returnan en Svizra, pon ellas vegnir reincorporadas, premess ch’ellas sajan anc obligadas da far servetsch da protecziun civila.
+
+<sup>4</sup> En il rom da lur pussaivladads mettan ils chantuns a disposiziun a la Confederaziun persunas obligadas da far servetsch da protecziun civila ch’èn adattadas per ademplir sias incumbensas. Per quest intent pon la Confederaziun ed ils chantuns far cunvegnas da prestaziun.
+
+#### Art. 36
+
+**Reserva da persunal**
+
+<sup>1</sup> Persunas obligadas da far servetsch da protecziun civila vegnan registradas en ina reserva naziunala da persunal e na vegnan betg instruidas.
+
+<sup>2</sup> En cas da basegn pon ellas vegnir messas a disposiziun ad in chantun e vegnir incorporadas da quest chantun.
+
+<sup>3</sup> I n’exista nagin dretg da vegnir incorporà e da prestar servetsch da protecziun civila.
+
+#### Art. 37
+
+**Relaschada anticipada**
+
+<sup>1</sup> Sin dumonda pon ils chantuns relaschar anticipadamain las persunas obligadas da far servetsch da protecziun civila, sche quellas vegnan duvradas d’ina organisaziun partenaria tenor l’artitgel 3.
+
+<sup>2</sup> Il Cussegl federal fixescha, tge persunas obligadas da far servetsch da protecziun civila che vegnan relaschadas anticipadamain e tgeninas che pon vegnir reincorporadas en la protecziun civila. El designescha las organisaziuns partenarias autorisadas e regla la procedura sco er las premissas per ina relaschada anticipada e per ina reincorporaziun en la protecziun civila.
+
+#### Art. 38
+
+**Exclusiun**
+
+Las persunas obligadas da far servetsch da protecziun civila che vegnan sentenziadas ad in chasti da detenziun u ad in chasti pecuniar d’almain 30 taxas per di, pon vegnir exclusas dal servetsch da protecziun civila.
+
+### 2. secziun Dretgs ed obligaziuns da las persunas obligadas da far servetsch da protecziun civila
+
+#### Art. 39
+
+**Sold, alimentaziun, transport ed alloschi**
+
+<sup>1</sup>
+
+Las persunas obligadas da far servetsch da protecziun civila han il dretg:
+
+- a. d’in sold;
+- b. d’alimentaziun gratuita;
+- c. da l’utilisaziun gratuita dals meds da transport publics per entrar en servetsch e per la relaschada sco er per sa spustar tranter il lieu da servetsch ed il lieu da domicil durant ils congedis;
+- d. d’in alloschi gratuit, sch’ellas na pon betg duvrar l’alloschi privat.
+
+<sup>2</sup> Il Cussegl federal regla las premissas per ils dretgs tenor l’alinea 1. El po fixar che la convocaziun dettia il dretg d’utilisar ils meds da transport publics.
+
+#### Art. 40
+
+**Indemnisaziun da la perdita da gudogn**
+
+Las persunas obligadas da far servetsch da protecziun civila han il dretg d’ina indemnisaziun da la perdita da gudogn tenor la Lescha dals 25 da settember 1952[^40-1] davart l’urden da cumpensaziun dal gudogn.
+
+[^40-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+#### Art. 41
+
+**Taxa d’exemziun dal servetsch militar**
+
+Per calcular la taxa d’exemziun tenor la Lescha federala dals 12 da zercladur 1959[^41-1] davart la taxa d’exemziun dal servetsch militar vegnan mess a quint a las persunas che fan servetsch da protecziun civila tut ils dis da servetsch da protecziun civila ch’ellas han prestà en il rom da lur obligaziun da far servetsch da protecziun civila, per ils quals vegn pajà in sold.
+
+[^41-1]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+
+#### Art. 42
+
+**Assicuranza**
+
+<sup>1</sup> Las persunas che fan servetsch da protecziun civila èn assicuradas tenor la Lescha federala dals 19 da zercladur 1992[^42-1] davart l’assicuranza militara (LAM).
+
+<sup>2</sup> Il UFPP decretescha disposiziuns per prevegnir ad accidents ed a donns da la sanadad en il sectur da la protecziun civila.
+
+[^42-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+#### Art. 43
+
+**Durada maximala dals servetschs da protecziun civila**
+
+Ils servetschs da protecziun civila tenor ils artitgels 49–53 na dastgan tut en tut betg surpassar 66 dis per onn.
+
+#### Art. 44
+
+**Obligaziuns**
+
+<sup>1</sup> Las persunas obligadas da far servetsch da protecziun civila ston suandar las ordinaziuns da servetsch.
+
+<sup>2</sup> Ellas pon vegnir obligadas da surpigliar funcziuns da cader e d’ademplir ils servetschs da protecziun civila correspundents.
+
+<sup>3</sup> Ils caders èn plinavant obligads d’ademplir obligaziuns ordaifer il servetsch, en spezial da preparar servetschs d’instrucziun ed intervenziuns da la protecziun civila.
+
+<sup>4</sup> Las persunas obligadas da far servetsch da protecziun civila èn obligadas da s’annunziar. Il Cussegl federal regla il gener e la dimensiun da las obligaziuns d’annunzia.
+
+<sup>5</sup> Las persunas obligadas da far servetsch da protecziun civila dastgan duvrar lur equipament persunal mo en il rom da servetschs da protecziun civila.
+
+### 3. secziun Convocaziun ed incumbensas da controlla
+
+#### Art. 45
+
+**Convocaziun a l’instrucziun**
+
+<sup>1</sup> La convocaziun als servetschs d’instrucziun e d’instrucziun supplementara tenor ils artitgels 49–52 sco er als curs da repetiziun tenor l’artitgel 53 vegn emessa dals chantuns. Ils chantuns reglan la convocaziun.
+
+<sup>2</sup> Il UFPP regla la convocaziun als servetschs d’instrucziun e d’instrucziun supplementara tenor l’artitgel 54 alineas 2–4.
+
+<sup>3</sup> La convocaziun sto vegnir consegnada a las persunas obligadas da far servetsch da protecziun civila almain 6 emnas avant il cumenzament dal servetsch.
+
+<sup>4</sup> Las dumondas da spustar servetschs ston vegnir drizzadas al post che ha emess la convocaziun.
+
+#### Art. 46
+
+**Convocaziun ad intervenziuns en cas d’eveniments gronds, da catastrofas, da situaziuns d’urgenza e da conflicts armads**
+
+<sup>1</sup>
+
+Il Cussegl federal po convocar las persunas obligadas da far servetsch da protecziun civila en ils suandants cas:
+
+- a. catastrofas e situaziuns d’urgenza che pertutgan plirs chantuns u l’entira Svizra;
+- b. catastrofas e situaziuns d’urgenza che pertutgan l’exteriur vischin;
+- c. conflicts armads.
+
+<sup>2</sup> Ils chantuns pon convocar las persunas obligadas da far servetsch da protecziun civila en cas d’eveniments gronds, da catastrofas e situaziuns d’urgenza che pertutgan il territori chantunal u l’exteriur vischin; els pon er convocar las persunas obligadas da far servetsch da protecziun civila per sustegnair auters chantuns pertutgads.
+
+<sup>3</sup> Ils chantuns reglan la procedura da la convocaziun.
+
+<sup>4</sup> Il UFPP regla la procedura da la convocaziun per persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun per ademplir incumbensas tenor l’artitgel 35 alinea 4.
+
+#### Art. 47
+
+**Controllas**
+
+<sup>1</sup> Ils chantuns fan la controlla da las persunas obligadas da far servetsch da protecziun civila. Questa controlla vegn exequida en il Sistem d’infurmaziun dal persunal da l’armada e da la protecziun civila (PISA).
+
+<sup>2</sup>
+
+Il UFPP controllescha, sche:
+
+- a. las duradas maximalas tenor ils artitgels 43 e 49–53 vegnan observadas;
+- b. las intervenziuns a favur da la communitad tenor l’artitgel 53 alinea 3 correspundan a las incumbensas da la protecziun civila.
+
+<sup>3</sup> Sche las duradas maximalas tenor ils artitgels 43 e 49–53 vegnan surpassadas, ordinescha il UFPP al chantun pertutgà da betg convocar las persunas obligadas da far servetsch da protecziun civila ed infurmescha l’Uffizi central da cumpensaziun.
+
+<sup>4</sup> Il UFPP fa la controlla da las persunas obligadas da far servetsch da protecziun civila che vegnan engaschadas per ademplir incumbensas tenor l’artitgel 35 alinea 4. La controlla vegn exequida en il PISA.
+
+<sup>5</sup> Il Cussegl federal fixescha la dimensiun da la controlla tenor l’alinea 1. El po decretar regulaziuns da gener administrativ e tecnic concernent l’utilisaziun dal PISA.
+
+<sup>6</sup> El regla la procedura da controlla tenor l’alinea 2.
+
+### 3. chapitel Instrucziun
+
+#### Art. 48
+
+**Cumpetenza dals chantuns**
+
+Ils chantuns èn cumpetents per l’instrucziun, nun ch’i saja fixà insatge auter en questa lescha.
+
+#### Art. 49
+
+**Instrucziun da basa**
+
+<sup>1</sup> Las persunas obligadas da far servetsch da protecziun civila che vegnan incorporadas suenter la recrutaziun, absolvan l’instrucziun da basa il pli baud a partir dal di ch’ellas cumpleneschan 18 onns, il pli tard dentant fin la fin da l’onn ch’ellas cumpleneschan 25 onns.
+
+<sup>2</sup> L’instrucziun da basa dura 10–19 dis.
+
+<sup>3</sup> En cas d’ina midada da l’incorporaziun pon las persunas obligadas da far servetsch da protecziun civila vegnir obligadas da puspè absolver ina instrucziun da basa en lur nov sectur specific. Ils chantuns decidan davart la midada da l’incorporaziun.
+
+<sup>4</sup> Las persunas obligadas da far servetsch da protecziun civila che na vegnan betg incorporadas suenter la recrutaziun e ch’èn registradas en la reserva da persunal senza instrucziun da basa, pon vegnir convocadas a l’instrucziun da basa fin a la fin da l’onn ch’ellas cumpleneschan 30 onns.
+
+<sup>5</sup> Persunas ch’èn pli veglias che 24 onns il mument ch’ellas vegnan natiralisadas, vegnan annunziadas dals chantuns per la recrutaziun. Ellas absolvan ina instrucziun da basa fin il pli tard a la fin da l’onn ch’ellas cumpleneschan 30 onns.
+
+<sup>6</sup> Persunas che fan voluntarmain servetsch da protecziun civila, absolvan l’instrucziun da basa entaifer 3 onns suenter la recrutaziun. Sch’ina persuna dispona gia d’ina instrucziun equivalenta, decida il chantun, sch’ella sto absolver l’instrucziun da basa.
+
+#### Art. 50
+
+**Instrucziun supplementara**
+
+<sup>1</sup> Persunas obligadas da far servetsch da protecziun civila ch’èn previsas per incumbensas spezialas, pon vegnir convocadas per mintga incumbensa speziala ad ina instrucziun supplementara da maximalmain 19 dis.
+
+<sup>2</sup> Il Cussegl federal po prolungar la durada da l’instrucziun supplementara a maximalmain 54 dis.
+
+#### Art. 51
+
+**Instrucziun da cader**
+
+<sup>1</sup> Persunas obligadas da far servetsch da protecziun civila ch’èn previsas per funcziuns da cader, absolvan per mintga funcziun da cader ina instrucziun da cader.
+
+<sup>2</sup> L’instrucziun da cader sa cumpona d’ina part teoretica e d’ina part pratica. Ella dura maximalmain 19 dis.
+
+<sup>3</sup>
+
+Il Cussegl federal regla l’instrucziun da cader. El fixescha en spezial:
+
+- a. las cumpetenzas, la divisiun da l’instrucziun da cader en singuls moduls e las cundiziuns d’admissiun;
+- b. ils servetschs d’instrucziun ch’èn necessaris per cuntanscher in grad superiur e la durada da quests servetschs.
+
+#### Art. 52
+
+**Instrucziun supplementara**
+
+Persunas obligadas da far servetsch da protecziun civila en funcziuns da cader u da spezialists pon vegnir convocadas a curs d’instrucziun supplementara da maximalmain 5 dis per onn.
+
+#### Art. 53
+
+**Curs da repetiziun**
+
+<sup>1</sup> Suenter l’instrucziun da basa vegnan las persunas obligadas da far servetsch da protecziun civila convocadas mintga onn a curs da repetiziun da 3–21 dis.
+
+<sup>2</sup> Ils curs da repetiziun servan en spezial a cuntanscher ed a mantegnair la disponibladad da la protecziun civila per las intervenziuns.
+
+<sup>3</sup> Las intervenziuns a favur da la communitad vegnan realisadas sco curs da repetiziun.
+
+<sup>4</sup> Ils curs da repetiziun pon vegnir absolvids er en l’exteriur vischin.
+
+<sup>5</sup>
+
+Il Cussegl federal fixescha las premissas e la procedura da permissiun per intervenziuns a favur da la communitad; el regla en spezial:
+
+- a. il scumond d’intervenziuns a favur da l’agen patrun;
+- b. l’obligaziun d’assegnar ina quota dal gudogn al Fond da cumpensaziun da l’urden da cumpensaziun dal gudogn.
+
+#### Art. 54
+
+**Cumpetenzas e prescripziuns dal UFPP**
+
+<sup>1</sup> En collavuraziun cun ils chantuns elavura il UFPP las basas per ina instrucziun unitara.
+
+<sup>2</sup>
+
+Il UFPP è cumpetent per:
+
+- a. l’instrucziun centrala dals uffiziers concernent la direcziun;
+- b. l’instrucziun specifica da caders e da spezialists;
+- c. l’instrucziun da las persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun a la Confederaziun per ademplir incumbensas tenor l’artitgel 35 alinea 4.
+
+<sup>3</sup> El po sa cunvegnir cun ils chantuns ch’el organiseschia instrucziuns ed instrucziuns supplementaras per ils chantuns.
+
+<sup>4</sup> El po pussibilitar als appartegnents da las organisaziuns partenarias sco er als posts ed a las organisaziuns tenor l’artitgel 3 da sa participar a sia purschida d’instrucziun.
+
+<sup>5</sup>
+
+El regla:
+
+- a. ils cuntegns da l’instrucziun da la protecziun civila;
+- b. las premissas per scursanir servetschs d’instrucziun.
+
+#### Art. 55
+
+**Scolaziun dal persunal d’instrucziun**
+
+<sup>1</sup> Il UFPP procura per la scolaziun dal persunal d’instrucziun per la protecziun civila.
+
+<sup>2</sup> Il UFPP pussibilitescha al persunal d’instrucziun da las organisaziuns partenarias tenor l’artitgel 3 da sa participar a sia purschida d’instrucziun.
+
+<sup>3</sup> Il UFPP regla la scolaziun dal persunal d’instrucziun per la protecziun civila e la participaziun dal persunal d’instrucziun da las organisaziuns partenarias tenor l’artitgel 3 als servetschs d’instrucziun da la protecziun civila.
+
+#### Art. 56
+
+**Infrastructura d’instrucziun**
+
+<sup>1</sup> Il UFPP maina in center naziunal d’instrucziun da la protecziun civila.
+
+<sup>2</sup> Ils chantuns annunzian al UFPP l’aboliziun da centers chantunals d’instrucziun da la protecziun civila.
+
+<sup>3</sup> Sche centers chantunals d’instrucziun da la protecziun civila vegnan abolids, na ston vegnir restituidas naginas contribuziuns a la Confederaziun; exceptadas èn contribuziuns federalas per l’acquist dal terren, sch’il terren vegn vendì cun gudogn.
+
+### 4. chapitel Dretgs ed obligaziuns da terzas persunas
+
+#### Art. 57
+
+**Proprietaris da chasas e locataris**
+
+<sup>1</sup> Ils proprietaris da chasas ed ils locataris èn obligads da realisar las mesiras ch’èn vegnidas prescrittas ad els.
+
+<sup>2</sup> Sch’i vegn ordinà da retrair ils locals da protecziun, ston els metter a disposiziun gratuitamain las plazzas protegidas betg duvradas.
+
+#### Art. 58
+
+**Utilisaziun da proprietad e dretg da requisiziun**
+
+<sup>1</sup> Ils proprietaris ed ils locataris èn obligads da tolerar acts uffizials ed installaziuns tecnicas sin lur bains immobigliars. In’eventuala reducziun da la valur vegn indemnisada commensuradamain.
+
+<sup>2</sup> En cas d’eveniments gronds, da catastrofas, da situaziuns d’urgenza e da conflicts armads ha la protecziun civila il dretg da requirir sut las medemas cundiziuns sco l’armada.
+
+#### Art. 59
+
+**Garanzia da l’assicuranza militara per persunas privatas**
+
+Persunas privatas che vegnan obligadas da prestar agid a chaschun d’ina intervenziun da la protecziun civila, èn assicuradas tenor la LAM[^59-1].
+
+[^59-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+### 5. chapitel Ovras da protecziun
+
+### 1. secziun Locals da protecziun e contribuziuns substitutivas
+
+#### Art. 60
+
+**Princip**
+
+A mintga abitant sto vegnir mess a disposiziun ina plazza protegida en in local da protecziun en la vischinanza da ses domicil.
+
+#### Art. 61
+
+**Obligaziun da construcziun ed obligaziun da pajar contribuziuns substitutivas**
+
+<sup>1</sup> Sch’ina vischnanca dispona da memia paucas plazzas protegidas, ston ils proprietaris da chasas d’abitar construir ed equipar locals da protecziun, cur ch’els fabritgan las chasas d’abitar. Sch’ils proprietaris na ston betg construir locals da protecziun, ston els pajar ina contribuziun substitutiva.
+
+<sup>2</sup> Ils proprietaris da chasas da dimora u d’ospitals ston construir ed equipar locals da protecziun, cur ch’els fabritgan las chasas da dimora u ils ospitals. Sche quai n’è betg pussaivel per motivs tecnics, ston els pajar ina contribuziun substitutiva.
+
+<sup>3</sup> Las vischnancas procuran ch’i stettian a disposiziun avunda plazzas protegidas publicas equipadas en territoris cun memia paucas plazzas protegidas.
+
+#### Art. 62
+
+**Regulaziun da la construcziun da locals da protecziun, utilisaziun ed autezza da las contribuziuns substitutivas**
+
+<sup>1</sup> Ils chantuns reguleschan la construcziun da locals da protecziun per garantir ina purschida suffizienta da plazzas protegidas sco er ina repartiziun adequata da questas plazzas.
+
+<sup>2</sup> Las contribuziuns substitutivas tenor l’artitgel 61 alineas 1 e 2 van als chantuns.
+
+<sup>3</sup>
+
+Ellas servan a finanziar ils locals da protecziun publics da las vischnancas ed a renovar locals da protecziun publics e privats. Ils meds finanzials restants dastgan vegnir duvrads mo per:
+
+- a. midar l’utilisaziun da stabiliments da protecziun per intents liads a la protecziun civila;
+- b. demontar stabiliments da protecziun, sche quels vegnan utilisads vinavant per intents da la protecziun civila (art. 91 al. 3);
+- c. cumprar material tenor l’artitgel 92 litera c;
+- d. far las controllas periodicas dals locals da protecziun;
+- e. cuvrir ils custs administrativs dal fond da las contribuziuns substitutivas;
+- f. ademplir las incumbensas d’instrucziun en il sectur da la protecziun civila.
+
+<sup>4</sup> Il Cussegl federal fixescha las cundiziuns generalas per la regulaziun da la construcziun da locals da protecziun, per l’autezza da las contribuziuns substitutivas e per l’utilisaziun dals meds finanzials restants (al. 3).
+
+<sup>5</sup> Sin dumonda dal UFPP al preschentan ils chantuns in rapport davart l’utilisaziun da las contribuziuns substitutivas.
+
+#### Art. 63
+
+**Permissiuns da construcziun**
+
+<sup>1</sup> Permissiuns da construir chasas d’abitar, chasas dimora ed ospitals dastgan vegnir concedidas pir, cur ch’ils posts cumpetents han decidì davart l’obligaziun da construir in local da protecziun.
+
+<sup>2</sup> Per garantir che las prescripziuns per la construcziun da locals da protecziun vegnian observadas, pon ils chantuns pretender ch’il patrun da construcziun prestia ina segirezza.
+
+#### Art. 64
+
+**Protecziun dals bains culturals**
+
+<sup>1</sup> Ils chantuns pon obligar ils proprietaris ed ils possessurs da bains culturals immovibels u movibels d’impurtanza naziunala da prender u da tolerar mesiras architectonicas per proteger quests bains.
+
+<sup>2</sup> Il Cussegl federal fixescha las pretensiuns minimalas envers las mesiras architectonicas per proteger bains culturals d’impurtanza naziunala sco er las pretensiuns envers las installaziuns da locals per la protecziun da bains culturals.
+
+#### Art. 65
+
+**Mantegniment**
+
+Il mantegniment dals locals da protecziun è chaussa dal proprietari.
+
+#### Art. 66
+
+**Aboliziun**
+
+<sup>1</sup> Ils locals da protecziun vegnan abolids tras ils chantuns.
+
+<sup>2</sup> Il Cussegl federal fixescha las premissas.
+
+### 2. secziun Stabiliments da protecziun
+
+#### Art. 67
+
+**Tips da stabiliments da protecziun**
+
+Stabiliments da protecziun èn:
+
+- a. ils posts da commando;
+- b. ils stabiliments da preparaziun;
+- c. ils posts da sanitad protegids;
+- d. ils ospitals protegids.
+
+#### Art. 68
+
+**Regulaziuns da la Confederaziun**
+
+<sup>1</sup> Per garantir ina disponibladad suffizienta dals stabiliments da protecziun regla il Cussegl federal – suenter avair consultà ils chantuns – la construcziun, l’equipament, il mantegniment, la renovaziun e la midada d’utilisaziun dals stabiliments da protecziun.
+
+<sup>2</sup> El regla la planisaziun dal basegn concernent ils stabiliments da protecziun. La planisaziun dal basegn cumpiglia ils stabiliments da protecziun che pon vegnir tegnids en funcziun en reguard tecnic e persunal.
+
+<sup>3</sup> El fixescha, en tge intervals che la planisaziun sto vegnir actualisada.
+
+<sup>4</sup> El po delegar cumpetenzas legislativas al UFPP per reglar ils detagls tecnics en quest sectur.
+
+<sup>5</sup> Il UFPP regla ils aspects tecnics dal mantegniment e da la renovaziun dals stabiliments da protecziun.
+
+#### Art. 69
+
+**Incumbensas dals chantuns**
+
+<sup>1</sup> Ils chantuns fixeschan il basegn da stabiliments da protecziun.
+
+<sup>2</sup> Els suttamettan la planisaziun dal basegn al UFPP per l’approvaziun.
+
+<sup>3</sup> Els procuran per la construcziun, per l’equipament, per il mantegniment e per la renovaziun dals posts da commando, dals stabiliments da preparaziun e dals posts da sanitad protegids.
+
+#### Art. 70
+
+**Incumbensas dals purtaders dals ospitals**
+
+Ils purtaders dals ospitals procuran per la construcziun, per l’equipament, per il mantegniment e per la renovaziun dals ospitals protegids.
+
+#### Art. 71
+
+**Aboliziun**
+
+<sup>1</sup> Ils stabiliments da protecziun dastgan vegnir abolids mo cun l’approvaziun dal UFPP.
+
+<sup>2</sup> Sche posts da sanitad protegids u ospitals protegids vegnan abolids, sto vegnir garantida la cumpensaziun dals letgs da pazients, resguardond la planisaziun dal basegn.
+
+<sup>3</sup> Il UFPP regla la procedura per l’approvaziun da l’aboliziun.
+
+### 3. secziun Disposiziuns cuminaivlas
+
+#### Art. 72
+
+**Pretensiuns minimalas**
+
+Il Cussegl federal fixescha las pretensiuns minimalas per las ovras da protecziun.
+
+#### Art. 73
+
+**Disponibladad**
+
+Ils proprietaris ed ils possessurs d’ovras da protecziun ston procurar che quellas possian vegnir prendidas en funcziun sin ordinaziun da la Confederaziun.
+
+#### Art. 74
+
+**Execuziun d’uffizi**
+
+Sch’in proprietari u in possessur d’ina ovra da protecziun na realisescha betg las mesiras prescrittas, ston quellas vegnir ordinadas da l’autoritad federala u chantunala cumpetenta e, sche necessari, vegnir realisadas sin donn e cust dal proprietari u dal possessur.
+
+#### Art. 75
+
+**Delegaziun da cumpetenzas legislativas**
+
+Il Cussegl federal po delegar cumpetenzas legislativas al UFPP en il sectur da las ovras da protecziun per reglar:
+
+- a. la projectaziun, la construcziun, l’equipament, la qualitad, la renovaziun, l’utilisaziun, il mantegniment, las controllas periodicas sco er l’aboliziun;
+- b. la regulaziun da la construcziun da locals da protecziun e la planisaziun da l’attribuziun;
+- c. l’utilisaziun tras terzas persunas;
+- d. las pretensiuns envers la procedura per l’admissiun da cumponentas che ston vegnir examinadas.
+
+### 6. chapitel Material d’intervenziun e material per ils stabiliments da protecziun
+
+#### Art. 76
+
+<sup>1</sup>
+
+La Confederaziun è cumpetenta per cumprar:
+
+- a. il material standardisà da la protecziun civila;
+- b. ils meds da communicaziun da la protecziun civila, inclusiv ils apparats finals dal sistem da func mobil da segirezza;
+- c. l’equipament ed il material per ils stabiliments da protecziun;
+- d. l’equipament persunal ed il material d’intervenziun da las persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun per ademplir incumbensas tenor l’artitgel 35 alinea 4.
+
+<sup>2</sup> En enclegientscha cun ils chantuns po ella surpigliar l’acquisiziun dal material d’intervenziun e da l’equipament persunal da las persunas obligadas da far servetsch da protecziun civila.
+
+<sup>3</sup> Il Cussegl federal fixescha il gener e la quantitad dal material standardisà tenor l’alinea 1 litera d. El po far prescripziuns concernent l’organisaziun, l’instrucziun e las intervenziuns.
+
+<sup>4</sup> El po delegar cumpetenzas legislativas al UFPP per garantir ch’il material e l’equipament tenor l’alinea 1 stettian a disposiziun per las intervenziuns.
+
+### 7. chapitel Segn distinctiv internaziunal e carta d’identitad da la protecziun civila
+
+#### Art. 77
+
+<sup>1</sup> Il persunal ed il material da la protecziun civila sco er las ovras da protecziun vegnan munids cun il segn distinctiv internaziunal da la protecziun civila.
+
+<sup>2</sup>
+
+Cun il segn distinctiv pon er vegnir munidas:
+
+- a. persunas privatas che dattan suatientscha ad in appel da las autoritads cumpetentas e che surpiglian incumbensas da la protecziun civila sut lur direcziun;
+- b. persunas che lavuran per posts federals, chantunals e communals e che adempleschan incumbensas administrativas per la protecziun civila.
+
+<sup>3</sup> Las persunas obligadas da far servetsch da protecziun civila survegnan il document d’identitad per il persunal da la protecziun civila.
+
+<sup>4</sup> La concepziun dal segn distinctiv e dal document d’identitad sa drizza tenor il Protocol supplementar dals 8 da zercladur 1977[^77-1] a las Convenziuns da Genevra dals 12 d’avust 1949 davart la protecziun da las victimas da conflicts armads internaziunals.
+
+[^77-1]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+
+### 8. chapitel Responsabladad per donns
+
+#### Art. 78
+
+**Princips**
+
+<sup>1</sup> La Confederaziun, ils chantuns u las vischnancas stattan buns per tut ils donns ch’il persunal d’instrucziun sco er las persunas obligadas da far servetsch da protecziun civila chaschunan illegalmain ademplind las incumbensas da la protecziun civila, nun ch’els cumprovian ch’il donn saja vegnì chaschunà tras forza superiura ubain per culpa da las persunas donnegiadas u da terzas persunas.
+
+<sup>2</sup> Star buna per ils donns sto la communitad, a la quala appartegna il post che ha emess la convocaziun.
+
+<sup>3</sup> Per causals ch’èn suttamess ad autras disposiziuns da responsabladad, han quellas disposiziuns la preferenza envers questa lescha.
+
+<sup>4</sup> Las persunas donnegiadas na pon far valair naginas pretensiuns envers il persunal d’instrucziun u envers las persunas obligadas da far servetsch da protecziun civila.
+
+<sup>5</sup> Las disposiziuns da quest chapitel valan er per ils exercizis cuminaivels da la protecziun civila cun autras organisaziuns partenarias tenor l’artitgel 3 u cun l’armada.
+
+<sup>6</sup> En cas d’in conflict armà n’èn las disposiziuns da quest chapitel betg applitgablas.
+
+#### Art. 79
+
+**Regress ed indemnisaziun**
+
+<sup>1</sup> Sche la Confederaziun, ils chantuns u las vischnancas han indemnisà il donn, han els il dretg da prender regress sin il persunal d’instrucziun sco er sin las persunas obligadas da far servetsch da protecziun civila che han chaschunà il donn intenziunadamain u per greva negligientscha.
+
+<sup>2</sup> Tgi che dumonda ina intervenziun da la protecziun civila a favur da la communitad sin plaun naziunal (art. 53 al. 3), sto indemnisar la Confederaziun, ils chantuns u las vischnancas per las prestaziuns furnidas a terzas persunas en cas d’in donn e na po far valair naginas pretensiuns d’indemnisaziun envers questas communitads per donns chaschunads directamain ad el; resalvadas restan las pretensiuns pervia da donns chaschunads intenziunadamain u per greva negligientscha.
+
+#### Art. 80
+
+**Responsabladad envers la Confederaziun, ils chantuns e las vischnancas**
+
+<sup>1</sup> Il persunal d’instrucziun sco er las persunas obligadas da far servetsch da protecziun civila stattan buns per il donn ch’els chaschunan directamain a la Confederaziun, als chantuns u a las vischnancas, violond intenziunadamain u per greva negligientscha lur obligaziuns.
+
+<sup>2</sup> Els èn responsabels per il material che vegn surdà ad els e stattan buns per donns chaschunads intenziunadamain u per greva negligientscha.
+
+<sup>3</sup> Ils contabilists èn responsabels per la contabilitad, per ils daners e per ils meds finanzials confidads ad els sco er per l’utilisaziun da tals confurm a las prescripziuns. Els stattan buns per donns chaschunads intenziunadamain u per greva negligientscha; il medem vala per ils organs che han l’incumbensa da controllar la contabilitad, sch’els violeschan lur obligaziuns da controlla.
+
+#### Art. 81
+
+**Fixaziun da l’indemnisaziun**
+
+<sup>1</sup> Per fixar l’indemnisaziun valan ils artitgels 42, 43 alineas 1 ed 1<sup>bis</sup>, 44 alinea 1, 45–47, 49 e 53 dal Dretg d’obligaziuns (DO)[^81-1] tenor il senn.
+
+<sup>2</sup> Per la responsabladad dal persunal d’instrucziun u da las persunas obligadas da far servetsch da protecziun civila vegnan ultra da quai resguardads lur cumportament durant il servetsch, lur relaziuns finanzialas ed il gener dal servetsch.
+
+[^81-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 82
+
+**Donnegiament u perdita da proprietad persunala**
+
+<sup>1</sup> Il persunal d’instrucziun sco er las persunas obligadas da far servetsch da protecziun civila ston surpigliar sezs ils custs che resultan da la perdita e dal donnegiament da lur proprietad.
+
+<sup>2</sup> Sch’il donn è vegnì chaschunà tras in accident da servetsch u è la consequenza directa da l’execuziun d’in cumond, pajan la Confederaziun, ils chantuns u las vischnancas ina indemnisaziun commensurada.
+
+<sup>3</sup> Sche la persuna donnegiada è sezza la culpa, po l’indemnisaziun vegnir reducida commensuradamain. En quest connex vegni er resguardà, sche l’utilisaziun da l’object privat era necessaria per il servetsch.
+
+#### Art. 83
+
+**Surannaziun**
+
+<sup>1</sup> Pretensiuns d’indemnisaziun envers la Confederaziun, envers ils chantuns u envers las vischnancas tenor ils artitgels 78 e 82 suranneschan tenor las disposiziuns dal DO[^83-1] davart ils acts illegals. Sco plant en il senn da l’artitgel 135 cifra 2 DO vala er ina pretensiun d’indemnisaziun che vegn fatga valair en scrit envers la Confederaziun, envers ils chantuns u envers las vischnancas.
+
+<sup>2</sup> Il dretg da regress da la Confederaziun, dals chantuns e da las vischnancas tenor l’artitgel 79 alinea 1 surannescha entaifer 3 onns, suenter che la responsabladad da la Confederaziun, dals chantuns e da las vischnancas è vegnida renconuschida u constatada cun vigur legala, en mintga cas dentant suenter 10 onns u, en cas dal mazzament d’in uman u en cas da blessuras corporalas, suenter 20 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà.
+
+<sup>3</sup> La pretensiun d’indemnisaziun da la Confederaziun, dals chantuns e da las vischnancas tenor l’artitgel 80 surannescha entaifer 3 onns, suenter che la Confederaziun, il chantun u la vischnanca ha survegnì enconuschientscha dal donn e da la persuna responsabla, en mintga cas dentant suenter 10 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà.
+
+<sup>4</sup> Sche la persuna responsabla ha commess in malfatg tras ses cumportament donnegiant, surannescha il dretg d’indemnisaziun il pli baud cun il cumenzament da la surannaziun da la persecuziun penala. Sche la surannaziun da la persecuziun penala na cumenza betg pli en consequenza d’ina sentenzia penala da l’emprima instanza, surannescha il dretg il pli baud 3 onns suenter la communicaziun da la sentenzia.
+
+[^83-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### 9. chapitel Dretg da recurs e procedura
+
+### 1. secziun Pretensiuns da natira betg patrimoniala
+
+#### Art. 84
+
+**Giudicament da l’abilitad da far servetsch da protecziun civila**
+
+<sup>1</sup> Cunter la decisiun d’ina cumissiun d’inquisiziun medicinala davart il giudicament da l’abilitad da far servetsch da protecziun civila poi vegnir fatg recurs tar in’autra cumissiun d’inquisiziun medicinala. Quella decida definitivamain.
+
+<sup>2</sup> Il dretg da far recurs ha la persuna giuditgada u sia represchentanza legala.
+
+#### Art. 85
+
+**Attribuziun ad ina funcziun**
+
+Tgi che n’è betg d’accord cun l’attribuziun ad ina funcziun en la protecziun civila, po far recurs tar il Departament federal da defensiun, protecziun da la populaziun e sport (DDPS). Il DDPS decida definitivamain.
+
+#### Art. 86
+
+**Recurs cunter decisiuns d’ultima instanza da dretgiras chantunalas**
+
+<sup>1</sup> En dispitas da natira betg patrimoniala poi vegnir fatg recurs tar il Tribunal administrativ federal cunter decisiuns chantunalas da l’ultima instanza; exceptà è il sectur da las convocaziuns.
+
+<sup>2</sup> Il DDPS po far recurs tar il Tribunal administrativ federal cunter decisiuns chantunalas da l’ultima instanza. Sin dumonda dal DDPS al mettan las autoritads chantunalas che decidan sco ultima instanza, a disposiziun immediatamain e gratuitamain lur decisiuns.
+
+### 2. secziun Pretensiuns da natira patrimoniala
+
+#### Art. 87
+
+<sup>1</sup> Ils chantuns designeschan las autoritads che decidan sin plaun chantunal u communal davart pretensiuns d’indemnisaziun e davart pretensiuns da regress concernent donns ch’èn resultads durant servetschs da protecziun civila chantunals u communals. Cunter las decisiuns da questas autoritads poi vegnir fatg recurs tar il Tribunal administrativ federal.
+
+<sup>2</sup> Il UFPP decida davart pretensiuns d’indemnisaziun e davart pretensiuns da regress concernent donns ch’èn resultads durant servetschs da protecziun civila che pertutgan la cumpetenza da convocaziun da la Confederaziun.
+
+<sup>3</sup> Davart pretensiuns da natira patrimoniala da la Confederaziun u cunter la Confederaziun che na sa basan betg sin questa lescha, ma che concernan la responsabladad per donns, decida il UFPP.
+
+### 10. chapitel Disposiziuns penalas
+
+#### Art. 88
+
+**Cuntravenziuns cunter questa lescha**
+
+<sup>1</sup>
+
+Cun in chasti pecuniar vegn chastià, tgi che fa sapientivamain il suandant:
+
+- a. na dat – sco persuna obligada da far servetsch da protecziun civila – betg suatientscha ad ina convocaziun, banduna il servetsch senza permissiun, na returna betg pli suenter in’absenza permessa, surpassa in congedi u sa sustira en autra moda dal servetsch da protecziun civila;
+- b. disturba ils servetschs d’instrucziun u las intervenziuns da la protecziun civila u impedescha persunas che fan servetsch da protecziun civila;
+- c. incitescha publicamain da refusar servetschs da protecziun civila u mesiras ordinadas da las autoritads.
+
+<sup>2</sup> Tgi che agescha per negligientscha en ils cas tenor l’alinea 1, vegn chastià cun ina multa.
+
+<sup>3</sup>
+
+Cun ina multa vegn chastià, tgi che fa sapientivamain il suandant:
+
+- a.
+
+  sco persuna obligada da far servetsch da protecziun civila:
+
+  - 1\. refusa da surpigliar ina incumbensa u ina funcziun attribuida en il sectur da la protecziun civila,
+  - 2\. n’observa betg las ordinaziuns da servetsch,
+  - 3\. dovra l’equipament persunal ordaifer ils servetschs da protecziun civila,
+  - 4\. cuntrafa a las obligaziuns d’annunzia ch’èn regladas sin basa da l’artitgel 44 alinea 4;
+
+- b. n’observa betg las ordinaziuns d’alarm e las instrucziuns da cumportament;
+- c. fa abus dal segn distinctiv internaziunal da la protecziun civila u dal document d’identitad per il persunal da la protecziun civila.
+
+<sup>4</sup> Tgi che agescha per negligientscha en ils cas tenor l’alinea 3 litera a cifras 2–4 sco er literas b e c, vegn chastià cun ina multa fin 5000 francs.
+
+<sup>5</sup> Sche la culpa e las consequenzas dal malfatg èn pitschnas, po l’autoritad cumpetenta desister d’ina denunzia penala; ella po admonir la persuna pertutgada.
+
+<sup>6</sup> Resalvadas restan la persecuziun penala e las pretensiuns civilas tenor autras leschas.
+
+#### Art. 89
+
+**Cuntravenziuns cunter decrets executivs**
+
+<sup>1</sup> Tgi che cuntrafa intenziunadamain a las prescripziuns ch’èn vegnidas decretadas en execuziun da questa lescha e ch’èn vegnidas decleradas per chastiablas en cas d’in surpassament, renviond a la smanatscha da chasti da quest artitgel, vegn chastià cun ina multa.
+
+<sup>2</sup> En cas grevs u en cas da recidiva vegn il delinquent chastià cun ina multa fin 20 000 francs. Sch’il delinquent agescha per negligientscha, vegn el chastià cun ina multa fin 5000 francs.
+
+<sup>3</sup> Sche la culpa e las consequenzas dal malfatg èn pitschnas, po l’autoritad cumpetenta desister d’ina denunzia penala; ella po admonir la persuna pertutgada.
+
+#### Art. 90
+
+**Persecuziun penala**
+
+La persecuziun ed il giudicament d’acts chastiabels èn chaussa dals chantuns.
+
+### 11. chapitel Finanziaziun
+
+#### Art. 91
+
+**Confederaziun**
+
+<sup>1</sup>
+
+La Confederaziun surpiglia ils custs per:
+
+- a. la recrutaziun da las persunas obligadas da far servetsch da protecziun civila;
+- b. l’instrucziun ch’ella sto organisar tenor questa lescha e l’infrastructura necessaria per quest intent;
+- c. las intervenziuns da las persunas obligadas da far servetsch da protecziun civila che vegnan convocadas dal Cussegl federal;
+- d. l’instrucziun, las intervenziuns e las controllas da las persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun per ademplir incumbensas tenor l’artitgel 35 alinea 4;
+- e. il material d’intervenziun ed il material per ils stabiliments da protecziun tenor l’artitgel 76 alinea 1;
+- f. il sold, la convocaziun, il viadi, l’alimentaziun e l’alloschi da las persunas obligadas da far servetsch da protecziun civila en cas d’intervenziuns a favur da la communitad sin plaun naziunal;
+- g. il rinforzament da la protecziun civila en cas da conflicts armads;
+- h. las intervenziuns en cas da conflicts armads;
+- i. l’investiziun, il manaschi, la garanzia dal mantegniment e la conservaziun da la valur da quella part dal PISA che serva a la controlla da las persunas obligadas da far servetsch da protecziun civila.
+
+<sup>2</sup> Ella surpiglia ils custs supplementars renconuschids per construir, per equipar e per renovar stabiliments da protecziun.
+
+<sup>3</sup> Ella surpiglia ils custs per la demontascha necessaria dals sistems tecnics dals stabiliments da protecziun che vegnan mess ord funcziun. Ella na surpiglia betg ils custs da demontascha, sch’il stabiliment da protecziun vegn utilisà vinavant per intents da la protecziun civila u sch’el vegn attribuì tras las autoritads cumpetentas u tras terzas persunas ad in’autra utilisaziun.
+
+<sup>4</sup> Sch’il dumber da letgs da pazients croda sut il dumber fixà en la planisaziun dal basegn pervia da l’aboliziun d’in post da sanitad protegì u d’in ospital protegì, na surpiglia la Confederaziun – en cas d’ina cumpensaziun – betg ils custs supplementars renconuschids per la construcziun e per l’equipament.
+
+<sup>5</sup> La Confederaziun surpiglia ils custs supplementars renconuschids per construir e per renovar locals per la protecziun da bains culturals per ils archivs chantunals e per las collecziuns d’impurtanza naziunala sco er per equipar quests locals.
+
+<sup>6</sup> Ella paja ina contribuziun pauschala annuala per garantir la disponibladad dals stabiliments da protecziun en cas da conflicts armads.
+
+<sup>7</sup> Per stabiliments da protecziun che n’èn betg cuntegnids en la planisaziun dal basegn approvada dal UFPP na surpiglia la Confederaziun betg ils custs supplementars renconuschids e na paja betg la contribuziun pauschala annuala.
+
+<sup>8</sup> La Confederaziun po sustegnair finanzialmain activitads d’organisaziuns publicas u privatas en il sectur da la protecziun civila.
+
+<sup>9</sup>
+
+Ella na sa participescha betg:
+
+- a. als custs per l’acquist da terren ed a las indemnisaziuns per far diever da terren public u privat;
+- b. a las taxas chantunalas e communalas;
+- c. als custs per il mantegniment ordinari dals stabiliments da protecziun.
+
+<sup>10</sup>
+
+Il Cussegl federal fixescha:
+
+- a. las premissas per surpigliar u per refusar ils custs supplementars renconuschids tenor ils alineas 2, 4 e 5 sco er per pajar u per refusar la contribuziun pauschala tenor l’alinea 6 e regla la procedura;
+- b. l’autezza dals custs supplementars renconuschids e da la contribuziun pauschala; el po fixar ina pauschala per ils custs supplementars renconuschids;
+- c. la surpigliada dals custs per intervenziuns a favur da la communitad.
+
+<sup>11</sup> Per intervenziuns a favur da la communitad sin plaun naziunal che vegnan indemnisadas als chantuns po il UFPP fixar pauschalas per mintga persuna che fa servetsch da protecziun civila.
+
+#### Art. 92
+
+**Chantuns**
+
+Ils chantuns surpiglian ils custs che la Confederaziun na surpiglia betg tenor l’artitgel 91, en spezial:
+
+- a. ils custs per las instrucziuns e per las intervenziuns da las persunas obligadas da far servetsch da protecziun civila;
+- b. ils custs per las instrucziuns da la Confederaziun che quella ha concludì cun ils chantuns tenor l’artitgel 54 alinea 3;
+- c. ils custs per il material d’intervenziun e per l’equipament persunal da las persunas obligadas da far servetsch da protecziun civila sco er ils custs che resultan a la Confederaziun per l’acquisiziun tenor l’artitgel 76 alinea 2.
+
+## 4. titel Datas persunalas
+
+#### Art. 93
+
+**Elavuraziun da datas**
+
+<sup>1</sup>
+
+Per ademplir sias incumbensas en il rom da la recrutaziun (art. 34) e da las incumbensas da controlla (art. 47) elavura il UFPP las datas persunalas da las persunas obligadas da far servetsch da protecziun civila en il PISA. En quest connex po el elavurar las suandantas datas persunalas spezialmain sensiblas ed ils suandants profils da la persunalitad:
+
+- a. datas davart la sanadad;
+- b.
+
+  profils da la persunalitad:
+
+  - 1\. per decider davart l’attribuziun da la funcziun da basa,
+  - 2\. per sclerir il potenzial per funcziuns da cader.
+
+<sup>2</sup>
+
+Per organisar las instrucziuns elavura il UFPP las datas persunalas dals participants dals curs en il sistem da gestiun d’occurrenzas. En quest connex po el elavurar las suandantas datas persunalas spezialmain sensiblas ed ils suandants profils da la persunalitad:
+
+- a. datas davart la sanadad;
+- b. profils da la persunalitad per giuditgar il potenzial per funcziuns da cader u da spezialists.
+
+<sup>3</sup> Ils chantuns pon elavurar las datas da las persunas obligadas da far servetsch da protecziun civila, uschenavant che quai è necessari per ademplir lur incumbensas tenor questa lescha. En spezial pon els elavurar las datas da la sanadad da las persunas obligadas da far servetsch da protecziun civila ch’èn necessarias per giuditgar l’abilitad per in servetsch vegnint.
+
+<sup>4</sup> Las datas tenor l’alinea 3 vegnan tegnidas en salv durant 5 onns suenter la relaschada da l’obligaziun da far servetsch da protecziun civila e vegnan lura destruidas.
+
+<sup>5</sup> Per ademplir lur incumbensas da controlla èn il UFPP ed ils chantuns autorisads da duvrar sistematicamain il numer d’assicuranza tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^93-1] davart l’assicuranza per vegls e survivents da las persunas, da las qualas els elavuran datas.
+
+[^93-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 94
+
+**Communicaziun da datas**
+
+<sup>1</sup> Ils posts chantunals ch’èn cumpetents per las controllas communitgeschan al UFPP las datas davart las persunas obligadas da far servetsch da protecziun civila che quel dovra per ademplir las incumbensas tenor questa lescha.
+
+<sup>2</sup> Els communitgeschan a l’assicuranza militara las datas davart las persunas obligadas da far servetsch da protecziun civila che quella dovra per ademplir sias incumbensas tenor la LAM[^94-1].
+
+<sup>3</sup> Als posts chantunals ch’èn cumpetents per l’instrucziun po il UFPP metter a disposiziun ils giudicaments dal potenzial per funcziuns da cader u da spezialists da las persunas ch’èn sa participadas las instrucziuns da la Confederaziun.
+
+[^94-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+## 5. titel Prestaziuns commerzialas dal UFPP
+
+#### Art. 95
+
+<sup>1</sup>
+
+Il UFPP po furnir prestaziuns commerzialas per terzas persunas, sche questas prestaziuns:
+
+- a. stattan en in stretg connex cun sias incumbensas principalas;
+- b. na pregiuditgeschan betg l’adempliment da las incumbensas principalas; e
+- c. na pretendan betg meds materials e persunals supplementars considerabels.
+
+<sup>2</sup> Las prestaziuns commerzialas ston vegnir furnidas sin basa d’ina contabilitad dals custs e da las prestaziuns almain per pretschs che cuvran ils custs. Il DDPS po prevair excepziuns per tschertas prestaziuns, premess che quellas na concurrenzeschian betg l’economia privata.
+
+## 6. titel Disposiziuns finalas
+
+#### Art. 96
+
+**Execuziun**
+
+L’execuziun da questa lescha è chaussa dals chantuns, nun ch’i saja fixà insatge auter.
+
+#### Art. 97
+
+**Delegaziun d’incumbensas executivas**
+
+En il rom da sia cumpetenza po la Confederaziun engaschar terzas persunas per l’execuziun da questa lescha e delegar incumbensas executivas ad ellas.
+
+#### Art. 98
+
+**Aboliziun e midada d’auters decrets**
+
+L’aboliziun e la midada d’auters decrets èn regladas en l’agiunta.
+
+#### Art. 99
+
+**Disposiziuns transitoricas**
+
+<sup>1</sup> Ils chantuns mettan anc a disposiziun las sirenas tenor las prescripziuns da la Confederaziun durant maximalmain fin 4 onns suenter l’entrada en vigur da questa lescha (art. 9 al. 2). Durant quest temp procuran els per il mantegniment e per la disponibladad permanenta da la sirenas. Per quest intent indemnisescha la Confederaziun ils chantuns cun maximalmain 400 francs per sirena e per onn.
+
+<sup>2</sup> Cun agid d’emprests senza tschains po la Confederaziun prefinanziar per ils chantuns la modernisaziun tecnica da lur implants da transmissiun acquistads dal sistem da func mobil da segirezza dal tip staziun da basa T-BS400e (art. 18 e 23), premess che questa soluziun permettia da scursanir il manaschi parallel e saja tut en tut pli economica. Ils chantuns restitueschan la prefinanziaziun fin il pli tard l’onn 2028.
+
+<sup>3</sup> Per persunas ch’èn gia stadas obligadas durant 12 onns da far servetsch da protecziun civila u che han gia fatg 245 dis da servetsch il mument che questa lescha entra en vigur, pon ils chantuns prevair che l’obligaziun da far servetsch da protecziun civila vegnia prolungada fin la fin da l’onn ch’ellas cumpleneschan 40 onns. L’obligaziun da far servetsch da protecziun civila dastga vegnir prolungada mo, sch’ella è indispensabla per mantegnair l’effectiv necessari da la protecziun civila e sche l’effectiv insuffizient è ina consequenza da la reducziun da la durada da l’obligaziun da far servetsch da protecziun civila tenor questa lescha. La prolungaziun da l’obligaziun da far servetsch da protecziun civila è pussaivla fin maximalmain 5 onns suenter l’entrada en vigur da questa lescha.
+
+<sup>4</sup> Ils chantuns inoltreschan al UFPP la planisaziun dal basegn per ils stabiliments da protecziun tenor l’artitgel 68 fin il pli tard 5 onns suenter l’entrada en vigur da questa lescha. Fin 6 onns suenter l’entrada en vigur da questa lescha paja la Confederaziun la pauschala annuala tenor il dretg vertent (art. 71 al. 3 da la Lescha federala dals 4 d’october 2002[^99-1] davart la protecziun da la populaziun e la protecziun civila). Durant quests 6 onns na vegnan concedidas naginas approvaziuns per abolir stabiliments da protecziun tenor l’artitgel 71.
+
+[^99-1]: [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+
+#### Art. 100
+
+**Referendum ed entrada en vigur**
+
+<sup>1</sup> Questa lescha è suttamessa al referendum facultativ.
+
+<sup>2</sup> Il Cussegl federal fixescha l’entrada en vigur.
+
+Data da l’entrada en vigur: 1. da schaner 2021[^100-1]
+
+[^100-1]: COCF dals 11 da nov. 2020
+
+Agiunta
+
+(art. 98)
+
+## Aboliziun e midada d’auters decrets
+
+I
+
+La Lescha federala dals 4 d’october 2002[^annexu1-lvlu1-1] davart la protecziun da la populaziun e davart la protecziun civila vegn abolida.
+
+II
+
+Ils decrets qua sutvart vegnan midads sco suonda:
+
+...[^annexu1-lvlu1-2]
+
+[^annexu1-lvlu1-1]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra II al. 1 lit. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)agiunta cifra 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)agiunta cifra 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)agiunta cifra 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)agiunta cifra 7]
+[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).

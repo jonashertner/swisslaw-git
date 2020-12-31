@@ -1,0 +1,249 @@
+---
+sr: "784.101.115"
+title: Règlement interne du 6 novembre 1997 de la ComCom
+eli: "https://fedlex.data.admin.ch/eli/cc/1998/65_65_65"
+language: fr
+version: 2021-01-01
+adopted: 1997-11-06
+in_force: 1997-12-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/65_65_65/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-65_65_65-20210101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/65_65_65/20210101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Règlement interne de la ComCom
+
+du 6 novembre 1997 (État le 1<sup>er</sup> janvier 2021)[^t-1]
+
+Approuvé par le Conseil fédéral le 15 décembre 1997
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+
+La Commission fédérale de la communication (ComCom),
+
+vu les art. 56, al. 3, et 62, al. 1, de la loi du 30 avril 1997 sur les télécommunications (LTC)[^ingress-1],
+
+arrête:[^ingress-2]
+
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+Le présent règlement régit l’organisation et l’exécution des tâches de la ComCom[^1-1] et les relations de cette dernière avec l’Office fédéral de la communication (OFCOM[^1-2]) en ce qui concerne l’exécution de ses tâches.
+
+[^1-1]: Nouvelle expression selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-2]: Nouveau terme selon le ch. I de l’O de la ComCom du 24 sept. 2009, approuvée par le CF le 4 nov. 2009 et en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5835](https://fedlex.data.admin.ch/eli/oc/2009/706)). Il a été tenu compte de cette modification dans tout le présent texte.
+
+#### Art. 2
+
+**La ComCom**
+
+<sup>1</sup> La ComCom est composée des membres nommés par le Conseil fédéral. Elle a son siège à Berne.[^2-1]
+
+<sup>2</sup> Elle peut constituer des comités en vue d’examiner certains dossiers.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+
+#### Art. 3
+
+**Le secrétariat**
+
+Le secrétariat est composé:
+
+- a. du responsable;
+- b. des employés.
+
+## Section 2 Compétences
+
+#### Art. 4
+
+**La ComCom**[^4-1]
+
+La ComCom est compétente en particulier pour:[^4-2]
+
+- a.[^4-3] octroyer les concessions de service universel (art. 14, al. 1, LTC) et les concessions pour l’utilisation du spectre des fréquences de radiocommunication destiné à la fourniture de services de télécommunication (art. 22*a*, al. 1, LTC);
+- b. arrêter une décision en matière d’accès et prendre les mesures provisionnelles qui s’imposent (art. 11*a*, al. 1, LTC);
+- c.[^4-4] statuer sur les litiges entre fournisseurs de services de télécommunication portant sur l’accès au point d’introduction au bâtiment ou sur les conditions de la co-utilisation d’installations domestiques (art. 35*b*, al. 5, LTC);
+- d.[^4-5] …
+- e. définir la nature des informations comptables et financières que les fournisseurs de services de télécommunication occupant une position dominante doivent produire dans le cadre d’une procédure en matière d’accès ainsi que les principes régissant leur présentation (art. 11*a*, al. 4, LTC);
+- f.[^4-6] …
+- g. prendre des mesures de surveillance et des sanctions administratives (art. 58, al. 4, et 60, al. 2, LTC);
+- h.[^4-7] interdire aux fournisseurs de services de télécommunication organisés selon une législation étrangère d’utiliser des fréquences de radiocommunication soumises à concession ou des ressources d’adressage gérées au niveau national si la réciprocité n’est pas garantie (art. 5 LTC);
+- i.[^4-8] assumer au niveau international les tâches qui relèvent de son domaine de compétence et représenter la Suisse dans les organisations internationales concernées (art. 64, al. 3, LTC).
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^4-5]: Abrogée par le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^4-6]: Abrogée par le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^4-7]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^4-8]: Introduite selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+
+#### Art. 5
+
+**Experts**
+
+La ComCom peut faire appel à des experts dans toute procédure.
+
+#### Art. 6
+
+**Politique et concept d’information**
+
+<sup>1</sup> La ComCom élabore un concept d’information interne.
+
+<sup>2</sup> Elle fixe les principes de sa politique d’information.
+
+#### Art. 7
+
+**Le secrétariat**
+
+<sup>1</sup> Le secrétariat assure le contact avec la ComCom et le suivi technique et administratif des dossiers. Il coordonne les dossiers entre la ComCom et l’OFCOM.
+
+<sup>2</sup> La ComCom nomme le personnel du secrétariat. Les rapports de service sont soumis à la législation fédérale en matière de personnel.
+
+#### Art. 8
+
+**L’OFCOM**
+
+<sup>1</sup>
+
+L’OFCOM prépare les dossiers de la ComCom, lui soumet des propositions et exécute ses décisions. Il accomplit ces tâches de manière indépendante, compte tenu des compétences de la ComCom et du pouvoir qu’a cette dernière d’émettre des directives. Ses tâches sont en particulier les suivantes:[^8-1]
+
+- a.[^8-2] octroyer les concessions de radiocommunication pour l’utilisation du spectre des fréquences non destiné à la fourniture de services de télécommunication (art. 22, al. 2, let. a, LTC) et les concessions de radiocommunication pour la fourniture de services de télécommunication pour lesquelles il a reçu la compétence de la ComCom (art. 22*a*, al. 3, LTC);
+- b.[^8-3] préparer les procédures relatives aux concessions octroyées par la ComCom, notamment les procédures d’appel d’offres;
+- c.[^8-4] préparer les décisions sur les demandes en matière d’accès (art. 11*a*, al. 1, LTC) et sur les litiges portant sur l’accès au point d’introduction au bâtiment ou sur les conditions de la co-utilisation d’installations domestiques (art. 35*b*, al. 5, LTC);
+- d. proposer que des mesures provisionnelles soient édictées;
+- e.[^8-5] …
+- f.[^8-6] consulter la Commission de la concurrence pour les problèmes concernant la domination du marché (art. 11*a*, al. 2, LTC);
+- g.[^8-7] conduire les procédures de surveillance pour lesquelles la ComCom est compétente (art. 58, al. 4, et 60, al. 2, LTC) et exécuter les mesures décidées par cette dernière;
+- h. soumettre à la ComCom d’autres projets de décision accompagnés d’une proposition motivée;
+- i.[^8-8] publier des informations concernant les concessionnaires du service universel et de radiocommunication (art. 19*b* et 24*f* LTC).
+
+<sup>2</sup> Il peut discuter de problèmes importants avant le dépôt de la proposition, ou indépendamment de cette procédure, avec la ComCom ou la présidence.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^8-3]: Nouvelle teneur selon selon le ch. I de l’O de la ComCom du 24 sept. 2009, approuvée par le CF le 4 nov. 2009 et en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5835](https://fedlex.data.admin.ch/eli/oc/2009/706)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^8-5]: Abrogée par le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+[^8-6]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+[^8-7]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+[^8-8]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+
+#### Art. 9
+
+**Rapport**
+
+<sup>1</sup> Le rapport annuel de la ComCom destiné au Conseil fédéral est approuvé par la ComCom, sur proposition du président. Il traite en particulier des problèmes importants abordés durant l’année, de la politique de la ComCom et de ses objectifs. La ComCom décide de la forme et de la portée de la publication.
+
+<sup>2</sup> À la demande de la ComCom, l’OFCOM rédige un rapport détaillé sur les activités en cours ou un rapport sur certains événements importants.
+
+#### Art. 10
+
+**Budget**
+
+La ComCom établit son budget sur proposition du secrétariat.
+
+## Section 3 Séances et procédure
+
+#### Art. 11
+
+**Convocation**
+
+<sup>1</sup> Le président convoque la ComCom selon les besoins.
+
+<sup>2</sup> Il doit convoquer la ComCom lorsqu’un membre le demande en indiquant ses motifs.
+
+<sup>3</sup> Les délibérations ne sont pas publiques.
+
+#### Art. 12
+
+**Prise de décision**
+
+<sup>1</sup> La ComCom peut prendre une décision lorsque deux tiers au moins des membres sont présents.
+
+<sup>2</sup> Elle prend ses décisions à la majorité simple des membres présents; en cas d’égalité des voix, la voix du président est prépondérante.
+
+<sup>3</sup> A moins qu’un membre ne demande une séance, elle peut prendre ses décisions par voie de circulation.[^12-1]
+
+<sup>4</sup> Elle peut habiliter l’un de ses membres à régler directement une affaire urgente ou de moindre importance.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 9 nov. 1998, approuvée par le CF le 14 déc. 1998 et en vigueur depuis le 1<sup>er</sup> fév. 1999 ([RO 1999 599](https://fedlex.data.admin.ch/eli/oc/1999/85)).
+
+#### Art. 13
+
+**Décisions incidentes**[^13-1]
+
+<sup>1</sup> Les décisions incidentes qui portent sur une demande de récusation d’un membre de la ComCom sont prises par la ComCom en l’absence de ce membre (art. 10, al. 2, de la LF du 20 déc. 1968 sur la procédure administrative[^13-2]).
+
+<sup>2</sup> Les décisions incidentes qui portent sur la compétence et sur des questions particulières de droit ou de fait, notamment les décisions sur la position dominante, sont prises par la ComCom conformément à l’art. 12.
+
+<sup>3</sup> Les décisions incidentes qui portent sur des mesures provisionnelles sont prises par le président conjointement avec un autre membre de la ComCom. Les autres membres de la ComCom sont informés sans délai des décisions prises.
+
+<sup>4</sup> Les autres décisions incidentes, en particulier celles qui portent sur l’échange d’écritures, la suspension de la procédure, l’administration des preuves, la consultation du dossier ou l’assistance judiciaire, sont prises par l’OFCOM. Le pouvoir de la ComCom d’émettre des directives est réservé.
+
+[^13-1]: Nouvelle teneur selon selon le ch. I de l’O de la ComCom du 24 sept. 2009, approuvée par le CF le 4 nov. 2009 et en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5835](https://fedlex.data.admin.ch/eli/oc/2009/706)).
+[^13-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+#### Art. 14
+
+**Participation de l’OFCOM**
+
+En règle générale, le directeur de l’OFCOM participe avec voix consultative aux séances de la ComCom et fait appel aux collaborateurs responsables.
+
+#### Art. 15
+
+**Préparation**
+
+<sup>1</sup> Pour chaque séance, le secrétariat fournit aux membres et à l’OFCOM un ordre du jour par écrit. En cas d’urgence, la ComCom peut aussi prendre une décision concernant un dossier qui ne figure pas à l’ordre du jour.
+
+<sup>2</sup> Pour chaque dossier prévu à l’ordre du jour, l’OFCOM ou le secrétariat rédige un rapport.
+
+#### Art. 16
+
+**Procès-verbal**
+
+<sup>1</sup> Le secrétariat établit un procès-verbal des délibérations de la ComCom. Après avoir été approuvé, celui-ci est signé par le président et par la personne chargée du procès-verbal.
+
+<sup>2</sup> Le procès-verbal doit contenir au minimum le nom des membres présents, les propositions déposées, les décisions prises et un résumé des motifs.
+
+#### Art. 17
+
+**Récusation des membres de la ComCom**
+
+<sup>1</sup> …[^17-1]
+
+<sup>2</sup> En règle générale, il n’y a pas d’intérêt personnel ou d’autre motif donnant lieu à une opinion préconçue lorsqu’un membre de la ComCom fait partie d’une association faîtière.
+
+<sup>3</sup> …[^17-2]
+
+[^17-1]: Abrogé par le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+[^17-2]: Abrogé par le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+
+#### Art. 18
+
+[^18-1]
+
+[^18-1]: Abrogé par le ch. I de l’O de la ComCom du 12 déc. 2006, approuvée par le CF le 9 mars 2007 et avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 993](https://fedlex.data.admin.ch/eli/oc/2007/169)).
+
+#### Art. 19
+
+**Indemnisation des membres de la ComCom**[^19-1]
+
+L’indemnisation des membres de la ComCom est régie par les art. 8*l* à 8*t* de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^19-2].
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O de la ComCom du 23 oct. 2020, approuvée par le CF le 18 nov. 2020 et en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6209](https://fedlex.data.admin.ch/eli/oc/2020/1022)).
+[^19-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+
+## Section 4 Entrée en vigueur
+
+#### Art. 20
+
+Le présent règlement entre en vigueur le 15 décembre 1997.

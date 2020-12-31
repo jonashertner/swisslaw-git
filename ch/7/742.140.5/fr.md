@@ -1,0 +1,119 @@
+---
+sr: "742.140.5"
+title: "Arrêté fédéral du 21 juin 2019 sur l'étape d'aménagement 2035 de l'infrastructure ferroviaire"
+eli: "https://fedlex.data.admin.ch/eli/cc/2019/675"
+language: fr
+version: 2020-01-01
+adopted: 2019-06-21
+in_force: 2020-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-675-20200101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20200101/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Arrêté fédéral sur l’étape d’aménagement 2035 de l’infrastructure ferroviaire
+
+du 21 juin 2019 (Etat le 1<sup>er</sup> janvier 2020)
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 48*c*, al. 1, de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^ingress-1], vu le message du Conseil fédéral du 31 octobre 2018[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^ingress-2]: [FF 2018 7301](https://fedlex.data.admin.ch/eli/fga/2018/2622)
+
+#### Art. 1
+
+<sup>1</sup> L’étape 2035 de l’aménagement de l’infrastructure ferroviaire est approuvée.
+
+<sup>2</sup>
+
+Elle comprend les mesures suivantes:
+
+- a.
+
+  pour les Chemins de fer fédéraux (CFF):
+
+  - 1\. La Plaine–Genève–Lausanne–Biel/Bienne: augmentation des prestations et extension de capacité,
+  - 2\. Lausanne–Brigue: extension de capacité,
+  - 3\. Lausanne–Berne: extension de capacité,
+  - 4\. Berne–Neuchâtel–Le Locle: extension de capacité et accélération (ligne directe),
+  - 5\. Delémont–Bâle: extension de capacité,
+  - 6\. Biel/Bienne–Zurich et Berne–Zurich: augmentation des prestations et extension de capacité,
+  - 7\. Zofingue–Lenzbourg: extension de capacité,
+  - 8\. Zurich–Winterthour–Stein am Rhein et Tösstal: extension de capacité et accélération,
+  - 9\. Zurich–Bülach–Schaffhouse: extension de capacité,
+  - 10\. Zurich Stadelhofen–Oberland zurichois et rive droite du lac de Zurich: extension de capacité,
+  - 11\. Winterthour–Constance, Winterthour–Romanshorn et Winterthour–Saint-Gall–St. Margrethen avec doublement de la voie Rorschach–Rorschach Stadt: extension de capacité et accélération,
+  - 12\. Ziegelbrücke–Linthal: extension de capacité,
+  - 13\. Olten–Lucerne: extension de capacité,
+  - 14\. Lucerne–Zoug–Zurich: extension de capacité et accélération;
+
+- b.
+
+  augmentation des prestations ou extension de capacité chez les gestionnaires d’infrastructure suivants:
+
+  - 1\. Compagnie du chemin de fer Lausanne–Echallens–Bercher SA: Lausanne–Echallens,
+  - 2\. Transports de la région Morges–Bière–Cossonay SA: Délices–Morges,
+  - 3\. Transports Vallée-de-Joux–Yverdon-les-Bains–Sainte-Croix SA: Lausanne–Orbe, Yverdon–Valeyres,
+  - 4\. Chemin de fer Montreux Oberland Bernois SA: Montreux–Les Avants–Zweisimmen,
+  - 5\. Transports Publics du Chablais SA: Aigle–Monthey–Champéry, Aigle–Leysin,
+  - 6\. Matterhorn Gotthard Infrastruktur AG: Viège–Zermatt,
+  - 7\. Transports publics fribourgeois Infrastructure (TPF INFRA) SA: Broc Fabrique–Fribourg/Freiburg,
+  - 8\. BLS Netz AG: Ferden–Mitholz et Frutigen–Wengi-Ey (équipement de technique ferroviaire), aménagement de la gare de Brigue, Berne–Niederscherli, aménagement de la gare d’Anet,
+  - 9\. Regionalverkehr Bern–Solothurn AG: Berne–Zollikofen, Berne–Deisswil, Berne–Gümligen Siloah,
+  - 10\. Baselland Transport AG: Leimental–Bâle, Waldenburg–Liestal,
+  - 11\. Aare Seeland mobil AG: Soleure–Flumenthal,
+  - 12\. Aargau Verkehr AG: Berikon-Widen–Dietikon,
+  - 13\. Sihltal Zürich Uetliberg Bahn AG: Sihltal,
+  - 14\. Frauenfeld-Wil-Bahn AG: Frauenfeld–Wil y compris nouvel arrêt Wil West,
+  - 15\. Chemin de fer rhétique SA: gare de Landquart, St-Moritz–Tirano, Prättigau,
+  - 16\. Schweizerische Südostbahn AG: Wädenswil–Einsiedeln y compris nouvel arrêt Wädenswil-Reidbach, Arth Goldau–Pfäffikon,
+  - 17\. Zentralbahn AG: Lucerne–Interlaken Ost et Lucerne–Engelberg,
+  - 18\. Ferrovie Luganesi SA: Bioggio–Lugano Centro,
+  - 19\. Ferrovie Autolinee Regionali Ticinesi SA: Locarno–Intragna;
+
+- c.
+
+  nouveaux arrêts:
+
+  - 1\. CFF: Saint-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz la Barme, Agy, Thoune Nord, Dornach Apfelsee, Oensingen Dorf, Winterthour Grüze Nord, Bellinzone Piazza Indipendenza,
+  - 2\. Transports de Martigny et Régions SA: Martigny-Expo,
+  - 3\. Berner Oberland-Bahn AG: Wilderswil Flugplatz,
+  - 4\. BLS Netz AG: Kleinwabern,
+  - 5\. Chemins de fer du Jura SA: Noirmont Sous-la-Velle,
+  - 6\. DB-Netz AG: Basel Solitude;
+
+- d. installations d’exploitation;
+- e. contribution fédérale au financement de mesures transfrontalières;
+- f. autres investissements;
+- g. travaux de planification pour la prochaine étape d’aménagement: perspective à long terme, planifications et études préliminaires;
+- h. étude du projet d’extension de capacité (y compris projet de mise à l’enquête) du nœud de Lucerne (gare de passage);
+- i. étude du projet d’extension de capacité du nœud de Bâle (maillon central du RER trinational de Bâle);
+- j. surveillance.
+
+<sup>3</sup>
+
+Le Conseil fédéral soumet un message à l’Assemblée fédérale d’ici à 2026 concernant la prochaine étape d’aménagement. Pour celle-ci, les mesures suivantes doivent notamment être analysées:
+
+- a. Aarau–Zurich (ligne directe): extension de capacité;
+- b. nœud de Lucerne (gare de passage): extension de capacité;
+- c. nœud de Bâle (maillon central du RER trinational de Bâle): extension de capacité;
+- d. Lausanne–Berne: accélération et extension de capacité;
+- e. Winterthour–Saint-Gall: accélération;
+- f. élimination des goulets d’étranglement et densification de l’offre dans le trafic d’agglomération et le trafic régional et accès aux régions touristiques.
+
+<sup>4</sup> Si les moyens prévus pour les mesures visées à l’al. 2 ne sont pas totalement utilisés, l’Assemblée fédérale peut décider de mettre en œuvre les mesures visées à l’al. 3 de manière anticipée. Une réaffectation de moyens est possible si la mesure visée à l’al. 3 est suffisamment avancée et que les autres phases du projet risquent d’être mises en péril par un manque de moyens.
+
+#### Art. 2
+
+<sup>1</sup> Le présent arrêté est sujet au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe l’entrée en vigueur.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janv. 2020[^2-1]
+
+[^2-1]: ACF du 12 nov. 2019

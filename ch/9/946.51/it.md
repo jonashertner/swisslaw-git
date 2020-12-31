@@ -1,0 +1,732 @@
+---
+sr: "946.51"
+title: Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio (LOTC)
+short: LOTC
+eli: "https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725"
+language: it
+version: 2017-05-01
+adopted: 1995-10-06
+in_force: 1996-07-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20170501/it/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20170501-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20170501/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Legge federale sugli ostacoli tecnici al commercio
+
+(LOTC)
+
+del 6 ottobre 1995 (Stato 1° maggio 2017)
+
+Ingresso
+
+vista la competenza della Confederazione in materia di affari esteri e visti gli articoli 31<sup>bis</sup> capoversi 1 e 2 e 64<sup>bis</sup> della Costituzione federale[^t-1]; in applicazione dell’Accordo del 21 giugno 2001[^t-2] di emendamento della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) e del suo allegato H; in applicazione dell’Accordo del 22 luglio 1972[^t-3] tra la Confederazione Svizzera e la Comunità economica europea; in applicazione dell’Accordo OMC del 15 aprile 1994[^t-4] sugli ostacoli tecnici agli scambi; visto il messaggio del Consiglio federale del 15 febbraio 1995[^t-5],[^t-6]
+
+decreta:
+
+## Capitolo 1: Scopo, campo d’applicazione e definizioni
+
+[^t-1]: [CS **1** 3]. A queste disp. corrispondono ora gli articoli 54, 95 e 101 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^t-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^t-3]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
+[^t-4]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)All. 1A.6
+[^t-5]: [FF 1995 II 393](https://fedlex.data.admin.ch/eli/fga/1995/2_521_489_393)
+[^t-6]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+
+#### Art. 1
+
+**Scopo e oggetto**
+
+<sup>1</sup> La presente legge stabilisce presupposti uniformi applicabili a tutti i settori di competenza della Confederazione con l’intento di impedire la formazione di ostacoli tecnici al commercio, di ridurli o di rimuoverli.
+
+<sup>2</sup>
+
+In particolare, fissa:
+
+- a. principi per l’elaborazione, l’adozione e la modificazione di prescrizioni tecniche;
+- b. competenze e compiti del Consiglio federale;
+- b<sup>bis</sup>.[^1-1] prescrizioni per l’immissione in commercio di prodotti fabbricati conformemente a prescrizioni tecniche estere;
+- c. diritti e doveri generali delle persone interessate e disposizioni penali d’applicazione generale.
+
+[^1-1]: Introdotta dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+<sup>1</sup> La presente legge si applica a tutti i settori nei quali la Confederazione emana prescrizioni tecniche.
+
+<sup>2</sup> Essa si applica se altre leggi federali o trattati internazionali non contengono disposizioni che vanno oltre la presente legge o che vi derogano. L’immissione in commercio di prodotti fabbricati conformemente a prescrizioni tecniche estere è disciplinata dalla presente legge.[^2-1]
+
+<sup>3</sup> Gli articoli 3 e 19 sono applicabili nella misura in cui altre prescrizioni della Confederazione non dispongano diversamente.
+
+[^2-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 3
+
+**Definizioni**
+
+Ai sensi della presente legge s’intende con:
+
+- a.
+
+  *ostacoli tecnici al commercio:* gli ostacoli allo scambio internazionale di prodotti che risultano da:
+
+  - 1\. prescrizioni o norme tecniche divergenti,
+  - 2\. dall’applicazione divergente di tali prescrizioni o norme o
+  - 3\. dal mancato riconoscimento segnatamente di esami, di valutazioni della conformità, di registrazioni o di omologazioni;
+
+- b.
+
+  *prescrizioni tecniche:* le norme giuridicamente vincolanti il cui rispetto costituisce la condizione secondo la quale i prodotti possono essere offerti, immessi in commercio, messi in servizio, utilizzati o smaltiti e che riguardano segnatamente:
+
+  - 1\. la composizione, le caratteristiche, l’imballaggio, l’etichettatura o il marchio di conformità dei prodotti,
+  - 2\. la produzione, il trasporto o l’immagazzinamento dei prodotti,
+  - 3\. gli esami, la valutazione della conformità, la registrazione, l’omologazione o la procedura per ottenere il marchio di conformità;
+
+- c. *norme tecniche:* le regole, linee direttrici o caratteristiche giuridicamente non vincolanti stabilite da organismi di normazione che si riferiscono segnatamente alla produzione, alla composizione, alle caratteristiche, all’imballaggio o all’etichettatura dei prodotti o all’esame o alla valutazione della conformità;
+- d.[^3-1]
+
+  *immissione in commercio*: la consegna a titolo oneroso o gratuito di un prodotto, indipendentemente se quest’ultimo è nuovo, usato, ricondizionato o sostanzialmente modificato; sono equiparati all’immissione in commercio:
+
+  - 1\. l’uso interno di un prodotto a scopo commerciale o professionale,
+  - 2\. l’impiego o l’applicazione di un prodotto nell’ambito della prestazione di un servizio,
+  - 3\. la messa a disposizione di un prodotto per l’uso da parte di terzi,
+  - 4\. l’offerta di un prodotto;
+
+- e. *messa in servizio:* la prima utilizzazione di un prodotto da parte degli utenti finali;
+- f. *esame:* l’operazione che consiste nel determinare talune caratteristiche di un prodotto secondo una procedura specifica;
+- g. *conformità:* il fatto che un prodotto soddisfi prescrizioni o norme tecniche;
+- h. *valutazione della conformità:* l’esame sistematico inteso a stabilire in che misura un prodotto o le condizioni di produzione, di trasporto o di immagazzinamento soddisfano prescrizioni o norme tecniche;
+- i. *certificato di conformità:* il documento stilato da un organismo di valutazione della conformità che attesta la conformità;
+- k. *dichiarazione di conformità:* il documento stilato dalla persona responsabile della conformità con il quale si attesta la conformità;
+- l. *marchio di conformità:* il simbolo o la designazione stabiliti o riconosciuti dallo Stato e attestanti la conformità del prodotto;
+- m. *registrazione:* il deposito presso l’autorità competente della documentazione necessaria per l’offerta, l’immissione in commercio, la messa in servizio o l’impiego di prodotti;
+- n. *omologazione:* l’autorizzazione di offrire, immettere in commercio, mettere in servizio o impiegare prodotti allo scopo indicato o secondo le condizioni indicate;
+- o. *accreditamento:* il riconoscimento formale della competenza di un organismo per effettuare determinati esami o talune valutazioni della conformità;
+- p.[^3-2] *sorveglianza del mercato:* l’attività statale di organi di esecuzione intesa a garantire che i prodotti offerti, immessi in commercio o messi in servizio siano conformi alle prescrizioni tecniche;
+- q.[^3-3] *informazione sul prodotto*: le indicazioni e le marcature prescritte dalla legge, riferite a un prodotto, segnatamente l’etichettatura, le scritte sugli imballaggi, i fogli illustrativi, le istruzioni per l’uso, i manuali per gli utenti e le schede di dati di sicurezza.
+
+[^3-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^3-2]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^3-3]: Introdotta dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+## Capitolo 2: Adozione di prescrizioni tecniche
+
+#### Art. 4
+
+**Elaborazione di prescrizioni tecniche in generale**
+
+<sup>1</sup> Le prescrizioni tecniche sono formulate in modo da non costituire ostacoli tecnici al commercio.
+
+<sup>2</sup>
+
+A tale scopo, esse sono elaborate in modo da essere compatibili con quelle dei principali partner commerciali della Svizzera. Parimenti, le prescrizioni tecniche sono formulate in modo da:
+
+- a. essere per quanto possibile semplici e trasparenti; e
+- b. richiedere oneri amministrativi e d’esecuzione il più possibile contenuti.
+
+<sup>3</sup>
+
+Deroghe al principio di cui al capoverso 1 sono ammissibili soltanto qualora:
+
+- a. siano rese necessarie da interessi pubblici preponderanti;
+- b. non costituiscano né un mezzo di discriminazione arbitraria né una restrizione dissimulata degli scambi; e
+- c.[^4-1] siano conformi al principio di proporzionalità.
+
+<sup>4</sup>
+
+Costituiscono interessi ai sensi del capoverso 3 lettera a la protezione:
+
+- a. della moralità, dell’ordine e della sicurezza pubblici;
+- b. della vita e della salute dell’uomo, degli animali e delle piante;
+- c. dell’ambiente naturale;
+- d. della sicurezza sul posto di lavoro;
+- e. dei consumatori e della lealtà nelle transazioni commerciali;
+- f. del patrimonio culturale nazionale;
+- g. della proprietà.
+
+<sup>5</sup>
+
+Le prescrizioni tecniche sulle esigenze relative ai prodotti sono elaborate secondo i principi seguenti:
+
+- a. le prescrizioni tecniche si limitano a stabilire le esigenze fondamentali; in particolare definiscono gli obiettivi da raggiungere;
+- b. l’ufficio federale competente designa, d’intesa con la Segreteria di Stato dell’economia (SECO), le norme tecniche idonee a concretizzare le esigenze fondamentali; per quanto possibile, designa norme armonizzate a livello internazionale; le norme tecniche designate sono pubblicate nel Foglio federale con il titolo e l’indicazione della fonte o dell’ente presso cui possono essere ottenute;
+- c. se un prodotto è fabbricato conformemente alle norme designate, si presume che soddisfi le esigenze fondamentali.[^4-2]
+
+<sup>6</sup> L’omologazione di un prodotto prima della sua immissione in commercio può essere prevista soltanto se è indispensabile per la tutela di un interesse pubblico preponderante di cui al capoverso 4.[^4-3]
+
+[^4-1]: Introdotta dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^4-2]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^4-3]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 4a
+
+**Elaborazione delle prescrizioni tecniche concernenti l’informazione sul prodotto**[^4a-1]
+
+<sup>1</sup>
+
+Le prescrizioni tecniche concernenti l’informazione sul prodotto sono elaborate secondo i principi seguenti:
+
+- a. l’informazione sul prodotto è redatta in almeno una lingua ufficiale svizzera; l’utilizzazione di simboli è permessa se garantisce un’informazione sufficiente;
+- b. per le avvertenze e i consigli di prudenza sotto forma di testo, incluse le istruzioni determinanti per la sicurezza delle persone, può essere richiesta la redazione in più di una lingua ufficiale svizzera o perlomeno nella lingua ufficiale o nelle lingue ufficiali del luogo in cui il prodotto è immesso in commercio.
+
+<sup>2</sup> Per determinati prodotti, l’informazione sul prodotto può eccezionalmente essere redatta in un’altra lingua, a condizione che tale informazione risulti sufficiente e inequivocabile.
+
+<sup>3</sup>
+
+Per i seguenti prodotti importati può essere richiesta l’indicazione di una persona responsabile con sede o domicilio in Svizzera:
+
+- a. prodotti soggetti a omologazione;
+- b. sostanze soggette all’obbligo di notifica o sostanze e preparati soggetti all’obbligo di annuncio secondo la legislazione in materia di prodotti chimici;
+- c. prodotti soggetti a un’imposta speciale di consumo.
+
+[^4a-1]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 5
+
+**Elaborazione delle prescrizioni tecniche sulle procedure per l’immissione in commercio[^5-1]**
+
+<sup>1</sup>
+
+Per quanto l’articolo 4 non esiga una deroga, di regola:
+
+- a. sono previsti a scelta vari tipi di procedure per la valutazione della conformità; secondo almeno uno di questi tipi, la persona che fabbrica o immette in commercio il prodotto deve avere la possibilità di effettuare essa stessa la valutazione della conformità;
+- b. gli esami e le valutazioni della conformità svolti da terzi sono previsti come attività di diritto privato, se costituiscono una condizione per l’offerta, l’immissione in commercio, la messa in servizio, l’impiego o lo smaltimento dei prodotti;
+
+<sup>2</sup> Se per determinati prodotti sono richiesti diversi esami, valutazioni della conformità, registrazioni o omologazioni oppure sono competenti varie autorità, il coordinamento delle procedure e delle competenze deve essere garantito.
+
+<sup>3</sup> Per i prodotti soggetti a omologazione già omologati all’estero secondo prescrizioni equivalenti, vanno previste semplificazioni, segnatamente per quanto riguarda la perizia, e applicati emolumenti ridotti.[^5-2]
+
+[^5-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^5-2]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 5a
+
+**Elaborazione delle prescrizioni tecniche sull’istallazione, la messa in servizio e l’impiego**[^5a-1]
+
+Le prescrizioni tecniche sull’istallazione, la messa in servizio e l’impiego di un prodotto non possono prevedere esigenze in contrasto con le esigenze per l’immissione in commercio del prodotto o che richiedano una modifica strutturale dello stesso.
+
+[^5a-1]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 6
+
+**Informazione e consultazione a livello internazionale**[^6-1]
+
+Nell’ambito di accordi internazionali sono trasmessi:
+
+- a. i progetti di prescrizioni tecniche e di prescrizioni concernenti i servizi per informazione e consultazione;
+- b. i testi adottati delle prescrizioni di cui alla lettera a.
+
+[^6-1]: Nuovo testo giusta il n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+
+## Capitolo 3: Competenze e compiti del Consiglio federale
+
+### Sezione 1: Esame, valutazione della conformità, registrazione, omologazione, marchio di conformità
+
+#### Art. 7
+
+**Procedure**
+
+Il Consiglio federale può stabilire le procedure d’esame, di valutazione della conformità, di registrazione e di omologazione.
+
+#### Art. 8
+
+**Organismi**
+
+Il Consiglio federale può stabilire le esigenze che gli organismi preposti agli esami, alle valutazioni della conformità, alle registrazioni o alle omologazioni devono adempiere.
+
+#### Art. 9
+
+**Marchi di conformità**
+
+<sup>1</sup> Il Consiglio federale può stabilire i marchi che attestano la conformità e disciplinare le corrispondenti procedure.
+
+<sup>2</sup> Può emanare prescrizioni per proteggere questi marchi dal rischio di confusione e uso indebito.
+
+### Sezione 2: Accreditamento
+
+#### Art. 10
+
+<sup>1</sup> Il Consiglio federale, tenendo conto delle esigenze stabilite a livello internazionale, istituisce un sistema svizzero d’accreditamento per gli organismi che esaminano i prodotti o ne valutano la conformità o che svolgono attività analoghe riguardo a persone, servizi o procedure.
+
+<sup>2</sup>
+
+In particolare, esso:
+
+- a. designa l’autorità competente per il rilascio dell’accreditamento;
+- b. stabilisce le esigenze e la procedura per l’accreditamento;
+- c. definisce lo statuto giuridico degli organismi accreditati e gli effetti giuridici della loro attività.
+
+<sup>3</sup>
+
+In vista dell’elaborazione di direttive e raccomandazioni intese a garantire un’applicazione coordinata a livello internazionale nel settore dell’accreditamento e della valutazione della conformità, il Consiglio federale o l’autorità da esso designata può:
+
+- a. decidere che la Svizzera partecipi finanziariamente o in altro modo ai mandati affidati a organismi internazionali di accreditamento e alle organizzazioni che collaborano con essi;
+- b. incaricare l’autorità competente per il rilascio dell’accreditamento di difendere gli interessi svizzeri in seno agli organismi internazionali di accreditamento.[^10-1]
+
+[^10-1]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+### Sezione 3: Normazione
+
+#### Art. 11
+
+Se prescrizioni rinviano a norme tecniche o se è previsto un tale rinvio, il Consiglio federale o un’autorità da esso designata può, in vista dell’elaborazione di norme tecniche:[^11-1]
+
+- a.[^11-2] decidere che la Svizzera partecipi finanziariamente o in altro modo a mandati affidati a organismi internazionali di normazione o ad altre organizzazioni partecipanti al processo di elaborazione delle norme;
+- b. incaricare organizzazioni nazionali di normazione di difendere gli interessi svizzeri nei comitati direttivi di organismi internazionali di normazione e prevedere un’indennità per tale incarico.
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^11-2]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+### Sezione 4: Prescrizioni tecniche di altri Stati
+
+#### Art. 12
+
+Se un altro Stato esige per i prodotti da importare un’attestazione dello Stato esportatore con la conferma che le prescrizioni tecniche dello Stato importatore sono soddisfatte, il Consiglio federale può emanare prescrizioni in materia.
+
+### Sezione 5: Centro d’informazioni
+
+#### Art. 13
+
+<sup>1</sup> Il Consiglio federale provvede a istituire e a gestire un centro nazionale d’informazioni sulle prescrizioni e le norme tecniche.
+
+<sup>2</sup> Può incaricare organismi privati di istituire e gestire questo centro e prevedere un’indennità per tale incarico.
+
+### Sezione 6: Accordi internazionali
+
+#### Art. 14
+
+**Conclusione**
+
+<sup>1</sup>
+
+Con l’intento di impedire la formazione di ostacoli tecnici al commercio, di ridurli o di rimuoverli, il Consiglio federale può concludere accordi internazionali riguardanti segnatamente:
+
+- a. il riconoscimento degli organismi d’esame, di valutazione della conformità, di registrazione e d’omologazione;
+- b. il riconoscimento degli esami, delle valutazioni della conformità, delle registrazioni e delle omologazioni;
+- c. il riconoscimento dei marchi di conformità;
+- d. il riconoscimento dei sistemi d’accreditamento e degli organismi accreditati;
+- e.[^14-1] il rilascio di mandati a organismi internazionali di normazione e a organismi internazionali di accreditamento secondo gli articoli 10 capoverso 3 lettera a e 11 lettera a;
+- f. l’informazione e la consultazione relative all’elaborazione, l’adozione, la modificazione o l’applicazione di prescrizioni o norme tecniche.
+
+<sup>2</sup> Il Consiglio federale può parimenti concludere accordi internazionali riguardanti l’informazione e la consultazione relative all’elaborazione, l’adozione, la modificazione e l’applicazione di prescrizioni o di norme concernenti i servizi.[^14-2]
+
+<sup>3</sup> Il capoverso 1 lettera f e il capoverso 2 si applicano anche alle prescrizioni dei Cantoni.[^14-3]
+
+[^14-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-2]: Nuovo testo giusta il n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^14-3]: Introdotto dal n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+
+#### Art. 15
+
+**Esecuzione**
+
+<sup>1</sup> Il Consiglio federale emana le disposizioni necessarie per l’esecuzione degli accordi internazionali riguardanti i settori di cui all’articolo 14.
+
+<sup>2</sup> Può delegare a organismi privati compiti riguardanti l’informazione e la consultazione relative all’elaborazione, all’adozione e alla modificazione di prescrizioni o di norme tecniche, nonché di prescrizioni o di norme concernenti i servizi e prevedere un’indennità per tali compiti.[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+
+### Sezione 7: Emolumenti
+
+#### Art. 16
+
+<sup>1</sup> Gli organismi incaricati di compiti d’esecuzione in virtù della presente legge o di altre disposizioni nel settore delle prescrizioni tecniche possono riscuotere emolumenti.
+
+<sup>2</sup> …[^16-1]
+
+[^16-1]: Abrogato dal n. I della LF del 12 giu. 2009, con effetto dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+## Capitolo 3*a*: Immissione in commercio di prodotti fabbricati conformemente a prescrizioni tecniche estere
+
+[^chap3a-1]
+
+[^chap3a-1]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+### Sezione 1: Disposizioni generali
+
+#### Art. 16a
+
+**Principio**
+
+<sup>1</sup>
+
+I prodotti possono essere immessi in commercio se:
+
+- a. sono conformi alle prescrizioni tecniche della Comunità europea (CE) oppure, nel caso in cui il diritto della CE non sia armonizzato o lo sia solo in modo incompleto, sono conformi alle prescrizioni tecniche di uno Stato membro della CE o dello Spazio economico europeo (SEE); e
+- b. sono stati legalmente immessi in commercio nello Stato di cui alla lettera a, membro della CE o dello SEE.
+
+<sup>2</sup>
+
+Il capoverso 1 non si applica a:
+
+- a. prodotti soggetti a omologazione;
+- b. sostanze soggette all’obbligo di notifica secondo la legislazione in materia di prodotti chimici;
+- c. prodotti soggetti ad autorizzazione preliminare d’importazione;
+- d. prodotti soggetti a un divieto d’importazione;
+- e. prodotti per i quali il Consiglio federale decide una deroga secondo l’articolo 4 capoversi 3 e 4.
+
+<sup>3</sup> Se la CE o uno Stato membro della CE o dello SEE ostacola l’immissione in commercio di prodotti svizzeri non conformi alle prescrizioni tecniche del Paese di destinazione, il Consiglio federale può ordinare l’inapplicabilità del capoverso 1 a tutti o a determinati prodotti di questo partner commerciale.
+
+#### Art. 16b
+
+**Misure volte a impedire la discriminazione di produttori svizzeri**
+
+I produttori in Svizzera che producono unicamente per il mercato interno possono immettere in commercio i loro prodotti conformemente alle prescrizioni tecniche di cui all’articolo 16*a* capoverso 1 lettera a.
+
+### Sezione 2: Derrate alimentari
+
+#### Art. 16c
+
+**Obbligo di autorizzazione**
+
+Per l’immissione in commercio di derrate alimentari alle quali si applica l’articolo 16*a* capoverso 1 e non conformi alle prescrizioni tecniche svizzere è necessaria l’autorizzazione dell’Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^16c-1].
+
+[^16c-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 16d
+
+**Condizioni e forma dell’autorizzazione**
+
+<sup>1</sup>
+
+L’USAV rilascia l’autorizzazione se:
+
+- a.
+
+  il richiedente:
+
+  - 1\. prova che la derrata alimentare è conforme alle prescrizioni tecniche di cui all’articolo 16*a* capoverso 1 lettera a, e
+  - 2\. rende verosimile che la derrata alimentare è legalmente immessa in commercio in uno Stato membro della CE o dello SEE; e
+
+- b. non è minacciato un interesse pubblico preponderante di cui all’articolo 4 capoverso 4 lettere a–e.
+
+<sup>2</sup> L’autorizzazione è rilasciata sotto forma di decisione di portata generale ed è valida per le derrate alimentari dello stesso genere.
+
+<sup>3</sup> Il richiedente deve indicare un recapito in Svizzera.
+
+<sup>4</sup> L’USAV decide nei due mesi successivi alla presentazione della domanda.
+
+### Sezione 3: Informazione sul prodotto
+
+#### Art. 16e
+
+[^16e-1]
+
+<sup>1</sup>
+
+Per i prodotti immessi in commercio in virtù del presente capitolo, l’informazione sul prodotto è disciplinata:
+
+- a. dalle prescrizioni tecniche in base alle quali il prodotto è stato fabbricato;
+- b.[^16e-2] trattandosi di derrate alimentari e materie prime, dall’obbligo di indicare il Paese produttore secondo la legge del 20 giugno 2014[^16e-3] sulle derrate alimentari;
+- c. dall’articolo 4*a.*
+
+<sup>2</sup> In deroga all’articolo 4*a* capoverso 1 lettera b, è sufficiente che l’informazione sul prodotto, inclusi le avvertenze e i consigli di prudenza come anche le istruzioni determinanti per la sicurezza delle persone, siano redatti nella lingua ufficiale o nelle lingue ufficiali del luogo in cui il prodotto è immesso in commercio.
+
+<sup>3</sup> L’informazione sul prodotto e la presentazione dello stesso non devono dare l’impressione che il prodotto sia conforme alle prescrizioni tecniche svizzere.
+
+[^16e-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^16e-2]: Nuovo testo giusta il n. II 10 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^16e-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+
+## Capitolo 4: Diritti e doveri delle persone interessate
+
+### Sezione 1: Prova della conformità
+
+#### Art. 17
+
+**Principio**
+
+<sup>1</sup> Se la prova della conformità è prescritta, questa deve essere fornita dalla persona che offre, immette in commercio o mette in servizio il prodotto.
+
+<sup>2</sup>
+
+Chi offre, immette in commercio o mette in servizio un prodotto è tuttavia liberato dall’onere della prova se:
+
+- a. la prova può essere fornita da chi ha immesso il prodotto in commercio precedentemente, se il prodotto non ha subito modifiche;
+- b. chi immette in commercio un prodotto fabbricato in serie riesce a provare l’identità della serie e può presumere che prodotti della stessa serie siano già stati legalmente immessi in commercio;
+- c.[^17-1] un importatore può rendere verosimile che immette in commercio gli stessi prodotti dello stesso produttore che sono già stati legalmente immessi sul mercato svizzero.
+
+<sup>3</sup> La prova va redatta in una lingua ufficiale svizzera o in inglese. [^17-2]
+
+[^17-1]: Introdotta dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^17-2]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 18
+
+**Validità dell’esame e della valutazione della conformità**
+
+<sup>1</sup>
+
+Se un esame o una valutazione della conformità svolti da terzi sono prescritti, il rapporto d’esame o il certificato di conformità hanno valore di prova se emanano da un organismo che, per il settore in questione, è:
+
+- a. accreditato in Svizzera;
+- b. riconosciuto dalla Svizzera nell’ambito di un accordo internazionale; o
+- c. autorizzato o riconosciuto in altro modo dal diritto svizzero.
+
+<sup>2</sup>
+
+Il rapporto d’esame o il certificato di conformità redatto da un organismo estero che non è riconosciuto in virtù del capoverso 1 ha valore di prova se può essere accertato con verosimiglianza che:
+
+- a. le procedure d’esame o di valutazione della conformità che sono state applicate soddisfano le esigenze svizzere; e che
+- b. l’organismo estero dispone di qualifiche equivalenti a quelle richieste in Svizzera.
+
+<sup>3</sup> L’Ufficio federale dell’economia esterna[^18-1], d’intesa con l’ufficio federale competente per il settore interessato, può ordinare che i rapporti d’esame o i certificati di conformità non abbiano valore di prova ai sensi del capoverso 2 se organismi svizzeri qualificati, i loro rapporti d’esame o i loro certificati di conformità non sono riconosciuti nello Stato dell’organismo estero. Nella loro decisione, essi prendono in considerazione gli interessi svizzeri in materia di economia e di commercio estero.
+
+[^18-1]: Oggi: «Segreteria di Stato dell’economia (SECO)» (art. 5 dell’O del 14 giu. 1999 sull’organizzazione del Dipartimento federale dell’economia, della formazione e della ricerca; [RS 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344), [RU 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 16).
+
+### Sezione 2: Sorveglianza del mercato
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 19
+
+**Competenze degli organi di esecuzione**
+
+<sup>1</sup> Gli organi di esecuzione incaricati della sorveglianza del mercato in base alle corrispondenti disposizioni di legge possono esigere le prove e le informazioni necessarie, prelevare oppure richiedere campioni, far effettuare esami e, durante le ore di lavoro abituali, penetrare per un’ispezione nei locali commerciali di persone soggette all’obbligo di informazione e consultare la documentazione necessaria.
+
+<sup>2</sup> Gli organi di esecuzione possono disporre misure cautelari se esiste un sospetto fondato che vi sia un pericolo immediato e grave per un interesse pubblico preponderante di cui all’articolo 4 capoverso 4 lettere a–e.
+
+<sup>3</sup>
+
+Se necessario per la tutela di un interesse pubblico preponderante di cui all’articolo 4 capoverso 4 lettere a–e, gli organi di esecuzione possono disporre misure adeguate nei casi in cui:
+
+- a. le prove, le informazioni o i campioni richiesti non sono forniti entro un termine adeguato; o
+- b. un prodotto non è conforme alle prescrizioni tecniche applicabili.
+
+<sup>4</sup>
+
+In particolare, gli organi di esecuzione possono:
+
+- a. proibire l’ulteriore immissione in commercio di un prodotto;
+- b. disporre avvertenze sui pericoli derivanti da un prodotto, ordinarne e se necessario organizzarne il richiamo o il ritiro;
+- c. vietare l’esportazione di un prodotto la cui immissione in commercio è proibita conformemente alla lettera a;
+- d. confiscare e distruggere oppure rendere inutilizzabile un prodotto da cui deriva un pericolo grave e immediato.
+
+<sup>5</sup> Gli organi di esecuzione non possono ordinare misure che richiedono a posteriori una modifica strutturale di un prodotto legalmente immesso in commercio.
+
+<sup>6</sup> Gli organi di esecuzione informano la popolazione della pericolosità di un prodotto se chi lo immette in commercio non adotta misure efficaci o non le adotta per tempo. Rendono accessibili al pubblico le informazioni di cui dispongono sulla pericolosità di determinati prodotti e sulle misure adottate.
+
+<sup>7</sup> Per quanto necessario alla tutela di un interesse pubblico preponderante di cui all’articolo 4 capoverso 4 lettere a–e, le misure di cui al capoverso 4 sono adottate sotto forma di una decisione di portata generale. Le misure sono pubblicate dopo il passaggio in giudicato di tale decisione.
+
+<sup>8</sup> Si applica la legge federale del 20 dicembre 1968[^19-1] sulla procedura amministrativa.
+
+[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 19a
+
+**Obbligo di collaborazione e di informazione**
+
+Se necessario, chi immette un prodotto in commercio e le eventuali altre persone interessate sono tenuti a collaborare all’esecuzione. Devono in particolare fornire gratuitamente agli organi di esecuzione tutte le informazioni necessarie e consegnare le prove e la documentazione necessarie.
+
+#### Art. 20
+
+**Sorveglianza dei prodotti fabbricati conformemente a prescrizioni tecniche estere**
+
+<sup>1</sup>
+
+Ai fini della sorveglianza di un prodotto immesso in commercio in virtù dell’articolo 16*a* capoverso 1:
+
+- a. va fornita la prova che il prodotto è conforme alle prescrizioni tecniche secondo l’articolo 16*a* capoverso 1 lettera a; e
+- b. va reso verosimile che il prodotto è legalmente immesso in commercio in uno Stato membro della CE o dello SEE.
+
+<sup>2</sup> Ai fini della sorveglianza di un prodotto immesso in commercio in virtù dell’articolo 16*b*, va fornita la prova di cui al capoverso 1 lettera a.
+
+<sup>3</sup> L’organo di esecuzione ha le competenze di cui all’articolo 19 capoversi 1 e 2. Può esigere che le prescrizioni tecniche estere indicate e l’eventuale dichiarazione di conformità o certificato di conformità siano presentati in una lingua ufficiale svizzera o in inglese.
+
+<sup>4</sup> Se dal controllo risulta che non sono state fornite le prove di cui ai capoversi 1 o 2 oppure che il prodotto presenta un rischio per un interesse pubblico preponderante di cui all’articolo 4 capoverso 4 lettere a–e, l’organo di esecuzione adotta le misure adeguate conformemente all’articolo 19.
+
+<sup>5</sup> L’organo cantonale di esecuzione che ha eseguito il controllo può chiedere all’organo di esecuzione competente della Confederazione di emanare una decisione di portata generale secondo l’articolo 19 capoverso 7.
+
+<sup>6</sup> Se il controllo di cui al capoverso 3 concerne una derrata alimentare e la protezione della popolazione rende necessario revocare un’autorizzazione, l’organo cantonale di esecuzione ne fa domanda all’USAV.
+
+#### Art. 20a
+
+**Rimedi giuridici**
+
+<sup>1</sup> La tutela giurisdizionale è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
+
+<sup>2</sup> Le decisioni degli organi di esecuzione possono essere impugnate con ricorso al Tribunale amministrativo federale.
+
+<sup>3</sup> La Commissione della concorrenza è legittimata a ricorrere contro le decisioni di portata generale di cui agli articoli 19 capoverso 7 e 20.
+
+#### Art. 20b
+
+**Protezione dei dati**
+
+<sup>1</sup> Gli organi di esecuzione sono autorizzati a trattare dati personali, compresi quelli concernenti procedimenti e sanzioni amministrativi o penali. A tal fine si applicano le disposizioni concernenti la raccolta di dati personali di cui all’articolo 18 della legge federale del 19 giugno 1992[^20b-1] sulla protezione dei dati.
+
+<sup>2</sup> Gli organi di esecuzione possono conservare tali dati in forma elettronica e, per quanto necessario per un’esecuzione uniforme della presente legge, scambiarseli.
+
+[^20b-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### Sezione 3: Assistenza amministrativa
+
+#### Art. 21
+
+**Assistenza amministrativa in Svizzera**[^21-1]
+
+Le autorità competenti della Confederazione e dei Cantoni si scambiano informazioni e documenti, qualora ciò sia necessario per l’esecuzione della presente legge o per l’applicazione di prescrizioni tecniche.
+
+[^21-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 22
+
+**Assistenza amministrativa internazionale**
+
+<sup>1</sup> L’autorità incaricata di applicare prescrizioni tecniche o di sorvegliarne l’applicazione può chiedere informazioni e documenti alle autorità estere come pure alle istituzioni estere o internazionali incaricate di applicare prescrizioni tecniche.[^22-1]
+
+<sup>2</sup>
+
+Può trasmettere alle autorità estere oppure alle istituzioni estere o internazionali incaricate di applicare prescrizioni tecniche informazioni e documenti non accessibili al pubblico se è garantito che: [^22-2]
+
+- a. le autorità estere richiedenti sono vincolate dal segreto d’ufficio;
+- b. le autorità estere interessate utilizzano le informazioni ricevute esclusivamente nell’ambito di una procedura amministrativa relativa all’applicazione di prescrizioni tecniche e non le comunicano a terzi;
+- c. sono comunicate esclusivamente informazioni necessarie all’applicazione di prescrizioni tecniche;
+- d. non sono rivelati segreti di fabbricazione e d’affari a meno che la trasmissione di queste informazioni sia necessaria per scongiurare un immediato e serio pericolo per la vita o la salute di uomini, animali o piante.
+
+<sup>3</sup> Sono fatte salve le disposizioni sull’assistenza giudiziaria in materia penale.
+
+[^22-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^22-2]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+## Capitolo 5: Disposizioni penali
+
+#### Art. 23
+
+**Falsificazioni**
+
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque a scopo d’inganno, nelle relazioni giuridiche:[^23-1]
+
+- a. contraffà o falsifica certificati d’accreditamento, d’esame, di valutazione della conformità o d’omologazione o abusa della firma o del marchio dell’organismo emittente per formare un simile documento falso;
+- b. contraffà il rapporto o la perizia di una persona o di un organismo incaricati di stabilire se organismi che effettuano esami, valutazioni della conformità o omologazioni soddisfano le condizioni d’accreditamento;
+- c. abusa della firma o del marchio di una simile persona o di un simile organismo per redigere una perizia o un rapporto falso;
+- d. contraffà il rapporto o la perizia di una persona o di un organismo che deve esprimersi in merito ad elementi determinanti per l’offerta, l’immissione in commercio o la messa in servizio di prodotti;
+- e. abusa della firma o del marchio di una simile persona o di un simile organismo per redigere una perizia o un rapporto falso.
+
+[^23-1]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+
+#### Art. 24
+
+**False attestazioni**
+
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque a scopo d’inganno, nelle relazioni giuridiche:[^24-1]
+
+- a. quale organo di un organismo d’accreditamento, attesta un rapporto inesatto sul rispetto delle condizioni d’accreditamento;
+- b. quale organismo d’esame, di valutazione della conformità o d’omologazione, attesta un rapporto inesatto sul rispetto delle condizioni per l’immissione in commercio o la messa in servizio di prodotti;
+- c. quale persona incaricata di esprimersi su elementi che costituiscono le condizioni per l’accreditamento, il certificato di conformità o l’omologazione, consegna un rapporto inesatto.
+
+[^24-1]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+
+#### Art. 25
+
+**Conseguimento fraudolento di una falsa attestazione**
+
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, usando inganno:[^25-1]
+
+- a. induce l’organo di un organismo d’accreditamento a redigere un certificato di accreditamento inesatto oppure induce una persona o un organismo tenuto a esprimersi sugli elementi che costituiscono le condizioni di un accreditamento a consegnare una perizia o un rapporto inesatti;
+- b. induce l’organo di un organismo d’esame, di valutazione della conformità o d’omologazione a redigere un rapporto, un certificato o un’attestazione inesatti per provare la conformità di un prodotto oppure induce una persona o un organismo tenuto a esprimersi sugli elementi che costituiscono le condizioni di queste attestazioni a consegnare una perizia o un rapporto inesatti.
+
+[^25-1]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+
+#### Art. 26
+
+**Uso di certificati falsi o inesatti**
+
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque a scopo d’inganno, nelle relazioni giuridiche:[^26-1]
+
+- a. fa uso o tollera che altri facciano uso di certificati d’accreditamento, d’esame, di conformità e d’omologazione falsi o inesatti redatti da un terzo;
+- b. fa valere in modo fraudolento un certificato d’accreditamento, d’esame, di conformità e d’omologazione in altro modo rispetto a quanto previsto nella lettera a e negli articoli 23 a 25.
+
+[^26-1]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+
+#### Art. 27
+
+**Documenti esteri**[^27-1]
+
+Gli articoli 23–26 e 28 sono parimenti applicabili ai documenti esteri.
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 28
+
+**Rilascio illegittimo di dichiarazioni di conformità, apposizione e uso non autorizzato di marchi di conformità**
+
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque a scopo d’inganno, nelle relazioni giuridiche:[^28-1]
+
+- a. rilascia dichiarazioni di conformità per prodotti non conformi alle prescrizioni tecniche o immette in commercio simili prodotti accompagnati da una dichiarazione di conformità;
+- b. appone il marchio di conformità a prodotti non conformi alle prescrizioni tecniche o immette in commercio simili prodotti con tale marchio;
+- c.[^28-2] rilascia dichiarazioni attestanti la conformità con prescrizioni tecniche estere per prodotti non conformi alle prescrizioni tecniche dello Stato in questione.
+
+[^28-1]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^28-2]: Introdotta dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 28a
+
+**Mancata richiesta dell’autorizzazione di cui all’articolo 16*c**[^28a-1]*
+
+È punito con una pena detentiva sino a un anno o con una pena pecuniaria chiunque intenzionalmente:
+
+- a. senza l’autorizzazione di cui all’articolo 16*c* immette in commercio in Svizzera derrate alimentari non conformi alle prescrizioni tecniche svizzere;
+- b. contravviene alle condizioni o agli oneri stabiliti nell’autorizzazione di cui all’articolo 16*c*;
+- c. fornendo indicazioni inesatte e difficili da verificare per l’autorità competente, ottiene in modo fraudolento un’autorizzazione di cui all’articolo 16*c*.
+
+[^28a-1]: Introdotta dal n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 29
+
+**Vantaggi pecuniari illeciti**
+
+I vantaggi pecuniari derivanti da atti illeciti previsti negli articoli 23 a 28 possono essere confiscati giusta gli articoli 69 e seguenti del Codice penale[^29-1].[^29-2]
+
+[^29-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-2]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+
+#### Art. 30
+
+**Perseguimento penale**
+
+Il perseguimento penale spetta ai Cantoni.
+
+## Capitolo 6: Disposizioni finali
+
+#### Art. 31
+
+**Esecuzione**[^31-1]
+
+<sup>1</sup> Il Consiglio federale emana le prescrizioni d’esecuzione.
+
+<sup>2</sup>
+
+Le autorità competenti della Confederazione tengono elenchi:
+
+- a. delle categorie di prodotti e dei prodotti che non hanno accesso al mercato svizzero secondo gli articoli 16*a* capoverso 2 e 20;
+- b. delle decisioni di portata generale di cui all’articolo 16*d* capoverso 2 passate in giudicato.
+
+[^31-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+
+#### Art. 32
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà al referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Data dell’entrata in vigore: 1° luglio 1996[^32-1]
+
+[^32-1]: DCF del 17 giu. 1996
+
+Allegato
+
+## Modifiche del diritto vigente
+
+Le leggi fedeali qui appresso sono modificate come segue:
+
+…[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725).

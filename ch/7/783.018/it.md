@@ -1,0 +1,99 @@
+---
+sr: "783.018"
+title: Regolamento sugli emolumenti del 26 agosto 2013 della Commissione delle poste
+eli: "https://fedlex.data.admin.ch/eli/cc/2013/624"
+language: it
+version: 2013-10-15
+adopted: 2013-08-26
+in_force: 2013-10-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/624/20131015/it/xml/fedlex-data-admin-ch-eli-cc-2013-624-20131015-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/624/20131015/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Regolamento sugli emolumenti della Commissione delle poste
+
+del 26 agosto 2013 (Stato 15 ottobre 2013)
+
+Approvato dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni il 19 settembre 2013
+
+La Commissione delle poste (PostCom),
+
+visto l’articolo 77 capoverso 3 dell’ordinanza del 29 agosto 2012[^ingress-1] sulle poste (OPO),
+
+decreta:
+
+[^ingress-1]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+
+#### Art. 1
+
+**Oggetto**
+
+<sup>1</sup>
+
+Il presente regolamento disciplina:
+
+- a. gli emolumenti per le decisioni e le prestazioni rese dalla PostCom e dal segretariato specializzato della PostCom;
+- b. la tassa di procedura ed emolumento per l’esame del caso da parte dell’organo di conciliazione secondo l’articolo 71 OPO.
+
+<sup>2</sup> Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^1-1] sugli emolumenti.
+
+[^1-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+#### Art. 2
+
+**Principi**
+
+<sup>1</sup> La PostCom fissa l’emolumento caso per caso secondo le aliquote determinanti di cui all’articolo 3. Nel fare ciò, tiene conto delle circostanze concrete e del principio della proporzionalità.
+
+<sup>2</sup> La PostCom può adeguare le aliquote degli emolumenti, per l’inizio dell’anno successivo, all’indice nazionale dei prezzi al consumo senza l’approvazione del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, sempre che, dall’entrata in vigore del presente regolamento o dall’ultimo adeguamento, l’aumento dell’indice sia almeno pari al 5 per cento.
+
+#### Art. 3
+
+**Aliquote degli emolumenti**
+
+L’aliquota dell’emolumento per un’ora di lavoro ammonta:
+
+<table>
+<tr><td>a. per i collaboratori amministrativi del segretariato specializzato a:</td><td>fr. 105.–</td></tr>
+<tr><td>b. per i collaboratori specializzati del segretariato specializzato a:</td><td>fr. 180.–</td></tr>
+<tr><td>c. per il responsabile del segretariato specializzato a:</td><td>fr. 200.–</td></tr>
+<tr><td>d. per i membri della commissione a:</td><td>fr. 250.–</td></tr>
+</table>
+
+#### Art. 4
+
+**Prestazioni della PostCom soggette a emolumento**
+
+<sup>1</sup> La PostCom riscuote emolumenti, in particolare per:
+
+<table>
+<tr><td>a. la registrazione della notifica dei fornitori e la verifica delle prove necessarie a tal fine:</td><td>a seconda del tempo impiegato</td></tr>
+<tr><td>b. le prestazioni e le decisioni relative all’accesso agli impianti di caselle postali:</td><td>a seconda del tempo impiegato</td></tr>
+<tr><td>c. le prestazioni e le decisioni relative allo scambio di dati:</td><td>a seconda del tempo impiegato</td></tr>
+<tr><td>d. le prestazioni e le decisioni relative alla vigilanza sulla fornitura del servizio universale nel settore dei servizi postali:</td><td>a seconda del tempo impiegato</td></tr>
+<tr><td>e. le attività che rientrano nel suo ambito di vigilanza secondo l’articolo 24 della legge del 17 dicembre 2010[^4-1] sulle poste e che possono essere attribuite a un determinato fornitore:</td><td>a seconda del tempo impiegato</td></tr>
+<tr><td>f. le sanzioni amministrative secondo l’articolo 25 della legge 17 dicembre 2010 sulle poste:</td><td>a seconda del tempo impiegato</td></tr>
+<tr><td>g. le decisioni relative alle controversie concernenti l’ubicazione delle cassette delle lettere:</td><td>fr. 200.–</td></tr>
+<tr><td>h. le decisioni relative alle controversie concernenti la distribuzione a domicilio:</td><td>fr. 200.–</td></tr>
+<tr><td>i. le decisioni relative alle fatture non pagate o controverse dell’organo di conciliazione:</td><td>a seconda del tempo impiegato</td></tr>
+</table>
+
+<sup>2</sup> In tutti gli altri casi riscuote l’emolumento a seconda del tempo impiegato.
+
+[^4-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+
+#### Art. 5
+
+**Prestazioni dell’organo di conciliazione soggette a emolumento**
+
+<sup>1</sup> L’emolumento per l’esame del caso secondo l’articolo 71 capoverso 1 OPO ammonta a 20 franchi.
+
+<sup>2</sup> La tassa di procedura secondo l’articolo 71 capoverso 2 OPO è stabilita a seconda del tempo impiegato. L’aliquota dell’emolumento per un’ora di lavoro ammonta a 250 franchi.
+
+#### Art. 6
+
+**Entrata in vigore**
+
+Il presente regolamento entra in vigore il 15 ottobre 2013.

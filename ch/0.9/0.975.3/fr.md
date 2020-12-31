@@ -1,0 +1,201 @@
+---
+sr: "0.975.3"
+title: "Convention du 10 décembre 2014 des Nations Unies sur la transparence dans l'arbitrage entre investisseurs et États fondé sur des traités"
+eli: "https://fedlex.data.admin.ch/eli/cc/2017/304"
+language: fr
+version: 2020-07-08
+adopted: 2014-12-10
+in_force: 2017-10-18
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20200708/fr/xml/fedlex-data-admin-ch-eli-cc-2017-304-20200708-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20200708/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Convention des Nations Unies sur la transparence dans l’arbitrage entre investisseurs et États fondé sur des traités
+
+RO **2017** 3083; FF **2016** 3879
+
+Texte original
+
+Conclue à New York le 10 décembre 2014
+
+Approuvée par l’Assemblée fédérale le 16 décembre 2016[^t-1]
+
+Instrument de ratification déposé par la Suisse le 18 avril 2017
+
+Entrée en vigueur pour la Suisse le 18 octobre 2017
+
+(Etat le 8 juillet 2020)
+
+[^t-1]: [RO 2017 3081](https://fedlex.data.admin.ch/eli/oc/2017/303)
+
+*Préambule*
+
+Les Parties à la présente Convention,
+
+reconnaissant l’utilité que présente l’arbitrage en tant que mode de règlement des litiges qui peuvent naître dans le cadre des relations internationales et sa large utilisation pour la résolution de litiges entre investisseurs et États,
+
+reconnaissant également la nécessité de dispositions sur la transparence dans la résolution des litiges entre investisseurs et États fondée sur des traités pour prendre en compte l’intérêt général inhérent à ce type d’arbitrage,
+
+convaincues que le Règlement sur la transparence dans l’arbitrage entre investisseurs et États fondé sur des traités adopté par la Commission des Nations Unies pour le droit commercial international le 11 juillet 2013 («Règlement de la CNUDCI sur la transparence»), applicable à compter du 1<sup>er</sup> avril 2014, contribuerait sensiblement à la mise en place d’un cadre juridique harmonisé propice au règlement équitable et efficace des litiges internationaux relatifs aux investissements,
+
+notant le grand nombre de traités prévoyant la protection des investissements ou des investisseurs, déjà en vigueur, et l’importance, sur le plan pratique, de promouvoir l’application du Règlement de la CNUDCI sur la transparence à l’arbitrage fondé sur ces traités d’investissement,
+
+notant également l’art. 1 par. 2 et 9 du Règlement de la CNUDCI sur la transparence,
+
+sont convenues de ce qui suit:
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1.</sup> La présente Convention s’applique à l’arbitrage entre un investisseur et un État ou une organisation régionale d’intégration économique conduit sur le fondement d’un traité d’investissement conclu avant le 1<sup>er</sup> avril 2014 («arbitrage entre investisseurs et États»).
+
+<sup>2.</sup> L’expression «traité d’investissement» désigne tout traité bilatéral ou multilatéral, notamment tout traité généralement appelé accord de libre-échange, accord d’intégration économique, accord-cadre ou accord de coopération en matière de commerce et d’investissement, ou traité bilatéral d’investissement, qui contient des dispositions sur la protection des investissements ou des investisseurs et prévoit le droit pour ces derniers de recourir à l’arbitrage contre ses parties contractantes.
+
+#### Art. 2
+
+**Application du Règlement de la CNUDCI sur la transparence**
+
+### Application bilatérale ou multilatérale
+
+<sup>1.</sup> Le Règlement de la CNUDCI sur la transparence s’applique à tout arbitrage entre investisseurs et États, engagé ou non en vertu du Règlement d’arbitrage de la CNUDCI, dans lequel le défendeur est une Partie qui n’a pas formulé de réserve pertinente en vertu de l’art. 3-1 a) ou b), et où le demandeur est d’un État qui est une Partie qui n’a pas formulé de réserve pertinente en vertu de l’art. 3-1 a).
+
+### Offre unilatérale d’application
+
+<sup>2.</sup> Lorsqu’il ne s’applique pas en vertu du par. 1, le Règlement de la CNUDCI sur la transparence s’applique à un arbitrage entre investisseurs et États, engagé ou non en vertu du Règlement d’arbitrage de la CNUDCI, dans lequel le défendeur est une Partie qui n’a pas formulé de réserve concernant cet arbitrage en vertu de l’art. 3-1, et où le demandeur accepte l’application du Règlement de la CNUDCI sur la transparence.
+
+### Version applicable du Règlement de la CNUDCI sur la transparence
+
+<sup>3.</sup> Lorsque le Règlement de la CNUDCI sur la transparence s’applique en vertu du par. 1 ou 2, la version la plus récente du Règlement à l’égard de laquelle le défendeur n’a pas formulé de réserve en vertu de l’art. 3-2 s’applique.
+
+### Art. 1-7 du Règlement de la CNUDCI sur la transparence
+
+<sup>4.</sup> La dernière phrase de l’art. 1-7 du Règlement de la CNUDCI sur la transparence ne s’applique pas aux arbitrages entre investisseurs et États visés au par. 1.
+
+### Clause de la nation la plus favorisée dans un traité d’investissement
+
+<sup>5.</sup> Les Parties à la présente Convention conviennent qu’un demandeur ne peut invoquer une clause de la nation la plus favorisée pour chercher à faire appliquer le Règlement de la CNUDCI sur la transparence, ou en éviter l’application, en vertu de la présente Convention.
+
+#### Art. 3
+
+**Réserves**
+
+<sup>1.</sup>
+
+Une Partie peut déclarer:
+
+- a) qu’elle n’appliquera pas la présente Convention aux arbitrages entre investisseurs et États fondés sur un traité d’investissement spécifique, désigné par son intitulé et le nom de ses parties contractantes;
+- b) que les art. 2-1 et 2-2 ne s’appliquent pas aux arbitrages entre investisseurs et États conduits sur la base d’un ensemble spécifique de règles ou de procédures d’arbitrage autres que le Règlement d’arbitrage de la CNUDCI, et dans lesquels elle est défenderesse;
+- c) que l’art. 2-2 ne s’applique pas aux arbitrages entre investisseurs et États dans lesquels elle est défenderesse.
+
+<sup>2.</sup> En cas de révision du Règlement de la CNUDCI sur la transparence, une Partie peut, dans les six mois suivant l’adoption de cette révision, déclarer qu’elle n’appliquera pas cette version révisée du Règlement.
+
+<sup>3.</sup> constitue une réserve distincte qui peut être retirée séparément en vertu de l’art. 4-6.
+
+Les Parties peuvent formuler plusieurs réserves dans un seul instrument. Dans un tel instrument, chaque déclaration faite:
+
+- a) au sujet d’un traité d’investissement spécifique, en vertu du par. 1a);
+- b) au sujet d’un ensemble spécifique de règles ou de procédures d’arbitrage, en vertu du par. 1 b);
+- c) en vertu du par. 1 c), ou
+- d) en vertu du par. 2,
+
+<sup>4.</sup> Il n’est autorisé aucune réserve autre que celles expressément autorisées par le présent article.
+
+#### Art. 4
+
+**Formulation de réserves**
+
+<sup>1.</sup> Des réserves peuvent être formulées par une Partie à tout moment, sauf au titre de l’art. 3-2.
+
+<sup>2.</sup> Les réserves formulées au moment de la signature sont soumises à confirmation lors de la ratification, de l’acceptation ou de l’approbation. Ces réserves prennent effet à la date de l’entrée en vigueur de la présente Convention à l’égard de la Partie concernée.
+
+<sup>3.</sup> Les réserves formulées au moment de la ratification, de l’acceptation ou de l’approbation de la présente Convention, ou de l’adhésion à cette dernière, prennent effet à la date de l’entrée en vigueur de la présente Convention à l’égard de la Partie concernée.
+
+<sup>4.</sup> À l’exception des réserves formulées par une Partie en vertu de l’art. 3-2, qui prennent effet dès leur dépôt, une réserve déposée après l’entrée en vigueur de la Convention à l’égard de cette Partie prend effet douze mois après la date de son dépôt.
+
+<sup>5.</sup> Les réserves et leurs confirmations sont déposées auprès du dépositaire.
+
+<sup>6.</sup> Toute Partie qui formule une réserve au titre de la présente Convention peut la retirer à tout moment. Ce retrait doit être déposé auprès du dépositaire et prend effet dès son dépôt.
+
+#### Art. 5
+
+**Application aux arbitrages entre investisseurs et États**
+
+La présente Convention et toute réserve, ou tout retrait d’une réserve, s’appliquent uniquement aux arbitrages entre investisseurs et États qui sont engagés après la date à laquelle la Convention est entrée en vigueur, ou la réserve ou le retrait d’une réserve a pris effet à l’égard de chaque Partie concernée.
+
+#### Art. 6
+
+**Dépositaire**
+
+Le Secrétaire général de l’Organisation des Nations Unies est désigné comme dépositaire de la présente Convention.
+
+#### Art. 7
+
+**Signature, ratification, acceptation, approbation, adhésion**
+
+<sup>1.</sup> La présente Convention est ouverte à la signature à Port-Louis (Maurice), le 17 mars 2015, et après cette date au Siège de l’Organisation des Nations Unies, à New York. Elle est ouverte à la signature a) de tout État; ou b) de toute organisation régionale d’intégration économique qui est constituée d’États et qui est partie contractante à un traité d’investissement.
+
+<sup>2.</sup> La présente Convention est soumise à ratification, acceptation ou approbation de ses signataires.
+
+<sup>3.</sup> La présente Convention est ouverte à l’adhésion de tous les États ou organisations régionales d’intégration économique visés au par. 1 non signataires à compter de la date à laquelle elle est ouverte à la signature.
+
+<sup>4.</sup> Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion sont déposés auprès du dépositaire.
+
+#### Art. 8
+
+**Participation d’organisations régionales d’intégration économique**
+
+<sup>1.</sup> Lorsqu’elle dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, une organisation régionale d’intégration économique informe le dépositaire de tout traité d’investissement auquel elle est partie contractante, désigné par son intitulé et le nom de ses parties contractantes.
+
+<sup>2.</sup> Lorsque le nombre de Parties est pertinent pour l’application de la présente Convention, une organisation régionale d’intégration économique ne compte pas comme Partie en sus de ses États membres qui sont Parties.
+
+#### Art. 9
+
+**Entrée en vigueur**
+
+<sup>1.</sup> La présente Convention entre en vigueur six mois à compter de la date de dépôt du troisième instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+
+<sup>2.</sup> Lorsqu’un État ou une organisation régionale d’intégration économique ratifie, accepte ou approuve la présente Convention ou y adhère après le dépôt du troisième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entre en vigueur à l’égard de cet État ou de cette organisation régionale d’intégration économique six mois après la date de dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+
+#### Art. 10
+
+**Amendement**
+
+<sup>1.</sup> Toute Partie peut proposer un amendement à la présente Convention en le soumettant au Secrétaire général de l’Organisation des Nations Unies. Ce dernier communique alors l’amendement proposé aux Parties à la présente Convention en les priant d’indiquer si elles sont ou non favorables à la tenue d’une conférence des Parties chargée d’examiner la proposition et de la mettre aux voix. Si, dans un délai de quatre mois à compter de la date à laquelle cette communication a été faite, un tiers au moins des Parties sont favorables à la tenue d’une conférence, le Secrétaire général la convoque sous l’égide de l’Organisation des Nations Unies.
+
+<sup>2.</sup> La conférence des Parties n’épargne aucun effort pour parvenir à un consensus sur chaque amendement. Si tous les efforts en ce sens sont épuisés sans qu’un consensus ne soit trouvé, il faut, en dernier recours, pour que l’amendement soit adopté, un vote à la majorité des deux tiers des Parties présentes à la conférence et exprimant leur vote.
+
+<sup>3.</sup> Un amendement adopté est soumis par le Secrétaire général de l’Organisation des Nations Unies à la ratification, à l’acceptation ou à l’approbation de toutes les Parties.
+
+<sup>4.</sup> Un amendement adopté entre en vigueur six mois à compter de la date de dépôt du troisième instrument de ratification, d’acceptation ou d’approbation. Un amendement entré en vigueur a force obligatoire à l’égard des Parties qui ont exprimé leur consentement à être liées par lui.
+
+<sup>5.</sup> Lorsqu’un État ou une organisation régionale d’intégration économique ratifie, accepte ou approuve un amendement déjà entré en vigueur, cet amendement entre en vigueur à l’égard de cet État ou de cette organisation six mois après la date de dépôt de son instrument de ratification, d’acceptation ou d’approbation.
+
+<sup>6.</sup> Tout État ou toute organisation régionale d’intégration économique qui devient Partie à la présente Convention après l’entrée en vigueur de l’amendement est réputé Partie à la Convention telle qu’amendée.
+
+#### Art. 11
+
+**Dénonciation de la présente Convention**
+
+<sup>1.</sup> Une Partie peut à tout moment dénoncer la présente Convention par voie de notification formelle adressée au dépositaire. La dénonciation prend effet douze mois après la réception de la notification par le dépositaire.
+
+<sup>2.</sup> La présente Convention continue de s’appliquer aux arbitrages entre investisseurs et États engagés avant que la dénonciation n’ait pris effet.
+
+Fait en un seul original, dont les textes anglais, arabe, chinois, espagnol, français et russe font également foi.
+
+*En foi de quoi* les plénipotentiaires soussignés, dûment autorisés par leur gouvernement respectif, ont signé la présente Convention. (Suivent les signatures)
+
+Champ d’application le 8 juillet 2020**[^t-2]**
+
+<table>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Cameroun</td><td>18 juin</td><td>2018</td><td>18 décembre</td><td>2018</td></tr>
+<tr><td>Canada</td><td>12 décembre</td><td>2016</td><td>18 octobre</td><td>2017</td></tr>
+<tr><td>Gambie</td><td>28 septembre</td><td>2018</td><td>28 mars</td><td>2019</td></tr>
+<tr><td>Maurice</td><td>5 juin</td><td>2015</td><td>18 octobre</td><td>2017</td></tr>
+<tr><td>Suisse</td><td>18 avril</td><td>2017</td><td>18 octobre</td><td>2017</td></tr>
+</table>
+
+[^t-2]: [RO 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304), [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).

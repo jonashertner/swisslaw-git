@@ -1,0 +1,226 @@
+---
+sr: "172.061"
+title: "Loi fédérale du 18 mars 2005 sur la procédure de consultation (Loi sur la consultation, LCo)"
+short: LCo
+eli: "https://fedlex.data.admin.ch/eli/cc/2005/542"
+language: fr
+version: 2018-11-26
+adopted: 2005-03-18
+in_force: 2005-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20181126/fr/xml/fedlex-data-admin-ch-eli-cc-2005-542-20181126-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Loi fédérale sur la procédure de consultation<sup></sup>
+
+(Loi sur la consultation, LCo)[^t-1]
+
+du 18 mars 2005 (État le 26 novembre 2018)
+
+[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+
+L’Assemblée fédérale de la Confédération suisse,
+
+vu l’art. 147 de la Constitution[^ingress-1], vu le message du Conseil fédéral du 21 janvier 2004[^ingress-2],
+
+arrête:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/127)
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> La présente loi fixe les principes généraux de la procédure de consultation.
+
+<sup>2</sup> Elle s’applique aux procédures de consultation ouvertes par le Conseil fédéral, par un département, par la Chancellerie fédérale, par une unité de l’administration fédérale ou par une commission parlementaire.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 2
+
+**But de la procédure de consultation**
+
+<sup>1</sup> La procédure de consultation vise à associer les cantons, les partis politiques et les milieux intéressés à la définition de la position de la Confédération et à l’élaboration de ses décisions.
+
+<sup>2</sup> Elle permet de déterminer si un projet de la Confédération est matériellement correct, exécutable et susceptible d’être bien accepté.
+
+#### Art. 3
+
+**Objet de la procédure de consultation**[^3-1]
+
+<sup>1</sup>
+
+Une consultation est organisée lors des travaux préparatoires concernant:
+
+- a. les modifications de la Constitution;
+- b. les projets de loi au sens de l’art. 164, al. 1, de la Constitution;
+- c. les traités internationaux qui sont soumis au référendum prévu par l’art. 140, al. 1, let. b, de la Constitution ou sujets au référendum prévu par l’art. 141, al. 1, let. d, ch. 3, de la Constitution, ou encore qui touchent des intérêts essentiels des cantons;
+- d. les ordonnances et autres projets qui ont une grande portée politique, financière, économique, écologique, sociale ou culturelle;
+- e. les ordonnances et autres projets qui ne relèvent pas de la let. d mais qui touchent particulièrement les cantons ou certains d’entre eux ou dont l’exécution sera confiée en grande partie à des organes extérieurs à l’administration fédérale.
+
+<sup>2</sup> Une consultation peut également être organisée pour les projets qui ne remplissent aucune des conditions prévues à l’al. 1.
+
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 3a
+
+**Renonciation à une procédure de consultation**[^3a-1]
+
+<sup>1</sup>
+
+Il est possible de renoncer à une procédure de consultation lorsqu’une des conditions suivantes est remplie:
+
+- a. le projet porte principalement sur l’organisation ou les procédures des autorités fédérales ou sur la répartition des compétences entre autorités fédérales;
+- b. aucune information nouvelle n’est à attendre du fait que les positions des milieux intéressés sont connues, notamment parce que l’objet dont traite le projet a déjà été mis en consultation précédemment.
+
+<sup>2</sup> La renonciation à la procédure de consultation doit être justifiée par des motifs objectifs.
+
+[^3a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 4
+
+**Participation**
+
+<sup>1</sup> Toute personne ou organisation peut participer à la consultation et exprimer un avis.
+
+<sup>2</sup>
+
+Sont invités à donner un avis:
+
+- a.[^4-1] les gouvernements cantonaux;
+- b. les partis politiques représentés à l’Assemblée fédérale;
+- c. les associations faîtières des communes, des villes et des régions de montagne qui œuvrent au niveau national;
+- d. les associations faîtières de l’économie qui œuvrent au niveau national;
+- e.[^4-2] les autres milieux et les commissions extraparlementaires concernés par le projet dans le cas d’espèce.
+
+<sup>3</sup> La Chancellerie fédérale tient une liste des organisations consultées systématiquement en vertu de l’al. 2, let. a à d.
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^4-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 5
+
+**Ouverture**[^5-1]
+
+<sup>1</sup>
+
+La procédure de consultation concernant un projet issu de l’administration fédérale est ouverte:
+
+- a. par le Conseil fédéral pour les projets visés à l’art. 3, al. 1;
+- b. par le département compétent ou par la Chancellerie fédérale pour les projets visés à l’art. 3, al. 2;
+- c. par l’unité compétente de l’administration fédérale centrale ou décentralisée, pour autant qu’elle ait la compétence d’édicter des règles de droit.
+
+<sup>2</sup> La procédure de consultation concernant un projet issu de l’Assemblée fédérale est ouverte par la commission parlementaire compétente.
+
+<sup>3</sup> La Chancellerie fédérale coordonne les consultations. Elle publie l’ouverture de toute procédure de consultation, en mentionnant le délai de consultation et le service auprès duquel le dossier peut être obtenu.
+
+[^5-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 6
+
+**Déroulement**[^6-1]
+
+<sup>1</sup> L’autorité compétente pour ouvrir la consultation prépare la procédure de consultation, en assure le déroulement, en rassemble les résultats et les évalue. Lorsque c’est le Conseil fédéral qui ouvre la consultation, les tâches en question sont assumées par le département compétent.
+
+<sup>2</sup> Les commissions parlementaires peuvent faire appel aux services de l’administration fédérale pour préparer une consultation et en rassembler les résultats.
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 6a
+
+**Contenu du rapport explicatif relatif au projet**[^6a-1]
+
+Les exigences applicables aux messages du Conseil fédéral, énumérées à l’art. 141, al. 2, de la loi du 13 décembre 2002[^6a-2] sur le Parlement, s’appliquent par analogie au rapport explicatif relatif au projet.
+
+[^6a-1]: Introduit par le ch. II de la LF du 15 juin 2018 (Modifications diverses du droit parlementaire), en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^6a-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+
+#### Art. 7
+
+**Forme et délai**[^7-1]
+
+<sup>1</sup> Les dossiers soumis à consultation sont disponibles sur support papier ou sous forme électronique. Le Conseil fédéral peut prévoir qu’une consultation sera menée exclusivement par voie électronique dès lors que les conditions techniques sont réunies.
+
+<sup>2</sup> L’autorité compétente pour le déroulement de la procédure de consultation peut en outre inviter les milieux intéressés à des séances de travail. Celles-ci font l’objet d’un procès-verbal.
+
+<sup>3</sup>
+
+Le délai de consultation est de trois mois au moins. Il est prolongé de manière appropriée pour tenir compte des périodes de vacances et des jours fériés, ainsi que du contenu et de l’ampleur du projet. Le délai minimal se prolonge:
+
+- a. de trois semaines pour une consultation qui englobe la période allant du 15 juillet au 15 août;
+- b. de deux semaines pour une consultation qui englobe la période de Noël et du Nouvel An;
+- c. d’une semaine pour une consultation qui englobe la période de Pâques.
+
+<sup>4</sup> Si le projet ne souffre aucun retard, le délai peut être raccourci à titre exceptionnel. Les motifs objectifs qui justifient l’urgence doivent être communiqués aux destinataires de la consultation.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 8
+
+**Traitement des avis**
+
+<sup>1</sup> Il est pris connaissance des avis exprimés, qui sont pondérés et évalués.
+
+<sup>2</sup> Les résultats de la consultation sont résumés dans un rapport.[^8-1]
+
+[^8-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 9
+
+**Publicité**
+
+<sup>1</sup>
+
+Sont accessibles au public:
+
+- a. le dossier soumis à consultation, ainsi que tous les documents, prises de position ou avis de droit mentionnés dans le rapport explicatif;
+- b. les avis exprimés et, le cas échéant, les procès-verbaux prévus à l’art. 7, al. 2: après expiration du délai de consultation;
+- c. le rapport rendant compte des résultats de la consultation (art. 8, al. 2): après que l’autorité ayant ouvert la procédure a pris connaissance de ce rapport.[^9-1]
+
+<sup>2</sup> La Confédération assure l’accès aux avis exprimés en autorisant leur consultation sur place, en en fournissant des copies ou en les publiant sous forme électronique; les avis peuvent être préparés à cet effet.
+
+<sup>3</sup> La loi du 17 décembre 2004 sur la transparence[^9-2] n’est pas applicable.
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^9-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 10
+
+[^10-1]
+
+[^10-1]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+
+#### Art. 11
+
+**Dispositions d’exécution**
+
+Le Conseil fédéral règle les modalités par voie d’ordonnance, notamment:
+
+- a. la planification et la coordination des procédures de consultation;
+- b. le contenu du dossier soumis à consultation ainsi que la façon de le constituer et de le remettre;
+- c. le déroulement de la procédure de consultation par voie électronique;
+- d. la manière de traiter les avis reçus, notamment leur évaluation, leur préparation, leur publication et leur archivage.
+
+#### Art. 12
+
+**Modification du droit en vigueur**
+
+…[^12-1]
+
+[^12-1]: Les mod. peuvent être consultées au [RO 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542).
+
+#### Art. 13
+
+**Référendum et entrée en vigueur**
+
+<sup>1</sup> La présente loi est sujette au référendum.
+
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> septembre 2005[^13-1]
+
+[^13-1]: ACF du 17 août 2005

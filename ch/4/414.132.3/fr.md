@@ -1,0 +1,297 @@
+---
+sr: "414.132.3"
+title: "Ordonnance du 14 juin 2004 sur la formation menant au bachelor et au master de l'École polytechnique fédérale de Lausanne (Ordonnance sur la formation à l'EPFL)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
+language: fr
+version: 2019-09-01
+adopted: 2004-06-14
+in_force: 2004-10-18
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20190901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20190901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la formation menant au bachelor et au master de l’École polytechnique fédérale de Lausanne
+
+(Ordonnance sur la formation à l’EPFL)
+
+du 14 juin 2004 (Etat le 1<sup>er</sup> septembre 2019)
+
+La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
+
+vu l’art. 3, al. 1, let. b, de l’ordonnance du 13 novembre 2003 sur l’EPFZ et l’EPFL[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+
+## Section 1 Généralités et définitions
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente ordonnance régit la formation menant aux titres de bachelor et de master décernés par l’EPFL.
+
+<sup>2</sup> Les études de bachelor et de master constituent les deux phases successives de cette formation.
+
+#### Art. 2
+
+**Admission**
+
+L’admission à la formation menant au bachelor et au master est déterminée par l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^2-1].
+
+[^2-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+
+#### Art. 3
+
+**Titres**
+
+<sup>1</sup>
+
+L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou domaines):[^3-1]
+
+- a. le bachelor;
+- b. le master.
+
+<sup>2</sup> Les titres sont munis du sceau de l’EPFL et mentionnent le nom du titulaire. Ils sont signés par le président de l’EPFL, par le vice-président pour l’éducation à l’EPFL et par le directeur de section. Ils sont accompagnés du «diploma supplement» décrivant le niveau, le contexte, le contenu et le statut des études accomplies avec succès. Les titres mentionnent le domaine d’études et, pour le master, la désignation professionnelle du titulaire, ainsi qu’une éventuelle orientation particulière.[^3-2]
+
+<sup>3</sup> …[^3-3]
+
+<sup>4</sup> Tout titulaire du diplôme de l’EPFL (art. 15, al. 1) est autorisé à se présenter comme titulaire du master de l’EPFL (annexe I).
+
+<sup>5</sup> La liste des titres et désignations correspondantes selon les domaines d’études figure dans l’annexe I de la présente ordonnance.
+
+<sup>6</sup> Les titres de master décernés par l’EPFL communément avec d’autres institutions sont régis par les accords spécifiques.
+
+<sup>7</sup> L’EPFL décerne également le titre de docteur ès sciences (ou Ph. D.) et d’autres titres correspondant à la formation continue. Ces titres font l’objet d’ordonnances spécifiques.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 12 juin 2006, en vigueur depuis le 23 oct. 2006 ([RO 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3975](https://fedlex.data.admin.ch/eli/oc/2017/472)).
+[^3-3]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, avec effet au 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+#### Art. 4
+
+**Crédits d’études ECTS**
+
+<sup>1</sup> L’EPFL attribue des crédits pour les prestations d’études contrôlées, conformément au système européen de transfert et d’accumulation de crédits d’études (European Credit Transfer and Accumulation System, ci-après ECTS). Le nombre de crédits défini pour une matière est fonction du volume de travail à fournir pour atteindre l’objectif de formation.
+
+<sup>2</sup> Les crédits ECTS sont acquis de façon cumulative selon les conditions définies par l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL[^4-1]. Les règlements d’application du contrôle des études visés à l’art. 5 de ladite ordonnance définissent le nombre de crédits attribué à chaque domaine d’études.[^4-2]
+
+<sup>3</sup> Les plans d’études visés à l’art. 5 de l’ordonnance sur le contrôle des études à l’EPFL sont conçus de façon à permettre l’acquisition de 60 crédits ECTS par année académique.[^4-3]
+
+[^4-1]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^4-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+#### Art. 5
+
+**Nombre de crédits ECTS requis**[^5-1]
+
+<sup>1</sup> À réussi le bachelor l’étudiant qui a acquis 180 crédits ECTS conformément à l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL[^5-2] et aux règlements d’application visés à l’art. 5 de ladite ordonnance.
+
+<sup>2</sup> À réussi le master l’étudiant qui a acquis, en sus du bachelor, 60 crédits ECTS, respectivement 90 crédits ECTS pour les sections qui les requièrent conformément à l’annexe I, et réussi le projet de master représentant 30 crédits, conformément à l’ordonnance sur le contrôle des études à l’EPFL et aux règlements d’application.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^5-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+
+## Section 2 Bachelor
+
+#### Art. 6
+
+**Étapes de formation**
+
+<sup>1</sup>
+
+Le bachelor de l’EPFL est composé de deux étapes successives de formation:
+
+- a. le cycle propédeutique;
+- b. le cycle bachelor.
+
+<sup>2</sup> …[^6-1]
+
+[^6-1]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, avec effet au 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+#### Art. 7
+
+**Cycle propédeutique**
+
+<sup>1</sup> Le cycle propédeutique s’étend sur deux semestres.[^7-1]
+
+<sup>2</sup> Il a pour objectif la vérification des connaissances de base, l’acquisition des compétences nécessaires pour la suite de la formation en sciences naturelles et une initiation dans les sciences humaines et sociales.
+
+<sup>3</sup> Sa durée ne peut excéder deux ans.
+
+<sup>4</sup> La réussite de l’examen propédeutique permet d’acquérir 60 crédits ECTS et est la condition pour entrer au cycle bachelor.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+#### Art. 8
+
+**Cycle bachelor**
+
+<sup>1</sup> Le cycle bachelor s’étend sur deux années d’études.
+
+<sup>2</sup> Il a pour objectif l’acquisition des bases scientifiques générales et spécifiques au domaine d’études et à un secteur des sciences humaines et sociales.
+
+<sup>3</sup> Il doit être réussi au plus tard quatre ans après la réussite du cycle propédeutique ou, en cas d’admission à un semestre supérieur, dans un délai qui correspond au double du nombre de semestres à accomplir.[^8-1]
+
+<sup>4</sup> Le cycle bachelor est réputé réussi par l’acquisition de 120 crédits ECTS. La réussite du cycle bachelor est la condition pour entrer au cycle master. L’art. 29, al. 1, de l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL[^8-2] est réservé.[^8-3]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^8-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^8-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+## Section 3 Master
+
+#### Art. 9
+
+**Étapes de formation**
+
+<sup>1</sup>
+
+Le master est composé de deux étapes successives de formation:
+
+- a. le cycle master;
+- b. le projet de master.
+
+<sup>2</sup> …[^9-1]
+
+[^9-1]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, avec effet au 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+#### Art. 10
+
+**Cycle master**
+
+<sup>1</sup> Il a pour objectif l’acquisition des connaissances spécifiques du domaine d’études permettant la maîtrise de la profession, ainsi que l’étude d’une discipline des sciences humaines et sociales.
+
+<sup>2</sup> La durée du cycle master de 60 crédits ECTS est d’une année, mais ne peut excéder deux ans; celle du cycle de 90 crédits ECTS est d’une année et demie, mais ne peut excéder trois ans.
+
+<sup>3</sup> Le cycle master est réputé réussi par l’acquisition de 60 ou 90 crédits ECTS.
+
+#### Art. 11
+
+**Projet de master**[^11-1]
+
+<sup>1</sup> Le projet de master s’étend sur un semestre et sa réussite permet d’acquérir 30 crédits ECTS.
+
+<sup>2</sup> Le projet de master doit être réussi dans le délai d’un an après la réussite du cycle master ou, le cas échéant, après l’admission conditionnelle (art. 29, al. 3, de l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL[^11-2]).
+
+<sup>3</sup> La réussite du cycle master est la condition pour entamer le projet de master. L’art. 29, al. 3, de l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL est réservé; s’il s’applique, la réussite du projet de master implique la réussite préalable du cycle master.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^11-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+
+## Section 4 Durées de formation
+
+#### Art. 12
+
+**Conditions liées aux durées**[^12-1]
+
+<sup>1</sup> Les crédits requis doivent être acquis dans les durées fixées pour chaque cycle de formation par la présente ordonnance.
+
+<sup>2</sup> En dérogation à l’al. 1, l’école peut prolonger la durée maximale d’un cycle de formation ou accorder une interruption entre deux cycles à un étudiant qui fait valoir un motif valable, notamment une longue maladie, une maternité, une période d’obligation de servir, dès qu’il en a connaissance et avant l’échéance de la durée maximale.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+## Section 5 Autres modalités
+
+#### Art. 13
+
+**Mobilité**
+
+<sup>1</sup> Au titre de la mobilité, l’EPFL peut autoriser les étudiants à étudier un semestre ou un an dans une autre haute école, ou à faire le projet de master dans une autre haute école, dans le secteur public ou dans l’industrie, en restant immatriculés à l’EPFL. Les contrôles des acquis passés avec succès dans une autre haute école sont pris en compte pour autant que le programme d’études ait été préalablement fixé avec le responsable du domaine d’études de l’EPFL.
+
+<sup>2</sup> Les directives de l’école s’appliquent.[^13-1]
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+
+#### Art. 14
+
+**Modification du droit en vigueur**
+
+La modification du droit en vigueur est réglée dans l’annexe II.
+
+#### Art. 15
+
+**Dispositions transitoires**
+
+<sup>1</sup> Le diplôme est décerné jusqu’au 31 décembre 2004.
+
+<sup>2</sup> Les titres de bachelor et de master sont décernés à partir du 1<sup>er</sup> janvier 2005.
+
+#### Art. 16
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 18 octobre 2004, à l’exception de l’al. 2.
+
+<sup>2</sup> L’annexe II entre en vigueur le 1<sup>er</sup> janvier 2005.
+
+Annexe I*[^t-1]*
+
+(art. 3, al. 5)
+
+## Titres et désignations professionnelles
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 31 juil. 2019, en vigueur depuis le 1<sup>er</sup> sept. 2019 ([RO 2019 2479](https://fedlex.data.admin.ch/eli/oc/2019/462)).
+
+<table>
+<tr><th>Bachelor et master</th><th>Sections / Domaines</th><th>Désignation professionnelle accompagnant le master</th></tr>
+<tr><td>Bachelor of Science BSc</td><td>Architecture Architecture</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Architecture Architecture</td><td>Architecte (arch. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Génie civil Civil Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Génie civil Civil Engineering</td><td>Ingénieur civil (ing. civ. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Sciences et ingénierie de l’environnement Environmental Sciences and Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Sciences et ingénierie de l’environnement Environmental Sciences and Engineering</td><td>Ingénieur en environnement (ing. env. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Chimie et génie chimique Chemistry and Chemical Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Chimie moléculaire et biologique Molecular and Biological Chemistry</td><td>Chimiste (chim. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Génie chimique et biotechnologie Chemical Engineering and Biotechnology</td><td>Ingénieur chimiste (ing. chim. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Mathématiques Mathematics</td><td></td></tr>
+<tr><td>Master of Science MSc\*</td><td>Mathématiques Mathematics</td><td>Mathématicien (math. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Ingénierie mathématique Applied Mathematics</td><td>Ingénieur mathématicien (ing. math. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – HEP Vaud\*\*</td><td>Mathématiques pour l’enseignement Mathematics for education</td><td>Mathématicien pour l’enseignement (math. ens. dipl. EPF-HEP)</td></tr>
+<tr><td>Master of Science MSc</td><td>Science et ingénierie computationnelles Computational Science and Engineering</td><td>Ingénieur en sciences computationnelles (ing. sc. comput. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Physique Physics</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Physique Physics</td><td>Physicien (phys. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Ingénierie physique Applied Physics</td><td>Ingénieur physicien (ing. phys. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Génie nucléaire Nuclear Engineering</td><td>Ingénieur en génie nucléaire (ing. nucl. dipl. EPF-ETH)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Génie électrique et électronique Electrical and Electronic Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc\*\*\*</td><td>Génie électrique et électronique Electrical and Electronic Engineering</td><td>Ingénieur électricien (ing. él. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc\*\*</td><td>Gestion de l’énergie et durabilité Energy management and Sustainability</td><td>Ingénieur en gestion de l’énergie et durabilité (ing. ener. manag. sust. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Science et technologie de l’énergie Energy Science and Technology</td><td>Ingénieur en énergie (ing. ener. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Génie mécanique Mechanical Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Génie mécanique Mechanical Engineering</td><td>Ingénieur mécanicien (ing. méc. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Microtechnique Microengineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Microtechnique Microengineering</td><td>Ingénieur en microtechnique (ing. microtechn. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Robotique Robotics</td><td>Ingénieur en robotique (ing. robot. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Science et génie des matériaux Materials Science and Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Science et génie des matériaux Materials Science and Engineering</td><td>Ingénieur en science des matériaux (ing. sc. mat. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Informatique Computer Science</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Informatique Computer Science</td><td>Ingénieur informaticien (ing. info. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Informatique – Cybersécurité Computer Science – Cyber Security</td><td>Ingénieur en cybersécurité (ing. cybersec. dipl. EPF‑ETH)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Systèmes de communication Communication Systems</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Systèmes de communication Communication Systems</td><td>Ingénieur en systèmes de communication (ing. sys. com. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Data Science</td><td>Ingénieur en Data Science (ing. data sc. dipl. EPF)</td></tr>
+<tr><td>Bachelor of Science BSc</td><td>Ingénierie des sciences du vivant Life Sciences Engineering</td><td></td></tr>
+<tr><td>Master of Science MSc</td><td>Ingénierie des sciences du vivant Life Sciences Engineering</td><td>Ingénieur en sciences du vivant (ing. sc. viv. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc\*\*</td><td>Sciences et technologies du vivant Life Sciences and Technology</td><td>Ingénieur en sciences et technologies du vivant (ing. sc. technol. viv. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc\*\*</td><td>Bioingénierie Bioengineering</td><td>Ingénieur en bioingénierie (ing. bioing. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Ingénierie financière Financial Engineering</td><td>Ingénieur en sciences financières (ing. fin. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Management, technologie et entrepreneuriat Management, Technology and Entrepreneurship</td><td>Ingénieur en management, technologie et entrepreneuriat (ing. manag. techn. entrepr. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Humanités digitales Digital Humanities</td><td>Ingénieur en humanités digitales (ing. hum. digit. dipl. EPF)</td></tr>
+<tr><td colspan="3">\* master comportant 90 crédits ECTS (cycle master à 60 crédits), les autres comportant 120 crédits (cycle master à 90 crédits) \*\* master prenant fin et n’admettant plus de nouveaux candidats \*\*\* master offrant également une voie de formation spécialisée en Micro- and Nanotechnologies in Integrated Systems, aboutissant à un master of science en Génie électrique et électronique décerné en commun avec le Politecnico di Torino et l’Institut polytechnique de Grenoble</td></tr>
+</table>
+
+Annexe II
+
+(art. 14)
+
+## Modification du droit en vigueur
+
+Les ordonnances mentionnées ci-après sont modifiées comme suit:
+
+…[^annexII-lvlu1-1]
+
+[^annexII-lvlu1-1]: Les mod. peuvent être consultées au [RO 2004 4335](https://fedlex.data.admin.ch/eli/oc/2004/653).

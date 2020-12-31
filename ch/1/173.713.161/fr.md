@@ -1,0 +1,399 @@
+---
+sr: "173.713.161"
+title: "Règlement du 31 août 2010 sur l'organisation du Tribunal pénal fédéral (Règlement sur l'organisation du TPF, ROTPF)"
+short: ROTPF
+eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
+language: fr
+version: 2019-07-01
+adopted: 2010-08-31
+in_force: 2011-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20190701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20190701/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Règlement sur l’organisation du Tribunal pénal fédéral
+
+(Règlement sur l’organisation du TPF, ROTPF)
+
+du 31 août 2010 (Etat le 1<sup>er</sup> juillet 2019)
+
+Le Tribunal pénal fédéral (TPF),
+
+vu les art. 51 et 53, al. 2, let. a, de la loi du 19 mars 2010 sur l’organisation des autorités pénales (LOAP)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+
+## Titre 1 Organisation
+
+### Chapitre 1 Administration du tribunal
+
+### Section 1 Cour plénière
+
+#### Art. 1
+
+**Composition de la Cour plénière**
+
+La composition de la Cour plénière est réglée par l’art. 53, al. 1, LOAP.
+
+#### Art. 2
+
+**Tâches de la Cour plénière**
+
+<sup>1</sup> La Cour plénière accomplit les tâches qui lui incombent en vertu de l’art. 53, al. 2, LOAP.
+
+<sup>2</sup>
+
+Relèvent également de sa compétence:
+
+- a. la prestation de serment ou la promesse solennelle des juges avant leur entrée en fonctions (art. 47, al. 2, LOAP);
+- b.[^2-1] …
+- c. l’élection de trois autres juges au plus en tant que membres de la Commission administrative au sens de l’art. 54, al. 3, LOAP.
+
+<sup>3</sup> Tout membre du tribunal peut demander au président, en indiquant l’objet, la convocation de la Cour plénière.
+
+[^2-1]: Abrogée par le ch. I de l’O du TPF du 3 juin 2019, avec effet au 1<sup>er</sup> juil. 2019 ([RO 2019 1807](https://fedlex.data.admin.ch/eli/oc/2019/335); FF ).
+
+#### Art. 3
+
+**Vote**[^3-1]
+
+<sup>1</sup> La Cour plénière statue, prend ses décisions et procède aux nominations selon les art. 53, al. 3 et 4, et 57 LOAP à main levée.
+
+<sup>2</sup> Lorsque la Cour plénière procède en séance à une nomination, ses membres votent à bulletin secret si une majorité de ses membres le demande.
+
+<sup>3</sup> En complément à l’art. 53, al. 3, LOAP, une décision par voie de circulation est exclue pour les nominations ou lorsque un juge ou le secrétaire général exige qu’une affaire soit délibérée oralement.
+
+<sup>4</sup> Le secrétaire général participe aux séances de la Cour plénière avec voix consultative et tient le procès-verbal. Avec l’accord de la présidence, une autre personne peut être chargée de la tenue du procès-verbal.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 avr. 2015, en vigueur depuis le 30 avr. 2015 ([RO 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+
+#### Art. 3a
+
+**Préparation des nominations et de la constitution des cours**[^3a-1]
+
+<sup>1</sup> La Commission administrative fixe un délai pour les candidatures en vue de l’affectation à une cour, à la présidence des cours, à la Commission administrative et pour la pproposition à l’Assemblée fédérale. Une candidature est traitée sur un pied d’égalité qu’une proposition faite par un autre membre du tribunal.
+
+<sup>2</sup> Les candidatures annoncées sont immédiatement portées à la connaissance de la Cour plénière. Une candidature est possible jusqu’à la séance plénière préparatoire des juges au sens de l’al. 4.
+
+<sup>3</sup> La Commission administrative élabore une proposition pour la constitution des cours, leur président et leur vice-président.[^3a-2]
+
+<sup>4</sup> La Commission administrative convoque une séance plénière préparatoire des juges en vue d’une discussion ouverte sur les candidatures et sur sa proposition. Celle-ci peut être modifiée jusqu’à dix jours avant la séance lors de laquelle auront lieu les nominations.
+
+<sup>5</sup> Pour la constitution des cours, chaque membre du tribunal peut présenter une proposition alternative complète jusqu’à cinq jours avant la séance prévue pour la nomination.
+
+[^3a-1]: Introduit par le ch. I de l’O du TPF du 21 avr. 2015, en vigueur depuis le 30 avr. 2015 ([RO 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3a-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+
+#### Art. 3b
+
+**Déroulement de la procédure de nomination et de constitution des cours**[^3b-1]
+
+<sup>1</sup> Si, lors du premier tour de scrutin, aucun candidat n’atteint la majorité absolue des bulletins valides, des tours ont lieu jusqu’à ce qu’il ne reste plus que deux candidats en lice, le candidat ayant obtenu le moins de voix étant exclu à chaque tour.
+
+<sup>2</sup> En cas d’égalité des voix, un second tour a lieu. En cas de nouvelle égalité, le sort en décide ou les deux candidats restés en lice sont proposés à l’Assemblée fédérale.
+
+<sup>3</sup> S’il existe des propositions alternatives pour la composition des cours, celles-ci sont soumises au vote. La proposition de la Commission administrative et la proposition alternative qui a recueilli le plus de voix sont soumises au vote du plenum.
+
+[^3b-1]: Introduit par le ch. I de l’O du TPF du 21 avr. 2015, en vigueur depuis le 30 avr. 2015 ([RO 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+
+### Section 2 Commission administrative
+
+#### Art. 4
+
+**Composition de la Commission administrative**
+
+<sup>1</sup> La composition de la Commission administrative est réglée par l’art. 54, al. 1, LOAP.
+
+<sup>2</sup> En cas d’empêchement ou de récusation d’un membre de la Commission administrative, son remplacement est réglé par l’art. 52, al. 4, LOAP.
+
+<sup>3</sup> Le président du Tribunal pénal fédéral, ou son remplaçant au sens de l’art. 52, al. 3 et 4, LOAP, préside la Commission administrative.
+
+<sup>4</sup> Le secrétaire général participe aux séances de la Commission administrative avec voix consultative (art. 54, al. 2, LOAP).
+
+#### Art. 5
+
+**Tâches de la Commission administrative**
+
+<sup>1</sup> La Commission administrative accomplit les tâches qui lui incombent en vertu de l’art. 54, al. 4, LOAP.
+
+<sup>2</sup>
+
+La Commission administrative est également chargée:
+
+- a.[^5-1] de proposer à la Cour plénière de constituer les cours et de nommer leurs présidents et vice-présidents, de même que d’affecter les juges suppléants (sous réserve de l’art. 42, al. 1<sup>bis</sup>, LOAP) et de nommer le secrétaire général et son suppléant (art. 53, al. 2, let. e, f et g, LOAP);
+- b.[^5-2] d’engager les chefs des services et de résilier leurs rapports de travail (art. 54, al. 4, LOAP) à la demande du secrétariat général;
+- c. de régler toutes les affaires de personnel des membres du tribunal et des employés à moins que cette attribution ne soit déléguée à la présidence ou au secrétariat général;
+- d. d’exercer la surveillance sur le secrétariat général;
+- e. de traiter les recours pour lesquels elle a été désignée comme autorité de recours;
+- f. d’assumer les devoirs de dénonciation à l’égard d’autres autorités;
+- g. de traiter toute autre affaire que la loi ou le présent règlement ne confie pas à un autre organe.
+
+<sup>3</sup> La Commission administrative peut confier le règlement de certaines affaires au président ou au secrétariat général.
+
+<sup>4</sup> Tout membre de la Commission administrative ou le secrétaire général peut demander au président, en indiquant l’objet, la convocation de la Commission administrative.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 avr. 2015, en vigueur depuis le 30 avr. 2015 ([RO 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+
+#### Art. 6
+
+**Décisions de la Commission administrative**
+
+<sup>1</sup> La Commission administrative ne peut prendre des décisions en séance ou par voie de circulation que moyennant la participation d’au moins trois de ses membres.
+
+<sup>2</sup> La Commission administrative prend ses décisions, selon l’art. 57, al. 1, LOAP, à la majorité absolue des voix. En cas d’égalité des voix, celle du président est prépondérante; s’il s’agit d’une nomination ou d’un engagement, le sort en décide (art. 57, al. 2, LOAP).
+
+<sup>3</sup> Le secrétaire général tient le procès-verbal; avec l’accord de la présidence, une autre personne peut être chargée de la tenue du procès-verbal.
+
+### Section 3 Présidence du tribunal
+
+#### Art. 7
+
+**Election de la présidence**
+
+L’élection de la présidence et son remplacement sont réglés par l’art. 52, al. 1 et 2, LOAP.
+
+#### Art. 8
+
+**Tâches de la présidence**
+
+<sup>1</sup>
+
+Il incombe au président du tribunal:
+
+- a. de représenter le tribunal à l’extérieur;
+- b. de présider la Cour plénière et la Commission administrative (art. 52, al. 3, LOAP);
+- c. de convoquer la Cour plénière et la Commission administrative et de décider du recours à la procédure par voie de circulation;
+- d. de régler les affaires qui lui ont été déléguées par la Commission administrative.
+
+<sup>2</sup> Le droit de signature est réglé par l’art. 11.
+
+### Section 4 Secrétariat général
+
+#### Art. 9
+
+**Nomination du secrétaire général**
+
+Sur proposition de la Commission administrative, la Cour plénière est chargée de nommer le secrétaire général et son suppléant (art. 53, al. 2, let. g, LOAP).
+
+#### Art. 10
+
+**Tâches du secrétariat général**
+
+<sup>1</sup> Le secrétaire général dirige l’administration du tribunal, y compris les services scientifiques. Il assure le secrétariat de la Cour plénière et de la Commission administrative (art. 61 LOAP).
+
+<sup>2</sup>
+
+Le secrétaire général est en particulier chargé:
+
+- a. d’organiser les services et la chancellerie;
+- b. d’assurer l’exécution des décisions arrêtées par la Cour plénière et par la Commission administrative;
+- c. d’organiser le contrôle de gestion des causes par la chancellerie, après entente avec les présidents des cours;
+- d. de gérer l’information et les relations publiques selon le règlement sur l’information, et d’après les instructions du président; dans les procédures pendantes, le président de la cour concernée est consulté;
+- e. de régler les affaires qui lui ont été déléguées par la Commission administrative;
+- f.[^10-1] d’engager le personnel administratif selon le plan des postes décidé par la Commission administrative et de résilier les rapports de travail du personnel administratif, à l’exception des chefs des services.
+
+<sup>2bis</sup> Le secrétariat général assure que l’organisation de la gestion des causes garantisse une séparation complète entre les cours, notamment au niveau informatique.[^10-2]
+
+<sup>3</sup> La Commission administrative peut déléguer certaines tâches au suppléant du secrétaire général.
+
+[^10-1]: Introduite par le ch. I de l’O du TPF du 21 avr. 2015, en vigueur depuis le 30 avr. 2015 ([RO 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^10-2]: Introduit par le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+
+#### Art. 11
+
+**Signatures**
+
+<sup>1</sup> Pour les affaires qui ressortissent à la Cour plénière ou à la Commission administrative, le président et le secrétaire général signent collectivement.
+
+<sup>2</sup> Pour les affaires qui ressortissent exclusivement au président, celui-ci signe seul.
+
+<sup>3</sup> Pour les autres affaires d’ordre administratif, le secrétaire général signe seul. Il en va de même de son suppléant pour les tâches qui lui sont attribuées.
+
+### Chapitre 2 Cours
+
+### Section 1 Dispositions générales
+
+#### Art. 12
+
+**Les cours du Tribunal pénal fédéral**
+
+Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
+
+- a. d’une ou de plusieurs cours des affaires pénales;
+- b. d’une ou de plusieurs cours des plaintes;
+- c.[^12-1] d’une Cour d’appel.
+
+[^12-1]: Introduite par le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+
+#### Art. 13
+
+**Composition des cours**[^13-1]
+
+<sup>1</sup> Les cours se composent des juges qui leur ont été affectés par la Cour plénière (art. 53, al. 2, let. e, LOAP), sous réserve de l’art. 42, al. 1<sup>bis</sup>, LOAP.
+
+<sup>2</sup> Des juges suppléants peuvent être affectés aux cours en vertu des art. 41, al. 2, et 53, al. 2, let. f, LOAP, sous réserve des art. 41, al. 2<sup>bis</sup>,et 42, al. 1<sup>bis</sup>, LOAP.
+
+<sup>3</sup> Tout juge des cours des affaires pénales ou des cours de plaintes peut être appelé à siéger dans une autre de ces cours (art. 55, al. 3, 1<sup>re</sup> phrase LOAP); il est fait appel en premier lieu aux juges suppléants.
+
+<sup>4</sup> En cas de nécessité, et uniquement si aucun juge suppléant ne peut siéger dans l’une ou l’autre cour, les juges des cours des plaintes prêtent leur concours à la cour d’appel (art. 55, al. 3, 2<sup>e</sup> phrase LOAP).
+
+<sup>5</sup> En cas de divergence au sujet du concours d’un juge à une cour autre que celle à laquelle il est affecté, les présidents des cours concernées peuvent demander à la commission administrative de régler leur différend. Le juge concerné est entendu.
+
+<sup>6</sup> Les motifs de récusation prévus à l’art. 56 du code de procédure pénale (CPP)[^13-2] demeurent réservés.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^13-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 14
+
+**Présidence des cours**[^14-1]
+
+<sup>1</sup> La présidence des cours est réglée par l’art. 56 LOAP.
+
+<sup>2</sup> Le remplacement au sein de la présidence des cours est régi par l’art. 56, al. 2, LOAP.
+
+<sup>3</sup> Les fonctions attribuées par le CPP[^14-2] au «président du tribunal» sont assumées par le président de la cour concernée; celui-ci peut les déléguer au président de la cour appelée à statuer.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^14-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 15
+
+**Composition des cours appelées à statuer et répartition des affaires**
+
+<sup>1</sup> Les présidents des cours répartissent les affaires et constituent les cours appelées à statuer.
+
+<sup>2</sup> Lors de la répartition des affaires et de la constitution des cours appelées à statuer, les présidents des cours tiennent compte notamment des critères suivants: langue de l’affaire, taux d’occupation des juges et charge de travail occasionnée par leur participation à des organes du tribunal, aptitude professionnelle, participation à de précédentes décisions dans le même domaine, connexité avec d’autres cas, absences.
+
+<sup>3</sup> Le président de la cour peut désigner un juge unique, ainsi que le président d’une composition à trois juges, et lui confier l’instruction de la procédure et les fonctions présidentielles.
+
+<sup>4</sup> Les présidents des cours sont compétents pour accorder l’entraide administrative ou judiciaire à d’autres autorités, en tant que cette dernière a trait à une procédure pendante par devant eux.
+
+#### Art. 16
+
+**Greffiers**
+
+<sup>1</sup> Les greffiers accomplissent les tâches qui leur incombent en vertu des l’art. 59, al. 1 et 2, LOAP et des art. 335, al. 1, et 348, al. 2, CPP[^16-1].
+
+<sup>2</sup> Ils remplissent les autres tâches qui leur sont confiées par le président de la cour à laquelle ils sont rattachés ou par la Commission administrative (art. 59, al. 3, LOAP), laquelle aura en règle générale consulté ce dernier au préalable.
+
+[^16-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 17
+
+**Approbation et signature des arrêts**
+
+<sup>1</sup> Les membres de la composition décident si la version finale d’un arrêt est approuvée.
+
+<sup>2</sup> Les arrêts rendus par les cours sont signés par le président de la composition et par le greffier. Si l’un ou l’autre est empêché, l’arrêt est signé par un autre membre du tribunal , respectivement un autre greffier.[^17-1]
+
+<sup>3</sup> Les autres prononcés sont signés par le juge responsable et, le cas échéant, par le greffier qui a participé à la décision. En cas d’empêchement, le prononcé est signé par le président de la cour ou par un membre du tribunal qui le remplace; dans les causes soumises à un juge unique, le greffier en charge peut être remplacé par un autre greffier.
+
+[^17-1]: Erratum du 18 oct. 2016 ([RO 2016 3535](https://fedlex.data.admin.ch/eli/oc/2016/593)).
+
+### Section 2 Cour des affaires pénales****
+
+[^tit1-chap2-sec2-1]
+
+[^tit1-chap2-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+
+#### Art. 18
+
+**…[^18-1]**
+
+<sup>1</sup> La Cour des affaires pénales accomplit les tâches qui lui incombent en vertu de l’art. 35 LOAP ou d’autres lois fédérales.[^18-2]
+
+<sup>2</sup> La Cour des affaires pénales statue à un juge unique ou à trois juges conformément à l’art. 36 LOAP.
+
+<sup>3</sup> Une décision rendue hors débats ou en l’absence de débats, peut être prononcée par voie de circulation lorsqu’elle est prise à l’unanimité et que ni un juge, ni le greffier de la composition n’a requis de délibération.
+
+[^18-1]: Abrogé par le ch. I de l’O du TPF du 21 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+
+### Section 3 Tâches de la Cour des plaintes ****
+
+[^tit1-chap2-sec3-1]
+
+[^tit1-chap2-sec3-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+
+#### Art. 19
+
+**…[^19-1]**
+
+<sup>1</sup> La Cour des plaintes accomplit les tâches qui lui incombent en vertu des art. 37 et 65, al. 3, LOAP ou d’autres lois fédérales.[^19-2]
+
+<sup>2</sup> ...[^19-3]
+
+<sup>3</sup> La Cour des plaintes statue à trois juges sauf si la direction de la procédure est compétente (art. 395 CPP[^19-4] et 38 LOAP). Elle peut statuer par voie de circulation s’il y a unanimité et que ni un juge, ni le greffier de la composition n’a requis de délibération.
+
+[^19-1]: Abrogé par le ch. I de l’O du TPF du 21 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+[^19-3]: Abrogé par le ch. I de l’O du 23 août 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+[^19-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+### Section 4**** Tâches de la Cour d’appel
+
+[^tit1-chap2-sec4-1]
+
+[^tit1-chap2-sec4-1]: Introduite par le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+
+#### Art. 19a
+
+<sup>1</sup> La Cour d’appel statue sur les appels et les demandes de révision (art. 38*a* LOAP).
+
+<sup>2</sup> Elle statue à trois juges, sauf si la loi en attribue la compétence à la direction de la procédure (art. 38*b* LOAP).
+
+<sup>3</sup> Une décision rendue hors débats ou en absence de débats, peut être prononcée par voie de circulation si elle est prise à l’unanimité et que ni un juge, ni le greffier de la cour appelée à statuer n’a requis de délibération.
+
+## Titre 2 Fonctionnement du tribunal
+
+#### Art. 20
+
+**Discipline au cours des séances**
+
+La direction des séances adopte des mesures organisationnelles et veille au respect de la discipline au cours des séances et des débats.
+
+#### Art. 21
+
+**Tenue vestimentaire**
+
+Les membres du tribunal, les greffiers et les représentants des parties portent une tenue vestimentaire sombre et décente lorsqu’ils participent aux audiences publiques du tribunal.
+
+## Titre 3 Dispositions finales
+
+#### Art. 22
+
+**Publicité de l’administration de la justice**
+
+<sup>1</sup> L’ordonnance du 24 mai 2006 sur la transparence[^22-1] est applicable par analogie conformément à l’art. 64 LOAP.
+
+<sup>2</sup> Le secrétaire général peut autoriser l’accès à des documents relatifs à l’administration de la justice, conformément à la loi du 17 décembre 2004 sur la transparence[^22-2]. Les requêtes doivent en principe être formées par écrit. L’accès autorisé fait l’objet d’une note qui doit être signée par le requérant.
+
+<sup>3</sup> S’il entend limiter, différer ou refuser l’accès, le secrétaire général notifie au requérant une décision sujette à recours au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^22-3]. Il n’y a pas de procédure de conciliation. La possibilité de recourir s’apprécie selon les art. 82 à 89 de la loi du 17 juin 2005 sur le Tribunal fédéral[^22-4].
+
+<sup>4</sup> Les dispositions du règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral[^22-5] sont applicables. Pour les situations non prévues par ce règlement, les émoluments sont calculés selon le tarif annexé à l’ordonnance du 24 mai 2006 sur la transparence.
+
+[^22-1]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
+[^22-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^22-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^22-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+
+#### Art. 23
+
+**Abrogation du droit en vigueur**
+
+Le règlement du 20 juin 2006 du Tribunal pénal fédéral[^23-1] est abrogé.
+
+[^23-1]: [[RO 2006 4459](https://fedlex.data.admin.ch/eli/oc/2006/685), [2008 2115](https://fedlex.data.admin.ch/eli/oc/2008/304)]
+
+#### Art. 24
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2011.
